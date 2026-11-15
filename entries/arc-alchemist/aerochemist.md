@@ -73,13 +73,13 @@ rolls made with thrown weapons against targets that are at least 10 feet below h
 
 **Replaces:** Poison use, swift alchemy
 
-At 6th level: This bonus +2.
+At 6th level: This bonus increases to +2.
 
-At 10th level: This bonus +3.
+At 10th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Aerodynamic Prowess (Su)**
 

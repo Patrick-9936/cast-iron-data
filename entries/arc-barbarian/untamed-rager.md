@@ -59,10 +59,10 @@ tricks and to her CMD to resist others' dirty tricks.
 
 **Replaces:** [Damage reduction](ref/rule/damage-reduction)
 
-At 10th level: The bonus +2.
+At 10th level: The bonus increases to +2.
 
-At 13th level: The bonus +3.
+At 13th level: The bonus increases to +3.
 
-At 16th level: The bonus +4.
+At 16th level: The bonus increases to +4.
 
-At 19th level: The bonus +5.
+At 19th level: The bonus increases to +5.

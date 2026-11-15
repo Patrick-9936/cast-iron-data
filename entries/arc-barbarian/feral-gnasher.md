@@ -102,13 +102,13 @@ attacks or improvised weapons while _raging._
 
 **Special:** This increase is not precision damage and is thus multiplied on a critical hit.
 
-At 14th level: The bonus +2.
+At 14th level: The bonus increases to +2.
 
-At 16th level: The bonus +3.
+At 16th level: The bonus increases to +3.
 
-At 18th level: The bonus +4.
+At 18th level: The bonus increases to +4.
 
-At 20th level: The bonus +5.
+At 20th level: The bonus increases to +5.
 
 **Rage Powers:** The following rage powers complement the feral gnasher archetype:
 [increased damage reduction](ref/ragepower/increased-damage-reduction),

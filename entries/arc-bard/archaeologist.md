@@ -44,11 +44,11 @@ otherwise prevented from taking a free action to maintain it each round.
 
 **Usage:** Cha4 modifier rounds/day
 
-At 7th level: The bonus +2.
+At 5th level: The bonus increases to +2.
 
-At 13th level: The bonus +3.
+At 11th level: The bonus increases to +3.
 
-At 19th level: The bonus +4.
+At 17th level: The bonus increases to +4.
 
 **Clever Explorer (Ex)**
 

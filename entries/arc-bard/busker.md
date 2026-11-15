@@ -52,11 +52,11 @@ base attack bonus as if from _[haste](ref/spell/haste)._
 dodge bonus to AC and on Reflex saves, and a +1 bonus on attack rolls as if from
 [haste](ref/spell/haste).
 
-At 7th level: This bonus +2.
+At 5th level: This bonus increases to +2.
 
-At 13th level: This bonus +3.
+At 11th level: This bonus increases to +3.
 
-At 19th level: This bonus +4.
+At 17th level: This bonus increases to +4.
 
 **Patter (Su)**
 
