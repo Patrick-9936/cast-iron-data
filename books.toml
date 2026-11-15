@@ -30380,34 +30380,6 @@ title = "Wyvern Poison"
 entry = "ref/eq-poison/wyvern-poison"
 
 [[books.chapters.children]]
-title = "Dwarf"
-entry = "ref/race/dwarf"
-
-[[books.chapters.children]]
-title = "Elf"
-entry = "ref/race/elf"
-
-[[books.chapters.children]]
-title = "Gnome"
-entry = "ref/race/gnome"
-
-[[books.chapters.children]]
-title = "Half-Elf"
-entry = "ref/race/half-elf"
-
-[[books.chapters.children]]
-title = "Halfling"
-entry = "ref/race/halfling"
-
-[[books.chapters.children]]
-title = "Half-Orc"
-entry = "ref/race/half-orc"
-
-[[books.chapters.children]]
-title = "Human"
-entry = "ref/race/human"
-
-[[books.chapters.children]]
 title = "Aberrant"
 entry = "ref/sorcbloodline/aberrant"
 
