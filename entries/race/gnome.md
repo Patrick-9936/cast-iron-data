@@ -9,11 +9,11 @@ provenance = [
   { dataset = "pathfinder-data-1-e", record = "gnome", path = "json/races3.json" },
 ]
 [[sources]]
-publication = "inner-sea-races"
-page = "237"
-[[sources]]
 publication = "core-rulebook"
 page = "23"
+[[sources]]
+publication = "inner-sea-races"
+page = "237"
 [[sources]]
 publication = "advanced-race-guide"
 page = "30"
@@ -141,7 +141,7 @@ conflicts.
 
 **Female Names:** Besh, Fijit, Lini, Majet, Neji, Pai, Queck, Trig.
 
-### Gnome Racial Traits
+### Gnome Racial Traits {#gnome-racial-traits}
 
 - [Attributes](ref/racial-trait/gnome/attributes)
 - [Small](ref/racial-trait/gnome/small)

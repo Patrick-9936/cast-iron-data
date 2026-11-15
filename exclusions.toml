@@ -55485,3 +55485,31 @@ reason = "duplicate of ref/carried/ultimate-magic/rules/words-of-power/words-of-
 [[rejected]]
 path = "ref/carried/ultimate-magic/monsters/new-familiars/small-and-vermin-familiars/familiar/turtle"
 reason = "duplicate of ref/monster/turtle"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/dwarves"
+reason = "duplicate of ref/race/dwarf"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/elves"
+reason = "duplicate of ref/race/elf"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/gnomes"
+reason = "duplicate of ref/race/gnome"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/half-elves"
+reason = "duplicate of ref/race/half-elf"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/half-orcs"
+reason = "duplicate of ref/race/half-orc"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/halflings"
+reason = "duplicate of ref/race/halfling"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/humans"
+reason = "duplicate of ref/race/human"

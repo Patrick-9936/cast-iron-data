@@ -9,7 +9,7 @@ provenance = [
   { dataset = "psrd-data", record = "pfsrd://Advanced Players Guide/Rules/Races/Elves/Alternate Racial Traits/Woodcraft", path = "advanced_players_guide/racial_trait/elf/woodcraft.json" },
 ]
 relations = [
-  { kind = "part", target = "ref/carried/core-rulebook/races/elves", label = "alternate" },
+  { kind = "part", target = "ref/race/elf", label = "alternate" },
 ]
 
 [fields]

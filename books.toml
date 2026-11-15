@@ -21708,7 +21708,7 @@ title = "Races"
 
 [[books.chapters.children]]
 title = "Dwarves"
-entry = "ref/carried/core-rulebook/races/dwarves"
+entry = "ref/race/dwarf"
 
 [[books.chapters.children.children]]
 title = "Dwarf Racial Traits"
@@ -21764,7 +21764,7 @@ entry = "ref/racial-trait/dwarf/languages"
 
 [[books.chapters.children]]
 title = "Elves"
-entry = "ref/carried/core-rulebook/races/elves"
+entry = "ref/race/elf"
 
 [[books.chapters.children.children]]
 title = "Elf Racial Traits"
@@ -21808,7 +21808,7 @@ entry = "ref/racial-trait/elf/languages"
 
 [[books.chapters.children]]
 title = "Gnomes"
-entry = "ref/carried/core-rulebook/races/gnomes"
+entry = "ref/race/gnome"
 
 [[books.chapters.children.children]]
 title = "Gnome Racial Traits"
@@ -21864,7 +21864,7 @@ entry = "ref/racial-trait/gnome/languages"
 
 [[books.chapters.children]]
 title = "Half-Elves"
-entry = "ref/carried/core-rulebook/races/half-elves"
+entry = "ref/race/half-elf"
 
 [[books.chapters.children.children]]
 title = "Half-Elf Racial Traits"
@@ -21912,7 +21912,7 @@ entry = "ref/racial-trait/half-elf/languages"
 
 [[books.chapters.children]]
 title = "Half-Orcs"
-entry = "ref/carried/core-rulebook/races/half-orcs"
+entry = "ref/race/half-orc"
 
 [[books.chapters.children.children]]
 title = "Half-Orc Racial Traits"
@@ -21956,7 +21956,7 @@ entry = "ref/racial-trait/half-orc/languages"
 
 [[books.chapters.children]]
 title = "Halflings"
-entry = "ref/carried/core-rulebook/races/halflings"
+entry = "ref/race/halfling"
 
 [[books.chapters.children.children]]
 title = "Halfling Racial Traits"
@@ -22000,7 +22000,7 @@ entry = "ref/racial-trait/halfling/languages"
 
 [[books.chapters.children]]
 title = "Humans"
-entry = "ref/carried/core-rulebook/races/humans"
+entry = "ref/race/human"
 
 [[books.chapters.children.children]]
 title = "Human Racial Traits"

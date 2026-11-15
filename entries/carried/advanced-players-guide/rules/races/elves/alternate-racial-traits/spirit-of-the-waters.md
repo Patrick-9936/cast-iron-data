@@ -9,7 +9,7 @@ provenance = [
   { dataset = "psrd-data", record = "pfsrd://Advanced Players Guide/Rules/Races/Elves/Alternate Racial Traits/Spirit of the Waters", path = "advanced_players_guide/racial_trait/elf/spirit_of_the_waters.json" },
 ]
 relations = [
-  { kind = "part", target = "ref/carried/core-rulebook/races/elves", label = "alternate" },
+  { kind = "part", target = "ref/race/elf", label = "alternate" },
 ]
 
 [fields]

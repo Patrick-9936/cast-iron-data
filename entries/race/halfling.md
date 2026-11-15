@@ -9,11 +9,11 @@ provenance = [
   { dataset = "pathfinder-data-1-e", record = "halfling", path = "json/races2.json" },
 ]
 [[sources]]
-publication = "inner-sea-races"
-page = "238"
-[[sources]]
 publication = "core-rulebook"
 page = "26"
+[[sources]]
+publication = "inner-sea-races"
+page = "238"
 [[sources]]
 publication = "advanced-race-guide"
 page = "60"
@@ -125,7 +125,7 @@ suspect that halflings deliberately spread these reports for just that reason.
 
 **Female Names:** Anafa, Bellis, Etune, Filiu, Irlana, Marra, Pressi, Rilka, Sistra, Wyssal, Yamyra.
 
-### Halfling Racial Traits
+### Halfling Racial Traits {#halfling-racial-traits}
 
 - [Attributes](ref/racial-trait/halfling/attributes)
 - [Small](ref/racial-trait/halfling/small)

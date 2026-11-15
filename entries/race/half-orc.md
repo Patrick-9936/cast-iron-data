@@ -9,14 +9,14 @@ provenance = [
   { dataset = "pathfinder-data-1-e", record = "half_orc", path = "json/races2.json" },
 ]
 [[sources]]
+publication = "core-rulebook"
+page = "25"
+[[sources]]
 publication = "inner-sea-races"
 page = "237"
 [[sources]]
 publication = "advanced-race-guide"
 page = "50"
-[[sources]]
-publication = "core-rulebook"
-page = "25"
 
 [fields]
 kind = "none"
@@ -136,7 +136,7 @@ money required to become a wizard.
 
 **Female Names:** Canan, Drogheda, Goruza, Mazon, Shirish, Tevaga, Zeljka.
 
-### Half-Orc Racial Traits
+### Half-Orc Racial Traits {#half-orc-racial-traits}
 
 - [Attributes](ref/racial-trait/half-orc/attributes)
 - [Medium](ref/racial-trait/half-orc/medium)

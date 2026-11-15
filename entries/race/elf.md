@@ -9,14 +9,14 @@ provenance = [
   { dataset = "pathfinder-data-1-e", record = "elf", path = "json/races.json" },
 ]
 [[sources]]
+publication = "core-rulebook"
+page = "22"
+[[sources]]
 publication = "inner-sea-races"
 page = "236"
 [[sources]]
 publication = "advanced-race-guide"
 page = "20"
-[[sources]]
-publication = "core-rulebook"
-page = "22"
 
 [fields]
 kind = "none"
@@ -126,7 +126,7 @@ pursue classes such as wizards and rangers.
 **Female Names:** Amrunelara, Dardlara, Faunra, Jathal, Merisiel, Oparal, Soumral, Tessara,
 Yalandlara.
 
-### Elf Racial Traits
+### Elf Racial Traits {#elf-racial-traits}
 
 - [Attributes](ref/racial-trait/elf/attributes)
 - [Medium](ref/racial-trait/elf/medium)

@@ -9,11 +9,11 @@ provenance = [
   { dataset = "pathfinder-data-1-e", record = "dwarf", path = "json/races.json" },
 ]
 [[sources]]
-publication = "inner-sea-races"
-page = "236"
-[[sources]]
 publication = "core-rulebook"
 page = "21"
+[[sources]]
+publication = "inner-sea-races"
+page = "236"
 [[sources]]
 publication = "advanced-race-guide"
 page = "10"
@@ -102,7 +102,7 @@ melee combat, and as such most dwarves tend toward classes such as fighters and 
 
 **Female Names:** Agna, Bodill, Ingra, Kotri, Rusilka, Yangrit.
 
-### Dwarf Racial Traits
+### Dwarf Racial Traits {#dwarf-racial-traits}
 
 - [Attributes](ref/racial-trait/dwarf/attributes)
 - [Medium](ref/racial-trait/dwarf/medium)

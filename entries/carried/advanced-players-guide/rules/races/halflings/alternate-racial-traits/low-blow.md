@@ -9,7 +9,7 @@ provenance = [
   { dataset = "psrd-data", record = "pfsrd://Advanced Players Guide/Rules/Races/Halflings/Alternate Racial Traits/Low Blow", path = "advanced_players_guide/racial_trait/halfling/low_blow.json" },
 ]
 relations = [
-  { kind = "part", target = "ref/carried/core-rulebook/races/halflings", label = "alternate" },
+  { kind = "part", target = "ref/race/halfling", label = "alternate" },
 ]
 
 [fields]

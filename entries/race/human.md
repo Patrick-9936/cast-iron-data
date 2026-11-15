@@ -9,14 +9,14 @@ provenance = [
   { dataset = "pathfinder-data-1-e", record = "human", path = "json/races2.json" },
 ]
 [[sources]]
+publication = "core-rulebook"
+page = "27"
+[[sources]]
 publication = "inner-sea-races"
 page = "238"
 [[sources]]
 publication = "advanced-race-guide"
 page = "70"
-[[sources]]
-publication = "core-rulebook"
-page = "27"
 
 [fields]
 kind = "none"
@@ -122,7 +122,7 @@ barbarian tribe have much different names than those hailing from a subtropical 
 and traders. Even humans who speak the same language may have names that are as varied as their
 beliefs and appearances, depending on their origins.
 
-### Human Racial Traits
+### Human Racial Traits {#human-racial-traits}
 
 - [Attributes](ref/racial-trait/human/attributes)
 - [Medium](ref/racial-trait/human/medium)

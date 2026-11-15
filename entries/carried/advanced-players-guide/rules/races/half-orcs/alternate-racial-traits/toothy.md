@@ -9,7 +9,7 @@ provenance = [
   { dataset = "psrd-data", record = "pfsrd://Advanced Players Guide/Rules/Races/Half-Orcs/Alternate Racial Traits/Toothy", path = "advanced_players_guide/racial_trait/half_orc/toothy.json" },
 ]
 relations = [
-  { kind = "part", target = "ref/carried/core-rulebook/races/half-orcs", label = "alternate" },
+  { kind = "part", target = "ref/race/half-orc", label = "alternate" },
 ]
 
 [fields]

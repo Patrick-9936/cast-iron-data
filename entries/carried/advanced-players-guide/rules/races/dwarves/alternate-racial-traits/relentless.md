@@ -9,7 +9,7 @@ provenance = [
   { dataset = "psrd-data", record = "pfsrd://Advanced Players Guide/Rules/Races/Dwarves/Alternate Racial Traits/Relentless", path = "advanced_players_guide/racial_trait/dwarf/relentless.json" },
 ]
 relations = [
-  { kind = "part", target = "ref/carried/core-rulebook/races/dwarves", label = "alternate" },
+  { kind = "part", target = "ref/race/dwarf", label = "alternate" },
 ]
 
 [fields]

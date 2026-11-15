@@ -9,14 +9,14 @@ provenance = [
   { dataset = "pathfinder-data-1-e", record = "half_elf", path = "json/races3.json" },
 ]
 [[sources]]
+publication = "core-rulebook"
+page = "24"
+[[sources]]
 publication = "inner-sea-races"
 page = "237"
 [[sources]]
 publication = "advanced-race-guide"
 page = "40"
-[[sources]]
-publication = "core-rulebook"
-page = "24"
 
 [fields]
 kind = "none"
@@ -126,7 +126,7 @@ years enjoying it.
 
 **Female Names:** Cathran, Elsbeth, Iandoli, Kieyanna, Lialda, Maddela, Reda, Tamarie.
 
-### Half-Elf Racial Traits
+### Half-Elf Racial Traits {#half-elf-racial-traits}
 
 - [Attributes](ref/racial-trait/half-elf/attributes)
 - [Medium](ref/racial-trait/half-elf/medium)
