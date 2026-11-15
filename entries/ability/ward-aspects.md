@@ -42,32 +42,32 @@ At 15th level: This bonus +30 feet.
 
 **Passive:** The creature gains a +2 enhancement bonus to Wisdom.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Tree**
 
 **Passive:** The creature gains a +4 competence bonus on saving throws against death effects and
 effects that deal negative energy damage.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Waymarker**
 
 **Passive:** The creature gains a +4 competence bonus on attack rolls with
 [improvised weapons](ref/misc/improvised-weapons).
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Well**
 
 **Passive:** The creature gains a +2 shield bonus to AC.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.

@@ -53,9 +53,9 @@ vermin (not animals or magical beasts).
 
 **Passive:** The creature gains a +2 enhancement bonus to Strength.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Beetle**
 
@@ -63,9 +63,9 @@ At 15th level: This bonus +6.
 
 **Special:** A creature without natural armor has an effective natural armor bonus of +0.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Centipede**
 
@@ -146,9 +146,9 @@ At 15th level: These bonuses increase to +6.
 **Passive:** The creature gains [low-light vision](ref/rule/low-light-vision) and a +4 competence
 bonus on Stealth checks in forests or plains.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Scorpion**
 
@@ -164,17 +164,17 @@ checks.
 **Passive:** The creature gains a +2 competence bonus on Stealth checks, saving throws against
 [web](ref/spell/web) effects (magical or otherwise), and checks to break free of webs.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Wasp**
 
 **Passive:** The creature gains a +4 competence bonus on Perception checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Worm**
 

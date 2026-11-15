@@ -41,18 +41,18 @@ bear, frog, monkey, mouse, and snake choices.
 **Passive:** The creature gains a +4 competence bonus on Knowledge checks to identify the abilities
 and weaknesses of creatures.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Goat**
 
 **Passive:** The creature gains a +2 competence bonus on saving throws against enchantment spells
 and [spell-like abilities](ref/umr/spell-like-abilities).
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Mongoose**
 
@@ -68,17 +68,17 @@ At 15th level: These bonuses increase to +6.
 **Passive:** The creature gains a +4 competence bonus on Survival checks to track a creature that
 has taken damage from the hunter or her animal companion in the past 24 hours.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Turtle**
 
 **Passive:** The creature gains a +2 enhancement bonus to its natural armor bonus.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Iron Talons (Ex)**
 

@@ -69,11 +69,11 @@ attacked the cad since the beginning of his last turn.
 
 **Replaces:** Weapon training 1, 3, and 4
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +2.
 
-At 13th level: This bonus +3.
+At 13th level: This bonus increases to +3.
 
-At 17th level: This bonus +4.
+At 17th level: This bonus increases to +4.
 
 **Deadly Surprise (Ex)**
 
