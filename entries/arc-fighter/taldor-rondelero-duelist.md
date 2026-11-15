@@ -59,11 +59,11 @@ buckler that applies to attacks made by either hand.
 
 **Replaces:** Weapon training 1
 
-At 9th level: These bonuses +2.
+At 9th level: These bonuses increase to +2.
 
-At 13th level: These bonuses +3.
+At 13th level: These bonuses increase to +3.
 
-At 17th level: These bonuses +4.
+At 17th level: These bonuses increase to +4.
 
 **Armor Training (Ex)**
 

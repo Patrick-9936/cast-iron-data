@@ -46,13 +46,13 @@ type. He also gains +2 bonuses on weapon attack and damage rolls against them.
 
 **Gained:** At 1st Level
 
-At 5th level: These bonuses +4.
+At 5th level: These bonuses increase to +4.
 
-At 10th level: These bonuses +6.
+At 10th level: These bonuses increase to +6.
 
-At 15th level: These bonuses +8.
+At 15th level: These bonuses increase to +8.
 
-At 20th level: These bonuses +10.
+At 20th level: These bonuses increase to +10.
 
 **Dragoncrafting (Ex)**
 

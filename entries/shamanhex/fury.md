@@ -21,6 +21,6 @@ rounds equal to the shaman's Wisdom modifier.
 **Special:** Once a creature has benefited from the _fury_ hex, it cannot benefit from it again for
 24 hours.
 
-At 8th level: These bonuses +3.
+At 8th level: These bonuses increase to +3.
 
-At 16th level: These bonuses +4.
+At 16th level: These bonuses increase to +4.
