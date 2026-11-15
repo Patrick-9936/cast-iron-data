@@ -3,7 +3,7 @@ id = "ref/race/human"
 kind = "race"
 title = "Human"
 aon = "RacesDisplay.aspx?ItemName=Human"
-source_ids = ["inner-sea-races", "advanced-race-guide", "core-rulebook", "legacy-of-dragons", "advanced-players-guide", "horror-adventures", "heroes-of-the-high-court", "blood-of-shadows", "heroes-of-the-wild", "legacy-of-the-first-world", "heroes-of-the-streets", "advanced-class-guide", "occult-adventures", "ultimate-wilderness", "ultimate-intrigue"]
+source_ids = ["core-rulebook", "inner-sea-races", "advanced-race-guide", "legacy-of-dragons", "advanced-players-guide", "horror-adventures", "heroes-of-the-high-court", "blood-of-shadows", "heroes-of-the-wild", "legacy-of-the-first-world", "heroes-of-the-streets", "advanced-class-guide", "occult-adventures", "ultimate-wilderness", "ultimate-intrigue"]
 race_group = "core_race"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "human", path = "json/races2.json" },
@@ -120,7 +120,8 @@ backgrounds, and as such can fill any role within an adventuring party.
 humanity's diversity has resulted in a nearly infinite set of names. The humans of a northern
 barbarian tribe have much different names than those hailing from a subtropical nation of sailors
 and traders. Even humans who speak the same language may have names that are as varied as their
-beliefs and appearances, depending on their origins.
+beliefs and appearances, depending on their origins. Throughout most of the world humans speak
+Common, yet their names are as varied as their beliefs and appearances (Core Rulebook pg. 27).
 
 ### Human Racial Traits {#human-racial-traits}
 
