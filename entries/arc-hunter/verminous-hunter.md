@@ -72,18 +72,18 @@ At 15th level: This bonus +6.
 **Passive:** The creature gains a +2 competence bonus on Climb checks and a +2 bonus to CMD against
 pull, push, reposition, and trip combat maneuvers.
 
-At 8th level: p!These bonuses +4.
+At 8th level: These bonuses +4.
 
-At 15th level: p!These bonuses +6.
+At 15th level: These bonuses +6.
 
 **Cockroach**
 
 **Passive:** The creature gains a +4 bonus on saves against cold dangers, disease, heat dangers,
 starvation, thirst, and on Constitution checks to avoid [suffocation](ref/rule/suffocation).
 
-At 8th level: p!These bonuses +6.
+At 8th level: These bonuses +6.
 
-At 15th level: p!These bonuses +8.
+At 15th level: These bonuses +8.
 
 **Crab**
 
@@ -99,18 +99,18 @@ At 15th level: p!These bonuses +8.
 **Passive:** The creature gains a +4 competence bonus on saves against disease and Acrobatics checks
 to jump.
 
-At 8th level: p!These bonuses +6.
+At 8th level: These bonuses +6.
 
-At 15th level: p!These bonuses +8.
+At 15th level: These bonuses +8.
 
 **Fly**
 
 **Passive:** The creature gains a +2 bonus on Perception checks and on Acrobatics checks to balance
 or fall safely.
 
-At 8th level: p!These bonuses +4.
+At 8th level: These bonuses +4.
 
-At 15th level: p!These bonuses +6.
+At 15th level: These bonuses +6.
 
 **Leech**
 
@@ -129,9 +129,9 @@ damage an opponent.
 **Passive:** The creature gains a +2 bonus on attack of opportunity attack rolls and a +2 competence
 bonus on grapple combat maneuver checks.
 
-At 8th level: p!These bonuses +4.
+At 8th level: These bonuses +4.
 
-At 15th level: p!These bonuses +6.
+At 15th level: These bonuses +6.
 
 **Moth**
 

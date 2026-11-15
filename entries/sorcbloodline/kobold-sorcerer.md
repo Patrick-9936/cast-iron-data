@@ -94,13 +94,13 @@ on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks made b
 **Special:** This bonus stacks with that provided by a [rogue's](ref/class/rogue) _trap sense_ and
 similar abilities.
 
-At 7th level: p!The Reflex and dodge bonuses +2.
+At 7th level: The Reflex and dodge bonuses +2.
 
-At 11th level: p!The Reflex and dodge bonuses +3.
+At 11th level: The Reflex and dodge bonuses +3.
 
-At 15th level: p!The Reflex and dodge bonuses +4.
+At 15th level: The Reflex and dodge bonuses +4.
 
-At 19th level: p!The Reflex and dodge bonuses +5.
+At 19th level: The Reflex and dodge bonuses +5.
 
 **Arcane Ambush (Su)**
 

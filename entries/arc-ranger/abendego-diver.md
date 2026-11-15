@@ -66,11 +66,11 @@ Perception, Stealth, and Survival skill checks while underwater.
 
 **Replaces:** Favored terrain
 
-At 8th level: p!These bonuses +4.
+At 8th level: These bonuses +4.
 
-At 13th level: p!These bonuses +6.
+At 13th level: These bonuses +6.
 
-At 18th level: p!These bonuses +8.
+At 18th level: These bonuses +8.
 
 **Aquatic Adaptation (Ex)**
 

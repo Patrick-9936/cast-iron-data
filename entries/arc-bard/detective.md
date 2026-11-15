@@ -40,11 +40,11 @@ when they are [flat-footed](ref/rule/flat-footed).
 able to see and hear the bard throughout the performance. This ability is language-dependent and
 requires visual and audible components.
 
-At 7th level: p!The bonuses +2.
+At 7th level: The bonuses +2.
 
-At 13th level: p!The bonuses +3.
+At 13th level: The bonuses +3.
 
-At 19th level: p!The bonuses +4.
+At 19th level: The bonuses +4.
 
 **True Confession (Su)**
 

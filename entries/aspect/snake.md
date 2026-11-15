@@ -23,9 +23,9 @@ opportune strikes made in return.
 **Ability:** You gain a +2 bonus on attack rolls when making attacks of opportunity and a +2 dodge
 bonus to your AC against attacks of opportunity.
 
-At 8th level: p!These bonuses +4.
+At 8th level: These bonuses +4.
 
-At 15th level: p!These bonuses +6.
+At 15th level: These bonuses +6.
 
 **Major Form**
 
