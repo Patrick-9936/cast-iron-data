@@ -45,13 +45,13 @@ At 15th level: The bonuses increase to +3.
 
 **Replaces:** [Damage reduction](ref/rule/damage-reduction)
 
-At 10th level: The bonus +2.
+At 10th level: The bonus increases to +2.
 
-At 13th level: The bonus +3.
+At 13th level: The bonus increases to +3.
 
-At 16th level: The bonus +4.
+At 16th level: The bonus increases to +4.
 
-At 19th level: The bonus +5.
+At 19th level: The bonus increases to +5.
 
 **Rage Powers:** The following rage powers complement the savage barbarian archetype:
 [flesh wound](ref/ragepower/flesh-wound), [guarded stance](ref/ragepower/guarded-stance),

@@ -76,17 +76,17 @@ gain DR 3/magic, instead.
 **Passive:** You gain [resistance](ref/umr/resistance) 2 against one energy type (acid, cold,
 electricity, fire, or sonic) chosen when the judgment is declared.
 
-At 3rd level: Your resistance 4.
+At 3rd level: Your resistance increases to 4.
 
-At 6th level: Your resistance 6.
+At 6th level: Your resistance increases to 6.
 
-At 9th level: Your resistance 8.
+At 9th level: Your resistance increases to 8.
 
-At 12th level: Your resistance 10.
+At 12th level: Your resistance increases to 10.
 
-At 15th level: Your resistance 12.
+At 15th level: Your resistance increases to 12.
 
-At 18th level: Your resistance 14.
+At 18th level: Your resistance increases to 14.
 
 **Smiting**
 

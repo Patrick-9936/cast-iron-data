@@ -45,23 +45,23 @@ your cleric level + your Charisma modifier.
 
 **Usage:** Cha3 modifier times/day
 
-At 3rd level: The damage 2d6.
+At 3rd level: The damage is 2d6.
 
-At 5th level: The damage 3d6.
+At 5th level: The damage is 3d6.
 
-At 7th level: The damage 4d6.
+At 7th level: The damage is 4d6.
 
-At 9th level: The damage 5d6.
+At 9th level: The damage is 5d6.
 
-At 11th level: The damage 6d6.
+At 11th level: The damage is 6d6.
 
-At 13th level: The damage 7d6.
+At 13th level: The damage is 7d6.
 
-At 15th level: The damage 8d6.
+At 15th level: The damage is 8d6.
 
-At 17th level: The damage 9d6.
+At 17th level: The damage is 9d6.
 
-At 19th level: The damage 10d6.
+At 19th level: The damage is 10d6.
 
 [Warpriests](ref/class/warpriest), [paladins](ref/class/paladin), and
 [antipaladins](ref/class/antipaladin) gain this ability at 4th level. Warpriests channel positive or
