@@ -45,13 +45,13 @@ gains a +2 bonus on weapon attack and damage rolls against such opponents.
 
 **Replaces:** Favored enemy
 
-At 5th level: p!These bonuses +3.
+At 5th level: These bonuses increase to +3.
 
-At 10th level: p!These bonuses +4.
+At 10th level: These bonuses increase to +4.
 
-At 15th level: p!These bonuses +5.
+At 15th level: These bonuses increase to +5.
 
-At 20th level: p!These bonuses +6.
+At 20th level: These bonuses increase to +5.
 
 **Nemesis Defense (Ex)**
 

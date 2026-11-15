@@ -112,11 +112,11 @@ throws against spells from such creatures.
 
 **Replaces:** Versatile performance
 
-At 7th level: p!These bonuses +2.
+At 5th level: These bonuses increase to +2.
 
-At 13th level: p!These bonuses +3.
+At 11th level: These bonuses increase to +3.
 
-At 19th level: p!These bonuses +4.
+At 17th level: These bonuses increase to +4.
 
 **Versed in Curses (Ex)**
 

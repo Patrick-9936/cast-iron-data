@@ -22,6 +22,6 @@ _warded_ creature is hit or fails a saving throw.
 one _ward_ active at a time. If the shaman uses this hex while a previous _ward_ is still active,
 that previous _ward_ immediately ends. A shaman cannot use this ability on herself.
 
-At 8th level: p!These bonuses +3.
+At 8th level: These bonuses increase to +3.
 
-At 16th level: p!These bonuses +4.
+At 16th level: These bonuses increase to +4.

@@ -59,9 +59,9 @@ At 15th level: This bonus +6.
 **Passive:** The creature gains a +2 competence bonus on grapple combat maneuver checks and on
 saving throws against poison.
 
-At 8th level: p!These bonuses +4.
+At 8th level: These bonuses increase to +4.
 
-At 15th level: p!These bonuses +6.
+At 15th level: These bonuses increase to +6.
 
 **Shark**
 

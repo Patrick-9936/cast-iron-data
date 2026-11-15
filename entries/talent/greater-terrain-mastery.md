@@ -19,6 +19,6 @@ group = "rogue-talent"
 
 **Prereq:** [Terrain mastery](ref/talent/terrain-mastery)
 
-At 13th level: p!Her bonuses +6.
+At 13th level: Her bonuses increase to +6.
 
-At 18th level: p!Her bonuses +8.
+At 18th level: Her bonuses increase to +8.

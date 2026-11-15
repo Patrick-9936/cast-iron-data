@@ -22,9 +22,9 @@ well surprising tactics in combat.
 
 **Passive:** You gain a +4 competence bonus on Acrobatics checks when jumping and on Swim checks.
 
-At 8th level: p!These bonuses +6.
+At 8th level: These bonuses increase to +6.
 
-At 15th level: p!These bonuses +8.
+At 15th level: These bonuses increase to +8.
 
 **Major Form**
 

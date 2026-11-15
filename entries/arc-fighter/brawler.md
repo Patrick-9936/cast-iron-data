@@ -42,13 +42,13 @@ CMD when attacked with the bull rush, drag, and reposition maneuvers.
 
 **Replaces:** Armor training 1
 
-At 6th level: p!These bonuses +2.
+At 6th level: These bonuses increase to +2.
 
-At 10th level: p!These bonuses +3.
+At 10th level: These bonuses increase to +3.
 
-At 14th level: p!These bonuses +4.
+At 14th level: These bonuses increase to +4.
 
-At 18th level: p!These bonuses +5.
+At 18th level: These bonuses increase to +5.
 
 **Close Combatant (Ex)**
 

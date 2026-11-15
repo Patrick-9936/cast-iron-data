@@ -46,13 +46,13 @@ a number of rounds equal to the witchguard's Wisdom modifier (minimum 1).
 
 **Usage:** 1 time/day + 1 per 3 ranger levels beyond 4th
 
-At 5th level: p!These bonuses +4.
+At 5th level: These bonuses increase to +4.
 
-At 10th level: p!These bonuses +6.
+At 10th level: These bonuses increase to +6.
 
-At 15th level: p!These bonuses +8.
+At 15th level: These bonuses increase to +8.
 
-At 20th level: p!These bonuses +10.
+At 20th level: These bonuses increase to +10.
 
 **Bodyguard (Ex)**
 

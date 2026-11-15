@@ -48,13 +48,17 @@ creatures of the undead type and a +2 bonus on weapon attack and damage rolls ag
 
 **Gained:** At 1st Level
 
-At 5th level: p!He does not gain an additional _favored enemy,_ but his bonuses against undead +4.
+At 5th level: He does not gain an additional _favored enemy,_ but his bonuses against undead
+increase to +4.
 
-At 10th level: p!He does not gain an additional _favored enemy,_ but his bonuses against undead +6.
+At 10th level: He does not gain an additional _favored enemy,_ but his bonuses against undead
+increase to +6.
 
-At 15th level: p!He does not gain an additional _favored enemy,_ but his bonuses against undead +8.
+At 15th level: He does not gain an additional _favored enemy,_ but his bonuses against undead
+increase to +8.
 
-At 20th level: p!He does not gain an additional _favored enemy,_ but his bonuses against undead +10.
+At 20th level: He does not gain an additional _favored enemy,_ but his bonuses against undead
+increase to +10.
 
 **Disrupt Control (Su)**
 

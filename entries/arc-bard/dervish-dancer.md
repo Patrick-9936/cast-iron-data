@@ -75,13 +75,13 @@ on attack rolls and a +1 dodge bonus to AC and on Reflex saves.
 
 **Special:** These bonuses do not stack with the _[haste](ref/spell/haste)_ spell.
 
-At 9th level: p!The bonuses +2.
+At 9th level: The bonuses increase to +2.
 
-At 12th level: p!The bonuses +3.
+At 12th level: The bonuses increase to +3.
 
-At 15th level: p!The bonuses +4.
+At 15th level: The bonuses increase to +4.
 
-At 18th level: p!The bonuses +5.
+At 18th level: The bonuses increase to +5.
 
 **Razor's Kiss (Su)**
 

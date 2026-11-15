@@ -32,9 +32,9 @@ throws against fear when wearing no armor (shields are allowed).
 
 **Replaces:** Trap sense
 
-At 9th level: p!The bonuses +2.
+At 9th level: The bonuses increase to +2.
 
-At 15th level: p!The bonuses +3.
+At 15th level: The bonuses increase to +3.
 
 **Natural Toughness (Ex)**
 
