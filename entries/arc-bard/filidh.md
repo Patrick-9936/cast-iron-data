@@ -68,11 +68,11 @@ receives a +1 insight bonus on Reflex saving throws and to AC.
 
 **Special:** This performance is a mind-affecting ability and relies on audible components.
 
-At 7th level: This bonus +2.
+At 5th level: This bonus increases to +2.
 
-At 13th level: This bonus +3.
+At 11th level: This bonus increases to +3.
 
-At 19th level: This bonus +4.
+At 17th level: This bonus increases to +4.
 
 **Divinatory Song (Sp)**
 

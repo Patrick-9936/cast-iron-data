@@ -40,11 +40,11 @@ creatures of that specific kind of monster (e.g.,
 
 **Special:** This language-dependent ability requires visual and audible components.
 
-At 7th level: The bonus +2.
+At 5th level: The bonus increases to +2.
 
-At 13th level: The bonus +3.
+At 11th level: The bonus increases to +3.
 
-At 19th level: The bonus +4.
+At 17th level: The bonus increases to +4.
 
 **Lamentable Belaborment (Ex)**
 

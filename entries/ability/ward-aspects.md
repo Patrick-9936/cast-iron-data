@@ -34,9 +34,9 @@ The following ward aspects are available to characters who meet the conditions d
 **Passive:** The creature gains a +10 foot enhancement bonus to its base speed while
 [running](ref/rule/run), [charging](ref/rule/charge), or [withdrawing](ref/rule/withdraw).
 
-At 8th level: This bonus +20 feet.
+At 8th level: This bonus increases to +20 feet.
 
-At 15th level: This bonus +30 feet.
+At 15th level: This bonus increases to +30 feet.
 
 **Shrine**
 

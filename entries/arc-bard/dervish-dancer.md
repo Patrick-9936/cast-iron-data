@@ -112,13 +112,13 @@ his land speed.
 
 **Replaces:** Bardic knowledge, lore master
 
-At 5th level: This bonus +15 feet.
+At 5th level: This bonus increases to +15 feet.
 
-At 9th level: This bonus +20 feet.
+At 9th level: This bonus increases to +20 feet.
 
-At 13th level: This bonus +25 feet.
+At 13th level: This bonus increases to +25 feet.
 
-At 17th level: This bonus +30 feet.
+At 17th level: This bonus increases to +30 feet.
 
 **Versatile Dance (Ex)**
 

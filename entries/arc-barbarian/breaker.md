@@ -45,13 +45,13 @@ condition.
 
 **Replaces:** Trap sense
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +2.
 
-At 12th level: This bonus +3.
+At 12th level: This bonus increases to +3.
 
-At 15th level: This bonus +4.
+At 15th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Rage Powers:** The following rage powers complement the breaker archetype:
 [ground breaker](ref/ragepower/ground-breaker), [smasher](ref/ragepower/smasher),
