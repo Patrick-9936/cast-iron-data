@@ -118,13 +118,13 @@ determining how fast he can move while running in armor.
 **Ability:** While wearing armor or using a shield, the fighter gains a +2 bonus to his AC against
 attack rolls made to confirm a critical hit.
 
-At 7th level: This bonus +3.
+At 7th level: This bonus increases to +3.
 
-At 11th level: This bonus +4.
+At 11th level: This bonus increases to +4.
 
-At 15th level: This bonus +5.
+At 15th level: This bonus increases to +5.
 
-At 19th level: This bonus +6.
+At 19th level: This bonus increases to +6.
 
 **Master Armorer (Ex)**
 
