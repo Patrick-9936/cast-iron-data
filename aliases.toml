@@ -17692,7 +17692,7 @@ basis = "direct"
 
 [[entries]]
 old = "core-rulebook/races/dwarves"
-target = "ref/carried/core-rulebook/races/dwarves"
+target = "ref/race/dwarf"
 basis = "carried"
 
 [[entries]]
@@ -17757,7 +17757,7 @@ basis = "derived"
 
 [[entries]]
 old = "core-rulebook/races/elves"
-target = "ref/carried/core-rulebook/races/elves"
+target = "ref/race/elf"
 basis = "carried"
 
 [[entries]]
@@ -17807,7 +17807,7 @@ basis = "derived"
 
 [[entries]]
 old = "core-rulebook/races/gnomes"
-target = "ref/carried/core-rulebook/races/gnomes"
+target = "ref/race/gnome"
 basis = "carried"
 
 [[entries]]
@@ -17872,7 +17872,7 @@ basis = "derived"
 
 [[entries]]
 old = "core-rulebook/races/half-elves"
-target = "ref/carried/core-rulebook/races/half-elves"
+target = "ref/race/half-elf"
 basis = "carried"
 
 [[entries]]
@@ -17927,7 +17927,7 @@ basis = "derived"
 
 [[entries]]
 old = "core-rulebook/races/half-orcs"
-target = "ref/carried/core-rulebook/races/half-orcs"
+target = "ref/race/half-orc"
 basis = "carried"
 
 [[entries]]
@@ -17977,7 +17977,7 @@ basis = "derived"
 
 [[entries]]
 old = "core-rulebook/races/halflings"
-target = "ref/carried/core-rulebook/races/halflings"
+target = "ref/race/halfling"
 basis = "carried"
 
 [[entries]]
@@ -18027,7 +18027,7 @@ basis = "derived"
 
 [[entries]]
 old = "core-rulebook/races/humans"
-target = "ref/carried/core-rulebook/races/humans"
+target = "ref/race/human"
 basis = "carried"
 
 [[entries]]
@@ -31513,6 +31513,41 @@ basis = "shared"
 [[entries]]
 old = "ref/carried/advanced-race-guide/races/wayangs"
 target = "ref/race/wayang"
+basis = "shared"
+
+[[entries]]
+old = "ref/carried/core-rulebook/races/dwarves"
+target = "ref/race/dwarf"
+basis = "shared"
+
+[[entries]]
+old = "ref/carried/core-rulebook/races/elves"
+target = "ref/race/elf"
+basis = "shared"
+
+[[entries]]
+old = "ref/carried/core-rulebook/races/gnomes"
+target = "ref/race/gnome"
+basis = "shared"
+
+[[entries]]
+old = "ref/carried/core-rulebook/races/half-elves"
+target = "ref/race/half-elf"
+basis = "shared"
+
+[[entries]]
+old = "ref/carried/core-rulebook/races/half-orcs"
+target = "ref/race/half-orc"
+basis = "shared"
+
+[[entries]]
+old = "ref/carried/core-rulebook/races/halflings"
+target = "ref/race/halfling"
+basis = "shared"
+
+[[entries]]
+old = "ref/carried/core-rulebook/races/humans"
+target = "ref/race/human"
 basis = "shared"
 
 [[entries]]

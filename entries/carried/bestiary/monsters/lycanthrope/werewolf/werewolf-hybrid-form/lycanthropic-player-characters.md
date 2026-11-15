@@ -1,10 +1,9 @@
 +++
 id = "ref/carried/bestiary/monsters/lycanthrope/werewolf/werewolf-hybrid-form/lycanthropic-player-characters"
-kind = "race"
+kind = "rule"
 title = "Lycanthropic Player Characters"
 source_ids = ["bestiary"]
 section = ["Monsters", "Lycanthrope", "Werewolf", "Werewolf (Hybrid Form)"]
-tags = ["monster_race"]
 provenance = [
   { dataset = "psrd-data", record = "pfsrd://Bestiary/Monsters/Lycanthrope/Werewolf/Werewolf (Hybrid Form)/Lycanthropic Player Characters", path = "bestiary/race/monster_race/lycanthropic_player_characters.json" },
 ]

@@ -3,20 +3,20 @@ id = "ref/race/half-elf"
 kind = "race"
 title = "Half-Elf"
 aon = "RacesDisplay.aspx?ItemName=Half-Elf"
-source_ids = ["inner-sea-races", "advanced-race-guide", "core-rulebook", "heroes-from-the-fringe", "bastards-of-golarion", "legacy-of-the-first-world", "advanced-players-guide", "blood-of-shadows", "darklands-revisited", "horror-adventures", "legacy-of-dragons", "heroes-of-the-wild", "heroes-of-the-high-court", "heroes-of-the-streets", "advanced-class-guide", "occult-adventures", "ultimate-wilderness", "ultimate-intrigue"]
+source_ids = ["core-rulebook", "inner-sea-races", "advanced-race-guide", "heroes-from-the-fringe", "bastards-of-golarion", "legacy-of-the-first-world", "advanced-players-guide", "blood-of-shadows", "darklands-revisited", "horror-adventures", "legacy-of-dragons", "heroes-of-the-wild", "heroes-of-the-high-court", "heroes-of-the-streets", "advanced-class-guide", "occult-adventures", "ultimate-wilderness", "ultimate-intrigue"]
 race_group = "core_race"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "half_elf", path = "json/races3.json" },
 ]
+[[sources]]
+publication = "core-rulebook"
+page = "24"
 [[sources]]
 publication = "inner-sea-races"
 page = "237"
 [[sources]]
 publication = "advanced-race-guide"
 page = "40"
-[[sources]]
-publication = "core-rulebook"
-page = "24"
 
 [fields]
 kind = "none"
@@ -126,7 +126,7 @@ years enjoying it.
 
 **Female Names:** Cathran, Elsbeth, Iandoli, Kieyanna, Lialda, Maddela, Reda, Tamarie.
 
-### Half-Elf Racial Traits
+### Half-Elf Racial Traits {#half-elf-racial-traits}
 
 - [Attributes](ref/racial-trait/half-elf/attributes)
 - [Medium](ref/racial-trait/half-elf/medium)

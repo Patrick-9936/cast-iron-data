@@ -9,7 +9,7 @@ provenance = [
   { dataset = "psrd-data", record = "pfsrd://Advanced Players Guide/Rules/Races/Half-Elves/Alternate Racial Traits/Sociable", path = "advanced_players_guide/racial_trait/half_elf/sociable.json" },
 ]
 relations = [
-  { kind = "part", target = "ref/carried/core-rulebook/races/half-elves", label = "alternate" },
+  { kind = "part", target = "ref/race/half-elf", label = "alternate" },
 ]
 
 [fields]

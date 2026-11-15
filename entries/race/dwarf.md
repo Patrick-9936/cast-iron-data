@@ -3,17 +3,17 @@ id = "ref/race/dwarf"
 kind = "race"
 title = "Dwarf"
 aon = "RacesDisplay.aspx?ItemName=Dwarf"
-source_ids = ["inner-sea-races", "core-rulebook", "advanced-race-guide", "heroes-from-the-fringe", "heroes-of-the-wild", "blood-of-shadows", "advanced-players-guide", "horror-adventures", "legacy-of-the-first-world", "rival-guide", "heroes-of-the-streets", "legacy-of-dragons", "heroes-of-the-high-court", "advanced-class-guide", "occult-adventures", "ultimate-wilderness", "ultimate-intrigue"]
+source_ids = ["core-rulebook", "inner-sea-races", "advanced-race-guide", "heroes-from-the-fringe", "heroes-of-the-wild", "blood-of-shadows", "advanced-players-guide", "horror-adventures", "legacy-of-the-first-world", "rival-guide", "heroes-of-the-streets", "legacy-of-dragons", "heroes-of-the-high-court", "advanced-class-guide", "occult-adventures", "ultimate-wilderness", "ultimate-intrigue"]
 race_group = "core_race"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "dwarf", path = "json/races.json" },
 ]
 [[sources]]
-publication = "inner-sea-races"
-page = "236"
-[[sources]]
 publication = "core-rulebook"
 page = "21"
+[[sources]]
+publication = "inner-sea-races"
+page = "236"
 [[sources]]
 publication = "advanced-race-guide"
 page = "10"
@@ -102,7 +102,7 @@ melee combat, and as such most dwarves tend toward classes such as fighters and 
 
 **Female Names:** Agna, Bodill, Ingra, Kotri, Rusilka, Yangrit.
 
-### Dwarf Racial Traits
+### Dwarf Racial Traits {#dwarf-racial-traits}
 
 - [Attributes](ref/racial-trait/dwarf/attributes)
 - [Medium](ref/racial-trait/dwarf/medium)

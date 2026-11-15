@@ -9,7 +9,7 @@ provenance = [
   { dataset = "psrd-data", record = "pfsrd://Advanced Players Guide/Rules/Races/Humans/Alternate Racial Traits/Eye for Talent", path = "advanced_players_guide/racial_trait/human/eye_for_talent.json" },
 ]
 relations = [
-  { kind = "part", target = "ref/carried/core-rulebook/races/humans", label = "alternate" },
+  { kind = "part", target = "ref/race/human", label = "alternate" },
 ]
 
 [fields]

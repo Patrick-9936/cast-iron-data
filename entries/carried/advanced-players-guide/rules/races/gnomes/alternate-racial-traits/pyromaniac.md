@@ -9,7 +9,7 @@ provenance = [
   { dataset = "psrd-data", record = "pfsrd://Advanced Players Guide/Rules/Races/Gnomes/Alternate Racial Traits/Pyromaniac", path = "advanced_players_guide/racial_trait/gnome/pyromaniac.json" },
 ]
 relations = [
-  { kind = "part", target = "ref/carried/core-rulebook/races/gnomes", label = "alternate" },
+  { kind = "part", target = "ref/race/gnome", label = "alternate" },
 ]
 
 [fields]

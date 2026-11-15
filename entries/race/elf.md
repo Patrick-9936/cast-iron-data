@@ -3,20 +3,20 @@ id = "ref/race/elf"
 kind = "race"
 title = "Elf"
 aon = "RacesDisplay.aspx?ItemName=Elf"
-source_ids = ["inner-sea-races", "advanced-race-guide", "core-rulebook", "heroes-from-the-fringe", "horror-adventures", "advanced-players-guide", "legacy-of-the-first-world", "blood-of-shadows", "pathfinder-124-city-in-the-deep", "legacy-of-dragons", "heroes-of-the-wild", "heroes-of-the-high-court", "heroes-of-the-streets", "advanced-class-guide", "occult-adventures", "ultimate-wilderness", "ultimate-intrigue"]
+source_ids = ["core-rulebook", "inner-sea-races", "advanced-race-guide", "heroes-from-the-fringe", "horror-adventures", "advanced-players-guide", "legacy-of-the-first-world", "blood-of-shadows", "pathfinder-124-city-in-the-deep", "legacy-of-dragons", "heroes-of-the-wild", "heroes-of-the-high-court", "heroes-of-the-streets", "advanced-class-guide", "occult-adventures", "ultimate-wilderness", "ultimate-intrigue"]
 race_group = "core_race"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "elf", path = "json/races.json" },
 ]
+[[sources]]
+publication = "core-rulebook"
+page = "22"
 [[sources]]
 publication = "inner-sea-races"
 page = "236"
 [[sources]]
 publication = "advanced-race-guide"
 page = "20"
-[[sources]]
-publication = "core-rulebook"
-page = "22"
 
 [fields]
 kind = "none"
@@ -126,7 +126,7 @@ pursue classes such as wizards and rangers.
 **Female Names:** Amrunelara, Dardlara, Faunra, Jathal, Merisiel, Oparal, Soumral, Tessara,
 Yalandlara.
 
-### Elf Racial Traits
+### Elf Racial Traits {#elf-racial-traits}
 
 - [Attributes](ref/racial-trait/elf/attributes)
 - [Medium](ref/racial-trait/elf/medium)

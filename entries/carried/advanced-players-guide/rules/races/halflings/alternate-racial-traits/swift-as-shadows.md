@@ -9,7 +9,7 @@ provenance = [
   { dataset = "psrd-data", record = "pfsrd://Advanced Players Guide/Rules/Races/Halflings/Alternate Racial Traits/Swift as Shadows", path = "advanced_players_guide/racial_trait/halfling/swift_as_shadows.json" },
 ]
 relations = [
-  { kind = "part", target = "ref/carried/core-rulebook/races/halflings", label = "alternate" },
+  { kind = "part", target = "ref/race/halfling", label = "alternate" },
 ]
 
 [fields]

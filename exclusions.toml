@@ -55485,3 +55485,31 @@ reason = "duplicate of ref/carried/ultimate-magic/rules/words-of-power/words-of-
 [[rejected]]
 path = "ref/carried/ultimate-magic/monsters/new-familiars/small-and-vermin-familiars/familiar/turtle"
 reason = "duplicate of ref/monster/turtle"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/dwarves"
+reason = "duplicate of ref/race/dwarf; the record prints the later printing's prose for the same topics"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/elves"
+reason = "duplicate of ref/race/elf; the record prints the later printing's prose for the same topics"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/gnomes"
+reason = "duplicate of ref/race/gnome; the record prints the later printing's prose for the same topics"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/half-elves"
+reason = "duplicate of ref/race/half-elf; the record prints the later printing's prose for the same topics"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/half-orcs"
+reason = "duplicate of ref/race/half-orc; the record prints the later printing's prose for the same topics, and its average height of about 6 feet replaces the chapter's 6 to 7 feet"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/halflings"
+reason = "duplicate of ref/race/halfling; the record prints the later printing's prose for the same topics, and its rich cinnamon skin tone replaces the chapter's rich almond"
+
+[[rejected]]
+path = "ref/carried/core-rulebook/races/humans"
+reason = "duplicate of ref/race/human; the record prints the later printing's prose for the same topics, and the chapter's sentence about Common is merged into its Names paragraph"
