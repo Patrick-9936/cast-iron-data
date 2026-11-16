@@ -200,23 +200,23 @@ modifier.
 **Usage:** You can use a number of bombs each day equal to your class level + your Intelligence
 modifier.
 
-At 3rd level: The base bomb damage 2d6.
+At 3rd level: The base bomb damage increases to 2d6.
 
-At 5th level: The base bomb damage 3d6.
+At 5th level: The base bomb damage increases to 3d6.
 
-At 7th level: The base bomb damage 4d6.
+At 7th level: The base bomb damage increases to 4d6.
 
-At 9th level: The base bomb damage 5d6.
+At 9th level: The base bomb damage increases to 5d6.
 
-At 11th level: The base bomb damage 6d6.
+At 11th level: The base bomb damage increases to 6d6.
 
-At 13th level: The base bomb damage 7d6.
+At 13th level: The base bomb damage increases to 7d6.
 
-At 15th level: The base bomb damage 8d6.
+At 15th level: The base bomb damage increases to 8d6.
 
-At 17th level: The base bomb damage 9d6.
+At 17th level: The base bomb damage increases to 9d6.
 
-At 19th level: The base bomb damage 10d6.
+At 19th level: The base bomb damage increases to 10d6.
 
 In addition to magical extracts, alchemists are adept at swiftly mixing various volatile chemicals
 and infusing them with their magical reserves to create powerful bombs that they can hurl at their
@@ -305,9 +305,9 @@ discovery.
 
 **Passive:** You gain a +2 bonus on all saving throws against poison.
 
-At 5th level: The bonus +4.
+At 5th level: The bonus increases to +4.
 
-At 8th level: The bonus +6.
+At 8th level: The bonus increases to +6.
 
 #### Poison Use (Ex) {#poison-use}
 

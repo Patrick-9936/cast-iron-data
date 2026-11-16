@@ -105,13 +105,13 @@ replace an older feat, following the rules given at 4th level., 8, 4
 
 **Passive:** You gain a +1 bonus on Will saves against fear.
 
-At 6th level: This bonus +2.
+At 6th level: This bonus increases to +2.
 
-At 10th level: This bonus +3.
+At 10th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 #### Armor Training (Ex) {#armor-training}
 

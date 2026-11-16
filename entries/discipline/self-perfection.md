@@ -106,19 +106,19 @@ instead of 3.
 
 **Special:** Use your psychic level as your caster level for these effects.
 
-At 7th level: Your healing pool 4d8.
+At 7th level: Your healing pool increases to 4d8.
 
-At 9th level: Your healing pool 5d8.
+At 9th level: Your healing pool increases to 5d8.
 
-At 11th level: Your healing pool 6d8.
+At 11th level: Your healing pool increases to 6d8.
 
-At 13th level: Your healing pool 7d8.
+At 13th level: Your healing pool increases to 7d8.
 
-At 15th level: Your healing pool 8d8.
+At 15th level: Your healing pool increases to 8d8.
 
-At 17th level: Your healing pool 9d8.
+At 17th level: Your healing pool increases to 9d8.
 
-At 19th level: Your healing pool 10d8.
+At 19th level: Your healing pool increases to 10d8.
 
 **Pure Body (Ex)**
 

@@ -43,9 +43,9 @@ damage stacks with sneak attack damage you may have from other sources.
 
 **Gained:** At 6th Level
 
-At 11th level: This sneak attack damage +2d6.
+At 11th level: This sneak attack damage increases to +2d6.
 
-At 17th level: This sneak attack damage +3d6.
+At 16th level: This sneak attack damage increases to +3d6.
 
 **Domain Spells**
 

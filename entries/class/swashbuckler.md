@@ -157,13 +157,13 @@ the save. You must choose to do this before the roll is made.
 **Passive:** You gain a +1 dodge bonus to AC while wearing light or no armor. Anything that causes
 you to lose your Dexterity bonus to AC also causes you to lose this dodge bonus.
 
-At 7th level: The bonus +2.
+At 7th level: The bonus increases to +2.
 
-At 11th level: The bonus +3.
+At 11th level: The bonus increases to +3.
 
-At 15th level: The bonus +4.
+At 15th level: The bonus increases to +4.
 
-At 19th level: The bonus +5.
+At 19th level: The bonus increases to +5.
 
 #### Bonus Feats: {#bonus-feats}
 
@@ -193,11 +193,11 @@ you have 0 panache points.
 weapons. While wielding such a weapon, you gain the benefit of the
 [Improved Critical](ref/feat/improved-critical) feat.
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +2.
 
-At 13th level: This bonus +3.
+At 13th level: This bonus increases to +3.
 
-At 17th level: This bonus +4.
+At 17th level: This bonus increases to +4.
 
 #### Swashbuckler Weapon Mastery (Ex) {#swashbuckler-weapon-mastery}
 

@@ -151,22 +151,22 @@ the ward against an undead creature immediately ends the effect.
 you for 1 round per occultist level. This ward burns undead creatures, dealing 1d4 damage when the
 undead enter the ward and each round they begin their turns within this area of effect.
 
-At 2nd level: The damage 2d4.
+At 2nd level: The damage increases to 2d4.
 
-At 4th level: The damage 3d4.
+At 4th level: The damage increases to 3d4.
 
-At 6th level: The damage 4d4.
+At 6th level: The damage increases to 4d4.
 
-At 8th level: The damage 5d4.
+At 8th level: The damage increases to 5d4.
 
-At 10th level: The damage 6d4.
+At 10th level: The damage increases to 6d4.
 
-At 12th level: The damage 7d4.
+At 12th level: The damage increases to 7d4.
 
-At 14th level: The damage 8d4.
+At 14th level: The damage increases to 8d4.
 
-At 16th level: The damage 9d4.
+At 16th level: The damage increases to 9d4.
 
-At 18th level: The damage 10d4.
+At 18th level: The damage increases to 10d4.
 
-At 20th level: The damage 11d4.
+At 20th level: The damage increases to 11d4.

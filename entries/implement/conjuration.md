@@ -50,17 +50,17 @@ minute.
 [summon monster I](ref/spell/summon-monster-1), but you can use it only to summon a single creature,
 and the effect lasts for 1 minute.
 
-At 4th level: This now behaves as summon monster +2.
+At 4th level: This now behaves as [summon monster II](ref/spell/summon-monster-2).
 
-At 7th level: This now behaves as summon monster +3.
+At 7th level: This now behaves as [summon monster III](ref/spell/summon-monster-3).
 
-At 10th level: This now behaves as summon monster +4.
+At 10th level: This now behaves as [summon monster IV](ref/spell/summon-monster-4).
 
-At 13th level: This now behaves as summon monster +5.
+At 13th level: This now behaves as [summon monster V](ref/spell/summon-monster-5).
 
-At 16th level: This now behaves as summon monster +6.
+At 16th level: This now behaves as [summon monster VI](ref/spell/summon-monster-6).
 
-At 19th level: This now behaves as summon monster +7.
+At 19th level: This now behaves as [summon monster VII](ref/spell/summon-monster-7).
 
 ### Focus Powers
 

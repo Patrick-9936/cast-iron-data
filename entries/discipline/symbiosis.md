@@ -120,8 +120,8 @@ day, you can animate a number of trees equal to 3 + your Charisma modifier, and 
 to one tree at a time. A tree remains animated for 10 minutes per level, or until dismissed by you
 or destroyed.
 
-At 15th level: The amount of trees you can control 2.
+At 15th level: The amount of trees you can control increases to 2.
 
-At 17th level: The amount of trees you can control 3.
+At 17th level: The amount of trees you can control increases to 3.
 
-At 19th level: The amount of trees you can control 4.
+At 19th level: The amount of trees you can control increases to 4.

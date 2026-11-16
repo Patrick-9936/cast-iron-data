@@ -273,17 +273,17 @@ opportunity. You do not need to have a free hand to cast a spell in this way.
 
 **Usage:** Wis modifier times/day + 1/2 your warpriest level
 
-At 5th level: The damage you deal or heal 2d6.
+At 5th level: The damage you deal or heal increases to 2d6.
 
-At 8th level: The damage you deal or heal 3d6.
+At 8th level: The damage you deal or heal increases to 3d6.
 
-At 11th level: The damage you deal or heal 4d6.
+At 11th level: The damage you deal or heal increases to 4d6.
 
-At 14th level: The damage you deal or heal 5d6.
+At 14th level: The damage you deal or heal increases to 5d6.
 
-At 17th level: The damage you deal or heal 6d6.
+At 17th level: The damage you deal or heal increases to 6d6.
 
-At 20th level: The damage you deal or heal 7d6.
+At 20th level: The damage you deal or heal increases to 7d6.
 
 #### Bonus Feats {#bonus-feats}
 
@@ -331,13 +331,13 @@ use of your _fervor._
 **Usage:** 1 minute/day per warpriest level; these minutes need not be consecutive, but must be
 spent in 1-minute increments
 
-At 10th level: The bonus +2.
+At 10th level: The bonus increases to +2.
 
-At 13th level: The bonus +3.
+At 13th level: The bonus increases to +3.
 
-At 16th level: The bonus +4.
+At 16th level: The bonus increases to +4.
 
-At 19th level: The bonus +5.
+At 19th level: The bonus increases to +5.
 
 These bonuses stack with any existing bonuses the armor might have, to a maximum of +5. You can
 enhance armor any of the following armor special abilities:

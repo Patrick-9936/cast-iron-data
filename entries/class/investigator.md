@@ -262,21 +262,21 @@ or until you deal damage with a _studied strike,_ whichever comes first.
 **Special:** You cannot use _studied strike_ against a creature with
 [concealment](ref/rule/concealment).
 
-At 6th level: The damage 2d6.
+At 6th level: The damage increases to 2d6.
 
-At 8th level: The damage 3d6.
+At 8th level: The damage increases to 3d6.
 
-At 10th level: The damage 4d6.
+At 10th level: The damage increases to 4d6.
 
-At 12th level: The damage 5d6.
+At 12th level: The damage increases to 5d6.
 
-At 14th level: The damage 6d6.
+At 14th level: The damage increases to 6d6.
 
-At 16th level: The damage 7d6.
+At 16th level: The damage increases to 7d6.
 
-At 18th level: The damage 8d6.
+At 18th level: The damage increases to 8d6.
 
-At 20th level: The damage 9d6.
+At 20th level: The damage increases to 9d6.
 
 Upon successfully hitting your _studied target_ with a melee attack, you deal 1d6 additional damage.
 This is precision damage, and is not multiplied on a critical hit; creatures that are immune to
