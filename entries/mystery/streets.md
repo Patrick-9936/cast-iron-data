@@ -123,9 +123,9 @@ creatures.
 within 30 feet succeed at a task. The ally gets a +2 competence bonus on skill checks with a
 particular skill as long as you concentrate.
 
-At 9th level: This bonus +3.
+At 9th level: This bonus increases to +3.
 
-At 15th level: This bonus +4.
+At 15th level: This bonus increases to +4.
 
 ### Final Revelation
 

@@ -25,8 +25,8 @@ Hit Dice for determining the effect of spells that are Hit Dice dependent.
 **Special:** _Inspire greatness_ is a mind-affecting ability and it relies on audible and visual
 components.
 
-At 12th level: The number of creatures he can target 2.
+At 12th level: The number of creatures he can target increases to 2.
 
-At 15th level: The number of creatures he can target 3.
+At 15th level: The number of creatures he can target increases to 3.
 
-At 18th level: The number of creatures he can target 4.
+At 18th level: The number of creatures he can target increases to 4.

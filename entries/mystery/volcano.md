@@ -66,9 +66,9 @@ Charisma is +2.
 
 **Flavor:** Volcanic vapors elevate your mind even as they ravage your body.
 
-At 10th level: The max bonus +4.
+At 10th level: The max bonus increases to +4.
 
-At 15th level: The max bonus +6.
+At 15th level: The max bonus increases to +6.
 
 **Burning Magic (Su)**
 

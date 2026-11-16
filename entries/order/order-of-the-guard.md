@@ -73,11 +73,11 @@ forced march.
 
 **Gained:** At 2nd Level
 
-At 8th level: The bonus +3.
+At 8th level: The bonus increases to +3.
 
-At 14th level: The bonus +4.
+At 14th level: The bonus increases to +4.
 
-At 20th level: The bonus +5.
+At 20th level: The bonus increases to +5.
 
 **Close at Hand (Ex)**
 

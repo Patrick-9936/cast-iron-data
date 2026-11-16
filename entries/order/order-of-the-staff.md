@@ -57,11 +57,11 @@ bonus increases by an additional +1.
 
 **Gained:** At 2nd Level
 
-At 8th level: This bonus +3.
+At 8th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 20th level: This bonus +5.
+At 20th level: This bonus increases to +5.
 
 **Arcane Vessel (Ex)**
 

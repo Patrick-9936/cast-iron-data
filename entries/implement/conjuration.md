@@ -84,13 +84,13 @@ occultist level you possess.
 creature is healed an amount of damage equal to 1d8 + your occultist level. This has no effect on
 undead creatures.
 
-At 7th level: The healing 2d8 + your occultist level.
+At 7th level: The healing increases to 2d8 + your occultist level.
 
-At 11th level: The healing 3d8 + your occultist level.
+At 11th level: The healing increases to 3d8 + your occultist level.
 
-At 15th level: The healing 4d8 + your occultist level.
+At 15th level: The healing increases to 4d8 + your occultist level.
 
-At 19th level: The healing 5d8 + your occultist level.
+At 19th level: The healing increases to 5d8 + your occultist level.
 
 **Mind Steed (Sp)**
 

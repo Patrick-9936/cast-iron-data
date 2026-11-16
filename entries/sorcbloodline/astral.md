@@ -91,21 +91,21 @@ instead.
 **Swift:** Once per day, you can cast one cantrip you know as though it were augmented by the
 Quicken Spell metamagic feat, without altering the cantrip's level.
 
-At 5th level: The maximum level of the spell you can augment 1.
+At 5th level: The maximum level of the spell you can augment increases to 1.
 
-At 7th level: The maximum level of the spell you can augment 2.
+At 7th level: The maximum level of the spell you can augment increases to 2.
 
-At 9th level: The maximum level of the spell you can augment 3.
+At 9th level: The maximum level of the spell you can augment increases to 3.
 
-At 11th level: The maximum level of the spell you can augment 4.
+At 11th level: The maximum level of the spell you can augment increases to 4.
 
-At 13th level: The maximum level of the spell you can augment 5.
+At 13th level: The maximum level of the spell you can augment increases to 5.
 
-At 15th level: The maximum level of the spell you can augment 6.
+At 15th level: The maximum level of the spell you can augment increases to 6.
 
-At 17th level: The maximum level of the spell you can augment 7.
+At 17th level: The maximum level of the spell you can augment increases to 7.
 
-At 19th level: The maximum level of the spell you can augment 8.
+At 19th level: The maximum level of the spell you can augment increases to 8.
 
 **Astral Voyager (Sp)**
 

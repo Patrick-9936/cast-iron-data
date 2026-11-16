@@ -23,10 +23,10 @@ to disbelieve the effect.
 
 **Flavor:** A cloud of smoke pops up around the subject, foiling attacks.
 
-At 5th level: The radius of the cloud 15 feet.
+At 5th level: The radius of the cloud increases to 15 feet.
 
-At 10th level: The radius of the cloud 20 feet.
+At 10th level: The radius of the cloud increases to 20 feet.
 
-At 15th level: The radius of the cloud 25 feet.
+At 15th level: The radius of the cloud increases to 25 feet.
 
-At 20th level: The radius of the cloud 30 feet.
+At 20th level: The radius of the cloud increases to 30 feet.

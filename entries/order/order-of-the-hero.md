@@ -66,11 +66,11 @@ energy [resistance](ref/umr/resistance) 5 against the chosen type for 1 minute.
 
 **Usage:** 1 time/day + 1 per 4 cavalier levels beyond 8th
 
-At 12th level: The resistance 10.
+At 12th level: The resistance increases to 10.
 
-At 16th level: The resistance 15.
+At 16th level: The resistance increases to 15.
 
-At 20th level: The resistance 20.
+At 20th level: The resistance increases to 20.
 
 **Counterstriking Challenge (Ex)**
 

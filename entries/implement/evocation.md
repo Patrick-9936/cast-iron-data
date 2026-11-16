@@ -45,23 +45,23 @@ touch attack. This ray has a range of 30 feet. The ray deals an amount of energy
 points. When you unleash an _energy ray,_ you must decide what type of damage it deals (acid, cold,
 electricity, or fire).
 
-At 3rd level: The damage 2d6.
+At 3rd level: The damage increases to 2d6.
 
-At 5th level: The damage 3d6.
+At 5th level: The damage increases to 3d6.
 
-At 7th level: The damage 4d6.
+At 7th level: The damage increases to 4d6.
 
-At 9th level: The damage 5d6.
+At 9th level: The damage increases to 5d6.
 
-At 11th level: The damage 6d6.
+At 11th level: The damage increases to 6d6.
 
-At 13th level: The damage 7d6.
+At 13th level: The damage increases to 7d6.
 
-At 15th level: The damage 8d6.
+At 15th level: The damage increases to 8d6.
 
-At 17th level: The damage 9d6.
+At 17th level: The damage increases to 9d6.
 
-At 19th level: The damage 10d6.
+At 19th level: The damage increases to 10d6.
 
 ### Focus Powers
 
@@ -77,19 +77,19 @@ a 20-foot-radius [burst](ref/misc/burst), but each affected creature can attempt
 halve the damage. When you unleash an _energy blast,_ you must decide what type of damage it deals
 (acid, cold, electricity, or fire).
 
-At 7th level: The damage 6d6.
+At 7th level: The damage increases to 6d6.
 
-At 9th level: The damage 7d6.
+At 9th level: The damage increases to 7d6.
 
-At 11th level: The damage 8d6.
+At 11th level: The damage increases to 8d6.
 
-At 13th level: The damage 9d6.
+At 13th level: The damage increases to 9d6.
 
-At 15th level: The damage 10d6.
+At 15th level: The damage increases to 10d6.
 
-At 17th level: The damage 11d6.
+At 17th level: The damage increases to 11d6.
 
-At 19th level: The damage 12d6.
+At 19th level: The damage increases to 12d6.
 
 **Energy Ward (Sp)**
 

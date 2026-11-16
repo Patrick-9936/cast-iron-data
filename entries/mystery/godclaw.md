@@ -161,11 +161,11 @@ attacks. The shield grants a +4 deflection bonus to your Armor Class.
 **Usage:** 1 minute/day per 2 oracle levels; these minutes need not be consecutive, but must be
 spent in 1-minute increments
 
-At 7th level: This bonus +5.
+At 7th level: This bonus increases to +5.
 
-At 11th level: This bonus +6.
+At 11th level: This bonus increases to +6.
 
-At 15th level: This bonus +7.
+At 15th level: This bonus increases to +7.
 
 ### Final Revelation
 

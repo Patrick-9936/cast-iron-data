@@ -93,13 +93,13 @@ any other fire resistance you have). If you chose water, you gain a +4 bonus on
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The AC bonus +6.
+At 7th level: The AC bonus increases to +6.
 
-At 11th level: The AC bonus +8.
+At 11th level: The AC bonus increases to +8.
 
-At 15th level: The AC bonus +10.
+At 15th level: The AC bonus increases to +10.
 
-At 19th level: The AC bonus +12.
+At 19th level: The AC bonus increases to +12.
 
 **Elemental Allies (Su)**
 
@@ -190,9 +190,9 @@ weapon.
 
 **Usage:** Charisma3 modifier times/day
 
-At 15th level: The enhancement bonus +2.
+At 15th level: The enhancement bonus increases to +2.
 
-At 19th level: The enhancement bonus +3.
+At 19th level: The enhancement bonus increases to +3.
 
 **Roiling Soil (Su)**
 

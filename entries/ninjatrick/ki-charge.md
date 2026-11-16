@@ -25,10 +25,10 @@ ninja's Charisma modifier.
 If the thrown weapon hits a creature, that creature takes a -2 penalty on the saving throw. If the
 thrown weapon misses, treat it as a [thrown splash weapon](ref/rule/throw-splash-weapon).
 
-At 6th level: The fire damage 2d6.
+At 6th level: The fire damage increases to 2d6.
 
-At 10th level: The fire damage 3d6.
+At 10th level: The fire damage increases to 3d6.
 
-At 14th level: The fire damage 4d6.
+At 14th level: The fire damage increases to 4d6.
 
-At 18th level: The fire damage 5d6.
+At 18th level: The fire damage increases to 5d6.

@@ -60,13 +60,13 @@ rather than himself.
 **Passive:** The cavalier gains a +1 bonus to his CMD against attempts to tumble through squares he
 threatens.
 
-At 6th level: This bonus +2.
+At 6th level: This bonus increases to +2.
 
-At 10th level: This bonus +3.
+At 10th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Seek Retribution (Ex)**
 

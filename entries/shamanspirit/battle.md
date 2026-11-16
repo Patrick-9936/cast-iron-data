@@ -69,9 +69,9 @@ when the bonus is reduced to +0 or after 24 hours, whichever comes first.
 
 **Special:** A creature affected by this hex cannot be affected by it again for 24 hours.
 
-At 8th level: The starting bonus +4.
+At 8th level: The starting bonus increases to +4.
 
-At 16th level: The starting bonus +5.
+At 16th level: The starting bonus increases to +5.
 
 **Curse of Suffering (Su)**
 
@@ -132,9 +132,9 @@ shaman (including the shaman) receive a +1 morale bonus on attack rolls and weap
 
 **Usage:** Charisma3 modifier rounds/day
 
-At 8th level: This bonus +2.
+At 8th level: This bonus increases to +2.
 
-At 16th level: This bonus +3.
+At 16th level: This bonus increases to +3.
 
 ### Greater Spirit Ability
 

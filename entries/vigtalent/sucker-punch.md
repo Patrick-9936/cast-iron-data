@@ -18,8 +18,8 @@ group = "vigilante-talent"
 as an ally), and the attack deals nonlethal damage, the attack deals an additional 1d6 points of
 nonlethal damage.
 
-At 6th level: This additional damage 2d6.
+At 6th level: This additional damage increases to 2d6.
 
-At 12th level: This additional damage 3d6.
+At 12th level: This additional damage increases to 3d6.
 
-At 18th level: This additional damage 4d6.
+At 18th level: This additional damage increases to 4d6.

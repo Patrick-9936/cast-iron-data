@@ -55,13 +55,13 @@ An oracle with the Bones mystery can choose from any of the following revelation
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The armor's bonus +6.
+At 7th level: The armor's bonus increases to +6.
 
-At 11th level: The armor's bonus +8.
+At 11th level: The armor's bonus increases to +8.
 
-At 15th level: The armor's bonus +10.
+At 15th level: The armor's bonus increases to +10.
 
-At 19th level: The armor's bonus +12.
+At 19th level: The armor's bonus increases to +12.
 
 **Bleeding Wounds (Su)**
 
@@ -114,9 +114,9 @@ energy. You are not subject to [Turn Undead](ref/feat/turn-undead) or
 [Command Undead](ref/feat/command-undead) (or any other effect that specifically targets undead),
 unless you are actually an undead creature.
 
-At 11th level: This bonus +4.
+At 11th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Soul Siphon (Su)**
 
@@ -161,11 +161,11 @@ effect.
 
 **Usage:** 1 time/day per oracle level
 
-At 10th level: The penalty -4.
+At 10th level: The penalty increases to -4.
 
-At 15th level: The penalty -6.
+At 15th level: The penalty increases to -6.
 
-At 20th level: The penalty -8.
+At 20th level: The penalty increases to -8.
 
 ### Final Revelation
 

@@ -31,11 +31,11 @@ Transmutation implements can alter the properties of both objects and creatures.
 implement grants a +2 temporary enhancement bonus to that physical ability score for every 3 points
 of mental focus invested in the implement (to a maximum of +2).
 
-At 6th level: The maximum bonus +4.
+At 6th level: The maximum bonus increases to +4.
 
-At 12th level: The maximum bonus +6.
+At 12th level: The maximum bonus increases to +6.
 
-At 18th level: The maximum bonus +8.
+At 18th level: The maximum bonus increases to +8.
 
 ### Base Focus Power
 

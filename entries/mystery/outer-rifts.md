@@ -70,13 +70,13 @@ damage per level. A successful Reflex save halves this damage.
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The armor bonus +6.
+At 7th level: The armor bonus increases to +6.
 
-At 11th level: The armor bonus +8.
+At 11th level: The armor bonus increases to +8.
 
-At 15th level: The armor bonus +10.
+At 15th level: The armor bonus increases to +10.
 
-At 19th level: The armor bonus +12.
+At 19th level: The armor bonus increases to +12.
 
 **Dread Resilience (Ex)**
 

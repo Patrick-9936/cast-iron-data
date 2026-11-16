@@ -62,9 +62,9 @@ property.
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
-At 15th level: The enhancement bonus +2.
+At 15th level: The enhancement bonus increases to +2.
 
-At 19th level: The enhancement bonus +3.
+At 19th level: The enhancement bonus increases to +3.
 
 **Blood of Heroes (Su)**
 
@@ -75,9 +75,9 @@ a number of rounds equal to your Charisma bonus.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
 
-At 7th level: This bonus +2.
+At 7th level: This bonus increases to +2.
 
-At 14th level: This bonus +3.
+At 14th level: This bonus increases to +3.
 
 **Phantom Touch (Su)**
 
@@ -120,13 +120,13 @@ roll against you to have a 50% miss chance.
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: This bonus +6.
+At 7th level: This bonus increases to +6.
 
-At 11th level: This bonus +8.
+At 11th level: This bonus increases to +8.
 
-At 15th level: This bonus +10.
+At 15th level: This bonus increases to +10.
 
-At 19th level: This bonus +12.
+At 19th level: This bonus increases to +12.
 
 **Spirit Walk (Su)**
 
@@ -174,11 +174,11 @@ effect.
 
 **Usage:** 1 time/day per oracle level
 
-At 10th level: The penalty -4.
+At 10th level: The penalty increases to -4.
 
-At 15th level: The penalty -6.
+At 15th level: The penalty increases to -6.
 
-At 20th level: The penalty -8.
+At 20th level: The penalty increases to -8.
 
 **Wisdom of the Ancestors (Su)**
 

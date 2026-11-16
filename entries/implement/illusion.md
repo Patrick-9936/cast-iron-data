@@ -36,23 +36,23 @@ every point of mental focus invested in the implement (to a maximum of 5%) until
 bearer makes an attack. If this miss chance reaches 50%, it doesn't increase further, but the bearer
 gains all the benefits of [invisibility](ref/spell/invisibility).
 
-At 2nd level: The miss chance maximum 10%.
+At 2nd level: The maximum miss chance increases to 10%.
 
-At 4th level: The miss chance maximum 15%.
+At 4th level: The maximum miss chance increases to 15%.
 
-At 6th level: The miss chance maximum 20%.
+At 6th level: The maximum miss chance increases to 20%.
 
-At 8th level: The miss chance maximum 25%.
+At 8th level: The maximum miss chance increases to 25%.
 
-At 10th level: The miss chance maximum 30%.
+At 10th level: The maximum miss chance increases to 30%.
 
-At 12th level: The miss chance maximum 35%.
+At 12th level: The maximum miss chance increases to 35%.
 
-At 14th level: The miss chance maximum 40%.
+At 14th level: The maximum miss chance increases to 40%.
 
-At 16th level: The miss chance maximum 45%.
+At 16th level: The maximum miss chance increases to 45%.
 
-At 18th level: The miss chance maximum 50%.
+At 18th level: The maximum miss chance increases to 50%.
 
 ### Base Focus Power
 
@@ -135,13 +135,13 @@ This can be used to duplicate any summon monster spell up to
 [summon monster V](ref/spell/summon-monster-5). Regardless of the spell duplicated, the creatures
 remain for 1 round per occultist level you possess.
 
-At 11th level: This can now duplicate summon monster +6.
+At 11th level: This can now duplicate [summon monster VI](ref/spell/summon-monster-6).
 
-At 13th level: This can now duplicate summon monster +7.
+At 13th level: This can now duplicate [summon monster VII](ref/spell/summon-monster-7).
 
-At 15th level: This can now duplicate summon monster +8.
+At 15th level: This can now duplicate [summon monster VIII](ref/spell/summon-monster-8).
 
-At 17th level: This can now duplicate summon monster +9.
+At 17th level: This can now duplicate [summon monster IX](ref/spell/summon-monster-9).
 
 **Unseen (Sp)**
 

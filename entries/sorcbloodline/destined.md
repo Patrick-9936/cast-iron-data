@@ -74,13 +74,13 @@ ability checks, and saving throws equal to half your sorcerer level (minimum 1) 
 **Passive:** You gain a +1 luck bonus on all of your saving throws and to your AC during surprise
 rounds and when you are otherwise unaware of an attack.
 
-At 7th level: This bonus +2.
+At 7th level: This bonus increases to +2.
 
-At 11th level: This bonus +3.
+At 11th level: This bonus increases to +3.
 
-At 15th level: This bonus +4.
+At 15th level: This bonus increases to +4.
 
-At 19th level: This bonus +5.
+At 19th level: This bonus increases to +5.
 
 **It Was Meant To Be (Su)**
 

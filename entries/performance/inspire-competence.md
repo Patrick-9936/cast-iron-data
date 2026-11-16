@@ -22,10 +22,10 @@ with a particular skill as long as she continues to hear the bard's performance.
 the GM's discretion. A bard can't _inspire competence_ in himself. _Inspire competence_ relies on
 audible components.
 
-At 7th level: This bonus +3.
+At 7th level: This bonus increases to +3.
 
-At 11th level: This bonus +4.
+At 11th level: This bonus increases to +4.
 
-At 15th level: This bonus +5.
+At 15th level: This bonus increases to +5.
 
-At 19th level: This bonus +6.
+At 19th level: This bonus increases to +6.
