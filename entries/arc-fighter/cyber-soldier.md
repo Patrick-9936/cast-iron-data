@@ -40,11 +40,11 @@ such weapons are thrown. This attack bonus does not stack with the attack bonus 
 
 **Replaces:** Weapon training 1
 
-At 9th level: The damage bonus +2.
+At 9th level: The damage bonus increases to +2.
 
-At 13th level: The damage bonus +3.
+At 13th level: The damage bonus increases to +3.
 
-At 17th level: The damage bonus +4.
+At 17th level: The damage bonus increases to +4.
 
 **Improved Implantation (Ex)**
 

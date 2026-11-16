@@ -33,13 +33,13 @@ weapons, he gains a +1 dodge bonus to AC against melee attacks until the beginni
 
 **Replaces:** Armor training 1 and 2
 
-At 7th level: This bonus +2.
+At 7th level: This bonus increases to +2.
 
-At 11th level: This bonus +3.
+At 11th level: This bonus increases to +3.
 
-At 15th level: This bonus +4.
+At 15th level: This bonus increases to +4.
 
-At 19th level: This bonus +5.
+At 19th level: This bonus increases to +5.
 
 **Twin Blades (Ex)**
 
@@ -50,11 +50,11 @@ attack with two weapons or a double weapon.
 
 **Replaces:** Weapon training 1
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +2.
 
-At 13th level: This bonus +3.
+At 13th level: This bonus increases to +3.
 
-At 17th level: This bonus +4.
+At 17th level: This bonus increases to +4.
 
 **Doublestrike (Ex)**
 

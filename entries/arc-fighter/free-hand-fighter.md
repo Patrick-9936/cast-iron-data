@@ -34,13 +34,13 @@ and on Bluff checks to feint or create a diversion to hide.
 
 **Replaces:** Bravery
 
-At 6th level: This bonus +2.
+At 6th level: This bonus increases to +2.
 
-At 10th level: This bonus +3.
+At 10th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Elusive (Ex)**
 
@@ -53,13 +53,13 @@ At 18th level: This bonus +5.
 **Special:** This bonus does not apply when wearing medium or heavy armor or carrying a medium or
 heavier load.
 
-At 6th level: This bonus +2.
+At 6th level: This bonus increases to +2.
 
-At 10th level: This bonus +3.
+At 10th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Singleton (Ex)**
 
@@ -70,9 +70,9 @@ weapon in one hand and leaving his other hand free.
 
 **Replaces:** Weapon training 1 and 4
 
-At 11th level: This bonus +2.
+At 11th level: This bonus increases to +2.
 
-At 17th level: This bonus +3.
+At 17th level: This bonus increases to +3.
 
 **Timely Tip (Ex)**
 

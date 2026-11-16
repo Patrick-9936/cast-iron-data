@@ -65,8 +65,8 @@ weapon sized for a creature of a larger size category.
 
 **Replaces:** Weapon training
 
-At 9th level: The bonus +2.
+At 9th level: The bonus increases to +2.
 
-At 13th level: The bonus +3.
+At 13th level: The bonus increases to +3.
 
-At 17th level: The bonus +4.
+At 17th level: The bonus increases to +4.

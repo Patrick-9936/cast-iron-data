@@ -35,13 +35,13 @@ he spends another immediate action to return to the normal grip.
 
 **Replaces:** Bravery
 
-At 6th level: The penalty on attack rolls -3.
+At 6th level: The penalty on attack rolls is reduced to -3.
 
-At 10th level: The penalty on attack rolls -4.
+At 10th level: The penalty on attack rolls is reduced to -2.
 
-At 14th level: The penalty on attack rolls -5.
+At 14th level: The penalty on attack rolls is reduced to -1.
 
-At 18th level: The penalty on attack rolls -6.
+At 18th level: The penalty on attack rolls is reduced to 0.
 
 **Steadfast Pike (Ex)**
 
@@ -52,13 +52,13 @@ attacks and attacks of opportunity made with a spear or polearm.
 
 **Replaces:** Armor training 1, 2, 3, and 4
 
-At 7th level: The bonus +2.
+At 7th level: The bonus increases to +2.
 
-At 11th level: The bonus +3.
+At 11th level: The bonus increases to +3.
 
-At 15th level: The bonus +4.
+At 15th level: The bonus increases to +4.
 
-At 19th level: The bonus +5.
+At 19th level: The bonus increases to +5.
 
 **Polearm Training (Ex)**
 
@@ -68,11 +68,11 @@ At 19th level: The bonus +5.
 
 **Replaces:** Weapon training 1
 
-At 9th level: The bonus +2.
+At 9th level: The bonus increases to +2.
 
-At 13th level: The bonus +3.
+At 13th level: The bonus increases to +3.
 
-At 17th level: The bonus +4.
+At 17th level: The bonus increases to +4.
 
 **Flexible Flanker (Ex)**
 

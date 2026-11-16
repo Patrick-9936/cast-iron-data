@@ -44,13 +44,13 @@ and shields (except tower shields).
 
 **Replaces:** Bravery
 
-At 6th level: This bonus +2.
+At 6th level: This bonus increases to +2.
 
-At 10th level: This bonus +3.
+At 10th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Uncanny Dodge (Su)**
 
@@ -73,11 +73,11 @@ attack rolls, weapon damage rolls, and Will saves.
 **Special:** A sensate loses his centered state if he gains the confused, dazed, fascinated,
 staggered, or stunned condition; falls unconscious; or fails a Will save.
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +2.
 
-At 13th level: This bonus +3.
+At 13th level: This bonus increases to +3.
 
-At 17th level: This bonus +4.
+At 17th level: This bonus increases to +4.
 
 **Improved Uncanny Dodge (Su)**
 

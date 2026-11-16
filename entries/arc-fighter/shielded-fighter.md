@@ -39,13 +39,13 @@ simultaneously.
 [half](ref/misc/fractions-and-rounding) of the bonus (minimum +0) with all adjacent allies, until
 the beginning of his next turn.
 
-At 7th level: The dodge bonus +2.
+At 7th level: The dodge bonus increases to +2.
 
-At 11th level: The dodge bonus +3.
+At 11th level: The dodge bonus increases to +3.
 
-At 15th level: The dodge bonus +4.
+At 15th level: The dodge bonus increases to +4.
 
-At 19th level: The dodge bonus +5.
+At 19th level: The dodge bonus increases to +5.
 
 **Shield Fighter (Ex)**
 
@@ -60,11 +60,11 @@ At 19th level: The dodge bonus +5.
 between using his weapon or his shield for each attack. This action does not grant additional
 attacks or incur penalties as two-weapon fighting does.
 
-At 9th level: The bonus +2.
+At 9th level: The bonus increases to +2.
 
-At 13th level: The bonus +3.
+At 13th level: The bonus increases to +3.
 
-At 17th level: The bonus +4.
+At 17th level: The bonus increases to +4.
 
 **Shield Buffet (Ex)**
 

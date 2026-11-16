@@ -50,13 +50,13 @@ would immobilize or paralyze him.
 
 **Replaces:** Bravery
 
-At 6th level: The bonus +2.
+At 6th level: The bonus increases to +2.
 
-At 10th level: The bonus +3.
+At 10th level: The bonus increases to +3.
 
-At 14th level: The bonus +4.
+At 14th level: The bonus increases to +4.
 
-At 18th level: The bonus +5.
+At 18th level: The bonus increases to +5.
 
 **Aquadynamic Paragon**
 
