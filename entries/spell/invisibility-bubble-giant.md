@@ -34,7 +34,7 @@ casting_time = "1 standard action"
 components = "V, S, M (needle from a sea urchin)"
 range = "touch"
 effects = [
-  { label = "Area", value = "10-ft..-radius emanation centered on the touched creature's space" },
+  { label = "Area", value = "10-ft.-radius emanation centered on the touched creature's space" },
 ]
 duration = "1 minute/level (D)"
 saving_throw = "Will negates (harmless)"
@@ -51,7 +51,7 @@ Range: touch
 Duration: 1 minute/level (D)
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Area: 10-ft..-radius emanation centered on the touched creature's space
+Area: 10-ft.-radius emanation centered on the touched creature's space
 Subschool: Glamer
 Descriptors: glamer
 :::

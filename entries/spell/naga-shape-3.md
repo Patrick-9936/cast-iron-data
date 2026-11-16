@@ -27,7 +27,7 @@ levels = [
   { class = "Wizard", level = 6 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (a piece of the creautre whose form you want to assume)"
+components = "V, S, M (a piece of the creature whose form you want to assume)"
 range = "personal"
 effects = [
   { label = "Target", value = "you" },
@@ -42,7 +42,7 @@ title = "Spell statistics"
 School: transmutation
 Level: 6: Alchemist, Arcanist, Investigator, Magus, Sorcerer, Wizard
 Casting time: 1 standard action
-Components: V, S, M (a piece of the creautre whose form you want to assume)
+Components: V, S, M (a piece of the creature whose form you want to assume)
 Range: personal
 Duration: 1 minute/level (D)
 Saving throw: none
