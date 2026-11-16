@@ -17,20 +17,20 @@ page = "208"
 [fields]
 kind = "spell"
 school = "evocation"
-descriptors = ["fire"]
+descriptors = ["fire", "ruse"]
 levels = [
-  { class = "Arcanist", level = 3 },
-  { class = "Bloodrager", level = 3 },
-  { class = "Magus", level = 3 },
-  { class = "Occultist", level = 3 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Wizard", level = 3 },
+  { class = "Arcanist", level = 4 },
+  { class = "Bloodrager", level = 4 },
+  { class = "Magus", level = 4 },
+  { class = "Occultist", level = 4 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a ball of bat guano and sulfur)"
 range = "long (400 ft. + 40 ft./level)"
 effects = [
-  { label = "Area", value = "20-ft.-radius spread" },
+  { label = "Area", value = "20-foot-radius spread" },
 ]
 duration = "instantaneous"
 saving_throw = "Reflex half"
@@ -40,15 +40,15 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: evocation
-Level: 3: Arcanist, Bloodrager, Magus, Occultist, Sorcerer, Wizard
+Level: 4: Arcanist, Bloodrager, Magus, Occultist, Sorcerer, Wizard
 Casting time: 1 standard action
 Components: V, S, M (a ball of bat guano and sulfur)
 Range: long (400 ft. + 40 ft./level)
 Duration: instantaneous
 Saving throw: Reflex half
 Spell resistance: yes
-Area: 20-ft.-radius spread
-Descriptors: fire
+Area: 20-foot-radius spread
+Descriptors: fire, ruse
 :::
 
 ### Controlled Fireball

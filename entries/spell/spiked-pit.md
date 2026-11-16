@@ -19,11 +19,11 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Creation"]
 levels = [
-  { class = "Arcanist", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, F (miniature shovel costing 10 gp)"
@@ -39,7 +39,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 2: Arcanist, Sorcerer, Summoner, Unchained Summoner, Wizard
+Level: 3: Arcanist, Sorcerer, Summoner, Unchained Summoner, Wizard
 Casting time: 1 standard action
 Components: V, S, F (miniature shovel costing 10 gp)
 Range: medium (100 ft. + 10 ft./level)

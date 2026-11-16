@@ -18,31 +18,25 @@ page = "228"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Adept", level = 1 },
-  { class = "Alchemist", level = 1 },
-  { class = "Arcanist", level = 1 },
-  { class = "Bloodrager", level = 1 },
-  { class = "Cleric", level = 1 },
-  { class = "Druid", level = 1 },
-  { class = "Hunter", level = 1 },
-  { class = "Investigator", level = 1 },
-  { class = "Oracle", level = 1 },
-  { class = "Paladin", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Ranger", level = 1 },
-  { class = "Shaman", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Spiritualist", level = 1 },
-  { class = "Summoner", level = 1 },
-  { class = "Unchained Summoner", level = 1 },
-  { class = "Warpriest", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Alchemist", level = 3 },
+  { class = "Arcanist", level = 2 },
+  { class = "Cleric", level = 2 },
+  { class = "Druid", level = 2 },
+  { class = "Hunter", level = 2 },
+  { class = "Investigator", level = 3 },
+  { class = "Oracle", level = 2 },
+  { class = "Paladin", level = 2 },
+  { class = "Psychic", level = 2 },
+  { class = "Ranger", level = 2 },
+  { class = "Sorcerer", level = 2 },
+  { class = "Warpriest", level = 2 },
+  { class = "Wizard", level = 2 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "24 hours"
 saving_throw = "Will negates (harmless)"
@@ -52,14 +46,15 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 1: Adept, Alchemist, Arcanist, Bloodrager, Cleric, Druid, Hunter, Investigator, Oracle, Paladin, Psychic, Ranger, Shaman, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Warpriest, Wizard
+Level: 2: Arcanist, Cleric, Druid, Hunter, Oracle, Paladin, Psychic, Ranger, Sorcerer, Warpriest, Wizard\
+3: Alchemist, Investigator
 Casting time: 1 standard action
 Components: V, S
 Range: touch
 Duration: 24 hours
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Targets: creatures touched
 :::
 
 ### Communal Endure Elements

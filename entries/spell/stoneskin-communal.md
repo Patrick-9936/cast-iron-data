@@ -18,28 +18,24 @@ page = "245"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Adept", level = 4 },
-  { class = "Alchemist", level = 4 },
-  { class = "Arcanist", level = 4 },
-  { class = "Bloodrager", level = 4 },
-  { class = "Druid", level = 5 },
-  { class = "Hunter", level = 5 },
-  { class = "Inquisitor", level = 4 },
-  { class = "Investigator", level = 4 },
-  { class = "Magus", level = 4 },
-  { class = "Occultist", level = 4 },
-  { class = "Psychic", level = 4 },
-  { class = "Shaman", level = 5 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Summoner", level = 3 },
-  { class = "Unchained Summoner", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Alchemist", level = 5 },
+  { class = "Arcanist", level = 5 },
+  { class = "Druid", level = 6 },
+  { class = "Hunter", level = 6 },
+  { class = "Inquisitor", level = 5 },
+  { class = "Investigator", level = 5 },
+  { class = "Occultist", level = 5 },
+  { class = "Psychic", level = 5 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Summoner", level = 4 },
+  { class = "Unchained Summoner", level = 5 },
+  { class = "Wizard", level = 5 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (granite and diamond dust worth 250 gp)"
+components = "V, S, M (granite and diamond dust worth 250 gp per creature affected)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "10 min./level or until discharged"
 saving_throw = "Will negates (harmless)"
@@ -49,16 +45,16 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 3: Summoner\
-4: Adept, Alchemist, Arcanist, Bloodrager, Inquisitor, Investigator, Magus, Occultist, Psychic, Sorcerer, Unchained Summoner, Wizard\
-5: Druid, Hunter, Shaman
+Level: 4: Summoner\
+5: Alchemist, Arcanist, Inquisitor, Investigator, Occultist, Psychic, Sorcerer, Unchained Summoner, Wizard\
+6: Druid, Hunter
 Casting time: 1 standard action
-Components: V, S, M (granite and diamond dust worth 250 gp)
+Components: V, S, M (granite and diamond dust worth 250 gp per creature affected)
 Range: touch
 Duration: 10 min./level or until discharged
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Targets: creatures touched
 :::
 
 ### Communal Stoneskin

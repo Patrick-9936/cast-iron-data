@@ -19,12 +19,12 @@ kind = "spell"
 school = "evocation"
 descriptors = ["fire"]
 levels = [
-  { class = "Druid", level = 1 },
-  { class = "Hunter", level = 1 },
-  { class = "Shaman", level = 1 },
+  { class = "Druid", level = 2 },
+  { class = "Hunter", level = 2 },
+  { class = "Shaman", level = 2 },
 ]
 casting_time = "1 standard action"
-components = "V, S"
+components = "V, S, M (caphorite shard)"
 range = "0 ft."
 effects = [
   { label = "Effect", value = "flame in your palm" },
@@ -37,9 +37,9 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: evocation
-Level: 1: Druid, Hunter, Shaman
+Level: 2: Druid, Hunter, Shaman
 Casting time: 1 standard action
-Components: V, S
+Components: V, S, M (caphorite shard)
 Range: 0 ft.
 Duration: 1 minute/level (D)
 Saving throw: none

@@ -17,18 +17,16 @@ page = "223"
 [fields]
 kind = "spell"
 school = "conjuration"
-subschools = ["Summoning"]
 levels = [
-  { class = "Druid", level = 1 },
-  { class = "Hunter", level = 1 },
-  { class = "Ranger", level = 1 },
-  { class = "Shaman", level = 1 },
+  { class = "Druid", level = 5 },
+  { class = "Hunter", level = 5 },
+  { class = "Shaman", level = 5 },
 ]
 casting_time = "1 round"
 components = "V, S, DF"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Effect", value = "one summoned creature" },
+  { label = "Effect", value = "one or more kami" },
 ]
 duration = "1 round/level (D)"
 saving_throw = "none"
@@ -38,15 +36,14 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 1: Druid, Hunter, Ranger, Shaman
+Level: 5: Druid, Hunter, Shaman
 Casting time: 1 round
 Components: V, S, DF
 Range: close (25 ft. + 5 ft./2 levels)
 Duration: 1 round/level (D)
 Saving throw: none
 Spell resistance: no
-Effect: one summoned creature
-Subschool: Summoning
+Effect: one or more kami
 :::
 
 ### Summon Kami

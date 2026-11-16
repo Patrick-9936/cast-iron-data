@@ -18,16 +18,11 @@ page = "60"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Arcanist", level = 4 },
-  { class = "Bard", level = 4 },
-  { class = "Cleric", level = 4 },
-  { class = "Magus", level = 4 },
-  { class = "Occultist", level = 4 },
-  { class = "Oracle", level = 4 },
-  { class = "Skald", level = 4 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Warpriest", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Arcanist", level = 9 },
+  { class = "Cleric", level = 9 },
+  { class = "Oracle", level = 9 },
+  { class = "Sorcerer", level = 9 },
+  { class = "Wizard", level = 9 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a white silk glove worth 25 gp)"
@@ -43,7 +38,7 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 4: Arcanist, Bard, Cleric, Magus, Occultist, Oracle, Skald, Sorcerer, Warpriest, Wizard
+Level: 9: Arcanist, Cleric, Oracle, Sorcerer, Wizard
 Casting time: 1 standard action
 Components: V, S, M (a white silk glove worth 25 gp)
 Range: touch

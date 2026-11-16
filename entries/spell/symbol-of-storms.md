@@ -16,41 +16,44 @@ page = "28"
 
 [fields]
 kind = "spell"
-school = "necromancy"
-descriptors = ["death"]
+school = "evocation"
+descriptors = ["air", "electricity"]
 levels = [
-  { class = "Arcanist", level = 8 },
-  { class = "Cleric", level = 8 },
-  { class = "Occultist", level = 6 },
-  { class = "Oracle", level = 8 },
-  { class = "Sorcerer", level = 8 },
-  { class = "Witch", level = 8 },
-  { class = "Wizard", level = 8 },
+  { class = "Arcanist", level = 6 },
+  { class = "Cleric", level = 6 },
+  { class = "Druid", level = 6 },
+  { class = "Hunter", level = 3 },
+  { class = "Oracle", level = 6 },
+  { class = "Ranger", level = 3 },
+  { class = "Sorcerer", level = 6 },
+  { class = "Warpriest", level = 6 },
+  { class = "Witch", level = 6 },
+  { class = "Wizard", level = 6 },
 ]
 casting_time = "10 minutes"
-components = "V, S, M (mercury and phosphorus, plus powdered diamond and opal worth 5,000 gp each)"
+components = "V, S, M (powdered copper and pumice worth a total of 1,500 gp)"
 range = "0 ft.; see text"
 effects = [
   { label = "Effect", value = "one symbol" },
 ]
 duration = "see text"
-saving_throw = "Fortitude negates"
+saving_throw = "Reflex half; see text"
 spell_resistance = "yes"
 +++
 
 ::: statblock
 title = "Spell statistics"
-School: necromancy
-Level: 6: Occultist\
-8: Arcanist, Cleric, Oracle, Sorcerer, Witch, Wizard
+School: evocation
+Level: 3: Hunter, Ranger\
+6: Arcanist, Cleric, Druid, Oracle, Sorcerer, Warpriest, Witch, Wizard
 Casting time: 10 minutes
-Components: V, S, M (mercury and phosphorus, plus powdered diamond and opal worth 5,000 gp each)
+Components: V, S, M (powdered copper and pumice worth a total of 1,500 gp)
 Range: 0 ft.; see text
 Duration: see text
-Saving throw: Fortitude negates
+Saving throw: Reflex half; see text
 Spell resistance: yes
 Effect: one symbol
-Descriptors: death
+Descriptors: air, electricity
 :::
 
 ### Symbol of Storms

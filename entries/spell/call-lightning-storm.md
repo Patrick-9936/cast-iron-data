@@ -19,14 +19,14 @@ kind = "spell"
 school = "evocation"
 descriptors = ["electricity"]
 levels = [
-  { class = "Druid", level = 3 },
-  { class = "Hunter", level = 3 },
-  { class = "Occultist", level = 3 },
-  { class = "Shaman", level = 3 },
+  { class = "Druid", level = 5 },
+  { class = "Hunter", level = 5 },
+  { class = "Occultist", level = 5 },
+  { class = "Shaman", level = 5 },
 ]
 casting_time = "1 round"
 components = "V, S"
-range = "medium (100 ft. + 10 ft./level)"
+range = "long (400 ft. + 40 ft./level)"
 effects = [
   { label = "Effect", value = "one or more 30-ft.-long vertical lines of lightning" },
 ]
@@ -38,10 +38,10 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: evocation
-Level: 3: Druid, Hunter, Occultist, Shaman
+Level: 5: Druid, Hunter, Occultist, Shaman
 Casting time: 1 round
 Components: V, S
-Range: medium (100 ft. + 10 ft./level)
+Range: long (400 ft. + 40 ft./level)
 Duration: 1 minute/level
 Saving throw: Reflex half
 Spell resistance: yes

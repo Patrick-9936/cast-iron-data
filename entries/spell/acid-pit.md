@@ -18,36 +18,38 @@ page = "204"
 kind = "spell"
 school = "conjuration"
 subschools = ["Creation"]
+descriptors = ["acid"]
 levels = [
-  { class = "Arcanist", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 4 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Summoner", level = 4 },
+  { class = "Unchained Summoner", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "1 standard action"
-components = "V, S, F (miniature shovel costing 10 gp)"
+components = "V, S, M (drop of acid), F (Fine shovel worth 10 gp)"
 range = "medium (100 ft. + 10 ft./level)"
 effects = [
   { label = "Effect", value = "10-ft.-by-10-ft. hole, 10 ft. deep/2 levels" },
 ]
 duration = "1 round + 1 round/level"
-saving_throw = "Reflex negates"
+saving_throw = "Reflex negates, see text"
 spell_resistance = "no"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 2: Arcanist, Sorcerer, Summoner, Unchained Summoner, Wizard
+Level: 4: Arcanist, Sorcerer, Summoner, Unchained Summoner, Wizard
 Casting time: 1 standard action
-Components: V, S, F (miniature shovel costing 10 gp)
+Components: V, S, M (drop of acid), F (Fine shovel worth 10 gp)
 Range: medium (100 ft. + 10 ft./level)
 Duration: 1 round + 1 round/level
-Saving throw: Reflex negates
+Saving throw: Reflex negates, see text
 Spell resistance: no
 Effect: 10-ft.-by-10-ft. hole, 10 ft. deep/2 levels
 Subschool: Creation
+Descriptors: acid
 :::
 
 ### Acid Pit

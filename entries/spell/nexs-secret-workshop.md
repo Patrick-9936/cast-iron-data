@@ -18,28 +18,22 @@ page = "60"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Alchemist", level = 3 },
-  { class = "Antipaladin", level = 3 },
-  { class = "Arcanist", level = 3 },
-  { class = "Hunter", level = 4 },
-  { class = "Inquisitor", level = 3 },
-  { class = "Investigator", level = 3 },
-  { class = "Medium", level = 2 },
-  { class = "Mesmerist", level = 3 },
-  { class = "Occultist", level = 3 },
-  { class = "Psychic", level = 3 },
-  { class = "Ranger", level = 4 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Summoner", level = 3 },
-  { class = "Unchained Summoner", level = 3 },
-  { class = "Wizard", level = 3 },
+  { class = "Arcanist", level = 5 },
+  { class = "Medium", level = 4 },
+  { class = "Mesmerist", level = 5 },
+  { class = "Occultist", level = 5 },
+  { class = "Psychic", level = 5 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Spiritualist", level = 5 },
+  { class = "Summoner", level = 5 },
+  { class = "Unchained Summoner", level = 5 },
+  { class = "Wizard", level = 5 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (diamond dust worth 50 gp)"
-range = "touch"
+components = "V, S, M (diamond dust worth 150 gp)"
+range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "creature or object touched" },
+  { label = "Targets", value = "any number of creatures or objects in range" },
 ]
 duration = "1 hour/level"
 saving_throw = "Will negates (harmless) (object)"
@@ -49,16 +43,15 @@ spell_resistance = "yes (harmless) (object)"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 2: Medium\
-3: Alchemist, Antipaladin, Arcanist, Inquisitor, Investigator, Mesmerist, Occultist, Psychic, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Wizard\
-4: Hunter, Ranger
+Level: 4: Medium\
+5: Arcanist, Mesmerist, Occultist, Psychic, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Wizard
 Casting time: 1 standard action
-Components: V, S, M (diamond dust worth 50 gp)
-Range: touch
+Components: V, S, M (diamond dust worth 150 gp)
+Range: close (25 ft. + 5 ft./2 levels)
 Duration: 1 hour/level
 Saving throw: Will negates (harmless) (object)
 Spell resistance: yes (harmless) (object)
-Target: creature or object touched
+Targets: any number of creatures or objects in range
 :::
 
 ### Nex's Secret Workshop

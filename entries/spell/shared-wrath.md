@@ -18,34 +18,34 @@ page = "243"
 kind = "spell"
 school = "enchantment"
 subschools = ["Compulsion"]
-descriptors = ["emotion", "mind-affecting"]
+descriptors = ["mind-affecting"]
 levels = [
-  { class = "Inquisitor", level = 1 },
+  { class = "Inquisitor", level = 4 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a thorny vine)"
-range = "personal"
+range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "you" },
+  { label = "Targets", value = "up to one creature/level, no two of which can be more than 30 ft. apart" },
 ]
 duration = "1 minute"
-saving_throw = "none"
-spell_resistance = "no"
+saving_throw = "Will negates (harmless)"
+spell_resistance = "yes (harmless)"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: enchantment
-Level: 1: Inquisitor
+Level: 4: Inquisitor
 Casting time: 1 standard action
 Components: V, S, M (a thorny vine)
-Range: personal
+Range: close (25 ft. + 5 ft./2 levels)
 Duration: 1 minute
-Saving throw: none
-Spell resistance: no
-Target: you
+Saving throw: Will negates (harmless)
+Spell resistance: yes (harmless)
+Targets: up to one creature/level, no two of which can be more than 30 ft. apart
 Subschool: Compulsion
-Descriptors: emotion, mind-affecting
+Descriptors: mind-affecting
 :::
 
 ### Shared Wrath

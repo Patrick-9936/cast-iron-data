@@ -19,23 +19,23 @@ kind = "spell"
 school = "necromancy"
 descriptors = ["evil"]
 levels = [
-  { class = "Antipaladin", level = 2 },
-  { class = "Arcanist", level = 4 },
-  { class = "Cleric", level = 3 },
-  { class = "Occultist", level = 3 },
-  { class = "Oracle", level = 3 },
-  { class = "Shaman", level = 3 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Warpriest", level = 3 },
-  { class = "Witch", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Antipaladin", level = 3 },
+  { class = "Arcanist", level = 5 },
+  { class = "Cleric", level = 4 },
+  { class = "Occultist", level = 4 },
+  { class = "Oracle", level = 4 },
+  { class = "Shaman", level = 4 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Spiritualist", level = 4 },
+  { class = "Warpriest", level = 4 },
+  { class = "Witch", level = 5 },
+  { class = "Wizard", level = 5 },
 ]
-casting_time = "1 round"
-components = "V, S, M (an onyx worth 25gp and a silken string)"
+casting_time = "10 minutes"
+components = "V, S, M (an onyx worth 50 gp for each zombie and a silken string)"
 range = "touch"
 effects = [
-  { label = "Target", value = "one corpse touched" },
+  { label = "Target", value = "one or more corpses touched" },
 ]
 duration = "permanent (D)"
 saving_throw = "none"
@@ -45,16 +45,16 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: necromancy
-Level: 2: Antipaladin\
-3: Cleric, Occultist, Oracle, Shaman, Spiritualist, Warpriest\
-4: Arcanist, Sorcerer, Witch, Wizard
-Casting time: 1 round
-Components: V, S, M (an onyx worth 25gp and a silken string)
+Level: 3: Antipaladin\
+4: Cleric, Occultist, Oracle, Shaman, Spiritualist, Warpriest\
+5: Arcanist, Sorcerer, Witch, Wizard
+Casting time: 10 minutes
+Components: V, S, M (an onyx worth 50 gp for each zombie and a silken string)
 Range: touch
 Duration: permanent (D)
 Saving throw: none
 Spell resistance: no
-Target: one corpse touched
+Target: one or more corpses touched
 Descriptors: evil
 :::
 

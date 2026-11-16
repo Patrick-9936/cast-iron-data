@@ -18,33 +18,29 @@ page = "242"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Adept", level = 2 },
-  { class = "Alchemist", level = 2 },
-  { class = "Arcanist", level = 2 },
-  { class = "Bloodrager", level = 2 },
-  { class = "Cleric", level = 2 },
-  { class = "Druid", level = 2 },
-  { class = "Hunter", level = 1 },
-  { class = "Inquisitor", level = 2 },
-  { class = "Investigator", level = 2 },
-  { class = "Occultist", level = 2 },
-  { class = "Oracle", level = 2 },
-  { class = "Paladin", level = 2 },
-  { class = "Psychic", level = 2 },
-  { class = "Ranger", level = 1 },
-  { class = "Shaman", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Spiritualist", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Warpriest", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Alchemist", level = 3 },
+  { class = "Arcanist", level = 3 },
+  { class = "Cleric", level = 3 },
+  { class = "Druid", level = 3 },
+  { class = "Hunter", level = 3 },
+  { class = "Inquisitor", level = 3 },
+  { class = "Investigator", level = 3 },
+  { class = "Occultist", level = 3 },
+  { class = "Oracle", level = 3 },
+  { class = "Paladin", level = 3 },
+  { class = "Psychic", level = 3 },
+  { class = "Ranger", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Warpriest", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, DF"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "10 minutes/level"
 saving_throw = "Fortitude negates (harmless)"
@@ -54,15 +50,14 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 1: Hunter, Ranger\
-2: Adept, Alchemist, Arcanist, Bloodrager, Cleric, Druid, Inquisitor, Investigator, Occultist, Oracle, Paladin, Psychic, Shaman, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Warpriest, Wizard
+Level: 3: Alchemist, Arcanist, Cleric, Druid, Hunter, Inquisitor, Investigator, Occultist, Oracle, Paladin, Psychic, Ranger, Sorcerer, Summoner, Unchained Summoner, Warpriest, Wizard
 Casting time: 1 standard action
 Components: V, S, DF
 Range: touch
 Duration: 10 minutes/level
 Saving throw: Fortitude negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Targets: creatures touched
 :::
 
 ### Communal Resist Energy

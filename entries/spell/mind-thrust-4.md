@@ -17,9 +17,8 @@ page = "177"
 [fields]
 kind = "spell"
 school = "divination"
-descriptors = ["mind-affecting"]
 levels = [
-  { class = "Psychic", level = 1 },
+  { class = "Psychic", level = 4 },
 ]
 casting_time = "1 standard action"
 components = "S"
@@ -35,7 +34,7 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 1: Psychic
+Level: 4: Psychic
 Casting time: 1 standard action
 Components: S
 Range: close (25 ft. + 5 ft./2 levels)
@@ -43,7 +42,6 @@ Duration: instantaneous
 Saving throw: Will half
 Spell resistance: yes
 Target: one creature
-Descriptors: mind-affecting
 :::
 
 ### Mind Thrust IV

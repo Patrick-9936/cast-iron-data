@@ -19,19 +19,16 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Healing"]
 levels = [
-  { class = "Adept", level = 5 },
-  { class = "Cleric", level = 5 },
-  { class = "Oracle", level = 5 },
-  { class = "Shaman", level = 6 },
-  { class = "Spiritualist", level = 5 },
-  { class = "Warpriest", level = 5 },
-  { class = "Witch", level = 6 },
+  { class = "Druid", level = 5 },
+  { class = "Hunter", level = 4 },
+  { class = "Paladin", level = 4 },
+  { class = "Ranger", level = 4 },
 ]
 casting_time = "1 minute"
-components = "V, S, DF, M (diamond worth 5,000 gp)"
+components = "V, S, M (a diamond worth 1,000 gp)"
 range = "touch"
 effects = [
-  { label = "Target", value = "dead creature touched" },
+  { label = "Target", value = "dead animal companion or bonded mount" },
 ]
 duration = "instantaneous"
 saving_throw = "none, see text"
@@ -41,15 +38,15 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 5: Adept, Cleric, Oracle, Spiritualist, Warpriest\
-6: Shaman, Witch
+Level: 4: Hunter, Paladin, Ranger\
+5: Druid
 Casting time: 1 minute
-Components: V, S, DF, M (diamond worth 5,000 gp)
+Components: V, S, M (a diamond worth 1,000 gp)
 Range: touch
 Duration: instantaneous
 Saving throw: none, see text
 Spell resistance: yes
-Target: dead creature touched
+Target: dead animal companion or bonded mount
 Subschool: Healing
 :::
 

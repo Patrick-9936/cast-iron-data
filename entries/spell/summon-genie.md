@@ -19,15 +19,15 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Summoning"]
 levels = [
-  { class = "Arcanist", level = 4 },
-  { class = "Cleric", level = 4 },
-  { class = "Oracle", level = 4 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Summoner", level = 3 },
-  { class = "Unchained Summoner", level = 3 },
-  { class = "Warpriest", level = 4 },
-  { class = "Witch", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Arcanist", level = 5 },
+  { class = "Cleric", level = 5 },
+  { class = "Oracle", level = 5 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Summoner", level = 4 },
+  { class = "Unchained Summoner", level = 4 },
+  { class = "Warpriest", level = 5 },
+  { class = "Witch", level = 5 },
+  { class = "Wizard", level = 5 },
 ]
 casting_time = "1 round"
 components = "V, S, F/DF (an oil lamp worth at least 50 gp)"
@@ -43,8 +43,8 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 3: Summoner, Unchained Summoner\
-4: Arcanist, Cleric, Oracle, Sorcerer, Warpriest, Witch, Wizard
+Level: 4: Summoner, Unchained Summoner\
+5: Arcanist, Cleric, Oracle, Sorcerer, Warpriest, Witch, Wizard
 Casting time: 1 round
 Components: V, S, F/DF (an oil lamp worth at least 50 gp)
 Range: close (25 ft. + 5 ft./2 levels)

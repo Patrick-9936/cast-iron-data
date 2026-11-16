@@ -20,15 +20,15 @@ school = "illusion"
 subschools = ["Glamer"]
 descriptors = ["glamer"]
 levels = [
-  { class = "Occultist", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Witch", level = 1 },
+  { class = "Occultist", level = 2 },
+  { class = "Psychic", level = 2 },
+  { class = "Witch", level = 2 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a piece of gauze)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature or object touched" },
+  { label = "Targets", value = "creatures or objects touched" },
 ]
 duration = "1 day/level (D)"
 saving_throw = "none, see text"
@@ -38,14 +38,14 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: illusion
-Level: 1: Occultist, Psychic, Witch
+Level: 2: Occultist, Psychic, Witch
 Casting time: 1 standard action
 Components: V, S, M (a piece of gauze)
 Range: touch
 Duration: 1 day/level (D)
 Saving throw: none, see text
 Spell resistance: no
-Target: creature or object touched
+Targets: creatures or objects touched
 Subschool: Glamer
 Descriptors: glamer
 :::

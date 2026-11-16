@@ -19,16 +19,16 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Summoning"]
 levels = [
-  { class = "Arcanist", level = 2 },
-  { class = "Bard", level = 2 },
-  { class = "Druid", level = 2 },
-  { class = "Hunter", level = 2 },
-  { class = "Skald", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Witch", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 5 },
+  { class = "Bard", level = 5 },
+  { class = "Druid", level = 5 },
+  { class = "Hunter", level = 5 },
+  { class = "Skald", level = 5 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Summoner", level = 5 },
+  { class = "Unchained Summoner", level = 5 },
+  { class = "Witch", level = 5 },
+  { class = "Wizard", level = 5 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M/DF (a square of red cloth)"
@@ -44,7 +44,7 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 2: Arcanist, Bard, Druid, Hunter, Skald, Sorcerer, Summoner, Unchained Summoner, Witch, Wizard
+Level: 5: Arcanist, Bard, Druid, Hunter, Skald, Sorcerer, Summoner, Unchained Summoner, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S, M/DF (a square of red cloth)
 Range: 0 ft.

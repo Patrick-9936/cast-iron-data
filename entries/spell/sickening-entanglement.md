@@ -17,11 +17,12 @@ page = "192"
 [fields]
 kind = "spell"
 school = "transmutation"
+descriptors = ["poison"]
 levels = [
-  { class = "Druid", level = 1 },
-  { class = "Hunter", level = 1 },
-  { class = "Ranger", level = 1 },
-  { class = "Shaman", level = 1 },
+  { class = "Druid", level = 2 },
+  { class = "Hunter", level = 2 },
+  { class = "Ranger", level = 2 },
+  { class = "Shaman", level = 2 },
 ]
 casting_time = "1 standard action"
 components = "V, S, DF"
@@ -30,21 +31,22 @@ effects = [
   { label = "Area", value = "plants in a 40-ft.-radius spread" },
 ]
 duration = "1 minute/level (D)"
-saving_throw = "Reflex partial; see text"
+saving_throw = "Reflex partial and Fortitude negates (see text)"
 spell_resistance = "no"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 1: Druid, Hunter, Ranger, Shaman
+Level: 2: Druid, Hunter, Ranger, Shaman
 Casting time: 1 standard action
 Components: V, S, DF
 Range: long (400 ft. + 40 ft./level)
 Duration: 1 minute/level (D)
-Saving throw: Reflex partial; see text
+Saving throw: Reflex partial and Fortitude negates (see text)
 Spell resistance: no
 Area: plants in a 40-ft.-radius spread
+Descriptors: poison
 :::
 
 ### Sickening Entanglement

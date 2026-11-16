@@ -18,7 +18,7 @@ page = "190"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Psychic", level = 2 },
+  { class = "Psychic", level = 6 },
 ]
 casting_time = "1 immediate action"
 components = "V"
@@ -26,7 +26,7 @@ range = "personal"
 effects = [
   { label = "Target", value = "you" },
 ]
-duration = "1 round"
+duration = "1 round/level; see text"
 saving_throw = "none"
 spell_resistance = "no"
 +++
@@ -34,11 +34,11 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 2: Psychic
+Level: 6: Psychic
 Casting time: 1 immediate action
 Components: V
 Range: personal
-Duration: 1 round
+Duration: 1 round/level; see text
 Saving throw: none
 Spell resistance: no
 Target: you

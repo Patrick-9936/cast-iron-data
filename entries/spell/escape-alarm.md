@@ -18,27 +18,27 @@ page = "45"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Arcanist", level = 1 },
-  { class = "Bard", level = 1 },
-  { class = "Hunter", level = 1 },
-  { class = "Inquisitor", level = 1 },
-  { class = "Occultist", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Ranger", level = 1 },
-  { class = "Skald", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Spiritualist", level = 1 },
-  { class = "Summoner", level = 1 },
-  { class = "Unchained Summoner", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Arcanist", level = 2 },
+  { class = "Bard", level = 2 },
+  { class = "Hunter", level = 2 },
+  { class = "Inquisitor", level = 2 },
+  { class = "Occultist", level = 2 },
+  { class = "Psychic", level = 2 },
+  { class = "Ranger", level = 2 },
+  { class = "Skald", level = 2 },
+  { class = "Sorcerer", level = 2 },
+  { class = "Spiritualist", level = 2 },
+  { class = "Summoner", level = 2 },
+  { class = "Unchained Summoner", level = 2 },
+  { class = "Wizard", level = 2 },
 ]
 casting_time = "1 standard action"
-components = "V, S, F/DF (a tiny bell and a piece of very fine silver wire)"
-range = "close (25 ft. + 5 ft./2 levels)"
+components = "V, S, F (a short segment of a chain)"
+range = "medium (100 ft. + 10 ft./level)"
 effects = [
-  { label = "Area", value = "20-ft.-radius emanation centered on a point in space" },
+  { label = "Area", value = "ten 10-foot cubes/level" },
 ]
-duration = "2 hours/level"
+duration = "24 hours"
 saving_throw = "none"
 spell_resistance = "no"
 +++
@@ -46,14 +46,14 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 1: Arcanist, Bard, Hunter, Inquisitor, Occultist, Psychic, Ranger, Skald, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Wizard
+Level: 2: Arcanist, Bard, Hunter, Inquisitor, Occultist, Psychic, Ranger, Skald, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Wizard
 Casting time: 1 standard action
-Components: V, S, F/DF (a tiny bell and a piece of very fine silver wire)
-Range: close (25 ft. + 5 ft./2 levels)
-Duration: 2 hours/level
+Components: V, S, F (a short segment of a chain)
+Range: medium (100 ft. + 10 ft./level)
+Duration: 24 hours
 Saving throw: none
 Spell resistance: no
-Area: 20-ft.-radius emanation centered on a point in space
+Area: ten 10-foot cubes/level
 :::
 
 ### Escape Alarm

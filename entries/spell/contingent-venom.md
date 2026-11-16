@@ -19,16 +19,13 @@ kind = "spell"
 school = "necromancy"
 descriptors = ["poison"]
 levels = [
-  { class = "Alchemist", level = 2 },
-  { class = "Arcanist", level = 2 },
-  { class = "Investigator", level = 2 },
-  { class = "Shaman", level = 2 },
-  { class = "Skald", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 4 },
+  { class = "Shaman", level = 4 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (herbs used in antitoxin worth 25 gp)"
+components = "V, S, M (herbs used in antitoxins worth 100 gp)"
 range = "touch"
 effects = [
   { label = "Target", value = "one dose of poison or one venomous creature" },
@@ -41,9 +38,9 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: necromancy
-Level: 2: Alchemist, Arcanist, Investigator, Shaman, Skald, Sorcerer, Wizard
+Level: 4: Arcanist, Shaman, Sorcerer, Wizard
 Casting time: 1 standard action
-Components: V, S, M (herbs used in antitoxin worth 25 gp)
+Components: V, S, M (herbs used in antitoxins worth 100 gp)
 Range: touch
 Duration: permanent until discharged (D)
 Saving throw: Fortitude negates

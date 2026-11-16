@@ -20,22 +20,22 @@ school = "enchantment"
 subschools = ["Charm"]
 descriptors = ["mind-affecting"]
 levels = [
-  { class = "Arcanist", level = 4 },
-  { class = "Bard", level = 3 },
-  { class = "Mesmerist", level = 3 },
-  { class = "Psychic", level = 3 },
-  { class = "Skald", level = 3 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Witch", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Arcanist", level = 7 },
+  { class = "Bard", level = 5 },
+  { class = "Mesmerist", level = 5 },
+  { class = "Psychic", level = 6 },
+  { class = "Skald", level = 5 },
+  { class = "Sorcerer", level = 7 },
+  { class = "Witch", level = 7 },
+  { class = "Wizard", level = 7 },
 ]
 casting_time = "1 standard action"
 components = "V, M (a drop of alcohol)"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "one humanoid creature" },
+  { label = "Target", value = "one living creature" },
 ]
-duration = "1 hour/level"
+duration = "1 day/level"
 saving_throw = "Will negates"
 spell_resistance = "yes"
 +++
@@ -43,15 +43,16 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: enchantment
-Level: 3: Bard, Mesmerist, Psychic, Skald\
-4: Arcanist, Sorcerer, Witch, Wizard
+Level: 5: Bard, Mesmerist, Skald\
+6: Psychic\
+7: Arcanist, Sorcerer, Witch, Wizard
 Casting time: 1 standard action
 Components: V, M (a drop of alcohol)
 Range: close (25 ft. + 5 ft./2 levels)
-Duration: 1 hour/level
+Duration: 1 day/level
 Saving throw: Will negates
 Spell resistance: yes
-Target: one humanoid creature
+Target: one living creature
 Subschool: Charm
 Descriptors: mind-affecting
 :::

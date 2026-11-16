@@ -22,20 +22,27 @@ kind = "spell"
 school = "conjuration [see text]"
 subschools = ["Calling"]
 levels = [
-  { class = "Cleric", level = 4 },
-  { class = "Medium", level = 3 },
-  { class = "Oracle", level = 4 },
-  { class = "Psychic", level = 4 },
-  { class = "Shaman", level = 4 },
-  { class = "Warpriest", level = 4 },
+  { class = "Arcanist", level = 3 },
+  { class = "Cleric", level = 3 },
+  { class = "Druid", level = 3 },
+  { class = "Hunter", level = 3 },
+  { class = "Inquisitor", level = 3 },
+  { class = "Oracle", level = 3 },
+  { class = "Shaman", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Warpriest", level = 3 },
+  { class = "Witch", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "10 minutes"
-components = "V, S, DF, M (offerings worth 500 gp plus payment, see text)"
+components = "V, S, M (offerings worth 100 gp per HD of creature called)"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Effect", value = "one called outsider of 6 HD or less" },
+  { label = "Effect", value = "one called outsider who answers questions" },
 ]
-duration = "instantaneous"
+duration = "instantaneous; see text"
 saving_throw = "none"
 spell_resistance = "no"
 +++
@@ -43,15 +50,14 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration \[see text\]
-Level: 3: Medium\
-4: Cleric, Oracle, Psychic, Shaman, Warpriest
+Level: 3: Arcanist, Cleric, Druid, Hunter, Inquisitor, Oracle, Shaman, Sorcerer, Summoner, Unchained Summoner, Warpriest, Witch, Wizard
 Casting time: 10 minutes
-Components: V, S, DF, M (offerings worth 500 gp plus payment, see text)
+Components: V, S, M (offerings worth 100 gp per HD of creature called)
 Range: close (25 ft. + 5 ft./2 levels)
-Duration: instantaneous
+Duration: instantaneous; see text
 Saving throw: none
 Spell resistance: no
-Effect: one called outsider of 6 HD or less
+Effect: one called outsider who answers questions
 Subschool: Calling
 :::
 

@@ -18,18 +18,21 @@ page = "25"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Cleric", level = 2 },
-  { class = "Inquisitor", level = 2 },
-  { class = "Oracle", level = 2 },
-  { class = "Paladin", level = 2 },
-  { class = "Psychic", level = 2 },
-  { class = "Warpriest", level = 2 },
+  { class = "Antipaladin", level = 1 },
+  { class = "Arcanist", level = 1 },
+  { class = "Druid", level = 1 },
+  { class = "Hunter", level = 1 },
+  { class = "Paladin", level = 1 },
+  { class = "Ranger", level = 1 },
+  { class = "Sorcerer", level = 1 },
+  { class = "Witch", level = 1 },
+  { class = "Wizard", level = 1 },
 ]
 casting_time = "1 standard action"
 components = "V, S, F (a pair of platinum rings worth 50 gp worn by both you and the target)"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "one creature" },
+  { label = "Target", value = "your animal companion, familiar, or fiendish servant" },
 ]
 duration = "1 hour/level (D)"
 saving_throw = "Will negates (harmless)"
@@ -39,14 +42,14 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 2: Cleric, Inquisitor, Oracle, Paladin, Psychic, Warpriest
+Level: 1: Antipaladin, Arcanist, Druid, Hunter, Paladin, Ranger, Sorcerer, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S, F (a pair of platinum rings worth 50 gp worn by both you and the target)
 Range: close (25 ft. + 5 ft./2 levels)
 Duration: 1 hour/level (D)
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Target: one creature
+Target: your animal companion, familiar, or fiendish servant
 :::
 
 ### Shield Companion (AA)

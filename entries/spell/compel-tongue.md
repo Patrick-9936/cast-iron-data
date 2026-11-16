@@ -16,46 +16,49 @@ page = "24"
 
 [fields]
 kind = "spell"
-school = "divination"
+school = "enchantment"
+subschools = ["Compulsion"]
+descriptors = ["mind-affecting"]
 levels = [
   { class = "Arcanist", level = 2 },
   { class = "Bard", level = 1 },
   { class = "Cleric", level = 2 },
   { class = "Druid", level = 2 },
   { class = "Hunter", level = 2 },
-  { class = "Medium", level = 1 },
-  { class = "Mesmerist", level = 1 },
-  { class = "Occultist", level = 2 },
+  { class = "Medium", level = 2 },
+  { class = "Mesmerist", level = 2 },
   { class = "Oracle", level = 2 },
-  { class = "Psychic", level = 1 },
   { class = "Skald", level = 1 },
   { class = "Sorcerer", level = 2 },
   { class = "Warpriest", level = 2 },
+  { class = "Witch", level = 2 },
   { class = "Wizard", level = 2 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (a page from a dictionary)"
+components = "V, S, M (a wooden block carved with a letter)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Target", value = "one creature" },
 ]
-duration = "24 hours"
-saving_throw = "Will negates (harmless)"
-spell_resistance = "yes (harmless)"
+duration = "1 hour/level (D)"
+saving_throw = "Will negates"
+spell_resistance = "yes"
 +++
 
 ::: statblock
 title = "Spell statistics"
-School: divination
-Level: 1: Bard, Medium, Mesmerist, Psychic, Skald\
-2: Arcanist, Cleric, Druid, Hunter, Occultist, Oracle, Sorcerer, Warpriest, Wizard
+School: enchantment
+Level: 1: Bard, Skald\
+2: Arcanist, Cleric, Druid, Hunter, Medium, Mesmerist, Oracle, Sorcerer, Warpriest, Witch, Wizard
 Casting time: 1 standard action
-Components: V, S, M (a page from a dictionary)
+Components: V, S, M (a wooden block carved with a letter)
 Range: touch
-Duration: 24 hours
-Saving throw: Will negates (harmless)
-Spell resistance: yes (harmless)
-Target: creature touched
+Duration: 1 hour/level (D)
+Saving throw: Will negates
+Spell resistance: yes
+Target: one creature
+Subschool: Compulsion
+Descriptors: mind-affecting
 :::
 
 ### Compel Tongue

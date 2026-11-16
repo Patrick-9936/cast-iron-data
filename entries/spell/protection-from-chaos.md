@@ -17,7 +17,7 @@ page = "327"
 [fields]
 kind = "spell"
 school = "abjuration"
-descriptors = ["good"]
+descriptors = ["lawful"]
 levels = [
   { class = "Adept", level = 1 },
   { class = "Arcanist", level = 1 },
@@ -57,7 +57,7 @@ Duration: 1 minute/level (D)
 Saving throw: Will negates (harmless)
 Spell resistance: no; see text
 Target: creature touched
-Descriptors: good
+Descriptors: lawful
 :::
 
 ### Protection from Chaos

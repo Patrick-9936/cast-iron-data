@@ -16,21 +16,20 @@ page = "320"
 
 [fields]
 kind = "spell"
-school = "conjuration [see text]"
+school = "conjuration [see text for lesser planar ally]"
 subschools = ["Calling"]
 levels = [
-  { class = "Cleric", level = 4 },
-  { class = "Medium", level = 3 },
-  { class = "Oracle", level = 4 },
-  { class = "Psychic", level = 4 },
-  { class = "Shaman", level = 4 },
-  { class = "Warpriest", level = 4 },
+  { class = "Cleric", level = 6 },
+  { class = "Oracle", level = 6 },
+  { class = "Psychic", level = 6 },
+  { class = "Shaman", level = 6 },
+  { class = "Warpriest", level = 6 },
 ]
 casting_time = "10 minutes"
-components = "V, S, DF, M (offerings worth 500 gp plus payment, see text)"
+components = "V, S, DF, M (offerings worth 1,250 gp plus payment)"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Effect", value = "one called outsider of 6 HD or less" },
+  { label = "Effect", value = "one or two called outsiders, totaling no more than 12 HD, which cannot be more than 30 ft. apart when they appear" },
 ]
 duration = "instantaneous"
 saving_throw = "none"
@@ -39,16 +38,15 @@ spell_resistance = "no"
 
 ::: statblock
 title = "Spell statistics"
-School: conjuration \[see text\]
-Level: 3: Medium\
-4: Cleric, Oracle, Psychic, Shaman, Warpriest
+School: conjuration \[see text for lesser planar ally\]
+Level: 6: Cleric, Oracle, Psychic, Shaman, Warpriest
 Casting time: 10 minutes
-Components: V, S, DF, M (offerings worth 500 gp plus payment, see text)
+Components: V, S, DF, M (offerings worth 1,250 gp plus payment)
 Range: close (25 ft. + 5 ft./2 levels)
 Duration: instantaneous
 Saving throw: none
 Spell resistance: no
-Effect: one called outsider of 6 HD or less
+Effect: one or two called outsiders, totaling no more than 12 HD, which cannot be more than 30 ft. apart when they appear
 Subschool: Calling
 :::
 

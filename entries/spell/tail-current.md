@@ -17,7 +17,7 @@ page = "236"
 [fields]
 kind = "spell"
 school = "transmutation"
-descriptors = ["air"]
+descriptors = ["water"]
 levels = [
   { class = "Arcanist", level = 4 },
   { class = "Bloodrager", level = 4 },
@@ -57,7 +57,7 @@ Duration: 1 hour/level
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
 Targets: one or more creatures, no two of which can be more than 120 feet apart
-Descriptors: air
+Descriptors: water
 :::
 
 ### Tail Current

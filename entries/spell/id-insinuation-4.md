@@ -20,13 +20,13 @@ school = "enchantment"
 subschools = ["Compulsion"]
 descriptors = ["mind-affecting"]
 levels = [
-  { class = "Psychic", level = 2 },
+  { class = "Psychic", level = 5 },
 ]
 casting_time = "1 standard action"
 components = "S"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "one creature" },
+  { label = "Targets", value = "four creatures" },
 ]
 duration = "concentration+ 1 round"
 saving_throw = "Will negates"
@@ -36,14 +36,14 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: enchantment
-Level: 2: Psychic
+Level: 5: Psychic
 Casting time: 1 standard action
 Components: S
 Range: close (25 ft. + 5 ft./2 levels)
 Duration: concentration+ 1 round
 Saving throw: Will negates
 Spell resistance: yes
-Target: one creature
+Targets: four creatures
 Subschool: Compulsion
 Descriptors: mind-affecting
 :::

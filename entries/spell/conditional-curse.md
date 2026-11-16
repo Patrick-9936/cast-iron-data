@@ -19,29 +19,29 @@ kind = "spell"
 school = "necromancy"
 descriptors = ["curse"]
 levels = [
-  { class = "Adept", level = 3 },
-  { class = "Antipaladin", level = 3 },
-  { class = "Arcanist", level = 4 },
-  { class = "Bloodrager", level = 4 },
-  { class = "Cleric", level = 3 },
-  { class = "Medium", level = 2 },
+  { class = "Antipaladin", level = 4 },
+  { class = "Arcanist", level = 5 },
+  { class = "Cleric", level = 4 },
+  { class = "Inquisitor", level = 4 },
+  { class = "Medium", level = 3 },
   { class = "Mesmerist", level = 3 },
-  { class = "Occultist", level = 3 },
-  { class = "Oracle", level = 3 },
-  { class = "Shaman", level = 3 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Warpriest", level = 3 },
-  { class = "Witch", level = 3 },
-  { class = "Wizard", level = 4 },
+  { class = "Occultist", level = 4 },
+  { class = "Oracle", level = 4 },
+  { class = "Psychic", level = 5 },
+  { class = "Shaman", level = 4 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Spiritualist", level = 5 },
+  { class = "Warpriest", level = 4 },
+  { class = "Witch", level = 4 },
+  { class = "Wizard", level = 5 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
-range = "touch"
+range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Target", value = "one creature" },
 ]
-duration = "permanent"
+duration = "permanent (see text)"
 saving_throw = "Will negates"
 spell_resistance = "yes"
 +++
@@ -49,16 +49,16 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: necromancy
-Level: 2: Medium\
-3: Adept, Antipaladin, Cleric, Mesmerist, Occultist, Oracle, Shaman, Spiritualist, Warpriest, Witch\
-4: Arcanist, Bloodrager, Sorcerer, Wizard
+Level: 3: Medium, Mesmerist\
+4: Antipaladin, Cleric, Inquisitor, Occultist, Oracle, Shaman, Warpriest, Witch\
+5: Arcanist, Psychic, Sorcerer, Spiritualist, Wizard
 Casting time: 1 standard action
 Components: V, S
-Range: touch
-Duration: permanent
+Range: close (25 ft. + 5 ft./2 levels)
+Duration: permanent (see text)
 Saving throw: Will negates
 Spell resistance: yes
-Target: creature touched
+Target: one creature
 Descriptors: curse
 :::
 

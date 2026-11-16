@@ -19,44 +19,40 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Teleportation"]
 levels = [
-  { class = "Arcanist", level = 4 },
-  { class = "Bard", level = 4 },
-  { class = "Magus", level = 4 },
-  { class = "Medium", level = 3 },
-  { class = "Mesmerist", level = 4 },
-  { class = "Occultist", level = 4 },
-  { class = "Psychic", level = 4 },
-  { class = "Skald", level = 4 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Spiritualist", level = 4 },
+  { class = "Alchemist", level = 3 },
+  { class = "Arcanist", level = 3 },
+  { class = "Bard", level = 3 },
+  { class = "Investigator", level = 3 },
+  { class = "Magus", level = 3 },
+  { class = "Skald", level = 3 },
+  { class = "Sorcerer", level = 3 },
   { class = "Summoner", level = 3 },
-  { class = "Unchained Summoner", level = 4 },
-  { class = "Witch", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Witch", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
-components = "V"
-range = "long (400 ft. + 40 ft./level)"
+components = "V, S"
+range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "you and touched objects or other touched willing creatures" },
+  { label = "Target", value = "one willing creature touched" },
 ]
 duration = "instantaneous"
-saving_throw = "none and Will negates (object)"
-spell_resistance = "no and yes (object)"
+saving_throw = "none"
+spell_resistance = "yes"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 3: Medium, Summoner\
-4: Arcanist, Bard, Magus, Mesmerist, Occultist, Psychic, Skald, Sorcerer, Spiritualist, Unchained Summoner, Witch, Wizard
+Level: 3: Alchemist, Arcanist, Bard, Investigator, Magus, Skald, Sorcerer, Summoner, Unchained Summoner, Witch, Wizard
 Casting time: 1 standard action
-Components: V
-Range: long (400 ft. + 40 ft./level)
+Components: V, S
+Range: close (25 ft. + 5 ft./2 levels)
 Duration: instantaneous
-Saving throw: none and Will negates (object)
-Spell resistance: no and yes (object)
-Target: you and touched objects or other touched willing creatures
+Saving throw: none
+Spell resistance: yes
+Target: one willing creature touched
 Subschool: Teleportation
 :::
 

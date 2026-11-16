@@ -20,20 +20,17 @@ school = "enchantment"
 subschools = ["Compulsion"]
 descriptors = ["good", "mind-affecting"]
 levels = [
-  { class = "Arcanist", level = 2 },
-  { class = "Bard", level = 2 },
-  { class = "Cleric", level = 2 },
-  { class = "Oracle", level = 2 },
-  { class = "Skald", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Warpriest", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Bard", level = 5 },
+  { class = "Cleric", level = 5 },
+  { class = "Oracle", level = 5 },
+  { class = "Skald", level = 5 },
+  { class = "Warpriest", level = 5 },
 ]
 casting_time = "1 standard action"
-components = "V, S, DF"
-range = "touch"
+components = "V, S"
+range = "30 ft."
 effects = [
-  { label = "Target", value = "one creature" },
+  { label = "Area", value = "30-ft.-radius burst centered on you" },
 ]
 duration = "1 round/level (D)"
 saving_throw = "Will negates"
@@ -43,14 +40,14 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: enchantment
-Level: 2: Arcanist, Bard, Cleric, Oracle, Skald, Sorcerer, Warpriest, Wizard
+Level: 5: Bard, Cleric, Oracle, Skald, Warpriest
 Casting time: 1 standard action
-Components: V, S, DF
-Range: touch
+Components: V, S
+Range: 30 ft.
 Duration: 1 round/level (D)
 Saving throw: Will negates
 Spell resistance: yes
-Target: one creature
+Area: 30-ft.-radius burst centered on you
 Subschool: Compulsion
 Descriptors: good, mind-affecting
 :::

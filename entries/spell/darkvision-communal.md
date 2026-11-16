@@ -18,24 +18,23 @@ page = "226"
 kind = "spell"
 school = "transmutation"
 levels = [
-  { class = "Alchemist", level = 2 },
-  { class = "Antipaladin", level = 2 },
-  { class = "Arcanist", level = 2 },
-  { class = "Hunter", level = 3 },
-  { class = "Investigator", level = 2 },
-  { class = "Medium", level = 2 },
-  { class = "Occultist", level = 2 },
-  { class = "Psychic", level = 2 },
-  { class = "Ranger", level = 3 },
-  { class = "Red Mantis Assassin", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Alchemist", level = 3 },
+  { class = "Antipaladin", level = 3 },
+  { class = "Arcanist", level = 3 },
+  { class = "Hunter", level = 4 },
+  { class = "Investigator", level = 3 },
+  { class = "Occultist", level = 3 },
+  { class = "Psychic", level = 3 },
+  { class = "Ranger", level = 4 },
+  { class = "Red Mantis Assassin", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (either a pinch of dried carrot or an agate)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "1 hour/level"
 saving_throw = "Will negates (harmless)"
@@ -45,15 +44,15 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 2: Alchemist, Antipaladin, Arcanist, Investigator, Medium, Occultist, Psychic, Red Mantis Assassin, Sorcerer, Wizard\
-3: Hunter, Ranger
+Level: 3: Alchemist, Antipaladin, Arcanist, Investigator, Occultist, Psychic, Red Mantis Assassin, Sorcerer, Wizard\
+4: Hunter, Ranger
 Casting time: 1 standard action
 Components: V, S, M (either a pinch of dried carrot or an agate)
 Range: touch
 Duration: 1 hour/level
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Targets: creatures touched
 :::
 
 ### Communal Darkvision

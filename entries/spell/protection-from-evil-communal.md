@@ -19,27 +19,22 @@ kind = "spell"
 school = "abjuration"
 descriptors = ["good"]
 levels = [
-  { class = "Adept", level = 1 },
-  { class = "Arcanist", level = 1 },
-  { class = "Bloodrager", level = 1 },
-  { class = "Cleric", level = 1 },
-  { class = "Inquisitor", level = 1 },
-  { class = "Medium", level = 1 },
-  { class = "Oracle", level = 1 },
-  { class = "Paladin", level = 1 },
-  { class = "Shaman", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Spiritualist", level = 1 },
-  { class = "Summoner", level = 1 },
-  { class = "Unchained Summoner", level = 1 },
-  { class = "Warpriest", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Arcanist", level = 2 },
+  { class = "Cleric", level = 2 },
+  { class = "Inquisitor", level = 2 },
+  { class = "Oracle", level = 2 },
+  { class = "Paladin", level = 2 },
+  { class = "Sorcerer", level = 2 },
+  { class = "Summoner", level = 2 },
+  { class = "Unchained Summoner", level = 2 },
+  { class = "Warpriest", level = 2 },
+  { class = "Wizard", level = 2 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M/DF"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "1 minute/level (D)"
 saving_throw = "Will negates (harmless)"
@@ -49,14 +44,14 @@ spell_resistance = "no; see text"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 1: Adept, Arcanist, Bloodrager, Cleric, Inquisitor, Medium, Oracle, Paladin, Shaman, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Warpriest, Wizard
+Level: 2: Arcanist, Cleric, Inquisitor, Oracle, Paladin, Sorcerer, Summoner, Unchained Summoner, Warpriest, Wizard
 Casting time: 1 standard action
 Components: V, S, M/DF
 Range: touch
 Duration: 1 minute/level (D)
 Saving throw: Will negates (harmless)
 Spell resistance: no; see text
-Target: creature touched
+Targets: creatures touched
 Descriptors: good
 :::
 

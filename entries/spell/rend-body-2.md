@@ -18,7 +18,7 @@ page = "10"
 kind = "spell"
 school = "evocation"
 levels = [
-  { class = "Psychic", level = 5 },
+  { class = "Psychic", level = 6 },
 ]
 casting_time = "1 full-round action"
 components = "S"
@@ -27,20 +27,20 @@ effects = [
   { label = "Target", value = "one creature" },
 ]
 duration = "instantaneous"
-saving_throw = "Fortitude partial (see text)"
-spell_resistance = "yes"
+saving_throw = "none"
+spell_resistance = "no"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: evocation
-Level: 5: Psychic
+Level: 6: Psychic
 Casting time: 1 full-round action
 Components: S
 Range: close (25 ft. + 5 ft./2 levels)
 Duration: instantaneous
-Saving throw: Fortitude partial (see text)
-Spell resistance: yes
+Saving throw: none
+Spell resistance: no
 Target: one creature
 :::
 

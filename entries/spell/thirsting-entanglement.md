@@ -18,10 +18,10 @@ page = "17"
 kind = "spell"
 school = "transmutation"
 levels = [
-  { class = "Druid", level = 1 },
-  { class = "Hunter", level = 1 },
-  { class = "Ranger", level = 1 },
-  { class = "Shaman", level = 1 },
+  { class = "Druid", level = 4 },
+  { class = "Hunter", level = 4 },
+  { class = "Ranger", level = 4 },
+  { class = "Shaman", level = 4 },
 ]
 casting_time = "1 standard action"
 components = "V, S, DF"
@@ -37,7 +37,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 1: Druid, Hunter, Ranger, Shaman
+Level: 4: Druid, Hunter, Ranger, Shaman
 Casting time: 1 standard action
 Components: V, S, DF
 Range: long (400 ft. + 40 ft./level)

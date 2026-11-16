@@ -19,17 +19,12 @@ kind = "spell"
 school = "transmutation"
 subschools = ["Polymorph"]
 levels = [
-  { class = "Alchemist", level = 3 },
-  { class = "Arcanist", level = 4 },
-  { class = "Bloodrager", level = 3 },
-  { class = "Druid", level = 3 },
-  { class = "Hunter", level = 3 },
-  { class = "Investigator", level = 3 },
-  { class = "Magus", level = 4 },
-  { class = "Shaman", level = 3 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Witch", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Arcanist", level = 9 },
+  { class = "Druid", level = 8 },
+  { class = "Shaman", level = 8 },
+  { class = "Sorcerer", level = 9 },
+  { class = "Witch", level = 9 },
+  { class = "Wizard", level = 9 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a piece of the creature whose form you plan to assume)"
@@ -45,8 +40,8 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 3: Alchemist, Bloodrager, Druid, Hunter, Investigator, Shaman\
-4: Arcanist, Magus, Sorcerer, Witch, Wizard
+Level: 8: Druid, Shaman\
+9: Arcanist, Sorcerer, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S, M (a piece of the creature whose form you plan to assume)
 Range: personal

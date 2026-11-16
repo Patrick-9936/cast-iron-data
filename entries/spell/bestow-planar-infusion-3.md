@@ -18,20 +18,13 @@ page = "39"
 kind = "spell"
 school = "evocation"
 levels = [
-  { class = "Arcanist", level = 1 },
-  { class = "Cleric", level = 1 },
-  { class = "Inquisitor", level = 1 },
-  { class = "Magus", level = 1 },
-  { class = "Medium", level = 1 },
-  { class = "Occultist", level = 1 },
-  { class = "Oracle", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Summoner", level = 1 },
-  { class = "Unchained Summoner", level = 1 },
-  { class = "Warpriest", level = 1 },
-  { class = "Witch", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Arcanist", level = 7 },
+  { class = "Cleric", level = 7 },
+  { class = "Oracle", level = 7 },
+  { class = "Psychic", level = 7 },
+  { class = "Sorcerer", level = 7 },
+  { class = "Witch", level = 7 },
+  { class = "Wizard", level = 7 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
@@ -47,7 +40,7 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: evocation
-Level: 1: Arcanist, Cleric, Inquisitor, Magus, Medium, Occultist, Oracle, Psychic, Sorcerer, Summoner, Unchained Summoner, Warpriest, Witch, Wizard
+Level: 7: Arcanist, Cleric, Oracle, Psychic, Sorcerer, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S
 Range: touch

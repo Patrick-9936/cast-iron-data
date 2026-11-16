@@ -20,26 +20,22 @@ school = "illusion"
 subschools = ["Glamer"]
 descriptors = ["glamer"]
 levels = [
-  { class = "Alchemist", level = 1 },
-  { class = "Antipaladin", level = 1 },
-  { class = "Arcanist", level = 1 },
-  { class = "Bard", level = 1 },
-  { class = "Inquisitor", level = 1 },
-  { class = "Investigator", level = 1 },
-  { class = "Medium", level = 1 },
-  { class = "Mesmerist", level = 1 },
-  { class = "Occultist", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Red Mantis Assassin", level = 1 },
-  { class = "Skald", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Arcanist", level = 2 },
+  { class = "Bard", level = 2 },
+  { class = "Inquisitor", level = 2 },
+  { class = "Medium", level = 2 },
+  { class = "Occultist", level = 2 },
+  { class = "Psychic", level = 2 },
+  { class = "Red Mantis Assassin", level = 2 },
+  { class = "Skald", level = 2 },
+  { class = "Sorcerer", level = 2 },
+  { class = "Wizard", level = 2 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
-range = "personal"
+range = "touch"
 effects = [
-  { label = "Target", value = "you" },
+  { label = "Target", value = "creature touched" },
 ]
 duration = "10 minutes/level (D)"
 saving_throw = "none"
@@ -49,14 +45,14 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: illusion
-Level: 1: Alchemist, Antipaladin, Arcanist, Bard, Inquisitor, Investigator, Medium, Mesmerist, Occultist, Psychic, Red Mantis Assassin, Skald, Sorcerer, Wizard
+Level: 2: Arcanist, Bard, Inquisitor, Medium, Occultist, Psychic, Red Mantis Assassin, Skald, Sorcerer, Wizard
 Casting time: 1 standard action
 Components: V, S
-Range: personal
+Range: touch
 Duration: 10 minutes/level (D)
 Saving throw: none
 Spell resistance: no
-Target: you
+Target: creature touched
 Subschool: Glamer
 Descriptors: glamer
 :::

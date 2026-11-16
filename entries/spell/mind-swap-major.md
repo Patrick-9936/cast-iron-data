@@ -20,24 +20,15 @@ school = "enchantment"
 subschools = ["Compulsion"]
 descriptors = ["mind-affecting"]
 levels = [
-  { class = "Arcanist", level = 6 },
-  { class = "Medium", level = 3 },
-  { class = "Mesmerist", level = 5 },
-  { class = "Occultist", level = 4 },
-  { class = "Psychic", level = 5 },
-  { class = "Sorcerer", level = 6 },
-  { class = "Spiritualist", level = 4 },
-  { class = "Summoner", level = 5 },
-  { class = "Witch", level = 6 },
-  { class = "Wizard", level = 6 },
+  { class = "Psychic", level = 9 },
 ]
-casting_time = "1 round"
-components = "V, S"
+casting_time = "1 minute"
+components = "V, S, M (diamonds worth 10,000 gp)"
 range = "medium (100 ft. + 10 ft./level)"
 effects = [
-  { label = "Target", value = "one creature" },
+  { label = "Target", value = "one creature of your same race" },
 ]
-duration = "1 hour/level (D)"
+duration = "instantaneous"
 saving_throw = "Will negates"
 spell_resistance = "yes"
 +++
@@ -45,17 +36,14 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: enchantment
-Level: 3: Medium\
-4: Occultist, Spiritualist\
-5: Mesmerist, Psychic, Summoner\
-6: Arcanist, Sorcerer, Witch, Wizard
-Casting time: 1 round
-Components: V, S
+Level: 9: Psychic
+Casting time: 1 minute
+Components: V, S, M (diamonds worth 10,000 gp)
 Range: medium (100 ft. + 10 ft./level)
-Duration: 1 hour/level (D)
+Duration: instantaneous
 Saving throw: Will negates
 Spell resistance: yes
-Target: one creature
+Target: one creature of your same race
 Subschool: Compulsion
 Descriptors: mind-affecting
 :::

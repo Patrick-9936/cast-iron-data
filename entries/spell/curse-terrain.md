@@ -19,22 +19,22 @@ kind = "spell"
 school = "necromancy"
 descriptors = ["curse", "evil"]
 levels = [
-  { class = "Arcanist", level = 2 },
-  { class = "Cleric", level = 2 },
-  { class = "Druid", level = 2 },
-  { class = "Hunter", level = 2 },
-  { class = "Oracle", level = 2 },
-  { class = "Shaman", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Warpriest", level = 2 },
-  { class = "Witch", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 4 },
+  { class = "Cleric", level = 4 },
+  { class = "Druid", level = 4 },
+  { class = "Hunter", level = 4 },
+  { class = "Oracle", level = 4 },
+  { class = "Shaman", level = 4 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Warpriest", level = 4 },
+  { class = "Witch", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "10 minutes"
-components = "V, S, M (the heart of a creature that dwelled in the area and powdered onxy worth 350 gp)"
+components = "V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 700 gp)"
 range = "touch"
 effects = [
-  { label = "Area", value = "300-ft. radius emanating from the touched point" },
+  { label = "Area", value = "1-mile radius emanating from the touched point" },
 ]
 duration = "1 day"
 saving_throw = "none"
@@ -44,14 +44,14 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: necromancy
-Level: 2: Arcanist, Cleric, Druid, Hunter, Oracle, Shaman, Sorcerer, Warpriest, Witch, Wizard
+Level: 4: Arcanist, Cleric, Druid, Hunter, Oracle, Shaman, Sorcerer, Warpriest, Witch, Wizard
 Casting time: 10 minutes
-Components: V, S, M (the heart of a creature that dwelled in the area and powdered onxy worth 350 gp)
+Components: V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 700 gp)
 Range: touch
 Duration: 1 day
 Saving throw: none
 Spell resistance: no
-Area: 300-ft. radius emanating from the touched point
+Area: 1-mile radius emanating from the touched point
 Descriptors: curse, evil
 :::
 

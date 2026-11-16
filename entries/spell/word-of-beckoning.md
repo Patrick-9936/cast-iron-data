@@ -16,25 +16,13 @@ page = "72"
 
 [fields]
 kind = "spell"
-school = "evocation"
+school = "conjuration"
+subschools = ["Teleportation"]
 levels = [
-  { class = "Alchemist", level = 5 },
-  { class = "Arcanist", level = 5 },
-  { class = "Cleric", level = 4 },
-  { class = "Inquisitor", level = 4 },
-  { class = "Investigator", level = 5 },
-  { class = "Medium", level = 3 },
-  { class = "Mesmerist", level = 3 },
-  { class = "Occultist", level = 4 },
-  { class = "Oracle", level = 4 },
-  { class = "Psychic", level = 4 },
-  { class = "Shaman", level = 4 },
-  { class = "Sorcerer", level = 5 },
-  { class = "Spiritualist", level = 5 },
-  { class = "Summoner", level = 4 },
-  { class = "Unchained Summoner", level = 5 },
-  { class = "Warpriest", level = 4 },
-  { class = "Wizard", level = 5 },
+  { class = "Arcanist", level = 7 },
+  { class = "Psychic", level = 7 },
+  { class = "Sorcerer", level = 7 },
+  { class = "Wizard", level = 7 },
 ]
 casting_time = "10 minutes"
 components = "V, S, M/DF (fine copper wire)"
@@ -49,10 +37,8 @@ spell_resistance = "no"
 
 ::: statblock
 title = "Spell statistics"
-School: evocation
-Level: 3: Medium, Mesmerist\
-4: Cleric, Inquisitor, Occultist, Oracle, Psychic, Shaman, Summoner, Warpriest\
-5: Alchemist, Arcanist, Investigator, Sorcerer, Spiritualist, Unchained Summoner, Wizard
+School: conjuration
+Level: 7: Arcanist, Psychic, Sorcerer, Wizard
 Casting time: 10 minutes
 Components: V, S, M/DF (fine copper wire)
 Range: see text
@@ -60,6 +46,7 @@ Duration: 1 round; see text
 Saving throw: none
 Spell resistance: no
 Target: one creature
+Subschool: Teleportation
 :::
 
 ### Word of Beckoning

@@ -18,43 +18,46 @@ page = "288"
 kind = "spell"
 school = "enchantment"
 subschools = ["Compulsion"]
-descriptors = ["curse", "language-dependant", "mind-affecting"]
+descriptors = ["language-dependant", "mind-affecting"]
 levels = [
-  { class = "Arcanist", level = 4 },
-  { class = "Bard", level = 3 },
-  { class = "Inquisitor", level = 4 },
-  { class = "Mesmerist", level = 3 },
-  { class = "Psychic", level = 4 },
-  { class = "Skald", level = 3 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Witch", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Arcanist", level = 6 },
+  { class = "Bard", level = 6 },
+  { class = "Cleric", level = 6 },
+  { class = "Inquisitor", level = 5 },
+  { class = "Mesmerist", level = 6 },
+  { class = "Oracle", level = 6 },
+  { class = "Psychic", level = 6 },
+  { class = "Skald", level = 6 },
+  { class = "Sorcerer", level = 6 },
+  { class = "Warpriest", level = 6 },
+  { class = "Witch", level = 6 },
+  { class = "Wizard", level = 6 },
 ]
-casting_time = "1 round"
+casting_time = "10 minutes"
 components = "V"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "one living creature with 7 HD or less" },
+  { label = "Target", value = "one living creature" },
 ]
 duration = "1 day/level or until discharged (D)"
-saving_throw = "Will negates"
+saving_throw = "none"
 spell_resistance = "yes"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: enchantment
-Level: 3: Bard, Mesmerist, Skald\
-4: Arcanist, Inquisitor, Psychic, Sorcerer, Witch, Wizard
-Casting time: 1 round
+Level: 5: Inquisitor\
+6: Arcanist, Bard, Cleric, Mesmerist, Oracle, Psychic, Skald, Sorcerer, Warpriest, Witch, Wizard
+Casting time: 10 minutes
 Components: V
 Range: close (25 ft. + 5 ft./2 levels)
 Duration: 1 day/level or until discharged (D)
-Saving throw: Will negates
+Saving throw: none
 Spell resistance: yes
-Target: one living creature with 7 HD or less
+Target: one living creature
 Subschool: Compulsion
-Descriptors: curse, language-dependant, mind-affecting
+Descriptors: language-dependant, mind-affecting
 :::
 
 ### Geas/Quest

@@ -18,7 +18,7 @@ page = "190"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Psychic", level = 2 },
+  { class = "Psychic", level = 4 },
 ]
 casting_time = "1 immediate action"
 components = "V"
@@ -34,7 +34,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 2: Psychic
+Level: 4: Psychic
 Casting time: 1 immediate action
 Components: V
 Range: personal

@@ -18,26 +18,25 @@ page = "243"
 kind = "spell"
 school = "divination"
 levels = [
-  { class = "Arcanist", level = 2 },
-  { class = "Bard", level = 1 },
-  { class = "Cleric", level = 2 },
-  { class = "Druid", level = 2 },
-  { class = "Hunter", level = 2 },
-  { class = "Medium", level = 1 },
-  { class = "Mesmerist", level = 1 },
-  { class = "Occultist", level = 2 },
-  { class = "Oracle", level = 2 },
-  { class = "Psychic", level = 1 },
-  { class = "Skald", level = 1 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Warpriest", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 3 },
+  { class = "Bard", level = 2 },
+  { class = "Cleric", level = 3 },
+  { class = "Druid", level = 3 },
+  { class = "Hunter", level = 3 },
+  { class = "Mesmerist", level = 2 },
+  { class = "Occultist", level = 3 },
+  { class = "Oracle", level = 3 },
+  { class = "Psychic", level = 2 },
+  { class = "Skald", level = 2 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Warpriest", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a page from a dictionary)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "24 hours"
 saving_throw = "Will negates (harmless)"
@@ -47,15 +46,15 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 1: Bard, Medium, Mesmerist, Psychic, Skald\
-2: Arcanist, Cleric, Druid, Hunter, Occultist, Oracle, Sorcerer, Warpriest, Wizard
+Level: 2: Bard, Mesmerist, Psychic, Skald\
+3: Arcanist, Cleric, Druid, Hunter, Occultist, Oracle, Sorcerer, Warpriest, Wizard
 Casting time: 1 standard action
 Components: V, S, M (a page from a dictionary)
 Range: touch
 Duration: 24 hours
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Targets: creatures touched
 :::
 
 ### Communal Share Language

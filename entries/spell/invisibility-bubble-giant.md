@@ -20,29 +20,21 @@ school = "illusion"
 subschools = ["Glamer"]
 descriptors = ["glamer"]
 levels = [
-  { class = "Alchemist", level = 2 },
-  { class = "Antipaladin", level = 2 },
-  { class = "Arcanist", level = 2 },
-  { class = "Bard", level = 2 },
-  { class = "Inquisitor", level = 2 },
-  { class = "Investigator", level = 2 },
-  { class = "Magus", level = 2 },
-  { class = "Medium", level = 2 },
-  { class = "Mesmerist", level = 2 },
-  { class = "Occultist", level = 2 },
-  { class = "Psychic", level = 2 },
-  { class = "Skald", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Spiritualist", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 3 },
+  { class = "Bard", level = 3 },
+  { class = "Mesmerist", level = 3 },
+  { class = "Occultist", level = 3 },
+  { class = "Psychic", level = 3 },
+  { class = "Skald", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (needle from a sea urchin)"
 range = "touch"
 effects = [
-  { label = "Area", value = "touched creature's space, up to one 5-foot-cube" },
+  { label = "Area", value = "10-ft..-radius emanation centered on the touched creature's space" },
 ]
 duration = "1 minute/level (D)"
 saving_throw = "Will negates (harmless)"
@@ -52,14 +44,14 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: illusion
-Level: 2: Alchemist, Antipaladin, Arcanist, Bard, Inquisitor, Investigator, Magus, Medium, Mesmerist, Occultist, Psychic, Skald, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Wizard
+Level: 3: Arcanist, Bard, Mesmerist, Occultist, Psychic, Skald, Sorcerer, Unchained Summoner, Wizard
 Casting time: 1 standard action
 Components: V, S, M (needle from a sea urchin)
 Range: touch
 Duration: 1 minute/level (D)
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Area: touched creature's space, up to one 5-foot-cube
+Area: 10-ft..-radius emanation centered on the touched creature's space
 Subschool: Glamer
 Descriptors: glamer
 :::

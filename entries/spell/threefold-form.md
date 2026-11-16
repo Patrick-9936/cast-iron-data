@@ -16,38 +16,34 @@ page = "25"
 
 [fields]
 kind = "spell"
-school = "conjuration"
-subschools = ["Creation"]
+school = "divination"
 levels = [
-  { class = "Arcanist", level = 9 },
-  { class = "Psychic", level = 8 },
-  { class = "Sorcerer", level = 9 },
-  { class = "Wizard", level = 9 },
+  { class = "Druid", level = 9 },
+  { class = "Psychic", level = 9 },
+  { class = "Witch", level = 9 },
 ]
 casting_time = "1 standard action"
-components = "V"
-range = "close (25 ft. + 5 ft./2 levels)"
+components = "V, S, F (a green, three-pointed knot made of mithral worth 729 gp)"
+range = "personal"
 effects = [
-  { label = "Effect", value = "one duplicate" },
+  { label = "Target", value = "you" },
 ]
-duration = "1 round/level (D)"
+duration = "9 rounds"
 saving_throw = "none"
 spell_resistance = "no"
 +++
 
 ::: statblock
 title = "Spell statistics"
-School: conjuration
-Level: 8: Psychic\
-9: Arcanist, Sorcerer, Wizard
+School: divination
+Level: 9: Druid, Psychic, Witch
 Casting time: 1 standard action
-Components: V
-Range: close (25 ft. + 5 ft./2 levels)
-Duration: 1 round/level (D)
+Components: V, S, F (a green, three-pointed knot made of mithral worth 729 gp)
+Range: personal
+Duration: 9 rounds
 Saving throw: none
 Spell resistance: no
-Effect: one duplicate
-Subschool: Creation
+Target: you
 :::
 
 ### Threefold Form

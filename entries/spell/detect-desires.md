@@ -19,43 +19,44 @@ kind = "spell"
 school = "divination"
 descriptors = ["mind-affecting"]
 levels = [
-  { class = "Alchemist", level = 2 },
-  { class = "Arcanist", level = 2 },
+  { class = "Antipaladin", level = 2 },
+  { class = "Arcanist", level = 3 },
   { class = "Bard", level = 2 },
-  { class = "Inquisitor", level = 2 },
-  { class = "Investigator", level = 2 },
+  { class = "Cleric", level = 3 },
+  { class = "Inquisitor", level = 3 },
   { class = "Medium", level = 2 },
-  { class = "Mesmerist", level = 2 },
-  { class = "Psychic", level = 1 },
+  { class = "Mesmerist", level = 3 },
+  { class = "Oracle", level = 3 },
+  { class = "Paladin", level = 3 },
+  { class = "Psychic", level = 2 },
   { class = "Skald", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Spiritualist", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Witch", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Spiritualist", level = 3 },
+  { class = "Warpriest", level = 3 },
+  { class = "Witch", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
-components = "V, S, F/DF (a copper piece)"
+components = "V, S, F/DF (a medallion)"
 range = "60 ft."
 effects = [
   { label = "Area", value = "cone-shaped emanation" },
 ]
-duration = "concentration, up to 1 min./level (D)"
-saving_throw = "Will negates; see text"
+duration = "concentration, up to 1 minute/level (D)"
+saving_throw = "Will negates (see text)"
 spell_resistance = "no"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 1: Psychic\
-2: Alchemist, Arcanist, Bard, Inquisitor, Investigator, Medium, Mesmerist, Skald, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Witch, Wizard
+Level: 2: Antipaladin, Bard, Medium, Psychic, Skald\
+3: Arcanist, Cleric, Inquisitor, Mesmerist, Oracle, Paladin, Sorcerer, Spiritualist, Warpriest, Witch, Wizard
 Casting time: 1 standard action
-Components: V, S, F/DF (a copper piece)
+Components: V, S, F/DF (a medallion)
 Range: 60 ft.
-Duration: concentration, up to 1 min./level (D)
-Saving throw: Will negates; see text
+Duration: concentration, up to 1 minute/level (D)
+Saving throw: Will negates (see text)
 Spell resistance: no
 Area: cone-shaped emanation
 Descriptors: mind-affecting

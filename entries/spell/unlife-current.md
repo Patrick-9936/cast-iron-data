@@ -20,11 +20,11 @@ school = "conjuration"
 subschools = ["Healing"]
 descriptors = ["water"]
 levels = [
+  { class = "Antipaladin", level = 3 },
   { class = "Cleric", level = 3 },
   { class = "Druid", level = 3 },
   { class = "Hunter", level = 3 },
   { class = "Oracle", level = 3 },
-  { class = "Paladin", level = 3 },
   { class = "Ranger", level = 3 },
   { class = "Shaman", level = 3 },
   { class = "Warpriest", level = 3 },
@@ -33,7 +33,7 @@ casting_time = "1 standard action"
 components = "V, S, DF"
 range = "medium (100 ft. + 10 ft./level)"
 effects = [
-  { label = "Area", value = "current or portion of current" },
+  { label = "Area", value = "current or portion of current up to 20 feet wide and 100 feet long" },
 ]
 duration = "1 round"
 saving_throw = "Will half"
@@ -43,14 +43,14 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 3: Cleric, Druid, Hunter, Oracle, Paladin, Ranger, Shaman, Warpriest
+Level: 3: Antipaladin, Cleric, Druid, Hunter, Oracle, Ranger, Shaman, Warpriest
 Casting time: 1 standard action
 Components: V, S, DF
 Range: medium (100 ft. + 10 ft./level)
 Duration: 1 round
 Saving throw: Will half
 Spell resistance: yes
-Area: current or portion of current
+Area: current or portion of current up to 20 feet wide and 100 feet long
 Subschool: Healing
 Descriptors: water
 :::

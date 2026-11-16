@@ -19,23 +19,21 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Creation"]
 levels = [
-  { class = "Arcanist", level = 3 },
-  { class = "Bloodrager", level = 3 },
-  { class = "Bard", level = 3 },
-  { class = "Magus", level = 3 },
-  { class = "Occultist", level = 3 },
-  { class = "Skald", level = 3 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Wizard", level = 3 },
+  { class = "Arcanist", level = 4 },
+  { class = "Bard", level = 4 },
+  { class = "Occultist", level = 4 },
+  { class = "Skald", level = 4 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Spiritualist", level = 4 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "10 minutes"
 components = "V, S"
-range = "0 ft."
+range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Effect", value = "one quasi-real, horse-like creature" },
+  { label = "Effect", value = "up to six quasi-real, horse-like creatures" },
 ]
 duration = "1 hour/level (D)"
 saving_throw = "none"
@@ -45,15 +43,15 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 2: Summoner, Unchained Summoner\
-3: Arcanist, Bloodrager, Bard, Magus, Occultist, Skald, Sorcerer, Spiritualist, Wizard
+Level: 3: Summoner, Unchained Summoner\
+4: Arcanist, Bard, Occultist, Skald, Sorcerer, Spiritualist, Wizard
 Casting time: 10 minutes
 Components: V, S
-Range: 0 ft.
+Range: close (25 ft. + 5 ft./2 levels)
 Duration: 1 hour/level (D)
 Saving throw: none
 Spell resistance: no
-Effect: one quasi-real, horse-like creature
+Effect: up to six quasi-real, horse-like creatures
 Subschool: Creation
 :::
 

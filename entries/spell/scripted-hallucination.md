@@ -20,16 +20,16 @@ school = "illusion"
 subschools = ["Phantasm"]
 descriptors = ["mind-affecting"]
 levels = [
-  { class = "Arcanist", level = 1 },
-  { class = "Bard", level = 1 },
-  { class = "Magus", level = 1 },
-  { class = "Medium", level = 1 },
-  { class = "Mesmerist", level = 1 },
-  { class = "Occultist", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Skald", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Arcanist", level = 5 },
+  { class = "Bard", level = 5 },
+  { class = "Magus", level = 5 },
+  { class = "Medium", level = 4 },
+  { class = "Mesmerist", level = 5 },
+  { class = "Occultist", level = 5 },
+  { class = "Psychic", level = 5 },
+  { class = "Skald", level = 5 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Wizard", level = 5 },
 ]
 casting_time = "1 standard action"
 components = "S"
@@ -37,7 +37,7 @@ range = "long (400 ft. + 40 ft./level)"
 effects = [
   { label = "Target", value = "one creature/level, no two of which can be more than 30 ft. apart" },
 ]
-duration = "concentration"
+duration = "1 minute/level (D)"
 saving_throw = "Will disbelief"
 spell_resistance = "yes"
 +++
@@ -45,11 +45,12 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: illusion
-Level: 1: Arcanist, Bard, Magus, Medium, Mesmerist, Occultist, Psychic, Skald, Sorcerer, Wizard
+Level: 4: Medium\
+5: Arcanist, Bard, Magus, Mesmerist, Occultist, Psychic, Skald, Sorcerer, Wizard
 Casting time: 1 standard action
 Components: S
 Range: long (400 ft. + 40 ft./level)
-Duration: concentration
+Duration: 1 minute/level (D)
 Saving throw: Will disbelief
 Spell resistance: yes
 Target: one creature/level, no two of which can be more than 30 ft. apart

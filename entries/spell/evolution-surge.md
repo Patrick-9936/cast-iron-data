@@ -18,8 +18,8 @@ page = "220"
 kind = "spell"
 school = "transmutation"
 levels = [
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a chameleon scale)"
@@ -35,7 +35,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 2: Summoner, Unchained Summoner
+Level: 3: Summoner, Unchained Summoner
 Casting time: 1 standard action
 Components: V, S, M (a chameleon scale)
 Range: touch

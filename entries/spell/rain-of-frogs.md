@@ -19,23 +19,24 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Summoning"]
 levels = [
-  { class = "Arcanist", level = 2 },
-  { class = "Bard", level = 2 },
-  { class = "Druid", level = 2 },
-  { class = "Hunter", level = 2 },
-  { class = "Shaman", level = 2 },
-  { class = "Skald", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Witch", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 3 },
+  { class = "Bard", level = 3 },
+  { class = "Druid", level = 3 },
+  { class = "Hunter", level = 3 },
+  { class = "Psychic", level = 3 },
+  { class = "Shaman", level = 4 },
+  { class = "Skald", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Witch", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 round"
 components = "V, S, M/DF (a square of red cloth)"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Effect", value = "one swarm of bats, rats, or spiders" },
+  { label = "Effect", value = "one swarm of poisonous frogs" },
 ]
 duration = "concentration+ 2 rounds"
 saving_throw = "none"
@@ -45,14 +46,15 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 2: Arcanist, Bard, Druid, Hunter, Shaman, Skald, Sorcerer, Summoner, Unchained Summoner, Witch, Wizard
+Level: 3: Arcanist, Bard, Druid, Hunter, Psychic, Skald, Sorcerer, Summoner, Unchained Summoner, Witch, Wizard\
+4: Shaman
 Casting time: 1 round
 Components: V, S, M/DF (a square of red cloth)
 Range: close (25 ft. + 5 ft./2 levels)
 Duration: concentration+ 2 rounds
 Saving throw: none
 Spell resistance: no
-Effect: one swarm of bats, rats, or spiders
+Effect: one swarm of poisonous frogs
 Subschool: Summoning
 :::
 

@@ -19,10 +19,10 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Teleportation"]
 levels = [
-  { class = "Cleric", level = 3 },
-  { class = "Inquisitor", level = 3 },
-  { class = "Oracle", level = 3 },
-  { class = "Warpriest", level = 3 },
+  { class = "Cleric", level = 2 },
+  { class = "Inquisitor", level = 2 },
+  { class = "Oracle", level = 2 },
+  { class = "Warpriest", level = 2 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
@@ -38,7 +38,7 @@ spell_resistance = "yes (object)"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 3: Cleric, Inquisitor, Oracle, Warpriest
+Level: 2: Cleric, Inquisitor, Oracle, Warpriest
 Casting time: 1 standard action
 Components: V, S
 Range: long (400 ft. + 40 ft./level)

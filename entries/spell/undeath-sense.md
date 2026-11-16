@@ -18,29 +18,25 @@ page = "18"
 kind = "spell"
 school = "divination"
 levels = [
-  { class = "Alchemist", level = 1 },
-  { class = "Arcanist", level = 1 },
-  { class = "Cleric", level = 1 },
-  { class = "Inquisitor", level = 1 },
-  { class = "Investigator", level = 1 },
-  { class = "Medium", level = 1 },
-  { class = "Mesmerist", level = 1 },
-  { class = "Oracle", level = 1 },
-  { class = "Paladin", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Shaman", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Spiritualist", level = 1 },
-  { class = "Warpriest", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Alchemist", level = 2 },
+  { class = "Arcanist", level = 2 },
+  { class = "Cleric", level = 2 },
+  { class = "Inquisitor", level = 2 },
+  { class = "Investigator", level = 2 },
+  { class = "Oracle", level = 2 },
+  { class = "Paladin", level = 2 },
+  { class = "Shaman", level = 2 },
+  { class = "Sorcerer", level = 2 },
+  { class = "Warpriest", level = 2 },
+  { class = "Wizard", level = 2 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M/DF (earth from a grave)"
-range = "60 ft."
+components = "V, S, M/DF (ashes from an urn)"
+range = "touch"
 effects = [
-  { label = "Area", value = "cone-shaped emanation" },
+  { label = "Target", value = "creature touched" },
 ]
-duration = "concentration, up to 1 min./level"
+duration = "10 minutes/level (D)"
 saving_throw = "none"
 spell_resistance = "no"
 +++
@@ -48,14 +44,14 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 1: Alchemist, Arcanist, Cleric, Inquisitor, Investigator, Medium, Mesmerist, Oracle, Paladin, Psychic, Shaman, Sorcerer, Spiritualist, Warpriest, Wizard
+Level: 2: Alchemist, Arcanist, Cleric, Inquisitor, Investigator, Oracle, Paladin, Shaman, Sorcerer, Warpriest, Wizard
 Casting time: 1 standard action
-Components: V, S, M/DF (earth from a grave)
-Range: 60 ft.
-Duration: concentration, up to 1 min./level
+Components: V, S, M/DF (ashes from an urn)
+Range: touch
+Duration: 10 minutes/level (D)
 Saving throw: none
 Spell resistance: no
-Area: cone-shaped emanation
+Target: creature touched
 :::
 
 ### Undeath Sense

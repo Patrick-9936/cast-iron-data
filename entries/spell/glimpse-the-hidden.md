@@ -18,47 +18,38 @@ page = "17"
 kind = "spell"
 school = "divination"
 levels = [
-  { class = "Adept", level = 2 },
-  { class = "Alchemist", level = 2 },
-  { class = "Arcanist", level = 2 },
-  { class = "Bloodrager", level = 2 },
-  { class = "Bard", level = 3 },
-  { class = "Inquisitor", level = 2 },
-  { class = "Investigator", level = 2 },
-  { class = "Mesmerist", level = 3 },
-  { class = "Occultist", level = 2 },
-  { class = "Psychic", level = 2 },
-  { class = "Skald", level = 3 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Spiritualist", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Witch", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Alchemist", level = 3 },
+  { class = "Arcanist", level = 3 },
+  { class = "Inquisitor", level = 3 },
+  { class = "Investigator", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Witch", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (talc and powdered silver)"
-range = "personal"
+components = "V, S, M (a pinch of magnesium and platinum)"
+range = "touch"
 effects = [
-  { label = "Target", value = "you" },
+  { label = "Target", value = "creature touched" },
 ]
-duration = "10 minutes/level (D)"
-saving_throw = "none"
-spell_resistance = "no"
+duration = "1 round/level (D)"
+saving_throw = "Will negates (harmless)"
+spell_resistance = "yes (harmless)"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 2: Adept, Alchemist, Arcanist, Bloodrager, Inquisitor, Investigator, Occultist, Psychic, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Witch, Wizard\
-3: Bard, Mesmerist, Skald
+Level: 3: Alchemist, Arcanist, Inquisitor, Investigator, Sorcerer, Summoner, Unchained Summoner, Witch, Wizard
 Casting time: 1 standard action
-Components: V, S, M (talc and powdered silver)
-Range: personal
-Duration: 10 minutes/level (D)
-Saving throw: none
-Spell resistance: no
-Target: you
+Components: V, S, M (a pinch of magnesium and platinum)
+Range: touch
+Duration: 1 round/level (D)
+Saving throw: Will negates (harmless)
+Spell resistance: yes (harmless)
+Target: creature touched
 :::
 
 ### Glimpse the Hidden

@@ -18,27 +18,27 @@ page = "224"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Arcanist", level = 1 },
-  { class = "Bard", level = 1 },
-  { class = "Hunter", level = 1 },
-  { class = "Inquisitor", level = 1 },
-  { class = "Occultist", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Ranger", level = 1 },
-  { class = "Skald", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Spiritualist", level = 1 },
-  { class = "Summoner", level = 1 },
-  { class = "Unchained Summoner", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Arcanist", level = 3 },
+  { class = "Bard", level = 3 },
+  { class = "Hunter", level = 2 },
+  { class = "Inquisitor", level = 3 },
+  { class = "Occultist", level = 3 },
+  { class = "Psychic", level = 3 },
+  { class = "Ranger", level = 2 },
+  { class = "Skald", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Spiritualist", level = 3 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
-components = "V, S, F/DF (a tiny bell and a piece of very fine silver wire)"
+components = "V, S, F/DF (a slender iron rod 1 foot in length)"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Area", value = "20-ft.-radius emanation centered on a point in space" },
+  { label = "Area", value = "up to 20-ft.-radius emanation centered on a point in space" },
 ]
-duration = "2 hours/level"
+duration = "2 hours/level (D)"
 saving_throw = "none"
 spell_resistance = "no"
 +++
@@ -46,14 +46,15 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 1: Arcanist, Bard, Hunter, Inquisitor, Occultist, Psychic, Ranger, Skald, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Wizard
+Level: 2: Hunter, Ranger\
+3: Arcanist, Bard, Inquisitor, Occultist, Psychic, Skald, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Wizard
 Casting time: 1 standard action
-Components: V, S, F/DF (a tiny bell and a piece of very fine silver wire)
+Components: V, S, F/DF (a slender iron rod 1 foot in length)
 Range: close (25 ft. + 5 ft./2 levels)
-Duration: 2 hours/level
+Duration: 2 hours/level (D)
 Saving throw: none
 Spell resistance: no
-Area: 20-ft.-radius emanation centered on a point in space
+Area: up to 20-ft.-radius emanation centered on a point in space
 :::
 
 ### Selective Alarm

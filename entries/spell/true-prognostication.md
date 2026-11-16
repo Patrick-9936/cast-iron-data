@@ -18,18 +18,14 @@ page = "228"
 kind = "spell"
 school = "divination"
 levels = [
-  { class = "Cleric", level = 4 },
-  { class = "Inquisitor", level = 4 },
-  { class = "Medium", level = 3 },
-  { class = "Oracle", level = 4 },
-  { class = "Psychic", level = 4 },
-  { class = "Shaman", level = 4 },
-  { class = "Spiritualist", level = 4 },
-  { class = "Warpriest", level = 4 },
-  { class = "Witch", level = 4 },
+  { class = "Cleric", level = 8 },
+  { class = "Oracle", level = 8 },
+  { class = "Psychic", level = 8 },
+  { class = "Shaman", level = 8 },
+  { class = "Witch", level = 8 },
 ]
-casting_time = "10 minutes"
-components = "V, S, M (incense and an appropriate offering worth 25 gp)"
+casting_time = "1 week"
+components = "V, S, M (rare incense and tonics worth 1,000 gp)"
 range = "personal"
 effects = [
   { label = "Target", value = "you" },
@@ -42,10 +38,9 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 3: Medium\
-4: Cleric, Inquisitor, Oracle, Psychic, Shaman, Spiritualist, Warpriest, Witch
-Casting time: 10 minutes
-Components: V, S, M (incense and an appropriate offering worth 25 gp)
+Level: 8: Cleric, Oracle, Psychic, Shaman, Witch
+Casting time: 1 week
+Components: V, S, M (rare incense and tonics worth 1,000 gp)
 Range: personal
 Duration: instantaneous
 Saving throw: none

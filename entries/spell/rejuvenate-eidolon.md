@@ -19,8 +19,8 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Healing"]
 levels = [
-  { class = "Summoner", level = 1 },
-  { class = "Unchained Summoner", level = 1 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a drop of your blood)"
@@ -36,7 +36,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 1: Summoner, Unchained Summoner
+Level: 3: Summoner, Unchained Summoner
 Casting time: 1 standard action
 Components: V, S, M (a drop of your blood)
 Range: touch
