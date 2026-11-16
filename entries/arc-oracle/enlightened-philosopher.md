@@ -68,7 +68,8 @@ preternatural understanding of all things - and you just keep getting smarter.
 
 **Info:** This is the same as the [lore](ref/mystery/lore) mystery revelation of the same name.
 
-**Passive:** You gain a +1 inherent bonus to Intelligence upon taking this revelation.
+**Passive:** You gain a +1 inherent bonus to Intelligence upon taking this revelation and another at
+every third oracle level gained thereafter.
 
 At 10th level: The bonus to Intelligence +2.
 
