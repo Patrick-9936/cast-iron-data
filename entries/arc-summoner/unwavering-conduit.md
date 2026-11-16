@@ -62,13 +62,13 @@ increase the number of creatures summoned, the set number increases by that amou
 the creatures he summons must be of a lawful alignment. If a creature would normally be celestial or
 fiendish, it is instead a [resolute creature](ref/template/resolute).
 
-At 6th level: The resistance bonus +2.
+At 6th level: The resistance bonus increases to +2.
 
-At 10th level: The resistance bonus +3.
+At 10th level: The resistance bonus increases to +3.
 
-At 14th level: The resistance bonus +4.
+At 14th level: The resistance bonus increases to +4.
 
-At 18th level: The resistance bonus +5.
+At 18th level: The resistance bonus increases to +5.
 
 **Law Magic**
 

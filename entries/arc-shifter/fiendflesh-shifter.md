@@ -85,13 +85,13 @@ in 1-minute increments
 [resistance](ref/umr/resistance) 5 to electricity and fire, but only while unencumbered and either
 wearing no armor or wearing light or medium nonmetal armor.
 
-**Repeat:** The natural armor bonus increases by 1., 4, 8
+**Repeat:** The natural armor bonus increases by 1., 4, 12, 20
 
 **Replaces:** Defensive instinct
 
-At 8th level: Her resistance to electricity and fire 10.
+At 8th level: Her resistance to electricity and fire increases to 10.
 
-At 16th level: Her resistance to electricity and fire 15.
+At 16th level: Her resistance to electricity and fire increases to 15.
 
 **Chimeric Fiend (Su)**
 

@@ -65,21 +65,21 @@ prerequisites of this bonus feat.
 
 **Usage:** 1 time/day + 1 per 6 warpriest levels beyond 3rd
 
-At 5th level: The amount of time allies gain this feat 5 rounds.
+At 5th level: The amount of time allies gain this feat increases to 5 rounds.
 
-At 7th level: The amount of time allies gain this feat 6 rounds.
+At 7th level: The amount of time allies gain this feat increases to 6 rounds.
 
-At 9th level: The amount of time allies gain this feat 7 rounds.
+At 9th level: The amount of time allies gain this feat increases to 7 rounds.
 
-At 11th level: The amount of time allies gain this feat 8 rounds.
+At 11th level: The amount of time allies gain this feat increases to 8 rounds.
 
-At 13th level: The amount of time allies gain this feat 9 rounds.
+At 13th level: The amount of time allies gain this feat increases to 9 rounds.
 
-At 15th level: The amount of time allies gain this feat 10 rounds.
+At 15th level: The amount of time allies gain this feat increases to 10 rounds.
 
-At 17th level: The amount of time allies gain this feat 11 rounds.
+At 17th level: The amount of time allies gain this feat increases to 11 rounds.
 
-At 19th level: The amount of time allies gain this feat 12 rounds.
+At 19th level: The amount of time allies gain this feat increases to 12 rounds.
 
 **Blessed Mount (Su)**
 

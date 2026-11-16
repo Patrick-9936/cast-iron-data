@@ -73,13 +73,13 @@ if the eldritch scoundrel comes within 10 feet of a magic trap.
 **At 3rd Level:** The eldritch scoundrel doesn't acquire the sneak attack class feature until 3rd
 level, when she gains a +1d6 sneak attack.
 
-At 7th level: The sneak attack damage +2d6.
+At 7th level: The sneak attack damage increases to +2d6.
 
-At 11th level: The sneak attack damage +3d6.
+At 11th level: The sneak attack damage increases to +3d6.
 
-At 15th level: The sneak attack damage +4d6.
+At 15th level: The sneak attack damage increases to +4d6.
 
-At 19th level: The sneak attack damage +5d6.
+At 19th level: The sneak attack damage increases to +5d6.
 
 **Rogue Talents**
 

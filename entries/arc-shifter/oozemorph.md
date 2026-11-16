@@ -137,15 +137,15 @@ wearing light nonmetal armor.
 
 **Replaces:** Defensive instinct
 
-At 4th level: This [damage reduction](ref/rule/damage-reduction) 6.
+At 4th level: This [damage reduction](ref/rule/damage-reduction) increases to 6/slashing.
 
-At 8th level: This [damage reduction](ref/rule/damage-reduction) 8.
+At 8th level: This [damage reduction](ref/rule/damage-reduction) increases to 8/slashing.
 
-At 12th level: This [damage reduction](ref/rule/damage-reduction) 10.
+At 12th level: This [damage reduction](ref/rule/damage-reduction) increases to 10/slashing.
 
-At 16th level: This [damage reduction](ref/rule/damage-reduction) 12.
+At 16th level: This [damage reduction](ref/rule/damage-reduction) increases to 12/slashing.
 
-At 20th level: This [damage reduction](ref/rule/damage-reduction) 14.
+At 20th level: This [damage reduction](ref/rule/damage-reduction) increases to 14/slashing.
 
 **Clinging Ooze (Ex)**
 

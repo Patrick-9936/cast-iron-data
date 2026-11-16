@@ -45,13 +45,13 @@ underwater crossbow, the spire diver adds the range increment gained from _studi
 bonus to the weapon's usual underwater range increment, though the combined range increment cannot
 exceed the weapon's normal range increment.
 
-At 5th level: The range increment 20.
+At 5th level: The range increment increases to 20.
 
-At 10th level: The range increment 30.
+At 10th level: The range increment increases to 30.
 
-At 15th level: The range increment 40.
+At 15th level: The range increment increases to 40.
 
-At 20th level: The range increment 50.
+At 20th level: The range increment increases to 50.
 
 **Hold Breath (Ex)**
 

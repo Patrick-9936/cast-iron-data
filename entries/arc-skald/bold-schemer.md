@@ -48,13 +48,13 @@ strategies to overcome enemy fortifications.
 
 **Replaces:** Uncanny dodge, improved uncanny dodge, [damage reduction](ref/rule/damage-reduction)
 
-At 8th level: The insight bonus +4.
+At 8th level: The insight bonus increases to +4.
 
-At 12th level: The insight bonus +6.
+At 12th level: The insight bonus increases to +6.
 
-At 16th level: The insight bonus +8.
+At 16th level: The insight bonus increases to +8.
 
-At 20th level: The insight bonus +10.
+At 20th level: The insight bonus increases to +10.
 
 A bold schemer can spend 8 hours observing a physical location (such as a fortress, a walled city,
 or perhaps even a section of an underground dungeon or cavern complex), contemplating methods to

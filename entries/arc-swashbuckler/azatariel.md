@@ -102,13 +102,13 @@ saving throws against mind-affecting effects.
 **Special:** An azatariel in medium or heavy armor or carrying a medium or heavy load loses this
 extra speed.
 
-At 7th level: The enhancement bonus +20.
+At 7th level: The enhancement bonus to speed increases to +20 feet.
 
-At 11th level: The enhancement bonus +30.
+At 11th level: The enhancement bonus to speed increases to +30 feet.
 
-At 15th level: The enhancement bonus +40.
+At 15th level: The enhancement bonus to speed increases to +40 feet.
 
-At 19th level: The enhancement bonus +50.
+At 19th level: The enhancement bonus to speed increases to +50 feet.
 
 **Affection of Elysium (Su)**
 

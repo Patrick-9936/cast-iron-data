@@ -57,9 +57,9 @@ to her Strength score.
 
 **Replaces:** 2nd-, 8th-, and 14th-level hexes
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 14th level: This bonus +6.
+At 14th level: This bonus increases to +6.
 
 **Vain Glamour (Sp)**
 

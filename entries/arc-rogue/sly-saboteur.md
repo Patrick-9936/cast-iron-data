@@ -44,15 +44,15 @@ ability applies only when she is wearing light armor or no armor and carrying no
 load, and it stacks with the [Acrobatic Steps](ref/feat/acrobatic-steps) and
 [Nimble Moves](ref/feat/nimble-moves) feats.
 
-At 6th level: This distance 10 feet.
+At 6th level: This distance increases to 10 feet.
 
-At 9th level: This distance 15 feet.
+At 9th level: This distance increases to 15 feet.
 
-At 12th level: This distance 20 feet.
+At 12th level: This distance increases to 20 feet.
 
-At 15th level: This distance 25 feet.
+At 15th level: This distance increases to 25 feet.
 
-At 18th level: This distance 30 feet.
+At 18th level: This distance increases to 30 feet.
 
 **Catastrophic Failure (Ex)**
 

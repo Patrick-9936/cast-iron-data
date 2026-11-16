@@ -54,9 +54,9 @@ just might save her.
 
 **Replaces:** Trap sense
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +2.
 
-At 15th level: This bonus +3.
+At 15th level: This bonus increases to +3.
 
 **Audacious Overconfidence (Ex)**
 

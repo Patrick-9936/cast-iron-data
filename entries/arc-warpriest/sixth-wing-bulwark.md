@@ -73,11 +73,11 @@ As long as she has rounds of sacred shield remaining, she can recall her shield 
 the shield; if she no longer has a hand free or if the duration of her sacred shield ability ends,
 the shield drops to the ground and ceases providing any benefit.
 
-At 8th level: The fire resistance 10.
+At 8th level: The fire resistance increases to 10.
 
-At 12th level: The fire resistance 15.
+At 12th level: The fire resistance increases to 15.
 
-At 16th level: The fire resistance 20.
+At 16th level: The fire resistance increases to 20.
 
 **Shield of Grace (Su)**
 

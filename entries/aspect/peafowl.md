@@ -22,9 +22,9 @@ royalty or the divine.
 
 **Passive:** You gain a +2 enhancement bonus to your Charisma score.
 
-At 8th level: The bonus +4.
+At 8th level: The bonus increases to +4.
 
-At 15th level: The bonus +6.
+At 15th level: The bonus increases to +6.
 
 **Major Form**
 

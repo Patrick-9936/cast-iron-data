@@ -21,9 +21,9 @@ The octopus is a cunning hunter, able to contort its malleable body with ease.
 
 **Passive:** You gain a +4 competence bonus on Escape Artist checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Major Form**
 

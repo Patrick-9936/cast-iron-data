@@ -75,9 +75,9 @@ and effects.
 **Standard:** Once per day, a Pureblade can shed a magical effect placed on him by an aberration as
 [break enchantment](ref/spell/break-enchantment), using his slayer level as his caster level.
 
-At 12th level: The resistance bonus +4.
+At 12th level: The resistance bonus increases to +4.
 
-At 16th level: The resistance bonus +6.
+At 16th level: The resistance bonus increases to +6.
 
 **Aberration Slayer (Ex)**
 

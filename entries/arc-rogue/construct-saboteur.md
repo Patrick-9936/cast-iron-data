@@ -88,12 +88,12 @@ successful Reflex save.
 
 **Replaces:** Trap sense
 
-At 6th level: The amount of DR ignored 4.
+At 6th level: The amount of DR ignored increases to 4.
 
-At 9th level: The amount of DR ignored 6.
+At 9th level: The amount of DR ignored increases to 6.
 
-At 12th level: The amount of DR ignored 8.
+At 12th level: The amount of DR ignored increases to 8.
 
-At 15th level: The amount of DR ignored 10.
+At 15th level: The amount of DR ignored increases to 10.
 
-At 18th level: The amount of DR ignored 12.
+At 18th level: The amount of DR ignored increases to 12.

@@ -22,9 +22,9 @@ with an astounding agility and balance.
 
 **Passive:** You gain a +4 competence bonus on Acrobatics checks.
 
-At 8th level: The bonus +6.
+At 8th level: The bonus increases to +6.
 
-At 15th level: The bonus +8.
+At 15th level: The bonus increases to +8.
 
 **Major Form**
 

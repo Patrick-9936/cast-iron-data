@@ -23,9 +23,9 @@ group = "warpriest-blessing"
 **At 1st Level:** You can gain a +1 sacred bonus on saving throws and a +1 sacred bonus to AC for 1
 minute.
 
-At 10th level: The bonus +2.
+At 10th level: The bonus increases to +2.
 
-At 20th level: The bonus +3.
+At 20th level: The bonus increases to +3.
 
 **Aura of Protection (major)**
 

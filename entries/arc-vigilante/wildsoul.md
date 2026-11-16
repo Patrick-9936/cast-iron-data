@@ -165,9 +165,9 @@ primary natural attack that deals 1d4 points of damage if he is Medium or 1d3 if
 **Passive:** An ursine wildsoul in his vigilante identity has skin that bristles with thick hair
 like that of a bear's. He gains a natural armor bonus of +1.
 
-At 16th level: This natural armor bonus +2.
+At 16th level: This natural armor bonus increases to +2.
 
-At 20th level: This natural armor bonus +3.
+At 20th level: This natural armor bonus increases to +3.
 
 **Bear Form (Su)**
 

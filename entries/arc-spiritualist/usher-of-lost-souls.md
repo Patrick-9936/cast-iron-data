@@ -49,23 +49,23 @@ undead or living) in a 30-foot radius centered on you. This deals 1d6 damage. Cr
 damage from channeled energy receive a Will save to halve the damage, with a DC equal to 10 +
 [half](ref/misc/fractions-and-rounding) your cleric level + your Charisma modifier.
 
-At 3rd level: The damage 2d6.
+At 3rd level: The damage increases to 2d6.
 
-At 5th level: The damage 3d6.
+At 5th level: The damage increases to 3d6.
 
-At 7th level: The damage 4d6.
+At 7th level: The damage increases to 4d6.
 
-At 9th level: The damage 5d6.
+At 9th level: The damage increases to 5d6.
 
-At 11th level: The damage 6d6.
+At 11th level: The damage increases to 6d6.
 
-At 13th level: The damage 7d6.
+At 13th level: The damage increases to 7d6.
 
-At 15th level: The damage 8d6.
+At 15th level: The damage increases to 8d6.
 
-At 17th level: The damage 9d6.
+At 17th level: The damage increases to 9d6.
 
-At 19th level: The damage 10d6.
+At 19th level: The damage increases to 10d6.
 
 **Spirit Senses (Ex)**
 

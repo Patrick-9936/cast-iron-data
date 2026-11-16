@@ -73,23 +73,23 @@ the DC of channeled negative energy by +1 and the turn resistance of undead by +
 
 **Replaces:** 1st-level hex
 
-At 3rd level: The radius of the aura 25 feet.
+At 3rd level: The radius of the aura increases to 25 feet.
 
-At 5th level: The radius of the aura 30 feet.
+At 5th level: The radius of the aura increases to 30 feet.
 
-At 7th level: The radius of the aura 35 feet.
+At 7th level: The radius of the aura increases to 35 feet.
 
-At 9th level: The radius of the aura 40 feet.
+At 9th level: The radius of the aura increases to 40 feet.
 
-At 11th level: The radius of the aura 45 feet.
+At 11th level: The radius of the aura increases to 45 feet.
 
-At 13th level: The radius of the aura 50 feet.
+At 13th level: The radius of the aura increases to 50 feet.
 
-At 15th level: The radius of the aura 55 feet.
+At 15th level: The radius of the aura increases to 55 feet.
 
-At 17th level: The radius of the aura 60 feet.
+At 17th level: The radius of the aura increases to 60 feet.
 
-At 19th level: The radius of the aura 65 feet.
+At 19th level: The radius of the aura increases to 65 feet.
 
 **Bonethrall (Su)**
 

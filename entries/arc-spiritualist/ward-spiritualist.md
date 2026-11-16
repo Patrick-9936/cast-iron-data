@@ -92,11 +92,11 @@ it is considered to have a +1 enhancement bonus for the duration of the _merged 
 **At 8th Level:** It deals damage as a weapon
 [one size category larger](ref/misc/damage-die-adjustments).
 
-At 8th level: The enchantment bonus +2.
+At 8th level: The enhancement bonus increases to +2.
 
-At 13th level: The enchantment bonus +3.
+At 13th level: The enhancement bonus increases to +3.
 
-At 18th level: The enchantment bonus +4.
+At 18th level: The enhancement bonus increases to +4.
 
 **Is Her Own Implement**
 
