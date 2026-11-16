@@ -52,13 +52,13 @@ level, while the charge bonus is equal to 1 + one-fifth of your cavalier level.
 gains a +1 dodge bonus to AC during any round in which they moved at least 10 feet. This increase to
 land speed is an enhancement bonus.
 
-At 5th level: The bonus to speed +10 feet.
+At 5th level: The bonus to speed increases to +10 feet.
 
-At 10th level: The bonus to speed +15 feet.
+At 10th level: The bonus to speed increases to +15 feet.
 
-At 15th level: The bonus to speed +20 feet.
+At 15th level: The bonus to speed increases to +20 feet.
 
-At 20th level: The bonus to speed +25 feet.
+At 20th level: The bonus to speed increases to +25 feet.
 
 **Jinx Standard (Ex)**
 

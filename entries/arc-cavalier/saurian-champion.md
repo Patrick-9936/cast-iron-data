@@ -84,11 +84,11 @@ functions as a cavalier's normal mount with the following adjustments:
 **Passive:** A saurian champion gains a +1 dodge bonus to AC when mounted. Anything that causes the
 saurian champion to lose his Dexterity bonus to AC also causes him to lose this dodge bonus.
 
-At 8th level: The bonus +2.
+At 8th level: The bonus increases to +2.
 
-At 14th level: The bonus +3.
+At 14th level: The bonus increases to +3.
 
-At 20th level: The bonus +4.
+At 20th level: The bonus increases to +4.
 
 **Fierce Devotion (Ex)**
 

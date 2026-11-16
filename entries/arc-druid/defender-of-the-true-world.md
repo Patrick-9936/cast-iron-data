@@ -57,11 +57,11 @@ rolls against fey creatures.
 
 **Replaces:** Trackless step
 
-At 8th level: The bonus +2.
+At 8th level: The bonus increases to +2.
 
-At 13th level: The bonus +3.
+At 13th level: The bonus increases to +3.
 
-At 18th level: The bonus +4.
+At 18th level: The bonus increases to +4.
 
 **Feybane (Ex)**
 

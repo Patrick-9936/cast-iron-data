@@ -37,11 +37,11 @@ to [disarm](ref/rule/disarm), grapple, or [trip](ref/rule/trip) opponents.
 
 **Replaces:** Mount
 
-At 7th level: The bonus +2.
+At 7th level: The bonus increases to +2.
 
-At 12th level: The bonus +3.
+At 12th level: The bonus increases to +3.
 
-At 17th level: The bonus +4.
+At 17th level: The bonus increases to +4.
 
 **Squad Commander (Ex)**
 
