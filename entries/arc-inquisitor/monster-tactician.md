@@ -49,21 +49,21 @@ creates, so long as she can use this ability to cast the required spells
 
 **Usage:** Wisdom3 modifier times/day
 
-At 3rd level: This now behaves as summon monster +2.
+At 3rd level: This now behaves as [summon monster II](ref/spell/summon-monster-2).
 
-At 5th level: This now behaves as summon monster +3.
+At 5th level: This now behaves as [summon monster III](ref/spell/summon-monster-3).
 
-At 7th level: This now behaves as summon monster +4.
+At 7th level: This now behaves as [summon monster IV](ref/spell/summon-monster-4).
 
-At 9th level: This now behaves as summon monster +5.
+At 9th level: This now behaves as [summon monster V](ref/spell/summon-monster-5).
 
-At 11th level: This now behaves as summon monster +6.
+At 11th level: This now behaves as [summon monster VI](ref/spell/summon-monster-6).
 
-At 13th level: This now behaves as summon monster +7.
+At 13th level: This now behaves as [summon monster VII](ref/spell/summon-monster-7).
 
-At 15th level: This now behaves as summon monster +8.
+At 15th level: This now behaves as [summon monster VIII](ref/spell/summon-monster-8).
 
-At 17th level: This now behaves as summon monster +9.
+At 17th level: This now behaves as [summon monster IX](ref/spell/summon-monster-9).
 
 **Summon Tactics (Su)**
 
