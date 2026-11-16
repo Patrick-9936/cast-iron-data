@@ -65,11 +65,13 @@ the creature being influenced can see both the companion and the master.
 
 **Replaces:** Precise companion
 
-At 9th level: This bonus +2.
+At 5th level: This bonus increases to +3.
 
-At 13th level: This bonus +3.
+At 9th level: This bonus increases to +4.
 
-At 17th level: This bonus +4.
+At 13th level: This bonus increases to +5.
+
+At 17th level: This bonus increases to +6.
 
 **Animal Shape (Su)**
 

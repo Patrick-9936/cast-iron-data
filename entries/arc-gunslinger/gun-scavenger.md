@@ -99,10 +99,10 @@ Class, the gun scavenger treats the combined bonus as if it were 1 lower.
 
 **Replaces:** Nimble
 
-At 6th level: The reduction 2.
+At 6th level: The reduction increases to 2.
 
-At 10th level: The reduction 3.
+At 10th level: The reduction increases to 3.
 
-At 14th level: The reduction 4.
+At 14th level: The reduction increases to 4.
 
-At 18th level: The reduction 5.
+At 18th level: The reduction increases to 5.

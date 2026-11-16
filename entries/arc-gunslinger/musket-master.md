@@ -79,8 +79,8 @@ misfire value increases by 2 instead of 4.
 
 **Replaces:** Firearm training 1, 2, 3, and 4
 
-At 9th level: The damage bonus +1.
+At 9th level: The damage bonus increases to her Dexterity modifier +1.
 
-At 13th level: The damage bonus +2.
+At 13th level: The damage bonus increases to her Dexterity modifier +2.
 
-At 17th level: The damage bonus +3.
+At 17th level: The damage bonus increases to her Dexterity modifier +3.

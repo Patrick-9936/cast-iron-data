@@ -44,9 +44,9 @@ instead of the normal hunter options.
 **Passive:** The creature gains a +1 morale bonus on saves against divine spells and
 [spell-like abilities](ref/umr/spell-like-abilities).
 
-At 8th level: This bonus +2.
+At 8th level: This bonus increases to +2.
 
-At 15th level: This bonus +3.
+At 15th level: This bonus increases to +3.
 
 **Cetus**
 
@@ -72,9 +72,9 @@ At 15th level: This bonus +3.
 
 **Passive:** The creature gains a +4 competence bonus on Swim checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Kraken**
 
@@ -111,9 +111,9 @@ it cast on itself, with a caster level equal to the pelagic hunter's class level
 
 **Passive:** The creature gains a +4 competence bonus on Bluff checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Shoggoth**
 
@@ -122,9 +122,9 @@ At 15th level: This bonus +8.
 **Passive:** The creature gains a +2 competence bonus on Perception checks and reduces the
 [flanking](ref/rule/flanking) bonuses of creatures flanking it by 1.
 
-At 8th level: This perception bonus +3.
+At 8th level: This perception bonus increases to +3.
 
-At 15th level: This perception bonus +4.
+At 15th level: This perception bonus increases to +4.
 
 **Siyokoy**
 

@@ -48,17 +48,17 @@ save against this spell as a result of the caster knowing her name and facts abo
 
 **Replaces:** Poison resistance
 
-At 5th level: This bonus +3.
+At 5th level: This bonus increases to +3.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 11th level: This bonus +5.
+At 11th level: This bonus increases to +5.
 
-At 14th level: This bonus +6.
+At 14th level: This bonus increases to +6.
 
-At 17th level: This bonus +7.
+At 17th level: This bonus increases to +7.
 
-At 20th level: This bonus +8.
+At 20th level: This bonus increases to +8.
 
 **Portal Lore (Ex)**
 
@@ -87,21 +87,21 @@ provoke attacks of opportunity.
 
 **Replaces:** Studied strike
 
-At 6th level: The distance she can travel 30 feet.
+At 6th level: The distance she can travel increases to 30 feet.
 
-At 8th level: The distance she can travel 40 feet.
+At 8th level: The distance she can travel increases to 40 feet.
 
-At 10th level: The distance she can travel 50 feet.
+At 10th level: The distance she can travel increases to 50 feet.
 
-At 12th level: The distance she can travel 60 feet.
+At 12th level: The distance she can travel increases to 60 feet.
 
-At 14th level: The distance she can travel 70 feet.
+At 14th level: The distance she can travel increases to 70 feet.
 
-At 16th level: The distance she can travel 80 feet.
+At 16th level: The distance she can travel increases to 80 feet.
 
-At 18th level: The distance she can travel 90 feet.
+At 18th level: The distance she can travel increases to 90 feet.
 
-At 20th level: The distance she can travel 100 feet.
+At 20th level: The distance she can travel increases to 100 feet.
 
 **Extended Portals (Su)**
 

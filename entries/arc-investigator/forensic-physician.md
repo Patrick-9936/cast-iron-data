@@ -57,15 +57,15 @@ attempt a Heal check at the same DC to disinfect an infected object or corpse.
 
 **Replaces:** Trap sense, investigator talent gained at 3rd level
 
-At 6th level: This bonus +4.
+At 6th level: This bonus increases to +4.
 
-At 9th level: This bonus +6.
+At 9th level: This bonus increases to +6.
 
-At 12th level: This bonus +8.
+At 12th level: This bonus increases to +8.
 
-At 15th level: This bonus +10.
+At 15th level: This bonus increases to +10.
 
-At 18th level: This bonus +12.
+At 18th level: This bonus increases to +12.
 
 **Blood Lore (Ex)**
 

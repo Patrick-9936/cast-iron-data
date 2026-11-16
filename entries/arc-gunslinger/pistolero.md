@@ -88,8 +88,8 @@ value increases by 2 instead of 4.
 
 **Replaces:** Gun training 1-4
 
-At 9th level: The bonus on damage rolls +2.
+At 9th level: The bonus on damage rolls increases to her Dexterity modifier +1.
 
-At 13th level: The bonus on damage rolls +3.
+At 13th level: The bonus on damage rolls increases to her Dexterity modifier +2.
 
-At 17th level: The bonus on damage rolls +4.
+At 17th level: The bonus on damage rolls increases to her Dexterity modifier +3.

@@ -71,15 +71,15 @@ asked.
 
 **Usage:** Intelligence3 modifier times/day
 
-At 6th level: The penalty -4.
+At 6th level: The penalty increases to -4.
 
-At 9th level: The penalty -6.
+At 9th level: The penalty increases to -6.
 
-At 12th level: The penalty -8.
+At 12th level: The penalty increases to -8.
 
-At 15th level: The penalty -10.
+At 15th level: The penalty increases to -10.
 
-At 18th level: The penalty -12.
+At 18th level: The penalty increases to -12.
 
 **Agonizing Strike (Ex)**
 

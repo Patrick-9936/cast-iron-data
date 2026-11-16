@@ -65,15 +65,15 @@ level); these bonuses remain in effect until either the opponent is dead or you 
 
 **Replaces:** Later iterations of the _judgment_ ability
 
-At 7th level: The additional damage 2d6.
+At 7th level: The additional damage increases to 2d6.
 
-At 10th level: The additional damage 3d6.
+At 10th level: The additional damage increases to 3d6.
 
-At 13th level: The additional damage 4d6.
+At 13th level: The additional damage increases to 4d6.
 
-At 16th level: The additional damage 5d6.
+At 16th level: The additional damage increases to 5d6.
 
-At 19th level: The additional damage 6d6.
+At 19th level: The additional damage increases to 6d6.
 
 If a sanctified slayer catches an opponent unable to defend itself effectively from her attack, she
 can strike a vital spot to deal extra damage. The sanctified slayer's attack deals 1d6 additional

@@ -112,8 +112,8 @@ number of rounds per day equal to her inquisitor level. These rounds do not need
 
 **Replaces:** Discern lies
 
-At 10th level: The distance at which she can detect telepathic messages 10 feet.
+At 10th level: The distance at which she can detect telepathic messages increases to 10 feet.
 
-At 15th level: The distance at which she can detect telepathic messages 15 feet.
+At 15th level: The distance at which she can detect telepathic messages increases to 15 feet.
 
-At 20th level: The distance at which she can detect telepathic messages 20 feet.
+At 20th level: The distance at which she can detect telepathic messages increases to 20 feet.

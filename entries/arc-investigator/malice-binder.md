@@ -104,17 +104,17 @@ components without ending the effect early.
 
 **Special:** The malice binder can have only one hexing shield active at a time.
 
-At 4th level: The bonus +2.
+At 4th level: The bonus increases to +3.
 
-At 7th level: The bonus +3.
+At 7th level: The bonus increases to +4.
 
-At 10th level: The bonus +4.
+At 10th level: The bonus increases to +5.
 
-At 13th level: The bonus +5.
+At 13th level: The bonus increases to +6.
 
-At 16th level: The bonus +6.
+At 16th level: The bonus increases to +7.
 
-At 19th level: The bonus +7.
+At 19th level: The bonus increases to +8.
 
 **Incapacitate (Su)**
 
