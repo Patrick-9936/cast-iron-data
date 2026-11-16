@@ -40,8 +40,8 @@ armor.
 
 **Focused Enemy (Ex)**
 
-**Ability:** A Nirmathi irregular selects one _favored enemy_ (usually &quot&humanoid
-\[human\]&quot&). He does not gain additional _favored enemies_ at higher levels.
+**Ability:** A Nirmathi irregular selects one _favored enemy_ (usually "humanoid \[human\]"). He
+does not gain additional _favored enemies_ at higher levels.
 
 **Alters:** Favored enemy
 
@@ -68,8 +68,8 @@ skill checks he makes while located in forest terrain.^1^
 
 **Focused Terrain**
 
-**Ability:** A Nirmathi irregular selects one _favored terrain_ (usually &quot&forest&quot&). He
-does not gain additional _favored terrains_ at higher levels.
+**Ability:** A Nirmathi irregular selects one _favored terrain_ (usually "forest"). He does not gain
+additional _favored terrains_ at higher levels.
 
 **Alters:** Favored terrain
 

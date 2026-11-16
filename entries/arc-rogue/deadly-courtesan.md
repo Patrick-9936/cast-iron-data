@@ -57,9 +57,9 @@ DC.
 
 **Replaces:** Trap sense
 
-At 9th level: The bonus +3.
+At 9th level: The bonus increases to +3.
 
-At 15th level: The bonus +4.
+At 15th level: The bonus increases to +4.
 
 **Performance Strike (Sp)**
 

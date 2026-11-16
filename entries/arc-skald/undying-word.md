@@ -78,9 +78,9 @@ and penalties to ability scores as though each were 2 lower.
 **Special:** The undying word can never reduce a penalty below 0 or increase an ability score beyond
 its original value in this manner.
 
-At 15th level: This reduction 4.
+At 15th level: This reduction increases to 4.
 
-At 20th level: This reduction 6.
+At 20th level: This reduction increases to 6.
 
 **Endurance Power (Su)**
 

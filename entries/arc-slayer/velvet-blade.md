@@ -79,11 +79,11 @@ them, assuming she is harmless.
 only the first attack gains these benefits, since the target immediately realizes the velvet blade
 is something more than she seemed.
 
-At 10th level: The sneak attack damage +3d6.
+At 10th level: The sneak attack damage increases to +3d6.
 
-At 15th level: The sneak attack damage +4d6.
+At 15th level: The sneak attack damage increases to +4d6.
 
-At 20th level: The sneak attack damage +5d6.
+At 20th level: The sneak attack damage increases to +5d6.
 
 **Silent Dispatch (Ex)**
 

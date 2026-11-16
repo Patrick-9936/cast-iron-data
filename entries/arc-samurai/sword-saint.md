@@ -49,21 +49,23 @@ the same foe more than once per day.
 **Special:** Any extra damage as a result of a successful _iaijutsu strike_ is not multiplied by a
 critical hit.
 
-At 5th level: The bonus damage 2d6.
+At 3rd level: The bonus damage increases to 2d6.
 
-At 7th level: The bonus damage 3d6.
+At 5th level: The bonus damage increases to 3d6.
 
-At 9th level: The bonus damage 4d6.
+At 7th level: The bonus damage increases to 4d6.
 
-At 11th level: The bonus damage 5d6.
+At 9th level: The bonus damage increases to 5d6.
 
-At 13th level: The bonus damage 6d6.
+At 11th level: The bonus damage increases to 6d6.
 
-At 15th level: The bonus damage 7d6.
+At 13th level: The bonus damage increases to 7d6.
 
-At 17th level: The bonus damage 8d6.
+At 15th level: The bonus damage increases to 8d6.
 
-At 19th level: The bonus damage 9d6.
+At 17th level: The bonus damage increases to 9d6.
+
+At 19th level: The bonus damage increases to 10d6.
 
 **Brutal Slash (Ex)**
 

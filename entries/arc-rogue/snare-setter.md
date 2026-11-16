@@ -56,13 +56,13 @@ Device to disarm traps, including magical traps.
 they're activated. This damage is of the same type the trap normally deals. Traps that don't deal
 damage are unaffected by this ability.
 
-At 7th level: This additional damage 2d6.
+At 7th level: This additional damage increases to 2d6.
 
-At 11th level: This additional damage 3d6.
+At 11th level: This additional damage increases to 3d6.
 
-At 15th level: This additional damage 4d6.
+At 15th level: This additional damage increases to 4d6.
 
-At 19th level: This additional damage 5d6.
+At 19th level: This additional damage increases to 5d6.
 
 **Sneak Attack (Su)**
 
@@ -71,11 +71,11 @@ the rogue ability of the same name.
 
 **Gained:** At 5th Level
 
-At 9th level: The sneak attack damage +2d6.
+At 9th level: The sneak attack damage increases to +2d6.
 
-At 13th level: The sneak attack damage +3d6.
+At 13th level: The sneak attack damage increases to +3d6.
 
-At 17th level: The sneak attack damage +4d6.
+At 17th level: The sneak attack damage increases to +4d6.
 
 **Master Snare Setter (Ex)**
 

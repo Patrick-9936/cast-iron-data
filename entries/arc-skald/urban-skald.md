@@ -49,9 +49,9 @@ between several scores in increments of 2. The choice applies to all affected al
 _inspired rage_ grants no bonus on Will saves, imposes no penalties to AC, and does not prevent
 affected allies from using Intelligence-, Dexterity-, or Charisma-based skills.
 
-At 8th level: The bonus +4.
+At 8th level: The bonus increases to +4.
 
-At 16th level: The bonus +6.
+At 16th level: The bonus increases to +6.
 
 **Infuriating Mockery (Su)**
 
@@ -95,6 +95,6 @@ are within 60 feet of the skald and the skald maintains the performance.
 
 **Passive:** He gains a +1 dodge bonus to AC when adjacent to 2 or more allies.
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +2.
 
-At 15th level: This bonus +3.
+At 15th level: This bonus increases to +3.

@@ -145,23 +145,23 @@ your cleric level + your Charisma modifier.
 
 **Usage:** Cha3 modifier times/day
 
-At 3rd level: The damage 2d6.
+At 3rd level: The damage is 1d6.
 
-At 5th level: The damage 3d6.
+At 5th level: The damage increases to 2d6.
 
-At 7th level: The damage 4d6.
+At 7th level: The damage increases to 3d6.
 
-At 9th level: The damage 5d6.
+At 9th level: The damage increases to 4d6.
 
-At 11th level: The damage 6d6.
+At 11th level: The damage increases to 5d6.
 
-At 13th level: The damage 7d6.
+At 13th level: The damage increases to 6d6.
 
-At 15th level: The damage 8d6.
+At 15th level: The damage increases to 7d6.
 
-At 17th level: The damage 9d6.
+At 17th level: The damage increases to 8d6.
 
-At 19th level: The damage 10d6.
+At 19th level: The damage increases to 9d6.
 
 **Phantom Call (Su)**
 

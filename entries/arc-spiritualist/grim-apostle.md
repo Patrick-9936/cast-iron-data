@@ -48,11 +48,11 @@ grim apostle's soul (such as [possession](ref/spell/possession) or
 
 **Replaces:** Shared consciousness, fused consciousness
 
-At 6th level: This bonus +6.
+At 6th level: This bonus increases to +6.
 
-At 12th level: This bonus +8.
+At 12th level: This bonus increases to +8.
 
-At 18th level: This bonus +10.
+At 18th level: This bonus increases to +10.
 
 ### Horseman Focus
 
@@ -188,11 +188,11 @@ rounds.
 its turn adjacent to the grim phantom takes 1d6 piercing damage. Ending the aura is a **free
 action**.
 
-At 11th level: This damage 2d6.
+At 11th level: This damage increases to 2d6.
 
-At 15th level: This damage 3d6.
+At 15th level: This damage increases to 3d6.
 
-At 19th level: This damage 4d6.
+At 19th level: This damage increases to 4d6.
 
 **Contagious Touch (Sp)**
 
