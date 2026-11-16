@@ -134,6 +134,6 @@ The crushing weight of evil has given you the strength to endure.
 
 **Replaces:** Hellfire
 
-At 13th level: This bonus +4.
+At 13th level: This bonus increases to +4.
 
-At 17th level: This bonus +6.
+At 17th level: This bonus increases to +6.

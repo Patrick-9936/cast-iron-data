@@ -21,4 +21,4 @@ Inspired creatures gain a +4 morale bonus on saving throws and a +4 dodge bonus 
 effect lasts for as long as the targets are able to witness the performance. _Inspire heroics_ is a
 mind-affecting ability that relies on audible and visual components.
 
-At 18th level: The number of creatures he can _inspire_ 2.
+At 18th level: The number of creatures he can _inspire_ increases to 2.

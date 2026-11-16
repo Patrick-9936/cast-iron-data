@@ -57,13 +57,13 @@ not meet its prerequisites.
 **Ability2:** Once per round when you succeed at a [grapple](ref/rule/grapple) combat maneuver
 check, you can deal 1d6 points of negative energy damage to the target of your grapple.
 
-At 5th level: This damage 2d6.
+At 5th level: This damage increases to 2d6.
 
-At 10th level: This damage 3d6.
+At 10th level: This damage increases to 3d6.
 
-At 15th level: This damage 4d6.
+At 15th level: This damage increases to 4d6.
 
-At 20th level: This damage 5d6.
+At 20th level: This damage increases to 5d6.
 
 **Haunt Channeler (Su)**
 

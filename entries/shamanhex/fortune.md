@@ -22,6 +22,6 @@ this ability before the first roll is made.
 **Special:** Once a creature has benefited from the _fortune_ hex, it cannot benefit from it again
 for 24 hours.
 
-At 8th level: The duration of this hex 2 rounds.
+At 8th level: The duration of this hex increases to 2 rounds.
 
-At 16th level: The duration of this hex 3 rounds.
+At 16th level: The duration of this hex increases to 3 rounds.

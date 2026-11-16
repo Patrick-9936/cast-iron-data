@@ -135,9 +135,9 @@ abilities don't function against a target that succeeds at its Will save.
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
-At 11th level: The enhancement bonus +2.
+At 11th level: The enhancement bonus increases to +2.
 
-At 19th level: The enhancement bonus +3.
+At 19th level: The enhancement bonus increases to +3.
 
 **Shadow Mastery (Su)**
 

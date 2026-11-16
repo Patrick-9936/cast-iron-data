@@ -97,13 +97,13 @@ bonus.
 **Usage:** 1 hour/day per shaman level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: This bonus +6.
+At 7th level: This bonus increases to +6.
 
-At 11th level: This bonus +8.
+At 11th level: This bonus increases to +8.
 
-At 15th level: This bonus +10.
+At 15th level: This bonus increases to +10.
 
-At 19th level: This bonus +12.
+At 19th level: This bonus increases to +12.
 
 **Maddening Whispers (Su)**
 

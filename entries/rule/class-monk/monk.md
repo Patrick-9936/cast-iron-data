@@ -244,15 +244,15 @@ damage on a successful save, you instead takes no damage.
 
 **Special:** If you wear armor or carry a medium or heavy load, you lose this extra speed.
 
-At 6th level: The bonus +20 ft.
+At 6th level: The bonus increases to +20 ft.
 
-At 9th level: The bonus +30 ft.
+At 9th level: The bonus increases to +30 ft.
 
-At 12th level: The bonus +40 ft.
+At 12th level: The bonus increases to +40 ft.
 
-At 15th level: The bonus +50 ft.
+At 15th level: The bonus increases to +50 ft.
 
-At 18th level: The bonus +60 ft.
+At 18th level: The bonus increases to +60 ft.
 
 **Maneuver Training (Ex)**
 

@@ -88,13 +88,13 @@ the ability's effects for 24 hours.
 **Passive:** You gain a +1 luck bonus on the saving throw type of your choice (Fortitude, Reflex, or
 Will).
 
-At 7th level: The bonus +2.
+At 7th level: The bonus increases to +2.
 
-At 11th level: The bonus +3.
+At 11th level: The bonus increases to +3.
 
-At 15th level: The bonus +4.
+At 15th level: The bonus increases to +4.
 
-At 19th level: The bonus +5.
+At 19th level: The bonus increases to +5.
 
 **Invoke the Harrow (Su)**
 

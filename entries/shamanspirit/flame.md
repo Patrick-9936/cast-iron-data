@@ -78,9 +78,9 @@ as normal, and any saving throw allowed by the effect that caused the damage red
 
 **Special:** A creature affected by this hex cannot be affected by it again for 24 hours.
 
-At 8th level: The duration of this hex 2 rounds.
+At 8th level: The duration of this hex is extended by 1 round.
 
-At 16th level: The duration of this hex 3 rounds.
+At 16th level: The duration of this hex is extended by another 1 round.
 
 **Gaze of Flames (Su)**
 

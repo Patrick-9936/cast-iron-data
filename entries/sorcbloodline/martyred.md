@@ -78,13 +78,13 @@ ancestor. You and any allies within 30 feet who can hear you gain a +1 morale bo
 damage rolls for a number of rounds equal to [half](ref/misc/fractions-and-rounding) your sorcerer
 level (minimum 1).
 
-At 7th level: This bonus +2.
+At 7th level: This bonus increases to +2.
 
-At 11th level: This bonus +3.
+At 11th level: This bonus increases to +3.
 
-At 15th level: This bonus +4.
+At 15th level: This bonus increases to +4.
 
-At 19th level: This bonus +5.
+At 19th level: This bonus increases to +5.
 
 **Gift of Blood (Su)**
 

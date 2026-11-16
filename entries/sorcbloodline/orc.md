@@ -87,9 +87,9 @@ bonus increases to +2.
 
 **Passive:** You gain a +2 inherent bonus to your Strength.
 
-At 13th level: This bonus +4.
+At 13th level: This bonus increases to +4.
 
-At 17th level: This bonus +6.
+At 17th level: This bonus increases to +6.
 
 **Power of Giants (Sp)**
 

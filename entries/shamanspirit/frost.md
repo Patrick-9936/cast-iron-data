@@ -66,9 +66,9 @@ rounds.
 **Special:** Whether or not the save is successful, the creature cannot be the target of this hex
 again for 24 hours.
 
-At 8th level: The duration 3 rounds.
+At 8th level: The duration increases to 3 rounds.
 
-At 16th level: The duration 4 rounds.
+At 16th level: The duration increases to 4 rounds.
 
 **Sluggish (Su)**
 
@@ -88,9 +88,9 @@ magical items.
 
 **Special:** A creature targeted by this hex cannot be affected by it again for 24 hours.
 
-At 8th level: The duration 2 rounds.
+At 8th level: The duration of this hex is extended by 1 round.
 
-At 16th level: The duration 3 rounds.
+At 16th level: The duration of this hex is extended by another 1 round.
 
 **Wilds-Attuned (Ex)**
 

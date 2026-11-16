@@ -19,6 +19,6 @@ gains a +1 bonus on his attack roll.
 
 **Flavor:** The vigilante gains a greater advantage when his foe is unable to defend herself.
 
-At 8th level: This bonus +2.
+At 8th level: This bonus increases to +2.
 
-At 16th level: This bonus +3.
+At 16th level: This bonus increases to +3.

@@ -132,9 +132,9 @@ enhancement bonus from her family's history. She is always considered proficient
 **Usage:** 1 minute/day per shaman level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
-At 15th level: The enhancement bonus +2.
+At 15th level: The enhancement bonus increases to +2.
 
-At 19th level: The enhancement bonus +3.
+At 19th level: The enhancement bonus increases to +3.
 
 ### True Spirit Ability
 

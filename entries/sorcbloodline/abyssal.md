@@ -93,9 +93,9 @@ made against poison.
 
 **Passive:** You gain a +2 inherent bonus to your Strength.
 
-At 13th level: The bonus +4.
+At 13th level: The bonus increases to +4.
 
-At 17th level: The bonus +6.
+At 17th level: The bonus increases to +6.
 
 **Added Summonings (Su)**
 

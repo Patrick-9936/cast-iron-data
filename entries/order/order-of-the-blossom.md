@@ -59,11 +59,11 @@ increases by 1d6 at 8th level and every 6 levels thereafter.
 
 **Special:** If the cavalier gets a sneak attack bonus from another source, the bonus damage stacks.
 
-At 8th level: This bonus damage +2d6.
+At 8th level: This bonus damage increases to +2d6.
 
-At 14th level: This bonus damage +3d6.
+At 14th level: This bonus damage increases to +3d6.
 
-At 20th level: This bonus damage +4d6.
+At 20th level: This bonus damage increases to +4d6.
 
 **Fey Enchantments (Sp)**
 

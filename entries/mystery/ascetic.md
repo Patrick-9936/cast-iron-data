@@ -78,13 +78,13 @@ you a +4 armor bonus to AC.
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: This bonus +6.
+At 7th level: This bonus increases to +6.
 
-At 11th level: This bonus +8.
+At 11th level: This bonus increases to +8.
 
-At 15th level: This bonus +10.
+At 15th level: This bonus increases to +10.
 
-At 19th level: This bonus +12.
+At 19th level: This bonus increases to +12.
 
 **Fleet (Ex)**
 
@@ -93,11 +93,11 @@ speed if you wear any armor or carry a medium or heavy load.
 
 **Prereq:** Cannot have the [lame](ref/oraclecurse/lame) oracle curse
 
-At 7th level: This bonus +20 feet.
+At 7th level: This bonus increases to +20 feet.
 
-At 13th level: This bonus +30 feet.
+At 13th level: This bonus increases to +30 feet.
 
-At 19th level: This bonus +40 feet.
+At 19th level: This bonus increases to +40 feet.
 
 **Martial Disciple (Su)**
 

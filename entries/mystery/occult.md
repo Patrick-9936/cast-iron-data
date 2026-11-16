@@ -91,13 +91,13 @@ special ability.
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The armor bonus +6.
+At 7th level: The armor bonus increases to +6.
 
-At 11th level: The armor bonus +8.
+At 11th level: The armor bonus increases to +8.
 
-At 15th level: The armor bonus +10.
+At 15th level: The armor bonus increases to +10.
 
-At 19th level: The armor bonus +12.
+At 19th level: The armor bonus increases to +12.
 
 **Phantom Touch (Su)**
 
@@ -172,11 +172,11 @@ effect.
 
 **Usage:** 1 time/day per oracle level
 
-At 10th level: The penalty -4.
+At 10th level: The penalty increases to -4.
 
-At 15th level: The penalty -6.
+At 15th level: The penalty increases to -6.
 
-At 20th level: The penalty -8.
+At 20th level: The penalty increases to -8.
 
 ### Final Revelation
 

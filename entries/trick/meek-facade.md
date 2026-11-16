@@ -23,10 +23,10 @@ triggering enemy's attacks. Both of these effects last for 1 round.
 
 **Special:** This is a mind-affecting compulsion effect.
 
-At 5th level: The bonus to AC +3.
+At 5th level: The bonus to AC increases to +3.
 
-At 10th level: The bonus to AC +4.
+At 10th level: The bonus to AC increases to +4.
 
-At 15th level: The bonus to AC +5.
+At 15th level: The bonus to AC increases to +5.
 
-At 20th level: The bonus to AC +6.
+At 20th level: The bonus to AC increases to +6.

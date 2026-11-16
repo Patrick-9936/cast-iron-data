@@ -111,13 +111,13 @@ conditions it decreases by 2.
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The armor bonus +6.
+At 7th level: The armor bonus increases to +6.
 
-At 11th level: The armor bonus +8.
+At 11th level: The armor bonus increases to +8.
 
-At 15th level: The armor bonus +10.
+At 15th level: The armor bonus increases to +10.
 
-At 19th level: The armor bonus +12.
+At 19th level: The armor bonus increases to +12.
 
 **Ice Shape (Su)**
 
@@ -132,7 +132,9 @@ stone shape, but targeting only ice and snow, not stone.
 
 **Passive:** You gain [resist](ref/umr/resistance) cold 5.
 
-At 7th level: This resistance 10.
+At 5th level: This resistance increases to 10.
+
+At 11th level: This resistance increases to 20.
 
 **Servant of Winter (Sp)**
 

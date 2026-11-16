@@ -50,11 +50,11 @@ saving throw, or skill check.
 
 **Gained:** At 2nd Level
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 14th level: This bonus +5.
+At 14th level: This bonus increases to +5.
 
-At 20th level: This bonus +6.
+At 20th level: This bonus increases to +6.
 
 **Strategy (Ex)**
 

@@ -56,13 +56,13 @@ attack roll against you to have a 50% miss chance.
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The armor bonus +6.
+At 7th level: The armor bonus increases to +6.
 
-At 11th level: The armor bonus +8.
+At 11th level: The armor bonus increases to +8.
 
-At 15th level: The armor bonus +10.
+At 15th level: The armor bonus increases to +10.
 
-At 19th level: The armor bonus +12.
+At 19th level: The armor bonus increases to +12.
 
 **Gaseous Form (Su)**
 
@@ -116,11 +116,11 @@ resulting in half damage and no deafness.
 
 **Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
 
-At 11th level: The radius 25 feet.
+At 11th level: The radius increases to 25 feet.
 
-At 15th level: The radius 30 feet.
+At 15th level: The radius increases to 30 feet.
 
-At 19th level: The radius 35 feet.
+At 19th level: The radius increases to 35 feet.
 
 **Touch of Electricity (Su)**
 

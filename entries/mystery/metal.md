@@ -55,9 +55,9 @@ grant proficiency in armor.
 **At 5th Level:** Whenever you are wearing metal armor, you reduce the armor check penalty by 1 (to
 a minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 1.
 
-At 10th level: These bonuses 2.
+At 10th level: These bonuses increase to 2.
 
-At 15th level: These bonuses 3.
+At 15th level: These bonuses increase to 3.
 
 **Dance of the Blades (Ex)**
 
@@ -71,11 +71,11 @@ move at least 10 feet.
 
 **Passive:** Your base speed increases by 10 feet.
 
-At 11th level: The bonus on attack rolls +2.
+At 11th level: The bonus on attack rolls increases to +2.
 
-At 15th level: The bonus on attack rolls +3.
+At 15th level: The bonus on attack rolls increases to +3.
 
-At 19th level: The bonus on attack rolls +4.
+At 19th level: The bonus on attack rolls increases to +4.
 
 **Iron Constitution (Su)**
 
@@ -108,11 +108,9 @@ after 1 round if it leaves your grasp.
 
 **Usage:** Charisma3 modifier times/day
 
-At 11th level: The enhancement bonus +2.
+At 15th level: The enhancement bonus increases to +2.
 
-At 15th level: The enhancement bonus +3.
-
-At 19th level: The enhancement bonus +4.
+At 19th level: The enhancement bonus increases to +3.
 
 **Riddle of Steel (Su)**
 

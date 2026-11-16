@@ -94,9 +94,9 @@ chitinous bodies increase your natural armor bonus by +1.
 **Standard:** You can mentally command a swarm in which you stand. You can direct that swarm's
 attacks and movements as long as you have more Hit Dice than the swarm.
 
-At 11th level: This bonus +2.
+At 11th level: This bonus increases to +2.
 
-At 17th level: This bonus +3.
+At 17th level: This bonus increases to +3.
 
 **Pestilential Breath (Su)**
 
