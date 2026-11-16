@@ -28,12 +28,12 @@ the mysterious substance called ectoplasm.
 **Fullround:** An ectoplasmatist can manifest one or two lashes of ectoplasm tethered to her by
 wispy, ectoplasmic tendrils. If she manifests two lashes, she can wield them both as light melee
 weapons, each dealing 1d6 points of slashing damage (1d4 if the ectoplasmatist is Small) with a
-critical threat range and multiplier of 19-20/&times&2. If the ectoplasmatist manifests only one
-_lash,_ she can manifest it either as a single one-handed melee weapon that deals 1d8 points of
-slashing damage (1d6 if the ectoplasmatist is Small) with a critical threat range and multiplier of
-19-20/&times&2, or as a two-handed melee weapon that deals 2d6 points of bludgeoning damage (1d10 if
-the ectoplasmatist is Small) with a critical multiplier of &times&2. Only the ectoplasmatist can
-wield or use these lashes. Dismissing any or all manifested lashes is a **free action**.
+critical threat range and multiplier of 19-20/×2. If the ectoplasmatist manifests only one _lash,_
+she can manifest it either as a single one-handed melee weapon that deals 1d8 points of slashing
+damage (1d6 if the ectoplasmatist is Small) with a critical threat range and multiplier of 19-20/×2,
+or as a two-handed melee weapon that deals 2d6 points of bludgeoning damage (1d10 if the
+ectoplasmatist is Small) with a critical multiplier of ×2. Only the ectoplasmatist can wield or use
+these lashes. Dismissing any or all manifested lashes is a **free action**.
 
 **At 12th Level:** The ectoplasmatist chooses a single
 [emotional focus](ref/ability/emotional-focus) ([anger](ref/emotionalfocus/anger),
