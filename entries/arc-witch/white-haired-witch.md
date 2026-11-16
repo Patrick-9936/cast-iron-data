@@ -42,15 +42,15 @@ foe in this way, she does not gain the [grappled](ref/rule/grapple-conditions) c
 addition, a white-haired witch further improves her ability to control her hair as she progresses in
 level, gaining the following abilities.
 
-At 4th level: Her hair's reach 10 feet.
+At 4th level: Her hair's reach increases to 10 feet.
 
-At 8th level: Her hair's reach 15 feet.
+At 8th level: Her hair's reach increases to 15 feet.
 
-At 12th level: Her hair's reach 20 feet.
+At 12th level: Her hair's reach increases to 20 feet.
 
-At 16th level: Her hair's reach 25 feet.
+At 16th level: Her hair's reach increases to 25 feet.
 
-At 20th level: Her hair's reach 30 feet.
+At 20th level: Her hair's reach increases to 30 feet.
 
 **Constrict (Ex)**
 

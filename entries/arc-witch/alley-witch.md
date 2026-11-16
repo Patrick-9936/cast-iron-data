@@ -69,11 +69,11 @@ witch levels.
 **Special:** The alley witch can build a rapport with a new city after 30 days of remaining there;
 this severs her bond to her previous settlement.
 
-At 6th level: This bonus +4.
+At 6th level: This bonus increases to +4.
 
-At 11th level: This bonus +6.
+At 11th level: This bonus increases to +6.
 
-At 16th level: This bonus +8.
+At 16th level: This bonus increases to +8.
 
 **Hex Trader**
 

@@ -22,9 +22,9 @@ this aspect are known for surviving severe wounds and delivering punishing blows
 
 **Passive:** You gain a +2 enhancement bonus to your Constitution score.
 
-At 8th level: The bonus +4.
+At 8th level: The bonus increases to +4.
 
-At 15th level: The bonus +6.
+At 15th level: The bonus increases to +6.
 
 **Major Form**
 

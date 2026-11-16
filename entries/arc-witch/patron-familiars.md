@@ -38,9 +38,9 @@ to each of its movement speeds.
 
 **Patron:** [Agility](ref/patron/agility)
 
-At 10th level: This bonus +20 feet.
+At 10th level: This bonus increases to +20 feet.
 
-At 20th level: This bonus +30 feet.
+At 20th level: This bonus increases to +30 feet.
 
 **Animal Speaker (Su)**
 

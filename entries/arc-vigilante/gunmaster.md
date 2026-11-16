@@ -42,11 +42,11 @@ restore his initial battered firearm as if he were a gunslinger.
 
 **Replaces:** Vigilante specialization
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +2.
 
-At 13th level: This bonus +3.
+At 13th level: This bonus increases to +3.
 
-At 17th level: This bonus +4.
+At 17th level: This bonus increases to +4.
 
 **Gunsmith**
 
@@ -127,8 +127,6 @@ bonus.
 
 **Replaces:** Unshakable
 
-At 10th level: This bonus +2.
+At 10th level: This bonus increases to +2.
 
-At 14th level: This bonus +3.
-
-At 18th level: This bonus +4.
+At 16th level: This bonus increases to +3.

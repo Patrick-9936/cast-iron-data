@@ -22,9 +22,9 @@ The spider is a patient hunter, sensing foes that struggle in its webs.
 **Passive:** You gain a +2 competence bonus on Climb checks, Stealth checks, saving throws against
 [web](ref/spell/web) effects (magical or otherwise), and checks to break free of webs.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Major Form**
 

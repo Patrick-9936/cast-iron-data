@@ -24,9 +24,9 @@ learn the value of applying their strength with precision. An elephant's alterna
 **Passive:** You gain a +4 enhancement bonus on [bull rush](ref/rule/bull-rush) and
 [overrun](ref/rule/overrun) combat maneuver checks.
 
-At 8th level: The bonus +6.
+At 8th level: The bonus increases to +6.
 
-At 15th level: The bonus +8.
+At 15th level: The bonus increases to +8.
 
 **Major Form**
 

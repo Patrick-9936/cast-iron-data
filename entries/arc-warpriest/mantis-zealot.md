@@ -66,13 +66,13 @@ functions as the rogue class feature of the same name, and his sneak attack dama
 
 **Special:** If the zealot gets a sneak attack bonus from another source, the bonuses stack.
 
-At 8th level: This damage +2d6.
+At 8th level: This damage increases to +2d6.
 
-At 12th level: This damage +3d6.
+At 12th level: This damage increases to +3d6.
 
-At 16th level: This damage +4d6.
+At 16th level: This damage increases to +4d6.
 
-At 20th level: This damage +5d6.
+At 20th level: This damage increases to +5d6.
 
 **Sacred Reflexes (Su)**
 

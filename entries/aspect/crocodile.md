@@ -22,9 +22,9 @@ The crocodile lurks in the water, unseen until it lunges forth with its powerful
 **Passive:** You gain a +2 competence bonus on Swim checks and [grapple](ref/rule/grapple) combat
 maneuver checks.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Major Form**
 
