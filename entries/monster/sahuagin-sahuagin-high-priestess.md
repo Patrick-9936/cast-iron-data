@@ -23,7 +23,7 @@ hp = "121~2d10+7d8+79~9"
 fortitude = "+13"
 reflex = "+6"
 will = "+13"
-melee = "+1 spear +13/+8 (2d6+8/&times&3), bite +6 (1d8+5)"
+melee = "+1 spear +13/+8 (2d6+8/×3), bite +6 (1d8+5)"
 ranged = "mwk underwater heavy crossbow +6 (2d8/19-20)"
 special_attacks = "blood frenzy~destructive smite (+3, 8/day)"
 special_qualities = "agile feet (8/day)"
@@ -77,7 +77,7 @@ piscine head features a toothy maw._
 
 **Ch N En:** 5/day, DC 13, 4d6
 
-**Melee:** +1 spear +13/+8 (2d6+8/&times&3), bite +6 (1d8+5)
+**Melee:** +1 spear +13/+8 (2d6+8/×3), bite +6 (1d8+5)
 
 **Ranged:** mwk underwater heavy crossbow +6 (2d8/19-20)
 

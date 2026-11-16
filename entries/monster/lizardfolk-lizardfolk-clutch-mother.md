@@ -23,7 +23,7 @@ hp = "95~14d8+32"
 fortitude = "+15"
 reflex = "+7"
 will = "+16; +4 vs. enchantments"
-melee = "+1 spear +11/+6 (1d8+1/&times&3), bite +5 (1d4) or 2 claws +10 (1d4), bite +5 (1d4)"
+melee = "+1 spear +11/+6 (1d8+1/×3), bite +5 (1d4) or 2 claws +10 (1d4), bite +5 (1d4)"
 ranged = "mwk sling +11 (1d4)"
 special_attacks = "dispel hostility~undo artifice~wild shape 5/day"
 special_qualities = "ancient ways, hold breath, nature bond (Protection domain), nature sense, patience of nature"
@@ -68,7 +68,7 @@ abilities = ["10", "11", "12", "12", "20", "15"]
 
 **Speed:** 20 ft., swim 25 ft.
 
-**Melee:** +1 spear +11/+6 (1d8+1/&times&3), bite +5 (1d4) or 2 claws +10 (1d4), bite +5 (1d4)
+**Melee:** +1 spear +11/+6 (1d8+1/×3), bite +5 (1d4) or 2 claws +10 (1d4), bite +5 (1d4)
 
 **Ranged:** mwk sling +11 (1d4)
 

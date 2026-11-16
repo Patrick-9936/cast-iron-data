@@ -24,7 +24,7 @@ fortitude = "+0"
 reflex = "+10"
 will = "+6; +4 vs. bardic performance, language-dependent, and sonic"
 melee = "+1 short sword +7/+2 (1d4/19-20)"
-ranged = "+1 shortbow +13/+8 (1d4+1/&times&3)"
+ranged = "+1 shortbow +13/+8 (1d4+1/×3)"
 special_attacks = "bardic performance 20 rounds/day (move action; countersong, frightful song [DC 16], distraction, inspire competence +3, inspire courage +2, suggestion [DC 16], yapping song [DC 16])"
 special_qualities = "bardic knowledge +4, crafty, lore master 1/day, versatile performance (sing, oratory)"
 abilities = ["8", "18", "6", "13", "10", "15"]
@@ -74,7 +74,7 @@ _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth,
 
 **Melee:** +1 short sword +7/+2 (1d4/19-20)
 
-**Ranged:** +1 shortbow +13/+8 (1d4+1/&times&3)
+**Ranged:** +1 shortbow +13/+8 (1d4+1/×3)
 
 **Spec Att:** bardic performance 20 rounds/day (move action;
 [countersong](ref/performance/countersong), frightful song \[DC 16\],

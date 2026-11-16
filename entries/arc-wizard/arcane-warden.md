@@ -61,11 +61,11 @@ list: [Alertness](ref/feat/alertness), [Endurance](ref/feat/endurance),
 
 **Generous Touch (Su)**
 
-**Ability:** When an arcane warden casts a spell with a target of &quot&creature touched&quot& on a
-willing target other than himself, he can cause the effects of the spell to last longer than normal.
-A spell with a duration of 1 round per level lasts an additional number of rounds equal to the
-arcane warden's Intelligence modifier (minimum of 1 additional round). A spell with a duration of 1
-minute per level lasts for an additional number of minutes equal to the arcane warden's Intelligence
+**Ability:** When an arcane warden casts a spell with a target of "creature touched" on a willing
+target other than himself, he can cause the effects of the spell to last longer than normal. A spell
+with a duration of 1 round per level lasts an additional number of rounds equal to the arcane
+warden's Intelligence modifier (minimum of 1 additional round). A spell with a duration of 1 minute
+per level lasts for an additional number of minutes equal to the arcane warden's Intelligence
 modifier (minimum of 1 additional minute). Spells with different durations than this are not
 enhanced by this ability. Only one spell can be enhanced in this way on any individual creature at a
 time.

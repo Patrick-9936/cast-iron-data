@@ -25,8 +25,8 @@ hp = "525~30d10+360"
 fortitude = "+31"
 reflex = "+22"
 will = "+12"
-melee = "bite +37 (4d8+15/15-20/&times&3 plus grab), 2 claws +37 (1d12+15), 2 gores +37 (1d10+15), tail slap +32 (3d8+7)"
-ranged = "6 spines +25 (2d10+15/&times&3)"
+melee = "bite +37 (4d8+15/15-20/×3 plus grab), 2 claws +37 (1d12+15), 2 gores +37 (1d10+15), tail slap +32 (3d8+7)"
+ranged = "6 spines +25 (2d10+15/×3)"
 special_attacks = "rush~spines"
 special_qualities = "carapace, hibernation, powerful leaper, unstoppable force"
 abilities = ["41", "16", "34", "3", "15", "14"]
@@ -82,10 +82,10 @@ effects, paralysis, permanent wounds, petrification, poison, polymorph
 
 **Speed:** 40 ft.
 
-**Melee:** bite +37 (4d8+15/15-20/&times&3 plus [grab](ref/umr/grab)), 2 claws +37 (1d12+15), 2
-gores +37 (1d10+15), tail slap +32 (3d8+7)
+**Melee:** bite +37 (4d8+15/15-20/×3 plus [grab](ref/umr/grab)), 2 claws +37 (1d12+15), 2 gores +37
+(1d10+15), tail slap +32 (3d8+7)
 
-**Ranged:** 6 spines +25 (2d10+15/&times&3)
+**Ranged:** 6 spines +25 (2d10+15/×3)
 
 **Reach:** 30
 

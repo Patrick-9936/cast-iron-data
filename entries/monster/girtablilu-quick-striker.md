@@ -21,8 +21,8 @@ hp = "189~8d8+10d10+98~18"
 fortitude = "+10"
 reflex = "+21"
 will = "+12"
-melee = "+1 spear +20/+15/+10/+5 (1d8+7/&times&3 plus poison), 2 claws +17 (1d6+2 plus grab), sting +17 (1d6+2 plus poison)"
-ranged = "+1 composite shortbow +22/+17/+12/+7 (1d6+5/&times&3 plus poison) or +1 spear +22/+17/+12/+7 (1d8+7/&times&3 plus poison)"
+melee = "+1 spear +20/+15/+10/+5 (1d8+7/×3 plus poison), 2 claws +17 (1d6+2 plus grab), sting +17 (1d6+2 plus poison)"
+ranged = "+1 composite shortbow +22/+17/+12/+7 (1d6+5/×3 plus poison) or +1 spear +22/+17/+12/+7 (1d8+7/×3 plus poison)"
 special_attacks = "poison (DC 24)~scout's charge~skirmisher"
 special_qualities = "rogue talents (assault leader, lasting poison, survivalist, swift poison), scorpion empathy +18, trapfinding +4, undersized weapons"
 abilities = ["18", "23", "21", "14", "16", "13"]
@@ -74,11 +74,11 @@ _Foul liquid drips in equal measure from this scorpion-woman's fearsome spear an
 
 **Constrict:** 1d6+4
 
-**Melee:** +1 spear +20/+15/+10/+5 (1d8+7/&times&3 plus poison), 2 claws +17 (1d6+2 plus
+**Melee:** +1 spear +20/+15/+10/+5 (1d8+7/×3 plus poison), 2 claws +17 (1d6+2 plus
 [grab](ref/umr/grab)), sting +17 (1d6+2 plus poison)
 
-**Ranged:** +1 composite shortbow +22/+17/+12/+7 (1d6+5/&times&3 plus poison) or +1 spear
-+22/+17/+12/+7 (1d8+7/&times&3 plus poison)
+**Ranged:** +1 composite shortbow +22/+17/+12/+7 (1d6+5/×3 plus poison) or +1 spear +22/+17/+12/+7
+(1d8+7/×3 plus poison)
 
 **Reach:** 10
 

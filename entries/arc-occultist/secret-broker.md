@@ -90,10 +90,9 @@ order to erase a fact from someone's mind by touch. This works similarly to
 instantaneous and leaves no magical trace (it can still be removed by
 [break enchantment](ref/spell/break-enchantment), [psychic surgery](ref/spell/psychic-surgery),
 [limited wish](ref/spell/limited-wish), [miracle](ref/spell/miracle), or [wish](ref/spell/wish)) and
-the secret broker can remove only one fact, such as &quot&The queen and the general are having an
-affair&quot& rather than a 5-minute event. Erasing the memory of a fact does not prevent the target
-from learning the fact again, or even potentially from deducing the fact again from evidence, given
-time.
+the secret broker can remove only one fact, such as "The queen and the general are having an affair"
+rather than a 5-minute event. Erasing the memory of a fact does not prevent the target from learning
+the fact again, or even potentially from deducing the fact again from evidence, given time.
 
 **Gained:** At 12th Level
 

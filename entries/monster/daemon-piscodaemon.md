@@ -22,7 +22,7 @@ hp = "137~11d10+77"
 fortitude = "+14"
 reflex = "+7"
 will = "+9"
-melee = "2 claws +18 (2d6+7/18-20/&times&3 plus grab and 1d6 bleed), tentacles +16 (1d10+3 plus poison)"
+melee = "2 claws +18 (2d6+7/18-20/×3 plus grab and 1d6 bleed), tentacles +16 (1d10+3 plus poison)"
 special_qualities = "amphibious, augmented critical"
 abilities = ["25", "18", "24", "14", "15", "17"]
 +++
@@ -76,7 +76,7 @@ and writhing tentacles._
 
 **Constrict:** 2d6+10
 
-**Melee:** 2 claws +18 (2d6+7/18-20/&times&3 plus [grab](ref/umr/grab) and 1d6 bleed), tentacles +16
+**Melee:** 2 claws +18 (2d6+7/18-20/×3 plus [grab](ref/umr/grab) and 1d6 bleed), tentacles +16
 (1d10+3 plus poison)
 
 **Spell-Like Abilities**

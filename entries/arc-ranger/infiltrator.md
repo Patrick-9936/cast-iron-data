@@ -28,10 +28,9 @@ effectively hunt and kill them.
 **Adaptation (Ex)**
 
 **Ability:** He chooses one type of creature he has selected as a _favored enemy,_ such as
-&quot&aberrations.&quot& The ranger selects one ability or feat from the adaptation list for that
-type (see below). If the adaptation requires the ranger to make a more specific choice (such as what
-skill to use with [Skill Focus](ref/feat/skill-focus)), this choice is permanent and cannot be
-changed.
+"aberrations." The ranger selects one ability or feat from the adaptation list for that type (see
+below). If the adaptation requires the ranger to make a more specific choice (such as what skill to
+use with [Skill Focus](ref/feat/skill-focus)), this choice is permanent and cannot be changed.
 
 **Flavor:** An infiltrator learns how to copy the unusual abilities of his prey.
 

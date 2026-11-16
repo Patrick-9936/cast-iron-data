@@ -167,9 +167,9 @@ you can't be revived by [breath of life](ref/spell/breath-of-life), the
 **Prereq:** Manifestation level 3rd
 
 **Gift:** You can step through Hell to reach other places once per hour. As a **full-round action**,
-you can choose a direction, then teleport 2d10 &times& 5 feet away in that direction (or the nearest
-safe, unoccupied location). You can use this ability once per minute at manifestation level 6th, and
-at will at manifestation level 8th.
+you can choose a direction, then teleport 2d10 × 5 feet away in that direction (or the nearest safe,
+unoccupied location). You can use this ability once per minute at manifestation level 6th, and at
+will at manifestation level 8th.
 
 **Stain:** You register as lawful evil as well as your own alignment to effects that reveal
 alignments. This alignment aura is strong, as if you were a lawful evil [cleric](ref/class/cleric).

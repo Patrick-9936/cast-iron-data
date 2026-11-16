@@ -23,7 +23,7 @@ fortitude = "+9"
 reflex = "+9"
 will = "+6"
 melee = "+1 scimitar +13/+8 (1d6+8/18-20) or slam +12 (1d6+7)"
-ranged = "+1 composite longbow +12/+7 (1d8+6/&times&3)"
+ranged = "+1 composite longbow +12/+7 (1d8+6/×3)"
 special_attacks = "whirlwind blast"
 special_qualities = "wind form"
 abilities = ["20", "18", "19", "13", "14", "15"]
@@ -78,7 +78,7 @@ swirling with vibrant colors._
 
 **Melee:** +1 scimitar +13/+8 (1d6+8/18-20) or slam +12 (1d6+7)
 
-**Ranged:** +1 composite longbow +12/+7 (1d8+6/&times&3)
+**Ranged:** +1 composite longbow +12/+7 (1d8+6/×3)
 
 **Spec Att:** whirlwind blast
 

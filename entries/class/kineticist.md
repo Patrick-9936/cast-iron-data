@@ -271,7 +271,7 @@ one physical ability score, +4 to another physical score, and +2 to the remainin
 
 **At 6th Level:** When you have at least 3 points of burn, you gain a +2 size bonus to two physical
 ability scores of your choice. You also have a chance to ignore a critical hit or sneak attack equal
-to 5% &times& your current amount of burn.
+to 5% × your current amount of burn.
 
 **Gained:** At 3rd Level
 

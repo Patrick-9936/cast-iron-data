@@ -23,7 +23,7 @@ fortitude = "+8"
 reflex = "+7"
 will = "+2"
 melee = "mwk two-bladed sword +10/+10/+7 (1d8+6/19-20)"
-ranged = "composite longbow +8/+3 (1d8+4/&times&3)"
+ranged = "composite longbow +8/+3 (1d8+4/×3)"
 special_attacks = "betrayer's blade~disrupt coordination"
 abilities = ["19", "15", "17", "8", "10", "14"]
 +++
@@ -75,7 +75,7 @@ has been flogged and branded a thousand times._
 
 **Melee:** mwk two-bladed sword +10/+10/+7 (1d8+6/19-20)
 
-**Ranged:** composite longbow +8/+3 (1d8+4/&times&3)
+**Ranged:** composite longbow +8/+3 (1d8+4/×3)
 
 **Spec Att:** betrayer's blade, disrupt coordination
 

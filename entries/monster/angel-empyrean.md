@@ -22,8 +22,8 @@ hp = "387~25d10+250"
 fortitude = "+24"
 reflex = "+18"
 will = "+24; +4 vs. poison, +4 resistance vs. evil"
-melee = "+1 holy merciful halberd +36/+31/+26/+21 (2d8+16/19-20/&times&3)"
-ranged = "+1 holy merciful composite longbow +33/+28/+23/+18 (2d6+11/&times&3)"
+melee = "+1 holy merciful halberd +36/+31/+26/+21 (2d8+16/19-20/×3)"
+ranged = "+1 holy merciful composite longbow +33/+28/+23/+18 (2d6+11/×3)"
 special_qualities = "change shape (alter self), empyrean insights, lucent arms, lucent body"
 abilities = ["30", "27", "30", "23", "30", "25"]
 +++
@@ -84,9 +84,9 @@ composed of wispy blue light._
 **Speed:** 50 ft., fly 120 ft. (good)
 
 **Melee:** +1 [holy](ref/magic-enh/holy) [merciful](ref/magic-enh/merciful) halberd +36/+31/+26/+21
-(2d8+16/19-20/&times&3)
+(2d8+16/19-20/×3)
 
-**Ranged:** +1 holy merciful composite longbow +33/+28/+23/+18 (2d6+11/&times&3)
+**Ranged:** +1 holy merciful composite longbow +33/+28/+23/+18 (2d6+11/×3)
 
 **Reach:** 10
 

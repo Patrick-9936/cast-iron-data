@@ -23,7 +23,7 @@ hp = "10~1d8+2"
 fortitude = "+3"
 reflex = "+1"
 will = "+4"
-melee = "nine-ring broadsword +0 (1d8/&times&3) Occultist"
+melee = "nine-ring broadsword +0 (1d8/×3) Occultist"
 special_qualities = "implements, psychic learning"
 abilities = ["10", "8", "12", "17", "15", "12"]
 +++
@@ -70,7 +70,7 @@ _The pale-blue skin of this dark-haired humanoid seems to subtly change hue from
 
 **Speed:** 30 ft.
 
-**Melee:** nine-ring broadsword +0 (1d8/&times&3) Occultist
+**Melee:** nine-ring broadsword +0 (1d8/×3) Occultist
 
 **Spells Known**
 

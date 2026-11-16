@@ -22,7 +22,7 @@ hp = "5~1d10"
 fortitude = "+2"
 reflex = "+2"
 will = "+0"
-melee = "spear +1 (1d8/&times&3), 2 claws +1 (1d4)"
+melee = "spear +1 (1d8/×3), 2 claws +1 (1d4)"
 special_qualities = "infernal slave"
 abilities = ["10", "10", "10", "-", "11", "4"]
 +++
@@ -71,7 +71,7 @@ abilities = ["10", "10", "10", "-", "11", "4"]
 
 **Speed:** 20 ft.
 
-**Melee:** spear +1 (1d8/&times&3), 2 claws +1 (1d4)
+**Melee:** spear +1 (1d8/×3), 2 claws +1 (1d4)
 
 ### Tactics
 

@@ -24,7 +24,7 @@ fortitude = "+4"
 reflex = "+2"
 will = "+4"
 melee = "longsword +3 (1d8+3/19-20)"
-ranged = "composite longbow +4 (1d8+2/&times&3)"
+ranged = "composite longbow +4 (1d8+2/×3)"
 special_qualities = "elemental affinity"
 abilities = ["15", "15", "14", "8", "14", "8"]
 +++
@@ -74,7 +74,7 @@ almost like a statue brought to life._
 
 **Melee:** longsword +3 (1d8+3/19-20)
 
-**Ranged:** composite longbow +4 (1d8+2/&times&3)
+**Ranged:** composite longbow +4 (1d8+2/×3)
 
 **Spell-Like Abilities**
 

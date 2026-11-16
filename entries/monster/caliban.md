@@ -22,7 +22,7 @@ hp = "22~4d10"
 fortitude = "+1"
 reflex = "+6"
 will = "+3"
-melee = "handaxe +5 (1d6+1/&times&3), claw +0 (1d4) or 2 claws +5 (1d4+1)"
+melee = "handaxe +5 (1d6+1/×3), claw +0 (1d4) or 2 claws +5 (1d4+1)"
 special_attacks = "share deformity~unsettling scream"
 abilities = ["13", "15", "10", "10", "8", "11"]
 +++
@@ -64,7 +64,7 @@ erupt over its sloping brow._
 
 **Speed:** 30 ft., swim 20 ft.
 
-**Melee:** handaxe +5 (1d6+1/&times&3), claw +0 (1d4) or 2 claws +5 (1d4+1)
+**Melee:** handaxe +5 (1d6+1/×3), claw +0 (1d4) or 2 claws +5 (1d4+1)
 
 **Spec Att:** share deformity, unsettling scream
 

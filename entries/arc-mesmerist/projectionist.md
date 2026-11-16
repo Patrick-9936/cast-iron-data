@@ -50,10 +50,10 @@ link between himself and one object that bears his likeness, such as a painting 
 functions in all ways like implanting a mesmerist trick in a creature, except the target is an
 object. The projectionist can trigger the trick as a **standard action** at any time - upon doing
 so, his consciousness leaves his body and fills the target object, functioning as described by the
-&quot&filling an image with your consciousness&quot& use of the
-_[enter image](ref/spell/enter-image)_ spell. Use the projectionist's mesmerist level as the spell's
-caster level. While filling an image with his consciousness, the projectionist can use and maintain
-his _hypnotic stare_ on opponents, and can also trigger his _painful stare._
+"filling an image with your consciousness" use of the _[enter image](ref/spell/enter-image)_ spell.
+Use the projectionist's mesmerist level as the spell's caster level. While filling an image with his
+consciousness, the projectionist can use and maintain his _hypnotic stare_ on opponents, and can
+also trigger his _painful stare._
 
 **At 8th Level:** He can also use any purely mental action (including casting psychic spells) while
 filling an object with his consciousness.

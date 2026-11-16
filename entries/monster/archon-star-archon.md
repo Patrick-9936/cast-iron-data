@@ -23,7 +23,7 @@ hp = "294~19d10+190"
 fortitude = "+21"
 reflex = "+17"
 will = "+15; +4 vs. poison"
-melee = "+5 holy starknife +29/+24/+19/+14 (1d6+12/&times&3)"
+melee = "+5 holy starknife +29/+24/+19/+14 (1d6+12/×3)"
 special_attacks = "smite evil 1/day (+6 attack and AC, +29 damage)"
 abilities = ["24", "19", "31", "20", "24", "23"]
 +++
@@ -80,7 +80,7 @@ _[magic circle against evil](ref/spell/magic-circle-against-evil)_
 
 **Speed:** 40 ft., fly 120 ft. (good)
 
-**Melee:** +5 holy starknife +29/+24/+19/+14 (1d6+12/&times&3)
+**Melee:** +5 holy starknife +29/+24/+19/+14 (1d6+12/×3)
 
 **Reach:** 10
 

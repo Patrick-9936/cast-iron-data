@@ -29,8 +29,8 @@ those in the underbellies of cities.
 boars, cats, snakes, and so on.
 
 **Passive:** The bard gains a +4 bonus on Handle Animal checks to influence animals of his chosen
-kind. Animals of this kind have a starting attitude of at least &quot&indifferent&quot& toward the
-bard and never attack him unless he attacks them first.
+kind. Animals of this kind have a starting attitude of at least "indifferent" toward the bard and
+never attack him unless he attacks them first.
 
 **Replaces:** Fascinate
 

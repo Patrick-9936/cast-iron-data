@@ -22,7 +22,7 @@ hp = "180~19d8+95"
 fortitude = "+13"
 reflex = "+9"
 will = "+19"
-melee = "2 pincers +21 (2d8+12/&times&3)"
+melee = "2 pincers +21 (2d8+12/×3)"
 ranged = "lightning gun +16 touch (10d12 electricity)"
 special_attacks = "amnesia~deadly pincers"
 special_qualities = "mental projection"
@@ -75,7 +75,7 @@ eyes that glow with ancient, forbidden power._
 
 **Speed:** 20 ft., climb 10 ft.
 
-**Melee:** 2 pincers +21 (2d8+12/&times&3)
+**Melee:** 2 pincers +21 (2d8+12/×3)
 
 **Ranged:** lightning gun +16 touch (10d12 electricity)
 

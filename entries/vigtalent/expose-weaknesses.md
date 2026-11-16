@@ -19,4 +19,4 @@ it is throwing a bit of fine dust of cold iron over a fey creature or melting a 
 a lycanthrope's hide. The vigilante can add the ability to reduce a creature's
 [damage reduction](ref/rule/damage-reduction) or [hardness](ref/umr/hardness) by 10 to the list of
 options when attempting a [dirty trick](ref/rule/dirty-trick) combat maneuver check. This does not
-stack with itself, and it does not work against creatures with DR/&mdash&.
+stack with itself, and it does not work against creatures with DR/—.

@@ -23,7 +23,7 @@ fortitude = "+4"
 reflex = "+8"
 will = "+8"
 melee = "dagger +6 (1d4+2/19-20), horns +1 (1d6+1)"
-ranged = "short bow +6 (1d6/&times&3)"
+ranged = "short bow +6 (1d6/×3)"
 special_attacks = "pipes"
 abilities = ["14", "15", "15", "12", "14", "19"]
 +++
@@ -69,7 +69,7 @@ from his temples._
 
 **Melee:** dagger +6 (1d4+2/19-20), horns +1 (1d6+1)
 
-**Ranged:** short bow +6 (1d6/&times&3)
+**Ranged:** short bow +6 (1d6/×3)
 
 **Spec Att:** pipes
 

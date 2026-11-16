@@ -26,7 +26,7 @@ fortitude = "+5"
 reflex = "+5"
 will = "+4"
 melee = "longsword +5 (2d6+5/19-20), longsword +5 (2d6+2/19-20), 2 slams +4 (1d6+2)"
-ranged = "shobhad longrifle +6 (2d6/&times&4) or 2 javelins +5 (1d8+5)"
+ranged = "shobhad longrifle +6 (2d6/×4) or 2 javelins +5 (1d8+5)"
 abilities = ["20", "13", "18", "10", "11", "13"]
 +++
 
@@ -73,7 +73,7 @@ leather chest harness._
 
 **Melee:** longsword +5 (2d6+5/19-20), longsword +5 (2d6+2/19-20), 2 slams +4 (1d6+2)
 
-**Ranged:** shobhad longrifle +6 (2d6/&times&4) or 2 javelins +5 (1d8+5)
+**Ranged:** shobhad longrifle +6 (2d6/×4) or 2 javelins +5 (1d8+5)
 
 **Reach:** 10
 

@@ -23,8 +23,8 @@ hp = "162~12d10+96"
 fortitude = "+12"
 reflex = "+14"
 will = "+16"
-melee = "+1 returning starknife +19/+14/+9 (1d4+2/19-20/&times&3)"
-ranged = "+1 returning starknife +19/+14/+9 (1d4+2/19-20/&times&3)"
+melee = "+1 returning starknife +19/+14/+9 (1d4+2/19-20/×3)"
+ranged = "+1 returning starknife +19/+14/+9 (1d4+2/19-20/×3)"
 special_attacks = "dream powder"
 special_qualities = "no breath"
 abilities = ["12", "23", "26", "15", "22", "21"]
@@ -79,9 +79,9 @@ of shimmering dust._
 
 **Speed:** 30 ft., fly 50 ft. (average)
 
-**Melee:** +1 returning starknife +19/+14/+9 (1d4+2/19-20/&times&3)
+**Melee:** +1 returning starknife +19/+14/+9 (1d4+2/19-20/×3)
 
-**Ranged:** +1 returning starknife +19/+14/+9 (1d4+2/19-20/&times&3)
+**Ranged:** +1 returning starknife +19/+14/+9 (1d4+2/19-20/×3)
 
 **Sneak:** +3d6
 

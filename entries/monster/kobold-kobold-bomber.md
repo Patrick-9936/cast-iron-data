@@ -23,7 +23,7 @@ hp = "12~2d8"
 fortitude = "+2"
 reflex = "+6"
 will = "+1; +2 vs. poison"
-melee = "mwk spear +2 (1d6-1/&times&3)"
+melee = "mwk spear +2 (1d6-1/×3)"
 ranged = "sling +5 (1d3-1)"
 special_attacks = "bomb 6/day (1d6+2 fire, DC 13)~bomb trap"
 special_qualities = "alchemy (alchemy crafting +2, identify potions), crafty, mutagen (+4/-2, +2 natural, 20 minutes), poison use"
@@ -73,7 +73,7 @@ _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth,
 
 **Speed:** 30 ft.
 
-**Melee:** mwk spear +2 (1d6-1/&times&3)
+**Melee:** mwk spear +2 (1d6-1/×3)
 
 **Ranged:** sling +5 (1d3-1)
 

@@ -22,8 +22,8 @@ hp = "147~14d10+70"
 fortitude = "+9"
 reflex = "+16"
 will = "+13; +2 vs. enchantment"
-melee = "mwk handaxe +16/+11/+6 (1d6+3/&times&3), mwk handaxe +16/+11 (1d6+1/&times&3)"
-ranged = "+1 composite shortbow +22/+17/+12 (1d6+4/&times&3) or +1 composite shortbows +20/+20/+15/+15/+10 (1d6+4/&times&3)"
+melee = "mwk handaxe +16/+11/+6 (1d6+3/×3), mwk handaxe +16/+11 (1d6+1/×3)"
+ranged = "+1 composite shortbow +22/+17/+12 (1d6+4/×3) or +1 composite shortbows +20/+20/+15/+15/+10 (1d6+4/×3)"
 special_attacks = "dual bows"
 special_qualities = "hateful prophecy, infernal arrows, selective nondetection"
 abilities = ["17", "24", "21", "14", "19", "16"]
@@ -79,10 +79,10 @@ _This lithe, six-armed humanoid has tusks that curve from his chin and carries a
 
 **Speed:** 40 ft., climb 30 ft.
 
-**Melee:** mwk handaxe +16/+11/+6 (1d6+3/&times&3), mwk handaxe +16/+11 (1d6+1/&times&3)
+**Melee:** mwk handaxe +16/+11/+6 (1d6+3/×3), mwk handaxe +16/+11 (1d6+1/×3)
 
-**Ranged:** +1 composite shortbow +22/+17/+12 (1d6+4/&times&3) or +1 composite shortbows
-+20/+20/+15/+15/+10 (1d6+4/&times&3)
+**Ranged:** +1 composite shortbow +22/+17/+12 (1d6+4/×3) or +1 composite shortbows
++20/+20/+15/+15/+10 (1d6+4/×3)
 
 **Spec Att:** dual bows
 

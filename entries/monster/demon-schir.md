@@ -22,7 +22,7 @@ hp = "37~5d10+10"
 fortitude = "+6"
 reflex = "+3"
 will = "+3"
-melee = "mwk halberd +10 (1d10+4/&times&3 plus disease), gore +3 (1d6+1) or gore +8 (1d6+4)"
+melee = "mwk halberd +10 (1d10+4/×3 plus disease), gore +3 (1d6+1) or gore +8 (1d6+4)"
 abilities = ["17", "14", "15", "8", "5", "6"]
 +++
 
@@ -73,7 +73,7 @@ muscled frame._
 
 **Speed:** 30 ft.
 
-**Melee:** mwk halberd +10 (1d10+4/&times&3 plus disease), gore +3 (1d6+1) or gore +8 (1d6+4)
+**Melee:** mwk halberd +10 (1d10+4/×3 plus disease), gore +3 (1d6+1) or gore +8 (1d6+4)
 
 **Pow Ch:** gore, 3d6+4
 

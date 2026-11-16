@@ -27,4 +27,4 @@ gains a bonus on the attack and damage rolls equal to the enhancement bonus of t
 The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the
 firearm. One-handed firearms deal 1d6 points of damage (1d4 if wielded by Small creatures) and
 two-handed firearms deal 1d10 points of damage (1d8 if wielded by Small creatures). Regardless of
-the gunslinger's size, the critical multiplier of this attack is 20/&times&2.
+the gunslinger's size, the critical multiplier of this attack is 20/×2.

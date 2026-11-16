@@ -22,7 +22,7 @@ hp = "642~25d8+530"
 fortitude = "+28"
 reflex = "+15"
 will = "+21"
-melee = "2 claws +31 (4d8+14/16-20/&times&4), gore +28 (4d6+7), 4 tentacles +29 (2d6+7)"
+melee = "2 claws +31 (4d8+14/16-20/×4), gore +28 (4d6+7), 4 tentacles +29 (2d6+7)"
 special_attacks = "impregnate surrogate~razor claws~well of life"
 special_qualities = "birth spawn, invert birth, polymorphism, transfer suffering"
 abilities = ["38", "20", "46", "29", "21", "41"]
@@ -83,7 +83,7 @@ tumors and writing tentacles._
 
 **M Power:** 10/day, surge +1d12
 
-**Melee:** 2 claws +31 (4d8+14/16-20/&times&4), gore +28 (4d6+7), 4 tentacles +29 (2d6+7)
+**Melee:** 2 claws +31 (4d8+14/16-20/×4), gore +28 (4d6+7), 4 tentacles +29 (2d6+7)
 
 **Reach:** 15
 

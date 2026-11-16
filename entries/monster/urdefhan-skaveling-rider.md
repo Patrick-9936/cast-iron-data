@@ -22,8 +22,8 @@ hp = "92~3d10+7d10+37~10"
 fortitude = "+12"
 reflex = "+9"
 will = "+6"
-melee = "+1 rhoka sword +18/+13 (1d8+8/18-20), bite +12 (1d4+4) or mwk glaive +18/+13 (1d10+10/&times&3)"
-ranged = "+1 composite shortbow +14/+9 (1d6+8/&times&3)"
+melee = "+1 rhoka sword +18/+13 (1d8+8/18-20), bite +12 (1d4+4) or mwk glaive +18/+13 (1d10+10/×3)"
+ranged = "+1 composite shortbow +14/+9 (1d6+8/×3)"
 special_attacks = "banner +2~braggart~cavalier's charge~challenge 3/day (+7 damage)~Strength damage~tactician 2/day (Outflank)"
 special_qualities = "daemonic pact, expert trainer +3, mount (skaveling), order of the cockatrice"
 abilities = ["24", "16", "17", "12", "15", "16"]
@@ -80,10 +80,9 @@ of the rotting, flapping undead monstrosity he rides._
 
 **B Drain:** 1 Con
 
-**Melee:** +1 rhoka sword +18/+13 (1d8+8/18-20), bite +12 (1d4+4) or mwk glaive +18/+13
-(1d10+10/&times&3)
+**Melee:** +1 rhoka sword +18/+13 (1d8+8/18-20), bite +12 (1d4+4) or mwk glaive +18/+13 (1d10+10/×3)
 
-**Ranged:** +1 composite shortbow +14/+9 (1d6+8/&times&3)
+**Ranged:** +1 composite shortbow +14/+9 (1d6+8/×3)
 
 **Spec Att:** banner +2, braggart, cavalier's charge, challenge 3/day (+7 damage), Strength damage,
 tactician 2/day (Outflank)

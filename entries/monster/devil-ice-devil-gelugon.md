@@ -23,7 +23,7 @@ hp = "161~14d10+84"
 fortitude = "+15"
 reflex = "+14"
 will = "+12"
-melee = "+1 frost spear +21/+16/+11 (2d6+10/&times&3 plus 1d6 cold plus slow), bite +14 (2d6+6), tail +14 (3d6+3 plus slow)"
+melee = "+1 frost spear +21/+16/+11 (2d6+10/×3 plus 1d6 cold plus slow), bite +14 (2d6+6), tail +14 (3d6+3 plus slow)"
 abilities = ["23", "21", "22", "25", "22", "20"]
 +++
 
@@ -77,8 +77,8 @@ _A pair of frozen, multifaceted eyes coldly judge all before this towering, inse
 
 **Speed:** 40 ft., fly 60 ft. (good)
 
-**Melee:** +1 frost spear +21/+16/+11 (2d6+10/&times&3 plus 1d6 cold plus slow), bite +14 (2d6+6),
-tail +14 (3d6+3 plus slow)
+**Melee:** +1 frost spear +21/+16/+11 (2d6+10/×3 plus 1d6 cold plus slow), bite +14 (2d6+6), tail
++14 (3d6+3 plus slow)
 
 **Reach:** 10
 

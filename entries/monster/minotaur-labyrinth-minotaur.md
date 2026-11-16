@@ -23,7 +23,7 @@ hp = "232~15d10+150"
 fortitude = "+19"
 reflex = "+9"
 will = "+17"
-melee = "+1 greataxe +26/+21/+16 (3d6+17/19-20/&times&3), gore +20 (1d8+5) or gore +25 (1d8+16)"
+melee = "+1 greataxe +26/+21/+16 (3d6+17/19-20/×3), gore +20 (1d8+5) or gore +25 (1d8+16)"
 special_attacks = "bronze mask~steel-shod hooves"
 special_qualities = "compression"
 abilities = ["33", "19", "30", "17", "26", "14"]
@@ -72,7 +72,7 @@ mask that covers most of its face._
 
 **Speed:** 30 ft.
 
-**Melee:** +1 greataxe +26/+21/+16 (3d6+17/19-20/&times&3), gore +20 (1d8+5) or gore +25 (1d8+16)
+**Melee:** +1 greataxe +26/+21/+16 (3d6+17/19-20/×3), gore +20 (1d8+5) or gore +25 (1d8+16)
 
 **Pow Ch:** gore, 2d8+16
 

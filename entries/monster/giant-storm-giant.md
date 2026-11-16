@@ -24,7 +24,7 @@ fortitude = "+17"
 reflex = "+8"
 will = "+13"
 melee = "mwk greatsword +27/+22/+17 (4d6+21/17-20) or 2 slams +26 (2d6+14)"
-ranged = "mwk composite longbow +15/+10/+5 (3d6+14/&times&3)"
+ranged = "mwk composite longbow +15/+10/+5 (3d6+14/×3)"
 special_qualities = "militant, water breathing"
 abilities = ["39", "14", "23", "16", "20", "15"]
 +++
@@ -74,7 +74,7 @@ sparkling green eyes._
 
 **Melee:** mwk greatsword +27/+22/+17 (4d6+21/17-20) or 2 slams +26 (2d6+14)
 
-**Ranged:** mwk composite longbow +15/+10/+5 (3d6+14/&times&3)
+**Ranged:** mwk composite longbow +15/+10/+5 (3d6+14/×3)
 
 **Reach:** 15
 

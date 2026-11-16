@@ -23,7 +23,7 @@ hp = "127~15d8+60"
 fortitude = "+9"
 reflex = "+17"
 will = "+8"
-melee = "+1 spear +17/+12/+7 (1d8+7/&times&3), bite +10 (1d6+2 plus 1d6 cold)"
+melee = "+1 spear +17/+12/+7 (1d8+7/×3), bite +10 (1d6+2 plus 1d6 cold)"
 special_attacks = "frozen breath"
 special_qualities = "arctic stride"
 abilities = ["18", "26", "18", "13", "17", "13"]
@@ -72,7 +72,7 @@ fist._
 
 **Speed:** 40 ft.
 
-**Melee:** +1 spear +17/+12/+7 (1d8+7/&times&3), bite +10 (1d6+2 plus 1d6 cold)
+**Melee:** +1 spear +17/+12/+7 (1d8+7/×3), bite +10 (1d6+2 plus 1d6 cold)
 
 **Spec Att:** frozen breath
 

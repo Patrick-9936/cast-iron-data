@@ -24,7 +24,7 @@ fortitude = "+8"
 reflex = "+5"
 will = "+0 (+1 vs. fear)"
 melee = "falchion +8 (2d4+4/18-20)"
-ranged = "composite longbow +9/+9 (1d8+4/&times&3)"
+ranged = "composite longbow +9/+9 (1d8+4/×3)"
 special_attacks = "weapon training (bows +1)"
 special_qualities = "armor training 1, weapon familiarity"
 abilities = ["17", "16", "12", "8", "6", "12"]
@@ -76,7 +76,7 @@ abilities = ["17", "16", "12", "8", "6", "12"]
 
 **Melee:** falchion +8 (2d4+4/18-20)
 
-**Ranged:** composite longbow +9/+9 (1d8+4/&times&3)
+**Ranged:** composite longbow +9/+9 (1d8+4/×3)
 
 **Spec Att:** weapon training (bows +1)
 

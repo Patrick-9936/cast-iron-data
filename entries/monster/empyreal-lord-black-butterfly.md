@@ -22,8 +22,8 @@ hp = "676~33d10+495"
 fortitude = "+26"
 reflex = "+33"
 will = "+28; +8 vs. mind-affecting effects"
-melee = "Voidsedge +52/+47/+42/+37 (1d6+20/19-20/&times&3 plus 2d6 fire and 2d6 cold), touch +42 touch (10d6 cold plus steal breath)"
-ranged = "Voidsedge +52/+47/+42/+37 (1d6+20/19-20/&times&3 plus 2d6 fire and 2d6 cold)"
+melee = "Voidsedge +52/+47/+42/+37 (1d6+20/19-20/×3 plus 2d6 fire and 2d6 cold), touch +42 touch (10d6 cold plus steal breath)"
+ranged = "Voidsedge +52/+47/+42/+37 (1d6+20/19-20/×3 plus 2d6 fire and 2d6 cold)"
 special_attacks = "Voidsedge bond"
 special_qualities = "celestial grace, interstellar mastery, no breath, seed of life, silence between, starflight, empyreal lord traits"
 abilities = ["28", "40", "40", "27", "30", "33"]
@@ -87,10 +87,10 @@ electricity, energy drain, petrification
 
 **Speed:** 40 ft., fly 150 ft. (perfect)
 
-**Melee:** Voidsedge +52/+47/+42/+37 (1d6+20/19-20/&times&3 plus 2d6 fire and 2d6 cold), touch +42
-touch (10d6 cold plus steal breath)
+**Melee:** Voidsedge +52/+47/+42/+37 (1d6+20/19-20/×3 plus 2d6 fire and 2d6 cold), touch +42 touch
+(10d6 cold plus steal breath)
 
-**Ranged:** Voidsedge +52/+47/+42/+37 (1d6+20/19-20/&times&3 plus 2d6 fire and 2d6 cold)
+**Ranged:** Voidsedge +52/+47/+42/+37 (1d6+20/19-20/×3 plus 2d6 fire and 2d6 cold)
 
 **Reach:** 10
 

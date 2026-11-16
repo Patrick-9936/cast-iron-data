@@ -23,7 +23,7 @@ hp = "275~22d10+154"
 fortitude = "+20"
 reflex = "+12"
 will = "+19"
-melee = "+3 axiomatic scythe +30/+25/+20/+15 (2d6+10/&times&4), 2 wings +21 (1d8+2)"
+melee = "+3 axiomatic scythe +30/+25/+20/+15 (2d6+10/×4), 2 wings +21 (1d8+2)"
 special_attacks = "destroy soul"
 abilities = ["21", "20", "24", "17", "22", "29"]
 +++
@@ -80,7 +80,7 @@ energy, poison
 
 **Speed:** 30 ft., fly 40 ft. (perfect)
 
-**Melee:** +3 axiomatic scythe +30/+25/+20/+15 (2d6+10/&times&4), 2 wings +21 (1d8+2)
+**Melee:** +3 axiomatic scythe +30/+25/+20/+15 (2d6+10/×4), 2 wings +21 (1d8+2)
 
 **Reach:** 10
 

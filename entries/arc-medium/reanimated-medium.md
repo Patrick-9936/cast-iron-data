@@ -44,8 +44,8 @@ a _seance_ for another 24 hours.
 **Alters:** Spirit
 
 **Info:** A reanimated medium is essentially a bodiless spirit using influence to possess his own
-spiritless body. &quot&The reanimated medium&quot& refers to this spirit. Unlike a normal medium, a
-reanimated medium becomes more powerful the more influence it has over its body.
+spiritless body. "The reanimated medium" refers to this spirit. Unlike a normal medium, a reanimated
+medium becomes more powerful the more influence it has over its body.
 
 **Special:** A character who selects the reanimated medium archetype after 1st level can do so only
 after dying; at the GM's discretion, a dead character of another class with an intact body who has

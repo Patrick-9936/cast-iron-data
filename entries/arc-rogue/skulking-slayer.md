@@ -53,7 +53,7 @@ race.
 **Ability:** When she could normally make a sneak attack, a slayer may instead make a
 [dirty trick](ref/rule/dirty-trick) or [steal](ref/rule/steal) combat maneuver with a bonus on her
 roll. This bonus is equal to her number of sneak attack dice for a dirty trick combat maneuver, or
-1-1/2 &times& her number of sneak attack dice for a steal combat maneuver.
+1-1/2 × her number of sneak attack dice for a steal combat maneuver.
 
 **Gained:** At 1st Level
 

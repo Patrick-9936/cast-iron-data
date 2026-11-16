@@ -23,7 +23,7 @@ fortitude = "+7"
 reflex = "+11"
 will = "+9"
 melee = "2 claws +14 (1d6+3)"
-ranged = "+1 composite longbow +19/+14/+9 (1d8+4/19-20/&times&3 plus 1d6 negative energy and paralysis)"
+ranged = "+1 composite longbow +19/+14/+9 (1d8+4/19-20/×3 plus 1d6 negative energy and paralysis)"
 special_attacks = "devour soul~dread howl~infused arrows"
 abilities = ["17", "22", "-", "11", "10", "15"]
 +++
@@ -68,8 +68,7 @@ _This howling corpse swoops through the air with hideously elongated legs and a 
 
 **Melee:** 2 claws +14 (1d6+3)
 
-**Ranged:** +1 composite longbow +19/+14/+9 (1d8+4/19-20/&times&3 plus 1d6 negative energy and
-paralysis)
+**Ranged:** +1 composite longbow +19/+14/+9 (1d8+4/19-20/×3 plus 1d6 negative energy and paralysis)
 
 **Spec Att:** devour soul, dread howl, infused arrows
 

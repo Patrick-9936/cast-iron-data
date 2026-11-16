@@ -58,9 +58,9 @@ a new plan is made, any old plan is lost.
 
 **Quick Interrogator (Ex)**
 
-**Ability:** A constable can attempt a Diplomacy check to gather information in 1d6 &times& 5
-minutes and attempt a [Diplomacy](ref/skill/diplomacy) or [Intimidate](ref/skill/intimidate) check
-to change someone's attitude in 5 rounds.
+**Ability:** A constable can attempt a Diplomacy check to gather information in 1d6 × 5 minutes and
+attempt a [Diplomacy](ref/skill/diplomacy) or [Intimidate](ref/skill/intimidate) check to change
+someone's attitude in 5 rounds.
 
 **Gained:** At 4th Level
 

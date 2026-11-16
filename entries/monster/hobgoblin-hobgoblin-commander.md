@@ -23,8 +23,8 @@ hp = "141~13d10+65"
 fortitude = "+13"
 reflex = "+6"
 will = "+8"
-melee = "+1 shock katana +18/+13/+8 (1d8+4/15-20 plus 1d6 electricity) or mwk naginata +17/+12/+7 (1d8+4/&times&4)"
-ranged = "mwk composite shortbow +14/+9/+4 (1d6+3/&times&3)"
+melee = "+1 shock katana +18/+13/+8 (1d8+4/15-20 plus 1d6 electricity) or mwk naginata +17/+12/+7 (1d8+4/×4)"
+ranged = "mwk composite shortbow +14/+9/+4 (1d6+3/×3)"
 special_attacks = "banner +3/+2~challenge (+13, DR 4/-, 5/day)~demanding challenge"
 special_qualities = "mount (horse), mounted archer, order of the warrior (honor in all things 3/day, way of the samurai), weapon expertise (katana)"
 abilities = ["16", "10", "16", "12", "10", "15"]
@@ -71,9 +71,9 @@ abilities = ["16", "10", "16", "12", "10", "15"]
 **Speed:** 20 ft.
 
 **Melee:** +1 shock katana +18/+13/+8 (1d8+4/15-20 plus 1d6 electricity) or mwk naginata +17/+12/+7
-(1d8+4/&times&4)
+(1d8+4/×4)
 
-**Ranged:** mwk composite shortbow +14/+9/+4 (1d6+3/&times&3)
+**Ranged:** mwk composite shortbow +14/+9/+4 (1d6+3/×3)
 
 **Spec Att:** banner +3/+2, challenge (+13, DR 4/-, 5/day), demanding challenge
 

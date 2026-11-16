@@ -23,7 +23,7 @@ fortitude = "+7"
 reflex = "+4"
 will = "+6"
 melee = "mwk greatclub +10 (1d10+6) or 2 claws +9 (1d6+4)"
-ranged = "mwk composite longbow +9 (1d8+4/&times&3)"
+ranged = "mwk composite longbow +9 (1d8+4/×3)"
 special_qualities = "change shape (any human; alter self)"
 abilities = ["18", "17", "16", "12", "15", "17"]
 +++
@@ -73,7 +73,7 @@ four-fingered claws._
 
 **Melee:** mwk greatclub +10 (1d10+6) or 2 claws +9 (1d6+4)
 
-**Ranged:** mwk composite longbow +9 (1d8+4/&times&3)
+**Ranged:** mwk composite longbow +9 (1d8+4/×3)
 
 **Spell-Like Abilities**
 

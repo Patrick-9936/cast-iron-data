@@ -22,7 +22,7 @@ hp = "144~16d10+56"
 fortitude = "+5"
 reflex = "+6"
 will = "+5"
-ranged = "3 Maxim M1910 machine guns +15 (2d8/19-20), Hotchkiss 6 pounder +15 (8d6/&times&3)"
+ranged = "3 Maxim M1910 machine guns +15 (2d8/19-20), Hotchkiss 6 pounder +15 (8d6/×3)"
 special_attacks = "integrated weaponry~telekinesis~vicious"
 special_qualities = "inexhaustible ammo"
 abilities = ["35", "12", "-", "13", "10", "9"]
@@ -69,7 +69,7 @@ dominates the battlefield, spitting hot lead and artillery - seemingly without a
 
 **Speed:** 40 ft.
 
-**Ranged:** 3 Maxim M1910 machine guns +15 (2d8/19-20), Hotchkiss 6 pounder +15 (8d6/&times&3)
+**Ranged:** 3 Maxim M1910 machine guns +15 (2d8/19-20), Hotchkiss 6 pounder +15 (8d6/×3)
 
 **Reach:** 5
 

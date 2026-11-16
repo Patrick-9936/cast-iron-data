@@ -24,7 +24,7 @@ fortitude = "+8"
 reflex = "+10"
 will = "+6"
 melee = "short swords +13/+13/+8 (1d6+3/19-20), claw +13 (1d4+3 plus grab), bite +7 (1d3+1 plus paralysis), or 4 claws +13 (1d4+3 plus grab), bite +12 (1d3+3 plus paralysis)"
-ranged = "2 longbows +13 (1d8/&times&3)"
+ranged = "2 longbows +13 (1d8/×3)"
 special_attacks = "implant"
 special_qualities = "multiweapon mastery, planewalk"
 abilities = ["17", "18", "14", "15", "12", "11"]
@@ -76,7 +76,7 @@ twitching, fanged mandibles._
 
 **Paralysis:** 1d4 hours, DC 16
 
-**Ranged:** 2 longbows +13 (1d8/&times&3)
+**Ranged:** 2 longbows +13 (1d8/×3)
 
 **Spec Att:** implant
 

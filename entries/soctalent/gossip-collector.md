@@ -17,9 +17,9 @@ group = "social-talent"
 **Ability:** Whenever the vigilante is presented with a topic about which he would normally need to
 spend 1d4 hours to gather information, he must spend only 1d2 hours instead. If he has the
 [renown](ref/soctalent/renown) social talent and gathers the information in his area of renown, he
-must instead spend only 1d4 &times& 10 minutes, and if he beats the DC to gather a piece of
-information by 20 or more, he knows that piece of information without spending any time at all; he
-has simply already heard that gossip.
+must instead spend only 1d4 × 10 minutes, and if he beats the DC to gather a piece of information by
+20 or more, he knows that piece of information without spending any time at all; he has simply
+already heard that gossip.
 
 **Flavor:** The vigilante sits at the center of a web of gossip, granting him access to the latest
 scuttlebutt with baffling speed.

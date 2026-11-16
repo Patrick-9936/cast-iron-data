@@ -23,7 +23,7 @@ hp = "127~15d8+60"
 fortitude = "+8"
 reflex = "+11"
 will = "+9"
-melee = "scythe +14/+9/+4 (2d4+3/&times&4 plus death touch)"
+melee = "scythe +14/+9/+4 (2d4+3/×4 plus death touch)"
 special_attacks = "fear cone (30 ft., DC 20)"
 special_qualities = "sole target"
 abilities = ["14", "19", "-", "8", "11", "17"]
@@ -71,7 +71,7 @@ abilities = ["14", "19", "-", "8", "11", "17"]
 
 **Speed:** 30 ft.
 
-**Melee:** scythe +14/+9/+4 (2d4+3/&times&4 plus death touch)
+**Melee:** scythe +14/+9/+4 (2d4+3/×4 plus death touch)
 
 **Spec Att:** fear cone (30 ft., DC 20)
 

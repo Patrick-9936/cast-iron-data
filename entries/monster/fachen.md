@@ -25,7 +25,7 @@ hp = "45~7d8+14"
 fortitude = "+4"
 reflex = "+3"
 will = "+8"
-melee = "battleaxe +10 (1d8+5/&times&3), bite +5 (1d6+2)"
+melee = "battleaxe +10 (1d8+5/×3), bite +5 (1d6+2)"
 special_qualities = "incredible balance"
 abilities = ["20", "13", "15", "6", "12", "15"]
 +++
@@ -69,7 +69,7 @@ unusual grace._
 
 **Speed:** 30 ft.
 
-**Melee:** battleaxe +10 (1d8+5/&times&3), bite +5 (1d6+2)
+**Melee:** battleaxe +10 (1d8+5/×3), bite +5 (1d6+2)
 
 **Statistics**
 

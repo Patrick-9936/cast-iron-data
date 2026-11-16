@@ -23,8 +23,8 @@ hp = "168~16d10+80"
 fortitude = "+10"
 reflex = "+13"
 will = "+15"
-melee = "+2 returning spear +23/+18/+13/+8 (1d8+8/&times&3)"
-ranged = "+2 returning spear +22 (1d8+6/&times&3)"
+melee = "+2 returning spear +23/+18/+13/+8 (1d8+8/×3)"
+ranged = "+2 returning spear +22 (1d8+6/×3)"
 special_qualities = "battle trained, choose the slain, holy zeal"
 abilities = ["18", "17", "20", "13", "20", "23"]
 +++
@@ -76,9 +76,9 @@ carries a shining spear._
 
 **Speed:** 30 ft., fly 100 ft. (perfect)
 
-**Melee:** +2 returning spear +23/+18/+13/+8 (1d8+8/&times&3)
+**Melee:** +2 returning spear +23/+18/+13/+8 (1d8+8/×3)
 
-**Ranged:** +2 returning spear +22 (1d8+6/&times&3)
+**Ranged:** +2 returning spear +22 (1d8+6/×3)
 
 **Spell-Like Abilities**
 

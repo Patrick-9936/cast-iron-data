@@ -30,5 +30,5 @@ maneuvers and to the DC of Sleight of Hand checks to take items from you.
 character level you have beyond 1st. If you do not have sufficient wealth to purchase this
 additional equipment, you feel a strong desire (but are not compelled) to sell existing items or
 steal from others to obtain it. You are [sickened](ref/misc/sickened) whenever you do not meet this
-requirement; you are also sickened for 24 hours after anything worth 25 gp &times& your character
-level or more is taken from you against your will.
+requirement; you are also sickened for 24 hours after anything worth 25 gp × your character level or
+more is taken from you against your will.

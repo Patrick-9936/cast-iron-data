@@ -21,7 +21,7 @@ hp = "437~25d10+300"
 fortitude = "+26"
 reflex = "+20"
 will = "+12"
-melee = "bite +29 (4d6+12), 3 razor tongues +29 (2d6+12/18-20/&times&3 plus 1d6 bleed, 1 Con bleed, and blood rage), 6 wings +24 (2d8+6)"
+melee = "bite +29 (4d6+12), 3 razor tongues +29 (2d6+12/18-20/×3 plus 1d6 bleed, 1 Con bleed, and blood rage), 6 wings +24 (2d8+6)"
 ranged = "4 eye rays +23 (4d6 sonic/18-20 plus nausea)"
 special_qualities = "hibernation, shatter silence, unstoppable force"
 abilities = ["34", "22", "35", "7", "14", "21"]
@@ -77,8 +77,8 @@ paralysis, permanent wounds, petrification, poison, polymorph
 
 **Speed:** 20 ft., fly 100 ft. (perfect)
 
-**Melee:** bite +29 (4d6+12), 3 razor tongues +29 (2d6+12/18-20/&times&3 plus 1d6 bleed, 1 Con
-bleed, and blood rage), 6 wings +24 (2d8+6)
+**Melee:** bite +29 (4d6+12), 3 razor tongues +29 (2d6+12/18-20/×3 plus 1d6 bleed, 1 Con bleed, and
+blood rage), 6 wings +24 (2d8+6)
 
 **Ranged:** 4 eye rays +23 (4d6 sonic/18-20 plus nausea)
 

@@ -89,7 +89,7 @@ and take on its appearance. This functions as a modified [alter self](ref/spell/
 transforming the devil impostor into a replica of her eidolon. She gains a single natural attack
 possessed by her eidolon, and if her eidolon is smaller than Small or larger than Medium, she
 assumes the form of a Small- or Medium-sized version of her eidolon, respectively. The
-transformation lasts for 10 minutes &times& her unchained summoner level or until the eidolon is
+transformation lasts for 10 minutes × her unchained summoner level or until the eidolon is
 resummoned.
 
 **Gained:** At 8th Level

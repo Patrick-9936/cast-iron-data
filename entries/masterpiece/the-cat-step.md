@@ -30,8 +30,8 @@ Your agile dancing allows you and others to fall safely and land gracefully.
 
 **Details:** This quick dance is a series of small steps culminating in a series of leaps. When you
 complete the performance, for the next 10 minutes you treat any distance fallen as if it were a
-number of feet shorter equal to half your bard level &times& 5. You may spend the first minute of
-this effect demonstrating the dance to a number of creatures up to
+number of feet shorter equal to half your bard level × 5. You may spend the first minute of this
+effect demonstrating the dance to a number of creatures up to
 [half](ref/misc/fractions-and-rounding) your bard level; if these students succeed at a DC 15
 Perform (dance) check, they also gain the benefits of this masterpiece for the remainder of its
 duration.

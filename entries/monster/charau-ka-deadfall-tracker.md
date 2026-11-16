@@ -22,7 +22,7 @@ fortitude = "+8"
 reflex = "+12"
 will = "+5"
 melee = "mwk scimitar +12/+7 (1d4+4/18-20), bite +6 (1d3+6)"
-ranged = "mwk composite shortbow +10/+5 (1d4+4/&times&3) or rock +10 (1d4+4, 19-20)"
+ranged = "mwk composite shortbow +10/+5 (1d4+4/×3) or rock +10 (1d4+4, 19-20)"
 special_attacks = "bleed,~studied target +1 (1 target)"
 special_qualities = "shrieking frenzy, slayer talents (bleeding attack +1, slowing strike), thrown-weapon mastery, track +2"
 abilities = ["19", "18", "14", "10", "14", "9"]
@@ -68,7 +68,7 @@ _A noxious fluid drips from the vicious arrows of this feral ape-like humanoid._
 
 **Melee:** mwk scimitar +12/+7 (1d4+4/18-20), bite +6 (1d3+6)
 
-**Ranged:** mwk composite shortbow +10/+5 (1d4+4/&times&3) or rock +10 (1d4+4, 19-20)
+**Ranged:** mwk composite shortbow +10/+5 (1d4+4/×3) or rock +10 (1d4+4, 19-20)
 
 **Sneak:** +1d6
 

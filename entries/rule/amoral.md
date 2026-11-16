@@ -106,8 +106,8 @@ about the character's behavior that paints her as an obstacle to accomplishing y
 
 **Evidence Forger**
 
-**Flavor:** You don't care about truth; you care only that the &quot&facts&quot& support your
-agenda, and you are adept at making such falsehoods seem true.
+**Flavor:** You don't care about truth; you care only that the "facts" support your agenda, and you
+are adept at making such falsehoods seem true.
 
 **Prereq:** Manifestation level 3rd, evidence eraser
 

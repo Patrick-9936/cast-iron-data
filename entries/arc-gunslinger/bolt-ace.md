@@ -128,8 +128,8 @@ action to free itself from the pinning bolt, except by means of teleportation.
 **Choice:** A bolt ace can select one specific type of crossbow, such as
 [hand crossbow](ref/eq-weapon/hand-crossbow) or [heavy crossbow](ref/eq-weapon/heavy-crossbow). She
 gains a bonus on damage rolls equal to her Dexterity modifier with that crossbow. Furthermore, when
-she scores a critical hit with that type of crossbow, her critical modifier increases by 1 (a
-&times&2 becomes a &times&3, for example).
+she scores a critical hit with that type of crossbow, her critical modifier increases by 1 (a ×2
+becomes a ×3, for example).
 
 **At 13th Level:** She can pick a third crossbow.
 

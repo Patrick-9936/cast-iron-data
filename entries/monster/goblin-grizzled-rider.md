@@ -23,8 +23,8 @@ hp = "47~6d10+10"
 fortitude = "+6"
 reflex = "+9"
 will = "+3"
-melee = "mwk horsechopper +5 (1d8+3/&times&3)"
-ranged = "mwk composite shortbow +12/+7 (1d4+2/&times&3)"
+melee = "mwk horsechopper +5 (1d8+3/×3)"
+ranged = "mwk composite shortbow +12/+7 (1d4+2/×3)"
 special_attacks = "combat style (mounted combat)"
 special_qualities = "favored terrain (forest +2), hunter's bond (companions), track +3, wild empathy +4"
 abilities = ["14", "18", "13", "10", "12", "6"]
@@ -70,9 +70,9 @@ abilities = ["14", "18", "13", "10", "12", "6"]
 
 **Fav En:** elves +2, humans +4
 
-**Melee:** mwk horsechopper +5 (1d8+3/&times&3)
+**Melee:** mwk horsechopper +5 (1d8+3/×3)
 
-**Ranged:** mwk composite shortbow +12/+7 (1d4+2/&times&3)
+**Ranged:** mwk composite shortbow +12/+7 (1d4+2/×3)
 
 **Spec Att:** combat style (mounted combat)
 

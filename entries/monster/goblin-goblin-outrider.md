@@ -24,7 +24,7 @@ fortitude = "+4"
 reflex = "+7"
 will = "+1"
 melee = "mwk dogslicer +5 (1d4+1/19-20)"
-ranged = "shortbow +7 (1d4/&times&3)"
+ranged = "shortbow +7 (1d4/×3)"
 special_attacks = "combat style (mounted combat)"
 special_qualities = "track +1, wild empathy +0"
 abilities = ["13", "18", "13", "10", "12", "6"]
@@ -72,7 +72,7 @@ abilities = ["13", "18", "13", "10", "12", "6"]
 
 **Melee:** mwk dogslicer +5 (1d4+1/19-20)
 
-**Ranged:** shortbow +7 (1d4/&times&3)
+**Ranged:** shortbow +7 (1d4/×3)
 
 **Spec Att:** combat style (mounted combat)
 

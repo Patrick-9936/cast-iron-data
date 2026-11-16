@@ -25,7 +25,7 @@ hp = "195~17d10+102"
 fortitude = "+17"
 reflex = "+21"
 will = "+12"
-melee = "+2 anarchic keen halberd +25/+20/+15/+10 (2d8+12/&times&3)"
+melee = "+2 anarchic keen halberd +25/+20/+15/+10 (2d8+12/×3)"
 special_attacks = "luck domain~penetrating gaze"
 special_qualities = "change shape (female elf, half-elf, or human from Medium to Huge size; alter self or giant form II)"
 abilities = ["24", "26", "22", "21", "18", "24"]
@@ -86,7 +86,7 @@ halberd._
 
 **Speed:** 50 ft., fly 80 ft. (good)
 
-**Melee:** +2 anarchic keen halberd +25/+20/+15/+10 (2d8+12/&times&3)
+**Melee:** +2 anarchic keen halberd +25/+20/+15/+10 (2d8+12/×3)
 
 **Reach:** 10
 

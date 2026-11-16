@@ -24,7 +24,7 @@ fortitude = "+8"
 reflex = "+11"
 will = "+9"
 melee = "+1 quarterstaff +12/+7 (1d6+7)"
-ranged = "mwk shortbow +10 (1d6/&times&3)"
+ranged = "mwk shortbow +10 (1d6/×3)"
 special_qualities = "bloodline arcana (change energy damage spells to fire), stalker"
 abilities = ["18", "15", "16", "8", "10", "17"]
 +++
@@ -74,7 +74,7 @@ the thrill of the coming kill._
 
 **Melee:** +1 quarterstaff +12/+7 (1d6+7)
 
-**Ranged:** mwk shortbow +10 (1d6/&times&3)
+**Ranged:** mwk shortbow +10 (1d6/×3)
 
 **Spell-Like Abilities**
 

@@ -26,7 +26,7 @@ hp = "97~13d6+52"
 fortitude = "+8"
 reflex = "+11"
 will = "+10"
-melee = "+2 icy burst glaive +12/+7 (1d10+6/&times&3 plus 1d6 cold), gore +4 (2d6+1 plus 1d6 cold)"
+melee = "+2 icy burst glaive +12/+7 (1d10+6/×3 plus 1d6 cold), gore +4 (2d6+1 plus 1d6 cold)"
 abilities = ["17", "16", "18", "14", "15", "17"]
 +++
 
@@ -80,8 +80,8 @@ _Jagged, twisting antlers of dark blue ice crown the helm of this ice-armored hu
 
 **Speed:** 30 ft.
 
-**Melee:** +2 [icy burst](ref/magic-enh/icy-burst) glaive +12/+7 (1d10+6/&times&3 plus 1d6 cold),
-gore +4 (2d6+1 plus 1d6 cold)
+**Melee:** +2 [icy burst](ref/magic-enh/icy-burst) glaive +12/+7 (1d10+6/×3 plus 1d6 cold), gore +4
+(2d6+1 plus 1d6 cold)
 
 **Sp Extra:** icewalking
 

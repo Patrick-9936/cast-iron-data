@@ -26,8 +26,8 @@ hp = "30~4d10+8"
 fortitude = "+3"
 reflex = "+7"
 will = "+5"
-melee = "spear +8 (1d8+4/&times&3 plus poison), bite +2 (1d6+1)"
-ranged = "spear +8 (1d8+3/&times&3 plus poison)"
+melee = "spear +8 (1d8+4/×3 plus poison), bite +2 (1d6+1)"
+ranged = "spear +8 (1d8+3/×3 plus poison)"
 special_attacks = "rain frenzy"
 special_qualities = "amphibious, poison use"
 abilities = ["16", "17", "14", "10", "13", "13"]
@@ -74,9 +74,9 @@ its razor-sharp teeth._
 
 **Speed:** 10 ft., swim 50 ft.
 
-**Melee:** spear +8 (1d8+4/&times&3 plus poison), bite +2 (1d6+1)
+**Melee:** spear +8 (1d8+4/×3 plus poison), bite +2 (1d6+1)
 
-**Ranged:** spear +8 (1d8+3/&times&3 plus poison)
+**Ranged:** spear +8 (1d8+3/×3 plus poison)
 
 **Spec Att:** rain frenzy
 

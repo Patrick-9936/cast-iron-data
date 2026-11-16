@@ -22,7 +22,7 @@ hp = "337~22d10+216"
 fortitude = "+25"
 reflex = "+12"
 will = "+22"
-melee = "+2 wounding spear +32/+27/+22/+17 (3d6+17/&times&3 plus 1 bleed), +2 wounding longsword +32 (3d6+12/19-20 plus 1 bleed), +2 wounding morningstar +32 (3d6+12 plus 1 bleed) or 4 slams +30 (2d8+10)"
+melee = "+2 wounding spear +32/+27/+22/+17 (3d6+17/×3 plus 1 bleed), +2 wounding longsword +32 (3d6+12/19-20 plus 1 bleed), +2 wounding morningstar +32 (3d6+12 plus 1 bleed) or 4 slams +30 (2d8+10)"
 ranged = "2 energy bolts +21 (10d6 energy)"
 special_attacks = "cunning reflexes~multiweapon mastery~perfect prediction~wounding weapons"
 special_qualities = "perfect prediction"
@@ -80,9 +80,9 @@ rings of metal._
 
 **Speed:** fly 60 ft. (perfect)
 
-**Melee:** +2 [wounding](ref/magic-enh/wounding) spear +32/+27/+22/+17 (3d6+17/&times&3 plus 1
-bleed), +2 wounding longsword +32 (3d6+12/19-20 plus 1 bleed), +2 wounding morningstar +32 (3d6+12
-plus 1 bleed) or 4 slams +30 (2d8+10)
+**Melee:** +2 [wounding](ref/magic-enh/wounding) spear +32/+27/+22/+17 (3d6+17/×3 plus 1 bleed), +2
+wounding longsword +32 (3d6+12/19-20 plus 1 bleed), +2 wounding morningstar +32 (3d6+12 plus 1
+bleed) or 4 slams +30 (2d8+10)
 
 **Ranged:** 2 energy bolts +21 (10d6 energy)
 

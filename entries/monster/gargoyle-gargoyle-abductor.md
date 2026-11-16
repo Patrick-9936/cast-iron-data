@@ -24,7 +24,7 @@ fortitude = "+9"
 reflex = "+9"
 will = "+4; +1 vs. fear"
 melee = "bite +15 (1d6+5), 2 claws +15 (1d6+5), gore +15 (1d4+5)"
-ranged = "+1 longbow +16/+11 (1d8+2/&times&3)"
+ranged = "+1 longbow +16/+11 (1d8+2/×3)"
 special_attacks = "weapon training (bows +1)"
 special_qualities = "armor training 1, freeze"
 abilities = ["20", "18", "18", "8", "9", "7"]
@@ -77,7 +77,7 @@ innocent passers-by. Then it moves - to do just that._
 
 **Melee:** bite +15 (1d6+5), 2 claws +15 (1d6+5), gore +15 (1d4+5)
 
-**Ranged:** +1 longbow +16/+11 (1d8+2/&times&3)
+**Ranged:** +1 longbow +16/+11 (1d8+2/×3)
 
 **Spec Att:** weapon training (bows +1)
 

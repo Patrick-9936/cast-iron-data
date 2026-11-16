@@ -22,7 +22,7 @@ hp = "378~28d8+252"
 fortitude = "+18"
 reflex = "+11"
 will = "+20"
-melee = "+3 scythe +27/+22/+17/+12 (2d6+13/19-20/&times&4 plus death touch)"
+melee = "+3 scythe +27/+22/+17/+12 (2d6+13/19-20/×4 plus death touch)"
 abilities = ["24", "15", "-", "16", "19", "29"]
 +++
 
@@ -78,7 +78,7 @@ around it._
 
 **Speed:** 40 ft., fly 60 ft. (perfect)
 
-**Melee:** +3 scythe +27/+22/+17/+12 (2d6+13/19-20/&times&4 plus death touch)
+**Melee:** +3 scythe +27/+22/+17/+12 (2d6+13/19-20/×4 plus death touch)
 
 **Reach:** 15
 

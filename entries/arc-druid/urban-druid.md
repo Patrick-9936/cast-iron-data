@@ -27,8 +27,8 @@ very cradle.
 **Spontaneous Casting**
 
 **Ability:** An urban druid can channel stored spell energy into domain spells that she has not
-prepared ahead of time. She can &quot&lose&quot& a prepared spell in order to cast any domain spell
-of the same level or lower.
+prepared ahead of time. She can "lose" a prepared spell in order to cast any domain spell of the
+same level or lower.
 
 **Replaces:** Spontaneous casting
 

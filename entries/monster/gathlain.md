@@ -22,7 +22,7 @@ hp = "7~1d6+1"
 fortitude = "+0"
 reflex = "+3"
 will = "+1"
-melee = "spear +2 (1d6+1/&times&3)"
+melee = "spear +2 (1d6+1/×3)"
 special_qualities = "bloodline arcana (+2 DC for compulsion spells)"
 abilities = ["12", "16", "11", "10", "8", "17"]
 +++
@@ -65,7 +65,7 @@ _Wings composed of wood and vines grow out of the body of this lithesome fey._
 
 **Speed:** 30 ft., fly 40 ft. (poor)
 
-**Melee:** spear +2 (1d6+1/&times&3)
+**Melee:** spear +2 (1d6+1/×3)
 
 **Spell-Like Abilities**
 

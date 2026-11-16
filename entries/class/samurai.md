@@ -213,9 +213,9 @@ double move. This penalty increases to -4 while your mount is running.
 
 #### Banner (Ex) {#banner}
 
-**Choice:** Choose one of the following standards. The &quot&Original Standard&quot& refers to the
-original _banner_ ability as printed in _Ultimate Combat,_ while the other standards were introduced
-in other rulebooks.
+**Choice:** Choose one of the following standards. The "Original Standard" refers to the original
+_banner_ ability as printed in _Ultimate Combat,_ while the other standards were introduced in other
+rulebooks.
 
 **Flavor:** A samurai's banner becomes a symbol of inspiration to his allies and companions.
 

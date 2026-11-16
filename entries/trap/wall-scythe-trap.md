@@ -26,6 +26,6 @@ kind = "none"
 
 **Trigger:** location
 
-**Effect:** Atk +20 melee (2d4+6/&times&4)
+**Effect:** Atk +20 melee (2d4+6/×4)
 
 **Reset:** automatic

@@ -21,7 +21,7 @@ hp = "171~18d6+108"
 fortitude = "+12"
 reflex = "+16"
 will = "+15"
-melee = "+2 icy burst spear +18/+13 (1d8+11/19-20/&times&3)"
+melee = "+2 icy burst spear +18/+13 (1d8+11/19-20/×3)"
 special_attacks = "Rider's weapon~weal or woe (DC 24)"
 special_qualities = "conjure mount, Rider's robes"
 abilities = ["23", "20", "22", "17", "18", "21"]
@@ -72,7 +72,7 @@ battle-worn spear._
 
 **Speed:** 30 ft.
 
-**Melee:** +2 [icy burst](ref/magic-enh/icy-burst) spear +18/+13 (1d8+11/19-20/&times&3)
+**Melee:** +2 [icy burst](ref/magic-enh/icy-burst) spear +18/+13 (1d8+11/19-20/×3)
 
 **Spec Att:** Rider's weapon, weal or woe (DC 24)
 

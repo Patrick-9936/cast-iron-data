@@ -22,7 +22,7 @@ hp = "157~18d10+58"
 fortitude = "+6"
 reflex = "+5"
 will = "+8"
-melee = "warhammer +27/+22/+17/+12 (3d6+11/&times&3)"
+melee = "warhammer +27/+22/+17/+12 (3d6+11/×3)"
 special_attacks = "breath weapon~hammer storm"
 special_qualities = "ablative adaptation, defender's shield, dwarf traits (defensive training, hardy, hatred, stability, stonecunning, weapon familiarity)"
 abilities = ["32", "9", "-", "15", "14", "13"]
@@ -71,7 +71,7 @@ shield bearing Torag's symbol._
 
 **Speed:** 30 ft.
 
-**Melee:** warhammer +27/+22/+17/+12 (3d6+11/&times&3)
+**Melee:** warhammer +27/+22/+17/+12 (3d6+11/×3)
 
 **Reach:** 15
 

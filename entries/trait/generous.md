@@ -19,6 +19,6 @@ category = "Race"
 
 **Flavor:** Your neighbors gained your respect with their generosity, and you emulate their example.
 
-**Benefit:** Whenever you give to a creature a gift or service worth at least 25 gold pieces &times&
-the creature's CR, you gain a +2 trait bonus on [Bluff](ref/skill/bluff) and
+**Benefit:** Whenever you give to a creature a gift or service worth at least 25 gold pieces × the
+creature's CR, you gain a +2 trait bonus on [Bluff](ref/skill/bluff) and
 [Diplomacy](ref/skill/diplomacy) checks against that creature for the next 24 hours.

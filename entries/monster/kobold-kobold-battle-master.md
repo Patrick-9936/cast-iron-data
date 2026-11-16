@@ -23,7 +23,7 @@ hp = "57~7d10+14"
 fortitude = "+7"
 reflex = "+4"
 will = "+4; +2 bonus vs. paralysis and sleep"
-melee = "+1 lance +11/+6 (1d6+2/&times&3), mwk short sword +10/+5 (1d4+1/19-20)"
+melee = "+1 lance +11/+6 (1d6+2/×3), mwk short sword +10/+5 (1d4+1/19-20)"
 special_attacks = "banner +2/+1~cavalier's charge~challenge (+7, +2, 3/day)"
 special_qualities = "crafty, expert trainer +3, mount (cave salamander), order of the dragon (aid allies), tactician (2/day, 6 rounds, standard action)"
 abilities = ["12", "12", "12", "12", "13", "8"]
@@ -75,7 +75,7 @@ _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth,
 
 **Br Weap:** 30-ft. line, 2d6 electricity damage, Reflex DC 14 half, usable every 1d4 rounds
 
-**Melee:** +1 lance +11/+6 (1d6+2/&times&3), mwk short sword +10/+5 (1d4+1/19-20)
+**Melee:** +1 lance +11/+6 (1d6+2/×3), mwk short sword +10/+5 (1d4+1/19-20)
 
 **Spec Att:** banner +2/+1, cavalier's charge, challenge (+7, +2, 3/day)
 

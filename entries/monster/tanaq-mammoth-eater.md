@@ -23,8 +23,8 @@ hp = "312~15d8+10d8+200~25"
 fortitude = "+26"
 reflex = "+16"
 will = "+19; +4 vs. movement effects"
-melee = "bloodstone impaler +30/+25/+20/+15 (3d6+19/19-20/&times&3) or 2 slams +28 (1d8+12)"
-ranged = "rock +20 (2d6+12) or bloodstone impaler +22 (3d6+13/19-20/&times&3)"
+melee = "bloodstone impaler +30/+25/+20/+15 (3d6+19/19-20/×3) or 2 slams +28 (1d8+12)"
+ranged = "rock +20 (2d6+12) or bloodstone impaler +22 (3d6+13/19-20/×3)"
 special_attacks = "wild shape 4/day"
 special_qualities = "mountaineer, nature bond (Arctic domain), nature sense, spire walker, spirit summoning, sure-footed, wild empathy +13"
 abilities = ["35", "18", "26", "12", "21", "17"]
@@ -75,9 +75,9 @@ and blackened stone._
 
 **Speed:** 30 ft., (40 ft. without armor)
 
-**Melee:** bloodstone impaler +30/+25/+20/+15 (3d6+19/19-20/&times&3) or 2 slams +28 (1d8+12)
+**Melee:** bloodstone impaler +30/+25/+20/+15 (3d6+19/19-20/×3) or 2 slams +28 (1d8+12)
 
-**Ranged:** rock +20 (2d6+12) or bloodstone impaler +22 (3d6+13/19-20/&times&3)
+**Ranged:** rock +20 (2d6+12) or bloodstone impaler +22 (3d6+13/19-20/×3)
 
 **Reach:** 15
 

@@ -19,7 +19,7 @@ category = "Faith"
 who share your convictions automatically find themselves wanting to defer to your zealous authority,
 making you a natural leader of your faith. Unfortunately, your scorn for those who haven't yet seen
 the wisdom of converting is equally obvious, and makes you a poor ambassador or missionary to the
-&quot&ignorant masses&quot& (as you not-so secretly think of them).
+"ignorant masses" (as you not-so secretly think of them).
 
 **Benefit:** You gain a +2 bonus on [Diplomacy](ref/skill/diplomacy) and
 [Intimidate](ref/skill/intimidate) checks when dealing with adherents of your faith or philosophy,

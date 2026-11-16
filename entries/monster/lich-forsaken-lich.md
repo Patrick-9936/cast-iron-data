@@ -22,7 +22,7 @@ hp = "97~11d8+44"
 fortitude = "+7"
 reflex = "+3"
 will = "+12"
-melee = "+1 scythe +15/+10 (2d4+8/19-20/&times&4)"
+melee = "+1 scythe +15/+10 (2d4+8/19-20/×4)"
 special_attacks = "disembodied strike (1d8+5); hand of the acolyte (8/day)~soul lash (DC 19; 5d6)"
 special_qualities = "death's embrace"
 abilities = ["20", "10", "-", "13", "21", "18"]
@@ -82,7 +82,7 @@ dry, stretched skin._
 
 **Ch N En:** 9/day, DC 19, 6d6
 
-**Melee:** +1 scythe +15/+10 (2d4+8/19-20/&times&4)
+**Melee:** +1 scythe +15/+10 (2d4+8/19-20/×4)
 
 **Spec Att:** disembodied strike (1d8+5); hand of the acolyte (8/day), soul lash (DC 19; 5d6)
 

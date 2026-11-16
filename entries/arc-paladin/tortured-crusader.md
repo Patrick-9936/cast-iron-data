@@ -86,12 +86,11 @@ allies. When she selects a _divine bond,_ it must be with a weapon, not a mount.
 **Second Chance (Su)**
 
 **Ability:** Once per day, a tortured crusader can spend two uses of _lay on hands_ and choose an
-unambiguous trigger such as &quot&when I am paralyzed&quot& or &quot&when I am about to fall
-unconscious from hit point damage,&quot& as well as a _mercy_ she knows starting at 3rd level. When
-the named trigger occurs, the tortured crusader gains the benefits of a _lay on hands_ with the
-chosen _mercy_ without spending an action. This healing can prevent her from falling unconscious or
-dying. If the effect doesn't trigger, it expires the next time the tortured crusader recovers uses
-of _lay on hands._
+unambiguous trigger such as "when I am paralyzed" or "when I am about to fall unconscious from hit
+point damage," as well as a _mercy_ she knows starting at 3rd level. When the named trigger occurs,
+the tortured crusader gains the benefits of a _lay on hands_ with the chosen _mercy_ without
+spending an action. This healing can prevent her from falling unconscious or dying. If the effect
+doesn't trigger, it expires the next time the tortured crusader recovers uses of _lay on hands._
 
 **Alters:** Lay on hands, mercy
 

@@ -27,7 +27,7 @@ fortitude = "+6"
 reflex = "+4"
 will = "+4"
 melee = "rhoka sword +8 (1d8+6/18-20), bite +2 (1d4+2 plus 2 Str) or bite +7 (1d4+4 plus 2 Str)"
-ranged = "composite longbow +4 (1d8+4/&times&3)"
+ranged = "composite longbow +4 (1d8+4/×3)"
 special_qualities = "daemonic pact"
 abilities = ["19", "12", "17", "14", "13", "14"]
 +++
@@ -85,7 +85,7 @@ and ivory bones inside its body._
 
 **Melee:** rhoka sword +8 (1d8+6/18-20), bite +2 (1d4+2 plus 2 Str) or bite +7 (1d4+4 plus 2 Str)
 
-**Ranged:** composite longbow +4 (1d8+4/&times&3)
+**Ranged:** composite longbow +4 (1d8+4/×3)
 
 **Spell-Like Abilities**
 

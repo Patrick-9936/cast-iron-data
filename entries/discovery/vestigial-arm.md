@@ -25,7 +25,7 @@ The arm can manipulate or hold items as well as the alchemist's original arms (f
 the alchemist to use one hand to wield a weapon, another hand to hold a potion, and the third hand
 to throw a bomb).
 
-The arm has its own &quot&hand&quot& and &quot&ring&quot& magic item slots (though the alchemist can
-still only wear two rings and two hand magic items at a time).
+The arm has its own "hand" and "ring" magic item slots (though the alchemist can still only wear two
+rings and two hand magic items at a time).
 
 **Special:** An alchemist may take this discovery up to two times.

@@ -23,8 +23,8 @@ hp = "328~14d8+9d10+216~23"
 fortitude = "+26"
 reflex = "+17"
 will = "+13"
-melee = "+1 warhammer +27/+22/+17/+12 (2d6+12/&times&3), +1 warhammer +27/+22/+17 (2d6+12/&times&3)"
-ranged = "rock +22 (1d8+16) or +1 warhammer +24/+19 (2d6+1/&times&3)"
+melee = "+1 warhammer +27/+22/+17/+12 (2d6+12/×3), +1 warhammer +27/+22/+17 (2d6+12/×3)"
+ranged = "rock +22 (1d8+16) or +1 warhammer +24/+19 (2d6+1/×3)"
 special_attacks = "combat style (two-weapon)"
 special_qualities = "favored terrain (cold +4, forest +2), hunter's bond (companions), swift tracker, track +4, wild empathy +9, woodland stride"
 abilities = ["32", "19", "27", "12", "12", "10"]
@@ -78,10 +78,9 @@ abilities = ["32", "19", "27", "12", "12", "10"]
 
 **Fav En:** giants +2, humans +4
 
-**Melee:** +1 warhammer +27/+22/+17/+12 (2d6+12/&times&3), +1 warhammer +27/+22/+17
-(2d6+12/&times&3)
+**Melee:** +1 warhammer +27/+22/+17/+12 (2d6+12/×3), +1 warhammer +27/+22/+17 (2d6+12/×3)
 
-**Ranged:** rock +22 (1d8+16) or +1 warhammer +24/+19 (2d6+1/&times&3)
+**Ranged:** rock +22 (1d8+16) or +1 warhammer +24/+19 (2d6+1/×3)
 
 **Reach:** 10
 

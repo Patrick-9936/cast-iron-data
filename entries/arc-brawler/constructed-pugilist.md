@@ -117,7 +117,7 @@ modification.
 **Vicious Spikes**
 
 **Passive:** Long spikes protrude from the limb, causing it to deal bludgeoning and piercing damage
-and increasing its critical multiplier to &times&3.
+and increasing its critical multiplier to ×3.
 
 **Special:** A constructed pugilist who has the _vicious blades_ limb modification can't select this
 modification.

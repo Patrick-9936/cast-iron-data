@@ -22,7 +22,7 @@ fortitude = "+10"
 reflex = "+17"
 will = "+15"
 melee = "+1 longsword +14/+9 (1d8+6/19-20)"
-ranged = "+2 seeking composite longbow +18/+13 (1d8+7/19-20/&times&3)"
+ranged = "+2 seeking composite longbow +18/+13 (1d8+7/19-20/×3)"
 special_attacks = "Rider's weapon~weal or woe (DC 23)"
 special_qualities = "conjure mount, Rider's robes"
 abilities = ["20", "25", "20", "18", "21", "21"]
@@ -74,7 +74,7 @@ _A tall, handsome woman sits astride a white horse. She grips an elegant longbow
 
 **Melee:** +1 longsword +14/+9 (1d8+6/19-20)
 
-**Ranged:** +2 [seeking](ref/magic-enh/seeking) composite longbow +18/+13 (1d8+7/19-20/&times&3)
+**Ranged:** +2 [seeking](ref/magic-enh/seeking) composite longbow +18/+13 (1d8+7/19-20/×3)
 
 **Spec Att:** Rider's weapon, weal or woe (DC 23)
 

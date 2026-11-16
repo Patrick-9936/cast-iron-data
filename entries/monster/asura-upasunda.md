@@ -22,7 +22,7 @@ hp = "114~12d10+48"
 fortitude = "+12"
 reflex = "+11"
 will = "+15"
-melee = "mwk longsword +19/+14/+9 (1d8+6/19-20), mwk spear +19 (1d8+9/&times&3), mwk kukri +19 (1d4+6/18-20), 2 slams +13 (1d4+3) or 6 slams +18 (1d4+6)"
+melee = "mwk longsword +19/+14/+9 (1d8+6/19-20), mwk spear +19 (1d8+9/×3), mwk kukri +19 (1d4+6/18-20), 2 slams +13 (1d4+3) or 6 slams +18 (1d4+6)"
 special_attacks = "infused weapons~multiweapon mastery"
 abilities = ["22", "24", "19", "15", "24", "19"]
 +++
@@ -80,7 +80,7 @@ wield several exotic weapons._
 
 **Speed:** 50 ft.
 
-**Melee:** mwk longsword +19/+14/+9 (1d8+6/19-20), mwk spear +19 (1d8+9/&times&3), mwk kukri +19
+**Melee:** mwk longsword +19/+14/+9 (1d8+6/19-20), mwk spear +19 (1d8+9/×3), mwk kukri +19
 (1d4+6/18-20), 2 slams +13 (1d4+3) or 6 slams +18 (1d4+6)
 
 **Spec Att:** infused weapons, multiweapon mastery

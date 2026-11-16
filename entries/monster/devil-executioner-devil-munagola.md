@@ -23,7 +23,7 @@ hp = "150~12d10+84"
 fortitude = "+15"
 reflex = "+10"
 will = "+14"
-melee = "+1 keen battleaxe +20/+15/+10 (1d8+11/19-20/&times&3), gore +14 (1d6+3)"
+melee = "+1 keen battleaxe +20/+15/+10 (1d8+11/19-20/×3), gore +14 (1d6+3)"
 special_attacks = "enraged warrior"
 abilities = ["25", "23", "24", "14", "23", "24"]
 +++
@@ -77,7 +77,7 @@ black eyes smolder like coals._
 
 **Speed:** 30 ft., fly 40 ft. (good)
 
-**Melee:** +1 keen battleaxe +20/+15/+10 (1d8+11/19-20/&times&3), gore +14 (1d6+3)
+**Melee:** +1 keen battleaxe +20/+15/+10 (1d8+11/19-20/×3), gore +14 (1d6+3)
 
 **Spec Att:** enraged warrior
 

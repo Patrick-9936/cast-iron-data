@@ -23,7 +23,7 @@ hp = "76~8d10+32"
 fortitude = "+10"
 reflex = "+7"
 will = "+6"
-melee = "spear +11/+6 (1d8+4/&times&3 plus 1d6 fire), tail slap +6 (2d6+1 plus 1d6 fire and grab)"
+melee = "spear +11/+6 (1d8+4/×3 plus 1d6 fire), tail slap +6 (2d6+1 plus 1d6 fire and grab)"
 special_attacks = "heat"
 abilities = ["16", "13", "18", "14", "15", "13"]
 +++
@@ -75,7 +75,7 @@ blackened, fiery-red scales._
 
 **Constrict:** 2d6+4 plus 1d6 fire
 
-**Melee:** spear +11/+6 (1d8+4/&times&3 plus 1d6 fire), tail slap +6 (2d6+1 plus 1d6 fire and
+**Melee:** spear +11/+6 (1d8+4/×3 plus 1d6 fire), tail slap +6 (2d6+1 plus 1d6 fire and
 [grab](ref/umr/grab))
 
 **Reach:** 5

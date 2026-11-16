@@ -22,7 +22,7 @@ hp = "45~6d10+12"
 fortitude = "+6"
 reflex = "+5"
 will = "+5"
-melee = "greataxe +9/+4 (3d6+6/&times&3) and gore +4 (1d6+2)"
+melee = "greataxe +9/+4 (3d6+6/×3) and gore +4 (1d6+2)"
 abilities = ["19", "10", "15", "7", "10", "8"]
 +++
 
@@ -65,7 +65,7 @@ hooves as if preparing to charge._
 
 **Speed:** 30 ft.
 
-**Melee:** greataxe +9/+4 (3d6+6/&times&3) and gore +4 (1d6+2)
+**Melee:** greataxe +9/+4 (3d6+6/×3) and gore +4 (1d6+2)
 
 **Pow Ch:** gore +11, 2d6+6
 

@@ -22,9 +22,8 @@ of dirty work for him. Maybe you were abducted from your parent's home or during
 market. Perhaps the irresponsible matron who ruled your orphanage traded you to him in return for a
 desperately needed financial loan. Or perhaps you, like most of Gaedren's slaves, were merely a
 child of the street who succumbed to his promise of regular meals and a roof in return for what he
-said would be &quot&a little light work.&quot& Whatever the case, you spent several years of your
-life as one of &quot&Lamm's Lambs&quot& before escaping. You've nursed a grudge against the old man
-ever since.
+said would be "a little light work." Whatever the case, you spent several years of your life as one
+of "Lamm's Lambs" before escaping. You've nursed a grudge against the old man ever since.
 
 **Benefit:** Choose one of the following benefits.
 

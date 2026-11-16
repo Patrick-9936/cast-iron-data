@@ -23,7 +23,7 @@ hp = "400~32d8+256"
 fortitude = "+26"
 reflex = "+29"
 will = "+32"
-melee = "+5 keen adamantine scythe +40/+40/+35/+30/+25 (2d4+18/19-20/&times&4 plus death strike and energy drain)"
+melee = "+5 keen adamantine scythe +40/+40/+35/+30/+25 (2d4+18/19-20/×4 plus death strike and energy drain)"
 special_attacks = "death strike (DC 34)~final death"
 abilities = ["29", "30", "-", "15", "23", "26"]
 +++
@@ -80,8 +80,8 @@ _One bleached-bone hand of this robed, skeletal figure grasps a massive, curved 
 
 **E Drain:** 2 levels, DC 34
 
-**Melee:** +5 keen adamantine scythe +40/+40/+35/+30/+25 (2d4+18/19-20/&times&4 plus death strike
-and energy drain)
+**Melee:** +5 keen adamantine scythe +40/+40/+35/+30/+25 (2d4+18/19-20/×4 plus death strike and
+energy drain)
 
 **Spec Att:** death strike (DC 34), final death
 

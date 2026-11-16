@@ -23,7 +23,7 @@ hp = "615~30d8+480"
 fortitude = "+25"
 reflex = "+15"
 will = "+27"
-melee = "4 slams +33 (4d12+27/19-20/&times&3 plus energy drain)"
+melee = "4 slams +33 (4d12+27/19-20/×3 plus energy drain)"
 special_attacks = "gravitic control~hurl foe~serpent arms"
 special_qualities = "kaiju traits, massive, powerful blows, recovery"
 abilities = ["47", "21", "-", "6", "31", "40"]
@@ -89,7 +89,7 @@ arms move with supple grace._
 
 **E Drain:** 1 level, DC 40
 
-**Melee:** 4 slams +33 (4d12+27/19-20/&times&3 plus energy drain)
+**Melee:** 4 slams +33 (4d12+27/19-20/×3 plus energy drain)
 
 **Reach:** 60
 

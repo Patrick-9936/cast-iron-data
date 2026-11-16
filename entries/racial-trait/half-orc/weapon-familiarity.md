@@ -16,5 +16,5 @@ kind = "racial_trait"
 alternate = false
 +++
 
-Half-orcs are proficient with greataxes and falchions, and treat any weapon with the word
-&quot&orc&quot& in its name as a martial weapon.
+Half-orcs are proficient with greataxes and falchions, and treat any weapon with the word "orc" in
+its name as a martial weapon.

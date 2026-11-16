@@ -24,7 +24,7 @@ fortitude = "+19"
 reflex = "+6"
 will = "+11"
 melee = "+1 greatclub +21/+16/+11 (2d8+14)"
-ranged = "longbow +10/+5/+0 (2d6/&times&3)"
+ranged = "longbow +10/+5/+0 (2d6/×3)"
 special_attacks = "destructive +2~rage (20 rounds/day)~rage powers (smasher, strength surge +4)"
 special_qualities = "battle scavenger, flash of insight"
 abilities = ["29", "10", "23", "8", "16", "8"]
@@ -77,7 +77,7 @@ a terrible club._
 
 **Melee:** +1 greatclub +21/+16/+11 (2d8+14)
 
-**Ranged:** longbow +10/+5/+0 (2d6/&times&3)
+**Ranged:** longbow +10/+5/+0 (2d6/×3)
 
 **Reach:** 10
 

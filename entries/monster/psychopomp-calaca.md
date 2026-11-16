@@ -23,7 +23,7 @@ fortitude = "+7"
 reflex = "+10"
 will = "+11"
 melee = "2 slams +11 (1d8)"
-ranged = "+14 (1d8/&times&4)"
+ranged = "+14 (1d8/×4)"
 special_attacks = "bardic performance~show stopper"
 special_qualities = "antique weapon, spirit touch"
 abilities = ["10", "17", "17", "16", "15", "19"]
@@ -76,7 +76,7 @@ creature's face is hidden by an intricately decorated skull mask._
 
 **Melee:** 2 slams +11 (1d8)
 
-**Ranged:** +14 (1d8/&times&4)
+**Ranged:** +14 (1d8/×4)
 
 **Spec Att:** bardic performance, show stopper
 

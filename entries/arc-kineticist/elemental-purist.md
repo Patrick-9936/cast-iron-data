@@ -32,8 +32,8 @@ ability.
 **Elemental Impossibility (Su)**
 
 **Ability:** An elemental purist learns one composite blast as if she had an _expanded element_ that
-matched her primary [element](ref/ability/elements). In addition, she learns one &quot&impossible
-infusion&quot& - a form infusion or substance infusion that does not need to be associated with her
+matched her primary [element](ref/ability/elements). In addition, she learns one "impossible
+infusion" - a form infusion or substance infusion that does not need to be associated with her
 primary element's type. If the infusion can be applied to her kinetic blasts normally, she can use
 it as normal. If the infusion is not an associated infusion, she can accept 1 point of burn as a
 **free action** to enter a state of _elemental impossibility_ for one minute. This burn cannot be

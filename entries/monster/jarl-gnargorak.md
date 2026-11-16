@@ -23,7 +23,7 @@ fortitude = "+34"
 reflex = "+26"
 will = "+19; +2 vs. fire-based effects"
 melee = "Winter's Heart +41/+36/+31/+26 (2d8+25/17-20 plus 1d6 cold)"
-ranged = "+5 seeking composite longbow +33/+28/+23/+18 (2d6+18/19-20/&times&3) or rock +28 (1d8+19)"
+ranged = "+5 seeking composite longbow +33/+28/+23/+18 (2d6+18/19-20/×3) or rock +28 (1d8+19)"
 special_attacks = "fight on~inspiring assault~marshal's order (advance, decisive strike)~menacing presence~mythic bond~mythic presence~press the advantage"
 special_qualities = "additional order, amazing initiative, camouflage, evasion, exceptional wealth, favored terrain (cold +4, mountain +2), hunter's bond (companions), pierce the darkness, quarry, recuperation, swift tracker, track +6, wild empathy +16, woodland stride"
 abilities = ["37", "24", "34", "12", "18", "18"]
@@ -86,8 +86,7 @@ humanoid has a regal presence._
 
 **Melee:** Winter's Heart +41/+36/+31/+26 (2d8+25/17-20 plus 1d6 cold)
 
-**Ranged:** +5 seeking composite longbow +33/+28/+23/+18 (2d6+18/19-20/&times&3) or rock +28
-(1d8+19)
+**Ranged:** +5 seeking composite longbow +33/+28/+23/+18 (2d6+18/19-20/×3) or rock +28 (1d8+19)
 
 **Reach:** 10
 

@@ -23,8 +23,8 @@ hp = "36~2d10+1d12+13~3"
 fortitude = "+7"
 reflex = "+6"
 will = "+5"
-melee = "mwk harpoon +8 (1d8+6/&times&3), bite +2 (1d4+2)"
-ranged = "mwk harpoon +6 (1d8+4/&times&3)"
+melee = "mwk harpoon +8 (1d8+6/×3), bite +2 (1d4+2)"
+ranged = "mwk harpoon +6 (1d8+4/×3)"
 special_attacks = "blood frenzy~rage (8 rounds/day)"
 special_qualities = "fast movement"
 abilities = ["19", "15", "18", "12", "13", "10"]
@@ -75,9 +75,9 @@ piscine head features a toothy maw._
 
 **Speed:** 40 ft., swim 60 ft.
 
-**Melee:** mwk harpoon +8 (1d8+6/&times&3), bite +2 (1d4+2)
+**Melee:** mwk harpoon +8 (1d8+6/×3), bite +2 (1d4+2)
 
-**Ranged:** mwk harpoon +6 (1d8+4/&times&3)
+**Ranged:** mwk harpoon +6 (1d8+4/×3)
 
 **Spec Att:** [blood frenzy](ref/monster/sahuagin), rage (8 rounds/day)
 

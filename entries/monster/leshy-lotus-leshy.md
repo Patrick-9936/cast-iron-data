@@ -24,7 +24,7 @@ fortitude = "+8"
 reflex = "+4"
 will = "+6"
 melee = "slam +8 (1d4)"
-ranged = "seed spray +8 (1d3 nonlethal/&times&3 plus dream pollen)"
+ranged = "seed spray +8 (1d3 nonlethal/×3 plus dream pollen)"
 special_attacks = "dream pollen~seed spray"
 special_qualities = "change shape (small lotus flower; tree shape), verdant burst"
 abilities = ["10", "15", "16", "16", "19", "15"]
@@ -74,7 +74,7 @@ _A plant whose body resembles a blooming lotus flower exudes an air of serenity.
 
 **Melee:** slam +8 (1d4)
 
-**Ranged:** seed spray +8 (1d3 nonlethal/&times&3 plus dream pollen)
+**Ranged:** seed spray +8 (1d3 nonlethal/×3 plus dream pollen)
 
 **Sp Extra:** lily pad stride
 

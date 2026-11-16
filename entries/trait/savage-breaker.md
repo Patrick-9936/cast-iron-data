@@ -24,4 +24,4 @@ category = "Regional"
 [klars](ref/eq-armor/klar), [hide](ref/eq-armor/hide) armor, primitive armor and weapons (those made
 of [bone](ref/eq-material/bone), [bronze](ref/eq-material/bronze), [glass](ref/eq-material/glass),
 [gold](ref/eq-material/gold), [obsidian](ref/eq-material/obsidian), or
-[stone](ref/eq-material/stone)), and any other equipment the GM deems &quot&barbarian-made.&quot&
+[stone](ref/eq-material/stone)), and any other equipment the GM deems "barbarian-made."

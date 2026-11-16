@@ -51,8 +51,8 @@ your bloodline's origin, you have a great future ahead.
 
 **Bloodline Arcana**
 
-**Passive:** Whenever you cast a spell with a range of &quot&personal,&quot& you gain a luck bonus
-equal to the spell's level on all your saving throws for 1 round.
+**Passive:** Whenever you cast a spell with a range of "personal," you gain a luck bonus equal to
+the spell's level on all your saving throws for 1 round.
 
 ### Bloodline Powers
 

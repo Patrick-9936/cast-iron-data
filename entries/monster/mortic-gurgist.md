@@ -23,7 +23,7 @@ fortitude = "+10"
 reflex = "+6"
 will = "+5"
 melee = "mwk dagger +10/+5 (1d4+4/19-20), mwk dagger +10/+5 (1d4+2/19-20) or mwk dagger +12/+7 (1d4+4/19-20)"
-ranged = "mwk longbow +10/+5 (1d8/&times&3)"
+ranged = "mwk longbow +10/+5 (1d8/×3)"
 special_attacks = "ferocious rush~sneak attack +3d6"
 special_qualities = "obsession skill, unliving nature"
 abilities = ["18", "17", "18", "17", "14", "7"]
@@ -79,7 +79,7 @@ magnificent mask of painted wood and feathers. Bruises and sores cover her skin.
 **Melee:** mwk dagger +10/+5 (1d4+4/19-20), mwk dagger +10/+5 (1d4+2/19-20) or mwk dagger +12/+7
 (1d4+4/19-20)
 
-**Ranged:** mwk longbow +10/+5 (1d8/&times&3)
+**Ranged:** mwk longbow +10/+5 (1d8/×3)
 
 **Spec Att:** ferocious rush, [sneak attack](ref/ability/sneak-attack) +3d6
 

@@ -23,11 +23,11 @@ lingered at death's door in a coma for weeks before waking. Ever since then, you
 hale and hearty, as if your body had endured its brush with awfulness by becoming supernaturally
 fit. But still, the scars (whether physical or purely mental) of your brush with death remain, and
 nightmares of what could have happened often plague your sleep. Something, be it your own personal
-force of will, some strange &quot&infection&quot& from the assault, or perhaps a combination of
-both, has made you stronger than before. You're not sure what to make of the theories that you
-survived this exposure to awfulness because you yourself have some trace of demonic heritage that
-helped give you the advantage you needed to survive; but whatever it was, you're glad for it! Your
-strange resistance to demonic attacks persists to this day.
+force of will, some strange "infection" from the assault, or perhaps a combination of both, has made
+you stronger than before. You're not sure what to make of the theories that you survived this
+exposure to awfulness because you yourself have some trace of demonic heritage that helped give you
+the advantage you needed to survive; but whatever it was, you're glad for it! Your strange
+resistance to demonic attacks persists to this day.
 
 **Benefit:** Once per day when you fail a saving throw against an effect created by a
 [demon](ref/family/demon) that would kill or physically incapacitate you, you can immediately reroll

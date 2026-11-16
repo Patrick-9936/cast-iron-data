@@ -24,7 +24,7 @@ fortitude = "+2"
 reflex = "+6"
 will = "+4; +4 vs. poison"
 melee = "mwk longsword +5 (1d8+2/19-20), mwk short sword +5 (1d6+1/19-20)"
-ranged = "shortbow +6 (1d6/&times&3)"
+ranged = "shortbow +6 (1d6/×3)"
 abilities = ["14", "15", "12", "13", "10", "9"]
 +++
 
@@ -78,7 +78,7 @@ figure's stealthy appearance._
 
 **Melee:** mwk longsword +5 (1d8+2/19-20), mwk short sword +5 (1d6+1/19-20)
 
-**Ranged:** shortbow +6 (1d6/&times&3)
+**Ranged:** shortbow +6 (1d6/×3)
 
 **Sneak:** +1d6
 

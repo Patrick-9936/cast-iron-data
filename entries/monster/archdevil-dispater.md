@@ -22,7 +22,7 @@ hp = "643~33d10+462"
 fortitude = "+29"
 reflex = "+31"
 will = "+34; +8 vs. mind-affecting effects"
-melee = "The Eclipsing Eye +49/+44/+39/+34 (2d6+22/19-20/&times&3), gore +39 (2d6+6)"
+melee = "The Eclipsing Eye +49/+44/+39/+34 (2d6+22/19-20/×3), gore +39 (2d6+6)"
 special_attacks = "caustic wit~mortal gaze"
 special_qualities = "change shape (any humanoid; alter self), lord of iron, voice of command"
 abilities = ["34", "29", "38", "33", "30", "33"]
@@ -82,7 +82,7 @@ petrification, poison
 
 **Speed:** 50 ft., fly 60 ft. (good)
 
-**Melee:** The Eclipsing Eye +49/+44/+39/+34 (2d6+22/19-20/&times&3), gore +39 (2d6+6)
+**Melee:** The Eclipsing Eye +49/+44/+39/+34 (2d6+22/19-20/×3), gore +39 (2d6+6)
 
 **Reach:** 10
 

@@ -27,7 +27,7 @@ fortitude = "+7"
 reflex = "+6"
 will = "+10"
 melee = "longsword +11/+6 (1d8 force/19-20 plus 2d6 negative energy and despair), light shield +13 (1d3 force plus 2d6 negative energy and despair)"
-ranged = "longbow +11/+6 (1d8 force/&times&3 plus 2d6 negative energy and despair)"
+ranged = "longbow +11/+6 (1d8 force/×3 plus 2d6 negative energy and despair)"
 special_attacks = "agent of despair~curse of the unburied~phantom armaments~touch of the grave"
 special_qualities = "Common"
 abilities = ["-", "16", "-", "13", "17", "18"]
@@ -89,7 +89,7 @@ armor and weapons seem quite solid._
 **Melee:** longsword +11/+6 (1d8 force/19-20 plus 2d6 negative energy and despair), light shield +13
 (1d3 force plus 2d6 negative energy and despair)
 
-**Ranged:** longbow +11/+6 (1d8 force/&times&3 plus 2d6 negative energy and despair)
+**Ranged:** longbow +11/+6 (1d8 force/×3 plus 2d6 negative energy and despair)
 
 **Spec Att:** agent of despair, curse of the unburied, phantom armaments, touch of the grave
 

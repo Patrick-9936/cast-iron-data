@@ -355,7 +355,7 @@ of their artistic brethren.
 **Modifies or Replaces:** Fascinate; Dirge of Doom; Frightening Tune; Versatile Performance
 
 **Description:** Argent voices are agents of the Silver Ravens that dedicate themselves to the study
-of the magical performance are known as the &quot&Song of Silver&quot&.
+of the magical performance are known as the "Song of Silver".
 
 **Arrowsong Minstrel**
 

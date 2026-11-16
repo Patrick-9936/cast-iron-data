@@ -46,9 +46,8 @@ general vigilante talents.
 
 **Elven Weapon Command (Ex)**
 
-**Ability:** The half-elf double scion treats any weapon with the word &quot&elven&quot& in its name
-as a martial weapon, and gains [Weapon Focus](ref/feat/weapon-focus) as a bonus feat for one such
-weapon.
+**Ability:** The half-elf double scion treats any weapon with the word "elven" in its name as a
+martial weapon, and gains [Weapon Focus](ref/feat/weapon-focus) as a bonus feat for one such weapon.
 
 **Flavor:** A half-elf double scion can wield traditional elven weapons as well as elves can.
 

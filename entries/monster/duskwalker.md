@@ -24,7 +24,7 @@ fortitude = "+3"
 reflex = "+5"
 will = "+2; +2 vs. negative energy and death effects"
 melee = "dagger +2 (1d4+1/19-20)"
-ranged = "composite longbow +4 (1d8+1/&times&3)"
+ranged = "composite longbow +4 (1d8+1/×3)"
 special_attacks = "ghost hunter"
 special_qualities = "track +1, wild empathy +0"
 abilities = ["13", "17", "12", "10", "14", "8"]
@@ -77,7 +77,7 @@ with small bones._
 
 **Melee:** dagger +2 (1d4+1/19-20)
 
-**Ranged:** composite longbow +4 (1d8+1/&times&3)
+**Ranged:** composite longbow +4 (1d8+1/×3)
 
 **Spec Att:** ghost hunter
 

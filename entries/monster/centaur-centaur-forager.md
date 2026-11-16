@@ -23,7 +23,7 @@ fortitude = "+8"
 reflex = "+10"
 will = "+8"
 melee = "greatsword +10/+5 (2d6+6/19-20), 2 hooves +5 (1d6+2)"
-ranged = "mwk composite longbow +10/+5 (1d8+4/&times&3)"
+ranged = "mwk composite longbow +10/+5 (1d8+4/×3)"
 special_attacks = "combat style (archery)"
 special_qualities = "favored terrain (forest +2), track +1, undersized weapons, wild empathy +3"
 abilities = ["19", "16", "19", "11", "16", "10"]
@@ -72,7 +72,7 @@ enough to suit her powerful frame, hang from her body._
 
 **Melee:** greatsword +10/+5 (2d6+6/19-20), 2 hooves +5 (1d6+2)
 
-**Ranged:** mwk composite longbow +10/+5 (1d8+4/&times&3)
+**Ranged:** mwk composite longbow +10/+5 (1d8+4/×3)
 
 **Reach:** 5
 

@@ -24,7 +24,7 @@ fortitude = "+3"
 reflex = "+5"
 will = "+0"
 melee = "longsword +3 (1d8+2/19-20)"
-ranged = "longbow +5 (1d8/&times&3)"
+ranged = "longbow +5 (1d8/×3)"
 special_qualities = "cat's luck, sprinter, track +1, wild empathy +2"
 abilities = ["14", "17", "12", "8", "11", "12"]
 +++
@@ -74,7 +74,7 @@ curiosity and mischief._
 
 **Melee:** longsword +3 (1d8+2/19-20)
 
-**Ranged:** longbow +5 (1d8/&times&3)
+**Ranged:** longbow +5 (1d8/×3)
 
 **Statistics**
 

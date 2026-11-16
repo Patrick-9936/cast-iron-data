@@ -24,7 +24,7 @@ fortitude = "+3"
 reflex = "+2"
 will = "-1"
 melee = "short sword +2 (1d4/19-20)"
-ranged = "short bow +4 (1d4/&times&3)"
+ranged = "short bow +4 (1d4/×3)"
 abilities = ["11", "15", "12", "10", "9", "6"]
 +++
 
@@ -71,7 +71,7 @@ ungainly head._
 
 **Melee:** short sword +2 (1d4/19-20)
 
-**Ranged:** short bow +4 (1d4/&times&3)
+**Ranged:** short bow +4 (1d4/×3)
 
 **Statistics**
 

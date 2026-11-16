@@ -22,7 +22,7 @@ hp = "172~15d10+90"
 fortitude = "+16"
 reflex = "+13"
 will = "+11; +4 vs. poison, +4 resistance vs. evil"
-melee = "+2 disruption warhammer +26/+21/+16 (1d8+14/&times&3 plus stun) or slam +23 (1d8+12)"
+melee = "+2 disruption warhammer +26/+21/+16 (1d8+14/×3 plus stun) or slam +23 (1d8+12)"
 special_qualities = "change shape (alter self)"
 abilities = ["26", "19", "21", "18", "18", "23"]
 +++
@@ -78,7 +78,7 @@ difficult to look directly at._
 
 **Speed:** 50 ft., fly 100 ft. (good)
 
-**Melee:** +2 disruption warhammer +26/+21/+16 (1d8+14/&times&3 plus stun) or slam +23 (1d8+12)
+**Melee:** +2 disruption warhammer +26/+21/+16 (1d8+14/×3 plus stun) or slam +23 (1d8+12)
 
 **Spell-Like Abilities**
 

@@ -23,7 +23,7 @@ fortitude = "+8"
 reflex = "+10"
 will = "+4"
 melee = "sting +9 (1d6+1 plus blacklight)"
-ranged = "2 light rays +13 (1d6/&times&4 plus blacklight)"
+ranged = "2 light rays +13 (1d6/×4 plus blacklight)"
 special_attacks = "blacklight~light ray"
 special_qualities = "corrupt light"
 abilities = ["12", "21", "16", "5", "14", "17"]
@@ -73,7 +73,7 @@ _The stinger and antennae of this dog-sized wasp pulsate with a dim, violet ligh
 
 **Melee:** sting +9 (1d6+1 plus blacklight)
 
-**Ranged:** 2 light rays +13 (1d6/&times&4 plus blacklight)
+**Ranged:** 2 light rays +13 (1d6/×4 plus blacklight)
 
 **Spec Att:** blacklight, light ray
 

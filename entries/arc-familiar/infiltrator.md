@@ -35,8 +35,8 @@ providing that feat to its master.
 
 **Alters:** Share spells
 
-**Passive:** An infiltrator can share only divination spells that have a target of &quot&you&quot&
-via this ability.
+**Passive:** An infiltrator can share only divination spells that have a target of "you" via this
+ability.
 
 **Uncanny Stealth (Ex)**
 

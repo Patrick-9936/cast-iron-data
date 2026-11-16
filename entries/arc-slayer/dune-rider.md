@@ -58,9 +58,9 @@ and damage rolls.
 
 **Gained:** At 8th Level
 
-**Passive:** He exists comfortably in hot conditions up to 140&deg& Fahrenheit without having to
-attempt Fortitude saves. His equipment is likewise protected. He takes no penalties on Perception
-checks from blowing sand, dust, or heat shimmers, nor do these effects grant
+**Passive:** He exists comfortably in hot conditions up to 140° Fahrenheit without having to attempt
+Fortitude saves. His equipment is likewise protected. He takes no penalties on Perception checks
+from blowing sand, dust, or heat shimmers, nor do these effects grant
 [concealment](ref/rule/concealment) to the dune rider's enemies within 30 feet. Effects that would
 grant total concealment work normally.
 

@@ -23,8 +23,8 @@ hp = "38~2d8+3d10+13~5"
 fortitude = "+9"
 reflex = "+6"
 will = "+3"
-melee = "spear +8 (1d8+6/&times&3)"
-ranged = "mwk composite longbow +8 (1d8+4/&times&3)"
+melee = "spear +8 (1d8+6/×3)"
+ranged = "mwk composite longbow +8 (1d8+4/×3)"
 special_attacks = "combat style (archery)"
 special_qualities = "favored terrain (desert +2), track +1, wild empathy +1"
 abilities = ["18", "15", "15", "8", "12", "6"]
@@ -69,9 +69,9 @@ abilities = ["18", "15", "15", "8", "12", "6"]
 
 **Fav En:** humans +2
 
-**Melee:** spear +8 (1d8+6/&times&3)
+**Melee:** spear +8 (1d8+6/×3)
 
-**Ranged:** mwk composite longbow +8 (1d8+4/&times&3)
+**Ranged:** mwk composite longbow +8 (1d8+4/×3)
 
 **Spec Att:** combat style (archery)
 

@@ -22,7 +22,7 @@ hp = "45~7d6+21"
 fortitude = "+5"
 reflex = "+7"
 will = "+6"
-melee = "2 claws +8 (1d4+4 plus grab) or handaxe +7 (1d6+6/&times&3)"
+melee = "2 claws +8 (1d4+4 plus grab) or handaxe +7 (1d6+6/×3)"
 special_attacks = "bag prey"
 special_qualities = "fat extractor"
 abilities = ["19", "14", "16", "15", "12", "17"]
@@ -67,7 +67,7 @@ bloodstained burlap sack hangs over its shoulder._
 
 **Speed:** 40 ft.
 
-**Melee:** 2 claws +8 (1d4+4 plus [grab](ref/umr/grab)) or handaxe +7 (1d6+6/&times&3)
+**Melee:** 2 claws +8 (1d4+4 plus [grab](ref/umr/grab)) or handaxe +7 (1d6+6/×3)
 
 **Spec Att:** bag prey
 

@@ -23,8 +23,8 @@ hp = "24~3d10+3"
 fortitude = "+4"
 reflex = "+5"
 will = "+0 (+1 vs. fear)"
-melee = "mwk horsechopper +7 (1d8+1/&times&3)"
-ranged = "mwk composite shortbow +9 (1d4+1/&times&3)"
+melee = "mwk horsechopper +7 (1d8+1/×3)"
+ranged = "mwk composite shortbow +9 (1d4+1/×3)"
 special_qualities = "armor training 1"
 abilities = ["13", "18", "13", "10", "8", "10"]
 +++
@@ -69,9 +69,9 @@ abilities = ["13", "18", "13", "10", "8", "10"]
 
 **Speed:** 30 ft.
 
-**Melee:** mwk horsechopper +7 (1d8+1/&times&3)
+**Melee:** mwk horsechopper +7 (1d8+1/×3)
 
-**Ranged:** mwk composite shortbow +9 (1d4+1/&times&3)
+**Ranged:** mwk composite shortbow +9 (1d4+1/×3)
 
 **Statistics**
 

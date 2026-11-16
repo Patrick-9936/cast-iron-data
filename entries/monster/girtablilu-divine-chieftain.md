@@ -21,8 +21,8 @@ hp = "240~10d8+10d10+140~20"
 fortitude = "+19"
 reflex = "+14"
 will = "+21; +2 vs. gaze attacks and figment and pattern illusions"
-melee = "+1 spear +23/+18/+13/+8 (2d6+10/&times&3), 2 claws +21 (1d6+3 plus grab), sting +21 (1d6+3 plus poison)"
-ranged = "mwk sling +19/+14/+9/+4 (1d4+6) or +1 spear +19 (2d6+10/&times&3)"
+melee = "+1 spear +23/+18/+13/+8 (2d6+10/×3), 2 claws +21 (1d6+3 plus grab), sting +21 (1d6+3 plus poison)"
+ranged = "mwk sling +19/+14/+9/+4 (1d4+6) or +1 spear +19 (2d6+10/×3)"
 special_attacks = "poison (DC 27)~wild shape 4/day"
 special_qualities = "desert endurance, desert native +5, nature bond (Ruins domain), nature sense, sandwalker, scorpion empathy +20, shaded vision, undersized weapons, wild empathy +13"
 abilities = ["22", "14", "25", "12", "20", "16"]
@@ -72,10 +72,10 @@ _This authoritative, scorpion-bodied woman is bedecked with amulets and other re
 
 **Constrict:** 1d6+5
 
-**Melee:** +1 spear +23/+18/+13/+8 (2d6+10/&times&3), 2 claws +21 (1d6+3 plus [grab](ref/umr/grab)),
-sting +21 (1d6+3 plus poison)
+**Melee:** +1 spear +23/+18/+13/+8 (2d6+10/×3), 2 claws +21 (1d6+3 plus [grab](ref/umr/grab)), sting
++21 (1d6+3 plus poison)
 
-**Ranged:** mwk sling +19/+14/+9/+4 (1d4+6) or +1 spear +19 (2d6+10/&times&3)
+**Ranged:** mwk sling +19/+14/+9/+4 (1d4+6) or +1 spear +19 (2d6+10/×3)
 
 **Reach:** 10
 

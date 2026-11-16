@@ -34,10 +34,9 @@ parallel event in your own PC's history, creating a shared misery or memory with
 that you've met someone else who had a similar event in their past has bolstered your own resolve,
 and has granted you a +1 trait bonus to the saving throw determined by the question you select.
 
-- &quot&What happened to your parents?&quot&: Grants a +1 trait bonus to Fortitude saving throws.
-- &quot&Where did you grow up?&quot&: Grants a +1 trait bonus to Reflex saving throws.
-- &quot&What historical figure inspired you the most?&quot&: Grants a +1 trait bonus to Will saving
-  throws.
+- "What happened to your parents?": Grants a +1 trait bonus to Fortitude saving throws.
+- "Where did you grow up?": Grants a +1 trait bonus to Reflex saving throws.
+- "What historical figure inspired you the most?": Grants a +1 trait bonus to Will saving throws.
 
 Once per adventure as a **standard action**, you may concentrate on the bond you and Audrahni share.
 The strong emotions brought on by these memories bolster your desire to forge ahead and remain

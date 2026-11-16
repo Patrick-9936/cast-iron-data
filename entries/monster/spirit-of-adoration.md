@@ -23,7 +23,7 @@ hp = "189~18d10+90"
 fortitude = "+17"
 reflex = "+21"
 will = "+25"
-melee = "+2 dancing glaive +24/+19/+14/+9 (2d8+8/&times&3)"
+melee = "+2 dancing glaive +24/+19/+14/+9 (2d8+8/×3)"
 ranged = "stunning bolt +21 (1d8 plus stun)"
 special_qualities = "bardic magic, change shape (Small or Medium humanoid; alter self), inspiration, unearthly grace"
 abilities = ["18", "19", "20", "19", "22", "23"]
@@ -81,7 +81,7 @@ the air around her with swirls and flourishes of magical energy._
 
 **Speed:** 40 ft., fly 60 ft. (good)
 
-**Melee:** +2 dancing glaive +24/+19/+14/+9 (2d8+8/&times&3)
+**Melee:** +2 dancing glaive +24/+19/+14/+9 (2d8+8/×3)
 
 **Ranged:** stunning bolt +21 (1d8 plus stun)
 

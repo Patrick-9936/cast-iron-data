@@ -22,7 +22,7 @@ hp = "15~2d10+4"
 fortitude = "+4"
 reflex = "+6"
 will = "+4"
-melee = "1 spear +4 (1d8+3/&times&3)"
+melee = "1 spear +4 (1d8+3/×3)"
 ranged = "1 light crossbow +5 (1d8/19-20)"
 special_attacks = "blood frenzy"
 abilities = ["14", "17", "14", "14", "13", "13"]
@@ -68,7 +68,7 @@ _A predatory gleam glints in the eyes of this stern-looking aquatic elf._
 
 **Speed:** 30 ft., swim 60 ft.
 
-**Melee:** 1 spear +4 (1d8+3/&times&3)
+**Melee:** 1 spear +4 (1d8+3/×3)
 
 **Ranged:** 1 light crossbow +5 (1d8/19-20)
 

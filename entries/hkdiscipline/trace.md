@@ -20,8 +20,8 @@ mile and on the same plane. She also learns the direction the creature is curren
 This effect lasts for 10 minutes per character level.
 
 **Special:** An object can be used as the focus for this ability only once. For the purposes of this
-ability, a &quot&personal belonging&quot& is any object a creature owned or carried with it for more
-than a week.
+ability, a "personal belonging" is any object a creature owned or carried with it for more than a
+week.
 
 If the target is under the effects of [nondetection](ref/spell/nondetection) or a similar spell or
 effect, or is on a different plane, this ability gives no result.

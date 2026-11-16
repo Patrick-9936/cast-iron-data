@@ -27,7 +27,7 @@ fortitude = "+15"
 reflex = "+6"
 will = "+20"
 melee = "mwk longsword +27/+22/+17 (4d6+22/17-20) or 2 slams +26 (2d6+15)"
-ranged = "mwk spear +12/+7/+2 (4d6+15/&times&3)"
+ranged = "mwk spear +12/+7/+2 (4d6+15/×3)"
 special_attacks = "command giants~runes~spark shower"
 abilities = ["41", "11", "28", "14", "23", "18"]
 +++
@@ -74,7 +74,7 @@ _This giant's skin is black and pitted, like roughly cast iron, and etched with 
 
 **Melee:** mwk longsword +27/+22/+17 (4d6+22/17-20) or 2 slams +26 (2d6+15)
 
-**Ranged:** mwk spear +12/+7/+2 (4d6+15/&times&3)
+**Ranged:** mwk spear +12/+7/+2 (4d6+15/×3)
 
 **Reach:** 20
 

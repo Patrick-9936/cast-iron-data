@@ -23,7 +23,7 @@ fortitude = "+2"
 reflex = "+6"
 will = "+5"
 melee = "dagger +4 (1d4+2/19-20)"
-ranged = "shortbow +4 (1d6/&times&3)"
+ranged = "shortbow +4 (1d6/×3)"
 special_attacks = "panpipes"
 abilities = ["14", "16", "13", "11", "14", "17"]
 +++
@@ -69,7 +69,7 @@ and curling horns on his head._
 
 **Melee:** dagger +4 (1d4+2/19-20)
 
-**Ranged:** shortbow +4 (1d6/&times&3)
+**Ranged:** shortbow +4 (1d6/×3)
 
 **Spec Att:** panpipes
 

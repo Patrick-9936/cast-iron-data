@@ -186,9 +186,9 @@ to evade capture, then return later to help free its friends.
 **D C:** 20
 
 **Trick:** With this trick, a trainer can designate a number of creatures up to the animal's
-Intelligence score as &quot&help.&quot& When the command is given, the animal attempts to find one
-of those people and bring her back to the handler, even if that means journeying a long distance to
-the last place it encountered the target creature.
+Intelligence score as "help." When the command is given, the animal attempts to find one of those
+people and bring her back to the handler, even if that means journeying a long distance to the last
+place it encountered the target creature.
 
 **Guard**
 
@@ -212,8 +212,8 @@ assist Survival checks made by its handler for these purposes.
 **Trick:** This trick allows an animal to use its natural stalking or foraging instincts to find
 food and return it to the animal's handler. An animal with this trick may attempt
 [Survival](ref/skill/survival) checks (or Wisdom checks if the animal has no ranks in Survival) to
-provide food for others or lead them to water and shelter (as the &quot&get along in the wild&quot&
-use of the Survival skill).
+provide food for others or lead them to water and shelter (as the "get along in the wild" use of the
+Survival skill).
 
 **Menace**
 
@@ -324,8 +324,8 @@ tricks. You can order it to steal a specific item you point out.
 
 **Combat Training**
 
-**Special:** You may also &quot&upgrade&quot& an animal trained for riding to one trained for combat
-by spending 3 weeks and making a successful DC 20 Handle Animal check. The new general purpose and
+**Special:** You may also "upgrade" an animal trained for riding to one trained for combat by
+spending 3 weeks and making a successful DC 20 Handle Animal check. The new general purpose and
 tricks completely replace the animal's previous purpose and any tricks it once knew. Many horses and
 riding dogs are trained in this way.
 

@@ -24,7 +24,7 @@ fortitude = "+13"
 reflex = "+11"
 will = "+6"
 melee = "+1 scimitar +15/+10 (1d6+5/18-20)"
-ranged = "+1 composite longbow +15/+10 (1d8+5/&times&3)"
+ranged = "+1 composite longbow +15/+10 (1d8+5/×3)"
 special_attacks = "combat style (archery)~hunter's tricks 5/day (aiding attack, hateful attack, trick shot)"
 special_qualities = "favored terrain (desert +4, jungle +2), hunter's bond (companions), swift tracker, track +4, wild empathy +7, woodland stride"
 abilities = ["18", "17", "15", "10", "13", "6"]
@@ -73,7 +73,7 @@ abilities = ["18", "17", "15", "10", "13", "6"]
 
 **Melee:** +1 scimitar +15/+10 (1d6+5/18-20)
 
-**Ranged:** +1 composite longbow +15/+10 (1d8+5/&times&3)
+**Ranged:** +1 composite longbow +15/+10 (1d8+5/×3)
 
 **Spec Att:** combat style (archery), hunter's tricks 5/day (aiding attack, hateful attack, trick
 shot)

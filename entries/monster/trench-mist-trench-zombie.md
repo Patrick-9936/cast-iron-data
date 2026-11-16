@@ -23,7 +23,7 @@ fortitude = "+4"
 reflex = "+6"
 will = "+3 (+2 vs. fear)"
 melee = "socket bayonet +9/+4 (1d6+3) or slam +9 (1d6+4)"
-ranged = "Mosin-Nagant M1891 rifle +12/+7 (1d10+6/&times&4) or M1914 concussion grenade +10 (3d6)"
+ranged = "Mosin-Nagant M1891 rifle +12/+7 (1d10+6/×4) or M1914 concussion grenade +10 (3d6)"
 special_attacks = "trench warfare (rifle)~weapon training (firearms +1)"
 special_qualities = "symbiote"
 abilities = ["17", "18", "-", "10", "12", "8"]
@@ -77,7 +77,7 @@ abilities = ["17", "18", "-", "10", "12", "8"]
 
 **Melee:** socket bayonet +9/+4 (1d6+3) or slam +9 (1d6+4)
 
-**Ranged:** Mosin-Nagant M1891 rifle +12/+7 (1d10+6/&times&4) or M1914 concussion grenade +10 (3d6)
+**Ranged:** Mosin-Nagant M1891 rifle +12/+7 (1d10+6/×4) or M1914 concussion grenade +10 (3d6)
 
 **Spec Att:** trench warfare (rifle), weapon training (firearms +1)
 

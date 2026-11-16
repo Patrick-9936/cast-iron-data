@@ -25,7 +25,7 @@ hp = "68~8d10+24"
 fortitude = "+7"
 reflex = "+8"
 will = "+9"
-melee = "ranseur +11/+6 (2d4+4/&times&3), 2 slams +6 (1d4+1 plus grab) or 4 slams +11 (1d4+3 plus grab)"
+melee = "ranseur +11/+6 (2d4+4/×3), 2 slams +6 (1d4+1 plus grab) or 4 slams +11 (1d4+3 plus grab)"
 special_attacks = "force bolt"
 abilities = ["16", "15", "17", "18", "13", "20"]
 +++
@@ -71,8 +71,8 @@ three-fingered hand._
 
 **Speed:** 30 ft.
 
-**Melee:** ranseur +11/+6 (2d4+4/&times&3), 2 slams +6 (1d4+1 plus [grab](ref/umr/grab)) or 4 slams
-+11 (1d4+3 plus grab)
+**Melee:** ranseur +11/+6 (2d4+4/×3), 2 slams +6 (1d4+1 plus [grab](ref/umr/grab)) or 4 slams +11
+(1d4+3 plus grab)
 
 **Reach:** 5
 

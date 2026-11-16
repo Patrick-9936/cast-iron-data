@@ -24,7 +24,7 @@ fortitude = "+2"
 reflex = "+7"
 will = "+1"
 melee = "mwk dogslicer +5 (1d4/19-20), dogslicer +4 (1d4/19-20)"
-ranged = "shortbow +6 (1d4/&times&3)"
+ranged = "shortbow +6 (1d4/×3)"
 special_qualities = "rogue talents (finesse rogue), trapfinding +1, weapon familiarity"
 abilities = ["11", "19", "14", "8", "12", "8"]
 +++
@@ -71,7 +71,7 @@ abilities = ["11", "19", "14", "8", "12", "8"]
 
 **Melee:** mwk dogslicer +5 (1d4/19-20), dogslicer +4 (1d4/19-20)
 
-**Ranged:** shortbow +6 (1d4/&times&3)
+**Ranged:** shortbow +6 (1d4/×3)
 
 **Sneak:** +1d6
 

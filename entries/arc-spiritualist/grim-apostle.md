@@ -31,7 +31,7 @@ spiritualist's phantom, but each day when the grim apostle regains her daily spe
 choose which Horseman focus (see below) is dominant within the grim phantom.
 
 **Ability2:** When the grim phantom is banished to the Ethereal Plane, the grim apostle takes an
-amount of damage equal to 1d4 &times& the grim phantom's number of Hit Dice.
+amount of damage equal to 1d4 × the grim phantom's number of Hit Dice.
 
 **Alters:** Phantom
 
@@ -81,9 +81,9 @@ Hit Dice. Its good saves are Fortitude and Will.
 
 **Ability:** When manifested in ectoplasmic form, the grim phantom gains a +1 bonus on attack rolls
 against a creature the grim apostle has hit with a melee or ranged attack since its last turn (the
-phantom's &quot&marked target&quot&). Additionally, such an attack by the grim phantom deals
-additional **X**d6 negative energy damage, where **X** is 1 +
-[one-fifth](ref/misc/fractions-and-rounding) of his spiritualist level.
+phantom's "marked target"). Additionally, such an attack by the grim phantom deals additional
+**X**d6 negative energy damage, where **X** is 1 + [one-fifth](ref/misc/fractions-and-rounding) of
+his spiritualist level.
 
 **Fatal Aura (Su)**
 
@@ -230,8 +230,8 @@ gains bonuses to Strength instead of Dexterity as the grim apostle gains spiritu
 
 **Ability:** The grim phantom threatens a critical hit with its slam attack on a roll of 19-20.
 
-**At 11th Level:** The phantom's critical modifier with slam attacks increases to &times&3. This
-doesn't stack with [Improved Critical](ref/feat/improved-critical) or similar effects.
+**At 11th Level:** The phantom's critical modifier with slam attacks increases to ×3. This doesn't
+stack with [Improved Critical](ref/feat/improved-critical) or similar effects.
 
 **Aura of Fury (Su)**
 

@@ -23,8 +23,8 @@ hp = "5~1d8+1"
 fortitude = "+1"
 reflex = "+2"
 will = "+2"
-melee = "spear +2 (1d6+1/&times&3), bite -2 (1d3)"
-ranged = "spear +3 (1d6+1/&times&3)"
+melee = "spear +2 (1d6+1/×3), bite -2 (1d3)"
+ranged = "spear +3 (1d6+1/×3)"
 special_qualities = "amphibious"
 abilities = ["12", "14", "13", "9", "10", "9"]
 +++
@@ -70,9 +70,9 @@ and a greasy octopus below._
 
 **Jet:** 200
 
-**Melee:** spear +2 (1d6+1/&times&3), bite -2 (1d3)
+**Melee:** spear +2 (1d6+1/×3), bite -2 (1d3)
 
-**Ranged:** spear +3 (1d6+1/&times&3)
+**Ranged:** spear +3 (1d6+1/×3)
 
 **Statistics**
 

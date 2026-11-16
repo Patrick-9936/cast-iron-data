@@ -22,7 +22,7 @@ hp = "76~8d8+40"
 fortitude = "+6"
 reflex = "+4"
 will = "+8"
-melee = "spear +10 (1d8+4/&times&3) or 2 claws +10 (1d4+4)"
+melee = "spear +10 (1d8+4/×3) or 2 claws +10 (1d4+4)"
 special_qualities = "deadly ally, disjoin"
 abilities = ["19", "14", "-", "11", "14", "19"]
 +++
@@ -75,7 +75,7 @@ shadowed eye sockets._
 
 **Speed:** 30 ft.
 
-**Melee:** spear +10 (1d8+4/&times&3) or 2 claws +10 (1d4+4)
+**Melee:** spear +10 (1d8+4/×3) or 2 claws +10 (1d4+4)
 
 **Statistics**
 

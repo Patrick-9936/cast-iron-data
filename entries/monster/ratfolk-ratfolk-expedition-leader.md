@@ -24,7 +24,7 @@ fortitude = "+9"
 reflex = "+10"
 will = "+4"
 melee = "+1 two-bladed sword +9/+4 (1d3+4/19-20), mwk two-bladed sword +9/+4 (1d6+1/19-20)"
-ranged = "+1 composite longbow +13/+8 (1d6+3/&times&3)"
+ranged = "+1 composite longbow +13/+8 (1d6+3/×3)"
 special_attacks = "combat style (two-weapon)~swarming"
 special_qualities = "favored terrain (desert +4, urban +2), hunter's bond (companions), surface sprinter, swift tracker, track +4, wild empathy +7, woodland stride"
 abilities = ["14", "16", "14", "12", "12", "8"]
@@ -75,7 +75,7 @@ tail._
 
 **Melee:** +1 two-bladed sword +9/+4 (1d3+4/19-20), mwk two-bladed sword +9/+4 (1d6+1/19-20)
 
-**Ranged:** +1 composite longbow +13/+8 (1d6+3/&times&3)
+**Ranged:** +1 composite longbow +13/+8 (1d6+3/×3)
 
 **Spec Att:** combat style (two-weapon), swarming
 

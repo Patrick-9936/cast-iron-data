@@ -23,7 +23,7 @@ hp = "98~3d8+7d10+47~10"
 fortitude = "+14"
 reflex = "+6"
 will = "+8"
-melee = "+1 greataxe +16/+11 (1d12+8/19-20/&times&3), tongue +9 touch (sticky tongue)"
+melee = "+1 greataxe +16/+11 (1d12+8/19-20/×3), tongue +9 touch (sticky tongue)"
 ranged = "throwing axe +9 (1d6+5)"
 special_attacks = "smite good 3/day (+2 attack and AC, +7 damage)~terrifying croak (DC 15)"
 special_qualities = "cruelties (sickened, staggered), fiendish boon (weapon +1, 1/day), hold breath, swamp stride, touch of corruption 5/day (3d6)"
@@ -73,7 +73,7 @@ abilities = ["20", "11", "16", "8", "9", "14"]
 
 **Ch N En:** DC 15, 4d6
 
-**Melee:** +1 greataxe +16/+11 (1d12+8/19-20/&times&3), tongue +9 touch (sticky tongue)
+**Melee:** +1 greataxe +16/+11 (1d12+8/19-20/×3), tongue +9 touch (sticky tongue)
 
 **Ranged:** throwing axe +9 (1d6+5)
 

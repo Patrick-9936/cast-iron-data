@@ -22,7 +22,7 @@ hp = "64~7d10+21"
 fortitude = "+8"
 reflex = "+3"
 will = "+3"
-melee = "+1 lance +12/+7 (1d8+7/&times&3)"
+melee = "+1 lance +12/+7 (1d8+7/×3)"
 ranged = "javelin +7/+2 (1d6+4)"
 special_attacks = "banner +2/+1~cavalier's charge~challenge (+7, +2, 3/day)"
 special_qualities = "expert trainer +3, mount (gorthek), order of the cockatrice (braggart), tactician (2/day, 6 rounds, standard action), weapon familiarity"
@@ -71,7 +71,7 @@ abilities = ["19", "10", "14", "6", "10", "12"]
 
 **Speed:** 20 ft.
 
-**Melee:** +1 lance +12/+7 (1d8+7/&times&3)
+**Melee:** +1 lance +12/+7 (1d8+7/×3)
 
 **Ranged:** javelin +7/+2 (1d6+4)
 

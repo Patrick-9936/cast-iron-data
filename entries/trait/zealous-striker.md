@@ -15,7 +15,7 @@ category = "Faith"
 
 **Type:** Faith
 
-**Flavor:** Your zeal is a danger to those of &quot&lesser&quot& faiths.
+**Flavor:** Your zeal is a danger to those of "lesser" faiths.
 
 **Benefit:** While you have the destruction [judgment](ref/ability/judgments) active, you gain a +1
 trait bonus on damage rolls when attacking a foe who can cast divine spells and worships a different

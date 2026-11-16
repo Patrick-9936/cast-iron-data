@@ -25,7 +25,7 @@ hp = "76~9d10+27"
 fortitude = "+11"
 reflex = "+6"
 will = "+10"
-melee = "+1 adamantine scythe +14/+9 (2d4+7/&times&4) or 2 claws +13 (1d6+4)"
+melee = "+1 adamantine scythe +14/+9 (2d4+7/×4) or 2 claws +13 (1d6+4)"
 special_qualities = "reaper's scythe, spirit touch"
 abilities = ["18", "16", "17", "13", "19", "17"]
 +++
@@ -79,7 +79,7 @@ its face should be._
 
 **Speed:** 30 ft., fly 50 ft. (average)
 
-**Melee:** +1 adamantine scythe +14/+9 (2d4+7/&times&4) or 2 claws +13 (1d6+4)
+**Melee:** +1 adamantine scythe +14/+9 (2d4+7/×4) or 2 claws +13 (1d6+4)
 
 **Spell-Like Abilities**
 

@@ -26,7 +26,7 @@ hp = "574~28d10+420"
 fortitude = "+34"
 reflex = "+23"
 will = "+27"
-melee = "Blackaxe +44/+39/+34/+29 (4d6+24/19-20/&times&3 plus 1d6 acid), bite +37 (2d6+6), 2 wings +37 (1d8+6)"
+melee = "Blackaxe +44/+39/+34/+29 (4d6+24/19-20/×3 plus 1d6 acid), bite +37 (2d6+6), 2 wings +37 (1d8+6)"
 special_attacks = "defoliation"
 special_qualities = "nascent demon lord traits"
 abilities = ["36", "30", "40", "21", "24", "25"]
@@ -85,8 +85,8 @@ tooth-filled beak._
 
 **Speed:** 60 ft., swim 40 ft., fly 60 ft. (good)
 
-**Melee:** Blackaxe +44/+39/+34/+29 (4d6+24/19-20/&times&3 plus 1d6 acid), bite +37 (2d6+6), 2 wings
-+37 (1d8+6)
+**Melee:** Blackaxe +44/+39/+34/+29 (4d6+24/19-20/×3 plus 1d6 acid), bite +37 (2d6+6), 2 wings +37
+(1d8+6)
 
 **Reach:** 20
 

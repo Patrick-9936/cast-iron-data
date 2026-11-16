@@ -23,7 +23,7 @@ hp = "91~14d8+28"
 fortitude = "+11"
 reflex = "+5"
 will = "+7"
-melee = "mwk Large greataxe +15/+10 (3d6+7/&times&3)"
+melee = "mwk Large greataxe +15/+10 (3d6+7/×3)"
 ranged = "heavy crossbow +10 (2d8/19-20)"
 special_qualities = "greater flash of insight, protective foresight"
 abilities = ["21", "12", "15", "12", "17", "10"]
@@ -67,7 +67,7 @@ _Clothed in loose robes and wearing jewelry, this one-eyed giant appears to hold
 
 **Speed:** 30 ft.
 
-**Melee:** mwk Large greataxe +15/+10 (3d6+7/&times&3)
+**Melee:** mwk Large greataxe +15/+10 (3d6+7/×3)
 
 **Ranged:** heavy crossbow +10 (2d8/19-20)
 

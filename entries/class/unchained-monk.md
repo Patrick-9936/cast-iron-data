@@ -217,7 +217,7 @@ damage on a successful save, you instead take no damage.
 **Gained:** At 3rd Level
 
 **Passive:** You gain an enhancement bonus to your land speed equal to
-[one-third](ref/misc/fractions-and-rounding) of your monk level &times& 10.
+[one-third](ref/misc/fractions-and-rounding) of your monk level × 10.
 
 **Special:** If you wear armor or are carrying a medium or heavy load, you lose this extra speed.
 

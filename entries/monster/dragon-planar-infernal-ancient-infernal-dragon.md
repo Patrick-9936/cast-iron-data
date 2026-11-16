@@ -150,9 +150,9 @@ wings +33 (2d6+7)
 
 **Combat maneuver defense:** 54 (58 vs. trip)
 
-**Feats:** Bleeding Critical, Combat Expertise, Critical Focus, Improved Critical (&times&4: bite,
-claw, tail slap), Improved Initiative, Improved Iron Will, Iron Will, Lightning Reflexes, Power
-Attack, Quicken Spell, Weapon Focus (&times&2: bite, claw))
+**Feats:** Bleeding Critical, Combat Expertise, Critical Focus, Improved Critical (×4: bite, claw,
+tail slap), Improved Initiative, Improved Iron Will, Iron Will, Lightning Reflexes, Power Attack,
+Quicken Spell, Weapon Focus (×2: bite, claw))
 
 **Skills:** Appraise +40, Bluff +38, Diplomacy +38, Sense Motive +38, Spellcraft +40, Use Magic
 Device +38

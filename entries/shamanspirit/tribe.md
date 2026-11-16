@@ -164,4 +164,4 @@ becomes immune to [compulsion](ref/spelldef/compulsion) spells and
 **Standard:** Once per day, she can attempt to revive a creature connected to her by her _tribal
 bond_ ability who has died within 1 round as [breath of life](ref/spell/breath-of-life), except that
 the spell can be cast at any range as long as the target is on the same plane, and the target
-regains a number of hit points equal to 10 &times& the shaman's level (maximum 200).
+regains a number of hit points equal to 10 × the shaman's level (maximum 200).

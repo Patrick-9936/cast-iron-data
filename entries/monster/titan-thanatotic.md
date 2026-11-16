@@ -22,7 +22,7 @@ hp = "471~23d10+345"
 fortitude = "+22"
 reflex = "+15"
 will = "+20; +8 resistance vs. mind-affecting"
-melee = "+3 unholy battleaxe +37/+32/+27/+22 (6d6+22/19-20/&times&3), claw +29 (2d8+9) or 2 claws +34 (2d8+19)"
+melee = "+3 unholy battleaxe +37/+32/+27/+22 (6d6+22/19-20/×3), claw +29 (2d8+9) or 2 claws +34 (2d8+19)"
 ranged = "rock +16/+11/+6/+1 (2d6+19)"
 special_attacks = "godslayer~rock-throwing (100 ft.)"
 special_qualities = "change shape (any humanoid; alter self)"
@@ -74,8 +74,8 @@ with ruinous power._
 
 **Speed:** 60 ft., (40 ft. in armor)
 
-**Melee:** +3 unholy battleaxe +37/+32/+27/+22 (6d6+22/19-20/&times&3), claw +29 (2d8+9) or 2 claws
-+34 (2d8+19)
+**Melee:** +3 unholy battleaxe +37/+32/+27/+22 (6d6+22/19-20/×3), claw +29 (2d8+9) or 2 claws +34
+(2d8+19)
 
 **Ranged:** rock +16/+11/+6/+1 (2d6+19)
 

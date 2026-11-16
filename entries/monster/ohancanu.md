@@ -22,7 +22,7 @@ hp = "52~7d6+28"
 fortitude = "+6"
 reflex = "+7"
 will = "+7"
-melee = "mwk greataxe +10 (3d6+9/&times&3)"
+melee = "mwk greataxe +10 (3d6+9/×3)"
 ranged = "rock +5 (1d8+6)"
 abilities = ["23", "14", "19", "7", "14", "8"]
 +++
@@ -68,7 +68,7 @@ of shaggy hair, and the lower half of his face is obscured by a bristly, dark be
 
 **Speed:** 30 ft.
 
-**Melee:** mwk greataxe +10 (3d6+9/&times&3)
+**Melee:** mwk greataxe +10 (3d6+9/×3)
 
 **Ranged:** rock +5 (1d8+6)
 

@@ -23,7 +23,7 @@ hp = "85~10d8+40"
 fortitude = "+11"
 reflex = "+6"
 will = "+4"
-melee = "warhammer +15/+10 (2d6+12/&times&3) or 2 slams +14 (1d8+8)"
+melee = "warhammer +15/+10 (2d6+12/×3) or 2 slams +14 (1d8+8)"
 ranged = "rock +8 (1d8+8)"
 special_qualities = "shattering blow"
 abilities = ["27", "12", "19", "10", "12", "10"]
@@ -72,7 +72,7 @@ determination and detachment._
 
 **Speed:** 40 ft.
 
-**Melee:** warhammer +15/+10 (2d6+12/&times&3) or 2 slams +14 (1d8+8)
+**Melee:** warhammer +15/+10 (2d6+12/×3) or 2 slams +14 (1d8+8)
 
 **Ranged:** rock +8 (1d8+8)
 

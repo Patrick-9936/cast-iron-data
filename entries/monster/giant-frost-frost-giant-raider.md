@@ -23,7 +23,7 @@ hp = "227~14d8+2d12+146~16"
 fortitude = "+22"
 reflex = "+5"
 will = "+10"
-melee = "+1 greataxe +27/+22/+17 (3d6+22/&times&3)"
+melee = "+1 greataxe +27/+22/+17 (3d6+22/×3)"
 ranged = "rock +11 (1d8+21)"
 special_attacks = "rage (13 rounds/day)~rage powers (knockback)"
 special_qualities = "fast movement"
@@ -76,7 +76,7 @@ abilities = ["39", "11", "28", "10", "16", "8"]
 
 **Speed:** 50 ft.
 
-**Melee:** +1 greataxe +27/+22/+17 (3d6+22/&times&3)
+**Melee:** +1 greataxe +27/+22/+17 (3d6+22/×3)
 
 **Ranged:** rock +11 (1d8+21)
 

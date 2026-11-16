@@ -29,10 +29,10 @@ You can trap opponents with the power of your acting.
 **Effect**
 
 **Details:** You silently mime building an invisible wall, flattening your hands along linear planes
-to indicate its location and orientation. This &quot&wall&quot& is only real for creatures that see
-you perform this masterpiece (Will negates); you and your allies may automatically fail your saves
-if you want to treat the wall as real (for example, if you want to use the wall as a bridge to cross
-a chasm).\~\~\~For creatures who believe the wall is real, it has [hardness](ref/umr/hardness) 8, 90
+to indicate its location and orientation. This "wall" is only real for creatures that see you
+perform this masterpiece (Will negates); you and your allies may automatically fail your saves if
+you want to treat the wall as real (for example, if you want to use the wall as a bridge to cross a
+chasm).\~\~\~For creatures who believe the wall is real, it has [hardness](ref/umr/hardness) 8, 90
 hit points, and a break DC of 30 (multiple believing creatures can attack the walls, breaking
 through it more quickly as if they were all attacking a real wall rather than each attacking
 separate mental constructs). This is an illusion (phantasm) effect.\~\~\~Because the wall is a
@@ -45,8 +45,8 @@ can extend this square or create other walls, all of which persist until you sto
 performance rounds to sustain them. The wall is immobile once created.\~\~\~Part of the wall must be
 in or along the edge of your space, and you cannot create a wall that extends beyond your natural
 reach (though you can create a wall, move, and create another by using this ability again). Once
-created, the wall exists until you end your performance or affected creatures &quot&break&quot& it.
-Abilities that extend the duration of a bardic performance (such as
+created, the wall exists until you end your performance or affected creatures "break" it. Abilities
+that extend the duration of a bardic performance (such as
 [Lingering Performance](ref/feat/lingering-performance)) affect this masterpiece.
 
 **Use**

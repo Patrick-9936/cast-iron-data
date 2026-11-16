@@ -49,8 +49,8 @@ Hand, but not to Fly and Ride.
 **Thief's Confidence (Ex)**
 
 **Ability:** Whenever a dashing thief uses the [steal](ref/rule/steal) combat maneuver to steal an
-object worth at least 100 gp &times& her class level from an opponent, she regains 1 panache point.
-She cannot regain panache in this way from a given opponent more than once per day.
+object worth at least 100 gp × her class level from an opponent, she regains 1 panache point. She
+cannot regain panache in this way from a given opponent more than once per day.
 
 **Alters:** Panache
 

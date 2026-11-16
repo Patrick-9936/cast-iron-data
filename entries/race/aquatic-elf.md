@@ -101,7 +101,7 @@ on Spellcraft skill checks made to identify the properties of magic items.
 **Keen Senses:** Aquatic Elves receive a +2 racial bonus on Perception checks.
 
 **Weapon Familiarity:** Aquatic elves are proficient with rapiers, short swords, and tridents, and
-treat any weapon with the word &quot&elven&quot& in its name as a martial weapon.
+treat any weapon with the word "elven" in its name as a martial weapon.
 
 **Languages:** Aquatic Elves begin play speaking Common and Elven. Aquatic Elves with high
 Intelligence scores can choose from the following bonus languages: Celestial, Draconic, Gnoll,

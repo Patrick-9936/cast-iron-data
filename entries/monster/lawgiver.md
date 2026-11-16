@@ -23,7 +23,7 @@ hp = "177~18d10+78"
 fortitude = "+8"
 reflex = "+7"
 will = "+13"
-melee = "+1 axiomatic warhammer +24/+19/+14/+9 (4d6+10/&times&3) or 2 slams +23 (2d6+9)"
+melee = "+1 axiomatic warhammer +24/+19/+14/+9 (4d6+10/×3) or 2 slams +23 (2d6+9)"
 special_qualities = "change shape (giant eagle or two-headed golden eagle [same stats as an eagle, but with two bite attacks]; beast shape IV), freeze (metal statue)"
 abilities = ["28", "12", "-", "14", "24", "20"]
 +++
@@ -74,7 +74,7 @@ _This titanic golden statue of a great knight moves of its own accord and hefts 
 
 **Speed:** 40 ft., fly 60 ft. (perfect)
 
-**Melee:** +1 axiomatic warhammer +24/+19/+14/+9 (4d6+10/&times&3) or 2 slams +23 (2d6+9)
+**Melee:** +1 axiomatic warhammer +24/+19/+14/+9 (4d6+10/×3) or 2 slams +23 (2d6+9)
 
 **Reach:** 20
 

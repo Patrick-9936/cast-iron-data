@@ -23,7 +23,7 @@ fortitude = "+19"
 reflex = "+23"
 will = "+20; +4 vs. death effects, +8 vs. mind-affecting effects"
 melee = "viper rod +35/+30/+25/+20 (1d8+14 plus poison), 6 snake bites +28 (1d6+4 plus poison)"
-ranged = "viper fangs +37/+32/+27/+22 (1d8+5/&times&3 plus poison)"
+ranged = "viper fangs +37/+32/+27/+22 (1d8+5/×3 plus poison)"
 special_attacks = "gaze~irresistible poison~poison~shattering shriek~snake independence~statue control~viper rod"
 special_qualities = "change shape (Medium humanoid; alter self)"
 abilities = ["28", "32", "35", "29", "26", "31"]
@@ -77,7 +77,7 @@ _[mind blank](ref/spell/mind-blank)_, profane visions
 
 **Melee:** viper rod +35/+30/+25/+20 (1d8+14 plus poison), 6 snake bites +28 (1d6+4 plus poison)
 
-**Ranged:** viper fangs +37/+32/+27/+22 (1d8+5/&times&3 plus poison)
+**Ranged:** viper fangs +37/+32/+27/+22 (1d8+5/×3 plus poison)
 
 **Reach:** 5
 

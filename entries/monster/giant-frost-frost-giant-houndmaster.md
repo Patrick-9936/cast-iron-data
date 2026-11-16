@@ -23,7 +23,7 @@ hp = "262~24d8+154"
 fortitude = "+22"
 reflex = "+10"
 will = "+18"
-melee = "+1 greataxe +27/+22/+17/+12 (3d6+14/&times&3)"
+melee = "+1 greataxe +27/+22/+17/+12 (3d6+14/×3)"
 ranged = "rock +16 (1d8+13)"
 special_attacks = "snowcaster~wild shape 3/day"
 special_qualities = "arctic native, icewalking, nature bond (animal companion), nature sense, wild empathy +12"
@@ -74,7 +74,7 @@ abilities = ["28", "10", "20", "13", "23", "14"]
 
 **Speed:** 30 ft.
 
-**Melee:** +1 greataxe +27/+22/+17/+12 (3d6+14/&times&3)
+**Melee:** +1 greataxe +27/+22/+17/+12 (3d6+14/×3)
 
 **Ranged:** rock +16 (1d8+13)
 

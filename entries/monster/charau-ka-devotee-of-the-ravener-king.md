@@ -22,7 +22,7 @@ hp = "65~3d8+5d8+29~8"
 fortitude = "+8"
 reflex = "+6"
 will = "+8"
-melee = "+1 spear +8 (1d6+2/&times&3), bite +2 (1d3+1)"
+melee = "+1 spear +8 (1d6+2/×3), bite +2 (1d3+1)"
 ranged = "rock +9 (1d4+1, 19-20)"
 special_attacks = "shrieking frenzy~thrown-weapon mastery"
 abilities = ["13", "15", "16", "8", "16", "16"]
@@ -70,7 +70,7 @@ horrible powers it serves._
 
 **Ch N En:** 6/day, DC 15, 3d6
 
-**Melee:** +1 spear +8 (1d6+2/&times&3), bite +2 (1d3+1)
+**Melee:** +1 spear +8 (1d6+2/×3), bite +2 (1d3+1)
 
 **Ranged:** rock +9 (1d4+1, 19-20)
 

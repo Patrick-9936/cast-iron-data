@@ -23,7 +23,7 @@ fortitude = "+10"
 reflex = "+11"
 will = "+12"
 melee = "club +5 (1d6), dagger +10 (1d4)"
-ranged = "mwk longbow +11 (1d8/&times&3)"
+ranged = "mwk longbow +11 (1d8/×3)"
 special_qualities = "enlarge (7/day), nature bond (Growth), nature sense, trackless step, tree meld, wild empathy +14, woodcraft, woodland stride"
 abilities = ["10", "21", "17", "12", "19", "20"]
 +++
@@ -73,7 +73,7 @@ waist. She's adorned in trinkets made from a great white pine's needles and cone
 
 **Melee:** club +5 (1d6), dagger +10 (1d4)
 
-**Ranged:** mwk longbow +11 (1d8/&times&3)
+**Ranged:** mwk longbow +11 (1d8/×3)
 
 **Spell-Like Abilities**
 

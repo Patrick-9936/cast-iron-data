@@ -59,8 +59,7 @@ maneuver tactics ability becomes a **swift action**.
 
 **Replaces:** Tactician, greater tactician, master tactician
 
-**Special:** A list of &quot&Improved&quot&, &quot&Greater&quot& and &quot&Strike&quot& feats is
-provided below.
+**Special:** A list of "Improved", "Greater" and "Strike" feats is provided below.
 
 **Usage:** 1 time/day + 1 per 5 cavalier levels
 

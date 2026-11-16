@@ -24,7 +24,7 @@ fortitude = "+10"
 reflex = "+6"
 will = "+4"
 melee = "morningstar +9 (1d8+4), tongue +4 touch (sticky tongue)"
-ranged = "mwk composite longbow +8 (1d8+4/&times&3)"
+ranged = "mwk composite longbow +8 (1d8+4/×3)"
 special_attacks = "combat style (archery)~terrifying croak (DC 12)"
 special_qualities = "favored terrain (swamp +2), hold breath, swamp stride, track +1, wild empathy +2"
 abilities = ["19", "13", "16", "8", "13", "8"]
@@ -71,7 +71,7 @@ abilities = ["19", "13", "16", "8", "13", "8"]
 
 **Melee:** morningstar +9 (1d8+4), tongue +4 touch (sticky tongue)
 
-**Ranged:** mwk composite longbow +8 (1d8+4/&times&3)
+**Ranged:** mwk composite longbow +8 (1d8+4/×3)
 
 **Spec Att:** combat style (archery), terrifying croak (DC 12)
 

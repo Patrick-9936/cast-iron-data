@@ -23,7 +23,7 @@ fortitude = "+6"
 reflex = "+8"
 will = "+7"
 melee = "dagger +10/+5 (1d4/19-20), snake bite +5 (1d4 plus poison)"
-ranged = "mwk longbow +11/+6 (1d8/&times&3)"
+ranged = "mwk longbow +11/+6 (1d8/×3)"
 special_attacks = "petrifying gaze"
 abilities = ["10", "15", "18", "12", "13", "15"]
 +++
@@ -67,7 +67,7 @@ hair._
 
 **Melee:** dagger +10/+5 (1d4/19-20), snake bite +5 (1d4 plus poison)
 
-**Ranged:** mwk longbow +11/+6 (1d8/&times&3)
+**Ranged:** mwk longbow +11/+6 (1d8/×3)
 
 **Spec Att:** petrifying gaze
 

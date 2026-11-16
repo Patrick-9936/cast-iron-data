@@ -82,9 +82,9 @@ are difficult or impossible to destroy.
 **Prereq:** Manifestation level 2nd, hive mind
 
 **Gift:** As a **move action**, you can force the hive mind to use its senses to assist you. You
-gain [blindsense](ref/umr/blindsense) with a range of 5 feet &times& 1/2 your manifestation level
-until the beginning of your next turn; during that time, you negate the penalty on Perception checks
-from the stain and instead gain a bonus on Perception checks equal to 1/2 your manifestation level.
+gain [blindsense](ref/umr/blindsense) with a range of 5 feet × 1/2 your manifestation level until
+the beginning of your next turn; during that time, you negate the penalty on Perception checks from
+the stain and instead gain a bonus on Perception checks equal to 1/2 your manifestation level.
 
 **Stain:** You gain the [light blindness](ref/umr/light-blindness) universal monster ability. You
 take a penalty on [Perception](ref/skill/perception) checks equal to your manifestation level.

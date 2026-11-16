@@ -19,4 +19,4 @@ category = "Combat"
 
 **Benefit:** You gain a +2 trait bonus on Wisdom checks to move on a plane with
 [subjective directional gravity](ref/rule/gravity-traits), and you gain a +10-foot enhancement bonus
-to your speed when &quot&falling&quot& on such a plane.
+to your speed when "falling" on such a plane.

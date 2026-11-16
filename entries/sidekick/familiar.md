@@ -179,9 +179,9 @@ Master, [Spell Resistance](ref/rule/spell-resistance)
 with Master, Variable Familiar Bonus
 
 **Description:** An egotist believes itself to be the real master in the relationship - the power
-behind the throne. It often attempts to communicate &quot&orders&quot& for its master as best it
-can, interfering in matters ranging from spell choices and tactical combat decisions to its master's
-love life.
+behind the throne. It often attempts to communicate "orders" for its master as best it can,
+interfering in matters ranging from spell choices and tactical combat decisions to its master's love
+life.
 
 **Elemental Familiar**
 

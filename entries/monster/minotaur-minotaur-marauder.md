@@ -22,8 +22,8 @@ hp = "62~6d10+2d10+18~8"
 fortitude = "+6"
 reflex = "+10"
 will = "+6"
-melee = "+1 greataxe +12/+7 (3d6+7/&times&3), gore +11 (1d6+2)"
-ranged = "mwk composite longbow +11/+6 (2d6+6/&times&3)"
+melee = "+1 greataxe +12/+7 (3d6+7/×3), gore +11 (1d6+2)"
+ranged = "mwk composite longbow +11/+6 (2d6+6/×3)"
 special_attacks = "combat style (two-handed weapon)"
 special_qualities = "track +1, wild empathy +2"
 abilities = ["19", "14", "13", "11", "12", "10"]
@@ -72,11 +72,11 @@ seasoned combatant._
 
 **Fav En:** monstrous humanoids +2
 
-**Melee:** +1 greataxe +12/+7 (3d6+7/&times&3), gore +11 (1d6+2)
+**Melee:** +1 greataxe +12/+7 (3d6+7/×3), gore +11 (1d6+2)
 
 **Pow Ch:** gore, 1d6+17
 
-**Ranged:** mwk composite longbow +11/+6 (2d6+6/&times&3)
+**Ranged:** mwk composite longbow +11/+6 (2d6+6/×3)
 
 **Reach:** 10
 

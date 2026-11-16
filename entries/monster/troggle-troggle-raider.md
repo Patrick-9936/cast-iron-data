@@ -24,7 +24,7 @@ fortitude = "+10"
 reflex = "+7"
 will = "+3"
 melee = "bite +11 (1d6+7 plus trip), 2 claws +12 (1d4+7)"
-ranged = "composite shortbow +7 (1d8+7/&times&3)"
+ranged = "composite shortbow +7 (1d8+7/×3)"
 special_attacks = "combat style (natural weapon)"
 special_qualities = "ogre blood, track +1, wild empathy -2"
 abilities = ["24", "17", "16", "7", "10", "3"]
@@ -77,7 +77,7 @@ back._
 
 **Melee:** bite +11 (1d6+7 plus [trip](ref/umr/trip)), 2 claws +12 (1d4+7)
 
-**Ranged:** composite shortbow +7 (1d8+7/&times&3)
+**Ranged:** composite shortbow +7 (1d8+7/×3)
 
 **Reach:** 10
 

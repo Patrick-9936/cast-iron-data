@@ -20,13 +20,13 @@ foes.
 
 **Extended Illusions (Su)**
 
-**Ability:** Any illusion spell you cast with a duration of &quot&concentration&quot& lasts a number
-of additional rounds equal to 1/2 your wizard level after you stop maintaining concentration
-(minimum +1 round).
+**Ability:** Any illusion spell you cast with a duration of "concentration" lasts a number of
+additional rounds equal to 1/2 your wizard level after you stop maintaining concentration (minimum
++1 round).
 
-**At 20th Level:** You can make one illusion spell with a duration of &quot&concentration&quot&
-become permanent. You can have no more than one illusion made permanent in this way at one time. If
-you designate another illusion as permanent, the previous permanent illusion ends.
+**At 20th Level:** You can make one illusion spell with a duration of "concentration" become
+permanent. You can have no more than one illusion made permanent in this way at one time. If you
+designate another illusion as permanent, the previous permanent illusion ends.
 
 **Gained:** At 1st Level
 

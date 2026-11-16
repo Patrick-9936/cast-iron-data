@@ -26,4 +26,4 @@ kind = "none"
 
 **Trigger:** touch
 
-**Effect:** Atk +15 ranged (1d8+1/&times&3)
+**Effect:** Atk +15 ranged (1d8+1/×3)

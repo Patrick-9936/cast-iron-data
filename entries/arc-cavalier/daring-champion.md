@@ -103,6 +103,6 @@ Dice than half your character level to 0 or fewer hit points doesn't restore any
 
 **Passive:** When a daring champion threatens a critical hit with a light or one-handed piercing
 melee weapon, that critical is automatically confirmed. Furthermore, the critical modifier of those
-weapons increases by 1 (&times&2 becomes &times&3, for example).
+weapons increases by 1 (×2 becomes ×3, for example).
 
 **Replaces:** Supreme charge

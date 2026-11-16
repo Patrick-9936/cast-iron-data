@@ -47,8 +47,8 @@ abilities.
 **Passive:** An herbalist's study of the leshy spirit grants him access to natural magic that eludes
 other alchemists. Each time he gains access to a new level of extracts (including 1st level), he can
 add two spells from that spell level on the druid spell list to his alchemist class spell list;
-these spells must target a creature or creatures or have a range of &quot&you,&quot& and he must
-still add them to his formula book as normal before he can prepare them.
+these spells must target a creature or creatures or have a range of "you," and he must still add
+them to his formula book as normal before he can prepare them.
 
 **Replaces:** Throw Anything
 

@@ -22,7 +22,7 @@ hp = "742~33d8+594"
 fortitude = "+29"
 reflex = "+24"
 will = "+29"
-melee = "bite +42 (8d10+28/18-20/&times&3 plus feed), 2 claws +42 (5d6+28/18-20/&times&3 plus grab)"
+melee = "bite +42 (8d10+28/18-20/×3 plus feed), 2 claws +42 (5d6+28/18-20/×3 plus grab)"
 special_attacks = "consume spellcaster~create spawn~feed~outcast's dreams"
 special_qualities = "adaptive spellcasting, item creation, powerful blows"
 abilities = ["48", "33", "46", "31", "32", "35"]
@@ -87,7 +87,7 @@ mind-affecting effects, paralysis, petrification
 
 **M Power:** 10/day, surge +1d12
 
-**Melee:** bite +42 (8d10+28/18-20/&times&3 plus feed), 2 claws +42 (5d6+28/18-20/&times&3 plus
+**Melee:** bite +42 (8d10+28/18-20/×3 plus feed), 2 claws +42 (5d6+28/18-20/×3 plus
 [grab](ref/umr/grab))
 
 **Reach:** 10

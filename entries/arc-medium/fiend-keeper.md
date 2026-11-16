@@ -50,15 +50,14 @@ evil for the purposes of resisting or being vulnerable to spells and abilities (
 **Action:** Full-Round Action
 
 **At 13th Level:** The fiend's knowledge becomes equivalent to an intermediate deity. The DC of the
-&quot&request power&quot& option becomes 14.
+"request power" option becomes 14.
 
 **At 5th Level:** The fiend's knowledge becomes that of a demigod. When requesting power, the fiend
 keeper also gains a number of [temporary hit points](ref/rule/temporary-hit-points) equal to his
 medium level for 1 minute.
 
-**At 7th Level:** The fiend's knowledge becomes equivalent to a lesser deity. The DC of the
-&quot&request power&quot& option becomes 12, and the fiend keeper can now select two powers from the
-list below.
+**At 7th Level:** The fiend's knowledge becomes equivalent to a lesser deity. The DC of the "request
+power" option becomes 12, and the fiend keeper can now select two powers from the list below.
 
 **Gained:** At 3rd Level
 

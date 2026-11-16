@@ -23,7 +23,7 @@ hp = "155~4d8+8d12+80~12"
 fortitude = "+16"
 reflex = "+6"
 will = "+9; +4 vs. magic"
-melee = "+1 greataxe +21/+16/+11 (3d6+16/&times&3), bite +15 (1d8+15 plus animal fury) or unarmed strike +20/+15/+10 (1d4+15)"
+melee = "+1 greataxe +21/+16/+11 (3d6+16/×3), bite +15 (1d8+15 plus animal fury) or unarmed strike +20/+15/+10 (1d4+15)"
 special_attacks = "rage (21 rounds/day)~rage powers (animal fury, scent, strength surge +8, superstition +4)"
 special_qualities = "fast movement"
 abilities = ["30", "15", "21", "4", "12", "7"]
@@ -76,8 +76,8 @@ mouth with ill-fitting teeth._
 
 **Speed:** 50 ft.
 
-**Melee:** +1 greataxe +21/+16/+11 (3d6+16/&times&3), bite +15 (1d8+15 plus animal fury) or unarmed
-strike +20/+15/+10 (1d4+15)
+**Melee:** +1 greataxe +21/+16/+11 (3d6+16/×3), bite +15 (1d8+15 plus animal fury) or unarmed strike
++20/+15/+10 (1d4+15)
 
 **Reach:** 10
 

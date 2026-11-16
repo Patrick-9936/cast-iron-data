@@ -23,7 +23,7 @@ fortitude = "+9"
 reflex = "+10"
 will = "+8"
 melee = "+1 bite +13 (1d6+3 plus disease and paralysis), 2 +1 claws +14 (1d8+3 plus paralysis)"
-ranged = "mwk composite longbow +13/+8 (1d8+2/&times&3)"
+ranged = "mwk composite longbow +13/+8 (1d8+2/×3)"
 special_attacks = "combat style (archery)~disease (DC 15)"
 special_qualities = "favored terrain (underground +2), hunter's bond (animal), track +3, wild empathy +10"
 abilities = ["15", "20", "-", "13", "16", "18"]
@@ -75,7 +75,7 @@ abilities = ["15", "20", "-", "13", "16", "18"]
 
 **Paralysis:** 1d4+1 rounds, DC 15, elves are immune to this effect
 
-**Ranged:** mwk composite longbow +13/+8 (1d8+2/&times&3)
+**Ranged:** mwk composite longbow +13/+8 (1d8+2/×3)
 
 **Spec Att:** combat style (archery), disease (DC 15)
 

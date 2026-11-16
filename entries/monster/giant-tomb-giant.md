@@ -26,7 +26,7 @@ hp = "162~13d8+104"
 fortitude = "+16"
 reflex = "+7"
 will = "+10"
-melee = "mwk scythe +20/+15 (2d6+16/19-20/&times&4 plus energy drain) or 2 slams +19 (1d6+11 plus energy drain)"
+melee = "mwk scythe +20/+15 (2d6+16/19-20/×4 plus energy drain) or 2 slams +19 (1d6+11 plus energy drain)"
 ranged = "rock +12 (1d8+11)"
 special_qualities = "corpse stitcher, sinister synergy"
 abilities = ["32", "17", "26", "13", "19", "14"]
@@ -79,8 +79,8 @@ hands._
 
 **E Drain:** 1 level, DC 18
 
-**Melee:** mwk scythe +20/+15 (2d6+16/19-20/&times&4 plus energy drain) or 2 slams +19 (1d6+11 plus
-energy drain)
+**Melee:** mwk scythe +20/+15 (2d6+16/19-20/×4 plus energy drain) or 2 slams +19 (1d6+11 plus energy
+drain)
 
 **Ranged:** rock +12 (1d8+11)
 

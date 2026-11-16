@@ -22,7 +22,7 @@ hp = "230~20d10+120"
 fortitude = "+18"
 reflex = "+14"
 will = "+11"
-melee = "bite +31 (3d6+19/19-20/&times&3 plus grab), 2 talons +31 (1d8+13)"
+melee = "bite +31 (3d6+19/19-20/×3 plus grab), 2 talons +31 (1d8+13)"
 special_attacks = "deadly bite~shriek"
 special_qualities = "planar acclimation"
 abilities = ["37", "15", "22", "2", "16", "13"]
@@ -73,7 +73,7 @@ rest of its body is bare and scaly._
 
 **Speed:** 50 ft., fly 20 ft. (poor)
 
-**Melee:** bite +31 (3d6+19/19-20/&times&3 plus [grab](ref/umr/grab)), 2 talons +31 (1d8+13)
+**Melee:** bite +31 (3d6+19/19-20/×3 plus [grab](ref/umr/grab)), 2 talons +31 (1d8+13)
 
 **Reach:** 15
 

@@ -22,7 +22,7 @@ hp = "170~20d6+100"
 fortitude = "+15"
 reflex = "+20"
 will = "+20"
-melee = "+2 keen thundering longspear +19/+14/+9 (1d8+13/19-20/&times&3) or +2 keen thundering longsword +19/+14/+9 (1d8+11/17-20)"
+melee = "+2 keen thundering longspear +19/+14/+9 (1d8+13/19-20/×3) or +2 keen thundering longsword +19/+14/+9 (1d8+11/17-20)"
 special_attacks = "petrifying glance (5/day, DC 26)"
 special_qualities = "fighter training, instant armament, sitebound"
 abilities = ["21", "17", "18", "14", "17", "20"]
@@ -72,7 +72,7 @@ pearlescent breastplate and wields a shimmering longspear._
 **Speed:** 30 ft.
 
 **Melee:** +2 [keen](ref/magic-enh/keen) [thundering](ref/magic-enh/thundering) longspear +19/+14/+9
-(1d8+13/19-20/&times&3) or +2 keen thundering longsword +19/+14/+9 (1d8+11/17-20)
+(1d8+13/19-20/×3) or +2 keen thundering longsword +19/+14/+9 (1d8+11/17-20)
 
 **Spec Att:** petrifying glance (5/day, DC 26)
 

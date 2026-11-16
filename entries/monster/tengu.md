@@ -24,7 +24,7 @@ fortitude = "+1"
 reflex = "+5"
 will = "+2"
 melee = "dagger +3 (1d4+1/19-20), bite -2 (1d3)"
-ranged = "short bow +3 (1d6/&times&3)"
+ranged = "short bow +3 (1d6/×3)"
 special_qualities = "gifted linguist, swordtrained, trapfinding"
 abilities = ["12", "17", "12", "10", "15", "8"]
 +++
@@ -70,7 +70,7 @@ _Black feathers cover this crow-headed humanoid, and its hands and legs end in p
 
 **Melee:** dagger +3 (1d4+1/19-20), bite -2 (1d3)
 
-**Ranged:** short bow +3 (1d6/&times&3)
+**Ranged:** short bow +3 (1d6/×3)
 
 **Sneak:** +1d6
 

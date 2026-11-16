@@ -23,7 +23,7 @@ hp = "253~15d8+6d10+153~21"
 fortitude = "+21"
 reflex = "+7"
 will = "+12"
-melee = "+1 bastard sword +27/+22/+17/+12 (2d8+10/19-20) or +1 valiant lance +26/+21/+16/+11 (2d6+14/&times&3) or 2 slams +25 (1d8+9)"
+melee = "+1 bastard sword +27/+22/+17/+12 (2d8+10/19-20) or +1 valiant lance +26/+21/+16/+11 (2d6+14/×3) or 2 slams +25 (1d8+9)"
 ranged = "rock +17 (1d8+14 plus 1d6 fire)"
 special_attacks = "banner +2/+1~cavalier's charge~challenge (+8, 3/day)~heated rock"
 special_qualities = "expert trainer +3, mount (giant dire boar), order of the lion (lion's call), tactician (2/day, 6 rounds, standard action)"
@@ -75,7 +75,7 @@ abilities = ["29", "11", "25", "12", "16", "17"]
 **Speed:** 30 ft.
 
 **Melee:** +1 bastard sword +27/+22/+17/+12 (2d8+10/19-20) or +1 valiant lance +26/+21/+16/+11
-(2d6+14/&times&3) or 2 slams +25 (1d8+9)
+(2d6+14/×3) or 2 slams +25 (1d8+9)
 
 **Ranged:** rock +17 (1d8+14 plus 1d6 fire)
 

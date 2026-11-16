@@ -83,8 +83,7 @@ prestige class's _signifer mask_ supernatural ability; you must be wearing a
 **Flavor:** You have mastered the delicate and yet taxing art of casting spells in your Hellknight
 armor.
 
-**Passive:** You can ignore the spell failure chance of any armor with &quot&Hellknight&quot& in the
-name.
+**Passive:** You can ignore the spell failure chance of any armor with "Hellknight" in the name.
 
 **3: Unfathomable Gaze (Sp)**
 

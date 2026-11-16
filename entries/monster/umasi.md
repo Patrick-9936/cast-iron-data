@@ -23,7 +23,7 @@ fortitude = "+6"
 reflex = "+6"
 will = "+5; +2 vs. poison"
 melee = "dagger +7 (1d4+4/19-20), 2 unarmed strikes +7 (1d3+2 nonlethal)"
-ranged = "shortbow +7 (1d6/&times&3)"
+ranged = "shortbow +7 (1d6/×3)"
 special_qualities = "graft flesh, harvest organs, immortal flesh"
 abilities = ["18", "15", "17", "10", "13", "8"]
 +++
@@ -71,7 +71,7 @@ patchwork of hair, skin, scales, and strange limbs stitched together with thick,
 
 **Melee:** dagger +7 (1d4+4/19-20), 2 unarmed strikes +7 (1d3+2 nonlethal)
 
-**Ranged:** shortbow +7 (1d6/&times&3)
+**Ranged:** shortbow +7 (1d6/×3)
 
 **Statistics**
 

@@ -22,4 +22,4 @@ or prestige it once had.
 
 **Benefit:** You gain a +1 trait bonus on [Diplomacy](ref/skill/diplomacy) and
 [Knowledge (nobility)](ref/skill/knowledge-nobility) checks. In addition, your starting money is
-increased by 100 gp: your &quot&birthright,&quot& such as it is.
+increased by 100 gp: your "birthright," such as it is.

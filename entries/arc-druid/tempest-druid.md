@@ -46,8 +46,8 @@ the druid's normal armor and weapon proficiencies.
 **Spontaneous Domain Casting**
 
 **Ability:** A tempest druid can channel stored spell energy into domain spells that he has not
-prepared ahead of time. He can &quot&lose&quot& a prepared spell to cast any domain spell of the
-same level or lower.
+prepared ahead of time. He can "lose" a prepared spell to cast any domain spell of the same level or
+lower.
 
 **Replaces:** Spontaneous casting
 

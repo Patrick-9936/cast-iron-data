@@ -114,7 +114,7 @@ placed in a higher slot (for example through metamagic) uses that slot.
 
 #### Spontaneous Casting {#spontaneous-casting}
 
-**Ability:** You can &quot&lose&quot& a prepared spell in order to cast any
+**Ability:** You can "lose" a prepared spell in order to cast any
 [summon nature's ally](ref/spell/summon-natures-ally) spell of the same level or lower.
 
 **Flavor:** A druid can channel stored spell energy into summoning spells that she hasn't prepared

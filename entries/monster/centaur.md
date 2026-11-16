@@ -23,7 +23,7 @@ fortitude = "+3"
 reflex = "+6"
 will = "+6"
 melee = "longsword +5 (1d8+2/19-20), 2 hooves +0 (1d6+1)"
-ranged = "spear +5 (1d8+2/&times&3)"
+ranged = "spear +5 (1d8+2/×3)"
 special_qualities = "undersized weapons"
 abilities = ["15", "14", "15", "11", "14", "12"]
 +++
@@ -67,7 +67,7 @@ warhorse._
 
 **Melee:** longsword +5 (1d8+2/19-20), 2 hooves +0 (1d6+1)
 
-**Ranged:** spear +5 (1d8+2/&times&3)
+**Ranged:** spear +5 (1d8+2/×3)
 
 **Reach:** 5
 

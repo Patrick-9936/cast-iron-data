@@ -53,15 +53,15 @@ he might have.
 
 At 5th level: The cipher can now affect 2 creatures at the same time.
 
-At 8th level: The cipher can now &quot&blind&quot& 3 creatures at the same time.
+At 8th level: The cipher can now "blind" 3 creatures at the same time.
 
 At 11th level: The cipher can now affect 4 creatures at the same time.
 
-At 14th level: The cipher can now &quot&blind&quot& 5 creatures at the same time.
+At 14th level: The cipher can now "blind" 5 creatures at the same time.
 
 At 17th level: The cipher can now affect 6 creatures at the same time.
 
-At 20th level: The cipher can now &quot&blind&quot& 7 creatures at the same time.
+At 20th level: The cipher can now "blind" 7 creatures at the same time.
 
 A creature who would become aware of a cipher's presence when the cipher is within 10 feet per
 cipher level must succeed at a Perception check against a DC equal to 10 + the cipher's investigator

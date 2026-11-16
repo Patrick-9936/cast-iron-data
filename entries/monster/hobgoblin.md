@@ -24,7 +24,7 @@ fortitude = "+5"
 reflex = "+2"
 will = "+1"
 melee = "longsword +4 (1d8+2/19-20)"
-ranged = "longbow +3 (1d8/&times&3)"
+ranged = "longbow +3 (1d8/×3)"
 abilities = ["15", "15", "16", "10", "12", "8"]
 +++
 
@@ -71,7 +71,7 @@ eyes._
 
 **Melee:** longsword +4 (1d8+2/19-20)
 
-**Ranged:** longbow +3 (1d8/&times&3)
+**Ranged:** longbow +3 (1d8/×3)
 
 **Statistics**
 

@@ -23,7 +23,7 @@ hp = "22~3d10+6"
 fortitude = "+5"
 reflex = "+6"
 will = "+2"
-melee = "mwk battleaxe +6 (1d8+2/&times&3), bite +0 (1d6+1) or bite +5 (1d6+3)"
+melee = "mwk battleaxe +6 (1d8+2/×3), bite +0 (1d6+1) or bite +5 (1d6+3)"
 special_attacks = "sleep gaze~weapon intuition"
 special_qualities = "change shape (human, hybrid, and jackal; polymorph), jackal empathy"
 abilities = ["15", "17", "15", "12", "12", "12"]
@@ -70,7 +70,7 @@ away._
 
 **Speed:** 30 ft.
 
-**Melee:** mwk battleaxe +6 (1d8+2/&times&3), bite +0 (1d6+1) or bite +5 (1d6+3)
+**Melee:** mwk battleaxe +6 (1d8+2/×3), bite +0 (1d6+1) or bite +5 (1d6+3)
 
 **Spec Att:** sleep gaze, weapon intuition
 

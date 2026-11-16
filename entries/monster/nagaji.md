@@ -23,8 +23,8 @@ hp = "10~1d10"
 fortitude = "+1"
 reflex = "+2"
 will = "+1; +2 vs. mind-affecting effects and poison"
-melee = "naginata +5 (1d8+4/&times&4) or claw +4 (1d4+4)"
-ranged = "longbow +3 (1d8/&times&3)"
+melee = "naginata +5 (1d8+4/×4) or claw +4 (1d4+4)"
+ranged = "longbow +3 (1d8/×3)"
 abilities = ["17", "14", "8", "10", "13", "12"]
 +++
 
@@ -69,9 +69,9 @@ fanged, lipless mouth._
 
 **Speed:** 30 ft.
 
-**Melee:** naginata +5 (1d8+4/&times&4) or claw +4 (1d4+4)
+**Melee:** naginata +5 (1d8+4/×4) or claw +4 (1d4+4)
 
-**Ranged:** longbow +3 (1d8/&times&3)
+**Ranged:** longbow +3 (1d8/×3)
 
 **Reach:** 5
 

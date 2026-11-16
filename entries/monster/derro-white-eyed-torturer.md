@@ -24,7 +24,7 @@ reflex = "+11"
 will = "+8"
 melee = "aklys +13/+8 (1d6+2) or claw +13/+8 (1d4+3)"
 ranged = "mwk repeating light crossbow +15/+10 (1d6/19-20) or aklys +14 (1d6+2)"
-special_qualities = "alchemy (alchemy crafting +11, identify potions), cruel anatomist, mutagen (+4/-2, +2 natural, 110 minutes), discoveries (infusion, monstrous graft [arm], monstrous graft [leg &times&2], sleeper agent), madness, poison use, swift alchemy, swift poisoning, torturer's eye, torturous transformation"
+special_qualities = "alchemy (alchemy crafting +11, identify potions), cruel anatomist, mutagen (+4/-2, +2 natural, 110 minutes), discoveries (infusion, monstrous graft [arm], monstrous graft [leg ×2], sleeper agent), madness, poison use, swift alchemy, swift poisoning, torturer's eye, torturous transformation"
 abilities = ["15", "17", "18", "18", "7", "14"]
 +++
 
@@ -136,7 +136,7 @@ Perception +11, Sense Motive +12, Sleight of Hand +15, Spellcraft +21, Stealth +
 
 **Special qualities:** alchemy (alchemy crafting +11, identify potions), cruel anatomist, mutagen
 (+4/-2, +2 natural, 110 minutes), discoveries ([infusion](ref/discovery/infusion),
-[monstrous graft](ref/discovery/monstrous-graft) \[arm\], monstrous graft \[leg &times&2\],
+[monstrous graft](ref/discovery/monstrous-graft) \[arm\], monstrous graft \[leg ×2\],
 [sleeper agent](ref/discovery/sleeper-agent)), madness, [poison use](ref/ability/poison-use), swift
 alchemy, swift poisoning, torturer's eye, torturous transformation
 

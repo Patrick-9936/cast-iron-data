@@ -24,7 +24,7 @@ fortitude = "+35"
 reflex = "+19"
 will = "+24 (+1 vs. fear)"
 melee = "+5 vorpal good outsider-bane flaming burst unholy longsword +44/+39/+34/+29 (2d6+23/19-20 plus 1d6 fire), +5 vorpal good outsider-bane flaming burst unholy whip +42/+37/+32 (1d4+12 plus 1d6 fire and entangle)"
-ranged = "+5 unholy good outsider-bane flaming burst composite longbow +35/+30/+25/+20 (2d6+20/&times&3)"
+ranged = "+5 unholy good outsider-bane flaming burst composite longbow +35/+30/+25/+20 (2d6+20/×3)"
 special_attacks = "Abyssal rift~angelslayer~weapon training (heavy blades +1)"
 special_qualities = "armor training 1, death throes, vorpal strike, whip mastery"
 abilities = ["40", "23", "40", "26", "24", "29"]
@@ -87,8 +87,7 @@ a whip of flames._
 +44/+39/+34/+29 (2d6+23/19-20 plus 1d6 fire), +5 vorpal good outsider-bane flaming burst unholy whip
 +42/+37/+32 (1d4+12 plus 1d6 fire and entangle)
 
-**Ranged:** +5 unholy good outsider-bane flaming burst composite longbow +35/+30/+25/+20
-(2d6+20/&times&3)
+**Ranged:** +5 unholy good outsider-bane flaming burst composite longbow +35/+30/+25/+20 (2d6+20/×3)
 
 **Reach:** 10
 

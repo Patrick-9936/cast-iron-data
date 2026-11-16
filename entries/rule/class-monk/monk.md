@@ -304,8 +304,8 @@ give yourself a +4 dodge bonus to AC for 1 round.
 
 **Ability:** If it within arm's reach, you can use a wall to slow your descent, taking damage as if
 your fall was shorter. When determining damage from a fall, you treat take your fall distance and
-subtract a number of feet equal to 10 &times& half your monk level. (For example, at 4th level, a 30
-ft. fall is treated as a 10 ft. fall.)
+subtract a number of feet equal to 10 × half your monk level. (For example, at 4th level, a 30 ft.
+fall is treated as a 10 ft. fall.)
 
 **At 20th Level:** You can use a nearby wall to slow your descent and fall any distance without
 harm.

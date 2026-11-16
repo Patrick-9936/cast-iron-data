@@ -17,4 +17,4 @@ alternate = false
 +++
 
 Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the
-word &quot&dwarven&quot& in its name as a martial weapon.
+word "dwarven" in its name as a martial weapon.

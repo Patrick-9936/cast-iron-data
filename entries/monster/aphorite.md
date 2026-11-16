@@ -23,7 +23,7 @@ hp = "13~1d10+3"
 fortitude = "+4"
 reflex = "-1"
 will = "+3; +2 vs. poison and mind-affecting effects"
-melee = "cold iron warhammer +5 (1d8+3/&times&3)"
+melee = "cold iron warhammer +5 (1d8+3/×3)"
 abilities = ["17", "8", "14", "14", "13", "8"]
 +++
 
@@ -72,7 +72,7 @@ to create strange runic shapes._
 
 **Speed:** 30 ft.
 
-**Melee:** [cold iron](ref/eq-material/cold-iron) warhammer +5 (1d8+3/&times&3)
+**Melee:** [cold iron](ref/eq-material/cold-iron) warhammer +5 (1d8+3/×3)
 
 **Spell-Like Abilities**
 

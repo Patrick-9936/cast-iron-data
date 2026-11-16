@@ -26,7 +26,7 @@ hp = "59~7d10+21"
 fortitude = "+8"
 reflex = "+9"
 will = "+3"
-melee = "mwk ranseur +12/+7 (2d4+6/&times&3) or 2 claws +11 (1d6+4 plus 2 bleed)"
+melee = "mwk ranseur +12/+7 (2d4+6/×3) or 2 claws +11 (1d6+4 plus 2 bleed)"
 special_attacks = "noxious breath"
 special_qualities = "master grappler, shared senses"
 abilities = ["18", "19", "16", "10", "12", "11"]
@@ -79,7 +79,7 @@ between its yellowed fangs._
 
 **Speed:** 20 ft., fly 50 ft. (average)
 
-**Melee:** mwk ranseur +12/+7 (2d4+6/&times&3) or 2 claws +11 (1d6+4 plus 2 bleed)
+**Melee:** mwk ranseur +12/+7 (2d4+6/×3) or 2 claws +11 (1d6+4 plus 2 bleed)
 
 **Rend:** 2 claws, 1d6+6 plus 2 bleed
 

@@ -23,7 +23,7 @@ hp = "455~26d12+286"
 fortitude = "+26"
 reflex = "+20"
 will = "+24"
-melee = "bite +37 (4d8+19/19-20/&times&3), 2 claws +37 (3d6+13/19-20 plus grab), tail slap +32 (2d8+19), 2 wings +32 (1d8+6)"
+melee = "bite +37 (4d8+19/19-20/×3), 2 claws +37 (3d6+13/19-20 plus grab), tail slap +32 (2d8+19), 2 wings +32 (1d8+6)"
 ranged = "2 eye rays +29 touch (15d6 fire/19-20 plus burn)"
 special_attacks = "burble~eye rays~whiffling"
 special_qualities = "planar acclimation"
@@ -89,8 +89,8 @@ and wings in a violent manner._
 
 **Burn:** 6d6, DC 34
 
-**Melee:** bite +37 (4d8+19/19-20/&times&3), 2 claws +37 (3d6+13/19-20 plus [grab](ref/umr/grab)),
-tail slap +32 (2d8+19), 2 wings +32 (1d8+6)
+**Melee:** bite +37 (4d8+19/19-20/×3), 2 claws +37 (3d6+13/19-20 plus [grab](ref/umr/grab)), tail
+slap +32 (2d8+19), 2 wings +32 (1d8+6)
 
 **Ranged:** 2 eye rays +29 touch (15d6 fire/19-20 plus burn)
 
@@ -111,8 +111,7 @@ tail slap +32 (2d8+19), 2 wings +32 (1d8+6)
 **Combat maneuver defense:** 57
 
 **Feats:** Awesome Blow, Bleeding Critical, Critical Focus, Dodge, Flyby Attack, Improved Bull Rush,
-Improved Critical (&times&3: bite, claws, eye rays), Mobility, Power Attack, Spring Attack, Vital
-Strike
+Improved Critical (×3: bite, claws, eye rays), Mobility, Power Attack, Spring Attack, Vital Strike
 
 **Skills:** Acrobatics +31 (+35 jump), Escape Artist +31, Fly +26, Intimidate +37, Knowledge
 (nature) +30, Perception +38, Sense Motive +38

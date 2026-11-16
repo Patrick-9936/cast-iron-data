@@ -31,9 +31,8 @@ that limitation is never explicitly stated.
 
 **Alters:** Weapon and armor proficiency
 
-**Info:** A dwarven scholar is proficient with one weapon of her choosing with the word
-&quot&dwarven&quot& in its name, in addition to her normal weapon proficiencies. She is not
-proficient with shields.
+**Info:** A dwarven scholar is proficient with one weapon of her choosing with the word "dwarven" in
+its name, in addition to her normal weapon proficiencies. She is not proficient with shields.
 
 **Studied Insight (Ex)**
 

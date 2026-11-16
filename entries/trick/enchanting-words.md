@@ -19,4 +19,4 @@ Intimidate check to adjust a creature's attitude. The subject can use the mesmer
 modifier instead of her own Charisma modifier on the check.
 
 **Special:** If the subject uses Intimidate, the adjustment in attitude lasts an additional number
-of minutes equal to 10 &times& the mesmerist's Charisma modifier (minimum of 10 additional minutes).
+of minutes equal to 10 × the mesmerist's Charisma modifier (minimum of 10 additional minutes).

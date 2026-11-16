@@ -37,7 +37,7 @@ disarm magic traps.
 **Flavor:** A guerrilla learns to use darkness to her advantage.
 
 **Fullround:** She can create mundane disguises in dim light or darkness (at a faster rate than the
-normal 1d3 &times& 10 minutes).
+normal 1d3 × 10 minutes).
 
 **Gained:** At 2nd Level
 

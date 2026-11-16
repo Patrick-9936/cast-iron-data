@@ -22,7 +22,7 @@ hp = "222~28d10+68"
 fortitude = "+9"
 reflex = "+14"
 will = "+9"
-melee = "sword +38 (4d6+12/19-20 plus bleed and disease), shield +38 (4d6+12/&times&3 plus disease and stun), 2 slams +38 (2d6+12 plus disease)"
+melee = "sword +38 (4d6+12/19-20 plus bleed and disease), shield +38 (4d6+12/×3 plus disease and stun), 2 slams +38 (2d6+12 plus disease)"
 abilities = ["35", "20", "-", "-", "11", "1"]
 +++
 
@@ -69,8 +69,8 @@ formidable shield._
 
 **Bleed:** 4d6
 
-**Melee:** sword +38 (4d6+12/19-20 plus bleed and disease), shield +38 (4d6+12/&times&3 plus disease
-and stun), 2 slams +38 (2d6+12 plus disease)
+**Melee:** sword +38 (4d6+12/19-20 plus bleed and disease), shield +38 (4d6+12/×3 plus disease and
+stun), 2 slams +38 (2d6+12 plus disease)
 
 **Reach:** 15
 

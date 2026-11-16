@@ -23,8 +23,8 @@ hp = "89~10d10+30"
 fortitude = "+10"
 reflex = "+7"
 will = "+7 (+3 vs. fear)"
-melee = "+1 horsechopper +17/+12 (1d10+9/19-20/&times&3)"
-ranged = "composite longbow +14/+9 (1d8+5/&times&3)"
+melee = "+1 horsechopper +17/+12 (1d10+9/19-20/×3)"
+ranged = "composite longbow +14/+9 (1d8+5/×3)"
 special_attacks = "weapon training (polearms +2, bows +1)"
 special_qualities = "armor training 2"
 abilities = ["18", "16", "14", "10", "12", "6"]
@@ -70,9 +70,9 @@ abilities = ["18", "16", "14", "10", "12", "6"]
 
 **Speed:** 30 ft.
 
-**Melee:** +1 horsechopper +17/+12 (1d10+9/19-20/&times&3)
+**Melee:** +1 horsechopper +17/+12 (1d10+9/19-20/×3)
 
-**Ranged:** composite longbow +14/+9 (1d8+5/&times&3)
+**Ranged:** composite longbow +14/+9 (1d8+5/×3)
 
 **Spec Att:** weapon training (polearms +2, bows +1)
 

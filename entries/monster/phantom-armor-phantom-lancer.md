@@ -21,8 +21,8 @@ hp = "76~9d8+36"
 fortitude = "+7"
 reflex = "+5"
 will = "+6"
-melee = "mwk lance +9/+4 (1d8+4/&times&3)"
-ranged = "longbow +7/+2 (1d8/&times&3)"
+melee = "mwk lance +9/+4 (1d8+4/×3)"
+ranged = "longbow +7/+2 (1d8/×3)"
 special_qualities = "armor rider, freeze"
 abilities = ["17", "15", "-", "7", "11", "18"]
 +++
@@ -65,9 +65,9 @@ abilities = ["17", "15", "-", "7", "11", "18"]
 
 **Speed:** 40 ft., fly 40 ft. (perfect)
 
-**Melee:** mwk lance +9/+4 (1d8+4/&times&3)
+**Melee:** mwk lance +9/+4 (1d8+4/×3)
 
-**Ranged:** longbow +7/+2 (1d8/&times&3)
+**Ranged:** longbow +7/+2 (1d8/×3)
 
 **Reach:** 10
 

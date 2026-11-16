@@ -23,7 +23,7 @@ fortitude = "+9"
 reflex = "+6"
 will = "+7"
 melee = "flail +35/+30/+25/+20 (6d6+20/19-20) or stomp +35 (6d6+30 plus pinning stomp)"
-ranged = "2 heavy ballistae +14 (4d8/17-20/&times&3)"
+ranged = "2 heavy ballistae +14 (4d8/17-20/×3)"
 special_attacks = "mythic quickening~pinning stomp"
 special_qualities = "alternate form, mythic creation, mythic resilience, siege tower"
 abilities = ["51", "9", "-", "5", "10", "14"]
@@ -79,7 +79,7 @@ _A siege engineer's nightmare, this giant machine emits noxious fumes from its g
 
 **Melee:** flail +35/+30/+25/+20 (6d6+20/19-20) or stomp +35 (6d6+30 plus pinning stomp)
 
-**Ranged:** 2 heavy ballistae +14 (4d8/17-20/&times&3)
+**Ranged:** 2 heavy ballistae +14 (4d8/17-20/×3)
 
 **Reach:** 30
 

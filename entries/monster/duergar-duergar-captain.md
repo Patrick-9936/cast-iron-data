@@ -23,7 +23,7 @@ hp = "90~9d10+36"
 fortitude = "+10"
 reflex = "+4"
 will = "+6 (+2 vs. fear); +2 vs. spells"
-melee = "+2 dwarven waraxe +17/+12 (2d8+12/19-20/&times&3)"
+melee = "+2 dwarven waraxe +17/+12 (2d8+12/19-20/×3)"
 ranged = "mwk heavy crossbow +11 (2d8+1/19-20)"
 special_attacks = "weapon training (axes +2, crossbows +1)"
 special_qualities = "armor training 2, slow and steady, stability"
@@ -74,7 +74,7 @@ abilities = ["19", "10", "16", "10", "15", "4"]
 
 **Speed:** 20 ft.
 
-**Melee:** +2 dwarven waraxe +17/+12 (2d8+12/19-20/&times&3)
+**Melee:** +2 dwarven waraxe +17/+12 (2d8+12/19-20/×3)
 
 **Ranged:** mwk heavy crossbow +11 (2d8+1/19-20)
 

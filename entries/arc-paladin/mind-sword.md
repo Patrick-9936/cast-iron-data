@@ -40,14 +40,13 @@ attack the same opponent multiple times, as if using the full-attack action.
 
 **Touch Treatment (Su)**
 
-**At 15th Level:** She can remove conditions as per the &quot&greater&quot& ability of _touch
-treatment._
+**At 15th Level:** She can remove conditions as per the "greater" ability of _touch treatment._
 
 **At 3rd Level:** A mind sword can expend one use of her _mind arsenal_ ability to remove minor
 harmful mental conditions, as per the [mesmerist](ref/class/mesmerist) _touch treatment_ class
 feature (minor ability).
 
-**At 9th Level:** Her _treatment_ expands to the &quot&moderate&quot& version of the ability.
+**At 9th Level:** Her _treatment_ expands to the "moderate" version of the ability.
 
 **Replaces:** Mercy
 
@@ -56,19 +55,19 @@ feature (minor ability).
 **Flavor:** Text from the mesmerist ability.
 
 **At 10th Level:** You can now also remove the _cowering, nauseated, panicked,_ and _stunned_
-conditions. This is the &quot&greater&quot& ability.
+conditions. This is the "greater" ability.
 
 **At 14th Level:** You can instead expend one use of touch treatment to replicate the effects of
 [break enchantment](ref/spell/break-enchantment). This targets only one creature you are touching
 and follows all other restrictions of touch treatment.
 
 **At 6th Level:** You can now also remove the _confused, dazed, frightened,_ and _sickened_
-conditions. This is the &quot&moderate&quot& ability.
+conditions. This is the "moderate" ability.
 
 **At 3rd Level:** You can help allies shake off harmful conditions - especially those that affect
 their minds - by channeling psychic energy through your healing hands. You must be able to touch
 your target. You can remove the _fascinated_ or _shaken_ condition from your target each time you
-use this ability. This is the &quot&minor&quot& ability.
+use this ability. This is the "minor" ability.
 
 **Spells**
 

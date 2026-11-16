@@ -15,7 +15,7 @@ group = "social-talent"
 **Morphic Mask (Su)**
 
 **Ability:** The vigilante's physical form in his vigilante identity can differ significantly from
-that of his social identity, within the norms for his race &mdash& this can include changes to the
+that of his social identity, within the norms for his race — this can include changes to the
 vigilante's proportions, coloration, gender characteristics, and other physical characteristics.
 This increases the vigilante's bonus from _seamless guise_ by 2 for every significant change, as per
 the [Disguise](ref/skill/disguise) skill.

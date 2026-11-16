@@ -39,13 +39,13 @@ disappearance.
 himself quickly from that location. Studying a location takes 1 minute for each 10-foot square. Once
 he has studied an area, the cleaner can attempt a Disguise check to alter evidence or a Stealth
 check to conceal evidence (by doing things such as cleaning up bloodstains, obscuring footprints,
-moving a dead body, and so on). Altering an area takes 1d3 &times& 10 minutes of work per 10-foot
-square. Anyone attempting to determine what actually happened in that area must succeed at an
-opposed Perception check against the result of the cleaner's Disguise or Stealth check (cleaner's
-choice) or accept the altered scene as truth. The cleaner gains a +4 bonus on this check, on Sleight
-of Hand checks to hide objects from that location on his person, and on Stealth checks to hide
-within or escape from that location. This lasts as long as the scene remains unaltered (except by
-the cleaner).
+moving a dead body, and so on). Altering an area takes 1d3 × 10 minutes of work per 10-foot square.
+Anyone attempting to determine what actually happened in that area must succeed at an opposed
+Perception check against the result of the cleaner's Disguise or Stealth check (cleaner's choice) or
+accept the altered scene as truth. The cleaner gains a +4 bonus on this check, on Sleight of Hand
+checks to hide objects from that location on his person, and on Stealth checks to hide within or
+escape from that location. This lasts as long as the scene remains unaltered (except by the
+cleaner).
 
 **Gained:** At 4th Level
 

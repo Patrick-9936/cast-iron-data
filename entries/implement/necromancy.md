@@ -26,8 +26,8 @@ Implements that draw power from necromancy can control undead and harm the livin
 **Necromantic Focus (Su)**
 
 **Ability:** Whoever possesses the implement can control an additional 2 Hit Dice of undead for
-every point of mental focus invested in the item (to a maximum number of Hit Dice equal to 4 &times&
-your occultist level). Any spellcaster who bears the implement can add it as an additional focus
+every point of mental focus invested in the item (to a maximum number of Hit Dice equal to 4 × your
+occultist level). Any spellcaster who bears the implement can add it as an additional focus
 component for a necromancy spell he casts to create undead. If he does so, he can create an
 additional number of HD of undead equal to the additional HD the implement allows him to control
 (apply this effect after doubling the HD of undead for [desecrate](ref/spell/desecrate), if

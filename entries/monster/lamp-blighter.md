@@ -23,7 +23,7 @@ fortitude = "+4"
 reflex = "+12"
 will = "+9"
 melee = "bite +11 (1d8-2), 2 claws +11 (1d10-2/19-20 plus eye pluck)"
-ranged = "+1 shortbow +13 (1d4-1/&times&3)"
+ranged = "+1 shortbow +13 (1d4-1/×3)"
 special_attacks = "eye pluck~special arrows"
 abilities = ["7", "20", "12", "16", "15", "15"]
 +++
@@ -76,7 +76,7 @@ neck._
 
 **Melee:** bite +11 (1d8-2), 2 claws +11 (1d10-2/19-20 plus eye pluck)
 
-**Ranged:** +1 shortbow +13 (1d4-1/&times&3)
+**Ranged:** +1 shortbow +13 (1d4-1/×3)
 
 **Spec Att:** eye pluck, special arrows
 

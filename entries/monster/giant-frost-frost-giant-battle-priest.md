@@ -23,7 +23,7 @@ hp = "195~22d8+96"
 fortitude = "+19"
 reflex = "+7"
 will = "+16"
-melee = "+1 battleaxe +28/+23/+18/+13 (2d6+13/&times&3)"
+melee = "+1 battleaxe +28/+23/+18/+13 (2d6+13/×3)"
 ranged = "rock +14 (1d8+18)"
 special_attacks = "might of the gods (+8, 8 rounds/day)~weapon master (8 rounds/day)"
 special_qualities = "icicle 9/day (1d6+3)"
@@ -76,7 +76,7 @@ abilities = ["34", "8", "18", "13", "23", "14"]
 
 **Ch N En:** 5/day, DC 16, 4d6
 
-**Melee:** +1 battleaxe +28/+23/+18/+13 (2d6+13/&times&3)
+**Melee:** +1 battleaxe +28/+23/+18/+13 (2d6+13/×3)
 
 **Ranged:** rock +14 (1d8+18)
 

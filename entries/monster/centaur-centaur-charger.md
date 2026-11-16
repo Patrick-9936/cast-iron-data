@@ -22,8 +22,8 @@ hp = "183~4d10+11d10+101~15"
 fortitude = "+15"
 reflex = "+11"
 will = "+11"
-melee = "+2 lance +22/+17/+12 (1d8+9/&times&3), 2 hooves +15 (2d6+2/19-20) or mwk longsword +20/+15/+10 (1d8+5/19-20), 2 hooves +15 (2d6+2/19-20)"
-ranged = "spear +17/+12/+7 (1d8+5/&times&3)"
+melee = "+2 lance +22/+17/+12 (1d8+9/×3), 2 hooves +15 (2d6+2/19-20) or mwk longsword +20/+15/+10 (1d8+5/19-20), 2 hooves +15 (2d6+2/19-20)"
+ranged = "spear +17/+12/+7 (1d8+5/×3)"
 special_attacks = "banner +3/+2~challenge (+11, +3, 4/day)~ride down~thundering hooves"
 special_qualities = "courser, greater tactician (3/day, 8 rounds, swift action), natural mount, order of the cockatrice (braggart, steal glory), undersized weapons"
 abilities = ["20", "16", "22", "9", "16", "12"]
@@ -68,10 +68,10 @@ and shield with the majesty and prowess of any human knight._
 
 **Speed:** 90 ft.
 
-**Melee:** +2 lance +22/+17/+12 (1d8+9/&times&3), 2 hooves +15 (2d6+2/19-20) or mwk longsword
-+20/+15/+10 (1d8+5/19-20), 2 hooves +15 (2d6+2/19-20)
+**Melee:** +2 lance +22/+17/+12 (1d8+9/×3), 2 hooves +15 (2d6+2/19-20) or mwk longsword +20/+15/+10
+(1d8+5/19-20), 2 hooves +15 (2d6+2/19-20)
 
-**Ranged:** spear +17/+12/+7 (1d8+5/&times&3)
+**Ranged:** spear +17/+12/+7 (1d8+5/×3)
 
 **Reach:** 5
 

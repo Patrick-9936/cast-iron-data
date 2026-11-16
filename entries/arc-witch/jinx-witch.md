@@ -45,8 +45,7 @@ casts after eating a jinx in this manner. If the spell cast is of the same schoo
 spell, the witch instead treats her caster level as 2 higher. A jinx witch can store only one eaten
 spell at a time.
 
-**Flavor:** A jinx witch learns to absorb (or &quot&eat&quot&) antagonistic magical effects
-targeting her.
+**Flavor:** A jinx witch learns to absorb (or "eat") antagonistic magical effects targeting her.
 
 **Immediate:** If a jinx witch succeeds at a Will or Fortitude saving throw that negates a hostile
 spell effect, she can consume the spell energy.

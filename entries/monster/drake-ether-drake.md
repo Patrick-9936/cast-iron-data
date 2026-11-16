@@ -23,7 +23,7 @@ hp = "138~12d12+60"
 fortitude = "+13"
 reflex = "+10"
 will = "+12"
-melee = "bite +21 (3d6+15/17-20/&times&3), tail slap +16 (2d6+5)"
+melee = "bite +21 (3d6+15/17-20/×3), tail slap +16 (2d6+5)"
 special_attacks = "ether bite"
 special_qualities = "etheric shift, speed surge"
 abilities = ["30", "15", "21", "8", "15", "14"]
@@ -74,7 +74,7 @@ protrude from its back._
 
 **Speed:** 30 ft., fly 60 ft. (perfect)
 
-**Melee:** bite +21 (3d6+15/17-20/&times&3), tail slap +16 (2d6+5)
+**Melee:** bite +21 (3d6+15/17-20/×3), tail slap +16 (2d6+5)
 
 **Reach:** 10
 

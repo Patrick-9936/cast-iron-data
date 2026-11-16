@@ -23,7 +23,7 @@ hp = "27~6d8"
 fortitude = "+1"
 reflex = "+7"
 will = "+6; +4 vs. bardic performance, language-dependent, and sonic, +2 bonus vs. illusion spells or effects"
-melee = "mwk spear +5 (1d6/&times&3)"
+melee = "mwk spear +5 (1d6/×3)"
 ranged = "mwk sling +7 (1d4)"
 special_attacks = "bardic performance 16 rounds/day (countersong, distraction, fascinate [DC 15], inspire competence +2, inspire courage +2, suggestion [DC 15])~hatred"
 special_qualities = "bardic knowledge +3, lore master 1/day, nocturnal, suspicious, versatile performances (dance, oratory)"
@@ -71,7 +71,7 @@ or effects
 
 **Speed:** 0 ft., fly 60 ft. (average)
 
-**Melee:** mwk spear +5 (1d6/&times&3)
+**Melee:** mwk spear +5 (1d6/×3)
 
 **Ranged:** mwk sling +7 (1d4)
 

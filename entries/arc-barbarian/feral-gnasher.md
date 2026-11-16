@@ -39,7 +39,7 @@ following class features.
 the _hard head, big teeth_ racial trait, the damage increases to 1d6.
 
 **At 10th Level:** The damage from a feral gnasher's bite increases to 1d6 (or 1d8 if the goblin has
-the hard head, big teeth racial trait) and deals &times&3 damage on a critical hit.
+the hard head, big teeth racial trait) and deals ×3 damage on a critical hit.
 
 **Gained:** At 1st Level
 

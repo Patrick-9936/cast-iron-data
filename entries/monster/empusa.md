@@ -23,7 +23,7 @@ hp = "174~12d10+108"
 fortitude = "+17"
 reflex = "+16"
 will = "+10"
-melee = "lash +22/+17/+12 (1d6+5/&times&2 plus poison)"
+melee = "lash +22/+17/+12 (1d6+5/×2 plus poison)"
 special_attacks = "lash"
 special_qualities = "change shape (elf; alter self)"
 abilities = ["17", "26", "29", "18", "22", "23"]
@@ -76,7 +76,7 @@ whip._
 
 **Speed:** 30 ft., fly 60 ft. (good)
 
-**Melee:** lash +22/+17/+12 (1d6+5/&times&2 plus poison)
+**Melee:** lash +22/+17/+12 (1d6+5/×2 plus poison)
 
 **Reach:** 5
 

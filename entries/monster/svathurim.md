@@ -26,8 +26,8 @@ hp = "147~14d10+70"
 fortitude = "+11"
 reflex = "+12"
 will = "+11"
-melee = "mwk lance +22/+17/+12 (3d6+13/&times&3), gore +21 (2d6+9), 2 hooves +16 (1d8+4)"
-ranged = "mwk composite longbow +16/+11/+6 (3d6+9/&times&3)"
+melee = "mwk lance +22/+17/+12 (3d6+13/×3), gore +21 (2d6+9), 2 hooves +16 (1d8+4)"
+ranged = "mwk composite longbow +16/+11/+6 (3d6+9/×3)"
 special_attacks = "natural jouster~thunderous trample"
 special_qualities = "skyrunner, undersized weapons"
 abilities = ["29", "17", "20", "10", "14", "11"]
@@ -76,9 +76,9 @@ frost giant._
 
 **Speed:** 50 ft.
 
-**Melee:** mwk lance +22/+17/+12 (3d6+13/&times&3), gore +21 (2d6+9), 2 hooves +16 (1d8+4)
+**Melee:** mwk lance +22/+17/+12 (3d6+13/×3), gore +21 (2d6+9), 2 hooves +16 (1d8+4)
 
-**Ranged:** mwk composite longbow +16/+11/+6 (3d6+9/&times&3)
+**Ranged:** mwk composite longbow +16/+11/+6 (3d6+9/×3)
 
 **Reach:** 10
 

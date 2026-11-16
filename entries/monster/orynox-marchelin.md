@@ -23,7 +23,7 @@ hp = "313~15d8+9d10+197~24"
 fortitude = "+26"
 reflex = "+14"
 will = "+13"
-melee = "+2 flaming burst glaive +35/+30/+25/+20 (2d8+21/19-20/&times&3) or 2 slams +29 (1d8+10)"
+melee = "+2 flaming burst glaive +35/+30/+25/+20 (2d8+21/19-20/×3) or 2 slams +29 (1d8+10)"
 ranged = "rock +22/+17/+12/+7 (1d8+10 plus 1d6 fire and smoke)"
 special_attacks = "flexible flanker~heated rock~pole fighting -3~polearm training +2~steadfast pike +2"
 abilities = ["31", "16", "27", "13", "14", "16"]
@@ -76,8 +76,8 @@ his prowess as a warrior._
 
 **Speed:** 30 ft.
 
-**Melee:** +2 [flaming burst](ref/magic-enh/flaming-burst) glaive +35/+30/+25/+20
-(2d8+21/19-20/&times&3) or 2 slams +29 (1d8+10)
+**Melee:** +2 [flaming burst](ref/magic-enh/flaming-burst) glaive +35/+30/+25/+20 (2d8+21/19-20/×3)
+or 2 slams +29 (1d8+10)
 
 **Ranged:** rock +22/+17/+12/+7 (1d8+10 plus 1d6 fire and smoke)
 

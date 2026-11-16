@@ -23,7 +23,7 @@ hp = "65~10d8+20"
 fortitude = "+9"
 reflex = "+2"
 will = "+4"
-melee = "greataxe +11/+6 (3d6+7/&times&3)"
+melee = "greataxe +11/+6 (3d6+7/×3)"
 ranged = "heavy crossbow +5 (2d8/19-20)"
 special_qualities = "flash of insight"
 abilities = ["21", "8", "15", "10", "13", "8"]
@@ -70,7 +70,7 @@ even larger mouth gapes like a cave._
 
 **Speed:** 30 ft.
 
-**Melee:** greataxe +11/+6 (3d6+7/&times&3)
+**Melee:** greataxe +11/+6 (3d6+7/×3)
 
 **Ranged:** heavy crossbow +5 (2d8/19-20)
 

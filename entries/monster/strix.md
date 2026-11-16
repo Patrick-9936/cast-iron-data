@@ -26,7 +26,7 @@ hp = "5~1d10"
 fortitude = "+2"
 reflex = "+2"
 will = "+0; +2 vs. illusions"
-melee = "spear +2 (1d8+1/&times&3)"
+melee = "spear +2 (1d8+1/×3)"
 special_attacks = "hatred"
 special_qualities = "nocturnal"
 abilities = ["12", "15", "10", "8", "11", "7"]
@@ -71,7 +71,7 @@ _Monstrous black-feathered wings cloak this leanly muscled, onyx-skinned humanoi
 
 **Speed:** 30 ft., fly 60 ft. (average)
 
-**Melee:** spear +2 (1d8+1/&times&3)
+**Melee:** spear +2 (1d8+1/×3)
 
 **Spec Att:** hatred
 

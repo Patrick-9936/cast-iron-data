@@ -23,7 +23,7 @@ hp = "241~21d8+147"
 fortitude = "+19"
 reflex = "+11"
 will = "+15"
-melee = "+3 wounding adamantine greatsword +30/+25/+20 (6d6+27 plus energy drain/19-20) or +5 nullifying adamantine spiked gauntlet +32/+27/+22 (2d6+21 plus energy drain) or +5 unholy adamantine quarterstaff +32/+27/+22 (3d6+29 plus energy drain) or +3 cruel keen scythe +30/+25/+20 (4d6+27 plus energy drain/19-20/&times&4)"
+melee = "+3 wounding adamantine greatsword +30/+25/+20 (6d6+27 plus energy drain/19-20) or +5 nullifying adamantine spiked gauntlet +32/+27/+22 (2d6+21 plus energy drain) or +5 unholy adamantine quarterstaff +32/+27/+22 (3d6+29 plus energy drain) or +3 cruel keen scythe +30/+25/+20 (4d6+27 plus energy drain/19-20/×4)"
 ranged = "rock +15 (4d6+24)"
 special_attacks = "devour souls~vile weapon"
 special_qualities = "planar empowerment"
@@ -83,7 +83,7 @@ resembles a dead giant with the head of an oversized boar._
 +30/+25/+20 (6d6+27 plus energy drain/19-20) or +5 [nullifying](ref/magic-enh/nullifying) adamantine
 spiked gauntlet +32/+27/+22 (2d6+21 plus energy drain) or +5 [unholy](ref/magic-enh/unholy)
 adamantine quarterstaff +32/+27/+22 (3d6+29 plus energy drain) or +3 [cruel](ref/magic-enh/cruel)
-[keen](ref/magic-enh/keen) scythe +30/+25/+20 (4d6+27 plus energy drain/19-20/&times&4)
+[keen](ref/magic-enh/keen) scythe +30/+25/+20 (4d6+27 plus energy drain/19-20/×4)
 
 **Ranged:** rock +15 (4d6+24)
 

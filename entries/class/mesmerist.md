@@ -232,21 +232,21 @@ improvement. The mesmerist must meet the feat's prerequisites.
 #### Touch Treatment (Su) {#touch-treatment}
 
 **At 10th Level:** You can now also remove the _cowering, nauseated, panicked,_ and _stunned_
-conditions. This is the &quot&greater&quot& ability.
+conditions. This is the "greater" ability.
 
 **At 14th Level:** You can instead expend one use of touch treatment to replicate the effects of
 [break enchantment](ref/spell/break-enchantment). This targets only one creature you are touching
 and follows all other restrictions of touch treatment.
 
 **At 6th Level:** You can now also remove the _confused, dazed, frightened,_ and _sickened_
-conditions. This is the &quot&moderate&quot& ability.
+conditions. This is the "moderate" ability.
 
 **Gained:** At 3rd Level
 
 **Standard:** You can help allies shake off harmful conditions - especially those that affect their
 minds - by channeling psychic energy through your healing hands. You must be able to touch your
 target. You can remove the _fascinated_ or _shaken_ condition from your target each time you use
-this ability. This is the &quot&minor&quot& ability.
+this ability. This is the "minor" ability.
 
 **Swift:** You can use _touch treatment_ on yourself.
 
@@ -273,7 +273,7 @@ by one (so a spell that targets one creature per level would be affected, but a 
 only one creature would not be). For example, a 5th-level mesmerist could affect 5 HD worth of
 creatures with [sleep](ref/spell/sleep), affect 2d4+1 HD worth of creatures with
 [hypnotism](ref/spell/hypnotism), and change the categories for [color spray](ref/spell/color-spray)
-to &quot&3 HD or fewer,&quot& &quot&4 or 5 HD,&quot& and &quot&6 or more HD.&quot&
+to "3 HD or fewer," "4 or 5 HD," and "6 or more HD."
 
 At 10th level: The HD limits now increase by 2.
 
@@ -373,7 +373,7 @@ control.
 
 **Description:** Lirgeni astrologists would divine their futures by consulting star charts, but some
 had no talent for astrology and simply faked their results. When prophecy died with Aroden, a few
-Lirgeni survivors continued with this &quot&reliable&quot& method.
+Lirgeni survivors continued with this "reliable" method.
 
 **Cult Master**
 

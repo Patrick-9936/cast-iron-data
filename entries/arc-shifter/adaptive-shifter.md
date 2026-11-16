@@ -225,8 +225,8 @@ an elemental. The shifter's effective druid level is equal to her shifter level.
 
 **Replaces:** Wild shape
 
-**Special:** For abilities that function based on _&quot&uses of wild shape,&quot&_ each hour of
-unfettered _wild shape_ counts as a use.
+**Special:** For abilities that function based on _"uses of wild shape,"_ each hour of unfettered
+_wild shape_ counts as a use.
 
 **Usage:** 1 time/day per 2 shifter levels; these times need not be consecutive, but must be spent
 in 1-time increments

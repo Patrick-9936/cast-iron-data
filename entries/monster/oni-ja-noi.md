@@ -22,8 +22,8 @@ hp = "57~6d10+24"
 fortitude = "+9"
 reflex = "+7"
 will = "+3"
-melee = "mwk tetsubo +11/+6 (1d10+6/&times&4)"
-ranged = "longbow +8/+3 (1d8/&times&3)"
+melee = "mwk tetsubo +11/+6 (1d10+6/×4)"
+ranged = "longbow +8/+3 (1d8/×3)"
 special_qualities = "change shape (Small or Medium humanoid; alter self), serene fighter"
 abilities = ["19", "15", "18", "12", "13", "14"]
 +++
@@ -69,9 +69,9 @@ wears elaborate heavy armor, and wields an ornate metal club._
 
 **Speed:** 30 ft.
 
-**Melee:** mwk tetsubo +11/+6 (1d10+6/&times&4)
+**Melee:** mwk tetsubo +11/+6 (1d10+6/×4)
 
-**Ranged:** longbow +8/+3 (1d8/&times&3)
+**Ranged:** longbow +8/+3 (1d8/×3)
 
 **Spell-Like Abilities**
 

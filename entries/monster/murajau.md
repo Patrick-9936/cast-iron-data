@@ -23,8 +23,8 @@ hp = "47~5d10+20"
 fortitude = "+5"
 reflex = "+6"
 will = "+5"
-melee = "mwk spear +7 (1d8+3/&times&3), 2 claws +6 (1d6+2)"
-ranged = "mwk spear +7 (1d8+2/&times&3)"
+melee = "mwk spear +7 (1d8+3/×3), 2 claws +6 (1d6+2)"
+ranged = "mwk spear +7 (1d8+2/×3)"
 special_qualities = "amphibious, arcane scavanger, undersized weapons"
 abilities = ["14", "15", "18", "14", "13", "15"]
 +++
@@ -68,9 +68,9 @@ shell encasing his back._
 
 **Speed:** 30 ft., swim 40 ft.
 
-**Melee:** mwk spear +7 (1d8+3/&times&3), 2 claws +6 (1d6+2)
+**Melee:** mwk spear +7 (1d8+3/×3), 2 claws +6 (1d6+2)
 
-**Ranged:** mwk spear +7 (1d8+2/&times&3)
+**Ranged:** mwk spear +7 (1d8+2/×3)
 
 **Reach:** 10
 

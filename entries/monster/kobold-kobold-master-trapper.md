@@ -24,7 +24,7 @@ fortitude = "+2"
 reflex = "+10"
 will = "+2"
 melee = "dagger +3 (1d3-1/19-20)"
-ranged = "mwk shortbow +9 (1d4/&times&3)"
+ranged = "mwk shortbow +9 (1d4/×3)"
 special_qualities = "crafty, rogue talents (trap spotter, cunning trigger), trapfinding +2"
 abilities = ["8", "18", "12", "10", "13", "8"]
 +++
@@ -79,7 +79,7 @@ _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth,
 
 **Melee:** dagger +3 (1d3-1/19-20)
 
-**Ranged:** mwk shortbow +9 (1d4/&times&3)
+**Ranged:** mwk shortbow +9 (1d4/×3)
 
 **Sneak:** +3d6
 

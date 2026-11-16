@@ -15,8 +15,8 @@ group = "rage-power"
 **Elemental Stance (Su)**
 
 **At 12th Level:** The barbarian's critical hits deal an additional 1d10 points of energy damage of
-the same type (2d10 if the weapon deals &times&3 damage on a critical hit, 3d10 if the weapon deals
-&times&4 damage on a critical hit).
+the same type (2d10 if the weapon deals ×3 damage on a critical hit, 3d10 if the weapon deals ×4
+damage on a critical hit).
 
 **At 8th Level:** This damage increases to 1d6 points.
 

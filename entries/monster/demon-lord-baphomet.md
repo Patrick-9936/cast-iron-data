@@ -22,7 +22,7 @@ hp = "643~33d10+462"
 fortitude = "+36"
 reflex = "+26"
 will = "+31"
-melee = "Aizerghaul +52/+47/+42/+37 (2d8+28/19-20/&times&3), gore +40 (2d8+6 plus 2d6 fire plus burn), bite +40 (1d8+6)"
+melee = "Aizerghaul +52/+47/+42/+37 (2d8+28/19-20/×3), gore +40 (2d8+6 plus 2d6 fire plus burn), bite +40 (1d8+6)"
 special_attacks = "glaive mastery~scroll use"
 special_qualities = "change shape (any animal, magical beast, or minotaur; greater polymorph), infernal brand, language mastery"
 abilities = ["36", "32", "38", "37", "29", "35"]
@@ -83,8 +83,8 @@ energy drain, fire, maze, petrification, poison
 
 **Burn:** 4d6 fire, DC 40
 
-**Melee:** Aizerghaul +52/+47/+42/+37 (2d8+28/19-20/&times&3), gore +40 (2d8+6 plus 2d6 fire plus
-burn), bite +40 (1d8+6)
+**Melee:** Aizerghaul +52/+47/+42/+37 (2d8+28/19-20/×3), gore +40 (2d8+6 plus 2d6 fire plus burn),
+bite +40 (1d8+6)
 
 **Pow Ch:** gore, 4d8+19 plus 2d6 fire and burn
 

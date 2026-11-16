@@ -85,7 +85,7 @@ variety of tactics, few can match fighters for sheer battle prowess.
 
 **Ability:** You start with a bonus feat, in addition to the free feat every class gets at 1st
 level. This bonus feat must be selected from those listed as combat feats, sometimes also called
-&quot&fighter bonus feats.&quot&
+"fighter bonus feats."
 
 **At 4th Level:** You gain a bonus combat feat. You can also choose to learn a new bonus feat in
 place of a bonus feat you already learned. In effect, you lose the bonus feat in exchange for the
@@ -176,8 +176,8 @@ gains the level, and the choice is permanent.
 **Passive:** Choose one weapon, such as the [longsword](ref/eq-weapon/longsword),
 [greataxe](ref/eq-weapon/greataxe), or [longbow](ref/eq-weapon/longbow). Any attacks made with that
 weapon automatically confirm all critical threats and have their damage multiplier increased by 1
-(&times&2 becomes &times&3, for example). In addition, you cannot be disarmed while wielding a
-weapon of this type.
+(×2 becomes ×3, for example). In addition, you cannot be disarmed while wielding a weapon of this
+type.
 
 ### Alternate Capstones
 
@@ -792,9 +792,8 @@ he has set his mind upon a course of action.
 **Description:** The University of Lepidstadt has developed a reputation for churning out fearsome
 duelists. At the end of each academic year, the students all gather together and duel one another
 with light blades. Each student duels one opponent after another until he is marked on the cheek by
-an adversary's blade. These &quot&Lepidstadt scars&quot& are recognized throughout the Inner Sea
-region and beyond as marks of their prowess. The Lepidstadt Style is one of fluid motion and precise
-thrusts.
+an adversary's blade. These "Lepidstadt scars" are recognized throughout the Inner Sea region and
+beyond as marks of their prowess. The Lepidstadt Style is one of fluid motion and precise thrusts.
 
 **Varisian Free-Style Fighter**
 
@@ -823,9 +822,9 @@ blinding his targets and then rushing in to cut them down where they stand.
 **Modifies or Replaces:** Weapon/Armor Proficiencies; Bravery; Armor Training; Weapon Training;
 Bonus Feats
 
-**Description:** Vikings seek to raid &quot&softer societies&quot& and return with their longships
-filled with plunder. A viking strikes fear into the heart of her foes, and in battle she can fly
-into a terrible rage.
+**Description:** Vikings seek to raid "softer societies" and return with their longships filled with
+plunder. A viking strikes fear into the heart of her foes, and in battle she can fly into a terrible
+rage.
 
 **Warlord**
 

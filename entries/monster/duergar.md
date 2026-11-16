@@ -23,7 +23,7 @@ hp = "8~1d10+3"
 fortitude = "+4"
 reflex = "-1"
 will = "+1; +2 vs. spells"
-melee = "warhammer +3 (1d8+1/&times&3)"
+melee = "warhammer +3 (1d8+1/×3)"
 ranged = "light crossbow +0 (1d8/19-20)"
 special_qualities = "slow and steady, stability"
 abilities = ["12", "9", "15", "10", "13", "4"]
@@ -74,7 +74,7 @@ rather than reflect the light._
 
 **Speed:** 20 ft.
 
-**Melee:** warhammer +3 (1d8+1/&times&3)
+**Melee:** warhammer +3 (1d8+1/×3)
 
 **Ranged:** light crossbow +0 (1d8/19-20)
 

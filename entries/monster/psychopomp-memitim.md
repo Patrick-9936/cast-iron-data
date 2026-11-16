@@ -25,7 +25,7 @@ hp = "216~16d10+128"
 fortitude = "+13"
 reflex = "+19"
 will = "+15"
-melee = "+3 scythe +27/+22/+17/+12 (2d4+13/19-20/&times&4)"
+melee = "+3 scythe +27/+22/+17/+12 (2d4+13/19-20/×4)"
 special_qualities = "change shape (owl, raven, or vulture; beast shape I), spirit touch"
 abilities = ["24", "29", "26", "17", "20", "21"]
 +++
@@ -81,7 +81,7 @@ black-winged woman._
 
 **Speed:** 30 ft., fly 100 ft. (good)
 
-**Melee:** +3 scythe +27/+22/+17/+12 (2d4+13/19-20/&times&4)
+**Melee:** +3 scythe +27/+22/+17/+12 (2d4+13/19-20/×4)
 
 **Spell-Like Abilities**
 

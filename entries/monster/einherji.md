@@ -23,7 +23,7 @@ hp = "123~13d10+52"
 fortitude = "+12"
 reflex = "+11"
 will = "+8"
-melee = "+2 battleaxe +19/+14/+9 (1d8+6/&times&3)"
+melee = "+2 battleaxe +19/+14/+9 (1d8+6/×3)"
 ranged = "mwk throwing axe +17 (1d6+4)"
 special_attacks = "challenge of single combat"
 special_qualities = "battle-trained, thirst for battle"
@@ -80,7 +80,7 @@ _Holding a massive battleaxe and shield, this tall, helmed warrior is grim and f
 
 **Speed:** 30 ft.
 
-**Melee:** +2 battleaxe +19/+14/+9 (1d8+6/&times&3)
+**Melee:** +2 battleaxe +19/+14/+9 (1d8+6/×3)
 
 **Ranged:** mwk throwing axe +17 (1d6+4)
 

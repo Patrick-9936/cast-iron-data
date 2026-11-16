@@ -24,7 +24,7 @@ fortitude = "+11"
 reflex = "+6"
 will = "+3"
 melee = "2 claws +13 (1d6+4), bite +7 (1d4+2), tail slap +7 (1d4+2)"
-ranged = "+1 composite longbow +10/+5 (1d8+5/&times&3)"
+ranged = "+1 composite longbow +10/+5 (1d8+5/×3)"
 special_attacks = "combat style (natural weapon)"
 special_qualities = "favored terrain (swamp +2), hold breath, hunter's bond (companions), track +3, wild empathy +6, woodland stride"
 abilities = ["18", "12", "17", "9", "12", "8"]
@@ -70,7 +70,7 @@ abilities = ["18", "12", "17", "9", "12", "8"]
 
 **Melee:** 2 claws +13 (1d6+4), bite +7 (1d4+2), tail slap +7 (1d4+2)
 
-**Ranged:** +1 composite longbow +10/+5 (1d8+5/&times&3)
+**Ranged:** +1 composite longbow +10/+5 (1d8+5/×3)
 
 **Spec Att:** combat style (natural weapon)
 

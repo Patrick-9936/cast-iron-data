@@ -22,7 +22,7 @@ hp = "190~20d8+100"
 fortitude = "+10"
 reflex = "+10"
 will = "+16"
-melee = "battleaxe +23/+18/+13 (3d6+15/19-20/&times&3) or 2 slams +23 (1d8+10 plus curse of frozen flesh)"
+melee = "battleaxe +23/+18/+13 (3d6+15/19-20/×3) or 2 slams +23 (1d8+10 plus curse of frozen flesh)"
 ranged = "rock +16 (2d6+10)"
 special_attacks = "curse of frozen flesh~lingering curses"
 abilities = ["31", "14", "-", "12", "19", "19"]
@@ -75,7 +75,7 @@ conceal the simple geometric tattoos and ancient battle scars that decorate his 
 
 **Speed:** 30 ft., (40 ft. without armor)
 
-**Melee:** battleaxe +23/+18/+13 (3d6+15/19-20/&times&3) or 2 slams +23 (1d8+10 plus curse of frozen
+**Melee:** battleaxe +23/+18/+13 (3d6+15/19-20/×3) or 2 slams +23 (1d8+10 plus curse of frozen
 flesh)
 
 **Ranged:** rock +16 (2d6+10)

@@ -51,12 +51,12 @@ attack roll).
 
 **Combat Juggling (Ex)**
 
-**Ability:** A juggler can hold and wield (in other words, &quot&juggle&quot&) up to three items or
-weapons in his hands. The juggler must be able to hold and wield an object in one hand in order to
-juggle it. This ability doesn't grant the juggler additional attacks, though it does allow him to
-use different weapons as part of a [full attack](ref/rule/full-attack). As long as he is juggling
-fewer than three objects, the juggler is considered to have a free hand (for the purposes of drawing
-a weapon, using somatic components, using Deflect Arrows, and so on).
+**Ability:** A juggler can hold and wield (in other words, "juggle") up to three items or weapons in
+his hands. The juggler must be able to hold and wield an object in one hand in order to juggle it.
+This ability doesn't grant the juggler additional attacks, though it does allow him to use different
+weapons as part of a [full attack](ref/rule/full-attack). As long as he is juggling fewer than three
+objects, the juggler is considered to have a free hand (for the purposes of drawing a weapon, using
+somatic components, using Deflect Arrows, and so on).
 
 **At 10th Level:** The juggler can juggle five items or weapons at once.
 

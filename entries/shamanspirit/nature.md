@@ -68,7 +68,7 @@ it cannot be the target of this hex again for 24 hours.
 **Friend to Animals (Su)**
 
 **Ability:** The shaman can spontaneously cast [summon nature's ally](ref/spell/summon-natures-ally)
-spells as a [druid](ref/class/druid), &quot&losing&quot& a prepared spell in order to cast any
+spells as a [druid](ref/class/druid), "losing" a prepared spell in order to cast any
 _[summon nature's ally](ref/spell/summon-natures-ally)_ spell of the same level or lower.
 
 **Passive:** In addition, all animals within 30 feet of the shaman receive a sacred bonus on all

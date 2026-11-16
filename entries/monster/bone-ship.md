@@ -24,7 +24,7 @@ fortitude = "+17"
 reflex = "+14"
 will = "+20"
 melee = "slam +28 (8d8+24 plus energy drain)"
-ranged = "4 bone cannons +15 (6d6+16/&times&4)"
+ranged = "4 bone cannons +15 (6d6+16/×4)"
 special_attacks = "ghostly boarders~spectral energy cannon"
 special_qualities = "unholy repair"
 abilities = ["42", "18", "-", "11", "20", "25"]
@@ -83,7 +83,7 @@ masts crafted from gigantic spines._
 
 **Melee:** slam +28 (8d8+24 plus energy drain)
 
-**Ranged:** 4 bone cannons +15 (6d6+16/&times&4)
+**Ranged:** 4 bone cannons +15 (6d6+16/×4)
 
 **Reach:** 30
 

@@ -25,7 +25,7 @@ group = "hellknight-order"
 
 **Leader**
 
-**Details:** Lictor Severs &quot&Boneclaw&quot& DiViri (LE male fighter 4/rogue 2/Hellknight 4)
+**Details:** Lictor Severs "Boneclaw" DiViri (LE male fighter 4/rogue 2/Hellknight 4)
 
 **Members**
 

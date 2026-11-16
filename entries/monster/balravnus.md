@@ -23,7 +23,7 @@ hp = "300~10d10+7d12+194~17"
 fortitude = "+23"
 reflex = "+9"
 will = "+14; +2 vs. traps"
-melee = "+2 wounding halberd +29/+24/+19/+14 (2d8+18/19-20/&times&3), bite +22 (4d4+5)"
+melee = "+2 wounding halberd +29/+24/+19/+14 (2d8+18/19-20/×3), bite +22 (4d4+5)"
 special_attacks = "nausea~rage (25 rounds/day)~rage powers (moment of clarity, quick reflexes, strength surge +7)"
 special_qualities = "amphibious, fast movement"
 abilities = ["33", "15", "32", "14", "16", "22"]
@@ -85,7 +85,7 @@ helm made of greasy green metal._
 
 **Speed:** 40 ft., swim 30 ft.
 
-**Melee:** +2 wounding halberd +29/+24/+19/+14 (2d8+18/19-20/&times&3), bite +22 (4d4+5)
+**Melee:** +2 wounding halberd +29/+24/+19/+14 (2d8+18/19-20/×3), bite +22 (4d4+5)
 
 **Reach:** 10
 

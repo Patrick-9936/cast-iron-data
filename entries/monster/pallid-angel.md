@@ -23,7 +23,7 @@ hp = "150~12d10+84"
 fortitude = "+15"
 reflex = "+7"
 will = "+11; +4 vs. poison"
-melee = "+1 unholy scythe +19/+14/+9 (2d4+10/&times&4 plus 2d6 vs. good creatures)"
+melee = "+1 unholy scythe +19/+14/+9 (2d4+10/×4 plus 2d6 vs. good creatures)"
 special_attacks = "bloodbath"
 special_qualities = "hunger for life and death"
 abilities = ["22", "17", "25", "14", "16", "21"]
@@ -80,7 +80,7 @@ soaked and splattered with blood, wine, and other fluids._
 
 **Speed:** 40 ft., fly 90 ft. (good)
 
-**Melee:** +1 unholy scythe +19/+14/+9 (2d4+10/&times&4 plus 2d6 vs. good creatures)
+**Melee:** +1 unholy scythe +19/+14/+9 (2d4+10/×4 plus 2d6 vs. good creatures)
 
 **Spec Att:** bloodbath
 

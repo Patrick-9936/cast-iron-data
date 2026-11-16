@@ -24,7 +24,7 @@ fortitude = "+5"
 reflex = "+7"
 will = "+3"
 melee = "mwk scimitar +7 (1d4+1/18-20)"
-ranged = "mwk composite longbow +9 (1d6+1/&times&3)"
+ranged = "mwk composite longbow +9 (1d6+1/×3)"
 special_attacks = "combat style (archery)~swarming"
 special_qualities = "favored terrain (desert +2), hunter's bond (animal companion, riding rat), surface sprinter, track +2, wild empathy +4"
 abilities = ["12", "17", "12", "10", "14", "10"]
@@ -75,7 +75,7 @@ tail._
 
 **Melee:** mwk scimitar +7 (1d4+1/18-20)
 
-**Ranged:** mwk composite longbow +9 (1d6+1/&times&3)
+**Ranged:** mwk composite longbow +9 (1d6+1/×3)
 
 **Spec Att:** combat style (archery), swarming
 

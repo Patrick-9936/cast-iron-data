@@ -23,8 +23,8 @@ hp = "45~6d8+18"
 fortitude = "+8"
 reflex = "+5"
 will = "+6"
-melee = "spear +8 (1d8+6/&times&3), bite +3 (1d6+2) or 2 claws +8 (1d4+4), bite +8 (1d6+4)"
-ranged = "spear +7 (1d8+4/&times&3)"
+melee = "spear +8 (1d8+6/×3), bite +3 (1d6+2) or 2 claws +8 (1d4+4), bite +8 (1d6+4)"
+ranged = "spear +7 (1d8+4/×3)"
 special_attacks = "psychogenic secretions"
 abilities = ["18", "17", "16", "13", "15", "12"]
 +++
@@ -70,9 +70,9 @@ glistens on its scales._
 
 **Speed:** 30 ft.
 
-**Melee:** spear +8 (1d8+6/&times&3), bite +3 (1d6+2) or 2 claws +8 (1d4+4), bite +8 (1d6+4)
+**Melee:** spear +8 (1d8+6/×3), bite +3 (1d6+2) or 2 claws +8 (1d4+4), bite +8 (1d6+4)
 
-**Ranged:** spear +7 (1d8+4/&times&3)
+**Ranged:** spear +7 (1d8+4/×3)
 
 **Spec Att:** psychogenic secretions
 

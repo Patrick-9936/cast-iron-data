@@ -23,7 +23,7 @@ fortitude = "+3"
 reflex = "+4"
 will = "+4"
 melee = "gore +3 (1d4+1)"
-ranged = "composite longbow +3 (1d6+1/&times&3)"
+ranged = "composite longbow +3 (1d6+1/×3)"
 special_attacks = "nature's traps"
 special_qualities = "effortless leap, mountain stride"
 abilities = ["12", "13", "15", "10", "12", "11"]
@@ -72,7 +72,7 @@ of a mountain goat._
 
 **Melee:** gore +3 (1d4+1)
 
-**Ranged:** composite longbow +3 (1d6+1/&times&3)
+**Ranged:** composite longbow +3 (1d6+1/×3)
 
 **Spec Att:** nature's traps
 

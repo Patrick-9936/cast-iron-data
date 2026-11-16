@@ -23,7 +23,7 @@ hp = "108~11d8+55"
 fortitude = "+11"
 reflex = "+5"
 will = "+13; +2 bonus vs. spells and spell-like abilities"
-melee = "+1 warhammer +14/+9 (1d10+7/19-20/&times&3)"
+melee = "+1 warhammer +14/+9 (1d10+7/19-20/×3)"
 special_attacks = "blessings 8/day~fervor 8/day (4d6)~sacred weapon (+2 1d10, 11 rounds/day)"
 special_qualities = "blessings 8/day (Charm: charming presence, dominance aura; Evil: battle companion, unholy strike)"
 abilities = ["18", "12", "16", "8", "16", "6"]
@@ -78,7 +78,7 @@ warhammer._
 
 **Ch N En:** 4/day, DC 16, 4d6
 
-**Melee:** +1 warhammer +14/+9 (1d10+7/19-20/&times&3)
+**Melee:** +1 warhammer +14/+9 (1d10+7/19-20/×3)
 
 **Spec Att:** blessings 8/day, fervor 8/day (4d6), sacred weapon (+2 1d10, 11 rounds/day)
 

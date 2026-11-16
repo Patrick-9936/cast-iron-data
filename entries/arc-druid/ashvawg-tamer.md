@@ -62,9 +62,8 @@ occurring also prevents the use of this ability.
 chooses one of these creatures as an animal companion, she may use her _wild empathy_ ability to
 influence the creature (even though it is not an animal and its intelligence may be above 2), though
 she takes a -4 penalty on this check. If the druid and the companion share a common language these
-checks are not needed. If the companion's intelligence is 3 or higher, the number of
-&quot&tricks&quot& the druid can teach it refers to the number of commands the creature understands
-regardless of language.
+checks are not needed. If the companion's intelligence is 3 or higher, the number of "tricks" the
+druid can teach it refers to the number of commands the creature understands regardless of language.
 
 **Gained:** At 4th Level
 

@@ -17,7 +17,7 @@ category = "Regional"
 
 **Region:** Uringen
 
-**Flavor:** Spending time in the &quot&unstuck&quot& part of Uringen has made you more adept at
-using warps in time and space.
+**Flavor:** Spending time in the "unstuck" part of Uringen has made you more adept at using warps in
+time and space.
 
 **Benefit:** Increase your caster level by 2 when casting spells with the teleportation descriptor.

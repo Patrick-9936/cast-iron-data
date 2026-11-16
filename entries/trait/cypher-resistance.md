@@ -21,5 +21,5 @@ category = "Regional"
 lifetime. You can recount the runes from memory, and repeated exposure has imbued you with a faint
 resistance to runic magic.
 
-**Benefit:** You gain a +2 trait bonus on saving throws against spells with the word
-&quot&glyph&quot& or &quot&symbol&quot& in their name.
+**Benefit:** You gain a +2 trait bonus on saving throws against spells with the word "glyph" or
+"symbol" in their name.

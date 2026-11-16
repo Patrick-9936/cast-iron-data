@@ -24,7 +24,7 @@ fortitude = "+5"
 reflex = "+12"
 will = "+8"
 melee = "mwk rapier +11 (1d6+1/18-20)"
-ranged = "longbow +10 (1d8/&times&3)"
+ranged = "longbow +10 (1d8/×3)"
 special_qualities = "change shape (trumpeter swan; beast shape I), feather cloak, trackless step, transformation ritual"
 abilities = ["13", "20", "15", "10", "12", "15"]
 +++
@@ -76,7 +76,7 @@ with a winged helm._
 
 **Melee:** mwk rapier +11 (1d6+1/18-20)
 
-**Ranged:** longbow +10 (1d8/&times&3)
+**Ranged:** longbow +10 (1d8/×3)
 
 **Spell-Like Abilities**
 

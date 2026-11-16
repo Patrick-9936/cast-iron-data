@@ -22,7 +22,7 @@ fortitude = "+7"
 reflex = "+5"
 will = "+9"
 melee = "mwk heavy mace +9/+4 (1d8+3), bite +3 (1d4+1 plus poison)"
-ranged = "mwk composite longbow +8/+3 (1d8+2/&times&3)"
+ranged = "mwk composite longbow +8/+3 (1d8+2/×3)"
 special_qualities = "undersized weapons"
 abilities = ["15", "15", "18", "15", "16", "16"]
 +++
@@ -70,7 +70,7 @@ centaurian fusion of drow and spider._
 
 **Melee:** mwk heavy mace +9/+4 (1d8+3), bite +3 (1d4+1 plus poison)
 
-**Ranged:** mwk composite longbow +8/+3 (1d8+2/&times&3)
+**Ranged:** mwk composite longbow +8/+3 (1d8+2/×3)
 
 **Reach:** 5
 

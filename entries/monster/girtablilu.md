@@ -22,8 +22,8 @@ hp = "105~10d10+50"
 fortitude = "+8"
 reflex = "+11"
 will = "+9"
-melee = "mwk spear +15/+10 (1d8+7/&times&3), 2 claws +9 (1d6+2 plus grab), sting +9 (1d6+2 plus poison)"
-ranged = "mwk spear +12 (1d8+5/&times&3)"
+melee = "mwk spear +15/+10 (1d8+7/×3), 2 claws +9 (1d6+2 plus grab), sting +9 (1d6+2 plus poison)"
+ranged = "mwk spear +12 (1d8+5/×3)"
 special_qualities = "scorpion empathy +10, undersized weapons"
 abilities = ["20", "15", "21", "10", "14", "11"]
 +++
@@ -68,10 +68,10 @@ _The body of a spear-wielding woman rises from the front of this monstrously hug
 
 **Constrict:** 1d6+5
 
-**Melee:** mwk spear +15/+10 (1d8+7/&times&3), 2 claws +9 (1d6+2 plus [grab](ref/umr/grab)), sting
-+9 (1d6+2 plus poison)
+**Melee:** mwk spear +15/+10 (1d8+7/×3), 2 claws +9 (1d6+2 plus [grab](ref/umr/grab)), sting +9
+(1d6+2 plus poison)
 
-**Ranged:** mwk spear +12 (1d8+5/&times&3)
+**Ranged:** mwk spear +12 (1d8+5/×3)
 
 **Reach:** 10
 

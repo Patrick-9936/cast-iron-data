@@ -22,7 +22,7 @@ hp = "162~17d8+85"
 fortitude = "+14"
 reflex = "+9"
 will = "+10; +10 vs. environmental effects and traps within bonded ruin"
-melee = "adamantine warhammer +16/+11/+6 (1d8+6/&times&3)"
+melee = "adamantine warhammer +16/+11/+6 (1d8+6/×3)"
 special_attacks = "fatal accident (1/day, 12d6 or 6d6 plus maneuver, DC 21 half)"
 special_qualities = "ruin bond, unliving nature"
 abilities = ["19", "14", "19", "15", "16", "17"]
@@ -77,7 +77,7 @@ eerie agility._
 
 **Speed:** 20 ft.
 
-**Melee:** adamantine warhammer +16/+11/+6 (1d8+6/&times&3)
+**Melee:** adamantine warhammer +16/+11/+6 (1d8+6/×3)
 
 **Spec Att:** fatal accident (1/day, 12d6 or 6d6 plus maneuver, DC 21 half)
 

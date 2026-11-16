@@ -17,5 +17,5 @@ alternate = false
 +++
 
 Elves are proficient with longbows (including composite longbows), longswords, rapiers, and
-shortbows (including composite shortbows), and treat any weapon with the word &quot&elven&quot& in
-its name as a martial weapon.
+shortbows (including composite shortbows), and treat any weapon with the word "elven" in its name as
+a martial weapon.

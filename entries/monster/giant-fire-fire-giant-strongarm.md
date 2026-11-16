@@ -23,7 +23,7 @@ hp = "158~15d8+3d10+75~18"
 fortitude = "+16"
 reflex = "+7"
 will = "+11 (+1 vs. fear)"
-melee = "+1 flaming warhammer +27/+22/+17 (2d6+13/&times&3)"
+melee = "+1 flaming warhammer +27/+22/+17 (2d6+13/×3)"
 ranged = "rock +15/+10/+5 (1d8+18 plus 1d6 fire)"
 special_attacks = "heated rock"
 special_qualities = "armor training 1"
@@ -76,7 +76,7 @@ abilities = ["35", "13", "19", "12", "16", "10"]
 
 **Speed:** 30 ft.
 
-**Melee:** +1 flaming warhammer +27/+22/+17 (2d6+13/&times&3)
+**Melee:** +1 flaming warhammer +27/+22/+17 (2d6+13/×3)
 
 **Ranged:** rock +15/+10/+5 (1d8+18 plus 1d6 fire)
 

@@ -17,5 +17,5 @@ category = "Combat"
 
 **Flavor:** You know the ancient fighting techniques of the Tar Taargadth Empire.
 
-**Benefit:** You gain a +1 trait bonus on damage rolls when using any weapon with the word
-&quot&dwarven&quot& in its name.
+**Benefit:** You gain a +1 trait bonus on damage rolls when using any weapon with the word "dwarven"
+in its name.

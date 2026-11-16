@@ -183,9 +183,9 @@ mount after the first adds +2 to the DC.
 
 #### Banner (Ex) {#banner}
 
-**Choice:** Choose one of the following standards. The &quot&Original Standard&quot& refers to the
-original _banner_ ability as printed in _Advanced Player's Guide,_ while the other standards were
-introduced in other rulebooks.
+**Choice:** Choose one of the following standards. The "Original Standard" refers to the original
+_banner_ ability as printed in _Advanced Player's Guide,_ while the other standards were introduced
+in other rulebooks.
 
 **Flavor:** A cavalier's banner becomes a symbol of inspiration to his allies and companions.
 

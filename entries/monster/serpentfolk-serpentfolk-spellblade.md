@@ -23,7 +23,7 @@ fortitude = "+15"
 reflex = "+14"
 will = "+12"
 melee = "+2 corrosive scimitar +17/+12/+7 (1d6+5/15-20 plus 1d6 acid), bite +9 (1d6+1 plus poison)"
-ranged = "mwk composite longbow +19/+14/+9 (1d8+4/&times&3)"
+ranged = "mwk composite longbow +19/+14/+9 (1d8+4/×3)"
 special_attacks = "improved spell combat~spell combat (-2 attack, +2 concentration)~spellstrike"
 special_qualities = "arcane pool (9 points, +3), knowledge pool, magus arcana (hasted assault, pool strike +4d6, spell shield), medium armor proficiency, spell recall"
 abilities = ["16", "23", "21", "20", "13", "16"]
@@ -71,7 +71,7 @@ abilities = ["16", "23", "21", "20", "13", "16"]
 
 **Melee:** +2 corrosive scimitar +17/+12/+7 (1d6+5/15-20 plus 1d6 acid), bite +9 (1d6+1 plus poison)
 
-**Ranged:** mwk composite longbow +19/+14/+9 (1d8+4/&times&3)
+**Ranged:** mwk composite longbow +19/+14/+9 (1d8+4/×3)
 
 **Spec Att:** improved spell combat, spell combat (-2 attack, +2 concentration), spellstrike
 

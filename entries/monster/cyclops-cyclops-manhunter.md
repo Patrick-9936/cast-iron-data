@@ -23,8 +23,8 @@ hp = "80~10d8+2d10+24~12"
 fortitude = "+13"
 reflex = "+8"
 will = "+6"
-melee = "mwk greataxe +17/+12 (3d6+10/&times&3)"
-ranged = "+1 composite longbow +10/+5 (2d6+8/&times&3)"
+melee = "mwk greataxe +17/+12 (3d6+10/×3)"
+ranged = "+1 composite longbow +10/+5 (2d6+8/×3)"
 special_attacks = "combat style (two-handed weapon)"
 special_qualities = "flash of insight, track +1, wild empathy +2"
 abilities = ["25", "12", "15", "8", "15", "10"]
@@ -75,9 +75,9 @@ stained with gore serves as a warning for opponents who dare draw closer._
 
 **Fav En:** humans +2
 
-**Melee:** mwk greataxe +17/+12 (3d6+10/&times&3)
+**Melee:** mwk greataxe +17/+12 (3d6+10/×3)
 
-**Ranged:** +1 composite longbow +10/+5 (2d6+8/&times&3)
+**Ranged:** +1 composite longbow +10/+5 (2d6+8/×3)
 
 **Reach:** 10
 

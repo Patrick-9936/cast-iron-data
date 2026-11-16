@@ -139,9 +139,9 @@ breath (1d6 negative levels), tail sweep
 
 **Combat maneuver defense:** 54 (58 vs. trip)
 
-**Feats:** Alertness, Critical Focus, Greater Vital Strike, Improved Critical (&times&2: bite,
-claw), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Multiattack, Snatch,
-Staggering Critical, Step Up, Vital Strike, Weapon Focus (bite)
+**Feats:** Alertness, Critical Focus, Greater Vital Strike, Improved Critical (×2: bite, claw),
+Improved Initiative, Improved Vital Strike, Lightning Reflexes, Multiattack, Snatch, Staggering
+Critical, Step Up, Vital Strike, Weapon Focus (bite)
 
 **Skills:** Bluff +38, Diplomacy +38, Sense Motive +44, Spellcraft +38, Stealth +18
 

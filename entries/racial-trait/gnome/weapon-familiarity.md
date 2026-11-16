@@ -16,4 +16,4 @@ kind = "racial_trait"
 alternate = false
 +++
 
-Gnomes treat any weapon with the word &quot&gnome&quot& in its name as a martial weapon.
+Gnomes treat any weapon with the word "gnome" in its name as a martial weapon.

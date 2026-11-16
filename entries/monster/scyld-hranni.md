@@ -24,7 +24,7 @@ fortitude = "+26"
 reflex = "+14"
 will = "+24"
 melee = "+3 shocking burst trident +40/+35/+30/+25 (3d6+18/19-20) or 2 slams +36 (2d6+15)"
-ranged = "+1 seeking composite longbow +26/+21/+16/+11 (3d6+16/&times&3)"
+ranged = "+1 seeking composite longbow +26/+21/+16/+11 (3d6+16/×3)"
 special_attacks = "gale aura~surge"
 special_qualities = "militant, water breathing"
 abilities = ["40", "18", "25", "16", "30", "17"]
@@ -79,7 +79,7 @@ and a coral-encrusted shield._
 
 **Melee:** +3 shocking burst trident +40/+35/+30/+25 (3d6+18/19-20) or 2 slams +36 (2d6+15)
 
-**Ranged:** +1 seeking composite longbow +26/+21/+16/+11 (3d6+16/&times&3)
+**Ranged:** +1 seeking composite longbow +26/+21/+16/+11 (3d6+16/×3)
 
 **Reach:** 15
 

@@ -24,7 +24,7 @@ fortitude = "+13"
 reflex = "+10"
 will = "+6"
 melee = "mwk greatsword +18/+13 (3d6+12/19-20)"
-ranged = "mwk composite shortbow +10/+5 (1d8+8/&times&3)"
+ranged = "mwk composite shortbow +10/+5 (1d8+8/×3)"
 special_attacks = "combat style (two-handed weapon)"
 special_qualities = "favored terrain (forest +2), hunter's bond (wolf animal companion), track +3, wild empathy +3"
 abilities = ["26", "12", "17", "8", "10", "5"]
@@ -72,7 +72,7 @@ abilities = ["26", "12", "17", "8", "10", "5"]
 
 **Melee:** mwk greatsword +18/+13 (3d6+12/19-20)
 
-**Ranged:** mwk composite shortbow +10/+5 (1d8+8/&times&3)
+**Ranged:** mwk composite shortbow +10/+5 (1d8+8/×3)
 
 **Reach:** 10
 

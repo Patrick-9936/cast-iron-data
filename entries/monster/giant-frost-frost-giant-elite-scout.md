@@ -23,7 +23,7 @@ hp = "197~14d8+4d10+112~18"
 fortitude = "+19"
 reflex = "+11"
 will = "+10"
-melee = "+1 spear +24/+19/+14 (2d6+16/&times&3)"
+melee = "+1 spear +24/+19/+14 (2d6+16/×3)"
 ranged = "rock +16 (1d8+15)"
 special_attacks = "combat style (archery)"
 special_qualities = "favored terrain (cold +2), hunter's bond (companions), track +2, wild empathy +3"
@@ -72,7 +72,7 @@ abilities = ["31", "16", "22", "14", "16", "8"]
 
 **Fav En:** humans +2
 
-**Melee:** +1 spear +24/+19/+14 (2d6+16/&times&3)
+**Melee:** +1 spear +24/+19/+14 (2d6+16/×3)
 
 **Ranged:** rock +16 (1d8+15)
 

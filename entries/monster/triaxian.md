@@ -22,8 +22,8 @@ hp = "13~1d10+3"
 fortitude = "+4"
 reflex = "+4"
 will = "+2"
-melee = "lance +2 (1d8+1/&times&3) or longsword +2 (1d8+1/19-20)"
-ranged = "composite longbow +3 (1d8+1/&times&3)"
+melee = "lance +2 (1d8+1/×3) or longsword +2 (1d8+1/19-20)"
+ranged = "composite longbow +3 (1d8+1/×3)"
 special_qualities = "seasoned, track +1, wild empathy +0"
 abilities = ["13", "14", "15", "10", "14", "8"]
 +++
@@ -72,9 +72,9 @@ fur._
 
 **Fav En:** dragons +2
 
-**Melee:** lance +2 (1d8+1/&times&3) or longsword +2 (1d8+1/19-20)
+**Melee:** lance +2 (1d8+1/×3) or longsword +2 (1d8+1/19-20)
 
-**Ranged:** composite longbow +3 (1d8+1/&times&3)
+**Ranged:** composite longbow +3 (1d8+1/×3)
 
 **Statistics**
 

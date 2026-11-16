@@ -24,7 +24,7 @@ fortitude = "+6"
 reflex = "+3"
 will = "+3 (+1 vs. fear)"
 melee = "mwk longsword +6 (1d8+2/19-20) or flail +5 (1d8+2)"
-ranged = "mwk longbow +6 (1d8/&times&3)"
+ranged = "mwk longbow +6 (1d8/×3)"
 special_qualities = "armor training 1"
 abilities = ["15", "14", "16", "13", "10", "8"]
 +++
@@ -74,7 +74,7 @@ eyes._
 
 **Melee:** mwk longsword +6 (1d8+2/19-20) or flail +5 (1d8+2)
 
-**Ranged:** mwk longbow +6 (1d8/&times&3)
+**Ranged:** mwk longbow +6 (1d8/×3)
 
 **Statistics**
 

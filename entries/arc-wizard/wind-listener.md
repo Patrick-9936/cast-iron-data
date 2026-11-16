@@ -34,11 +34,11 @@ features.
 
 **Spontaneous Divination (Su)**
 
-**Ability:** The wind listener can &quot&lose&quot& any prepared spell that is not a cantrip in
-order to cast a divination spell of the same spell level or lower. The new spell must be one the
-wind listener knows and is capable of casting. Spells cast with this ability increase their casting
-time to a **full-round action** (if the spell's normal casting time is longer than a full-round
-action, it remains unchanged).
+**Ability:** The wind listener can "lose" any prepared spell that is not a cantrip in order to cast
+a divination spell of the same spell level or lower. The new spell must be one the wind listener
+knows and is capable of casting. Spells cast with this ability increase their casting time to a
+**full-round action** (if the spell's normal casting time is longer than a full-round action, it
+remains unchanged).
 
 **Flavor:** A wind listener can reshape stored spell energy into divination spells he did not
 prepare ahead of time.

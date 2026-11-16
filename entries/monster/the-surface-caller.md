@@ -23,7 +23,7 @@ hp = "58~4d6+4d10+20~8"
 fortitude = "+5"
 reflex = "+9"
 will = "+6; +2 vs. charm, cold, enchantments, fear, fire, and sleep"
-melee = "+1 punching dagger +11/+6 (1d4+3/&times&3) or dagger +9/+4 (1d4/19-20)"
+melee = "+1 punching dagger +11/+6 (1d4+3/×3) or dagger +9/+4 (1d4/19-20)"
 ranged = "dagger +9/+4 (1d4/19-20)"
 special_attacks = "deeds (derring-do, dodging panache, kip-up, menacing swordplay, opportune parry and riposte, precise strike, swashbuckler initiative)~panache (5)"
 special_qualities = "dare (out for blood), horrific visage, poison use, swashbuckler finesse, wretched endurance"
@@ -79,7 +79,7 @@ demonic face._
 
 **Speed:** 30 ft.
 
-**Melee:** +1 punching dagger +11/+6 (1d4+3/&times&3) or dagger +9/+4 (1d4/19-20)
+**Melee:** +1 punching dagger +11/+6 (1d4+3/×3) or dagger +9/+4 (1d4/19-20)
 
 **Ranged:** dagger +9/+4 (1d4/19-20)
 

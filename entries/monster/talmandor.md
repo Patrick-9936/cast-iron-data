@@ -23,7 +23,7 @@ hp = "472~27d10+324"
 fortitude = "+27"
 reflex = "+22"
 will = "+21; +4 vs. poison"
-melee = "2 claws +40 (3d6+12/18-20/&times&3), 2 wings +37 (3d6+4)"
+melee = "2 claws +40 (3d6+12/18-20/×3), 2 wings +37 (3d6+4)"
 special_attacks = "channel positive energy~coruscating charge~sacred slasher~twin talons"
 special_qualities = "benevolent mercy, lay on hands (10d6, 10/day, as a 20th-level paladin)"
 abilities = ["26", "36", "35", "19", "23", "24"]
@@ -81,7 +81,7 @@ DC 30, 10 rounds), quell the profane
 
 **Speed:** 40 ft., fly 180 ft. (good)
 
-**Melee:** 2 claws +40 (3d6+12/18-20/&times&3), 2 wings +37 (3d6+4)
+**Melee:** 2 claws +40 (3d6+12/18-20/×3), 2 wings +37 (3d6+4)
 
 **Pounce:** present
 

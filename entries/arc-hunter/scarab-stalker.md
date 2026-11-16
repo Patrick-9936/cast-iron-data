@@ -137,9 +137,9 @@ At 15th level: This bonus increases to +6.
 **Passive:** The creature ignores the Perception penalty from sandstorms and can see twice as far in
 sandstorms.
 
-At 8th level: This 3&times& as far.
+At 8th level: This 3× as far.
 
-At 15th level: This 4&times& as far.
+At 15th level: This 4× as far.
 
 **Uraeus**
 

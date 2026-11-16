@@ -59,8 +59,7 @@ attacks.
 minute; gaining a +2 racial bonus to Constitution and Strength but a -2 penalty to AC.
 
 **Speak with Sharks:** Sahuagin can communicate telepathically with sharks to a distance of 100
-feet. This communication is limited to simple concepts, such as &quot&attack,&quot&
-&quot&come,&quot& and &quot&attack.&quot&
+feet. This communication is limited to simple concepts, such as "attack," "come," and "attack."
 
 **Languages:** Sahuagin begin play speaking Aquan and Common. Sahuagin with high Intelligence scores
 can choose from the following bonus languages: Aboleth, Abyssal, Aklo, Draconic, Giant, Goblin, and

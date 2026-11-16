@@ -27,7 +27,7 @@ fortitude = "+2"
 reflex = "+3"
 will = "-1"
 melee = "scimitar +4 (1d6+3/18-20)"
-ranged = "shortbow +2 (1d6/&times&3)"
+ranged = "shortbow +2 (1d6/×3)"
 special_attacks = "elemental assault"
 special_qualities = "track +1, wild empathy +1"
 abilities = ["15", "12", "11", "10", "9", "10"]
@@ -80,7 +80,7 @@ blaze of crackling flames._
 
 **Melee:** scimitar +4 (1d6+3/18-20)
 
-**Ranged:** shortbow +2 (1d6/&times&3)
+**Ranged:** shortbow +2 (1d6/×3)
 
 **Spec Att:** elemental assault
 

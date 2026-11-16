@@ -43,7 +43,7 @@ grants the spiritualist this bonus on [Spellcraft](ref/skill/spellcraft) check.
 **Ability:** A phantom with this focus threatens a critical hit with its slam attacks on a result of
 19-20.
 
-**At 11th Level:** Its critical multiplier with slam attacks increases to &times&3.
+**At 11th Level:** Its critical multiplier with slam attacks increases to ×3.
 
 **Assume Effect (Su)**
 

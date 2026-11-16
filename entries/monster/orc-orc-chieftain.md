@@ -23,8 +23,8 @@ hp = "99~10d10+40"
 fortitude = "+9"
 reflex = "+6"
 will = "+1 (+3 vs. fear)"
-melee = "+1 orc double axe +18/+13 (1d8+9/19-20/&times&3) or +1 orc double axe +16/+11 (1d8+9/19-20/&times&3), +1 orc double axe +16 (1d8+5/19-20/&times&3)"
-ranged = "mwk composite shortbow +15/+10 (1d6+5/&times&3)"
+melee = "+1 orc double axe +18/+13 (1d8+9/19-20/×3) or +1 orc double axe +16/+11 (1d8+9/19-20/×3), +1 orc double axe +16 (1d8+5/19-20/×3)"
+ranged = "mwk composite shortbow +15/+10 (1d6+5/×3)"
 special_attacks = "weapon training (axes +2, bows +1)"
 special_qualities = "armor training 2, weapon familiarity"
 abilities = ["18", "16", "14", "8", "6", "10"]
@@ -74,10 +74,10 @@ abilities = ["18", "16", "14", "8", "6", "10"]
 
 **Speed:** 30 ft.
 
-**Melee:** +1 orc double axe +18/+13 (1d8+9/19-20/&times&3) or +1 orc double axe +16/+11
-(1d8+9/19-20/&times&3), +1 orc double axe +16 (1d8+5/19-20/&times&3)
+**Melee:** +1 orc double axe +18/+13 (1d8+9/19-20/×3) or +1 orc double axe +16/+11 (1d8+9/19-20/×3),
++1 orc double axe +16 (1d8+5/19-20/×3)
 
-**Ranged:** mwk composite shortbow +15/+10 (1d6+5/&times&3)
+**Ranged:** mwk composite shortbow +15/+10 (1d6+5/×3)
 
 **Spec Att:** weapon training (axes +2, bows +1)
 

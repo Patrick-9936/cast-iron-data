@@ -61,9 +61,9 @@ mindless creatures or those with Intelligence 2 or less.
 
 **Replaces:** Domain
 
-**Special:** In some faiths, this &quot&eating&quot& is a purely symbolic act, while in others, the
-inquisitor must eat a small amount of food and water as part of the ritual. A few extreme faiths
-actually require the inquisitor to eat some of the body of the slain enemy.
+**Special:** In some faiths, this "eating" is a purely symbolic act, while in others, the inquisitor
+must eat a small amount of food and water as part of the ritual. A few extreme faiths actually
+require the inquisitor to eat some of the body of the slain enemy.
 
 **Speak with Dead (Sp)**
 

@@ -185,13 +185,13 @@ rope snaps instead.
 
 **Snow Cave**
 
-**Details:** The temperature in an inhabited snow cave generally remains around 32&deg& F regardless
-of outside temperature. A lit candle further increases the temperature by 10&deg& F.
+**Details:** The temperature in an inhabited snow cave generally remains around 32° F regardless of
+outside temperature. A lit candle further increases the temperature by 10° F.
 
 **Torch**
 
-**Details:** A makeshift torch burns for 1d6 &times& 5 minutes and has the
-[fragile](ref/misc/fragile) quality if used as an [improvised weapon](ref/misc/improvised-weapons).
+**Details:** A makeshift torch burns for 1d6 × 5 minutes and has the [fragile](ref/misc/fragile)
+quality if used as an [improvised weapon](ref/misc/improvised-weapons).
 
 ### Snares and Simple Traps
 

@@ -34,9 +34,8 @@ fate, and those strands guide your endeavors.
 
 **Ability:** When you use your _[augury](ref/spell/augury)_
 [spell-like ability](ref/umr/spell-like-abilities), you gain a benefit that lasts until the end of
-your next combat. If the result was &quot&weal,&quot& all curing effects used on you cure an
-additional +1d10 hit points. If the result was &quot&woe,&quot& your melee attacks deal an
-additional +1d6 points of damage. If the result is &quot&weal and woe&quot& or &quot&nothing,&quot&
-you gain a +2 insight bonus to your Armor Class.
+your next combat. If the result was "weal," all curing effects used on you cure an additional +1d10
+hit points. If the result was "woe," your melee attacks deal an additional +1d6 points of damage. If
+the result is "weal and woe" or "nothing," you gain a +2 insight bonus to your Armor Class.
 
 **Gained:** At 8th Level

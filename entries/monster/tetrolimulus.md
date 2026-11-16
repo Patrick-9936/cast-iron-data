@@ -23,7 +23,7 @@ hp = "147~14d10+70"
 fortitude = "+16"
 reflex = "+13"
 will = "+7"
-melee = "2 claws +19 (2d6+6/&times&4), sting +17 (1d6+3 plus poison)"
+melee = "2 claws +19 (2d6+6/×4), sting +17 (1d6+3 plus poison)"
 special_attacks = "poison"
 special_qualities = "amphibious, shoreline mastery"
 abilities = ["22", "18", "21", "3", "12", "9"]
@@ -71,7 +71,7 @@ rapier-like tail stinger._
 
 **Speed:** 50 ft., swim 50 ft.
 
-**Melee:** 2 claws +19 (2d6+6/&times&4), sting +17 (1d6+3 plus poison)
+**Melee:** 2 claws +19 (2d6+6/×4), sting +17 (1d6+3 plus poison)
 
 **Pounce:** present
 

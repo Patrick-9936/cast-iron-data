@@ -48,9 +48,9 @@ An oracle with the Succor mystery can choose from any of the following revelatio
 
 **Combat Healer (Su)**
 
-**Ability:** Whenever you cast a cure spell (a spell with &quot&cure&quot& in its name), you can
-cast it as a **swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by
-expending two spell slots. This does not increase the level of the spell.
+**Ability:** Whenever you cast a cure spell (a spell with "cure" in its name), you can cast it as a
+**swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by expending two
+spell slots. This does not increase the level of the spell.
 
 **Flavor:** This is the same as the [battle](ref/mystery/battle) mystery revelation.
 
@@ -86,9 +86,9 @@ name.
 
 **Enhanced Inflictions (Su)**
 
-**Ability:** Whenever you cast an _inflict_ spell (a spell with the word &quot&inflict&quot& in the
-name), the maximum amount of damage dealt by the spell is based on your oracle level, not the limit
-based on the spell. For example, an 11th-level oracle of succor with this revelation can cast
+**Ability:** Whenever you cast an _inflict_ spell (a spell with the word "inflict" in the name), the
+maximum amount of damage dealt by the spell is based on your oracle level, not the limit based on
+the spell. For example, an 11th-level oracle of succor with this revelation can cast
 [inflict light wounds](ref/spell/inflict-light-wounds) to deal 1d8+11 points of damage instead of
 the normal 1d8+5 maximum.
 

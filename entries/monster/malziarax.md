@@ -24,7 +24,7 @@ fortitude = "+21"
 reflex = "+9"
 will = "+20; +1 vs. fear"
 melee = "+3 speed longsword +35/+30/+25/+20 (4d6+21/17-20) or 2 slams +31 (2d6+16)"
-ranged = "+1 spear +18/+13/+8/+3 (4d6+17/&times&3)"
+ranged = "+1 spear +18/+13/+8/+3 (4d6+17/×3)"
 special_attacks = "command giants~runes~spark shower"
 special_qualities = "armor training 1"
 abilities = ["43", "14", "32", "18", "21", "26"]
@@ -77,7 +77,7 @@ _This enormous, ebon-skinned giant is covered in glowing red runes and exotic pl
 **Melee:** +3 [speed](ref/magic-enh/speed) longsword +35/+30/+25/+20 (4d6+21/17-20) or 2 slams +31
 (2d6+16)
 
-**Ranged:** +1 spear +18/+13/+8/+3 (4d6+17/&times&3)
+**Ranged:** +1 spear +18/+13/+8/+3 (4d6+17/×3)
 
 **Reach:** 20
 

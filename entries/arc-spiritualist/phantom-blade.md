@@ -86,18 +86,18 @@ spells is her _phantom weapon._
 
 **Spellstrike (Su)**
 
-**Ability:** Whenever you cast a spell with a range of &quot&touch&quot& from the magus spell list,
-you can deliver the spell through any weapon you are wielding as part of a melee attack. Instead of
-the free melee touch attack normally allowed to deliver the spell, you can make one free melee
-attack with your weapon (at your highest base attack bonus) as part of casting this spell. If
-successful, this melee attack deals its normal damage as well as the effects of the spell. If you
-make this attack in concert with _spell combat,_ this melee attack takes all the penalties accrued
-by spell combat melee attacks.
+**Ability:** Whenever you cast a spell with a range of "touch" from the magus spell list, you can
+deliver the spell through any weapon you are wielding as part of a melee attack. Instead of the free
+melee touch attack normally allowed to deliver the spell, you can make one free melee attack with
+your weapon (at your highest base attack bonus) as part of casting this spell. If successful, this
+melee attack deals its normal damage as well as the effects of the spell. If you make this attack in
+concert with _spell combat,_ this melee attack takes all the penalties accrued by spell combat melee
+attacks.
 
 **Flavor:** Text from the magus class ability.
 
 **Special:** This attack uses the weapon's critical range (20, 19-20, or 18-20 and modified by the
-_keen_ weapon property or similar effects), but the spell effect only deals &times&2 damage on a
+_keen_ weapon property or similar effects), but the spell effect only deals ×2 damage on a
 successful critical hit, while the weapon damage uses its own critical modifier.
 
 **Spirit of War (Ex)**

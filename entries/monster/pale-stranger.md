@@ -22,7 +22,7 @@ hp = "127~15d8+60"
 fortitude = "+9"
 reflex = "+10"
 will = "+13"
-ranged = "+1 pistols +15/+15/+10/+10/+5 (1d8+1/19-20/&times&4)"
+ranged = "+1 pistols +15/+15/+10/+10/+5 (1d8+1/19-20/×4)"
 special_attacks = "pistols~stranger's shot"
 special_qualities = "stranger's luck"
 abilities = ["17", "21", "-", "11", "18", "18"]
@@ -75,7 +75,7 @@ smells of old decay._
 
 **Speed:** 30 ft.
 
-**Ranged:** +1 pistols +15/+15/+10/+10/+5 (1d8+1/19-20/&times&4)
+**Ranged:** +1 pistols +15/+15/+10/+10/+5 (1d8+1/19-20/×4)
 
 **Spec Att:** pistols, stranger's shot
 

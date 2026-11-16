@@ -29,8 +29,8 @@ they want.
 skills for you.
 
 Once each week you can call on family connections to obtain a single piece of equipment or
-consumable magic item (such as a potion or scroll) worth up to your character level &times& 25 gp.
+consumable magic item (such as a potion or scroll) worth up to your character level × 25 gp.
 Delivery of the goods you request takes 1d4 days.
 
-At 10th level, the potential value of a magical item increases to your character level &times& 50
-gp, and your requests can also include spellcasting services and wands.
+At 10th level, the potential value of a magical item increases to your character level × 50 gp, and
+your requests can also include spellcasting services and wands.

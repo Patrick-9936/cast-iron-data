@@ -22,8 +22,8 @@ hp = "99~2d8+7d10+52~9"
 fortitude = "+13"
 reflex = "+9"
 will = "+15"
-melee = "mwk greataxe +15/+10 (1d12+7/19-20/&times&3), bite +8 (1d6+2 plus disease and paralysis) or bite +13 (1d6+5 plus disease and paralysis), 2 claws +13 (1d6+5 plus paralysis)"
-ranged = "mwk composite shortbow +12/+7 (1d6+5/&times&3)"
+melee = "mwk greataxe +15/+10 (1d12+7/19-20/×3), bite +8 (1d6+2 plus disease and paralysis) or bite +13 (1d6+5 plus disease and paralysis), 2 claws +13 (1d6+5 plus paralysis)"
+ranged = "mwk composite shortbow +12/+7 (1d6+5/×3)"
 special_attacks = "disease (DC 15)"
 special_qualities = "cruelties (fatigued, staggered), fiendish boon (fiendish dire boar servant), touch of corruption 7/day (3d6)"
 abilities = ["20", "17", "-", "13", "16", "18"]
@@ -73,13 +73,13 @@ abilities = ["20", "17", "-", "13", "16", "18"]
 
 **Ch N En:** DC 17, 4d6
 
-**Melee:** mwk greataxe +15/+10 (1d12+7/19-20/&times&3), bite +8 (1d6+2 plus disease and paralysis)
-or bite +13 (1d6+5 plus disease and paralysis), 2 claws +13 (1d6+5 plus paralysis)
+**Melee:** mwk greataxe +15/+10 (1d12+7/19-20/×3), bite +8 (1d6+2 plus disease and paralysis) or
+bite +13 (1d6+5 plus disease and paralysis), 2 claws +13 (1d6+5 plus paralysis)
 
 **Paralysis:** 1d4+1 rounds, DC 15, elves are immune to this effect), smite good 3/day (+4 attack
 and AC, +7 damage
 
-**Ranged:** mwk composite shortbow +12/+7 (1d6+5/&times&3)
+**Ranged:** mwk composite shortbow +12/+7 (1d6+5/×3)
 
 **Spec Att:** disease (DC 15)
 

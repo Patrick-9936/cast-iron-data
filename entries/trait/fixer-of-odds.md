@@ -17,10 +17,10 @@ category = "Campaign"
 
 **Campaign:** Second Darkness
 
-**Flavor:** You're going to win the Golden Goblin's upcoming &quot&Cheat the Devil and Take His
-Gold&quot& tournament one way or the other.
+**Flavor:** You're going to win the Golden Goblin's upcoming "Cheat the Devil and Take His Gold"
+tournament one way or the other.
 
 **Benefit:** You gain a +1 trait bonus on [Profession](ref/skill/profession-any) (gambling) checks,
 and creatures searching you for objects hidden on your body don't gain the usual +4 bonus on their
-Perception checks. Additionally, you begin play with a &quot&fixed&quot& six-sided die (it has two
-6s and no 1) and a [dagger](ref/eq-weapon/dagger).
+Perception checks. Additionally, you begin play with a "fixed" six-sided die (it has two 6s and no
+1) and a [dagger](ref/eq-weapon/dagger).

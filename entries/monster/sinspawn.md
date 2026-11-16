@@ -25,7 +25,7 @@ hp = "19~3d8+6"
 fortitude = "+3"
 reflex = "+2"
 will = "+4"
-melee = "ranseur +3 (2d4+1/&times&3), bite -2 (1d6 plus sinful bite) or bite +3 (1d6+1 plus sinful bite), 2 claws +3 (1d4+1)"
+melee = "ranseur +3 (2d4+1/×3), bite -2 (1d6 plus sinful bite) or bite +3 (1d6+1 plus sinful bite), 2 claws +3 (1d4+1)"
 special_qualities = "martial proficiency"
 abilities = ["13", "13", "14", "10", "13", "12"]
 +++
@@ -71,7 +71,7 @@ with three-fingered hands._
 
 **Speed:** 40 ft.
 
-**Melee:** ranseur +3 (2d4+1/&times&3), bite -2 (1d6 plus sinful bite) or bite +3 (1d6+1 plus sinful
+**Melee:** ranseur +3 (2d4+1/×3), bite -2 (1d6 plus sinful bite) or bite +3 (1d6+1 plus sinful
 bite), 2 claws +3 (1d4+1)
 
 **Statistics**

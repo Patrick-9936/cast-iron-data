@@ -82,8 +82,8 @@ evil spell or enchantment spell cast by an evil creature. This functions as per
 to be affected. Natural and manufactured weapons wielded by affected allies are treated as though
 they were silver for the purpose of bypassing [damage reduction](ref/rule/damage-reduction).
 
-**Flavor:** The argent voice learns how to mimic aspects of the magical &quot&Song of Silver&quot&
-with his performance, enhancing his allies' ability to combat devils and similar fiends.
+**Flavor:** The argent voice learns how to mimic aspects of the magical "Song of Silver" with his
+performance, enhancing his allies' ability to combat devils and similar fiends.
 
 **At 14th Level:** Allies' natural and manufactured weapons also gain the benefit of the evil
 outsider [bane](ref/magic-enh/bane) weapon special ability.

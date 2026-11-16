@@ -58,9 +58,9 @@ functions as a universalist wizard in this regard.
 A runic focus allows the runesage to augment spells of a single arcane school to which the runic
 focus is aligned. As long as a runic focus remains activated, the runesage doesn't require material
 components for any spell she casts from the runic focus's aligned arcane school, provided the
-component's cost never exceeds 10 gp &times& the runesage's caster level. If the spell requires a
-material component that surpasses the cost limit, the runesage must have the material component on
-hand to cast the spell, as normal.
+component's cost never exceeds 10 gp × the runesage's caster level. If the spell requires a material
+component that surpasses the cost limit, the runesage must have the material component on hand to
+cast the spell, as normal.
 
 A runic focus has an AC of 24, 10 hit points, and [hardness](ref/umr/hardness) 5, as per an ioun
 stone. While the first runic focus a runesage creates is free, replacement runic foci can be created

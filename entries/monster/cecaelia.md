@@ -23,8 +23,8 @@ hp = "45~6d10+12"
 fortitude = "+4"
 reflex = "+9"
 will = "+6"
-melee = "mwk spear +11/+6 (1d8+4/&times&3), 2 tentacles +5 (1d4+1 plus grab)"
-ranged = "mwk spear +12 (1d8+3/&times&3)"
+melee = "mwk spear +11/+6 (1d8+4/×3), 2 tentacles +5 (1d4+1 plus grab)"
+ranged = "mwk spear +12 (1d8+3/×3)"
 special_qualities = "amphibious"
 abilities = ["16", "19", "14", "9", "12", "11"]
 +++
@@ -69,9 +69,9 @@ _In place of legs, this handsome humanoid sports an octopus's eight writhing ten
 
 **Jet:** 200
 
-**Melee:** mwk spear +11/+6 (1d8+4/&times&3), 2 tentacles +5 (1d4+1 plus [grab](ref/umr/grab))
+**Melee:** mwk spear +11/+6 (1d8+4/×3), 2 tentacles +5 (1d4+1 plus [grab](ref/umr/grab))
 
-**Ranged:** mwk spear +12 (1d8+3/&times&3)
+**Ranged:** mwk spear +12 (1d8+3/×3)
 
 **Reach:** 5
 

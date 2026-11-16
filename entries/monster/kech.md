@@ -23,7 +23,7 @@ fortitude = "+2"
 reflex = "+6"
 will = "+5"
 melee = "bite +5 (1d6+1), 2 claws +5 (1d4+1)"
-ranged = "longbow +6 (1d8/&times&3)"
+ranged = "longbow +6 (1d8/×3)"
 abilities = ["13", "15", "12", "10", "12", "11"]
 +++
 
@@ -66,7 +66,7 @@ creature moves._
 
 **Melee:** bite +5 (1d6+1), 2 claws +5 (1d4+1)
 
-**Ranged:** longbow +6 (1d8/&times&3)
+**Ranged:** longbow +6 (1d8/×3)
 
 **Rend:** 2 claws 1d4 +1
 

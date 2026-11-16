@@ -17,7 +17,7 @@ category = "Social"
 
 **Penance:** Knights who violate this code must perform penance by placing money into a fund to
 guard against their order's future poverty. The amount required for a knight to set aside is 100
-gold &times& the knight's current level. hl
+gold × the knight's current level. hl
 
 **Code of Perseverance:** Knights who follow the code of perseverance believe that to truly serve a
 purpose, an organization or group of individuals must first look to its own survival. Deeds are
@@ -37,8 +37,8 @@ knights collect power and wealth, always looking to the future. Their vows are a
 **Flavor:** If you follow this code, you are keenly aware of the value of actions as well as goods.
 
 **Benefit:** Once per day while haggling with a merchant or striking a bargain with another
-intelligent creature, you can spend a number of gold pieces equal to your level &times& 10 in order
-to reroll a [Diplomacy](ref/skill/diplomacy) check you just made, before the results are revealed.
-You must take the result of the reroll, even if it's worse than the original roll.
+intelligent creature, you can spend a number of gold pieces equal to your level × 10 in order to
+reroll a [Diplomacy](ref/skill/diplomacy) check you just made, before the results are revealed. You
+must take the result of the reroll, even if it's worse than the original roll.
 
 In addition, you begin play with a set of extravagant noble's clothes worth 100 gp.

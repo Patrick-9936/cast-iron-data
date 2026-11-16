@@ -23,7 +23,7 @@ fortitude = "+27"
 reflex = "+23"
 will = "+29"
 melee = "bite +39 touch (4d10+25/19-20 plus poison), 4 claws +39 (3d6+25/19-20)"
-ranged = "web +35 touch (special/&times&3)"
+ranged = "web +35 touch (special/×3)"
 special_attacks = "critical poisoning~dreams of futility~feed~penetrating bite~poison~powerful blows"
 special_qualities = "otherworldly leap, swift construction"
 abilities = ["44", "36", "44", "29", "33", "28"]
@@ -88,7 +88,7 @@ mind-affecting effects, paralysis, petrification, poison
 
 **Melee:** bite +39 touch (4d10+25/19-20 plus poison), 4 claws +39 (3d6+25/19-20)
 
-**Ranged:** web +35 touch (special/&times&3)
+**Ranged:** web +35 touch (special/×3)
 
 **Reach:** 15
 

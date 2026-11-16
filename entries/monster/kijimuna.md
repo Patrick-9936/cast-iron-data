@@ -23,7 +23,7 @@ hp = "19~3d8+6"
 fortitude = "+3"
 reflex = "+6"
 will = "+1"
-melee = "spear +4 (1d6+1/&times&3)"
+melee = "spear +4 (1d6+1/×3)"
 ranged = "net +6 (special)"
 special_attacks = "steal fire"
 abilities = ["13", "17", "15", "12", "10", "14"]
@@ -69,7 +69,7 @@ teeth._
 
 **Speed:** 30 ft.
 
-**Melee:** spear +4 (1d6+1/&times&3)
+**Melee:** spear +4 (1d6+1/×3)
 
 **Ranged:** net +6 (special)
 

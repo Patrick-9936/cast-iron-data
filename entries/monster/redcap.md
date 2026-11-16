@@ -25,7 +25,7 @@ hp = "60~8d6+32"
 fortitude = "+6"
 reflex = "+10"
 will = "+7"
-melee = "Medium scythe +10 (2d4+10/&times&4), kick +4 (1d4+6)"
+melee = "Medium scythe +10 (2d4+10/×4), kick +4 (1d4+6)"
 special_qualities = "boot stomp, heavy weapons, red cap"
 abilities = ["18", "19", "18", "16", "13", "15"]
 +++
@@ -73,7 +73,7 @@ blood-red pointed cap._
 
 **Speed:** 60 ft.
 
-**Melee:** Medium scythe +10 (2d4+10/&times&4), kick +4 (1d4+6)
+**Melee:** Medium scythe +10 (2d4+10/×4), kick +4 (1d4+6)
 
 **Statistics**
 

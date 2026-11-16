@@ -23,7 +23,7 @@ fortitude = "+4"
 reflex = "+7"
 will = "+5"
 melee = "sting +10 (1d8+7 plus poison)"
-ranged = "composite longbow +8 (1d8+5/&times&3 plus poison) or Rapid Shot +6/+6 (1d8+5/&times&3 plus poison)"
+ranged = "composite longbow +8 (1d8+5/×3 plus poison) or Rapid Shot +6/+6 (1d8+5/×3 plus poison)"
 special_attacks = "merope consumption"
 abilities = ["20", "17", "16", "12", "13", "15"]
 +++
@@ -69,8 +69,7 @@ uncanny skill._
 
 **Melee:** sting +10 (1d8+7 plus poison)
 
-**Ranged:** composite longbow +8 (1d8+5/&times&3 plus poison) or Rapid Shot +6/+6 (1d8+5/&times&3
-plus poison)
+**Ranged:** composite longbow +8 (1d8+5/×3 plus poison) or Rapid Shot +6/+6 (1d8+5/×3 plus poison)
 
 **Spec Att:** merope consumption
 

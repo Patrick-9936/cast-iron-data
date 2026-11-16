@@ -23,7 +23,7 @@ fortitude = "+5"
 reflex = "+8"
 will = "+2; +2 vs. enchantments"
 melee = "mwk rapier +7 (1d6+1/18-20), mwk rapier +7 (1d6/18-20)"
-ranged = "mwk composite longbow +9 (1d8+2/&times&3)"
+ranged = "mwk composite longbow +9 (1d8+2/×3)"
 special_attacks = "combat style (two-weapon)"
 special_qualities = "elven magic, favored terrain (urban +2), hunter's bond (companions), track +2, wild empathy +3"
 abilities = ["12", "18", "12", "12", "13", "8"]
@@ -73,7 +73,7 @@ abilities = ["12", "18", "12", "12", "13", "8"]
 
 **Melee:** mwk rapier +7 (1d6+1/18-20), mwk rapier +7 (1d6/18-20)
 
-**Ranged:** mwk composite longbow +9 (1d8+2/&times&3)
+**Ranged:** mwk composite longbow +9 (1d8+2/×3)
 
 **Spec Att:** combat style (two-weapon)
 

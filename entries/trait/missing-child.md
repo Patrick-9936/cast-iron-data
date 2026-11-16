@@ -18,13 +18,13 @@ category = "Campaign"
 **Campaign:** Curse of the Crimson Throne
 
 **Flavor:** You suspect that a child you know has been abducted by Gaedren Lamm. Whatever the
-relationship, you've heard rumors about &quot&Lamm's Lambs,&quot& and of how the old man uses
-children as pickpockets and agents for his crimes. you've even heard rumors that the child you're
-looking for has been spotted in the marketplaces in the company of known cutpurses and pickpockets.
-Although the Korvosan Guard has been understanding of your plight, it has its hands full with
-&quot&more important&quot& matters these days, it seems, and has not yet been able to learn anything
-more about Gaedren. No one else is interested in bringing Gaedren down and rescuing his victims -
-that task falls to you. Yet where could the old scoundrel be hiding?
+relationship, you've heard rumors about "Lamm's Lambs," and of how the old man uses children as
+pickpockets and agents for his crimes. you've even heard rumors that the child you're looking for
+has been spotted in the marketplaces in the company of known cutpurses and pickpockets. Although the
+Korvosan Guard has been understanding of your plight, it has its hands full with "more important"
+matters these days, it seems, and has not yet been able to learn anything more about Gaedren. No one
+else is interested in bringing Gaedren down and rescuing his victims - that task falls to you. Yet
+where could the old scoundrel be hiding?
 
 **Benefit:** Choose one of the following benefits.
 

@@ -24,7 +24,7 @@ fortitude = "+6"
 reflex = "+9"
 will = "+4"
 melee = "mwk scimitar +9 (1d6+3/18-20)"
-ranged = "+1 composite longbow +10 (1d8+4/&times&3)"
+ranged = "+1 composite longbow +10 (1d8+4/×3)"
 special_qualities = "favored terrain (forest +2), stalker, track +1, wild empathy +1"
 abilities = ["16", "17", "15", "12", "14", "6"]
 +++
@@ -74,7 +74,7 @@ the thrill of the coming kill._
 
 **Melee:** mwk scimitar +9 (1d6+3/18-20)
 
-**Ranged:** +1 composite longbow +10 (1d8+4/&times&3)
+**Ranged:** +1 composite longbow +10 (1d8+4/×3)
 
 ### Tactics
 

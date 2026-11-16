@@ -92,14 +92,14 @@ round to continue your _doomsaying._
 
 **At 10th Level:** You can use this ability twice per day.
 
-**At 11th Level:** This damage increases to 1d6 &times& your Charisma modifier (minimum 1d6).
+**At 11th Level:** This damage increases to 1d6 × your Charisma modifier (minimum 1d6).
 
 **Standard:** Once per day, you can cause the weapons around you to shatter in their wielders'
 hands. When you use this ability, attempt a single [sunder](ref/rule/sunder) combat maneuver, using
 your caster level in place of your base attack bonus and your Charisma modifier in place of
 Strength. Every creature except you in a 10-foot radius that is wielding a manufactured weapon is
-targeted by the same attempt. You deal an amount of damage to each weapon affected equal to 1d4
-&times& your Charisma modifier (minimum 1d4).
+targeted by the same attempt. You deal an amount of damage to each weapon affected equal to 1d4 ×
+your Charisma modifier (minimum 1d4).
 
 **Erosion Touch (Su)**
 

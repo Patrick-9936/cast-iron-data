@@ -23,7 +23,7 @@ hp = "39~6d8+12"
 fortitude = "+4"
 reflex = "+8"
 will = "+3"
-melee = "battleaxe +9 (1d8+7/&times&3)"
+melee = "battleaxe +9 (1d8+7/×3)"
 ranged = "javelin +7 (1d6+5)"
 special_qualities = "thuggery, trackless step"
 abilities = ["20", "17", "15", "12", "13", "12"]
@@ -69,7 +69,7 @@ _This thick-bodied, white-furred bugbear wears bearskins and carries an axe made
 
 **Speed:** 30 ft.
 
-**Melee:** battleaxe +9 (1d8+7/&times&3)
+**Melee:** battleaxe +9 (1d8+7/×3)
 
 **Ranged:** javelin +7 (1d6+5)
 

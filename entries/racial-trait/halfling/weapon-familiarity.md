@@ -16,5 +16,5 @@ kind = "racial_trait"
 alternate = false
 +++
 
-Halflings are proficient with slings and treat any weapon with the word &quot&halfling&quot& in its
-name as a martial weapon.
+Halflings are proficient with slings and treat any weapon with the word "halfling" in its name as a
+martial weapon.

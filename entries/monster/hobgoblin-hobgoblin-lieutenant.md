@@ -24,7 +24,7 @@ fortitude = "+8"
 reflex = "+7"
 will = "+3"
 melee = "2 mwk sickles +8 (1d6+3)"
-ranged = "longbow +7 (1d8/&times&3)"
+ranged = "longbow +7 (1d8/×3)"
 special_attacks = "combat style (two-weapon)"
 special_qualities = "favored terrain (plains +2), hunter's bond (companions), track +2, wild empathy +4"
 abilities = ["16", "15", "16", "10", "12", "8"]
@@ -75,7 +75,7 @@ eyes._
 
 **Melee:** 2 mwk sickles +8 (1d6+3)
 
-**Ranged:** longbow +7 (1d8/&times&3)
+**Ranged:** longbow +7 (1d8/×3)
 
 **Spec Att:** combat style (two-weapon)
 
