@@ -42,11 +42,11 @@ the ranger's +2.
 
 **Special:** The animal companion does not gain additional favored terrains.
 
-At 8th level: The bonus +2.
+At 8th level: The bonus increases to +2.
 
-At 13th level: The bonus +3.
+At 13th level: The bonus increases to +3.
 
-At 18th level: The bonus +4.
+At 18th level: The bonus increases to +4.
 
 **Natural Selection (Ex)**
 
