@@ -24,7 +24,7 @@ fortitude = "+14"
 reflex = "+17"
 will = "+14"
 melee = "adamantine chainsaw +29 (4d12+7/18-20), adamantine buzz saw +29 (2d12+7)"
-ranged = "hypersonic rifle +27 (2d12/&times&3 plus stunned)"
+ranged = "hypersonic rifle +27 (2d12/×3 plus stunned)"
 special_attacks = "boosted charge~combined arms"
 special_qualities = "flexible programming, integrated weaponry, programmed to entertain, work the crowd"
 abilities = ["25", "20", "-", "14", "15", "17"]
@@ -85,7 +85,7 @@ ends in a spinning circular blade. Its final two arms grasp a massive chainsaw._
 **Melee:** [adamantine](ref/eq-material/adamantine) chainsaw +29 (4d12+7/18-20), adamantine buzz saw
 +29 (2d12+7)
 
-**Ranged:** hypersonic rifle +27 (2d12/&times&3 plus stunned)
+**Ranged:** hypersonic rifle +27 (2d12/×3 plus stunned)
 
 **Spec Att:** boosted charge, combined arms
 

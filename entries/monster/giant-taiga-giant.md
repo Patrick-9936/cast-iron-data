@@ -26,8 +26,8 @@ hp = "157~15d8+90"
 fortitude = "+15"
 reflex = "+9"
 will = "+10"
-melee = "spear +19/+14/+9 (3d6+15/&times&3) or 2 slams +19 (1d8+10)"
-ranged = "rock +12 (2d6+15) or spear +11 (3d6+10/&times&3)"
+melee = "spear +19/+14/+9 (3d6+15/×3) or 2 slams +19 (1d8+10)"
+ranged = "rock +12 (2d6+15) or spear +11 (3d6+10/×3)"
 special_qualities = "spirit summoning"
 abilities = ["31", "14", "22", "12", "17", "15"]
 +++
@@ -75,9 +75,9 @@ wields a huge, primitive spear._
 
 **Speed:** 30 ft., (40 ft. without armor)
 
-**Melee:** spear +19/+14/+9 (3d6+15/&times&3) or 2 slams +19 (1d8+10)
+**Melee:** spear +19/+14/+9 (3d6+15/×3) or 2 slams +19 (1d8+10)
 
-**Ranged:** rock +12 (2d6+15) or spear +11 (3d6+10/&times&3)
+**Ranged:** rock +12 (2d6+15) or spear +11 (3d6+10/×3)
 
 **Reach:** 15
 

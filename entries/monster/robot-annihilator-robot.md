@@ -27,7 +27,7 @@ fortitude = "+8"
 reflex = "+8"
 will = "+7"
 melee = "2 claws +28 (2d6+12/19-20)"
-ranged = "2 integrated chain guns +19 (8d6/&times&4)"
+ranged = "2 integrated chain guns +19 (8d6/×4)"
 special_attacks = "combined arms~plasma lance~suppressing fire"
 abilities = ["34", "15", "-", "14", "13", "1"]
 +++
@@ -84,7 +84,7 @@ _The tip of this towering, scorpion-like construct's tail thrums with otherworld
 
 **Melee:** 2 claws +28 (2d6+12/19-20)
 
-**Ranged:** 2 integrated chain guns +19 (8d6/&times&4)
+**Ranged:** 2 integrated chain guns +19 (8d6/×4)
 
 **Reach:** 20
 

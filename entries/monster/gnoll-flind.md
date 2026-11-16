@@ -22,8 +22,8 @@ hp = "30~4d8+12"
 fortitude = "+7"
 reflex = "+3"
 will = "+3"
-melee = "flindbar +6 (1d8+6/&times&2 plus disarm, trip)"
-ranged = "composite longbow +5 (1d8+4/&times&3)"
+melee = "flindbar +6 (1d8+6/×2 plus disarm, trip)"
+ranged = "composite longbow +5 (1d8+4/×3)"
 special_qualities = "weapon familiarity"
 abilities = ["18", "15", "16", "12", "15", "13"]
 +++
@@ -66,9 +66,9 @@ cruel gaze._
 
 **Speed:** 30 ft.
 
-**Melee:** flindbar +6 (1d8+6/&times&2 plus disarm, trip)
+**Melee:** flindbar +6 (1d8+6/×2 plus disarm, trip)
 
-**Ranged:** composite longbow +5 (1d8+4/&times&3)
+**Ranged:** composite longbow +5 (1d8+4/×3)
 
 **Statistics**
 

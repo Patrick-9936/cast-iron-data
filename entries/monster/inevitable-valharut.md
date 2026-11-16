@@ -22,7 +22,7 @@ hp = "138~12d10+72"
 fortitude = "+14"
 reflex = "+10"
 will = "+13"
-melee = "+1 valharut hook +17/+12/+7 (1d8+6/19-20/&times&3), +1 valharut hook +16 (1d8+3/19-20/&times&3), +1 dagger +16 (1d4+3/19-20), slam +12 (1d4+2)"
+melee = "+1 valharut hook +17/+12/+7 (1d8+6/19-20/×3), +1 valharut hook +16 (1d8+3/19-20/×3), +1 dagger +16 (1d4+3/19-20), slam +12 (1d4+2)"
 special_qualities = "dimension slide"
 abilities = ["21", "22", "22", "11", "20", "21"]
 +++
@@ -78,8 +78,8 @@ traceries of blue lines._
 
 **Speed:** 50 ft.
 
-**Melee:** +1 valharut hook +17/+12/+7 (1d8+6/19-20/&times&3), +1 valharut hook +16
-(1d8+3/19-20/&times&3), +1 dagger +16 (1d4+3/19-20), slam +12 (1d4+2)
+**Melee:** +1 valharut hook +17/+12/+7 (1d8+6/19-20/×3), +1 valharut hook +16 (1d8+3/19-20/×3), +1
+dagger +16 (1d4+3/19-20), slam +12 (1d4+2)
 
 **Sp Extra:** _[air walk](ref/spell/air-walk)_
 

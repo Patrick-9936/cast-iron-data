@@ -26,7 +26,7 @@ with the target.
 
 If it's used on a plot of land, the land begins to wither the following day, and over the next week
 all plants in the area die. Nothing will grow in that area so long as the curse persists. A witch
-can affect an area with a radius equal to her class level &times& 10 feet.
+can affect an area with a radius equal to her class level × 10 feet.
 
 Blighting a creature is a **standard action** that requires a melee touch attack. If used on a
 creature of the animal or plant type, the creature gains the following [curse](ref/rule/curses):

@@ -123,7 +123,7 @@ starknives in combat.
 
 **Ability:** When an attack that a flying blade makes with a dagger or starknife threatens a
 critical hit, that critical hit is automatically confirmed. Furthermore, the critical modifiers of
-daggers and starknives increase by 1 (&times&2 becomes &times&3, and so on).
+daggers and starknives increase by 1 (×2 becomes ×3, and so on).
 
 **Gained:** At 20th Level
 

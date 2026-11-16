@@ -66,8 +66,7 @@ remains within its swim speed of the water's surface.
 applying poison to weapons.
 
 **Speak with Sharks:** Adaros can communicate telepathically with sharks to a distance of 100 feet.
-This communication is limited to simple concepts, such as &quot&attack,&quot& &quot&come,&quot& and
-&quot&attack,&quot&
+This communication is limited to simple concepts, such as "attack," "come," and "attack,"
 
 **Languages:** Adaros begin play speaking Aquan and Common. Adaros with high Intelligence scores can
 choose from the following bonus languages: Abyssal, Aklo, Draconic, Giant, Infernal, and

@@ -23,7 +23,7 @@ hp = "15~2d10+4"
 fortitude = "+5"
 reflex = "+1"
 will = "+4"
-melee = "mwk warhammer +4 (1d8+1/&times&3 plus 1d6 fire)"
+melee = "mwk warhammer +4 (1d8+1/×3 plus 1d6 fire)"
 ranged = "light hammer +3 (1d4+1 plus 1d6 fire)"
 abilities = ["13", "12", "15", "12", "12", "9"]
 +++
@@ -75,7 +75,7 @@ mane of fire._
 
 **Heat:** 1d6 fire
 
-**Melee:** mwk warhammer +4 (1d8+1/&times&3 plus 1d6 fire)
+**Melee:** mwk warhammer +4 (1d8+1/×3 plus 1d6 fire)
 
 **Ranged:** light hammer +3 (1d4+1 plus 1d6 fire)
 

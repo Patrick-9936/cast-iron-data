@@ -25,7 +25,7 @@ hp = "195~17d10+102"
 fortitude = "+16"
 reflex = "+13"
 will = "+17"
-melee = "+1 scythe +23/+18/+13/+8 (2d4+8/19-20/&times&4 plus confusion), 2 claws +16 (1d4+2 plus confusion)"
+melee = "+1 scythe +23/+18/+13/+8 (2d4+8/19-20/×4 plus confusion), 2 claws +16 (1d4+2 plus confusion)"
 special_attacks = "confusion"
 special_qualities = "undersized weapons"
 abilities = ["21", "22", "23", "13", "24", "20"]
@@ -80,7 +80,7 @@ wields a scythe in its largest arms._
 
 **Speed:** 30 ft.
 
-**Melee:** +1 scythe +23/+18/+13/+8 (2d4+8/19-20/&times&4 plus confusion), 2 claws +16 (1d4+2 plus
+**Melee:** +1 scythe +23/+18/+13/+8 (2d4+8/19-20/×4 plus confusion), 2 claws +16 (1d4+2 plus
 confusion)
 
 **Reach:** 10

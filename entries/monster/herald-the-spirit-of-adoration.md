@@ -22,7 +22,7 @@ hp = "184~16d10+96"
 fortitude = "+17"
 reflex = "+20"
 will = "+24"
-melee = "+2 dancing glaive +22/+17/+12/+7 (2d8+8/&times&3)"
+melee = "+2 dancing glaive +22/+17/+12/+7 (2d8+8/×3)"
 ranged = "stunning ray +19 (1d8 plus stun)"
 special_attacks = "bardic magic~bardic performance 40 rounds/day (swift action; countersong, distraction, fascinate, inspire courage +4)"
 special_qualities = "inspiration, unearthly grace, change shape (Small or Medium humanoid; alter self)"
@@ -80,7 +80,7 @@ trails brilliant colors._
 
 **Speed:** 40 ft., fly 60 ft. (good)
 
-**Melee:** +2 dancing glaive +22/+17/+12/+7 (2d8+8/&times&3)
+**Melee:** +2 dancing glaive +22/+17/+12/+7 (2d8+8/×3)
 
 **Ranged:** stunning ray +19 (1d8 plus stun)
 

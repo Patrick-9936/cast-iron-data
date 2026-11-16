@@ -26,7 +26,7 @@ mandates.
 **Conceal Evidence (Ex)**
 
 **Ability:** A traceless operative knows how to clean up and obscure the evidence of foul play. It
-takes her 1d3 &times& 10 minutes to conceal or alter evidence in a 10-foot-by-10-foot area. She uses
+takes her 1d3 × 10 minutes to conceal or alter evidence in a 10-foot-by-10-foot area. She uses
 Disguise to alter evidence or Stealth to conceal it, though bonuses and penalties based on her
 abilities or effects that disguise or hide her own body (such as from
 [disguise self](ref/spell/disguise-self), a

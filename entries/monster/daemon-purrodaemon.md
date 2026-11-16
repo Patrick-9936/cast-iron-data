@@ -22,7 +22,7 @@ hp = "294~19d10+190"
 fortitude = "+25"
 reflex = "+21"
 will = "+14"
-melee = "+2 wounding halberd (2d8+18/19-20/&times&3), bite +24 (1d8+5)"
+melee = "+2 wounding halberd (2d8+18/19-20/×3), bite +24 (1d8+5)"
 special_attacks = "weapon steep"
 abilities = ["32", "23", "30", "17", "18", "21"]
 +++
@@ -76,7 +76,7 @@ vulture-like head._
 
 **Speed:** 30 ft., fly 60 ft. (good)
 
-**Melee:** +2 [wounding](ref/magic-enh/wounding) halberd (2d8+18/19-20/&times&3), bite +24 (1d8+5)
+**Melee:** +2 [wounding](ref/magic-enh/wounding) halberd (2d8+18/19-20/×3), bite +24 (1d8+5)
 
 **Reach:** 10
 

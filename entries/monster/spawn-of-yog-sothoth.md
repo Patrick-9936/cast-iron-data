@@ -26,7 +26,7 @@ hp = "133~14d8+70"
 fortitude = "+9"
 reflex = "+8"
 will = "+12"
-melee = "bite +17 (1d8+8/19-20/&times&3), 4 tentacles +16 (1d6+4 plus grab)"
+melee = "bite +17 (1d8+8/19-20/×3), 4 tentacles +16 (1d6+4 plus grab)"
 special_attacks = "devastation"
 abilities = ["26", "15", "21", "17", "17", "20"]
 +++
@@ -86,7 +86,7 @@ monstrous stench._
 
 **B Drain:** 1d4 Con
 
-**Melee:** bite +17 (1d8+8/19-20/&times&3), 4 tentacles +16 (1d6+4 plus [grab](ref/umr/grab))
+**Melee:** bite +17 (1d8+8/19-20/×3), 4 tentacles +16 (1d6+4 plus [grab](ref/umr/grab))
 
 **Reach:** 10
 

@@ -23,7 +23,7 @@ fortitude = "+10"
 reflex = "+10"
 will = "+4"
 melee = "mwk scimitar +14/+9 (1d6+6/18-20), bite +8 (1d6+3 plus poison)"
-ranged = "+1 composite shortbow +12/+7 (1d6+7/&times&3)"
+ranged = "+1 composite shortbow +12/+7 (1d6+7/×3)"
 special_attacks = "combat style (archery)"
 special_qualities = "track +1, wild empathy +1"
 abilities = ["22", "17", "19", "8", "11", "8"]
@@ -73,7 +73,7 @@ abilities = ["22", "17", "19", "8", "11", "8"]
 
 **Melee:** mwk scimitar +14/+9 (1d6+6/18-20), bite +8 (1d6+3 plus poison)
 
-**Ranged:** +1 composite shortbow +12/+7 (1d6+7/&times&3)
+**Ranged:** +1 composite shortbow +12/+7 (1d6+7/×3)
 
 **Spec Att:** combat style (archery)
 

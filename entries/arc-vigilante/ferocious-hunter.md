@@ -45,8 +45,8 @@ when he switches between identities.
 
 **Ability:** A ferocious hunter gains the [signature weapon](ref/vigtalent/signature-weapon)
 vigilante talent, but must select a [falchion](ref/eq-weapon/falchion),
-[greataxe](ref/eq-weapon/greataxe), or a weapon with &quot&orc&quot& in its name as his chosen
-weapon. He gains this talent regardless of his chosen vigilante specialization.
+[greataxe](ref/eq-weapon/greataxe), or a weapon with "orc" in its name as his chosen weapon. He
+gains this talent regardless of his chosen vigilante specialization.
 
 **Gained:** At 2nd Level
 

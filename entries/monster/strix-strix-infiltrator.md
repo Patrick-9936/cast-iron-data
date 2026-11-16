@@ -24,7 +24,7 @@ fortitude = "+1"
 reflex = "+7"
 will = "+3; +2 bonus vs. poison, +2 bonus vs. illusion spells or effects"
 melee = "shortsword +4 (1d6+1/19-20) or dagger +4 (1d4+1/19-20)"
-ranged = "shortbow +6 (1d6/&times&3)"
+ranged = "shortbow +6 (1d6/×3)"
 special_attacks = "hatred~studied combat (+2, 2 rounds)~studied strike +1d6"
 special_qualities = "alchemy (alchemy crafting +4), inspiration (4/day), investigator talent (underworld inspiration), keen recollection, nocturnal, poison lore, suspicious, swift alchemy, trapfinding +2"
 abilities = ["12", "16", "10", "14", "8", "13"]
@@ -73,7 +73,7 @@ _Seemingly human at first glance, this feathered woman conceals wings beneath a 
 
 **Melee:** shortsword +4 (1d6+1/19-20) or dagger +4 (1d4+1/19-20)
 
-**Ranged:** shortbow +6 (1d6/&times&3)
+**Ranged:** shortbow +6 (1d6/×3)
 
 **Spec Att:** hatred, studied combat (+2, 2 rounds), studied strike +1d6
 

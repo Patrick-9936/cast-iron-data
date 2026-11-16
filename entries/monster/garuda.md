@@ -27,7 +27,7 @@ fortitude = "+8"
 reflex = "+12"
 will = "+9"
 melee = "bite +16 (1d6+3), 2 claws +16 (1d4+3), 2 talons +16 (1d4+3), 2 wings +11 (1d4+1)"
-ranged = "+1 shock longbow +17/+12/+7 (1d8+4/&times&3 plus 1d6 electricity)"
+ranged = "+1 shock longbow +17/+12/+7 (1d8+4/×3 plus 1d6 electricity)"
 special_attacks = "hatred~swooping pounce~talon or wing"
 abilities = ["16", "21", "20", "15", "14", "17"]
 +++
@@ -77,7 +77,7 @@ dominate its avian face._
 
 **Melee:** bite +16 (1d6+3), 2 claws +16 (1d4+3), 2 talons +16 (1d4+3), 2 wings +11 (1d4+1)
 
-**Ranged:** +1 shock longbow +17/+12/+7 (1d8+4/&times&3 plus 1d6 electricity)
+**Ranged:** +1 shock longbow +17/+12/+7 (1d8+4/×3 plus 1d6 electricity)
 
 **Spec Att:** hatred, swooping pounce, talon or wing
 

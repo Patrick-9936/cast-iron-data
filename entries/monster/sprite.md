@@ -23,7 +23,7 @@ fortitude = "+0"
 reflex = "+5"
 will = "+2"
 melee = "short sword +0 (1d2-4/19-20)"
-ranged = "short bow +7 (1d2-4/&times&3)"
+ranged = "short bow +7 (1d2-4/×3)"
 special_qualities = "luminous"
 abilities = ["3", "17", "10", "6", "11", "10"]
 +++
@@ -69,7 +69,7 @@ ears._
 
 **Melee:** short sword +0 (1d2-4/19-20)
 
-**Ranged:** short bow +7 (1d2-4/&times&3)
+**Ranged:** short bow +7 (1d2-4/×3)
 
 **Reach:** 0
 

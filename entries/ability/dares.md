@@ -40,8 +40,8 @@ attacks need not come from the same enemy.
 **Out for Blood (Ex)**
 
 **Passive:** While this dare is active, your critical threat range with firearms increases by 1
-(20/&times&4 becomes 19-20/&times&4, 19-20/&times&2 becomes 18-20/&times&2, and so on). This effect
-does not stack with similar effects that modify a weapon's critical threat range.
+(20/×4 becomes 19-20/×4, 19-20/×2 becomes 18-20/×2, and so on). This effect does not stack with
+similar effects that modify a weapon's critical threat range.
 
 **Run Like Hell (Ex)**
 

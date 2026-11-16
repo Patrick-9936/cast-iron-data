@@ -23,7 +23,7 @@ hp = "5~2d6-2"
 fortitude = "-1"
 reflex = "+5"
 will = "+5"
-melee = "+1 pliers +8 (1d4-2/19-20/&times&2), bite +7 (1d4-3 plus paralysis)"
+melee = "+1 pliers +8 (1d4-2/19-20/×2), bite +7 (1d4-3 plus paralysis)"
 special_attacks = "death throes~pliers~tricky thief"
 abilities = ["5", "14", "9", "8", "15", "14"]
 +++
@@ -69,7 +69,7 @@ carries an oversized pair of pliers._
 
 **Speed:** 15 ft., fly 60 ft. (perfect)
 
-**Melee:** +1 pliers +8 (1d4-2/19-20/&times&2), bite +7 (1d4-3 plus paralysis)
+**Melee:** +1 pliers +8 (1d4-2/19-20/×2), bite +7 (1d4-3 plus paralysis)
 
 **Paralysis:** 1d3 rounds, DC 11
 

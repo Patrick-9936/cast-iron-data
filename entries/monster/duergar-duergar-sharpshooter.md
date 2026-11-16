@@ -23,7 +23,7 @@ hp = "13~1d10+3"
 fortitude = "+4"
 reflex = "+4"
 will = "+2; +2 vs. spells"
-melee = "warhammer +3 (1d8+2/&times&3)"
+melee = "warhammer +3 (1d8+2/×3)"
 ranged = "mwk light crossbow +4 (1d8/19-20)"
 special_qualities = "ironskinned, slow and steady, stability, track +1, wild empathy -2"
 abilities = ["14", "15", "14", "10", "15", "4"]
@@ -73,7 +73,7 @@ abilities = ["14", "15", "14", "10", "15", "4"]
 
 **Fav En:** dwarves +2
 
-**Melee:** warhammer +3 (1d8+2/&times&3)
+**Melee:** warhammer +3 (1d8+2/×3)
 
 **Ranged:** mwk light crossbow +4 (1d8/19-20)
 

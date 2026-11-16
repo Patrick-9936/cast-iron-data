@@ -21,7 +21,7 @@ hp = "127~11d8+6d10+45~17"
 fortitude = "+14"
 reflex = "+12"
 will = "+18"
-melee = "+1 glaive +21/+16/+11 (2d8+10/19-20/&times&3), gore +19 (1d6+9)"
+melee = "+1 glaive +21/+16/+11 (2d8+10/19-20/×3), gore +19 (1d6+9)"
 ranged = "mwk light crossbow +14 (2d6/19-20)"
 special_attacks = "scythe of evil (5 rounds, 1/day)~might of the gods (+11, 11 rounds/day)"
 abilities = ["23", "10", "13", "9", "18", "10"]
@@ -70,7 +70,7 @@ cloud of heady incense about her form doesn't conceal the distinct scent of brim
 
 **Ch N En:** 3/day, DC 15, 6d6
 
-**Melee:** +1 glaive +21/+16/+11 (2d8+10/19-20/&times&3), gore +19 (1d6+9)
+**Melee:** +1 glaive +21/+16/+11 (2d8+10/19-20/×3), gore +19 (1d6+9)
 
 **Pow Ch:** gore, 2d6+9
 

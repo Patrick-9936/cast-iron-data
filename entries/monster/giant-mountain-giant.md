@@ -23,7 +23,7 @@ hp = "297~22d8+198"
 fortitude = "+18"
 reflex = "+12"
 will = "+20"
-melee = "+2 warhammer +27/+22/+17/+12 (4d6+17/19-20/&times&3), +1 dagger +26 (2d6+16/19-20) or 2 slams +27 (2d6+15)"
+melee = "+2 warhammer +27/+22/+17/+12 (4d6+17/19-20/×3), +1 dagger +26 (2d6+16/19-20) or 2 slams +27 (2d6+15)"
 ranged = "rock +18 (4d6+15)"
 special_attacks = "devour~impale"
 abilities = ["41", "21", "29", "16", "24", "16"]
@@ -74,8 +74,8 @@ visible, is gray and warty._
 
 **Speed:** 50 ft.
 
-**Melee:** +2 warhammer +27/+22/+17/+12 (4d6+17/19-20/&times&3), +1 dagger +26 (2d6+16/19-20) or 2
-slams +27 (2d6+15)
+**Melee:** +2 warhammer +27/+22/+17/+12 (4d6+17/19-20/×3), +1 dagger +26 (2d6+16/19-20) or 2 slams
++27 (2d6+15)
 
 **Ranged:** rock +18 (4d6+15)
 

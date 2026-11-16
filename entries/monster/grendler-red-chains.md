@@ -22,7 +22,7 @@ hp = "147~14d6+98"
 fortitude = "+10"
 reflex = "+13"
 will = "+9"
-melee = "mwk scythe +15/+10 (2d4+13/&times&4), kick +8 (1d6+7)"
+melee = "mwk scythe +15/+10 (2d4+13/×4), kick +8 (1d6+7)"
 special_qualities = "boot stomp, heavy weapons, red cap"
 abilities = ["22", "19", "22", "16", "11", "13"]
 +++
@@ -73,7 +73,7 @@ face and neck, soaking its tangled white beard; in its arms looms a rusty but cl
 
 **Speed:** 60 ft.
 
-**Melee:** mwk scythe +15/+10 (2d4+13/&times&4), kick +8 (1d6+7)
+**Melee:** mwk scythe +15/+10 (2d4+13/×4), kick +8 (1d6+7)
 
 **Statistics**
 

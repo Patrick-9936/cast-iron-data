@@ -25,7 +25,7 @@ hp = "115~10d12+50"
 fortitude = "+12"
 reflex = "+9"
 will = "+8"
-melee = "mwk glaive +18/+13 (2d8+12/&times&3), bite +13 (1d8+4) or bite +18 (1d8+8), 2 claws +17 (1d6+8)"
+melee = "mwk glaive +18/+13 (2d8+12/×3), bite +13 (1d8+4) or bite +18 (1d8+8), 2 claws +17 (1d6+8)"
 special_qualities = "rider bond"
 abilities = ["26", "15", "20", "11", "12", "17"]
 +++
@@ -71,8 +71,7 @@ a saddle between its wings._
 
 **Br Weap:** 30-ft. cone, 9d6 fire damage, Reflex DC 20 half, usable every 1d4 rounds
 
-**Melee:** mwk glaive +18/+13 (2d8+12/&times&3), bite +13 (1d8+4) or bite +18 (1d8+8), 2 claws +17
-(1d6+8)
+**Melee:** mwk glaive +18/+13 (2d8+12/×3), bite +13 (1d8+4) or bite +18 (1d8+8), 2 claws +17 (1d6+8)
 
 **Reach:** 10
 

@@ -20,9 +20,9 @@ category = "Campaign"
 **Flavor:** You've lived your whole life in the shadow of your older sibling, a person who seems to
 have the adventure-filled lifestyle You've always wanted for yourself. While your sibling always
 took care of you, he or she never supported your desire to become an adventurer - your sibling never
-explained why, only saying, &quot&Adventuring can cause a lot of pain just as easily as it can bring
-success and riches.&quot& As a younger sibling to one of Sandpoint's more influential citizens, you
-share some of that NPC's innate talent and skill at adventuring.
+explained why, only saying, "Adventuring can cause a lot of pain just as easily as it can bring
+success and riches." As a younger sibling to one of Sandpoint's more influential citizens, you share
+some of that NPC's innate talent and skill at adventuring.
 
 **Benefit:** If you're Ameiko's younger sibling, your ferocious independence and self-confidence
 give you a +1 trait bonus on Will saving throws.

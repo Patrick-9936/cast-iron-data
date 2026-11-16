@@ -22,7 +22,7 @@ hp = "119~14d6+70"
 fortitude = "+11"
 reflex = "+14"
 will = "+11"
-melee = "+1 scythe +15/+10 (2d4+10 plus 1d6 fire and 1d2 Con damage/&times&4)"
+melee = "+1 scythe +15/+10 (2d4+10 plus 1d6 fire and 1d2 Con damage/×4)"
 special_attacks = "searing weapons"
 special_qualities = "grace, tied to day"
 abilities = ["22", "20", "21", "10", "15", "19"]
@@ -75,7 +75,7 @@ skin._
 
 **Speed:** 30 ft.
 
-**Melee:** +1 scythe +15/+10 (2d4+10 plus 1d6 fire and 1d2 Con damage/&times&4)
+**Melee:** +1 scythe +15/+10 (2d4+10 plus 1d6 fire and 1d2 Con damage/×4)
 
 **Spec Att:** searing weapons
 

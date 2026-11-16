@@ -22,7 +22,7 @@ hp = "310~23d10+184"
 fortitude = "+21"
 reflex = "+20"
 will = "+11"
-melee = "bite +32 (2d8+13 plus grab), 2 claws +32 (2d6+13/19-20), tail slap +27 (2d8+19/&times&3 plus pain)"
+melee = "bite +32 (2d8+13 plus grab), 2 claws +32 (2d6+13/19-20), tail slap +27 (2d8+19/×3 plus pain)"
 ranged = "4 quills +26 (1d10+13/19-20)"
 special_attacks = "bounding charge~brutal tail~lash out"
 special_qualities = "planar acclimation, relentless tracker"
@@ -77,7 +77,7 @@ eyes glow with a blue light._
 **Gaze:** present
 
 **Melee:** bite +32 (2d8+13 plus [grab](ref/umr/grab)), 2 claws +32 (2d6+13/19-20), tail slap +27
-(2d8+19/&times&3 plus pain)
+(2d8+19/×3 plus pain)
 
 **Pounce:** present
 

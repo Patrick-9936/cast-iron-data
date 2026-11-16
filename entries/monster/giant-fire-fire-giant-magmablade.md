@@ -23,7 +23,7 @@ hp = "253~29d8+123"
 fortitude = "+23"
 reflex = "+10"
 will = "+20"
-melee = "+1 dispelling keen battleaxe +35/+30/+25/+20 (2d6+16/19-20/&times&3) or 2 slams +33 (1d8+13)"
+melee = "+1 dispelling keen battleaxe +35/+30/+25/+20 (2d6+16/19-20/×3) or 2 slams +33 (1d8+13)"
 ranged = "rock +21 (1d8+19 plus 1d6 fire)"
 special_attacks = "greater spell combat~heated rock~improved spell combat~spell combat (-2 attack, +2 concentration, double bonus)~spellstrike"
 special_qualities = "arcane pool (12 points, +4), fighter training (fighter level 7), heavy armor proficiency, improved spell recall, knowledge pool, magus arcana (arcane edge, critical strike, maximized magic, spell shield), medium armor proficiency"
@@ -76,8 +76,7 @@ abilities = ["36", "11", "19", "20", "16", "10"]
 
 **Speed:** 40 ft.
 
-**Melee:** +1 dispelling keen battleaxe +35/+30/+25/+20 (2d6+16/19-20/&times&3) or 2 slams +33
-(1d8+13)
+**Melee:** +1 dispelling keen battleaxe +35/+30/+25/+20 (2d6+16/19-20/×3) or 2 slams +33 (1d8+13)
 
 **Ranged:** rock +21 (1d8+19 plus 1d6 fire)
 

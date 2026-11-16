@@ -22,7 +22,7 @@ hp = "73~7d10+35"
 fortitude = "+10"
 reflex = "+6"
 will = "+5"
-melee = "2 claws +12 (1d6+5), bite +12 (1d6+5) or longspear +12/+7 (1d8+7/&times&3), bite +7 (1d6+2)"
+melee = "2 claws +12 (1d6+5), bite +12 (1d6+5) or longspear +12/+7 (1d8+7/×3), bite +7 (1d6+2)"
 abilities = ["21", "13", "20", "14", "13", "16"]
 +++
 
@@ -75,8 +75,7 @@ slimy leather._
 
 **Speed:** 30 ft.
 
-**Melee:** 2 claws +12 (1d6+5), bite +12 (1d6+5) or longspear +12/+7 (1d8+7/&times&3), bite +7
-(1d6+2)
+**Melee:** 2 claws +12 (1d6+5), bite +12 (1d6+5) or longspear +12/+7 (1d8+7/×3), bite +7 (1d6+2)
 
 **Reach:** 5
 

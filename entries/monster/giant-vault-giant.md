@@ -23,8 +23,8 @@ hp = "270~20d8+180"
 fortitude = "+15"
 reflex = "+10"
 will = "+20"
-melee = "+1 returning spear +26/+21/+16 (4d6+20/19-20/&times&3), bite +19 (2d8+6), or bite +24 (2d8+13), 2 claws +24 (2d6+13)"
-ranged = "+1 returning spear +15 (4d6+14/19-20/&times&3)"
+melee = "+1 returning spear +26/+21/+16 (4d6+20/19-20/×3), bite +19 (2d8+6), or bite +24 (2d8+13), 2 claws +24 (2d6+13)"
+ranged = "+1 returning spear +15 (4d6+14/19-20/×3)"
 special_attacks = "tail swat"
 special_qualities = "amphibious"
 abilities = ["36", "15", "29", "20", "23", "16"]
@@ -73,10 +73,10 @@ its head to the tip of its thick tail. Its blue eyes give off a soft glow._
 
 **Speed:** 50 ft., swim 60 ft.
 
-**Melee:** +1 returning spear +26/+21/+16 (4d6+20/19-20/&times&3), bite +19 (2d8+6), or bite +24
-(2d8+13), 2 claws +24 (2d6+13)
+**Melee:** +1 returning spear +26/+21/+16 (4d6+20/19-20/×3), bite +19 (2d8+6), or bite +24 (2d8+13),
+2 claws +24 (2d6+13)
 
-**Ranged:** +1 returning spear +15 (4d6+14/19-20/&times&3)
+**Ranged:** +1 returning spear +15 (4d6+14/19-20/×3)
 
 **Reach:** 20
 

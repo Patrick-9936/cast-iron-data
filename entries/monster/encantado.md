@@ -23,8 +23,8 @@ hp = "95~10d6+60"
 fortitude = "+13"
 reflex = "+17"
 will = "+16"
-melee = "slam +10 (1d4+4 plus intoxication) or spear +8 (1d8+4/&times&3)"
-ranged = "spear +10 (1d8+3/&times&3)"
+melee = "slam +10 (1d4+4 plus intoxication) or spear +8 (1d8+4/×3)"
+ranged = "spear +10 (1d8+3/×3)"
 special_qualities = "change shape (dolphin or Medium humanoid; alter self or beast shape I), enchanting grace, hold breath"
 abilities = ["16", "21", "20", "13", "18", "21"]
 +++
@@ -69,9 +69,9 @@ _This graceful creature combines the features of a human and a river dolphin._
 
 **Speed:** 30 ft., swim 80 ft.
 
-**Melee:** slam +10 (1d4+4 plus intoxication) or spear +8 (1d8+4/&times&3)
+**Melee:** slam +10 (1d4+4 plus intoxication) or spear +8 (1d8+4/×3)
 
-**Ranged:** spear +10 (1d8+3/&times&3)
+**Ranged:** spear +10 (1d8+3/×3)
 
 **Spell-Like Abilities**
 

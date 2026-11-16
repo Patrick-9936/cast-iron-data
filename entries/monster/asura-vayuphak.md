@@ -22,7 +22,7 @@ hp = "52~8d10+8"
 fortitude = "+3"
 reflex = "+11"
 will = "+9; +2 vs. enchantments"
-melee = "mwk spear +12/+7 (1d8+4/&times&3), 2 wings +6 (1d4+1)"
+melee = "mwk spear +12/+7 (1d8+4/×3), 2 wings +6 (1d4+1)"
 abilities = ["16", "16", "13", "15", "16", "19"]
 +++
 
@@ -79,7 +79,7 @@ grace its hands._
 
 **Speed:** 30 ft., fly 40 ft. (good)
 
-**Melee:** mwk spear +12/+7 (1d8+4/&times&3), 2 wings +6 (1d4+1)
+**Melee:** mwk spear +12/+7 (1d8+4/×3), 2 wings +6 (1d4+1)
 
 **Spell-Like Abilities**
 

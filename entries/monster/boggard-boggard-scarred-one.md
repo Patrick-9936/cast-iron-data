@@ -23,7 +23,7 @@ hp = "86~3d8+4d12+42~7"
 fortitude = "+13"
 reflex = "+3"
 will = "+5; +3 vs. magic"
-melee = "+1 spear +15/+10 (1d8+11/&times&3), tongue +8 touch (sticky tongue)"
+melee = "+1 spear +15/+10 (1d8+11/×3), tongue +8 touch (sticky tongue)"
 ranged = "javelin +5 (1d6+7)"
 special_attacks = "rage (14 rounds/day)~rage powers (knockback, superstition +3)~terrifying croak (DC 14)"
 special_qualities = "fast movement, hold breath, swamp stride"
@@ -71,7 +71,7 @@ abilities = ["24", "9", "22", "6", "13", "12"]
 
 **Speed:** 30 ft., swim 30 ft.
 
-**Melee:** +1 spear +15/+10 (1d8+11/&times&3), tongue +8 touch (sticky tongue)
+**Melee:** +1 spear +15/+10 (1d8+11/×3), tongue +8 touch (sticky tongue)
 
 **Ranged:** javelin +5 (1d6+7)
 

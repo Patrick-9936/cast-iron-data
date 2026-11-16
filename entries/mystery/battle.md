@@ -68,9 +68,9 @@ frightened, panicked, paralyzed, shaken, or stunned, you may attempt that saving
 
 **Combat Healer (Su)**
 
-**Ability:** Whenever you cast a cure spell (a spell with &quot&cure&quot& in its name), you can
-cast it as a **swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by
-expending two spell slots. This does not increase the level of the spell.
+**Ability:** Whenever you cast a cure spell (a spell with "cure" in its name), you can cast it as a
+**swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by expending two
+spell slots. This does not increase the level of the spell.
 
 **Prereq:** 7th-level oracle
 

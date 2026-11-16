@@ -91,7 +91,7 @@ silenced, staggered, stunned, or unconscious. Even if the mute musician is kille
 to take the free action to maintain her performance as long as she has rounds remaining. Only the
 utter destruction of the mute musician's body (such as via [destruction](ref/spell/destruction) or
 [disintegrate](ref/spell/disintegrate), or by reducing the bard to a negative hit point total equal
-to 10 &times& her Constitution score) causes the performance to end.
+to 10 × her Constitution score) causes the performance to end.
 
 **Gained:** At 15th Level
 

@@ -22,7 +22,7 @@ hp = "52~7d8+21"
 fortitude = "+5"
 reflex = "+4"
 will = "+8"
-melee = "mwk heavy pick +13 (1d6+10/&times&4)"
+melee = "mwk heavy pick +13 (1d6+10/×4)"
 ranged = "rock +7 (1d4+7)"
 special_attacks = "consume light"
 abilities = ["25", "14", "-", "10", "16", "17"]
@@ -71,7 +71,7 @@ head should be._
 
 **Speed:** 20 ft.
 
-**Melee:** mwk heavy pick +13 (1d6+10/&times&4)
+**Melee:** mwk heavy pick +13 (1d6+10/×4)
 
 **Ranged:** rock +7 (1d4+7)
 

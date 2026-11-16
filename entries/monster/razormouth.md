@@ -22,7 +22,7 @@ hp = "149~13d8+91"
 fortitude = "+15"
 reflex = "+9"
 will = "+4"
-melee = "bite +17 (2d6+10/19-20/&times&3), 2 claws +17 (1d8+10)"
+melee = "bite +17 (2d6+10/19-20/×3), 2 claws +17 (1d8+10)"
 special_qualities = "savage bite"
 abilities = ["31", "20", "25", "-", "11", "2"]
 +++
@@ -68,7 +68,7 @@ large, serrated, bright red fangs._
 
 **Bleed:** 1d6
 
-**Melee:** bite +17 (2d6+10/19-20/&times&3), 2 claws +17 (1d8+10)
+**Melee:** bite +17 (2d6+10/19-20/×3), 2 claws +17 (1d8+10)
 
 **Pounce:** present
 

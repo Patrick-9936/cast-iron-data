@@ -27,7 +27,7 @@ fortitude = "+3"
 reflex = "+4"
 will = "+0; +2 vs. fear"
 melee = "kukri +4 (1d3+2/18-20)"
-ranged = "shortbow +6 (1d4/&times&3) or net +6 (entangle)"
+ranged = "shortbow +6 (1d4/×3) or net +6 (entangle)"
 special_attacks = "rage (5 rounds/day)"
 special_qualities = "fast movement, prehensile tail"
 abilities = ["15", "18", "13", "10", "10", "6"]
@@ -76,7 +76,7 @@ feet, and a rat-like tail._
 
 **Melee:** kukri +4 (1d3+2/18-20)
 
-**Ranged:** shortbow +6 (1d4/&times&3) or net +6 (entangle)
+**Ranged:** shortbow +6 (1d4/×3) or net +6 (entangle)
 
 **Spec Att:** rage (5 rounds/day)
 

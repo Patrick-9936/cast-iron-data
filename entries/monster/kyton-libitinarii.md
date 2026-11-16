@@ -23,7 +23,7 @@ fortitude = "+16"
 reflex = "+17"
 will = "+13"
 melee = "2 claws +22 (2d6+6 plus 2d6 cold), 2 chains +22 (1d8+6)"
-ranged = "4 icicles +23 (1d8+6/19-20/&times&3 plus 2d6 cold)"
+ranged = "4 icicles +23 (1d8+6/19-20/×3 plus 2d6 cold)"
 special_attacks = "perfect freeze~unnerving gaze (30 ft., DC 21)"
 abilities = ["23", "24", "22", "15", "22", "17"]
 +++
@@ -79,7 +79,7 @@ lengths of razor-sharp, bloodstained icicles._
 
 **Melee:** 2 claws +22 (2d6+6 plus 2d6 cold), 2 chains +22 (1d8+6)
 
-**Ranged:** 4 icicles +23 (1d8+6/19-20/&times&3 plus 2d6 cold)
+**Ranged:** 4 icicles +23 (1d8+6/19-20/×3 plus 2d6 cold)
 
 **Sp Extra:** _[air walk](ref/spell/air-walk)_
 

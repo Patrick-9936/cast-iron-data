@@ -25,8 +25,8 @@ hp = "52~7d10+14"
 fortitude = "+4"
 reflex = "+10"
 will = "+7"
-melee = "+2 returning starknife +14/+9 (1d4+5/&times&3)"
-ranged = "+2 returning starknife +14 (1d4+5/&times&3)"
+melee = "+2 returning starknife +14/+9 (1d4+5/×3)"
+ranged = "+2 returning starknife +14 (1d4+5/×3)"
 special_attacks = "steal magic"
 special_qualities = "infused weapon"
 abilities = ["17", "20", "14", "13", "15", "20"]
@@ -77,9 +77,9 @@ sky._
 
 **Speed:** 30 ft., fly 100 ft. (perfect)
 
-**Melee:** +2 [returning](ref/magic-enh/returning) starknife +14/+9 (1d4+5/&times&3)
+**Melee:** +2 [returning](ref/magic-enh/returning) starknife +14/+9 (1d4+5/×3)
 
-**Ranged:** +2 returning starknife +14 (1d4+5/&times&3)
+**Ranged:** +2 returning starknife +14 (1d4+5/×3)
 
 **Sneak:** +1d6
 

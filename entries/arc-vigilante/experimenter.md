@@ -48,10 +48,10 @@ attempt a Will save (DC = 20 + his vigilante level) each round at the start of h
 fails, he transforms as if he had consumed his mutagen (determine which ability score gets the bonus
 randomly). This doesn't consume his mutagen, and lasts a number of rounds equal to 3 + his vigilante
 level, after which the transformation ends and he becomes [fatigued](ref/misc/fatigued). While
-transformed in this way, he is [confused](ref/misc/confused), and he rerolls any result of &quot&act
-normally.&quot& Since the confusion is part of the mutagenic transformation, abilities that prevent
-or remove confusion don't apply to this effect, though abilities that end the effect of a mutagen
-work normally. He forgets everything that happened while he was involuntarily transformed.
+transformed in this way, he is [confused](ref/misc/confused), and he rerolls any result of "act
+normally." Since the confusion is part of the mutagenic transformation, abilities that prevent or
+remove confusion don't apply to this effect, though abilities that end the effect of a mutagen work
+normally. He forgets everything that happened while he was involuntarily transformed.
 
 **Mutagen (Su)**
 

@@ -23,7 +23,7 @@ fortitude = "+2"
 reflex = "+9"
 will = "+6"
 melee = "short sword +8 (1d4-2/19-20)"
-ranged = "longbow +8 (1d6-2/&times&3)"
+ranged = "longbow +8 (1d6-2/×3)"
 special_attacks = "special arrows"
 abilities = ["7", "21", "12", "16", "15", "16"]
 +++
@@ -72,7 +72,7 @@ _This tiny, whimsical-looking humanoid darts about swiftly on wildly colored gos
 
 **Melee:** short sword +8 (1d4-2/19-20)
 
-**Ranged:** longbow +8 (1d6-2/&times&3)
+**Ranged:** longbow +8 (1d6-2/×3)
 
 **Spec Att:** special arrows
 

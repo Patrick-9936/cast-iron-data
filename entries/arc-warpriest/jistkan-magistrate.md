@@ -40,12 +40,12 @@ a second blessing.
 
 **Spontaneous Summons**
 
-**Ability:** In addition to losing prepared spells to cast &quot&cure&quot& or &quot&inflict&quot&
-spells, he can also lose a prepared spell in order to cast any
-[summon monster](ref/spell/summon-monster) spell of the same level or lower. He can use this ability
-only to summon an [elemental](ref/family/elemental) whose subtype matches his blessing. He can
-expend one use of his _fervor_ ability to decrease the spell's casting time to 1 **standard action**
-and to increase the spell's duration to 1 minute per level.
+**Ability:** In addition to losing prepared spells to cast "cure" or "inflict" spells, he can also
+lose a prepared spell in order to cast any [summon monster](ref/spell/summon-monster) spell of the
+same level or lower. He can use this ability only to summon an [elemental](ref/family/elemental)
+whose subtype matches his blessing. He can expend one use of his _fervor_ ability to decrease the
+spell's casting time to 1 **standard action** and to increase the spell's duration to 1 minute per
+level.
 
 **Alters:** Spontaneous casting
 

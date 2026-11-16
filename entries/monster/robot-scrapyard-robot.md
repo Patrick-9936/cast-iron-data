@@ -23,7 +23,7 @@ hp = "42~4d10+20"
 fortitude = "+1"
 reflex = "+0"
 will = "+1"
-melee = "slam +7 (1d4+4) or rotary saw +8 (2d4+4/&times&3)"
+melee = "slam +7 (1d4+4) or rotary saw +8 (2d4+4/×3)"
 special_qualities = "repair, staggered"
 abilities = ["17", "8", "-", "5", "10", "1"]
 +++
@@ -75,7 +75,7 @@ arms ends in a spinning blade._
 
 **Speed:** 30 ft.
 
-**Melee:** slam +7 (1d4+4) or rotary saw +8 (2d4+4/&times&3)
+**Melee:** slam +7 (1d4+4) or rotary saw +8 (2d4+4/×3)
 
 **Statistics**
 

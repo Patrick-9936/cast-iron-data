@@ -24,7 +24,7 @@ hp = "220~21d10+105"
 fortitude = "+12"
 reflex = "+15"
 will = "+18"
-melee = "bite +29 (2d8+10/19-20/&times&4 plus 2d6 acid damage and 2 Wisdom drain), 2 claws +29 (1d8+10 plus 2 Wisdom drain)"
+melee = "bite +29 (2d8+10/19-20/×4 plus 2d6 acid damage and 2 Wisdom drain), 2 claws +29 (1d8+10 plus 2 Wisdom drain)"
 special_attacks = "devastating bite~vile spew"
 abilities = ["30", "13", "20", "13", "18", "19"]
 +++
@@ -76,8 +76,8 @@ filled with terrible teeth._
 
 **Speed:** 10 ft., fly 60 ft. (good)
 
-**Melee:** bite +29 (2d8+10/19-20/&times&4 plus 2d6 acid damage and 2 Wisdom drain), 2 claws +29
-(1d8+10 plus 2 Wisdom drain)
+**Melee:** bite +29 (2d8+10/19-20/×4 plus 2d6 acid damage and 2 Wisdom drain), 2 claws +29 (1d8+10
+plus 2 Wisdom drain)
 
 **Reach:** 15
 

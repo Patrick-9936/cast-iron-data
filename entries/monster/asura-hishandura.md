@@ -22,7 +22,7 @@ hp = "207~18d10+108"
 fortitude = "+17"
 reflex = "+11"
 will = "+15; +2 vs. enchantment spells"
-melee = "+1 punching dagger +23/+18/+13/+8 (1d6+8/19-20/&times&3), 3 +1 punching daggers +23 (1d6+4/19-20/&times&3), bite +19 (2d6+3) or bite +24 (2d6+7), 4 slams +24 (1d6+7)"
+melee = "+1 punching dagger +23/+18/+13/+8 (1d6+8/19-20/×3), 3 +1 punching daggers +23 (1d6+4/19-20/×3), bite +19 (2d6+3) or bite +24 (2d6+7), 4 slams +24 (1d6+7)"
 special_attacks = "destructive blades~punitive penance~repentant rain"
 abilities = ["25", "16", "23", "13", "18", "22"]
 +++
@@ -78,8 +78,8 @@ punching daggers._
 
 **Speed:** 50 ft.
 
-**Melee:** +1 punching dagger +23/+18/+13/+8 (1d6+8/19-20/&times&3), 3 +1 punching daggers +23
-(1d6+4/19-20/&times&3), bite +19 (2d6+3) or bite +24 (2d6+7), 4 slams +24 (1d6+7)
+**Melee:** +1 punching dagger +23/+18/+13/+8 (1d6+8/19-20/×3), 3 +1 punching daggers +23
+(1d6+4/19-20/×3), bite +19 (2d6+3) or bite +24 (2d6+7), 4 slams +24 (1d6+7)
 
 **Reach:** 10
 

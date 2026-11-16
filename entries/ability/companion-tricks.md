@@ -145,9 +145,9 @@ can also be trained to receive certain non-spell effects, such as those granted 
 **Prereq:** The _deliver_ and _guard_ tricks
 
 **Special:** If the companion knows the _get help_ trick, it will attempt to bring the creature it
-is rescuing to one of the creatures designated as &quot&help.&quot& Otherwise, you can designate a
-single location in advance as a safe place, and the companion will attempt to bring the creature it
-is rescuing to that place. If it is unable to do either of these, the companion simply moves the
+is rescuing to one of the creatures designated as "help." Otherwise, you can designate a single
+location in advance as a safe place, and the companion will attempt to bring the creature it is
+rescuing to that place. If it is unable to do either of these, the companion simply moves the
 creature to the nearest location of relative safety.
 
 **D C:** 20
@@ -162,17 +162,17 @@ companion will carry, drag, or otherwise move that creature out of danger.
 **Prereq:** Intelligence score of 2 or higher
 
 **Special:** This trick does not actually increase the companion's capacity to understand concepts
-and ideas; it can be taught a way to communicate the concept of &quot&food,&quot& for example, but
-it won't distinguish cooked food from raw food, and it might not even recognize as food anything
-that is not part of its own diet.
+and ideas; it can be taught a way to communicate the concept of "food," for example, but it won't
+distinguish cooked food from raw food, and it might not even recognize as food anything that is not
+part of its own diet.
 
 **D C:** 25
 
 **Trick:** The companion is able to communicate very simple concepts through barks, gestures,
 whistles, or similar actions. The companion's vocabulary is extremely limited, generally restricted
-to &quot&yes,&quot& &quot&no,&quot& and counting up to three. The companion is also able to
-recognize and respond to up to two specific questions per point of Intelligence. The companion does
-not so much understand the words as recognize the sound of them, and it responds accordingly.
+to "yes," "no," and counting up to three. The companion is also able to recognize and respond to up
+to two specific questions per point of Intelligence. The companion does not so much understand the
+words as recognize the sound of them, and it responds accordingly.
 
 **Spin Silk**
 

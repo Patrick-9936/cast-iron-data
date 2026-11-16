@@ -22,7 +22,7 @@ hp = "17~1d12+5"
 fortitude = "+6"
 reflex = "+1"
 will = "+2"
-melee = "warhammer +7 (2d6+7/&times&3)"
+melee = "warhammer +7 (2d6+7/×3)"
 special_attacks = "frenzy~rage (6 rounds/day)"
 special_qualities = "fast movement, grabbing appendages"
 abilities = ["25", "13", "18", "8", "10", "6"]
@@ -67,7 +67,7 @@ from under its rib cage._
 
 **Speed:** 40 ft., burrow 20 ft.
 
-**Melee:** warhammer +7 (2d6+7/&times&3)
+**Melee:** warhammer +7 (2d6+7/×3)
 
 **Reach:** 10
 

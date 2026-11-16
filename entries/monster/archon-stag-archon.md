@@ -24,7 +24,7 @@ fortitude = "+5"
 reflex = "+4"
 will = "+7; +4 vs. poison"
 melee = "gore +7 (1d6+1 plus push)"
-ranged = "mwk longbow +9/+4 (1d8/&times&3)"
+ranged = "mwk longbow +9/+4 (1d8/×3)"
 special_attacks = "(gore, 10 ft.)"
 special_qualities = "favored terrain (forest +2), change shape (Large stag; beast shape II)"
 abilities = ["12", "15", "11", "10", "15", "10"]
@@ -80,7 +80,7 @@ _This stag-headed humanoid has large, sweeping antlers and wields a finely-craft
 
 **Push:** present
 
-**Ranged:** mwk longbow +9/+4 (1d8/&times&3)
+**Ranged:** mwk longbow +9/+4 (1d8/×3)
 
 **Spec Att:** (gore, 10 ft.)
 

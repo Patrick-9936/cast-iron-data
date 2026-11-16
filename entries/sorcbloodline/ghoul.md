@@ -105,8 +105,8 @@ two or more claw attacks during a full attack while affected by this ability, th
 
 **Ability:** You gain a burrow speed of 30 feet. Additionally, as long as you are surrounded by at
 least 5 feet of dirt or natural stone on all sides, you gain
-[fast healing](ref/umr/fast-healing) 10. You can heal a number of hit points per day equal to 10
-&times& your sorcerer level with this ability.
+[fast healing](ref/umr/fast-healing) 10. You can heal a number of hit points per day equal to 10 ×
+your sorcerer level with this ability.
 
 **Gained:** At 15th Level
 

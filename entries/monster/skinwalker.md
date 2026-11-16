@@ -24,7 +24,7 @@ fortitude = "+3"
 reflex = "+4"
 will = "+2"
 melee = "2 claws +4 (1d4+3)"
-ranged = "longbow +3 (1d8/&times&3)"
+ranged = "longbow +3 (1d8/×3)"
 special_qualities = "change shape, track +1, wild empathy +2"
 abilities = ["17", "14", "13", "8", "14", "8"]
 +++
@@ -73,7 +73,7 @@ _This man seems human at first, but a closer look reveals he has claws and sharp
 
 **Melee:** 2 claws +4 (1d4+3)
 
-**Ranged:** longbow +3 (1d8/&times&3)
+**Ranged:** longbow +3 (1d8/×3)
 
 **Spell-Like Abilities**
 

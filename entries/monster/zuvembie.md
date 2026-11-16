@@ -22,7 +22,7 @@ hp = "37~5d8+15"
 fortitude = "+3"
 reflex = "+3"
 will = "+6"
-melee = "battleaxe +4 (1d8+1/&times&3), claw -1 (1d4) or 2 claws +4 (1d4+1)"
+melee = "battleaxe +4 (1d8+1/×3), claw -1 (1d4) or 2 claws +4 (1d4+1)"
 abilities = ["13", "14", "-", "11", "14", "15"]
 +++
 
@@ -69,7 +69,7 @@ hands._
 
 **Speed:** 30 ft.
 
-**Melee:** battleaxe +4 (1d8+1/&times&3), claw -1 (1d4) or 2 claws +4 (1d4+1)
+**Melee:** battleaxe +4 (1d8+1/×3), claw -1 (1d4) or 2 claws +4 (1d4+1)
 
 **Spell-Like Abilities**
 

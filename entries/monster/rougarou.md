@@ -24,7 +24,7 @@ fortitude = "+3"
 reflex = "+4"
 will = "+1"
 melee = "bite +4 (1d6+4)"
-ranged = "longbow +3 (1d8/&times&3)"
+ranged = "longbow +3 (1d8/×3)"
 special_qualities = "change shape (wolf; beast shape I), track +1, wild empathy +0"
 abilities = ["16", "15", "13", "10", "12", "8"]
 +++
@@ -73,7 +73,7 @@ _This muscular, wolf-headed humanoid is covered in brown and gray fur._
 
 **Melee:** bite +4 (1d6+4)
 
-**Ranged:** longbow +3 (1d8/&times&3)
+**Ranged:** longbow +3 (1d8/×3)
 
 **Statistics**
 

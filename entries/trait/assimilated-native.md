@@ -17,9 +17,8 @@ category = "Race"
 
 **Prerequisite:** [Human](ref/race/human); Mwangi
 
-**Flavor:** You have adopted the ways of the colonials. As a result, you feel that other,
-&quot&inferior&quot& races - such as your Mwangi brethren - should obey you as they do the
-colonials.
+**Flavor:** You have adopted the ways of the colonials. As a result, you feel that other, "inferior"
+races - such as your Mwangi brethren - should obey you as they do the colonials.
 
 **Benefit:** You gain a +2 trait bonus on [Intimidate](ref/skill/intimidate) checks to influence
 Mwangi natives, but you suffer a -2 on [Diplomacy](ref/skill/diplomacy) checks to influence them.

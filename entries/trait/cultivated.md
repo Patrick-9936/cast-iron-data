@@ -21,4 +21,4 @@ category = "Regional"
 
 **Benefit:** You learn one additional language. Additionally, when attempting a
 [Diplomacy](ref/skill/diplomacy) check to gather information using this language, you can do so in
-1d6 &times& 10 minutes, rather than the normal 1d4 hours.
+1d6 × 10 minutes, rather than the normal 1d4 hours.

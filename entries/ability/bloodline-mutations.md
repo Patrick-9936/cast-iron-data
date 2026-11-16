@@ -39,7 +39,7 @@ selected with [Spell Focus](ref/feat/spell-focus) or that are bloodline spells f
 
 **Ability:** Whenever you cast a bloodrager or sorcerer spell that deals damage, you can increase
 its maximum number of damage dice by an amount equal to your Strength or Charisma modifier,
-whichever is higher. This otherwise functions as &mdash& and does not stack with &mdash& the
+whichever is higher. This otherwise functions as — and does not stack with — the
 [Intensified Spell](ref/feat/intensified-spell) feat.
 
 **Replaces:** The sorcerer's 3rd-level bloodline power or the bloodrager's 8th-level bloodline power

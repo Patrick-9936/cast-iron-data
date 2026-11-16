@@ -40,8 +40,8 @@ Material Plane.
 **At 16th Level:** Once per day as a **standard action**, genie eidolons can cast
 [cleanse](ref/spell/cleanse) or [greater evolution surge](ref/spell/evolution-surge-greater) (CL
 16th) on themselves as a [spell-like ability](ref/umr/spell-like-abilities), but only in response to
-their masters' spoken wish (such as &quot&I wish you were stronger&quot&). The master can make such
-a wish as a **free action**.
+their masters' spoken wish (such as "I wish you were stronger"). The master can make such a wish as
+a **free action**.
 
 **At 20th Level:** Genie eidolons gain the 20th-level base evolutions of an
 [elemental](ref/eidolon/elemental) eidolon of any one element.

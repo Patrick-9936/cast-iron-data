@@ -22,7 +22,7 @@ hp = "224~16d10+136"
 fortitude = "+5"
 reflex = "+5"
 will = "+5"
-melee = "2 slams +28 (2d12+16/19-20/&times&3 plus grab) or stomp +28 (4d12+24 plus pinning stomp)"
+melee = "2 slams +28 (2d12+16/19-20/×3 plus grab) or stomp +28 (4d12+24 plus pinning stomp)"
 special_attacks = "mythic quickening~pinning stomp"
 special_qualities = "alternate form, mythic creation, mythic resilience"
 abilities = ["42", "11", "-", "3", "10", "7"]
@@ -79,7 +79,7 @@ humanoid shape._
 
 **M Power:** 6/day, surge +1d8
 
-**Melee:** 2 slams +28 (2d12+16/19-20/&times&3 plus [grab](ref/umr/grab)) or stomp +28 (4d12+24 plus
+**Melee:** 2 slams +28 (2d12+16/19-20/×3 plus [grab](ref/umr/grab)) or stomp +28 (4d12+24 plus
 pinning stomp)
 
 **Reach:** 20

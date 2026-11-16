@@ -23,7 +23,7 @@ hp = "9~2d8"
 fortitude = "+3"
 reflex = "+1"
 will = "+1"
-melee = "longspear +2 (1d8/&times&3)"
+melee = "longspear +2 (1d8/×3)"
 ranged = "light crossbow +2 (1d8/19-20)"
 special_qualities = "amphibious"
 abilities = ["10", "12", "10", "13", "13", "11"]
@@ -68,7 +68,7 @@ face of a fish._
 
 **Speed:** 10 ft., swim 60 ft.
 
-**Melee:** longspear +2 (1d8/&times&3)
+**Melee:** longspear +2 (1d8/×3)
 
 **Ranged:** light crossbow +2 (1d8/19-20)
 

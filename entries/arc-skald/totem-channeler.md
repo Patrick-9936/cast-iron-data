@@ -31,8 +31,8 @@ channelers, learn how to share the totems' gifts with their allies in the heat o
 
 **Choice:** When a totem channeler learns a new rage power, he can select from more than one group
 of totem rage powers, even though he normally could not do so. Totem rage powers grant benefits
-related to a theme, are organized in groups of three, and usually have the word &quot&totem&quot& in
-their name.
+related to a theme, are organized in groups of three, and usually have the word "totem" in their
+name.
 
 **Replaces:** Bardic knowledge
 

@@ -22,8 +22,8 @@ hp = "66~5d10+2d10+28~7"
 fortitude = "+8"
 reflex = "+10"
 will = "+3; +1 vs. fear,"
-melee = "spear +12/+7 (1d8+4/&times&3), bite +11 (1d4+4), gore +11 (1d4+4) or bite +11 (1d4+4), 2 claws +11 (1d6+4), gore +11 (1d4+4)"
-ranged = "1 spear +12/+7 (1d8+4/&times&3)"
+melee = "spear +12/+7 (1d8+4/×3), bite +11 (1d4+4), gore +11 (1d4+4) or bite +11 (1d4+4), 2 claws +11 (1d6+4), gore +11 (1d4+4)"
+ranged = "1 spear +12/+7 (1d8+4/×3)"
 special_qualities = "freeze"
 abilities = ["19", "18", "18", "6", "9", "9"]
 +++
@@ -73,10 +73,10 @@ innocent passers-by. Then it moves - to do just that._
 
 **Speed:** 40 ft., swim 60 ft.
 
-**Melee:** spear +12/+7 (1d8+4/&times&3), bite +11 (1d4+4), gore +11 (1d4+4) or bite +11 (1d4+4), 2
-claws +11 (1d6+4), gore +11 (1d4+4)
+**Melee:** spear +12/+7 (1d8+4/×3), bite +11 (1d4+4), gore +11 (1d4+4) or bite +11 (1d4+4), 2 claws
++11 (1d6+4), gore +11 (1d4+4)
 
-**Ranged:** 1 spear +12/+7 (1d8+4/&times&3)
+**Ranged:** 1 spear +12/+7 (1d8+4/×3)
 
 **Statistics**
 

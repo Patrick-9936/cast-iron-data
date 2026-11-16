@@ -23,7 +23,7 @@ fortitude = "+5"
 reflex = "+9"
 will = "+9"
 melee = "sickle +12/+7 (1d6+4) and gore +7 (1d6+2)"
-ranged = "mwk composite longbow +13/+8 (1d8+4/&times&3)"
+ranged = "mwk composite longbow +13/+8 (1d8+4/×3)"
 special_qualities = "favored terrain (forest +2), martial training, swift tracking"
 abilities = ["18", "17", "16", "11", "16", "15"]
 +++
@@ -75,7 +75,7 @@ sports a pair of stag's antlers upon his brow._
 
 **Pow Ch:** gore, 2d6+6
 
-**Ranged:** mwk composite longbow +13/+8 (1d8+4/&times&3)
+**Ranged:** mwk composite longbow +13/+8 (1d8+4/×3)
 
 **Spell-Like Abilities**
 

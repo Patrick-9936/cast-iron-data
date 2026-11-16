@@ -23,7 +23,7 @@ hp = "64~8d10+20"
 fortitude = "+2"
 reflex = "+6"
 will = "+2"
-melee = "+1 halberd +18/+13 (1d10+14/&times&3)"
+melee = "+1 halberd +18/+13 (1d10+14/×3)"
 special_attacks = "latch"
 special_qualities = "efficient winding, proficient, standby, swift reactions"
 abilities = ["28", "15", "-", "-", "11", "1"]
@@ -74,7 +74,7 @@ stands ready at attention._
 
 **Speed:** 30 ft.
 
-**Melee:** +1 halberd +18/+13 (1d10+14/&times&3)
+**Melee:** +1 halberd +18/+13 (1d10+14/×3)
 
 **Spec Att:** latch
 

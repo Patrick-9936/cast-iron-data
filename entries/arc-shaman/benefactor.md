@@ -39,8 +39,8 @@ whenever she gains a new _hex_ or a _wandering hex._
 
 **Alters:** Hexes
 
-**Special:** A benefactor cannot gain a _hex_ that is a curse effect or that has the word
-&quot&curse&quot& in its name as a _hex_ or a _wandering hex._
+**Special:** A benefactor cannot gain a _hex_ that is a curse effect or that has the word "curse" in
+its name as a _hex_ or a _wandering hex._
 
 **Boon Reservoir (Su)**
 

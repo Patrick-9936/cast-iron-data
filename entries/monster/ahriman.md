@@ -26,7 +26,7 @@ hp = "610~33d10+429"
 fortitude = "+24"
 reflex = "+26"
 will = "+25"
-melee = "Ahriman's scourge +47/+42/+37/+32 (3d6+16/19-20/&times&3), bite +45 (3d6+8/19-20 plus grab and bottomless maw), claw +45 (1d8+8), gore +45 (2d6+8 plus crown of fourfold curses), 2 talons +45 (1d8+8)"
+melee = "Ahriman's scourge +47/+42/+37/+32 (3d6+16/19-20/×3), bite +45 (3d6+8/19-20 plus grab and bottomless maw), claw +45 (1d8+8), gore +45 (2d6+8 plus crown of fourfold curses), 2 talons +45 (1d8+8)"
 special_attacks = "bottomless maw~consume essence~shake faith~symbolic prison"
 special_qualities = "Ahriman's scourge, Lord of All Divs, slaughtered slave"
 abilities = ["43", "26", "36", "19", "24", "35"]
@@ -89,7 +89,7 @@ fire, petrification, poison
 
 **Bleed:** 2d6
 
-**Melee:** Ahriman's scourge +47/+42/+37/+32 (3d6+16/19-20/&times&3), bite +45 (3d6+8/19-20 plus
+**Melee:** Ahriman's scourge +47/+42/+37/+32 (3d6+16/19-20/×3), bite +45 (3d6+8/19-20 plus
 [grab](ref/umr/grab) and bottomless maw), claw +45 (1d8+8), gore +45 (2d6+8 plus crown of fourfold
 curses), 2 talons +45 (1d8+8)
 

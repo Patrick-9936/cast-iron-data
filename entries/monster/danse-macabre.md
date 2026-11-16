@@ -26,7 +26,7 @@ hp = "203~14d8+140"
 fortitude = "+14"
 reflex = "+13"
 will = "+17"
-melee = "incorporeal scythe +18/+13 touch (2d6/&times&4 plus 1d6 Constitution drain)"
+melee = "incorporeal scythe +18/+13 touch (2d6/×4 plus 1d6 Constitution drain)"
 abilities = ["-", "28", "-", "8", "22", "30"]
 +++
 
@@ -84,7 +84,7 @@ eerie crowd of dancing specters looms a dark-cloaked figure wielding a scythe._
 
 **Speed:** fly 40 ft. (perfect)
 
-**Melee:** incorporeal scythe +18/+13 touch (2d6/&times&4 plus 1d6 Constitution drain)
+**Melee:** incorporeal scythe +18/+13 touch (2d6/×4 plus 1d6 Constitution drain)
 
 **Reach:** 10
 

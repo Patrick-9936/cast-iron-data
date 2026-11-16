@@ -23,7 +23,7 @@ hp = "290~20d8+200"
 fortitude = "+16"
 reflex = "+11"
 will = "+13"
-melee = "+2 impervious transformative spear +28/+23/+18 (2d6+17/&times&3 plus 2d6 fire), tail slap +20 (3d6+5 plus 2d6 fire and grab)"
+melee = "+2 impervious transformative spear +28/+23/+18 (2d6+17/×3 plus 2d6 fire), tail slap +20 (3d6+5 plus 2d6 fire and grab)"
 special_attacks = "(2d6 fire)~lava trail"
 special_qualities = "prison forge"
 abilities = ["30", "21", "-", "23", "8", "31"]
@@ -88,8 +88,8 @@ pockmarked with coal-like scales and metallic piercings, and it carries a fearso
 
 **Heat:** present
 
-**Melee:** +2 impervious transformative spear +28/+23/+18 (2d6+17/&times&3 plus 2d6 fire), tail slap
-+20 (3d6+5 plus 2d6 fire and [grab](ref/umr/grab))
+**Melee:** +2 impervious transformative spear +28/+23/+18 (2d6+17/×3 plus 2d6 fire), tail slap +20
+(3d6+5 plus 2d6 fire and [grab](ref/umr/grab))
 
 **Reach:** 10
 

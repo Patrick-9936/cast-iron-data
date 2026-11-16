@@ -102,9 +102,9 @@ At 17th level: Sneak attack damage increases to +4d6.
 
 **Detection Void (Su)**
 
-**Ability:** An enigma can elude detection spells (spells with &quot&detect&quot& in their name). A
-creature using this sort of magic against the enigma must succeed at a caster level check against a
-DC equal to 15 + the enigma's class level to succeed (as if the enigma was under the effect of a
+**Ability:** An enigma can elude detection spells (spells with "detect" in their name). A creature
+using this sort of magic against the enigma must succeed at a caster level check against a DC equal
+to 15 + the enigma's class level to succeed (as if the enigma was under the effect of a
 [nondetection](ref/spell/nondetection) spell); failure means the magic fails to detect the enigma,
 as if he did not exist.
 

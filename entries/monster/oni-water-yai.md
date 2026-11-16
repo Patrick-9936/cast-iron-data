@@ -22,7 +22,7 @@ hp = "297~22d10+176"
 fortitude = "+21"
 reflex = "+10"
 will = "+18"
-melee = "mwk spear +35/+30/+25/+20 (3d6+21/19-20/&times&3) or 2 slams +34 (2d6+14)"
+melee = "mwk spear +35/+30/+25/+20 (3d6+21/19-20/×3) or 2 slams +34 (2d6+14)"
 ranged = "acidic missile +23 touch (4d6 acid plus nausea)"
 special_qualities = "amphibious, change shape (Medium, Large, or Huge humanoid; alter self or giant form II)"
 abilities = ["39", "17", "27", "16", "20", "22"]
@@ -75,7 +75,7 @@ robes are soaking wet._
 
 **Speed:** 50 ft., swim 60 ft., fly 60 ft. (good)
 
-**Melee:** mwk spear +35/+30/+25/+20 (3d6+21/19-20/&times&3) or 2 slams +34 (2d6+14)
+**Melee:** mwk spear +35/+30/+25/+20 (3d6+21/19-20/×3) or 2 slams +34 (2d6+14)
 
 **Ranged:** acidic missile +23 touch (4d6 acid plus nausea)
 

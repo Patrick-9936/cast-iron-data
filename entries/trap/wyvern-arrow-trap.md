@@ -26,4 +26,4 @@ kind = "none"
 
 **Trigger:** location
 
-**Effect:** Atk +15 ranged (1d6 plus [wyvern poison](ref/eq-poison/wyvern-poison)/&times&3)
+**Effect:** Atk +15 ranged (1d6 plus [wyvern poison](ref/eq-poison/wyvern-poison)/×3)

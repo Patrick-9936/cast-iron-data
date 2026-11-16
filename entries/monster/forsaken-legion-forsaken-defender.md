@@ -21,7 +21,7 @@ hp = "31~7d8"
 fortitude = "+2"
 reflex = "+6"
 will = "+7"
-melee = "heavy pick +9 (1d6+4/&times&4), short sword +9 (1d6+6/19-20)"
+melee = "heavy pick +9 (1d6+4/×4), short sword +9 (1d6+6/19-20)"
 special_attacks = "phantom trench~phantom wall"
 abilities = ["18", "15", "-", "13", "10", "11"]
 +++
@@ -66,7 +66,7 @@ _This undead soldier carries a heavy-looking pickaxe in one hand and a short swo
 
 **Speed:** 20 ft.
 
-**Melee:** heavy pick +9 (1d6+4/&times&4), short sword +9 (1d6+6/19-20)
+**Melee:** heavy pick +9 (1d6+4/×4), short sword +9 (1d6+6/19-20)
 
 **Spec Att:** phantom trench, phantom wall
 

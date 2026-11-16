@@ -23,7 +23,7 @@ hp = "82~2d8+6d10+40~8"
 fortitude = "+13"
 reflex = "+4"
 will = "+4 (+2 vs. fear)"
-melee = "mwk lance +13/+8 (1d8+5/&times&3), bite +6 (1d4+2), claw +6 (1d4+2)"
+melee = "mwk lance +13/+8 (1d8+5/×3), bite +6 (1d4+2), claw +6 (1d4+2)"
 ranged = "javelin +9/+4 (1d6+5)"
 special_attacks = "weapon training (spears +1)"
 special_qualities = "armor training 1"
@@ -75,7 +75,7 @@ tail and crests on its head and back._
 
 **Speed:** 30 ft.
 
-**Melee:** mwk lance +13/+8 (1d8+5/&times&3), bite +6 (1d4+2), claw +6 (1d4+2)
+**Melee:** mwk lance +13/+8 (1d8+5/×3), bite +6 (1d4+2), claw +6 (1d4+2)
 
 **Ranged:** javelin +9/+4 (1d6+5)
 

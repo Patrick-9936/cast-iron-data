@@ -21,8 +21,8 @@ hp = "59~7d8+28"
 fortitude = "+6"
 reflex = "+5"
 will = "+5"
-melee = "mwk battleaxe +11 (1d8+6/&times&3), bite +10 (1d6+9 plus poison)"
-ranged = "mwk longbow +8 (1d8/&times&3)"
+melee = "mwk battleaxe +11 (1d8+6/×3), bite +10 (1d6+9 plus poison)"
+ranged = "mwk longbow +8 (1d8/×3)"
 special_attacks = "frenzy~spit"
 abilities = ["23", "17", "18", "7", "10", "16"]
 +++
@@ -70,9 +70,9 @@ the sinewy shape of a centipede._
 
 **Speed:** 40 ft., climb 40 ft.
 
-**Melee:** mwk battleaxe +11 (1d8+6/&times&3), bite +10 (1d6+9 plus poison)
+**Melee:** mwk battleaxe +11 (1d8+6/×3), bite +10 (1d6+9 plus poison)
 
-**Ranged:** mwk longbow +8 (1d8/&times&3)
+**Ranged:** mwk longbow +8 (1d8/×3)
 
 **Reach:** 5
 

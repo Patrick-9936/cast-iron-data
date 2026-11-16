@@ -22,8 +22,8 @@ hp = "19~3d10+3"
 fortitude = "+4"
 reflex = "+2"
 will = "+8"
-melee = "improvised weapon +4 (1d4+2/&times&3)"
-ranged = "improvised weapon +6 (1d3+2/&times&3)"
+melee = "improvised weapon +4 (1d4+2/×3)"
+ranged = "improvised weapon +6 (1d3+2/×3)"
 special_qualities = "improvised weapon mastery, merge with ward, ward (minor works of civilization)"
 abilities = ["8", "13", "12", "11", "17", "14"]
 +++
@@ -74,9 +74,9 @@ _This tiny, crudely carved statue of a robed man has glowing runes running acros
 
 **Speed:** 30 ft.
 
-**Melee:** improvised weapon +4 (1d4+2/&times&3)
+**Melee:** improvised weapon +4 (1d4+2/×3)
 
-**Ranged:** improvised weapon +6 (1d3+2/&times&3)
+**Ranged:** improvised weapon +6 (1d3+2/×3)
 
 **Reach:** 0
 

@@ -69,11 +69,11 @@ touch attack. The icicle deals an amount of cold damage equal to 1d6 +
 **Replaces:** The cold resistance power of the Water domain
 
 **Standard:** Once per day you can reach into water and pull out an object with a maximum gp value
-of up to 50 gp &times& your class level. This object always has the [broken](ref/misc/broken)
-condition upon being withdrawn from the water. The water you reach into must be at least deep enough
-to fully immerse yourself in. If you're retrieving an object that would not normally float, assume
-it rests on top of or is entwined with debris that does float. Objects retrieved in this manner
-disappear after 24 hours if they're not already used up or otherwise destroyed before then.
+of up to 50 gp × your class level. This object always has the [broken](ref/misc/broken) condition
+upon being withdrawn from the water. The water you reach into must be at least deep enough to fully
+immerse yourself in. If you're retrieving an object that would not normally float, assume it rests
+on top of or is entwined with debris that does float. Objects retrieved in this manner disappear
+after 24 hours if they're not already used up or otherwise destroyed before then.
 
 **Replacement Domain Spells**
 

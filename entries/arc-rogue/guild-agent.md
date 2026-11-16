@@ -70,14 +70,14 @@ recklessly and gets them killed, he loses at least 1 influence with his guild.
 
 **Ability:** Except in an unusually powerful guild, a guild agent has become the true power behind
 the guild. The guild agent has built up a nearly worldwide reputation under a particular criminal
-epithet (such as &quot&The Silver Shadow&quot&), known by criminals and law enforcement officers
-everywhere. This works like the [renown](ref/soctalent/renown) vigilante social talent except as
-follows. It applies in all towns and cities on the same continent as the guild agent's base of
-operations, without requiring him to select a particular settlement. He has only one identity, and
-only other criminals and members of the underworld treat their attitudes toward the guild agent as
-one step closer to helpful at all times (rather than while only in his social identity), while the
-bonus on Intimidate checks applies against everyone at all times (rather than while only in his
-vigilante identity).
+epithet (such as "The Silver Shadow"), known by criminals and law enforcement officers everywhere.
+This works like the [renown](ref/soctalent/renown) vigilante social talent except as follows. It
+applies in all towns and cities on the same continent as the guild agent's base of operations,
+without requiring him to select a particular settlement. He has only one identity, and only other
+criminals and members of the underworld treat their attitudes toward the guild agent as one step
+closer to helpful at all times (rather than while only in his social identity), while the bonus on
+Intimidate checks applies against everyone at all times (rather than while only in his vigilante
+identity).
 
 **Gained:** At 20th Level
 

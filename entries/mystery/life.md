@@ -56,9 +56,9 @@ to undead) and the DC.
 
 **Combat Healer (Su)**
 
-**Ability:** Whenever you cast a cure spell (a spell with &quot&cure&quot& in its name), you can
-cast it as a **swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by
-expending two spell slots. This does not increase the level of the spell.
+**Ability:** Whenever you cast a cure spell (a spell with "cure" in its name), you can cast it as a
+**swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by expending two
+spell slots. This does not increase the level of the spell.
 
 **Flavor:** This is the same as the [battle](ref/mystery/battle) mystery revelation.
 

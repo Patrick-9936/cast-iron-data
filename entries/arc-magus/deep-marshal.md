@@ -73,17 +73,16 @@ number of points equal to 1/3 her magus level (minimum 1) + her Intelligence mod
 she cannot use her _arcane pool_ to grant an enhancement bonus or weapon special ability to a weapon
 she is holding unless it is a [battleaxe](ref/eq-weapon/battleaxe),
 [heavy pick](ref/eq-weapon/heavy-pick), [warhammer](ref/eq-weapon/warhammer), or weapon with the
-word &quot&dwarven&quot& in its name. She can use her _spell combat_ or _spellstrike_ abilities only
-with such weapons.
+word "dwarven" in its name. She can use her _spell combat_ or _spellstrike_ abilities only with such
+weapons.
 
 **Miner's Focus (Su/Ex)**
 
 **Ability:** A deep marshal can use the magical properties of her weapon in order to augment her
 spellcasting. Whenever she casts a magus spell while wielding a magic battleaxe, heavy pick,
-warhammer, or weapon with the word &quot&dwarven&quot& in its name, she adds half the weapon's
-enhancement bonus to the her caster level (minimum +1). When attempting a caster level check to
-overcome [spell resistance](ref/rule/spell-resistance), she instead adds her weapon's full
-enhancement bonus.
+warhammer, or weapon with the word "dwarven" in its name, she adds half the weapon's enhancement
+bonus to the her caster level (minimum +1). When attempting a caster level check to overcome
+[spell resistance](ref/rule/spell-resistance), she instead adds her weapon's full enhancement bonus.
 
 **Gained:** At 3rd Level
 

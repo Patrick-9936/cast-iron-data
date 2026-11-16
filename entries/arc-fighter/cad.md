@@ -89,7 +89,7 @@ part of the attack.
 
 **Gained:** At 9th Level
 
-**Passive:** The cad has a critical threat range of 19-20/&times&2 with any improvised melee weapon.
+**Passive:** The cad has a critical threat range of 19-20/×2 with any improvised melee weapon.
 
 **Replaces:** Weapon training 2
 

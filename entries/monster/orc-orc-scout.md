@@ -23,8 +23,8 @@ hp = "49~6d10+12"
 fortitude = "+6"
 reflex = "+8"
 will = "+3"
-melee = "mwk battleaxe +10/+5 (1d8+3/&times&3)"
-ranged = "+1 composite shortbow +10/+5 (1d6+4/&times&3)"
+melee = "mwk battleaxe +10/+5 (1d8+3/×3)"
+ranged = "+1 composite shortbow +10/+5 (1d6+4/×3)"
 special_attacks = "combat style (archery)"
 special_qualities = "favored terrain (mountain +2), hunter's bond (companions), track +3, weapon familiarity, wild empathy +4"
 abilities = ["17", "16", "12", "8", "12", "6"]
@@ -74,9 +74,9 @@ abilities = ["17", "16", "12", "8", "12", "6"]
 
 **Fav En:** dwarves +4, humans +2
 
-**Melee:** mwk battleaxe +10/+5 (1d8+3/&times&3)
+**Melee:** mwk battleaxe +10/+5 (1d8+3/×3)
 
-**Ranged:** +1 composite shortbow +10/+5 (1d6+4/&times&3)
+**Ranged:** +1 composite shortbow +10/+5 (1d6+4/×3)
 
 **Spec Att:** combat style (archery)
 

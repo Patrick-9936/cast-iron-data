@@ -22,7 +22,7 @@ hp = "469~23d10+343"
 fortitude = "+24"
 reflex = "+27"
 will = "+21; second save"
-melee = "+2 axiomatic keen potent bronze spear +34/+29/+24/+19 (2d6+17/19-20/&times&3), bite +24 (1d8+5 plus mark of restraint)"
+melee = "+2 axiomatic keen potent bronze spear +34/+29/+24/+19 (2d6+17/19-20/×3), bite +24 (1d8+5 plus mark of restraint)"
 special_attacks = "paralyzing gaze"
 special_qualities = "archive, change shape (1 human form and 1 merfolk form; polymorph), mythic immortality, mythic spellcasting, mythic spell-like abilities, mythic spellpower (2/day)"
 abilities = ["30", "26", "33", "26", "27", "29"]
@@ -85,8 +85,8 @@ crafted from opalescent scales._
 
 **M Power:** 9/day, surge +1d10
 
-**Melee:** +2 axiomatic keen potent bronze spear +34/+29/+24/+19 (2d6+17/19-20/&times&3), bite +24
-(1d8+5 plus mark of restraint)
+**Melee:** +2 axiomatic keen potent bronze spear +34/+29/+24/+19 (2d6+17/19-20/×3), bite +24 (1d8+5
+plus mark of restraint)
 
 **Reach:** 10
 

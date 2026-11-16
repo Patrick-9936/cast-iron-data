@@ -129,10 +129,10 @@ _spirit_ description.
 
 **At 3rd Level:** Your spirit animal can deliver touch spells or hexes for you. If you and the
 spirit animal are in contact at the time you cast a touch spell, you can designate your animal as
-the &quot&toucher.&quot& The spirit animal can then deliver the touch spell just as you would. If
-you cast another spell before the touch is delivered, the touch spell dissipates. If you activate a
-_hex,_ your spirit animal can be used to make the touch; you don't have to be in contact with the
-animal to use this ability with hexes.
+the "toucher." The spirit animal can then deliver the touch spell just as you would. If you cast
+another spell before the touch is delivered, the touch spell dissipates. If you activate a _hex,_
+your spirit animal can be used to make the touch; you don't have to be in contact with the animal to
+use this ability with hexes.
 
 **Section:** Spirit Animal
 
@@ -373,8 +373,8 @@ learning to stabilize these erratic energies and draw upon them to her benefit.
 **Modifies or Replaces:** Spirit Magic spells
 
 **Description:** The serendipitous, shamanistic rites associated with the traditional catfolk
-worship of the so-called &quot&spirits of creation&quot& focus upon attracting good fortune and
-banishing ill fortune in the name of these spirits.
+worship of the so-called "spirits of creation" focus upon attracting good fortune and banishing ill
+fortune in the name of these spirits.
 
 **Speaker for the Past**
 

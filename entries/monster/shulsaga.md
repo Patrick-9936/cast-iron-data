@@ -24,7 +24,7 @@ fortitude = "+1"
 reflex = "+8"
 will = "+7"
 melee = "mwk trident +6 (1d8+1)"
-ranged = "mwk longbow +9 (1d8/&times&3)"
+ranged = "mwk longbow +9 (1d8/×3)"
 special_attacks = "astral recoil"
 special_qualities = "disk rider, sense rift"
 abilities = ["12", "19", "10", "13", "16", "13"]
@@ -71,7 +71,7 @@ energy._
 
 **Melee:** mwk trident +6 (1d8+1)
 
-**Ranged:** mwk longbow +9 (1d8/&times&3)
+**Ranged:** mwk longbow +9 (1d8/×3)
 
 **Spec Att:** astral recoil
 

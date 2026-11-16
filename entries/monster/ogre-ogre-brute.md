@@ -23,7 +23,7 @@ hp = "88~4d8+3d12+45~7"
 fortitude = "+14"
 reflex = "+3"
 will = "+8"
-melee = "+1 greataxe +15/+10 (3d6+14/&times&3)"
+melee = "+1 greataxe +15/+10 (3d6+14/×3)"
 ranged = "javelin +5/+0 (1d8+9)"
 special_attacks = "rage (12 rounds/day)~rage powers (scent)"
 special_qualities = "fast movement"
@@ -75,7 +75,7 @@ mouth with ill-fitting teeth._
 
 **Speed:** 50 ft.
 
-**Melee:** +1 greataxe +15/+10 (3d6+14/&times&3)
+**Melee:** +1 greataxe +15/+10 (3d6+14/×3)
 
 **Ranged:** javelin +5/+0 (1d8+9)
 

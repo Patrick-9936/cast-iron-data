@@ -207,17 +207,17 @@ level. Unless otherwise noted, using a domain power is a **standard action**.
 
 #### Spontaneous Casting: {#spontaneous-casting}
 
-**Ability:** You can &quot&lose&quot& any prepared spell that is not an orison or domain spell in
-order to cast any _cure_ spell of the same spell level or lower. This is only true if you channel
-positive energy. If you channel negative energy, you can convert spells to _inflict_ spells.
+**Ability:** You can "lose" any prepared spell that is not an orison or domain spell in order to
+cast any _cure_ spell of the same spell level or lower. This is only true if you channel positive
+energy. If you channel negative energy, you can convert spells to _inflict_ spells.
 
 **Flavor:** A good cleric (or a neutral cleric of a good deity) can channel stored spell energy into
 healing spells that she did not prepare ahead of time.
 
 **Gained:** At 1st Level
 
-**Special:** A _cure spell_ is any spell with &quot&cure&quot& in its name, while an _inflict spell_
-is one with &quot&inflict&quot& in its name. These spells are grouped here.
+**Special:** A _cure spell_ is any spell with "cure" in its name, while an _inflict spell_ is one
+with "inflict" in its name. These spells are grouped here.
 
 ### Ex-Clerics
 

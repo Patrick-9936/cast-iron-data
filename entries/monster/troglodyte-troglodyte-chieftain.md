@@ -23,7 +23,7 @@ hp = "100~8d8+2d12+46~10"
 fortitude = "+14"
 reflex = "+4"
 will = "+10; +2 vs. abilities of aberrations and oozes"
-melee = "+1 greataxe +15/+10 (1d12+8/&times&3), +1 bite +10 (1d4+4) or +1 bite +15 (1d4+8), 2 +1 claws +15 (1d4+8)"
+melee = "+1 greataxe +15/+10 (1d12+8/×3), +1 bite +10 (1d4+4) or +1 bite +15 (1d4+8), 2 +1 claws +15 (1d4+8)"
 ranged = "javelin +7 (1d6+7)"
 special_attacks = "fire bolt (1d6+3 fire, 6/day)~rage (7 rounds/day)~rage powers (moment of clarity)~wild shape 1/day (can adopt ooze form but not plant form)"
 special_qualities = "fast movement, lightfoot, nature bond (Fire domain), nature sense, tunnelrunner, wild empathy +7 (influence oozes, not magical beasts)"
@@ -78,8 +78,8 @@ tail and crests on its head and back._
 
 **Speed:** 50 ft.
 
-**Melee:** +1 greataxe +15/+10 (1d12+8/&times&3), +1 bite +10 (1d4+4) or +1 bite +15 (1d4+8), 2 +1
-claws +15 (1d4+8)
+**Melee:** +1 greataxe +15/+10 (1d12+8/×3), +1 bite +10 (1d4+4) or +1 bite +15 (1d4+8), 2 +1 claws
++15 (1d4+8)
 
 **Ranged:** javelin +7 (1d6+7)
 

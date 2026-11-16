@@ -25,8 +25,8 @@ hp = "161~14d10+84"
 fortitude = "+10"
 reflex = "+13"
 will = "+11"
-melee = "bite +21 (1d8+7/19-20), 2 claws +20 (1d6+7), sting +20 (1d6+7 plus poison) or spear +20/+15/+10 (2d6+10/&times&3 plus poison), bite +19 (1d8+3/19-20), sting +18 (1d6+3 plus poison)"
-ranged = "spear +15 (2d6+7/&times&3 plus poison)"
+melee = "bite +21 (1d8+7/19-20), 2 claws +20 (1d6+7), sting +20 (1d6+7 plus poison) or spear +20/+15/+10 (2d6+10/×3 plus poison), bite +19 (1d8+3/19-20), sting +18 (1d6+3 plus poison)"
+ranged = "spear +15 (2d6+7/×3 plus poison)"
 special_attacks = "boiling sea"
 special_qualities = "amphibious"
 abilities = ["24", "15", "23", "12", "15", "14"]
@@ -82,9 +82,9 @@ emerged from some poisoned sea._
 **Speed:** 30 ft., swim 80 ft.
 
 **Melee:** bite +21 (1d8+7/19-20), 2 claws +20 (1d6+7), sting +20 (1d6+7 plus poison) or spear
-+20/+15/+10 (2d6+10/&times&3 plus poison), bite +19 (1d8+3/19-20), sting +18 (1d6+3 plus poison)
++20/+15/+10 (2d6+10/×3 plus poison), bite +19 (1d8+3/19-20), sting +18 (1d6+3 plus poison)
 
-**Ranged:** spear +15 (2d6+7/&times&3 plus poison)
+**Ranged:** spear +15 (2d6+7/×3 plus poison)
 
 **Reach:** 10
 

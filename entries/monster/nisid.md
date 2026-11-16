@@ -22,8 +22,8 @@ hp = "33~6d6+12"
 fortitude = "+4"
 reflex = "+8"
 will = "+8"
-melee = "dagger +7 (1d3-1/19-20) or spear +3 (1d6-1/&times&3)"
-ranged = "longbow +7 (1d6/&times&3) or spear +7 (1d6-1/&times&3)"
+melee = "dagger +7 (1d3-1/19-20) or spear +3 (1d6-1/×3)"
+ranged = "longbow +7 (1d6/×3) or spear +7 (1d6-1/×3)"
 special_qualities = "island bond, isolation, never come back"
 abilities = ["9", "16", "15", "13", "16", "18"]
 +++
@@ -67,9 +67,9 @@ brown skin. His hair is unkempt and his flesh is weathered, but his large eyes g
 
 **Speed:** 30 ft.
 
-**Melee:** dagger +7 (1d3-1/19-20) or spear +3 (1d6-1/&times&3)
+**Melee:** dagger +7 (1d3-1/19-20) or spear +3 (1d6-1/×3)
 
-**Ranged:** longbow +7 (1d6/&times&3) or spear +7 (1d6-1/&times&3)
+**Ranged:** longbow +7 (1d6/×3) or spear +7 (1d6-1/×3)
 
 **Spell-Like Abilities**
 

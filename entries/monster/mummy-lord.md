@@ -26,7 +26,7 @@ hp = "103~9d8+63"
 fortitude = "+11"
 reflex = "+7"
 will = "+11"
-melee = "+1 spear +12/+7 (1d8+8/&times&3 plus insidious mummy rot) or slam +11 (1d6+7 plus insidious mummy rot)"
+melee = "+1 spear +12/+7 (1d8+8/×3 plus insidious mummy rot) or slam +11 (1d6+7 plus insidious mummy rot)"
 special_attacks = "channel rot~insidious mummy rot (DC 19)~sandstorm wrath (DC 19, 6d8 fire and slashing)~scythe of evil (4 rounds, 1/day)~undead mastery (DC 19)"
 special_qualities = "eyes of darkness (4 rounds/day)"
 abilities = ["20", "14", "-", "10", "20", "20"]
@@ -84,8 +84,8 @@ unholy light._
 
 **Ch N En:** 8/day, DC 21, 5d6
 
-**Melee:** +1 spear +12/+7 (1d8+8/&times&3 plus insidious mummy rot) or slam +11 (1d6+7 plus
-insidious mummy rot)
+**Melee:** +1 spear +12/+7 (1d8+8/×3 plus insidious mummy rot) or slam +11 (1d6+7 plus insidious
+mummy rot)
 
 **Spec Att:** channel rot, insidious mummy rot (DC 19), sandstorm wrath (DC 19, 6d8 fire and
 slashing), scythe of evil (4 rounds, 1/day), undead mastery (DC 19)

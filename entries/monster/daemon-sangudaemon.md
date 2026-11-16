@@ -25,7 +25,7 @@ hp = "114~12d10+48"
 fortitude = "+12"
 reflex = "+13"
 will = "+7"
-melee = "bite +19 (1d8+7/18-20/&times&3 plus bleed), 2 claws +19 (1d6+7/19-20)"
+melee = "bite +19 (1d8+7/18-20/×3 plus bleed), 2 claws +19 (1d6+7/19-20)"
 special_attacks = "drain soul"
 special_qualities = "augmented critical, contagious gore"
 abilities = ["24", "21", "19", "10", "16", "15"]
@@ -84,7 +84,7 @@ dripping crimson streamers._
 
 **Bleed:** 2d4+2
 
-**Melee:** bite +19 (1d8+7/18-20/&times&3 plus bleed), 2 claws +19 (1d6+7/19-20)
+**Melee:** bite +19 (1d8+7/18-20/×3 plus bleed), 2 claws +19 (1d6+7/19-20)
 
 **Spec Att:** drain soul
 

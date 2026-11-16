@@ -22,7 +22,7 @@ hp = "85~9d10+36"
 fortitude = "+10"
 reflex = "+8"
 will = "+6"
-melee = "lancet +14/+9 (1d4+7/19-20/&times&3), lancet +14 (1d4+5/19-20/&times&3)"
+melee = "lancet +14/+9 (1d4+7/19-20/×3), lancet +14 (1d4+5/19-20/×3)"
 special_attacks = "unnerving gaze (30 ft., DC 16)"
 special_qualities = "lancet mastery, truthspeaker"
 abilities = ["17", "20", "18", "17", "10", "15"]
@@ -80,7 +80,7 @@ Slender surgical lancets pierce her body in numerous locations, yet these wounds
 
 **Speed:** 40 ft.
 
-**Melee:** lancet +14/+9 (1d4+7/19-20/&times&3), lancet +14 (1d4+5/19-20/&times&3)
+**Melee:** lancet +14/+9 (1d4+7/19-20/×3), lancet +14 (1d4+5/19-20/×3)
 
 **Spec Att:** unnerving gaze (30 ft., DC 16)
 

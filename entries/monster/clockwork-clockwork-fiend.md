@@ -23,7 +23,7 @@ hp = "146~23d10+20"
 fortitude = "+7"
 reflex = "+17"
 will = "+7"
-melee = "bite +34 (2d8+11/18-20/&times&3), 2 claws +34 (2d6+11 plus bleed), 2 wings +29 (1d8+5)"
+melee = "bite +34 (2d8+11/18-20/×3), 2 claws +34 (2d6+11 plus bleed), 2 wings +29 (1d8+5)"
 special_attacks = "explosive rend~overdrive"
 special_qualities = "difficult to create, swift reactions, winding"
 abilities = ["32", "26", "-", "-", "11", "1"]
@@ -75,7 +75,7 @@ _Resembling a metallic horned devil, this apparatus whirs with the sound of inte
 
 **Bleed:** 2d8
 
-**Melee:** bite +34 (2d8+11/18-20/&times&3), 2 claws +34 (2d6+11 plus bleed), 2 wings +29 (1d8+5)
+**Melee:** bite +34 (2d8+11/18-20/×3), 2 claws +34 (2d6+11 plus bleed), 2 wings +29 (1d8+5)
 
 **Reach:** 5
 

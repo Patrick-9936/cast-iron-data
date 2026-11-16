@@ -25,7 +25,7 @@ hp = "115~11d8+66"
 fortitude = "+9"
 reflex = "+7"
 will = "+11"
-melee = "great claw +16 (2d6+9/&times&4 plus disease), claw +16 (1d8+9)"
+melee = "great claw +16 (2d6+9/×4 plus disease), claw +16 (1d8+9)"
 abilities = ["27", "17", "-", "18", "16", "21"]
 +++
 
@@ -72,7 +72,7 @@ scythe-like claw._
 
 **Speed:** fly 40 ft. (perfect)
 
-**Melee:** great claw +16 (2d6+9/&times&4 plus disease), claw +16 (1d8+9)
+**Melee:** great claw +16 (2d6+9/×4 plus disease), claw +16 (1d8+9)
 
 **Reach:** 10
 

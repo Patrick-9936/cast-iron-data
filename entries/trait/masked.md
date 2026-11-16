@@ -15,8 +15,8 @@ category = "Faith"
 
 **Type:** Faith
 
-**Flavor:** You learned from &quot&Prime Conspirator&quot& that keeping secrets often means hiding
-your true identity.
+**Flavor:** You learned from "Prime Conspirator" that keeping secrets often means hiding your true
+identity.
 
 **Benefit:** Once per day, when attempting a [Disguise](ref/skill/disguise) check, roll twice and
 take the better result.

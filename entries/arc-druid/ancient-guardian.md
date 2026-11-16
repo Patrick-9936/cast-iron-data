@@ -67,7 +67,7 @@ _wild shape_ ability by 10 feet.
 **Dispel Hostility (Su)**
 
 **Ability:** An ancient guardian can channel stored spell energy into a spell capable of dispelling
-hostile thoughts and strong emotions. She can &quot&lose&quot& a prepared spell in order to cast
+hostile thoughts and strong emotions. She can "lose" a prepared spell in order to cast
 [calm emotions](ref/spell/calm-emotions). Instead of the normal Will saving throw for that spell,
 the DC of a _[calm emotions](ref/spell/calm-emotions)_ spell cast with this ability is 10 + 1/2 the
 ancient guardian's druid level + her Wisdom modifier.

@@ -22,7 +22,7 @@ hp = "413~18d10+314"
 fortitude = "+24"
 reflex = "+9"
 will = "+18; +8 vs. mind-affecting, +4 vs. divine"
-melee = "+3 speed wounding heavy mace +29/+29/+24/+19/+14 (6d6+19/19-20/&times&3 plus bleed and push), slam +26 (2d8+24 plus push)"
+melee = "+3 speed wounding heavy mace +29/+29/+24/+19/+14 (6d6+19/19-20/×3 plus bleed and push), slam +26 (2d8+24 plus push)"
 abilities = ["42", "12", "37", "29", "20", "27"]
 +++
 
@@ -87,8 +87,8 @@ mace._
 
 **M Power:** 8/day, surge +1d10
 
-**Melee:** +3 speed wounding heavy mace +29/+29/+24/+19/+14 (6d6+19/19-20/&times&3 plus bleed and
-push), slam +26 (2d8+24 plus push)
+**Melee:** +3 speed wounding heavy mace +29/+29/+24/+19/+14 (6d6+19/19-20/×3 plus bleed and push),
+slam +26 (2d8+24 plus push)
 
 **Push:** heavy mace or slam, 10 ft.
 

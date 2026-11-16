@@ -61,8 +61,7 @@ people, and the modifier on Bluff and Intimidate checks is +3.
 settlement or populated area, he can shout, sing, or otherwise make himself noticed in order to
 attract an audience to his impromptu stage. The size of the crowd depends on the local population,
 but typically is a number of people equal to [half](ref/misc/fractions-and-rounding) the bard's
-class level &times& the result of the bard's Perform check. The crowd gathers over the next 1d10
-rounds.
+class level × the result of the bard's Perform check. The crowd gathers over the next 1d10 rounds.
 
 **Gained:** At 5th Level
 
@@ -81,9 +80,9 @@ effect). The bard selects a number of targets equal to his level, who must make 
 number of rounds equal to the bard's level. The bard indicates who is the intended target of
 violence (either after using this ability or as part of the performance leading to it) and the
 enraged members of the crowd immediately attack the target if possible. The target does not need to
-be present (&quot&kill the king&quot& is a suitable choice) and can be an object instead of a person
-(&quot&destroy the prison!&quot& is likewise appropriate). Other members of the crowd may follow
-suit, though they do not gain the benefits of _rage._
+be present ("kill the king" is a suitable choice) and can be an object instead of a person ("destroy
+the prison!" is likewise appropriate). Other members of the crowd may follow suit, though they do
+not gain the benefits of _rage._
 
 **Gained:** At 6th Level
 

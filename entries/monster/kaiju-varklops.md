@@ -22,7 +22,7 @@ hp = "752~35d10+560"
 fortitude = "+35"
 reflex = "+32"
 will = "+23"
-melee = "3 bites +46 (6d6+26/19-20 plus burn), 2 wings +44 (3d8+16/19-20 plus burn), tail slap +46 (4d8+35/19-20/&times&3 plus burn)"
+melee = "3 bites +46 (6d6+26/19-20 plus burn), 2 wings +44 (3d8+16/19-20 plus burn), tail slap +46 (4d8+35/19-20/×3 plus burn)"
 special_attacks = "breath weapon~eruption~fire monsoon~improved hurl foe~kaijuslayer"
 special_qualities = "devastating, massive, powerful blows (tail slap)"
 abilities = ["48", "37", "42", "3", "30", "29"]
@@ -88,7 +88,7 @@ tail tipped with four bony spikes._
 **Burn:** 2d6 fire, DC 43
 
 **Melee:** 3 bites +46 (6d6+26/19-20 plus burn), 2 wings +44 (3d8+16/19-20 plus burn), tail slap +46
-(4d8+35/19-20/&times&3 plus burn)
+(4d8+35/19-20/×3 plus burn)
 
 **Reach:** 60
 

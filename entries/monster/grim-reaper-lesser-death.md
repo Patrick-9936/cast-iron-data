@@ -22,7 +22,7 @@ hp = "276~24d8+168"
 fortitude = "+17"
 reflex = "+19"
 will = "+20"
-melee = "+2 keen scythe +30/+30/+25/+20/+15 (2d4+14/19-20/&times&4 plus energy drain)"
+melee = "+2 keen scythe +30/+30/+25/+20/+15 (2d4+14/19-20/×4 plus energy drain)"
 abilities = ["27", "30", "-", "15", "23", "24"]
 +++
 
@@ -74,7 +74,7 @@ _One bleached-bone hand of this robed, skeletal figure grasps a massive, curved 
 
 **E Drain:** 2 levels, DC 29
 
-**Melee:** +2 keen scythe +30/+30/+25/+20/+15 (2d4+14/19-20/&times&4 plus energy drain)
+**Melee:** +2 keen scythe +30/+30/+25/+20/+15 (2d4+14/19-20/×4 plus energy drain)
 
 **Sp Extra:** _[air walk](ref/spell/air-walk)_
 

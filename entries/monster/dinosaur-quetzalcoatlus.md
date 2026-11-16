@@ -24,7 +24,7 @@ hp = "82~11d8+33"
 fortitude = "+10"
 reflex = "+12"
 will = "+5"
-melee = "bite +13 (2d8+7/&times&3), 2 wings +8 (1d6+3)"
+melee = "bite +13 (2d8+7/×3), 2 wings +8 (1d6+3)"
 special_qualities = "difficult to train, razor-sharp beak"
 abilities = ["25", "17", "17", "2", "14", "12"]
 +++
@@ -66,7 +66,7 @@ razor-sharp beak._
 
 **Speed:** 30 ft., fly 50 ft. (clumsy)
 
-**Melee:** bite +13 (2d8+7/&times&3), 2 wings +8 (1d6+3)
+**Melee:** bite +13 (2d8+7/×3), 2 wings +8 (1d6+3)
 
 **Reach:** 15
 

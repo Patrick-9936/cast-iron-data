@@ -18,8 +18,8 @@ group = "rogue-talent"
 (from a weapon or other blow, not a spell or special ability), the rogue can attempt to roll with
 the damage. To use this ability, the rogue must attempt a Reflex saving throw (DC = damage dealt).
 If the save succeeds, she takes only half damage from the blow; if it fails, she takes full damage.
-She must be aware of the attack and able to react to it in order to execute her defensive
-roll&mdash&if she is denied her Dexterity bonus to AC, she can't use this ability.
+She must be aware of the attack and able to react to it in order to execute her defensive roll—if
+she is denied her Dexterity bonus to AC, she can't use this ability.
 
 **Flavor:** With this advanced talent, the rogue can roll with a potentially lethal blow to take
 less damage from it than she otherwise would.

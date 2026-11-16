@@ -22,7 +22,7 @@ hp = "22~3d8+1d8+5~4"
 fortitude = "+2"
 reflex = "+5"
 will = "+4"
-melee = "mwk falcata +9 (1d8+5/19-20/&times&3 plus nausea) or slam +7 (1d10+5 plus nausea)"
+melee = "mwk falcata +9 (1d8+5/19-20/×3 plus nausea) or slam +7 (1d10+5 plus nausea)"
 special_qualities = "trapfinding +1"
 abilities = ["21", "14", "-", "10", "12", "13"]
 +++
@@ -73,7 +73,7 @@ _No flavor text._
 
 **Speed:** 30 ft., swim 30 ft.
 
-**Melee:** mwk falcata +9 (1d8+5/19-20/&times&3 plus nausea) or slam +7 (1d10+5 plus nausea)
+**Melee:** mwk falcata +9 (1d8+5/19-20/×3 plus nausea) or slam +7 (1d10+5 plus nausea)
 
 **Sneak:** +1d6
 

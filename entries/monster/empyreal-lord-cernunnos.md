@@ -23,7 +23,7 @@ fortitude = "+25"
 reflex = "+31"
 will = "+25"
 melee = "+5 holy cold iron club +48/+43/+38/+33 (1d8+18/15-20), gore +43 (2d8+18)"
-ranged = "+5 evil outsider bane composite longbow +51/+46/+41/+36 (2d6+14/19-20/&times&4)"
+ranged = "+5 evil outsider bane composite longbow +51/+46/+41/+36 (2d6+14/19-20/×4)"
 special_attacks = "greater slaying arrow~horned lord's charge~wild shape (as 20th level druid)"
 special_qualities = "change shape (any humanoid; alter self), empyreal lord traits, perfect archer, seed of life"
 abilities = ["29", "35", "39", "18", "22", "21"]
@@ -91,7 +91,7 @@ electricity, energy drain, petrification
 
 **Pow Ch:** gore, 4d8+13 and horned lord's charge
 
-**Ranged:** +5 evil outsider bane composite longbow +51/+46/+41/+36 (2d6+14/19-20/&times&4)
+**Ranged:** +5 evil outsider bane composite longbow +51/+46/+41/+36 (2d6+14/19-20/×4)
 
 **Reach:** 10
 

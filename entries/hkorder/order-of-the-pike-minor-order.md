@@ -25,7 +25,7 @@ group = "hellknight-order"
 
 **Leader**
 
-**Details:** Lictor Lesheir &quot&The Spear&quot& Remsaine (LG female human cavalier 5/Hellknight 8)
+**Details:** Lictor Lesheir "The Spear" Remsaine (LG female human cavalier 5/Hellknight 8)
 
 **Members**
 

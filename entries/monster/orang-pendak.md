@@ -23,8 +23,8 @@ hp = "11~1d10+1"
 fortitude = "+3"
 reflex = "+2"
 will = "+1"
-melee = "spear +5 (1d6+3/&times&3)"
-ranged = "spear +4 (1d6+3/&times&3) or bolas +4 (1d3)"
+melee = "spear +5 (1d6+3/×3)"
+ranged = "spear +4 (1d6+3/×3) or bolas +4 (1d3)"
 special_attacks = "tear apart"
 special_qualities = "forest walker, own two feet, simian empathy"
 abilities = ["17", "14", "13", "6", "12", "10"]
@@ -70,9 +70,9 @@ _This hairy humanoid has orange-brown hair, a broad chest, and muscular arms._
 
 **Speed:** 30 ft.
 
-**Melee:** spear +5 (1d6+3/&times&3)
+**Melee:** spear +5 (1d6+3/×3)
 
-**Ranged:** spear +4 (1d6+3/&times&3) or bolas +4 (1d3)
+**Ranged:** spear +4 (1d6+3/×3) or bolas +4 (1d3)
 
 **Spec Att:** tear apart
 

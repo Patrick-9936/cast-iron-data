@@ -45,7 +45,7 @@ herself and her gear cool.
 **Gained:** At 2nd Level
 
 **Passive:** She gains cold [resistance](ref/umr/resistance) equal to her alchemist level and can
-survive comfortably in temperatures as low as -50&deg& Fahrenheit.
+survive comfortably in temperatures as low as -50° Fahrenheit.
 
 **Replaces:** Poison resistance, poison immunity
 

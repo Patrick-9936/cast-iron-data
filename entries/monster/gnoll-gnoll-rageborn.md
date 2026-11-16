@@ -23,7 +23,7 @@ hp = "49~2d8+2d12+22~4"
 fortitude = "+11"
 reflex = "+1"
 will = "+3"
-melee = "mwk greataxe +10 (1d12+9/&times&3), bite +4 (1d6+3) or bite +9 (1d6+9)"
+melee = "mwk greataxe +10 (1d12+9/×3), bite +4 (1d6+3) or bite +9 (1d6+9)"
 ranged = "mwk javelin +5 (1d6+6)"
 special_attacks = "rage (9 rounds/day)"
 special_qualities = "fast movement"
@@ -69,7 +69,7 @@ abilities = ["23", "13", "20", "8", "12", "6"]
 
 **Speed:** 30 ft.
 
-**Melee:** mwk greataxe +10 (1d12+9/&times&3), bite +4 (1d6+3) or bite +9 (1d6+9)
+**Melee:** mwk greataxe +10 (1d12+9/×3), bite +4 (1d6+3) or bite +9 (1d6+9)
 
 **Ranged:** mwk javelin +5 (1d6+6)
 

@@ -22,8 +22,8 @@ hp = "68~7d10+30"
 fortitude = "+2"
 reflex = "+7"
 will = "+8"
-melee = "mwk spear +11/+6 (2d6+6 plus salted wound/&times&3) or 2 slams +10 (1d6+4 plus salted wound)"
-ranged = "mwk spear +12 (2d6+4 plus salted wound/&times&3)"
+melee = "mwk spear +11/+6 (2d6+6 plus salted wound/×3) or 2 slams +10 (1d6+4 plus salted wound)"
+ranged = "mwk spear +12 (2d6+4 plus salted wound/×3)"
 abilities = ["19", "21", "-", "-", "23", "16"]
 +++
 
@@ -70,10 +70,9 @@ coating her frame encrusted in years' worth of sea salt._
 
 **Speed:** 30 ft., swim 30 ft.
 
-**Melee:** mwk spear +11/+6 (2d6+6 plus salted wound/&times&3) or 2 slams +10 (1d6+4 plus salted
-wound)
+**Melee:** mwk spear +11/+6 (2d6+6 plus salted wound/×3) or 2 slams +10 (1d6+4 plus salted wound)
 
-**Ranged:** mwk spear +12 (2d6+4 plus salted wound/&times&3)
+**Ranged:** mwk spear +12 (2d6+4 plus salted wound/×3)
 
 **Reach:** 10
 

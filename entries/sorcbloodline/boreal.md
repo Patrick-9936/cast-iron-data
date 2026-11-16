@@ -102,7 +102,7 @@ penalties in natural or magical snow, ice, fog, and similar weather conditions.
 **Blizzard (Sp)**
 
 **Ability:** This power acts as [control winds](ref/spell/control-winds), but in addition the entire
-area (not including the &quot&eye&quot& at the center of the storm) is affected as a
+area (not including the "eye" at the center of the storm) is affected as a
 [sleet storm](ref/spell/sleet-storm) and all in the area are exposed to extreme cold.
 
 **Flavor:** You can create a savage winter storm centered on you.

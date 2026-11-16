@@ -26,7 +26,7 @@ fortitude = "+20"
 reflex = "+14"
 will = "+19; +4 vs. poison"
 melee = "2 slams +30 (1d6+10), 2 hooves +25 (2d6+5)"
-ranged = "+3 composite longbow +29/+24/+19/+14 (1d8+13/&times&3)"
+ranged = "+3 composite longbow +29/+24/+19/+14 (1d8+13/×3)"
 special_qualities = "lay on hands (10d6, 14/day, as a 20th-level paladin), undersized weapons"
 abilities = ["31", "20", "26", "19", "24", "19"]
 +++
@@ -82,7 +82,7 @@ lower body of a majestic elk._
 
 **Pow Ch:** gore, 2d8+15 plus stagger
 
-**Ranged:** +3 composite longbow +29/+24/+19/+14 (1d8+13/&times&3)
+**Ranged:** +3 composite longbow +29/+24/+19/+14 (1d8+13/×3)
 
 **Reach:** 5
 

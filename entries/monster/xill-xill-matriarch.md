@@ -24,7 +24,7 @@ fortitude = "+12"
 reflex = "+10"
 will = "+12"
 melee = "mwk short sword +19/+14/+9 (1d6+5/19-20), mwk short sword +19/+14 (1d6+5/19-20), claw +18 (1d4+5 plus grab), bite +13 (1d3+2 plus paralysis) or 4 claws +18 (1d4+5 plus grab), bite +18 (1d3+5 plus paralysis)"
-ranged = "mwk composite longbow +18/+13/+8 (1d8+5/&times&3), mwk composite longbow +18/+13 (1d8+5/&times&3)"
+ranged = "mwk composite longbow +18/+13/+8 (1d8+5/×3), mwk composite longbow +18/+13 (1d8+5/×3)"
 special_attacks = "implant"
 special_qualities = "matriarch weapon mastery, swift planewalk"
 abilities = ["21", "18", "18", "15", "18", "19"]
@@ -75,8 +75,7 @@ bite +18 (1d3+5 plus paralysis)
 
 **Paralysis:** 1d4 hours, DC 20
 
-**Ranged:** mwk composite longbow +18/+13/+8 (1d8+5/&times&3), mwk composite longbow +18/+13
-(1d8+5/&times&3)
+**Ranged:** mwk composite longbow +18/+13/+8 (1d8+5/×3), mwk composite longbow +18/+13 (1d8+5/×3)
 
 **Spec Att:** implant
 

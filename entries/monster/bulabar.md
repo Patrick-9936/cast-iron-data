@@ -22,7 +22,7 @@ hp = "7~1d6+4"
 fortitude = "+1"
 reflex = "+3"
 will = "+2"
-melee = "spear +0 (1d4-2/&times&3) or 2 claws +3 (1d2-2)"
+melee = "spear +0 (1d4-2/×3) or 2 claws +3 (1d2-2)"
 ranged = "light crossbow +3 (1d4/19-20)"
 special_attacks = "disassemble (DC 12)"
 abilities = ["6", "13", "12", "15", "10", "11"]
@@ -67,7 +67,7 @@ pouches._
 
 **Speed:** 30 ft., burrow 10 ft.
 
-**Melee:** spear +0 (1d4-2/&times&3) or 2 claws +3 (1d2-2)
+**Melee:** spear +0 (1d4-2/×3) or 2 claws +3 (1d2-2)
 
 **Ranged:** light crossbow +3 (1d4/19-20)
 

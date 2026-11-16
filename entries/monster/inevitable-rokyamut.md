@@ -22,8 +22,8 @@ hp = "350~20d10+240"
 fortitude = "+21"
 reflex = "+6"
 will = "+18"
-melee = "+2 brilliant energy starknife +28/+23/+18/+13 (2d6+13/19-20/&times&3), 3 +2 brilliant energy starknives +28 (2d6+7/19-20/&times&3) or 4 slams +27 (2d6+11)"
-ranged = "+2 brilliant energy starknife +19/+14/+9/+4 (2d6+13/19-20/&times&3)"
+melee = "+2 brilliant energy starknife +28/+23/+18/+13 (2d6+13/19-20/×3), 3 +2 brilliant energy starknives +28 (2d6+7/19-20/×3) or 4 slams +27 (2d6+11)"
+ranged = "+2 brilliant energy starknife +19/+14/+9/+4 (2d6+13/19-20/×3)"
 special_attacks = "expeditious calculation~symbological attack"
 abilities = ["32", "11", "28", "19", "22", "23"]
 +++
@@ -82,12 +82,11 @@ body of a four-armed giant._
 **Speed:** 50 ft., fly 40 ft. (good)
 
 **Melee:** +2 [brilliant energy](ref/magic-enh/brilliant-energy) starknife +28/+23/+18/+13
-(2d6+13/19-20/&times&3), 3 +2 brilliant energy starknives +28 (2d6+7/19-20/&times&3) or 4 slams +27
-(2d6+11)
+(2d6+13/19-20/×3), 3 +2 brilliant energy starknives +28 (2d6+7/19-20/×3) or 4 slams +27 (2d6+11)
 
 **Pounce:** present
 
-**Ranged:** +2 brilliant energy starknife +19/+14/+9/+4 (2d6+13/19-20/&times&3)
+**Ranged:** +2 brilliant energy starknife +19/+14/+9/+4 (2d6+13/19-20/×3)
 
 **Reach:** 20
 

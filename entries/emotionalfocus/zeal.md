@@ -43,8 +43,8 @@ skills.
 
 **Ability:** The phantom threatens a critical hit with its slam attacks on a roll of 19-20.
 
-**At 11th Level:** The phantom's critical modifier with slam attacks increases to &times&3. This
-doesn't stack with [Improved Critical](ref/feat/improved-critical) or similar effects.
+**At 11th Level:** The phantom's critical modifier with slam attacks increases to ×3. This doesn't
+stack with [Improved Critical](ref/feat/improved-critical) or similar effects.
 
 **Determination Aura (Su)**
 

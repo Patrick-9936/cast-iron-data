@@ -23,8 +23,8 @@ hp = "250~20d10+140"
 fortitude = "+13"
 reflex = "+14"
 will = "+13"
-melee = "club +26/+21/+16/+11 (2d6+12), 2 heavy picks +26 (2d6+8/&times&4), 2 slams +21 (2d6+4 plus grab) or 6 slams +26 (2d6+8 plus grab)"
-ranged = "spear +20/+15/+10/+5 (3d6+8/&times&3), 2 spears +20 (3d6+8/&times&3)"
+melee = "club +26/+21/+16/+11 (2d6+12), 2 heavy picks +26 (2d6+8/×4), 2 slams +21 (2d6+4 plus grab) or 6 slams +26 (2d6+8 plus grab)"
+ranged = "spear +20/+15/+10/+5 (3d6+8/×3), 2 spears +20 (3d6+8/×3)"
 special_attacks = "clobber~extra attacks~multiweapon mastery"
 abilities = ["26", "14", "25", "10", "13", "11"]
 +++
@@ -68,10 +68,10 @@ jaw._
 
 **Speed:** 50 ft.
 
-**Melee:** club +26/+21/+16/+11 (2d6+12), 2 heavy picks +26 (2d6+8/&times&4), 2 slams +21 (2d6+4
-plus [grab](ref/umr/grab)) or 6 slams +26 (2d6+8 plus grab)
+**Melee:** club +26/+21/+16/+11 (2d6+12), 2 heavy picks +26 (2d6+8/×4), 2 slams +21 (2d6+4 plus
+[grab](ref/umr/grab)) or 6 slams +26 (2d6+8 plus grab)
 
-**Ranged:** spear +20/+15/+10/+5 (3d6+8/&times&3), 2 spears +20 (3d6+8/&times&3)
+**Ranged:** spear +20/+15/+10/+5 (3d6+8/×3), 2 spears +20 (3d6+8/×3)
 
 **Reach:** 15
 

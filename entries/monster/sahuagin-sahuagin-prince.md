@@ -23,7 +23,7 @@ hp = "148~12d10+82"
 fortitude = "+16"
 reflex = "+13"
 will = "+11"
-melee = "lance of jousting +20/+15/+10 (1d8+8/19-20/&times&3), bite +17 (1d6+2), 2 claws +19 (1d4+5)"
+melee = "lance of jousting +20/+15/+10 (1d8+8/19-20/×3), bite +17 (1d6+2), 2 claws +19 (1d4+5)"
 ranged = "mwk underwater heavy crossbow +18 (1d10/19-20)"
 special_attacks = "banner +3/+2~blood frenzy~cavalier's charge~challenge (+10, +3, 4/day)"
 special_qualities = "exotic mount (shark), greater tactician (3/day, 8 rounds, swift action), multiweapon mastery, order of the lion (for the king, lion's call)"
@@ -73,8 +73,7 @@ abilities = ["20", "16", "20", "13", "12", "10"]
 
 **Speed:** 20 ft., swim 60 ft.
 
-**Melee:** lance of jousting +20/+15/+10 (1d8+8/19-20/&times&3), bite +17 (1d6+2), 2 claws +19
-(1d4+5)
+**Melee:** lance of jousting +20/+15/+10 (1d8+8/19-20/×3), bite +17 (1d6+2), 2 claws +19 (1d4+5)
 
 **Ranged:** mwk underwater heavy crossbow +18 (1d10/19-20)
 

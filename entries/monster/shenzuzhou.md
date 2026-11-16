@@ -22,7 +22,7 @@ hp = "127~17d8+51"
 fortitude = "+8"
 reflex = "+10"
 will = "+12"
-melee = "+1 battleaxe +18/+13/+8 (2d6+10/&times&3), +1 battleaxe +18/+13 (2d6+10/&times&3)"
+melee = "+1 battleaxe +18/+13/+8 (2d6+10/×3), +1 battleaxe +18/+13 (2d6+10/×3)"
 special_attacks = "festering heads"
 abilities = ["28", "17", "-", "6", "15", "17"]
 +++
@@ -76,7 +76,7 @@ stretches across the creature's chest._
 
 **Speed:** 30 ft.
 
-**Melee:** +1 battleaxe +18/+13/+8 (2d6+10/&times&3), +1 battleaxe +18/+13 (2d6+10/&times&3)
+**Melee:** +1 battleaxe +18/+13/+8 (2d6+10/×3), +1 battleaxe +18/+13 (2d6+10/×3)
 
 **Reach:** 10
 

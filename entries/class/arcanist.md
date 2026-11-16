@@ -322,8 +322,8 @@ arcanist has the full power of a bloodline to draw upon.
 
 **Modifies or Replaces:** 3rd and 9th-level Arcanist Exploits; Magical Supremacy
 
-**Description:** Frequently called &quot&brown-furs,&quot& these transmutation-focused arcanists are
-known for transforming themselves into animals.
+**Description:** Frequently called "brown-furs," these transmutation-focused arcanists are known for
+transforming themselves into animals.
 
 **Eldritch Font**
 

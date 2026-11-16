@@ -33,8 +33,8 @@ While in this form, you gain a base speed of 40 feet, [low-light vision](ref/rul
 [scent](ref/umr/scent) (30 feet), a [bite attack](ref/umr/natural-attacks) (1d8 damage), and two
 claw attacks (1d6 damage) with the [grab](ref/umr/grab) ability.
 
-**At 15th Level:** The critical multiplier of your claw attack increases by 1 (&times&2 becomes
-&times&3) to a maximum of &times&4, and you gain the [Awesome Blow](ref/feat/awesome-blow) feat.
+**At 15th Level:** The critical multiplier of your claw attack increases by 1 (×2 becomes ×3) to a
+maximum of ×4, and you gain the [Awesome Blow](ref/feat/awesome-blow) feat.
 
 **At 8th Level:** You gain [Improved Natural Attack](ref/feat/improved-natural-attack) with your
 claws.

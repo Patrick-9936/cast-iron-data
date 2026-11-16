@@ -21,7 +21,7 @@ hp = "18~4d8"
 fortitude = "+1"
 reflex = "+1"
 will = "+5"
-melee = "spear +5 (1d8+3/&times&3)"
+melee = "spear +5 (1d8+3/×3)"
 ranged = "javelin +3 (1d6+2)"
 special_qualities = "undying loyalty"
 abilities = ["14", "11", "-", "11", "12", "11"]
@@ -68,7 +68,7 @@ arm._
 
 **Speed:** 20 ft.
 
-**Melee:** spear +5 (1d8+3/&times&3)
+**Melee:** spear +5 (1d8+3/×3)
 
 **Ranged:** javelin +3 (1d6+2)
 

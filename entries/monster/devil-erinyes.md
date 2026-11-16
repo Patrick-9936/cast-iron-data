@@ -23,7 +23,7 @@ fortitude = "+11"
 reflex = "+12"
 will = "+7"
 melee = "+1 longsword +15/+10 (1d8+8/19-20)"
-ranged = "+1 flaming composite longbow +14/+14/+9 (1d8+6/&times&3 plus 1d6 fire) or rope +15 touch (entangle)"
+ranged = "+1 flaming composite longbow +14/+14/+9 (1d8+6/×3 plus 1d6 fire) or rope +15 touch (entangle)"
 abilities = ["20", "23", "21", "14", "18", "21"]
 +++
 
@@ -76,7 +76,7 @@ eyes search for a target._
 
 **Melee:** +1 longsword +15/+10 (1d8+8/19-20)
 
-**Ranged:** +1 flaming composite longbow +14/+14/+9 (1d8+6/&times&3 plus 1d6 fire) or rope +15 touch
+**Ranged:** +1 flaming composite longbow +14/+14/+9 (1d8+6/×3 plus 1d6 fire) or rope +15 touch
 (entangle)
 
 **Spell-Like Abilities**

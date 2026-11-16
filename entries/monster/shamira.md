@@ -24,7 +24,7 @@ fortitude = "+28"
 reflex = "+30"
 will = "+26"
 melee = "2 claws +36 (1d8+9 plus 4d6 fire and burn), tail slap +31 (2d6+4 plus 4d6 fire, burn, and grab), 2 wings +31 (1d8+4 plus 4d6 fire and burn)"
-ranged = "firebow +43/+38/+33/+28 (1d8+14/19-20/&times&3 plus 1d6 fire and burn)"
+ranged = "firebow +43/+38/+33/+28 (1d8+14/19-20/×3 plus 1d6 fire and burn)"
 special_attacks = "dream haunting~energy drain~fiery passion~profane benediction"
 special_qualities = "change shape (any humanoid; alter self), divine deception, nascent demon lord traits"
 abilities = ["29", "32", "40", "28", "25", "37"]
@@ -91,7 +91,7 @@ _This crimson-haired demonic woman has wings of fire. She carries a slender bow 
 **Melee:** 2 claws +36 (1d8+9 plus 4d6 fire and burn), tail slap +31 (2d6+4 plus 4d6 fire, burn, and
 [grab](ref/umr/grab)), 2 wings +31 (1d8+4 plus 4d6 fire and burn)
 
-**Ranged:** firebow +43/+38/+33/+28 (1d8+14/19-20/&times&3 plus 1d6 fire and burn)
+**Ranged:** firebow +43/+38/+33/+28 (1d8+14/19-20/×3 plus 1d6 fire and burn)
 
 **Spec Att:** dream haunting, energy drain, fiery passion, profane benediction
 

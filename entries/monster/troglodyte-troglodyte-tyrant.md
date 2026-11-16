@@ -23,7 +23,7 @@ hp = "135~9d8+2d10+84~11"
 fortitude = "+17"
 reflex = "+6"
 will = "+10 (+1 vs. fear)"
-melee = "+1 battleaxe +15/+10 (1d8+6/&times&3), bite +8 (1d4+2), claw +8 (1d4+2) or bite +13 (1d4+5), 2 claws +13 (1d4+5)"
+melee = "+1 battleaxe +15/+10 (1d8+6/×3), bite +8 (1d4+2), claw +8 (1d4+2) or bite +13 (1d4+5), 2 claws +13 (1d4+5)"
 ranged = "javelin +10/+5 (1d6+5)"
 special_attacks = "fury of the Abyss (+3, 8/day)"
 abilities = ["20", "15", "22", "14", "20", "14"]
@@ -76,8 +76,8 @@ tail and crests on its head and back._
 
 **Ch N En:** 5/day, DC 15, 4d6
 
-**Melee:** +1 battleaxe +15/+10 (1d8+6/&times&3), bite +8 (1d4+2), claw +8 (1d4+2) or bite +13
-(1d4+5), 2 claws +13 (1d4+5)
+**Melee:** +1 battleaxe +15/+10 (1d8+6/×3), bite +8 (1d4+2), claw +8 (1d4+2) or bite +13 (1d4+5), 2
+claws +13 (1d4+5)
 
 **Ranged:** javelin +10/+5 (1d6+5)
 

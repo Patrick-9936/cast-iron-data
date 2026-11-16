@@ -23,7 +23,7 @@ hp = "147~14d10+70"
 fortitude = "+14"
 reflex = "+12"
 will = "+11"
-melee = "4 claws +20 (1d6+7), gore +20 (1d8+7/19-20/&times&3)"
+melee = "4 claws +20 (1d6+7), gore +20 (1d8+7/19-20/×3)"
 special_attacks = "blizzard"
 special_qualities = "icewalking"
 abilities = ["24", "13", "20", "13", "20", "21"]
@@ -76,9 +76,9 @@ protrudes from its snarling face._
 
 **Speed:** 40 ft.
 
-**Melee:** 4 claws +20 (1d6+7), gore +20 (1d8+7/19-20/&times&3)
+**Melee:** 4 claws +20 (1d6+7), gore +20 (1d8+7/19-20/×3)
 
-**Pow Ch:** gore, 2d8+14/19-20/&times&3
+**Pow Ch:** gore, 2d8+14/19-20/×3
 
 **Reach:** 10
 

@@ -23,8 +23,8 @@ hp = "59~7d10+21"
 fortitude = "+5"
 reflex = "+8"
 will = "+8"
-melee = "mwk harpoon +12/+7 (1d8+6/&times&3), 2 hooves +5 (1d6+2)"
-ranged = "mwk harpoon +11 (1d8+4/&times&3) or javelin +9/+4 (1d6+4)"
+melee = "mwk harpoon +12/+7 (1d8+6/×3), 2 hooves +5 (1d6+2)"
+ranged = "mwk harpoon +11 (1d8+4/×3) or javelin +9/+4 (1d6+4)"
 special_qualities = "amphibious, undersized weapons"
 abilities = ["18", "17", "16", "13", "16", "15"]
 +++
@@ -68,11 +68,11 @@ hoofed forelegs trailing into a finned tail._
 
 **Speed:** 5 ft., swim 60 ft.
 
-**Melee:** mwk harpoon +12/+7 (1d8+6/&times&3), 2 hooves +5 (1d6+2)
+**Melee:** mwk harpoon +12/+7 (1d8+6/×3), 2 hooves +5 (1d6+2)
 
 **Pounce:** present
 
-**Ranged:** mwk harpoon +11 (1d8+4/&times&3) or javelin +9/+4 (1d6+4)
+**Ranged:** mwk harpoon +11 (1d8+4/×3) or javelin +9/+4 (1d6+4)
 
 **Reach:** 5
 

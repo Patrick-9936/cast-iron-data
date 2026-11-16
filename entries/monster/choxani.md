@@ -23,7 +23,7 @@ fortitude = "+3"
 reflex = "+6"
 will = "+6"
 melee = "discoloring touch +4 touch (1d6 plus energy drain) or rapier +4 (1d6/18-20)"
-ranged = "longbow +4 (1d8/&times&3)"
+ranged = "longbow +4 (1d8/×3)"
 special_attacks = "hypnotic colors"
 special_qualities = "pattern reading"
 abilities = ["11", "15", "14", "10", "14", "15"]
@@ -74,7 +74,7 @@ colors and patterns._
 
 **Melee:** discoloring touch +4 touch (1d6 plus energy drain) or rapier +4 (1d6/18-20)
 
-**Ranged:** longbow +4 (1d8/&times&3)
+**Ranged:** longbow +4 (1d8/×3)
 
 **Spec Att:** hypnotic colors
 

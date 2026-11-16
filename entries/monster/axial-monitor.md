@@ -23,7 +23,7 @@ hp = "210~20d10+100"
 fortitude = "+17"
 reflex = "+11"
 will = "+18"
-melee = "+1 merciful greatclub +26/+21/+16/+11 (2d8+10), tentacle +20 (1d6+3 plus grab), slam +20 (2d6+3 plus energized maul) or +1 axiomatic glaive +26 (2d8+10/&times&3), +1 merciful greatclub +26 (2d8+10), tentacle +25 (1d6+3 plus grab), slam +25 (2d6+3 plus energized maul)"
+melee = "+1 merciful greatclub +26/+21/+16/+11 (2d8+10), tentacle +20 (1d6+3 plus grab), slam +20 (2d6+3 plus energized maul) or +1 axiomatic glaive +26 (2d8+10/×3), +1 merciful greatclub +26 (2d8+10), tentacle +25 (1d6+3 plus grab), slam +25 (2d6+3 plus energized maul)"
 special_attacks = "energized maul~tripartite assault~watchful faces"
 special_qualities = "interrogate"
 abilities = ["23", "16", "21", "14", "18", "17"]
@@ -81,9 +81,9 @@ torsos are topped with a single head bearing three faces, each set in a bland, s
 **Speed:** 40 ft., (30 ft. in armor)
 
 **Melee:** +1 merciful greatclub +26/+21/+16/+11 (2d8+10), tentacle +20 (1d6+3 plus
-[grab](ref/umr/grab)), slam +20 (2d6+3 plus energized maul) or +1 axiomatic glaive +26
-(2d8+10/&times&3), +1 merciful greatclub +26 (2d8+10), tentacle +25 (1d6+3 plus grab), slam +25
-(2d6+3 plus energized maul)
+[grab](ref/umr/grab)), slam +20 (2d6+3 plus energized maul) or +1 axiomatic glaive +26 (2d8+10/×3),
++1 merciful greatclub +26 (2d8+10), tentacle +25 (1d6+3 plus grab), slam +25 (2d6+3 plus energized
+maul)
 
 **Reach:** 10
 

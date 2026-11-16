@@ -23,7 +23,7 @@ hp = "305~14d8+9d12+184~23"
 fortitude = "+23"
 reflex = "+9"
 will = "+11"
-melee = "+2 icy burst greataxe +35/+30/+25/+20 (3d6+23/&times&3) or 2 slams +32 (1d8+14)"
+melee = "+2 icy burst greataxe +35/+30/+25/+20 (3d6+23/×3) or 2 slams +32 (1d8+14)"
 ranged = "rock +20 (1d8+21)"
 special_attacks = "rage (26 rounds/day)~rage powers (increased damage reduction +1, rolling dodge +2, ground breaker, smasher)"
 special_qualities = "fast movement"
@@ -83,7 +83,7 @@ wields a massive, ice-encrusted battleaxe._
 
 **Speed:** 40 ft.
 
-**Melee:** +2 icy burst greataxe +35/+30/+25/+20 (3d6+23/&times&3) or 2 slams +32 (1d8+14)
+**Melee:** +2 icy burst greataxe +35/+30/+25/+20 (3d6+23/×3) or 2 slams +32 (1d8+14)
 
 **Ranged:** rock +20 (1d8+21)
 

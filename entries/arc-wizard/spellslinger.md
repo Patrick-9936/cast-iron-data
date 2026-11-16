@@ -52,7 +52,7 @@ spell being sacrificed.
 
 **Choice:** At 1st level, the spellslinger decides whether he wants to have one or two _arcane guns_
 at a time. If the spellslinger chooses to have only one _arcane gun_ at a time, spells fired through
-the _arcane gun_ that require an attack roll have a &times&3 critical hit multiplier.
+the _arcane gun_ that require an attack roll have a ×3 critical hit multiplier.
 
 **Replaces:** Arcane bond
 

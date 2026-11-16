@@ -24,7 +24,7 @@ fortitude = "+3"
 reflex = "+1"
 will = "-1; +2 vs. enchantment"
 melee = "spear +2 (1d8+1)"
-ranged = "light crossbow +2 (1d8+1/&times&3)"
+ranged = "light crossbow +2 (1d8+1/×3)"
 special_qualities = "amphibious"
 abilities = ["12", "13", "13", "9", "8", "10"]
 +++
@@ -72,7 +72,7 @@ flexing._
 
 **Melee:** spear +2 (1d8+1)
 
-**Ranged:** light crossbow +2 (1d8+1/&times&3)
+**Ranged:** light crossbow +2 (1d8+1/×3)
 
 **Statistics**
 

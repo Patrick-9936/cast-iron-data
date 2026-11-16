@@ -155,7 +155,7 @@ At 15th level: You gain a 4th aspect.
 
 **At 11th Level:** Your claw damage becomes 1d8 (1d6 if Small).
 
-**At 17th Level:** Your claws' critical multiplier becomes &times&3.
+**At 17th Level:** Your claws' critical multiplier becomes ×3.
 
 **At 19th Level:** Your claws ignore DR/adamantine and DR/-.
 

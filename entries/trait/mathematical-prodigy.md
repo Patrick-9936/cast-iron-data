@@ -15,8 +15,8 @@ category = "Magic"
 
 **Type:** Magic
 
-**Flavor:** Mathematics has always come easily for you, and you have always been able to &quot&see
-the math&quot& in the physical and magical world.
+**Flavor:** Mathematics has always come easily for you, and you have always been able to "see the
+math" in the physical and magical world.
 
 **Benefit:** You gain a +1 bonus on [Knowledge (arcana)](ref/skill/knowledge-arcana) and
 [Knowledge (engineering)](ref/skill/knowledge-engineering) checks, and one of these skills (your

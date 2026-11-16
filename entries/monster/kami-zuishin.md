@@ -22,8 +22,8 @@ hp = "123~13d10+52"
 fortitude = "+8"
 reflex = "+13"
 will = "+14"
-melee = "+1 holy halberd +18/+13/+8 (1d10+7/&times&3)"
-ranged = "+1 holy composite longbow +20/+15/+10 (1d8+5/&times&3)"
+melee = "+1 holy halberd +18/+13/+8 (1d10+7/×3)"
+ranged = "+1 holy composite longbow +20/+15/+10 (1d8+5/×3)"
 special_attacks = "healing arrow~holy weapons"
 special_qualities = "merge with ward, ward (gate, doorway, or shrine)"
 abilities = ["18", "21", "18", "11", "18", "21"]
@@ -77,9 +77,9 @@ _Within this elaborate suit of armor can be seen the partial form of a determine
 
 **Speed:** fly 30 ft. (perfect, 40 ft. without armor)
 
-**Melee:** +1 [holy](ref/magic-enh/holy) halberd +18/+13/+8 (1d10+7/&times&3)
+**Melee:** +1 [holy](ref/magic-enh/holy) halberd +18/+13/+8 (1d10+7/×3)
 
-**Ranged:** +1 holy composite longbow +20/+15/+10 (1d8+5/&times&3)
+**Ranged:** +1 holy composite longbow +20/+15/+10 (1d8+5/×3)
 
 **Spec Att:** healing arrow, holy weapons
 

@@ -94,7 +94,7 @@ skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requir
 concentration other than casting spells using psychic magic, using phrenic amplifications, or
 attempting to return to normal.
 
-**Usage:** &frac12& your Psychic level + Charisma3 modifier times/day
+**Usage:** ½ your Psychic level + Charisma3 modifier times/day
 
 **Morphic Form (Ex)**
 

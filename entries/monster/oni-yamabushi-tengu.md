@@ -22,8 +22,8 @@ hp = "57~6d10+24"
 fortitude = "+9"
 reflex = "+9"
 will = "+4; -2 vs. illusion (pattern) spells"
-melee = "+1 kusarigama +10/+5 (1d6+4/&times&3), bite +3 (1d4+1)"
-ranged = "composite longbow +10/+5 (1d8+2/&times&3)"
+melee = "+1 kusarigama +10/+5 (1d6+4/×3), bite +3 (1d4+1)"
+ranged = "composite longbow +10/+5 (1d8+2/×3)"
 special_attacks = "steal voice"
 special_qualities = "change shape (Medium humanoid; alter self), yamabushi weapons"
 abilities = ["15", "19", "18", "12", "15", "16"]
@@ -76,9 +76,9 @@ prodigious nose, and large raven-like wings._
 
 **Speed:** 30 ft., fly 30 ft. (average)
 
-**Melee:** +1 kusarigama +10/+5 (1d6+4/&times&3), bite +3 (1d4+1)
+**Melee:** +1 kusarigama +10/+5 (1d6+4/×3), bite +3 (1d4+1)
 
-**Ranged:** composite longbow +10/+5 (1d8+2/&times&3)
+**Ranged:** composite longbow +10/+5 (1d8+2/×3)
 
 **Spec Att:** steal voice
 

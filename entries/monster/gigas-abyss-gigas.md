@@ -23,7 +23,7 @@ hp = "283~21d8+189"
 fortitude = "+21"
 reflex = "+8"
 will = "+10"
-melee = "mwk adamantine warhammer +25/+20/+15 (4d6+19/19-20/&times&3), bite +19 (2d8+6 plus wrenching spasms)"
+melee = "mwk adamantine warhammer +25/+20/+15 (4d6+19/19-20/×3), bite +19 (2d8+6 plus wrenching spasms)"
 ranged = "rock +13 (4d6+19)"
 special_qualities = "planar empowerment"
 abilities = ["37", "12", "28", "20", "17", "15"]
@@ -79,8 +79,8 @@ effortlessly._
 
 **Speed:** 60 ft., (50 ft. in armor)
 
-**Melee:** mwk adamantine warhammer +25/+20/+15 (4d6+19/19-20/&times&3), bite +19 (2d8+6 plus
-wrenching spasms)
+**Melee:** mwk adamantine warhammer +25/+20/+15 (4d6+19/19-20/×3), bite +19 (2d8+6 plus wrenching
+spasms)
 
 **Ranged:** rock +13 (4d6+19)
 

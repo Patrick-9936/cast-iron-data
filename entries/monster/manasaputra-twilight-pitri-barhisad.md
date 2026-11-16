@@ -22,7 +22,7 @@ hp = "300~24d10+168"
 fortitude = "+15"
 reflex = "+22"
 will = "+22; +2 vs. enchantment"
-melee = "unarmed strike +28/+23/+18/+13 (2d10+8/19-20/&times&3)"
+melee = "unarmed strike +28/+23/+18/+13 (2d10+8/19-20/×3)"
 ranged = "lunar rays +31/+26/+21/+16 touch (8d6 cold and 8d6 positive energy)"
 special_attacks = "anatomical undoing~lunar rays~stunning fist (6/day, DC 18)"
 special_qualities = "no breath, positive energy affinity, third eye"
@@ -77,7 +77,7 @@ _Cerulean light surrounds this towering four-armed figure in a vibrant corona._
 
 **Speed:** 40 ft., fly 60 ft. (perfect)
 
-**Melee:** unarmed strike +28/+23/+18/+13 (2d10+8/19-20/&times&3)
+**Melee:** unarmed strike +28/+23/+18/+13 (2d10+8/19-20/×3)
 
 **Ranged:** lunar rays +31/+26/+21/+16 touch (8d6 cold and 8d6 positive energy)
 

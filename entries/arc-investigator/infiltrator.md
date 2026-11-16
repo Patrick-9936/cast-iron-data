@@ -34,7 +34,7 @@ creatures whose company he's infiltrating, or even specific individuals.
 category, or size category, an infiltrator reduces the penalties for each by -2. For example, if the
 infiltrator disguises himself as a female two age categories older than himself, he would take a -2
 to the check instead of a -6. Also, an infiltrator can disguise himself with 1d3 minutes of work
-(instead of the normal 1d3 &times& 10 minutes of work).
+(instead of the normal 1d3 × 10 minutes of work).
 
 **Replaces:** Trapfinding
 

@@ -23,7 +23,7 @@ hp = "95~3d8+7d10+44~10"
 fortitude = "+12"
 reflex = "+8"
 will = "+5"
-melee = "+1 handaxe +14/+9 (1d6+6/19-20/&times&3), +1 handaxe +14/+9 (1d6+6/19-20/&times&3), tongue +9 touch (sticky tongue)"
+melee = "+1 handaxe +14/+9 (1d6+6/19-20/×3), +1 handaxe +14/+9 (1d6+6/19-20/×3), tongue +9 touch (sticky tongue)"
 ranged = "javelin +10 (1d6+5)"
 special_attacks = "combat style (two-weapon)~terrifying croak (DC 12)"
 special_qualities = "favored terrain (swamp +2), hold breath, hunter's bond (companions), swamp stride, track +3, wild empathy +6, woodland stride"
@@ -69,8 +69,8 @@ abilities = ["20", "13", "16", "8", "13", "8"]
 
 **Fav En:** dragons +2, humans +4
 
-**Melee:** +1 handaxe +14/+9 (1d6+6/19-20/&times&3), +1 handaxe +14/+9 (1d6+6/19-20/&times&3),
-tongue +9 touch (sticky tongue)
+**Melee:** +1 handaxe +14/+9 (1d6+6/19-20/×3), +1 handaxe +14/+9 (1d6+6/19-20/×3), tongue +9 touch
+(sticky tongue)
 
 **Ranged:** javelin +10 (1d6+5)
 

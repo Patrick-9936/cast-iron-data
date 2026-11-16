@@ -22,7 +22,7 @@ hp = "604~31d10+434"
 fortitude = "+35"
 reflex = "+20"
 will = "+31"
-melee = "+5 adamantine icy burst warhammer +53/+48/+43/+38 (3d6+24/19-20/&times&3 plus 1d6 cold), slam +48 (1d8+19 plus grab)"
+melee = "+5 adamantine icy burst warhammer +53/+48/+43/+38 (3d6+24/19-20/×3 plus 1d6 cold), slam +48 (1d8+19 plus grab)"
 ranged = "rock +37/+32/+27/+22 (2d6+19)"
 special_attacks = "clutch foe~crushing blow~powerful slam~vengeful strike"
 special_qualities = "demon lord traits"
@@ -90,8 +90,8 @@ electricity, energy drain, petrification, and poison
 
 **Fav En:** giants +4, humans +4, see below
 
-**Melee:** +5 adamantine icy burst warhammer +53/+48/+43/+38 (3d6+24/19-20/&times&3 plus 1d6 cold),
-slam +48 (1d8+19 plus [grab](ref/umr/grab))
+**Melee:** +5 adamantine icy burst warhammer +53/+48/+43/+38 (3d6+24/19-20/×3 plus 1d6 cold), slam
++48 (1d8+19 plus [grab](ref/umr/grab))
 
 **Ranged:** rock +37/+32/+27/+22 (2d6+19)
 

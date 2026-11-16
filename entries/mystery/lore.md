@@ -129,9 +129,9 @@ your Dexterity.
 
 **Spontaneous Symbology**
 
-**Ability:** You can cast any &quot&symbol&quot& spell using a spell slot of the appropriate level,
-even if the spell is not on your list of spells known. A symbol spell is any spell with the word
-&quot&symbol&quot& in its name.
+**Ability:** You can cast any "symbol" spell using a spell slot of the appropriate level, even if
+the spell is not on your list of spells known. A symbol spell is any spell with the word "symbol" in
+its name.
 
 **Flavor:** Your knowledge of the secret history of the world has unveiled the mysterious symbols
 that govern reality.

@@ -23,7 +23,7 @@ hp = "67~9d8+27"
 fortitude = "+9"
 reflex = "+3"
 will = "+3"
-melee = "battleaxe +12/+7 (2d6+9/&times&3) or 2 slams +11 (1d8+6)"
+melee = "battleaxe +12/+7 (2d6+9/×3) or 2 slams +11 (1d8+6)"
 ranged = "rock +6 (1d8+9)"
 special_qualities = "axe wielder"
 abilities = ["23", "10", "17", "6", "10", "7"]
@@ -74,7 +74,7 @@ from the bones of past victims._
 
 **Speed:** 40 ft., (30 ft. in armor)
 
-**Melee:** battleaxe +12/+7 (2d6+9/&times&3) or 2 slams +11 (1d8+6)
+**Melee:** battleaxe +12/+7 (2d6+9/×3) or 2 slams +11 (1d8+6)
 
 **Ranged:** rock +6 (1d8+9)
 

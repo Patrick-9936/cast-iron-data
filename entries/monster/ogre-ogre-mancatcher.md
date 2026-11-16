@@ -23,7 +23,7 @@ hp = "86~4d8+5d10+41~9"
 fortitude = "+13"
 reflex = "+4"
 will = "+6 (+1 vs. fear)"
-melee = "+1 ogre hook +17/+12 (2d8+14/&times&3 plus trip) or unarmed strike +16/+11 (1d4+12)"
+melee = "+1 ogre hook +17/+12 (2d8+14/×3 plus trip) or unarmed strike +16/+11 (1d4+12)"
 ranged = "javelin +8/+3 (1d8+7)"
 special_attacks = "weapon training (polearms +1)"
 special_qualities = "armor training 1"
@@ -73,8 +73,8 @@ mouth with ill-fitting teeth._
 
 **Speed:** 40 ft.
 
-**Melee:** +1 ogre hook +17/+12 (2d8+14/&times&3 plus [trip](ref/umr/trip)) or unarmed strike
-+16/+11 (1d4+12)
+**Melee:** +1 ogre hook +17/+12 (2d8+14/×3 plus [trip](ref/umr/trip)) or unarmed strike +16/+11
+(1d4+12)
 
 **Ranged:** javelin +8/+3 (1d8+7)
 

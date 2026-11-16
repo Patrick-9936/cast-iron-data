@@ -26,8 +26,8 @@ hp = "42~4d10+20"
 fortitude = "+1"
 reflex = "+2"
 will = "+2"
-melee = "slam +9 (1d4+7) or mwk spear +10 (1d8+7/&times&3 plus 1d6 electricity)"
-ranged = "mwk spear +6 (1d8+5/&times&3)"
+melee = "slam +9 (1d4+7) or mwk spear +10 (1d8+7/×3 plus 1d6 electricity)"
+ranged = "mwk spear +6 (1d8+5/×3)"
 special_qualities = "adaptive learning, charge weapon, nanite repair"
 abilities = ["20", "13", "-", "10", "13", "1"]
 +++
@@ -79,9 +79,9 @@ glass orb for an eye._
 
 **Speed:** 20 ft.
 
-**Melee:** slam +9 (1d4+7) or mwk spear +10 (1d8+7/&times&3 plus 1d6 electricity)
+**Melee:** slam +9 (1d4+7) or mwk spear +10 (1d8+7/×3 plus 1d6 electricity)
 
-**Ranged:** mwk spear +6 (1d8+5/&times&3)
+**Ranged:** mwk spear +6 (1d8+5/×3)
 
 **Statistics**
 

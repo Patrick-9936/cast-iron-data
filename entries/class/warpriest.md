@@ -105,10 +105,9 @@ placed in a higher slot (for example through metamagic) uses that slot.
 
 #### Spontaneous Casting {#spontaneous-casting}
 
-**Ability:** If you are good (or a neutral warpriest of a good deity), you can &quot&lose&quot& any
-prepared spell that is not an orison in order to cast any _cure_ spell of the same spell level or
-lower. If you are evil (or a neutral warpriest of an evil deity), you can convert spells to
-_inflict_ spells.
+**Ability:** If you are good (or a neutral warpriest of a good deity), you can "lose" any prepared
+spell that is not an orison in order to cast any _cure_ spell of the same spell level or lower. If
+you are evil (or a neutral warpriest of an evil deity), you can convert spells to _inflict_ spells.
 
 **Flavor:** A good warpriest (or a neutral warpriest of a good deity) can channel stored spell
 energy into healing spells that he did not prepare ahead of time.

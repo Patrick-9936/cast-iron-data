@@ -22,7 +22,7 @@ hp = "731~34d10+544"
 fortitude = "+39"
 reflex = "+24"
 will = "+35; +8 vs. mind-affecting effects"
-melee = "Goreletch +46/+41/+36/+31 (3d6+18/19-20/&times&4), Ramithaine +46/+41 (3d6+18/17-20/&times&3), bite +42 (2d6+7 plus grab and burn), gore +42 (2d6+7 plus burn)"
+melee = "Goreletch +46/+41/+36/+31 (3d6+18/19-20/×4), Ramithaine +46/+41 (3d6+18/17-20/×3), bite +42 (2d6+7 plus grab and burn), gore +42 (2d6+7 plus burn)"
 special_attacks = "barbed blademaster~incinerate~spirit of hellfire"
 special_qualities = "call weaponry, infernal fortress"
 abilities = ["40", "25", "42", "25", "34", "33"]
@@ -89,9 +89,8 @@ petrification, poison
 
 **F Swallow:** present
 
-**Melee:** Goreletch +46/+41/+36/+31 (3d6+18/19-20/&times&4), Ramithaine +46/+41
-(3d6+18/17-20/&times&3), bite +42 (2d6+7 plus [grab](ref/umr/grab) and burn), gore +42 (2d6+7 plus
-burn)
+**Melee:** Goreletch +46/+41/+36/+31 (3d6+18/19-20/×4), Ramithaine +46/+41 (3d6+18/17-20/×3), bite
++42 (2d6+7 plus [grab](ref/umr/grab) and burn), gore +42 (2d6+7 plus burn)
 
 **Reach:** 15
 

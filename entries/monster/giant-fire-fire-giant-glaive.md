@@ -23,7 +23,7 @@ hp = "197~15d8+2d10+119~17"
 fortitude = "+19"
 reflex = "+6"
 will = "+10"
-melee = "+2 glaive +24/+19/+14 (2d8+15/&times&3)"
+melee = "+2 glaive +24/+19/+14 (2d8+15/×3)"
 ranged = "rock +14 (1d8+13 plus 1d6 fire)"
 special_attacks = "heated rock~pole fighting -4"
 abilities = ["29", "13", "25", "12", "16", "10"]
@@ -74,7 +74,7 @@ abilities = ["29", "13", "25", "12", "16", "10"]
 
 **Speed:** 40 ft.
 
-**Melee:** +2 glaive +24/+19/+14 (2d8+15/&times&3)
+**Melee:** +2 glaive +24/+19/+14 (2d8+15/×3)
 
 **Ranged:** rock +14 (1d8+13 plus 1d6 fire)
 

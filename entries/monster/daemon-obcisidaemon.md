@@ -25,7 +25,7 @@ hp = "319~22d10+198"
 fortitude = "+26"
 reflex = "+15"
 will = "+22"
-melee = "+1 unholy halberd +28/+23/+18/+13 (4d8+13/19-20/&times&3 plus inherit soul), bite +21 (2d8+4)"
+melee = "+1 unholy halberd +28/+23/+18/+13 (4d8+13/19-20/×3 plus inherit soul), bite +21 (2d8+4)"
 special_attacks = "cloak of souls"
 special_qualities = "warfare mastery"
 abilities = ["26", "19", "28", "13", "21", "24"]
@@ -80,8 +80,7 @@ immense, cruel-looking halberd._
 
 **Speed:** 30 ft., fly 60 ft. (average)
 
-**Melee:** +1 unholy halberd +28/+23/+18/+13 (4d8+13/19-20/&times&3 plus inherit soul), bite +21
-(2d8+4)
+**Melee:** +1 unholy halberd +28/+23/+18/+13 (4d8+13/19-20/×3 plus inherit soul), bite +21 (2d8+4)
 
 **Reach:** 20
 

@@ -23,7 +23,7 @@ fortitude = "+12"
 reflex = "+15"
 will = "+9"
 melee = "mwk morningstar +15/+10/+5 (1d8)"
-ranged = "+1 frost longbow +21/+16/+11 (1d8+1/&times&3 plus 1d6 cold)"
+ranged = "+1 frost longbow +21/+16/+11 (1d8+1/×3 plus 1d6 cold)"
 special_attacks = "captivating song"
 special_qualities = "favored terrain (desert +2), hunter's bond (companions), track +3, wild empathy +11, woodland stride"
 abilities = ["10", "20", "16", "7", "14", "19"]
@@ -72,7 +72,7 @@ wicked-looking longbow._
 
 **Melee:** mwk morningstar +15/+10/+5 (1d8)
 
-**Ranged:** +1 frost longbow +21/+16/+11 (1d8+1/&times&3 plus 1d6 cold)
+**Ranged:** +1 frost longbow +21/+16/+11 (1d8+1/×3 plus 1d6 cold)
 
 **Spec Att:** captivating song
 

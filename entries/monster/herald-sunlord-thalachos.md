@@ -26,7 +26,7 @@ fortitude = "+18"
 reflex = "+13"
 will = "+13; +4 vs. poison, +4 resistance vs. evil"
 melee = "+1 flaming holy scimitars +19/+19/+14/+14/+9/+9 (1d8+8/18-20 plus 1d6 fire plus stun)"
-ranged = "+1 flaming holy composite longbow +19/+14/+9 (2d6+8/&times&3 plus 1d6 fire)"
+ranged = "+1 flaming holy composite longbow +19/+14/+9 (2d6+8/×3 plus 1d6 fire)"
 special_attacks = "stun"
 special_qualities = "divine trigger, change shape (Small or Medium humanoid or elemental; alter self or elemental body II)"
 abilities = ["24", "19", "24", "19", "23", "22"]
@@ -87,7 +87,7 @@ flaming scimitars and a bow._
 
 **Melee:** +1 flaming holy scimitars +19/+19/+14/+14/+9/+9 (1d8+8/18-20 plus 1d6 fire plus stun)
 
-**Ranged:** +1 flaming holy composite longbow +19/+14/+9 (2d6+8/&times&3 plus 1d6 fire)
+**Ranged:** +1 flaming holy composite longbow +19/+14/+9 (2d6+8/×3 plus 1d6 fire)
 
 **Reach:** 10
 

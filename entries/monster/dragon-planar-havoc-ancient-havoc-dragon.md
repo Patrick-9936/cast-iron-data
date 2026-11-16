@@ -23,7 +23,7 @@ hp = "378~28d12+196"
 fortitude = "+23"
 reflex = "+19"
 will = "+22"
-melee = "bite +37 (4d6+18/19-20), 2 claws +36 (2d8+12), tail slap +35 (2d8+18/19-20/&times&3 plus trip), 2 wings +34 (2d6+6)"
+melee = "bite +37 (4d6+18/19-20), 2 claws +36 (2d8+12), tail slap +35 (2d8+18/19-20/×3 plus trip), 2 wings +34 (2d6+6)"
 special_attacks = "crush~delirium breath~lashing tail~tail sweep~tripping tail"
 special_qualities = "change shape (3/day), planar artist, planar infusion (300 ft.)"
 abilities = ["35", "12", "25", "24", "23", "26"]
@@ -78,7 +78,7 @@ stirred by an unseen breeze._
 
 **Br Weap:** 60-ft. cone, 20d10 sonic damage, Reflex DC 31 half
 
-**Melee:** bite +37 (4d6+18/19-20), 2 claws +36 (2d8+12), tail slap +35 (2d8+18/19-20/&times&3 plus
+**Melee:** bite +37 (4d6+18/19-20), 2 claws +36 (2d8+12), tail slap +35 (2d8+18/19-20/×3 plus
 [trip](ref/umr/trip)), 2 wings +34 (2d6+6)
 
 **Reach:** 10

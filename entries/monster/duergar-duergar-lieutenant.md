@@ -23,7 +23,7 @@ hp = "61~6d10+24"
 fortitude = "+8"
 reflex = "+6"
 will = "+4; +2 vs. spells"
-melee = "+1 warhammer +11/+6 (2d6+4/&times&3)"
+melee = "+1 warhammer +11/+6 (2d6+4/×3)"
 ranged = "mwk light crossbow +8 (1d8/19-20)"
 special_qualities = "favored terrain (underground +2), hunter's bond (companions), ironskinned, slow and steady, stability, track +3, twilight touched, wild empathy +3"
 abilities = ["16", "12", "16", "10", "15", "4"]
@@ -73,7 +73,7 @@ abilities = ["16", "12", "16", "10", "15", "4"]
 
 **Fav En:** dwarves +4, elves +2
 
-**Melee:** +1 warhammer +11/+6 (2d6+4/&times&3)
+**Melee:** +1 warhammer +11/+6 (2d6+4/×3)
 
 **Ranged:** mwk light crossbow +8 (1d8/19-20)
 

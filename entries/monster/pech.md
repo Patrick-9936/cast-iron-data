@@ -23,7 +23,7 @@ hp = "27~6d6+6"
 fortitude = "+5"
 reflex = "+6"
 will = "+6"
-melee = "mwk heavy pick +9 (1d4+6/&times&4)"
+melee = "mwk heavy pick +9 (1d4+6/×4)"
 special_attacks = "earth mastery~pech magic~stone knowledge"
 abilities = ["19", "12", "13", "12", "13", "12"]
 +++
@@ -75,7 +75,7 @@ pickaxe in its knobby hands._
 
 **Speed:** 20 ft.
 
-**Melee:** mwk heavy pick +9 (1d4+6/&times&4)
+**Melee:** mwk heavy pick +9 (1d4+6/×4)
 
 **Spec Att:** earth mastery, pech magic, stone knowledge
 

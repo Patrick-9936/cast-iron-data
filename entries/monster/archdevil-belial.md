@@ -22,7 +22,7 @@ hp = "676~33d10+495"
 fortitude = "+37"
 reflex = "+23"
 will = "+31; +8 vs. mind-affecting effects"
-melee = "+4 speed unholy ranseur +51/+46/+41/+36 (2d4+26/19-20/&times&3), caress +40 touch (special), 2 wings +40 (2d8+6), gore +40 (1d6+6)"
+melee = "+4 speed unholy ranseur +51/+46/+41/+36 (2d4+26/19-20/×3), caress +40 touch (special), 2 wings +40 (2d8+6), gore +40 (1d6+6)"
 special_attacks = "fiendish fluttering~hedonistic hope~ranseur mastery"
 special_qualities = "change shape (see below)"
 abilities = ["34", "26", "41", "31", "28", "37"]
@@ -83,8 +83,8 @@ petrification, poison, polymorph effects
 
 **Speed:** 50 ft., fly 120 ft. (good)
 
-**Melee:** +4 speed unholy ranseur +51/+46/+41/+36 (2d4+26/19-20/&times&3), caress +40 touch
-(special), 2 wings +40 (2d8+6), gore +40 (1d6+6)
+**Melee:** +4 speed unholy ranseur +51/+46/+41/+36 (2d4+26/19-20/×3), caress +40 touch (special), 2
+wings +40 (2d8+6), gore +40 (1d6+6)
 
 **Spec Att:** fiendish fluttering, hedonistic hope, ranseur mastery
 

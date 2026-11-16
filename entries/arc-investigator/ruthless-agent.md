@@ -49,8 +49,8 @@ influence the same opponent are subject to increased DCs as normal.
 
 **Passive:** A ruthless agent adds half her investigator level (minimum +1) as a bonus on
 [Intimidate](ref/skill/intimidate) checks. When the ruthless agent uses Intimidate to influence an
-opponent's attitude, the duration of the attitude shift is 1d6&times&10 minutes per investigator
-level (rather than the normal 1d6&times&10 minutes).
+opponent's attitude, the duration of the attitude shift is 1d6×10 minutes per investigator level
+(rather than the normal 1d6×10 minutes).
 
 **Replaces:** Trapfinding
 

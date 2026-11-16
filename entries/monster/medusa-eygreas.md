@@ -22,7 +22,7 @@ fortitude = "+11"
 reflex = "+16"
 will = "+8"
 melee = "2 claws +16 (1d6+2), snake bite +16 (1d6+2 plus poison), tail slap +11 (1d8+1 plus grab) or mwk scimitar +15/+10/+5 (1d8+2/18-20)"
-ranged = "+2 seeking composite longbow +18/+13/+8 (2d6+4/&times&3)"
+ranged = "+2 seeking composite longbow +18/+13/+8 (2d6+4/×3)"
 special_attacks = "petrifying gaze"
 special_qualities = "favored terrain (jungle +2), hunter's bond (constrictor snake), track +2, wild empathy +8"
 abilities = ["15", "19", "20", "10", "13", "17"]
@@ -78,7 +78,7 @@ body of an enormous serpent._
 **Melee:** 2 claws +16 (1d6+2), snake bite +16 (1d6+2 plus poison), tail slap +11 (1d8+1 plus
 [grab](ref/umr/grab)) or mwk scimitar +15/+10/+5 (1d8+2/18-20)
 
-**Ranged:** +2 seeking composite longbow +18/+13/+8 (2d6+4/&times&3)
+**Ranged:** +2 seeking composite longbow +18/+13/+8 (2d6+4/×3)
 
 **Reach:** 10
 

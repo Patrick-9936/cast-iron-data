@@ -29,11 +29,10 @@ resort to more discrete ways of righting wrongs and curbing the abuses of the up
 [Knowledge (local)](ref/skill/knowledge-local) checks, and one of these skills is always a class
 skill for you.
 
-Once per day, you can call upon your coconspirators to have &quot&made arrangements&quot& on your
-behalf, allowing you to attempt a Knowledge (local) check in place of a single
-[Bluff](ref/skill/bluff), Disable Device, [Intimidate](ref/skill/intimidate), or
-[Sleight of Hand](ref/skill/sleight-of-hand) check. The DC of this Knowledge (local) check is equal
-to the DC of the skill check it replaces.
+Once per day, you can call upon your coconspirators to have "made arrangements" on your behalf,
+allowing you to attempt a Knowledge (local) check in place of a single [Bluff](ref/skill/bluff),
+Disable Device, [Intimidate](ref/skill/intimidate), or [Sleight of Hand](ref/skill/sleight-of-hand)
+check. The DC of this Knowledge (local) check is equal to the DC of the skill check it replaces.
 
 Whatever arrangements you make - for doors left unlocked, guards strong-armed out of your way,
 stolen keys left for you to find - must be reasonable to have anticipated and achieved beforehand;

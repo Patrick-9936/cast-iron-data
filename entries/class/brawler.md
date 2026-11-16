@@ -176,8 +176,8 @@ limitations as above)., 8, 3
 
 **Fullround:** You can make a _brawler's flurry_ as a full-attack action. When doing so, you have
 the [Two-Weapon Fighting](ref/feat/two-weapon-fighting) feat when attacking with any combination of
-unarmed strikes, weapons from the close fighter weapon group, or weapons with the &quot&monk&quot&
-special feature. You do not need to use two different weapons to use this ability.
+unarmed strikes, weapons from the close fighter weapon group, or weapons with the "monk" special
+feature. You do not need to use two different weapons to use this ability.
 
 **At 15th Level:** You gain use of the
 [Greater Two-Weapon Fighting](ref/feat/greater-two-weapon-fighting) feat when using _brawler's
@@ -265,9 +265,9 @@ overcoming [damage reduction](ref/rule/damage-reduction).
 
 **Gained:** At 5th Level
 
-**Passive:** Your damage with weapons from the &quot&close&quot& weapon group increases. When
-wielding a _close weapon,_ you use the unarmed strike damage of you 4 levels lower instead of the
-base damage for that weapon (for example, a 5th-level Medium brawler wielding a
+**Passive:** Your damage with weapons from the "close" weapon group increases. When wielding a
+_close weapon,_ you use the unarmed strike damage of you 4 levels lower instead of the base damage
+for that weapon (for example, a 5th-level Medium brawler wielding a
 [punching dagger](ref/eq-weapon/punching-dagger) deals 1d6 points of damage instead of the weapon's
 normal 1d4). If the weapon normally deals more damage than this, its damage is unchanged.
 

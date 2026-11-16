@@ -23,9 +23,9 @@ which the user's body shakes and shivers, giving the substance its street name. 
 thought of shiver as a problem of the lower class, but then someone you know overdosed on the stuff.
 You've done a bit of investigating and have learned that the villain who got your friend addicted in
 the first place was a crime lord named Gaedren Lamm. Unfortunately, the guards seem to be focused on
-the bigger dealers. They don't have time to devote many resources to what You've called &quot&a bit
-player in a beggar's problem.&quot& It would seem that if Gaedren's operation is to be stopped, it
-falls to you.
+the bigger dealers. They don't have time to devote many resources to what You've called "a bit
+player in a beggar's problem." It would seem that if Gaedren's operation is to be stopped, it falls
+to you.
 
 **Benefit:** Choose one of the following benefits.
 

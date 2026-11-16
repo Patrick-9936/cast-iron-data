@@ -24,7 +24,7 @@ fortitude = "+12"
 reflex = "+22"
 will = "+19"
 melee = "gore +16 (1d6+7)"
-ranged = "+5 icy burst seeking composite longbow +26/+21/+16 (1d8+10/19-20/&times&3 plus 1d6 cold)"
+ranged = "+5 icy burst seeking composite longbow +26/+21/+16 (1d8+10/19-20/×3 plus 1d6 cold)"
 special_attacks = "infuse arrow~wild gaze (DC 26)"
 special_qualities = "living bow, planar acclimation, wild hunt link"
 abilities = ["20", "28", "21", "16", "23", "21"]
@@ -82,7 +82,7 @@ slender hand._
 **Melee:** gore +16 (1d6+7)
 
 **Ranged:** +5 [icy burst](ref/magic-enh/icy-burst) [seeking](ref/magic-enh/seeking) composite
-longbow +26/+21/+16 (1d8+10/19-20/&times&3 plus 1d6 cold)
+longbow +26/+21/+16 (1d8+10/19-20/×3 plus 1d6 cold)
 
 **Spec Att:** infuse arrow, wild gaze (DC 26)
 

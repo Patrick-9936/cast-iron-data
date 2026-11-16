@@ -22,7 +22,7 @@ hp = "742~33d10+561"
 fortitude = "+31"
 reflex = "+32"
 will = "+32"
-melee = "Riftcarver +51/+46/+41/+36 (4d6+30/19-20/&times&4 plus poison), bite +41 (2d8+8 plus poison), sting +41 (2d6+8 plus poison)"
+melee = "Riftcarver +51/+46/+41/+36 (4d6+30/19-20/×4 plus poison), bite +41 (2d8+8 plus poison), sting +41 (2d6+8 plus poison)"
 special_attacks = "breath weapon~enhanced venom~infestation~poison~swarm master"
 special_qualities = "wall crawler"
 abilities = ["44", "30", "42", "29", "31", "31"]
@@ -83,8 +83,8 @@ energy drain, petrification, poison
 
 **Speed:** 60 ft., climb 60 ft., fly 90 ft. (good)
 
-**Melee:** Riftcarver +51/+46/+41/+36 (4d6+30/19-20/&times&4 plus poison), bite +41 (2d8+8 plus
-poison), sting +41 (2d6+8 plus poison)
+**Melee:** Riftcarver +51/+46/+41/+36 (4d6+30/19-20/×4 plus poison), bite +41 (2d8+8 plus poison),
+sting +41 (2d6+8 plus poison)
 
 **Reach:** 20
 

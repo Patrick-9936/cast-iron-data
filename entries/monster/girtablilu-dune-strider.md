@@ -22,7 +22,7 @@ fortitude = "+12"
 reflex = "+14"
 will = "+12"
 melee = "mwk falchion +17/+12/+7 (2d4+6/18-20), 2 claws +11 (1d6+2 plus grab), sting +11 (1d6+2 plus poison)"
-ranged = "+1 composite longbow +17/+12/+7 (1d8+5/&times&3)"
+ranged = "+1 composite longbow +17/+12/+7 (1d8+5/×3)"
 special_attacks = "combat style (archery)~poison"
 special_qualities = "favored terrain (desert +2), scorpion empathy +13, track +1, undersized weapons, wild empathy +4"
 abilities = ["18", "19", "23", "10", "18", "13"]
@@ -76,7 +76,7 @@ has a wicked bow and a scorpion-like lower body._
 **Melee:** mwk falchion +17/+12/+7 (2d4+6/18-20), 2 claws +11 (1d6+2 plus [grab](ref/umr/grab)),
 sting +11 (1d6+2 plus poison)
 
-**Ranged:** +1 composite longbow +17/+12/+7 (1d8+5/&times&3)
+**Ranged:** +1 composite longbow +17/+12/+7 (1d8+5/×3)
 
 **Reach:** 10
 

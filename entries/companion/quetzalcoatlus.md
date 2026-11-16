@@ -69,7 +69,7 @@ beak.
 
 **Attack**
 
-**Details:** bite (2d6/&times&3), 2 wings (1d4)
+**Details:** bite (2d6/×3), 2 wings (1d4)
 
 **Ability Scores**
 

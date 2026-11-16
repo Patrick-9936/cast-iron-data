@@ -24,8 +24,8 @@ A white mage is an arcanist touched by a divine power and gifted with the abilit
 **Spontaneous Healing (Su)**
 
 **Ability:** A white mage can expend 1 point from her arcane reservoir to use one of her spell slots
-to cast a cure spell (any spell with &quot&cure&quot& in its name) from the cleric spell list as if
-it were on her spell list and prepared. The spell must be of a level the arcanist can cast.
+to cast a cure spell (any spell with "cure" in its name) from the cleric spell list as if it were on
+her spell list and prepared. The spell must be of a level the arcanist can cast.
 
 **At 10th Level:** The white mage can expend 5 points from her arcane reservoir and a spell slot of
 at least 5th level to cast [breath of life](ref/spell/breath-of-life).

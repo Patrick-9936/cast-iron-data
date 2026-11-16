@@ -28,8 +28,8 @@ spirits. Although the ancient practices of the serendipity shaman were once excl
 mysterious catfolk nation, the catfolk's curiosity and willingness to travel have spread them across
 Golarion, where today many with a tendency toward good fortune embrace the faith.
 
-**Prerequisites:** A shaman must have a racial trait with &quot&luck&quot& in its name to select
-this archetype, such as cat's luck or [halfling](ref/race/halfling) luck. A character with the
+**Prerequisites:** A shaman must have a racial trait with "luck" in its name to select this
+archetype, such as cat's luck or [halfling](ref/race/halfling) luck. A character with the
 [Defiant Luck](ref/feat/defiant-luck) feat also qualifies for this archetype.
 
 **Luck Magic**
@@ -98,6 +98,6 @@ three uses of this ability to increase an ally's roll by 1 per use expended.
 
 **Usage:** 1 time/day per shaman level
 
-^Original text reads: _&quot&This hex functions as the \[dual-cursed
+^Original text reads: _"This hex functions as the \[dual-cursed
 oracle_^_(arc-oracle/dual\_cursed\_oracle) revelation of the same name, using the shaman's class
-level as her effective oracle level.&quot&_ The prerequisite comes from the revelation.\]\{from=1\}
+level as her effective oracle level."_ The prerequisite comes from the revelation.\]\{from=1\}

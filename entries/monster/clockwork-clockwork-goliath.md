@@ -24,7 +24,7 @@ fortitude = "+9"
 reflex = "+16"
 will = "+9"
 melee = "4 slams +41 (3d6+17)"
-ranged = "cannon +29/+24/+19/+14 (6d6/&times&4)"
+ranged = "cannon +29/+24/+19/+14 (6d6/×4)"
 special_attacks = "self-destruction"
 special_qualities = "swift reactions, winding"
 abilities = ["45", "20", "-", "-", "11", "1"]
@@ -77,7 +77,7 @@ as it lumbers forth._
 
 **Melee:** 4 slams +41 (3d6+17)
 
-**Ranged:** cannon +29/+24/+19/+14 (6d6/&times&4)
+**Ranged:** cannon +29/+24/+19/+14 (6d6/×4)
 
 **Reach:** 20
 

@@ -25,7 +25,7 @@ fortitude = "+0"
 reflex = "+3"
 will = "+4"
 melee = "dagger +3 (1d2-4/19-20)"
-ranged = "shortbow +3 (1d3-4/&times&3)"
+ranged = "shortbow +3 (1d3-4/×3)"
 abilities = ["3", "13", "11", "10", "14", "6"]
 +++
 
@@ -74,7 +74,7 @@ creature slinks forward carefully._
 
 **Melee:** dagger +3 (1d2-4/19-20)
 
-**Ranged:** shortbow +3 (1d3-4/&times&3)
+**Ranged:** shortbow +3 (1d3-4/×3)
 
 **Reach:** 0
 

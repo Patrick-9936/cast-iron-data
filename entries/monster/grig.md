@@ -23,7 +23,7 @@ fortitude = "+1"
 reflex = "+6"
 will = "+3"
 melee = "short sword -1 (1d3-3/19-20)"
-ranged = "longbow +6 (1d4-3/&times&3)"
+ranged = "longbow +6 (1d4-3/×3)"
 special_attacks = "fiddle"
 abilities = ["5", "18", "13", "10", "13", "14"]
 +++
@@ -71,7 +71,7 @@ of an elven woman._
 
 **Melee:** short sword -1 (1d3-3/19-20)
 
-**Ranged:** longbow +6 (1d4-3/&times&3)
+**Ranged:** longbow +6 (1d4-3/×3)
 
 **Reach:** 0
 

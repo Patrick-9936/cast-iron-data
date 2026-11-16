@@ -22,7 +22,7 @@ hp = "175~14d6+126"
 fortitude = "+13"
 reflex = "+17"
 will = "+16"
-melee = "4 claws +19 (1d6+12/19-20/&times&3 plus bleed and pain)"
+melee = "4 claws +19 (1d6+12/19-20/×3 plus bleed and pain)"
 special_attacks = "deadly claws~delayed doom~pain"
 abilities = ["12", "27", "28", "15", "24", "23"]
 +++
@@ -76,7 +76,7 @@ the air astride a vortex of dust._
 
 **Bleed:** 1d6
 
-**Melee:** 4 claws +19 (1d6+12/19-20/&times&3 plus bleed and pain)
+**Melee:** 4 claws +19 (1d6+12/19-20/×3 plus bleed and pain)
 
 **Spec Att:** deadly claws, delayed doom, pain
 

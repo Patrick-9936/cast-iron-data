@@ -70,6 +70,6 @@ melee attacks.
 **Passive:** Whenever the card caster randomly draws and throws a harrow card matching one axis of
 his alignment, the card's critical threat range increases to 19-20. If the card caster draws and
 throws a harrow card matching his alignment exactly, the attack's critical multiplier also increases
-to &times&3 and the magus gains a +4 bonus on his confirmation roll.
+to ×3 and the magus gains a +4 bonus on his confirmation roll.
 
 **Replaces:** Magus arcana gained at 3rd level

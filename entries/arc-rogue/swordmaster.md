@@ -47,7 +47,7 @@ Under the influence of a trance, the swordmaster can perform fantastic martial f
 **Replaces:** Trap sense
 
 **Special:** The swordmaster can only use one type of trance at a time. Following a trance, the
-swordmaster is [fatigued](ref/misc/fatigued) for a number of rounds equal to 2 &times& the number of
+swordmaster is [fatigued](ref/misc/fatigued) for a number of rounds equal to 2 × the number of
 rounds she spent in the trance. A swordmaster cannot enter a new trance while fatigued but can
 otherwise enter a trance multiple times during a single encounter or combat. If a swordmaster falls
 unconscious, her trance immediately ends.

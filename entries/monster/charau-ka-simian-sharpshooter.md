@@ -23,7 +23,7 @@ fortitude = "+8"
 reflex = "+11"
 will = "+5"
 melee = "mwk club +10/+5 (1d4+2), bite +4 (1d3+3)"
-ranged = "musket +11 (1d10/&times&4) or rock +12 (1d4+2/19-20)"
+ranged = "musket +11 (1d10/×4) or rock +12 (1d4+2/19-20)"
 special_attacks = "grit (3)~shrieking frenzy~thrown-weapon mastery"
 special_qualities = "deeds (deadeye, gunslinger initiative, gunslinger's dodge, pistol-whip, quick clear, utility shot), gunsmith"
 abilities = ["15", "18", "16", "10", "16", "9"]
@@ -72,7 +72,7 @@ _This long-furred ape-person wears a battered snakeskin poncho and carries a wor
 
 **Melee:** mwk club +10/+5 (1d4+2), bite +4 (1d3+3)
 
-**Ranged:** musket +11 (1d10/&times&4) or rock +12 (1d4+2/19-20)
+**Ranged:** musket +11 (1d10/×4) or rock +12 (1d4+2/19-20)
 
 **Spec Att:** grit (3), shrieking frenzy, thrown-weapon mastery
 

@@ -23,7 +23,7 @@ fortitude = "+7"
 reflex = "+7"
 will = "+7"
 melee = "2 slams +32 (3d10+19/19-20) or stomp +32 (6d10+28 plus pinning stomp)"
-ranged = "light ballista +13 (3d8/&times&3)"
+ranged = "light ballista +13 (3d8/×3)"
 special_attacks = "mythic quickening~pinning stomp"
 special_qualities = "alternate form, movable keep, mythic creation, mythic resilience, self repair, siege tower"
 abilities = ["48", "11", "-", "5", "10", "7"]
@@ -79,7 +79,7 @@ _This immense stone figure appears to be a keep that uprooted itself and went fo
 
 **Melee:** 2 slams +32 (3d10+19/19-20) or stomp +32 (6d10+28 plus pinning stomp)
 
-**Ranged:** light ballista +13 (3d8/&times&3)
+**Ranged:** light ballista +13 (3d8/×3)
 
 **Reach:** 30
 

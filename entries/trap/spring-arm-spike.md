@@ -31,7 +31,7 @@ kind = "none"
 **Effect:** A spring-arm spike is similar to a [spring snare trap](ref/trap/spring-snare) in that it
 incorporates a strong sapling bent into a taut arc. When a creature enters a square that contains
 the spring-arm spike's trigger, the sapling snaps forward, driving a pointed spear into the target.
-The spring-arm spike makes a melee attack +15 (2d10+4/&times&3) against the target, which is also
-knocked prone unless it succeeds at a DC 20 Reflex save.
+The spring-arm spike makes a melee attack +15 (2d10+4/×3) against the target, which is also knocked
+prone unless it succeeds at a DC 20 Reflex save.
 
 **Reset:** manual

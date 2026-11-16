@@ -33,9 +33,9 @@ is modified by the slayer's _studied target_ bonus if the creature is also her _
 creature that successfully saves against this effect is immune to this ability for 24 hours.
 
 **Choice:** A family hunter chooses a particular family line of mortal creatures to cleanse (she
-must choose an actual family line like &quot&The Montrose family,&quot& rather than something
-generic that would cover all creatures of a given kind like &quot&All humans descended from the
-first human created by the gods&quot&).
+must choose an actual family line like "The Montrose family," rather than something generic that
+would cover all creatures of a given kind like "All humans descended from the first human created by
+the gods").
 
 **Gained:** At 2nd Level
 

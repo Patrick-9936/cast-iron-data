@@ -24,7 +24,7 @@ hp = "8~1d6+5"
 fortitude = "+2"
 reflex = "+3"
 will = "+3"
-melee = "warhammer +0 (1d4-2/&times&3), bite -2 (1d3-2)"
+melee = "warhammer +0 (1d4-2/×3), bite -2 (1d3-2)"
 special_attacks = "speedy sabotage~wrecking crew"
 abilities = ["6", "13", "14", "12", "13", "11"]
 +++
@@ -70,7 +70,7 @@ a tiny but solid-looking hammer._
 
 **Speed:** 20 ft., climb 20 ft.
 
-**Melee:** warhammer +0 (1d4-2/&times&3), bite -2 (1d3-2)
+**Melee:** warhammer +0 (1d4-2/×3), bite -2 (1d3-2)
 
 **Reach:** 0
 

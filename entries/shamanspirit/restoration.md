@@ -154,13 +154,13 @@ caster level.
 **Flavor:** The shaman's spirit animal transforms into a conduit of life energy able to store
 succoring magic that can keep the shaman's allies safe.
 
-**Swift:** In addition, the shaman can transfer any cure spell (a spell with &quot&cure&quot& in its
-name) she casts to her spirit animal, provided that the spirit animal is within 30 feet of her. This
-functions like [imbue with spell ability](ref/spell/imbue-with-spell-ability), except a spirit
-animal can be imbued with a _cure_ spell of any spell level that its master can cast regardless of
-the spirit animal's Intelligence or Wisdom score. The spirit animal can hold the spell indefinitely,
-but the shaman cannot prepare a new spell in the imbued spell's spell slot until her spirit animal
-uses the spell or it is slain, or until she dismisses the
+**Swift:** In addition, the shaman can transfer any cure spell (a spell with "cure" in its name) she
+casts to her spirit animal, provided that the spirit animal is within 30 feet of her. This functions
+like [imbue with spell ability](ref/spell/imbue-with-spell-ability), except a spirit animal can be
+imbued with a _cure_ spell of any spell level that its master can cast regardless of the spirit
+animal's Intelligence or Wisdom score. The spirit animal can hold the spell indefinitely, but the
+shaman cannot prepare a new spell in the imbued spell's spell slot until her spirit animal uses the
+spell or it is slain, or until she dismisses the
 _[imbue with spell ability](ref/spell/imbue-with-spell-ability)_ effect (a **free action**).
 
 A spirit animal can be imbued with only one spell at a time in this manner. If the spirit animal is

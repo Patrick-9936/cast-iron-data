@@ -22,8 +22,8 @@ hp = "95~13d8+37"
 fortitude = "+13"
 reflex = "+3"
 will = "+13"
-melee = "+1 falchion +15/+10 (2d4+7/18-20), +1 spear +14/+9 (1d8+5/&times&3)"
-ranged = "+1 spear +9 (1d8+5/&times&3)"
+melee = "+1 falchion +15/+10 (2d4+7/18-20), +1 spear +14/+9 (1d8+5/×3)"
+ranged = "+1 spear +9 (1d8+5/×3)"
 special_attacks = "might of the gods (+11, 11 rounds/day)~scythe of evil (5 rounds, 1/day)"
 abilities = ["18", "8", "14", "8", "16", "14"]
 +++
@@ -69,9 +69,9 @@ abilities = ["18", "8", "14", "8", "16", "14"]
 
 **Ch N En:** 7/day, DC 17, 6d6
 
-**Melee:** +1 falchion +15/+10 (2d4+7/18-20), +1 spear +14/+9 (1d8+5/&times&3)
+**Melee:** +1 falchion +15/+10 (2d4+7/18-20), +1 spear +14/+9 (1d8+5/×3)
 
-**Ranged:** +1 spear +9 (1d8+5/&times&3)
+**Ranged:** +1 spear +9 (1d8+5/×3)
 
 **Spec Att:** might of the gods (+11, 11 rounds/day), scythe of evil (5 rounds, 1/day)
 

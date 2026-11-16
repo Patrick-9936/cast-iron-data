@@ -23,7 +23,7 @@ hp = "100~2d8+9d10+42~11"
 fortitude = "+12"
 reflex = "+3"
 will = "+4"
-melee = "+1 lance +17/+12 (1d8+8/19-20/&times&3) or claw +15 (1d6+5), bite +10 (1d4+2)"
+melee = "+1 lance +17/+12 (1d8+8/19-20/×3) or claw +15 (1d6+5), bite +10 (1d4+2)"
 ranged = "javelin +10 (1d6+5)"
 special_attacks = "banner +2/+1~cavalier's charge~challenge (+9, +3, 3/day)"
 special_qualities = "expert trainer +4, greater tactician (2/day, 7 rounds, swift action), hold breath, mount (styracosaurus), order of the dragon (aid allies, strategy)"
@@ -66,7 +66,7 @@ abilities = ["21", "10", "17", "7", "12", "12"]
 
 **Speed:** 20 ft., swim 15 ft.
 
-**Melee:** +1 lance +17/+12 (1d8+8/19-20/&times&3) or claw +15 (1d6+5), bite +10 (1d4+2)
+**Melee:** +1 lance +17/+12 (1d8+8/19-20/×3) or claw +15 (1d6+5), bite +10 (1d4+2)
 
 **Ranged:** javelin +10 (1d6+5)
 

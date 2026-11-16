@@ -29,8 +29,8 @@ wander the countryside servicing the needs of several small communities.
 
 **Spontaneous Healing (Su)**
 
-**Ability:** The witch can &quot&lose&quot& any prepared spell that is not an orison in order to
-cast any cure spell of the same spell level or lower, even if she doesn't know that cure spell.
+**Ability:** The witch can "lose" any prepared spell that is not an orison in order to cast any cure
+spell of the same spell level or lower, even if she doesn't know that cure spell.
 
 **Flavor:** A hedge witch can channel stored spell energy into healing spells that she did not
 prepare ahead of time.

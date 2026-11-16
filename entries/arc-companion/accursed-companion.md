@@ -146,14 +146,14 @@ fly into a murderous frenzy.
 
 **Special:** When an accursed companion gains this condition, the GM determines three specific
 situations that can trigger the manifestation of the unexpected frenzy, such as a character petting
-the companion on the head, a keyword or key phrase such as &quot&good dog,&quot& or the sight of a
-specific type of creature within 10 feet. The first time each day one of the three triggers occurs,
-the accursed companion flies into its frenzy. Its eyes glow, and any sounds it makes take on an
-eerie, hollow echo. The companion acts as if under the effects of [haste](ref/spell/haste) for 1d4
-rounds before returning to normal, and it typically attacks the source of its trigger. While her
-companion is frenzied, the master is overwhelmed with shame and despair, suffering as if under the
-effects of a [crushing despair](ref/spell/crushing-despair) spell for twice the length of the
-accursed companion's frenzy. A successful Will save negates this effect.
+the companion on the head, a keyword or key phrase such as "good dog," or the sight of a specific
+type of creature within 10 feet. The first time each day one of the three triggers occurs, the
+accursed companion flies into its frenzy. Its eyes glow, and any sounds it makes take on an eerie,
+hollow echo. The companion acts as if under the effects of [haste](ref/spell/haste) for 1d4 rounds
+before returning to normal, and it typically attacks the source of its trigger. While her companion
+is frenzied, the master is overwhelmed with shame and despair, suffering as if under the effects of
+a [crushing despair](ref/spell/crushing-despair) spell for twice the length of the accursed
+companion's frenzy. A successful Will save negates this effect.
 
 **Unsavory Friends (Su)**
 

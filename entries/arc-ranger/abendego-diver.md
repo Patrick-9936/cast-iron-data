@@ -51,7 +51,7 @@ spell level. He still must select them as spells known, as normal.
 **Deep Diver (Ex)**
 
 **Ability:** An Abendego diver can [hold his breath](ref/misc/hold-your-breath) for twice as long as
-usual (4 rounds &times& his Constitution score instead of the normal &times&2).
+usual (4 rounds × his Constitution score instead of the normal ×2).
 
 **Gained:** At 1st Level
 

@@ -25,7 +25,7 @@ hp = "60~8d10+16"
 fortitude = "+6"
 reflex = "+9"
 will = "+7; +4 vs. mind-affecting effects"
-melee = "mwk glaive +13/+8 (1d10+6/&times&3), sting +10 (1d8+2 plus poison)"
+melee = "mwk glaive +13/+8 (1d10+6/×3), sting +10 (1d8+2 plus poison)"
 special_attacks = "inspiring dance~poison"
 abilities = ["19", "16", "15", "12", "13", "16"]
 +++
@@ -71,7 +71,7 @@ covers most of her face._
 
 **Speed:** 30 ft., fly 60 ft. (good)
 
-**Melee:** mwk glaive +13/+8 (1d10+6/&times&3), sting +10 (1d8+2 plus poison)
+**Melee:** mwk glaive +13/+8 (1d10+6/×3), sting +10 (1d8+2 plus poison)
 
 **Spec Att:** inspiring dance, poison
 

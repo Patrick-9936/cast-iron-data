@@ -26,6 +26,6 @@ kind = "none"
 
 **Trigger:** location
 
-**Effect:** Atk +10 melee (1d8+1/&times&3); multiple targets (all targets in a 10-ft. line)
+**Effect:** Atk +10 melee (1d8+1/×3); multiple targets (all targets in a 10-ft. line)
 
 **Reset:** manual

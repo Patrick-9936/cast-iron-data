@@ -23,7 +23,7 @@ hp = "40~4d10+18"
 fortitude = "+7"
 reflex = "+9"
 will = "+5; +2 vs. ongoing effects"
-melee = "mwk longspear +8 (1d8+4/&times&3), bite +2 (1d6+3) or 2 claws +7 (1d4+3), bite +7 (1d6+3)"
+melee = "mwk longspear +8 (1d8+4/×3), bite +2 (1d6+3) or 2 claws +7 (1d4+3), bite +7 (1d6+3)"
 ranged = "mwk underwater heavy crossbow +8 (1d10/19-20)"
 special_attacks = "blood frenzy~combat style (two-handed weapon)"
 special_qualities = "track +1, wild empathy +0"
@@ -77,7 +77,7 @@ piscine head features a toothy maw._
 
 **Fav En:** elves +2
 
-**Melee:** mwk longspear +8 (1d8+4/&times&3), bite +2 (1d6+3) or 2 claws +7 (1d4+3), bite +7 (1d6+3)
+**Melee:** mwk longspear +8 (1d8+4/×3), bite +2 (1d6+3) or 2 claws +7 (1d4+3), bite +7 (1d6+3)
 
 **Ranged:** mwk underwater heavy crossbow +8 (1d10/19-20)
 

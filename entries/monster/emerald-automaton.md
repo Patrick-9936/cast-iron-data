@@ -22,7 +22,7 @@ hp = "47~5d10+20"
 fortitude = "+1"
 reflex = "+2"
 will = "+1"
-melee = "guisarme +10 (2d4+7/&times&3) or longsword +10 (1d8+5/19-20), slam +5 (1d4+2)"
+melee = "guisarme +10 (2d4+7/×3) or longsword +10 (1d8+5/19-20), slam +5 (1d4+2)"
 special_qualities = "proficient"
 abilities = ["20", "13", "-", "-", "11", "1"]
 +++
@@ -71,7 +71,7 @@ _An eerie green glow shines through the seams of this mechanical creature's armo
 
 **Speed:** 30 ft.
 
-**Melee:** guisarme +10 (2d4+7/&times&3) or longsword +10 (1d8+5/19-20), slam +5 (1d4+2)
+**Melee:** guisarme +10 (2d4+7/×3) or longsword +10 (1d8+5/19-20), slam +5 (1d4+2)
 
 **Reach:** 5
 

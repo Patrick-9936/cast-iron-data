@@ -23,7 +23,7 @@ fortitude = "+20"
 reflex = "+16"
 will = "+19; +8 vs. mind-affecting effects"
 melee = "2 fated touches +23 (10d6)"
-ranged = "silkbow +35/+30/+25/+20 (2d6+15/19-20/&times&3)"
+ranged = "silkbow +35/+30/+25/+20 (2d6+15/19-20/×3)"
 special_attacks = "fated touch~fateful arrows"
 special_qualities = "change shape (Medium humanoid; alter self), spirit touch"
 abilities = ["18", "30", "29", "20", "27", "31"]
@@ -81,7 +81,7 @@ _[mind blank](ref/spell/mind-blank)_, mirror garb
 
 **Melee:** 2 fated touches +23 (10d6)
 
-**Ranged:** silkbow +35/+30/+25/+20 (2d6+15/19-20/&times&3)
+**Ranged:** silkbow +35/+30/+25/+20 (2d6+15/19-20/×3)
 
 **Spec Att:** fated touch, fateful arrows
 

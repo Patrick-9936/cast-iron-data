@@ -23,7 +23,7 @@ hp = "68~8d8+32"
 fortitude = "+10"
 reflex = "+2"
 will = "+2"
-melee = "spear +11/+6 (2d6+7/&times&3) or 2 slams +10 (1d8+5)"
+melee = "spear +11/+6 (2d6+7/×3) or 2 slams +10 (1d8+5)"
 ranged = "rock +6 (1d8+5)"
 special_qualities = "hold breath"
 abilities = ["20", "11", "19", "9", "10", "8"]
@@ -69,7 +69,7 @@ _This slender giant dresses in simple clothes and has swirling patterns on her g
 
 **Speed:** 40 ft.
 
-**Melee:** spear +11/+6 (2d6+7/&times&3) or 2 slams +10 (1d8+5)
+**Melee:** spear +11/+6 (2d6+7/×3) or 2 slams +10 (1d8+5)
 
 **Ranged:** rock +6 (1d8+5)
 

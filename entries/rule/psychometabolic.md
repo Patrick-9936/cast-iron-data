@@ -85,11 +85,10 @@ The following are manifestations of the psychometabolic corruption.
 [spell-like ability](ref/umr/spell-like-abilities) by spending a number of points from your
 psychometabolic pool equal to the spell's cleric spell level:
 [lesser restoration](ref/spell/restoration-lesser), [regenerate](ref/spell/regenerate),
-[restoration](ref/spell/restoration), or any cure spell (a spell with the word &quot&cure&quot in
-its name). You can target only yourself with these spells, and you can use this manifestation to
-cast only a spell whose spell level on the cleric spell list is equal to or less than your
-manifestation level. You are always treated as a living creature for the purpose of these spells'
-effects.
+[restoration](ref/spell/restoration), or any cure spell (a spell with the word "cure" in its name).
+You can target only yourself with these spells, and you can use this manifestation to cast only a
+spell whose spell level on the cleric spell list is equal to or less than your manifestation level.
+You are always treated as a living creature for the purpose of these spells' effects.
 
 **Stain:** Your body becomes twisted and alien. When an effect other than this manifestation's
 [spell-like abilities](ref/umr/spell-like-abilities) heals your ability damage or hit point damage,

@@ -24,7 +24,7 @@ fortitude = "+9"
 reflex = "+13"
 will = "+7"
 melee = "2 slams +17 (2d6+8)"
-ranged = "mwk composite longbow +15/+10/+5 (3d6+8/19-20/&times&3)"
+ranged = "mwk composite longbow +15/+10/+5 (3d6+8/19-20/×3)"
 special_qualities = "archery expert"
 abilities = ["26", "19", "19", "10", "14", "11"]
 +++
@@ -76,7 +76,7 @@ numerous intricate tattoos._
 
 **Melee:** 2 slams +17 (2d6+8)
 
-**Ranged:** mwk composite longbow +15/+10/+5 (3d6+8/19-20/&times&3)
+**Ranged:** mwk composite longbow +15/+10/+5 (3d6+8/19-20/×3)
 
 **Reach:** 15
 

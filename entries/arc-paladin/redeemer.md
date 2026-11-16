@@ -45,9 +45,9 @@ lethal damage from her smite). This otherwise works like the standard paladin's 
 **Gained:** At 1st Level
 
 **Passive:** Redeemers gain a +2 bonus on Diplomacy checks to influence creatures who are commonly
-considered monstrous. This includes but is not limited to &quot&monstrous&quot& races such as
-goblins and orcs, [monstrous humanoids](ref/type/monstrous-humanoid), and other intelligent
-non-humanoid monsters.
+considered monstrous. This includes but is not limited to "monstrous" races such as goblins and
+orcs, [monstrous humanoids](ref/type/monstrous-humanoid), and other intelligent non-humanoid
+monsters.
 
 **Replaces:** Detect evil
 
@@ -56,10 +56,10 @@ non-humanoid monsters.
 **Ability:** A redeemer can force a defeated creature to accept a binding pact of peace as a
 condition of its surrender, as if using [lesser geas](ref/spell/geas-lesser). Her caster level for
 this ability is equal to her paladin level. Rather than assigning a mission or task, the redeemer
-gives the creature a simple set of prohibitions to protect others. Example geas include &quot&Leave
-this city and do not return&quot& or &quot&Do not attack caravans.&quot& The prohibition must be
-against an area no larger than 300 square miles or one specific group of people (such as a tribe or
-citizens of a particular city). This ability lasts 1 month per paladin level.
+gives the creature a simple set of prohibitions to protect others. Example geas include "Leave this
+city and do not return" or "Do not attack caravans." The prohibition must be against an area no
+larger than 300 square miles or one specific group of people (such as a tribe or citizens of a
+particular city). This ability lasts 1 month per paladin level.
 
 **Gained:** At 8th Level
 

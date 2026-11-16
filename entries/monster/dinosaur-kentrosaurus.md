@@ -21,7 +21,7 @@ hp = "52~7d8+21"
 fortitude = "+8"
 reflex = "+7"
 will = "+3"
-melee = "tail +12 (2d6+10/&times&3)"
+melee = "tail +12 (2d6+10/×3)"
 special_attacks = "impaling strike"
 abilities = ["25", "14", "17", "2", "13", "10"]
 +++
@@ -65,7 +65,7 @@ projecting from its shoulders._
 
 **Speed:** 40 ft.
 
-**Melee:** tail +12 (2d6+10/&times&3)
+**Melee:** tail +12 (2d6+10/×3)
 
 **Reach:** 10
 

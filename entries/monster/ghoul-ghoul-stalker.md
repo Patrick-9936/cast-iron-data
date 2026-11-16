@@ -23,7 +23,7 @@ fortitude = "+5"
 reflex = "+10"
 will = "+8"
 melee = "bite +8 (1d6+3 plus disease and paralysis), 2 claws +8 (1d6+3 plus paralysis)"
-ranged = "+1 composite shortbow +10/+10 (1d6+4/&times&3) or +1 composite shortbow +12 (1d6+4/&times&3)"
+ranged = "+1 composite shortbow +10/+10 (1d6+4/×3) or +1 composite shortbow +12 (1d6+4/×3)"
 special_attacks = "disease (DC 14)~sneak attack +3d6"
 special_qualities = "rogue talents (finesse rogue, ledge walker, weapon training), trapfinding +3"
 abilities = ["17", "20", "-", "13", "16", "16"]
@@ -79,8 +79,7 @@ abilities = ["17", "20", "-", "13", "16", "16"]
 
 **Paralysis:** 1d4+1 rounds, DC 14, elves are immune to this effect
 
-**Ranged:** +1 composite shortbow +10/+10 (1d6+4/&times&3) or +1 composite shortbow +12
-(1d6+4/&times&3)
+**Ranged:** +1 composite shortbow +10/+10 (1d6+4/×3) or +1 composite shortbow +12 (1d6+4/×3)
 
 **Spec Att:** disease (DC 14), [sneak attack](ref/ability/sneak-attack) +3d6
 

@@ -23,7 +23,7 @@ hp = "39~6d8+12"
 fortitude = "+4"
 reflex = "+5"
 will = "+6"
-melee = "Huge greataxe +8 (3d8+7/&times&3)"
+melee = "Huge greataxe +8 (3d8+7/×3)"
 ranged = "rock +5 (2d6+10)"
 special_attacks = "oversized weapons"
 abilities = ["20", "13", "14", "15", "13", "14"]
@@ -68,7 +68,7 @@ long, red hair and a bushy beard._
 
 **Speed:** 40 ft.
 
-**Melee:** Huge greataxe +8 (3d8+7/&times&3)
+**Melee:** Huge greataxe +8 (3d8+7/×3)
 
 **Ranged:** rock +5 (2d6+10)
 

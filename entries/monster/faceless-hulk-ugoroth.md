@@ -23,7 +23,7 @@ hp = "119~14d8+56"
 fortitude = "+8"
 reflex = "+4"
 will = "+11"
-melee = "mwk greataxe +18/+13 (3d6+12/&times&3) or 2 slams +17 (1d6+12 plus grab)"
+melee = "mwk greataxe +18/+13 (3d6+12/×3) or 2 slams +17 (1d6+12 plus grab)"
 ranged = "rock +10 (1d8+8)"
 special_attacks = "explosive expansion"
 special_qualities = "change shape (Large humanoid; alter self), compression, faceless"
@@ -77,7 +77,7 @@ skin and grotesque, slurping tongues where its face should be._
 
 **B Drain:** 1d2 Constitution
 
-**Melee:** mwk greataxe +18/+13 (3d6+12/&times&3) or 2 slams +17 (1d6+12 plus [grab](ref/umr/grab))
+**Melee:** mwk greataxe +18/+13 (3d6+12/×3) or 2 slams +17 (1d6+12 plus [grab](ref/umr/grab))
 
 **Ranged:** rock +10 (1d8+8)
 

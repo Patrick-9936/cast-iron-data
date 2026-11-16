@@ -29,8 +29,8 @@ repurpose material into something wondrous and new.
 **Invoke Decay (Su)**
 
 **Ability:** A rot warden can channel stored spell energy into specific spells he hasn't prepared
-ahead of time. He can &quot&lose&quot& a prepared spell in order to cast the following spells at the
-indicated spell levels.
+ahead of time. He can "lose" a prepared spell in order to cast the following spells at the indicated
+spell levels.
 
 **Alters:** Spontaneous casting
 

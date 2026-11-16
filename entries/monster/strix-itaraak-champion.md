@@ -22,8 +22,8 @@ hp = "85~10d10+30"
 fortitude = "+9"
 reflex = "+12"
 will = "+4; +2 bonus vs. illusion spells or effects"
-melee = "+1 longspear +13/+8 (1d8+4/&times&3), 2 wings +7 (1d6+1)"
-ranged = "mwk composite longbow +17/+12 (1d8+2/&times&3)"
+melee = "+1 longspear +13/+8 (1d8+4/×3), 2 wings +7 (1d6+1)"
+ranged = "mwk composite longbow +17/+12 (1d8+2/×3)"
 special_attacks = "hatred,~studied target +3 (3 targets)"
 special_qualities = "nocturnal, slayer talents (combat trick, fast stealth, ranger combat style [archery], sniper's eye, weapon training), stalker, suspicious, track +5"
 abilities = ["14", "20", "14", "8", "12", "8"]
@@ -69,9 +69,9 @@ keeps his bow at the ready._
 
 **Speed:** 20 ft., fly 45 ft. (average)
 
-**Melee:** +1 longspear +13/+8 (1d8+4/&times&3), 2 wings +7 (1d6+1)
+**Melee:** +1 longspear +13/+8 (1d8+4/×3), 2 wings +7 (1d6+1)
 
-**Ranged:** mwk composite longbow +17/+12 (1d8+2/&times&3)
+**Ranged:** mwk composite longbow +17/+12 (1d8+2/×3)
 
 **Sneak:** +3d6
 

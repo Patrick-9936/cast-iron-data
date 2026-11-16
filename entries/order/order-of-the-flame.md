@@ -35,8 +35,8 @@ but otherwise acts like a cavalier's _challenge_ class feature.\~\~\~When he iss
 challenge,_ the cavalier takes a -2 penalty to AC for the duration of the _glorious challenge_ (this
 penalty stacks with the usual -2 AC penalty against opponents other than the target of the
 cavalier's _challenge_). The cavalier gains a morale bonus on melee damage rolls against the target
-of his _glorious challenge_ equal to 2 &times& the number of consecutive _glorious challenges_ he
-has issued thus far.\~\~\~As long as he continues to defeat targets of his _glorious challenges_ and
+of his _glorious challenge_ equal to 2 × the number of consecutive _glorious challenges_ he has
+issued thus far.\~\~\~As long as he continues to defeat targets of his _glorious challenges_ and
 there are more opponents in range, the cavalier can continue to issue _glorious challenges_
 indefinitely, with the penalty to AC and the bonus on damage rolls increasing with each subsequent
 foe. For example, a 5th-level cavalier that has just issued his third _glorious challenge_ after

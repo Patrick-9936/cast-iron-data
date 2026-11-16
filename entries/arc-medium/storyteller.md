@@ -66,8 +66,8 @@ skill. However, a storyteller gains only the following types of bardic performan
 
 **Learn the Story (Sp)**
 
-**At 10th Level:** He can spend 1d4 &times& 10 minutes and 10 rounds of _storyteller's performance_
-to gain the effects of [legend lore](ref/spell/legend-lore). The subject must be at hand for the
+**At 10th Level:** He can spend 1d4 × 10 minutes and 10 rounds of _storyteller's performance_ to
+gain the effects of [legend lore](ref/spell/legend-lore). The subject must be at hand for the
 \*legend lore \*to function.
 
 **At 19th Level:** The storyteller can spend a **standard action** and 1 round of _storyteller's

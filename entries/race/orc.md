@@ -104,7 +104,7 @@ below 0. Orcs are still staggered at 0 hit points or lower and lose 1 hit point 
 normal.
 
 **Weapon Familiarity:** Orcs are always proficient with greataxes and falchions, and treat any
-weapon with the word &quot&orc&quot& in its name as a martial weapon.
+weapon with the word "orc" in its name as a martial weapon.
 
 **Languages:** Orcs begin play speaking Common and Orc. Orcs with high Intelligence scores can
 choose from the following bonus languages: Dwarven, Giant, Gnoll, Goblin, and Undercommon.

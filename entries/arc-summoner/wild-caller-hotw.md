@@ -168,7 +168,7 @@ Plant eidolon base forms are as follows.
 **Free Evolutions**
 
 **Details:** [improved natural armor](ref/evolution/improved-natural-armor),
-[limbs](ref/evolution/limbs) (arms), limbs (legs), [slam](ref/evolution/slam) &times&2
+[limbs](ref/evolution/limbs) (arms), limbs (legs), [slam](ref/evolution/slam) ×2
 
 ;;;
 

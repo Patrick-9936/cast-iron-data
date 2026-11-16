@@ -49,7 +49,7 @@ disciplined and focused on the strictures of the Measure and the Chain.
 **Alters:** Bonus feats
 
 **Info:** When selecting fighter bonus feats, the armiger can select any feats whose names include
-the word &quot&Hellknight&quot& as though they were combat feats.
+the word "Hellknight" as though they were combat feats.
 
 **Hellknight Order**
 

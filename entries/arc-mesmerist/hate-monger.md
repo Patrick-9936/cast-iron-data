@@ -64,9 +64,9 @@ vengeful outrage
 
 **Ability:** He can use his _touch treatment_ only on others, but as part of the action of using
 _touch treatment,_ he can cast any targeted spell from the _mental manipulator_ list that does not
-have a range of &quot&personal&quot& and has a casting time of 1 standard action or less, targeting
-only the creature that receives his _touch treatment._ The target creature takes a -2 penalty on its
-saving throw and to its [spell resistance](ref/rule/spell-resistance) against the spell.
+have a range of "personal" and has a casting time of 1 standard action or less, targeting only the
+creature that receives his _touch treatment._ The target creature takes a -2 penalty on its saving
+throw and to its [spell resistance](ref/rule/spell-resistance) against the spell.
 
 **Alters:** Touch treatment
 

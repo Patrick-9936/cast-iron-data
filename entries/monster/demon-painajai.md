@@ -22,8 +22,8 @@ hp = "203~14d10+126"
 fortitude = "+18"
 reflex = "+12"
 will = "+10"
-melee = "+1 cold iron spear +23/+18/+13 (2d6+13/19-20/&times&3), bite +16 (1d8+4) or bite +21 (1d8+12)"
-ranged = "+1 cold iron spear +18 (2d6+9/19-20/&times&3)"
+melee = "+1 cold iron spear +23/+18/+13 (2d6+13/19-20/×3), bite +16 (1d8+4) or bite +21 (1d8+12)"
+ranged = "+1 cold iron spear +18 (2d6+9/19-20/×3)"
 special_attacks = "chain-spear"
 special_qualities = "dreamwalker"
 abilities = ["27", "16", "29", "18", "18", "19"]
@@ -78,10 +78,9 @@ dozens of sharp teeth. It carries a barbed spear with a long, clinking chain att
 
 **Speed:** 40 ft., climb 40 ft.
 
-**Melee:** +1 cold iron spear +23/+18/+13 (2d6+13/19-20/&times&3), bite +16 (1d8+4) or bite +21
-(1d8+12)
+**Melee:** +1 cold iron spear +23/+18/+13 (2d6+13/19-20/×3), bite +16 (1d8+4) or bite +21 (1d8+12)
 
-**Ranged:** +1 cold iron spear +18 (2d6+9/19-20/&times&3)
+**Ranged:** +1 cold iron spear +18 (2d6+9/19-20/×3)
 
 **Reach:** 10
 

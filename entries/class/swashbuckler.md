@@ -205,7 +205,7 @@ At 17th level: This bonus +4.
 
 **Passive:** When you threaten a critical hit with a light or one-handed piercing melee weapon, that
 critical is automatically confirmed. Furthermore, the critical modifiers of such weapons increase by
-1 (&times&2 becomes &times&3, and so on).
+1 (×2 becomes ×3, and so on).
 
 ### Grit and Panache
 
@@ -412,8 +412,8 @@ fighting style that utilizes the falcata and buckler.
 Bleeding Wound; Swashbuckler's Edge
 
 **Description:** While some duelists favor more technical approaches, others study flashier
-maneuvers, wielding the curved blade with artful flair. Disdainfully called &quot&bravos&quot& by
-classically trained rivals, students of this approach have claimed the label with pride.
+maneuvers, wielding the curved blade with artful flair. Disdainfully called "bravos" by classically
+trained rivals, students of this approach have claimed the label with pride.
 
 **Shackles Corsair**
 

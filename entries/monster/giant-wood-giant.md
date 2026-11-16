@@ -24,7 +24,7 @@ fortitude = "+9"
 reflex = "+8"
 will = "+7"
 melee = "longsword +10/+5 (2d6+5/19-20) or 2 slams +10 (1d6+5)"
-ranged = "mwk composite longbow +9/+9/+4 (2d6+5/&times&3)"
+ranged = "mwk composite longbow +9/+9/+4 (2d6+5/×3)"
 abilities = ["20", "21", "17", "14", "15", "12"]
 +++
 
@@ -71,7 +71,7 @@ somewhat primitive visage._
 
 **Melee:** longsword +10/+5 (2d6+5/19-20) or 2 slams +10 (1d6+5)
 
-**Ranged:** mwk composite longbow +9/+9/+4 (2d6+5/&times&3)
+**Ranged:** mwk composite longbow +9/+9/+4 (2d6+5/×3)
 
 **Reach:** 10
 

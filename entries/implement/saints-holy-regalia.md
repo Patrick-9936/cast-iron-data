@@ -28,10 +28,10 @@ This panoply is associated with devoted members of a good-aligned faith and the 
 
 **Font of Healing (Su)**
 
-**Ability:** When you cast a cure spell (a spell with &quot&cure&quot& in its name), you restore 1
-additional hit point for every 3 points of total mental focus invested in all of the associated
-implements, to a maximum bonus equal to half the occultist's level. This doesn't apply to damage
-dealt to undead with the spell.
+**Ability:** When you cast a cure spell (a spell with "cure" in its name), you restore 1 additional
+hit point for every 3 points of total mental focus invested in all of the associated implements, to
+a maximum bonus equal to half the occultist's level. This doesn't apply to damage dealt to undead
+with the spell.
 
 **Flavor:** The panoply grants you mastery over healing magic.
 

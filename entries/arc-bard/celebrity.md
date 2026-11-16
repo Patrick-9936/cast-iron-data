@@ -61,8 +61,7 @@ people, and the modifier on Diplomacy and Intimidate checks is +3.
 settlement or populated area, he can shout, sing, or otherwise make himself noticed in order to
 attract an audience to his impromptu stage. The size of the crowd depends on the local population,
 but typically is a number of people equal to [half](ref/misc/fractions-and-rounding) the bard's
-class level &times& the result of the bard's Perform check. The crowd gathers over the next 1d10
-rounds.
+class level × the result of the bard's Perform check. The crowd gathers over the next 1d10 rounds.
 
 **Gained:** At 5th Level
 

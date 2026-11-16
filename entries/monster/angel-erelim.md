@@ -22,8 +22,8 @@ hp = "68~8d10+24"
 fortitude = "+9"
 reflex = "+5"
 will = "+8; +4 vs. poison, +4 resistance vs. evil"
-melee = "+1 lance +11/+6 (1d8+4/&times&3), or mwk greatsword +11/+6 (2d6+3/19-20)"
-ranged = "mwk longbow +12/+7 (1d8/&times&3)"
+melee = "+1 lance +11/+6 (1d8+4/×3), or mwk greatsword +11/+6 (2d6+3/19-20)"
+ranged = "mwk longbow +12/+7 (1d8/×3)"
 special_attacks = "celestial charge~righteous challenge"
 special_qualities = "inspiring presence, shining mount"
 abilities = ["15", "17", "16", "11", "14", "12"]
@@ -77,9 +77,9 @@ _This athletic, winged humanoid has handsome features and wields a shining lance
 
 **Speed:** 30 ft., fly 30 ft. (good)
 
-**Melee:** +1 lance +11/+6 (1d8+4/&times&3), or mwk greatsword +11/+6 (2d6+3/19-20)
+**Melee:** +1 lance +11/+6 (1d8+4/×3), or mwk greatsword +11/+6 (2d6+3/19-20)
 
-**Ranged:** mwk longbow +12/+7 (1d8/&times&3)
+**Ranged:** mwk longbow +12/+7 (1d8/×3)
 
 **Spec Att:** celestial charge, righteous challenge
 

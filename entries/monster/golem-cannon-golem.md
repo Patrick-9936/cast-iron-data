@@ -23,7 +23,7 @@ fortitude = "+6"
 reflex = "+13"
 will = "+8"
 melee = "2 slams +29 (2d10+10)"
-ranged = "cannon +26/+21 (6d6+7/19-20/&times&4)"
+ranged = "cannon +26/+21 (6d6+7/19-20/×4)"
 special_attacks = "cannon"
 special_qualities = "alloyed, blasting critical, gun training"
 abilities = ["30", "24", "-", "-", "15", "2"]
@@ -72,7 +72,7 @@ movement with mechanical precision._
 
 **Melee:** 2 slams +29 (2d10+10)
 
-**Ranged:** cannon +26/+21 (6d6+7/19-20/&times&4)
+**Ranged:** cannon +26/+21 (6d6+7/19-20/×4)
 
 **Reach:** 10
 

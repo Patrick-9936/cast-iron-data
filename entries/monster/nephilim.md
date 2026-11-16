@@ -27,7 +27,7 @@ fortitude = "+13"
 reflex = "+7"
 will = "+10; +2 vs. fear and sorrow effects"
 melee = "+1 longsword +18/+13/+8 (2d6+11/17-20) or 2 slams +17 (1d6+7)"
-ranged = "mwk spear +13/+8/+3 (2d6+7/&times&3)"
+ranged = "mwk spear +13/+8/+3 (2d6+7/×3)"
 special_attacks = "crushing blow~mortal challenge"
 abilities = ["25", "15", "18", "14", "16", "17"]
 +++
@@ -80,7 +80,7 @@ _The strength and stature of this giant-sized human is matched only by the nobil
 
 **Melee:** +1 longsword +18/+13/+8 (2d6+11/17-20) or 2 slams +17 (1d6+7)
 
-**Ranged:** mwk spear +13/+8/+3 (2d6+7/&times&3)
+**Ranged:** mwk spear +13/+8/+3 (2d6+7/×3)
 
 **Reach:** 10
 

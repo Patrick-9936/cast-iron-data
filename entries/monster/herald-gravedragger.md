@@ -22,8 +22,8 @@ hp = "195~17d10+102"
 fortitude = "+15"
 reflex = "+18"
 will = "+17"
-melee = "+2 heavy pick +24/+19/+14/+9 (1d8+7/19-20/&times&4)"
-ranged = "+2 heavy pick +23/+18/+13/+8 (1d8+2/19-20/&times&4)"
+melee = "+2 heavy pick +24/+19/+14/+9 (1d8+7/19-20/×4)"
+ranged = "+2 heavy pick +23/+18/+13/+8 (1d8+2/19-20/×4)"
 special_attacks = "bury alive~long arm of the reaper"
 special_qualities = "change shape (human; alter self)"
 abilities = ["20", "19", "22", "17", "16", "19"]
@@ -84,11 +84,11 @@ upper half is humanoid-shaped and wields an enormous pick made from a giant's ri
 
 **Speed:** 50 ft., fly 30 ft. (average)
 
-**Melee:** +2 heavy pick +24/+19/+14/+9 (1d8+7/19-20/&times&4)
+**Melee:** +2 heavy pick +24/+19/+14/+9 (1d8+7/19-20/×4)
 
 **Pull:** heavy pick, 5 ft.
 
-**Ranged:** +2 heavy pick +23/+18/+13/+8 (1d8+2/19-20/&times&4)
+**Ranged:** +2 heavy pick +23/+18/+13/+8 (1d8+2/19-20/×4)
 
 **Reach:** 10
 

@@ -22,7 +22,7 @@ hp = "545~26d10+402"
 fortitude = "+27"
 reflex = "+21"
 will = "+24; +8 vs. mind-affecting, second save"
-melee = "+3 axiomatic tetsubo +40/+40/+35/+30/+25 (6d8+30/19-20 &times&5) or 3 slams +37 (2d8+27)"
+melee = "+3 axiomatic tetsubo +40/+40/+35/+30/+25 (6d8+30/19-20 ×5) or 3 slams +37 (2d8+27)"
 special_attacks = "devastator"
 special_qualities = "powerful blows (slam)"
 abilities = ["47", "34", "35", "27", "28", "34"]
@@ -83,7 +83,7 @@ mace._
 
 **M Power:** 9/day, surge +1d10
 
-**Melee:** +3 axiomatic tetsubo +40/+40/+35/+30/+25 (6d8+30/19-20 &times&5) or 3 slams +37 (2d8+27)
+**Melee:** +3 axiomatic tetsubo +40/+40/+35/+30/+25 (6d8+30/19-20 ×5) or 3 slams +37 (2d8+27)
 
 **Reach:** 30
 

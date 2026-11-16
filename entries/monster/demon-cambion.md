@@ -26,7 +26,7 @@ fortitude = "+5"
 reflex = "+2"
 will = "+4"
 melee = "mwk scimitar +6 (1d6+2/18-20), claw +0 (1d4+1/19-20) or 2 claws +5 (1d4+2/19-20)"
-ranged = "mwk composite longbow +5 (1d8+2/&times&3)"
+ranged = "mwk composite longbow +5 (1d8+2/×3)"
 special_attacks = "sadistic strike~sinfrenzy"
 abilities = ["15", "13", "14", "13", "12", "14"]
 +++
@@ -78,7 +78,7 @@ brow._
 
 **Melee:** mwk scimitar +6 (1d6+2/18-20), claw +0 (1d4+1/19-20) or 2 claws +5 (1d4+2/19-20)
 
-**Ranged:** mwk composite longbow +5 (1d8+2/&times&3)
+**Ranged:** mwk composite longbow +5 (1d8+2/×3)
 
 **Spec Att:** sadistic strike, sinfrenzy
 

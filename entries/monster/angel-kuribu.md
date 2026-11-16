@@ -22,7 +22,7 @@ hp = "26~4d10+4"
 fortitude = "+2"
 reflex = "+7"
 will = "+5; +4 vs. poison, +4 resistance vs. evil"
-ranged = "mwk longbow +9 (1d6/&times&3)"
+ranged = "mwk longbow +9 (1d6/×3)"
 special_qualities = "blessed aspect"
 abilities = ["10", "16", "12", "11", "13", "11"]
 +++
@@ -74,7 +74,7 @@ and carries a quiver full of arrows on its back._
 
 **Speed:** 20 ft., fly 50 ft. (good)
 
-**Ranged:** mwk longbow +9 (1d6/&times&3)
+**Ranged:** mwk longbow +9 (1d6/×3)
 
 **Spell-Like Abilities**
 

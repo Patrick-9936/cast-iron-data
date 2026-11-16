@@ -25,7 +25,7 @@ fortitude = "+7"
 reflex = "+13"
 will = "+6"
 melee = "bite +16 (1d6+5 plus disease), 2 talons +16 (1d4+5)"
-ranged = "mwk Large composite longbow +18/+13/+8 (2d6+5/&times&3)"
+ranged = "mwk Large composite longbow +18/+13/+8 (2d6+5/×3)"
 special_attacks = "catastrophic shot~disease"
 special_qualities = "oversized weapon"
 abilities = ["20", "22", "19", "7", "9", "10"]
@@ -72,7 +72,7 @@ in its taloned feet._
 
 **Melee:** bite +16 (1d6+5 plus disease), 2 talons +16 (1d4+5)
 
-**Ranged:** mwk Large composite longbow +18/+13/+8 (2d6+5/&times&3)
+**Ranged:** mwk Large composite longbow +18/+13/+8 (2d6+5/×3)
 
 **Spec Att:** catastrophic shot, disease
 

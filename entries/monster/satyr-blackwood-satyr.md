@@ -23,7 +23,7 @@ fortitude = "+6"
 reflex = "+11"
 will = "+9"
 melee = "dagger +6 (1d4+2/19-20), horns +1 (1d6+1)"
-ranged = "+1 longbow +11 (1d8+1/&times&3)"
+ranged = "+1 longbow +11 (1d8+1/×3)"
 special_attacks = "pipes (DC 19)"
 abilities = ["15", "20", "17", "14", "16", "21"]
 +++
@@ -70,7 +70,7 @@ _No flavor text._
 
 **Melee:** dagger +6 (1d4+2/19-20), horns +1 (1d6+1)
 
-**Ranged:** +1 longbow +11 (1d8+1/&times&3)
+**Ranged:** +1 longbow +11 (1d8+1/×3)
 
 **Spec Att:** pipes (DC 19)
 

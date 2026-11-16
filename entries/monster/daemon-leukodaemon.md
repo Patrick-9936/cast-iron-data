@@ -26,7 +26,7 @@ fortitude = "+9"
 reflex = "+14"
 will = "+12"
 melee = "bite +16 (1d8+7), 2 claws +16 (1d6+7)"
-ranged = "+1 composite longbow +18/+13 (2d6+8/&times&3 plus contagion)"
+ranged = "+1 composite longbow +18/+13 (2d6+8/×3 plus contagion)"
 special_attacks = "breath of flies"
 abilities = ["25", "24", "23", "16", "21", "16"]
 +++
@@ -82,7 +82,7 @@ rotting wings of a carrion bird._
 
 **Melee:** bite +16 (1d8+7), 2 claws +16 (1d6+7)
 
-**Ranged:** +1 composite longbow +18/+13 (2d6+8/&times&3 plus contagion)
+**Ranged:** +1 composite longbow +18/+13 (2d6+8/×3 plus contagion)
 
 **Reach:** 10
 

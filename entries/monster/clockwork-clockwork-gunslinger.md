@@ -24,7 +24,7 @@ fortitude = "+3"
 reflex = "+8"
 will = "+3"
 melee = "slam +14 (1d6+7)"
-ranged = "pistol +12 (1d8/&times&4)"
+ranged = "pistol +12 (1d8/×4)"
 special_attacks = "captive time"
 special_qualities = "difficult to create, integrated clockwork pistol, swift reactions, winding"
 abilities = ["20", "16", "-", "-", "11", "1"]
@@ -75,7 +75,7 @@ fits snugly between its pectoral armor plates._
 
 **Melee:** slam +14 (1d6+7)
 
-**Ranged:** pistol +12 (1d8/&times&4)
+**Ranged:** pistol +12 (1d8/×4)
 
 **Spec Att:** captive time
 

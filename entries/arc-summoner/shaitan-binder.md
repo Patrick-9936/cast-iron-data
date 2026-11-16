@@ -90,10 +90,10 @@ successful Fortitude save as a **full-round action** to exit the stone.
 **Ability:** A shaitan binder's eidolon gains the ability to grant its summoner's wishes. Once per
 day, the eidolon can cast [limited wish](ref/spell/limited-wish) as a
 [spell-like ability](ref/umr/spell-like-abilities). The eidolon's caster level is equal to its
-level. The wish must be spoken aloud by the shaitan binder, beginning with the words &quot&I
-wish,&quot& and cannot duplicate a wish the eidolon has granted within the past 24 hours. If the
-eidolon uses this ability to duplicate a spell with a costly material component, the shaitan binder
-must provide that component.
+level. The wish must be spoken aloud by the shaitan binder, beginning with the words "I wish," and
+cannot duplicate a wish the eidolon has granted within the past 24 hours. If the eidolon uses this
+ability to duplicate a spell with a costly material component, the shaitan binder must provide that
+component.
 
 **Gained:** At 20th Level
 

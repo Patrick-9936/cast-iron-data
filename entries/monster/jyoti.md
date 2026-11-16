@@ -23,7 +23,7 @@ hp = "104~11d10+44"
 fortitude = "+11"
 reflex = "+8"
 will = "+11; +2 vs. divine"
-melee = "+1 ghost touch spear +14/+9/+4 (1d8+4/&times&3 plus 1d6 fire), bite +8 (1d6+1 plus 1d6 fire)"
+melee = "+1 ghost touch spear +14/+9/+4 (1d8+4/×3 plus 1d6 fire), bite +8 (1d6+1 plus 1d6 fire)"
 ranged = "ray +16 ranged touch (by spell)"
 special_attacks = "positive energy"
 abilities = ["14", "20", "19", "12", "15", "15"]
@@ -80,8 +80,8 @@ carved crystal blade._
 
 **Br Weap:** 60-ft. cone, 11d6 fire, Reflex DC 19 half, usable once every 1d4 rounds
 
-**Melee:** +1 [ghost touch](ref/magic-enh/ghost-touch-weapon) spear +14/+9/+4 (1d8+4/&times&3 plus
-1d6 fire), bite +8 (1d6+1 plus 1d6 fire)
+**Melee:** +1 [ghost touch](ref/magic-enh/ghost-touch-weapon) spear +14/+9/+4 (1d8+4/×3 plus 1d6
+fire), bite +8 (1d6+1 plus 1d6 fire)
 
 **Ranged:** ray +16 ranged touch (by spell)
 

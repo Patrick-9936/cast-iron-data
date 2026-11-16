@@ -22,7 +22,7 @@ hp = "19~3d8+6"
 fortitude = "+2"
 reflex = "+1"
 will = "+3"
-melee = "greataxe +5 (1d12+4/&times&3 plus nausea) or slam +5 (1d10+4 plus nausea)"
+melee = "greataxe +5 (1d12+4/×3 plus nausea) or slam +5 (1d10+4 plus nausea)"
 abilities = ["17", "10", "-", "8", "10", "13"]
 +++
 
@@ -71,7 +71,7 @@ off a nauseating stench._
 
 **Speed:** 30 ft., swim 30 ft.
 
-**Melee:** greataxe +5 (1d12+4/&times&3 plus nausea) or slam +5 (1d10+4 plus nausea)
+**Melee:** greataxe +5 (1d12+4/×3 plus nausea) or slam +5 (1d10+4 plus nausea)
 
 **Statistics**
 

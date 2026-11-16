@@ -22,7 +22,7 @@ hp = "216~16d10+128"
 fortitude = "+18"
 reflex = "+8"
 will = "+15"
-melee = "+3 adamantine corrosive warhammer +27/+22/+17/+12 (2d6+12/&times&3 plus 1d6 acid)"
+melee = "+3 adamantine corrosive warhammer +27/+22/+17/+12 (2d6+12/×3 plus 1d6 acid)"
 ranged = "adamantine rock +19/+14/+9/+4 (1d8+9)"
 special_qualities = "stone giant blood, summon boulders"
 abilities = ["29", "17", "27", "14", "16", "16"]
@@ -78,7 +78,7 @@ glinting metallic ore._
 
 **Speed:** 30 ft.
 
-**Melee:** +3 adamantine corrosive warhammer +27/+22/+17/+12 (2d6+12/&times&3 plus 1d6 acid)
+**Melee:** +3 adamantine corrosive warhammer +27/+22/+17/+12 (2d6+12/×3 plus 1d6 acid)
 
 **Ranged:** adamantine rock +19/+14/+9/+4 (1d8+9)
 

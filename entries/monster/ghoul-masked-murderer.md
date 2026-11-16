@@ -22,7 +22,7 @@ fortitude = "+8"
 reflex = "+9"
 will = "+11; +4 vs. necromantic effects"
 melee = "bite +10 (1d6+2 plus disease and paralysis), 2 claws +11 (1d6+2 plus paralysis)"
-ranged = "mwk composite shortbow +11/+6 (1d6+2/&times&3)"
+ranged = "mwk composite shortbow +11/+6 (1d6+2/×3)"
 special_attacks = "bardic performance 24 rounds/day (move action; countersong, dirge of doom [DC 20], distraction, fascinate [DC 20], inspire competence +3, inspire courage +2, suggestion [DC 20])~disease (DC 17)"
 special_qualities = "bardic knowledge +4, haunting refrain (+4 to demoralize, -2 penalty on saves against bard's fear effects), secrets of the grave"
 abilities = ["15", "17", "-", "17", "14", "22"]
@@ -72,7 +72,7 @@ abilities = ["15", "17", "-", "17", "14", "22"]
 
 **Paralysis:** 1d4+1 rounds, DC 19, elves are immune to this effect
 
-**Ranged:** mwk composite shortbow +11/+6 (1d6+2/&times&3)
+**Ranged:** mwk composite shortbow +11/+6 (1d6+2/×3)
 
 **Spec Att:** bardic performance 24 rounds/day (move action;
 [countersong](ref/performance/countersong), [dirge of doom](ref/performance/dirge-of-doom) \[DC

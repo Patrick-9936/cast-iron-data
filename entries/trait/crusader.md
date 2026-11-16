@@ -15,7 +15,7 @@ category = "Faith"
 
 **Type:** Faith
 
-**Flavor:** From studying &quot&Prime Commander&quot& and reading accounts of the battles in the
-Worldwound, you have trained to be a crusader against demonic forces.
+**Flavor:** From studying "Prime Commander" and reading accounts of the battles in the Worldwound,
+you have trained to be a crusader against demonic forces.
 
 **Benefit:** You gain a +1 trait bonus on attack rolls against outsiders with the chaotic subtype.

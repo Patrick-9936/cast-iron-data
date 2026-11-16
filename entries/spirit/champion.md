@@ -42,10 +42,10 @@ you unable to cast spells. You can't benefit from effects that increase your cas
 **Details:** Choose one:\~\~\~\~\~\~- You are superstitious about arcane spellcasting, so you must
 not be the willing target of arcane spells or abilities and you must attempt a Will saving throw
 against even harmless arcane spells and abilities.\~\~\~- You may not make an attack with any weapon
-except a specific manufactured weapon (such as &quot&my father's +2 falchion&quot&) that you choose
-when you take the _taboo,_ and you may not choose unarmed strike for this _taboo._\~\~\~- You must
-accept any challenge to prove your prowess in battle, including challenges to single combat - if you
-or an ally breaks the rules of the challenge, you break this _taboo._
+except a specific manufactured weapon (such as "my father's +2 falchion") that you choose when you
+take the _taboo,_ and you may not choose unarmed strike for this _taboo._\~\~\~- You must accept any
+challenge to prove your prowess in battle, including challenges to single combat - if you or an ally
+breaks the rules of the challenge, you break this _taboo._
 
 ### Lesser Spirit Power
 

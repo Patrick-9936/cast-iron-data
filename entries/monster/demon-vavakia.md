@@ -25,7 +25,7 @@ hp = "297~18d10+198"
 fortitude = "+26"
 reflex = "+12"
 will = "+22"
-melee = "+1 unholy ranseur +28/+23/+18/+13 (3d6+17/&times&3) or bite +27 (3d6+11 plus smoking wound), 2 claws +27 (1d8+11), tail slap +22 (2d8+5 plus stun)"
+melee = "+1 unholy ranseur +28/+23/+18/+13 (3d6+17/×3) or bite +27 (3d6+11 plus smoking wound), 2 claws +27 (1d8+11), tail slap +22 (2d8+5 plus stun)"
 special_attacks = "breath weapon"
 abilities = ["32", "14", "33", "18", "21", "23"]
 +++
@@ -79,8 +79,8 @@ draconic saurian head._
 
 **Speed:** 45 ft., fly 60 ft. (average)
 
-**Melee:** +1 unholy ranseur +28/+23/+18/+13 (3d6+17/&times&3) or bite +27 (3d6+11 plus smoking
-wound), 2 claws +27 (1d8+11), tail slap +22 (2d8+5 plus stun)
+**Melee:** +1 unholy ranseur +28/+23/+18/+13 (3d6+17/×3) or bite +27 (3d6+11 plus smoking wound), 2
+claws +27 (1d8+11), tail slap +22 (2d8+5 plus stun)
 
 **Reach:** 15
 

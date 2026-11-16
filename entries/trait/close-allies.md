@@ -24,8 +24,8 @@ characters. (At the GM's option, more than two PCs can be linked by this trait.)
 ally have always supported each other. You might have the tendency to complete each other's
 sentences, dress similarly, share the same religion or faith, or have endured a dangerous event
 together in the past. If you and the other player agree (and have chosen either the siblings or
-twins option below), you might not even particularly like your close &quot&ally,&quot& yet you still
-respect them and can utilize this trait's benefits all the same.
+twins option below), you might not even particularly like your close "ally," yet you still respect
+them and can utilize this trait's benefits all the same.
 
 If your relationship with your close ally ends (as a result of death, a parting of ways, or other
 catastrophe), you immediately lose this campaign trait and replace it with

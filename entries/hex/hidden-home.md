@@ -21,4 +21,4 @@ define her home territory. Thereafter, she can use the hex to change the appeara
 a **standard action** as long as she is within the area. The illusion persists until the witch
 changes or dismisses it.
 
-**Special:** For the purpose of this ability, a witch can only have one &quot&home&quot& at a time.
+**Special:** For the purpose of this ability, a witch can only have one "home" at a time.

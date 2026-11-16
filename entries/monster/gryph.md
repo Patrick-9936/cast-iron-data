@@ -22,7 +22,7 @@ hp = "15~2d10+4"
 fortitude = "+5"
 reflex = "+5"
 will = "+1"
-melee = "bite +5 (1d6/&times&3), claw +5 (grab)"
+melee = "bite +5 (1d6/×3), claw +5 (grab)"
 special_attacks = "implant eggs"
 abilities = ["11", "15", "14", "2", "12", "7"]
 +++
@@ -64,7 +64,7 @@ its beak is razor-sharp._
 
 **Speed:** 30 ft., fly 50 ft. (good)
 
-**Melee:** bite +5 (1d6/&times&3), claw +5 ([grab](ref/umr/grab))
+**Melee:** bite +5 (1d6/×3), claw +5 ([grab](ref/umr/grab))
 
 **Spec Att:** implant eggs
 

@@ -22,7 +22,7 @@ hp = "80~8d10+36"
 fortitude = "+8"
 reflex = "+4"
 will = "+9"
-melee = "+1 warhammer +14/+9 (1d8+7/&times&3)"
+melee = "+1 warhammer +14/+9 (1d8+7/×3)"
 special_attacks = "compulsive orthodoxy"
 special_qualities = "discern heritage, slow and steady"
 abilities = ["18", "15", "15", "10", "17", "14"]
@@ -75,7 +75,7 @@ strange steel alloy. Its eyes glow with a piercing white light._
 
 **Speed:** 20 ft.
 
-**Melee:** +1 warhammer +14/+9 (1d8+7/&times&3)
+**Melee:** +1 warhammer +14/+9 (1d8+7/×3)
 
 **Spec Att:** compulsive orthodoxy
 

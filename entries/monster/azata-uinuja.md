@@ -25,8 +25,8 @@ hp = "207~18d10+108"
 fortitude = "+12"
 reflex = "+16"
 will = "+19"
-melee = "+3 starknife +27/+22/+17/+12 (1d6+10/19-20/&times&3)"
-ranged = "+3 starknife +25 (1d6+10/19-20/&times&3)"
+melee = "+3 starknife +27/+22/+17/+12 (1d6+10/19-20/×3)"
+ranged = "+3 starknife +25 (1d6+10/19-20/×3)"
 special_attacks = "psychic starknife"
 special_qualities = "dreamwalker"
 abilities = ["24", "21", "22", "17", "22", "21"]
@@ -81,9 +81,9 @@ tangle of night-blue hair._
 
 **Speed:** 30 ft., fly 60 ft. (perfect)
 
-**Melee:** +3 starknife +27/+22/+17/+12 (1d6+10/19-20/&times&3)
+**Melee:** +3 starknife +27/+22/+17/+12 (1d6+10/19-20/×3)
 
-**Ranged:** +3 starknife +25 (1d6+10/19-20/&times&3)
+**Ranged:** +3 starknife +25 (1d6+10/19-20/×3)
 
 **Reach:** 10
 

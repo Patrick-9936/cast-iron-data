@@ -23,8 +23,8 @@ hp = "325~26d6+234"
 fortitude = "+19"
 reflex = "+22"
 will = "+23"
-melee = "monarch's glaive +30/+25/+20 (1d10+21/19-20/&times&3 plus 2d6), gore +19 (1d8+5)"
-ranged = "monarch's glaive +26 (1d10+21/19-20/&times&3 plus 2d6)"
+melee = "monarch's glaive +30/+25/+20 (1d10+21/19-20/×3 plus 2d6), gore +19 (1d8+5)"
+ranged = "monarch's glaive +26 (1d10+21/19-20/×3 plus 2d6)"
 special_attacks = "call to the hunt~monarch's glaive~staggering gore~wild gaze (DC 31)~wild reincarnation"
 special_qualities = "planar acclimation, wild hunt link"
 abilities = ["33", "25", "28", "22", "26", "27"]
@@ -79,9 +79,9 @@ luminescent green eyes._
 
 **Speed:** 50 ft.
 
-**Melee:** monarch's glaive +30/+25/+20 (1d10+21/19-20/&times&3 plus 2d6), gore +19 (1d8+5)
+**Melee:** monarch's glaive +30/+25/+20 (1d10+21/19-20/×3 plus 2d6), gore +19 (1d8+5)
 
-**Ranged:** monarch's glaive +26 (1d10+21/19-20/&times&3 plus 2d6)
+**Ranged:** monarch's glaive +26 (1d10+21/19-20/×3 plus 2d6)
 
 **Spec Att:** call to the hunt, monarch's glaive, staggering gore, wild gaze (DC 31), wild
 reincarnation

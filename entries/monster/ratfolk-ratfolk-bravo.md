@@ -23,8 +23,8 @@ hp = "24~3d10+3"
 fortitude = "+4"
 reflex = "+6"
 will = "+3"
-melee = "mwk handaxe +5 (1d4/&times&3)"
-ranged = "mwk musket +8 (1d10/&times&4)"
+melee = "mwk handaxe +5 (1d4/×3)"
+ranged = "mwk musket +8 (1d10/×4)"
 special_attacks = "grit (2)~swarming"
 special_qualities = "deeds (deadeye, gunslinger initiative, gunslinger's dodge, pistol-whip, quick clear, utility shot), gunsmith"
 abilities = ["11", "17", "12", "12", "14", "8"]
@@ -73,9 +73,9 @@ tail._
 
 **Speed:** 20 ft.
 
-**Melee:** mwk handaxe +5 (1d4/&times&3)
+**Melee:** mwk handaxe +5 (1d4/×3)
 
-**Ranged:** mwk musket +8 (1d10/&times&4)
+**Ranged:** mwk musket +8 (1d10/×4)
 
 **Spec Att:** grit (2), swarming
 

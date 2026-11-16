@@ -23,7 +23,7 @@ hp = "264~23d10+138"
 fortitude = "+19"
 reflex = "+15"
 will = "+15; +4 vs. divine spells"
-melee = "+1 vicious maul +34/+29/+24/+19 (2d6+16/19-20/&times&3 plus 2d6) or 2 claws +33 (2d6+10)"
+melee = "+1 vicious maul +34/+29/+24/+19 (2d6+16/19-20/×3 plus 2d6) or 2 claws +33 (2d6+10)"
 special_attacks = "faith-stealing strike (DC 25)~sacrilegious spittle"
 special_qualities = "heretical soul"
 abilities = ["31", "22", "23", "17", "14", "18"]
@@ -80,7 +80,7 @@ greasy skin._
 
 **Speed:** 40 ft., fly 50 ft. (average)
 
-**Melee:** +1 vicious maul +34/+29/+24/+19 (2d6+16/19-20/&times&3 plus 2d6) or 2 claws +33 (2d6+10)
+**Melee:** +1 vicious maul +34/+29/+24/+19 (2d6+16/19-20/×3 plus 2d6) or 2 claws +33 (2d6+10)
 
 **Spec Att:** faith-stealing strike (DC 25), sacrilegious spittle
 

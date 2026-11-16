@@ -81,7 +81,6 @@ rapiers. While wielding a rapier, she gains the benefit of the
 **Passive:** When an inspired blade threatens a critical hit with a rapier, that critical hit is
 automatically confirmed. Furthermore, the critical threat range increases by 1 (this increase to the
 critical threat range stacks with the increases from _rapier training,_ to a total threat range of
-14-20), and the critical modifier of the weapon increases by 1 (&times&2 becomes &times&3, for
-example).
+14-20), and the critical modifier of the weapon increases by 1 (×2 becomes ×3, for example).
 
 **Replaces:** Swashbuckler weapon mastery

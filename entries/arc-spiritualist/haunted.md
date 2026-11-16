@@ -56,9 +56,9 @@ increase its own power.
 otherwise follows the rules for the _share spells_ and _deliver touch spells_ abilities.
 
 **Swift:** The phantom can reach through the etheric tether to drain the nauseated haunted's psychic
-spell energy, effectively taking any touch spell or spell with a target of &quot&you&quot& that the
-haunted knows and casting it on itself (assuming the haunted has not yet used up her allotment of
-spells per day for the spell's level).
+spell energy, effectively taking any touch spell or spell with a target of "you" that the haunted
+knows and casting it on itself (assuming the haunted has not yet used up her allotment of spells per
+day for the spell's level).
 
 **Teleplasmic Surge**
 

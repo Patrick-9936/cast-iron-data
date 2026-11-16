@@ -25,7 +25,7 @@ hp = "30~4d8+12"
 fortitude = "+4"
 reflex = "+3"
 will = "+6"
-melee = "bite +6 (1d8+3/&times&3 plus bleed), 2 claws +6 (1d4+3), sucking tentacles +1 (1d4+1 plus grab)"
+melee = "bite +6 (1d8+3/×3 plus bleed), 2 claws +6 (1d4+3), sucking tentacles +1 (1d4+1 plus grab)"
 special_attacks = "aerial charge~sucking tentacles"
 abilities = ["17", "15", "16", "5", "14", "9"]
 +++
@@ -69,7 +69,7 @@ sharp, toothy beak._
 
 **Bleed:** 1d6
 
-**Melee:** bite +6 (1d8+3/&times&3 plus bleed), 2 claws +6 (1d4+3), sucking tentacles +1 (1d4+1 plus
+**Melee:** bite +6 (1d8+3/×3 plus bleed), 2 claws +6 (1d4+3), sucking tentacles +1 (1d4+1 plus
 [grab](ref/umr/grab))
 
 **Spec Att:** aerial charge, sucking tentacles

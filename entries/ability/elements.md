@@ -44,21 +44,19 @@ move objects with their minds.
 
 **Details:** [Basic Telekinesis](ref/kinetic/basic-telekinesis),
 [Kinetic Cover](ref/kinetic/kinetic-cover), [Kinetic Healer](ref/kinetic/kinetic-healer),
-[Pushing Infusion](ref/kinetic/pushing-infusion)&dagger&,
-[Telekinetic Boomerang](ref/kinetic/telekinetic-boomerang)&dagger&,
+[Pushing Infusion](ref/kinetic/pushing-infusion)†,
+[Telekinetic Boomerang](ref/kinetic/telekinetic-boomerang)†,
 [Telekinetic Finesse](ref/kinetic/telekinetic-finesse)
 
 **2nd**
 
 **Details:** [Angelic Protection](ref/kinetic/angelic-protection),
-[Bowling Infusion](ref/kinetic/bowling-infusion)&dagger&,
-[Telekinetic Haul](ref/kinetic/telekinetic-haul)
+[Bowling Infusion](ref/kinetic/bowling-infusion)†, [Telekinetic Haul](ref/kinetic/telekinetic-haul)
 
 **3rd**
 
-**Details:** [Foe Throw](ref/kinetic/foe-throw)&dagger&,
-[Force Hook](ref/kinetic/force-hook)&dagger&, [Primal Aether](ref/kinetic/primal-aether),
-[Self Telekinesis](ref/kinetic/self-telekinesis),
+**Details:** [Foe Throw](ref/kinetic/foe-throw)†, [Force Hook](ref/kinetic/force-hook)†,
+[Primal Aether](ref/kinetic/primal-aether), [Self Telekinesis](ref/kinetic/self-telekinesis),
 [Telekinetic Invisibility](ref/kinetic/telekinetic-invisibility),
 [Touchsight](ref/kinetic/touchsight)
 
@@ -76,7 +74,7 @@ move objects with their minds.
 
 **6th**
 
-**Details:** [Disintegrating Infusion](ref/kinetic/disintegrating-infusion)&dagger&,
+**Details:** [Disintegrating Infusion](ref/kinetic/disintegrating-infusion)†,
 [Kinetic Revivification](ref/kinetic/kinetic-revivification), [Suffocate](ref/kinetic/suffocate)
 
 **7th**
@@ -85,7 +83,7 @@ move objects with their minds.
 
 **8th**
 
-**Details:** [Many Throw](ref/kinetic/many-throw)&dagger&,
+**Details:** [Many Throw](ref/kinetic/many-throw)†,
 [Telekinetic Deflection](ref/kinetic/telekinetic-deflection),
 [Telekinetic Globe](ref/kinetic/telekinetic-globe)
 
@@ -123,36 +121,34 @@ control air flow or electricity, specializing in mobility and ranged combat.
 **Details:** [Aerial Adaptation](ref/kinetic/aerial-adaptation),
 [Air Cushion](ref/kinetic/air-cushion), [Air Shroud](ref/kinetic/air-shroud),
 [Air's Leap](ref/kinetic/airs-leap), [Air's Reach](ref/kinetic/airs-reach),
-[Basic Aerokinesis](ref/kinetic/basic-aerokinesis),
-[Energize Weapon](ref/kinetic/energize-weapon)&dagger&,
-[Gusting Infusion](ref/kinetic/gusting-infusion)&dagger&,
-[Pushing Infusion](ref/kinetic/pushing-infusion)&dagger&,
-[Thundering Infusion](ref/kinetic/thundering-infusion)&dagger&,
+[Basic Aerokinesis](ref/kinetic/basic-aerokinesis), [Energize Weapon](ref/kinetic/energize-weapon)†,
+[Gusting Infusion](ref/kinetic/gusting-infusion)†,
+[Pushing Infusion](ref/kinetic/pushing-infusion)†,
+[Thundering Infusion](ref/kinetic/thundering-infusion)†,
 [Voice of the Wind](ref/kinetic/voice-of-the-wind)
 
 **2nd**
 
 **Details:** [Living Capacitor](ref/kinetic/living-capacitor),
-[Penetrating Infusion](ref/kinetic/penetrating-infusion)&dagger&,
+[Penetrating Infusion](ref/kinetic/penetrating-infusion)†,
 [Greater Voice of the Wind](ref/kinetic/greater-voice-of-the-wind)
 
 **3rd**
 
-**Details:** [Aerial Evasion](ref/kinetic/aerial-evasion), [Bolt](ref/kinetic/bolt)&dagger&,
+**Details:** [Aerial Evasion](ref/kinetic/aerial-evasion), [Bolt](ref/kinetic/bolt)†,
 [Celerity](ref/kinetic/celerity), [Engulfing Winds](ref/kinetic/engulfing-winds),
-[Magnetic Infusion](ref/kinetic/magnetic-infusion)&dagger&, [Magnetism](ref/kinetic/magnetism),
-[Synaptic Infusion](ref/kinetic/synaptic-infusion)&dagger&, [Torrent](ref/kinetic/torrent)&dagger&,
+[Magnetic Infusion](ref/kinetic/magnetic-infusion)†, [Magnetism](ref/kinetic/magnetism),
+[Synaptic Infusion](ref/kinetic/synaptic-infusion)†, [Torrent](ref/kinetic/torrent)†,
 [Windsight](ref/kinetic/windsight), [Wings of Air](ref/kinetic/wings-of-air)
 
 **4th**
 
-**Details:** [Body of Air](ref/kinetic/body-of-air), [Cyclone](ref/kinetic/cyclone)&dagger&
+**Details:** [Body of Air](ref/kinetic/body-of-air), [Cyclone](ref/kinetic/cyclone)†
 
 **5th**
 
-**Details:** [Greater Air Shroud](ref/kinetic/greater-air-shroud),
-[Chain](ref/kinetic/chain)&dagger&,
-[Unfolding Wind Infusion](ref/kinetic/unfolding-wind-infusion)&dagger&,
+**Details:** [Greater Air Shroud](ref/kinetic/greater-air-shroud), [Chain](ref/kinetic/chain)†,
+[Unfolding Wind Infusion](ref/kinetic/unfolding-wind-infusion)†,
 [Greater Windsight](ref/kinetic/greater-windsight)
 
 **6th**
@@ -161,7 +157,7 @@ control air flow or electricity, specializing in mobility and ranged combat.
 
 **7th**
 
-**Details:** [Cloud](ref/kinetic/cloud)&dagger&, [Sky Walk](ref/kinetic/sky-walk)
+**Details:** [Cloud](ref/kinetic/cloud)†, [Sky Walk](ref/kinetic/sky-walk)
 
 **8th**
 
@@ -199,19 +195,19 @@ the earth itself, and they are masters of defensive techniques.
 **1st**
 
 **Details:** [Basic Geokinesis](ref/kinetic/basic-geokinesis), [Earth Walk](ref/kinetic/earth-walk),
-[Kinetic Cover](ref/kinetic/kinetic-cover), [Pushing Infusion](ref/kinetic/pushing-infusion)&dagger&
+[Kinetic Cover](ref/kinetic/kinetic-cover), [Pushing Infusion](ref/kinetic/pushing-infusion)†
 
 **2nd**
 
-**Details:** [Bowling Infusion](ref/kinetic/bowling-infusion)&dagger&,
+**Details:** [Bowling Infusion](ref/kinetic/bowling-infusion)†,
 [Earth Climb](ref/kinetic/earth-climb), [Entangling Infusion](ref/kinetic/entangling-infusion)
 
 **3rd**
 
 **Details:** [Clockwork Heart](ref/kinetic/clockwork-heart), [Earth Child](ref/kinetic/earth-child),
-[Impale](ref/kinetic/impale)&dagger&, [Jagged Flesh](ref/kinetic/jagged-flesh),
-[Magnetic Infusion](ref/kinetic/magnetic-infusion)&dagger&, [Magnetism](ref/kinetic/magnetism),
-[Pillar](ref/kinetic/pillar), [Rare-metal Infusion](ref/kinetic/rare-metal-infusion)&dagger&,
+[Impale](ref/kinetic/impale)†, [Jagged Flesh](ref/kinetic/jagged-flesh),
+[Magnetic Infusion](ref/kinetic/magnetic-infusion)†, [Magnetism](ref/kinetic/magnetism),
+[Pillar](ref/kinetic/pillar), [Rare-metal Infusion](ref/kinetic/rare-metal-infusion)†,
 [Tremorsense](ref/kinetic/tremorsense)
 
 **4th**
@@ -227,15 +223,15 @@ the earth itself, and they are masters of defensive techniques.
 [Spark of Innovation](ref/kinetic/spark-of-innovation),
 [Stone Sculptor](ref/kinetic/stone-sculptor),
 [Greater Tremorsense](ref/kinetic/greater-tremorsense),
-[Untwisting Iron Infusion](ref/kinetic/untwisting-iron-infusion)&dagger&
+[Untwisting Iron Infusion](ref/kinetic/untwisting-iron-infusion)†
 
 **6th**
 
-**Details:** [Deadly Earth](ref/kinetic/deadly-earth)&dagger&
+**Details:** [Deadly Earth](ref/kinetic/deadly-earth)†
 
 **7th**
 
-**Details:** [Fragmentation](ref/kinetic/fragmentation)&dagger&,
+**Details:** [Fragmentation](ref/kinetic/fragmentation)†,
 [Greater Shift Earth](ref/kinetic/greater-shift-earth)
 
 **8th**
@@ -274,30 +270,28 @@ elemental fire as a potent weapon, and they possess a powerful offense.
 **1st**
 
 **Details:** [Basic Pyrokinesis](ref/kinetic/basic-pyrokinesis),
-[Burning Infusion](ref/kinetic/burning-infusion)&dagger&,
-[Cold Adaptation](ref/kinetic/cold-adaptation),
-[Dazzling Infusion](ref/kinetic/dazzling-infusion)&dagger&,
-[Energize Weapon](ref/kinetic/energize-weapon)&dagger&,
-[Fan of Flames](ref/kinetic/fan-of-flames)&dagger&, [Fire Sculptor](ref/kinetic/fire-sculptor),
-[Fire's Fury](ref/kinetic/fires-fury), [Heat Adaptation](ref/kinetic/heat-adaptation)
+[Burning Infusion](ref/kinetic/burning-infusion)†, [Cold Adaptation](ref/kinetic/cold-adaptation),
+[Dazzling Infusion](ref/kinetic/dazzling-infusion)†,
+[Energize Weapon](ref/kinetic/energize-weapon)†, [Fan of Flames](ref/kinetic/fan-of-flames)†,
+[Fire Sculptor](ref/kinetic/fire-sculptor), [Fire's Fury](ref/kinetic/fires-fury),
+[Heat Adaptation](ref/kinetic/heat-adaptation)
 
 **2nd**
 
 **Details:** [Fire Steed](ref/kinetic/fire-steed), [Flame Trap](ref/kinetic/flame-trap),
-[Foxfire](ref/kinetic/foxfire), [Penetrating Infusion](ref/kinetic/penetrating-infusion)&dagger&,
+[Foxfire](ref/kinetic/foxfire), [Penetrating Infusion](ref/kinetic/penetrating-infusion)†,
 [Searing Flame](ref/kinetic/searing-flame)
 
 **3rd**
 
-**Details:** [Eruption](ref/kinetic/eruption)&dagger&, [Firesight](ref/kinetic/firesight),
-[Flame Jet](ref/kinetic/flame-jet), [Foxfire Infusion](ref/kinetic/foxfire-infusion)&dagger&,
+**Details:** [Eruption](ref/kinetic/eruption)†, [Firesight](ref/kinetic/firesight),
+[Flame Jet](ref/kinetic/flame-jet), [Foxfire Infusion](ref/kinetic/foxfire-infusion)†,
 [Heat Wave](ref/kinetic/heat-wave), [Smoke Storm](ref/kinetic/smoke-storm),
-[Torrent](ref/kinetic/torrent)&dagger&
+[Torrent](ref/kinetic/torrent)†
 
 **4th**
 
-**Details:** [Detonation](ref/kinetic/detonation)&dagger&,
-[Flash Infusion](ref/kinetic/flash-infusion)&dagger&,
+**Details:** [Detonation](ref/kinetic/detonation)†, [Flash Infusion](ref/kinetic/flash-infusion)†,
 [Purifying Flames](ref/kinetic/purifying-flames)
 
 **5th**
@@ -306,18 +300,18 @@ elemental fire as a potent weapon, and they possess a powerful offense.
 [Fire Corridor](ref/kinetic/fire-corridor), [Greater Flame Jet](ref/kinetic/greater-flame-jet),
 [Flame Shield](ref/kinetic/flame-shield), [Improved Fire Steed](ref/kinetic/improved-fire-steed),
 [Trail of Flames](ref/kinetic/trail-of-flames),
-[Unblinking Flame Infusion](ref/kinetic/unblinking-flame-infusion)&dagger&,
-[Unraveling Infusion](ref/kinetic/unraveling-infusion)&dagger&
+[Unblinking Flame Infusion](ref/kinetic/unblinking-flame-infusion)†,
+[Unraveling Infusion](ref/kinetic/unraveling-infusion)†
 
 **6th**
 
-**Details:** [Brilliant Infusion](ref/kinetic/brilliant-infusion)&dagger&,
+**Details:** [Brilliant Infusion](ref/kinetic/brilliant-infusion)†,
 [Purging Flame](ref/kinetic/purging-flame)
 
 **7th**
 
-**Details:** [Explosion](ref/kinetic/explosion)&dagger&,
-[Pure-flame Infusion](ref/kinetic/pure-flame-infusion)&dagger&
+**Details:** [Explosion](ref/kinetic/explosion)†,
+[Pure-flame Infusion](ref/kinetic/pure-flame-infusion)†
 
 **8th**
 
@@ -356,42 +350,41 @@ and [Escape Artist](ref/skill/escape-artist) to her list of class skills.
 **1st**
 
 **Details:** [Basic Chaokinesis](ref/kinetic/basic-chaokinesis),
-[Dampening Infusion](ref/kinetic/dampening-infusion)&dagger&,
-[Energize Weapon](ref/kinetic/energize-weapon)&dagger&,
-[Pulling Infusion](ref/kinetic/pulling-infusion)&dagger&,
-[Pushing Infusion](ref/kinetic/pushing-infusion)&dagger&, [Void Healer](ref/kinetic/void-healer)
+[Dampening Infusion](ref/kinetic/dampening-infusion)†,
+[Energize Weapon](ref/kinetic/energize-weapon)†, [Pulling Infusion](ref/kinetic/pulling-infusion)†,
+[Pushing Infusion](ref/kinetic/pushing-infusion)†, [Void Healer](ref/kinetic/void-healer)
 
 **2nd**
 
 **Details:** [Eyes of the Void](ref/kinetic/eyes-of-the-void), [No Breath](ref/kinetic/no-breath),
-[Weighing Infusion](ref/kinetic/weighing-infusion)&dagger&
+[Weighing Infusion](ref/kinetic/weighing-infusion)†
 
 **3rd**
 
-**Details:** [Darkness Infusion](ref/kinetic/darkness-infusion)&dagger&,
+**Details:** [Darkness Infusion](ref/kinetic/darkness-infusion)†,
 [Gravity Control](ref/kinetic/gravity-control), [Undead Grip](ref/kinetic/undead-grip),
-[Unnerving Infusion](ref/kinetic/unnerving-infusion)&dagger&
+[Unnerving Infusion](ref/kinetic/unnerving-infusion)†
 
 **4th**
 
 **Details:** [Absentia](ref/kinetic/absentia), [Corpse Puppet](ref/kinetic/corpse-puppet),
 [Curse Breaker](ref/kinetic/curse-breaker), [Healing Burst](ref/kinetic/healing-burst),
-[Singularity](ref/kinetic/singularity)&dagger&, [Turning Blast](ref/kinetic/turning-blast)&dagger&
+[Singularity](ref/kinetic/singularity)†, [Turning Blast](ref/kinetic/turning-blast)†
 
 **5th**
 
 **Details:** [Greater Eyes of the Void](ref/kinetic/greater-eyes-of-the-void),
 [Greater Gravity Control](ref/kinetic/greater-gravity-control),
-[Vampiric Infusion](ref/kinetic/vampiric-infusion)&dagger&
+[Vampiric Infusion](ref/kinetic/vampiric-infusion)†
 
 **6th**
 
-**Details:** [Greater Darkness Infusion](ref/kinetic/greater-darkness-infusion)&dagger&,
+**Details:** [Greater Darkness Infusion](ref/kinetic/greater-darkness-infusion)†,
 [Suffocate](ref/kinetic/suffocate)
 
 **7th**
 
-**Details:** [Enervating Infusion](ref/kinetic/enervating-infusion)&dagger&
+**Details:** [Enervating Infusion](ref/kinetic/enervating-infusion)†
 
 **8th**
 
@@ -430,39 +423,38 @@ forms, like the ever-changing currents.
 **1st**
 
 **Details:** [Basic Hydrokinesis](ref/kinetic/basic-hydrokinesis),
-[Cold Adaptation](ref/kinetic/cold-adaptation),
-[Energize Weapon](ref/kinetic/energize-weapon)&dagger&,
+[Cold Adaptation](ref/kinetic/cold-adaptation), [Energize Weapon](ref/kinetic/energize-weapon)†,
 [Heat Adaptation](ref/kinetic/heat-adaptation), [Icewalker](ref/kinetic/icewalker),
 [Kinetic Cover](ref/kinetic/kinetic-cover), [Kinetic Healer](ref/kinetic/kinetic-healer),
-[Pushing Infusion](ref/kinetic/pushing-infusion)&dagger&,
-[Quenching Infusion](ref/kinetic/quenching-infusion)&dagger&, [Slick](ref/kinetic/slick),
+[Pushing Infusion](ref/kinetic/pushing-infusion)†,
+[Quenching Infusion](ref/kinetic/quenching-infusion)†, [Slick](ref/kinetic/slick),
 [Water Alteration](ref/kinetic/water-alteration)
 
 **2nd**
 
 **Details:** [Angelic Protection](ref/kinetic/angelic-protection),
-[Entangling Infusion](ref/kinetic/entangling-infusion)&dagger&,
-[Penetrating Infusion](ref/kinetic/penetrating-infusion)&dagger&,
-[Slick Infusion](ref/kinetic/slick-infusion)&dagger&, [Veil of Mists](ref/kinetic/veil-of-mists)
+[Entangling Infusion](ref/kinetic/entangling-infusion)†,
+[Penetrating Infusion](ref/kinetic/penetrating-infusion)†,
+[Slick Infusion](ref/kinetic/slick-infusion)†, [Veil of Mists](ref/kinetic/veil-of-mists)
 
 **3rd**
 
-**Details:** [Cold Snap](ref/kinetic/cold-snap), [Impale](ref/kinetic/impale)&dagger&,
-[Pillar](ref/kinetic/pillar), [Torrent](ref/kinetic/torrent)&dagger&,
+**Details:** [Cold Snap](ref/kinetic/cold-snap), [Impale](ref/kinetic/impale)†,
+[Pillar](ref/kinetic/pillar), [Torrent](ref/kinetic/torrent)†,
 [Water Manipulator](ref/kinetic/water-manipulator), [Waterdancer](ref/kinetic/waterdancer)
 
 **4th**
 
 **Details:** [Healing Burst](ref/kinetic/healing-burst), [Ice Sculptor](ref/kinetic/ice-sculptor),
-[Spray](ref/kinetic/spray)&dagger&, [Watersense](ref/kinetic/watersense)
+[Spray](ref/kinetic/spray)†, [Watersense](ref/kinetic/watersense)
 
 **5th**
 
-**Details:** [Chilling Infusion](ref/kinetic/chilling-infusion)&dagger&,
+**Details:** [Chilling Infusion](ref/kinetic/chilling-infusion)†,
 [Elemental Transmission](ref/kinetic/elemental-transmission),
 [Shimmering Mirage](ref/kinetic/shimmering-mirage),
 [Splash of the Styx](ref/kinetic/splash-of-the-styx),
-[Unbreaking Waves Infusion](ref/kinetic/unbreaking-waves-infusion)&dagger&,
+[Unbreaking Waves Infusion](ref/kinetic/unbreaking-waves-infusion)†,
 [Greater Waterdancer](ref/kinetic/greater-waterdancer),
 [Greater Watersense](ref/kinetic/greater-watersense)
 
@@ -473,12 +465,12 @@ forms, like the ever-changing currents.
 
 **7th**
 
-**Details:** [Cloud](ref/kinetic/cloud)&dagger&, [Fragmentation](ref/kinetic/fragmentation)&dagger&
+**Details:** [Cloud](ref/kinetic/cloud)†, [Fragmentation](ref/kinetic/fragmentation)†
 
 **8th**
 
 **Details:** [Cryokinetic Stasis](ref/kinetic/cryokinetic-stasis),
-[Maelstrom](ref/kinetic/maelstrom)&dagger&
+[Maelstrom](ref/kinetic/maelstrom)†
 
 **9th**
 
@@ -515,22 +507,21 @@ that form when the Elemental Planes grind against the borders of the First World
 **1st**
 
 **Details:** [Basic Phytokinesis](ref/kinetic/basic-phytokinesis),
-[Dazzling Infusion](ref/kinetic/dazzling-infusion)&dagger&,
-[Kinetic Cover](ref/kinetic/kinetic-cover),
-[Photokinetic Infusion](ref/kinetic/photokinetic-infusion)&dagger&,
-[Pushing Infusion](ref/kinetic/pushing-infusion)&dagger&, [Roots](ref/kinetic/roots),
+[Dazzling Infusion](ref/kinetic/dazzling-infusion)†, [Kinetic Cover](ref/kinetic/kinetic-cover),
+[Photokinetic Infusion](ref/kinetic/photokinetic-infusion)†,
+[Pushing Infusion](ref/kinetic/pushing-infusion)†, [Roots](ref/kinetic/roots),
 [Wood Healer](ref/kinetic/wood-healer), [Woodland Step](ref/kinetic/woodland-step)
 
 **2nd**
 
 **Details:** [Angelic Protection](ref/kinetic/angelic-protection),
-[Entangling Infusion](ref/kinetic/entangling-infusion)&dagger&, [Foxfire](ref/kinetic/foxfire),
+[Entangling Infusion](ref/kinetic/entangling-infusion)†, [Foxfire](ref/kinetic/foxfire),
 [Merciful Foliage](ref/kinetic/merciful-foliage)
 
 **3rd**
 
 **Details:** [Brachiation](ref/kinetic/brachiation),
-[Foxfire Infusion](ref/kinetic/foxfire-infusion)&dagger&, [Impale](ref/kinetic/impale)&dagger&,
+[Foxfire Infusion](ref/kinetic/foxfire-infusion)†, [Impale](ref/kinetic/impale)†,
 [Pillar](ref/kinetic/pillar), [Thorn Flesh](ref/kinetic/thorn-flesh),
 [Warp Wood](ref/kinetic/warp-wood)
 
@@ -538,25 +529,23 @@ that form when the Elemental Planes grind against the borders of the First World
 
 **Details:** [Greensight](ref/kinetic/greensight), [Healing Burst](ref/kinetic/healing-burst),
 [Herbal Antivenom](ref/kinetic/herbal-antivenom), [Plant Disguise](ref/kinetic/plant-disguise),
-[Shape Wood](ref/kinetic/shape-wood), [Toxic Infusion](ref/kinetic/toxic-infusion)&dagger&,
-[Turning Blast](ref/kinetic/turning-blast)&dagger&
+[Shape Wood](ref/kinetic/shape-wood), [Toxic Infusion](ref/kinetic/toxic-infusion)†,
+[Turning Blast](ref/kinetic/turning-blast)†
 
 **5th**
 
 **Details:** [Plant Puppet](ref/kinetic/plant-puppet),
-[Spore Infusion](ref/kinetic/spore-infusion)&dagger&, [Wild Growth](ref/kinetic/wild-growth),
+[Spore Infusion](ref/kinetic/spore-infusion)†, [Wild Growth](ref/kinetic/wild-growth),
 [Greater Woodland Step](ref/kinetic/greater-woodland-step)
 
 **6th**
 
-**Details:** [Deadly Earth](ref/kinetic/deadly-earth)&dagger&,
-[Green Tongue](ref/kinetic/green-tongue)
+**Details:** [Deadly Earth](ref/kinetic/deadly-earth)†, [Green Tongue](ref/kinetic/green-tongue)
 
 **7th**
 
 **Details:** [Greater Green Tongue](ref/kinetic/greater-green-tongue),
-[Greater Toxic Infusion](ref/kinetic/greater-toxic-infusion)&dagger&,
-[Tree Step](ref/kinetic/tree-step)
+[Greater Toxic Infusion](ref/kinetic/greater-toxic-infusion)†, [Tree Step](ref/kinetic/tree-step)
 
 **8th**
 
@@ -572,13 +561,11 @@ The following wild talents are available to all kineticists.
 
 **1st**
 
-**Details:** [Draining Infusion](ref/kinetic/draining-infusion)&dagger&,
-[Elemental Whispers](ref/kinetic/elemental-whispers),
-[Extended Range](ref/kinetic/extended-range)&dagger&,
+**Details:** [Draining Infusion](ref/kinetic/draining-infusion)†,
+[Elemental Whispers](ref/kinetic/elemental-whispers), [Extended Range](ref/kinetic/extended-range)†,
 [Infernal Bargain](ref/kinetic/infernal-bargain), [Kinetic Awe](ref/kinetic/kinetic-awe),
-[Kinetic Blade](ref/kinetic/kinetic-blade)&dagger&,
-[Kinetic Dissolution](ref/kinetic/kinetic-dissolution)&dagger&,
-[Kinetic Fist](ref/kinetic/kinetic-fist)&dagger&,
+[Kinetic Blade](ref/kinetic/kinetic-blade)†,
+[Kinetic Dissolution](ref/kinetic/kinetic-dissolution)†, [Kinetic Fist](ref/kinetic/kinetic-fist)†,
 [Mesmerizing Elementalist](ref/kinetic/mesmerizing-elementalist),
 [Nine-Tailed Kineticist](ref/kinetic/nine-tailed-kineticist),
 [Skilled Kineticist](ref/kinetic/skilled-kineticist),
@@ -586,44 +573,41 @@ The following wild talents are available to all kineticists.
 
 **2nd**
 
-**Details:** [Blade Rush](ref/kinetic/blade-rush)&dagger&,
-[Focused Blast](ref/kinetic/focused-blast)&dagger&,
-[Kundalini Infusion](ref/kinetic/kundalini-infusion)&dagger&,
+**Details:** [Blade Rush](ref/kinetic/blade-rush)†, [Focused Blast](ref/kinetic/focused-blast)†,
+[Kundalini Infusion](ref/kinetic/kundalini-infusion)†,
 [Greater Skilled Kineticist](ref/kinetic/greater-skilled-kineticist),
-[Spindle](ref/kinetic/spindle)&dagger&, [Venom Admixture](ref/kinetic/venom-admixture)&dagger&
+[Spindle](ref/kinetic/spindle)†, [Venom Admixture](ref/kinetic/venom-admixture)†
 
 **3rd**
 
 **Details:** [Elemental Grip](ref/kinetic/elemental-grip),
-[Elemental Trap](ref/kinetic/elemental-trap)&dagger&,
+[Elemental Trap](ref/kinetic/elemental-trap)†,
 [Greater Elemental Whispers](ref/kinetic/greater-elemental-whispers),
-[Extreme Range](ref/kinetic/extreme-range)&dagger&,
-[Flurry of Blasts](ref/kinetic/flurry-of-blasts)&dagger&,
-[Kinetic Restoration](ref/kinetic/kinetic-restoration),
-[Kinetic Whip](ref/kinetic/kinetic-whip)&dagger&, [Mobile Blast](ref/kinetic/mobile-blast)&dagger&,
-[Snake](ref/kinetic/snake)&dagger&, [Stylish Infusion](ref/kinetic/stylish-infusion)&dagger&
+[Extreme Range](ref/kinetic/extreme-range)†, [Flurry of Blasts](ref/kinetic/flurry-of-blasts)†,
+[Kinetic Restoration](ref/kinetic/kinetic-restoration), [Kinetic Whip](ref/kinetic/kinetic-whip)†,
+[Mobile Blast](ref/kinetic/mobile-blast)†, [Snake](ref/kinetic/snake)†,
+[Stylish Infusion](ref/kinetic/stylish-infusion)†
 
 **4th**
 
 **Details:** [Expanded Defense](ref/kinetic/expanded-defense),
-[Venom Infusion](ref/kinetic/venom-infusion)&dagger&
+[Venom Infusion](ref/kinetic/venom-infusion)†
 
 **5th**
 
-**Details:** [Blade Whirlwind](ref/kinetic/blade-whirlwind)&dagger&,
-[Grappling Infusion](ref/kinetic/grappling-infusion)&dagger&,
-[Kinetic Form](ref/kinetic/kinetic-form), [Spark of Life](ref/kinetic/spark-of-life),
-[Wall](ref/kinetic/wall)&dagger&
+**Details:** [Blade Whirlwind](ref/kinetic/blade-whirlwind)†,
+[Grappling Infusion](ref/kinetic/grappling-infusion)†, [Kinetic Form](ref/kinetic/kinetic-form),
+[Spark of Life](ref/kinetic/spark-of-life), [Wall](ref/kinetic/wall)†
 
 **6th**
 
 **Details:** [Ride the Blast](ref/kinetic/ride-the-blast),
-[Whip Hurricane](ref/kinetic/whip-hurricane)&dagger&
+[Whip Hurricane](ref/kinetic/whip-hurricane)†
 
 **7th**
 
-**Details:** [Shepherd of Souls](ref/kinetic/shepherd-of-souls)&dagger&,
-[Greater Venom Infusion](ref/kinetic/greater-venom-infusion)&dagger&
+**Details:** [Shepherd of Souls](ref/kinetic/shepherd-of-souls)†,
+[Greater Venom Infusion](ref/kinetic/greater-venom-infusion)†
 
 **8th**
 

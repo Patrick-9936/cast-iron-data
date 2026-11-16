@@ -22,8 +22,8 @@ hp = "717~35d10+525"
 fortitude = "+38"
 reflex = "+23"
 will = "+34"
-melee = "Usher of the Black Rain (scythe) +56/+51/+46/+41 (2d4+29/19-20/&times&4), bite +46 (6d6+8 plus energy drain and disease), gore +46 (4d6+8)"
-ranged = "Usher of the Black Rain (longbow) +48/+43/+38/+33 (1d8+21/&times&3)"
+melee = "Usher of the Black Rain (scythe) +56/+51/+46/+41 (2d4+29/19-20/×4), bite +46 (6d6+8 plus energy drain and disease), gore +46 (4d6+8)"
+ranged = "Usher of the Black Rain (longbow) +48/+43/+38/+33 (1d8+21/×3)"
 special_attacks = "breath of flies~disease~father of plagues"
 special_qualities = "Horseman traits"
 abilities = ["42", "27", "40", "31", "32", "33"]
@@ -86,10 +86,10 @@ disease, energy drain, petrification, poison
 
 **E Drain:** 1d4 levels, DC 38
 
-**Melee:** Usher of the Black Rain (scythe) +56/+51/+46/+41 (2d4+29/19-20/&times&4), bite +46 (6d6+8
-plus energy drain and disease), gore +46 (4d6+8)
+**Melee:** Usher of the Black Rain (scythe) +56/+51/+46/+41 (2d4+29/19-20/×4), bite +46 (6d6+8 plus
+energy drain and disease), gore +46 (4d6+8)
 
-**Ranged:** Usher of the Black Rain (longbow) +48/+43/+38/+33 (1d8+21/&times&3)
+**Ranged:** Usher of the Black Rain (longbow) +48/+43/+38/+33 (1d8+21/×3)
 
 **Spec Att:** breath of flies, disease, father of plagues
 

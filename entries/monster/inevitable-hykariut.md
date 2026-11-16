@@ -22,7 +22,7 @@ hp = "280~20d10+170"
 fortitude = "+23"
 reflex = "+10"
 will = "+23"
-melee = "+1 axiomatic warhammer +28/+23/+18/+13 (2d6+9/19-20/&times&3)"
+melee = "+1 axiomatic warhammer +28/+23/+18/+13 (2d6+9/19-20/×3)"
 special_attacks = "disperse the rabble~drastic measures~smite chaos 3/day (+8 damage)"
 special_qualities = "judicious"
 abilities = ["27", "10", "24", "15", "24", "27"]
@@ -73,7 +73,7 @@ hammer._
 
 **Speed:** 40 ft.
 
-**Melee:** +1 axiomatic warhammer +28/+23/+18/+13 (2d6+9/19-20/&times&3)
+**Melee:** +1 axiomatic warhammer +28/+23/+18/+13 (2d6+9/19-20/×3)
 
 **Reach:** 10
 

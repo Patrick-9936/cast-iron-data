@@ -23,7 +23,7 @@ hp = "30~4d8+12"
 fortitude = "+4"
 reflex = "+6"
 will = "+4"
-melee = "spear +6 (1d8+4/&times&3)"
+melee = "spear +6 (1d8+4/×3)"
 special_attacks = "sprint"
 abilities = ["17", "20", "16", "11", "10", "11"]
 +++
@@ -74,7 +74,7 @@ _This gaunt mermaid has a long, semi-transparent tail with a vivid red crest and
 
 **Speed:** 10 ft., swim 40 ft.
 
-**Melee:** spear +6 (1d8+4/&times&3)
+**Melee:** spear +6 (1d8+4/×3)
 
 **Sneak:** +2d6
 

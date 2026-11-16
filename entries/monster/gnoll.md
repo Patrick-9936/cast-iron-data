@@ -23,8 +23,8 @@ hp = "11~2d8+2"
 fortitude = "+4"
 reflex = "+0"
 will = "+0"
-melee = "spear +3 (1d8+3/&times&3)"
-ranged = "spear +1 (1d8+2/&times&3)"
+melee = "spear +3 (1d8+3/×3)"
+ranged = "spear +1 (1d8+2/×3)"
 abilities = ["15", "10", "13", "8", "11", "8"]
 +++
 
@@ -66,9 +66,9 @@ human._
 
 **Speed:** 30 ft.
 
-**Melee:** spear +3 (1d8+3/&times&3)
+**Melee:** spear +3 (1d8+3/×3)
 
-**Ranged:** spear +1 (1d8+2/&times&3)
+**Ranged:** spear +1 (1d8+2/×3)
 
 **Statistics**
 

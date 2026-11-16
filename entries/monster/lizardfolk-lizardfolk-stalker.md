@@ -24,7 +24,7 @@ fortitude = "+9"
 reflex = "+4"
 will = "+1"
 melee = "2 claws +6 (1d6+3), bite +4 (1d4+1)"
-ranged = "mwk longbow +5 (1d8/&times&3)"
+ranged = "mwk longbow +5 (1d8/×3)"
 special_attacks = "combat style (natural weapon)"
 special_qualities = "hold breath, track +1, wild empathy +1"
 abilities = ["17", "12", "17", "9", "12", "8"]
@@ -70,7 +70,7 @@ abilities = ["17", "12", "17", "9", "12", "8"]
 
 **Melee:** 2 claws +6 (1d6+3), bite +4 (1d4+1)
 
-**Ranged:** mwk longbow +5 (1d8/&times&3)
+**Ranged:** mwk longbow +5 (1d8/×3)
 
 **Spec Att:** combat style (natural weapon)
 

@@ -23,7 +23,7 @@ hp = "30~3d10+9"
 fortitude = "+5"
 reflex = "+0"
 will = "+1 (+1 vs. fear)"
-melee = "mwk spear +10 (1d8+9/&times&3) or falchion +9 (2d4+9/18-20)"
+melee = "mwk spear +10 (1d8+9/×3) or falchion +9 (2d4+9/18-20)"
 ranged = "javelin +2 (1d6+6)"
 special_qualities = "armor training 1, weapon familiarity"
 abilities = ["23", "8", "14", "8", "11", "10"]
@@ -73,7 +73,7 @@ abilities = ["23", "8", "14", "8", "11", "10"]
 
 **Speed:** 30 ft.
 
-**Melee:** mwk spear +10 (1d8+9/&times&3) or falchion +9 (2d4+9/18-20)
+**Melee:** mwk spear +10 (1d8+9/×3) or falchion +9 (2d4+9/18-20)
 
 **Ranged:** javelin +2 (1d6+6)
 

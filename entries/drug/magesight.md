@@ -22,7 +22,7 @@ kind = "none"
 
 **Price:** 15 gp
 
-**Effect:** 1d4 &times& 10 minutes; the user gains the benefits of a constant
+**Effect:** 1d4 × 10 minutes; the user gains the benefits of a constant
 [detect magic](ref/spell/detect-magic) effect, but she treats illumination in the area as
 [dim light](ref/rule/vision-and-light); areas of dim light and darkness are treated as darkness
 

@@ -23,7 +23,7 @@ hp = "136~9d12+72"
 fortitude = "+13"
 reflex = "+10"
 will = "+8"
-melee = "+1 greataxe +20/+15 (1d12+16/&times&3), bite +14 (1d4+5 plus energy drain), slam +15 (1d4+5 plus energy drain)"
+melee = "+1 greataxe +20/+15 (1d12+16/×3), bite +14 (1d4+5 plus energy drain), slam +15 (1d4+5 plus energy drain)"
 special_attacks = "blood drain~children of the night~create spawn~dominate (DC 20)~rage (24 rounds/day)~rage powers (animal fury, bleeding blow, no escape, powerful blow +3)"
 special_qualities = "change shape (dire bat or wolf; beast shape II), fast movement, gaseous form, orc blood, shadowless, spider climb"
 abilities = ["30", "18", "-", "10", "14", "22"]
@@ -87,8 +87,8 @@ abilities = ["30", "18", "-", "10", "14", "22"]
 
 **E Drain:** 2 levels, DC 20
 
-**Melee:** +1 greataxe +20/+15 (1d12+16/&times&3), bite +14 (1d4+5 plus energy drain), slam +15
-(1d4+5 plus energy drain)
+**Melee:** +1 greataxe +20/+15 (1d12+16/×3), bite +14 (1d4+5 plus energy drain), slam +15 (1d4+5
+plus energy drain)
 
 **Spec Att:** blood drain, children of the night, create spawn, dominate (DC 20), rage (24
 rounds/day), rage powers ([animal fury](ref/ragepower/animal-fury),

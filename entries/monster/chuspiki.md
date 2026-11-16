@@ -23,7 +23,7 @@ hp = "19~3d10+3"
 fortitude = "+4"
 reflex = "+6"
 will = "+0"
-melee = "tail fan +8 (1d4-2/&times&3)"
+melee = "tail fan +8 (1d4-2/×3)"
 ranged = "air blast +8 (2d6+3)"
 special_qualities = "basic aerokinesis"
 abilities = ["6", "17", "12", "12", "9", "13"]
@@ -70,7 +70,7 @@ currents on its fan-like tail._
 
 **Speed:** 30 ft., fly 60 ft. (perfect)
 
-**Melee:** tail fan +8 (1d4-2/&times&3)
+**Melee:** tail fan +8 (1d4-2/×3)
 
 **Ranged:** air blast +8 (2d6+3)
 

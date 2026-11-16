@@ -245,8 +245,8 @@ places within the city.
 
 **Modifies or Replaces:** Familiar; 2nd, 6th-level Hex
 
-**Description:** Known in Taldane as a &quot&battle witch,&quot& an ashiftah drifts like a phantom
-among the enemy armies, calling down disaster upon their heads and weakening their resolve.
+**Description:** Known in Taldane as a "battle witch," an ashiftah drifts like a phantom among the
+enemy armies, calling down disaster upon their heads and weakening their resolve.
 
 **Beast-Bonded**
 

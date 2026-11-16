@@ -23,7 +23,7 @@ hp = "187~15d10+105"
 fortitude = "+16"
 reflex = "+16"
 will = "+10"
-melee = "2 claws +22 (2d8+7/19-20/&times&3), 2 tentacles +20 (1d6+3 plus grab)"
+melee = "2 claws +22 (2d8+7/19-20/×3), 2 tentacles +20 (1d6+3 plus grab)"
 special_attacks = "tentacle cage (4d8+10 bludgeoning, AC 17, 18 hp)"
 special_qualities = "agile grappler"
 abilities = ["24", "25", "25", "22", "21", "20"]
@@ -76,7 +76,7 @@ a gown of writhing tendrils._
 
 **Speed:** 40 ft., fly 60 ft. (average)
 
-**Melee:** 2 claws +22 (2d8+7/19-20/&times&3), 2 tentacles +20 (1d6+3 plus [grab](ref/umr/grab))
+**Melee:** 2 claws +22 (2d8+7/19-20/×3), 2 tentacles +20 (1d6+3 plus [grab](ref/umr/grab))
 
 **Reach:** 5
 

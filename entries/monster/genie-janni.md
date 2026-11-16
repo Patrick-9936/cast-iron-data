@@ -23,7 +23,7 @@ fortitude = "+6"
 reflex = "+7"
 will = "+4"
 melee = "scimitar +9/+4 (1d6+4/18-20)"
-ranged = "composite longbow +8/+3 (1d8+3/&times&3)"
+ranged = "composite longbow +8/+3 (1d8+3/×3)"
 special_attacks = "change size"
 special_qualities = "elemental endurance"
 abilities = ["16", "15", "12", "14", "15", "13"]
@@ -72,7 +72,7 @@ strange light._
 
 **Melee:** scimitar +9/+4 (1d6+4/18-20)
 
-**Ranged:** composite longbow +8/+3 (1d8+3/&times&3)
+**Ranged:** composite longbow +8/+3 (1d8+3/×3)
 
 **Sp Extra:** 20 ft., fly 15 ft. (perfect) in chainmail
 

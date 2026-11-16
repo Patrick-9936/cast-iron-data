@@ -62,10 +62,10 @@ all undead normally, with no chance of failure.
 dies, the spirit walker can force the target's soul to remain in the body. The spirit walker can
 then control the target as if using [dominate person](ref/spell/dominate-person) for a number of
 rounds equal to 1/2 the spirit walker's class level. The creature gains a number of
-[temporary hit points](ref/rule/temporary-hit-points) equal to 2 &times& the spirit walker's class
-level and continues acting as though it were alive and conscious until it loses those temporary hit
-points or the duration expires. During this time, the creature counts as undead, but it can't be
-healed by negative energy.
+[temporary hit points](ref/rule/temporary-hit-points) equal to 2 × the spirit walker's class level
+and continues acting as though it were alive and conscious until it loses those temporary hit points
+or the duration expires. During this time, the creature counts as undead, but it can't be healed by
+negative energy.
 
 **At 14th Level:** The spirit walker can apply this ability to any type of target as if using
 [dominate monster](ref/spell/dominate-monster).

@@ -23,7 +23,7 @@ hp = "20~3d8+3"
 fortitude = "+5"
 reflex = "+1"
 will = "+5"
-melee = "battleaxe +5 (1d8+3/&times&3)"
+melee = "battleaxe +5 (1d8+3/×3)"
 ranged = "javelin +1 (1d6+3)"
 special_qualities = "weapon familiarity"
 abilities = ["17", "8", "12", "8", "13", "12"]
@@ -73,7 +73,7 @@ abilities = ["17", "8", "12", "8", "13", "12"]
 
 **Ch N En:** 4/day, DC 12, 2d6
 
-**Melee:** battleaxe +5 (1d8+3/&times&3)
+**Melee:** battleaxe +5 (1d8+3/×3)
 
 **Ranged:** javelin +1 (1d6+3)
 

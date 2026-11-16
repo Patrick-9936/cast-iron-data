@@ -84,8 +84,8 @@ _[planar ally](ref/spell/planar-ally),_ and a 8th level spell for
 _[greater planar ally](ref/spell/planar-ally-greater)_).
 
 The first time each day she casts one of these three spells, the worldseeker reduces the gp value of
-the material component cost by an amount equal to her caster level &times& 100 (to a minimum cost of
-0 gp).
+the material component cost by an amount equal to her caster level × 100 (to a minimum cost of 0
+gp).
 
 **Planar Redoubt (Sp)**
 

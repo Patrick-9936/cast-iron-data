@@ -24,7 +24,7 @@ fortitude = "+1"
 reflex = "+6"
 will = "+1; +2 vs. enchantment"
 melee = "short sword +2 (1d6+1/19-20)"
-ranged = "mwk shortbow +6 (1d6/&times&3 plus poison)"
+ranged = "mwk shortbow +6 (1d6/×3 plus poison)"
 special_qualities = "poison use, trapfinding +1"
 abilities = ["13", "17", "12", "10", "12", "10"]
 +++
@@ -79,7 +79,7 @@ _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes w
 
 **Melee:** short sword +2 (1d6+1/19-20)
 
-**Ranged:** mwk shortbow +6 (1d6/&times&3 plus poison)
+**Ranged:** mwk shortbow +6 (1d6/×3 plus poison)
 
 **Sneak:** +1d6
 

@@ -23,7 +23,7 @@ fortitude = "+15"
 reflex = "+20"
 will = "+17"
 melee = "+3 cold iron keen longsword +20/+20/+15 (1d8+12/17-20 plus bleed)"
-ranged = "+3 ironwood longbow +20/+20/+15 (1d8+3/&times&3 plus bleed)"
+ranged = "+3 ironwood longbow +20/+20/+15 (1d8+3/×3 plus bleed)"
 special_attacks = "ironwood mastery"
 special_qualities = "warrior fey"
 abilities = ["20", "25", "28", "19", "20", "21"]
@@ -84,7 +84,7 @@ _[protection from evil](ref/spell/protection-from-evil)_ and _law_
 **Melee:** +3 [cold iron](ref/eq-material/cold-iron) [keen](ref/magic-enh/keen) longsword
 +20/+20/+15 (1d8+12/17-20 plus bleed)
 
-**Ranged:** +3 ironwood longbow +20/+20/+15 (1d8+3/&times&3 plus bleed)
+**Ranged:** +3 ironwood longbow +20/+20/+15 (1d8+3/×3 plus bleed)
 
 **Spec Att:** ironwood mastery
 

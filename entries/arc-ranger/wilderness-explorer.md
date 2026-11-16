@@ -37,12 +37,12 @@ ability to influence a monstrous humanoid with 2 or lower Intelligence, but the 
 takes a -4 penalty on the check.
 
 **Passive:** A wilderness explorer gains the ability to communicate with creatures with which he
-doesn't share a common language. Only basic concepts can be conveyed or understood, such as &quot&I
-need help,&quot& &quot&I come in peace,&quot& &quot&Come over here,&quot& &quot&Go over there,&quot&
-and the like. This allows the wilderness explorer to ignore the common language requirement of
-social interaction and language-dependent spells and effects, but he can do so only when the
-information being shared is relatively simple. The creature with which the wilderness explorer
-communicates must understand at least one language for this ability to function.
+doesn't share a common language. Only basic concepts can be conveyed or understood, such as "I need
+help," "I come in peace," "Come over here," "Go over there," and the like. This allows the
+wilderness explorer to ignore the common language requirement of social interaction and
+language-dependent spells and effects, but he can do so only when the information being shared is
+relatively simple. The creature with which the wilderness explorer communicates must understand at
+least one language for this ability to function.
 
 **Replaces:** Wild empathy
 

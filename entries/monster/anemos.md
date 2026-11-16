@@ -23,7 +23,7 @@ hp = "341~22d10+220"
 fortitude = "+23"
 reflex = "+23"
 will = "+17"
-melee = "+5 shock thundering spear +31/+26/+21/+16 (1d8+11/19-20/&times&3 plus 1d6 electricity)"
+melee = "+5 shock thundering spear +31/+26/+21/+16 (1d8+11/19-20/×3 plus 1d6 electricity)"
 ranged = "thunderstorm blast +32 (20d6+30/19-20 bludgeoning) or electric blast +32 touch (10d6+5/19-20 electricity) or air blast +32 (10d6+20/19-20 half bludgeoning and half electricity)"
 special_attacks = "aerokinesis~infusions (chain, cloud, cyclone, extreme range, gusting infusion, pushing infusion, thundering infusion)~manifest thunderbolt~wind orchestra"
 special_qualities = "manifest thunderbolt, utility wild talents (air's reach, greater windsight, ride the blast, windsight), wind form"
@@ -86,7 +86,7 @@ along her skin._
 **Speed:** 30 ft., fly 480 ft. (perfect)
 
 **Melee:** +5 [shock](ref/magic-enh/shock) [thundering](ref/magic-enh/thundering) spear
-+31/+26/+21/+16 (1d8+11/19-20/&times&3 plus 1d6 electricity)
++31/+26/+21/+16 (1d8+11/19-20/×3 plus 1d6 electricity)
 
 **Ranged:** thunderstorm blast +32 (20d6+30/19-20 bludgeoning) or electric blast +32 touch
 (10d6+5/19-20 electricity) or air blast +32 (10d6+20/19-20 half bludgeoning and half electricity)

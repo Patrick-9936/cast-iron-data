@@ -22,7 +22,7 @@ hp = "344~28d10+190"
 fortitude = "+9"
 reflex = "+15"
 will = "+16"
-melee = "reaper +37 (3d6+11/&times&4), siege pick +37 (2d6+11/&times&4), wrecking ball +37 (3d6+11 plus stun), 2 slams +37 (1d8+11)"
+melee = "reaper +37 (3d6+11/×4), siege pick +37 (2d6+11/×4), wrecking ball +37 (3d6+11 plus stun), 2 slams +37 (1d8+11)"
 ranged = "4 automatic crossbow bolts +32 (3d8/19-20), rock +33 (3d6+11)"
 special_attacks = "warmonger weaponry"
 special_qualities = "fortified construction"
@@ -70,8 +70,8 @@ and a huge crossbow._
 
 **Speed:** 40 ft.
 
-**Melee:** reaper +37 (3d6+11/&times&4), siege pick +37 (2d6+11/&times&4), wrecking ball +37 (3d6+11
-plus stun), 2 slams +37 (1d8+11)
+**Melee:** reaper +37 (3d6+11/×4), siege pick +37 (2d6+11/×4), wrecking ball +37 (3d6+11 plus stun),
+2 slams +37 (1d8+11)
 
 **Ranged:** 4 automatic crossbow bolts +32 (3d8/19-20), rock +33 (3d6+11)
 

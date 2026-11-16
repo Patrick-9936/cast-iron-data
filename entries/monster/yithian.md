@@ -22,7 +22,7 @@ hp = "105~14d8+42"
 fortitude = "+9"
 reflex = "+5"
 will = "+15"
-melee = "2 pincers +15 (2d8+9/&times&3)"
+melee = "2 pincers +15 (2d8+9/×3)"
 special_attacks = "amnesia~deadly pincers~mind swap"
 special_qualities = "scholar"
 abilities = ["22", "13", "17", "24", "19", "18"]
@@ -73,7 +73,7 @@ a tentacled, spherical head._
 
 **Speed:** 20 ft., climb 10 ft.
 
-**Melee:** 2 pincers +15 (2d8+9/&times&3)
+**Melee:** 2 pincers +15 (2d8+9/×3)
 
 **Reach:** 10
 

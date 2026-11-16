@@ -35,11 +35,11 @@ mounts.
 
 **Savage Combatant (Ex)**
 
-**Info:** A saurian champion does not rely on lethal charges or firing from afar as more
-&quot&civilized&quot& cavaliers do, preferring to rampage among his foes instead. Saurian champions
-do not deal double damage when [charging](ref/rule/charge) with a [lance](ref/eq-weapon/lance) (or
-similar weapon) while mounted. While mounted, a saurian champion cannot attack with ranged weapons
-other than thrown weapons.
+**Info:** A saurian champion does not rely on lethal charges or firing from afar as more "civilized"
+cavaliers do, preferring to rampage among his foes instead. Saurian champions do not deal double
+damage when [charging](ref/rule/charge) with a [lance](ref/eq-weapon/lance) (or similar weapon)
+while mounted. While mounted, a saurian champion cannot attack with ranged weapons other than thrown
+weapons.
 
 **Titanic Challenge (Ex)**
 

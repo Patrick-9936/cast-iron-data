@@ -27,9 +27,9 @@ a departed spirit's body, and are sworn to destroying such beings.
 
 **Back to the Graves (Su)**
 
-**Ability:** When you cast cure spells (any spells with &quot&cure&quot& in their name) to deal
-damage to undead creatures, you add +2 points of damage per caster level instead of +1 point of
-damage per caster level. The maximum damage for each spell remains unchanged.
+**Ability:** When you cast cure spells (any spells with "cure" in their name) to deal damage to
+undead creatures, you add +2 points of damage per caster level instead of +1 point of damage per
+caster level. The maximum damage for each spell remains unchanged.
 
 **Hallowed Rite (Su)**
 

@@ -23,7 +23,7 @@ fortitude = "+18"
 reflex = "+23"
 will = "+21"
 melee = "+5 morningstar +28/+28/+23/+18 (1d8+20/19-20), hoof +17 (2d6+5)"
-ranged = "+5 composite longbow +27/+27/+22/+17 (1d8+13/&times&3)"
+ranged = "+5 composite longbow +27/+27/+22/+17 (1d8+13/×3)"
 special_attacks = "dramatic flourish~impossible verisimilitude~thyrsus"
 special_qualities = "versatile performance (act, comedy, dance, oratory, wind instruments)"
 abilities = ["31", "29", "32", "24", "26", "29"]
@@ -75,7 +75,7 @@ _This creature has the body of a middle-aged human man and the pointed ears and 
 
 **Melee:** +5 morningstar +28/+28/+23/+18 (1d8+20/19-20), hoof +17 (2d6+5)
 
-**Ranged:** +5 composite longbow +27/+27/+22/+17 (1d8+13/&times&3)
+**Ranged:** +5 composite longbow +27/+27/+22/+17 (1d8+13/×3)
 
 **Spec Att:** dramatic flourish, impossible verisimilitude, thyrsus
 

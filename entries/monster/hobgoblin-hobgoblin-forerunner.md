@@ -23,8 +23,8 @@ hp = "71~7d10+28"
 fortitude = "+8"
 reflex = "+5"
 will = "+4 (+2 vs. fear)"
-melee = "+1 bastard sword +13/+8 (1d10+5/19-20) or spear +10/+5 (1d8+4/&times&3)"
-ranged = "shortbow +9/+4 (1d6/&times&3)"
+melee = "+1 bastard sword +13/+8 (1d10+5/19-20) or spear +10/+5 (1d8+4/×3)"
+ranged = "shortbow +9/+4 (1d6/×3)"
 special_attacks = "weapon training (heavy blades +1)"
 special_qualities = "armor training 2"
 abilities = ["16", "14", "15", "10", "8", "14"]
@@ -73,9 +73,9 @@ eyes._
 
 **Speed:** 30 ft.
 
-**Melee:** +1 bastard sword +13/+8 (1d10+5/19-20) or spear +10/+5 (1d8+4/&times&3)
+**Melee:** +1 bastard sword +13/+8 (1d10+5/19-20) or spear +10/+5 (1d8+4/×3)
 
-**Ranged:** shortbow +9/+4 (1d6/&times&3)
+**Ranged:** shortbow +9/+4 (1d6/×3)
 
 **Spec Att:** weapon training (heavy blades +1)
 

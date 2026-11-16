@@ -23,7 +23,7 @@ hp = "15~1d10+5"
 fortitude = "+6"
 reflex = "+6"
 will = "+2"
-melee = "heavy pick +3 (1d4+1/&times&4)"
+melee = "heavy pick +3 (1d4+1/×4)"
 ranged = "light crossbow +4 (1d6/19-20)"
 special_attacks = "+1 to attack vs. dwarven and reptilian humanoids"
 special_qualities = "stonecunning, track, wild empathy +0"
@@ -75,7 +75,7 @@ expressive._
 
 **Fav En:** dwarf +2
 
-**Melee:** heavy pick +3 (1d4+1/&times&4)
+**Melee:** heavy pick +3 (1d4+1/×4)
 
 **Ranged:** light crossbow +4 (1d6/19-20)
 

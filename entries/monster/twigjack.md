@@ -22,7 +22,7 @@ hp = "27~5d6+10"
 fortitude = "+3"
 reflex = "+7"
 will = "+6"
-melee = "spear +3 (1d4-1/&times&3) or 2 claws +7 (1d4-1)"
+melee = "spear +3 (1d4-1/×3) or 2 claws +7 (1d4-1)"
 special_attacks = "splinterspray"
 special_qualities = "bramble jump, woodland stride"
 abilities = ["8", "16", "15", "11", "14", "13"]
@@ -67,7 +67,7 @@ thorny vines._
 
 **Speed:** 30 ft.
 
-**Melee:** spear +3 (1d4-1/&times&3) or 2 claws +7 (1d4-1)
+**Melee:** spear +3 (1d4-1/×3) or 2 claws +7 (1d4-1)
 
 **Reach:** 0
 

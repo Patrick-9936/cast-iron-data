@@ -23,9 +23,9 @@ group = "warpriest-blessing"
 [cowering](ref/misc/cowering), [frightened](ref/misc/frightened), [panicked](ref/misc/panicked), or
 [paralyzed](ref/rule/paralyzed) condition. That condition is suspended for 1 round, and the chosen
 creature gains the [confused](ref/misc/confused) condition instead. The confused creature rerolls
-any result other than &quot&attack self&quot& or &quot&attack nearest creature.&quot& The round
-spent confused counts toward the duration of the suspended effect. At the end of the confused round,
-the suspended condition resumes.
+any result other than "attack self" or "attack nearest creature." The round spent confused counts
+toward the duration of the suspended effect. At the end of the confused round, the suspended
+condition resumes.
 
 **Control Madness (major)**
 

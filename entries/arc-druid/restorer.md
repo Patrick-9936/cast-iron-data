@@ -33,9 +33,8 @@ aid, the bonus increases to +3.
 **Natural Medic**
 
 **Ability:** A restorer can channel stored spell energy into healing spells that she did not prepare
-ahead of time. The restorer can &quot&lose&quot& any prepared spell in order to cast any cure spell
-she can cast of the same spell level or lower (a _cure_ spell is any spell with &quot&cure&quot& in
-its name).
+ahead of time. The restorer can "lose" any prepared spell in order to cast any cure spell she can
+cast of the same spell level or lower (a _cure_ spell is any spell with "cure" in its name).
 
 **Replaces:** Spontaneous casting
 

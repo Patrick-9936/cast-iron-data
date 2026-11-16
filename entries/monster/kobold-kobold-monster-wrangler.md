@@ -23,7 +23,7 @@ hp = "17~2d10+2"
 fortitude = "+3"
 reflex = "+3"
 will = "+0"
-melee = "mwk lance +4 (1d6/&times&3)"
+melee = "mwk lance +4 (1d6/×3)"
 special_attacks = "challenge (+2, +1, 1/day)"
 special_qualities = "crafty, mount (cave salamander or slurk), order of the lion (lion's call), tactician (1/day, 4 rounds, standard action)"
 abilities = ["11", "16", "10", "8", "10", "13"]
@@ -71,7 +71,7 @@ _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth,
 
 **Speed:** 20 ft.
 
-**Melee:** mwk lance +4 (1d6/&times&3)
+**Melee:** mwk lance +4 (1d6/×3)
 
 **Spec Att:** challenge (+2, +1, 1/day)
 

@@ -76,6 +76,6 @@ this trick, the companion must be able to fly, and it must be outdoors or somepl
 for the bird to fly great distances in (a grand cathedral may have enough room, but dungeons usually
 do not). It spends a **full-round action** flying to a high vantage point, and on the next round
 makes a [charge](ref/rule/charge) attack upon an enemy the falconer designates. If that charge
-attack hits, the bird deals 2d4 points of damage instead of 1d4 with its bite and gains a &times&4
+attack hits, the bird deals 2d4 points of damage instead of 1d4 with its bite and gains a ×4
 critical modifier when making the attack. If the bird hits, the target is
 [staggered](ref/misc/staggered) for 1 round.

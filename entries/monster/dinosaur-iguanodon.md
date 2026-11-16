@@ -21,7 +21,7 @@ hp = "76~9d8+36"
 fortitude = "+10"
 reflex = "+8"
 will = "+4"
-melee = "2 claws +13 (1d8+8/&times&3)"
+melee = "2 claws +13 (1d8+8/×3)"
 special_attacks = "thumb spikes"
 abilities = ["27", "14", "19", "2", "12", "7"]
 +++
@@ -63,7 +63,7 @@ cruel-looking, thumb-like spike._
 
 **Speed:** 30 ft.
 
-**Melee:** 2 claws +13 (1d8+8/&times&3)
+**Melee:** 2 claws +13 (1d8+8/×3)
 
 **Reach:** 15
 

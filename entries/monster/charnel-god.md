@@ -23,7 +23,7 @@ fortitude = "+20"
 reflex = "+19"
 will = "+20"
 melee = "2 bites +37 (2d6+12), gore +37 (1d8+6), 2 slams +37 (1d6+12)"
-ranged = "+5 unholy composite longbow +42/+37/+32/+27 (2d6+17/19-20/&times&3)"
+ranged = "+5 unholy composite longbow +42/+37/+32/+27 (2d6+17/19-20/×3)"
 special_attacks = "severance"
 special_qualities = "divinity lost, favored weapon, hideous will"
 abilities = ["34", "33", "-", "27", "30", "35"]
@@ -82,8 +82,7 @@ looking longbow in her hands._
 
 **Melee:** 2 bites +37 (2d6+12), gore +37 (1d8+6), 2 slams +37 (1d6+12)
 
-**Ranged:** +5 [unholy](ref/magic-enh/unholy) composite longbow +42/+37/+32/+27
-(2d6+17/19-20/&times&3)
+**Ranged:** +5 [unholy](ref/magic-enh/unholy) composite longbow +42/+37/+32/+27 (2d6+17/19-20/×3)
 
 **Reach:** 10
 

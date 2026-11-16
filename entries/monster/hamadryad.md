@@ -23,7 +23,7 @@ fortitude = "+12"
 reflex = "+18"
 will = "+18"
 melee = "mwk dagger +16/+11 (1d4+5/19-20)"
-ranged = "+2 speed composite longbow +18/+18/+13 (1d8+7/&times&3)"
+ranged = "+2 speed composite longbow +18/+18/+13 (1d8+7/×3)"
 special_qualities = "druid magic, tree meld, wild empathy, woodcraft"
 abilities = ["12", "23", "23", "18", "19", "22"]
 +++
@@ -72,7 +72,7 @@ _This regal woman exhibits the grace and pride of the forest's most ancient tree
 
 **Melee:** mwk dagger +16/+11 (1d4+5/19-20)
 
-**Ranged:** +2 speed composite longbow +18/+18/+13 (1d8+7/&times&3)
+**Ranged:** +2 speed composite longbow +18/+18/+13 (1d8+7/×3)
 
 **Spell-Like Abilities**
 

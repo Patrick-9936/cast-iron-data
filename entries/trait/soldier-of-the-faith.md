@@ -17,9 +17,8 @@ category = "Regional"
 
 **Region:** Razmiran
 
-**Flavor:** You have served Razmir as a faithful enforcer, or upon one of the &quot&faith
-barges&quot& plying the waters of Lake Encarthan, and have learned the enforcement techniques of
-Razmiran.
+**Flavor:** You have served Razmir as a faithful enforcer, or upon one of the "faith barges" plying
+the waters of Lake Encarthan, and have learned the enforcement techniques of Razmiran.
 
 **Benefit:** You gain a +1 trait bonus on [Intimidate](ref/skill/intimidate) checks, and Intimidate
 is always a class skill for you.
