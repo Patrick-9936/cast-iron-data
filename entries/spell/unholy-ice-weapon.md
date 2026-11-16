@@ -17,7 +17,7 @@ page = "198"
 [fields]
 kind = "spell"
 school = "transmutation"
-descriptors = ["cold", "good", "water"]
+descriptors = ["cold", "evil", "water"]
 levels = [
   { class = "Cleric", level = 2 },
   { class = "Inquisitor", level = 2 },
@@ -25,7 +25,7 @@ levels = [
   { class = "Warpriest", level = 2 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (a flask of holy water, or 5 pounds of powdered silver worth 25 gp)"
+components = "V, S, M (a flask of unholy water, or 5 pounds of powdered silver worth 25 gp)"
 range = "0 ft."
 effects = [
   { label = "Effect", value = "one ice weapon" },
@@ -40,13 +40,13 @@ title = "Spell statistics"
 School: transmutation
 Level: 2: Cleric, Inquisitor, Oracle, Warpriest
 Casting time: 1 standard action
-Components: V, S, M (a flask of holy water, or 5 pounds of powdered silver worth 25 gp)
+Components: V, S, M (a flask of unholy water, or 5 pounds of powdered silver worth 25 gp)
 Range: 0 ft.
 Duration: 1 minute/level (D)
 Saving throw: none
 Spell resistance: no
 Effect: one ice weapon
-Descriptors: cold, good, water
+Descriptors: cold, evil, water
 :::
 
 ### Unholy Ice Weapon

@@ -18,19 +18,18 @@ page = "29"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Arcanist", level = 6 },
-  { class = "Cleric", level = 8 },
-  { class = "Occultist", level = 6 },
-  { class = "Oracle", level = 8 },
-  { class = "Psychic", level = 7 },
-  { class = "Sorcerer", level = 6 },
-  { class = "Wizard", level = 6 },
+  { class = "Cleric", level = 6 },
+  { class = "Druid", level = 6 },
+  { class = "Hunter", level = 6 },
+  { class = "Oracle", level = 6 },
+  { class = "Warpriest", level = 6 },
+  { class = "Witch", level = 6 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M/DF (pinch of powdered iron or iron fillings)"
-range = "10 ft."
+components = "V, S, M (an unworked lodestone)"
+range = "5 ft."
 effects = [
-  { label = "Area", value = "10-ft.-radius emanation, centered on you" },
+  { label = "Area", value = "5-ft.-radius emanation, centered on you" },
 ]
 duration = "10 minutes/level (D)"
 saving_throw = "none"
@@ -40,16 +39,14 @@ spell_resistance = "see text"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 6: Arcanist, Occultist, Sorcerer, Wizard\
-7: Psychic\
-8: Cleric, Oracle
+Level: 6: Cleric, Druid, Hunter, Oracle, Warpriest, Witch
 Casting time: 1 standard action
-Components: V, S, M/DF (pinch of powdered iron or iron fillings)
-Range: 10 ft.
+Components: V, S, M (an unworked lodestone)
+Range: 5 ft.
 Duration: 10 minutes/level (D)
 Saving throw: none
 Spell resistance: see text
-Area: 10-ft.-radius emanation, centered on you
+Area: 5-ft.-radius emanation, centered on you
 :::
 
 ### Source Severance

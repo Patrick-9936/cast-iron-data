@@ -18,22 +18,20 @@ page = "240"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Alchemist", level = 2 },
-  { class = "Arcanist", level = 2 },
-  { class = "Bloodrager", level = 2 },
-  { class = "Investigator", level = 2 },
-  { class = "Psychic", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Spiritualist", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Alchemist", level = 3 },
+  { class = "Arcanist", level = 3 },
+  { class = "Investigator", level = 3 },
+  { class = "Psychic", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, F (a piece of tortoiseshell or turtle shell)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "1 hour/level or until discharged"
 saving_throw = "Will negates (harmless)"
@@ -43,14 +41,14 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 2: Alchemist, Arcanist, Bloodrager, Investigator, Psychic, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Wizard
+Level: 3: Alchemist, Arcanist, Investigator, Psychic, Sorcerer, Summoner, Unchained Summoner, Wizard
 Casting time: 1 standard action
 Components: V, S, F (a piece of tortoiseshell or turtle shell)
 Range: touch
 Duration: 1 hour/level or until discharged
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Targets: creatures touched
 :::
 
 ### Communal Protection from Arrows

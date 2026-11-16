@@ -18,16 +18,8 @@ page = "181"
 kind = "spell"
 school = "illusion"
 subschools = ["Shadow"]
-descriptors = ["shadow"]
 levels = [
-  { class = "Arcanist", level = 7 },
-  { class = "Bard", level = 6 },
-  { class = "Mesmerist", level = 6 },
-  { class = "Occultist", level = 6 },
-  { class = "Psychic", level = 7 },
-  { class = "Skald", level = 6 },
-  { class = "Sorcerer", level = 7 },
-  { class = "Wizard", level = 7 },
+  { class = "Witch", level = 7 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a small replica of you worth 5 gp)"
@@ -43,8 +35,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: illusion
-Level: 6: Bard, Mesmerist, Occultist, Skald\
-7: Arcanist, Psychic, Sorcerer, Wizard
+Level: 7: Witch
 Casting time: 1 standard action
 Components: V, S, M (a small replica of you worth 5 gp)
 Range: medium (100 ft. + 10 ft./level)
@@ -53,7 +44,6 @@ Saving throw: Will disbelief (if interacted with)
 Spell resistance: no
 Effect: one shadow duplicate
 Subschool: Shadow
-Descriptors: shadow
 :::
 
 ### Familiar Double

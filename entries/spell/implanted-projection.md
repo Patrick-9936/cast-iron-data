@@ -20,9 +20,8 @@ school = "enchantment"
 subschools = ["Compulsion"]
 descriptors = ["emotion", "mind-affecting"]
 levels = [
-  { class = "Mesmerist", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Spiritualist", level = 1 },
+  { class = "Mesmerist", level = 3 },
+  { class = "Psychic", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
@@ -30,20 +29,20 @@ range = "medium (100 ft. + 10 ft./level)"
 effects = [
   { label = "Target", value = "one creature" },
 ]
-duration = "1 minute/level"
-saving_throw = "Will negates (see text)"
+duration = "1 day/level"
+saving_throw = "Will negates"
 spell_resistance = "yes"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: enchantment
-Level: 1: Mesmerist, Psychic, Spiritualist
+Level: 3: Mesmerist, Psychic
 Casting time: 1 standard action
 Components: V, S
 Range: medium (100 ft. + 10 ft./level)
-Duration: 1 minute/level
-Saving throw: Will negates (see text)
+Duration: 1 day/level
+Saving throw: Will negates
 Spell resistance: yes
 Target: one creature
 Subschool: Compulsion

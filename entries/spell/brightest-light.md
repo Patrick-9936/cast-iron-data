@@ -22,22 +22,22 @@ kind = "spell"
 school = "evocation"
 descriptors = ["light"]
 levels = [
-  { class = "Adept", level = 3 },
-  { class = "Arcanist", level = 3 },
-  { class = "Bard", level = 3 },
-  { class = "Cleric", level = 3 },
-  { class = "Druid", level = 3 },
-  { class = "Hunter", level = 3 },
-  { class = "Inquisitor", level = 3 },
-  { class = "Magus", level = 3 },
-  { class = "Occultist", level = 3 },
-  { class = "Oracle", level = 3 },
-  { class = "Paladin", level = 3 },
-  { class = "Shaman", level = 3 },
-  { class = "Skald", level = 3 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Warpriest", level = 3 },
-  { class = "Wizard", level = 3 },
+  { class = "Arcanist", level = 4 },
+  { class = "Bard", level = 4 },
+  { class = "Cleric", level = 4 },
+  { class = "Druid", level = 4 },
+  { class = "Hunter", level = 4 },
+  { class = "Inquisitor", level = 4 },
+  { class = "Magus", level = 4 },
+  { class = "Occultist", level = 4 },
+  { class = "Oracle", level = 4 },
+  { class = "Paladin", level = 4 },
+  { class = "Ranger", level = 4 },
+  { class = "Shaman", level = 4 },
+  { class = "Skald", level = 4 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Warpriest", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
@@ -45,7 +45,7 @@ range = "touch"
 effects = [
   { label = "Target", value = "object touched" },
 ]
-duration = "10 minutes/level (D)"
+duration = "1 hour/level (D)"
 saving_throw = "none"
 spell_resistance = "no"
 +++
@@ -53,11 +53,11 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: evocation
-Level: 3: Adept, Arcanist, Bard, Cleric, Druid, Hunter, Inquisitor, Magus, Occultist, Oracle, Paladin, Shaman, Skald, Sorcerer, Warpriest, Wizard
+Level: 4: Arcanist, Bard, Cleric, Druid, Hunter, Inquisitor, Magus, Occultist, Oracle, Paladin, Ranger, Shaman, Skald, Sorcerer, Warpriest, Wizard
 Casting time: 1 standard action
 Components: V, S
 Range: touch
-Duration: 10 minutes/level (D)
+Duration: 1 hour/level (D)
 Saving throw: none
 Spell resistance: no
 Target: object touched

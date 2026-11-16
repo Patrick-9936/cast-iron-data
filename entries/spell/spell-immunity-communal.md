@@ -18,21 +18,18 @@ page = "244"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Alchemist", level = 4 },
-  { class = "Cleric", level = 4 },
-  { class = "Inquisitor", level = 4 },
-  { class = "Investigator", level = 4 },
-  { class = "Occultist", level = 4 },
-  { class = "Oracle", level = 4 },
-  { class = "Psychic", level = 4 },
-  { class = "Spiritualist", level = 4 },
-  { class = "Warpriest", level = 4 },
+  { class = "Cleric", level = 5 },
+  { class = "Inquisitor", level = 5 },
+  { class = "Occultist", level = 5 },
+  { class = "Oracle", level = 5 },
+  { class = "Psychic", level = 5 },
+  { class = "Warpriest", level = 5 },
 ]
 casting_time = "1 standard action"
 components = "V, S, DF"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "10 minutes/level"
 saving_throw = "Will negates (harmless)"
@@ -42,14 +39,14 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 4: Alchemist, Cleric, Inquisitor, Investigator, Occultist, Oracle, Psychic, Spiritualist, Warpriest
+Level: 5: Cleric, Inquisitor, Occultist, Oracle, Psychic, Warpriest
 Casting time: 1 standard action
 Components: V, S, DF
 Range: touch
 Duration: 10 minutes/level
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Targets: creatures touched
 :::
 
 ### Communal Spell Immunity

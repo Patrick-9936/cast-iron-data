@@ -18,14 +18,14 @@ page = "237"
 kind = "spell"
 school = "transmutation"
 levels = [
-  { class = "Arcanist", level = 7 },
-  { class = "Cleric", level = 7 },
-  { class = "Druid", level = 7 },
-  { class = "Oracle", level = 7 },
-  { class = "Shaman", level = 7 },
-  { class = "Sorcerer", level = 7 },
-  { class = "Witch", level = 7 },
-  { class = "Wizard", level = 7 },
+  { class = "Arcanist", level = 8 },
+  { class = "Cleric", level = 8 },
+  { class = "Druid", level = 8 },
+  { class = "Oracle", level = 8 },
+  { class = "Shaman", level = 8 },
+  { class = "Sorcerer", level = 8 },
+  { class = "Witch", level = 8 },
+  { class = "Wizard", level = 8 },
 ]
 casting_time = "10 minutes; see text"
 components = "V, S"
@@ -41,7 +41,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 7: Arcanist, Cleric, Druid, Oracle, Shaman, Sorcerer, Witch, Wizard
+Level: 8: Arcanist, Cleric, Druid, Oracle, Shaman, Sorcerer, Witch, Wizard
 Casting time: 10 minutes; see text
 Components: V, S
 Range: 2 miles

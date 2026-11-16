@@ -19,7 +19,7 @@ kind = "spell"
 school = "necromancy"
 descriptors = ["mind-affecting"]
 levels = [
-  { class = "Psychic", level = 5 },
+  { class = "Psychic", level = 7 },
 ]
 casting_time = "1 standard action"
 components = "S"
@@ -35,7 +35,7 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: necromancy
-Level: 5: Psychic
+Level: 7: Psychic
 Casting time: 1 standard action
 Components: S
 Range: close (25 ft. + 5 ft./2 levels)

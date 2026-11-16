@@ -22,34 +22,39 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Summoning"]
 levels = [
-  { class = "Arcanist", level = 8 },
-  { class = "Psychic", level = 8 },
-  { class = "Sorcerer", level = 8 },
-  { class = "Witch", level = 8 },
-  { class = "Wizard", level = 8 },
+  { class = "Arcanist", level = 7 },
+  { class = "Cleric", level = 7 },
+  { class = "Oracle", level = 7 },
+  { class = "Psychic", level = 7 },
+  { class = "Shaman", level = 7 },
+  { class = "Sorcerer", level = 7 },
+  { class = "Spiritualist", level = 6 },
+  { class = "Witch", level = 7 },
+  { class = "Wizard", level = 7 },
 ]
-casting_time = "1 standard action or see text"
-components = "V, S, M (gem worth 1,000 gp per HD of the trapped creature)"
+casting_time = "1 standard action"
+components = "V, S, M (a gem worth 1,000 gp per HD of the targeted creature or soul)"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "one creature" },
+  { label = "Target", value = "one petitioner, incorporeal soul, or similar creature" },
 ]
-duration = "permanent; see text"
-saving_throw = "see text"
-spell_resistance = "yes; see text"
+duration = "permanent see text"
+saving_throw = "Will negates"
+spell_resistance = "yes (see text)"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 8: Arcanist, Psychic, Sorcerer, Witch, Wizard
-Casting time: 1 standard action or see text
-Components: V, S, M (gem worth 1,000 gp per HD of the trapped creature)
+Level: 6: Spiritualist\
+7: Arcanist, Cleric, Oracle, Psychic, Shaman, Sorcerer, Witch, Wizard
+Casting time: 1 standard action
+Components: V, S, M (a gem worth 1,000 gp per HD of the targeted creature or soul)
 Range: close (25 ft. + 5 ft./2 levels)
-Duration: permanent; see text
-Saving throw: see text
-Spell resistance: yes; see text
-Target: one creature
+Duration: permanent see text
+Saving throw: Will negates
+Spell resistance: yes (see text)
+Target: one petitioner, incorporeal soul, or similar creature
 Subschool: Summoning
 :::
 

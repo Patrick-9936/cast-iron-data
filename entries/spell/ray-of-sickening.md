@@ -21,14 +21,19 @@ page = "57"
 kind = "spell"
 school = "necromancy"
 levels = [
-  { class = "Arcanist", level = 3 },
-  { class = "Bloodrager", level = 3 },
-  { class = "Magus", level = 3 },
-  { class = "Mesmerist", level = 3 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Witch", level = 3 },
-  { class = "Wizard", level = 3 },
+  { class = "Arcanist", level = 1 },
+  { class = "Bloodrager", level = 1 },
+  { class = "Cleric", level = 1 },
+  { class = "Druid", level = 1 },
+  { class = "Hunter", level = 1 },
+  { class = "Mesmerist", level = 1 },
+  { class = "Oracle", level = 1 },
+  { class = "Sorcerer", level = 1 },
+  { class = "Summoner", level = 1 },
+  { class = "Unchained Summoner", level = 1 },
+  { class = "Warpriest", level = 1 },
+  { class = "Witch", level = 1 },
+  { class = "Wizard", level = 1 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a drop of sweat)"
@@ -37,19 +42,19 @@ effects = [
   { label = "Effect", value = "ray" },
 ]
 duration = "1 minute/level"
-saving_throw = "Fortitude partial; see text"
+saving_throw = "Fortitude partial, see text"
 spell_resistance = "yes"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: necromancy
-Level: 3: Arcanist, Bloodrager, Magus, Mesmerist, Sorcerer, Spiritualist, Witch, Wizard
+Level: 1: Arcanist, Bloodrager, Cleric, Druid, Hunter, Mesmerist, Oracle, Sorcerer, Summoner, Unchained Summoner, Warpriest, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S, M (a drop of sweat)
 Range: close (25 ft. + 5 ft./2 levels)
 Duration: 1 minute/level
-Saving throw: Fortitude partial; see text
+Saving throw: Fortitude partial, see text
 Spell resistance: yes
 Effect: ray
 :::

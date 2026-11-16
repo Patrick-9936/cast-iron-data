@@ -19,12 +19,10 @@ kind = "spell"
 school = "transmutation"
 subschools = ["Polymorph"]
 levels = [
-  { class = "Alchemist", level = 6 },
-  { class = "Arcanist", level = 6 },
-  { class = "Magus", level = 6 },
-  { class = "Psychic", level = 7 },
-  { class = "Sorcerer", level = 6 },
-  { class = "Wizard", level = 6 },
+  { class = "Arcanist", level = 8 },
+  { class = "Psychic", level = 9 },
+  { class = "Sorcerer", level = 8 },
+  { class = "Wizard", level = 8 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a scale of the dragon type you plan to assume)"
@@ -40,8 +38,8 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 6: Alchemist, Arcanist, Magus, Sorcerer, Wizard\
-7: Psychic
+Level: 8: Arcanist, Sorcerer, Wizard\
+9: Psychic
 Casting time: 1 standard action
 Components: V, S, M (a scale of the dragon type you plan to assume)
 Range: personal

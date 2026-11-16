@@ -20,15 +20,15 @@ school = "illusion"
 subschools = ["Glamer"]
 descriptors = ["glamer"]
 levels = [
-  { class = "Arcanist", level = 1 },
-  { class = "Bard", level = 1 },
-  { class = "Mesmerist", level = 1 },
-  { class = "Occultist", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Red Mantis Assassin", level = 1 },
-  { class = "Skald", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Arcanist", level = 2 },
+  { class = "Bard", level = 2 },
+  { class = "Mesmerist", level = 2 },
+  { class = "Occultist", level = 2 },
+  { class = "Psychic", level = 2 },
+  { class = "Red Mantis Assassin", level = 2 },
+  { class = "Skald", level = 2 },
+  { class = "Sorcerer", level = 2 },
+  { class = "Wizard", level = 2 },
 ]
 casting_time = "1 standard action"
 components = "V, S, F (a small square of silk that must be passed over the object that receives the aura)"
@@ -37,19 +37,19 @@ effects = [
   { label = "Target", value = "one touched object weighing up to 5 lbs./level" },
 ]
 duration = "1 day/level (D)"
-saving_throw = "none; see text"
+saving_throw = "none (see text)"
 spell_resistance = "no"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: illusion
-Level: 1: Arcanist, Bard, Mesmerist, Occultist, Psychic, Red Mantis Assassin, Skald, Sorcerer, Wizard
+Level: 2: Arcanist, Bard, Mesmerist, Occultist, Psychic, Red Mantis Assassin, Skald, Sorcerer, Wizard
 Casting time: 1 standard action
 Components: V, S, F (a small square of silk that must be passed over the object that receives the aura)
 Range: touch
 Duration: 1 day/level (D)
-Saving throw: none; see text
+Saving throw: none (see text)
 Spell resistance: no
 Target: one touched object weighing up to 5 lbs./level
 Subschool: Glamer

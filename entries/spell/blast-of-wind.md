@@ -19,20 +19,17 @@ kind = "spell"
 school = "evocation"
 descriptors = ["air"]
 levels = [
-  { class = "Arcanist", level = 2 },
-  { class = "Bloodrager", level = 2 },
-  { class = "Druid", level = 2 },
-  { class = "Hunter", level = 2 },
-  { class = "Magus", level = 2 },
-  { class = "Occultist", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 4 },
+  { class = "Druid", level = 4 },
+  { class = "Hunter", level = 4 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
 range = "60 ft."
 effects = [
-  { label = "Effect", value = "line-shaped gust of severe wind emanating out from you to the extreme of the range" },
+  { label = "Effect", value = "line-shaped blast of hurricane-force wind emanating out from you to the extreme of the range" },
 ]
 duration = "1 round"
 saving_throw = "Fortitude negates"
@@ -42,14 +39,14 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: evocation
-Level: 2: Arcanist, Bloodrager, Druid, Hunter, Magus, Occultist, Sorcerer, Wizard
+Level: 4: Arcanist, Druid, Hunter, Sorcerer, Wizard
 Casting time: 1 standard action
 Components: V, S
 Range: 60 ft.
 Duration: 1 round
 Saving throw: Fortitude negates
 Spell resistance: yes
-Effect: line-shaped gust of severe wind emanating out from you to the extreme of the range
+Effect: line-shaped blast of hurricane-force wind emanating out from you to the extreme of the range
 Descriptors: air
 :::
 

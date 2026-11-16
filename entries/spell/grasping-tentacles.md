@@ -19,16 +19,13 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Creation"]
 levels = [
-  { class = "Arcanist", level = 4 },
-  { class = "Bloodrager", level = 4 },
-  { class = "Magus", level = 4 },
-  { class = "Psychic", level = 4 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Spiritualist", level = 4 },
+  { class = "Arcanist", level = 3 },
+  { class = "Bloodrager", level = 3 },
+  { class = "Magus", level = 3 },
+  { class = "Sorcerer", level = 3 },
   { class = "Summoner", level = 3 },
-  { class = "Unchained Summoner", level = 4 },
-  { class = "Witch", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Witch", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (octopus or squid tentacle)"
@@ -44,8 +41,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 3: Summoner\
-4: Arcanist, Bloodrager, Magus, Psychic, Sorcerer, Spiritualist, Unchained Summoner, Witch, Wizard
+Level: 3: Arcanist, Bloodrager, Magus, Sorcerer, Summoner, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S, M (octopus or squid tentacle)
 Range: medium (100 ft. + 10 ft./level)

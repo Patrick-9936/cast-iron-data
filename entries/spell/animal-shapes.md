@@ -19,37 +19,31 @@ kind = "spell"
 school = "transmutation"
 subschools = ["Polymorph"]
 levels = [
-  { class = "Alchemist", level = 3 },
-  { class = "Arcanist", level = 3 },
-  { class = "Bloodrager", level = 3 },
-  { class = "Investigator", level = 3 },
-  { class = "Magus", level = 3 },
-  { class = "Red Mantis Assassin", level = 3 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Wizard", level = 3 },
+  { class = "Druid", level = 8 },
+  { class = "Shaman", level = 8 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (a piece of the creature whose form you plan to assume)"
-range = "personal"
+components = "V, S, DF"
+range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "you" },
+  { label = "Targets", value = "up to one willing creature per level, all within 30 ft. of each other" },
 ]
-duration = "1 minute/level (D)"
-saving_throw = "none"
-spell_resistance = "no"
+duration = "1 hour/level (D)"
+saving_throw = "none, see text"
+spell_resistance = "yes"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 3: Alchemist, Arcanist, Bloodrager, Investigator, Magus, Red Mantis Assassin, Sorcerer, Wizard
+Level: 8: Druid, Shaman
 Casting time: 1 standard action
-Components: V, S, M (a piece of the creature whose form you plan to assume)
-Range: personal
-Duration: 1 minute/level (D)
-Saving throw: none
-Spell resistance: no
-Target: you
+Components: V, S, DF
+Range: close (25 ft. + 5 ft./2 levels)
+Duration: 1 hour/level (D)
+Saving throw: none, see text
+Spell resistance: yes
+Targets: up to one willing creature per level, all within 30 ft. of each other
 Subschool: Polymorph
 :::
 

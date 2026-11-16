@@ -16,37 +16,38 @@ page = "223"
 
 [fields]
 kind = "spell"
-school = "transmutation"
+school = "conjuration"
+subschools = ["Healing"]
 levels = [
-  { class = "Druid", level = 4 },
-  { class = "Hunter", level = 4 },
-  { class = "Medium", level = 4 },
-  { class = "Shaman", level = 4 },
-  { class = "Witch", level = 5 },
+  { class = "Druid", level = 6 },
+  { class = "Hunter", level = 6 },
+  { class = "Shaman", level = 6 },
+  { class = "Witch", level = 7 },
 ]
 casting_time = "10 minutes"
-components = "V, S, DF, M (oils worth 1,000 gp)"
+components = "V, S, DF, M (oils worth 2,500 gp and a possession or piece of the body of the creature to resemble)"
 range = "touch"
 effects = [
   { label = "Target", value = "dead creature touched" },
 ]
 duration = "instantaneous"
-saving_throw = "none, see text"
+saving_throw = "none (see text)"
 spell_resistance = "yes"
 +++
 
 ::: statblock
 title = "Spell statistics"
-School: transmutation
-Level: 4: Druid, Hunter, Medium, Shaman\
-5: Witch
+School: conjuration
+Level: 6: Druid, Hunter, Shaman\
+7: Witch
 Casting time: 10 minutes
-Components: V, S, DF, M (oils worth 1,000 gp)
+Components: V, S, DF, M (oils worth 2,500 gp and a possession or piece of the body of the creature to resemble)
 Range: touch
 Duration: instantaneous
-Saving throw: none, see text
+Saving throw: none (see text)
 Spell resistance: yes
 Target: dead creature touched
+Subschool: Healing
 :::
 
 ### Reincarnate Spy

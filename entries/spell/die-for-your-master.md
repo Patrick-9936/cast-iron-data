@@ -15,16 +15,15 @@ relations = [
 kind = "spell"
 school = "enchantment"
 subschools = ["Compulsion"]
-descriptors = ["mind-affecting"]
 levels = [
-  { class = "Antipaladin", level = 2 },
-  { class = "Arcanist", level = 3 },
-  { class = "Druid", level = 3 },
-  { class = "Hunter", level = 3 },
-  { class = "Ranger", level = 3 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Witch", level = 3 },
-  { class = "Wizard", level = 3 },
+  { class = "Antipaladin", level = 4 },
+  { class = "Arcanist", level = 5 },
+  { class = "Druid", level = 5 },
+  { class = "Hunter", level = 5 },
+  { class = "Ranger", level = 5 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Witch", level = 5 },
+  { class = "Wizard", level = 5 },
 ]
 casting_time = "1 immediate action"
 components = "V, S"
@@ -40,8 +39,8 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: enchantment
-Level: 2: Antipaladin\
-3: Arcanist, Druid, Hunter, Ranger, Sorcerer, Witch, Wizard
+Level: 4: Antipaladin\
+5: Arcanist, Druid, Hunter, Ranger, Sorcerer, Witch, Wizard
 Casting time: 1 immediate action
 Components: V, S
 Range: touch
@@ -50,7 +49,6 @@ Saving throw: none
 Spell resistance: no
 Target: your animal companion, familiar, or fiendish servant
 Subschool: Compulsion
-Descriptors: mind-affecting
 :::
 
 ### Die for Your Master

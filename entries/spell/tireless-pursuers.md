@@ -18,32 +18,33 @@ page = "249"
 kind = "spell"
 school = "transmutation"
 levels = [
-  { class = "Hunter", level = 1 },
-  { class = "Inquisitor", level = 1 },
-  { class = "Ranger", level = 1 },
+  { class = "Hunter", level = 3 },
+  { class = "Inquisitor", level = 4 },
+  { class = "Ranger", level = 3 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (a hard biscuit)"
-range = "personal"
+components = "V, S, M (a hard biscuit broken into pieces)"
+range = "touch"
 effects = [
-  { label = "Target", value = "you" },
+  { label = "Target", value = "you plus one touched creature/3 levels" },
 ]
 duration = "1 hour/level (D)"
-saving_throw = "none"
-spell_resistance = "no"
+saving_throw = "Fortitude negates (harmless)"
+spell_resistance = "yes (harmless)"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 1: Hunter, Inquisitor, Ranger
+Level: 3: Hunter, Ranger\
+4: Inquisitor
 Casting time: 1 standard action
-Components: V, S, M (a hard biscuit)
-Range: personal
+Components: V, S, M (a hard biscuit broken into pieces)
+Range: touch
 Duration: 1 hour/level (D)
-Saving throw: none
-Spell resistance: no
-Target: you
+Saving throw: Fortitude negates (harmless)
+Spell resistance: yes (harmless)
+Target: you plus one touched creature/3 levels
 :::
 
 ### Tireless Pursuers

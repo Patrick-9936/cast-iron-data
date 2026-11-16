@@ -18,25 +18,24 @@ page = "114"
 kind = "spell"
 school = "evocation"
 levels = [
-  { class = "Arcanist", level = 2 },
-  { class = "Cleric", level = 2 },
-  { class = "Medium", level = 1 },
-  { class = "Occultist", level = 2 },
-  { class = "Oracle", level = 2 },
-  { class = "Psychic", level = 2 },
-  { class = "Shaman", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Warpriest", level = 2 },
-  { class = "Witch", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 7 },
+  { class = "Cleric", level = 7 },
+  { class = "Medium", level = 4 },
+  { class = "Occultist", level = 6 },
+  { class = "Oracle", level = 7 },
+  { class = "Psychic", level = 7 },
+  { class = "Shaman", level = 7 },
+  { class = "Sorcerer", level = 7 },
+  { class = "Summoner", level = 6 },
+  { class = "Unchained Summoner", level = 6 },
+  { class = "Witch", level = 7 },
+  { class = "Wizard", level = 7 },
 ]
 casting_time = "1 minute"
 components = "V, S, M (see text)"
-range = "100 miles"
+range = "500 miles"
 effects = [
-  { label = "Target", value = "up to 20 entities of 6 HD or fewer; see text" },
+  { label = "Target", value = "up to 20 entities of 24 HD or fewer" },
 ]
 duration = "instantaneous"
 saving_throw = "none"
@@ -46,15 +45,16 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: evocation
-Level: 1: Medium\
-2: Arcanist, Cleric, Occultist, Oracle, Psychic, Shaman, Sorcerer, Summoner, Unchained Summoner, Warpriest, Witch, Wizard
+Level: 4: Medium\
+6: Occultist, Summoner, Unchained Summoner\
+7: Arcanist, Cleric, Oracle, Psychic, Shaman, Sorcerer, Witch, Wizard
 Casting time: 1 minute
 Components: V, S, M (see text)
-Range: 100 miles
+Range: 500 miles
 Duration: instantaneous
 Saving throw: none
 Spell resistance: no
-Target: up to 20 entities of 6 HD or fewer; see text
+Target: up to 20 entities of 24 HD or fewer
 :::
 
 ### Contact Entity IV

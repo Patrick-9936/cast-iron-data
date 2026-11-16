@@ -18,7 +18,7 @@ page = "190"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Psychic", level = 5 },
+  { class = "Psychic", level = 9 },
 ]
 casting_time = "1 immediate action"
 components = "V"
@@ -26,7 +26,7 @@ range = "10 ft."
 effects = [
   { label = "Area", value = "10-ft.-radius emanation centered on you" },
 ]
-duration = "1 round"
+duration = "5 rounds"
 saving_throw = "none"
 spell_resistance = "yes"
 +++
@@ -34,11 +34,11 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 5: Psychic
+Level: 9: Psychic
 Casting time: 1 immediate action
 Components: V
 Range: 10 ft.
-Duration: 1 round
+Duration: 5 rounds
 Saving throw: none
 Spell resistance: yes
 Area: 10-ft.-radius emanation centered on you

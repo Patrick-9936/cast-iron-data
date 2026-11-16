@@ -19,41 +19,39 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Creation"]
 levels = [
-  { class = "Arcanist", level = 3 },
   { class = "Bloodrager", level = 3 },
-  { class = "Bard", level = 3 },
-  { class = "Magus", level = 3 },
-  { class = "Occultist", level = 3 },
-  { class = "Skald", level = 3 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Wizard", level = 3 },
+  { class = "Cleric", level = 4 },
+  { class = "Druid", level = 4 },
+  { class = "Hunter", level = 4 },
+  { class = "Oracle", level = 4 },
+  { class = "Paladin", level = 3 },
+  { class = "Shaman", level = 4 },
+  { class = "Warpriest", level = 4 },
+  { class = "Witch", level = 4 },
 ]
 casting_time = "10 minutes"
 components = "V, S"
 range = "0 ft."
 effects = [
-  { label = "Effect", value = "one quasi-real, horse-like creature" },
+  { label = "Effect", value = "one quasi-real creature suitable for a mount" },
 ]
 duration = "1 hour/level (D)"
-saving_throw = "none"
+saving_throw = "none, see text"
 spell_resistance = "no"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 2: Summoner, Unchained Summoner\
-3: Arcanist, Bloodrager, Bard, Magus, Occultist, Skald, Sorcerer, Spiritualist, Wizard
+Level: 3: Bloodrager, Paladin\
+4: Cleric, Druid, Hunter, Oracle, Shaman, Warpriest, Witch
 Casting time: 10 minutes
 Components: V, S
 Range: 0 ft.
 Duration: 1 hour/level (D)
-Saving throw: none
+Saving throw: none, see text
 Spell resistance: no
-Effect: one quasi-real, horse-like creature
+Effect: one quasi-real creature suitable for a mount
 Subschool: Creation
 :::
 

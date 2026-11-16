@@ -16,24 +16,24 @@ page = "352"
 
 [fields]
 kind = "spell"
-school = "conjuration [see text]"
+school = "conjuration"
 subschools = ["Summoning"]
 levels = [
-  { class = "Antipaladin", level = 1 },
-  { class = "Arcanist", level = 1 },
-  { class = "Bard", level = 1 },
-  { class = "Cleric", level = 1 },
-  { class = "Medium", level = 1 },
-  { class = "Oracle", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Skald", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Spiritualist", level = 1 },
-  { class = "Summoner", level = 1 },
-  { class = "Unchained Summoner", level = 1 },
-  { class = "Warpriest", level = 1 },
-  { class = "Witch", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Antipaladin", level = 4 },
+  { class = "Arcanist", level = 4 },
+  { class = "Bard", level = 4 },
+  { class = "Cleric", level = 4 },
+  { class = "Medium", level = 3 },
+  { class = "Oracle", level = 4 },
+  { class = "Psychic", level = 4 },
+  { class = "Skald", level = 4 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Spiritualist", level = 4 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Warpriest", level = 4 },
+  { class = "Witch", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "1 round"
 components = "V, S, F/DF (a tiny bag and a small candle)"
@@ -48,8 +48,9 @@ spell_resistance = "no"
 
 ::: statblock
 title = "Spell statistics"
-School: conjuration \[see text\]
-Level: 1: Antipaladin, Arcanist, Bard, Cleric, Medium, Oracle, Psychic, Skald, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Warpriest, Witch, Wizard
+School: conjuration
+Level: 3: Medium, Summoner, Unchained Summoner\
+4: Antipaladin, Arcanist, Bard, Cleric, Oracle, Psychic, Skald, Sorcerer, Spiritualist, Warpriest, Witch, Wizard
 Casting time: 1 round
 Components: V, S, F/DF (a tiny bag and a small candle)
 Range: close (25 ft. + 5 ft./2 levels)

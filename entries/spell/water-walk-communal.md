@@ -19,21 +19,18 @@ kind = "spell"
 school = "transmutation"
 descriptors = ["water"]
 levels = [
-  { class = "Cleric", level = 3 },
-  { class = "Hunter", level = 3 },
-  { class = "Medium", level = 2 },
-  { class = "Oracle", level = 3 },
-  { class = "Psychic", level = 3 },
-  { class = "Ranger", level = 3 },
-  { class = "Shaman", level = 3 },
-  { class = "Warpriest", level = 3 },
-  { class = "Witch", level = 3 },
+  { class = "Cleric", level = 2 },
+  { class = "Hunter", level = 2 },
+  { class = "Oracle", level = 2 },
+  { class = "Psychic", level = 4 },
+  { class = "Ranger", level = 2 },
+  { class = "Warpriest", level = 2 },
 ]
 casting_time = "1 standard action"
 components = "V, S, DF"
 range = "touch"
 effects = [
-  { label = "Targets", value = "one touched creature/level" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "10 minutes/level (D)"
 saving_throw = "Will negates (harmless)"
@@ -43,15 +40,15 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 2: Medium\
-3: Cleric, Hunter, Oracle, Psychic, Ranger, Shaman, Warpriest, Witch
+Level: 2: Cleric, Hunter, Oracle, Ranger, Warpriest\
+4: Psychic
 Casting time: 1 standard action
 Components: V, S, DF
 Range: touch
 Duration: 10 minutes/level (D)
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Targets: one touched creature/level
+Targets: creatures touched
 Descriptors: water
 :::
 

@@ -16,22 +16,20 @@ page = "210"
 
 [fields]
 kind = "spell"
-school = "transmutation"
-descriptors = ["language-dependant"]
+school = "enchantment"
+subschools = ["Compulsion"]
+descriptors = ["language-dependant", "mind-affecting"]
 levels = [
-  { class = "Arcanist", level = 0 },
-  { class = "Bard", level = 0 },
-  { class = "Medium", level = 0 },
-  { class = "Mesmerist", level = 0 },
-  { class = "Occultist", level = 0 },
-  { class = "Psychic", level = 0 },
-  { class = "Skald", level = 0 },
-  { class = "Sorcerer", level = 0 },
-  { class = "Spiritualist", level = 0 },
-  { class = "Summoner", level = 0 },
-  { class = "Unchained Summoner", level = 0 },
-  { class = "Witch", level = 0 },
-  { class = "Wizard", level = 0 },
+  { class = "Arcanist", level = 4 },
+  { class = "Bard", level = 3 },
+  { class = "Medium", level = 3 },
+  { class = "Mesmerist", level = 3 },
+  { class = "Occultist", level = 4 },
+  { class = "Psychic", level = 3 },
+  { class = "Skald", level = 3 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Witch", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "1 standard action"
 components = "V, S, F (a piece of copper wire)"
@@ -39,23 +37,25 @@ range = "medium (100 ft. + 10 ft./level)"
 effects = [
   { label = "Targets", value = "one creature/level" },
 ]
-duration = "10 minutes/level"
-saving_throw = "none"
-spell_resistance = "no"
+duration = "10 minutes/level, then 1 hour/level or until completed (d); see text"
+saving_throw = "Will negates (see text)"
+spell_resistance = "yes; see text"
 +++
 
 ::: statblock
 title = "Spell statistics"
-School: transmutation
-Level: 0: Arcanist, Bard, Medium, Mesmerist, Occultist, Psychic, Skald, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Witch, Wizard
+School: enchantment
+Level: 3: Bard, Medium, Mesmerist, Psychic, Skald\
+4: Arcanist, Occultist, Sorcerer, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S, F (a piece of copper wire)
 Range: medium (100 ft. + 10 ft./level)
-Duration: 10 minutes/level
-Saving throw: none
-Spell resistance: no
+Duration: 10 minutes/level, then 1 hour/level or until completed (d); see text
+Saving throw: Will negates (see text)
+Spell resistance: yes; see text
 Targets: one creature/level
-Descriptors: language-dependant
+Subschool: Compulsion
+Descriptors: language-dependant, mind-affecting
 :::
 
 ### Demanding Message

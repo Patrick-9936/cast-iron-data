@@ -19,19 +19,16 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Calling"]
 levels = [
-  { class = "Bard", level = 4 },
-  { class = "Druid", level = 5 },
-  { class = "Hunter", level = 4 },
-  { class = "Medium", level = 3 },
-  { class = "Ranger", level = 4 },
-  { class = "Shaman", level = 5 },
-  { class = "Skald", level = 4 },
+  { class = "Bard", level = 6 },
+  { class = "Druid", level = 7 },
+  { class = "Shaman", level = 7 },
+  { class = "Skald", level = 6 },
 ]
 casting_time = "10 minutes"
-components = "V, S, DF, M (offerings worth 500 gp plus payment, see text)"
+components = "V, S, DF, M (offerings worth 1,250 gp plus payment)"
 range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Effect", value = "one called fey, with 6 Hit Dice or fewer" },
+  { label = "Effect", value = "one or two called fey, totaling no more than 12 Hit Dice, which can't appear more than 30 ft. apart" },
 ]
 duration = "instantaneous"
 saving_throw = "none"
@@ -41,16 +38,15 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 3: Medium\
-4: Bard, Hunter, Ranger, Skald\
-5: Druid, Shaman
+Level: 6: Bard, Skald\
+7: Druid, Shaman
 Casting time: 10 minutes
-Components: V, S, DF, M (offerings worth 500 gp plus payment, see text)
+Components: V, S, DF, M (offerings worth 1,250 gp plus payment)
 Range: close (25 ft. + 5 ft./2 levels)
 Duration: instantaneous
 Saving throw: none
 Spell resistance: no
-Effect: one called fey, with 6 Hit Dice or fewer
+Effect: one or two called fey, totaling no more than 12 Hit Dice, which can't appear more than 30 ft. apart
 Subschool: Calling
 :::
 

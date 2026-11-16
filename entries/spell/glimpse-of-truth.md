@@ -18,53 +18,49 @@ page = "215"
 kind = "spell"
 school = "divination"
 levels = [
-  { class = "Adept", level = 5 },
-  { class = "Alchemist", level = 6 },
-  { class = "Arcanist", level = 6 },
-  { class = "Cleric", level = 5 },
-  { class = "Druid", level = 7 },
-  { class = "Inquisitor", level = 5 },
-  { class = "Investigator", level = 6 },
-  { class = "Magus", level = 6 },
-  { class = "Medium", level = 4 },
-  { class = "Mesmerist", level = 6 },
-  { class = "Occultist", level = 5 },
-  { class = "Oracle", level = 5 },
-  { class = "Psychic", level = 5 },
-  { class = "Shaman", level = 5 },
-  { class = "Sorcerer", level = 6 },
-  { class = "Spiritualist", level = 6 },
-  { class = "Summoner", level = 5 },
-  { class = "Unchained Summoner", level = 6 },
-  { class = "Warpriest", level = 5 },
-  { class = "Witch", level = 6 },
-  { class = "Wizard", level = 6 },
+  { class = "Alchemist", level = 5 },
+  { class = "Arcanist", level = 5 },
+  { class = "Cleric", level = 4 },
+  { class = "Druid", level = 5 },
+  { class = "Hunter", level = 5 },
+  { class = "Inquisitor", level = 4 },
+  { class = "Investigator", level = 5 },
+  { class = "Magus", level = 5 },
+  { class = "Medium", level = 3 },
+  { class = "Occultist", level = 4 },
+  { class = "Oracle", level = 4 },
+  { class = "Psychic", level = 4 },
+  { class = "Shaman", level = 4 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Spiritualist", level = 5 },
+  { class = "Warpriest", level = 4 },
+  { class = "Witch", level = 5 },
+  { class = "Wizard", level = 5 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (an eye ointment that costs 250 gp)"
-range = "touch"
+components = "V, S, M (a tourmaline costing 50 gp)"
+range = "personal"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Target", value = "you" },
 ]
-duration = "1 minute/level"
-saving_throw = "Will negates (harmless)"
-spell_resistance = "yes (harmless)"
+duration = "1 round"
+saving_throw = "none"
+spell_resistance = "no"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 4: Medium\
-5: Adept, Cleric, Inquisitor, Occultist, Oracle, Psychic, Shaman, Summoner, Warpriest\
-6: Alchemist, Arcanist, Investigator, Magus, Mesmerist, Sorcerer, Spiritualist, Unchained Summoner, Witch, Wizard\
-7: Druid
+Level: 3: Medium\
+4: Cleric, Inquisitor, Occultist, Oracle, Psychic, Shaman, Warpriest\
+5: Alchemist, Arcanist, Druid, Hunter, Investigator, Magus, Sorcerer, Spiritualist, Witch, Wizard
 Casting time: 1 standard action
-Components: V, S, M (an eye ointment that costs 250 gp)
-Range: touch
-Duration: 1 minute/level
-Saving throw: Will negates (harmless)
-Spell resistance: yes (harmless)
-Target: creature touched
+Components: V, S, M (a tourmaline costing 50 gp)
+Range: personal
+Duration: 1 round
+Saving throw: none
+Spell resistance: no
+Target: you
 :::
 
 ### Glimpse of Truth

@@ -19,45 +19,44 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Teleportation"]
 levels = [
-  { class = "Arcanist", level = 7 },
-  { class = "Cleric", level = 5 },
-  { class = "Medium", level = 4 },
-  { class = "Oracle", level = 5 },
-  { class = "Psychic", level = 5 },
-  { class = "Shaman", level = 7 },
-  { class = "Sorcerer", level = 7 },
-  { class = "Spiritualist", level = 5 },
+  { class = "Arcanist", level = 6 },
+  { class = "Cleric", level = 4 },
+  { class = "Medium", level = 3 },
+  { class = "Oracle", level = 4 },
+  { class = "Psychic", level = 4 },
+  { class = "Shaman", level = 6 },
+  { class = "Sorcerer", level = 6 },
   { class = "Summoner", level = 5 },
-  { class = "Unchained Summoner", level = 6 },
-  { class = "Warpriest", level = 5 },
-  { class = "Witch", level = 7 },
-  { class = "Wizard", level = 7 },
+  { class = "Unchained Summoner", level = 5 },
+  { class = "Warpriest", level = 4 },
+  { class = "Witch", level = 6 },
+  { class = "Wizard", level = 6 },
 ]
 casting_time = "1 standard action"
 components = "V, S, F (a forked metal rod attuned to the plane of travel)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched, or up to eight willing creatures joining hands" },
+  { label = "Target", value = "Up to eight willing creatures joining hands" },
 ]
 duration = "instantaneous"
-saving_throw = "Will negates"
-spell_resistance = "yes"
+saving_throw = "Will negates (harmless)"
+spell_resistance = "yes (harmless)"
 +++
 
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 4: Medium\
-5: Cleric, Oracle, Psychic, Spiritualist, Summoner, Warpriest\
-6: Unchained Summoner\
-7: Arcanist, Shaman, Sorcerer, Witch, Wizard
+Level: 3: Medium\
+4: Cleric, Oracle, Psychic, Warpriest\
+5: Summoner, Unchained Summoner\
+6: Arcanist, Shaman, Sorcerer, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S, F (a forked metal rod attuned to the plane of travel)
 Range: touch
 Duration: instantaneous
-Saving throw: Will negates
-Spell resistance: yes
-Target: creature touched, or up to eight willing creatures joining hands
+Saving throw: Will negates (harmless)
+Spell resistance: yes (harmless)
+Target: Up to eight willing creatures joining hands
 Subschool: Teleportation
 :::
 

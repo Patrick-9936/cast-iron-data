@@ -19,29 +19,25 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Healing"]
 levels = [
-  { class = "Adept", level = 2 },
-  { class = "Alchemist", level = 2 },
-  { class = "Bard", level = 2 },
-  { class = "Cleric", level = 2 },
-  { class = "Druid", level = 2 },
-  { class = "Hunter", level = 1 },
-  { class = "Inquisitor", level = 2 },
-  { class = "Investigator", level = 2 },
-  { class = "Mesmerist", level = 2 },
-  { class = "Occultist", level = 2 },
-  { class = "Oracle", level = 2 },
-  { class = "Paladin", level = 2 },
-  { class = "Ranger", level = 1 },
-  { class = "Shaman", level = 2 },
-  { class = "Skald", level = 2 },
-  { class = "Warpriest", level = 2 },
-  { class = "Witch", level = 2 },
+  { class = "Alchemist", level = 3 },
+  { class = "Bard", level = 3 },
+  { class = "Cleric", level = 3 },
+  { class = "Druid", level = 3 },
+  { class = "Hunter", level = 3 },
+  { class = "Inquisitor", level = 3 },
+  { class = "Investigator", level = 3 },
+  { class = "Oracle", level = 3 },
+  { class = "Paladin", level = 3 },
+  { class = "Ranger", level = 3 },
+  { class = "Skald", level = 3 },
+  { class = "Warpriest", level = 3 },
+  { class = "Witch", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, DF"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "1 hour/level"
 saving_throw = "Fortitude negates (harmless)"
@@ -51,15 +47,14 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 1: Hunter, Ranger\
-2: Adept, Alchemist, Bard, Cleric, Druid, Inquisitor, Investigator, Mesmerist, Occultist, Oracle, Paladin, Shaman, Skald, Warpriest, Witch
+Level: 3: Alchemist, Bard, Cleric, Druid, Hunter, Inquisitor, Investigator, Oracle, Paladin, Ranger, Skald, Warpriest, Witch
 Casting time: 1 standard action
 Components: V, S, DF
 Range: touch
 Duration: 1 hour/level
 Saving throw: Fortitude negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Targets: creatures touched
 Subschool: Healing
 :::
 

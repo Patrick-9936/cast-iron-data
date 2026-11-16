@@ -18,23 +18,23 @@ page = "179"
 kind = "spell"
 school = "necromancy"
 levels = [
-  { class = "Arcanist", level = 4 },
-  { class = "Medium", level = 2 },
-  { class = "Mesmerist", level = 3 },
-  { class = "Occultist", level = 2 },
-  { class = "Psychic", level = 3 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Witch", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Arcanist", level = 5 },
+  { class = "Medium", level = 4 },
+  { class = "Mesmerist", level = 5 },
+  { class = "Occultist", level = 4 },
+  { class = "Psychic", level = 5 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Spiritualist", level = 5 },
+  { class = "Witch", level = 5 },
+  { class = "Wizard", level = 5 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
-range = "touch"
+range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "unattended Tiny or Small object" },
+  { label = "Target", value = "unattended Large or smaller object (minimum Tiny)" },
 ]
-duration = "1 minute/level (D)"
+duration = "10 minutes/level (D)"
 saving_throw = "none"
 spell_resistance = "no"
 +++
@@ -42,16 +42,15 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: necromancy
-Level: 2: Medium, Occultist\
-3: Mesmerist, Psychic, Spiritualist\
-4: Arcanist, Sorcerer, Witch, Wizard
+Level: 4: Medium, Occultist\
+5: Arcanist, Mesmerist, Psychic, Sorcerer, Spiritualist, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S
-Range: touch
-Duration: 1 minute/level (D)
+Range: close (25 ft. + 5 ft./2 levels)
+Duration: 10 minutes/level (D)
 Saving throw: none
 Spell resistance: no
-Target: unattended Tiny or Small object
+Target: unattended Large or smaller object (minimum Tiny)
 :::
 
 ### Object Possession

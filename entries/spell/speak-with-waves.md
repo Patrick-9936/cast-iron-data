@@ -17,10 +17,10 @@ page = "14"
 [fields]
 kind = "spell"
 school = "divination"
+descriptors = ["water"]
 levels = [
   { class = "Druid", level = 6 },
   { class = "Hunter", level = 6 },
-  { class = "Psychic", level = 6 },
   { class = "Shaman", level = 7 },
 ]
 casting_time = "10 minutes"
@@ -37,7 +37,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 6: Druid, Hunter, Psychic\
+Level: 6: Druid, Hunter\
 7: Shaman
 Casting time: 10 minutes
 Components: V, S, DF
@@ -46,6 +46,7 @@ Duration: 1 minute/level
 Saving throw: none
 Spell resistance: no
 Target: you
+Descriptors: water
 :::
 
 ### Speak with Waves

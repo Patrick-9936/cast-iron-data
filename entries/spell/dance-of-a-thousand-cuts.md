@@ -18,8 +18,8 @@ page = "216"
 kind = "spell"
 school = "transmutation"
 levels = [
-  { class = "Bard", level = 4 },
-  { class = "Skald", level = 4 },
+  { class = "Bard", level = 6 },
+  { class = "Skald", level = 6 },
 ]
 casting_time = "1 standard action"
 components = "V"
@@ -35,7 +35,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 4: Bard, Skald
+Level: 6: Bard, Skald
 Casting time: 1 standard action
 Components: V
 Range: personal

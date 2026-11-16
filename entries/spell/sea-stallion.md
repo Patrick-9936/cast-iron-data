@@ -19,10 +19,10 @@ kind = "spell"
 school = "transmutation"
 subschools = ["Polymorph"]
 levels = [
-  { class = "Druid", level = 2 },
-  { class = "Hunter", level = 2 },
-  { class = "Paladin", level = 2 },
-  { class = "Ranger", level = 2 },
+  { class = "Druid", level = 4 },
+  { class = "Hunter", level = 4 },
+  { class = "Paladin", level = 4 },
+  { class = "Ranger", level = 4 },
 ]
 casting_time = "1 standard action"
 components = "V, S, DF"
@@ -38,7 +38,7 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 2: Druid, Hunter, Paladin, Ranger
+Level: 4: Druid, Hunter, Paladin, Ranger
 Casting time: 1 standard action
 Components: V, S, DF
 Range: touch

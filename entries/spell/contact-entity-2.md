@@ -18,25 +18,25 @@ page = "113"
 kind = "spell"
 school = "evocation"
 levels = [
-  { class = "Arcanist", level = 2 },
-  { class = "Cleric", level = 2 },
-  { class = "Medium", level = 1 },
-  { class = "Occultist", level = 2 },
-  { class = "Oracle", level = 2 },
-  { class = "Psychic", level = 2 },
-  { class = "Shaman", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Warpriest", level = 2 },
-  { class = "Witch", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Arcanist", level = 3 },
+  { class = "Cleric", level = 3 },
+  { class = "Medium", level = 2 },
+  { class = "Occultist", level = 3 },
+  { class = "Oracle", level = 3 },
+  { class = "Psychic", level = 3 },
+  { class = "Shaman", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Warpriest", level = 3 },
+  { class = "Witch", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 minute"
 components = "V, S, M (see text)"
-range = "100 miles"
+range = "200 miles"
 effects = [
-  { label = "Target", value = "up to 20 entities of 6 HD or fewer; see text" },
+  { label = "Target", value = "up to 20 entities of 12 HD or fewer" },
 ]
 duration = "instantaneous"
 saving_throw = "none"
@@ -46,15 +46,15 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: evocation
-Level: 1: Medium\
-2: Arcanist, Cleric, Occultist, Oracle, Psychic, Shaman, Sorcerer, Summoner, Unchained Summoner, Warpriest, Witch, Wizard
+Level: 2: Medium\
+3: Arcanist, Cleric, Occultist, Oracle, Psychic, Shaman, Sorcerer, Summoner, Unchained Summoner, Warpriest, Witch, Wizard
 Casting time: 1 minute
 Components: V, S, M (see text)
-Range: 100 miles
+Range: 200 miles
 Duration: instantaneous
 Saving throw: none
 Spell resistance: no
-Target: up to 20 entities of 6 HD or fewer; see text
+Target: up to 20 entities of 12 HD or fewer
 :::
 
 ### Contact Entity II

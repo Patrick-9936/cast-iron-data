@@ -18,14 +18,14 @@ page = "193"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Arcanist", level = 4 },
-  { class = "Cleric", level = 4 },
-  { class = "Oracle", level = 4 },
-  { class = "Psychic", level = 4 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Warpriest", level = 4 },
-  { class = "Witch", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Arcanist", level = 6 },
+  { class = "Cleric", level = 6 },
+  { class = "Oracle", level = 6 },
+  { class = "Psychic", level = 6 },
+  { class = "Sorcerer", level = 6 },
+  { class = "Warpriest", level = 6 },
+  { class = "Witch", level = 6 },
+  { class = "Wizard", level = 6 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
@@ -41,7 +41,7 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 4: Arcanist, Cleric, Oracle, Psychic, Sorcerer, Warpriest, Witch, Wizard
+Level: 6: Arcanist, Cleric, Oracle, Psychic, Sorcerer, Warpriest, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S
 Range: medium (100 ft. + 10 ft./level)

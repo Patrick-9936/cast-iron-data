@@ -17,7 +17,7 @@ page = "308"
 [fields]
 kind = "spell"
 school = "abjuration"
-descriptors = ["good"]
+descriptors = ["lawful"]
 levels = [
   { class = "Arcanist", level = 3 },
   { class = "Cleric", level = 3 },
@@ -56,7 +56,7 @@ Duration: 10 minutes/level
 Saving throw: Will negates (harmless)
 Spell resistance: no; see text
 Area: 10-ft.-radius emanation from touched creature
-Descriptors: good
+Descriptors: lawful
 :::
 
 ### Magic Circle Against Chaos

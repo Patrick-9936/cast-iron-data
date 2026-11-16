@@ -16,13 +16,13 @@ page = "354"
 
 [fields]
 kind = "spell"
-school = "conjuration"
+school = "conjuration [see text]"
 subschools = ["Summoning"]
 levels = [
-  { class = "Druid", level = 1 },
-  { class = "Hunter", level = 1 },
-  { class = "Ranger", level = 1 },
-  { class = "Shaman", level = 1 },
+  { class = "Druid", level = 3 },
+  { class = "Hunter", level = 3 },
+  { class = "Ranger", level = 3 },
+  { class = "Shaman", level = 3 },
 ]
 casting_time = "1 round"
 components = "V, S, DF"
@@ -37,8 +37,8 @@ spell_resistance = "no"
 
 ::: statblock
 title = "Spell statistics"
-School: conjuration
-Level: 1: Druid, Hunter, Ranger, Shaman
+School: conjuration \[see text\]
+Level: 3: Druid, Hunter, Ranger, Shaman
 Casting time: 1 round
 Components: V, S, DF
 Range: close (25 ft. + 5 ft./2 levels)

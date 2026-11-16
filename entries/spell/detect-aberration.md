@@ -22,7 +22,6 @@ levels = [
   { class = "Hunter", level = 1 },
   { class = "Psychic", level = 1 },
   { class = "Ranger", level = 1 },
-  { class = "Shaman", level = 1 },
 ]
 casting_time = "1 standard action"
 components = "V, S"
@@ -38,7 +37,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 1: Druid, Hunter, Psychic, Ranger, Shaman
+Level: 1: Druid, Hunter, Psychic, Ranger
 Casting time: 1 standard action
 Components: V, S
 Range: long (400 ft. + 40 ft./level)

@@ -20,22 +20,24 @@ page = "12"
 [fields]
 kind = "spell"
 school = "conjuration"
-subschools = ["Creation", "Calling"]
+subschools = ["Creation"]
 levels = [
-  { class = "Arcanist", level = 9 },
-  { class = "Cleric", level = 9 },
-  { class = "Oracle", level = 9 },
-  { class = "Psychic", level = 9 },
-  { class = "Sorcerer", level = 9 },
-  { class = "Wizard", level = 9 },
+  { class = "Arcanist", level = 8 },
+  { class = "Bard", level = 6 },
+  { class = "Cleric", level = 8 },
+  { class = "Druid", level = 8 },
+  { class = "Oracle", level = 8 },
+  { class = "Skald", level = 6 },
+  { class = "Sorcerer", level = 8 },
+  { class = "Summoner", level = 6 },
+  { class = "Unchained Summoner", level = 6 },
+  { class = "Witch", level = 8 },
+  { class = "Wizard", level = 8 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (see text)"
-range = "medium (100 ft. + 10 ft./level)"
-effects = [
-  { label = "Effect", value = "see text" },
-]
-duration = "instantaneous or concentration (up to 1 round/level); see text"
+components = "V, S"
+range = "close (25 ft. + 5 ft./2 levels)"
+duration = "1 round/level; see text"
 saving_throw = "none"
 spell_resistance = "no"
 +++
@@ -43,15 +45,15 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 9: Arcanist, Cleric, Oracle, Psychic, Sorcerer, Wizard
+Level: 6: Bard, Skald, Summoner, Unchained Summoner\
+8: Arcanist, Cleric, Druid, Oracle, Sorcerer, Witch, Wizard
 Casting time: 1 standard action
-Components: V, S, M (see text)
-Range: medium (100 ft. + 10 ft./level)
-Duration: instantaneous or concentration (up to 1 round/level); see text
+Components: V, S
+Range: close (25 ft. + 5 ft./2 levels)
+Duration: 1 round/level; see text
 Saving throw: none
 Spell resistance: no
-Effect: see text
-Subschool: Creation, Calling
+Subschool: Creation
 :::
 
 ### Fey Gate

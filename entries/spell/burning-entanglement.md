@@ -16,35 +16,36 @@ page = "140"
 
 [fields]
 kind = "spell"
-school = "transmutation"
+school = "evocation"
 levels = [
-  { class = "Druid", level = 1 },
-  { class = "Hunter", level = 1 },
-  { class = "Ranger", level = 1 },
-  { class = "Shaman", level = 1 },
+  { class = "Druid", level = 3 },
+  { class = "Hunter", level = 3 },
+  { class = "Ranger", level = 3 },
+  { class = "Shaman", level = 3 },
+  { class = "Witch", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, DF"
 range = "long (400 ft. + 40 ft./level)"
 effects = [
-  { label = "Area", value = "plants in a 40-ft.-radius spread" },
+  { label = "Area", value = "40-ft.-radius spread" },
 ]
-duration = "1 minute/level (D)"
-saving_throw = "Reflex partial; see text"
+duration = "1 round/level"
+saving_throw = "Reflex negates or partial (see text)"
 spell_resistance = "no"
 +++
 
 ::: statblock
 title = "Spell statistics"
-School: transmutation
-Level: 1: Druid, Hunter, Ranger, Shaman
+School: evocation
+Level: 3: Druid, Hunter, Ranger, Shaman, Witch
 Casting time: 1 standard action
 Components: V, S, DF
 Range: long (400 ft. + 40 ft./level)
-Duration: 1 minute/level (D)
-Saving throw: Reflex partial; see text
+Duration: 1 round/level
+Saving throw: Reflex negates or partial (see text)
 Spell resistance: no
-Area: plants in a 40-ft.-radius spread
+Area: 40-ft.-radius spread
 :::
 
 ### Burning Entanglement

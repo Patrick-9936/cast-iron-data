@@ -18,31 +18,25 @@ page = "240"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Alchemist", level = 3 },
-  { class = "Arcanist", level = 3 },
-  { class = "Bloodrager", level = 3 },
-  { class = "Cleric", level = 3 },
-  { class = "Druid", level = 3 },
-  { class = "Hunter", level = 2 },
-  { class = "Inquisitor", level = 3 },
-  { class = "Investigator", level = 3 },
-  { class = "Occultist", level = 3 },
-  { class = "Oracle", level = 3 },
-  { class = "Psychic", level = 3 },
-  { class = "Ranger", level = 2 },
-  { class = "Shaman", level = 3 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Summoner", level = 3 },
-  { class = "Unchained Summoner", level = 3 },
-  { class = "Warpriest", level = 3 },
-  { class = "Wizard", level = 3 },
+  { class = "Arcanist", level = 4 },
+  { class = "Cleric", level = 4 },
+  { class = "Druid", level = 4 },
+  { class = "Hunter", level = 3 },
+  { class = "Inquisitor", level = 4 },
+  { class = "Oracle", level = 4 },
+  { class = "Psychic", level = 4 },
+  { class = "Ranger", level = 3 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Summoner", level = 4 },
+  { class = "Unchained Summoner", level = 4 },
+  { class = "Warpriest", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "1 standard action"
 components = "V, S, DF"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "10 min./level or until discharged"
 saving_throw = "Fortitude negates (harmless)"
@@ -52,15 +46,15 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 2: Hunter, Ranger\
-3: Alchemist, Arcanist, Bloodrager, Cleric, Druid, Inquisitor, Investigator, Occultist, Oracle, Psychic, Shaman, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Warpriest, Wizard
+Level: 3: Hunter, Ranger\
+4: Arcanist, Cleric, Druid, Inquisitor, Oracle, Psychic, Sorcerer, Summoner, Unchained Summoner, Warpriest, Wizard
 Casting time: 1 standard action
 Components: V, S, DF
 Range: touch
 Duration: 10 min./level or until discharged
 Saving throw: Fortitude negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Targets: creatures touched
 :::
 
 ### Communal Protection from Energy

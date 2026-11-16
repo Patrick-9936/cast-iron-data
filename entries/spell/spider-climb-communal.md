@@ -18,27 +18,24 @@ page = "245"
 kind = "spell"
 school = "transmutation"
 levels = [
-  { class = "Alchemist", level = 2 },
-  { class = "Arcanist", level = 2 },
-  { class = "Bloodrager", level = 2 },
-  { class = "Druid", level = 2 },
-  { class = "Hunter", level = 2 },
-  { class = "Investigator", level = 2 },
-  { class = "Magus", level = 2 },
-  { class = "Medium", level = 2 },
-  { class = "Occultist", level = 2 },
-  { class = "Psychic", level = 2 },
-  { class = "Red Mantis Assassin", level = 2 },
-  { class = "Sorcerer", level = 2 },
-  { class = "Summoner", level = 2 },
-  { class = "Unchained Summoner", level = 2 },
-  { class = "Wizard", level = 2 },
+  { class = "Alchemist", level = 3 },
+  { class = "Arcanist", level = 3 },
+  { class = "Druid", level = 3 },
+  { class = "Hunter", level = 3 },
+  { class = "Investigator", level = 3 },
+  { class = "Occultist", level = 3 },
+  { class = "Psychic", level = 3 },
+  { class = "Red Mantis Assassin", level = 3 },
+  { class = "Sorcerer", level = 3 },
+  { class = "Summoner", level = 3 },
+  { class = "Unchained Summoner", level = 3 },
+  { class = "Wizard", level = 3 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a live spider)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Target", value = "creatures touched" },
 ]
 duration = "10 minutes/level"
 saving_throw = "Will negates (harmless)"
@@ -48,14 +45,14 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 2: Alchemist, Arcanist, Bloodrager, Druid, Hunter, Investigator, Magus, Medium, Occultist, Psychic, Red Mantis Assassin, Sorcerer, Summoner, Unchained Summoner, Wizard
+Level: 3: Alchemist, Arcanist, Druid, Hunter, Investigator, Occultist, Psychic, Red Mantis Assassin, Sorcerer, Summoner, Unchained Summoner, Wizard
 Casting time: 1 standard action
 Components: V, S, M (a live spider)
 Range: touch
 Duration: 10 minutes/level
 Saving throw: Will negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Target: creatures touched
 :::
 
 ### Communal Spider Climb

@@ -20,21 +20,16 @@ school = "enchantment"
 subschools = ["Compulsion"]
 descriptors = ["mind-affecting"]
 levels = [
-  { class = "Antipaladin", level = 4 },
-  { class = "Arcanist", level = 7 },
-  { class = "Bard", level = 5 },
-  { class = "Mesmerist", level = 5 },
-  { class = "Psychic", level = 7 },
-  { class = "Sorcerer", level = 7 },
-  { class = "Wizard", level = 7 },
+  { class = "Antipaladin", level = 1 },
+  { class = "Mesmerist", level = 1 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (a tarnished coin)"
-range = "medium (100 ft. + 10 ft./level)"
+components = "V, S, M (a slit purse)"
+range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Target", value = "one creature/level, no two of which can be more than 30 ft. apart" },
+  { label = "Target", value = "one creature" },
 ]
-duration = "1 round/level (D)"
+duration = "1 round"
 saving_throw = "Will negates"
 spell_resistance = "yes"
 +++
@@ -42,16 +37,14 @@ spell_resistance = "yes"
 ::: statblock
 title = "Spell statistics"
 School: enchantment
-Level: 4: Antipaladin\
-5: Bard, Mesmerist\
-7: Arcanist, Psychic, Sorcerer, Wizard
+Level: 1: Antipaladin, Mesmerist
 Casting time: 1 standard action
-Components: V, S, M (a tarnished coin)
-Range: medium (100 ft. + 10 ft./level)
-Duration: 1 round/level (D)
+Components: V, S, M (a slit purse)
+Range: close (25 ft. + 5 ft./2 levels)
+Duration: 1 round
 Saving throw: Will negates
 Spell resistance: yes
-Target: one creature/level, no two of which can be more than 30 ft. apart
+Target: one creature
 Subschool: Compulsion
 Descriptors: mind-affecting
 :::

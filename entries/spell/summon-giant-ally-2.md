@@ -19,8 +19,7 @@ kind = "spell"
 school = "conjuration [see text]"
 subschools = ["Summoning"]
 levels = [
-  { class = "Druid", level = 6 },
-  { class = "Hunter", level = 6 },
+  { class = "Druid", level = 7 },
 ]
 casting_time = "1 standard action"
 components = "V, S, F/DF (bit of cloth from a giant's bag)"
@@ -36,7 +35,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration \[see text\]
-Level: 6: Druid, Hunter
+Level: 7: Druid
 Casting time: 1 standard action
 Components: V, S, F/DF (bit of cloth from a giant's bag)
 Range: close (25 ft. + 5 ft./2 levels)

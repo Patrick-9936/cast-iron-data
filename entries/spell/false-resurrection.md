@@ -17,7 +17,8 @@ page = "214"
 [fields]
 kind = "spell"
 school = "conjuration"
-subschools = ["Healing"]
+subschools = ["Calling"]
+descriptors = ["chaotic", "evil", "ruse"]
 levels = [
   { class = "Cleric", level = 7 },
   { class = "Oracle", level = 7 },
@@ -30,8 +31,8 @@ range = "touch"
 effects = [
   { label = "Target", value = "dead creature touched" },
 ]
-duration = "instantaneous"
-saving_throw = "none, see text"
+duration = "1 day/level"
+saving_throw = "none"
 spell_resistance = "yes"
 +++
 
@@ -43,11 +44,12 @@ Level: 7: Cleric, Oracle\
 Casting time: 1 minute
 Components: V, S, DF, M (diamond worth 10,000 gp)
 Range: touch
-Duration: instantaneous
-Saving throw: none, see text
+Duration: 1 day/level
+Saving throw: none
 Spell resistance: yes
 Target: dead creature touched
-Subschool: Healing
+Subschool: Calling
+Descriptors: chaotic, evil, ruse
 :::
 
 ### False Resurrection

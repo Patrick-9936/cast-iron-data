@@ -18,28 +18,19 @@ page = "238"
 kind = "spell"
 school = "abjuration"
 levels = [
-  { class = "Alchemist", level = 3 },
-  { class = "Antipaladin", level = 3 },
-  { class = "Arcanist", level = 3 },
-  { class = "Hunter", level = 4 },
-  { class = "Inquisitor", level = 3 },
-  { class = "Investigator", level = 3 },
-  { class = "Medium", level = 2 },
-  { class = "Mesmerist", level = 3 },
-  { class = "Occultist", level = 3 },
-  { class = "Psychic", level = 3 },
-  { class = "Ranger", level = 4 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Summoner", level = 3 },
-  { class = "Unchained Summoner", level = 3 },
-  { class = "Wizard", level = 3 },
+  { class = "Antipaladin", level = 4 },
+  { class = "Arcanist", level = 4 },
+  { class = "Mesmerist", level = 4 },
+  { class = "Occultist", level = 4 },
+  { class = "Psychic", level = 4 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "1 standard action"
-components = "V, S, M (diamond dust worth 50 gp)"
+components = "V, S, M (diamond dust worth 25 gp per target)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature or object touched" },
+  { label = "Targets", value = "creatures or objects touched" },
 ]
 duration = "1 hour/level"
 saving_throw = "Will negates (harmless) (object)"
@@ -49,16 +40,14 @@ spell_resistance = "yes (harmless) (object)"
 ::: statblock
 title = "Spell statistics"
 School: abjuration
-Level: 2: Medium\
-3: Alchemist, Antipaladin, Arcanist, Inquisitor, Investigator, Mesmerist, Occultist, Psychic, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Wizard\
-4: Hunter, Ranger
+Level: 4: Antipaladin, Arcanist, Mesmerist, Occultist, Psychic, Sorcerer, Wizard
 Casting time: 1 standard action
-Components: V, S, M (diamond dust worth 50 gp)
+Components: V, S, M (diamond dust worth 25 gp per target)
 Range: touch
 Duration: 1 hour/level
 Saving throw: Will negates (harmless) (object)
 Spell resistance: yes (harmless) (object)
-Target: creature or object touched
+Targets: creatures or objects touched
 :::
 
 ### Communal Nondetection

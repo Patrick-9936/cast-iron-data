@@ -18,29 +18,28 @@ page = "223"
 kind = "spell"
 school = "transmutation"
 levels = [
-  { class = "Alchemist", level = 1 },
-  { class = "Arcanist", level = 1 },
-  { class = "Cleric", level = 1 },
-  { class = "Druid", level = 1 },
-  { class = "Hunter", level = 1 },
-  { class = "Investigator", level = 1 },
-  { class = "Medium", level = 1 },
-  { class = "Occultist", level = 1 },
-  { class = "Oracle", level = 1 },
-  { class = "Psychic", level = 1 },
-  { class = "Ranger", level = 1 },
-  { class = "Red Mantis Assassin", level = 1 },
-  { class = "Sorcerer", level = 1 },
-  { class = "Summoner", level = 1 },
-  { class = "Unchained Summoner", level = 1 },
-  { class = "Warpriest", level = 1 },
-  { class = "Wizard", level = 1 },
+  { class = "Alchemist", level = 2 },
+  { class = "Arcanist", level = 2 },
+  { class = "Cleric", level = 2 },
+  { class = "Druid", level = 2 },
+  { class = "Hunter", level = 2 },
+  { class = "Investigator", level = 2 },
+  { class = "Occultist", level = 2 },
+  { class = "Oracle", level = 2 },
+  { class = "Psychic", level = 2 },
+  { class = "Ranger", level = 2 },
+  { class = "Red Mantis Assassin", level = 2 },
+  { class = "Sorcerer", level = 2 },
+  { class = "Summoner", level = 2 },
+  { class = "Unchained Summoner", level = 2 },
+  { class = "Warpriest", level = 2 },
+  { class = "Wizard", level = 2 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M/DF (a small pulley)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "2 hours/level"
 saving_throw = "Fortitude negates (harmless)"
@@ -50,14 +49,14 @@ spell_resistance = "yes (harmless)"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 1: Alchemist, Arcanist, Cleric, Druid, Hunter, Investigator, Medium, Occultist, Oracle, Psychic, Ranger, Red Mantis Assassin, Sorcerer, Summoner, Unchained Summoner, Warpriest, Wizard
+Level: 2: Alchemist, Arcanist, Cleric, Druid, Hunter, Investigator, Occultist, Oracle, Psychic, Ranger, Red Mantis Assassin, Sorcerer, Summoner, Unchained Summoner, Warpriest, Wizard
 Casting time: 1 standard action
 Components: V, S, M/DF (a small pulley)
 Range: touch
 Duration: 2 hours/level
 Saving throw: Fortitude negates (harmless)
 Spell resistance: yes (harmless)
-Target: creature touched
+Targets: creatures touched
 :::
 
 ### Communal Ant Haul

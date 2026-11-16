@@ -18,19 +18,24 @@ page = "210"
 kind = "spell"
 school = "evocation"
 levels = [
-  { class = "Arcanist", level = 6 },
-  { class = "Occultist", level = 6 },
-  { class = "Psychic", level = 6 },
-  { class = "Sorcerer", level = 6 },
-  { class = "Wizard", level = 6 },
+  { class = "Arcanist", level = 4 },
+  { class = "Bard", level = 4 },
+  { class = "Cleric", level = 4 },
+  { class = "Oracle", level = 4 },
+  { class = "Psychic", level = 4 },
+  { class = "Skald", level = 4 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Warpriest", level = 4 },
+  { class = "Witch", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
-casting_time = "at least 10 minutes; see text"
-components = "V, S, M (quicksilver and an eyelash of a spell-using creature), F (ivory statuette of you worth 1,500 gp)"
+casting_time = "10 minutes or more; see text"
+components = "V, S, M (a scorpion's tail), F (ivory statuette of you worth 1,500 gp)"
 range = "personal"
 effects = [
   { label = "Target", value = "you" },
 ]
-duration = "1 day/level (d) or until discharged"
+duration = "up to 1 hour/level plus 1d6 rounds (D); see text"
 saving_throw = "none"
 spell_resistance = "no"
 +++
@@ -38,11 +43,11 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: evocation
-Level: 6: Arcanist, Occultist, Psychic, Sorcerer, Wizard
-Casting time: at least 10 minutes; see text
-Components: V, S, M (quicksilver and an eyelash of a spell-using creature), F (ivory statuette of you worth 1,500 gp)
+Level: 4: Arcanist, Bard, Cleric, Oracle, Psychic, Skald, Sorcerer, Warpriest, Witch, Wizard
+Casting time: 10 minutes or more; see text
+Components: V, S, M (a scorpion's tail), F (ivory statuette of you worth 1,500 gp)
 Range: personal
-Duration: 1 day/level (d) or until discharged
+Duration: up to 1 hour/level plus 1d6 rounds (D); see text
 Saving throw: none
 Spell resistance: no
 Target: you

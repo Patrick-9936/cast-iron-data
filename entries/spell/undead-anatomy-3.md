@@ -19,15 +19,14 @@ kind = "spell"
 school = "transmutation"
 subschools = ["Polymorph"]
 levels = [
-  { class = "Alchemist", level = 3 },
-  { class = "Arcanist", level = 3 },
-  { class = "Bloodrager", level = 3 },
-  { class = "Investigator", level = 3 },
-  { class = "Magus", level = 3 },
-  { class = "Red Mantis Assassin", level = 3 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Wizard", level = 3 },
+  { class = "Alchemist", level = 6 },
+  { class = "Arcanist", level = 6 },
+  { class = "Investigator", level = 6 },
+  { class = "Magus", level = 6 },
+  { class = "Red Mantis Assassin", level = 6 },
+  { class = "Sorcerer", level = 6 },
+  { class = "Spiritualist", level = 6 },
+  { class = "Wizard", level = 6 },
 ]
 casting_time = "1 standard action"
 components = "V, S, M (a piece of the creature whose form you plan to assume)"
@@ -43,7 +42,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: transmutation
-Level: 3: Alchemist, Arcanist, Bloodrager, Investigator, Magus, Red Mantis Assassin, Sorcerer, Spiritualist, Wizard
+Level: 6: Alchemist, Arcanist, Investigator, Magus, Red Mantis Assassin, Sorcerer, Spiritualist, Wizard
 Casting time: 1 standard action
 Components: V, S, M (a piece of the creature whose form you plan to assume)
 Range: personal

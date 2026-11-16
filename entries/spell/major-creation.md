@@ -19,24 +19,23 @@ kind = "spell"
 school = "conjuration"
 subschools = ["Creation"]
 levels = [
-  { class = "Adept", level = 4 },
-  { class = "Arcanist", level = 4 },
-  { class = "Occultist", level = 3 },
-  { class = "Psychic", level = 4 },
-  { class = "Sorcerer", level = 4 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Summoner", level = 3 },
-  { class = "Unchained Summoner", level = 3 },
-  { class = "Witch", level = 4 },
-  { class = "Wizard", level = 4 },
+  { class = "Adept", level = 5 },
+  { class = "Arcanist", level = 5 },
+  { class = "Occultist", level = 4 },
+  { class = "Psychic", level = 5 },
+  { class = "Sorcerer", level = 5 },
+  { class = "Summoner", level = 4 },
+  { class = "Unchained Summoner", level = 4 },
+  { class = "Witch", level = 5 },
+  { class = "Wizard", level = 5 },
 ]
-casting_time = "1 minute"
-components = "V, S, M (a tiny piece of matter of the same sort of item you plan to create with minor creation)"
-range = "0 ft."
+casting_time = "10 minutes"
+components = "V, S, M (a tiny piece of matter of the same sort of item you plan to create with major creation)"
+range = "close (25 ft. + 5 ft./2 levels)"
 effects = [
-  { label = "Effect", value = "unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level" },
+  { label = "Effect", value = "unattended, nonmagical object of nonliving matter, up to 1 cu. ft./level" },
 ]
-duration = "1 hour/level (D)"
+duration = "see text"
 saving_throw = "none"
 spell_resistance = "no"
 +++
@@ -44,15 +43,15 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: conjuration
-Level: 3: Occultist, Spiritualist, Summoner, Unchained Summoner\
-4: Adept, Arcanist, Psychic, Sorcerer, Witch, Wizard
-Casting time: 1 minute
-Components: V, S, M (a tiny piece of matter of the same sort of item you plan to create with minor creation)
-Range: 0 ft.
-Duration: 1 hour/level (D)
+Level: 4: Occultist, Summoner, Unchained Summoner\
+5: Adept, Arcanist, Psychic, Sorcerer, Witch, Wizard
+Casting time: 10 minutes
+Components: V, S, M (a tiny piece of matter of the same sort of item you plan to create with major creation)
+Range: close (25 ft. + 5 ft./2 levels)
+Duration: see text
 Saving throw: none
 Spell resistance: no
-Effect: unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
+Effect: unattended, nonmagical object of nonliving matter, up to 1 cu. ft./level
 Subschool: Creation
 :::
 

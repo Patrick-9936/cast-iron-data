@@ -18,32 +18,27 @@ page = "248"
 kind = "spell"
 school = "divination"
 levels = [
-  { class = "Adept", level = 3 },
-  { class = "Alchemist", level = 3 },
-  { class = "Arcanist", level = 3 },
-  { class = "Bard", level = 2 },
-  { class = "Cleric", level = 4 },
-  { class = "Inquisitor", level = 2 },
-  { class = "Investigator", level = 3 },
-  { class = "Medium", level = 2 },
-  { class = "Mesmerist", level = 2 },
-  { class = "Oracle", level = 4 },
-  { class = "Psychic", level = 3 },
-  { class = "Shaman", level = 4 },
-  { class = "Skald", level = 2 },
-  { class = "Sorcerer", level = 3 },
-  { class = "Spiritualist", level = 3 },
-  { class = "Summoner", level = 3 },
-  { class = "Unchained Summoner", level = 3 },
-  { class = "Warpriest", level = 4 },
-  { class = "Witch", level = 3 },
-  { class = "Wizard", level = 3 },
+  { class = "Alchemist", level = 4 },
+  { class = "Arcanist", level = 4 },
+  { class = "Bard", level = 3 },
+  { class = "Cleric", level = 5 },
+  { class = "Investigator", level = 4 },
+  { class = "Mesmerist", level = 3 },
+  { class = "Oracle", level = 5 },
+  { class = "Psychic", level = 4 },
+  { class = "Skald", level = 3 },
+  { class = "Sorcerer", level = 4 },
+  { class = "Summoner", level = 4 },
+  { class = "Unchained Summoner", level = 4 },
+  { class = "Warpriest", level = 5 },
+  { class = "Witch", level = 4 },
+  { class = "Wizard", level = 4 },
 ]
 casting_time = "1 standard action"
 components = "V, M/DF (a clay model of a ziggurat)"
 range = "touch"
 effects = [
-  { label = "Target", value = "creature touched" },
+  { label = "Targets", value = "creatures touched" },
 ]
 duration = "10 minutes/level"
 saving_throw = "Will negates (harmless)"
@@ -53,16 +48,16 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 2: Bard, Inquisitor, Medium, Mesmerist, Skald\
-3: Adept, Alchemist, Arcanist, Investigator, Psychic, Sorcerer, Spiritualist, Summoner, Unchained Summoner, Witch, Wizard\
-4: Cleric, Oracle, Shaman, Warpriest
+Level: 3: Bard, Mesmerist, Skald\
+4: Alchemist, Arcanist, Investigator, Psychic, Sorcerer, Summoner, Unchained Summoner, Witch, Wizard\
+5: Cleric, Oracle, Warpriest
 Casting time: 1 standard action
 Components: V, M/DF (a clay model of a ziggurat)
 Range: touch
 Duration: 10 minutes/level
 Saving throw: Will negates (harmless)
 Spell resistance: no
-Target: creature touched
+Targets: creatures touched
 :::
 
 ### Communal Tongues

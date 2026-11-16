@@ -18,13 +18,16 @@ page = "16"
 kind = "spell"
 school = "divination"
 levels = [
-  { class = "Adept", level = 1 },
-  { class = "Cleric", level = 1 },
-  { class = "Inquisitor", level = 1 },
-  { class = "Oracle", level = 1 },
-  { class = "Shaman", level = 1 },
-  { class = "Spiritualist", level = 1 },
-  { class = "Warpriest", level = 1 },
+  { class = "Arcanist", level = 0 },
+  { class = "Bard", level = 0 },
+  { class = "Cleric", level = 0 },
+  { class = "Magus", level = 0 },
+  { class = "Oracle", level = 0 },
+  { class = "Skald", level = 0 },
+  { class = "Sorcerer", level = 0 },
+  { class = "Warpriest", level = 0 },
+  { class = "Witch", level = 0 },
+  { class = "Wizard", level = 0 },
 ]
 casting_time = "1 standard action"
 components = "V, S, DF"
@@ -40,7 +43,7 @@ spell_resistance = "no"
 ::: statblock
 title = "Spell statistics"
 School: divination
-Level: 1: Adept, Cleric, Inquisitor, Oracle, Shaman, Spiritualist, Warpriest
+Level: 0: Arcanist, Bard, Cleric, Magus, Oracle, Skald, Sorcerer, Warpriest, Witch, Wizard
 Casting time: 1 standard action
 Components: V, S, DF
 Range: 60 ft.
