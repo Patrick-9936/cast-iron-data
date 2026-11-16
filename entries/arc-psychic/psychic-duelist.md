@@ -73,11 +73,11 @@ a condition by 1 round per point spent. She can spend a maximum of 1 phrenic poo
 the points are still lost). This amplification can be linked only to offensive manifestations that
 impose conditions.
 
-At 11th level: This maximum 2.
+At 11th level: This maximum increases to 2.
 
-At 15th level: This maximum 3.
+At 15th level: This maximum increases to 3.
 
-At 19th level: This maximum 4.
+At 19th level: This maximum increases to 4.
 
 **Faithful Creature (Ex)**
 
@@ -105,9 +105,9 @@ the manifestation doesn't have a duration.
 
 **Special:** This amplification can be linked only to defensive manifestations.
 
-At 11th level: This bonus +3.
+At 11th level: This bonus increases to +3.
 
-At 15th level: This bonus +4.
+At 15th level: This bonus increases to +4.
 
 **Thought Made Real (Su)**
 

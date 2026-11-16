@@ -39,13 +39,13 @@ feet of the freebooter at the time she activates this ability.
 **Special:** The _freebooter's bane_ lasts until the target dies or the freebooter selects a new
 target.
 
-At 5th level: The bonus +2.
+At 5th level: The bonus increases to +2.
 
-At 10th level: The bonus +3.
+At 10th level: The bonus increases to +3.
 
-At 15th level: The bonus +4.
+At 15th level: The bonus increases to +4.
 
-At 20th level: The bonus +5.
+At 20th level: The bonus increases to +5.
 
 **Freebooter's Bond (Ex)**
 

@@ -36,13 +36,13 @@ only during a _flurry of blows._ The initial sneak attack damage is +1d6.
 
 **Replaces:** 2nd-, 6th-, 10th-, 14th-, and 18th-level bonus feats
 
-At 6th level: The damage +2d6.
+At 6th level: The damage increases to +2d6.
 
-At 10th level: The damage +3d6.
+At 10th level: The damage increases to +3d6.
 
-At 14th level: The damage +4d6.
+At 14th level: The damage increases to +4d6.
 
-At 18th level: The damage +5d6.
+At 18th level: The damage increases to +5d6.
 
 **Debilitating Blows (Ex)**
 

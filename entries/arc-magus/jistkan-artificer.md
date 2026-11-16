@@ -95,13 +95,13 @@ enhancement bonus on attack and damage rolls.
 
 **Replaces:** The magus arcana gained at 3rd level
 
-At 7th level: This bonus +2.
+At 7th level: This bonus increases to +2.
 
-At 11th level: This bonus +3.
+At 11th level: This bonus increases to +3.
 
-At 15th level: This bonus +4.
+At 15th level: This bonus increases to +4.
 
-At 19th level: This bonus +5.
+At 19th level: This bonus increases to +5.
 
 **Unarmed Spellstrike (Su)**
 

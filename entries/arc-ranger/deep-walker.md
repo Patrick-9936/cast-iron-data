@@ -34,11 +34,11 @@ Perception, Stealth, and Survival skill checks while underground (in caves and d
 
 **Replaces:** Favored terrain
 
-At 8th level: The bonus +5.
+At 8th level: The bonus increases to +5.
 
-At 13th level: The bonus +8.
+At 13th level: The bonus increases to +8.
 
-At 18th level: The bonus +11.
+At 18th level: The bonus increases to +11.
 
 **Rock Hopper (Ex)**
 

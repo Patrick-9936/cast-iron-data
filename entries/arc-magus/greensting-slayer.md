@@ -41,13 +41,13 @@ stack. A greensting slayer cannot use his _arcane pool_ to enhance his weapon.
 meet all of the usual prerequisites for making a sneak attack, as the [rogue](ref/class/rogue) class
 feature.
 
-At 5th level: The amount of sneak attack damage +2d6.
+At 5th level: The amount of sneak attack damage increases to +2d6.
 
-At 9th level: The amount of sneak attack damage +3d6.
+At 9th level: The amount of sneak attack damage increases to +3d6.
 
-At 13th level: The amount of sneak attack damage +4d6.
+At 13th level: The amount of sneak attack damage increases to +4d6.
 
-At 17th level: The amount of sneak attack damage +5d6.
+At 17th level: The amount of sneak attack damage increases to +5d6.
 
 **Evasion (Ex)**
 

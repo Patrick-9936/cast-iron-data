@@ -43,11 +43,11 @@ leave a trail if he so chooses)._
 
 **Special:** She does not gain additional favored terrains.
 
-At 8th level: The bonuses granted by this ability +4.
+At 8th level: The bonuses granted by this ability increases to +4.
 
-At 13th level: The bonuses granted by this ability +6.
+At 13th level: The bonuses granted by this ability increases to +6.
 
-At 18th level: The bonuses granted by this ability +8.
+At 18th level: The bonuses granted by this ability increases to +8.
 
 **Woodland Stride (Ex)**
 

@@ -100,22 +100,22 @@ resistance 5 and causes his melee attacks to each deal 1d4 additional points of 
 
 **Usage:** 1 time/day per ranger level
 
-At 9th level: The scout's fire resistance 10.
+At 9th level: The scout's fire resistance increases to 10.
 
-At 14th level: The scout's fire resistance 15.
+At 14th level: The scout's fire resistance increases to 15.
 
 **Plane of Shadow**
 
 **Ability:** The planar scout gains [darkvision](ref/rule/darkvision) 60 feet and a +4 bonus on
 Stealth checks.
 
-At 8th level: The bonus on Stealth checks +4.
+At 8th level: The bonus on Stealth checks increases to +6.
 
-At 12th level: The bonus on Stealth checks +6.
+At 12th level: The bonus on Stealth checks increases to +8.
 
-At 16th level: The bonus on Stealth checks +8.
+At 16th level: The bonus on Stealth checks increases to +10.
 
-At 20th level: The bonus on Stealth checks +10.
+At 20th level: The bonus on Stealth checks increases to +12.
 
 **Plane of Water**
 

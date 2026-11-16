@@ -51,9 +51,9 @@ adjacent allies (including paladins) a bonus. Adjacent allies receive a +1 sacre
 and CMD and on their saving throws. These bonuses last for a number of rounds equal to the divine
 defender's Charisma modifier.
 
-At 9th level: The bonus +2.
+At 9th level: The bonus increases to +2.
 
-At 15th level: The bonus +3.
+At 15th level: The bonus increases to +3.
 
 **Divine Bond (Su)**
 

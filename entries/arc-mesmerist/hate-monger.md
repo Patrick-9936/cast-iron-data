@@ -88,11 +88,11 @@ favored enemy.
 
 **Replaces:** Mental potency, manifold tricks
 
-At 9th level: The bonus +4.
+At 9th level: The bonus increases to +4.
 
-At 13th level: The bonus +6.
+At 13th level: The bonus increases to +6.
 
-At 17th level: The bonus +8.
+At 17th level: The bonus increases to +8.
 
 **Out for Blood (Ex)**
 

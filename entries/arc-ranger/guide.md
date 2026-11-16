@@ -38,13 +38,13 @@ rolls against the target of his focus.
 
 **Usage:** 1 time/day + 1 per 3 ranger levels beyond 1st
 
-At 5th level: This bonus +4.
+At 5th level: This bonus increases to +4.
 
-At 10th level: This bonus +6.
+At 10th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
-At 20th level: This bonus +10.
+At 20th level: This bonus increases to +10.
 
 **Terrain Bond (Ex)**
 

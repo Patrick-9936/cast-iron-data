@@ -125,13 +125,13 @@ any of its abilities when wielded by anyone other than its magus, and acts as a
 **Free:** The magus can spend a point from the _black blade's arcane pool_ to grant the _black
 blade_ a +1 bonus on damage rolls for 1 minute.
 
-At 5th level: The bonus +2.
+At 5th level: The bonus increases to +2.
 
-At 9th level: The bonus +3.
+At 9th level: The bonus increases to +3.
 
-At 13th level: The bonus +4.
+At 13th level: The bonus increases to +4.
 
-At 17th level: The bonus +5.
+At 17th level: The bonus increases to +5.
 
 **Telepathy (Su)**
 

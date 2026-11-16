@@ -74,13 +74,13 @@ focus to resonate in her improvised weapons. For 1 minute, the extemporaneous ch
 item she uses as an improvised weapon a +1 enhancement bonus on attack and damage rolls for every 3
 points of generic focus she has in her body. She can give it a maximum bonus of +1.
 
-At 5th level: The maximum bonus +2.
+At 5th level: The maximum bonus increases to +2.
 
-At 9th level: The maximum bonus +3.
+At 9th level: The maximum bonus increases to +3.
 
-At 13th level: The maximum bonus +4.
+At 13th level: The maximum bonus increases to +4.
 
-At 17th level: The maximum bonus +5.
+At 17th level: The maximum bonus increases to +5.
 
 **Withdraw Focus (Su)**
 

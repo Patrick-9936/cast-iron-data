@@ -100,19 +100,19 @@ falls.
 
 **Replaces:** Slow fall
 
-At 6th level: The maximum distance 2 feet.
+At 6th level: The maximum distance increases to 30 feet.
 
-At 8th level: The maximum distance 3 feet.
+At 8th level: The maximum distance increases to 40 feet.
 
-At 10th level: The maximum distance 4 feet.
+At 10th level: The maximum distance increases to 50 feet.
 
-At 12th level: The maximum distance 5 feet.
+At 12th level: The maximum distance increases to 60 feet.
 
-At 14th level: The maximum distance 6 feet.
+At 14th level: The maximum distance increases to 70 feet.
 
-At 16th level: The maximum distance 7 feet.
+At 16th level: The maximum distance increases to 80 feet.
 
-At 18th level: The maximum distance 8 feet.
+At 18th level: The maximum distance increases to 90 feet.
 
 **Metakinesis (Su)**
 

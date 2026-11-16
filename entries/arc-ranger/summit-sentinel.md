@@ -55,11 +55,11 @@ additional _favored terrains_ at higher levels.
 
 **Gained:** At 3rd Level
 
-At 10th level: The bonus from this _favored terrain_ +4.
+At 10th level: The bonus from this _favored terrain_ increases to +4.
 
-At 15th level: The bonus from this _favored terrain_ +6.
+At 15th level: The bonus from this _favored terrain_ increases to +6.
 
-At 20th level: The bonus from this _favored terrain_ +8.
+At 20th level: The bonus from this _favored terrain_ increases to +8.
 
 **Spells**
 

@@ -65,13 +65,13 @@ _arcane pool,_ he can conjure forth a weapon using this arcana. Doing so costs 2
 _arcane pool._ The weapon can take the form of any single one-handed melee weapon the fiend flayer
 is proficient with. This weapon has a +1 enhancement bonus. This summoned weapon lasts for 1 minute.
 
-At 7th level: The weapon's bonus +2.
+At 7th level: The weapon's bonus increases to +2.
 
-At 11th level: The weapon's bonus +3.
+At 11th level: The weapon's bonus increases to +3.
 
-At 15th level: The weapon's bonus +4.
+At 15th level: The weapon's bonus increases to +4.
 
-At 19th level: The weapon's bonus +5.
+At 19th level: The weapon's bonus increases to +5.
 
 **Bypassing Strike (Su)**
 
