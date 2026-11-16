@@ -64,23 +64,23 @@ this damage by half (DC = 10 + half the calamity caller's warpriest level + the 
 Wisdom modifier); the type of save is determined by the calamity. The calamity caller can use this
 ability at will.
 
-At 3rd level: The amount of damage 2d6.
+At 3rd level: The amount of damage increases to 2d6.
 
-At 5th level: The amount of damage 3d6.
+At 5th level: The amount of damage increases to 3d6.
 
-At 7th level: The amount of damage 4d6.
+At 7th level: The amount of damage increases to 4d6.
 
-At 9th level: The amount of damage 5d6.
+At 9th level: The amount of damage increases to 5d6.
 
-At 11th level: The amount of damage 6d6.
+At 11th level: The amount of damage increases to 6d6.
 
-At 13th level: The amount of damage 7d6.
+At 13th level: The amount of damage increases to 7d6.
 
-At 15th level: The amount of damage 8d6.
+At 15th level: The amount of damage increases to 8d6.
 
-At 17th level: The amount of damage 9d6.
+At 17th level: The amount of damage increases to 9d6.
 
-At 19th level: The amount of damage 10d6.
+At 19th level: The amount of damage increases to 10d6.
 
 **Acid Rain**
 

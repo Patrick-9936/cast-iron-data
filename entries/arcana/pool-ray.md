@@ -30,12 +30,12 @@ to treat it as its own ranged touch attack.
 **Standard:** The magus can expend 1 point from his arcane pool to infuse a ranged weapon with
 elemental power.
 
-At 6th level: The damage 2d6.
+At 6th level: The damage increases to 2d6.
 
-At 9th level: The damage 3d6.
+At 9th level: The damage increases to 3d6.
 
-At 12th level: The damage 4d6.
+At 12th level: The damage increases to 4d6.
 
-At 15th level: The damage 5d6.
+At 15th level: The damage increases to 5d6.
 
-At 18th level: The damage 6d6.
+At 18th level: The damage increases to 6d6.

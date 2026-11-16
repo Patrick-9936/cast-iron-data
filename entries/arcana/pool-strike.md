@@ -26,12 +26,12 @@ ability. If the touch attack hits, it releases the charge and deals 2d6 points o
 (acid, cold, electricity, or fire, chosen when he spends the arcane pool point to activate this
 ability).
 
-At 6th level: The damage 3d6.
+At 6th level: The damage increases to 3d6.
 
-At 9th level: The damage 4d6.
+At 9th level: The damage increases to 4d6.
 
-At 12th level: The damage 5d6.
+At 12th level: The damage increases to 5d6.
 
-At 15th level: The damage 6d6.
+At 15th level: The damage increases to 6d6.
 
-At 18th level: The damage 7d6.
+At 18th level: The damage increases to 7d6.

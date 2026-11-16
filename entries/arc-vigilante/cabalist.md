@@ -87,15 +87,15 @@ blood_ before that time).
 **At 4th Level:** The cabalist can also activate [blood armor](ref/spell/blood-armor) once per day
 as a [spell-like ability](ref/umr/spell-like-abilities) as a **swift action**.
 
-At 4th level: The number of temporary hit points gained +2d6.
+At 4th level: The number of temporary hit points gained increases to 2d6.
 
-At 8th level: The number of temporary hit points gained +3d6.
+At 8th level: The number of temporary hit points gained increases to 3d6.
 
-At 12th level: The number of temporary hit points gained +4d6.
+At 12th level: The number of temporary hit points gained increases to 4d6.
 
-At 16th level: The number of temporary hit points gained +5d6.
+At 16th level: The number of temporary hit points gained increases to 5d6.
 
-At 20th level: The number of temporary hit points gained +6d6.
+At 20th level: The number of temporary hit points gained increases to 6d6.
 
 **Familiar (Ex)**
 

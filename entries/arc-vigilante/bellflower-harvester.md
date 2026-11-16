@@ -66,11 +66,11 @@ aid another.
 **Special:** The Bellflower harvester is still treated as if he had the _stalker_ specialization for
 the purpose of selecting other vigilante talents.
 
-At 7th level: The bonus +4.
+At 5th level: The bonus increases to +4.
 
-At 13th level: The bonus +5.
+At 11th level: The bonus increases to +5.
 
-At 19th level: The bonus +6.
+At 17th level: The bonus increases to +6.
 
 **Obsequious (Ex)**
 
@@ -84,13 +84,13 @@ a model servant.
 
 **Replaces:** Social talent gained at 1st level
 
-At 5th level: This bonus +3.
+At 5th level: This bonus increases to +3.
 
-At 9th level: This bonus +4.
+At 9th level: This bonus increases to +4.
 
-At 13th level: This bonus +5.
+At 13th level: This bonus increases to +5.
 
-At 17th level: This bonus +6.
+At 17th level: This bonus increases to +6.
 
 **Tend the Garden (Ex)**
 

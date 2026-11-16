@@ -62,9 +62,13 @@ out and bite the attacker, dealing 1d6 points of damage, which count as damage f
 
 **Replaces:** 2nd-level hex
 
-At 12th level: This damage 2d6.
+At 8th level: This damage increases to 2d6.
 
-At 20th level: This damage 3d6.
+At 12th level: This damage increases to 3d6.
+
+At 16th level: This damage increases to 4d6.
+
+At 20th level: This damage increases to 5d6.
 
 **Putrefied Innards (Ex)**
 

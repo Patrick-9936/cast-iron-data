@@ -34,10 +34,10 @@ similar primary natural attacks the ally might have. This effect lasts for 1 min
 [summon nature's ally V](ref/spell/summon-natures-ally-5) with a duration of 1 minute. This ability
 can summon only one animal, regardless of the list used.
 
-At 12th level: This now behaves as summon nature's ally +6.
+At 12th level: This now behaves as [summon nature's ally VI](ref/spell/summon-natures-ally-6).
 
-At 14th level: This now behaves as summon nature's ally +7.
+At 14th level: This now behaves as [summon nature's ally VII](ref/spell/summon-natures-ally-7).
 
-At 16th level: This now behaves as summon nature's ally +8.
+At 16th level: This now behaves as [summon nature's ally VIII](ref/spell/summon-natures-ally-8).
 
-At 18th level: This now behaves as summon nature's ally +9.
+At 18th level: This now behaves as [summon nature's ally IX](ref/spell/summon-natures-ally-9).

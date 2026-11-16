@@ -22,9 +22,9 @@ aspect infuses the shifter with an enhanced ability to surprise foes and strike 
 
 **Passive:** You gain a +2 bonus on Initiative checks.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Major Form**
 

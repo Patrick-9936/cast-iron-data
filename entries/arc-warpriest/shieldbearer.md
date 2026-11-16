@@ -51,13 +51,13 @@ weapon_ damage applies only to attacks made with shields.
 **At 7th Level:** The shieldbearer does not gain the ability to enhance _sacred weapons_ until 7th
 level.
 
-At 10th level: The _sacred weapon_ bonus +2.
+At 10th level: The _sacred weapon_ bonus increases to +2.
 
-At 13th level: The _sacred weapon_ bonus +3.
+At 13th level: The _sacred weapon_ bonus increases to +3.
 
-At 16th level: The _sacred weapon_ bonus +4.
+At 16th level: The _sacred weapon_ bonus increases to +4.
 
-At 19th level: The _sacred weapon_ bonus +5.
+At 19th level: The _sacred weapon_ bonus increases to +5.
 
 **Sacred Shield (Su)**
 

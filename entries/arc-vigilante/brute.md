@@ -56,31 +56,9 @@ damage rolls.
 
 **Replaces:** Vigilante specialization
 
-At 8th level: This bonus +2.
+At 13th level: This bonus increases to +2.
 
-At 9th level: This bonus +3.
-
-At 10th level: This bonus +4.
-
-At 11th level: This bonus +5.
-
-At 12th level: This bonus +6.
-
-At 13th level: This bonus +7.
-
-At 14th level: This bonus +8.
-
-At 15th level: This bonus +9.
-
-At 16th level: This bonus +10.
-
-At 17th level: This bonus +11.
-
-At 18th level: This bonus +12.
-
-At 19th level: This bonus +13.
-
-At 20th level: This bonus +14.
+At 19th level: This bonus increases to +3.
 
 Though it is sometimes difficult to maintain, a brute has a measure of control over his abilities.
 
