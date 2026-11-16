@@ -58,11 +58,11 @@ the bonus dice used in this ability) but cannot expend uses of _inspiration_ for
 
 **Gained:** At 6th Level
 
-At 10th level: This damage +2d6.
+At 10th level: This damage increases to +2d6.
 
-At 14th level: This damage +3d6.
+At 14th level: This damage increases to +3d6.
 
-At 18th level: This damage +4d6.
+At 18th level: This damage increases to +4d6.
 
 **Improved Familiar (Ex)**
 

@@ -115,6 +115,6 @@ adjacent target, dealing additional damage.
 **Special:** Creatures immune to precision damage, critical hits, or sneak attacks do not take this
 additional damage.
 
-At 13th level: The extra damage +2d6.
+At 13th level: The extra damage increases to +2d6.
 
-At 17th level: The extra damage +3d6.
+At 17th level: The extra damage increases to +3d6.

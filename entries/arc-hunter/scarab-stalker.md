@@ -40,49 +40,49 @@ sacred bonds with desert-dwelling denizens.
 
 **Passive:** The creature gains a +4 competence bonus on Fly checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Cat**
 
 **Passive:** The creature gains a +4 competence bonus on Acrobatics checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Cow**
 
 **Passive:** The creature gains a +1 resistance bonus on Fortitude saving throws.
 
-At 8th level: This bonus +2.
+At 8th level: This bonus increases to +2.
 
-At 15th level: This bonus +3.
+At 15th level: This bonus increases to +3.
 
 **Crocodile**
 
 **Passive:** The creature gains a +4 competence bonus on Swim checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Ibis**
 
 **Passive:** The creature gains a +2 resistance bonus on saving throws against disease.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Jackal**
 
 **Passive:** The creature gains a +4 competence bonus on Survival checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Kite**
 
@@ -96,41 +96,41 @@ At 15th level: This bonus +8.
 
 **Passive:** The creature gains a +4 competence bonus on Escape Artist checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Lion**
 
 **Passive:** The creature gains a +4 competence bonus on Intimidate checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Ram**
 
 **Passive:** The creature gains a +1 bonus on damage rolls when making charge attacks.
 
-At 8th level: This bonus +2.
+At 8th level: This bonus increases to +2.
 
-At 15th level: This bonus +3.
+At 15th level: This bonus increases to +3.
 
 **Scarab Beetle**
 
 **Passive:** The creature gains a +1 enhancement bonus to its natural armor bonus.
 
-At 8th level: This bonus +2.
+At 8th level: This bonus increases to +2.
 
-At 15th level: This bonus +3.
+At 15th level: This bonus increases to +3.
 
 **Scorpion**
 
 **Passive:** The creature gains a +2 resistance bonus on saving throws against poison.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Sha**
 
@@ -146,9 +146,9 @@ At 15th level: This 4&times& as far.
 **Passive:** The creature gains a +2 resistance bonus on saving throws against
 [breath weapons](ref/umr/breath-weapon).
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Desert Walker (Ex)**
 

@@ -39,9 +39,9 @@ leave a trail if she so chooses).
 
 **Replaces:** Improved empathic link, speak with master, greater empathic link
 
-At 11th level: This bonus +4.
+At 11th level: This bonus increases to +4.
 
-At 16th level: This bonus +6.
+At 16th level: This bonus increases to +6.
 
 **Unnatural Stride (Ex)**
 

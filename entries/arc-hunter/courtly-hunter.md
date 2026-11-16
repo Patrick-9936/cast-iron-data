@@ -60,65 +60,65 @@ aspects.) Instead, she gains access to the following aspects.
 
 **Passive:** The creature gains a +4 competence bonus on Craft checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Chameleon**
 
 **Passive:** The creature gains a +4 competence bonus on Disguise checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Eagle**
 
 **Passive:** The creature gains a +2 enhancement bonus to Charisma.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Fox**
 
 **Passive:** The creature gains a +4 competence bonus on Bluff checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Frilled Lizard**
 
 **Passive:** The creature gains a +4 competence bonus on Intimidate checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Octopus**
 
 **Passive:** The creature gains a +4 competence bonus on Escape Artist checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Raccoon**
 
 **Passive:** The creature gains a +4 competence bonus on Sleight of Hand checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Songbird**
 
 **Passive:** The creature gains a +4 competence bonus on Perform checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Subtle Companion (Su)**
 

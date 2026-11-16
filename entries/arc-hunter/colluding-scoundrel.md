@@ -41,9 +41,9 @@ unconscious or is slain.
 
 **Usage:** 1 time/day per hunter level
 
-At 8th level: The penalty -4.
+At 8th level: The penalty increases to -4.
 
-At 15th level: The penalty -6.
+At 15th level: The penalty increases to -6.
 
 A colluding scoundrel can target one foe within 30 feet and designate one willing ally adjacent to
 that foe as a scapegoat. For the following minute, the target takes a -2 penalty on attacks against

@@ -78,10 +78,10 @@ Ranged attacks gain this additional damage only against a target within 30 feet.
 able to see the target well enough to pick out a vital spot and must be able to reach such a spot.
 _Knowledgeable strike_ cannot be used against a creature with [concealment](ref/rule/concealment).
 
-At 8th level: The damage +2d6.
+At 8th level: The damage increases to +2d6.
 
-At 12th level: The damage +3d6.
+At 12th level: The damage increases to +3d6.
 
-At 16th level: The damage +4d6.
+At 16th level: The damage increases to +4d6.
 
-At 20th level: The damage +5d6.
+At 20th level: The damage increases to +5d6.

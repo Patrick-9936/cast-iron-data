@@ -81,9 +81,9 @@ gunner must spend 1 grit point to perform this deed.
 
 **Replaces:** Dead shot deed
 
-At 13th level: The additional damage 2d6.
+At 13th level: The additional damage increases to 2d6.
 
-At 19th level: The additional damage 3d6.
+At 19th level: The additional damage increases to 3d6.
 
 **Satchel Shot (Ex)**
 

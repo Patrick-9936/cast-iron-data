@@ -76,17 +76,17 @@ is trained.
 **Special:** If he has the [perceptive tracking](ref/invtalent/perceptive-tracking) investigator
 talent, he also adds this bonus on Perception checks to find and follow tracks.
 
-At 5th level: This bonus +2.
+At 5th level: This bonus increases to +2.
 
-At 8th level: This bonus +3.
+At 8th level: This bonus increases to +3.
 
-At 11th level: This bonus +4.
+At 11th level: This bonus increases to +4.
 
-At 14th level: This bonus +5.
+At 14th level: This bonus increases to +5.
 
-At 17th level: This bonus +6.
+At 17th level: This bonus increases to +6.
 
-At 20th level: This bonus +7.
+At 20th level: This bonus increases to +7.
 
 **Restricted Talents**
 

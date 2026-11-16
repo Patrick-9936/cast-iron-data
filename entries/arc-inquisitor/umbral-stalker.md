@@ -48,13 +48,13 @@ unaware of her presence (typically because she is invisible or using Stealth).
 
 **Replaces:** Justice judgment
 
-At 5th level: This bonus +4.
+At 5th level: This bonus increases to +4.
 
-At 10th level: This bonus +6.
+At 10th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
-At 20th level: This bonus +10.
+At 20th level: This bonus increases to +10.
 
 **Swift and Silent (Ex)**
 

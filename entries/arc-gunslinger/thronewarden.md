@@ -43,13 +43,13 @@ action** (or a **full-round action**) during the surprise round.
 
 **Replaces:** Nimble
 
-At 6th level: The initiative bonus +2.
+At 6th level: The initiative bonus increases to +2.
 
-At 10th level: The initiative bonus +3.
+At 10th level: The initiative bonus increases to +3.
 
-At 14th level: The initiative bonus +4.
+At 14th level: The initiative bonus increases to +4.
 
-At 18th level: The initiative bonus +5.
+At 18th level: The initiative bonus increases to +5.
 
 **Eye for Trouble (Ex)**
 
