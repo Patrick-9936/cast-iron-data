@@ -100,18 +100,18 @@ class feature, but only when attacking with a blowgun. This deals 1d6 extra poin
 
 **Replaces:** Hunter's bond
 
-At 6th level: The sneak attack damage 2d6 damage.
+At 6th level: The sneak attack damage increases to 2d6.
 
-At 8th level: The sneak attack damage 3d6 damage.
+At 8th level: The sneak attack damage increases to 3d6.
 
-At 10th level: The sneak attack damage 4d6 damage.
+At 10th level: The sneak attack damage increases to 4d6.
 
-At 12th level: The sneak attack damage 5d6 damage.
+At 12th level: The sneak attack damage increases to 5d6.
 
-At 14th level: The sneak attack damage 6d6 damage.
+At 14th level: The sneak attack damage increases to 6d6.
 
-At 16th level: The sneak attack damage 7d6 damage.
+At 16th level: The sneak attack damage increases to 7d6.
 
-At 18th level: The sneak attack damage 8d6 damage.
+At 18th level: The sneak attack damage increases to 8d6.
 
-At 20th level: The sneak attack damage 9d6 damage.
+At 20th level: The sneak attack damage increases to 9d6.

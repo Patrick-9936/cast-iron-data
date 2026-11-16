@@ -70,13 +70,13 @@ preternatural understanding of all things - and you just keep getting smarter.
 
 **Passive:** You gain a +1 inherent bonus to Intelligence upon taking this revelation.
 
-At 10th level: The bonus to Intelligence +2.
+At 10th level: The bonus to Intelligence increases to +2.
 
-At 13th level: The bonus to Intelligence +3.
+At 13th level: The bonus to Intelligence increases to +3.
 
-At 16th level: The bonus to Intelligence +4.
+At 16th level: The bonus to Intelligence increases to +4.
 
-At 19th level: The bonus to Intelligence +5.
+At 19th level: The bonus to Intelligence increases to +5.
 
 **Final Revelation**
 

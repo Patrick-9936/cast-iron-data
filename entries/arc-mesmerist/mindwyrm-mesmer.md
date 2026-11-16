@@ -54,23 +54,23 @@ This is a mind-affecting effect.
 
 **Usage:** Charisma modifier times/day (minimum 1)
 
-At 3rd level: The energy damage 2d6.
+At 3rd level: The energy damage increases to 2d6.
 
-At 5th level: The energy damage 3d6.
+At 5th level: The energy damage increases to 3d6.
 
-At 7th level: The energy damage 4d6.
+At 7th level: The energy damage increases to 4d6.
 
-At 9th level: The energy damage 5d6.
+At 9th level: The energy damage increases to 5d6.
 
-At 11th level: The energy damage 6d6.
+At 11th level: The energy damage increases to 6d6.
 
-At 13th level: The energy damage 7d6.
+At 13th level: The energy damage increases to 7d6.
 
-At 15th level: The energy damage 8d6.
+At 15th level: The energy damage increases to 8d6.
 
-At 17th level: The energy damage 9d6.
+At 17th level: The energy damage increases to 9d6.
 
-At 19th level: The energy damage 10d6.
+At 19th level: The energy damage increases to 10d6.
 
 **Draconic Trick (Su)**
 

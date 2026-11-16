@@ -64,12 +64,12 @@ armor's chance of arcane spell failure.
 for 1 minute to one of the following skills: Acrobatics, Climb, Escape Artist, Perception, Stealth,
 and Swim.
 
-At 7th level: The competence bonus +2.
+At 7th level: The competence bonus increases to +6.
 
-At 10th level: The competence bonus +3.
+At 10th level: The competence bonus increases to +7.
 
-At 13th level: The competence bonus +4.
+At 13th level: The competence bonus increases to +8.
 
-At 16th level: The competence bonus +5.
+At 16th level: The competence bonus increases to +9.
 
-At 19th level: The competence bonus +6.
+At 19th level: The competence bonus increases to +10.

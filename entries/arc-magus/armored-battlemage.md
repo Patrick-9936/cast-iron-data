@@ -70,13 +70,13 @@ bonuses do not function if the armor is worn by anyone other than the magus. Mul
 ability do not stack with themselves. An armored battlemage can enhance only one suit of armor in
 this way at one time. If he uses this ability again, the first use immediately ends.
 
-At 5th level: The enhancement bonus +2.
+At 5th level: The enhancement bonus increases to +2.
 
-At 9th level: The enhancement bonus +3.
+At 9th level: The enhancement bonus increases to +3.
 
-At 13th level: The enhancement bonus +4.
+At 13th level: The enhancement bonus increases to +4.
 
-At 17th level: The enhancement bonus +5.
+At 17th level: The enhancement bonus increases to +5.
 
 **Armor Training (Ex)**
 

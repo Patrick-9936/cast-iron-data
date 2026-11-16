@@ -88,13 +88,13 @@ penalties, the effect is reduced by 1 point.
 
 **Replaces:** Wholeness of body, timeless body, tongue of sun and moon
 
-At 10th level: This reduction 2 points.
+At 10th level: This reduction increases to 2 points.
 
-At 13th level: This reduction 3 points.
+At 13th level: This reduction increases to 3 points.
 
-At 16th level: This reduction 4 points.
+At 16th level: This reduction increases to 4 points.
 
-At 19th level: This reduction 5 points.
+At 19th level: This reduction increases to 5 points.
 
 **Bonus Feats**
 

@@ -74,19 +74,19 @@ concealment is 10%.
 **Special:** This concealment lasts until the start of the meditant's next turn and stacks with any
 concealment provided by movement, such as from the [Wind Stance](ref/feat/wind-stance) feat.
 
-At 6th level: The concealment 20%.
+At 6th level: The concealment increases to 20%.
 
-At 8th level: The concealment 30%.
+At 8th level: The concealment increases to 30%.
 
-At 10th level: The concealment 40%.
+At 10th level: The concealment increases to 40%.
 
-At 12th level: The concealment 50%.
+At 12th level: The concealment increases to 50%.
 
-At 14th level: The concealment 60%.
+At 14th level: The concealment increases to 60%.
 
-At 16th level: The concealment 70%.
+At 16th level: The concealment increases to 70%.
 
-At 18th level: The concealment 80%.
+At 18th level: The concealment increases to 80%.
 
 **Improved Vigor (Ex)**
 

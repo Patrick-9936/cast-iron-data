@@ -93,15 +93,15 @@ light like a [torch](ref/eq-misc/torch). The spirit grants the shield a +1 enhan
 
 **Usage:** 1 time/day + 1 per 4 paladin levels beyond 5th
 
-At 8th level: The shield's bonus +2.
+At 8th level: The shield's bonus increases to +2.
 
-At 11th level: The shield's bonus +3.
+At 11th level: The shield's bonus increases to +3.
 
-At 14th level: The shield's bonus +4.
+At 14th level: The shield's bonus increases to +4.
 
-At 17th level: The shield's bonus +5.
+At 17th level: The shield's bonus increases to +5.
 
-At 20th level: The shield's bonus +6.
+At 20th level: The shield's bonus increases to +6.
 
 **Improved Bastion**
 

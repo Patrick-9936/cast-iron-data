@@ -49,13 +49,13 @@ armor.
 
 **Special:** This otherwise acts as and replaces the standard _favored enemy_ ability.
 
-At 5th level: The _favored enemy_ bonus +4.
+At 5th level: The _favored enemy_ bonus increases to +4.
 
-At 10th level: The _favored enemy_ bonus +6.
+At 10th level: The _favored enemy_ bonus increases to +6.
 
-At 15th level: The _favored enemy_ bonus +8.
+At 15th level: The _favored enemy_ bonus increases to +8.
 
-At 20th level: The _favored enemy_ bonus +10.
+At 20th level: The _favored enemy_ bonus increases to +10.
 
 **Forest Ghost (Ex)**
 
@@ -77,11 +77,11 @@ does not gain additional _favored terrains_ at higher levels.
 
 **Special:** This otherwise acts as and replaces the standard _favored enemy_ ability.
 
-At 8th level: The _favored terrain_ bonus +4.
+At 8th level: The _favored terrain_ bonus increases to +4.
 
-At 13th level: The _favored terrain_ bonus +6.
+At 13th level: The _favored terrain_ bonus increases to +6.
 
-At 18th level: The _favored terrain_ bonus +8.
+At 18th level: The _favored terrain_ bonus increases to +8.
 
 **Spells**
 

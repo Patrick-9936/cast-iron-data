@@ -112,9 +112,9 @@ keeper is Medium).
 **Passive:** The fiend keeper gains [resistance](ref/umr/resistance) 5 to two of the following
 energy types: acid, cold, electricity, fire, or sonic.
 
-At 7th level: The resistance 10.
+At 7th level: The resistance increases to 10.
 
-At 13th level: The resistance 20.
+At 13th level: The resistance increases to 20.
 
 **Ex-Fiend Keepers**
 

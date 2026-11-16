@@ -94,11 +94,11 @@ starting at +1d6 damage.
 
 **Replaces:** Manifold tricks
 
-At 9th level: Sneak attack damage +2d6.
+At 9th level: Sneak attack damage increases to +2d6.
 
-At 13th level: Sneak attack damage +3d6.
+At 13th level: Sneak attack damage increases to +3d6.
 
-At 17th level: Sneak attack damage +4d6.
+At 17th level: Sneak attack damage increases to +4d6.
 
 **Detection Void (Su)**
 
