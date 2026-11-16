@@ -135,15 +135,15 @@ creature with [concealment](ref/rule/concealment).
 damage instead of lethal damage. You can't use a weapon that deals lethal damage to deal nonlethal
 damage in a sneak attack, not even with the usual -4 penalty.
 
-At 6th level: Your extra damage +2d6 damage.
+At 6th level: Your extra damage increases to +2d6 damage.
 
-At 9th level: Your extra damage +3d6 damage.
+At 9th level: Your extra damage increases to +3d6 damage.
 
-At 12th level: Your extra damage +4d6 damage.
+At 12th level: Your extra damage increases to +4d6 damage.
 
-At 15th level: Your extra damage +5d6 damage.
+At 15th level: Your extra damage increases to +5d6 damage.
 
-At 18th level: Your extra damage +6d6 damage.
+At 18th level: Your extra damage increases to +6d6 damage.
 
 #### Stalker (Ex) {#stalker}
 

@@ -29,11 +29,11 @@ that lasts a number of rounds equal to your druid level.
 
 **Usage:** Wisdom3 modifier times/day
 
-At 6th level: This bonus +4.
+At 6th level: This bonus increases to +4.
 
-At 11th level: This bonus +6.
+At 11th level: This bonus increases to +6.
 
-At 16th level: This bonus +8.
+At 16th level: This bonus increases to +8.
 
 **Agent of Rebirth (Sp)**
 

@@ -162,13 +162,13 @@ Gunslingers may optionally select a [renowned deed](ref/ability/gunslinger-renow
 **Passive:** You gain a +1 dodge bonus to AC while wearing light or no armor. Anything that causes
 you to lose your Dexterity bonus to AC also causes you to lose this dodge bonus.
 
-At 6th level: The dodge bonus +2.
+At 6th level: The dodge bonus increases to +2.
 
-At 10th level: The dodge bonus +3.
+At 10th level: The dodge bonus increases to +3.
 
-At 14th level: The dodge bonus +4.
+At 14th level: The dodge bonus increases to +4.
 
-At 18th level: The dodge bonus +5.
+At 18th level: The dodge bonus increases to +5.
 
 #### Bonus Feats {#bonus-feats}
 

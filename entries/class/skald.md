@@ -193,9 +193,9 @@ whichever comes first.
 
 **Action:** At 1st Level
 
-At 8th level: The bonus to Str and Con +4.
+At 8th level: The bonus to Str and Con increases to +4.
 
-At 16th level: The bonus to Str and Con +6.
+At 16th level: The bonus to Str and Con increases to +6.
 
 Affected allies gain a +2 morale bonus to Strength and Constitution and a morale bonus on Will
 saving throws equal to 1 + [one-fourth](ref/misc/fractions-and-rounding) of your skald level, but

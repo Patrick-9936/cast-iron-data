@@ -295,21 +295,21 @@ or not to include yourself in this effect. Creatures that take damage from chann
 a Will save to halve the damage, with a DC equal to 10 + [half](ref/misc/fractions-and-rounding)
 your cleric level + your Charisma modifier.
 
-At 5th level: The damage 3d6.
+At 5th level: The damage increases to 3d6.
 
-At 7th level: The damage 4d6.
+At 7th level: The damage increases to 4d6.
 
-At 9th level: The damage 5d6.
+At 9th level: The damage increases to 5d6.
 
-At 11th level: The damage 6d6.
+At 11th level: The damage increases to 6d6.
 
-At 13th level: The damage 7d6.
+At 13th level: The damage increases to 7d6.
 
-At 15th level: The damage 8d6.
+At 15th level: The damage increases to 8d6.
 
-At 17th level: The damage 9d6.
+At 17th level: The damage increases to 9d6.
 
-At 19th level: The damage 10d6.
+At 19th level: The damage increases to 10d6.
 
 Some deities may endow their mortal servants with the power to channel energies in other ways that
 more closely mirror their particular focus. If you serve a deity, you may choose one of these
@@ -396,17 +396,17 @@ level + 11.
 
 **Usage:** 1 time/day + 1 per 4 antipaladin levels beyond 5th
 
-At 7th level: This ability functions as summon monster +4.
+At 7th level: This ability functions as [summon monster IV](ref/spell/summon-monster-4).
 
-At 9th level: This ability functions as summon monster +5.
+At 9th level: This ability functions as [summon monster V](ref/spell/summon-monster-5).
 
-At 11th level: This ability functions as summon monster +6.
+At 11th level: This ability functions as [summon monster VI](ref/spell/summon-monster-6).
 
-At 13th level: This ability functions as summon monster +7.
+At 13th level: This ability functions as [summon monster VII](ref/spell/summon-monster-7).
 
-At 15th level: This ability functions as summon monster +8.
+At 15th level: This ability functions as [summon monster VIII](ref/spell/summon-monster-8).
 
-At 17th level: This ability functions as summon monster +9.
+At 17th level: This ability functions as [summon monster IX](ref/spell/summon-monster-9).
 
 The second type of bond allows you to gain the service of a fiendish servant. This functions as
 [summon monster III](ref/spell/summon-monster-3), except the duration is permanent and you can only

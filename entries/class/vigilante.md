@@ -177,23 +177,23 @@ are unaware of your presence, who consider you an ally, or who are made
 damage dice are reduced to d4s. You can deal _hidden strike_ damage against targets with
 [concealment](ref/rule/concealment) (but not total concealment).
 
-At 3rd level: The damage +2d8.
+At 3rd level: The damage increases to +2d8.
 
-At 5th level: The damage +3d8.
+At 5th level: The damage increases to +3d8.
 
-At 7th level: The damage +4d8.
+At 7th level: The damage increases to +4d8.
 
-At 9th level: The damage +5d8.
+At 9th level: The damage increases to +5d8.
 
-At 11th level: The damage +6d8.
+At 11th level: The damage increases to +6d8.
 
-At 13th level: The damage +7d8.
+At 13th level: The damage increases to +7d8.
 
-At 15th level: The damage +8d8.
+At 15th level: The damage increases to +8d8.
 
-At 17th level: The damage +9d8.
+At 17th level: The damage increases to +9d8.
 
-At 19th level: The damage +10d8.
+At 19th level: The damage increases to +10d8.
 
 #### Vigilante Talent {#vigilante-talent}
 

@@ -49,11 +49,11 @@ electricity, fire, and sonic).
 
 **Usage:** 1 time/day per cleric level
 
-At 12th level: The deflection bonus +2.
+At 12th level: The deflection bonus increases to +2.
 
-At 16th level: The deflection bonus +3.
+At 16th level: The deflection bonus increases to +3.
 
-At 20th level: The deflection bonus +4.
+At 20th level: The deflection bonus increases to +4.
 
 **Domain Spells**
 
