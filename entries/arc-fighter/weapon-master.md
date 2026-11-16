@@ -39,13 +39,13 @@ saves against any effect that targets his chosen weapon (for example, [grease](r
 
 **Replaces:** Bravery
 
-At 6th level: The bonus +2.
+At 6th level: The bonus increases to +2.
 
-At 10th level: The bonus +3.
+At 10th level: The bonus increases to +3.
 
-At 14th level: The bonus +4.
+At 14th level: The bonus increases to +4.
 
-At 18th level: The bonus +5.
+At 18th level: The bonus increases to +5.
 
 **Weapon Training (Ex)**
 
@@ -55,13 +55,13 @@ At 18th level: The bonus +5.
 
 **Replaces:** Armor training 1, 2, 3, and 4
 
-At 7th level: The bonus +2.
+At 7th level: The bonus increases to +2.
 
-At 11th level: The bonus +3.
+At 11th level: The bonus increases to +3.
 
-At 15th level: The bonus +4.
+At 15th level: The bonus increases to +4.
 
-At 19th level: The bonus +5.
+At 19th level: The bonus increases to +5.
 
 **Reliable Strike (Ex)**
 

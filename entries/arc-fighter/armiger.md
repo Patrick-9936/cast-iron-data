@@ -85,10 +85,10 @@ betraying her beliefs.
 
 **Replaces:** Bravery
 
-At 6th level: The Will save bonus +2.
+At 6th level: The Will save bonus increases to +2.
 
-At 10th level: The Will save bonus +3.
+At 10th level: The Will save bonus increases to +3.
 
-At 14th level: The Will save bonus +4.
+At 14th level: The Will save bonus increases to +4.
 
-At 18th level: The Will save bonus +5.
+At 18th level: The Will save bonus increases to +5.

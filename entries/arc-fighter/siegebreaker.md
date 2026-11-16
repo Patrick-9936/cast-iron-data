@@ -50,11 +50,13 @@ for 1 minute.
 
 **Usage:** Con3 modifier times/day
 
-At 8th level: The amount of temporary hit points 4.
+At 6th level: The amount of temporary hit points increases to 4.
 
-At 14th level: The amount of temporary hit points 6.
+At 10th level: The amount of temporary hit points increases to 6.
 
-At 20th level: The amount of temporary hit points 8.
+At 14th level: The amount of temporary hit points increases to 8.
+
+At 18th level: The amount of temporary hit points increases to 10.
 
 **Breaker Momentum (Ex)**
 

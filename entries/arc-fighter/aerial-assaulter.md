@@ -38,13 +38,13 @@ though its caster level were 2 higher for the purposes of determining its effect
 
 **Replaces:** Bravery
 
-At 6th level: The bonus on Fly checks +4.
+At 6th level: The bonus on Fly checks increases to +4.
 
-At 10th level: The bonus on Fly checks +6.
+At 10th level: The bonus on Fly checks increases to +6.
 
-At 14th level: The bonus on Fly checks +8.
+At 14th level: The bonus on Fly checks increases to +8.
 
-At 18th level: The bonus on Fly checks +10.
+At 18th level: The bonus on Fly checks increases to +10.
 
 **Take the High Ground (Ex)**
 

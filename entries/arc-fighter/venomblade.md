@@ -53,11 +53,11 @@ flanks or that are denied their Dexterity bonus to AC against him.
 
 **Replaces:** Bonus feat gained at 6th level
 
-At 10th level: This additional damage 2d6.
+At 10th level: This additional damage increases to 2d6.
 
-At 14th level: This additional damage 3d6.
+At 14th level: This additional damage increases to 3d6.
 
-At 18th level: This additional damage 4d6.
+At 18th level: This additional damage increases to 4d6.
 
 **Viper Strike (Ex)**
 

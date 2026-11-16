@@ -33,13 +33,13 @@ to become [paralyzed](ref/rule/paralyzed), [slowed](ref/spell/slow), or
 
 **Replaces:** Bravery
 
-At 6th level: This bonus +2.
+At 6th level: This bonus increases to +2.
 
-At 10th level: This bonus +3.
+At 10th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Leaping Attack (Ex)**
 
@@ -50,11 +50,11 @@ attack and damage rolls.
 
 **Replaces:** Weapon training 1, 2, 3, and 4
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +2.
 
-At 13th level: This bonus +3.
+At 13th level: This bonus increases to +3.
 
-At 17th level: This bonus +4.
+At 17th level: This bonus increases to +4.
 
 **Rapid Attack (Ex)**
 

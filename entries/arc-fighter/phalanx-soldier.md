@@ -33,13 +33,13 @@ against [trample](ref/umr/trample) attacks.
 
 **Replaces:** Bravery
 
-At 6th level: The bonus +2.
+At 6th level: The bonus increases to +2.
 
-At 10th level: The bonus +3.
+At 10th level: The bonus increases to +3.
 
-At 14th level: The bonus +4.
+At 14th level: The bonus increases to +4.
 
-At 18th level: The bonus +5.
+At 18th level: The bonus increases to +5.
 
 **Phalanx Fighting (Ex)**
 
@@ -63,11 +63,11 @@ a one-handed weapon.
 
 **Usage:** 1 time/day + 1 per 4 fighter levels beyond 5th
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +2.
 
-At 13th level: This bonus +3.
+At 13th level: This bonus increases to +3.
 
-At 17th level: This bonus +4.
+At 17th level: This bonus increases to +4.
 
 **Deft Shield (Ex)**
 

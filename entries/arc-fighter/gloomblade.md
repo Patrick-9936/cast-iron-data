@@ -68,13 +68,13 @@ at a time; creating a new shadow weapon causes an existing shadow weapon to vani
 
 **Special:** He retains proficiency in light and medium armor
 
-At 6th level: The weapon's enhancement bonus +2.
+At 6th level: The weapon's enhancement bonus increases to +2.
 
-At 10th level: The weapon's enhancement bonus +3.
+At 10th level: The weapon's enhancement bonus increases to +3.
 
-At 14th level: The weapon's enhancement bonus +4.
+At 14th level: The weapon's enhancement bonus increases to +4.
 
-At 18th level: The weapon's enhancement bonus +5.
+At 18th level: The weapon's enhancement bonus increases to +5.
 
 **Shadow Weapon Training (Ex)**
 

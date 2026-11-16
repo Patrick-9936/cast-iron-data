@@ -57,13 +57,13 @@ type.
 
 **Replaces:** 2nd level fighter bonus feat
 
-At 6th level: The saving throw bonus +2.
+At 6th level: The saving throw bonus increases to +2.
 
-At 10th level: The saving throw bonus +3.
+At 10th level: The saving throw bonus increases to +3.
 
-At 14th level: The saving throw bonus +4.
+At 14th level: The saving throw bonus increases to +4.
 
-At 18th level: The saving throw bonus +5.
+At 18th level: The saving throw bonus increases to +5.
 
 **Alpine Training (Ex)**
 
@@ -102,13 +102,13 @@ environmental effects.
 
 **Replaces:** Bravery
 
-At 6th level: This bonus +2.
+At 6th level: This bonus increases to +2.
 
-At 10th level: This bonus +3.
+At 10th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Mobility Training (Ex)**
 

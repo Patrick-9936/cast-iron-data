@@ -62,13 +62,13 @@ poisoning ammunition, and making sniping attempts.
 
 **Replaces:** Bravery
 
-At 6th level: This bonus +4.
+At 6th level: This bonus increases to +4.
 
-At 10th level: This bonus +6.
+At 10th level: This bonus increases to +6.
 
-At 14th level: This bonus +8.
+At 14th level: This bonus increases to +8.
 
-At 18th level: This bonus +10.
+At 18th level: This bonus increases to +10.
 
 **Quick and Deadly (Ex)**
 
@@ -89,11 +89,11 @@ and gains a +2 bonus on attack rolls and damage rolls.
 
 **Replaces:** Weapon training 1, 3, and 4
 
-At 9th level: This bonus +2.
+At 9th level: This bonus increases to +3.
 
-At 13th level: This bonus +3.
+At 13th level: This bonus increases to +4.
 
-At 17th level: This bonus +4.
+At 17th level: This bonus increases to +5.
 
 **Greater Imbued Shot (Su)**
 

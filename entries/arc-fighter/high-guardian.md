@@ -68,13 +68,13 @@ instead gains [Stand Still](ref/feat/stand-still) as a bonus feat.
 
 **Replaces:** Bravery
 
-At 6th level: This bonus +2.
+At 6th level: This bonus increases to +2.
 
-At 10th level: This bonus +3.
+At 10th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Royal Protector (Ex)**
 
