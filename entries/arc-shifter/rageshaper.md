@@ -120,13 +120,11 @@ object's [hardness](ref/umr/hardness).
 
 **At 1st Level:** _Terrible slam_ ignores 5 points of an object's [hardness](ref/umr/hardness).
 
-At 5th level: This 10 points.
+At 5th level: The hardness ignored increases to 10 points.
 
-At 10th level: This 15 points.
+At 10th level: The hardness ignored increases to 15 points.
 
-At 15th level: This 20 points.
-
-At 20th level: This 25 points.
+At 15th level: The hardness ignored increases to 20 points.
 
 **Invulnerable Defenses (Ex)**
 

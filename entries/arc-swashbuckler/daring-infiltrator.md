@@ -49,13 +49,13 @@ and 20th level can come from the following list: [Alertness](ref/feat/alertness)
 
 **Replaces:** Charmed life
 
-At 6th level: This bonus +2.
+At 6th level: This bonus increases to +2.
 
-At 10th level: This bonus +3.
+At 10th level: This bonus increases to +3.
 
-At 14th level: This bonus +4.
+At 14th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Deeds**
 

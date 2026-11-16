@@ -43,15 +43,15 @@ feet.
 
 **Replaces:** Trap sense
 
-At 6th level: This range 20 feet.
+At 6th level: This range increases to 20 feet.
 
-At 9th level: This range 30 feet.
+At 9th level: This range increases to 30 feet.
 
-At 12th level: This range 40 feet.
+At 12th level: This range increases to 40 feet.
 
-At 15th level: This range 50 feet.
+At 15th level: This range increases to 50 feet.
 
-At 18th level: This range 60 feet.
+At 18th level: This range increases to 60 feet.
 
 **These rogue talents complement this archetype:** Camouflage, snap shot, sniper's eye, weapon
 training

@@ -73,13 +73,13 @@ dealt is 1d6 points. A carnivalist's familiar can also deal sneak attack damage 
 foes as long as it is within 30 feet of her (though only Small and larger creatures may flank
 enemies, as usual).
 
-At 6th level: The sneak attack damage 2d6 points.
+At 6th level: The sneak attack damage increases to 2d6 points.
 
-At 10th level: The sneak attack damage 3d6 points.
+At 10th level: The sneak attack damage increases to 3d6 points.
 
-At 14th level: The sneak attack damage 4d6 points.
+At 14th level: The sneak attack damage increases to 4d6 points.
 
-At 18th level: The sneak attack damage 5d6 points.
+At 18th level: The sneak attack damage increases to 5d6 points.
 
 **Animal Trainer (Ex)**
 

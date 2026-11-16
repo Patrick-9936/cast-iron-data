@@ -87,13 +87,13 @@ protecting her allies from peril.
 **Special:** This bonus does not stack with any bonus to AC the guiding blade provides with the
 [aid another](ref/rule/aid-another-2) action.
 
-At 7th level: The bonus +2.
+At 7th level: The bonus increases to +2.
 
-At 11th level: The bonus +3.
+At 11th level: The bonus increases to +3.
 
-At 15th level: The bonus +4.
+At 15th level: The bonus increases to +4.
 
-At 19th level: The bonus +5.
+At 19th level: The bonus increases to +5.
 
 **Deeds**
 

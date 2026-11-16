@@ -72,13 +72,13 @@ vermin at will. This grants her a touch attack that deals 1d6 points of piercing
 as an area attack for the purpose of overcoming the [damage reduction](ref/rule/damage-reduction) of
 swarms. She doesn't add her Strength modifier as a bonus on damage rolls for this attack.
 
-At 7th level: This damage 2d6.
+At 7th level: This damage increases to 2d6.
 
-At 11th level: This damage 3d6.
+At 11th level: This damage increases to 3d6.
 
-At 15th level: This damage 4d6.
+At 15th level: This damage increases to 4d6.
 
-At 19th level: This damage 5d6.
+At 19th level: This damage increases to 5d6.
 
 **Swarm Flow (Su)**
 

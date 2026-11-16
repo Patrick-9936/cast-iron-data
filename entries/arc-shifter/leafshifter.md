@@ -49,9 +49,9 @@ made.
 
 **Passive:** The creature gains a +2 bonus on combat maneuver checks to [grapple](ref/rule/grapple).
 
-At 8th level: This bonus +3.
+At 8th level: This bonus increases to +3.
 
-At 15th level: This bonus +4.
+At 15th level: This bonus increases to +4.
 
 **Brambles**
 
@@ -66,33 +66,33 @@ point of piercing damage.
 
 **Passive:** The creature gains a +4 competence bonus on Climb checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Giant Flytrap**
 
 **Passive:** The creature gains a +4 competence bonus on Stealth checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Mushroom**
 
 **Passive:** The creature gains a +4 enhancement bonus on saves against poison.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Oak**
 
 **Passive:** The creature gains a +2 enhancement bonus to CMD.
 
-At 8th level: This bonus +4.
+At 8th level: This bonus increases to +4.
 
-At 15th level: This bonus +6.
+At 15th level: This bonus increases to +6.
 
 **Shrieker**
 
@@ -106,14 +106,14 @@ At 15th level: This bonus +6.
 
 **Passive:** The creature gains a +4 competence bonus on Fly checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.
 
 **Water Lily**
 
 **Passive:** The creature gains a +4 competence bonus on Swim checks.
 
-At 8th level: This bonus +6.
+At 8th level: This bonus increases to +6.
 
-At 15th level: This bonus +8.
+At 15th level: This bonus increases to +8.

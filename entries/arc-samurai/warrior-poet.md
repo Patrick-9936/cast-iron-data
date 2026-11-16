@@ -67,11 +67,17 @@ light load, her land speed increases by 10 feet.
 **Move:** The warrior poet can focus her senses to gain [blindsense](ref/umr/blindsense) out to 5
 feet for 1 round.
 
-At 10th level: The range of her [blindsense](ref/rule/blindsight-and-blindsense) 10 feet.
+At 5th level: The range of her [blindsense](ref/rule/blindsight-and-blindsense) increases to 10
+feet.
 
-At 15th level: The range of her [blindsense](ref/rule/blindsight-and-blindsense) 15 feet.
+At 10th level: The range of her [blindsense](ref/rule/blindsight-and-blindsense) increases to 15
+feet.
 
-At 20th level: The range of her [blindsense](ref/rule/blindsight-and-blindsense) 20 feet.
+At 15th level: The range of her [blindsense](ref/rule/blindsight-and-blindsense) increases to 20
+feet.
+
+At 20th level: The range of her [blindsense](ref/rule/blindsight-and-blindsense) increases to 25
+feet.
 
 **Jininsiel's Guidance**
 

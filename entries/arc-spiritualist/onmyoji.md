@@ -50,11 +50,11 @@ spell-like and supernatural abilities of fey, outsiders, and incorporeal undead.
 
 **Replaces:** Shared consciousness, fused consciousness
 
-At 6th level: This bonus +3.
+At 6th level: This bonus increases to +3.
 
-At 12th level: This bonus +4.
+At 12th level: This bonus increases to +4.
 
-At 18th level: This bonus +5.
+At 18th level: This bonus increases to +5.
 
 **Divine Teachings (Su)**
 

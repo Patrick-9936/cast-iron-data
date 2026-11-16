@@ -53,13 +53,13 @@ her AC.
 
 **Usage:** 1 time/day per rogue level
 
-At 7th level: The bonus +2.
+At 7th level: The bonus increases to +2.
 
-At 11th level: The bonus +3.
+At 11th level: The bonus increases to +3.
 
-At 15th level: The bonus +4.
+At 15th level: The bonus increases to +4.
 
-At 19th level: The bonus +5.
+At 19th level: The bonus increases to +5.
 
 **Improvised Weapon Mastery (Ex)**
 

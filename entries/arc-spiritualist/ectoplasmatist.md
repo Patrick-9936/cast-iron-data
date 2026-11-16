@@ -76,13 +76,13 @@ provoking).
 **Replaces:** Etheric tether, phantom, shared consciousness, fused consciousness, spiritual bond,
 empowered consciousness
 
-At 6th level: The lashes' enhancement bonus +2.
+At 6th level: The lashes' enhancement bonus increases to +2.
 
-At 10th level: The lashes' enhancement bonus +3.
+At 10th level: The lashes' enhancement bonus increases to +3.
 
-At 14th level: The lashes' enhancement bonus +4.
+At 14th level: The lashes' enhancement bonus increases to +4.
 
-At 18th level: The lashes' enhancement bonus +5.
+At 18th level: The lashes' enhancement bonus increases to +5.
 
 **Spiritual Combat (Su)**
 
