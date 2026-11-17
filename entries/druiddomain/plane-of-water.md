@@ -33,7 +33,7 @@ druid level and allows you to breathe normally underwater. You can end the effec
 touch spell to create a pseudopod of water that extends your effective reach by 5 feet for that
 attack. When used underwater, the pseudopod instead increases your reach by 10 feet.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Hydraulic Crush (Su)**
 

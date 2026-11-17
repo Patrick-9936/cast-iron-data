@@ -46,7 +46,7 @@ effect and halves the damage. The DC of this save is equal to 10 + 1/2 your wiza
 Intelligence modifier. Creatures that begin their turn inside the cloud can move out that turn
 without penalty, but those that enter the cloud are affected.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Earth Glide (Su)**
 
@@ -80,7 +80,7 @@ damage. In addition, the ground in this area remains molten for another 1d4 roun
 begin their turns in the area can move out that turn without penalty, but those that enter the area
 each take 1d6 points of fire damage.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Lava Shield (Su)**
 
@@ -114,7 +114,7 @@ remove the entangled condition. Jumping into a large body of water or being subj
 that creates a substantial amount of water (such as a casting of
 [create water](ref/spell/create-water)) removes all the mud on a creature.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Mud Missile (Su)**
 

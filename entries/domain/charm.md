@@ -24,16 +24,12 @@ grace are divine.
 
 **Dazing Touch (Sp)**
 
-**Id:** touch
-
 **Standard:** You can cause a living creature to become [dazed](ref/misc/dazed) for 1 round as a
 melee touch attack. Creatures with more Hit Dice than your cleric level are unaffected.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Charming Smile (Sp)**
-
-**Id:** smile
 
 **Gained:** At 8th Level
 
@@ -61,8 +57,6 @@ succeeds on its save to resist the effect.
 1. insanity
 1. demand
 1. dominate monster
-
-**Save:** domain
 
 ### Captivation Subdomain
 
@@ -94,8 +88,6 @@ take a -5 penalty on Perception checks and are treated as though they had 2 fewe
 
 **4th:** rainbow pattern
 
-**From:** domain
-
 ### Love Subdomain
 
 **Sources:** Advanced Player's Guide pg 93
@@ -114,15 +106,13 @@ only affects one of the attacks. This is a mind-affecting effect.
 
 **Replaces:** The dazing touch power of the Charm domain
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
 **2nd:** enthrall
 
 **8th:** euphoric tranquility
-
-**From:** domain
 
 ### Lust Subdomain
 
@@ -151,8 +141,6 @@ for 1d4 rounds (GM's choice). This is a mind-affecting effect.
 **2nd:** touch of idiocy
 
 **4th:** confusion
-
-**From:** domain
 
 ### Deities
 

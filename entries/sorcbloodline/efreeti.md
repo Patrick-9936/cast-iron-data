@@ -18,35 +18,33 @@ group = "sorcerer-bloodline"
 You were born with the power of fire genies, and the magic of the
 [efreet](ref/monster/genie-efreeti) is strong in you.
 
-**Gained class skills:** kp
+**Gained class skills:** [Knowledge (planes)](ref/skill/knowledge-planes)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Persistent image
+**Spells:** Enlarge person (3rd)
 
-**Spells:** Planar binding
+**Spells:** Scorching ray (5th)
 
-**Spells:** Plane shift
+**Spells:** Fireball (7th)
 
-**Spells:** Giant form II
+**Spells:** Wall of fire (9th)
 
-**Spells:** Wish
+**Spells:** Persistent image (11th)
 
-**Spells:** Enlarge person
+**Spells:** Planar binding (13th)
 
-**Spells:** Scorching ray
+**Spells:** Plane shift (15th)
 
-**Spells:** Fireball
+**Spells:** Giant form II (17th)
 
-**Spells:** Wall of fire
+**Spells:** Wish (19th)
 
-**Br:** \~
-
-**Details:**
-[Dodge](ref/feat/dodge)[Empower Spell](ref/feat/empower-spell)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Power Attack](ref/feat/power-attack)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[planes\])\~[Weapon Finesse](ref/feat/weapon-finesse))
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Dodge](ref/feat/dodge), [Empower Spell](ref/feat/empower-spell),
+[Great Fortitude](ref/feat/great-fortitude), [Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Power Attack](ref/feat/power-attack),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[planes\]),
+[Weapon Finesse](ref/feat/weapon-finesse)
 
 **Bloodline Arcana**
 
@@ -65,15 +63,15 @@ Like an efreeti, you have both natural power over air and several other genie-ba
 attack. This ray deals fire damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your
 sorcerer level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Elemental Resistance (Ex)**
-
-**At 9th Level:** Your fire resistance increases to 20.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain fire [resistance](ref/umr/resistance) 10.
+
+**At 9th Level:** Your fire resistance increases to 20.
 
 **Efreeti Form (Su)**
 

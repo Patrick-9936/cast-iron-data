@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Stars patron grants the following spells at the listed witch levels.
 
-**Spells:** Dream
+**Spells:** Faerie fire (2nd)
 
-**Spells:** Cloak of dreams
+**Spells:** Dust of twilight (4th)
 
-**Spells:** Circle of clarity
+**Spells:** Guiding star (6th)
 
-**Spells:** Euphoric tranquility
+**Spells:** Wandering star motes (8th)
 
-**Spells:** Astral projection
+**Spells:** Dream (10th)
 
-**Spells:** Faerie fire
+**Spells:** Cloak of dreams (12th)
 
-**Spells:** Dust of twilight
+**Spells:** Circle of clarity (14th)
 
-**Spells:** Guiding star
+**Spells:** Euphoric tranquility (16th)
 
-**Spells:** Wandering star motes
+**Spells:** Astral projection (18th)

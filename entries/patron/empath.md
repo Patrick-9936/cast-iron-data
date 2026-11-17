@@ -22,11 +22,11 @@ purpose given direction by the beliefs of countless minds and hearts.
 **Passive:** You cannot help but feel the despair, pain, and other negative emotions in those around
 you, taking a -5 penalty on saving throws against emotion effects.
 
-**Spells:** Retrocognition
+**Spells:** Burst of insight (2nd)
 
-**Spells:** Burst of insight
+**Spells:** Analyze aura (6th)
 
-**Spells:** Analyze aura
+**Spells:** Retrocognition (10th)
 
 **Available patron themes:** [Ancestors](ref/patron/ancestors), [Mind](ref/patron/mind),
 [Spirits](ref/patron/spirits), [Wisdom](ref/patron/wisdom)

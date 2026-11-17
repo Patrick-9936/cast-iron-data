@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Endurance patron grants the following spells at the listed witch levels.
 
-**Spells:** [Spell resistance](ref/rule/spell-resistance)
+**Spells:** Endure elements (2nd)
 
-**Spells:** Mass bear's endurance
+**Spells:** Bear's endurance (4th)
 
-**Spells:** Greater restoration
+**Spells:** Protection from energy (6th)
 
-**Spells:** Iron body
+**Spells:** Spell immunity (8th)
 
-**Spells:** Miracle
+**Spells:** [Spell resistance](ref/rule/spell-resistance) (10th)
 
-**Spells:** Endure elements
+**Spells:** Mass bear's endurance (12th)
 
-**Spells:** Bear's endurance
+**Spells:** Greater restoration (14th)
 
-**Spells:** Protection from energy
+**Spells:** Iron body (16th)
 
-**Spells:** Spell immunity
+**Spells:** Miracle (18th)

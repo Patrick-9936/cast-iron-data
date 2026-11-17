@@ -55,10 +55,10 @@ object to be deformed in any way.
 
 **Oath Spells**
 
-**Spells:** Sanctuary
+**Spells:** Sanctuary (1st)
 
-**Spells:** Make whole
+**Spells:** Make whole (2nd)
 
-**Spells:** Banish seeming
+**Spells:** Banish seeming (3rd)
 
-**Spells:** True form
+**Spells:** True form (4th)

@@ -48,10 +48,10 @@ her _smite's_ attack bonus or ability to bypass DR.
 
 **Oath Spells**
 
-**Spells:** Wrath
+**Spells:** Wrath (1st)
 
-**Spells:** Confess
+**Spells:** Confess (2nd)
 
-**Spells:** Blessing of fervor
+**Spells:** Blessing of fervor (3rd)
 
-**Spells:** Order's wrath
+**Spells:** Order's wrath (4th)

@@ -24,23 +24,23 @@ face.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Enlarge person
+**Spells:** Enlarge person (1st)
 
-**Spells:** Fog cloud
+**Spells:** Fog cloud (2nd)
 
-**Spells:** Magic vestment
+**Spells:** Magic vestment (3rd)
 
-**Spells:** Wall of fire
+**Spells:** Wall of fire (4th)
 
-**Spells:** Righteous might
+**Spells:** Righteous might (5th)
 
-**Spells:** Mass bull's strength
+**Spells:** Mass bull's strength (6th)
 
-**Spells:** Control weather
+**Spells:** Control weather (7th)
 
-**Spells:** Earthquake
+**Spells:** Earthquake (8th)
 
-**Spells:** Storm of vengeance
+**Spells:** Storm of vengeance (9th)
 
 ### Hexes
 
@@ -130,7 +130,7 @@ ability.
 **Flavor:** A shaman surrounds herself with the spirit of battle. Allies within 30 feet of the
 shaman (including the shaman) receive a +1 morale bonus on attack rolls and weapon damage rolls.
 
-**Usage:** Charisma3 modifier rounds/day
+**Usage:** 3 + Charisma modifier rounds/day
 
 At 8th level: This bonus increases to +2.
 
@@ -149,7 +149,7 @@ she does. The effect lasts for 1 minute. If the weapon already has the _[bane](r
 weapon special ability of the type chosen, the additional damage dealt by _[bane](ref/spell/bane)_
 increases to 4d6.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### True Spirit Ability
 
@@ -162,7 +162,7 @@ ability upon having access to the true version of that spirit.
 [enlarge person](ref/spell/enlarge-person) and [deadly juggernaut](ref/spell/deadly-juggernaut) for
 1 minute or until dismissed.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Manifestation
 

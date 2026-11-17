@@ -35,7 +35,7 @@ attack roll rather than the normal +2 flanking bonus.
 
 **Gained:** At 8th Level
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Domain Spells**
 

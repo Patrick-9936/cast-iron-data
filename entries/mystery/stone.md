@@ -19,27 +19,28 @@ group = "oracle-mystery"
 
 **Details:** [Abadar](ref/faith/abadar), [Gorum](ref/faith/gorum), [Torag](ref/faith/torag).
 
-**Gained class skills:** app, climb, intm, sur
+**Gained class skills:** [Appraise](ref/skill/appraise), [Climb](ref/skill/climb),
+[Intimidate](ref/skill/intimidate), [Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Stoneskin
+**Spells:** Magic stone (2nd)
 
-**Spells:** Stone tell
+**Spells:** Stone call (4th)
 
-**Spells:** Statue
+**Spells:** Meld into stone (6th)
 
-**Spells:** Repel metal or stone
+**Spells:** Wall of stone (8th)
 
-**Spells:** Clashing rocks
+**Spells:** Stoneskin (10th)
 
-**Spells:** Magic stone
+**Spells:** Stone tell (12th)
 
-**Spells:** Stone call
+**Spells:** Statue (14th)
 
-**Spells:** Meld into stone
+**Spells:** Repel metal or stone (16th)
 
-**Spells:** Wall of stone
+**Spells:** Clashing rocks (18th)
 
 ### Revelations
 
@@ -160,7 +161,7 @@ You can use this ability once per day, but the duration is 1 minute per oracle l
 **Standard:** You can perform a melee touch attack that deals an amount of acid damage equal to
 1d6 + [half](ref/misc/fractions-and-rounding) of your oracle level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Final Revelation
 

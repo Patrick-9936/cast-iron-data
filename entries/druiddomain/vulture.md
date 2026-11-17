@@ -27,7 +27,7 @@ with the flow of unseen currents.
 **Immediate:** You gain a +2 bonus on saving throws against disease, death spells, and death effects
 that lasts a number of rounds equal to your druid level.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 At 6th level: This bonus increases to +4.
 

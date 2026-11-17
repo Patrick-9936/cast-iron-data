@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Agility patron grants the following spells at the listed witch levels.
 
-**Spells:** Polymorph
+**Spells:** Jump (2nd)
 
-**Spells:** Mass cat's grace
+**Spells:** Cat's grace (4th)
 
-**Spells:** Ethereal jaunt
+**Spells:** Haste (6th)
 
-**Spells:** Animal shapes
+**Spells:** Freedom of movement (8th)
 
-**Spells:** Shapechange
+**Spells:** Polymorph (10th)
 
-**Spells:** Jump
+**Spells:** Mass cat's grace (12th)
 
-**Spells:** Cat's grace
+**Spells:** Ethereal jaunt (14th)
 
-**Spells:** Haste
+**Spells:** Animal shapes (16th)
 
-**Spells:** Freedom of movement
+**Spells:** Shapechange (18th)

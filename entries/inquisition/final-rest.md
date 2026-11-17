@@ -30,7 +30,7 @@ rest personally.
 **Ability:** You can use [disrupt undead](ref/spell/disrupt-undead) as a
 [spell-like ability](ref/umr/spell-like-abilities), adding your wisdom modifier to the damage.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Unravel Animation (Su)**
 

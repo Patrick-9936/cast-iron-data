@@ -24,16 +24,12 @@ your faith.
 
 **Battle Rage (Sp)**
 
-**Id:** rage
-
 **Standard:** You can touch a creature to give it a bonus on melee damage rolls equal to 1/2 your
 cleric level for 1 round (minimum +1).
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Weapon Master (Su)**
-
-**Id:** weap
 
 **Gained:** At 8th Level
 
@@ -53,8 +49,6 @@ this ability. You must meet the prerequisites to use this feat.
 1. power word blind
 1. power word stun
 1. power word kill
-
-**Save:** domain
 
 ### Blood Subdomain
 
@@ -84,8 +78,6 @@ weapon quality for a number of rounds equal to 1/2 your cleric level.
 
 **7th:** mass inflict serious wounds
 
-**From:** domain
-
 ### Duels Subdomain
 
 **Sources:** Heroes of the Streets pg 18
@@ -100,7 +92,7 @@ weapon quality for a number of rounds equal to 1/2 your cleric level.
 against that creature's attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to
 feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -109,8 +101,6 @@ feint against it. These bonuses last for a number of rounds equal to 1/2 your cl
 **5th:** dance of a hundred cuts
 
 **8th:** dance of a thousand cuts
-
-**From:** domain
 
 ### Tactics Subdomain
 
@@ -128,7 +118,7 @@ the ability to roll twice and take either result. This decision is made before r
 
 **Replaces:** The battle rage power of the War domain
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -137,8 +127,6 @@ the ability to roll twice and take either result. This decision is made before r
 **5th:** greater command
 
 **8th:** greater planar ally
-
-**From:** domain
 
 ### Deities
 

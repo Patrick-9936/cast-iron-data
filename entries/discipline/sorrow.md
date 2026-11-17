@@ -80,7 +80,7 @@ phrenic pool.
 
 **Special:** This is a mind-affecting emotion effect.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Wave of Gloom (Su)**
 

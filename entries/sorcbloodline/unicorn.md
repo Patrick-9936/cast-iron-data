@@ -22,35 +22,33 @@ When the two have a particularly strong bond, the unicorn's magic can become a p
 human, and sometimes is even passed on to her children. These children, blessed by their parent's
 connection to that force of true good, grow up to become sorcerers of the unicorn bloodline.
 
-**Gained class skills:** heal
+**Gained class skills:** [Heal](ref/skill/heal)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Atonement
+**Spells:** Cure light wounds (3rd)
 
-**Spells:** Heal
+**Spells:** Cure moderate wounds (5th)
 
-**Spells:** Greater restoration
+**Spells:** Cure serious wounds (7th)
 
-**Spells:** Mass cure critical wounds
+**Spells:** Neutralize poison (9th)
 
-**Spells:** Mass heal
+**Spells:** Atonement (11th)
 
-**Spells:** Cure light wounds
+**Spells:** Heal (13th)
 
-**Spells:** Cure moderate wounds
+**Spells:** Greater restoration (15th)
 
-**Spells:** Cure serious wounds
+**Spells:** Mass cure critical wounds (17th)
 
-**Spells:** Neutralize poison
+**Spells:** Mass heal (19th)
 
-**Br:** \~
-
-**Details:**
-[Alertness](ref/feat/alertness)[Animal Affinity](ref/feat/animal-affinity)[Brew Potion](ref/feat/brew-potion)[Fleet](ref/feat/fleet)[Great Fortitude](ref/feat/great-fortitude)[Improved Counterspell](ref/feat/improved-counterspell)[Self-Sufficient](ref/feat/self-sufficient)\~[Skill Focus](ref/feat/skill-focus)
-(Heal)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Alertness](ref/feat/alertness), [Animal Affinity](ref/feat/animal-affinity),
+[Brew Potion](ref/feat/brew-potion), [Fleet](ref/feat/fleet),
+[Great Fortitude](ref/feat/great-fortitude),
+[Improved Counterspell](ref/feat/improved-counterspell),
+[Self-Sufficient](ref/feat/self-sufficient), [Skill Focus](ref/feat/skill-focus) (Heal)
 
 **Bloodline Arcana**
 
@@ -72,23 +70,19 @@ good and restoration.
 
 **Standard:** You can touch a creature, granting it a +2 insight bonus to AC for 1 round.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Pure of Mind (Su)**
-
-**At 9th Level:** Your bonus on saving throws against charm effects increases to +4 and your bonus
-on saving throws against spells with the evil descriptor increases to +6.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain a +2 bonus on saving throws against charm effects and a +4 bonus on saving
 throws against spells with the evil descriptor.
 
+**At 9th Level:** Your bonus on saving throws against charm effects increases to +4 and your bonus
+on saving throws against spells with the evil descriptor increases to +6.
+
 **Righteous Fury (Su)**
-
-**At 13th Level:** You can use this ability twice per day.
-
-**At 17th Level:** You can use this ability three times a day.
 
 **Gained:** At 9th Level
 
@@ -97,6 +91,10 @@ feet. This is a ranged touch attack that uses your Charisma modifier in place of
 modifier to determine the attack bonus. The spear deals 1d6 points of damage per sorcerer level and
 ignores all [damage reduction](ref/rule/damage-reduction) and [hardness](ref/umr/hardness). This
 damage increases to 1d8 points of damage per sorcerer level against an evil creature.
+
+**At 13th Level:** You can use this ability twice per day.
+
+**At 17th Level:** You can use this ability three times a day.
 
 **Friend to Nature (Su)**
 

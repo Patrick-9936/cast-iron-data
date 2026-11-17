@@ -23,11 +23,11 @@ steel is part of the metal school.
 
 **Info:** Add these spells to your wizard spell list at the listed spell level.
 
-**Spells:** Chill metal, heat metal
+**Spells:** Chill metal, heat metal (3rd)
 
-**Spells:** Rusting grasp
+**Spells:** Rusting grasp (5th)
 
-**Spells:** Repel metal or stone
+**Spells:** Repel metal or stone (9th)
 
 **Metal Rending (Su)**
 
@@ -51,7 +51,7 @@ the same type as the spell.
 **Standard:** You gain an armor bonus to your Armor Class for 10 minutes. This bonus is equal to 2 +
 one-fifth of your wizard level.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Shrapnel Burst (Su)**
 

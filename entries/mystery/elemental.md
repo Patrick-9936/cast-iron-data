@@ -22,27 +22,28 @@ Elemental oracles gain their powers from forces that balance or blend elements t
 **Details:** Elemental Lords, [Gozreh](ref/faith/gozreh), [Nethys](ref/faith/nethys),
 [Yamatsumi](ref/faith/yamatsumi)
 
-**Gained class skills:** acro, climb, stl, swim
+**Gained class skills:** [Acrobatics](ref/skill/acrobatics), [Climb](ref/skill/climb),
+[Stealth](ref/skill/stealth), [Swim](ref/skill/swim)
 
 **Bonus Spells**
 
-**Spells:** Elemental body II
+**Spells:** Endure elements (2nd)
 
-**Spells:** Elemental body III
+**Spells:** Resist energy (4th)
 
-**Spells:** Elemental body IV
+**Spells:** Elemental aura (6th)
 
-**Spells:** Create demiplane
+**Spells:** Elemental body I (8th)
 
-**Spells:** Elemental swarm
+**Spells:** Elemental body II (10th)
 
-**Spells:** Endure elements
+**Spells:** Elemental body III (12th)
 
-**Spells:** Resist energy
+**Spells:** Elemental body IV (14th)
 
-**Spells:** Elemental aura
+**Spells:** Create demiplane (16th)
 
-**Spells:** Elemental body I
+**Spells:** Elemental swarm (18th)
 
 ### Revelations
 
@@ -188,7 +189,7 @@ enhancement bonus the weapon already has.
 [masterwork](ref/rule/masterwork-weapons) equivalent if it is not already a masterwork or magical
 weapon.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 At 15th level: The enhancement bonus increases to +2.
 
@@ -210,7 +211,7 @@ This effect lasts a number of rounds equal to your oracle level.
 **Flavor:** Combining your mastery of earth and water, you shape the battlefield in your favor,
 bending the terrain to benefit you and your allies and hinder any who might oppose you.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Sweeping Impact (Ex)**
 

@@ -34,17 +34,17 @@ elemental school as normal.
 
 **Cantrips:** Telekinetic projectile
 
-**Spells:** Spiritual weapon
+**Spells:** Spiritual weapon (2nd)
 
-**Spells:** Spiritual ally
+**Spells:** Spiritual ally (4th)
 
-**Spells:** Ethereal envelope
+**Spells:** Ethereal envelope (5th)
 
-**Spells:** Animate objects
+**Spells:** Animate objects (6th)
 
-**Spells:** Ectoplasmic eruption
+**Spells:** Ectoplasmic eruption (7th)
 
-**Spells:** Telekinetic storm
+**Spells:** Telekinetic storm (9th)
 
 **Aether Supremacy (Su)**
 
@@ -71,7 +71,7 @@ as a [spell-like ability](ref/umr/spell-like-abilities) that uses your caster le
 **Swift:** You can grant yourself protection against nonmagical attacks by forming a field to
 telekinetically deflect them. You gain DR 5/magic for 1 round.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Receptive Vibrations (Su)**
 

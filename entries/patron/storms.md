@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Storms patron grants the following spells at the listed witch levels.
 
-**Spells:** Call lightning storm
+**Spells:** Obscuring mist (2nd)
 
-**Spells:** Wind walk
+**Spells:** Fog cloud (4th)
 
-**Spells:** Control weather
+**Spells:** Call lightning (6th)
 
-**Spells:** Whirlwind
+**Spells:** Ice storm (8th)
 
-**Spells:** Storm of vengeance
+**Spells:** Call lightning storm (10th)
 
-**Spells:** Obscuring mist
+**Spells:** Wind walk (12th)
 
-**Spells:** Fog cloud
+**Spells:** Control weather (14th)
 
-**Spells:** Call lightning
+**Spells:** Whirlwind (16th)
 
-**Spells:** Ice storm
+**Spells:** Storm of vengeance (18th)

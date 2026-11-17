@@ -21,22 +21,20 @@ Contact with the [black blood of Orv](ref/magic-artifact/black-blood-of-orv) - b
 ancestors - transformed your bloodline. This necromantic taint in your blood mutates you into
 something peculiar.
 
-**Br:** \~
-
-**Details:**
-[Combat Reflexes](ref/feat/combat-reflexes)[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Iron Will](ref/feat/iron-will)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Reflexes](ref/feat/combat-reflexes), [Diehard](ref/feat/diehard),
+[Endurance](ref/feat/endurance), [Great Fortitude](ref/feat/great-fortitude),
+[Improved Initiative](ref/feat/improved-initiative), [Iron Will](ref/feat/iron-will),
+[Toughness](ref/feat/toughness)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Unshakable chill
+**Spells:** Chill touch (7th)
 
-**Spells:** Elemental aura
+**Spells:** Unshakable chill (10th)
 
-**Spells:** Black tentacles
+**Spells:** Elemental aura (13th)
 
-**Spells:** Chill touch
+**Spells:** Black tentacles (16th)
 
 ### Bloodline Powers
 
@@ -70,13 +68,13 @@ increases by 5 feet.
 
 **Black Blood Resistance (Su)**
 
-**At 16th Level:** This resistance increases to 10 and the saving throw bonus increases to +4.
-
 **Gained:** At 8th Level
 
 **Passive:** You gain [resistance](ref/umr/resistance) 5 to cold and a +2 bonus on saving throws
 against [ability drain](ref/rule/ability-damage-drain), death effects, disease,
 [energy drain](ref/rule/energy-drain-and-negative-levels), paralysis, and poison.
+
+**At 16th Level:** This resistance increases to 10 and the saving throw bonus increases to +4.
 
 **Retributive Spray (Su)**
 

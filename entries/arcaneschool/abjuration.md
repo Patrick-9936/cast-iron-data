@@ -38,7 +38,7 @@ centered on you that lasts for a number of rounds equal to your Intelligence mod
 this area (including you) receive a deflection bonus to their AC. This bonus is equal to 1 +
 one-fifth of your wizard level.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Energy Absorption (Su)**
 
@@ -65,7 +65,7 @@ your wizard level (minimum 1).
 
 **Gained:** At 1st Level
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Aura of Banishment (Su)**
 
@@ -99,7 +99,7 @@ target's spell is wasted. This field lasts for a number of rounds equal to 1/2 y
 
 **Gained:** At 1st Level
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Counterspell Mastery**
 

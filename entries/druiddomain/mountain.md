@@ -29,7 +29,7 @@ the area or moving through it takes a -2 penalty on [Acrobatics](ref/skill/acrob
 CMD due to poor footing. A foothold that is created on a vertical surface grants a +10 bonus on
 [Climb](ref/skill/climb) checks to climb it. The stone remains altered for 1 hour.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Thin Air (Su)**
 

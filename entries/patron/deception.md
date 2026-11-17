@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Deception patron grants the following spells at the listed witch levels.
 
-**Spells:** Passwall
+**Spells:** Ventriloquism (2nd)
 
-**Spells:** Programmed image
+**Spells:** Invisibility (4th)
 
-**Spells:** Mass invisibility
+**Spells:** Blink (6th)
 
-**Spells:** Scintillating pattern
+**Spells:** Confusion (8th)
 
-**Spells:** Time stop
+**Spells:** Passwall (10th)
 
-**Spells:** Ventriloquism
+**Spells:** Programmed image (12th)
 
-**Spells:** Invisibility
+**Spells:** Mass invisibility (14th)
 
-**Spells:** Blink
+**Spells:** Scintillating pattern (16th)
 
-**Spells:** Confusion
+**Spells:** Time stop (18th)

@@ -20,27 +20,28 @@ group = "oracle-mystery"
 **Details:** [Iomedae](ref/faith/iomedae), [Groetus](ref/faith/groetus),
 [Lamashtu](ref/faith/lamashtu), demon lords
 
-**Gained class skills:** fly, intm, ka, sur
+**Gained class skills:** [Fly](ref/skill/fly), [Intimidate](ref/skill/intimidate),
+[Knowledge (arcana)](ref/skill/knowledge-arcana), [Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Lesser planar binding
+**Spells:** Endure elements (2nd)
 
-**Spells:** Planar binding
+**Spells:** Resist energy (4th)
 
-**Spells:** Insanity
+**Spells:** Vermin shape I (6th)
 
-**Spells:** Greater planar binding
+**Spells:** Confusion (8th)
 
-**Spells:** Imprisonment
+**Spells:** Lesser planar binding (10th)
 
-**Spells:** Endure elements
+**Spells:** Planar binding (12th)
 
-**Spells:** Resist energy
+**Spells:** Insanity (14th)
 
-**Spells:** Vermin shape I
+**Spells:** Greater planar binding (16th)
 
-**Spells:** Confusion
+**Spells:** Imprisonment (18th)
 
 ### Revelations
 

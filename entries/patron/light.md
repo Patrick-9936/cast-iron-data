@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Light patron grants the following spells at the listed witch levels.
 
-**Spells:** Fire snake
+**Spells:** Dancing lantern (2nd)
 
-**Spells:** Sirocco
+**Spells:** Continual flame (4th)
 
-**Spells:** Sunbeam
+**Spells:** Daylight (6th)
 
-**Spells:** Sunburst
+**Spells:** Rainbow pattern (8th)
 
-**Spells:** Fiery body
+**Spells:** Fire snake (10th)
 
-**Spells:** Dancing lantern
+**Spells:** Sirocco (12th)
 
-**Spells:** Continual flame
+**Spells:** Sunbeam (14th)
 
-**Spells:** Daylight
+**Spells:** Sunburst (16th)
 
-**Spells:** Rainbow pattern
+**Spells:** Fiery body (18th)

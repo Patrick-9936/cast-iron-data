@@ -21,22 +21,21 @@ The blood of [doppelgangers](ref/monster/doppelganger),
 [faceless stalkers](ref/monster/faceless-stalker), [lycanthropes](ref/template/lycanthrope), or
 other shapechangers courses through your veins.
 
-**Br:** \~
-
-**Details:**
-[Dodge](ref/feat/dodge)[Fleet](ref/feat/fleet)[Improved Initiative](ref/feat/improved-initiative)[Improved Unarmed Strike](ref/feat/improved-unarmed-strike)[Lightning Reflexes](ref/feat/lightning-reflexes)[Power Attack](ref/feat/power-attack)[Weapon Focus](ref/feat/weapon-focus)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Dodge](ref/feat/dodge), [Fleet](ref/feat/fleet),
+[Improved Initiative](ref/feat/improved-initiative),
+[Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Power Attack](ref/feat/power-attack),
+[Weapon Focus](ref/feat/weapon-focus)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Alter self
+**Spells:** Enlarge person (7th)
 
-**Spells:** Fly
+**Spells:** Alter self (10th)
 
-**Spells:** Stoneskin
+**Spells:** Fly (13th)
 
-**Spells:** Enlarge person
+**Spells:** Stoneskin (16th)
 
 ### Bloodline Powers
 

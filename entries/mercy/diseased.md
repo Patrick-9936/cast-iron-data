@@ -12,7 +12,5 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The paladin's lay on hands ability also acts as
-[remove disease](ref/spell/remove-disease), using the paladin's level as the caster level.
-
-**Title:** Diseased
+The paladin's lay on hands ability also acts as [remove disease](ref/spell/remove-disease), using
+the paladin's level as the caster level.

@@ -54,10 +54,10 @@ instead of the intended target. This ends the _loyal oath._
 
 **Oath Spells**
 
-**Spells:** Wrath
+**Spells:** Wrath (1st)
 
-**Spells:** Aid
+**Spells:** Aid (2nd)
 
-**Spells:** Helping hand
+**Spells:** Helping hand (3rd)
 
-**Spells:** Sending
+**Spells:** Sending (4th)

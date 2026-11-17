@@ -24,23 +24,23 @@ stench becomes more prominent.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Cause fear
+**Spells:** Cause fear (1st)
 
-**Spells:** False life
+**Spells:** False life (2nd)
 
-**Spells:** Animate dead
+**Spells:** Animate dead (3rd)
 
-**Spells:** Fear
+**Spells:** Fear (4th)
 
-**Spells:** Slay living
+**Spells:** Slay living (5th)
 
-**Spells:** Circle of death
+**Spells:** Circle of death (6th)
 
-**Spells:** Control undead
+**Spells:** Control undead (7th)
 
-**Spells:** Horrid wilting
+**Spells:** Horrid wilting (8th)
 
-**Spells:** Wail of the banshee
+**Spells:** Wail of the banshee (9th)
 
 ### Hexes
 
@@ -135,7 +135,7 @@ damage equal to 1d4 + [half](ref/misc/fractions-and-rounding) of her shaman leve
 
 She can instead touch an undead creature to heal it of the same amount of damage.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

@@ -12,7 +12,5 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The target is no longer frightened. The paladin must have the
-[shaken](ref/mercy/shaken) mercy before selecting this mercy.
-
-**Title:** Frightened
+The target is no longer frightened. The paladin must have the [shaken](ref/mercy/shaken) mercy
+before selecting this mercy.

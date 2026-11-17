@@ -27,8 +27,6 @@ group = "cleric-domain"
 
 **Speak with Animals (Sp)**
 
-**Id:** speak
-
 **Standard:** You can [speak with animals](ref/spell/speak-with-animals), as per the spell.
 
 **Usage:** 1 time/day per cleric3 level
@@ -53,8 +51,6 @@ abilities of their animal companions).
 1. animal shapes
 1. summon nature's ally VIII (animals only)
 1. shapechange
-
-**Save:** domain
 
 ### Feather Subdomain
 
@@ -82,8 +78,6 @@ Initiative check.
 
 **6th:** mass fly
 
-**From:** domain
-
 ### Fur Subdomain
 
 **Sources:** Advanced Player's Guide pg 91
@@ -103,15 +97,13 @@ feet for every 5 cleric levels you possess. In addition, you gain
 [low-light vision](ref/rule/low-light-vision) for 1 round. If you already possess low-light vision,
 the range of your sight becomes three times that of a human in dim light for 1 round.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
 **1st:** magic fang
 
 **3rd:** beast shape I (animals only)
-
-**From:** domain
 
 ### Insect Subdomain
 
@@ -137,7 +129,7 @@ amount of [temporary hit points](ref/rule/temporary-hit-points). The enhancement
 are equal to 1d4 + half of your cleric level. The exoskeleton retracts after 1 round, ending its
 benefits.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -146,8 +138,6 @@ benefits.
 **5th:** vermin shape II
 
 **8th:** summon nature's ally VIII (1d3 goliath stag beetles)
-
-**From:** domain
 
 ### Deities
 

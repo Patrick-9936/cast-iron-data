@@ -80,7 +80,7 @@ While sharing an animal's senses, your body is effectively [unconscious](ref/mis
 you can end the effect as a **free action**. You can maintain the link for 1 hour per level, but the
 link is immediately severed if the animal moves beyond a range of 1 mile per psychic level you have.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **One with Nature (Sp, Su)**
 

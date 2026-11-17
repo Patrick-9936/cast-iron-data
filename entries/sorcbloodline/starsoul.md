@@ -19,35 +19,34 @@ You come from a line of stargazers and explorers who delved deeply into the dark
 stars. In touching the void, the void touched them, and your mind, spirit, and body yearn to span
 the gulf between worlds.
 
-**Gained class skills:** kna
+**Gained class skills:** [Knowledge (nature)](ref/skill/knowledge-nature)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Overland flight
+**Spells:** Unseen servant (3rd)
 
-**Spells:** Repulsion
+**Spells:** Glitterdust (5th)
 
-**Spells:** Reverse gravity
+**Spells:** Blink (7th)
 
-**Spells:** Greater prying eyes
+**Spells:** Call lightning storm (dealing fire damage, damage increased outdoors at night) (9th)
 
-**Spells:** Meteor swarm
+**Spells:** Overland flight (11th)
 
-**Spells:** Unseen servant
+**Spells:** Repulsion (13th)
 
-**Spells:** Glitterdust
+**Spells:** Reverse gravity (15th)
 
-**Spells:** Blink
+**Spells:** Greater prying eyes (17th)
 
-**Spells:** Call lightning storm\|(dealing fire damage, damage increased outdoors at night)
+**Spells:** Meteor swarm (19th)
 
-**Br:** \~
-
-**Details:**
-[Blind-Fight](ref/feat/blind-fight)[Craft Rod](ref/feat/craft-rod)[Dodge](ref/feat/dodge)[Endurance](ref/feat/endurance)[Improved Counterspell](ref/feat/improved-counterspell)[Improved Iron Will](ref/feat/improved-iron-will)[Iron Will](ref/feat/iron-will)[Quicken Spell](ref/feat/quicken-spell)[Skill Focus](ref/feat/skill-focus)
-(Perception)\~[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Blind-Fight](ref/feat/blind-fight), [Craft Rod](ref/feat/craft-rod),
+[Dodge](ref/feat/dodge), [Endurance](ref/feat/endurance),
+[Improved Counterspell](ref/feat/improved-counterspell),
+[Improved Iron Will](ref/feat/improved-iron-will), [Iron Will](ref/feat/iron-will),
+[Quicken Spell](ref/feat/quicken-spell), [Skill Focus](ref/feat/skill-focus) (Perception),
+[Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -67,17 +66,17 @@ with a range of 30 feet. The meteors inflict an amount of fire damage equal to 1
 [half](ref/misc/fractions-and-rounding) of your sorcerer level. A Reflex save negates this damage.
 The save DC is equal to 10 + half your sorcerer level + your Charisma modifier.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Voidwalker (Ex)**
 
 **Ability:** You gain [low-light vision](ref/rule/low-light-vision) and [resist](ref/umr/resistance)
 cold and fire 5.
 
+**Gained:** At 3rd Level
+
 **At 9th Level:** You no longer need to breathe, as if wearing a
 [necklace of adaptation](ref/magic-wondrous/necklace-of-adaptation).
-
-**Gained:** At 3rd Level
 
 **Aurora Borealis (Sp)**
 

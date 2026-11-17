@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Boundaries patron grants the following spells at the listed witch levels.
 
-**Spells:** Control summoned creature
+**Spells:** Protection from evil (2nd)
 
-**Spells:** Banishment
+**Spells:** See invisibility (4th)
 
-**Spells:** Ethereal jaunt
+**Spells:** Magic circle against evil (6th)
 
-**Spells:** Dimensional lock
+**Spells:** Dimensional anchor (8th)
 
-**Spells:** Gate
+**Spells:** Control summoned creature (10th)
 
-**Spells:** Protection from evil
+**Spells:** Banishment (12th)
 
-**Spells:** See invisibility
+**Spells:** Ethereal jaunt (14th)
 
-**Spells:** Magic circle against evil
+**Spells:** Dimensional lock (16th)
 
-**Spells:** Dimensional anchor
+**Spells:** Gate (18th)

@@ -17,34 +17,32 @@ group = "sorcerer-bloodline"
 
 You can trace your ancestry to one of the foul, corrupted genies known as [divs](ref/family/div).
 
-**Gained class skills:** kp
+**Gained class skills:** [Knowledge (planes)](ref/skill/knowledge-planes)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Insect plague
+**Spells:** Disguise self (3rd)
 
-**Spells:** Disintegrate
+**Spells:** Touch of idiocy (5th)
 
-**Spells:** Insanity
+**Spells:** Deeper darkness (7th)
 
-**Spells:** Earthquake
+**Spells:** Bestow curse (9th)
 
-**Spells:** Wish
+**Spells:** Insect plague (11th)
 
-**Spells:** Disguise self
+**Spells:** Disintegrate (13th)
 
-**Spells:** Touch of idiocy
+**Spells:** Insanity (15th)
 
-**Spells:** Deeper darkness
+**Spells:** Earthquake (17th)
 
-**Spells:** Bestow curse
+**Spells:** Wish (19th)
 
-**Br:** \~
-
-**Details:**
-[Blind-Fight](ref/feat/blind-fight)[Deceitful](ref/feat/deceitful)[Empower Spell](ref/feat/empower-spell)[Improved Initiative](ref/feat/improved-initiative)[Iron Will](ref/feat/iron-will)[Lightning Reflexes](ref/feat/lightning-reflexes)[Persuasive](ref/feat/persuasive)\~[Power Attack](ref/feat/power-attack)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Blind-Fight](ref/feat/blind-fight), [Deceitful](ref/feat/deceitful),
+[Empower Spell](ref/feat/empower-spell), [Improved Initiative](ref/feat/improved-initiative),
+[Iron Will](ref/feat/iron-will), [Lightning Reflexes](ref/feat/lightning-reflexes),
+[Persuasive](ref/feat/persuasive), [Power Attack](ref/feat/power-attack)
 
 **Bloodline Arcana**
 
@@ -64,17 +62,17 @@ stack.
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Div Resistances (Ex)**
-
-**At 9th Level:** Your resistance to fire increases to 10 and your bonus on saving throws against
-poison increases to +4.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain fire [resistance](ref/umr/resistance) 5 and a +2 bonus on saving throws
 against poison.
+
+**At 9th Level:** Your resistance to fire increases to 10 and your bonus on saving throws against
+poison increases to +4.
 
 **Corrupting Aura (Ex)**
 
@@ -85,11 +83,11 @@ damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your sorcerer l
 casting a divine spell must succeed at a caster level check (DC 15 + double the level of the spell)
 or lose the spell.
 
+**Gained:** At 9th Level
+
 **At 17th Level:** You can use this ability twice per day.
 
 **At 20th Level:** You can use this ability three times a day.
-
-**Gained:** At 9th Level
 
 **Squander (Su)**
 

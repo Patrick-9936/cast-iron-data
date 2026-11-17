@@ -21,31 +21,26 @@ The Pit lives in your blood. Maybe one of your ancestors was seduced by the powe
 [Hell](ref/rule/hell) or made a deal with a [devil](ref/family/devil). Either way, its corruption
 seethes within your lineage.
 
-**Br:** \~
-
-**Details:**
-[Blind-Fight](ref/feat/blind-fight)[Combat Reflexes](ref/feat/combat-reflexes)[Deceitful](ref/feat/deceitful)[Improved Disarm](ref/feat/improved-disarm)[Improved Sunder](ref/feat/improved-sunder)[Intimidating Prowess](ref/feat/intimidating-prowess)[Iron Will](ref/feat/iron-will)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Blind-Fight](ref/feat/blind-fight), [Combat Reflexes](ref/feat/combat-reflexes),
+[Deceitful](ref/feat/deceitful), [Improved Disarm](ref/feat/improved-disarm),
+[Improved Sunder](ref/feat/improved-sunder), [Intimidating Prowess](ref/feat/intimidating-prowess),
+[Iron Will](ref/feat/iron-will)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Scorching ray
+**Spells:** Protection from good (7th)
 
-**Spells:** Suggestion
+**Spells:** Scorching ray (10th)
 
-**Spells:** Fire shield
+**Spells:** Suggestion (13th)
 
-**Spells:** Protection from good
+**Spells:** Fire shield (16th)
 
 ### Bloodline Powers
 
 When you _bloodrage,_ hellfire infuses your blood with terrifying effects.
 
 **Hellfire Strike (Su)**
-
-**At 12th Level:** You can use this ability five times per day, and the effect is treated as
-[flaming burst](ref/magic-enh/flaming-burst).
 
 **Gained:** At 1st Level
 
@@ -56,15 +51,18 @@ When you _bloodrage,_ hellfire infuses your blood with terrifying effects.
 
 **Usage:** 3 times/day.
 
-**Infernal Resistance (Ex)**
+**At 12th Level:** You can use this ability five times per day, and the effect is treated as
+[flaming burst](ref/magic-enh/flaming-burst).
 
-**At 8th Level:** Your fire resistance increases to 10, and the bonus on saving throws against
-poison increases to +4.
+**Infernal Resistance (Ex)**
 
 **Gained:** At 4th Level
 
 **Passive:** You gain fire [resistance](ref/umr/resistance) 5, as well as a +2 bonus on saving
 throws against poison.
+
+**At 8th Level:** Your fire resistance increases to 10, and the bonus on saving throws against
+poison increases to +4.
 
 **Diabolical Arrogance (Su)**
 
@@ -77,9 +75,9 @@ throws against poison.
 **Ability:** When entering a _bloodrage_ you can choose to have bat-like wings grow from your back,
 giving you a fly speed of 60 feet with average maneuverability.
 
-**At 16th Level:** Your fly speed increases to 80 feet with good maneuverability.
-
 **Gained:** At 12th Level
+
+**At 16th Level:** Your fly speed increases to 80 feet with good maneuverability.
 
 **Hellfire Charge (Su)**
 

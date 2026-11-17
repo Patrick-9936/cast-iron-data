@@ -32,7 +32,7 @@ caster level is greater than the item's caster level, this damage bypasses the i
 **Flavor:** You can cause an opponent's metal armor or weapon to become dry and brittle as it
 magically corrodes and rusts.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Erosion Aura (Su)**
 
@@ -45,7 +45,7 @@ minimum hardness equal to twice their enhancement bonus and can attempt a Fortit
 primarily of metal or stone must succeed at a Fortitude save or lose all
 [damage reduction](ref/rule/damage-reduction) and hardness for 1 round.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Domain Spells**
 

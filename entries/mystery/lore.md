@@ -19,27 +19,28 @@ group = "oracle-mystery"
 
 **Details:** [Abadar](ref/faith/abadar), [Irori](ref/faith/irori), [Nethys](ref/faith/nethys).
 
-**Gained class skills:** app, ka, kd, ke, kg, kh, kl, kna, kno, kp, kr
+**Gained class skills:** [Appraise](ref/skill/appraise), all [Knowledge](ref/skill/knowledge-all)
+skills
 
 **Bonus Spells**
 
-**Spells:** Contact other plane
+**Spells:** Identify (2nd)
 
-**Spells:** Mass owl's wisdom
+**Spells:** Tongues (4th)
 
-**Spells:** Vision
+**Spells:** Locate object (6th)
 
-**Spells:** Moment of prescience
+**Spells:** Legend lore (8th)
 
-**Spells:** Time stop
+**Spells:** Contact other plane (10th)
 
-**Spells:** Identify
+**Spells:** Mass owl's wisdom (12th)
 
-**Spells:** Tongues
+**Spells:** Vision (14th)
 
-**Spells:** Locate object
+**Spells:** Moment of prescience (16th)
 
-**Spells:** Legend lore
+**Spells:** Time stop (18th)
 
 ### Revelations
 

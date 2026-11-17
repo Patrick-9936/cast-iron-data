@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Devotion patron grants the following spells at the listed witch levels.
 
-**Spells:** Flame strike
+**Spells:** Divine favor (2nd)
 
-**Spells:** Mass bull's strength
+**Spells:** Martyr's bargain (4th)
 
-**Spells:** Bestow grace of the champion
+**Spells:** Magic vestment (6th)
 
-**Spells:** Holy aura
+**Spells:** Greater magic weapon (8th)
 
-**Spells:** Mass heal
+**Spells:** Flame strike (10th)
 
-**Spells:** Divine favor
+**Spells:** Mass bull's strength (12th)
 
-**Spells:** Martyr's bargain
+**Spells:** Bestow grace of the champion (14th)
 
-**Spells:** Magic vestment
+**Spells:** Holy aura (16th)
 
-**Spells:** Greater magic weapon
+**Spells:** Mass heal (18th)

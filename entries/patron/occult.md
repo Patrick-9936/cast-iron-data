@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Occult patron grants the following spells at the listed witch levels.
 
-**Spells:** Snake staff
+**Spells:** Detect undead (2nd)
 
-**Spells:** Create undead
+**Spells:** Command undead (4th)
 
-**Spells:** Waves of exhaustion
+**Spells:** Twilight knife (6th)
 
-**Spells:** Trap the soul
+**Spells:** Black tentacles (8th)
 
-**Spells:** Gate
+**Spells:** Snake staff (10th)
 
-**Spells:** Detect undead
+**Spells:** Create undead (12th)
 
-**Spells:** Command undead
+**Spells:** Waves of exhaustion (14th)
 
-**Spells:** Twilight knife
+**Spells:** Trap the soul (16th)
 
-**Spells:** Black tentacles
+**Spells:** Gate (18th)

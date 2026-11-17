@@ -19,27 +19,28 @@ group = "oracle-mystery"
 
 **Details:** [Gozreh](ref/faith/gozreh), [Irori](ref/faith/irori)
 
-**Gained class skills:** acro, climb, ea, swim
+**Gained class skills:** [Acrobatics](ref/skill/acrobatics), [Climb](ref/skill/climb),
+[Escape Artist](ref/skill/escape-artist), [Swim](ref/skill/swim)
 
 **Bonus Spells**
 
-**Spells:** Contact other plane
+**Spells:** Stone fist (2nd)
 
-**Spells:** Legend lore
+**Spells:** Glide (4th)
 
-**Spells:** Vision
+**Spells:** Force punch (6th)
 
-**Spells:** Frightful aspect
+**Spells:** Ethereal fists (8th)
 
-**Spells:** Iron body
+**Spells:** Contact other plane (10th)
 
-**Spells:** Stone fist
+**Spells:** Legend lore (12th)
 
-**Spells:** Glide
+**Spells:** Vision (14th)
 
-**Spells:** Force punch
+**Spells:** Frightful aspect (16th)
 
-**Spells:** Ethereal fists
+**Spells:** Iron body (18th)
 
 ### Revelations
 

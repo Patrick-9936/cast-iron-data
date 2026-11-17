@@ -19,25 +19,25 @@ group = "bloodrager-bloodline"
 
 You are the descendant of great heroes from a lost civilization.
 
-**Br:** \~
-
-**Details:**
-[Combat Casting](ref/feat/combat-casting)[Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency)[Greater Weapon Focus](ref/feat/greater-weapon-focus)\*\~[Greater Weapon Specialization](ref/feat/greater-weapon-specialization)\*\~[Iron Will](ref/feat/iron-will)[Weapon Focus](ref/feat/weapon-focus)[Weapon Specialization](ref/feat/weapon-specialization)\*
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Casting](ref/feat/combat-casting),
+[Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency),
+[Greater Weapon Focus](ref/feat/greater-weapon-focus)\*,
+[Greater Weapon Specialization](ref/feat/greater-weapon-specialization)\*,
+[Iron Will](ref/feat/iron-will), [Weapon Focus](ref/feat/weapon-focus),
+[Weapon Specialization](ref/feat/weapon-specialization)\*
 
 The bloodrager counts his total bloodrager levels as fighter levels for the purpose of qualifying
 for any feats marked with an asterisk (\*). If he also has levels in fighter, these levels stack.
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** False life
+**Spells:** True strike (7th)
 
-**Spells:** Phantom steed
+**Spells:** False life (10th)
 
-**Spells:** Mass enlarge person
+**Spells:** Phantom steed (13th)
 
-**Spells:** True strike
+**Spells:** Mass enlarge person (16th)
 
 ### Bloodline Powers
 

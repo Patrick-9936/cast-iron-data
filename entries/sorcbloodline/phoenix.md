@@ -19,35 +19,32 @@ One of your ancestors bore witness to a [phoenix's](ref/monster/phoenix) resurre
 bond with the magical creature. The resurrecting flames still course through your veins, surging
 with power.
 
-**Gained class skills:** ka
+**Gained class skills:** [Knowledge (arcana)](ref/skill/knowledge-arcana)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Break enchantment
+**Spells:** Color spray (3rd)
 
-**Spells:** Path of the winds
+**Spells:** See invisibility (5th)
 
-**Spells:** Firebrand
+**Spells:** Magic circle against evil (7th)
 
-**Spells:** Prismatic wall
+**Spells:** Wall of fire (9th)
 
-**Spells:** Fiery body
+**Spells:** Break enchantment (11th)
 
-**Spells:** Color spray
+**Spells:** Path of the winds (13th)
 
-**Spells:** See invisibility
+**Spells:** Firebrand (15th)
 
-**Spells:** Magic circle against evil
+**Spells:** Prismatic wall (17th)
 
-**Spells:** Wall of fire
+**Spells:** Fiery body (19th)
 
-**Br:** \~
-
-**Details:** [Dodge](ref/feat/dodge)[Elemental Focus](ref/feat/elemental-focus)
-(fire)[Fast Healer](ref/feat/fast-healer)[Improved Initiative](ref/feat/improved-initiative)[Iron Will](ref/feat/iron-will)[Mobility](ref/feat/mobility)[Quicken Spell](ref/feat/quicken-spell)\~[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[arcana\])
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Dodge](ref/feat/dodge), [Elemental Focus](ref/feat/elemental-focus) (fire),
+[Fast Healer](ref/feat/fast-healer), [Improved Initiative](ref/feat/improved-initiative),
+[Iron Will](ref/feat/iron-will), [Mobility](ref/feat/mobility),
+[Quicken Spell](ref/feat/quicken-spell), [Skill Focus](ref/feat/skill-focus) (Knowledge \[arcana\])
 
 **Bloodline Arcana**
 
@@ -64,15 +61,15 @@ similar power.
 
 **Flavor:** The phoenix's blood drives you to find and save lost knowledge and magical items.
 
-**At 5th Level:** As a **swift action**, you can automatically identify the properties of a
-non-cursed magic item you hold; you must still identify a cursed item as normal to correctly
-identify it as cursed. You can use this ability a number of times equal to your Charisma modifier
-per day.
-
 **Info:** You gain [detect magic](ref/spell/detect-magic) and [read magic](ref/spell/read-magic) as
 spells known.
 
 **Gained:** At 1st Level
+
+**At 5th Level:** As a **swift action**, you can automatically identify the properties of a
+non-cursed magic item you hold; you must still identify a cursed item as normal to correctly
+identify it as cursed. You can use this ability a number of times equal to your Charisma modifier
+per day.
 
 **Immolation (Su)**
 

@@ -20,27 +20,28 @@ group = "oracle-mystery"
 **Details:** [Groetus](ref/faith/groetus), [Lao Shu Po](ref/faith/lao-shu-po),
 [Tsukiyo](ref/faith/tsukiyo), [Zon-Kuthon](ref/faith/zon-kuthon).
 
-**Gained class skills:** bluff, dis, kd, stl
+**Gained class skills:** [Bluff](ref/skill/bluff), [Disguise](ref/skill/disguise),
+[Knowledge (dungeoneering)](ref/skill/knowledge-dungeoneering), [Stealth](ref/skill/stealth)
 
 **Bonus Spells**
 
-**Spells:** Vampiric shadow shield
+**Spells:** Blurred movement (2nd)
 
-**Spells:** Shadow walk
+**Spells:** Invisibility (4th)
 
-**Spells:** Mass invisibility
+**Spells:** Deeper darkness (6th)
 
-**Spells:** Greater shadow evocation
+**Spells:** Shadow step (8th)
 
-**Spells:** Shades
+**Spells:** Vampiric shadow shield (10th)
 
-**Spells:** Blurred movement
+**Spells:** Shadow walk (12th)
 
-**Spells:** Invisibility
+**Spells:** Mass invisibility (14th)
 
-**Spells:** Deeper darkness
+**Spells:** Greater shadow evocation (16th)
 
-**Spells:** Shadow step
+**Spells:** Shades (18th)
 
 ### Revelations
 

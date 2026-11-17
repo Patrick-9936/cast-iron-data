@@ -19,27 +19,28 @@ group = "oracle-mystery"
 
 **Details:** [Gozreh](ref/faith/gozreh), [Shelyn](ref/faith/shelyn).
 
-**Gained class skills:** acro, ea, fly, stl
+**Gained class skills:** [Acrobatics](ref/skill/acrobatics),
+[Escape Artist](ref/skill/escape-artist), [Fly](ref/skill/fly), [Stealth](ref/skill/stealth)
 
 **Bonus Spells**
 
-**Spells:** Control winds
+**Spells:** Alter winds (2nd)
 
-**Spells:** Sirocco
+**Spells:** Gust of wind (4th)
 
-**Spells:** Control weather
+**Spells:** Cloak of winds (6th)
 
-**Spells:** Whirlwind
+**Spells:** River of wind (8th)
 
-**Spells:** Winds of vengeance
+**Spells:** Control winds (10th)
 
-**Spells:** Alter winds
+**Spells:** Sirocco (12th)
 
-**Spells:** Gust of wind
+**Spells:** Control weather (14th)
 
-**Spells:** Cloak of winds
+**Spells:** Whirlwind (16th)
 
-**Spells:** River of wind
+**Spells:** Winds of vengeance (18th)
 
 ### Revelations
 
@@ -129,7 +130,7 @@ At 19th level: The radius increases to 35 feet.
 **Standard:** You can perform a melee touch attack that deals electricity damage equal to
 [half](ref/misc/fractions-and-rounding) your oracle level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Vortex Spells (Ex)**
 

@@ -42,7 +42,7 @@ When you are in areas of light, normal, or heavy gravity, activating this abilit
 a bonus equal to your druid level on Fly checks and [Acrobatics](ref/skill/acrobatics) checks to
 jump for a number of rounds equal to your Wisdom modifier.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Wind Savant (Su)**
 

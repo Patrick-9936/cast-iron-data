@@ -45,10 +45,10 @@ into a normal hit, as if she were wearing [fortification](ref/magic-enh/fortific
 
 **Oath Spells**
 
-**Spells:** Remove fear
+**Spells:** Remove fear (1st)
 
-**Spells:** Confess
+**Spells:** Confess (2nd)
 
-**Spells:** Heroism
+**Spells:** Heroism (3rd)
 
-**Spells:** Freedom of movement
+**Spells:** Freedom of movement (4th)

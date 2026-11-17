@@ -76,10 +76,10 @@ _lay on hands_ ability instead of two.
 
 **Oath Spells**
 
-**Spells:** Sanctify corpse
+**Spells:** Sanctify corpse (1st)
 
-**Spells:** [Darkvision](ref/rule/darkvision)
+**Spells:** [Darkvision](ref/rule/darkvision) (2nd)
 
-**Spells:** Searing light
+**Spells:** Searing light (3rd)
 
-**Spells:** Halt undead
+**Spells:** Halt undead (4th)

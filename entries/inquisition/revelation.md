@@ -35,7 +35,7 @@ If the target is currently the subject of a polymorph effect that changes its ap
 ability such as that possessed by [doppelgangers](ref/monster/doppelganger)), it instead takes 1d6
 points of fire damage + half your inquisitor level (minimum 1).
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Reveal Form (Su)**
 

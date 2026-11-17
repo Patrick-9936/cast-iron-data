@@ -20,27 +20,29 @@ group = "oracle-mystery"
 **Details:** [Cayden Cailean](ref/faith/cayden-cailean), [Gorum](ref/faith/gorum),
 [Iomedae](ref/faith/iomedae), [Rovagug](ref/faith/rovagug).
 
-**Gained class skills:** intm, ke, per, ride
+**Gained class skills:** [Intimidate](ref/skill/intimidate),
+[Knowledge (engineering)](ref/skill/knowledge-engineering), [Perception](ref/skill/perception),
+[Ride](ref/skill/ride)
 
 **Bonus Spells**
 
-**Spells:** Righteous might
+**Spells:** Enlarge person (2nd)
 
-**Spells:** Mass bull's strength
+**Spells:** Fog cloud (4th)
 
-**Spells:** Control weather
+**Spells:** Magic vestment (6th)
 
-**Spells:** Earthquake
+**Spells:** Wall of fire (8th)
 
-**Spells:** Storm of vengeance
+**Spells:** Righteous might (10th)
 
-**Spells:** Enlarge person
+**Spells:** Mass bull's strength (12th)
 
-**Spells:** Fog cloud
+**Spells:** Control weather (14th)
 
-**Spells:** Magic vestment
+**Spells:** Earthquake (16th)
 
-**Spells:** Wall of fire
+**Spells:** Storm of vengeance (18th)
 
 ### Revelations
 

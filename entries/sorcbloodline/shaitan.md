@@ -18,35 +18,33 @@ group = "sorcerer-bloodline"
 You were born with the power of earth genies, and the magic of the
 [shaitans](ref/monster/genie-shaitan) is strong in you.
 
-**Gained class skills:** kp
+**Gained class skills:** [Knowledge (planes)](ref/skill/knowledge-planes)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Wall of stone
+**Spells:** True strike (3rd)
 
-**Spells:** Wall of iron
+**Spells:** Glitterdust (5th)
 
-**Spells:** Plane shift
+**Spells:** Greater magic weapon (7th)
 
-**Spells:** Iron body
+**Spells:** Stoneskin (9th)
 
-**Spells:** Wish
+**Spells:** Wall of stone (11th)
 
-**Spells:** True strike
+**Spells:** Wall of iron (13th)
 
-**Spells:** Glitterdust
+**Spells:** Plane shift (15th)
 
-**Spells:** Greater magic weapon
+**Spells:** Iron body (17th)
 
-**Spells:** Stoneskin
+**Spells:** Wish (19th)
 
-**Br:** \~
-
-**Details:**
-[Dodge](ref/feat/dodge)[Empower Spell](ref/feat/empower-spell)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Power Attack](ref/feat/power-attack)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[planes\])\~[Weapon Finesse](ref/feat/weapon-finesse))
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Dodge](ref/feat/dodge), [Empower Spell](ref/feat/empower-spell),
+[Great Fortitude](ref/feat/great-fortitude), [Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Power Attack](ref/feat/power-attack),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[planes\]),
+[Weapon Finesse](ref/feat/weapon-finesse)
 
 **Bloodline Arcana**
 
@@ -65,15 +63,15 @@ Like a shaitan, you have both natural power over earth, and several other genie-
 attack. This ray deals acid damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your
 sorcerer level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Elemental Resistance (Ex)**
-
-**At 9th Level:** Your acid resistance increases to 20.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain acid [resistance](ref/umr/resistance) 10.
+
+**At 9th Level:** Your acid resistance increases to 20.
 
 **Avalanche (Su)**
 

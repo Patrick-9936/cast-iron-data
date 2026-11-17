@@ -21,24 +21,20 @@ In the shadowy land of Nidal, the influence of [Zon-Kuthon](ref/faith/zon-kuthon
 Lord's favored servants - the [kytons](ref/family/kyton) - taints the land and its inhabitants. Just
 as an eclipse drives animals wild, so too does the darkness unleash a madness from deep within you.
 
-**Br:** \~
-
-**Details:**
-[Alertness](ref/feat/alertness)[Blind-Fight](ref/feat/blind-fight)[Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency)
-(spiked
-chain)[Great Fortitude](ref/feat/great-fortitude)[Improved Dirty Trick](ref/feat/improved-dirty-trick)[Iron Will](ref/feat/iron-will)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Alertness](ref/feat/alertness), [Blind-Fight](ref/feat/blind-fight),
+[Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency) (spiked chain),
+[Great Fortitude](ref/feat/great-fortitude), [Improved Dirty Trick](ref/feat/improved-dirty-trick),
+[Iron Will](ref/feat/iron-will), [Toughness](ref/feat/toughness)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Pain strike
+**Spells:** Persuasive goad (7th)
 
-**Spells:** Deeper darkness
+**Spells:** Pain strike (10th)
 
-**Spells:** Fear
+**Spells:** Deeper darkness (13th)
 
-**Spells:** Persuasive goad
+**Spells:** Fear (16th)
 
 ### Bloodline Powers
 
@@ -56,16 +52,14 @@ cast a spell.
 
 **Grasping Chains (Su)**
 
-**At 9th Level:** The bonus increases to +8 and you gain a Climb speed equal to 1/2 your base speed.
-
 **Gained:** At 4th Level
 
 **Passive:** Chains cover your body and extend from your arms, grasping at the air around you and
 granting you a +4 bonus on Climb skill checks.
 
-**Armor of Chains (Su)**
+**At 9th Level:** The bonus increases to +8 and you gain a Climb speed equal to 1/2 your base speed.
 
-**At 16th Level:** The resistance increases to 10 and the armor bonus increases to +8.
+**Armor of Chains (Su)**
 
 **Gained:** At 8th Level
 
@@ -73,16 +67,18 @@ granting you a +4 bonus on Climb skill checks.
 provide a +4 armor bonus to AC with no armor check penalty, maximum Dexterity bonus, or additional
 weight.
 
+**At 16th Level:** The resistance increases to 10 and the armor bonus increases to +8.
+
 **Agony's Embrace (Su)**
-
-**At 16th Level:** The bonus to Strength instead increases by 4.
-
-**At 20th Level:** The bonus to Strength instead increases by +6.
 
 **Gained:** At 12th Level
 
 **Passive:** Whenever you're hit by a critical hit, your morale bonus to Strength from your
 _bloodrage_ increases by 2 for 1d6 rounds or until your _rage_ ends.
+
+**At 16th Level:** The bonus to Strength instead increases by 4.
+
+**At 20th Level:** The bonus to Strength instead increases by +6.
 
 **Unnerving Gaze (Su)**
 

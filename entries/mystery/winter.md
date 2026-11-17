@@ -20,27 +20,29 @@ group = "oracle-mystery"
 **Details:** [Gorum](ref/faith/gorum), [Gozreh](ref/faith/gozreh),
 [Kostchtchie](ref/faith/kostchtchie), [Ng](ref/faith/ng), [Rovagug](ref/faith/rovagug).
 
-**Gained class skills:** intm, kna, stl, sur
+**Gained class skills:** [Intimidate](ref/skill/intimidate),
+[Knowledge (nature)](ref/skill/knowledge-nature), [Stealth](ref/skill/stealth),
+[Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Icy prison
+**Spells:** Endure elements (2nd)
 
-**Spells:** Cone of cold
+**Spells:** Frost fall (4th)
 
-**Spells:** Ice body
+**Spells:** Sleet storm (6th)
 
-**Spells:** Polar ray
+**Spells:** Ice storm (8th)
 
-**Spells:** Mass icy prison
+**Spells:** Icy prison (10th)
 
-**Spells:** Endure elements
+**Spells:** Cone of cold (12th)
 
-**Spells:** Frost fall
+**Spells:** Ice body (14th)
 
-**Spells:** Sleet storm
+**Spells:** Polar ray (16th)
 
-**Spells:** Ice storm
+**Spells:** Mass icy prison (18th)
 
 ### Revelations
 
@@ -124,7 +126,7 @@ At 19th level: The armor bonus increases to +12.
 **Ability:** You are able to sculpt ice and snow into almost any shape. This ability functions like
 stone shape, but targeting only ice and snow, not stone.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Icy Skin (Ex)**
 
@@ -171,7 +173,7 @@ twice per day.
 **Standard:** You can perform a melee touch attack that deals cold damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) your oracle level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Final Revelation
 

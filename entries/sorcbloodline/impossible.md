@@ -20,35 +20,34 @@ impossible. This ability derives from an equally unlikely source, such as the go
 axiomites or the monad of aeons. If this expanded perception doesn't drive you mad, you may learn to
 make the impossible into reality.
 
-**Gained class skills:** ke
+**Gained class skills:** [Knowledge (engineering)](ref/skill/knowledge-engineering)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Fabricate
+**Spells:** Lesser confusion (3rd)
 
-**Spells:** Animate objects
+**Spells:** Make whole (5th)
 
-**Spells:** Insanity
+**Spells:** Shrink item (7th)
 
-**Spells:** Polymorph any object
+**Spells:** Confusion (9th)
 
-**Spells:** Wish
+**Spells:** Fabricate (11th)
 
-**Spells:** Lesser confusion
+**Spells:** Animate objects (13th)
 
-**Spells:** Make whole
+**Spells:** Insanity (15th)
 
-**Spells:** Shrink item
+**Spells:** Polymorph any object (17th)
 
-**Spells:** Confusion
+**Spells:** Wish (19th)
 
-**Br:** \~
-
-**Details:**
-[Craft Construct](ref/feat/craft-construct)[Craft Magic Arms and Armor](ref/feat/craft-magic-arms-and-armor)[Deft Hands](ref/feat/deft-hands)[Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency)[Far Shot](ref/feat/far-shot)[Iron Will](ref/feat/iron-will)[Point-Blank Shot](ref/feat/point-blank-shot)\~[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[engineering\])
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Craft Construct](ref/feat/craft-construct),
+[Craft Magic Arms and Armor](ref/feat/craft-magic-arms-and-armor),
+[Deft Hands](ref/feat/deft-hands), [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency),
+[Far Shot](ref/feat/far-shot), [Iron Will](ref/feat/iron-will),
+[Point-Blank Shot](ref/feat/point-blank-shot), [Skill Focus](ref/feat/skill-focus) (Knowledge
+\[engineering\])
 
 **Bloodline Arcana**
 
@@ -68,7 +67,7 @@ sorcerer level (minimum 1). Multiple touches do not stack, but they do add to th
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Spontaneous Generation**
 
@@ -85,11 +84,11 @@ spell completion item), you may ignore one spell prerequisite without increasing
 your sorcerer level. This ability provides a 20% miss chance on ranged attacks made against you and
 grants you a bonus on [Stealth](ref/skill/stealth) checks equal to half your sorcerer level.
 
+**Gained:** At 9th Level
+
 **At 17th Level:** You can use this ability twice per day.
 
 **At 20th Level:** You can use this ability three times a day.
-
-**Gained:** At 9th Level
 
 **Relativity (Su)**
 

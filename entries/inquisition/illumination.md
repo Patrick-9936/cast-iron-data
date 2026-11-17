@@ -33,7 +33,7 @@ and give it a bonus equal to 1/2 your inquisitor level on a single Will saving t
 [Sense Motive](ref/skill/sense-motive) check. This ability lasts for 1 hour or until the creature
 chooses to apply the bonus to a roll.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Aura of Enlightenment (Su)**
 

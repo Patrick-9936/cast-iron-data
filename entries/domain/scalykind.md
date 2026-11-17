@@ -35,8 +35,6 @@ unconsciousness.
 
 **Venomous Stare (Sp)**
 
-**Id:** stare
-
 **Standard:** You can activate a [gaze](ref/umr/gaze) attack with a 30-foot range that can target a
 single creature within range. The target must make a Will save (DC = 10 + 1/2 your cleric level +
 your Wisdom modifier). Those that fail take an amount of nonlethal damage equal to 1d6 +
@@ -44,11 +42,9 @@ your Wisdom modifier). Those that fail take an amount of nonlethal damage equal 
 [fascinated](ref/misc/fascinated) until the beginning of your next turn. This is a mind-affecting
 effect.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Serpent Companion (Ex)**
-
-**Id:** comp
 
 **Gained:** At 4th Level
 
@@ -68,8 +64,6 @@ either a [viper](ref/companion/snake-viper) or a
 1. creeping doom (takes the form of Diminutive-sized reptiles)
 1. animal shapes (reptiles only)
 1. shapechange
-
-**Save:** domain
 
 ### Dragon Subdomain
 
@@ -99,8 +93,6 @@ level + your Wisdom modifier) to take half damage.
 
 **6th:** form of the dragon I
 
-**From:** domain
-
 ### Saurian Subdomain
 
 **Sources:** Book of the Damned pg 181, Paizo Blog - Golarion Day Subdomains pg 1, Inner Sea Gods pg
@@ -128,8 +120,6 @@ your companion.
 **7th:** summon nature's ally VII ([brachiosaurus](ref/monster/dinosaur-brachiosaurus) or
 [tyrannosaurus](ref/monster/dinosaur-tyrannosaurus) only)
 
-**From:** domain
-
 ### Venom Subdomain
 
 **Sources:** Book of the Damned pg 182, Inner Sea Gods pg 227
@@ -145,7 +135,7 @@ Vorasha, Yig
 life-stealing venom onto a weapon you are wielding. The poison (see below) lasts for 1 minute or
 until you make an attack with that weapon that injures a foe.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Life-Stealing Venom**
 
@@ -164,8 +154,6 @@ until you make an attack with that weapon that injures a foe.
 **2nd:** pernicious poison
 
 **6th:** cloudkill
-
-**From:** domain
 
 ### Deities
 

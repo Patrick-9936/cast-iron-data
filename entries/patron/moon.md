@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Moon patron grants the following spells at the listed witch levels.
 
-**Spells:** Aspect of the wolf
+**Spells:** Darkness (2nd)
 
-**Spells:** Control water
+**Spells:** [Darkvision](ref/rule/darkvision) (4th)
 
-**Spells:** Lunar veil
+**Spells:** Owl's wisdom (6th)
 
-**Spells:** Horrid wilting
+**Spells:** Moonstruck (8th)
 
-**Spells:** Meteor swarm
+**Spells:** Aspect of the wolf (10th)
 
-**Spells:** Darkness
+**Spells:** Control water (12th)
 
-**Spells:** [Darkvision](ref/rule/darkvision)
+**Spells:** Lunar veil (14th)
 
-**Spells:** Owl's wisdom
+**Spells:** Horrid wilting (16th)
 
-**Spells:** Moonstruck
+**Spells:** Meteor swarm (18th)

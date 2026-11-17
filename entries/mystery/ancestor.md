@@ -19,27 +19,28 @@ group = "oracle-mystery"
 
 **Details:** [Erastil](ref/faith/erastil), [Irori](ref/faith/irori), [Pharasma](ref/faith/pharasma).
 
-**Gained class skills:** ling, ka, kd, ke, kg, kh, kl, kna, kno, kp, kr
+**Gained class skills:** [Linguistics](ref/skill/linguistics), all
+[Knowledge](ref/skill/knowledge-all) skills
 
 **Bonus Spells**
 
-**Spells:** Telekinesis
+**Spells:** Unseen servant (2nd)
 
-**Spells:** Greater heroism
+**Spells:** Spiritual weapon (4th)
 
-**Spells:** Ethereal jaunt
+**Spells:** Heroism (6th)
 
-**Spells:** Vision
+**Spells:** Spiritual ally (8th)
 
-**Spells:** Astral projection
+**Spells:** Telekinesis (10th)
 
-**Spells:** Unseen servant
+**Spells:** Greater heroism (12th)
 
-**Spells:** Spiritual weapon
+**Spells:** Ethereal jaunt (14th)
 
-**Spells:** Heroism
+**Spells:** Vision (16th)
 
-**Spells:** Spiritual ally
+**Spells:** Astral projection (18th)
 
 ### Revelations
 
@@ -85,7 +86,7 @@ At 14th level: This bonus increases to +3.
 [shaken](ref/misc/shaken). This ability lasts for a number of rounds equal to
 [half](ref/misc/fractions-and-rounding) of your oracle level (minimum 1 round).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Sacred Council (Su)**
 

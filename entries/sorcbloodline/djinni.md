@@ -18,35 +18,32 @@ group = "sorcerer-bloodline"
 You were born with the power of air genies, and the magic of the [djinn](ref/monster/genie-djinni)
 is strong in you.
 
-**Gained class skills:** kp
+**Gained class skills:** [Knowledge (planes)](ref/skill/knowledge-planes)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Overland flight
+**Spells:** Shocking grasp (3rd)
 
-**Spells:** Chain lightning
+**Spells:** Invisibility (5th)
 
-**Spells:** Plane shift
+**Spells:** Fly (7th)
 
-**Spells:** Greater planar binding
+**Spells:** Minor creation (9th)
 
-**Spells:** Wish
+**Spells:** Overland flight (11th)
 
-**Spells:** Shocking grasp
+**Spells:** Chain lightning (13th)
 
-**Spells:** Invisibility
+**Spells:** Plane shift (15th)
 
-**Spells:** Fly
+**Spells:** Greater planar binding (17th)
 
-**Spells:** Minor creation
+**Spells:** Wish (19th)
 
-**Br:** \~
-
-**Details:**
-[Dodge](ref/feat/dodge)[Empower Spell](ref/feat/empower-spell)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Power Attack](ref/feat/power-attack)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[planes\])\~[Weapon Focus](ref/feat/weapon-focus)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Dodge](ref/feat/dodge), [Empower Spell](ref/feat/empower-spell),
+[Great Fortitude](ref/feat/great-fortitude), [Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Power Attack](ref/feat/power-attack),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[planes\]), [Weapon Focus](ref/feat/weapon-focus)
 
 **Bloodline Arcana**
 
@@ -65,15 +62,15 @@ Like a djinni, you have both natural power over air and several other genie-base
 attack. This ray deals electricity damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of
 your sorcerer level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Elemental Resistance (Ex)**
-
-**At 9th Level:** Your electricity resistance increases to 20.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain electricity [resistance](ref/umr/resistance) 10.
+
+**At 9th Level:** Your electricity resistance increases to 20.
 
 **Whirlwind (Su)**
 

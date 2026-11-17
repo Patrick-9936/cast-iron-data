@@ -25,23 +25,23 @@ blue eyes, and her skin always seems strangely cold.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Charm animal
+**Spells:** Charm animal (1st)
 
-**Spells:** Barkskin
+**Spells:** Barkskin (2nd)
 
-**Spells:** Speak with plants
+**Spells:** Speak with plants (3rd)
 
-**Spells:** Grove of respite
+**Spells:** Grove of respite (4th)
 
-**Spells:** Awaken
+**Spells:** Awaken (5th)
 
-**Spells:** Stone tell
+**Spells:** Stone tell (6th)
 
-**Spells:** Creeping doom
+**Spells:** Creeping doom (7th)
 
-**Spells:** Animal shapes
+**Spells:** Animal shapes (8th)
 
-**Spells:** World wave
+**Spells:** World wave (9th)
 
 ### Hexes
 
@@ -119,7 +119,7 @@ within 30 feet. This storm causes the target to treat all foes as if they had
 [concealment](ref/rule/concealment), suffering a 20% miss chance for a number of rounds equal to 1 +
 one-fourth of her shaman level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

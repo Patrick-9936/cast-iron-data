@@ -20,27 +20,29 @@ group = "oracle-mystery"
 **Details:** [Ashava](ref/faith/ashava), [Desna](ref/faith/desna), [Groetus](ref/faith/groetus),
 [Jezelda](ref/faith/jezelda), [Tsukiyo](ref/faith/tsukiyo), [Zon-Kuthon](ref/faith/zon-kuthon).
 
-**Gained class skills:** acro, kna, per, sur
+**Gained class skills:** [Acrobatics](ref/skill/acrobatics),
+[Knowledge (nature)](ref/skill/knowledge-nature), [Perception](ref/skill/perception),
+[Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Aspect of the wolf
+**Spells:** Fumbletongue (2nd)
 
-**Spells:** Litany of madness
+**Spells:** Dust of twilight (4th)
 
-**Spells:** Lunar veil
+**Spells:** Rage (6th)
 
-**Spells:** Blood mist
+**Spells:** Moonstruck (8th)
 
-**Spells:** Polar midnight
+**Spells:** Aspect of the wolf (10th)
 
-**Spells:** Fumbletongue
+**Spells:** Litany of madness (12th)
 
-**Spells:** Dust of twilight
+**Spells:** Lunar veil (14th)
 
-**Spells:** Rage
+**Spells:** Blood mist (16th)
 
-**Spells:** Moonstruck
+**Spells:** Polar midnight (18th)
 
 ### Revelations
 
@@ -88,7 +90,7 @@ of your oracle level.
 number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claw, or gore
 attack. These attacks deal the normal damage for a creature of your size.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Mantle of Moonlight (Su)**
 

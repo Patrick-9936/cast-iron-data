@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Revenge patron grants the following spells at the listed witch levels.
 
-**Spells:** Beast shape III
+**Spells:** Magic fang (2nd)
 
-**Spells:** Vengeful outrage
+**Spells:** Slipstream (4th)
 
-**Spells:** Phantasmal revenge
+**Spells:** Rage (6th)
 
-**Spells:** Seamantle
+**Spells:** Moonstruck (8th)
 
-**Spells:** Storm of vengeance
+**Spells:** Beast shape III (10th)
 
-**Spells:** Magic fang
+**Spells:** Vengeful outrage (12th)
 
-**Spells:** Slipstream
+**Spells:** Phantasmal revenge (14th)
 
-**Spells:** Rage
+**Spells:** Seamantle (16th)
 
-**Spells:** Moonstruck
+**Spells:** Storm of vengeance (18th)

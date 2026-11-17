@@ -44,7 +44,7 @@ rounds equal to 1/2 your wizard level (minimum 1).
 attack. The acid dart deals an amount of acid damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) of your wizard level.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Dimensional Steps (Sp)**
 
@@ -108,7 +108,7 @@ can attempt to regain control of the summoned creature as a standard action by m
 check against your caster level + 10. When your control ends, the creature reverts to the control of
 its summoner.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Imp Familiar (Ex)**
 
@@ -137,7 +137,7 @@ simple materials, such as wood, stone, glass, or metal, and cannot contain any m
 could use this ability to create a [dagger](ref/eq-weapon/dagger), but not a vial of
 [alchemist's fire.](ref/eq-weapon/alchemists-fire)
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Creator's Will (Sp)**
 
@@ -190,4 +190,4 @@ school.
 into. You cannot take other creatures with you when you use this ability (except for familiars). You
 can move 5 feet for every two wizard levels you possess (minimum 5 feet).
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day

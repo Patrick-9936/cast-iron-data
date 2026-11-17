@@ -20,27 +20,28 @@ group = "oracle-mystery"
 **Details:** [Desna](ref/faith/desna), [Gozreh](ref/faith/gozreh), [Pharasma](ref/faith/pharasma),
 [Sarenrae](ref/faith/sarenrae).
 
-**Gained class skills:** fly, ka, per, sur
+**Gained class skills:** [Fly](ref/skill/fly), [Knowledge (arcana)](ref/skill/knowledge-arcana),
+[Perception](ref/skill/perception), [Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Overland flight
+**Spells:** Color spray (2nd)
 
-**Spells:** Chain lightning
+**Spells:** Hypnotic pattern (4th)
 
-**Spells:** Prismatic spray
+**Spells:** Daylight (6th)
 
-**Spells:** Sunburst
+**Spells:** Rainbow pattern (8th)
 
-**Spells:** Meteor swarm
+**Spells:** Overland flight (10th)
 
-**Spells:** Color spray
+**Spells:** Chain lightning (12th)
 
-**Spells:** Hypnotic pattern
+**Spells:** Prismatic spray (14th)
 
-**Spells:** Daylight
+**Spells:** Sunburst (16th)
 
-**Spells:** Rainbow pattern
+**Spells:** Meteor swarm (18th)
 
 ### Revelations
 

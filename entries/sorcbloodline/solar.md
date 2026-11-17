@@ -18,34 +18,32 @@ group = "sorcerer-bloodline"
 Sorcerers who serve in the sun goddess's court display powers infused with the glory of the sun
 itself.
 
-**Gained class skills:** per
+**Gained class skills:** [Perception](ref/skill/perception)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Flame strike
+**Spells:** Searing light (3rd)
 
-**Spells:** True seeing
+**Spells:** Fury of the sun (5th)
 
-**Spells:** Sunbeam
+**Spells:** Daylight (7th)
 
-**Spells:** Sunburst
+**Spells:** Shield of the dawnflower (9th)
 
-**Spells:** Overwhelming presence
+**Spells:** Flame strike (11th)
 
-**Spells:** Searing light
+**Spells:** True seeing (13th)
 
-**Spells:** Fury of the sun
+**Spells:** Sunbeam (15th)
 
-**Spells:** Daylight
+**Spells:** Sunburst (17th)
 
-**Spells:** Shield of the dawnflower
+**Spells:** Overwhelming presence (19th)
 
-**Br:** \~
-
-**Details:**
-[Alertness](ref/feat/alertness)[Combat Casting](ref/feat/combat-casting)[Empower Spell](ref/feat/empower-spell)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Quicken Spell](ref/feat/quicken-spell)[Spell Focus](ref/feat/spell-focus)\~[Spell Penetration](ref/feat/spell-penetration)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Alertness](ref/feat/alertness), [Combat Casting](ref/feat/combat-casting),
+[Empower Spell](ref/feat/empower-spell), [Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Quicken Spell](ref/feat/quicken-spell),
+[Spell Focus](ref/feat/spell-focus), [Spell Penetration](ref/feat/spell-penetration)
 
 **Bloodline Arcana**
 
@@ -69,7 +67,9 @@ your spells.
 
 **Friend of Fire (Su)**
 
-**At 20th Level:** You gain immunity to fire.
+**Gained:** At 3rd Level
+
+**Passive:** You gain fire [resistance](ref/umr/resistance) 10.
 
 **At 5th Level:** When in contact with flame or a burning object (including a
 [flaming](ref/magic-enh/flaming) weapon, lantern, or torch), add 1 per die to any healing effect of
@@ -77,15 +77,11 @@ which you are the target.
 
 **At 9th Level:** Your fire resistance increases to 20.
 
-**Gained:** At 3rd Level
-
-**Passive:** You gain fire [resistance](ref/umr/resistance) 10.
+**At 20th Level:** You gain immunity to fire.
 
 **Cleansing Flame (Su)**
 
 **Flavor:** You can use fire to restore the health of yourself or your allies.
-
-**At 20th Level:** You can use this ability three times per day.
 
 **Gained:** At 9th Level
 
@@ -93,6 +89,8 @@ which you are the target.
 another creature. The touch heals 2d8 + your character level points of damage. You can also remove
 one of the following conditions affecting the target: 1d6 points of ability damage, blinded,
 confused, dazzled, deafened, diseased, exhausted, fatigued, nauseated, poisoned, or sickened.
+
+**At 20th Level:** You can use this ability three times per day.
 
 **Healing Fire (Su)**
 

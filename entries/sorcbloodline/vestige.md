@@ -18,35 +18,33 @@ group = "sorcerer-bloodline"
 You trace your ancestry to a bygone civilization and can call upon its forgotten people or places
 for power.
 
-**Gained class skills:** kh
+**Gained class skills:** [Knowledge (history)](ref/skill/knowledge-history)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Telepathic bond
+**Spells:** Identify (3rd)
 
-**Spells:** Analyze dweomer
+**Spells:** Share memory (5th)
 
-**Spells:** Vision
+**Spells:** Arcane sight (7th)
 
-**Spells:** Discern location
+**Spells:** Hypercognition (9th)
 
-**Spells:** Foresight
+**Spells:** Telepathic bond (11th)
 
-**Spells:** Identify
+**Spells:** Analyze dweomer (13th)
 
-**Spells:** Share memory
+**Spells:** Vision (15th)
 
-**Spells:** Arcane sight
+**Spells:** Discern location (17th)
 
-**Spells:** Hypercognition
+**Spells:** Foresight (19th)
 
-**Br:** \~
-
-**Details:**
-[Arcane Strike](ref/feat/arcane-strike)[Augment Summoning](ref/feat/augment-summoning)[Craft Wondrous Item](ref/feat/craft-wondrous-item)[Echoing Spell](ref/feat/echoing-spell)[Iron Will](ref/feat/iron-will)[Leadership](ref/feat/leadership)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[history\])\~[Spell Focus](ref/feat/spell-focus)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Arcane Strike](ref/feat/arcane-strike),
+[Augment Summoning](ref/feat/augment-summoning),
+[Craft Wondrous Item](ref/feat/craft-wondrous-item), [Echoing Spell](ref/feat/echoing-spell),
+[Iron Will](ref/feat/iron-will), [Leadership](ref/feat/leadership),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[history\]), [Spell Focus](ref/feat/spell-focus)
 
 **Bloodline Arcana**
 
@@ -103,14 +101,6 @@ item retains its abilities while gaining the benefits and drawbacks of becoming 
 
 **Restored Glory (Su)**
 
-**At 15th Level:** Destroyed objects in your possession function and appear as if fully repaired,
-though they can become fully destroyed as described above.
-
-**At 9th Level:** Destroyed objects (objects with 0 hit points) in your possession function and
-appear as if they had only the broken condition, though if they reach a number of negative hit
-points equal to your level, they become fully destroyed and don't function at all, even in your
-possession.
-
 **Gained:** At 3rd Level
 
 **Passive:** Objects in your possession with the [broken](ref/misc/broken) condition function as if
@@ -121,11 +111,15 @@ normal.
 Objects that leave your possession are affected normally by these conditions. This ability does not
 affect artifacts.
 
+**At 9th Level:** Destroyed objects (objects with 0 hit points) in your possession function and
+appear as if they had only the broken condition, though if they reach a number of negative hit
+points equal to your level, they become fully destroyed and don't function at all, even in your
+possession.
+
+**At 15th Level:** Destroyed objects in your possession function and appear as if fully repaired,
+though they can become fully destroyed as described above.
+
 **Call Ancestor (Sp)**
-
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times a day.
 
 **Gained:** At 9th Level
 
@@ -135,6 +129,10 @@ affect artifacts.
 functions as the [lesser simulacrum](ref/spell/simulacrum-lesser) spell, except the simulacrum lasts
 only 1 round per sorcerer level you have, has the same statistics as you, and always has the
 likeness of an ancestor.
+
+**At 17th Level:** You can use this ability twice per day.
+
+**At 20th Level:** You can use this ability three times a day.
 
 In addition, the simulacrum has lost knowledge from the past. When summoning the simulacrum, select
 one Knowledge skill. The simulacrum is considered trained in that skill and has a bonus on Knowledge

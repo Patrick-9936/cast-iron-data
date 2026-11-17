@@ -50,10 +50,10 @@ defend a settlement and the last to retreat.
 
 **Oath Spells**
 
-**Spells:** Deathwatch
+**Spells:** Deathwatch (1st)
 
-**Spells:** Protection from arrows
+**Spells:** Protection from arrows (2nd)
 
-**Spells:** Haste
+**Spells:** Haste (3rd)
 
-**Spells:** Divine power
+**Spells:** Divine power (4th)

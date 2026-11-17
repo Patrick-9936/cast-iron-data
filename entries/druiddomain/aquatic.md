@@ -30,7 +30,7 @@ to this ability, such as [Extra Channel](ref/feat/extra-channel) and
 [Elemental Channel](ref/feat/elemental-channel) and [Alignment Channel](ref/feat/alignment-channel).
 The DC to save against this ability is equal to 10 + 1/2 your druid level + your Charisma modifier.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Seastrike (Su)**
 

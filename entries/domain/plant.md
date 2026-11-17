@@ -31,17 +31,13 @@ with plants.
 fists, your unarmed strikes do not provoke attacks of opportunity, deal lethal damage, and gain a
 bonus on damage rolls equal to 1/2 your cleric level (minimum +1).
 
-**Id:** fist
-
-**Usage:** Wis3 modifier rounds/day
+**Usage:** 3 + Wisdom modifier rounds/day
 
 **Bramble Armor (Su)**
 
 **Free:** You can cause a host of wooden thorns to burst from your skin. While bramble armor is in
 effect, any foe striking you with an unarmed strike or a melee weapon without reach takes an amount
 of piercing damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your cleric level.
-
-**Id:** armor
 
 **Gained:** At 6th Level
 
@@ -58,8 +54,6 @@ of piercing damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of you
 1. animate plants
 1. control plants
 1. shambler
-
-**Save:** domain
 
 ### Decay Subdomain
 
@@ -91,8 +85,6 @@ of damage per round.
 
 **6th:** harm
 
-**From:** domain
-
 ### Growth Subdomain
 
 **Sources:** Advanced Player's Guide pg 91
@@ -108,15 +100,13 @@ Tamede, The Green Mother, Valani, Vermilion Mother
 **Swift:** You can enlarge yourself for 1 round, as if you were the target of the
 _[enlarge person](ref/spell/enlarge-person)_ spell.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
 **1st:** enlarge person
 
 **5th:** righteous might
-
-**From:** domain
 
 ### Leshy Subdomain
 
@@ -144,15 +134,13 @@ _V_ lists, respectively.
 **Standard:** You can grant a single leshy within 30 feet a +4 sacred bonus on its next attack roll
 before the start of your next turn.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
 **1st:** tree shape
 
 **5th:** commune with nature
-
-**From:** domain
 
 ### Thorns Subdomain
 
@@ -175,7 +163,7 @@ area with numerous plants (grass, weeds, trees, etc.), the area also becomes
 the vines crumble to dust. Creatures able to move through natural undergrowth unhindered ignore the
 effects of this ability.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -184,8 +172,6 @@ effects of this ability.
 **3rd:** thorny entanglement
 
 **4th:** thorn body
-
-**From:** domain
 
 ### Deities
 

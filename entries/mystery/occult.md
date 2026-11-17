@@ -25,27 +25,28 @@ You have an innate connection to the spirits of the dead.
 **Details:** [Magdh](ref/faith/magdh), [Nethys](ref/faith/nethys), [Pharasma](ref/faith/pharasma),
 [Tsukiyo](ref/faith/tsukiyo).
 
-**Gained class skills:** bluff, dis, ka, umd
+**Gained class skills:** [Bluff](ref/skill/bluff), [Disguise](ref/skill/disguise),
+[Knowledge (arcana)](ref/skill/knowledge-arcana), [Use Magic Device](ref/skill/use-magic-device)
 
 **Bonus Spells**
 
-**Spells:** Contact other plane
+**Spells:** Unseen servant (2nd)
 
-**Spells:** Project image
+**Spells:** Spectral hand (4th)
 
-**Spells:** Vision
+**Spells:** Clairaudience/clairvoyance (6th)
 
-**Spells:** Moment of prescience
+**Spells:** Scrying (8th)
 
-**Spells:** Astral projection
+**Spells:** Contact other plane (10th)
 
-**Spells:** Unseen servant
+**Spells:** Project image (12th)
 
-**Spells:** Spectral hand
+**Spells:** Vision (14th)
 
-**Spells:** Clairaudience/clairvoyance
+**Spells:** Moment of prescience (16th)
 
-**Spells:** Scrying
+**Spells:** Astral projection (18th)
 
 ### Revelations
 
@@ -109,7 +110,7 @@ At 19th level: The armor bonus increases to +12.
 [shaken](ref/misc/shaken). This ability lasts for a number of rounds equal to
 [half](ref/misc/fractions-and-rounding) your oracle level (minimum 1 round).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Project Psyche (Su)**
 

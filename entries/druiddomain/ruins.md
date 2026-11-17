@@ -29,7 +29,7 @@ the same target cannot be affected by this ability more than once.
 
 **Flavor:** You can strengthen or weaken objects with your touch.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Remembrance (Sp)**
 

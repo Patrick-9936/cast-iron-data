@@ -24,27 +24,28 @@ mystery often take the [clouded vision](ref/oraclecurse/clouded-vision) or
 **Details:** [Abadar](ref/faith/abadar), [Asmodeus](ref/faith/asmodeus),
 [Iomedae](ref/faith/iomedae), [Irori](ref/faith/irori), [Torag](ref/faith/torag).
 
-**Gained class skills:** bluff, intm, kl, per
+**Gained class skills:** [Bluff](ref/skill/bluff), [Intimidate](ref/skill/intimidate),
+[Knowledge (local)](ref/skill/knowledge-local), [Perception](ref/skill/perception)
 
 **Bonus Spells**
 
-**Spells:** Break enchantment
+**Spells:** Cause fear (2nd)
 
-**Spells:** Forceful hand
+**Spells:** Daze monster (4th)
 
-**Spells:** Dictum
+**Spells:** Hold person (6th)
 
-**Spells:** Shield of law
+**Spells:** Order's wrath (8th)
 
-**Spells:** Imprisonment
+**Spells:** Break enchantment (10th)
 
-**Spells:** Cause fear
+**Spells:** Forceful hand (12th)
 
-**Spells:** Daze monster
+**Spells:** Dictum (14th)
 
-**Spells:** Hold person
+**Spells:** Shield of law (16th)
 
-**Spells:** Order's wrath
+**Spells:** Imprisonment (18th)
 
 ### Revelations
 

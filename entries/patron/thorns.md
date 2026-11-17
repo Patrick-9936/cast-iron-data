@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Thorns patron grants the following spells at the listed witch levels.
 
-**Spells:** Wall of thorns
+**Spells:** Thorn javelin (2nd)
 
-**Spells:** Blade barrier
+**Spells:** Wrath (4th)
 
-**Spells:** Repulsion
+**Spells:** Thorny entanglement (6th)
 
-**Spells:** Mage's sword
+**Spells:** Thorn body (8th)
 
-**Spells:** Wooden phalanx
+**Spells:** Wall of thorns (10th)
 
-**Spells:** Thorn javelin
+**Spells:** Blade barrier (12th)
 
-**Spells:** Wrath
+**Spells:** Repulsion (14th)
 
-**Spells:** Thorny entanglement
+**Spells:** Mage's sword (16th)
 
-**Spells:** Thorn body
+**Spells:** Wooden phalanx (18th)

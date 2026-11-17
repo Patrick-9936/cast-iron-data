@@ -20,27 +20,28 @@ group = "oracle-mystery"
 **Details:** [Flauros](ref/faith/flauros), [Mhar](ref/faith/mhar), [Rovagug](ref/faith/rovagug),
 [Valani](ref/faith/valani), [Yamatsumi](ref/faith/yamatsumi), [Ymeri](ref/faith/ymeri).
 
-**Gained class skills:** climb, intm, kg, sur
+**Gained class skills:** [Climb](ref/skill/climb), [Intimidate](ref/skill/intimidate),
+[Knowledge (geography)](ref/skill/knowledge-geography), [Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Geyser
+**Spells:** Burning hands (2nd)
 
-**Spells:** Contagious flame
+**Spells:** Heat metal (4th)
 
-**Spells:** Fire storm
+**Spells:** Protection from energy (6th)
 
-**Spells:** Wall of lava
+**Spells:** Volcanic storm (8th)
 
-**Spells:** Meteor swarm
+**Spells:** Geyser (10th)
 
-**Spells:** Burning hands
+**Spells:** Contagious flame (12th)
 
-**Spells:** Heat metal
+**Spells:** Fire storm (14th)
 
-**Spells:** Protection from energy
+**Spells:** Wall of lava (16th)
 
-**Spells:** Volcanic storm
+**Spells:** Meteor swarm (18th)
 
 ### Revelations
 
@@ -161,7 +162,7 @@ weapon.
 **Standard:** You can perform a melee touch attack that deals 1d6 points of fire damage plus an
 additional amount of points equal to [half](ref/misc/fractions-and-rounding) of your oracle level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Final Revelation
 

@@ -28,7 +28,7 @@ It takes courage to confront the enemies of your faith.
 
 **Ability:** You may use [remove fear](ref/spell/remove-fear) on a single creature.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Fearless (Su)**
 

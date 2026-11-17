@@ -12,7 +12,5 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The target is no longer exhausted. The paladin must have the
-[fatigued](ref/mercy/fatigued) mercy before selecting this mercy.
-
-**Title:** Exhausted
+The target is no longer exhausted. The paladin must have the [fatigued](ref/mercy/fatigued) mercy
+before selecting this mercy.

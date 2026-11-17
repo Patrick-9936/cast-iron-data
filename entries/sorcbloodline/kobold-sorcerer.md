@@ -22,34 +22,32 @@ bloodline go on to lead powerful kobold tribes.
 
 **Prerequisites:** Kobold
 
-**Gained class skills:** dd
+**Gained class skills:** [Disable Device](ref/skill/disable-device)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Transmute rock to mud
+**Spells:** Alarm (3rd)
 
-**Spells:** Guards and wards
+**Spells:** Create pit (5th)
 
-**Spells:** Delayed blast fireball
+**Spells:** Explosive runes (7th)
 
-**Spells:** Form of the dragon III
+**Spells:** Dragon's breath (9th)
 
-**Spells:** Imprisonment
+**Spells:** Transmute rock to mud (11th)
 
-**Spells:** Alarm
+**Spells:** Guards and wards (13th)
 
-**Spells:** Create pit
+**Spells:** Delayed blast fireball (15th)
 
-**Spells:** Explosive runes
+**Spells:** Form of the dragon III (17th)
 
-**Spells:** Dragon's breath
+**Spells:** Imprisonment (19th)
 
-**Br:** \~
-
-**Details:**
-[Alertness](ref/feat/alertness)[Combat Casting](ref/feat/combat-casting)[Defensive Combat Training](ref/feat/defensive-combat-training)[Dodge](ref/feat/dodge)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Silent Spell](ref/feat/silent-spell)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Alertness](ref/feat/alertness), [Combat Casting](ref/feat/combat-casting),
+[Defensive Combat Training](ref/feat/defensive-combat-training), [Dodge](ref/feat/dodge),
+[Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Silent Spell](ref/feat/silent-spell)
 
 **Bloodline Arcana**
 
@@ -80,7 +78,7 @@ The rune is considered a magical trap for the purpose of perceiving it or disabl
 both [Perception](ref/skill/perception) and Disable Device checks is the same as the Reflex saving
 throw to halve the damage.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Trap Sense (Ex)**
 

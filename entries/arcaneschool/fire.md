@@ -48,7 +48,7 @@ Creatures that catch fire can avoid this damage by taking a full-round action to
 flames by making a DC 15 Reflex save. Rolling on the ground gives a +2 circumstance bonus on the
 save. Dousing the creature with water automatically extinguishes the flame.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Dancing Flame (Su)**
 
@@ -83,7 +83,7 @@ damage. In addition, the ground in this area remains molten for another 1d4 roun
 begin their turns in the area can move out that turn without penalty, but those that enter the area
 each take 1d6 points of fire damage.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Lava Shield (Su)**
 
@@ -113,7 +113,7 @@ powers of the fire school.
 smoke that you (but not others) magically create. You can choose to touch another creature to grant
 it this vision for 1 hour.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Body of Smoke (Sp)**
 

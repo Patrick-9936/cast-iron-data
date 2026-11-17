@@ -26,35 +26,33 @@ to be the creature initially possessed to have this particular bloodline. It may
 ancestors was possessed by a powerful spirit, one whose presence was so overwhelming that it sends
 ripples of power down through the generations.
 
-**Gained class skills:** kr
+**Gained class skills:** [Knowledge (religion)](ref/skill/knowledge-religion)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Possession
+**Spells:** Anticipate peril (3rd)
 
-**Spells:** Telepathy
+**Spells:** Share memory (5th)
 
-**Spells:** Insanity
+**Spells:** Purge spirit (7th)
 
-**Spells:** Bilocation
+**Spells:** Entrap spirit (9th)
 
-**Spells:** Divide mind
+**Spells:** Possession (11th)
 
-**Spells:** Anticipate peril
+**Spells:** Telepathy (13th)
 
-**Spells:** Share memory
+**Spells:** Insanity (15th)
 
-**Spells:** Purge spirit
+**Spells:** Bilocation (17th)
 
-**Spells:** Entrap spirit
+**Spells:** Divide mind (19th)
 
-**Br:** \~
-
-**Details:**
-[Combat Casting](ref/feat/combat-casting)[Deceitful](ref/feat/deceitful)[Fearsome Spell](ref/feat/fearsome-spell)[Improved Iron Will](ref/feat/improved-iron-will)[Iron Will](ref/feat/iron-will)[Persuasive](ref/feat/persuasive)[Selective Spell](ref/feat/selective-spell)[Skill Focus](ref/feat/skill-focus)
-(Bluff)[Spell Focus](ref/feat/spell-focus)\~[Traumatic Spell](ref/feat/traumatic-spell)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Casting](ref/feat/combat-casting), [Deceitful](ref/feat/deceitful),
+[Fearsome Spell](ref/feat/fearsome-spell), [Improved Iron Will](ref/feat/improved-iron-will),
+[Iron Will](ref/feat/iron-will), [Persuasive](ref/feat/persuasive),
+[Selective Spell](ref/feat/selective-spell), [Skill Focus](ref/feat/skill-focus) (Bluff),
+[Spell Focus](ref/feat/spell-focus), [Traumatic Spell](ref/feat/traumatic-spell)
 
 **Bloodline Arcana**
 
@@ -64,7 +62,7 @@ already failed a save against a mind-affecting effect, you can instead attempt a
 against that ongoing mind-affecting effect after successfully casting your spell. You can use this
 ability only once against a given mind-affecting effect.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Bloodline Powers
 
@@ -79,17 +77,17 @@ and mind.
 [confused](ref/misc/confused) for 1 round. The save DC is equal to 10 +
 [half](ref/misc/fractions-and-rounding) your sorcerer level + your Charisma modifier.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Sight Unseen (Sp)**
 
 **Ability:** You gain [darkvision](ref/rule/darkvision) with a range of up to 30 feet. If you
 already have darkvision, its range instead increases by 30 feet.
 
+**Gained:** At 3rd Level
+
 **At 9th Level:** You gain lifesense with a range of 30 feet (lifesense allows you to sense and
 locate living creatures as if you had the [blindsight](ref/umr/blindsight) ability).
-
-**Gained:** At 3rd Level
 
 **Inside Agent (Sp)**
 
@@ -97,14 +95,14 @@ locate living creatures as if you had the [blindsight](ref/umr/blindsight) abili
 allowing your possessing spirit to take further control. You take a -2 penalty on all other skill
 checks for the following minute as the spirit interferes with your concentration.
 
-**At 13th Level:** You can reroll any other skill check, but the penalty for using the ability in
-this way increases to -4 for the following 10 minutes.
-
 **Gained:** At 9th Level
 
 **Special:** You must reroll the check before you learn the result of your original check, and
 cannot use this power while the skill check penalty associated with _inside agent_ is imposed on
 you.
+
+**At 13th Level:** You can reroll any other skill check, but the penalty for using the ability in
+this way increases to -4 for the following 10 minutes.
 
 **One Body, Two Minds (Sp)**
 

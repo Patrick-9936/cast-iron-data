@@ -23,11 +23,11 @@ nature spirit, who expects you to wield such gifts on its behalf.
 **Passive:** You cannot abide the touch of iron or steel; contact with either metal deals 1d3 points
 of damage each round, and wearing metal armor prevents you from casting spells until it is removed.
 
-**Spells:** Tree stride
+**Spells:** Entangle (2nd)
 
-**Spells:** Entangle
+**Spells:** Plant growth (6th)
 
-**Spells:** Plant growth
+**Spells:** Tree stride (10th)
 
 **Available patron themes:** [Animals](ref/patron/animals), [Endurance](ref/patron/endurance),
 [Moon](ref/patron/moon), [Transformation](ref/patron/transformation)

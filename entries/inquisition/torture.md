@@ -36,7 +36,7 @@ addition to your bonus for _Stern Gaze._
 [spell-like ability](ref/umr/spell-like-abilities). Creatures that are immune to pain effects are
 immune to this touch.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Critical Precision (Ex)**
 

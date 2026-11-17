@@ -52,10 +52,10 @@ street.)
 
 **Oath Spells**
 
-**Spells:** Magic stone
+**Spells:** Magic stone (1st)
 
-**Spells:** Make whole
+**Spells:** Make whole (2nd)
 
-**Spells:** Magic vestment
+**Spells:** Magic vestment (3rd)
 
-**Spells:** Imbue with spell ability
+**Spells:** Imbue with spell ability (4th)

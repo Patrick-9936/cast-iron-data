@@ -21,34 +21,32 @@ human temerity and uninhibited hubris.
 
 **Prerequisites:** Human
 
-**Gained class skills:** perf\|oratory
+**Gained class skills:** [Perform (oratory)](ref/skill/perform-any)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Greater command
+**Spells:** Moment of greatness (3rd)
 
-**Spells:** Repulsion
+**Spells:** Eagle's splendor (5th)
 
-**Spells:** Greater age resistance
+**Spells:** Heroism (7th)
 
-**Spells:** Prediction of failure
+**Spells:** Threefold aspect (9th)
 
-**Spells:** Overwhelming presence
+**Spells:** Greater command (11th)
 
-**Spells:** Moment of greatness
+**Spells:** Repulsion (13th)
 
-**Spells:** Eagle's splendor
+**Spells:** Greater age resistance (15th)
 
-**Spells:** Heroism
+**Spells:** Prediction of failure (17th)
 
-**Spells:** Threefold aspect
+**Spells:** Overwhelming presence (19th)
 
-**Br:** \~
-
-**Details:**
-[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Heroic Defiance](ref/feat/heroic-defiance)[Heroic Recovery](ref/feat/heroic-recovery)[Improved Initiative](ref/feat/improved-initiative)[Lingering Spell](ref/feat/lingering-spell)[Magical Aptitude](ref/feat/magical-aptitude)\~[Persuasive](ref/feat/persuasive)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Diehard](ref/feat/diehard), [Endurance](ref/feat/endurance),
+[Heroic Defiance](ref/feat/heroic-defiance), [Heroic Recovery](ref/feat/heroic-recovery),
+[Improved Initiative](ref/feat/improved-initiative), [Lingering Spell](ref/feat/lingering-spell),
+[Magical Aptitude](ref/feat/magical-aptitude), [Persuasive](ref/feat/persuasive)
 
 **Bloodline Arcana**
 
@@ -65,7 +63,9 @@ You draw upon ancestors both legendary and forgotten.
 
 **Gained:** At 1st Level
 
-**Gained class skills:** diplo, kh, kl, kno, ling
+**Gained class skills:** [Diplomacy](ref/skill/diplomacy),
+[Knowledge (history)](ref/skill/knowledge-history), [Knowledge (local)](ref/skill/knowledge-local),
+[Knowledge (nobility)](ref/skill/knowledge-nobility), [Linguistics](ref/skill/linguistics)
 
 **Passive Ability:** In addition, when using these skills to learn, study, or gather information
 about humans, you add an insight bonus equal to your Charisma bonus on such checks.
@@ -76,8 +76,6 @@ about humans, you add an insight bonus equal to your Charisma bonus on such chec
 share your increased bonus with all other recipients. This increase to other participants lasts a
 number of rounds equal to your Charisma bonus.
 
-**At 9th Level:** These abilities also apply to competence bonuses.
-
 **Gained:** At 3rd Level
 
 **Passive:** When you receive a morale bonus from any spell,
@@ -85,6 +83,8 @@ number of rounds equal to your Charisma bonus.
 yourself, that bonus increases by +1.
 
 **Usage:** 1 time/day per 3 sorcerer levels
+
+**At 9th Level:** These abilities also apply to competence bonuses.
 
 **Take Your Best Shot (Su)**
 
@@ -95,10 +95,10 @@ attack missing, or some other protection, you can make an Intimidate check to de
 creature that produced the effect, but only if the creature that used the harmful effect is within
 30 feet and can clearly see and hear you.
 
+**Gained:** At 9th Level
+
 **At 13th Level:** You can use this ability after succeeding at a saving throw to reduce the effects
 of an attack (if no save is allowed, you cannot use this ability).
-
-**Gained:** At 9th Level
 
 **Heroic Legends (Su)**
 

@@ -20,22 +20,20 @@ group = "bloodrager-bloodline"
 There is a taint in your blood that is both alien and bizarre. When you _bloodrage,_ this manifests
 in peculiar and terrifying ways.
 
-**Br:** \~
-
-**Details:**
-[Combat Reflexes](ref/feat/combat-reflexes)[Great Fortitude](ref/feat/great-fortitude)[Improved Disarm](ref/feat/improved-disarm)[Improved Grapple](ref/feat/improved-grapple)[Improved Initiative](ref/feat/improved-initiative)[Improved Unarmed Strike](ref/feat/improved-unarmed-strike)[Iron Will](ref/feat/iron-will)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Reflexes](ref/feat/combat-reflexes),
+[Great Fortitude](ref/feat/great-fortitude), [Improved Disarm](ref/feat/improved-disarm),
+[Improved Grapple](ref/feat/improved-grapple), [Improved Initiative](ref/feat/improved-initiative),
+[Improved Unarmed Strike](ref/feat/improved-unarmed-strike), [Iron Will](ref/feat/iron-will)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** See invisibility
+**Spells:** Enlarge person (7th)
 
-**Spells:** Displacement
+**Spells:** See invisibility (10th)
 
-**Spells:** Black tentacles
+**Spells:** Displacement (13th)
 
-**Spells:** Enlarge person
+**Spells:** Black tentacles (16th)
 
 ### Bloodline Powers
 

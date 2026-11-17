@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Nightmares patron grants the following spells at the listed witch levels.
 
-**Spells:** Nightmare
+**Spells:** Sleep (2nd)
 
-**Spells:** Dream travel
+**Spells:** Detect thoughts (4th)
 
-**Spells:** Symbol of weakness
+**Spells:** Oneiric horror (6th)
 
-**Spells:** Demand
+**Spells:** Phantasmal killer (8th)
 
-**Spells:** Polar midnight
+**Spells:** Nightmare (10th)
 
-**Spells:** Sleep
+**Spells:** Dream travel (12th)
 
-**Spells:** Detect thoughts
+**Spells:** Symbol of weakness (14th)
 
-**Spells:** Oneiric horror
+**Spells:** Demand (16th)
 
-**Spells:** Phantasmal killer
+**Spells:** Polar midnight (18th)

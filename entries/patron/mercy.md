@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Mercy patron grants the following spells at the listed witch levels.
 
-**Spells:** Cleanse
+**Spells:** Cure light wounds (2nd)
 
-**Spells:** Heroes' feast
+**Spells:** Eagle's splendor (4th)
 
-**Spells:** Foe to friend
+**Spells:** Remove curse (6th)
 
-**Spells:** Euphoric tranquility
+**Spells:** Restoration (8th)
 
-**Spells:** True resurrection
+**Spells:** Cleanse (10th)
 
-**Spells:** Cure light wounds
+**Spells:** Heroes' feast (12th)
 
-**Spells:** Eagle's splendor
+**Spells:** Foe to friend (14th)
 
-**Spells:** Remove curse
+**Spells:** Euphoric tranquility (16th)
 
-**Spells:** Restoration
+**Spells:** True resurrection (18th)

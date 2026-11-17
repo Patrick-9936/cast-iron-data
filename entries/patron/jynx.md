@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Jynx patron grants the following spells at the listed witch levels.
 
-**Spells:** Mark of justice
+**Spells:** Ill omen (2nd)
 
-**Spells:** Eyebite
+**Spells:** Shatter (4th)
 
-**Spells:** Spell turning
+**Spells:** Bestow curse (6th)
 
-**Spells:** Antipathy
+**Spells:** Retribution (8th)
 
-**Spells:** Energy drain
+**Spells:** Mark of justice (10th)
 
-**Spells:** Ill omen
+**Spells:** Eyebite (12th)
 
-**Spells:** Shatter
+**Spells:** Spell turning (14th)
 
-**Spells:** Bestow curse
+**Spells:** Antipathy (16th)
 
-**Spells:** Retribution
+**Spells:** Energy drain (18th)

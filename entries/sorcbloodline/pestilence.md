@@ -19,35 +19,32 @@ You were born during the height of a great magical plague, to a mother suffering
 disease, or you suffered an eldritch pox as a child, such that your very soul now carries a blight
 of pestilence within it.
 
-**Gained class skills:** heal
+**Gained class skills:** [Heal](ref/skill/heal)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Insect plague
+**Spells:** Charm animal (3rd)
 
-**Spells:** Eyebite
+**Spells:** Summon swarm (5th)
 
-**Spells:** Creeping doom
+**Spells:** Contagion (7th)
 
-**Spells:** Horrid wilting
+**Spells:** Repel vermin (9th)
 
-**Spells:** Power word kill
+**Spells:** Insect plague (11th)
 
-**Spells:** Charm animal
+**Spells:** Eyebite (13th)
 
-**Spells:** Summon swarm
+**Spells:** Creeping doom (15th)
 
-**Spells:** Contagion
+**Spells:** Horrid wilting (17th)
 
-**Spells:** Repel vermin
+**Spells:** Power word kill (19th)
 
-**Br:** \~
-
-**Details:**
-[Brew Potion](ref/feat/brew-potion)[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Great Fortitude](ref/feat/great-fortitude)[Self Sufficient](ref/feat/self-sufficient)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[nature\])[Silent Spell](ref/feat/silent-spell)\~[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Brew Potion](ref/feat/brew-potion), [Diehard](ref/feat/diehard),
+[Endurance](ref/feat/endurance), [Great Fortitude](ref/feat/great-fortitude),
+[Self Sufficient](ref/feat/self-sufficient), [Skill Focus](ref/feat/skill-focus) (Knowledge
+\[nature\]), [Silent Spell](ref/feat/silent-spell), [Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -69,17 +66,17 @@ into rancid-smelling pustules and sores for a number of rounds equal to
 the victim to become [sickened](ref/misc/sickened) for the duration of the effect; this is a disease
 effect.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Accustomed to Awfulness (Ex)**
-
-**At 9th Level:** You become immune to the [nauseated](ref/misc/nauseated) condition and to the
-debilitating effects of disease (but you can still be a carrier of diseases).
 
 **Gained:** At 3rd Level
 
 **Passive:** You become immune to the sickened condition and gain a +4 bonus on all saving throws
 against effects that cause nausea or disease.
+
+**At 9th Level:** You become immune to the [nauseated](ref/misc/nauseated) condition and to the
+debilitating effects of disease (but you can still be a carrier of diseases).
 
 **Shroud of Vermin (Su)**
 
@@ -102,16 +99,16 @@ At 17th level: This bonus increases to +3.
 
 **Flavor:** The sickness within your body finally becomes so potent that your very breath is deadly.
 
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times per day.
-
 **Gained:** At 15th Level
 
 **Standard:** Once per day, you can exhale a cloud of pestilence in a 30-foot cone. Those caught in
 the area of this miasmic cloud receive a single Fortitude save to avoid suffering the effects of two
 different diseases. The DC of this save is equal to 10 + half your sorcerer level + your Charisma
 modifier.
+
+**At 17th Level:** You can use this ability twice per day.
+
+**At 20th Level:** You can use this ability three times per day.
 
 You can choose what two diseases you inflict on each target that succumbs to your plague breath, but
 they must be two different diseases chosen from the following list:

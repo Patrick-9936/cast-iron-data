@@ -12,6 +12,4 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The target is no longer stunned.
-
-**Title:** Stunned
+The target is no longer stunned.

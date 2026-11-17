@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Healing patron grants the following spells at the listed witch levels.
 
-**Spells:** Cleanse
+**Spells:** Remove fear (2nd)
 
-**Spells:** Pillar of life
+**Spells:** Lesser restoration (4th)
 
-**Spells:** Greater restoration
+**Spells:** Remove disease (6th)
 
-**Spells:** Mass cure critical wounds
+**Spells:** Restoration (8th)
 
-**Spells:** True resurrection
+**Spells:** Cleanse (10th)
 
-**Spells:** Remove fear
+**Spells:** Pillar of life (12th)
 
-**Spells:** Lesser restoration
+**Spells:** Greater restoration (14th)
 
-**Spells:** Remove disease
+**Spells:** Mass cure critical wounds (16th)
 
-**Spells:** Restoration
+**Spells:** True resurrection (18th)

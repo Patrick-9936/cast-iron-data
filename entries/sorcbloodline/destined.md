@@ -19,35 +19,32 @@ Your family is destined for greatness in some way. Your birth could have been fo
 or perhaps it occurred during an especially auspicious event, such as a solar eclipse. Regardless of
 your bloodline's origin, you have a great future ahead.
 
-**Gained class skills:** kh
+**Gained class skills:** [Knowledge (history)](ref/skill/knowledge-history)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Break enchantment
+**Spells:** Alarm (3rd)
 
-**Spells:** Mislead
+**Spells:** Blur (5th)
 
-**Spells:** Spell turning
+**Spells:** Protection from energy (7th)
 
-**Spells:** Moment of prescience
+**Spells:** Freedom of movement (9th)
 
-**Spells:** Foresight
+**Spells:** Break enchantment (11th)
 
-**Spells:** Alarm
+**Spells:** Mislead (13th)
 
-**Spells:** Blur
+**Spells:** Spell turning (15th)
 
-**Spells:** Protection from energy
+**Spells:** Moment of prescience (17th)
 
-**Spells:** Freedom of movement
+**Spells:** Foresight (19th)
 
-**Br:** \~
-
-**Details:**
-[Arcane Strike](ref/feat/arcane-strike)[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Leadership](ref/feat/leadership)[Lightning Reflexes](ref/feat/lightning-reflexes)[Maximize Spell](ref/feat/maximize-spell)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[history\])\~[Weapon Focus](ref/feat/weapon-focus)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Arcane Strike](ref/feat/arcane-strike), [Diehard](ref/feat/diehard),
+[Endurance](ref/feat/endurance), [Leadership](ref/feat/leadership),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Maximize Spell](ref/feat/maximize-spell),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[history\]), [Weapon Focus](ref/feat/weapon-focus)
 
 **Bloodline Arcana**
 
@@ -65,7 +62,7 @@ You are destined for great things, and the powers that you gain serve to protect
 **Standard:** You can touch a creature, giving it an insight bonus on attack rolls, skill checks,
 ability checks, and saving throws equal to half your sorcerer level (minimum 1) for 1 round.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Fated (Su)**
 
@@ -89,9 +86,9 @@ level check made to overcome [spell resistance](ref/rule/spell-resistance). You 
 this ability after the first roll is made but before the results are revealed by the GM. You must
 take the second result, even if it is worse.
 
-**At 17th Level:** You can use this ability twice per day.
-
 **Gained:** At 9th Level
+
+**At 17th Level:** You can use this ability twice per day.
 
 **Within Reach (Su)**
 
@@ -142,4 +139,4 @@ your sorcerer level + your Charisma modifier) negates this effect.
 
 **Replaces:** Touch of destiny
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day

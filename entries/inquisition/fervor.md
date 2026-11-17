@@ -35,7 +35,7 @@ targets. If you are neither good nor evil, when you gain this ability you must d
 flames harm only nongood or nonevil targets; once you make this decision, it cannot be changed
 (though if your alignment changes, the effect of the flames changes appropriately)
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Fervent Action (Ex)**
 

@@ -24,7 +24,7 @@ ability one additional time per day and he gains one alchemist discovery that ca
 treating his vigilante level as his alchemist level for any prerequisites. He can apply these
 discoveries to his bombs as normal.
 
-**Usage:** Intelligence3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Bomb (Su)**
 

@@ -88,10 +88,10 @@ already held by dwarves.
 
 **Oath Spells**
 
-**Spells:** Enlarge person
+**Spells:** Enlarge person (1st)
 
-**Spells:** Find traps
+**Spells:** Find traps (2nd)
 
-**Spells:** Spiritual ally
+**Spells:** Spiritual ally (3rd)
 
-**Spells:** Blessing of fervor
+**Spells:** Blessing of fervor (4th)

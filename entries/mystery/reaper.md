@@ -23,27 +23,28 @@ final reward.
 **Details:** [Achaekek](ref/faith/achaekek), [Groetus](ref/faith/groetus),
 [Pharasma](ref/faith/pharasma)
 
-**Gained class skills:** intm, per, stl, sur
+**Gained class skills:** [Intimidate](ref/skill/intimidate), [Perception](ref/skill/perception),
+[Stealth](ref/skill/stealth), [Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Slay living
+**Spells:** Chill touch (2nd)
 
-**Spells:** Undeath to death
+**Spells:** Calm spirit (4th)
 
-**Spells:** Destruction
+**Spells:** Sands of time (6th)
 
-**Spells:** Horrid wilting
+**Spells:** Purge spirit (8th)
 
-**Spells:** Wail of the banshee
+**Spells:** Slay living (10th)
 
-**Spells:** Chill touch
+**Spells:** Undeath to death (12th)
 
-**Spells:** Calm spirit
+**Spells:** Destruction (14th)
 
-**Spells:** Sands of time
+**Spells:** Horrid wilting (16th)
 
-**Spells:** Purge spirit
+**Spells:** Wail of the banshee (18th)
 
 ### Revelations
 
@@ -129,7 +130,7 @@ creature within 30 feet, dealing 1d6 points of damage per 2 oracle levels you ha
 undead creature or the creature possessing the object can attempt a Reflex saving throw to halve the
 damage
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Spectral Spells (Su)**
 
@@ -149,7 +150,7 @@ level of the spell.
 [ghost touch](ref/magic-enh/ghost-touch-weapon) special ability for a number of rounds equal to your
 Charisma modifier.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Terminal Aura (Su)**
 

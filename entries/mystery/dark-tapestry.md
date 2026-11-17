@@ -20,27 +20,28 @@ group = "oracle-mystery"
 **Details:** [Lamashtu](ref/faith/lamashtu), [Norgorber](ref/faith/norgorber),
 [Zon-Kuthon](ref/faith/zon-kuthon).
 
-**Gained class skills:** dis, intm, ka, stl
+**Gained class skills:** [Disguise](ref/skill/disguise), [Intimidate](ref/skill/intimidate),
+[Knowledge (arcana)](ref/skill/knowledge-arcana), [Stealth](ref/skill/stealth)
 
 **Bonus Spells**
 
-**Spells:** Feeblemind
+**Spells:** Entropic shield (2nd)
 
-**Spells:** Planar binding
+**Spells:** Dust of twilight (4th)
 
-**Spells:** Insanity
+**Spells:** Tongues (6th)
 
-**Spells:** Reverse gravity
+**Spells:** Black tentacles (8th)
 
-**Spells:** Interplanetary teleport
+**Spells:** Feeblemind (10th)
 
-**Spells:** Entropic shield
+**Spells:** Planar binding (12th)
 
-**Spells:** Dust of twilight
+**Spells:** Insanity (14th)
 
-**Spells:** Tongues
+**Spells:** Reverse gravity (16th)
 
-**Spells:** Black tentacles
+**Spells:** Interplanetary teleport (18th)
 
 ### Revelations
 
@@ -92,7 +93,7 @@ the effect.
 
 **Special:** This is a mind-affecting compulsion effect.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Interstellar Void (Su)**
 
@@ -158,7 +159,7 @@ already fatigued.
 **Standard:** You can perform a melee touch attack that deals an amount of cold damage equal to
 1d6 + [half](ref/misc/fractions-and-rounding) of your oracle level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Wings of Darkness (Su)**
 

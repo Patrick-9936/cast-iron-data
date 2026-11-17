@@ -48,17 +48,17 @@ wherever you see it.
 
 **Cantrips:** Bleed
 
-**Spells:** Bane
+**Spells:** Bane (1st)
 
-**Spells:** Enthrall
+**Spells:** Enthrall (2nd)
 
-**Spells:** Agonize
+**Spells:** Agonize (3rd)
 
-**Spells:** Greater infernal healing
+**Spells:** Greater infernal healing (4th)
 
-**Spells:** True seeing
+**Spells:** True seeing (5th)
 
-**Spells:** Banishment
+**Spells:** Banishment (6th)
 
 ### Greater Spirit Power
 

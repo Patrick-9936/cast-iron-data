@@ -19,35 +19,33 @@ Psychic power runs thorough your blood, whether it be from a familial predisposi
 power or exposure to a powerful psychic phenomenon. Whatever the source of this power, your mind is
 a dangerous weapon.
 
-**Gained class skills:** sm
+**Gained class skills:** [Sense Motive](ref/skill/sense-motive)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Psychic crush I
+**Spells:** Mind thrust I (3rd)
 
-**Spells:** Mental barrier V
+**Spells:** Id insinuation I (5th)
 
-**Spells:** Tower of iron will III
+**Spells:** Ego whip I (7th)
 
-**Spells:** Bilocation
+**Spells:** Intellect fortress I (9th)
 
-**Spells:** Microcosm
+**Spells:** Psychic crush I (11th)
 
-**Spells:** Mind thrust I
+**Spells:** Mental barrier V (13th)
 
-**Spells:** Id insinuation I
+**Spells:** Tower of iron will III (15th)
 
-**Spells:** Ego whip I
+**Spells:** Bilocation (17th)
 
-**Spells:** Intellect fortress I
+**Spells:** Microcosm (19th)
 
-**Br:** \~
-
-**Details:**
-[Focused Spell](ref/feat/focused-spell)[Heighten Spell](ref/feat/heighten-spell)[Intuitive Spell](ref/feat/intuitive-spell)[Iron Will](ref/feat/iron-will)[Logical Spell](ref/feat/logical-spell)[Persuasive](ref/feat/persuasive)[Quicken Spell](ref/feat/quicken-spell)[Skill Focus](ref/feat/skill-focus)
-(Sense Motive)[Spell Focus](ref/feat/spell-focus)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Focused Spell](ref/feat/focused-spell), [Heighten Spell](ref/feat/heighten-spell),
+[Intuitive Spell](ref/feat/intuitive-spell), [Iron Will](ref/feat/iron-will),
+[Logical Spell](ref/feat/logical-spell), [Persuasive](ref/feat/persuasive),
+[Quicken Spell](ref/feat/quicken-spell), [Skill Focus](ref/feat/skill-focus) (Sense Motive),
+[Spell Focus](ref/feat/spell-focus)
 
 **Bloodline Arcana**
 
@@ -71,17 +69,17 @@ and becomes [shaken](ref/misc/shaken) for 1 round.
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Mental Resistance (Ex)**
 
 **Flavor:** Your mind blocks attempts to assail it.
 
-**At 9th Level:** This bonus increases to +4.
-
 **Gained:** At 3rd Level
 
 **Passive:** You gain a +2 bonus on saving throws against mind-affecting effects.
+
+**At 9th Level:** This bonus increases to +4.
 
 **Undercasting Prodigy (Sp)**
 

@@ -27,15 +27,11 @@ blessing or wrath to work great deeds.
 
 **Sun's Blessing (Su)**
 
-**Id:** sun
-
 **Passive:** Whenever you [channel positive energy](ref/ability/channel-energy) to harm undead
 creatures, add your cleric level to the damage dealt. Undead do not add their
 [channel resistance](ref/umr/channel-resistance) to their saves when you channel positive energy.
 
 **Nimbus of Light (Su)**
-
-**Id:** light
 
 **Gained:** At 8th Level
 
@@ -58,8 +54,6 @@ dispelled if brought inside this nimbus.
 1. sunbeam
 1. sunburst
 1. prismatic sphere
-
-**Save:** domain
 
 ### Day Subdomain
 
@@ -93,8 +87,6 @@ This ability does not allow a target to prepare spells an additional time per da
 
 **3rd:** daylight
 
-**From:** domain
-
 ### Light Subdomain
 
 **Sources:** Advanced Player's Guide pg 93
@@ -112,15 +104,13 @@ this area are [blinded](ref/misc/blinded) for 1d4 rounds unless they succeed at 
 All creatures in this area are [dazzled](ref/misc/dazzled) for a number of rounds equal to
 [half](ref/misc/fractions-and-rounding) your cleric level (minimum 1).
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
 **1st:** faerie fire
 
 **3rd:** daylight
-
-**From:** domain
 
 ### Revelation Subdomain
 
@@ -146,8 +136,6 @@ concealed, you gain a +4 sacred bonus on the check.
 
 **5th:** true seeing
 
-**From:** domain
-
 ### Thirst Subdomain
 
 **Sources:** Divine Anthology pg 26
@@ -168,7 +156,7 @@ within 30 feet. The target takes an amount of nonlethal damage equal to 1d6 +
 creatures and those with the aquatic or water subtype take lethal damage from this ability, and they
 are fatigued for a number of rounds equal to your Wisdom modifier.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Withering Nimbus (Su)**
 
@@ -189,8 +177,6 @@ dispelled if brought inside this nimbus.
 **3rd:** cup of dust
 
 **9th:** horrid wilting
-
-**From:** domain
 
 ### Deities
 

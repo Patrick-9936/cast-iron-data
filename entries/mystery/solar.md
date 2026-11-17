@@ -24,27 +24,29 @@ ever-changing positions of the sun and the stars in the sky.
 [Keltheald](ref/faith/keltheald), [Lalaci](ref/faith/lalaci), [Nurgal](ref/faith/nurgal),
 [Sarenrae](ref/faith/sarenrae), [Ymeri](ref/faith/ymeri).
 
-**Gained class skills:** fly, kg, ling, sur
+**Gained class skills:** [Fly](ref/skill/fly),
+[Knowledge (geography)](ref/skill/knowledge-geography), [Linguistics](ref/skill/linguistics),
+[Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Planar adaptation
+**Spells:** Faerie fire (2nd)
 
-**Spells:** Sirocco
+**Spells:** Flaming sphere (4th)
 
-**Spells:** Sunbeam
+**Spells:** Daylight (6th)
 
-**Spells:** Sunburst
+**Spells:** Dimension door (8th)
 
-**Spells:** Prismatic sphere
+**Spells:** Planar adaptation (10th)
 
-**Spells:** Faerie fire
+**Spells:** Sirocco (12th)
 
-**Spells:** Flaming sphere
+**Spells:** Sunbeam (14th)
 
-**Spells:** Daylight
+**Spells:** Sunburst (16th)
 
-**Spells:** Dimension door
+**Spells:** Prismatic sphere (18th)
 
 ### Revelations
 
@@ -133,7 +135,7 @@ touch attack with no range increment. Your _solar wind_ deals fire damage equal 
 [bull rush](ref/rule/bull-rush) combat maneuver that uses your caster level + your Charisma modifier
 in place of your CMB.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Starlight Agility**
 

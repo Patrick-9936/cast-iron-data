@@ -20,22 +20,20 @@ group = "bloodrager-bloodline"
 Because of your heritage, you can move and see through shadows as if you are part of them. Your fury
 absorbs light, warmth, and strength.
 
-**Br:** \~
-
-**Details:**
-[Blind-Fight](ref/feat/blind-fight)[Combat Reflexes](ref/feat/combat-reflexes)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Quick Draw](ref/feat/quick-draw)\~[Step Up](ref/feat/step-up)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Blind-Fight](ref/feat/blind-fight), [Combat Reflexes](ref/feat/combat-reflexes),
+[Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Quick Draw](ref/feat/quick-draw),
+[Step Up](ref/feat/step-up)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** [Darkvision](ref/rule/darkvision)
+**Spells:** Ray of enfeeblement (7th)
 
-**Spells:** Deeper darkness
+**Spells:** [Darkvision](ref/rule/darkvision) (10th)
 
-**Spells:** Shadow conjuration
+**Spells:** Deeper darkness (13th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Shadow conjuration (16th)
 
 ### Bloodline Powers
 
@@ -43,14 +41,14 @@ Your bloodline gives you powers over light and darkness.
 
 **Shadow Vision (Su)**
 
-**At 10th Level:** You gain [darkvision](ref/rule/darkvision) with a range of 30 feet, or add 30
-feet to the range of your darkvision if you already have it.
-
 **Gained:** At 1st Level
 
 **Passive:** While _bloodraging,_ you gain [low-light vision](ref/rule/low-light-vision) if you
 don't already have it. If you already have low-light vision, you gain
 [darkvision](ref/rule/darkvision) to a distance of 30 feet.
+
+**At 10th Level:** You gain [darkvision](ref/rule/darkvision) with a range of 30 feet, or add 30
+feet to the range of your darkvision if you already have it.
 
 **Shades of Rage (Su)**
 
@@ -63,14 +61,14 @@ equal to 10 + your class level.
 
 **Strength of Shadows (Su)**
 
-**At 13th Level:** Your cold resistance increases to 20.
-
-**At 18th Level:** You become [immune](ref/umr/immunity) to cold damage.
-
 **Gained:** At 8th Level
 
 **Passive:** You gain cold [resistance](ref/umr/resistance) 10. Your melee attacks deal additional
 cold damage equal to the critical multiplier of the weapon you use.
+
+**At 13th Level:** Your cold resistance increases to 20.
+
+**At 18th Level:** You become [immune](ref/umr/immunity) to cold damage.
 
 **Strike Through Shadow (Su)**
 

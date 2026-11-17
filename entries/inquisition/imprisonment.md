@@ -33,7 +33,7 @@ for 1d4 rounds (Fortitude negates).
 **Flavor:** With a devastating weapon strike, spectral chains wrap around your target for a short
 period of time.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Divine Prison**
 

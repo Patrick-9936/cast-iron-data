@@ -32,15 +32,15 @@ elemental school as normal. He does not need to select a second opposition schoo
 
 **Info:** Add these spells to your wizard spell list at the listed spell level.
 
-**Spells:** Keen senses
+**Spells:** Keen senses (1st)
 
-**Spells:** Twilight knife
+**Spells:** Twilight knife (3rd)
 
-**Spells:** Wandering star motes
+**Spells:** Wandering star motes (4th)
 
-**Spells:** True seeing
+**Spells:** True seeing (6th)
 
-**Spells:** Moment of prescience
+**Spells:** Moment of prescience (8th)
 
 **Void Awareness (Su)**
 
@@ -62,7 +62,7 @@ wizard level.
 **Standard:** Select a foe within 30 feet. That creature takes a penalty to its AC and on saving
 throws equal to 1/2 your caster level (minimum -1) for 1 round.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Aura of Prescience (Su)**
 

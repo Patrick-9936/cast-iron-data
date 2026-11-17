@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Woodlands patron grants the following spells at the listed witch levels.
 
-**Spells:** Tree stride
+**Spells:** Entangle (2nd)
 
-**Spells:** Repel wood
+**Spells:** Accelerate poison (4th)
 
-**Spells:** Animate plants
+**Spells:** Lily pad stride (6th)
 
-**Spells:** Control plants
+**Spells:** Grove of respite (8th)
 
-**Spells:** Shambler
+**Spells:** Tree stride (10th)
 
-**Spells:** Entangle
+**Spells:** Repel wood (12th)
 
-**Spells:** Accelerate poison
+**Spells:** Animate plants (14th)
 
-**Spells:** Lily pad stride
+**Spells:** Control plants (16th)
 
-**Spells:** Grove of respite
+**Spells:** Shambler (18th)

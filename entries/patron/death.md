@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Death patron grants the following spells at the listed witch levels.
 
-**Spells:** Suffocation
+**Spells:** Deathwatch (2nd)
 
-**Spells:** Circle of death
+**Spells:** Blessing of courage and life (4th)
 
-**Spells:** Finger of death
+**Spells:** Speak with dead (6th)
 
-**Spells:** Symbol of death
+**Spells:** Rest eternal (8th)
 
-**Spells:** Power word kill
+**Spells:** Suffocation (10th)
 
-**Spells:** Deathwatch
+**Spells:** Circle of death (12th)
 
-**Spells:** Blessing of courage and life
+**Spells:** Finger of death (14th)
 
-**Spells:** Speak with dead
+**Spells:** Symbol of death (16th)
 
-**Spells:** Rest eternal
+**Spells:** Power word kill (18th)

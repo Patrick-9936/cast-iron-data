@@ -48,7 +48,7 @@ every mortal creature you slay, be it flesh or soul.
 [fiendish template](ref/template/fiendish) or outsiders with the [daemon](ref/subtype/daemon)
 subtype. This ability can summon only one creature, regardless of the list used.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 At 8th level: The level of the spell increases to _summon monster +3._
 

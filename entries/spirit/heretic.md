@@ -53,17 +53,17 @@ of cleric spells each day.
 
 **Cantrips:** Guidance
 
-**Spells:** Divine favor
+**Spells:** Divine favor (1st)
 
-**Spells:** Castigate
+**Spells:** Castigate (2nd)
 
-**Spells:** Terrible remorse
+**Spells:** Terrible remorse (3rd)
 
-**Spells:** Reprobation
+**Spells:** Reprobation (4th)
 
-**Spells:** Mass castigate
+**Spells:** Mass castigate (5th)
 
-**Spells:** Overwhelming presence
+**Spells:** Overwhelming presence (6th)
 
 **Special:** Whenever you use your _spirit surge_ on a skill check or ability check to convince or
 trick someone into perverting his faith in the good deity you chose with your vow, the Heretic is

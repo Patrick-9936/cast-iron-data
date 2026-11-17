@@ -19,27 +19,29 @@ group = "oracle-mystery"
 
 **Details:** [Erastil](ref/faith/erastil), [Gozreh](ref/faith/gozreh).
 
-**Gained class skills:** climb, fly, kna, ride, sur, swim
+**Gained class skills:** [Climb](ref/skill/climb), [Fly](ref/skill/fly),
+[Knowledge (nature)](ref/skill/knowledge-nature), [Ride](ref/skill/ride),
+[Survival](ref/skill/survival), [Swim](ref/skill/swim)
 
 **Bonus Spells**
 
-**Spells:** Awaken
+**Spells:** Charm animal (2nd)
 
-**Spells:** Stone tell
+**Spells:** Barkskin (4th)
 
-**Spells:** Creeping doom
+**Spells:** Speak with plants (6th)
 
-**Spells:** Animal shapes
+**Spells:** Grove of respite (8th)
 
-**Spells:** World wave
+**Spells:** Awaken (10th)
 
-**Spells:** Charm animal
+**Spells:** Stone tell (12th)
 
-**Spells:** Barkskin
+**Spells:** Creeping doom (14th)
 
-**Spells:** Speak with plants
+**Spells:** Animal shapes (16th)
 
-**Spells:** Grove of respite
+**Spells:** World wave (18th)
 
 ### Revelations
 

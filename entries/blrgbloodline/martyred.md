@@ -23,22 +23,20 @@ power that you can use for good - or for ill. When you _bloodrage,_ an inspiring
 echoes of your forebear's incredible determination and selfless dedication, both offering you
 protection and amplifying your ability to punish any who dare incur your wrath.
 
-**Br:** \~
-
-**Details:**
-[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Heroic Defiance](ref/feat/heroic-defiance)[Heroic Recovery](ref/feat/heroic-recovery)[Leadership](ref/feat/leadership)[Persuasive](ref/feat/persuasive)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Diehard](ref/feat/diehard), [Endurance](ref/feat/endurance),
+[Heroic Defiance](ref/feat/heroic-defiance), [Heroic Recovery](ref/feat/heroic-recovery),
+[Leadership](ref/feat/leadership), [Persuasive](ref/feat/persuasive),
+[Toughness](ref/feat/toughness)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Surmount affliction
+**Spells:** Endure elements (7th)
 
-**Spells:** Heroism
+**Spells:** Surmount affliction (10th)
 
-**Spells:** Blessing of fervor
+**Spells:** Heroism (13th)
 
-**Spells:** Endure elements
+**Spells:** Blessing of fervor (16th)
 
 ### Bloodline Powers
 
@@ -46,11 +44,6 @@ When you _bloodrage,_ you channel the power of your ancestor's self-sacrifice to
 your allies on to greater feats of strength than would otherwise be possible.
 
 **Ancestral Strikes (Su)**
-
-**At 20th Level:** All your melee attacks deal this additional damage, and you don't need to
-activate this ability.
-
-**At 8th Level:** You can use this ability up to five times per day.
 
 **Gained:** At 1st Level
 
@@ -64,15 +57,20 @@ changed later.
 
 **Usage:** 3 times/day.
 
-**Martyr's Resistances (Su)**
+**At 8th Level:** You can use this ability up to five times per day.
 
-**At 8th Level:** Your fire resistance increases to 10, and the bonus on saving throws against fear
-and pain effects increases to +4.
+**At 20th Level:** All your melee attacks deal this additional damage, and you don't need to
+activate this ability.
+
+**Martyr's Resistances (Su)**
 
 **Gained:** At 4th Level
 
 **Passive:** You gain fire [resistance](ref/umr/resistance) 5 and you gain a +2 bonus on saving
 throws against fear and pain effects.
+
+**At 8th Level:** Your fire resistance increases to 10, and the bonus on saving throws against fear
+and pain effects increases to +4.
 
 **Forebear's Reserves (Su)**
 
@@ -92,9 +90,6 @@ that type.
 
 **Sacrificial Exchange (Su)**
 
-**At 20th Level:** The penalty this ability imposes changes to -4, and the ally's bonus increases to
-+6.
-
 **Gained:** At 16th Level
 
 **Swift:** While you are _bloodraging,_ you can take a -2 penalty to Armor Class to grant one ally
@@ -104,6 +99,9 @@ penalty from your _bloodrage._) The penalty and bonus last for the duration of y
 **Usage:** Once a day.
 
 **Usage:** Once a day.
+
+**At 20th Level:** The penalty this ability imposes changes to -4, and the ally's bonus increases to
++6.
 
 **Eternal Martyr (Su)**
 

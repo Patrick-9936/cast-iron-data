@@ -31,7 +31,7 @@ functions as per [crime of opportunity](ref/spell/crime-of-opportunity), though 
 its saving throw and acts on an impulse gets those desires out of its system and becomes immune to
 the effects of your _criminal minds_ ability for 24 hours.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Thief's Soul (Ex)**
 

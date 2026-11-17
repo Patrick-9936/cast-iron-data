@@ -52,17 +52,17 @@ sorcerer/wizard spell list), instead of selecting them each day.
 
 **Cantrips:** Bleed
 
-**Spells:** Chill touch
+**Spells:** Chill touch (1st)
 
-**Spells:** Command undead
+**Spells:** Command undead (2nd)
 
-**Spells:** Animate dead
+**Spells:** Animate dead (3rd)
 
-**Spells:** Enervation
+**Spells:** Enervation (4th)
 
-**Spells:** Magic jar
+**Spells:** Magic jar (5th)
 
-**Spells:** Create greater undead
+**Spells:** Create greater undead (6th)
 
 ### Greater Spirit Power
 

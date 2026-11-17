@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Protection patron grants the following spells at the listed witch levels.
 
-**Spells:** Interposing hand
+**Spells:** Sanctuary (2nd)
 
-**Spells:** Forbiddance
+**Spells:** Resist energy (4th)
 
-**Spells:** Greater spell immunity
+**Spells:** Wrathful mantle (6th)
 
-**Spells:** Prismatic wall
+**Spells:** Stoneskin (8th)
 
-**Spells:** Freedom
+**Spells:** Interposing hand (10th)
 
-**Spells:** Sanctuary
+**Spells:** Forbiddance (12th)
 
-**Spells:** Resist energy
+**Spells:** Greater spell immunity (14th)
 
-**Spells:** Wrathful mantle
+**Spells:** Prismatic wall (16th)
 
-**Spells:** Stoneskin
+**Spells:** Freedom (18th)

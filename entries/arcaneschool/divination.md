@@ -39,7 +39,7 @@ action. In addition, you receive a bonus on initiative checks equal to 1/2 your 
 bonus on all of its attack rolls, skill checks, ability checks, and saving throws equal to 1/2 your
 wizard level (minimum +1) for 1 round.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Scrying Adept (Su)**
 
@@ -66,7 +66,7 @@ you do not use the d20 result before your next turn, it is lost.
 
 **Gained:** At 1st Level
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Foretell (Su)**
 
@@ -104,7 +104,7 @@ divination school.
 prediction, granting each ally within 50 feet who can hear you a +4 luck bonus on her next attack
 roll, saving throw, or skill check.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **In Accordance with the Prophecy (Su)**
 
@@ -139,4 +139,4 @@ sensor for number of rounds equal to 1/2 your wizard level (minimum 1). The sens
 functions as a [clairaudience/clairvoyance](ref/spell/clairaudience-clairvoyance) spell with a
 caster level equal to your wizard level.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day

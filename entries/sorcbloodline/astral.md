@@ -23,35 +23,33 @@ the multiverse together. Your ancestors may have also held a connection to one o
 or conduits, or like you, may have plied this cosmic ocean - and some may even survive there to this
 day.
 
-**Gained class skills:** kp
+**Gained class skills:** [Knowledge (planes)](ref/skill/knowledge-planes)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Permanency
+**Spells:** True strike (3rd)
 
-**Spells:** Contingency
+**Spells:** False life (5th)
 
-**Spells:** Ethereal jaunt
+**Spells:** Sands of time (7th)
 
-**Spells:** Create demiplane
+**Spells:** Wandering star motes (9th)
 
-**Spells:** Time stop
+**Spells:** Permanency (11th)
 
-**Spells:** True strike
+**Spells:** Contingency (13th)
 
-**Spells:** False life
+**Spells:** Ethereal jaunt (15th)
 
-**Spells:** Sands of time
+**Spells:** Create demiplane (17th)
 
-**Spells:** Wandering star motes
+**Spells:** Time stop (19th)
 
-**Br:** \~
-
-**Details:**
-[Combat Reflexes](ref/feat/combat-reflexes)[Dodge](ref/feat/dodge)[Forge Ring](ref/feat/forge-ring)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Quicken Spell](ref/feat/quicken-spell)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[planes\])\~[Weapon Finesse](ref/feat/weapon-finesse)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Reflexes](ref/feat/combat-reflexes), [Dodge](ref/feat/dodge),
+[Forge Ring](ref/feat/forge-ring), [Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Quicken Spell](ref/feat/quicken-spell),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[planes\]),
+[Weapon Finesse](ref/feat/weapon-finesse)
 
 **Bloodline Arcana**
 
@@ -73,7 +71,7 @@ area, a creature takes a -1 penalty on Reflex saves and to AC.
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Peerless Speed (Su)**
 
@@ -114,14 +112,14 @@ At 19th level: The maximum level of the spell you can augment increases to 8.
 to a number of additional willing creature equal to [half](ref/misc/fractions-and-rounding) of your
 sorcerer level.
 
+**Gained:** At 9th Level
+
 **At 13th Level:** You can cast [plane shift](ref/spell/plane-shift) once per day, but only on
 yourself and willing targets that accompany you, and only from the Material Plane to the Astral
 Plane and vice versa.
 
 **At 17th Level:** This ability instead functions as
 [astral projection](ref/spell/astral-projection).
-
-**Gained:** At 9th Level
 
 **Arrest the Flow (Su)**
 

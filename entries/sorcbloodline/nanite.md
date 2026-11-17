@@ -19,35 +19,33 @@ Your conception was marked by the alien influence of Numeria. Either you were bo
 forgewombs scattered throughout the wastelands, or you were infected by nanites, which now course
 through your blood.
 
-**Gained class skills:** ke
+**Gained class skills:** [Knowledge (engineering)](ref/skill/knowledge-engineering)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Echolocation
+**Spells:** Disguise self (3rd)
 
-**Spells:** Fluid form
+**Spells:** Defensive shock (5th)
 
-**Spells:** Magnetic field
+**Spells:** Gaseous form (7th)
 
-**Spells:** Iron body
+**Spells:** Miasmatic form (9th)
 
-**Spells:** Shapechange
+**Spells:** Echolocation (11th)
 
-**Spells:** Disguise self
+**Spells:** Fluid form (13th)
 
-**Spells:** Defensive shock
+**Spells:** Magnetic field (15th)
 
-**Spells:** Gaseous form
+**Spells:** Iron body (17th)
 
-**Spells:** Miasmatic form
+**Spells:** Shapechange (19th)
 
-**Br:** \~
-
-**Details:**
-[Blind-Fight](ref/feat/blind-fight)[Combat Expertise](ref/feat/combat-expertise)[Dodge](ref/feat/dodge)[Eldritch Heritage](ref/feat/eldritch-heritage)[Expanded Arcana](ref/feat/expanded-arcana)[Improved Disarm](ref/feat/improved-disarm)[Lightning Reflexes](ref/feat/lightning-reflexes)\~[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[engineering\])
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Blind-Fight](ref/feat/blind-fight), [Combat Expertise](ref/feat/combat-expertise),
+[Dodge](ref/feat/dodge), [Eldritch Heritage](ref/feat/eldritch-heritage),
+[Expanded Arcana](ref/feat/expanded-arcana), [Improved Disarm](ref/feat/improved-disarm),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Skill Focus](ref/feat/skill-focus) (Knowledge
+\[engineering\])
 
 **Bloodline Arcana**
 
@@ -63,7 +61,9 @@ The microscopic nanites in your blood grant you incredible powers and alien magi
 
 **Action:** Free Action
 
-**At 11th Level:** The cure becomes two successful saves.
+**Gained:** At 1st Level
+
+**Usage:** 3 + Charisma modifier rounds/day
 
 **At 5th Level:** Weapons you use with this ability are treated as magical for the purposes of
 overcoming DR, and the poison also deals 1 point of
@@ -72,9 +72,7 @@ overcoming DR, and the poison also deals 1 point of
 **At 7th Level:** The damage increases to 1d2 points of Constitution damage and 1d2 points of
 Strength damage.
 
-**Gained:** At 1st Level
-
-**Usage:** Charisma3 modifier rounds/day
+**At 11th Level:** The cure becomes two successful saves.
 
 You can cause nanites to flow from your body and coat the striking end of any manufactured melee
 weapon you wield. When you hit with a melee attack using this weapon, some of the nanites infect the
@@ -111,13 +109,13 @@ the mechanical swarm living inside you to keep you alive. This ability functions
 [resurgent transformation](ref/spell/resurgent-transformation) spell using your sorcerer level as
 the caster level, except it is an extraordinary ability and cannot be dispelled.
 
+**Gained:** At 9th Level
+
 **At 17th Level:** You can use this ability twice per day (though using this ability twice in one
 24-hour period entails a chance of system shock and death; see the spell's description for more
 details).
 
 **At 20th Level:** You never die of system shock from using this ability.
-
-**Gained:** At 9th Level
 
 **Distributed Body (Ex)**
 

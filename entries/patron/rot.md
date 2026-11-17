@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Rot patron grants the following spells at the listed witch levels.
 
-**Spells:** Plague carrier
+**Spells:** Decompose corpse (2nd)
 
-**Spells:** Epidemic
+**Spells:** Warp wood (4th)
 
-**Spells:** Creeping doom
+**Spells:** Fungal infestation (6th)
 
-**Spells:** Horrid wilting
+**Spells:** Fleshworm infestation (8th)
 
-**Spells:** Cursed earth
+**Spells:** Plague carrier (10th)
 
-**Spells:** Decompose corpse
+**Spells:** Epidemic (12th)
 
-**Spells:** Warp wood
+**Spells:** Creeping doom (14th)
 
-**Spells:** Fungal infestation
+**Spells:** Horrid wilting (16th)
 
-**Spells:** Fleshworm infestation
+**Spells:** Cursed earth (18th)

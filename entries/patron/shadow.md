@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Shadow patron grants the following spells at the listed witch levels.
 
-**Spells:** Shadow evocation
+**Spells:** Silent image (2nd)
 
-**Spells:** Shadow walk
+**Spells:** Darkness (4th)
 
-**Spells:** Greater shadow conjuration
+**Spells:** Deeper darkness (6th)
 
-**Spells:** Greater shadow evocation
+**Spells:** Shadow conjuration (8th)
 
-**Spells:** Shades
+**Spells:** Shadow evocation (10th)
 
-**Spells:** Silent image
+**Spells:** Shadow walk (12th)
 
-**Spells:** Darkness
+**Spells:** Greater shadow conjuration (14th)
 
-**Spells:** Deeper darkness
+**Spells:** Greater shadow evocation (16th)
 
-**Spells:** Shadow conjuration
+**Spells:** Shades (18th)

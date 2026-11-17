@@ -12,6 +12,4 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The target is no longer deafened.
-
-**Title:** Deafened
+The target is no longer deafened.

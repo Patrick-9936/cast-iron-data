@@ -21,23 +21,23 @@ A shaman who selects the wind spirit appears windswept, and her movements seem l
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Alter winds
+**Spells:** Alter winds (1st)
 
-**Spells:** Gust of wind
+**Spells:** Gust of wind (2nd)
 
-**Spells:** Cloak of winds
+**Spells:** Cloak of winds (3rd)
 
-**Spells:** River of wind
+**Spells:** River of wind (4th)
 
-**Spells:** Control winds
+**Spells:** Control winds (5th)
 
-**Spells:** Sirocco
+**Spells:** Sirocco (6th)
 
-**Spells:** Control weather
+**Spells:** Control weather (7th)
 
-**Spells:** Whirlwind
+**Spells:** Whirlwind (8th)
 
-**Spells:** Winds of vengeance
+**Spells:** Winds of vengeance (9th)
 
 ### Hexes
 
@@ -129,7 +129,7 @@ ability.
 **Standard:** The shaman can make a melee touch attack that deals an amount of electricity damage
 equal to 1d6 + [half](ref/misc/fractions-and-rounding) her shaman level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

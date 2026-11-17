@@ -25,23 +25,23 @@ region. Her vibrant hair is fragrant and resembles leaves and blossoms.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Shillelagh
+**Spells:** Shillelagh (1st)
 
-**Spells:** Barkskin
+**Spells:** Barkskin (2nd)
 
-**Spells:** Minor creation\|(wood items only)
+**Spells:** Minor creation (wood items only) (3rd)
 
-**Spells:** Thorn body
+**Spells:** Thorn body (4th)
 
-**Spells:** Tree stride
+**Spells:** Tree stride (5th)
 
-**Spells:** Ironwood
+**Spells:** Ironwood (6th)
 
-**Spells:** Transmute metal to wood
+**Spells:** Transmute metal to wood (7th)
 
-**Spells:** Changestaff
+**Spells:** Changestaff (8th)
 
-**Spells:** Wooden phalanx
+**Spells:** Wooden phalanx (9th)
 
 ### Hexes
 
@@ -119,7 +119,7 @@ anything held in that hand, and she can't use this ability if she is wearing a s
 Until the beginning of her next turn, she gains a [slam attack](ref/umr/natural-attacks) that deals
 1d8 points of damage (for a Medium shaman; 1d6 if Small, 2d6 if Large).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 
@@ -137,7 +137,7 @@ The shaman is unaffected by the roots. Her allies treat the area as
 [difficult terrain](ref/rule/terrain-and-obstacles), but the roots don't attack them. The shaman can
 end the effect as a **free action**.
 
-**Usage:** Charisma3 modifier rounds/day
+**Usage:** 3 + Charisma modifier rounds/day
 
 ### True Spirit Ability
 

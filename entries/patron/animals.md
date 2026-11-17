@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Animals patron grants the following spells at the listed witch levels.
 
-**Spells:** Animal growth
+**Spells:** Charm animal (2nd)
 
-**Spells:** Antilife shell
+**Spells:** Speak with animals (4th)
 
-**Spells:** Beast shape IV
+**Spells:** Dominate animal (6th)
 
-**Spells:** Animal shapes
+**Spells:** Summon nature's ally IV (8th)
 
-**Spells:** Summon nature's ally IX
+**Spells:** Animal growth (10th)
 
-**Spells:** Charm animal
+**Spells:** Antilife shell (12th)
 
-**Spells:** Speak with animals
+**Spells:** Beast shape IV (14th)
 
-**Spells:** Dominate animal
+**Spells:** Animal shapes (16th)
 
-**Spells:** Summon nature's ally IV
+**Spells:** Summon nature's ally IX (18th)

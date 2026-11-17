@@ -23,11 +23,11 @@ vested interest in some agenda that helps them promote the cosmic balance.
 spellcasting and hexes (but not your familiar) if your alignment changes after taking your first
 witch level; you regain your spellcasting and hexes once you revert to your original alignment.
 
-**Spells:** Geas/quest
+**Spells:** Forbid action (2nd)
 
-**Spells:** Forbid action
+**Spells:** Dismissal (8th)
 
-**Spells:** Dismissal
+**Spells:** Geas/quest (12th)
 
 **Available patron themes:** [Elements](ref/patron/elements), [Time](ref/patron/time),
 [Transformation](ref/patron/transformation), [Wisdom](ref/patron/wisdom)

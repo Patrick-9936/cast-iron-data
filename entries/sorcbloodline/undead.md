@@ -19,36 +19,32 @@ The taint of the grave runs through your family. Perhaps one of your ancestors b
 lich or vampire, or maybe you were born dead before suddenly returning to life. Either way, the
 forces of death move through you and touch your every action.
 
-**Gained class skills:** kr
+**Gained class skills:** [Knowledge (religion)](ref/skill/knowledge-religion)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Waves of fatigue
+**Spells:** Chill touch (3rd)
 
-**Spells:** Undeath to death
+**Spells:** False life (5th)
 
-**Spells:** Finger of death
+**Spells:** Vampiric touch (7th)
 
-**Spells:** Horrid wilting
+**Spells:** Animate dead (9th)
 
-**Spells:** Energy drain
+**Spells:** Waves of fatigue (11th)
 
-**Spells:** Chill touch
+**Spells:** Undeath to death (13th)
 
-**Spells:** False life
+**Spells:** Finger of death (15th)
 
-**Spells:** Vampiric touch
+**Spells:** Horrid wilting (17th)
 
-**Spells:** Animate dead
+**Spells:** Energy drain (19th)
 
-**Br:** \~
-
-**Details:**
-[Combat Casting](ref/feat/combat-casting)[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Iron Will](ref/feat/iron-will)[Skill Focus](ref/feat/skill-focus)
-(Knowledge
-\[religion\])[Spell Focus](ref/feat/spell-focus)[Still Spell](ref/feat/still-spell)\~[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Casting](ref/feat/combat-casting), [Diehard](ref/feat/diehard),
+[Endurance](ref/feat/endurance), [Iron Will](ref/feat/iron-will),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[religion\]), [Spell Focus](ref/feat/spell-focus),
+[Still Spell](ref/feat/still-spell), [Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -73,16 +69,16 @@ closer you come to joining them.
 [shaken](ref/misc/shaken) for a number of rounds equal to [half](ref/misc/fractions-and-rounding)
 your sorcerer level (minimum 1).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Death's Gift (Su)**
-
-**At 9th Level:** Your resistance to cold increases to 10 and your DR increases to 10/- against
-nonlethal damage.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain [resist](ref/umr/resistance) cold 5 and DR 5/- against nonlethal damage.
+
+**At 9th Level:** Your resistance to cold increases to 10 and your DR increases to 10/- against
+nonlethal damage.
 
 **Grasp of the Dead (Sp)**
 
@@ -149,4 +145,4 @@ Your magic emulates that of the hungry dead.
 must be corporeal, must be at least the same size as you, and must have blood. This ability heals
 you 1d6 hit points and nourishes you as if you'd had a full meal.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day

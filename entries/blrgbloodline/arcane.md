@@ -20,25 +20,23 @@ group = "bloodrager-bloodline"
 While others of your kin may be powerful wizards and sorcerers, the eldritch nature of the blood
 coursing through your veins transforms you into a spell-breaking terror.
 
-**Br:** \~
-
-**Details:**
-[Combat Reflexes](ref/feat/combat-reflexes)[Disruptive](ref/feat/disruptive)\*[Improved Initiative](ref/feat/improved-initiative)[Iron Will](ref/feat/iron-will)[Power Attack](ref/feat/power-attack)[Quick Draw](ref/feat/quick-draw)[Spellbreaker](ref/feat/spellbreaker)\*
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Reflexes](ref/feat/combat-reflexes), [Disruptive](ref/feat/disruptive)\*,
+[Improved Initiative](ref/feat/improved-initiative), [Iron Will](ref/feat/iron-will),
+[Power Attack](ref/feat/power-attack), [Quick Draw](ref/feat/quick-draw),
+[Spellbreaker](ref/feat/spellbreaker)\*
 
 Your bloodrager levels count as fighter levels for the purposes of qualifying for any feats marked
 with an asterisk (\*). This stacks with any levels in fighter you have.
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Invisibility
+**Spells:** Magic missile (7th)
 
-**Spells:** Lightning bolt
+**Spells:** Invisibility (10th)
 
-**Spells:** Dimension door
+**Spells:** Lightning bolt (13th)
 
-**Spells:** Magic missile
+**Spells:** Dimension door (16th)
 
 ### Bloodline Powers
 

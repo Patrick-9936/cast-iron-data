@@ -24,7 +24,7 @@ group = "druid-domain"
 **Ability:** You can grant [darkvision](ref/rule/darkvision) 60 feet to a willing creature you
 touch. This effect lasts 1 minute, or 1 hour if used on yourself.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Tremorsense (Ex)**
 

@@ -34,7 +34,7 @@ world's end if necessary.
 **Swift:** You can add 10 feet to your land speed. This increase counts as an enhancement bonus, and
 it affects your [jumping](ref/skill/acrobatics) distance as normal for increased speed.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Inner Strength (Su)**
 

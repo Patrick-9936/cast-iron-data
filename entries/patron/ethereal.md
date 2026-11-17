@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Ethereal patron grants the following spells at the listed witch levels.
 
-**Spells:** Ethereal envelope
+**Spells:** Detect undead (2nd)
 
-**Spells:** Ethereal jaunt
+**Spells:** See invisibility (4th)
 
-**Spells:** Ectoplasmic eruption
+**Spells:** Ectoplasmic snare (6th)
 
-**Spells:** Ethereal envelopment
+**Spells:** Condensed ether (8th)
 
-**Spells:** Etherealness
+**Spells:** Ethereal envelope (10th)
 
-**Spells:** Detect undead
+**Spells:** Ethereal jaunt (12th)
 
-**Spells:** See invisibility
+**Spells:** Ectoplasmic eruption (14th)
 
-**Spells:** Ectoplasmic snare
+**Spells:** Ethereal envelopment (16th)
 
-**Spells:** Condensed ether
+**Spells:** Etherealness (18th)

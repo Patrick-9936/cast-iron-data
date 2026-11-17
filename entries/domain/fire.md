@@ -29,18 +29,14 @@ not burn.
 
 **Fire Bolt (Sp)**
 
-**Id:** bolt
-
 **Standard:** You can unleash a scorching bolt of divine fire from your outstretched hand. You can
 target any single foe within 30 feet as a ranged touch attack with this bolt of fire. If you hit the
 foe, the fire bolt deals an amount of fire damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) of your cleric level.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Fire Resistance (Ex)**
-
-**Id:** res
 
 **At 12th Level:** Your resistance increases to 20.
 
@@ -60,8 +56,6 @@ foe, the fire bolt deals an amount of fire damage equal to 1d6 +
 1. incendiary cloud
 1. elemental swarm (fire spell only)
 
-**Save:** domain
-
 ### Arson Subdomain
 
 **Sources:** Book of the Damned pg 180, Goblins of Golarion pg 27, Inner Sea Gods pg 224
@@ -79,7 +73,7 @@ successful Reflex save (DC = 10 + half your class level + your Wisdom modifier) 
 When the ribbon of fire reaches your hand, it either extinguishes or lights a flammable object of
 your choice that you're holding.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -88,8 +82,6 @@ your choice that you're holding.
 **5th:** flame strike
 
 **7th:** delayed blast fireball
-
-**From:** domain
 
 ### Ash Subdomain
 
@@ -120,8 +112,6 @@ in 1-minute increments
 
 **9th:** fiery body
 
-**From:** domain
-
 ### Smoke Subdomain
 
 **Sources:** Advanced Player's Guide pg 96
@@ -139,15 +129,13 @@ Creatures inside the cloud take a -2 penalty on attack rolls and Perception skil
 as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain
 [concealment](ref/rule/concealment) from attacks made by opponents that are not adjacent to them.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
 **2nd:** pyrotechnics
 
 **3rd:** stinking cloud
-
-**From:** domain
 
 ### Deities
 

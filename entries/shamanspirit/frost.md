@@ -25,23 +25,23 @@ A shaman who selects the frost spirit has coarse white hair and always feels col
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Frostbite
+**Spells:** Frostbite (1st)
 
-**Spells:** Elemental touch\|(cold only)
+**Spells:** Elemental touch (cold only) (2nd)
 
-**Spells:** Elemental aura\|(cold only)
+**Spells:** Elemental aura (cold only) (3rd)
 
-**Spells:** Ice storm
+**Spells:** Ice storm (4th)
 
-**Spells:** Summon monster V\|(ice elementals only)
+**Spells:** Summon monster V (ice elementals only) (5th)
 
-**Spells:** Freezing sphere
+**Spells:** Freezing sphere (6th)
 
-**Spells:** Ice body
+**Spells:** Ice body (7th)
 
-**Spells:** Polar ray
+**Spells:** Polar ray (8th)
 
-**Spells:** Mass icy prison
+**Spells:** Mass icy prison (9th)
 
 ### Hexes
 
@@ -120,7 +120,7 @@ attack. This barrage deals an amount of piercing damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) her shaman level. The shaman can use this ability a number
 of times per day equal to 3 + her Charisma modifier.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

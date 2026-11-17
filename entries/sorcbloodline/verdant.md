@@ -18,35 +18,32 @@ group = "sorcerer-bloodline"
 Your progenitors infused themselves with raw plant life, binding it into their own tissue and
 passing it down to their literal seed, giving you innate communion with nature.
 
-**Gained class skills:** kna
+**Gained class skills:** [Knowledge (nature)](ref/skill/knowledge-nature)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Wall of thorns
+**Spells:** Entangle (3rd)
 
-**Spells:** Transport via plants
+**Spells:** Barkskin (5th)
 
-**Spells:** Plant shape III
+**Spells:** Speak with plants (7th)
 
-**Spells:** Animate plants
+**Spells:** Command plants (9th)
 
-**Spells:** Shambler
+**Spells:** Wall of thorns (11th)
 
-**Spells:** Entangle
+**Spells:** Transport via plants (13th)
 
-**Spells:** Barkskin
+**Spells:** Plant shape III (15th)
 
-**Spells:** Speak with plants
+**Spells:** Animate plants (17th)
 
-**Spells:** Command plants
+**Spells:** Shambler (19th)
 
-**Br:** \~
-
-**Details:**
-[Acrobatic Steps](ref/feat/acrobatic-steps)[Craft Staff](ref/feat/craft-staff)[Endurance](ref/feat/endurance)[Extend Spell](ref/feat/extend-spell)[Fleet](ref/feat/fleet)[Nimble Moves](ref/feat/nimble-moves)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[nature\])\~[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Acrobatic Steps](ref/feat/acrobatic-steps), [Craft Staff](ref/feat/craft-staff),
+[Endurance](ref/feat/endurance), [Extend Spell](ref/feat/extend-spell), [Fleet](ref/feat/fleet),
+[Nimble Moves](ref/feat/nimble-moves), [Skill Focus](ref/feat/skill-focus) (Knowledge \[nature\]),
+[Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -68,19 +65,19 @@ lasts for 1 round and can be used to make a single [disarm](ref/rule/disarm),
 [steal](ref/rule/steal), or [trip](ref/rule/trip) combat maneuver, using your sorcerer level plus
 your Charisma modifier in place of your normal CMB.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Photosynthesis (Ex)**
 
 **Flavor:** You feed upon nature's raw essence.
-
-**At 9th Level:** These bonuses increase to +4.
 
 **Gained:** At 3rd Level
 
 **Passive:** Your need to eat and sleep is reduced as if wearing a
 [ring of sustenance](ref/magic-ring/ring-of-sustenance), and you gain a +2 racial bonus on saving
 throws made against poison and sleep effects.
+
+**At 9th Level:** These bonuses increase to +4.
 
 **Massmorph (Sp)**
 

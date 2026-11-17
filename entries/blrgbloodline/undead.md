@@ -21,22 +21,19 @@ The foul corruption of undeath is a part of you. Somewhere in the past, death be
 your lineage. Your connection to the attributes of the undead bestows frightening power when your
 _bloodrage._
 
-**Br:** \~
-
-**Details:**
-[Diehard](ref/feat/diehard)[Dodge](ref/feat/dodge)[Endurance](ref/feat/endurance)[Intimidating Prowess](ref/feat/intimidating-prowess)[Iron Will](ref/feat/iron-will)[Mobility](ref/feat/mobility)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Diehard](ref/feat/diehard), [Dodge](ref/feat/dodge),
+[Endurance](ref/feat/endurance), [Intimidating Prowess](ref/feat/intimidating-prowess),
+[Iron Will](ref/feat/iron-will), [Mobility](ref/feat/mobility), [Toughness](ref/feat/toughness)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** False life
+**Spells:** Chill touch (7th)
 
-**Spells:** Vampiric touch
+**Spells:** False life (10th)
 
-**Spells:** Enervation
+**Spells:** Vampiric touch (13th)
 
-**Spells:** Chill touch
+**Spells:** Enervation (16th)
 
 ### Bloodline Powers
 
@@ -68,8 +65,6 @@ damage.
 
 **Frightful Strikes (Su)**
 
-**At 16th Level:** Those who are already frightened become [panicked](ref/misc/panicked).
-
 **Gained:** At 12th Level
 
 **Swift:** You can empower your melee attacks with fear. For 1 round, creatures you hit with your
@@ -79,6 +74,8 @@ melee attacks become shaken. Creatures who are already shaken become
 **Usage:** Once per _bloodrage._
 
 **Usage:** Once per _bloodrage._
+
+**At 16th Level:** Those who are already frightened become [panicked](ref/misc/panicked).
 
 **Incorporeal Bloodrager (Su)**
 

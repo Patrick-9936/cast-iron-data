@@ -19,35 +19,32 @@ The echoing cave-songs and the rumble and creak of primal spirits deep below the
 your soul and in all your family line. You are likely slow, steady, and stable in your thinking,
 little prone to wandering and preferring to instead find depth in contemplation.
 
-**Gained class skills:** kd
+**Gained class skills:** [Knowledge (dungeoneering)](ref/skill/knowledge-dungeoneering)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Spike stones
+**Spells:** Expeditious excavation (3rd)
 
-**Spells:** Stone tell
+**Spells:** [Darkvision](ref/rule/darkvision) (5th)
 
-**Spells:** Repel metal or stone
+**Spells:** Shifting sand (7th)
 
-**Spells:** Earthquake
+**Spells:** Stoneskin (9th)
 
-**Spells:** Clashing rocks
+**Spells:** Spike stones (11th)
 
-**Spells:** Expeditious excavation
+**Spells:** Stone tell (13th)
 
-**Spells:** [Darkvision](ref/rule/darkvision)
+**Spells:** Repel metal or stone (15th)
 
-**Spells:** Shifting sand
+**Spells:** Earthquake (17th)
 
-**Spells:** Stoneskin
+**Spells:** Clashing rocks (19th)
 
-**Br:** \~
-
-**Details:**
-[Acrobatic Steps](ref/feat/acrobatic-steps)[Alertness](ref/feat/alertness)[Blind-Fight](ref/feat/blind-fight)[Forge Ring](ref/feat/forge-ring)[Nimble Moves](ref/feat/nimble-moves)[Skill Focus](ref/feat/skill-focus)
-(Perception)[Stealthy](ref/feat/stealthy)\~[Still Spell](ref/feat/still-spell)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Acrobatic Steps](ref/feat/acrobatic-steps), [Alertness](ref/feat/alertness),
+[Blind-Fight](ref/feat/blind-fight), [Forge Ring](ref/feat/forge-ring),
+[Nimble Moves](ref/feat/nimble-moves), [Skill Focus](ref/feat/skill-focus) (Perception),
+[Stealthy](ref/feat/stealthy), [Still Spell](ref/feat/still-spell)
 
 **Bloodline Arcana**
 
@@ -67,32 +64,32 @@ refined and enhanced as your power grows.
 functioning as a [trip](ref/rule/trip) maneuver using your sorcerer level plus your Charisma
 modifier in place of your CMB.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Rockseer (Su)**
 
 **Ability:** You gain the stonecunning trait as a [dwarf](ref/race/dwarf); if already a dwarf, your
 bonus improves to +4.
 
+**Gained:** At 3rd Level
+
+**At 9th Level:** You gain [tremorsense](ref/umr/tremorsense) 30 feet.
+
 **At 15th Level:** You can see through solid objects as if using a
 [ring of x-ray vision](ref/magic-ring/ring-of-x-ray-vision) for a number of rounds per day equal to
 your sorcerer level. These rounds do not need to be consecutive.
 
-**At 9th Level:** You gain [tremorsense](ref/umr/tremorsense) 30 feet.
-
-**Gained:** At 3rd Level
-
 **Crystal Shard (Sp)**
-
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times a day.
 
 **Gained:** At 9th Level
 
 **Standard:** Once per day, you can touch a metal or stone weapon (or up to 50 pieces of
 ammunition), giving it the [bane](ref/magic-enh/bane) property against any creature with the earth
 subtype, oozes, or constructs made of stone or metal, for 1 minute.
+
+**At 17th Level:** You can use this ability twice per day.
+
+**At 20th Level:** You can use this ability three times a day.
 
 **Earth Glide (Ex)**
 

@@ -20,22 +20,20 @@ group = "bloodrager-bloodline"
 By way of a celestial ancestor or divine intervention, the blood of angels fills your body with a
 holy potency, granting you a majestic visage and angelic powers when you enter your _bloodrage._
 
-**Br:** \~
-
-**Details:**
-[Dodge](ref/feat/dodge)[Improved Initiative](ref/feat/improved-initiative)[Iron Will](ref/feat/iron-will)[Mobility](ref/feat/mobility)[Mounted Combat](ref/feat/mounted-combat)[Ride-By Attack](ref/feat/ride-by-attack)[Weapon Focus](ref/feat/weapon-focus)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Dodge](ref/feat/dodge), [Improved Initiative](ref/feat/improved-initiative),
+[Iron Will](ref/feat/iron-will), [Mobility](ref/feat/mobility),
+[Mounted Combat](ref/feat/mounted-combat), [Ride-By Attack](ref/feat/ride-by-attack),
+[Weapon Focus](ref/feat/weapon-focus)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Resist energy
+**Spells:** Bless (7th)
 
-**Spells:** Heroism
+**Spells:** Resist energy (10th)
 
-**Spells:** Holy smite
+**Spells:** Heroism (13th)
 
-**Spells:** Bless
+**Spells:** Holy smite (16th)
 
 ### Bloodline Powers
 
@@ -54,11 +52,11 @@ effects such as [align weapon](ref/spell/align-weapon) and those granted by a we
 
 **Celestial Resistances (Ex)**
 
-**At 12th Level:** These resistances increase to 10.
-
 **Gained:** At 4th Level
 
 **Passive:** You gain [resistance](ref/umr/resistance) 5 to acid and cold.
+
+**At 12th Level:** These resistances increase to 10.
 
 **Conviction (Su)**
 
@@ -73,9 +71,9 @@ the results. You must take the second result, even if it's worse.
 **Ability:** You can choose to sprout feathery wings and fly with a speed of 60 feet and good
 maneuverability.
 
-**At 20th Level:** Your fly speed increases to 80 feet.
-
 **Gained:** At 12th Level
+
+**At 20th Level:** Your fly speed increases to 80 feet.
 
 **Angelic Protection (Su)**
 

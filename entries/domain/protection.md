@@ -27,23 +27,17 @@ defend others.
 
 **Resistance**
 
-**Id:** res
-
 **Passive:** You receive a resistance bonus on saving throws equal to 1 +
 [one-fifth](ref/misc/fractions-and-rounding) of your cleric level.
 
 **Resistant Touch (Sp)**
 
-**Id:** touch
-
 **Standard:** You can touch an ally to grant him your resistance bonus for 1 minute. When you use
 this ability, you lose your resistance bonus granted by the Protection domain for 1 minute.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Aura of Protection (Su)**
-
-**Id:** aura-def-protect
 
 **At 14th Level:** The elemental resistance increases to 10.
 
@@ -73,8 +67,6 @@ At 20th level: The deflection bonus increases to +4.
 1. mind blank
 1. prismatic sphere
 
-**Save:** domain
-
 ### Defense Subdomain
 
 **Sources:** Advanced Player's Guide pg 89
@@ -99,8 +91,6 @@ level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuv
 
 **7th:** deflection
 
-**From:** domain
-
 ### Fortifications Subdomain
 
 **Sources:** Heroes of the Streets pg 18
@@ -118,7 +108,7 @@ ally enough cover to attempt a Stealth check or avoid provoking attacks of oppor
 benefits from any other form of cover against an attack, the bonuses to AC and on Reflex saving
 throws increase by 1.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -127,8 +117,6 @@ throws increase by 1.
 **5th:** wall of stone
 
 **9th:** prismatic wall
-
-**From:** domain
 
 ### Purity Subdomain
 
@@ -158,8 +146,6 @@ an effect.
 
 **5th:** atonement
 
-**From:** domain
-
 ### Solitude Subdomain
 
 **Sources:** Champions of Balance pg 17
@@ -175,7 +161,7 @@ the Protection domain for 1 minute.
 
 **Replaces:** The resistant touch ability of the Protection domain
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -186,8 +172,6 @@ the Protection domain for 1 minute.
 **5th:** mirage arcana
 
 **9th:** greater create demiplane
-
-**From:** domain
 
 ### Deities
 

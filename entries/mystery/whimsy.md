@@ -22,27 +22,29 @@ Whimsy oracles gain powers from capricious fey tricksters.
 **Details:** [The Green Mother](ref/faith/the-green-mother),
 [The Lantern King](ref/faith/the-lantern-king), [Ng](ref/faith/ng), [Shyka](ref/faith/shyka).
 
-**Gained class skills:** bluff, dis, perf, soh, stl
+**Gained class skills:** [Bluff](ref/skill/bluff), [Disguise](ref/skill/disguise),
+[Perform](ref/skill/perform-any), [Sleight of Hand](ref/skill/sleight-of-hand),
+[Stealth](ref/skill/stealth)
 
 **Bonus Spells**
 
-**Spells:** Lesser entice fey
+**Spells:** Faerie fire (2nd)
 
-**Spells:** Mislead
+**Spells:** Hideous laughter (4th)
 
-**Spells:** Entice fey
+**Spells:** Shamefully overdressed (6th)
 
-**Spells:** Irresistible dance
+**Spells:** Major image (8th)
 
-**Spells:** Greater entice fey
+**Spells:** Lesser entice fey (10th)
 
-**Spells:** Faerie fire
+**Spells:** Mislead (12th)
 
-**Spells:** Hideous laughter
+**Spells:** Entice fey (14th)
 
-**Spells:** Shamefully overdressed
+**Spells:** Irresistible dance (16th)
 
-**Spells:** Major image
+**Spells:** Greater entice fey (18th)
 
 ### Revelations
 

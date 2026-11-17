@@ -25,22 +25,20 @@ granting you both the soothing warmth to heal a friend's wounds and the brutal p
 from bone. Your rage is an awesome and terrible thing to behold, as the raw power of your untamed
 life force can allow you to pull yourself back from the grasp of death itself.
 
-**Br:** \~
-
-**Details:**
-[Combat Reflexes](ref/feat/combat-reflexes)[Critical Focus](ref/feat/critical-focus)[Diehard](ref/feat/diehard)[Dodge](ref/feat/dodge)[Endurance](ref/feat/endurance)[Improved Initiative](ref/feat/improved-initiative)[Mobility](ref/feat/mobility)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Reflexes](ref/feat/combat-reflexes),
+[Critical Focus](ref/feat/critical-focus), [Diehard](ref/feat/diehard), [Dodge](ref/feat/dodge),
+[Endurance](ref/feat/endurance), [Improved Initiative](ref/feat/improved-initiative),
+[Mobility](ref/feat/mobility)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Lesser restoration
+**Spells:** Burning hands (7th)
 
-**Spells:** Cure serious wounds
+**Spells:** Lesser restoration (10th)
 
-**Spells:** Fire shield
+**Spells:** Cure serious wounds (13th)
 
-**Spells:** Burning hands
+**Spells:** Fire shield (16th)
 
 ### Bloodline Powers
 
@@ -53,26 +51,26 @@ your foes and fill your allies with an unquenchable vigor.
 target as if you had cast [dispel magic](ref/spell/dispel-magic) as a bloodrager spell and used the
 targeted dispel function. You can dispel only a single magical effect per use of this ability.
 
-**At 20th Level:** You can attempt to dispel all magical effects on your target when using this
-ability.
-
-**At 8th Level:** You gain a +2 bonus on your dispel check when using this ability.
-
 **Gained:** At 1st Level
 
 **Usage:** No limits on usage, except a creature can only be targeted once per day.
 
 **Usage:** No limits on usage, except a creature can only be targeted once per day.
 
-**Heart of Fire (Su)**
+**At 8th Level:** You gain a +2 bonus on your dispel check when using this ability.
 
-**At 8th Level:** Your fire resistance increases to 10, and you regain 2 additional hit points per
-die rolled when you are healed by a _cure_ spell.
+**At 20th Level:** You can attempt to dispel all magical effects on your target when using this
+ability.
+
+**Heart of Fire (Su)**
 
 **Gained:** At 4th Level
 
 **Passive:** You gain fire [resistance](ref/umr/resistance) 5. Whenever you are subjected to a
 magical healing effect from a cure spell, you regain 1 additional hit point per die rolled.
+
+**At 8th Level:** Your fire resistance increases to 10, and you regain 2 additional hit points per
+die rolled when you are healed by a _cure_ spell.
 
 **Blazing Vitality (Su)**
 
@@ -89,15 +87,11 @@ temporary hit points last for 1 minute.
 **Ability:** When entering a _bloodrage_ you can choose to have wings of flame sprout from your
 back, giving you a fly speed of 60 feet with average maneuverability.
 
-**At 16th Level:** Your fly speed increases to 80 feet with good maneuverability.
-
 **Gained:** At 12th Level
 
-**Self-Resurrection (Su)**
+**At 16th Level:** Your fly speed increases to 80 feet with good maneuverability.
 
-**At 20th Level:** This instead functions as a [heal](ref/spell/heal) spell, except that the healing
-can return you to life as per _[breath of life](ref/spell/breath-of-life),_ using your bloodrager
-level as your caster level.
+**Self-Resurrection (Su)**
 
 **Gained:** At 16th Level
 
@@ -106,6 +100,10 @@ below 0 hit points while you are _bloodraging,_ you can call upon the power in y
 yourself back from death. This functions as a [breath of life](ref/spell/breath-of-life) spell cast
 upon yourself. Using this ability does not take an action. This ability does not function if your
 body is completely destroyed by an effect such as [disintegrate](ref/spell/disintegrate).
+
+**At 20th Level:** This instead functions as a [heal](ref/spell/heal) spell, except that the healing
+can return you to life as per _[breath of life](ref/spell/breath-of-life),_ using your bloodrager
+level as your caster level.
 
 **Phoenix Fire (Su)**
 

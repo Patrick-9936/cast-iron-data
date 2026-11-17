@@ -20,22 +20,20 @@ group = "bloodrager-bloodline"
 One of your ancestors was [fey](ref/type/fey), or the fey realm somehow intermixed with your
 bloodline. It affects your _bloodrage_ in tricky and surprising ways.
 
-**Br:** \~
-
-**Details:**
-[Combat Reflexes](ref/feat/combat-reflexes)[Dodge](ref/feat/dodge)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Mobility](ref/feat/mobility)[Step Up](ref/feat/step-up)[Intimidating Prowess](ref/feat/intimidating-prowess)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Reflexes](ref/feat/combat-reflexes), [Dodge](ref/feat/dodge),
+[Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Mobility](ref/feat/mobility),
+[Step Up](ref/feat/step-up), [Intimidating Prowess](ref/feat/intimidating-prowess)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Hideous laughter
+**Spells:** Entangle (7th)
 
-**Spells:** Haste
+**Spells:** Hideous laughter (10th)
 
-**Spells:** Confusion
+**Spells:** Haste (13th)
 
-**Spells:** Entangle
+**Spells:** Confusion (16th)
 
 ### Bloodline Powers
 

@@ -30,7 +30,7 @@ point of ability damage for each d6 that the channel energy is reduced.
 [Extra Channel](ref/feat/extra-channel), but not feats that alter this ability, such as
 [Elemental Channel](ref/feat/elemental-channel) and [Alignment Channel](ref/feat/alignment-channel).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Reed Hunter (Ex)**
 

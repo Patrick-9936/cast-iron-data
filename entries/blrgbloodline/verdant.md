@@ -20,22 +20,20 @@ group = "bloodrager-bloodline"
 Your body is suffused with raw plant life. When you _bloodrage,_ your plant-like characteristics
 bolster your durability and grant you some control over vegetation.
 
-**Br:** \~
-
-**Details:**
-[Bolstered Resilience](ref/feat/bolstered-resilience)[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Great Fortitude](ref/feat/great-fortitude)[Power Attack](ref/feat/power-attack)[Raging Vitality](ref/feat/raging-vitality)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Bolstered Resilience](ref/feat/bolstered-resilience), [Diehard](ref/feat/diehard),
+[Endurance](ref/feat/endurance), [Great Fortitude](ref/feat/great-fortitude),
+[Power Attack](ref/feat/power-attack), [Raging Vitality](ref/feat/raging-vitality),
+[Toughness](ref/feat/toughness)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Greensight
+**Spells:** Entangle (7th)
 
-**Spells:** Burst of nettles
+**Spells:** Greensight (10th)
 
-**Spells:** Command plants
+**Spells:** Burst of nettles (13th)
 
-**Spells:** Entangle
+**Spells:** Command plants (16th)
 
 ### Bloodline Powers
 
@@ -43,18 +41,6 @@ While _bloodraging,_ you gain plant-like abilities and immunities as you become 
 jagged branches, rugged bark, and thick vines.
 
 **Verdant Growth (Su)**
-
-**At 10th Level:** You instead gain [fast healing](ref/umr/fast-healing) 4.
-
-**At 13th Level:** You instead gain [fast healing](ref/umr/fast-healing) 5.
-
-**At 16th Level:** You instead gain [fast healing](ref/umr/fast-healing) 6.
-
-**At 19th Level:** You instead gain [fast healing](ref/umr/fast-healing) 7.
-
-**At 4th Level:** You instead gain [fast healing](ref/umr/fast-healing) 2.
-
-**At 7th Level:** You instead gain [fast healing](ref/umr/fast-healing) 3.
 
 **Gained:** At 1st Level
 
@@ -64,20 +50,32 @@ bloodrager class feature that also grants you fast healing (such as the
 of your fast healing from such abilities with the fast healing gained from this ability, but you
 cannot do so by an amount that exceeds your Charisma bonus (minimum 0).
 
+**At 4th Level:** You instead gain [fast healing](ref/umr/fast-healing) 2.
+
+**At 7th Level:** You instead gain [fast healing](ref/umr/fast-healing) 3.
+
+**At 10th Level:** You instead gain [fast healing](ref/umr/fast-healing) 4.
+
+**At 13th Level:** You instead gain [fast healing](ref/umr/fast-healing) 5.
+
+**At 16th Level:** You instead gain [fast healing](ref/umr/fast-healing) 6.
+
+**At 19th Level:** You instead gain [fast healing](ref/umr/fast-healing) 7.
+
 **Oaken Skin (Ex)**
+
+**Gained:** At 4th Level
+
+**Passive:** When entering a _bloodrage,_ your skin thickens like bark and you gain a +2 enhancement
+bonus to your natural armor.
+
+**At 8th Level:** The bonus becomes +3.
 
 **At 12th Level:** The bonus becomes +4.
 
 **At 16th Level:** The bonus becomes +5.
 
 **At 20th Level:** The bonus becomes +6.
-
-**At 8th Level:** The bonus becomes +3.
-
-**Gained:** At 4th Level
-
-**Passive:** When entering a _bloodrage,_ your skin thickens like bark and you gain a +2 enhancement
-bonus to your natural armor.
 
 **Botanical Plasticity (Su)**
 

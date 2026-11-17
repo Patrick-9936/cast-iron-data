@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Ancestors patron grants the following spells at the listed witch levels.
 
-**Spells:** Commune
+**Spells:** Bless (2nd)
 
-**Spells:** Greater heroism
+**Spells:** Aid (4th)
 
-**Spells:** Refuge
+**Spells:** Prayer (6th)
 
-**Spells:** Euphoric tranquility
+**Spells:** Blessing of fervor (8th)
 
-**Spells:** Weird
+**Spells:** Commune (10th)
 
-**Spells:** Bless
+**Spells:** Greater heroism (12th)
 
-**Spells:** Aid
+**Spells:** Refuge (14th)
 
-**Spells:** Prayer
+**Spells:** Euphoric tranquility (16th)
 
-**Spells:** Blessing of fervor
+**Spells:** Weird (18th)

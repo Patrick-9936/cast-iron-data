@@ -24,11 +24,11 @@ amusement.
 each day, the GM can demand you reroll a single ability check, attack roll, saving throw, or skill
 check and use the worse result.
 
-**Spells:** Irresistible dance
+**Spells:** Disguise self (2nd)
 
-**Spells:** Disguise self
+**Spells:** Hideous laughter (4th)
 
-**Spells:** Hideous laughter
+**Spells:** Irresistible dance (16th)
 
 **Available patron themes:** [Agility](ref/patron/agility), [Enchantment](ref/patron/enchantment),
 [Trickery](ref/patron/trickery), [Winter](ref/patron/winter)

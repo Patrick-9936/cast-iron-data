@@ -35,17 +35,13 @@ resist cold.
 
 **Icicle (Sp)**
 
-**Id:** icicle
-
 **Standard:** You can fire an icicle from your finger, targeting any foe within 30 feet as a ranged
 touch attack. The icicle deals an amount of cold damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) of your cleric level.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Cold Resistance (Ex)**
-
-**Id:** res
 
 **At 12th Level:** The resistance increases to 20.
 
@@ -64,8 +60,6 @@ touch attack. The icicle deals an amount of cold damage equal to 1d6 +
 1. elemental body IV (water only)
 1. horrid wilting
 1. elemental swarm (water spell only)
-
-**Save:** domain
 
 ### Flotsam Subdomain
 
@@ -98,8 +92,6 @@ after 24 hours if they're not already used up or otherwise destroyed before then
 
 **6th:** animate objects
 
-**From:** domain
-
 ### Flowing Subdomain
 
 **Sources:** Champions of Balance pg 17
@@ -115,7 +107,7 @@ the [calm emotions](ref/spell/calm-emotions) spell, except it can still take vio
 violent actions against the target do not end the effect. This effect lasts a number of rounds equal
 to 1/2 your cleric level (minimum 1).
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -126,8 +118,6 @@ to 1/2 your cleric level (minimum 1).
 **6th:** fluid form
 
 **8th:** mind blank
-
-**From:** domain
 
 ### Ice Subdomain
 
@@ -155,8 +145,6 @@ from fire.
 
 **9th:** polar ray
 
-**From:** domain
-
 ### Oceans Subdomain
 
 **Sources:** Advanced Player's Guide pg 94
@@ -174,7 +162,7 @@ combat maneuver check against the target, using your cleric level + your Wisdom 
 CMB. If successful, you may pull or push the creature as if using the
 [bull rush](ref/rule/bull-rush) or [drag](ref/rule/drag) combat maneuver.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -183,8 +171,6 @@ CMB. If successful, you may pull or push the creature as if using the
 **3rd:** water walk
 
 **9th:** tsunami
-
-**From:** domain
 
 ### Rivers Subdomain
 
@@ -200,7 +186,7 @@ number of rounds equal to your Wisdom modifier (minimum 1).
 
 **Replaces:** The \# power of the Water domain
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -211,8 +197,6 @@ number of rounds equal to your Wisdom modifier (minimum 1).
 **5th:** elemental body II
 
 **6th:** fluid form
-
-**From:** domain
 
 ### Deities
 

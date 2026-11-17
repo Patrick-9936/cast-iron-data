@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Strength patron grants the following spells at the listed witch levels.
 
-**Spells:** Righteous might
+**Spells:** Divine favor (2nd)
 
-**Spells:** Mass bull's strength
+**Spells:** Bull's strength (4th)
 
-**Spells:** Giant form I
+**Spells:** Greater magic weapon (6th)
 
-**Spells:** Giant form II
+**Spells:** Divine power (8th)
 
-**Spells:** Shapechange
+**Spells:** Righteous might (10th)
 
-**Spells:** Divine favor
+**Spells:** Mass bull's strength (12th)
 
-**Spells:** Bull's strength
+**Spells:** Giant form I (14th)
 
-**Spells:** Greater magic weapon
+**Spells:** Giant form II (16th)
 
-**Spells:** Divine power
+**Spells:** Shapechange (18th)

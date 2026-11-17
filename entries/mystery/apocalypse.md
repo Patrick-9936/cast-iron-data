@@ -22,27 +22,28 @@ the apocalypse are favored emissaries of the divine.
 
 **Details:** [Gorum](ref/faith/gorum), [Rovagug](ref/faith/rovagug).
 
-**Gained class skills:** bluff, dis, sur, stl
+**Gained class skills:** [Bluff](ref/skill/bluff), [Disguise](ref/skill/disguise),
+[Survival](ref/skill/survival), [Stealth](ref/skill/stealth)
 
 **Bonus Spells**
 
-**Spells:** Insect plague
+**Spells:** Deathwatch (2nd)
 
-**Spells:** Circle of death
+**Spells:** Summon swarm (4th)
 
-**Spells:** Vision
+**Spells:** Explosive runes (6th)
 
-**Spells:** Incendiary cloud
+**Spells:** Ice storm (8th)
 
-**Spells:** Meteor swarm
+**Spells:** Insect plague (10th)
 
-**Spells:** Deathwatch
+**Spells:** Circle of death (12th)
 
-**Spells:** Summon swarm
+**Spells:** Vision (14th)
 
-**Spells:** Explosive runes
+**Spells:** Incendiary cloud (16th)
 
-**Spells:** Ice storm
+**Spells:** Meteor swarm (18th)
 
 ### Revelations
 

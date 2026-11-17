@@ -23,23 +23,23 @@ around her body.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Burning hands
+**Spells:** Burning hands (1st)
 
-**Spells:** Resist energy
+**Spells:** Resist energy (2nd)
 
-**Spells:** Fireball
+**Spells:** Fireball (3rd)
 
-**Spells:** Wall of fire
+**Spells:** Wall of fire (4th)
 
-**Spells:** Summon monster V\|(fire elementals only)
+**Spells:** Summon monster V (fire elementals only) (5th)
 
-**Spells:** Fire seeds
+**Spells:** Fire seeds (6th)
 
-**Spells:** Fire storm
+**Spells:** Fire storm (7th)
 
-**Spells:** Incendiary cloud
+**Spells:** Incendiary cloud (8th)
 
-**Spells:** Fiery body
+**Spells:** Fiery body (9th)
 
 ### Hexes
 
@@ -124,7 +124,7 @@ ability.
 **Standard:** The shaman can make a melee touch attack that deals 1an amount of fire damage equal to
 1d6 + [half](ref/misc/fractions-and-rounding) her shaman level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 
