@@ -31,7 +31,7 @@ weapon was a light weapon.
 shuriken as a light weapon when used in this manner, and treat a bolas, javelin, net, or sling as a
 one-handed weapon.
 
-### Table 8-7: Two-Weapon Fighting Penalties
+### Table 8-7: Two-Weapon Fighting Penalties {#sec-table-8-7-two-weapon-fighting-penalties}
 
 |Circumstances|Primary Hand|Off Hand|
 | --- | --- | --- |

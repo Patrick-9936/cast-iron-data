@@ -64,7 +64,7 @@ attacks of opportunity (since each one represents a different opportunity). Movi
 one square threatened by the same opponent in the same round doesn't count as more than one
 opportunity for that opponent. All these attacks are at your full normal attack bonus.
 
-### Actions That Provoke Attacks of Opportunity
+### Actions That Provoke Attacks of Opportunity {#sec-actions-that-provoke-attacks-of-opportunity}
 
 - Make a ranged or unarmed attack
 - Prepare to throw a splash weapon
