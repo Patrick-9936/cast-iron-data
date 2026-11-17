@@ -81,8 +81,9 @@ entry's parent lists the book).
   proposed_primary, proposed_status  on a gated row: the first later book that is not itself a
         removal candidate for the entry, and this script's status for it ("unscreened" without
         a PDF; "(none)" when every other book is a removal candidate)
-  verdict, print_page  empty. The reviewer's decision (`remove`, `keep`, `expanded_in`, ...) and
-        the printed page that decides it.
+  verdict, print_page, evidence  empty. The reviewer's decision (`remove`, `keep`, `expands`) and
+        the printed page that decides it, and a short code for what the print check found. A re-run
+        overwrites the queue; scripts/membership-apply.py applies the rows marked `remove`.
 
 Known limits (see the PR for the calibration): no-PDF memberships and books without readable
 page numbers are not judged, and neither says anything about absence. A hub-looking entry that
@@ -579,7 +580,7 @@ def run(args, root, pubs, entries, multi, members, screen_set, links, pdfs, cach
             "found": ",".join(map(str, r["found"])),
             "via": ",".join(dict.fromkeys(via)), "family": ",".join(fam[:3]),
             "parent_has_book": "yes" if parent_has else "",
-            "gate": "", "proposed_primary": "", "proposed_status": "", "verdict": "", "print_page": "",
+            "gate": "", "proposed_primary": "", "proposed_status": "", "verdict": "", "print_page": "", "evidence": "",
         })
     # First-book rows change the entry's primary book when removed: gate them, and name the book
     # that would become primary (the first later book that is not itself a removal candidate).
@@ -598,7 +599,7 @@ def run(args, root, pubs, entries, multi, members, screen_set, links, pdfs, cach
 
     cols = ["book", "entry", "kind", "title", "member", "n_books", "tag", "status", "cited", "cite",
             "hits", "found", "via", "family", "parent_has_book", "gate", "proposed_primary",
-            "proposed_status", "verdict", "print_page"]
+            "proposed_status", "verdict", "print_page", "evidence"]
     with open(args.out, "w", encoding="utf-8", newline="\n") as f:
         f.write("\t".join(cols) + "\n")
         for q in queue:
