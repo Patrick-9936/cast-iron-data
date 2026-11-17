@@ -30,7 +30,7 @@ bonus or penalty on attack rolls or to a defender's Armor Class.
 |Shaken or frightened|-2|-2|
 |Squeezing through a space|-4|-4|
 
-### Table 8-6: Armor Class Modifiers
+### Table 8-6: Armor Class Modifiers {#sec-table-8-6-armor-class-modifiers}
 
 |Defender is...|Melee|Ranged|
 | --- | --- | --- |
