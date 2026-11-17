@@ -42,8 +42,10 @@ A merged fix is not in the app yet. It reaches readers when Cast Iron pins a new
 
 ## The tool
 
-Install it once from the current `main` of Cast Iron, the revision that
-`.github/workflows/corpus.yml` builds:
+Install it from the current `main` of Cast Iron, the revision that `.github/workflows/corpus.yml`
+builds. You need the Rust toolchain that Cast Iron's `rust-toolchain.toml` names (1.99.1 today);
+`cargo install --git` uses the toolchain you have selected. CI builds `main` on every run, so run
+the command again before you check a change, and whenever CI disagrees with your result:
 
 ```sh
 cargo install --locked --git https://github.com/phynics/cast-iron cast-iron-corpus cast-iron-content-compiler
@@ -58,7 +60,8 @@ cast-iron-corpus fmt --check .    # change nothing; name the first line that is 
 ```
 
 The `corpus` workflow also runs the app's content build, which fails when a published id no
-longer resolves or an entry is unreachable. To run it locally, see "Check locally" in the
+longer resolves, a book has no slot in the app's `sources/published-books.txt`, or an entry is
+unreachable. To run it locally, see "Check locally" in the
 [README](README.md).
 
 `check` fails with a message like `entries/rule/ambush.md:14: unknown link target

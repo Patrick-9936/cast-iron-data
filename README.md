@@ -43,8 +43,12 @@ in the Cast Iron repository.
 ## Check locally
 
 Two tools from the Cast Iron repository read the corpus: `cast-iron-corpus` (check and format) and
-`cast-iron-compile` (the app's content build). You need a Rust toolchain. Install both from the
-current `main` of Cast Iron, the revision that `.github/workflows/corpus.yml` builds:
+`cast-iron-compile` (the app's content build). You need the Rust toolchain that Cast Iron's
+`rust-toolchain.toml` names (1.99.1 today); `cargo install --git` uses the toolchain you have
+selected, not that file. Install both from the current `main` of Cast Iron, the revision that
+`.github/workflows/corpus.yml` builds. CI builds `main` on every run, so run the command again
+(it replaces the installed binaries) before you check a change, and whenever CI disagrees with
+your result:
 
 ```sh
 cargo install --locked --git https://github.com/phynics/cast-iron cast-iron-corpus cast-iron-content-compiler
@@ -58,13 +62,19 @@ cast-iron-corpus fmt .            # rewrite every file into its one canonical fo
 cast-iron-corpus fmt --check .    # change nothing; name the first line that is not canonical
 ```
 
-To run the app's content build as well (published ids still resolve, every entry is reachable),
-clone Cast Iron for its list of published ids and run, from the root of this repository:
+To run the app's content build as well (published ids still resolve, every book has a slot, every
+entry is reachable), clone Cast Iron for its two lists and run, from the root of this repository:
 
 ```sh
 git clone --depth 1 https://github.com/phynics/cast-iron ../cast-iron
-cast-iron-compile --corpus . --published ../cast-iron/sources/published-ids.txt --out /tmp/content --reports /tmp/reports
+cast-iron-compile --corpus . --out /tmp/content --reports /tmp/reports \
+  --published ../cast-iron/sources/published-ids.txt \
+  --book-slots ../cast-iron/sources/published-books.txt
 ```
+
+A new publication needs a line in the app's `sources/published-books.txt` first: in Cast Iron, run
+`cargo xtask published-books` against a pin that holds the publication and commit the added lines.
+Until then the content build, and so the `corpus` workflow, fails for that pull request.
 
 A pull request must pass `fmt --check` and the content build, which runs `check` first. The `corpus`
 workflow runs both.

@@ -5,8 +5,11 @@ name: corpus
 # fails here, before a tag and a pin bump. Three checks run:
 #   1. `fmt --check`: every file is in canonical form.
 #   2. `check`: references resolve (the compiler runs it first and stops on any problem).
-#   3. The app's compiler: every id in the app's `sources/published-ids.txt` still resolves
-#      (directly or through `aliases.toml`), and every entry is reachable.
+#   3. The app's compiler, given the same inputs as `cargo xtask content`: every id in the app's
+#      `sources/published-ids.txt` still resolves (directly or through `aliases.toml`), every
+#      book has a slot in the app's `sources/published-books.txt`, and every entry is reachable.
+#      The compiler's `--corpus-tag` is display metadata and is left out. A pull request that adds
+#      a publication fails until the app appends its slot (`cargo xtask published-books`).
 # When Cast Iron `main` changes the corpus format, this workflow fails until a corpus pull
 # request migrates the corpus; that is the point of building from `main`.
 on:
@@ -32,11 +35,13 @@ jobs:
       - uses: actions/checkout@v7
         with:
           path: corpus
+          persist-credentials: false
       - uses: actions/checkout@v7
         with:
           repository: phynics/cast-iron
           ref: main
           path: app
+          persist-credentials: false
       - name: Pick the checker revision
         id: app
         working-directory: app
@@ -75,5 +80,6 @@ jobs:
           "$RUNNER_TEMP/checker/bin/cast-iron-compile" \
             --corpus corpus \
             --published app/sources/published-ids.txt \
+            --book-slots app/sources/published-books.txt \
             --out "$RUNNER_TEMP/content" \
             --reports "$RUNNER_TEMP/reports"
