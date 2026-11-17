@@ -37,16 +37,17 @@ The full OGL text with every Section 15 notice is in [LICENSES/OGL-1.0a.md](LICE
 Open the entry in a text editor, change it, and run the check below. The recipes (fix a typo, fix a
 link, split a paragraph, add a table row, change a stat value, add an entry) are in
 [CONTRIBUTING.md](CONTRIBUTING.md). The format specification is
-[`docs/corpus-format.md`](https://github.com/phynics/cast-iron/blob/0f65ae8bc0bd35a5f65266ae6d464d6273d85e60/docs/corpus-format.md)
+[`docs/corpus-format.md`](https://github.com/phynics/cast-iron/blob/main/docs/corpus-format.md)
 in the Cast Iron repository.
 
 ## Check locally
 
-The `cast-iron-corpus` binary reads and checks the corpus. You need a Rust toolchain. Install it
-once, from the Cast Iron revision that `.github/workflows/corpus.yml` pins:
+Two tools from the Cast Iron repository read the corpus: `cast-iron-corpus` (check and format) and
+`cast-iron-compile` (the app's content build). You need a Rust toolchain. Install both from the
+current `main` of Cast Iron, the revision that `.github/workflows/corpus.yml` builds:
 
 ```sh
-cargo install --locked --git https://github.com/phynics/cast-iron --rev 0f65ae8bc0bd35a5f65266ae6d464d6273d85e60 cast-iron-corpus
+cargo install --locked --git https://github.com/phynics/cast-iron cast-iron-corpus cast-iron-content-compiler
 ```
 
 Then, from the root of this repository:
@@ -57,7 +58,16 @@ cast-iron-corpus fmt .            # rewrite every file into its one canonical fo
 cast-iron-corpus fmt --check .    # change nothing; name the first line that is not canonical
 ```
 
-A pull request must pass `check` and `fmt --check`. The `corpus` workflow runs both.
+To run the app's content build as well (published ids still resolve, every entry is reachable),
+clone Cast Iron for its list of published ids and run, from the root of this repository:
+
+```sh
+git clone --depth 1 https://github.com/phynics/cast-iron ../cast-iron
+cast-iron-compile --corpus . --published ../cast-iron/sources/published-ids.txt --out /tmp/content --reports /tmp/reports
+```
+
+A pull request must pass `fmt --check` and the content build, which runs `check` first. The `corpus`
+workflow runs both.
 
 ## Versions
 

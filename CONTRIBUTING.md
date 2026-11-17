@@ -6,7 +6,7 @@ WebAssembly toolchain.
 
 The corpus is one Markdown file per rules entry (`entries/...`) and a few TOML files. The
 full specification is
-[`docs/corpus-format.md`](https://github.com/phynics/cast-iron/blob/20e6a31af342cb5f7899cdb7e039022f5bae5de8/docs/corpus-format.md)
+[`docs/corpus-format.md`](https://github.com/phynics/cast-iron/blob/main/docs/corpus-format.md)
 in the Cast Iron repository. This page is the short version: three rules, the tool, and one
 recipe for each common edit.
 
@@ -42,10 +42,11 @@ A merged fix is not in the app yet. It reaches readers when Cast Iron pins a new
 
 ## The tool
 
-Install it once, from the revision this corpus pins (see `.github/workflows/corpus.yml`):
+Install it once from the current `main` of Cast Iron, the revision that
+`.github/workflows/corpus.yml` builds:
 
 ```sh
-cargo install --locked --git https://github.com/phynics/cast-iron --rev 20e6a31af342cb5f7899cdb7e039022f5bae5de8 cast-iron-corpus
+cargo install --locked --git https://github.com/phynics/cast-iron cast-iron-corpus cast-iron-content-compiler
 ```
 
 Then, from the root of this repository:
@@ -55,6 +56,10 @@ cast-iron-corpus check .          # read every file; list broken links, ids, sou
 cast-iron-corpus fmt .            # rewrite files into canonical form
 cast-iron-corpus fmt --check .    # change nothing; name the first line that is not canonical
 ```
+
+The `corpus` workflow also runs the app's content build, which fails when a published id no
+longer resolves or an entry is unreachable. To run it locally, see "Check locally" in the
+[README](README.md).
 
 `check` fails with a message like `entries/rule/ambush.md:14: unknown link target
 `ref/skill/stealh``. The message names the file and line. It also fails when a typed field

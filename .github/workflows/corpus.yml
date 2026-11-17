@@ -1,7 +1,14 @@
 name: corpus
 
-# Checks every pull request against the format: references resolve, and every file is in
-# canonical form.
+# Checks every pull request the way the app reads the corpus. The checker is built from the
+# current `main` of Cast Iron, so a corpus change that the app's content build would reject
+# fails here, before a tag and a pin bump. Three checks run:
+#   1. `fmt --check`: every file is in canonical form.
+#   2. `check`: references resolve (the compiler runs it first and stops on any problem).
+#   3. The app's compiler: every id in the app's `sources/published-ids.txt` still resolves
+#      (directly or through `aliases.toml`), and every entry is reachable.
+# When Cast Iron `main` changes the corpus format, this workflow fails until a corpus pull
+# request migrates the corpus; that is the point of building from `main`.
 on:
   pull_request:
   push:
@@ -16,37 +23,57 @@ concurrency:
 
 env:
   CARGO_TERM_COLOR: always
-  # The Cast Iron revision whose `cast-iron-corpus` reads this corpus. Change it in the same
-  # pull request that migrates the corpus to a newer format. This rev holds schema 4 (attached
-  # entries: `variant`, `addon`, `revision`), `race_group` (phynics/cast-iron#379), `aon`
-  # (#380), and `replaces_features` / `alters_features` (#378).
-  CAST_IRON_REV: 47c0e41b33b816b5f9d60b197f8e239845e82da9
-  # The Rust toolchain: the version in Cast Iron's rust-toolchain.toml at that revision.
-  RUST_TOOLCHAIN: 1.99.1
 
 jobs:
   corpus:
-    name: check and fmt --check
+    name: check, fmt --check and content build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - name: Install Rust
-        run: >
-          rustup toolchain install "$RUST_TOOLCHAIN" --profile minimal --no-self-update &&
-          rustup default "$RUST_TOOLCHAIN"
-      - name: Cache the tool
+        with:
+          path: corpus
+      - uses: actions/checkout@v7
+        with:
+          repository: phynics/cast-iron
+          ref: main
+          path: app
+      - name: Pick the checker revision
+        id: app
+        working-directory: app
+        run: |
+          # The cache key names the toolchain and the trees that the two binaries are built
+          # from, so a change to the app's UI does not rebuild them.
+          toolchain=$(sed -n 's/^channel *= *"\(.*\)"/\1/p' rust-toolchain.toml)
+          inputs=$(git rev-parse HEAD:crates/schema HEAD:crates/search HEAD:crates/corpus \
+            HEAD:crates/content-compiler HEAD:Cargo.toml HEAD:Cargo.lock \
+            HEAD:rust-toolchain.toml HEAD:.cargo | sha256sum | cut -c1-16)
+          echo "Checker built from Cast Iron $(git rev-parse HEAD)"
+          echo "toolchain=$toolchain" >> "$GITHUB_OUTPUT"
+          echo "key=checker-$toolchain-$inputs" >> "$GITHUB_OUTPUT"
+      - name: Cache the checker
         id: tool
         uses: actions/cache@v6
         with:
-          path: ${{ runner.temp }}/cargo-tool
-          key: cast-iron-corpus-${{ env.CAST_IRON_REV }}-${{ env.RUST_TOOLCHAIN }}
-      - name: Build cast-iron-corpus
+          path: ${{ runner.temp }}/checker
+          key: ${{ steps.app.outputs.key }}
+      - name: Build the checker
         if: steps.tool.outputs.cache-hit != 'true'
-        run: >
-          cargo install --locked --root "$RUNNER_TEMP/cargo-tool"
-          --git https://github.com/phynics/cast-iron --rev "$CAST_IRON_REV"
-          cast-iron-corpus
-      - name: Check
-        run: $RUNNER_TEMP/cargo-tool/bin/cast-iron-corpus check .
+        working-directory: app
+        env:
+          RUSTUP_TOOLCHAIN: ${{ steps.app.outputs.toolchain }}
+          CARGO_TARGET_DIR: ${{ runner.temp }}/target
+        run: |
+          rustup toolchain install "$RUSTUP_TOOLCHAIN" --profile minimal --no-self-update
+          cargo build --release --locked -p cast-iron-corpus -p cast-iron-content-compiler
+          mkdir -p "$RUNNER_TEMP/checker/bin"
+          cp "$CARGO_TARGET_DIR/release/cast-iron-corpus" \
+            "$CARGO_TARGET_DIR/release/cast-iron-compile" "$RUNNER_TEMP/checker/bin/"
       - name: Formatting
-        run: $RUNNER_TEMP/cargo-tool/bin/cast-iron-corpus fmt --check .
+        run: '"$RUNNER_TEMP/checker/bin/cast-iron-corpus" fmt --check corpus'
+      - name: Check and content build
+        run: |
+          "$RUNNER_TEMP/checker/bin/cast-iron-compile" \
+            --corpus corpus \
+            --published app/sources/published-ids.txt \
+            --out "$RUNNER_TEMP/content" \
+            --reports "$RUNNER_TEMP/reports"
