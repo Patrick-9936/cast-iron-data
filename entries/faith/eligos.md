@@ -11,7 +11,7 @@ publication = "inner-sea-gods"
 page = "326"
 [[sources]]
 publication = "book-of-the-damned"
-page = "118"
+page = "116"
 
 [fields]
 kind = "none"
@@ -39,7 +39,7 @@ kind = "none"
 > Ride your mount at top speed in a circuitous route you repeat three times while scattering bones
 > behind you. Gain a +4 profane bonus on saving throws against spells with the ruse descriptor.
 >
-> **Sources:** Book of the Damned pg 118\
+> **Sources:** Book of the Damned pg 116\
 > The Lords of Hell, the Dukes of Perdition, and the Princes of Damnation are all names for the
 > infamous nobility of the Pit: the elite caste of devilkind known as the infernal dukes.
 >

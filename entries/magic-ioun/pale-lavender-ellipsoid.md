@@ -17,7 +17,7 @@ publication = "ultimate-equipment"
 page = "305"
 [[sources]]
 publication = "seekers-of-secrets"
-page = "48"
+page = "47"
 
 [fields]
 kind = "item"
@@ -55,7 +55,7 @@ action instead of a readied action.
 
 ### Flawed Pale Lavender Ellipsoid Ioun Stone
 
-**Sources:** Seekers of Secrets pg 48\
+**Sources:** Seekers of Secrets pg 50\
 **Price** 18,000 gp\
 This stone absorbs spells of 3rd level or lower (as a readied action), which deals 2 hit points of
 damage to the user for each spell level absorbed. After absorbing 20 spell levels, the stone burns

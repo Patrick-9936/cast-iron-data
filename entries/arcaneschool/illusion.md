@@ -11,7 +11,7 @@ publication = "core-rulebook"
 page = "81"
 [[sources]]
 publication = "adventurers-guide"
-page = "53"
+page = "35"
 [[sources]]
 publication = "inner-sea-primer"
 page = "29"
@@ -57,7 +57,7 @@ than your wizard level are [dazzled](ref/misc/dazzled) for 1 round instead.
 
 ### Deception School
 
-**Sources:** Adventurer's Guide pg 53\
+**Sources:** Adventurer's Guide pg 35\
 **Associated School:** Illusion.
 
 **Replacement Powers:** The following school powers replace the

@@ -1,0 +1,32 @@
+id	book	cited_page	status	reason
+ref/ability/arcane-schools	adventurers-guide	63	already-right	Thassilonian Magic section (the entry's Adventurer's Guide text) is printed on p.63; the title screen only found the Deception School mention
+ref/rule/feats-other	horror-adventures	78	already-right	heading Monster Feats printed on p.78, the entry's Horror Adventures section
+ref/rule/feats-other	martial-arts-handbook	26	already-right	heading Combination Techniques starts at the foot of p.26 and runs to p.27
+ref/faith/general-susumu	legacy-of-dragons	31	already-right	tail strike spell text for dragon-deity worshipers (the Unique Spell Rules source) printed on p.31; deity named only on p.8
+ref/faith/nalinivati	legacy-of-dragons	31	already-right	same as general-susumu: Unique Spell Rules text printed on p.31
+ref/faith/ragadahn	legacy-of-dragons	31	already-right	same as general-susumu: Unique Spell Rules text printed on p.31
+ref/faith/shizuru	legacy-of-dragons	31	already-right	same as general-susumu: Unique Spell Rules text printed on p.31
+ref/ability/elements	occult-origins	6	already-right	heading Void Element (the entry's Occult Origins section) printed on p.6
+ref/template/skeletal-champion	classic-horrors-revisited	54	already-right	heading Faces of Death (the entry's Classic Horrors Revisited section) printed on p.54
+ref/spell/detect-evil	agents-of-evil	16	not-found	no Detect Evil heading in the book; p.16 prints Detect Fiendish Presence, a different spell
+ref/spell/detect-good	agents-of-evil	16	not-found	no Detect Good heading in the book; mentioned in an archetype on p.20 only
+ref/spell/beast-shape-1	animal-archive	25	not-found	no Beast Shape I heading; p.25 prints Share Shape, which refers to beast shape II
+ref/spell/summon-natures-ally-1	inner-sea-races	223	not-found	no spell heading; p.217 only mentions the spell in a racial trait; p.223 prints other spells that refer to summon nature's ally
+ref/spell/summon-natures-ally-2	inner-sea-races	223	not-found	no spell heading; p.238 only mentions the spell in a racial option; p.223 prints other spells that refer to summon nature's ally
+ref/rule/rare-races	inner-sea-races	239	left	Rare Races is the chapter title (p.162, intro text not in the entry); p.239 prints the Androids racial options that the entry's Androids section cites; owner decision
+ref/spell/summon-monster-2	monster-summoners-handbook	18	left	no spell heading in the book; p.18 prints the entropic and resolute template rule that the entry's footnote cites
+ref/spell/summon-monster-3	monster-summoners-handbook	18	left	same as summon-monster-2
+ref/spell/summon-monster-4	monster-summoners-handbook	18	left	same as summon-monster-2
+ref/spell/summon-monster-5	monster-summoners-handbook	18	left	same as summon-monster-2
+ref/spell/summon-monster-7	monster-summoners-handbook	18	left	same as summon-monster-2
+ref/spell/summon-monster-9	monster-summoners-handbook	18	left	same as summon-monster-2
+ref/spell/curse-major	ultimate-intrigue	206	not-found	no Major Curse heading in the book; p.83 only lists it in a class feature; p.206 prints Charm Person, Mass and Codespeak
+ref/spell/teleport-greater	ultimate-intrigue	227	not-found	no Greater Teleport spell heading; p.76 mentions it in a feat; p.227 prints Treacherous Teleport
+ref/rule/ability-weapon-groups/firearms	ultimate-wilderness	51	not-found	no Firearms weapon-group entry in the book; p.51 prints the new Tribal weapon group; p.75 mentions firearms in an archetype
+ref/rule/ability-weapon-groups/monk	ultimate-wilderness	51	not-found	no Monk weapon-group entry in the book; p.51 prints the new Tribal weapon group
+ref/spell/beast-shape	ultimate-wilderness	231	not-found	no Beast Shape heading; p.232 prints Magical Beast Shape, a separate spell. Its own entry ref/spell/magical-beast-shape also cites p.231 and looks one page early
+ref/spell/beast-shape-1	ultimate-wilderness	231	not-found	no Beast Shape I heading; only class-feature mentions (pp.52, 81, 85, 96)
+ref/spell/beast-shape-2	ultimate-wilderness	231	not-found	no Beast Shape II heading; only class-feature mentions (pp.27, 28, 81, 85)
+ref/spell/beast-shape-3	ultimate-wilderness	231	not-found	no Beast Shape III heading; only a class-feature mention (p.85)
+ref/spell/beast-shape-4	ultimate-wilderness	231	not-found	no Beast Shape IV heading; p.232 Magical Beast Shape refers to it
+ref/spell/create-pit	villain-codex	188	left	no Create Pit heading; the Walk the Plank spell (a create pit variant) starts on p.188 and runs to p.189

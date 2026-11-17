@@ -11,7 +11,7 @@ publication = "inner-sea-gods"
 page = "326"
 [[sources]]
 publication = "book-of-the-damned"
-page = "118"
+page = "119"
 
 [fields]
 kind = "none"
@@ -39,7 +39,7 @@ kind = "none"
 > Carve the flesh of a deceased creature into pieces, then reassemble them into a new form. Gain a
 > +4 profane bonus on saving throws against polymorph effects.
 >
-> **Sources:** Book of the Damned pg 118\
+> **Sources:** Book of the Damned pg 119\
 > The Lords of Hell, the Dukes of Perdition, and the Princes of Damnation are all names for the
 > infamous nobility of the Pit: the elite caste of devilkind known as the infernal dukes.
 >

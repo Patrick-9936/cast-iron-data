@@ -12,7 +12,7 @@ publication = "bestiary"
 page = "245"
 [[sources]]
 publication = "undead-revisited"
-page = "37"
+page = "46"
 
 [fields]
 kind = "creature"
@@ -122,7 +122,7 @@ goals or outwardly visible motivations other than to sap life and vitality from 
 
 ### Variants
 
-**Sources:** Undead Revisited pg 37\
+**Sources:** Undead Revisited pg 49\
 While most shadows steal strength from their victims, rare variants may drain different aspects of a
 target's vitality. A variant shadow's chilling touch may induce paralysis and numbness (Dexterity
 damage) or a kind of slow decay of the flesh (Constitution damage). The mere touch of a shadow can

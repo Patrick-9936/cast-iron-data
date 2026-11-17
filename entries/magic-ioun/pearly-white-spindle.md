@@ -17,7 +17,7 @@ publication = "ultimate-equipment"
 page = "305"
 [[sources]]
 publication = "seekers-of-secrets"
-page = "48"
+page = "47"
 
 [fields]
 kind = "item"
@@ -49,7 +49,7 @@ user is using the stone.
 
 ### Flawed Ioun Stone
 
-**Sources:** Seekers of Secrets pg 48\
+**Sources:** Seekers of Secrets pg 50\
 **Price** 18,000 gp\
 As the normal stone, but the user regenerates 4 points of damage per hour.
 

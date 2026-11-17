@@ -14,7 +14,7 @@ publication = "pathfinder-38-racing-to-ruin"
 page = "71"
 [[sources]]
 publication = "planar-adventures"
-page = "77"
+page = "76"
 
 [fields]
 kind = "none"

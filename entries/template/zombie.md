@@ -11,7 +11,7 @@ publication = "bestiary"
 page = "288"
 [[sources]]
 publication = "classic-horrors-revisited"
-page = "25"
+page = "54"
 [[sources]]
 publication = "horror-realms"
 page = "33"
@@ -219,7 +219,7 @@ yellow musk zombies.
 
 ### Faces of Death
 
-**Sources:** Classic Horrors Revisited pg 25\
+**Sources:** Classic Horrors Revisited pg 54\
 The simple, tottering skeleton and mindless, shambling zombie are the stereotypical image of the
 walking dead, but these undead horrors come in highly variable forms. Bloody skeletons, burning
 skeletons, fast zombies, plague zombies, and deadly intelligent skeletal champions are the
