@@ -11,7 +11,7 @@ publication = "inner-sea-gods"
 page = "318"
 [[sources]]
 publication = "book-of-the-damned"
-page = "115"
+page = "114"
 
 [fields]
 kind = "none"
@@ -38,7 +38,7 @@ kind = "none"
 > Meditate in a basement or cellar (preferably one that does not belong to you). Gain a +4 profane
 > bonus on all saving throws attempted while in complete darkness.
 >
-> **Sources:** Book of the Damned pg 115\
+> **Sources:** Book of the Damned pg 114\
 > Abaddon's unique [daemons](ref/family/daemon) take on a host of titles, customized to their
 > methods and vanity. These harbingers enjoy sweeping influence among daemons as favored advisors,
 > and they work to cultivate their own cults on Abaddon and beyond.

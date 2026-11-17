@@ -11,7 +11,7 @@ publication = "pathfinder-105-the-inferno-gate"
 page = "68"
 [[sources]]
 publication = "book-of-the-damned"
-page = "80"
+page = "78"
 
 [fields]
 kind = "none"
@@ -112,7 +112,7 @@ kind = "none"
 
 > #### Boons: Evangelist
 >
-> **Sources:** Book of the Damned pg 80
+> **Sources:** Book of the Damned pg 78
 >
 > 1. **Command Infernal Legions (Sp)** [command](ref/spell/command) 3/day,
 >   [blistering invective](ref/spell/blistering-invective) 2/day, or [witness](ref/spell/witness)
@@ -129,7 +129,7 @@ kind = "none"
 >
 > #### Boons: Exalted
 >
-> **Sources:** Book of the Damned pg 80
+> **Sources:** Book of the Damned pg 78
 >
 > 1. **Fires of Malebolge (Sp)** [burning hands](ref/spell/burning-hands) 3/day,
 >   [fire breath](ref/spell/fire-breath) 2/day, or [fireball](ref/spell/fireball) 1/day
@@ -151,7 +151,7 @@ kind = "none"
 >
 > #### Boons: Sentinel
 >
-> **Sources:** Book of the Damned pg 80
+> **Sources:** Book of the Damned pg 78
 >
 > 1. **Citadel Defender (Sp)** [enlarge person](ref/spell/enlarge-person) 3/day,
 >   [marching chant](ref/spell/marching-chant) 2/day, or
@@ -211,7 +211,7 @@ kind = "none"
 
 ## Description
 
-> **Sources:** Book of the Damned pg 80\
+> **Sources:** Book of the Damned pg 78\
 > Moloch is an embodiment of the most devastating, inhuman aspects of war - a creature of fearsome
 > spiked armor encrusted with the blood of countless opponents. His helm is shaped like a powerful
 > bull skull bearing a pair of bladed horns. Upon his chest he wears the severed wings of the angel

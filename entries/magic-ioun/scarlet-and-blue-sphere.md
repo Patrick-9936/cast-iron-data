@@ -17,7 +17,7 @@ publication = "ultimate-equipment"
 page = "305"
 [[sources]]
 publication = "seekers-of-secrets"
-page = "48"
+page = "47"
 
 [fields]
 kind = "item"
@@ -47,7 +47,7 @@ caster_level = "12th"
 
 ### Flawed Ioun Stone
 
-**Sources:** Seekers of Secrets pg 48\
+**Sources:** Seekers of Secrets pg 50\
 **Price** 6,000 gp\
 This stone grants a +2 enhancement bonus to Intelligence and a -2 penalty to Constitution.
 

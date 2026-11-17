@@ -17,7 +17,7 @@ publication = "ultimate-equipment"
 page = "305"
 [[sources]]
 publication = "seekers-of-secrets"
-page = "48"
+page = "47"
 
 [fields]
 kind = "item"
@@ -51,7 +51,7 @@ spell levels per day using this ability.
 
 ### Flawed Ioun Stone
 
-**Sources:** Seekers of Secrets pg 48\
+**Sources:** Seekers of Secrets pg 50\
 **Price** 36,000 gp\
 This stone stores three levels of spells, as a _ring of spell storing (minor),_ except casting
 spells out of the stone requires at least a full-round action.

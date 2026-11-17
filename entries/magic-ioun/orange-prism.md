@@ -17,7 +17,7 @@ publication = "ultimate-equipment"
 page = "305"
 [[sources]]
 publication = "seekers-of-secrets"
-page = "48"
+page = "47"
 
 [fields]
 kind = "item"
@@ -48,7 +48,7 @@ level granted by the normal power of the ioun stone) to his caster level.
 
 ### Flawed Ioun Stone
 
-**Sources:** Seekers of Secrets pg 48\
+**Sources:** Seekers of Secrets pg 50\
 **Price** 25,000 gp\
 This stone grants a +1 caster level and a -2 penalty to the wearer's primary casting ability score
 (Wisdom for clerics, Intelligence for wizards, and so on).

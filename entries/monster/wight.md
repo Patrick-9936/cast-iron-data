@@ -12,7 +12,7 @@ publication = "bestiary"
 page = "276"
 [[sources]]
 publication = "undead-revisited"
-page = "55"
+page = "58"
 
 [fields]
 kind = "creature"
@@ -151,7 +151,7 @@ natural weapons or unarmed strikes takes 1d6 cold damage.
 
 ### Variants
 
-**Sources:** Undead Revisited pg 55\
+**Sources:** Undead Revisited pg 62\
 Wights arise in many ways, and their particular origins often influence the abilities they possess.
 
 **Dust Wight (+1 CR):** Just as wights that rise from the dead in frozen environments can become
@@ -175,7 +175,7 @@ aren't holding their breath.
 
 ### Accursed Treasure
 
-**Sources:** Undead Revisited pg 55\
+**Sources:** Undead Revisited pg 61\
 A wight's treasure can become infused with its dark spirit, creating a gnawing, obsessive greed that
 saps the spirit and life of any creature that claims it. A character that possesses accursed wight
 treasure gains a number of negative levels equal to the total gp value of the stolen treasure

@@ -11,7 +11,7 @@ publication = "inner-sea-gods"
 page = "318"
 [[sources]]
 publication = "book-of-the-damned"
-page = "115"
+page = "112"
 
 [fields]
 kind = "none"
@@ -39,7 +39,7 @@ kind = "none"
 > Meditate while pondering various natural disasters such as earthquakes, mudslides, and wildfires.
 > Gain a +4 profane bonus on saving throws related to natural disasters.
 >
-> **Sources:** Book of the Damned pg 115\
+> **Sources:** Book of the Damned pg 112\
 > Abaddon's unique [daemons](ref/family/daemon) take on a host of titles, customized to their
 > methods and vanity. These harbingers enjoy sweeping influence among daemons as favored advisors,
 > and they work to cultivate their own cults on Abaddon and beyond.

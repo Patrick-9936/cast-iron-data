@@ -11,7 +11,7 @@ publication = "inner-sea-gods"
 page = "326"
 [[sources]]
 publication = "book-of-the-damned"
-page = "118"
+page = "117"
 
 [fields]
 kind = "none"
@@ -37,7 +37,7 @@ kind = "none"
 
 > Chew on pieces of undead flesh. Gain a +4 profane bonus on saves against negative energy effects.
 >
-> **Sources:** Book of the Damned pg 118\
+> **Sources:** Book of the Damned pg 117\
 > The Lords of Hell, the Dukes of Perdition, and the Princes of Damnation are all names for the
 > infamous nobility of the Pit: the elite caste of devilkind known as the infernal dukes.
 >

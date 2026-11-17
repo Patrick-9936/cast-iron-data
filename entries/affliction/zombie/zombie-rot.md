@@ -9,7 +9,7 @@ provenance = [
 ]
 [[sources]]
 publication = "classic-horrors-revisited"
-page = "25"
+page = "57"
 [[sources]]
 publication = "horror-realms"
 page = "33"

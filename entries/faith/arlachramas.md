@@ -11,7 +11,7 @@ publication = "inner-sea-gods"
 page = "318"
 [[sources]]
 publication = "book-of-the-damned"
-page = "115"
+page = "112"
 
 [fields]
 kind = "none"
@@ -38,7 +38,7 @@ kind = "none"
 > Pray over the body of one who died of sickness. Gain a +4 profane bonus on saving throws against
 > death effects.
 >
-> **Sources:** Book of the Damned pg 115\
+> **Sources:** Book of the Damned pg 112\
 > Abaddon's unique [daemons](ref/family/daemon) take on a host of titles, customized to their
 > methods and vanity. These harbingers enjoy sweeping influence among daemons as favored advisors,
 > and they work to cultivate their own cults on Abaddon and beyond.

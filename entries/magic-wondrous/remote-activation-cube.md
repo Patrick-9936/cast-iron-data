@@ -14,7 +14,7 @@ publication = "core-rulebook"
 page = "508"
 [[sources]]
 publication = "classic-treasures-revisited"
-page = "13"
+page = "14"
 
 [fields]
 kind = "item"
@@ -102,7 +102,7 @@ charges to the cube. The cube cannot hold more than 36 charges.
 
 ### Remote Activation Cube
 
-**Sources:** Classic Treasures Revisited pg 13\
+**Sources:** Classic Treasures Revisited pg 14\
 This cube of force can be activated or deactivated from a distance via use of the spell
 _[mage hand](ref/spell/mage-hand)_ or the [hand of the apprentice](ref/arcaneschool/universalist)
 ability. The antimagic wall and the wall that keeps out all things prevent remote deactivation in

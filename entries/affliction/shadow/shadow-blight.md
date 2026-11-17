@@ -9,7 +9,7 @@ provenance = [
 ]
 [[sources]]
 publication = "undead-revisited"
-page = "37"
+page = "50"
 
 [fields]
 kind = "none"

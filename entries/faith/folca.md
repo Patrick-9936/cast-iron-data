@@ -11,7 +11,7 @@ publication = "inner-sea-gods"
 page = "318"
 [[sources]]
 publication = "book-of-the-damned"
-page = "115"
+page = "112"
 
 [fields]
 kind = "none"
@@ -39,7 +39,7 @@ kind = "none"
 > will return, and then release him with that haunting thought. Gain a +2 profane bonus on
 > Charisma-based skill checks.
 >
-> **Sources:** Book of the Damned pg 115\
+> **Sources:** Book of the Damned pg 112\
 > Abaddon's unique [daemons](ref/family/daemon) take on a host of titles, customized to their
 > methods and vanity. These harbingers enjoy sweeping influence among daemons as favored advisors,
 > and they work to cultivate their own cults on Abaddon and beyond.

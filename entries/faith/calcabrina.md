@@ -11,7 +11,7 @@ publication = "inner-sea-gods"
 page = "326"
 [[sources]]
 publication = "book-of-the-damned"
-page = "123"
+page = "122"
 
 [fields]
 kind = "none"
@@ -39,7 +39,7 @@ kind = "none"
 > Inscribe a heinous nightmare you have had, and leave the note in a public place for another to
 > find. Gain a +4 profane bonus on saving throws against phantasms.
 >
-> **Sources:** Book of the Damned pg 123\
+> **Sources:** Book of the Damned pg 122\
 > Malebranche are horned devils transformed so as to conquer a mortal world in Hell's name. Many
 > malebranche exist in Hell's ranks, and they occupy a tier of power just below infernal dukes. All
 > malebranche are lawful evil and range in power from CR 21 to CR 25. The boons they grant are less

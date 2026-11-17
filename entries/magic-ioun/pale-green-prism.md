@@ -17,7 +17,7 @@ publication = "ultimate-equipment"
 page = "305"
 [[sources]]
 publication = "seekers-of-secrets"
-page = "48"
+page = "47"
 
 [fields]
 kind = "item"
@@ -48,7 +48,7 @@ from himself (or reduce the [exhausted](ref/misc/exhausted) condition to fatigue
 
 ### Flawed Ioun Stone
 
-**Sources:** Seekers of Secrets pg 48\
+**Sources:** Seekers of Secrets pg 50\
 **Price** 28,000 gp\
 This stone grants a +1 morale bonus on attack rolls, saves, skill checks, and ability checks.
 

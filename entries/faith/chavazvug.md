@@ -11,7 +11,7 @@ publication = "inner-sea-gods"
 page = "328"
 [[sources]]
 publication = "book-of-the-damned"
-page = "129"
+page = "128"
 
 [fields]
 kind = "none"
@@ -40,7 +40,7 @@ kind = "none"
 > Torture a living creature with red-hot brands or small fires, and meditate on the cries of pain
 > and scent of scorched flesh. Gain a +4 profane bonus on saving throws against fire-based effects.
 >
-> **Sources:** Book of the Damned pg 129\
+> **Sources:** Book of the Damned pg 128\
 > Qlippoth lords are always chaotic evil and range in power from CR 21 to CR 25. It's quite likely
 > that more powerful creatures akin to demigods in stature may still exist in the deepest parts of
 > the Abyss, but such qlippoth demigods remain theoretical for now, and they do not maintain active

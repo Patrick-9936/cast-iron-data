@@ -14,7 +14,7 @@ publication = "book-of-the-damned"
 page = "58"
 [[sources]]
 publication = "book-of-the-damned-volume-2-lords-of-chaos"
-page = "14"
+page = "17"
 
 [fields]
 kind = "none"
@@ -115,7 +115,7 @@ kind = "none"
 
 ## Description
 
-> **Sources:** Book of the Damned pg 58, Book of the Damned - Volume 2: Lords of Chaos pg 14\
+> **Sources:** Book of the Damned pg 58, Book of the Damned - Volume 2: Lords of Chaos pg 17\
 > In certain rural areas, particularly in the region of Darkmoon Vale or within the gloomy woodlands
 > of Lozeri in northern Ustalav, the howls of wolves carry an additional implied threat when they
 > echo across the land on nights of the full moon. Here, stories of werewolves and their bloody
