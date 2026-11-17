@@ -3,7 +3,7 @@ id = "ref/spell/gate"
 kind = "spell"
 title = "Gate"
 aon = "SpellDisplay.aspx?ItemName=Gate"
-source_ids = ["core-rulebook", "ultimate-wilderness", "the-first-world-realm-of-the-fey"]
+source_ids = ["core-rulebook", "the-first-world-realm-of-the-fey"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "gate", path = "json/spells13.json" },
 ]
@@ -13,9 +13,6 @@ page = "287"
 [[sources]]
 publication = "the-first-world-realm-of-the-fey"
 page = "12"
-[[sources]]
-publication = "ultimate-wilderness"
-page = "230"
 
 [fields]
 kind = "spell"

@@ -3,16 +3,13 @@ id = "ref/spell/heroism"
 kind = "spell"
 title = "Heroism"
 aon = "SpellDisplay.aspx?ItemName=Heroism"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "heroism", path = "json/spells5.json" },
 ]
 [[sources]]
 publication = "core-rulebook"
 page = "295"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "216"
 
 [fields]
 kind = "spell"

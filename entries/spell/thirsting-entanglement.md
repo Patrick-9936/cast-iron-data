@@ -3,7 +3,7 @@ id = "ref/spell/thirsting-entanglement"
 kind = "spell"
 title = "Thirsting Entanglement"
 aon = "SpellDisplay.aspx?ItemName=Thirsting%20Entanglement"
-source_ids = ["core-rulebook", "villain-codex", "advanced-class-guide", "legacy-of-the-first-world"]
+source_ids = ["core-rulebook", "advanced-class-guide", "legacy-of-the-first-world"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "thirsting_entanglement", path = "json/spells4.json" },
 ]
@@ -16,9 +16,6 @@ page = "17"
 [[sources]]
 publication = "advanced-class-guide"
 page = "192"
-[[sources]]
-publication = "villain-codex"
-page = "140"
 
 [fields]
 kind = "spell"

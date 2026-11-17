@@ -3,7 +3,7 @@ id = "ref/spell/detect-magic"
 kind = "spell"
 title = "Detect Magic"
 aon = "SpellDisplay.aspx?ItemName=detect%20magic"
-source_ids = ["core-rulebook", "adventurers-guide", "andoran-spirit-of-liberty", "ultimate-intrigue", "potions-and-poisons"]
+source_ids = ["core-rulebook", "adventurers-guide", "andoran-spirit-of-liberty", "potions-and-poisons"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "detect_magic", path = "json/spells3.json" },
 ]
@@ -19,9 +19,6 @@ page = "27"
 [[sources]]
 publication = "potions-and-poisons"
 page = "17"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "212"
 
 [fields]
 kind = "spell"

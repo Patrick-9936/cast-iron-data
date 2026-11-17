@@ -3,16 +3,13 @@ id = "ref/spell/detect-thoughts"
 kind = "spell"
 title = "Detect Thoughts"
 aon = "SpellDisplay.aspx?ItemName=Detect%20Thoughts"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "detect_thoughts", path = "json/spells3.json" },
 ]
 [[sources]]
 publication = "core-rulebook"
 page = "268"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "211"
 
 [fields]
 kind = "spell"
