@@ -6,6 +6,24 @@ source_ids = ["familiar-folio", "faiths-and-philosophies", "ultimate-combat", "a
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "feats_class", path = "json/rules_basics01.json" },
 ]
+[[sources]]
+publication = "advanced-class-guide"
+page = "136"
+[[sources]]
+publication = "faiths-and-philosophies"
+page = "19"
+[[sources]]
+publication = "familiar-folio"
+page = "18"
+[[sources]]
+publication = "magic-tactics-toolbox"
+page = "28"
+[[sources]]
+publication = "occult-adventures"
+page = "128"
+[[sources]]
+publication = "psychic-anthology"
+page = "16"
 
 [fields]
 kind = "none"

@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "219"
+[[sources]]
+publication = "adventurers-guide"
+page = "37"
 
 [fields]
 kind = "spell"

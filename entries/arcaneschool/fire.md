@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "advanced-players-guide"
 page = "142"
+[[sources]]
+publication = "elemental-masters-handbook"
+page = "21"
 
 [fields]
 kind = "class_option"

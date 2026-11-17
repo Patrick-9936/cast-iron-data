@@ -13,6 +13,9 @@ page = "296"
 [[sources]]
 publication = "gods-and-magic"
 page = "35"
+[[sources]]
+publication = "inner-sea-gods"
+page = "240"
 
 [fields]
 kind = "spell"

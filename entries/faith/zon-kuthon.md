@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "164"
+[[sources]]
+publication = "pathfinder-11-skeletons-of-scarwall"
+page = "69"
+[[sources]]
+publication = "planar-adventures"
+page = "81"
 
 [fields]
 kind = "none"

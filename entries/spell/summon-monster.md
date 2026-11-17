@@ -6,6 +6,9 @@ source_ids = ["core-rulebook", "monster-summoners-handbook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "summon_monster", path = "json/spells16.json" },
 ]
+[[sources]]
+publication = "monster-summoners-handbook"
+page = "18"
 
 [fields]
 kind = "spell"

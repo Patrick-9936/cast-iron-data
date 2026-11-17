@@ -10,6 +10,12 @@ provenance = [
 relations = [
   { kind = "variant", target = "ref/spell/magic-jar" },
 ]
+[[sources]]
+publication = "book-of-the-damned"
+page = "185"
+[[sources]]
+publication = "book-of-the-damned-volume-3-horsemen-of-the-apocalypse"
+page = "39"
 
 [fields]
 kind = "spell"

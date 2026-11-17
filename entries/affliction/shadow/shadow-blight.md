@@ -7,6 +7,9 @@ parent = "ref/monster/shadow"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "shadow|affliction:shadow-blight", path = "json/monsters21.json" },
 ]
+[[sources]]
+publication = "undead-revisited"
+page = "37"
 
 [fields]
 kind = "none"

@@ -12,6 +12,9 @@ page = "80"
 [[sources]]
 publication = "ultimate-equipment"
 page = "93"
+[[sources]]
+publication = "wilderness-origins"
+page = "23"
 
 [fields]
 kind = "item"

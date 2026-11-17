@@ -6,6 +6,24 @@ source_ids = ["martial-arts-handbook", "planar-adventures", "horror-adventures",
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "feats_other", path = "json/rules_basics01.json" },
 ]
+[[sources]]
+publication = "horror-adventures"
+page = "78"
+[[sources]]
+publication = "martial-arts-handbook"
+page = "26"
+[[sources]]
+publication = "pathfinder-139-the-dead-road"
+page = "73"
+[[sources]]
+publication = "planar-adventures"
+page = "22"
+[[sources]]
+publication = "plane-hoppers-handbook"
+page = "16"
+[[sources]]
+publication = "potions-and-poisons"
+page = "16"
 
 [fields]
 kind = "none"

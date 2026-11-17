@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "dragon-empires-gazetteer"
 page = "58"
+[[sources]]
+publication = "legacy-of-dragons"
+page = "31"
 
 [fields]
 kind = "none"

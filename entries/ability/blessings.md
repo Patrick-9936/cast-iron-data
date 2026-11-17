@@ -8,6 +8,9 @@ provenance = [
 ]
 [[sources]]
 publication = "advanced-class-guide"
+[[sources]]
+publication = "ultimate-wilderness"
+page = "97"
 
 [fields]
 kind = "none"

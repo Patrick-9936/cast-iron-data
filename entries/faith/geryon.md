@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "pathfinder-107-scourge-of-the-godclaw"
 page = "73"
+[[sources]]
+publication = "book-of-the-damned"
+page = "52"
 
 [fields]
 kind = "none"

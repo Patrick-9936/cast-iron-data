@@ -14,6 +14,9 @@ page = "234"
 [[sources]]
 publication = "distant-shores"
 page = "22"
+[[sources]]
+publication = "plane-hoppers-handbook"
+page = "18"
 
 [fields]
 kind = "none"

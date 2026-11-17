@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "330"
+[[sources]]
+publication = "dark-markets-a-guide-to-katapesh"
+page = "57"
 
 [fields]
 kind = "spell"

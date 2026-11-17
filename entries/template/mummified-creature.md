@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "bestiary-4"
 page = "197"
+[[sources]]
+publication = "pathfinder-81-shifting-sands"
+page = "71"
 
 [fields]
 kind = "none"

@@ -9,6 +9,15 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "320"
+[[sources]]
+publication = "book-of-the-damned"
+page = "30"
+[[sources]]
+publication = "book-of-the-damned-volume-2-lords-of-chaos"
+page = "12"
+[[sources]]
+publication = "pathfinder-77-herald-of-the-ivory-labyrinth"
+page = "70"
 
 [fields]
 kind = "none"

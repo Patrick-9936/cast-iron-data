@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "322"
+[[sources]]
+publication = "chronicle-of-the-righteous"
+page = "8"
+[[sources]]
+publication = "pathfinder-134-it-came-from-hollow-mountain"
+page = "73"
 
 [fields]
 kind = "none"

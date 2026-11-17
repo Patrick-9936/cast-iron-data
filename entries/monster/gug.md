@@ -13,6 +13,9 @@ page = "151"
 [[sources]]
 publication = "pathfinder-11-skeletons-of-scarwall"
 page = "82"
+[[sources]]
+publication = "darklands-revisited"
+page = "19"
 
 [fields]
 kind = "creature"

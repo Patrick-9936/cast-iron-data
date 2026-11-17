@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "76"
+[[sources]]
+publication = "pathfinder-26-the-sixfold-trial"
+page = "71"
+[[sources]]
+publication = "planar-adventures"
+page = "77"
 
 [fields]
 kind = "none"

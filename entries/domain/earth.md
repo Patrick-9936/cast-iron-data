@@ -10,6 +10,12 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "43"
+[[sources]]
+publication = "divine-anthology"
+page = "25"
+[[sources]]
+publication = "kobolds-of-golarion"
+page = "13"
 
 [fields]
 kind = "class_option"

@@ -12,6 +12,9 @@ page = "49"
 [[sources]]
 publication = "core-rulebook"
 page = "154"
+[[sources]]
+publication = "dragonslayers-handbook"
+page = "19"
 
 [fields]
 kind = "item"

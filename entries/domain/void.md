@@ -21,6 +21,15 @@ page = "134"
 [[sources]]
 publication = "inner-sea-world-guide"
 page = "217"
+[[sources]]
+publication = "inner-sea-gods"
+page = "224"
+[[sources]]
+publication = "pathfinder-46-wake-of-the-watcher"
+page = "62"
+[[sources]]
+publication = "people-of-the-stars"
+page = "23"
 
 [fields]
 kind = "class_option"

@@ -13,6 +13,9 @@ page = "12"
 [[sources]]
 publication = "bonus-bestiary"
 page = "4"
+[[sources]]
+publication = "undead-revisited"
+page = "55"
 
 [fields]
 kind = "creature"

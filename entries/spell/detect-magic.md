@@ -10,6 +10,18 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "267"
+[[sources]]
+publication = "adventurers-guide"
+page = "77"
+[[sources]]
+publication = "andoran-spirit-of-liberty"
+page = "27"
+[[sources]]
+publication = "potions-and-poisons"
+page = "17"
+[[sources]]
+publication = "ultimate-intrigue"
+page = "212"
 
 [fields]
 kind = "spell"

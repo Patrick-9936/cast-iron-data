@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "pathfinder-105-the-inferno-gate"
 page = "68"
+[[sources]]
+publication = "book-of-the-damned"
+page = "80"
 
 [fields]
 kind = "none"

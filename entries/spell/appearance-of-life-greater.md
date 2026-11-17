@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "villain-codex"
 page = "8"
+[[sources]]
+publication = "horror-adventures"
+page = "108"
 
 [fields]
 kind = "spell"

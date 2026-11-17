@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "occult-origins"
 page = "13"
+[[sources]]
+publication = "occult-adventures"
+page = "188"
 
 [fields]
 kind = "spell"

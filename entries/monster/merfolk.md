@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "bestiary"
 page = "204"
+[[sources]]
+publication = "pathfinder-124-city-in-the-deep"
+page = "75"
 
 [fields]
 kind = "creature"

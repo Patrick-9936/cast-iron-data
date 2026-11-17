@@ -10,6 +10,12 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "46"
+[[sources]]
+publication = "champions-of-balance"
+page = "17"
+[[sources]]
+publication = "heroes-of-the-streets"
+page = "18"
 
 [fields]
 kind = "class_option"

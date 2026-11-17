@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "45"
+[[sources]]
+publication = "champions-of-purity"
+page = "21"
 
 [fields]
 kind = "class_option"

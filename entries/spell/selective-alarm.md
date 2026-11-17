@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "224"
+[[sources]]
+publication = "villain-codex"
+page = "45"
 
 [fields]
 kind = "spell"

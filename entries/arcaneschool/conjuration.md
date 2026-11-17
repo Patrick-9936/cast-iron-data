@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "80"
+[[sources]]
+publication = "black-markets"
+page = "26"
+[[sources]]
+publication = "inner-sea-primer"
+page = "29"
 
 [fields]
 kind = "class_option"

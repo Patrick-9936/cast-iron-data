@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "bestiary-2"
 page = "286"
+[[sources]]
+publication = "pathfinder-75-demons-heresy"
+page = "74"
 
 [fields]
 kind = "none"

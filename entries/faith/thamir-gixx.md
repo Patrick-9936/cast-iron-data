@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "324"
+[[sources]]
+publication = "gods-and-magic"
+page = "52"
+[[sources]]
+publication = "pathfinder-131-the-reapers-right-hand"
+page = "72"
 
 [fields]
 kind = "none"

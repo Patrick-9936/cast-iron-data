@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "pathfinder-109-in-search-of-sanity"
 page = "70"
+[[sources]]
+publication = "pathfinder-46-wake-of-the-watcher"
+page = "66"
 
 [fields]
 kind = "none"

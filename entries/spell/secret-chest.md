@@ -10,6 +10,12 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "338"
+[[sources]]
+publication = "black-markets"
+page = "31"
+[[sources]]
+publication = "heroes-of-the-streets"
+page = "31"
 
 [fields]
 kind = "spell"

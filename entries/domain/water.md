@@ -9,6 +9,21 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "48"
+[[sources]]
+publication = "book-of-the-damned"
+page = "180"
+[[sources]]
+publication = "champions-of-balance"
+page = "17"
+[[sources]]
+publication = "goblins-of-golarion"
+page = "27"
+[[sources]]
+publication = "inner-sea-gods"
+page = "225"
+[[sources]]
+publication = "pathfinder-80-empty-graves"
+page = "65"
 
 [fields]
 kind = "class_option"

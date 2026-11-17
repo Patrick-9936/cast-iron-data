@@ -13,6 +13,12 @@ relations = [
 [[sources]]
 publication = "core-rulebook"
 page = "241"
+[[sources]]
+publication = "animal-archive"
+page = "25"
+[[sources]]
+publication = "ultimate-wilderness"
+page = "231"
 
 [fields]
 kind = "spell"

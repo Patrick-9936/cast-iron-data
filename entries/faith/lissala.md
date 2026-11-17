@@ -9,6 +9,15 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "316"
+[[sources]]
+publication = "inner-sea-world-guide"
+page = "235"
+[[sources]]
+publication = "pathfinder-65-into-the-nightmare-rift"
+page = "75"
+[[sources]]
+publication = "planar-adventures"
+page = "174"
 
 [fields]
 kind = "none"

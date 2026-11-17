@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "bestiary-2"
 page = "230"
+[[sources]]
+publication = "undead-revisited"
+page = "43"
 
 [fields]
 kind = "none"

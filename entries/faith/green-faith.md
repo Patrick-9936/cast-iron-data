@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "pathfinder-75-demons-heresy"
 page = "64"
+[[sources]]
+publication = "faiths-and-philosophies"
+page = "10"
 
 [fields]
 kind = "none"

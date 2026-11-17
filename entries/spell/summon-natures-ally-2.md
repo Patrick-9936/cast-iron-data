@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "core-rulebook"
 page = "354"
+[[sources]]
+publication = "inner-sea-races"
+page = "223"
 
 [fields]
 kind = "spell"

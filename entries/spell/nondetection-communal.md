@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "ultimate-combat"
 page = "238"
+[[sources]]
+publication = "inner-sea-intrigue"
+page = "60"
 
 [fields]
 kind = "spell"

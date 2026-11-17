@@ -9,6 +9,15 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "79"
+[[sources]]
+publication = "adventurers-guide"
+page = "63"
+[[sources]]
+publication = "elemental-masters-handbook"
+page = "21"
+[[sources]]
+publication = "inner-sea-magic"
+page = "17"
 
 [fields]
 kind = "none"

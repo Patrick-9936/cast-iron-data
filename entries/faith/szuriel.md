@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "326"
+[[sources]]
+publication = "book-of-the-damned"
+page = "96"
+[[sources]]
+publication = "pathfinder-71-rasputin-must-die"
+page = "70"
 
 [fields]
 kind = "none"

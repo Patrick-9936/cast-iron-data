@@ -7,6 +7,12 @@ parent = "ref/template/zombie"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "zombie|affliction:zombie-rot", path = "json/monster_template4.json" },
 ]
+[[sources]]
+publication = "classic-horrors-revisited"
+page = "25"
+[[sources]]
+publication = "horror-realms"
+page = "33"
 
 [fields]
 kind = "none"

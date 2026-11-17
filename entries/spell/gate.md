@@ -10,6 +10,12 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "287"
+[[sources]]
+publication = "the-first-world-realm-of-the-fey"
+page = "12"
+[[sources]]
+publication = "ultimate-wilderness"
+page = "230"
 
 [fields]
 kind = "spell"

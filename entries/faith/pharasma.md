@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "116"
+[[sources]]
+publication = "pathfinder-44-trial-of-the-beast"
+page = "69"
+[[sources]]
+publication = "planar-adventures"
+page = "79"
 
 [fields]
 kind = "none"

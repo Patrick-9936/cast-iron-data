@@ -13,6 +13,9 @@ page = "89"
 [[sources]]
 publication = "core-rulebook"
 page = "159"
+[[sources]]
+publication = "adventurers-armory"
+page = "19"
 
 [fields]
 kind = "item"

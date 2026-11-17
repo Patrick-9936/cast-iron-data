@@ -8,6 +8,9 @@ provenance = [
 ]
 [[sources]]
 publication = "occult-adventures"
+[[sources]]
+publication = "occult-origins"
+page = "15"
 
 [fields]
 kind = "none"

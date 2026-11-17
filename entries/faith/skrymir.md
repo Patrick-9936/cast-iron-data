@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "324"
+[[sources]]
+publication = "giants-revisited"
+page = "54"
 
 [fields]
 kind = "none"

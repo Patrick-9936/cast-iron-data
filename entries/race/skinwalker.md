@@ -17,6 +17,9 @@ page = "248"
 [[sources]]
 publication = "blood-of-the-moon"
 page = "6"
+[[sources]]
+publication = "pathfinder-115-trail-of-the-hunted"
+page = "89"
 
 [fields]
 kind = "none"

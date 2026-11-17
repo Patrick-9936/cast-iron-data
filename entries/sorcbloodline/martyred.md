@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "blood-of-angels"
 page = "29"
+[[sources]]
+publication = "people-of-the-river"
+page = "11"
 
 [fields]
 kind = "class_option"

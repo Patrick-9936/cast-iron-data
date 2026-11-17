@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "430"
+[[sources]]
+publication = "rise-of-the-runelords-anniversary-edition"
+page = "340"
 
 [fields]
 kind = "none"

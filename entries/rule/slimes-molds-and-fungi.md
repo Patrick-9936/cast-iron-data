@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "415"
+[[sources]]
+publication = "darklands-revisited"
+page = "61"
 
 [fields]
 kind = "none"

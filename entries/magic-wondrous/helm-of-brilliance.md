@@ -12,6 +12,9 @@ page = "243"
 [[sources]]
 publication = "core-rulebook"
 page = "518"
+[[sources]]
+publication = "classic-treasures-revisited"
+page = "31"
 
 [fields]
 kind = "item"

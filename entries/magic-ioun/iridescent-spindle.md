@@ -15,6 +15,9 @@ page = "521"
 [[sources]]
 publication = "ultimate-equipment"
 page = "305"
+[[sources]]
+publication = "seekers-of-secrets"
+page = "47"
 
 [fields]
 kind = "item"

@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "56"
+[[sources]]
+publication = "ultimate-wilderness"
+page = "51"
 
 [fields]
 kind = "none"

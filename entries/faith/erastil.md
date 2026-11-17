@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "52"
+[[sources]]
+publication = "pathfinder-32-rivers-run-red"
+page = "71"
+[[sources]]
+publication = "planar-adventures"
+page = "76"
 
 [fields]
 kind = "none"

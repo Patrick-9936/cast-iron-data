@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "advanced-players-guide"
 page = "204"
+[[sources]]
+publication = "villain-codex"
+page = "188"
 
 [fields]
 kind = "spell"

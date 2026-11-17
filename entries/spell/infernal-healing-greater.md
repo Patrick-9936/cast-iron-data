@@ -13,6 +13,15 @@ relations = [
 [[sources]]
 publication = "hells-vengeance-players-guide"
 page = "11"
+[[sources]]
+publication = "gods-and-magic"
+page = "7"
+[[sources]]
+publication = "inner-sea-world-guide"
+page = "295"
+[[sources]]
+publication = "pathfinder-29-mother-of-flies"
+page = "67"
 
 [fields]
 kind = "spell"

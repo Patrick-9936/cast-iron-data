@@ -6,6 +6,57 @@ source_ids = ["blood-of-the-sea", "inner-sea-races", "iron-gods-players-guide", 
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "rare_races", path = "json/rules_basics01.json" },
 ]
+[[sources]]
+publication = "bestiary-5"
+page = "37"
+[[sources]]
+publication = "bestiary-6"
+page = "138"
+[[sources]]
+publication = "blood-of-the-moon"
+page = "6"
+[[sources]]
+publication = "blood-of-the-sea"
+page = "16"
+[[sources]]
+publication = "darklands-revisited"
+page = "37"
+[[sources]]
+publication = "distant-shores"
+page = "22"
+[[sources]]
+publication = "inner-sea-bestiary"
+page = "14"
+[[sources]]
+publication = "inner-sea-races"
+page = "239"
+[[sources]]
+publication = "iron-gods-players-guide"
+page = "6"
+[[sources]]
+publication = "isles-of-the-shackles"
+page = "51"
+[[sources]]
+publication = "occult-bestiary"
+page = "23"
+[[sources]]
+publication = "pathfinder-111-dreams-of-the-yellow-king"
+page = "87"
+[[sources]]
+publication = "pathfinder-70-the-frozen-stars"
+page = "86"
+[[sources]]
+publication = "pathfinder-84-pyramid-of-the-sky-pharaoh"
+page = "90"
+[[sources]]
+publication = "people-of-the-stars"
+page = "8"
+[[sources]]
+publication = "planar-adventures"
+page = "224"
+[[sources]]
+publication = "ultimate-wilderness"
+page = "9"
 
 [fields]
 kind = "none"

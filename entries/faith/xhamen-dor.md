@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "pathfinder-113-what-grows-within"
 page = "65"
+[[sources]]
+publication = "pathfinder-109-in-search-of-sanity"
+page = "72"
 
 [fields]
 kind = "none"

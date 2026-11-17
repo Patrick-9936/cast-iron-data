@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "93"
+[[sources]]
+publication = "inner-sea-intrigue"
+page = "16"
 
 [fields]
 kind = "feat"

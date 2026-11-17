@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "advanced-race-guide"
 page = "36"
+[[sources]]
+publication = "adventurers-armory"
+page = "19"
 
 [fields]
 kind = "item"

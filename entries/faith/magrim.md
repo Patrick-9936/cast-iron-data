@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "320"
+[[sources]]
+publication = "faiths-of-golarion"
+page = "41"
 
 [fields]
 kind = "none"

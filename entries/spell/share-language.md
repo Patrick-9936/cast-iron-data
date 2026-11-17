@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "advanced-players-guide"
 page = "243"
+[[sources]]
+publication = "black-markets"
+page = "24"
 
 [fields]
 kind = "spell"

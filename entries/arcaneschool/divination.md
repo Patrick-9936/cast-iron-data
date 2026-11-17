@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "80"
+[[sources]]
+publication = "disciples-doctrine"
+page = "10"
 
 [fields]
 kind = "class_option"

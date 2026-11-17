@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "ultimate-equipment"
 page = "81"
+[[sources]]
+publication = "knights-of-the-inner-sea"
+page = "33"
+[[sources]]
+publication = "wilderness-origins"
+page = "23"
 
 [fields]
 kind = "item"

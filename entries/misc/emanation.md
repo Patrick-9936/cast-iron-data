@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "214"
+[[sources]]
+publication = "pathfinder-91-battle-of-bloodmarch-hills"
+page = "72"
 
 [fields]
 kind = "none"

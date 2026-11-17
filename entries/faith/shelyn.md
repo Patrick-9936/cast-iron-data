@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "140"
+[[sources]]
+publication = "pathfinder-50-night-of-frozen-shadows"
+page = "75"
+[[sources]]
+publication = "planar-adventures"
+page = "80"
 
 [fields]
 kind = "none"

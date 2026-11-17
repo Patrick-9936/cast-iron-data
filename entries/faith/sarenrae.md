@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "132"
+[[sources]]
+publication = "pathfinder-20-house-of-the-beast"
+page = "62"
+[[sources]]
+publication = "planar-adventures"
+page = "80"
 
 [fields]
 kind = "none"

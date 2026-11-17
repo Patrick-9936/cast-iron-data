@@ -6,6 +6,12 @@ source_ids = ["advanced-players-guide", "champions-of-corruption", "blood-of-the
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "feats_multiperson", path = "json/rules_basics01.json" },
 ]
+[[sources]]
+publication = "blood-of-the-coven"
+page = "13"
+[[sources]]
+publication = "champions-of-corruption"
+page = "22"
 
 [fields]
 kind = "none"

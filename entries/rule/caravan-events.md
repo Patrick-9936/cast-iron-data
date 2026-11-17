@@ -6,6 +6,9 @@ source_ids = ["pathfinder-49-the-brinewall-legacy"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "caravan_events", path = "json/rules_campaign_types01.json" },
 ]
+[[sources]]
+publication = "pathfinder-49-the-brinewall-legacy"
+page = "81"
 
 [fields]
 kind = "none"

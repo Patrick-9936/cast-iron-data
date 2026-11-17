@@ -9,6 +9,18 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "43"
+[[sources]]
+publication = "book-of-the-damned"
+page = "182"
+[[sources]]
+publication = "champions-of-corruption"
+page = "19"
+[[sources]]
+publication = "goblins-of-golarion"
+page = "27"
+[[sources]]
+publication = "inner-sea-gods"
+page = "227"
 
 [fields]
 kind = "class_option"

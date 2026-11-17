@@ -12,6 +12,9 @@ publication = "core-rulebook"
 page = "60"
 [[sources]]
 publication = "advanced-players-guide"
+[[sources]]
+publication = "healers-handbook"
+page = "25"
 
 [fields]
 kind = "class"

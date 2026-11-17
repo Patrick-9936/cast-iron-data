@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "jade-regent-players-guide"
 page = "18"
+[[sources]]
+publication = "pathfinder-51-the-hungry-storm"
+page = "68"
+[[sources]]
+publication = "pathfinder-54-the-empty-throne"
+page = "83"
 
 [fields]
 kind = "none"

@@ -9,6 +9,15 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "12"
+[[sources]]
+publication = "inner-sea-temples"
+page = "33"
+[[sources]]
+publication = "pathfinder-8-seven-days-to-the-grave"
+page = "67"
+[[sources]]
+publication = "planar-adventures"
+page = "74"
 
 [fields]
 kind = "none"

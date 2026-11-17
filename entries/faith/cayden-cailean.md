@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "36"
+[[sources]]
+publication = "pathfinder-14-children-of-the-void"
+page = "61"
+[[sources]]
+publication = "planar-adventures"
+page = "75"
 
 [fields]
 kind = "none"

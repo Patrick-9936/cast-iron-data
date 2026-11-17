@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "100"
+[[sources]]
+publication = "pathfinder-41-the-thousand-fangs-below"
+page = "73"
+[[sources]]
+publication = "planar-adventures"
+page = "78"
 
 [fields]
 kind = "none"

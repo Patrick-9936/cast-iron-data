@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "61"
+[[sources]]
+publication = "blood-of-the-beast"
+page = "7"
 
 [fields]
 kind = "archetype"

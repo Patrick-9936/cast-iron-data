@@ -13,6 +13,12 @@ relations = [
 [[sources]]
 publication = "advanced-class-guide"
 page = "192"
+[[sources]]
+publication = "legacy-of-the-first-world"
+page = "17"
+[[sources]]
+publication = "villain-codex"
+page = "140"
 
 [fields]
 kind = "spell"

@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "324"
+[[sources]]
+publication = "gods-and-magic"
+page = "49"
 
 [fields]
 kind = "none"

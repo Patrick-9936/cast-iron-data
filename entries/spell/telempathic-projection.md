@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "occult-adventures"
 page = "188"
+[[sources]]
+publication = "occult-origins"
+page = "13"
 
 [fields]
 kind = "spell"

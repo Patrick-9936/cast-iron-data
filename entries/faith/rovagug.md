@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "124"
+[[sources]]
+publication = "pathfinder-23-the-impossible-eye"
+page = "65"
+[[sources]]
+publication = "planar-adventures"
+page = "79"
 
 [fields]
 kind = "none"

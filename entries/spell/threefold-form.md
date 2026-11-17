@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "legacy-of-the-first-world"
 page = "25"
+[[sources]]
+publication = "occult-adventures"
+page = "158"
 
 [fields]
 kind = "spell"

@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "47"
+[[sources]]
+publication = "divine-anthology"
+page = "25"
 
 [fields]
 kind = "class_option"

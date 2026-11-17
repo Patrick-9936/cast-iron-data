@@ -15,6 +15,12 @@ page = "159"
 [[sources]]
 publication = "adventurers-armory"
 page = "19"
+[[sources]]
+publication = "knights-of-the-inner-sea"
+page = "33"
+[[sources]]
+publication = "wilderness-origins"
+page = "23"
 
 [fields]
 kind = "item"

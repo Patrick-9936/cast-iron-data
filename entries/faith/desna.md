@@ -9,6 +9,15 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "44"
+[[sources]]
+publication = "monster-summoners-handbook"
+page = "30"
+[[sources]]
+publication = "pathfinder-2-the-skinsaw-murders"
+page = "72"
+[[sources]]
+publication = "planar-adventures"
+page = "75"
 
 [fields]
 kind = "none"

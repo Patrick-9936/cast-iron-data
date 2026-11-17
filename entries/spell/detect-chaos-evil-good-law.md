@@ -6,6 +6,9 @@ source_ids = ["core-rulebook", "agents-of-evil"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "detect_chaos_evil_good_law", path = "json/spells3.json" },
 ]
+[[sources]]
+publication = "agents-of-evil"
+page = "16"
 
 [fields]
 kind = "spell"

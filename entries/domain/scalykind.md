@@ -18,6 +18,12 @@ page = "69"
 [[sources]]
 publication = "gods-and-magic"
 page = "51"
+[[sources]]
+publication = "champions-of-purity"
+page = "20"
+[[sources]]
+publication = "inner-sea-gods"
+page = "224"
 
 [fields]
 kind = "class_option"

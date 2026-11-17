@@ -7,6 +7,9 @@ source_ids = ["bestiary-6"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "trailgaunt", path = "json/monsters23.json" },
 ]
+[[sources]]
+publication = "bestiary-6"
+page = "264"
 
 [fields]
 kind = "creature"

@@ -20,6 +20,9 @@ page = "84"
 [[sources]]
 publication = "advanced-race-guide"
 page = "184"
+[[sources]]
+publication = "blood-of-the-coven"
+page = "13"
 
 [fields]
 kind = "none"

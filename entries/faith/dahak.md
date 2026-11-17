@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-faiths"
 page = "35"
+[[sources]]
+publication = "legacy-of-dragons"
+page = "28"
 
 [fields]
 kind = "none"
