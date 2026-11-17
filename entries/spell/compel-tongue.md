@@ -3,7 +3,7 @@ id = "ref/spell/compel-tongue"
 kind = "spell"
 title = "Compel Tongue"
 aon = "SpellDisplay.aspx?ItemName=Compel%20Tongue"
-source_ids = ["advanced-players-guide", "black-markets", "ultimate-combat"]
+source_ids = ["advanced-players-guide", "black-markets"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "compel_tongue", path = "json/spells9.json" },
 ]

@@ -2,7 +2,7 @@
 id = "ref/rule/rule-sanity-and-madness/types-of-insanity"
 kind = "rule"
 title = "Types of Insanity"
-source_ids = ["game-mastery-guide", "horror-adventures"]
+source_ids = ["game-mastery-guide"]
 section = ["Sanity and Madness"]
 parent = "ref/rule/sanity-and-madness"
 provenance = [

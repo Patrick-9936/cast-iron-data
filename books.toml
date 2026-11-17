@@ -50383,10 +50383,6 @@ title = "Darkvision"
 entry = "ref/spell/darkvision"
 
 [[books.chapters.children]]
-title = "Greater Darkvision"
-entry = "ref/spell/darkvision-greater"
-
-[[books.chapters.children]]
 title = "Delay Poison"
 entry = "ref/spell/delay-poison"
 
@@ -50411,16 +50407,8 @@ title = "Greater Peacebond"
 entry = "ref/spell/peacebond-greater"
 
 [[books.chapters.children]]
-title = "Nex's Secret Workshop"
-entry = "ref/spell/nexs-secret-workshop"
-
-[[books.chapters.children]]
 title = "Nondetection"
 entry = "ref/spell/nondetection"
-
-[[books.chapters.children]]
-title = "Flame Steed"
-entry = "ref/spell/flame-steed"
 
 [[books.chapters.children]]
 title = "Phantom Steed"
@@ -50457,10 +50445,6 @@ entry = "ref/spell/protection-from-law"
 [[books.chapters.children]]
 title = "Resist Energy"
 entry = "ref/spell/resist-energy"
-
-[[books.chapters.children]]
-title = "Compel Tongue"
-entry = "ref/spell/compel-tongue"
 
 [[books.chapters.children]]
 title = "Mass Compel Tongue"
@@ -65914,10 +65898,6 @@ entry = "ref/spell/conditional-curse"
 [[books.chapters.children]]
 title = "Greater Bestow Curse"
 entry = "ref/spell/bestow-curse-greater"
-
-[[books.chapters.children]]
-title = "Communal Darkvision"
-entry = "ref/spell/darkvision-communal"
 
 [[books.chapters.children]]
 title = "Darkvision"
@@ -84912,10 +84892,6 @@ entry = "ref/monster/hag-mute-hag"
 [[books.chapters.children]]
 title = "Sea Hag"
 entry = "ref/monster/hag-sea-hag"
-
-[[books.chapters.children.children]]
-title = "Evil Eye Curse"
-entry = "ref/affliction/hag-sea-hag/evil-eye-curse"
 
 [[books.chapters.children]]
 title = "Storm Hag"
@@ -109017,14 +108993,6 @@ entry = "ref/rule/sanguinary-cloud"
 [[books.chapters.children]]
 title = "Sanity and Madness"
 entry = "ref/rule/sanity-and-madness"
-
-[[books.chapters.children.children]]
-title = "Curing Insanity"
-entry = "ref/rule/rule-sanity-and-madness/curing-insanity"
-
-[[books.chapters.children.children]]
-title = "Types of Insanity"
-entry = "ref/rule/rule-sanity-and-madness/types-of-insanity"
 
 [[books.chapters.children]]
 title = "Sour Ground"
@@ -161972,20 +161940,8 @@ title = "Darkvision"
 entry = "ref/racial-trait/dwarf/darkvision"
 
 [[books.chapters.children.children]]
-title = "Defensive Training"
-entry = "ref/racial-trait/dwarf/defensive-training"
-
-[[books.chapters.children.children]]
-title = "Greed"
-entry = "ref/racial-trait/dwarf/greed"
-
-[[books.chapters.children.children]]
 title = "Hardy"
 entry = "ref/racial-trait/dwarf/hardy"
-
-[[books.chapters.children.children]]
-title = "Hatred"
-entry = "ref/racial-trait/dwarf/hatred"
 
 [[books.chapters.children.children]]
 title = "Languages"
@@ -161996,20 +161952,8 @@ title = "Medium"
 entry = "ref/racial-trait/dwarf/medium"
 
 [[books.chapters.children.children]]
-title = "Slow and Steady"
-entry = "ref/racial-trait/dwarf/slow-and-steady"
-
-[[books.chapters.children.children]]
 title = "Stability"
 entry = "ref/racial-trait/dwarf/stability"
-
-[[books.chapters.children.children]]
-title = "Stonecunning"
-entry = "ref/racial-trait/dwarf/stonecunning"
-
-[[books.chapters.children.children]]
-title = "Weapon Familiarity"
-entry = "ref/racial-trait/dwarf/weapon-familiarity"
 
 [[books.chapters.children]]
 title = "Elf"
@@ -162018,18 +161962,6 @@ entry = "ref/race/elf"
 [[books.chapters.children.children]]
 title = "Attributes"
 entry = "ref/racial-trait/elf/attributes"
-
-[[books.chapters.children.children]]
-title = "Elven Immunities"
-entry = "ref/racial-trait/elf/elven-immunities"
-
-[[books.chapters.children.children]]
-title = "Elven Magic"
-entry = "ref/racial-trait/elf/elven-magic"
-
-[[books.chapters.children.children]]
-title = "Keen Senses"
-entry = "ref/racial-trait/elf/keen-senses"
 
 [[books.chapters.children.children]]
 title = "Languages"
@@ -162047,10 +161979,6 @@ entry = "ref/racial-trait/elf/medium"
 title = "Normal Speed"
 entry = "ref/racial-trait/elf/normal-speed"
 
-[[books.chapters.children.children]]
-title = "Weapon Familiarity"
-entry = "ref/racial-trait/elf/weapon-familiarity"
-
 [[books.chapters.children]]
 title = "Gnome"
 entry = "ref/race/gnome"
@@ -162060,24 +161988,12 @@ title = "Attributes"
 entry = "ref/racial-trait/gnome/attributes"
 
 [[books.chapters.children.children]]
-title = "Defensive Training"
-entry = "ref/racial-trait/gnome/defensive-training"
-
-[[books.chapters.children.children]]
 title = "Gnome Magic"
 entry = "ref/racial-trait/gnome/gnome-magic"
 
 [[books.chapters.children.children]]
-title = "Hatred"
-entry = "ref/racial-trait/gnome/hatred"
-
-[[books.chapters.children.children]]
 title = "Illusion Resistance"
 entry = "ref/racial-trait/gnome/illusion-resistance"
-
-[[books.chapters.children.children]]
-title = "Keen Senses"
-entry = "ref/racial-trait/gnome/keen-senses"
 
 [[books.chapters.children.children]]
 title = "Languages"
@@ -162088,20 +162004,12 @@ title = "Low-Light Vision"
 entry = "ref/racial-trait/gnome/low-light-vision"
 
 [[books.chapters.children.children]]
-title = "Obsessive"
-entry = "ref/racial-trait/gnome/obsessive"
-
-[[books.chapters.children.children]]
 title = "Slow Speed"
 entry = "ref/racial-trait/gnome/slow-speed"
 
 [[books.chapters.children.children]]
 title = "Small"
 entry = "ref/racial-trait/gnome/small"
-
-[[books.chapters.children.children]]
-title = "Weapon Familiarity"
-entry = "ref/racial-trait/gnome/weapon-familiarity"
 
 [[books.chapters.children]]
 title = "Half-Elf"
@@ -162116,18 +162024,6 @@ title = "Attributes"
 entry = "ref/racial-trait/half-elf/attributes"
 
 [[books.chapters.children.children]]
-title = "Elf Blood"
-entry = "ref/racial-trait/half-elf/elf-blood"
-
-[[books.chapters.children.children]]
-title = "Elven Immunities"
-entry = "ref/racial-trait/half-elf/elven-immunities"
-
-[[books.chapters.children.children]]
-title = "Keen Senses"
-entry = "ref/racial-trait/half-elf/keen-senses"
-
-[[books.chapters.children.children]]
 title = "Languages"
 entry = "ref/racial-trait/half-elf/languages"
 
@@ -162138,10 +162034,6 @@ entry = "ref/racial-trait/half-elf/low-light-vision"
 [[books.chapters.children.children]]
 title = "Medium"
 entry = "ref/racial-trait/half-elf/medium"
-
-[[books.chapters.children.children]]
-title = "Multitalented"
-entry = "ref/racial-trait/half-elf/multitalented"
 
 [[books.chapters.children.children]]
 title = "Normal Speed"
@@ -162160,14 +162052,6 @@ title = "Fearless"
 entry = "ref/racial-trait/halfling/fearless"
 
 [[books.chapters.children.children]]
-title = "Halfling Luck"
-entry = "ref/racial-trait/halfling/halfling-luck"
-
-[[books.chapters.children.children]]
-title = "Keen Senses"
-entry = "ref/racial-trait/halfling/keen-senses"
-
-[[books.chapters.children.children]]
 title = "Languages"
 entry = "ref/racial-trait/halfling/languages"
 
@@ -162182,10 +162066,6 @@ entry = "ref/racial-trait/halfling/small"
 [[books.chapters.children.children]]
 title = "Sure-Footed"
 entry = "ref/racial-trait/halfling/sure-footed"
-
-[[books.chapters.children.children]]
-title = "Weapon Familiarity"
-entry = "ref/racial-trait/halfling/weapon-familiarity"
 
 [[books.chapters.children]]
 title = "Half-Orc"
@@ -162214,18 +162094,6 @@ entry = "ref/racial-trait/half-orc/medium"
 [[books.chapters.children.children]]
 title = "Normal Speed"
 entry = "ref/racial-trait/half-orc/normal-speed"
-
-[[books.chapters.children.children]]
-title = "Orc Blood"
-entry = "ref/racial-trait/half-orc/orc-blood"
-
-[[books.chapters.children.children]]
-title = "Orc Ferocity"
-entry = "ref/racial-trait/half-orc/orc-ferocity"
-
-[[books.chapters.children.children]]
-title = "Weapon Familiarity"
-entry = "ref/racial-trait/half-orc/weapon-familiarity"
 
 [[books.chapters.children]]
 title = "Human"

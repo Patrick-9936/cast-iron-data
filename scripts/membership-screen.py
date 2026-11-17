@@ -85,8 +85,16 @@ entry's parent lists the book).
         the printed page that decides it, and a short code for what the print check found:
         `race-section-read-no-trait` (the book's section for the race was read; it does not print
         the trait), `race-section-read-mention-only` (the same, and the trait is named in passing
-        or in a `replaces` line only), `no-race-section-no-trait`. A re-run overwrites the queue;
-        scripts/membership-apply.py applies the rows marked `remove`.
+        or in a `replaces` line only), `no-race-section-no-trait`. For other kinds:
+        `section-read-no-entry` (the chapter that would hold the entry was read and the whole
+        book searched; it is not printed), `section-read-mention-only` (the same, and the entry
+        is named in passing or the book points to another book for it), `title-printed` (keep: the
+        entry is printed on the page), `cited-page-prints-other` (keep: the entry's page row
+        names this book, the cited page and the whole book were read, and the entry is not
+        printed; the page prints a sibling entry. The row is a page citation, so it is not
+        deleted and the membership stays until the owner decides), `stat-block-poison-differs`
+        (keep: a printed creature has a poison with the same role but other numbers).
+        A re-run overwrites the queue; scripts/membership-apply.py applies the rows marked `remove`.
 
 Known limits (see the PR for the calibration): no-PDF memberships and books without readable
 page numbers are not judged, and neither says anything about absence. A hub-looking entry that
