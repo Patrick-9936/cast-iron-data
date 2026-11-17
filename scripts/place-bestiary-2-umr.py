@@ -59,8 +59,12 @@ RULES: list[tuple[str, str, int]] = [
     ("Undersized Weapons", PREFIX + "undersized-weapons", 303),
     ("Unnatural Aura", PREFIX + "unnatural-aura", 303),
 ]
-# The rule that was already in the chapter; its printed page orders it among the others.
-EXISTING = ("Lycanthropic Empathy", "ref/umr/lycanthropic-empathy", 298)
+# The placements the chapter already held, both Bestiary 2 p. 298: the rule, and its format split
+# nested under it. The rule's printed page orders it among the others; the split stays under it.
+EXISTING: list[tuple[str, str, int]] = [
+    ("Lycanthropic Empathy", "ref/umr/lycanthropic-empathy", 298),
+    ("Lycanthropic Empathy", "ref/rule/umr-lycanthropic-empathy/lycanthropic-empathy", 298),
+]
 
 
 def main(corpus: Path) -> None:
@@ -77,7 +81,7 @@ def main(corpus: Path) -> None:
     # Remove the catch-all placements (each is a leaf), then add the ones the chapter lacks.
     catch_all.children = [c for c in catch_all.children if c.entry not in ids]
     pages = {entry: page for _, entry, page in RULES}
-    pages[EXISTING[1]] = EXISTING[2]
+    pages.update({entry: page for _, entry, page in EXISTING})
     for title, entry, _ in RULES:
         if entry not in taken:
             node = bt.Node(
@@ -85,9 +89,10 @@ def main(corpus: Path) -> None:
                 lines=[f'title = "{title}"\n', f'entry = "{entry}"\n', "\n"],
             )
             chapter.children.append(node)
-    for c in chapter.children:
-        if c.entry not in pages:
-            raise SystemExit(f"unexpected child in {CHAPTER}: {c.entry}")
+    for node in chapter.children:  # every placement in the chapter, nested ones included
+        for c in node.walk():
+            if c.entry not in pages:
+                raise SystemExit(f"unexpected placement in {CHAPTER}: {c.entry}")
     chapter.children.sort(key=lambda c: (pages[c.entry], c.title))
     for c in chapter.children:
         bt.ensure_blank_after(c)
