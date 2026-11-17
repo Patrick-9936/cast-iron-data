@@ -3,7 +3,7 @@ id = "ref/spell/acid-pit"
 kind = "spell"
 title = "Acid Pit"
 aon = "SpellDisplay.aspx?ItemName=Acid%20Pit"
-source_ids = ["advanced-players-guide", "villain-codex"]
+source_ids = ["advanced-players-guide"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "acid_pit", path = "json/spells3.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "advanced-players-guide"
 page = "204"
-[[sources]]
-publication = "villain-codex"
-page = "188"
 
 [fields]
 kind = "spell"

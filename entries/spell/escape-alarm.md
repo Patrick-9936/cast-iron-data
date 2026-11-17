@@ -3,7 +3,7 @@ id = "ref/spell/escape-alarm"
 kind = "spell"
 title = "Escape Alarm"
 aon = "SpellDisplay.aspx?ItemName=Escape%20Alarm"
-source_ids = ["core-rulebook", "villain-codex", "ultimate-intrigue"]
+source_ids = ["core-rulebook", "villain-codex"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "escape_alarm", path = "json/spells.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "villain-codex"
 page = "45"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "224"
 
 [fields]
 kind = "spell"

@@ -25,9 +25,9 @@ advanced-class-guide	ref/racial-trait/halfling/keen-senses	racial_trait	Keen Sen
 advanced-class-guide	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	14	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	70	race-section-read-no-trait
 advanced-class-guide	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	14	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	70	race-section-read-no-trait
 advanced-class-guide	ref/racial-trait/halfling/weapon-familiarity	racial_trait	Weapon Familiarity	14	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	70	race-section-read-no-trait
-advanced-class-guide	ref/spell/burning-entanglement	spell	Burning Entanglement	3	4	family-leak	absent	192	row	0		variant	ref/spell/entangle(title)					keep	192	cited-page-prints-other
-advanced-class-guide	ref/spell/contagious-suggestion	spell	Contagious Suggestion	3	3	family-leak	absent	197	row	0		variant	ref/spell/suggestion(title)					keep	197	cited-page-prints-other
-advanced-class-guide	ref/spell/suggestion-mass	spell	Mass Suggestion	3	3	family-leak	absent	197	row	0		variant	ref/spell/suggestion(title)					keep	197	cited-page-prints-other
+advanced-class-guide	ref/spell/burning-entanglement	spell	Burning Entanglement	3	4	family-leak	absent	192	row	0		variant	ref/spell/entangle(title)					remove	192	wrong-credit-invalidated
+advanced-class-guide	ref/spell/contagious-suggestion	spell	Contagious Suggestion	3	3	family-leak	absent	197	row	0		variant	ref/spell/suggestion(title)					remove	197	wrong-credit-invalidated
+advanced-class-guide	ref/spell/suggestion-mass	spell	Mass Suggestion	3	3	family-leak	absent	197	row	0		variant	ref/spell/suggestion(title)					remove	197	wrong-credit-invalidated
 advanced-class-guide	ref/magic-wondrous/figurine-of-wondrous-power	item	Figurines of Wondrous Power	12	15	uncited	absent		none	0										
 advanced-class-guide	ref/ability/combat-styles	rule	Combat Styles	6	7	weak	weak		none	1	118									
 advanced-class-guide	ref/racial-trait/gnome/obsessive	racial_trait	Obsessive	13	16	weak	weak		none	1	128	parent	ref/race/gnome(title)	yes						
@@ -242,8 +242,8 @@ adventurers-armory	ref/eq-weapon/sawtooth-sabre	item	Sawtooth sabre	5	6	cite-off
 adventurers-armory-2	ref/class/warpriest	class	Warpriest	3	7	uncited	absent		none	0										
 adventurers-armory-2	ref/arc-magus/kensai	archetype	Kensai	2	2	review	absent	11	row	0										
 adventurers-guide	ref/rule/optional-subsystems	rule	Optional Subsystems	1	10	hub-keep	absent		none	0										
-adventurers-guide	ref/spell/detect-magic-greater	spell	Greater Detect Magic	2	5	family-leak	absent	77	row	0		variant	ref/spell/detect-magic(title)					keep	77	cited-page-prints-other
-adventurers-guide	ref/spell/magic-aura-greater	spell	Greater Magic Aura	3	3	family-leak	absent	37	row	0		variant	ref/spell/magic-aura(title)					keep	37	cited-page-prints-other
+adventurers-guide	ref/spell/detect-magic-greater	spell	Greater Detect Magic	2	5	family-leak	absent	77	row	0		variant	ref/spell/detect-magic(title)					remove	77	wrong-credit-invalidated
+adventurers-guide	ref/spell/magic-aura-greater	spell	Greater Magic Aura	3	3	family-leak	absent	37	row	0		variant	ref/spell/magic-aura(title)					remove	37	wrong-credit-invalidated
 adventurers-guide	ref/spell/identifiers-eye	spell	Identifier's Eye	2	5	review	absent	77	row	0										
 adventurers-guide	ref/magic-wondrous/zoic-fetish	item	Zoic Fetish	1	2	cite-off	off-page	114	row	2	134,189									
 agents-of-evil	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	12	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	25	race-section-read-no-trait
@@ -254,7 +254,7 @@ agents-of-evil	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	12	1
 agents-of-evil	ref/racial-trait/half-orc/intimidating	racial_trait	Intimidating	12	18	weak	weak		none	1	25	parent	ref/race/half-orc(title)	yes						
 agents-of-evil	ref/racial-trait/half-orc/languages	racial_trait	Languages	12	18	weak	weak		none	1	32	parent	ref/race/half-orc(title)	yes						
 agents-of-evil	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	12	18	weak	weak		none	1	25	parent	ref/race/half-orc(title)	yes						
-andoran-spirit-of-liberty	ref/spell/detect-magic-greater	spell	Greater Detect Magic	3	5	family-leak	absent	27	row	0		variant	ref/spell/detect-magic(title)					keep	27	cited-page-prints-other
+andoran-spirit-of-liberty	ref/spell/detect-magic-greater	spell	Greater Detect Magic	3	5	family-leak	absent	27	row	0		variant	ref/spell/detect-magic(title)					remove	27	wrong-credit-invalidated
 andoran-spirit-of-liberty	ref/magic-wondrous/figurine-of-wondrous-power	item	Figurines of Wondrous Power	9	15	uncited	absent		none	0										
 andoran-spirit-of-liberty	ref/spell/identifiers-eye	spell	Identifier's Eye	3	5	review	absent	27	row	0										
 andoran-spirit-of-liberty	ref/magic-wondrous/figurine-of-wondrous-power-basalt-dragon	item	Figurine of Wondrous Power (Basalt Dragon)	9	15	weak	weak		none	1	26									
@@ -333,7 +333,7 @@ aquatic-adventures	ref/magic-wondrous/figurine-of-wondrous-power-silver-raven	it
 aquatic-adventures	ref/magic-wondrous/figurine-of-wondrous-power-slate-spider	item	Figurine of Wondrous Power (Slate Spider)	3	15	weak	weak		none	1	62									
 aquatic-adventures	ref/magic-wondrous/figurine-of-wondrous-power-tin-imp	item	Figurine of Wondrous Power (Tin Imp)	3	15	weak	weak		none	1	62									
 arcane-anthology	ref/rule/optional-subsystems	rule	Optional Subsystems	6	10	hub-keep	absent		none	0										
-arcane-anthology	ref/spell/reincarnate-spy	spell	Reincarnate Spy	3	4	family-leak	absent	13	row	0		variant	ref/spell/reincarnate(title)					keep	13	cited-page-prints-other
+arcane-anthology	ref/spell/reincarnate-spy	spell	Reincarnate Spy	3	4	family-leak	absent	13	row	0		variant	ref/spell/reincarnate(title)					remove	13	wrong-credit-invalidated
 bestiary	ref/misc/damage-die-adjustments	rule	Damage Die Adjustments	1	3	hub-keep	absent		none	0										
 bestiary	ref/rule/gamemastery	rule	Gamemastery	3	8	hub-keep	weak		none	1	2									
 bestiary	ref/rule/rare-races	rule	Rare Races	7	19	hub-keep	absent		none	0										
@@ -353,7 +353,7 @@ bestiary-5	ref/rule/rare-races	rule	Rare Races	5	19	hub-keep	absent	37	row	0
 bestiary-5	ref/affliction/sea-urchin-giant-hunter-urchin/sea-urchin-venom	affliction	Sea Urchin Venom	2	2	family-leak	absent		none	0		parent	ref/monster/sea-urchin-giant-hunter-urchin(title)	yes				keep	223	stat-block-poison-differs
 bestiary-5	ref/affliction/sea-urchin-giant-spear-urchin/sea-urchin-venom	affliction	Sea Urchin Venom	2	2	family-leak	absent		none	0		parent	ref/monster/sea-urchin-giant-spear-urchin(title)	yes				keep	223	stat-block-poison-differs
 black-markets	ref/rule/specific-rulesets	rule	Specific Rulesets	2	11	hub-keep	absent		none	0										
-black-markets	ref/spell/share-language-communal	spell	Communal Share Language	2	3	family-leak	absent	24	row	0		variant	ref/spell/share-language(title)					keep	24	cited-page-prints-other
+black-markets	ref/spell/share-language-communal	spell	Communal Share Language	2	3	family-leak	absent	24	row	0		variant	ref/spell/share-language(title)					remove	24	wrong-credit-invalidated
 blood-of-shadows	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	6	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	5	race-section-read-no-trait
 blood-of-shadows	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	6	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	5	race-section-read-no-trait
 blood-of-shadows	ref/racial-trait/dwarf/stability	racial_trait	Stability	6	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	5	race-section-read-no-trait
@@ -387,8 +387,8 @@ blood-of-shadows	ref/racial-trait/gnome/defensive-training	racial_trait	Defensiv
 blood-of-shadows	ref/racial-trait/gnome/gnome-magic	racial_trait	Gnome Magic	5	16	weak	weak		none	1	5	parent	ref/race/gnome(title)	yes						
 blood-of-shadows	ref/racial-trait/gnome/hatred	racial_trait	Hatred	5	16	weak	weak		none	1	5	parent	ref/race/gnome(title)	yes						
 blood-of-shadows	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	10	18	weak	weak		none	1	5	parent	ref/race/half-orc(title)	yes						
-blood-of-the-beast	ref/spell/suggestion-mass	spell	Mass Suggestion	2	3	family-leak	absent	14	row	0		variant	ref/spell/suggestion(title)					keep	14	cited-page-prints-other
-blood-of-the-beast	ref/spell/triggered-suggestion	spell	Triggered Suggestion	2	3	family-leak	absent	14	row	0		variant	ref/spell/suggestion(title)					keep	14	cited-page-prints-other
+blood-of-the-beast	ref/spell/suggestion-mass	spell	Mass Suggestion	2	3	family-leak	absent	14	row	0		variant	ref/spell/suggestion(title)					remove	14	wrong-credit-invalidated
+blood-of-the-beast	ref/spell/triggered-suggestion	spell	Triggered Suggestion	2	3	family-leak	absent	14	row	0		variant	ref/spell/suggestion(title)					remove	14	wrong-credit-invalidated
 blood-of-the-beast	ref/class/gunslinger	class	Gunslinger	8	8	uncited	absent		none	0										
 blood-of-the-beast	ref/class/samurai	class	Samurai	9	9	uncited	absent		none	0										
 blood-of-the-beast	ref/class/shifter	class	Shifter	3	5	uncited	absent		none	0										
@@ -398,7 +398,7 @@ blood-of-the-beast	ref/class/barbarian	class	Barbarian	5	10	weak	weak		none	1	8
 blood-of-the-beast	ref/class/warpriest	class	Warpriest	5	7	weak	weak		none	1	16									
 blood-of-the-beast	ref/rule/class-barbarian/barbarian	rule	Barbarian	5	10	weak	weak		none	1	8			yes						
 blood-of-the-coven	ref/rule/feats-multiperson	rule	Multiperson Feats	3	3	hub-keep	absent	13	row	0										
-blood-of-the-coven	ref/affliction/hag-sea-hag/evil-eye-curse	affliction	Evil Eye Curse	2	2	family-leak	absent		none	0		parent	ref/monster/hag-sea-hag(title)	yes				remove	8, 27	section-read-mention-only
+blood-of-the-coven	ref/affliction/hag-sea-hag/evil-eye-curse	affliction	Evil Eye Curse	2	2	family-leak	absent		none	0		parent	ref/monster/hag-sea-hag(title)	yes				remove	8, 27	passing-mention-recorded
 blood-of-the-coven	ref/affliction/hag-moon-hag/dreadful-ravings	affliction	Dreadful Ravings	2	2	inherited	absent		none	0				yes						
 blood-of-the-coven	ref/monster/hag-moon-hag	creature	Moon Hag	2	2	uncited	absent		none	0										
 blood-of-the-sea	ref/class/samurai	class	Samurai	5	9	uncited	absent		none	0										
@@ -428,7 +428,7 @@ chronicle-of-legends	ref/class/investigator	class	Investigator	3	7	weak	weak		no
 chronicle-of-legends	ref/class/oracle	class	Oracle	5	13	weak	weak		none	1	29									
 chronicle-of-legends	ref/class/rogue	class	Rogue	2	14	weak	weak		none	1	29									
 chronicle-of-legends	ref/rule/class-rogue/rogue	rule	Rogue	2	14	weak	weak		none	1	29			yes						
-classic-horrors-revisited	ref/affliction/zombie/deathspore-toxin	affliction	Deathspore Toxin	3	3	family-leak	absent	25	row	0		parent	ref/template/zombie(title)	yes				keep	25	cited-page-prints-other
+classic-horrors-revisited	ref/affliction/zombie/deathspore-toxin	affliction	Deathspore Toxin	3	3	family-leak	absent	25	row	0		parent	ref/template/zombie(title)	yes				remove	25	wrong-credit-invalidated
 cohorts-and-companions	ref/rule/advanced-player-topics	rule	Advanced Player Topics	1	3	hub-keep	absent		none	0										
 cohorts-and-companions	ref/rule/types-of-traits	rule	Types of Traits	5	6	hub-keep	absent		none	0										
 cohorts-and-companions	ref/rule/universal-path-abilities	rule	Universal Path Abilities	7	7	weak	weak		none	1	10									
@@ -803,8 +803,8 @@ horror-adventures	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	7	16
 horror-adventures	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	10	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	39-40	race-section-read-no-trait
 horror-adventures	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	7	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	40	race-section-read-no-trait
 horror-adventures	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	5	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	40-41	race-section-read-no-trait
-horror-adventures	ref/rule/rule-sanity-and-madness/curing-insanity	rule	Curing Insanity	2	2	family-leak	absent		none	0		parent	ref/rule/sanity-and-madness(title)	yes				remove	12-13, 182	section-read-mention-only
-horror-adventures	ref/rule/rule-sanity-and-madness/types-of-insanity	rule	Types of Insanity	2	2	family-leak	absent		none	0		parent	ref/rule/sanity-and-madness(title)	yes				remove	12-13, 182	section-read-mention-only
+horror-adventures	ref/rule/rule-sanity-and-madness/curing-insanity	rule	Curing Insanity	2	2	family-leak	absent		none	0		parent	ref/rule/sanity-and-madness(title)	yes				remove	12-13, 182	passing-mention-recorded
+horror-adventures	ref/rule/rule-sanity-and-madness/types-of-insanity	rule	Types of Insanity	2	2	family-leak	absent		none	0		parent	ref/rule/sanity-and-madness(title)	yes				remove	12-13, 182	passing-mention-recorded
 horror-adventures	ref/class/samurai	class	Samurai	8	9	uncited	absent		none	0										
 horror-adventures	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	8	17	weak	weak		none	1	124	parent	ref/race/dwarf(title)	yes						
 horror-adventures	ref/racial-trait/dwarf/greed	racial_trait	Greed	8	17	weak	weak		none	1	38	parent	ref/race/dwarf(title)	yes						
@@ -819,8 +819,8 @@ horror-adventures	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Feroci
 horror-adventures	ref/racial-trait/halfling/attributes	racial_trait	Attributes	5	17	weak	weak		none	1	124	parent	ref/race/halfling(title)	yes						
 horror-adventures	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	5	17	weak	weak		none	1	40	parent	ref/race/halfling(title)	yes						
 horror-adventures	ref/racial-trait/human/attributes	racial_trait	Attributes	6	15	weak	weak		none	1	124	parent	ref/race/human(title)	yes						
-horror-realms	ref/affliction/zombie/zombie-curse-su	affliction	Zombie Curse (Su)	2	3	family-leak	absent	33	row	0		parent	ref/template/zombie(title)	yes				keep	33	cited-page-prints-other
-horror-realms	ref/affliction/zombie/zombie-rot	affliction	Zombie Rot	2	3	family-leak	absent	33	row	0		parent	ref/template/zombie(title)	yes				keep	33	cited-page-prints-other
+horror-realms	ref/affliction/zombie/zombie-curse-su	affliction	Zombie Curse (Su)	2	3	family-leak	absent	33	row	0		parent	ref/template/zombie(title)	yes				remove	33	wrong-credit-invalidated
+horror-realms	ref/affliction/zombie/zombie-rot	affliction	Zombie Rot	2	3	family-leak	absent	33	row	0		parent	ref/template/zombie(title)	yes				remove	33	wrong-credit-invalidated
 humans-of-golarion	ref/trait/azlanti-inheritor	trait	Azlanti Inheritor	2	2	weak	weak		none	1	30									
 inner-sea-combat	ref/magic-weapon/rostland-edge	item	Rostland Edge	2	2	review	absent	56	row	0										
 inner-sea-gods	ref/spell/sympathetic-wounds	spell	Sympathetic Wounds	2	2	uncited	absent		none	0										
@@ -830,10 +830,10 @@ inner-sea-gods	ref/faith/damerrich	rule	Damerrich	1	2	review	absent	322	row	0			
 inner-sea-gods	ref/trait/elven-polytheist	trait	Elven Polytheist	2	2	weak	weak		none	1	219									
 inner-sea-gods	ref/faith/chaldira-zuzaristan	rule	Chaldira Zuzaristan	1	2	cite-off	off-page	324	row	5	185,220,222,250,330									
 inner-sea-intrigue	ref/rule/advanced-player-topics	rule	Advanced Player Topics	3	3	hub-keep	absent		none	0										
-inner-sea-intrigue	ref/spell/nondetection-communal	spell	Communal Nondetection	2	3	family-leak	absent	60	row	0		variant	ref/spell/nondetection(title)					keep	60	cited-page-prints-other
+inner-sea-intrigue	ref/spell/nondetection-communal	spell	Communal Nondetection	2	3	family-leak	absent	60	row	0		variant	ref/spell/nondetection(title)					remove	60	wrong-credit-invalidated
 inner-sea-magic	ref/rule/optional-subsystems	rule	Optional Subsystems	7	10	hub-keep	absent		none	0										
-inner-sea-races	ref/spell/cyclic-reincarnation	spell	Cyclic Reincarnation	2	4	family-leak	absent	193	row	0		variant	ref/spell/reincarnate(title)					keep	193	cited-page-prints-other
-inner-sea-races	ref/spell/reincarnate-spy	spell	Reincarnate Spy	2	4	family-leak	absent	193	row	0		variant	ref/spell/reincarnate(title)					keep	193	cited-page-prints-other
+inner-sea-races	ref/spell/cyclic-reincarnation	spell	Cyclic Reincarnation	2	4	family-leak	absent	193	row	0		variant	ref/spell/reincarnate(title)					remove	193	reference-kept-on-related
+inner-sea-races	ref/spell/reincarnate-spy	spell	Reincarnate Spy	2	4	family-leak	absent	193	row	0		variant	ref/spell/reincarnate(title)					remove	193	reference-kept-on-related
 inner-sea-races	ref/spell/summon-natures-ally-3	spell	Summon Nature's Ally III	2	2	review	absent	223	row	0										
 inner-sea-races	ref/spell/summon-natures-ally-4	spell	Summon Nature's Ally IV	2	2	review	absent	223	row	0										
 inner-sea-races	ref/spell/summon-natures-ally-7	spell	Summon Nature's Ally VII	2	2	review	absent	223	row	0										
@@ -911,7 +911,7 @@ legacy-of-the-first-world	ref/racial-trait/half-elf/multitalented	racial_trait	M
 legacy-of-the-first-world	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	6	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	4-5, 12	race-section-read-no-trait
 legacy-of-the-first-world	ref/racial-trait/human/attributes	racial_trait	Attributes	10	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	5, 12	race-section-read-no-trait
 legacy-of-the-first-world	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	10	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	5, 12	race-section-read-no-trait
-legacy-of-the-first-world	ref/spell/burning-entanglement	spell	Burning Entanglement	4	4	family-leak	absent	17	row	0		variant	ref/spell/entangle(title)					keep	17	cited-page-prints-other
+legacy-of-the-first-world	ref/spell/burning-entanglement	spell	Burning Entanglement	4	4	family-leak	absent	17	row	0		variant	ref/spell/entangle(title)					remove	17	wrong-credit-invalidated
 legacy-of-the-first-world	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	9	17	inherited	absent		none	0				yes				remove	4	race-section-read-no-trait
 legacy-of-the-first-world	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	9	17	inherited	absent		none	0				yes				remove	4	race-section-read-no-trait
 legacy-of-the-first-world	ref/racial-trait/dwarf/greed	racial_trait	Greed	9	17	inherited	absent		none	0				yes				remove	4	race-section-read-no-trait
@@ -1019,9 +1019,9 @@ plane-hoppers-handbook	ref/rule/feats-roleplaying	rule	Roleplaying Feats	5	6	hub
 plane-hoppers-handbook	ref/class/magus	class	Magus	4	10	weak	weak		none	1	15									
 plane-hoppers-handbook	ref/class/vigilante	class	Vigilante	4	5	weak	weak		none	1	17									
 plane-hoppers-handbook	ref/class/warpriest	class	Warpriest	7	7	weak	weak		none	1	15									
-potions-and-poisons	ref/spell/detect-charm	spell	Detect Charm	5	5	family-leak	absent	17	row	0		variant	ref/spell/detect-magic(title)					keep	17	cited-page-prints-other
-potions-and-poisons	ref/spell/detect-magic-greater	spell	Greater Detect Magic	5	5	family-leak	absent	17	row	0		variant	ref/spell/detect-magic(title)					keep	17	cited-page-prints-other
-potions-and-poisons	ref/spell/stoneskin-communal	spell	Communal Stoneskin	2	3	family-leak	absent	17	row	0		variant	ref/spell/stoneskin(body)					keep	17	cited-page-prints-other
+potions-and-poisons	ref/spell/detect-charm	spell	Detect Charm	5	5	family-leak	absent	17	row	0		variant	ref/spell/detect-magic(title)					remove	17	wrong-credit-invalidated
+potions-and-poisons	ref/spell/detect-magic-greater	spell	Greater Detect Magic	5	5	family-leak	absent	17	row	0		variant	ref/spell/detect-magic(title)					remove	17	wrong-credit-invalidated
+potions-and-poisons	ref/spell/stoneskin-communal	spell	Communal Stoneskin	2	3	family-leak	absent	17	row	0		variant	ref/spell/stoneskin(body)					remove	17	wrong-credit-invalidated
 psychic-anthology	ref/rule/feats-class	rule	Class-Based Feats	6	7	hub-keep	absent	16	row	0										
 psychic-anthology	ref/arc-bloodrager/id-rager	archetype	Id Rager	2	3	weak	weak		none	1	5									
 psychic-anthology	ref/arc-spiritualist/fractured-mind	archetype	Fractured Mind	2	4	weak	weak		none	1	5									
@@ -1042,8 +1042,8 @@ seers-of-the-drowned-city	ref/magic-wondrous/figurine-of-wondrous-power	item	Fig
 taldor-echoes-of-glory	ref/trait/chivalrous	trait	Chivalrous	2	2	weak	weak		none	1	13									
 taldor-echoes-of-glory	ref/trait/divine-warrior	trait	Divine Warrior	2	3	weak	weak		none	1	14									
 taldor-echoes-of-glory	ref/trait/failed-apprentice	trait	Failed Apprentice	3	3	weak	weak		none	1	14									
-the-first-world-realm-of-the-fey	ref/spell/charm-person-mass	spell	Mass Charm Person	2	3	family-leak	absent	12	row	0		variant	ref/spell/charm-person(title)					keep	12	cited-page-prints-other
-the-first-world-realm-of-the-fey	ref/spell/hold-person-mass	spell	Mass Hold Person	2	2	family-leak	absent	12	row	0		variant	ref/spell/hold-person(title)					keep	12	cited-page-prints-other
+the-first-world-realm-of-the-fey	ref/spell/charm-person-mass	spell	Mass Charm Person	2	3	family-leak	absent	12	row	0		variant	ref/spell/charm-person(title)					remove	12	wrong-credit-invalidated
+the-first-world-realm-of-the-fey	ref/spell/hold-person-mass	spell	Mass Hold Person	2	2	family-leak	absent	12	row	0		variant	ref/spell/hold-person(title)					remove	12	wrong-credit-invalidated
 ultimate-campaign	ref/rule/advanced-gm-topics	rule	Advanced GM Topics	3	8	hub-keep	absent		none	0										
 ultimate-campaign	ref/rule/advanced-magic-topics	rule	Advanced Magic Topics	3	4	hub-keep	absent		none	0										
 ultimate-campaign	ref/rule/advanced-player-topics	rule	Advanced Player Topics	2	3	hub-keep	absent		none	0										
@@ -1127,10 +1127,10 @@ ultimate-intrigue	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Spe
 ultimate-intrigue	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	18	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	17	race-section-read-no-trait
 ultimate-intrigue	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	18	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	17	race-section-read-no-trait
 ultimate-intrigue	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	15	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	17	race-section-read-no-trait
-ultimate-intrigue	ref/spell/charm-fey	spell	Charm Fey	3	3	family-leak	absent	206	row	0		variant	ref/spell/charm-person(title)					keep	206	cited-page-prints-other
-ultimate-intrigue	ref/spell/cyclic-reincarnation	spell	Cyclic Reincarnation	4	4	family-leak	absent	223	row	0		variant	ref/spell/reincarnate(title)					keep	223	cited-page-prints-other
-ultimate-intrigue	ref/spell/escape-alarm	spell	Escape Alarm	3	3	family-leak	absent	224	row	0		variant	ref/spell/alarm(title)					keep	224	cited-page-prints-other
-ultimate-intrigue	ref/spell/sympathetic-aura	spell	Sympathetic Aura	2	3	family-leak	absent	219	row	0		variant	ref/spell/magic-aura(title)					keep	219	cited-page-prints-other
+ultimate-intrigue	ref/spell/charm-fey	spell	Charm Fey	3	3	family-leak	absent	206	row	0		variant	ref/spell/charm-person(title)					remove	206	wrong-credit-invalidated
+ultimate-intrigue	ref/spell/cyclic-reincarnation	spell	Cyclic Reincarnation	4	4	family-leak	absent	223	row	0		variant	ref/spell/reincarnate(title)					remove	223	wrong-credit-invalidated
+ultimate-intrigue	ref/spell/escape-alarm	spell	Escape Alarm	3	3	family-leak	absent	224	row	0		variant	ref/spell/alarm(title)					remove	224	wrong-credit-invalidated
+ultimate-intrigue	ref/spell/sympathetic-aura	spell	Sympathetic Aura	2	3	family-leak	absent	219	row	0		variant	ref/spell/magic-aura(title)					remove	219	wrong-credit-invalidated
 ultimate-intrigue	ref/racial-trait/halfling/fearless	racial_trait	Fearless	17	17	inherited	absent		none	0				yes				remove	17	race-section-read-no-trait
 ultimate-intrigue	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	17	17	inherited	absent		none	0				yes				remove	17, 93	race-section-read-mention-only
 ultimate-intrigue	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	17	17	inherited	absent		none	0				yes				remove	17	race-section-read-no-trait
@@ -1178,7 +1178,7 @@ ultimate-wilderness	ref/racial-trait/gnome/weapon-familiarity	racial_trait	Weapo
 ultimate-wilderness	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	16	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	8-31	race-section-read-no-trait
 ultimate-wilderness	ref/racial-trait/halfling/keen-senses	racial_trait	Keen Senses	16	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	8-31	race-section-read-no-trait
 ultimate-wilderness	ref/racial-trait/halfling/weapon-familiarity	racial_trait	Weapon Familiarity	16	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	8-31	race-section-read-no-trait
-ultimate-wilderness	ref/rule/ability-weapon-groups/siege-engines	rule	Siege Engines	2	2	family-leak	absent	51	row	0		parent	ref/ability/weapon-groups(title)	yes				keep	51	cited-page-prints-other
+ultimate-wilderness	ref/rule/ability-weapon-groups/siege-engines	rule	Siege Engines	2	2	family-leak	absent	51	row	0		parent	ref/ability/weapon-groups(title)	yes				remove	51	wrong-credit-invalidated
 ultimate-wilderness	ref/spell/die-for-your-master	spell	Die for Your Master	1	2	family-leak	absent	227	row	0		variant	ref/spell/bleed-for-your-master(title)		primary	(none)				
 ultimate-wilderness	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	17	18	inherited	absent		none	0				yes				remove	8-31	race-section-read-no-trait
 ultimate-wilderness	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	17	18	inherited	absent		none	0				yes				remove	8-31	race-section-read-no-trait
@@ -1207,20 +1207,20 @@ ultimate-wilderness	ref/rule/ability-weapon-groups/firearms	rule	Firearms	2	2	ci
 ultimate-wilderness	ref/rule/ability-weapon-groups/monk	rule	Monk	2	2	cite-off	off-page	51	row	10	3,5,27,64,65	parent	ref/ability/weapon-groups(title)	yes						
 ultimate-wilderness	ref/spell/beast-shape-1	spell	Beast Shape I	2	3	cite-off	off-page	231	row	5	52,81,85,96,235	variant	ref/spell/beast-shape-2(body)							
 undead-unleashed	ref/magic-weapon/rixbrand	item	Rixbrand	1	2	cite-off	off-page	6	row	3	8,9,10									
-villain-codex	ref/spell/acid-pit	spell	Acid Pit	2	2	family-leak	absent	188	row	0		variant	ref/spell/create-pit(title)					keep	188	cited-page-prints-other
-villain-codex	ref/spell/hungry-pit	spell	Hungry Pit	2	2	family-leak	absent	188	row	0		variant	ref/spell/create-pit(title)					keep	188	cited-page-prints-other
-villain-codex	ref/spell/selective-alarm	spell	Selective Alarm	2	3	family-leak	absent	45	row	0		variant	ref/spell/alarm(title)					keep	45	cited-page-prints-other
-villain-codex	ref/spell/sickening-entanglement	spell	Sickening Entanglement	2	4	family-leak	absent	140	row	0		variant	ref/spell/entangle(title)					keep	140	cited-page-prints-other
-villain-codex	ref/spell/spiked-pit	spell	Spiked Pit	2	2	family-leak	absent	188	row	0		variant	ref/spell/create-pit(title)					keep	188	cited-page-prints-other
-villain-codex	ref/spell/thirsting-entanglement	spell	Thirsting Entanglement	2	4	family-leak	absent	140	row	0		variant	ref/spell/entangle(title)					keep	140	cited-page-prints-other
-villain-codex	ref/spell/thorny-entanglement	spell	Thorny Entanglement	2	4	family-leak	absent	140	row	0		variant	ref/spell/entangle(title)					keep	140	cited-page-prints-other
+villain-codex	ref/spell/acid-pit	spell	Acid Pit	2	2	family-leak	absent	188	row	0		variant	ref/spell/create-pit(title)					remove	188	wrong-credit-invalidated
+villain-codex	ref/spell/hungry-pit	spell	Hungry Pit	2	2	family-leak	absent	188	row	0		variant	ref/spell/create-pit(title)					remove	188	wrong-credit-invalidated
+villain-codex	ref/spell/selective-alarm	spell	Selective Alarm	2	3	family-leak	absent	45	row	0		variant	ref/spell/alarm(title)					remove	45	wrong-credit-invalidated
+villain-codex	ref/spell/sickening-entanglement	spell	Sickening Entanglement	2	4	family-leak	absent	140	row	0		variant	ref/spell/entangle(title)					remove	140	wrong-credit-invalidated
+villain-codex	ref/spell/spiked-pit	spell	Spiked Pit	2	2	family-leak	absent	188	row	0		variant	ref/spell/create-pit(title)					remove	188	wrong-credit-invalidated
+villain-codex	ref/spell/thirsting-entanglement	spell	Thirsting Entanglement	2	4	family-leak	absent	140	row	0		variant	ref/spell/entangle(title)					remove	140	wrong-credit-invalidated
+villain-codex	ref/spell/thorny-entanglement	spell	Thorny Entanglement	2	4	family-leak	absent	140	row	0		variant	ref/spell/entangle(title)					remove	140	wrong-credit-invalidated
 wardens-of-the-reborn-forge	ref/affliction/capramace/waste-trembles	affliction	Waste Trembles	2	2	weak	weak		none	1	61	parent	ref/monster/capramace(title)	yes						
 weapon-masters-handbook	ref/rule/gamemastery	rule	Gamemastery	5	8	hub-keep	absent		none	0										
 weapon-masters-handbook	ref/faith/abadar	rule	Abadar	3	5	weak	weak		none	1	10									
 weapon-masters-handbook	ref/faith/gorum	rule	Gorum	3	4	weak	weak		none	1	11									
 weapon-masters-handbook	ref/faith/zon-kuthon	rule	Zon-Kuthon	3	4	weak	weak		none	1	11									
 wilderness-origins	ref/rule/types-of-traits	rule	Types of Traits	3	6	hub-keep	absent		none	0										
-wilderness-origins	ref/spell/phantom-steed-communal	spell	Communal Phantom Steed	2	3	family-leak	absent	28	row	0		variant	ref/spell/phantom-steed(title)					keep	28	cited-page-prints-other
+wilderness-origins	ref/spell/phantom-steed-communal	spell	Communal Phantom Steed	2	3	family-leak	absent	28	row	0		variant	ref/spell/phantom-steed(title)					remove	28	wrong-credit-invalidated
 wilderness-origins	ref/race/catfolk	race	Catfolk	5	5	weak	weak		none	1	8									
 wilderness-origins	ref/race/dhampir	race	Dhampir	5	5	weak	weak		none	1	8									
 wilderness-origins	ref/race/drow	race	Drow	6	6	weak	weak		none	1	8									

@@ -13,14 +13,32 @@ marked `keep` or `expands` and rows without a verdict are never touched. For eac
      placement to be in `source_ids` (docs/corpus-format.md, "corpus-check"). A title-only group
      (no `entry`, no `anchor`) whose children are all removed is dropped as well.
 
-It never deletes a page citation. A `[[sources]]` row must name a book in `source_ids`, and a raw
-`**source:** Book/N` or `**Sources:** Book pg N` line in the body is the only page citation for
-many entries, so a removal that would leave either one behind is refused: the whole run stops
-before it writes anything. Convert such a citation first (to an `expanded_in` credit once #458
-lands, or by keeping the membership if the book prints the entry); do not delete it.
+It never deletes a page citation silently. A `[[sources]]` row must name a book in `source_ids`,
+and a raw `**source:** Book/N` or `**Sources:** Book pg N` line in the body is the only page
+citation for many entries, so a removal that would leave either one behind is refused: the whole
+run stops before it writes anything. A `[[sources]]` row may go only when the audit file
+(`scripts/membership-citation-audit-461.tsv`, `--audit`) has a row for that (entry, book) with
+the same `cited_page` and one of these classes:
+
+  invalidated  the cited page was read and the book does not print the entry there or anywhere
+               (the page prints another entry, usually a sibling variant): a wrong credit. The
+               rejected page stays in the audit file.
+  reference    the cited page prints a related entry. The audit row names it in `related`, and the
+               script checks that it exists, lists the book, cites an overlapping page there, and
+               that a `relations` edge joins the two entries (either direction). The page then
+               survives on the related entry.
+
+  mention      the book only names the entry in passing and no related entry carries the page (owner
+               decision 2026-11-17: the membership goes). The audit row holds the page and the
+               kind of mention (`mention_kind`, in the auditor's own words, no book text). A queue
+               row with evidence `passing-mention-recorded` needs such a row.
+
+A body source line is never deleted by this script: convert it first (to an `expanded_in`
+credit once #458 lands, or by keeping the membership if the book prints the entry).
 
 It refuses a row that
-  * has a `[[sources]]` row, or a body source line, that names the book (see above),
+  * has a `[[sources]]` row that the audit file does not release, or a body source line, that
+    names the book (see above),
   * has `gate = primary` (removing the first book changes the entry's primary book: those rows
     need their own decision) or tag `hub-keep`,
   * would leave `source_ids` empty (the last book of an entry is never removed),
@@ -90,7 +108,93 @@ def citation_blocking(text: str, book: str, title: str) -> str | None:
     return None
 
 
-def edit_entry(path: Path, book: str, title: str, write: bool = True) -> str:
+def drop_sources_row(text: str, book: str) -> str:
+    """Delete the `[[sources]]` block of `book` (its header line and the lines up to the next
+    blank line or table header)."""
+    lines = text.split("\n")
+    for i, line in enumerate(lines):
+        if line == "[[sources]]" and f'publication = "{book}"' in lines[i + 1:i + 3]:
+            j = i + 1
+            while j < len(lines) and lines[j] and not lines[j].startswith("["):
+                j += 1
+            return "\n".join(lines[:i] + lines[j:])
+    return text
+
+
+def sources_page(text: str, book: str) -> str:
+    lines = text.split("\n")
+    for i, line in enumerate(lines):
+        if line == "[[sources]]" and f'publication = "{book}"' in lines[i + 1:i + 3]:
+            for l in lines[i + 1:i + 4]:
+                m = re.match(r'^page = "([^"]*)"$', l)
+                if m:
+                    return m.group(1)
+    return ""
+
+
+def spans(page: str) -> list[tuple[int, int]]:
+    out = []
+    for part in re.split(r"\s*,\s*", page):
+        m = re.fullmatch(r"(\d+)(?:\s*[-\u2013]\s*(\d+))?", part.strip())
+        if m:
+            a = int(m.group(1))
+            out.append((a, int(m.group(2) or a)))
+    return out
+
+
+def overlap(p1: str, p2: str) -> bool:
+    return any(a <= z2 and a2 <= z for a, z in spans(p1) for a2, z2 in spans(p2))
+
+
+def read_audit(path: Path | None) -> dict[tuple[str, str], dict]:
+    if path is None or not path.is_file():
+        return {}
+    with open(path, encoding="utf-8", newline="") as f:
+        rows = list(csv.DictReader(f, delimiter="\t"))
+    out = {}
+    for r in rows:
+        if r["class"] not in ("invalidated", "reference", "mention"):
+            raise SystemExit(f"refused: audit row {r['entry']} has unknown class {r['class']!r}")
+        if not r["print_page"] or not r["evidence"]:
+            raise SystemExit(f"refused: audit row {r['entry']} in {r['book']} has no print_page/evidence")
+        if r["class"] == "mention" and not r["mention_kind"]:
+            raise SystemExit(f"refused: audit row {r['entry']} in {r['book']} has class mention but no mention_kind")
+        out[(r["entry"], r["book"])] = r
+    return out
+
+
+def has_edge(root: Path, a: str, b: str) -> bool:
+    for x, y in ((a, b), (b, a)):
+        t = entry_path(root, x).read_text(encoding="utf-8")
+        fm = t.split("+++", 2)[1]
+        if re.search(r'target = "' + re.escape(y) + '"', fm):
+            return True
+    return False
+
+
+def release_citation(root: Path, entry: str, book: str, text: str, audit: dict) -> None:
+    """Refuse unless the audit file releases the entry's `[[sources]]` row for `book`."""
+    row = audit.get((entry, book))
+    if row is None:
+        raise SystemExit(f"refused: {entry} holds a [[sources]] row for {book} and the audit file has no row for it; convert it, never delete it")
+    page = sources_page(text, book)
+    if row["cited_page"] != page:
+        raise SystemExit(f"refused: {entry} audit cited_page {row['cited_page']!r} is not the row's page {page!r}")
+    if row["class"] == "reference":
+        rel = row["related"]
+        rp = entry_path(root, rel) if rel else None
+        if rp is None or not rp.is_file():
+            raise SystemExit(f"refused: {entry} audit names no existing related entry")
+        rt = rp.read_text(encoding="utf-8")
+        ids = re.findall(r'"([^"]*)"', (SOURCE_IDS.search(rt) or [None, ""])[1])
+        if book not in ids or not overlap(page, sources_page(rt, book)):
+            raise SystemExit(f"refused: related {rel} does not list {book} with an overlapping page")
+        if not has_edge(root, entry, rel):
+            raise SystemExit(f"refused: no relations edge between {entry} and {rel}; add it first")
+
+
+def edit_entry(path: Path, book: str, title: str, write: bool = True,
+               entry: str = "", root: Path | None = None, audit: dict | None = None) -> str:
     """Remove `book` from `source_ids` of one entry file. Returns 'removed' or 'absent'; refuses
     the last book and any page citation of the book. Nothing but the `source_ids` line changes."""
     text = path.read_text(encoding="utf-8")
@@ -103,12 +207,19 @@ def edit_entry(path: Path, book: str, title: str, write: bool = True) -> str:
     if len(ids) == 1:
         raise SystemExit(f"refused: {book} is the last book of {path}")
     held = citation_blocking(text, book, title)
-    if held:
+    drop_row = False
+    if held == "a [[sources]] row":
+        release_citation(root, entry, book, text, audit or {})
+        drop_row = True
+    elif held:
         raise SystemExit(f"refused: {path.name} holds {held} for {book}; convert it, never delete it")
     ids.remove(book)
     new_line = "source_ids = [" + ", ".join(f'"{i}"' for i in ids) + "]"
     if write:
-        path.write_text(text[:m.start()] + new_line + text[m.end():], encoding="utf-8")
+        new = text[:m.start()] + new_line + text[m.end():]
+        if drop_row:
+            new = drop_sources_row(new, book)
+        path.write_text(new, encoding="utf-8")
     return "removed"
 
 
@@ -179,12 +290,15 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("corpus", type=Path)
     ap.add_argument("--queue", type=Path, default=Path(__file__).with_name("membership-queue-461.tsv"))
+    ap.add_argument("--audit", type=Path, default=Path(__file__).with_name("membership-citation-audit-461.tsv"),
+                    help="rows that release a [[sources]] row (class invalidated or reference)")
     ap.add_argument("--only-kind", default=None, help="act on one entry kind only, for example racial_trait")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
     rows = read_queue(args.queue, args.only_kind)
     root = args.corpus
+    audit = read_audit(args.audit)
     titles = {p["id"]: p["title"] for p in tomllib.loads((root / "publications.toml").read_text(encoding="utf-8"))["publication"]}
     removals: dict[str, set[str]] = defaultdict(set)
     seen = set()
@@ -199,13 +313,15 @@ def main() -> int:
         path = entry_path(root, r["entry"])
         if not path.is_file():
             raise SystemExit(f"refused: no entry file for {r['entry']}")
+        if r["evidence"] == "passing-mention-recorded" and audit.get((r["entry"], r["book"]), {}).get("class") != "mention":
+            raise SystemExit(f"refused: {r['entry']} in {r['book']} is a passing mention with no `mention` audit row")
         todo.append((path, r))
     # Check every row first (a refusal stops the run before anything is written), then write.
     for path, r in todo:
-        edit_entry(path, r["book"], titles[r["book"]], write=False)
+        edit_entry(path, r["book"], titles[r["book"]], write=False, entry=r["entry"], root=root, audit=audit)
     removed = absent = 0
     for path, r in todo:
-        state = edit_entry(path, r["book"], titles[r["book"]], write=not args.dry_run)
+        state = edit_entry(path, r["book"], titles[r["book"]], write=not args.dry_run, entry=r["entry"], root=root, audit=audit)
         removed += state == "removed"
         absent += state == "absent"
         removals[r["book"]].add(r["entry"])

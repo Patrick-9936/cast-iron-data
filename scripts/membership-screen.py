@@ -87,13 +87,17 @@ entry's parent lists the book).
         the trait), `race-section-read-mention-only` (the same, and the trait is named in passing
         or in a `replaces` line only), `no-race-section-no-trait`. For other kinds:
         `section-read-no-entry` (the chapter that would hold the entry was read and the whole
-        book searched; it is not printed), `section-read-mention-only` (the same, and the entry
-        is named in passing or the book points to another book for it), `title-printed` (keep: the
-        entry is printed on the page), `cited-page-prints-other` (keep: the entry's page row
-        names this book, the cited page and the whole book were read, and the entry is not
-        printed; the page prints a sibling entry. The row is a page citation, so it is not
-        deleted and the membership stays until the owner decides), `stat-block-poison-differs`
-        (keep: a printed creature has a poison with the same role but other numbers).
+        book searched for its title and for runs of its text; it is not printed),
+        `wrong-credit-invalidated` (the entry's page row names this book, the cited page was
+        read, and the book does not print the entry there or elsewhere: the page prints another
+        entry, usually a sibling variant. The rejected row is recorded in
+        `scripts/membership-citation-audit-461.tsv`), `reference-kept-on-related` (the cited page
+        prints a related entry that lists the book, cites an overlapping page and has a
+        relations edge to this entry; the audit file names it), `title-printed` (keep: the entry
+        is printed on the page), `passing-mention-recorded` (remove: the book only names the entry in
+        passing and no related entry carries the page; the audit file records the page and the
+        kind of mention, class `mention`), `stat-block-poison-differs` (keep: a printed creature has a poison
+        with the same role but other numbers).
         A re-run overwrites the queue; scripts/membership-apply.py applies the rows marked `remove`.
 
 Known limits (see the PR for the calibration): no-PDF memberships and books without readable

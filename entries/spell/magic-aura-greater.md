@@ -3,7 +3,7 @@ id = "ref/spell/magic-aura-greater"
 kind = "spell"
 title = "Greater Magic Aura"
 aon = "SpellDisplay.aspx?ItemName=Magic%20Aura%2C%20Greater"
-source_ids = ["core-rulebook", "ultimate-intrigue", "adventurers-guide"]
+source_ids = ["core-rulebook", "ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "magic_aura_greater", path = "json/spells6.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "219"
-[[sources]]
-publication = "adventurers-guide"
-page = "37"
 
 [fields]
 kind = "spell"

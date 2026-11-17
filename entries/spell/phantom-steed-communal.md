@@ -3,7 +3,7 @@ id = "ref/spell/phantom-steed-communal"
 kind = "spell"
 title = "Communal Phantom Steed"
 aon = "SpellDisplay.aspx?ItemName=Phantom%20Steed%2C%20Communal"
-source_ids = ["core-rulebook", "wilderness-origins", "ultimate-combat"]
+source_ids = ["core-rulebook", "ultimate-combat"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "phantom_steed_communal", path = "json/spells7.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "ultimate-combat"
 page = "239"
-[[sources]]
-publication = "wilderness-origins"
-page = "28"
 
 [fields]
 kind = "spell"

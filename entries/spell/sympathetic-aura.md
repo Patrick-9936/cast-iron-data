@@ -3,7 +3,7 @@ id = "ref/spell/sympathetic-aura"
 kind = "spell"
 title = "Sympathetic Aura"
 aon = "SpellDisplay.aspx?ItemName=Sympathetic%20Aura"
-source_ids = ["core-rulebook", "ultimate-intrigue", "adventurers-guide"]
+source_ids = ["core-rulebook", "adventurers-guide"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "sympathetic_aura", path = "json/spells6.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "adventurers-guide"
 page = "37"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "219"
 
 [fields]
 kind = "spell"

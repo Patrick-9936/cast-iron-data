@@ -3,7 +3,7 @@ id = "ref/spell/selective-alarm"
 kind = "spell"
 title = "Selective Alarm"
 aon = "SpellDisplay.aspx?ItemName=Selective%20Alarm"
-source_ids = ["core-rulebook", "villain-codex", "ultimate-intrigue"]
+source_ids = ["core-rulebook", "ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "selective_alarm", path = "json/spells.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "224"
-[[sources]]
-publication = "villain-codex"
-page = "45"
 
 [fields]
 kind = "spell"

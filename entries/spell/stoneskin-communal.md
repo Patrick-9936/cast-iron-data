@@ -3,7 +3,7 @@ id = "ref/spell/stoneskin-communal"
 kind = "spell"
 title = "Communal Stoneskin"
 aon = "SpellDisplay.aspx?ItemName=Stoneskin%2C%20Communal"
-source_ids = ["core-rulebook", "potions-and-poisons", "ultimate-combat"]
+source_ids = ["core-rulebook", "ultimate-combat"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "stoneskin_communal", path = "json/spells9.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "ultimate-combat"
 page = "245"
-[[sources]]
-publication = "potions-and-poisons"
-page = "17"
 
 [fields]
 kind = "spell"

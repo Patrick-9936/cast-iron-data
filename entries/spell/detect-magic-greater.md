@@ -3,7 +3,7 @@ id = "ref/spell/detect-magic-greater"
 kind = "spell"
 title = "Greater Detect Magic"
 aon = "SpellDisplay.aspx?ItemName=Detect%20Magic%2C%20Greater"
-source_ids = ["core-rulebook", "adventurers-guide", "andoran-spirit-of-liberty", "ultimate-intrigue", "potions-and-poisons"]
+source_ids = ["core-rulebook", "ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "detect_magic_greater", path = "json/spells3.json" },
 ]
@@ -13,15 +13,6 @@ relations = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "212"
-[[sources]]
-publication = "adventurers-guide"
-page = "77"
-[[sources]]
-publication = "andoran-spirit-of-liberty"
-page = "27"
-[[sources]]
-publication = "potions-and-poisons"
-page = "17"
 
 [fields]
 kind = "spell"

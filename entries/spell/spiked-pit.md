@@ -3,7 +3,7 @@ id = "ref/spell/spiked-pit"
 kind = "spell"
 title = "Spiked Pit"
 aon = "SpellDisplay.aspx?ItemName=Spiked%20Pit"
-source_ids = ["advanced-players-guide", "villain-codex"]
+source_ids = ["advanced-players-guide"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "spiked_pit", path = "json/spells3.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "advanced-players-guide"
 page = "246"
-[[sources]]
-publication = "villain-codex"
-page = "188"
 
 [fields]
 kind = "spell"

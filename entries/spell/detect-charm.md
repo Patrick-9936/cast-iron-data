@@ -3,7 +3,7 @@ id = "ref/spell/detect-charm"
 kind = "spell"
 title = "Detect Charm"
 aon = "SpellDisplay.aspx?ItemName=Detect%20Charm"
-source_ids = ["core-rulebook", "adventurers-guide", "andoran-spirit-of-liberty", "ultimate-intrigue", "potions-and-poisons"]
+source_ids = ["core-rulebook", "adventurers-guide", "andoran-spirit-of-liberty", "ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "detect_charm", path = "json/spells3.json" },
 ]
@@ -16,9 +16,6 @@ page = "77"
 [[sources]]
 publication = "andoran-spirit-of-liberty"
 page = "27"
-[[sources]]
-publication = "potions-and-poisons"
-page = "17"
 [[sources]]
 publication = "ultimate-intrigue"
 page = "212"

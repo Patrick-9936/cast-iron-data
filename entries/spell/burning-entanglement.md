@@ -3,7 +3,7 @@ id = "ref/spell/burning-entanglement"
 kind = "spell"
 title = "Burning Entanglement"
 aon = "SpellDisplay.aspx?ItemName=Burning%20Entanglement"
-source_ids = ["core-rulebook", "villain-codex", "advanced-class-guide", "legacy-of-the-first-world"]
+source_ids = ["core-rulebook", "villain-codex"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "burning_entanglement", path = "json/spells4.json" },
 ]
@@ -13,12 +13,6 @@ relations = [
 [[sources]]
 publication = "villain-codex"
 page = "140"
-[[sources]]
-publication = "advanced-class-guide"
-page = "192"
-[[sources]]
-publication = "legacy-of-the-first-world"
-page = "17"
 
 [fields]
 kind = "spell"
