@@ -2,7 +2,7 @@
 id = "ref/racial-trait/halfling/fearless"
 kind = "racial_trait"
 title = "Fearless"
-source_ids = ["inner-sea-races", "core-rulebook", "advanced-race-guide", "heroes-from-the-fringe", "horror-adventures", "heroes-of-the-wild", "advanced-players-guide", "legacy-of-the-first-world", "legacy-of-dragons", "heroes-of-the-streets", "halflings-of-golarion", "advanced-class-guide", "occult-adventures", "ultimate-wilderness", "ultimate-intrigue"]
+source_ids = ["inner-sea-races", "core-rulebook", "advanced-race-guide", "heroes-from-the-fringe", "horror-adventures", "heroes-of-the-wild", "advanced-players-guide", "legacy-of-the-first-world", "legacy-of-dragons", "heroes-of-the-streets", "halflings-of-golarion", "advanced-class-guide", "occult-adventures", "ultimate-wilderness"]
 parent = "ref/race/halfling"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "halfling|racial-trait:fearless", path = "json/races2.json" },

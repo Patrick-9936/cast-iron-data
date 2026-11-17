@@ -2,7 +2,7 @@
 id = "ref/racial-trait/halfling/sure-footed"
 kind = "racial_trait"
 title = "Sure-Footed"
-source_ids = ["inner-sea-races", "core-rulebook", "advanced-race-guide", "heroes-from-the-fringe", "horror-adventures", "heroes-of-the-wild", "advanced-players-guide", "legacy-of-the-first-world", "legacy-of-dragons", "halflings-of-golarion", "heroes-of-the-high-court", "occult-adventures", "ultimate-wilderness", "ultimate-intrigue"]
+source_ids = ["inner-sea-races", "core-rulebook", "advanced-race-guide", "heroes-from-the-fringe", "horror-adventures", "advanced-players-guide", "halflings-of-golarion", "heroes-of-the-high-court", "ultimate-wilderness", "ultimate-intrigue"]
 parent = "ref/race/halfling"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "halfling|racial-trait:sure-footed", path = "json/races2.json" },

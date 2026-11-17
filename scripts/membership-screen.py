@@ -82,8 +82,11 @@ entry's parent lists the book).
         removal candidate for the entry, and this script's status for it ("unscreened" without
         a PDF; "(none)" when every other book is a removal candidate)
   verdict, print_page, evidence  empty. The reviewer's decision (`remove`, `keep`, `expands`) and
-        the printed page that decides it, and a short code for what the print check found. A re-run
-        overwrites the queue; scripts/membership-apply.py applies the rows marked `remove`.
+        the printed page that decides it, and a short code for what the print check found:
+        `race-section-read-no-trait` (the book's section for the race was read; it does not print
+        the trait), `race-section-read-mention-only` (the same, and the trait is named in passing
+        or in a `replaces` line only), `no-race-section-no-trait`. A re-run overwrites the queue;
+        scripts/membership-apply.py applies the rows marked `remove`.
 
 Known limits (see the PR for the calibration): no-PDF memberships and books without readable
 page numbers are not judged, and neither says anything about absence. A hub-looking entry that

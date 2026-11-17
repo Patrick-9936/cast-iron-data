@@ -756,31 +756,31 @@ heroes-of-the-streets	ref/racial-trait/halfling/fearless	racial_trait	Fearless	1
 heroes-of-the-streets	ref/racial-trait/halfling/keen-senses	racial_trait	Keen Senses	10	17	weak	weak		none	1	8			yes						
 heroes-of-the-streets	ref/racial-trait/halfling/weapon-familiarity	racial_trait	Weapon Familiarity	10	17	weak	weak		none	1	9			yes						
 heroes-of-the-streets	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	11	15	weak	weak		none	1	21	parent	ref/race/human(title)	yes						
-heroes-of-the-wild	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	5	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	5	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/dwarf/hardy	racial_trait	Hardy	5	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	5	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/dwarf/stability	racial_trait	Stability	5	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/elf/attributes	racial_trait	Attributes	11	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/elf/elven-immunities	racial_trait	Elven Immunities	11	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/elf/elven-magic	racial_trait	Elven Magic	11	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/gnome/attributes	racial_trait	Attributes	11	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-heroes-of-the-wild	ref/racial-trait/gnome/defensive-training	racial_trait	Defensive Training	11	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-heroes-of-the-wild	ref/racial-trait/gnome/gnome-magic	racial_trait	Gnome Magic	11	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-heroes-of-the-wild	ref/racial-trait/gnome/illusion-resistance	racial_trait	Illusion Resistance	11	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-heroes-of-the-wild	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	11	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-heroes-of-the-wild	ref/racial-trait/half-elf/attributes	racial_trait	Attributes	12	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	12	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	12	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-heroes-of-the-wild	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	6	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes						
-heroes-of-the-wild	ref/racial-trait/half-orc/intimidating	racial_trait	Intimidating	6	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes						
-heroes-of-the-wild	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	6	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes						
-heroes-of-the-wild	ref/racial-trait/human/attributes	racial_trait	Attributes	9	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes						
-heroes-of-the-wild	ref/racial-trait/human/bonus-feat	racial_trait	Bonus Feat	9	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes						
-heroes-of-the-wild	ref/racial-trait/halfling/attributes	racial_trait	Attributes	6	17	inherited	absent		none	0				yes						
-heroes-of-the-wild	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	6	17	inherited	absent		none	0				yes						
-heroes-of-the-wild	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	6	17	inherited	absent		none	0				yes						
-heroes-of-the-wild	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	6	17	inherited	absent		none	0				yes						
+heroes-of-the-wild	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	5	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	5	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/dwarf/hardy	racial_trait	Hardy	5	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	5	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/dwarf/stability	racial_trait	Stability	5	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/elf/attributes	racial_trait	Attributes	11	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/elf/elven-immunities	racial_trait	Elven Immunities	11	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/elf/elven-magic	racial_trait	Elven Magic	11	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/gnome/attributes	racial_trait	Attributes	11	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	5, 7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/gnome/defensive-training	racial_trait	Defensive Training	11	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	5, 7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/gnome/gnome-magic	racial_trait	Gnome Magic	11	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	5, 7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/gnome/illusion-resistance	racial_trait	Illusion Resistance	11	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	5, 7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	11	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	5, 7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/half-elf/attributes	racial_trait	Attributes	12	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	12	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	12	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	5-6	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	6	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	5-7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/half-orc/intimidating	racial_trait	Intimidating	6	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	5-7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	6	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	5-7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/human/attributes	racial_trait	Attributes	9	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	5, 7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/human/bonus-feat	racial_trait	Bonus Feat	9	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	5, 7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/halfling/attributes	racial_trait	Attributes	6	17	inherited	absent		none	0				yes				remove	5, 7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	6	17	inherited	absent		none	0				yes				remove	5, 7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	6	17	inherited	absent		none	0				yes				remove	5, 7	race-section-read-no-trait
+heroes-of-the-wild	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	6	17	inherited	absent		none	0				yes				remove	5, 7	race-section-read-no-trait
 heroes-of-the-wild	ref/race/halfling	race	Halfling	6	17	weak	weak		none	1	7	child	ref/racial-trait/halfling/fearless(body),ref/racial-trait/halfling/keen-senses(title),ref/racial-trait/halfling/languages(title)							
 heroes-of-the-wild	ref/racial-trait/dwarf/darkvision	racial_trait	Darkvision	5	17	weak	weak		none	1	5	parent	ref/race/dwarf(title)	yes						
 heroes-of-the-wild	ref/racial-trait/dwarf/greed	racial_trait	Greed	5	17	weak	weak		none	1	5	parent	ref/race/dwarf(title)	yes						
@@ -797,12 +797,12 @@ heroes-of-the-wild	ref/racial-trait/half-orc/darkvision	racial_trait	Darkvision	
 heroes-of-the-wild	ref/racial-trait/half-orc/weapon-familiarity	racial_trait	Weapon Familiarity	6	18	weak	weak		none	1	5	parent	ref/race/half-orc(title)	yes						
 heroes-of-the-wild	ref/racial-trait/halfling/weapon-familiarity	racial_trait	Weapon Familiarity	6	17	weak	weak		none	1	5			yes						
 horror-adventures	ref/rule/gm-specific-campaigns	rule	Specific Campaign Types	3	11	hub-keep	absent		none	0										
-horror-adventures	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	8	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-horror-adventures	ref/racial-trait/gnome/gnome-magic	racial_trait	Gnome Magic	7	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-horror-adventures	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	7	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-horror-adventures	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	10	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-horror-adventures	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	7	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes						
-horror-adventures	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	5	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes						
+horror-adventures	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	8	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	38	race-section-read-no-trait
+horror-adventures	ref/racial-trait/gnome/gnome-magic	racial_trait	Gnome Magic	7	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	39	race-section-read-no-trait
+horror-adventures	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	7	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	39	race-section-read-no-trait
+horror-adventures	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	10	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	39-40	race-section-read-no-trait
+horror-adventures	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	7	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	40	race-section-read-no-trait
+horror-adventures	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	5	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	40-41	race-section-read-no-trait
 horror-adventures	ref/rule/rule-sanity-and-madness/curing-insanity	rule	Curing Insanity	2	2	family-leak	absent		none	0		parent	ref/rule/sanity-and-madness(title)	yes						
 horror-adventures	ref/rule/rule-sanity-and-madness/types-of-insanity	rule	Types of Insanity	2	2	family-leak	absent		none	0		parent	ref/rule/sanity-and-madness(title)	yes						
 horror-adventures	ref/class/samurai	class	Samurai	8	9	uncited	absent		none	0										
@@ -849,25 +849,25 @@ kobolds-of-golarion	ref/class/paladin	class	Paladin	10	12	weak	weak		none	1	15
 kobolds-of-golarion	ref/rule/class-barbarian/barbarian	rule	Barbarian	8	10	weak	weak		none	1	15			yes						
 kobolds-of-golarion	ref/rule/class-paladin/paladin	rule	Paladin	10	12	weak	weak		none	1	15			yes						
 lands-of-conflict	ref/rule/gm-specific-campaigns	rule	Specific Campaign Types	6	11	hub-keep	absent		none	0										
-legacy-of-dragons	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	12	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-legacy-of-dragons	ref/racial-trait/dwarf/hatred	racial_trait	Hatred	12	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-legacy-of-dragons	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	12	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-legacy-of-dragons	ref/racial-trait/dwarf/stonecunning	racial_trait	Stonecunning	12	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-legacy-of-dragons	ref/racial-trait/elf/elven-magic	racial_trait	Elven Magic	10	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-legacy-of-dragons	ref/racial-trait/elf/normal-speed	racial_trait	Normal Speed	10	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-legacy-of-dragons	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	9	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes						
-legacy-of-dragons	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	9	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes						
-legacy-of-dragons	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	9	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes						
-legacy-of-dragons	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	4	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes						
-legacy-of-dragons	ref/racial-trait/gnome/defensive-training	racial_trait	Defensive Training	8	16	inherited	absent		none	0				yes						
-legacy-of-dragons	ref/racial-trait/gnome/hatred	racial_trait	Hatred	8	16	inherited	absent		none	0				yes						
-legacy-of-dragons	ref/racial-trait/gnome/illusion-resistance	racial_trait	Illusion Resistance	8	16	inherited	absent		none	0				yes						
-legacy-of-dragons	ref/racial-trait/gnome/obsessive	racial_trait	Obsessive	8	16	inherited	absent		none	0				yes						
-legacy-of-dragons	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	8	16	inherited	absent		none	0				yes						
-legacy-of-dragons	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	11	18	inherited	absent		none	0				yes						
-legacy-of-dragons	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	11	18	inherited	absent		none	0				yes						
-legacy-of-dragons	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	9	18	inherited	absent		none	0				yes						
-legacy-of-dragons	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	9	18	inherited	absent		none	0				yes						
+legacy-of-dragons	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	12	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	10	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/dwarf/hatred	racial_trait	Hatred	12	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	10	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	12	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	10	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/dwarf/stonecunning	racial_trait	Stonecunning	12	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	10	race-section-read-mention-only
+legacy-of-dragons	ref/racial-trait/elf/elven-magic	racial_trait	Elven Magic	10	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	10	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/elf/normal-speed	racial_trait	Normal Speed	10	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	10	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	9	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	10-11	race-section-read-mention-only
+legacy-of-dragons	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	9	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	10-11	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	9	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	10-11	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	4	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	11	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/gnome/defensive-training	racial_trait	Defensive Training	8	16	inherited	absent		none	0				yes				remove	10	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/gnome/hatred	racial_trait	Hatred	8	16	inherited	absent		none	0				yes				remove	10	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/gnome/illusion-resistance	racial_trait	Illusion Resistance	8	16	inherited	absent		none	0				yes				remove	10	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/gnome/obsessive	racial_trait	Obsessive	8	16	inherited	absent		none	0				yes				remove	10	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	8	16	inherited	absent		none	0				yes				remove	10	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	11	18	inherited	absent		none	0				yes				remove	11	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	11	18	inherited	absent		none	0				yes				remove	11	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	9	18	inherited	absent		none	0				yes				remove	11	race-section-read-no-trait
+legacy-of-dragons	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	9	18	inherited	absent		none	0				yes				remove	11	race-section-read-no-trait
 legacy-of-dragons	ref/faith/ardad-lili	rule	Ardad Lili	3	3	review	absent	31	row	0										
 legacy-of-dragons	ref/faith/draghignazzo	rule	Draghignazzo	3	3	review	absent	31	row	0										
 legacy-of-dragons	ref/class/rogue	class	Rogue	14	14	weak	weak		none	1	18									
@@ -899,34 +899,34 @@ legacy-of-dragons	ref/faith/general-susumu	rule	General Susumu	2	2	cite-off	off-
 legacy-of-dragons	ref/faith/nalinivati	rule	Nalinivati	2	2	cite-off	off-page	31	row	1	8									
 legacy-of-dragons	ref/faith/ragadahn	rule	Ragadahn	2	2	cite-off	off-page	31	row	1	8									
 legacy-of-dragons	ref/faith/shizuru	rule	Shizuru	3	3	cite-off	off-page	31	row	1	8									
-legacy-of-the-first-world	ref/racial-trait/elf/attributes	racial_trait	Attributes	7	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/elf/normal-speed	racial_trait	Normal Speed	7	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/gnome/attributes	racial_trait	Attributes	9	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/gnome/defensive-training	racial_trait	Defensive Training	9	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/gnome/hatred	racial_trait	Hatred	9	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	9	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/half-elf/attributes	racial_trait	Attributes	6	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	6	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	6	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	6	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/human/attributes	racial_trait	Attributes	10	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes						
-legacy-of-the-first-world	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	10	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes						
+legacy-of-the-first-world	ref/racial-trait/elf/attributes	racial_trait	Attributes	7	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	4, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/elf/normal-speed	racial_trait	Normal Speed	7	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	4, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/gnome/attributes	racial_trait	Attributes	9	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	4, 6, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/gnome/defensive-training	racial_trait	Defensive Training	9	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	4, 6, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/gnome/hatred	racial_trait	Hatred	9	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	4, 6, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	9	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	4, 6, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/half-elf/attributes	racial_trait	Attributes	6	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	4-5, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	6	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	4-5, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	6	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	4-5, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	6	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	4-5, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/human/attributes	racial_trait	Attributes	10	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	5, 12	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	10	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	5, 12	race-section-read-no-trait
 legacy-of-the-first-world	ref/spell/burning-entanglement	spell	Burning Entanglement	4	4	family-leak	absent	17	row	0		variant	ref/spell/entangle(title)							
-legacy-of-the-first-world	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	9	17	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	9	17	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/dwarf/greed	racial_trait	Greed	9	17	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/dwarf/hatred	racial_trait	Hatred	9	17	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	9	17	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/dwarf/stability	racial_trait	Stability	9	17	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/dwarf/stonecunning	racial_trait	Stonecunning	9	17	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	13	18	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	13	18	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	13	18	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	13	18	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/halfling/attributes	racial_trait	Attributes	8	17	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	8	17	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	8	17	inherited	absent		none	0				yes						
-legacy-of-the-first-world	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	8	17	inherited	absent		none	0				yes						
+legacy-of-the-first-world	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	9	17	inherited	absent		none	0				yes				remove	4	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	9	17	inherited	absent		none	0				yes				remove	4	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/dwarf/greed	racial_trait	Greed	9	17	inherited	absent		none	0				yes				remove	4	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/dwarf/hatred	racial_trait	Hatred	9	17	inherited	absent		none	0				yes				remove	4	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	9	17	inherited	absent		none	0				yes				remove	4	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/dwarf/stability	racial_trait	Stability	9	17	inherited	absent		none	0				yes				remove	4	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/dwarf/stonecunning	racial_trait	Stonecunning	9	17	inherited	absent		none	0				yes				remove	4	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	13	18	inherited	absent		none	0				yes				remove	5	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	13	18	inherited	absent		none	0				yes				remove	5	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	13	18	inherited	absent		none	0				yes				remove	5	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	13	18	inherited	absent		none	0				yes				remove	5	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/halfling/attributes	racial_trait	Attributes	8	17	inherited	absent		none	0				yes				remove	5	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	8	17	inherited	absent		none	0				yes				remove	5	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	8	17	inherited	absent		none	0				yes				remove	5	race-section-read-no-trait
+legacy-of-the-first-world	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	8	17	inherited	absent		none	0				yes				remove	5	race-section-read-no-trait
 legacy-of-the-first-world	ref/class/investigator	class	Investigator	6	7	weak	weak		none	1	9									
 legacy-of-the-first-world	ref/class/kineticist	class	Kineticist	7	9	weak	weak		none	1	9									
 legacy-of-the-first-world	ref/race/dwarf	race	Dwarf	9	17	weak	weak		none	1	4	child	ref/racial-trait/dwarf/languages(title),ref/racial-trait/dwarf/medium(title)							
@@ -961,36 +961,36 @@ mythic-adventures	ref/rule/gm-specific-campaigns	rule	Specific Campaign Types	7	
 mythic-adventures	ref/rule/marshal-2-6	rule	6th-Tier Marshal Path Abilities	1	2	cite-off	off-page	35	row	1	42									
 occult-adventures	ref/rule/feats-class	rule	Class-Based Feats	5	7	hub-keep	absent	128	row	0										
 occult-adventures	ref/rule/gm-specific-campaigns	rule	Specific Campaign Types	8	11	hub-keep	absent		none	0										
-occult-adventures	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-occult-adventures	ref/racial-trait/dwarf/hardy	racial_trait	Hardy	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-occult-adventures	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-occult-adventures	ref/racial-trait/dwarf/stability	racial_trait	Stability	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-occult-adventures	ref/racial-trait/dwarf/stonecunning	racial_trait	Stonecunning	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-occult-adventures	ref/racial-trait/dwarf/weapon-familiarity	racial_trait	Weapon Familiarity	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-occult-adventures	ref/racial-trait/elf/elven-immunities	racial_trait	Elven Immunities	15	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-occult-adventures	ref/racial-trait/elf/elven-magic	racial_trait	Elven Magic	15	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-occult-adventures	ref/racial-trait/elf/keen-senses	racial_trait	Keen Senses	15	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-occult-adventures	ref/racial-trait/elf/weapon-familiarity	racial_trait	Weapon Familiarity	15	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
+occult-adventures	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	84	race-section-read-no-trait
+occult-adventures	ref/racial-trait/dwarf/hardy	racial_trait	Hardy	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	84	race-section-read-no-trait
+occult-adventures	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	84	race-section-read-no-trait
+occult-adventures	ref/racial-trait/dwarf/stability	racial_trait	Stability	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	84	race-section-read-no-trait
+occult-adventures	ref/racial-trait/dwarf/stonecunning	racial_trait	Stonecunning	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	84	race-section-read-no-trait
+occult-adventures	ref/racial-trait/dwarf/weapon-familiarity	racial_trait	Weapon Familiarity	15	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	84	race-section-read-no-trait
+occult-adventures	ref/racial-trait/elf/elven-immunities	racial_trait	Elven Immunities	15	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	84	race-section-read-no-trait
+occult-adventures	ref/racial-trait/elf/elven-magic	racial_trait	Elven Magic	15	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	84	race-section-read-no-trait
+occult-adventures	ref/racial-trait/elf/keen-senses	racial_trait	Keen Senses	15	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	84	race-section-read-no-trait
+occult-adventures	ref/racial-trait/elf/weapon-familiarity	racial_trait	Weapon Familiarity	15	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	84	race-section-read-no-trait
 occult-adventures	ref/spell/implanted-projection	spell	Implanted Projection	1	2	family-leak	absent	188	row	0		variant	ref/spell/telempathic-projection(title)		primary	occult-origins	printed			
 occult-adventures	ref/spell/threefold-form	spell	Threefold Form	1	2	family-leak	absent	158	row	0		variant	ref/spell/bilocation(title)		primary	legacy-of-the-first-world	printed			
-occult-adventures	ref/racial-trait/gnome/defensive-training	racial_trait	Defensive Training	14	16	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/gnome/gnome-magic	racial_trait	Gnome Magic	14	16	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/gnome/illusion-resistance	racial_trait	Illusion Resistance	14	16	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/gnome/keen-senses	racial_trait	Keen Senses	14	16	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/gnome/obsessive	racial_trait	Obsessive	14	16	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	14	16	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/gnome/weapon-familiarity	racial_trait	Weapon Familiarity	14	16	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	16	18	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	16	18	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/half-elf/keen-senses	racial_trait	Keen Senses	16	18	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	16	18	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	16	18	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/half-orc/weapon-familiarity	racial_trait	Weapon Familiarity	16	18	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	15	17	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/halfling/keen-senses	racial_trait	Keen Senses	15	17	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	15	17	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	15	17	inherited	absent		none	0				yes						
-occult-adventures	ref/racial-trait/halfling/weapon-familiarity	racial_trait	Weapon Familiarity	15	17	inherited	absent		none	0				yes						
+occult-adventures	ref/racial-trait/gnome/defensive-training	racial_trait	Defensive Training	14	16	inherited	absent		none	0				yes				remove	84-85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/gnome/gnome-magic	racial_trait	Gnome Magic	14	16	inherited	absent		none	0				yes				remove	84-85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/gnome/illusion-resistance	racial_trait	Illusion Resistance	14	16	inherited	absent		none	0				yes				remove	84-85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/gnome/keen-senses	racial_trait	Keen Senses	14	16	inherited	absent		none	0				yes				remove	84-85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/gnome/obsessive	racial_trait	Obsessive	14	16	inherited	absent		none	0				yes				remove	84-85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	14	16	inherited	absent		none	0				yes				remove	84-85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/gnome/weapon-familiarity	racial_trait	Weapon Familiarity	14	16	inherited	absent		none	0				yes				remove	84-85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	16	18	inherited	absent		none	0				yes				remove	85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	16	18	inherited	absent		none	0				yes				remove	85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/half-elf/keen-senses	racial_trait	Keen Senses	16	18	inherited	absent		none	0				yes				remove	85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	16	18	inherited	absent		none	0				yes				remove	85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	16	18	inherited	absent		none	0				yes				remove	85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/half-orc/weapon-familiarity	racial_trait	Weapon Familiarity	16	18	inherited	absent		none	0				yes				remove	85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	15	17	inherited	absent		none	0				yes				remove	85	race-section-read-mention-only
+occult-adventures	ref/racial-trait/halfling/keen-senses	racial_trait	Keen Senses	15	17	inherited	absent		none	0				yes				remove	85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	15	17	inherited	absent		none	0				yes				remove	85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	15	17	inherited	absent		none	0				yes				remove	85	race-section-read-no-trait
+occult-adventures	ref/racial-trait/halfling/weapon-familiarity	racial_trait	Weapon Familiarity	15	17	inherited	absent		none	0				yes				remove	85	race-section-read-no-trait
 occult-adventures	ref/race/gnome	race	Gnome	14	16	weak	weak		none	1	84	child	ref/racial-trait/gnome/attributes(title),ref/racial-trait/gnome/hatred(title),ref/racial-trait/gnome/languages(title)							
 occult-adventures	ref/race/half-elf	race	Half-Elf	16	18	weak	weak		none	1	85	child	ref/racial-trait/half-elf/adaptability(title),ref/racial-trait/half-elf/attributes(title),ref/racial-trait/half-elf/languages(title)							
 occult-adventures	ref/race/half-orc	race	Half-Orc	16	18	weak	weak		none	1	85	child	ref/racial-trait/half-orc/attributes(title),ref/racial-trait/half-orc/darkvision(title),ref/racial-trait/half-orc/intimidating(title)							
@@ -1030,11 +1030,11 @@ psychic-anthology	ref/spell/spirit-bound-blade	spell	Spirit-Bound Blade	2	4	weak
 qadira-gateway-to-the-east	ref/trait/alchemical-prodigy	trait	Alchemical Prodigy	2	2	weak	weak		none	1	25									
 qadira-gateway-to-the-east	ref/trait/strong-arm-supple-wrist	trait	Strong Arm, Supple Wrist	2	2	weak	weak		none	1	9									
 revenge-of-the-kobold-king	ref/eq-weapon/chain-spear	item	Chain spear	3	5	review	absent	13	row	0										
-rival-guide	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	10	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-rival-guide	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	10	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-rival-guide	ref/racial-trait/dwarf/greed	racial_trait	Greed	10	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-rival-guide	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	10	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-rival-guide	ref/racial-trait/dwarf/stability	racial_trait	Stability	10	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
+rival-guide	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	10	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	35	race-section-read-no-trait
+rival-guide	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	10	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	35	race-section-read-no-trait
+rival-guide	ref/racial-trait/dwarf/greed	racial_trait	Greed	10	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	35	race-section-read-no-trait
+rival-guide	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	10	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	35	race-section-read-no-trait
+rival-guide	ref/racial-trait/dwarf/stability	racial_trait	Stability	10	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	35	race-section-read-no-trait
 rival-guide	ref/magic-wondrous/aegis-of-recovery-greater	item	Greater Aegis of Recovery	2	2	review	absent	5	row	0										
 rival-guide	ref/racial-trait/dwarf/stonecunning	racial_trait	Stonecunning	10	17	weak	weak		none	1	35	parent	ref/race/dwarf(title)	yes						
 rival-guide	ref/racial-trait/dwarf/weapon-familiarity	racial_trait	Weapon Familiarity	10	17	weak	weak		none	1	13	parent	ref/race/dwarf(title)	yes						
@@ -1111,29 +1111,29 @@ ultimate-intrigue	ref/rule/advanced-gm-topics	rule	Advanced GM Topics	6	8	hub-ke
 ultimate-intrigue	ref/rule/gm-specific-campaigns	rule	Specific Campaign Types	4	11	hub-keep	absent		none	0										
 ultimate-intrigue	ref/rule/optional-subsystems	rule	Optional Subsystems	5	10	hub-keep	absent		none	0										
 ultimate-intrigue	ref/rule/specific-rulesets	rule	Specific Rulesets	9	11	hub-keep	absent		none	0										
-ultimate-intrigue	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	17	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-ultimate-intrigue	ref/racial-trait/dwarf/stonecunning	racial_trait	Stonecunning	17	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes						
-ultimate-intrigue	ref/racial-trait/elf/elven-immunities	racial_trait	Elven Immunities	17	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-ultimate-intrigue	ref/racial-trait/elf/elven-magic	racial_trait	Elven Magic	17	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-ultimate-intrigue	ref/racial-trait/elf/normal-speed	racial_trait	Normal Speed	17	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes						
-ultimate-intrigue	ref/racial-trait/gnome/gnome-magic	racial_trait	Gnome Magic	16	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-ultimate-intrigue	ref/racial-trait/gnome/illusion-resistance	racial_trait	Illusion Resistance	16	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-ultimate-intrigue	ref/racial-trait/gnome/obsessive	racial_trait	Obsessive	16	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-ultimate-intrigue	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	16	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes						
-ultimate-intrigue	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	18	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-ultimate-intrigue	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	18	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-ultimate-intrigue	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	18	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-ultimate-intrigue	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	18	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes						
-ultimate-intrigue	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	18	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes						
-ultimate-intrigue	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	18	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes						
-ultimate-intrigue	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	15	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes						
+ultimate-intrigue	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	17	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/dwarf/stonecunning	racial_trait	Stonecunning	17	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/elf/elven-immunities	racial_trait	Elven Immunities	17	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/elf/elven-magic	racial_trait	Elven Magic	17	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/elf/normal-speed	racial_trait	Normal Speed	17	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/gnome/gnome-magic	racial_trait	Gnome Magic	16	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/gnome/illusion-resistance	racial_trait	Illusion Resistance	16	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/gnome/obsessive	racial_trait	Obsessive	16	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	16	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	18	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	18	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	18	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	18	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	18	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	18	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	15	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	17	race-section-read-no-trait
 ultimate-intrigue	ref/spell/charm-fey	spell	Charm Fey	3	3	family-leak	absent	206	row	0		variant	ref/spell/charm-person(title)							
 ultimate-intrigue	ref/spell/cyclic-reincarnation	spell	Cyclic Reincarnation	4	4	family-leak	absent	223	row	0		variant	ref/spell/reincarnate(title)							
 ultimate-intrigue	ref/spell/escape-alarm	spell	Escape Alarm	3	3	family-leak	absent	224	row	0		variant	ref/spell/alarm(title)							
 ultimate-intrigue	ref/spell/sympathetic-aura	spell	Sympathetic Aura	2	3	family-leak	absent	219	row	0		variant	ref/spell/magic-aura(title)							
-ultimate-intrigue	ref/racial-trait/halfling/fearless	racial_trait	Fearless	17	17	inherited	absent		none	0				yes						
-ultimate-intrigue	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	17	17	inherited	absent		none	0				yes						
-ultimate-intrigue	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	17	17	inherited	absent		none	0				yes						
+ultimate-intrigue	ref/racial-trait/halfling/fearless	racial_trait	Fearless	17	17	inherited	absent		none	0				yes				remove	17	race-section-read-no-trait
+ultimate-intrigue	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	17	17	inherited	absent		none	0				yes				remove	17, 93	race-section-read-mention-only
+ultimate-intrigue	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	17	17	inherited	absent		none	0				yes				remove	17	race-section-read-no-trait
 ultimate-intrigue	ref/spell/identifiers-eye	spell	Identifier's Eye	4	5	review	absent	212	row	0										
 ultimate-intrigue	ref/race/halfling	race	Halfling	17	17	weak	weak		none	1	114	child	ref/racial-trait/halfling/attributes(title),ref/racial-trait/halfling/languages(title),ref/racial-trait/halfling/small(title)							
 ultimate-intrigue	ref/racial-trait/dwarf/defensive-training	racial_trait	Defensive Training	17	17	weak	weak		none	1	27	parent	ref/race/dwarf(title)	yes						
