@@ -17117,12 +17117,124 @@ title = "Universal Monster Rules"
 collapse = true
 
 [[books.chapters.children]]
+title = "All-Around Vision"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/all-around-vision"
+
+[[books.chapters.children]]
+title = "Amorphous"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/amorphous"
+
+[[books.chapters.children]]
+title = "Attach"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/attach"
+
+[[books.chapters.children]]
+title = "Blood Drain"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/blood-drain"
+
+[[books.chapters.children]]
+title = "Blood Rage"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/blood-rage"
+
+[[books.chapters.children]]
+title = "Compression"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/compression"
+
+[[books.chapters.children]]
+title = "Curse of Lycanthropy"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/curse-of-lycanthropy"
+
+[[books.chapters.children]]
+title = "Earth Glide"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/earth-glide"
+
+[[books.chapters.children]]
+title = "Engulf"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/engulf"
+
+[[books.chapters.children]]
+title = "Entrap"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/entrap"
+
+[[books.chapters.children]]
+title = "Fast Swallow"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/fast-swallow"
+
+[[books.chapters.children]]
+title = "Freeze"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/freeze"
+
+[[books.chapters.children]]
+title = "Heat"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/heat"
+
+[[books.chapters.children]]
+title = "Hold Breath"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/hold-breath"
+
+[[books.chapters.children]]
+title = "Jet"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/jet"
+
+[[books.chapters.children]]
+title = "Keen Scent"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/keen-scent"
+
+[[books.chapters.children]]
+title = "Lifesense"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/lifesense"
+
+[[books.chapters.children]]
 title = "Lycanthropic Empathy"
 entry = "ref/umr/lycanthropic-empathy"
 
 [[books.chapters.children.children]]
 title = "Lycanthropic Empathy"
 entry = "ref/rule/umr-lycanthropic-empathy/lycanthropic-empathy"
+
+[[books.chapters.children]]
+title = "Multiweapon Mastery"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/multiweapon-mastery"
+
+[[books.chapters.children]]
+title = "Natural Invisibility"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/natural-invisibility"
+
+[[books.chapters.children]]
+title = "Negative Energy Affinity"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/negative-energy-affinity"
+
+[[books.chapters.children]]
+title = "No Breath"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/no-breath"
+
+[[books.chapters.children]]
+title = "See in Darkness"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/see-in-darkness"
+
+[[books.chapters.children]]
+title = "Sound Mimicry"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/sound-mimicry"
+
+[[books.chapters.children]]
+title = "Split"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/split"
+
+[[books.chapters.children]]
+title = "Strangle"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/strangle"
+
+[[books.chapters.children]]
+title = "Sunlight Powerlessness"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/sunlight-powerlessness"
+
+[[books.chapters.children]]
+title = "Undersized Weapons"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/undersized-weapons"
+
+[[books.chapters.children]]
+title = "Unnatural Aura"
+entry = "ref/carried/bestiary/rules/universal-monster-rules/unnatural-aura"
 
 [[books.chapters]]
 title = "Monster Subtypes"
@@ -17164,14 +17276,6 @@ title = "Air"
 entry = "ref/subtype/air"
 
 [[books.chapters.children]]
-title = "All-Around Vision"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/all-around-vision"
-
-[[books.chapters.children]]
-title = "Amorphous"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/amorphous"
-
-[[books.chapters.children]]
 title = "Angel"
 entry = "ref/subtype/angel"
 
@@ -17184,10 +17288,6 @@ title = "Archon"
 entry = "ref/subtype/archon"
 
 [[books.chapters.children]]
-title = "Attach"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/attach"
-
-[[books.chapters.children]]
 title = "Augmented"
 entry = "ref/subtype/augmented"
 
@@ -17196,28 +17296,12 @@ title = "Azata"
 entry = "ref/subtype/azata"
 
 [[books.chapters.children]]
-title = "Blood Drain"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/blood-drain"
-
-[[books.chapters.children]]
-title = "Blood Rage"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/blood-rage"
-
-[[books.chapters.children]]
 title = "Chaotic"
 entry = "ref/subtype/chaotic"
 
 [[books.chapters.children]]
 title = "Cold"
 entry = "ref/subtype/cold"
-
-[[books.chapters.children]]
-title = "Compression"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/compression"
-
-[[books.chapters.children]]
-title = "Curse of Lycanthropy"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/curse-of-lycanthropy"
 
 [[books.chapters.children]]
 title = "Daemon"
@@ -17240,24 +17324,12 @@ title = "Earth"
 entry = "ref/subtype/earth"
 
 [[books.chapters.children]]
-title = "Earth Glide"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/earth-glide"
-
-[[books.chapters.children]]
 title = "Elemental"
 entry = "ref/family/elemental"
 
 [[books.chapters.children]]
 title = "Elemental"
 entry = "ref/subtype/elemental"
-
-[[books.chapters.children]]
-title = "Engulf"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/engulf"
-
-[[books.chapters.children]]
-title = "Entrap"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/entrap"
 
 [[books.chapters.children]]
 title = "Evil"
@@ -17268,16 +17340,8 @@ title = "Extraplanar"
 entry = "ref/subtype/extraplanar"
 
 [[books.chapters.children]]
-title = "Fast Swallow"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/fast-swallow"
-
-[[books.chapters.children]]
 title = "Fire"
 entry = "ref/subtype/fire"
-
-[[books.chapters.children]]
-title = "Freeze"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/freeze"
 
 [[books.chapters.children]]
 title = "Giant"
@@ -17292,14 +17356,6 @@ title = "Good"
 entry = "ref/subtype/good"
 
 [[books.chapters.children]]
-title = "Heat"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/heat"
-
-[[books.chapters.children]]
-title = "Hold Breath"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/hold-breath"
-
-[[books.chapters.children]]
 title = "Incorporeal"
 entry = "ref/subtype/incorporeal"
 
@@ -17308,40 +17364,12 @@ title = "Inevitable"
 entry = "ref/subtype/inevitable"
 
 [[books.chapters.children]]
-title = "Jet"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/jet"
-
-[[books.chapters.children]]
-title = "Keen Scent"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/keen-scent"
-
-[[books.chapters.children]]
 title = "Lawful"
 entry = "ref/subtype/lawful"
 
 [[books.chapters.children]]
-title = "Lifesense"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/lifesense"
-
-[[books.chapters.children]]
-title = "Multiweapon Mastery"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/multiweapon-mastery"
-
-[[books.chapters.children]]
 title = "Native"
 entry = "ref/subtype/native"
-
-[[books.chapters.children]]
-title = "Natural Invisibility"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/natural-invisibility"
-
-[[books.chapters.children]]
-title = "Negative Energy Affinity"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/negative-energy-affinity"
-
-[[books.chapters.children]]
-title = "No Breath"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/no-breath"
 
 [[books.chapters.children]]
 title = "Protean"
@@ -17352,40 +17380,12 @@ title = "Qlippoth"
 entry = "ref/subtype/qlippoth"
 
 [[books.chapters.children]]
-title = "See in Darkness"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/see-in-darkness"
-
-[[books.chapters.children]]
 title = "Shapechanger"
 entry = "ref/subtype/shapechanger"
 
 [[books.chapters.children]]
-title = "Sound Mimicry"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/sound-mimicry"
-
-[[books.chapters.children]]
-title = "Split"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/split"
-
-[[books.chapters.children]]
-title = "Strangle"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/strangle"
-
-[[books.chapters.children]]
-title = "Sunlight Powerlessness"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/sunlight-powerlessness"
-
-[[books.chapters.children]]
 title = "Swarm"
 entry = "ref/subtype/swarm"
-
-[[books.chapters.children]]
-title = "Undersized Weapons"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/undersized-weapons"
-
-[[books.chapters.children]]
-title = "Unnatural Aura"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/unnatural-aura"
 
 [[books.chapters.children]]
 title = "Water"
