@@ -2,13 +2,10 @@
 id = "ref/spell/beast-shape"
 kind = "spell"
 title = "Beast Shape"
-source_ids = ["core-rulebook", "animal-archive"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "beast_shape", path = "json/spells12.json" },
 ]
-[[sources]]
-publication = "animal-archive"
-page = "25"
 
 [fields]
 kind = "spell"

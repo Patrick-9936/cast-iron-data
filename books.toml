@@ -74109,10 +74109,6 @@ title = "Detect Fiendish Presence"
 entry = "ref/spell/detect-fiendish-presence"
 
 [[books.chapters.children]]
-title = "Detect Good"
-entry = "ref/spell/detect-good"
-
-[[books.chapters.children]]
 title = "Devil Impostor"
 entry = "ref/arc-unchained-summoner/devil-impostor"
 
@@ -76055,10 +76051,6 @@ entry = "ref/spell/familiar-figment"
 [[books.chapters.children]]
 title = "Hunter's Friend"
 entry = "ref/spell/hunters-friend"
-
-[[books.chapters.children]]
-title = "Beast Shape"
-entry = "ref/spell/beast-shape"
 
 [[books.chapters.children]]
 title = "Scamper"
@@ -116106,18 +116098,6 @@ entry = "ref/spell/summon-giant-ally-3"
 [[books.chapters.children]]
 title = "Summon Kami"
 entry = "ref/spell/summon-kami"
-
-[[books.chapters.children]]
-title = "Summon Nature's Ally"
-entry = "ref/spell/summon-natures-ally"
-
-[[books.chapters.children]]
-title = "Summon Nature's Ally I"
-entry = "ref/spell/summon-natures-ally-1"
-
-[[books.chapters.children]]
-title = "Summon Nature's Ally II"
-entry = "ref/spell/summon-natures-ally-2"
 
 [[books.chapters.children]]
 title = "Suppressing Stone"
@@ -158613,10 +158593,6 @@ title = "Conditional Favor"
 entry = "ref/spell/conditional-favor"
 
 [[books.chapters.children]]
-title = "Major Curse"
-entry = "ref/spell/curse-major"
-
-[[books.chapters.children]]
 title = "Mass Charm Person"
 entry = "ref/spell/charm-person-mass"
 
@@ -158923,10 +158899,6 @@ entry = "ref/spell/trace-teleport"
 [[books.chapters.children]]
 title = "Trade Items"
 entry = "ref/spell/trade-items"
-
-[[books.chapters.children]]
-title = "Greater Teleport"
-entry = "ref/spell/teleport-greater"
 
 [[books.chapters.children]]
 title = "Treacherous Teleport"
@@ -162285,18 +162257,6 @@ entry = "ref/spell/fey-form-4"
 [[books.chapters.children]]
 title = "Fey Gate"
 entry = "ref/spell/fey-gate"
-
-[[books.chapters.children]]
-title = "Beast Shape I"
-entry = "ref/spell/beast-shape-1"
-
-[[books.chapters.children]]
-title = "Beast Shape II"
-entry = "ref/spell/beast-shape-2"
-
-[[books.chapters.children]]
-title = "Beast Shape III"
-entry = "ref/spell/beast-shape-3"
 
 [[books.chapters.children]]
 title = "Flashfire"

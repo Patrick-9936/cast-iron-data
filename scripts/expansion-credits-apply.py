@@ -20,8 +20,12 @@ The decision file has one row per (entry, book). Its `action` column is one of
                  wrong-credit  the book prints neither the entry nor a related entry. The row
                                must carry the invalidated citation in `invalidated`; the
                                decision file is the audit record of it.
-               Any other class (a pure passing mention, for example) is refused: those rows go to
-               the held file and the owner decides.
+                 mention       the book only mentions the entry (owner decision 2026-11-17: a
+                               mention is not a printing). The row must carry the invalidated
+                               citation, the pages of the mentions (`mention_pages`) and what
+                               kind of mention each is (`mention_kind`, in the corpus
+                               maintainer's words: no book text is copied).
+               Any other class is refused.
   expanded_in  the book expands the entry and the expanding text has no entry of its own
                (class `expands`). The script does what `remove` does, then writes an
                `[[expanded_in]]` row with the book, the page that the removed `[[sources]]` row
@@ -38,7 +42,7 @@ entry can no longer hold it, because a `[[sources]]` row needs its book in `sour
 
 Safety rules
   * An `id` is never edited and an entry file is never moved.
-  * A removal is refused unless its class is `family-ref` or `wrong-credit`, and a `family-ref`
+  * A removal is refused unless its class is `family-ref`, `wrong-credit` or `mention`, and a `family-ref`
     row is refused unless the related entry, its citation and the relation edge check out.
   * The last book of an entry is never removed.
   * Removing an entry's first book changes its primary book. The row must name the book that
@@ -63,7 +67,7 @@ SOURCE_IDS = re.compile(r"^source_ids = \[(.*)\]$", re.M)
 HEADER = re.compile(r"^\[\[books((?:\.chapters)(?:\.children)*)?\]\]$")
 
 
-REMOVE_CLASSES = ("family-ref", "wrong-credit")
+REMOVE_CLASSES = ("family-ref", "wrong-credit", "mention")
 EDGE_KINDS = ("variant", "addon", "part", "revision")
 
 
@@ -90,8 +94,10 @@ def read_decisions(path: Path) -> list[dict]:
                 raise SystemExit(f"refused: {name} has class {r['class']!r}; only {', '.join(REMOVE_CLASSES)} may be removed")
             if r["class"] == "family-ref" and not (r["family"] and r["related_cite"] and r["print_page"]):
                 raise SystemExit(f"refused: {name} is a family-ref without family, related_cite and print_page")
-            if r["class"] == "wrong-credit" and not r["invalidated"]:
-                raise SystemExit(f"refused: {name} is a wrong-credit without the invalidated citation")
+            if r["class"] in ("wrong-credit", "mention") and not r["invalidated"]:
+                raise SystemExit(f"refused: {name} is a {r['class']} without the invalidated citation")
+            if r["class"] == "mention" and not (r["mention_pages"] and r["mention_kind"]):
+                raise SystemExit(f"refused: {name} is a mention without mention_pages and mention_kind")
         if r["action"] == "expanded_in" and (r["class"] != "expands" or not r["via"]):
             raise SystemExit(f"refused: {name} needs class expands and a via entry")
         if r["action"] == "add" and (r["class"] != "printed-group" or not r["print_page"]):
