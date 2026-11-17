@@ -350,8 +350,8 @@ bestiary-4	ref/affliction/gholdako/seaside-rot	affliction	Seaside rot	1	2	weak	w
 bestiary-4	ref/affliction/ningyo/ningyo-flesh	affliction	Ningyo Flesh	2	2	weak	weak		none	1	206	parent	ref/monster/ningyo(title)	yes						
 bestiary-5	ref/misc/damage-die-adjustments	rule	Damage Die Adjustments	2	3	hub-keep	absent	296	row	0										
 bestiary-5	ref/rule/rare-races	rule	Rare Races	5	19	hub-keep	absent	37	row	0										
-bestiary-5	ref/affliction/sea-urchin-giant-hunter-urchin/sea-urchin-venom	affliction	Sea Urchin Venom	2	2	family-leak	absent		none	0		parent	ref/monster/sea-urchin-giant-hunter-urchin(title)	yes				keep	223	stat-block-poison-differs
-bestiary-5	ref/affliction/sea-urchin-giant-spear-urchin/sea-urchin-venom	affliction	Sea Urchin Venom	2	2	family-leak	absent		none	0		parent	ref/monster/sea-urchin-giant-spear-urchin(title)	yes				keep	223	stat-block-poison-differs
+bestiary-5	ref/affliction/sea-urchin-giant-hunter-urchin/sea-urchin-venom	affliction	Sea Urchin Venom	2	2	family-leak	absent		none	0		parent	ref/monster/sea-urchin-giant-hunter-urchin(title)	yes				remove	223	wrong-credit-invalidated
+bestiary-5	ref/affliction/sea-urchin-giant-spear-urchin/sea-urchin-venom	affliction	Sea Urchin Venom	2	2	family-leak	absent		none	0		parent	ref/monster/sea-urchin-giant-spear-urchin(title)	yes				remove	223	wrong-credit-invalidated
 black-markets	ref/rule/specific-rulesets	rule	Specific Rulesets	2	11	hub-keep	absent		none	0										
 black-markets	ref/spell/share-language-communal	spell	Communal Share Language	2	3	family-leak	absent	24	row	0		variant	ref/spell/share-language(title)					remove	24	wrong-credit-invalidated
 blood-of-shadows	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	6	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	5	race-section-read-no-trait

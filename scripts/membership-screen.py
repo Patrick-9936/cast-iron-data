@@ -96,8 +96,8 @@ entry's parent lists the book).
         relations edge to this entry; the audit file names it), `title-printed` (keep: the entry
         is printed on the page), `passing-mention-recorded` (remove: the book only names the entry in
         passing and no related entry carries the page; the audit file records the page and the
-        kind of mention, class `mention`), `stat-block-poison-differs` (keep: a printed creature has a poison
-        with the same role but other numbers).
+        kind of mention, class `mention`), `wrong-credit-invalidated` also covers an entry whose printed counterpart
+        differs materially (an affliction with other numbers than the book prints).
         A re-run overwrites the queue; scripts/membership-apply.py applies the rows marked `remove`.
 
 Known limits (see the PR for the calibration): no-PDF memberships and books without readable

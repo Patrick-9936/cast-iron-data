@@ -36,7 +36,8 @@ the same `cited_page` and one of these classes:
 
 The columns and class names follow `scripts/expansion-credits-459.tsv` (#459).
 
-A body source line is never deleted by this script: convert it first (to an `expanded_in`
+A body source line is never deleted by this script, and it blocks the removal even when a
+structured row exists too (checked first): convert it first (to an `expanded_in`
 credit once #458 lands, or by keeping the membership if the book prints the entry).
 
 It refuses a row that
@@ -96,19 +97,22 @@ def fold(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", s.replace("\u2019", "'").replace("'", "").lower()).strip()
 
 
-def citation_blocking(text: str, book: str, title: str) -> str | None:
-    """What page citation of `book` the entry holds, if any: a `[[sources]]` row or a body
-    source line that names the book's title. Such a citation must not be deleted."""
+def has_sources_row(text: str, book: str) -> bool:
+    """True when the entry holds a `[[sources]]` row for `book`."""
     lines = text.split("\n")
-    for i, line in enumerate(lines):
-        if line == "[[sources]]" and f'publication = "{book}"' in lines[i + 1:i + 3]:
-            return "a [[sources]] row"
+    return any(line == "[[sources]]" and f'publication = "{book}"' in lines[i + 1:i + 3]
+               for i, line in enumerate(lines))
+
+
+def body_citation(text: str, title: str) -> bool:
+    """True when a body source line (`**source:**`, `**Sources:**`) names the book's title.
+    It is checked on its own, whatever structured rows the entry also holds: the script never
+    deletes a body citation, and an entry that holds one is never changed."""
     body = text.split("+++", 2)[2] if text.startswith("+++") else text
     ft = fold(title)
-    for line in body.split("\n"):
-        if SOURCE_LINE.search(line) and ft and re.search(r"(?<![a-z0-9])" + re.escape(ft) + r"(?![a-z0-9])", fold(line)):
-            return "a body source line"
-    return None
+    return any(SOURCE_LINE.search(line) and ft and
+               re.search(r"(?<![a-z0-9])" + re.escape(ft) + r"(?![a-z0-9])", fold(line))
+               for line in body.split("\n"))
 
 
 def drop_sources_row(text: str, book: str) -> str:
@@ -208,7 +212,8 @@ def release_citation(root: Path, entry: str, book: str, text: str, audit: dict) 
 def edit_entry(path: Path, book: str, title: str, write: bool = True,
                entry: str = "", root: Path | None = None, audit: dict | None = None) -> str:
     """Remove `book` from `source_ids` of one entry file. Returns 'removed' or 'absent'; refuses
-    the last book and any page citation of the book. Nothing but the `source_ids` line changes."""
+    the last book, any body source line naming the book (checked first, whatever structured rows exist)
+    and any `[[sources]]` row the audit file does not release."""
     text = path.read_text(encoding="utf-8")
     m = SOURCE_IDS.search(text)
     if not m:
@@ -218,13 +223,11 @@ def edit_entry(path: Path, book: str, title: str, write: bool = True,
         return "absent"
     if len(ids) == 1:
         raise SystemExit(f"refused: {book} is the last book of {path}")
-    held = citation_blocking(text, book, title)
-    drop_row = False
-    if held == "a [[sources]] row":
+    if body_citation(text, title):
+        raise SystemExit(f"refused: {path.name} holds a body source line for {book}; convert it, never delete it")
+    drop_row = has_sources_row(text, book)
+    if drop_row:
         release_citation(root, entry, book, text, audit or {})
-        drop_row = True
-    elif held:
-        raise SystemExit(f"refused: {path.name} holds {held} for {book}; convert it, never delete it")
     ids.remove(book)
     new_line = "source_ids = [" + ", ".join(f'"{i}"' for i in ids) + "]"
     if write:

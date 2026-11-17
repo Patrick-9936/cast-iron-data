@@ -79556,17 +79556,9 @@ entry = "ref/monster/scitalis"
 title = "Hunter Urchin (Giant Sea Urchin)"
 entry = "ref/monster/sea-urchin-giant-hunter-urchin"
 
-[[books.chapters.children.children]]
-title = "Sea Urchin Venom"
-entry = "ref/affliction/sea-urchin-giant-hunter-urchin/sea-urchin-venom"
-
 [[books.chapters.children]]
 title = "Spear Urchin (Giant Sea Urchin)"
 entry = "ref/monster/sea-urchin-giant-spear-urchin"
-
-[[books.chapters.children.children]]
-title = "Sea Urchin Venom"
-entry = "ref/affliction/sea-urchin-giant-spear-urchin/sea-urchin-venom"
 
 [[books.chapters.children]]
 title = "Seilenos"
