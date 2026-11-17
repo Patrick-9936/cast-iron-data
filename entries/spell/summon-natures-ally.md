@@ -2,10 +2,13 @@
 id = "ref/spell/summon-natures-ally"
 kind = "spell"
 title = "Summon Nature's Ally"
-source_ids = ["core-rulebook"]
+source_ids = ["core-rulebook", "inner-sea-races"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "summon_natures_ally", path = "json/spells16.json" },
 ]
+[[sources]]
+publication = "inner-sea-races"
+page = "223"
 
 [fields]
 kind = "spell"
