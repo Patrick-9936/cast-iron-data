@@ -9,12 +9,18 @@ It reads the queue written by `scripts/membership-screen.py` and acts only on th
 marked `keep` or `expands` and rows without a verdict are never touched. For each removal it
 
   1. takes the book out of the entry's `source_ids` (order of the rest is kept),
-  2. drops the entry's `[[sources]]` row for that book, if there is one,
-  3. drops the entry's placement in that book from `books.toml`. The compiler requires every
+  2. drops the entry's placement in that book from `books.toml`. The compiler requires every
      placement to be in `source_ids` (docs/corpus-format.md, "corpus-check"). A title-only group
      (no `entry`, no `anchor`) whose children are all removed is dropped as well.
 
+It never deletes a page citation. A `[[sources]]` row must name a book in `source_ids`, and a raw
+`**source:** Book/N` or `**Sources:** Book pg N` line in the body is the only page citation for
+many entries, so a removal that would leave either one behind is refused: the whole run stops
+before it writes anything. Convert such a citation first (to an `expanded_in` credit once #458
+lands, or by keeping the membership if the book prints the entry); do not delete it.
+
 It refuses a row that
+  * has a `[[sources]]` row, or a body source line, that names the book (see above),
   * has `gate = primary` (removing the first book changes the entry's primary book: those rows
     need their own decision) or tag `hub-keep`,
   * would leave `source_ids` empty (the last book of an entry is never removed),
@@ -31,6 +37,7 @@ import argparse
 import csv
 import re
 import sys
+import tomllib
 from collections import defaultdict
 from pathlib import Path
 
@@ -61,8 +68,31 @@ def entry_path(root: Path, eid: str) -> Path:
 SOURCE_IDS = re.compile(r"^source_ids = \[(.*)\]$", re.M)
 
 
-def edit_entry(path: Path, book: str) -> str:
-    """Remove `book` from one entry file. Returns 'removed' or 'absent'; raises on the last book."""
+SOURCE_LINE = re.compile(r"\*\*[Ss]ources?:?\*\*")
+
+
+def fold(s: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", s.replace("\u2019", "'").replace("'", "").lower()).strip()
+
+
+def citation_blocking(text: str, book: str, title: str) -> str | None:
+    """What page citation of `book` the entry holds, if any: a `[[sources]]` row or a body
+    source line that names the book's title. Such a citation must not be deleted."""
+    lines = text.split("\n")
+    for i, line in enumerate(lines):
+        if line == "[[sources]]" and f'publication = "{book}"' in lines[i + 1:i + 3]:
+            return "a [[sources]] row"
+    body = text.split("+++", 2)[2] if text.startswith("+++") else text
+    ft = fold(title)
+    for line in body.split("\n"):
+        if SOURCE_LINE.search(line) and ft and re.search(r"(?<![a-z0-9])" + re.escape(ft) + r"(?![a-z0-9])", fold(line)):
+            return "a body source line"
+    return None
+
+
+def edit_entry(path: Path, book: str, title: str, write: bool = True) -> str:
+    """Remove `book` from `source_ids` of one entry file. Returns 'removed' or 'absent'; refuses
+    the last book and any page citation of the book. Nothing but the `source_ids` line changes."""
     text = path.read_text(encoding="utf-8")
     m = SOURCE_IDS.search(text)
     if not m:
@@ -72,24 +102,13 @@ def edit_entry(path: Path, book: str) -> str:
         return "absent"
     if len(ids) == 1:
         raise SystemExit(f"refused: {book} is the last book of {path}")
+    held = citation_blocking(text, book, title)
+    if held:
+        raise SystemExit(f"refused: {path.name} holds {held} for {book}; convert it, never delete it")
     ids.remove(book)
     new_line = "source_ids = [" + ", ".join(f'"{i}"' for i in ids) + "]"
-    text = text[:m.start()] + new_line + text[m.end():]
-    # Drop the [[sources]] block of this book (header, `publication`, optional `page`).
-    lines = text.split("\n")
-    out, i = [], 0
-    while i < len(lines):
-        if lines[i] == "[[sources]]":
-            j = i + 1
-            while j < len(lines) and lines[j] and not lines[j].startswith("["):
-                j += 1
-            block = lines[i:j]
-            if f'publication = "{book}"' in block:
-                i = j
-                continue
-        out.append(lines[i])
-        i += 1
-    path.write_text("\n".join(out), encoding="utf-8")
+    if write:
+        path.write_text(text[:m.start()] + new_line + text[m.end():], encoding="utf-8")
     return "removed"
 
 
@@ -166,25 +185,27 @@ def main() -> int:
 
     rows = read_queue(args.queue, args.only_kind)
     root = args.corpus
-    removed = absent = 0
+    titles = {p["id"]: p["title"] for p in tomllib.loads((root / "publications.toml").read_text(encoding="utf-8"))["publication"]}
     removals: dict[str, set[str]] = defaultdict(set)
     seen = set()
+    todo = []
     for r in rows:
         key = (r["book"], r["entry"])
         if key in seen:
             raise SystemExit(f"refused: duplicate row {r['entry']} in {r['book']}")
         seen.add(key)
+        if r["book"] not in titles:
+            raise SystemExit(f"refused: unknown book {r['book']}")
         path = entry_path(root, r["entry"])
         if not path.is_file():
             raise SystemExit(f"refused: no entry file for {r['entry']}")
-        if args.dry_run:
-            text = path.read_text(encoding="utf-8")
-            ids = re.findall(r'"([^"]*)"', SOURCE_IDS.search(text).group(1))
-            if r["book"] in ids and len(ids) == 1:
-                raise SystemExit(f"refused: {r['book']} is the last book of {r['entry']}")
-            state = "removed" if r["book"] in ids else "absent"
-        else:
-            state = edit_entry(path, r["book"])
+        todo.append((path, r))
+    # Check every row first (a refusal stops the run before anything is written), then write.
+    for path, r in todo:
+        edit_entry(path, r["book"], titles[r["book"]], write=False)
+    removed = absent = 0
+    for path, r in todo:
+        state = edit_entry(path, r["book"], titles[r["book"]], write=not args.dry_run)
         removed += state == "removed"
         absent += state == "absent"
         removals[r["book"]].add(r["entry"])

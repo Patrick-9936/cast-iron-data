@@ -17,9 +17,9 @@ advanced-class-guide	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	
 advanced-class-guide	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	15	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	70	race-section-read-no-trait
 advanced-class-guide	ref/racial-trait/half-elf/keen-senses	racial_trait	Keen Senses	15	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	70	race-section-read-no-trait
 advanced-class-guide	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	15	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	70	race-section-read-no-trait
-advanced-class-guide	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	15	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	none	no-race-section-no-trait
-advanced-class-guide	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	15	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	none	no-race-section-no-trait
-advanced-class-guide	ref/racial-trait/half-orc/weapon-familiarity	racial_trait	Weapon Familiarity	15	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	none	no-race-section-no-trait
+advanced-class-guide	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	15	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	71	race-section-read-no-trait
+advanced-class-guide	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	15	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	71	race-section-read-no-trait
+advanced-class-guide	ref/racial-trait/half-orc/weapon-familiarity	racial_trait	Weapon Familiarity	15	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	71	race-section-read-no-trait
 advanced-class-guide	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	14	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	70	race-section-read-no-trait
 advanced-class-guide	ref/racial-trait/halfling/keen-senses	racial_trait	Keen Senses	14	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	70	race-section-read-no-trait
 advanced-class-guide	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	14	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	70	race-section-read-no-trait
@@ -365,14 +365,14 @@ blood-of-shadows	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	5	16	
 blood-of-shadows	ref/racial-trait/half-elf/attributes	racial_trait	Attributes	8	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	5, 14-15	race-section-read-no-trait
 blood-of-shadows	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	8	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	5, 14-15	race-section-read-no-trait
 blood-of-shadows	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	8	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	5, 14-15	race-section-read-no-trait
-blood-of-shadows	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	10	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	none	no-race-section-no-trait
-blood-of-shadows	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	10	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	none	no-race-section-no-trait
-blood-of-shadows	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	10	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	none	no-race-section-no-trait
-blood-of-shadows	ref/racial-trait/halfling/attributes	racial_trait	Attributes	12	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	none	no-race-section-no-trait
-blood-of-shadows	ref/racial-trait/halfling/fearless	racial_trait	Fearless	12	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	none	no-race-section-no-trait
-blood-of-shadows	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	12	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	none	no-race-section-no-trait
-blood-of-shadows	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	12	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	none	no-race-section-no-trait
-blood-of-shadows	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	12	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	none	no-race-section-no-trait
+blood-of-shadows	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	10	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	4-5	race-section-read-no-trait
+blood-of-shadows	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	10	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	4-5	race-section-read-no-trait
+blood-of-shadows	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	10	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	4-5	race-section-read-no-trait
+blood-of-shadows	ref/racial-trait/halfling/attributes	racial_trait	Attributes	12	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	4-5	race-section-read-no-trait
+blood-of-shadows	ref/racial-trait/halfling/fearless	racial_trait	Fearless	12	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	4-5	race-section-read-no-trait
+blood-of-shadows	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	12	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	4-5	race-section-read-no-trait
+blood-of-shadows	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	12	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	4-5	race-section-read-no-trait
+blood-of-shadows	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	12	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	4-5	race-section-read-no-trait
 blood-of-shadows	ref/racial-trait/human/attributes	racial_trait	Attributes	8	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	6, 14	race-section-read-no-trait
 blood-of-shadows	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	8	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	6, 14	race-section-read-no-trait
 blood-of-shadows	ref/class/arcanist	class	Arcanist	6	8	weak	weak		none	1	7									
@@ -553,10 +553,10 @@ crown-of-the-kobold-king	ref/eq-weapon/chain-spear	item	Chain spear	2	5	review	a
 crown-of-the-kobold-king	ref/monster/slurk	creature	Slurk	2	2	cite-off	off-page	33	row	5	19,20,21,22,31									
 darklands-revisited	ref/rule/rare-races	rule	Rare Races	16	19	hub-keep	absent	37	row	0										
 darklands-revisited	ref/rule/slimes-molds-and-fungi	rule	Slimes, Molds, and Fungi	3	3	hub-keep	absent	61	row	0										
-darklands-revisited	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	9	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	none	no-race-section-no-trait
-darklands-revisited	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	9	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	none	no-race-section-no-trait
-darklands-revisited	ref/racial-trait/half-elf/keen-senses	racial_trait	Keen Senses	9	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	none	no-race-section-no-trait
-darklands-revisited	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	9	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	none	no-race-section-no-trait
+darklands-revisited	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Blood	9	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	7	race-section-read-no-trait
+darklands-revisited	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	9	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	7	race-section-read-no-trait
+darklands-revisited	ref/racial-trait/half-elf/keen-senses	racial_trait	Keen Senses	9	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	7	race-section-read-no-trait
+darklands-revisited	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	9	18	family-leak	absent		none	0		parent	ref/race/half-elf(title)	yes				remove	7	race-section-read-no-trait
 darklands-revisited	ref/class/kineticist	class	Kineticist	6	9	weak	weak		none	1	13									
 darklands-revisited	ref/racial-trait/half-elf/attributes	racial_trait	Attributes	9	18	weak	weak		none	1	26	parent	ref/race/half-elf(title)	yes						
 darklands-revisited	ref/racial-trait/half-elf/low-light-vision	racial_trait	Low-Light Vision	9	18	weak	weak		none	1	63	parent	ref/race/half-elf(title)	yes						
@@ -677,11 +677,11 @@ heroes-of-the-high-court	ref/racial-trait/gnome/illusion-resistance	racial_trait
 heroes-of-the-high-court	ref/racial-trait/gnome/obsessive	racial_trait	Obsessive	10	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	14-15	race-section-read-no-trait
 heroes-of-the-high-court	ref/racial-trait/gnome/slow-speed	racial_trait	Slow Speed	10	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	14-15	race-section-read-no-trait
 heroes-of-the-high-court	ref/racial-trait/gnome/weapon-familiarity	racial_trait	Weapon Familiarity	10	16	family-leak	absent		none	0		parent	ref/race/gnome(title)	yes				remove	14-15	race-section-read-no-trait
-heroes-of-the-high-court	ref/racial-trait/halfling/attributes	racial_trait	Attributes	13	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	none	no-race-section-no-trait
-heroes-of-the-high-court	ref/racial-trait/halfling/fearless	racial_trait	Fearless	13	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	none	no-race-section-no-trait
-heroes-of-the-high-court	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	13	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	none	no-race-section-no-trait
-heroes-of-the-high-court	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	13	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	none	no-race-section-no-trait
-heroes-of-the-high-court	ref/racial-trait/halfling/weapon-familiarity	racial_trait	Weapon Familiarity	13	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	none	no-race-section-no-trait
+heroes-of-the-high-court	ref/racial-trait/halfling/attributes	racial_trait	Attributes	13	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	15	race-section-read-no-trait
+heroes-of-the-high-court	ref/racial-trait/halfling/fearless	racial_trait	Fearless	13	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	15	race-section-read-no-trait
+heroes-of-the-high-court	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	13	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	15	race-section-read-no-trait
+heroes-of-the-high-court	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	13	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	15	race-section-read-no-trait
+heroes-of-the-high-court	ref/racial-trait/halfling/weapon-familiarity	racial_trait	Weapon Familiarity	13	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	15	race-section-read-no-trait
 heroes-of-the-high-court	ref/racial-trait/human/attributes	racial_trait	Attributes	7	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	15	race-section-read-no-trait
 heroes-of-the-high-court	ref/racial-trait/human/normal-speed	racial_trait	Normal Speed	7	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	15	race-section-read-no-trait
 heroes-of-the-high-court	ref/racial-trait/half-elf/adaptability	racial_trait	Adaptability	13	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
@@ -690,11 +690,11 @@ heroes-of-the-high-court	ref/racial-trait/half-elf/elf-blood	racial_trait	Elf Bl
 heroes-of-the-high-court	ref/racial-trait/half-elf/elven-immunities	racial_trait	Elven Immunities	13	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
 heroes-of-the-high-court	ref/racial-trait/half-elf/multitalented	racial_trait	Multitalented	13	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
 heroes-of-the-high-court	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	13	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
-heroes-of-the-high-court	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	8	18	inherited	absent		none	0				yes				remove	none	no-race-section-no-trait
-heroes-of-the-high-court	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	8	18	inherited	absent		none	0				yes				remove	none	no-race-section-no-trait
-heroes-of-the-high-court	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	8	18	inherited	absent		none	0				yes				remove	none	no-race-section-no-trait
-heroes-of-the-high-court	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	8	18	inherited	absent		none	0				yes				remove	none	no-race-section-no-trait
-heroes-of-the-high-court	ref/racial-trait/half-orc/weapon-familiarity	racial_trait	Weapon Familiarity	8	18	inherited	absent		none	0				yes				remove	none	no-race-section-no-trait
+heroes-of-the-high-court	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	8	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
+heroes-of-the-high-court	ref/racial-trait/half-orc/normal-speed	racial_trait	Normal Speed	8	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
+heroes-of-the-high-court	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	8	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
+heroes-of-the-high-court	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	8	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
+heroes-of-the-high-court	ref/racial-trait/half-orc/weapon-familiarity	racial_trait	Weapon Familiarity	8	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
 heroes-of-the-high-court	ref/hex/cackle	class_option	Cackle	4	5	uncited	absent		none	0										
 heroes-of-the-high-court	ref/hex/soothsayer	class_option	Soothsayer	2	2	weak	weak		none	1	17									
 heroes-of-the-high-court	ref/race/half-elf	race	Half-Elf	13	18	weak	weak		none	1	15	child	ref/racial-trait/half-elf/keen-senses(title),ref/racial-trait/half-elf/languages(title),ref/racial-trait/half-elf/low-light-vision(title)							
@@ -712,10 +712,10 @@ heroes-of-the-streets	ref/racial-trait/elf/attributes	racial_trait	Attributes	13
 heroes-of-the-streets	ref/racial-trait/elf/elven-immunities	racial_trait	Elven Immunities	13	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	8	race-section-read-no-trait
 heroes-of-the-streets	ref/racial-trait/elf/elven-magic	racial_trait	Elven Magic	13	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	8	race-section-read-no-trait
 heroes-of-the-streets	ref/racial-trait/elf/low-light-vision	racial_trait	Low-Light Vision	13	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	8	race-section-read-no-trait
-heroes-of-the-streets	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	14	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	none	no-race-section-no-trait
-heroes-of-the-streets	ref/racial-trait/half-orc/darkvision	racial_trait	Darkvision	14	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	none	no-race-section-no-trait
-heroes-of-the-streets	ref/racial-trait/half-orc/intimidating	racial_trait	Intimidating	14	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	none	no-race-section-no-trait
-heroes-of-the-streets	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	14	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	none	no-race-section-no-trait
+heroes-of-the-streets	ref/racial-trait/half-orc/attributes	racial_trait	Attributes	14	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	8-9	race-section-read-no-trait
+heroes-of-the-streets	ref/racial-trait/half-orc/darkvision	racial_trait	Darkvision	14	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	8-9	race-section-read-no-trait
+heroes-of-the-streets	ref/racial-trait/half-orc/intimidating	racial_trait	Intimidating	14	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	8-9	race-section-read-no-trait
+heroes-of-the-streets	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	14	18	family-leak	absent		none	0		parent	ref/race/half-orc(title)	yes				remove	8-9	race-section-read-no-trait
 heroes-of-the-streets	ref/racial-trait/human/attributes	racial_trait	Attributes	11	15	family-leak	absent		none	0		parent	ref/race/human(title)	yes				remove	8-9	race-section-read-no-trait
 heroes-of-the-streets	ref/racial-trait/gnome/attributes	racial_trait	Attributes	12	16	inherited	absent		none	0				yes				remove	8	race-section-read-no-trait
 heroes-of-the-streets	ref/racial-trait/gnome/defensive-training	racial_trait	Defensive Training	12	16	inherited	absent		none	0				yes				remove	8	race-section-read-no-trait
