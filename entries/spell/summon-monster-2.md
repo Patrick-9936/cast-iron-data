@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "core-rulebook"
 page = "352"
+[[sources]]
+publication = "monster-summoners-handbook"
+page = "18"
 
 [fields]
 kind = "spell"

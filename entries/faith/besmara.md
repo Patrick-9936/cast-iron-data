@@ -9,6 +9,15 @@ provenance = [
 [[sources]]
 publication = "inner-sea-faiths"
 page = "23"
+[[sources]]
+publication = "gods-and-magic"
+page = "45"
+[[sources]]
+publication = "inner-sea-gods"
+page = "176"
+[[sources]]
+publication = "pathfinder-55-the-wormwood-mutiny"
+page = "72"
 
 [fields]
 kind = "none"

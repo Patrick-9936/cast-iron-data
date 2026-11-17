@@ -9,6 +9,18 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "92"
+[[sources]]
+publication = "book-of-the-damned"
+page = "66"
+[[sources]]
+publication = "book-of-the-damned-volume-2-lords-of-chaos"
+page = "6"
+[[sources]]
+publication = "pathfinder-5-sins-of-the-saviors"
+page = "71"
+[[sources]]
+publication = "planar-adventures"
+page = "78"
 
 [fields]
 kind = "none"

@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "ultimate-combat"
 page = "243"
+[[sources]]
+publication = "black-markets"
+page = "24"
 
 [fields]
 kind = "spell"

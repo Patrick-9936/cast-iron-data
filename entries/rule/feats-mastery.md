@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "weapon-masters-handbook"
 page = "20"
+[[sources]]
+publication = "armor-masters-handbook"
+page = "16"
 
 [fields]
 kind = "none"

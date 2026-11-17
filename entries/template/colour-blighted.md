@@ -8,7 +8,10 @@ provenance = [
 ]
 [[sources]]
 publication = "bestiary-4"
-page = "39;Pathfinder #46: Wake of the Watcher/77"
+page = "39"
+[[sources]]
+publication = "pathfinder-46-wake-of-the-watcher"
+page = "77"
 
 [fields]
 kind = "none"

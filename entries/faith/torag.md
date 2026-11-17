@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "148"
+[[sources]]
+publication = "pathfinder-62-curse-of-the-ladys-light"
+page = "75"
+[[sources]]
+publication = "planar-adventures"
+page = "80"
 
 [fields]
 kind = "none"

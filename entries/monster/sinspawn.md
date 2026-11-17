@@ -13,6 +13,9 @@ page = "246"
 [[sources]]
 publication = "pathfinder-1-burnt-offerings"
 page = "90"
+[[sources]]
+publication = "pathfinder-134-it-came-from-hollow-mountain"
+page = "246"
 
 [fields]
 kind = "creature"

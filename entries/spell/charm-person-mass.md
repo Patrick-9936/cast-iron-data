@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "206"
+[[sources]]
+publication = "the-first-world-realm-of-the-fey"
+page = "12"
 
 [fields]
 kind = "spell"

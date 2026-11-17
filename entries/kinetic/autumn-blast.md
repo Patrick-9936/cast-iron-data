@@ -8,7 +8,10 @@ provenance = [
 ]
 [[sources]]
 publication = "ultimate-wilderness"
-page = "58~Occult Origins/8"
+page = "58"
+[[sources]]
+publication = "occult-origins"
+page = "8"
 
 [fields]
 kind = "class_option"

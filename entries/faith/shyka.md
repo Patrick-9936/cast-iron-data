@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "the-first-world-realm-of-the-fey"
 page = "34"
+[[sources]]
+publication = "legacy-of-the-first-world"
+page = "30"
 
 [fields]
 kind = "none"

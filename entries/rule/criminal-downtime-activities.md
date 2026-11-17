@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "black-markets"
 page = "10"
+[[sources]]
+publication = "cohorts-and-companions"
+page = "26"
 
 [fields]
 kind = "none"

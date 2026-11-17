@@ -6,6 +6,12 @@ source_ids = ["core-rulebook", "ultimate-wilderness", "animal-archive"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "beast_shape", path = "json/spells12.json" },
 ]
+[[sources]]
+publication = "animal-archive"
+page = "25"
+[[sources]]
+publication = "ultimate-wilderness"
+page = "231"
 
 [fields]
 kind = "spell"

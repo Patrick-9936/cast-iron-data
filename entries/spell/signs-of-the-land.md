@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "ultimate-wilderness"
 page = "235"
+[[sources]]
+publication = "faiths-and-philosophies"
+page = "29"
 
 [fields]
 kind = "spell"

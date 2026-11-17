@@ -10,6 +10,12 @@ provenance = [
 relations = [
   { kind = "variant", target = "ref/spell/bleed-for-your-master" },
 ]
+[[sources]]
+publication = "animal-archive"
+page = "24"
+[[sources]]
+publication = "ultimate-wilderness"
+page = "227"
 
 [fields]
 kind = "spell"

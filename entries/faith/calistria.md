@@ -9,6 +9,15 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "28"
+[[sources]]
+publication = "inner-sea-temples"
+page = "63"
+[[sources]]
+publication = "pathfinder-17-a-memory-of-darkness"
+page = "60"
+[[sources]]
+publication = "planar-adventures"
+page = "74"
 
 [fields]
 kind = "none"

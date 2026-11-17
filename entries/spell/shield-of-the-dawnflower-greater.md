@@ -13,6 +13,12 @@ relations = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "240"
+[[sources]]
+publication = "gods-and-magic"
+page = "35"
+[[sources]]
+publication = "inner-sea-world-guide"
+page = "296"
 
 [fields]
 kind = "spell"

@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "316"
+[[sources]]
+publication = "pathfinder-18-descent-into-midnight"
+page = "67"
+[[sources]]
+publication = "planar-adventures"
+page = "203"
 
 [fields]
 kind = "none"

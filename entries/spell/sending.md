@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "339"
+[[sources]]
+publication = "pathfinder-131-the-reapers-right-hand"
+page = "72"
 
 [fields]
 kind = "spell"

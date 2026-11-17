@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "bestiary"
 page = "160"
+[[sources]]
+publication = "classic-horrors-revisited"
+page = "12"
 
 [fields]
 kind = "creature"

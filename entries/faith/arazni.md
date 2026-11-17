@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "316"
+[[sources]]
+publication = "pathfinder-140-eulogy-for-roslars-coffer"
+page = "71"
 
 [fields]
 kind = "none"

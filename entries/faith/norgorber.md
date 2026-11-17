@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "108"
+[[sources]]
+publication = "pathfinder-59-the-price-of-infamy"
+page = "75"
+[[sources]]
+publication = "planar-adventures"
+page = "78"
 
 [fields]
 kind = "none"

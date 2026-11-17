@@ -10,6 +10,9 @@ provenance = [
 relations = [
   { kind = "archetype", target = "ref/class/ranger" },
 ]
+[[sources]]
+publication = "inner-sea-combat"
+page = "43"
 
 [fields]
 kind = "archetype"

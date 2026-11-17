@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "ultimate-wilderness"
 page = "231"
+[[sources]]
+publication = "animal-archive"
+page = "25"
 
 [fields]
 kind = "spell"

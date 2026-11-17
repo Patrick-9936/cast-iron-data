@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "pathfinder-119-prisoners-of-the-blight"
 page = "71"
+[[sources]]
+publication = "book-of-the-damned"
+page = "38"
+[[sources]]
+publication = "book-of-the-damned-volume-2-lords-of-chaos"
+page = "13"
 
 [fields]
 kind = "none"

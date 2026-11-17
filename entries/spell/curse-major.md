@@ -13,6 +13,12 @@ relations = [
 [[sources]]
 publication = "ultimate-magic"
 page = "215"
+[[sources]]
+publication = "pathfinder-82-secrets-of-the-sphinx"
+page = "75"
+[[sources]]
+publication = "ultimate-intrigue"
+page = "206"
 
 [fields]
 kind = "spell"

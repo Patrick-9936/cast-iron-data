@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "84"
+[[sources]]
+publication = "pathfinder-53-tide-of-honor"
+page = "73"
+[[sources]]
+publication = "planar-adventures"
+page = "78"
 
 [fields]
 kind = "none"

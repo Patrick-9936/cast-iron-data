@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "236"
+[[sources]]
+publication = "faiths-of-balance"
+page = "28"
 
 [fields]
 kind = "spell"

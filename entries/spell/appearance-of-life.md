@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "horror-adventures"
 page = "108"
+[[sources]]
+publication = "villain-codex"
+page = "8"
 
 [fields]
 kind = "spell"

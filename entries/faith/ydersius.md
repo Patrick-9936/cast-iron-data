@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "192"
+[[sources]]
+publication = "pathfinder-42-sanctum-of-the-serpent-god"
+page = "71"
 
 [fields]
 kind = "none"

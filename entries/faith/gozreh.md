@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "68"
+[[sources]]
+publication = "pathfinder-38-racing-to-ruin"
+page = "71"
+[[sources]]
+publication = "planar-adventures"
+page = "77"
 
 [fields]
 kind = "none"

@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "people-of-the-stars"
 page = "29"
+[[sources]]
+publication = "distant-worlds"
+page = "55"
 
 [fields]
 kind = "spell"

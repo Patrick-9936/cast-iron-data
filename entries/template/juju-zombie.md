@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "bestiary-2"
 page = "291"
+[[sources]]
+publication = "pathfinder-71-rasputin-must-die"
+page = "91"
 
 [fields]
 kind = "none"

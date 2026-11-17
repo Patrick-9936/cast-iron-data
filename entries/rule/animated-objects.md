@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "ultimate-magic"
 page = "111"
+[[sources]]
+publication = "pathfinder-43-haunting-of-harrowstone"
+page = "81"
 
 [fields]
 kind = "none"

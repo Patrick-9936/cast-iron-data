@@ -7,6 +7,18 @@ source_ids = ["book-of-the-damned", "pathfinder-5-sins-of-the-saviors", "gods-an
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "waters_of_lamashtu", path = "json/spells11.json" },
 ]
+[[sources]]
+publication = "book-of-the-damned"
+page = "186"
+[[sources]]
+publication = "gods-and-magic"
+page = "25"
+[[sources]]
+publication = "inner-sea-world-guide"
+page = "297"
+[[sources]]
+publication = "pathfinder-5-sins-of-the-saviors"
+page = "71"
 
 [fields]
 kind = "spell"

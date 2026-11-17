@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "bestiary"
 page = "188"
+[[sources]]
+publication = "horror-adventures"
+page = "251"
 
 [fields]
 kind = "none"

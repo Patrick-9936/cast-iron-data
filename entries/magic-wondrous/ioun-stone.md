@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "520"
+[[sources]]
+publication = "seekers-of-secrets"
+page = "46"
 
 [fields]
 kind = "item"

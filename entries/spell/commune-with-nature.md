@@ -10,6 +10,12 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "258"
+[[sources]]
+publication = "faiths-and-philosophies"
+page = "29"
+[[sources]]
+publication = "ultimate-wilderness"
+page = "235"
 
 [fields]
 kind = "spell"

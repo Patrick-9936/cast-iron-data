@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "core-rulebook"
 page = "295"
+[[sources]]
+publication = "ultimate-intrigue"
+page = "216"
 
 [fields]
 kind = "spell"

@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-faiths"
 page = "89"
+[[sources]]
+publication = "pathfinder-89-palace-of-fallen-stars"
+page = "75"
 
 [fields]
 kind = "none"

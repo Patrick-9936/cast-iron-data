@@ -9,6 +9,15 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "320"
+[[sources]]
+publication = "book-of-the-damned"
+page = "64"
+[[sources]]
+publication = "book-of-the-damned-volume-2-lords-of-chaos"
+page = "19"
+[[sources]]
+publication = "pathfinder-69-maiden-mother-crone"
+page = "66"
 
 [fields]
 kind = "none"

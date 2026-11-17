@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "advanced-class-guide"
 page = "19"
+[[sources]]
+publication = "legacy-of-dragons"
+page = "4"
 
 [fields]
 kind = "class_option"

@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "ultimate-combat"
 page = "239"
+[[sources]]
+publication = "wilderness-origins"
+page = "28"
 
 [fields]
 kind = "spell"

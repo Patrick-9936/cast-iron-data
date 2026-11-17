@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "248"
+[[sources]]
+publication = "dirty-tactics-toolbox"
+page = "30"
 
 [fields]
 kind = "spell"

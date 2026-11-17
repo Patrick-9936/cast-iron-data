@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-faiths"
 page = "71"
+[[sources]]
+publication = "pathfinder-68-the-shackled-hut"
+page = "69"
 
 [fields]
 kind = "none"

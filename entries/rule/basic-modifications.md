@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "ultimate-magic"
 page = "114"
+[[sources]]
+publication = "construct-handbook"
+page = "7"
 
 [fields]
 kind = "none"

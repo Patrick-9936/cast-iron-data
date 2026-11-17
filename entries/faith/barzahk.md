@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "concordance-of-rivals"
 page = "6"
+[[sources]]
+publication = "pathfinder-143-borne-by-the-suns-grace"
+page = "79"
 
 [fields]
 kind = "none"

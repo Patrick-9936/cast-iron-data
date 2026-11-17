@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-faiths"
 page = "29"
+[[sources]]
+publication = "pathfinder-86-lords-of-rust"
+page = "74"
 
 [fields]
 kind = "none"

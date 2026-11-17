@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "326"
+[[sources]]
+publication = "heroes-of-the-darklands"
+page = "15"
 
 [fields]
 kind = "spell"

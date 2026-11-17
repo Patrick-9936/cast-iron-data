@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "ultimate-magic"
 page = "68"
+[[sources]]
+publication = "blood-of-the-elements"
+page = "15"
 
 [fields]
 kind = "class_option"

@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "ultimate-combat"
 page = "245"
+[[sources]]
+publication = "potions-and-poisons"
+page = "17"
 
 [fields]
 kind = "spell"

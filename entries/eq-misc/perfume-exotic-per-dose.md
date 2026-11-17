@@ -15,6 +15,9 @@ page = "213"
 [[sources]]
 publication = "curse-of-the-crimson-throne-players-guide"
 page = "12"
+[[sources]]
+publication = "adventurers-armory"
+page = "19"
 
 [fields]
 kind = "item"

@@ -9,6 +9,15 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "20"
+[[sources]]
+publication = "book-of-the-damned"
+page = "26"
+[[sources]]
+publication = "pathfinder-29-mother-of-flies"
+page = "67"
+[[sources]]
+publication = "planar-adventures"
+page = "74"
 
 [fields]
 kind = "none"

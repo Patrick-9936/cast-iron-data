@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "156"
+[[sources]]
+publication = "pathfinder-47-ashes-at-dawn"
+page = "71"
+[[sources]]
+publication = "planar-adventures"
+page = "81"
 
 [fields]
 kind = "none"

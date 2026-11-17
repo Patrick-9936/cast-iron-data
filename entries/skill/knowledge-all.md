@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "99"
+[[sources]]
+publication = "spymasters-handbook"
+page = "9"
 
 [fields]
 kind = "none"

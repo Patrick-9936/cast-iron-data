@@ -8,6 +8,9 @@ parent = "ref/ability/weapon-groups"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "json/class_abilities5.json#weapon_groups|section:siege-engines", path = "json/class_abilities5.json" },
 ]
+[[sources]]
+publication = "ultimate-wilderness"
+page = "51"
 
 [fields]
 kind = "none"

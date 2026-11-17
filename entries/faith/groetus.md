@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-faiths"
 page = "47"
+[[sources]]
+publication = "pathfinder-64-beyond-the-doomsday-door"
+page = "73"
 
 [fields]
 kind = "none"

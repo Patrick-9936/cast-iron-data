@@ -10,6 +10,12 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "350"
+[[sources]]
+publication = "advanced-class-guide"
+page = "197"
+[[sources]]
+publication = "blood-of-the-beast"
+page = "14"
 
 [fields]
 kind = "spell"

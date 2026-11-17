@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "76"
+[[sources]]
+publication = "people-of-the-river"
+page = "11"
 
 [fields]
 kind = "class_option"

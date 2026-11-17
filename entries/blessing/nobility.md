@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "advanced-class-guide"
 page = "67"
+[[sources]]
+publication = "healers-handbook"
+page = "13"
 
 [fields]
 kind = "class_option"

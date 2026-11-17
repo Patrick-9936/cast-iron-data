@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "102"
+[[sources]]
+publication = "pathfinder-unchained"
+page = "85"
 
 [fields]
 kind = "none"

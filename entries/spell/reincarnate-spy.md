@@ -13,6 +13,12 @@ relations = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "223"
+[[sources]]
+publication = "arcane-anthology"
+page = "13"
+[[sources]]
+publication = "inner-sea-races"
+page = "193"
 
 [fields]
 kind = "spell"

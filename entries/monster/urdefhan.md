@@ -13,6 +13,9 @@ page = "276"
 [[sources]]
 publication = "into-the-darklands"
 page = "60"
+[[sources]]
+publication = "darklands-revisited"
+page = "55"
 
 [fields]
 kind = "creature"

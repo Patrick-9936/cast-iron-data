@@ -8,7 +8,10 @@ provenance = [
 ]
 [[sources]]
 publication = "bestiary-4"
-page = "238;Advanced Race Guide/110"
+page = "238"
+[[sources]]
+publication = "advanced-race-guide"
+page = "110"
 
 [fields]
 kind = "none"

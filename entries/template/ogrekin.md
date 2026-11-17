@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "bestiary-2"
 page = "204"
+[[sources]]
+publication = "inner-sea-monster-codex"
+page = "47"
 
 [fields]
 kind = "none"

@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "bestiary-2"
 page = "239"
+[[sources]]
+publication = "pathfinder-141-last-watch"
+page = "65"
 
 [fields]
 kind = "creature"

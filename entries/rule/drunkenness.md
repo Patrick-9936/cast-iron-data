@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "game-mastery-guide"
 page = "237"
+[[sources]]
+publication = "inner-sea-taverns"
+page = "55"
 
 [fields]
 kind = "none"

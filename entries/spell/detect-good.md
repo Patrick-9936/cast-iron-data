@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "core-rulebook"
 page = "267"
+[[sources]]
+publication = "agents-of-evil"
+page = "16"
 
 [fields]
 kind = "spell"

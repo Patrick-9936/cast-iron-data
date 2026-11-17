@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "pathfinder-99-dance-of-the-damned"
 page = "74"
+[[sources]]
+publication = "book-of-the-damned"
+page = "68"
 
 [fields]
 kind = "none"

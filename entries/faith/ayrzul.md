@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "322"
+[[sources]]
+publication = "the-great-beyond-a-guide-to-the-multiverse"
+page = "18"
 
 [fields]
 kind = "none"

@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-world-guide"
 page = "293"
+[[sources]]
+publication = "pirates-of-the-inner-sea"
+page = "21"
 
 [fields]
 kind = "item"

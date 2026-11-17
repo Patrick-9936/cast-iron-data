@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "240"
+[[sources]]
+publication = "advanced-class-guide"
+page = "173"
 
 [fields]
 kind = "spell"

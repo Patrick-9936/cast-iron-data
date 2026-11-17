@@ -12,6 +12,15 @@ page = "107"
 [[sources]]
 publication = "heroes-of-the-wild"
 page = "8"
+[[sources]]
+publication = "aquatic-adventures"
+page = "47"
+[[sources]]
+publication = "occult-adventures"
+page = "195"
+[[sources]]
+publication = "pathfinder-unchained"
+page = "87"
 
 [fields]
 kind = "none"

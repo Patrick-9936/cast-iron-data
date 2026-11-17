@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-world-guide"
 page = "295"
+[[sources]]
+publication = "the-harrow-handbook"
+page = "9"
 
 [fields]
 kind = "spell"

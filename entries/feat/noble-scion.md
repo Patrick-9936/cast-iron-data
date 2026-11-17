@@ -10,6 +10,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-world-guide"
 page = "288"
+[[sources]]
+publication = "heroes-of-the-high-court"
+page = "5"
 
 [fields]
 kind = "feat"

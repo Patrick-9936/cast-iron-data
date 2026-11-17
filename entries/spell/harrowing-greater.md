@@ -13,6 +13,9 @@ relations = [
 [[sources]]
 publication = "the-harrow-handbook"
 page = "9"
+[[sources]]
+publication = "inner-sea-world-guide"
+page = "295"
 
 [fields]
 kind = "spell"

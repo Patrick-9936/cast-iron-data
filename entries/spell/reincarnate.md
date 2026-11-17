@@ -10,6 +10,15 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "331"
+[[sources]]
+publication = "arcane-anthology"
+page = "13"
+[[sources]]
+publication = "inner-sea-races"
+page = "193"
+[[sources]]
+publication = "ultimate-intrigue"
+page = "223"
 
 [fields]
 kind = "spell"

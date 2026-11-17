@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "320"
+[[sources]]
+publication = "pathfinder-144-midwives-to-death"
+page = "66"
 
 [fields]
 kind = "none"

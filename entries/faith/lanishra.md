@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "inner-sea-gods"
 page = "328"
+[[sources]]
+publication = "belkzen-hold-of-the-orc-hordes"
+page = "28"
 
 [fields]
 kind = "none"

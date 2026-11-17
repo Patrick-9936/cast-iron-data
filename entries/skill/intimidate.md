@@ -9,6 +9,12 @@ provenance = [
 [[sources]]
 publication = "core-rulebook"
 page = "99"
+[[sources]]
+publication = "pathfinder-unchained"
+page = "85"
+[[sources]]
+publication = "spymasters-handbook"
+page = "8"
 
 [fields]
 kind = "none"

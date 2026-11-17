@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "advanced-players-guide"
 page = "58"
+[[sources]]
+publication = "cohorts-and-companions"
+page = "9"
 
 [fields]
 kind = "none"

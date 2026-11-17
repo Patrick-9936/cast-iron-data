@@ -6,6 +6,21 @@ source_ids = ["legacy-of-fire-players-guide", "pathfinder-unchained", "faction-g
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "feats_roleplaying", path = "json/rules_basics01.json" },
 ]
+[[sources]]
+publication = "champions-of-corruption"
+page = "18"
+[[sources]]
+publication = "faction-guide"
+page = "55"
+[[sources]]
+publication = "legacy-of-fire-players-guide"
+page = "28"
+[[sources]]
+publication = "pathfinder-unchained"
+page = "98"
+[[sources]]
+publication = "plane-hoppers-handbook"
+page = "22"
 
 [fields]
 kind = "none"

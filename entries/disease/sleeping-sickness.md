@@ -9,6 +9,9 @@ provenance = [
 [[sources]]
 publication = "heart-of-the-jungle"
 page = "8"
+[[sources]]
+publication = "pathfinder-38-racing-to-ruin"
+page = "84"
 
 [fields]
 kind = "none"
