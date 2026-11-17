@@ -2,12 +2,15 @@
 id = "ref/carried/bestiary-2/monsters/bat/skaveling/special-abilities/disease/skaveling-ghoul-fever"
 kind = "affliction"
 title = "Skaveling Ghoul Fever"
-source_ids = ["bestiary"]
+source_ids = ["bestiary-2"]
 section = ["Monsters", "Bat", "Skaveling", "Special Abilities", "Disease"]
 tags = ["disease"]
 provenance = [
   { dataset = "psrd-data", record = "pfsrd://Bestiary 2/Monsters/Bat/Skaveling/Special Abilities/Disease/Skaveling Ghoul Fever", path = "bestiary_2/affliction/disease/skaveling_ghoul_fever.json" },
 ]
+[[sources]]
+publication = "bestiary-2"
+page = "42"
 
 [fields]
 kind = "none"
