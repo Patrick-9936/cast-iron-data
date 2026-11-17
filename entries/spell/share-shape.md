@@ -3,7 +3,7 @@ id = "ref/spell/share-shape"
 kind = "spell"
 title = "Share Shape"
 aon = "SpellDisplay.aspx?ItemName=Share%20Shape"
-source_ids = ["core-rulebook", "ultimate-wilderness", "animal-archive"]
+source_ids = ["core-rulebook", "animal-archive"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "share_shape", path = "json/spells12.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "animal-archive"
 page = "25"
-[[sources]]
-publication = "ultimate-wilderness"
-page = "231"
 
 [fields]
 kind = "spell"

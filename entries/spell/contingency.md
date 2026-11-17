@@ -3,16 +3,13 @@ id = "ref/spell/contingency"
 kind = "spell"
 title = "Contingency"
 aon = "SpellDisplay.aspx?ItemName=Contingency"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "contingency", path = "json/spells12.json" },
 ]
 [[sources]]
 publication = "core-rulebook"
 page = "259"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "210"
 
 [fields]
 kind = "spell"

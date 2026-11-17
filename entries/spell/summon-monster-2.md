@@ -3,7 +3,7 @@ id = "ref/spell/summon-monster-2"
 kind = "spell"
 title = "Summon Monster II"
 aon = "SpellDisplay.aspx?ItemName=Summon%20Monster%202"
-source_ids = ["core-rulebook", "monster-summoners-handbook"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "summon_monster_2", path = "json/spells16.json" },
 ]
@@ -13,9 +13,10 @@ relations = [
 [[sources]]
 publication = "core-rulebook"
 page = "352"
-[[sources]]
+[[expanded_in]]
 publication = "monster-summoners-handbook"
 page = "18"
+via = "ref/feat/versatile-summon-monster"
 
 [fields]
 kind = "spell"

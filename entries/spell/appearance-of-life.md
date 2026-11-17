@@ -3,16 +3,13 @@ id = "ref/spell/appearance-of-life"
 kind = "spell"
 title = "Appearance of Life"
 aon = "SpellDisplay.aspx?ItemName=Appearance%20of%20Life"
-source_ids = ["horror-adventures", "villain-codex"]
+source_ids = ["horror-adventures"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "appearance_of_life", path = "json/spells.json" },
 ]
 [[sources]]
 publication = "horror-adventures"
 page = "108"
-[[sources]]
-publication = "villain-codex"
-page = "8"
 
 [fields]
 kind = "spell"

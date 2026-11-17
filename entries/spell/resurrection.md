@@ -3,7 +3,7 @@ id = "ref/spell/resurrection"
 kind = "spell"
 title = "Resurrection"
 aon = "SpellDisplay.aspx?ItemName=Resurrection"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "resurrection", path = "json/spells8.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "core-rulebook"
 page = "334"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "214"
 
 [fields]
 kind = "spell"

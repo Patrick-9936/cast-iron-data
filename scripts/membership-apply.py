@@ -20,18 +20,21 @@ run stops before it writes anything. A `[[sources]]` row may go only when the au
 (`scripts/membership-citation-audit-461.tsv`, `--audit`) has a row for that (entry, book) with
 the same `cited_page` and one of these classes:
 
-  invalidated  the cited page was read and the book does not print the entry there or anywhere
-               (the page prints another entry, usually a sibling variant): a wrong credit. The
-               rejected page stays in the audit file.
-  reference    the cited page prints a related entry. The audit row names it in `related`, and the
-               script checks that it exists, lists the book, cites an overlapping page there, and
-               that a `relations` edge joins the two entries (either direction). The page then
-               survives on the related entry.
+  wrong-credit the cited page was read and the book does not print the entry there or anywhere
+               (the page prints another entry, usually a sibling variant). The rejected page
+               stays in the audit file (`invalidated`).
+  family-ref   the cited page prints a related entry (`family`). The script checks that it
+               exists, lists the book, cites `related_cite` there (within one page of this
+               entry's citation), and that a `variant`, `addon`, `part` or `revision` relation
+               joins the two entries (either direction). The page then survives on the related
+               entry.
 
-  mention      the book only names the entry in passing and no related entry carries the page (owner
-               decision 2026-11-17: the membership goes). The audit row holds the page and the
-               kind of mention (`mention_kind`, in the auditor's own words, no book text). A queue
-               row with evidence `passing-mention-recorded` needs such a row.
+  mention      the book only mentions the entry (owner decision 2026-11-17: a mention is not a
+               printing; the membership goes). The row carries `invalidated`, `mention_pages` and
+               `mention_kind` (in the maintainer's words, no book text). A queue row with evidence
+               `passing-mention-recorded` needs such a row.
+
+The columns and class names follow `scripts/expansion-credits-459.tsv` (#459).
 
 A body source line is never deleted by this script: convert it first (to an `expanded_in`
 credit once #458 lands, or by keeping the membership if the book prints the entry).
@@ -153,22 +156,30 @@ def read_audit(path: Path | None) -> dict[tuple[str, str], dict]:
         rows = list(csv.DictReader(f, delimiter="\t"))
     out = {}
     for r in rows:
-        if r["class"] not in ("invalidated", "reference", "mention"):
+        if r["class"] not in ("wrong-credit", "family-ref", "mention"):
             raise SystemExit(f"refused: audit row {r['entry']} has unknown class {r['class']!r}")
-        if not r["print_page"] or not r["evidence"]:
-            raise SystemExit(f"refused: audit row {r['entry']} in {r['book']} has no print_page/evidence")
-        if r["class"] == "mention" and not r["mention_kind"]:
-            raise SystemExit(f"refused: audit row {r['entry']} in {r['book']} has class mention but no mention_kind")
+        if not r["print_page"] or not r["evidence"] or not r["read"]:
+            raise SystemExit(f"refused: audit row {r['entry']} in {r['book']} has no print_page/read/evidence")
+        if r["class"] in ("wrong-credit", "mention") and not r["invalidated"]:
+            raise SystemExit(f"refused: audit row {r['entry']} in {r['book']} has no invalidated citation")
+        if r["class"] == "mention" and not (r["mention_pages"] and r["mention_kind"]):
+            raise SystemExit(f"refused: audit row {r['entry']} in {r['book']} is a mention without mention_pages and mention_kind")
+        if r["class"] == "family-ref" and not (r["family"] and r["related_cite"]):
+            raise SystemExit(f"refused: audit row {r['entry']} in {r['book']} is a family-ref without family and related_cite")
         out[(r["entry"], r["book"])] = r
     return out
+
+
+EDGE_KINDS = ("variant", "addon", "part", "revision")
 
 
 def has_edge(root: Path, a: str, b: str) -> bool:
     for x, y in ((a, b), (b, a)):
         t = entry_path(root, x).read_text(encoding="utf-8")
         fm = t.split("+++", 2)[1]
-        if re.search(r'target = "' + re.escape(y) + '"', fm):
-            return True
+        for m in re.finditer(r'\{ kind = "([a-z-]+)", target = "([^"]+)"', fm):
+            if m.group(1) in EDGE_KINDS and m.group(2) == y:
+                return True
     return False
 
 
@@ -180,17 +191,18 @@ def release_citation(root: Path, entry: str, book: str, text: str, audit: dict) 
     page = sources_page(text, book)
     if row["cited_page"] != page:
         raise SystemExit(f"refused: {entry} audit cited_page {row['cited_page']!r} is not the row's page {page!r}")
-    if row["class"] == "reference":
-        rel = row["related"]
-        rp = entry_path(root, rel) if rel else None
-        if rp is None or not rp.is_file():
+    if row["class"] == "family-ref":
+        rel = row["family"]
+        rp = entry_path(root, rel)
+        if not rp.is_file():
             raise SystemExit(f"refused: {entry} audit names no existing related entry")
         rt = rp.read_text(encoding="utf-8")
         ids = re.findall(r'"([^"]*)"', (SOURCE_IDS.search(rt) or [None, ""])[1])
-        if book not in ids or not overlap(page, sources_page(rt, book)):
-            raise SystemExit(f"refused: related {rel} does not list {book} with an overlapping page")
+        rpage = sources_page(rt, book)
+        if book not in ids or rpage != row["related_cite"] or not overlap(page, rpage):
+            raise SystemExit(f"refused: related {rel} does not list {book} at p. {row['related_cite']}")
         if not has_edge(root, entry, rel):
-            raise SystemExit(f"refused: no relations edge between {entry} and {rel}; add it first")
+            raise SystemExit(f"refused: no variant/addon/part/revision relation between {entry} and {rel}; add it first")
 
 
 def edit_entry(path: Path, book: str, title: str, write: bool = True,
