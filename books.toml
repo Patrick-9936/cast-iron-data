@@ -47126,6 +47126,13 @@ entry = "ref/arc-wizard/siege-mage"
 title = "Spellslinger"
 entry = "ref/arc-wizard/spellslinger"
 
+[[books.chapters.children]]
+title = "Expanded Weapon Groups"
+
+[[books.chapters.children.children]]
+title = "Siege Engines"
+entry = "ref/rule/ability-weapon-groups/siege-engines"
+
 [[books.chapters]]
 title = "Feats"
 
