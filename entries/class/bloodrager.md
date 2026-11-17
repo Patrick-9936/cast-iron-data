@@ -237,8 +237,7 @@ cast by yourself or your allies.
 **Ability:** You gain the ability to cast a small number of arcane spells drawn from the bloodrager
 spell list. You do not need to prepare these spells in advance; you can cast any spell you know at
 any time, assuming you haven't yet used up your allotment of spells per day for the spell's level.
-The DC for a saving throw against spells you cast is 10 + the spell level + your Constitution
-modifier.
+The DC for a saving throw against spells you cast is 10 + the spell level + your Charisma modifier.
 
 **Info:** Your selection of spells is limited. At 4th level, you know two 1st-level spells of your
 choice. You gain more spells as you increase in level. Unlike spells per day, the number of spells
