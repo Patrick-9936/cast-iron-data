@@ -21696,12 +21696,188 @@ title = "Common Terms"
 entry = "ref/rule/common-terms"
 
 [[books.chapters.children]]
+title = "Ability Score"
+entry = "ref/misc/ability-score"
+
+[[books.chapters.children]]
+title = "Action"
+entry = "ref/misc/action"
+
+[[books.chapters.children]]
+title = "Alignment"
+entry = "ref/misc/alignment"
+
+[[books.chapters.children]]
+title = "Armor Class (AC)"
+entry = "ref/misc/armor-class"
+
+[[books.chapters.children]]
+title = "Base Attack Bonus (BAB)"
+entry = "ref/misc/base-attack-bonus"
+
+[[books.chapters.children]]
+title = "Bonus"
+entry = "ref/misc/bonus"
+
+[[books.chapters.children]]
+title = "Caster Level (CL)"
+entry = "ref/misc/caster-level"
+
+[[books.chapters.children]]
+title = "Check"
+entry = "ref/misc/check"
+
+[[books.chapters.children]]
+title = "Class"
+entry = "ref/misc/class"
+
+[[books.chapters.children]]
+title = "Combat Maneuver"
+entry = "ref/misc/combat-maneuver"
+
+[[books.chapters.children]]
+title = "Combat Maneuver Bonus (CMB)"
+entry = "ref/misc/combat-maneuver-bonus"
+
+[[books.chapters.children]]
+title = "Combat Maneuver Defense (CMD)"
+entry = "ref/misc/combat-maneuver-defense"
+
+[[books.chapters.children]]
+title = "Concentration Check"
+entry = "ref/misc/concentration-check"
+
+[[books.chapters.children]]
+title = "Creature"
+entry = "ref/misc/creature"
+
+[[books.chapters.children]]
+title = "Damage Reduction (DR)"
+entry = "ref/misc/damage-reduction"
+
+[[books.chapters.children]]
+title = "Difficulty Class (DC)"
+entry = "ref/misc/difficulty-class"
+
+[[books.chapters.children]]
+title = "Experience Points (XP)"
+entry = "ref/misc/experience-points"
+
+[[books.chapters.children]]
+title = "Extraordinary Abilities (Ex)"
+entry = "ref/misc/extraordinary-abilities"
+
+[[books.chapters.children]]
+title = "Feat"
+entry = "ref/misc/feat"
+
+[[books.chapters.children]]
+title = "Game Master (GM)"
+entry = "ref/misc/game-master"
+
+[[books.chapters.children]]
+title = "Hit Dice (HD)"
+entry = "ref/misc/hit-dice"
+
+[[books.chapters.children]]
+title = "Hit Points (hp)"
+entry = "ref/misc/hit-points"
+
+[[books.chapters.children]]
+title = "Initiative"
+entry = "ref/misc/initiative"
+
+[[books.chapters.children]]
+title = "Level"
+entry = "ref/misc/level"
+
+[[books.chapters.children]]
+title = "Monster"
+entry = "ref/misc/monster"
+
+[[books.chapters.children]]
+title = "Multiplying"
+entry = "ref/misc/multiplying"
+
+[[books.chapters.children]]
+title = "Non-Player Character (NPC)"
+entry = "ref/misc/non-player-character"
+
+[[books.chapters.children]]
+title = "Penalty"
+entry = "ref/misc/penalty"
+
+[[books.chapters.children]]
+title = "Player Character (Character, PC)"
+entry = "ref/misc/player-character"
+
+[[books.chapters.children]]
+title = "Round"
+entry = "ref/misc/round"
+
+[[books.chapters.children]]
+title = "Rounding"
+entry = "ref/misc/rounding"
+
+[[books.chapters.children]]
+title = "Saving Throw"
+entry = "ref/misc/saving-throw"
+
+[[books.chapters.children]]
+title = "Skill"
+entry = "ref/misc/skill"
+
+[[books.chapters.children]]
+title = "Spell"
+entry = "ref/misc/spell"
+
+[[books.chapters.children]]
+title = "Spell-Like Abilities (Sp)"
+entry = "ref/misc/spell-like-abilities"
+
+[[books.chapters.children]]
+title = "Spell Resistance (SR)"
+entry = "ref/misc/spell-resistance"
+
+[[books.chapters.children]]
+title = "Stacking"
+entry = "ref/misc/stacking"
+
+[[books.chapters.children]]
+title = "Supernatural Abilities (Su)"
+entry = "ref/misc/supernatural-abilities"
+
+[[books.chapters.children]]
+title = "Turn"
+entry = "ref/misc/turn"
+
+[[books.chapters.children]]
 title = "Generating a Character"
 entry = "ref/carried/core-rulebook/rules/getting-started/generating-a-character"
 
 [[books.chapters.children]]
 title = "Ability Scores"
 entry = "ref/rule/ability-scores"
+
+[[books.chapters.children]]
+title = "Constitution"
+entry = "ref/rule/constitution"
+
+[[books.chapters.children]]
+title = "Dexterity"
+entry = "ref/rule/dexterity"
+
+[[books.chapters.children]]
+title = "The Abilities"
+entry = "ref/rule/the-abilities"
+
+[[books.chapters.children]]
+title = "Wisdom"
+entry = "ref/rule/wisdom"
+
+[[books.chapters.children]]
+title = "Charisma"
+entry = "ref/rule/charisma"
 
 [[books.chapters]]
 title = "Races"
@@ -22040,6 +22216,14 @@ entry = "ref/rule/classes"
 [[books.chapters.children]]
 title = "Character Advancement"
 entry = "ref/rule/character-advancement"
+
+[[books.chapters.children]]
+title = "Advancing Your Character"
+entry = "ref/rule/advancing-your-character"
+
+[[books.chapters.children]]
+title = "Multiclassing"
+entry = "ref/rule/multiclassing"
 
 [[books.chapters.children]]
 title = "Barbarian"
@@ -23976,8 +24160,24 @@ title = "Vital Statistics"
 entry = "ref/carried/core-rulebook/rules/additional-rules/vital-statistics"
 
 [[books.chapters.children]]
+title = "Changing Alignments"
+entry = "ref/rule/changing-alignments"
+
+[[books.chapters.children]]
 title = "Movement"
 entry = "ref/rule/movement"
+
+[[books.chapters.children]]
+title = "Local Movement"
+entry = "ref/rule/local-movement"
+
+[[books.chapters.children]]
+title = "Tactical Movement"
+entry = "ref/rule/tactical-movement"
+
+[[books.chapters.children]]
+title = "Evasion and Pursuit"
+entry = "ref/rule/evasion-and-pursuit"
 
 [[books.chapters.children]]
 title = "Exploration"
@@ -23996,20 +24196,112 @@ title = "Combat Statistics"
 entry = "ref/rule/combat-statistics"
 
 [[books.chapters.children]]
+title = "The Combat Round"
+entry = "ref/rule/the-combat-round"
+
+[[books.chapters.children]]
+title = "Damage"
+entry = "ref/rule/damage"
+
+[[books.chapters.children]]
+title = "Hit Points"
+entry = "ref/rule/hit-points"
+
+[[books.chapters.children]]
+title = "Attacks of Opportunity"
+entry = "ref/rule/attacks-of-opportunity"
+
+[[books.chapters.children]]
+title = "Speed"
+entry = "ref/rule/speed"
+
+[[books.chapters.children]]
 title = "Actions In Combat"
 entry = "ref/rule/actions-in-combat"
+
+[[books.chapters.children]]
+title = "Activate Magic Item"
+entry = "ref/rule/activate-magic-item"
+
+[[books.chapters.children]]
+title = "Critical Hits"
+entry = "ref/rule/critical-hits"
+
+[[books.chapters.children]]
+title = "Multiple Attacks and Fighting Defensively"
+entry = "ref/rule/multiple-attacks-and-fighting-defensively"
+
+[[books.chapters.children]]
+title = "Other Standard Actions"
+entry = "ref/rule/other-standard-actions"
+
+[[books.chapters.children]]
+title = "Move"
+entry = "ref/rule/move"
+
+[[books.chapters.children]]
+title = "Use Special Ability"
+entry = "ref/rule/use-special-ability"
+
+[[books.chapters.children]]
+title = "Mount/Dismount a Steed"
+entry = "ref/rule/mount-dismount-a-steed"
+
+[[books.chapters.children]]
+title = "Other Move Actions"
+entry = "ref/rule/other-move-actions"
+
+[[books.chapters.children]]
+title = "Ready or Drop a Shield"
+entry = "ref/rule/ready-or-drop-a-shield"
+
+[[books.chapters.children]]
+title = "Free Actions"
+entry = "ref/rule/free-actions"
+
+[[books.chapters.children]]
+title = "Other Full-Round Actions"
+entry = "ref/rule/other-full-round-actions"
+
+[[books.chapters.children]]
+title = "Swift and Immediate Actions"
+entry = "ref/rule/swift-and-immediate-actions"
 
 [[books.chapters.children]]
 title = "Injury and Death"
 entry = "ref/rule/injury-and-death"
 
 [[books.chapters.children]]
+title = "Dying (Negative Hit Points)"
+entry = "ref/rule/dying-negative-hit-points"
+
+[[books.chapters.children]]
+title = "Miscellaneous Actions"
+entry = "ref/rule/miscellaneous-actions"
+
+[[books.chapters.children]]
+title = "Dead"
+entry = "ref/rule/dead"
+
+[[books.chapters.children]]
 title = "Movement, Position, And Distance"
 entry = "ref/rule/movement-position-and-distance"
 
 [[books.chapters.children]]
+title = "Measuring Distance"
+entry = "ref/rule/measuring-distance"
+
+[[books.chapters.children]]
+title = "Moving Through a Square"
+entry = "ref/rule/moving-through-a-square"
+
+[[books.chapters.children]]
 title = "Big And Little Creatures In Combat"
 entry = "ref/rule/big-and-little-creatures-in-combat"
+
+[[books.chapters.children]]
+title = "Special Movement Rules"
+entry = "ref/rule/special-movement-rules"
 
 [[books.chapters.children]]
 title = "Combat Modifiers"
@@ -24036,20 +24328,84 @@ title = "Casting Spells"
 entry = "ref/rule/casting-spells"
 
 [[books.chapters.children]]
+title = "Choosing a Spell"
+entry = "ref/rule/choosing-a-spell"
+
+[[books.chapters.children]]
+title = "Caster Level"
+entry = "ref/rule/caster-level"
+
+[[books.chapters.children]]
+title = "Combining Magic Effects"
+entry = "ref/rule/combining-magic-effects"
+
+[[books.chapters.children]]
+title = "Special Spell Effects"
+entry = "ref/rule/special-spell-effects"
+
+[[books.chapters.children]]
+title = "Spell Failure"
+entry = "ref/rule/spell-failure"
+
+[[books.chapters.children]]
 title = "Spell Descriptions"
 entry = "ref/rule/spell-descriptions"
+
+[[books.chapters.children]]
+title = "Level, Components"
+entry = "ref/rule/level"
+
+[[books.chapters.children]]
+title = "Casting Time"
+entry = "ref/rule/casting-time"
 
 [[books.chapters.children]]
 title = "Arcane Spells"
 entry = "ref/rule/arcane-spells"
 
 [[books.chapters.children]]
+title = "Descriptive Text"
+entry = "ref/rule/descriptive-text"
+
+[[books.chapters.children]]
+title = "Preparing Wizard Spells"
+entry = "ref/rule/preparing-wizard-spells"
+
+[[books.chapters.children]]
+title = "Replacing and Copying Spellbooks"
+entry = "ref/rule/replacing-and-copying-spellbooks"
+
+[[books.chapters.children]]
+title = "Wizard Spells and Borrowed Spellbooks"
+entry = "ref/rule/wizard-spells-and-borrowed-spellbooks"
+
+[[books.chapters.children]]
 title = "Divine Spells"
 entry = "ref/rule/divine-spells"
 
 [[books.chapters.children]]
+title = "Preparing Divine Spells"
+entry = "ref/rule/preparing-divine-spells"
+
+[[books.chapters.children]]
+title = "Selling a Spellbook"
+entry = "ref/rule/selling-a-spellbook"
+
+[[books.chapters.children]]
+title = "Sorcerers and Bards"
+entry = "ref/rule/sorcerers-and-bards"
+
+[[books.chapters.children]]
 title = "Special Abilities"
 entry = "ref/rule/special-abilities"
+
+[[books.chapters.children]]
+title = "Divine Magical Writing"
+entry = "ref/rule/divine-magical-writing"
+
+[[books.chapters.children]]
+title = "New Divine Spells"
+entry = "ref/rule/new-divine-spells"
 
 [[books.chapters]]
 title = "Spells"
@@ -26567,32 +26923,64 @@ title = "Arcane Archer"
 entry = "ref/pclass/arcane-archer"
 
 [[books.chapters.children]]
+title = "Arcane Archer"
+entry = "ref/rule/pclass-arcane-archer/arcane-archer"
+
+[[books.chapters.children]]
 title = "Arcane Trickster"
 entry = "ref/pclass/arcane-trickster"
+
+[[books.chapters.children]]
+title = "Arcane Trickster"
+entry = "ref/rule/pclass-arcane-trickster/arcane-trickster"
 
 [[books.chapters.children]]
 title = "Assassin"
 entry = "ref/pclass/assassin"
 
 [[books.chapters.children]]
+title = "Assassin"
+entry = "ref/rule/pclass-assassin/assassin"
+
+[[books.chapters.children]]
 title = "Dragon Disciple"
 entry = "ref/pclass/dragon-disciple"
+
+[[books.chapters.children]]
+title = "Dragon Disciple"
+entry = "ref/rule/pclass-dragon-disciple/dragon-disciple"
 
 [[books.chapters.children]]
 title = "Duelist"
 entry = "ref/pclass/duelist"
 
 [[books.chapters.children]]
+title = "Duelist"
+entry = "ref/rule/pclass-duelist/duelist"
+
+[[books.chapters.children]]
 title = "Eldritch Knight"
 entry = "ref/pclass/eldritch-knight"
+
+[[books.chapters.children]]
+title = "Eldritch Knight"
+entry = "ref/rule/pclass-eldritch-knight/eldritch-knight"
 
 [[books.chapters.children]]
 title = "Loremaster"
 entry = "ref/pclass/loremaster"
 
 [[books.chapters.children]]
+title = "Loremaster"
+entry = "ref/rule/pclass-loremaster/loremaster"
+
+[[books.chapters.children]]
 title = "Mystic Theurge"
 entry = "ref/pclass/mystic-theurge"
+
+[[books.chapters.children]]
+title = "Mystic Theurge"
+entry = "ref/rule/pclass-mystic-theurge/mystic-theurge"
 
 [[books.chapters.children]]
 title = "Pathfinder Chronicler"
@@ -26602,21 +26990,69 @@ entry = "ref/pclass/pathfinder-chronicler"
 title = "Shadowdancer"
 entry = "ref/pclass/shadowdancer"
 
+[[books.chapters.children]]
+title = "Shadowdancer"
+entry = "ref/rule/pclass-shadowdancer/shadowdancer"
+
 [[books.chapters]]
 title = "Gamemastering"
 entry = "ref/carried/core-rulebook/rules/gamemastering"
+
+[[books.chapters.children]]
+title = "Basics from the Core Rulebook"
+entry = "ref/rule/basics-from-the-core-rulebook"
+
+[[books.chapters.children]]
+title = "Building an Adventure"
+entry = "ref/rule/building-an-adventure"
+
+[[books.chapters.children]]
+title = "Published Adventures"
+entry = "ref/rule/published-adventures"
+
+[[books.chapters.children]]
+title = "Starting a Campaign"
+entry = "ref/rule/starting-a-campaign"
 
 [[books.chapters.children]]
 title = "Designing Encounters"
 entry = "ref/rule/designing-encounters"
 
 [[books.chapters.children]]
+title = "Stat Blocks"
+entry = "ref/rule/stat-blocks"
+
+[[books.chapters.children]]
+title = "Building a Treasure Hoard"
+entry = "ref/rule/building-a-treasure-hoard"
+
+[[books.chapters.children]]
+title = "Preparing for the Game"
+entry = "ref/rule/preparing-for-the-game"
+
+[[books.chapters.children]]
+title = "During the Game"
+entry = "ref/rule/during-the-game"
+
+[[books.chapters.children]]
+title = "Campaign Tips"
+entry = "ref/rule/campaign-tips"
+
+[[books.chapters.children]]
 title = "Cost of Living"
 entry = "ref/rule/cost-of-living"
 
 [[books.chapters.children]]
+title = "Monstrous Characters"
+entry = "ref/rule/monstrous-characters"
+
+[[books.chapters.children]]
 title = "Beyond 20th Level"
 entry = "ref/rule/beyond-20th-level"
+
+[[books.chapters.children]]
+title = "Ending the Campaign"
+entry = "ref/rule/ending-the-campaign"
 
 [[books.chapters]]
 title = "Environment"
@@ -26627,8 +27063,56 @@ title = "Dungeons"
 entry = "ref/rule/dungeons"
 
 [[books.chapters.children]]
+title = "Dungeon Terrain"
+entry = "ref/rule/dungeon-terrain"
+
+[[books.chapters.children]]
+title = "Types of Dungeons"
+entry = "ref/rule/types-of-dungeons"
+
+[[books.chapters.children]]
+title = "Walls"
+entry = "ref/rule/walls"
+
+[[books.chapters.children]]
+title = "Stairs"
+entry = "ref/rule/stairs"
+
+[[books.chapters.children]]
+title = "Walls, Doors, and Detect Spells"
+entry = "ref/rule/walls-doors-and-detect-spells"
+
+[[books.chapters.children]]
 title = "Traps"
 entry = "ref/rule/traps"
+
+[[books.chapters.children]]
+title = "Elements of a Trap"
+entry = "ref/rule/elements-of-a-trap"
+
+[[books.chapters.children]]
+title = "Type"
+entry = "ref/rule/type"
+
+[[books.chapters.children]]
+title = "Duration"
+entry = "ref/rule/duration-2"
+
+[[books.chapters.children]]
+title = "Perception and Disable Device DCs"
+entry = "ref/rule/perception-and-disable-device-dcs"
+
+[[books.chapters.children]]
+title = "Bypass (Optional Element)"
+entry = "ref/rule/bypass-optional-element"
+
+[[books.chapters.children]]
+title = "Effect"
+entry = "ref/rule/effect"
+
+[[books.chapters.children]]
+title = "Miscellaneous Trap Features"
+entry = "ref/rule/miscellaneous-trap-features"
 
 [[books.chapters.children]]
 title = "Sample Traps"
@@ -26767,6 +27251,18 @@ title = "Destruction Trap"
 entry = "ref/carried/core-rulebook/rules/environment/sample-traps/destruction-trap"
 
 [[books.chapters.children]]
+title = "Mechanical Trap CR, Craft DC, and Cost"
+entry = "ref/rule/mechanical-trap-cost"
+
+[[books.chapters.children]]
+title = "Other Modifiers to Trap CR"
+entry = "ref/rule/other-modifiers-to-trap-cr"
+
+[[books.chapters.children]]
+title = "Spell and Magic Device Trap CR and Cost"
+entry = "ref/rule/magic-device-trap-cost"
+
+[[books.chapters.children]]
 title = "Wilderness"
 entry = "ref/rule/wilderness"
 
@@ -26775,16 +27271,48 @@ title = "Urban Adventures"
 entry = "ref/rule/urban-adventures"
 
 [[books.chapters.children]]
+title = "Walls and Gates"
+entry = "ref/rule/walls-and-gates"
+
+[[books.chapters.children]]
+title = "Guards and Soldiers"
+entry = "ref/rule/guards-and-soldiers"
+
+[[books.chapters.children]]
 title = "Weather"
 entry = "ref/carried/core-rulebook/rules/environment/weather"
+
+[[books.chapters.children]]
+title = "Above and Beneath the Streets"
+entry = "ref/rule/above-and-beneath-the-streets"
+
+[[books.chapters.children]]
+title = "City Buildings"
+entry = "ref/rule/city-buildings"
+
+[[books.chapters.children]]
+title = "City Lights"
+entry = "ref/rule/city-lights"
 
 [[books.chapters.children]]
 title = "The Planes"
 entry = "ref/rule/the-planes"
 
 [[books.chapters.children]]
+title = "How Planes Interact"
+entry = "ref/rule/how-planes-interact"
+
+[[books.chapters.children]]
+title = "Layered Planes"
+entry = "ref/rule/layered-planes"
+
+[[books.chapters.children]]
 title = "Environmental Rules"
 entry = "ref/rule/environmental-rules"
+
+[[books.chapters.children]]
+title = "Acid Effects"
+entry = "ref/rule/acid-effects"
 
 [[books.chapters]]
 title = "Creating NPCs"
@@ -26796,12 +27324,24 @@ title = "Adept"
 entry = "ref/npcclass/adept"
 
 [[books.chapters.children]]
+title = "Adept"
+entry = "ref/rule/npcclass-adept/adept"
+
+[[books.chapters.children]]
 title = "Aristocrat"
 entry = "ref/npcclass/aristocrat"
 
 [[books.chapters.children]]
 title = "Commoner"
 entry = "ref/npcclass/commoner"
+
+[[books.chapters.children]]
+title = "Aristocrat"
+entry = "ref/rule/npcclass-aristocrat/aristocrat"
+
+[[books.chapters.children]]
+title = "Commoner"
+entry = "ref/rule/npcclass-commoner/commoner"
 
 [[books.chapters.children]]
 title = "Expert"
@@ -26811,12 +27351,72 @@ entry = "ref/npcclass/expert"
 title = "Warrior"
 entry = "ref/npcclass/warrior"
 
+[[books.chapters.children]]
+title = "Expert"
+entry = "ref/rule/npcclass-expert/expert"
+
+[[books.chapters.children]]
+title = "Warrior"
+entry = "ref/rule/npcclass-warrior/warrior"
+
+[[books.chapters.children]]
+title = "Step 3: Skills"
+entry = "ref/rule/step-3-skills"
+
+[[books.chapters.children]]
+title = "Step 4: Feats"
+entry = "ref/rule/step-4-feats"
+
+[[books.chapters.children]]
+title = "Step 5: Class Features"
+entry = "ref/rule/step-5-class-features"
+
+[[books.chapters.children]]
+title = "Example: Kiramor, the Forest Shadow"
+entry = "ref/rule/example-kiramor-the-forest-shadow"
+
+[[books.chapters.children]]
+title = "Step 7: Details"
+entry = "ref/rule/step-7-details"
+
 [[books.chapters]]
 title = "Magic Items"
 
 [[books.chapters.children]]
 title = "Magic Items"
 entry = "ref/rule/magic-items"
+
+[[books.chapters.children]]
+title = "Magic Items and Detect Magic"
+entry = "ref/rule/magic-items-and-detect-magic"
+
+[[books.chapters.children]]
+title = "Using Magic Items"
+entry = "ref/rule/using-items"
+
+[[books.chapters.children]]
+title = "Charges, Doses, and Multiple Uses"
+entry = "ref/rule/charges-doses-and-multiple-uses"
+
+[[books.chapters.children]]
+title = "Damaging Magic Items"
+entry = "ref/rule/damaging-magic-items"
+
+[[books.chapters.children]]
+title = "Repairing Magic Items"
+entry = "ref/rule/repairing-magic-items"
+
+[[books.chapters.children]]
+title = "Saving Throws Against Magic Item Powers"
+entry = "ref/rule/saving-throws-against-magic-item-powers"
+
+[[books.chapters.children]]
+title = "Size and Magic Items"
+entry = "ref/rule/size-and-magic-items"
+
+[[books.chapters.children]]
+title = "Magic Item Descriptions"
+entry = "ref/rule/magic-item-descriptions"
 
 [[books.chapters.children]]
 title = "Armor"
@@ -28091,8 +28691,20 @@ title = "Wings of Flying"
 entry = "ref/magic-wondrous/wings-of-flying"
 
 [[books.chapters.children]]
+title = "Extradimensional Spaces"
+entry = "ref/rule/extradimensional-spaces"
+
+[[books.chapters.children]]
 title = "Intelligent Items"
 entry = "ref/rule/intelligent-items"
+
+[[books.chapters.children]]
+title = "Intelligent Item Ability Scores"
+entry = "ref/rule/intelligent-item-ability-scores"
+
+[[books.chapters.children]]
+title = "Languages Spoken by Item"
+entry = "ref/rule/languages-spoken-by-item"
 
 [[books.chapters.children]]
 title = "Cursed Items"
@@ -28281,6 +28893,30 @@ entry = "ref/carried/core-rulebook/rules/magic-items/artifacts/major-artifacts/t
 [[books.chapters.children]]
 title = "Magic Item Creation"
 entry = "ref/rule/magic-item-creation"
+
+[[books.chapters.children]]
+title = "Creating Magic Armor"
+entry = "ref/rule/creating-magic-armor"
+
+[[books.chapters.children]]
+title = "Creating Magic Weapons"
+entry = "ref/rule/creating-magic-weapons"
+
+[[books.chapters.children]]
+title = "Creating Potions"
+entry = "ref/rule/creating-potions"
+
+[[books.chapters.children]]
+title = "Creating Rings"
+entry = "ref/rule/creating-rings"
+
+[[books.chapters.children]]
+title = "Creating Rods"
+entry = "ref/rule/creating-rods"
+
+[[books.chapters.children]]
+title = "Creating Wands"
+entry = "ref/rule/creating-wands"
 
 [[books.chapters]]
 title = "Special Abilities"
@@ -28511,9 +29147,49 @@ entry = "ref/carried/core-rulebook/rules/glossary/special-abilities/poison/wolfs
 title = "Wyvern Poison"
 entry = "ref/carried/core-rulebook/rules/glossary/special-abilities/poison/wyvern-poison"
 
+[[books.chapters.children]]
+title = "Charm and Compulsion"
+entry = "ref/rule/charm-and-compulsion"
+
+[[books.chapters.children]]
+title = "Death Attacks"
+entry = "ref/rule/death-attacks"
+
+[[books.chapters.children]]
+title = "Fear"
+entry = "ref/rule/fear"
+
+[[books.chapters.children]]
+title = "Spell Resistance"
+entry = "ref/rule/spell-resistance-2"
+
+[[books.chapters.children]]
+title = "When Spell Resistance Applies"
+entry = "ref/rule/when-spell-resistance-applies"
+
+[[books.chapters.children]]
+title = "Successful Spell Resistance"
+entry = "ref/rule/successful-spell-resistance"
+
 [[books.chapters]]
 title = "Conditions"
 entry = "ref/rule/conditions"
+
+[[books.chapters.children]]
+title = "Dying Conditions"
+entry = "ref/rule/dying-conditions"
+
+[[books.chapters.children]]
+title = "Exhaustion Conditions"
+entry = "ref/rule/exhaustion-conditions"
+
+[[books.chapters.children]]
+title = "Incorporeal"
+entry = "ref/rule/incorporeal"
+
+[[books.chapters.children]]
+title = "Sickened Conditions"
+entry = "ref/rule/sickened-conditions"
 
 [[books.chapters]]
 title = "New entries (page order)"
@@ -30384,10 +31060,6 @@ title = "Aberrant"
 entry = "ref/sorcbloodline/aberrant"
 
 [[books.chapters.children]]
-title = "Ability Score"
-entry = "ref/misc/ability-score"
-
-[[books.chapters.children]]
 title = "Ability Score Bonuses"
 entry = "ref/rule/ability-score-bonuses"
 
@@ -30404,10 +31076,6 @@ title = "Abjuration"
 entry = "ref/spelldef/abjuration"
 
 [[books.chapters.children]]
-title = "Above and Beneath the Streets"
-entry = "ref/rule/above-and-beneath-the-streets"
-
-[[books.chapters.children]]
 title = "Abyssal"
 entry = "ref/sorcbloodline/abyssal"
 
@@ -30416,20 +31084,8 @@ title = "Acid Arrow Trap"
 entry = "ref/trap/acid-arrow-trap"
 
 [[books.chapters.children]]
-title = "Acid Effects"
-entry = "ref/rule/acid-effects"
-
-[[books.chapters.children]]
 title = "Acrobatics"
 entry = "ref/skill/acrobatics"
-
-[[books.chapters.children]]
-title = "Action"
-entry = "ref/misc/action"
-
-[[books.chapters.children]]
-title = "Activate Magic Item"
-entry = "ref/rule/activate-magic-item"
 
 [[books.chapters.children]]
 title = "Adding New Abilities"
@@ -30438,14 +31094,6 @@ entry = "ref/rule/adding-new-abilities"
 [[books.chapters.children]]
 title = "Adding Spells to a Wizard's Spellbook"
 entry = "ref/rule/adding-spells-to-a-wizards-spellbook"
-
-[[books.chapters.children]]
-title = "Adept"
-entry = "ref/rule/npcclass-adept/adept"
-
-[[books.chapters.children]]
-title = "Advancing Your Character"
-entry = "ref/rule/advancing-your-character"
 
 [[books.chapters.children]]
 title = "Afflictions"
@@ -30470,10 +31118,6 @@ entry = "ref/rule/aiming-a-spell"
 [[books.chapters.children]]
 title = "Air"
 entry = "ref/domain/air"
-
-[[books.chapters.children]]
-title = "Alignment"
-entry = "ref/misc/alignment"
 
 [[books.chapters.children]]
 title = "Alignment"
@@ -30512,10 +31156,6 @@ title = "Arcane"
 entry = "ref/sorcbloodline/arcane"
 
 [[books.chapters.children]]
-title = "Arcane Archer"
-entry = "ref/rule/pclass-arcane-archer/arcane-archer"
-
-[[books.chapters.children]]
 title = "Arcane Magical Writing"
 entry = "ref/rule/arcane-magical-writing"
 
@@ -30528,24 +31168,12 @@ title = "Arcane Spells and Armor"
 entry = "ref/rule/arcane-spells-and-armor"
 
 [[books.chapters.children]]
-title = "Arcane Trickster"
-entry = "ref/rule/pclass-arcane-trickster/arcane-trickster"
-
-[[books.chapters.children]]
-title = "Aristocrat"
-entry = "ref/rule/npcclass-aristocrat/aristocrat"
-
-[[books.chapters.children]]
 title = "Armor"
 entry = "ref/rule/armor"
 
 [[books.chapters.children]]
 title = "Armor Class"
 entry = "ref/rule/armor-class"
-
-[[books.chapters.children]]
-title = "Armor Class (AC)"
-entry = "ref/misc/armor-class"
 
 [[books.chapters.children]]
 title = "Armor for Unusual Creatures"
@@ -30556,20 +31184,12 @@ title = "Arrow Trap"
 entry = "ref/trap/arrow-trap"
 
 [[books.chapters.children]]
-title = "Assassin"
-entry = "ref/rule/pclass-assassin/assassin"
-
-[[books.chapters.children]]
 title = "Attack"
 entry = "ref/rule/attack"
 
 [[books.chapters.children]]
 title = "Attack Roll and Attack Bonus"
 entry = "ref/rule/attack-roll"
-
-[[books.chapters.children]]
-title = "Attacks of Opportunity"
-entry = "ref/rule/attacks-of-opportunity"
 
 [[books.chapters.children]]
 title = "Avalanches"
@@ -30600,20 +31220,12 @@ title = "Bard"
 entry = "ref/rule/class-bard/bard"
 
 [[books.chapters.children]]
-title = "Base Attack Bonus (BAB)"
-entry = "ref/misc/base-attack-bonus"
-
-[[books.chapters.children]]
 title = "Basic Feat Types"
 entry = "ref/rule/feats-basic"
 
 [[books.chapters.children]]
 title = "Basics"
 entry = "ref/rule/basics"
-
-[[books.chapters.children]]
-title = "Basics from the Core Rulebook"
-entry = "ref/rule/basics-from-the-core-rulebook"
 
 [[books.chapters.children]]
 title = "Bear"
@@ -30660,10 +31272,6 @@ title = "Boar"
 entry = "ref/companion/boar"
 
 [[books.chapters.children]]
-title = "Bonus"
-entry = "ref/misc/bonus"
-
-[[books.chapters.children]]
 title = "Brace"
 entry = "ref/misc/brace"
 
@@ -30680,14 +31288,6 @@ title = "Bubonic Plague"
 entry = "ref/disease/bubonic-plague"
 
 [[books.chapters.children]]
-title = "Building an Adventure"
-entry = "ref/rule/building-an-adventure"
-
-[[books.chapters.children]]
-title = "Building a Treasure Hoard"
-entry = "ref/rule/building-a-treasure-hoard"
-
-[[books.chapters.children]]
 title = "Bull Rush"
 entry = "ref/rule/bull-rush"
 
@@ -30698,10 +31298,6 @@ entry = "ref/trap/burning-hands-trap"
 [[books.chapters.children]]
 title = "Burst"
 entry = "ref/misc/burst"
-
-[[books.chapters.children]]
-title = "Bypass (Optional Element)"
-entry = "ref/rule/bypass-optional-element"
 
 [[books.chapters.children]]
 title = "Cackle Fever"
@@ -30724,10 +31320,6 @@ title = "Camouflaged Spiked Pit Trap"
 entry = "ref/trap/camouflaged-spiked-pit-trap"
 
 [[books.chapters.children]]
-title = "Campaign Tips"
-entry = "ref/rule/campaign-tips"
-
-[[books.chapters.children]]
 title = "Carrying Capacity and Encumbrance"
 entry = "ref/rule/carrying-capacity"
 
@@ -30738,18 +31330,6 @@ entry = "ref/rule/cast-a-spell"
 [[books.chapters.children]]
 title = "Cast a Spell (Full-Round Action)"
 entry = "ref/rule/cast-a-spell-2"
-
-[[books.chapters.children]]
-title = "Caster Level"
-entry = "ref/rule/caster-level"
-
-[[books.chapters.children]]
-title = "Caster Level (CL)"
-entry = "ref/misc/caster-level"
-
-[[books.chapters.children]]
-title = "Casting Time"
-entry = "ref/rule/casting-time"
 
 [[books.chapters.children]]
 title = "Cat, Big (Lion, Tiger)"
@@ -30776,10 +31356,6 @@ title = "Chamber of Blades Trap"
 entry = "ref/trap/chamber-of-blades-trap"
 
 [[books.chapters.children]]
-title = "Changing Alignments"
-entry = "ref/rule/changing-alignments"
-
-[[books.chapters.children]]
 title = "Channel Energy"
 entry = "ref/ability/channel-energy"
 
@@ -30796,14 +31372,6 @@ title = "Charge"
 entry = "ref/rule/charge"
 
 [[books.chapters.children]]
-title = "Charges, Doses, and Multiple Uses"
-entry = "ref/rule/charges-doses-and-multiple-uses"
-
-[[books.chapters.children]]
-title = "Charisma"
-entry = "ref/rule/charisma"
-
-[[books.chapters.children]]
 title = "Charm"
 entry = "ref/domain/charm"
 
@@ -30812,32 +31380,8 @@ title = "Charm"
 entry = "ref/spelldef/charm"
 
 [[books.chapters.children]]
-title = "Charm and Compulsion"
-entry = "ref/rule/charm-and-compulsion"
-
-[[books.chapters.children]]
-title = "Check"
-entry = "ref/misc/check"
-
-[[books.chapters.children]]
-title = "Choosing a Spell"
-entry = "ref/rule/choosing-a-spell"
-
-[[books.chapters.children]]
-title = "City Buildings"
-entry = "ref/rule/city-buildings"
-
-[[books.chapters.children]]
-title = "City Lights"
-entry = "ref/rule/city-lights"
-
-[[books.chapters.children]]
 title = "City Streets"
 entry = "ref/rule/city-streets"
-
-[[books.chapters.children]]
-title = "Class"
-entry = "ref/misc/class"
 
 [[books.chapters.children]]
 title = "Clear Mind"
@@ -30860,18 +31404,6 @@ title = "Combat"
 entry = "ref/rule/combat"
 
 [[books.chapters.children]]
-title = "Combat Maneuver"
-entry = "ref/misc/combat-maneuver"
-
-[[books.chapters.children]]
-title = "Combat Maneuver Bonus (CMB)"
-entry = "ref/misc/combat-maneuver-bonus"
-
-[[books.chapters.children]]
-title = "Combat Maneuver Defense (CMD)"
-entry = "ref/misc/combat-maneuver-defense"
-
-[[books.chapters.children]]
 title = "Combat Maneuvers"
 entry = "ref/rule/combat-maneuvers"
 
@@ -30884,16 +31416,8 @@ title = "Combat Trick"
 entry = "ref/talent/combat-trick"
 
 [[books.chapters.children]]
-title = "Combining Magic Effects"
-entry = "ref/rule/combining-magic-effects"
-
-[[books.chapters.children]]
 title = "Common Cursed Item Effects"
 entry = "ref/rule/common-cursed-item-effects"
-
-[[books.chapters.children]]
-title = "Commoner"
-entry = "ref/rule/npcclass-commoner/commoner"
 
 [[books.chapters.children]]
 title = "Compulsion"
@@ -30906,10 +31430,6 @@ entry = "ref/rule/concealment"
 [[books.chapters.children]]
 title = "Concentration"
 entry = "ref/rule/concentration"
-
-[[books.chapters.children]]
-title = "Concentration Check"
-entry = "ref/misc/concentration-check"
 
 [[books.chapters.children]]
 title = "Cone of Cold Trap"
@@ -30926,10 +31446,6 @@ entry = "ref/arcaneschool/conjuration"
 [[books.chapters.children]]
 title = "Conjuration"
 entry = "ref/spelldef/conjuration"
-
-[[books.chapters.children]]
-title = "Constitution"
-entry = "ref/rule/constitution"
 
 [[books.chapters.children]]
 title = "Countersong"
@@ -30952,36 +31468,12 @@ title = "Craft (any)"
 entry = "ref/skill/craft-any"
 
 [[books.chapters.children]]
-title = "Creating Magic Armor"
-entry = "ref/rule/creating-magic-armor"
-
-[[books.chapters.children]]
-title = "Creating Magic Weapons"
-entry = "ref/rule/creating-magic-weapons"
-
-[[books.chapters.children]]
-title = "Creating Potions"
-entry = "ref/rule/creating-potions"
-
-[[books.chapters.children]]
-title = "Creating Rings"
-entry = "ref/rule/creating-rings"
-
-[[books.chapters.children]]
-title = "Creating Rods"
-entry = "ref/rule/creating-rods"
-
-[[books.chapters.children]]
 title = "Creating Scrolls"
 entry = "ref/rule/creating-scrolls"
 
 [[books.chapters.children]]
 title = "Creating Staves"
 entry = "ref/rule/creating-staves"
-
-[[books.chapters.children]]
-title = "Creating Wands"
-entry = "ref/rule/creating-wands"
 
 [[books.chapters.children]]
 title = "Creating Wondrous Items"
@@ -30992,16 +31484,8 @@ title = "Creation"
 entry = "ref/spelldef/creation"
 
 [[books.chapters.children]]
-title = "Creature"
-entry = "ref/misc/creature"
-
-[[books.chapters.children]]
 title = "Crippling Strike"
 entry = "ref/talent/crippling-strike"
-
-[[books.chapters.children]]
-title = "Critical Hits"
-entry = "ref/rule/critical-hits"
 
 [[books.chapters.children]]
 title = "Crocodile (Alligator)"
@@ -31028,24 +31512,12 @@ title = "Curses"
 entry = "ref/rule/curses"
 
 [[books.chapters.children]]
-title = "Damage"
-entry = "ref/rule/damage"
-
-[[books.chapters.children]]
 title = "Damage Die Adjustments"
 entry = "ref/misc/damage-die-adjustments"
 
 [[books.chapters.children]]
 title = "Damage Reduction"
 entry = "ref/rule/damage-reduction"
-
-[[books.chapters.children]]
-title = "Damage Reduction (DR)"
-entry = "ref/misc/damage-reduction"
-
-[[books.chapters.children]]
-title = "Damaging Magic Items"
-entry = "ref/rule/damaging-magic-items"
 
 [[books.chapters.children]]
 title = "Darkness"
@@ -31072,10 +31544,6 @@ title = "Dead"
 entry = "ref/misc/dead"
 
 [[books.chapters.children]]
-title = "Dead"
-entry = "ref/rule/dead"
-
-[[books.chapters.children]]
 title = "Deadly Performance"
 entry = "ref/performance/deadly-performance"
 
@@ -31090,10 +31558,6 @@ entry = "ref/mercy/deafened"
 [[books.chapters.children]]
 title = "Deafened"
 entry = "ref/misc/deafened"
-
-[[books.chapters.children]]
-title = "Death Attacks"
-entry = "ref/rule/death-attacks"
 
 [[books.chapters.children]]
 title = "Dedicated Powers"
@@ -31114,10 +31578,6 @@ entry = "ref/rule/delay"
 [[books.chapters.children]]
 title = "Demon Fever"
 entry = "ref/disease/demon-fever"
-
-[[books.chapters.children]]
-title = "Descriptive Text"
-entry = "ref/rule/descriptive-text"
 
 [[books.chapters.children]]
 title = "Desert Terrain"
@@ -31152,16 +31612,8 @@ title = "Devil Chills"
 entry = "ref/disease/devil-chills"
 
 [[books.chapters.children]]
-title = "Dexterity"
-entry = "ref/rule/dexterity"
-
-[[books.chapters.children]]
 title = "Difficult Terrain and Obstacles"
 entry = "ref/rule/terrain-and-obstacles"
-
-[[books.chapters.children]]
-title = "Difficulty Class (DC)"
-entry = "ref/misc/difficulty-class"
 
 [[books.chapters.children]]
 title = "Diplomacy"
@@ -31224,10 +31676,6 @@ title = "Divination"
 entry = "ref/spelldef/divination"
 
 [[books.chapters.children]]
-title = "Divine Magical Writing"
-entry = "ref/rule/divine-magical-writing"
-
-[[books.chapters.children]]
 title = "Dog"
 entry = "ref/companion/dog"
 
@@ -31248,10 +31696,6 @@ title = "Draconic"
 entry = "ref/sorcbloodline/draconic"
 
 [[books.chapters.children]]
-title = "Dragon Disciple"
-entry = "ref/rule/pclass-dragon-disciple/dragon-disciple"
-
-[[books.chapters.children]]
 title = "Draw or Sheathe a Weapon"
 entry = "ref/rule/draw-or-sheathe-a-weapon"
 
@@ -31264,48 +31708,16 @@ title = "Druid"
 entry = "ref/rule/class-druid/druid"
 
 [[books.chapters.children]]
-title = "Duelist"
-entry = "ref/rule/pclass-duelist/duelist"
-
-[[books.chapters.children]]
-title = "Dungeon Terrain"
-entry = "ref/rule/dungeon-terrain"
-
-[[books.chapters.children]]
 title = "Duration"
 entry = "ref/rule/duration"
-
-[[books.chapters.children]]
-title = "Duration"
-entry = "ref/rule/duration-2"
-
-[[books.chapters.children]]
-title = "During the Game"
-entry = "ref/rule/during-the-game"
 
 [[books.chapters.children]]
 title = "Dying"
 entry = "ref/misc/dying"
 
 [[books.chapters.children]]
-title = "Dying Conditions"
-entry = "ref/rule/dying-conditions"
-
-[[books.chapters.children]]
-title = "Dying (Negative Hit Points)"
-entry = "ref/rule/dying-negative-hit-points"
-
-[[books.chapters.children]]
 title = "Earth"
 entry = "ref/domain/earth"
-
-[[books.chapters.children]]
-title = "Effect"
-entry = "ref/rule/effect"
-
-[[books.chapters.children]]
-title = "Eldritch Knight"
-entry = "ref/rule/pclass-eldritch-knight/eldritch-knight"
 
 [[books.chapters.children]]
 title = "Electricity Arc Trap"
@@ -31314,10 +31726,6 @@ entry = "ref/trap/electricity-arc-trap"
 [[books.chapters.children]]
 title = "Elemental"
 entry = "ref/sorcbloodline/elemental"
-
-[[books.chapters.children]]
-title = "Elements of a Trap"
-entry = "ref/rule/elements-of-a-trap"
 
 [[books.chapters.children]]
 title = "Emanation"
@@ -31334,10 +31742,6 @@ entry = "ref/arcaneschool/enchantment"
 [[books.chapters.children]]
 title = "Enchantment"
 entry = "ref/spelldef/enchantment"
-
-[[books.chapters.children]]
-title = "Ending the Campaign"
-entry = "ref/rule/ending-the-campaign"
 
 [[books.chapters.children]]
 title = "Energy Drain and Negative Levels"
@@ -31368,10 +31772,6 @@ title = "Evasion"
 entry = "ref/ability/evasion"
 
 [[books.chapters.children]]
-title = "Evasion and Pursuit"
-entry = "ref/rule/evasion-and-pursuit"
-
-[[books.chapters.children]]
 title = "Evocation"
 entry = "ref/arcaneschool/evocation"
 
@@ -31380,36 +31780,12 @@ title = "Evocation"
 entry = "ref/spelldef/evocation"
 
 [[books.chapters.children]]
-title = "Example: Kiramor, the Forest Shadow"
-entry = "ref/rule/example-kiramor-the-forest-shadow"
-
-[[books.chapters.children]]
 title = "Exhausted"
 entry = "ref/mercy/exhausted"
 
 [[books.chapters.children]]
 title = "Exhausted"
 entry = "ref/misc/exhausted"
-
-[[books.chapters.children]]
-title = "Exhaustion Conditions"
-entry = "ref/rule/exhaustion-conditions"
-
-[[books.chapters.children]]
-title = "Experience Points (XP)"
-entry = "ref/misc/experience-points"
-
-[[books.chapters.children]]
-title = "Expert"
-entry = "ref/rule/npcclass-expert/expert"
-
-[[books.chapters.children]]
-title = "Extradimensional Spaces"
-entry = "ref/rule/extradimensional-spaces"
-
-[[books.chapters.children]]
-title = "Extraordinary Abilities (Ex)"
-entry = "ref/misc/extraordinary-abilities"
 
 [[books.chapters.children]]
 title = "Falling"
@@ -31464,20 +31840,12 @@ title = "Favored Terrain"
 entry = "ref/ability/favored-terrain"
 
 [[books.chapters.children]]
-title = "Fear"
-entry = "ref/rule/fear"
-
-[[books.chapters.children]]
 title = "Fear Conditions"
 entry = "ref/rule/fear-conditions"
 
 [[books.chapters.children]]
 title = "Fearless Rage"
 entry = "ref/ragepower/fearless-rage"
-
-[[books.chapters.children]]
-title = "Feat"
-entry = "ref/misc/feat"
 
 [[books.chapters.children]]
 title = "Feat"
@@ -31564,10 +31932,6 @@ title = "Fractions and Rounding"
 entry = "ref/misc/fractions-and-rounding"
 
 [[books.chapters.children]]
-title = "Free Actions"
-entry = "ref/rule/free-actions"
-
-[[books.chapters.children]]
 title = "Frightened"
 entry = "ref/mercy/frightened"
 
@@ -31590,10 +31954,6 @@ entry = "ref/rule/full-attack"
 [[books.chapters.children]]
 title = "Full-Round Actions"
 entry = "ref/rule/full-round-actions"
-
-[[books.chapters.children]]
-title = "Game Master (GM)"
-entry = "ref/misc/game-master"
 
 [[books.chapters.children]]
 title = "Gamemastery"
@@ -31626,10 +31986,6 @@ entry = "ref/rule/grapple-conditions"
 [[books.chapters.children]]
 title = "Guarded Stance"
 entry = "ref/ragepower/guarded-stance"
-
-[[books.chapters.children]]
-title = "Guards and Soldiers"
-entry = "ref/rule/guards-and-soldiers"
 
 [[books.chapters.children]]
 title = "Hail of Arrows Trap"
@@ -31680,28 +32036,12 @@ title = "Hills Terrain"
 entry = "ref/rule/hills-terrain"
 
 [[books.chapters.children]]
-title = "Hit Dice (HD)"
-entry = "ref/misc/hit-dice"
-
-[[books.chapters.children]]
-title = "Hit Points"
-entry = "ref/rule/hit-points"
-
-[[books.chapters.children]]
-title = "Hit Points (hp)"
-entry = "ref/misc/hit-points"
-
-[[books.chapters.children]]
 title = "Holding Your Breath"
 entry = "ref/misc/hold-your-breath"
 
 [[books.chapters.children]]
 title = "Horse"
 entry = "ref/companion/horse"
-
-[[books.chapters.children]]
-title = "How Planes Interact"
-entry = "ref/rule/how-planes-interact"
 
 [[books.chapters.children]]
 title = "How to Play"
@@ -31736,20 +32076,12 @@ title = "Improvised Weapons"
 entry = "ref/misc/improvised-weapons"
 
 [[books.chapters.children]]
-title = "Incorporeal"
-entry = "ref/rule/incorporeal"
-
-[[books.chapters.children]]
 title = "Increased Damage Reduction"
 entry = "ref/ragepower/increased-damage-reduction"
 
 [[books.chapters.children]]
 title = "Infernal"
 entry = "ref/sorcbloodline/infernal"
-
-[[books.chapters.children]]
-title = "Initiative"
-entry = "ref/misc/initiative"
 
 [[books.chapters.children]]
 title = "Initiative"
@@ -31778,10 +32110,6 @@ entry = "ref/performance/inspire-heroics"
 [[books.chapters.children]]
 title = "Intelligence"
 entry = "ref/rule/intelligence"
-
-[[books.chapters.children]]
-title = "Intelligent Item Ability Scores"
-entry = "ref/rule/intelligent-item-ability-scores"
 
 [[books.chapters.children]]
 title = "Intelligent Item Alignment"
@@ -31872,16 +32200,8 @@ title = "Knowledge (religion)"
 entry = "ref/skill/knowledge-religion"
 
 [[books.chapters.children]]
-title = "Languages Spoken by Item"
-entry = "ref/rule/languages-spoken-by-item"
-
-[[books.chapters.children]]
 title = "Lava Effects"
 entry = "ref/rule/lava-effects"
-
-[[books.chapters.children]]
-title = "Layered Planes"
-entry = "ref/rule/layered-planes"
 
 [[books.chapters.children]]
 title = "Lay on Hands"
@@ -31896,28 +32216,12 @@ title = "Leprosy"
 entry = "ref/disease/leprosy"
 
 [[books.chapters.children]]
-title = "Level"
-entry = "ref/misc/level"
-
-[[books.chapters.children]]
-title = "Level, Components"
-entry = "ref/rule/level"
-
-[[books.chapters.children]]
 title = "Lightning Bolt Gallery Trap"
 entry = "ref/trap/lightning-bolt-gallery-trap"
 
 [[books.chapters.children]]
 title = "Linguistics"
 entry = "ref/skill/linguistics"
-
-[[books.chapters.children]]
-title = "Local Movement"
-entry = "ref/rule/local-movement"
-
-[[books.chapters.children]]
-title = "Loremaster"
-entry = "ref/rule/pclass-loremaster/loremaster"
 
 [[books.chapters.children]]
 title = "Loss of Hit Points"
@@ -31944,16 +32248,8 @@ title = "Magic Armor"
 entry = "ref/rule/magic-armor"
 
 [[books.chapters.children]]
-title = "Magic Item Descriptions"
-entry = "ref/rule/magic-item-descriptions"
-
-[[books.chapters.children]]
 title = "Magic Item Gold Piece Values"
 entry = "ref/rule/magic-item-gold-piece-values"
-
-[[books.chapters.children]]
-title = "Magic Items and Detect Magic"
-entry = "ref/rule/magic-items-and-detect-magic"
 
 [[books.chapters.children]]
 title = "Magic Items by Category"
@@ -31992,14 +32288,6 @@ title = "Maximized Fireball Trap"
 entry = "ref/trap/maximized-fireball-trap"
 
 [[books.chapters.children]]
-title = "Measuring Distance"
-entry = "ref/rule/measuring-distance"
-
-[[books.chapters.children]]
-title = "Mechanical Trap CR, Craft DC, and Cost"
-entry = "ref/rule/mechanical-trap-cost"
-
-[[books.chapters.children]]
 title = "Melee and Ranged Attacks"
 entry = "ref/rule/melee-and-ranged-attacks"
 
@@ -32020,14 +32308,6 @@ title = "Minor Magic"
 entry = "ref/talent/minor-magic"
 
 [[books.chapters.children]]
-title = "Miscellaneous Actions"
-entry = "ref/rule/miscellaneous-actions"
-
-[[books.chapters.children]]
-title = "Miscellaneous Trap Features"
-entry = "ref/rule/miscellaneous-trap-features"
-
-[[books.chapters.children]]
 title = "Moment of Clarity"
 entry = "ref/ragepower/moment-of-clarity"
 
@@ -32040,14 +32320,6 @@ title = "Monk"
 entry = "ref/rule/class-monk/monk"
 
 [[books.chapters.children]]
-title = "Monster"
-entry = "ref/misc/monster"
-
-[[books.chapters.children]]
-title = "Monstrous Characters"
-entry = "ref/rule/monstrous-characters"
-
-[[books.chapters.children]]
 title = "Mountain Terrain"
 entry = "ref/rule/mountain-terrain"
 
@@ -32056,44 +32328,16 @@ title = "Mountain Travel"
 entry = "ref/rule/mountain-travel"
 
 [[books.chapters.children]]
-title = "Mount/Dismount a Steed"
-entry = "ref/rule/mount-dismount-a-steed"
-
-[[books.chapters.children]]
 title = "Mounted Combat"
 entry = "ref/rule/mounted-combat"
-
-[[books.chapters.children]]
-title = "Move"
-entry = "ref/rule/move"
 
 [[books.chapters.children]]
 title = "Move Actions"
 entry = "ref/rule/move-actions"
 
 [[books.chapters.children]]
-title = "Moving Through a Square"
-entry = "ref/rule/moving-through-a-square"
-
-[[books.chapters.children]]
-title = "Multiclassing"
-entry = "ref/rule/multiclassing"
-
-[[books.chapters.children]]
-title = "Multiple Attacks and Fighting Defensively"
-entry = "ref/rule/multiple-attacks-and-fighting-defensively"
-
-[[books.chapters.children]]
-title = "Multiplying"
-entry = "ref/misc/multiplying"
-
-[[books.chapters.children]]
 title = "Mummy Rot"
 entry = "ref/curse/mummy-rot"
-
-[[books.chapters.children]]
-title = "Mystic Theurge"
-entry = "ref/rule/pclass-mystic-theurge/mystic-theurge"
 
 [[books.chapters.children]]
 title = "Name, School, Subschool, Descriptor"
@@ -32124,10 +32368,6 @@ title = "Necromancy"
 entry = "ref/spelldef/necromancy"
 
 [[books.chapters.children]]
-title = "New Divine Spells"
-entry = "ref/rule/new-divine-spells"
-
-[[books.chapters.children]]
 title = "Night Vision"
 entry = "ref/ragepower/night-vision"
 
@@ -32144,32 +32384,12 @@ title = "Nonlethal Damage"
 entry = "ref/rule/nonlethal-damage"
 
 [[books.chapters.children]]
-title = "Non-Player Character (NPC)"
-entry = "ref/misc/non-player-character"
-
-[[books.chapters.children]]
 title = "Opportunist"
 entry = "ref/talent/opportunist"
 
 [[books.chapters.children]]
-title = "Other Full-Round Actions"
-entry = "ref/rule/other-full-round-actions"
-
-[[books.chapters.children]]
 title = "Other Goods and Services"
 entry = "ref/rule/other-goods-and-services"
-
-[[books.chapters.children]]
-title = "Other Modifiers to Trap CR"
-entry = "ref/rule/other-modifiers-to-trap-cr"
-
-[[books.chapters.children]]
-title = "Other Move Actions"
-entry = "ref/rule/other-move-actions"
-
-[[books.chapters.children]]
-title = "Other Standard Actions"
-entry = "ref/rule/other-standard-actions"
 
 [[books.chapters.children]]
 title = "Overland Movement"
@@ -32208,16 +32428,8 @@ title = "Pattern"
 entry = "ref/spelldef/pattern"
 
 [[books.chapters.children]]
-title = "Penalty"
-entry = "ref/misc/penalty"
-
-[[books.chapters.children]]
 title = "Perception"
 entry = "ref/skill/perception"
-
-[[books.chapters.children]]
-title = "Perception and Disable Device DCs"
-entry = "ref/rule/perception-and-disable-device-dcs"
 
 [[books.chapters.children]]
 title = "Perform (any)"
@@ -32248,10 +32460,6 @@ title = "Plant"
 entry = "ref/domain/plant"
 
 [[books.chapters.children]]
-title = "Player Character (Character, PC)"
-entry = "ref/misc/player-character"
-
-[[books.chapters.children]]
 title = "Poison"
 entry = "ref/rule/poison"
 
@@ -32280,18 +32488,6 @@ title = "Powerful Blow"
 entry = "ref/ragepower/powerful-blow"
 
 [[books.chapters.children]]
-title = "Preparing Divine Spells"
-entry = "ref/rule/preparing-divine-spells"
-
-[[books.chapters.children]]
-title = "Preparing for the Game"
-entry = "ref/rule/preparing-for-the-game"
-
-[[books.chapters.children]]
-title = "Preparing Wizard Spells"
-entry = "ref/rule/preparing-wizard-spells"
-
-[[books.chapters.children]]
 title = "Profession (any)"
 entry = "ref/skill/profession-any"
 
@@ -32302,10 +32498,6 @@ entry = "ref/rule/prone"
 [[books.chapters.children]]
 title = "Protection"
 entry = "ref/domain/protection"
-
-[[books.chapters.children]]
-title = "Published Adventures"
-entry = "ref/rule/published-adventures"
 
 [[books.chapters.children]]
 title = "Purchasing Magic Items"
@@ -32356,24 +32548,12 @@ title = "Ready"
 entry = "ref/rule/ready"
 
 [[books.chapters.children]]
-title = "Ready or Drop a Shield"
-entry = "ref/rule/ready-or-drop-a-shield"
-
-[[books.chapters.children]]
 title = "Red Ache"
 entry = "ref/disease/red-ache"
 
 [[books.chapters.children]]
 title = "Renewed Vigor"
 entry = "ref/ragepower/renewed-vigor"
-
-[[books.chapters.children]]
-title = "Repairing Magic Items"
-entry = "ref/rule/repairing-magic-items"
-
-[[books.chapters.children]]
-title = "Replacing and Copying Spellbooks"
-entry = "ref/rule/replacing-and-copying-spellbooks"
 
 [[books.chapters.children]]
 title = "Reset"
@@ -32404,14 +32584,6 @@ title = "Rolling Dodge"
 entry = "ref/ragepower/rolling-dodge"
 
 [[books.chapters.children]]
-title = "Round"
-entry = "ref/misc/round"
-
-[[books.chapters.children]]
-title = "Rounding"
-entry = "ref/misc/rounding"
-
-[[books.chapters.children]]
 title = "Roused Anger"
 entry = "ref/ragepower/roused-anger"
 
@@ -32425,19 +32597,11 @@ entry = "ref/rule/sandstorms"
 
 [[books.chapters.children]]
 title = "Saving Throw"
-entry = "ref/misc/saving-throw"
-
-[[books.chapters.children]]
-title = "Saving Throw"
 entry = "ref/rule/saving-throw"
 
 [[books.chapters.children]]
 title = "Saving Throws"
 entry = "ref/rule/saving-throws"
-
-[[books.chapters.children]]
-title = "Saving Throws Against Magic Item Powers"
-entry = "ref/rule/saving-throws-against-magic-item-powers"
 
 [[books.chapters.children]]
 title = "Scent"
@@ -32452,20 +32616,12 @@ title = "Scrying"
 entry = "ref/spelldef/scrying"
 
 [[books.chapters.children]]
-title = "Selling a Spellbook"
-entry = "ref/rule/selling-a-spellbook"
-
-[[books.chapters.children]]
 title = "Sense Motive"
 entry = "ref/skill/sense-motive"
 
 [[books.chapters.children]]
 title = "Senses and Communication"
 entry = "ref/rule/senses-and-communication"
-
-[[books.chapters.children]]
-title = "Shadowdancer"
-entry = "ref/rule/pclass-shadowdancer/shadowdancer"
 
 [[books.chapters.children]]
 title = "Shadow (subschoool)"
@@ -32504,20 +32660,8 @@ title = "Sickened"
 entry = "ref/misc/sickened"
 
 [[books.chapters.children]]
-title = "Sickened Conditions"
-entry = "ref/rule/sickened-conditions"
-
-[[books.chapters.children]]
 title = "Siege Engines"
 entry = "ref/rule/siege-engines"
-
-[[books.chapters.children]]
-title = "Size and Magic Items"
-entry = "ref/rule/size-and-magic-items"
-
-[[books.chapters.children]]
-title = "Skill"
-entry = "ref/misc/skill"
 
 [[books.chapters.children]]
 title = "Skill Checks"
@@ -32576,40 +32720,16 @@ title = "Sorcerer Bloodlines"
 entry = "ref/ability/sorcerer-bloodlines"
 
 [[books.chapters.children]]
-title = "Sorcerers and Bards"
-entry = "ref/rule/sorcerers-and-bards"
-
-[[books.chapters.children]]
 title = "Special Abilities"
 entry = "ref/rule/special-abilities-2"
-
-[[books.chapters.children]]
-title = "Special Movement Rules"
-entry = "ref/rule/special-movement-rules"
 
 [[books.chapters.children]]
 title = "Special Purpose Items"
 entry = "ref/rule/special-purpose-items"
 
 [[books.chapters.children]]
-title = "Special Spell Effects"
-entry = "ref/rule/special-spell-effects"
-
-[[books.chapters.children]]
 title = "Specific Rulesets"
 entry = "ref/rule/specific-rulesets"
-
-[[books.chapters.children]]
-title = "Speed"
-entry = "ref/rule/speed"
-
-[[books.chapters.children]]
-title = "Spell"
-entry = "ref/misc/spell"
-
-[[books.chapters.children]]
-title = "Spell and Magic Device Trap CR and Cost"
-entry = "ref/rule/magic-device-trap-cost"
 
 [[books.chapters.children]]
 title = "Spell Completion Items"
@@ -32620,24 +32740,8 @@ title = "Spellcraft"
 entry = "ref/skill/spellcraft"
 
 [[books.chapters.children]]
-title = "Spell Failure"
-entry = "ref/rule/spell-failure"
-
-[[books.chapters.children]]
-title = "Spell-Like Abilities (Sp)"
-entry = "ref/misc/spell-like-abilities"
-
-[[books.chapters.children]]
 title = "Spell Resistance"
 entry = "ref/rule/spell-resistance"
-
-[[books.chapters.children]]
-title = "Spell Resistance"
-entry = "ref/rule/spell-resistance-2"
-
-[[books.chapters.children]]
-title = "Spell Resistance (SR)"
-entry = "ref/misc/spell-resistance"
 
 [[books.chapters.children]]
 title = "Spell Trigger Items"
@@ -32664,20 +32768,12 @@ title = "Stable Characters and Recovery"
 entry = "ref/rule/stable-characters-and-recovery"
 
 [[books.chapters.children]]
-title = "Stacking"
-entry = "ref/misc/stacking"
-
-[[books.chapters.children]]
 title = "Staggered"
 entry = "ref/mercy/staggered"
 
 [[books.chapters.children]]
 title = "Staggered"
 entry = "ref/misc/staggered"
-
-[[books.chapters.children]]
-title = "Stairs"
-entry = "ref/rule/stairs"
 
 [[books.chapters.children]]
 title = "Standard Actions"
@@ -32688,40 +32784,16 @@ title = "Stand Up"
 entry = "ref/talent/stand-up"
 
 [[books.chapters.children]]
-title = "Starting a Campaign"
-entry = "ref/rule/starting-a-campaign"
-
-[[books.chapters.children]]
 title = "Starvation and Thirst"
 entry = "ref/rule/starvation-and-thirst"
-
-[[books.chapters.children]]
-title = "Stat Blocks"
-entry = "ref/rule/stat-blocks"
 
 [[books.chapters.children]]
 title = "Stealth"
 entry = "ref/skill/stealth"
 
 [[books.chapters.children]]
-title = "Step 3: Skills"
-entry = "ref/rule/step-3-skills"
-
-[[books.chapters.children]]
-title = "Step 4: Feats"
-entry = "ref/rule/step-4-feats"
-
-[[books.chapters.children]]
-title = "Step 5: Class Features"
-entry = "ref/rule/step-5-class-features"
-
-[[books.chapters.children]]
 title = "Step 6: Gear"
 entry = "ref/rule/step-6-gear"
-
-[[books.chapters.children]]
-title = "Step 7: Details"
-entry = "ref/rule/step-7-details"
 
 [[books.chapters.children]]
 title = "Steps 1 and 2: Basic Info and Determine Ability Scores"
@@ -32746,10 +32818,6 @@ entry = "ref/mercy/stunned"
 [[books.chapters.children]]
 title = "Stunned"
 entry = "ref/misc/stunned"
-
-[[books.chapters.children]]
-title = "Successful Spell Resistance"
-entry = "ref/rule/successful-spell-resistance"
 
 [[books.chapters.children]]
 title = "Suffocation"
@@ -32780,10 +32848,6 @@ title = "Sunder"
 entry = "ref/rule/sunder"
 
 [[books.chapters.children]]
-title = "Supernatural Abilities (Su)"
-entry = "ref/misc/supernatural-abilities"
-
-[[books.chapters.children]]
 title = "Superstition"
 entry = "ref/ragepower/superstition"
 
@@ -32802,10 +32866,6 @@ entry = "ref/rule/surprise"
 [[books.chapters.children]]
 title = "Survival"
 entry = "ref/skill/survival"
-
-[[books.chapters.children]]
-title = "Swift and Immediate Actions"
-entry = "ref/rule/swift-and-immediate-actions"
 
 [[books.chapters.children]]
 title = "Swift Foot"
@@ -32832,10 +32892,6 @@ title = "Table 15-20: Major Wondrous Items"
 entry = "ref/rule/major-wondrous-items"
 
 [[books.chapters.children]]
-title = "Tactical Movement"
-entry = "ref/rule/tactical-movement"
-
-[[books.chapters.children]]
 title = "Take 5-Foot Step"
 entry = "ref/rule/take-5-foot-step"
 
@@ -32854,14 +32910,6 @@ entry = "ref/rule/temporary-hit-points"
 [[books.chapters.children]]
 title = "Terrifying Howl"
 entry = "ref/ragepower/terrifying-howl"
-
-[[books.chapters.children]]
-title = "The Abilities"
-entry = "ref/rule/the-abilities"
-
-[[books.chapters.children]]
-title = "The Combat Round"
-entry = "ref/rule/the-combat-round"
 
 [[books.chapters.children]]
 title = "The Nine Alignments"
@@ -32916,20 +32964,8 @@ title = "Trip"
 entry = "ref/rule/trip"
 
 [[books.chapters.children]]
-title = "Turn"
-entry = "ref/misc/turn"
-
-[[books.chapters.children]]
 title = "Two-Weapon Fighting"
 entry = "ref/rule/two-weapon-fighting"
-
-[[books.chapters.children]]
-title = "Type"
-entry = "ref/rule/type"
-
-[[books.chapters.children]]
-title = "Types of Dungeons"
-entry = "ref/rule/types-of-dungeons"
 
 [[books.chapters.children]]
 title = "Uncanny Dodge"
@@ -32968,40 +33004,16 @@ title = "Use Magic Device"
 entry = "ref/skill/use-magic-device"
 
 [[books.chapters.children]]
-title = "Use Special Ability"
-entry = "ref/rule/use-special-ability"
-
-[[books.chapters.children]]
-title = "Using Magic Items"
-entry = "ref/rule/using-items"
-
-[[books.chapters.children]]
 title = "Vision and Light"
 entry = "ref/rule/vision-and-light"
-
-[[books.chapters.children]]
-title = "Walls"
-entry = "ref/rule/walls"
-
-[[books.chapters.children]]
-title = "Walls and Gates"
-entry = "ref/rule/walls-and-gates"
 
 [[books.chapters.children]]
 title = "Wall Scythe Trap"
 entry = "ref/trap/wall-scythe-trap"
 
 [[books.chapters.children]]
-title = "Walls, Doors, and Detect Spells"
-entry = "ref/rule/walls-doors-and-detect-spells"
-
-[[books.chapters.children]]
 title = "War"
 entry = "ref/domain/war"
-
-[[books.chapters.children]]
-title = "Warrior"
-entry = "ref/rule/npcclass-warrior/warrior"
 
 [[books.chapters.children]]
 title = "Water"
@@ -33068,10 +33080,6 @@ title = "Werewolf Lycanthropy"
 entry = "ref/curse/werewolf-lycanthropy"
 
 [[books.chapters.children]]
-title = "When Spell Resistance Applies"
-entry = "ref/rule/when-spell-resistance-applies"
-
-[[books.chapters.children]]
 title = "Wild Empathy"
 entry = "ref/ability/wild-empathy"
 
@@ -33080,20 +33088,12 @@ title = "Winds"
 entry = "ref/rule/winds"
 
 [[books.chapters.children]]
-title = "Wisdom"
-entry = "ref/rule/wisdom"
-
-[[books.chapters.children]]
 title = "Withdraw"
 entry = "ref/rule/withdraw"
 
 [[books.chapters.children]]
 title = "Wizard"
 entry = "ref/rule/class-wizard/wizard"
-
-[[books.chapters.children]]
-title = "Wizard Spells and Borrowed Spellbooks"
-entry = "ref/rule/wizard-spells-and-borrowed-spellbooks"
 
 [[books.chapters.children]]
 title = "Wolf"

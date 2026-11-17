@@ -69,6 +69,19 @@ CORE_CHAPTERS: list[tuple[str, int]] = [
 ]
 LAST_CORE_PAGE = 568  # the last page that can hold a corpus entry
 
+# Sections of the curated Core Rulebook tree whose entries record no page. Their first printed pages
+# come from the printed contents page, so a rule is placed beside the section it prints next to.
+PRINTED_SECTION_START = {
+    ("Getting Started", "Playing the Game"): 9,
+    ("Getting Started", "Generating a Character"): 14,
+    ("Additional Rules", "Alignment"): 166,
+    ("Additional Rules", "Vital Statistics"): 168,
+    ("Additional Rules", "Exploration"): 172,
+    ("Combat", "Special Initiative Actions"): 202,
+    ("Environment", "Weather"): 437,
+    ("Magic Items", "Cursed Items"): 536,
+}
+
 # Three rules whose recorded page is not where the rule prints. Print: the Spell Resistance
 # section (with "When Spell Resistance Applies" and "Successful Spell Resistance") is p. 564 to
 # 565, in Appendix 1 Special Abilities. Each of the three goes into Special Abilities. The two
@@ -215,8 +228,9 @@ def chapter_of(page: int) -> str:
     return title
 
 
-def start_page(root: Path, node: bt.Node, cache: dict[str, int | None]) -> int | None:
-    """First printed page of a node: its own entry's page, else the first page below it."""
+def start_page(root: Path, chapter: str, node: bt.Node, cache: dict[str, int | None]) -> int | None:
+    """First printed page of a node: its own entry's page, else the first page below it, else
+    the printed first page of the section."""
     for n in node.walk():
         eid = n.entry
         if eid is None:
@@ -225,7 +239,7 @@ def start_page(root: Path, node: bt.Node, cache: dict[str, int | None]) -> int |
             cache[eid] = core_page(root, eid)
         if cache[eid] is not None:
             return cache[eid]
-    return None
+    return PRINTED_SECTION_START.get((chapter, node.title))
 
 
 def step_core_rules(root: Path) -> None:
@@ -280,7 +294,7 @@ def step_core_rules(root: Path) -> None:
         # Before the first child that starts on a later printed page; else at the end.
         at = len(chapter.children)
         for i, child in enumerate(chapter.children):
-            sp = start_page(root, child, cache)
+            sp = start_page(root, title, child, cache)
             if sp is not None and sp > pages[eid]:
                 at = i
                 break

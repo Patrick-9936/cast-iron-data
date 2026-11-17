@@ -8,7 +8,7 @@ provenance = [
 ]
 [[sources]]
 publication = "core-rulebook"
-page = "567"
+page = "565"
 
 [fields]
 kind = "none"
