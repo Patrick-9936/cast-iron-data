@@ -2,14 +2,11 @@
 id = "ref/affliction/zombie/deathspore-toxin"
 kind = "affliction"
 title = "Deathspore Toxin"
-source_ids = ["bestiary", "horror-realms", "classic-horrors-revisited"]
+source_ids = ["bestiary", "horror-realms"]
 parent = "ref/template/zombie"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "zombie|affliction:deathspore-toxin", path = "json/monster_template4.json" },
 ]
-[[sources]]
-publication = "classic-horrors-revisited"
-page = "25"
 [[sources]]
 publication = "horror-realms"
 page = "33"

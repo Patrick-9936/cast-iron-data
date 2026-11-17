@@ -3,7 +3,7 @@ id = "ref/spell/charm-person-mass"
 kind = "spell"
 title = "Mass Charm Person"
 aon = "SpellDisplay.aspx?ItemName=Charm%20Person%2C%20Mass"
-source_ids = ["core-rulebook", "the-first-world-realm-of-the-fey", "ultimate-intrigue"]
+source_ids = ["core-rulebook", "ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "charm_person_mass", path = "json/spells2.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "206"
-[[sources]]
-publication = "the-first-world-realm-of-the-fey"
-page = "12"
 
 [fields]
 kind = "spell"

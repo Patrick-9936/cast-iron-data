@@ -3,7 +3,7 @@ id = "ref/spell/darkvision-communal"
 kind = "spell"
 title = "Communal Darkvision"
 aon = "SpellDisplay.aspx?ItemName=Darkvision%2C%20Communal"
-source_ids = ["core-rulebook", "ultimate-combat", "ultimate-magic"]
+source_ids = ["core-rulebook", "ultimate-combat"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "darkvision_communal", path = "json/spells3.json" },
 ]

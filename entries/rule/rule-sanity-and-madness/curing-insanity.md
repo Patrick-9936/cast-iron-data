@@ -2,7 +2,7 @@
 id = "ref/rule/rule-sanity-and-madness/curing-insanity"
 kind = "rule"
 title = "Curing Insanity"
-source_ids = ["game-mastery-guide", "horror-adventures"]
+source_ids = ["game-mastery-guide"]
 section = ["Sanity and Madness"]
 parent = "ref/rule/sanity-and-madness"
 provenance = [

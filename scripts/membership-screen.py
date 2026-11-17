@@ -85,8 +85,20 @@ entry's parent lists the book).
         the printed page that decides it, and a short code for what the print check found:
         `race-section-read-no-trait` (the book's section for the race was read; it does not print
         the trait), `race-section-read-mention-only` (the same, and the trait is named in passing
-        or in a `replaces` line only), `no-race-section-no-trait`. A re-run overwrites the queue;
-        scripts/membership-apply.py applies the rows marked `remove`.
+        or in a `replaces` line only), `no-race-section-no-trait`. For other kinds:
+        `section-read-no-entry` (the chapter that would hold the entry was read and the whole
+        book searched for its title and for runs of its text; it is not printed),
+        `wrong-credit-invalidated` (the entry's page row names this book, the cited page was
+        read, and the book does not print the entry there or elsewhere: the page prints another
+        entry, usually a sibling variant. The rejected row is recorded in
+        `scripts/membership-citation-audit-461.tsv`), `reference-kept-on-related` (the cited page
+        prints a related entry that lists the book, cites an overlapping page and has a
+        relations edge to this entry; the audit file names it), `title-printed` (keep: the entry
+        is printed on the page), `passing-mention-recorded` (remove: the book only names the entry in
+        passing and no related entry carries the page; the audit file records the page and the
+        kind of mention, class `mention`), `wrong-credit-invalidated` also covers an entry whose printed counterpart
+        differs materially (an affliction with other numbers than the book prints).
+        A re-run overwrites the queue; scripts/membership-apply.py applies the rows marked `remove`.
 
 Known limits (see the PR for the calibration): no-PDF memberships and books without readable
 page numbers are not judged, and neither says anything about absence. A hub-looking entry that

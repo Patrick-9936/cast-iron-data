@@ -2,7 +2,7 @@
 id = "ref/affliction/hag-sea-hag/evil-eye-curse"
 kind = "affliction"
 title = "Evil Eye Curse"
-source_ids = ["bestiary", "blood-of-the-coven"]
+source_ids = ["bestiary"]
 parent = "ref/monster/hag-sea-hag"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "hag_sea_hag|affliction:evil-eye-curse", path = "json/monsters33.json" },

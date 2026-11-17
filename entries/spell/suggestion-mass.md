@@ -3,7 +3,7 @@ id = "ref/spell/suggestion-mass"
 kind = "spell"
 title = "Mass Suggestion"
 aon = "SpellDisplay.aspx?ItemName=Suggestion%2C%20Mass"
-source_ids = ["core-rulebook", "blood-of-the-beast", "advanced-class-guide"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "suggestion_mass", path = "json/spells16.json" },
 ]
@@ -13,12 +13,6 @@ relations = [
 [[sources]]
 publication = "core-rulebook"
 page = "350"
-[[sources]]
-publication = "advanced-class-guide"
-page = "197"
-[[sources]]
-publication = "blood-of-the-beast"
-page = "14"
 
 [fields]
 kind = "spell"

@@ -3,7 +3,7 @@ id = "ref/spell/reincarnate-spy"
 kind = "spell"
 title = "Reincarnate Spy"
 aon = "SpellDisplay.aspx?ItemName=Reincarnate%20Spy"
-source_ids = ["core-rulebook", "arcane-anthology", "ultimate-intrigue"]
+source_ids = ["core-rulebook", "ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "reincarnate_spy", path = "json/spells8.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "ultimate-intrigue"
 page = "223"
-[[sources]]
-publication = "arcane-anthology"
-page = "13"
 
 [fields]
 kind = "spell"
