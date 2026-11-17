@@ -33,7 +33,7 @@ powers of your familiar.
 [Acrobatics](ref/skill/acrobatics), [Climb](ref/skill/climb),
 [Disable Device](ref/skill/disable-device), or [Sleight of Hand](ref/skill/sleight-of-hand) check.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Ranged Legerdemain (Su)**
 

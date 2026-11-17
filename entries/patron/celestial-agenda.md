@@ -25,11 +25,11 @@ invest white witches with celestial might to defend the weak and heal the sick.
 a -2 penalty on Bluff, Intimidate, Sleight of Hand, and other skill checks to deceive or threaten
 others.
 
-**Spells:** Rebuke
+**Spells:** Castigate (4th)
 
-**Spells:** Greater planar ally\|(good outsiders only)
+**Spells:** Rebuke (10th)
 
-**Spells:** Castigate
+**Spells:** Greater planar ally (good outsiders only) (16th)
 
 **Available patron themes:** [Endurance](ref/patron/endurance), [Healing](ref/patron/healing),
 [Light](ref/patron/light), [Portents](ref/patron/portents)

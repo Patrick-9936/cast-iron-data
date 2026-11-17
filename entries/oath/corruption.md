@@ -74,10 +74,10 @@ you can, or banish them if you cannot.
 
 **Oath Spells**
 
-**Spells:** True strike
+**Spells:** True strike (1st)
 
-**Spells:** Acute senses
+**Spells:** Acute senses (2nd)
 
-**Spells:** Touch of idiocy
+**Spells:** Touch of idiocy (3rd)
 
-**Spells:** Spell immunity
+**Spells:** Spell immunity (4th)

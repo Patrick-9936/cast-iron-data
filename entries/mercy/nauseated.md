@@ -12,7 +12,5 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The target is no longer nauseated. The paladin must have the
-[sickened](ref/mercy/sickened) mercy before selecting this mercy.
-
-**Title:** Nauseated
+The target is no longer nauseated. The paladin must have the [sickened](ref/mercy/sickened) mercy
+before selecting this mercy.

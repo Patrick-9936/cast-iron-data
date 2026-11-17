@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Autumn patron grants the following spells at the listed witch levels.
 
-**Spells:** Major creation
+**Spells:** Ray of enfeeblement (2nd)
 
-**Spells:** Acid fog
+**Spells:** Create pit (4th)
 
-**Spells:** Caustic eruption
+**Spells:** Gentle repose (6th)
 
-**Spells:** Horrid wilting
+**Spells:** Vitriolic mist (8th)
 
-**Spells:** Wail of the banshee
+**Spells:** Major creation (10th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Acid fog (12th)
 
-**Spells:** Create pit
+**Spells:** Caustic eruption (14th)
 
-**Spells:** Gentle repose
+**Spells:** Horrid wilting (16th)
 
-**Spells:** Vitriolic mist
+**Spells:** Wail of the banshee (18th)

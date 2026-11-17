@@ -19,27 +19,29 @@ group = "oracle-mystery"
 
 **Details:** [Gozreh](ref/faith/gozreh), [Pharasma](ref/faith/pharasma).
 
-**Gained class skills:** acro, ea, kna, swim
+**Gained class skills:** [Acrobatics](ref/skill/acrobatics),
+[Escape Artist](ref/skill/escape-artist), [Knowledge (nature)](ref/skill/knowledge-nature),
+[Swim](ref/skill/swim)
 
 **Bonus Spells**
 
-**Spells:** Geyser
+**Spells:** Touch of the sea (2nd)
 
-**Spells:** Fluid form
+**Spells:** Slipstream (4th)
 
-**Spells:** Vortex
+**Spells:** Water breathing (6th)
 
-**Spells:** Seamantle
+**Spells:** Wall of ice (8th)
 
-**Spells:** Tsunami
+**Spells:** Geyser (10th)
 
-**Spells:** Touch of the sea
+**Spells:** Fluid form (12th)
 
-**Spells:** Slipstream
+**Spells:** Vortex (14th)
 
-**Spells:** Water breathing
+**Spells:** Seamantle (16th)
 
-**Spells:** Wall of ice
+**Spells:** Tsunami (18th)
 
 ### Revelations
 
@@ -177,7 +179,7 @@ level, but these rounds do not need to be consecutive.
 **Standard:** You can perform a melee touch attack that deals cold damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) your oracle level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Final Revelation
 

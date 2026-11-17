@@ -21,22 +21,20 @@ Generations ago, a demon spread its filth into the essence of your bloodline. Wh
 manifest in all of your kin, in those moments when you're _bloodraging,_ you embody its terrifying
 presence.
 
-**Br:** \~
-
-**Details:**
-[Cleave](ref/feat/cleave)[Great Fortitude](ref/feat/great-fortitude)[Improved Bull Rush](ref/feat/improved-bull-rush)[Improved Sunder](ref/feat/improved-sunder)[Intimidating Prowess](ref/feat/intimidating-prowess)[Power Attack](ref/feat/power-attack)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Cleave](ref/feat/cleave), [Great Fortitude](ref/feat/great-fortitude),
+[Improved Bull Rush](ref/feat/improved-bull-rush), [Improved Sunder](ref/feat/improved-sunder),
+[Intimidating Prowess](ref/feat/intimidating-prowess), [Power Attack](ref/feat/power-attack),
+[Toughness](ref/feat/toughness)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Bull's strength
+**Spells:** Ray of enfeeblement (7th)
 
-**Spells:** Rage
+**Spells:** Bull's strength (10th)
 
-**Spells:** Stoneskin
+**Spells:** Rage (13th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Stoneskin (16th)
 
 ### Bloodline Powers
 
@@ -45,20 +43,20 @@ _bloodrage._
 
 **Claws (Su)**
 
-**At 12th Level:** Your claws become [flaming](ref/magic-enh/flaming) weapons, which deal an
-additional 1d6 points of fire damage on a hit.
-
-**At 4th Level:** Your claws are considered magic weapons for the purpose of overcoming
-[damage reduction](ref/rule/damage-reduction).
-
-**At 8th Level:** The base damage your claws deal increases to 1d8 points (1d6 if you are small).
-
 **Gained:** At 1st Level
 
 **Passive:** You grow claws while _bloodraging._ These claws are treated as
 [natural weapons](ref/umr/natural-attacks), allowing you to make two claw attacks as a full attack,
 using your full base attack bonus. These attacks deal 1d6 points of damage each (1d4 if you are
 Small) plus your Strength modifier.
+
+**At 4th Level:** Your claws are considered magic weapons for the purpose of overcoming
+[damage reduction](ref/rule/damage-reduction).
+
+**At 8th Level:** The base damage your claws deal increases to 1d8 points (1d6 if you are small).
+
+**At 12th Level:** Your claws become [flaming](ref/magic-enh/flaming) weapons, which deal an
+additional 1d6 points of fire damage on a hit.
 
 **Demonic Bulk (Su)**
 
@@ -76,14 +74,14 @@ these resistances increase to 10.
 
 **Abyssal Bloodrage (Su)**
 
-**At 16th Level:** The bonus to Strength increases by 4 instead.
-
-**At 20th Level:** The bonus increases by 6 instead.
-
 **Gained:** At 12th Level
 
 **Passive:** The morale bonus to Strength granted by your _bloodrage_ increases by 2, but the
 penalty to AC becomes -4 instead of -2.
+
+**At 16th Level:** The bonus to Strength increases by 4 instead.
+
+**At 20th Level:** The bonus increases by 6 instead.
 
 **Demonic Aura (Su)**
 

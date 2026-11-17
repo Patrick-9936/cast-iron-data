@@ -40,7 +40,7 @@ attack. This sting deals an amount of piercing damage equal to 1d4 +
 Fortitude save (DC = 10 + half your druid level + your Constitution modifier) or become
 [staggered](ref/misc/staggered) for 1 round. This is a pain effect.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Domain Spells**
 

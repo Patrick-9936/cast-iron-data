@@ -27,17 +27,13 @@ vital and potent.
 
 **Rebuke Death (Sp)**
 
-**Id:** rebuke
-
 **Standard:** You can touch a living creature, healing it for an amount of damage equal to 1d4 +
 [half](ref/misc/fractions-and-rounding) of your cleric level. You can only use this ability on a
 creature that is below 0 hit points.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Healer's Blessing (Su)**
-
-**Id:** bless
 
 **Gained:** At 6th Level
 
@@ -56,8 +52,6 @@ does not stack with the [Empower Spell](ref/feat/empower-spell) metamagic feat.
 1. regenerate
 1. mass cure critical wounds
 1. mass heal
-
-**Save:** domain
 
 ### Medicine Subdomain
 
@@ -79,15 +73,13 @@ with mundane cures.
 
 **Replaces:** The rebuke death power of the Healing domain
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
 **1st:** diagnose disease
 
 **2nd:** placebo effect
-
-**From:** domain
 
 ### Restoration Subdomain
 
@@ -108,7 +100,7 @@ relieve the creature of a minor condition.
 [shaken](ref/misc/shaken), [sickened](ref/misc/sickened), or [staggered](ref/misc/staggered)
 condition. You choose which condition is removed.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -117,8 +109,6 @@ condition. You choose which condition is removed.
 **4th:** neutralize poison
 
 **5th:** break enchantment
-
-**From:** domain
 
 ### Resurrection Subdomain
 
@@ -150,8 +140,6 @@ act as it sees fit during this time. You are granted no control over it.
 
 **9th:** true resurrection
 
-**From:** domain
-
 ### Variant Domain Powers
 
 **Sources:** Haunted Heroes Handbook\
@@ -179,7 +167,7 @@ Irori as being stains on the delicate fabric of the world.
 **Standard:** You can emit a [burst](ref/misc/burst) of positive energy. Any haunt within 15 feet of
 you takes damage equal to 1d8 + [half](ref/misc/fractions-and-rounding) of your cleric level.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 ### Deities
 

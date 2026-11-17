@@ -20,27 +20,28 @@ group = "oracle-mystery"
 **Details:** [Milani](ref/faith/milani), [Pharasma](ref/faith/pharasma),
 [Qi Zhong](ref/faith/qi-zhong), [Sarenrae](ref/faith/sarenrae)
 
-**Gained class skills:** ha, kna, sur
+**Gained class skills:** [Handle Animal](ref/skill/handle-animal),
+[Knowledge (nature)](ref/skill/knowledge-nature), [Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Stoneskin
+**Spells:** Ray of enfeeblement (2nd)
 
-**Spells:** Greater heroism
+**Spells:** Shield of fortification (4th)
 
-**Spells:** Expend
+**Spells:** Coordinated effort (6th)
 
-**Spells:** Greater spellcrash
+**Spells:** Greater shield of fortification (8th)
 
-**Spells:** Wall of suppression
+**Spells:** Stoneskin (10th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Greater heroism (12th)
 
-**Spells:** Shield of fortification
+**Spells:** Expend (14th)
 
-**Spells:** Coordinated effort
+**Spells:** Greater spellcrash (16th)
 
-**Spells:** Greater shield of fortification
+**Spells:** Wall of suppression (18th)
 
 ### Revelations
 
@@ -202,7 +203,7 @@ allies with a touch.
 have. This effect persists for a number of rounds equal to [half](ref/misc/fractions-and-rounding)
 your oracle level (minimum 1).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Final Revelation
 

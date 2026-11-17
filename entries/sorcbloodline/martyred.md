@@ -23,35 +23,32 @@ herself out of her devout belief in a cause, and that sacrifice echoed down to h
 infusing them with arcane power. Your bloodline confers abilities that allow you to endure pain,
 resist torture, and inspire others.
 
-**Gained class skills:** perf\|oratory
+**Gained class skills:** [Perform (oratory)](ref/skill/perform-any)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Death ward
+**Spells:** Endure elements (3rd)
 
-**Spells:** Greater heroism
+**Spells:** Surmount affliction (5th)
 
-**Spells:** Joyful rapture
+**Spells:** Heroism (7th)
 
-**Spells:** Mind blank
+**Spells:** Blessing of fervor (9th)
 
-**Spells:** Overwhelming presence
+**Spells:** Death ward (11th)
 
-**Spells:** Endure elements
+**Spells:** Greater heroism (13th)
 
-**Spells:** Surmount affliction
+**Spells:** Joyful rapture (15th)
 
-**Spells:** Heroism
+**Spells:** Mind blank (17th)
 
-**Spells:** Blessing of fervor
+**Spells:** Overwhelming presence (19th)
 
-**Br:** \~
-
-**Details:**
-[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Heroic Defiance](ref/feat/heroic-defiance)[Heroic Recovery](ref/feat/heroic-recovery)[Leadership](ref/feat/leadership)[Persuasive](ref/feat/persuasive)[Skill Focus](ref/feat/skill-focus)
-(Perform)\~[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Diehard](ref/feat/diehard), [Endurance](ref/feat/endurance),
+[Heroic Defiance](ref/feat/heroic-defiance), [Heroic Recovery](ref/feat/heroic-recovery),
+[Leadership](ref/feat/leadership), [Persuasive](ref/feat/persuasive),
+[Skill Focus](ref/feat/skill-focus) (Perform), [Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -70,7 +67,7 @@ during your next turn - otherwise both your sacrificed hit point and the bonus a
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Rallying Cry (Su)**
 
@@ -91,8 +88,6 @@ At 19th level: This bonus increases to +5.
 
 **Gift of Blood (Su)**
 
-**At 17th Level:** You can use this ability twice per day.
-
 **Gained:** At 9th Level
 
 **Special:** You cannot heal your sacrificed hit points until your target has lost its temporary hit
@@ -103,14 +98,16 @@ double that number in [temporary hit points](ref/rule/temporary-hit-points). You
 your character level in hit points when using this ability. These temporary hit points last up to 1
 minute per sorcerer level.
 
-**Sacrificial Exchange (Su)**
+**At 17th Level:** You can use this ability twice per day.
 
-**At 20th Level:** You can use this ability twice per day.
+**Sacrificial Exchange (Su)**
 
 **Gained:** At 15th Level
 
 **Swift:** Once per day, you can take 2 points of temporary ability damage to one of your ability
 scores and add a temporary +2 inherent bonus to any other ability score.
+
+**At 20th Level:** You can use this ability twice per day.
 
 This bonus lasts for a maximum of 1 hour per sorcerer level or until you choose to prematurely
 dismiss it (a **free action**), during which time the temporary ability damage cannot be healed by
@@ -151,8 +148,8 @@ You never forgive those who wrong you.
 **Immediate:** Once per day, after a foe has damaged you in melee, you can deal the same amount and
 type of damage to your foe (maximum amount of damage equal to double your character level).
 
-**At 17th Level:** You can use this ability twice per day.
-
 **Gained:** At 9th Level
 
 **Replaces:** Gift of Blood
+
+**At 17th Level:** You can use this ability twice per day.

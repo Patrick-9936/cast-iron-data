@@ -56,13 +56,13 @@ applies to the damage roll.
 **Info:** Add the following spells of spell levels you can currently cast to your list of spells
 known of those levels.
 
-**Spells:** Command, murderous command
+**Spells:** Command, murderous command (1st)
 
-**Spells:** Rage, tactical acumen
+**Spells:** Rage, tactical acumen (2nd)
 
-**Spells:** Confusion, fear
+**Spells:** Confusion, fear (3rd)
 
-**Spells:** Battlemind link, song of discord
+**Spells:** Battlemind link, song of discord (4th)
 
 **Special:** You can also use your _spirit surge_ on [concentration](ref/rule/concentration) and
 caster level checks when you cast these spells.

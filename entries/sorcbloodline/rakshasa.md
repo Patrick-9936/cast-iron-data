@@ -20,34 +20,33 @@ At some point in your family's history, one of your ancestors was tainted by the
 felt your own skin is a prison from which magic allows you to escape. Your birthright is a secret
 you may be forced to keep from societies that would never deal with you if your heritage were known.
 
-**Gained class skills:** dis
+**Gained class skills:** [Disguise](ref/skill/disguise)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Prying eyes
+**Spells:** Charm person (3rd)
 
-**Spells:** Mass suggestion
+**Spells:** Invisibility (5th)
 
-**Spells:** Greater polymorph
+**Spells:** Suggestion (7th)
 
-**Spells:** Mind blank
+**Spells:** Detect scrying (9th)
 
-**Spells:** Dominate monster
+**Spells:** Prying eyes (11th)
 
-**Spells:** Charm person
+**Spells:** Mass suggestion (13th)
 
-**Spells:** Invisibility
+**Spells:** Greater polymorph (15th)
 
-**Spells:** Suggestion
+**Spells:** Mind blank (17th)
 
-**Spells:** Detect scrying
+**Spells:** Dominate monster (19th)
 
-**Br:** \~
-
-**Details:**
-[Arcane Armor Mastery](ref/feat/arcane-armor-mastery)[Arcane Armor Training](ref/feat/arcane-armor-training)[Deceitful](ref/feat/deceitful)[Detect Expertise](ref/feat/detect-expertise)[Empower Spell](ref/feat/empower-spell)[Light Armor Proficiency](ref/feat/armor-proficiency-light)[Martial Weapon Proficiency](ref/feat/martial-weapon-proficiency)\~[Stealthy](ref/feat/stealthy)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Arcane Armor Mastery](ref/feat/arcane-armor-mastery),
+[Arcane Armor Training](ref/feat/arcane-armor-training), [Deceitful](ref/feat/deceitful),
+[Detect Expertise](ref/feat/detect-expertise), [Empower Spell](ref/feat/empower-spell),
+[Light Armor Proficiency](ref/feat/armor-proficiency-light),
+[Martial Weapon Proficiency](ref/feat/martial-weapon-proficiency), [Stealthy](ref/feat/stealthy)
 
 **Bloodline Arcana**
 
@@ -72,7 +71,7 @@ that would detect your lies or force you to speak the truth, the user of the eff
 a caster level check (DC 10 + your sorcerer level) to succeed. Failure means the effect does not
 detect your lies or force you to speak only the truth.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Mind Reader (Sp)**
 

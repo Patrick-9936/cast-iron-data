@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Spring patron grants the following spells at the listed witch levels.
 
-**Spells:** Lightning arc
+**Spells:** Feather fall (2nd)
 
-**Spells:** Chain lightning
+**Spells:** Alter self (4th)
 
-**Spells:** Control weather
+**Spells:** Pup shape (6th)
 
-**Spells:** Stormbolts
+**Spells:** True form (8th)
 
-**Spells:** Time stop
+**Spells:** Lightning arc (10th)
 
-**Spells:** Feather fall
+**Spells:** Chain lightning (12th)
 
-**Spells:** Alter self
+**Spells:** Control weather (14th)
 
-**Spells:** Pup shape
+**Spells:** Stormbolts (16th)
 
-**Spells:** True form
+**Spells:** Time stop (18th)

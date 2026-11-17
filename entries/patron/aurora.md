@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Aurora patron grants the following spells at the listed witch levels.
 
-**Spells:** Blazing rainbow
+**Spells:** Color spray (2nd)
 
-**Spells:** Programmed image
+**Spells:** Hypnotic pattern (4th)
 
-**Spells:** Prismatic spray
+**Spells:** Wall of nausea (6th)
 
-**Spells:** Prismatic wall
+**Spells:** Rainbow pattern (8th)
 
-**Spells:** Polar midnight
+**Spells:** Blazing rainbow (10th)
 
-**Spells:** Color spray
+**Spells:** Programmed image (12th)
 
-**Spells:** Hypnotic pattern
+**Spells:** Prismatic spray (14th)
 
-**Spells:** Wall of nausea
+**Spells:** Prismatic wall (16th)
 
-**Spells:** Rainbow pattern
+**Spells:** Polar midnight (18th)

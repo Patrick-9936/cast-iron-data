@@ -26,12 +26,12 @@ damnation.
 points of damage to yourself as part of your infernal ritual, feeding the lost blood to your
 familiar.
 
-**Spells:** Planar ally
+**Spells:** Lesser planar ally (8th)
 
-**Spells:** Greater planar ally\|(your bonus spells can be used to summon only the type of outsider
-your patron represents)
+**Spells:** Planar ally (12th)
 
-**Spells:** Lesser planar ally
+**Spells:** Greater planar ally (your bonus spells can be used to summon only the type of outsider
+your patron represents) (16th)
 
 **Available patron themes:** [Enchantment](ref/patron/enchantment), [Strength](ref/patron/strength),
 [Trickery](ref/patron/trickery), [Vengeance](ref/patron/vengeance)

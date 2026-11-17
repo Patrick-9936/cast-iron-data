@@ -34,7 +34,7 @@ falling on the creature, rocks falling from the ceiling, or some other nonmagica
 regardless of the cause, the mishap deals damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) your inquisitor level (Reflex half).
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Final Vengeance (Su)**
 

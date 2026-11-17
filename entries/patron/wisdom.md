@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Wisdom patron grants the following spells at the listed witch levels.
 
-**Spells:** Dream
+**Spells:** Shield of faith (2nd)
 
-**Spells:** Globe of invulnerability
+**Spells:** Owl's wisdom (4th)
 
-**Spells:** Spell turning
+**Spells:** Magic vestment (6th)
 
-**Spells:** Protection from spells
+**Spells:** Lesser globe of invulnerability (8th)
 
-**Spells:** Mage's disjunction
+**Spells:** Dream (10th)
 
-**Spells:** Shield of faith
+**Spells:** Globe of invulnerability (12th)
 
-**Spells:** Owl's wisdom
+**Spells:** Spell turning (14th)
 
-**Spells:** Magic vestment
+**Spells:** Protection from spells (16th)
 
-**Spells:** Lesser globe of invulnerability
+**Spells:** Mage's disjunction (18th)

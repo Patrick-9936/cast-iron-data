@@ -23,23 +23,23 @@ between icy crystals, misty vapors, and globules of water.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Hydraulic push
+**Spells:** Hydraulic push (1st)
 
-**Spells:** Slipstream
+**Spells:** Slipstream (2nd)
 
-**Spells:** Water breathing
+**Spells:** Water breathing (3rd)
 
-**Spells:** Wall of ice
+**Spells:** Wall of ice (4th)
 
-**Spells:** Geyser
+**Spells:** Geyser (5th)
 
-**Spells:** Fluid form
+**Spells:** Fluid form (6th)
 
-**Spells:** Vortex
+**Spells:** Vortex (7th)
 
-**Spells:** Seamantle
+**Spells:** Seamantle (8th)
 
-**Spells:** Tsunami
+**Spells:** Tsunami (9th)
 
 ### Hexes
 
@@ -125,7 +125,7 @@ away. The opponent takes an amount of nonlethal damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) her shaman level and is pushed 5 feet directly away from the
 shaman. This movement does not provoke attacks of opportunity.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

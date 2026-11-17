@@ -24,18 +24,14 @@ world below.
 
 **Storm Burst (Sp)**
 
-**Id:** burst
-
 **Standard:** You can create a storm burst targeting any foe within 30 feet as a ranged touch
 attack. The storm burst deals an amount of nonlethal damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) of your cleric level. In addition, the target is buffeted by
 winds and rain, causing it to take a -2 penalty on attack rolls for 1 round.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Lightning Lord (Sp)**
-
-**Id:** lord
 
 **Gained:** At 8th Level
 
@@ -55,8 +51,6 @@ functions as _[call lightning](ref/spell/call-lightning)._
 1. control weather
 1. whirlwind
 1. storm of vengeance
-
-**Save:** domain
 
 ### Monsoon Subdomain
 
@@ -90,8 +84,6 @@ healed of an amount of nonlethal damage equal to double your cleric level and ar
 
 **9th:** tsunami
 
-**From:** domain
-
 ### Seasons Subdomain
 
 **Sources:** Advanced Player's Guide pg 96
@@ -106,7 +98,7 @@ Psomeira, Pulura, Rasvocel, Trelmarixian, Valani, Vois
 **Standard:** By touching a creature, you can grant it the benefits of
 [endure elements](ref/spell/endure-elements), which last for 1 hour per cleric level.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -115,8 +107,6 @@ Psomeira, Pulura, Rasvocel, Trelmarixian, Valani, Vois
 **4th:** blight
 
 **8th:** sunburst
-
-**From:** domain
 
 ### Storms Subdomain
 
@@ -143,8 +133,6 @@ any other direction.
 **5th:** call lightning storm
 
 **6th:** sirocco
-
-**From:** domain
 
 ### Deities
 

@@ -19,35 +19,33 @@ Your bloodline is blessed by a celestial power, either from a celestial ancestor
 intervention. Although this power drives you along the path of good, your fate (and alignment) is
 your own to determine.
 
-**Gained class skills:** heal
+**Gained class skills:** [Heal](ref/skill/heal)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Flame strike
+**Spells:** Bless (3rd)
 
-**Spells:** Greater dispel magic
+**Spells:** Resist energy (5th)
 
-**Spells:** Banishment
+**Spells:** Magic circle against evil (7th)
 
-**Spells:** Sunburst
+**Spells:** Remove curse (9th)
 
-**Spells:** Gate
+**Spells:** Flame strike (11th)
 
-**Spells:** Bless
+**Spells:** Greater dispel magic (13th)
 
-**Spells:** Resist energy
+**Spells:** Banishment (15th)
 
-**Spells:** Magic circle against evil
+**Spells:** Sunburst (17th)
 
-**Spells:** Remove curse
+**Spells:** Gate (19th)
 
-**Br:** \~
-
-**Details:**
-[Dodge](ref/feat/dodge)[Extend Spell](ref/feat/extend-spell)[Iron Will](ref/feat/iron-will)[Mobility](ref/feat/mobility)[Mounted Combat](ref/feat/mounted-combat)[Ride-By Attack](ref/feat/ride-by-attack)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[religion\])\~[Weapon Finesse](ref/feat/weapon-finesse)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Dodge](ref/feat/dodge), [Extend Spell](ref/feat/extend-spell),
+[Iron Will](ref/feat/iron-will), [Mobility](ref/feat/mobility),
+[Mounted Combat](ref/feat/mounted-combat), [Ride-By Attack](ref/feat/ride-by-attack),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[religion\]),
+[Weapon Finesse](ref/feat/weapon-finesse)
 
 **Bloodline Arcana**
 
@@ -74,15 +72,15 @@ good creature cannot benefit from your heavenly fire more than once per day.
 
 Neutral creatures are neither harmed nor healed by this effect.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Celestial Resistances (Ex)**
-
-**At 9th Level:** Your resistances increase to 10.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain [resist](ref/umr/resistance) acid 5 and resist cold 5.
+
+**At 9th Level:** Your resistances increase to 10.
 
 **Wings of Heaven (Su)**
 

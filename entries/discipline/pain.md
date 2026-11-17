@@ -73,7 +73,7 @@ only when you suffer pain.
 **Swift:** You can cause an enemy to take 1d6 points of nonlethal damage if you dealt damage to that
 enemy with a spell since the start of your previous turn.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Power from Pain (Su)**
 
@@ -100,4 +100,4 @@ this effect.
 
 **Special:** This is a mind-affecting pain effect.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day

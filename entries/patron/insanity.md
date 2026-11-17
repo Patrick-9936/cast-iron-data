@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Insanity patron grants the following spells at the listed witch levels.
 
-**Spells:** Mind fog
+**Spells:** Memory lapse (2nd)
 
-**Spells:** Envious urge
+**Spells:** Hideous laughter (4th)
 
-**Spells:** Insanity
+**Spells:** Distracting cacophony (6th)
 
-**Spells:** Symbol of insanity
+**Spells:** Confusion (8th)
 
-**Spells:** Overwhelming presence
+**Spells:** Mind fog (10th)
 
-**Spells:** Memory lapse
+**Spells:** Envious urge (12th)
 
-**Spells:** Hideous laughter
+**Spells:** Insanity (14th)
 
-**Spells:** Distracting cacophony
+**Spells:** Symbol of insanity (16th)
 
-**Spells:** Confusion
+**Spells:** Overwhelming presence (18th)

@@ -20,35 +20,32 @@ ancestors once upon a time, imparting the mystery of shadow-stuff into your line
 sullen and withdrawn, preferring to skulk at the fringes of social circles and keep to yourself,
 cultivating an air of mystery and majesty that is all your own.
 
-**Gained class skills:** stl
+**Gained class skills:** [Stealth](ref/skill/stealth)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Shadow evocation
+**Spells:** Ray of enfeeblement (3rd)
 
-**Spells:** Shadow walk
+**Spells:** [Darkvision](ref/rule/darkvision) (5th)
 
-**Spells:** Power word blind
+**Spells:** Deeper darkness (7th)
 
-**Spells:** Greater shadow evocation
+**Spells:** Shadow conjuration (9th)
 
-**Spells:** Shades
+**Spells:** Shadow evocation (11th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Shadow walk (13th)
 
-**Spells:** [Darkvision](ref/rule/darkvision)
+**Spells:** Power word blind (15th)
 
-**Spells:** Deeper darkness
+**Spells:** Greater shadow evocation (17th)
 
-**Spells:** Shadow conjuration
+**Spells:** Shades (19th)
 
-**Br:** \~
-
-**Details:**
-[Acrobatic](ref/feat/acrobatic)[Blind-Fight](ref/feat/blind-fight)[Dodge](ref/feat/dodge)[Quick Draw](ref/feat/quick-draw)[Silent Spell](ref/feat/silent-spell)[Skill Focus](ref/feat/skill-focus)
-(Stealth)[Stealthy](ref/feat/stealthy)\~[Weapon Finesse](ref/feat/weapon-finesse)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Acrobatic](ref/feat/acrobatic), [Blind-Fight](ref/feat/blind-fight),
+[Dodge](ref/feat/dodge), [Quick Draw](ref/feat/quick-draw), [Silent Spell](ref/feat/silent-spell),
+[Skill Focus](ref/feat/skill-focus) (Stealth), [Stealthy](ref/feat/stealthy),
+[Weapon Finesse](ref/feat/weapon-finesse)
 
 **Bloodline Arcana**
 
@@ -70,30 +67,23 @@ Your benighted heritage infuses your mastery of magic with the essence of shadow
 [half](ref/misc/fractions-and-rounding) of your sorcerer level. In addition, the target is
 [dazzled](ref/misc/dazzled) for 1 minute.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Nighteye (Ex)**
 
 **Ability:** You gain [darkvision](ref/rule/darkvision) 30 feet.
-
-**At 9th Level:** You gain [darkvision](ref/rule/darkvision) 60 feet.
 
 **Gained:** At 3rd Level
 
 **Special:** If you already possess [darkvision](ref/rule/darkvision), its range is increased by
 these amounts.
 
+**At 9th Level:** You gain [darkvision](ref/rule/darkvision) 60 feet.
+
 **Shadow Well (Sp)**
 
 **Ability:** Once per day, you can use the Stealth skill even while being observed and without cover
 or concealment, as long as you are within 10 feet of a shadow other than your own.
-
-**At 13th Level:** You can instead switch the positions of two willing allies, each of whom must be
-within 60 feet of you.
-
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times a day.
 
 **Gained:** At 9th Level
 
@@ -103,6 +93,13 @@ within 60 feet of you.
 **Standard:** When within an area of darkness or [dim light](ref/rule/vision-and-light), you may
 choose to switch places with a willing ally within 60 feet, who must also be in darkness or dim
 light.
+
+**At 13th Level:** You can instead switch the positions of two willing allies, each of whom must be
+within 60 feet of you.
+
+**At 17th Level:** You can use this ability twice per day.
+
+**At 20th Level:** You can use this ability three times a day.
 
 **Enveloping Darkness (Sp)**
 
@@ -148,4 +145,4 @@ _cloak_ gives the target a bonus on Stealth checks made in areas of dim or no li
 your sorcerer level for a number of rounds equal to half your sorcerer level (minimum +1 bonus for 1
 round).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day

@@ -12,6 +12,4 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The target is no longer staggered, unless the target is at exactly 0 hit points.
-
-**Title:** Staggered
+The target is no longer staggered, unless the target is at exactly 0 hit points.

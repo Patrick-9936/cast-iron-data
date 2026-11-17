@@ -21,35 +21,32 @@ group = "sorcerer-bloodline"
 The capricious nature of the fey runs in your family due to some intermingling of fey blood or
 magic. You are more emotional than most, prone to bouts of joy and rage.
 
-**Gained class skills:** kna
+**Gained class skills:** [Knowledge (nature)](ref/skill/knowledge-nature)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Tree stride
+**Spells:** Entangle (3rd)
 
-**Spells:** Mislead
+**Spells:** Hideous laughter (5th)
 
-**Spells:** Phase door
+**Spells:** Deep slumber (7th)
 
-**Spells:** Irresistible dance
+**Spells:** Poison (9th)
 
-**Spells:** Shapechange
+**Spells:** Tree stride (11th)
 
-**Spells:** Entangle
+**Spells:** Mislead (13th)
 
-**Spells:** Hideous laughter
+**Spells:** Phase door (15th)
 
-**Spells:** Deep slumber
+**Spells:** Irresistible dance (17th)
 
-**Spells:** Poison
+**Spells:** Shapechange (19th)
 
-**Br:** \~
-
-**Details:**
-[Dodge](ref/feat/dodge)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Mobility](ref/feat/mobility)[Point-Blank Shot](ref/feat/point-blank-shot)[Precise Shot](ref/feat/precise-shot)[Quicken Spell](ref/feat/quicken-spell)\~[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[nature\])
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Dodge](ref/feat/dodge), [Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Mobility](ref/feat/mobility),
+[Point-Blank Shot](ref/feat/point-blank-shot), [Precise Shot](ref/feat/precise-shot),
+[Quicken Spell](ref/feat/quicken-spell), [Skill Focus](ref/feat/skill-focus) (Knowledge \[nature\])
 
 **Bloodline Arcana**
 
@@ -69,7 +66,7 @@ has been affected by _laughing touch,_ it is immune to its effects for 24 hours.
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Woodland Stride (Ex)**
 
@@ -134,7 +131,7 @@ sorcerer level + your Charisma modifier) or be [fascinated](ref/misc/fascinated)
 rounds equal to [half](ref/misc/fractions-and-rounding) of your sorcerer level (minimum 1). This is
 a mind-affecting, illusion (pattern) effect.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Sylvan (Wildblooded Mutation)
 

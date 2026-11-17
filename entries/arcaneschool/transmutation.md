@@ -35,7 +35,7 @@ of your wizard level. You can change this bonus to a new ability score when you 
 touch attack. The telekinetic fist deals an amount of bludgeoning damage equal to 1d4 +
 [half](ref/misc/fractions-and-rounding) of your wizard level.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Change Shape (Sp)**
 
@@ -73,7 +73,7 @@ creature might possess; this natural armor bonus is equal to 1 +
 [one-fifth](ref/misc/fractions-and-rounding) of your wizard level. This augmentation lasts a number
 of rounds equal to 1/2 your wizard level (minimum 1 round).
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Perfection of Self (Su)**
 
@@ -105,4 +105,4 @@ transmutation school.
 1 round. You can grow a claw, a bite, or a gore attack. These attacks deal the normal damage for a
 creature of your size. You may not grow additional limbs or a tail with this ability.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day

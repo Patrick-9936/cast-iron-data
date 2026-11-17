@@ -27,17 +27,13 @@ command earth creatures.
 
 **Acid Dart (Sp)**
 
-**Id:** dart
-
 **Standard:** As a standard action, you can unleash an acid dart targeting any foe within 30 feet as
 a ranged touch attack. This acid dart deals an amount of acid damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) of your cleric level.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Acid Resistance (Ex)**
-
-**Id:** res
 
 **At 12th Level:** Your acid resistance increases to 20.
 
@@ -56,8 +52,6 @@ a ranged touch attack. This acid dart deals an amount of acid damage equal to 1d
 1. elemental body IV (earth only)
 1. earthquake
 1. elemental swarm (earth spell only)
-
-**Save:** domain
 
 ### Caves Subdomain
 
@@ -92,8 +86,6 @@ in 1-minute increments
 
 **6th:** hungry pit
 
-**From:** domain
-
 ### Metal Subdomain
 
 **Sources:** Advanced Player's Guide pg 94
@@ -112,7 +104,7 @@ provoke attacks of opportunity, but attacking with both uses the two-weapon figh
 normal. In addition, these unarmed strikes ignore the [hardness](ref/umr/hardness) of items with a
 hardness of 10 or less.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -121,8 +113,6 @@ hardness of 10 or less.
 **6th:** wall of iron
 
 **8th:** iron body
-
-**From:** domain
 
 ### Petrification Subdomain
 
@@ -143,7 +133,7 @@ gain [hardness](ref/umr/hardness) 2, and gain a +2 bonus on saving throws agains
 This hardness increases by 2 and your saving throw bonus increases by 1 for every 4 cleric levels
 you have.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -154,8 +144,6 @@ you have.
 **6th:** flesh to stone
 
 **8th:** statue
-
-**From:** domain
 
 ### Radiation Subdomain
 
@@ -178,7 +166,7 @@ passes within 5 feet of the aura must succeed at a Will save (DC equal to 10 + 1
 level + your Wisdom modifier) or become [sickened](ref/misc/sickened). You're immune to this
 object's effect.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -187,8 +175,6 @@ object's effect.
 **4th:** blight
 
 **8th:** horrid wilting
-
-**From:** domain
 
 ### Deities
 

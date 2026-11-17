@@ -22,11 +22,11 @@ and needs erode your psyche.
 **Passive:** You take a -2 penalty on saving throws against confusion and emotion effects and are
 affected by such effects for at least 1 round even on a successful saving throw.
 
-**Spells:** Compelling rant
+**Spells:** Lesser confusion (2nd)
 
-**Spells:** Lesser confusion
+**Spells:** Dreadscape (8th)
 
-**Spells:** Dreadscape
+**Spells:** Compelling rant (10th)
 
 **Available patron themes:** [Insanity](ref/patron/insanity), [Occult](ref/patron/occult),
 [Stars](ref/patron/stars), [Transformation](ref/patron/transformation)

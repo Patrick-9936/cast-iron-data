@@ -21,22 +21,20 @@ group = "bloodrager-bloodline"
 grasp may pass their heritage on to later generations before it reemerges. The potent humors that
 accompany hag blood are better suited to a bloodrager's ferocity than to traditional spellcasting.
 
-**Br:** \~
-
-**Details:**
-[Blind-Fight](ref/feat/blind-fight)[Deceitful](ref/feat/deceitful)[Great Fortitude](ref/feat/great-fortitude)[Improved Natural Attack](ref/feat/improved-natural-attack)[Intimidating Prowess](ref/feat/intimidating-prowess)\~[Mother's Gift](ref/feat/mothers-gift)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Blind-Fight](ref/feat/blind-fight), [Deceitful](ref/feat/deceitful),
+[Great Fortitude](ref/feat/great-fortitude),
+[Improved Natural Attack](ref/feat/improved-natural-attack),
+[Intimidating Prowess](ref/feat/intimidating-prowess), [Mother's Gift](ref/feat/mothers-gift)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Blindness/deafness
+**Spells:** Chill touch (7th)
 
-**Spells:** Bestow curse
+**Spells:** Blindness/deafness (10th)
 
-**Spells:** Charm monster
+**Spells:** Bestow curse (13th)
 
-**Spells:** Chill touch
+**Spells:** Charm monster (16th)
 
 ### Bloodline Powers
 
@@ -51,21 +49,17 @@ that you can see, causing it to take a -2 penalty to AC and on attack rolls for 
 bloodrager level or until the target hits you with an attack. The target can negate this effect with
 a successful Will saving throw (DC = 10 + half your bloodrager level + your Charisma modifier).
 
-**Usage:** Cha3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Hag Fortitude (Su)**
-
-**At 8th Level:** You also become immune to poison.
 
 **Gained:** At 4th Level
 
 **Passive:** You become immune to mundane and magical diseases.
 
-**Hag Transformation (Su)**
+**At 8th Level:** You also become immune to poison.
 
-**At 16th Level:** You apply your morale bonus on Will saving throws while _bloodraging_ to
-Fortitude and Reflex saving throws against spells and
-[spell-like abilities](ref/umr/spell-like-abilities).
+**Hag Transformation (Su)**
 
 **Gained:** At 12th Level
 
@@ -73,6 +67,10 @@ Fortitude and Reflex saving throws against spells and
 aggression clouds your mind. Your morale bonus to Strength increases by 2, and you gain
 [low-light vision](ref/rule/low-light-vision) and [darkvision](ref/rule/darkvision) (60 feet), but
 you take a -2 penalty to both Dexterity and Wisdom for the duration of your _bloodrage._
+
+**At 16th Level:** You apply your morale bonus on Will saving throws while _bloodraging_ to
+Fortitude and Reflex saving throws against spells and
+[spell-like abilities](ref/umr/spell-like-abilities).
 
 **Covenguard (Su)**
 

@@ -31,7 +31,7 @@ You can repulse the influence of confused divine servants.
 **Ability:** With a melee touch attack, you render a target silent (as the spell
 [silence](ref/spell/silence), but only affecting the target) for 1 round.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Excommunicate (Su)**
 

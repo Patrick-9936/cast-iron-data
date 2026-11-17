@@ -29,9 +29,11 @@ emulate Talmandor, the agathion patron of Andoran.
 **Details:** [Abadar](ref/faith/abadar), [Erastil](ref/faith/erastil), [Iomedae](ref/faith/iomedae),
 [Ragathiel](ref/faith/ragathiel), [Shelyn](ref/faith/shelyn), [Vildeis](ref/faith/vildeis).
 
-**Gained class skills:** ling, per, perf
+**Gained class skills:** [Linguistics](ref/skill/linguistics), [Perception](ref/skill/perception),
+[Perform](ref/skill/perform-any)
 
-**Lost class skills:** ha, ride, spc
+**Lost class skills:** [Handle Animal](ref/skill/handle-animal), [Ride](ref/skill/ride),
+[Spellcraft](ref/skill/spellcraft)
 
 **Stirring Monologue (Su)**
 
@@ -98,10 +100,10 @@ hands_ to heal a creature, she heals it the maximum possible amount.
 
 **Oath Spells**
 
-**Spells:** Comprehend languages
+**Spells:** Comprehend languages (1st)
 
-**Spells:** Locate object
+**Spells:** Locate object (2nd)
 
-**Spells:** Tongues
+**Spells:** Tongues (3rd)
 
-**Spells:** True seeing
+**Spells:** True seeing (4th)

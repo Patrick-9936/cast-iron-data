@@ -45,7 +45,7 @@ within 5 feet of you and [dazzles](ref/misc/dazzled) them for 1d4 rounds. A succ
 negates the dazzled effect and halves the damage. The DC of this save is equal to 10 + 1/2 your
 wizard level + your Intelligence modifier.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Cyclone (Su)**
 
@@ -81,7 +81,7 @@ piercing damage and halves the cold damage. The shards remain until the beginnin
 during this time, the area is [difficult terrain](ref/rule/terrain-and-obstacles). You are not
 affected by your own freezing shards and can move through the area normally.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Icy Shackles (Su)**
 
@@ -112,7 +112,7 @@ powers of the air school.
 smoke that you (but not others) magically create. You can choose to touch another creature to grant
 it this vision for 1 hour.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Body of Smoke (Sp)**
 

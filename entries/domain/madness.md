@@ -29,13 +29,9 @@ following: attack rolls, saving throws, or skill checks. The target receives a b
 rolls equal to 1/2 your cleric level (minimum +1) and a penalty to the other two types of rolls
 equal to 1/2 your cleric level (minimum -1). This effect fades after 3 rounds.
 
-**Id:** vis
-
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Aura of Madness (Su)**
-
-**Id:** aura
 
 **Gained:** At 8th Level
 
@@ -59,8 +55,6 @@ for 24 hours.
 1. scintillating pattern
 1. weird
 
-**Save:** domain
-
 ### Insanity Subdomain
 
 **Sources:** Advanced Player's Guide pg 92
@@ -78,15 +72,13 @@ against mind-affecting effects and immunity to confusion. This bonus lasts for 1
 creature fails a saving throw against a mind-affecting effect during this period, it loses its
 immunity to confusion and is immediately [confused](ref/misc/confused) for one round.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
 **4th:** moonstruck
 
 **6th:** phantasmal web
-
-**From:** domain
 
 ### Nightmare Subdomain
 
@@ -106,7 +98,7 @@ effects it might possess and takes a -2 penalty on attack rolls made against you
 creature takes a penalty on Will saves made against fear effects equal to 1/2 your cleric level
 (minimum -1). This power is a mind-affecting effect.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -115,8 +107,6 @@ creature takes a penalty on Will saves made against fear effects equal to 1/2 yo
 **6th:** cloak of dreams
 
 **9th:** weird
-
-**From:** domain
 
 ### Truth Subdomain
 
@@ -151,8 +141,6 @@ not end until the end of the third round. This is a mind-affecting effect.
 **5th:** contact other plane
 
 **6th:** litany of madness
-
-**From:** domain
 
 ### Deities
 

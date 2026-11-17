@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Vengeance patron grants the following spells at the listed witch levels.
 
-**Spells:** Symbol of pain
+**Spells:** Burning hands (2nd)
 
-**Spells:** Mass pain strike
+**Spells:** Burning gaze (4th)
 
-**Spells:** Phantasmal revenge
+**Spells:** Pain strike (6th)
 
-**Spells:** Incendiary cloud
+**Spells:** Shout (8th)
 
-**Spells:** Winds of vengeance
+**Spells:** Symbol of pain (10th)
 
-**Spells:** Burning hands
+**Spells:** Mass pain strike (12th)
 
-**Spells:** Burning gaze
+**Spells:** Phantasmal revenge (14th)
 
-**Spells:** Pain strike
+**Spells:** Incendiary cloud (16th)
 
-**Spells:** Shout
+**Spells:** Winds of vengeance (18th)

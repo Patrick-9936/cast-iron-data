@@ -24,35 +24,33 @@ their skill naturally resonates within you. Regardless, your connection to the m
 grants you magical power over the cards of the harrow, visions of the future, and the ability to
 call down ephemeral forces.
 
-**Gained class skills:** kh
+**Gained class skills:** [Knowledge (history)](ref/skill/knowledge-history)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Contact other plane
+**Spells:** Ill omen (3rd)
 
-**Spells:** Legend lore
+**Spells:** Augury (5th)
 
-**Spells:** Greater harrowing
+**Spells:** Harrowing (7th)
 
-**Spells:** Moment of prescience
+**Spells:** Shadow conjuration (9th)
 
-**Spells:** Weird
+**Spells:** Contact other plane (11th)
 
-**Spells:** Ill omen
+**Spells:** Legend lore (13th)
 
-**Spells:** Augury
+**Spells:** Greater harrowing (15th)
 
-**Spells:** Harrowing
+**Spells:** Moment of prescience (17th)
 
-**Spells:** Shadow conjuration
+**Spells:** Weird (19th)
 
-**Br:** \~
-
-**Details:**
-[Alertness](ref/feat/alertness)[Craft Wondrous Item](ref/feat/craft-wondrous-item)[Extend Spell](ref/feat/extend-spell)[Fortune Teller](ref/feat/fortune-teller)[Harrowed](ref/feat/harrowed)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[history\])[Varisian Tattoo](ref/feat/varisian-tattoo)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Alertness](ref/feat/alertness),
+[Craft Wondrous Item](ref/feat/craft-wondrous-item), [Extend Spell](ref/feat/extend-spell),
+[Fortune Teller](ref/feat/fortune-teller), [Harrowed](ref/feat/harrowed),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[history\]),
+[Varisian Tattoo](ref/feat/varisian-tattoo)
 
 **Bloodline Arcana**
 
@@ -77,7 +75,7 @@ the ability's effects for 24 hours.
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **See It Coming (Su)**
 

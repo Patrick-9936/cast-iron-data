@@ -24,23 +24,23 @@ accord.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Unseen servant
+**Spells:** Unseen servant (1st)
 
-**Spells:** Spiritual weapon
+**Spells:** Spiritual weapon (2nd)
 
-**Spells:** Heroism
+**Spells:** Heroism (3rd)
 
-**Spells:** Spiritual ally
+**Spells:** Spiritual ally (4th)
 
-**Spells:** Telekinesis
+**Spells:** Telekinesis (5th)
 
-**Spells:** Greater heroism
+**Spells:** Greater heroism (6th)
 
-**Spells:** Ethereal jaunt
+**Spells:** Ethereal jaunt (7th)
 
-**Spells:** Vision
+**Spells:** Vision (8th)
 
-**Spells:** Astral projection
+**Spells:** Astral projection (9th)
 
 ### Hexes
 
@@ -114,7 +114,7 @@ ability.
 within 30 feet. The ally gains a +2 bonus on any attack roll, saving throw, ability check, or skill
 check made before the beginning of the shaman's next turn.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

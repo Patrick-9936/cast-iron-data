@@ -25,11 +25,11 @@ else to tempt them into wickedness.
 **Passive:** You can neither use the [aid another](ref/rule/aid-another) action nor receive benefits
 from others' aid another actions.
 
-**Spells:** Commune\|(hag/patron rather than deity)
+**Spells:** Disguise self (2nd)
 
-**Spells:** Disguise self
+**Spells:** Sending (8th)
 
-**Spells:** Sending
+**Spells:** Commune (hag/patron rather than deity) (10th)
 
 **Available patron themes:** [Moon](ref/patron/moon), [Plague](ref/patron/plague),
 [Shadow](ref/patron/shadow), [Vengeance](ref/patron/vengeance)

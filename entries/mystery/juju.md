@@ -22,27 +22,29 @@ group = "oracle-mystery"
 
 **Details:** [Wendo](ref/faith/wendo)
 
-**Gained class skills:** bluff, intm, kna, perf\|oratory, sur
+**Gained class skills:** [Bluff](ref/skill/bluff), [Intimidate](ref/skill/intimidate),
+[Knowledge (nature)](ref/skill/knowledge-nature), [Perform (oratory)](ref/skill/perform-any),
+[Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Mass suggestion
+**Spells:** Speak with animals (2nd)
 
-**Spells:** Contact other plane\|(as a 6th-level spell)
+**Spells:** Hideous laughter (4th)
 
-**Spells:** Summon nature's ally VII
+**Spells:** Fear (6th)
 
-**Spells:** Mass charm monster
+**Spells:** Charm monster (8th)
 
-**Spells:** Shapechange
+**Spells:** Mass suggestion (10th)
 
-**Spells:** Speak with animals
+**Spells:** Contact other plane (as a 6th-level spell) (12th)
 
-**Spells:** Hideous laughter
+**Spells:** Summon nature's ally VII (14th)
 
-**Spells:** Fear
+**Spells:** Mass charm monster (16th)
 
-**Spells:** Charm monster
+**Spells:** Shapechange (18th)
 
 ### Revelations
 
@@ -125,7 +127,7 @@ comes first.
 Chanting after the initial round of the effect is a **free action**, and you can incorporate verbal
 components and communication into the chant; magical silence ends a chant and its protection effect.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Summon Nature's Spirits (Sp)**
 

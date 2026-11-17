@@ -19,27 +19,28 @@ group = "oracle-mystery"
 
 **Details:** [Gozreh](ref/faith/gozreh), [Nethys](ref/faith/nethys), [Pharasma](ref/faith/pharasma).
 
-**Gained class skills:** fly, ka, per, umd
+**Gained class skills:** [Fly](ref/skill/fly), [Knowledge (arcana)](ref/skill/knowledge-arcana),
+[Perception](ref/skill/perception), [Use Magic Device](ref/skill/use-magic-device)
 
 **Bonus Spells**
 
-**Spells:** Permanency
+**Spells:** Memory lapse (2nd)
 
-**Spells:** Contingency
+**Spells:** Gentle repose (4th)
 
-**Spells:** Disintegrate
+**Spells:** Sands of time (6th)
 
-**Spells:** Temporal stasis
+**Spells:** Threefold aspect (8th)
 
-**Spells:** Time stop
+**Spells:** Permanency (10th)
 
-**Spells:** Memory lapse
+**Spells:** Contingency (12th)
 
-**Spells:** Gentle repose
+**Spells:** Disintegrate (14th)
 
-**Spells:** Sands of time
+**Spells:** Temporal stasis (16th)
 
-**Spells:** Threefold aspect
+**Spells:** Time stop (18th)
 
 ### Revelations
 

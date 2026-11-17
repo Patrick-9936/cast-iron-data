@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Spirits patron grants the following spells at the listed witch levels.
 
-**Spells:** Mass ghostbane dirge
+**Spells:** Ghostbane dirge (2nd)
 
-**Spells:** Shadow walk
+**Spells:** Invisibility (4th)
 
-**Spells:** Ethereal jaunt
+**Spells:** Speak with dead (6th)
 
-**Spells:** Planar ally
+**Spells:** Spiritual ally (8th)
 
-**Spells:** Etherealness
+**Spells:** Mass ghostbane dirge (10th)
 
-**Spells:** Ghostbane dirge
+**Spells:** Shadow walk (12th)
 
-**Spells:** Invisibility
+**Spells:** Ethereal jaunt (14th)
 
-**Spells:** Speak with dead
+**Spells:** Planar ally (16th)
 
-**Spells:** Spiritual ally
+**Spells:** Etherealness (18th)

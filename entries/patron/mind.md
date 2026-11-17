@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Mind patron grants the following spells at the listed witch levels.
 
-**Spells:** Psychic asylum
+**Spells:** Mindlink (2nd)
 
-**Spells:** Greater create mindscape
+**Spells:** Mental block (4th)
 
-**Spells:** Psychic surgery
+**Spells:** Mindscape door (6th)
 
-**Spells:** Moment of prescience
+**Spells:** Create mindscape (8th)
 
-**Spells:** Microcosm
+**Spells:** Psychic asylum (10th)
 
-**Spells:** Mindlink
+**Spells:** Greater create mindscape (12th)
 
-**Spells:** Mental block
+**Spells:** Psychic surgery (14th)
 
-**Spells:** Mindscape door
+**Spells:** Moment of prescience (16th)
 
-**Spells:** Create mindscape
+**Spells:** Microcosm (18th)

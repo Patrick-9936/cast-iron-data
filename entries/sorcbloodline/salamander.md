@@ -18,35 +18,32 @@ group = "sorcerer-bloodline"
 You are descended from the elemental outsiders known as [salamanders](ref/monster/salamander). You
 wield flame as a weapon and a tool, and your smithing skills are unrivaled.
 
-**Gained class skills:** acro
+**Gained class skills:** [Acrobatics](ref/skill/acrobatics)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Fire snake
+**Spells:** Magic weapon (3rd)
 
-**Spells:** Tar pool
+**Spells:** Molten orb (5th)
 
-**Spells:** Firebrand
+**Spells:** Magic vestment (7th)
 
-**Spells:** Wall of lava
+**Spells:** Fire shield (warm shield) (9th)
 
-**Spells:** Meteor swarm
+**Spells:** Fire snake (11th)
 
-**Spells:** Magic weapon
+**Spells:** Tar pool (13th)
 
-**Spells:** Molten orb
+**Spells:** Firebrand (15th)
 
-**Spells:** Magic vestment
+**Spells:** Wall of lava (17th)
 
-**Spells:** Fire shield\|(warm shield)
+**Spells:** Meteor swarm (19th)
 
-**Br:** \~
-
-**Details:**
-[Cleave](ref/feat/cleave)[Craft Wondrous Item](ref/feat/craft-wondrous-item)[Iron Will](ref/feat/iron-will)[Power Attack](ref/feat/power-attack)[Prodigy](ref/feat/prodigy)\~[Skill Focus](ref/feat/skill-focus)
-(Acrobatics)Skill Focus (Perception)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Cleave](ref/feat/cleave), [Craft Wondrous Item](ref/feat/craft-wondrous-item),
+[Iron Will](ref/feat/iron-will), [Power Attack](ref/feat/power-attack), [Prodigy](ref/feat/prodigy),
+[Skill Focus](ref/feat/skill-focus) (Acrobatics), [Skill Focus](ref/feat/skill-focus) (Perception),
+[Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -65,7 +62,7 @@ circumstance bonus on the check equal to twice the number of uses expended.
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Forge and Fire (Su)**
 
@@ -85,12 +82,12 @@ non-functional unless it provides a constant bonus and does not need to be activ
 a [tail slap](ref/umr/natural-attacks) natural attack that deals 1d8 points of damage (1d6 if you
 are Small) + your Strength modifier.
 
-**At 15th Level:** Your reach with your tail slap increases by 5 feet.
-
 **Gained:** At 9th Level
 
 **Usage:** 1 minute/day per sorcerer level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
+
+**At 15th Level:** Your reach with your tail slap increases by 5 feet.
 
 **Searing Heat (Su)**
 

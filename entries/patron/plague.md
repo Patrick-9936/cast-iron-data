@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Plague patron grants the following spells at the listed witch levels.
 
-**Spells:** Giant vermin
+**Spells:** Detect undead (2nd)
 
-**Spells:** Create undead
+**Spells:** Command undead (4th)
 
-**Spells:** Control undead
+**Spells:** Contagion (6th)
 
-**Spells:** Create greater undead
+**Spells:** Animate dead (8th)
 
-**Spells:** Energy drain
+**Spells:** Giant vermin (10th)
 
-**Spells:** Detect undead
+**Spells:** Create undead (12th)
 
-**Spells:** Command undead
+**Spells:** Control undead (14th)
 
-**Spells:** Contagion
+**Spells:** Create greater undead (16th)
 
-**Spells:** Animate dead
+**Spells:** Energy drain (18th)

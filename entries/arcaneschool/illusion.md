@@ -44,7 +44,7 @@ designate another illusion as permanent, the previous permanent illusion ends.
 ray causes creatures to be [blinded](ref/misc/blinded) for 1 round. Creatures with more Hit Dice
 than your wizard level are [dazzled](ref/misc/dazzled) for 1 round instead.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Invisibility Field (Sp)**
 
@@ -86,7 +86,7 @@ level to impart an illusory ward that lasts for 1 minute. Attacks against a ward
 skill check, or saving throw to detect or determine the properties of a warded item increases by 1,
 plus 1 for every 5 wizard levels you have.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 ### Phantasm School
 
@@ -105,7 +105,7 @@ only it can see. The creature provokes an attack of opportunity from you or an a
 Creatures with more Hit Dice than your wizard level are unaffected. This is a mind-affecting fear
 effect.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Bedeviling Aura (Su)**
 
@@ -194,7 +194,7 @@ this duration is halved (minimum 1 round). A creature entangled by your shadows 
 [concealment](ref/rule/concealment) from those without [darkvision](ref/rule/darkvision) or the
 ability to see in darkness, and other creatures likewise have concealment relative to it.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Shadow Step (Sp)**
 

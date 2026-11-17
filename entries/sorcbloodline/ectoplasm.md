@@ -19,35 +19,32 @@ Your family has a connection with the ethereal substance known as ectoplasm, whe
 with the spirits or battling the spiritual undead. The power of the Ethereal Plane thrums in your
 mind and pulls at your flesh.
 
-**Gained class skills:** stl
+**Gained class skills:** [Stealth](ref/skill/stealth)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Wall of ectoplasm
+**Spells:** Obscuring mist (3rd)
 
-**Spells:** Ethereal jaunt
+**Spells:** Ghost whip (5th)
 
-**Spells:** Ectoplasmic eruption
+**Spells:** Ectoplasmic snare (7th)
 
-**Spells:** Create demiplane
+**Spells:** Spirit-bound blade (9th)
 
-**Spells:** Etherealness
+**Spells:** Wall of ectoplasm (11th)
 
-**Spells:** Obscuring mist
+**Spells:** Ethereal jaunt (13th)
 
-**Spells:** Ghost whip
+**Spells:** Ectoplasmic eruption (15th)
 
-**Spells:** Ectoplasmic snare
+**Spells:** Create demiplane (17th)
 
-**Spells:** Spirit-bound blade
+**Spells:** Etherealness (19th)
 
-**Br:** \~
-
-**Details:**
-[Blind-Fight](ref/feat/blind-fight)[Dodge](ref/feat/dodge)[Ectoplasmic Spell](ref/feat/ectoplasmic-spell)[Lingering Spell](ref/feat/lingering-spell)[Silent Spell](ref/feat/silent-spell)\~[Skill Focus](ref/feat/skill-focus)
-(Fly)Skill Focus (Stealth)[Spell Focus](ref/feat/spell-focus)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Blind-Fight](ref/feat/blind-fight), [Dodge](ref/feat/dodge),
+[Ectoplasmic Spell](ref/feat/ectoplasmic-spell), [Lingering Spell](ref/feat/lingering-spell),
+[Silent Spell](ref/feat/silent-spell), [Skill Focus](ref/feat/skill-focus) (Fly),
+[Skill Focus](ref/feat/skill-focus) (Stealth), [Spell Focus](ref/feat/spell-focus)
 
 **Bloodline Arcana**
 
@@ -67,7 +64,7 @@ incorporeal creatures. The ectoplasm dissipates within 1d3 rounds.
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Ectoplasmic Reach (Su)**
 
@@ -75,13 +72,13 @@ incorporeal creatures. The ectoplasm dissipates within 1d3 rounds.
 as part of a spell with a range of touch. You can make melee touch attacks as if you had an
 additional 5 feet of reach. This ability does not otherwise increase your threatened area.
 
-**At 11th Level:** This additional reach increases to 10 feet.
-
-**At 17th Level:** This additional reach increases to 15 feet.
-
 **Gained:** At 3rd Level
 
 **Special:** You must have a free hand with which to direct the ectoplasm.
+
+**At 11th Level:** This additional reach increases to 10 feet.
+
+**At 17th Level:** This additional reach increases to 15 feet.
 
 **Ectoplasmic Form (Sp)**
 

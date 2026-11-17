@@ -20,22 +20,20 @@ group = "bloodrager-bloodline"
 The blood of the powerful, serpentine aberrations known as nagas runs through your veins, fueling
 your _bloodrage._
 
-**Br:** \~
-
-**Details:**
-[Alertness](ref/feat/alertness)[Combat Casting](ref/feat/combat-casting)[Combat Reflexes](ref/feat/combat-reflexes)[Dodge](ref/feat/dodge)[Lightning Reflexes](ref/feat/lightning-reflexes)[Power Attack](ref/feat/power-attack)[Stealthy](ref/feat/stealthy)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Alertness](ref/feat/alertness), [Combat Casting](ref/feat/combat-casting),
+[Combat Reflexes](ref/feat/combat-reflexes), [Dodge](ref/feat/dodge),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Power Attack](ref/feat/power-attack),
+[Stealthy](ref/feat/stealthy)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Invisibility
+**Spells:** Ray of enfeeblement (7th)
 
-**Spells:** Lightning bolt
+**Spells:** Invisibility (10th)
 
-**Spells:** Poison
+**Spells:** Lightning bolt (13th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Poison (16th)
 
 ### Bloodline Powers
 
@@ -44,16 +42,16 @@ and terrible strength of the nagas.
 
 **Serpent Fangs (Su)**
 
-**At 4th Level:** Your fangs are considered magic weapons for the purpose of overcoming
-[damage reduction](ref/rule/damage-reduction).
-
-**At 8th Level:** The damage increases to 1d10 (1d8 if you are Small) + your Strength modifier.
-
 **Gained:** At 1st Level
 
 **Passive:** You grow serpentine fangs. These fangs are treated as a natural weapon, granting you a
 bite attack as a primary [natural weapon](ref/umr/natural-attacks). This attack deals damage equal
 to 1d8 (1d6 if you are Small) + your Strength modifier.
+
+**At 4th Level:** Your fangs are considered magic weapons for the purpose of overcoming
+[damage reduction](ref/rule/damage-reduction).
+
+**At 8th Level:** The damage increases to 1d10 (1d8 if you are Small) + your Strength modifier.
 
 **Serpentine Swim (Sp)**
 
@@ -63,15 +61,15 @@ to 1d8 (1d6 if you are Small) + your Strength modifier.
 
 **Naga Defenses (Su)**
 
-**At 16th Level:** The bonus to your natural armor increases to +4 and the bonus on saves against
-poison increases to +8.
-
-**At 20th Level:** The bonus to your natural armor increases to +6, and you gain immunity to poison.
-
 **Gained:** At 8th Level
 
 **Passive:** When entering a _bloodrage,_ you gain a +2 enhancement bonus to your natural armor
 bonus and a +4 bonus on saves against poison.
+
+**At 16th Level:** The bonus to your natural armor increases to +4 and the bonus on saves against
+poison increases to +8.
+
+**At 20th Level:** The bonus to your natural armor increases to +6, and you gain immunity to poison.
 
 **Poison Fangs (Su)**
 

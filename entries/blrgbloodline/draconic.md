@@ -23,23 +23,20 @@ group = "bloodrager-bloodline"
 At some point in your family's history, a dragon interbred with your bloodline. Now, the sublime
 monster's ancient power fuels your _bloodrage._
 
-**Br:** \~
-
-**Details:**
-[Blind-Fight](ref/feat/blind-fight)[Cleave](ref/feat/cleave)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Power Attack](ref/feat/power-attack)[Skill Focus](ref/feat/skill-focus)
-(Fly)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Blind-Fight](ref/feat/blind-fight), [Cleave](ref/feat/cleave),
+[Great Fortitude](ref/feat/great-fortitude), [Improved Initiative](ref/feat/improved-initiative),
+[Power Attack](ref/feat/power-attack), [Skill Focus](ref/feat/skill-focus) (Fly),
+[Toughness](ref/feat/toughness)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Resist energy
+**Spells:** Shield (7th)
 
-**Spells:** Fly
+**Spells:** Resist energy (10th)
 
-**Spells:** Fear
+**Spells:** Fly (13th)
 
-**Spells:** Shield
+**Spells:** Fear (16th)
 
 ### Bloodline Powers
 
@@ -65,35 +62,31 @@ below.
 
 **Claws (Su)**
 
-**At 12th Level:** Your claws deal an additional 1d6 points of damage of your energy type on a hit.
-
-**At 4th Level:** Your claws are considered magic weapons for the purpose of overcoming
-[damage reduction](ref/rule/damage-reduction).
-
-**At 8th Level:** The base damage your claws deal increases to 1d8 points (1d6 if you are small).
-
 **Gained:** At 1st Level
 
 **Passive:** You grow claws. These claws are treated as [natural weapons](ref/umr/natural-attacks),
 allowing you to make two claw attacks as a full attack, using your full base attack bonus. These
 attacks deal 1d6 points of damage each (1d4 if you are Small) plus your Strength modifier.
 
+**At 4th Level:** Your claws are considered magic weapons for the purpose of overcoming
+[damage reduction](ref/rule/damage-reduction).
+
+**At 8th Level:** The base damage your claws deal increases to 1d8 points (1d6 if you are small).
+
+**At 12th Level:** Your claws deal an additional 1d6 points of damage of your energy type on a hit.
+
 **Draconic Resistance (Ex)**
-
-**At 16th Level:** Your natural armor bonus becomes +4.
-
-**At 8th Level:** The energy resistance increases to 10 and your natural armor bonus becomes +2.
 
 **Gained:** At 4th Level
 
 **Passive:** You gain [resistance](ref/umr/resistance) 5 against your energy type and a +1 natural
 armor bonus to AC.
 
+**At 8th Level:** The energy resistance increases to 10 and your natural armor bonus becomes +2.
+
+**At 16th Level:** Your natural armor bonus becomes +4.
+
 **Breath Weapon (Su)**
-
-**At 16th Level:** You can use this ability twice a day.
-
-**At 20th Level:** You can use this ability three times a day.
 
 **Gained:** At 8th Level
 
@@ -103,14 +96,18 @@ the area of the breath can attempt a Reflex saving throw for half damage. The DC
 equal to 10 + 1/2 your bloodrager level + your Constitution modifier. The shape of the breath weapon
 depends on your dragon type (as indicated on the above table).
 
+**At 16th Level:** You can use this ability twice a day.
+
+**At 20th Level:** You can use this ability three times a day.
+
 **Dragon Wings (Su)**
 
 **Ability:** When entering a _bloodrage,_ you can choose to have leathery wings grow from your back,
 giving you a fly speed of 60 feet with average maneuverability.
 
-**At 16th Level:** Your fly speed increases to 80 feet with good maneuverability.
-
 **Gained:** At 12th Level
+
+**At 16th Level:** Your fly speed increases to 80 feet with good maneuverability.
 
 **Dragon Form (Su)**
 

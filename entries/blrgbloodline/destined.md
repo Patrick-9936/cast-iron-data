@@ -20,22 +20,20 @@ group = "bloodrager-bloodline"
 Your bloodline is destined for great things. When you _bloodrage,_ you exude a greatness that makes
 all but the most legendary creatures seem lesser.
 
-**Br:** \~
-
-**Details:**
-[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Improved Initiative](ref/feat/improved-initiative)[Intimidating Prowess](ref/feat/intimidating-prowess)[Leadership](ref/feat/leadership)[Lightning Reflexes](ref/feat/lightning-reflexes)[Weapon Focus](ref/feat/weapon-focus)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Diehard](ref/feat/diehard), [Endurance](ref/feat/endurance),
+[Improved Initiative](ref/feat/improved-initiative),
+[Intimidating Prowess](ref/feat/intimidating-prowess), [Leadership](ref/feat/leadership),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Weapon Focus](ref/feat/weapon-focus)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Blur
+**Spells:** Shield (7th)
 
-**Spells:** Protection from energy
+**Spells:** Blur (10th)
 
-**Spells:** Freedom of movement
+**Spells:** Protection from energy (13th)
 
-**Spells:** Shield
+**Spells:** Freedom of movement (16th)
 
 ### Bloodline Powers
 
@@ -46,13 +44,13 @@ Your future greatness grants you the might to strike your enemies with awe.
 **Free:** You can grant yourself an insight bonus equal to 1/2 your bloodrager level (minimum 1) on
 one melee attack.
 
-**At 12th Level:** You can use this five times a day.
-
 **Gained:** At 1st Level
 
 **Usage:** 3 times/day.
 
 **Usage:** 3 times/day.
+
+**At 12th Level:** You can use this five times a day.
 
 **Fated Bloodrager (Su)**
 

@@ -16,23 +16,23 @@ group = "witch-patron"
 
 **Info:** The Transformation patron grants the following spells at the listed witch levels.
 
-**Spells:** Beast shape III
+**Spells:** Jump (2nd)
 
-**Spells:** Form of the dragon I
+**Spells:** Bear's endurance (4th)
 
-**Spells:** Form of the dragon II
+**Spells:** Beast shape I (6th)
 
-**Spells:** Form of the dragon III
+**Spells:** Beast shape II (8th)
 
-**Spells:** Shapechange
+**Spells:** Beast shape III (10th)
 
-**Spells:** Jump
+**Spells:** Form of the dragon I (12th)
 
-**Spells:** Bear's endurance
+**Spells:** Form of the dragon II (14th)
 
-**Spells:** Beast shape I
+**Spells:** Form of the dragon III (16th)
 
-**Spells:** Beast shape II
+**Spells:** Shapechange (18th)
 
 **Special:** When a witch with a Transformation patron gains the ability to choose a major hex, they
 may learn an [annointing](ref/ability/annointings) in place of a new hex.

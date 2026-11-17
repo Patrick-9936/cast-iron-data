@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Elements patron grants the following spells at the listed witch levels.
 
-**Spells:** Flame strike
+**Spells:** Shocking grasp (2nd)
 
-**Spells:** Freezing sphere
+**Spells:** Flaming sphere (4th)
 
-**Spells:** Vortex
+**Spells:** Fireball (6th)
 
-**Spells:** Fire storm
+**Spells:** Wall of ice (8th)
 
-**Spells:** Meteor swarm
+**Spells:** Flame strike (10th)
 
-**Spells:** Shocking grasp
+**Spells:** Freezing sphere (12th)
 
-**Spells:** Flaming sphere
+**Spells:** Vortex (14th)
 
-**Spells:** Fireball
+**Spells:** Fire storm (16th)
 
-**Spells:** Wall of ice
+**Spells:** Meteor swarm (18th)

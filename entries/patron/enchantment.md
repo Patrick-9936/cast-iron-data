@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Enchantment patron grants the following spells at the listed witch levels.
 
-**Spells:** Dominate person
+**Spells:** Unnatural lust (2nd)
 
-**Spells:** Geas
+**Spells:** Calm emotions (4th)
 
-**Spells:** Euphoric tranquility
+**Spells:** Unadulterated loathing (6th)
 
-**Spells:** Demand
+**Spells:** Overwhelming grief (8th)
 
-**Spells:** Dominate monster
+**Spells:** Dominate person (10th)
 
-**Spells:** Unnatural lust
+**Spells:** Geas (12th)
 
-**Spells:** Calm emotions
+**Spells:** Euphoric tranquility (14th)
 
-**Spells:** Unadulterated loathing
+**Spells:** Demand (16th)
 
-**Spells:** Overwhelming grief
+**Spells:** Dominate monster (18th)

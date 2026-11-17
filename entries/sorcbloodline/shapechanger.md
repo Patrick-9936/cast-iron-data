@@ -18,35 +18,33 @@ group = "sorcerer-bloodline"
 Channeling the power of your shapeshifting ancestors that you carry in your blood, you gain powers
 that allow you to change your shape and alter your appearance and physical abilities.
 
-**Gained class skills:** dis
+**Gained class skills:** [Disguise](ref/skill/disguise)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Polymorph
+**Spells:** Disguise self (3rd)
 
-**Spells:** Transformation
+**Spells:** Alter self (5th)
 
-**Spells:** Greater polymorph
+**Spells:** Fly (7th)
 
-**Spells:** Frightful aspect
+**Spells:** Beast shape II (9th)
 
-**Spells:** Shapechange
+**Spells:** Polymorph (11th)
 
-**Spells:** Disguise self
+**Spells:** Transformation (13th)
 
-**Spells:** Alter self
+**Spells:** Greater polymorph (15th)
 
-**Spells:** Fly
+**Spells:** Frightful aspect (17th)
 
-**Spells:** Beast shape II
+**Spells:** Shapechange (19th)
 
-**Br:** \~
-
-**Details:**
-[Combat Casting](ref/feat/combat-casting)[Dodge](ref/feat/dodge)[Extend Spell](ref/feat/extend-spell)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Skill Focus](ref/feat/skill-focus)
-(Disguise)\~[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Casting](ref/feat/combat-casting), [Dodge](ref/feat/dodge),
+[Extend Spell](ref/feat/extend-spell), [Great Fortitude](ref/feat/great-fortitude),
+[Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Skill Focus](ref/feat/skill-focus) (Disguise),
+[Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -68,28 +66,28 @@ they deal damage as though you were one size category larger.
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier rounds/day
+**Usage:** 3 + Charisma modifier rounds/day
 
 **Mutable Flesh (Su)**
 
 **Ability:** Once per day when you cast a transmutation spell with a duration of 1 minute per level
 that affects only you, you can increase its duration to 10 minutes per level.
 
-**At 9th Level:** You can increase the duration to 1 hour per level.
-
 **Gained:** At 3rd Level
 
+**At 9th Level:** You can increase the duration to 1 hour per level.
+
 **Vortex of Flesh (Su)**
-
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times a day.
 
 **Gained:** At 9th Level
 
 **Standard:** Once per day, you can momentarily change into an amalgam of erratic geometric shapes
 once per day, lashing out at every creature in a 20-foot-radius [spread](ref/misc/spread) around
 you. This attack deals 1d6 points of bludgeoning, piercing, and slashing damage per sorcerer level.
+
+**At 17th Level:** You can use this ability twice per day.
+
+**At 20th Level:** You can use this ability three times a day.
 
 If you benefit from a spell or effect that allows you to overcome damage resistance with your
 natural attacks (such as magic fang), this attack ignores DR of the same type. Those caught in the

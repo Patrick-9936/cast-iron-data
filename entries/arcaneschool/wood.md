@@ -22,21 +22,21 @@ this elemental magic often resemble druids in character and in the use of their 
 
 **Info:** Add these spells to your wizard spell list at the listed spell level.
 
-**Spells:** Entangle
+**Spells:** Entangle (2nd)
 
-**Spells:** Tree shape
+**Spells:** Tree shape (3rd)
 
-**Spells:** Plant growth
+**Spells:** Plant growth (4th)
 
-**Spells:** Command plants
+**Spells:** Command plants (5th)
 
-**Spells:** Tree stride
+**Spells:** Tree stride (6th)
 
-**Spells:** Liveoak
+**Spells:** Liveoak (7th)
 
-**Spells:** Transmute metal to wood
+**Spells:** Transmute metal to wood (8th)
 
-**Spells:** Control plants
+**Spells:** Control plants (9th)
 
 **Flexible Enhancement (Su)**
 
@@ -66,7 +66,7 @@ modifier. The spear deals normal damage according to its size, plus your Intelli
 breaks into countless splinters; the target takes 1 point of [bleed](ref/rule/bleed) damage each
 round on its turn.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Cooperative Defense (Su)**
 

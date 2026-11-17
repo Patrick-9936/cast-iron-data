@@ -30,23 +30,23 @@ hair shimmer in the light.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Remove sickness
+**Spells:** Remove sickness (1st)
 
-**Spells:** Lesser restoration
+**Spells:** Lesser restoration (2nd)
 
-**Spells:** Neutralize poison
+**Spells:** Neutralize poison (3rd)
 
-**Spells:** Restoration
+**Spells:** Restoration (4th)
 
-**Spells:** Breath of life
+**Spells:** Breath of life (5th)
 
-**Spells:** Heal
+**Spells:** Heal (6th)
 
-**Spells:** Greater restoration
+**Spells:** Greater restoration (7th)
 
-**Spells:** Mass heal
+**Spells:** Mass heal (8th)
 
-**Spells:** True resurrection
+**Spells:** True resurrection (9th)
 
 ### Hexes
 
@@ -97,7 +97,7 @@ temporary hit points first, even before other temporary hit points (including th
 this _shell of succor_ ability, it still reduces those temporary hit points but otherwise counts as
 a miss for the purpose of abilities that trigger on a hit or a miss.
 
-**Usage:** Charisma1 modifier times/day
+**Usage:** 1 + Charisma modifier times/day
 
 **Spirit Boost (Su)**
 
@@ -126,7 +126,7 @@ gains the following ability.
 using her shaman level as her effective cleric level when determining the amount of damage healed
 (or dealt to undead) and the DC.
 
-**Usage:** Charisma1 modifier times/day
+**Usage:** 1 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

@@ -23,23 +23,23 @@ hair shimmer in the light.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Detect undead
+**Spells:** Detect undead (1st)
 
-**Spells:** Lesser restoration
+**Spells:** Lesser restoration (2nd)
 
-**Spells:** Neutralize poison
+**Spells:** Neutralize poison (3rd)
 
-**Spells:** Restoration
+**Spells:** Restoration (4th)
 
-**Spells:** Breath of life
+**Spells:** Breath of life (5th)
 
-**Spells:** Heal
+**Spells:** Heal (6th)
 
-**Spells:** Greater restoration
+**Spells:** Greater restoration (7th)
 
-**Spells:** Mass heal
+**Spells:** Mass heal (8th)
 
-**Spells:** True resurrection
+**Spells:** True resurrection (9th)
 
 ### Hexes
 
@@ -121,7 +121,7 @@ ability.
 using her shaman level as her effective cleric level when determining the amount of damage healed
 (or dealt to undead) and the DC.
 
-**Usage:** Charisma1 modifier times/day
+**Usage:** 1 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

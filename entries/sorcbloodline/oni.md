@@ -19,35 +19,34 @@ As slaves of capricious oni lords, your ancestors were forced to yield to their 
 desires, inevitably tainting their descendents with oni blood. Now, you wield the powers of the
 [oni](ref/family/oni) thanks to your vile heritage.
 
-**Gained class skills:** intm
+**Gained class skills:** [Intimidate](ref/skill/intimidate)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Cone of cold
+**Spells:** Ray of enfeeblement (3rd)
 
-**Spells:** Greater dispel magic
+**Spells:** Invisibility (5th)
 
-**Spells:** Waves of exhaustion
+**Spells:** Fly (7th)
 
-**Spells:** Trap the soul
+**Spells:** Charm monster (9th)
 
-**Spells:** Dominate monster
+**Spells:** Cone of cold (11th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Greater dispel magic (13th)
 
-**Spells:** Invisibility
+**Spells:** Waves of exhaustion (15th)
 
-**Spells:** Fly
+**Spells:** Trap the soul (17th)
 
-**Spells:** Charm monster
+**Spells:** Dominate monster (19th)
 
-**Br:** \~
-
-**Details:**
-[Combat Expertise](ref/feat/combat-expertise)[Combat Reflexes](ref/feat/combat-reflexes)[Enforcer](ref/feat/enforcer)[Fast Healer](ref/feat/fast-healer)[Improved Initiative](ref/feat/improved-initiative)[Iron Will](ref/feat/iron-will)[Power Attack](ref/feat/power-attack)[Skill Focus](ref/feat/skill-focus)
-(Intimidate)[Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency) (katana)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Expertise](ref/feat/combat-expertise),
+[Combat Reflexes](ref/feat/combat-reflexes), [Enforcer](ref/feat/enforcer),
+[Fast Healer](ref/feat/fast-healer), [Improved Initiative](ref/feat/improved-initiative),
+[Iron Will](ref/feat/iron-will), [Power Attack](ref/feat/power-attack),
+[Skill Focus](ref/feat/skill-focus) (Intimidate),
+[Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency) (katana)
 
 **Bloodline Arcana**
 
@@ -68,17 +67,17 @@ emergent cruelty becomes more dominant as your power increases.
 The target takes 1d4 points of nonlethal damage each round for a number of rounds equal to
 [half](ref/misc/fractions-and-rounding) of your sorcerer level (minimum 1).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Altered Form (Sp)**
 
 **Ability:** You gain the ability to change shape (as the spell [alter self](ref/spell/alter-self))
 for a number of minutes per day equal to your sorcerer level. These rounds need not be consecutive.
 
+**Gained:** At 3rd Level
+
 **At 17th Level:** The duration of this effect is no longer limited, and you may remain in your
 chosen form as long as you want.
-
-**Gained:** At 3rd Level
 
 **Windborne (Sp)**
 

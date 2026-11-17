@@ -20,35 +20,32 @@ the wake of nomadic sea-tribes, or the spawn of creeping ichthyic infiltrators i
 villages. The song of the sea hums in your blood, calling the waves and all those within to your
 command.
 
-**Gained class skills:** swim
+**Gained class skills:** [Swim](ref/skill/swim)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Control water
+**Spells:** Hydraulic push (3rd)
 
-**Spells:** Beast shape IV
+**Spells:** Slipstream (5th)
 
-**Spells:** Summon monster VII
+**Spells:** Aqueous orb (7th)
 
-**Spells:** Seamantle
+**Spells:** Geyser (9th)
 
-**Spells:** World wave
+**Spells:** Control water (11th)
 
-**Spells:** Hydraulic push
+**Spells:** Beast shape IV (13th)
 
-**Spells:** Slipstream
+**Spells:** Summon monster VII (15th)
 
-**Spells:** Aqueous orb
+**Spells:** Seamantle (17th)
 
-**Spells:** Geyser
+**Spells:** World wave (19th)
 
-**Br:** \~
-
-**Details:**
-[Athletic](ref/feat/athletic)[Brew Potion](ref/feat/brew-potion)[Defensive Combat Training](ref/feat/defensive-combat-training)[Dodge](ref/feat/dodge)[Mobility](ref/feat/mobility)[Silent Spell](ref/feat/silent-spell)[Skill Focus](ref/feat/skill-focus)
-(Swim)\~[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Athletic](ref/feat/athletic), [Brew Potion](ref/feat/brew-potion),
+[Defensive Combat Training](ref/feat/defensive-combat-training), [Dodge](ref/feat/dodge),
+[Mobility](ref/feat/mobility), [Silent Spell](ref/feat/silent-spell),
+[Skill Focus](ref/feat/skill-focus) (Swim), [Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -69,20 +66,20 @@ powers.
 [half](ref/misc/fractions-and-rounding) of your sorcerer level and sickens the target for 1 round.
 Oozes, plants, and creatures with the aquatic or water subtypes suffer lethal damage instead.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Aquatic Adaptation (Ex)**
 
 **Ability:** You gain a swim speed of 30 feet.
 
-**At 15th Level:** You gain a swim speed of 60 feet and
-[blindsense](ref/rule/blindsight-and-blindsense) of 60 feet in water.
+**Gained:** At 3rd Level
 
 **At 9th Level:** You gain the [amphibious](ref/umr/amphibious) special quality and develop a fat
 layer that grants a +1 natural armor bonus and [resist](ref/umr/resistance) cold 5. When immersed in
 water, you gain [blindsense](ref/umr/blindsense) 30 feet.
 
-**Gained:** At 3rd Level
+**At 15th Level:** You gain a swim speed of 60 feet and
+[blindsense](ref/rule/blindsight-and-blindsense) of 60 feet in water.
 
 **Aquatic Telepathy (Su)**
 
@@ -91,11 +88,11 @@ with a swim speed or the aquatic or water types regardless of intelligence. You 
 [suggestion](ref/spell/suggestion) on such creatures a number of times per day equal to your
 Charisma modifier. This ability is telepathic and does not require audible or visual components.
 
+**Gained:** At 9th Level
+
 **At 15th Level:** Once per day you can telepathically call and request a service from an aquatic,
 water, or swimming creature as if using [demand](ref/spell/demand) or
 [greater planar ally](ref/spell/planar-ally-greater).
-
-**Gained:** At 9th Level
 
 **Raise the Deep (Sp)**
 
@@ -103,9 +100,9 @@ water, or swimming creature as if using [demand](ref/spell/demand) or
 but no water need be present. This created water is stationary and does not flow out of the area
 where you create it; it lasts 1 round per sorcerer level and then disappears.
 
-**At 20th Level:** The dimensions of the effect are doubled.
-
 **Gained:** At 15th Level
+
+**At 20th Level:** The dimensions of the effect are doubled.
 
 **Deep One (Ex)**
 
@@ -142,4 +139,4 @@ You prefer to attack with water rather than to leech it away.
 is knocked [prone](ref/rule/prone), and at your option may be pushed 5 feet directly away from you.
 A reflex save (DC 10 +half your sorcerer level + your Charisma modifier) negates this effect.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day

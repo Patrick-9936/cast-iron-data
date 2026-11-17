@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Summer patron grants the following spells at the listed witch levels.
 
-**Spells:** Wall of fire
+**Spells:** Goodberry (2nd)
 
-**Spells:** Sirocco
+**Spells:** Flaming sphere (4th)
 
-**Spells:** Sunbeam
+**Spells:** Daylight (6th)
 
-**Spells:** Sunburst
+**Spells:** Greater flaming sphere (8th)
 
-**Spells:** Fiery body
+**Spells:** Wall of fire (10th)
 
-**Spells:** Goodberry
+**Spells:** Sirocco (12th)
 
-**Spells:** Flaming sphere
+**Spells:** Sunbeam (14th)
 
-**Spells:** Daylight
+**Spells:** Sunburst (16th)
 
-**Spells:** Greater flaming sphere
+**Spells:** Fiery body (18th)

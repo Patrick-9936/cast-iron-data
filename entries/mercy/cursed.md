@@ -12,7 +12,5 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The paladin's lay on hands ability also acts as [remove curse](ref/spell/remove-curse),
-using the paladin's level as the caster level.
-
-**Title:** Cursed
+The paladin's lay on hands ability also acts as [remove curse](ref/spell/remove-curse), using the
+paladin's level as the caster level.

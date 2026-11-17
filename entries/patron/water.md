@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Water patron grants the following spells at the listed witch levels.
 
-**Spells:** Geyser
+**Spells:** Bless water (or [curse water](ref/spell/curse-water)) (2nd)
 
-**Spells:** Elemental body III\|(water only)
+**Spells:** Slipstream (4th)
 
-**Spells:** Elemental body IV\|(water only)
+**Spells:** Water breathing (6th)
 
-**Spells:** Seamantle
+**Spells:** Control water (8th)
 
-**Spells:** Tsunami
+**Spells:** Geyser (10th)
 
-**Spells:** Bless water\|(or [curse water](ref/spell/curse-water))
+**Spells:** Elemental body III (water only) (12th)
 
-**Spells:** Slipstream
+**Spells:** Elemental body IV (water only) (14th)
 
-**Spells:** Water breathing
+**Spells:** Seamantle (16th)
 
-**Spells:** Control water
+**Spells:** Tsunami (18th)

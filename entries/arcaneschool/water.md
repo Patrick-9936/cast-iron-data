@@ -44,7 +44,7 @@ equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your wizard level to a
 the staggered effect and halves the damage. The DC of this save is equal to 10 + 1/2 your wizard
 level + your Intelligence modifier.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Wave (Su)**
 
@@ -84,7 +84,7 @@ piercing damage and halves the cold damage. The shards remain until the beginnin
 during this time, the area is [difficult terrain](ref/rule/terrain-and-obstacles). You are not
 affected by your own freezing shards and can move through the area normally.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Icy Shackles (Su)**
 
@@ -119,7 +119,7 @@ remove the entangled condition. Jumping into a large body of water or being subj
 that creates a substantial amount of water (such as a casting of
 [create water](ref/spell/create-water)) removes all the mud on a creature.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Mud Missile (Su)**
 

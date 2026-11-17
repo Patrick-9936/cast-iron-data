@@ -21,34 +21,32 @@ aging, pestilence, famine, and the horrors of war. Your lineage gives you great 
 exploit the weaknesses of living beings and how to use leeched soul energy to enhance your wicked
 abilities.
 
-**Gained class skills:** heal
+**Gained class skills:** [Heal](ref/skill/heal)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Blight
+**Spells:** Ray of enfeeblement (3rd)
 
-**Spells:** Circle of death
+**Spells:** Touch of idiocy (5th)
 
-**Spells:** Waves of exhaustion
+**Spells:** Vampiric touch (7th)
 
-**Spells:** Horrid wilting
+**Spells:** Contagion (9th)
 
-**Spells:** Soul bind
+**Spells:** Blight (11th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Circle of death (13th)
 
-**Spells:** Touch of idiocy
+**Spells:** Waves of exhaustion (15th)
 
-**Spells:** Vampiric touch
+**Spells:** Horrid wilting (17th)
 
-**Spells:** Contagion
+**Spells:** Soul bind (19th)
 
-**Br:** \~
-
-**Details:**
-[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Fast Healer](ref/feat/fast-healer)[Great Fortitude](ref/feat/great-fortitude)[Heroic Defiance](ref/feat/heroic-defiance)[Heroic Recovery](ref/feat/heroic-recovery)[Sickening Spell](ref/feat/sickening-spell)\~[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Diehard](ref/feat/diehard), [Endurance](ref/feat/endurance),
+[Fast Healer](ref/feat/fast-healer), [Great Fortitude](ref/feat/great-fortitude),
+[Heroic Defiance](ref/feat/heroic-defiance), [Heroic Recovery](ref/feat/heroic-recovery),
+[Sickening Spell](ref/feat/sickening-spell), [Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -77,17 +75,17 @@ that do not need to eat are immune to this effect.
 previous check) to avoid taking 1d6 points of nonlethal damage. The creature must continue to make
 these checks until, as a **full-round action**, it quenches its thirst or sates its hunger.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Daemonic Resistances (Ex)**
-
-**At 9th Level:** Your resistance to acid increases to 10 and your bonus on saving throws against
-poison and death effects increases to +4.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain [resist](ref/umr/resistance) acid 5 and a +2 bonus on saving throws made
 against poison and death effects.
+
+**At 9th Level:** Your resistance to acid increases to 10 and your bonus on saving throws against
+poison and death effects increases to +4.
 
 **Age Out (Su)**
 
@@ -112,8 +110,6 @@ affecting you that initially allowed a Will or Fortitude saving throw immediatel
 **Flavor:** You gain the ability to travel across the battlefield by literally erupting from the
 fatal wounds of deceased creatures.
 
-**At 20th Level:** You can use this ability twice per day.
-
 **Gained:** At 15th Level
 
 **Standard:** Once per day, you can teleport to an unoccupied square adjacent to any dead creature
@@ -121,6 +117,8 @@ within 10 feet per caster level. Any creatures adjacent to the square you telepo
 points of acid damage as you burst into being and shower them with acidic bile. Creatures that make
 successful Reflex saves (DC 10 + half your sorcerer level + your Charisma modifier) take half
 damage. This ability otherwise functions like [dimension door](ref/spell/dimension-door).
+
+**At 20th Level:** You can use this ability twice per day.
 
 **One with Abaddon (Su)**
 

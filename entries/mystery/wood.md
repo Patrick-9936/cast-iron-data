@@ -19,27 +19,28 @@ group = "oracle-mystery"
 
 **Details:** [Erastil](ref/faith/erastil), [Gozreh](ref/faith/gozreh).
 
-**Gained class skills:** climb, kna, stl, sur
+**Gained class skills:** [Climb](ref/skill/climb), [Knowledge (nature)](ref/skill/knowledge-nature),
+[Stealth](ref/skill/stealth), [Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Tree stride
+**Spells:** Shillelagh (2nd)
 
-**Spells:** Ironwood
+**Spells:** Barkskin (4th)
 
-**Spells:** Transmute metal to wood
+**Spells:** Minor creation (wood items only) (6th)
 
-**Spells:** Changestaff
+**Spells:** Thorn body (8th)
 
-**Spells:** Wooden phalanx
+**Spells:** Tree stride (10th)
 
-**Spells:** Shillelagh
+**Spells:** Ironwood (12th)
 
-**Spells:** Barkskin
+**Spells:** Transmute metal to wood (14th)
 
-**Spells:** Minor creation\|(wood items only)
+**Spells:** Changestaff (16th)
 
-**Spells:** Thorn body
+**Spells:** Wooden phalanx (18th)
 
 ### Revelations
 
@@ -167,7 +168,7 @@ equivalent increase to its critical threat range, if it is a bludgeoning weapon)
 
 **At 3rd Level:** The weapon is considered [masterwork](ref/rule/masterwork-weapons).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Woodland Stride (Ex)**
 

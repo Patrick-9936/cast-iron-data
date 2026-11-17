@@ -18,35 +18,33 @@ group = "sorcerer-bloodline"
 Your family has always been skilled in the eldritch art of magic. While many of your relatives were
 accomplished wizards, your powers developed without the need for study and practice.
 
-**Gained class skills:** ka
+**Gained class skills:** [Knowledge (arcana)](ref/skill/knowledge-arcana)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Overland flight
+**Spells:** Identify (3rd)
 
-**Spells:** True seeing
+**Spells:** Invisibility (5th)
 
-**Spells:** Greater teleport
+**Spells:** Dispel magic (7th)
 
-**Spells:** Power word stun
+**Spells:** Dimension door (9th)
 
-**Spells:** Wish
+**Spells:** Overland flight (11th)
 
-**Spells:** Identify
+**Spells:** True seeing (13th)
 
-**Spells:** Invisibility
+**Spells:** Greater teleport (15th)
 
-**Spells:** Dispel magic
+**Spells:** Power word stun (17th)
 
-**Spells:** Dimension door
+**Spells:** Wish (19th)
 
-**Br:** \~
-
-**Details:**
-[Combat Casting](ref/feat/combat-casting)[Improved Counterspell](ref/feat/improved-counterspell)[Improved Initiative](ref/feat/improved-initiative)[Iron Will](ref/feat/iron-will)[Scribe Scroll](ref/feat/scribe-scroll)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[arcana\])[Spell Focus](ref/feat/spell-focus)\~[Still Spell](ref/feat/still-spell)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Casting](ref/feat/combat-casting),
+[Improved Counterspell](ref/feat/improved-counterspell),
+[Improved Initiative](ref/feat/improved-initiative), [Iron Will](ref/feat/iron-will),
+[Scribe Scroll](ref/feat/scribe-scroll), [Skill Focus](ref/feat/skill-focus) (Knowledge \[arcana\]),
+[Spell Focus](ref/feat/spell-focus), [Still Spell](ref/feat/still-spell)
 
 **Bloodline Arcana**
 
@@ -76,11 +74,11 @@ item.
 **Ability:** You can apply any one metamagic feat you know to a spell you are about to cast without
 increasing the casting time. You must still expend a higher-level spell slot to cast this spell.
 
-**At 20th Level:** This ability is replaced by _arcane apotheosis_ (see below).
-
 **Gained:** At 3rd Level
 
 **Usage:** 1 time/day + 1 per 4 sorcerer levels beyond 3rd
+
+**At 20th Level:** This ability is replaced by _arcane apotheosis_ (see below).
 
 **New Arcana (Ex)**
 
@@ -142,4 +140,4 @@ touch attack. This ray deals an amount of damage equal to 1d4 +
 [half](ref/misc/fractions-and-rounding) of your sorcerer level. This damage is treated as a spell of
 a level equal to half your sorcerer level, and is a force effect.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day

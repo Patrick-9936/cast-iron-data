@@ -31,7 +31,7 @@ forgo all actions (standard, move, swift, immediate, and free actions, including
 opportunity) for that round; one ally of your choice within 30 feet gains the benefit of
 [haste](ref/spell/haste) for 1 round.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Grant the Initiative (Ex)**
 

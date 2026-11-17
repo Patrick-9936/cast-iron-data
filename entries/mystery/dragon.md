@@ -23,30 +23,31 @@ folk. They are deep thinkers and often quick of wit, but prideful and equally qu
 **Details:** [Dahak](ref/faith/dahak), [General Susumu](ref/faith/general-susumu),
 [Nalinivati](ref/faith/nalinivati), [Ragadahn](ref/faith/ragadahn), [Shizuru](ref/faith/shizuru).
 
-**Gained class skills:** fly, intm, per, ka
+**Gained class skills:** [Fly](ref/skill/fly), [Intimidate](ref/skill/intimidate),
+[Perception](ref/skill/perception), [Knowledge (arcana)](ref/skill/knowledge-arcana)
 
 **Special:** The oracle can take ranks in Fly even if she does not have a method of flying under her
 own power.
 
 **Bonus Spells**
 
-**Spells:** [Spell resistance](ref/rule/spell-resistance)
+**Spells:** Cause fear (2nd)
 
-**Spells:** Antimagic field
+**Spells:** Resist energy (4th)
 
-**Spells:** True seeing
+**Spells:** Fly (6th)
 
-**Spells:** Form of the dragon III
+**Spells:** Fear (8th)
 
-**Spells:** Overwhelming presence
+**Spells:** [Spell resistance](ref/rule/spell-resistance) (10th)
 
-**Spells:** Cause fear
+**Spells:** Antimagic field (12th)
 
-**Spells:** Resist energy
+**Spells:** True seeing (14th)
 
-**Spells:** Fly
+**Spells:** Form of the dragon III (16th)
 
-**Spells:** Fear
+**Spells:** Overwhelming presence (18th)
 
 **Energy Type**
 
@@ -185,7 +186,7 @@ a successful hit.
 **At 7th Level:** The damage die increases [by one step](ref/misc/damage-die-adjustments), to deal
 an amount of slashing damage equal to 1d6 (1d4 if you are Small) + your Strength modifier.
 
-**Usage:** Charisma3 modifier rounds/day
+**Usage:** 3 + Charisma modifier rounds/day
 
 **Wings of the Dragon (Su)**
 

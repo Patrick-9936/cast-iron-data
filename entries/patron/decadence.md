@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Decadence patron grants the following spells at the listed witch levels.
 
-**Spells:** Dream
+**Spells:** Negative reaction (2nd)
 
-**Spells:** Envious urge
+**Spells:** Demand offering (4th)
 
-**Spells:** Waves of ecstasy
+**Spells:** Sepia snake sigil (6th)
 
-**Spells:** Euphoric tranquility
+**Spells:** Charm monster (8th)
 
-**Spells:** Symbol of strife
+**Spells:** Dream (10th)
 
-**Spells:** Negative reaction
+**Spells:** Envious urge (12th)
 
-**Spells:** Demand offering
+**Spells:** Waves of ecstasy (14th)
 
-**Spells:** Sepia snake sigil
+**Spells:** Euphoric tranquility (16th)
 
-**Spells:** Charm monster
+**Spells:** Symbol of strife (18th)

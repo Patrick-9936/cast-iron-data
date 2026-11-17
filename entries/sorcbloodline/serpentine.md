@@ -20,35 +20,33 @@ young; your forebears were likely favored slaves anointed by their reptilian mas
 their cold cunning and subtle manipulation. While deception and a mesmeric charm are your
 birthright, you may struggle for truth in spite of your heritage.
 
-**Gained class skills:** diplo
+**Gained class skills:** [Diplomacy](ref/skill/diplomacy)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Hold monster
+**Spells:** Hypnotism (3rd)
 
-**Spells:** Mass suggestion
+**Spells:** Delay poison (5th)
 
-**Spells:** Summon monster VII\|(reptiles only)
+**Spells:** Summon monster III (reptiles only) (7th)
 
-**Spells:** Irresistible dance
+**Spells:** Poison (9th)
 
-**Spells:** Dominate monster
+**Spells:** Hold monster (11th)
 
-**Spells:** Hypnotism
+**Spells:** Mass suggestion (13th)
 
-**Spells:** Delay poison
+**Spells:** Summon monster VII (reptiles only) (15th)
 
-**Spells:** Summon monster III\|(reptiles only)
+**Spells:** Irresistible dance (17th)
 
-**Spells:** Poison
+**Spells:** Dominate monster (19th)
 
-**Br:** \~
-
-**Details:**
-[Combat Casting](ref/feat/combat-casting)[Combat Reflexes](ref/feat/combat-reflexes)[Deceitful](ref/feat/deceitful)[Deft Hands](ref/feat/deft-hands)[Persuasive](ref/feat/persuasive)[Silent Spell](ref/feat/silent-spell)[Skill Focus](ref/feat/skill-focus)
-(Bluff)\~[Stealthy](ref/feat/stealthy)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Casting](ref/feat/combat-casting),
+[Combat Reflexes](ref/feat/combat-reflexes), [Deceitful](ref/feat/deceitful),
+[Deft Hands](ref/feat/deft-hands), [Persuasive](ref/feat/persuasive),
+[Silent Spell](ref/feat/silent-spell), [Skill Focus](ref/feat/skill-focus) (Bluff),
+[Stealthy](ref/feat/stealthy)
 
 **Bloodline Arcana**
 
@@ -66,16 +64,16 @@ sinuous and seductive grace.
 
 **Action:** Free Action=
 
-**At 11th Level:** Your poison damage increases to 1d4 Con.
+**Gained:** At 1st Level
+
+**Usage:** 3 + Charisma modifier rounds/day
 
 **At 5th Level:** These fangs are considered magical for the purpose of overcoming DR and the poison
 damage increases to 1d2 Con.
 
 **At 7th Level:** Your poison requires 2 successful saves to cure.
 
-**Gained:** At 1st Level
-
-**Usage:** Charisma3 modifier rounds/day
+**At 11th Level:** Your poison damage increases to 1d4 Con.
 
 You can grow fangs. These fangs are treated as a [natural weapon](ref/umr/natural-attacks)
 inflicting 1d4 points of damage plus your Strength modifier (1d3 if you are Small) plus poison.

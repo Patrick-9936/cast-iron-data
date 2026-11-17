@@ -19,35 +19,33 @@ You have in your veins the ever-changing wildness of primal chaos, the raw essen
 creation. Your mind and spirit burst with the constant inspiration of consummate freedom, though you
 have difficulty following through on a task when another, new and exciting, catches your interest.
 
-**Gained class skills:** kp
+**Gained class skills:** [Knowledge (planes)](ref/skill/knowledge-planes)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Major creation
+**Spells:** Entropic shield (3rd)
 
-**Spells:** Disintegrate
+**Spells:** Blur (5th)
 
-**Spells:** Greater polymorph
+**Spells:** Gaseous form (7th)
 
-**Spells:** Polymorph any object
+**Spells:** Confusion (9th)
 
-**Spells:** Shapechange
+**Spells:** Major creation (11th)
 
-**Spells:** Entropic shield
+**Spells:** Disintegrate (13th)
 
-**Spells:** Blur
+**Spells:** Greater polymorph (15th)
 
-**Spells:** Gaseous form
+**Spells:** Polymorph any object (17th)
 
-**Spells:** Confusion
+**Spells:** Shapechange (19th)
 
-**Br:** \~
-
-**Details:**
-[Agile Maneuvers](ref/feat/agile-maneuvers)[Defensive Combat Training](ref/feat/defensive-combat-training)[Enlarge Spell](ref/feat/enlarge-spell)[Great Fortitude](ref/feat/great-fortitude)[Improved Great Fortitude](ref/feat/improved-great-fortitude)[Skill Focus](ref/feat/skill-focus)
-(Craft \[any\])[Spell Focus](ref/feat/spell-focus)\~[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Agile Maneuvers](ref/feat/agile-maneuvers),
+[Defensive Combat Training](ref/feat/defensive-combat-training),
+[Enlarge Spell](ref/feat/enlarge-spell), [Great Fortitude](ref/feat/great-fortitude),
+[Improved Great Fortitude](ref/feat/improved-great-fortitude), [Skill Focus](ref/feat/skill-focus)
+(Craft \[any\]), [Spell Focus](ref/feat/spell-focus), [Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -68,16 +66,16 @@ of acid damage per round to a creature entangled by it. The protoplasm dissolves
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Protean Resistances (Ex)**
-
-**At 9th Level:** You gain resist acid 10 and your save bonus increases to +4.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain [resist](ref/umr/resistance) acid 5 and a +2 bonus on saving throws against
 polymorph, petrification, and transmutation spells or effects.
+
+**At 9th Level:** You gain resist acid 10 and your save bonus increases to +4.
 
 **Reality Wrinkle (Sp)**
 
@@ -98,9 +96,9 @@ back into place. This power functions as [dimension door](ref/spell/dimension-do
 creating a mass of [black tentacles](ref/spell/black-tentacles) centered on your former location.
 Both of these effects use your sorcerer level as the caster level.
 
-**At 20th Level:** You can use this ability twice per day.
-
 **Gained:** At 15th Level
+
+**At 20th Level:** You can use this ability twice per day.
 
 **Avatar of Chaos (Ex)**
 

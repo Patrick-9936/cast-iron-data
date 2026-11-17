@@ -23,23 +23,23 @@ bright glow, like phosphorescent geodes glittering in a dark cave.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Magic stone
+**Spells:** Magic stone (1st)
 
-**Spells:** Stone call
+**Spells:** Stone call (2nd)
 
-**Spells:** Meld into stone
+**Spells:** Meld into stone (3rd)
 
-**Spells:** Wall of stone
+**Spells:** Wall of stone (4th)
 
-**Spells:** Stoneskin
+**Spells:** Stoneskin (5th)
 
-**Spells:** Stone tell
+**Spells:** Stone tell (6th)
 
-**Spells:** Statue
+**Spells:** Statue (7th)
 
-**Spells:** Repel metal or stone
+**Spells:** Repel metal or stone (8th)
 
-**Spells:** Clashing rocks
+**Spells:** Clashing rocks (9th)
 
 ### Hexes
 
@@ -122,7 +122,7 @@ weapon.
 **Standard:** The shaman can make a melee touch attack that deals an amount of acid damage equal to
 1d6 + [half](ref/misc/fractions-and-rounding) her shaman level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

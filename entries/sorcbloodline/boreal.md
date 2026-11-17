@@ -20,35 +20,33 @@ troll-born, and frost-rimed spirits. Their savage and raw energies flow down thr
 infuse you to the marrow with the chill of the polar wind, crackling auroras, and the long winter's
 night.
 
-**Gained class skills:** sur
+**Gained class skills:** [Survival](ref/skill/survival)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Cone of cold
+**Spells:** Enlarge person (3rd)
 
-**Spells:** Transformation
+**Spells:** Rage (5th)
 
-**Spells:** Giant form I
+**Spells:** Elemental aura (cold only) (7th)
 
-**Spells:** Polar ray
+**Spells:** Wall of ice (9th)
 
-**Spells:** Meteor swarm\|(dealing cold damage)
+**Spells:** Cone of cold (11th)
 
-**Spells:** Enlarge person
+**Spells:** Transformation (13th)
 
-**Spells:** Rage
+**Spells:** Giant form I (15th)
 
-**Spells:** Elemental aura\|(cold only)
+**Spells:** Polar ray (17th)
 
-**Spells:** Wall of ice
+**Spells:** Meteor swarm (dealing cold damage) (19th)
 
-**Br:** \~
-
-**Details:**
-[Arcane Strike](ref/feat/arcane-strike)[Diehard](ref/feat/diehard)[Empower Spell](ref/feat/empower-spell)[Endurance](ref/feat/endurance)[Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency)[Power Attack](ref/feat/power-attack)[Skill Focus](ref/feat/skill-focus)
-(Intimidate)\~[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Arcane Strike](ref/feat/arcane-strike), [Diehard](ref/feat/diehard),
+[Empower Spell](ref/feat/empower-spell), [Endurance](ref/feat/endurance),
+[Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency),
+[Power Attack](ref/feat/power-attack), [Skill Focus](ref/feat/skill-focus) (Intimidate),
+[Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -61,26 +59,26 @@ savagery that fewer still can withstand.
 
 **Cold Steel (Sp)**
 
-**At 9th Level:** You can confer the [icy burst](ref/magic-enh/icy-burst) property instead, but the
-duration of the power is halved.
-
 **Gained:** At 1st Level
 
 **Standard:** You can touch a weapon or up to 50 pieces of ammunition, giving it the
 [frost](ref/magic-enh/frost) property for a number of rounds equal to
 [half](ref/misc/fractions-and-rounding) your sorcerer level (minimum 1).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
+
+**At 9th Level:** You can confer the [icy burst](ref/magic-enh/icy-burst) property instead, but the
+duration of the power is halved.
 
 **Icewalker (Ex)**
 
 **Ability:** You gain [resist](ref/umr/resistance) cold 5 and can move across snow and icy surfaces
 without penalty and without leaving tracks.
 
+**Gained:** At 3rd Level
+
 **At 9th Level:** You gain resist cold 10 and can climb icy surfaces as if using
 [spider climb](ref/spell/spider-climb).
-
-**Gained:** At 3rd Level
 
 **Snow Shroud (Su)**
 
@@ -90,14 +88,14 @@ rounds per day equal to your sorcerer level. This power acts and deals damage as
 chance on attacks made against you and grants a bonus on [Stealth](ref/skill/stealth) checks equal
 to half your sorcerer level in snowy or icy areas.
 
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times per day.
-
 **Gained:** At 9th Level
 
 **Passive:** You ignore [concealment](ref/rule/concealment) and [Perception](ref/skill/perception)
 penalties in natural or magical snow, ice, fog, and similar weather conditions.
+
+**At 17th Level:** You can use this ability twice per day.
+
+**At 20th Level:** You can use this ability three times per day.
 
 **Blizzard (Sp)**
 
@@ -143,10 +141,10 @@ Sometimes you must bring the cold to your enemies.
 this save is equal to 10 + half your sorcerer level + your Charisma modifier. This power has a range
 of 60 feet.
 
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times per day.
-
 **Gained:** At 9th Level
 
 **Replaces:** Snow shroud
+
+**At 17th Level:** You can use this ability twice per day.
+
+**At 20th Level:** You can use this ability three times per day.

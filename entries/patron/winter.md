@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Winter patron grants the following spells at the listed witch levels.
 
-**Spells:** Cone of cold
+**Spells:** Unshakable chill (2nd)
 
-**Spells:** Freezing sphere
+**Spells:** Resist energy (cold only) (4th)
 
-**Spells:** Control weather
+**Spells:** Ice storm (6th)
 
-**Spells:** Polar ray
+**Spells:** Wall of ice (8th)
 
-**Spells:** Polar midnight
+**Spells:** Cone of cold (10th)
 
-**Spells:** Unshakable chill
+**Spells:** Freezing sphere (12th)
 
-**Spells:** Resist energy\|(cold only)
+**Spells:** Control weather (14th)
 
-**Spells:** Ice storm
+**Spells:** Polar ray (16th)
 
-**Spells:** Wall of ice
+**Spells:** Polar midnight (18th)

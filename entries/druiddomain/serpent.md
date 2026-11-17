@@ -35,7 +35,7 @@ can move freely through a tight space that would normally require a creature of 
 against attacks of opportunity provoked by your movement and a +2 bonus on CMB and on
 [Escape Artist](ref/skill/escape-artist) checks made to escape from a [grapple](ref/rule/grapple).
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Venom Immunity (Ex)**
 

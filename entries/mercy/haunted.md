@@ -12,11 +12,8 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The paladin's lay on hands also acts as
-[protection from evil](ref/spell/protection-from-evil), but only for the purpose of allowing a new
-saving throw against enchantment (charm) and enchantment (compulsion) effects, making the target
-immune to any attempts to possess or exercise mental control over the target, or preventing a life
-force from controlling the target (all as described in the second effect of protection from evil).
-Use the paladin's level as the caster level.
-
-**Title:** Haunted
+The paladin's lay on hands also acts as [protection from evil](ref/spell/protection-from-evil), but
+only for the purpose of allowing a new saving throw against enchantment (charm) and enchantment
+(compulsion) effects, making the target immune to any attempts to possess or exercise mental control
+over the target, or preventing a life force from controlling the target (all as described in the
+second effect of protection from evil). Use the paladin's level as the caster level.

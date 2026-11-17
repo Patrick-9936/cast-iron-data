@@ -24,16 +24,12 @@ are resistant to electricity damage.
 
 **Lightning Arc (Sp)**
 
-**Id:** arc
-
 **Standard:** Target any foe within 30 ft. with a ranged touch attack, dealing an amount of
 electricity damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your cleric level.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Electricity Resistance (Ex)**
-
-**Id:** res
 
 **At 12th Level:** Resistance increases to 20
 
@@ -52,8 +48,6 @@ electricity damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of you
 1. elemental body IV (air only)
 1. whirlwind
 1. elemental swarm (air spell only)
-
-**Save:** domain
 
 ### Cloud Subdomain
 
@@ -80,8 +74,6 @@ the cloud to move it up to 30 feet each round.
 **4th:** solid fog
 
 **9th:** storm of vengeance
-
-**From:** domain
 
 ### Lightning Subdomain
 
@@ -115,8 +107,6 @@ only once, even if it could affect the target multiple times.
 
 **3rd:** lightning bolt
 
-**From:** domain
-
 ### Wind Subdomain
 
 **Sources:** Advanced Player's Guide pg 97
@@ -135,7 +125,7 @@ Onos, Pazuzu, Rull, Seramaydiel, Sugroz, Tjasse, Uaransaph, Xiquiripat, Ylimanch
 creature in the line, using your caster level as your base attack bonus and your Wisdom modifier in
 place of your Strength modifier. Treat the results as a [bull rush](ref/rule/bull-rush) attempt.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -144,8 +134,6 @@ place of your Strength modifier. Treat the results as a [bull rush](ref/rule/bul
 **6th:** wind walk
 
 **9th:** winds of vengeance
-
-**From:** domain
 
 ### Deities
 

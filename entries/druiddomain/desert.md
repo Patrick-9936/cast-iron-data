@@ -25,7 +25,7 @@ group = "druid-domain"
 spell. Creatures that strike you in melee while you're using this ability are
 [dazzled](ref/misc/dazzled) for 1 round (Fortitude negates).
 
-**Usage:** Wisdom3 modifier rounds/day
+**Usage:** 3 + Wisdom modifier rounds/day
 
 **Servant of the Sands (Sp)**
 

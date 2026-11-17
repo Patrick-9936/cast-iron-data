@@ -41,8 +41,6 @@ other worlds, or summon monsters from beyond to do your bidding.
 
 **Guarded Mind (Ex)**
 
-**Id:** mind
-
 **Passive:** You gain a +2 insight bonus on saving throws against all mind-affecting effects.
 
 **Part the Veil (Su)**
@@ -50,8 +48,6 @@ other worlds, or summon monsters from beyond to do your bidding.
 **Action:** Swift Action
 
 **Flavor:** You can lace spells you cast with the raw madness that waits in the outer darkness.
-
-**Id:** part
 
 **Gained:** At 8th Level
 
@@ -77,8 +73,6 @@ veil is a mind-affecting effect.
 1. reverse gravity
 1. greater planar binding
 1. interplanetary teleport
-
-**Save:** domain
 
 ### Dark Tapestry Subdomain
 
@@ -109,8 +103,6 @@ spellcasting abilities gained from any other spellcasting classes you might have
 
 **7th:** insanity
 
-**From:** domain
-
 ### Isolation Subdomain
 
 **Sources:** Book of the Damned pg 181, Horror Adventures pg 49, Inner Sea Gods pg 225
@@ -129,7 +121,7 @@ effect. Furthermore, while within the aura, your enemies can't [flank](ref/rule/
 another, nor can they use or benefit from the [aid another](ref/rule/aid-another-2) action. This is
 a mind-affecting emotion effect.
 
-**Usage:** Wis3 modifier rounds/day
+**Usage:** 3 + Wisdom modifier rounds/day
 
 **Replacement Domain Spells**
 
@@ -138,8 +130,6 @@ a mind-affecting emotion effect.
 **6th:** wall of force
 
 **8th:** prismatic wall
-
-**From:** domain
 
 ### Stars Subdomain
 
@@ -165,8 +155,6 @@ damage equal to the spell's level as you cast the spell.
 **7th:** sunbeam
 
 **9th:** meteor swarm
-
-**From:** domain
 
 ### Deities
 

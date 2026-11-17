@@ -23,23 +23,23 @@ part of her and serve her whim.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Charm person
+**Spells:** Charm person (1st)
 
-**Spells:** Summon swarm
+**Spells:** Summon swarm (2nd)
 
-**Spells:** Hold person
+**Spells:** Hold person (3rd)
 
-**Spells:** Confusion
+**Spells:** Confusion (4th)
 
-**Spells:** Wall of stone
+**Spells:** Wall of stone (5th)
 
-**Spells:** Mislead
+**Spells:** Mislead (6th)
 
-**Spells:** Mass hold person
+**Spells:** Mass hold person (7th)
 
-**Spells:** Maze
+**Spells:** Maze (8th)
 
-**Spells:** Imprisonment
+**Spells:** Imprisonment (9th)
 
 ### Hexes
 
@@ -70,7 +70,7 @@ person, the curse ends and the coin becomes a mundane piece of tender again.
 **Swift:** The shaman channels the city's spirit through herself, gaining a +4 bonus on all
 Dexterity- and Wisdom-based skill checks.
 
-**Usage:** Charisma3 modifier rounds/day
+**Usage:** 3 + Charisma modifier rounds/day
 
 **Ward of the City (Su)**
 
@@ -142,7 +142,7 @@ ability upon having access to the true version of that spirit.
 the alleys and shadows. She gains the ability to make [sneak attacks](ref/ability/sneak-attack) as a
 [rogue](ref/class/rogue) of her shaman level for 1 minute or until dismissed.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Manifestation
 

@@ -22,11 +22,11 @@ infused you with shadow.
 
 **Passive:** You also gain [light blindness](ref/umr/light-blindness).
 
-**Spells:** Shadow walk
+**Spells:** Shadow conjuration (8th)
 
-**Spells:** Greater shadow evocation
+**Spells:** Shadow walk (12th)
 
-**Spells:** Shadow conjuration
+**Spells:** Greater shadow evocation (16th)
 
 **Available patron themes:** [Death](ref/patron/death), [Deception](ref/patron/deception),
 [Ethereal](ref/patron/ethereal), [Shadow](ref/patron/shadow)

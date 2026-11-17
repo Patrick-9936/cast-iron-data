@@ -19,35 +19,32 @@ Generations ago, a [demon](ref/family/demon) spread its filth into your heritage
 manifest in all of your kin, for you it is particularly strong. You might sometimes have urges to
 chaos or evil, but your destiny (and alignment) is up to you.
 
-**Gained class skills:** kp
+**Gained class skills:** [Knowledge (planes)](ref/skill/knowledge-planes)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Dismissal
+**Spells:** Cause fear (3rd)
 
-**Spells:** Transformation
+**Spells:** Bull's strength (5th)
 
-**Spells:** Greater teleport
+**Spells:** Rage (7th)
 
-**Spells:** Unholy aura
+**Spells:** Stoneskin (9th)
 
-**Spells:** Summon monster IX
+**Spells:** Dismissal (11th)
 
-**Spells:** Cause fear
+**Spells:** Transformation (13th)
 
-**Spells:** Bull's strength
+**Spells:** Greater teleport (15th)
 
-**Spells:** Rage
+**Spells:** Unholy aura (17th)
 
-**Spells:** Stoneskin
+**Spells:** Summon monster IX (19th)
 
-**Br:** \~
-
-**Details:**
-[Augment Summoning](ref/feat/augment-summoning)[Cleave](ref/feat/cleave)[Empower Spell](ref/feat/empower-spell)[Great Fortitude](ref/feat/great-fortitude)[Improved Bull Rush](ref/feat/improved-bull-rush)[Improved Sunder](ref/feat/improved-sunder)[Power Attack](ref/feat/power-attack)\~[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[planes\])
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Augment Summoning](ref/feat/augment-summoning), [Cleave](ref/feat/cleave),
+[Empower Spell](ref/feat/empower-spell), [Great Fortitude](ref/feat/great-fortitude),
+[Improved Bull Rush](ref/feat/improved-bull-rush), [Improved Sunder](ref/feat/improved-sunder),
+[Power Attack](ref/feat/power-attack), [Skill Focus](ref/feat/skill-focus) (Knowledge \[planes\])
 
 **Bloodline Arcana**
 
@@ -66,26 +63,26 @@ grows as you gain power.
 allowing you to make two claw attacks as a full attack action using your full base attack bonus.
 These attacks deal 1d4 points of damage each (1d3 if you are Small) plus your Strength modifier.
 
-**At 11th Level:** These claws become [flaming](ref/magic-enh/flaming) weapons, each dealing an
-additional 1d6 points of fire damage on a successful hit.
+**Gained:** At 1st Level
+
+**Usage:** 3 + Charisma modifier rounds/day
 
 **At 5th Level:** These claws are considered magic weapons for the purpose of overcoming DR.
 
 **At 7th Level:** The damage increases by one step to 1d6 points of damage (1d4 if you are Small).
 
-**Gained:** At 1st Level
-
-**Usage:** Charisma3 modifier rounds/day
+**At 11th Level:** These claws become [flaming](ref/magic-enh/flaming) weapons, each dealing an
+additional 1d6 points of fire damage on a successful hit.
 
 **Demon Resistances (Ex)**
-
-**At 9th Level:** Your resistance to electricity increases to 10 and your bonus on poison saving
-throws increases to +4.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain [resist](ref/umr/resistance) electricity 5 and a +2 bonus on saving throws
 made against poison.
+
+**At 9th Level:** Your resistance to electricity increases to 10 and your bonus on poison saving
+throws increases to +4.
 
 **Strength of the Abyss (Ex)**
 

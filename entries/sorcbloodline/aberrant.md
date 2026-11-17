@@ -19,35 +19,34 @@ There is a taint in your blood, one that is alien and bizarre. You tend to think
 approaching problems from an angle that most would not expect. Over time, this taint manifests
 itself in your physical form.
 
-**Gained class skills:** kd
+**Gained class skills:** [Knowledge (dungeoneering)](ref/skill/knowledge-dungeoneering)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Feeblemind
+**Spells:** Enlarge person (3rd)
 
-**Spells:** Veil
+**Spells:** See invisibility (5th)
 
-**Spells:** Plane shift
+**Spells:** Tongues (7th)
 
-**Spells:** Mind blank
+**Spells:** Black tentacles (9th)
 
-**Spells:** Shapechange
+**Spells:** Feeblemind (11th)
 
-**Spells:** Enlarge person
+**Spells:** Veil (13th)
 
-**Spells:** See invisibility
+**Spells:** Plane shift (15th)
 
-**Spells:** Tongues
+**Spells:** Mind blank (17th)
 
-**Spells:** Black tentacles
+**Spells:** Shapechange (19th)
 
-**Br:** \~
-
-**Details:**
-[Combat Casting](ref/feat/combat-casting)[Improved Disarm](ref/feat/improved-disarm)[Improved Grapple](ref/feat/improved-grapple)[Improved Initiative](ref/feat/improved-initiative)[Improved Unarmed Strike](ref/feat/improved-unarmed-strike)[Iron Will](ref/feat/iron-will)[Silent Spell](ref/feat/silent-spell)\~[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[dungeoneering\])
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Combat Casting](ref/feat/combat-casting),
+[Improved Disarm](ref/feat/improved-disarm), [Improved Grapple](ref/feat/improved-grapple),
+[Improved Initiative](ref/feat/improved-initiative),
+[Improved Unarmed Strike](ref/feat/improved-unarmed-strike), [Iron Will](ref/feat/iron-will),
+[Silent Spell](ref/feat/silent-spell), [Skill Focus](ref/feat/skill-focus) (Knowledge
+\[dungeoneering\])
 
 **Bloodline Arcana**
 
@@ -68,27 +67,27 @@ although they are only visible when used.
 The acidic ray deals acid damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your
 sorcerer level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Long Limbs (Ex)**
 
 **Ability:** Your reach increases by 5 feet whenever you are making a melee touch attack. This
 ability does not otherwise increase your threatened area.
 
+**Gained:** At 3rd Level
+
 **At 11th Level:** This bonus to your reach increases to 10 feet.
 
 **At 17th Level:** This bonus to your reach increases to 15 feet.
 
-**Gained:** At 3rd Level
-
 **Unusual Anatomy (Ex)**
-
-**At 13th Level:** This chance increases to 50%.
 
 **Gained:** At 9th Level
 
 **Passive:** Your anatomy changes, giving you a 25% chance to ignore any critical hit or sneak
 attack scored against you.
+
+**At 13th Level:** This chance increases to 50%.
 
 **Alien Resistance (Su)**
 
@@ -132,7 +131,7 @@ negates; DC 10 + half your sorcerer level + your Charisma modifier).
 
 **Replaces:** Acidic ray
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 |d12|Effect|
 | --- | --- |

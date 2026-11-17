@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Entropy patron grants the following spells at the listed witch levels.
 
-**Spells:** Feeblemind
+**Spells:** Lesser confusion (2nd)
 
-**Spells:** Antimagic field
+**Spells:** Plague carrier (4th)
 
-**Spells:** Insanity
+**Spells:** Babble (6th)
 
-**Spells:** Symbol of insanity
+**Spells:** Wandering star motes (8th)
 
-**Spells:** Interplanetary teleport
+**Spells:** Feeblemind (10th)
 
-**Spells:** Lesser confusion
+**Spells:** Antimagic field (12th)
 
-**Spells:** Plague carrier
+**Spells:** Insanity (14th)
 
-**Spells:** Babble
+**Spells:** Symbol of insanity (16th)
 
-**Spells:** Wandering star motes
+**Spells:** Interplanetary teleport (18th)

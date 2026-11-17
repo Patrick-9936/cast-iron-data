@@ -30,7 +30,7 @@ levels from other classes that grant familiars when determining the powers of yo
 **Swift:** You may add a bonus equal to [half](ref/misc/fractions-and-rounding) your druid level
 (minimum +1) on one ranged attack or on one [Perception](ref/skill/perception) check.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Aerial evasion (Ex)**
 

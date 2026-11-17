@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Mountain patron grants the following spells at the listed witch levels.
 
-**Spells:** Wall of stone
+**Spells:** Stone fist (2nd)
 
-**Spells:** Flesh to stone
+**Spells:** Stone call (4th)
 
-**Spells:** Stone tell
+**Spells:** Stone shape (6th)
 
-**Spells:** Repel metal or stone
+**Spells:** Spike stones (8th)
 
-**Spells:** Clashing rocks
+**Spells:** Wall of stone (10th)
 
-**Spells:** Stone fist
+**Spells:** Flesh to stone (12th)
 
-**Spells:** Stone call
+**Spells:** Stone tell (14th)
 
-**Spells:** Stone shape
+**Spells:** Repel metal or stone (16th)
 
-**Spells:** Spike stones
+**Spells:** Clashing rocks (18th)

@@ -22,22 +22,20 @@ your lineage traces back to a medusa, or an ancestor survived a medusa's petrify
 forever changed by the experience. However the medusa's influence entered your bloodline, when you
 _bloodrage,_ you gain fearsome and ancient powers.
 
-**Br:** \~
-
-**Details:**
-[Alertness](ref/feat/alertness)[Blind-Fight](ref/feat/blind-fight)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Improved Unarmed Strike](ref/feat/improved-unarmed-strike)[Intimidating Prowess](ref/feat/intimidating-prowess)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Alertness](ref/feat/alertness), [Blind-Fight](ref/feat/blind-fight),
+[Great Fortitude](ref/feat/great-fortitude), [Improved Initiative](ref/feat/improved-initiative),
+[Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
+[Intimidating Prowess](ref/feat/intimidating-prowess), [Toughness](ref/feat/toughness)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Resist energy
+**Spells:** Cause fear (7th)
 
-**Spells:** Hold person
+**Spells:** Resist energy (10th)
 
-**Spells:** Stoneskin
+**Spells:** Hold person (13th)
 
-**Spells:** Cause fear
+**Spells:** Stoneskin (16th)
 
 ### Bloodline Powers
 
@@ -55,12 +53,12 @@ modifier.
 
 **Gift of the Ancients (Su)**
 
-**At 8th Level:** These bonuses increase to +4.
-
 **Gained:** At 4th Level
 
 **Passive:** You gain a +2 resistance bonus on saving throws against [gaze](ref/umr/gaze) attacks
 and to resist poison. You also gain a +2 competence bonus on Perception checks.
+
+**At 8th Level:** These bonuses increase to +4.
 
 **Staggering Gaze (Su)**
 

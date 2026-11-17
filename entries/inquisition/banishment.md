@@ -31,7 +31,7 @@ a Will save (DC 10 + 1/2 your inquisitor level + your Wisdom modifier) or become
 [shaken](ref/misc/shaken) for 1d4 rounds. If the creature touched is an evil outsider, it becomes
 [frightened](ref/misc/frightened) instead of shaken.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Dismissive Touch (Sp)**
 

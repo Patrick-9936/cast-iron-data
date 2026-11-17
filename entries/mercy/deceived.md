@@ -12,7 +12,5 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The target can immediately attempt a new saving throw to disbelieve any ongoing
-illusions that it failed to disbelieve within the last minute.
-
-**Title:** Deceived
+The target can immediately attempt a new saving throw to disbelieve any ongoing illusions that it
+failed to disbelieve within the last minute.

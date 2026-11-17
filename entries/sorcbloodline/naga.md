@@ -19,35 +19,33 @@ Naga blood flows within your veins. Perhaps a curious naga experimented upon one
 in an attempt to create the perfect servant, or maybe one of your ancestors was a shapeshifting
 naga. Either way, you boast powers similar to those of true nagas.
 
-**Gained class skills:** kd
+**Gained class skills:** [Knowledge (dungeoneering)](ref/skill/knowledge-dungeoneering)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Dominate person
+**Spells:** Ray of enfeeblement (3rd)
 
-**Spells:** Veil
+**Spells:** Invisibility (5th)
 
-**Spells:** Limited wish
+**Spells:** Lightning bolt (7th)
 
-**Spells:** Mass charm monster
+**Spells:** Poison (9th)
 
-**Spells:** Shapechange
+**Spells:** Dominate person (11th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Veil (13th)
 
-**Spells:** Invisibility
+**Spells:** Limited wish (15th)
 
-**Spells:** Lightning bolt
+**Spells:** Mass charm monster (17th)
 
-**Spells:** Poison
+**Spells:** Shapechange (19th)
 
-**Br:** \~
-
-**Details:**
-[Alertness](ref/feat/alertness)[Blind-Fight](ref/feat/blind-fight)[Combat Casting](ref/feat/combat-casting)[Dodge](ref/feat/dodge)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[dungeoneering\])\~[Stealthy](ref/feat/stealthy)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Alertness](ref/feat/alertness), [Blind-Fight](ref/feat/blind-fight),
+[Combat Casting](ref/feat/combat-casting), [Dodge](ref/feat/dodge),
+[Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Skill Focus](ref/feat/skill-focus) (Knowledge
+\[dungeoneering\]), [Stealthy](ref/feat/stealthy)
 
 **Bloodline Arcana**
 
@@ -69,11 +67,11 @@ rounds need not be used consecutively.
 
 **Naga Resistances (Ex)**
 
-**At 9th Level:** This bonus increases to +4.
-
 **Gained:** At 3rd Level
 
 **Passive:** You gain a +2 bonus on saving throws against mind-affecting effects and poison effects.
+
+**At 9th Level:** This bonus increases to +4.
 
 **Ensnaring Eyes (Su)**
 

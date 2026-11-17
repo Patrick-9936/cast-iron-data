@@ -38,7 +38,7 @@ spell.
 [magic missile](ref/spell/magic-missile). The force missile deals 1d4 points of damage plus the
 damage from your intense spells evocation power. This is a force effect.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Elemental Wall (Sp)**
 
@@ -69,7 +69,7 @@ Such effects are subject to GM discretion.
 
 **Gained:** At 1st Level
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Elemental Manipulation (Su)**
 
@@ -115,4 +115,4 @@ Objects are not thrown with enough force to cause damage, although fragile objec
 weapons shatter on contact with a creature or hard surface. To hit a creature with an object, you
 must succeed at a ranged touch attack.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day

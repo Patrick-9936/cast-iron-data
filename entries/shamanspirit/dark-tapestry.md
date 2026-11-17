@@ -39,23 +39,23 @@ horrors such as [Nyarlathotep](ref/faith/nyarlathotep-faceless-sphinx),
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Entropic shield
+**Spells:** Entropic shield (1st)
 
-**Spells:** Contact entity I
+**Spells:** Contact entity I (2nd)
 
-**Spells:** Contact entity II
+**Spells:** Contact entity II (3rd)
 
-**Spells:** Black tentacles
+**Spells:** Black tentacles (4th)
 
-**Spells:** Contact entity III
+**Spells:** Contact entity III (5th)
 
-**Spells:** Feeblemind
+**Spells:** Feeblemind (6th)
 
-**Spells:** Contact entity IV
+**Spells:** Contact entity IV (7th)
 
-**Spells:** Insanity
+**Spells:** Insanity (8th)
 
-**Spells:** Interplanetary teleport
+**Spells:** Interplanetary teleport (9th)
 
 ### Hexes
 
@@ -152,7 +152,7 @@ to half the shaman's level. This has no effect on creatures that are already fat
 **Standard:** The shaman is able to perform a melee touch attack that deals an amount of cold damage
 equal to 1d6 + [half](ref/misc/fractions-and-rounding) her shaman level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

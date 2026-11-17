@@ -21,35 +21,33 @@ group = "sorcerer-bloodline"
 You were born with the power of water genies, and the magic of the [marids](ref/monster/genie-marid)
 is strong in you.
 
-**Gained class skills:** kp
+**Gained class skills:** [Knowledge (planes)](ref/skill/knowledge-planes)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Persistent image
+**Spells:** Obscuring mist (3rd)
 
-**Spells:** Elemental body III
+**Spells:** See invisibility (5th)
 
-**Spells:** Plane shift
+**Spells:** Gaseous form (7th)
 
-**Spells:** Polar ray
+**Spells:** Wall of ice (9th)
 
-**Spells:** Wish
+**Spells:** Persistent image (11th)
 
-**Spells:** Obscuring mist
+**Spells:** Elemental body III (13th)
 
-**Spells:** See invisibility
+**Spells:** Plane shift (15th)
 
-**Spells:** Gaseous form
+**Spells:** Polar ray (17th)
 
-**Spells:** Wall of ice
+**Spells:** Wish (19th)
 
-**Br:** \~
-
-**Details:**
-[Dodge](ref/feat/dodge)[Empower Spell](ref/feat/empower-spell)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Power Attack](ref/feat/power-attack)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[planes\])\~[Weapon Finesse](ref/feat/weapon-finesse))
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Dodge](ref/feat/dodge), [Empower Spell](ref/feat/empower-spell),
+[Great Fortitude](ref/feat/great-fortitude), [Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Power Attack](ref/feat/power-attack),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[planes\]),
+[Weapon Finesse](ref/feat/weapon-finesse)
 
 **Bloodline Arcana**
 
@@ -68,15 +66,15 @@ Like a marid, you have both natural power over water and several other genie-bas
 attack. This ray deals cold damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your
 sorcerer level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Elemental Resistance (Ex)**
-
-**At 9th Level:** Your cold resistance increases to 20.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain cold resistance 10.
+
+**At 9th Level:** Your cold resistance increases to 20.
 
 **Water's Fury (Su)**
 

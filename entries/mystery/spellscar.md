@@ -20,27 +20,29 @@ group = "oracle-mystery"
 **Details:** [Gozreh](ref/faith/gozreh), [Lamashtu](ref/faith/lamashtu), [Nethys](ref/faith/nethys),
 [Zyphus](ref/faith/zyphus)
 
-**Gained class skills:** ka, kna, sur, umd
+**Gained class skills:** [Knowledge (arcana)](ref/skill/knowledge-arcana),
+[Knowledge (nature)](ref/skill/knowledge-nature), [Survival](ref/skill/survival),
+[Use Magic Device](ref/skill/use-magic-device)
 
 **Bonus Spells**
 
-**Spells:** Break enchantment
+**Spells:** Ray of enfeeblement (2nd)
 
-**Spells:** Antimagic field
+**Spells:** Obscure object (4th)
 
-**Spells:** Spell turning
+**Spells:** Dispel magic (6th)
 
-**Spells:** Spellscar
+**Spells:** Lesser globe of invulnerability (8th)
 
-**Spells:** Mage's disjunction
+**Spells:** Break enchantment (10th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Antimagic field (12th)
 
-**Spells:** Obscure object
+**Spells:** Spell turning (14th)
 
-**Spells:** Dispel magic
+**Spells:** Spellscar (16th)
 
-**Spells:** Lesser globe of invulnerability
+**Spells:** Mage's disjunction (18th)
 
 ### Revelations
 
@@ -69,7 +71,7 @@ damage equal to 1d8 + [half](ref/misc/fractions-and-rounding) of your oracle lev
 
 **At 10th Level:** The bolt's range increases to 60 feet.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Eldritch Resistance (Su)**
 

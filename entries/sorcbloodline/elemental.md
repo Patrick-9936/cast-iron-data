@@ -22,38 +22,36 @@ The power of the elements resides in you, and at times you can hardly control it
 influence comes from an elemental outsider in your family history or a time when you or your
 relatives were exposed to a powerful elemental force.
 
-**Gained class skills:** kp
+**Gained class skills:** [Knowledge (planes)](ref/skill/knowledge-planes)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Elemental body II
+**Spells:** Burning hands\* (3rd)
 
-**Spells:** Elemental body III
+**Spells:** Scorching ray\* (5th)
 
-**Spells:** Elemental body IV
+**Spells:** Protection from energy (7th)
 
-**Spells:** Summon monster VIII\|(elementals only)
+**Spells:** Elemental body I (9th)
 
-**Spells:** Elemental swarm
+**Spells:** Elemental body II (11th)
 
-**Spells:** Burning hands\|\*
+**Spells:** Elemental body III (13th)
 
-**Spells:** Scorching ray\|\*
+**Spells:** Elemental body IV (15th)
 
-**Spells:** Protection from energy
+**Spells:** Summon monster VIII (elementals only) (17th)
 
-**Spells:** Elemental body I
+**Spells:** Elemental swarm (19th)
 
 \*These spells always deal a type of damage determined by your element. In addition, the subtype of
 these spells changes to match the energy type of your element.
 
-**Br:** \~
-
-**Details:**
-[Dodge](ref/feat/dodge)[Empower Spell](ref/feat/empower-spell)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Power Attack](ref/feat/power-attack)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[planes\])\~[Weapon Finesse](ref/feat/weapon-finesse))
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Dodge](ref/feat/dodge), [Empower Spell](ref/feat/empower-spell),
+[Great Fortitude](ref/feat/great-fortitude), [Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Power Attack](ref/feat/power-attack),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[planes\]),
+[Weapon Finesse](ref/feat/weapon-finesse)
 
 **Bloodline Arcana**
 
@@ -83,15 +81,15 @@ element, as noted below.
 attack. This ray deals an amount of damage of your energy type equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) of your sorcerer level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Elemental Resistance (Ex)**
-
-**At 9th Level:** Your energy resistance increases to 20.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain energy [resistance](ref/umr/resistance) 10 against your energy type.
+
+**At 9th Level:** Your energy resistance increases to 20.
 
 **Elemental Blast (Sp)**
 
@@ -101,11 +99,11 @@ caught in the area of your blast receive a Reflex save for half damage. Creature
 saves gain vulnerability to your energy type until the end of your next turn. The DC of this save is
 equal to 10 + half your sorcerer level + your Charisma modifier. This power has a range of 60 feet.
 
+**Gained:** At 9th Level
+
 **At 17th Level:** You can use this ability twice per day.
 
 **At 20th Level:** You can use this ability three times per day.
-
-**Gained:** At 9th Level
 
 **Elemental Movement (Su)**
 
@@ -172,11 +170,11 @@ sickened. Creatures affected by a more extreme version of the chosen condition (
 for fatigued, frightened for shaken, and nauseated for sickened) have their condition reduced to the
 less extreme version.
 
+**Gained:** At 9th Level
+
+**Replaces:** Elemental blast
+
 **At 17th Level:** You can use this ability twice per day, and you can choose from the following
 additional conditions: blinded, deafened, dazed, and staggered.
 
 **At 20th Level:** You can use this ability three times per day.
-
-**Gained:** At 9th Level
-
-**Replaces:** Elemental blast

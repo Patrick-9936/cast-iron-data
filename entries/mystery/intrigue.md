@@ -19,27 +19,28 @@ group = "oracle-mystery"
 
 **Details:** [Calistria](ref/faith/calistria), [Norgorber](ref/faith/norgorber)
 
-**Gained class skills:** bluff, dis, soh, stl
+**Gained class skills:** [Bluff](ref/skill/bluff), [Disguise](ref/skill/disguise),
+[Sleight of Hand](ref/skill/sleight-of-hand), [Stealth](ref/skill/stealth)
 
 **Bonus Spells**
 
-**Spells:** True seeing
+**Spells:** Charm person (2nd)
 
-**Spells:** Symbol of persuasion
+**Spells:** False belief (4th)
 
-**Spells:** Greater scrying
+**Spells:** Suggestion (6th)
 
-**Spells:** Mind blank
+**Spells:** Sending (8th)
 
-**Spells:** Overwhelming presence
+**Spells:** True seeing (10th)
 
-**Spells:** Charm person
+**Spells:** Symbol of persuasion (12th)
 
-**Spells:** False belief
+**Spells:** Greater scrying (14th)
 
-**Spells:** Suggestion
+**Spells:** Mind blank (16th)
 
-**Spells:** Sending
+**Spells:** Overwhelming presence (18th)
 
 ### Revelations
 

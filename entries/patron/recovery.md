@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Recovery patron grants the following spells at the listed witch levels.
 
-**Spells:** Cleanse
+**Spells:** Liberating command (2nd)
 
-**Spells:** Heroes' feast
+**Spells:** Remove paralysis (4th)
 
-**Spells:** Joyful rapture
+**Spells:** Sacred bond (6th)
 
-**Spells:** Protection from spells
+**Spells:** Freedom of movement (8th)
 
-**Spells:** Mass heal
+**Spells:** Cleanse (10th)
 
-**Spells:** Liberating command
+**Spells:** Heroes' feast (12th)
 
-**Spells:** Remove paralysis
+**Spells:** Joyful rapture (14th)
 
-**Spells:** Sacred bond
+**Spells:** Protection from spells (16th)
 
-**Spells:** Freedom of movement
+**Spells:** Mass heal (18th)

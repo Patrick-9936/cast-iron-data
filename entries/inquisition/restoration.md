@@ -30,7 +30,7 @@ You are a healer, not just of people but also of sacred sites tainted by enemies
 [half](ref/misc/fractions-and-rounding) of your inquisitor level. You can use this ability only on a
 broken object or a creature with fewer than half its maximum hit points.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Cleanse Impunity (Su)**
 

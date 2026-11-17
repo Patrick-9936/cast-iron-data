@@ -12,7 +12,5 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The paladin's lay on hands ability also acts as
-[neutralize poison](ref/spell/neutralize-poison), using the paladin's level as the caster level.
-
-**Title:** Poisoned
+The paladin's lay on hands ability also acts as [neutralize poison](ref/spell/neutralize-poison),
+using the paladin's level as the caster level.

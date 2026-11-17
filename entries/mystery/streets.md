@@ -20,27 +20,28 @@ group = "oracle-mystery"
 **Details:** [Cayden Cailean](ref/faith/cayden-cailean), [Milani](ref/faith/milani),
 [Norgorber](ref/faith/norgorber).
 
-**Gained class skills:** bluff, kl, per, stl
+**Gained class skills:** [Bluff](ref/skill/bluff), [Knowledge (local)](ref/skill/knowledge-local),
+[Perception](ref/skill/perception), [Stealth](ref/skill/stealth)
 
 **Bonus Spells**
 
-**Spells:** False vision
+**Spells:** Disguise self (2nd)
 
-**Spells:** Getaway
+**Spells:** Detect thoughts (4th)
 
-**Spells:** Screen
+**Spells:** Glyph of warding (6th)
 
-**Spells:** Mage's magnificent mansion
+**Spells:** Illusory wall (8th)
 
-**Spells:** Clone
+**Spells:** False vision (10th)
 
-**Spells:** Disguise self
+**Spells:** Getaway (12th)
 
-**Spells:** Detect thoughts
+**Spells:** Screen (14th)
 
-**Spells:** Glyph of warding
+**Spells:** Mage's magnificent mansion (16th)
 
-**Spells:** Illusory wall
+**Spells:** Clone (18th)
 
 ### Revelations
 

@@ -34,7 +34,7 @@ grapple check to roll wildly, knocking your enemy [prone](ref/rule/prone) and de
 damage. When using this ability, you gain a bonus to your CMB equal to one half your druid level
 (minimum 1).
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Ambush (Ex)**
 

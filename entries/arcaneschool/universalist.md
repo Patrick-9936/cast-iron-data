@@ -31,7 +31,7 @@ attack is treated as a ranged attack with a thrown weapon, except that you add y
 modifier on the attack roll instead of your Dexterity modifier (damage still relies on Strength).
 This ability cannot be used to perform a combat maneuver.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Metamagic Mastery (Su)**
 

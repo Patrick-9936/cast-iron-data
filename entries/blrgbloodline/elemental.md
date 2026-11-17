@@ -21,12 +21,10 @@ The power of the elements resides in you, and at times you can hardly control it
 influence comes either from an elemental outsider in your family history or from a moment when you
 or your ancestors were exposed to a powerful elemental force or cataclysm.
 
-**Br:** \~
-
-**Details:**
-[Cleave](ref/feat/cleave)[Dodge](ref/feat/dodge)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Lightning Reflexes](ref/feat/lightning-reflexes)[Power Attack](ref/feat/power-attack)[Weapon Focus](ref/feat/weapon-focus)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Cleave](ref/feat/cleave), [Dodge](ref/feat/dodge),
+[Great Fortitude](ref/feat/great-fortitude), [Improved Initiative](ref/feat/improved-initiative),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Power Attack](ref/feat/power-attack),
+[Weapon Focus](ref/feat/weapon-focus)
 
 **Bonus Spells by Bloodrager Level**
 
@@ -34,13 +32,13 @@ or your ancestors were exposed to a powerful elemental force or cataclysm.
 element, regardless of the spell's normal effects. In addition, the subtype of these spells changes
 to match the energy type of your element.
 
-**Spells:** Scorching ray\|\*
+**Spells:** Burning hands\* (7th)
 
-**Spells:** Protection from energy
+**Spells:** Scorching ray\* (10th)
 
-**Spells:** Elemental body I
+**Spells:** Protection from energy (13th)
 
-**Spells:** Burning hands\|\*
+**Spells:** Elemental body I (16th)
 
 ### Bloodline Powers
 
@@ -60,11 +58,6 @@ noted below.
 
 **Elemental Strikes (Su)**
 
-**At 20th Level:** All of your melee attacks deal this damage, and this ability no longer requires a
-swift action to activate.
-
-**At 8th Level:** You can now use this five times a day.
-
 **Gained:** At 1st Level
 
 **Swift:** You can imbue your melee attacks with elemental energy. For 1 round, your melee attacks
@@ -73,6 +66,11 @@ deal 1d6 points of additional damage of your energy type.
 **Usage:** 3 times/day.
 
 **Usage:** 3 times/day.
+
+**At 8th Level:** You can now use this five times a day.
+
+**At 20th Level:** All of your melee attacks deal this damage, and this ability no longer requires a
+swift action to activate.
 
 **Elemental Resistance (Ex)**
 

@@ -20,23 +20,20 @@ group = "bloodrager-bloodline"
 The anger in your blood rises from the ocean depths, seeded by descent from undersea empires,
 creeping ichthyic infiltrators into remote seaside villages, or something deeper still.
 
-**Br:** \~
-
-**Details:**
-[Aquadynamic Focus](ref/feat/aquadynamic-focus)[Dodge](ref/feat/dodge)[Lightning Reflexes](ref/feat/lightning-reflexes)[Mobility](ref/feat/mobility)[Skill Focus](ref/feat/skill-focus)
-(Fly)[Steam Spell](ref/feat/steam-spell)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Aquadynamic Focus](ref/feat/aquadynamic-focus), [Dodge](ref/feat/dodge),
+[Lightning Reflexes](ref/feat/lightning-reflexes), [Mobility](ref/feat/mobility),
+[Skill Focus](ref/feat/skill-focus) (Fly), [Steam Spell](ref/feat/steam-spell),
+[Toughness](ref/feat/toughness)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Slipstream
+**Spells:** Hydraulic push (7th)
 
-**Spells:** Hydraulic torrent
+**Spells:** Slipstream (10th)
 
-**Spells:** Control water
+**Spells:** Hydraulic torrent (13th)
 
-**Spells:** Hydraulic push
+**Spells:** Control water (16th)
 
 ### Bloodline Powers
 
@@ -49,15 +46,15 @@ penalties.
 
 **Aquatic Adaptation (Ex)**
 
-**At 12th Level:** Your swim speed increases to 60 feet, and you have the 4th-level benefits of
-aquatic adaptation constantly, even when not in _bloodrage_ (but not the 8th- and 12th-level
-benefits).
-
-**At 8th Level:** You gain cold [resistance](ref/umr/resistance) 5.
-
 **Gained:** At 4th Level
 
 **Passive:** You gain a swim speed of 30 feet and the ability to breathe both underwater and in air.
+
+**At 8th Level:** You gain cold [resistance](ref/umr/resistance) 5.
+
+**At 12th Level:** Your swim speed increases to 60 feet, and you have the 4th-level benefits of
+aquatic adaptation constantly, even when not in _bloodrage_ (but not the 8th- and 12th-level
+benefits).
 
 **Watersense (Ex)**
 

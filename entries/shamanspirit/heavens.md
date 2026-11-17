@@ -23,23 +23,23 @@ eyes turn pitch black and the colors around her drain for a brief moment.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Color spray
+**Spells:** Color spray (1st)
 
-**Spells:** Hypnotic pattern
+**Spells:** Hypnotic pattern (2nd)
 
-**Spells:** Daylight
+**Spells:** Daylight (3rd)
 
-**Spells:** Rainbow pattern
+**Spells:** Rainbow pattern (4th)
 
-**Spells:** Overland flight
+**Spells:** Overland flight (5th)
 
-**Spells:** Chain lightning
+**Spells:** Chain lightning (6th)
 
-**Spells:** Prismatic spray
+**Spells:** Prismatic spray (7th)
 
-**Spells:** Sunburst
+**Spells:** Sunburst (8th)
 
-**Spells:** Meteor swarm
+**Spells:** Meteor swarm (9th)
 
 ### Hexes
 
@@ -131,7 +131,7 @@ from [concealment](ref/rule/concealment) or any invisibility effects. The creatu
 on attack rolls and sight-based Perception checks. This penalty is equal to one-fourth of her shaman
 level. This effect lasts for a number of rounds equal to half the shaman's level (minimum 1).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

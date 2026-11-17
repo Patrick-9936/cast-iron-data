@@ -73,10 +73,10 @@ innocent against the predation of dragons.
 
 **Oath Spells**
 
-**Spells:** Enlarge person
+**Spells:** Enlarge person (1st)
 
-**Spells:** Bear's endurance
+**Spells:** Bear's endurance (2nd)
 
-**Spells:** Fly
+**Spells:** Fly (3rd)
 
-**Spells:** Stoneskin
+**Spells:** Stoneskin (4th)

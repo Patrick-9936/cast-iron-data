@@ -23,23 +23,23 @@ at, seeing the secrets of the essential merely by concentrating.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Identify
+**Spells:** Identify (1st)
 
-**Spells:** Tongues
+**Spells:** Tongues (2nd)
 
-**Spells:** Locate object
+**Spells:** Locate object (3rd)
 
-**Spells:** Legend lore
+**Spells:** Legend lore (4th)
 
-**Spells:** Contact other plane
+**Spells:** Contact other plane (5th)
 
-**Spells:** Mass owl's wisdom
+**Spells:** Mass owl's wisdom (6th)
 
-**Spells:** Vision
+**Spells:** Vision (7th)
 
-**Spells:** Moment of prescience
+**Spells:** Moment of prescience (8th)
 
-**Spells:** Time stop
+**Spells:** Time stop (9th)
 
 ### Hexes
 
@@ -128,7 +128,7 @@ that creature. These bonuses last for 1 minute.
 a creature and its abilities (using the appropriate skill for the monster's type) with an insight
 bonus equal to her shaman level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

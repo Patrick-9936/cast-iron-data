@@ -20,35 +20,33 @@ that pact has influenced your family line ever since. In you, it manifests in di
 ways, granting you powers and abilities. While your fate is still your own, you can't help but
 wonder if your ultimate reward is bound to the Pit.
 
-**Gained class skills:** diplo
+**Gained class skills:** [Diplomacy](ref/skill/diplomacy)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Dominate person
+**Spells:** Protection from good (3rd)
 
-**Spells:** Planar binding\|(devils and creatures with the fiendish template only)
+**Spells:** Scorching ray (5th)
 
-**Spells:** Greater teleport
+**Spells:** Suggestion (7th)
 
-**Spells:** Power word stun
+**Spells:** Charm monster (9th)
 
-**Spells:** Meteor swarm
+**Spells:** Dominate person (11th)
 
-**Spells:** Protection from good
+**Spells:** Planar binding (devils and creatures with the fiendish template only) (13th)
 
-**Spells:** Scorching ray
+**Spells:** Greater teleport (15th)
 
-**Spells:** Suggestion
+**Spells:** Power word stun (17th)
 
-**Spells:** Charm monster
+**Spells:** Meteor swarm (19th)
 
-**Br:** \~
-
-**Details:**
-[Blind-Fight](ref/feat/blind-fight)[Combat Expertise](ref/feat/combat-expertise)[Deceitful](ref/feat/deceitful)[Extend Spell](ref/feat/extend-spell)[Improved Disarm](ref/feat/improved-disarm)[Iron Will](ref/feat/iron-will)[Skill Focus](ref/feat/skill-focus)
-(Knowledge \[planes\])\~[Spell Penetration](ref/feat/spell-penetration)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Blind-Fight](ref/feat/blind-fight), [Combat Expertise](ref/feat/combat-expertise),
+[Deceitful](ref/feat/deceitful), [Extend Spell](ref/feat/extend-spell),
+[Improved Disarm](ref/feat/improved-disarm), [Iron Will](ref/feat/iron-will),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[planes\]),
+[Spell Penetration](ref/feat/spell-penetration)
 
 **Bloodline Arcana**
 
@@ -70,17 +68,17 @@ duration.
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Infernal Resistances (Ex)**
-
-**At 9th Level:** Your resistance to fire increases to 10 and your bonus on poison saving throws
-increases to +4.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain [resist](ref/umr/resistance) fire 5 and a +2 bonus on saving throws made
 against poison.
+
+**At 9th Level:** Your resistance to fire increases to 10 and your bonus on poison saving throws
+increases to +4.
 
 **Hellfire (Sp)**
 
@@ -90,11 +88,11 @@ of your blast receive a Reflex save for half damage. Good creatures that fail th
 for a number of rounds equal to your sorcerer level. The DC of this save is equal to 10 + half your
 sorcerer level + your Charisma modifier. This power has a range of 60 feet.
 
+**Gained:** At 9th Level
+
 **At 17th Level:** You can use this ability twice per day.
 
 **At 20th Level:** You can use this ability three times a day.
-
-**Gained:** At 9th Level
 
 **On Dark Wings (Su)**
 

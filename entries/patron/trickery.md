@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Trickery patron grants the following spells at the listed witch levels.
 
-**Spells:** Mirage arcana
+**Spells:** Animate rope (2nd)
 
-**Spells:** Mislead
+**Spells:** Mirror image (4th)
 
-**Spells:** Reverse gravity
+**Spells:** Major image (6th)
 
-**Spells:** Screen
+**Spells:** Hallucinatory terrain (8th)
 
-**Spells:** Time stop
+**Spells:** Mirage arcana (10th)
 
-**Spells:** Animate rope
+**Spells:** Mislead (12th)
 
-**Spells:** Mirror image
+**Spells:** Reverse gravity (14th)
 
-**Spells:** Major image
+**Spells:** Screen (16th)
 
-**Spells:** Hallucinatory terrain
+**Spells:** Time stop (18th)

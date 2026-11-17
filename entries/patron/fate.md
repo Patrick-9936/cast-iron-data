@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Fate patron grants the following spells at the listed witch levels.
 
-**Spells:** Greater forbid action
+**Spells:** Doom (2nd)
 
-**Spells:** Contingency
+**Spells:** Anticipate peril (4th)
 
-**Spells:** Jolting portent
+**Spells:** Helping hand (6th)
 
-**Spells:** Maze
+**Spells:** Blessing of fervor (8th)
 
-**Spells:** Wish
+**Spells:** Greater forbid action (10th)
 
-**Spells:** Doom
+**Spells:** Contingency (12th)
 
-**Spells:** Anticipate peril
+**Spells:** Jolting portent (14th)
 
-**Spells:** Helping hand
+**Spells:** Maze (16th)
 
-**Spells:** Blessing of fervor
+**Spells:** Wish (18th)

@@ -18,35 +18,32 @@ group = "sorcerer-bloodline"
 Whether your ancestors served a scorpion goddess or simply worked closely with more mundane members
 of the species, the venom from these arachnids has seeped down through generations into your blood.
 
-**Gained class skills:** climb
+**Gained class skills:** [Climb](ref/skill/climb)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Vermin shape II
+**Spells:** Thorn javelin (3rd)
 
-**Spells:** Sirocco
+**Spells:** Spider climb (5th)
 
-**Spells:** Creeping doom
+**Spells:** Poison (7th)
 
-**Spells:** Horrid wilting
+**Spells:** Giant vermin (scorpions only) (9th)
 
-**Spells:** Transmute blood to acid
+**Spells:** Vermin shape II (11th)
 
-**Spells:** Thorn javelin
+**Spells:** Sirocco (13th)
 
-**Spells:** Spider climb
+**Spells:** Creeping doom (15th)
 
-**Spells:** Poison
+**Spells:** Horrid wilting (17th)
 
-**Spells:** Giant vermin\|(scorpions only)
+**Spells:** Transmute blood to acid (19th)
 
-**Br:** \~
-
-**Details:**
-[Arcane Strike](ref/feat/arcane-strike)[Blind-Fight](ref/feat/blind-fight)[Combat Reflexes](ref/feat/combat-reflexes)[Disruptive Spell](ref/feat/disruptive-spell)[Improved Initiative](ref/feat/improved-initiative)[Nimble Moves](ref/feat/nimble-moves)[Skill Focus](ref/feat/skill-focus)
-(Climb)\~[Stealthy](ref/feat/stealthy)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Arcane Strike](ref/feat/arcane-strike), [Blind-Fight](ref/feat/blind-fight),
+[Combat Reflexes](ref/feat/combat-reflexes), [Disruptive Spell](ref/feat/disruptive-spell),
+[Improved Initiative](ref/feat/improved-initiative), [Nimble Moves](ref/feat/nimble-moves),
+[Skill Focus](ref/feat/skill-focus) (Climb), [Stealthy](ref/feat/stealthy)
 
 **Bloodline Arcana**
 
@@ -62,18 +59,18 @@ the power of the scorpion or learned to channel it to survive.
 
 **Action:** Standard Action
 
-**At 11th Level:** Whenever you apply your _progenitor's sting_ to a weapon, you can magically apply
-it onto all willing allies' weapons within 20 feet as well. This counts as one use of your bloodline
-ability.
+**Gained:** At 1st Level
+
+**Usage:** 3 + Charisma modifier times/day
 
 **At 5th Level:** The ability damage of your poison increases to 1d3.
 
 **At 7th Level:** Each time you apply your _progenitor's sting,_ you can choose two ability scores
 for your bloodline poison to affect.
 
-**Gained:** At 1st Level
-
-**Usage:** Charisma3 modifier times/day
+**At 11th Level:** Whenever you apply your _progenitor's sting_ to a weapon, you can magically apply
+it onto all willing allies' weapons within 20 feet as well. This counts as one use of your bloodline
+ability.
 
 You can magically apply your toxic essence onto your weapon or onto the weapon of a willing ally
 within 30 feet.
@@ -94,13 +91,13 @@ within 30 feet.
 
 **Ability:** You can increase the onset time of poisons you use by up to 1 hour per level.
 
+**Gained:** At 3rd Level
+
 **At 9th Level:** You can alter a poison so that it does not have an onset time, but you can trigger
 it as a **swift action** to take effect at any time, regardless of distance. If you do not trigger
 this poison within 1 week of poisoning a target, the poison dissipates harmlessly. The poison can be
 detected and removed before it is triggered using any normal methods of detecting and removing
 poison.
-
-**Gained:** At 3rd Level
 
 **Sudden Sting (Ex, Sp)**
 

@@ -20,27 +20,28 @@ group = "oracle-mystery"
 **Details:** [Norgorber](ref/faith/norgorber), [Pharasma](ref/faith/pharasma),
 [Urgathoa](ref/faith/urgathoa).
 
-**Gained class skills:** bluff, dis, intm, stl
+**Gained class skills:** [Bluff](ref/skill/bluff), [Disguise](ref/skill/disguise),
+[Intimidate](ref/skill/intimidate), [Stealth](ref/skill/stealth)
 
 **Bonus Spells**
 
-**Spells:** Slay living
+**Spells:** Cause fear (2nd)
 
-**Spells:** Circle of death
+**Spells:** False life (4th)
 
-**Spells:** Control undead
+**Spells:** Animate dead (6th)
 
-**Spells:** Horrid wilting
+**Spells:** Fear (8th)
 
-**Spells:** Wail of the banshee
+**Spells:** Slay living (10th)
 
-**Spells:** Cause fear
+**Spells:** Circle of death (12th)
 
-**Spells:** False life
+**Spells:** Control undead (14th)
 
-**Spells:** Animate dead
+**Spells:** Horrid wilting (16th)
 
-**Spells:** Fear
+**Spells:** Wail of the banshee (18th)
 
 ### Revelations
 
@@ -81,7 +82,7 @@ attack deals 1d6 points of negative energy damage plus a number of points equal 
 If used against an undead creature, it heals damage and grants a +2
 [channel resistance](ref/rule/channel-resistance) for 1 minute.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Near Death (Su)**
 

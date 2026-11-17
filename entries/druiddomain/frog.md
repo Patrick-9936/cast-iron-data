@@ -38,7 +38,7 @@ The target can remove the tendril by making an opposed Strength check as a stand
 dealing enough slashing damage to the tendril (hit points equal to your druid level, Armor Class
 equal to your touch Armor Class). You can dissolve the tendril as a **free action**.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Webfoot (Ex)**
 

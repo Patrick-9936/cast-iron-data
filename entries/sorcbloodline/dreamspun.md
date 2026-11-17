@@ -20,35 +20,32 @@ reach through and touch the supernal realm of dreams and the farthest shores of 
 a gift or curse is not always clear, but your visions of the past and future call you ineluctably to
 a life of adventure.
 
-**Gained class skills:** sm
+**Gained class skills:** [Sense Motive](ref/skill/sense-motive)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Dream
+**Spells:** Sleep (3rd)
 
-**Spells:** Shadow walk
+**Spells:** Augury (5th)
 
-**Spells:** Vision
+**Spells:** Deep slumber (7th)
 
-**Spells:** Moment of prescience
+**Spells:** Divination (9th)
 
-**Spells:** Astral projection
+**Spells:** Dream (11th)
 
-**Spells:** Sleep
+**Spells:** Shadow walk (13th)
 
-**Spells:** Augury
+**Spells:** Vision (15th)
 
-**Spells:** Deep slumber
+**Spells:** Moment of prescience (17th)
 
-**Spells:** Divination
+**Spells:** Astral projection (19th)
 
-**Br:** \~
-
-**Details:**
-[Alertness](ref/feat/alertness)[Blind-Fight](ref/feat/blind-fight)[Combat Expertise](ref/feat/combat-expertise)[Deceitful](ref/feat/deceitful)[Heighten Spell](ref/feat/heighten-spell)[Improved Feint](ref/feat/improved-feint)[Persuasive](ref/feat/persuasive)\~[Skill Focus](ref/feat/skill-focus)
-(Sense Motive)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Alertness](ref/feat/alertness), [Blind-Fight](ref/feat/blind-fight),
+[Combat Expertise](ref/feat/combat-expertise), [Deceitful](ref/feat/deceitful),
+[Heighten Spell](ref/feat/heighten-spell), [Improved Feint](ref/feat/improved-feint),
+[Persuasive](ref/feat/persuasive), [Skill Focus](ref/feat/skill-focus) (Sense Motive)
 
 **Bloodline Arcana**
 
@@ -95,11 +92,11 @@ using [modify memory](ref/spell/modify-memory), or you may ask questions as if u
 effect. The DC of this save is equal to 10 + half your sorcerer level + your Charisma modifier, with
 further modifiers as the [nightmare](ref/spell/nightmare) spell.
 
+**Gained:** At 9th Level
+
 **At 17th Level:** You can use this ability twice per day.
 
 **At 20th Level:** You can use this ability three times a day.
-
-**Gained:** At 9th Level
 
 **Eye of Somnus (Sp)**
 
@@ -146,10 +143,10 @@ a single question.
 
 **Flavor:** When you sleep, you can gain information through prophetic visions.
 
-**At 17th Level:** You can have two questions answered while you sleep.
-
-**At 20th Level:** You can have three questions answered.
-
 **Gained:** At 9th Level
 
 **Replaces:** Dreamshaper
+
+**At 17th Level:** You can have two questions answered while you sleep.
+
+**At 20th Level:** You can have three questions answered.

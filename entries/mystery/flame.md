@@ -19,27 +19,28 @@ group = "oracle-mystery"
 
 **Details:** [Asmodeus](ref/faith/asmodeus), [Sarenrae](ref/faith/sarenrae).
 
-**Gained class skills:** acro, climb, intm, perf
+**Gained class skills:** [Acrobatics](ref/skill/acrobatics), [Climb](ref/skill/climb),
+[Intimidate](ref/skill/intimidate), [Perform](ref/skill/perform-any)
 
 **Bonus Spells**
 
-**Spells:** Summon monster V\|(fire elementals only)
+**Spells:** Burning hands (2nd)
 
-**Spells:** Fire seeds
+**Spells:** Resist energy (4th)
 
-**Spells:** Fire storm
+**Spells:** Fireball (6th)
 
-**Spells:** Incendiary cloud
+**Spells:** Wall of fire (8th)
 
-**Spells:** Fiery body
+**Spells:** Summon monster V (fire elementals only) (10th)
 
-**Spells:** Burning hands
+**Spells:** Fire seeds (12th)
 
-**Spells:** Resist energy
+**Spells:** Fire storm (14th)
 
-**Spells:** Fireball
+**Spells:** Incendiary cloud (16th)
 
-**Spells:** Wall of fire
+**Spells:** Fiery body (18th)
 
 ### Revelations
 
@@ -153,7 +154,7 @@ weapon.
 **Standard:** You can perform a melee touch attack that deals 1d6 points of fire damage plus an
 additional amount of points equal to [half](ref/misc/fractions-and-rounding) of your oracle level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Wings of Fire (Su)**
 

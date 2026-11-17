@@ -34,7 +34,7 @@ you take no penalties for squeezing through rocky areas, and you gain
 [damage reduction](ref/rule/damage-reduction) 5/- against rocky hazards such as
 [spike growth](ref/spell/spike-growth). This effect lasts for 1 round.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **One with the Stone (Su)**
 

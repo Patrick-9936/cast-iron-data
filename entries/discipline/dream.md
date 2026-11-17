@@ -97,7 +97,7 @@ Alternatively, you can use this ability as part of the casting of [dream](ref/sp
 [minor dream](ref/spell/minor-dream), or [nightmare](ref/spell/nightmare). In this case, the
 _oneiromancy_ effect takes place when the spell is cast.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Mind Heist (Sp)**
 

@@ -20,27 +20,28 @@ group = "oracle-mystery"
 **Details:** [Gozreh](ref/faith/gozreh), [Pharasma](ref/faith/pharasma),
 [Sarenrae](ref/faith/sarenrae).
 
-**Gained class skills:** ha, kna, sur
+**Gained class skills:** [Handle Animal](ref/skill/handle-animal),
+[Knowledge (nature)](ref/skill/knowledge-nature), [Survival](ref/skill/survival)
 
 **Bonus Spells**
 
-**Spells:** Breath of life
+**Spells:** Detect undead (2nd)
 
-**Spells:** Heal
+**Spells:** Lesser restoration (4th)
 
-**Spells:** Greater restoration
+**Spells:** Neutralize poison (6th)
 
-**Spells:** Mass heal
+**Spells:** Restoration (8th)
 
-**Spells:** True resurrection
+**Spells:** Breath of life (10th)
 
-**Spells:** Detect undead
+**Spells:** Heal (12th)
 
-**Spells:** Lesser restoration
+**Spells:** Greater restoration (14th)
 
-**Spells:** Neutralize poison
+**Spells:** Mass heal (16th)
 
-**Spells:** Restoration
+**Spells:** True resurrection (18th)
 
 ### Revelations
 
@@ -52,7 +53,7 @@ An oracle with the Life mystery can choose from any of the following revelations
 oracle level as your effective cleric level when determining the amount of damage healed (or caused
 to undead) and the DC.
 
-**Usage:** Charisma1 modifier times/day
+**Usage:** 1 + Charisma modifier times/day
 
 **Combat Healer (Su)**
 

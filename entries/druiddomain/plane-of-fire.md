@@ -34,7 +34,7 @@ resistance 5. If you have natural fire resistance, it increases by 5 instead, an
 naturally immune to fire, you heal hit points and [ability damage](ref/rule/ability-damage-drain) at
 twice the normal rate when resting on a fire-dominant plane.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **All-Consuming Flames (Su)**
 

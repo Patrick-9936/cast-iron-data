@@ -19,34 +19,32 @@ The rage of your ancestors burns within you, and the taint of savage [orc](ref/m
 flows through your veins. Your anger is never far from the surface, giving you strength and driving
 you to seek greater power.
 
-**Gained class skills:** sur
+**Gained class skills:** [Survival](ref/skill/survival)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Cloudkill
+**Spells:** Burning hands (3rd)
 
-**Spells:** Transformation
+**Spells:** Bull's strength (5th)
 
-**Spells:** Delayed blast fireball
+**Spells:** Rage (7th)
 
-**Spells:** Iron body
+**Spells:** Wall of fire (9th)
 
-**Spells:** Meteor swarm
+**Spells:** Cloudkill (11th)
 
-**Spells:** Burning hands
+**Spells:** Transformation (13th)
 
-**Spells:** Bull's strength
+**Spells:** Delayed blast fireball (15th)
 
-**Spells:** Rage
+**Spells:** Iron body (17th)
 
-**Spells:** Wall of fire
+**Spells:** Meteor swarm (19th)
 
-**Br:** \~
-
-**Details:**
-[Diehard](ref/feat/diehard)[Endurance](ref/feat/endurance)[Great Fortitude](ref/feat/great-fortitude)[Intimidating Prowess](ref/feat/intimidating-prowess)[Improved Overrun](ref/feat/improved-overrun)[Power Attack](ref/feat/power-attack)[Toughness](ref/feat/toughness)\~[Widen Spell](ref/feat/widen-spell)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Diehard](ref/feat/diehard), [Endurance](ref/feat/endurance),
+[Great Fortitude](ref/feat/great-fortitude), [Intimidating Prowess](ref/feat/intimidating-prowess),
+[Improved Overrun](ref/feat/improved-overrun), [Power Attack](ref/feat/power-attack),
+[Toughness](ref/feat/toughness), [Widen Spell](ref/feat/widen-spell)
 
 **Bloodline Arcana**
 
@@ -70,16 +68,16 @@ blood, and must take care lest the urge to despoil and destroy consumes you.
 Will saving throws equal to [half](ref/misc/fractions-and-rounding) of your sorcerer level (minimum
 1) for 1 round.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Fearless (Ex)**
-
-**At 9th Level:** You lose your light sensitivity, gain immunity to fear, and your natural armor
-bonus increases to +2.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain a +4 bonus on saving throws made against fear and a +1 natural armor bonus.
+
+**At 9th Level:** You lose your light sensitivity, gain immunity to fear, and your natural armor
+bonus increases to +2.
 
 **Strength of the Beast (Ex)**
 

@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Time patron grants the following spells at the listed witch levels.
 
-**Spells:** Teleport
+**Spells:** Ventriloquism (2nd)
 
-**Spells:** Disintegrate
+**Spells:** Silence (4th)
 
-**Spells:** Expend
+**Spells:** Haste (6th)
 
-**Spells:** Temporal stasis
+**Spells:** Threefold aspect (8th)
 
-**Spells:** Time stop
+**Spells:** Teleport (10th)
 
-**Spells:** Ventriloquism
+**Spells:** Disintegrate (12th)
 
-**Spells:** Silence
+**Spells:** Expend (14th)
 
-**Spells:** Haste
+**Spells:** Temporal stasis (16th)
 
-**Spells:** Threefold aspect
+**Spells:** Time stop (18th)

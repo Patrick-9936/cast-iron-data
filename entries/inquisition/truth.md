@@ -30,7 +30,7 @@ To find truth, one has to wring honesty from others - whether in a friendly or h
 ability check, or saving throw before your next turn; this bonus is equal to half your inquisitor
 level (minimum 1) and lasts for 1 round.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Grasp of Honesty (Su)**
 

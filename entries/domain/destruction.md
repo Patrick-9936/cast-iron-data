@@ -36,13 +36,9 @@ attacks.
 attack with a morale bonus on damage rolls equal to 1/2 your cleric level (minimum 1). You must
 declare the destructive smite before making the attack.
 
-**Id:** smite
-
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Destructive Aura (Su)**
-
-**Id:** aura
 
 **Gained:** At 8th Level
 
@@ -63,8 +59,6 @@ threats are automatically confirmed.
 1. disintegrate
 1. earthquake
 1. implosion
-
-**Save:** domain
 
 ### Catastrophe Subdomain
 
@@ -100,8 +94,6 @@ place each round, but no effect may be repeated on the following round.
 
 **7th:** control weather
 
-**From:** domain
-
 ### Hatred Subdomain
 
 **Sources:** Champions of Corruption pg 19
@@ -127,8 +119,6 @@ aura as a free action, or you expend all rounds of this ability.
 **1st:** murderous command
 
 **2nd:** wrathful mantle
-
-**From:** domain
 
 ### Rage Subdomain
 
@@ -163,8 +153,6 @@ rage you might have from levels of barbarian.
 
 **6th:** moonstruck
 
-**From:** domain
-
 ### Torture Subdomain
 
 **Sources:** Book of the Damned pg 182, Inner Sea Gods pg 227, Goblins of Golarion pg 27
@@ -181,7 +169,7 @@ Intimidate check equal to the amount of nonlethal damage dealt by the painful sm
 
 **Replaces:** The destructive smite power of the Destruction domain
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -190,8 +178,6 @@ Intimidate check equal to the amount of nonlethal damage dealt by the painful sm
 **5th:** symbol of pain
 
 **8th:** demand
-
-**From:** domain
 
 ### Deities
 

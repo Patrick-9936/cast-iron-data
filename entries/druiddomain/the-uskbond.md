@@ -29,7 +29,7 @@ spells below.
 damage equal to 1d6 + your Wisdom modifier into nonlethal damage. When you use this ability, you
 gain a +4 profane bonus on all saving throws versus pain effects during the following round.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Gruesome Display (Ex)**
 

@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Conspiracies patron grants the following spells at the listed witch levels.
 
-**Spells:** Dominate person
+**Spells:** Lock gaze (2nd)
 
-**Spells:** Symbol of persuasion
+**Spells:** Disguise other (4th)
 
-**Spells:** Vision
+**Spells:** Tongues (6th)
 
-**Spells:** Frightful aspect
+**Spells:** Hypercognition (8th)
 
-**Spells:** Overwhelming presence
+**Spells:** Dominate person (10th)
 
-**Spells:** Lock gaze
+**Spells:** Symbol of persuasion (12th)
 
-**Spells:** Disguise other
+**Spells:** Vision (14th)
 
-**Spells:** Tongues
+**Spells:** Frightful aspect (16th)
 
-**Spells:** Hypercognition
+**Spells:** Overwhelming presence (18th)

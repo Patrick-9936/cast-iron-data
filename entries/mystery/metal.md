@@ -19,27 +19,28 @@ group = "oracle-mystery"
 
 **Details:** [Abadar](ref/faith/abadar), [Gorum](ref/faith/gorum), [Torag](ref/faith/torag).
 
-**Gained class skills:** app, bluff, dd, intm
+**Gained class skills:** [Appraise](ref/skill/appraise), [Bluff](ref/skill/bluff),
+[Disable Device](ref/skill/disable-device), [Intimidate](ref/skill/intimidate)
 
 **Bonus Spells**
 
-**Spells:** Major creation\|(metal items only)
+**Spells:** Lead blades (2nd)
 
-**Spells:** Wall of iron
+**Spells:** Heat metal (4th)
 
-**Spells:** Statue\|(metal statue instead of iron)
+**Spells:** Keen edge (6th)
 
-**Spells:** Repel metal or stone
+**Spells:** Versatile weapon (8th)
 
-**Spells:** Iron body
+**Spells:** Major creation (metal items only) (10th)
 
-**Spells:** Lead blades
+**Spells:** Wall of iron (12th)
 
-**Spells:** Heat metal
+**Spells:** Statue (metal statue instead of iron) (14th)
 
-**Spells:** Keen edge
+**Spells:** Repel metal or stone (16th)
 
-**Spells:** Versatile weapon
+**Spells:** Iron body (18th)
 
 ### Revelations
 
@@ -106,7 +107,7 @@ after 1 round if it leaves your grasp.
 
 **At 7th Level:** The blade gains a +1 enhancement bonus.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 At 15th level: The enhancement bonus increases to +2.
 
@@ -147,7 +148,7 @@ attack, the clothing returns to its normal length and [hardness](ref/umr/hardnes
 
 You do not threaten an area with this weapon and cannot use it to make attacks of opportunity.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Vision in Iron (Sp)**
 

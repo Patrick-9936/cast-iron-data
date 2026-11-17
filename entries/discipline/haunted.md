@@ -77,7 +77,7 @@ spirits allows you to manifest any of the following
 [mage hand](ref/spell/mage-hand), [ghost sound](ref/spell/ghost-sound),
 [grave words](ref/spell/grave-words), or [telekinetic projectile](ref/spell/telekinetic-projectile).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Spiritual Bulwark (Su)**
 

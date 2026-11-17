@@ -25,14 +25,14 @@ group = "inquisition"
 
 Secrecy is required of the faithful in lands where your deity's worshipers are hunted.
 
-**Gained class skills:** soh
+**Gained class skills:** [Sleight of Hand](ref/skill/sleight-of-hand)
 
 **Disappear (Sp)**
 
 **Standard:** You can become invisible as per [the spell](ref/spell/invisibility). The invisibility
 lasts for 1 round per inquisitor level or until you attack.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Blessed Secrecy (Su)**
 

@@ -35,7 +35,7 @@ round.
 
 **Special:** This is a language-dependent, mind-affecting effect.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Collector of Souls (Sp)**
 

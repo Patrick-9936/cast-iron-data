@@ -20,34 +20,32 @@ your family history, a [hag's](ref/family/hag) foul influence entered your blood
 actually be related to the hag, or you may still be suffering the effects of a curse that a hag laid
 upon your kin in generations past. Now the hag's powers are part of your heritage.
 
-**Gained class skills:** per
+**Gained class skills:** [Perception](ref/skill/perception)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Feeblemind
+**Spells:** Ray of enfeeblement (3rd)
 
-**Spells:** Eyebite
+**Spells:** Touch of idiocy (5th)
 
-**Spells:** Insanity
+**Spells:** Ray of exhaustion (7th)
 
-**Spells:** Dimensional lock
+**Spells:** Bestow curse (9th)
 
-**Spells:** Energy drain
+**Spells:** Feeblemind (11th)
 
-**Spells:** Ray of enfeeblement
+**Spells:** Eyebite (13th)
 
-**Spells:** Touch of idiocy
+**Spells:** Insanity (15th)
 
-**Spells:** Ray of exhaustion
+**Spells:** Dimensional lock (17th)
 
-**Spells:** Bestow curse
+**Spells:** Energy drain (19th)
 
-**Br:** \~
-
-**Details:**
-[Alertness](ref/feat/alertness)[Blind-Fight](ref/feat/blind-fight)[Combat Casting](ref/feat/combat-casting)[Deceitful](ref/feat/deceitful)[Defensive Combat Training](ref/feat/defensive-combat-training)[Endurance](ref/feat/endurance)[Great Fortitude](ref/feat/great-fortitude)\~[Mounted Combat](ref/feat/mounted-combat)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Alertness](ref/feat/alertness), [Blind-Fight](ref/feat/blind-fight),
+[Combat Casting](ref/feat/combat-casting), [Deceitful](ref/feat/deceitful),
+[Defensive Combat Training](ref/feat/defensive-combat-training), [Endurance](ref/feat/endurance),
+[Great Fortitude](ref/feat/great-fortitude), [Mounted Combat](ref/feat/mounted-combat)
 
 **Bloodline Arcana**
 
@@ -78,30 +76,30 @@ effects.
 sorcerer level + your Charisma modifier) or be [shaken](ref/misc/shaken) for a number of rounds
 equal to [half](ref/misc/fractions-and-rounding) of your sorcerer level (minimum 1 round).
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Wretched Endurance (Ex)**
-
-**At 9th Level:** These bonuses increase to +4.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain a +2 bonus on all saving throws against charm, cold, fear, fire, and sleep
 effects.
 
+**At 9th Level:** These bonuses increase to +4.
+
 **Dread Gaze (Su)**
 
 **Flavor:** You gain a form of the [green hag's](ref/monster/hag-green-hag) _evil eye_ power.
-
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You may use this ability three times per day.
 
 **Gained:** At 9th Level
 
 **Standard:** Once per day, you may fix your gaze on any one creature within 60 feet. The target
 must make a Will save (DC 10 + half your sorcerer level + your Charisma modifier) or be
 [staggered](ref/misc/staggered) for a number of rounds equal to half of your sorcerer level.
+
+**At 17th Level:** You can use this ability twice per day.
+
+**At 20th Level:** You may use this ability three times per day.
 
 **Dream Walking (Sp)**
 

@@ -34,7 +34,7 @@ bonus is equal to 2 + one-fifth of your wizard level.
 **Standard:** You can cause a living creature to become [dazed](ref/misc/dazed) for 1 round as a
 melee touch attack. Creatures with more Hit Dice than your wizard level are unaffected.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Aura of Despair (Su)**
 
@@ -97,7 +97,7 @@ you. Creatures receive a Will saving throw to negate the effect. The DC of this 
 by [charm monster](ref/spell/charm-monster) for a number of rounds equal to 1/2 your wizard level
 (minimum 1). This is a mind-affecting effect.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Shape Emotions (Su)**
 

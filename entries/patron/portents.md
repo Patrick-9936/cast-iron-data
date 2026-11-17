@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Portents patron grants the following spells at the listed witch levels.
 
-**Spells:** Contact other plane
+**Spells:** Ill omen (2nd)
 
-**Spells:** Legend lore
+**Spells:** Locate object (4th)
 
-**Spells:** Vision
+**Spells:** Blood biography (6th)
 
-**Spells:** Moment of prescience
+**Spells:** Divination (8th)
 
-**Spells:** Foresight
+**Spells:** Contact other plane (10th)
 
-**Spells:** Ill omen
+**Spells:** Legend lore (12th)
 
-**Spells:** Locate object
+**Spells:** Vision (14th)
 
-**Spells:** Blood biography
+**Spells:** Moment of prescience (16th)
 
-**Spells:** Divination
+**Spells:** Foresight (18th)

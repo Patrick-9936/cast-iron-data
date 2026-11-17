@@ -24,8 +24,6 @@ foot or conveyance or magic.
 
 **Speedy (Ex)**
 
-**Id:** speed
-
 **Passive:** Increase your base speed by 10 feet.
 
 **Agile Feet (Su)**
@@ -34,9 +32,7 @@ foot or conveyance or magic.
 [difficult terrain](ref/rule/terrain-and-obstacles) and do not take any penalties for moving through
 it.
 
-**Id:** feet
-
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Dimensional Hop (Sp)**
 
@@ -66,8 +62,6 @@ creature brought.
 1. phase door
 1. astral projection
 
-**Save:** domain
-
 ### Exploration Subdomain
 
 **Sources:** Advanced Player's Guide pg 90
@@ -87,7 +81,7 @@ entire time. The surface cannot be thicker than 6 inches plus 1 inch per cleric 
 
 **Replaces:** The agile feet power of the Travel domain
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -96,8 +90,6 @@ entire time. The surface cannot be thicker than 6 inches plus 1 inch per cleric 
 **4th:** locate creature
 
 **9th:** world wave
-
-**From:** domain
 
 ### Portal Subdomain
 
@@ -118,7 +110,7 @@ half your cleric level. In addition, your first ally to pass through the portal 
 gains an amount of [temporary hit points](ref/rule/temporary-hit-points) equal to 1d4 + 1 for every
 2 cleric levels you have. These temporary hit points last for 1 minute.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Travel as One (Su)**
 
@@ -141,8 +133,6 @@ teleportation mishaps or attempting to teleport into a solid body.
 
 **9th:** teleportation circle
 
-**From:** domain
-
 ### Trade Subdomain
 
 **Sources:** Advanced Player's Guide pg 97
@@ -157,7 +147,7 @@ bonus on the roll equal to 1/2 your cleric level (minimum +1).
 
 **Replaces:** The agile feet power of the Travel domain
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -166,8 +156,6 @@ bonus on the roll equal to 1/2 your cleric level (minimum +1).
 **5th:** overland flight
 
 **9th:** gate
-
-**From:** domain
 
 ### Deities
 

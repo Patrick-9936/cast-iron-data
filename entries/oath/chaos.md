@@ -53,10 +53,10 @@ tool of tyranny. Fight vigilantly the servants of chaos.
 
 **Oath Spells**
 
-**Spells:** Command
+**Spells:** Command (1st)
 
-**Spells:** Calm emotions
+**Spells:** Calm emotions (2nd)
 
-**Spells:** Suggestion
+**Spells:** Suggestion (3rd)
 
-**Spells:** Order's wrath
+**Spells:** Order's wrath (4th)

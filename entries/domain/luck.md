@@ -22,16 +22,12 @@ group = "cleric-domain"
 
 **Bit of Luck (Sp)**
 
-**Id:** bit
-
 **Standard:** You can touch a willing creature, giving it a bit of luck. For the next round, any
 time the target rolls a d20, he may roll twice and take the more favorable result.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Good Fortune (Ex)**
-
-**Id:** good
 
 **Immediate:** You can reroll any one d20 roll that you have just made before the results of the
 roll are revealed. You must take the result of the reroll, even if it's worse than the original
@@ -53,8 +49,6 @@ roll.
 1. moment of prescience
 1. miracle
 
-**Save:** domain
-
 ### Curse Subdomain
 
 **Sources:** Advanced Player's Guide pg 88
@@ -70,7 +64,7 @@ Dachzerul, Desna, Graffiacane, Lao Shu Po, Magdh, Raetorgash, Yabu
 -2 penalty on all saving throws against your spells. The effect lasts for 1 minute or until the
 target hits you with an attack.
 
-**Usage:** Wis3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -79,8 +73,6 @@ target hits you with an attack.
 **3rd:** bestow curse
 
 **6th:** eyebite
-
-**From:** domain
 
 ### Fate Subdomain
 
@@ -106,8 +98,6 @@ is worse than the original roll.
 **2nd:** augury
 
 **3rd:** borrow fortune
-
-**From:** domain
 
 ### Imagination Subdomain
 
@@ -138,8 +128,6 @@ creatures leave the area or the aura expires.
 **3rd:** major image
 
 **5th:** dream
-
-**From:** domain
 
 ### Deities
 

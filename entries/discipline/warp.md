@@ -91,7 +91,7 @@ space or withdraw your arm, but it otherwise lasts for 1 round per psychic level
 Your disembodied hand uses your AC with a +4 size bonus, should opponents target it. This size bonus
 does not apply to [disarm](ref/rule/disarm) combat maneuver checks.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Turn Aside (Su)**
 

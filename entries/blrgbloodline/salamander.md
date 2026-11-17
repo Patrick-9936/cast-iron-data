@@ -20,23 +20,20 @@ group = "bloodrager-bloodline"
 Salamanders are fierce warriors and master smiths, and you wield their might and mastery of metal by
 birthright.
 
-**Br:** \~
-
-**Details:**
-[Cleave](ref/feat/cleave)[Improved Grapple](ref/feat/improved-grapple)[Improved Iron Will](ref/feat/improved-iron-will)[Iron Will](ref/feat/iron-will)[Power Attack](ref/feat/power-attack)[Skill Focus](ref/feat/skill-focus)
-(Perception)[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Cleave](ref/feat/cleave), [Improved Grapple](ref/feat/improved-grapple),
+[Improved Iron Will](ref/feat/improved-iron-will), [Iron Will](ref/feat/iron-will),
+[Power Attack](ref/feat/power-attack), [Skill Focus](ref/feat/skill-focus) (Perception),
+[Toughness](ref/feat/toughness)
 
 **Bonus Spells by Bloodrager Level**
 
-**Spells:** Make whole
+**Spells:** Lead blades (7th)
 
-**Spells:** Versatile weapon
+**Spells:** Make whole (10th)
 
-**Spells:** Fire shield\|(warm only)
+**Spells:** Versatile weapon (13th)
 
-**Spells:** Lead blades
+**Spells:** Fire shield (warm only) (16th)
 
 ### Bloodline Powers
 
@@ -44,13 +41,6 @@ When you _bloodrage,_ you gain the form and flame of the [salamander](ref/monste
 the following powers.
 
 **Serpent's Tail (Su)**
-
-**At 12th Level:** Your reach with your tail slap increases by 5 feet.
-
-**At 4th Level:** Your speed is no longer reduced by 10 feet.
-
-**At 8th Level:** Your tail slap's damage increases to 1d8 (1d6 if you are Small) + your Strength
-modifier.
 
 **Gained:** At 1st Level
 
@@ -60,16 +50,23 @@ your body and is non-functional unless it provides a constant bonus and does not
 activated. You also gain a tail slap [natural attack](ref/umr/natural-attacks) that deals 1d6 points
 of damage (1d4 if you are Small) + your Strength modifier.
 
+**At 4th Level:** Your speed is no longer reduced by 10 feet.
+
+**At 8th Level:** Your tail slap's damage increases to 1d8 (1d6 if you are Small) + your Strength
+modifier.
+
+**At 12th Level:** Your reach with your tail slap increases by 5 feet.
+
 **Salamander Scales (Ex)**
-
-**At 16th Level:** Your fire resistance increases to 20 and your natural armor bonus increases to
-+3.
-
-**At 8th Level:** Your fire resistance increases to 10 and your natural armor bonus increases to +2.
 
 **Gained:** At 4th Level
 
 **Passive:** You gain fire [resistance](ref/umr/resistance) 5 and a +1 natural armor bonus to AC.
+
+**At 8th Level:** Your fire resistance increases to 10 and your natural armor bonus increases to +2.
+
+**At 16th Level:** Your fire resistance increases to 20 and your natural armor bonus increases to
++3.
 
 **Bloodsmith (Su)**
 
@@ -94,9 +91,9 @@ to any creature you [grapple](ref/rule/grapple). This does not damage your equip
 
 **Ability:** You can affect up to two items simultaneously with your _bloodsmith_ bloodline power.
 
-**At 20th Level:** You can affect up to three items.
-
 **Gained:** At 16th Level
+
+**At 20th Level:** You can affect up to three items.
 
 **Essence of Fire (Ex)**
 

@@ -67,10 +67,10 @@ fiends you cannot kill. Purge the evil from those possessed by fiends.
 
 **Oath Spells**
 
-**Spells:** Resist energy
+**Spells:** Resist energy (1st)
 
-**Spells:** Detect thoughts
+**Spells:** Detect thoughts (2nd)
 
-**Spells:** Invisibility purge
+**Spells:** Invisibility purge (3rd)
 
-**Spells:** Plane shift
+**Spells:** Plane shift (4th)

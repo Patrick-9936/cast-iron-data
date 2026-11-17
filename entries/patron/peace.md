@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Peace patron grants the following spells at the listed witch levels.
 
-**Spells:** Serenity
+**Spells:** Sanctuary (2nd)
 
-**Spells:** Word of recall
+**Spells:** Calm emotions (4th)
 
-**Spells:** Forcecage
+**Spells:** Wind wall (6th)
 
-**Spells:** Euphoric tranquility
+**Spells:** Dismissal (8th)
 
-**Spells:** Antipathy
+**Spells:** Serenity (10th)
 
-**Spells:** Sanctuary
+**Spells:** Word of recall (12th)
 
-**Spells:** Calm emotions
+**Spells:** Forcecage (14th)
 
-**Spells:** Wind wall
+**Spells:** Euphoric tranquility (16th)
 
-**Spells:** Dismissal
+**Spells:** Antipathy (18th)

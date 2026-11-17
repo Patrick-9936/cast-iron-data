@@ -34,7 +34,7 @@ against the target as long as it somehow incorporates a temptation that relates 
 
 **Special:** This is a mind-affecting effect.
 
-**Usage:** Wisdom3 modifier times/day
+**Usage:** 3 + Wisdom modifier times/day
 
 **Indulge (Su)**
 

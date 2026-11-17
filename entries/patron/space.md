@@ -16,20 +16,20 @@ group = "witch-patron"
 
 **Info:** The Space patron grants the following spells at the listed witch levels.
 
-**Spells:** Hostile juxtaposition
+**Spells:** Mirror strike (2nd)
 
-**Spells:** Repulsion
+**Spells:** Twisted space (4th)
 
-**Spells:** Walk through space
+**Spells:** Blink (6th)
 
-**Spells:** Bilocation
+**Spells:** Dimension door (8th)
 
-**Spells:** Teleportation circle
+**Spells:** Hostile juxtaposition (10th)
 
-**Spells:** Mirror strike
+**Spells:** Repulsion (12th)
 
-**Spells:** Twisted space
+**Spells:** Walk through space (14th)
 
-**Spells:** Blink
+**Spells:** Bilocation (16th)
 
-**Spells:** Dimension door
+**Spells:** Teleportation circle (18th)

@@ -12,7 +12,5 @@ kind = "class_option"
 group = "paladin-mercy"
 +++
 
-**Details:** The target gains [fast healing](ref/umr/fast-healing) 3 for a number of rounds equal to
-1/2 the paladin's level.
-
-**Title:** Injured
+The target gains [fast healing](ref/umr/fast-healing) 3 for a number of rounds equal to 1/2 the
+paladin's level.

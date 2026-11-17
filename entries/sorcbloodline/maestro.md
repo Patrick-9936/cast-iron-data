@@ -22,36 +22,33 @@ savory heritage, such as from a [harpy](ref/monster/harpy) or a forefather drive
 disquieting gibbering of a [shoggoth](ref/monster/shoggoth). However it came to be, your family's
 artistic bent shows itself strongly in your magic.
 
-**Gained class skills:** perf
+**Gained class skills:** [Perform](ref/skill/perform-any)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** Dominate person
+**Spells:** Ventriloquism (3rd)
 
-**Spells:** Mass suggestion
+**Spells:** Hideous laughter (5th)
 
-**Spells:** Power word blind
+**Spells:** Suggestion (7th)
 
-**Spells:** Greater shout
+**Spells:** Shout (9th)
 
-**Spells:** Wail of the banshee
+**Spells:** Dominate person (11th)
 
-**Spells:** Ventriloquism
+**Spells:** Mass suggestion (13th)
 
-**Spells:** Hideous laughter
+**Spells:** Power word blind (15th)
 
-**Spells:** Suggestion
+**Spells:** Greater shout (17th)
 
-**Spells:** Shout
+**Spells:** Wail of the banshee (19th)
 
-**Br:** \~
-
-**Details:** [Deceitful](ref/feat/deceitful)[Greater Spell Focus](ref/feat/greater-spell-focus)
-(enchantment)[Lingering Performance](ref/feat/lingering-performance)[Persuasive](ref/feat/persuasive)[Skill Focus](ref/feat/skill-focus)
-(Perform)[Spell Focus](ref/feat/spell-focus)
-(enchantment)[Spellsong](ref/feat/spellsong)\~[Still Spell](ref/feat/still-spell)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Deceitful](ref/feat/deceitful),
+[Greater Spell Focus](ref/feat/greater-spell-focus) (enchantment),
+[Lingering Performance](ref/feat/lingering-performance), [Persuasive](ref/feat/persuasive),
+[Skill Focus](ref/feat/skill-focus) (Perform), [Spell Focus](ref/feat/spell-focus) (enchantment),
+[Spellsong](ref/feat/spellsong), [Still Spell](ref/feat/still-spell)
 
 **Bloodline Arcana**
 
@@ -70,7 +67,7 @@ duration of 1 round, and affects a living creature whose Hit Dice do not exceed 
 
 **Gained:** At 1st Level
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Fascinate (Ex)**
 

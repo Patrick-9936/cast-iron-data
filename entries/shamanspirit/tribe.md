@@ -22,23 +22,23 @@ tribal unit or a chosen group of adventuring companions.
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Bless
+**Spells:** Bless (1st)
 
-**Spells:** Shield other
+**Spells:** Shield other (2nd)
 
-**Spells:** Create food and water
+**Spells:** Create food and water (3rd)
 
-**Spells:** Spiritual ally
+**Spells:** Spiritual ally (4th)
 
-**Spells:** Life bubble
+**Spells:** Life bubble (5th)
 
-**Spells:** Battlemind link
+**Spells:** Battlemind link (6th)
 
-**Spells:** Vision
+**Spells:** Vision (7th)
 
-**Spells:** Discern location
+**Spells:** Discern location (8th)
 
-**Spells:** Mass heal
+**Spells:** Mass heal (9th)
 
 ### Hexes
 
@@ -118,7 +118,7 @@ see and hear her. Allies retain the use of this bonus feat for a number of round
 [half](ref/misc/fractions-and-rounding) of her shaman level. Allies do not need to meet the
 prerequisites of this bonus feat.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

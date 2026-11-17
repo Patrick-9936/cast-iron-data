@@ -27,23 +27,23 @@ image of a mammoth may seem to rise around her as a visible aura of ghostly powe
 
 **Info:** The shaman gains these spells at the listed spell levels.
 
-**Spells:** Enlarge person
+**Spells:** Enlarge person (1st)
 
-**Spells:** Bull's strength
+**Spells:** Bull's strength (2nd)
 
-**Spells:** Rage
+**Spells:** Rage (3rd)
 
-**Spells:** Stoneskin
+**Spells:** Stoneskin (4th)
 
-**Spells:** Beast shape III
+**Spells:** Beast shape III (5th)
 
-**Spells:** Tar pool
+**Spells:** Tar pool (6th)
 
-**Spells:** Summon nature's ally VII
+**Spells:** Summon nature's ally VII (7th)
 
-**Spells:** Frightful aspect
+**Spells:** Frightful aspect (8th)
 
-**Spells:** Polar midnight
+**Spells:** Polar midnight (9th)
 
 ### Hexes
 
@@ -72,7 +72,7 @@ shaggy fur. The creature gains a +2 enhancement bonus to natural armor and cold
 
 **At 9th Level:** The enhancement bonus increases to +3 and the cold resistance to 10.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 **Phantom Stampede (Su)**
 
@@ -135,7 +135,7 @@ ability.
 this way, that creature must succeed at a Fortitude save (DC = 10 + half the shaman's class level +
 her Charisma modifier) or be [dazed](ref/misc/dazed) for 1 round.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 ### Greater Spirit Ability
 

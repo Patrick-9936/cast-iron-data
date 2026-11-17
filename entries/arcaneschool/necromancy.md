@@ -33,7 +33,7 @@ feats to add to this ability, such as [Extra Channel](ref/feat/extra-channel) an
 [Elemental Channel](ref/feat/elemental-channel) and [Alignment Channel](ref/feat/alignment-channel).
 The DC to save against these feats is equal to 10 + 1/2 your wizard level + your Charisma modifier.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Grave Touch (Sp)**
 
@@ -44,7 +44,7 @@ The DC to save against these feats is equal to 10 + 1/2 your wizard level + your
 touch a shaken creature with this ability, it becomes [frightened](ref/misc/frightened) for 1 round
 if it has fewer Hit Dice than your wizard level.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 **Life Sight (Su)**
 
@@ -100,7 +100,7 @@ total; any excess is prevented. The recipient gains a number of
 (prevented damage is not counted). These temporary hit points disappear 1 hour later. You may not
 use this ability to grant yourself temporary hit points.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day
 
 ### Undead School
 
@@ -122,4 +122,4 @@ your wizard level. These bonuses last for a number of rounds equal to 1/2 your w
 1 round). The bonuses and temporary hit points are immediately dispelled if the creature is within
 the area of a [consecrate](ref/spell/consecrate) spell.
 
-**Usage:** Int3 modifier times/day
+**Usage:** 3 + Intelligence modifier times/day

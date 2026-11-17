@@ -21,35 +21,32 @@ group = "sorcerer-bloodline"
 At some point in your family's history, a dragon interbred with your bloodline, and now its ancient
 power flows through your veins.
 
-**Gained class skills:** per
+**Gained class skills:** [Perception](ref/skill/perception)
 
 **Bonus Spells by Sorcerer Level**
 
-**Spells:** [Spell resistance](ref/rule/spell-resistance)
+**Spells:** Mage armor (3rd)
 
-**Spells:** Form of the dragon I
+**Spells:** Resist energy (5th)
 
-**Spells:** Form of the dragon II
+**Spells:** Fly (7th)
 
-**Spells:** Form of the dragon III
+**Spells:** Fear (9th)
 
-**Spells:** Wish
+**Spells:** [Spell resistance](ref/rule/spell-resistance) (11th)
 
-**Spells:** Mage armor
+**Spells:** Form of the dragon I (13th)
 
-**Spells:** Resist energy
+**Spells:** Form of the dragon II (15th)
 
-**Spells:** Fly
+**Spells:** Form of the dragon III (17th)
 
-**Spells:** Fear
+**Spells:** Wish (19th)
 
-**Br:** \~
-
-**Details:**
-[Blind-Fight](ref/feat/blind-fight)[Great Fortitude](ref/feat/great-fortitude)[Improved Initiative](ref/feat/improved-initiative)[Power Attack](ref/feat/power-attack)[Quicken Spell](ref/feat/quicken-spell)\~[Skill Focus](ref/feat/skill-focus)
-(Fly)Skill Focus (Knowledge \[arcana\])[Toughness](ref/feat/toughness)
-
-**Title:** Bonus Feats
+**Bonus Feats:** [Blind-Fight](ref/feat/blind-fight), [Great Fortitude](ref/feat/great-fortitude),
+[Improved Initiative](ref/feat/improved-initiative), [Power Attack](ref/feat/power-attack),
+[Quicken Spell](ref/feat/quicken-spell), [Skill Focus](ref/feat/skill-focus) (Fly),
+[Skill Focus](ref/feat/skill-focus) (Knowledge \[arcana\]), [Toughness](ref/feat/toughness)
 
 **Bloodline Arcana**
 
@@ -82,28 +79,28 @@ following table.
 allowing you to make two claw attacks as a full attack action using your full base attack bonus.
 Each of these attacks deals 1d4 points of damage plus your Strength modifier (1d3 if you are Small).
 
-**At 11th Level:** These claws deal an additional 1d6 points of damage of your energy type on a
-successful hit.
+**Gained:** At 1st Level
+
+**Usage:** 3 + Charisma modifier rounds/day
 
 **At 5th Level:** These claws are considered magic weapons for the purpose of overcoming DR.
 
 **At 7th Level:** The damage [increases by one step](ref/misc/damage-die-adjustments) to 1d6 points
 of damage (1d4 if you are Small).
 
-**Gained:** At 1st Level
-
-**Usage:** Charisma3 modifier rounds/day
+**At 11th Level:** These claws deal an additional 1d6 points of damage of your energy type on a
+successful hit.
 
 **Dragon Resistances (Ex)**
-
-**At 15th Level:** Your natural armor bonus increases to +4.
-
-**At 9th Level:** Your energy resistance increases to 10 and natural armor bonus increases to +2.
 
 **Gained:** At 3rd Level
 
 **Passive:** You gain [resist](ref/umr/resistance) 5 against your energy type and a +1 natural armor
 bonus.
+
+**At 9th Level:** Your energy resistance increases to 10 and natural armor bonus increases to +2.
+
+**At 15th Level:** Your natural armor bonus increases to +4.
 
 **Breath Weapon (Su)**
 
@@ -113,11 +110,11 @@ damage. The DC of this save is equal to 10 + half your sorcerer level + your Cha
 shape of the breath weapon depends on your dragon type (as indicated on the above chart). You can
 use this ability once per day.
 
+**Gained:** At 9th Level
+
 **At 17th Level:** You can use this ability twice per day.
 
 **At 20th Level:** You can use this ability three times a day.
-
-**Gained:** At 9th Level
 
 **Wings (Su)**
 
@@ -276,7 +273,7 @@ True dragons blast their foes with rays of energy.
 targeting any foe within 30 feet as a ranged touch attack. The ray deals an amount of damage equal
 to 1d6 + [half](ref/misc/fractions-and-rounding) of your sorcerer level.
 
-**Usage:** Charisma3 modifier times/day
+**Usage:** 3 + Charisma modifier times/day
 
 There are no official description of which linnorm types grant which types of breath weapon. The
 following is a summary of the basic form of each linnorm's breath weapon, with extra notes in
