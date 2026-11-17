@@ -3,16 +3,13 @@ id = "ref/spell/instant-summons"
 kind = "spell"
 title = "Instant Summons"
 aon = "SpellDisplay.aspx?ItemName=Instant%20Summons"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "instant_summons", path = "json/spells14.json" },
 ]
 [[sources]]
 publication = "core-rulebook"
 page = "301"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "217"
 
 [fields]
 kind = "spell"

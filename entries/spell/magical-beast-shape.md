@@ -3,7 +3,7 @@ id = "ref/spell/magical-beast-shape"
 kind = "spell"
 title = "Magical Beast Shape"
 aon = "SpellDisplay.aspx?ItemName=Magical%20Beast%20Shape"
-source_ids = ["core-rulebook", "ultimate-wilderness", "animal-archive"]
+source_ids = ["core-rulebook", "ultimate-wilderness"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "magical_beast_shape", path = "json/spells12.json" },
 ]
@@ -12,10 +12,7 @@ relations = [
 ]
 [[sources]]
 publication = "ultimate-wilderness"
-page = "231"
-[[sources]]
-publication = "animal-archive"
-page = "25"
+page = "232"
 
 [fields]
 kind = "spell"

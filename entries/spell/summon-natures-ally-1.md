@@ -3,16 +3,13 @@ id = "ref/spell/summon-natures-ally-1"
 kind = "spell"
 title = "Summon Nature's Ally I"
 aon = "SpellDisplay.aspx?ItemName=Summon%20Nature%27s%20Ally%201"
-source_ids = ["core-rulebook", "inner-sea-races"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "summon_natures_ally_1", path = "json/spells16.json" },
 ]
 [[sources]]
 publication = "core-rulebook"
 page = "354"
-[[sources]]
-publication = "inner-sea-races"
-page = "223"
 
 [fields]
 kind = "spell"

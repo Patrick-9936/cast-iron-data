@@ -2,15 +2,12 @@
 id = "ref/rule/ability-weapon-groups/monk"
 kind = "rule"
 title = "Monk"
-source_ids = ["core-rulebook", "ultimate-wilderness"]
+source_ids = ["core-rulebook"]
 section = ["Weapon Groups"]
 parent = "ref/ability/weapon-groups"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "json/class_abilities5.json#weapon_groups|section:monk", path = "json/class_abilities5.json" },
 ]
-[[sources]]
-publication = "ultimate-wilderness"
-page = "51"
 
 [fields]
 kind = "none"

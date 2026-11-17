@@ -3,16 +3,13 @@ id = "ref/spell/shield-other"
 kind = "spell"
 title = "Shield Other"
 aon = "SpellDisplay.aspx?ItemName=Shield%20Other"
-source_ids = ["core-rulebook", "animal-archive"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "shield_other", path = "json/spells9.json" },
 ]
 [[sources]]
 publication = "core-rulebook"
 page = "342"
-[[sources]]
-publication = "animal-archive"
-page = "25"
 
 [fields]
 kind = "spell"

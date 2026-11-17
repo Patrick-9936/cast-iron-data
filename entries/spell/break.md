@@ -3,16 +3,13 @@ id = "ref/spell/break"
 kind = "spell"
 title = "Break"
 aon = "SpellDisplay.aspx?ItemName=Break"
-source_ids = ["advanced-players-guide", "ultimate-intrigue"]
+source_ids = ["advanced-players-guide"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "break", path = "json/spells2.json" },
 ]
 [[sources]]
 publication = "advanced-players-guide"
 page = "207"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "205"
 
 [fields]
 kind = "spell"

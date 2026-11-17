@@ -3,7 +3,7 @@ id = "ref/spell/charm-fey"
 kind = "spell"
 title = "Charm Fey"
 aon = "SpellDisplay.aspx?ItemName=Charm%20Fey"
-source_ids = ["core-rulebook", "the-first-world-realm-of-the-fey", "ultimate-intrigue"]
+source_ids = ["core-rulebook", "the-first-world-realm-of-the-fey"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "charm_fey", path = "json/spells2.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "the-first-world-realm-of-the-fey"
 page = "12"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "206"
 
 [fields]
 kind = "spell"

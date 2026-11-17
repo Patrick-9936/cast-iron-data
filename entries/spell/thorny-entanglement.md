@@ -3,7 +3,7 @@ id = "ref/spell/thorny-entanglement"
 kind = "spell"
 title = "Thorny Entanglement"
 aon = "SpellDisplay.aspx?ItemName=Thorny%20Entanglement"
-source_ids = ["core-rulebook", "villain-codex", "advanced-class-guide", "legacy-of-the-first-world"]
+source_ids = ["core-rulebook", "advanced-class-guide", "legacy-of-the-first-world"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "thorny_entanglement", path = "json/spells4.json" },
 ]
@@ -16,9 +16,6 @@ page = "196"
 [[sources]]
 publication = "legacy-of-the-first-world"
 page = "17"
-[[sources]]
-publication = "villain-codex"
-page = "140"
 
 [fields]
 kind = "spell"

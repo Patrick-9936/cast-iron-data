@@ -3,16 +3,13 @@ id = "ref/spell/divination"
 kind = "spell"
 title = "Divination"
 aon = "SpellDisplay.aspx?ItemName=Divination"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "divination", path = "json/spells13.json" },
 ]
 [[sources]]
 publication = "core-rulebook"
 page = "273"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "223"
 
 [fields]
 kind = "spell"

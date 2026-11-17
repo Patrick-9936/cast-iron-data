@@ -3,7 +3,7 @@ id = "ref/spell/bestow-curse"
 kind = "spell"
 title = "Bestow Curse"
 aon = "SpellDisplay.aspx?ItemName=Bestow%20Curse"
-source_ids = ["core-rulebook", "pathfinder-82-secrets-of-the-sphinx", "ultimate-intrigue", "ultimate-magic"]
+source_ids = ["core-rulebook", "pathfinder-82-secrets-of-the-sphinx", "ultimate-magic"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "bestow_curse", path = "json/spells12.json" },
 ]
@@ -13,9 +13,6 @@ page = "247"
 [[sources]]
 publication = "pathfinder-82-secrets-of-the-sphinx"
 page = "75"
-[[sources]]
-publication = "ultimate-intrigue"
-page = "206"
 
 [fields]
 kind = "spell"

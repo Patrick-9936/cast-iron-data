@@ -3,7 +3,7 @@ id = "ref/spell/hungry-pit"
 kind = "spell"
 title = "Hungry Pit"
 aon = "SpellDisplay.aspx?ItemName=Hungry%20Pit"
-source_ids = ["advanced-players-guide", "villain-codex"]
+source_ids = ["advanced-players-guide"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "hungry_pit", path = "json/spells3.json" },
 ]
@@ -13,9 +13,6 @@ relations = [
 [[sources]]
 publication = "advanced-players-guide"
 page = "228"
-[[sources]]
-publication = "villain-codex"
-page = "188"
 
 [fields]
 kind = "spell"
