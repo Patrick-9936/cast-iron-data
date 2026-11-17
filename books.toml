@@ -14221,20 +14221,8 @@ title = "Ability Damage and Drain"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/ability-damage-and-drain"
 
 [[books.chapters.children]]
-title = "All-Around Vision"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/all-around-vision"
-
-[[books.chapters.children]]
-title = "Amorphous"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/amorphous"
-
-[[books.chapters.children]]
 title = "Amphibious"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/amphibious"
-
-[[books.chapters.children]]
-title = "Attach"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/attach"
 
 [[books.chapters.children]]
 title = "Bleed"
@@ -14249,14 +14237,6 @@ title = "Blindsight"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/blindsight"
 
 [[books.chapters.children]]
-title = "Blood Drain"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/blood-drain"
-
-[[books.chapters.children]]
-title = "Blood Rage"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/blood-rage"
-
-[[books.chapters.children]]
 title = "Breath Weapon"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/breath-weapon"
 
@@ -14265,20 +14245,12 @@ title = "Burn"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/burn"
 
 [[books.chapters.children]]
-title = "Capsize"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/capsize"
-
-[[books.chapters.children]]
 title = "Change Shape"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/change-shape"
 
 [[books.chapters.children]]
 title = "Channel Resistance"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/channel-resistance"
-
-[[books.chapters.children]]
-title = "Compression"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/compression"
 
 [[books.chapters.children]]
 title = "Constrict"
@@ -14293,10 +14265,6 @@ title = "Curse"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/curse"
 
 [[books.chapters.children]]
-title = "Curse of Lycanthropy"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/curse-of-lycanthropy"
-
-[[books.chapters.children]]
 title = "Damage Reduction"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/damage-reduction"
 
@@ -14309,28 +14277,12 @@ title = "Distraction"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/distraction"
 
 [[books.chapters.children]]
-title = "Earth Glide"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/earth-glide"
-
-[[books.chapters.children]]
 title = "Energy Drain"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/energy-drain"
 
 [[books.chapters.children]]
-title = "Engulf"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/engulf"
-
-[[books.chapters.children]]
-title = "Entrap"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/entrap"
-
-[[books.chapters.children]]
 title = "Fast Healing"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/fast-healing"
-
-[[books.chapters.children]]
-title = "Fast Swallow"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/fast-swallow"
 
 [[books.chapters.children]]
 title = "Fear"
@@ -14345,10 +14297,6 @@ title = "Flight"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/flight"
 
 [[books.chapters.children]]
-title = "Freeze"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/freeze"
-
-[[books.chapters.children]]
 title = "Frightful Presence"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/frightful-presence"
 
@@ -14361,32 +14309,12 @@ title = "Grab"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/grab"
 
 [[books.chapters.children]]
-title = "Heat"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/heat"
-
-[[books.chapters.children]]
-title = "Hold Breath"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/hold-breath"
-
-[[books.chapters.children]]
 title = "Immunity"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/immunity"
 
 [[books.chapters.children]]
 title = "Incorporeal"
 entry = "ref/subtype/incorporeal"
-
-[[books.chapters.children]]
-title = "Jet"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/jet"
-
-[[books.chapters.children]]
-title = "Keen Scent"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/keen-scent"
-
-[[books.chapters.children]]
-title = "Lifesense"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/lifesense"
 
 [[books.chapters.children]]
 title = "Light Blindness"
@@ -14401,28 +14329,8 @@ title = "Low-Light Vision"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/low-light-vision"
 
 [[books.chapters.children]]
-title = "Lycanthropic Empathy"
-entry = "ref/umr/lycanthropic-empathy"
-
-[[books.chapters.children]]
-title = "Multiweapon Mastery"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/multiweapon-mastery"
-
-[[books.chapters.children]]
 title = "Natural Attacks"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/natural-attacks"
-
-[[books.chapters.children]]
-title = "Natural Invisibility"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/natural-invisibility"
-
-[[books.chapters.children]]
-title = "Negative Energy Affinity"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/negative-energy-affinity"
-
-[[books.chapters.children]]
-title = "No Breath"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/no-breath"
 
 [[books.chapters.children]]
 title = "Paralysis"
@@ -14481,14 +14389,6 @@ title = "Scent"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/scent"
 
 [[books.chapters.children]]
-title = "See in Darkness"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/see-in-darkness"
-
-[[books.chapters.children]]
-title = "Sound Mimicry"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/sound-mimicry"
-
-[[books.chapters.children]]
 title = "Spell-Like Abilities"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/spell-like-abilities"
 
@@ -14497,24 +14397,12 @@ title = "Spell Resistance"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/spell-resistance"
 
 [[books.chapters.children]]
-title = "Split"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/split"
-
-[[books.chapters.children]]
 title = "Stench"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/stench"
 
 [[books.chapters.children]]
-title = "Strangle"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/strangle"
-
-[[books.chapters.children]]
 title = "Summon"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/summon"
-
-[[books.chapters.children]]
-title = "Sunlight Powerlessness"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/sunlight-powerlessness"
 
 [[books.chapters.children]]
 title = "Swallow Whole"
@@ -14541,24 +14429,8 @@ title = "Undead Traits"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/undead-traits"
 
 [[books.chapters.children]]
-title = "Undersized Weapons"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/undersized-weapons"
-
-[[books.chapters.children]]
-title = "Unnatural Aura"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/unnatural-aura"
-
-[[books.chapters.children]]
 title = "Vulnerabilities"
 entry = "ref/carried/bestiary/rules/universal-monster-rules/vulnerabilities"
-
-[[books.chapters.children]]
-title = "Water Breathing"
-entry = "ref/umr/water-breathing"
-
-[[books.chapters.children]]
-title = "Water Dependency"
-entry = "ref/carried/bestiary/rules/universal-monster-rules/water-dependency"
 
 [[books.chapters.children]]
 title = "Web"
@@ -15020,10 +14892,6 @@ entry = "ref/carried/bestiary/rules/encounter-tables/urban-dangerous-city"
 [[books.chapters]]
 title = "New entries (page order)"
 review = "Canonical entries of this publication that the curated PSRD tree does not place. They follow their page number; this is a page-ordered list, not a chapter position."
-
-[[books.chapters.children]]
-title = "Skaveling Ghoul Fever"
-entry = "ref/carried/bestiary-2/monsters/bat/skaveling/special-abilities/disease/skaveling-ghoul-fever"
 
 [[books.chapters.children]]
 title = "Gamemastery"
