@@ -2,20 +2,28 @@
 """Screen book memberships against print (phynics/cast-iron#461, from #457).
 
 Since #434 every book in an entry's `source_ids` makes the entry a member of that book. This
-script finds memberships that the book does not print. It reads the corpus and the owner's PDFs
+script finds memberships that the book may not print. It reads the corpus and the owner's PDFs
 and writes a TSV queue. The queue holds ids, titles, book ids and page numbers. It never holds
-PDF text, and the script never prints it.
+PDF text, never prints it, and keeps PDF file names and paths out of every message.
 
     python3 scripts/membership-screen.py <corpus-dir> --pdf-dir <dir> --out queue.tsv \
         [--text-cache <dir>] [--books id,id] [--jobs 3]
 
 Needs `pdftotext` (poppler) on PATH, Python 3.11+, and no other packages. The text cache is the
-only place that holds extracted text. Keep it outside any repository (the script refuses a cache
-inside the corpus). Without --text-cache it uses a temporary directory and removes it at the end.
+only place that holds extracted text. It must be outside the corpus and outside any git
+repository (the script refuses otherwise); an entry is extracted again when its PDF changes.
+Without --text-cache it uses a temporary directory and removes it at the end. A PDF that fails to
+extract is named by publication id only, and the run exits with status 1.
+
+THE QUEUE IS A LIST OF HYPOTHESES, NOT PROOF. A tag says why a membership looks unprinted. It
+never authorises a removal: each row needs a print check (the cited page, and any table, sidebar
+or renamed section that holds the entry) and a recorded verdict before it is removed. A script
+may then apply only the approved rows. See the `verdict` and `print_page` columns.
 
 What is screened
   Every (entry, book) pair where the entry has more than one `source_ids` book and the book has
   an owner PDF (matched to `publications.toml` by title, so no file name appears in any output).
+  Linked entries with one book are screened as well, only as family evidence, and are not queued.
     * The entry has a `[[sources]]` row for the book with a page: the title must be printed on
       that page or the page before or after it (printed page numbers; a range covers all of it).
     * Otherwise (no row, or a row without a page): the title must be printed anywhere in the
@@ -23,29 +31,36 @@ What is screened
   "Title" is the entry title without parentheticals such as "(Familiar)", also with a comma
   inversion ("Cure Light Wounds, Mass" -> "Mass Cure Light Wounds"), with an optional plural,
   and with or without a leading "The". The match is on whole words, with punctuation, case and
-  hyphenation at line ends ignored. A title of two or more words that is not printed as a
-  phrase can still pass as `loose`.
+  hyphenation at line ends ignored. It is a heuristic: a plural in print for a singular title is
+  found only for the "-s", "-es" and "-f/-ves" forms, and a parenthetical can be what tells two
+  entries apart. The `body` and `loose` passes below are weaker evidence than a title.
 
 Status of each pair
   printed   the title is on the cited page window (row) or on at least `--weak-pages`+1 pages
             of the book (no row)
-  body      a row, the title is not on the window, but six words in a row from each of up to three
-            places in the entry's own prose are (a book that reprints the text). Counted as
-            printed; not queued. With no row, a body run found anywhere in the book also makes
-            a title that is missing or on one page only count as printed.
+  body      the title is not on the window (row) or on at most `--weak-pages` pages (no row),
+            but six words in a row from each of up to three places in the entry's own prose are
+            on the window or anywhere in the book (a prose of 6 to 11 words is one run). Counted
+            as printed; not queued. Tables, stat blocks and headings are not part of the prose.
   loose     a row, the exact title is not on the window, but every word of it is (a variant or a
             table row printed in another order). Counted as printed; not queued.
-  weak      no row, and the title is on 1..`--weak-pages` pages of the book: a mention at most
-  off-page  a row, the title is not on the window but is elsewhere in the book: the page
-            citation is off, which is not an unprinted membership
-  absent    the title is not on the window (row) or nowhere in the book (no row)
+  weak      no row, no body match, and the title is on 1..`--weak-pages` pages of the book: a
+            mention at most. About half of these are printed.
+  off-page  a row, the title (or the body prose) is not on the window but is elsewhere in the
+            book: the page citation is off, which is not an unprinted membership
+  absent    nothing of the above
   unaligned the book's page numbers could not be read (fewer than --min-align of its pages
-            carry a number that agrees with their neighbours), so no verdict. Not queued.
-  no-text   the PDF has no text layer.
+            carry a number that agrees with their neighbours): no verdict of any kind for any of
+            its memberships, and no page numbers. Not queued.
+  no-text   the PDF has no text layer. Not queued.
 
-Tag of each queued pair (`absent`, plus `weak` and `off-page` with their own tag)
+Tag of each queued pair
+  hub-keep     the entry is a hub (kind rule/ability/misc whose body opens "These topics" or has
+               two or more per-section `**Sources:**` lines). The owner keeps hub memberships.
+               Never a removal.
   family-leak  an entry linked by `variant`/`addon` (either direction), its `parent`, or one of
-               its children prints the title in this book (that entry's own status is printed)
+               its children prints the title in this book (that entry's own status is printed
+               or body)
   inherited    its parent has the same book in `source_ids`, and the entry has no row for it
   uncited      the book is in `source_ids` with no `[[sources]]` row
   review       none of the above
@@ -57,12 +72,21 @@ Columns of the TSV: book, entry, kind, title, member (1 = first book of `source_
 tag, status, cited (page text of the row or body line), cite (row|body|none), hits (pages of the
 book that print the title or body text, no-row checks and off-page rows), found (printed numbers
 of the first five of those pages), via (variant|addon|parent|child), family (up to three linked
-entries that print there), parent_has_book (yes when the entry's parent lists the book).
+entries that print there, each with the evidence: title or body), parent_has_book (yes when the
+entry's parent lists the book).
+  gate  `primary` on a row that is the entry's first book (not hub-keep or cite-off). Removing it
+        changes the entry's primary book, so it is never part of a scripted batch. The reviewer
+        records the old and the proposed primary, checks that the proposed primary prints the
+        entry, keeps at least one supported membership, and decides on its own.
+  proposed_primary, proposed_status  on a gated row: the first later book that is not itself a
+        removal candidate for the entry, and this script's status for it ("unscreened" without
+        a PDF; "(none)" when every other book is a removal candidate)
+  verdict, print_page  empty. The reviewer's decision (`remove`, `keep`, `expanded_in`, ...) and
+        the printed page that decides it.
 
-Known limits (see the PR for the calibration): a hub rule entry (a container such as "Rare
-Races") is never printed under its own title, so its rows land in `uncited`/`review`; they need an
-owner decision, not a script. A title found on one page only with no row is `weak`, and about
-half of those are printed. Books whose PDF has no readable page numbers get no verdict.
+Known limits (see the PR for the calibration): no-PDF memberships and books without readable
+page numbers are not judged, and neither says anything about absence. A hub-looking entry that
+does not match the hub rule above lands in `uncited`/`review` and needs the owner.
 
 Output is deterministic: sorted, no timestamps. Run `python3 scripts/membership-screen.py -h`.
 """
@@ -81,7 +105,9 @@ import tomllib
 import unicodedata
 from pathlib import Path
 
-TAG_ORDER = ["family-leak", "inherited", "uncited", "review", "weak", "cite-off"]
+TAG_ORDER = ["hub-keep", "family-leak", "inherited", "uncited", "review", "weak", "cite-off"]
+REMOVAL_TAGS = ("family-leak", "inherited", "uncited", "review")
+HUB_KINDS = ("rule", "ability", "misc")
 
 # Publication id -> other spellings of the title that the owner's PDF uses.
 ALT_TITLES = {
@@ -113,7 +139,7 @@ def squash(s: str) -> str:
 
 def pdf_stem_title(stem: str) -> str:
     """The book title in a PDF file name: no product code, edition note or module code."""
-    s = re.sub(r"^PZO[\w.-]*\s+", "", stem)
+    s = re.sub(r"^[A-Z]{2,4}\d[\w.-]*\s+", "", stem)  # a leading product code
     s = re.sub(r"^Pathfinder\s*\[[^\]]*\]\s*", "", s)
     s = re.sub(r"\s*\([^)]*\)", "", s)
     s = re.sub(r"^[A-Z]{1,2}\d(?:\.\d)?\s*-\s*", "", s)
@@ -161,8 +187,10 @@ def body_chunks(body: str) -> list[re.Pattern]:
         keep.append(line)
     text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", " ".join(keep))
     toks = fold(text).split()[:400]
-    if len(toks) < 12:
+    if len(toks) < 6:
         return []
+    if len(toks) < 12:  # short prose: one run of all its words, up to ten
+        return [re.compile(r"(?<![a-z0-9])" + r"\ ".join(map(re.escape, toks[:10])) + r"(?![a-z0-9])")]
     n = 6
     starts = sorted({0, len(toks) // 3, 2 * len(toks) // 3})
     starts = [p for p in starts if p + n <= len(toks)]
@@ -310,6 +338,16 @@ def body_pages(body: str, title_to_pub: dict[str, str]) -> dict[str, str]:
     return out
 
 
+def is_hub(d: dict) -> bool:
+    """A container entry that collects sections from several books ("Rare Races", "Advanced GM
+    Topics"): its body opens "These topics ...", or it has two or more per-section `**Sources:**`
+    lines. No book prints it under its own title, and the owner keeps its memberships."""
+    if d["kind"] not in HUB_KINDS:
+        return False
+    body = d["_body"].strip()
+    return bool(re.match(r"These topics\b", body)) or len(re.findall(r"^\*\*Sources?:\*\*", body, re.M)) >= 2
+
+
 def parse_pages(page: str) -> list[tuple[int, int]]:
     spans = []
     for part in re.split(r"\s*,\s*", page or ""):
@@ -337,13 +375,29 @@ def match_pdfs(pdf_dir: Path, pubs: dict, wanted: set[str]) -> dict[str, Path]:
     return out
 
 
-def extract(pdf: Path, dest: Path, tool: str) -> None:
-    if dest.exists():
-        return
-    tmp = dest.with_suffix(".part")
-    subprocess.run([tool, "-enc", "UTF-8", str(pdf), str(tmp)], check=True,
-                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    tmp.replace(dest)
+def extract(pdf: Path, dest: Path, tool: str) -> str | None:
+    """Extract one PDF into the cache. Returns None, or an error text with no path in it.
+
+    The cache entry is valid only while the PDF has the size and modification time that its
+    `.src` stamp records, so a replaced PDF is extracted again."""
+    try:
+        st = pdf.stat()
+        stamp = f"{st.st_size}:{st.st_mtime_ns}"
+        src = dest.with_suffix(".src")
+        if dest.exists() and src.exists() and src.read_text() == stamp:
+            return None
+        tmp = dest.with_suffix(".part")
+        subprocess.run([tool, "-enc", "UTF-8", str(pdf), str(tmp)], check=True,
+                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=900)
+        tmp.replace(dest)
+        src.write_text(stamp)
+    except subprocess.CalledProcessError as e:
+        return f"pdftotext exit status {e.returncode}"
+    except subprocess.TimeoutExpired:
+        return "pdftotext timed out"
+    except OSError as e:
+        return f"{type(e).__name__}"  # the message can name a file
+    return None
 
 
 # --------------------------------------------------------------------------------------- screen
@@ -363,28 +417,44 @@ def screen(args) -> int:
     for e, d in sorted(multi.items()):
         for b in d["source_ids"]:
             members[b].append(e)
+    links = build_links(entries)
+    # Linked entries with a single book are screened too, as family evidence only (never queued).
+    screen_set = {b: list(v) for b, v in members.items()}
+    for e in sorted(multi):
+        for kind in links.get(e, {}):
+            for o in sorted(links[e][kind]):
+                for b in multi[e]["source_ids"]:
+                    if b in entries[o].get("source_ids", []) and o not in screen_set[b]:
+                        screen_set[b].append(o)
     wanted = {b for b in members if b in pubs}
     if args.books:
         wanted &= set(args.books.split(","))
+    if not Path(args.pdf_dir).is_dir():
+        sys.exit("--pdf-dir is not a directory")
     pdfs = match_pdfs(Path(args.pdf_dir), pubs, wanted)
 
     cache_owned = args.text_cache is None
     cache = Path(args.text_cache) if args.text_cache else Path(tempfile.mkdtemp(prefix="membership-"))
     cache = cache.resolve()
-    if root == cache or root in cache.parents:
-        sys.exit("--text-cache must be outside the corpus")
+    if root == cache or root in cache.parents or any((p / ".git").exists() for p in [cache, *cache.parents]):
+        sys.exit("--text-cache must be outside the corpus and outside any git repository")
     cache.mkdir(parents=True, exist_ok=True)
     try:
         with concurrent.futures.ThreadPoolExecutor(args.jobs) as ex:
-            list(ex.map(lambda b: extract(pdfs[b], cache / f"{b}.txt", args.pdftotext), sorted(pdfs)))
-        return run(args, root, pubs, entries, multi, members, pdfs, cache, title_to_pub)
+            results = list(ex.map(lambda b: (b, extract(pdfs[b], cache / f"{b}.txt", args.pdftotext)), sorted(pdfs)))
+        failed = {b: err for b, err in results if err}
+        for b, err in sorted(failed.items()):
+            print(f"extraction failed: {b}: {err}", file=sys.stderr)
+            pdfs.pop(b)
+        rc = run(args, root, pubs, entries, multi, members, screen_set, links, pdfs, cache, title_to_pub)
+        return 1 if failed else rc
     finally:
         if cache_owned:
             shutil.rmtree(cache, ignore_errors=True)
 
 
-def run(args, root, pubs, entries, multi, members, pdfs, cache, title_to_pub) -> int:
-    # relations in both directions, and parent / children
+def build_links(entries) -> dict[str, dict[str, set[str]]]:
+    """Relations in both directions (variant, addon) and parent / children."""
     links: dict[str, dict[str, set[str]]] = collections.defaultdict(lambda: collections.defaultdict(set))
     for e, d in entries.items():
         for r in d.get("relations", []):
@@ -395,22 +465,29 @@ def run(args, root, pubs, entries, multi, members, pdfs, cache, title_to_pub) ->
         if p and p in entries:
             links[e]["parent"].add(p)
             links[p]["child"].add(e)
+    return links
 
+
+def run(args, root, pubs, entries, multi, members, screen_set, links, pdfs, cache, title_to_pub) -> int:
     status: dict[tuple[str, str], dict] = {}
     quality = {}
     for book in sorted(pdfs):
-        raw = (cache / f"{book}.txt").read_text(encoding="utf-8", errors="replace").split("\f")
+        try:
+            raw = (cache / f"{book}.txt").read_text(encoding="utf-8", errors="replace").split("\f")
+        except OSError as e:
+            print(f"cannot read the cached text of {book}: {type(e).__name__}", file=sys.stderr)
+            continue
         if raw and not raw[-1].strip():
             raw.pop()
         if sum(len(p.strip()) for p in raw) < 2000:
-            for e in members[book]:
+            for e in screen_set[book]:
                 status[(e, book)] = {"status": "no-text"}
             quality[book] = (len(members[book]), 0, 0, "no-text", 0.0)
             continue
         bk = Book(raw)
         rows = hit = 0
         res = {}
-        for e in members[book]:
+        for e in screen_set[book]:
             d = entries[e]
             rx = re.compile("|".join(title_patterns(d["title"]))) if title_patterns(d["title"]) else None
             row = next((s for s in d.get("sources", []) if s["publication"] == book), None)
@@ -436,36 +513,39 @@ def run(args, root, pubs, entries, multi, members, pdfs, cache, title_to_pub) ->
                 elif lw and any(bk.window_has_words(a, z, lw) for a, z in spans):
                     r["status"] = "loose"
                 else:
-                    pg = bk.pages_with(rx)
+                    pg = bk.pages_with(rx) or sorted({i for c in chunks for i in bk.pages_with(c, 5)})
                     r["hits"] = len(pg)
                     r["found"] = [bk.printed[i] for i in pg[:5]]
                     r["status"] = "off-page" if pg else "absent"
             else:
                 pg = bk.pages_with(rx)
-                if not pg or len(pg) <= args.weak_pages:
+                body_pg = []
+                if len(pg) <= args.weak_pages:
                     body_pg = sorted({i for c in chunks for i in bk.pages_with(c, 5)})
-                    if body_pg:
-                        pg, r["body"] = body_pg, True
+                if body_pg:  # the book prints the entry's own text: supported, not weak
+                    pg, r["status"] = body_pg, "body"
+                else:
+                    r["status"] = "absent" if not pg else ("weak" if len(pg) <= args.weak_pages else "printed")
                 r["hits"] = len(pg)
                 r["found"] = [bk.printed[i] for i in pg[:5]]
-                r["status"] = "absent" if not pg else ("weak" if len(pg) <= args.weak_pages else "printed")
             res[e] = r
         rate = hit / rows if rows else 1.0
         aligned = bk.align >= args.min_align
         quality[book] = (len(members[book]), rows, rate, "ok" if aligned else "unaligned", bk.align)
         for e, r in res.items():
-            if not aligned and r["status"] in ("absent", "off-page"):
-                r["status"] = "unaligned"
+            if not aligned:  # no readable page numbers: no verdict of any kind, and no page numbers
+                r = {"status": "unaligned", "has_row": r["has_row"], "cited": r["cited"], "cite": r["cite"],
+                     "hits": 0, "found": []}
             status[(e, book)] = r
 
     def prints_there(e: str, book: str) -> bool:
         s = status.get((e, book))
-        return bool(s) and s["status"] in ("printed", "body", "loose", "weak") and (s["cite"] != "none" or s["hits"] > args.weak_pages)
+        return bool(s) and s["status"] in ("printed", "body")  # not loose, not weak: too permissive
 
     queue = []
-    for (e, book), r in status.items():
+    for (e, book), r in sorted(status.items()):
         st = r["status"]
-        if st in ("printed", "body", "loose", "unaligned", "no-text"):
+        if e not in multi or st in ("printed", "body", "loose", "unaligned", "no-text"):
             continue
         d = entries[e]
         lk = links.get(e, {})
@@ -475,10 +555,12 @@ def run(args, root, pubs, entries, multi, members, pdfs, cache, title_to_pub) ->
             for o in sorted(lk.get(kind, ())):
                 if book in entries[o].get("source_ids", []) and prints_there(o, book):
                     via.append(kind)
-                    fam.append(o)
+                    fam.append(f"{o}({'title' if status[(o, book)]['status'] == 'printed' else 'body'})")
         parent = d.get("parent")
         parent_has = bool(parent and parent in entries and book in entries[parent].get("source_ids", []))
-        if st == "weak":
+        if is_hub(d):
+            tag = "hub-keep"
+        elif st == "weak":
             tag = "weak"
         elif st == "off-page":
             tag = "cite-off"
@@ -497,11 +579,26 @@ def run(args, root, pubs, entries, multi, members, pdfs, cache, title_to_pub) ->
             "found": ",".join(map(str, r["found"])),
             "via": ",".join(dict.fromkeys(via)), "family": ",".join(fam[:3]),
             "parent_has_book": "yes" if parent_has else "",
+            "gate": "", "proposed_primary": "", "proposed_status": "", "verdict": "", "print_page": "",
         })
+    # First-book rows change the entry's primary book when removed: gate them, and name the book
+    # that would become primary (the first later book that is not itself a removal candidate).
+    removal_books = collections.defaultdict(set)
+    for q in queue:
+        if q["tag"] in REMOVAL_TAGS:
+            removal_books[q["entry"]].add(q["book"])
+    for q in queue:
+        if q["member"] == 1 and q["tag"] not in ("hub-keep", "cite-off"):
+            q["gate"] = "primary"
+            rest = [b for b in entries[q["entry"]]["source_ids"][1:] if b not in removal_books[q["entry"]]]
+            q["proposed_primary"] = rest[0] if rest else "(none)"
+            if rest:
+                q["proposed_status"] = status.get((q["entry"], rest[0]), {}).get("status", "unscreened")
     queue.sort(key=lambda q: (q["book"], TAG_ORDER.index(q["tag"]), q["entry"]))
 
     cols = ["book", "entry", "kind", "title", "member", "n_books", "tag", "status", "cited", "cite",
-            "hits", "found", "via", "family", "parent_has_book"]
+            "hits", "found", "via", "family", "parent_has_book", "gate", "proposed_primary",
+            "proposed_status", "verdict", "print_page"]
     with open(args.out, "w", encoding="utf-8", newline="\n") as f:
         f.write("\t".join(cols) + "\n")
         for q in queue:
@@ -519,9 +616,12 @@ def report(queue, status, quality, multi, pdfs, members) -> None:
     c = collections.Counter(v["status"] for v in status.values())
     print("status:", dict(sorted(c.items())))
     print("tag:", dict(sorted(collections.Counter(q["tag"] for q in queue).items(),
-                              key=lambda kv: TAG_ORDER.index(kv[0]))))
+                              key=lambda kv: TAG_ORDER.index(kv[0]))), "rows:", len(queue))
     bad = sorted(b for b, q in quality.items() if q[3] != "ok")
     print("books without a verdict:", len(bad), bad[:60])
+    gated = [q for q in queue if q["gate"]]
+    print("first-book rows gated:", len(gated), dict(collections.Counter(q["tag"] for q in gated)),
+          "| proposed primary status:", dict(collections.Counter(q["proposed_status"] or q["proposed_primary"] for q in gated)))
     rates = [q[2] for q in quality.values() if q[1] >= 5 and q[3] == "ok"]
     if rates:
         rates.sort()
@@ -530,10 +630,10 @@ def report(queue, status, quality, multi, pdfs, members) -> None:
     per = collections.defaultdict(collections.Counter)
     for q in queue:
         per[q["book"]][q["tag"]] += 1
-    top = sorted(per, key=lambda b: -sum(v for t, v in per[b].items() if t not in ("weak", "cite-off")))[:20]
-    print("top books (flagged excluding weak/cite-off):")
+    top = sorted(per, key=lambda b: -sum(per[b][t] for t in REMOVAL_TAGS))[:20]
+    print("top books (removal candidates):")
     for b in top:
-        n = sum(v for t, v in per[b].items() if t not in ("weak", "cite-off"))
+        n = sum(per[b][t] for t in REMOVAL_TAGS)
         print(f"  {b}\t{n}\t{dict(per[b])}")
 
 
@@ -550,7 +650,11 @@ def main() -> int:
                     help="a title on this many pages or fewer, with no row, is a weak mention")
     ap.add_argument("--min-align", type=float, default=0.3,
                     help="least share of a book's pages with a readable page number before its verdicts count")
-    return screen(ap.parse_args())
+    try:
+        return screen(ap.parse_args())
+    except (OSError, subprocess.SubprocessError) as e:
+        # The message of these errors can name a PDF or a path; keep it out of the output.
+        sys.exit(f"error: {type(e).__name__} (message withheld)")
 
 
 if __name__ == "__main__":
