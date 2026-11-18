@@ -6,6 +6,7 @@ source_ids = ["magic-of-thassilon"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "the_gluttonous_tome", path = "json/magic_artifact3.json" },
 ]
+license_refs = ["legal#community-use"]
 [[sources]]
 publication = "magic-of-thassilon"
 page = "2"

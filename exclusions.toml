@@ -55528,3 +55528,43 @@ reason = "duplicate of ref/race/halfling; the record prints the later printing's
 [[rejected]]
 path = "ref/carried/core-rulebook/races/humans"
 reason = "duplicate of ref/race/human; the record prints the later printing's prose for the same topics, and the chapter's sentence about Common is merged into its Names paragraph"
+
+[[resolved]]
+path = "json/prestige_classes.json#thought_thief_arcane_trickster"
+entries = ["ref/pclass/thought-thief-arcane-trickster"]
+reason = "Thought Thief (Arcane Trickster) now ships as `ref/pclass/thought-thief-arcane-trickster` from the Paizo Blog post Hodgepodge from the Grand Lodge!, covered by the Community Use Policy. This supersedes the earlier out-of-scope row. Refs phynics/cast-iron#36."
+
+[[resolved]]
+path = "json/races2.json#primitive_human"
+entries = ["ref/race/primitive-human"]
+reason = "Primitive Human now ships as `ref/race/primitive-human` from the Paizo Blog post The Gauntlet Will Be Ours! and the Primitive Human PDF, covered by the Community Use Policy. This supersedes the earlier out-of-scope row. Refs phynics/cast-iron#36."
+
+[[resolved]]
+path = "json/spells2.json#breeze"
+entries = ["ref/spell/breeze"]
+reason = "Breeze now ships as `ref/spell/breeze` from the Paizo Blog post Ultimate Cantrips, covered by the Community Use Policy. This supersedes the earlier out-of-scope row. Refs phynics/cast-iron#36."
+
+[[resolved]]
+path = "json/spells13.json#drench"
+entries = ["ref/spell/drench"]
+reason = "Drench now ships as `ref/spell/drench` from the Paizo Blog post Ultimate Cantrips, covered by the Community Use Policy. This supersedes the earlier out-of-scope row. Refs phynics/cast-iron#36."
+
+[[resolved]]
+path = "json/spells6.json#jolt"
+entries = ["ref/spell/jolt"]
+reason = "Jolt now ships as `ref/spell/jolt` from the Paizo Blog post Ultimate Cantrips, covered by the Community Use Policy. This supersedes the earlier out-of-scope row. Refs phynics/cast-iron#36."
+
+[[resolved]]
+path = "json/spells7.json#penumbra"
+entries = ["ref/spell/penumbra"]
+reason = "Penumbra now ships as `ref/spell/penumbra` from the Paizo Blog post Ultimate Cantrips, covered by the Community Use Policy. This supersedes the earlier out-of-scope row. Refs phynics/cast-iron#36."
+
+[[resolved]]
+path = "json/spells8.json#root"
+entries = ["ref/spell/root"]
+reason = "Root now ships as `ref/spell/root` from the Paizo Blog post Ultimate Cantrips, covered by the Community Use Policy. This supersedes the earlier out-of-scope row. Refs phynics/cast-iron#36."
+
+[[resolved]]
+path = "json/spells8.json#scoop"
+entries = ["ref/spell/scoop"]
+reason = "Scoop now ships as `ref/spell/scoop` from the Paizo Blog post Ultimate Cantrips, covered by the Community Use Policy. This supersedes the earlier out-of-scope row. Refs phynics/cast-iron#36."
