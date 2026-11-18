@@ -51038,6 +51038,21 @@ path = "pi-screen"
 records = 484
 reason = "Product Identity and outbound-link omissions across the in-scope inventory: external-link 484"
 
+[[excluded]]
+path = "json/archetypes_ranger.json#sable_company_marine"
+records = 1
+reason = """Paizo Blog - Sable Company Marine (Golarion Day, "Return of the Sable Company"): not added as a source membership. The shipped record is the later Inner Sea Combat page 43 revision, and the blog's earlier wording is not imported. The entry text keeps the blog as a credit. Tracked in #36."""
+
+[[excluded]]
+path = "json/class_ability_domains.json#death"
+records = 1
+reason = 'Paizo Blog - Golarion Day Subdomains: the "Pharasma-Friendly Death Domain" adjustment (a domain-spell change) is blog-only material and is not shipped, because the Death domain itself is not yet a corpus entry (see the rejected row for this path). The blog is covered by the Community Use Policy; add the adjustment when the Death domain lands. Tracked in #36.'
+
+[[excluded]]
+path = "json/class_ability_domains2.json#repose"
+records = 1
+reason = 'Paizo Blog - Golarion Day Subdomains: the "Pharasma-Friendly Repose Domain" adjustment (a domain-spell change) is blog-only material and is not shipped, because the Repose domain itself is not yet a corpus entry (see the rejected row for this path). The blog is covered by the Community Use Policy; add the adjustment when the Repose domain lands. Tracked in #36.'
+
 [[rejected]]
 path = "json/archetypes_barbarian.json#totem_warrior"
 reason = "converter native exclusion (ref/arc-barbarian/totem-warrior): json/archetypes_barbarian.json#totem_warrior uses compileFrom; recipe expansion is not implemented"
