@@ -46,7 +46,7 @@ A sudden downpour soaks the target, and the rain follows it up to the spell’s 
 is on fire, its flames are automatically extinguished. The spell also automatically extinguishes
 fires smaller than campfires, such as lanterns and torches.
 
-**Note:** This is a rare cantrip. Spellcasters that gain access to all 0-level spells at 1st level do
-not gain access to rare cantrips. A spellcaster gains access to rare cantrips only by uncovering
+**Note:** This is a rare cantrip. Spellcasters that gain access to all 0-level spells at 1st level
+do not gain access to rare cantrips. A spellcaster gains access to rare cantrips only by uncovering
 their secrets in some other way. Some are guarded by jealous mages, while others are lost in missing
 libraries or molder on forgotten scrolls.

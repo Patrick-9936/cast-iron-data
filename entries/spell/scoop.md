@@ -47,7 +47,7 @@ container to pick up or drop liquid as a move action. It holds up to 1 pint of l
 objects weighing up to 5 pounds. With 1 minute of careful concentration, you can gather up a pint of
 liquid or small objects spread across a surface.
 
-**Note:** This is a rare cantrip. Spellcasters that gain access to all 0-level spells at 1st level do
-not gain access to rare cantrips. A spellcaster gains access to rare cantrips only by uncovering
+**Note:** This is a rare cantrip. Spellcasters that gain access to all 0-level spells at 1st level
+do not gain access to rare cantrips. A spellcaster gains access to rare cantrips only by uncovering
 their secrets in some other way. Some are guarded by jealous mages, while others are lost in missing
 libraries or molder on forgotten scrolls.

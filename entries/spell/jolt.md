@@ -44,7 +44,7 @@ Effect: spark of electricity
 You cause a spark of electricity to strike the target on a successful ranged touch attack, dealing
 1d3 points of electricity damage.
 
-**Note:** This is a rare cantrip. Spellcasters that gain access to all 0-level spells at 1st level do
-not gain access to rare cantrips. A spellcaster gains access to rare cantrips only by uncovering
+**Note:** This is a rare cantrip. Spellcasters that gain access to all 0-level spells at 1st level
+do not gain access to rare cantrips. A spellcaster gains access to rare cantrips only by uncovering
 their secrets in some other way. Some are guarded by jealous mages, while others are lost in missing
 libraries or molder on forgotten scrolls.
