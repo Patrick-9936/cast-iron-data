@@ -119,9 +119,9 @@ against mind-affecting effects.
 **Replaces:** Supreme charge
 
 ^1^ \*Chronicle of Legends\* introduced new standards for the \*banner\* ability, and stated that a
-standard bearer can select one and that "&its effects increase as per the standard bearer's
-\*banner.\*"& The original archetype provided the text for the "&Original Standard,"& which started
-the cavalier with the 5th-level benefit and scaled that benefit up at 5th level and every five
-levels thereafter. There is no official ruling on how the new standards work with this archetype, so
-the modifications presented here are merely suggestions. Consult your GM if you wish to use a
-standard other than the Original Standard.
+standard bearer can select one and that "its effects increase as per the standard bearer's
+\*banner.\*" The original archetype provided the text for the "Original Standard," which started the
+cavalier with the 5th-level benefit and scaled that benefit up at 5th level and every five levels
+thereafter. There is no official ruling on how the new standards work with this archetype, so the
+modifications presented here are merely suggestions. Consult your GM if you wish to use a standard
+other than the Original Standard.

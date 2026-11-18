@@ -18,5 +18,3 @@ group = "ninja-trick"
 a [vigilante](ref/class/vigilante), except that the ninja can spend 1 ki point to change identities
 as a **move action**. The ninja's identities are referred to as social and ninja, rather than social
 and vigilante.
-
-&Next1& &Next2&
