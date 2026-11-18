@@ -2,10 +2,13 @@
 id = "ref/domain/void"
 kind = "class_option"
 title = "Void"
-source_ids = ["book-of-the-damned", "gods-and-magic", "horror-adventures", "bestiary-4", "inner-sea-world-guide", "people-of-the-stars", "inner-sea-gods", "pathfinder-46-wake-of-the-watcher"]
+source_ids = ["paizo-blog-golarion-day-subdomains", "book-of-the-damned", "gods-and-magic", "horror-adventures", "bestiary-4", "inner-sea-world-guide", "people-of-the-stars", "inner-sea-gods", "pathfinder-46-wake-of-the-watcher"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "void", path = "json/class_ability_domains3.json" },
 ]
+[[sources]]
+publication = "paizo-blog-golarion-day-subdomains"
+page = "1"
 [[sources]]
 publication = "book-of-the-damned"
 page = "182"

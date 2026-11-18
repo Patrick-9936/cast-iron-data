@@ -2,10 +2,13 @@
 id = "ref/domain/scalykind"
 kind = "class_option"
 title = "Scalykind"
-source_ids = ["book-of-the-damned", "inner-sea-world-guide", "pathfinder-37-souls-for-smugglers-shiv", "gods-and-magic", "inner-sea-gods", "champions-of-purity"]
+source_ids = ["paizo-blog-golarion-day-subdomains", "book-of-the-damned", "inner-sea-world-guide", "pathfinder-37-souls-for-smugglers-shiv", "gods-and-magic", "inner-sea-gods", "champions-of-purity"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "scalykind", path = "json/class_ability_domains2.json" },
 ]
+[[sources]]
+publication = "paizo-blog-golarion-day-subdomains"
+page = "1"
 [[sources]]
 publication = "book-of-the-damned"
 page = "181"

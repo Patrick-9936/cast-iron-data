@@ -1,6 +1,6 @@
 product_identity = "The following items are hereby identified as Product Identity, as defined in the Open Game License 1.0a, Section 1(e), and are not Open Content: All trademarks, registered trademarks, proper names (characters, deities, etc.), dialogue, plots, storylines, locations, characters, artworks, and trade dress. (Elements that have previously been designated as Open Game Content are not included in this declaration.)"
 community_use_notice = "Cast Iron uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (paizo.com/licenses/communityuse). We are expressly prohibited from charging you to use or access this content. Cast Iron is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit paizo.com."
-notice_pending = ["Hodgepodge from the Grand Lodge!", "Kingmaker Player's Guide", "Magic of Thassilon", "Serpent's Skull Player's Guide"]
+notice_pending = ["Hodgepodge from the Grand Lodge!", "Kingmaker Player's Guide", "Serpent's Skull Player's Guide"]
 
 [[licenses]]
 id = "ogl-1.0a"
@@ -3879,6 +3879,35 @@ notice = "Pathfinder Campaign Setting: Horror Realms © 2016, Paizo Inc.; Author
 [[section_15]]
 title = "Pathfinder Campaign Setting: Inner Sea Taverns"
 notice = "Pathfinder Campaign Setting: Inner Sea Taverns © 2018, Paizo Inc.; Authors: Kate Baker, Eleanor Ferron, Michelle Jones, Jason Keeley, Luis Loza, Jacob W. Michaels, Joe Pasini, and David N. Ross."
+
+[[section_15]]
+title = "Pathfinder Roleplaying Game Primitive Human"
+notice = "Pathfinder Roleplaying Game Primitive Human © 2014, Paizo Inc.; Author: Jason Bulmahn."
+
+[[publication_licenses]]
+publication_id = "hodgepodge-from-the-grand-lodge"
+title = "Hodgepodge from the Grand Lodge!"
+license_refs = ["ogl-1.0a", "legal#community-use"]
+
+[[publication_licenses]]
+publication_id = "magic-of-thassilon"
+title = "More Magic of Thassilon"
+license_refs = ["legal#community-use"]
+
+[[publication_licenses]]
+publication_id = "paizo-blog-golarion-day-subdomains"
+title = "Golarion Day: Other Gods and New Subdomains"
+license_refs = ["legal#community-use"]
+
+[[publication_licenses]]
+publication_id = "paizo-blog-the-gauntlet-will-be-ours"
+title = "The Gauntlet Will Be Ours!"
+license_refs = ["ogl-1.0a", "legal#community-use"]
+
+[[publication_licenses]]
+publication_id = "paizo-blog-ultimate-cantrips"
+title = "Ultimate Cantrips"
+license_refs = ["legal#community-use"]
 
 [[datasets]]
 id = "psrd-data"

@@ -2,10 +2,13 @@
 id = "ref/rule/rare-races"
 kind = "rule"
 title = "Rare Races"
-source_ids = ["blood-of-the-sea", "inner-sea-races", "iron-gods-players-guide", "planar-adventures", "bestiary-5", "pathfinder-111-dreams-of-the-yellow-king", "bestiary", "occult-bestiary", "distant-shores", "ultimate-wilderness", "bestiary-4", "inner-sea-bestiary", "people-of-the-stars", "isles-of-the-shackles", "bestiary-6", "darklands-revisited", "pathfinder-84-pyramid-of-the-sky-pharaoh", "blood-of-the-moon", "pathfinder-70-the-frozen-stars"]
+source_ids = ["blood-of-the-sea", "inner-sea-races", "iron-gods-players-guide", "planar-adventures", "bestiary-5", "pathfinder-111-dreams-of-the-yellow-king", "bestiary", "occult-bestiary", "distant-shores", "ultimate-wilderness", "bestiary-4", "inner-sea-bestiary", "people-of-the-stars", "isles-of-the-shackles", "bestiary-6", "darklands-revisited", "pathfinder-84-pyramid-of-the-sky-pharaoh", "blood-of-the-moon", "pathfinder-70-the-frozen-stars", "paizo-blog-the-gauntlet-will-be-ours"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "rare_races", path = "json/rules_basics01.json" },
 ]
+[[sources]]
+publication = "paizo-blog-the-gauntlet-will-be-ours"
+page = "1"
 [[sources]]
 publication = "bestiary-5"
 page = "37"

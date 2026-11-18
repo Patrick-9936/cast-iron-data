@@ -1430,8 +1430,10 @@ aon = "SourceDisplay.aspx?FixedSource=Lost%20Treasures"
 
 [[publication]]
 id = "magic-of-thassilon"
-title = "Magic of Thassilon"
-copyright = "Magic of Thassilon: Section 15 notice pending; Open Game Content used under the OGL."
+title = "More Magic of Thassilon"
+copyright = "More Magic of Thassilon (web supplement), by Brian Cortijo and Owen K. C. Stephens, with Stephen S. Greer, Tim Hitchcock, Michael Kortes, Nicolas Logue, and Greg A. Vaughan; accompanying Paizo Blog post by James Jacobs."
+category = "Web supplement"
+publication_date = "2008-01-28"
 
 [[publication]]
 id = "magic-tactics-toolbox"
@@ -1675,6 +1677,27 @@ copyright = "Pathfinder Campaign Setting: Osirion, Legacy of Pharaohs © 2014, P
 category = "Campaign Setting"
 publication_date = "2014-01-09"
 aon = "SourceDisplay.aspx?FixedSource=Osirion%2C%20Legacy%20of%20the%20Pharaohs"
+
+[[publication]]
+id = "paizo-blog-golarion-day-subdomains"
+title = "Golarion Day: Other Gods and New Subdomains"
+copyright = "Paizo Blog, by James Jacobs; illustration credited to Carolina Eade (not reproduced)."
+category = "Web supplement"
+publication_date = "2011-02-10"
+
+[[publication]]
+id = "paizo-blog-the-gauntlet-will-be-ours"
+title = "The Gauntlet Will Be Ours!"
+copyright = "Pathfinder Roleplaying Game Primitive Human © 2014, Paizo Inc.; Author: Jason Bulmahn."
+category = "Web supplement"
+publication_date = "2014-05-17"
+
+[[publication]]
+id = "paizo-blog-ultimate-cantrips"
+title = "Ultimate Cantrips"
+copyright = "Paizo Blog, by Jason Bulmahn; illustration credited to Craig J. Spearing (not reproduced)."
+category = "Web supplement"
+publication_date = "2011-05-24"
 
 [[publication]]
 id = "path-of-the-hellknight"
