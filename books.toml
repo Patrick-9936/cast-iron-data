@@ -29028,10 +29028,6 @@ title = "New entries (page order)"
 review = "Canonical entries of this publication that the curated PSRD tree does not place. They follow their page number; this is a page-ordered list, not a chapter position."
 
 [[books.chapters.children]]
-title = "Deadeye Devotee (Arcane Archer)"
-entry = "ref/pclass/deadeye-devotee-arcane-archer"
-
-[[books.chapters.children]]
 title = "Cabal Devil (Uniila)"
 entry = "ref/monster/devil-cabal-devil-uniila"
 
