@@ -2,16 +2,16 @@
 id = "ref/pclass/deadeye-devotee-arcane-archer"
 kind = "archetype"
 title = "Deadeye Devotee (Arcane Archer)"
-source_ids = ["core-rulebook"]
+source_ids = ["hodgepodge-from-the-grand-lodge"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "deadeye_devotee_arcane_archer", path = "json/prestige_classes.json" },
 ]
+license_refs = ["legal#community-use"]
 relations = [
   { kind = "archetype", target = "ref/pclass/arcane-archer" },
 ]
 [[sources]]
-publication = "core-rulebook"
-page = "374"
+publication = "hodgepodge-from-the-grand-lodge"
 
 [fields]
 kind = "none"
@@ -32,7 +32,7 @@ criteria.
 **Base Attack Bonus:** +6.\
 **Feats:** [Point-Blank Shot](ref/feat/point-blank-shot), [Precise Shot](ref/feat/precise-shot),
 [Weapon Focus](ref/feat/weapon-focus) (longbow).\
-**Spells:** Ability to cast 1st-level arcane spells.
+**Spells:** Must be able to cast 1st-level divine spells.
 
 This alters requirements.
 

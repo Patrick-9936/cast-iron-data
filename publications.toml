@@ -1131,6 +1131,13 @@ publication_date = "2015-04-29"
 aon = "SourceDisplay.aspx?FixedSource=Heroes%20of%20the%20Wild"
 
 [[publication]]
+id = "hodgepodge-from-the-grand-lodge"
+title = "Hodgepodge from the Grand Lodge!"
+copyright = "Hodgepodge from the Grand Lodge! © 2019, Paizo Inc.; Author: Luis Loza."
+category = "Web supplement"
+publication_date = "2019-05-20"
+
+[[publication]]
 id = "hollows-last-hope"
 title = "Hollow's Last Hope"
 copyright = "GameMastery Module D0: Hollow’s Last Hope, Copyright 2007 Paizo Publishing, LLC. Author: Jason Bulmahn and F. Wesley Schneider."
