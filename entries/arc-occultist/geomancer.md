@@ -216,8 +216,8 @@ invested in the terrain (to a maximum equal to his occultist level).
 **Terrain Stride (Su)**
 
 **At 5th Level:** The geomancer can expend 2 points of mental focus invested in the terrain to
-instead increase all of his movement speeds by 20 feet.^1^ This affects only movement speeds he
-already has.
+instead increase all of his movement speeds by 20 feet. This affects only movement speeds he already
+has.
 
 **Gained:** At 5th Level
 
@@ -251,6 +251,3 @@ thickness.
 **Standard:** A geomancer can expend 3 points of mental focus invested in the terrain to fashion a
 solid wall of the surrounding terrain, no matter its actual composition. This functions as per
 [wall of stone](ref/spell/wall-of-stone), using the geomancer's occultist level as his caster level.
-
-^1^ The original source material lists both abilities as being 5th-level. It does not list how long
-the bonuses last, either. No errata has been printed.

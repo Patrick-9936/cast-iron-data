@@ -184,7 +184,7 @@ made by darker bits of flame or patches of semi-stable smoke, ash, and cinders.
 **Skills:** Acrobatics +8, Climb +5, Escape Artist +8, Intimidate +5, Knowledge (planes) +1,
 Perception +7
 
-###### B {#footnote-b}
+###### B {#footnote-b-2}
 
 Bonus feat.
 
@@ -254,7 +254,7 @@ Bonus feat.
 **Skills:** Acrobatics +14, Climb +9, Escape Artist +12, Intimidate +9, Knowledge (planes) +5,
 Perception +11
 
-###### B {#footnote-b}
+###### B {#footnote-b-3}
 
 Bonus feat.
 
@@ -325,7 +325,7 @@ Weapon Finesse^B^
 **Skills:** Acrobatics +16, Climb +13, Escape Artist +16, Intimidate +9, Knowledge (planes) +7,
 Perception +13
 
-###### B {#footnote-b}
+###### B {#footnote-b-4}
 
 Bonus feat.
 
@@ -396,7 +396,7 @@ Attack, Weapon Finesse^B^, Wind Stance
 **Skills:** Acrobatics +23, Climb +20, Escape Artist +21, Intimidate +15, Knowledge (planes) +10,
 Perception +16
 
-###### B {#footnote-b}
+###### B {#footnote-b-5}
 
 Bonus feat.
 
@@ -467,6 +467,6 @@ Mobility, Spring Attack, Weapon Finesse^B^, Wind Stance
 **Skills:** Acrobatics +28, Climb +27, Escape Artist +28, Intimidate +19, Knowledge (planes) +19,
 Perception +19
 
-###### B {#footnote-b}
+###### B {#footnote-b-6}
 
 Bonus feat.

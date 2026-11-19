@@ -127,7 +127,7 @@ monk's Wisdom bonus.
 |[Hydraulic Push](ref/spell/hydraulic-push)|1|
 |[Ki Arrow](ref/spell/ki-arrow)|1|
 |[Message](ref/spell/message)|1|
-|[Mighty Fist of the Earth](ref/spell/mighty-fist-of-the-earth) ^[3](ref/arc-monk/qinggong-monk#footnote-k)^|1|
+|[Mighty Fist of the Earth](ref/spell/mighty-fist-of-the-earth)|1|
 |[Psychic Reading](ref/spell/psychic-reading)|1|
 |[Scorching Ray](ref/spell/scorching-ray)|2|
 |[Stone Shield](ref/spell/stone-shield)|1|
@@ -331,8 +331,3 @@ Can be used as an immediate action.
 ###### ^2^ {#footnote-s}
 
 Can only be used on himself.
-
-###### ^3^ {#footnote-k}
-
-If the monk has 0 ki points after activating this ki power, the rock created does not count as a _ki
-strike._

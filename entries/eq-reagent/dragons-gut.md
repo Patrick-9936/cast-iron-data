@@ -38,7 +38,3 @@ spending a standard action to wipe the clinging acid from its body.
 [Acidic spray](ref/spell/acidic-spray) **(M):** The spell deals 1d8 points of acid damage per caster
 level (maximum 15d8) instead of the normal 1d6 per caster level on the round of its casting (Reflex
 half). It still deals 1d6 points of damage per two caster levels on the following round as normal.
-
-> _Note: The original source doesn't state whether the spells use it as a material or focus cost.
-> The first two have clear parallels with the_ acid _entry, but the third is a guess. Consult your
-> GM._

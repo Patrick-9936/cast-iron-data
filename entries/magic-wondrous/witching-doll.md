@@ -39,10 +39,4 @@ herself. Many hags use this ability to make a witching doll seem mundane by cast
 ### Construction
 
 **Requirements** [Craft Wondrous Item](ref/feat/craft-wondrous-item),
-[enter image](ref/spell/enter-image) or scare^[1](ref/magic-wondrous/witching-doll#footnote-s)^ hex;
-**Cost** 15,000 gp
-
-###### ^1^ {#footnote-s}
-
-No such hex has been published. It's possible this could refer to the [scar](ref/hex/scar) hex, or
-the spell [scare](ref/spell/scare). Consult your GM.
+[enter image](ref/spell/enter-image) or scare hex; **Cost** 15,000 gp

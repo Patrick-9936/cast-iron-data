@@ -58,12 +58,6 @@ Descriptors: mind-affecting
 
 You instill the target animal with a general purpose (see the
 [Handle Animal](ref/skill/handle-animal) skill), which can be any purpose except combat training:
-fighting, guarding, heavy labor, hunting, performance, or
-riding.^[1](ref/spell/animal-purpose-training#footnote-1)^ This purpose supersedes the animal's
-previous trained purpose and any tricks it knows. When the spell ends, the animal reverts to its
-previous trained purpose and known tricks.
-
-###### ^1^ {#footnote-1}
-
-Other purposes have been added by other sourcebooks. Consult your GM if you wish to use one of the
-purposes not listed in the spell.
+fighting, guarding, heavy labor, hunting, performance, or riding. This purpose supersedes the
+animal's previous trained purpose and any tricks it knows. When the spell ends, the animal reverts
+to its previous trained purpose and known tricks.

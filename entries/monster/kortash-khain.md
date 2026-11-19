@@ -182,7 +182,7 @@ reach, lore keeper, spell synthesis
 
 **2nd-level spells:**
 
-- 9/day: command undead (DC 23), false life\#C, mirror image, resist energy, scorching ray, spider
+- 9/day: command undead (DC 23), false life, mirror image, resist energy, scorching ray, spider
   climb (mythic spell)
 
 **1st-level spells:**
@@ -199,7 +199,11 @@ reach, lore keeper, spell synthesis
 
 ###### M {#footnote-m}
 
-mythic spell\|D\~domain spell\|C\~This spell has already been cast
+mythic spell
+
+###### D {#footnote-d}
+
+domain spell
 
 **Statistics**
 

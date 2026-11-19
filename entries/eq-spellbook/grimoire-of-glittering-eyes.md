@@ -44,9 +44,6 @@ suggestion is for the reader to "Close the book and leave").\
   [magic aura](ref/spell/magic-aura)^[1](ref/eq-spellbook/grimoire-of-glittering-eyes#footnote-s)^,
   [magic weapon](ref/spell/magic-weapon), [shield](ref/spell/shield), [sleep](ref/spell/sleep)
 
-_Note:_ The original text also contains a 3rd-level spell named "madness", but the spell was not
-included in the source book.
-
 #### Ritual
 
 **Glittering Eyes (Su)** When casting an illusion spell, you gain expanded sight. Spend this boon's

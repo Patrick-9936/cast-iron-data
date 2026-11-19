@@ -46,7 +46,7 @@ in this way at a time.
 
 **Blessing of Prosperity (Su)**
 
-**Choice:** At 3rd level, the paladin can select a _blessing_ (see below).^1^
+**Choice:** At 3rd level, the paladin can select a _blessing_ (see below).
 
 **Flavor:** A knight of coins is a patron of wealth and seeks to even the playing field for those
 who have unfair economic disadvantages.
@@ -128,5 +128,3 @@ of determining available magic items.
 
 **Special:** The target must choose the affected settlement when the knight of coins bestows this
 blessing.
-
-^1^ The blessings were unnamed in the original text. They have been given names here for clarity.

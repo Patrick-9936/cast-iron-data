@@ -19,14 +19,13 @@ category = "Wondrous Items"
 price = "900 gp (Blue, Green, Orange, Red, Silver, and Yellow), 1,800 gp (Black and White)"
 weight = "-"
 slot = "none"
-aura = "moderate (school varies[^S])"
+aura = "moderate (school varies)"
 caster_level = "7th"
 +++
 
 ## Shoanti War Paint
 
-**Aura** moderate (school varies^[1](ref/magic-wondrous/shoanti-war-paint-orange#footnote-s)^);
-**CL** 7th\
+**Aura** moderate (school varies); **CL** 7th\
 **Slot** none; **Price** 900 gp (Blue, Green, Orange, Red, Silver, and Yellow), 1,800 gp (Black and
 White); **Weight** -
 
@@ -65,9 +64,3 @@ their effects.
 (blue), [heroism](ref/spell/heroism) (green), [resist energy](ref/spell/resist-energy) (red),
 [shield of faith](ref/spell/shield-of-faith) (silver), [stoneskin](ref/spell/stoneskin) (orange);
 **Cost** 900 gp (black and white paint), 450 gp (all other paints)
-
-###### ^1^ {#footnote-s}
-
-There are no official sources as to which school auras each color has. As a non-official suggestion
-based on the spells required: black is illusion; yellow is divination; white is necromancy; blue is
-transmutation; green is enchantment; and red, orange, and silver are abjuration.

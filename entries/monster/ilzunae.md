@@ -243,6 +243,6 @@ cages in her palace as trophies.
 Ilzunae prefers promises of time left to her own devices on the Material Plane, but will accept the
 bodies of grieving widows or widowers as well. It's a DC 29 check to research the Gloom Widow.
 
-###### ^1^ {#footnote-d}
+###### ^1^ {#footnote-d-2}
 
 Domain spell

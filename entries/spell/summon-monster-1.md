@@ -76,11 +76,10 @@ components (such as wish).
 
 When you use a summoning spell to summon a creature with an alignment or elemental subtype, it is a
 spell of that type. Creatures on Table 10-1 marked with an asterisk (\*) are summoned with a
-template that matches your alignment.^[1](ref/spell/summon-monster-1#footnote-1)^ If you are
-neutral, you may choose which template (if any) to apply to the
-creature.^[2](ref/spell/summon-monster-1#footnote-2)^ Those creatures always have an alignment that
-matches yours, regardless of their usual alignment. Summoning these creatures makes the summoning
-spell's type match your alignment.
+template that matches your alignment. If you are neutral, you may choose which template (if any) to
+apply to the creature. Those creatures always have an alignment that matches yours, regardless of
+their usual alignment. Summoning these creatures makes the summoning spell's type match your
+alignment.
 
 |Alignment|Template|
 | --- | --- |
@@ -189,22 +188,3 @@ spell's type match your alignment.
 |9|Ice devil|Evil, Lawful|
 |9|Nalfeshnee (demon)|Chaotic, Evil|
 |9|Trumpet archon|Good, Lawful|
-
-###### ^1^ {#footnote-1}
-
-By a strict rules-as-written interpretation, regular casters can only apply the celestial or
-fiendish templates, since this spell was written before the resolute and entropic templates existed.
-_Bestiary 2_ introduced the resolute and entropic templates and said they could apply to summons,
-but left no specifics. _Monster Summoner's Handbook_ added archetypes that could use the resolute
-and entropic templates. However, Paizo's official open-content website cites _MSH_ and notes "summon
-monster can be used to summon creatures with the entropic or resolute templates instead of the
-celestial or fiendish template". In any event, only one template may be applied automatically to a
-summoned creature: lawful good casters could choose celestial or resolute, but not both. Consult
-your GM.
-
-###### ^2^ {#footnote-2}
-
-The original text was written before the entropic and resolute templates were created (see footnote
-above), so the text generally refers to neutral on the good-evil axis only. However, a neutral good
-caster could theoretically pick either resolute or entropic instead of the default celestial.
-Consult your GM.

@@ -189,10 +189,9 @@ and chromatic dragons.
 
 Dahak escaped his father's claws, and though the metallic dragons were poised to pursue, Apsu bade
 them to save their rage for another day. He then asked his mate why she aided their treacherous son,
-but she merely named herself \[redacted\]^[1](ref/faith/apsu#footnote-r)^, mother of all - a name
-that still brings pain to all dragons - and held Apsu responsible for the deaths of her children.
-She then expelled him from their primordial realm, and Apsu vowed that, one day, he would make his
-stand against Dahak.
+but she merely named herself \[redacted\], mother of all - a name that still brings pain to all
+dragons - and held Apsu responsible for the deaths of her children. She then expelled him from their
+primordial realm, and Apsu vowed that, one day, he would make his stand against Dahak.
 
 Apsu and Dahak's bitter enmity has since been the source of discord among the dragons of the cosmos.
 Apsu has accepted the inevitability of a final conflict with his son, choosing, for unknown reasons,
@@ -200,7 +199,3 @@ the world of Golarion on which to make his last stand. Apsu's avatar is a dragon
 largest of the great wyrms, a regal and magnificent sight to behold. His silver scales sparkle with
 a pearlescent glow. When in this form, Apsu guides dragons and mortals alike, preparing all for the
 day his final battle with Dahak will commence.
-
-###### ^1^ {#footnote-r}
-
-All dragons on live in fear of her and refuse to even speak her name.

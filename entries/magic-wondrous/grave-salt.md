@@ -26,9 +26,9 @@ caster_level = "5th"
 When poured on ground in a circle, this pure white salt sanctifies the enclosed area as the spell
 _[consecrate](ref/spell/consecrate)._ Applying the salt takes 1 round per dose. A single dose is
 sufficient to form a 5-foot radius circle, with each additional dose increasing the circle's radius
-by 5 feet.^[1](ref/magic-wondrous/grave-salt#footnote-m)^ The area within the circle remains
-consecrated for 1 hour per dose, though any corporeal creature can spend a standard action to break
-the circle and end the effect prematurely. A newly created pouch of grave salt holds 5 doses.
+by 5 feet. The area within the circle remains consecrated for 1 hour per dose, though any corporeal
+creature can spend a standard action to break the circle and end the effect prematurely. A newly
+created pouch of grave salt holds 5 doses.
 
 Grave salt can also be used directly against restless spirits. A single dose can be hurled up to 15
 feet as a ranged touch attack. An incorporeal undead creature struck by the salt must make a DC 14
@@ -39,9 +39,3 @@ other effects that penalize ranged attacks make it impossible to employ the salt
 
 **Requirements** [Craft Wondrous Item](ref/feat/craft-wondrous-item),
 [consecrate](ref/spell/consecrate); **Cost** 550 gp
-
-###### ^1^ {#footnote-m}
-
-This may seem mathematically sketchy, but it's actually true. The perimeter (length) of a 5-foot
-radius circle is 10π feet. Increasing the radius by 5 feet increases the perimeter by another 10π
-feet. Therefore, each dose contains enough salt to make a line roughly 31.4 ft. long.

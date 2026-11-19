@@ -61,6 +61,3 @@ need to eat, drink, or breathe, but they can't leave the vault except via magic 
 The vault used as a focus for secret vault must cost at least 25,000 gp, and its replica costs 250
 gp. A secret vault has only a 1% cumulative chance per day of becoming irretrievably lost after 360
 days.
-
-> _Note: The original source does not mention a change in duration from
-> *[secret chest](ref/spell/secret-chest)*, but the text implies a 360-day duration._

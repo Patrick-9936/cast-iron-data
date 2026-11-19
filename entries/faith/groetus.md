@@ -147,9 +147,8 @@ Night, [Stars](ref/domain/void), [Truth](ref/domain/madness)^[1](ref/faith/groet
 >
 > - [Fear](ref/spell/fear) can be prepared as a 4th-level spell
 > - [Confusion, Lesser](ref/spell/confusion-lesser) can be prepared as a 2nd-level spell
->   ^[2](ref/faith/groetus#footnote-m)^
+>
 > - [Confusion](ref/spell/confusion) can be prepared as a 4th-level spell
->   ^[2](ref/faith/groetus#footnote-m)^
 >
 > ### Unique Summon Rules
 >
@@ -195,7 +194,3 @@ Groetus as a patron deity, she relapses in a matter of hours or days.
 ###### ^1^ {#footnote-a}
 
 Requires the [Acolyte of Apocrypha](ref/trait/acolyte-of-apocrypha) trait.
-
-###### ^2^ {#footnote-m}
-
-Only clerics with the Madness or Void domain can do this.

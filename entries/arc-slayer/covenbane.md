@@ -68,7 +68,7 @@ study a target with a swift or immediate action.
 
 **At 7th Level:** Anyone the slayer threatens no longer counts as an ally for the purposes of
 friendly spellcasting or employing teamwork feats and cannot access any special abilities gained
-from being part of a coven (including coven spellcasting).^1^
+from being part of a coven (including coven spellcasting).
 
 **Replaces:** Stalker
 
@@ -85,6 +85,3 @@ disguised creatures.
 **Special:** He also gains [Blind-Fight](ref/feat/blind-fight) as a bonus feat but gains its
 benefits only against spellcasters and creatures with
 [spell-like abilities](ref/umr/spell-like-abilities).
-
-^1^ It's not explicitly stated, but since this replaces Stalker and is listed between a 2nd-level
-and 11th-level ability, it has been listed here as a 7th-level ability.

@@ -63,9 +63,6 @@ contagion. The target itself does not become diseased, and suffers no ill effect
 Once plague bearer ends, the target is no longer contagious, though any creature it infected remains
 diseased.
 
-**Note:** The original source printed this as a 6th-level antipaladin spell, but that class only has
-spellcasting up to 4th level, hence why it's listed as 4th-level here.
-
 Some spells are more common among the worshipers of a god. Worshipers of a spell's associated deity
 always treat the spell as common, and need not research it in order to prepare or learn it. This
 spell is available to members of other faiths, though some temples or religious organizations may

@@ -39,6 +39,3 @@ component.
 
 [Stinking cloud:](ref/spell/stinking-cloud) The Fortitude save DC increases by 1 for creatures of
 the odor stalk's prescribed type, but decreases by 1 for all other creature types.
-
-> _Note: The original source doesn't state whether the spells use it as a material or focus cost.
-> Consult your GM._

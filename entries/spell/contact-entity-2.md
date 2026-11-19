@@ -74,8 +74,3 @@ contact creatures from the _contact entity II_ list, and as noted above.
 |[Rhu-chalik](ref/monster/rhu-chalik)|Brain of a creature that had 16 Int or higher \[evil\]|
 |[Shantak](ref/monster/shantak)|A shard of rock harvested from another world \[chaotic\]|
 |[Yangethe](ref/monster/yangethe)|Scroll of an emotion spell of 4th level or higher|
-
-###### ^1^ {#footnote-l}
-
-No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may
-determine the spell gains the chaotic and evil descriptors.

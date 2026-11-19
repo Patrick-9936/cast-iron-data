@@ -90,8 +90,3 @@ both, as indicated on the table.
 |[Nightgaunt](ref/monster/nightgaunt)|Sculpture of an animal with the face filed smooth \[chaotic\]|
 |[Ratling](ref/monster/ratling)|Spell scroll of 1st level or higher \[chaotic, evil\]|
 |[Voonith](ref/monster/voonith)|Bundle of cattail plants \[chaotic\]|
-
-###### ^1^ {#footnote-l}
-
-No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may
-determine the spell gains the chaotic and evil descriptors.

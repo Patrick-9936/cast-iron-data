@@ -34,8 +34,8 @@ elemental nature of the land surrounding them.
 
 Whenever a terrakineticist gains a wild talent that isn't a universal talent, she chooses one wild
 talent of the appropriate level from each of the six [elements](ref/ability/elements) (aether, air,
-fire, earth, water, and wood).^1^ She can use wild talents of the same element that she chose in
-this way to meet prerequisites for these wild talents. Instead of gaining one kineticist blast, a
+fire, earth, water, and wood). She can use wild talents of the same element that she chose in this
+way to meet prerequisites for these wild talents. Instead of gaining one kineticist blast, a
 terrakineticist chooses one simple blast from each element that has more than one simple blast.
 
 When in a corresponding terrain, as determined by the ranger
@@ -105,7 +105,3 @@ turn.
 **Gained:** At 20th Level
 
 **Replaces:** Omnikinesis
-
-^1^ This archetype was introduced before the \*void\* element was created. Consult your GM if you
-wish to use that element, too. As a suggestion, consider terrains such as the lowest levels of the
-Darklands, outer space, the Shadow Plane, and the Negative Energy Plane.

@@ -61,7 +61,3 @@ damage. Each round it drains blood in this way, the target heals 5 hit points or
 hit points for the duration of the spell (up to a maximum number of temporary hit points equal to
 its full normal hit points). If the target does not drain blood in this way while under the effects
 of this spell, it becomes exhausted at the end of the spell's duration.
-
-**Note:** Normally, only [transmutation](ref/spelldef/transmutation) spells can be of the polymorph
-subschool. No errata has been issued for this spell; it's unclear if the school and subschool were
-an intentional design choice or a mistake.

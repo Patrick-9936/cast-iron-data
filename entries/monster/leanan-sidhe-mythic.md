@@ -24,7 +24,7 @@ reflex = "+15"
 will = "+13"
 melee = "dagger +5 (1d4/19-20) or touch +5 (1d4 Cha damage)"
 special_attacks = "life drain"
-special_qualities = "change shape (any female humanoid)#C, skill blessing, spell blessing, unearthly grace"
+special_qualities = "change shape (any female humanoid), skill blessing, spell blessing, unearthly grace"
 abilities = ["10", "17", "18", "13", "12", "21"]
 +++
 
@@ -108,12 +108,8 @@ of twigs._
 
 **Languages:** Sylvan; _[tongues](ref/spell/tongues)_
 
-**Special qualities:** [change shape](ref/umr/change-shape) (any female humanoid)\#C, skill
-blessing, spell blessing, unearthly grace
-
-###### C {#footnote-c}
-
-No spell equivalent was provided.
+**Special qualities:** [change shape](ref/umr/change-shape) (any female humanoid), skill blessing,
+spell blessing, unearthly grace
 
 **Ecology**
 

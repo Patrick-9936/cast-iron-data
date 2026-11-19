@@ -56,11 +56,7 @@ this suppression prematurely as a **free action**.
 
 **These rogue talents complement this archetype:** [Fast picks](ref/talent/fast-picks),
 [fast stealth](ref/talent/fast-stealth), [quick disable](ref/talent/quick-disable),
-[terrain mastery](ref/talent/terrain-mastery)^1^
+[terrain mastery](ref/talent/terrain-mastery)
 
 **These advanced rogue talents complement this archetype:** Another day, fast tumble, hide in plain
 sight
-
-^The original text also recommended _convincing fakes_ and _dodge trap._ However, these talents do
-not exist - the former may refer to the Deception Talent \[sczarni
-smuggler^(talent/sczarni\_smuggler), though.\]\{from=1\}

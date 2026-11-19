@@ -26,7 +26,7 @@ will = "+14"
 melee = "+3 anarchic morningstar +29/+24/+19/+14 (1d8+11)"
 ranged = "+1 anarchic dart +26/+21/+16/+11 (1d4+9)"
 special_attacks = "bloody rose"
-special_qualities = "change shape (owl or mouse)#C, martyr's blood, tactician"
+special_qualities = "change shape (owl or mouse), martyr's blood, tactician"
 abilities = ["23", "23", "22", "22", "21", "24"]
 +++
 
@@ -124,12 +124,8 @@ Iron Will, Lookout, Outflank, Point-Blank Shot, Rapid Shot, Swap Places, Vital S
 
 **Languages:** Celestial, Common, Infernal; [telepathy](ref/umr/telepathy) 100 ft.
 
-**Special qualities:** [change shape](ref/umr/change-shape) (owl or mouse)\#C, martyr's blood,
+**Special qualities:** [change shape](ref/umr/change-shape) (owl or mouse), martyr's blood,
 tactician
-
-###### C {#footnote-c}
-
-No spell equivalent was provided.
 
 **Ecology**
 

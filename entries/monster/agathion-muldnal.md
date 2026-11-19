@@ -151,10 +151,9 @@ them. They gain a +4 racial bonus on Craft (traps) and Knowledge (engineering) c
 feet of a creature that is taking [bleed](ref/rule/bleed) damage, or if a muldnal is taking bleed
 damage itself, the muldnal must succeed at a DC 17 Will saving throw each round or become
 [shaken](ref/misc/shaken) until the start of the next round or until the bleeding creature is
-healed. In addition, a muldnal can't use its burrow or earth
-glide^[1](ref/monster/agathion-muldnal#footnote-e)^ abilities while under the effects of revulsion.
-A muldnal that successfully saves against revulsion can't be affected by the same source of blood
-for 24 hours.
+healed. In addition, a muldnal can't use its burrow or earth glide abilities while under the effects
+of revulsion. A muldnal that successfully saves against revulsion can't be affected by the same
+source of blood for 24 hours.
 
 **Spells (Sp)** A muldnal prepares spells as per a druid of a level equal to its Hit Dice, with a
 focus on animal-, earth-, and vermin-related spells.
@@ -243,7 +242,3 @@ other muldnals and take on saint-like qualities in many of their followers' eyes
 [blindsight](ref/umr/blindsight) instead of [tremorsense](ref/umr/tremorsense), and can cast
 [spiked pit](ref/spell/spiked-pit) as a [spell-like ability](ref/umr/spell-like-abilities) once per
 day.
-
-###### ^1^ {#footnote-e}
-
-The stat block does not include the earth glide ability.

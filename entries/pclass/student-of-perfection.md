@@ -109,10 +109,9 @@ body, diamond resilience (6th), diamond soul (6th), or any of the powers below f
 > [falchion](ref/eq-weapon/falchion), [kukri](ref/eq-weapon/kukri), and
 > [scimitar](ref/eq-weapon/scimitar) and treats these weapons as if they had the monk special
 > quality. The student of perfection can spend 1 ki point as a swift action to give a falchion,
-> kukri, or scimitar he wields the ki strike^[1](ref/pclass/student-of-perfection#footnote-k)^
-> special ability and have it deal damage equal to that of his unarmed strikes (if greater than its
-> base damage). The student of perfection applies his full Strength modifier to his damage rolls for
-> these attacks. These effects last 1 round.
+> kukri, or scimitar he wields the ki strike special ability and have it deal damage equal to that
+> of his unarmed strikes (if greater than its base damage). The student of perfection applies his
+> full Strength modifier to his damage rolls for these attacks. These effects last 1 round.
 >
 > **Inner Fire (Su; Unblinking Flame):** While the student of perfection is under the effects of
 > elemental fury (fire), a creature that successfully grapples him takes 1d6 points of fire damage.
@@ -172,8 +171,3 @@ class to determine available feats.
 
 **Perfection (Ex):** At 10th level, a student of perfection increases an ability score of his choice
 by 2.
-
-###### ^1^ {#footnote-k}
-
-Its unclear if this is referring to the [ki focus](ref/magic-enh/ki-focus) special ability, or if it
-should be read as "the benefits of his ki strike", as the other abilities of this prestige class.

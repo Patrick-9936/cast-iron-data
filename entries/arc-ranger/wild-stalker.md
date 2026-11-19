@@ -30,7 +30,7 @@ drives pioneers back to civilization and strives to keep the land unspoiled.
 
 **Ability:** He gains [low-light vision](ref/rule/low-light-vision) and a bonus on Perception checks
 equal to 1 + [one-fourth](ref/misc/fractions-and-rounding) of his ranger level. If he already has
-low-light vision, the bonus becomes 2 + one-fourth of his ranger level.^1^
+low-light vision, the bonus becomes 2 + one-fourth of his ranger level.
 
 **Flavor:** A wild stalker's life among the wild has sharpened his senses.
 
@@ -95,22 +95,10 @@ for 8 hours, although these hours do not need to be consecutive.
 **Wild Talents (Ex)**
 
 **Choice:** A wild stalker can either take a rage power, or gain a +2 insight bonus into any one of
-the following skills: Acrobatics, Climb, Perception, Stealth, Survival, or Swim.^2^
+the following skills: Acrobatics, Climb, Perception, Stealth, Survival, or Swim.
 
 **Gained:** At 6th Level
 
 **Repeat:** The wild stalker can gain one of these two benefits again., 10, 4
 
 **Replaces:** 6th-, 10th-, 14th-, and 18th-level combat style feat
-
-^1^ The original text reads: \*"This bonus increases by +1 for every four levels after 1st."\* This
-implies a 1/5/9/13/17 progression, which would only reach +5/+6 at 20th level, but the text
-continues, \*"(to a maximum of +6 \[or +7\] at 20th level),"\* which only makes sense if the bonus
-increases \*at 4th level\* and every four levels thereafter. This is the interpretation used here.
-
-^2^ The original text reads: \*"The wild stalker can gain one of these two benefits again every five
-levels after 6th (to a maximum of 4 times at 20th level)."\* The listed progression only gives three
-benefits (at levels 6/11/16), not four. Either the maximum is wrong, or the level progression is
-wrong. Given that this ability replaces four bonus feats (at levels 6/10/14/18), the latter
-interpretation has been used here, and the ability is granted every \*four\* levels instead of five
-(which matches the levels of the bonus feats).

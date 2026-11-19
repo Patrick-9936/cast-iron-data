@@ -27,7 +27,7 @@ reflex = "+15"
 will = "+16"
 melee = "2 slams +24 (2d6+6), 2 wrappings +19 (1d6+3 plus grab)"
 special_attacks = "wrappings"
-special_qualities = "change shape (any animal or humanoid)#C, spirit touch"
+special_qualities = "change shape (any animal or humanoid), spirit touch"
 abilities = ["22", "19", "18", "13", "17", "16"]
 +++
 
@@ -151,12 +151,11 @@ Following Step^B^, Improved Initiative, Iron Will, Persuasive, Step Up, Step Up 
 **Languages:** Abyssal, Celestial, Infernal; _[speak with animals](ref/spell/speak-with-animals)_
 (including vermin), _[tongues](ref/spell/tongues)_
 
-**Special qualities:** [change shape](ref/umr/change-shape) (any animal or humanoid)\#C, spirit
-touch
+**Special qualities:** [change shape](ref/umr/change-shape) (any animal or humanoid), spirit touch
 
 ###### B {#footnote-b}
 
-Bonus feat.\|C\~No spell equivalent was provided.
+Bonus feat.
 
 **Ecology**
 

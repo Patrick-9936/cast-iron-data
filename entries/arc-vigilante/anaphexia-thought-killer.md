@@ -19,11 +19,6 @@ kind = "archetype"
 replaces = ["Social talent gained at 2nd level", "Social talent gained at 6th level", "Vigilante talent gained at 7th level", "Vigilante talent gained at 15th level"]
 +++
 
-**NOTE:** The levels given for social and vigilante talents are incorrect, saying the abilities
-replace social talents at even levels and vigilante talents at odd levels. It is unclear if the
-abilities and talents should be adjusted up or down a level to compensate, or if the talent types
-should be switched. Consult your GM if you wish to use this archetype.
-
 Anaphexia thought-killers worship [Norgorber's](ref/faith/norgorber) Reaper of Reputation aspect
 from their secret home in Ustalav. In sacrifice to him, they cut out their own tongues to gain
 magical protection from exposure and hunt down secrets to steal before they can be spread - which

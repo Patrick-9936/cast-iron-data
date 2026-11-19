@@ -46,7 +46,7 @@ against that target even if he didn't sneak attack it.
 **Replaces:** Slayer talent received at 2nd level
 
 **Standard:** A Pureblade can _detect aberrations._ This works like
-[detect undead](ref/spell/detect-undead), except it detects aberrations instead of undead.^1^
+[detect undead](ref/spell/detect-undead), except it detects aberrations instead of undead.
 
 **Discern Weakness (Ex)**
 
@@ -87,7 +87,3 @@ _studied target._
 **Alters:** Master slayer
 
 **Gained:** At 20th Level
-
-^This archetype was published before the spell \[detect aberration^(spell/detect\_aberration) was
-created. It has a greater range and longer duration than _[detect undead](ref/spell/detect-undead)._
-Consult your GM if you wish to use that spell.\]\{from=1\}

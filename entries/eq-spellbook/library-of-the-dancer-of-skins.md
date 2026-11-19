@@ -60,10 +60,6 @@ brilliant, she is also apparently undisciplined._
   [stone fist](ref/spell/stone-fist), [touch of the sea](ref/spell/touch-of-the-sea),
   [true strike](ref/spell/true-strike), [vanish](ref/spell/vanish)
 
-_Note:_ The original text also contains a 3rd-level spell named "lightwall", a 5th-level spell named
-"comet", and a 6th-level spell named "lightning field", but the spells were not included in the
-source book.
-
 #### Ritual
 
 **Defensive Boon (Su)** You throw up a quick burst of arcane energy that deflects an incoming spell

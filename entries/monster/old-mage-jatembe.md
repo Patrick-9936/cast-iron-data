@@ -139,8 +139,11 @@ metamagic mastery (7/day), mythic spellpower, permanent shapechange, rapid prepa
 
 ###### F {#footnote-f}
 
-Jatembe has one unprepared slot at each level for his rapid preparation archmage path
-ability.\|M\~mythic spells
+Jatembe has one unprepared slot at each level for his rapid preparation archmage path ability.
+
+###### M {#footnote-m}
+
+mythic spells
 
 **Statistics**
 

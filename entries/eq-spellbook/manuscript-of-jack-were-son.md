@@ -45,6 +45,3 @@ uninspiring artist._
   [hold portal](ref/spell/hold-portal), [identify](ref/spell/identify),
   [magic missile](ref/spell/magic-missile), [sleep](ref/spell/sleep),
   [stone fist](ref/spell/stone-fist), [vanish](ref/spell/vanish)
-
-_Note:_ The original text also contains a 2nd-level conjuration spell named "metabolize", but the
-spell was not included in the source book.

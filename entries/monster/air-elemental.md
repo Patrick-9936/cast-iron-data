@@ -191,7 +191,7 @@ when underwater.
 **Skills:** Acrobatics +7, Escape Artist +7, Fly +17, Knowledge (planes) +1, Perception +4, Stealth
 +11
 
-###### B {#footnote-b}
+###### B {#footnote-b-2}
 
 Bonus feat.
 
@@ -255,7 +255,7 @@ Bonus feat.
 **Skills:** Acrobatics +11, Escape Artist +9, Fly +17, Knowledge (planes) +1, Perception +7, Stealth
 +10
 
-###### B {#footnote-b}
+###### B {#footnote-b-3}
 
 Bonus feat.
 
@@ -325,7 +325,7 @@ Bonus feat.
 **Skills:** Acrobatics +15, Escape Artist +15, Fly +21, Knowledge (planes) +5, Perception +11,
 Stealth +11
 
-###### B {#footnote-b}
+###### B {#footnote-b-4}
 
 Bonus feat.
 
@@ -396,7 +396,7 @@ Finesse^B^
 **Skills:** Acrobatics +18, Escape Artist +18, Fly +23, Knowledge (planes) +7, Perception +13,
 Stealth +9
 
-###### B {#footnote-b}
+###### B {#footnote-b-5}
 
 Bonus feat.
 
@@ -467,7 +467,7 @@ Mobility, Power Attack, Weapon Finesse^B^
 **Skills:** Acrobatics +25, Escape Artist +23, Fly +27, Knowledge (planes) +12, Perception +16,
 Stealth +15
 
-###### B {#footnote-b}
+###### B {#footnote-b-6}
 
 Bonus feat.
 
@@ -538,6 +538,6 @@ Will, Mobility, Power Attack, Weapon Finesse^B^
 **Skills:** Acrobatics +30, Escape Artist +30, Fly +34, Knowledge (planes) +19, Perception +19,
 Stealth +22
 
-###### B {#footnote-b}
+###### B {#footnote-b-7}
 
 Bonus feat.

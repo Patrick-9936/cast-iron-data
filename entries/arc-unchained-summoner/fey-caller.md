@@ -80,7 +80,7 @@ day, and they can select an additional spell-like ability from the 1st-level lis
 **Base Evolutions:** Starting at 1st level, fey eidolons gain Acrobatics, Diplomacy, Disguise,
 Escape Artist, Knowledge (nature), Perform, Sleight of Hand, and Use Magic Device as class skills
 instead of those gained by most eidolons. They also gain the
-[low-light vision](ref/rule/low-light-vision) evolution^1^, the [skilled](ref/unchevolution/skilled)
+[low-light vision](ref/rule/low-light-vision) evolution, the [skilled](ref/unchevolution/skilled)
 evolution (selecting one class skill), and the ability to use either
 [dancing lights](ref/spell/dancing-lights), [detect magic](ref/spell/detect-magic),
 [ghost sound](ref/spell/ghost-sound), or [prestidigitation](ref/spell/prestidigitation) at will as a
@@ -99,6 +99,3 @@ something new. On the other hand, a [redcap](ref/monster/redcap) just looking fo
 connect with an equally sadistic summoner. Whatever their reasons, they tend to have strong bonds of
 loyalty to their summoners entangled with equally strong emotional attachments, even evil fey
 eidolons.
-
-^There is no such unchained evolution. Consider using the original summoner's \[low-light
-vision^(evolution/low\_light\_vision) evolution. Consult your GM.\]\{from=1\}

@@ -203,7 +203,7 @@ Plane near the borders of the Elemental Planes.
 
 **Special qualities:** telekinetic invisibility
 
-###### B {#footnote-b}
+###### B {#footnote-b-2}
 
 Bonus feat.
 
@@ -280,7 +280,7 @@ Bonus feat.
 
 **Special qualities:** telekinetic invisibility
 
-###### B {#footnote-b}
+###### B {#footnote-b-3}
 
 Bonus feat.
 
@@ -358,7 +358,7 @@ Will, Point-Blank Shot, Precise Shot
 
 **Special qualities:** telekinetic invisibility
 
-###### B {#footnote-b}
+###### B {#footnote-b-4}
 
 Bonus feat.
 
@@ -436,7 +436,7 @@ Will, Improved Precise Shot, Iron Will, Point-Blank Shot, Precise Shot
 
 **Special qualities:** telekinetic invisibility
 
-###### B {#footnote-b}
+###### B {#footnote-b-5}
 
 Bonus feat.
 
@@ -515,6 +515,6 @@ Stealth +22
 
 **Special qualities:** telekinetic invisibility
 
-###### B {#footnote-b}
+###### B {#footnote-b-6}
 
 Bonus feat.

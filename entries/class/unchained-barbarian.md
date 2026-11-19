@@ -268,9 +268,6 @@ appropriate class features to replace." (_Pathfinder Unchained pg. 8_) The _deep
 archetype was printed with a note saying it works for the unchained barbarian, and _danger sense_
 above explicitly says it can be treated as _trap sense_ for archetype purposes.
 
-The barbarian archetypes below DO NOT modify or replace _rage, greater rage_ or _mighty rage,_ and
-so are likely permitted. As always, consult your GM for final approval.
-
 **Armored Hulk**
 
 **Class:** barbarian

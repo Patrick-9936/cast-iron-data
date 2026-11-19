@@ -58,10 +58,4 @@ alchemical item, but not a dose of disease, a poison, a magic potion, or another
 item. The item divides itself into two nearly identical copies and the newly separated one is
 delivered into your hand. The new item functions as the original in all ways except the copied item
 suffers a slight reduction in quality. Saves against the new alchemical item's effects use the
-original item's save DC or the save DC of this spell, whichever is
-higher.^[1](ref/spell/full-pouch#footnote-n)^
-
-###### ^1^ {#footnote-n}
-
-The final two sentences make no sense, as choosing the higher DC would **not** be a reduction in
-quality. Consult your GM.
+original item's save DC or the save DC of this spell, whichever is higher.

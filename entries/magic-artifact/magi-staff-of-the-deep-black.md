@@ -41,8 +41,7 @@ bob to the surface. The staff's powers (and the equivalent
   charge)
 - [fly](ref/spell/fly) (_[passwall](ref/spell/passwall),_ 1 charge)
 - [wall of ice](ref/spell/wall-of-ice) (_[wall of fire](ref/spell/wall-of-fire),_ 1 charge)
-- [teleport](ref/spell/teleport) (_[plane shift](ref/spell/plane-shift),_ 2
-  charges)^[1](ref/magic-artifact/magi-staff-of-the-deep-black#footnote-p)^
+- [teleport](ref/spell/teleport) (_[plane shift](ref/spell/plane-shift),_ 2 charges)
 - [time stop](ref/spell/time-stop) (_[summon monster IX](ref/spell/summon-monster-9),_ 2 charges)
 
 The staff otherwise has the normal powers and abilities of a _staff of the magi._ If it is broken in
@@ -55,11 +54,3 @@ plane, and a 50% chance to be utterly destroyed.
 This item can be destroyed in the same manner as a normal _staff of the magi._ It is also destroyed
 if consumed by an [elder fire elemental](ref/monster/fire-elemental) or an
 [efreeti](ref/monster/genie-efreeti), or if cast into an active volcano.
-
-###### ^1^ {#footnote-p}
-
-The original source lists this as replacing _[passwall](ref/spell/passwall),_ which is a 1-charge
-ability and was already replaced by the _[fly](ref/spell/fly)_ spell.
-_[Teleport](ref/spell/teleport)_ seems like a fitting replacement for the 2-charge ability of
-_[plane shift](ref/spell/plane-shift),_ though you could make a case for swapping it for the other
-2-charge ability _[telekinesis](ref/spell/telekinesis)_ instead. As always, consult your GM.

@@ -68,8 +68,3 @@ contact creatures from the _contact entity IV_ list, and as noted above.
 |[Bodythief](ref/monster/bodythief)|Chunks of brain from a lobotomy subject \[evil\]|
 |[Neothelid](ref/monster/neothelid)|Ruby worth 3,000 gp \[chaotic, evil\]|
 |[Shoggoth](ref/monster/shoggoth)|Art object worth 3,000 gp recovered from the bottom of a sea \[chaotic\]|
-
-###### ^1^ {#footnote-l}
-
-No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may
-determine the spell gains the chaotic and evil descriptors.

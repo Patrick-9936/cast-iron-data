@@ -44,10 +44,6 @@ poison\
   [shield](ref/spell/shield), [true strike](ref/spell/true-strike),
   [ventriloquism](ref/spell/ventriloquism)
 
-_Note:_ The original text also contains a 3rd-level spell named "vitriol", but the spell was not
-included in the source book. (The spell [vitriolic mist](ref/spell/vitriolic-mist) was given, but
-it's 4th level, out of the range of a 7th-level necromancer.)
-
 #### Ritual
 
 **Breath of the Grave (Su)** As a swift action, spend this boon's effect to breathe a 15-foot cone

@@ -94,14 +94,8 @@ powerful flippers._
 
 The sleek elasmosaurus is a long-necked, aquatic reptile. Although not technically a dinosaur, they
 and their kind are often found hunting in oceans and lakes in areas where dinosaurs are more common.
-You can create statistics for smaller, similar aquatic reptiles (such as the
-plesiosaurus^[1](ref/monster/dinosaur-elasmosaurus#footnote-p)^) by applying the
-[young](ref/template/young) simple template to the statistics presented above. An elasmosaurus is 45
-feet long and weighs 4,000 pounds.
+You can create statistics for smaller, similar aquatic reptiles (such as the plesiosaurus) by
+applying the [young](ref/template/young) simple template to the statistics presented above. An
+elasmosaurus is 45 feet long and weighs 4,000 pounds.
 
 **Family:** Dinosaur
-
-###### ^1^ {#footnote-p}
-
-A full stat block for the [plesiosaurus](ref/monster/dinosaur-plesiosaurus) was later published in
-_Bestiary 5._

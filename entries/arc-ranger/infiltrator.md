@@ -108,7 +108,7 @@ senses, low-light vision, obsessive, weapon familiarity._
 
 **Humanoid (goblinoid)**
 
-**Choice:** [darkvision](ref/rule/darkvision) 60 ft., goblin fast,^1^ Skill Focus (Stealth), natural
+**Choice:** [darkvision](ref/rule/darkvision) 60 ft., goblin fast, Skill Focus (Stealth), natural
 armor (+2).
 
 **Humanoid (halfling)**
@@ -165,7 +165,3 @@ from acid, cold, electricity, or fire), Great Fortitude, Iron Will, Lightning Re
 
 **Choice:** climb 15 ft., [darkvision](ref/rule/darkvision) 60 ft., Great Fortitude, Iron Will, swim
 15 ft.
-
-^"Goblin fast" is not listed anywhere. It likely refers to a \[goblin's^(monster/goblin) base speed
-of 30 feet, which is +10 feet faster than most Small creatures and races. Consult your GM.\]\{from=1
-multi=2\}

@@ -45,9 +45,8 @@ the cards of the deck to his forehead (a move action) up to three times per day.
 Zellara's harrow deck has a special purpose as well: to defend and protect the city of Korvosa, her
 home in life and in death. In order to attain this purpose, she can periodically perform powerful
 harrow readings for those she has chosen as Korvosa's defenders - the PCs. These harrowings grant
-those who benefit from them a number of Harrow
-Points^[1](ref/magic-artifact/zellaras-harrow-deck#footnote-h)^ that can be used to manipulate fate
-and chance.
+those who benefit from them a number of Harrow Points that can be used to manipulate fate and
+chance.
 
 Zellara can suppress the deck's powers at will and doesn't hesitate to do so if anyone attempts to
 sell the deck or otherwise displeases her. At best, a foolish character could possibly sell the
@@ -60,7 +59,3 @@ needed.
 **Senses** 60 ft.\
 **Int** 10, **Wis** 13, **Cha** 13\
 **Communication** empathy (see above)
-
-###### ^1^ {#footnote-h}
-
-This is a special mechanic in the Curse of the Crimson Throne adventure path.

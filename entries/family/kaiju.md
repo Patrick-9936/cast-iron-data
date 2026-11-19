@@ -85,18 +85,10 @@ the world. Here is a list of others, including the places they're rumored to dwe
 
 ### Members of This Family:
 
-- [Agmazar, the Star Titan](ref/monster/agmazar-the-star-titan) of the vast
-  jungle^[1](ref/family/kaiju#footnote-1)^
+- [Agmazar, the Star Titan](ref/monster/agmazar-the-star-titan) of the vast jungle
 - [Agyra](ref/monster/kaiju-agyra)
 - [Bezravnis](ref/monster/kaiju-bezravnis)
-- [Lord Varklops](ref/monster/kaiju-varklops), the Thrice-Headed Fiend of the dormant
-  volcano^[1](ref/family/kaiju#footnote-1)^
+- [Lord Varklops](ref/monster/kaiju-varklops), the Thrice-Headed Fiend of the dormant volcano
 - [Mogaru](ref/monster/kaiju-mogaru)
-- [Queen Vorgozen](ref/monster/kaiju-vorgozen), the Shapeless Feeder of the vast
-  swamp^[1](ref/family/kaiju#footnote-1)^
-- [Yarthoon](ref/monster/kaiju-yarthoon), the Moon Grub of the darkest
-  nights^[1](ref/family/kaiju#footnote-1)^
-
-###### ^1^ {#footnote-1}
-
-These were listed as rumors in the original source, but have later have stats published.
+- [Queen Vorgozen](ref/monster/kaiju-vorgozen), the Shapeless Feeder of the vast swamp
+- [Yarthoon](ref/monster/kaiju-yarthoon), the Moon Grub of the darkest nights

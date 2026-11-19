@@ -26,7 +26,7 @@ hp = "297~18d10+198"
 fortitude = "+21"
 reflex = "+18"
 will = "+13"
-melee = "bite +28 (2d6+12), 2 claws +28 (1d8+12 plus infernal wounds), 2 slams +26 (1d8+6), tail slap +26 (2d6+6)#N"
+melee = "bite +28 (2d6+12), 2 claws +28 (1d8+12 plus infernal wounds), 2 slams +26 (1d8+6), tail slap +26 (2d6+6)"
 special_attacks = "infernal wound"
 special_qualities = "devil mark, false divinity (Trickery)"
 abilities = ["34", "25", "30", "23", "25", "24"]
@@ -81,7 +81,7 @@ _This ancient monstrosity has the torso of a massively muscled giant._
 **Speed:** 40 ft., fly 80 ft. (average)
 
 **Melee:** bite +28 (2d6+12), 2 claws +28 (1d8+12 plus infernal wounds), 2 slams +26 (1d8+6), tail
-slap +26 (2d6+6)\#N
+slap +26 (2d6+6)
 
 **Reach:** 15
 
@@ -108,12 +108,6 @@ slap +26 (2d6+6)\#N
   (DC 22), wall of stone
 - 1/day: greater scrying (DC 21), &S level 7;
   [horned devil](ref/monster/devil-horned-devil-cornugon) 60%, unhallow
-
-###### N {#footnote-n}
-
-The original source lists these attacks as hooves instead of slams, and tail instead of tail slap.
-It also describes the Advodaza as being "centauric" in shape. Other stats were also slightly
-different. This entry prefers the _Bestiary 4_ description.
 
 **Statistics**
 

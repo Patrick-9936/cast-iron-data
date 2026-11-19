@@ -275,10 +275,6 @@ to 1d6 + [half](ref/misc/fractions-and-rounding) of your sorcerer level.
 
 **Usage:** 3 + Charisma modifier times/day
 
-There are no official description of which linnorm types grant which types of breath weapon. The
-following is a summary of the basic form of each linnorm's breath weapon, with extra notes in
-parentheses. Consult your GM.
-
 |Linnorm|Energy Type|Shape|
 | --- | --- | --- |
 |[Cairn Linnorm](ref/monster/linnorm-cairn-linnorm)|Acid (energy-draining bile)|Cone|

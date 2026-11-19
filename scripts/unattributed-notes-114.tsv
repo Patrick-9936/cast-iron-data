@@ -1,0 +1,153 @@
+action	kind	entry_id	anchor	marker	class	body_marker	drop_labels	text_sha	text	note
+remove	footnote	ref/arc-monk/qinggong-monk	footnote-k	3	print-match			f3ddc3156ab946d1	If the monk has 0 ki points after activating this ki power, the rock created does not count as a _ki	
+remove	footnote	ref/faith/apsu	footnote-r	1	unclear			55233654e33d0713	All dragons on live in fear of her and refuse to even speak her name.	
+remove	footnote	ref/faith/grandmother-spider	footnote-a	1	commentary			2b0406297df0f89e	Anadi are spider-people fully introduced in Pathfinder 2nd Edition. There are no 1st-edition statist	
+remove	footnote	ref/faith/groetus	footnote-m	2	paraphrase			43a2b2e8bb4125e1	Only clerics with the Madness or Void domain can do this.	
+remove	footnote	ref/faith/valmallos	footnote-v	1	commentary			b4d28c86b49d35a3	This text is verbatim from the source material. Consult your GM if you need guidance.	
+remove	footnote	ref/family/dragon-primal-crystal	footnote-1	1	commentary			3553d6f420d3af49	This should probably be (Ex), but no erratta supports this idea.	
+remove	footnote	ref/family/dragon-primal-crystal	footnote-2	2	commentary			8ab551f4fadd93be	The printed table indicates this happens at Young instead of Juvenile, and the _young crystal dragon	
+remove	footnote	ref/family/kaiju	footnote-1	1	commentary			596604c8fa6a93e8	These were listed as rumors in the original source, but have later have stats published.	
+remove	footnote	ref/feat/conceal-scent	footnote-p	1	commentary			abafb12b67d70df3	This source was printed for 3.5; Pathfinder Society play reduced the skill rank prerequisites by 3. 	
+remove	footnote	ref/feat/heightened-trap-sense	footnote-p	1	commentary			abafb12b67d70df3	This source was printed for 3.5; Pathfinder Society play reduced the skill rank prerequisites by 3. 	
+remove	footnote	ref/feat/improved-day-job	footnote-x	1	commentary			aadfeea9d3c0eb5e	Not included in this app. The Day Job appears in version 1.1 of that document, but not all versions.	
+remove	footnote	ref/feat/religious-pilgrim	footnote-p	1	commentary			abafb12b67d70df3	This source was printed for 3.5; Pathfinder Society play reduced the skill rank prerequisites by 3. 	
+remove	footnote	ref/haunt/breach-to-the-quickening	footnote-m	1	commentary			a332916d5be36a92	"No mutation mentioning ""radiation affinity"" exists in that template."	
+remove	footnote	ref/magic-artifact/magi-staff-of-the-deep-black	footnote-p	1	commentary			e1df8b17fd4c710d	The original source lists this as replacing _passwall,_ which is a 1-charge ability and was already 	
+remove	footnote	ref/magic-artifact/zellaras-harrow-deck	footnote-h	1	commentary			b3167109b19f7cec	This is a special mechanic in the Curse of the Crimson Throne adventure path.	
+remove	footnote	ref/magic-rod/coldwarp-key	footnote-c	1	commentary			053d0c67c8d9a1cd	Coldwarping is a Drow magical tradition that forges metal without need of fire.	
+remove	footnote	ref/magic-staff/zenj-totem-staff	footnote-n	1	commentary			cbab58a805e297f0	The original source lists _summon nature's ally I_ and _II_ as requirements, which feels like an err	
+remove	footnote	ref/magic-wondrous/grave-salt	footnote-m	1	commentary			bafed7cf87d05f9a	This may seem mathematically sketchy, but it's actually true. The perimeter (length) of a 5-foot rad	
+remove	footnote	ref/magic-wondrous/key-of-the-second-vault	footnote-e	1	commentary			c60f0fcde2aa922a	Per Pathfinder #8: Seven Days to the Grave pg. 67, two-headed eagles summoned by a worshipper of Aba	
+remove	footnote	ref/magic-wondrous/robe-of-bones	footnote-t	1	commentary			8d6defa662f87de2	No such zombie (or human) type exists. According to someone at Paizo, this should just be the defaul	
+remove	footnote	ref/magic-wondrous/shoanti-war-paint-black	footnote-s	1	commentary			d92c84e3d6501084	There are no official sources as to which school auras each color has. As a non-official suggestion 	
+remove	footnote	ref/magic-wondrous/shoanti-war-paint-blue	footnote-s	1	commentary			d92c84e3d6501084	There are no official sources as to which school auras each color has. As a non-official suggestion 	
+remove	footnote	ref/magic-wondrous/shoanti-war-paint-green	footnote-s	1	commentary			d92c84e3d6501084	There are no official sources as to which school auras each color has. As a non-official suggestion 	
+remove	footnote	ref/magic-wondrous/shoanti-war-paint-orange	footnote-s	1	commentary			d92c84e3d6501084	There are no official sources as to which school auras each color has. As a non-official suggestion 	
+remove	footnote	ref/magic-wondrous/shoanti-war-paint-red	footnote-s	1	commentary			d92c84e3d6501084	There are no official sources as to which school auras each color has. As a non-official suggestion 	
+remove	footnote	ref/magic-wondrous/shoanti-war-paint-silver	footnote-s	1	commentary			d92c84e3d6501084	There are no official sources as to which school auras each color has. As a non-official suggestion 	
+remove	footnote	ref/magic-wondrous/shoanti-war-paint-white	footnote-s	1	commentary			d92c84e3d6501084	There are no official sources as to which school auras each color has. As a non-official suggestion 	
+remove	footnote	ref/magic-wondrous/shoanti-war-paint-yellow	footnote-s	1	commentary			d92c84e3d6501084	There are no official sources as to which school auras each color has. As a non-official suggestion 	
+remove	footnote	ref/magic-wondrous/witching-doll	footnote-s	1	commentary			7cf468e907b9ba80	No such hex has been published. It's possible this could refer to the scar hex, or the spell scare. 	
+remove	footnote	ref/monster/agathion-muldnal	footnote-e	1	commentary			26f3a3f24c5ef1ba	The stat block does not include the earth glide ability.	
+remove	footnote	ref/monster/barghest-greater-barghest	footnote-x	X	commentary			2cc1632ad3c75b04	No such spell exists. Note that mass enlarge person would not work on an outsider, but it could be u	
+remove	footnote	ref/monster/botfly-botfly-swarm	footnote-s	S	commentary			4fbe6c7c14d3ba84	No description of the _suffocation_ attack was published, and it does not match any known swarm trai	
+remove	footnote	ref/monster/bugbear-bugbear-tyrant	footnote-x	X	commentary			fb24bc0c2be61a4b	No such feat exists. Could possibly be Staggering Blow, which was introduced in the same sourcebook.	
+remove	footnote	ref/monster/courage-heart	footnote-c	C	commentary			c39921deb019fd5c	No spell equivalent was provided.	
+remove	footnote	ref/monster/devil-nemesis-devil-advodaza	footnote-n	N	commentary			5398394ac54dbf5e	The original source lists these attacks as hooves instead of slams, and tail instead of tail slap. I	
+remove	footnote	ref/monster/devil-possession-devil-greater-gidim	footnote-d	D	unclear			065fa908cac9631e	Dread spell (see Dread ability below)	
+remove	footnote	ref/monster/devil-possession-devil-lesser-gidim	footnote-d	D	unclear			065fa908cac9631e	Dread spell (see Dread ability below)	
+remove	footnote	ref/monster/dinosaur-deinonychus	footnote-v	1	commentary			fad328e8826e1fef	_Bestiary 4_ later printed a stand-alone version of the velociraptor.	
+remove	footnote	ref/monster/dinosaur-elasmosaurus	footnote-p	1	commentary			72bebc820ab70499	A full stat block for the plesiosaurus was later published in _Bestiary 5._	
+remove	footnote	ref/monster/dragon-other-prism-dragon	footnote-x	X	commentary			c85697bcadcf0ec2	This spell has not been published, but is presumably an enhanced version of id insinuation IV.	
+remove	footnote	ref/monster/herald-the-first-blade	footnote-c	C	commentary			c39921deb019fd5c	No spell equivalent was provided.	
+remove	footnote	ref/monster/herald-the-first-blade	footnote-c	1	commentary			c39921deb019fd5c	No spell equivalent was provided.	
+remove	footnote	ref/monster/impundulu	footnote-c	C	commentary			c39921deb019fd5c	No spell equivalent was provided.	
+split	footnote	ref/monster/kortash-khain	footnote-m	M	legend		C	2902b8a35b34d6a1	mythic spell|D~domain spell|C~This spell has already been cast	unsplit multi-note block: keep the legends, drop the commentary note C
+remove	footnote	ref/monster/leanan-sidhe-mythic	footnote-c	C	commentary			c39921deb019fd5c	No spell equivalent was provided.	
+split	footnote	ref/monster/psychopomp-morrigna	footnote-b	B	commentary		C	d688e20730c2dcbb	Bonus feat.|C~No spell equivalent was provided.	unsplit multi-note block: keep the legends, drop the commentary note C
+remove	footnote	ref/monster/rakshasa-raktavarna	footnote-c	C	commentary			c39921deb019fd5c	No spell equivalent was provided.	
+remove	footnote	ref/pclass/student-of-perfection	footnote-k	1	commentary			c076ccb406dba87b	"Its unclear if this is referring to the ki focus special ability, or if it should be read as ""the be"	
+remove	footnote	ref/rule/skills	footnote-u	1	compiled			d7730e012f7e346e	The Unchained version of this class has the same skill points.	
+remove	footnote	ref/spell/animal-purpose-training	footnote-1	1	commentary			5a5677942fa53fe6	Other purposes have been added by other sourcebooks. Consult your GM if you wish to use one of the p	
+remove	footnote	ref/spell/contact-entity-1	footnote-l	1	commentary			e079e5264cec2422	No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may deter	
+remove	footnote	ref/spell/contact-entity-2	footnote-l	1	commentary			e079e5264cec2422	No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may deter	
+remove	footnote	ref/spell/contact-entity-3	footnote-l	1	commentary			e079e5264cec2422	No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may deter	
+remove	footnote	ref/spell/contact-entity-4	footnote-l	1	commentary			e079e5264cec2422	No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may deter	
+remove	footnote	ref/spell/full-pouch	footnote-n	1	commentary			c209a4ef90cd2b00	The final two sentences make no sense, as choosing the higher DC would **not** be a reduction in qua	
+remove	footnote	ref/spell/permanency	footnote-a	2	commentary			70e63e769c8e4e26	No level requirement or cost was provided in the original source of _alter river._ Consider using _c	
+remove	footnote	ref/spell/permanency	footnote-c	6	commentary			ae821c05f45c5b48	No level was given in the source text, but the price is consistent with _shrink item,_ which require	
+remove	footnote	ref/spell/permanency	footnote-d	3	commentary			336177f7b3ce31bb	No level was provided for the _create demiplane_ spells, but their costs line up with other spells t	
+remove	footnote	ref/spell/permanency	footnote-e	4	commentary			9621fb79890dc81b	Permanency is mentioned in the _light_ spell's description, but no costs or requirements are provide	
+remove	footnote	ref/spell/permanency	footnote-f	7	commentary			0e94086719e0fb21	No level was given for _teleport trap,_ and the cost given is multiplied by the number of _teleport 	
+remove	footnote	ref/spell/permanency	footnote-l	5	commentary			12868783a39cdf46	No level was given for _lost passage_ and _lost locale._ The former's cost is roughly consistent wit	
+remove	footnote	ref/spell/permanency	footnote-u	1	pointer			2a6f24e81e80379f	The cost must be paid in diamond dust.	
+remove	footnote	ref/spell/summon-monster-1	footnote-1	1	commentary			52584c245ec20fa3	By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis	
+remove	footnote	ref/spell/summon-monster-1	footnote-2	2	commentary			c835099af4c30790	The original text was written before the entropic and resolute templates were created (see footnote 	
+remove	footnote	ref/spell/summon-monster-2	footnote-1	1	commentary			52584c245ec20fa3	By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis	
+remove	footnote	ref/spell/summon-monster-2	footnote-2	2	commentary			c835099af4c30790	The original text was written before the entropic and resolute templates were created (see footnote 	
+remove	footnote	ref/spell/summon-monster-3	footnote-1	1	commentary			52584c245ec20fa3	By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis	
+remove	footnote	ref/spell/summon-monster-3	footnote-2	2	commentary			c835099af4c30790	The original text was written before the entropic and resolute templates were created (see footnote 	
+remove	footnote	ref/spell/summon-monster-4	footnote-1	1	commentary			52584c245ec20fa3	By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis	
+remove	footnote	ref/spell/summon-monster-4	footnote-2	2	commentary			c835099af4c30790	The original text was written before the entropic and resolute templates were created (see footnote 	
+remove	footnote	ref/spell/summon-monster-5	footnote-1	1	commentary			52584c245ec20fa3	By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis	
+remove	footnote	ref/spell/summon-monster-5	footnote-2	2	commentary			c835099af4c30790	The original text was written before the entropic and resolute templates were created (see footnote 	
+remove	footnote	ref/spell/summon-monster-6	footnote-1	1	commentary			52584c245ec20fa3	By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis	
+remove	footnote	ref/spell/summon-monster-6	footnote-2	2	commentary			c835099af4c30790	The original text was written before the entropic and resolute templates were created (see footnote 	
+remove	footnote	ref/spell/summon-monster-7	footnote-1	1	commentary			52584c245ec20fa3	By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis	
+remove	footnote	ref/spell/summon-monster-7	footnote-2	2	commentary			c835099af4c30790	The original text was written before the entropic and resolute templates were created (see footnote 	
+remove	footnote	ref/spell/summon-monster-8	footnote-1	1	commentary			52584c245ec20fa3	By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis	
+remove	footnote	ref/spell/summon-monster-8	footnote-2	2	commentary			c835099af4c30790	The original text was written before the entropic and resolute templates were created (see footnote 	
+remove	footnote	ref/spell/summon-monster-9	footnote-1	1	commentary			52584c245ec20fa3	By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis	
+remove	footnote	ref/spell/summon-monster-9	footnote-2	2	commentary			c835099af4c30790	The original text was written before the entropic and resolute templates were created (see footnote 	
+remove	footnote	ref/template/hive-creature	footnote-h	1	pointer			9f3f44ad40291fdf	See the hive subtype for this ability.	
+remove	footnote	ref/template/lich-creature	footnote-l	1	pointer			8e21060f35dc8748	This ability is described in the lich template.	
+remove	footnote	ref/template/ogrekin	footnote-h	1	commentary			bfc123feee4bdb7e	A template for half-ogres exists, for the offspring of ogres and other giants.	
+split	footnote	ref/monster/old-mage-jatembe	footnote-f	F	print-match			60e9bb9802c22728	Jatembe has one unprepared slot at each level for his rapid preparation archmage path ability.|M~myt	unsplit multi-note block: keep both notes as separate blocks
+remove	paragraph	ref/arc-alchemist/dragonblood-chymist			paragraph			71d9d12e924ac4e3	> _There is no errata for this archetype. As a recommendation, you may want to follow the_ poison > 	
+remove	paragraph	ref/arc-cavalier/standard-bearer			inline-note	^1^		007b053bd93f2bef	^1^ *Chronicle of Legends* introduced new standards for the *banner* ability, and stated that a stan	
+remove	paragraph	ref/arc-druid/ashvawg-tamer			paragraph			193a97e8c3e1615c	"> _**Note:** This ""alternate class"" was created before the concept of archetypes was finalized by > "	
+remove	paragraph	ref/arc-druid/rot-warden			paragraph	^1^		b21f80593a2f199f	^No such spell was ever published. A similar spell could be made based on beast shape III^(spell/bea	
+remove	paragraph	ref/arc-fighter/dragonheir-scion			inline-note	^1^		b4b17be7c16a2720	^1^ The original text says that *Draconic Strike* is a 3rd-level ability that replaces your 3rd-leve	
+remove	paragraph	ref/arc-hunter/aquatic-beastmaster			paragraph	^1^		916f118420f7aaa7	^The crab and octopus foci grant the exact same bonuses. There has been no errata addressing this. I	
+remove	paragraph	ref/arc-kineticist/elemental-annihilator			inline-note	^1^		ababf1cba760de6e	^1^ This archetype was published before the void and wood elements were created. consult your GM if 	
+remove	paragraph	ref/arc-kineticist/terrakineticist			inline-note	^1^		8ab450d345e37e48	^1^ This archetype was introduced before the *void* element was created. Consult your GM if you wish	
+remove	paragraph	ref/arc-mesmerist/vox			inline-note	^1^		732057ba66fa451f	^1^ It is unclear if this refers to only the 10th-level ability (greater), and/or if it affects the 	
+remove	paragraph	ref/arc-monk/karmic-monk			inline-note	^1^		1f123d14f0630014	^1^ The original source book presents this as replacing the *slow fall* increase at 19th level, but 	
+remove	paragraph	ref/arc-occultist/geomancer			inline-note	^1^		7db53ee21c692f76	^1^ The original source material lists both abilities as being 5th-level. It does not list how long 	
+remove	paragraph	ref/arc-oracle/possessed-oracle			inline-note	^1^		6a9571c2b4250406	^1^ No mysteries give spells at 1st level. This is likely supposed to be 2nd level, but no errata wa	
+remove	paragraph	ref/arc-paladin/knight-of-coins			inline-note	^1^		eeb395631cfbcf47	^1^ The blessings were unnamed in the original text. They have been given names here for clarity.	
+remove	paragraph	ref/arc-ranger/beast-master			inline-note	^1^		c19047223ac1ff5d	^1^ The text does not specify when these abilities are granted. The listed levels are an educated gu	
+remove	paragraph	ref/arc-ranger/infiltrator			paragraph	^1^		751460c58cc7388d	"^""Goblin fast"" is not listed anywhere. It likely refers to a [goblin's^(monster/goblin) base speed o"	
+remove	paragraph	ref/arc-ranger/nirmathi-irregular			inline-note	^1^		1beb17d20b9271ae	^1^ There is no listed minimum, so the Nirmathi irregular starts out with a +0 bonus at 1st level.	
+remove	paragraph	ref/arc-ranger/transporter			inline-note	^1^		f6300d8ab5e0ec25	^1^ There is no listed level at which this ability is granted. Given that it replaces a 7th-level ab	
+remove	paragraph	ref/arc-ranger/wild-stalker			inline-note	^1^		3773d860d07f5f7f	"^1^ The original text reads: *""This bonus increases by +1 for every four levels after 1st.""* This im"	
+remove	paragraph	ref/arc-ranger/wild-stalker			inline-note	^2^		a5ede4a3c6d46bf4	"^2^ The original text reads: *""The wild stalker can gain one of these two benefits again every five "	
+remove	paragraph	ref/arc-rogue/cat-burglar			paragraph	^1^		6de3695e7328fe35	^The original text also recommended _convincing fakes_ and _dodge trap._ However, these talents do n	
+remove	paragraph	ref/arc-rogue/needler			paragraph	^1^		223b7b17d39d01db	"^The only ability named ""swift poisoning"" is the alchemist^(class/alchemist) class feature. There is"	
+remove	paragraph	ref/arc-shaman/primal-warden			inline-note	^1^		9443ed95aac1a4eb	^1^ As a suggestion: **2nd level:** Roll a d8, rerolling any 8s. Subtract 1 from that number, then m	
+remove	paragraph	ref/arc-shaman/true-silvered-throne			inline-note	^1^		6b0d263eb4f5751f	^1^ This math doesn't add up. Following the written rules, you would only get a +4 bonus at 20th lev	
+remove	paragraph	ref/arc-slayer/covenbane			inline-note	^1^		383a63717609d6e8	^1^ It's not explicitly stated, but since this replaces Stalker and is listed between a 2nd-level an	
+remove	paragraph	ref/arc-slayer/pureblade			paragraph	^1^		73ad23101f007757	^This archetype was published before the spell detect aberration^(spell/detect_aberration) was creat	
+remove	paragraph	ref/arc-unchained-summoner/fey-caller			paragraph	^1^		b15c3460cf720125	^There is no such unchained evolution. Consider using the original summoner's [low-light vision^(evo	
+remove	paragraph	ref/arc-vigilante/anaphexia-thought-killer			paragraph			e5267987b5eeae91	**NOTE:** The levels given for social and vigilante talents are incorrect, saying the abilities repl	
+remove	paragraph	ref/class/unchained-barbarian			paragraph			5defecf2d0a9d739	The barbarian archetypes below DO NOT modify or replace _rage, greater rage_ or _mighty rage,_ and s	
+remove	paragraph	ref/eq-misc/dog-guard			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/dog-lap			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/dog-riding			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/horse-heavy-combat-trained			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/horse-heavy-combat-trained			paragraph			44f099dbaed590a4	Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe	
+remove	paragraph	ref/eq-misc/horse-heavy			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/horse-heavy			paragraph			44f099dbaed590a4	Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe	
+remove	paragraph	ref/eq-misc/horse-light			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/horse-light			paragraph			44f099dbaed590a4	Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe	
+remove	paragraph	ref/eq-misc/horse-pony			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/horse-pony			paragraph			44f099dbaed590a4	Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe	
+remove	paragraph	ref/eq-misc/light-horse-combat-trained			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/light-horse-combat-trained			paragraph			44f099dbaed590a4	Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe	
+remove	paragraph	ref/eq-misc/pony-combat-trained			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/pony-combat-trained			paragraph			44f099dbaed590a4	Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe	
+remove	paragraph	ref/eq-reagent/dragons-gut			paragraph			762bffd636095f35	> _Note: The original source doesn't state whether the spells use it as a material or focus cost. > 	
+remove	paragraph	ref/eq-reagent/odor-stalk			paragraph			cee41f34bbde061b	> _Note: The original source doesn't state whether the spells use it as a material or focus cost. > 	
+remove	paragraph	ref/eq-spellbook/book-of-the-grave			paragraph			957e87b40e8e14d7	"_Note:_ The original text also contains a 3rd-level spell named ""vitriol"", but the spell was not inc"	
+remove	paragraph	ref/eq-spellbook/grimoire-of-glittering-eyes			paragraph			c6879037763d4e7d	"_Note:_ The original text also contains a 3rd-level spell named ""madness"", but the spell was not inc"	
+remove	paragraph	ref/eq-spellbook/insights-of-far-seeing-taernis			paragraph			94f17a68e2658dc0	"_Note:_ The original text also contains a 2nd-level spell ""fantastical reach"" and a 2nd-level conjur"	
+remove	paragraph	ref/eq-spellbook/library-of-the-dancer-of-skins			paragraph			244d6eb680050887	"_Note:_ The original text also contains a 3rd-level spell named ""lightwall"", a 5th-level spell named"	
+remove	paragraph	ref/eq-spellbook/manuscript-of-jack-were-son			paragraph			8c29b2bb5308773e	"_Note:_ The original text also contains a 2nd-level conjuration spell named ""metabolize"", but the sp"	
+remove	paragraph	ref/eq-spellbook/master-books-of-rul-thaven			paragraph			352a12e577636cc8	"_Note:_ The original text also contains a 3rd-level divination spell named ""seek senses"", but the sp"	
+remove	paragraph	ref/eq-spellbook/mastery-of-word-and-thought			paragraph			0f5c3ae655684513	"_Note:_ The original text also contains a 3rd-level enchantment spell named ""symbol of peace"", but t"	
+remove	paragraph	ref/eq-spellbook/tome-of-the-transmuter			paragraph			4505e7e258f301c6	"_Note:_ The original text also contains a 1st-level spell named ""hush"", but the spell was not includ"	
+skip	paragraph	ref/magic-wondrous/maniac-hand			paragraph			b2e17fe4934019b9	**Alignment** chaotic evil (assumed; consult your GM); **Ego** 5 (see above) **Senses** 30 ft. (assu	an ability-score stat line with two editorial parentheticals: removing the paragraph would drop the printed Ego, Int, Wis, Cha and Communication values; left for review
+remove	paragraph	ref/order/order-of-the-cockatrice			inline-note	^1^		7ef29e1170de96cb	^1^ This ability is confusingly worded. The general consensus is that the morale bonus is constant a	
+remove	paragraph	ref/sorcbloodline/draconic			paragraph			221656d554d188ca	There are no official description of which linnorm types grant which types of breath weapon. The fol	
+remove	paragraph	ref/spell/plague-bearer			paragraph			2e7fc482848d3cf4	**Note:** The original source printed this as a 6th-level antipaladin spell, but that class only has	
+remove	paragraph	ref/spell/secret-vault			paragraph			14695422162b4762	> _Note: The original source does not mention a change in duration from > *secret chest*, but the te	
+remove	paragraph	ref/spell/umbral-strike			paragraph			75a6c370da45039a	**Note:** Normally, only illusion spells can be of the shadow subschool. No errata has been issued, 	
+remove	paragraph	ref/spell/vampiric-hunger			paragraph			a6f1a714f4479b37	**Note:** Normally, only transmutation spells can be of the polymorph subschool. No errata has been 	
+remove	paragraph	ref/trait/genie-blood			paragraph	†		666e6154416c5f5d	> † This is different from the usual associations, where cold is water and electricity is air. > Con	
+rename-duplicates	anchor	ref/monster/aether-elemental	footnote-b							repeated anchor: keep the first, suffix the others
+rename-duplicates	anchor	ref/monster/air-elemental	footnote-b							repeated anchor: keep the first, suffix the others
+rename-duplicates	anchor	ref/monster/earth-elemental	footnote-b							repeated anchor: keep the first, suffix the others
+rename-duplicates	anchor	ref/monster/fire-elemental	footnote-b							repeated anchor: keep the first, suffix the others
+rename-duplicates	anchor	ref/monster/lightning-elemental	footnote-b							repeated anchor: keep the first, suffix the others
+rename-duplicates	anchor	ref/monster/ilzunae	footnote-d							repeated anchor: keep the first, suffix the others
+rename-duplicates	anchor	ref/monster/herald-the-first-blade	footnote-c							repeated anchor: both blocks are removed above; listed to prove the entry ends with unique anchors

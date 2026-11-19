@@ -55,7 +55,7 @@ effects.
 |d%|Quickening Effect|
 | --- | --- |
 |01-25|The target transforms into a Tiny animal that is not native to the local region (as per [baleful polymorph](ref/spell/baleful-polymorph)). As typical for that spell, a creature that fails the initial Fortitude saving throw must succeed at a secondary Will saving throw or lose significant mental abilities.|
-|26-40|The target gains a random mutation from the [mutant](ref/template/mutant) creature template, with the exception of radiation affinity.^[1](ref/haunt/breach-to-the-quickening#footnote-m)^ Roll 1d20 to select the mutation.|
+|26-40|The target gains a random mutation from the [mutant](ref/template/mutant) creature template, with the exception of radiation affinity. Roll 1d20 to select the mutation.|
 |41-75|The target gains a random deformity from the mutant creature template. Roll 1d12 to select the specific deformity.|
 |76-95|The First World lashes out at the target vindictively, bestowing the [accursed](ref/rule/accursed) corruption.|
 |96-99|The target gains a new form. This effect functions as per [reincarnate](ref/spell/reincarnate), with a few exceptions. It takes full effect when the breach triggers, rather than taking 1 hour to activate. Additionally, it works only on living creatures, it does not impose any negative levels, and it does not cause a spellcaster to lose spells. Restoring the target to its original form requires a [miracle](ref/spell/miracle) or [wish](ref/spell/wish) spell.|
@@ -68,7 +68,3 @@ A [forbiddance](ref/spell/forbiddance) or [dimensional lock](ref/spell/dimension
 area of a breach prevents the breach from exerting influence on the Material Plane until it moves to
 a different location. A _[wish](ref/spell/wish)_ or _[miracle](ref/spell/miracle)_ spell permanently
 closes a breach.
-
-###### ^1^ {#footnote-m}
-
-No mutation mentioning "radiation affinity" exists in that template.

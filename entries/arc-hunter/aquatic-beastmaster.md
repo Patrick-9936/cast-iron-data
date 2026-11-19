@@ -41,7 +41,7 @@ fight against aboleth masterminds, sahuagin tribes, and other villains that haun
 **At 8th Level:** These bonuses increase to +6 and +4, respectively.
 
 **Passive:** The creature gains a +4 competence bonus on Swim checks and a +2 competence bonus on
-[grapple](ref/rule/grapple) combat maneuver checks.^1^
+[grapple](ref/rule/grapple) combat maneuver checks.
 
 **Dolphin**
 
@@ -131,15 +131,3 @@ descriptor and the extraordinary or supernatural abilities of creatures with the
 subtype whenever her animal companion is within 60 feet.
 
 **Replaces:** Improved empathic link
-
-^The crab and octopus foci grant the exact same bonuses. There has been no errata addressing this.
-If you wish to alter this with your GM, consider the following: The crab's bonuses are the same as
-those of the crab focus from the \[verminous hunter^(arc-hunter/verminous\_hunter). In fact,
-alternate animal foci from different archetypes almost always offer the exact same bonuses when they
-appear in different archetypes. The only exceptions are the scorpion (the verminous hunter's
-scorpion gives bonuses to stealth and grapple, while the
-[scarab stalker](ref/arc-hunter/scarab-stalker) version provides defense vs poison) and the octopus.
-The octopus focus from the [courtly hunter](ref/arc-hunter/courtly-hunter) grants bonuses to Escape
-Artist. The only other similarly-shaped animal focus is the
-[pelagic hunter's](ref/arc-hunter/pelagic-hunter) kraken focus, which grants the [jet](ref/umr/jet)
-ability.\]\{from=1 multi=2\}

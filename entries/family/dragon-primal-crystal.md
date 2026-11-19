@@ -33,8 +33,7 @@ kind = "none"
 
 ### Special Abilities
 
-**Razor Sharp (Sp)^[1](ref/family/dragon-primal-crystal#footnote-1)^** All of a crystal dragon's
-natural attacks deal slashing damage.
+**Razor Sharp (Sp)** All of a crystal dragon's natural attacks deal slashing damage.
 
 **Ray Reflection (Ex)** An ancient crystal dragon's scales reflect ray spells back upon the ray's
 source if the ray fails to overcome the dragon's [spell resistance](ref/rule/spell-resistance).
@@ -54,22 +53,11 @@ Old-[stone to flesh](ref/spell/stone-to-flesh) (3/day);
 Ancient-[prismatic spray](ref/spell/prismatic-spray) (3/day); Great
 wyrm-[imprisonment](ref/spell/imprisonment) (1/day).
 
-**Tremorsense (Ex)** A juvenile^[2](ref/family/dragon-primal-crystal#footnote-2)^ crystal dragon
-gains [tremorsense](ref/umr/tremorsense) to a range of 30 ft. (increases to 60 ft. at adult, and to
-120 ft. at old).
+**Tremorsense (Ex)** A juvenile crystal dragon gains [tremorsense](ref/umr/tremorsense) to a range
+of 30 ft. (increases to 60 ft. at adult, and to 120 ft. at old).
 
 ### Members of This Family:
 
 - [Adult Crystal Dragon](ref/monster/dragon-primal-crystal-adult-crystal-dragon)
 - [Ancient Crystal Dragon](ref/monster/dragon-primal-crystal-ancient-crystal-dragon)
 - [Young Crystal Dragon](ref/monster/dragon-primal-crystal-young-crystal-dragon)
-
-###### ^1^ {#footnote-1}
-
-This should probably be (Ex), but no erratta supports this idea.
-
-###### ^2^ {#footnote-2}
-
-The printed table indicates this happens at Young instead of Juvenile, and the _young crystal
-dragon_ entry lists [tremorsense](ref/umr/tremorsense) in its senses. Again, no erratta has been
-issued.

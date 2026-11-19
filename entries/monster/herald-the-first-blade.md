@@ -27,7 +27,7 @@ reflex = "+12"
 will = "+8"
 melee = "2 slams +29 (2d10+16/19-20 plus bleed)"
 special_attacks = "bladed slam~powerful blows"
-special_qualities = "change shape (swarm form; see below)#C, lord of battle, no breath"
+special_qualities = "change shape (swarm form; see below), lord of battle, no breath"
 abilities = ["32", "13", "28", "10", "15", "13"]
 +++
 
@@ -125,12 +125,8 @@ Sense Motive +23
 
 **Languages:** Abyssal, Celestial, Common, Infernal, Protean
 
-**Special qualities:** [change shape](ref/umr/change-shape) (swarm form; see below)\#C, lord of
-battle, [no breath](ref/umr/no-breath)
-
-###### C {#footnote-c}
-
-No spell equivalent was provided.
+**Special qualities:** [change shape](ref/umr/change-shape) (swarm form; see below), lord of battle,
+[no breath](ref/umr/no-breath)
 
 **Ecology**
 
@@ -181,7 +177,3 @@ will be facing in battle. Regardless of its form, it typically stands about 15 f
 nearly 5 tons.
 
 **Family:** [Herald](ref/family/herald)
-
-###### ^1^ {#footnote-c}
-
-No spell equivalent was provided.

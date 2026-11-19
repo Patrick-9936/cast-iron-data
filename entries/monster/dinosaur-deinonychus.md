@@ -96,14 +96,8 @@ As swift and agile as it is deadly, the deinonychus is a pack hunter, running wi
 kind to take down prey and rip it apart with their gutting talons.
 
 You can apply the [young](ref/template/young) simple template to create statistics for smaller, more
-agile velociraptors.^[1](ref/monster/dinosaur-deinonychus#footnote-v)^ Conversely, you can either
-increase the deinonychus to Large size and its Hit Dice to 8 or simply apply the
-[giant](ref/template/giant) and [advanced](ref/template/advanced) simple templates to create a
-formidable megaraptor.
+agile velociraptors. Conversely, you can either increase the deinonychus to Large size and its Hit
+Dice to 8 or simply apply the [giant](ref/template/giant) and [advanced](ref/template/advanced)
+simple templates to create a formidable megaraptor.
 
 **Family:** Dinosaur
-
-###### ^1^ {#footnote-v}
-
-_Bestiary 4_ later printed a stand-alone version of the
-[velociraptor](ref/monster/dinosaur-velociraptor).

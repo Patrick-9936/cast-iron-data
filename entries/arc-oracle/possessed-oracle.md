@@ -33,7 +33,7 @@ drawing her powers from deities, these otherworldly forces work their magic thro
 
 **Info:** The oracle gains these bonus spells at the listed levels.
 
-**Replaces:** The bonus spells gained at 1st,^1^ 4th, 6th, 8th, 10th, 12th, and 16th levels from the
+**Replaces:** The bonus spells gained at 1st, 4th, 6th, 8th, 10th, 12th, and 16th levels from the
 oracle's mystery
 
 **Spells:** Ventriloquism\|^1-2^
@@ -60,6 +60,3 @@ oracle's mystery
 must take the second result, even if it is worse.
 
 **Passive:** You gain a +2 bonus on Will saves against enchantment spells or effects.
-
-^1^ No mysteries give spells at 1st level. This is likely supposed to be 2nd level, but no errata
-was ever published. Consult your GM.

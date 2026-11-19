@@ -47,8 +47,8 @@ in level.
 **Braggart (Ex)**
 
 **Ability:** The cavalier can spend a **standard action** to extol his own accomplishments and
-battle prowess.^1^ He receives [Dazzling Display](ref/feat/dazzling-display) as a bonus feat. He
-does not need a weapon in hand to use this ability. The cavalier receives a +2 morale bonus on melee
+battle prowess. He receives [Dazzling Display](ref/feat/dazzling-display) as a bonus feat. He does
+not need a weapon in hand to use this ability. The cavalier receives a +2 morale bonus on melee
 attack rolls made against demoralized targets.
 
 **Gained:** At 2nd Level
@@ -74,8 +74,3 @@ threats he makes are automatically confirmed.
 **Usage:** Once per day.
 
 **Usage:** Once per day.
-
-^1^ This ability is confusingly worded. The general consensus is that the morale bonus is constant
-and you get Dazzling Display as a bonus feat (if you meet its prerequisites), but you can use it as
-a standard action instead of a full-round action, and you can use it without a weapon in hand. As
-always, consult your GM.

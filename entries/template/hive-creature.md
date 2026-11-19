@@ -29,15 +29,9 @@ can create hive creatures that retain the capabilities of the original creatures
 HD; two [claw attacks](ref/umr/natural-attacks) that each deal 1d4 points of damage (for Medium
 creatures) and one bite attack that deals 1d6 points of damage (for Medium creatures); immunity to
 acid; [blind](ref/misc/blinded); [blindsense](ref/umr/blindsense) 60 ft.;
-[blindsight](ref/umr/blindsight) 10 ft.; corrosive
-blood^[1](ref/template/hive-creature#footnote-h)^; hive
-mind^[1](ref/template/hive-creature#footnote-h)^.
+[blindsight](ref/umr/blindsight) 10 ft.; corrosive blood; hive mind.
 
 **Rebuild Rules:** **Type** gain the hive subtype and all the corresponding abilities; **AC**
 natural armor bonus increases by 2; **Melee** two claw attacks that each deal 1d4 points of damage
 (for Medium creatures) and one bite attack that deals 1d6 points of damage (for Medium creatures);
 **Ability Scores** +2 Str, +2 Dex, +2 Con, -6 Cha.
-
-###### ^1^ {#footnote-h}
-
-See the [hive subtype](ref/subtype/hive) for this ability.

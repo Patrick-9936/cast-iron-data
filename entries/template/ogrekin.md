@@ -23,11 +23,10 @@ kind = "none"
 
 **Inherited:** present
 
-The result of an unfortunate union between an ogre and a humanoid, the ogrekin (or
-half-ogre^[1](ref/template/ogrekin#footnote-h)^) is cursed with horrific malformations due to its
-tragic ancestry. Shunned by both parents, ogrekin tend to form unstable clans of their own, often
-resorting to inbreeding to sustain the collective. While good-natured ogrekin are not entirely
-unheard of, they are far and few between.
+The result of an unfortunate union between an ogre and a humanoid, the ogrekin (or half-ogre) is
+cursed with horrific malformations due to its tragic ancestry. Shunned by both parents, ogrekin tend
+to form unstable clans of their own, often resorting to inbreeding to sustain the collective. While
+good-natured ogrekin are not entirely unheard of, they are far and few between.
 
 ### Creating an Ogrekin
 
@@ -106,8 +105,3 @@ available above, ogrekin can have any of the new deformities presented below.
 |8|**Offensive Odor:** Increase the Charisma penalty imposed by the ogrekin template to -4. Creatures with scent can detect the ogrekin from twice the normal distance.|
 |9|**Trusting:** The ogrekin takes a -2 penalty on Will saves against mind-affecting effects and a -1 penalty on initiative checks.|
 |10|**Twisted Spine:** The ogrekin takes a -4 penalty on grapple and trip combat maneuver checks. Standing up from [prone](ref/rule/prone) requires the ogrekin to take a full-round action.|
-
-###### ^1^ {#footnote-h}
-
-A template for [half-ogres](ref/template/half-ogre) exists, for the offspring of ogres and other
-giants.

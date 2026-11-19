@@ -39,7 +39,7 @@ embroidered figures of each of the following undead:
 - Human [skeleton](ref/template/skeleton)
 - [Wolf](ref/monster/wolf) skeleton
 - [Heavy horse](ref/monster/horse) skeleton
-- Tough^[1](ref/magic-wondrous/robe-of-bones#footnote-t)^ human [zombie](ref/template/zombie)
+- Tough human [zombie](ref/template/zombie)
 - Fast [goblin](ref/monster/goblin) zombie
 - Plague [ogre](ref/monster/ogre) zombie
 
@@ -47,8 +47,3 @@ embroidered figures of each of the following undead:
 
 **Requirements** [Craft Wondrous Item](ref/feat/craft-wondrous-item),
 [animate dead](ref/spell/animate-dead); **Cost** 1,200 gp
-
-###### ^1^ {#footnote-t}
-
-No such zombie (or human) type exists. According to someone at Paizo, this should just be the
-default human zombie. Source: paizo.com forums
