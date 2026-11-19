@@ -51053,6 +51053,11 @@ path = "json/class_ability_domains2.json#repose"
 records = 1
 reason = 'Paizo Blog - Golarion Day Subdomains: the "Pharasma-Friendly Repose Domain" adjustment (a domain-spell change) is blog-only material and is not shipped, because the Repose domain itself is not yet a corpus entry (see the rejected row for this path). The blog is covered by the Community Use Policy; add the adjustment when the Repose domain lands. Tracked in #36.'
 
+[[excluded]]
+path = "json/monsters02.json#animated_object"
+records = 0
+reason = "4 page-citation footnotes not converted to a source row (#112): Pathfinder #30: The Twice-Damned Prince p. 68 (the book was not available for a print check); Pathfinder #30: The Twice-Damned Prince p. 69 (the book was not available for a print check); Pathfinder #43: Haunting of Harrowstone p. 80 (the book was not available for a print check); Pathfinder #43: Haunting of Harrowstone p. 81 (the book was not available for a print check). The footnote is removed; no record is left out."
+
 [[rejected]]
 path = "json/archetypes_barbarian.json#totem_warrior"
 reason = "converter native exclusion (ref/arc-barbarian/totem-warrior): json/archetypes_barbarian.json#totem_warrior uses compileFrom; recipe expansion is not implemented"

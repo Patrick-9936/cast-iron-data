@@ -8,10 +8,49 @@ provenance = [
 ]
 [[sources]]
 publication = "ultimate-equipment"
-page = "297"
+page = "297-298"
 [[sources]]
 publication = "core-rulebook"
-page = "513"
+page = "513-514"
+[[sources]]
+publication = "aquatic-adventures"
+page = "62"
+[[sources]]
+publication = "pathfinder-34-blood-for-blood"
+page = "67"
+[[sources]]
+publication = "legacy-of-fire-players-guide"
+page = "26"
+[[sources]]
+publication = "pathfinder-122-into-the-shattered-continent"
+page = "33"
+[[sources]]
+publication = "seers-of-the-drowned-city"
+page = "54"
+[[sources]]
+publication = "advanced-race-guide"
+page = "166"
+[[sources]]
+publication = "andoran-spirit-of-liberty"
+page = "26"
+[[sources]]
+publication = "elemental-masters-handbook"
+page = "10"
+[[sources]]
+publication = "ultimate-combat"
+page = "143"
+[[sources]]
+publication = "advanced-class-guide"
+page = "236"
+[[sources]]
+publication = "animal-archive"
+page = "27"
+[[sources]]
+publication = "pathfinder-70-the-frozen-stars"
+page = "63"
+[[sources]]
+publication = "mythic-adventures"
+page = "151"
 
 [fields]
 kind = "item"
@@ -41,12 +80,11 @@ If a figurine of wondrous power is broken or destroyed in its statuette form, it
 All magic is lost, its power departed. If slain in animal form, the figurine simply reverts to a
 statuette that can be used again at a later time.
 
-**Basalt Dragon:** This fist-sized, carved
-dragon^[1](ref/magic-wondrous/figurine-of-wondrous-power#footnote-1)^ is sculpted from volcanic
-rock. It becomes either a [pseudodragon](ref/monster/pseudodragon) or a
-[flame drake](ref/monster/drake-flame-drake), depending on the command word used. The transformation
-can take place twice per day, with a maximum duration of 2 continuous hours. The pseudodragon can
-use its telepathy to communicate with its owner over any distance, but not across planes.
+**Basalt Dragon:** This fist-sized, carved dragon is sculpted from volcanic rock. It becomes either
+a [pseudodragon](ref/monster/pseudodragon) or a [flame drake](ref/monster/drake-flame-drake),
+depending on the command word used. The transformation can take place twice per day, with a maximum
+duration of 2 continuous hours. The pseudodragon can use its telepathy to communicate with its owner
+over any distance, but not across planes.
 
 By expending one use of mythic power, the user of the figurine can instead transform the figurine
 into a [young red dragon](ref/carried/bestiary/monsters/dragon/chromatic/red/young). If the user is
@@ -61,43 +99,39 @@ ends.; **CL** 20th; [Craft Wondrous Item](ref/feat/craft-wondrous-item),
 [telepathic bond](ref/spell/telepathic-bond).
 
 **Black Jade Raven:** This fist-sized piece of black jade is exquisitely tooled into the shape of a
-raven with outstretched wings.^[2](ref/magic-wondrous/figurine-of-wondrous-power#footnote-2)^ Upon
-command, it transforms into a black raven (use the stats for an [eagle](ref/monster/eagle)) or a
-giant black raven (use the stats for a [giant eagle](ref/monster/eagle-giant-eagle)). Both forms of
-the raven have [Improved Steal](ref/feat/improved-steal) as a bonus feat. The raven understands
-Common but cannot speak. It can answer questions related to its abilities or what it has seen by
-cawing once for "yes" and twice for "no."
+raven with outstretched wings. Upon command, it transforms into a black raven (use the stats for an
+[eagle](ref/monster/eagle)) or a giant black raven (use the stats for a
+[giant eagle](ref/monster/eagle-giant-eagle)). Both forms of the raven have
+[Improved Steal](ref/feat/improved-steal) as a bonus feat. The raven understands Common but cannot
+speak. It can answer questions related to its abilities or what it has seen by cawing once for "yes"
+and twice for "no."
 
 The raven can maintain its non-figurine status for only 24 hours per week. This duration need not be
 continuous, but it must be used in 1-hour increments. After three transformations into its giant
 raven form (though not its smaller version), the statuette loses all magical properties.; **CL**
 11th; Craft Wondrous Item, _[animate objects](ref/spell/animate-objects)._
 
-**Bronze Griffon:** When animated, a bronze
-griffon^[3](ref/magic-wondrous/figurine-of-wondrous-power#footnote-3)^ acts in all ways like a
-normal [griffon](ref/monster/griffon) under the command of its possessor. The item can be used twice
-per week for up to 6 hours per use. When 6 hours have passed or when the command word is spoken, the
+**Bronze Griffon:** When animated, a bronze griffon acts in all ways like a normal
+[griffon](ref/monster/griffon) under the command of its possessor. The item can be used twice per
+week for up to 6 hours per use. When 6 hours have passed or when the command word is spoken, the
 bronze griffon once again becomes a tiny statuette.; **CL** 11th; Craft Wondrous Item,
 _[animate objects](ref/spell/animate-objects)._
 
-**Coral Hippocampus:** When animated,^[4](ref/magic-wondrous/figurine-of-wondrous-power#footnote-4)^
-this figurine of wondrous power acts in all ways like a normal
+**Coral Hippocampus:** When animated, this figurine of wondrous power acts in all ways like a normal
 [combat-trained](ref/skill/handle-animal) [hippocampus](ref/eq-misc/hippocampus-common). The item
 can be used three times per week for up to 12 hours per use. When 12 hours have passed or when the
 command word is spoken, the coral hippocampus again becomes a tiny statuette.; **CL** 19th; Craft
 Wondrous Item, _[animate objects](ref/spell/animate-objects)._
 
-**Ebony Fly:** When animated, an ebony
-fly^[3](ref/magic-wondrous/figurine-of-wondrous-power#footnote-3)^ is the size of a pony and has all
-the statistics of a [pegasus](ref/monster/pegasus) but can make no attacks. The item can be used
-three times per week for up to 12 hours per use. When 12 hours have passed or when the command word
-is spoken, the ebony fly again becomes a tiny statuette.; **CL** 11th; Craft Wondrous Item,
+**Ebony Fly:** When animated, an ebony fly is the size of a pony and has all the statistics of a
+[pegasus](ref/monster/pegasus) but can make no attacks. The item can be used three times per week
+for up to 12 hours per use. When 12 hours have passed or when the command word is spoken, the ebony
+fly again becomes a tiny statuette.; **CL** 11th; Craft Wondrous Item,
 _[animate objects](ref/spell/animate-objects)._
 
-**Emerald Frog:** This figurine of wondrous
-power^[5](ref/magic-wondrous/figurine-of-wondrous-power#footnote-5)^ appears as a small, innocuous
-frog carved of cloudy emerald. On command, it transforms into either a
-[giant frog](ref/monster/frog-giant-frog) with the [advanced](ref/template/advanced) template or 3
+**Emerald Frog:** This figurine of wondrous power appears as a small, innocuous frog carved of
+cloudy emerald. On command, it transforms into either a [giant frog](ref/monster/frog-giant-frog)
+with the [advanced](ref/template/advanced) template or 3
 [poisonous frogs](ref/monster/frog-poison-frog) - the user makes this choice at the time of
 activation. The frog (or frogs) can be animated up to 3 times per week, for a maximum total duration
 of 12 hours per week. If the advanced giant frog is slain, the emerald frog cannot be activated
@@ -110,8 +144,7 @@ Small or smaller creatures as a makeshift mount, although it is not equipped wit
 similar equipment, and its slick hide imposes an additional -4 penalty on [Ride](ref/skill/ride)
 attempts.; **CL** 8th; Craft Wondrous Item, _[animate objects](ref/spell/animate-objects)._
 
-**Glass Walrus:** This figurine of wondrous power is shaped like a
-walrus^[6](ref/magic-wondrous/figurine-of-wondrous-power#footnote-6)^ and is carved out of a
+**Glass Walrus:** This figurine of wondrous power is shaped like a walrus and is carved out of a
 prismatic crystal. It follows all the normal rules for figurines of wondrous power. When animated, a
 glass walrus acts in all ways like a normal walrus except it can glide along the surface of water as
 though under the constant effects of _[water walk](ref/spell/water-walk)._ Up to two Medium
@@ -122,27 +155,24 @@ week for up to 6 hours per use. When 6 hours have passed or when the command wor
 glass walrus again becomes a tiny statuette.; **CL** 11th; Craft Wondrous Item,
 _[animate objects](ref/spell/animate-objects),_ [water walk](ref/spell/water-walk).
 
-**Golden Lions:** These figurines come in
-pairs.^[3](ref/magic-wondrous/figurine-of-wondrous-power#footnote-3)^ They become normal adult male
+**Golden Lions:** These figurines come in pairs. They become normal adult male
 [lions](ref/monster/lion). If slain in combat, the lions cannot be brought back from statuette form
 for 1 full week. Otherwise, they can be used once per day for up to 1 hour. They enlarge and shrink
 upon speaking the command word.; **CL** 11th; Craft Wondrous Item,
 _[animate objects](ref/spell/animate-objects)._
 
-**Hematite Cougar:** This palm-sized figurine of a cat with a spiked
-tail^[7](ref/magic-wondrous/figurine-of-wondrous-power#footnote-7)^ is made of gleaming hematite. A
-hematite cougar turns into a [digmaul](ref/monster/digmaul) that is fully obedient to the figurine's
-owner. Even in its animated form, the hematite cougar is made of dense metal, granting it a +2 armor
-bonus to AC and a +2 bonus to its CMD. An animated hematite cougar conducts low levels of
-electricity; creatures adjacent to the hematite cougar gain electricity resistance 2, but any damage
-prevented by this ability is dealt to the hematite cougar instead. A hematite cougar can be animated
-twice per week for up to 8 hours per use; speaking the command word before the 8 hours expires
-returns the hematite cougar to a figurine.; **CL** 11th; Craft Wondrous Item,
+**Hematite Cougar:** This palm-sized figurine of a cat with a spiked tail is made of gleaming
+hematite. A hematite cougar turns into a [digmaul](ref/monster/digmaul) that is fully obedient to
+the figurine's owner. Even in its animated form, the hematite cougar is made of dense metal,
+granting it a +2 armor bonus to AC and a +2 bonus to its CMD. An animated hematite cougar conducts
+low levels of electricity; creatures adjacent to the hematite cougar gain electricity resistance 2,
+but any damage prevented by this ability is dealt to the hematite cougar instead. A hematite cougar
+can be animated twice per week for up to 8 hours per use; speaking the command word before the 8
+hours expires returns the hematite cougar to a figurine.; **CL** 11th; Craft Wondrous Item,
 _[animate objects](ref/spell/animate-objects),_ [resist energy](ref/spell/resist-energy).
 
-**Ivory Goats:** These figurines come in
-threes.^[3](ref/magic-wondrous/figurine-of-wondrous-power#footnote-3)^ Each goat of this trio looks
-slightly different from the others, and each has a different function:
+**Ivory Goats:** These figurines come in threes. Each goat of this trio looks slightly different
+from the others, and each has a different function:
 
 - **The Goat of Traveling:** This statuette provides a speedy and enduring mount equal to that of a
   [heavy horse](ref/monster/horse) in every way except appearance. The goat can travel for a maximum
@@ -163,26 +193,23 @@ slightly different from the others, and each has a different function:
 
 **CL** 11th; Craft Wondrous Item, _[animate objects](ref/spell/animate-objects)._
 
-**Lapis Camel:** This palm-sized camel figurine is sculpted of lapis
-lazuli.^[8](ref/magic-wondrous/figurine-of-wondrous-power#footnote-8)^ When you throw the lapis
-camel to the ground and speak the command word, it turns into a dromedary camel. The camel acts as a
-normal [camel](ref/eq-misc/camel) in all respects, except that it obeys your verbal commands to the
-best of its animal-level intelligence. At your command, the camel returns to its figurine form. The
-lapis camel can be used up to 3 times per week for up 8 hours each use.; **CL** 11th; Craft Wondrous
-Item, _[animate objects](ref/spell/animate-objects)._
+**Lapis Camel:** This palm-sized camel figurine is sculpted of lapis lazuli. When you throw the
+lapis camel to the ground and speak the command word, it turns into a dromedary camel. The camel
+acts as a normal [camel](ref/eq-misc/camel) in all respects, except that it obeys your verbal
+commands to the best of its animal-level intelligence. At your command, the camel returns to its
+figurine form. The lapis camel can be used up to 3 times per week for up 8 hours each use.; **CL**
+11th; Craft Wondrous Item, _[animate objects](ref/spell/animate-objects)._
 
-**Marble Elephant:** This is the largest of the
-figurines,^[3](ref/magic-wondrous/figurine-of-wondrous-power#footnote-3)^ the statuette being about
-the size of a human hand. Upon utterance of the command word, a marble elephant grows to the size
-and specifications of a true [elephant](ref/monster/elephant). The animal created from the statuette
-is fully obedient to the figurine's owner, serving as a beast of burden, a mount, or a combatant.
-The statuette can be used four times per month for up to 24 hours at a time.; **CL** 11th; Craft
+**Marble Elephant:** This is the largest of the figurines, the statuette being about the size of a
+human hand. Upon utterance of the command word, a marble elephant grows to the size and
+specifications of a true [elephant](ref/monster/elephant). The animal created from the statuette is
+fully obedient to the figurine's owner, serving as a beast of burden, a mount, or a combatant. The
+statuette can be used four times per month for up to 24 hours at a time.; **CL** 11th; Craft
 Wondrous Item, _[animate objects](ref/spell/animate-objects)._
 
-**Obsidian Steed:** This figurine appears to be a small, shapeless lump of black
-stone.^[3](ref/magic-wondrous/figurine-of-wondrous-power#footnote-3)^ Only careful inspection
-reveals that it vaguely resembles some form of quadruped. On command, the near-formless piece of
-obsidian becomes a fantastic mount. Treat it as a [heavy horse](ref/monster/horse) with the
+**Obsidian Steed:** This figurine appears to be a small, shapeless lump of black stone. Only careful
+inspection reveals that it vaguely resembles some form of quadruped. On command, the near-formless
+piece of obsidian becomes a fantastic mount. Treat it as a [heavy horse](ref/monster/horse) with the
 following additional powers usable once per round at will:
 [overland flight](ref/spell/overland-flight), _[plane shift](ref/spell/plane-shift),_ and
 [ethereal jaunt](ref/spell/ethereal-jaunt). The steed allows itself to be ridden, but if the rider
@@ -193,31 +220,28 @@ his gear follow suit. Thus, the user can travel to other planes via this means.;
 Wondrous Item, _[animate objects](ref/spell/animate-objects),_
 [etherealness](ref/spell/etherealness), [fly](ref/spell/fly), [plane shift](ref/spell/plane-shift).
 
-**Onyx Dog:** When commanded, this
-statuette^[3](ref/magic-wondrous/figurine-of-wondrous-power#footnote-3)^ changes into a creature
-with the same properties as a [riding dog](ref/monster/dog-riding-dog) except that it is endowed
-with an Intelligence of 8, can communicate in Common, and has exceptional olfactory and visual
-abilities. It has the [scent](ref/umr/scent) ability and adds +4 on its
-[Perception](ref/skill/perception) checks. It has 60-foot [darkvision](ref/rule/darkvision), and it
-can [see invisibility](ref/spell/see-invisibility). An onyx dog can be used once per week for up to
-6 hours. It obeys only its owner.; **CL** 11th; Craft Wondrous Item,
+**Onyx Dog:** When commanded, this statuette changes into a creature with the same properties as a
+[riding dog](ref/monster/dog-riding-dog) except that it is endowed with an Intelligence of 8, can
+communicate in Common, and has exceptional olfactory and visual abilities. It has the
+[scent](ref/umr/scent) ability and adds +4 on its [Perception](ref/skill/perception) checks. It has
+60-foot [darkvision](ref/rule/darkvision), and it can
+[see invisibility](ref/spell/see-invisibility). An onyx dog can be used once per week for up to 6
+hours. It obeys only its owner.; **CL** 11th; Craft Wondrous Item,
 _[animate objects](ref/spell/animate-objects)._
 
-**Pearl Dolphin:** This 2-inch-long pearl
-figurine^[9](ref/magic-wondrous/figurine-of-wondrous-power#footnote-9)^ turns into a
-[dolphin](ref/eq-misc/dolphin) on command (but it retains its composition, which gives it
-[hardness](ref/umr/hardness) 10). The dolphin follows the verbal commands of the creature who spoke
-the command word and will follow commands as a summoned creature. With a second command word, the
-dolphin will swim to an indicated location at double its swim speed, bearing a message just like a
-creature affected by an _[animal messenger](ref/spell/animal-messenger)_ spell.
+**Pearl Dolphin:** This 2-inch-long pearl figurine turns into a [dolphin](ref/eq-misc/dolphin) on
+command (but it retains its composition, which gives it [hardness](ref/umr/hardness) 10). The
+dolphin follows the verbal commands of the creature who spoke the command word and will follow
+commands as a summoned creature. With a second command word, the dolphin will swim to an indicated
+location at double its swim speed, bearing a message just like a creature affected by an
+_[animal messenger](ref/spell/animal-messenger)_ spell.
 
 The pearl dolphin can maintain its non-figurine status for only 24 hours per week. The duration need
 not be continuous, but it must be used in 1-hour increments.; **CL** 11th;
 [Craft Wondrous Item](ref/feat/craft-wondrous-item), _animal messenger, animate objects_.
 
-**Ruby Butterfly:** Upon command, this figurine of wondrous
-power^[10](ref/magic-wondrous/figurine-of-wondrous-power#footnote-a)^ transforms into a hand-sized
-red butterfly (same statistics as a [bat](ref/monster/familiar-bat)). A spellcaster can use a ruby
+**Ruby Butterfly:** Upon command, this figurine of wondrous power transforms into a hand-sized red
+butterfly (same statistics as a [bat](ref/monster/familiar-bat)). A spellcaster can use a ruby
 butterfly to deliver touch spells, as if the ruby butterfly were a [familiar](ref/sidekick/familiar)
 capable of this ability. A ruby butterfly can also be commanded to guard its owner while he sleeps.
 Creatures protected this way gain a +5 luck bonus on saving throws against any spell or effect that
@@ -226,60 +250,52 @@ haunting ability). A ruby butterfly can be used three times per week for up to 8
 **CL** 9th; Craft Wondrous Item, _[animate objects](ref/spell/animate-objects),_
 [dream](ref/spell/dream).
 
-**Serpentine Owl:** This figurine^[3](ref/magic-wondrous/figurine-of-wondrous-power#footnote-3)^
-becomes either a normal-sized horned [owl](ref/monster/familiar-owl) or a
-[giant owl](ref/monster/owl-giant-owl) (use the stats for the giant eagle) according to the command
-word used. The transformation can take place once per day, with a maximum duration of 8 continuous
-hours. However, after three transformations into giant owl form, the statuette loses all its magical
-properties. The owl communicates with its owner by telepathic means, informing her of all it sees
-and hears.; **CL** 11th; [Craft Wondrous Item](ref/feat/craft-wondrous-item),
-_[animate objects](ref/spell/animate-objects)_.
+**Serpentine Owl:** This figurine becomes either a normal-sized horned
+[owl](ref/monster/familiar-owl) or a [giant owl](ref/monster/owl-giant-owl) (use the stats for the
+giant eagle) according to the command word used. The transformation can take place once per day,
+with a maximum duration of 8 continuous hours. However, after three transformations into giant owl
+form, the statuette loses all its magical properties. The owl communicates with its owner by
+telepathic means, informing her of all it sees and hears.; **CL** 11th;
+[Craft Wondrous Item](ref/feat/craft-wondrous-item), _[animate objects](ref/spell/animate-objects)_.
 
-> **Serpentine Eagle:** This Andoren
-> variant^[11](ref/magic-wondrous/figurine-of-wondrous-power#footnote-b)^ of the serpentine owl can
-> be transformed into an [eagle](ref/monster/eagle) or [giant eagle](ref/monster/eagle-giant-eagle)
-> but is otherwise identical to the owl figurine. Serpentine eagles are popular among
+> **Serpentine Eagle:** This Andoren variant of the serpentine owl can be transformed into an
+> [eagle](ref/monster/eagle) or [giant eagle](ref/monster/eagle-giant-eagle) but is otherwise
+> identical to the owl figurine. Serpentine eagles are popular among
 > [Eagle Knights](ref/rule/aff-vangard) for scouting and emergency transportation.; **CL** 11th;
 > Craft Wondrous Item, _[animate objects](ref/spell/animate-objects)._
 
-**Silver Raven:** This silver
-figurine^[3](ref/magic-wondrous/figurine-of-wondrous-power#footnote-3)^ turns into a
-[raven](ref/monster/familiar-raven) on command (but it retains its metallic consistency, which gives
-it [hardness](ref/umr/hardness) 10). Another command sends it off into the air, bearing a message
-just like a creature affected by an _[animal messenger](ref/spell/animal-messenger)_ spell. If not
-commanded to carry a message, the raven obeys the commands of its owner, although it has no special
-powers or telepathic abilities. It can maintain its non-figurine status for only 24 hours per week,
-but the duration need not be continuous.; **CL** 6th; Craft Wondrous Item, _animal messenger,
-animate objects._
+**Silver Raven:** This silver figurine turns into a [raven](ref/monster/familiar-raven) on command
+(but it retains its metallic consistency, which gives it [hardness](ref/umr/hardness) 10). Another
+command sends it off into the air, bearing a message just like a creature affected by an
+_[animal messenger](ref/spell/animal-messenger)_ spell. If not commanded to carry a message, the
+raven obeys the commands of its owner, although it has no special powers or telepathic abilities. It
+can maintain its non-figurine status for only 24 hours per week, but the duration need not be
+continuous.; **CL** 6th; Craft Wondrous Item, _animal messenger, animate objects._
 
-> **Obsidian Raven:** This figurine of wondrous
-> power^[12](ref/magic-wondrous/figurine-of-wondrous-power#footnote-c)^ is similar to a silver
-> raven, but it can be used to send messages across the planes. On command, the figurine turns into
-> a raven (retaining its stone-like consistency, which gives it [hardness](ref/umr/hardness) 8).
-> Another command sends it off into the air, bearing a message as the _[sending](ref/spell/sending)_
-> spell (with no chance of the message not arriving). The recipient of the message can then use the
-> obsidian raven to _[plane shift](ref/spell/plane-shift)_ (self only) to the plane from which the
-> message was sent. The figurine can be used in this way once per day. If not commanded to carry a
-> message, the raven obeys the commands of its owner, although it has no special abilities, and it
-> can maintain its non-figurine status for 24 hours per week (the duration need not be continuous).;
-> **CL** 11th; Craft Wondrous Item, _animate objects, plane shift_, [sending](ref/spell/sending).
+> **Obsidian Raven:** This figurine of wondrous power is similar to a silver raven, but it can be
+> used to send messages across the planes. On command, the figurine turns into a raven (retaining
+> its stone-like consistency, which gives it [hardness](ref/umr/hardness) 8). Another command sends
+> it off into the air, bearing a message as the _[sending](ref/spell/sending)_ spell (with no chance
+> of the message not arriving). The recipient of the message can then use the obsidian raven to
+> _[plane shift](ref/spell/plane-shift)_ (self only) to the plane from which the message was sent.
+> The figurine can be used in this way once per day. If not commanded to carry a message, the raven
+> obeys the commands of its owner, although it has no special abilities, and it can maintain its
+> non-figurine status for 24 hours per week (the duration need not be continuous).; **CL** 11th;
+> Craft Wondrous Item, _animate objects, plane shift_, [sending](ref/spell/sending).
 
-**Slate Spider:** This statuette of a spider with stubby
-legs^[13](ref/magic-wondrous/figurine-of-wondrous-power#footnote-d)^ can be used once per day for 1
-minute. When activated, the figurine sprouts longer, segmented legs, and scampers about the bearer,
-picking lint off robes, chiseling grime from armor, or otherwise grooming the bearer. If commanded
-to do so (a free action), it perches on the muzzle of a one-handed or two-handed firearm barrel and,
-after the firearm is fired, travels down the barrel and cleans out the firearm. Each time the slate
-spider cleans a firearm, the next shot the firearm fires has no chance of misfiring.; **CL** 11th;
-Craft Wondrous Item, _[animate objects](ref/spell/animate-objects)._
+**Slate Spider:** This statuette of a spider with stubby legs can be used once per day for 1 minute.
+When activated, the figurine sprouts longer, segmented legs, and scampers about the bearer, picking
+lint off robes, chiseling grime from armor, or otherwise grooming the bearer. If commanded to do so
+(a free action), it perches on the muzzle of a one-handed or two-handed firearm barrel and, after
+the firearm is fired, travels down the barrel and cleans out the firearm. Each time the slate spider
+cleans a firearm, the next shot the firearm fires has no chance of misfiring.; **CL** 11th; Craft
+Wondrous Item, _[animate objects](ref/spell/animate-objects)._
 
-**Tin Imp:** These fat, smirking imp
-figurines^[14](ref/magic-wondrous/figurine-of-wondrous-power#footnote-e)^ are made of solid tin. A
-tin imp turns into an [imp](ref/monster/devil-imp) on command, though it retains its metallic
-consistency, which gives it a +4 armor bonus to AC. In imp form, a tin imp can turn invisible at
-will as a swift action, though it retains none of an imp's other
-[spell-like abilities](ref/umr/spell-like-abilities) and lacks a poisoned sting. Tin imps generally
-avoid combat, but make excellent spies and trackers.
+**Tin Imp:** These fat, smirking imp figurines are made of solid tin. A tin imp turns into an
+[imp](ref/monster/devil-imp) on command, though it retains its metallic consistency, which gives it
+a +4 armor bonus to AC. In imp form, a tin imp can turn invisible at will as a swift action, though
+it retains none of an imp's other [spell-like abilities](ref/umr/spell-like-abilities) and lacks a
+poisoned sting. Tin imps generally avoid combat, but make excellent spies and trackers.
 
 The tin imp's owner can, as a move action, designate a single creature in his line of sight as the
 tin imp's quarry. The tin imp then follows its quarry clandestinely, and sends a whispered message
@@ -304,59 +320,3 @@ Dolphin), 4,500 gp (Ruby Butterfly), 4,550 gp (Black Jade Raven, Serpentine Eagl
 5,000 gp (Bronze Griffon, Ebony Fly, Hematite Courgar, Slate Spider), 6,500 gp (Tin Imp), 7,000 gp
 (Glass Walrus), 7,500 gp (Obsidian Raven), 7,750 gp (Onyx Dog), 8,250 gp (Golden Lions), 8,500 gp
 (Marble Elephant), 10,500 gp (Ivory Goats), 14,250 gp (Obsidian Steed), 30,000 gp (Basalt Dragon)
-
-###### ^1^ {#footnote-1}
-
-Mythic Adventures pg. 151
-
-###### ^2^ {#footnote-2}
-
-Advanced Race Guide pg. 166
-
-###### ^3^ {#footnote-3}
-
-Ultimate Equipment pg. 297-298, PRPG Core Rulebook pg. 513-514
-
-###### ^4^ {#footnote-4}
-
-Aquatic Adventures pg. 62
-
-###### ^5^ {#footnote-5}
-
-Pathfinder \#34: Blood for Blood pg. 67
-
-###### ^6^ {#footnote-6}
-
-Animal Archive pg. 27
-
-###### ^7^ {#footnote-7}
-
-Elemental Master's Handbook pg. 10
-
-###### ^8^ {#footnote-8}
-
-Legacy of Fire Player's Guide pg. 26
-
-###### ^9^ {#footnote-9}
-
-Pathfinder \#122: Into the Shattered Continent pg. 33
-
-###### ^10^ {#footnote-a}
-
-Seers of the Drowned City pg. 54
-
-###### ^11^ {#footnote-b}
-
-Andoran, Spirit of Liberty pg. 26
-
-###### ^12^ {#footnote-c}
-
-Pathfinder \#70: The Frozen Stars pg. 63
-
-###### ^13^ {#footnote-d}
-
-Ultimate Combat pg. 143, Ultimate Equipment pg. 298
-
-###### ^14^ {#footnote-e}
-
-Advanced Class Guide pg. 236

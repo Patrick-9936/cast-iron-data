@@ -12,6 +12,12 @@ page = "41"
 [[sources]]
 publication = "ultimate-combat"
 page = "140"
+[[sources]]
+publication = "heroes-of-golarion"
+page = "18"
+[[sources]]
+publication = "people-of-the-wastes"
+page = "15"
 
 [fields]
 kind = "item"
@@ -37,8 +43,7 @@ scatter weapon quality. The nonmagical flame deals 2d6 points of fire damage to 
 the cone of the scatter firearm (DC 15 Reflex save for half). These cartridges cannot be used in
 firearms that don't have the scatter weapon quality. Because this ammunition forces a saving throw
 instead of making an attack roll, the misfire rules are slightly different. If you roll a 1 with
-either of the damage dice, the firearm
-misfires.^[1](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-a)^\
+either of the damage dice, the firearm misfires.\
 **Cost** 40 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
 
@@ -46,8 +51,7 @@ misfires.^[1](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote
 enough to survive the shot can only be loaded into a blunderbuss, a dragon pistol, or another
 scatter weapon. It deals half damage to those hit by a cone attack made with this weapon, but any
 creature hit by the shot must succeed at a DC 15 Reflex saving throw or become entangled for 2d4
-rounds. An entangling shot cartridge increases the firearm's misfire value by
-2.^[1](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-a)^\
+rounds. An entangling shot cartridge increases the firearm's misfire value by 2.\
 **Cost** 40 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
 
@@ -57,8 +61,7 @@ creatures within a 20-foot [burst](ref/misc/burst) are dazzled for 1 round (Fort
 the effect). Flare cartridges are also useful for sending up signal flares. Firing a flare cartridge
 increases the firearm's misfire value by 2 unless it is fired from a blunderbuss or a dragon pistol,
 in which case doing so only increases the firearm's misfire value by 1. Flares can be used only to
-attack single creatures; they do not work as a shot for a scatter weapon's cone
-attack.^[1](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-a)^\
+attack single creatures; they do not work as a shot for a scatter weapon's cone attack.\
 **Cost** 10 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
 
@@ -66,7 +69,7 @@ attack.^[1](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-a
 rounds burst on impact and inhibit spellcasting. When a gray dust cartridge strikes a target, it
 deals only half damage, but the creature struck takes a -10 penalty on
 [concentration](ref/rule/concentration) checks to cast spells for 1d4 rounds and cannot cast
-defensively.^[2](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-b)^\
+defensively.\
 **Cost** 50 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
 
@@ -74,7 +77,7 @@ defensively.^[2](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footn
 weapon with the scatter quality. It functions similarly to a gray dust cartridge, except upon impact
 it bursts into a 20-foot-radius cloud. Creatures within the cloud take a -5 penalty on concentration
 checks to cast spells. This cloud dissipates in 1d6 rounds in still air. Light wind disperses the
-cloud in 1 round.^[2](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-b)^\
+cloud in 1 round.\
 **Cost** 50 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
 
@@ -88,12 +91,12 @@ metal fragments litter the area, functioning as caltrops in each square of the s
 (except they deal fire damage). These projectiles and fragments cool down after 3 rounds, at which
 point they become harmless bits of metal. Firing this cartridge increases the firearm's misfire
 value by 2, and the cartridge can be used only in early or advanced firearms with the scatter weapon
-quality.^[3](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-c)^\
+quality.\
 **Cost** 40 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
 
 **Paper Cartridge:** This simple mix of black powder and either pellets or a bullet increases the
-misfire value by 1.^[1](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-a)^\
+misfire value by 1.\
 **Cost** 12 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
 
@@ -105,23 +108,20 @@ enters the fumes while they are active must succeed at a DC 15 Fortitude save or
 1d6 rounds. Being affected by the fumes multiple times lengthens the duration of the sickened
 condition. If your attack results in a misfire that causes your firearm to explode, the area of the
 cloud is instead centered on one corner of your square (your choice), with a radius equal to the
-firearm's misfire burst size. Firing this cartridge increases the firearm's misfire value by
-1.^[3](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-c)^\
+firearm's misfire burst size. Firing this cartridge increases the firearm's misfire value by 1.\
 **Cost** 30 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
 
 **Salt Shot Cartridge:** This mix of black powder and rock salt can only be loaded into a
 blunderbuss, a dragon pistol, or other scatter weapon. It deals nonlethal instead of lethal damage,
-and increases the misfire value by 1. You can use it only with a scatter weapon's cone
-attack.^[1](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-a)^\
+and increases the misfire value by 1. You can use it only with a scatter weapon's cone attack.\
 **Cost** 12 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
 
 **Smoke Cartridge:** This cartridge can be loaded only into a weapon with the scatter quality. Upon
 striking a target, it deals no damage, but instead bursts into a cloud of smoke in a 20-foot radius.
 This smoke impairs sight beyond 5 feet; any creature farther away gains concealment (20% miss
-chance). The cloud disperses after 1d4 rounds, or in 1 round in light
-wind.^[2](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-b)^\
+chance). The cloud disperses after 1d4 rounds, or in 1 round in light wind.\
 **Cost** 35 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
 
@@ -134,19 +134,6 @@ affected by the gas multiple times lengthens the duration of the sickened condit
 any creature that begins its turn in the area takes 1d6 points of fire damage. If your attack
 results in a misfire that causes your firearm to explode, the area of the cloud is instead centered
 on one corner of your square (your choice), with a radius equal to the firearm's misfire burst size.
-Firing this cartridge increases the firearm's misfire value by
-1.^[3](ref/eq-weapon/alchemical-cartridge-paper-bullet-or-pellet#footnote-c)^\
+Firing this cartridge increases the firearm's misfire value by 1.\
 **Cost** 100 gp **Weight** -\
 **Category** Ammunition; **Proficiency** Exotic
-
-###### ^1^ {#footnote-a}
-
-Ultimate Equipment pg. 41
-
-###### ^2^ {#footnote-b}
-
-Heroes of Golarion pg. 18
-
-###### ^3^ {#footnote-c}
-
-People of the Wastes pg. 15
