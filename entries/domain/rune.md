@@ -131,10 +131,10 @@ ends. This is a language-dependent effect.
 
 **Gained:** At 6th Level
 
-**Immediate:** When a creature is damaged by your _blast rune,_ you can cause it to be unable attack
-you for a number of rounds equal to 1/2 your cleric level unless it succeeds at a Will save, as per
-the spell [sanctuary](ref/spell/sanctuary). The ability does not prevent you from being attacked or
-affected by area of effect spells or abilities.
+**Immediate:** When a creature is damaged by your _blast rune,_ you can cause it to be unable to
+attack you for a number of rounds equal to 1/2 your cleric level unless it succeeds at a Will save,
+as per the spell [sanctuary](ref/spell/sanctuary). The ability does not prevent you from being
+attacked or affected by area of effect spells or abilities.
 
 **Replaces:** The spell rune power of the Rune domain
 

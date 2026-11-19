@@ -30,9 +30,9 @@ of the dead.
 
 **Bleeding Touch (Sp)**
 
-**Ability:** You can cause a living creature to take 1d6 points of damage per round. This effect
-persists for a number of rounds equal to 1/2 your cleric level (minimum 1) or until stopped with a
-DC 15 Heal check or any spell or effect that heals damage.
+**Ability:** As a melee touch attack, you can cause a living creature to take 1d6 points of damage
+per round. This effect persists for a number of rounds equal to 1/2 your cleric level (minimum 1) or
+until stopped with a DC 15 Heal check or any spell or effect that heals damage.
 
 **Usage:** 3 + Wisdom modifier times/day
 

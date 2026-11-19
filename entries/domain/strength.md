@@ -35,6 +35,8 @@ checks that rely on Strength, Strength-based skills, and Strength checks.
 
 **Might of the Gods (Su)**
 
+**Gained:** At 8th Level
+
 **Standard:** You can add your cleric level as an enhancement bonus to your Strength score. This
 bonus only applies on Strength checks and Strength-based skill checks.
 

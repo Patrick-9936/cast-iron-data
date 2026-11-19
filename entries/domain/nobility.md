@@ -101,11 +101,11 @@ save. The saving throw DC of the spell increases by 2, and you gain a +2 bonus o
 checks to overcome spell resistance with the spell. Any creature that succeeds at the saving throw
 instead avoids the effect entirely.
 
-**Swift:** If half or more of the targets are unaffected, you become [shaken](ref/misc/shaken) for a
-number of rounds equal to the spell's level. If all of the targets are unaffected, you instead lose
-the ability to cast divine spells, channel energy, and use domain powers for 1d4+1 rounds; you can
-end this loss by loudly apologizing to your patron deity as a full-round action that provokes
-attacks of opportunity.
+If half or more of the targets are unaffected, you become [shaken](ref/misc/shaken) for a number of
+rounds equal to the spell's level. If all of the targets are unaffected, you instead lose the
+ability to cast divine spells, channel energy, and use domain powers for 1d4+1 rounds; you can end
+this loss by loudly apologizing to your patron deity as a full-round action that provokes attacks of
+opportunity.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 6th
 

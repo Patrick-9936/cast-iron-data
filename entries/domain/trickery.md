@@ -30,6 +30,10 @@ group = "cleric-domain"
 
 **Granted Powers:** You are a master of illusions and deceptions.
 
+**Class Skills (Ex)**
+
+**Passive:** Bluff, Disguise, and Stealth are class skills.
+
 **Copycat (Sp)**
 
 **Move:** You can create an illusory double of yourself. This double functions as a single
@@ -45,8 +49,8 @@ a time. This ability does not stack with the _[mirror image](ref/spell/mirror-im
 
 **Standard:** You can create an illusion that hides the appearance of yourself and any number of
 allies within 30 feet for 1 round per cleric level. This ability otherwise functions like the spell
-[veil](ref/spell/veil). The save DC to disbelive this effect is equal to 10 + 1/2 your cleric
-level + your Wisdom modifier.
+[veil](ref/spell/veil). The save DC to disbelieve this effect is equal to 10 + 1/2 your cleric
+level + your Wisdom modifier. The rounds do not need to be consecutive.
 
 **Domain Spells**
 

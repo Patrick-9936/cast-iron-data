@@ -55,16 +55,6 @@ is inside the warded area.
 1. waves of exhaustion
 1. wail of the banshee
 
-### Pharasma-Friendly Repose Domain
-
-**Sources:** Paizo Blog - Golarion Day Subdomains
-
-This adjustment makes the Repose domain more in line with Pharasma's tenets.
-
-**Replacement Domain Spells**
-
-**3rd:** speak with dead
-
 ### Ancestors Subdomain
 
 **Sources:** Advanced Player's Guide pg 86
@@ -94,7 +84,7 @@ Will saving throw if your alignments are different.
 
 **Sources:** Champions of Balance pg 17
 
-**Associated Domains:** Death, Evil
+**Associated Domains:** Death, Repose
 
 **Associated Deities:** Pharasma
 
@@ -143,6 +133,16 @@ benefit lasts for a number of rounds equal to your cleric level.
 **6th:** antilife shell
 
 **9th:** trap the soul
+
+#### Pharasma-Friendly Souls Subdomain
+
+**Sources:** Paizo Blog - Golarion Day Subdomains
+
+This adjustment makes the Souls subdomain more in line with Pharasma's tenets.
+
+**Replacement Domain Spells**
+
+**3rd:** speak with dead
 
 ### Variant Domain Powers
 
