@@ -15,7 +15,7 @@ page = "130"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Improved Unarmed Strike, Gorgon's Fist, Scorpion Style, base attack bonus +11."
-prerequisite_feats = ["ref/feat/gorgons-fist"]
+prerequisite_feats = ["ref/feat/improved-unarmed-strike", "ref/feat/gorgons-fist", "ref/feat/scorpion-style"]
 benefit = "Whenever you use the full-attack action and make at least one unarmed strike, you can make two additional unarmed strikes at your highest base attack bonus. These bonus attacks must be made against a dazed, flat-footed, paralyzed, staggered, stunned, or unconscious foe."
 +++
 

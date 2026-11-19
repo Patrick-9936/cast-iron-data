@@ -14,6 +14,7 @@ page = "116"
 [fields]
 kind = "feat"
 prerequisites = "Cha 13, Persuasive."
+prerequisite_feats = ["ref/feat/persuasive"]
 benefit = "When using the Diplomacy skill to make a request or change a creature's attitude, you can use verbal misdirection. To do so, make a Bluff check against that creature. If you succeed, you gain a +4 bonus on your next Diplomacy check against that creature if the check is made within the next minute. If you fail by 5 or more, you instead take a -2 penalty on your next Diplomacy check against that creature."
 +++
 

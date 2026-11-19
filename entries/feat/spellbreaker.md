@@ -15,6 +15,7 @@ page = "134"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Disruptive, 10th-level fighter."
+prerequisite_feats = ["ref/feat/disruptive"]
 benefit = "Enemies in your threatened area that fail their checks to cast spells defensively provoke attacks of opportunity from you."
 normal = "Enemies that fail to cast spells defensively do not provoke attacks of opportunity."
 +++

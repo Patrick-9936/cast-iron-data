@@ -15,6 +15,7 @@ page = "128"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Str 13, Power Attack, base attack bonus +1."
+prerequisite_feats = ["ref/feat/power-attack"]
 benefit = "You do not provoke an attack of opportunity when performing a sunder combat maneuver. In addition, you receive a +2 bonus on checks made to sunder an item. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to sunder your gear."
 normal = "You provoke an attack of opportunity when performing a sunder combat maneuver."
 +++

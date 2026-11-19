@@ -15,6 +15,7 @@ page = "314"
 kind = "feat"
 feat_types = ["Combat", "Monster"]
 prerequisites = "Str 25, Power Attack, Improved Bull Rush, size Large or larger."
+prerequisite_feats = ["ref/feat/power-attack", "ref/feat/improved-bull-rush"]
 benefit = "As a standard action, the creature may perform an awesome blow combat maneuver. If the creature's maneuver succeeds against a corporeal opponent smaller than itself, its opponent takes damage (typically slam damage plus Strength bonus) and is knocked flying 10 feet in a direction of the attacking creature's choice and falls prone. The attacking creature can only push the opponent in a straight line, and the opponent can't move closer to the attacking creature than the square it started in. If an obstacle prevents the completion of the opponent's move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle."
 +++
 

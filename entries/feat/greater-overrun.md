@@ -15,6 +15,7 @@ page = "125"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Improved Overrun, Power Attack, base attack bonus +6, Str 13."
+prerequisite_feats = ["ref/feat/improved-overrun", "ref/feat/power-attack"]
 benefit = "You receive a +2 bonus on checks made to overrun a foe. This bonus stacks with the bonus granted by Improved Overrun. Whenever you overrun opponents, they provoke attacks of opportunity if they are knocked prone by your overrun."
 normal = "Creatures knocked prone by your overrun do not provoke an attack of opportunity."
 +++

@@ -15,7 +15,7 @@ page = "124"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Point-Blank Shot."
-prerequisite_feats = ["ref/feat/precise-shot"]
+prerequisite_feats = ["ref/feat/point-blank-shot"]
 benefit = "You only suffer a -1 penalty per full range increment between you and your target when using a ranged weapon."
 normal = "You suffer a -2 penalty per full range increment between you and your target."
 +++

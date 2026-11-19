@@ -14,6 +14,7 @@ page = "118"
 [fields]
 kind = "feat"
 prerequisites = "Spell Focus (conjuration)."
+prerequisite_feats = ["ref/feat/spell-focus"]
 benefit = "Each creature you conjure with any summon spell gains a +4 enhancement bonus to Strength and Constitution for the duration of the spell that summoned it."
 +++
 

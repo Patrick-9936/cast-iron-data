@@ -14,7 +14,8 @@ page = "131"
 [fields]
 kind = "feat"
 feat_types = ["Combat"]
-prerequisites = "Dex 19, Improved Precise Shot, Precise Shot, base attack bonus +16."
+prerequisites = "Dex 19, Improved Precise Shot, Point-Blank Shot, Precise Shot, base attack bonus +16."
+prerequisite_feats = ["ref/feat/improved-precise-shot", "ref/feat/point-blank-shot", "ref/feat/precise-shot"]
 benefit = "As a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round."
 +++
 
@@ -22,7 +23,8 @@ benefit = "As a standard action, make a single ranged attack. The target does no
 
 You can target the weak points in your opponent's armor.\
 **Prerequisites:** Dex 19, [Improved Precise Shot](ref/feat/improved-precise-shot),
-[Precise Shot](ref/feat/precise-shot), base attack bonus +16.\
+[Point-Blank Shot](ref/feat/point-blank-shot), [Precise Shot](ref/feat/precise-shot), base attack
+bonus +16.\
 **Benefit:** As a standard action, make a single ranged attack. The target does not gain any armor,
 natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you
 move this round.

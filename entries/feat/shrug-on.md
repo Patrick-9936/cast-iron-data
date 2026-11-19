@@ -22,7 +22,8 @@ benefit = "As a full-round action, you can shrug yourself into the largest and m
 ## Shrug On (Combat)
 
 You can throw on the most important element of your armor in a flash.\
-**Prerequisites:** Base attack bonus +1, medium armor proficiency.\
+**Prerequisites:** Base attack bonus +1,
+[medium armor proficiency](ref/feat/armor-proficiency-medium).\
 **Benefit:** As a full-round action, you can shrug yourself into the largest and most protective
 section of a suit of armor with which you are proficient. The armor does not grant any magical
 benefits in this state, and its armor check penalty and maximum Dexterity bonus to AC are both 2

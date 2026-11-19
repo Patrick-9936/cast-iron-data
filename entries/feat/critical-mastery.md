@@ -15,6 +15,7 @@ page = "120"
 kind = "feat"
 feat_types = ["Combat", "Critical"]
 prerequisites = "Critical Focus, any two critical feats, 14th-level fighter."
+prerequisite_feats = ["ref/feat/critical-focus"]
 benefit = "When you score a critical hit, you can apply the effects of two critical feats in addition to the damage dealt."
 normal = "You can only apply the effects of one critical feat to a given critical hit in addition to the damage dealt."
 +++

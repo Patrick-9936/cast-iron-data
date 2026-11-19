@@ -14,6 +14,7 @@ page = "103"
 [fields]
 kind = "feat"
 prerequisites = "Channel energy class feature, Channel Smite, proficiency with your deity's favored weapon."
+prerequisite_feats = ["ref/feat/channel-smite"]
 benefit = "With your deity's favored weapon, you can use your Wisdom modifier instead of your Strength or Dexterity modifier on attack rolls."
 +++
 

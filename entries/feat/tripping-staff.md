@@ -14,7 +14,8 @@ page = "158"
 [fields]
 kind = "feat"
 feat_types = ["Combat"]
-prerequisites = "Int 13, Combat Expertise, Improved Trip, base attack bonus +6."
+prerequisites = "Int 13, Combat Expertise, Improved Trip, Weapon Focus (quarterstaff), base attack bonus +6."
+prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/improved-trip", "ref/feat/weapon-focus"]
 benefit = "You treat quarterstaves as if they had the trip special feature."
 special = "If you are a magus with the staff magus archetype, you can use spellstrike on any trip combat maneuver you make with the staff."
 +++
@@ -23,7 +24,8 @@ special = "If you are a magus with the staff magus archetype, you can use spells
 
 You can make a trip attack with your quarterstaff.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
-[Improved Trip](ref/feat/improved-trip), base attack bonus +6.\
+[Improved Trip](ref/feat/improved-trip), [Weapon Focus](ref/feat/weapon-focus) (quarterstaff), base
+attack bonus +6.\
 **Benefit:** You treat [quarterstaves](ref/eq-weapon/quarterstaff) as if they had the
 [trip](ref/misc/trip) special feature.\
 **Special:** If you are a magus with the [staff magus](ref/arc-magus/staff-magus) archetype, you can

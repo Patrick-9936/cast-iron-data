@@ -15,6 +15,7 @@ page = "125"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Combat Expertise, Improved Feint, base attack bonus +6, Int 13."
+prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/improved-feint"]
 benefit = "Whenever you use feint to cause an opponent to lose his Dexterity bonus, he loses that bonus until the beginning of your next turn, in addition to losing his Dexterity bonus against your next attack."
 normal = "A creature you feint loses its Dexterity bonus against your next attack."
 +++

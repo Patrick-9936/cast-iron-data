@@ -15,6 +15,7 @@ page = "72"
 kind = "feat"
 feat_types = ["Story"]
 prerequisites = "You must have the Leadership feat and must lead at least 10 combat-capable followers (such as fighters or rangers)."
+prerequisite_feats = ["ref/feat/leadership"]
 benefit = "You can spend a move action to give battle orders to your troops, granting creatures under your command within 60 feet your choice of a +1 morale bonus on attack rolls, a +1 dodge bonus to AC, or a +1 bonus on a single type of saving throw. All creatures must receive the same benefit. You can't use this benefit on allies not under your command. This is a language-dependent, mind-affecting effect."
 +++
 

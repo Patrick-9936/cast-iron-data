@@ -14,6 +14,7 @@ page = "4"
 [fields]
 kind = "feat"
 prerequisites = "Cha 13, Noble Scion, Knowledge (nobility) 1 rank."
+prerequisite_feats = ["ref/feat/noble-scion"]
 benefit = "You gain an additional benefit based on the flavor of your noble family chosen with the Noble Scion feat."
 +++
 

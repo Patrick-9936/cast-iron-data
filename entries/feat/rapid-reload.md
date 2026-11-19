@@ -21,6 +21,7 @@ page = "132"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Weapon Proficiency (crossbow type chosen) or Exotic Weapon Proficiency (firearm)."
+prerequisite_feats = ["ref/feat/exotic-weapon-proficiency"]
 benefit = "The time required for you to reload your chosen type of weapon is reduced to a free action (for a hand or light crossbow), a move action (for heavy crossbow or one-handed firearm), or a standard action (two-handed firearm). Reloading a crossbow or firearm still provokes attacks of opportunity."
 normal = "A character without this feat needs a move action to reload a hand or light crossbow, a standard action to reload a one-handed firearm, or a full-round action to load a heavy crossbow or a two-handed firearm."
 special = "You can gain Rapid Reload multiple times. Each time you take the feat, it applies to a new type of crossbow or a new type of firearm."

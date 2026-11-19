@@ -15,6 +15,7 @@ page = "130"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Dex 13, Dodge."
+prerequisite_feats = ["ref/feat/dodge"]
 benefit = "You get a +4 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a threatened area. A condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses."
 +++
 
