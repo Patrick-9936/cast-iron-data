@@ -55529,6 +55529,58 @@ reason = "duplicate of ref/race/halfling; the record prints the later printing's
 path = "ref/carried/core-rulebook/races/humans"
 reason = "duplicate of ref/race/human; the record prints the later printing's prose for the same topics, and the chapter's sentence about Common is merged into its Names paragraph"
 
+[[rejected]]
+path = "json/class_ability_domains.json#alchemy"
+reason = "stays out as its own entry: the Alchemy subdomain is a section of the domain entries Artifice and Magic (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains.json#azata"
+reason = "stays out as its own entry: the Azata subdomain is a section of the domain entries Chaos and Good (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains.json#demodand"
+reason = "stays out as its own entry: the Demodand subdomain is a section of the domain entries Chaos and Evil (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains.json#education"
+reason = "stays out as its own entry: the Education subdomain is a section of the domain entries Community and Knowledge (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains.json#plague"
+reason = "stays out as its own entry: the Plague subdomain is a section of the domain entries Death and Evil (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains.json#psychopomp"
+reason = "stays out as its own entry: the Psychopomp subdomain is a section of the domain entries Death and Repose (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains.json#shadow"
+reason = "stays out as its own entry: the Shadow subdomain is a section of the domain entries Darkness and Death (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains2.json#legislation"
+reason = "stays out as its own entry: the Legislation subdomain is a section of the domain entries Law and Rune (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains2.json#self_realization"
+reason = "stays out as its own entry: the Self-Realization subdomain is a section of the domain entries Liberation and Strength (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains3.json#archon"
+reason = "stays out as its own entry: the Archon subdomain is a section of the domain entries Good and Law (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains3.json#devil"
+reason = "stays out as its own entry: the Devil subdomain is a section of the domain entries Evil and Law (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains3.json#espionage"
+reason = "stays out as its own entry: the Espionage subdomain is a section of the domain entries Knowledge and Trickery (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
+[[rejected]]
+path = "json/class_ability_domains3.json#hubris"
+reason = "stays out as its own entry: the Hubris subdomain is a section of the domain entries Glory and Nobility (ref/domain), where it ships with its replacement powers and spells. Its record here holds only a pointer to those domains. Refs phynics/cast-iron-data#103."
+
 [[resolved]]
 path = "json/prestige_classes.json#thought_thief_arcane_trickster"
 entries = ["ref/pclass/thought-thief-arcane-trickster"]
