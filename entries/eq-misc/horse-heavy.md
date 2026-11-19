@@ -64,8 +64,6 @@ grants an additional boon to the mount or its rider. The trait granted to a moun
 character's total maximum number of traits. If a knight replaces his mount, he effectively loses the
 old trait and gains the new mount's trait.
 
-These specific breeds do not have published prices. Consult your GM if you wish to buy one.
-
 **Chiardmar:** Wild horses found only in the hilly countryside of northern Nidal, chiardmars are
 renowned for their speed and grace, and are particularly prized by Nidalese couriers and traveling
 agents of the Umbral Court. **Associated Trait:** [Fleet of foot](ref/trait/fleet-of-foot).
@@ -91,8 +89,3 @@ into battle and are remarkably intelligent to boot. **Associated Trait:**
 **Chernasardo Riding Elk:** Native to the southwestern corner of the Fangwood in Nirmathas,
 Chernasardo riding elk are prized by the rangers who reside in that region. **Associated Trait:**
 [Stalwart Elk](ref/trait/stalwart-elk).
-
-Chernasardo Riding Elk use the stats of [river elk](ref/monster/herd-animal-elk) and do not have
-published prices, nor any published confirmation of whether it uses the Large or Medium version of
-the elk. They have been placed in the "horse" entry because of their similar nature. Consult your GM
-if you wish to buy one.

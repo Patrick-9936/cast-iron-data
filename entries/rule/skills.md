@@ -34,11 +34,7 @@ if you have ranks in them.
 
 |Class|Skill Ranks per Level|
 | --- | --- |
-|Antipaladin, Arcanist, Brawler, Cleric, Fighter, Magus, Paladin, Psychic, Sorcerer, Summoner^[1](ref/rule/skills#footnote-u)^, Warpriest, Witch, Wizard|2 + Int modifier|
-|Alchemist, Barbarian^[1](ref/rule/skills#footnote-u)^, Bloodrager, Cavalier, Druid, Gunslinger, Kineticist, Medium, Monk^[1](ref/rule/skills#footnote-u)^, Oracle, Occultist, Samurai, Shaman, Shifter, Skald, Spiritualist, Swashbuckler|4 + Int modifier|
+|Antipaladin, Arcanist, Brawler, Cleric, Fighter, Magus, Paladin, Psychic, Sorcerer, Summoner, Warpriest, Witch, Wizard|2 + Int modifier|
+|Alchemist, Barbarian, Bloodrager, Cavalier, Druid, Gunslinger, Kineticist, Medium, Monk, Oracle, Occultist, Samurai, Shaman, Shifter, Skald, Spiritualist, Swashbuckler|4 + Int modifier|
 |Bard, Hunter, Inquisitor, Mesmerist, Ranger, Slayer, Vigilante|6 + Int modifier|
-|Ninja, Rogue^[1](ref/rule/skills#footnote-u)^|8 + Int modifier|
-
-###### ^1^ {#footnote-u}
-
-The Unchained version of this class has the same skill points.
+|Ninja, Rogue|8 + Int modifier|

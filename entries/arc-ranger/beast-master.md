@@ -32,7 +32,7 @@ following class features.
 **Animal Companion (Ex)**
 
 **Ability:** A beast master forms a close bond with an
-[animal companion](ref/sidekick/animal-companion).^1^ This ability functions like the druid animal
+[animal companion](ref/sidekick/animal-companion). This ability functions like the druid animal
 companion ability except that the ranger's effective druid level is equal to his ranger level - 3.
 The ranger gains a +2 bonus on _wild empathy_ and Handle Animal checks made regarding his animal
 companion. Unlike a normal ranger, a beast master's choice of animal companion is not limited to a
@@ -80,6 +80,3 @@ these additional levels to his companions as he sees fit.
 **Gained:** At 12th Level
 
 **Replaces:** Camouflage
-
-^1^ The text does not specify when these abilities are granted. The listed levels are an educated
-guess, equal to the same level of the features they are replacing.

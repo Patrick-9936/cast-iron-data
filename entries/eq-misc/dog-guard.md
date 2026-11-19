@@ -56,8 +56,6 @@ grants an additional boon to the mount or its rider. The trait granted to a moun
 character's total maximum number of traits. If a knight replaces his mount, he effectively loses the
 old trait and gains the new mount's trait.
 
-These specific breeds do not have published prices. Consult your GM if you wish to buy one.
-
 **Erutaki Husky:** Typically used by natives of the Crown of the World to pull dog sleds across the
 arctic tundra, Erutaki huskies can also serve as mounts for smaller riders. **Associated Trait:**
 [Weather-Beaten](ref/trait/weather-beaten).

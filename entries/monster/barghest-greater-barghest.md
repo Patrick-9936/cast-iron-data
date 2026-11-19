@@ -84,11 +84,6 @@ hands than a wolf's paws._
 - 1/day: charm monster (DC 18), crushing despair (DC 18), dimension door, mass bull's strength, mass
   enlarge\#X
 
-###### X {#footnote-x}
-
-No such spell exists. Note that [mass enlarge person](ref/spell/enlarge-person-mass) would not work
-on an outsider, but it could be used on a greater barghest's goblinoid minions.
-
 **Statistics**
 
 **Ability scores:** Str 23, Dex 15, Con 19, Int 18, Wis 18, Cha 18

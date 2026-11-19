@@ -147,11 +147,6 @@ Attack, Visceral Threat, Weapon Focus (falchion)
 **Other gear:** +2 full plate, +2 falchion, 2 mwk javelins, Iamu1, I-boots of striding and
 springing, Iclk1, ring of prot1, 973 gp
 
-###### X {#footnote-x}
-
-No such feat exists. Could possibly be [Staggering Blow](ref/feat/staggering-blow), which was
-introduced in the same sourcebook.
-
 **Ecology**
 
 **Environment:** temperate mountains

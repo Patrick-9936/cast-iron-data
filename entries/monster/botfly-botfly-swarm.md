@@ -83,11 +83,6 @@ low, droning buzz of thousands of tiny flies._
 
 **Spec Att:** infestation, suffocation\#S
 
-###### S {#footnote-s}
-
-No description of the _[suffocation](ref/spell/suffocation)_ attack was published, and it does not
-match any known swarm trait or universal monster ability.
-
 **Statistics**
 
 **Ability scores:** Str 2, Dex 11, Con 10, Int -, Wis 11, Cha 2

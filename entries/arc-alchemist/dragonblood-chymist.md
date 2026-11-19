@@ -77,7 +77,3 @@ sleep effects.
 **At 6th Level:** This bonus increases to +4.
 
 **Replaces:** Poison resistance, poison use, swift poisoning
-
-> _There is no errata for this archetype. As a recommendation, you may want to follow the_ poison
-> resistance _progression and give the +4 bonus at 5th level, the +6 bonus at 8th level, and
-> immunity at 10th level. Consult your GM._

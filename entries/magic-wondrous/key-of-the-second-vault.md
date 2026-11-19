@@ -34,9 +34,9 @@ upon herself (though if the wearer is chaotic it provides only a +1 deflection b
 If [Abadar](ref/faith/abadar) is the bearer's patron, the key counts as a holy symbol. Once per day,
 the bearer can speak a command word and summon a two-headed [eagle](ref/monster/eagle) as if using
 _[summon monster II](ref/spell/summon-monster-2)_ (the eagle's extra head does not grant it an extra
-attack).^[1](ref/magic-wondrous/key-of-the-second-vault#footnote-e)^ This eagle obeys the bearer's
-commands as if they shared a common language. While the key is worn as a pendant or held in hand,
-the bearer gains a +2 bonus on [Appraise](ref/skill/appraise) checks to assess an object's value.
+attack). This eagle obeys the bearer's commands as if they shared a common language. While the key
+is worn as a pendant or held in hand, the bearer gains a +2 bonus on [Appraise](ref/skill/appraise)
+checks to assess an object's value.
 
 ### Construction
 
@@ -44,9 +44,3 @@ the bearer gains a +2 bonus on [Appraise](ref/skill/appraise) checks to assess a
 [fox's cunning](ref/spell/foxs-cunning), [shield of faith](ref/spell/shield-of-faith),
 [summon monster II](ref/spell/summon-monster-2), creator must have 5 ranks in Appraise; **Cost**
 1,500 gp
-
-###### ^1^ {#footnote-e}
-
-Per Pathfinder \#8: Seven Days to the Grave pg. 67, two-headed eagles summoned by a worshipper of
-Abadar are LN, gain the [celestial](ref/template/celestial) template, and have a +2 racial bonus to
-[Perception](ref/skill/perception). Consult your GM.

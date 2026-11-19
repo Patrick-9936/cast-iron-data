@@ -51,9 +51,6 @@ a dark reddish-brown smear. The rest of the pages are blank._
   [protection from chaos](ref/spell/protection-from-chaos),
   [unseen servant](ref/spell/unseen-servant)
 
-_Note:_ The original text also contains a 1st-level spell named "hush", but the spell was not
-included in the source book.
-
 #### Ritual
 
 **Defensive Transmutation (Su)** When taking another shape, you can increase your defenses. Spend

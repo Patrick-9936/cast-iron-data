@@ -199,7 +199,7 @@ that makes up parts of an earth elemental's body.
 
 **Skills:** Appraise +1, Climb +10, Knowledge (dungeoneering) +2, Perception +7, Stealth +3
 
-###### B {#footnote-b}
+###### B {#footnote-b-2}
 
 Bonus feat.
 
@@ -270,7 +270,7 @@ Bonus feat.
 
 **Skills:** Appraise +6, Climb +15, Knowledge (dungeoneering) +3, Perception +11, Stealth +5
 
-###### B {#footnote-b}
+###### B {#footnote-b-3}
 
 Bonus feat.
 
@@ -342,7 +342,7 @@ Attack
 
 **Skills:** Appraise +6, Climb +18, Knowledge (dungeoneering) +4, Perception +13, Stealth +4
 
-###### B {#footnote-b}
+###### B {#footnote-b-4}
 
 Bonus feat.
 
@@ -414,7 +414,7 @@ Overrun, Improved Sunder, Power Attack
 
 **Skills:** Appraise +10, Climb +25, Knowledge (dungeoneering) +10, Perception +16, Stealth +7
 
-###### B {#footnote-b}
+###### B {#footnote-b-5}
 
 Bonus feat.
 
@@ -486,6 +486,6 @@ Critical (slam), Improved Overrun, Improved Sunder, Power Attack
 
 **Skills:** Appraise +19, Climb +31, Knowledge (dungeoneering) +19, Perception +19, Stealth +10
 
-###### B {#footnote-b}
+###### B {#footnote-b-6}
 
 Bonus feat.

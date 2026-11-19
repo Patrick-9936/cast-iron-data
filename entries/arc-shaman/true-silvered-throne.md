@@ -80,7 +80,7 @@ spells to those he can cast using his _spirit magic._ The silvered throne can ma
 
 **Ability:** A true silvered throne gains a +1 insight bonus on skill checks attempted as part of an
 [occult ritual](ref/rule/occult-rituals). This bonus increases by 1 for every 4 shaman levels beyond
-8th (to a maximum of +5 at 20th level).^1^
+8th (to a maximum of +5 at 20th level).
 
 **Gained:** At 8th Level
 
@@ -88,7 +88,3 @@ spells to those he can cast using his _spirit magic._ The silvered throne can ma
 
 **Special:** If the true silvered throne is the ritual's primary caster, he also adds this bonus to
 the caster level of the ritual's effect.
-
-^1^ This math doesn't add up. Following the written rules, you would only get a +4 bonus at 20th
-level. This only makes sense if the starting bonus is +2. Consult your GM if you wish to interpret
-the ability this way.

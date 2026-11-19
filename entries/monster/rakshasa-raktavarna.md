@@ -117,10 +117,6 @@ _[comprehend languages](ref/spell/comprehend-languages)_
 
 **Special qualities:** [change shape](ref/umr/change-shape) (Tiny living object)\#C, master's eyes
 
-###### C {#footnote-c}
-
-No spell equivalent was provided.
-
 **Ecology**
 
 **Environment:** any

@@ -90,9 +90,6 @@ list of names, each crossed out._
   [ray of enfeeblement](ref/spell/ray-of-enfeeblement), [shield](ref/spell/shield),
   [unseen servant](ref/spell/unseen-servant)^[2](ref/eq-spellbook/mastery-of-word-and-thought#footnote-op)^
 
-_Note:_ The original text also contains a 3rd-level enchantment spell named "symbol of peace", but
-the spell was not included in the source book.
-
 #### Ritual
 
 **Curse of Names (Su)** When you are finished preparing your spells with this book, write the proper

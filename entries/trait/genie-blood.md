@@ -21,8 +21,5 @@ category = "Race"
 
 **Benefit:** Select an element (air, earth, fire, or water). You gain a +1 trait bonus on saving
 throws against attacks that utilize that element (cold for air, acid for earth, fire for fire, and
-electricity for water),† and gain a +1 trait bonus on Bluff, Diplomacy, Intimidate, and Sense Motive
+electricity for water), and gain a +1 trait bonus on Bluff, Diplomacy, Intimidate, and Sense Motive
 checks made against creatures of that subtype.
-
-> † This is different from the usual associations, where cold is water and electricity is air.
-> Consult your GM if you want to use the normal associations.

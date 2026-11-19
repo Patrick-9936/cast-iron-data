@@ -127,10 +127,6 @@ Iron Will, Lookout, Outflank, Point-Blank Shot, Rapid Shot, Swap Places, Vital S
 **Special qualities:** [change shape](ref/umr/change-shape) (owl or mouse)\#C, martyr's blood,
 tactician
 
-###### C {#footnote-c}
-
-No spell equivalent was provided.
-
 **Ecology**
 
 **Environment:** any land ([Elysium](ref/rule/elysium))

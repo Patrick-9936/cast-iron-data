@@ -51058,6 +51058,721 @@ path = "json/monsters02.json#animated_object"
 records = 0
 reason = "4 page-citation footnotes not converted to a source row (#112): Pathfinder #30: The Twice-Damned Prince p. 68 (the book was not available for a print check); Pathfinder #30: The Twice-Damned Prince p. 69 (the book was not available for a print check); Pathfinder #43: Haunting of Harrowstone p. 80 (the book was not available for a print check); Pathfinder #43: Haunting of Harrowstone p. 81 (the book was not available for a print check). The footnote is removed; no record is left out."
 
+[[excluded]]
+path = "json/archetypes_alchemist.json#dragonblood_chymist"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/arc-alchemist/dragonblood-chymist, line 58. Text: "> _There is no errata for this archetype. As a recommendation, you may want to follow the_ poison > ". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_cavalier.json#standard_bearer"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-cavalier/standard-bearer, line 97. Text: "^1^ *Chronicle of Legends* introduced new standards for the *banner* ability, and stated that a stan". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_druid.json#ashvawg_tamer"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/arc-druid/ashvawg-tamer, line 79. Text: "> _**Note:** This "alternate class" was created before the concept of archetypes was finalized by > ". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_druid2.json#rot_warden"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/arc-druid/rot-warden, line 94. Text: "^No such spell was ever published. A similar spell could be made based on beast shape III^(spell/bea". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_fighter.json#dragonheir_scion"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-fighter/dragonheir-scion, line 120. Text: "^1^ The original text says that *Draconic Strike* is a 3rd-level ability that replaces your 3rd-leve". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_hunter.json#aquatic_beastmaster"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/arc-hunter/aquatic-beastmaster, line 112. Text: "^The crab and octopus foci grant the exact same bonuses. There has been no errata addressing this. I". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_kineticist.json#elemental_annihilator"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-kineticist/elemental-annihilator, line 122. Text: "^1^ This archetype was published before the void and wood elements were created. consult your GM if ". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_kineticist.json#terrakineticist"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-kineticist/terrakineticist, line 86. Text: "^1^ This archetype was introduced before the *void* element was created. Consult your GM if you wish". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_mesmerist.json#vox"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-mesmerist/vox, line 78. Text: "^1^ It is unclear if this refers to only the 10th-level ability (greater), and/or if it affects the ". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_monk.json#karmic_monk"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-monk/karmic-monk, line 97. Text: "^1^ The original source book presents this as replacing the *slow fall* increase at 19th level, but ". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_monk2.json#qinggong_monk"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: print-match. Entry ref/arc-monk/qinggong-monk, marker 3, anchor footnote-k. Text: "If the monk has 0 ki points after activating this ki power, the rock created does not count as a _ki". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_occultist.json#geomancer"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-occultist/geomancer, line 232. Text: "^1^ The original source material lists both abilities as being 5th-level. It does not list how long ". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_oracle.json#possessed_oracle"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-oracle/possessed-oracle, line 44. Text: "^1^ No mysteries give spells at 1st level. This is likely supposed to be 2nd level, but no errata wa". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_paladin.json#knight_of_coins"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-paladin/knight-of-coins, line 110. Text: "^1^ The blessings were unnamed in the original text. They have been given names here for clarity.". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_ranger.json#beast_master"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-ranger/beast-master, line 63. Text: "^1^ The text does not specify when these abilities are granted. The listed levels are an educated gu". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_ranger.json#infiltrator"
+records = 0
+reason = """1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/arc-ranger/infiltrator, line 148. Text: "^"Goblin fast" is not listed anywhere. It likely refers to a [goblin's^(monster/goblin) base speed o". No record is left out."""
+
+[[excluded]]
+path = "json/archetypes_ranger.json#nirmathi_irregular"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-ranger/nirmathi-irregular, line 76. Text: "^1^ There is no listed minimum, so the Nirmathi irregular starts out with a +0 bonus at 1st level.". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_ranger.json#transporter"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-ranger/transporter, line 65. Text: "^1^ There is no listed level at which this ability is granted. Given that it replaces a 7th-level ab". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_ranger.json#wild_stalker"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-ranger/wild-stalker, line 85. Text: "^1^ The original text reads: *"This bonus increases by +1 for every four levels after 1st."* This im". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_ranger.json#wild_stalker"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-ranger/wild-stalker, line 90. Text: "^2^ The original text reads: *"The wild stalker can gain one of these two benefits again every five ". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_rogue.json#cat_burglar"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/arc-rogue/cat-burglar, line 43. Text: "^The original text also recommended _convincing fakes_ and _dodge trap._ However, these talents do n". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_rogue.json#needler"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/arc-rogue/needler, line 52. Text: "^The only ability named "swift poisoning" is the alchemist^(class/alchemist) class feature. There is". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_shaman.json#primal_warden"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-shaman/primal-warden, line 89. Text: "^1^ As a suggestion: **2nd level:** Roll a d8, rerolling any 8s. Subtract 1 from that number, then m". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_shaman.json#true_silvered_throne"
+records = 0
+reason = """1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-shaman/true-silvered-throne, line 71. Text: "^1^ This math doesn't add up. Following the written rules, you would only get a +4 bonus at 20th lev". No record is left out."""
+
+[[excluded]]
+path = "json/archetypes_slayer.json#covenbane"
+records = 0
+reason = """1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/arc-slayer/covenbane, line 66. Text: "^1^ It's not explicitly stated, but since this replaces Stalker and is listed between a 2nd-level an". No record is left out."""
+
+[[excluded]]
+path = "json/archetypes_slayer.json#pureblade"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/arc-slayer/pureblade, line 68. Text: "^This archetype was published before the spell detect aberration^(spell/detect_aberration) was creat". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_summoner_UC.json#fey_caller"
+records = 0
+reason = """1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/arc-unchained-summoner/fey-caller, line 83. Text: "^There is no such unchained evolution. Consider using the original summoner's [low-light vision^(evo". No record is left out."""
+
+[[excluded]]
+path = "json/archetypes_vigilante.json#anaphexia_thought_killer"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/arc-vigilante/anaphexia-thought-killer, line 2. Text: "**NOTE:** The levels given for social and vigilante talents are incorrect, saying the abilities repl". No record is left out.'
+
+[[excluded]]
+path = "json/classes7.json#unchained_barbarian"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/class/unchained-barbarian, line 252. Text: "The barbarian archetypes below DO NOT modify or replace _rage, greater rage_ or _mighty rage,_ and s". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc4.json#dog_guard"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/dog-guard, line 29. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc4.json#dog_lap"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/dog-lap, line 29. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc4.json#dog_riding"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/dog-riding, line 29. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#horse_heavy"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/horse-heavy, line 40. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#horse_heavy"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/horse-heavy, line 68. Text: "Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#horse_heavy_combat_trained"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/horse-heavy-combat-trained, line 40. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#horse_heavy_combat_trained"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/horse-heavy-combat-trained, line 68. Text: "Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#horse_light"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/horse-light, line 40. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#horse_light"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/horse-light, line 68. Text: "Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#horse_pony"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/horse-pony, line 40. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#horse_pony"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/horse-pony, line 68. Text: "Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#light_horse_combat_trained"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/light-horse-combat-trained, line 40. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#light_horse_combat_trained"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/light-horse-combat-trained, line 68. Text: "Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#pony_combat_trained"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/pony-combat-trained, line 40. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#pony_combat_trained"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-misc/pony-combat-trained, line 68. Text: "Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_alchemical_reagents.json#dragons_gut"
+records = 0
+reason = """1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-reagent/dragons-gut, line 26. Text: "> _Note: The original source doesn't state whether the spells use it as a material or focus cost. > ". No record is left out."""
+
+[[excluded]]
+path = "json/equipment_alchemical_reagents.json#odor_stalk"
+records = 0
+reason = """1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-reagent/odor-stalk, line 27. Text: "> _Note: The original source doesn't state whether the spells use it as a material or focus cost. > ". No record is left out."""
+
+[[excluded]]
+path = "json/equipment_spellbooks.json#book_of_the_grave"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-spellbook/book-of-the-grave, line 31. Text: "_Note:_ The original text also contains a 3rd-level spell named "vitriol", but the spell was not inc". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_spellbooks.json#grimoire_of_glittering_eyes"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-spellbook/grimoire-of-glittering-eyes, line 31. Text: "_Note:_ The original text also contains a 3rd-level spell named "madness", but the spell was not inc". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_spellbooks.json#insights_of_far_seeing_taernis"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-spellbook/insights-of-far-seeing-taernis, line 47. Text: "_Note:_ The original text also contains a 2nd-level spell "fantastical reach" and a 2nd-level conjur". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_spellbooks.json#library_of_the_dancer_of_skins"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-spellbook/library-of-the-dancer-of-skins, line 47. Text: "_Note:_ The original text also contains a 3rd-level spell named "lightwall", a 5th-level spell named". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_spellbooks.json#manuscript_of_jack_were_son"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-spellbook/manuscript-of-jack-were-son, line 33. Text: "_Note:_ The original text also contains a 2nd-level conjuration spell named "metabolize", but the sp". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_spellbooks.json#master_books_of_rul_thaven"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-spellbook/master-books-of-rul-thaven, line 67. Text: "_Note:_ The original text also contains a 3rd-level divination spell named "seek senses", but the sp". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_spellbooks.json#mastery_of_word_and_thought"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-spellbook/mastery-of-word-and-thought, line 77. Text: "_Note:_ The original text also contains a 3rd-level enchantment spell named "symbol of peace", but t". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_spellbooks.json#tome_of_the_transmuter"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/eq-spellbook/tome-of-the-transmuter, line 38. Text: "_Note:_ The original text also contains a 1st-level spell named "hush", but the spell was not includ". No record is left out.'
+
+[[excluded]]
+path = "json/faiths.json#apsu"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: unclear. Entry ref/faith/apsu, marker 1, anchor footnote-r. Text: "All dragons on live in fear of her and refuse to even speak her name.". No record is left out.'
+
+[[excluded]]
+path = "json/faiths4.json#grandmother_spider"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/faith/grandmother-spider, marker 1, anchor footnote-a. Text: "Anadi are spider-people fully introduced in Pathfinder 2nd Edition. There are no 1st-edition statist". No record is left out.'
+
+[[excluded]]
+path = "json/faiths4.json#groetus"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paraphrase. Entry ref/faith/groetus, marker 2, anchor footnote-m. Text: "Only clerics with the Madness or Void domain can do this.". No record is left out.'
+
+[[excluded]]
+path = "json/faiths9.json#valmallos"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/faith/valmallos, marker 1, anchor footnote-v. Text: "This text is verbatim from the source material. Consult your GM if you need guidance.". No record is left out.'
+
+[[excluded]]
+path = "json/monster_families.json#dragon_primal_crystal"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/family/dragon-primal-crystal, marker 1, anchor footnote-1. Text: "This should probably be (Ex), but no erratta supports this idea.". No record is left out.'
+
+[[excluded]]
+path = "json/monster_families.json#dragon_primal_crystal"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/family/dragon-primal-crystal, marker 2, anchor footnote-2. Text: "The printed table indicates this happens at Young instead of Juvenile, and the _young crystal dragon". No record is left out.'
+
+[[excluded]]
+path = "json/monster_families2.json#kaiju"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/family/kaiju, marker 1, anchor footnote-1. Text: "These were listed as rumors in the original source, but have later have stats published.". No record is left out.'
+
+[[excluded]]
+path = "json/feat03.json#conceal_scent"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/feat/conceal-scent, marker 1, anchor footnote-p. Text: "This source was printed for 3.5; Pathfinder Society play reduced the skill rank prerequisites by 3. ". No record is left out.'
+
+[[excluded]]
+path = "json/feat08.json#heightened_trap_sense"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/feat/heightened-trap-sense, marker 1, anchor footnote-p. Text: "This source was printed for 3.5; Pathfinder Society play reduced the skill rank prerequisites by 3. ". No record is left out.'
+
+[[excluded]]
+path = "json/feat08.json#improved_day_job"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/feat/improved-day-job, marker 1, anchor footnote-x. Text: "Not included in this app. The Day Job appears in version 1.1 of that document, but not all versions.". No record is left out.'
+
+[[excluded]]
+path = "json/feat13.json#religious_pilgrim"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/feat/religious-pilgrim, marker 1, anchor footnote-p. Text: "This source was printed for 3.5; Pathfinder Society play reduced the skill rank prerequisites by 3. ". No record is left out.'
+
+[[excluded]]
+path = "json/haunts.json#breach_to_the_quickening"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/haunt/breach-to-the-quickening, marker 1, anchor footnote-m. Text: "No mutation mentioning "radiation affinity" exists in that template.". No record is left out.'
+
+[[excluded]]
+path = "json/magic_artifact.json#magi_staff_of_the_deep_black"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-artifact/magi-staff-of-the-deep-black, marker 1, anchor footnote-p. Text: "The original source lists this as replacing _passwall,_ which is a 1-charge ability and was already ". No record is left out.'
+
+[[excluded]]
+path = "json/magic_artifact3.json#zellaras_harrow_deck"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-artifact/zellaras-harrow-deck, marker 1, anchor footnote-h. Text: "This is a special mechanic in the Curse of the Crimson Throne adventure path.". No record is left out.'
+
+[[excluded]]
+path = "json/magic_rod.json#coldwarp_key"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-rod/coldwarp-key, marker 1, anchor footnote-c. Text: "Coldwarping is a Drow magical tradition that forges metal without need of fire.". No record is left out.'
+
+[[excluded]]
+path = "json/magic_staff.json#zenj_totem_staff"
+records = 0
+reason = """1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-staff/zenj-totem-staff, marker 1, anchor footnote-n. Text: "The original source lists _summon nature's ally I_ and _II_ as requirements, which feels like an err". No record is left out."""
+
+[[excluded]]
+path = "json/magic_wondrous_slotless03.json#grave_salt"
+records = 0
+reason = """1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/grave-salt, marker 1, anchor footnote-m. Text: "This may seem mathematically sketchy, but it's actually true. The perimeter (length) of a 5-foot rad". No record is left out."""
+
+[[excluded]]
+path = "json/magic_wondrous_neck.json#key_of_the_second_vault"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/key-of-the-second-vault, marker 1, anchor footnote-e. Text: "Per Pathfinder #8: Seven Days to the Grave pg. 67, two-headed eagles summoned by a worshipper of Aba". No record is left out.'
+
+[[excluded]]
+path = "json/magic_wondrous_belt_body_chest.json#robe_of_bones"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/robe-of-bones, marker 1, anchor footnote-t. Text: "No such zombie (or human) type exists. According to someone at Paizo, this should just be the defaul". No record is left out.'
+
+[[excluded]]
+path = "json/magic_wondrous_slotless05.json#shoanti_war_paint_black"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/shoanti-war-paint-black, marker 1, anchor footnote-s. Text: "There are no official sources as to which school auras each color has. As a non-official suggestion ". No record is left out.'
+
+[[excluded]]
+path = "json/magic_wondrous_slotless05.json#shoanti_war_paint_blue"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/shoanti-war-paint-blue, marker 1, anchor footnote-s. Text: "There are no official sources as to which school auras each color has. As a non-official suggestion ". No record is left out.'
+
+[[excluded]]
+path = "json/magic_wondrous_slotless05.json#shoanti_war_paint_green"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/shoanti-war-paint-green, marker 1, anchor footnote-s. Text: "There are no official sources as to which school auras each color has. As a non-official suggestion ". No record is left out.'
+
+[[excluded]]
+path = "json/magic_wondrous_slotless05.json#shoanti_war_paint_orange"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/shoanti-war-paint-orange, marker 1, anchor footnote-s. Text: "There are no official sources as to which school auras each color has. As a non-official suggestion ". No record is left out.'
+
+[[excluded]]
+path = "json/magic_wondrous_slotless05.json#shoanti_war_paint_red"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/shoanti-war-paint-red, marker 1, anchor footnote-s. Text: "There are no official sources as to which school auras each color has. As a non-official suggestion ". No record is left out.'
+
+[[excluded]]
+path = "json/magic_wondrous_slotless05.json#shoanti_war_paint_silver"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/shoanti-war-paint-silver, marker 1, anchor footnote-s. Text: "There are no official sources as to which school auras each color has. As a non-official suggestion ". No record is left out.'
+
+[[excluded]]
+path = "json/magic_wondrous_slotless05.json#shoanti_war_paint_white"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/shoanti-war-paint-white, marker 1, anchor footnote-s. Text: "There are no official sources as to which school auras each color has. As a non-official suggestion ". No record is left out.'
+
+[[excluded]]
+path = "json/magic_wondrous_slotless05.json#shoanti_war_paint_yellow"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/shoanti-war-paint-yellow, marker 1, anchor footnote-s. Text: "There are no official sources as to which school auras each color has. As a non-official suggestion ". No record is left out.'
+
+[[excluded]]
+path = "json/magic_wondrous_slotless06.json#witching_doll"
+records = 0
+reason = """1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/magic-wondrous/witching-doll, marker 1, anchor footnote-s. Text: "No such hex has been published. It's possible this could refer to the scar hex, or the spell scare. ". No record is left out."""
+
+[[excluded]]
+path = "json/monsters01.json#agathion_muldnal"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/agathion-muldnal, marker 1, anchor footnote-e. Text: "The stat block does not include the earth glide ability.". No record is left out.'
+
+[[excluded]]
+path = "json/monsters03.json#barghest_greater_barghest"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/barghest-greater-barghest, marker X, anchor footnote-x. Text: "No such spell exists. Note that mass enlarge person would not work on an outsider, but it could be u". No record is left out.'
+
+[[excluded]]
+path = "json/monsters04.json#botfly_botfly_swarm"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/botfly-botfly-swarm, marker S, anchor footnote-s. Text: "No description of the _suffocation_ attack was published, and it does not match any known swarm trai". No record is left out.'
+
+[[excluded]]
+path = "json/monsters04.json#bugbear_bugbear_tyrant"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/bugbear-bugbear-tyrant, marker X, anchor footnote-x. Text: "No such feat exists. Could possibly be Staggering Blow, which was introduced in the same sourcebook.". No record is left out.'
+
+[[excluded]]
+path = "json/monsters_unique.json#courage_heart"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/courage-heart, marker C, anchor footnote-c. Text: "No spell equivalent was provided.". No record is left out.'
+
+[[excluded]]
+path = "json/monsters07.json#devil_nemesis_devil_advodaza"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/devil-nemesis-devil-advodaza, marker N, anchor footnote-n. Text: "The original source lists these attacks as hooves instead of slams, and tail instead of tail slap. I". No record is left out.'
+
+[[excluded]]
+path = "json/monsters07.json#devil_possession_devil_greater_gidim"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: unclear. Entry ref/monster/devil-possession-devil-greater-gidim, marker D, anchor footnote-d. Text: "Dread spell (see Dread ability below)". No record is left out.'
+
+[[excluded]]
+path = "json/monsters07.json#devil_possession_devil_lesser_gidim"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: unclear. Entry ref/monster/devil-possession-devil-lesser-gidim, marker D, anchor footnote-d. Text: "Dread spell (see Dread ability below)". No record is left out.'
+
+[[excluded]]
+path = "json/monsters08.json#dinosaur_deinonychus"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/dinosaur-deinonychus, marker 1, anchor footnote-v. Text: "_Bestiary 4_ later printed a stand-alone version of the velociraptor.". No record is left out.'
+
+[[excluded]]
+path = "json/monsters08.json#dinosaur_elasmosaurus"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/dinosaur-elasmosaurus, marker 1, anchor footnote-p. Text: "A full stat block for the plesiosaurus was later published in _Bestiary 5._". No record is left out.'
+
+[[excluded]]
+path = "json/monsters42.json#dragon_other_prism_dragon"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/dragon-other-prism-dragon, marker X, anchor footnote-x. Text: "This spell has not been published, but is presumably an enhanced version of id insinuation IV.". No record is left out.'
+
+[[excluded]]
+path = "json/monsters_unique2.json#herald_the_first_blade"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/herald-the-first-blade, marker C, anchor footnote-c. Text: "No spell equivalent was provided.". No record is left out.'
+
+[[excluded]]
+path = "json/monsters_unique2.json#herald_the_first_blade"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/herald-the-first-blade, marker 1, anchor footnote-c. Text: "No spell equivalent was provided.". No record is left out.'
+
+[[excluded]]
+path = "json/monsters14.json#impundulu"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/impundulu, marker C, anchor footnote-c. Text: "No spell equivalent was provided.". No record is left out.'
+
+[[excluded]]
+path = "json/monsters_unique4.json#kortash_khain"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/kortash-khain, marker C, joined to the M note by \|C~ residue. Text: "This spell has already been cast". No record is left out.'
+
+[[excluded]]
+path = "json/monsters_mythic2.json#leanan_sidhe_mythic"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/leanan-sidhe-mythic, marker C, anchor footnote-c. Text: "No spell equivalent was provided.". No record is left out.'
+
+[[excluded]]
+path = "json/monsters19.json#psychopomp_morrigna"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/psychopomp-morrigna, marker C, joined to the B note by \|C~ residue. Text: "No spell equivalent was provided.". No record is left out.'
+
+[[excluded]]
+path = "json/monsters20.json#rakshasa_raktavarna"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/monster/rakshasa-raktavarna, marker C, anchor footnote-c. Text: "No spell equivalent was provided.". No record is left out.'
+
+[[excluded]]
+path = "json/class_ability_orders.json#order_of_the_cockatrice"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: inline-note. Entry ref/order/order-of-the-cockatrice, line 62. Text: "^1^ This ability is confusingly worded. The general consensus is that the morale bonus is constant a". No record is left out.'
+
+[[excluded]]
+path = "json/prestige_classes3.json#student_of_perfection"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/pclass/student-of-perfection, marker 1, anchor footnote-k. Text: "Its unclear if this is referring to the ki focus special ability, or if it should be read as "the be". No record is left out.'
+
+[[excluded]]
+path = "json/rules_basics01.json#skills"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: compiled. Entry ref/rule/skills, marker 1, anchor footnote-u. Text: "The Unchained version of this class has the same skill points.". No record is left out.'
+
+[[excluded]]
+path = "json/class_ability_sorcerer_bloodlines.json#draconic"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/sorcbloodline/draconic, line 259. Text: "There are no official description of which linnorm types grant which types of breath weapon. The fol". No record is left out.'
+
+[[excluded]]
+path = "json/spells.json#animal_purpose_training"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/animal-purpose-training, marker 1, anchor footnote-1. Text: "Other purposes have been added by other sourcebooks. Consult your GM if you wish to use one of the p". No record is left out.'
+
+[[excluded]]
+path = "json/spells12.json#contact_entity_1"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/contact-entity-1, marker 1, anchor footnote-l. Text: "No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may deter". No record is left out.'
+
+[[excluded]]
+path = "json/spells12.json#contact_entity_2"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/contact-entity-2, marker 1, anchor footnote-l. Text: "No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may deter". No record is left out.'
+
+[[excluded]]
+path = "json/spells12.json#contact_entity_3"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/contact-entity-3, marker 1, anchor footnote-l. Text: "No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may deter". No record is left out.'
+
+[[excluded]]
+path = "json/spells12.json#contact_entity_4"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/contact-entity-4, marker 1, anchor footnote-l. Text: "No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may deter". No record is left out.'
+
+[[excluded]]
+path = "json/spells13.json#full_pouch"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/full-pouch, marker 1, anchor footnote-n. Text: "The final two sentences make no sense, as choosing the higher DC would **not** be a reduction in qua". No record is left out.'
+
+[[excluded]]
+path = "json/spells7.json#permanency"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/permanency, marker 2, anchor footnote-a. Text: "No level requirement or cost was provided in the original source of _alter river._ Consider using _c". No record is left out.'
+
+[[excluded]]
+path = "json/spells7.json#permanency"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/permanency, marker 6, anchor footnote-c. Text: "No level was given in the source text, but the price is consistent with _shrink item,_ which require". No record is left out.'
+
+[[excluded]]
+path = "json/spells7.json#permanency"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/permanency, marker 3, anchor footnote-d. Text: "No level was provided for the _create demiplane_ spells, but their costs line up with other spells t". No record is left out.'
+
+[[excluded]]
+path = "json/spells7.json#permanency"
+records = 0
+reason = """1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/permanency, marker 4, anchor footnote-e. Text: "Permanency is mentioned in the _light_ spell's description, but no costs or requirements are provide". No record is left out."""
+
+[[excluded]]
+path = "json/spells7.json#permanency"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/permanency, marker 7, anchor footnote-f. Text: "No level was given for _teleport trap,_ and the cost given is multiplied by the number of _teleport ". No record is left out.'
+
+[[excluded]]
+path = "json/spells7.json#permanency"
+records = 0
+reason = """1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/permanency, marker 5, anchor footnote-l. Text: "No level was given for _lost passage_ and _lost locale._ The former's cost is roughly consistent wit". No record is left out."""
+
+[[excluded]]
+path = "json/spells7.json#permanency"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: pointer. Entry ref/spell/permanency, marker 1, anchor footnote-u. Text: "The cost must be paid in diamond dust.". No record is left out.'
+
+[[excluded]]
+path = "json/spells7.json#plague_bearer"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/spell/plague-bearer, line 24. Text: "**Note:** The original source printed this as a 6th-level antipaladin spell, but that class only has". No record is left out.'
+
+[[excluded]]
+path = "json/spells15.json#secret_vault"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/spell/secret-vault, line 26. Text: "> _Note: The original source does not mention a change in duration from > *secret chest*, but the te". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_1"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-1, marker 1, anchor footnote-1. Text: "By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_1"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-1, marker 2, anchor footnote-2. Text: "The original text was written before the entropic and resolute templates were created (see footnote ". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_2"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-2, marker 1, anchor footnote-1. Text: "By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_2"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-2, marker 2, anchor footnote-2. Text: "The original text was written before the entropic and resolute templates were created (see footnote ". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_3"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-3, marker 1, anchor footnote-1. Text: "By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_3"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-3, marker 2, anchor footnote-2. Text: "The original text was written before the entropic and resolute templates were created (see footnote ". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_4"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-4, marker 1, anchor footnote-1. Text: "By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_4"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-4, marker 2, anchor footnote-2. Text: "The original text was written before the entropic and resolute templates were created (see footnote ". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_5"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-5, marker 1, anchor footnote-1. Text: "By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_5"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-5, marker 2, anchor footnote-2. Text: "The original text was written before the entropic and resolute templates were created (see footnote ". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_6"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-6, marker 1, anchor footnote-1. Text: "By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_6"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-6, marker 2, anchor footnote-2. Text: "The original text was written before the entropic and resolute templates were created (see footnote ". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_7"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-7, marker 1, anchor footnote-1. Text: "By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_7"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-7, marker 2, anchor footnote-2. Text: "The original text was written before the entropic and resolute templates were created (see footnote ". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_8"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-8, marker 1, anchor footnote-1. Text: "By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_8"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-8, marker 2, anchor footnote-2. Text: "The original text was written before the entropic and resolute templates were created (see footnote ". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_9"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-9, marker 1, anchor footnote-1. Text: "By a strict rules-as-written interpretation, regular casters can only apply the celestial or fiendis". No record is left out.'
+
+[[excluded]]
+path = "json/spells16.json#summon_monster_9"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/spell/summon-monster-9, marker 2, anchor footnote-2. Text: "The original text was written before the entropic and resolute templates were created (see footnote ". No record is left out.'
+
+[[excluded]]
+path = "json/spells11.json#umbral_strike"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/spell/umbral-strike, line 25. Text: "**Note:** Normally, only illusion spells can be of the shadow subschool. No errata has been issued, ". No record is left out.'
+
+[[excluded]]
+path = "json/spells11.json#vampiric_hunger"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/spell/vampiric-hunger, line 25. Text: "**Note:** Normally, only transmutation spells can be of the polymorph subschool. No errata has been ". No record is left out.'
+
+[[excluded]]
+path = "json/monster_template2.json#hive_creature"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: pointer. Entry ref/template/hive-creature, marker 1, anchor footnote-h. Text: "See the hive subtype for this ability.". No record is left out.'
+
+[[excluded]]
+path = "json/monster_template2.json#lich_creature"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: pointer. Entry ref/template/lich-creature, marker 1, anchor footnote-l. Text: "This ability is described in the lich template.". No record is left out.'
+
+[[excluded]]
+path = "json/monster_template3.json#ogrekin"
+records = 0
+reason = '1 footnote that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: commentary. Entry ref/template/ogrekin, marker 1, anchor footnote-h. Text: "A template for half-ogres exists, for the offspring of ogres and other giants.". No record is left out.'
+
+[[excluded]]
+path = "json/traits05.json#genie_blood"
+records = 0
+reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/trait/genie-blood, line 13. Text: "> † This is different from the usual associations, where cold is water and electricity is air. > Con". No record is left out.'
+
 [[rejected]]
 path = "json/archetypes_barbarian.json#totem_warrior"
 reason = "converter native exclusion (ref/arc-barbarian/totem-warrior): json/archetypes_barbarian.json#totem_warrior uses compileFrom; recipe expansion is not implemented"

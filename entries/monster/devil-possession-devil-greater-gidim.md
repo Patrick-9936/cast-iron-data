@@ -99,10 +99,6 @@ abilities = ["-", "26", "24", "17", "20", "20"]
 - 1/day: &S level 5; 1d4
   [lesser possession devils](ref/monster/devil-possession-devil-lesser-gidim); 40%
 
-###### D {#footnote-d}
-
-Dread spell (see Dread ability below)
-
 **Statistics**
 
 **Ability scores:** Str -, Dex 26, Con 24, Int 17, Wis 20, Cha 20

@@ -96,7 +96,3 @@ ability.
 **Gained:** At 9th Level
 
 **Replaces:** Venom immunity
-
-> _**Note:** This "alternate class" was created before the concept of archetypes was finalized by
-> Paizo, and has been back-ported into archetype form. The original source lists the abilities being
-> replaced, but does not specify what each is being replaced by._

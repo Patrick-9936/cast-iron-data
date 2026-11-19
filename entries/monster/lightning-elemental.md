@@ -182,7 +182,7 @@ stink of ozone.
 
 **Skills:** Acrobatics +11, Escape Artist +9, Fly +12, Knowledge (planes) +2, Perception +7
 
-###### B {#footnote-b}
+###### B {#footnote-b-2}
 
 Bonus feat.
 
@@ -249,7 +249,7 @@ Bonus feat.
 
 **Skills:** Acrobatics +17, Escape Artist +17, Fly +12, Knowledge (planes) +9, Perception +11
 
-###### B {#footnote-b}
+###### B {#footnote-b-3}
 
 Bonus feat.
 
@@ -316,7 +316,7 @@ Bonus feat.
 
 **Skills:** Acrobatics +21, Escape Artist +21, Fly +12, Knowledge (planes) +11, Perception +13
 
-###### B {#footnote-b}
+###### B {#footnote-b-4}
 
 Bonus feat.
 
@@ -385,7 +385,7 @@ Weapon Finesse^B^
 **Skills:** Acrobatics +25, Escape Artist +25, Fly +13, Intimidate +16, Knowledge (planes) +15,
 Perception +16
 
-###### B {#footnote-b}
+###### B {#footnote-b-5}
 
 Bonus feat.
 
@@ -454,6 +454,6 @@ Mobility, Power Attack, Weapon Finesse^B^
 **Skills:** Acrobatics +29, Escape Artist +29, Fly +14, Intimidate +19, Knowledge (planes) +19,
 Perception +19, Stealth +21
 
-###### B {#footnote-b}
+###### B {#footnote-b-6}
 
 Bonus feat.

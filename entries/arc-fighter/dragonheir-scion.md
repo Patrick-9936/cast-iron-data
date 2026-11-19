@@ -107,7 +107,7 @@ energy type.
 **Passive:** Whenever the dragonheir scion damages a target with an attack augmented by Arcane
 Strike, the attack deals an additional 1d4 points of damage of the dragonheir scion's energy type.
 
-**Replaces:** Bonus feat gained at 4th level.^1^
+**Replaces:** Bonus feat gained at 4th level.
 
 **Draconic Presense (Su)**
 
@@ -137,8 +137,3 @@ speed of 60 feet with average maneuverability. She can dismiss the wings as a **
 [blindsense](ref/umr/blindsense) with a range of 60 feet.
 
 **Replaces:** Weapon mastery
-
-^1^ The original text says that \*Draconic Strike\* is a 3rd-level ability that replaces your
-3rd-level bonus feat, and \*Draconic Presense\* likewise targets your 5th level. However, fighters
-do not get bonus feats at 3rd or 5th level. The general concensus is that they should be bumped to
-4th and 6th level respectively, which is what is shown above.

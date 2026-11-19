@@ -51,7 +51,7 @@ ability to deliver a contact or ingested poison via injury.
 
 **Replaces:** Rogue talent gained at 6th level
 
-**Special:** This ability counts as _swift poisoning_ for the purpose of meeting prerequisites.^1^
+**Special:** This ability counts as _swift poisoning_ for the purpose of meeting prerequisites.
 
 **Swift:** A needler can apply a dose of poison to a weapon.
 
@@ -69,8 +69,3 @@ target's skin as if the poison were a contact poison. Delivering poison in this 
 successful Sleight of Hand check opposed by the target's Perception check. The poison is not lost on
 a failed check, but it must be successfully delivered within 1 minute of the first attempt, or it is
 wasted.
-
-^The only ability named "swift poisoning" is the \[alchemist^(class/alchemist) class feature. There
-is also a [swift poison](ref/talent/swift-poison) rogue talent and a
-[swift poisoner](ref/ninjatrick/swift-poisoner) ninja trick that this could be referring to. Consult
-your GM.\]\{from=1\}

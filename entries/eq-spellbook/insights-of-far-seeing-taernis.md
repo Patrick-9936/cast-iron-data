@@ -60,9 +60,6 @@ chilly to the touch, and staring at them induces minor vertigo._
   [stumble gap](ref/spell/stumble-gap)^[1](ref/eq-spellbook/insights-of-far-seeing-taernis#footnote-s)^,
   [unseen servant](ref/spell/unseen-servant)^[1](ref/eq-spellbook/insights-of-far-seeing-taernis#footnote-s)^
 
-_Note:_ The original text also contains a 2nd-level spell "fantastical reach" and a 2nd-level
-conjuration spell named "metabolize", but the spells were not included in the source book.
-
 #### Ritual
 
 **Sturdy Summoning (Su)** A creature you summon gains augmented defenses for a short time. Spend

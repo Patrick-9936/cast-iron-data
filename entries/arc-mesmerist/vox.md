@@ -88,7 +88,7 @@ sonic damage to the damage dealt by his weapon on a successful attack.
 
 **Gained:** At 10th Level
 
-**Replaces:** Touch treatment (major)^1^
+**Replaces:** Touch treatment (major)
 
 **Special:** Whatever choice he makes, the vox must expend one use of _wounding words._
 
@@ -97,6 +97,3 @@ target a number of creatures or objects equal to his Charisma modifier (minimum 
 requiring a ranged touch attack against each target. If the target of his _compelling voice_ is
 within 30 feet, he can choose to instead target only that creature with a single ranged touch or
 melee touch attack, dealing double normal damage on a successful attack.
-
-^1^ It is unclear if this refers to only the 10th-level ability (greater), and/or if it affects the
-14th-level ability (break enchantment). Consult your GM.

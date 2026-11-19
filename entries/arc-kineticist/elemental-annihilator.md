@@ -134,12 +134,9 @@ substance infusions with _flurry of devastation._
 **Ability:** An elemental annihilator can unleash _omnicide,_ a unique physical composite blast.
 _Omnicide_ deals 10d6+10 points of bludgeoning damage, 10d6+10 points of cold damage, 10d6+10 points
 of electricity damage, 10d6+10 points of fire damage, and 10d6+10 points of force damage, and counts
-as a blast of all five elements.^1^ _Omnicide_ costs 4 points of burn, which can be reduced by
+as a blast of all five elements. _Omnicide_ costs 4 points of burn, which can be reduced by
 _composite specialization_ as normal.
 
 **Gained:** At 20th Level
 
 **Replaces:** Omnikinesis, 20th-level utility wild talent
-
-^1^ This archetype was published before the void and wood elements were created. consult your GM if
-you want to master those elements, too.

@@ -70,14 +70,9 @@ contacted creature has telepathy, it can send a telepathic message to you of up 
 |[Deep one elder](ref/monster/deep-one-elder-deep-one)|Engraved stone tablet|
 |[Flying polyp](ref/monster/flying-polyp)|Eerie music played upon a wind instrument carved from the bone of a living creature \[chaotic, evil\]|
 |[Gug](ref/monster/gug)|Fresh flesh of a creature of 5 HD or more \[chaotic, evil\]|
-|[Leng hound](ref/monster/leng-hound)|A corpse with grave goods worth 2,000 gp for the Leng hound to guard^[1](ref/spell/contact-entity-3#footnote-l)^|
+|[Leng hound](ref/monster/leng-hound)|A corpse with grave goods worth 2,000 gp for the Leng hound to guard|
 |[Leng spider](ref/monster/leng-spider)|Head of a denizen of Leng \[evil\]|
 |[Moon-beast](ref/monster/moon-beast)|Intelligent humanoid sacrificed while dreaming \[chaotic, evil\]|
 |[Spawn of Yog-Sothoth](ref/monster/spawn-of-yog-sothoth)|All blood drained from a sacrificed intelligent humanoid \[chaotic, evil\]|
 |[Wendigo](ref/monster/wendigo)|Must devour the flesh of sentient creatures with 8 HD total \[chaotic, evil\]|
 |[Yithian](ref/monster/yithian)|Quartz geode|
-
-###### ^1^ {#footnote-l}
-
-No alignment-based descriptors were provided, but a Leng hound is chaotic evil and your GM may
-determine the spell gains the chaotic and evil descriptors.

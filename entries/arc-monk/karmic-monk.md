@@ -101,7 +101,7 @@ karmic monk for 24 hours.
 
 **Slow Fall**
 
-**Ability:** _Slow fall_ now reduces your fall damage by 80 feet.^1^
+**Ability:** _Slow fall_ now reduces your fall damage by 80 feet.
 
 **Alters:** Slow fall
 
@@ -116,9 +116,3 @@ only by attacks that do not count as chaotic, evil, good, or lawful.
 **Alters:** Perfect self
 
 **Gained:** At 20th Level
-
-^1^ The original source book presents this as replacing the \*slow fall\* increase at 19th level,
-but the ability actually increases at 18th level. This would mean that the ability would increase to
-90 feet at 18th level, then revert down to 80 feet at 19th level, which would be strange. There is
-no official errata confirming this, but the ability is presented above as if it was adjusted at 18th
-level.

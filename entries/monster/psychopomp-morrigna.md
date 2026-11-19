@@ -156,7 +156,7 @@ touch
 
 ###### B {#footnote-b}
 
-Bonus feat.\|C\~No spell equivalent was provided.
+Bonus feat.
 
 **Ecology**
 

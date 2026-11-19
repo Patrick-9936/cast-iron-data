@@ -48,9 +48,9 @@ kind = "none"
 >   [symbol of persuasion](ref/spell/symbol-of-persuasion)) of 7th level or lower as a
 >   [spell-like ability](ref/umr/spell-like-abilities) with a casting time of 1 hour and requiring
 >   no material components. Alternatively, you can use this ability once per day to eliminate any
->   symbol spell's material component by increase its casting time to 1 hour and
->   thereby.^[1](ref/faith/valmallos#footnote-v)^ You can maintain only a single symbol spell
->   created with this ability, and using this ability again causes the first symbol to dissipate.
+>   symbol spell's material component by increase its casting time to 1 hour and thereby. You can
+>   maintain only a single symbol spell created with this ability, and using this ability again
+>   causes the first symbol to dissipate.
 
 ## Follower Options
 
@@ -82,7 +82,3 @@ Valmallos sees his faithful less as worshippers than as students and advocates w
 him and further complicate magical practices to protect them from fools. His priests often accept
 and teach apprentices for far longer than is necessary, even hunting down former students if there's
 any hint of arcane misconduct.
-
-###### ^1^ {#footnote-v}
-
-This text is verbatim from the source material. Consult your GM if you need guidance.

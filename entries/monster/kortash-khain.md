@@ -199,7 +199,11 @@ reach, lore keeper, spell synthesis
 
 ###### M {#footnote-m}
 
-mythic spell\|D\~domain spell\|C\~This spell has already been cast
+mythic spell
+
+###### D {#footnote-d}
+
+domain spell
 
 **Statistics**
 

@@ -104,10 +104,6 @@ looming malevolence and faint foul breath._
   (domain spell) (DC 14), suggestion (DC 16), unseen servant (domain spell) (DC 14)
 - 1/day: &S level 4; 1 lesser possession devil; 40%
 
-###### D {#footnote-d}
-
-Dread spell (see Dread ability below)
-
 **Statistics**
 
 **Ability scores:** Str -, Dex 16, Con 16, Int 15, Wis 17, Cha 17

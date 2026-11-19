@@ -64,8 +64,3 @@ points of damage per caster level (maximum 20d6). Half of this damage is cold da
 is negative energy. The bolt's shadow expands and covers the target, rendering him blind for the
 duration of the spell. A successful Fortitude save halves the damage and negates the blind
 condition.
-
-**Note:** Normally, only [illusion](ref/spelldef/illusion) spells can be of the shadow subschool. No
-errata has been issued, but this spell may have been intended to have the
-[shadow descriptor](ref/spelldef/shadow-descriptor), like the spell
-[umbral infusion](ref/spell/umbral-infusion) that was introduced in the same sourcebook.

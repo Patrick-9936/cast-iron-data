@@ -141,11 +141,4 @@ outrage.
 
 Because life is so dangerous, Grandmother Spider is also a goddess of family, encouraging faith in
 friends and community. She is a protector of the downtrodden, and she is credited with guiding her
-children, the anadi^[1](ref/faith/grandmother-spider#footnote-a)^ and all spiders, out of darkness
-and into freedom.
-
-###### ^1^ {#footnote-a}
-
-Anadi are spider-people fully introduced in Pathfinder 2nd Edition. There are no 1st-edition
-statistics or descriptions of them beyond "spiderlike humanoids" that hide behind illusions. They
-may have some roots in the [aranea](ref/monster/aranea).
+children, the anadi and all spiders, out of darkness and into freedom.

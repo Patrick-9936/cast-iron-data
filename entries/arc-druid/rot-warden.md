@@ -105,7 +105,7 @@ level - 2. He cannot take the form of an elemental.
 **At 10th Level:** The rot warden can assume the shape of a Tiny or Large vermin as if using
 [vermin shape II](ref/spell/vermin-shape-2).
 
-**At 12th Level:** He can take the form of a Huge vermin as if using vermin shape III.^1^
+**At 12th Level:** He can take the form of a Huge vermin as if using vermin shape III.
 
 **At 8th Level:** A rot warden can assume the form of a Small or Medium vermin as if using
 [vermin shape I](ref/spell/vermin-shape-1).
@@ -113,7 +113,3 @@ level - 2. He cannot take the form of an elemental.
 **Gained:** At 6th Level
 
 **Replaces:** Wild shape
-
-^No such spell was ever published. A similar spell could be made based on \[beast shape
-III^(spell/beast\_shape\_iii) and _[vermin shape II](ref/spell/vermin-shape-2)_ - consult your
-GM.\]\{from=1\}

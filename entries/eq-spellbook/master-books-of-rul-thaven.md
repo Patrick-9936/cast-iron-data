@@ -80,9 +80,6 @@ hides the 9th- and 7th-level spells, and the first book is warded with explosive
   [protection from law](ref/spell/protection-from-law),
   [true strike](ref/spell/true-strike)^[1](ref/eq-spellbook/master-books-of-rul-thaven#footnote-s)^
 
-_Note:_ The original text also contains a 3rd-level divination spell named "seek senses", but the
-spell was not included in the source book.
-
 #### Ritual
 
 **Improved Eyes of Rul Thaven (Su)** This improved boon allows you to see invisible creatures. You

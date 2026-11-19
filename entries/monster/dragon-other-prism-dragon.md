@@ -115,11 +115,6 @@ _The facets of this crystalline dragon's body reflect fascinating and sparkling 
   insinuation V\#X, 6 PE, DC 24, instigate psychic duel, 2 PE, DC 20, mass synesthesia, 6 PE, DC 24,
   psychic surgery, 5 PE, DC 25, suggestion, 3 PE, DC 21, synaptic scramble, 4 PE, DC 22
 
-###### X {#footnote-x}
-
-This spell has not been published, but is presumably an enhanced version of
-[id insinuation IV](ref/spell/id-insinuation-4).
-
 **Statistics**
 
 **Ability scores:** Str 31, Dex 12, Con 25, Int 20, Wis 21, Cha 26

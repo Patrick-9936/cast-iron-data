@@ -118,10 +118,6 @@ _[speak with animals](ref/spell/speak-with-animals),_ [telepathy](ref/umr/telepa
 
 **Special qualities:** [change shape](ref/umr/change-shape) (one humanoid)\#C, shaman form
 
-###### C {#footnote-c}
-
-No spell equivalent was provided.
-
 **Ecology**
 
 **Environment:** temperate or warm forest

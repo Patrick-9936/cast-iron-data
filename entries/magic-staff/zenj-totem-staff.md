@@ -49,10 +49,5 @@ creature refuses to enter combat and is immediately dismissed if it takes damage
 **Requirements** [Craft Staff](ref/feat/craft-staff), [aura sight](ref/spell/aura-sight),
 [protection from evil](ref/spell/protection-from-evil),
 [summon nature's ally II](ref/spell/summon-natures-ally-2),
-[summon nature's ally IV](ref/spell/summon-natures-ally-4),^[1](ref/magic-staff/zenj-totem-staff#footnote-n)^
+[summon nature's ally IV](ref/spell/summon-natures-ally-4),
 [zone of truth](ref/spell/zone-of-truth); **Cost** 12,400 gp
-
-###### ^1^ {#footnote-n}
-
-The original source lists _[summon nature's ally I](ref/spell/summon-natures-ally-1)_ and _II_ as
-requirements, which feels like an error. Consult your GM.

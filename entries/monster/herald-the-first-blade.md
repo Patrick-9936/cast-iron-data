@@ -128,10 +128,6 @@ Sense Motive +23
 **Special qualities:** [change shape](ref/umr/change-shape) (swarm form; see below)\#C, lord of
 battle, [no breath](ref/umr/no-breath)
 
-###### C {#footnote-c}
-
-No spell equivalent was provided.
-
 **Ecology**
 
 **Environment:** any ([Elysium](ref/rule/elysium))
@@ -181,7 +177,3 @@ will be facing in battle. Regardless of its form, it typically stands about 15 f
 nearly 5 tons.
 
 **Family:** [Herald](ref/family/herald)
-
-###### ^1^ {#footnote-c}
-
-No spell equivalent was provided.

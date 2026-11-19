@@ -109,12 +109,6 @@ slap +26 (2d6+6)\#N
 - 1/day: greater scrying (DC 21), &S level 7;
   [horned devil](ref/monster/devil-horned-devil-cornugon) 60%, unhallow
 
-###### N {#footnote-n}
-
-The original source lists these attacks as hooves instead of slams, and tail instead of tail slap.
-It also describes the Advodaza as being "centauric" in shape. Other stats were also slightly
-different. This entry prefers the _Bestiary 4_ description.
-
 **Statistics**
 
 **Ability scores:** Str 34, Dex 25, Con 30, Int 23, Wis 25, Cha 24

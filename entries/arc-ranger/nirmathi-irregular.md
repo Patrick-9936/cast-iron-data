@@ -62,7 +62,7 @@ At 20th level: The _favored enemy_ bonus increases to +10.
 **Gained:** At 1st Level
 
 **Passive:** A Nirmathi irregular adds a bonus equal to 1/2 his level on all Perception and Survival
-skill checks he makes while located in forest terrain.^1^
+skill checks he makes while located in forest terrain.
 
 **Replaces:** Wild empathy
 
@@ -95,5 +95,3 @@ the ranger prepares spells, he may choose one druid spell and prepare it as if i
 spell list as a ranger spell of its druid spell level.
 
 **Gained:** At 4th Level
-
-^1^ There is no listed minimum, so the Nirmathi irregular starts out with a +0 bonus at 1st level.

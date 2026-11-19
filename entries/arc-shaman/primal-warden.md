@@ -65,7 +65,7 @@ time, she must keep that result).
 
 **Special:** There are 126 potential 2nd-level spells, 111 potential 3rd-level spells, 102 potential
 4th-level spells, 71 potential 5th-level spells, 50 potential 6th-level spells, 40 potential
-7th-level spells, 28 potential 8th-level spells, and 20 potential 9th-level spells.^1^
+7th-level spells, 28 potential 8th-level spells, and 20 potential 9th-level spells.
 
 At 12th level: She can choose to randomly select a different _spirit magic_ spell 2 times per day.
 
@@ -107,14 +107,3 @@ throws and to her Armor Class. **On a roll of 6,** the target gains the benefit 
 [haste](ref/spell/haste) spell, using the primal warden's shaman level as her caster level.
 
 **Gained:** At 12th Level
-
-^1^ As a suggestion: \*\*2nd level:\*\* Roll a d8, rerolling any 8s. Subtract 1 from that number,
-then multiply it by 20 and add 1d20. Reroll for results over 126. \*\*3rd level:\*\* Roll a d6 and
-subtract 1 from the result, then multiply it by 20 and add 1d20. Reroll for results higher than 111.
-\*\*4th level:\*\* Use the 3rd-level process, or roll a d10, rerolling any 10s. Subtract 1 from that
-number, then multiply it by 12 and add 1d12. Reroll for numbers higher than 102. \*\*5th level:\*\*
-Roll a d6 and subtract 1 from the result, then multiply it by 12 and add 1d12. Reroll if the result
-is 72. \*\*6th level:\*\* Roll 1d100, then divide the result by 2, rounding up. \*\*7th level:\*\*
-Roll a d4, subtract 1 from the result, then multiply it by 10 and add 1d10. \*\*8th level:\*\* Roll
-a d8, rerolling any 8s. Subtract 1 from that number, then multiply it by 4 and add 1d4. \*\*9th
-level:\*\* Roll 1d20.

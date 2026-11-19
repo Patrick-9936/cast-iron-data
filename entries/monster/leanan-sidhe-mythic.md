@@ -111,10 +111,6 @@ of twigs._
 **Special qualities:** [change shape](ref/umr/change-shape) (any female humanoid)\#C, skill
 blessing, spell blessing, unearthly grace
 
-###### C {#footnote-c}
-
-No spell equivalent was provided.
-
 **Ecology**
 
 **Environment:** any land

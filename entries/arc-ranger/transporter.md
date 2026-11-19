@@ -68,7 +68,7 @@ action, he instead grants his _plot course_ bonus to his allies constantly.
 
 **Hideaway (Ex)**
 
-**Ability:** A transporter^1^ can spend 1 hour and attempt a DC 20 Survival check to create a hidden
+**Ability:** A transporter can spend 1 hour and attempt a DC 20 Survival check to create a hidden
 shelter, useful for staying unseen by patrols of enemy creatures. The transporter's shelter can hold
 the transporter and one additional creature for every 2 by which the transporter exceeds the DC. The
 created shelter incorporates scents from the local area, preventing creatures on the inside from
@@ -84,7 +84,3 @@ creatures inside to take a -2 penalty on Perception checks to notice creatures o
 
 **Special:** These bonuses do not apply if the enemy creatures are intimately familiar with the area
 in which the hideaway was built (such as an area right near their home).
-
-^1^ There is no listed level at which this ability is granted. Given that it replaces a 7th-level
-ability, the intention was probably that this ability would also be gained at 7th level. Consult
-your GM.
