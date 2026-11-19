@@ -47,7 +47,7 @@ this ability, you lose your resistance bonus granted by the Protection domain fo
 +1 deflection bonus to AC and [resistance](ref/umr/resistance) 5 against all elements (acid, cold,
 electricity, fire, and sonic).
 
-**Usage:** 1 time/day per cleric level
+**Usage:** cleric level rounds/day. These rounds do not need to be consecutive.
 
 At 12th level: The deflection bonus increases to +2.
 

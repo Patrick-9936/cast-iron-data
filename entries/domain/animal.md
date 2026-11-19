@@ -29,7 +29,7 @@ group = "cleric-domain"
 
 **Standard:** You can [speak with animals](ref/spell/speak-with-animals), as per the spell.
 
-**Usage:** 1 time/day per cleric3 level
+**Usage:** 3 + cleric level rounds/day
 
 **Animal Companion (Ex)**
 
