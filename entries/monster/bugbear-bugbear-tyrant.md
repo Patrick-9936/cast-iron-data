@@ -132,7 +132,7 @@ allies to die.
 
 **Combat maneuver defense:** 30
 
-**Feats:** _Cruel Opportunist_\#X, Dazzling Display, Hurtful, Intimidating Prowess, Pile On, Power
+**Feats:** _Cruel Opportunist_, Dazzling Display, Hurtful, Intimidating Prowess, Pile On, Power
 Attack, Visceral Threat, Weapon Focus (falchion)
 
 **Skills:** Intimidate +26, Perception +11, Stealth +15

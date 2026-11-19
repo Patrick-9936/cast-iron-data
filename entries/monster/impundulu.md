@@ -25,7 +25,7 @@ reflex = "+14"
 will = "+10"
 melee = "bite +19 (1d6+4 plus 1d6 bleed and 1d6 electricity), 2 talons +19 (1d4+4 plus 1d6 electricity and grab), 2 hook +13 (1d4+2 plus 1d6 electricity)"
 special_attacks = "electrical discharge"
-special_qualities = "change shape (one humanoid)#C, shaman form"
+special_qualities = "change shape (one humanoid), shaman form"
 abilities = ["18", "21", "19", "15", "18", "20"]
 +++
 
@@ -116,7 +116,7 @@ Weapon Focus (talons)
 **Languages:** Abyssal, Common, Infernal, Polyglot, Sylvan;
 _[speak with animals](ref/spell/speak-with-animals),_ [telepathy](ref/umr/telepathy) 100 ft.
 
-**Special qualities:** [change shape](ref/umr/change-shape) (one humanoid)\#C, shaman form
+**Special qualities:** [change shape](ref/umr/change-shape) (one humanoid), shaman form
 
 **Ecology**
 

@@ -27,7 +27,7 @@ reflex = "+6"
 will = "+4"
 melee = "bite +8 (1d4-2 plus poison)"
 special_attacks = "detect thoughts (DC 13)"
-special_qualities = "change shape (Tiny living object)#C, master's eyes"
+special_qualities = "change shape (Tiny living object), master's eyes"
 abilities = ["7", "16", "15", "12", "13", "14"]
 +++
 
@@ -115,7 +115,7 @@ red-eyed serpent._
 **Languages:** Common, Infernal, Undercommon;
 _[comprehend languages](ref/spell/comprehend-languages)_
 
-**Special qualities:** [change shape](ref/umr/change-shape) (Tiny living object)\#C, master's eyes
+**Special qualities:** [change shape](ref/umr/change-shape) (Tiny living object), master's eyes
 
 **Ecology**
 

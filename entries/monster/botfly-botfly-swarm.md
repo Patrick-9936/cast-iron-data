@@ -24,7 +24,7 @@ fortitude = "+6"
 reflex = "+3"
 will = "+3"
 melee = "swarm (2d6 plus infestation)"
-special_attacks = "infestation~suffocation#S"
+special_attacks = "infestation~suffocation"
 abilities = ["2", "11", "10", "-", "11", "2"]
 +++
 
@@ -81,7 +81,7 @@ low, droning buzz of thousands of tiny flies._
 
 **Space:** 10
 
-**Spec Att:** infestation, suffocation\#S
+**Spec Att:** infestation, suffocation
 
 **Statistics**
 

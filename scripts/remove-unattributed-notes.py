@@ -17,7 +17,12 @@ whose text no longer matches is skipped and reported, never guessed.
 Row actions:
 
   remove              kind `footnote`: delete the footnote heading and its note, and every body
-                      marker that links to the removed anchor. kind `paragraph`: delete the
+                      marker that points to it: the linked form `^[L](entry#footnote-l)^` and the
+                      plain form `word\\#L` (with or without the backslash, in the body and in
+                      front matter fields such as `special_qualities`). A plain marker goes only
+                      when the entry has no footnote block with that label any more, so the marker
+                      of a kept note stays. The pass runs on every run, also for a note that an
+                      earlier run removed. kind `paragraph`: delete the
                       paragraph outside a footnote block, and its marker (`body_marker`: the
                       superscript or dagger in the text that pointed to it).
   split               kind `footnote`: the block holds several notes joined by `\\|X~` (an unsplit
@@ -62,6 +67,14 @@ def text_sha(text):
 
 
 def toml_str(s):
+    """The canonical form that `cargo xtask corpus-fmt` writes: a basic string; a literal string
+    when the text has a double quote and no single quote; a multi-line basic string (`\"\"\"`) when it
+    has both and no backslash."""
+    if "\n" not in s and '"' in s:
+        if "'" not in s:
+            return "'" + s + "'"
+        if "\\" not in s and '"""' not in s and not s.endswith('"'):
+            return '"""' + s + '"""'
     return '"' + s.replace("\\", "\\\\").replace('"', '\\"') + '"'
 
 
@@ -133,6 +146,34 @@ def remove_linked_markers(body, entry_id, anchor):
     body, k = re.subn(r"[ \t]?" + marker, "", body)
     n += k
     return body, n
+
+
+def plain_marker_re(label):
+    """A plain letter marker after a word: `enlarge\\#X` in the body, `(owl or mouse)#C` in a front
+    matter string. Not a heading anchor (`{#footnote-x}`), a link target (`(#x)`), or a `#` that
+    starts a word of its own (`Pathfinder \\#44`): the marker follows a non-space character."""
+    return re.compile(r"(?<=[^\s{(\[\\])\\?#" + re.escape(label) + r"(?![\w-])")
+
+
+FRONT_KEEP = re.compile(r"^(id|path|record|url|href|source|link)\b")
+
+
+def remove_plain_markers(front, body, labels):
+    """Drop the plain markers of the labels in `labels` (their notes are gone). Return
+    (front, body, count)."""
+    n = 0
+    for label in sorted(labels):
+        rx = plain_marker_re(label)
+        body, k = rx.subn("", body)
+        n += k
+        out = []
+        for line in front.split("\n"):
+            if not FRONT_KEEP.match(line):
+                line, k = rx.subn("", line)
+                n += k
+            out.append(line)
+        front = "\n".join(out)
+    return front, body, n
 
 
 def drop_ranges(lines, ranges):
@@ -222,6 +263,13 @@ def main():
             if r["action"] == "skip":
                 report.append((entry_id, r["kind"], "skip", r["text"], r["note"]))
                 stats["skipped (left for review)"] += 1
+
+        gone_labels = set()  # labels of the notes of this entry that the decision file removes
+        for r in todo:
+            if r["kind"] == "footnote" and r["action"] == "remove" and re.fullmatch(r"[A-Za-z]", r["marker"]):
+                gone_labels.add(r["marker"])
+            elif r["kind"] == "footnote" and r["action"] == "split":
+                gone_labels.update(d for d in r["drop_labels"].split(",") if re.fullmatch(r"[A-Za-z]", d))
 
         delete = []  # (start, end) line ranges
         replaced = {}  # block start -> new heading + paragraph lines (split)
@@ -373,6 +421,11 @@ def main():
                         stats["linked markers updated"] += 1
                     else:
                         errors.append(f"{entry_id}: marker {m.group(0)} cannot be matched to a heading")
+
+        # plain markers (`word\\#X`) of the removed notes, once no block with that label is left
+        kept = {b["label"] for b in footnote_blocks(new_body.split("\n"))}
+        front, new_body, n = remove_plain_markers(front, new_body, gone_labels - kept)
+        stats["plain markers removed"] += n
 
         new_body = tidy(new_body)
         for row in new_rows:
