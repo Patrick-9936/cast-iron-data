@@ -55620,3 +55620,102 @@ reason = "Root now ships as `ref/spell/root` from the Paizo Blog post Ultimate C
 path = "json/spells8.json#scoop"
 entries = ["ref/spell/scoop"]
 reason = "Scoop now ships as `ref/spell/scoop` from the Paizo Blog post Ultimate Cantrips, covered by the Community Use Policy. This supersedes the earlier out-of-scope row. Refs phynics/cast-iron#36."
+
+[[resolved]]
+path = "json/class_ability_domains.json#artifice"
+entries = ["ref/domain/artifice"]
+reason = "The Artifice domain now ships as `ref/domain/artifice`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains.json#chaos"
+entries = ["ref/domain/chaos"]
+reason = "The Chaos domain now ships as `ref/domain/chaos`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains.json#community"
+entries = ["ref/domain/community"]
+reason = "The Community domain now ships as `ref/domain/community`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains.json#darkness"
+entries = ["ref/domain/darkness"]
+reason = "The Darkness domain now ships as `ref/domain/darkness`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains.json#death"
+supersedes = "converter native exclusion (ref/domain/death): unsupported or malformed inline directive @list; unsupported or malformed inline directive @list; unsupported or malformed inline directive @list"
+entries = ["ref/domain/death"]
+reason = "The Death domain now ships as `ref/domain/death`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains.json#death"
+supersedes = 'Paizo Blog - Golarion Day Subdomains: the "Pharasma-Friendly Death Domain" adjustment (a domain-spell change) is blog-only material and is not shipped, because the Death domain itself is not yet a corpus entry (see the rejected row for this path). The blog is covered by the Community Use Policy; add the adjustment when the Death domain lands. Tracked in #36.'
+entries = ["ref/domain/death"]
+reason = "The Pharasma-Friendly Death Domain adjustment from the Paizo Blog post Golarion Day Subdomains now ships in `ref/domain/death`, since the Death domain is now a corpus entry. The blog is covered by the Community Use Policy. Refs phynics/cast-iron#36 and phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains3.json#evil"
+entries = ["ref/domain/evil"]
+reason = "The Evil domain now ships as `ref/domain/evil`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains3.json#glory"
+entries = ["ref/domain/glory"]
+reason = "The Glory domain now ships as `ref/domain/glory`. The converter rejected it because it failed on the inline `@list` directive and an unknown `extra` attribute on `::spelllist`; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains3.json#good"
+entries = ["ref/domain/good"]
+reason = "The Good domain now ships as `ref/domain/good`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains3.json#knowledge"
+entries = ["ref/domain/knowledge"]
+reason = "The Knowledge domain now ships as `ref/domain/knowledge`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains2.json#law"
+entries = ["ref/domain/law"]
+reason = "The Law domain now ships as `ref/domain/law`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains2.json#liberation"
+entries = ["ref/domain/liberation"]
+reason = "The Liberation domain now ships as `ref/domain/liberation`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains2.json#magic"
+entries = ["ref/domain/magic"]
+reason = "The Magic domain now ships as `ref/domain/magic`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains2.json#nobility"
+entries = ["ref/domain/nobility"]
+reason = "The Nobility domain now ships as `ref/domain/nobility`. The converter rejected it because it failed on the inline `@list` directive and an unknown `extra` attribute on `::spelllist`; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains2.json#repose"
+supersedes = "converter native exclusion (ref/domain/repose): unsupported or malformed inline directive @list"
+entries = ["ref/domain/repose"]
+reason = "The Repose domain now ships as `ref/domain/repose`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains2.json#repose"
+supersedes = 'Paizo Blog - Golarion Day Subdomains: the "Pharasma-Friendly Repose Domain" adjustment (a domain-spell change) is blog-only material and is not shipped, because the Repose domain itself is not yet a corpus entry (see the rejected row for this path). The blog is covered by the Community Use Policy; add the adjustment when the Repose domain lands. Tracked in #36.'
+entries = ["ref/domain/repose"]
+reason = "The Pharasma-Friendly adjustment from the Paizo Blog post Golarion Day Subdomains now ships in `ref/domain/repose` (as the Pharasma-Friendly Souls Subdomain section), since the Repose domain is now a corpus entry. The blog is covered by the Community Use Policy. Refs phynics/cast-iron#36 and phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains2.json#rune"
+entries = ["ref/domain/rune"]
+reason = "The Rune domain now ships as `ref/domain/rune`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains2.json#strength"
+entries = ["ref/domain/strength"]
+reason = "The Strength domain now ships as `ref/domain/strength`. The converter rejected it because it failed on the inline `@list` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
+
+[[resolved]]
+path = "json/class_ability_domains3.json#trickery"
+entries = ["ref/domain/trickery"]
+reason = "The Trickery domain now ships as `ref/domain/trickery`. The converter rejected it because it failed on the inline `@list` directive and the `::clear` directive; the entry is now written in the corpus format. Refs phynics/cast-iron-data#103."
