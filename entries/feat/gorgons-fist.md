@@ -15,6 +15,7 @@ page = "124"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Improved Unarmed Strike, Scorpion Style, base attack bonus +6."
+prerequisite_feats = ["ref/feat/improved-unarmed-strike", "ref/feat/scorpion-style"]
 benefit = "As a standard action, make a single unarmed melee attack against a foe whose speed is reduced (such as from Scorpion Style). If the attack hits, you deal damage normally and the target is staggered until the end of your next turn unless it makes a Fortitude saving throw (DC 10 + 1/2 your character level + your Wis modifier). This feat has no effect on targets that are staggered."
 +++
 

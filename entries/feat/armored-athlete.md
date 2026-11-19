@@ -23,7 +23,8 @@ special = "You can gain this feat multiple times. Each time you take the feat, i
 ## Armored Athlete (Combat)
 
 You have experience using a skill while armored.\
-**Prerequisites:** Light armor proficiency, medium armor proficiency, 3 ranks in any Dexterity- or
+**Prerequisites:** [Light armor proficiency](ref/feat/armor-proficiency-light),
+[medium armor proficiency](ref/feat/armor-proficiency-medium), 3 ranks in any Dexterity- or
 Strength-based skill.\
 **Benefit:** Choose one Dexterity- or Strength-based skill in which you possess at least 3 ranks.
 When you attempt a check for the chosen skill, your armor check penalty on that check for wearing

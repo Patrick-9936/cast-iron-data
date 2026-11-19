@@ -15,6 +15,7 @@ page = "126"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Str 13, Power Attack, base attack bonus +1."
+prerequisite_feats = ["ref/feat/power-attack"]
 benefit = "You do not provoke an attack of opportunity when performing a bull rush combat maneuver. In addition, you receive a +2 bonus on checks made to bull rush a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to bull rush you."
 normal = "You provoke an attack of opportunity when performing a bull rush combat maneuver."
 +++

@@ -14,6 +14,7 @@ page = "152"
 [fields]
 kind = "feat"
 prerequisites = "Both Improved Unarmed Strike and Improved Grapple or the grab ability, ogre, size Large or larger."
+prerequisite_feats = ["ref/feat/improved-unarmed-strike", "ref/feat/improved-grapple"]
 benefit = "If you start your turn grappling another creature at least two size categories smaller than you, you can put the grappled creature in your mouth as a move action and attempt another grapple combat maneuver check (as though attempting to pin the opponent). If you succeed, you swallow the opponent as if you had the swallow whole special ability."
 +++
 

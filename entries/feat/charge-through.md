@@ -15,6 +15,7 @@ page = "156"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Str 13, Improved Overrun, Power Attack, base attack bonus +1."
+prerequisite_feats = ["ref/feat/improved-overrun", "ref/feat/power-attack"]
 benefit = "When making a charge, you can attempt to overrun one creature in the path of the charge as a free action. If you successfully overrun that creature, you can complete the charge. If the overrun is unsuccessful, the charge ends in the space directly in front of that creature."
 normal = "You must have a clear path toward the target of your charge."
 +++

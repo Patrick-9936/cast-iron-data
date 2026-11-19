@@ -15,6 +15,7 @@ page = "162"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Str 13, Power Attack, base attack bonus +1."
+prerequisite_feats = ["ref/feat/power-attack"]
 benefit = "You do not provoke an attack of opportunity when performing a drag combat maneuver. In addition, you receive a +2 bonus on checks made to drag a foe. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries to drag you."
 normal = "You provoke an attack of opportunity when performing a drag combat maneuver."
 +++

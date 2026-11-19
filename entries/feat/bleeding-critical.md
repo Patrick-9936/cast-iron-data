@@ -15,6 +15,7 @@ page = "118"
 kind = "feat"
 feat_types = ["Combat", "Critical"]
 prerequisites = "Critical Focus, base attack bonus +11."
+prerequisite_feats = ["ref/feat/critical-focus"]
 benefit = "Whenever you score a critical hit with a slashing or piercing weapon, your opponent takes 2d6 points of bleed damage each round on his turn, in addition to the damage dealt by the critical hit. Bleed damage can be stopped by a DC 15 Heal skill check or through any magical healing. The effects of this feat stack."
 special = "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery."
 +++

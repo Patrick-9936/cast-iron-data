@@ -15,6 +15,7 @@ page = "163"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Int 13, Combat Expertise."
+prerequisite_feats = ["ref/feat/combat-expertise"]
 benefit = "You do not provoke an attack of opportunity when performing a reposition combat maneuver. In addition, you receive a +2 bonus on checks made to reposition a foe. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries to reposition you."
 normal = "You provoke an attack of opportunity when performing a reposition combat maneuver."
 +++

@@ -15,6 +15,7 @@ page = "118"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Light Armor Proficiency, caster level 3rd."
+prerequisite_feats = ["ref/feat/armor-proficiency-light"]
 benefit = "As a swift action, reduce the arcane spell failure chance due to the armor you are wearing by 10% for any spells you cast this round."
 +++
 

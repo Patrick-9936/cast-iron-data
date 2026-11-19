@@ -14,6 +14,7 @@ page = "5"
 [fields]
 kind = "feat"
 prerequisites = "Cha 13, Noble Scion."
+prerequisite_feats = ["ref/feat/noble-scion"]
 benefit = "You receive 100 gp at the beginning of every week that you can spend only on services and non-material goods. Services and non-material goods include the following."
 +++
 

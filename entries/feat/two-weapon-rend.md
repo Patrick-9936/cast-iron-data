@@ -14,15 +14,17 @@ page = "136"
 [fields]
 kind = "feat"
 feat_types = ["Combat"]
-prerequisites = "Dex 17, Double Slice, base attack bonus +11."
-prerequisite_feats = ["ref/feat/double-slice", "ref/feat/greater-two-weapon-fighting", "ref/feat/two-weapon-fighting"]
+prerequisites = "Dex 17, Double Slice, Improved Two-Weapon Fighting, Two-Weapon Fighting, base attack bonus +11."
+prerequisite_feats = ["ref/feat/double-slice", "ref/feat/improved-two-weapon-fighting", "ref/feat/two-weapon-fighting"]
 benefit = "If you hit an opponent with both your primary hand and your off-hand weapon, you deal an additional 1d10 points of damage plus 1-1/2 times your Strength modifier. You can only deal this additional damage once each round."
 +++
 
 ## Two-Weapon Rend (Combat)
 
 Striking with both of your weapons simultaneously, you can use them to deliver devastating wounds.\
-**Prerequisites:** Dex 17, [Double Slice](ref/feat/double-slice), base attack bonus +11.\
+**Prerequisites:** Dex 17, [Double Slice](ref/feat/double-slice),
+[Improved Two-Weapon Fighting](ref/feat/improved-two-weapon-fighting),
+[Two-Weapon Fighting](ref/feat/two-weapon-fighting), base attack bonus +11.\
 **Benefit:** If you hit an opponent with both your primary hand and your off-hand weapon, you deal
 an additional 1d10 points of damage plus 1-1/2 times your Strength modifier. You can only deal this
 additional damage once each round.

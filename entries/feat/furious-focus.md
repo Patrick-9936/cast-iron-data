@@ -15,6 +15,7 @@ page = "161"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Str 13, Power Attack, base attack bonus +1."
+prerequisite_feats = ["ref/feat/power-attack"]
 benefit = "When you are wielding a two-handed weapon or a one-handed weapon with two hands, and using the Power Attack feat, you do not suffer Power Attack's penalty on melee attack rolls on the first attack you make each turn. You still suffer the penalty on any additional attacks, including attacks of opportunity."
 +++
 

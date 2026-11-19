@@ -14,6 +14,7 @@ page = "158"
 [fields]
 kind = "feat"
 prerequisites = "Spell Focus (necromancy), the ability to cast animate dead or command undead."
+prerequisite_feats = ["ref/feat/spell-focus"]
 benefit = "When you cast animate dead or use the Command Undead feat, you are considered to be four levels higher when determining the number of Hit Dice you animate. When you cast command undead, your duration is doubled."
 +++
 

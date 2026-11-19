@@ -15,6 +15,7 @@ page = "131"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Ride 1 rank, Mounted Combat."
+prerequisite_feats = ["ref/feat/mounted-combat"]
 benefit = "The penalty you take when using a ranged weapon while mounted is halved: -2 instead of -4 if your mount is taking a double move, and -4 instead of -8 if your mount is running."
 +++
 

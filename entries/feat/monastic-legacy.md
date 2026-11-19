@@ -15,6 +15,7 @@ page = "109"
 kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Still mind class feature, Improved Unarmed Strike."
+prerequisite_feats = ["ref/feat/improved-unarmed-strike"]
 benefit = "Add half the levels you have in classes other than monk to your monk level to determine your effective monk level for your base unarmed strike damage. This feat does not make levels in classes other than monk count toward any other monk class features."
 +++
 
