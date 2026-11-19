@@ -57,8 +57,7 @@ fails a saving throw against a spell or effect that causes him to fall asleep, h
 receives a second saving throw. If he succeeds at the second saving throw, the horn sounds a loud
 warning that only the wearer can hear. The wearer becomes [deafened](ref/misc/deafened) and immune
 to sleep for 1 round as the sound echoes in his mind. Faint abjuration; **CL** 3rd;
-[alarm](ref/spell/alarm),
-[ear-piercing scream](ref/spell/ear-piercing-scream).^[1](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-h)^
+[alarm](ref/spell/alarm), [ear-piercing scream](ref/spell/ear-piercing-scream).
 
 **Ankh Talisman/:** This cross has a loop at the top. When a living creature wears it as a talisman,
 it radiates a soft, golden glow. When the wearer is hit by a creature with the
@@ -68,8 +67,7 @@ become permanent). If the creature's energy drain allows an initial saving throw
 grants a second saving throw if the wearer fails his initial saving throw. If he succeeds at the
 saving throw granted by the talisman, the talisman releases a blast of force that automatically hits
 the attacker (as per _[force punch](ref/spell/force-punch)_). Moderate necromancy; **CL** 7th;
-[death ward](ref/spell/death-ward),
-[force punch](ref/spell/force-punch).^[1](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-h)^
+[death ward](ref/spell/death-ward), [force punch](ref/spell/force-punch).
 
 **Hamsa Talisman/:** A stern eye adorns the palm of this hand-shaped clay talisman. When the wearer
 fails a saving throw against a witch's hex, a spell or
@@ -78,7 +76,7 @@ fails a saving throw against a witch's hex, a spell or
 at the second saving throw, the creature that targeted him must succeed at a saving throw using the
 same DC or suffer the effect. The talisman has no effect on spells and effects that don't allow a
 saving throw. Strong abjuration; **CL** 13th; [remove curse](ref/spell/remove-curse),
-[spell turning](ref/spell/spell-turning).^[1](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-h)^
+[spell turning](ref/spell/spell-turning).
 
 **Pentacle Talisman/:** The five-pointed star carved on this round silver talisman glows blue
 whenever an evil creature targets the wearer with [magic jar](ref/spell/magic-jar),
@@ -88,87 +86,79 @@ effect that allows the creature to exercise control over the wearer (such as
 a saving throw and the wearer fails it, he receives a second saving throw. If he succeeds at the
 second saving throw, the wearer is also protected by
 _[protection from evil](ref/spell/protection-from-evil)_ for 5 rounds. Faint abjuration; **CL** 1st;
-[protection from evil](ref/spell/protection-from-evil).^[1](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-h)^
+[protection from evil](ref/spell/protection-from-evil).
 
 **Scarab Talisman/:** This amethyst necklace is carved in the shape of a scarab beetle. When the
 wearer fails a saving throw against a swarm's poison or distraction ability, he can attempt a second
 saving throw. If he succeeds at the second saving throw, the wearer becomes immune to the poison and
 distraction abilities of swarms for 5 rounds. Faint conjuration; **CL** 3rd;
-[summon swarm](ref/spell/summon-swarm).^[1](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-h)^
+[summon swarm](ref/spell/summon-swarm).
 
 **Talisman of Arrow Protection/:** These talismans bear the insignia and name of a martyred saint,
 who was said to have survived being shot by 99 arrows, only to be slain by the hundredth. The first
 time that the wearer is hit by two or more ranged attacks in a single round, he is immediately
 affected by _[protection from arrows](ref/spell/protection-from-arrows)._ Faint abjuration; **CL**
-3rd;
-[protection from arrows](ref/spell/protection-from-arrows).^[2](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-o)^
+3rd; [protection from arrows](ref/spell/protection-from-arrows).
 
 **Talisman of Beneficial Winds/:** These talismans are inscribed with the secret names of the four
 winds, and protect the wearer against long falls. The first time that the wearer falls at least 5
 feet, he is automatically affected by _[feather fall](ref/spell/feather-fall)._ Faint transmutation;
-**CL** 1st;
-[feather fall](ref/spell/feather-fall).^[2](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-o)^
+**CL** 1st; [feather fall](ref/spell/feather-fall).
 
 **Talisman of Danger Sense/:** These talismans are inscribed with depictions of predatory animals.
 The first time the wearer rolls initiative, she is immediately affected by
 _[anticipate peril](ref/spell/anticipate-peril)._ Faint divination; **CL** 5th;
-[anticipate peril](ref/spell/anticipate-peril).^[2](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-o)^
+[anticipate peril](ref/spell/anticipate-peril).
 
 **Talisman of Freedom/:** These talismans are inscribed with the names of spirits and other figures
 associated with freedom and liberation. The first time that the wearer becomes
 [grappled](ref/rule/grapple-conditions), [entangled](ref/rule/entangled), or
 [paralyzed](ref/rule/paralyzed), he is automatically affected by
 _[freedom of movement](ref/spell/freedom-of-movement)_ for 3 rounds. Moderate abjuration; **CL**
-7th;
-[freedom of movement](ref/spell/freedom-of-movement).^[2](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-o)^
+7th; [freedom of movement](ref/spell/freedom-of-movement).
 
 **Talisman of Good Fortune/:** These talismans are inscribed with symbols of good luck, and protect
 the wearer against bad fortune. The first time that the wearer rolls a natural 1 on a d20 roll (such
 as on an ability check, attack roll, saving throw, or skill check), he can immediately roll again
-and take the new result instead. Moderate enchantment; **CL** 7th;
-[good hope](ref/spell/good-hope).^[2](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-o)^
+and take the new result instead. Moderate enchantment; **CL** 7th; [good hope](ref/spell/good-hope).
 
 **Talisman of Healing Power/:** These talismans are inscribed with the names and symbols of spirits
 and other figures associated with healing. The first time that the wearer is reduced to fewer than
 1/2 his maximum hit points, he automatically heals 4d8+7 hit points. Moderate conjuration; **CL**
-7th;
-[cure critical wounds](ref/spell/cure-critical-wounds).^[2](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-o)^
+7th; [cure critical wounds](ref/spell/cure-critical-wounds).
 
 **Talisman of Life's Breath/:** These talismans bear runic symbols of life and vitality, as well as
 the names of spirits and other figures that are closely associated with life-giving energies. The
 first time that the wearer dies, he is automatically affected by
 _[breath of life](ref/spell/breath-of-life)._ Moderate conjuration; **CL** 9th;
-[breath of life](ref/spell/breath-of-life).^[2](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-o)^
+[breath of life](ref/spell/breath-of-life).
 
 **Talisman of Protection from Flames/:** These talismans bear symbols of fire and flames, surrounded
 by circles, triangles, or other shapes to show the flames as being contained. The first time that
 the wearer takes 5 or more points of fire damage in a single round, he is automatically affected by
 _[protection from energy](ref/spell/protection-from-energy),_ which protects him from subsequent
 fire damage. Talismans that protect against other energy types are much less common. Faint
-abjuration; **CL** 5th;
-[protection from energy](ref/spell/protection-from-energy).^[2](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-o)^
+abjuration; **CL** 5th; [protection from energy](ref/spell/protection-from-energy).
 
 **Talisman of Sealed Summons/:** These talismans bear intricate seals and symbols often used in the
 binding of outsiders. The first time that the wearer is hit by a natural attack from an evil
 summoned creature, the wearer is automatically affected by
 _[protection from evil](ref/spell/protection-from-evil)._ Other versions of this talisman, which
 affect chaotic, lawful, and good summoned creatures, are much less common. Faint abjuration; **CL**
-1st;
-[protection from evil](ref/spell/protection-from-evil).^[2](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-o)^
+1st; [protection from evil](ref/spell/protection-from-evil).
 
 **Talisman of Warrior's Courage/:** These talismans bear the names of mighty and fearless warriors
 and symbols of power and martial prowess. The first time that the wearer would gain the
 [frightened](ref/misc/frightened) or [panicked](ref/misc/panicked) condition, he gains the
 [shaken](ref/misc/shaken) condition instead. Faint abjuration; **CL** 1st;
-[remove fear](ref/spell/remove-fear).^[2](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-o)^
+[remove fear](ref/spell/remove-fear).
 
 **Triskelion Talisman/:** This bronze talisman is carved in the shape of three interlocking spirals.
 When the wearer fails a saving throw against an effect that would cause him to become
 [entangled](ref/rule/entangled), [paralyzed](ref/rule/paralyzed), or [slowed](ref/spell/slow), he
 receives a second saving throw. If he succeeds at the second saving throw, the wearer instead gains
 the benefits of _[longstrider](ref/spell/longstrider)_ for 5 rounds. Faint transmutation; **CL**
-3rd; [longstrider](ref/spell/longstrider),
-[remove paralysis](ref/spell/remove-paralysis).^[1](ref/magic-wondrous/talisman-greater-sealed-summons#footnote-h)^
+3rd; [longstrider](ref/spell/longstrider), [remove paralysis](ref/spell/remove-paralysis).
 
 ### Construction
 
@@ -184,11 +174,3 @@ Protection), 250 gp (Greater, Beneficial Winds), 3,750 gp (Greater, Danger Sense
 Healing Power), 17,500 gp (Greater, Life's Breath), 3,000 gp (Greater, Pentacle), 6,250 gp (Greater,
 Protection from Flames), 3,000 gp (Greater, Scarab), 2,250 gp (Greater, Sealed Summons), 3,000 gp
 (Greater, Triskelion), 2,250 gp (Greater, Warrior's Courage)
-
-###### ^2^ {#footnote-o}
-
-Occult Adventures pg. 264
-
-###### ^1^ {#footnote-h}
-
-Horror Adventures pg. 224

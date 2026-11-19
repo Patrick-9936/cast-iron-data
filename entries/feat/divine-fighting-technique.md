@@ -9,10 +9,10 @@ provenance = [
 ]
 [[sources]]
 publication = "divine-anthology"
-page = "28"
+page = "28-31"
 [[sources]]
 publication = "weapon-masters-handbook"
-page = "10"
+page = "10-11"
 
 [fields]
 kind = "feat"
@@ -38,8 +38,7 @@ benefit without meeting its prerequisites.
 
 ### Abadar's Crossbow
 
-[Abadar](ref/faith/abadar) teaches complex crossbow
-techniques.^[1](ref/feat/divine-fighting-technique#footnote-a)^\
+[Abadar](ref/faith/abadar) teaches complex crossbow techniques.\
 **Initial Benefit:** You can attempt a ranged [steal](ref/rule/steal) combat maneuver check with a
 crossbow, using your Dexterity modifier in place of your Strength modifier to calculate your Combat
 Maneuver Bonus. If you succeed, the stolen item is knocked away by the bolt; if the bolt can pierce
@@ -60,7 +59,7 @@ Wrath and Punishment, the most well-known fighting manual of the Church of
 [Asmodeus](ref/faith/asmodeus), are as old as time itself, martial experts across the Inner Sea
 region note that Wrath and Punishment is less than 3 decades old. Of course, few in Cheliax dare to
 publicly make such claims. Outside of Cheliax, copies of Wrath and Punishment tend to be found in
-[Hellknight](ref/rule/aff-lawknights) enclaves.^[2](ref/feat/divine-fighting-technique#footnote-b)^\
+[Hellknight](ref/rule/aff-lawknights) enclaves.\
 **Initial Benefit:** Whenever you threaten a critical hit with a
 [light mace](ref/eq-weapon/light-mace) or [heavy mace](ref/eq-weapon/heavy-mace) on a foe, that foe
 becomes [sickened](ref/misc/sickened) for 1 round. If you confirm the critical hit, the sickened
@@ -76,8 +75,7 @@ the attack is resolved.
 
 ### Calistria's Poisoned Lash
 
-[Calistria](ref/faith/calistria) inspires creative ways to poison
-foes.^[1](ref/feat/divine-fighting-technique#footnote-a)^\
+[Calistria](ref/faith/calistria) inspires creative ways to poison foes.\
 **Optional Replacement:** A chaotic neutral [rogue](ref/class/rogue) or [slayer](ref/class/slayer)
 who worships Calistria can replace one talent with the following initial benefit.\
 **Initial Benefit:** You can apply poison (your choice) to a [whip](ref/eq-weapon/whip) as a move
@@ -94,7 +92,7 @@ attack.
 ### Cayden Cailean's Blade and Tankard
 
 [Cayden Cailean](ref/faith/cayden-cailean) is famous for wading into battle with a tankard in his
-off hand.^[3](ref/feat/divine-fighting-technique#footnote-c)^\
+off hand.\
 **Optional Replacement:** A chaotic good [fighter](ref/class/fighter) or
 [swashbuckler](ref/class/swashbuckler) who worships Cayden Cailean can replace proficiency with
 shields or bucklers with the following initial benefit.\
@@ -122,8 +120,7 @@ Among the divine fighting manuals of the Inner Sea, few are as ancient as Clamor
 collection of fighting techniques favored by [Desna's](ref/faith/desna) faithful. True to its name,
 the manual focuses on interpreting the chaos and sounds of combat, but nevertheless provides
 insightful and downright brilliant methods of defense with Desna's favored weapon, using techniques
-that treat a fight with a starknife more as a beautiful dance than a
-battle.^[2](ref/feat/divine-fighting-technique#footnote-b)^\
+that treat a fight with a starknife more as a beautiful dance than a battle.\
 **Optional Replacement:** A chaotic good [bard](ref/class/bard) of at least 2nd level who worships
 Desna can replace a versatile performance with the following initial benefit.\
 **Initial Benefit:** You can add your Charisma bonus to attack rolls and damage rolls when wielding
@@ -153,7 +150,7 @@ Sometimes used as a companion piece to the Parables of Erastil, the lesser-known
 a manual completely dedicated to archery. Lacking the folktales that the Parables are celebrated
 for, the Horns of the Elk instead focuses on covering a wide array of beginner and advanced archery
 tactics. A copy of the manual can be found virtually anywhere a shrine to
-[Erastil](ref/faith/erastil) exists.^[4](ref/feat/divine-fighting-technique#footnote-d)^\
+[Erastil](ref/faith/erastil) exists.\
 **Optional Replacement:** A lawful good [ranger](ref/class/ranger) who worships Erastil can choose
 Divine Fighting Technique as the bonus feat granted by his combat style if he chooses archery as his
 combat style.\
@@ -173,8 +170,7 @@ within 30 feet of the selected adjacent ally against attacks by the targeted cre
 
 ### Gorum's Swordmanship
 
-[Gorum](ref/faith/gorum) teaches devastating greatsword
-techniques.^[3](ref/feat/divine-fighting-technique#footnote-c)^\
+[Gorum](ref/faith/gorum) teaches devastating greatsword techniques.\
 **Optional Replacement:** A chaotic neutral [barbarian](ref/class/barbarian) or
 [fighter](ref/class/fighter) who worships Gorum can replace a bonus feat or rage power with the
 following initial benefit.\
@@ -201,7 +197,7 @@ known of all diving fighting manuals. Many learned monks were taught their first
 using drills and regiments from this manual, which some claim was written by Irori's own hand before
 his ascension to divinity. Although most commonly found in temples to Irori and secluded
 monasteries, copies of The Woven Fist often make their way into less scrupulous hands because of
-their effectiveness.^[4](ref/feat/divine-fighting-technique#footnote-d)^\
+their effectiveness.\
 **Optional Replacement:** A lawful neutral [brawler](ref/class/brawler) or [monk](ref/class/monk)
 can replace a bonus feat with the following initial benefit.\
 **Initial Benefit:** You can take a -2 penalty on all attack rolls made with your unarmed strikes in
@@ -229,7 +225,7 @@ Monsters. In addition to detailing many of the more gruesome rites favored by th
 Fecundity of Corpses includes hundreds of techniques recorded in blood by cultists of Lamashtu from
 across the Inner Sea region. Though no standardized edition of this manual exists because of the
 cult's discordant hierarchy, each tome manages to perfectly capture similar techniques for sowing
-fear and blood in Lamashtu's name.^[4](ref/feat/divine-fighting-technique#footnote-d)^\
+fear and blood in Lamashtu's name.\
 **Initial Benefit:** As a standard action, you can make a single attack with a
 [falchion](ref/eq-weapon/falchion) or a [kukri](ref/eq-weapon/kukri) in order to deal
 [bleed](ref/rule/bleed) damage to the target. When you make this attack, you do not apply your
@@ -252,8 +248,7 @@ Most copies of Ravage and Ruin, the divine fighting manual of the Rough Beast
 the vile techniques described within originated from the Hold of Belkzen not long after the orcs
 first seized that land as their own. Reviled across the Inner Sea, Ravage and Ruin sees additional
 use among savage Ulfen clans who have fallen to the Rough Beast's urges to become corrupt, lunatic
-cannibals who relish despoiling beauty in Rovagug's
-name.^[5](ref/feat/divine-fighting-technique#footnote-e)^\
+cannibals who relish despoiling beauty in Rovagug's name.\
 **Initial Benefit:** Whenever you succeed at a [dirty trick](ref/rule/dirty-trick) combat maneuver
 check against an opponent, you deal an amount of nonlethal damage equal to 1d6 + your Charisma
 modifier. In addition, whenever your dirty trick combat maneuver check beats an opponent's CMD by 5
@@ -281,7 +276,7 @@ When one can end a battle without resorting to killing, the opportunity for rede
 defeated foe still remains. The pages of Dawnflower's Mercies teach methods by which those who serve
 Sarenrae as soldiers can vanquish enemies in combat without killing them, and encourage those who
 follow the teachings held within to offer those they take prisoner the chance to be welcomed into
-Sarenrae's arms.^[5](ref/feat/divine-fighting-technique#footnote-e)^\
+Sarenrae's arms.\
 **Initial Benefit:** You take no penalty on attack rolls for using a
 [scimitar](ref/eq-weapon/scimitar) to deal nonlethal damage. If your attack with the scimitar would
 normally deal additional damage (such as via sneak attack, the [flaming](ref/magic-enh/flaming)
@@ -304,8 +299,7 @@ somewhat rare outside of the Five Kings Mountains, as tradition mandates that al
 of the Father must be scribed by hand in Dwarven on iron sheets and bound between slabs of stone
 hand-carved by a cleric of Torag. As a result, these tomes are somewhat cumbersome to transport
 (even the smallest copy of the book weighs 50 pounds, and most exceed 100 pounds in weight). Those
-who have mastered the Lessons of the Father are highly respected within the
-faith.^[6](ref/feat/divine-fighting-technique#footnote-f)^\
+who have mastered the Lessons of the Father are highly respected within the faith.\
 **Initial Benefit:** Whenever you wield a [warhammer](ref/eq-weapon/warhammer), add your Wisdom
 bonus to the total number of attacks of opportunity that you can make per round. These additional
 attacks of opportunity don't stack with those granted by
@@ -329,8 +323,7 @@ maintains a significant presence, especially within the undead nation of Geb. Th
 manuscript are said to be tattooed onto a humanoid and flensed off while the victim is still alive;
 the swaths of skin are then carefully preserved for presentation in the book. Pallid Cravings
 details hundreds of ways for a member of [Urgathoa's](ref/faith/urgathoa) faithful to satisfy her
-depraved urges for an opponent's flesh and blood while in
-battle.^[6](ref/feat/divine-fighting-technique#footnote-f)^\
+depraved urges for an opponent's flesh and blood while in battle.\
 **Initial Benefit:** A number of times per day equal to your Wisdom bonus, you can feast upon the
 life essence of a creature that you hit with a [scythe](ref/eq-weapon/scythe). Activating this
 ability is a swift action. When you do so, you gain a number of
@@ -346,8 +339,7 @@ toward the number of consecutive saves that the target must succeed at in order 
 
 ### Zon-Kuthon's Flensing
 
-[Zon-Kuthon](ref/faith/zon-kuthon) invites all mortals to join in inflicting and suffering
-pain.^[3](ref/feat/divine-fighting-technique#footnote-c)^\
+[Zon-Kuthon](ref/faith/zon-kuthon) invites all mortals to join in inflicting and suffering pain.\
 **Initial Benefit:** Once per round, when you hit a foe with a
 [spiked chain](ref/eq-weapon/spiked-chain), you can twist the chain so it painfully flenses both of
 you. You and your target are both [sickened](ref/misc/sickened) for 1 round, and the target must
@@ -358,27 +350,3 @@ for an additional 1d4+1 rounds.\
 as a [dirty trick](ref/rule/dirty-trick) combat maneuver, or otherwise), the victim must succeed at
 a Fortitude save (DC = 10 + 1/2 your character level + your Wisdom bonus) or be
 [nauseated](ref/misc/nauseated) for the first round of the duration.
-
-###### ^1^ {#footnote-a}
-
-Weapon Master's Handbook pg. 10
-
-###### ^2^ {#footnote-b}
-
-Divine Anthology pg. 28
-
-###### ^3^ {#footnote-c}
-
-Weapon Master's Handbook pg. 11
-
-###### ^4^ {#footnote-d}
-
-Divine Anthology pg. 29
-
-###### ^5^ {#footnote-e}
-
-Divine Anthology pg. 30
-
-###### ^6^ {#footnote-f}
-
-Divine Anthology pg. 31

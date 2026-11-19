@@ -9,7 +9,7 @@ provenance = [
 ]
 [[sources]]
 publication = "chronicle-of-legends"
-page = "16"
+page = "16-17, 19"
 [[sources]]
 publication = "distant-realms"
 page = "62"
@@ -37,7 +37,7 @@ later learned how to conjure a burst of pure [daylight](ref/spell/daylight), shi
 for a several seconds and defeating an entire cabal of vampires. Most of the manipulations of the
 _[daylight](ref/spell/daylight)_ spell come from Amnok's early work. In addition to the feat, skill,
 or other requirements listed in parentheses for each of these tricks, you must have the Magic Trick
-(daylight) feat to use the trick.^[1](ref/feat/magic-trick#footnote-a)^
+(daylight) feat to use the trick.
 
 **Barrier of Light** ([Shield Focus](ref/feat/shield-focus)): When you cast
 _[daylight](ref/spell/daylight)_ on a shield, it sheds bright light in a 120-foot cone and raises
@@ -77,7 +77,7 @@ Vincent the Pyroclastic is a destructive force in the Society. He has caused per
 condemnation of more buildings in the Inner Sea region than any other agent. For him, incineration
 became an art. In addition to the feat, skill, or other requirements listed in parentheses for each
 of these tricks, you must have the Magic Trick ([fireball](ref/spell/fireball)) feat to use the
-trick.^[1](ref/feat/magic-trick#footnote-a)^
+trick.
 
 **Alchemist's Inferno** (Craft \[alchemy\] 9 ranks, Spellcraft 9 ranks): Using
 [alchemist's fire](ref/eq-weapon/alchemists-fire) as a material component, your
@@ -122,7 +122,7 @@ _[floating disk](ref/spell/floating-disk)._ A combination of cultural importance
 and constant practice allows shulsagas to push the spell's magic beyond its normal limits. Masters
 of the art can perform truly extraordinary maneuvers with proper training. In addition to the feat,
 skill, or other requirements listed for each of these tricks, you must have the Magic Trick
-(floating disk) feat to use the trick.^[2](ref/feat/magic-trick#footnote-b)^
+(floating disk) feat to use the trick.
 
 **Defensive Disk** (Fly 3 ranks, Shield Proficiency): While riding atop your
 _[floating disk](ref/spell/floating-disk)_ with at least one hand free, you can spend a move action
@@ -175,7 +175,7 @@ magical training, her ancestor's magical blood was all she needed to produce and
 [mage hand](ref/spell/mage-hand). She remains unique in that her adaptations to the spell came
 entirely from practical applications rather than study and experimentation. In addition to the feat,
 skill, or other requirements listed in parentheses for each of these tricks, you must have the Magic
-Trick (mage hand) feat to use the trick.^[1](ref/feat/magic-trick#footnote-a)^
+Trick (mage hand) feat to use the trick.
 
 **Dirty Magic Trick** (base attack bonus +1, [Improved Dirty Trick](ref/feat/improved-dirty-trick)):
 You can manipulate a target's clothing or a nearby object to attempt a
@@ -213,8 +213,7 @@ Shastalla of the Shackles was a bloodthirsty pirate, famous for her raids on Che
 the cover of [obscuring mist](ref/spell/obscuring-mist). After Shastalla was caught and executed,
 the [Pathfinder Society](ref/rule/aff-scholars) purchased her magical library for a small fortune to
 learn her secrets. In addition to the feat, skill, or other requirements listed in parentheses for
-each of these tricks, you must have the Magic Trick (obscuring mist) feat to use the
-trick.^[3](ref/feat/magic-trick#footnote-c)^
+each of these tricks, you must have the Magic Trick (obscuring mist) feat to use the trick.
 
 **Clinging Mist** ([Extend Spell](ref/feat/extend-spell), Spellcraft 6 ranks): Your thick mist is
 difficult to escape. A creature that leaves the _[obscuring mist](ref/spell/obscuring-mist)_
@@ -268,8 +267,7 @@ time he had graduated from the Arcanamirium in Absalom, he had already learned t
 clothes and even paint on canvas using only his spellwork. Over the years, he expanded
 _[prestidigitation](ref/spell/prestidigitation)_ from a multi-use spell to a work of art. In
 addition to the feat, skill, or other requirements listed in parentheses for each of these tricks,
-you must have the Magic Trick (prestidigitation) feat to use the
-trick.^[3](ref/feat/magic-trick#footnote-c)^
+you must have the Magic Trick (prestidigitation) feat to use the trick.
 
 **Adjust Scent** (Survival 6 ranks): You can adjust the smell of an object or willing creature to
 become more or less powerful, respectively doubling or reducing by half the distance needed to
@@ -308,7 +306,7 @@ Kah'la is one of the more studious magi to ever graduate from the Arcanamirium. 
 professors had hoped she would make a fine magical theoretician, she joined the Pathfinder Society
 and put her theories on abjuration to good use. In addition to the feat, skill, or other
 requirements listed in parenthesis for each of these tricks, you must have the Magic Trick
-([shield](ref/spell/shield)) feat to use the trick.^[4](ref/feat/magic-trick#footnote-d)^
+([shield](ref/spell/shield)) feat to use the trick.
 
 **Friendly Shield** (Bodyguard): When using the [Bodyguard](ref/feat/bodyguard) feat, you can
 instead grant your ally the benefit of your active _[shield](ref/spell/shield)_ spell. You lose the
@@ -348,7 +346,7 @@ applications for [unseen servant](ref/spell/unseen-servant). Originally he modif
 assist with his alchemical experiments, but over time he learned to make these servants function in
 a variety of ways. Today, armor-clad servants stand perpetual guard outside his office. In addition
 to the feat, skill, or other requirements listed in parentheses for each of these tricks, you must
-have the Magic Trick (unseen servant) feat to use the trick.^[4](ref/feat/magic-trick#footnote-d)^
+have the Magic Trick (unseen servant) feat to use the trick.
 
 **Phantom Decoy** (Disguise 6 ranks): Your _servant_ can inhabit a suit of armor as if wearing it,
 appearing as haunted armor. This reduces the _unseen servant's_ movement speed as normal armor
@@ -382,19 +380,3 @@ reducing the duration to 1 round per level but allowing it to take
 [aid another](ref/rule/aid-another-2) actions in battle on your turn. The _servant_ has an attack
 bonus equal to your caster level plus the highest of your Intelligence, Wisdom, or Charisma
 modifiers.
-
-###### ^1^ {#footnote-a}
-
-Chronicle of Legends pg. 16
-
-###### ^2^ {#footnote-b}
-
-Distant Realms pg. 62
-
-###### ^3^ {#footnote-c}
-
-Chronicle of Legends pg. 17
-
-###### ^4^ {#footnote-d}
-
-Chronicle of Legends pg. 19
