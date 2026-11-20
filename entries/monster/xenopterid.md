@@ -87,7 +87,7 @@ merely patterns on its head._
 
 **Combat maneuver defense:** 26 (34 vs. trip)
 
-**Feats:** Improved Critical^B\|claw^
+**Feats:** Improved Critical^B^ (claw)
 
 **Skills:** Climb +13, Stealth +11
 

@@ -88,7 +88,7 @@ scorpion._
 
 **Combat maneuver defense:** 29 (41 vs. trip)
 
-**Feats:** Skill Focus^B\|Stealth^
+**Feats:** Skill Focus (Stealth)^B^
 
 **Skills:** Perception +6, Stealth +5 (+13 in forests)
 

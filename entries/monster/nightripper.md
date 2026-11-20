@@ -125,11 +125,11 @@ bleed), 2 talons +31 (1d6+4/19-20 plus 2d6 bleed)
 **Combat maneuver defense:** 61
 
 **Feats:** Combat Expertise, Combat Reflexes, Dazzling Display, Deadly Stroke, Exotic Weapon
-Proficiency^B\|bastard sword^, Greater Feint, Greater Weapon Focus^B\|bastard sword^, Greater Weapon
-Specialization^B\|bastard sword^, Improved Critical (bastard sword, claw, talon), Improved Disarm,
-Improved Feint, Power Attack, Quick Draw, Quicken [Spell-Like Ability](ref/umr/spell-like-abilities)
-(blade barrier), Shatter Defenses, Weapon Focus^B\|bastard sword^, Weapon Specialization^B\|bastard
-sword^
+Proficiency (bastard sword)^B^, Greater Feint, Greater Weapon Focus (bastard sword)^B^, Greater
+Weapon Specialization (bastard sword)^B^, Improved Critical (bastard sword, claw, talon), Improved
+Disarm, Improved Feint, Power Attack, Quick Draw, Quicken
+[Spell-Like Ability](ref/umr/spell-like-abilities) (blade barrier), Shatter Defenses, Weapon Focus
+(bastard sword)^B^, Weapon Specialization (bastard sword)^B^
 
 **Skills:** Acrobatics +41, Intimidate +37, Knowledge (history, local, religion) +31, Perception
 +36, Sense Motive +36, Stealth +41, Use Magic Device +37

@@ -89,8 +89,8 @@ leather chest harness._
 
 **Combat maneuver defense:** 22
 
-**Feats:** Combat Reflexes, Improved Initiative, Multiweapon Fighting, Weapon Focus^B\|shobhad
-longrifle^
+**Feats:** Combat Reflexes, Improved Initiative, Multiweapon Fighting, Weapon Focus^B^ (shobhad
+longrifle)
 
 **Skills:** Intimidate +9, Perception +8
 

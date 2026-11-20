@@ -90,7 +90,7 @@ movement with mechanical precision._
 
 **Combat maneuver defense:** 48
 
-**Feats:** Improved Critical^B\|cannon^
+**Feats:** Improved Critical (cannon)^B^
 
 **Special qualities:** alloyed, blasting critical, gun training
 

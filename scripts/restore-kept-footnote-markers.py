@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
-"""Restore the markers of kept footnotes (phynics/cast-iron-data#116).
+"""Restore the markers of kept footnotes (phynics/cast-iron-data#116, #124).
 
     python3 scripts/restore-kept-footnote-markers.py <corpus-dir>
-        [--decisions scripts/kept-footnote-markers-116.tsv] [--report out.tsv] [--dry-run]
+        [--decisions scripts/kept-footnote-markers-116.tsv] [--refs "#109, #116"]
+        [--report out.tsv] [--dry-run]
+
+`scripts/kept-footnote-markers-116.tsv` is the decision file of #116. The last 22 orphans (#124)
+are in `scripts/last-footnote-markers-124.tsv`; run it with `--refs "#109, #124"`, so that the
+exclusion rows name that issue.
 
 The editorial footnotes audit (phynics/cast-iron docs/research/editorial-footnotes-audit.md,
 cast-iron-data#109, follow-up ticket 4) found footnote blocks that no marker in the entry body
@@ -13,7 +18,8 @@ of the SHA-256 of the note's text with Markdown links reduced to their label and
 dropped), so only the reviewed note is touched: a row whose text no longer matches is reported,
 never guessed.
 
-Row actions:
+Row actions (each restore row needs the note's anchor to occur once in the entry, else the run
+exits 1 and writes nothing):
 
   restore-inline   The importer rewrote the printed superscript `^D^` or `^M^` of a spell list as
                    the text "(domain spell)" or "(mythic spell)" (`inline`) and still emitted the
@@ -30,7 +36,18 @@ Row actions:
                    not) that names the record, cast-iron-data#109 and #116.
   drop-duplicate   The note repeats another note of the same entry. Handled like drop-copy; the
                    exclusion row says so.
-  skip             Not applied; listed in the report.
+  restore-literal  The marker survives in the body as importer syntax that is not a marker (for
+                   example `Improved Critical^B\\|bite^`, a superscript that holds `B|bite`). The
+                   row's `edits` column holds a JSON list of `[find, replace]` pairs, made from the
+                   Archives of Nethys page of the entry (its URL is in the `aon_url` column), that
+                   put the marker where that page shows it. Spaces in `find` match any run of
+                   white space, so a wrapped line matches. A `find` is a whole token of a
+                   comma-separated list (a feat, a spell), never a part of one: `Weapon Focus` does
+                   not match inside `Greater Weapon Focus`. Each `find` must match once in the body
+                   outside the notes. A `find` that matches nothing is done when its replacement is
+                   already in the entry, and an error otherwise; one that matches twice is an error.
+                   The note stays.
+  skip             Not applied; listed in the report. The `note` column says why.
 
 Safe to interrupt and rerun. Every file is written to a temp file in its directory, fsynced and
 replaced over the original, so none is ever truncated. The `[[excluded]]` rows are written first,
@@ -46,6 +63,7 @@ afterwards: a line that gained or lost text is rewrapped to the canonical width.
 import argparse
 import csv
 import importlib.util
+import json
 import os
 import re
 import sys
@@ -58,7 +76,7 @@ _spec = importlib.util.spec_from_file_location("remove_unattributed_notes", HERE
 base = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(base)
 
-ACTIONS = ("restore-inline", "restore-plain", "drop-copy", "drop-duplicate", "skip")
+ACTIONS = ("restore-inline", "restore-plain", "restore-literal", "drop-copy", "drop-duplicate", "skip")
 EXCERPT = 100
 
 
@@ -81,6 +99,18 @@ def inline_regex(inline):
     return re.compile(r"(?<=\S)[ \t]*(?:\n[ \t]*)?" + words)
 
 
+def literal_regex(find):
+    """`find` as a regex that matches a whole token of a comma-separated list (a feat in a
+    **Feats:** line, a spell in a spell list), never a part of one. Spaces in `find` match any
+    run of white space, so a wrapped line matches. The token must follow a list separator (a comma
+    and white space, the bold label `**Feats:**` and white space, or a list dash at the start of a
+    line, or the start of the text) and be followed by a comma, a semicolon, a full stop, or the
+    end of the line. So `Weapon Focus^B\\|bite^` does not match inside `Greater Weapon Focus^B\\|bite^`.
+    The separator before the token is a named group `lead` that the replacement keeps."""
+    token = r"\s+".join(re.escape(w) for w in find.split(" "))
+    return re.compile(r"(?P<lead>,\s+|\*\*\s+|(?m:^)-\s+|\A)" + token + r"(?=[ \t]*(?:[,;.]|$))", re.M)
+
+
 def plain_regex(inline):
     """The escaped marker `\\#S` after a word, as `base.plain_marker_re` reads it."""
     label = inline.lstrip("\\#")
@@ -91,6 +121,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("corpus")
     ap.add_argument("--decisions", default=str(HERE / "kept-footnote-markers-116.tsv"))
+    ap.add_argument("--refs", default="#109, #116", help="the issues that the exclusion rows name")
     ap.add_argument("--report")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
@@ -174,7 +205,7 @@ def main():
                 )
                 reason = (
                     f"{what}, removed "
-                    f"(phynics/cast-iron-data#109, #116). Entry {entry_id}, marker {b['label']}, "
+                    f"(phynics/cast-iron-data{args.refs}). Entry {entry_id}, marker {b['label']}, "
                     f"anchor {r['anchor']}: {r['note']}. Text: \"{flat[:EXCERPT]}\". No record is left out."
                 )
                 if not recorded:
@@ -185,6 +216,18 @@ def main():
                 if not hit:
                     stats["restore rows with no match (text changed)"] += 1
                     report.append((entry_id, r["anchor"], "no-match", r["text"], ""))
+                    continue
+                same_anchor = [b for b in blocks if b["anchor"] == r["anchor"]]
+                if len(same_anchor) != 1:
+                    errors.append(f"{entry_id}: anchor {r['anchor']} occurs {len(same_anchor)} times; row not applied")
+                    continue
+                if act == "restore-literal":
+                    pairs = json.loads(r["edits"])
+                    if not pairs or any(len(p) != 2 or not p[0] or p[0] == p[1] for p in pairs):
+                        errors.append(f"{entry_id}: the edits of {r['anchor']} are not a list of [find, replace] pairs")
+                        continue
+                    for find, replace in pairs:
+                        edits.append((r, literal_regex(find), replace))
                     continue
                 if act == "restore-inline":
                     rx = inline_regex(r["inline"])
@@ -218,17 +261,30 @@ def main():
             if cur:
                 chunks.append(("text", cur))
             out = []
+            hits = [0] * len(edits)
             for kind, ls in chunks:
                 if kind == "note":
                     out.extend(ls)
                     continue
                 seg = "\n".join(ls)
-                for r, rx, rep in edits:
-                    seg, n = rx.subn(rep, seg)
+                for i, (r, rx, rep) in enumerate(edits):
+                    seg, n = rx.subn(lambda m, rep=rep: (m.groupdict().get("lead") or "") + rep, seg)
+                    hits[i] += n
                     if n:
                         stats[f"markers restored ({r['action']})"] += n
-                        report.append((entry_id, r["anchor"], "restored", r["inline"], f"{n} x {rep}"))
+                        report.append((entry_id, r["anchor"], "restored", r["inline"] or rx.pattern, f"{n} x {rep}"))
                 out.extend(seg.split("\n"))
+            squeezed = " ".join(("\n".join(lines)).split())
+            for (r, rx, rep), n in zip(edits, hits):
+                if r["action"] != "restore-literal":
+                    continue
+                if n > 1:
+                    errors.append(f"{entry_id}: the text {rx.pattern!r} of {r['anchor']} matches {n} times; row not applied")
+                elif n == 0 and " ".join(rep.split()) not in squeezed:
+                    errors.append(
+                        f"{entry_id}: the text {rx.pattern!r} of {r['anchor']} matches no whole list token "
+                        "and its replacement is not in the entry; row not applied"
+                    )
             lines = out
             done = all(
                 f"^{r['marker']}^" in "\n".join(lines) or r["action"] == "skip" for r, _, _ in edits

@@ -82,7 +82,7 @@ teeth._
 
 **Combat maneuver defense:** 11 (15 vs. trip)
 
-**Feats:** Improved Critical^B\|bite^, Weapon Focus (bite), Weapon Specialization^B\|bite^
+**Feats:** Improved Critical^B^ (bite), Weapon Focus (bite), Weapon Specialization^B^ (bite)
 
 **Skills:** Climb +17, Perception +5
 

@@ -55,7 +55,3 @@ Area: cone-shaped emanation
 This spell functions like _[detect evil](ref/spell/detect-evil),_ except that it detects the auras
 of lawful creatures, clerics of lawful deities, lawful spells, and lawful magic items, and you are
 vulnerable to an overwhelming lawful aura if you are chaotic.
-
-###### ^1^ {#footnote-e}
-
-Excludes undead and outsiders, which have their own entries on the table.

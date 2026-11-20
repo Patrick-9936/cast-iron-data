@@ -121,7 +121,7 @@ comparison to the danger of its mighty jaws._
 
 **Feats:** Blind-Fight, Critical Focus, Improved Bull Rush, Improved Critical (bite), Improved
 Initiative, Lightning Reflexes, Lunge, Power Attack, Quicken
-[Spell-Like Ability](ref/umr/spell-like-abilities)^B\|ear-piercing scream^, Staggering Critical
+[Spell-Like Ability](ref/umr/spell-like-abilities)^B^ (ear-piercing scream), Staggering Critical
 
 **Skills:** Climb +24, Intimidate +30, Knowledge (planes) +20, Perception +30, Sense Motive +30,
 Stealth +21

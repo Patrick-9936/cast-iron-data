@@ -90,47 +90,47 @@ metamagic mastery (7/day), mythic spellpower, permanent shapechange, rapid prepa
 
 **9th-level spells:**
 
-- ascension^M^, gate, mage's disjunction, meteor swarm, time stop^M^, =empty slot\#F
+- ascension^M^, gate, mage's disjunction, meteor swarm, time stop^M^, =empty slot^F^
 
 **8th-level spells:**
 
 - &maximized cone of cold, maze^M^, polymorph any object (DC 33), power word stun, summon monster
-  VIII, =empty slot\#F
+  VIII, =empty slot^F^
 
 **7th-level spells:**
 
 - &Q fireball^M^ (2, DC 32), forcecage (DC 33), mage's sword, mass invisibility, summon monster VII,
-  =empty slot\#F
+  =empty slot^F^
 
 **6th-level spells:**
 
 - chain lightning^M^ (DC 32), globe of invulnerability^M^, mislead^M^ (DC 31), &Q scorching ray^M^,
-  summon monster VI, true seeing, =empty slot\#F
+  summon monster VI, true seeing, =empty slot^F^
 
 **5th-level spells:**
 
 - baleful polymorph (DC 30), cloudkill (DC 31), communal stoneskin, &Q entangle^M^ (DC 30), mage's
-  faithful hound, overland flight, =empty slot\#F
+  faithful hound, overland flight, =empty slot^F^
 
 **4th-level spells:**
 
 - communal protection from energy (DC 29), dimension door, enervation, mass enlarge person (DC 29),
-  &maximized magic missile^M^, wall of fire, =empty slot\#F
+  &maximized magic missile^M^, wall of fire, =empty slot^F^
 
 **3rd-level spells:**
 
 - call lightning^M^ (2, DC 29), communal resist energy (DC 28), fireball^M^ (DC 29), haste^M^, 2,
-  lightning bolt (DC 29), =empty slot\#F
+  lightning bolt (DC 29), =empty slot^F^
 
 **2nd-level spells:**
 
 - barkskin, blur, communal protection from evil, forest friend, glitterdust (DC 28), mirror image,
-  2, =empty slot\#F
+  2, =empty slot^F^
 
 **1st-level spells:**
 
 - entangle^M^ (2, DC 26), expeditious retreat, feather fall, magic missile^M^, obscuring mist^M^,
-  true strike, =empty slot\#F
+  true strike, =empty slot^F^
 
 **Cantrips:**
 

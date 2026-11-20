@@ -91,7 +91,7 @@ an agonizing death._
 
 **Combat maneuver defense:** 27
 
-**Feats:** Improved Critical^B\|gore^, Improved Roar, Skill Focus (Perception), Skill Focus
+**Feats:** Improved Critical (gore)^B^, Improved Roar, Skill Focus (Perception), Skill Focus
 (Stealth), Weapon Focus (gore)
 
 **Skills:** Escape Artist +7, Perception +11, Stealth +10, Swim +11
