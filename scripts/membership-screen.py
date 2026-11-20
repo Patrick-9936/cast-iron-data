@@ -98,6 +98,14 @@ entry's parent lists the book).
         passing and no related entry carries the page; the audit file records the page and the
         kind of mention, class `mention`), `wrong-credit-invalidated` also covers an entry whose printed counterpart
         differs materially (an affliction with other numbers than the book prints).
+        Batch 4 adds: `whole-book-absent` (no `[[sources]]` row and no body line; the whole book was
+        searched for the title and for runs of the entry's prose, and neither is printed),
+        `whole-book-absent-new-primary-printed` (the same for the entry's first book. The row is
+        `gate = primary`, and `proposed_primary`, which becomes first, prints the entry on
+        `print_page`: `proposed_status` `printed` when its title is on the cited page, `body` when
+        runs of the entry's prose are), `mention-only` (the book names the entry in passing and
+        prints nothing of it; the entry has no row for the book, so there is no page to invalidate),
+        `section-printed` (keep: the book prints a section of the entry's body on `print_page`).
         A re-run overwrites the queue; scripts/membership-apply.py applies the rows marked `remove`.
 
 Known limits (see the PR for the calibration): no-PDF memberships and books without readable

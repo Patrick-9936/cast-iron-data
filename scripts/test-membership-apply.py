@@ -7,6 +7,10 @@ Cases: a `[[sources]]` row the audit file releases is dropped with the membershi
 entry with a body `**Source:**` line as well is refused and left byte for byte unchanged; a
 body line alone is refused; a row without an audit row is refused; a released row with a
 wrong page is refused. Each refusal must happen before anything is written.
+
+A row for the entry's first book (`gate = primary`) is applied only when the reviewer cleared it:
+`proposed_primary` is the book that becomes first, `proposed_status` is `printed` or `body`, and
+the entry cites a page in that book. Every other gated row is refused.
 """
 import csv
 import subprocess
@@ -113,6 +117,58 @@ class ApplyTest(unittest.TestCase):
     def test_audit_with_other_page_is_refused(self):
         text = entry(ROW, "Text.\n")
         r, path = self.run_apply(text, audit_page="13")
+        self.assertNotEqual(r.returncode, 0)
+        self.assertEqual(path.read_text(), text)
+
+    def run_first(self, text: str, gate: str = "primary", proposed: str = "book-b", status: str = "printed"):
+        """Remove book-a, the entry's first book, with a gated queue row."""
+        tmp = Path(tempfile.mkdtemp())
+        (tmp / "entries/spell").mkdir(parents=True)
+        (tmp / "publications.toml").write_text(PUBS, encoding="utf-8")
+        (tmp / "books.toml").write_text('[[books]]\nsource = "book-a"\n', encoding="utf-8")
+        path = tmp / "entries/spell/test-spell.md"
+        path.write_text(text, encoding="utf-8")
+        queue = tmp / "queue.tsv"
+        row = dict.fromkeys(QUEUE_HEAD, "")
+        row.update(book="book-a", entry="ref/spell/test-spell", kind="spell", title="Test Spell", tag="family-leak",
+                   gate=gate, proposed_primary=proposed, proposed_status=status, verdict="remove", print_page="12",
+                   evidence="whole-book-absent-new-primary-printed")
+        with open(queue, "w", newline="") as f:
+            w = csv.DictWriter(f, fieldnames=QUEUE_HEAD, delimiter="\t", lineterminator="\n")
+            w.writeheader()
+            w.writerow(row)
+        r = subprocess.run([sys.executable, str(APPLY), str(tmp), "--queue", str(queue),
+                            "--audit", str(tmp / "none.tsv")], capture_output=True, text=True)
+        return r, path
+
+    def test_cleared_first_book_is_removed_and_the_proposed_book_becomes_first(self):
+        r, path = self.run_first(entry(ROW, "Text.\n"))
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn('source_ids = ["book-b", "book-c"]', path.read_text())
+
+    def test_first_book_with_the_wrong_proposed_primary_is_refused(self):
+        text = entry(ROW, "Text.\n")
+        r, path = self.run_first(text, proposed="book-c")
+        self.assertNotEqual(r.returncode, 0)
+        self.assertEqual(path.read_text(), text)
+
+    def test_first_book_whose_new_primary_has_no_page_is_refused(self):
+        text = entry("", "Text.\n")
+        r, path = self.run_first(text)
+        self.assertNotEqual(r.returncode, 0)
+        self.assertIn("no page citation", r.stderr)
+        self.assertEqual(path.read_text(), text)
+
+    def test_first_book_row_that_is_not_cleared_is_refused(self):
+        for gate, status in (("primary", "unscreened"), ("primary", "(none)"), ("other", "printed")):
+            text = entry(ROW, "Text.\n")
+            r, path = self.run_first(text, gate=gate, status=status)
+            self.assertNotEqual(r.returncode, 0, (gate, status))
+            self.assertEqual(path.read_text(), text)
+
+    def test_first_book_without_a_gate_is_refused(self):
+        text = entry(ROW, "Text.\n")
+        r, path = self.run_first(text, gate="", proposed="")
         self.assertNotEqual(r.returncode, 0)
         self.assertEqual(path.read_text(), text)
 

@@ -43,8 +43,11 @@ credit once #458 lands, or by keeping the membership if the book prints the entr
 It refuses a row that
   * has a `[[sources]]` row that the audit file does not release, or a body source line, that
     names the book (see above),
-  * has `gate = primary` (removing the first book changes the entry's primary book: those rows
-    need their own decision) or tag `hub-keep`,
+  * has `gate = primary` (removing the first book changes the entry's primary book) unless the
+    reviewer cleared it: the row names `proposed_primary`, `proposed_status` is `printed` or
+    `body` (the reviewer read the page), the book that becomes first is exactly `proposed_primary`,
+    and the entry holds a `[[sources]]` row with a page for it. A gated row with any other value
+    is refused. Or has tag `hub-keep`,
   * would leave `source_ids` empty (the last book of an entry is never removed),
   * names a book that is not in the entry's `source_ids`, or an entry that does not exist.
 It never edits an `id` and never moves a file. The edit is textual and keeps the canonical form;
@@ -73,7 +76,9 @@ def read_queue(path: Path, only_kind: str | None) -> list[dict]:
             continue
         if only_kind and r["kind"] != only_kind:
             continue
-        if r["gate"] or r["tag"] == "hub-keep":
+        cleared = (r["gate"] == "primary" and r["proposed_primary"] and r["proposed_primary"] != r["book"]
+                   and r["proposed_status"] in ("printed", "body"))
+        if (r["gate"] and not cleared) or r["tag"] == "hub-keep":
             raise SystemExit(f"refused: {r['entry']} in {r['book']} is gated or a hub (gate={r['gate']!r}, tag={r['tag']})")
         if not r["print_page"] or not r["evidence"]:
             raise SystemExit(f"refused: {r['entry']} in {r['book']} has no print_page/evidence recorded")
@@ -210,7 +215,8 @@ def release_citation(root: Path, entry: str, book: str, text: str, audit: dict) 
 
 
 def edit_entry(path: Path, book: str, title: str, write: bool = True,
-               entry: str = "", root: Path | None = None, audit: dict | None = None) -> str:
+               entry: str = "", root: Path | None = None, audit: dict | None = None,
+               primary_to: str = "") -> str:
     """Remove `book` from `source_ids` of one entry file. Returns 'removed' or 'absent'; refuses
     the last book, any body source line naming the book (checked first, whatever structured rows exist)
     and any `[[sources]]` row the audit file does not release."""
@@ -228,6 +234,13 @@ def edit_entry(path: Path, book: str, title: str, write: bool = True,
     drop_row = has_sources_row(text, book)
     if drop_row:
         release_citation(root, entry, book, text, audit or {})
+    if ids[0] == book and not primary_to:
+        raise SystemExit(f"refused: {book} is the first book of {path.name}; the row needs a cleared proposed_primary")
+    if primary_to:
+        if ids[0] != book or len(ids) < 2 or ids[1] != primary_to:
+            raise SystemExit(f"refused: {path.name} would not have {primary_to} as its first book after removing {book}")
+        if not sources_page(text, primary_to):
+            raise SystemExit(f"refused: {path.name} has no page citation for the new first book {primary_to}")
     ids.remove(book)
     new_line = "source_ids = [" + ", ".join(f'"{i}"' for i in ids) + "]"
     if write:
@@ -333,10 +346,12 @@ def main() -> int:
         todo.append((path, r))
     # Check every row first (a refusal stops the run before anything is written), then write.
     for path, r in todo:
-        edit_entry(path, r["book"], titles[r["book"]], write=False, entry=r["entry"], root=root, audit=audit)
+        edit_entry(path, r["book"], titles[r["book"]], write=False, entry=r["entry"], root=root, audit=audit,
+                   primary_to=r["proposed_primary"] if r["gate"] else "")
     removed = absent = 0
     for path, r in todo:
-        state = edit_entry(path, r["book"], titles[r["book"]], write=not args.dry_run, entry=r["entry"], root=root, audit=audit)
+        state = edit_entry(path, r["book"], titles[r["book"]], write=not args.dry_run, entry=r["entry"], root=root,
+                           audit=audit, primary_to=r["proposed_primary"] if r["gate"] else "")
         removed += state == "removed"
         absent += state == "absent"
         removals[r["book"]].add(r["entry"])
