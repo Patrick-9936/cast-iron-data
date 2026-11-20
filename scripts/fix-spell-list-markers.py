@@ -44,11 +44,24 @@ Three header forms occur: ``&S level N;``, ``&S, level N;`` and ``&S CL 3rd;``
 import already wrote in parentheses, ``&S (level 3; 4 imps; 35%)``, keeps that
 one pair of parentheses.
 
-The script leaves a marker unchanged and lists it as "unplaced" when it cannot
-place it with certainty: a marker in the front matter, a summon with no
-recognised header, an empty item, unbalanced brackets, a character reference
-inside the item, an item that ends with ``;``, or text after a parenthesised
-summon.
+Where the script looks
+----------------------
+
+Only list items of the spell sections of monster entries (``entries/monster/``): the
+items and their indented continuation lines under a ``**Spell-Like Abilities**``,
+``**Spells Known**``, ``**Prepared Spells**``, ``**Psychic Magic**`` or
+``**Spellcasting**`` heading, up to the next heading line. A marker anywhere else
+(prose, other lists, other entries, the front matter) stays as it is. So do markers
+in literal text: a code span, a link target, a bare URL, an autolink, an escaped
+``\\&Q``, and the upstream token form ``&Q&``. The survey lists every marker it
+skips as "skipped", with the reason.
+
+The script leaves a marker unchanged and lists it as "unplaced" when it is in a
+spell-list item but it cannot place it with certainty: a summon with no recognised
+header, an empty item, unbalanced brackets, a character reference inside the
+item, an item that ends with ``;``, or text after a parenthesised summon. The
+header never reaches past the end of its list item, so an empty ``&S level 4;``
+does not pull in the next line.
 
 Usage:
 
@@ -56,11 +69,12 @@ Usage:
     python3 scripts/fix-spell-list-markers.py --self-test
 
 Without ``--write`` the script only surveys: it prints, per marker, how many
-it found, would replace and cannot place, and lists every unplaced case. ``DIR``
+it found, would replace, cannot place and skips, and lists every unplaced and
+skipped case. ``DIR``
 defaults to the repository root. The script writes each changed file through a
 temporary file and an atomic rename, and it is idempotent: on a corpus without
 markers it changes no file. Before it writes a file it checks that the front
-matter is unchanged, that exactly the unplaced markers remain, and that a
+matter is unchanged, that exactly the unplaced and skipped markers remain, and that a
 second pass would change nothing; a file that fails is left unchanged and
 listed. The exit code is 0 unless an argument is wrong or a verification fails.
 """
@@ -79,18 +93,33 @@ from pathlib import Path
 METAMAGIC = {"Q": "quickened", "EM": "empowered", "EX": "extended"}
 PLAIN_WORDS = ("maximized", "reach", "heightened", "widened", "merciful", "scarring")
 
-# One pattern finds every marker. A ``&`` after a word character or another ``&`` does
-# not start a marker (``AT&T``, the end of a broken entity such as ``&quot&Q``).
+# One pattern finds every marker. A ``&`` after a word character, another ``&`` or a
+# backslash does not start a marker (``AT&T``, the end of a broken entity such as
+# ``&quot&Q``, an escaped ``\&Q``). A marker that a word character or ``&`` follows is
+# not one either (``&Sword``, ``&Séance``, the upstream token ``&Q&``).
 MARKER = re.compile(
-    r"(?<![\w&])&(?:(?P<meta>Q|EM|EX)(?!\w)|(?P<summon>S)(?!\w)"
-    r"|(?P<plain>" + "|".join(PLAIN_WORDS) + r")(?!\w))"
+    r"(?<![\w&\\])&(?:(?P<meta>Q|EM|EX)(?![\w&])|(?P<summon>S)(?![\w&])"
+    r"|(?P<plain>" + "|".join(PLAIN_WORDS) + r")(?![\w&]))"
 )
+
+# Literal text that never holds a marker: code spans, link targets, bare URLs, autolinks.
+LITERAL = re.compile(
+    r"(?P<code>(?P<tick>`+).+?(?P=tick))|(?P<target>\]\([^)\n]*\))"
+    r"|(?P<url>https?://[^\s<>)\]]+)|(?P<auto><[^<>\s]+>)"
+)
+
+# The spell sections of a monster entry: bold-only heading lines.
+SPELL_SECTIONS = ("Spell-Like Abilities", "Spells Known", "Prepared Spells", "Psychic Magic", "Spellcasting")
+SECTION_LINE = re.compile(r"\*\*([^*\n]+)\*\*[ \t]*")
 
 # The header of a summon item after ``&S``: ``level 4;``, ``, level 9;``, ``CL 3rd;``,
 # with the import's own opening parenthesis in one case.
+# Whitespace inside the header is a space, a tab, or a line break that an indented
+# continuation line follows, so the header stays inside its list item.
+_WS = r"(?:[ \t]|\n(?= ))"
 SUMMON_HEADER = re.compile(
-    r"[ \t]*,?\s*(?P<open>\()?\s*"
-    r"(?P<head>level\s+\d+|CL\s+\d+(?:st|nd|rd|th))\s*[;,]\s*"
+    rf"[ \t]*,?{_WS}*(?P<open>\()?{_WS}*"
+    rf"(?P<head>level{_WS}+\d+|CL{_WS}+\d+(?:st|nd|rd|th)){_WS}*[;,]{_WS}*"
 )
 
 TRAILING_NOTES = re.compile(r"(?:\^[A-Za-z]+\^)+\Z")
@@ -125,6 +154,7 @@ class Result:
     found: Counter
     replaced: Counter
     unplaced: list[Unplaced]
+    skipped: list[Unplaced]
 
 
 def front_matter_end(text: str) -> int:
@@ -133,6 +163,44 @@ def front_matter_end(text: str) -> int:
         return 0
     end = text.find("\n+++\n", 3)
     return 0 if end < 0 else end + len("\n+++\n")
+
+
+def spell_list_ranges(text: str, body_start: int) -> list[tuple[int, int]]:
+    """Offset ranges of the list items in the spell sections of the body.
+
+    A range runs from the ``- `` of an item to the end of its last indented continuation line.
+    """
+    ranges: list[tuple[int, int]] = []
+    in_section = False
+    item_start: int | None = None
+    item_end = 0
+    offset = body_start
+    for line in text[body_start:].split("\n"):
+        section = SECTION_LINE.fullmatch(line)
+        heading = line.startswith("#") or (section is not None and not section.group(1).rstrip().endswith(":"))
+        starts_item = in_section and line.startswith(("- ", "* "))
+        continues = in_section and item_start is not None and line.startswith(" ")
+        if item_start is not None and not continues:
+            ranges.append((item_start, item_end))
+            item_start = None
+        if heading:
+            in_section = section is not None and section.group(1).strip() in SPELL_SECTIONS
+        elif starts_item:
+            item_start = offset
+        if item_start is not None:
+            item_end = offset + len(line)
+        offset += len(line) + 1
+    if item_start is not None:
+        ranges.append((item_start, item_end))
+    return ranges
+
+
+def literal_spans(text: str) -> list[tuple[int, int]]:
+    return [m.span() for m in LITERAL.finditer(text)]
+
+
+def inside(spans: list[tuple[int, int]], offset: int) -> bool:
+    return any(start <= offset < end for start, end in spans)
 
 
 def is_item_end(text: str, i: int) -> bool:
@@ -255,12 +323,18 @@ def place_summon(text: str, start: int, subject: str) -> tuple[int, str] | str:
     return item_end, replacement + trailing
 
 
-def process(text: str, subject: str = "") -> Result:
-    """Replace the markers in a file's text; leave what cannot be placed."""
+def process(text: str, subject: str = "", monster: bool = True) -> Result:
+    """Replace the markers in a file's text; leave what cannot be placed.
+
+    ``monster`` says whether the file is a monster entry; markers in any other entry are skipped.
+    """
     found: Counter = Counter()
     replaced: Counter = Counter()
     unplaced: list[Unplaced] = []
+    skipped: list[Unplaced] = []
     body_start = front_matter_end(text)
+    ranges = spell_list_ranges(text, body_start) if monster else []
+    literals = literal_spans(text)
     pieces: list[str] = []
     pos = 0
 
@@ -278,8 +352,15 @@ def process(text: str, subject: str = "") -> Result:
             continue  # inside a summon item that was already placed
         kind = kind_of(m)
         found[kind] += 1
+        skip = None
         if m.start() < body_start:
-            unplaced.append(Unplaced(line_of(m.start()), kind, "marker in the front matter", context(m.start())))
+            skip = "marker in the front matter"
+        elif inside(literals, m.start()):
+            skip = "literal text (code span, link target or URL)"
+        elif not inside(ranges, m.start()):
+            skip = "outside the spell-list items of a monster entry"
+        if skip:
+            skipped.append(Unplaced(line_of(m.start()), kind, skip, context(m.start())))
             continue
         if kind == "&S":
             result = place_summon(text, m.end(), subject)
@@ -297,19 +378,20 @@ def process(text: str, subject: str = "") -> Result:
             pos = m.end()
         replaced[kind] += 1
     pieces.append(text[pos:])
-    return Result("".join(pieces), found, replaced, unplaced)
+    return Result("".join(pieces), found, replaced, unplaced, skipped)
 
 
-def verify(old: str, new: str, res: Result, subject: str = "") -> str | None:
+def verify(old: str, new: str, res: Result, subject: str = "", monster: bool = True) -> str | None:
     """Check a rewritten file; return a reason when it must not be written."""
     start = front_matter_end(old)
     if front_matter_end(new) != start or old[:start] != new[:start]:
         return "front matter changed"
-    # Every marker that was not placed is still there, and no other marker is.
+    # Every marker that was not placed or skipped is gone, and no other marker is left.
     left = len(MARKER.findall(new))
-    if left != len(res.unplaced):
-        return f"{left} markers left, {len(res.unplaced)} expected"
-    if process(new, subject).text != new:
+    expected = len(res.unplaced) + len(res.skipped)
+    if left != expected:
+        return f"{left} markers left, {expected} expected"
+    if process(new, subject, monster).text != new:
         return "a second pass changes the text"
     return None
 
@@ -336,6 +418,7 @@ def run(root: Path, write: bool) -> int:
     found: Counter = Counter()
     replaced: Counter = Counter()
     unplaced: list[tuple[str, Unplaced]] = []
+    skipped: list[tuple[str, Unplaced]] = []
     changed: list[Path] = []
     failures: list[str] = []
     for path in sorted(entries.rglob("*.md")):
@@ -344,12 +427,14 @@ def run(root: Path, write: bool) -> int:
             continue
         rel = path.relative_to(root).as_posix()
         subject = " " + SUMMON_SUBJECTS[rel] if rel in SUMMON_SUBJECTS else ""
-        res = process(old, subject)
+        monster = rel.startswith("entries/monster/")
+        res = process(old, subject, monster)
         found += res.found
         unplaced += [(rel, u) for u in res.unplaced]
+        skipped += [(rel, u) for u in res.skipped]
         if res.text == old:
             continue
-        reason = verify(old, res.text, res, subject)
+        reason = verify(old, res.text, res, subject, monster)
         if reason:
             failures.append(f"{rel}: {reason}")
             continue
@@ -358,15 +443,20 @@ def run(root: Path, write: bool) -> int:
         if write:
             write_atomic(path, res.text)
     verb = "replaced" if write else "would replace"
-    print(f"{'kind':8} {'found':>6} {verb:>14} {'unplaced':>9}")
+    print(f"{'kind':8} {'found':>6} {verb:>14} {'unplaced':>9} {'skipped':>8}")
     for kind in KINDS:
         n_unplaced = sum(1 for _, u in unplaced if u.kind == kind)
-        print(f"{kind:8} {found[kind]:>6} {replaced[kind]:>14} {n_unplaced:>9}")
-    print(f"{'total':8} {sum(found.values()):>6} {sum(replaced.values()):>14} {len(unplaced):>9}")
+        n_skipped = sum(1 for _, u in skipped if u.kind == kind)
+        print(f"{kind:8} {found[kind]:>6} {replaced[kind]:>14} {n_unplaced:>9} {n_skipped:>8}")
+    print(f"{'total':8} {sum(found.values()):>6} {sum(replaced.values()):>14} {len(unplaced):>9} {len(skipped):>8}")
     print(f"files {'changed' if write else 'to change'}: {len(changed)}")
     if unplaced:
         print("\nunplaced (left unchanged):")
         for rel, u in unplaced:
+            print(f"  {rel}:{u.line}: {u.kind}: {u.reason}\n      {u.context}")
+    if skipped:
+        print("\nskipped (left unchanged; not a monster spell-list item or literal text):")
+        for rel, u in skipped:
             print(f"  {rel}:{u.line}: {u.kind}: {u.reason}\n      {u.context}")
     if failures:
         print("\nverification failures (files left unchanged):", file=sys.stderr)
@@ -376,7 +466,7 @@ def run(root: Path, write: bool) -> int:
     return 0
 
 
-PREFIX = '+++\nid = "ref/monster/x"\n+++\n\n**Spell-Like Abilities**\n'
+PREFIX = '+++\nid = "ref/monster/x"\n+++\n\n**Spell-Like Abilities**\n\n'
 
 
 def self_test() -> int:
@@ -439,19 +529,56 @@ def self_test() -> int:
             failed += 1
             print(f"FAIL (must stay unchanged and be listed): {src!r} -> {got.text[len(PREFIX):]!r} {got.unplaced}")
     # A marker in the front matter is listed and never touched.
-    fm = '+++\nid = "ref/monster/x"\ntitle = "&Q odd"\n+++\n\n- &Q holy smite\n'
+    fm = '+++\nid = "ref/monster/x"\ntitle = "&Q odd"\n+++\n\n**Spell-Like Abilities**\n\n- &Q holy smite\n'
     got = process(fm)
-    if 'title = "&Q odd"' not in got.text or "quickened holy smite" not in got.text or len(got.unplaced) != 1:
+    if 'title = "&Q odd"' not in got.text or "quickened holy smite" not in got.text or len(got.skipped) != 1:
         failed += 1
         print("FAIL (front matter)")
+    # An empty summon does not pull the next heading into the item.
+    for src in ("- x, &S level 4;\n\n**Statistics**\n\nText", "- x, &S level 4;\n**Statistics**\n", "- x, &S level\n\n4; 1 imp 35%"):
+        got = process(PREFIX + src)
+        if got.text != PREFIX + src or len(got.unplaced) != 1:
+            failed += 1
+            print(f"FAIL (empty summon): {src!r} -> {got.text[len(PREFIX):]!r} {got.unplaced}")
+    # Literal text and look-alikes in a spell-list item stay as they are; only the last marker changes.
+    literal = (
+        "- `&Q` holy smite, [x](https://e.test/?x=&Q), see https://e.test/?y=&EM, <https://e.test/?z=&EX>, "
+        "\\&Q fly, &Q&EM fly, &Q holy smite"
+    )
+    got = process(PREFIX + literal)
+    want = literal[: -len("&Q holy smite")] + "quickened holy smite"
+    if got.text != PREFIX + want or len(got.skipped) != 4 or got.unplaced:
+        failed += 1
+        print(f"FAIL (literal text): {got.text[len(PREFIX):]!r} skipped={len(got.skipped)}")
     # Words that only contain a marker are not markers.
-    keep = "- AT&T, R&Q, &Quick, &reaches, &Sword, &EMBER, &quot&Q x\n"
+    keep = "- AT&T, R&Q, &Quick, &reaches, &Sword, &Séance, &EMBER, &quot&Q x\n"
     got = process(PREFIX + keep)
     if got.text != PREFIX + keep or got.found:
         failed += 1
         print(f"FAIL (not markers): {got.found}")
-    total = len(cases) + len(unchanged) + 3
-    print("self-test:", "FAILED" if failed else "ok", f"({total} cases)")
+    # Outside the spell-list items of a monster entry nothing changes: prose, another section,
+    # a list that is not under a spell heading, and an entry that is not a monster.
+    outside = (
+        "&Q in prose.\n\n- &Q in a list before any section\n\n**Statistics**\n\n- &S level 4; 1 imp 35%\n\n"
+        "**Spell-Like Abilities**\n\nProse &EM here.\n\n###### Notes\n\n- &EX in a list after a heading\n"
+    )
+    head = '+++\nid = "ref/monster/x"\n+++\n\n'
+    got = process(head + outside)
+    if got.text != head + outside or len(got.skipped) != 5 or got.unplaced:
+        failed += 1
+        print(f"FAIL (outside spell lists): skipped={len(got.skipped)}")
+    got = process(PREFIX + "- &Q holy smite", monster=False)
+    if got.text != PREFIX + "- &Q holy smite" or len(got.skipped) != 1:
+        failed += 1
+        print("FAIL (not a monster entry)")
+    # The other spell sections count: prepared spells under a level heading, psychic magic.
+    for section in ("Spells Known", "Prepared Spells", "Psychic Magic", "Spellcasting"):
+        src = f"{head}**{section}**\n\n**3rd-level spells:**\n\n- &Q fly,\n  &EM fireball\n"
+        got = process(src)
+        if got.text != f"{head}**{section}**\n\n**3rd-level spells:**\n\n- quickened fly,\n  empowered fireball\n":
+            failed += 1
+            print(f"FAIL (section {section}): {got.text!r}")
+    print("self-test:", "FAILED" if failed else "ok")
     return 1 if failed else 0
 
 
