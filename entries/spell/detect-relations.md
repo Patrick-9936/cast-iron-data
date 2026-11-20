@@ -25,6 +25,7 @@ levels = [
 ]
 casting_time = "1 standard action"
 components = "V, S, F/DF (a seed)"
+range = "N/A"
 effects = [
   { label = "Targets", value = "one creature per level, no two of which can be more than 30 ft. apart" },
 ]
@@ -39,6 +40,7 @@ School: divination
 Level: 2: Bard, Cleric, Inquisitor, Oracle, Skald, Warpriest, Witch
 Casting time: 1 standard action
 Components: V, S, F/DF (a seed)
+Range: N/A
 Duration: concentration, up to 1 min./level (D)
 Saving throw: Will negates, see text
 Spell resistance: no
