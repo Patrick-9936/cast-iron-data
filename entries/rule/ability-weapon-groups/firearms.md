@@ -2,7 +2,7 @@
 id = "ref/rule/ability-weapon-groups/firearms"
 kind = "rule"
 title = "Firearms"
-source_ids = ["core-rulebook", "ultimate-combat"]
+source_ids = ["ultimate-combat"]
 section = ["Weapon Groups"]
 parent = "ref/ability/weapon-groups"
 provenance = [

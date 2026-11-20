@@ -3,7 +3,7 @@ id = "ref/spell/burning-entanglement"
 kind = "spell"
 title = "Burning Entanglement"
 aon = "SpellDisplay.aspx?ItemName=Burning%20Entanglement"
-source_ids = ["core-rulebook", "villain-codex"]
+source_ids = ["villain-codex"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "burning_entanglement", path = "json/spells4.json" },
 ]

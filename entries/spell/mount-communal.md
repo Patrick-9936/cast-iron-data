@@ -3,7 +3,7 @@ id = "ref/spell/mount-communal"
 kind = "spell"
 title = "Communal Mount"
 aon = "SpellDisplay.aspx?ItemName=Mount%2C%20Communal"
-source_ids = ["core-rulebook", "ultimate-combat"]
+source_ids = ["ultimate-combat"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "mount_communal", path = "json/spells7.json" },
 ]

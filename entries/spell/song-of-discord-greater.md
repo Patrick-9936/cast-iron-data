@@ -3,7 +3,7 @@ id = "ref/spell/song-of-discord-greater"
 kind = "spell"
 title = "Greater Song of Discord"
 aon = "SpellDisplay.aspx?ItemName=Song%20of%20Discord%2C%20Greater"
-source_ids = ["core-rulebook", "chronicle-of-legends"]
+source_ids = ["chronicle-of-legends"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "song_of_discord_greater", path = "json/spells9.json" },
 ]

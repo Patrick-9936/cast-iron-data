@@ -45,13 +45,13 @@ advanced-players-guide	ref/racial-trait/half-orc/attributes	racial_trait	Attribu
 advanced-players-guide	ref/racial-trait/halfling/attributes	racial_trait	Attributes	7	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	21	race-section-read-no-trait
 advanced-players-guide	ref/racial-trait/halfling/halfling-luck	racial_trait	Halfling Luck	7	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	21	race-section-read-no-trait
 advanced-players-guide	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	7	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	21	race-section-read-no-trait
-advanced-players-guide	ref/spell/ant-haul-communal	spell	Communal Ant Haul	1	2	family-leak	absent		none	0		variant	ref/spell/ant-haul(title)		primary	ultimate-combat	body			
-advanced-players-guide	ref/spell/break-greater	spell	Greater Break	1	2	family-leak	absent		none	0		variant	ref/spell/break(title)		primary	ultimate-intrigue	body			
-advanced-players-guide	ref/spell/chameleon-stride-greater	spell	Greater Chameleon Stride	1	2	family-leak	absent		none	0		variant	ref/spell/chameleon-stride(title)		primary	advanced-class-guide	body			
-advanced-players-guide	ref/spell/compel-tongue-mass	spell	Mass Compel Tongue	1	3	family-leak	absent		none	0		variant	ref/spell/compel-tongue(body)		primary	black-markets	body			
-advanced-players-guide	ref/spell/mask-dweomer-communal	spell	Communal Mask Dweomer	1	2	family-leak	absent		none	0		variant	ref/spell/mask-dweomer(title)		primary	ultimate-combat	body			
-advanced-players-guide	ref/spell/share-language-communal	spell	Communal Share Language	1	3	family-leak	absent		none	0		variant	ref/spell/share-language(title)		primary	ultimate-combat	body			
-advanced-players-guide	ref/spell/walk-the-plank	spell	Walk the Plank	1	2	family-leak	absent		none	0		variant	ref/spell/create-pit(title)		primary	villain-codex	printed			
+advanced-players-guide	ref/spell/ant-haul-communal	spell	Communal Ant Haul	1	2	family-leak	absent		none	0		variant	ref/spell/ant-haul(title)		primary	ultimate-combat	body	remove	223	whole-book-absent-new-primary-printed
+advanced-players-guide	ref/spell/break-greater	spell	Greater Break	1	2	family-leak	absent		none	0		variant	ref/spell/break(title)		primary	ultimate-intrigue	body	remove	205	whole-book-absent-new-primary-printed
+advanced-players-guide	ref/spell/chameleon-stride-greater	spell	Greater Chameleon Stride	1	2	family-leak	absent		none	0		variant	ref/spell/chameleon-stride(title)		primary	advanced-class-guide	body	remove	177	whole-book-absent-new-primary-printed
+advanced-players-guide	ref/spell/compel-tongue-mass	spell	Mass Compel Tongue	1	3	family-leak	absent		none	0		variant	ref/spell/compel-tongue(body)		primary	black-markets	body	remove	24	whole-book-absent-new-primary-printed
+advanced-players-guide	ref/spell/mask-dweomer-communal	spell	Communal Mask Dweomer	1	2	family-leak	absent		none	0		variant	ref/spell/mask-dweomer(title)		primary	ultimate-combat	body	remove	236	whole-book-absent-new-primary-printed
+advanced-players-guide	ref/spell/share-language-communal	spell	Communal Share Language	1	3	family-leak	absent		none	0		variant	ref/spell/share-language(title)		primary	ultimate-combat	body	remove	243	whole-book-absent-new-primary-printed
+advanced-players-guide	ref/spell/walk-the-plank	spell	Walk the Plank	1	2	family-leak	absent		none	0		variant	ref/spell/create-pit(title)		primary	villain-codex	printed	remove	188	whole-book-absent-new-primary-printed
 advanced-players-guide	ref/class/arcanist	class	Arcanist	2	8	uncited	absent		none	0										
 advanced-players-guide	ref/class/bloodrager	class	Bloodrager	2	9	uncited	absent		none	0										
 advanced-players-guide	ref/class/gunslinger	class	Gunslinger	3	8	uncited	absent		none	0										
@@ -106,7 +106,7 @@ advanced-players-guide	ref/magic-wondrous/amulet-of-spell-cunning	item	Amulet of
 advanced-players-guide	ref/magic-wondrous/boots-of-friendly-terrain	item	Boots of Friendly Terrain	2	2	cite-off	off-page	3300	row	2	301,304									
 advanced-players-guide	ref/spell/acid-pit	spell	Acid Pit	1	2	cite-off	off-page	204	row	4	195,198,199,201	variant	ref/spell/create-pit(title)							
 advanced-race-guide	ref/rule/basics	rule	Basics	2	5	hub-keep	weak		none	1	8									
-advanced-race-guide	ref/class/samurai	class	Samurai	4	9	uncited	absent		none	0										
+advanced-race-guide	ref/class/samurai	class	Samurai	4	9	uncited	absent		none	0								remove	none	whole-book-absent
 advanced-race-guide	ref/magic-wondrous/figurine-of-wondrous-power	item	Figurines of Wondrous Power	8	15	uncited	absent		none	0										
 advanced-race-guide	ref/magic-wondrous/figurine-of-wondrous-power-basalt-dragon	item	Figurine of Wondrous Power (Basalt Dragon)	8	15	weak	weak		none	1	166									
 advanced-race-guide	ref/magic-wondrous/figurine-of-wondrous-power-black-jade-raven	item	Figurine of Wondrous Power (Black Jade Raven)	8	15	weak	weak		none	1	166									
@@ -132,23 +132,23 @@ advanced-race-guide	ref/magic-wondrous/figurine-of-wondrous-power-slate-spider	i
 advanced-race-guide	ref/magic-wondrous/figurine-of-wondrous-power-tin-imp	item	Figurine of Wondrous Power (Tin Imp)	8	15	weak	weak		none	1	166									
 adventurers-armory	ref/rule/advanced-magic-topics	rule	Advanced Magic Topics	1	4	hub-keep	absent		none	0										
 adventurers-armory	ref/rule/types-of-traits	rule	Types of Traits	2	6	hub-keep	absent		none	0										
-adventurers-armory	ref/eq-armor/stoneplate	item	Stoneplate	3	4	review	absent	19	row	0										
-adventurers-armory	ref/eq-misc/courtesans-outfit	item	Courtesan's outfit	3	3	review	absent	19	row	0										
+adventurers-armory	ref/eq-armor/stoneplate	item	Stoneplate	3	4	review	absent	19	row	0								keep	19	title-printed
+adventurers-armory	ref/eq-misc/courtesans-outfit	item	Courtesan's outfit	3	3	review	absent	19	row	0								keep	14	section-printed
 adventurers-armory	ref/eq-misc/miners-lantern	item	Miner's lantern	2	2	review	absent	19	row	0										
-adventurers-armory	ref/eq-misc/peasants-outfit	item	Peasant's outfit	3	3	review	absent	19	row	0										
-adventurers-armory	ref/eq-misc/scholars-outfit	item	Scholar's outfit	3	3	review	absent	19	row	0										
-adventurers-armory	ref/eq-misc/squires-outfit	item	Squire's outfit	3	3	review	absent	19	row	0										
-adventurers-armory	ref/eq-misc/tear-away-courtesans-outfit	item	Tear-away courtesan's outfit	3	3	review	absent	19	row	0										
+adventurers-armory	ref/eq-misc/peasants-outfit	item	Peasant's outfit	3	3	review	absent	19	row	0								keep	14	section-printed
+adventurers-armory	ref/eq-misc/scholars-outfit	item	Scholar's outfit	3	3	review	absent	19	row	0								keep	14	section-printed
+adventurers-armory	ref/eq-misc/squires-outfit	item	Squire's outfit	3	3	review	absent	19	row	0								keep	14	section-printed
+adventurers-armory	ref/eq-misc/tear-away-courtesans-outfit	item	Tear-away courtesan's outfit	3	3	review	absent	19	row	0								keep	14	section-printed
 adventurers-armory	ref/eq-misc/tear-away-doctors-outfit	item	Tear-away doctor's outfit	1	3	review	absent	19	row	0					primary	pathfinder-8-seven-days-to-the-grave	unscreened			
-adventurers-armory	ref/eq-misc/tear-away-peasants-outfit	item	Tear-away peasant's outfit	3	3	review	absent	19	row	0										
-adventurers-armory	ref/eq-misc/tear-away-pickpockets-outfit	item	Tear-away pickpocket's outfit	2	2	review	absent	19	row	0										
-adventurers-armory	ref/eq-misc/tear-away-scholars-outfit	item	Tear-away scholar's outfit	3	3	review	absent	19	row	0										
-adventurers-armory	ref/eq-misc/tear-away-squires-outfit	item	Tear-away squire's outfit	3	3	review	absent	19	row	0										
-adventurers-armory	ref/eq-weapon/falcata	item	Falcata	3	4	review	absent	33	row	0										
-adventurers-armory	ref/eq-weapon/khopesh	item	Khopesh	3	4	review	absent	33	row	0										
-adventurers-armory	ref/eq-weapon/ogre-hook	item	Ogre hook	5	5	review	absent	0	row	0										
+adventurers-armory	ref/eq-misc/tear-away-peasants-outfit	item	Tear-away peasant's outfit	3	3	review	absent	19	row	0								keep	14	section-printed
+adventurers-armory	ref/eq-misc/tear-away-pickpockets-outfit	item	Tear-away pickpocket's outfit	2	2	review	absent	19	row	0								keep	14	section-printed
+adventurers-armory	ref/eq-misc/tear-away-scholars-outfit	item	Tear-away scholar's outfit	3	3	review	absent	19	row	0								keep	14	section-printed
+adventurers-armory	ref/eq-misc/tear-away-squires-outfit	item	Tear-away squire's outfit	3	3	review	absent	19	row	0								keep	14	section-printed
+adventurers-armory	ref/eq-weapon/falcata	item	Falcata	3	4	review	absent	33	row	0								keep	33	title-printed
+adventurers-armory	ref/eq-weapon/khopesh	item	Khopesh	3	4	review	absent	33	row	0								keep	33	title-printed
+adventurers-armory	ref/eq-weapon/ogre-hook	item	Ogre hook	5	5	review	absent	0	row	0								keep	33	title-printed
 adventurers-armory	ref/eq-weapon/shoanti-bolas	item	Shoanti bolas	5	5	review	absent	33	row	0										
-adventurers-armory	ref/eq-weapon/urumi	item	Urumi	5	6	review	absent	33	row	0										
+adventurers-armory	ref/eq-weapon/urumi	item	Urumi	5	6	review	absent	33	row	0								keep	33	title-printed
 adventurers-armory	ref/eq-misc/animal-harness	item	Animal harness	3	3	cite-off	off-page	19	row	2	14,21									
 adventurers-armory	ref/eq-misc/artisans-outfit	item	Artisan's outfit	3	3	cite-off	off-page	19	row	1	14									
 adventurers-armory	ref/eq-misc/bat	item	Bat	2	2	cite-off	off-page	19	row	2	15,21									
@@ -239,7 +239,7 @@ adventurers-armory	ref/eq-misc/travelers-outfit	item	Traveler's outfit	3	3	cite-
 adventurers-armory	ref/eq-misc/weasel	item	Weasel	2	2	cite-off	off-page	19	row	2	16,21									
 adventurers-armory	ref/eq-misc/wig	item	Wig	2	2	cite-off	off-page	19	row	3	14,21,30									
 adventurers-armory	ref/eq-weapon/sawtooth-sabre	item	Sawtooth sabre	5	6	cite-off	off-page	33	row	1	18									
-adventurers-armory-2	ref/class/warpriest	class	Warpriest	3	7	uncited	absent		none	0										
+adventurers-armory-2	ref/class/warpriest	class	Warpriest	3	7	uncited	absent		none	0								remove	none	mention-only
 adventurers-armory-2	ref/arc-magus/kensai	archetype	Kensai	2	2	review	absent	11	row	0										
 adventurers-guide	ref/rule/optional-subsystems	rule	Optional Subsystems	1	10	hub-keep	absent		none	0										
 adventurers-guide	ref/spell/detect-magic-greater	spell	Greater Detect Magic	2	5	family-leak	absent	77	row	0		variant	ref/spell/detect-magic(title)					remove	77	wrong-credit-invalidated
@@ -308,7 +308,7 @@ animal-archive	ref/spell/scamper	spell	Scamper	2	2	review	absent	25	row	0
 animal-archive	ref/spell/sky-steed	spell	Sky Steed	2	2	review	absent	25	row	0										
 animal-archive	ref/magic-wondrous/figurine-of-wondrous-power	item	Figurines of Wondrous Power	13	15	weak	weak		none	1	3									
 aquatic-adventures	ref/rule/gm-specific-campaigns	rule	Specific Campaign Types	1	11	hub-keep	absent		none	0										
-aquatic-adventures	ref/ability/combat-styles	rule	Combat Styles	7	7	uncited	absent		none	0										
+aquatic-adventures	ref/ability/combat-styles	rule	Combat Styles	7	7	uncited	absent		none	0								keep	55	section-printed
 aquatic-adventures	ref/magic-wondrous/figurine-of-wondrous-power	item	Figurines of Wondrous Power	3	15	uncited	absent		none	0										
 aquatic-adventures	ref/magic-wondrous/figurine-of-wondrous-power-basalt-dragon	item	Figurine of Wondrous Power (Basalt Dragon)	3	15	weak	weak		none	1	62									
 aquatic-adventures	ref/magic-wondrous/figurine-of-wondrous-power-black-jade-raven	item	Figurine of Wondrous Power (Black Jade Raven)	3	15	weak	weak		none	1	62									
@@ -338,9 +338,9 @@ bestiary	ref/misc/damage-die-adjustments	rule	Damage Die Adjustments	1	3	hub-kee
 bestiary	ref/rule/gamemastery	rule	Gamemastery	3	8	hub-keep	weak		none	1	2									
 bestiary	ref/rule/rare-races	rule	Rare Races	7	19	hub-keep	absent		none	0										
 bestiary	ref/rule/slimes-molds-and-fungi	rule	Slimes, Molds, and Fungi	2	3	hub-keep	absent		none	0										
-bestiary	ref/affliction/shadow/shadow-blight	affliction	Shadow blight	1	2	family-leak	absent		none	0		parent	ref/monster/shadow(title)	yes	primary	undead-revisited	printed			
+bestiary	ref/affliction/shadow/shadow-blight	affliction	Shadow blight	1	2	family-leak	absent		none	0		parent	ref/monster/shadow(title)	yes	primary	undead-revisited	printed	remove	50	whole-book-absent-new-primary-printed
 bestiary	ref/affliction/zombie/deathspore-toxin	affliction	Deathspore Toxin	1	3	family-leak	absent		none	0		parent	ref/template/zombie(title)	yes	primary	horror-realms	printed			
-bestiary	ref/affliction/zombie/zombie-curse-su	affliction	Zombie Curse (Su)	1	3	family-leak	absent		none	0		parent	ref/template/zombie(title)	yes	primary	classic-horrors-revisited	printed			
+bestiary	ref/affliction/zombie/zombie-curse-su	affliction	Zombie Curse (Su)	1	3	family-leak	absent		none	0		parent	ref/template/zombie(title)	yes	primary	classic-horrors-revisited	printed	remove	55	whole-book-absent-new-primary-printed
 bestiary	ref/monster/moldering-emperor	creature	The Moldering Emperor	2	2	review	absent	214	row	0										
 bestiary	ref/monster/mummy	creature	Mummy	1	2	cite-off	off-page	110	row	8	4,210,300,317,318									
 bestiary-2	ref/affliction/xacarba/fiendish-bile	affliction	Fiendish Bile	1	2	weak	weak		none	1	288	parent	ref/monster/xacarba(title)	yes	primary	pathfinder-18-descent-into-midnight	unscreened			
@@ -389,11 +389,11 @@ blood-of-shadows	ref/racial-trait/gnome/hatred	racial_trait	Hatred	5	16	weak	wea
 blood-of-shadows	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	10	18	weak	weak		none	1	5	parent	ref/race/half-orc(title)	yes						
 blood-of-the-beast	ref/spell/suggestion-mass	spell	Mass Suggestion	2	3	family-leak	absent	14	row	0		variant	ref/spell/suggestion(title)					remove	14	wrong-credit-invalidated
 blood-of-the-beast	ref/spell/triggered-suggestion	spell	Triggered Suggestion	2	3	family-leak	absent	14	row	0		variant	ref/spell/suggestion(title)					remove	14	wrong-credit-invalidated
-blood-of-the-beast	ref/class/gunslinger	class	Gunslinger	8	8	uncited	absent		none	0										
-blood-of-the-beast	ref/class/samurai	class	Samurai	9	9	uncited	absent		none	0										
-blood-of-the-beast	ref/class/shifter	class	Shifter	3	5	uncited	absent		none	0										
-blood-of-the-beast	ref/class/unchained-barbarian	class	Unchained Barbarian	4	4	uncited	absent		none	0										
-blood-of-the-beast	ref/class/unchained-rogue	class	Unchained Rogue	4	4	uncited	absent		none	0										
+blood-of-the-beast	ref/class/gunslinger	class	Gunslinger	8	8	uncited	absent		none	0								remove	none	whole-book-absent
+blood-of-the-beast	ref/class/samurai	class	Samurai	9	9	uncited	absent		none	0								remove	none	whole-book-absent
+blood-of-the-beast	ref/class/shifter	class	Shifter	3	5	uncited	absent		none	0								remove	none	whole-book-absent
+blood-of-the-beast	ref/class/unchained-barbarian	class	Unchained Barbarian	4	4	uncited	absent		none	0								remove	none	whole-book-absent
+blood-of-the-beast	ref/class/unchained-rogue	class	Unchained Rogue	4	4	uncited	absent		none	0								remove	none	mention-only
 blood-of-the-beast	ref/class/barbarian	class	Barbarian	5	10	weak	weak		none	1	8									
 blood-of-the-beast	ref/class/warpriest	class	Warpriest	5	7	weak	weak		none	1	16									
 blood-of-the-beast	ref/rule/class-barbarian/barbarian	rule	Barbarian	5	10	weak	weak		none	1	8			yes						
@@ -401,7 +401,7 @@ blood-of-the-coven	ref/rule/feats-multiperson	rule	Multiperson Feats	3	3	hub-kee
 blood-of-the-coven	ref/affliction/hag-sea-hag/evil-eye-curse	affliction	Evil Eye Curse	2	2	family-leak	absent		none	0		parent	ref/monster/hag-sea-hag(title)	yes				remove	8, 27	passing-mention-recorded
 blood-of-the-coven	ref/affliction/hag-moon-hag/dreadful-ravings	affliction	Dreadful Ravings	2	2	inherited	absent		none	0				yes						
 blood-of-the-coven	ref/monster/hag-moon-hag	creature	Moon Hag	2	2	uncited	absent		none	0										
-blood-of-the-sea	ref/class/samurai	class	Samurai	5	9	uncited	absent		none	0										
+blood-of-the-sea	ref/class/samurai	class	Samurai	5	9	uncited	absent		none	0								remove	none	whole-book-absent
 blood-of-the-sea	ref/class/arcanist	class	Arcanist	4	8	weak	weak		none	1	5									
 blood-of-the-sea	ref/class/fighter	class	Fighter	4	10	weak	weak		none	1	5									
 blood-of-the-sea	ref/class/magus	class	Magus	5	10	weak	weak		none	1	5									
@@ -434,99 +434,99 @@ cohorts-and-companions	ref/rule/types-of-traits	rule	Types of Traits	5	6	hub-kee
 cohorts-and-companions	ref/rule/universal-path-abilities	rule	Universal Path Abilities	7	7	weak	weak		none	1	10									
 core-rulebook	ref/misc/damage-die-adjustments	rule	Damage Die Adjustments	3	3	hub-keep	absent		none	0										
 core-rulebook	ref/rule/specific-rulesets	rule	Specific Rulesets	8	11	hub-keep	absent		none	0										
-core-rulebook	ref/rule/ability-weapon-groups/firearms	rule	Firearms	1	2	family-leak	absent		none	0		parent	ref/ability/weapon-groups(title)	yes	primary	ultimate-wilderness	off-page			
-core-rulebook	ref/spell/air-walk-communal	spell	Communal Air Walk	1	2	family-leak	absent		none	0		variant	ref/spell/air-walk(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/align-weapon-communal	spell	Communal Align Weapon	1	2	family-leak	absent		none	0		variant	ref/spell/align-weapon(title)		primary	advanced-class-guide	body			
-core-rulebook	ref/spell/animate-dead-lesser	spell	Lesser Animate Dead	1	2	family-leak	absent		none	0		variant	ref/spell/animate-dead(title)		primary	ultimate-magic	body			
-core-rulebook	ref/spell/astral-projection-lesser	spell	Lesser Astral Projection	1	2	family-leak	absent		none	0		variant	ref/spell/astral-projection(title)		primary	ultimate-magic	body			
-core-rulebook	ref/spell/brightest-light	spell	Brightest Light	1	3	family-leak	absent		none	0		variant	ref/spell/daylight(title)		primary	adventurers-guide	printed			
-core-rulebook	ref/spell/burning-entanglement	spell	Burning Entanglement	1	4	family-leak	absent		none	0		variant	ref/spell/entangle(title)		primary	villain-codex	printed			
-core-rulebook	ref/spell/charm-fey	spell	Charm Fey	1	3	family-leak	absent		none	0		variant	ref/spell/charm-person(title)		primary	the-first-world-realm-of-the-fey	printed			
+core-rulebook	ref/rule/ability-weapon-groups/firearms	rule	Firearms	1	2	family-leak	absent		none	0		parent	ref/ability/weapon-groups(title)	yes	primary	ultimate-combat	printed	remove	45	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/air-walk-communal	spell	Communal Air Walk	1	2	family-leak	absent		none	0		variant	ref/spell/air-walk(title)		primary	ultimate-combat	body	remove	222	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/align-weapon-communal	spell	Communal Align Weapon	1	2	family-leak	absent		none	0		variant	ref/spell/align-weapon(title)		primary	advanced-class-guide	body	remove	173	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/animate-dead-lesser	spell	Lesser Animate Dead	1	2	family-leak	absent		none	0		variant	ref/spell/animate-dead(title)		primary	ultimate-magic	body	remove	205	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/astral-projection-lesser	spell	Lesser Astral Projection	1	2	family-leak	absent		none	0		variant	ref/spell/astral-projection(title)		primary	ultimate-magic	body	remove	207	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/brightest-light	spell	Brightest Light	1	3	family-leak	absent		none	0		variant	ref/spell/daylight(title)		primary	adventurers-guide	printed	remove	115	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/burning-entanglement	spell	Burning Entanglement	1	4	family-leak	absent		none	0		variant	ref/spell/entangle(title)		primary	villain-codex	printed	remove	140	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/charm-fey	spell	Charm Fey	1	3	family-leak	absent		none	0		variant	ref/spell/charm-person(title)		primary	the-first-world-realm-of-the-fey	printed	remove	12	whole-book-absent-new-primary-printed
 core-rulebook	ref/spell/conditional-curse	spell	Conditional Curse	1	4	family-leak	absent		none	0		variant	ref/spell/bestow-curse(title)		primary	pathfinder-82-secrets-of-the-sphinx	unscreened			
-core-rulebook	ref/spell/contagion-greater	spell	Greater Contagion	1	2	family-leak	absent		none	0		variant	ref/spell/contagion(title)		primary	ultimate-magic	body			
-core-rulebook	ref/spell/contagious-suggestion	spell	Contagious Suggestion	1	3	family-leak	absent		none	0		variant	ref/spell/suggestion(title)		primary	blood-of-the-beast	printed			
-core-rulebook	ref/spell/controlled-fireball	spell	Controlled Fireball	1	2	family-leak	absent		none	0		variant	ref/spell/fireball(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/cyclic-reincarnation	spell	Cyclic Reincarnation	1	4	family-leak	absent		none	0		variant	ref/spell/reincarnate(title)		primary	arcane-anthology	printed			
-core-rulebook	ref/spell/darkvision-communal	spell	Communal Darkvision	1	3	family-leak	absent		none	0		variant	ref/spell/darkvision(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/darkvision-greater	spell	Greater Darkvision	1	3	family-leak	absent		none	0		variant	ref/spell/darkvision(title)		primary	ultimate-magic	body			
-core-rulebook	ref/spell/daze-mass	spell	Mass Daze	1	2	family-leak	absent		none	0		variant	ref/spell/daze(title)		primary	ultimate-magic	body			
-core-rulebook	ref/spell/deadmans-contingency	spell	Deadman's Contingency	1	2	family-leak	absent		none	0		variant	ref/spell/contingency(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/delay-poison-communal	spell	Communal Delay Poison	1	2	family-leak	absent		none	0		variant	ref/spell/delay-poison(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/demanding-message	spell	Demanding Message	1	2	family-leak	absent		none	0		variant	ref/spell/message(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/detect-aberration	spell	Detect Aberration	1	2	family-leak	absent		none	0		variant	ref/spell/detect-animals-or-plants(title)		primary	advanced-players-guide	printed			
-core-rulebook	ref/spell/detect-anxieties	spell	Detect Anxieties	1	2	family-leak	absent		none	0		variant	ref/spell/detect-thoughts(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/detect-charm	spell	Detect Charm	1	5	family-leak	absent		none	0		variant	ref/spell/detect-magic(title)		primary	adventurers-guide	printed			
-core-rulebook	ref/spell/detect-desires	spell	Detect Desires	1	2	family-leak	absent		none	0		variant	ref/spell/detect-thoughts(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/disguise-other	spell	Disguise Other	1	2	family-leak	absent		none	0		variant	ref/spell/disguise-self(title)		primary	ultimate-magic	printed			
-core-rulebook	ref/spell/endure-elements-communal	spell	Communal Endure Elements	1	2	family-leak	absent		none	0		variant	ref/spell/endure-elements(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/escape-alarm	spell	Escape Alarm	1	3	family-leak	absent		none	0		variant	ref/spell/alarm(title)		primary	villain-codex	printed			
-core-rulebook	ref/spell/false-life-greater	spell	Greater False Life	1	2	family-leak	absent		none	0		variant	ref/spell/false-life(title)		primary	ultimate-magic	body			
-core-rulebook	ref/spell/false-resurrection	spell	False Resurrection	1	2	family-leak	absent		none	0		variant	ref/spell/resurrection(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/false-vision-greater	spell	Greater False Vision	1	2	family-leak	absent		none	0		variant	ref/spell/false-vision(title)		primary	ultimate-intrigue	body			
-core-rulebook	ref/spell/familiar-double	spell	Familiar Double	1	2	family-leak	absent		none	0		variant	ref/spell/project-image(title)		primary	advanced-class-guide	printed			
-core-rulebook	ref/spell/fey-gate	spell	Fey Gate	1	3	family-leak	absent		none	0		variant	ref/spell/gate(title)		primary	ultimate-wilderness	printed			
-core-rulebook	ref/spell/flaming-sphere-greater	spell	Greater Flaming Sphere	1	2	family-leak	absent		none	0		variant	ref/spell/flaming-sphere(title)		primary	advanced-class-guide	body			
-core-rulebook	ref/spell/flare-burst	spell	Flare Burst	1	2	family-leak	absent		none	0		variant	ref/spell/flare(title)		primary	advanced-players-guide	printed			
-core-rulebook	ref/spell/fly-mass	spell	Mass Fly	1	2	family-leak	absent		none	0		variant	ref/spell/fly(title)		primary	advanced-players-guide	body			
-core-rulebook	ref/spell/glimpse-of-truth	spell	Glimpse of Truth	1	2	family-leak	absent		none	0		variant	ref/spell/true-seeing(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/grasping-tentacles	spell	Grasping Tentacles	1	2	family-leak	absent		none	0		variant	ref/spell/black-tentacles(title)		primary	dirty-tactics-toolbox	printed			
-core-rulebook	ref/spell/grease-greater	spell	Greater Grease	1	2	family-leak	absent		none	0		variant	ref/spell/grease(title)		primary	dirty-tactics-toolbox	body			
-core-rulebook	ref/spell/hide-from-undead-greater	spell	Greater Hide from Undead	1	2	family-leak	absent		none	0		variant	ref/spell/hide-from-undead(title)		primary	people-of-the-wastes	body			
-core-rulebook	ref/spell/hold-fey	spell	Hold Fey	1	2	family-leak	absent		none	0		variant	ref/spell/hold-person(title)		primary	the-first-world-realm-of-the-fey	printed			
-core-rulebook	ref/spell/hollow-heroism-greater	spell	Greater Hollow Heroism	1	2	family-leak	absent		none	0		variant	ref/spell/heroism-greater(body)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/hypnotism-greater	spell	Greater Hypnotism	1	2	family-leak	absent		none	0		variant	ref/spell/hypnotism(title)		primary	blood-of-the-beast	printed			
-core-rulebook	ref/spell/instant-summons-greater	spell	Greater Instant Summons	1	2	family-leak	absent		none	0		variant	ref/spell/instant-summons(title)		primary	ultimate-intrigue	body			
-core-rulebook	ref/spell/jannis-jaunt	spell	Janni's Jaunt	1	2	family-leak	absent		none	0		variant	ref/spell/plane-shift(title)		primary	planes-of-power	printed			
-core-rulebook	ref/spell/knock-mass	spell	Mass Knock	1	2	family-leak	absent		none	0		variant	ref/spell/knock(title)		primary	inner-sea-temples	body			
-core-rulebook	ref/spell/longstrider-greater	spell	Greater Longstrider	1	2	family-leak	absent		none	0		variant	ref/spell/longstrider(title)		primary	advanced-class-guide	body			
-core-rulebook	ref/spell/magic-aura-greater	spell	Greater Magic Aura	1	3	family-leak	absent		none	0		variant	ref/spell/magic-aura(title)		primary	ultimate-intrigue	body			
-core-rulebook	ref/spell/mind-blank-communal	spell	Communal Mind Blank	1	2	family-leak	absent		none	0		variant	ref/spell/mind-blank(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/mount-communal	spell	Communal Mount	1	2	family-leak	absent		none	0		variant	ref/spell/mount(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/neutralize-poison-greater	spell	Greater Neutralize Poison	1	2	family-leak	absent		none	0		variant	ref/spell/neutralize-poison(title)		primary	dirty-tactics-toolbox	body			
-core-rulebook	ref/spell/nexs-secret-workshop	spell	Nex's Secret Workshop	1	3	family-leak	absent		none	0		variant	ref/spell/nondetection(title)		primary	inner-sea-intrigue	printed			
-core-rulebook	ref/spell/nondetection-communal	spell	Communal Nondetection	1	3	family-leak	absent		none	0		variant	ref/spell/nondetection(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/phantom-steed-communal	spell	Communal Phantom Steed	1	3	family-leak	absent		none	0		variant	ref/spell/phantom-steed(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/phase-step	spell	Phase Step	1	2	family-leak	absent		none	0		variant	ref/spell/dimension-door(title)		primary	potions-and-poisons	printed			
-core-rulebook	ref/spell/planar-inquiry	spell	Planar Inquiry	1	3	family-leak	absent		none	0		variant	ref/spell/planar-ally-lesser(title)		primary	adventurers-guide	printed			
-core-rulebook	ref/spell/prognostication	spell	Prognostication	1	2	family-leak	absent		none	0		variant	ref/spell/divination(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/rain-of-frogs	spell	Rain of Frogs	1	2	family-leak	absent		none	0		variant	ref/spell/summon-swarm(title)		primary	ultimate-magic	printed			
-core-rulebook	ref/spell/raise-animal-companion	spell	Raise Animal Companion	1	2	family-leak	absent		none	0		variant	ref/spell/raise-dead(title)		primary	ultimate-magic	printed			
-core-rulebook	ref/spell/ray-of-sickening	spell	Ray of Sickening	1	3	family-leak	absent		none	0		variant	ref/spell/ray-of-exhaustion(title)		primary	ultimate-magic	printed			
-core-rulebook	ref/spell/reincarnate-spy	spell	Reincarnate Spy	1	4	family-leak	absent		none	0		variant	ref/spell/reincarnate(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/resist-energy-communal	spell	Communal Resist Energy	1	2	family-leak	absent		none	0		variant	ref/spell/resist-energy(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/secret-coffer	spell	Secret Coffer	1	3	family-leak	absent		none	0		variant	ref/spell/secret-chest(title)		primary	black-markets	printed			
-core-rulebook	ref/spell/secret-vault	spell	Secret Vault	1	3	family-leak	absent		none	0		variant	ref/spell/secret-chest(title)		primary	black-markets	printed			
-core-rulebook	ref/spell/selective-alarm	spell	Selective Alarm	1	3	family-leak	absent		none	0		variant	ref/spell/alarm(title)		primary	ultimate-intrigue	printed			
+core-rulebook	ref/spell/contagion-greater	spell	Greater Contagion	1	2	family-leak	absent		none	0		variant	ref/spell/contagion(title)		primary	ultimate-magic	body	remove	211	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/contagious-suggestion	spell	Contagious Suggestion	1	3	family-leak	absent		none	0		variant	ref/spell/suggestion(title)		primary	blood-of-the-beast	printed	remove	14	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/controlled-fireball	spell	Controlled Fireball	1	2	family-leak	absent		none	0		variant	ref/spell/fireball(title)		primary	ultimate-intrigue	printed	remove	208	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/cyclic-reincarnation	spell	Cyclic Reincarnation	1	4	family-leak	absent		none	0		variant	ref/spell/reincarnate(title)		primary	arcane-anthology	printed	remove	13	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/darkvision-communal	spell	Communal Darkvision	1	3	family-leak	absent		none	0		variant	ref/spell/darkvision(title)		primary	ultimate-combat	body	remove	226	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/darkvision-greater	spell	Greater Darkvision	1	3	family-leak	absent		none	0		variant	ref/spell/darkvision(title)		primary	ultimate-magic	body	remove	216	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/daze-mass	spell	Mass Daze	1	2	family-leak	absent		none	0		variant	ref/spell/daze(title)		primary	ultimate-magic	body	remove	216	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/deadmans-contingency	spell	Deadman's Contingency	1	2	family-leak	absent		none	0		variant	ref/spell/contingency(title)		primary	ultimate-intrigue	printed	remove	210	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/delay-poison-communal	spell	Communal Delay Poison	1	2	family-leak	absent		none	0		variant	ref/spell/delay-poison(title)		primary	ultimate-combat	body	remove	227	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/demanding-message	spell	Demanding Message	1	2	family-leak	absent		none	0		variant	ref/spell/message(title)		primary	ultimate-intrigue	printed	remove	210	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/detect-aberration	spell	Detect Aberration	1	2	family-leak	absent		none	0		variant	ref/spell/detect-animals-or-plants(title)		primary	advanced-players-guide	printed	remove	215	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/detect-anxieties	spell	Detect Anxieties	1	2	family-leak	absent		none	0		variant	ref/spell/detect-thoughts(title)		primary	ultimate-intrigue	printed	remove	211	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/detect-charm	spell	Detect Charm	1	5	family-leak	absent		none	0		variant	ref/spell/detect-magic(title)		primary	adventurers-guide	printed	remove	77	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/detect-desires	spell	Detect Desires	1	2	family-leak	absent		none	0		variant	ref/spell/detect-thoughts(title)		primary	ultimate-intrigue	printed	remove	211	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/disguise-other	spell	Disguise Other	1	2	family-leak	absent		none	0		variant	ref/spell/disguise-self(title)		primary	ultimate-magic	printed	remove	217	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/endure-elements-communal	spell	Communal Endure Elements	1	2	family-leak	absent		none	0		variant	ref/spell/endure-elements(title)		primary	ultimate-combat	body	remove	228	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/escape-alarm	spell	Escape Alarm	1	3	family-leak	absent		none	0		variant	ref/spell/alarm(title)		primary	villain-codex	printed	remove	45	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/false-life-greater	spell	Greater False Life	1	2	family-leak	absent		none	0		variant	ref/spell/false-life(title)		primary	ultimate-magic	body	remove	219	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/false-resurrection	spell	False Resurrection	1	2	family-leak	absent		none	0		variant	ref/spell/resurrection(title)		primary	ultimate-intrigue	printed	remove	214	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/false-vision-greater	spell	Greater False Vision	1	2	family-leak	absent		none	0		variant	ref/spell/false-vision(title)		primary	ultimate-intrigue	body	remove	214	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/familiar-double	spell	Familiar Double	1	2	family-leak	absent		none	0		variant	ref/spell/project-image(title)		primary	advanced-class-guide	printed	remove	181	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/fey-gate	spell	Fey Gate	1	3	family-leak	absent		none	0		variant	ref/spell/gate(title)		primary	ultimate-wilderness	printed	remove	230	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/flaming-sphere-greater	spell	Greater Flaming Sphere	1	2	family-leak	absent		none	0		variant	ref/spell/flaming-sphere(title)		primary	advanced-class-guide	body	remove	182	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/flare-burst	spell	Flare Burst	1	2	family-leak	absent		none	0		variant	ref/spell/flare(title)		primary	advanced-players-guide	printed	remove	223	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/fly-mass	spell	Mass Fly	1	2	family-leak	absent		none	0		variant	ref/spell/fly(title)		primary	advanced-players-guide	body	remove	223	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/glimpse-of-truth	spell	Glimpse of Truth	1	2	family-leak	absent		none	0		variant	ref/spell/true-seeing(title)		primary	ultimate-intrigue	printed	remove	215	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/grasping-tentacles	spell	Grasping Tentacles	1	2	family-leak	absent		none	0		variant	ref/spell/black-tentacles(title)		primary	dirty-tactics-toolbox	printed	remove	30	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/grease-greater	spell	Greater Grease	1	2	family-leak	absent		none	0		variant	ref/spell/grease(title)		primary	dirty-tactics-toolbox	body	remove	30	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/hide-from-undead-greater	spell	Greater Hide from Undead	1	2	family-leak	absent		none	0		variant	ref/spell/hide-from-undead(title)		primary	people-of-the-wastes	body	remove	29	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/hold-fey	spell	Hold Fey	1	2	family-leak	absent		none	0		variant	ref/spell/hold-person(title)		primary	the-first-world-realm-of-the-fey	printed	remove	12	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/hollow-heroism-greater	spell	Greater Hollow Heroism	1	2	family-leak	absent		none	0		variant	ref/spell/heroism-greater(body)		primary	ultimate-intrigue	printed	remove	216	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/hypnotism-greater	spell	Greater Hypnotism	1	2	family-leak	absent		none	0		variant	ref/spell/hypnotism(title)		primary	blood-of-the-beast	printed	remove	19	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/instant-summons-greater	spell	Greater Instant Summons	1	2	family-leak	absent		none	0		variant	ref/spell/instant-summons(title)		primary	ultimate-intrigue	body	remove	217	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/jannis-jaunt	spell	Janni's Jaunt	1	2	family-leak	absent		none	0		variant	ref/spell/plane-shift(title)		primary	planes-of-power	printed	remove	9	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/knock-mass	spell	Mass Knock	1	2	family-leak	absent		none	0		variant	ref/spell/knock(title)		primary	inner-sea-temples	body	remove	23	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/longstrider-greater	spell	Greater Longstrider	1	2	family-leak	absent		none	0		variant	ref/spell/longstrider(title)		primary	advanced-class-guide	body	remove	186	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/magic-aura-greater	spell	Greater Magic Aura	1	3	family-leak	absent		none	0		variant	ref/spell/magic-aura(title)		primary	ultimate-intrigue	body	remove	219	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/mind-blank-communal	spell	Communal Mind Blank	1	2	family-leak	absent		none	0		variant	ref/spell/mind-blank(title)		primary	ultimate-combat	body	remove	236	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/mount-communal	spell	Communal Mount	1	2	family-leak	absent		none	0		variant	ref/spell/mount(title)		primary	ultimate-combat	body	remove	237	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/neutralize-poison-greater	spell	Greater Neutralize Poison	1	2	family-leak	absent		none	0		variant	ref/spell/neutralize-poison(title)		primary	dirty-tactics-toolbox	body	remove	28	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/nexs-secret-workshop	spell	Nex's Secret Workshop	1	3	family-leak	absent		none	0		variant	ref/spell/nondetection(title)		primary	inner-sea-intrigue	printed	remove	60	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/nondetection-communal	spell	Communal Nondetection	1	3	family-leak	absent		none	0		variant	ref/spell/nondetection(title)		primary	ultimate-combat	body	remove	238	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/phantom-steed-communal	spell	Communal Phantom Steed	1	3	family-leak	absent		none	0		variant	ref/spell/phantom-steed(title)		primary	ultimate-combat	body	remove	239	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/phase-step	spell	Phase Step	1	2	family-leak	absent		none	0		variant	ref/spell/dimension-door(title)		primary	potions-and-poisons	printed	remove	17	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/planar-inquiry	spell	Planar Inquiry	1	3	family-leak	absent		none	0		variant	ref/spell/planar-ally-lesser(title)		primary	adventurers-guide	printed	remove	125	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/prognostication	spell	Prognostication	1	2	family-leak	absent		none	0		variant	ref/spell/divination(title)		primary	ultimate-intrigue	printed	remove	223	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/rain-of-frogs	spell	Rain of Frogs	1	2	family-leak	absent		none	0		variant	ref/spell/summon-swarm(title)		primary	ultimate-magic	printed	remove	233	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/raise-animal-companion	spell	Raise Animal Companion	1	2	family-leak	absent		none	0		variant	ref/spell/raise-dead(title)		primary	ultimate-magic	printed	remove	233	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/ray-of-sickening	spell	Ray of Sickening	1	3	family-leak	absent		none	0		variant	ref/spell/ray-of-exhaustion(title)		primary	ultimate-magic	printed	remove	234	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/reincarnate-spy	spell	Reincarnate Spy	1	4	family-leak	absent		none	0		variant	ref/spell/reincarnate(title)		primary	ultimate-intrigue	printed	remove	223	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/resist-energy-communal	spell	Communal Resist Energy	1	2	family-leak	absent		none	0		variant	ref/spell/resist-energy(title)		primary	ultimate-combat	body	remove	242	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/secret-coffer	spell	Secret Coffer	1	3	family-leak	absent		none	0		variant	ref/spell/secret-chest(title)		primary	black-markets	printed	remove	31	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/secret-vault	spell	Secret Vault	1	3	family-leak	absent		none	0		variant	ref/spell/secret-chest(title)		primary	black-markets	printed	remove	31	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/selective-alarm	spell	Selective Alarm	1	3	family-leak	absent		none	0		variant	ref/spell/alarm(title)		primary	ultimate-intrigue	printed	remove	224	whole-book-absent-new-primary-printed
 core-rulebook	ref/spell/shield-companion-aa	spell	Shield Companion (AA)	1	2	family-leak	absent		none	0		variant	ref/spell/shield-other(title)		primary	(none)				
-core-rulebook	ref/spell/sickening-entanglement	spell	Sickening Entanglement	1	4	family-leak	absent		none	0		variant	ref/spell/entangle(title)		primary	advanced-class-guide	printed			
-core-rulebook	ref/spell/signs-of-the-land	spell	Signs of the Land	1	3	family-leak	absent		none	0		variant	ref/spell/commune(title)		primary	ultimate-wilderness	printed			
-core-rulebook	ref/spell/simulacrum-lesser	spell	Lesser Simulacrum	1	2	family-leak	absent		none	0		variant	ref/spell/simulacrum(title)		primary	ultimate-magic	body			
-core-rulebook	ref/spell/song-of-discord-greater	spell	Greater Song of Discord	1	2	family-leak	absent		none	0		variant	ref/spell/song-of-discord(title)		primary	chronicle-of-legends	body			
-core-rulebook	ref/spell/soul-transfer	spell	Soul Transfer	1	3	family-leak	absent		none	0		variant	ref/spell/trap-the-soul(title)		primary	book-of-the-damned	printed			
-core-rulebook	ref/spell/source-severance	spell	Source Severance	1	2	family-leak	absent		none	0		variant	ref/spell/antimagic-field(title)		primary	faiths-and-philosophies	body			
-core-rulebook	ref/spell/speak-with-waves	spell	Speak with Waves	1	2	family-leak	absent		none	0		variant	ref/spell/stone-tell(title)		primary	elemental-masters-handbook	printed			
-core-rulebook	ref/spell/spell-immunity-greater-communal	spell	Greater Communal Spell Immunity	1	2	family-leak	absent		none	0		variant	ref/spell/spell-immunity-greater(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/spider-climb-communal	spell	Communal Spider Climb	1	2	family-leak	absent		none	0		variant	ref/spell/spider-climb(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/stoneskin-communal	spell	Communal Stoneskin	1	3	family-leak	absent		none	0		variant	ref/spell/stoneskin(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/summon-kami	spell	Summon Kami	1	2	family-leak	absent		none	0		variant	ref/spell/summon-natures-ally-5(title)		primary	inner-sea-races	printed			
-core-rulebook	ref/spell/symbol-of-storms	spell	Symbol of Storms	1	2	family-leak	absent		none	0		variant	ref/spell/symbol-of-death(title)		primary	blood-of-the-ancients	printed			
-core-rulebook	ref/spell/sympathetic-aura	spell	Sympathetic Aura	1	3	family-leak	absent		none	0		variant	ref/spell/magic-aura(title)		primary	adventurers-guide	printed			
+core-rulebook	ref/spell/sickening-entanglement	spell	Sickening Entanglement	1	4	family-leak	absent		none	0		variant	ref/spell/entangle(title)		primary	advanced-class-guide	printed	remove	192	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/signs-of-the-land	spell	Signs of the Land	1	3	family-leak	absent		none	0		variant	ref/spell/commune(title)		primary	ultimate-wilderness	printed	remove	235	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/simulacrum-lesser	spell	Lesser Simulacrum	1	2	family-leak	absent		none	0		variant	ref/spell/simulacrum(title)		primary	ultimate-magic	body	remove	238	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/song-of-discord-greater	spell	Greater Song of Discord	1	2	family-leak	absent		none	0		variant	ref/spell/song-of-discord(title)		primary	chronicle-of-legends	body	remove	14	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/soul-transfer	spell	Soul Transfer	1	3	family-leak	absent		none	0		variant	ref/spell/trap-the-soul(title)		primary	book-of-the-damned	printed	remove	186	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/source-severance	spell	Source Severance	1	2	family-leak	absent		none	0		variant	ref/spell/antimagic-field(title)		primary	faiths-and-philosophies	body	remove	29	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/speak-with-waves	spell	Speak with Waves	1	2	family-leak	absent		none	0		variant	ref/spell/stone-tell(title)		primary	elemental-masters-handbook	printed	remove	14	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/spell-immunity-greater-communal	spell	Greater Communal Spell Immunity	1	2	family-leak	absent		none	0		variant	ref/spell/spell-immunity-greater(title)		primary	ultimate-combat	body	remove	245	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/spider-climb-communal	spell	Communal Spider Climb	1	2	family-leak	absent		none	0		variant	ref/spell/spider-climb(title)		primary	ultimate-combat	body	remove	245	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/stoneskin-communal	spell	Communal Stoneskin	1	3	family-leak	absent		none	0		variant	ref/spell/stoneskin(title)		primary	ultimate-combat	body	remove	245	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/summon-kami	spell	Summon Kami	1	2	family-leak	absent		none	0		variant	ref/spell/summon-natures-ally-5(title)		primary	inner-sea-races	printed	remove	223	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/symbol-of-storms	spell	Symbol of Storms	1	2	family-leak	absent		none	0		variant	ref/spell/symbol-of-death(title)		primary	blood-of-the-ancients	printed	remove	28	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/sympathetic-aura	spell	Sympathetic Aura	1	3	family-leak	absent		none	0		variant	ref/spell/magic-aura(title)		primary	adventurers-guide	printed	remove	37	whole-book-absent-new-primary-printed
 core-rulebook	ref/spell/tectonic-communion	spell	Tectonic Communion	1	3	family-leak	absent		none	0		variant	ref/spell/commune(title)		primary	faiths-and-philosophies	printed			
-core-rulebook	ref/spell/thirsting-entanglement	spell	Thirsting Entanglement	1	4	family-leak	absent		none	0		variant	ref/spell/entangle(title)		primary	advanced-class-guide	body			
-core-rulebook	ref/spell/thorny-entanglement	spell	Thorny Entanglement	1	4	family-leak	absent		none	0		variant	ref/spell/entangle(title)		primary	advanced-class-guide	printed			
-core-rulebook	ref/spell/tongues-communal	spell	Communal Tongues	1	2	family-leak	absent		none	0		variant	ref/spell/tongues(title)		primary	ultimate-combat	body			
-core-rulebook	ref/spell/treacherous-teleport	spell	Treacherous Teleport	1	2	family-leak	absent		none	0		variant	ref/spell/teleport(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/triggered-suggestion	spell	Triggered Suggestion	1	3	family-leak	absent		none	0		variant	ref/spell/suggestion(title)		primary	advanced-class-guide	printed			
-core-rulebook	ref/spell/true-prognostication	spell	True Prognostication	1	2	family-leak	absent		none	0		variant	ref/spell/divination(title)		primary	ultimate-intrigue	printed			
-core-rulebook	ref/spell/undeath-sense	spell	Undeath Sense	1	2	family-leak	absent		none	0		variant	ref/spell/detect-undead(title)		primary	potions-and-poisons	printed			
-core-rulebook	ref/spell/wandering-weather	spell	Wandering Weather	1	2	family-leak	absent		none	0		variant	ref/spell/control-weather(title)		primary	ultimate-wilderness	printed			
-core-rulebook	ref/spell/water-walk-communal	spell	Communal Water Walk	1	2	family-leak	absent		none	0		variant	ref/spell/water-walk(title)		primary	ultimate-combat	body			
+core-rulebook	ref/spell/thirsting-entanglement	spell	Thirsting Entanglement	1	4	family-leak	absent		none	0		variant	ref/spell/entangle(title)		primary	advanced-class-guide	body	remove	192	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/thorny-entanglement	spell	Thorny Entanglement	1	4	family-leak	absent		none	0		variant	ref/spell/entangle(title)		primary	advanced-class-guide	printed	remove	196	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/tongues-communal	spell	Communal Tongues	1	2	family-leak	absent		none	0		variant	ref/spell/tongues(title)		primary	ultimate-combat	body	remove	248	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/treacherous-teleport	spell	Treacherous Teleport	1	2	family-leak	absent		none	0		variant	ref/spell/teleport(title)		primary	ultimate-intrigue	printed	remove	227	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/triggered-suggestion	spell	Triggered Suggestion	1	3	family-leak	absent		none	0		variant	ref/spell/suggestion(title)		primary	advanced-class-guide	printed	remove	197	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/true-prognostication	spell	True Prognostication	1	2	family-leak	absent		none	0		variant	ref/spell/divination(title)		primary	ultimate-intrigue	printed	remove	228	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/undeath-sense	spell	Undeath Sense	1	2	family-leak	absent		none	0		variant	ref/spell/detect-undead(title)		primary	potions-and-poisons	printed	remove	18	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/wandering-weather	spell	Wandering Weather	1	2	family-leak	absent		none	0		variant	ref/spell/control-weather(title)		primary	ultimate-wilderness	printed	remove	237	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/water-walk-communal	spell	Communal Water Walk	1	2	family-leak	absent		none	0		variant	ref/spell/water-walk(title)		primary	ultimate-combat	body	remove	249	whole-book-absent-new-primary-printed
 core-rulebook	ref/magic-wondrous/medallion-of-sar-gorog	item	Medallion of Sar-Gorog	3	3	uncited	absent		none	0										
-core-rulebook	ref/monster/devil-cabal-devil-uniila	creature	Cabal Devil (Uniila)	2	2	uncited	absent		none	0										
+core-rulebook	ref/monster/devil-cabal-devil-uniila	creature	Cabal Devil (Uniila)	2	2	uncited	absent		none	0								remove	none	whole-book-absent
 core-rulebook	ref/rule/traits-and-other-details	rule	Filling Out the Details	1	3	uncited	absent		none	0					primary	(none)				
-core-rulebook	ref/spell/clay-skin	spell	Clay Skin	1	3	uncited	absent		none	0					primary	potions-and-poisons	printed			
-core-rulebook	ref/spell/demanding-message-mass	spell	Mass Demanding Message	1	2	uncited	absent		none	0					primary	ultimate-intrigue	body			
-core-rulebook	ref/spell/false-resurrection-greater	spell	Greater False Resurrection	1	2	uncited	absent		none	0					primary	ultimate-intrigue	printed			
+core-rulebook	ref/spell/clay-skin	spell	Clay Skin	1	3	uncited	absent		none	0					primary	potions-and-poisons	printed	remove	17	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/demanding-message-mass	spell	Mass Demanding Message	1	2	uncited	absent		none	0					primary	ultimate-intrigue	body	remove	210	whole-book-absent-new-primary-printed
+core-rulebook	ref/spell/false-resurrection-greater	spell	Greater False Resurrection	1	2	uncited	absent		none	0					primary	ultimate-intrigue	printed	remove	214	whole-book-absent-new-primary-printed
 core-rulebook	ref/eq-misc/tear-away-cold-weather-outfit	item	Tear-away cold-weather outfit	3	4	review	absent	159	row	0										
 core-rulebook	ref/eq-misc/tear-away-peasants-outfit	item	Tear-away peasant's outfit	2	3	review	absent	159	row	0										
 core-rulebook	ref/eq-misc/tear-away-royal-outfit	item	Tear-away royal outfit	2	3	review	absent	159	row	0										
@@ -563,7 +563,7 @@ darklands-revisited	ref/racial-trait/half-elf/low-light-vision	racial_trait	Low-
 darklands-revisited	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	9	18	weak	weak		none	1	37	parent	ref/race/half-elf(title)	yes						
 demon-hunters-handbook	ref/trait/exposed-to-awfulness	trait	Exposed to Awfulness	2	2	weak	weak		none	1	3									
 disciples-doctrine	ref/ability/combat-styles	rule	Combat Styles	4	7	weak	weak		none	1	5									
-distant-shores	ref/rule/universal-path-abilities	rule	Universal Path Abilities	4	7	uncited	absent		none	0										
+distant-shores	ref/rule/universal-path-abilities	rule	Universal Path Abilities	4	7	uncited	absent		none	0								keep	12	section-printed
 divine-anthology	ref/rule/basics	rule	Basics	5	5	hub-keep	absent		none	0										
 divine-anthology	ref/rule/gamemastery	rule	Gamemastery	7	8	hub-keep	absent		none	0										
 dragon-empires-primer	ref/ability/arcane-schools	rule	Arcane Schools	7	7	hub-keep	absent		none	0										
@@ -611,7 +611,7 @@ faiths-of-purity	ref/trait/lessons-of-chaldira	trait	Lessons of Chaldira	2	2	wea
 faiths-of-purity	ref/trait/purity-of-faith	trait	Purity of Faith	2	2	weak	weak		none	1	11									
 faiths-of-purity	ref/trait/the-flexing-arm	trait	The Flexing Arm	2	2	weak	weak		none	1	18									
 gnomes-of-golarion	ref/eq-weapon/stormshaft-javelin	item	Stormshaft javelin	2	2	review	absent	22	row	0										
-goblins-of-golarion	ref/class/samurai	class	Samurai	7	9	uncited	absent		none	0										
+goblins-of-golarion	ref/class/samurai	class	Samurai	7	9	uncited	absent		none	0								remove	none	whole-book-absent
 heroes-from-the-fringe	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	4	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	4-6, 8-9	race-section-read-no-trait
 heroes-from-the-fringe	ref/racial-trait/dwarf/slow-and-steady	racial_trait	Slow and Steady	4	17	family-leak	absent		none	0		parent	ref/race/dwarf(title)	yes				remove	4-6, 8-9	race-section-read-no-trait
 heroes-from-the-fringe	ref/racial-trait/elf/attributes	racial_trait	Attributes	4	17	family-leak	absent		none	0		parent	ref/race/elf(title)	yes				remove	10-12, 21-22	race-section-read-no-trait
@@ -636,13 +636,13 @@ heroes-from-the-fringe	ref/racial-trait/half-orc/darkvision	racial_trait	Darkvis
 heroes-from-the-fringe	ref/racial-trait/halfling/fearless	racial_trait	Fearless	4	17	weak	weak		none	1	28	parent	ref/race/halfling(title)	yes						
 heroes-from-the-fringe	ref/racial-trait/halfling/sure-footed	racial_trait	Sure-Footed	4	17	weak	weak		none	1	28	parent	ref/race/halfling(title)	yes						
 heroes-from-the-fringe	ref/spell/spirit-bound-blade	spell	Spirit-Bound Blade	4	4	weak	weak		none	1	19									
-heroes-of-golarion	ref/rule/archmage-1	rule	1st-Tier Archmage Path Abilities	4	4	review	absent	29	row	0										
-heroes-of-golarion	ref/rule/champion-1	rule	1st-Tier Champion Path Abilities	4	4	review	absent	30	row	0										
-heroes-of-golarion	ref/rule/guardian-1	rule	1st-Tier Guardian Path Abilities	4	4	review	absent	30	row	0										
-heroes-of-golarion	ref/rule/hierophant-1	rule	1st-Tier Hierophant Path Abilities	3	3	review	absent	29	row	0										
-heroes-of-golarion	ref/rule/marshal-2-1	rule	1st-Tier Marshal Path Abilities	3	3	review	absent	30	row	0										
-heroes-of-golarion	ref/rule/trickster-1	rule	1st-Tier Trickster Path Abilities	3	3	review	absent	30	row	0										
-heroes-of-golarion	ref/rule/upa-1	rule	1st-Tier Universal Path Abilities	6	6	review	absent	31	row	0										
+heroes-of-golarion	ref/rule/archmage-1	rule	1st-Tier Archmage Path Abilities	4	4	review	absent	29	row	0								keep	29	section-printed
+heroes-of-golarion	ref/rule/champion-1	rule	1st-Tier Champion Path Abilities	4	4	review	absent	30	row	0								keep	30	section-printed
+heroes-of-golarion	ref/rule/guardian-1	rule	1st-Tier Guardian Path Abilities	4	4	review	absent	30	row	0								keep	30	section-printed
+heroes-of-golarion	ref/rule/hierophant-1	rule	1st-Tier Hierophant Path Abilities	3	3	review	absent	29	row	0								keep	29	section-printed
+heroes-of-golarion	ref/rule/marshal-2-1	rule	1st-Tier Marshal Path Abilities	3	3	review	absent	30	row	0								keep	30	section-printed
+heroes-of-golarion	ref/rule/trickster-1	rule	1st-Tier Trickster Path Abilities	3	3	review	absent	30	row	0								keep	30	section-printed
+heroes-of-golarion	ref/rule/upa-1	rule	1st-Tier Universal Path Abilities	6	6	review	absent	31	row	0								keep	31	section-printed
 heroes-of-golarion	ref/class/magus	class	Magus	10	10	weak	weak		none	1	6									
 heroes-of-golarion	ref/class/paladin	class	Paladin	8	12	weak	weak		none	1	6									
 heroes-of-golarion	ref/eq-weapon/alchemical-cartridge	item	Alchemical cartridge	3	4	weak	weak		none	1	18									
@@ -695,7 +695,7 @@ heroes-of-the-high-court	ref/racial-trait/half-orc/normal-speed	racial_trait	Nor
 heroes-of-the-high-court	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	8	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
 heroes-of-the-high-court	ref/racial-trait/half-orc/orc-ferocity	racial_trait	Orc Ferocity	8	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
 heroes-of-the-high-court	ref/racial-trait/half-orc/weapon-familiarity	racial_trait	Weapon Familiarity	8	18	inherited	absent		none	0				yes				remove	15	race-section-read-no-trait
-heroes-of-the-high-court	ref/hex/cackle	class_option	Cackle	4	5	uncited	absent		none	0										
+heroes-of-the-high-court	ref/hex/cackle	class_option	Cackle	4	5	uncited	absent		none	0								remove	9	mention-only
 heroes-of-the-high-court	ref/hex/soothsayer	class_option	Soothsayer	2	2	weak	weak		none	1	17									
 heroes-of-the-high-court	ref/race/half-elf	race	Half-Elf	13	18	weak	weak		none	1	15	child	ref/racial-trait/half-elf/keen-senses(title),ref/racial-trait/half-elf/languages(title),ref/racial-trait/half-elf/low-light-vision(title)							
 heroes-of-the-high-court	ref/race/half-orc	race	Half-Orc	8	18	weak	weak		none	1	15	child	ref/racial-trait/half-orc/intimidating(title),ref/racial-trait/half-orc/languages(title),ref/racial-trait/half-orc/medium(title)							
@@ -805,7 +805,7 @@ horror-adventures	ref/racial-trait/half-orc/orc-blood	racial_trait	Orc Blood	7	1
 horror-adventures	ref/racial-trait/halfling/slow-speed	racial_trait	Slow Speed	5	17	family-leak	absent		none	0		parent	ref/race/halfling(title)	yes				remove	40-41	race-section-read-no-trait
 horror-adventures	ref/rule/rule-sanity-and-madness/curing-insanity	rule	Curing Insanity	2	2	family-leak	absent		none	0		parent	ref/rule/sanity-and-madness(title)	yes				remove	12-13, 182	passing-mention-recorded
 horror-adventures	ref/rule/rule-sanity-and-madness/types-of-insanity	rule	Types of Insanity	2	2	family-leak	absent		none	0		parent	ref/rule/sanity-and-madness(title)	yes				remove	12-13, 182	passing-mention-recorded
-horror-adventures	ref/class/samurai	class	Samurai	8	9	uncited	absent		none	0										
+horror-adventures	ref/class/samurai	class	Samurai	8	9	uncited	absent		none	0								remove	none	whole-book-absent
 horror-adventures	ref/racial-trait/dwarf/attributes	racial_trait	Attributes	8	17	weak	weak		none	1	124	parent	ref/race/dwarf(title)	yes						
 horror-adventures	ref/racial-trait/dwarf/greed	racial_trait	Greed	8	17	weak	weak		none	1	38	parent	ref/race/dwarf(title)	yes						
 horror-adventures	ref/racial-trait/dwarf/stonecunning	racial_trait	Stonecunning	8	17	weak	weak		none	1	38	parent	ref/race/dwarf(title)	yes						
@@ -823,9 +823,9 @@ horror-realms	ref/affliction/zombie/zombie-curse-su	affliction	Zombie Curse (Su)
 horror-realms	ref/affliction/zombie/zombie-rot	affliction	Zombie Rot	2	3	family-leak	absent	33	row	0		parent	ref/template/zombie(title)	yes				remove	33	wrong-credit-invalidated
 humans-of-golarion	ref/trait/azlanti-inheritor	trait	Azlanti Inheritor	2	2	weak	weak		none	1	30									
 inner-sea-combat	ref/magic-weapon/rostland-edge	item	Rostland Edge	2	2	review	absent	56	row	0										
-inner-sea-gods	ref/spell/sympathetic-wounds	spell	Sympathetic Wounds	2	2	uncited	absent		none	0										
-inner-sea-gods	ref/spell/trail-of-the-rose	spell	Trail of the Rose	2	2	uncited	absent		none	0										
-inner-sea-gods	ref/spell/traveling-dream	spell	Traveling Dream	3	3	uncited	absent		none	0										
+inner-sea-gods	ref/spell/sympathetic-wounds	spell	Sympathetic Wounds	2	2	uncited	absent		none	0								remove	228-245	section-read-no-entry
+inner-sea-gods	ref/spell/trail-of-the-rose	spell	Trail of the Rose	2	2	uncited	absent		none	0								remove	228-245	section-read-no-entry
+inner-sea-gods	ref/spell/traveling-dream	spell	Traveling Dream	3	3	uncited	absent		none	0								remove	228-245	section-read-no-entry
 inner-sea-gods	ref/faith/damerrich	rule	Damerrich	1	2	review	absent	322	row	0					primary	chronicle-of-the-righteous	unaligned			
 inner-sea-gods	ref/trait/elven-polytheist	trait	Elven Polytheist	2	2	weak	weak		none	1	219									
 inner-sea-gods	ref/faith/chaldira-zuzaristan	rule	Chaldira Zuzaristan	1	2	cite-off	off-page	324	row	5	185,220,222,250,330									
@@ -1060,10 +1060,10 @@ ultimate-combat	ref/spell/compel-tongue	spell	Compel Tongue	3	3	family-leak	abse
 ultimate-combat	ref/spell/darkvision-greater	spell	Greater Darkvision	2	3	family-leak	absent		none	0		variant	ref/spell/darkvision(title)					remove	208-237	section-read-no-entry
 ultimate-combat	ref/spell/flame-steed	spell	Flame Steed	3	3	family-leak	absent		none	0		variant	ref/spell/phantom-steed(title)					remove	208-237	section-read-no-entry
 ultimate-combat	ref/spell/nexs-secret-workshop	spell	Nex's Secret Workshop	3	3	family-leak	absent		none	0		variant	ref/spell/nondetection(title)					remove	208-237	section-read-no-entry
-ultimate-combat	ref/spell/peacebond-greater	spell	Greater Peacebond	1	2	family-leak	absent		none	0		variant	ref/spell/peacebond(title)		primary	ultimate-intrigue	body			
+ultimate-combat	ref/spell/peacebond-greater	spell	Greater Peacebond	1	2	family-leak	absent		none	0		variant	ref/spell/peacebond(title)		primary	ultimate-intrigue	body	remove	221	whole-book-absent-new-primary-printed
 ultimate-combat	ref/magic-wondrous/figurine-of-wondrous-power	item	Figurines of Wondrous Power	11	15	uncited	absent		none	0										
-ultimate-combat	ref/spell/compel-tongue-mass	spell	Mass Compel Tongue	3	3	uncited	absent		none	0										
-ultimate-combat	ref/spell/protection-from-chaos-evil-good-law	spell	Protection from Chaos/Evil/Good/Law	2	2	uncited	absent		none	0										
+ultimate-combat	ref/spell/compel-tongue-mass	spell	Mass Compel Tongue	3	3	uncited	absent		none	0								remove	none	whole-book-absent
+ultimate-combat	ref/spell/protection-from-chaos-evil-good-law	spell	Protection from Chaos/Evil/Good/Law	2	2	uncited	absent		none	0								remove	211	section-read-no-entry
 ultimate-combat	ref/magic-wondrous/figurine-of-wondrous-power-basalt-dragon	item	Figurine of Wondrous Power (Basalt Dragon)	11	15	weak	weak		none	1	143									
 ultimate-combat	ref/magic-wondrous/figurine-of-wondrous-power-black-jade-raven	item	Figurine of Wondrous Power (Black Jade Raven)	11	15	weak	weak		none	1	143									
 ultimate-combat	ref/magic-wondrous/figurine-of-wondrous-power-bronze-griffon	item	Figurine of Wondrous Power (Bronze Griffon)	11	15	weak	weak		none	1	143									

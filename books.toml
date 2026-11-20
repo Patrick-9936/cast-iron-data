@@ -3458,18 +3458,6 @@ title = "Cloak Of Winds"
 entry = "ref/spell/cloak-of-winds"
 
 [[books.chapters.children]]
-title = "Communal Ant Haul"
-entry = "ref/spell/ant-haul-communal"
-
-[[books.chapters.children]]
-title = "Communal Mask Dweomer"
-entry = "ref/spell/mask-dweomer-communal"
-
-[[books.chapters.children]]
-title = "Communal Share Language"
-entry = "ref/spell/share-language-communal"
-
-[[books.chapters.children]]
 title = "Compel Tongue"
 entry = "ref/spell/compel-tongue"
 
@@ -3766,14 +3754,6 @@ title = "Greater Brand"
 entry = "ref/spell/brand-greater"
 
 [[books.chapters.children]]
-title = "Greater Break"
-entry = "ref/spell/break-greater"
-
-[[books.chapters.children]]
-title = "Greater Chameleon Stride"
-entry = "ref/spell/chameleon-stride-greater"
-
-[[books.chapters.children]]
 title = "Greater Evolution Surge"
 entry = "ref/spell/evolution-surge-greater"
 
@@ -3908,10 +3888,6 @@ entry = "ref/spell/cacophonous-call-mass"
 [[books.chapters.children]]
 title = "Mass Castigate"
 entry = "ref/spell/castigate-mass"
-
-[[books.chapters.children]]
-title = "Mass Compel Tongue"
-entry = "ref/spell/compel-tongue-mass"
 
 [[books.chapters.children]]
 title = "Mass Feather Step"
@@ -4372,10 +4348,6 @@ entry = "ref/spell/vortex"
 [[books.chapters.children]]
 title = "Wake Of Light"
 entry = "ref/spell/wake-of-light"
-
-[[books.chapters.children]]
-title = "Walk the Plank"
-entry = "ref/spell/walk-the-plank"
 
 [[books.chapters.children]]
 title = "Wall Of Lava"
@@ -11533,10 +11505,6 @@ title = "Rogue"
 entry = "ref/rule/class-rogue/rogue"
 
 [[books.chapters.children]]
-title = "Samurai"
-entry = "ref/class/samurai"
-
-[[books.chapters.children]]
 title = "Sorcerer"
 entry = "ref/class/sorcerer"
 
@@ -13827,10 +13795,6 @@ entry = "ref/monster/sea-serpent"
 title = "Shadow"
 entry = "ref/monster/shadow"
 
-[[books.chapters.children.children]]
-title = "Shadow blight"
-entry = "ref/affliction/shadow/shadow-blight"
-
 [[books.chapters.children]]
 title = "Shadow, Greater"
 entry = "ref/monster/shadow-greater-shadow"
@@ -14162,10 +14126,6 @@ entry = "ref/template/zombie"
 [[books.chapters.children.children]]
 title = "Deathspore Toxin"
 entry = "ref/affliction/zombie/deathspore-toxin"
-
-[[books.chapters.children.children]]
-title = "Zombie Curse (Su)"
-entry = "ref/affliction/zombie/zombie-curse-su"
 
 [[books.chapters.children.children]]
 title = "Human Zombie"
@@ -29028,10 +28988,6 @@ title = "New entries (page order)"
 review = "Canonical entries of this publication that the curated PSRD tree does not place. They follow their page number; this is a page-ordered list, not a chapter position."
 
 [[books.chapters.children]]
-title = "Cabal Devil (Uniila)"
-entry = "ref/monster/devil-cabal-devil-uniila"
-
-[[books.chapters.children]]
 title = "Rapid Reload"
 entry = "ref/feat/rapid-reload"
 
@@ -32864,10 +32820,6 @@ title = "Weapon Groups"
 entry = "ref/ability/weapon-groups"
 
 [[books.chapters.children.children]]
-title = "Firearms"
-entry = "ref/rule/ability-weapon-groups/firearms"
-
-[[books.chapters.children.children]]
 title = "Monk"
 entry = "ref/rule/ability-weapon-groups/monk"
 
@@ -32948,58 +32900,6 @@ title = "Blast of Wind"
 entry = "ref/spell/blast-of-wind"
 
 [[books.chapters.children]]
-title = "Brightest Light"
-entry = "ref/spell/brightest-light"
-
-[[books.chapters.children]]
-title = "Burning Entanglement"
-entry = "ref/spell/burning-entanglement"
-
-[[books.chapters.children]]
-title = "Charm Fey"
-entry = "ref/spell/charm-fey"
-
-[[books.chapters.children]]
-title = "Clay Skin"
-entry = "ref/spell/clay-skin"
-
-[[books.chapters.children]]
-title = "Communal Air Walk"
-entry = "ref/spell/air-walk-communal"
-
-[[books.chapters.children]]
-title = "Communal Align Weapon"
-entry = "ref/spell/align-weapon-communal"
-
-[[books.chapters.children]]
-title = "Communal Darkvision"
-entry = "ref/spell/darkvision-communal"
-
-[[books.chapters.children]]
-title = "Communal Delay Poison"
-entry = "ref/spell/delay-poison-communal"
-
-[[books.chapters.children]]
-title = "Communal Endure Elements"
-entry = "ref/spell/endure-elements-communal"
-
-[[books.chapters.children]]
-title = "Communal Mind Blank"
-entry = "ref/spell/mind-blank-communal"
-
-[[books.chapters.children]]
-title = "Communal Mount"
-entry = "ref/spell/mount-communal"
-
-[[books.chapters.children]]
-title = "Communal Nondetection"
-entry = "ref/spell/nondetection-communal"
-
-[[books.chapters.children]]
-title = "Communal Phantom Steed"
-entry = "ref/spell/phantom-steed-communal"
-
-[[books.chapters.children]]
 title = "Communal Protection from Arrows"
 entry = "ref/spell/protection-from-arrows-communal"
 
@@ -33024,116 +32924,28 @@ title = "Communal Protection from Law"
 entry = "ref/spell/protection-from-law-communal"
 
 [[books.chapters.children]]
-title = "Communal Resist Energy"
-entry = "ref/spell/resist-energy-communal"
-
-[[books.chapters.children]]
 title = "Communal Spell Immunity"
 entry = "ref/spell/spell-immunity-communal"
-
-[[books.chapters.children]]
-title = "Communal Spider Climb"
-entry = "ref/spell/spider-climb-communal"
-
-[[books.chapters.children]]
-title = "Communal Stoneskin"
-entry = "ref/spell/stoneskin-communal"
-
-[[books.chapters.children]]
-title = "Communal Tongues"
-entry = "ref/spell/tongues-communal"
-
-[[books.chapters.children]]
-title = "Communal Water Walk"
-entry = "ref/spell/water-walk-communal"
 
 [[books.chapters.children]]
 title = "Conditional Curse"
 entry = "ref/spell/conditional-curse"
 
 [[books.chapters.children]]
-title = "Contagious Suggestion"
-entry = "ref/spell/contagious-suggestion"
-
-[[books.chapters.children]]
-title = "Controlled Fireball"
-entry = "ref/spell/controlled-fireball"
-
-[[books.chapters.children]]
-title = "Cyclic Reincarnation"
-entry = "ref/spell/cyclic-reincarnation"
-
-[[books.chapters.children]]
-title = "Deadman's Contingency"
-entry = "ref/spell/deadmans-contingency"
-
-[[books.chapters.children]]
-title = "Demanding Message"
-entry = "ref/spell/demanding-message"
-
-[[books.chapters.children]]
-title = "Detect Aberration"
-entry = "ref/spell/detect-aberration"
-
-[[books.chapters.children]]
-title = "Detect Anxieties"
-entry = "ref/spell/detect-anxieties"
-
-[[books.chapters.children]]
 title = "Detect Chaos/Evil/Good/Law"
 entry = "ref/spell/detect-chaos-evil-good-law"
-
-[[books.chapters.children]]
-title = "Detect Charm"
-entry = "ref/spell/detect-charm"
-
-[[books.chapters.children]]
-title = "Detect Desires"
-entry = "ref/spell/detect-desires"
 
 [[books.chapters.children]]
 title = "Detect Fiendish Presence"
 entry = "ref/spell/detect-fiendish-presence"
 
 [[books.chapters.children]]
-title = "Disguise Other"
-entry = "ref/spell/disguise-other"
-
-[[books.chapters.children]]
-title = "Escape Alarm"
-entry = "ref/spell/escape-alarm"
-
-[[books.chapters.children]]
-title = "False Resurrection"
-entry = "ref/spell/false-resurrection"
-
-[[books.chapters.children]]
-title = "Familiar Double"
-entry = "ref/spell/familiar-double"
-
-[[books.chapters.children]]
-title = "Fey Gate"
-entry = "ref/spell/fey-gate"
-
-[[books.chapters.children]]
 title = "Flame Steed"
 entry = "ref/spell/flame-steed"
 
 [[books.chapters.children]]
-title = "Flare Burst"
-entry = "ref/spell/flare-burst"
-
-[[books.chapters.children]]
-title = "Glimpse of Truth"
-entry = "ref/spell/glimpse-of-truth"
-
-[[books.chapters.children]]
 title = "Glimpse the Hidden"
 entry = "ref/spell/glimpse-the-hidden"
-
-[[books.chapters.children]]
-title = "Grasping Tentacles"
-entry = "ref/spell/grasping-tentacles"
 
 [[books.chapters.children]]
 title = "Greater Arcane Sight"
@@ -33148,18 +32960,6 @@ title = "Greater Command"
 entry = "ref/spell/command-greater"
 
 [[books.chapters.children]]
-title = "Greater Communal Spell Immunity"
-entry = "ref/spell/spell-immunity-greater-communal"
-
-[[books.chapters.children]]
-title = "Greater Contagion"
-entry = "ref/spell/contagion-greater"
-
-[[books.chapters.children]]
-title = "Greater Darkvision"
-entry = "ref/spell/darkvision-greater"
-
-[[books.chapters.children]]
 title = "Greater Detect Magic"
 entry = "ref/spell/detect-magic-greater"
 
@@ -33168,60 +32968,16 @@ title = "Greater Dispel Magic"
 entry = "ref/spell/dispel-magic-greater"
 
 [[books.chapters.children]]
-title = "Greater False Life"
-entry = "ref/spell/false-life-greater"
-
-[[books.chapters.children]]
-title = "Greater False Resurrection"
-entry = "ref/spell/false-resurrection-greater"
-
-[[books.chapters.children]]
-title = "Greater False Vision"
-entry = "ref/spell/false-vision-greater"
-
-[[books.chapters.children]]
-title = "Greater Flaming Sphere"
-entry = "ref/spell/flaming-sphere-greater"
-
-[[books.chapters.children]]
 title = "Greater Glyph of Warding"
 entry = "ref/spell/glyph-of-warding-greater"
-
-[[books.chapters.children]]
-title = "Greater Grease"
-entry = "ref/spell/grease-greater"
 
 [[books.chapters.children]]
 title = "Greater Heroism"
 entry = "ref/spell/heroism-greater"
 
 [[books.chapters.children]]
-title = "Greater Hide from Undead"
-entry = "ref/spell/hide-from-undead-greater"
-
-[[books.chapters.children]]
-title = "Greater Hollow Heroism"
-entry = "ref/spell/hollow-heroism-greater"
-
-[[books.chapters.children]]
-title = "Greater Hypnotism"
-entry = "ref/spell/hypnotism-greater"
-
-[[books.chapters.children]]
-title = "Greater Instant Summons"
-entry = "ref/spell/instant-summons-greater"
-
-[[books.chapters.children]]
 title = "Greater Invisibility"
 entry = "ref/spell/invisibility-greater"
-
-[[books.chapters.children]]
-title = "Greater Longstrider"
-entry = "ref/spell/longstrider-greater"
-
-[[books.chapters.children]]
-title = "Greater Magic Aura"
-entry = "ref/spell/magic-aura-greater"
 
 [[books.chapters.children]]
 title = "Greater Magic Fang"
@@ -33234,10 +32990,6 @@ entry = "ref/spell/magic-weapon-greater"
 [[books.chapters.children]]
 title = "Greater Make Whole"
 entry = "ref/spell/make-whole-greater"
-
-[[books.chapters.children]]
-title = "Greater Neutralize Poison"
-entry = "ref/spell/neutralize-poison-greater"
 
 [[books.chapters.children]]
 title = "Greater Planar Ally"
@@ -33268,10 +33020,6 @@ title = "Greater Shout"
 entry = "ref/spell/shout-greater"
 
 [[books.chapters.children]]
-title = "Greater Song of Discord"
-entry = "ref/spell/song-of-discord-greater"
-
-[[books.chapters.children]]
 title = "Greater Spell Immunity"
 entry = "ref/spell/spell-immunity-greater"
 
@@ -33280,28 +33028,12 @@ title = "Greater Teleport"
 entry = "ref/spell/teleport-greater"
 
 [[books.chapters.children]]
-title = "Hold Fey"
-entry = "ref/spell/hold-fey"
-
-[[books.chapters.children]]
 title = "Hollow Heroism"
 entry = "ref/spell/hollow-heroism"
 
 [[books.chapters.children]]
 title = "Identifier's Eye"
 entry = "ref/spell/identifiers-eye"
-
-[[books.chapters.children]]
-title = "Janni's Jaunt"
-entry = "ref/spell/jannis-jaunt"
-
-[[books.chapters.children]]
-title = "Lesser Animate Dead"
-entry = "ref/spell/animate-dead-lesser"
-
-[[books.chapters.children]]
-title = "Lesser Astral Projection"
-entry = "ref/spell/astral-projection-lesser"
 
 [[books.chapters.children]]
 title = "Lesser Confusion"
@@ -33322,10 +33054,6 @@ entry = "ref/spell/planar-binding-lesser"
 [[books.chapters.children]]
 title = "Lesser Restoration"
 entry = "ref/spell/restoration-lesser"
-
-[[books.chapters.children]]
-title = "Lesser Simulacrum"
-entry = "ref/spell/simulacrum-lesser"
 
 [[books.chapters.children]]
 title = "Magical Beast Shape"
@@ -33364,20 +33092,8 @@ title = "Mass Charm Person"
 entry = "ref/spell/charm-person-mass"
 
 [[books.chapters.children]]
-title = "Mass Daze"
-entry = "ref/spell/daze-mass"
-
-[[books.chapters.children]]
-title = "Mass Demanding Message"
-entry = "ref/spell/demanding-message-mass"
-
-[[books.chapters.children]]
 title = "Mass Enlarge Person"
 entry = "ref/spell/enlarge-person-mass"
-
-[[books.chapters.children]]
-title = "Mass Fly"
-entry = "ref/spell/fly-mass"
 
 [[books.chapters.children]]
 title = "Mass Fox's Cunning"
@@ -33416,10 +33132,6 @@ title = "Mass Invisibility"
 entry = "ref/spell/invisibility-mass"
 
 [[books.chapters.children]]
-title = "Mass Knock"
-entry = "ref/spell/knock-mass"
-
-[[books.chapters.children]]
 title = "Mass Owl's Wisdom"
 entry = "ref/spell/owls-wisdom-mass"
 
@@ -33432,60 +33144,16 @@ title = "Mass Suggestion"
 entry = "ref/spell/suggestion-mass"
 
 [[books.chapters.children]]
-title = "Nex's Secret Workshop"
-entry = "ref/spell/nexs-secret-workshop"
-
-[[books.chapters.children]]
 title = "Pale Flame"
 entry = "ref/spell/pale-flame"
-
-[[books.chapters.children]]
-title = "Phase Step"
-entry = "ref/spell/phase-step"
-
-[[books.chapters.children]]
-title = "Planar Inquiry"
-entry = "ref/spell/planar-inquiry"
 
 [[books.chapters.children]]
 title = "Poisonous Cloud"
 entry = "ref/spell/poisonous-cloud"
 
 [[books.chapters.children]]
-title = "Prognostication"
-entry = "ref/spell/prognostication"
-
-[[books.chapters.children]]
 title = "Protection from Chaos/Evil/Good/Law"
 entry = "ref/spell/protection-from-chaos-evil-good-law"
-
-[[books.chapters.children]]
-title = "Rain of Frogs"
-entry = "ref/spell/rain-of-frogs"
-
-[[books.chapters.children]]
-title = "Raise Animal Companion"
-entry = "ref/spell/raise-animal-companion"
-
-[[books.chapters.children]]
-title = "Ray of Sickening"
-entry = "ref/spell/ray-of-sickening"
-
-[[books.chapters.children]]
-title = "Reincarnate Spy"
-entry = "ref/spell/reincarnate-spy"
-
-[[books.chapters.children]]
-title = "Secret Coffer"
-entry = "ref/spell/secret-coffer"
-
-[[books.chapters.children]]
-title = "Secret Vault"
-entry = "ref/spell/secret-vault"
-
-[[books.chapters.children]]
-title = "Selective Alarm"
-entry = "ref/spell/selective-alarm"
 
 [[books.chapters.children]]
 title = "Share Shape"
@@ -33496,30 +33164,6 @@ title = "Shield Companion (AA)"
 entry = "ref/spell/shield-companion-aa"
 
 [[books.chapters.children]]
-title = "Sickening Entanglement"
-entry = "ref/spell/sickening-entanglement"
-
-[[books.chapters.children]]
-title = "Signs of the Land"
-entry = "ref/spell/signs-of-the-land"
-
-[[books.chapters.children]]
-title = "Soul Transfer"
-entry = "ref/spell/soul-transfer"
-
-[[books.chapters.children]]
-title = "Source Severance"
-entry = "ref/spell/source-severance"
-
-[[books.chapters.children]]
-title = "Speak with Waves"
-entry = "ref/spell/speak-with-waves"
-
-[[books.chapters.children]]
-title = "Summon Kami"
-entry = "ref/spell/summon-kami"
-
-[[books.chapters.children]]
 title = "Summon Monster"
 entry = "ref/spell/summon-monster"
 
@@ -33528,44 +33172,8 @@ title = "Summon Nature's Ally"
 entry = "ref/spell/summon-natures-ally"
 
 [[books.chapters.children]]
-title = "Symbol of Storms"
-entry = "ref/spell/symbol-of-storms"
-
-[[books.chapters.children]]
-title = "Sympathetic Aura"
-entry = "ref/spell/sympathetic-aura"
-
-[[books.chapters.children]]
 title = "Tectonic Communion"
 entry = "ref/spell/tectonic-communion"
-
-[[books.chapters.children]]
-title = "Thirsting Entanglement"
-entry = "ref/spell/thirsting-entanglement"
-
-[[books.chapters.children]]
-title = "Thorny Entanglement"
-entry = "ref/spell/thorny-entanglement"
-
-[[books.chapters.children]]
-title = "Treacherous Teleport"
-entry = "ref/spell/treacherous-teleport"
-
-[[books.chapters.children]]
-title = "Triggered Suggestion"
-entry = "ref/spell/triggered-suggestion"
-
-[[books.chapters.children]]
-title = "True Prognostication"
-entry = "ref/spell/true-prognostication"
-
-[[books.chapters.children]]
-title = "Undeath Sense"
-entry = "ref/spell/undeath-sense"
-
-[[books.chapters.children]]
-title = "Wandering Weather"
-entry = "ref/spell/wandering-weather"
 
 [[books.chapters.children]]
 title = "Word of Beckoning"
@@ -50414,10 +50022,6 @@ title = "Mount"
 entry = "ref/spell/mount"
 
 [[books.chapters.children]]
-title = "Greater Peacebond"
-entry = "ref/spell/peacebond-greater"
-
-[[books.chapters.children]]
 title = "Nondetection"
 entry = "ref/spell/nondetection"
 
@@ -50432,10 +50036,6 @@ entry = "ref/spell/protection-from-arrows"
 [[books.chapters.children]]
 title = "Protection from Chaos"
 entry = "ref/spell/protection-from-chaos"
-
-[[books.chapters.children]]
-title = "Protection from Chaos/Evil/Good/Law"
-entry = "ref/spell/protection-from-chaos-evil-good-law"
 
 [[books.chapters.children]]
 title = "Protection from Energy"
@@ -50456,10 +50056,6 @@ entry = "ref/spell/protection-from-law"
 [[books.chapters.children]]
 title = "Resist Energy"
 entry = "ref/spell/resist-energy"
-
-[[books.chapters.children]]
-title = "Mass Compel Tongue"
-entry = "ref/spell/compel-tongue-mass"
 
 [[books.chapters.children]]
 title = "Share Language"
@@ -72449,10 +72045,6 @@ title = "Unpaged"
 review = "These entries name this publication but their source line gives no page number, so their position is unknown."
 
 [[books.chapters.children]]
-title = "Warpriest"
-entry = "ref/class/warpriest"
-
-[[books.chapters.children]]
 title = "Poppet"
 entry = "ref/family/poppet"
 
@@ -84299,10 +83891,6 @@ title = "Fighter"
 entry = "ref/rule/class-fighter/fighter"
 
 [[books.chapters.children]]
-title = "Gunslinger"
-entry = "ref/class/gunslinger"
-
-[[books.chapters.children]]
 title = "Hunter"
 entry = "ref/class/hunter"
 
@@ -84379,16 +83967,8 @@ title = "Rogue"
 entry = "ref/rule/class-rogue/rogue"
 
 [[books.chapters.children]]
-title = "Samurai"
-entry = "ref/class/samurai"
-
-[[books.chapters.children]]
 title = "Shaman"
 entry = "ref/class/shaman"
-
-[[books.chapters.children]]
-title = "Shifter"
-entry = "ref/class/shifter"
 
 [[books.chapters.children]]
 title = "Skald"
@@ -84419,16 +83999,8 @@ title = "Swashbuckler"
 entry = "ref/class/swashbuckler"
 
 [[books.chapters.children]]
-title = "Unchained Barbarian"
-entry = "ref/class/unchained-barbarian"
-
-[[books.chapters.children]]
 title = "Unchained Monk"
 entry = "ref/class/unchained-monk"
-
-[[books.chapters.children]]
-title = "Unchained Rogue"
-entry = "ref/class/unchained-rogue"
 
 [[books.chapters.children]]
 title = "Unchained Summoner"
@@ -85979,10 +85551,6 @@ entry = "ref/class/rogue"
 [[books.chapters.children.children]]
 title = "Rogue"
 entry = "ref/rule/class-rogue/rogue"
-
-[[books.chapters.children]]
-title = "Samurai"
-entry = "ref/class/samurai"
 
 [[books.chapters.children]]
 title = "Skald"
@@ -101550,10 +101118,6 @@ title = "Rogue"
 entry = "ref/rule/class-rogue/rogue"
 
 [[books.chapters.children]]
-title = "Samurai"
-entry = "ref/class/samurai"
-
-[[books.chapters.children]]
 title = "Sorcerer"
 entry = "ref/class/sorcerer"
 
@@ -105226,10 +104790,6 @@ title = "Aromatic Extract"
 entry = "ref/discovery/aromatic-extract"
 
 [[books.chapters.children]]
-title = "Cackle"
-entry = "ref/hex/cackle"
-
-[[books.chapters.children]]
 title = "Distraction"
 entry = "ref/hex/distraction"
 
@@ -108464,10 +108024,6 @@ entry = "ref/class/rogue"
 [[books.chapters.children.children]]
 title = "Rogue"
 entry = "ref/rule/class-rogue/rogue"
-
-[[books.chapters.children]]
-title = "Samurai"
-entry = "ref/class/samurai"
 
 [[books.chapters.children]]
 title = "Sorcerer"
@@ -112690,18 +112246,6 @@ entry = "ref/spell/sign-of-the-dawnflower"
 [[books.chapters.children]]
 title = "Swallow Your Fear"
 entry = "ref/spell/swallow-your-fear"
-
-[[books.chapters.children]]
-title = "Sympathetic Wounds"
-entry = "ref/spell/sympathetic-wounds"
-
-[[books.chapters.children]]
-title = "Trail of the Rose"
-entry = "ref/spell/trail-of-the-rose"
-
-[[books.chapters.children]]
-title = "Traveling Dream"
-entry = "ref/spell/traveling-dream"
 
 [[books.chapters.children]]
 title = "Accident Resistant"

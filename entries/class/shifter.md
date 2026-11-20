@@ -3,7 +3,7 @@ id = "ref/class/shifter"
 kind = "class"
 title = "Shifter"
 aon = "ClassDisplay.aspx?ItemName=Shifter"
-source_ids = ["ultimate-wilderness", "advanced-players-guide", "blood-of-the-beast", "chronicle-of-legends", "wilderness-origins"]
+source_ids = ["ultimate-wilderness", "advanced-players-guide", "chronicle-of-legends", "wilderness-origins"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "shifter", path = "json/classes7.json" },
 ]

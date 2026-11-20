@@ -3,7 +3,7 @@ id = "ref/spell/resist-energy-communal"
 kind = "spell"
 title = "Communal Resist Energy"
 aon = "SpellDisplay.aspx?ItemName=Resist%20Energy%2C%20Communal"
-source_ids = ["core-rulebook", "ultimate-combat"]
+source_ids = ["ultimate-combat"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "resist_energy_communal", path = "json/spells8.json" },
 ]

@@ -2,7 +2,7 @@
 id = "ref/spell/protection-from-chaos-evil-good-law"
 kind = "spell"
 title = "Protection from Chaos/Evil/Good/Law"
-source_ids = ["core-rulebook", "ultimate-combat"]
+source_ids = ["core-rulebook"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "protection_from_chaos_evil_good_law", path = "json/spells15.json" },
 ]

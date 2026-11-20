@@ -3,7 +3,7 @@ id = "ref/spell/mask-dweomer-communal"
 kind = "spell"
 title = "Communal Mask Dweomer"
 aon = "SpellDisplay.aspx?ItemName=Mask%20Dweomer%2C%20Communal"
-source_ids = ["advanced-players-guide", "ultimate-combat"]
+source_ids = ["ultimate-combat"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "mask_dweomer_communal", path = "json/spells6.json" },
 ]
