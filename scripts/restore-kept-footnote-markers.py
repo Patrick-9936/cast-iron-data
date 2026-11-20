@@ -32,8 +32,9 @@ Row actions:
                    exclusion row says so.
   skip             Not applied; listed in the report.
 
-Safe to interrupt and rerun. The `[[excluded]]` rows are written first (the file is replaced in
-one step), then the entry files. A run that stops between the two leaves rows whose notes are still
+Safe to interrupt and rerun. Every file is written to a temp file in its directory, fsynced and
+replaced over the original, so none is ever truncated. The `[[excluded]]` rows are written first,
+then the entry files. A run that stops between the two leaves rows whose notes are still
 there; the rerun finds the notes, skips the rows it already has, and deletes the notes. A note that
 is gone with no exclusion row, a drop row whose note text changed, and an anchor that occurs twice
 in the entry are errors: the script changes nothing and exits 1.
@@ -45,6 +46,7 @@ afterwards: a line that gained or lost text is rewrapped to the canonical width.
 import argparse
 import csv
 import importlib.util
+import os
 import re
 import sys
 import tomllib
@@ -58,6 +60,17 @@ _spec.loader.exec_module(base)
 
 ACTIONS = ("restore-inline", "restore-plain", "drop-copy", "drop-duplicate", "skip")
 EXCERPT = 100
+
+
+def write_atomic(path, text):
+    """Write `text` to a temp file in the same directory, flush and fsync it, then replace `path`
+    with it, so an interruption leaves the old file or the new one, never a truncated one."""
+    tmp = path.with_name(path.name + ".tmp")
+    with open(tmp, "w", encoding="utf-8", newline="") as f:
+        f.write(text)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp, path)
 
 
 def inline_regex(inline):
@@ -84,10 +97,15 @@ def main():
     corpus = Path(args.corpus)
 
     rows = defaultdict(list)
+    seen = set()
     with open(args.decisions, newline="") as f:
         for row in csv.DictReader(f, delimiter="\t"):
             if row["action"] not in ACTIONS:
                 sys.exit(f"bad action {row['action']!r} for {row['entry_id']}")
+            key = (row["entry_id"], row["anchor"])
+            if key in seen:
+                sys.exit(f"error: the decision file has two rows for {row['entry_id']} {row['anchor']}")
+            seen.add(key)
             rows[row["entry_id"]].append(row)
 
     exclusions_path = corpus / "exclusions.toml"
@@ -237,6 +255,12 @@ def main():
                     errors.append(f"{entry_id}: cannot find exactly one reviewed note under {anchor}; row not applied")
                     continue
                 ranges.append((ok[0]["start"], ok[0]["end"]))
+            ranges.sort()
+            for (s1, e1), (s2, e2) in zip(ranges, ranges[1:]):
+                if s2 < e1:
+                    errors.append(f"{entry_id}: two rows delete overlapping lines; row not applied")
+                    ranges = []
+                    break
             lines = base.drop_ranges(lines, ranges)
 
         new_body = base.tidy("\n".join(lines))
@@ -262,11 +286,9 @@ def main():
                 f"[[excluded]]\npath = {base.toml_str(path)}\nrecords = 0\nreason = {base.toml_str(reason)}\n"
                 for path, reason in new_exclusions
             ]
-            tmp = exclusions_path.with_name(exclusions_path.name + ".tmp")
-            tmp.write_text(exclusions_path.read_text() + "\n" + "\n".join(out))
-            tmp.replace(exclusions_path)
+            write_atomic(exclusions_path, exclusions_path.read_text() + "\n" + "\n".join(out))
         for path, new_text in writes:
-            path.write_text(new_text)
+            write_atomic(path, new_text)
     stats["exclusion rows appended"] = len(new_exclusions)
     if args.report:
         with open(args.report, "w", newline="") as f:
