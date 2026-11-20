@@ -14,8 +14,8 @@ page = "10"
 kind = "class_option"
 group = "medium-spirit"
 trades = [
-  { replaces = "Overflowing grace" },
-  { alters = "Divine surge" },
+  { replaces = "Overflowing grace", feature = "spirit", power = "Overflowing grace" },
+  { alters = "Divine surge", feature = "spirit", power = "Divine surge" },
 ]
 +++
 

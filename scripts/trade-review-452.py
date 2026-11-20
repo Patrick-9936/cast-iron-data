@@ -11,8 +11,8 @@
   stats                  count the rows per disposition and reason
 
 Run it from the root of the corpus: `python3 -I scripts/trade-review-452.py <command>`. `fill` and
-`apply` are idempotent. `apply` only adds keys to a trade that has no `feature`, so it never
-changes a link that the migration or an earlier run wrote.
+`apply` are idempotent. `apply` rewrites only the trades that the queue lists (they had no `feature` when the migration
+ran), so it never changes a link that the migration wrote.
 
 Dispositions of a row:
 
@@ -23,7 +23,7 @@ Dispositions of a row:
 The decisions file has one decision per line: `scope` (an entry id, `class <ref/class/x>`,
 `reason <reason>`, `prefix <id prefix>`, or `kind <kind>`), `printed` (the printed name in lower case, `*` for any, or
 `~regex` that must match the whole name), then `disposition`, `code`, `feature`, `class`, `levels`
-(comma separated), `power` (`=printed` copies the printed name), `note`.
+(comma separated), `power` (`=printed` copies the printed name), and `levels` may be `ordinals` (read the ordinals of the printed name) or `steps:<table>`. A `~regex` printed pattern may use its groups as `\\1` in `feature`, `power` and `note`, `note`.
 """
 import csv
 import re
@@ -37,7 +37,7 @@ QUEUE = ROOT / "scripts/trade-review-452.tsv"
 DECISIONS = ROOT / "scripts/trade-review-452-decisions.tsv"
 COLUMNS = [
     "id", "kind", "trade", "op", "printed", "reason", "candidates", "unclaimed_old_anchors",
-    "disposition", "decision", "feature", "class", "levels", "power", "book", "page", "print",
+    "disposition", "decision", "feature", "class", "levels", "power", "book", "page", "print", "class_print",
 ]
 
 
@@ -91,12 +91,35 @@ def base_classes(entry_id, data, relations):
 
 
 def match_printed(pattern, printed):
+    """The match object (or True) when the pattern covers the printed name, else None."""
     printed = " ".join(printed.lower().split())
     if pattern == "*":
         return True
     if pattern.startswith("~"):
-        return re.fullmatch(pattern[1:], printed, re.I) is not None
-    return " ".join(pattern.lower().split()) == printed
+        return re.fullmatch(pattern[1:], printed, re.I)
+    return True if " ".join(pattern.lower().split()) == printed else None
+
+
+ORDINAL = re.compile(r"\b(\d{1,2})(?:st|nd|rd|th)\b|\bfirst\b", re.I)
+
+
+def ordinals(printed):
+    """The levels that the ordinals of a printed name state (`2nd-, 8th-, and 16th-level` is 2, 8, 16)."""
+    found = {1 if m.group(0).lower() == "first" else int(m.group(1)) for m in ORDINAL.finditer(printed)}
+    if not found or any(not 1 <= n <= 20 for n in found):
+        raise SystemExit(f"no usable ordinal level in {printed!r}")
+    return ",".join(str(n) for n in sorted(found))
+
+
+_anchors = {}
+
+
+def class_anchors(class_id):
+    """The heading anchors of a class entry: the features a trade may name."""
+    if class_id not in _anchors:
+        text = entry_path(class_id).read_text(encoding="utf-8")
+        _anchors[class_id] = set(re.findall(r"^#{3,6} .*? \{#([^}]+)\}$", text, re.M))
+    return _anchors[class_id]
 
 
 def decision_for(row, decisions, info):
@@ -117,8 +140,17 @@ def decision_for(row, decisions, info):
                 continue
         elif scope != row["id"]:
             continue
-        if match_printed(d["printed"], row["printed"]):
-            return d
+        m = match_printed(d["printed"], row["printed"])
+        if m and d["disposition"] == "resolved" and relations and d["feature"]:
+            # A decision names a feature that every base class of the entry must hold; a generic
+            # decision that one class cannot take leaves the row for a later, more specific one.
+            if not all(d["feature"] in class_anchors(c) for c in relations):
+                continue
+        if m:
+            if m is True:
+                return d
+            # A pattern may use its groups in the other fields: `\\1` in `feature`, `power`, `note`.
+            return {k: (m.expand(v) if k in ("feature", "power", "note") and "\\" in v else v) for k, v in d.items()}
     return None
 
 
@@ -148,10 +180,24 @@ STEP_TABLES = {
 
 
 def step_levels(table, printed):
-    text = re.sub(r"^\D*?(?=[+\d])", "", printed.lower().replace("1-4", "1, 2, 3, 4"), count=1)
+    text = re.sub(r"^\D*?(?=[+\d])", "", re.sub(r"(\d+)\s*(?:-|through)\s*(\d+)", lambda m: ", ".join(str(n) for n in range(int(m.group(1)), int(m.group(2)) + 1)), printed.lower()), count=1)
     numbers = [int(n) for n in re.findall(r"\d+", text)]
     steps = STEP_TABLES[table]
     return ",".join(str(steps[n]) for n in sorted(set(numbers)))
+
+
+def claim_of(trade):
+    """What a trade claims: (op, feature, class, power, levels) with levels None for every level."""
+    op = "replaces" if "replaces" in trade else "alters"
+    levels = frozenset(trade["levels"]) if trade.get("levels") else None
+    return op, trade["feature"], trade.get("class"), trade.get("power"), levels
+
+
+def overlap(a, b):
+    """The one-claim rule of corpus-check: the same key, feature, class and power at a shared level."""
+    if a[:4] != b[:4]:
+        return False
+    return a[4] is None or b[4] is None or bool(a[4] & b[4])
 
 
 def cmd_fill(args):
@@ -166,19 +212,48 @@ def cmd_fill(args):
             continue
         code = d["code"]
         note = d["note"]
-        decision = code + (": " + note if note else "")
         book, page = source_of(info[0], None)
-        if row.get("print") == "page" and row.get("book"):
+        if row.get("print") in ("page", "words") and row.get("book"):
             book, page = row["book"], row["page"]
         levels = d["levels"]
+        if levels == "ordinals":
+            levels = ordinals(row["printed"])
         if levels.startswith("steps:"):
             levels = step_levels(levels[6:], row["printed"])
         power = row["printed"] if d["power"] == "=printed" else d["power"]
         new = dict(
-            disposition=d["disposition"], decision=decision, feature=d["feature"], **{"class": d["class"]},
-            levels=levels, power=power, book=book, page=page,
+            disposition=d["disposition"], decision=code + (": " + note if note else ""), feature=d["feature"],
+            **{"class": d["class"]}, levels=levels, power=power, book=book, page=page,
         )
-        if any(row.get(k, "") != v for k, v in new.items()):
+        row["_new"] = new
+    # One trade of a key claims a feature at a level and power; a later trade that would claim the same
+    # stays unresolved (the rule that migrate-trades follows too).
+    by_entry = {}
+    for row in rows:
+        by_entry.setdefault(row["id"], []).append(row)
+    for entry_id, entry_rows in by_entry.items():
+        queued = {int(r["trade"]) for r in entry_rows if r["trade"] != "0"}
+        trades = cache[entry_id][0].get("fields", {}).get("trades", [])
+        claimed = [(i, claim_of(t)) for i, t in enumerate(trades, 1) if "feature" in t and i not in queued]
+        for row in sorted(entry_rows, key=lambda r: int(r["trade"])):
+            new = row.get("_new")
+            if not new or new["disposition"] != "resolved":
+                continue
+            claim = (
+                row["op"], new["feature"], new["class"] or None, new["power"] or None,
+                frozenset(int(x) for x in new["levels"].split(",")) if new["levels"] else None,
+            )
+            clash = next((i for i, c in claimed if overlap(claim, c)), None)
+            if clash is not None:
+                new.update(
+                    disposition="exception", feature="", levels="", power="", **{"class": ""},
+                    decision=f"overlaps-earlier-claim: trade {clash} of the same key already names feature {claim[1]} at a shared level and power, and the one-claim rule lets one trade name it (the decision for this item was: {new['decision']})",
+                )
+            else:
+                claimed.append((int(row["trade"]), claim))
+    for row in rows:
+        new = row.pop("_new", None)
+        if new and any(row.get(k, "") != v for k, v in new.items()):
             row.update(new)
             changed += 1
     write_queue(rows)
@@ -208,8 +283,13 @@ def render(line, row):
     return "  { " + ", ".join(parts) + " },"
 
 
+def bare(line):
+    m = TRADE_RE.match(line)
+    return f"  {{ {m.group(1)} = {m.group(2)} }},"
+
+
 def cmd_apply(args):
-    rows = [r for r in read_tsv(QUEUE) if r["disposition"] == "resolved"]
+    rows = [r for r in read_tsv(QUEUE) if r["disposition"] in ("resolved", "exception") and r["trade"] != "0"]
     by_entry = {}
     for row in rows:
         by_entry.setdefault(row["id"], []).append(row)
@@ -226,10 +306,11 @@ def cmd_apply(args):
             m = TRADE_RE.match(line)
             if not m or m.group(1) != row["op"]:
                 raise SystemExit(f"{entry_id}: trade {row['trade']} is not a {row['op']} trade: {line!r}")
-            if "feature = " in line:
-                continue
-            lines[index] = render(line, row)
-            touched = True
+            # A queue row was unresolved when the migration ran, so its line may follow the row either way.
+            want = render(bare(line), row) if row["disposition"] == "resolved" else bare(line)
+            if line != want:
+                lines[index] = want
+                touched = True
         if touched:
             path.write_text(head + "+++\n" + "\n".join(lines) + "+++\n" + body, encoding="utf-8")
             written += 1

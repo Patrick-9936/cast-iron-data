@@ -14,8 +14,8 @@ page = "11"
 kind = "class_option"
 group = "medium-spirit"
 trades = [
-  { replaces = "Arcane surge" },
-  { alters = "Archmage arcana" },
+  { replaces = "Arcane surge", feature = "spirit", power = "Arcane surge" },
+  { alters = "Archmage arcana", feature = "spirit", power = "Archmage arcana" },
 ]
 +++
 

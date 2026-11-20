@@ -13,6 +13,9 @@ column of `trade-review-452.tsv`:
   none   the name is not in the book (a spelling or extraction difference; read the page)
   nobook no copy of the book was found
 
+`class_print` is the same check for the named part of a feature (`power`): is it in the class's own
+section of the book that the class entry cites (the 16 pages from the class's page)?
+
 It reads PDFs from the directory that `--books` names (searched recursively, matched to a
 publication by the words of its title) and extracts them with `pdftotext` into `--cache`. The
 directory, the file names and the extracted text stay on the machine that runs it: the queue
@@ -175,6 +178,39 @@ def main():
         counts[verdict] += 1
         if verdict not in ("page", "words"):
             print(f"{verdict}: {row['id']} trade {row['trade']}: {row['printed']}")
+    # The named part of a feature (a bardic performance, a deed, a school power) should be in the class's
+    # own section of the book that the class entry cites: look for it in the 16 pages from the class's page.
+    class_counts = Counter()
+    for row, sources in work:
+        row["class_print"] = ""
+        if not row["power"] or not row["decision"].startswith("named-part"):
+            continue
+        front = (ROOT / "entries" / (row["id"][4:] + ".md")).read_text(encoding="utf-8").split("+++\n", 2)[1]
+        relations = [r["target"] for r in tomllib.loads(front).get("relations", []) if r["kind"] == "archetype"]
+        if row["id"].startswith("ref/spirit/"):
+            relations = ["ref/class/medium"]
+        verdict = "nobook"
+        for class_id in relations:
+            cfront = (ROOT / "entries" / (class_id[4:] + ".md")).read_text(encoding="utf-8").split("+++\n", 2)[1]
+            csources = tomllib.loads(cfront).get("sources") or []
+            if not csources:
+                continue
+            c = csources[0]
+            pages = pages_of(c["publication"])
+            if pages is None:
+                continue
+            verdict = "none"
+            if c["publication"] not in offsets or not str(c.get("page", "")).isdigit():
+                verdict = "book"
+                continue
+            start = int(c["page"]) + offsets[c["publication"]] - 1
+            term = compact(row["power"])
+            if any(term in p[1] for p in pages[max(0, start - 1): start + 16]):
+                verdict = "page"
+                break
+        row["class_print"] = verdict
+        class_counts[verdict] += 1
+    print("class sections:", dict(class_counts))
     sys.path.insert(0, str(Path(__file__).parent))
     import importlib.util
 
