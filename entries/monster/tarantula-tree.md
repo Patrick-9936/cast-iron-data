@@ -104,7 +104,7 @@ _This towering mass of vegetation balances itself upon several long and misshape
 
 **Per day:**
 
-- 3/day: &Q entangle (DC 14)
+- 3/day: quickened entangle (DC 14)
 - 1/day: wall of thorns
 
 **Statistics**

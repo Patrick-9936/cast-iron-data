@@ -101,8 +101,8 @@ claws, flank its fanged jaws._
 
 **Per day:**
 
-- 3/day: illusory wall (DC 18), mirage arcana (DC 19), &Q hydraulic torrent, stone shape, wall of
-  force
+- 3/day: illusory wall (DC 18), mirage arcana (DC 19), quickened hydraulic torrent, stone shape,
+  wall of force
 - 1/day: disintegrate (DC 20), fabricate, make whole, move earth
 
 **Statistics**

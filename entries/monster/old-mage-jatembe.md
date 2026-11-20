@@ -94,28 +94,28 @@ metamagic mastery (7/day), mythic spellpower, permanent shapechange, rapid prepa
 
 **8th-level spells:**
 
-- &maximized cone of cold, maze^M^, polymorph any object (DC 33), power word stun, summon monster
+- maximized cone of cold, maze^M^, polymorph any object (DC 33), power word stun, summon monster
   VIII, =empty slot^F^
 
 **7th-level spells:**
 
-- &Q fireball^M^ (2, DC 32), forcecage (DC 33), mage's sword, mass invisibility, summon monster VII,
-  =empty slot^F^
+- quickened fireball^M^ (2, DC 32), forcecage (DC 33), mage's sword, mass invisibility, summon
+  monster VII, =empty slot^F^
 
 **6th-level spells:**
 
-- chain lightning^M^ (DC 32), globe of invulnerability^M^, mislead^M^ (DC 31), &Q scorching ray^M^,
-  summon monster VI, true seeing, =empty slot^F^
+- chain lightning^M^ (DC 32), globe of invulnerability^M^, mislead^M^ (DC 31), quickened scorching
+  ray^M^, summon monster VI, true seeing, =empty slot^F^
 
 **5th-level spells:**
 
-- baleful polymorph (DC 30), cloudkill (DC 31), communal stoneskin, &Q entangle^M^ (DC 30), mage's
-  faithful hound, overland flight, =empty slot^F^
+- baleful polymorph (DC 30), cloudkill (DC 31), communal stoneskin, quickened entangle^M^ (DC 30),
+  mage's faithful hound, overland flight, =empty slot^F^
 
 **4th-level spells:**
 
 - communal protection from energy (DC 29), dimension door, enervation, mass enlarge person (DC 29),
-  &maximized magic missile^M^, wall of fire, =empty slot^F^
+  maximized magic missile^M^, wall of fire, =empty slot^F^
 
 **3rd-level spells:**
 

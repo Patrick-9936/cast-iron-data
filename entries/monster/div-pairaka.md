@@ -95,7 +95,7 @@ manner of debased pleasures._
 
 **Per day:**
 
-- 1/day: insect plague, &S level 3; 1d4 [dorus](ref/monster/div-doru) 50%
+- 1/day: insect plague, summon (level 3, 1d4 [dorus](ref/monster/div-doru) 50%)
 
 **Statistics**
 

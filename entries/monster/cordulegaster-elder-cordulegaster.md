@@ -99,7 +99,7 @@ _The insectile eyes of this chitin-covered daemonic monstrosity display a malign
 **Per day:**
 
 - 3/day: aqueous orb (DC 13), hydraulic torrent
-- 1/day: confusion (DC 14), &S level 3; 1 cordulegaster; 50%
+- 1/day: confusion (DC 14), summon (level 3, 1 cordulegaster, 50%)
 
 **Statistics**
 

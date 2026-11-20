@@ -113,9 +113,9 @@ disease, energy drain, petrification, poison
 
 **Per day:**
 
-- 3/day: control weather^M^, horrid wilting (DC 28), &Q hunger for flesh (DC 24), insanity (DC 27),
-  mass hunger for flesh (DC 27), plane shift (DC 27), soul bind (DC 29), summon daemon, waves of
-  fatigue
+- 3/day: control weather^M^, horrid wilting (DC 28), quickened hunger for flesh (DC 24), insanity
+  (DC 27), mass hunger for flesh (DC 27), plane shift (DC 27), soul bind (DC 29), summon daemon,
+  waves of fatigue
 - 1/day: imprisonment (DC 29), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

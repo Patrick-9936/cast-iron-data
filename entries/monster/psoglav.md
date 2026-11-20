@@ -80,7 +80,7 @@ thin, rat-like tail twitches behind it._
 
 **Per day:**
 
-- 3/day: &Q blur, darkness, slow (DC 13)
+- 3/day: quickened blur, darkness, slow (DC 13)
 - 1/day: air walk, fear (DC 14), haste
 
 **Statistics**

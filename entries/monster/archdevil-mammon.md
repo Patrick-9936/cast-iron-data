@@ -105,8 +105,8 @@ drain, fire, necromancy effects, paralysis, petrification, poison, sleep effects
 
 **Per day:**
 
-- 3/day: awaken construct, greater scrying (DC 28), polymorph any object (DC 29), &Q possession (DC
-  26), summon devils, sympathy (DC 29)
+- 3/day: awaken construct, greater scrying (DC 28), polymorph any object (DC 29), quickened
+  possession (DC 26), summon devils, sympathy (DC 29)
 - 1/day: microcosm (DC 30), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

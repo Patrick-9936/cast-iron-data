@@ -102,7 +102,7 @@ sack._
 **Per day:**
 
 - 3/day: air walk, snare, spike stones (DC 19), summon nature's ally VII, animals only
-- 1/day: &S level 3; 1 [baykok](ref/monster/baykok) 35%
+- 1/day: summon (level 3, 1 [baykok](ref/monster/baykok) 35%)
 
 **Statistics**
 

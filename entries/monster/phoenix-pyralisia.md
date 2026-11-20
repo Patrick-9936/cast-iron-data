@@ -105,7 +105,7 @@ fire)
 
 **Per day:**
 
-- 3/day: fire storm (DC 25), mass inflict critical wounds (DC 25), &Q wall of fire
+- 3/day: fire storm (DC 25), mass inflict critical wounds (DC 25), quickened wall of fire
 - 1/day: destruction (DC 24), meteor swarm (DC 26)
 
 **Statistics**

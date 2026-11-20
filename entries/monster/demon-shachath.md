@@ -98,7 +98,7 @@ beautiful visage with an expression of horror bulges from the back of its skull.
 
 - 3/day: chaos hammer (DC 19), desecrate, greater invisibility, major image (DC 18), suggestion (DC
   18)
-- 1/day: blasphemy (DC 22), scrying (DC 19), &S level 4; 1 succubus or 1 incubus 65%
+- 1/day: blasphemy (DC 22), scrying (DC 19), summon (level 4, 1 succubus or 1 incubus 65%)
 
 **Per week:**
 

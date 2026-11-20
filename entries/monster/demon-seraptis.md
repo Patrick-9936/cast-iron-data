@@ -104,7 +104,7 @@ slashes on her four arms._
 **Per day:**
 
 - 3/day: confusion (DC 19), demand (DC 23), dominate person (DC 19), fly
-- 1/day: symbol of insanity (DC 23), &S level 5; 1 seraptis 20% or 1 glabrezu 40%
+- 1/day: symbol of insanity (DC 23), summon (level 5, 1 seraptis 20% or 1 glabrezu 40%)
 
 **Statistics**
 

@@ -106,8 +106,8 @@ control, viper rod
 
 **Per day:**
 
-- 3/day: delayed blast fireball (sonic damage) (DC 27), &Q flesh to stone (DC 26), sonic thrust (DC
-  25)
+- 3/day: delayed blast fireball (sonic damage) (DC 27), quickened flesh to stone (DC 26), sonic
+  thrust (DC 25)
 - 1/day: commune, wail of the banshee (DC 29)
 
 **Spells Known**

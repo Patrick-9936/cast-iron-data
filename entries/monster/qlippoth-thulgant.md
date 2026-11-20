@@ -107,7 +107,7 @@ eyes, and three whipping stingers._
 
 **Per day:**
 
-- 3/day: &Q dimension door, flesh to stone (DC 23), word of chaos (DC 24)
+- 3/day: quickened dimension door, flesh to stone (DC 23), word of chaos (DC 24)
 - 1/day: binding (DC 25), plane shift (DC 24), telekinetic sphere (DC 25), temporal stasis (DC 25)
 
 **Statistics**

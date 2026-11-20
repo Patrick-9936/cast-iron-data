@@ -100,9 +100,9 @@ bite +34 (2d6+9), 2 claws +34 (1d6+9)
 
 **Per day:**
 
-- 3/day: &EM cloudkill (DC 20), stinking cloud (DC 18)
-- 1/day: blasphemy (DC 22), chaos hammer (DC 19), mass charm monster (DC 23), &S level 6; 1d6 tarry
-  demodands or 1d4 slimy demodands 60%
+- 3/day: empowered cloudkill (DC 20), stinking cloud (DC 18)
+- 1/day: blasphemy (DC 22), chaos hammer (DC 19), mass charm monster (DC 23), summon (level 6, 1d6
+  tarry demodands or 1d4 slimy demodands 60%)
 
 **Statistics**
 

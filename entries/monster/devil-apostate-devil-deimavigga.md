@@ -104,10 +104,10 @@ fingers on gauntleted hands._
 
 - 3/day: blasphemy (DC 26), dominate person (DC 24), hold monster (DC 24), insanity (DC 26), touch
   of idiocy, veil (DC 25)
-- 1/day: mind fog (DC 24), screen (DC 27), &S level 8; 1d6
+- 1/day: mind fog (DC 24), screen (DC 27), summon (level 8, 1d6
   [bone devils](ref/monster/devil-bone-devil-osyluth) or 2d4
   [bearded devils](ref/monster/devil-bearded-devil-barbazu) 50% or 1
-  [ice devil](ref/monster/devil-ice-devil-gelugon) 20%
+  [ice devil](ref/monster/devil-ice-devil-gelugon) 20%)
 
 **Statistics**
 

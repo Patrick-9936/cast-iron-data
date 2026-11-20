@@ -99,8 +99,8 @@ spraying blood._
 
 **Per day:**
 
-- 3/day: &Q gust of wind (DC 15), reverse gravity
-- 1/day: fickle winds, &S level 7; 1d3 [suspiridaemons](ref/monster/daemon-suspiridaemon) 80%
+- 3/day: quickened gust of wind (DC 15), reverse gravity
+- 1/day: fickle winds, summon (level 7, 1d3 [suspiridaemons](ref/monster/daemon-suspiridaemon) 80%)
 
 **Statistics**
 

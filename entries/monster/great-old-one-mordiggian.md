@@ -117,7 +117,8 @@ energy drain, mind-affecting effects, paralysis, and petrification
 
 **Per day:**
 
-- 3/day: demand (DC 31), &Q deeper darkness, energy drain (DC 32), &Q feeblemind (DC 28)
+- 3/day: demand (DC 31), quickened deeper darkness, energy drain (DC 32), quickened feeblemind (DC
+  28)
 - 1/day: destruction (DC 30), power word kill, symbol of death (DC 31), symbol of insanity (DC 31),
   true resurrection
 

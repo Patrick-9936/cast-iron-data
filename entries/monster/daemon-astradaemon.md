@@ -111,8 +111,8 @@ energy drain), tail slap +18 (1d12+2 plus energy drain)
 **Per day:**
 
 - 3/day: locate creature, plane shift (DC 24)
-- 1/day: energy drain (DC 24), finger of death (DC 24), &S level 6; 1d3
-  [derghodaemons](ref/monster/daemon-derghodaemon) 50%
+- 1/day: energy drain (DC 24), finger of death (DC 24), summon (level 6, 1d3
+  [derghodaemons](ref/monster/daemon-derghodaemon) 50%)
 
 **Statistics**
 

@@ -104,9 +104,9 @@ gore +28 (2d8+12)
 
 **Per day:**
 
-- 3/day: &Q disintegrate (DC 23), wall of force
-- 1/day: blasphemy (DC 24), &S level 9; any 1 CR 19 or lower daemon; 100%, wail of the banshee (DC
-  26)
+- 3/day: quickened disintegrate (DC 23), wall of force
+- 1/day: blasphemy (DC 24), summon (level 9, any 1 CR 19 or lower daemon, 100%), wail of the banshee
+  (DC 26)
 
 **Statistics**
 

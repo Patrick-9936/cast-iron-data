@@ -97,7 +97,7 @@ tufted ears, a short tail, and keen, piercing eyes._
 
 **Per day:**
 
-- 3/day: &Q dispel magic, prismatic spray (DC 22), scintillating pattern
+- 3/day: quickened dispel magic, prismatic spray (DC 22), scintillating pattern
 
 **Statistics**
 

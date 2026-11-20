@@ -77,7 +77,7 @@ to dance upon its fur._
 
 **At will:**
 
-- &Q dimension door, self only
+- quickened dimension door, self only
 
 **Statistics**
 

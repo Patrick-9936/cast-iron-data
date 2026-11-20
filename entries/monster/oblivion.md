@@ -105,7 +105,7 @@ coil and writhe beneath it._
 
 **Per day:**
 
-- 3/day: &Q disintegrate (DC 21)
+- 3/day: quickened disintegrate (DC 21)
 - 1/day: time stop
 
 **Statistics**

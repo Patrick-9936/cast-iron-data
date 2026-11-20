@@ -94,8 +94,8 @@ light._
 
 **Per day:**
 
-- 3/day: charm monster (DC 19), &Q charm person (DC 18), control undead (DC 22), creeping doom (DC
-  22), insect plague, mind fog (DC 20), nightmare (DC 20)
+- 3/day: charm monster (DC 19), quickened charm person (DC 18), control undead (DC 22), creeping
+  doom (DC 22), insect plague, mind fog (DC 20), nightmare (DC 20)
 
 **Statistics**
 

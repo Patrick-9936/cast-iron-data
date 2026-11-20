@@ -98,8 +98,8 @@ behind its feminine frame._
 
 - 5/day: bane (DC 14), chill touch (DC 14), doom (DC 14)
 - 3/day: bestow curse (DC 16), suggestion (DC 16), touch of idiocy (DC 15)
-- 1/day: blindness/deafness (DC 15), confusion (DC 17), contagion (DC 17), &S level 3; 2
-  [lesser host devils](ref/monster/devil-host-devil-lesser-gaav) 50%
+- 1/day: blindness/deafness (DC 15), confusion (DC 17), contagion (DC 17), summon (level 3, 2
+  [lesser host devils](ref/monster/devil-host-devil-lesser-gaav) 50%)
 
 **Statistics**
 

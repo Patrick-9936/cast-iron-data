@@ -93,7 +93,7 @@ lolling tongue drips with thick saliva._
 **Per day:**
 
 - 3/day: bestow curse (DC 16), crushing despair (DC 17), hold person (DC 15), mirror image
-- 1/day: augury, &S level 3; 1 augur kyton 35%
+- 1/day: augury, summon (level 3, 1 augur kyton 35%)
 
 **Statistics**
 

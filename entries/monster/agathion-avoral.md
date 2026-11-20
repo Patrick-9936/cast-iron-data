@@ -98,7 +98,7 @@ end of his wings._
 
 **Per day:**
 
-- 3/day: lightning bolt (DC 16), &EM magic missile
+- 3/day: lightning bolt (DC 16), empowered magic missile
 
 **Statistics**
 

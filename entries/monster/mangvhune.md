@@ -104,7 +104,7 @@ acid), bite +22 (1d6+8), claw +22 (1d6+8)
 
 **Per day:**
 
-- 1/day: &S level 3; 1 babau 40%
+- 1/day: summon (level 3, 1 babau 40%)
 
 **Statistics**
 

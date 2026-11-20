@@ -99,7 +99,8 @@ save for her wide, fang-filled mouth._
 **Per day:**
 
 - 3/day: deep slumber (DC 17), gust of wind (DC 16)
-- 1/day: slow (DC 17), suggestion (DC 17), &S level 4; 2 [aghashes](ref/monster/div-aghash) 50%
+- 1/day: slow (DC 17), suggestion (DC 17), summon (level 4, 2 [aghashes](ref/monster/div-aghash)
+  50%)
 
 **Statistics**
 

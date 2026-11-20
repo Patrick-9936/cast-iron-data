@@ -111,7 +111,7 @@ _This crimson-haired demonic woman has wings of fire. She carries a slender bow 
 
 **Per day:**
 
-- 3/day: &EM delayed blast fireball (DC 30), symbol of persuasion (DC 29)
+- 3/day: empowered delayed blast fireball (DC 30), symbol of persuasion (DC 29)
 - 1/day: meteor swarm (DC 32), nightmare (DC 28), summon demons, time stop
 
 **Statistics**

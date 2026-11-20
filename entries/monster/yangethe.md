@@ -112,8 +112,8 @@ spidery legs._
 
 **Psychoactive powers:**
 
-- control summoned creature, 4 PE, DC 17, demand, 8 PE, DC 21, fear, 4 PE, DC 17, &Q true strike, 1
-  PE
+- control summoned creature, 4 PE, DC 17, demand, 8 PE, DC 21, fear, 4 PE, DC 17, quickened true
+  strike, 1 PE
 
 **Statistics**
 

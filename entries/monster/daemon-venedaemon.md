@@ -98,7 +98,7 @@ face is a disturbing, toothless maw._
 **Per day:**
 
 - 3/day: dimension door, dispel magic, slow (DC 16)
-- 1/day: &S level 3; 1 venedaemon 50% or 2d4 [cacodaemons](ref/monster/daemon-cacodaemon) 70%
+- 1/day: summon (level 3, 1 venedaemon 50% or 2d4 [cacodaemons](ref/monster/daemon-cacodaemon) 70%)
 
 **Spells Known**
 

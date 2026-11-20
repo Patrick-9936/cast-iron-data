@@ -102,8 +102,8 @@ tail slap +30 (2d8+6 plus [grab](ref/umr/grab))
 
 **Per day:**
 
-- 3/day: &Q fireball (DC 21)
-- 1/day: meteor swarm, &S level 9; any 1 CR 19 or lower devil; 100%
+- 3/day: quickened fireball (DC 21)
+- 1/day: meteor swarm, summon (level 9, any 1 CR 19 or lower devil, 100%)
 
 **Per year:**
 

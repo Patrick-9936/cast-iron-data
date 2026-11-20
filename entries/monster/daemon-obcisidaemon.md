@@ -104,10 +104,10 @@ immense, cruel-looking halberd._
 
 **Per day:**
 
-- 3/day: &Q cloudkill (DC 22), destruction (DC 24), fire storm (DC 25), incendiary cloud (DC 25),
-  spell turning
-- 1/day: mass hold person (DC 24), meteor swarm (DC 26), &S level 9; 1
-  [purrodaemon](ref/monster/daemon-purrodaemon) 50%
+- 3/day: quickened cloudkill (DC 22), destruction (DC 24), fire storm (DC 25), incendiary cloud (DC
+  25), spell turning
+- 1/day: mass hold person (DC 24), meteor swarm (DC 26), summon (level 9, 1
+  [purrodaemon](ref/monster/daemon-purrodaemon) 50%)
 
 **Statistics**
 

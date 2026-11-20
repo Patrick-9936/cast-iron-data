@@ -100,7 +100,7 @@ black-winged woman._
 
 **Per day:**
 
-- 3/day: &Q dispel magic, finger of death (DC 22), forbiddance, undeath to death (DC 21)
+- 3/day: quickened dispel magic, finger of death (DC 22), forbiddance, undeath to death (DC 21)
 - 1/day: energy drain (DC 24)
 
 **Statistics**

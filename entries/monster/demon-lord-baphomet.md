@@ -112,8 +112,8 @@ bite +40 (1d8+6)
 
 **Per day:**
 
-- 3/day: &Q greater dispel magic, maze, summon demons, summon minotaurs, symbol of persuasion (DC
-  28)
+- 3/day: quickened greater dispel magic, maze, summon demons, summon minotaurs, symbol of persuasion
+  (DC 28)
 - 1/day: imprisonment (DC 31), mass charm monster (DC 30), time stop
 
 **Statistics**

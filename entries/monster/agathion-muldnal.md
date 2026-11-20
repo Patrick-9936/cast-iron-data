@@ -93,7 +93,7 @@ dirt-stained smock; its pink nose twitches ceaselessly._
 **Per day:**
 
 - 3/day: create pit (DC 13)
-- 1/day: move earth, &S level 4; 1 [silvanshee](ref/monster/agathion-silvanshee) 35%
+- 1/day: move earth, summon (level 4, 1 [silvanshee](ref/monster/agathion-silvanshee) 35%)
 
 **Prepared Spells**
 

@@ -102,7 +102,7 @@ eyes._
 **Per day:**
 
 - 3/day: blade barrier (DC 23), fly
-- 1/day: &S level 5; 1 marilith 20%; 1 nalfeshnee at 35%; or 1d4 hezrous at 60%
+- 1/day: summon (level 5, 1 marilith 20%, 1 nalfeshnee at 35%, or 1d4 hezrous at 60%)
 
 **Statistics**
 

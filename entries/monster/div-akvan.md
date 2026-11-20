@@ -113,7 +113,7 @@ crowning its broad head._
 
 - 3/day: blasphemy (DC 25), disintegrate (DC 24), dispel magic, forcecage (DC 25), protection from
   energy
-- 1/day: geas/quest, plane shift, &S level 6; 1d2 [sepids](ref/monster/div-sepid) 100%
+- 1/day: geas/quest, plane shift, summon (level 6, 1d2 [sepids](ref/monster/div-sepid) 100%)
 
 **Statistics**
 

@@ -119,8 +119,8 @@ grab)
 
 **Per day:**
 
-- 3/day: &Q greater dispel magic, insanity (DC 27), summon demons, symbol of insanity (DC 28),
-  vortex (DC 27)
+- 3/day: quickened greater dispel magic, insanity (DC 27), summon demons, symbol of insanity (DC
+  28), vortex (DC 27)
 - 1/day: storm of vengeance^M^ (DC 29), time stop^M^, tsunami^M^ (DC 29)
 
 ###### M {#footnote-m}

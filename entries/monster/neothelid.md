@@ -97,7 +97,7 @@ head rises like a snake's._
 
 **Per day:**
 
-- 3/day: &Q suggestion (DC 18)
+- 3/day: quickened suggestion (DC 18)
 
 **Statistics**
 

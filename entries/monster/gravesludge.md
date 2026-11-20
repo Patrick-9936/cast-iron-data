@@ -93,7 +93,7 @@ soil._
 
 **Per day:**
 
-- 3/day: &Q death knell (DC 17), phantasmal killer (DC 19), wall of ectoplasm (DC 20)
+- 3/day: quickened death knell (DC 17), phantasmal killer (DC 19), wall of ectoplasm (DC 20)
 - 1/day: harm (DC 21)
 
 **Statistics**

@@ -90,7 +90,7 @@ muscled frame._
 **Per day:**
 
 - 3/day: arcane lock, expeditious retreat, protection from good
-- 1/day: &S level 2; 1d3 schirs 20%
+- 1/day: summon (level 2, 1d3 schirs 20%)
 
 **Statistics**
 

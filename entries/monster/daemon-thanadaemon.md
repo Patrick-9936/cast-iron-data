@@ -99,7 +99,8 @@ drain)
 **Per day:**
 
 - 3/day: animate dead, desecrate, enervation
-- 1/day: &S level 4; 1d4 [hydrodaemons](ref/monster/daemon-hydrodaemon) 80% or 1 thanadaemon 35%
+- 1/day: summon (level 4, 1d4 [hydrodaemons](ref/monster/daemon-hydrodaemon) 80% or 1 thanadaemon
+  35%)
 
 **Statistics**
 

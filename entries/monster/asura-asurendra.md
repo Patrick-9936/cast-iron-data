@@ -105,9 +105,10 @@ glowing weaponry._
 
 **Per day:**
 
-- 3/day: &Q baleful polymorph (DC 25), blasphemy (DC 27), &Q death knell (DC 22), deeper darkness,
-  demand (DC 28)
-- 1/day: power word stun, &S level 9; any 1 CR 19 or lower [asura](ref/family/asura) 100%, time stop
+- 3/day: quickened baleful polymorph (DC 25), blasphemy (DC 27), quickened death knell (DC 22),
+  deeper darkness, demand (DC 28)
+- 1/day: power word stun, summon (level 9, any 1 CR 19 or lower [asura](ref/family/asura) 100%),
+  time stop
 
 **Statistics**
 

@@ -98,9 +98,9 @@ shadows._
 
 **Per day:**
 
-- 3/day: hold person (DC 19), &Q invisibility, suggestion (DC 19)
-- 1/day: dream, feeblemind (DC 21), nightmare (DC 21), &S level 4; 1 oolioddroo 35% or 1d4 shadow
-  demons 35%
+- 3/day: hold person (DC 19), quickened invisibility, suggestion (DC 19)
+- 1/day: dream, feeblemind (DC 21), nightmare (DC 21), summon (level 4, 1 oolioddroo 35% or 1d4
+  shadow demons 35%)
 
 **Statistics**
 

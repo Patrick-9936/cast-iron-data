@@ -100,7 +100,7 @@ and mouthless._
 
 **Per day:**
 
-- 3/day: animate plants, displacement, &Q fungal infestation (DC 19)
+- 3/day: animate plants, displacement, quickened fungal infestation (DC 19)
 - 1/day: control plants (DC 24), microcosm (DC 25)
 
 **Statistics**

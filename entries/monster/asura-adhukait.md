@@ -98,7 +98,7 @@ with their twin curved knives._
 **Per day:**
 
 - 3/day: blink, blur, mirror image, spike growth
-- 1/day: &S level 4; 1 adhukait 35%
+- 1/day: summon (level 4, 1 adhukait 35%)
 
 **Statistics**
 

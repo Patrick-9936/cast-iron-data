@@ -101,7 +101,7 @@ between its yellowed fangs._
 
 **Per day:**
 
-- 1/day: &S CL 3rd; 1 magaav 40%
+- 1/day: summon (CL 3rd, 1 magaav 40%)
 
 **Statistics**
 

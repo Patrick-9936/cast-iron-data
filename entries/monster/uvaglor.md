@@ -101,7 +101,7 @@ talons +30 (1d6+5)
 **Per day:**
 
 - 3/day: dominate monster, creatures with wings only
-- 1/day: heroism, mirror image, &S level 3; 1 vrock 35%
+- 1/day: heroism, mirror image, summon (level 3, 1 vrock 35%)
 
 **Spells Known**
 

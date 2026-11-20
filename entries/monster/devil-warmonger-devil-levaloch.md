@@ -106,8 +106,8 @@ upon six bladed, beetle-like legs._
 
 **Per day:**
 
-- 1/day: &S level 4; 1d4 [lemure](ref/monster/devil-lemure) or 1
-  [bearded devil](ref/monster/devil-bearded-devil-barbazu) 40%
+- 1/day: summon (level 4, 1d4 [lemure](ref/monster/devil-lemure) or 1
+  [bearded devil](ref/monster/devil-bearded-devil-barbazu) 40%)
 
 **Statistics**
 

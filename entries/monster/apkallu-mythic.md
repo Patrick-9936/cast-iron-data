@@ -111,7 +111,7 @@ plus mark of restraint)
 
 **Per day:**
 
-- 3/day: &Q order's wrath^M^ (DC 23)
+- 3/day: quickened order's wrath^M^ (DC 23)
 - 1/day: commune
 
 **Psychic Magic**

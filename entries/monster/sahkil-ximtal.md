@@ -103,7 +103,7 @@ erupt from the towering bulk._
 
 **Per day:**
 
-- 3/day: cloudkill (DC 21), &Q displacement, suggestion (DC 19)
+- 3/day: cloudkill (DC 21), quickened displacement, suggestion (DC 19)
 - 1/day: horrid wilting (DC 24), imprisonment (DC 25), maze, sequester
 
 **Statistics**

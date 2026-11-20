@@ -99,7 +99,7 @@ curtains._
 
 **Per day:**
 
-- 3/day: &Q fear (DC 22), phantasmal killer (DC 22)
+- 3/day: quickened fear (DC 22), phantasmal killer (DC 22)
 
 **Statistics**
 

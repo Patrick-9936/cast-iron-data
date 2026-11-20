@@ -102,7 +102,7 @@ her._
 **Per day:**
 
 - 3/day: blink, calm emotions (DC 19), fly
-- 1/day: dominate person (DC 20), &S level 6; 1 wihsaak 40%
+- 1/day: dominate person (DC 20), summon (level 6, 1 wihsaak 40%)
 
 **Statistics**
 

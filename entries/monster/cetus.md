@@ -108,7 +108,7 @@ swallow a small ship._
 
 **At will:**
 
-- &Q control water, control winds
+- quickened control water, control winds
 
 **Per day:**
 

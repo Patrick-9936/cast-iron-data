@@ -91,7 +91,7 @@ for a large eye ringed by fangs._
 
 **Per day:**
 
-- 1/day: suggestion (DC 17), &S level 3; 1d2 [dorus](ref/monster/div-doru) 25%
+- 1/day: suggestion (DC 17), summon (level 3, 1d2 [dorus](ref/monster/div-doru) 25%)
 
 **Statistics**
 

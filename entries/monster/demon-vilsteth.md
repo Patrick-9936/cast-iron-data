@@ -100,8 +100,9 @@ Its eyes glow an eerie yellow, and horns curl from its eerie, mouthless head._
 
 **Per day:**
 
-- 3/day: charm monster (DC 20), &Q dominate person (DC 21), stone shape, vengeful outrage (DC 22)
-- 1/day: mass suggestion (DC 22), statue, &S level 7; 1 shachath or 1d3 succubi 50%, symbol of
+- 3/day: charm monster (DC 20), quickened dominate person (DC 21), stone shape, vengeful outrage (DC
+  22)
+- 1/day: mass suggestion (DC 22), statue, summon (level 7, 1 shachath or 1d3 succubi 50%), symbol of
   persuasion (DC 22)
 
 **Statistics**

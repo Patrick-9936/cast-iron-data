@@ -113,8 +113,8 @@ cold), 4 vines +32 (1d8+9/19-20 plus [grab](ref/umr/grab))
 
 **Per day:**
 
-- 3/day: animate plants, awaken, control plants (DC 27), grove of respite, repel metal or stone, &Q
-  wall of thorns
+- 3/day: animate plants, awaken, control plants (DC 27), grove of respite, repel metal or stone,
+  quickened wall of thorns
 - 1/day: regenerate, shambler
 
 **Prepared Spells**

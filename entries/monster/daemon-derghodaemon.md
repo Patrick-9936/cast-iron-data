@@ -100,8 +100,8 @@ beast._
 
 **Per day:**
 
-- 3/day: fear (DC 17), &Q summon swarm
-- 1/day: creeping doom, insect plague, &S level 4; 1 derghodaemon 30%
+- 3/day: fear (DC 17), quickened summon swarm
+- 1/day: creeping doom, insect plague, summon (level 4, 1 derghodaemon 30%)
 
 **Statistics**
 

@@ -79,7 +79,7 @@ moves with surprising quickness._
 
 **Per day:**
 
-- 1/day: cause fear (DC 11), stinking cloud (DC 13), &S level 1; 1 dretch 35%
+- 1/day: cause fear (DC 11), stinking cloud (DC 13), summon (level 1, 1 dretch 35%)
 
 **Statistics**
 

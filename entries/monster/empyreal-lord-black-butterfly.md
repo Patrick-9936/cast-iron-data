@@ -115,7 +115,8 @@ electricity, energy drain, petrification
 
 **Per day:**
 
-- 3/day: antimagic field^M^, &Q heal^M^, reverse gravity^M^, &Q wandering star motes (DC 25)
+- 3/day: antimagic field^M^, quickened heal^M^, reverse gravity^M^, quickened wandering star motes
+  (DC 25)
 - 1/day: gate, implosion (DC 30), mage's disjunction^M^, moment of prescience, time stop^M^
 
 ###### M {#footnote-m}

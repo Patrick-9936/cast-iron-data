@@ -104,7 +104,7 @@ with dead black eyes._
 **Per day:**
 
 - 3/day: magic circle against good, waves of fatigue
-- 1/day: &S level 5; 1d2 [pairakas](ref/monster/div-pairaka) or 1 shira 35%
+- 1/day: summon (level 5, 1d2 [pairakas](ref/monster/div-pairaka) or 1 shira 35%)
 
 **Statistics**
 

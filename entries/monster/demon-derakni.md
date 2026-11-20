@@ -94,8 +94,8 @@ front legs end in clawed hands._
 
 **Per day:**
 
-- 3/day: enervation, &Q summon swarm
-- 1/day: insect plague, &S level 4; 1 derakni or 1d4 vescavor swarms 40%
+- 3/day: enervation, quickened summon swarm
+- 1/day: insect plague, summon (level 4, 1 derakni or 1d4 vescavor swarms 40%)
 
 **Statistics**
 

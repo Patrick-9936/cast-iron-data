@@ -92,7 +92,7 @@ vulture._
 
 **Per day:**
 
-- 1/day: heroism, mirror image, &S level 3; 1 vrock 35%
+- 1/day: heroism, mirror image, summon (level 3, 1 vrock 35%)
 
 **Statistics**
 

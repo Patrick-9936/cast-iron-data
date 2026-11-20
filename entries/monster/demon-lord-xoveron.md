@@ -106,7 +106,7 @@ poison)
 
 **Per day:**
 
-- 3/day: earthquake, &Q flesh to stone (DC 25), reverse gravity, symbol of weakness (DC 26)
+- 3/day: earthquake, quickened flesh to stone (DC 25), reverse gravity, symbol of weakness (DC 26)
 - 1/day: implosion (DC 28), imprisonment (DC 28), time stop
 
 **Statistics**

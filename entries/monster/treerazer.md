@@ -111,7 +111,7 @@ tooth-filled beak._
 
 **Per day:**
 
-- 3/day: control plants (DC 25), &Q greater dispel magic, wall of thorns
+- 3/day: control plants (DC 25), quickened greater dispel magic, wall of thorns
 - 1/day: horrid wilting (DC 25), summon demons, symbol of death (DC 25), time stop
 
 **Statistics**

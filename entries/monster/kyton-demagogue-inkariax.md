@@ -109,8 +109,8 @@ petrification, poison
 
 - 7/day: dimension door
 - 5/day: cone of cold (DC 23), freezing sphere (DC 24), ice storm, wall of ice (DC 22)
-- 3/day: imprisonment (DC 27), polar ray, soul bind (DC 27), &S level 5; 3
-  [evangelist kytons](ref/monster/kyton) 85%
+- 3/day: imprisonment (DC 27), polar ray, soul bind (DC 27), summon (level 5, 3
+  [evangelist kytons](ref/monster/kyton) 85%)
 
 **Statistics**
 

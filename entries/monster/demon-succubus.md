@@ -93,7 +93,7 @@ _Tiny horns, bat-like wings, and a sinuous tail betray the demonic nature of thi
 
 **Per day:**
 
-- 1/day: dominate person (DC 23), &S level 3; 1 babau 50%
+- 1/day: dominate person (DC 23), summon (level 3, 1 babau 50%)
 
 **Statistics**
 

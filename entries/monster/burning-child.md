@@ -98,7 +98,7 @@ and smoldering ash._
 
 **Per day:**
 
-- 3/day: &Q fireball (DC 17)
+- 3/day: quickened fireball (DC 17)
 
 **Statistics**
 

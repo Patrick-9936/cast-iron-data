@@ -90,8 +90,8 @@ shields._
 
 **At will:**
 
-- bleed, deathwatch, detect undead, disrupt undead, ghost sound (DC 11), &S level 1; 1 great horned
-  owl 100%
+- bleed, deathwatch, detect undead, disrupt undead, ghost sound (DC 11), summon (level 1, 1 great
+  horned owl 100%)
 
 **Per day:**
 

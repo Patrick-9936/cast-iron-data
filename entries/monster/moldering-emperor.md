@@ -109,7 +109,7 @@ blood, 6d6 cold, Reflex DC 29 half, once every 1d4 rounds
 
 **Per day:**
 
-- 3/day: &Q suggestion (DC 19)
+- 3/day: quickened suggestion (DC 19)
 
 **Statistics**
 

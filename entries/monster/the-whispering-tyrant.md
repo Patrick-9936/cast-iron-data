@@ -107,12 +107,12 @@ spells (2/day), paralyzing touch (DC 39), wild arcana
 
 **8th-level spells:**
 
-- &EM disintegrate, spell turning
+- empowered disintegrate, spell turning
 
 **6th-level spells:**
 
-- acid fog, disintegrate (DC 29), greater dispel magic, 2, repulsion (DC 29), true seeing, &EM
-  vampiric touch, dismissal (DC 28), dominate person (DC 28), &Q magic missile, 2
+- acid fog, disintegrate (DC 29), greater dispel magic, 2, repulsion (DC 29), true seeing, empowered
+  vampiric touch, dismissal (DC 28), dominate person (DC 28), quickened magic missile, 2
 
 **1st-level spells:**
 

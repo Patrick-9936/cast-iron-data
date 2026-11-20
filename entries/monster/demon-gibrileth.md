@@ -104,7 +104,7 @@ face._
 **Per day:**
 
 - 3/day: stinking cloud (DC 16)
-- 1/day: &S level 4; 1 gibrileth 35%, waves of fatigue
+- 1/day: summon (level 4, 1 gibrileth 35%), waves of fatigue
 
 **Statistics**
 

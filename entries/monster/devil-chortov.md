@@ -95,7 +95,8 @@ bite +11 (2d6+8)
 **Per day:**
 
 - 3/day: dimension door, fireball (DC 15)
-- 1/day: wall of fire, &S level 4; 3 [bearded devils](ref/monster/devil-bearded-devil-barbazu); 40%
+- 1/day: wall of fire, summon (level 4, 3 [bearded devils](ref/monster/devil-bearded-devil-barbazu),
+  40%)
 
 **Statistics**
 

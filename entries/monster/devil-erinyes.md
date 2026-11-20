@@ -94,7 +94,7 @@ eyes search for a target._
 
 **Per day:**
 
-- 1/day: &S level 3; 2 [bearded devils](ref/monster/devil-bearded-devil-barbazu); 50%
+- 1/day: summon (level 3, 2 [bearded devils](ref/monster/devil-bearded-devil-barbazu), 50%)
 
 **Statistics**
 

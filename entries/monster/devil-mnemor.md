@@ -93,8 +93,8 @@ tongue snaking out over its distended jaw._
 
 **Per day:**
 
-- 1/day: &S level 3; 1 [bearded devil](ref/monster/devil-bearded-devil-barbazu) or 6
-  [lemures](ref/monster/devil-lemure) 50%
+- 1/day: summon (level 3, 1 [bearded devil](ref/monster/devil-bearded-devil-barbazu) or 6
+  [lemures](ref/monster/devil-lemure) 50%)
 
 **Psychic Magic**
 

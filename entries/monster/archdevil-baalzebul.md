@@ -111,8 +111,8 @@ plus 1d6 cold) or 2 slams +47 (8d6+13)
 
 **Per day:**
 
-- 3/day: demand (DC 30), finger of death^M^ (DC 29), &Q freezing sphere, &EM cone of cold^M^, summon
-  devils
+- 3/day: demand (DC 30), finger of death^M^ (DC 29), quickened freezing sphere, empowered cone of
+  cold^M^, summon devils
 - 1/day: mass suffocation (DC 31), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

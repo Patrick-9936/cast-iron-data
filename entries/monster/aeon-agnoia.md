@@ -103,7 +103,7 @@ jut from around the column, each ending in a hand with long, black claws._
 
 **Per day:**
 
-- 3/day: feeblemind (DC 20), &Q touch of idiocy
+- 3/day: feeblemind (DC 20), quickened touch of idiocy
 
 **Statistics**
 

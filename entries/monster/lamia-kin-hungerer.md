@@ -101,7 +101,8 @@ plus 2 Wisdom drain)
 
 **Per day:**
 
-- 3/day: charm monster (DC 18), gust of wind (DC 16), &Q stinking cloud (DC 17), suggestion (DC 17)
+- 3/day: charm monster (DC 18), gust of wind (DC 16), quickened stinking cloud (DC 17), suggestion
+  (DC 17)
 - 1/day: deep slumber (DC 17), mass charm monster (DC 22), mirror image
 
 **Statistics**

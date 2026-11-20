@@ -110,10 +110,10 @@ maw with a red eye in its throat._
 
 **Per day:**
 
-- 3/day: &Q baleful polymorph (DC 21), flesh to stone (DC 22), phase door, polymorph any object (DC
-  24), wall of stone
-- 1/day: earthquake, &S level 9; any qlippoth or combination of qlippoth whose total combined CR is
-  20 or lower 100%
+- 3/day: quickened baleful polymorph (DC 21), flesh to stone (DC 22), phase door, polymorph any
+  object (DC 24), wall of stone
+- 1/day: earthquake, summon (level 9, any qlippoth or combination of qlippoth whose total combined
+  CR is 20 or lower 100%)
 
 **Statistics**
 

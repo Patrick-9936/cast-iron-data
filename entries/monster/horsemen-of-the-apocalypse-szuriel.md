@@ -108,7 +108,7 @@ energy drain)
 **Per day:**
 
 - 3/day: blade barrier^M^ (DC 26), fire storm^M^ (DC 28), incendiary cloud (DC 28), plane shift (DC
-  27), summon daemon, &Q telekinesis^M^ (DC 25)
+  27), summon daemon, quickened telekinesis^M^ (DC 25)
 - 1/day: meteor swarm^M^ (DC 29), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

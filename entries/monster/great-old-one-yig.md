@@ -119,7 +119,7 @@ mind-affecting effects, paralysis, petrification, poison
 
 **Per day:**
 
-- 3/day: demand, &Q feeblemind (DC 25)
+- 3/day: demand, quickened feeblemind (DC 25)
 - 1/day: control weather^M^, symbol of persuasion (DC 26), true resurrection
 
 ###### M {#footnote-m}

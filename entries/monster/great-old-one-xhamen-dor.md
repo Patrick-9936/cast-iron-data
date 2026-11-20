@@ -118,8 +118,8 @@ dread decay)
 
 **Per day:**
 
-- 3/day: control plants (DC 25), create greater undead, create undead, demand (DC 25), &Q feeblemind
-  (DC 22)
+- 3/day: control plants (DC 25), create greater undead, create undead, demand (DC 25), quickened
+  feeblemind (DC 22)
 - 1/day: cursed earth, microcosm (DC 26), symbol of insanity (DC 25)
 
 **Statistics**

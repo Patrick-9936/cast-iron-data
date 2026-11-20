@@ -122,12 +122,12 @@ composed of wispy blue light._
 
 **9th-level spells:**
 
-- gate, mass heal (DC 29), miracle, overwhelming presence (DC 29), &Q righteous might
+- gate, mass heal (DC 29), miracle, overwhelming presence (DC 29), quickened righteous might
 
 **8th-level spells:**
 
-- antimagic field, discern location, &Q divine power, fickle winds, greater command (DC 25), plane
-  shift (DC 25), serenity (DC 25)
+- antimagic field, discern location, quickened divine power, fickle winds, greater command (DC 25),
+  plane shift (DC 25), serenity (DC 25)
 
 **4th-level spells:**
 

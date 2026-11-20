@@ -102,7 +102,7 @@ looming malevolence and faint foul breath._
   Ethereal Plane to Material Plane and vice versa, minor creation, plane shift, self only; to
   Ethereal Plane, Hell, or Material Plane only, produce flame (domain spell) (DC 14), silent image
   (domain spell) (DC 14), suggestion (DC 16), unseen servant (domain spell) (DC 14)
-- 1/day: &S level 4; 1 lesser possession devil; 40%
+- 1/day: summon (level 4, 1 lesser possession devil, 40%)
 
 **Statistics**
 

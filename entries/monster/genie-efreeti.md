@@ -92,7 +92,7 @@ from its flesh._
 
 **Per day:**
 
-- 3/day: invisibility, &Q scorching ray, wall of fire (DC 16)
+- 3/day: invisibility, quickened scorching ray, wall of fire (DC 16)
 - 1/day: !grant up to 3 [wishes](ref/spell/wish) (to non-genies only), gaseous form, permanent image
   (DC 18)
 

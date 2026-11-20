@@ -96,7 +96,7 @@ four arms ends in a clawed hand._
 
 **Per day:**
 
-- 3/day: control undead (DC 24), &Q death knell (DC 19)
+- 3/day: control undead (DC 24), quickened death knell (DC 19)
 - 1/day: create greater undead, create undead, finger of death (DC 24)
 
 **Statistics**

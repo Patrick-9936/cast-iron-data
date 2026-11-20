@@ -98,10 +98,10 @@ _This creature has the body of a middle-aged human man and the pointed ears and 
 
 **Per day:**
 
-- 3/day: &Q greater heroism, vengeful outrage (DC 25)
+- 3/day: quickened greater heroism, vengeful outrage (DC 25)
 - 1/day: cloak of dreams (DC 25), freedom, insanity (DC 26), mass charm monster (DC 27), plant
-  growth, reincarnate, &S level 9; 4d4 advanced dire tigers; 4d4 advanced maenads; or 2 storm giants
-  100%
+  growth, reincarnate, summon (level 9, 4d4 advanced dire tigers, 4d4 advanced maenads, or 2 storm
+  giants 100%)
 
 **Statistics**
 

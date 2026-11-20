@@ -118,8 +118,8 @@ mind-affecting effects, petrification, poison
 
 **Per day:**
 
-- 3/day: &Q circle of death^M^ (DC 28), plane shift^M^ (DC 29), soul bind (DC 31), summon daemon,
-  symbol of death (DC 30), &Q telekinesis^M^ (DC 27), wail of the banshee (DC 31)
+- 3/day: quickened circle of death^M^ (DC 28), plane shift^M^ (DC 29), soul bind (DC 31), summon
+  daemon, symbol of death (DC 30), quickened telekinesis^M^ (DC 27), wail of the banshee (DC 31)
 - 1/day: time stop^M^, wish^M^
 
 ###### M {#footnote-m}

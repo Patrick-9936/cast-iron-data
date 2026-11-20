@@ -100,7 +100,7 @@ dozens of sharp teeth. It carries a barbed spear with a long, clinking chain att
 
 **Per day:**
 
-- 1/day: &S level 6; 1 painajai 35%
+- 1/day: summon (level 6, 1 painajai 35%)
 
 **Psychic Magic**
 

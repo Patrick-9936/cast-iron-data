@@ -107,7 +107,7 @@ and two huge claws dangle below._
 
 - 3/day: black tentacles, dimensional lock, horrid wilting (DC 26), insanity (DC 25), word of chaos
   (DC 25)
-- 1/day: &Q heal, imprisonment (DC 27)
+- 1/day: quickened heal, imprisonment (DC 27)
 
 **Statistics**
 

@@ -112,8 +112,8 @@ precision damage
 
 **Per day:**
 
-- 3/day: &Q dominate person^M^ (DC 29), fire storm^M^ (DC 32), globe of invulnerability^M^, mass
-  charm monster (DC 32), mislead^M^ (DC 30), summon devils
+- 3/day: quickened dominate person^M^ (DC 29), fire storm^M^ (DC 32), globe of invulnerability^M^,
+  mass charm monster (DC 32), mislead^M^ (DC 30), summon devils
 - 1/day: soul bind (DC 33), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

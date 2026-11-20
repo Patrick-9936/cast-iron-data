@@ -78,7 +78,7 @@ _This small humanoid creature has thin, leathery wings, small horns, and a misch
 
 **Per day:**
 
-- 1/day: &S level 2; 1 mephit of the same type 25%, =additional abilities based on mephit type
+- 1/day: summon (level 2, 1 mephit of the same type 25%), =additional abilities based on mephit type
 
 **Statistics**
 

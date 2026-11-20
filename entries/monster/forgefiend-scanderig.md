@@ -100,8 +100,8 @@ end in razor-sharp claws._
 
 **Per day:**
 
-- 3/day: deeper darkness, dimensional anchor, flesh to stone (DC 18), &Q produce flame, wall of
-  fire, wall of stone
+- 3/day: deeper darkness, dimensional anchor, flesh to stone (DC 18), quickened produce flame, wall
+  of fire, wall of stone
 
 **Statistics**
 

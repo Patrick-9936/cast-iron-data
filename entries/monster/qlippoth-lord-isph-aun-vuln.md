@@ -104,7 +104,7 @@ soul shell
 
 **Per day:**
 
-- 3/day: dominate monster (DC 28), greater possession (DC 27), &Q mass suggestion (DC 25),
+- 3/day: dominate monster (DC 28), greater possession (DC 27), quickened mass suggestion (DC 25),
   whirlwind^M^ (DC 27)
 - 1/day: summon qlippoth, wish^M^
 

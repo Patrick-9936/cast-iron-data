@@ -88,7 +88,7 @@ gore-fattened fly._
 **Per day:**
 
 - 3/day: grease, summon swarm, whispering wind
-- 1/day: &S level 3; 1 zebub or 1d4 [lemures](ref/monster/devil-lemure); 40%
+- 1/day: summon (level 3, 1 zebub or 1d4 [lemures](ref/monster/devil-lemure), 40%)
 
 **Statistics**
 

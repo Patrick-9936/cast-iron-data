@@ -108,8 +108,8 @@ _The wrinkled, blotchy skin of this giant hangs from its body like hooded robes,
 
 **Per day:**
 
-- 3/day: &Q dimension door, disintegrate (DC 24), &Q mass inflict moderate wounds (DC 24), word of
-  chaos (DC 25)
+- 3/day: quickened dimension door, disintegrate (DC 24), quickened mass inflict moderate wounds (DC
+  24), word of chaos (DC 25)
 - 1/day: orb of the void (DC 26)
 
 **Statistics**

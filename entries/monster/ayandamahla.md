@@ -111,7 +111,7 @@ weapons and fangs drip with blood._
 
 **Per day:**
 
-- 1/day: dominate person (DC 29), &S level 3; 1 babau 50%
+- 1/day: dominate person (DC 29), summon (level 3, 1 babau 50%)
 
 **Spells Known**
 

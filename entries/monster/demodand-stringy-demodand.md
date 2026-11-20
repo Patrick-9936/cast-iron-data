@@ -99,7 +99,7 @@ _This lanky, winged humanoid is covered in layers of long, ropy skin growths._
 **Per day:**
 
 - 3/day: fear (DC 18), greater dispel magic
-- 1/day: hold monster (DC 19), &S level 6; 1d4 tarry demodands or 1d2 stringy demodands 40%
+- 1/day: hold monster (DC 19), summon (level 6, 1d4 tarry demodands or 1d2 stringy demodands 40%)
 
 **Statistics**
 

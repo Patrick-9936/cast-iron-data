@@ -91,7 +91,7 @@ woven grass._
 
 **Per day:**
 
-- 3/day: &Q entangle (DC 12)
+- 3/day: quickened entangle (DC 12)
 - 1/day: cloudkill (DC 16)
 
 **Statistics**

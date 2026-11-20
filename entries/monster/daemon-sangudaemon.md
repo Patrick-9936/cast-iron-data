@@ -100,8 +100,8 @@ dripping crimson streamers._
 
 **Per day:**
 
-- 3/day: &Q death knell (DC 14), invisibility, summon swarm
-- 1/day: hold monster (DC 17), &S level 6; 1 sangudaemon 40%
+- 3/day: quickened death knell (DC 14), invisibility, summon swarm
+- 1/day: hold monster (DC 17), summon (level 6, 1 sangudaemon 40%)
 
 **Statistics**
 

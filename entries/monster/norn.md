@@ -107,8 +107,8 @@ flat-footed
 
 **Per day:**
 
-- 1/day: maze, moment of prescience, &Q phantasmal killer (DC 24), power word kill, time stop, weird
-  (DC 29)
+- 1/day: maze, moment of prescience, quickened phantasmal killer (DC 24), power word kill, time
+  stop, weird (DC 29)
 
 **Statistics**
 

@@ -112,7 +112,7 @@ its back._
 
 **Per day:**
 
-- 3/day: baleful polymorph (DC 21), chaos hammer (DC 20), &Q displacement
+- 3/day: baleful polymorph (DC 21), chaos hammer (DC 20), quickened displacement
 - 1/day: plane shift (DC 23), polymorph any object (DC 24)
 
 **Statistics**

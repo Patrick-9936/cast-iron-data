@@ -106,9 +106,9 @@ plus 4d6 cold and poison)
 
 **Per day:**
 
-- 3/day: &Q cone of cold (DC 21), confusion (DC 20), haste, hold monster (DC 21)
-- 1/day: finger of death (DC 23), mass hold monster (DC 25), plane shift (DC 23), &S level 8; 6
-  greater shadows
+- 3/day: quickened cone of cold (DC 21), confusion (DC 20), haste, hold monster (DC 21)
+- 1/day: finger of death (DC 23), mass hold monster (DC 25), plane shift (DC 23), summon (level 8, 6
+  greater shadows)
 
 **Statistics**
 

@@ -106,7 +106,7 @@ rancidly obese body._
 
 **Per day:**
 
-- 1/day: &S level 5; 1 nalfeshnee 20%; 1d4 hezrous 40%; or 1d4 vrocks 50%
+- 1/day: summon (level 5, 1 nalfeshnee 20%, 1d4 hezrous 40%, or 1d4 vrocks 50%)
 
 **Prepared Spells**
 
@@ -116,16 +116,16 @@ rancidly obese body._
 
 **8th-level spells:**
 
-- &Q confusion (DC 27), prismatic spray, project image (DC 30)
+- quickened confusion (DC 27), prismatic spray, project image (DC 30)
 
 **6th-level spells:**
 
-- flesh to stone (DC 29), geas/quest, mass suggestion (DC 29), &Q mirror image, mislead
+- flesh to stone (DC 29), geas/quest, mass suggestion (DC 29), quickened mirror image, mislead
 
 **5th-level spells:**
 
-- &EX charm monster (DC 27), beast shape I, hold person (DC 26), major image (DC 26), nondetection,
-  suggestion (DC 26)
+- extended charm monster (DC 27), beast shape I, hold person (DC 26), major image (DC 26),
+  nondetection, suggestion (DC 26)
 
 **2nd-level spells:**
 

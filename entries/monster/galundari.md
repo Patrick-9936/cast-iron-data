@@ -114,9 +114,9 @@ a whip of flames._
 
 **Per day:**
 
-- 3/day: &Q telekinesis (DC 24)
-- 1/day: blasphemy (DC 26), fire storm (DC 27), implosion (DC 28), &S level 9; any one CR 19 or
-  lower demon 100%
+- 3/day: quickened telekinesis (DC 24)
+- 1/day: blasphemy (DC 26), fire storm (DC 27), implosion (DC 28), summon (level 9, any one CR 19 or
+  lower demon 100%)
 
 **Statistics**
 

@@ -100,9 +100,9 @@ greasy skin._
 
 **Per day:**
 
-- 3/day: &Q excruciating deformation (DC 17)
-- 1/day: mass pain strike (DC 19), &S level 6; 1d4 tarry demodands or 1d2 stringy demodands 55%,
-  waves of exhaustion
+- 3/day: quickened excruciating deformation (DC 17)
+- 1/day: mass pain strike (DC 19), summon (level 6, 1d4 tarry demodands or 1d2 stringy demodands
+  55%), waves of exhaustion
 
 **Statistics**
 

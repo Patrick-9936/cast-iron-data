@@ -88,7 +88,7 @@ _This elven woman's allure is obfuscated by her ragged insectile wings and long,
 **Per day:**
 
 - 3/day: charm person (DC 13), darkness, locate creature
-- 1/day: dimension door, ethereal jaunt, self plus 50 lbs. of objects only, &heightened charm person
+- 1/day: dimension door, ethereal jaunt, self plus 50 lbs. of objects only, heightened charm person
   (DC 16), suggestion (DC 15)
 
 **Statistics**

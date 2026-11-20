@@ -90,8 +90,8 @@ of shimmering light._
 
 **Per day:**
 
-- 3/day: dispel chaos, haste, hold monster (DC 20), lightning bolt (DC 18), &EM order's wrath (DC
-  19), telekinesis (DC 20), true strike
+- 3/day: dispel chaos, haste, hold monster (DC 20), lightning bolt (DC 18), empowered order's wrath
+  (DC 19), telekinesis (DC 20), true strike
 - 1/day: summon inevitable, true seeing
 
 **Statistics**

@@ -112,7 +112,8 @@ disease)
 
 **Per day:**
 
-- 3/day: banishment (DC 27), &Q contagion^M^ (DC 24), dimensional lock^M^, maze^M^, summon devils
+- 3/day: banishment (DC 27), quickened contagion^M^ (DC 24), dimensional lock^M^, maze^M^, summon
+  devils
 - 1/day: gate, time stop^M^, wish^M^
 
 ###### M {#footnote-m}

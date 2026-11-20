@@ -106,8 +106,8 @@ slap +26 (2d6+6)
 
 - 3/day: blasphemy (DC 24), dispel magic, ethereal jaunt, harm (DC 23), heal (DC 23), hold monster
   (DC 22), wall of stone
-- 1/day: greater scrying (DC 21), &S level 7;
-  [horned devil](ref/monster/devil-horned-devil-cornugon) 60%, unhallow
+- 1/day: greater scrying (DC 21), summon (level 7,
+  [horned devil](ref/monster/devil-horned-devil-cornugon) 60%), unhallow
 
 **Statistics**
 

@@ -121,7 +121,8 @@ a crown of horns._
 
 **8th-level spells:**
 
-- demand^D^, earthquake, &Q holy smite (DC 21), holy word (DC 24), &Q invisibility purge
+- demand^D^, earthquake, quickened holy smite (DC 21), holy word (DC 24), quickened invisibility
+  purge
 
 **5th-level spells:**
 

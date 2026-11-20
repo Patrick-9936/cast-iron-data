@@ -97,7 +97,7 @@ _This oversized humanoid is dressed in tattered rags that don't quite cover its 
 **Per day:**
 
 - 3/day: plague carrier (DC 18), plague storm (DC 20), wither limb (DC 19)
-- 1/day: &S level 6; 1 tick swarm 100%
+- 1/day: summon (level 6, 1 tick swarm 100%)
 
 **Statistics**
 

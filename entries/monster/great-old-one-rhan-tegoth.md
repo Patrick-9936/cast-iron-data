@@ -119,7 +119,8 @@ mind-affecting effects, paralysis, petrification, poison
 
 **Per day:**
 
-- 3/day: demand (DC 27), &Q feeblemind (DC 24), &Q flesh to stone^M^ (DC 25), stone to flesh
+- 3/day: demand (DC 27), quickened feeblemind (DC 24), quickened flesh to stone^M^ (DC 25), stone to
+  flesh
 - 1/day: earthquake^M^, imprisonment (DC 28), symbol of strife (DC 28)
 
 ###### M {#footnote-m}

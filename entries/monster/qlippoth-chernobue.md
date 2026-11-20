@@ -105,7 +105,7 @@ maw for a belly._
 
 **Per day:**
 
-- 3/day: confusion (DC 18), &Q darkness, dispel magic, protection from law
+- 3/day: confusion (DC 18), quickened darkness, dispel magic, protection from law
 - 1/day: plane shift (DC 21)
 
 **Statistics**

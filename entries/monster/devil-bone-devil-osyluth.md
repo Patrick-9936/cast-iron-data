@@ -97,8 +97,8 @@ moves in unsettling lurches._
 
 **Per day:**
 
-- 3/day: &Q invisibility, self only
-- 1/day: &S level 4; 1 bone devil; 35%
+- 3/day: quickened invisibility, self only
+- 1/day: summon (level 4, 1 bone devil, 35%)
 
 **Statistics**
 

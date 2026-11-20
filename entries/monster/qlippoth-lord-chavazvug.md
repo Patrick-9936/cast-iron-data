@@ -114,8 +114,8 @@ searing flesh
 
 **Per day:**
 
-- 3/day: &Q contagious flame, delayed blast fireball (DC 23), harm^M^ (DC 22), resurrection, see
-  tainted resurrection, wall of lava
+- 3/day: quickened contagious flame, delayed blast fireball (DC 23), harm^M^ (DC 22), resurrection,
+  see tainted resurrection, wall of lava
 - 1/day: meteor swarm^M^ (DC 25), summon qlippoth
 
 ###### M {#footnote-m}

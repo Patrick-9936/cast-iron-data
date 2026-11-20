@@ -103,7 +103,7 @@ her clothing and staff._
 **Per day:**
 
 - 5/day: speak with dead
-- 3/day: &S level 7; 1d4 giant tarantulas 75% or 1d4 spider swarms 100%
+- 3/day: summon (level 7, 1d4 giant tarantulas 75% or 1d4 spider swarms 100%)
 
 **Spells Known**
 

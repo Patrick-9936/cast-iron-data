@@ -101,7 +101,7 @@ _Flickers of light and energy radiate from this awe-inspiring, bird-like creatur
 
 **Per day:**
 
-- 3/day: breath of life, heal, searing light, &S level 8; 1 phoenix 75%
+- 3/day: breath of life, heal, searing light, summon (level 8, 1 phoenix 75%)
 - 1/day: reincarnate
 
 **Statistics**

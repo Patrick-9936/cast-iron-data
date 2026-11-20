@@ -99,7 +99,7 @@ sides of its wide mouth, and its slimy skin undulates with sickening shudders._
 
 **Per day:**
 
-- 3/day: &scarring crushing despair (DC 20), emotive block (DC 19), mad hallucination (DC 18), mind
+- 3/day: scarring crushing despair (DC 20), emotive block (DC 19), mad hallucination (DC 18), mind
   thrust IV (DC 20), modify memory (DC 20)
 - 1/day: eyebite (DC 22)
 

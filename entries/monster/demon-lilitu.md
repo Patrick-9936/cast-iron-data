@@ -105,9 +105,9 @@ her most disturbing feature._
 
 **Per day:**
 
-- 3/day: &Q charm monster (DC 22), persistent image (DC 23), seeming (DC 23)
-- 1/day: demand (DC 26), dominate monster (DC 27), project image (DC 25), &S level 5; 1 lilitu 20%;
-  1d2 glabrezus 40%; or 1d6 vrocks 50%
+- 3/day: quickened charm monster (DC 22), persistent image (DC 23), seeming (DC 23)
+- 1/day: demand (DC 26), dominate monster (DC 27), project image (DC 25), summon (level 5, 1 lilitu
+  20%, 1d2 glabrezus 40%, or 1d6 vrocks 50%)
 
 **Per week:**
 

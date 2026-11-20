@@ -90,7 +90,7 @@ figure._
 
 **Per day:**
 
-- 3/day: &Q ghost sound (DC 15), suggestion (DC 17)
+- 3/day: quickened ghost sound (DC 15), suggestion (DC 17)
 - 1/day: dominate person (DC 19)
 
 **Statistics**

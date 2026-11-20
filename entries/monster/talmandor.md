@@ -115,8 +115,8 @@ slasher, twin talons
 
 - 3/day: break enchantment, control winds, divine power, eagle aerie, chain lightning (DC 23), holy
   aura (DC 25), holy word (DC 24), miracle, plane shift (DC 24), spell turning
-- 1/day: control weather, mass heal, overwhelming presence (DC 26), &S level 8; 1d4+1 advanced
-  avorals 100%, sunburst (DC 25), whirlwind (DC 25)
+- 1/day: control weather, mass heal, overwhelming presence (DC 26), summon (level 8, 1d4+1 advanced
+  avorals 100%), sunburst (DC 25), whirlwind (DC 25)
 
 **Statistics**
 

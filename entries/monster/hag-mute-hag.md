@@ -99,7 +99,7 @@ gray-skinned crone._
 
 **Per day:**
 
-- 3/day: bestow curse (DC 17), blindness/deafness (DC 16), &EM cone of cold (DC 19), crushing
+- 3/day: bestow curse (DC 17), blindness/deafness (DC 16), empowered cone of cold (DC 19), crushing
   despair (DC 17), silence (DC 16)
 - 1/day: control weather
 

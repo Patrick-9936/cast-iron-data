@@ -102,8 +102,8 @@ sprout from its back._
 
 **Per day:**
 
-- 3/day: dominate person (DC 21), &Q fireball (DC 19), rage (DC 19), song of discord (DC 21)
-- 1/day: demand (DC 24), mass suggestion (DC 22), &S level 6; 1 succubus 35%
+- 3/day: dominate person (DC 21), quickened fireball (DC 19), rage (DC 19), song of discord (DC 21)
+- 1/day: demand (DC 24), mass suggestion (DC 22), summon (level 6, 1 succubus 35%)
 
 **Statistics**
 

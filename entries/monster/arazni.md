@@ -112,7 +112,7 @@ hand of the apprentice (17/day), inspire minions, marshal's order (advance), met
 
 **8th-level spells:**
 
-- &Q charm monster, mass fly, power word blind, spell turning, waves of ecstasy (DC 34)
+- quickened charm monster, mass fly, power word blind, spell turning, waves of ecstasy (DC 34)
 
 **6th-level spells:**
 
@@ -121,7 +121,8 @@ hand of the apprentice (17/day), inspire minions, marshal's order (advance), met
 
 **5th-level spells:**
 
-- dominate person (2, DC 32), feeblemind (DC 32), overland flight, already cast, &Q true strike, 3
+- dominate person (2, DC 32), feeblemind (DC 32), overland flight, already cast, quickened true
+  strike, 3
 
 **4th-level spells:**
 

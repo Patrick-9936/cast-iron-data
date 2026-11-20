@@ -95,7 +95,7 @@ a hideous, twitching beard._
 
 **Per day:**
 
-- 1/day: &S level 3; 1 bearded devil or 6 [lemures](ref/monster/devil-lemure); 50%
+- 1/day: summon (level 3, 1 bearded devil or 6 [lemures](ref/monster/devil-lemure), 50%)
 
 **Statistics**
 

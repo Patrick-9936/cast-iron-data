@@ -99,7 +99,7 @@ _A pair of frozen, multifaceted eyes coldly judge all before this towering, inse
 
 **Per day:**
 
-- 1/day: &S level 4; 2 [bone devils](ref/monster/devil-bone-devil-osyluth); 50%
+- 1/day: summon (level 4, 2 [bone devils](ref/monster/devil-bone-devil-osyluth), 50%)
 
 **Statistics**
 

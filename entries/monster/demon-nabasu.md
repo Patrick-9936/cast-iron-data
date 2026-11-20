@@ -91,7 +91,7 @@ scaly hide._
 **Per day:**
 
 - 3/day: enervation, silence (DC 16), vampiric touch
-- 1/day: mass hold person (DC 21), regenerate, &S level 4; 1 nabasu 30% or 1d4 babaus 30%
+- 1/day: mass hold person (DC 21), regenerate, summon (level 4, 1 nabasu 30% or 1d4 babaus 30%)
 
 **Statistics**
 

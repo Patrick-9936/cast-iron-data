@@ -110,7 +110,8 @@ hooves +43 (1d4+6 plus 1d6 fire and burn), 2 wings +43 (1d4+6)
 
 **Per day:**
 
-- 3/day: finger of death (DC 32), &Q mass suggestion (DC 31), summon demons, symbol of death (DC 33)
+- 3/day: finger of death (DC 32), quickened mass suggestion (DC 31), summon demons, symbol of death
+  (DC 33)
 - 1/day: soul bind (DC 34), time stop, wail of the banshee (DC 34)
 
 **Statistics**

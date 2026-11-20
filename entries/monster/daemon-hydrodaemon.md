@@ -103,7 +103,7 @@ by a fanged maw._
 
 - 3/day: control water, greater teleport, self plus 50 lbs. of objects only, summon monster V, Large
   water elemental only
-- 1/day: desecrate, &S level 3; 1 hydrodaemon 50%
+- 1/day: desecrate, summon (level 3, 1 hydrodaemon 50%)
 
 **Statistics**
 
