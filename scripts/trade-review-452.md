@@ -55,6 +55,7 @@ the row: see below), and for a named part of a feature
 | `levels-overlap`, `overlaps-earlier-claim` | An earlier trade of the same key names the feature at a shared level and power (the one-claim rule of `corpus-check`). |
 | `conditional-replacement` | The archetype replaces the feature only if a choice is made; format 2 has no condition field. |
 | `class-statistic` | Class skills, alignment, skill ranks, saves: printed in the class statistics, not as a feature. |
+| `single-slot-loss` | The archetype gives up one slot of the Spells feature (one 4th-level spell slot); the whole feature would overstate it and no component names a slot. |
 | `composite` | The printed item names several features at once; a trade holds one feature. |
 | `free-text-part` | The item describes a part of a feature in words, with no stable name to compare by exact text. |
 | `no-class-heading` | The class entry has no heading or text for it (the code of conduct, an ability of the phantom). |

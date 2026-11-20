@@ -18,7 +18,7 @@ page = "28"
 kind = "archetype"
 trades = [
   { replaces = "Domain", feature = "domain" },
-  { replaces = "justice and destruction judgments", feature = "judgment" },
+  { replaces = "justice and destruction judgments" },
   { replaces = "Detect alignment", feature = "detect-alignment" },
   { alters = "Judgment", feature = "judgment" },
   { alters = "Bane", feature = "bane" },

@@ -18,7 +18,7 @@ page = "41"
 kind = "archetype"
 trades = [
   { replaces = "Detect alignment", feature = "detect-alignment" },
-  { alters = "Purity and Smiting judgments", feature = "judgment" },
+  { alters = "Purity and Smiting judgments" },
   { alters = "Bane", feature = "bane" },
 ]
 +++

@@ -338,7 +338,10 @@ STEP_POWERS = {
     ("gunslinger", "gun-training"): lambda p: f"gun training {p}" if p.isdigit() else None,
     ("gunslinger", "nimble"): lambda p: f"nimble {p}" if re.fullmatch(r"\+\d", p) else None,
     ("inquisitor", "judgment"): lambda p: f"judgment {p}" if re.fullmatch(r"\d/day", p) else None,
-    ("mesmerist", "touch-treatment"): lambda p: f"touch treatment ({p})" if p in ("minor", "moderate", "greater", "break enchantment") else None,
+    ("mesmerist", "touch-treatment"): lambda p: (
+        "touch treatment (greater)" if p == "major" else f"touch treatment ({p})"
+        if p in ("minor", "moderate", "greater", "break enchantment") else None
+    ),
     ("warpriest", "blessings"): lambda p: "blessings (major)" if p == "major" else None,
 }
 
@@ -630,6 +633,8 @@ def cmd_normalize(args):
             after = {k: v for k, v in before.items() if k != "power"}
             after["levels"] = levels
             rule = f"step value {t['power']!r} of {slug} {t['feature']} is a progression step: grant levels from the class table ({label})"
+            if (slug, t["feature"], t["power"]) == ("mesmerist", "touch-treatment", "major"):
+                rule += "; the Vox prints 'major' for its 10th-level Subsonic Strike (Ultimate Intrigue p. 39: 'At 10th level ... replaces touch treatment (major)'), the tier that the class table calls greater"
             # The grant levels may meet another trade of the entry: the whole feature, or the same
             # step twice. Then the named component stays (the one-claim rule needs the two apart).
             proposed = (op, after["feature"], after.get("class"), None, frozenset(levels))

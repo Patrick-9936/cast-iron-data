@@ -182,6 +182,12 @@ def main():
         printed = norm(row["printed"])
         printed_compact = compact(row["printed"])
         verdict, chosen = "nobook", None
+        if "#" in row["printed"]:
+            # A `#` stands where the corpus lost the name of a power: nothing can be searched for.
+            row["print"] = "none"
+            counts["none"] += 1
+            print(f"none: {row['id']} trade {row['trade']}: {row['printed']} (the name is missing)")
+            continue
         for pub, page in sources_of_row[i]:
             pages = pages_of(pub)
             if pages is None:
