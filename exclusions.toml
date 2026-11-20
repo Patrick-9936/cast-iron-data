@@ -51809,26 +51809,6 @@ records = 0
 reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/ability/bloodline-mutations, line 40. Text: "**Note:** The original text says this ability peaks at 4 times per day at 18th level, but the progre". No record is left out.'
 
 [[excluded]]
-path = "json/class_abilities6.json#improved_familiars"
-records = 0
-reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 4, anchor footnote-c. Text: "A clockwork familiar needs crafting; see monster entry". No record is left out.'
-
-[[excluded]]
-path = "json/class_abilities6.json#improved_familiars"
-records = 0
-reason = """1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 3, anchor footnote-e. Text: "The spellcaster's alignment **must** match this eactly, instead of being within one step of the fami". No record is left out."""
-
-[[excluded]]
-path = "json/class_abilities6.json#improved_familiars"
-records = 0
-reason = """1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 6, anchor footnote-n. Text: "The spellcaster's alignment **must** be True Neutral, or the spellcaster must be a duskwalker with t". No record is left out."""
-
-[[excluded]]
-path = "json/class_abilities6.json#improved_familiars"
-records = 0
-reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 1, anchor footnote-t. Text: "This may be replaced with any other animal from the standard familiar list, with the appropriate tem". No record is left out.'
-
-[[excluded]]
 path = "json/archetypes_cavalier.json#circuit_judge"
 records = 0
 reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/arc-cavalier/circuit-judge, line 69. Text: "^1^ The original text starts this ability with "Once per day as a swift action..." but later contrad". No record is left out.'

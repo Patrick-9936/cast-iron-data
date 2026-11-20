@@ -1,9 +1,5 @@
 action	kind	entry_id	anchor	marker	class	body_marker	drop_labels	text_sha	text	note
 remove	paragraph	ref/ability/bloodline-mutations			paragraph			bab1a88d64cc2f57	**Note:** The original text says this ability peaks at 4 times per day at 18th level, but the progression given doesn't reach 4 times per day until 19th level.	
-remove	footnote	ref/ability/improved-familiars	footnote-c	4	unclear			45a80da815cd61d5	A clockwork familiar needs crafting; see monster entry	
-remove	footnote	ref/ability/improved-familiars	footnote-e	3	unclear			8a52c11ca21d687c	The spellcaster's alignment **must** match this eactly, instead of being within one step of the familiar's alignment.	
-remove	footnote	ref/ability/improved-familiars	footnote-n	6	unclear			46fcb84bb610a616	The spellcaster's alignment **must** be True Neutral, or the spellcaster must be a duskwalker with the Personal Chronicler feat.	
-remove	footnote	ref/ability/improved-familiars	footnote-t	1	unclear			892bbc1e38d1b1b2	This may be replaced with any other animal from the standard familiar list, with the appropriate template (celestial, entropic, fey-touched, fiendish, or resolu	
 remove	paragraph	ref/arc-cavalier/circuit-judge			inline-note	^1^		a315292d1d4b9435	"^1^ The original text starts this ability with ""Once per day as a swift action..."" but later contradicts itself by saying ""The circuit judge can use this abilit"	
 remove	paragraph	ref/arc-inquisitor/ravener-hunter			inline-note	^1^		51549f6ceef677ff	"^1^ Edited; the original text reads: ""She cannot cast **2** with the chaotic..."""	
 remove	paragraph	ref/discovery/flesh-eating-bomb			paragraph			79b42617a20da9e1	**Note:** Despite what the text seems to indicate, _concussive bombs_ and _flesh-eating bombs_ cannot be combined under the published rules. Consult your GM if 	

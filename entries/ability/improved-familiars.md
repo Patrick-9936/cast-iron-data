@@ -32,16 +32,19 @@ master must be within one step of.
 
 **Any alignment:**
 
-- [Fey-touched](ref/template/fey-touched-creature) [toad](ref/monster/familiar-toad)
+- [Fey-touched](ref/template/fey-touched-creature)
+  [toad](ref/monster/familiar-toad)^[1](ref/ability/improved-familiars#footnote-t)^
 
 **Chaotic neutral:**
 
-- [Entropic](ref/template/entropic) [monkey](ref/monster/familiar-monkey)
+- [Entropic](ref/template/entropic)
+  [monkey](ref/monster/familiar-monkey)^[1](ref/ability/improved-familiars#footnote-t)^
 - [Pyrausta](ref/monster/pyrausta)^[2](ref/ability/improved-familiars#footnote-p)^
 
 **Lawful neutral:**
 
-- [Resolute](ref/template/resolute) [owl](ref/monster/familiar-owl)
+- [Resolute](ref/template/resolute)
+  [owl](ref/monster/familiar-owl)^[1](ref/ability/improved-familiars#footnote-t)^
 
 **True neutral:**
 
@@ -52,11 +55,13 @@ master must be within one step of.
 **Neutral evil:**
 
 - [Beheaded](ref/monster/beheaded)
-- [Fiendish](ref/template/fiendish) [viper](ref/monster/familiar-viper)
+- [Fiendish](ref/template/fiendish)
+  [viper](ref/monster/familiar-viper)^[1](ref/ability/improved-familiars#footnote-t)^
 
 **Neutral good:**
 
-- [Celestial](ref/template/celestial) [hawk](ref/monster/familiar-hawk)
+- [Celestial](ref/template/celestial)
+  [hawk](ref/monster/familiar-hawk)^[1](ref/ability/improved-familiars#footnote-t)^
 
 ### Available at 4th Level
 
@@ -70,7 +75,7 @@ master must be within one step of.
 
 - [Almiraj](ref/monster/almiraj)
 
-**Any evil:**
+**Any evil:** ^[3](ref/ability/improved-familiars#footnote-e)^
 
 - [Sootwing bat](ref/monster/bat-sootwing-bat)
 - [Isitoq](ref/monster/isitoq)
@@ -101,15 +106,15 @@ master must be within one step of.
 
 **Any alignment:**
 
-- [Clockwork familiar](ref/monster/clockwork-clockwork-familiar)
+- [Clockwork familiar](ref/monster/clockwork-clockwork-familiar)^[4](ref/ability/improved-familiars#footnote-c)^
 - [Homunculus](ref/monster/homunculus)^[5](ref/ability/improved-familiars#footnote-h)^
 
-**Any evil:**
+**Any evil:** ^[3](ref/ability/improved-familiars#footnote-e)^
 
 - [Seru](ref/monster/seru)
 - [Shadow drake](ref/monster/drake-shadow-drake)
 
-**Any non-lawful:**
+**Any non-lawful:** ^[3](ref/ability/improved-familiars#footnote-e)^
 
 - [Pooka](ref/monster/pooka)
 
@@ -141,7 +146,7 @@ master must be within one step of.
 - [Voidworm (protean)](ref/monster/protean-voidworm)
 - [Xiao](ref/monster/xiao)
 
-**Good-aligned:**
+**Good-aligned:** ^[3](ref/ability/improved-familiars#footnote-e)^
 
 - [Nehushtan](ref/monster/nehushtan)
 
@@ -163,7 +168,7 @@ master must be within one step of.
 - [Arbiter inevitable](ref/monster/inevitable-arbiter)
 - [Shikigami kami](ref/monster/kami-shikigami)
 
-**Lawful:**
+**Lawful:** ^[3](ref/ability/improved-familiars#footnote-e)^
 
 - [Familiar automaton](ref/monster/automaton-familiar-automaton)
 
@@ -188,6 +193,7 @@ master must be within one step of.
 **True neutral:**
 
 - [Nosoi (Psychopomp)](ref/monster/psychopomp-nosoi)
+  ^[6](ref/ability/improved-familiars#footnote-n)^
 
 **Neutral evil:**
 
@@ -205,6 +211,17 @@ master must be within one step of.
 - [Pseudodragon](ref/monster/pseudodragon)
 - [Silvanshee agathion](ref/monster/agathion-silvanshee)
 
+###### ^4^ {#footnote-c}
+
+A clockwork familiar needs crafting; see monster entry
+
+###### ^1^ {#footnote-t}
+
+This may be replaced with any other animal from the standard [familiar](ref/ability/familiars) list,
+with the appropriate template ([celestial](ref/template/celestial),
+[entropic](ref/template/entropic), [fey-touched](ref/template/fey-touched-creature),
+[fiendish](ref/template/fiendish), or [resolute](ref/template/resolute)) applied to it.
+
 ###### ^5^ {#footnote-h}
 
 The master must first create the homunculus.
@@ -213,3 +230,13 @@ The master must first create the homunculus.
 
 The pyrausta's heart spark glows slightly less brightly, but more steadily. This removes its
 [fast healing](ref/umr/fast-healing) ability and heart of flame special abilities.
+
+###### ^3^ {#footnote-e}
+
+The spellcaster's alignment **must** match this eactly, instead of being within one step of the
+familiar's alignment.
+
+###### ^6^ {#footnote-n}
+
+The spellcaster's alignment **must** be True Neutral, or the spellcaster must be a
+[duskwalker](ref/race/duskwalker) with the [Personal Chronicler](ref/feat/personal-chronicler) feat.
