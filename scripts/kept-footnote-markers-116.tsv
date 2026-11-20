@@ -58,7 +58,7 @@ skip	ref/monster/idol-jade	footnote-s	S	marker-dropped	candidate	5cdd84850c235ec
 skip	ref/monster/idol-stone	footnote-s	S	marker-dropped	candidate	5cdd84850c235ec0	"See ""Share Abilities"" below"		marker-dropped, on_aon_prd=candidate: left for the review of #109 ticket 3
 skip	ref/monster/idol-wood	footnote-s	S	marker-dropped	candidate	5cdd84850c235ec0	"See ""Share Abilities"" below"		marker-dropped, on_aon_prd=candidate: left for the review of #109 ticket 3
 restore-inline	ref/monster/ilzunae	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
-drop-copy	ref/monster/ilzunae	footnote-d-2	1	shared-record-copy	yes	5331b9c7c568d170	Domain spell		duplicate of the D legend of the same entry
+drop-duplicate	ref/monster/ilzunae	footnote-d-2	1	shared-record-copy	yes	5331b9c7c568d170	Domain spell		duplicate of the D legend of the same entry
 restore-inline	ref/monster/kobold-kobold-devilspeaker	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
 restore-inline	ref/monster/kortash-khain	footnote-d	D	marker-expanded-inline	unchecked	d18d630f69c3d3ee	domain spell	(domain spell)	on_aon_prd=unchecked; the inline text is the importer's rewrite either way
 restore-inline	ref/monster/kortash-khain	footnote-m	M	marker-expanded-inline	unchecked	0a37f564e71e370d	mythic spell	(mythic spell)	on_aon_prd=unchecked; the inline text is the importer's rewrite either way

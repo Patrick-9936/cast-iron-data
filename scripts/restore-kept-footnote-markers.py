@@ -28,7 +28,15 @@ Row actions:
                    entry. The heading and its paragraph are deleted, with one `[[excluded]]` row
                    in `exclusions.toml` (`records = 0`: the record ships, only a note on it does
                    not) that names the record, cast-iron-data#109 and #116.
+  drop-duplicate   The note repeats another note of the same entry. Handled like drop-copy; the
+                   exclusion row says so.
   skip             Not applied; listed in the report.
+
+Safe to interrupt and rerun. The `[[excluded]]` rows are written first (the file is replaced in
+one step), then the entry files. A run that stops between the two leaves rows whose notes are still
+there; the rerun finds the notes, skips the rows it already has, and deletes the notes. A note that
+is gone with no exclusion row, a drop row whose note text changed, and an anchor that occurs twice
+in the entry are errors: the script changes nothing and exits 1.
 
 A second run changes nothing: the restored text is gone, a dropped note has its exclusion row. The
 script never edits an `id` and never moves a file. Run `cargo xtask corpus-fmt <corpus-dir>`
@@ -48,7 +56,7 @@ _spec = importlib.util.spec_from_file_location("remove_unattributed_notes", HERE
 base = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(base)
 
-ACTIONS = ("restore-inline", "restore-plain", "drop-copy", "skip")
+ACTIONS = ("restore-inline", "restore-plain", "drop-copy", "drop-duplicate", "skip")
 EXCERPT = 100
 
 
@@ -118,25 +126,41 @@ def main():
                 and b["label"] == r["marker"]
                 and base.text_sha(base.strip_md(" ".join(l.strip() for l in b["paragraph"]))) == r["text_sha"]
             ]
-            if act == "drop-copy":
+            if act in ("drop-copy", "drop-duplicate"):
+                probe = f"Entry {entry_id}, marker {r['marker']}, anchor {r['anchor']}:"
+                recorded = any(probe in reason for _, reason in known)
+                same_anchor = [b for b in blocks if b["anchor"] == r["anchor"]]
                 if not hit:
-                    probe = f"Entry {entry_id}, marker {r['marker']}, anchor {r['anchor']}:"
-                    gone = not any(b["anchor"] == r["anchor"] for b in blocks) and any(
-                        probe in reason for _, reason in known
-                    )
-                    stats["drop rows " + ("already done" if gone else "with no match (text changed)")] += 1
-                    report.append((entry_id, r["anchor"], "already-done" if gone else "no-match", r["text"], ""))
+                    if same_anchor:
+                        errors.append(f"{entry_id}: the note under {r['anchor']} is not the reviewed text; row not applied")
+                    elif not recorded:
+                        errors.append(
+                            f"{entry_id}: the note under {r['anchor']} is gone and exclusions.toml has no row for it; "
+                            "restore the entry file from git and run again"
+                        )
+                    else:
+                        stats["drop rows already done"] += 1
+                        report.append((entry_id, r["anchor"], "already-done", r["text"], ""))
+                    continue
+                if len(same_anchor) != 1:
+                    errors.append(f"{entry_id}: anchor {r['anchor']} occurs {len(same_anchor)} times; row not applied")
                     continue
                 b = hit[0]
-                delete.append(b["anchor"])
+                delete.append((b["anchor"], b["label"], r["text_sha"]))
                 flat = base.strip_md(" ".join(l.strip() for l in b["paragraph"]))
                 prov = fm["provenance"][0]
+                what = (
+                    "1 footnote that repeats another note of the same entry"
+                    if act == "drop-duplicate"
+                    else "1 footnote that is a copy of a note that belongs to another record"
+                )
                 reason = (
-                    f"1 footnote that is a copy of a note that belongs to another record, removed "
+                    f"{what}, removed "
                     f"(phynics/cast-iron-data#109, #116). Entry {entry_id}, marker {b['label']}, "
                     f"anchor {r['anchor']}: {r['note']}. Text: \"{flat[:EXCERPT]}\". No record is left out."
                 )
-                new_rows.append((f"{prov['path']}#{prov['record']}", reason))
+                if not recorded:
+                    new_rows.append((f"{prov['path']}#{prov['record']}", reason))
                 stats["notes dropped"] += 1
                 report.append((entry_id, r["anchor"], "dropped", r["text"], r["note"]))
             else:
@@ -197,11 +221,23 @@ def main():
                         stats["restore rows with nothing to restore"] += 1
                         report.append((entry_id, r["anchor"], "nothing-to-restore", r["inline"], ""))
         if delete:
-            # the edits above can change the line numbers, so find the notes again by anchor
-            gone = {a for a in delete}
-            lines = base.drop_ranges(
-                lines, [(b["start"], b["end"]) for b in base.footnote_blocks(lines) if b["anchor"] in gone]
-            )
+            # the edits above can change the line numbers, so find the notes again; each one must
+            # still match its anchor, label and text hash, and be the only block with its anchor
+            now = base.footnote_blocks(lines)
+            ranges = []
+            for anchor, label, sha in delete:
+                same = [b for b in now if b["anchor"] == anchor]
+                ok = [
+                    b
+                    for b in same
+                    if b["label"] == label
+                    and base.text_sha(base.strip_md(" ".join(l.strip() for l in b["paragraph"]))) == sha
+                ]
+                if len(same) != 1 or len(ok) != 1:
+                    errors.append(f"{entry_id}: cannot find exactly one reviewed note under {anchor}; row not applied")
+                    continue
+                ranges.append((ok[0]["start"], ok[0]["end"]))
+            lines = base.drop_ranges(lines, ranges)
 
         new_body = base.tidy("\n".join(lines))
         for row in new_rows:
@@ -219,15 +255,18 @@ def main():
         sys.exit(1)
 
     if not args.dry_run:
+        # the exclusion rows first, in one replace of the file, so that no note is deleted
+        # without its row; then the entry files
+        if new_exclusions:
+            out = [
+                f"[[excluded]]\npath = {base.toml_str(path)}\nrecords = 0\nreason = {base.toml_str(reason)}\n"
+                for path, reason in new_exclusions
+            ]
+            tmp = exclusions_path.with_name(exclusions_path.name + ".tmp")
+            tmp.write_text(exclusions_path.read_text() + "\n" + "\n".join(out))
+            tmp.replace(exclusions_path)
         for path, new_text in writes:
             path.write_text(new_text)
-    if new_exclusions and not args.dry_run:
-        out = [
-            f"[[excluded]]\npath = {base.toml_str(path)}\nrecords = 0\nreason = {base.toml_str(reason)}\n"
-            for path, reason in new_exclusions
-        ]
-        with open(exclusions_path, "a") as f:
-            f.write("\n" + "\n".join(out))
     stats["exclusion rows appended"] = len(new_exclusions)
     if args.report:
         with open(args.report, "w", newline="") as f:

@@ -51776,7 +51776,7 @@ reason = '1 inline note that neither Archives of Nethys nor the PRD carries, rem
 [[excluded]]
 path = "json/monsters_unique2.json#ilzunae"
 records = 0
-reason = '1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #116). Entry ref/monster/ilzunae, marker 1, anchor footnote-d-2: duplicate of the D legend of the same entry. Text: "Domain spell". No record is left out.'
+reason = '1 footnote that repeats another note of the same entry, removed (phynics/cast-iron-data#109, #116). Entry ref/monster/ilzunae, marker 1, anchor footnote-d-2: duplicate of the D legend of the same entry. Text: "Domain spell". No record is left out.'
 
 [[excluded]]
 path = "json/spells3.json#detect_chaos"
