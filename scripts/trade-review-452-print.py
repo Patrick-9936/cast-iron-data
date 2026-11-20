@@ -63,7 +63,9 @@ def compact(text):
 
 
 def tokens(text):
-    return set(re.findall(r"[a-z0-9]+", text.lower().replace("'", "").replace("’", "")))
+    """Lower-case words without apostrophes; a plural loses its s (Blood of the Beast, Blood of Beasts)."""
+    words = re.findall(r"[a-z0-9]+", text.lower().replace("'", "").replace("’", ""))
+    return {w[:-1] if len(w) > 4 and w.endswith("s") else w for w in words}
 
 
 def sha256(path):
