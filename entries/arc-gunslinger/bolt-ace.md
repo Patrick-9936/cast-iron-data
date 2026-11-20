@@ -26,7 +26,7 @@ trades = [
   { replaces = "Lightning reload", feature = "deeds", power = "lightning reload" },
   { replaces = "Menacing shot", feature = "deeds", power = "menacing shot" },
   { replaces = "Gun training", feature = "gun-training" },
-  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies", power = "weapons" },
+  { alters = "Weapon proficiencies" },
   { alters = "Grit", feature = "grit" },
 ]
 +++

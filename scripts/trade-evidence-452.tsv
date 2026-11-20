@@ -1,29 +1,76 @@
-id	printed	book	page	note
-ref/arc-bard/sandman	Mass suggestion	Advanced Player's Guide	82	print: 'This performance replaces mass suggestion' and 'replaces deadly performance'
-ref/arc-bard/sandman	Deadly performance	Advanced Player's Guide	82	print: 'This performance replaces mass suggestion' and 'replaces deadly performance'
-ref/arc-bard/sound-striker	Inspire competence	Ultimate Magic	27	print: 'This performance replaces inspire competence' and 'replaces suggestion'
-ref/arc-bard/sound-striker	Suggestion	Ultimate Magic	27	print: 'This performance replaces inspire competence' and 'replaces suggestion'
-ref/arc-fighter/skirmisher	Class skills	Ultimate Wilderness	50	print: 'This alters the fighter's class skills and skill ranks per level'
-ref/arc-fighter/skirmisher	skill ranks per level	Ultimate Wilderness	50	print: 'This alters the fighter's class skills and skill ranks per level'
-ref/arc-fighter/skirmisher	The fighter's armor proficiency	Ultimate Wilderness	50	print: 'This replaces the fighter's weapon and armor proficiency' (the printed name in the corpus is shorter; the whole feature is named)
-ref/arc-fighter/tactician	Armor proficiencies	Ultimate Combat	47	print: Weapon and Armor Proficiency: a tactician is not proficient with heavy armor or tower shields
-ref/arc-gunslinger/pistolero	Deadeye deed	Ultimate Combat	51	print: 'replaces the deadeye deed', 'the startling shot deed', 'the bleeding wound deed'
-ref/arc-gunslinger/pistolero	Startling shot deed	Ultimate Combat	51	print: 'replaces the deadeye deed', 'the startling shot deed', 'the bleeding wound deed'
-ref/arc-gunslinger/pistolero	Bleeding wound deed	Ultimate Combat	51	print: 'replaces the deadeye deed', 'the startling shot deed', 'the bleeding wound deed'
-ref/arc-gunslinger/pistolero	Gun training 1-4	Ultimate Combat	51	print: 'This ability replaces gun training 1 to 4'
-ref/arc-investigator/dread-investigator	immunity	Cohorts and Companions	14	print: 'This ability replaces poison resistance and immunity'
-ref/arc-investigator/hallucinist	Trapfinding, 3rd-level trap sense boost	Ultimate Intrigue	34	print: 'This ability replaces trapfinding, the trap sense gained ...' (one item)
-ref/arc-medium/rivethun-spirit-channeler	Spellcasting	Haunted Heroes Handbook	21	print: 'This alters the medium's spellcasting'
-ref/arc-monk/karmic-monk	The slow fall improvement; it remains at 70 feet	Occult Adventures	122	print: 'This ability replaces slow fall 80 feet' (the 16th-level step) and alters slow fall later
-ref/arc-monk/scarred-monk	the ability to spend ki points to do anything other than what's described below	Horror Realms	12	print: Mortifications alter the ki pool; a scarred monk cannot spend ki points on the other ki powers
-ref/arc-oracle/dual-cursed-oracle	The bonus spells gained at 2nd, 4th, and 6th levels from the oracle's mystery	Ultimate Magic	58	print: ill omen (2nd), oracle's burden (4th), bestow curse (6th) replace the mystery bonus spells at these levels
-ref/arc-oracle/enlightened-philosopher	All bonus spells gained from the oracle's mystery after 2nd level	Ultimate Magic	58	print: owl's wisdom (4th) to astral projection (18th) replace the mystery bonus spells at these levels
-ref/arc-oracle/possessed-oracle	The bonus spells gained at 1st, 4th, 6th, 8th, 10th, 12th, and 16th levels from the oracle's mystery	Ultimate Magic	59	print lists ventriloquism at 1st level; the oracle's mystery grants its first bonus spell at 2nd
-ref/arc-oracle/psychic-searcher	Revelations gained after 3rd level	Advanced Class Guide	106	print: a psychic searcher may take an investigator or rogue talent whenever she could select a new revelation (after the 3rd-level revelation that the archetype replaces)
-ref/arc-oracle/seer	Bonus spells granted by the oracle's mystery after 2nd level	Ultimate Magic	59	print: detect thoughts (4th) to foresight (18th) replace the mystery bonus spells at these levels
-ref/arc-oracle/stargazer	The bonus spells gained at 2nd, 4th, 6th, 8th, and 18th levels from the oracle's mystery	Ultimate Magic	59	print: faerie fire (2nd), glitterdust (4th), guiding star (6th), wandering star motes (8th), meteor swarm (18th) replace the mystery bonus spells
-ref/arc-ranger/sable-company-marine	Hunter's bond (but see text)	Inner Sea Combat	43	print: 'A marine who takes this option does not gain the hunter's bond' (the hippogriff option)
-ref/arc-sorcerer/razmiran-priest	9th-level bloodline power	Inner Sea Magic	38	print: 'This ability replaces the bloodline power gained at 9th level'
-ref/arc-spiritualist/scourge	Devotion	Haunted Heroes Handbook	22	print: 'This ability replaces devotion'
-ref/arc-warpriest/forgepriest	2nd blessing normally gained by a warpriest	Advanced Class Guide	130	print: a forgepriest selects only one blessing; 'This alters the blessings class feature'
-ref/arc-warpriest/proselytizer	Sacred armor, 3rd-level bonus feat	Cohorts and Companions	24	print: 'This ability replaces sacred armor and the bonus feat ...' (one item)
+id	printed	subsection	book	page	note
+ref/arc-investigator/antiquarian	Alchemy (including Extracts)		Blood of the Ancients	16	print: an antiquarian casts spells instead of creating extracts and gets no competence bonus on Craft (alchemy); 'This alters alchemy' (the corpus line adds the note including extracts)
+ref/arc-gunslinger/pistolero	Gun training 1-4		Ultimate Combat	51	print: 'This ability replaces gun training 1 to 4'
+ref/arc-ranger/sable-company-marine	Hunter's bond (but see text)		Inner Sea Combat	43	print: 'A marine who takes this option does not gain the hunter's bond' (the hippogriff option)
+ref/domain/artifice	The dancing weapons power of the Artifice domain	Trap Subdomain	Kobolds of Golarion	13	print: the Trap subdomain's replacement power 'replaces the dancing weapons power of the Artifice domain'
+ref/domain/trickery	The copycat power of the Trickery domain	Variant Domain Powers	Haunted Heroes Handbook	8	print: variant domain power: 'This replaces the copycat domain power of the Trickery domain'
+ref/domain/chaos	The touch of chaos domain power of the Chaos domain	Variant Domain Powers	Haunted Heroes Handbook	8	print: variant domain power: 'This replaces the touch of chaos domain power of the Chaos domain'
+ref/domain/healing	The rebuke death domain power of the Healing domain	Variant Domain Powers	Haunted Heroes Handbook	8	print: variant domain power: 'This replaces the rebuke death domain power of the Healing domain'
+ref/domain/nobility	The leadership domain power of the Nobility domain	Variant Domain Powers	Haunted Heroes Handbook	9	print: variant domain power: 'This replaces the leadership domain power of the Nobility domain'
+ref/domain/death	The bleeding touch domain power of the Death domain	Variant Domain Powers	Haunted Heroes Handbook	9	print: variant domain power: 'This replaces the bleeding touch domain power of the Death domain'
+ref/domain/repose	The ward against death domain power of the Repose domain	Variant Domain Powers	Haunted Heroes Handbook	9	print: variant domain power: 'This replaces the ward against death domain power of the Repose domain'
+ref/domain/glory	The channel boost ability of the Glory domain	Hubris Subdomain	Divine Anthology	23	print: Hubris replacement power 'replaces the Glory domain's increased save DC power' (the domain's channel boost)
+ref/domain/glory	The channel boost ability of the Glory domain	Legend Subdomain	Divine Anthology	24	print: Legend replacement ('These replace the Glory domain's increased save DC') is on p. 24; the corpus cites p. 23
+ref/domain/madness	The vision of madness power of the Madness domain	Insanity Subdomain	Advanced Player's Guide	92	print: the Insanity subdomain's power 'replaces the visions of madness power of the Madness domain'
+ref/arc-fighter/skirmisher	Class skills		Ultimate Wilderness	50	print: 'This alters the fighter's class skills and skill ranks per level'
+ref/arc-fighter/skirmisher	skill ranks per level		Ultimate Wilderness	50	print: 'This alters the fighter's class skills and skill ranks per level'
+ref/arc-fighter/skirmisher	The fighter's armor proficiency		Ultimate Wilderness	50	print: 'This replaces the fighter's weapon and armor proficiency'; the corpus name is shorter, so the whole feature is named (decision changed from armor)
+ref/arc-fighter/tactician	Armor proficiencies		Ultimate Combat	47	print: Weapon and Armor Proficiency: a tactician is not proficient with heavy armor or tower shields
+ref/arc-gunslinger/bolt-ace	Weapon proficiencies		Advanced Class Guide	94	print has no weapon proficiency line for the Bolt Ace (it modifies grit and swaps deeds and gun training); decision changed from a link to the exception not-in-print
+ref/arc-inquisitor/exarch	Spellcasting		Advanced Race Guide	13	print: Spells: exarchs cannot cast spells with the chaotic descriptor (a change to the inquisitor's spellcasting)
+ref/arc-inquisitor/keeper-of-the-current	Spellcasting		Blood of the Sea	24	print: 'This ability alters the inquisitor's spellcasting'
+ref/arc-medium/rivethun-spirit-channeler	Spellcasting		Haunted Heroes Handbook	21	print: 'This alters the medium's spellcasting'
+ref/arc-wizard/pact-wizard-hhh	Spellcasting		Haunted Heroes Handbook	20	print: 'This alters the wizard's spellcasting'
+ref/arc-bard/sandman	Mass suggestion		Advanced Player's Guide	82	print: 'This performance replaces mass suggestion' and 'replaces deadly performance'
+ref/arc-bard/sandman	Deadly performance		Advanced Player's Guide	82	print: 'This performance replaces mass suggestion' and 'replaces deadly performance'
+ref/arc-bard/sound-striker	Inspire competence		Ultimate Magic	27	print: 'This performance replaces inspire competence' and 'replaces suggestion'
+ref/arc-bard/sound-striker	Suggestion		Ultimate Magic	27	print: 'This performance replaces inspire competence' and 'replaces suggestion'
+ref/arc-gunslinger/pistolero	Deadeye deed		Ultimate Combat	51	print: 'replaces the deadeye deed', 'the startling shot deed', 'the bleeding wound deed'
+ref/arc-gunslinger/pistolero	Startling shot deed		Ultimate Combat	51	print: 'replaces the deadeye deed', 'the startling shot deed', 'the bleeding wound deed'
+ref/arc-gunslinger/pistolero	Bleeding wound deed		Ultimate Combat	51	print: 'replaces the deadeye deed', 'the startling shot deed', 'the bleeding wound deed'
+ref/arc-investigator/dread-investigator	immunity		Cohorts and Companions	14	print: 'This ability replaces poison resistance and immunity'
+ref/arc-investigator/hallucinist	Trapfinding, 3rd-level trap sense boost		Ultimate Intrigue	34	print: 'This ability replaces trapfinding, the trap sense gained ...' (one item)
+ref/arc-monk/karmic-monk	The slow fall improvement; it remains at 70 feet		Occult Adventures	122	print: 'This ability replaces slow fall 80 feet' (the 16th-level step) and alters slow fall later
+ref/arc-monk/scarred-monk	the ability to spend ki points to do anything other than what's described below		Horror Realms	12	print: Mortifications alter the ki pool; a scarred monk cannot spend ki points on the other ki powers
+ref/arc-oracle/dual-cursed-oracle	The bonus spells gained at 2nd, 4th, and 6th levels from the oracle's mystery		Ultimate Magic	58	print: ill omen (2nd), oracle's burden (4th), bestow curse (6th) replace the mystery bonus spells at these levels
+ref/arc-oracle/enlightened-philosopher	All bonus spells gained from the oracle's mystery after 2nd level		Ultimate Magic	58	print: owl's wisdom (4th) to astral projection (18th) replace the mystery bonus spells at these levels
+ref/arc-oracle/possessed-oracle	The bonus spells gained at 1st, 4th, 6th, 8th, 10th, 12th, and 16th levels from the oracle's mystery		Ultimate Magic	59	print lists ventriloquism at 1st level; the oracle's mystery grants its first bonus spell at 2nd
+ref/arc-oracle/psychic-searcher	Revelations gained after 3rd level		Advanced Class Guide	106	print: a psychic searcher may take an investigator or rogue talent whenever she could select a new revelation (after the 3rd-level revelation that the archetype replaces)
+ref/arc-oracle/seer	Bonus spells granted by the oracle's mystery after 2nd level		Ultimate Magic	59	print: detect thoughts (4th) to foresight (18th) replace the mystery bonus spells at these levels
+ref/arc-oracle/stargazer	The bonus spells gained at 2nd, 4th, 6th, 8th, and 18th levels from the oracle's mystery		Ultimate Magic	59	print: faerie fire (2nd), glitterdust (4th), guiding star (6th), wandering star motes (8th), meteor swarm (18th) replace the mystery bonus spells
+ref/arc-sorcerer/razmiran-priest	9th-level bloodline power		Inner Sea Magic	38	print: 'This ability replaces the bloodline power gained at 9th level'
+ref/arc-spiritualist/scourge	Devotion		Haunted Heroes Handbook	22	print: 'This ability replaces devotion'
+ref/arc-warpriest/forgepriest	2nd blessing normally gained by a warpriest		Advanced Class Guide	130	print: a forgepriest selects only one blessing; 'This alters the blessings class feature'
+ref/arc-warpriest/proselytizer	Sacred armor, 3rd-level bonus feat		Cohorts and Companions	24	print: 'This ability replaces sacred armor and the bonus feat ...' (one item)
+ref/arc-bard/voice-of-brigh	Fascinate		Construct Handbook	14	print: 'This replaces fascinate'
+ref/arc-bard/voice-of-brigh	Dirge of doom		Construct Handbook	14	print: 'This replaces dirge of doom'
+ref/arc-bard/voice-of-brigh	Soothing performance		Construct Handbook	14	print: 'This replaces soothing performance'
+ref/arc-bard/voice-of-brigh	Frightening tune		Construct Handbook	14	print: 'This replaces frightening tune'
+ref/arc-wizard/clocksmith	School powers granted by the wizard's arcane school		Construct Handbook	10	print: 'This replaces the school powers granted by the wizard's arcane school'
+ref/arc-bloodrager/prowler-at-worlds-end	The 1st-, 8th-, and 16th-level bloodline powers		Blood of the Beast	4	print: 'This ability replaces the 1st-, 8th-, and 16th-level bloodline powers'
+ref/arc-bloodrager/prowler-at-worlds-end	9th-level and 15th-level bloodline feats		Blood of the Beast	4	print: '... and replaces the 9th-level and 15th-level bloodline feats'
+ref/arc-bloodrager/prowler-at-worlds-end	The 12th-level bloodline feat		Blood of the Beast	4	print: 'This ability replaces the 12th-level bloodline feat'
+ref/arc-bloodrager/prowler-at-worlds-end	The 4th-, 16th-, and 20th-level bloodline powers		Blood of the Beast	4	print: 'This ability alters the 4th-, 16th-, and 20th-level bloodline powers' (print says alters; the corpus line says replaces, and the body line is not changed here)
+ref/arc-cavalier/first-mothers-fang	The cavalier's weapon proficiencies		Blood of the Beast	18	print: 'This alters the cavalier's weapon proficiencies' (the corpus cites p. 17; the text is on p. 18)
+ref/arc-druid/swarm-monger	The normal wild shape options gained at 12th level		Blood of the Beast	22	print: 'This ability replaces the normal wild shape options gained at 12th level' (the corpus cites p. 21; the text is on p. 22)
+ref/arc-fighter/opportunist	Class skills		Blood of the Beast	20	print: 'This ability replaces bravery and alters the fighter's class skills'
+ref/arc-investigator/scavenger	poison immunity		Blood of the Beast	21	print: 'This ability replaces the investigator's poison resistance and poison immunity'
+ref/arc-skald/red-tongue	Versatile performance selections normally gained at 7th, 12th, and 17th levels		Blood of the Beast	26	print: 'This ability replaces the versatile performance selections normally gained at 7th, 12th, and 17th levels'
+ref/arc-sorcerer/nine-tailed-heir	Bloodline spell		Blood of the Beast	13	print: 'This ability replaces the bloodline spell class feature'
+ref/arc-swashbuckler/courser	Bleeding wound		Blood of the Beast	24	print: 'This deed replaces the bleeding wound deed'
+ref/arc-swashbuckler/courser	Menacing swordplay		Blood of the Beast	24	print: 'This deed replaces menacing swordplay'
+ref/arc-swashbuckler/courser	Superior feint		Blood of the Beast	24	print: 'This deed replaces the superior feint deed'
+ref/arc-swashbuckler/courser	Opportune parry and riposte		Blood of the Beast	24	print: 'This ability replaces the swashbuckler's opportune parry and riposte deeds'
+ref/arc-witch/rhetorician	All spells granted by the witch's patron		Arcane Anthology	25	print: 'This ability replaces all the spells the witch gains from her patron'
+ref/arc-cleric/scroll-scholar	Channel energy damage boost at 5th level		Pathfinder Society Field Guide	26	print: for a cleric 'this ability replaces the increase to her channel energy damage normally gained at 5th level'
+ref/arc-fighter/swarm-fighter	The bonus combat feats the fighter normally receives at 2nd, 6th, 10th, 14th, and 18th levels		Kobolds of Golarion	23	print: bonus teamwork feats at 2nd and every 4 levels; 'This ability replaces the bonus combat feats the fighter normally receives at those levels'
+ref/arc-kineticist/elemental-purist	Expanded element, 11th- and 19th-level infusions		Planes of Power	8	print: 'This ability replaces expanded element, as well as the 11th- and 19th-level infusions' (the corpus cites p. 7; the text is on p. 8)
+ref/arc-oracle/divine-numerologist	The bonus spells gained at 10th, 12th, 14th, 16th, and 18th levels from the oracle's mystery		Disciple's Doctrine	17	print: prying eyes (10th) to foresight (18th) 'replace the oracle's mystery bonus spells at these levels'
+ref/arc-oracle/oceans-echo	Bonus skills from the oracle's mystery		Blood of the Sea	12	print: 'These replace the additional class skills from her mystery'
+ref/arc-oracle/oceans-echo	The bonus spells gained at 4th, 8th, 10th, 12th, and 14th levels from the oracle's mystery		Blood of the Sea	12	print: sound burst (4th), shout (8th), song of discord (10th), greater shout (12th), piping (14th) replace the mystery bonus spells at these levels
+ref/arc-oracle/purifier	All bonus spells from the oracle's mystery		Advanced Race Guide	86	print: Bonus Spells: veil of heaven (2nd) to freedom (18th), the purifier's own list for the mystery's bonus spells
+ref/arc-oracle/purifier	Revelations from her mystery gained at 3rd, 7th, and 11th levels		Advanced Race Guide	86	print: a purifier must take See Sin (3rd), Celestial Armor (7th) and Sin Eater (11th) at the listed levels
+ref/arc-sorcerer/dragon-drinker	1st-level bloodline power		Dragonslayer's Handbook	22	print: 'This ability replaces the claws bloodline power' (the draconic 1st-level power) and 'the bloodline arcana ability'
+ref/arc-summoner/wild-caller-hotw	Summon monster		Heroes of the Wild	25	print: the wild caller gains summon nature's ally for summon monster; 'This ability alters the summon monster ability'
+ref/arc-witch/cartomancer	Familiar		The Harrow Handbook	15	print: 'This ability replaces the witch's familiar'
+ref/arc-witch/coral-witch	Familiar		Blood of the Sea	22	print: Coral Familiar: 'This ability alters witch's familiar'

@@ -479,11 +479,13 @@ def cmd_fill(args):
     manual = {}
     if EVIDENCE.exists():
         for e in read_tsv(EVIDENCE):
-            manual[(e["id"], e["printed"].lower())] = e
+            manual[(e["id"], e["printed"].lower(), e.get("subsection", ""))] = e
     for row in rows:
         new = row.pop("_new", None)
         book, page, why = row.pop("_cite")
-        e = manual.get((row["id"], row["printed"].lower()))
+        e = manual.get((row["id"], row["printed"].lower(), row["subsection"])) or manual.get(
+            (row["id"], row["printed"].lower(), "")
+        )
         if e:
             book, page, why = e["book"], e["page"], ""
             row["evidence"], row["evidence_note"] = "manual", e["note"]
@@ -601,6 +603,9 @@ def cmd_normalize(args):
     if ADJUSTMENTS.exists():
         log = {(r["id"], int(r["trade"])): r for r in read_tsv(ADJUSTMENTS)}
     edits_by_entry = {}
+    # The log is authoritative: an entry that was reset (a merge) gets the logged trades again.
+    for (entry_id, index), r in log.items():
+        edits_by_entry.setdefault(entry_id, {})[index] = (r["op"], r["printed"], decode_keys(r["after"]))
     for path in sorted((ROOT / "entries").glob("arc-*/*.md")):
         text = path.read_text(encoding="utf-8")
         if "\ntrades = [" not in text:
