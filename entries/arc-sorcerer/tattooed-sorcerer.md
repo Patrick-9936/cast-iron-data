@@ -17,10 +17,10 @@ page = "40"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "1st-level bloodline power" },
-  { replaces = "Eschew Materials bonus feat" },
-  { replaces = "7th-level bloodline feat" },
-  { replaces = "9th-level bloodline power" },
+  { replaces = "1st-level bloodline power", feature = "bloodline", levels = [1], power = "bloodline power" },
+  { replaces = "Eschew Materials bonus feat", feature = "eschew-materials" },
+  { replaces = "7th-level bloodline feat", feature = "bloodline", levels = [7], power = "bloodline feat" },
+  { replaces = "9th-level bloodline power", feature = "bloodline", levels = [9], power = "bloodline power" },
 ]
 +++
 

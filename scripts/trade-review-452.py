@@ -37,7 +37,7 @@ table of the base class grants `<label>`); `power` may be `=printed`.
 
 Evidence. The `print` column is a search hit from `trade-review-452-print.py`, not a reading. `evidence` says
 what settles a closed row: `print` (the search found the name on the cited page or next to it), `manual` (a
-reader checked the book page: `trade-evidence-452.tsv` records the printed page, with the `subsection` of a variant row, and `fill` copies it) or
+reader checked the book page: `trade-evidence-452.tsv` records the printed page, and `fill` copies it) or
 `corpus` (no hit and no reading: the entry's own text and the class table settle it, and `evidence_note`
 says why print did not).
 
@@ -58,6 +58,7 @@ QUEUE = ROOT / "scripts/trade-review-452.tsv"
 BASELINE = ROOT / "scripts/trade-review-452-baseline.tsv"
 DECISIONS = ROOT / "scripts/trade-review-452-decisions.tsv"
 ADJUSTMENTS = ROOT / "scripts/trade-adjustments-452.tsv"
+MANUAL = ROOT / "scripts/trade-adjustments-manual-452.tsv"
 EVIDENCE = ROOT / "scripts/trade-evidence-452.tsv"
 BASE_COLUMNS = ["id", "kind", "trade", "op", "printed", "reason", "candidates", "unclaimed_old_anchors", "subsection"]
 COLUMNS = BASE_COLUMNS + [
@@ -648,6 +649,51 @@ def cmd_normalize(args):
             log[(data["id"], i)] = {
                 "id": data["id"], "trade": str(i), "op": op, "printed": t[op],
                 "before": encode_keys(before), "after": encode_keys(after), "rule": rule,
+            }
+    # A whole Poison resistance trade next to an explicit immunity trade of the same key is the three
+    # resistance steps; the immunity trade names its own grant level.
+    for path in sorted((ROOT / "entries").glob("arc-*/*.md")):
+        text = path.read_text(encoding="utf-8")
+        if "\ntrades = [" not in text:
+            continue
+        data = tomllib.loads(split_entry(text)[0])
+        relations = [r["target"] for r in data.get("relations", []) if r["kind"] == "archetype"]
+        if len(relations) != 1 or relations[0] not in ("ref/class/alchemist", "ref/class/investigator"):
+            continue
+        trades = data["fields"]["trades"]
+        for i, t in enumerate(trades, 1):
+            op = "replaces" if "replaces" in t else "alters"
+            if (data["id"], i) in queued or (data["id"], i) in log or t.get("feature") != "poison-resistance":
+                continue
+            if t.get("levels") or t.get("power") or t[op].lower() != "poison resistance":
+                continue
+            if not any(j != i and op in u and re.fullmatch(r"(poison )?immunity( to poison)?", u[op].lower()) for j, u in enumerate(trades, 1)):
+                continue
+            levels = [int(x) for x in grant_levels(relations[0], "poison resistance +2").split(",")]
+            levels += [int(x) for x in grant_levels(relations[0], "poison resistance +4").split(",")]
+            levels += [int(x) for x in grant_levels(relations[0], "poison resistance +6").split(",")]
+            before = {"feature": "poison-resistance"}
+            after = {"feature": "poison-resistance", "levels": sorted(levels)}
+            edits_by_entry.setdefault(data["id"], {})[i] = (op, t[op], after)
+            log[(data["id"], i)] = {
+                "id": data["id"], "trade": str(i), "op": op, "printed": t[op],
+                "before": encode_keys(before), "after": encode_keys(after),
+                "rule": "the entry also lists poison immunity: the resistance trade is the steps +2, +4 and +6 (class table), and immunity has its own grant level",
+            }
+    # Adjustments that a reader made by hand, each with its reason.
+    if MANUAL.exists():
+        for m in read_tsv(MANUAL):
+            key = (m["id"], int(m["trade"]))
+            front, _ = split_entry(entry_path(m["id"]).read_text(encoding="utf-8"))
+            t = tomllib.loads(front)["fields"]["trades"][key[1] - 1]
+            if t.get(m["op"]) != m["printed"]:
+                raise SystemExit(f"{m['id']} trade {key[1]} is not {m['printed']!r}")
+            after = decode_keys(m["after"])
+            before_keys = decode_keys(log[key]["before"]) if key in log else {k: t[k] for k in ("feature", "class", "levels", "power") if k in t}
+            edits_by_entry.setdefault(m["id"], {})[key[1]] = (m["op"], m["printed"], after)
+            log[key] = {
+                "id": m["id"], "trade": m["trade"], "op": m["op"], "printed": m["printed"],
+                "before": encode_keys(before_keys), "after": encode_keys(after), "rule": "manual: " + m["rule"],
             }
     written = sum(rewrite_entry(entry_id, edits) for entry_id, edits in edits_by_entry.items())
     rows = [log[k] for k in sorted(log)]

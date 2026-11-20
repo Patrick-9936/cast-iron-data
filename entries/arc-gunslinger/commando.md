@@ -17,10 +17,10 @@ page = "91"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Utility shot deed" },
-  { replaces = "Expert loading deed" },
-  { replaces = "Lightning reload deed" },
-  { replaces = "Slinger's luck deed" },
+  { replaces = "Utility shot deed", feature = "deeds", power = "utility shot" },
+  { replaces = "Expert loading deed", feature = "deeds", power = "expert loading" },
+  { replaces = "Lightning reload deed", feature = "deeds", power = "lightning reload" },
+  { replaces = "Slinger's luck deed", feature = "deeds", power = "slinger's luck" },
   { replaces = "Nimble", feature = "nimble" },
   { replaces = "The bonus feat gained at 4th level", feature = "bonus-feats", levels = [4] },
   { alters = "Gun training", feature = "gun-training" },

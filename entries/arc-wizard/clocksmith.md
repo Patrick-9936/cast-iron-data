@@ -17,7 +17,7 @@ page = "10"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "School powers granted by the wizard's arcane school" },
+  { replaces = "School powers granted by the wizard's arcane school", feature = "arcane-school", power = "school powers" },
   { replaces = "Scribe Scroll", feature = "scribe-scroll" },
   { replaces = "5th-, 10th-, 15th-, and 20th-level bonus feats", feature = "bonus-feats", levels = [5, 10, 15, 20] },
   { alters = "Arcane bond", feature = "arcane-bond" },

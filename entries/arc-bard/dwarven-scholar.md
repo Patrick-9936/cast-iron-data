@@ -18,8 +18,8 @@ page = "30"
 kind = "archetype"
 trades = [
   { replaces = "Versatile performance", feature = "versatile-performance" },
-  { replaces = "Inspire courage" },
-  { replaces = "suggestion" },
+  { replaces = "Inspire courage", feature = "bardic-performance", power = "inspire courage" },
+  { replaces = "suggestion", feature = "bardic-performance", power = "suggestion" },
   { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
 ]
 +++

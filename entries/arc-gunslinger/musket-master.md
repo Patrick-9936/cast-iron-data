@@ -17,9 +17,9 @@ page = "50"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Gunslinger's dodge deed" },
-  { replaces = "Utility shot deed" },
-  { replaces = "Firearm training 1, 2, 3, and 4" },
+  { replaces = "Gunslinger's dodge deed", feature = "deeds", power = "gunslinger's dodge" },
+  { replaces = "Utility shot deed", feature = "deeds", power = "utility shot" },
+  { replaces = "Firearm training 1, 2, 3, and 4", feature = "gun-training", levels = [5, 9, 13, 17] },
   { alters = "Gunsmith", feature = "gunsmith" },
 ]
 +++

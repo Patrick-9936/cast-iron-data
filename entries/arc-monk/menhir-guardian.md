@@ -19,13 +19,13 @@ kind = "archetype"
 trades = [
   { replaces = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Unarmed strike", feature = "unarmed-strike" },
-  { replaces = "ki strike" },
+  { replaces = "ki strike", feature = "ki-pool", power = "ki strike" },
   { replaces = "Stunning fist", feature = "stunning-fist" },
   { replaces = "high jump", feature = "high-jump" },
   { replaces = "quivering palm", feature = "quivering-palm" },
   { alters = "Alignment requirement" },
   { alters = "Ki pool", feature = "ki-pool" },
-  { alters = "Furry of blows" },
+  { alters = "Furry of blows", feature = "flurry-of-blows" },
 ]
 +++
 

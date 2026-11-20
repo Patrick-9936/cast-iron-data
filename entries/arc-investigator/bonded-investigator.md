@@ -18,9 +18,9 @@ page = "38"
 kind = "archetype"
 trades = [
   { replaces = "Poison lore", feature = "poison-lore" },
-  { replaces = "poison resistance", feature = "poison-resistance" },
-  { replaces = "poison immunity" },
-  { replaces = "Studied strike damage gained at 4th level" },
+  { replaces = "poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [11] },
+  { replaces = "Studied strike damage gained at 4th level", feature = "studied-strike", levels = [4] },
   { replaces = "Investigator talent gained at 7th level", feature = "investigator-talent", levels = [7] },
   { alters = "Studied strike", feature = "studied-strike" },
 ]

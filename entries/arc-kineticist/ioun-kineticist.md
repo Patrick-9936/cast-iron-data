@@ -17,9 +17,9 @@ page = "12"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The ability score boosts granted by elemental overflow" },
+  { replaces = "The ability score boosts granted by elemental overflow", feature = "elemental-overflow" },
   { alters = "Elemental focus", feature = "elemental-focus" },
-  { alters = "Basic telekinesis utility wild talent granted by the aether element" },
+  { alters = "Basic telekinesis utility wild talent granted by the aether element", feature = "elemental-focus", power = "basic utility wild talent" },
   { alters = "Internal buffer", feature = "internal-buffer" },
 ]
 +++

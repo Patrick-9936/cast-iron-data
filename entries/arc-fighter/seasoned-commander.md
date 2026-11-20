@@ -17,7 +17,7 @@ page = "164"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bonus fighter combat feat gained at 1st level" },
+  { replaces = "Bonus fighter combat feat gained at 1st level", feature = "bonus-feats", levels = [1] },
   { replaces = "proficiency with heavy armor and tower shields" },
   { replaces = "Armor training 1", feature = "armor-training", levels = [3] },
   { replaces = "Weapon training 1 and 3", feature = "weapon-training", levels = [5, 13] },

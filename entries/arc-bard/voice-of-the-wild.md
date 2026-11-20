@@ -18,12 +18,12 @@ page = "81"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Countersong" },
+  { replaces = "Countersong", feature = "bardic-performance", power = "countersong" },
   { replaces = "versatile performance", feature = "versatile-performance" },
   { replaces = "jack-of-all-trades", feature = "jack-of-all-trades" },
-  { replaces = "Inspire competence" },
-  { replaces = "dirge of doom" },
-  { replaces = "inspire heroics" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
+  { replaces = "dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
+  { replaces = "inspire heroics", feature = "bardic-performance", power = "inspire heroics" },
 ]
 +++
 

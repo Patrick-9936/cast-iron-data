@@ -19,8 +19,8 @@ kind = "archetype"
 trades = [
   { replaces = "Nimble", feature = "nimble" },
   { replaces = "The bonus feat gained at 4th level", feature = "bonus-feats", levels = [4] },
-  { replaces = "Startling shot deed" },
-  { replaces = "Bleeding wound deed" },
+  { replaces = "Startling shot deed", feature = "deeds", power = "startling shot" },
+  { replaces = "Bleeding wound deed", feature = "deeds", power = "bleeding wound" },
 ]
 +++
 

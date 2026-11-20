@@ -17,7 +17,7 @@ page = "40"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The 1st-, 9th-, and 15th-level channel energy abilities" },
+  { replaces = "The 1st-, 9th-, and 15th-level channel energy abilities", feature = "channel-energy", levels = [1, 9, 15] },
   { alters = "Spontaneous casting", feature = "spontaneous-casting" },
 ]
 +++

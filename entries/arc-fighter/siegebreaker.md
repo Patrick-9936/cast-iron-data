@@ -17,12 +17,12 @@ page = "11"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The feat gained at 1st level" },
+  { replaces = "The feat gained at 1st level", feature = "bonus-feats", levels = [1] },
   { replaces = "Bravery", feature = "bravery" },
-  { replaces = "The feat gained at 2nd level" },
+  { replaces = "The feat gained at 2nd level", feature = "bonus-feats", levels = [2] },
   { replaces = "The bonus feat gained at 8th level", feature = "bonus-feats", levels = [8] },
   { replaces = "Weapon mastery", feature = "weapon-mastery" },
-  { alters = "The feat gained at 4th level" },
+  { alters = "The feat gained at 4th level", feature = "bonus-feats", levels = [4] },
 ]
 +++
 

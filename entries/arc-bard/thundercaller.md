@@ -21,11 +21,11 @@ page = "11"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Inspire competence" },
-  { replaces = "Suggestion" },
-  { replaces = "mass suggestion" },
-  { replaces = "Dirge of doom" },
-  { replaces = "Frightening tune" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
+  { replaces = "mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
+  { replaces = "Frightening tune", feature = "bardic-performance", power = "frightening tune" },
 ]
 +++
 

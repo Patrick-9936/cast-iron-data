@@ -18,7 +18,7 @@ page = "71"
 kind = "archetype"
 trades = [
   { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
-  { replaces = "Daily use of wild shape at 6th level" },
+  { replaces = "Daily use of wild shape at 6th level", feature = "wild-shape", levels = [6] },
   { replaces = "venom immunity", feature = "venom-immunity" },
   { replaces = "Venom immunity" },
 ]

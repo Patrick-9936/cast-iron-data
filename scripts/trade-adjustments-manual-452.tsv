@@ -1,0 +1,2 @@
+id	trade	op	printed	after	rule
+ref/arc-summoner/blood-god-disciple	1	replaces	Summon monster I	feature=summon-monster-i | levels=1	the archetype replaces one Summon Monster progression (I, III, V, VII, IX, then II, IV, VI and VIII); each step is scoped to its grant level (class table: summon monster I at 1st level)

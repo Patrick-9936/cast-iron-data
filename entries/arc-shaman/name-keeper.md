@@ -18,7 +18,7 @@ page = "145"
 kind = "archetype"
 trades = [
   { replaces = "Spirit animal", feature = "spirit-animal" },
-  { replaces = "Spirit magic spells gained from the shaman's spirit" },
+  { replaces = "Spirit magic spells gained from the shaman's spirit", feature = "spirit-magic" },
   { replaces = "Wandering spirit", feature = "wandering-spirit" },
   { replaces = "Wandering hex", feature = "wandering-hex" },
 ]

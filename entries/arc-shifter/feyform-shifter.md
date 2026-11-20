@@ -17,7 +17,7 @@ page = "6"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Shifter aspect and all improvements to it" },
+  { replaces = "Shifter aspect and all improvements to it", feature = "shifter-aspect" },
   { alters = "Wild shape", feature = "wild-shape" },
   { alters = "Chimeric aspect", feature = "chimeric-aspect" },
   { alters = "Greater chimeric aspect", feature = "greater-chimeric-aspect" },

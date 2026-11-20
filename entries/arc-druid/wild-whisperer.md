@@ -20,8 +20,8 @@ trades = [
   { replaces = "Woodland stride", feature = "woodland-stride" },
   { replaces = "trackless step", feature = "trackless-step" },
   { replaces = "resist nature's lure", feature = "resist-nature-s-lure" },
-  { replaces = "The additional use of wild shape at 6th level" },
-  { replaces = "The additional use of wild shape at 8th level" },
+  { replaces = "The additional use of wild shape at 6th level", feature = "wild-shape", levels = [6] },
+  { replaces = "The additional use of wild shape at 8th level", feature = "wild-shape", levels = [8] },
   { alters = "Wild shape", feature = "wild-shape" },
 ]
 +++

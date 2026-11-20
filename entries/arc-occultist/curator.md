@@ -20,7 +20,7 @@ trades = [
   { replaces = "One of the two occultist implements learned at 1st level, 6th- and 14th-level implements" },
   { replaces = "3rd-level focus power", feature = "focus-powers", levels = [3] },
   { replaces = "Shift focus", feature = "shift-focus" },
-  { replaces = "Outsider contact" },
+  { replaces = "Outsider contact", feature = "outside-contact" },
   { replaces = "Magic circles", feature = "magic-circles" },
   { replaces = "binding circles", feature = "binding-circles" },
   { replaces = "fast circles", feature = "fast-circles" },

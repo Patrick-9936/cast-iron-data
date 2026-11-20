@@ -21,8 +21,8 @@ trades = [
   { replaces = "2nd-level hex", feature = "hex", levels = [2] },
   { replaces = "4th-, 10th-, and 16th-level hexes", feature = "hex", levels = [4, 10, 16] },
   { replaces = "6th-level hex", feature = "hex", levels = [6] },
-  { alters = "Familiar" },
-  { alters = "patron" },
+  { alters = "Familiar", feature = "witch-s-familiar" },
+  { alters = "patron", feature = "patron-spells", power = "patron" },
 ]
 +++
 

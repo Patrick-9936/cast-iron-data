@@ -172,6 +172,9 @@ def main():
                 for n in hits:
                     votes.setdefault(pub, Counter())[(n + 1) - int(page)] += 1
     offsets = {pub: c.most_common(1)[0][0] for pub, c in votes.items()}
+    if "--offsets" in args:
+        for pub, off in sorted(offsets.items()):
+            print(f"offset {pub}: {off}")
     counts = Counter()
     for i, row in enumerate(rows):
         if opts["--only"] and not row["id"].startswith(opts["--only"]):

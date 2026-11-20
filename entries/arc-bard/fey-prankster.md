@@ -18,9 +18,9 @@ page = "20"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Countersong" },
-  { replaces = "Inspire courage" },
-  { replaces = "Dirge of doom" },
+  { replaces = "Countersong", feature = "bardic-performance", power = "countersong" },
+  { replaces = "Inspire courage", feature = "bardic-performance", power = "inspire courage" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Lore master", feature = "lore-master" },
 ]

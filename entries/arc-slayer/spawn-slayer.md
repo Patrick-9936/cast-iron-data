@@ -17,7 +17,7 @@ page = "24"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The ability to study an opponent as a swift action at 7th level" },
+  { replaces = "The ability to study an opponent as a swift action at 7th level", feature = "studied-target", levels = [7] },
   { replaces = "Stalker", feature = "stalker" },
   { replaces = "Master slayer", feature = "master-slayer" },
   { alters = "Studied target", feature = "studied-target" },

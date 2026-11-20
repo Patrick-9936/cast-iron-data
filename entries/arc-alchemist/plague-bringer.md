@@ -18,8 +18,8 @@ page = "153"
 kind = "archetype"
 trades = [
   { replaces = "Mutagen", feature = "mutagen" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
-  { replaces = "poison immunity" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [10] },
 ]
 +++
 

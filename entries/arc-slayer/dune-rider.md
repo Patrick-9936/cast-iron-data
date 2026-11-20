@@ -18,7 +18,7 @@ page = "86"
 kind = "archetype"
 trades = [
   { replaces = "Track", feature = "track" },
-  { replaces = "fast tracker" },
+  { replaces = "fast tracker", feature = "swift-tracker" },
   { replaces = "Studied target", feature = "studied-target" },
   { replaces = "Stalker", feature = "stalker" },
   { replaces = "slayer talent gained at 4th level", feature = "slayer-talents", levels = [4] },

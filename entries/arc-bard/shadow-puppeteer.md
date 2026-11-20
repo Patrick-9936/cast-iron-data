@@ -17,8 +17,8 @@ page = "210"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Inspire courage" },
-  { replaces = "inspire competence" },
+  { replaces = "Inspire courage", feature = "bardic-performance", power = "inspire courage" },
+  { replaces = "inspire competence", feature = "bardic-performance", power = "inspire competence" },
 ]
 +++
 

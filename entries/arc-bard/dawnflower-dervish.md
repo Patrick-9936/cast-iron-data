@@ -20,7 +20,7 @@ trades = [
   { replaces = "Proficiency with the rapier and whip", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "Lore master", feature = "lore-master" },
-  { replaces = "Dirge of doom" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
   { alters = "Bardic performance", feature = "bardic-performance" },
 ]
 +++

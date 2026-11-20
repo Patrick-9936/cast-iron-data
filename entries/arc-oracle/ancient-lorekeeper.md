@@ -17,8 +17,8 @@ page = "24"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bonus skills from the oracle's mystery" },
-  { replaces = "Bonus spells gained from the oracle's mystery" },
+  { replaces = "Bonus skills from the oracle's mystery", feature = "mystery", power = "class skills" },
+  { replaces = "Bonus spells gained from the oracle's mystery", feature = "mystery", power = "bonus spells" },
 ]
 +++
 

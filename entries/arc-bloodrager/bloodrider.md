@@ -20,7 +20,7 @@ trades = [
   { replaces = "Fast movement", feature = "fast-movement" },
   { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
   { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
-  { replaces = "The bloodline feat gained at 9th level" },
+  { replaces = "The bloodline feat gained at 9th level", feature = "bloodline", levels = [9], power = "bloodline feat" },
 ]
 +++
 

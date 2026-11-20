@@ -18,9 +18,9 @@ page = "20"
 kind = "archetype"
 trades = [
   { replaces = "Track", feature = "track" },
-  { replaces = "Slayer talent received at 2nd level" },
+  { replaces = "Slayer talent received at 2nd level", feature = "slayer-talents", levels = [2] },
   { replaces = "Stalker", feature = "stalker" },
-  { replaces = "Slayer talent received at 8th level" },
+  { replaces = "Slayer talent received at 8th level", feature = "slayer-talents", levels = [8] },
   { alters = "Master slayer", feature = "master-slayer" },
 ]
 +++

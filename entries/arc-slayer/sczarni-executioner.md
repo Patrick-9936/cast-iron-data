@@ -21,8 +21,8 @@ trades = [
   { replaces = "Quarry", feature = "quarry" },
   { replaces = "improved quarry", feature = "improved-quarry" },
   { alters = "Studied target", feature = "studied-target" },
-  { alters = "Slayer talent received at 4th level" },
-  { alters = "Slayer talent received at 10th level" },
+  { alters = "Slayer talent received at 4th level", feature = "slayer-talents", levels = [4] },
+  { alters = "Slayer talent received at 10th level", feature = "slayer-talents", levels = [10] },
 ]
 +++
 

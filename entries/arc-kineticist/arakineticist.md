@@ -17,9 +17,9 @@ page = "22"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Utility wild talent gained at 4th level" },
-  { replaces = "Utility wild talents gained at 6th and 8th levels" },
-  { replaces = "Utility wild talent gained at 13th level" },
+  { replaces = "Utility wild talent gained at 4th level", feature = "wild-talents", levels = [4] },
+  { replaces = "Utility wild talents gained at 6th and 8th levels", feature = "wild-talents", levels = [6, 8] },
+  { replaces = "Utility wild talent gained at 13th level", feature = "wild-talents", levels = [13] },
 ]
 +++
 

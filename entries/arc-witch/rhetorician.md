@@ -18,7 +18,7 @@ page = "25"
 kind = "archetype"
 trades = [
   { replaces = "1st-level hex", feature = "hex", levels = [1] },
-  { replaces = "All spells granted by the witch's patron" },
+  { replaces = "All spells granted by the witch's patron", feature = "patron-spells" },
 ]
 +++
 

@@ -17,9 +17,9 @@ page = "115"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Suggestion" },
-  { replaces = "Inspire greatness" },
-  { replaces = "Mass suggestion" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
+  { replaces = "Inspire greatness", feature = "bardic-performance", power = "inspire greatness" },
+  { replaces = "Mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "The 2nd-level versatile performance", feature = "versatile-performance", levels = [2] },
 ]

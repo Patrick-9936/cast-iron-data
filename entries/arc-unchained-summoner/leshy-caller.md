@@ -17,7 +17,7 @@ page = "94"
 [fields]
 kind = "archetype"
 trades = [
-  { alters = "Summon monster" },
+  { alters = "Summon monster", feature = "summon-monster-i" },
 ]
 +++
 

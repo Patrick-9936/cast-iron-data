@@ -18,7 +18,7 @@ page = "4"
 kind = "archetype"
 trades = [
   { replaces = "Alignment requirement" },
-  { replaces = "All bonus feats" },
+  { replaces = "All bonus feats", feature = "bonus-feat" },
   { replaces = "stunning fist", feature = "stunning-fist" },
   { replaces = "Evasion", feature = "evasion" },
   { replaces = "purity of body", feature = "purity-of-body" },

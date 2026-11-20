@@ -18,9 +18,9 @@ page = "45"
 kind = "archetype"
 trades = [
   { replaces = "Nimble", feature = "nimble" },
-  { replaces = "Deadeye deed" },
-  { replaces = "Gunslinger initiative deed" },
-  { replaces = "The gunslinger's normal bonus feats" },
+  { replaces = "Deadeye deed", feature = "deeds", power = "deadeye" },
+  { replaces = "Gunslinger initiative deed", feature = "deeds", power = "gunslinger initiative" },
+  { replaces = "The gunslinger's normal bonus feats", feature = "bonus-feats" },
 ]
 +++
 

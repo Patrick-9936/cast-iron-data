@@ -18,7 +18,7 @@ page = "21"
 kind = "archetype"
 trades = [
   { replaces = "Scribe Scroll", feature = "scribe-scroll" },
-  { replaces = "The school ability normally gained at 6th or 8th level" },
+  { replaces = "The school ability normally gained at 6th or 8th level", feature = "arcane-school", levels = [6, 8], power = "school powers" },
   { replaces = "5th-level bonus feat", feature = "bonus-feats", levels = [5] },
   { replaces = "15th-level bonus feat", feature = "bonus-feats", levels = [15] },
   { alters = "Arcane bond", feature = "arcane-bond" },

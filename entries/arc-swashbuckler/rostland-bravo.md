@@ -17,10 +17,10 @@ page = "23"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Menacing swordplay" },
-  { replaces = "Superior feint" },
-  { replaces = "Bleeding wound" },
-  { replaces = "Swashbuckler's edge" },
+  { replaces = "Menacing swordplay", feature = "deeds", power = "menacing swordplay" },
+  { replaces = "Superior feint", feature = "deeds", power = "superior feint" },
+  { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
+  { replaces = "Swashbuckler's edge", feature = "deeds", power = "swashbuckler's edge" },
   { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies", power = "armor" },
 ]
 +++

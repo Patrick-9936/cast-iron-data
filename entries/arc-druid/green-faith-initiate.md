@@ -21,9 +21,9 @@ page = "10"
 kind = "archetype"
 trades = [
   { replaces = "Trackless step", feature = "trackless-step" },
-  { replaces = "Daily use of wild shape gained at 6th level" },
+  { replaces = "Daily use of wild shape gained at 6th level", feature = "wild-shape", levels = [6] },
   { replaces = "Venom immunity", feature = "venom-immunity" },
-  { replaces = "Daily use of wild shape gained at 10th level" },
+  { replaces = "Daily use of wild shape gained at 10th level", feature = "wild-shape", levels = [10] },
   { replaces = "A thousand faces", feature = "a-thousand-faces" },
 ]
 +++

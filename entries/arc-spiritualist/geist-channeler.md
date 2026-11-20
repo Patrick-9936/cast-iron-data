@@ -17,7 +17,7 @@ page = "109"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The phantom's emotional focus" },
+  { replaces = "The phantom's emotional focus", feature = "phantom", power = "emotional focus" },
   { alters = "Phantom", feature = "phantom" },
   { alters = "Bonded manifestation", feature = "bonded-manifestation" },
   { alters = "Phantom" },

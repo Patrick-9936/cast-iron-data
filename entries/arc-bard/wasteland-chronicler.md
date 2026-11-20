@@ -18,7 +18,7 @@ page = "25"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Inspire competence" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
 ]
 +++
 

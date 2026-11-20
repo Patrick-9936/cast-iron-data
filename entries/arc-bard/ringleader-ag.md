@@ -19,9 +19,9 @@ kind = "archetype"
 trades = [
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Versatile performance", feature = "versatile-performance" },
-  { replaces = "Suggestion" },
-  { replaces = "mass suggestion" },
-  { replaces = "soothing performance" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
+  { replaces = "mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
+  { replaces = "soothing performance", feature = "bardic-performance", power = "soothing performance" },
   { alters = "Bardic performance", feature = "bardic-performance" },
 ]
 +++

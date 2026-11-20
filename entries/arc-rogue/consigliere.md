@@ -22,7 +22,7 @@ trades = [
   { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
   { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
   { replaces = "Trap sense", feature = "trap-sense" },
-  { replaces = "Rogue talent normally gained at 10th level" },
+  { replaces = "Rogue talent normally gained at 10th level", feature = "rogue-talents", levels = [10] },
 ]
 +++
 

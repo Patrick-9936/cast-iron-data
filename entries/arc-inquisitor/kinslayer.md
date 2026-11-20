@@ -17,7 +17,7 @@ page = "98"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Destruction judgment" },
+  { replaces = "Destruction judgment", feature = "judgment", power = "destruction" },
   { replaces = "Detect alignment", feature = "detect-alignment" },
   { alters = "Teamwork feats", feature = "teamwork-feat" },
 ]

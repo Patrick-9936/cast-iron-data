@@ -17,10 +17,10 @@ page = "30"
 kind = "archetype"
 trades = [
   { replaces = "Brew Potion", feature = "brew-potion" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
   { replaces = "Poison use", feature = "poison-use" },
   { replaces = "Swift poisoning", feature = "swift-poisoning" },
-  { replaces = "Poison immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10] },
 ]
 +++
 

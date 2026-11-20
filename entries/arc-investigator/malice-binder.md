@@ -20,8 +20,8 @@ trades = [
   { replaces = "Trapfinding", feature = "trapfinding" },
   { replaces = "trap sense", feature = "trap-sense" },
   { replaces = "Alchemy", feature = "alchemy" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
-  { replaces = "Poison immunity" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [11] },
   { alters = "Inspiration", feature = "inspiration" },
 ]
 +++

@@ -19,9 +19,9 @@ kind = "archetype"
 trades = [
   { replaces = "Alchemy", feature = "alchemy" },
   { replaces = "Poison lore", feature = "poison-lore" },
-  { replaces = "poison resistance", feature = "poison-resistance" },
+  { replaces = "poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
   { replaces = "swift alchemy", feature = "swift-alchemy" },
-  { replaces = "poison immunity" },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [11] },
   { replaces = "Investigator talent gained at 3rd level", feature = "investigator-talent", levels = [3] },
   { alters = "Investigator talents", feature = "investigator-talent" },
 ]

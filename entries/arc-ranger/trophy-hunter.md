@@ -18,7 +18,7 @@ page = "67"
 kind = "archetype"
 trades = [
   { replaces = "Wild empathy", feature = "wild-empathy" },
-  { replaces = "All combat style feats" },
+  { replaces = "All combat style feats", feature = "combat-style-feat" },
   { replaces = "Hunter's bond", feature = "hunter-s-bond" },
 ]
 +++

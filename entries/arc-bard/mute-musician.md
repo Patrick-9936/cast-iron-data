@@ -18,10 +18,10 @@ page = "9"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Inspire competence" },
-  { replaces = "Frightening tune" },
-  { replaces = "Inspire heroics" },
-  { replaces = "Mass suggestion" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
+  { replaces = "Frightening tune", feature = "bardic-performance", power = "frightening tune" },
+  { replaces = "Inspire heroics", feature = "bardic-performance", power = "inspire heroics" },
+  { replaces = "Mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
   { replaces = "Versatile performance", feature = "versatile-performance" },
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Jack-of-all-trades", feature = "jack-of-all-trades" },

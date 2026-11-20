@@ -18,7 +18,7 @@ page = "26"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Versatile performance selections normally gained at 7th, 12th, and 17th levels" },
+  { replaces = "Versatile performance selections normally gained at 7th, 12th, and 17th levels", feature = "versatile-performance", levels = [7, 12, 17] },
   { alters = "Raging song", feature = "raging-song" },
   { alters = "versatile performance", feature = "versatile-performance" },
 ]

@@ -17,7 +17,7 @@ page = "91"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "10th-level use of smite good" },
+  { replaces = "10th-level use of smite good", feature = "smite-good", levels = [10] },
   { replaces = "Aura of vengeance", feature = "aura-of-vengeance" },
   { replaces = "The cruelty gained at 15th level", feature = "cruelty", levels = [15] },
   { alters = "Smite good", feature = "smite-good" },

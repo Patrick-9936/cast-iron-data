@@ -28,7 +28,8 @@ Columns of the queue: `id`, `kind`, `trade` (1-based position in the entry's `tr
 `reason` (why the migration left it), `candidates`, `unclaimed_old_anchors`, `subsection`; then the decision:
 `disposition`, `decision` (`code: note`), `feature`, `class`, `levels`, `power`; then the evidence: `book` and
 `page` (where the item is printed; for a variant row, the source of the subsection that prints the line),
-`page_reason` (why there is no page), `print` (what the print check found), and for a named part of a feature
+`page_reason` (why there is no page), `print` (what the print check found), `evidence` and `evidence_note` (what settles
+the row: see below), and for a named part of a feature
 `class_hit`, `class_book`, `class_page` (a search hit for the name in the class's own pages: see below).
 
 ## Codes of `resolved` rows
@@ -54,11 +55,14 @@ Columns of the queue: `id`, `kind`, `trade` (1-based position in the entry's `tr
 | `levels-overlap`, `overlaps-earlier-claim` | An earlier trade of the same key names the feature at a shared level and power (the one-claim rule of `corpus-check`). |
 | `conditional-replacement` | The archetype replaces the feature only if a choice is made; format 2 has no condition field. |
 | `class-statistic` | Class skills, alignment, skill ranks, saves: printed in the class statistics, not as a feature. |
+| `single-slot-loss` | The archetype gives up one slot of the Spells feature (one 4th-level spell slot); the whole feature would overstate it and no component names a slot. |
 | `composite` | The printed item names several features at once; a trade holds one feature. |
 | `free-text-part` | The item describes a part of a feature in words, with no stable name to compare by exact text. |
 | `no-class-heading` | The class entry has no heading or text for it (the code of conduct, an ability of the phantom). |
 | `not-a-class-feature` | A racial trait, or a feature of another class (the unchained rogue). |
 | `name-not-a-feature` | The printed name is not a feature name in print. |
+| `print-contradicts-class` | Print lists a grant level that the base class contradicts (Possessed Oracle's 1st-level mystery bonus spell); no link is written. |
+| `print-ambiguity` | Print and the class entry disagree about which feature or level (Guild Agent's Improved Evasion at 8th level); no link is written. |
 
 `print` is `page` (the printed name is on the cited page or next to it), `words` (all its words are), `book`
 (in the book, not near the cited page), `none`, or `nobook` (no copy of the book was available). It is a
@@ -68,3 +72,19 @@ search hit on the text of the cited page, not a reading of the trade's scope.
 class entry cites (the class's page and the 16 pages after it); `class_book` and `class_page` are then the book
 and the printed page of the first hit. A class option finds its class through its option group. A hit shows
 that the book prints the name in the class's section; it does not show that the feature grants it.
+
+## Evidence
+
+`print` is a search hit, not a reading. `evidence` says what settles each closed row:
+
+| `evidence` | Meaning |
+|---|---|
+| `print` | The search found the printed name on the cited page or next to it. |
+| `manual` | A reader checked the book page. `trade-evidence-452.tsv` records the book, the printed page and what the page says; `fill` copies them. |
+| `corpus` | No search hit and no reading. The entry's own line and the class table settle it, and `evidence_note` says why print did not: no copy of the book, or the book is available but nobody read the page. |
+
+A count of rows "resolved by print" is the count of `resolved` rows with `evidence` `print` or `manual`; the rest are
+resolved from the corpus.
+
+Rows that a reader adjusted by hand (and the step values that `normalize` rewrote) are in `trade-adjustments-452.tsv`;
+the hand adjustments are written in `trade-adjustments-manual-452.tsv`, each with its reason.

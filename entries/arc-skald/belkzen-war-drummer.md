@@ -20,7 +20,7 @@ trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "Scribe Scroll", feature = "scribe-scroll" },
   { replaces = "Lore master", feature = "lore-master" },
-  { replaces = "7th-level versatile performance gained benefit" },
+  { replaces = "7th-level versatile performance gained benefit", feature = "versatile-performance", levels = [7] },
 ]
 +++
 

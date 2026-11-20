@@ -17,10 +17,10 @@ page = "73"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Quick clear deed" },
-  { replaces = "Pistol whip deed" },
-  { replaces = "Dead shot deed" },
-  { replaces = "Lightning reload deed" },
+  { replaces = "Quick clear deed", feature = "deeds", power = "quick clear" },
+  { replaces = "Pistol whip deed", feature = "deeds", power = "pistol whip" },
+  { replaces = "Dead shot deed", feature = "deeds", power = "dead shot" },
+  { replaces = "Lightning reload deed", feature = "deeds", power = "lightning reload" },
   { replaces = "Nimble", feature = "nimble" },
   { replaces = "Gun training 1", feature = "gun-training", levels = [5] },
   { replaces = "Gun training 2", feature = "gun-training", levels = [9] },

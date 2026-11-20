@@ -17,14 +17,14 @@ page = "89"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "2nd-, 8th-, 10th-, 14th-, and 18th-level utility wild talents" },
+  { replaces = "2nd-, 8th-, 10th-, 14th-, and 18th-level utility wild talents", feature = "wild-talents", levels = [2, 8, 10, 14, 18] },
   { replaces = "3rd- and 9th-level infusions", feature = "infusion", levels = [3, 9] },
-  { replaces = "4th-level utility wild talent" },
+  { replaces = "4th-level utility wild talent", feature = "wild-talents", levels = [4] },
   { replaces = "5th-level infusion", feature = "infusion", levels = [5] },
-  { replaces = "6th-, 12th-, and 16th level utility wild talents" },
-  { replaces = "Omnikinesis, 20th-level utility wild talent" },
+  { replaces = "6th-, 12th-, and 16th level utility wild talents", feature = "wild-talents", levels = [6, 12, 16] },
+  { replaces = "Omnikinesis, 20th-level utility wild talent", feature = "wild-talents", levels = [20] },
   { alters = "1st-level infusion", feature = "infusion", levels = [1] },
-  { alters = "the basic utility wild talent normally granted by selecting an element" },
+  { alters = "the basic utility wild talent normally granted by selecting an element", feature = "elemental-focus", power = "basic utility wild talent" },
 ]
 +++
 

@@ -17,8 +17,8 @@ page = "51"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Quick clear deed" },
-  { replaces = "Bleeding wound deed" },
+  { replaces = "Quick clear deed", feature = "deeds", power = "quick clear" },
+  { replaces = "Bleeding wound deed", feature = "deeds", power = "bleeding wound" },
   { replaces = "Nimble", feature = "nimble" },
   { replaces = "Gun training 1", feature = "gun-training", levels = [5] },
   { alters = "Grit", feature = "grit" },

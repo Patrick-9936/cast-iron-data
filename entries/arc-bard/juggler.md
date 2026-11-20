@@ -21,7 +21,7 @@ trades = [
   { replaces = "lore master", feature = "lore-master" },
   { replaces = "Versatile performance", feature = "versatile-performance" },
   { replaces = "Well-versed", feature = "well-versed" },
-  { replaces = "soothing performance" },
+  { replaces = "soothing performance", feature = "bardic-performance", power = "soothing performance" },
   { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
 ]
 +++

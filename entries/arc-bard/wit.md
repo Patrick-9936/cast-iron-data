@@ -18,13 +18,13 @@ page = "23"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Inspire competence" },
-  { replaces = "dirge of doom" },
-  { replaces = "frightening tune" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
+  { replaces = "dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
+  { replaces = "frightening tune", feature = "bardic-performance", power = "frightening tune" },
   { replaces = "Versatile performance", feature = "versatile-performance" },
   { replaces = "Lore master", feature = "lore-master" },
   { replaces = "Jack-of-all-trades", feature = "jack-of-all-trades" },
-  { alters = "Countersong" },
+  { alters = "Countersong", feature = "bardic-performance", power = "countersong" },
 ]
 +++
 

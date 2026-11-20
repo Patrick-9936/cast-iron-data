@@ -17,11 +17,11 @@ page = "85"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Inspire courage" },
-  { replaces = "Inspire competence" },
-  { replaces = "Inspire greatness" },
-  { replaces = "Inspire heroics" },
-  { replaces = "Countersong" },
+  { replaces = "Inspire courage", feature = "bardic-performance", power = "inspire courage" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
+  { replaces = "Inspire greatness", feature = "bardic-performance", power = "inspire greatness" },
+  { replaces = "Inspire heroics", feature = "bardic-performance", power = "inspire heroics" },
+  { replaces = "Countersong", feature = "bardic-performance", power = "countersong" },
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "Lore master", feature = "lore-master" },
 ]

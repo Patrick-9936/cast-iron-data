@@ -17,11 +17,11 @@ page = "40"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Inspire courage" },
-  { replaces = "Suggestion" },
-  { replaces = "Dirge of doom" },
-  { replaces = "Inspire heroics" },
-  { replaces = "Deadly performance" },
+  { replaces = "Inspire courage", feature = "bardic-performance", power = "inspire courage" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
+  { replaces = "Inspire heroics", feature = "bardic-performance", power = "inspire heroics" },
+  { replaces = "Deadly performance", feature = "bardic-performance", power = "deadly performance" },
   { alters = "Armor and weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
   { alters = "Spellcasting", feature = "spells" },
 ]

@@ -20,7 +20,7 @@ trades = [
   { replaces = "Bombs", feature = "bomb" },
   { replaces = "Poison resistance +4", feature = "poison-resistance", levels = [5] },
   { replaces = "Poison resistance +6", feature = "poison-resistance", levels = [8] },
-  { replaces = "Poison immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10] },
   { replaces = "15th-level bomb damage increase" },
   { replaces = "17th-level bomb damage increase" },
 ]

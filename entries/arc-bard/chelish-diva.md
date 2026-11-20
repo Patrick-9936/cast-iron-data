@@ -20,8 +20,8 @@ trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Lore master", feature = "lore-master" },
-  { replaces = "Inspire competence" },
-  { replaces = "Dirge of doom" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
 ]
 +++
 

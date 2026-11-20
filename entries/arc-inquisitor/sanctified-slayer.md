@@ -17,7 +17,7 @@ page = "99"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Judgment 1/day" },
+  { replaces = "Judgment 1/day", feature = "judgment", levels = [1] },
   { replaces = "Later iterations of the judgment ability" },
   { replaces = "Second judgment", feature = "second-judgment" },
   { replaces = "third judgment", feature = "third-judgment" },

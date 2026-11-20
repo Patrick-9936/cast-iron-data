@@ -18,7 +18,7 @@ page = "194"
 kind = "archetype"
 trades = [
   { replaces = "Track", feature = "track" },
-  { replaces = "All combat style bonus feats" },
+  { replaces = "All combat style bonus feats", feature = "combat-style-feat" },
   { replaces = "Favored terrain", feature = "favored-terrain" },
   { replaces = "Woodland stride", feature = "woodland-stride" },
   { replaces = "Swift tracker", feature = "swift-tracker" },

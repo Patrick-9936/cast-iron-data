@@ -19,10 +19,10 @@ kind = "archetype"
 trades = [
   { replaces = "Regain panache from a killing blow" },
   { replaces = "Bonus feats", feature = "bonus-feats" },
-  { replaces = "Menacing swordplay" },
-  { replaces = "Dizzying defense" },
-  { alters = "Derring-do" },
-  { alters = "swashbuckler's edge" },
+  { replaces = "Menacing swordplay", feature = "deeds", power = "menacing swordplay" },
+  { replaces = "Dizzying defense", feature = "deeds", power = "dizzying defense" },
+  { alters = "Derring-do", feature = "deeds", power = "derring-do" },
+  { alters = "swashbuckler's edge", feature = "deeds", power = "swashbuckler's edge" },
   { alters = "Panache", feature = "panache" },
 ]
 +++

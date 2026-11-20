@@ -17,10 +17,10 @@ page = "50"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Gunslinger's dodge deed" },
-  { replaces = "Evasive deed" },
+  { replaces = "Gunslinger's dodge deed", feature = "deeds", power = "gunslinger's dodge" },
+  { replaces = "Evasive deed", feature = "deeds", power = "evasive" },
   { replaces = "Nimble", feature = "nimble" },
-  { replaces = "All bonus combat/grit feats" },
+  { replaces = "All bonus combat/grit feats", feature = "bonus-feats" },
 ]
 +++
 

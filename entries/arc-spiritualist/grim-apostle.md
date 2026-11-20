@@ -17,7 +17,7 @@ page = "72"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The phantom's emotional focus" },
+  { replaces = "The phantom's emotional focus", feature = "phantom", power = "emotional focus" },
   { replaces = "Shared consciousness", feature = "shared-consciousness" },
   { replaces = "fused consciousness", feature = "fused-consciousness" },
   { alters = "Phantom", feature = "phantom" },

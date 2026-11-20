@@ -18,10 +18,10 @@ page = "18"
 kind = "archetype"
 trades = [
   { replaces = "Trapfinding", feature = "trapfinding" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
   { replaces = "Poison lore", feature = "poison-lore" },
   { replaces = "Studied strike", feature = "studied-strike" },
-  { replaces = "Poison immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [11] },
 ]
 +++
 

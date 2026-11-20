@@ -19,9 +19,9 @@ kind = "archetype"
 trades = [
   { replaces = "Scribe Scroll", feature = "scribe-scroll" },
   { replaces = "the 5th- and 10th-level bonus feats", feature = "bonus-feats", levels = [5, 10] },
-  { replaces = "The school ability gained at 8th level" },
+  { replaces = "The school ability gained at 8th level", feature = "arcane-school", levels = [8], power = "school powers" },
   { alters = "Arcane bond", feature = "arcane-bond" },
-  { alters = "The 1st-level arcane school ability" },
+  { alters = "The 1st-level arcane school ability", feature = "arcane-school", levels = [1], power = "school powers" },
   { alters = "Spellbook", feature = "spellbooks" },
 ]
 +++

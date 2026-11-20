@@ -17,7 +17,7 @@ page = "8"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Summon monster" },
+  { replaces = "Summon monster", feature = "summon-monster-i" },
   { replaces = "Bond senses", feature = "bond-senses" },
   { replaces = "Aspect", feature = "aspect" },
   { replaces = "Greater aspect", feature = "greater-aspect" },

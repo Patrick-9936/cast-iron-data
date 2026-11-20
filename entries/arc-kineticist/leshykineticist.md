@@ -17,12 +17,12 @@ page = "23"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "6th- and 10th-level utility wild talents" },
-  { replaces = "maximize metakinesis" },
+  { replaces = "6th- and 10th-level utility wild talents", feature = "wild-talents", levels = [6, 10] },
+  { replaces = "maximize metakinesis", feature = "metakinesis", power = "maximize" },
   { replaces = "Omnikinesis", feature = "omnikinesis" },
-  { alters = "Element" },
+  { alters = "Element", feature = "elemental-focus" },
   { alters = "expanded element", feature = "expanded-element" },
-  { alters = "Basic phytokinesis" },
+  { alters = "Basic phytokinesis", feature = "elemental-focus", power = "basic utility wild talent" },
   { alters = "Internal buffer", feature = "internal-buffer" },
 ]
 +++

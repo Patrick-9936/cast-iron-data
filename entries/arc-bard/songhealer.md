@@ -18,8 +18,8 @@ page = "27"
 kind = "archetype"
 trades = [
   { replaces = "Versatile performance", feature = "versatile-performance" },
-  { replaces = "Frightening tune" },
-  { replaces = "Deadly performance" },
+  { replaces = "Frightening tune", feature = "bardic-performance", power = "frightening tune" },
+  { replaces = "Deadly performance", feature = "bardic-performance", power = "deadly performance" },
 ]
 +++
 

@@ -20,8 +20,8 @@ trades = [
   { replaces = "Trapfinding", feature = "trapfinding" },
   { replaces = "poison lore", feature = "poison-lore" },
   { replaces = "trap sense", feature = "trap-sense" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
-  { replaces = "poison immunity" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [11] },
   { replaces = "Swift alchemy", feature = "swift-alchemy" },
   { replaces = "Investigator talent at 7th level", feature = "investigator-talent", levels = [7] },
 ]

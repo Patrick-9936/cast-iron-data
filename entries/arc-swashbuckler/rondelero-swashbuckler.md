@@ -17,10 +17,10 @@ page = "6"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Derring-do" },
-  { replaces = "Kip-up" },
-  { replaces = "Bleeding wound" },
-  { replaces = "Perfect thrust" },
+  { replaces = "Derring-do", feature = "deeds", power = "derring-do" },
+  { replaces = "Kip-up", feature = "deeds", power = "kip-up" },
+  { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
+  { replaces = "Perfect thrust", feature = "deeds", power = "perfect thrust" },
   { alters = "Charmed life", feature = "charmed-life" },
 ]
 +++

@@ -26,7 +26,7 @@ trades = [
   { replaces = "greater banner", feature = "greater-banner" },
   { replaces = "Mounted archer", feature = "mounted-archer" },
   { replaces = "demanding challenge", feature = "demanding-challenge" },
-  { replaces = "Bonus combat feats" },
+  { replaces = "Bonus combat feats", feature = "bonus-feat" },
   { alters = "Challenge", feature = "challenge" },
 ]
 +++

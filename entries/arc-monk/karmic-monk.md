@@ -21,7 +21,7 @@ trades = [
   { replaces = "Still mind", feature = "still-mind" },
   { replaces = "7th- and 10th-level ki pool abilities" },
   { replaces = "Improved evasion", feature = "improved-evasion" },
-  { replaces = "The slow fall improvement; it remains at 70 feet" },
+  { replaces = "The slow fall improvement; it remains at 70 feet", feature = "slow-fall", levels = [16] },
   { alters = "Alignment requirement" },
   { alters = "Slow fall", feature = "slow-fall" },
   { alters = "Perfect self", feature = "perfect-self" },

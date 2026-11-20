@@ -17,7 +17,7 @@ page = "128"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Smiting judgment" },
+  { replaces = "Smiting judgment", feature = "judgment", power = "smiting" },
   { replaces = "Bane", feature = "bane" },
   { replaces = "greater bane", feature = "greater-bane" },
   { alters = "True judgment", feature = "true-judgment" },

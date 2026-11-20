@@ -18,7 +18,7 @@ page = "21"
 kind = "archetype"
 trades = [
   { replaces = "Tactician", feature = "tactician" },
-  { replaces = "The 2nd-level order ability" },
+  { replaces = "The 2nd-level order ability", feature = "order", levels = [2] },
   { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
 ]
 +++

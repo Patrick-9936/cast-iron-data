@@ -17,7 +17,7 @@ page = "8"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Countersong" },
+  { replaces = "Countersong", feature = "bardic-performance", power = "countersong" },
   { replaces = "Jack-of-all-trades", feature = "jack-of-all-trades" },
   { alters = "The bard's class skills" },
   { alters = "Spells", feature = "spells" },

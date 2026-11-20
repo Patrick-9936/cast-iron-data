@@ -17,8 +17,8 @@ page = "11"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Countersong" },
-  { replaces = "Dirge of doom" },
+  { replaces = "Countersong", feature = "bardic-performance", power = "countersong" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
   { alters = "Spellcasting", feature = "spells" },
   { alters = "Bardic performance", feature = "bardic-performance" },
 ]

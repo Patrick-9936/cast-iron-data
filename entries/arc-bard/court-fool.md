@@ -18,8 +18,8 @@ page = "6"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Countersong" },
-  { replaces = "Inspire competence" },
+  { replaces = "Countersong", feature = "bardic-performance", power = "countersong" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
   { replaces = "Lore master", feature = "lore-master" },
 ]
 +++

@@ -17,10 +17,10 @@ page = "23"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Superior feint" },
-  { replaces = "targeted strike" },
-  { replaces = "Bleeding wound" },
-  { replaces = "Deadly stab" },
+  { replaces = "Superior feint", feature = "deeds", power = "superior feint" },
+  { replaces = "targeted strike", feature = "deeds", power = "targeted strike" },
+  { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
+  { replaces = "Deadly stab", feature = "deeds", power = "deadly stab" },
   { alters = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
   { alters = "Panache", feature = "panache" },
 ]

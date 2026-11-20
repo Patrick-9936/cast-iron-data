@@ -28,7 +28,7 @@ trades = [
   { replaces = "Fused consciousness", feature = "fused-consciousness" },
   { replaces = "Greater spiritual interference", feature = "greater-spiritual-interference" },
   { alters = "Phantom", feature = "phantom" },
-  { alters = "emotional focus" },
+  { alters = "emotional focus", feature = "phantom", power = "emotional focus" },
 ]
 +++
 

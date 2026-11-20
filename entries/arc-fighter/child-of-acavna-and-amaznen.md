@@ -17,7 +17,7 @@ page = "10"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bonus fighter combat feat gained at 1st level" },
+  { replaces = "Bonus fighter combat feat gained at 1st level", feature = "bonus-feats", levels = [1] },
   { replaces = "Bonus feat gained at 2nd level", feature = "bonus-feats", levels = [2] },
   { replaces = "Weapon training", feature = "weapon-training" },
   { replaces = "bonus feats gained at 8th, 12th, 16th, and 20th level", feature = "bonus-feats", levels = [8, 12, 16, 20] },

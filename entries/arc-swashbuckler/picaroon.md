@@ -18,10 +18,10 @@ page = "127"
 kind = "archetype"
 trades = [
   { replaces = "Weapon proficiency", feature = "weapon-and-armor-proficiencies", power = "weapons" },
-  { replaces = "Opportune parry and riposte" },
-  { replaces = "Kip-up" },
-  { replaces = "Superior feint" },
-  { replaces = "Bleeding wound" },
+  { replaces = "Opportune parry and riposte", feature = "deeds", power = "opportune parry and riposte" },
+  { replaces = "Kip-up", feature = "deeds", power = "kip-up" },
+  { replaces = "Superior feint", feature = "deeds", power = "superior feint" },
+  { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
   { replaces = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
   { alters = "Panache", feature = "panache" },
 ]

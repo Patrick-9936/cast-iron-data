@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "1st-level hex", feature = "hex", levels = [1] },
   { replaces = "6th-level hex", feature = "hex", levels = [6] },
-  { alters = "Patron" },
+  { alters = "Patron", feature = "patron-spells", power = "patron" },
   { alters = "patron spells", feature = "patron-spells" },
 ]
 +++

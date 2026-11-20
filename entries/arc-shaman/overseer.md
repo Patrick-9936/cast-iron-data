@@ -17,7 +17,7 @@ page = "23"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Spirit magic spells gained from the shaman's spirit" },
+  { replaces = "Spirit magic spells gained from the shaman's spirit", feature = "spirit-magic" },
   { alters = "Deliver touch spells spirit animal ability" },
 ]
 +++

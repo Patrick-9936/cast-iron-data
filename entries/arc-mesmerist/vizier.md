@@ -18,7 +18,7 @@ page = "38"
 kind = "archetype"
 trades = [
   { replaces = "Consummate liar", feature = "consummate-liar" },
-  { replaces = "bold stare improvement gained at 3rd level" },
+  { replaces = "bold stare improvement gained at 3rd level", feature = "bold-stare", levels = [3] },
   { replaces = "Towering ego", feature = "towering-ego" },
   { replaces = "mental potency", feature = "mental-potency" },
 ]

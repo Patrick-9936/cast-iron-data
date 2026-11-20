@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Poison use", feature = "poison-use" },
   { replaces = "Poison resistance +4", feature = "poison-resistance", levels = [5] },
-  { replaces = "Poison immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10] },
 ]
 +++
 

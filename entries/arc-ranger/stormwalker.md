@@ -22,7 +22,7 @@ trades = [
   { replaces = "Quarry", feature = "quarry" },
   { replaces = "Improved evasion", feature = "improved-evasion" },
   { replaces = "Improved quarry", feature = "improved-quarry" },
-  { alters = "Combat style" },
+  { alters = "Combat style", feature = "combat-style-feat" },
 ]
 +++
 

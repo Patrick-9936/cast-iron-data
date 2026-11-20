@@ -17,7 +17,7 @@ page = "123"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Summon monster" },
+  { replaces = "Summon monster", feature = "summon-monster-i" },
   { replaces = "Aspect", feature = "aspect" },
   { replaces = "maker's call", feature = "maker-s-call" },
   { replaces = "merge forms", feature = "merge-forms" },

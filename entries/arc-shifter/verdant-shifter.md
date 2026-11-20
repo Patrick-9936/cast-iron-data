@@ -20,8 +20,8 @@ trades = [
   { replaces = "Wild empathy", feature = "wild-empathy" },
   { replaces = "Shifter aspect", feature = "shifter-aspect" },
   { replaces = "Defensive instinct", feature = "defensive-instinct" },
-  { replaces = "Chimeric form" },
-  { replaces = "greater chimeric form" },
+  { replaces = "Chimeric form", feature = "chimeric-aspect" },
+  { replaces = "greater chimeric form", feature = "greater-chimeric-aspect" },
   { alters = "Wild shape", feature = "wild-shape" },
 ]
 +++

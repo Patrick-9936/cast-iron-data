@@ -17,7 +17,7 @@ page = "17"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The bonus spells gained at 10th, 12th, 14th, 16th, and 18th levels from the oracle's mystery" },
+  { replaces = "The bonus spells gained at 10th, 12th, 14th, 16th, and 18th levels from the oracle's mystery", feature = "mystery", levels = [10, 12, 14, 16, 18], power = "bonus spells" },
   { replaces = "1st- and 7th-level revelations", feature = "revelation", levels = [1, 7] },
 ]
 +++

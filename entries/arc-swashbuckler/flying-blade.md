@@ -17,15 +17,15 @@ page = "124"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Dodging panache" },
-  { replaces = "Kip-up" },
-  { replaces = "Menacing swordplay" },
-  { replaces = "Targeted strike" },
-  { replaces = "Perfect thrust" },
+  { replaces = "Dodging panache", feature = "deeds", power = "dodging panache" },
+  { replaces = "Kip-up", feature = "deeds", power = "kip-up" },
+  { replaces = "Menacing swordplay", feature = "deeds", power = "menacing swordplay" },
+  { replaces = "Targeted strike", feature = "deeds", power = "targeted strike" },
+  { replaces = "Perfect thrust", feature = "deeds", power = "perfect thrust" },
   { replaces = "Swashbuckler weapon training", feature = "swashbuckler-weapon-training" },
   { replaces = "Swashbuckler weapon mastery", feature = "swashbuckler-weapon-mastery" },
   { alters = "Panache", feature = "panache" },
-  { alters = "Bleeding wound" },
+  { alters = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
 ]
 +++
 

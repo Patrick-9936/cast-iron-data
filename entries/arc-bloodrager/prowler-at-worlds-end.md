@@ -17,10 +17,10 @@ page = "4"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The 1st-, 8th-, and 16th-level bloodline powers" },
-  { replaces = "9th-level and 15th-level bloodline feats" },
-  { replaces = "The 12th-level bloodline feat" },
-  { alters = "The 4th-, 16th-, and 20th-level bloodline powers" },
+  { replaces = "The 1st-, 8th-, and 16th-level bloodline powers", feature = "bloodline", levels = [1, 8, 16], power = "bloodline power" },
+  { replaces = "9th-level and 15th-level bloodline feats", feature = "bloodline", levels = [9, 15], power = "bloodline feat" },
+  { replaces = "The 12th-level bloodline feat", feature = "bloodline", levels = [12], power = "bloodline feat" },
+  { alters = "The 4th-, 16th-, and 20th-level bloodline powers", feature = "bloodline", levels = [4, 16, 20], power = "bloodline power" },
   { alters = "Greater bloodrage", feature = "greater-bloodrage" },
   { alters = "mighty bloodrage", feature = "mighty-bloodrage" },
 ]

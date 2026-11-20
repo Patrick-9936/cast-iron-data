@@ -14,8 +14,8 @@ relations = [
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Inspire competence" },
-  { replaces = "Suggestion" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
 ]
 +++
 

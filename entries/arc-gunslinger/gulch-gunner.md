@@ -17,11 +17,11 @@ page = "152"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The ability to regain grit from a critical hit with a firearm" },
-  { replaces = "Deadeye deed" },
-  { replaces = "Pistol whip deed" },
-  { replaces = "Menacing shot deed" },
-  { replaces = "Gun training ability gained at 9th, 13th, and 17th level" },
+  { replaces = "The ability to regain grit from a critical hit with a firearm", feature = "critical-hit-with-a-firearm" },
+  { replaces = "Deadeye deed", feature = "deeds", power = "deadeye" },
+  { replaces = "Pistol whip deed", feature = "deeds", power = "pistol whip" },
+  { replaces = "Menacing shot deed", feature = "deeds", power = "menacing shot" },
+  { replaces = "Gun training ability gained at 9th, 13th, and 17th level", feature = "gun-training", levels = [9, 13, 17] },
   { alters = "Grit", feature = "grit" },
 ]
 +++

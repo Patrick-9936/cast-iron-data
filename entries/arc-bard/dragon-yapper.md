@@ -17,8 +17,8 @@ page = "128"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Fascinate" },
-  { replaces = "Dirge of doom" },
+  { replaces = "Fascinate", feature = "bardic-performance", power = "fascinate" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
 ]
 +++
 

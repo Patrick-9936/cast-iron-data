@@ -18,8 +18,8 @@ page = "29"
 kind = "archetype"
 trades = [
   { replaces = "Eschew Materials", feature = "eschew-materials" },
-  { replaces = "3rd-level bloodline power" },
-  { replaces = "15th-level bloodline power" },
+  { replaces = "3rd-level bloodline power", feature = "bloodline", levels = [3], power = "bloodline power" },
+  { replaces = "15th-level bloodline power", feature = "bloodline", levels = [15], power = "bloodline power" },
 ]
 +++
 

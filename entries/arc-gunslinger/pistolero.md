@@ -14,9 +14,9 @@ relations = [
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Deadeye deed" },
-  { replaces = "Startling shot deed" },
-  { replaces = "Bleeding wound deed" },
+  { replaces = "Deadeye deed", feature = "deeds", power = "deadeye" },
+  { replaces = "Startling shot deed", feature = "deeds", power = "startling shot" },
+  { replaces = "Bleeding wound deed", feature = "deeds", power = "bleeding wound" },
   { replaces = "Gun training 1-4", feature = "gun-training", levels = [5, 9, 13, 17] },
   { alters = "Gunsmith", feature = "gunsmith" },
 ]

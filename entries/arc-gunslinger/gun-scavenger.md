@@ -17,8 +17,8 @@ page = "38"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Quick clear deed" },
-  { replaces = "Targeting deed" },
+  { replaces = "Quick clear deed", feature = "deeds", power = "quick clear" },
+  { replaces = "Targeting deed", feature = "deeds", power = "targeting" },
   { replaces = "Nimble", feature = "nimble" },
   { alters = "Gunsmith", feature = "gunsmith" },
 ]

@@ -17,9 +17,9 @@ page = "23"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Startling shot deed" },
-  { replaces = "Lightning reload deed" },
-  { replaces = "Menacing shot deed" },
+  { replaces = "Startling shot deed", feature = "deeds", power = "startling shot" },
+  { replaces = "Lightning reload deed", feature = "deeds", power = "lightning reload" },
+  { replaces = "Menacing shot deed", feature = "deeds", power = "menacing shot" },
   { alters = "Gun training", feature = "gun-training" },
 ]
 +++

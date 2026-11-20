@@ -17,7 +17,7 @@ page = "59"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "All bonus spells from the oracle's mystery" },
+  { replaces = "All bonus spells from the oracle's mystery", feature = "mystery", power = "bonus spells" },
   { replaces = "3rd-level revelation", feature = "revelation", levels = [3] },
   { replaces = "Final revelation", feature = "final-revelation" },
 ]

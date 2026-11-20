@@ -17,10 +17,10 @@ page = "25"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Basic geokinesis wild talent" },
-  { replaces = "Utility wild talent gained at 2nd level" },
-  { replaces = "Ability score boosts granted by elemental overflow" },
-  { replaces = "earth's elemental defense" },
+  { replaces = "Basic geokinesis wild talent", feature = "elemental-focus", power = "basic utility wild talent" },
+  { replaces = "Utility wild talent gained at 2nd level", feature = "wild-talents", levels = [2] },
+  { replaces = "Ability score boosts granted by elemental overflow", feature = "elemental-overflow" },
+  { replaces = "earth's elemental defense", feature = "elemental-defense" },
   { alters = "Elemental focus", feature = "elemental-focus" },
   { alters = "Gather power", feature = "gather-power" },
   { alters = "internal buffer", feature = "internal-buffer" },

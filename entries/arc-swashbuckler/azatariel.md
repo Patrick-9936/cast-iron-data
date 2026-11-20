@@ -17,10 +17,10 @@ page = "10"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Menacing swordplay" },
-  { replaces = "Precise strike" },
-  { replaces = "Targeted strike" },
-  { replaces = "Bleeding wound" },
+  { replaces = "Menacing swordplay", feature = "deeds", power = "menacing swordplay" },
+  { replaces = "Precise strike", feature = "deeds", power = "precise strike" },
+  { replaces = "Targeted strike", feature = "deeds", power = "targeted strike" },
+  { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
   { replaces = "Charmed life", feature = "charmed-life" },
   { replaces = "Nimble", feature = "nimble" },
   { replaces = "Bonus feats", feature = "bonus-feats" },
