@@ -17,7 +17,7 @@ page = "13"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Weapon proficiencies" },
+  { replaces = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Trapfinding", feature = "trapfinding" },
   { replaces = "Trap sense", feature = "trap-sense" },
   { replaces = "rogue talent gained at 6th level", feature = "rogue-talents", levels = [6] },

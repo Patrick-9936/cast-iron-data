@@ -20,7 +20,7 @@ trades = [
   { replaces = "Phantom's emotional focus" },
   { replaces = "Detect undead", feature = "detect-undead" },
   { replaces = "Additional uses of calm spirit available at 11th, 15th, and 19th levels" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Phantom", feature = "phantom" },
   { alters = "Bonded manifestation", feature = "bonded-manifestation" },
 ]

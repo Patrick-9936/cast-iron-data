@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Track", feature = "track" },
   { replaces = "Discern lies", feature = "discern-lies" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

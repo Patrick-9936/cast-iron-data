@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Sacred armor", feature = "sacred-armor" },
   { replaces = "Channel energy", feature = "channel-energy" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Fervor", feature = "fervor" },
 ]
 +++

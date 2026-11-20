@@ -17,8 +17,8 @@ page = "7"
 [fields]
 kind = "archetype"
 trades = [
-  { alters = "The cleric's armor proficiency" },
-  { alters = "The cleric's spellcasting" },
+  { alters = "The cleric's armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "The cleric's spellcasting", feature = "spells" },
   { alters = "Channel energy", feature = "channel-energy" },
 ]
 +++

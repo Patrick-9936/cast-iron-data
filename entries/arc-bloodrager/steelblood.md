@@ -17,7 +17,7 @@ page = "85"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The bloodrager's armor proficiency" },
+  { replaces = "The bloodrager's armor proficiency", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Fast movement", feature = "fast-movement" },
   { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
   { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },

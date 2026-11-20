@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Nature sense", feature = "nature-sense" },
   { replaces = "The druid's proficiency with medium armor" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Base attack bonus" },
   { alters = "class skills" },
   { alters = "skills ranks per level" },

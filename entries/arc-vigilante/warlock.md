@@ -21,7 +21,7 @@ trades = [
   { replaces = "Vigilante specialization", feature = "vigilante-specialization" },
   { replaces = "Unshakable", feature = "unshakable" },
   { alters = "Skill ranks per level" },
-  { alters = "Armor proficiencies" },
+  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies" },
   { alters = "Vigilante talents", feature = "vigilante-talent" },
 ]
 +++

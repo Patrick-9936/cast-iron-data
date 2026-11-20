@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Countersong" },
   { replaces = "Dirge of doom" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Bardic performance", feature = "bardic-performance" },
 ]
 +++

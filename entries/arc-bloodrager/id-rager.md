@@ -22,7 +22,7 @@ trades = [
   { replaces = "all bloodline powers" },
   { replaces = "Eschew materials", feature = "eschew-materials" },
   { replaces = "All bloodline feats" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

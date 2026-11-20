@@ -17,7 +17,7 @@ page = "120"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Armor proficiency" },
+  { replaces = "Armor proficiency", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Slayer talent gained at 4th level", feature = "slayer-talents", levels = [4] },
   { replaces = "Stalker", feature = "stalker" },
   { replaces = "Advanced slayer talent gained at 10th level", feature = "advanced-talents", levels = [10] },

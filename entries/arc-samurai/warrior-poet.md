@@ -17,7 +17,7 @@ page = "13"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency with medium armor" },
+  { replaces = "Proficiency with medium armor", feature = "weapon-and-armor-proficiencies" },
   { replaces = "heavy armor" },
   { replaces = "and shields" },
   { replaces = "Mount", feature = "mount" },

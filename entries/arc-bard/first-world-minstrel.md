@@ -21,7 +21,7 @@ trades = [
   { replaces = "Inspire courage" },
   { replaces = "Dirge of doom" },
   { replaces = "Well-versed", feature = "well-versed" },
-  { alters = "Spell list" },
+  { alters = "Spell list", feature = "spells" },
 ]
 +++
 

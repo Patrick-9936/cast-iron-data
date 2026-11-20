@@ -22,7 +22,7 @@ trades = [
   { replaces = "Woodland stride", feature = "woodland-stride" },
   { alters = "Favored terrain", feature = "favored-terrain" },
   { alters = "Hunter's bond", feature = "hunter-s-bond" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

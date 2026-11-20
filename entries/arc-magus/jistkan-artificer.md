@@ -18,7 +18,7 @@ page = "17"
 kind = "archetype"
 trades = [
   { replaces = "The magus arcana gained at 3rd level", feature = "magus-arcana", levels = [3] },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Arcane pool", feature = "arcane-pool" },
   { alters = "Cantrips", feature = "cantrips" },
   { alters = "Spellstrike", feature = "spellstrike" },

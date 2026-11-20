@@ -17,7 +17,7 @@ page = "62"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Heavy Armor Proficiency" },
+  { replaces = "Heavy Armor Proficiency", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Aura of courage", feature = "aura-of-courage" },
   { replaces = "Divine bond", feature = "divine-bond" },
   { replaces = "6th-level mercy", feature = "mercy", levels = [6] },

@@ -17,7 +17,7 @@ page = "25"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The cavalier's normal armor proficiencies" },
+  { replaces = "The cavalier's normal armor proficiencies", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Tactician", feature = "tactician" },
   { replaces = "banner", feature = "banner" },
   { replaces = "greater banner", feature = "greater-banner" },

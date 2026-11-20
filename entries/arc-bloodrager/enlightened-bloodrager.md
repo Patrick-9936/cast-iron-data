@@ -24,7 +24,7 @@ trades = [
   { replaces = "bloodline bonus spells" },
   { replaces = "The bloodline power gained at 4th level" },
   { replaces = "Damage reduction the bloodrager gains at 7th, 13th, and 19th levels" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Bloodrage", feature = "bloodrage" },
   { alters = "The bloodrager's bloodline powers" },
 ]

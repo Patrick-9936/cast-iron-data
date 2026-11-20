@@ -23,7 +23,7 @@ trades = [
   { replaces = "Inspire heroics" },
   { replaces = "Deadly performance" },
   { alters = "Armor and weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

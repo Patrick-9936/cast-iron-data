@@ -17,7 +17,7 @@ page = "128"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Spellcasting ability" },
+  { replaces = "Spellcasting ability", feature = "spells" },
 ]
 +++
 

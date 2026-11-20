@@ -22,7 +22,7 @@ trades = [
   { replaces = "Camouflage", feature = "camouflage" },
   { alters = "Wild empathy", feature = "wild-empathy" },
   { alters = "Hunter's bond", feature = "hunter-s-bond" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

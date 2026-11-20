@@ -22,7 +22,7 @@ trades = [
   { replaces = "object reading", feature = "object-reading" },
   { replaces = "Aura sight", feature = "aura-sight" },
   { alters = "Mental focus", feature = "mental-focus" },
-  { alters = "spellcasting" },
+  { alters = "spellcasting", feature = "spells" },
   { alters = "implement mastery", feature = "implement-mastery" },
   { alters = "Outside contact", feature = "outside-contact" },
 ]

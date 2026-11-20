@@ -22,7 +22,7 @@ trades = [
   { replaces = "Touch treatment (minor)", feature = "touch-treatment", power = "minor" },
   { replaces = "touch treatment (moderate)", feature = "touch-treatment", power = "moderate" },
   { replaces = "Touch treatment (major)", feature = "touch-treatment", power = "major" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Hypnotic stare", feature = "hypnotic-stare" },
 ]
 +++

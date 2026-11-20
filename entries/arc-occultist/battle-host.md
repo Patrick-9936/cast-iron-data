@@ -26,7 +26,7 @@ trades = [
   { replaces = "Outside contact", feature = "outside-contact" },
   { alters = "Implements", feature = "implements" },
   { alters = "mental focus", feature = "mental-focus" },
-  { alters = "spellcasting" },
+  { alters = "spellcasting", feature = "spells" },
   { alters = "implement mastery", feature = "implement-mastery" },
   { alters = "Magic item skill", feature = "magic-item-skill" },
   { alters = "Object reading", feature = "object-reading" },

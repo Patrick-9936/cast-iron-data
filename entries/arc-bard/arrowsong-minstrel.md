@@ -28,8 +28,8 @@ trades = [
   { replaces = "well-versed", feature = "well-versed" },
   { replaces = "Suggestion" },
   { replaces = "mass suggestion" },
-  { alters = "Weapon proficiencies" },
-  { alters = "Spellcasting" },
+  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

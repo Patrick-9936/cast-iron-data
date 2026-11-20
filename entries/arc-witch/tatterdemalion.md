@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "1st-level hex", feature = "hex", levels = [1] },
   { replaces = "4th-, 8th-, 12th-, and 16th-level hexes", feature = "hex", levels = [4, 8, 12, 16] },
-  { alters = "Weapon proficiencies" },
+  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
   { alters = "Cantrips", feature = "cantrips" },
   { alters = "Spells", feature = "spells" },
 ]

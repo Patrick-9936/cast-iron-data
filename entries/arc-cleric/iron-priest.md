@@ -18,7 +18,7 @@ page = "12"
 kind = "archetype"
 trades = [
   { alters = "Channel energy", feature = "channel-energy" },
-  { alters = "Casting" },
+  { alters = "Casting", feature = "spells" },
 ]
 +++
 

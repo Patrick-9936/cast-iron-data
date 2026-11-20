@@ -23,7 +23,7 @@ trades = [
   { replaces = "See invisibility", feature = "see-invisibility" },
   { replaces = "Fused consciousness", feature = "fused-consciousness" },
   { replaces = "Empowered consciousness", feature = "empowered-consciousness" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Phantom", feature = "phantom" },
 ]
 +++

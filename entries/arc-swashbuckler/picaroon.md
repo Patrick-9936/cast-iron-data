@@ -17,7 +17,7 @@ page = "127"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Weapon proficiency" },
+  { replaces = "Weapon proficiency", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Opportune parry and riposte" },
   { replaces = "Kip-up" },
   { replaces = "Superior feint" },

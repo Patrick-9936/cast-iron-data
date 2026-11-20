@@ -18,7 +18,7 @@ page = "40"
 kind = "archetype"
 trades = [
   { alters = "Domain", feature = "domains" },
-  { alters = "spellcasting" },
+  { alters = "spellcasting", feature = "spells" },
 ]
 +++
 

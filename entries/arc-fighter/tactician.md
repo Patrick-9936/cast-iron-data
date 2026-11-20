@@ -22,7 +22,7 @@ trades = [
   { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
   { replaces = "Armor training 3", feature = "armor-training", power = "3" },
   { replaces = "Armor training 4", feature = "armor-training", power = "4" },
-  { alters = "Armor proficiencies" },
+  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies" },
 ]
 +++
 

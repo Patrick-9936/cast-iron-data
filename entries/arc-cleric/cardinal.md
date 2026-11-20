@@ -17,7 +17,7 @@ page = "64"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Armor proficiencies" },
+  { replaces = "Armor proficiencies", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Spontaneous casting ability" },
   { alters = "Domains", feature = "domains" },
   { alters = "class skills" },

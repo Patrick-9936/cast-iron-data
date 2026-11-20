@@ -23,7 +23,7 @@ trades = [
   { replaces = "greater bane", feature = "greater-bane" },
   { replaces = "second judgment", feature = "second-judgment" },
   { replaces = "third judgment", feature = "third-judgment" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

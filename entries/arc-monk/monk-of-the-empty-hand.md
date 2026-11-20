@@ -17,7 +17,7 @@ page = "111"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Weapon proficiencies" },
+  { replaces = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Still mind", feature = "still-mind" },
   { replaces = "Purity of body", feature = "purity-of-body" },
   { replaces = "diamond body", feature = "diamond-body" },

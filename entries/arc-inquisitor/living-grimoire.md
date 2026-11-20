@@ -26,7 +26,7 @@ trades = [
   { replaces = "third judgment", feature = "third-judgment" },
   { replaces = "True judgment", feature = "true-judgment" },
   { alters = "Orisons", feature = "orisons" },
-  { alters = "spellcasting" },
+  { alters = "spellcasting", feature = "spells" },
 ]
 +++
 

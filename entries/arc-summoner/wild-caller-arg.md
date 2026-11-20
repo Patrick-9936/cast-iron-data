@@ -18,7 +18,7 @@ page = "44"
 kind = "archetype"
 trades = [
   { replaces = "Summon monster I", feature = "summon-monster-i" },
-  { alters = "Spell list of the summoner" },
+  { alters = "Spell list of the summoner", feature = "spells" },
 ]
 +++
 

@@ -21,7 +21,7 @@ trades = [
   { replaces = "fused consciousness", feature = "fused-consciousness" },
   { replaces = "Spiritual interference", feature = "spiritual-interference" },
   { replaces = "greater spiritual interference", feature = "greater-spiritual-interference" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

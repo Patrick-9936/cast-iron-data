@@ -20,7 +20,7 @@ trades = [
   { replaces = "Nature sense", feature = "nature-sense" },
   { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
   { replaces = "Venom immunity", feature = "venom-immunity" },
-  { alters = "Weapon proficiencies" },
+  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
   { alters = "Nature bond", feature = "nature-bond" },
 ]
 +++

@@ -20,7 +20,7 @@ trades = [
   { replaces = "Detect evil", feature = "detect-evil" },
   { replaces = "divine grace", feature = "divine-grace" },
   { replaces = "Aura of justice", feature = "aura-of-justice" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "smite evil", feature = "smite-evil" },
   { alters = "lay on hands", feature = "lay-on-hands" },
   { alters = "Class skills" },

@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Shared seance", feature = "shared-seance" },
   { replaces = "Trance of three", feature = "trance-of-three" },
-  { alters = "Armor proficiency" },
+  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies" },
   { alters = "Spirit", feature = "spirit" },
   { alters = "Spirit surge", feature = "spirit-surge" },
   { alters = "Spirit power (lesser)" },

@@ -23,7 +23,7 @@ trades = [
   { replaces = "heavy armor", feature = "heavy-armor" },
   { replaces = "Improved spell recall", feature = "improved-spell-recall" },
   { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Arcane pool", feature = "arcane-pool" },
   { alters = "Spellstrike", feature = "spellstrike" },
 ]

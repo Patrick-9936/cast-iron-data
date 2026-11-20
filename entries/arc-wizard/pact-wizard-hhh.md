@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Scribe Scroll", feature = "scribe-scroll" },
   { replaces = "5th-, 10th-, 15th-, and 20th-level bonus feats", feature = "bonus-feats", levels = [5, 10, 15, 20] },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

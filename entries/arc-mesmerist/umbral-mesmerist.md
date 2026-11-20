@@ -20,7 +20,7 @@ trades = [
   { replaces = "Mesmerist tricks gained at 1st, 4th, 8th, 12th, 16th, and 20th levels", feature = "mesmerist-tricks", levels = [1, 4, 8, 12, 16, 20] },
   { replaces = "Towering ego", feature = "towering-ego" },
   { replaces = "Mental potency", feature = "mental-potency" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

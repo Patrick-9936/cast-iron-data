@@ -21,7 +21,7 @@ trades = [
   { replaces = "distraction" },
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Dirge of doom" },
-  { alters = "Spell list" },
+  { alters = "Spell list", feature = "spells" },
   { alters = "Bardic performance", feature = "bardic-performance" },
 ]
 +++

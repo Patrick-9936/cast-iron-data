@@ -18,7 +18,7 @@ page = "39"
 kind = "archetype"
 trades = [
   { replaces = "Trap sense", feature = "trap-sense" },
-  { alters = "The barbarian's normal weapon and armor proficiencies" },
+  { alters = "The barbarian's normal weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
   { alters = "Rage powers", feature = "rage-powers" },
   { alters = "Damage reduction", feature = "damage-reduction" },
 ]

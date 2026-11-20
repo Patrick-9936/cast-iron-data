@@ -29,7 +29,7 @@ trades = [
   { replaces = "Bonded manifestation", feature = "bonded-manifestation" },
   { replaces = "Spiritual interference", feature = "spiritual-interference" },
   { replaces = "greater spiritual interference", feature = "greater-spiritual-interference" },
-  { alters = "Weapon" },
+  { alters = "Weapon", feature = "weapon-and-armor-proficiencies" },
   { alters = "armor proficiency" },
 ]
 +++

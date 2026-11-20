@@ -21,7 +21,7 @@ trades = [
   { replaces = "Armor training", feature = "armor-training" },
   { replaces = "armor mastery", feature = "armor-mastery" },
   { replaces = "Weapon training", feature = "weapon-training" },
-  { alters = "Armor proficiency" },
+  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies" },
   { alters = "Bonus feats", feature = "bonus-feats" },
   { alters = "weapon mastery", feature = "weapon-mastery" },
 ]

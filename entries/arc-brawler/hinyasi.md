@@ -20,7 +20,7 @@ trades = [
   { replaces = "The bonus combat feat gained at 2nd level", feature = "bonus-combat-feats", levels = [2] },
   { replaces = "Knockout", feature = "knockout" },
   { replaces = "Close weapon mastery", feature = "close-weapon-mastery" },
-  { alters = "The brawler's armor proficiencies" },
+  { alters = "The brawler's armor proficiencies", feature = "weapon-and-armor-proficiencies" },
 ]
 +++
 

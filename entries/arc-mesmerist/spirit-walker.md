@@ -22,7 +22,7 @@ trades = [
   { replaces = "3rd- and 14th-level touch treatments", feature = "touch-treatment", levels = [3, 14] },
   { replaces = "6th- and 10th-level touch treatments", feature = "touch-treatment", levels = [6, 10] },
   { replaces = "Rule minds", feature = "rule-minds" },
-  { alters = "Spell list" },
+  { alters = "Spell list", feature = "spells" },
 ]
 +++
 

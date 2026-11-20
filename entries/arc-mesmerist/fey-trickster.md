@@ -20,7 +20,7 @@ trades = [
   { replaces = "Towering ego", feature = "towering-ego" },
   { replaces = "Touch treatment", feature = "touch-treatment" },
   { replaces = "Rule minds", feature = "rule-minds" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 
