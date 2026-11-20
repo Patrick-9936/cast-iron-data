@@ -17,11 +17,11 @@ page = "84"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Fascinate" },
-  { replaces = "Suggestion" },
+  { replaces = "Fascinate", feature = "bardic-performance", power = "fascinate" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
   { replaces = "Jack of all trades", feature = "jack-of-all-trades" },
-  { replaces = "Soothing performance" },
-  { replaces = "Mass suggestion" },
+  { replaces = "Soothing performance", feature = "bardic-performance", power = "soothing performance" },
+  { replaces = "Mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
 ]
 +++
 

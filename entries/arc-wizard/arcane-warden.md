@@ -18,8 +18,8 @@ page = "14"
 kind = "archetype"
 trades = [
   { replaces = "Scribe Scroll, 5th-, 10th-, 15th-, and 20th-level bonus feats" },
-  { replaces = "Hand of the apprentice universalist school ability" },
-  { replaces = "Metamagic mastery universalist school ability" },
+  { replaces = "Hand of the apprentice universalist school ability", feature = "arcane-school", power = "hand of the apprentice" },
+  { replaces = "Metamagic mastery universalist school ability", feature = "arcane-school", power = "metamagic mastery" },
   { alters = "Arcane school", feature = "arcane-school" },
 ]
 +++

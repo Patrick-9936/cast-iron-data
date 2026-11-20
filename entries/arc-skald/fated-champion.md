@@ -18,7 +18,7 @@ page = "114"
 kind = "archetype"
 trades = [
   { replaces = "Well-versed", feature = "well-versed" },
-  { replaces = "Dirge of doom raging song" },
+  { replaces = "Dirge of doom raging song", feature = "dirge-of-doom" },
   { replaces = "Master skald", feature = "master-skald" },
   { alters = "Spell kenning", feature = "spell-kenning" },
 ]

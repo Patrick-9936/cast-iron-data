@@ -18,8 +18,8 @@ page = "91"
 kind = "archetype"
 trades = [
   { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
-  { replaces = "The increase to channel energy gained at 3rd level" },
-  { alters = "The normal domain ability" },
+  { replaces = "The increase to channel energy gained at 3rd level", feature = "channel-energy", levels = [3] },
+  { alters = "The normal domain ability", feature = "domains" },
 ]
 +++
 

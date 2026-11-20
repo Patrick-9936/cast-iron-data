@@ -20,13 +20,13 @@ page = "16"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "1st-level bloodline power" },
-  { replaces = "bloodline bonus spells" },
-  { replaces = "The bloodline power gained at 4th level" },
-  { replaces = "Damage reduction the bloodrager gains at 7th, 13th, and 19th levels" },
+  { replaces = "1st-level bloodline power", feature = "bloodline", levels = [1], power = "bloodline power" },
+  { replaces = "bloodline bonus spells", feature = "bloodline", power = "bloodline spell" },
+  { replaces = "The bloodline power gained at 4th level", feature = "bloodline", levels = [4], power = "bloodline power" },
+  { replaces = "Damage reduction the bloodrager gains at 7th, 13th, and 19th levels", feature = "damage-reduction", levels = [7, 13, 19] },
   { alters = "Spellcasting", feature = "spells" },
   { alters = "Bloodrage", feature = "bloodrage" },
-  { alters = "The bloodrager's bloodline powers" },
+  { alters = "The bloodrager's bloodline powers", feature = "bloodline", power = "bloodline power" },
 ]
 +++
 

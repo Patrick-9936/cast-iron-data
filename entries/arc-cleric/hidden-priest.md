@@ -17,8 +17,8 @@ page = "35"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "One of the cleric's two 1st-level domain powers (her choice)" },
-  { replaces = "One of the cleric's two 8th-level domain powers (his choice)" },
+  { replaces = "One of the cleric's two 1st-level domain powers (her choice)", feature = "domains", levels = [1], power = "domain power" },
+  { replaces = "One of the cleric's two 8th-level domain powers (his choice)", feature = "domains", levels = [8], power = "domain power" },
 ]
 +++
 

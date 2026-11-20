@@ -17,11 +17,11 @@ page = "128"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bloodline arcana" },
-  { replaces = "All bloodline spells" },
-  { replaces = "7th-level bloodline feat" },
-  { replaces = "13th-level bloodline feat" },
-  { replaces = "19th-level bloodline feat" },
+  { replaces = "Bloodline arcana", feature = "bloodline", power = "bloodline arcana" },
+  { replaces = "All bloodline spells", feature = "bloodline", power = "bloodline spell" },
+  { replaces = "7th-level bloodline feat", feature = "bloodline", levels = [7], power = "bloodline feat" },
+  { replaces = "13th-level bloodline feat", feature = "bloodline", levels = [13], power = "bloodline feat" },
+  { replaces = "19th-level bloodline feat", feature = "bloodline", levels = [19], power = "bloodline feat" },
 ]
 +++
 

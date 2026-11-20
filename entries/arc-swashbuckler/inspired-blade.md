@@ -18,7 +18,7 @@ page = "125"
 kind = "archetype"
 trades = [
   { replaces = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
-  { replaces = "Bleeding wound" },
+  { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
   { replaces = "Swashbuckler weapon training", feature = "swashbuckler-weapon-training" },
   { replaces = "Swashbuckler weapon mastery", feature = "swashbuckler-weapon-mastery" },
   { alters = "Panache", feature = "panache" },

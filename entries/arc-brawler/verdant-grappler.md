@@ -17,9 +17,9 @@ page = "43"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bonus feat gained at 2nd level" },
+  { replaces = "Bonus feat gained at 2nd level", feature = "bonus-combat-feats", levels = [2] },
   { replaces = "Close weapon mastery", feature = "close-weapon-mastery" },
-  { replaces = "The combat feat gained at 11th level" },
+  { replaces = "The combat feat gained at 11th level", feature = "bonus-combat-feats", levels = [11] },
   { alters = "Maneuver training", feature = "maneuver-training" },
 ]
 +++

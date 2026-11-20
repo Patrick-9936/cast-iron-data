@@ -21,7 +21,7 @@ trades = [
   { replaces = "Poison lore", feature = "poison-lore" },
   { replaces = "poison resistance", feature = "poison-resistance" },
   { replaces = "swift alchemy", feature = "swift-alchemy" },
-  { replaces = "poison immunity" },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
   { replaces = "Investigator talent gained at 3rd level", feature = "investigator-talent", levels = [3] },
   { alters = "Investigator talents", feature = "investigator-talent" },
 ]

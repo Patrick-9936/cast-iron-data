@@ -18,7 +18,7 @@ page = "35"
 kind = "archetype"
 trades = [
   { replaces = "Trapfinding", feature = "trapfinding" },
-  { replaces = "All instances of trap sense" },
+  { replaces = "All instances of trap sense", feature = "trap-sense" },
   { alters = "Alchemy", feature = "alchemy" },
   { alters = "swift alchemy", feature = "swift-alchemy" },
 ]

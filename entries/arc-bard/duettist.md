@@ -19,8 +19,8 @@ kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "Lore master", feature = "lore-master" },
-  { replaces = "Dirge of doom" },
-  { replaces = "Frightening tune" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
+  { replaces = "Frightening tune", feature = "bardic-performance", power = "frightening tune" },
   { alters = "Versatile performance", feature = "versatile-performance" },
 ]
 +++

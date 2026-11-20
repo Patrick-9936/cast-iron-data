@@ -18,7 +18,7 @@ page = "22"
 kind = "archetype"
 trades = [
   { replaces = "8th-level hex", feature = "hex", levels = [8] },
-  { alters = "Familiar" },
+  { alters = "Familiar", feature = "witch-s-familiar" },
   { alters = "Hex", feature = "hex" },
 ]
 +++

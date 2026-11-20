@@ -16,7 +16,7 @@ page = "16"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "1st-level bloodline power" },
+  { replaces = "1st-level bloodline power", feature = "bloodline", levels = [1], power = "bloodline power" },
 ]
 +++
 

@@ -21,7 +21,7 @@ trades = [
   { replaces = "All 2nd-level and higher hexes" },
   { replaces = "major hex", feature = "major-hex" },
   { replaces = "grand hex", feature = "grand-hex" },
-  { alters = "Familiar" },
+  { alters = "Familiar", feature = "witch-s-familiar" },
 ]
 +++
 

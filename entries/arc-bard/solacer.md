@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "lore master", feature = "lore-master" },
-  { replaces = "Countersong" },
+  { replaces = "Countersong", feature = "bardic-performance", power = "countersong" },
   { replaces = "Versatile performance", feature = "versatile-performance" },
   { replaces = "Jack-of-all-trades", feature = "jack-of-all-trades" },
 ]

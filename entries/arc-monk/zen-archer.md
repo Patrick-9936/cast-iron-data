@@ -17,7 +17,7 @@ page = "115"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The monk's normal bonus feats" },
+  { replaces = "The monk's normal bonus feats", feature = "bonus-feat" },
   { replaces = "Stunning Fist", feature = "stunning-fist" },
   { replaces = "Evasion", feature = "evasion" },
   { replaces = "Maneuver training", feature = "maneuver-training" },

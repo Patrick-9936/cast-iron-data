@@ -18,7 +18,7 @@ page = "25"
 kind = "archetype"
 trades = [
   { replaces = "Well-versed", feature = "well-versed" },
-  { replaces = "All types of versatile performance" },
+  { replaces = "All types of versatile performance", feature = "versatile-performance" },
   { replaces = "Spell kenning", feature = "spell-kenning" },
 ]
 +++

@@ -19,8 +19,8 @@ kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "The versatile performance gained at 2nd level", feature = "versatile-performance", levels = [2] },
-  { replaces = "Suggestion" },
-  { replaces = "mass suggestion" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
+  { replaces = "mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
 ]
 +++
 

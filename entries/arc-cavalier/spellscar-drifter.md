@@ -20,7 +20,7 @@ trades = [
   { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Tactician", feature = "tactician" },
   { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
-  { replaces = "The cavalier's normal bonus feats" },
+  { replaces = "The cavalier's normal bonus feats", feature = "bonus-feat" },
   { replaces = "Greater tactician", feature = "greater-tactician" },
   { replaces = "Mighty charge", feature = "mighty-charge" },
   { replaces = "Demanding challenge", feature = "demanding-challenge" },

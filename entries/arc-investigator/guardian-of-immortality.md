@@ -20,7 +20,7 @@ trades = [
   { replaces = "Poison lore", feature = "poison-lore" },
   { replaces = "Poison resistance", feature = "poison-resistance" },
   { replaces = "Investigator talent gained at 7th level", feature = "investigator-talent", levels = [7] },
-  { replaces = "Immunity to poison" },
+  { replaces = "Immunity to poison", feature = "poison-resistance", levels = [10], power = "immunity" },
   { replaces = "Investigator talent gained at 13th level", feature = "investigator-talent", levels = [13] },
 ]
 +++

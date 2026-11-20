@@ -17,7 +17,7 @@ page = "13"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bloodline spell" },
+  { replaces = "Bloodline spell", feature = "bloodline", power = "bloodline spell" },
 ]
 +++
 

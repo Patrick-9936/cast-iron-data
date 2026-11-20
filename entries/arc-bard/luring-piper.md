@@ -18,11 +18,11 @@ page = "11"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Dirge of doom" },
-  { replaces = "Soothing performance" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
+  { replaces = "Soothing performance", feature = "bardic-performance", power = "soothing performance" },
   { replaces = "Well-versed", feature = "well-versed" },
   { alters = "Bardic performance", feature = "bardic-performance" },
-  { alters = "Fascinate" },
+  { alters = "Fascinate", feature = "bardic-performance", power = "fascinate" },
 ]
 +++
 

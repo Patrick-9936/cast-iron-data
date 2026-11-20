@@ -17,7 +17,7 @@ page = "107"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "4th-level discipline spell" },
+  { replaces = "4th-level discipline spell", feature = "psychic-discipline", power = "discipline spell" },
   { replaces = "7th-level phrenic amplification", feature = "phrenic-amplifications", levels = [7] },
   { replaces = "Telepathic bond", feature = "telepathic-bond" },
   { replaces = "Telepathy", feature = "telepathy" },

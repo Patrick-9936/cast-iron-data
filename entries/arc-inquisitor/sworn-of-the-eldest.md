@@ -20,7 +20,7 @@ trades = [
   { replaces = "Monster lore", feature = "monster-lore" },
   { replaces = "Stern gaze", feature = "stern-gaze" },
   { replaces = "Solo tactics", feature = "solo-tactics" },
-  { replaces = "All teamwork feats" },
+  { replaces = "All teamwork feats", feature = "teamwork-feat" },
   { alters = "Domain", feature = "domain" },
 ]
 +++

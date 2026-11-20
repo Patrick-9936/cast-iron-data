@@ -22,7 +22,7 @@ trades = [
   { replaces = "Poison resistance +4", feature = "poison-resistance", power = "+4" },
   { replaces = "poison resistance +6", feature = "poison-resistance", power = "+6" },
   { replaces = "Swift poisoning", feature = "swift-poisoning" },
-  { replaces = "Poison immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
 ]
 +++
 

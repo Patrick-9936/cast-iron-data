@@ -20,7 +20,7 @@ trades = [
   { replaces = "Spells", feature = "spells" },
   { replaces = "blood casting", feature = "blood-casting" },
   { replaces = "eschew materials", feature = "eschew-materials" },
-  { replaces = "bloodline spells" },
+  { replaces = "bloodline spells", feature = "bloodline", power = "bloodline spell" },
 ]
 +++
 

@@ -17,9 +17,9 @@ page = "23"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The bonus feat a fighter gains at first level" },
+  { replaces = "The bonus feat a fighter gains at first level", feature = "bonus-feats", levels = [1] },
   { replaces = "Bravery", feature = "bravery" },
-  { replaces = "The bonus combat feats the fighter normally receives at 2nd, 6th, 10th, 14th, and 18th levels" },
+  { replaces = "The bonus combat feats the fighter normally receives at 2nd, 6th, 10th, 14th, and 18th levels", feature = "bonus-feats", levels = [2, 6, 10, 14, 18] },
   { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
   { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
   { replaces = "Weapon training 3 and 4", feature = "weapon-training", levels = [13, 17] },

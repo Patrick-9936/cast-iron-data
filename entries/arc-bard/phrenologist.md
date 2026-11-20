@@ -20,9 +20,9 @@ trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Jack-of-all-trades", feature = "jack-of-all-trades" },
-  { replaces = "Inspire courage" },
-  { replaces = "Inspire competence" },
-  { alters = "Fascinate" },
+  { replaces = "Inspire courage", feature = "bardic-performance", power = "inspire courage" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
+  { alters = "Fascinate", feature = "bardic-performance", power = "fascinate" },
 ]
 +++
 

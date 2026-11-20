@@ -17,11 +17,11 @@ page = "24"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Opportune parry and riposte" },
+  { replaces = "Opportune parry and riposte", feature = "deeds", power = "opportune parry and riposte" },
   { replaces = "4th-level bonus feat", feature = "bonus-feats", levels = [4] },
-  { replaces = "Menacing swordplay" },
-  { replaces = "Superior feint" },
-  { replaces = "Bleeding wound" },
+  { replaces = "Menacing swordplay", feature = "deeds", power = "menacing swordplay" },
+  { replaces = "Superior feint", feature = "deeds", power = "superior feint" },
+  { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
   { alters = "Nimble", feature = "nimble" },
 ]
 +++

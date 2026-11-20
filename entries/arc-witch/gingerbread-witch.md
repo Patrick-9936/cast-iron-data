@@ -22,7 +22,7 @@ trades = [
   { replaces = "8th-level hex", feature = "hex", levels = [8] },
   { replaces = "12th-level hex", feature = "hex", levels = [12] },
   { replaces = "16th-level hex", feature = "hex", levels = [16] },
-  { alters = "Familiar" },
+  { alters = "Familiar", feature = "witch-s-familiar" },
 ]
 +++
 

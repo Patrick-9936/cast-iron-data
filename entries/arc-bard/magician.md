@@ -17,11 +17,11 @@ page = "82"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Inspire courage" },
-  { replaces = "Dirge of doom" },
-  { replaces = "Frightening tune" },
+  { replaces = "Inspire courage", feature = "bardic-performance", power = "inspire courage" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
+  { replaces = "Frightening tune", feature = "bardic-performance", power = "frightening tune" },
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Countersong" },
+  { replaces = "Countersong", feature = "bardic-performance", power = "countersong" },
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Versatile performance", feature = "versatile-performance" },
   { replaces = "Lore master", feature = "lore-master" },

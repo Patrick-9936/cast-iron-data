@@ -17,8 +17,8 @@ page = "50"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Countersong" },
-  { replaces = "distraction" },
+  { replaces = "Countersong", feature = "bardic-performance", power = "countersong" },
+  { replaces = "distraction", feature = "bardic-performance", power = "distraction" },
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Versatile performance", feature = "versatile-performance" },

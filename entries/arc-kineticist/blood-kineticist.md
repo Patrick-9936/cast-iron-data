@@ -19,8 +19,8 @@ kind = "archetype"
 trades = [
   { replaces = "The 1st-level infusion", feature = "infusion", levels = [1] },
   { replaces = "The 5th-level infusion", feature = "infusion", levels = [5] },
-  { replaces = "The 6th-level utility wild talent" },
-  { replaces = "The 8th-level utility wild talent" },
+  { replaces = "The 6th-level utility wild talent", feature = "wild-talents", levels = [6] },
+  { replaces = "The 8th-level utility wild talent", feature = "wild-talents", levels = [8] },
   { replaces = "The 9th-level infusion", feature = "infusion", levels = [9] },
   { replaces = "The 11th-level infusion", feature = "infusion", levels = [11] },
   { replaces = "Omnikinesis", feature = "omnikinesis" },

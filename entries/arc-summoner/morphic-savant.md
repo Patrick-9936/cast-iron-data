@@ -18,7 +18,7 @@ page = "16"
 kind = "archetype"
 trades = [
   { alters = "Eidolon", feature = "eidolon" },
-  { alters = "Summon monster" },
+  { alters = "Summon monster", feature = "summon-monster-i" },
   { alters = "Spells known", feature = "sec-spells-known" },
 ]
 +++

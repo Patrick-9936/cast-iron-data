@@ -17,7 +17,7 @@ page = "49"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Scribe Scroll feat" },
+  { replaces = "Scribe Scroll feat", feature = "scribe-scroll" },
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Spell kenning", feature = "spell-kenning" },
   { replaces = "Lore master", feature = "lore-master" },

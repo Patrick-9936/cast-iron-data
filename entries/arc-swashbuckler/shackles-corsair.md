@@ -18,8 +18,8 @@ page = "22"
 kind = "archetype"
 trades = [
   { replaces = "Nimble", feature = "nimble" },
-  { replaces = "Swashbuckler initiative" },
-  { replaces = "Targeted strike" },
+  { replaces = "Swashbuckler initiative", feature = "deeds", power = "swashbuckler initiative" },
+  { replaces = "Targeted strike", feature = "deeds", power = "targeted strike" },
 ]
 +++
 

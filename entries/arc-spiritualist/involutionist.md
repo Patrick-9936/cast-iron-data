@@ -17,9 +17,9 @@ page = "167"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Phantom's emotional focus" },
+  { replaces = "Phantom's emotional focus", feature = "phantom", power = "emotional focus" },
   { replaces = "Detect undead", feature = "detect-undead" },
-  { replaces = "Additional uses of calm spirit available at 11th, 15th, and 19th levels" },
+  { replaces = "Additional uses of calm spirit available at 11th, 15th, and 19th levels", feature = "calm-spirit", levels = [11, 15, 19] },
   { alters = "Spellcasting", feature = "spells" },
   { alters = "Phantom", feature = "phantom" },
   { alters = "Bonded manifestation", feature = "bonded-manifestation" },

@@ -17,12 +17,12 @@ page = "95"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Opportune parry and riposte" },
-  { replaces = "Swashbuckler initiative" },
-  { replaces = "Superior feint" },
+  { replaces = "Opportune parry and riposte", feature = "deeds", power = "opportune parry and riposte" },
+  { replaces = "Swashbuckler initiative", feature = "deeds", power = "swashbuckler initiative" },
+  { replaces = "Superior feint", feature = "deeds", power = "superior feint" },
   { replaces = "Swashbuckler weapon training", feature = "swashbuckler-weapon-training" },
   { alters = "Panache", feature = "panache" },
-  { alters = "Precise strike" },
+  { alters = "Precise strike", feature = "deeds", power = "precise strike" },
   { alters = "Swashbuckler weapon mastery", feature = "swashbuckler-weapon-mastery" },
 ]
 +++

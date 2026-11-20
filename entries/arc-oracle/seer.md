@@ -17,7 +17,7 @@ page = "59"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bonus spells granted by the oracle's mystery after 2nd level" },
+  { replaces = "Bonus spells granted by the oracle's mystery after 2nd level", feature = "mystery", power = "bonus spells" },
 ]
 +++
 

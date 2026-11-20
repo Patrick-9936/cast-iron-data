@@ -18,9 +18,9 @@ page = "22"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "Suggestion" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
   { replaces = "Lore master", feature = "lore-master" },
-  { replaces = "Mass suggestion" },
+  { replaces = "Mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
 ]
 +++
 

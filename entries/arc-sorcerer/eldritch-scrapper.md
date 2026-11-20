@@ -17,7 +17,7 @@ page = "122"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bloodline powers gained at 1st, 9th, and 15th level" },
+  { replaces = "Bloodline powers gained at 1st, 9th, and 15th level", feature = "bloodline", levels = [1, 9, 15], power = "bloodline power" },
 ]
 +++
 

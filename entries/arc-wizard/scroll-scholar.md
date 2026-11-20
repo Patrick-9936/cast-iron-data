@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Diviner's fortune (if a diviner) or hand of the apprentice (if a universalist)" },
   { replaces = "5th-level bonus feat", feature = "bonus-feats", levels = [5] },
-  { replaces = "The normal addition of a new 4th-level spell slot; from this point on" },
+  { replaces = "The normal addition of a new 4th-level spell slot; from this point on", feature = "spells" },
   { replaces = "the wizard has one fewer 4th-level spell slot than other wizards" },
 ]
 +++

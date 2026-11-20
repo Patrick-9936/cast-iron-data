@@ -21,9 +21,9 @@ trades = [
   { replaces = "Detect alignment", feature = "detect-alignment" },
   { replaces = "Solo tactics", feature = "solo-tactics" },
   { replaces = "teamwork feats gained at 3rd, 9th, and 15th levels", feature = "teamwork-feat", levels = [3, 9, 15] },
-  { replaces = "Teamwork feat granted at 6th level" },
-  { replaces = "Teamwork feat granted at 12th" },
-  { replaces = "Teamwork feat granted at 18th level" },
+  { replaces = "Teamwork feat granted at 6th level", feature = "teamwork-feat", levels = [6] },
+  { replaces = "Teamwork feat granted at 12th", feature = "teamwork-feat", levels = [12] },
+  { replaces = "Teamwork feat granted at 18th level", feature = "teamwork-feat", levels = [18] },
 ]
 +++
 

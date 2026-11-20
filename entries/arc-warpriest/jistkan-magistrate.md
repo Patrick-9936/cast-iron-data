@@ -20,7 +20,7 @@ trades = [
   { alters = "Blessings", feature = "blessings" },
   { alters = "Spontaneous casting", feature = "spontaneous-casting" },
   { alters = "Bonus languages", feature = "bonus-languages" },
-  { alters = "Channel" },
+  { alters = "Channel", feature = "channel-energy" },
 ]
 +++
 

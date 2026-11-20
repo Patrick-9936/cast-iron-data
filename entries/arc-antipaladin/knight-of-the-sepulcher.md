@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Fiendish boon", feature = "fiendish-boon" },
   { replaces = "Aura of despair", feature = "aura-of-despair" },
-  { replaces = "The smite good use gained at 10th level" },
+  { replaces = "The smite good use gained at 10th level", feature = "smite-good", levels = [10] },
   { replaces = "Aura of vengeance", feature = "aura-of-vengeance" },
   { replaces = "Aura of sin", feature = "aura-of-sin" },
   { replaces = "Cruelty", feature = "cruelty" },

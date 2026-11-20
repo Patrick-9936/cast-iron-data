@@ -17,10 +17,10 @@ page = "65"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Deadeye deed" },
-  { replaces = "Startling shot deed" },
-  { replaces = "Bleeding wound deed" },
-  { replaces = "Menacing shot deed" },
+  { replaces = "Deadeye deed", feature = "deeds", power = "deadeye" },
+  { replaces = "Startling shot deed", feature = "deeds", power = "startling shot" },
+  { replaces = "Bleeding wound deed", feature = "deeds", power = "bleeding wound" },
+  { replaces = "Menacing shot deed", feature = "deeds", power = "menacing shot" },
   { replaces = "The bonus feat gained at 4th level", feature = "bonus-feats", levels = [4] },
 ]
 +++

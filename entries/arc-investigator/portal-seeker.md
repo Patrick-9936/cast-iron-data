@@ -21,7 +21,7 @@ trades = [
   { replaces = "Poison resistance", feature = "poison-resistance" },
   { replaces = "Poison lore", feature = "poison-lore" },
   { replaces = "Studied strike", feature = "studied-strike" },
-  { replaces = "Poison immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
 ]
 +++
 

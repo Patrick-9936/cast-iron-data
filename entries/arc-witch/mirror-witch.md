@@ -17,7 +17,7 @@ page = "152"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Familiar" },
+  { replaces = "Familiar", feature = "witch-s-familiar" },
 ]
 +++
 

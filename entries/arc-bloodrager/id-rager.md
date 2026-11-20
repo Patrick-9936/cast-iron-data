@@ -18,10 +18,10 @@ page = "23"
 kind = "archetype"
 trades = [
   { replaces = "Bloodline", feature = "bloodline" },
-  { replaces = "all bloodline spells" },
-  { replaces = "all bloodline powers" },
+  { replaces = "all bloodline spells", feature = "bloodline", power = "bloodline spell" },
+  { replaces = "all bloodline powers", feature = "bloodline", power = "bloodline power" },
   { replaces = "Eschew materials", feature = "eschew-materials" },
-  { replaces = "All bloodline feats" },
+  { replaces = "All bloodline feats", feature = "bloodline", power = "bloodline feat" },
   { alters = "Spellcasting", feature = "spells" },
 ]
 +++

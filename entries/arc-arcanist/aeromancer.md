@@ -17,9 +17,9 @@ page = "26"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The arcane exploit gained at 1st level" },
-  { replaces = "The arcane exploit gained at 5th level" },
-  { replaces = "The arcane exploit gained at 11th level" },
+  { replaces = "The arcane exploit gained at 1st level", feature = "arcanist-exploits", levels = [1] },
+  { replaces = "The arcane exploit gained at 5th level", feature = "arcanist-exploits", levels = [5] },
+  { replaces = "The arcane exploit gained at 11th level", feature = "arcanist-exploits", levels = [11] },
 ]
 +++
 

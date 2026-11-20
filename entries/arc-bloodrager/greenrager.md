@@ -18,8 +18,8 @@ page = "83"
 kind = "archetype"
 trades = [
   { replaces = "Blood sanctuary", feature = "blood-sanctuary" },
-  { replaces = "The bloodline feat gained at 6th level" },
-  { replaces = "The bloodline feat at 9th level" },
+  { replaces = "The bloodline feat gained at 6th level", feature = "bloodline", levels = [6], power = "bloodline feat" },
+  { replaces = "The bloodline feat at 9th level", feature = "bloodline", levels = [9], power = "bloodline feat" },
 ]
 +++
 

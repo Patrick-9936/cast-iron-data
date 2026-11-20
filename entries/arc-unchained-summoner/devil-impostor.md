@@ -22,7 +22,7 @@ trades = [
   { replaces = "Greater shield ally", feature = "greater-shield-ally" },
   { replaces = "Transposition", feature = "transposition" },
   { alters = "Eidolon", feature = "eidolon" },
-  { alters = "Summon monster" },
+  { alters = "Summon monster", feature = "summon-monster-i" },
 ]
 +++
 

@@ -20,11 +20,11 @@ trades = [
   { replaces = "Trapfinding, 3rd-level trap sense boost" },
   { replaces = "investigator talents gained at 3rd, 7th, 11th, and 15th levels", feature = "investigator-talent", levels = [3, 7, 11, 15] },
   { replaces = "Poison lore", feature = "poison-lore" },
-  { replaces = "All instances of poison resistance" },
-  { replaces = "poison immunity" },
+  { replaces = "All instances of poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
   { replaces = "Keen recollection", feature = "keen-recollection" },
   { replaces = "investigator talents gained at 5th and 9th levels", feature = "investigator-talent", levels = [5, 9] },
-  { replaces = "All remaining trap sense" },
+  { replaces = "All remaining trap sense", feature = "trap-sense" },
   { alters = "Studied combat", feature = "studied-combat" },
 ]
 +++

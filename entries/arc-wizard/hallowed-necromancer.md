@@ -17,14 +17,14 @@ page = "74"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Grave touch necromancy school ability" },
+  { replaces = "Grave touch necromancy school ability", feature = "arcane-school", power = "grave touch" },
   { replaces = "Scribe Scroll", feature = "scribe-scroll" },
   { replaces = "5th-level bonus feat", feature = "bonus-feats", levels = [5] },
   { replaces = "10th-level bonus feat", feature = "bonus-feats", levels = [10] },
   { replaces = "15th-level bonus feat", feature = "bonus-feats", levels = [15] },
   { alters = "Arcane school", feature = "arcane-school" },
   { alters = "spells", feature = "spells" },
-  { alters = "Power over undead necromancy school ability" },
+  { alters = "Power over undead necromancy school ability", feature = "arcane-school", power = "power over undead" },
 ]
 +++
 

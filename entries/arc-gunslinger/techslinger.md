@@ -17,9 +17,9 @@ page = "13"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Deadeye" },
-  { replaces = "Quick clear" },
-  { replaces = "Expert loading" },
+  { replaces = "Deadeye", feature = "deeds", power = "deadeye" },
+  { replaces = "Quick clear", feature = "deeds", power = "quick clear" },
+  { replaces = "Expert loading", feature = "deeds", power = "expert loading" },
   { replaces = "Gun training", feature = "gun-training" },
 ]
 +++

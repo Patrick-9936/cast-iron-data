@@ -22,8 +22,8 @@ trades = [
   { replaces = "V" },
   { replaces = "VII" },
   { replaces = "and IX" },
-  { replaces = "Summon monster II" },
-  { replaces = "Summon monster IV" },
+  { replaces = "Summon monster II", feature = "summon-monster-i", power = "summon monster ii" },
+  { replaces = "Summon monster IV", feature = "summon-monster-i", power = "summon monster iv" },
   { replaces = "Summon monster VI and VIII spell-like abilities" },
 ]
 +++

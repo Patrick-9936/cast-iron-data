@@ -18,7 +18,7 @@ page = "13"
 kind = "archetype"
 trades = [
   { replaces = "Versatile performance", feature = "versatile-performance" },
-  { replaces = "Loremaster" },
+  { replaces = "Loremaster", feature = "lore-master" },
 ]
 +++
 

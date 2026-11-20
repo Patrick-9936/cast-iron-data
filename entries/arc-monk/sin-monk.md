@@ -18,7 +18,7 @@ page = "14"
 kind = "archetype"
 trades = [
   { replaces = "Ki pool", feature = "ki-pool" },
-  { replaces = "alters high jump" },
+  { replaces = "alters high jump", feature = "high-jump" },
   { replaces = "Wholeness of body", feature = "wholeness-of-body" },
   { replaces = "Abundant step", feature = "abundant-step" },
   { replaces = "Empty body", feature = "empty-body" },

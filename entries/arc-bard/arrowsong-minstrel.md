@@ -18,16 +18,16 @@ page = "30"
 kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
-  { replaces = "dirge of doom" },
-  { replaces = "distraction" },
-  { replaces = "fascinate" },
-  { replaces = "inspire competence" },
+  { replaces = "dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
+  { replaces = "distraction", feature = "bardic-performance", power = "distraction" },
+  { replaces = "fascinate", feature = "bardic-performance", power = "fascinate" },
+  { replaces = "inspire competence", feature = "bardic-performance", power = "inspire competence" },
   { replaces = "lore master", feature = "lore-master" },
-  { replaces = "soothing performance" },
+  { replaces = "soothing performance", feature = "bardic-performance", power = "soothing performance" },
   { replaces = "The versatile performance gained at 2nd level", feature = "versatile-performance", levels = [2] },
   { replaces = "well-versed", feature = "well-versed" },
-  { replaces = "Suggestion" },
-  { replaces = "mass suggestion" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
+  { replaces = "mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
   { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
   { alters = "Spellcasting", feature = "spells" },
 ]

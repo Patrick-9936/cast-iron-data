@@ -17,9 +17,9 @@ page = "26"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bloodline arcana" },
+  { replaces = "Bloodline arcana", feature = "bloodline", power = "bloodline arcana" },
   { replaces = "Eschew materials", feature = "eschew-materials" },
-  { replaces = "1st-level bloodline power" },
+  { replaces = "1st-level bloodline power", feature = "bloodline", levels = [1], power = "bloodline power" },
 ]
 +++
 

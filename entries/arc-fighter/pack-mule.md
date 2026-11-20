@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "The bonus feat gained at 1st level", feature = "bonus-feats", levels = [1] },
   { replaces = "Bravery", feature = "bravery" },
-  { replaces = "Armor training 1 through 4" },
+  { replaces = "Armor training 1 through 4", feature = "armor-training", levels = [3, 7, 11, 15] },
   { replaces = "Armor mastery", feature = "armor-mastery" },
   { alters = "The fighter's skill ranks per level" },
 ]

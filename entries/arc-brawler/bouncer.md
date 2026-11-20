@@ -17,7 +17,7 @@ page = "58"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The bonus feat gained at 2nd level" },
+  { replaces = "The bonus feat gained at 2nd level", feature = "bonus-combat-feats", levels = [2] },
   { alters = "Martial flexibility", feature = "martial-flexibility" },
   { alters = "Close weapon mastery", feature = "close-weapon-mastery" },
 ]

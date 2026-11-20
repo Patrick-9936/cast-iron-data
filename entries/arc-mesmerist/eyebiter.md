@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Consummate liar", feature = "consummate-liar" },
   { replaces = "mesmerist trick gained at 1st level", feature = "mesmerist-tricks", levels = [1] },
-  { replaces = "All instances of touch treatment" },
+  { replaces = "All instances of touch treatment", feature = "touch-treatment" },
   { replaces = "Mental potency", feature = "mental-potency" },
   { replaces = "Glib lie", feature = "glib-lie" },
 ]

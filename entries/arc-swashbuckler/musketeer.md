@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
-  { replaces = "Dodging panache" },
+  { replaces = "Dodging panache", feature = "deeds", power = "dodging panache" },
 ]
 +++
 

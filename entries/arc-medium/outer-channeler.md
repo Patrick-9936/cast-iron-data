@@ -22,7 +22,7 @@ trades = [
   { replaces = "Location channel", feature = "location-channel" },
   { replaces = "Astral journey", feature = "astral-journey" },
   { alters = "Spirit", feature = "spirit" },
-  { alters = "spirit power (intermediate)" },
+  { alters = "spirit power (intermediate)", feature = "spirit", power = "intermediate spirit power" },
   { alters = "Taboo", feature = "taboo" },
   { alters = "Shared seance", feature = "shared-seance" },
   { alters = "Ask the spirits", feature = "ask-the-spirits" },

@@ -18,9 +18,9 @@ page = "115"
 kind = "archetype"
 trades = [
   { replaces = "Scribe Scroll", feature = "scribe-scroll" },
-  { replaces = "The first daily use of spell kenning gained at 5th level" },
+  { replaces = "The first daily use of spell kenning gained at 5th level", feature = "spell-kenning", levels = [5] },
   { replaces = "Lore master", feature = "lore-master" },
-  { replaces = "The second and third daily uses of spell kenning gained at 11th and 17th levels" },
+  { replaces = "The second and third daily uses of spell kenning gained at 11th and 17th levels", feature = "spell-kenning", levels = [11, 17] },
 ]
 +++
 

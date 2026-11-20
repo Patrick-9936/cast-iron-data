@@ -18,8 +18,8 @@ page = "7"
 kind = "archetype"
 trades = [
   { replaces = "Fast movement", feature = "fast-movement" },
-  { replaces = "Bloodline feats gained at 6th, 12th, and 18th levels" },
-  { replaces = "Bloodline feat gained at 9th level" },
+  { replaces = "Bloodline feats gained at 6th, 12th, and 18th levels", feature = "bloodline", levels = [6, 12, 18], power = "bloodline feat" },
+  { replaces = "Bloodline feat gained at 9th level", feature = "bloodline", levels = [9], power = "bloodline feat" },
 ]
 +++
 

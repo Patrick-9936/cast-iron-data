@@ -17,10 +17,10 @@ page = "53"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Opportune parry and riposte" },
-  { replaces = "Menacing swordplay" },
-  { replaces = "Swashbuckler's grace" },
-  { replaces = "Swashbuckler's edge" },
+  { replaces = "Opportune parry and riposte", feature = "deeds", power = "opportune parry and riposte" },
+  { replaces = "Menacing swordplay", feature = "deeds", power = "menacing swordplay" },
+  { replaces = "Swashbuckler's grace", feature = "deeds", power = "swashbuckler's grace" },
+  { replaces = "Swashbuckler's edge", feature = "deeds", power = "swashbuckler's edge" },
 ]
 +++
 

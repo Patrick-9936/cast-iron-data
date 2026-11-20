@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Bonus feats, 1st-, 7th-, and 15th-level deeds" },
   { replaces = "Nimble", feature = "nimble" },
-  { replaces = "Kip-up" },
+  { replaces = "Kip-up", feature = "deeds", power = "kip-up" },
   { alters = "Panache", feature = "panache" },
   { alters = "Charmed life", feature = "charmed-life" },
 ]

@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Aspect", feature = "aspect" },
   { replaces = "Greater aspect", feature = "greater-aspect" },
-  { alters = "Summon monster" },
+  { alters = "Summon monster", feature = "summon-monster-i" },
 ]
 +++
 

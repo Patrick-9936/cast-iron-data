@@ -18,10 +18,10 @@ page = "112"
 kind = "archetype"
 trades = [
   { replaces = "Wandering spirit gained at 4th level", feature = "wandering-spirit", levels = [4] },
-  { replaces = "Spirit magic spells gained from the shaman's wandering spirit" },
+  { replaces = "Spirit magic spells gained from the shaman's wandering spirit", feature = "spirit-magic" },
   { replaces = "Wandering hex gained at 6th level", feature = "wandering-hex", levels = [6] },
-  { replaces = "Greater version of wandering spirit gained at 12th level" },
-  { replaces = "true version of wandering spirit gained at 20th level" },
+  { replaces = "Greater version of wandering spirit gained at 12th level", feature = "wandering-spirit", levels = [12] },
+  { replaces = "true version of wandering spirit gained at 20th level", feature = "wandering-spirit", levels = [20] },
 ]
 +++
 

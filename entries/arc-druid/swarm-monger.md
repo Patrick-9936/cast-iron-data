@@ -21,7 +21,7 @@ trades = [
   { replaces = "Woodland stride", feature = "woodland-stride" },
   { replaces = "Nature sense", feature = "nature-sense" },
   { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
-  { replaces = "The normal wild shape options gained at 12th level" },
+  { replaces = "The normal wild shape options gained at 12th level", feature = "wild-shape", levels = [12] },
 ]
 +++
 

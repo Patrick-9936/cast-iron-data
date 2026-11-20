@@ -18,9 +18,9 @@ page = "104"
 kind = "archetype"
 trades = [
   { replaces = "Psychic discipline", feature = "psychic-discipline" },
-  { replaces = "discipline powers" },
+  { replaces = "discipline powers", feature = "psychic-discipline", power = "discipline power" },
   { replaces = "1st-level phrenic amplification", feature = "phrenic-amplifications", levels = [1] },
-  { replaces = "Discipline spells" },
+  { replaces = "Discipline spells", feature = "psychic-discipline", power = "discipline spell" },
   { replaces = "15th-level phrenic amplification", feature = "phrenic-amplifications", levels = [15] },
   { replaces = "Remade self", feature = "remade-self" },
   { alters = "Phrenic pool", feature = "phrenic-pool" },

@@ -21,7 +21,7 @@ trades = [
   { replaces = "Trapfinding", feature = "trapfinding" },
   { replaces = "trap sense", feature = "trap-sense" },
   { replaces = "Poison resistance", feature = "poison-resistance" },
-  { replaces = "poison immunity" },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
   { replaces = "Poison lore", feature = "poison-lore" },
   { replaces = "Swift alchemy", feature = "swift-alchemy" },
   { alters = "Alchemy", feature = "alchemy" },

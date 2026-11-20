@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Brew potion", feature = "brew-potion" },
   { replaces = "Poison resistance", feature = "poison-resistance" },
-  { replaces = "poison immunity" },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
   { replaces = "Poison use", feature = "poison-use" },
   { replaces = "swift poisoning", feature = "swift-poisoning" },
   { alters = "Bombs", feature = "bomb" },

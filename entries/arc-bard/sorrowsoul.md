@@ -17,7 +17,7 @@ page = "22"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Soothing performance" },
+  { replaces = "Soothing performance", feature = "bardic-performance", power = "soothing performance" },
   { replaces = "versatile performance", feature = "versatile-performance" },
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Lore master", feature = "lore-master" },

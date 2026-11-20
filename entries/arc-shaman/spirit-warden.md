@@ -17,7 +17,7 @@ page = "112"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Spirit magic spells gained from the shaman's spirit" },
+  { replaces = "Spirit magic spells gained from the shaman's spirit", feature = "spirit-magic" },
   { replaces = "Hex gained at 2nd level", feature = "hex", levels = [2] },
   { replaces = "Hex gained at 10th level", feature = "hex", levels = [10] },
 ]

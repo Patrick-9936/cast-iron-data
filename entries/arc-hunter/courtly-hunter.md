@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Precise companion", feature = "precise-companion" },
   { replaces = "Hunter tactics", feature = "hunter-tactics" },
-  { replaces = "the hunter's bonus teamwork feats" },
+  { replaces = "the hunter's bonus teamwork feats", feature = "teamwork-feat" },
   { replaces = "Bonus tricks", feature = "bonus-tricks" },
   { alters = "Animal companion", feature = "animal-companion" },
   { alters = "Animal focus", feature = "animal-focus" },

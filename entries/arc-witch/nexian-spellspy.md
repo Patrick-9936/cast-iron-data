@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Familiar's ability to deliver touch spells" },
   { replaces = "4th-level hex", feature = "hex", levels = [4] },
-  { alters = "Familiar" },
+  { alters = "Familiar", feature = "witch-s-familiar" },
 ]
 +++
 

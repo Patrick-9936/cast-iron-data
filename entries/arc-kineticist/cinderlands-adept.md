@@ -18,7 +18,7 @@ page = "28"
 kind = "archetype"
 trades = [
   { replaces = "Infusion gained at 1st level", feature = "infusion", levels = [1] },
-  { replaces = "Utility wild talents gained at 4th, 8th, and 12th levels" },
+  { replaces = "Utility wild talents gained at 4th, 8th, and 12th levels", feature = "wild-talents", levels = [4, 8, 12] },
   { alters = "Elemental focus", feature = "elemental-focus" },
   { alters = "expanded element", feature = "expanded-element" },
   { alters = "Gather power", feature = "gather-power" },

@@ -17,7 +17,7 @@ page = "42"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bonus feats gained at 2nd and 5th levels" },
+  { replaces = "Bonus feats gained at 2nd and 5th levels", feature = "bonus-combat-feats", levels = [2, 5] },
   { replaces = "The brawler's AC bonus", feature = "ac-bonus" },
   { replaces = "Awesome blow", feature = "awesome-blow" },
   { replaces = "Improved awesome blow", feature = "improved-awesome-blow" },

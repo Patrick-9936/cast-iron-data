@@ -18,7 +18,7 @@ page = "38"
 kind = "archetype"
 trades = [
   { replaces = "Nature bond", feature = "nature-bond" },
-  { replaces = "The 6th-level additional use of wild shape" },
+  { replaces = "The 6th-level additional use of wild shape", feature = "wild-shape", levels = [6] },
 ]
 +++
 

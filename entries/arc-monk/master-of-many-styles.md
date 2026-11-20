@@ -17,7 +17,7 @@ page = "59"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Standard bonus feats" },
+  { replaces = "Standard bonus feats", feature = "bonus-feat" },
   { replaces = "Flurry of blows", feature = "flurry-of-blows" },
   { replaces = "Perfect self", feature = "perfect-self" },
 ]

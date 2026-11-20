@@ -18,9 +18,9 @@ page = "124"
 kind = "archetype"
 trades = [
   { replaces = "Charmed life", feature = "charmed-life" },
-  { replaces = "Swashbuckler initiative" },
-  { replaces = "Menacing swordplay" },
-  { replaces = "Bleeding wound" },
+  { replaces = "Swashbuckler initiative", feature = "deeds", power = "swashbuckler initiative" },
+  { replaces = "Menacing swordplay", feature = "deeds", power = "menacing swordplay" },
+  { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
   { alters = "Bonus feats", feature = "bonus-feats" },
 ]
 +++

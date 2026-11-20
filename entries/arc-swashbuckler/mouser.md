@@ -17,10 +17,10 @@ page = "125"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Opportune parry and riposte" },
-  { replaces = "Menacing swordplay" },
-  { replaces = "Targeted strike" },
-  { replaces = "Bleeding wound" },
+  { replaces = "Opportune parry and riposte", feature = "deeds", power = "opportune parry and riposte" },
+  { replaces = "Menacing swordplay", feature = "deeds", power = "menacing swordplay" },
+  { replaces = "Targeted strike", feature = "deeds", power = "targeted strike" },
+  { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
 ]
 +++
 

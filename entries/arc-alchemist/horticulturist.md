@@ -23,7 +23,7 @@ trades = [
   { replaces = "Mutagen, 2nd-level discovery" },
   { replaces = "Poison resistance", feature = "poison-resistance" },
   { replaces = "poison use", feature = "poison-use" },
-  { replaces = "poison immunity" },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
   { replaces = "The discovery gained at 4th level", feature = "discovery", levels = [4] },
   { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
   { alters = "Bombs", feature = "bomb" },

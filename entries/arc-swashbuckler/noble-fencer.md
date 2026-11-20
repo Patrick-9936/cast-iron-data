@@ -17,9 +17,9 @@ page = "52"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Dodging panache" },
-  { replaces = "Superior feint" },
-  { replaces = "Subtle blade" },
+  { replaces = "Dodging panache", feature = "deeds", power = "dodging panache" },
+  { replaces = "Superior feint", feature = "deeds", power = "superior feint" },
+  { replaces = "Subtle blade", feature = "deeds", power = "subtle blade" },
   { replaces = "Charmed life", feature = "charmed-life" },
 ]
 +++

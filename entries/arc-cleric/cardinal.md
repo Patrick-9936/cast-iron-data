@@ -18,7 +18,7 @@ page = "64"
 kind = "archetype"
 trades = [
   { replaces = "Armor proficiencies", feature = "weapon-and-armor-proficiencies" },
-  { replaces = "Spontaneous casting ability" },
+  { replaces = "Spontaneous casting ability", feature = "spontaneous-casting" },
   { alters = "Domains", feature = "domains" },
   { alters = "class skills" },
   { alters = "skill ranks per level" },

@@ -21,7 +21,7 @@ page = "11"
 kind = "archetype"
 trades = [
   { replaces = "1st- and 10th-level hexes", feature = "hex", levels = [1, 10] },
-  { alters = "Patron" },
+  { alters = "Patron", feature = "patron-spells", power = "patron" },
 ]
 +++
 

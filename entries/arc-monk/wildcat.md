@@ -20,7 +20,7 @@ trades = [
   { replaces = "Still mind", feature = "still-mind" },
   { replaces = "Ki pool", feature = "ki-pool" },
   { replaces = "high jump", feature = "high-jump" },
-  { replaces = "All instances of slow fall" },
+  { replaces = "All instances of slow fall", feature = "slow-fall" },
   { replaces = "Improved evasion", feature = "improved-evasion" },
   { replaces = "abundant step", feature = "abundant-step" },
   { replaces = "Diamond soul", feature = "diamond-soul" },

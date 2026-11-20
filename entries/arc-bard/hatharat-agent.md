@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "Well-versed", feature = "well-versed" },
-  { replaces = "Dirge of doom" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
 ]
 +++
 

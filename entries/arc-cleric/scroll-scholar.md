@@ -17,9 +17,9 @@ page = "26"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "One of the 1st-level granted powers from her domains - the character gets to choose which of her two 1st-level granted powers it replaces" },
-  { replaces = "Channel energy damage boost at 5th level" },
-  { replaces = "The normal addition of a new 4th-level spell slot to the character's spells per day" },
+  { replaces = "One of the 1st-level granted powers from her domains - the character gets to choose which of her two 1st-level granted powers it replaces", feature = "domains", levels = [1], power = "domain power" },
+  { replaces = "Channel energy damage boost at 5th level", feature = "channel-energy", levels = [5] },
+  { replaces = "The normal addition of a new 4th-level spell slot to the character's spells per day", feature = "spells" },
 ]
 +++
 

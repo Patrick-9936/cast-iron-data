@@ -21,7 +21,7 @@ trades = [
   { replaces = "Shifter claws", feature = "shifter-claws" },
   { replaces = "Chimeric aspect", feature = "chimeric-aspect" },
   { replaces = "greater chimeric aspect", feature = "greater-chimeric-aspect" },
-  { alters = "Languages" },
+  { alters = "Languages", feature = "bonus-languages" },
   { alters = "Shifter aspect", feature = "shifter-aspect" },
   { alters = "Wild shape", feature = "wild-shape" },
 ]

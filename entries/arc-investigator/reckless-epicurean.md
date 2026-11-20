@@ -21,7 +21,7 @@ trades = [
   { replaces = "Investigator talent gained at 5th level", feature = "investigator-talent", levels = [5] },
   { replaces = "Investigator talent gained at 13th level", feature = "investigator-talent", levels = [13] },
   { alters = "Poison resistance", feature = "poison-resistance" },
-  { alters = "poison immunity" },
+  { alters = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
 ]
 +++
 

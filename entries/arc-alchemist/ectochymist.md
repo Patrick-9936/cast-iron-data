@@ -22,7 +22,7 @@ trades = [
   { replaces = "Poison use", feature = "poison-use" },
   { replaces = "Swift poisoning", feature = "swift-poisoning" },
   { replaces = "The 8th-level alchemist discovery", feature = "discovery", levels = [8] },
-  { replaces = "Poison immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
 ]
 +++
 

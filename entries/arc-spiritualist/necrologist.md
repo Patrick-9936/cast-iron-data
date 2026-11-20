@@ -17,9 +17,9 @@ page = "69"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Slam damage increase gained at 5th level" },
+  { replaces = "Slam damage increase gained at 5th level", feature = "phantom", levels = [5], power = "slam damage" },
   { replaces = "Devotion" },
-  { replaces = "Slam damage increase gained at 13th level" },
+  { replaces = "Slam damage increase gained at 13th level", feature = "phantom", levels = [13], power = "slam damage" },
   { replaces = "Spiritual interference", feature = "spiritual-interference" },
   { replaces = "Greater spiritual interference", feature = "greater-spiritual-interference" },
   { alters = "Alignment" },

@@ -17,9 +17,9 @@ page = "50"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Basic hydrokinesis" },
-  { replaces = "2nd and 6th level utility wild talents" },
-  { replaces = "Defense wild talent from elemental defense" },
+  { replaces = "Basic hydrokinesis", feature = "elemental-focus", power = "basic utility wild talent" },
+  { replaces = "2nd and 6th level utility wild talents", feature = "wild-talents", levels = [2, 6] },
+  { replaces = "Defense wild talent from elemental defense", feature = "elemental-defense" },
   { alters = "Expanded element", feature = "expanded-element" },
   { alters = "Elemental focus", feature = "elemental-focus" },
   { alters = "Cold simple blast" },

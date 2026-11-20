@@ -17,10 +17,10 @@ page = "122"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bloodline feats gained at 7th, 13th, and 19th level" },
+  { replaces = "Bloodline feats gained at 7th, 13th, and 19th level", feature = "bloodline", levels = [7, 13, 19], power = "bloodline feat" },
   { alters = "Bloodline", feature = "bloodline" },
-  { alters = "bloodline powers" },
-  { alters = "bloodline spells" },
+  { alters = "bloodline powers", feature = "bloodline", power = "bloodline power" },
+  { alters = "bloodline spells", feature = "bloodline", power = "bloodline spell" },
 ]
 +++
 

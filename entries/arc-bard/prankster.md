@@ -17,9 +17,9 @@ page = "35"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Fascinate" },
-  { replaces = "Suggestion" },
-  { replaces = "Mass suggestion" },
+  { replaces = "Fascinate", feature = "bardic-performance", power = "fascinate" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
+  { replaces = "Mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
   { replaces = "Lore master", feature = "lore-master" },
 ]
 +++

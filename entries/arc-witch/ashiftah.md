@@ -17,7 +17,7 @@ page = "14"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Familiar" },
+  { replaces = "Familiar", feature = "witch-s-familiar" },
   { replaces = "2nd-level hex", feature = "hex", levels = [2] },
   { replaces = "6th-level hex", feature = "hex", levels = [6] },
 ]

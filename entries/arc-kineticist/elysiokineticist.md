@@ -18,9 +18,9 @@ page = "18"
 kind = "archetype"
 trades = [
   { replaces = "Expanded element", feature = "expanded-element" },
-  { replaces = "Basic phytokinesis utility wild talent granted by the wood element" },
+  { replaces = "Basic phytokinesis utility wild talent granted by the wood element", feature = "elemental-focus", power = "basic utility wild talent" },
   { replaces = "Infusion gained at 1st level", feature = "infusion", levels = [1] },
-  { replaces = "Flesh of wood defense wild talent granted by the wood element" },
+  { replaces = "Flesh of wood defense wild talent granted by the wood element", feature = "elemental-defense" },
   { alters = "Elemental focus", feature = "elemental-focus" },
 ]
 +++

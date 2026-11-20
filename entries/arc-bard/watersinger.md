@@ -17,11 +17,11 @@ page = "176"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Fascinate" },
-  { replaces = "suggestion" },
-  { replaces = "mass suggestion" },
-  { replaces = "Inspire competence" },
-  { replaces = "The use of lore master gained at 5th level" },
+  { replaces = "Fascinate", feature = "bardic-performance", power = "fascinate" },
+  { replaces = "suggestion", feature = "bardic-performance", power = "suggestion" },
+  { replaces = "mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
+  { replaces = "The use of lore master gained at 5th level", feature = "lore-master", levels = [5] },
 ]
 +++
 

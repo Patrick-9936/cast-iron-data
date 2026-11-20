@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "lore master", feature = "lore-master" },
-  { replaces = "Inspire courage" },
+  { replaces = "Inspire courage", feature = "bardic-performance", power = "inspire courage" },
   { replaces = "Versatile performance", feature = "versatile-performance" },
 ]
 +++

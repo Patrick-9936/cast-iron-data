@@ -17,9 +17,9 @@ page = "134"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Utility shot deed" },
-  { replaces = "Targeting deed" },
-  { replaces = "Bonus feats the gunslinger gains at 4th, 8th, 12th, 16th, and 20th level" },
+  { replaces = "Utility shot deed", feature = "deeds", power = "utility shot" },
+  { replaces = "Targeting deed", feature = "deeds", power = "targeting" },
+  { replaces = "Bonus feats the gunslinger gains at 4th, 8th, 12th, 16th, and 20th level", feature = "bonus-feats", levels = [4, 8, 12, 16, 20] },
   { alters = "Grit", feature = "grit" },
   { alters = "Deeds", feature = "deeds" },
 ]

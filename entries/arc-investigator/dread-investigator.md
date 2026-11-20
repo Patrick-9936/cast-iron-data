@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Poison lore", feature = "poison-lore" },
   { replaces = "Poison resistance", feature = "poison-resistance" },
-  { replaces = "immunity" },
+  { replaces = "immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
   { replaces = "Investigator talents gained at 7th, 13th, and 19th level", feature = "investigator-talent", levels = [7, 13, 19] },
   { alters = "Inspiration", feature = "inspiration" },
   { alters = "studied combat", feature = "studied-combat" },

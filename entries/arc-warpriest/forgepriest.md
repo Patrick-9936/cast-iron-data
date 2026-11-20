@@ -17,7 +17,7 @@ page = "130"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "2nd blessing normally gained by a warpriest" },
+  { replaces = "2nd blessing normally gained by a warpriest", feature = "blessings" },
   { replaces = "Bonus feat gained at 3rd level", feature = "bonus-feats", levels = [3] },
   { replaces = "Channel energy", feature = "channel-energy" },
   { replaces = "Bonus feat gained at 6th level", feature = "bonus-feats", levels = [6] },

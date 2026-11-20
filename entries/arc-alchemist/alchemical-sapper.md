@@ -21,7 +21,7 @@ trades = [
   { replaces = "Poison resistance", feature = "poison-resistance" },
   { replaces = "Swift alchemy", feature = "swift-alchemy" },
   { replaces = "The discovery gained at 6th level", feature = "discovery", levels = [6] },
-  { replaces = "Poison immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
   { alters = "Extracts", feature = "extracts" },
   { alters = "Bomb", feature = "bomb" },
 ]

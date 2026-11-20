@@ -17,7 +17,7 @@ page = "20"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Class skills gained from the oracle's mystery" },
+  { replaces = "Class skills gained from the oracle's mystery", feature = "mystery", power = "class skills" },
   { replaces = "Revelation gained at 1st level", feature = "revelation", levels = [1] },
   { replaces = "Revelation gained at 7th level", feature = "revelation", levels = [7] },
 ]

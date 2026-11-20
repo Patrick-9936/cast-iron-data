@@ -17,11 +17,11 @@ page = "96"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Dodging panache" },
-  { replaces = "Kip-up" },
-  { replaces = "Subtle blade" },
-  { alters = "Derring-do" },
-  { alters = "swashbuckler's edge" },
+  { replaces = "Dodging panache", feature = "deeds", power = "dodging panache" },
+  { replaces = "Kip-up", feature = "deeds", power = "kip-up" },
+  { replaces = "Subtle blade", feature = "deeds", power = "subtle blade" },
+  { alters = "Derring-do", feature = "deeds", power = "derring-do" },
+  { alters = "swashbuckler's edge", feature = "deeds", power = "swashbuckler's edge" },
 ]
 +++
 

@@ -17,11 +17,11 @@ page = "10"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Deadeye deed" },
-  { replaces = "Gunslinger's dodge deed" },
-  { replaces = "Gunslinger initiative deed" },
-  { replaces = "Startling shot deed" },
-  { replaces = "Expert loading deed" },
+  { replaces = "Deadeye deed", feature = "deeds", power = "deadeye" },
+  { replaces = "Gunslinger's dodge deed", feature = "deeds", power = "gunslinger's dodge" },
+  { replaces = "Gunslinger initiative deed", feature = "deeds", power = "gunslinger initiative" },
+  { replaces = "Startling shot deed", feature = "deeds", power = "startling shot" },
+  { replaces = "Expert loading deed", feature = "deeds", power = "expert loading" },
 ]
 +++
 

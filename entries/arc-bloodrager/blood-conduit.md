@@ -21,7 +21,7 @@ trades = [
   { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
   { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
   { replaces = "Indomitable will", feature = "indomitable-will" },
-  { alters = "Bloodline feats" },
+  { alters = "Bloodline feats", feature = "bloodline", power = "bloodline feat" },
 ]
 +++
 

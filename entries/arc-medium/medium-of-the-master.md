@@ -22,9 +22,9 @@ trades = [
   { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies" },
   { alters = "Spirit", feature = "spirit" },
   { alters = "Spirit surge", feature = "spirit-surge" },
-  { alters = "Spirit power (lesser)" },
-  { alters = "Spirit power (intermediate)" },
-  { alters = "Spirit power (supreme)" },
+  { alters = "Spirit power (lesser)", feature = "spirit", power = "lesser spirit power" },
+  { alters = "Spirit power (intermediate)", feature = "spirit", power = "intermediate spirit power" },
+  { alters = "Spirit power (supreme)", feature = "spirit", power = "supreme spirit power" },
 ]
 +++
 

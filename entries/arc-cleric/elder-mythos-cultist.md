@@ -18,7 +18,7 @@ page = "48"
 kind = "archetype"
 trades = [
   { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
-  { replaces = "Increases to channel energy gained at 5th, 11th, and 19th levels" },
+  { replaces = "Increases to channel energy gained at 5th, 11th, and 19th levels", feature = "channel-energy", levels = [5, 11, 19] },
   { alters = "Alignment" },
   { alters = "Domains", feature = "domains" },
   { alters = "Channel energy", feature = "channel-energy" },

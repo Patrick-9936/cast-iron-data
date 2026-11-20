@@ -17,12 +17,12 @@ page = "46"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Distraction" },
-  { replaces = "Suggestion" },
+  { replaces = "Distraction", feature = "bardic-performance", power = "distraction" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
   { replaces = "jack-of-all-trades", feature = "jack-of-all-trades" },
-  { replaces = "Dirge of doom" },
-  { replaces = "Mass suggestion" },
-  { replaces = "Deadly performance" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
+  { replaces = "Mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
+  { replaces = "Deadly performance", feature = "bardic-performance", power = "deadly performance" },
 ]
 +++
 

@@ -17,9 +17,9 @@ page = "38"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Eschew Materials bonus feat" },
-  { replaces = "Bloodline spells gained at 3rd level and 5th level" },
-  { replaces = "9th-level bloodline power" },
+  { replaces = "Eschew Materials bonus feat", feature = "eschew-materials" },
+  { replaces = "Bloodline spells gained at 3rd level and 5th level", feature = "bloodline", levels = [3, 5], power = "bloodline spell" },
+  { replaces = "9th-level bloodline power", feature = "bloodline", levels = [9], power = "bloodline power" },
 ]
 +++
 

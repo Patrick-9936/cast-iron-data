@@ -19,10 +19,10 @@ kind = "archetype"
 trades = [
   { replaces = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
   { replaces = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
-  { replaces = "Menacing swordplay" },
-  { replaces = "Superior feint" },
-  { replaces = "Bleeding wound" },
-  { replaces = "Dizzying defense" },
+  { replaces = "Menacing swordplay", feature = "deeds", power = "menacing swordplay" },
+  { replaces = "Superior feint", feature = "deeds", power = "superior feint" },
+  { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
+  { replaces = "Dizzying defense", feature = "deeds", power = "dizzying defense" },
   { alters = "Panache", feature = "panache" },
   { alters = "Bonus feats", feature = "bonus-feats" },
 ]

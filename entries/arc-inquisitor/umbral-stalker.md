@@ -17,7 +17,7 @@ page = "31"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Justice judgment" },
+  { replaces = "Justice judgment", feature = "judgment", power = "justice" },
   { replaces = "Stern gaze", feature = "stern-gaze" },
   { alters = "Domain", feature = "domain" },
   { alters = "Exploit weakness", feature = "exploit-weakness" },

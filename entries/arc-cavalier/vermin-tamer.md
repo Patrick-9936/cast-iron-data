@@ -17,7 +17,7 @@ page = "17"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Expert training" },
+  { replaces = "Expert training", feature = "expert-trainer" },
   { replaces = "Demanding challenge", feature = "demanding-challenge" },
   { alters = "Mount", feature = "mount" },
 ]

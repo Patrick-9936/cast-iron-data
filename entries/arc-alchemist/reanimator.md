@@ -17,9 +17,9 @@ page = "20"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "7th-level bomb damage increase" },
-  { replaces = "13th-level bomb damage increase" },
-  { replaces = "15th-level bomb damage increase" },
+  { replaces = "7th-level bomb damage increase", feature = "bomb", levels = [7] },
+  { replaces = "13th-level bomb damage increase", feature = "bomb", levels = [13] },
+  { replaces = "15th-level bomb damage increase", feature = "bomb", levels = [15] },
   { alters = "Bombs", feature = "bomb" },
 ]
 +++

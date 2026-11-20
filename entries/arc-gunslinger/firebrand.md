@@ -17,8 +17,8 @@ page = "4"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Deadeye deed" },
-  { replaces = "Dead shot deed" },
+  { replaces = "Deadeye deed", feature = "deeds", power = "deadeye" },
+  { replaces = "Dead shot deed", feature = "deeds", power = "dead shot" },
   { replaces = "Bonus feats gained at 4th, 8th, 12th, 16th, and 20th levels", feature = "bonus-feats", levels = [4, 8, 12, 16, 20] },
   { replaces = "Gun training", feature = "gun-training" },
   { alters = "Gunsmith", feature = "gunsmith" },

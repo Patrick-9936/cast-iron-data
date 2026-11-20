@@ -20,7 +20,7 @@ page = "11"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Bonus feats gained at 2nd, 8th, and 14th levels" },
+  { replaces = "Bonus feats gained at 2nd, 8th, and 14th levels", feature = "bonus-combat-feats", levels = [2, 8, 14] },
   { replaces = "AC bonus", feature = "ac-bonus" },
 ]
 +++

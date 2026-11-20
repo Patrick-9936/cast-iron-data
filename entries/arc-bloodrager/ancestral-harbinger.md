@@ -18,9 +18,9 @@ page = "6"
 kind = "archetype"
 trades = [
   { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
-  { replaces = "bloodline feats gained at 6th and 18th levels" },
+  { replaces = "bloodline feats gained at 6th and 18th levels", feature = "bloodline", levels = [6, 18], power = "bloodline feat" },
   { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
-  { replaces = "the bloodline feat gained at 12th level" },
+  { replaces = "the bloodline feat gained at 12th level", feature = "bloodline", levels = [12], power = "bloodline feat" },
 ]
 +++
 

@@ -17,10 +17,10 @@ page = "81"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Countersong" },
-  { replaces = "Inspire competence" },
-  { replaces = "Suggestion" },
-  { replaces = "Dirge of doom" },
+  { replaces = "Countersong", feature = "bardic-performance", power = "countersong" },
+  { replaces = "Inspire competence", feature = "bardic-performance", power = "inspire competence" },
+  { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
+  { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
 ]
 +++
 

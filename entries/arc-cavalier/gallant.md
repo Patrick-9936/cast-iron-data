@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Banner", feature = "banner" },
   { replaces = "Greater banner", feature = "greater-banner" },
-  { alters = "The cavalier's order" },
+  { alters = "The cavalier's order", feature = "order" },
 ]
 +++
 
