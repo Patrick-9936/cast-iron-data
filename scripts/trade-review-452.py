@@ -35,6 +35,12 @@ of the regex. `levels` may be a comma separated list, `ordinals` (the ordinals o
 `steps:<feature>` (the step numbers of the printed name) or `grant:<label>` (the level at which the class
 table of the base class grants `<label>`); `power` may be `=printed`.
 
+Evidence. The `print` column is a search hit from `trade-review-452-print.py`, not a reading. `evidence` says
+what settles a closed row: `print` (the search found the name on the cited page or next to it), `manual` (a
+reader checked the book page: `trade-evidence-452.tsv` records the printed page, with the `subsection` of a variant row, and `fill` copies it) or
+`corpus` (no hit and no reading: the entry's own text and the class table settle it, and `evidence_note`
+says why print did not).
+
 Steps. A progression step (`Armor training 2`, `Trap sense +3`, `Judgment 1/day`, `Spirit power (lesser)`)
 is identified by the BASE-CLASS GRANT LEVELS in `levels`, read from the class table of the base class;
 `power` names a stable component (a bardic performance, a deed, a school power) only when the level alone
@@ -52,10 +58,11 @@ QUEUE = ROOT / "scripts/trade-review-452.tsv"
 BASELINE = ROOT / "scripts/trade-review-452-baseline.tsv"
 DECISIONS = ROOT / "scripts/trade-review-452-decisions.tsv"
 ADJUSTMENTS = ROOT / "scripts/trade-adjustments-452.tsv"
+EVIDENCE = ROOT / "scripts/trade-evidence-452.tsv"
 BASE_COLUMNS = ["id", "kind", "trade", "op", "printed", "reason", "candidates", "unclaimed_old_anchors", "subsection"]
 COLUMNS = BASE_COLUMNS + [
     "disposition", "decision", "feature", "class", "levels", "power", "book", "page", "page_reason", "print",
-    "class_hit", "class_book", "class_page",
+    "class_hit", "class_book", "class_page", "evidence", "evidence_note",
 ]
 ADJUST_COLUMNS = ["id", "trade", "op", "printed", "before", "after", "rule"]
 
@@ -468,9 +475,28 @@ def cmd_fill(args):
                 )
             else:
                 claimed.append((int(row["trade"]), claim))
+    manual = {}
+    if EVIDENCE.exists():
+        for e in read_tsv(EVIDENCE):
+            manual[(e["id"], e["printed"].lower(), e.get("subsection", ""))] = e
     for row in rows:
         new = row.pop("_new", None)
         book, page, why = row.pop("_cite")
+        e = manual.get((row["id"], row["printed"].lower(), row["subsection"])) or manual.get(
+            (row["id"], row["printed"].lower(), "")
+        )
+        if e:
+            book, page, why = e["book"], e["page"], ""
+            row["evidence"], row["evidence_note"] = "manual", e["note"]
+        elif row["print"] in ("page", "words"):
+            row["evidence"], row["evidence_note"] = "print", ""
+        elif row["print"]:
+            row["evidence"] = "corpus"
+            row["evidence_note"] = (
+                "no copy of the book; settled from the entry's own line and the class table"
+                if row["print"] == "nobook" else
+                "the book is available, but the search found no hit and nobody read the page; settled from the entry's own line and the class table"
+            )
         if new:
             new = dict(new, book=book, page=page, page_reason=why)
             if any(row.get(k, "") != v for k, v in new.items()):
@@ -644,6 +670,10 @@ def cmd_check(args):
             continue
         if not row["decision"] or not row["book"]:
             problems.append(f"{where}: decision or book is empty")
+        if row["evidence"] not in ("print", "manual", "corpus") or (row["evidence"] != "print" and not row["evidence_note"]):
+            problems.append(f"{where}: evidence is {row['evidence']!r} without a note")
+        if row["evidence"] == "manual" and not row["page"]:
+            problems.append(f"{where}: manual evidence without a page")
         if not row["page"] and not row["page_reason"]:
             problems.append(f"{where}: no page and no reason for its absence")
         if row["disposition"] == "resolved" and not row["feature"]:
