@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Track", feature = "track" },
   { replaces = "wild empathy", feature = "wild-empathy" },
-  { replaces = "Spellcasting ability" },
+  { replaces = "Spellcasting ability", feature = "spells" },
   { replaces = "Swift tracking" },
   { replaces = "Quarry", feature = "quarry" },
   { replaces = "Improved quarry", feature = "improved-quarry" },

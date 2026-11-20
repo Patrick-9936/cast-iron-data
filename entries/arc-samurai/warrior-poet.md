@@ -17,9 +17,9 @@ page = "13"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency with medium armor" },
-  { replaces = "heavy armor" },
-  { replaces = "and shields" },
+  { replaces = "Proficiency with medium armor", feature = "weapon-and-armor-proficiencies", power = "medium armor" },
+  { replaces = "heavy armor", feature = "weapon-and-armor-proficiencies", power = "heavy armor" },
+  { replaces = "and shields", feature = "weapon-and-armor-proficiencies", power = "shields" },
   { replaces = "Mount", feature = "mount" },
   { replaces = "weapon expertise", feature = "weapon-expertise" },
   { replaces = "banner", feature = "banner" },

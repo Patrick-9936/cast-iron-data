@@ -21,7 +21,7 @@ trades = [
   { replaces = "spirit surge", feature = "spirit-surge" },
   { replaces = "Taboo", feature = "taboo" },
   { replaces = "Connection channel", feature = "connection-channel" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Spirit", feature = "spirit" },
 ]
 +++

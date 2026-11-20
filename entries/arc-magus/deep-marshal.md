@@ -18,10 +18,10 @@ page = "28"
 kind = "archetype"
 trades = [
   { replaces = "Magus arcana gained at 3rd level", feature = "magus-arcana", levels = [3] },
-  { alters = "Armor proficiencies" },
+  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "medium armor", feature = "medium-armor" },
   { alters = "heavy armor", feature = "heavy-armor" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Arcane pool", feature = "arcane-pool" },
   { alters = "spell combat", feature = "spell-combat" },
   { alters = "spellstrike", feature = "spellstrike" },

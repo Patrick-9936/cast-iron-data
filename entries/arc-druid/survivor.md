@@ -20,7 +20,7 @@ trades = [
   { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
   { replaces = "Wild shape", feature = "wild-shape" },
   { replaces = "Venom immunity", feature = "venom-immunity" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
   { alters = "Nature bond", feature = "nature-bond" },
 ]
 +++

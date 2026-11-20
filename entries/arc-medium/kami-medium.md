@@ -24,7 +24,7 @@ trades = [
   { replaces = "Astral journey", feature = "astral-journey" },
   { alters = "Spirit", feature = "spirit" },
   { alters = "Taboo", feature = "taboo" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

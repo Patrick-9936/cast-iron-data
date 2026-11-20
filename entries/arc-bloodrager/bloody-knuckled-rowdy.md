@@ -20,7 +20,7 @@ trades = [
   { replaces = "Fast movement", feature = "fast-movement" },
   { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
   { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

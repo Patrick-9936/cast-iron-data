@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { alters = "Domains", feature = "domains" },
   { alters = "channel energy", feature = "channel-energy" },
-  { alters = "armor proficiency" },
+  { alters = "armor proficiency", feature = "weapon-and-armor-proficiencies", power = "armor" },
 ]
 +++
 

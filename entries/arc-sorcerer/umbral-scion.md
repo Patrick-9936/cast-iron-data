@@ -20,7 +20,7 @@ trades = [
   { replaces = "1st-level bloodline power" },
   { replaces = "7th-level bloodline feat" },
   { replaces = "13th-level bloodline feat" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

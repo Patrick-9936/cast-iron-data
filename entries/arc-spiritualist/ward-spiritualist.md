@@ -21,7 +21,7 @@ trades = [
   { replaces = "phantom recall", feature = "phantom-recall" },
   { replaces = "greater spiritual interference", feature = "greater-spiritual-interference" },
   { alters = "Phantom", feature = "phantom" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

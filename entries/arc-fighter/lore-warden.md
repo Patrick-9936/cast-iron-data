@@ -17,9 +17,9 @@ page = "144"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency with medium armor" },
-  { replaces = "heavy armor" },
-  { replaces = "and shields" },
+  { replaces = "Proficiency with medium armor", feature = "weapon-and-armor-proficiencies", power = "medium armor" },
+  { replaces = "heavy armor", feature = "weapon-and-armor-proficiencies", power = "heavy armor" },
+  { replaces = "and shields", feature = "weapon-and-armor-proficiencies", power = "shields" },
   { replaces = "Bravery and the fighter bonus feat gained at 2nd level" },
   { replaces = "Armor training", feature = "armor-training" },
   { replaces = "armor mastery", feature = "armor-mastery" },

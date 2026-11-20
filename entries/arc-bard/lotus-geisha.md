@@ -20,7 +20,7 @@ trades = [
   { replaces = "Well-versed", feature = "well-versed" },
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "lore master", feature = "lore-master" },
-  { alters = "Weapon proficiencies" },
+  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies", power = "weapons" },
 ]
 +++
 

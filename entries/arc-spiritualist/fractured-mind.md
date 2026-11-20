@@ -21,7 +21,7 @@ trades = [
   { replaces = "calm spirit", feature = "calm-spirit" },
   { replaces = "see invisibility", feature = "see-invisibility" },
   { replaces = "call spirit", feature = "call-spirit" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

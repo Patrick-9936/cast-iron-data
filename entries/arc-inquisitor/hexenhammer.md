@@ -23,7 +23,7 @@ trades = [
   { replaces = "Teamwork feats", feature = "teamwork-feat" },
   { replaces = "Solo tactics", feature = "solo-tactics" },
   { alters = "Domain", feature = "domain" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

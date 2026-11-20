@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Track", feature = "track" },
   { replaces = "Swift tracker", feature = "swift-tracker" },
-  { alters = "Armor proficiency" },
+  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "Studied target", feature = "studied-target" },
 ]
 +++

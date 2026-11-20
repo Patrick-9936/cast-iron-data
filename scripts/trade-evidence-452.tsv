@@ -16,3 +16,12 @@ ref/domain/glory	The divine presence ability of the Glory domain	Legend Subdomai
 ref/domain/water	The # ability of the Water domain	Flowing Subdomain	Champions of Balance	17	print: 'replaces the icicle ability of the Water domain' (the corpus string has # for the name of the power: icicle)
 ref/domain/water	The # power of the Water domain	Oceans Subdomain	Advanced Player's Guide	94	print: 'replaces the icicle power of the Water domain' (the corpus string has # for the name: icicle)
 ref/domain/water	The # power of the Water domain	Rivers Subdomain	Book of the Damned	181	print: 'replaces the icicle power of the Water domain' (the corpus string has # for the name: icicle); Inner Sea Gods p. 226 says the same; Pathfinder #80: Empty Graves p. 65 is not among the available PDFs
+ref/arc-fighter/skirmisher	Class skills		Ultimate Wilderness	50	print: 'This alters the fighter's class skills and skill ranks per level'
+ref/arc-fighter/skirmisher	skill ranks per level		Ultimate Wilderness	50	print: 'This alters the fighter's class skills and skill ranks per level'
+ref/arc-fighter/skirmisher	The fighter's armor proficiency		Ultimate Wilderness	50	print: 'This replaces the fighter's weapon and armor proficiency'; the corpus name is shorter, so the whole feature is named (decision changed from armor)
+ref/arc-fighter/tactician	Armor proficiencies		Ultimate Combat	47	print: Weapon and Armor Proficiency: a tactician is not proficient with heavy armor or tower shields (an armor weight and a shield change in one item: composite)
+ref/arc-gunslinger/bolt-ace	Weapon proficiencies		Advanced Class Guide	94	the corpus entry has the Crossbow Maven paragraph (Alters: Weapon proficiencies), which is second-printing errata of Advanced Class Guide p. 94; the PDF copy read is the first printing (August 2014) and has no such paragraph on p. 94
+ref/arc-inquisitor/exarch	Spellcasting		Advanced Race Guide	13	print: Spells: exarchs cannot cast spells with the chaotic descriptor (a change to the inquisitor's spellcasting)
+ref/arc-inquisitor/keeper-of-the-current	Spellcasting		Blood of the Sea	24	print: 'This ability alters the inquisitor's spellcasting'
+ref/arc-medium/rivethun-spirit-channeler	Spellcasting		Haunted Heroes Handbook	21	print: 'This alters the medium's spellcasting'
+ref/arc-wizard/pact-wizard-hhh	Spellcasting		Haunted Heroes Handbook	20	print: 'This alters the wizard's spellcasting'

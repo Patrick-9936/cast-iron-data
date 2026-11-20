@@ -20,7 +20,7 @@ trades = [
   { replaces = "Divine health", feature = "divine-health" },
   { replaces = "Mercy", feature = "mercy" },
   { replaces = "Divine bond", feature = "divine-bond" },
-  { alters = "Armor proficiency" },
+  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies", power = "armor" },
 ]
 +++
 

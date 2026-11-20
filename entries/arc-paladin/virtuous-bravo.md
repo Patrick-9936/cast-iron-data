@@ -18,10 +18,10 @@ page = "12"
 kind = "archetype"
 trades = [
   { replaces = "Mercy", feature = "mercy" },
-  { replaces = "Spellcasting" },
+  { replaces = "Spellcasting", feature = "spells" },
   { replaces = "Aura of justice", feature = "aura-of-justice" },
   { replaces = "Holy champion", feature = "holy-champion" },
-  { alters = "Armor proficiency" },
+  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "Smite evil", feature = "smite-evil" },
 ]
 +++

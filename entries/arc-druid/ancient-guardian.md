@@ -23,7 +23,7 @@ trades = [
   { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
   { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
   { replaces = "A thousand faces", feature = "a-thousand-faces" },
-  { alters = "Weapon proficiencies" },
+  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { alters = "Nature bond", feature = "nature-bond" },
 ]
 +++

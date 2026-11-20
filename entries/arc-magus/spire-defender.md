@@ -17,8 +17,8 @@ page = "39"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Weapon proficiencies" },
-  { replaces = "Armor proficiencies" },
+  { replaces = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies", power = "weapons" },
+  { replaces = "Armor proficiencies", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { replaces = "Spell recall", feature = "spell-recall" },
 ]
 +++

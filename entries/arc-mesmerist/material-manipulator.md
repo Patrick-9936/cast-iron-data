@@ -22,7 +22,7 @@ trades = [
   { replaces = "manifold tricks", feature = "manifold-tricks" },
   { replaces = "Touch treatment", feature = "touch-treatment" },
   { replaces = "rule minds", feature = "rule-minds" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

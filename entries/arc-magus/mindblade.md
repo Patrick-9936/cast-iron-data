@@ -17,7 +17,7 @@ page = "121"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Spellcasting" },
+  { replaces = "Spellcasting", feature = "spells" },
   { replaces = "Arcane pool", feature = "arcane-pool" },
   { replaces = "Spell recall", feature = "spell-recall" },
   { replaces = "knowledge pool", feature = "knowledge-pool" },

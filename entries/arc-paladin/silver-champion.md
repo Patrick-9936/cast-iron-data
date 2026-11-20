@@ -23,7 +23,7 @@ trades = [
   { replaces = "aura of righteousness", feature = "aura-of-righteousness" },
   { alters = "Smite evil", feature = "smite-evil" },
   { alters = "mercy", feature = "mercy" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 

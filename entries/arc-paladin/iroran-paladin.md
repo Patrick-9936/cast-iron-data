@@ -17,9 +17,9 @@ page = "39"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency with medium armor" },
-  { replaces = "heavy armor" },
-  { replaces = "and shields" },
+  { replaces = "Proficiency with medium armor", feature = "weapon-and-armor-proficiencies", power = "medium armor" },
+  { replaces = "heavy armor", feature = "weapon-and-armor-proficiencies", power = "heavy armor" },
+  { replaces = "and shields", feature = "weapon-and-armor-proficiencies", power = "shields" },
   { replaces = "Aura of good", feature = "aura-of-good" },
   { replaces = "Detect evil", feature = "detect-evil" },
   { replaces = "Smite evil", feature = "smite-evil" },

@@ -18,7 +18,7 @@ page = "17"
 kind = "archetype"
 trades = [
   { replaces = "Order", feature = "order" },
-  { alters = "The cavalier's weapon proficiencies" },
+  { alters = "The cavalier's weapon proficiencies", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { alters = "Mount", feature = "mount" },
 ]
 +++

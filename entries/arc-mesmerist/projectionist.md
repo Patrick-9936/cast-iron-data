@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Mesmerist tricks gained at 4th and 8th levels", feature = "mesmerist-tricks", levels = [4, 8] },
   { replaces = "Mental potency", feature = "mental-potency" },
-  { alters = "Spellcasting" },
+  { alters = "Spellcasting", feature = "spells" },
 ]
 +++
 
