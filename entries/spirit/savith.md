@@ -14,8 +14,8 @@ page = "11"
 kind = "class_option"
 group = "medium-spirit"
 trades = [
-  { alters = "Champion's prowess" },
-  { alters = "Legendary champion" },
+  { alters = "Champion's prowess", feature = "spirit", power = "Champion's prowess" },
+  { alters = "Legendary champion", feature = "spirit", power = "Legendary champion" },
 ]
 +++
 

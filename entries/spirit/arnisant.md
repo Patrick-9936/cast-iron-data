@@ -14,7 +14,7 @@ page = "10"
 kind = "class_option"
 group = "medium-spirit"
 trades = [
-  { replaces = "Absorb blow" },
+  { replaces = "Absorb blow", feature = "spirit", power = "Absorb blow" },
 ]
 +++
 

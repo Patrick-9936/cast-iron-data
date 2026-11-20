@@ -14,7 +14,7 @@ page = "11"
 kind = "class_option"
 group = "medium-spirit"
 trades = [
-  { replaces = "Decisive strike" },
+  { replaces = "Decisive strike", feature = "spirit", power = "Decisive strike" },
 ]
 +++
 

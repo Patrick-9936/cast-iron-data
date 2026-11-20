@@ -14,7 +14,7 @@ page = "59"
 kind = "class_option"
 group = "medium-spirit"
 trades = [
-  { alters = "Inspiring call" },
+  { alters = "Inspiring call", feature = "spirit", power = "Inspiring call" },
 ]
 +++
 

@@ -28,7 +28,8 @@ Columns of the queue: `id`, `kind`, `trade` (1-based position in the entry's `tr
 `reason` (why the migration left it), `candidates`, `unclaimed_old_anchors`, `subsection`; then the decision:
 `disposition`, `decision` (`code: note`), `feature`, `class`, `levels`, `power`; then the evidence: `book` and
 `page` (where the item is printed; for a variant row, the source of the subsection that prints the line),
-`page_reason` (why there is no page), `print` (what the print check found).
+`page_reason` (why there is no page), `print` (what the print check found), and for a named part of a feature
+`class_hit`, `class_book`, `class_page` (a search hit for the name in the class's own pages: see below).
 
 ## Codes of `resolved` rows
 
@@ -62,3 +63,8 @@ Columns of the queue: `id`, `kind`, `trade` (1-based position in the entry's `tr
 `print` is `page` (the printed name is on the cited page or next to it), `words` (all its words are), `book`
 (in the book, not near the cited page), `none`, or `nobook` (no copy of the book was available). It is a
 search hit on the text of the cited page, not a reading of the trade's scope.
+
+`class_hit` is `hit` when the name of a named part (`power`) occurs in the class's pages of the book that the
+class entry cites (the class's page and the 16 pages after it); `class_book` and `class_page` are then the book
+and the printed page of the first hit. A class option finds its class through its option group. A hit shows
+that the book prints the name in the class's section; it does not show that the feature grants it.

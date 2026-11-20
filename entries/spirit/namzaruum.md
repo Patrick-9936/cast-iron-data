@@ -14,8 +14,8 @@ page = "24"
 kind = "class_option"
 group = "medium-spirit"
 trades = [
-  { replaces = "Decisive strike" },
-  { alters = "Marshal's order" },
+  { replaces = "Decisive strike", feature = "spirit", power = "Decisive strike" },
+  { alters = "Marshal's order", feature = "spirit", power = "Marshal's order" },
 ]
 +++
 

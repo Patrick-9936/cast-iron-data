@@ -14,7 +14,7 @@ page = "10"
 kind = "class_option"
 group = "medium-spirit"
 trades = [
-  { replaces = "Trickster's edge" },
+  { replaces = "Trickster's edge", feature = "spirit", power = "Trickster's edge" },
 ]
 +++
 
