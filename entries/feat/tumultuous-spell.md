@@ -14,7 +14,7 @@ page = "33"
 [fields]
 kind = "feat"
 feat_types = ["Metamagic"]
-benefit = "You can enhance any spell that targets a single creature to become a tumultuous spell. A creature hit by a tumultuous spell (if the spell requires an attack roll) or that fails its saving throw against a tumultuous spell immediately moves 1d4&times;5 feet in a random direction. This movement does not provoke attacks of opportunity. If this movement would force a creature into a solid object or another creature, the movement ends harmlessly just before impact."
+benefit = "You can enhance any spell that targets a single creature to become a tumultuous spell. A creature hit by a tumultuous spell (if the spell requires an attack roll) or that fails its saving throw against a tumultuous spell immediately moves 1d4×5 feet in a random direction. This movement does not provoke attacks of opportunity. If this movement would force a creature into a solid object or another creature, the movement ends harmlessly just before impact."
 +++
 
 ## Tumultuous Spell (Metamagic)

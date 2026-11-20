@@ -14,7 +14,6 @@ page = "29"
 kind = "item"
 category = "Poisons"
 price = "4,000 gp"
-weight = "&mdash;"
 +++
 
 **Price** 4,000 gp; **Weight** —

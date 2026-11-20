@@ -12,7 +12,6 @@ publication = "pathfinder-128-songbird-scion-saboteur"
 [fields]
 kind = "item"
 category = "Relics"
-weight = "&mdash;"
 slot = "ring"
 aura = "strong abjuration"
 caster_level = "11th"

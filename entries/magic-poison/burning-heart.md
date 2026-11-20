@@ -14,7 +14,6 @@ page = "13"
 kind = "item"
 category = "Magic Poisons"
 price = "150 gp"
-weight = "&mdash;"
 aura = "faint evocation"
 caster_level = "1st"
 +++

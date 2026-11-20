@@ -14,7 +14,6 @@ page = "52"
 kind = "item"
 category = "Technological Gear"
 price = "500 gp"
-weight = "&mdash;"
 slot = "none"
 +++
 

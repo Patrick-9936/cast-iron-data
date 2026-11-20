@@ -14,7 +14,6 @@ page = "13"
 kind = "item"
 category = "Necrotoxins"
 price = "450 gp"
-weight = "&mdash;"
 aura = "faint necromancy"
 caster_level = "3rd"
 +++

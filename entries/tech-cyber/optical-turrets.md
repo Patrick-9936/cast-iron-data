@@ -14,7 +14,6 @@ page = "75"
 kind = "item"
 category = "Cybertech"
 price = "6,000 gp"
-weight = "&mdash;"
 slot = "eyes"
 +++
 

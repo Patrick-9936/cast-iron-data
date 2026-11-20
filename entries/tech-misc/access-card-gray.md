@@ -14,7 +14,7 @@ page = "39"
 kind = "item"
 category = "Technological Gear"
 price = "10 gp (black), 360 gp (blue), 3 gp (brown), 90 gp (gray), 160 gp (green), 490 gp (orange), 1,000 gp (prismatic), 250 gp (red), 40 gp (white)"
-weight = "&mdash; (all)"
+weight = "— (all)"
 slot = "none"
 +++
 

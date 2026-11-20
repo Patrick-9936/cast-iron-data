@@ -13,7 +13,6 @@ page = "62"
 [fields]
 kind = "item"
 category = "Technological Artifacts"
-weight = "&mdash;"
 slot = "none"
 +++
 

@@ -16,7 +16,7 @@ page = "159"
 [fields]
 kind = "item"
 category = "Miscellaneous Equipment"
-price = "caster level &times; spell level &times; 10 gp"
+price = "caster level × spell level × 10 gp"
 weight = "-"
 +++
 

@@ -12,7 +12,6 @@ publication = "pathfinder-141-last-watch"
 [fields]
 kind = "item"
 category = "Relics"
-weight = "&mdash;"
 slot = "neck"
 aura = "strong abjuration"
 caster_level = "13th"
