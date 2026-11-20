@@ -37,7 +37,7 @@ table of the base class grants `<label>`); `power` may be `=printed`.
 
 Evidence. The `print` column is a search hit from `trade-review-452-print.py`, not a reading. `evidence` says
 what settles a closed row: `print` (the search found the name on the cited page or next to it), `manual` (a
-reader checked the book page: `trade-evidence-452.tsv` records the printed page, and `fill` copies it) or
+reader checked the book page: `trade-evidence-452.tsv` records the printed page, with the `subsection` of a variant row, and `fill` copies it) or
 `corpus` (no hit and no reading: the entry's own text and the class table settle it, and `evidence_note`
 says why print did not).
 
@@ -478,11 +478,13 @@ def cmd_fill(args):
     manual = {}
     if EVIDENCE.exists():
         for e in read_tsv(EVIDENCE):
-            manual[(e["id"], e["printed"].lower())] = e
+            manual[(e["id"], e["printed"].lower(), e.get("subsection", ""))] = e
     for row in rows:
         new = row.pop("_new", None)
         book, page, why = row.pop("_cite")
-        e = manual.get((row["id"], row["printed"].lower()))
+        e = manual.get((row["id"], row["printed"].lower(), row["subsection"])) or manual.get(
+            (row["id"], row["printed"].lower(), "")
+        )
         if e:
             book, page, why = e["book"], e["page"], ""
             row["evidence"], row["evidence_note"] = "manual", e["note"]
