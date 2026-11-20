@@ -17,11 +17,10 @@ kind = "none"
 While solitary planets are common in our universe, why restrict yourself to one world? Try roughing
 in some other planets in your solar system; such worlds spawn strange beasts and give you entirely
 new campaign settings to explore. In creating these planets, remember that rocky worlds like Earth
-form close to the sun, and gas giants farther out.^[1](ref/rule/other-worlds#footnote-1)^ But that
-doesn't mean you can't have playable worlds all the way out to the system's edge; captured bodies
-like asteroids and planet-sized moons around gas giants make wonderful solid worlds. A full solar
-system lets you play with planetary characteristics that are likely too extreme for your base world,
-such as the following.
+form close to the sun, and gas giants farther out. But that doesn't mean you can't have playable
+worlds all the way out to the system's edge; captured bodies like asteroids and planet-sized moons
+around gas giants make wonderful solid worlds. A full solar system lets you play with planetary
+characteristics that are likely too extreme for your base world, such as the following.
 
 **Tidal Lock:** A tidal lock is when a celestial body keeps the same side facing another body, such
 as Earth's moon with its visible face and mysterious "dark side." If a planet always kept its same
@@ -55,8 +54,3 @@ residents treat the worlds it passes near, knowing they'll never be back this wa
 while your primary planet hasn't been affected, its neighbors are suffering. This might mean a
 society falling into anarchy as reduced light cripples its agriculture, or a race for escape as the
 red-giant sun reaches out to consume nearby worlds.
-
-###### ^1^ {#footnote-1}
-
-This generalization has come into question as more and more exoplanets (planets around other stars)
-have been discovered, but it's still a useful starting point.

@@ -105,9 +105,4 @@ propulsion and must rely on current or muscle propulsion only.
 | --- | --- | --- | --- |
 |Oars|12|10 per oar|5|
 |Sails|6|4 per 5-ft. square|0|
-|Magically treated^[1](ref/rule/propulsion-and-sailing-skills#footnote-t)^|—|×2|×2|
-
-###### ^1^ {#footnote-t}
-
-More information on magically treated means of propulsion can be found in the
-[Ship Modifications](ref/rule/ship-modifications) section.
+|Magically treated|—|×2|×2|

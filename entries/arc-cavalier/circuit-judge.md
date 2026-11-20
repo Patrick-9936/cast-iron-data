@@ -86,8 +86,3 @@ _sentence._
 **Gained:** At 12th Level
 
 **Replaces:** Demanding challenge
-
-^1^ The original text starts this ability with "Once per day as a swift action..." but later
-contradicts itself by saying "The circuit judge can use this ability twice per day at 1st level,
-plus..." This app takes the position that the second line overrides the first line. As always,
-consult your GM.

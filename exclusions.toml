@@ -51803,6 +51803,461 @@ path = "json/spells14.json#minor_creation"
 records = 0
 reason = """1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #116). Entry ref/spell/minor-creation, marker 1, anchor footnote-r: the note belongs to major creation; this entry has no table or text that carries marker 1. Text: "Includes adamantine, alchemical silver, and mithral. You can't use major creation to create a cold i". No record is left out."""
 
+[[excluded]]
+path = "json/class_abilities.json#bloodline_mutations"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/ability/bloodline-mutations, line 40. Text: "**Note:** The original text says this ability peaks at 4 times per day at 18th level, but the progre". No record is left out.'
+
+[[excluded]]
+path = "json/class_abilities.json#combat_styles"
+records = 0
+reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/ability/combat-styles, line 399. Text: "^8^ If the ranger chooses Combat Expertise, he counts as having 13 Intelligence for the purpose of s". No record is left out.'
+
+[[excluded]]
+path = "json/class_abilities.json#combat_styles"
+records = 0
+reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/ability/combat-styles, line 404. Text: "^10^ The ranger must have Dolphin Style to select Dolphin Dart, and must have Shark Style to select ". No record is left out.'
+
+[[excluded]]
+path = "json/class_abilities.json#combat_styles"
+records = 0
+reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/ability/combat-styles, line 407. Text: "^11^ The ranger must have Dolphin Style and Dolphin Dart to select Dolphin Circle, and must have Sha". No record is left out.'
+
+[[excluded]]
+path = "json/class_abilities6.json#improved_familiars"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 4, anchor footnote-c. Text: "A clockwork familiar needs crafting; see monster entry". No record is left out.'
+
+[[excluded]]
+path = "json/class_abilities6.json#improved_familiars"
+records = 0
+reason = """1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 3, anchor footnote-e. Text: "The spellcaster's alignment **must** match this eactly, instead of being within one step of the fami". No record is left out."""
+
+[[excluded]]
+path = "json/class_abilities6.json#improved_familiars"
+records = 0
+reason = """1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 6, anchor footnote-n. Text: "The spellcaster's alignment **must** be True Neutral, or the spellcaster must be a duskwalker with t". No record is left out."""
+
+[[excluded]]
+path = "json/class_abilities6.json#improved_familiars"
+records = 0
+reason = """1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 2, anchor footnote-p. Text: "The pyrausta's heart spark glows slightly less brightly, but more steadily. This removes its fast he". No record is left out."""
+
+[[excluded]]
+path = "json/class_abilities6.json#improved_familiars"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 1, anchor footnote-t. Text: "This may be replaced with any other animal from the standard familiar list, with the appropriate tem". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_cavalier.json#circuit_judge"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/arc-cavalier/circuit-judge, line 69. Text: "^1^ The original text starts this ability with "Once per day as a swift action..." but later contrad". No record is left out.'
+
+[[excluded]]
+path = "json/archetypes_inquisitor.json#ravener_hunter"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/arc-inquisitor/ravener-hunter, line 60. Text: "^1^ Edited; the original text reads: "She cannot cast **2** with the chaotic..."". No record is left out.'
+
+[[excluded]]
+path = "json/class_ability_discoveries.json#flesh_eating_bomb"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/discovery/flesh-eating-bomb, line 15. Text: "**Note:** Despite what the text seems to indicate, _concussive bombs_ and _flesh-eating bombs_ canno". No record is left out.'
+
+[[excluded]]
+path = "json/class_ability_discoveries.json#subsumed_spirit"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/discovery/subsumed-spirit, line 22. Text: "**Note:** This discovery was presented in a section on the Derro who have a special ability called *". No record is left out.'
+
+[[excluded]]
+path = "json/drugs.json#midnight_milk"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/drug/midnight-milk, marker 1, anchor footnote-d. Text: "_Dream lenses_ are artifacts mentioned in _Lost Cities of Golarion_ but not given any statistics. Th". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc.json#camel"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/eq-misc/camel, line 16. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#goat"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/eq-misc/goat, line 20. Text: "Mindspin Mountain Goats use the stats of rams and do not have published prices. They have been place". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#horse"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/eq-misc/horse, line 38. Text: "These specific breeds do not have published prices. Consult your GM if you wish to buy one.". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc2.json#horse"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/eq-misc/horse, line 66. Text: "Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any publishe". No record is left out.'
+
+[[excluded]]
+path = "json/equipment_misc4.json#pig"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/eq-misc/pig, line 22. Text: "Warthogs use the stats of boars and do not have published prices. They have been placed in the "pig"". No record is left out.'
+
+[[excluded]]
+path = "json/faiths4.json#gozreh"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/faith/gozreh, marker 2, anchor footnote-w. Text: "This is an aquatic variant that may also be used to communicate with underwater creatures in additio". No record is left out.'
+
+[[excluded]]
+path = "json/faiths4.json#iapholi"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/faith/iapholi, marker 1, anchor footnote-m. Text: "Can only be used to assume the form of a magical beast.". No record is left out.'
+
+[[excluded]]
+path = "json/faiths9.json#ydersius"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/faith/ydersius, marker 2, anchor footnote-s. Text: "Can only be used to take the form of a snake or serpent.". No record is left out.'
+
+[[excluded]]
+path = "json/class_ability_kinetic_talents.json#venom_speaker"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/kinetic/venom-speaker, marker 1, anchor footnote-n. Text: "The investigator has no "Swift Poisoner" ability, but _does_ have a "Swift Alchemy" ability that all". No record is left out.'
+
+[[excluded]]
+path = "json/magic_infused_poisons.json#liquid_influence"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/magic-poison/liquid-influence, marker 1, anchor footnote-c. Text: "What "compulsion" means here is not defined. Given that the requirements list the _suggestion_ spell". No record is left out.'
+
+[[excluded]]
+path = "json/class_ability_bardic_masterpieces.json#lingering_leitmotif"
+records = 0
+reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/masterpiece/lingering-leitmotif, line 32. Text: "† _The original source refers to an "inspire confidence" performance, which does not exist. Presumab". No record is left out.'
+
+[[excluded]]
+path = "json/class_ability_bardic_masterpieces.json#the_requiem_of_the_fallen_priest_king"
+records = 0
+reason = """1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/masterpiece/the-requiem-of-the-fallen-priest-king, line 39. Text: "† _The original text says this would cost 11 rounds, but that math doesn't seem right. Five rounds (". No record is left out."""
+
+[[excluded]]
+path = "json/misc.json#spell_completion"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/misc/spell-completion, marker 1, anchor footnote-m. Text: "This is explained in the scrolls section.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_basics01.json#age"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/age, marker 5, anchor footnote-e. Text: "Errata was published that changed how aasimars, tieflings and dhampirs aged, but it seems incomplete". No record is left out.'
+
+[[excluded]]
+path = "json/rules_basics01.json#age"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: compiled. Entry ref/rule/age, marker 1, anchor footnote-i. Text: "Includes the barbarian, oracle, rogue, and sorcerer.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_basics01.json#age"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/age, marker 4, anchor footnote-o. Text: "Classes not listed above have not officially been given a specific group. The following is a suggest". No record is left out.'
+
+[[excluded]]
+path = "json/rules_basics01.json#age"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: compiled. Entry ref/rule/age, marker 2, anchor footnote-s. Text: "Includes the bard, cavalier, fighter, gunslinger, paladin, ranger, summoner, and witch.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_basics01.json#age"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: compiled. Entry ref/rule/age, marker 3, anchor footnote-t. Text: "Includes the alchemist, cleric, druid, inquisitor, magus, monk, and wizard.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_opt_skills01.json#bestiary_errata"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/rule/bestiary-errata, marker 1, anchor footnote-1. Text: "Creatures who already possess Dodge and Spring Attack may instead choose Whirlwind Attack.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_opt_skills01.json#bestiary_errata"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/rule/bestiary-errata, marker 2, anchor footnote-2. Text: "Creatures who already possess Catch Off-Guard may instead choose Improved Weapon Mastery.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_pc01.json#charters"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/charters, marker 1, anchor footnote-c. Text: "No such feat was presented in the sourcebook.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_combat01.json#conditions"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/rule/conditions, line 18. Text: "_Note: The condition groups above are not official terms from the rules. They were created for this ". No record is left out.'
+
+[[excluded]]
+path = "json/rules_campaign_types10.json#control_devices"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/rule/control-devices, marker 2, anchor footnote-m. Text: "More information on magically treated control devices can be found in Ship Modifications.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_campaign_types10.json#control_devices"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/rule/control-devices, marker 1, anchor footnote-o. Text: "Oars gain the broken condition if at least half the oars on a ship are destroyed.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_opt_skills01.json#deft_maneuvers"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/deft-maneuvers, marker 1, anchor footnote-1. Text: "The orignal blog post also applied this to dirty trick, reposition, and steal maneuvers.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_opt_skills01.json#elephant_overview"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/elephant-overview, marker 1, anchor footnote-1. Text: "The orignal blog post also removed the Improved Dirty Trick, Improved Drag, Improved Reposition, Imp". No record is left out.'
+
+[[excluded]]
+path = "json/rules_campaign_types08.json#harrowing_plot_twists"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/harrowing-plot-twists, marker 1, anchor footnote-p. Text: "A separate product produced by Paizo.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_pc01.json#inheritance"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: compiled. Entry ref/rule/inheritance, marker 1, anchor footnote-1. Text: "Traits can allow for some masterwork heirlooms to become feasible, such as Ancestral Weapon, Ancesto". No record is left out.'
+
+[[excluded]]
+path = "json/rules_gm01.json#one_shot_games"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/one-shot-games, marker 1, anchor footnote-m. Text: "Wikipedia: MacGuffin". No record is left out.'
+
+[[excluded]]
+path = "json/rules_gm04.json#other_worlds"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/other-worlds, marker 1, anchor footnote-1. Text: "This generalization has come into question as more and more exoplanets (planets around other stars) ". No record is left out.'
+
+[[excluded]]
+path = "json/rules_opt_skills01.json#powerful_maneuvers"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/powerful-maneuvers, marker 1, anchor footnote-1. Text: "The original blog post also said this could be used for the drag maneuver.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_campaign_types10.json#propulsion_and_sailing_skills"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/rule/propulsion-and-sailing-skills, marker 1, anchor footnote-t. Text: "More information on magically treated means of propulsion can be found in the Ship Modifications sec". No record is left out.'
+
+[[excluded]]
+path = "json/rules_gm03.json#random_item_generators"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/random-item-generators, marker 2, anchor footnote-2. Text: "The original table appears in the Pathfinder RPG Core Rulebook. The items on the table can be found ". No record is left out.'
+
+[[excluded]]
+path = "json/rules_gm08.json#slimes_molds_and_fungi"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/slimes-molds-and-fungi, marker 1, anchor footnote-s. Text: "This contradicts the text from the Bestiary, where sunlight merely renders the mold dormant. There i". No record is left out.'
+
+[[excluded]]
+path = "json/rules_gm07.json#stat_block"
+records = 0
+reason = """1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/stat-block, marker 1, anchor footnote-b. Text: "Example of a bonus feat's footnote.". No record is left out."""
+
+[[excluded]]
+path = "json/rules_gm03.json#story_items"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/story-items, marker 1, anchor footnote-m. Text: "Wikipedia: MacGuffin". No record is left out.'
+
+[[excluded]]
+path = "json/rules_gm05.json#tavern_toolbox"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/rule/tavern-toolbox, line 6. Text: "> _Side note: The developer of this app also created Writing Quirks which has a Tavern name > genera". No record is left out.'
+
+[[excluded]]
+path = "json/rules_opt_skills01.json#the_elephant_in_the_room"
+records = 0
+reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/rule/the-elephant-in-the-room, line 30. Text: "^1^ This is verbatim from the source. *Pf Data 1e* has no connection to the authors.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_f"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-f, marker 2, anchor footnote-m. Text: "Refer to Type E, masterwork armor and weapons". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_f"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-f, marker 3, anchor footnote-o. Text: "Refer to Type E, armor and shields". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_f"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-f, marker 1, anchor footnote-p. Text: "Refer to Type D, potions and oils". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_f"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-f, marker 4, anchor footnote-x. Text: "Refer to Type E, weapons". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_g"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-g, marker 7, anchor footnote-d. Text: "Refer to Type G, rods". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_g"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-g, marker 5, anchor footnote-i. Text: "Refer to Type F, wondrous items". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_g"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-g, marker 4, anchor footnote-m. Text: "Refer to Type E, masterwork weapons". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_g"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-g, marker 9, anchor footnote-o. Text: "Refer to Type E, armor and shields". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_g"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-g, marker 1, anchor footnote-p. Text: "Refer to Type D, potions and oils". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_g"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-g, marker 6, anchor footnote-r. Text: "Refer to Type F, rings". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_g"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-g, marker 2, anchor footnote-s. Text: "Refer to Type D, scrolls". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_g"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-g, marker 3, anchor footnote-w. Text: "Refer to Type D, wands". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_g"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-g, marker 8, anchor footnote-x. Text: "Refer to Type E, weapons". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 10, anchor footnote-d. Text: "Refer to Type G, rods". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 4, anchor footnote-g. Text: "Refer to Type B, generating gemstones". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 9, anchor footnote-i. Text: "Refer to Type F, wondrous items". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 1, anchor footnote-m. Text: "Refer to Type E, masterwork armor and weapons". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 6, anchor footnote-o. Text: "Refer to Type E, armor and shields". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 2, anchor footnote-p. Text: "Refer to Type D, potions and oils". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 7, anchor footnote-r. Text: "Refer to Type F, rings". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 3, anchor footnote-s. Text: "Refer to Type D, scrolls". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 11, anchor footnote-v. Text: "Refer to Type G, staves". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 5, anchor footnote-w. Text: "Refer to Type D, wands". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_h"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-h, marker 8, anchor footnote-x. Text: "Refer to Type E, weapons". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 4, anchor footnote-a. Text: "Refer to Type C, art objects". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 10, anchor footnote-d. Text: "Refer to Type G, rods". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 3, anchor footnote-g. Text: "Refer to Type B, generating gemstones". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 6, anchor footnote-i. Text: "Refer to Type F, wondrous items". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 1, anchor footnote-o. Text: "Refer to Type E, armor and shields". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 9, anchor footnote-p. Text: "Refer to Type D, potions and oils". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 8, anchor footnote-r. Text: "Refer to Type F, rings". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 7, anchor footnote-s. Text: "Refer to Type D, scrolls". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 11, anchor footnote-v. Text: "Refer to Type G, staves". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 2, anchor footnote-w. Text: "Refer to Type D, wands". No record is left out.'
+
+[[excluded]]
+path = "json/rules_adv_gm07.json#type_i"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/type-i, marker 5, anchor footnote-x. Text: "Refer to Type E, weapons". No record is left out.'
+
+[[excluded]]
+path = "json/rules_gm08.json#underwater_combat"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/underwater-combat, marker 1, anchor footnote-5. Text: "_Aquatic Adventures_ introduces a rule that negates cover when using piercing weapons, citing spearf". No record is left out.'
+
+[[excluded]]
+path = "json/rules_basics02.json#using_items"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/rule/using-items, marker 1, anchor footnote-m. Text: "This is explained in the scrolls section.". No record is left out.'
+
+[[excluded]]
+path = "json/rules_basics02.json#wealth_and_money"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: compiled. Entry ref/rule/wealth-and-money, marker 1, anchor footnote-u. Text: "The Unchained version of this class has the same starting gold.". No record is left out.'
+
+[[excluded]]
+path = "json/monster_template3.json#lycanthropic_creature"
+records = 0
+reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/template/lycanthropic-creature, marker 1, anchor footnote-l. Text: "This ability can be found in the lycanthrope template.". No record is left out.'
+
 [[rejected]]
 path = "json/archetypes_barbarian.json#totem_warrior"
 reason = "converter native exclusion (ref/arc-barbarian/totem-warrior): json/archetypes_barbarian.json#totem_warrior uses compileFrom; recipe expansion is not implemented"

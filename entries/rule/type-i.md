@@ -24,62 +24,18 @@ specific table used is specified by the reward.
 
 |Value|Reward|
 | --- | --- |
-|5,000 gp|4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, lesser minor armor^[1](ref/rule/type-i#footnote-o)^, greater minor wand^[2](ref/rule/type-i#footnote-w)^, five grade 3 gemstones^[3](ref/rule/type-i#footnote-g)^, grade 3 art object^[4](ref/rule/type-i#footnote-a)^|
-|10,000 gp|4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, greater minor armor^[1](ref/rule/type-i#footnote-o)^, lesser minor weapon^[5](ref/rule/type-i#footnote-x)^, lesser minor wondrous item^[6](ref/rule/type-i#footnote-i)^, greater medium scroll^[7](ref/rule/type-i#footnote-s)^, grade 4 gemstone^[3](ref/rule/type-i#footnote-g)^, grade 3 art object^[4](ref/rule/type-i#footnote-a)^|
-|15,000 gp|2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, greater minor ring^[8](ref/rule/type-i#footnote-r)^, two lesser minor wondrous items^[6](ref/rule/type-i#footnote-i)^, two greater medium potions^[9](ref/rule/type-i#footnote-p)^, greater minor wand^[2](ref/rule/type-i#footnote-w)^, grade 4 gemstone^[3](ref/rule/type-i#footnote-g)^, grade 3 art object^[4](ref/rule/type-i#footnote-a)^|
-|20,000 gp|2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, greater minor armor^[1](ref/rule/type-i#footnote-o)^, lesser medium rod^[10](ref/rule/type-i#footnote-d)^, greater minor wondrous item^[6](ref/rule/type-i#footnote-i)^, two lesser major potions^[9](ref/rule/type-i#footnote-p)^, greater medium scroll^[7](ref/rule/type-i#footnote-s)^, three grade 3 art objects^[4](ref/rule/type-i#footnote-a)^|
-|25,000 gp|2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, lesser medium staff^[11](ref/rule/type-i#footnote-v)^, two lesser minor wondrous items^[6](ref/rule/type-i#footnote-i)^, greater medium potion^[9](ref/rule/type-i#footnote-p)^, lesser medium wand^[2](ref/rule/type-i#footnote-w)^, two grade 2 gemstones, two grade 3 gemstones, grade 4 gemstone^[3](ref/rule/type-i#footnote-g)^|
-|30,000 gp|2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, lesser medium armor^[1](ref/rule/type-i#footnote-o)^, greater minor weapon^[5](ref/rule/type-i#footnote-x)^, lesser medium wondrous item^[6](ref/rule/type-i#footnote-i)^, two lesser major scrolls^[7](ref/rule/type-i#footnote-s)^, grade 4 art object^[4](ref/rule/type-i#footnote-a)^|
-|40,000 gp|4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, lesser medium weapon^[5](ref/rule/type-i#footnote-x)^, greater medium rod^[10](ref/rule/type-i#footnote-d)^, greater major potion^[9](ref/rule/type-i#footnote-p)^, greater medium scroll^[7](ref/rule/type-i#footnote-s)^, lesser medium wand^[2](ref/rule/type-i#footnote-w)^, three grade 3 art objects, two grade 4 art objects^[4](ref/rule/type-i#footnote-a)^|
-|50,000 gp|4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d4 × 10 pp, greater minor armor^[1](ref/rule/type-i#footnote-o)^, two greater minor weapons^[5](ref/rule/type-i#footnote-x)^, greater medium staff^[11](ref/rule/type-i#footnote-v)^, greater minor wondrous item^[6](ref/rule/type-i#footnote-i)^, grade 5 gemstone^[3](ref/rule/type-i#footnote-g)^|
-|60,000 gp|2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, greater medium weapon^[5](ref/rule/type-i#footnote-x)^, greater medium rod^[10](ref/rule/type-i#footnote-d)^, lesser medium wondrous item^[6](ref/rule/type-i#footnote-i)^, greater major scroll^[7](ref/rule/type-i#footnote-s)^, two greater minor wands^[2](ref/rule/type-i#footnote-w)^, grade 4 gemstone^[3](ref/rule/type-i#footnote-g)^, five grade 2 art objects^[4](ref/rule/type-i#footnote-a)^|
-|75,000 gp|2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, lesser major armor^[1](ref/rule/type-i#footnote-o)^, greater medium ring^[8](ref/rule/type-i#footnote-r)^, lesser medium staff^[11](ref/rule/type-i#footnote-v)^, greater medium wand^[2](ref/rule/type-i#footnote-w)^, grade 6 gemstone^[3](ref/rule/type-i#footnote-g)^, grade 4 art object^[4](ref/rule/type-i#footnote-a)^|
-|100,000 gp|2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, lesser medium weapon^[5](ref/rule/type-i#footnote-x)^, greater medium ring^[8](ref/rule/type-i#footnote-r)^, lesser major rod^[10](ref/rule/type-i#footnote-d)^, greater medium wondrous item^[6](ref/rule/type-i#footnote-i)^, two greater major potions^[9](ref/rule/type-i#footnote-p)^, lesser medium scroll^[7](ref/rule/type-i#footnote-s)^, two grade 4 art objects^[4](ref/rule/type-i#footnote-a)^|
-|125,000 gp|4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater major armor^[1](ref/rule/type-i#footnote-o)^, lesser medium weapon^[5](ref/rule/type-i#footnote-x)^, lesser major staff^[11](ref/rule/type-i#footnote-v)^, two greater major scrolls^[7](ref/rule/type-i#footnote-s)^, greater major wand^[2](ref/rule/type-i#footnote-w)^, grade 6 gemstone^[3](ref/rule/type-i#footnote-g)^, three grade 4 art objects^[4](ref/rule/type-i#footnote-a)^|
-|150,000 gp|4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater medium armor^[1](ref/rule/type-i#footnote-o)^, lesser major ring^[8](ref/rule/type-i#footnote-r)^, greater major wondrous item^[6](ref/rule/type-i#footnote-i)^, greater major wand^[2](ref/rule/type-i#footnote-w)^|
-|200,000 gp|4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater major weapon^[5](ref/rule/type-i#footnote-x)^, two lesser medium rings^[8](ref/rule/type-i#footnote-r)^, lesser major staff^[11](ref/rule/type-i#footnote-v)^, lesser major wondrous item^[6](ref/rule/type-i#footnote-i)^, lesser major wand^[2](ref/rule/type-i#footnote-w)^, three grade 5 gemstones, grade 4 gemstone^[3](ref/rule/type-i#footnote-g)^|
-|300,000 gp|8d4 × 10,000 cp, 12d6 × 1,000 sp, 8d4 × 100 gp, 2d8 × 10 pp, greater major weapon^[5](ref/rule/type-i#footnote-x)^, lesser major ring^[8](ref/rule/type-i#footnote-r)^, greater major staff^[11](ref/rule/type-i#footnote-v)^, greater major wondrous item^[6](ref/rule/type-i#footnote-i)^, greater medium wand^[2](ref/rule/type-i#footnote-w)^, grade 6 gemstone^[3](ref/rule/type-i#footnote-g)^, grade 6 art object^[4](ref/rule/type-i#footnote-a)^|
-
-###### ^9^ {#footnote-p}
-
-Refer to [Type D, potions and oils](ref/rule/type-d-potions-and-oils)
-
-###### ^7^ {#footnote-s}
-
-Refer to [Type D, scrolls](ref/rule/type-d-scrolls)
-
-###### ^2^ {#footnote-w}
-
-Refer to [Type D, wands](ref/rule/type-d-wands)
-
-###### ^4^ {#footnote-a}
-
-Refer to [Type C, art objects](ref/rule/type-c)
-
-###### ^3^ {#footnote-g}
-
-Refer to [Type B, generating gemstones](ref/rule/generating-gemstones)
-
-###### ^5^ {#footnote-x}
-
-Refer to [Type E, weapons](ref/rule/type-e-weapons)
-
-###### ^1^ {#footnote-o}
-
-Refer to [Type E, armor and shields](ref/rule/type-e-armor)
-
-###### ^6^ {#footnote-i}
-
-Refer to [Type F, wondrous items](ref/rule/type-f-wondrous-items)
-
-###### ^8^ {#footnote-r}
-
-Refer to [Type F, rings](ref/rule/type-f-rings)
-
-###### ^10^ {#footnote-d}
-
-Refer to [Type G, rods](ref/rule/type-g-rods)
-
-###### ^11^ {#footnote-v}
-
-Refer to [Type G, staves](ref/rule/type-g-staves)
+|5,000 gp|4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, lesser minor armor, greater minor wand, five grade 3 gemstones, grade 3 art object|
+|10,000 gp|4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, greater minor armor, lesser minor weapon, lesser minor wondrous item, greater medium scroll, grade 4 gemstone, grade 3 art object|
+|15,000 gp|2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, greater minor ring, two lesser minor wondrous items, two greater medium potions, greater minor wand, grade 4 gemstone, grade 3 art object|
+|20,000 gp|2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, greater minor armor, lesser medium rod, greater minor wondrous item, two lesser major potions, greater medium scroll, three grade 3 art objects|
+|25,000 gp|2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, lesser medium staff, two lesser minor wondrous items, greater medium potion, lesser medium wand, two grade 2 gemstones, two grade 3 gemstones, grade 4 gemstone|
+|30,000 gp|2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, lesser medium armor, greater minor weapon, lesser medium wondrous item, two lesser major scrolls, grade 4 art object|
+|40,000 gp|4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, lesser medium weapon, greater medium rod, greater major potion, greater medium scroll, lesser medium wand, three grade 3 art objects, two grade 4 art objects|
+|50,000 gp|4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d4 × 10 pp, greater minor armor, two greater minor weapons, greater medium staff, greater minor wondrous item, grade 5 gemstone|
+|60,000 gp|2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, greater medium weapon, greater medium rod, lesser medium wondrous item, greater major scroll, two greater minor wands, grade 4 gemstone, five grade 2 art objects|
+|75,000 gp|2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, lesser major armor, greater medium ring, lesser medium staff, greater medium wand, grade 6 gemstone, grade 4 art object|
+|100,000 gp|2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, lesser medium weapon, greater medium ring, lesser major rod, greater medium wondrous item, two greater major potions, lesser medium scroll, two grade 4 art objects|
+|125,000 gp|4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater major armor, lesser medium weapon, lesser major staff, two greater major scrolls, greater major wand, grade 6 gemstone, three grade 4 art objects|
+|150,000 gp|4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater medium armor, lesser major ring, greater major wondrous item, greater major wand|
+|200,000 gp|4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater major weapon, two lesser medium rings, lesser major staff, lesser major wondrous item, lesser major wand, three grade 5 gemstones, grade 4 gemstone|
+|300,000 gp|8d4 × 10,000 cp, 12d6 × 1,000 sp, 8d4 × 100 gp, 2d8 × 10 pp, greater major weapon, lesser major ring, greater major staff, greater major wondrous item, greater medium wand, grade 6 gemstone, grade 6 art object|

@@ -29,8 +29,8 @@ opponents on land. Land-bound opponents who have
 [freedom of movement](ref/spell/freedom-of-movement) effects ignore this cover when making melee
 attacks against targets in the water. A completely submerged creature has total cover against
 opponents on land unless those opponents have _[freedom of movement](ref/spell/freedom-of-movement)_
-effects.^[1](ref/rule/underwater-combat#footnote-5)^ Magical effects are unaffected except for those
-that require attack rolls (which are treated like any other effects) and fire effects.
+effects. Magical effects are unaffected except for those that require attack rolls (which are
+treated like any other effects) and fire effects.
 
 **Fire:** Nonmagical fire (including alchemist's fire) does not burn underwater. Spells or
 spell-like effects with the fire descriptor are ineffective underwater unless the caster makes a
@@ -83,9 +83,3 @@ Creatures have firm footing when walking along the bottom, braced against a ship
 like. A creature can only walk along the bottom if it wears or carries enough gear to weigh itself
 down: at least 16 pounds for Medium creatures, twice that for each size category larger than Medium,
 and half that for each size category smaller than Medium.
-
-###### ^1^ {#footnote-5}
-
-_Aquatic Adventures_ introduces a rule that [negates cover](ref/rule/physical-attacks-underwater)
-when using piercing weapons, citing spearfishing and harpooning as reasons. This is entirely
-optional.

@@ -18,9 +18,6 @@ Over the course of a campaign, the PCs might seek solace in a blur of inns and t
 little effort and the help of the following charts full of details, the PCs may soon develop
 essential stopping places and favorite watering holes.
 
-> _Side note: The developer of this app also created Writing Quirks which has a Tavern name
-> generator tool. The app is free, with no ads._
-
 ### Table 7-32: Unique Tavern Traits
 
 |d%|Trait|

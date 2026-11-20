@@ -21,7 +21,7 @@ old your character is.
 
 ### Table 7-1: Random Starting Ages
 
-|Race|Adulthood|Intuitive^[1](ref/rule/age#footnote-i)^|Self-Taught^[2](ref/rule/age#footnote-s)^|Trained^[3](ref/rule/age#footnote-t)^ ^[4](ref/rule/age#footnote-o)^|
+|Race|Adulthood|Intuitive|Self-Taught|Trained|
 | --- | --- | --- | --- | --- |
 |Human|15 years|+1d4|+1d6|+2d6|
 |Dwarf|40 years|+3d6|+5d6|+7d6|
@@ -30,9 +30,9 @@ old your character is.
 |Half-elf|20 years|+1d6|+2d6|+3d6|
 |Half-orc|14 years|+1d4|+1d6|+2d6|
 |Halfling|20 years|+2d4|+3d6|+4d6|
-|Aasimar^[5](ref/rule/age#footnote-e)^|20 years|+4d6|+6d6|+8d6|
+|Aasimar|20 years|+4d6|+6d6|+8d6|
 |Catfolk|15 years|+1d4|+1d6|+2d6|
-|Dhampir^[5](ref/rule/age#footnote-e)^|20 years|+4d6|+6d6|+10d6|
+|Dhampir|20 years|+4d6|+6d6|+10d6|
 |Drow|110 years|+4d6|+6d6|+10d6|
 |Fetchling|20 years|+1d6|+2d6|+3d6|
 |Goblin|12 years|+1d4|+1d6|+2d6|
@@ -44,7 +44,7 @@ old your character is.
 |Ratfolk|12 years|+1d4|+1d6|+2d6|
 |Sylph|60 years|+4d6|+6d6|+8d6|
 |Tengu|15 years|+1d4|+1d6|+2d6|
-|Tiefling^[5](ref/rule/age#footnote-e)^|20 years|+4d6|+6d6|+8d6|
+|Tiefling|20 years|+4d6|+6d6|+8d6|
 |Undine|60 years|+4d6|+6d6|+8d6|
 |Changeling|15 years|+1d4|+1d6|+2d6|
 |Duergar|40 years|+3d6|+5d6|+7d6|
@@ -114,35 +114,6 @@ accidents, infections, or violence before getting to venerable age.
 |Vanara|30 years|45 years|60 years|60 + 2d10 years|
 |Vishkanya|35 years|53 years|70 years|70 + 2d20 years|
 |Wayang|100 years|150 years|200 years|200 + 1d% years|
-
-###### ^1^ {#footnote-i}
-
-Includes the barbarian, oracle, rogue, and sorcerer.
-
-###### ^2^ {#footnote-s}
-
-Includes the bard, cavalier, fighter, gunslinger, paladin, ranger, summoner, and witch.
-
-###### ^3^ {#footnote-t}
-
-Includes the alchemist, cleric, druid, inquisitor, magus, monk, and wizard.
-
-###### ^4^ {#footnote-o}
-
-Classes not listed above have not officially been given a specific group. The following is a
-suggestion: classify Bloodrager, Kineticist and Spiritualist as Intuitive; place Arcanist,
-Investigator, Psychic, Shifter, and Warpriest in Trained; treat all others as Self-Trained. Consult
-your GM.
-
-###### ^5^ {#footnote-e}
-
-Errata was published that changed how aasimars, tieflings and dhampirs aged, but it seems
-incomplete. Originally, these were very long-lived races. The errata changed aging effects (Table
-7-2) to be the same as those of humans, and set the starting ages to 20, but the dice rolls were
-left unchanged. This means that even an average roll of 14 (4d6) for an Intutive class puts these
-races 1 year away from Middle Age, and the maximum 48 (8d6) for a Trained class leaves them two
-years from Venerable! Common house rules either use the human adjustments for these races, or modify
-both tables to be completely in line with either humans or half-elves. Consult your GM.
 
 ###### ^6^ {#footnote-1}
 

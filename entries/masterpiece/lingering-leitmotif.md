@@ -32,7 +32,7 @@ heard it.
 **Details:** You sing or chant simple phrases or a distinctive series of notes that you associate
 with a specific trade good or service. While you perform these jingles, allies within 30 feet are
 affected by this performance's effects and are treated as being affected by your
-[inspire competence](ref/performance/inspire-competence) bardic performance.† Furthermore, if an
+[inspire competence](ref/performance/inspire-competence) bardic performance. Furthermore, if an
 affected creature purchases the associated good or service, that creature immediately gains a number
 of [temporary hit points](ref/rule/temporary-hit-points) equal to half your bard level.
 
@@ -43,6 +43,3 @@ of [temporary hit points](ref/rule/temporary-hit-points) equal to half your bard
 **Action**
 
 **Details:** 1 standard action.
-
-† _The original source refers to an "inspire confidence" performance, which does not exist.
-Presumably, they meant *inspire competence,* which boosts skill checks._

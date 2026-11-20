@@ -23,16 +23,7 @@ device is repaired.
 
 |Control Device|AC|Hit Points|Hardness|
 | --- | --- | --- | --- |
-|Oars^[1](ref/rule/control-devices#footnote-o)^|12|10 per oar|5|
+|Oars|12|10 per oar|5|
 |Steering|wheel 10|25|5|
 |Tiller|10|25|5|
-|Magically treated^[2](ref/rule/control-devices#footnote-m)^|—|×2|×2|
-
-###### ^1^ {#footnote-o}
-
-Oars gain the broken condition if at least half the oars on a ship are destroyed.
-
-###### ^2^ {#footnote-m}
-
-More information on magically treated control devices can be found in
-[Ship Modifications](ref/rule/ship-modifications).
+|Magically treated|—|×2|×2|

@@ -52,9 +52,6 @@ whichever is higher. This otherwise functions as — and does not stack with —
 the spell reduce their energy resistance and [spell resistance](ref/rule/spell-resistance) against
 the spell's effects by an amount equal to your Strength or Charisma modifier, whichever is higher.
 
-**Note:** The original text says this ability peaks at 4 times per day at 18th level, but the
-progression given doesn't reach 4 times per day until 19th level.
-
 **Replaces:** The sorcerer's 9th-level bloodline power or the bloodrager's 4th-level bloodline power
 
 **Usage:** 1 time/day + 1 per 5 sorcerer or bloodrager levels beyond 4th

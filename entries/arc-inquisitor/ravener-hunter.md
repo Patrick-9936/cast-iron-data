@@ -79,5 +79,3 @@ followers of such a deity.
 **Info:** A ravener hunter gains this ability at 6th level instead of 3rd level.
 
 **Gained:** At 6th Level
-
-^1^ Edited; the original text reads: "She cannot cast \*\*2\*\* with the chaotic..."

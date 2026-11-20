@@ -41,7 +41,7 @@ your speed (such as [haste](ref/spell/haste)) or alter time (such as
 listen to it intently (to the exclusion of all other activities) for the duration of the
 performance, and you must expend 1 round of bardic performance for each ally other than yourself
 whom you want to gain the ability to accelerate time (for example, affecting yourself and five
-others requires expending 10† rounds of bardic performance). This is a language-dependent effect.
+others requires expending 10 rounds of bardic performance). This is a language-dependent effect.
 
 **Use**
 
@@ -50,6 +50,3 @@ others requires expending 10† rounds of bardic performance). This is a languag
 **Action**
 
 **Details:** 1 minute.
-
-† _The original text says this would cost 11 rounds, but that math doesn't seem right. Five rounds
-(base time) + one round for each of five allies is 5 + 5 = 10._

@@ -3,6 +3,7 @@
 
     python3 scripts/remove-unattributed-notes.py <corpus-dir>
         [--decisions scripts/unattributed-notes-114.tsv] [--report out.tsv] [--dry-run]
+        [--tickets "phynics/cast-iron-data#109, #114"] [--basis "neither Archives of Nethys nor the PRD carries"]
 
 The editorial footnotes audit (phynics/cast-iron docs/research/editorial-footnotes-audit.md,
 cast-iron-data#109, follow-up tickets 1, 2 and 5) applies the owner's rule of 2026-11-19: a note
@@ -33,6 +34,11 @@ Row actions:
                       suffixes the rest (`footnote-b-2`, the way repeated headings are suffixed).
                       A linked marker follows the heading that has its label.
   skip                Not applied; listed in the report.
+
+`--tickets` and `--basis` fill the reason of each `exclusions.toml` row. The defaults are the
+words of #114. Phynics/cast-iron-data#117 (owner decision of 2026-11-20: a note also stays when the
+printed book carries it) runs it with `--decisions scripts/editorial-footnotes-117.tsv --tickets
+"phynics/cast-iron-data#109, #117" --basis "neither Archives of Nethys, the PRD nor the printed book carries"`.
 
 For each removed or dropped note the script appends one `[[excluded]]` row to `exclusions.toml` with
 `records = 0` (the record ships, only a note on it does not), the record the entry came from,
@@ -205,10 +211,13 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("corpus")
     ap.add_argument("--decisions", default=str(Path(__file__).with_name("unattributed-notes-114.tsv")))
+    ap.add_argument("--tickets", default="phynics/cast-iron-data#109, #114", help="issues named in each exclusions.toml reason")
+    ap.add_argument("--basis", default="neither Archives of Nethys nor the PRD carries", help="why the note goes")
     ap.add_argument("--report")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
     corpus = Path(args.corpus)
+    tickets = args.tickets
 
     rows = defaultdict(list)  # entry id -> rows
     with open(args.decisions, newline="") as f:
@@ -235,8 +244,8 @@ def main():
     def add_exclusion(entry_id, fm, what, cls, label_text, why):
         path = record_path(fm)
         reason = (
-            f"{what} that neither Archives of Nethys nor the PRD carries, removed "
-            f"(phynics/cast-iron-data#109, #114). Kind: {cls}. Entry {entry_id}{why}. "
+            f"{what} that {args.basis}, removed "
+            f"({tickets}). Kind: {cls}. Entry {entry_id}{why}. "
             f"Text: \"{label_text}\". No record is left out."
         )
         return (path, reason)

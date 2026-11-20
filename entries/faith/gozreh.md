@@ -213,18 +213,17 @@ all four types of elemental)\
 > #### Cleric, Oracle, Warpriest
 >
 > - [Whispering Wind](ref/spell/whispering-wind) can be prepared as a 2nd-level spell
->   ^[2](ref/faith/gozreh#footnote-w)^
 >
 > #### Druid
 >
 > - _[Whispering Wind](ref/spell/whispering-wind)_ can be prepared as a 2nd-level spell
->   ^[2](ref/faith/gozreh#footnote-w)^
+>
 > - [Water Walk](ref/spell/water-walk) can be prepared as a 3rd-level spell
 >
 > #### Ranger
 >
 > - _[Whispering Wind](ref/spell/whispering-wind)_ can be prepared as a 2nd-level spell
->   ^[2](ref/faith/gozreh#footnote-w)^
+>
 > - [Create Water](ref/spell/create-water) can be prepared as a 1st-level spell
 > - [Purify Food and Drink](ref/spell/purify-food-and-drink) can be prepared as a 1st-level spell
 >
@@ -295,8 +294,3 @@ Requires the [Acolyte of Apocrypha](ref/trait/acolyte-of-apocrypha) trait.
 This creature is summoned with the [celestial](ref/template/celestial) template if you are good, or
 with the [fiendish](ref/template/fiendish) template if you are evil; you may choose either if you
 are neutral.
-
-###### ^2^ {#footnote-w}
-
-This is an aquatic variant that may also be used to communicate with underwater creatures in
-addition to land.

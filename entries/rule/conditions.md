@@ -29,6 +29,3 @@ most severe effect.
 > **Grapple Conditions** are Grappled and Pinned.
 >
 > The **Sickened Conditions** are Sickened and Nauseated.
-
-_Note: The condition groups above are not official terms from the rules. They were created for this
-app in order to better present the underlying information._

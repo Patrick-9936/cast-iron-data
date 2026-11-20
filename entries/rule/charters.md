@@ -27,9 +27,9 @@ it also codifies practical matters like group standards, tactics, and procedures
 their charter with the local government, exempting them from salvage taxes on treasure and
 mitigating fines for collateral damage to property and buildings. This registration also recognizes
 the name of the chartered group and prevents other groups from taking a name that is too similar.
-Players who opt to take the Chartered Adventuring Company feat^[1](ref/rule/charters#footnote-c)^
-are not required to pay this cost to benefit from the feat, but their charter is not recognized in
-areas that require the fee until it is paid.
+Players who opt to take the Chartered Adventuring Company feat are not required to pay this cost to
+benefit from the feat, but their charter is not recognized in areas that require the fee until it is
+paid.
 
 **Values:** A chartered group should choose a core alignment that encompasses their shared values.
 All members of the group should have an alignment within one step of the group's alignment, though
@@ -79,7 +79,3 @@ she loses a total of 7 prestige points and her colleague gains 6).
 story. If one character takes a story feat, other characters in the charter may choose to take the
 same feat (with GM approval) even if they do not meet its prerequisites. In this case none of the
 characters gain the completion benefit until all the characters qualify for the completion benefit.
-
-###### ^1^ {#footnote-c}
-
-No such feat was presented in the sourcebook.

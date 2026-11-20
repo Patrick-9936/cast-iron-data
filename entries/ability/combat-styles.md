@@ -368,8 +368,8 @@ the list.
 
 **Underhanded**
 
-**At 1st Level:** [Combat Expertise](ref/feat/combat-expertise) (see note^8^),
-[Dodge](ref/feat/dodge), [Improved Dirty Trick](ref/feat/improved-dirty-trick), and
+**At 1st Level:** [Combat Expertise](ref/feat/combat-expertise) (see note), [Dodge](ref/feat/dodge),
+[Improved Dirty Trick](ref/feat/improved-dirty-trick), and
 [Improved Steal](ref/feat/improved-steal).^4-3^
 
 **At 10th Level:** Add [Quick Dirty Trick](ref/feat/quick-dirty-trick) and
@@ -385,10 +385,10 @@ the list.
 [Shark Style](ref/feat/shark-style).^9^
 
 **At 10th Level:** Add [Dolphin Circle](ref/feat/dolphin-circle) and
-[Shark Leap](ref/feat/shark-leap) to the list.^11^
+[Shark Leap](ref/feat/shark-leap) to the list.
 
 **At 6th Level:** Add [Dolphin Dart](ref/feat/dolphin-dart) and [Shark Tear](ref/feat/shark-tear) to
-the list.^10^
+the list.
 
 **Weapon and Shield**
 
@@ -412,13 +412,4 @@ order to select Point-Blank Master.\]\{from=2\} ^\[Advanced Player's Guide pg.
 11^(source/inner\_sea\_combat)\]\{from=6\} ^\[Advanced Class Guide pg.
 118^(source/advanced\_class\_guide)\]\{from=7\}
 
-^8^ If the ranger chooses Combat Expertise, he counts as having 13 Intelligence for the purpose of
-selecting that feat and others that have Combat Expertise as a prerequisite.
-
 ^\[Aquatic Adventures pg. 55^(source/aquatic\_adventures)\]\{from=9\}
-
-^10^ The ranger must have Dolphin Style to select Dolphin Dart, and must have Shark Style to select
-Shark Tear, but otherwise ignores all other prerequisites.
-
-^11^ The ranger must have Dolphin Style and Dolphin Dart to select Dolphin Circle, and must have
-Shark Style and Shark Tear to select Shark Leap, but otherwise ignores all other prerequisites.

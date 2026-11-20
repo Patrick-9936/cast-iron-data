@@ -31,10 +31,3 @@ modifier.
 
 **Special:** Creatures that successfully save can't be affected by this effect for 24 hours. The
 alchemist is immune to its sibling's babbling. This is a sonic, mind-affecting compulsion effect.
-
-**Note:** This discovery was presented in a section on the [Derro](ref/monster/derro) who have a
-special ability called **Madness**, which is referenced by a separate discovery
-([method to the madness](ref/discovery/method-to-the-madness)) in that same section. It is unclear
-if this discovery is supposed to be referring to that ability, rather than "insanity", which is
-possessed by the unrelated [Great Old Ones](ref/subtype/great-old-one) and
-[warped ones](ref/monster/warped-one). Consult your GM if needed.

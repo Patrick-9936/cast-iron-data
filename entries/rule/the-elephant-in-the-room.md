@@ -40,5 +40,3 @@ kind = "none"
 
 You have toggled _Elephant_-related information off on the settings page. You may want to toggle it
 back on to see _Elephant_-related notes and reminders on other pages.
-
-^1^ This is verbatim from the source. \*Pf Data 1e\* has no connection to the authors.

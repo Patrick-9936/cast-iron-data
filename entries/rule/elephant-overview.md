@@ -37,7 +37,7 @@ These feats have been adjusted so that they work very differently from the origi
 |[Shield Focus](ref/feat/shield-focus)|Grants an additional +4 bonus to AC against ranged attacks.|
 |[Two-Weapon Fighting](ref/feat/two-weapon-fighting)|Verbiage changed to reflect the changes to Weapon Finesse.|
 
-### Removed Feats^[1](ref/rule/elephant-overview#footnote-1)^
+### Removed Feats
 
 - [Combat Expertise](ref/feat/combat-expertise)
 - [Deadly Aim](ref/feat/deadly-aim)
@@ -230,9 +230,3 @@ considering how feats not in this list should behave under the _Elephant_ rules.
 - [Vital Strike](ref/feat/vital-strike)
 - [Widen Spell](ref/feat/widen-spell)
 - [Wind Stance](ref/feat/wind-stance)
-
-###### ^1^ {#footnote-1}
-
-The orignal blog post also removed the [Improved Dirty Trick](ref/feat/improved-dirty-trick),
-[Improved Drag](ref/feat/improved-drag), [Improved Reposition](ref/feat/improved-reposition),
-[Improved Steal](ref/feat/improved-steal), and [Martial Mastery](ref/feat/martial-mastery) feats.

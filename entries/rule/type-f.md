@@ -25,45 +25,29 @@ value of some low-level rewards.
 
 |Value|Reward|
 | --- | --- |
-|50 gp|2d4 × 10 sp, 2d4 gp, lesser minor potion^[1](ref/rule/type-f#footnote-p)^|
-|250 gp|2d4 × 10 sp, 2d4 gp, masterwork light armor or shield^[2](ref/rule/type-f#footnote-m)^, lesser minor potion^[1](ref/rule/type-f#footnote-p)^|
-|350 gp|2d4 × 10 sp, 2d4 gp, masterwork medium armor^[2](ref/rule/type-f#footnote-m)^, lesser minor potion^[1](ref/rule/type-f#footnote-p)^|
-|400 gp|2d4 × 10 sp, 2d4 gp, masterwork weapon^[2](ref/rule/type-f#footnote-m)^, lesser minor potion^[1](ref/rule/type-f#footnote-p)^|
-|500 gp|Masterwork weapon^[2](ref/rule/type-f#footnote-m)^, greater minor potion^[1](ref/rule/type-f#footnote-p)^|
-|750 gp|6d6 gp, masterwork medium armor, masterwork weapon^[2](ref/rule/type-f#footnote-m)^, two lesser minor potions^[1](ref/rule/type-f#footnote-p)^|
-|1,000 gp|Masterwork heavy armor^[2](ref/rule/type-f#footnote-m)^|
-|1,500 gp|Masterwork heavy armor, masterwork weapon^[2](ref/rule/type-f#footnote-m)^, greater minor potion^[1](ref/rule/type-f#footnote-p)^|
-|2,000 gp|Lesser minor armor^[3](ref/rule/type-f#footnote-o)^, masterwork weapon^[2](ref/rule/type-f#footnote-m)^, two greater minor potions^[1](ref/rule/type-f#footnote-p)^|
-|3,000 gp|Masterwork medium armor^[2](ref/rule/type-f#footnote-m)^, lesser minor weapon^[4](ref/rule/type-f#footnote-x)^, greater minor potion^[1](ref/rule/type-f#footnote-p)^|
-|4,000 gp|Lesser minor armor^[3](ref/rule/type-f#footnote-o)^, masterwork weapon^[2](ref/rule/type-f#footnote-m)^, lesser minor wondrous item, greater minor potion^[1](ref/rule/type-f#footnote-p)^|
-|5,000 gp|Masterwork medium armor^[2](ref/rule/type-f#footnote-m)^, lesser minor weapon^[4](ref/rule/type-f#footnote-x)^, lesser minor wondrous item, greater minor potion^[1](ref/rule/type-f#footnote-p)^|
-|6,000 gp|Lesser minor armor^[3](ref/rule/type-f#footnote-o)^, lesser minor weapon^[4](ref/rule/type-f#footnote-x)^, lesser minor wondrous item|
-|7,500 gp|Greater minor armor^[3](ref/rule/type-f#footnote-o)^, lesser minor weapon^[4](ref/rule/type-f#footnote-x)^, lesser minor ring|
-|10,000 gp|Greater minor armor^[3](ref/rule/type-f#footnote-o)^, lesser minor weapon^[4](ref/rule/type-f#footnote-x)^, lesser minor ring, lesser minor wondrous item, three greater minor potions^[1](ref/rule/type-f#footnote-p)^|
-|10,000 gp|Greater minor armor^[3](ref/rule/type-f#footnote-o)^, greater minor weapon^[4](ref/rule/type-f#footnote-x)^, two greater medium potions^[1](ref/rule/type-f#footnote-p)^|
-|12,500 gp|Greater minor armor^[3](ref/rule/type-f#footnote-o)^, lesser minor weapon^[4](ref/rule/type-f#footnote-x)^, greater minor wondrous item, two greater medium potions^[1](ref/rule/type-f#footnote-p)^|
-|15,000 gp|Greater minor armor^[3](ref/rule/type-f#footnote-o)^, greater minor weapon^[4](ref/rule/type-f#footnote-x)^, greater minor ring|
-|20,000 gp|Lesser medium armor^[3](ref/rule/type-f#footnote-o)^, greater minor weapon^[4](ref/rule/type-f#footnote-x)^, greater minor wondrous item, two greater medium potions^[1](ref/rule/type-f#footnote-p)^|
-|25,000 gp|Lesser medium armor^[3](ref/rule/type-f#footnote-o)^, lesser medium weapon^[4](ref/rule/type-f#footnote-x)^, lesser minor ring, lesser minor wondrous item, two greater medium potions^[1](ref/rule/type-f#footnote-p)^|
-|30,000 gp|Lesser medium armor^[3](ref/rule/type-f#footnote-o)^, lesser medium weapon^[4](ref/rule/type-f#footnote-x)^, two lesser minor rings, greater minor wondrous items|
-|40,000 gp|Lesser medium armor^[3](ref/rule/type-f#footnote-o)^, lesser medium weapon^[4](ref/rule/type-f#footnote-x)^, lesser medium ring, greater minor wondrous item, two greater medium potions^[1](ref/rule/type-f#footnote-p)^|
-|50,000 gp|Greater medium armor^[3](ref/rule/type-f#footnote-o)^, greater medium weapon^[4](ref/rule/type-f#footnote-x)^, lesser medium wondrous item, two lesser major potions^[1](ref/rule/type-f#footnote-p)^|
-|60,000 gp|Greater medium armor^[3](ref/rule/type-f#footnote-o)^, greater medium weapon^[4](ref/rule/type-f#footnote-x)^, two greater minor rings, two greater minor wondrous items|
-|75,000 gp|Lesser major armor^[3](ref/rule/type-f#footnote-o)^, greater medium weapon^[4](ref/rule/type-f#footnote-x)^, greater minor ring, greater medium wondrous item, three greater major potions^[1](ref/rule/type-f#footnote-p)^|
-|100,000 gp|Lesser major armor^[3](ref/rule/type-f#footnote-o)^, lesser major weapon^[4](ref/rule/type-f#footnote-x)^, lesser medium ring, greater minor ring, two lesser medium wondrous items|
-
-###### ^1^ {#footnote-p}
-
-Refer to [Type D, potions and oils](ref/rule/type-d-potions-and-oils)
-
-###### ^2^ {#footnote-m}
-
-Refer to [Type E, masterwork armor and weapons](ref/rule/type-e-masterwork)
-
-###### ^4^ {#footnote-x}
-
-Refer to [Type E, weapons](ref/rule/type-e-weapons)
-
-###### ^3^ {#footnote-o}
-
-Refer to [Type E, armor and shields](ref/rule/type-e-armor)
+|50 gp|2d4 × 10 sp, 2d4 gp, lesser minor potion|
+|250 gp|2d4 × 10 sp, 2d4 gp, masterwork light armor or shield, lesser minor potion|
+|350 gp|2d4 × 10 sp, 2d4 gp, masterwork medium armor, lesser minor potion|
+|400 gp|2d4 × 10 sp, 2d4 gp, masterwork weapon, lesser minor potion|
+|500 gp|Masterwork weapon, greater minor potion|
+|750 gp|6d6 gp, masterwork medium armor, masterwork weapon, two lesser minor potions|
+|1,000 gp|Masterwork heavy armor|
+|1,500 gp|Masterwork heavy armor, masterwork weapon, greater minor potion|
+|2,000 gp|Lesser minor armor, masterwork weapon, two greater minor potions|
+|3,000 gp|Masterwork medium armor, lesser minor weapon, greater minor potion|
+|4,000 gp|Lesser minor armor, masterwork weapon, lesser minor wondrous item, greater minor potion|
+|5,000 gp|Masterwork medium armor, lesser minor weapon, lesser minor wondrous item, greater minor potion|
+|6,000 gp|Lesser minor armor, lesser minor weapon, lesser minor wondrous item|
+|7,500 gp|Greater minor armor, lesser minor weapon, lesser minor ring|
+|10,000 gp|Greater minor armor, lesser minor weapon, lesser minor ring, lesser minor wondrous item, three greater minor potions|
+|10,000 gp|Greater minor armor, greater minor weapon, two greater medium potions|
+|12,500 gp|Greater minor armor, lesser minor weapon, greater minor wondrous item, two greater medium potions|
+|15,000 gp|Greater minor armor, greater minor weapon, greater minor ring|
+|20,000 gp|Lesser medium armor, greater minor weapon, greater minor wondrous item, two greater medium potions|
+|25,000 gp|Lesser medium armor, lesser medium weapon, lesser minor ring, lesser minor wondrous item, two greater medium potions|
+|30,000 gp|Lesser medium armor, lesser medium weapon, two lesser minor rings, greater minor wondrous items|
+|40,000 gp|Lesser medium armor, lesser medium weapon, lesser medium ring, greater minor wondrous item, two greater medium potions|
+|50,000 gp|Greater medium armor, greater medium weapon, lesser medium wondrous item, two lesser major potions|
+|60,000 gp|Greater medium armor, greater medium weapon, two greater minor rings, two greater minor wondrous items|
+|75,000 gp|Lesser major armor, greater medium weapon, greater minor ring, greater medium wondrous item, three greater major potions|
+|100,000 gp|Lesser major armor, lesser major weapon, lesser medium ring, greater minor ring, two lesser medium wondrous items|
