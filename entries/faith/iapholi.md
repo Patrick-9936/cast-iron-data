@@ -39,8 +39,9 @@ kind = "none"
 > #### Cleric, Oracle, Warpriest
 >
 > - [Beast Shape III](ref/spell/beast-shape-3) can be prepared as a 5th-level spell
->
+>   ^[1](ref/faith/iapholi#footnote-m)^
 > - [Beast Shape IV](ref/spell/beast-shape-4) can be prepared as a 6th-level spell
+>   ^[1](ref/faith/iapholi#footnote-m)^
 >
 > #### Cleric, Oracle
 >
@@ -75,3 +76,7 @@ contingent of traditionalist monsters chafes under the outwardly pacifist doctri
 to drown the Iblydan city-states, which they see as invaders, in a wave of bloodshed once and for
 all. Numerous factions have sent assassins to snuff out Iapholi, hoping to either prevent a
 monstrous demigod from unifying the many beasts or use her death to rally a terrifying army.
+
+###### ^1^ {#footnote-m}
+
+Can only be used to assume the form of a magical beast.

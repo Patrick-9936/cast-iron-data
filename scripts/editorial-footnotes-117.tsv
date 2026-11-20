@@ -1,15 +1,11 @@
 action	kind	entry_id	anchor	marker	class	body_marker	drop_labels	text_sha	text	note
 remove	paragraph	ref/ability/bloodline-mutations			paragraph			bab1a88d64cc2f57	**Note:** The original text says this ability peaks at 4 times per day at 18th level, but the progression given doesn't reach 4 times per day until 19th level.	
-remove	paragraph	ref/ability/combat-styles			inline-note	^8^		a03a6f6f88f805de	^8^ If the ranger chooses Combat Expertise, he counts as having 13 Intelligence for the purpose of selecting that feat and others that have Combat Expertise as 	
-remove	paragraph	ref/ability/combat-styles			inline-note	^10^		e594cfba6f67962f	^10^ The ranger must have Dolphin Style to select Dolphin Dart, and must have Shark Style to select Shark Tear, but otherwise ignores all other prerequisites.	
-remove	paragraph	ref/ability/combat-styles			inline-note	^11^		ec529f11db46ac31	^11^ The ranger must have Dolphin Style and Dolphin Dart to select Dolphin Circle, and must have Shark Style and Shark Tear to select Shark Leap, but otherwise 	
 remove	footnote	ref/ability/improved-familiars	footnote-c	4	unclear			45a80da815cd61d5	A clockwork familiar needs crafting; see monster entry	
 remove	footnote	ref/ability/improved-familiars	footnote-e	3	unclear			8a52c11ca21d687c	The spellcaster's alignment **must** match this eactly, instead of being within one step of the familiar's alignment.	
 remove	footnote	ref/ability/improved-familiars	footnote-n	6	unclear			46fcb84bb610a616	The spellcaster's alignment **must** be True Neutral, or the spellcaster must be a duskwalker with the Personal Chronicler feat.	
-remove	footnote	ref/ability/improved-familiars	footnote-p	2	unclear			f2c104ee849953d1	The pyrausta's heart spark glows slightly less brightly, but more steadily. This removes its fast healing ability and heart of flame special abilities.	
 remove	footnote	ref/ability/improved-familiars	footnote-t	1	unclear			892bbc1e38d1b1b2	This may be replaced with any other animal from the standard familiar list, with the appropriate template (celestial, entropic, fey-touched, fiendish, or resolu	
-remove	paragraph	ref/arc-cavalier/circuit-judge			inline-note			a315292d1d4b9435	"^1^ The original text starts this ability with ""Once per day as a swift action..."" but later contradicts itself by saying ""The circuit judge can use this abilit"	
-remove	paragraph	ref/arc-inquisitor/ravener-hunter			inline-note			51549f6ceef677ff	"^1^ Edited; the original text reads: ""She cannot cast **2** with the chaotic..."""	
+remove	paragraph	ref/arc-cavalier/circuit-judge			inline-note	^1^		a315292d1d4b9435	"^1^ The original text starts this ability with ""Once per day as a swift action..."" but later contradicts itself by saying ""The circuit judge can use this abilit"	
+remove	paragraph	ref/arc-inquisitor/ravener-hunter			inline-note	^1^		51549f6ceef677ff	"^1^ Edited; the original text reads: ""She cannot cast **2** with the chaotic..."""	
 remove	paragraph	ref/discovery/flesh-eating-bomb			paragraph			79b42617a20da9e1	**Note:** Despite what the text seems to indicate, _concussive bombs_ and _flesh-eating bombs_ cannot be combined under the published rules. Consult your GM if 	
 remove	paragraph	ref/discovery/subsumed-spirit			paragraph			cc43a5b7ce34d69f	**Note:** This discovery was presented in a section on the Derro who have a special ability called **Madness**, which is referenced by a separate discovery (met	
 remove	footnote	ref/drug/midnight-milk	footnote-d	1	commentary			45eae39140689c85	"_Dream lenses_ are artifacts mentioned in _Lost Cities of Golarion_ but not given any statistics. The _lens_ is described as ""the artifact allowing the invasion"	
@@ -18,9 +14,6 @@ remove	paragraph	ref/eq-misc/goat			paragraph			045494331e87015e	"Mindspin Mount
 remove	paragraph	ref/eq-misc/horse			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
 remove	paragraph	ref/eq-misc/horse			paragraph			44f099dbaed590a4	Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any published confirmation of whether it uses the Large or Medium versio	
 remove	paragraph	ref/eq-misc/pig			paragraph			34a2398ff5a9f0a4	"Warthogs use the stats of boars and do not have published prices. They have been placed in the ""pig"" entry because of their similar nature. Consult your GM if y"	
-remove	footnote	ref/faith/gozreh	footnote-w	2	unclear			2159282a134bae12	This is an aquatic variant that may also be used to communicate with underwater creatures in addition to land.	
-remove	footnote	ref/faith/iapholi	footnote-m	1	unclear			3dcf06ec9e82ad85	Can only be used to assume the form of a magical beast.	
-remove	footnote	ref/faith/ydersius	footnote-s	2	unclear			eebd7724e39e6a70	Can only be used to take the form of a snake or serpent.	
 remove	footnote	ref/kinetic/venom-speaker	footnote-n	1	commentary			8c268a3ce89dfb68	"The investigator has no ""Swift Poisoner"" ability, but _does_ have a ""Swift Alchemy"" ability that allows the investigator to apply poison to a weapon as a **move"	
 remove	footnote	ref/magic-poison/liquid-influence	footnote-c	1	commentary			1fa3dab4b91b72af	"What ""compulsion"" means here is not defined. Given that the requirements list the _suggestion_ spell, it may be reasonable to use that spell as a benchmark. Con"	
 remove	paragraph	ref/masterpiece/lingering-leitmotif			paragraph	†		b291bb3cef6bb4b8	"† _The original source refers to an ""inspire confidence"" performance, which does not exist. Presumably, they meant *inspire competence,* which boosts skill chec"	
@@ -31,12 +24,8 @@ remove	footnote	ref/rule/age	footnote-i	1	compiled			54a50e853316c1e6	Includes t
 remove	footnote	ref/rule/age	footnote-o	4	commentary			86fcd13ee6c43aa0	Classes not listed above have not officially been given a specific group. The following is a suggestion: classify Bloodrager, Kineticist and Spiritualist as Int	
 remove	footnote	ref/rule/age	footnote-s	2	compiled			1252a9fb224b2b48	Includes the bard, cavalier, fighter, gunslinger, paladin, ranger, summoner, and witch.	
 remove	footnote	ref/rule/age	footnote-t	3	compiled			12b2ad6139dbc75a	Includes the alchemist, cleric, druid, inquisitor, magus, monk, and wizard.	
-remove	footnote	ref/rule/bestiary-errata	footnote-1	1	unclear			ac1159d9437c69aa	Creatures who already possess Dodge and Spring Attack may instead choose Whirlwind Attack.	
-remove	footnote	ref/rule/bestiary-errata	footnote-2	2	unclear			3b13ab4b2bf7113a	Creatures who already possess Catch Off-Guard may instead choose Improved Weapon Mastery.	
 remove	footnote	ref/rule/charters	footnote-c	1	commentary			eddfe486a6af6743	No such feat was presented in the sourcebook.	
 remove	paragraph	ref/rule/conditions			paragraph			178d5da3a1236068	_Note: The condition groups above are not official terms from the rules. They were created for this app in order to better present the underlying information._	
-remove	footnote	ref/rule/control-devices	footnote-m	2	unclear			696f94400b3fd4f0	More information on magically treated control devices can be found in Ship Modifications.	
-remove	footnote	ref/rule/control-devices	footnote-o	1	unclear			243a95a31e0d3646	Oars gain the broken condition if at least half the oars on a ship are destroyed.	
 remove	footnote	ref/rule/deft-maneuvers	footnote-1	1	commentary			dccab4535b6175fa	The orignal blog post also applied this to dirty trick, reposition, and steal maneuvers.	
 remove	footnote	ref/rule/elephant-overview	footnote-1	1	commentary			afc4ed441496dc37	The orignal blog post also removed the Improved Dirty Trick, Improved Drag, Improved Reposition, Improved Steal, and Martial Mastery feats.	
 remove	footnote	ref/rule/harrowing-plot-twists	footnote-p	1	commentary			de11ad9994ed48bd	A separate product produced by Paizo.	
@@ -44,13 +33,12 @@ remove	footnote	ref/rule/inheritance	footnote-1	1	compiled			4d0b04fc2eb5bf7f	Tr
 remove	footnote	ref/rule/one-shot-games	footnote-m	1	pointer			e1cbd1959e0a6469	Wikipedia: MacGuffin	
 remove	footnote	ref/rule/other-worlds	footnote-1	1	commentary			b4ee74970cb2f4d6	This generalization has come into question as more and more exoplanets (planets around other stars) have been discovered, but it's still a useful starting point	
 remove	footnote	ref/rule/powerful-maneuvers	footnote-1	1	commentary			21513dcfed30aeab	The original blog post also said this could be used for the drag maneuver.	
-remove	footnote	ref/rule/propulsion-and-sailing-skills	footnote-t	1	unclear			387b29d66659a46e	More information on magically treated means of propulsion can be found in the Ship Modifications section.	
 remove	footnote	ref/rule/random-item-generators	footnote-2	2	commentary			98a7277cd446625f	The original table appears in the Pathfinder RPG Core Rulebook. The items on the table can be found in miscellaneous equipment, along with many other items from	
 remove	footnote	ref/rule/slimes-molds-and-fungi	footnote-s	1	commentary			565971f122c9f193	This contradicts the text from the Bestiary, where sunlight merely renders the mold dormant. There is no official errata regarding this.	
 remove	footnote	ref/rule/stat-block	footnote-b	1	commentary			d4e2e063786550b9	Example of a bonus feat's footnote.	
 remove	footnote	ref/rule/story-items	footnote-m	1	pointer			e1cbd1959e0a6469	Wikipedia: MacGuffin	
 remove	paragraph	ref/rule/tavern-toolbox			paragraph			b50086124b957ecc	> _Side note: The developer of this app also created Writing Quirks which has a Tavern name > generator tool. The app is free, with no ads._	
-remove	paragraph	ref/rule/the-elephant-in-the-room			inline-note			0c1d3c05860a78c3	^1^ This is verbatim from the source. *Pf Data 1e* has no connection to the authors.	
+remove	paragraph	ref/rule/the-elephant-in-the-room			inline-note	^1^		0c1d3c05860a78c3	^1^ This is verbatim from the source. *Pf Data 1e* has no connection to the authors.	
 remove	footnote	ref/rule/type-f	footnote-m	2	pointer			2fe4581c0cf88de1	Refer to Type E, masterwork armor and weapons	
 remove	footnote	ref/rule/type-f	footnote-o	3	pointer			1a0663c872163230	Refer to Type E, armor and shields	
 remove	footnote	ref/rule/type-f	footnote-p	1	pointer			014455209b542385	Refer to Type D, potions and oils	

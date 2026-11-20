@@ -57,7 +57,7 @@ Mwangi to eradicate evil wherever it appears.
 **Info:** A ravener hunter adds all spells of 6th-level and lower on the cleric spell list with the
 good descriptor to her inquisitor spell list as inquisitor spells of the same level. If a spell
 appears on both the cleric and inquisitor spell lists, the ravener hunter uses the lower of the two
-spell levels listed for the spell. She cannot cast spells^1^ with the chaotic, evil, or lawful
+spell levels listed for the spell. She cannot cast spells with the chaotic, evil, or lawful
 descriptors, even from spell trigger or spell completion items.
 
 **Demon Hunter**

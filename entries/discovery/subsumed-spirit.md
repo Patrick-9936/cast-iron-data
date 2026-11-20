@@ -23,11 +23,10 @@ a dog feeding on its master's scraps.
 **Prereq:** [Parasitic twin](ref/discovery/parasitic-twin)
 
 **Standard:** The alchemist can cause his manifested twin to babble, driving listeners insane. All
-creatures without the _[insanity](ref/spell/insanity)_ special ability (although see below) that are
-within 60 feet of the alchemist must succeed at a Will save or be affected by
-[confusion](ref/spell/confusion) for 1 round per alchemist level. The alchemist can urge his
-parasitic twin to babble a number of times per day equal to 3 + the alchemist's Intelligence
-modifier.
+creatures without the _[insanity](ref/spell/insanity)_ special ability that are within 60 feet of
+the alchemist must succeed at a Will save or be affected by [confusion](ref/spell/confusion) for 1
+round per alchemist level. The alchemist can urge his parasitic twin to babble a number of times per
+day equal to 3 + the alchemist's Intelligence modifier.
 
 **Special:** Creatures that successfully save can't be affected by this effect for 24 hours. The
 alchemist is immune to its sibling's babbling. This is a sonic, mind-affecting compulsion effect.

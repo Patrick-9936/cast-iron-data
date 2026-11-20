@@ -51809,21 +51809,6 @@ records = 0
 reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/ability/bloodline-mutations, line 40. Text: "**Note:** The original text says this ability peaks at 4 times per day at 18th level, but the progre". No record is left out.'
 
 [[excluded]]
-path = "json/class_abilities.json#combat_styles"
-records = 0
-reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/ability/combat-styles, line 399. Text: "^8^ If the ranger chooses Combat Expertise, he counts as having 13 Intelligence for the purpose of s". No record is left out.'
-
-[[excluded]]
-path = "json/class_abilities.json#combat_styles"
-records = 0
-reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/ability/combat-styles, line 404. Text: "^10^ The ranger must have Dolphin Style to select Dolphin Dart, and must have Shark Style to select ". No record is left out.'
-
-[[excluded]]
-path = "json/class_abilities.json#combat_styles"
-records = 0
-reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/ability/combat-styles, line 407. Text: "^11^ The ranger must have Dolphin Style and Dolphin Dart to select Dolphin Circle, and must have Sha". No record is left out.'
-
-[[excluded]]
 path = "json/class_abilities6.json#improved_familiars"
 records = 0
 reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 4, anchor footnote-c. Text: "A clockwork familiar needs crafting; see monster entry". No record is left out.'
@@ -51841,22 +51826,17 @@ reason = """1 footnote that neither Archives of Nethys, the PRD nor the printed 
 [[excluded]]
 path = "json/class_abilities6.json#improved_familiars"
 records = 0
-reason = """1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 2, anchor footnote-p. Text: "The pyrausta's heart spark glows slightly less brightly, but more steadily. This removes its fast he". No record is left out."""
-
-[[excluded]]
-path = "json/class_abilities6.json#improved_familiars"
-records = 0
 reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/ability/improved-familiars, marker 1, anchor footnote-t. Text: "This may be replaced with any other animal from the standard familiar list, with the appropriate tem". No record is left out.'
 
 [[excluded]]
 path = "json/archetypes_cavalier.json#circuit_judge"
 records = 0
-reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/arc-cavalier/circuit-judge, line 69. Text: "^1^ The original text starts this ability with "Once per day as a swift action..." but later contrad". No record is left out.'
+reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/arc-cavalier/circuit-judge, line 69. Text: "^1^ The original text starts this ability with "Once per day as a swift action..." but later contrad". No record is left out.'
 
 [[excluded]]
 path = "json/archetypes_inquisitor.json#ravener_hunter"
 records = 0
-reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/arc-inquisitor/ravener-hunter, line 60. Text: "^1^ Edited; the original text reads: "She cannot cast **2** with the chaotic..."". No record is left out.'
+reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/arc-inquisitor/ravener-hunter, line 60. Text: "^1^ Edited; the original text reads: "She cannot cast **2** with the chaotic..."". No record is left out.'
 
 [[excluded]]
 path = "json/class_ability_discoveries.json#flesh_eating_bomb"
@@ -51897,21 +51877,6 @@ reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed b
 path = "json/equipment_misc4.json#pig"
 records = 0
 reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/eq-misc/pig, line 22. Text: "Warthogs use the stats of boars and do not have published prices. They have been placed in the "pig"". No record is left out.'
-
-[[excluded]]
-path = "json/faiths4.json#gozreh"
-records = 0
-reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/faith/gozreh, marker 2, anchor footnote-w. Text: "This is an aquatic variant that may also be used to communicate with underwater creatures in additio". No record is left out.'
-
-[[excluded]]
-path = "json/faiths4.json#iapholi"
-records = 0
-reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/faith/iapholi, marker 1, anchor footnote-m. Text: "Can only be used to assume the form of a magical beast.". No record is left out.'
-
-[[excluded]]
-path = "json/faiths9.json#ydersius"
-records = 0
-reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/faith/ydersius, marker 2, anchor footnote-s. Text: "Can only be used to take the form of a snake or serpent.". No record is left out.'
 
 [[excluded]]
 path = "json/class_ability_kinetic_talents.json#venom_speaker"
@@ -51964,16 +51929,6 @@ records = 0
 reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: compiled. Entry ref/rule/age, marker 3, anchor footnote-t. Text: "Includes the alchemist, cleric, druid, inquisitor, magus, monk, and wizard.". No record is left out.'
 
 [[excluded]]
-path = "json/rules_opt_skills01.json#bestiary_errata"
-records = 0
-reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/rule/bestiary-errata, marker 1, anchor footnote-1. Text: "Creatures who already possess Dodge and Spring Attack may instead choose Whirlwind Attack.". No record is left out.'
-
-[[excluded]]
-path = "json/rules_opt_skills01.json#bestiary_errata"
-records = 0
-reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/rule/bestiary-errata, marker 2, anchor footnote-2. Text: "Creatures who already possess Catch Off-Guard may instead choose Improved Weapon Mastery.". No record is left out.'
-
-[[excluded]]
 path = "json/rules_adv_pc01.json#charters"
 records = 0
 reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/charters, marker 1, anchor footnote-c. Text: "No such feat was presented in the sourcebook.". No record is left out.'
@@ -51982,16 +51937,6 @@ reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed bo
 path = "json/rules_combat01.json#conditions"
 records = 0
 reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: paragraph. Entry ref/rule/conditions, line 18. Text: "_Note: The condition groups above are not official terms from the rules. They were created for this ". No record is left out.'
-
-[[excluded]]
-path = "json/rules_campaign_types10.json#control_devices"
-records = 0
-reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/rule/control-devices, marker 2, anchor footnote-m. Text: "More information on magically treated control devices can be found in Ship Modifications.". No record is left out.'
-
-[[excluded]]
-path = "json/rules_campaign_types10.json#control_devices"
-records = 0
-reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/rule/control-devices, marker 1, anchor footnote-o. Text: "Oars gain the broken condition if at least half the oars on a ship are destroyed.". No record is left out.'
 
 [[excluded]]
 path = "json/rules_opt_skills01.json#deft_maneuvers"
@@ -52029,11 +51974,6 @@ records = 0
 reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/powerful-maneuvers, marker 1, anchor footnote-1. Text: "The original blog post also said this could be used for the drag maneuver.". No record is left out.'
 
 [[excluded]]
-path = "json/rules_campaign_types10.json#propulsion_and_sailing_skills"
-records = 0
-reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: unclear. Entry ref/rule/propulsion-and-sailing-skills, marker 1, anchor footnote-t. Text: "More information on magically treated means of propulsion can be found in the Ship Modifications sec". No record is left out.'
-
-[[excluded]]
 path = "json/rules_gm03.json#random_item_generators"
 records = 0
 reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: commentary. Entry ref/rule/random-item-generators, marker 2, anchor footnote-2. Text: "The original table appears in the Pathfinder RPG Core Rulebook. The items on the table can be found ". No record is left out.'
@@ -52061,7 +52001,7 @@ reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed b
 [[excluded]]
 path = "json/rules_opt_skills01.json#the_elephant_in_the_room"
 records = 0
-reason = '1 paragraph that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/rule/the-elephant-in-the-room, line 30. Text: "^1^ This is verbatim from the source. *Pf Data 1e* has no connection to the authors.". No record is left out.'
+reason = '1 inline note that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: inline-note. Entry ref/rule/the-elephant-in-the-room, line 30. Text: "^1^ This is verbatim from the source. *Pf Data 1e* has no connection to the authors.". No record is left out.'
 
 [[excluded]]
 path = "json/rules_adv_gm07.json#type_f"

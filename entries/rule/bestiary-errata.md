@@ -61,10 +61,19 @@ replaced with [Powerful Maneuvers](ref/rule/powerful-maneuvers)) as prerequisite
 |[Improved Trip](ref/feat/improved-trip)|[Greater Trip](ref/feat/greater-trip)|
 |[Improved Two-Weapon Fighting](ref/feat/improved-two-weapon-fighting)|[Greater Two-Weapon Fighting](ref/feat/greater-two-weapon-fighting)|
 |[Improved Unarmed Strike](ref/feat/improved-unarmed-strike)|[Unarmed Combatant](ref/rule/unarmed-combatant)|
-|[Mobility](ref/feat/mobility)|[Spring Attack](ref/feat/spring-attack) or [Whirlwind Attack](ref/feat/whirlwind-attack)|
+|[Mobility](ref/feat/mobility)|[Spring Attack](ref/feat/spring-attack) or [Whirlwind Attack](ref/feat/whirlwind-attack) ^[1](ref/rule/bestiary-errata#footnote-1)^|
 |[Point-Blank Shot](ref/feat/point-blank-shot)|[Precise Shot](ref/feat/precise-shot)|
 |[Power Attack](ref/feat/power-attack)|[Powerful Maneuvers](ref/rule/powerful-maneuvers)|
 |[Precise Shot](ref/feat/precise-shot)|[Point-Blank Shot](ref/feat/point-blank-shot)|
 |[Stand Still](ref/feat/stand-still)|[Greater Hamstring](ref/rule/greater-hamstring)|
-|[Throw Anything](ref/feat/throw-anything)|[Catch Off-Guard](ref/feat/catch-off-guard) or [Improvised Weapon Mastery](ref/feat/improvised-weapon-mastery)|
+|[Throw Anything](ref/feat/throw-anything)|[Catch Off-Guard](ref/feat/catch-off-guard) or [Improvised Weapon Mastery](ref/feat/improvised-weapon-mastery) ^[2](ref/rule/bestiary-errata#footnote-2)^|
 |[Weapon Finesse](ref/feat/weapon-finesse)|[Agile Combatant](ref/feat/agile-maneuvers)|
+
+###### ^1^ {#footnote-1}
+
+Creatures who already possess [Dodge](ref/feat/dodge) and Spring Attack may instead choose Whirlwind
+Attack.
+
+###### ^2^ {#footnote-2}
+
+Creatures who already possess Catch Off-Guard may instead choose Improved Weapon Mastery.

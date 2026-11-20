@@ -37,7 +37,7 @@ master must be within one step of.
 **Chaotic neutral:**
 
 - [Entropic](ref/template/entropic) [monkey](ref/monster/familiar-monkey)
-- [Pyrausta](ref/monster/pyrausta)
+- [Pyrausta](ref/monster/pyrausta)^[2](ref/ability/improved-familiars#footnote-p)^
 
 **Lawful neutral:**
 
@@ -208,3 +208,8 @@ master must be within one step of.
 ###### ^5^ {#footnote-h}
 
 The master must first create the homunculus.
+
+###### ^2^ {#footnote-p}
+
+The pyrausta's heart spark glows slightly less brightly, but more steadily. This removes its
+[fast healing](ref/umr/fast-healing) ability and heart of flame special abilities.

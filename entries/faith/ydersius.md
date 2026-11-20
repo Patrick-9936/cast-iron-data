@@ -57,11 +57,11 @@ Leadership, Martyr, [Saurian](ref/domain/scalykind), [Tactics](ref/domain/war)\
 >
 > - [Accelerate Poison](ref/spell/accelerate-poison) can be prepared as a 2nd-level spell
 > - [Beast Shape I](ref/spell/beast-shape-1) can be prepared as a 3rd-level spell
->
+>   ^[2](ref/faith/ydersius#footnote-s)^
 > - [Beast Shape II](ref/spell/beast-shape-2) can be prepared as a 4th-level spell
->
+>   ^[2](ref/faith/ydersius#footnote-s)^
 > - [Beast Shape III](ref/spell/beast-shape-3) can be prepared as a 5th-level spell
->
+>   ^[2](ref/faith/ydersius#footnote-s)^
 > - [Venomous Bolt](ref/spell/venomous-bolt) can be prepared as a 4th-level spell
 >   ^[3](ref/faith/ydersius#footnote-f)^
 >
@@ -129,6 +129,10 @@ coils and venomous fangs.
 ###### ^1^ {#footnote-a}
 
 Requires the [Acolyte of Apocrypha](ref/trait/acolyte-of-apocrypha) trait.
+
+###### ^2^ {#footnote-s}
+
+Can only be used to take the form of a snake or serpent.
 
 ###### ^3^ {#footnote-f}
 
