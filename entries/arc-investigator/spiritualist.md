@@ -19,10 +19,10 @@ kind = "archetype"
 trades = [
   { replaces = "Alchemy", feature = "alchemy" },
   { replaces = "Poison lore", feature = "poison-lore" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
   { replaces = "Trap sense", feature = "trap-sense" },
   { replaces = "Swift alchemy", feature = "swift-alchemy" },
-  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [11] },
 ]
 +++
 

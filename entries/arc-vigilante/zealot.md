@@ -22,7 +22,7 @@ kind = "archetype"
 trades = [
   { replaces = "4th-, 8th-, 10th-, 14th-, and 16th-level vigilante talents", feature = "vigilante-talent", levels = [4, 8, 10, 14, 16] },
   { replaces = "Vigilante specialization", feature = "vigilante-specialization" },
-  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { alters = "Vigilante talents", feature = "vigilante-talent" },
 ]
 +++

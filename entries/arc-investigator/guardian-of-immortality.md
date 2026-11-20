@@ -18,9 +18,9 @@ page = "41"
 kind = "archetype"
 trades = [
   { replaces = "Poison lore", feature = "poison-lore" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
   { replaces = "Investigator talent gained at 7th level", feature = "investigator-talent", levels = [7] },
-  { replaces = "Immunity to poison", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "Immunity to poison", feature = "poison-resistance", levels = [11] },
   { replaces = "Investigator talent gained at 13th level", feature = "investigator-talent", levels = [13] },
 ]
 +++

@@ -21,7 +21,7 @@ trades = [
   { replaces = "Superior feint", feature = "deeds", power = "superior feint" },
   { replaces = "Bleeding wound", feature = "deeds", power = "bleeding wound" },
   { replaces = "Swashbuckler's edge", feature = "deeds", power = "swashbuckler's edge" },
-  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies", power = "armor" },
 ]
 +++
 

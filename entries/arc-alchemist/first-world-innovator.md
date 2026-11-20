@@ -20,8 +20,8 @@ trades = [
   { replaces = "Brew Potion", feature = "brew-potion" },
   { replaces = "poison use", feature = "poison-use" },
   { replaces = "swift poisoning", feature = "swift-poisoning" },
-  { replaces = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [10] },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
   { alters = "Bombs", feature = "bomb" },
 ]
 +++

@@ -21,8 +21,8 @@ trades = [
   { alters = "Spirit", feature = "spirit" },
   { alters = "spirit animal", feature = "spirit-animal" },
   { alters = "Hexes", feature = "hex" },
-  { alters = "Spirit ability", feature = "spirit", power = "spirit ability" },
-  { alters = "greater spirit ability", feature = "spirit", power = "greater spirit ability" },
+  { alters = "Spirit ability" },
+  { alters = "greater spirit ability" },
 ]
 +++
 

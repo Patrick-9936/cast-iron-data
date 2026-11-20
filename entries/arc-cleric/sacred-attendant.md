@@ -17,7 +17,7 @@ page = "4"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency with light and medium armor", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Proficiency with light and medium armor" },
   { alters = "Channel energy", feature = "channel-energy" },
   { alters = "Domains", feature = "domains" },
 ]

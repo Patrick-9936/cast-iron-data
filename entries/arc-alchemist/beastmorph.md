@@ -20,7 +20,7 @@ trades = [
   { replaces = "Swift alchemy", feature = "swift-alchemy" },
   { replaces = "Swift poisoning", feature = "swift-poisoning" },
   { replaces = "Poison resistance +2, +4, and +6", feature = "poison-resistance", levels = [2, 5, 8] },
-  { replaces = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [10] },
   { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
 ]
 +++

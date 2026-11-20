@@ -18,11 +18,11 @@ page = "112"
 kind = "archetype"
 trades = [
   { replaces = "Bombs", feature = "bomb" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
   { replaces = "Poison use", feature = "poison-use" },
   { replaces = "Swift poisoning", feature = "swift-poisoning" },
   { replaces = "The 8th-level alchemist discovery", feature = "discovery", levels = [8] },
-  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10] },
 ]
 +++
 

@@ -18,12 +18,12 @@ page = "46"
 kind = "archetype"
 trades = [
   { replaces = "Mutagen", feature = "mutagen" },
-  { replaces = "Poison resistance +2", feature = "poison-resistance", power = "+2" },
+  { replaces = "Poison resistance +2", feature = "poison-resistance", levels = [2] },
   { replaces = "poison use", feature = "poison-use" },
-  { replaces = "poison resistance +4", feature = "poison-resistance", power = "+4" },
+  { replaces = "poison resistance +4", feature = "poison-resistance", levels = [5] },
   { replaces = "Swift poisoning", feature = "swift-poisoning" },
-  { replaces = "Poison resistance +6", feature = "poison-resistance", power = "+6" },
-  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "Poison resistance +6", feature = "poison-resistance", levels = [8] },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10] },
   { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
 ]
 +++

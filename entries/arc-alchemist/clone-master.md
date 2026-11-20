@@ -18,8 +18,8 @@ page = "18"
 kind = "archetype"
 trades = [
   { replaces = "Bombs", feature = "bomb" },
-  { replaces = "Poison resistance +6", feature = "poison-resistance", power = "+6" },
-  { replaces = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "Poison resistance +6", feature = "poison-resistance", levels = [8] },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [10] },
 ]
 +++
 

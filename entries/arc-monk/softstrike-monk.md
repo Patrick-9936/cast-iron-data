@@ -17,7 +17,7 @@ page = "6"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Weapon proficiency", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Weapon proficiency", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { replaces = "Bonus feats gained at 6th and 10th levels", feature = "bonus-feat", levels = [6, 10] },
   { replaces = "Empty body", feature = "empty-body" },
   { alters = "Unarmed strike", feature = "unarmed-strike" },

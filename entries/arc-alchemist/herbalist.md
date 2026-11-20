@@ -20,8 +20,8 @@ trades = [
   { replaces = "Throw Anything", feature = "throw-anything" },
   { replaces = "Bombs", feature = "bomb" },
   { replaces = "poison use", feature = "poison-use" },
-  { replaces = "poison resistance", feature = "poison-resistance" },
-  { replaces = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [10] },
   { alters = "Alchemy", feature = "alchemy" },
   { alters = "the alchemist's key ability score" },
 ]

@@ -17,7 +17,7 @@ page = "111"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Familiar" },
+  { replaces = "Familiar", feature = "spirit-animal" },
   { replaces = "Wandering spirit", feature = "wandering-spirit" },
   { replaces = "wandering hex", feature = "wandering-hex" },
 ]

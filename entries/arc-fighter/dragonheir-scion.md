@@ -22,7 +22,7 @@ trades = [
   { replaces = "Armor training 1, 2, and 3", feature = "armor-training", levels = [3, 7, 11] },
   { replaces = "Bonus feat gained at 4th level", feature = "bonus-feats", levels = [4] },
   { replaces = "Bonus feat gained at 6th level.1-2", feature = "bonus-feats", levels = [6] },
-  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Armor training 4", feature = "armor-training", levels = [15] },
   { replaces = "armor mastery", feature = "armor-mastery" },
   { replaces = "Weapon mastery", feature = "weapon-mastery" },
 ]

@@ -18,8 +18,8 @@ page = "117"
 kind = "archetype"
 trades = [
   { replaces = "The alchemist's 4th-level discovery", feature = "discovery", levels = [4] },
-  { replaces = "Poison resistance +6", feature = "poison-resistance", power = "+6" },
-  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "Poison resistance +6", feature = "poison-resistance", levels = [8] },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10] },
   { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
   { alters = "Bomb", feature = "bomb" },
   { alters = "throw anything", feature = "throw-anything" },

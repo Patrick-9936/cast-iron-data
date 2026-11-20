@@ -17,10 +17,10 @@ page = "25"
 kind = "archetype"
 trades = [
   { replaces = "Bravery", feature = "bravery" },
-  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
-  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
-  { replaces = "Armor training 2", feature = "armor-training", power = "2" },
-  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
+  { replaces = "Armor training 1", feature = "armor-training", levels = [3] },
+  { replaces = "Weapon training 1", feature = "weapon-training", levels = [5] },
+  { replaces = "Armor training 2", feature = "armor-training", levels = [7] },
+  { replaces = "Armor training 3", feature = "armor-training", levels = [11] },
 ]
 +++
 

@@ -18,7 +18,7 @@ page = "23"
 kind = "archetype"
 trades = [
   { replaces = "Trap sense", feature = "trap-sense" },
-  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "Skills" },
   { alters = "Sneak attack progression", feature = "sneak-attack" },
   { alters = "Rogue talent progression", feature = "rogue-talents" },

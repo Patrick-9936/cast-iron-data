@@ -18,8 +18,8 @@ page = "21"
 kind = "archetype"
 trades = [
   { replaces = "Poison lore", feature = "poison-lore" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
-  { replaces = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
+  { replaces = "poison immunity", feature = "poison-resistance", levels = [11] },
   { alters = "Alchemy", feature = "alchemy" },
   { alters = "Inspiration", feature = "inspiration" },
 ]

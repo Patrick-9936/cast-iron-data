@@ -22,10 +22,10 @@ trades = [
   { replaces = "Dead shot deed", feature = "deeds", power = "dead shot" },
   { replaces = "Lightning reload deed", feature = "deeds", power = "lightning reload" },
   { replaces = "Nimble", feature = "nimble" },
-  { replaces = "Gun training 1", feature = "gun-training", power = "1" },
-  { replaces = "Gun training 2", feature = "gun-training", power = "2" },
-  { replaces = "Gun training 3", feature = "gun-training", power = "3" },
-  { replaces = "Gun training 4", feature = "gun-training", power = "4" },
+  { replaces = "Gun training 1", feature = "gun-training", levels = [5] },
+  { replaces = "Gun training 2", feature = "gun-training", levels = [9] },
+  { replaces = "Gun training 3", feature = "gun-training", levels = [13] },
+  { replaces = "Gun training 4", feature = "gun-training", levels = [17] },
   { alters = "Grit", feature = "grit" },
 ]
 +++

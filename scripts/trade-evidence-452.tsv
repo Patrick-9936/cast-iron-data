@@ -1,0 +1,29 @@
+id	printed	book	page	note
+ref/arc-bard/sandman	Mass suggestion	Advanced Player's Guide	82	print: 'This performance replaces mass suggestion' and 'replaces deadly performance'
+ref/arc-bard/sandman	Deadly performance	Advanced Player's Guide	82	print: 'This performance replaces mass suggestion' and 'replaces deadly performance'
+ref/arc-bard/sound-striker	Inspire competence	Ultimate Magic	27	print: 'This performance replaces inspire competence' and 'replaces suggestion'
+ref/arc-bard/sound-striker	Suggestion	Ultimate Magic	27	print: 'This performance replaces inspire competence' and 'replaces suggestion'
+ref/arc-fighter/skirmisher	Class skills	Ultimate Wilderness	50	print: 'This alters the fighter's class skills and skill ranks per level'
+ref/arc-fighter/skirmisher	skill ranks per level	Ultimate Wilderness	50	print: 'This alters the fighter's class skills and skill ranks per level'
+ref/arc-fighter/skirmisher	The fighter's armor proficiency	Ultimate Wilderness	50	print: 'This replaces the fighter's weapon and armor proficiency' (the printed name in the corpus is shorter; the whole feature is named)
+ref/arc-fighter/tactician	Armor proficiencies	Ultimate Combat	47	print: Weapon and Armor Proficiency: a tactician is not proficient with heavy armor or tower shields
+ref/arc-gunslinger/pistolero	Deadeye deed	Ultimate Combat	51	print: 'replaces the deadeye deed', 'the startling shot deed', 'the bleeding wound deed'
+ref/arc-gunslinger/pistolero	Startling shot deed	Ultimate Combat	51	print: 'replaces the deadeye deed', 'the startling shot deed', 'the bleeding wound deed'
+ref/arc-gunslinger/pistolero	Bleeding wound deed	Ultimate Combat	51	print: 'replaces the deadeye deed', 'the startling shot deed', 'the bleeding wound deed'
+ref/arc-gunslinger/pistolero	Gun training 1-4	Ultimate Combat	51	print: 'This ability replaces gun training 1 to 4'
+ref/arc-investigator/dread-investigator	immunity	Cohorts and Companions	14	print: 'This ability replaces poison resistance and immunity'
+ref/arc-investigator/hallucinist	Trapfinding, 3rd-level trap sense boost	Ultimate Intrigue	34	print: 'This ability replaces trapfinding, the trap sense gained ...' (one item)
+ref/arc-medium/rivethun-spirit-channeler	Spellcasting	Haunted Heroes Handbook	21	print: 'This alters the medium's spellcasting'
+ref/arc-monk/karmic-monk	The slow fall improvement; it remains at 70 feet	Occult Adventures	122	print: 'This ability replaces slow fall 80 feet' (the 16th-level step) and alters slow fall later
+ref/arc-monk/scarred-monk	the ability to spend ki points to do anything other than what's described below	Horror Realms	12	print: Mortifications alter the ki pool; a scarred monk cannot spend ki points on the other ki powers
+ref/arc-oracle/dual-cursed-oracle	The bonus spells gained at 2nd, 4th, and 6th levels from the oracle's mystery	Ultimate Magic	58	print: ill omen (2nd), oracle's burden (4th), bestow curse (6th) replace the mystery bonus spells at these levels
+ref/arc-oracle/enlightened-philosopher	All bonus spells gained from the oracle's mystery after 2nd level	Ultimate Magic	58	print: owl's wisdom (4th) to astral projection (18th) replace the mystery bonus spells at these levels
+ref/arc-oracle/possessed-oracle	The bonus spells gained at 1st, 4th, 6th, 8th, 10th, 12th, and 16th levels from the oracle's mystery	Ultimate Magic	59	print lists ventriloquism at 1st level; the oracle's mystery grants its first bonus spell at 2nd
+ref/arc-oracle/psychic-searcher	Revelations gained after 3rd level	Advanced Class Guide	106	print: a psychic searcher may take an investigator or rogue talent whenever she could select a new revelation (after the 3rd-level revelation that the archetype replaces)
+ref/arc-oracle/seer	Bonus spells granted by the oracle's mystery after 2nd level	Ultimate Magic	59	print: detect thoughts (4th) to foresight (18th) replace the mystery bonus spells at these levels
+ref/arc-oracle/stargazer	The bonus spells gained at 2nd, 4th, 6th, 8th, and 18th levels from the oracle's mystery	Ultimate Magic	59	print: faerie fire (2nd), glitterdust (4th), guiding star (6th), wandering star motes (8th), meteor swarm (18th) replace the mystery bonus spells
+ref/arc-ranger/sable-company-marine	Hunter's bond (but see text)	Inner Sea Combat	43	print: 'A marine who takes this option does not gain the hunter's bond' (the hippogriff option)
+ref/arc-sorcerer/razmiran-priest	9th-level bloodline power	Inner Sea Magic	38	print: 'This ability replaces the bloodline power gained at 9th level'
+ref/arc-spiritualist/scourge	Devotion	Haunted Heroes Handbook	22	print: 'This ability replaces devotion'
+ref/arc-warpriest/forgepriest	2nd blessing normally gained by a warpriest	Advanced Class Guide	130	print: a forgepriest selects only one blessing; 'This alters the blessings class feature'
+ref/arc-warpriest/proselytizer	Sacred armor, 3rd-level bonus feat	Cohorts and Companions	24	print: 'This ability replaces sacred armor and the bonus feat ...' (one item)

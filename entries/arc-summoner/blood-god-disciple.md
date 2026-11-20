@@ -17,14 +17,14 @@ page = "53"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Summon monster I", feature = "summon-monster-i" },
-  { replaces = "III" },
-  { replaces = "V" },
-  { replaces = "VII" },
-  { replaces = "and IX" },
-  { replaces = "Summon monster II", feature = "summon-monster-i", power = "summon monster ii" },
-  { replaces = "Summon monster IV", feature = "summon-monster-i", power = "summon monster iv" },
-  { replaces = "Summon monster VI and VIII spell-like abilities" },
+  { replaces = "Summon monster I", feature = "summon-monster-i", levels = [1] },
+  { replaces = "III", feature = "summon-monster-i", levels = [5] },
+  { replaces = "V", feature = "summon-monster-i", levels = [9] },
+  { replaces = "VII", feature = "summon-monster-i", levels = [13] },
+  { replaces = "and IX", feature = "summon-monster-i", levels = [17, 19] },
+  { replaces = "Summon monster II", feature = "summon-monster-i", levels = [3] },
+  { replaces = "Summon monster IV", feature = "summon-monster-i", levels = [7] },
+  { replaces = "Summon monster VI and VIII spell-like abilities", feature = "summon-monster-i", levels = [11, 15] },
 ]
 +++
 

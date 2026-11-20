@@ -18,10 +18,10 @@ page = "18"
 kind = "archetype"
 trades = [
   { replaces = "Mutagen", feature = "mutagen" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
   { replaces = "Swift alchemy", feature = "swift-alchemy" },
   { replaces = "The discovery gained at 6th level", feature = "discovery", levels = [6] },
-  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10] },
   { alters = "Extracts", feature = "extracts" },
   { alters = "Bomb", feature = "bomb" },
 ]

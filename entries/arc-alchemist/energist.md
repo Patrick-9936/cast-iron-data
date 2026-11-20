@@ -17,10 +17,10 @@ page = "13"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { replaces = "Poison immunity", feature = "poison-resistance", levels = [10] },
   { replaces = "2nd-level discovery", feature = "discovery", levels = [2] },
   { replaces = "swift poisoning", feature = "swift-poisoning" },
-  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
   { alters = "Extracts", feature = "extracts" },
   { alters = "Bombs", feature = "bomb" },
   { alters = "Throw anything", feature = "throw-anything" },

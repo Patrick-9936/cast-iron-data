@@ -17,7 +17,7 @@ page = "43"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Hunter's bond (but see text)", feature = "hunter-s-bond" },
+  { replaces = "Hunter's bond (but see text)" },
 ]
 +++
 

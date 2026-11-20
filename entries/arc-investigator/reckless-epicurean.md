@@ -20,8 +20,8 @@ trades = [
   { replaces = "Trapfinding", feature = "trapfinding" },
   { replaces = "Investigator talent gained at 5th level", feature = "investigator-talent", levels = [5] },
   { replaces = "Investigator talent gained at 13th level", feature = "investigator-talent", levels = [13] },
-  { alters = "Poison resistance", feature = "poison-resistance" },
-  { alters = "poison immunity", feature = "poison-resistance", levels = [10], power = "immunity" },
+  { alters = "Poison resistance", feature = "poison-resistance", levels = [2, 5, 8] },
+  { alters = "poison immunity", feature = "poison-resistance", levels = [11] },
 ]
 +++
 

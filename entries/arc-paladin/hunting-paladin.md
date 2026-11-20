@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "1st-level use of smite evil", feature = "smite-evil", levels = [1] },
   { replaces = "Aura of resolve", feature = "aura-of-resolve" },
-  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "Detect evil", feature = "detect-evil" },
   { alters = "Smite evil", feature = "smite-evil" },
   { alters = "Spells", feature = "spells" },

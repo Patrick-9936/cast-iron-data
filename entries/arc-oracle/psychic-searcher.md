@@ -20,7 +20,7 @@ trades = [
   { replaces = "The bonus spells gained at 4th, 6th, 8th, 12th, 16th, and 18th levels from the oracle's mystery", feature = "mystery", levels = [4, 6, 8, 12, 16, 18], power = "bonus spells" },
   { replaces = "Mystery spell gained at 2nd level", feature = "mystery", levels = [2], power = "bonus spells" },
   { replaces = "Revelation gained at 3rd level", feature = "revelation", levels = [3] },
-  { alters = "Revelations gained after 3rd level", feature = "revelation" },
+  { alters = "Revelations gained after 3rd level", feature = "revelation", levels = [7, 11, 15, 19] },
 ]
 +++
 

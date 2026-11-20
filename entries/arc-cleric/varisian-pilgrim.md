@@ -18,7 +18,7 @@ page = "42"
 kind = "archetype"
 trades = [
   { replaces = "Domains", feature = "domains" },
-  { replaces = "Proficiency with medium armor and shields - she retains proficiency with light armor only", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Proficiency with medium armor and shields - she retains proficiency with light armor only" },
   { replaces = "An 8th-level domain power of the Varisian pilgrim's choice", feature = "domains", levels = [8], power = "domain power" },
 ]
 +++

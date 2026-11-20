@@ -28,7 +28,7 @@ trades = [
   { replaces = "well-versed", feature = "well-versed" },
   { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
   { replaces = "mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
-  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { alters = "Spellcasting", feature = "spells" },
 ]
 +++

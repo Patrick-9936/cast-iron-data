@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Gunslinger's dodge deed", feature = "deeds", power = "gunslinger's dodge" },
   { replaces = "Gunslinger initiative", feature = "deeds", power = "gunslinger initiative" },
-  { replaces = "Nimble +1", feature = "nimble", power = "+1" },
+  { replaces = "Nimble +1", feature = "nimble", levels = [2] },
 ]
 +++
 

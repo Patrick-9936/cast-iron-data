@@ -21,7 +21,7 @@ trades = [
   { replaces = "Trap sense", feature = "trap-sense" },
   { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
   { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
-  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies", power = "weapons" },
 ]
 +++
 

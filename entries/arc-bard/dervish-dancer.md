@@ -17,11 +17,11 @@ page = "32"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency with the rapier and whip", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Proficiency with the rapier and whip", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { replaces = "Suggestion", feature = "bardic-performance", power = "suggestion" },
   { replaces = "mass suggestion", feature = "bardic-performance", power = "mass suggestion" },
   { replaces = "Dirge of doom", feature = "bardic-performance", power = "dirge of doom" },
-  { replaces = "Frightening performance" },
+  { replaces = "Frightening performance", feature = "bardic-performance", power = "frightening tune" },
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "lore master", feature = "lore-master" },
   { replaces = "Versatile performance", feature = "versatile-performance" },
