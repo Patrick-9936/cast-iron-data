@@ -22,7 +22,6 @@ levels = [
 ]
 casting_time = "1 standard action"
 components = "V, S, M/DF"
-range = "*The original source did not include a range line*"
 effects = [
   { label = "Effect", value = "persistent line of elements 30 ft. long" },
 ]
@@ -37,7 +36,6 @@ School: evocation
 Level: 6: Arcanist, Sorcerer, Wizard
 Casting time: 1 standard action
 Components: V, S, M/DF
-Range: \*The original source did not include a range line\*
 Duration: concentration, 1 round/3 levels (see below)
 Saving throw: Reflex half
 Spell resistance: yes
