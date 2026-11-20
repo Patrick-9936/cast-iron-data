@@ -85,7 +85,7 @@ tail, and gait give it a degenerate, bestial appearance._
 
 **Combat maneuver defense:** 20 (24 vs. trip)
 
-**Feats:** Combat Reflexes, Iron Will, Night Stalker, Skill Focus^B\|Stealth^
+**Feats:** Combat Reflexes, Iron Will, Night Stalker, Skill Focus (Stealth)^B^
 
 **Skills:** Climb +9, Perception +6, Stealth +1 (+5 in dim light or darkness)
 

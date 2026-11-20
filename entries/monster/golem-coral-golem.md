@@ -89,7 +89,7 @@ its creased body and claw-like hands._
 
 **Combat maneuver defense:** 30
 
-**Feats:** Improved Critical^B\|claw^
+**Feats:** Improved Critical^B^ (claw)
 
 **Special qualities:** aquatic reconstruction, powerful blows (slam)
 

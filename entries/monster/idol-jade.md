@@ -88,7 +88,7 @@ miniature._
 
 **At will:**
 
-- delay poison, detect poison\#S
+- delay poison, detect poison^S^
 
 **Per day:**
 

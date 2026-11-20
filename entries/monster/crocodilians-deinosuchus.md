@@ -84,7 +84,7 @@ snapping jaws that grind menacingly between each bite._
 
 **Combat maneuver defense:** 36 (40 vs. trip)
 
-**Feats:** Awesome Blow^B\|tail slap only^, Improved Initiative, Iron Will, Lightning Reflexes,
+**Feats:** Awesome Blow (tail slap only)^B^, Improved Initiative, Iron Will, Lightning Reflexes,
 Skill Focus (Perception, Stealth), Weapon Focus (bite)
 
 **Skills:** Perception +14, Stealth +0 (+12 in water), Swim +21

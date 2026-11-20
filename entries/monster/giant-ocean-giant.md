@@ -108,7 +108,7 @@ _This blue-skinned giant's clothing and beard whip about like sails caught in a 
 
 **Combat maneuver defense:** 41 (43 vs. bull rush)
 
-**Feats:** Augment Summoning^B\|with conch^, Combat Reflexes, Critical Focus, Improved Bull Rush,
+**Feats:** Augment Summoning^B^ (with conch), Combat Reflexes, Critical Focus, Improved Bull Rush,
 Improved Initiative, Iron Will, Lightning Reflexes, Martial Weapon Proficiency (trident), Power
 Attack, Vital Strike, Weapon Focus (trident)
 

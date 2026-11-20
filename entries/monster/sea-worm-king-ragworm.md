@@ -96,7 +96,7 @@ slap +15 (2d8+6 plus poison)
 
 **Combat maneuver defense:** 47 (can't be tripped)
 
-**Feats:** Improved Critical^B\|bite^
+**Feats:** Improved Critical^B^ (bite)
 
 **Skills:** Swim +21
 

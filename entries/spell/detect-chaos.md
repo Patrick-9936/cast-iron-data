@@ -55,7 +55,3 @@ Area: cone-shaped emanation
 This spell functions like _[detect evil](ref/spell/detect-evil),_ except that it detects the auras
 of chaotic creatures, clerics of chaotic deities, chaotic spells, and chaotic magic items, and you
 are vulnerable to an overwhelming chaotic aura if you are lawful.
-
-###### ^1^ {#footnote-e}
-
-Excludes undead and outsiders, which have their own entries on the table.

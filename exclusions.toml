@@ -52178,6 +52178,26 @@ path = "json/monster_template3.json#lycanthropic_creature"
 records = 0
 reason = '1 footnote that neither Archives of Nethys, the PRD nor the printed book carries, removed (phynics/cast-iron-data#109, #117). Kind: pointer. Entry ref/template/lycanthropic-creature, marker 1, anchor footnote-l. Text: "This ability can be found in the lycanthrope template.". No record is left out.'
 
+[[excluded]]
+path = "json/spells3.json#detect_chaos"
+records = 0
+reason = '1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #124). Entry ref/spell/detect-chaos, marker 1, anchor footnote-e: the note is the table note of detect evil (Core Rulebook p. 266), copied from that spell; this entry has no table or text that carries marker 1, and AoN shows no marker or note on this spell. Text: "Excludes undead and outsiders, which have their own entries on the table.". No record is left out.'
+
+[[excluded]]
+path = "json/spells3.json#detect_fiendish_presence"
+records = 0
+reason = '1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #124). Entry ref/spell/detect-fiendish-presence, marker 1, anchor footnote-e: the note is the table note of detect evil (Core Rulebook p. 266), copied from that spell; this entry has no table or text that carries marker 1, and AoN shows no marker or note on this spell. Text: "Excludes undead and outsiders, which have their own entries on the table.". No record is left out.'
+
+[[excluded]]
+path = "json/spells3.json#detect_good"
+records = 0
+reason = '1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #124). Entry ref/spell/detect-good, marker 1, anchor footnote-e: the note is the table note of detect evil (Core Rulebook p. 266), copied from that spell; this entry has no table or text that carries marker 1, and AoN shows no marker or note on this spell. Text: "Excludes undead and outsiders, which have their own entries on the table.". No record is left out.'
+
+[[excluded]]
+path = "json/spells3.json#detect_law"
+records = 0
+reason = '1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #124). Entry ref/spell/detect-law, marker 1, anchor footnote-e: the note is the table note of detect evil (Core Rulebook p. 266), copied from that spell; this entry has no table or text that carries marker 1, and AoN shows no marker or note on this spell. Text: "Excludes undead and outsiders, which have their own entries on the table.". No record is left out.'
+
 [[rejected]]
 path = "json/archetypes_barbarian.json#totem_warrior"
 reason = "converter native exclusion (ref/arc-barbarian/totem-warrior): json/archetypes_barbarian.json#totem_warrior uses compileFrom; recipe expansion is not implemented"

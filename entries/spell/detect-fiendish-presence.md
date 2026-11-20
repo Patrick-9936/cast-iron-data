@@ -59,7 +59,3 @@ This spell functions like _[detect evil](ref/spell/detect-evil),_ except that it
 outsiders with the evil subtype, as well as the lingering effects caused by their gifts, presence,
 and spells. It can also detect clerics and paladins of fiendish deities, including
 [Asmodeus](ref/faith/asmodeus), archdevils, daemonic harbingers, and demon lords.
-
-###### ^1^ {#footnote-e}
-
-Excludes undead and outsiders, which have their own entries on the table.
