@@ -20,7 +20,7 @@ trades = [
   { replaces = "The bonus feat at 1st level", feature = "bonus-feats", levels = [1] },
   { replaces = "Bravery", feature = "bravery" },
   { replaces = "Armor training 1", feature = "armor-training", power = "1" },
-  { replaces = "Weapon training 1, 2, 3, and 4" },
+  { replaces = "Weapon training 1, 2, 3, and 4", feature = "weapon-training", levels = [5, 9, 13, 17] },
   { replaces = "Armor training 2", feature = "armor-training", power = "2" },
   { replaces = "The 8th-level bonus feat", feature = "bonus-feats", levels = [8] },
   { replaces = "The 12th-level bonus feat", feature = "bonus-feats", levels = [12] },

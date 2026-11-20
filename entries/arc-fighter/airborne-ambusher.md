@@ -20,7 +20,7 @@ trades = [
   { replaces = "Bravery", feature = "bravery" },
   { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
   { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
-  { replaces = "Weapon training 3 and 4" },
+  { replaces = "Weapon training 3 and 4", feature = "weapon-training", levels = [13, 17] },
 ]
 +++
 

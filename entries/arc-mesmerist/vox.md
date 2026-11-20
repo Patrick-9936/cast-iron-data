@@ -18,7 +18,7 @@ page = "39"
 kind = "archetype"
 trades = [
   { replaces = "Towering ego, 10th-level mesmerist trick" },
-  { replaces = "touch treatment (break enchantment)" },
+  { replaces = "touch treatment (break enchantment)", feature = "touch-treatment", power = "break enchantment" },
   { replaces = "Touch treatment (minor)", feature = "touch-treatment", power = "minor" },
   { replaces = "touch treatment (moderate)", feature = "touch-treatment", power = "moderate" },
   { replaces = "Touch treatment (major)", feature = "touch-treatment", power = "major" },

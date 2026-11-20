@@ -21,7 +21,7 @@ trades = [
   { replaces = "Touch treatment (minor)", feature = "touch-treatment", power = "minor" },
   { replaces = "Touch treatment (moderate)", feature = "touch-treatment", power = "moderate" },
   { replaces = "Touch treatment (greater)", feature = "touch-treatment", power = "greater" },
-  { replaces = "Touch treatment (break enchantment)" },
+  { replaces = "Touch treatment (break enchantment)", feature = "touch-treatment", power = "break enchantment" },
   { alters = "Painful stare", feature = "painful-stare" },
 ]
 +++

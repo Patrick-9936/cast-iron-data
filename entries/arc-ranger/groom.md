@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Track", feature = "track" },
   { replaces = "Endurance", feature = "endurance" },
-  { replaces = "1st favored terrain" },
+  { replaces = "1st favored terrain", feature = "favored-terrain", levels = [3] },
 ]
 +++
 

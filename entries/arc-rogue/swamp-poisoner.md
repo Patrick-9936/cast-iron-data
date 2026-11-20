@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Trapfinding", feature = "trapfinding" },
   { replaces = "Rogue talent gained at 2nd level", feature = "rogue-talents", levels = [2] },
-  { replaces = "Trap sense (core rogue)" },
+  { replaces = "Trap sense (core rogue)", feature = "trap-sense" },
   { replaces = "danger sense (unchained rogue)" },
 ]
 +++

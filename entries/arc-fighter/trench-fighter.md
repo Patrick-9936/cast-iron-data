@@ -17,7 +17,7 @@ page = "67"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Armor training 1, 2, 3, and 4" },
+  { replaces = "Armor training 1, 2, 3, and 4", feature = "armor-training", levels = [3, 7, 11, 15] },
 ]
 +++
 

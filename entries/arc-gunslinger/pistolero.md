@@ -17,7 +17,7 @@ trades = [
   { replaces = "Deadeye deed" },
   { replaces = "Startling shot deed" },
   { replaces = "Bleeding wound deed" },
-  { replaces = "Gun training 1-4" },
+  { replaces = "Gun training 1-4", feature = "gun-training", levels = [5, 9, 13, 17] },
   { alters = "Gunsmith", feature = "gunsmith" },
 ]
 +++

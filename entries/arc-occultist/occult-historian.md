@@ -20,7 +20,7 @@ trades = [
   { replaces = "Object reading", feature = "object-reading" },
   { replaces = "aura sight", feature = "aura-sight" },
   { replaces = "3rd-level focus power", feature = "focus-powers", levels = [3] },
-  { replaces = "Outside contact 2, 3, and 4" },
+  { replaces = "Outside contact 2, 3, and 4", feature = "outside-contact", levels = [12, 16, 20] },
 ]
 +++
 

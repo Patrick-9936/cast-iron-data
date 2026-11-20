@@ -20,7 +20,7 @@ trades = [
   { replaces = "Bonus fighter combat feat gained at 1st level" },
   { replaces = "proficiency with heavy armor and tower shields" },
   { replaces = "Armor training 1", feature = "armor-training", power = "1" },
-  { replaces = "Weapon training 1 and 3" },
+  { replaces = "Weapon training 1 and 3", feature = "weapon-training", levels = [5, 13] },
   { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
   { replaces = "Armor training 3", feature = "armor-training", power = "3" },
   { replaces = "Armor training 4", feature = "armor-training", power = "4" },

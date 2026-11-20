@@ -22,7 +22,7 @@ trades = [
   { replaces = "The bonus combat feats the fighter normally receives at 2nd, 6th, 10th, 14th, and 18th levels" },
   { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
   { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
-  { replaces = "Weapon training 3 and 4" },
+  { replaces = "Weapon training 3 and 4", feature = "weapon-training", levels = [13, 17] },
   { replaces = "Weapon mastery", feature = "weapon-mastery" },
   { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
 ]
