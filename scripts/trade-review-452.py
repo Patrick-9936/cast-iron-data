@@ -599,11 +599,21 @@ def cmd_normalize(args):
                 continue  # a trade that already has levels and a power is judged by hand
             after = {k: v for k, v in before.items() if k != "power"}
             after["levels"] = levels
-            edits_by_entry.setdefault(data["id"], {})[i] = (op, t[op], after)
+            rule = f"step value {t['power']!r} of {slug} {t['feature']} is a progression step: grant levels from the class table ({label})"
+            # The grant levels may meet another trade of the entry: the whole feature, or the same
+            # step twice. Then the named component stays (the one-claim rule needs the two apart).
+            proposed = (op, after["feature"], after.get("class"), None, frozenset(levels))
+            clash = next(
+                (j for j, u in enumerate(data["fields"]["trades"], 1)
+                 if j != i and "feature" in u and overlap(proposed, claim_of(u))), None)
+            if clash is not None:
+                after = dict(before)
+                rule = f"kept: grant levels {levels} of {t['power']!r} would overlap trade {clash} of the same key; the named component stays"
+            if after != before:
+                edits_by_entry.setdefault(data["id"], {})[i] = (op, t[op], after)
             log[(data["id"], i)] = {
                 "id": data["id"], "trade": str(i), "op": op, "printed": t[op],
-                "before": encode_keys(before), "after": encode_keys(after),
-                "rule": f"step value {t['power']!r} of {slug} {t['feature']} is a progression step: grant levels from the class table ({label})",
+                "before": encode_keys(before), "after": encode_keys(after), "rule": rule,
             }
     written = sum(rewrite_entry(entry_id, edits) for entry_id, edits in edits_by_entry.items())
     rows = [log[k] for k in sorted(log)]
