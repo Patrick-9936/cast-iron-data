@@ -21,7 +21,7 @@ trades = [
   { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
   { alters = "Sacred weapon", feature = "sacred-weapon" },
   { alters = "Blessings", feature = "blessings" },
-  { alters = "Blessings (major)", feature = "blessings", power = "major" },
+  { alters = "Blessings (major)", feature = "blessings", levels = [10] },
 ]
 +++
 

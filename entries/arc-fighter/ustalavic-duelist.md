@@ -19,10 +19,10 @@ kind = "archetype"
 trades = [
   { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
   { replaces = "The fighter's 1st-level bonus feat", feature = "bonus-feats", levels = [1] },
-  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
-  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
-  { replaces = "Weapon training 3", feature = "weapon-training", power = "3" },
-  { replaces = "Weapon training 4", feature = "weapon-training", power = "4" },
+  { replaces = "Weapon training 1", feature = "weapon-training", levels = [5] },
+  { replaces = "Weapon training 2", feature = "weapon-training", levels = [9] },
+  { replaces = "Weapon training 3", feature = "weapon-training", levels = [13] },
+  { replaces = "Weapon training 4", feature = "weapon-training", levels = [17] },
 ]
 +++
 
