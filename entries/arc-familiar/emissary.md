@@ -15,7 +15,11 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "Share spells", "Deliver touch spells"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "Share spells" },
+  { replaces = "Deliver touch spells" },
+]
 +++
 
 The emissary is touched by the divine, serving as a font of wisdom and a moral compass for its

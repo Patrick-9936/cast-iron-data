@@ -16,10 +16,15 @@ page = "42"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Hunter's bond", "woodland stride", "Combat style feat gained at 6th level"]
-alters = ["Combat style feats", "Quarry", "improved quarry"]
-replaces_features = ["wild-empathy", "hunter-s-bond", "woodland-stride"]
-alters_features = ["quarry", "improved-quarry"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "woodland stride", feature = "woodland-stride" },
+  { replaces = "Combat style feat gained at 6th level", feature = "combat-style-feat", levels = [6] },
+  { alters = "Combat style feats", feature = "combat-style-feat" },
+  { alters = "Quarry", feature = "quarry" },
+  { alters = "improved quarry", feature = "improved-quarry" },
+]
 +++
 
 A sentinel specializes in heightening all of her senses to expose spies and those who work for

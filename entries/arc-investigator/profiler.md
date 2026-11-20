@@ -16,8 +16,15 @@ page = "55"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "poison lore", "trap sense", "Poison resistance", "poison immunity", "Swift alchemy", "Investigator talent at 7th level"]
-replaces_features = ["trapfinding", "poison-lore", "trap-sense", "poison-resistance", "swift-alchemy"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "poison lore", feature = "poison-lore" },
+  { replaces = "trap sense", feature = "trap-sense" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { replaces = "Investigator talent at 7th level", feature = "investigator-talent", levels = [7] },
+]
 +++
 
 Profilers understand the human psyche to an intense degree, allowing them to predict the criminals

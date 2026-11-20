@@ -16,8 +16,14 @@ page = "68"
 
 [fields]
 kind = "archetype"
-replaces = ["1st favored enemy", "All combat style feats", "Hunter's bond", "2nd, 3rd, and 4th favored enemies", "5th favored enemy", "master hunter"]
-replaces_features = ["hunter-s-bond", "master-hunter"]
+trades = [
+  { replaces = "1st favored enemy" },
+  { replaces = "All combat style feats" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "2nd, 3rd, and 4th favored enemies" },
+  { replaces = "5th favored enemy" },
+  { replaces = "master hunter", feature = "master-hunter" },
+]
 +++
 
 All rangers have a bond with the wilderness, but the warden may have the strongest. This protector

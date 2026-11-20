@@ -16,9 +16,22 @@ page = "4"
 
 [fields]
 kind = "archetype"
-replaces = ["Phantom", "phantom recall", "spiritual bond", "dual bond", "Etheric tether", "shared consciousness", "fused consciousness", "empowered consciousness", "Bonded senses", "Bonded manifestation", "Spiritual interference", "greater spiritual interference"]
-alters = ["Weapon", "armor proficiency"]
-replaces_features = ["phantom", "phantom-recall", "spiritual-bond", "dual-bond", "etheric-tether", "shared-consciousness", "fused-consciousness", "empowered-consciousness", "bonded-senses", "bonded-manifestation", "spiritual-interference", "greater-spiritual-interference"]
+trades = [
+  { replaces = "Phantom", feature = "phantom" },
+  { replaces = "phantom recall", feature = "phantom-recall" },
+  { replaces = "spiritual bond", feature = "spiritual-bond" },
+  { replaces = "dual bond", feature = "dual-bond" },
+  { replaces = "Etheric tether", feature = "etheric-tether" },
+  { replaces = "shared consciousness", feature = "shared-consciousness" },
+  { replaces = "fused consciousness", feature = "fused-consciousness" },
+  { replaces = "empowered consciousness", feature = "empowered-consciousness" },
+  { replaces = "Bonded senses", feature = "bonded-senses" },
+  { replaces = "Bonded manifestation", feature = "bonded-manifestation" },
+  { replaces = "Spiritual interference", feature = "spiritual-interference" },
+  { replaces = "greater spiritual interference", feature = "greater-spiritual-interference" },
+  { alters = "Weapon" },
+  { alters = "armor proficiency" },
+]
 +++
 
 A small selection of spiritualists are connected to spirits of combat and warfare, and manifest a

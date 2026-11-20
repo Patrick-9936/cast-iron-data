@@ -16,10 +16,16 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiency", "Swashbuckler finesse", "Menacing swordplay", "Superior feint", "Bleeding wound", "Dizzying defense"]
-alters = ["Panache", "Bonus feats"]
-replaces_features = ["swashbuckler-finesse"]
-alters_features = ["panache", "bonus-feats"]
+trades = [
+  { replaces = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
+  { replaces = "Menacing swordplay" },
+  { replaces = "Superior feint" },
+  { replaces = "Bleeding wound" },
+  { replaces = "Dizzying defense" },
+  { alters = "Panache", feature = "panache" },
+  { alters = "Bonus feats", feature = "bonus-feats" },
+]
 +++
 
 An Okayo corsair practices a unique acrobatic martial art that draws inspiration from both the

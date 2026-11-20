@@ -16,8 +16,14 @@ page = "105"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "Armor training 1, 2, 3, and 4", "Weapon training 1 and 4", "Weapon training 2", "Weapon training 3", "Armor mastery"]
-replaces_features = ["bravery", "armor-mastery"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Armor training 1, 2, 3, and 4" },
+  { replaces = "Weapon training 1 and 4" },
+  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { replaces = "Weapon training 3", feature = "weapon-training", power = "3" },
+  { replaces = "Armor mastery", feature = "armor-mastery" },
+]
 +++
 
 The free hand fighter specializes in the delicate art of handling a single weapon in one hand while

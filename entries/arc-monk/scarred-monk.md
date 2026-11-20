@@ -16,10 +16,14 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["High jump", "wholeness of body", "abundant step", "empty body", "the ability to spend ki points to do anything other than what's described below"]
-alters = ["Ki pool"]
-replaces_features = ["high-jump", "wholeness-of-body", "abundant-step", "empty-body"]
-alters_features = ["ki-pool"]
+trades = [
+  { replaces = "High jump", feature = "high-jump" },
+  { replaces = "wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "abundant step", feature = "abundant-step" },
+  { replaces = "empty body", feature = "empty-body" },
+  { replaces = "the ability to spend ki points to do anything other than what's described below" },
+  { alters = "Ki pool", feature = "ki-pool" },
+]
 +++
 
 Scarred monks find unique clarity in physical discomfort. For monks who seek the truth hidden in

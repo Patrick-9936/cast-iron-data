@@ -16,10 +16,12 @@ page = "77"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Uncanny dodge", "Improved uncanny dodge"]
-alters = ["Rogue talents"]
-replaces_features = ["trapfinding", "uncanny-dodge", "improved-uncanny-dodge"]
-alters_features = ["rogue-talents"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { alters = "Rogue talents", feature = "rogue-talents" },
+]
 +++
 
 Sylvan tricksters are rogues who model themselves after the mischievous fey of legend. Though not

@@ -16,8 +16,11 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus feats gained at 6th, 12th, and 18th levels", "Demanding challenge", "Supreme charge"]
-replaces_features = ["demanding-challenge", "supreme-charge"]
+trades = [
+  { replaces = "Bonus feats gained at 6th, 12th, and 18th levels", feature = "bonus-feat", levels = [6, 12, 18] },
+  { replaces = "Demanding challenge", feature = "demanding-challenge" },
+  { replaces = "Supreme charge", feature = "supreme-charge" },
+]
 +++
 
 Most cavaliers are great tacticians, but some stand above the rest for their ability to lead troops

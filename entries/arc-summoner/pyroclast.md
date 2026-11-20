@@ -16,10 +16,11 @@ page = "72"
 
 [fields]
 kind = "archetype"
-replaces = ["Maker's call", "Transposition"]
-alters = ["Spells"]
-replaces_features = ["maker-s-call", "transposition"]
-alters_features = ["spells"]
+trades = [
+  { replaces = "Maker's call", feature = "maker-s-call" },
+  { replaces = "Transposition", feature = "transposition" },
+  { alters = "Spells", feature = "spells" },
+]
 +++
 
 Pyroclasts harness the primal elemental energy of magma. Their eidolons often resemble elemental

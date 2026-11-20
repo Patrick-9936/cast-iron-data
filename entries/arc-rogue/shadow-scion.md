@@ -16,8 +16,13 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Rogue talent gained at 2nd level", "Rogue talent gained at 8th level", "Rogue talent gained at 14th level", "Master strike"]
-replaces_features = ["trapfinding", "master-strike"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Rogue talent gained at 2nd level", feature = "rogue-talents", levels = [2] },
+  { replaces = "Rogue talent gained at 8th level", feature = "rogue-talents", levels = [8] },
+  { replaces = "Rogue talent gained at 14th level", feature = "rogue-talents", levels = [14] },
+  { replaces = "Master strike", feature = "master-strike" },
+]
 +++
 
 Count Ranalc's worshipers congregate in the places between dark and light, searching for secrets

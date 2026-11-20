@@ -16,10 +16,16 @@ page = "5"
 
 [fields]
 kind = "archetype"
-replaces = ["Shared seance", "Trance of three"]
-alters = ["Armor proficiency", "Spirit", "Spirit surge", "Spirit power (lesser)", "Spirit power (intermediate)", "Spirit power (supreme)"]
-replaces_features = ["shared-seance", "trance-of-three"]
-alters_features = ["spirit", "spirit-surge"]
+trades = [
+  { replaces = "Shared seance", feature = "shared-seance" },
+  { replaces = "Trance of three", feature = "trance-of-three" },
+  { alters = "Armor proficiency" },
+  { alters = "Spirit", feature = "spirit" },
+  { alters = "Spirit surge", feature = "spirit-surge" },
+  { alters = "Spirit power (lesser)" },
+  { alters = "Spirit power (intermediate)" },
+  { alters = "Spirit power (supreme)" },
+]
 +++
 
 A medium of the master forgoes a connection with most spirits to form a bond with the spirits of

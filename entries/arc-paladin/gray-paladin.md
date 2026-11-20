@@ -16,10 +16,21 @@ page = "69"
 
 [fields]
 kind = "archetype"
-replaces = ["Aura of good", "divine grace", "Code of conduct and associated abilities", "Divine health", "Channel positive energy", "Aura of justice"]
-alters = ["Alignment restrictions", "Smite evil", "aura of courage", "aura of resolve", "aura of righteousness", "Ex-paladin", "Smite evil"]
-replaces_features = ["aura-of-good", "divine-grace", "divine-health", "channel-positive-energy", "aura-of-justice"]
-alters_features = ["smite-evil", "aura-of-courage", "aura-of-resolve", "aura-of-righteousness", "smite-evil"]
+trades = [
+  { replaces = "Aura of good", feature = "aura-of-good" },
+  { replaces = "divine grace", feature = "divine-grace" },
+  { replaces = "Code of conduct and associated abilities" },
+  { replaces = "Divine health", feature = "divine-health" },
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { alters = "Alignment restrictions" },
+  { alters = "Smite evil", feature = "smite-evil" },
+  { alters = "aura of courage", feature = "aura-of-courage" },
+  { alters = "aura of resolve", feature = "aura-of-resolve" },
+  { alters = "aura of righteousness", feature = "aura-of-righteousness" },
+  { alters = "Ex-paladin", feature = "sec-ex-paladins" },
+  { alters = "Smite evil" },
+]
 +++
 
 Gray paladins have discovered that in a world of intrigue, a strict code of honor hinders their

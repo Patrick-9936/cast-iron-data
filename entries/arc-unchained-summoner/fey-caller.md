@@ -16,7 +16,9 @@ page = "71"
 
 [fields]
 kind = "archetype"
-alters = ["Summon monster"]
+trades = [
+  { alters = "Summon monster" },
+]
 +++
 
 The strange creatures known as fey hail from a variety of places, including the natural world and

@@ -16,8 +16,12 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["The magus's ability to expend points from his arcane pool as a swift action to grant any weapon he is holding magic bonuses for 1 minute", "5th-level bonus feat", "Medium armor", "Heavy armor"]
-replaces_features = ["medium-armor", "heavy-armor"]
+trades = [
+  { replaces = "The magus's ability to expend points from his arcane pool as a swift action to grant any weapon he is holding magic bonuses for 1 minute" },
+  { replaces = "5th-level bonus feat", feature = "bonus-feats", levels = [5] },
+  { replaces = "Medium armor", feature = "medium-armor" },
+  { replaces = "Heavy armor", feature = "heavy-armor" },
+]
 +++
 
 The strong emphasis on wizards within elven culture influences how even non-wizard elves see

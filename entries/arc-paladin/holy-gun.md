@@ -16,10 +16,12 @@ page = "63"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect evil", "Smite evil", "Divine bond"]
-alters = ["Holy champion"]
-replaces_features = ["detect-evil", "smite-evil", "divine-bond"]
-alters_features = ["holy-champion"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { alters = "Holy champion", feature = "holy-champion" },
+]
 +++
 
 Not all paladins are knights in shining armor. Holy guns roam the world searching for evil. And

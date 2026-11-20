@@ -16,8 +16,13 @@ page = "110"
 
 [fields]
 kind = "archetype"
-replaces = ["Still mind", "Purity of body", "Diamond body", "Diamond soul", "Empty body"]
-replaces_features = ["still-mind", "purity-of-body", "diamond-body", "diamond-soul", "empty-body"]
+trades = [
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "Diamond body", feature = "diamond-body" },
+  { replaces = "Diamond soul", feature = "diamond-soul" },
+  { replaces = "Empty body", feature = "empty-body" },
+]
 +++
 
 Most monks lead lives of moderation and quiet contemplation. But the drunken master finds perfection

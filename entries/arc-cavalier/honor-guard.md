@@ -16,10 +16,12 @@ page = "37"
 
 [fields]
 kind = "archetype"
-replaces = ["Cavalier's charge", "Mighty charge", "Demanding challenge"]
-alters = ["Challenge"]
-replaces_features = ["cavalier-s-charge", "mighty-charge", "demanding-challenge"]
-alters_features = ["challenge"]
+trades = [
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "Demanding challenge", feature = "demanding-challenge" },
+  { alters = "Challenge", feature = "challenge" },
+]
 +++
 
 Certain cavaliers are trained not as advance combatants, but as loyal guards, standing as firm

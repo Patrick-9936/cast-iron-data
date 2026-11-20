@@ -16,7 +16,9 @@ page = "78"
 
 [fields]
 kind = "archetype"
-replaces = ["The arcanist exploits gained at 1st, 7th, 13th, and 19th levels"]
+trades = [
+  { replaces = "The arcanist exploits gained at 1st, 7th, 13th, and 19th levels", feature = "arcanist-exploits", levels = [1, 7, 13, 19] },
+]
 +++
 
 Where most arcanists are broad in their study of magic, a spell specialist has her power focused in

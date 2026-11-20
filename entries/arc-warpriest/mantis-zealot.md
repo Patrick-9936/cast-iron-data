@@ -19,10 +19,12 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "Sacred weapon", "Sacred armor"]
-alters = ["Aspect of war"]
-replaces_features = ["weapon-and-armor-proficiencies", "sacred-weapon", "sacred-armor"]
-alters_features = ["aspect-of-war"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Sacred weapon", feature = "sacred-weapon" },
+  { replaces = "Sacred armor", feature = "sacred-armor" },
+  { alters = "Aspect of war", feature = "aspect-of-war" },
+]
 +++
 
 Among the [Red Mantis](ref/rule/aff-assassins) worshipers of Achaekek, some hold such strong faith

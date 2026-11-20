@@ -16,10 +16,13 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Haunt channeler", "location channel", "connection channel", "ask the spirits"]
-alters = ["Spirit"]
-replaces_features = ["haunt-channeler", "location-channel", "connection-channel", "ask-the-spirits"]
-alters_features = ["spirit"]
+trades = [
+  { replaces = "Haunt channeler", feature = "haunt-channeler" },
+  { replaces = "location channel", feature = "location-channel" },
+  { replaces = "connection channel", feature = "connection-channel" },
+  { replaces = "ask the spirits", feature = "ask-the-spirits" },
+  { alters = "Spirit", feature = "spirit" },
+]
 +++
 
 Among the most sacred roles a grippli can play is that of fiend keeper, a vessel to contain one of

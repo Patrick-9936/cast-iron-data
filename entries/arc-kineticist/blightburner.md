@@ -16,9 +16,15 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Basic geokinesis wild talent", "Utility wild talent gained at 2nd level", "Ability score boosts granted by elemental overflow", "earth's elemental defense"]
-alters = ["Elemental focus", "Gather power", "internal buffer"]
-alters_features = ["elemental-focus", "gather-power", "internal-buffer"]
+trades = [
+  { replaces = "Basic geokinesis wild talent" },
+  { replaces = "Utility wild talent gained at 2nd level" },
+  { replaces = "Ability score boosts granted by elemental overflow" },
+  { replaces = "earth's elemental defense" },
+  { alters = "Elemental focus", feature = "elemental-focus" },
+  { alters = "Gather power", feature = "gather-power" },
+  { alters = "internal buffer", feature = "internal-buffer" },
+]
 +++
 
 Darklands geokineticists sometimes exhibit supernatural powers associated with

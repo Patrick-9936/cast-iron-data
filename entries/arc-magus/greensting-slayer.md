@@ -16,10 +16,11 @@ page = "9"
 
 [fields]
 kind = "archetype"
-replaces = ["Medium armor", "Heavy armor"]
-alters = ["Arcane pool"]
-replaces_features = ["medium-armor", "heavy-armor"]
-alters_features = ["arcane-pool"]
+trades = [
+  { replaces = "Medium armor", feature = "medium-armor" },
+  { replaces = "Heavy armor", feature = "heavy-armor" },
+  { alters = "Arcane pool", feature = "arcane-pool" },
+]
 +++
 
 The blending of martial prowess with elven magic has long been a staple of the Blackash Training

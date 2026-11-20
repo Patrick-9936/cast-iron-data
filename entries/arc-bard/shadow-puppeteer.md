@@ -16,7 +16,10 @@ page = "210"
 
 [fields]
 kind = "archetype"
-replaces = ["Inspire courage", "inspire competence"]
+trades = [
+  { replaces = "Inspire courage" },
+  { replaces = "inspire competence" },
+]
 +++
 
 A shadow puppeteer invokes amazing and terrifying shadow puppet shows, producing supernatural

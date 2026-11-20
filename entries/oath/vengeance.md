@@ -13,8 +13,10 @@ page = "63"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Channel positive energy", "Aura of justice"]
-replaces_features = ["channel-positive-energy", "aura-of-justice"]
+trades = [
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+]
 +++
 
 While all paladins uphold the principals of law and good, sometimes these ideas must have a ruthless

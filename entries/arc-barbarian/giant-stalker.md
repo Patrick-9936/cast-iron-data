@@ -16,10 +16,11 @@ page = "130"
 
 [fields]
 kind = "archetype"
-replaces = ["Uncanny dodge", "Trap sense"]
-alters = ["Rage"]
-replaces_features = ["uncanny-dodge", "trap-sense"]
-alters_features = ["rage"]
+trades = [
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { alters = "Rage", feature = "rage" },
+]
 +++
 
 Of the dangerous creatures that roam grim peaks and icy steppes, giants are among the most feared.

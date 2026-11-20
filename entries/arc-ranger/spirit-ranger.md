@@ -16,8 +16,10 @@ page = "129"
 
 [fields]
 kind = "archetype"
-replaces = ["Hunter's bond", "Camouflage"]
-replaces_features = ["hunter-s-bond", "camouflage"]
+trades = [
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Camouflage", feature = "camouflage" },
+]
 +++
 
 Some rangers nurture a connection with the spirits that reside in all things. By communing with

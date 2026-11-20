@@ -16,10 +16,14 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "lore master", "Versatile performance", "Well-versed", "soothing performance"]
-alters = ["Weapon and armor proficiencies"]
-replaces_features = ["bardic-knowledge", "lore-master", "versatile-performance", "well-versed"]
-alters_features = ["weapon-and-armor-proficiencies"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "lore master", feature = "lore-master" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "soothing performance" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+]
 +++
 
 Jugglers are masters of manipulating objects, most famously by keeping multiple objects in the air

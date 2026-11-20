@@ -16,8 +16,9 @@ page = "78"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement"]
-replaces_features = ["fast-movement"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+]
 +++
 
 Barbarians are known for their ability to consume potent drink, but drunken brutes turn drinking

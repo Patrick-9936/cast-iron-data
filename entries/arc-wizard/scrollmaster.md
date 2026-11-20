@@ -16,8 +16,10 @@ page = "89"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane bond", "10th-level bonus feat"]
-replaces_features = ["arcane-bond"]
+trades = [
+  { replaces = "Arcane bond", feature = "arcane-bond" },
+  { replaces = "10th-level bonus feat", feature = "bonus-feats", levels = [10] },
+]
 +++
 
 To some wizards, a scroll is not just a written form of a spell, it is a physical weapon meant to be

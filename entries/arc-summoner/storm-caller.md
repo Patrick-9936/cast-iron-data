@@ -16,10 +16,13 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["Shield ally", "greater shield ally", "Maker's call", "transposition"]
-alters = ["Eidolon"]
-replaces_features = ["shield-ally", "greater-shield-ally", "maker-s-call", "transposition"]
-alters_features = ["eidolon"]
+trades = [
+  { replaces = "Shield ally", feature = "shield-ally" },
+  { replaces = "greater shield ally", feature = "greater-shield-ally" },
+  { replaces = "Maker's call", feature = "maker-s-call" },
+  { replaces = "transposition", feature = "transposition" },
+  { alters = "Eidolon", feature = "eidolon" },
+]
 +++
 
 Many summoners beckon monsters from the Elemental Planes, but few are as specialized as storm

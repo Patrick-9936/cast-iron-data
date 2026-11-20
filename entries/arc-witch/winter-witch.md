@@ -19,7 +19,9 @@ page = "43"
 
 [fields]
 kind = "archetype"
-replaces = ["4th-level hex"]
+trades = [
+  { replaces = "4th-level hex", feature = "hex", levels = [4] },
+]
 +++
 
 The descendents of Baba Yaga rule the frozen realm of Irrisen, and possess a unique power stemming

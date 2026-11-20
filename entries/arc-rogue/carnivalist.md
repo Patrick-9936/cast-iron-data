@@ -16,10 +16,11 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Rogue talents gained at 2nd, 4th, and 6th level", "Trap sense"]
-alters = ["Sneak attack"]
-replaces_features = ["trap-sense"]
-alters_features = ["sneak-attack"]
+trades = [
+  { replaces = "Rogue talents gained at 2nd, 4th, and 6th level", feature = "rogue-talents", levels = [2, 4, 6] },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { alters = "Sneak attack", feature = "sneak-attack" },
+]
 +++
 
 Carnivalists train their miniature minions to perform acts of larceny and often hide their true

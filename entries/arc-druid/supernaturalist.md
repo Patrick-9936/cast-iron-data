@@ -16,10 +16,15 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature sense", "trackless step", "resist nature's lure", "Wild shape", "Nature bond", "Wild empathy"]
-alters = ["Weapon and armor proficiencies"]
-replaces_features = ["nature-sense", "trackless-step", "resist-nature-s-lure", "wild-shape", "nature-bond", "wild-empathy"]
-alters_features = ["weapon-and-armor-proficiencies"]
+trades = [
+  { replaces = "Nature sense", feature = "nature-sense" },
+  { replaces = "trackless step", feature = "trackless-step" },
+  { replaces = "resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { replaces = "Nature bond", feature = "nature-bond" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+]
 +++
 
 Supernaturalists wholly embrace paranormal phenomena as extensions of nature.

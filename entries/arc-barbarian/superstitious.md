@@ -16,8 +16,10 @@ page = "79"
 
 [fields]
 kind = "archetype"
-replaces = ["Trap sense", "Damage reduction"]
-replaces_features = ["trap-sense", "damage-reduction"]
+trades = [
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Damage reduction", feature = "damage-reduction" },
+]
 +++
 
 Many barbarians distrust magic. While most just shy away from magic, others focus their rage on

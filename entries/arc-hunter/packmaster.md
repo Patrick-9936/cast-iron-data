@@ -16,10 +16,16 @@ page = "96"
 
 [fields]
 kind = "archetype"
-replaces = ["Animal companion", "Animal focus", "Second animal focus", "Master hunter"]
-alters = ["Precise companion", "woodland stride", "teamwork feats", "Teamwork feats"]
-replaces_features = ["animal-companion", "animal-focus", "second-animal-focus", "master-hunter"]
-alters_features = ["precise-companion", "woodland-stride"]
+trades = [
+  { replaces = "Animal companion", feature = "animal-companion" },
+  { replaces = "Animal focus", feature = "animal-focus" },
+  { replaces = "Second animal focus", feature = "second-animal-focus" },
+  { replaces = "Master hunter", feature = "master-hunter" },
+  { alters = "Precise companion", feature = "precise-companion" },
+  { alters = "woodland stride", feature = "woodland-stride" },
+  { alters = "teamwork feats", feature = "teamwork-feat" },
+  { alters = "Teamwork feats" },
+]
 +++
 
 Some hunters form bonds with packs of well-trained creatures. Whether such a hunter is a northern

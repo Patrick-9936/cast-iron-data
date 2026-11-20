@@ -16,8 +16,14 @@ page = "85"
 
 [fields]
 kind = "archetype"
-replaces = ["Well-versed", "Song of strength", "song of the fallen", "rage power gained at 18th level", "Spell kenning", "Rage power gained at 6th level"]
-replaces_features = ["well-versed", "song-of-strength", "song-of-the-fallen", "spell-kenning"]
+trades = [
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Song of strength", feature = "song-of-strength" },
+  { replaces = "song of the fallen", feature = "song-of-the-fallen" },
+  { replaces = "rage power gained at 18th level", feature = "rage-powers", levels = [18] },
+  { replaces = "Spell kenning", feature = "spell-kenning" },
+  { replaces = "Rage power gained at 6th level", feature = "rage-powers", levels = [6] },
+]
 +++
 
 Hunt callers are skalds whose songs draw their allies into the animal world. They can invoke the

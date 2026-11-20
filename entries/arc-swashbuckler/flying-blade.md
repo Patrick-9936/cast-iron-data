@@ -16,10 +16,17 @@ page = "124"
 
 [fields]
 kind = "archetype"
-replaces = ["Dodging panache", "Kip-up", "Menacing swordplay", "Targeted strike", "Perfect thrust", "Swashbuckler weapon training", "Swashbuckler weapon mastery"]
-alters = ["Panache", "Bleeding wound"]
-replaces_features = ["swashbuckler-weapon-training", "swashbuckler-weapon-mastery"]
-alters_features = ["panache"]
+trades = [
+  { replaces = "Dodging panache" },
+  { replaces = "Kip-up" },
+  { replaces = "Menacing swordplay" },
+  { replaces = "Targeted strike" },
+  { replaces = "Perfect thrust" },
+  { replaces = "Swashbuckler weapon training", feature = "swashbuckler-weapon-training" },
+  { replaces = "Swashbuckler weapon mastery", feature = "swashbuckler-weapon-mastery" },
+  { alters = "Panache", feature = "panache" },
+  { alters = "Bleeding wound" },
+]
 +++
 
 While most swashbucklers prefer their battles up close, others prefer dealing death from a distance.

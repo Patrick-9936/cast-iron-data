@@ -16,10 +16,15 @@ page = "52"
 
 [fields]
 kind = "archetype"
-replaces = ["Monster lore", "stern gaze", "Cunning initiative", "Teamwork feats", "Solo tactics"]
-alters = ["Domain", "Spellcasting"]
-replaces_features = ["monster-lore", "stern-gaze", "cunning-initiative", "solo-tactics"]
-alters_features = ["domain"]
+trades = [
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "stern gaze", feature = "stern-gaze" },
+  { replaces = "Cunning initiative", feature = "cunning-initiative" },
+  { replaces = "Teamwork feats", feature = "teamwork-feat" },
+  { replaces = "Solo tactics", feature = "solo-tactics" },
+  { alters = "Domain", feature = "domain" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Some inquisitors embrace the dark powers of their traditional foes, turning such powers toward their

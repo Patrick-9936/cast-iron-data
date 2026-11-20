@@ -16,10 +16,12 @@ page = "70"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Swift tracker"]
-alters = ["Armor proficiency", "Studied target"]
-replaces_features = ["track", "swift-tracker"]
-alters_features = ["studied-target"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { alters = "Armor proficiency" },
+  { alters = "Studied target", feature = "studied-target" },
+]
 +++
 
 Velvet blades specialize in infiltrating the upper echelons of society, mingling with nobles and

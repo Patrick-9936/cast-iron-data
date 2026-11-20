@@ -16,10 +16,19 @@ page = "29"
 
 [fields]
 kind = "archetype"
-replaces = ["Knacks", "Outside contact", "Magic circles", "Binding circles", "Fast circles"]
-alters = ["Spells", "Implements", "Mental focus", "Implements", "weapon and armor proficiencies", "Implement mastery"]
-replaces_features = ["knacks", "outside-contact", "magic-circles", "binding-circles", "fast-circles"]
-alters_features = ["spells", "implements", "mental-focus", "implements", "weapon-and-armor-proficiencies", "implement-mastery"]
+trades = [
+  { replaces = "Knacks", feature = "knacks" },
+  { replaces = "Outside contact", feature = "outside-contact" },
+  { replaces = "Magic circles", feature = "magic-circles" },
+  { replaces = "Binding circles", feature = "binding-circles" },
+  { replaces = "Fast circles", feature = "fast-circles" },
+  { alters = "Spells", feature = "spells" },
+  { alters = "Implements", feature = "implements" },
+  { alters = "Mental focus", feature = "mental-focus" },
+  { alters = "Implements" },
+  { alters = "weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Implement mastery", feature = "implement-mastery" },
+]
 +++
 
 Occultists who recognize that flashy garb and fashionable accoutrements can be just as powerful as

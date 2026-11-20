@@ -16,8 +16,11 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Lay on hands", "Mercy", "Aura of faith"]
-replaces_features = ["lay-on-hands", "mercy", "aura-of-faith"]
+trades = [
+  { replaces = "Lay on hands", feature = "lay-on-hands" },
+  { replaces = "Mercy", feature = "mercy" },
+  { replaces = "Aura of faith", feature = "aura-of-faith" },
+]
 +++
 
 Despite the entropic forces inherent in ganzis, some forgo a life of chaos, instead harnessing their

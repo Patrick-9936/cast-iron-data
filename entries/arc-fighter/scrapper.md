@@ -16,8 +16,10 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor training", "Weapon training 1"]
-replaces_features = ["armor-training"]
+trades = [
+  { replaces = "Armor training", feature = "armor-training" },
+  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
+]
 +++
 
 Scrappers are adept at collecting the leftovers from their enemy's armor and using these scraps to

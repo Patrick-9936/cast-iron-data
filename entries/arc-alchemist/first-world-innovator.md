@@ -16,9 +16,14 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Brew Potion", "poison use", "swift poisoning", "poison immunity", "Poison resistance"]
-alters = ["Bombs"]
-replaces_features = ["brew-potion", "poison-use", "swift-poisoning", "poison-resistance"]
+trades = [
+  { replaces = "Brew Potion", feature = "brew-potion" },
+  { replaces = "poison use", feature = "poison-use" },
+  { replaces = "swift poisoning", feature = "swift-poisoning" },
+  { replaces = "poison immunity" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { alters = "Bombs", feature = "bomb" },
+]
 +++
 
 The First World's energies slowly leak into the Material Plane, haphazardly infusing mundane

@@ -16,8 +16,12 @@ page = "5"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "lore master", "Inspire courage", "Versatile performance"]
-replaces_features = ["bardic-knowledge", "lore-master", "versatile-performance"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "lore master", feature = "lore-master" },
+  { replaces = "Inspire courage" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+]
 +++
 
 The flamesinger finds inspiration in the mesmerizing beauty of fire. While the flamesinger's

@@ -16,10 +16,20 @@ page = "68"
 
 [fields]
 kind = "archetype"
-replaces = ["6th-level phantom recall", "Ability to manifest his phantom", "ability to use emotional focus abilities that require a manifested phantom", "Etheric tether", "Bonded senses", "10th-, 14th-, and 18th-level phantom recall", "spiritual bond", "Spiritual interference", "Fused consciousness", "Greater spiritual interference"]
-alters = ["Phantom", "emotional focus"]
-replaces_features = ["etheric-tether", "bonded-senses", "spiritual-bond", "spiritual-interference", "fused-consciousness", "greater-spiritual-interference"]
-alters_features = ["phantom"]
+trades = [
+  { replaces = "6th-level phantom recall", feature = "phantom-recall", levels = [6] },
+  { replaces = "Ability to manifest his phantom" },
+  { replaces = "ability to use emotional focus abilities that require a manifested phantom" },
+  { replaces = "Etheric tether", feature = "etheric-tether" },
+  { replaces = "Bonded senses", feature = "bonded-senses" },
+  { replaces = "10th-, 14th-, and 18th-level phantom recall", feature = "phantom-recall", levels = [10, 14, 18] },
+  { replaces = "spiritual bond", feature = "spiritual-bond" },
+  { replaces = "Spiritual interference", feature = "spiritual-interference" },
+  { replaces = "Fused consciousness", feature = "fused-consciousness" },
+  { replaces = "Greater spiritual interference", feature = "greater-spiritual-interference" },
+  { alters = "Phantom", feature = "phantom" },
+  { alters = "emotional focus" },
+]
 +++
 
 Psychic magic draws upon the twin and sometimes opposed powers of thought and emotion, but an

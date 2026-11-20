@@ -16,8 +16,10 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Uncanny dodge", "Improved uncanny dodge"]
-replaces_features = ["uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Relic raiders are rogues who specialize in recovering treasures from ruins and tombs, some in a

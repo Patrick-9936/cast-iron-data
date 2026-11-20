@@ -16,10 +16,15 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Magic item skill", "Object reading", "Aura sight", "Outside contact", "Binding circles", "fast circles"]
-alters = ["Implements"]
-replaces_features = ["magic-item-skill", "object-reading", "aura-sight", "outside-contact", "binding-circles", "fast-circles"]
-alters_features = ["implements"]
+trades = [
+  { replaces = "Magic item skill", feature = "magic-item-skill" },
+  { replaces = "Object reading", feature = "object-reading" },
+  { replaces = "Aura sight", feature = "aura-sight" },
+  { replaces = "Outside contact", feature = "outside-contact" },
+  { replaces = "Binding circles", feature = "binding-circles" },
+  { replaces = "fast circles", feature = "fast-circles" },
+  { alters = "Implements", feature = "implements" },
+]
 +++
 
 Rather than tapping the psychic energy residing within esoteric items, psychodermists form

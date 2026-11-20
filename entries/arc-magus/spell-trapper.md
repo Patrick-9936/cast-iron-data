@@ -16,10 +16,11 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Spell recall", "Fighter training"]
-alters = ["Magus arcana"]
-replaces_features = ["spell-recall", "fighter-training"]
-alters_features = ["magus-arcana"]
+trades = [
+  { replaces = "Spell recall", feature = "spell-recall" },
+  { replaces = "Fighter training", feature = "fighter-training" },
+  { alters = "Magus arcana", feature = "magus-arcana" },
+]
 +++
 
 Spell trappers are found in lands where hunting and magic are abundant, particularly the deserts of

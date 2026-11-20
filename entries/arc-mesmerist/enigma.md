@@ -16,10 +16,15 @@ page = "36"
 
 [fields]
 kind = "archetype"
-replaces = ["Consummate liar", "Painful stare", "Manifold tricks", "Glib lie", "Rule minds"]
-alters = ["Hypnotic stare", "Touch treatment"]
-replaces_features = ["consummate-liar", "painful-stare", "manifold-tricks", "glib-lie", "rule-minds"]
-alters_features = ["hypnotic-stare", "touch-treatment"]
+trades = [
+  { replaces = "Consummate liar", feature = "consummate-liar" },
+  { replaces = "Painful stare", feature = "painful-stare" },
+  { replaces = "Manifold tricks", feature = "manifold-tricks" },
+  { replaces = "Glib lie", feature = "glib-lie" },
+  { replaces = "Rule minds", feature = "rule-minds" },
+  { alters = "Hypnotic stare", feature = "hypnotic-stare" },
+  { alters = "Touch treatment", feature = "touch-treatment" },
+]
 +++
 
 An enigma spends his life dedicated to developing psychic abilities that allow him to operate

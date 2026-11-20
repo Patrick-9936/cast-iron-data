@@ -16,8 +16,11 @@ page = "119"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Slayer talent gained at 2nd level", "Slayer talent gained at 6th level"]
-replaces_features = ["track"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Slayer talent gained at 2nd level", feature = "slayer-talents", levels = [2] },
+  { replaces = "Slayer talent gained at 6th level", feature = "slayer-talents", levels = [6] },
+]
 +++
 
 Street-smart and extremely resourceful, cutthroats stalk city streets and alleyways, preying on

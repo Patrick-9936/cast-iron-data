@@ -16,8 +16,16 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature bond", "wild empathy", "woodland stride", "venom immunity", "a thousand faces", "timeless body", "Nature sense", "Resist nature's lure"]
-replaces_features = ["nature-bond", "wild-empathy", "woodland-stride", "venom-immunity", "a-thousand-faces", "timeless-body", "nature-sense", "resist-nature-s-lure"]
+trades = [
+  { replaces = "Nature bond", feature = "nature-bond" },
+  { replaces = "wild empathy", feature = "wild-empathy" },
+  { replaces = "woodland stride", feature = "woodland-stride" },
+  { replaces = "venom immunity", feature = "venom-immunity" },
+  { replaces = "a thousand faces", feature = "a-thousand-faces" },
+  { replaces = "timeless body", feature = "timeless-body" },
+  { replaces = "Nature sense", feature = "nature-sense" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+]
 +++
 
 Some druids believe that dragons are the ultimate expression of nature, combining elemental fury

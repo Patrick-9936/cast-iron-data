@@ -16,7 +16,9 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor training 1 through 4"]
+trades = [
+  { replaces = "Armor training 1 through 4" },
+]
 +++
 
 Molthuni defenders occupy and protect contested territory in their war against Nirmathas. These

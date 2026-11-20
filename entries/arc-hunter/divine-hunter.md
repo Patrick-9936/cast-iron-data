@@ -16,8 +16,10 @@ page = "95"
 
 [fields]
 kind = "archetype"
-replaces = ["Teamwork feats", "Hunter tactics"]
-replaces_features = ["hunter-tactics"]
+trades = [
+  { replaces = "Teamwork feats", feature = "teamwork-feat" },
+  { replaces = "Hunter tactics", feature = "hunter-tactics" },
+]
 +++
 
 While most hunters heed the call of nature and fight to protect its bounty, some are inspired to

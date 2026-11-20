@@ -16,10 +16,12 @@ page = "74"
 
 [fields]
 kind = "archetype"
-replaces = ["Divine bond", "Aura of resolve", "Aura of justice"]
-alters = ["Divine grace"]
-replaces_features = ["divine-bond", "aura-of-resolve", "aura-of-justice"]
-alters_features = ["divine-grace"]
+trades = [
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { replaces = "Aura of resolve", feature = "aura-of-resolve" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { alters = "Divine grace", feature = "divine-grace" },
+]
 +++
 
 While all Steel Falcons are peerless proponents of the rights of the downtrodden, those who endeavor

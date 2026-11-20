@@ -16,7 +16,9 @@ page = "152"
 
 [fields]
 kind = "archetype"
-replaces = ["Familiar"]
+trades = [
+  { replaces = "Familiar" },
+]
 +++
 
 After being locked away and denied her former familiar, the queen learned to talk to her patron via

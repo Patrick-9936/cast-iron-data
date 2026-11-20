@@ -16,8 +16,13 @@ page = "92"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "Still mind", "Purity of body", "Wholeness of body", "Improved evasion"]
-replaces_features = ["evasion", "still-mind", "purity-of-body", "wholeness-of-body", "improved-evasion"]
+trades = [
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+]
 +++
 
 Some catfolk monks dedicate their graceful prowess to the defense of others, especially those

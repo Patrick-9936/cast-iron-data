@@ -16,10 +16,13 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison use", "Spend ki to make an additional attack", "No trace"]
-alters = ["Weapon and armor proficiency", "Ki pool"]
-replaces_features = ["poison-use", "no-trace"]
-alters_features = ["ki-pool"]
+trades = [
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "Spend ki to make an additional attack" },
+  { replaces = "No trace", feature = "no-trace" },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Ki pool", feature = "ki-pool" },
+]
 +++
 
 When the Living God needs to silence the voices of those heretics who question too loudly, these

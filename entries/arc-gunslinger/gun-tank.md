@@ -16,8 +16,12 @@ page = "50"
 
 [fields]
 kind = "archetype"
-replaces = ["Gunslinger's dodge deed", "Evasive deed", "Nimble", "All bonus combat/grit feats"]
-replaces_features = ["nimble"]
+trades = [
+  { replaces = "Gunslinger's dodge deed" },
+  { replaces = "Evasive deed" },
+  { replaces = "Nimble", feature = "nimble" },
+  { replaces = "All bonus combat/grit feats" },
+]
 +++
 
 Gunslingers usually don't use heavy armor, but there are a few who use and modify their armor to

@@ -12,7 +12,13 @@ page = "188"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Evasion", "Devotion", "Multiattack", "Improved Evasion"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Evasion" },
+  { replaces = "Devotion" },
+  { replaces = "Multiattack" },
+  { replaces = "Improved Evasion" },
+]
 +++
 
 Draconic companions bear a faint trace of dragon blood that grants them special abilities.

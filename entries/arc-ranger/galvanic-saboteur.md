@@ -16,10 +16,15 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Favored terrain", "Woodland stride", "Swift tracker", "camouflage", "Hide in plain sight"]
-alters = ["Favored enemy"]
-replaces_features = ["wild-empathy", "favored-terrain", "woodland-stride", "swift-tracker", "camouflage", "hide-in-plain-sight"]
-alters_features = ["favored-enemy"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Favored terrain", feature = "favored-terrain" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "camouflage", feature = "camouflage" },
+  { replaces = "Hide in plain sight", feature = "hide-in-plain-sight" },
+  { alters = "Favored enemy", feature = "favored-enemy" },
+]
 +++
 
 The transformation of the great warlord Kevoth-Kul into the hedonistic Black Sovereign a few decades

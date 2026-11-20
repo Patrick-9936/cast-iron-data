@@ -16,8 +16,13 @@ page = "28"
 
 [fields]
 kind = "archetype"
-replaces = ["Shift focus", "Outside contact", "Magic circles", "Binding circles", "Fast circles"]
-replaces_features = ["shift-focus", "outside-contact", "magic-circles", "binding-circles", "fast-circles"]
+trades = [
+  { replaces = "Shift focus", feature = "shift-focus" },
+  { replaces = "Outside contact", feature = "outside-contact" },
+  { replaces = "Magic circles", feature = "magic-circles" },
+  { replaces = "Binding circles", feature = "binding-circles" },
+  { replaces = "Fast circles", feature = "fast-circles" },
+]
 +++
 
 Some occultists specialize in a particular panoply, fully dedicating themselves to mastering the

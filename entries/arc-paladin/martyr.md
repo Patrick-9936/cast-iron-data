@@ -16,10 +16,16 @@ page = "64"
 
 [fields]
 kind = "archetype"
-replaces = ["Smite evil", "Divine grace", "Divine health"]
-alters = ["Aura of courage", "aura of resolve", "aura of righteousness", "Lay on hands", "mercy"]
-replaces_features = ["smite-evil", "divine-grace", "divine-health"]
-alters_features = ["aura-of-courage", "aura-of-resolve", "aura-of-righteousness", "lay-on-hands", "mercy"]
+trades = [
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { replaces = "Divine grace", feature = "divine-grace" },
+  { replaces = "Divine health", feature = "divine-health" },
+  { alters = "Aura of courage", feature = "aura-of-courage" },
+  { alters = "aura of resolve", feature = "aura-of-resolve" },
+  { alters = "aura of righteousness", feature = "aura-of-righteousness" },
+  { alters = "Lay on hands", feature = "lay-on-hands" },
+  { alters = "mercy", feature = "mercy" },
+]
 +++
 
 Every paladin's code instructs him to put the welfare of others before his own, but some paladins

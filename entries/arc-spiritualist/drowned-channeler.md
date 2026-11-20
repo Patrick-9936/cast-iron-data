@@ -16,10 +16,17 @@ page = "52"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonded senses", "Detect undead", "calm spirit", "see invisibility", "call spirit"]
-alters = ["Phantom", "shared consciousness", "etheric tether", "bonded manifestation"]
-replaces_features = ["bonded-senses", "detect-undead", "calm-spirit", "see-invisibility", "call-spirit"]
-alters_features = ["phantom", "shared-consciousness", "etheric-tether", "bonded-manifestation"]
+trades = [
+  { replaces = "Bonded senses", feature = "bonded-senses" },
+  { replaces = "Detect undead", feature = "detect-undead" },
+  { replaces = "calm spirit", feature = "calm-spirit" },
+  { replaces = "see invisibility", feature = "see-invisibility" },
+  { replaces = "call spirit", feature = "call-spirit" },
+  { alters = "Phantom", feature = "phantom" },
+  { alters = "shared consciousness", feature = "shared-consciousness" },
+  { alters = "etheric tether", feature = "etheric-tether" },
+  { alters = "bonded manifestation", feature = "bonded-manifestation" },
+]
 +++
 
 When a drowned spirit doomed to a watery grave descends toward the evil of undeath and seeks refuge

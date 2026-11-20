@@ -16,9 +16,14 @@ page = "64"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor proficiencies", "Spontaneous casting ability"]
-alters = ["Domains", "class skills", "skill ranks per level", "base attack bonus"]
-alters_features = ["domains"]
+trades = [
+  { replaces = "Armor proficiencies" },
+  { replaces = "Spontaneous casting ability" },
+  { alters = "Domains", feature = "domains" },
+  { alters = "class skills" },
+  { alters = "skill ranks per level" },
+  { alters = "base attack bonus" },
+]
 +++
 
 While a cleric's faith is her highest priority, her church may wield significant political power in

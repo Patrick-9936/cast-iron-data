@@ -16,8 +16,11 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense", "Rogue talent gained at 12th level"]
-replaces_features = ["trapfinding", "trap-sense"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Rogue talent gained at 12th level", feature = "rogue-talents", levels = [12] },
+]
 +++
 
 Some combatants specialize in the study of certain weapons, but those without formal training often

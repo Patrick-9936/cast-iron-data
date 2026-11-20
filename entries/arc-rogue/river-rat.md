@@ -19,8 +19,10 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense"]
-replaces_features = ["trapfinding", "trap-sense"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+]
 +++
 
 What highway robbers are to roads, river rats are to waterways. Skilled at hiding amid reeds and

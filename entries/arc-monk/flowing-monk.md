@@ -16,8 +16,14 @@ page = "58"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning fist", "The bonus feat gained at 2nd level", "Fast movement", "Purity of body", "diamond body", "Quivering palm"]
-replaces_features = ["stunning-fist", "fast-movement", "purity-of-body", "diamond-body", "quivering-palm"]
+trades = [
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "The bonus feat gained at 2nd level", feature = "bonus-feat", levels = [2] },
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "diamond body", feature = "diamond-body" },
+  { replaces = "Quivering palm", feature = "quivering-palm" },
+]
 +++
 
 The flowing monk is the wind and the river. He knows how the world flows, and forces his enemies to

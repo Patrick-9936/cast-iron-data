@@ -16,7 +16,10 @@ page = "42"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus skills from the oracle's mystery", "The bonus spells gained at 6th, 10th, 12th, 16th, and 18th levels from the oracle's mystery"]
+trades = [
+  { replaces = "Bonus skills from the oracle's mystery" },
+  { replaces = "The bonus spells gained at 6th, 10th, 12th, 16th, and 18th levels from the oracle's mystery" },
+]
 +++
 
 Keleshite prophets help guide and serve the vast Padishah Empire of Kelesh and its interests across

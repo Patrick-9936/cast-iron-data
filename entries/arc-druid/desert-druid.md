@@ -16,10 +16,14 @@ page = "99"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Trackless step", "Resist nature's lure", "Venom immunity", "A thousand faces"]
-alters = ["Wild shape"]
-replaces_features = ["woodland-stride", "trackless-step", "resist-nature-s-lure", "venom-immunity", "a-thousand-faces"]
-alters_features = ["wild-shape"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Not all climates are verdant paradises, but even in the sere deserts there is life - though often

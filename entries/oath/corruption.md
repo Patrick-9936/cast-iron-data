@@ -13,8 +13,11 @@ page = "60"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Aura of courage", "Aura of justice", "Holy champion"]
-replaces_features = ["aura-of-courage", "aura-of-justice", "holy-champion"]
+trades = [
+  { replaces = "Aura of courage", feature = "aura-of-courage" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { replaces = "Holy champion", feature = "holy-champion" },
+]
 +++
 
 More insidious than meddling devils and more destructive than rampaging hordes are the strange alien

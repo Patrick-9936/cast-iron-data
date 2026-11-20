@@ -16,10 +16,18 @@ page = "73"
 
 [fields]
 kind = "archetype"
-replaces = ["Quick clear deed", "Pistol whip deed", "Dead shot deed", "Lightning reload deed", "Nimble", "Gun training 1", "Gun training 2", "Gun training 3", "Gun training 4"]
-alters = ["Grit"]
-replaces_features = ["nimble"]
-alters_features = ["grit"]
+trades = [
+  { replaces = "Quick clear deed" },
+  { replaces = "Pistol whip deed" },
+  { replaces = "Dead shot deed" },
+  { replaces = "Lightning reload deed" },
+  { replaces = "Nimble", feature = "nimble" },
+  { replaces = "Gun training 1", feature = "gun-training", power = "1" },
+  { replaces = "Gun training 2", feature = "gun-training", power = "2" },
+  { replaces = "Gun training 3", feature = "gun-training", power = "3" },
+  { replaces = "Gun training 4", feature = "gun-training", power = "4" },
+  { alters = "Grit", feature = "grit" },
+]
 +++
 
 Freebooters who cling to the convoluted codes that rule independent ships, the buccaneer is a

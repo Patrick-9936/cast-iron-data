@@ -16,9 +16,21 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect evil", "Smite evil", "Divine grace", "Lay on hands", "Divine health", "Mercy", "channel energy", "Divine bond", "Aura of justice", "Aura of faith", "Aura of righteousness", "Holy champion"]
-alters = ["Aura"]
-replaces_features = ["detect-evil", "smite-evil", "divine-grace", "lay-on-hands", "divine-health", "mercy", "channel-energy", "divine-bond", "aura-of-justice", "aura-of-faith", "aura-of-righteousness", "holy-champion"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { replaces = "Divine grace", feature = "divine-grace" },
+  { replaces = "Lay on hands", feature = "lay-on-hands" },
+  { replaces = "Divine health", feature = "divine-health" },
+  { replaces = "Mercy", feature = "mercy" },
+  { replaces = "channel energy", feature = "channel-energy" },
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { replaces = "Aura of faith", feature = "aura-of-faith" },
+  { replaces = "Aura of righteousness", feature = "aura-of-righteousness" },
+  { replaces = "Holy champion", feature = "holy-champion" },
+  { alters = "Aura" },
+]
 +++
 
 While paladins often collaborate with less righteous adventurers in order to further their causes,

@@ -16,9 +16,14 @@ page = "47"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus fighter combat feat gained at 1st level", "Bravery", "Weapon training 1", "Armor training 3", "Armor training 4"]
-alters = ["Armor proficiencies"]
-replaces_features = ["bravery"]
+trades = [
+  { replaces = "The bonus fighter combat feat gained at 1st level" },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
+  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
+  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { alters = "Armor proficiencies" },
+]
 +++
 
 While many fighters focus on the fundamentals of melee and ranged combat, there are those who are

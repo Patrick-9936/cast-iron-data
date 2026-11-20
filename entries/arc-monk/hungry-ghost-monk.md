@@ -16,8 +16,13 @@ page = "110"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning Fist", "Purity of body", "Wholeness of body", "Diamond body", "Diamond soul"]
-replaces_features = ["stunning-fist", "purity-of-body", "wholeness-of-body", "diamond-body", "diamond-soul"]
+trades = [
+  { replaces = "Stunning Fist", feature = "stunning-fist" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "Diamond body", feature = "diamond-body" },
+  { replaces = "Diamond soul", feature = "diamond-soul" },
+]
 +++
 
 The hungry ghost monk looks to spirits that prey upon the living as models of perfection. He sees

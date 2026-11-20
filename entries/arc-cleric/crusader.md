@@ -16,7 +16,10 @@ page = "40"
 
 [fields]
 kind = "archetype"
-alters = ["Domain", "spellcasting"]
+trades = [
+  { alters = "Domain", feature = "domains" },
+  { alters = "spellcasting" },
+]
 +++
 
 Crusaders serve the militant arm of a church, ready to stand guard over the religion's holy places

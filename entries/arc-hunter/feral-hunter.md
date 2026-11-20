@@ -16,10 +16,18 @@ page = "95"
 
 [fields]
 kind = "archetype"
-replaces = ["Hunter tactics", "speak with master", "Bonus tricks", "improved empathic link", "greater empathic link", "master of the wild", "raise animal companion", "Teamwork feats gained at 6th, 9th, 12th, 15th, and 18th levels"]
-alters = ["Animal focus", "Precise companion"]
-replaces_features = ["hunter-tactics", "speak-with-master", "bonus-tricks", "improved-empathic-link", "greater-empathic-link", "raise-animal-companion"]
-alters_features = ["animal-focus", "precise-companion"]
+trades = [
+  { replaces = "Hunter tactics", feature = "hunter-tactics" },
+  { replaces = "speak with master", feature = "speak-with-master" },
+  { replaces = "Bonus tricks", feature = "bonus-tricks" },
+  { replaces = "improved empathic link", feature = "improved-empathic-link" },
+  { replaces = "greater empathic link", feature = "greater-empathic-link" },
+  { replaces = "master of the wild" },
+  { replaces = "raise animal companion", feature = "raise-animal-companion" },
+  { replaces = "Teamwork feats gained at 6th, 9th, 12th, 15th, and 18th levels", feature = "teamwork-feat", levels = [6, 9, 12, 15, 18] },
+  { alters = "Animal focus", feature = "animal-focus" },
+  { alters = "Precise companion", feature = "precise-companion" },
+]
 +++
 
 A feral hunter has forged a bond with nature that's so strong that she doesn't merely channel the

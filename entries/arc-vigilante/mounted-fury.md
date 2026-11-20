@@ -16,10 +16,13 @@ page = "58"
 
 [fields]
 kind = "archetype"
-replaces = ["Vigilante specialization", "Vigilante talent gained at 6th level", "Vigilante talent gained at 12th level"]
-alters = ["Dual identity", "Vengeance strike"]
-replaces_features = ["vigilante-specialization"]
-alters_features = ["dual-identity", "vengeance-strike"]
+trades = [
+  { replaces = "Vigilante specialization", feature = "vigilante-specialization" },
+  { replaces = "Vigilante talent gained at 6th level", feature = "vigilante-talent", levels = [6] },
+  { replaces = "Vigilante talent gained at 12th level", feature = "vigilante-talent", levels = [12] },
+  { alters = "Dual identity", feature = "dual-identity" },
+  { alters = "Vengeance strike", feature = "vengeance-strike" },
+]
 +++
 
 Some vigilantes form special bonds with the creatures they use as steeds, considering these loyal

@@ -16,8 +16,15 @@ page = "62"
 
 [fields]
 kind = "archetype"
-replaces = ["Heavy Armor Proficiency", "Aura of courage", "Divine bond", "6th-level mercy", "Aura of resolve", "Aura of justice", "Aura of righteousness"]
-replaces_features = ["aura-of-courage", "divine-bond", "aura-of-resolve", "aura-of-justice", "aura-of-righteousness"]
+trades = [
+  { replaces = "Heavy Armor Proficiency" },
+  { replaces = "Aura of courage", feature = "aura-of-courage" },
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { replaces = "6th-level mercy", feature = "mercy", levels = [6] },
+  { replaces = "Aura of resolve", feature = "aura-of-resolve" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { replaces = "Aura of righteousness", feature = "aura-of-righteousness" },
+]
 +++
 
 Most paladins rush into battle, meeting evil toe-to-toe. The divine hunter prefers to engage evil

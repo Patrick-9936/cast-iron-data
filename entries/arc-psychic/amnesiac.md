@@ -16,7 +16,9 @@ page = "104"
 
 [fields]
 kind = "archetype"
-alters = ["Spellcasting"]
+trades = [
+  { alters = "Spellcasting" },
+]
 +++
 
 The amnesiac once possessed great psychic power, but mental blocks - resulting from either a

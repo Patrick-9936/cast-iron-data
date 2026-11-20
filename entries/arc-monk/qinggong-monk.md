@@ -22,7 +22,9 @@ page = "149"
 
 [fields]
 kind = "archetype"
-replaces = ["The monk class abilities the qinggong monk gives up for a ki power"]
+trades = [
+  { replaces = "The monk class abilities the qinggong monk gives up for a ki power" },
+]
 +++
 
 The qinggong monk is a master of her ki, using it to perform superhuman stunts or even blast

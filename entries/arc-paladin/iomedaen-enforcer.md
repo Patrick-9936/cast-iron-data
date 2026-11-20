@@ -16,10 +16,13 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect evil", "Smite evil"]
-alters = ["Aura of faith", "Aura of righteousness", "holy champion"]
-replaces_features = ["detect-evil", "smite-evil"]
-alters_features = ["aura-of-faith", "aura-of-righteousness", "holy-champion"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { alters = "Aura of faith", feature = "aura-of-faith" },
+  { alters = "Aura of righteousness", feature = "aura-of-righteousness" },
+  { alters = "holy champion", feature = "holy-champion" },
+]
 +++
 
 Since the publication of The Majestic Book of the Prime Ascended, certain paladins have taken "Prime

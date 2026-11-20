@@ -16,8 +16,13 @@ page = "68"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus skills from the oracle's mystery", "The bonus spells gained at 2nd, 6th, 8th, 10th, and 18th levels from the oracle's mystery", "Oracle's curse", "Revelations gained at 1st and 11th levels", "Final revelation"]
-replaces_features = ["oracle-s-curse", "final-revelation"]
+trades = [
+  { replaces = "Bonus skills from the oracle's mystery" },
+  { replaces = "The bonus spells gained at 2nd, 6th, 8th, 10th, and 18th levels from the oracle's mystery" },
+  { replaces = "Oracle's curse", feature = "oracle-s-curse" },
+  { replaces = "Revelations gained at 1st and 11th levels", feature = "revelation", levels = [1, 11] },
+  { replaces = "Final revelation", feature = "final-revelation" },
+]
 +++
 
 River soul oracles derive their powers from their bonds with rivers, whether these waterways are

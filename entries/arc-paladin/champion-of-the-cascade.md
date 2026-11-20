@@ -16,9 +16,12 @@ page = "30"
 
 [fields]
 kind = "archetype"
-replaces = ["Divine health", "Mercy", "Divine bond"]
-alters = ["Armor proficiency"]
-replaces_features = ["divine-health", "mercy", "divine-bond"]
+trades = [
+  { replaces = "Divine health", feature = "divine-health" },
+  { replaces = "Mercy", feature = "mercy" },
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { alters = "Armor proficiency" },
+]
 +++
 
 Great civilizations may rise and fall, but water will always mark the places where cities grow.

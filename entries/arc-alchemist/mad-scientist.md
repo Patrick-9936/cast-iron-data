@@ -16,9 +16,12 @@ page = "45"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd-level discovery", "4th-level discovery"]
-alters = ["Alchemy", "Mutagen"]
-alters_features = ["alchemy", "mutagen"]
+trades = [
+  { replaces = "2nd-level discovery", feature = "discovery", levels = [2] },
+  { replaces = "4th-level discovery", feature = "discovery", levels = [4] },
+  { alters = "Alchemy", feature = "alchemy" },
+  { alters = "Mutagen", feature = "mutagen" },
+]
 +++
 
 The mad scientist's colleagues laughed at her insights, mocked her theories, and hounded her from

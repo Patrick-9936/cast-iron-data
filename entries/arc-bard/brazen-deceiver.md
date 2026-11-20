@@ -16,8 +16,14 @@ page = "50"
 
 [fields]
 kind = "archetype"
-replaces = ["Countersong", "distraction", "Bardic knowledge", "Well-versed", "Versatile performance", "Lore master"]
-replaces_features = ["bardic-knowledge", "well-versed", "versatile-performance", "lore-master"]
+trades = [
+  { replaces = "Countersong" },
+  { replaces = "distraction" },
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Lore master", feature = "lore-master" },
+]
 +++
 
 Where other thieves use stealth or intimidation to achieve their goals, the brazen deceiver depends

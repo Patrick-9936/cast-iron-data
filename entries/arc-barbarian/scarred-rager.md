@@ -16,8 +16,12 @@ page = "29"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement", "Uncanny dodge", "Trap sense", "Improved uncanny dodge"]
-replaces_features = ["fast-movement", "uncanny-dodge", "trap-sense", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Some barbarians wear marks of prowess and savagery upon their bodies. The scarred rager believes

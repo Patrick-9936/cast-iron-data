@@ -16,10 +16,10 @@ page = "9"
 
 [fields]
 kind = "archetype"
-replaces = ["Vigilante specialization"]
-alters = ["Vigilante talent"]
-replaces_features = ["vigilante-specialization"]
-alters_features = ["vigilante-talent"]
+trades = [
+  { replaces = "Vigilante specialization", feature = "vigilante-specialization" },
+  { alters = "Vigilante talent", feature = "vigilante-talent" },
+]
 +++
 
 Occasionally a mutation takes hold of the body of a vigilante, but he learns to hide his maladies,

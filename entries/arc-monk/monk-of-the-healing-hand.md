@@ -16,8 +16,12 @@ page = "113"
 
 [fields]
 kind = "archetype"
-replaces = ["Wholeness of body", "Diamond body", "quivering palm", "Perfect self"]
-replaces_features = ["wholeness-of-body", "diamond-body", "quivering-palm", "perfect-self"]
+trades = [
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "Diamond body", feature = "diamond-body" },
+  { replaces = "quivering palm", feature = "quivering-palm" },
+  { replaces = "Perfect self", feature = "perfect-self" },
+]
 +++
 
 Monks of the healing hand seek perfection through helping others. By focusing their meditations on

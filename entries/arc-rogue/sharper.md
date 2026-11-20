@@ -16,8 +16,12 @@ page = "47"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Rogue talents gained at 2nd, 6th, and 8th levels", "Trap sense", "Rogue talents gained at 4th, 10th, and 16th levels"]
-replaces_features = ["trapfinding", "trap-sense"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Rogue talents gained at 2nd, 6th, and 8th levels", feature = "rogue-talents", levels = [2, 6, 8] },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Rogue talents gained at 4th, 10th, and 16th levels", feature = "rogue-talents", levels = [4, 10, 16] },
+]
 +++
 
 Sharpers use trickery and deception to part an owner from his valuables. Pathological risk-takers,

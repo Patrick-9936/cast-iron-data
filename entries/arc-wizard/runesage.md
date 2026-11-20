@@ -16,10 +16,10 @@ page = "58"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane school"]
-alters = ["Arcane bond"]
-replaces_features = ["arcane-school"]
-alters_features = ["arcane-bond"]
+trades = [
+  { replaces = "Arcane school", feature = "arcane-school" },
+  { alters = "Arcane bond", feature = "arcane-bond" },
+]
 +++
 
 Runesages draw upon the mystic energies of ancient Thassilon. While they sometimes experiment with

@@ -16,8 +16,10 @@ page = "83"
 
 [fields]
 kind = "archetype"
-alters = ["Eidolon", "Life link"]
-alters_features = ["eidolon", "life-link"]
+trades = [
+  { alters = "Eidolon", feature = "eidolon" },
+  { alters = "Life link", feature = "life-link" },
+]
 +++
 
 Not everyone who becomes a summoner is an intentional dabbler in the arcane arts. Soulbound

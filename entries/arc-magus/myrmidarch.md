@@ -16,8 +16,15 @@ page = "56"
 
 [fields]
 kind = "archetype"
-replaces = ["Spell recall", "improved spell recall", "Magus arcana gained at 6th, 12th, and 18th levels", "Knowledge pool, 10th-level fighter training", "Improved spell combat", "greater spell combat", "True magus"]
-replaces_features = ["spell-recall", "improved-spell-recall", "knowledge-pool", "improved-spell-combat", "greater-spell-combat", "true-magus"]
+trades = [
+  { replaces = "Spell recall", feature = "spell-recall" },
+  { replaces = "improved spell recall", feature = "improved-spell-recall" },
+  { replaces = "Magus arcana gained at 6th, 12th, and 18th levels", feature = "magus-arcana", levels = [6, 12, 18] },
+  { replaces = "Knowledge pool, 10th-level fighter training" },
+  { replaces = "Improved spell combat", feature = "improved-spell-combat" },
+  { replaces = "greater spell combat", feature = "greater-spell-combat" },
+  { replaces = "True magus", feature = "true-magus" },
+]
 +++
 
 The myrmidarch is a skilled specialist, using magic to supplement and augment his martial mastery.

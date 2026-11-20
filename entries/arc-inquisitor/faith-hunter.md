@@ -16,10 +16,13 @@ page = "28"
 
 [fields]
 kind = "archetype"
-replaces = ["Domain", "justice and destruction judgments", "Detect alignment"]
-alters = ["Judgment", "Bane"]
-replaces_features = ["domain", "detect-alignment"]
-alters_features = ["judgment", "bane"]
+trades = [
+  { replaces = "Domain", feature = "domain" },
+  { replaces = "justice and destruction judgments" },
+  { replaces = "Detect alignment", feature = "detect-alignment" },
+  { alters = "Judgment", feature = "judgment" },
+  { alters = "Bane", feature = "bane" },
+]
 +++
 
 Certain relentless inquisitors burn with special hatred for an enemy of specific convictions, and

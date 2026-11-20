@@ -16,8 +16,15 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "Cavalier's charge", "Expert trainer", "Banner", "Mighty charge", "supreme charge", "Greater banner"]
-replaces_features = ["mount", "cavalier-s-charge", "expert-trainer", "banner", "mighty-charge", "supreme-charge", "greater-banner"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "Banner", feature = "banner" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "supreme charge", feature = "supreme-charge" },
+  { replaces = "Greater banner", feature = "greater-banner" },
+]
 +++
 
 Constables keep order in the narrow streets and dark alleys of settlements.

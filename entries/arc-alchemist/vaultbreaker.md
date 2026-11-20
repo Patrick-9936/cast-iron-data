@@ -16,9 +16,14 @@ page = "236"
 
 [fields]
 kind = "archetype"
-replaces = ["Brew Potion", "Throw Anything", "Poison use"]
-alters = ["Discoveries", "Bombs", "Bombs"]
-replaces_features = ["brew-potion", "throw-anything", "poison-use"]
+trades = [
+  { replaces = "Brew Potion", feature = "brew-potion" },
+  { replaces = "Throw Anything", feature = "throw-anything" },
+  { replaces = "Poison use", feature = "poison-use" },
+  { alters = "Discoveries", feature = "discovery" },
+  { alters = "Bombs", feature = "bomb" },
+  { alters = "Bombs" },
+]
 +++
 
 The vaultbreaker combines stealth with his bomb-making talents to construct special focused charges

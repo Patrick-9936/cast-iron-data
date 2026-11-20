@@ -16,8 +16,13 @@ page = "176"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Trackless step", "Resist nature's lure", "Wild shape", "Venom immunity"]
-replaces_features = ["woodland-stride", "trackless-step", "resist-nature-s-lure", "wild-shape", "venom-immunity"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+]
 +++
 
 An undine adept dedicates herself to preserving the knowledge of the first undines and ensuring her

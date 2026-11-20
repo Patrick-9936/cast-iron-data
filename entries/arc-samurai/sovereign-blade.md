@@ -16,8 +16,11 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "Mounted archer", "Bonus feats gained at 6th, 12th, and 18th level"]
-replaces_features = ["mount", "mounted-archer"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Mounted archer", feature = "mounted-archer" },
+  { replaces = "Bonus feats gained at 6th, 12th, and 18th level", feature = "bonus-feat", levels = [6, 12, 18] },
+]
 +++
 
 In Tian Xia, many samurai are tutored in the ways of honor using lessons that originate from

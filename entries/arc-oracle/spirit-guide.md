@@ -16,7 +16,10 @@ page = "106"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus skills from the oracle's mystery", "Revelations gained at 3rd, 7th, and 15th levels"]
+trades = [
+  { replaces = "Bonus skills from the oracle's mystery" },
+  { replaces = "Revelations gained at 3rd, 7th, and 15th levels", feature = "revelation", levels = [3, 7, 15] },
+]
 +++
 
 Through her exploration of the universe's mysteries, a spirit guide opens connections to the spirit

@@ -16,8 +16,13 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Menacing swordplay", "Superior feint", "Bleeding wound", "Swashbuckler's edge"]
-alters = ["Armor proficiencies"]
+trades = [
+  { replaces = "Menacing swordplay" },
+  { replaces = "Superior feint" },
+  { replaces = "Bleeding wound" },
+  { replaces = "Swashbuckler's edge" },
+  { alters = "Armor proficiencies" },
+]
 +++
 
 The Free City of Restov is host to numerous dueling schools, from the renowned Aldori Academy to

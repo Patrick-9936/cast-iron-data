@@ -16,10 +16,11 @@ page = "97"
 
 [fields]
 kind = "archetype"
-replaces = ["Sacred armor"]
-alters = ["Blessings", "Sacred weapon"]
-replaces_features = ["sacred-armor"]
-alters_features = ["blessings", "sacred-weapon"]
+trades = [
+  { replaces = "Sacred armor", feature = "sacred-armor" },
+  { alters = "Blessings", feature = "blessings" },
+  { alters = "Sacred weapon", feature = "sacred-weapon" },
+]
 +++
 
 When a warpriest devotes himself to a god of the natural world, he is sometimes blessed with

@@ -16,10 +16,13 @@ page = "5"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Endurance", "evasion", "Improved evasion"]
-alters = ["Hunter's bond"]
-replaces_features = ["wild-empathy", "endurance", "evasion", "improved-evasion"]
-alters_features = ["hunter-s-bond"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Endurance", feature = "endurance" },
+  { replaces = "evasion", feature = "evasion" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { alters = "Hunter's bond", feature = "hunter-s-bond" },
+]
 +++
 
 Wilderness medics know a variety of ways they can supply and preserve a rebellion or similar

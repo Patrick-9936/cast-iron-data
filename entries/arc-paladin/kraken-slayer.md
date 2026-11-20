@@ -16,10 +16,12 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Divine health", "Aura of faith"]
-alters = ["Smite evil", "Divine bond"]
-replaces_features = ["divine-health", "aura-of-faith"]
-alters_features = ["smite-evil", "divine-bond"]
+trades = [
+  { replaces = "Divine health", feature = "divine-health" },
+  { replaces = "Aura of faith", feature = "aura-of-faith" },
+  { alters = "Smite evil", feature = "smite-evil" },
+  { alters = "Divine bond", feature = "divine-bond" },
+]
 +++
 
 Triton kraken slayers oppose all underwater threats, but they especially target the tentacled

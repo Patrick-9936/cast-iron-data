@@ -16,9 +16,11 @@ page = "50"
 
 [fields]
 kind = "archetype"
-replaces = ["The fighter feat gained at 1st level"]
-alters = ["Armor proficiency", "Weapon training"]
-alters_features = ["weapon-training"]
+trades = [
+  { replaces = "The fighter feat gained at 1st level" },
+  { alters = "Armor proficiency" },
+  { alters = "Weapon training", feature = "weapon-training" },
+]
 +++
 
 A tribal fighter knows that it is not the weapon that matters but the hand that wields it. Instead

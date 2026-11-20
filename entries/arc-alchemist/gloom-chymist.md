@@ -16,8 +16,12 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Bomb", "Poison resistance", "poison use", "swift poisoning"]
-replaces_features = ["bomb", "poison-resistance", "poison-use", "swift-poisoning"]
+trades = [
+  { replaces = "Bomb", feature = "bomb" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "poison use", feature = "poison-use" },
+  { replaces = "swift poisoning", feature = "swift-poisoning" },
+]
 +++
 
 A breakthrough in Nidalese alchemy led to the creation of glooms, magical fields of darkness from

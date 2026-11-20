@@ -16,8 +16,16 @@ page = "106"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "Armor training 1", "Weapon training 1, 2, 3, and 4", "Armor training 2", "Armor training 3", "Armor training 4", "Armor training 4", "Armor mastery"]
-replaces_features = ["bravery", "armor-mastery"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+  { replaces = "Weapon training 1, 2, 3, and 4" },
+  { replaces = "Armor training 2", feature = "armor-training", power = "2" },
+  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
+  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Armor training 4" },
+  { replaces = "Armor mastery", feature = "armor-mastery" },
+]
 +++
 
 Roughriders study and practice the fine points of mounted combat, drilling endlessly with

@@ -16,7 +16,10 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus skills from the oracle's mystery", "Bonus spells gained from the oracle's mystery"]
+trades = [
+  { replaces = "Bonus skills from the oracle's mystery" },
+  { replaces = "Bonus spells gained from the oracle's mystery" },
+]
 +++
 
 The ancient lorekeeper is a repository for all the beliefs and vast knowledge of an

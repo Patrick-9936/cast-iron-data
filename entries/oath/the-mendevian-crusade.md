@@ -13,10 +13,11 @@ page = "20"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Aura of resolve", "9th-level mercy"]
-alters = ["Divine bond"]
-replaces_features = ["aura-of-resolve"]
-alters_features = ["divine-bond"]
+trades = [
+  { replaces = "Aura of resolve", feature = "aura-of-resolve" },
+  { replaces = "9th-level mercy", feature = "mercy", levels = [9] },
+  { alters = "Divine bond", feature = "divine-bond" },
+]
 +++
 
 The Worldwound threatens all of Golarion with the uttermost depths of depravity, and so paladins

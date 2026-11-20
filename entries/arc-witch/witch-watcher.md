@@ -16,7 +16,9 @@ page = "9"
 
 [fields]
 kind = "archetype"
-alters = ["Spellcasting"]
+trades = [
+  { alters = "Spellcasting" },
+]
 +++
 
 For reasons known only to them, witch-watchers offer protection to nobles across Golarion. While

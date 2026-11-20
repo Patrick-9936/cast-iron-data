@@ -16,7 +16,9 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Spellcasting"]
+trades = [
+  { replaces = "Spellcasting" },
+]
 +++
 
 Tempered champions are trained in the Tempering Hall in Absalom to master their deities' favored

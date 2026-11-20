@@ -16,10 +16,19 @@ page = "115"
 
 [fields]
 kind = "archetype"
-replaces = ["The monk's normal bonus feats", "Stunning Fist", "Evasion", "Maneuver training", "Still mind", "Purity of body", "Improved evasion", "Diamond body", "Tongue of the sun and moon"]
-alters = ["Flurry of blows", "Ki pool"]
-replaces_features = ["stunning-fist", "evasion", "maneuver-training", "still-mind", "purity-of-body", "improved-evasion", "diamond-body", "tongue-of-the-sun-and-moon"]
-alters_features = ["flurry-of-blows", "ki-pool"]
+trades = [
+  { replaces = "The monk's normal bonus feats" },
+  { replaces = "Stunning Fist", feature = "stunning-fist" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Maneuver training", feature = "maneuver-training" },
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { replaces = "Diamond body", feature = "diamond-body" },
+  { replaces = "Tongue of the sun and moon", feature = "tongue-of-the-sun-and-moon" },
+  { alters = "Flurry of blows", feature = "flurry-of-blows" },
+  { alters = "Ki pool", feature = "ki-pool" },
+]
 +++
 
 Some monks seek to become one with another weapon entirely - the bow. The zen archer takes a weapon

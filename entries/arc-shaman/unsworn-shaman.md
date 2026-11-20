@@ -16,10 +16,14 @@ page = "112"
 
 [fields]
 kind = "archetype"
-replaces = ["Spirit", "Wandering hex"]
-alters = ["Hex", "Spirit animal", "Wandering spirit", "Spirit magic"]
-replaces_features = ["spirit", "wandering-hex"]
-alters_features = ["hex", "spirit-animal", "wandering-spirit", "spirit-magic"]
+trades = [
+  { replaces = "Spirit", feature = "spirit" },
+  { replaces = "Wandering hex", feature = "wandering-hex" },
+  { alters = "Hex", feature = "hex" },
+  { alters = "Spirit animal", feature = "spirit-animal" },
+  { alters = "Wandering spirit", feature = "wandering-spirit" },
+  { alters = "Spirit magic", feature = "spirit-magic" },
+]
 +++
 
 An unsworn shaman never binds herself to one specific spirit, always making new deals as she deems

@@ -12,7 +12,10 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["Improved evasion", "Speak with animals of its kind"]
+trades = [
+  { replaces = "Improved evasion" },
+  { replaces = "Speak with animals of its kind" },
+]
 +++
 
 The raw power of an elemental plane suffuses the body of an elemental familiar.

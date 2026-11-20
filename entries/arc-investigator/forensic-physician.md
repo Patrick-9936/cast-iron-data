@@ -16,10 +16,13 @@ page = "33"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense", "investigator talent gained at 3rd level", "Investigator talent gained at 5th level"]
-alters = ["Inspiration"]
-replaces_features = ["trapfinding", "trap-sense"]
-alters_features = ["inspiration"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "investigator talent gained at 3rd level", feature = "investigator-talent", levels = [3] },
+  { replaces = "Investigator talent gained at 5th level", feature = "investigator-talent", levels = [5] },
+  { alters = "Inspiration", feature = "inspiration" },
+]
 +++
 
 A forensic physician specializes in analyzing medical details in order to solve crimes and uncover

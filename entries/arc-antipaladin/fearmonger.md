@@ -16,10 +16,10 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Touch of corruption"]
-alters = ["Cruelty"]
-replaces_features = ["touch-of-corruption"]
-alters_features = ["cruelty"]
+trades = [
+  { replaces = "Touch of corruption", feature = "touch-of-corruption" },
+  { alters = "Cruelty", feature = "cruelty" },
+]
 +++
 
 The fearmonger wants to do more than cause pain, misery, and confusion. He wishes to spread fear

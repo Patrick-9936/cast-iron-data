@@ -16,8 +16,18 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["Smite evil", "Divine grace", "Divine health, 3rd-, 9th-, and 15th-level mercies", "Spells", "Channel positive energy", "Divine bond", "Aura of justice", "12th-level mercy", "18th-level mercy", "Holy champion"]
-replaces_features = ["smite-evil", "divine-grace", "divine-health", "spells", "channel-positive-energy", "divine-bond", "aura-of-justice", "holy-champion"]
+trades = [
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { replaces = "Divine grace", feature = "divine-grace" },
+  { replaces = "Divine health, 3rd-, 9th-, and 15th-level mercies" },
+  { replaces = "Spells", feature = "spells" },
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { replaces = "12th-level mercy", feature = "mercy", levels = [12] },
+  { replaces = "18th-level mercy", feature = "mercy", levels = [18] },
+  { replaces = "Holy champion", feature = "holy-champion" },
+]
 +++
 
 A stonelord is a devoted sentinel of dwarven enclaves, drawing the power of the earth and ancient

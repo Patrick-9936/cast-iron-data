@@ -16,10 +16,14 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Swift tracker", "Quarry", "improved quarry"]
-alters = ["Studied target", "Slayer talent received at 4th level", "Slayer talent received at 10th level"]
-replaces_features = ["swift-tracker", "quarry", "improved-quarry"]
-alters_features = ["studied-target"]
+trades = [
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "Quarry", feature = "quarry" },
+  { replaces = "improved quarry", feature = "improved-quarry" },
+  { alters = "Studied target", feature = "studied-target" },
+  { alters = "Slayer talent received at 4th level" },
+  { alters = "Slayer talent received at 10th level" },
+]
 +++
 
 These professional killers are trained and used almost exclusively by the various Sczarni crime

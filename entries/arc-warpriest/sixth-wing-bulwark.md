@@ -16,10 +16,15 @@ page = "32"
 
 [fields]
 kind = "archetype"
-replaces = ["Focus weapon", "Sacred weapon", "Bonus feat gained at 6th level", "Bonus feat gained at 12th level", "Bonus feat gained at 18th level"]
-alters = ["Weapon and armor proficiencies", "Sacred armor"]
-replaces_features = ["focus-weapon", "sacred-weapon"]
-alters_features = ["weapon-and-armor-proficiencies", "sacred-armor"]
+trades = [
+  { replaces = "Focus weapon", feature = "focus-weapon" },
+  { replaces = "Sacred weapon", feature = "sacred-weapon" },
+  { replaces = "Bonus feat gained at 6th level", feature = "bonus-feats", levels = [6] },
+  { replaces = "Bonus feat gained at 12th level", feature = "bonus-feats", levels = [12] },
+  { replaces = "Bonus feat gained at 18th level", feature = "bonus-feats", levels = [18] },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Sacred armor", feature = "sacred-armor" },
+]
 +++
 
 Many are the followers of Ragathiel who lead in battle. Far fewer, but no less crucial to a

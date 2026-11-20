@@ -16,7 +16,11 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Class skills gained from the oracle's mystery", "Revelation gained at 1st level", "Revelation gained at 7th level"]
+trades = [
+  { replaces = "Class skills gained from the oracle's mystery" },
+  { replaces = "Revelation gained at 1st level", feature = "revelation", levels = [1] },
+  { replaces = "Revelation gained at 7th level", feature = "revelation", levels = [7] },
+]
 +++
 
 In distant Tian Xia, herbalists practice an obscure alchemical art known as

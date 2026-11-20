@@ -16,8 +16,15 @@ page = "110"
 
 [fields]
 kind = "archetype"
-replaces = ["Spirit magic spells gained from the shaman's spirit", "2nd-level hex", "Hex gained at 8th level", "Hex gained at 10th level", "Hex gained at 12th level", "Hex gained at 18th level", "Manifestation"]
-replaces_features = ["manifestation"]
+trades = [
+  { replaces = "Spirit magic spells gained from the shaman's spirit" },
+  { replaces = "2nd-level hex", feature = "hex", levels = [2] },
+  { replaces = "Hex gained at 8th level", feature = "hex", levels = [8] },
+  { replaces = "Hex gained at 10th level", feature = "hex", levels = [10] },
+  { replaces = "Hex gained at 12th level", feature = "hex", levels = [12] },
+  { replaces = "Hex gained at 18th level", feature = "hex", levels = [18] },
+  { replaces = "Manifestation", feature = "manifestation" },
+]
 +++
 
 Even among mystical practitioners, the animist has a strange perspective and even stranger magic.

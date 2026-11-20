@@ -16,8 +16,13 @@ page = "41"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Evasion", "Trap sense", "Uncanny dodge", "Improved uncanny dodge"]
-replaces_features = ["trapfinding", "evasion", "trap-sense", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Guerrillas fight against oppressive leadership and governments - often under cover of night -

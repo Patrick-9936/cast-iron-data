@@ -16,10 +16,10 @@ page = "88"
 
 [fields]
 kind = "archetype"
-replaces = ["Brawler's strike"]
-alters = ["Maneuver training"]
-replaces_features = ["brawler-s-strike"]
-alters_features = ["maneuver-training"]
+trades = [
+  { replaces = "Brawler's strike", feature = "brawler-s-strike" },
+  { alters = "Maneuver training", feature = "maneuver-training" },
+]
 +++
 
 The steel-breaker studies destruction and practices it as an art form. She knows every defense has a

@@ -16,10 +16,16 @@ page = "92"
 
 [fields]
 kind = "archetype"
-replaces = ["Haunt channeler", "location channel", "connection channel", "Ask the spirits", "Astral journey"]
-alters = ["Spirit", "Taboo", "Spellcasting"]
-replaces_features = ["haunt-channeler", "location-channel", "connection-channel", "ask-the-spirits", "astral-journey"]
-alters_features = ["spirit", "taboo"]
+trades = [
+  { replaces = "Haunt channeler", feature = "haunt-channeler" },
+  { replaces = "location channel", feature = "location-channel" },
+  { replaces = "connection channel", feature = "connection-channel" },
+  { replaces = "Ask the spirits", feature = "ask-the-spirits" },
+  { replaces = "Astral journey", feature = "astral-journey" },
+  { alters = "Spirit", feature = "spirit" },
+  { alters = "Taboo", feature = "taboo" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Some mediums channel the power of nature spirits called [kami](ref/family/kami) rather than the

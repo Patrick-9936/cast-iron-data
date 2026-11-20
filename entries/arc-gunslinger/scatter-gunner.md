@@ -16,9 +16,13 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Deadeye deed", "Utility shot deed", "Dead shot deed", "Targeting deed"]
-alters = ["Gunsmith"]
-alters_features = ["gunsmith"]
+trades = [
+  { replaces = "Deadeye deed" },
+  { replaces = "Utility shot deed" },
+  { replaces = "Dead shot deed" },
+  { replaces = "Targeting deed" },
+  { alters = "Gunsmith", feature = "gunsmith" },
+]
 +++
 
 Punishing firearms such as the blunderbuss and dragon pistol can lay waste to invaders in tight

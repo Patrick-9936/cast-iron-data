@@ -16,10 +16,13 @@ page = "125"
 
 [fields]
 kind = "archetype"
-replaces = ["Swashbuckler finesse", "Bleeding wound", "Swashbuckler weapon training", "Swashbuckler weapon mastery"]
-alters = ["Panache"]
-replaces_features = ["swashbuckler-finesse", "swashbuckler-weapon-training", "swashbuckler-weapon-mastery"]
-alters_features = ["panache"]
+trades = [
+  { replaces = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
+  { replaces = "Bleeding wound" },
+  { replaces = "Swashbuckler weapon training", feature = "swashbuckler-weapon-training" },
+  { replaces = "Swashbuckler weapon mastery", feature = "swashbuckler-weapon-mastery" },
+  { alters = "Panache", feature = "panache" },
+]
 +++
 
 An inspired blade is both a force of personality and a sage of swordplay dedicated to the perfection

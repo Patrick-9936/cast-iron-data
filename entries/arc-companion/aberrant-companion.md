@@ -12,7 +12,12 @@ page = "186"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Devotion", "Multiattack", "The +2 natural armor increase at 9th level"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Devotion" },
+  { replaces = "Multiattack" },
+  { replaces = "The +2 natural armor increase at 9th level" },
+]
 +++
 
 There's something oddly wrong about aberrant companions. Though they're touched by eldritch magic or

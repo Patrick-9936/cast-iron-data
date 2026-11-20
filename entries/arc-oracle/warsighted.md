@@ -16,7 +16,9 @@ page = "106"
 
 [fields]
 kind = "archetype"
-replaces = ["Revelations gained at 1st, 7th, 11th, and 15th levels"]
+trades = [
+  { replaces = "Revelations gained at 1st, 7th, 11th, and 15th levels", feature = "revelation", levels = [1, 7, 11, 15] },
+]
 +++
 
 A warsighted's unique gifts are not in strange magical revelations, but in her ability to adapt in

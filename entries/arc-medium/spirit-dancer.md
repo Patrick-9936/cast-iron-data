@@ -16,10 +16,15 @@ page = "94"
 
 [fields]
 kind = "archetype"
-replaces = ["Spirit bonus", "spirit surge", "Shared seance", "Trance of three", "Spacious soul", "Astral beacon"]
-alters = ["Spirit"]
-replaces_features = ["spirit-bonus", "spirit-surge", "shared-seance", "trance-of-three", "spacious-soul", "astral-beacon"]
-alters_features = ["spirit"]
+trades = [
+  { replaces = "Spirit bonus", feature = "spirit-bonus" },
+  { replaces = "spirit surge", feature = "spirit-surge" },
+  { replaces = "Shared seance", feature = "shared-seance" },
+  { replaces = "Trance of three", feature = "trance-of-three" },
+  { replaces = "Spacious soul", feature = "spacious-soul" },
+  { replaces = "Astral beacon", feature = "astral-beacon" },
+  { alters = "Spirit", feature = "spirit" },
+]
 +++
 
 A spirit dancer enacts an exuberant dance to the spirits, accepting many roles in the shifting dance

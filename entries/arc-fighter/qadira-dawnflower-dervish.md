@@ -15,7 +15,12 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor training 1", "Armor training 2", "Armor training 3", "Armor training 4"]
+trades = [
+  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+  { replaces = "Armor training 2", feature = "armor-training", power = "2" },
+  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
+  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+]
 +++
 
 In Qadira, home of the whirlwind, the [scorpion](ref/monster/scorpion-giant-scorpion), and the

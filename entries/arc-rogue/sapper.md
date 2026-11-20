@@ -16,8 +16,11 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "2nd-level rogue talent", "4th-level rogue talent"]
-replaces_features = ["trapfinding"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "2nd-level rogue talent", feature = "rogue-talents", levels = [2] },
+  { replaces = "4th-level rogue talent", feature = "rogue-talents", levels = [4] },
+]
 +++
 
 The sapper is a trained siege engineer and can deal with traps and other obstacles given plenty of

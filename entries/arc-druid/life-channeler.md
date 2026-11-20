@@ -16,10 +16,12 @@ page = "50"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild shape", "Venom immunity"]
-alters = ["Alignment requirements", "Nature bond"]
-replaces_features = ["wild-shape", "venom-immunity"]
-alters_features = ["nature-bond"]
+trades = [
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { alters = "Alignment requirements" },
+  { alters = "Nature bond", feature = "nature-bond" },
+]
 +++
 
 Life channelers take the natural cycle to what they believe is its logical conclusion. By

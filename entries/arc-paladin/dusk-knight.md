@@ -16,10 +16,13 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Channel positive energy", "Divine bond", "Aura of resolve", "Aura of justice"]
-alters = ["Smite evil"]
-replaces_features = ["channel-positive-energy", "divine-bond", "aura-of-resolve", "aura-of-justice"]
-alters_features = ["smite-evil"]
+trades = [
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { replaces = "Aura of resolve", feature = "aura-of-resolve" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { alters = "Smite evil", feature = "smite-evil" },
+]
 +++
 
 Some paladins focus their training to combat the shadows and use darkness to their advantage. Known

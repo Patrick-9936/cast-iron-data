@@ -16,9 +16,14 @@ page = "114"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Well-versed", "Jack-of-all-trades", "Inspire courage", "Inspire competence"]
-alters = ["Fascinate"]
-replaces_features = ["bardic-knowledge", "well-versed", "jack-of-all-trades"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Jack-of-all-trades", feature = "jack-of-all-trades" },
+  { replaces = "Inspire courage" },
+  { replaces = "Inspire competence" },
+  { alters = "Fascinate" },
+]
 +++
 
 The phrenologist is an expert at reading creatures' skulls, and he learns to use this knowledge to

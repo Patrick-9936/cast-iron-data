@@ -12,7 +12,10 @@ page = "187"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Devotion"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Devotion" },
+]
 +++
 
 Whether the result of a partially successful attempt at revival, a strange blight, or repeated

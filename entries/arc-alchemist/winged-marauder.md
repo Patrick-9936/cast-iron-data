@@ -16,8 +16,10 @@ page = "104"
 
 [fields]
 kind = "archetype"
-replaces = ["Mutagen", "persistent mutagen"]
-replaces_features = ["mutagen", "persistent-mutagen"]
+trades = [
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "persistent mutagen", feature = "persistent-mutagen" },
+]
 +++
 
 Goblin alchemists have created a mixture of pheromones that they use to manipulate and entice giant

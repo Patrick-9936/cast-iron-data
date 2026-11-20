@@ -16,9 +16,15 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "wild empathy", "Spellcasting ability", "Swift tracking", "Quarry", "Improved quarry"]
-alters = ["Combat style"]
-replaces_features = ["track", "wild-empathy", "quarry", "improved-quarry"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "wild empathy", feature = "wild-empathy" },
+  { replaces = "Spellcasting ability" },
+  { replaces = "Swift tracking" },
+  { replaces = "Quarry", feature = "quarry" },
+  { replaces = "Improved quarry", feature = "improved-quarry" },
+  { alters = "Combat style" },
+]
 +++
 
 Ilsurian archers maintain the strong tradition of archery first developed by soldiers in the service

@@ -16,9 +16,14 @@ page = "60"
 
 [fields]
 kind = "archetype"
-replaces = ["4th-, 8th-, 10th-, 14th-, and 16th-level vigilante talents", "Vigilante specialization", "Unshakable"]
-alters = ["Skill ranks per level", "Armor proficiencies", "Vigilante talents"]
-replaces_features = ["vigilante-specialization", "unshakable"]
+trades = [
+  { replaces = "4th-, 8th-, 10th-, 14th-, and 16th-level vigilante talents", feature = "vigilante-talent", levels = [4, 8, 10, 14, 16] },
+  { replaces = "Vigilante specialization", feature = "vigilante-specialization" },
+  { replaces = "Unshakable", feature = "unshakable" },
+  { alters = "Skill ranks per level" },
+  { alters = "Armor proficiencies" },
+  { alters = "Vigilante talents", feature = "vigilante-talent" },
+]
 +++
 
 Practicing magic in secret, the warlock obscures her arcane scholarship from public view. Her study

@@ -16,10 +16,14 @@ page = "56"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiency", "Trapfinding", "Trap sense", "investigator talent gained at 3rd level"]
-alters = ["Inspiration", "Alchemy"]
-replaces_features = ["trapfinding", "trap-sense"]
-alters_features = ["inspiration", "alchemy"]
+trades = [
+  { replaces = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "investigator talent gained at 3rd level", feature = "investigator-talent", levels = [3] },
+  { alters = "Inspiration", feature = "inspiration" },
+  { alters = "Alchemy", feature = "alchemy" },
+]
 +++
 
 Natural philosophers are scholars, explorers, and survivalists who feel at home in nature, seldom

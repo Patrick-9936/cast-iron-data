@@ -16,7 +16,10 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus spells gained at 10th, 12th, 14th, 16th, and 18th levels from the oracle's mystery", "1st- and 7th-level revelations"]
+trades = [
+  { replaces = "The bonus spells gained at 10th, 12th, 14th, 16th, and 18th levels from the oracle's mystery" },
+  { replaces = "1st- and 7th-level revelations", feature = "revelation", levels = [1, 7] },
+]
 +++
 
 The Oracular Council of Po Li and those trained in their sacred methods often include divine

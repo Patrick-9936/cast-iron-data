@@ -16,8 +16,12 @@ page = "46"
 
 [fields]
 kind = "archetype"
-replaces = ["Favored enemy", "Endurance", "Quarry", "Improved quarry"]
-replaces_features = ["favored-enemy", "endurance", "quarry", "improved-quarry"]
+trades = [
+  { replaces = "Favored enemy", feature = "favored-enemy" },
+  { replaces = "Endurance", feature = "endurance" },
+  { replaces = "Quarry", feature = "quarry" },
+  { replaces = "Improved quarry", feature = "improved-quarry" },
+]
 +++
 
 During the elves' long absence from Golarion, the nascent demon lord

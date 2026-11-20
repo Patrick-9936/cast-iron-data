@@ -16,10 +16,13 @@ page = "55"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "trap sense", "Uncanny dodge, 4th-level rogue talent", "Improved uncanny dodge, 8th-level rogue talent"]
-alters = ["Sneak attack"]
-replaces_features = ["trapfinding", "trap-sense", "uncanny-dodge", "improved-uncanny-dodge"]
-alters_features = ["sneak-attack"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "trap sense", feature = "trap-sense" },
+  { replaces = "Uncanny dodge, 4th-level rogue talent" },
+  { replaces = "Improved uncanny dodge, 8th-level rogue talent" },
+  { alters = "Sneak attack", feature = "sneak-attack" },
+]
 +++
 
 Tidal tricksters roam the seas, using their skillful mastery of the currents to move across aquatic

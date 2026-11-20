@@ -16,8 +16,11 @@ page = "118"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Slayer talent gained at 4th level", "Stalker"]
-replaces_features = ["track", "stalker"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Slayer talent gained at 4th level", feature = "slayer-talents", levels = [4] },
+  { replaces = "Stalker", feature = "stalker" },
+]
 +++
 
 A cleaner is responsible for destroying or removing incriminating evidence from a crime scene,

@@ -16,8 +16,9 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Mutagen"]
-replaces_features = ["mutagen"]
+trades = [
+  { replaces = "Mutagen", feature = "mutagen" },
+]
 +++
 
 One of the grand goals of alchemy is the ability to create new life. A homunculist has made this

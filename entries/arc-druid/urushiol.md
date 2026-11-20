@@ -16,10 +16,11 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature bond", "resist nature's lure"]
-alters = ["Venom immunity"]
-replaces_features = ["nature-bond", "resist-nature-s-lure"]
-alters_features = ["venom-immunity"]
+trades = [
+  { replaces = "Nature bond", feature = "nature-bond" },
+  { replaces = "resist nature's lure", feature = "resist-nature-s-lure" },
+  { alters = "Venom immunity", feature = "venom-immunity" },
+]
 +++
 
 When an urushiol druid forms a bond with nature, it takes a vastly different form than for most

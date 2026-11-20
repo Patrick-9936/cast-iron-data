@@ -16,10 +16,26 @@ page = "65"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect evil", "divine grace", "Aura of justice"]
-alters = ["Spellcasting", "smite evil", "lay on hands", "Class skills", "skill ranks per level", "Smite evil", "Lay on hands", "channel energy", "divine bond", "aura of courage", "aura of resolve", "aura of faith", "aura of righteousness", "Lay on hands", "mercy"]
-replaces_features = ["detect-evil", "divine-grace", "aura-of-justice"]
-alters_features = ["smite-evil", "lay-on-hands", "smite-evil", "lay-on-hands", "channel-energy", "divine-bond", "aura-of-courage", "aura-of-resolve", "aura-of-faith", "aura-of-righteousness", "lay-on-hands", "mercy"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "divine grace", feature = "divine-grace" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { alters = "Spellcasting" },
+  { alters = "smite evil", feature = "smite-evil" },
+  { alters = "lay on hands", feature = "lay-on-hands" },
+  { alters = "Class skills" },
+  { alters = "skill ranks per level" },
+  { alters = "Smite evil" },
+  { alters = "Lay on hands" },
+  { alters = "channel energy", feature = "channel-energy" },
+  { alters = "divine bond", feature = "divine-bond" },
+  { alters = "aura of courage", feature = "aura-of-courage" },
+  { alters = "aura of resolve", feature = "aura-of-resolve" },
+  { alters = "aura of faith", feature = "aura-of-faith" },
+  { alters = "aura of righteousness", feature = "aura-of-righteousness" },
+  { alters = "Lay on hands" },
+  { alters = "mercy", feature = "mercy" },
+]
 +++
 
 Though tortured crusaders may be beaten and battered, body, mind, and soul, they still somehow

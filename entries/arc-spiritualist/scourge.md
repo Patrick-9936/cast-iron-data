@@ -16,8 +16,12 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Spiritual interference", "Devotion", "Calm spirit", "Greater spiritual interference"]
-replaces_features = ["spiritual-interference", "calm-spirit", "greater-spiritual-interference"]
+trades = [
+  { replaces = "Spiritual interference", feature = "spiritual-interference" },
+  { replaces = "Devotion" },
+  { replaces = "Calm spirit", feature = "calm-spirit" },
+  { replaces = "Greater spiritual interference", feature = "greater-spiritual-interference" },
+]
 +++
 
 Scourges are students of pain and have a rare connection to tormented and wracked spirits. Most are

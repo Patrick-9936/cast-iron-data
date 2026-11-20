@@ -16,8 +16,10 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison use", "swift poisoning"]
-replaces_features = ["poison-use", "swift-poisoning"]
+trades = [
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "swift poisoning", feature = "swift-poisoning" },
+]
 +++
 
 Paranoia runs rampant among the noble courts of the Inner Sea. On account of this distrust, many

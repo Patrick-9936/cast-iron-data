@@ -16,10 +16,13 @@ page = "98"
 
 [fields]
 kind = "archetype"
-replaces = ["Animal focus", "Woodland stride"]
-alters = ["Animal companion", "hunter tactics", "Wild empathy"]
-replaces_features = ["animal-focus", "woodland-stride"]
-alters_features = ["animal-companion", "hunter-tactics", "wild-empathy"]
+trades = [
+  { replaces = "Animal focus", feature = "animal-focus" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { alters = "Animal companion", feature = "animal-companion" },
+  { alters = "hunter tactics", feature = "hunter-tactics" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+]
 +++
 
 A verminous hunter calls on the ceaseless, single-minded dedication of vermin to hunt and overwhelm

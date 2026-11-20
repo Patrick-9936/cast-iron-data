@@ -16,8 +16,10 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Inspire competence"]
-replaces_features = ["bardic-knowledge"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Inspire competence" },
+]
 +++
 
 Some explore the farthest reaches of desolate wastelands, seeking to unlock the mysteries found

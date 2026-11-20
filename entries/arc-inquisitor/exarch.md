@@ -16,9 +16,15 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Monster lore", "Detect alignment", "Bane", "Second judgment", "Greater bane", "Third judgment"]
-alters = ["Spellcasting"]
-replaces_features = ["monster-lore", "detect-alignment", "bane", "second-judgment", "greater-bane", "third-judgment"]
+trades = [
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Detect alignment", feature = "detect-alignment" },
+  { replaces = "Bane", feature = "bane" },
+  { replaces = "Second judgment", feature = "second-judgment" },
+  { replaces = "Greater bane", feature = "greater-bane" },
+  { replaces = "Third judgment", feature = "third-judgment" },
+  { alters = "Spellcasting" },
+]
 +++
 
 The gruff traditionalism of most dwarves finds its apex in those who adhere to a strict orthodoxy

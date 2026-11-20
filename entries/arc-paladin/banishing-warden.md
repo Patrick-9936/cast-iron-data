@@ -16,9 +16,11 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["3rd-level mercy"]
-alters = ["Smite evil", "Aura of justice"]
-alters_features = ["smite-evil", "aura-of-justice"]
+trades = [
+  { replaces = "3rd-level mercy", feature = "mercy", levels = [3] },
+  { alters = "Smite evil", feature = "smite-evil" },
+  { alters = "Aura of justice", feature = "aura-of-justice" },
+]
 +++
 
 The banishing warden is an expert at fighting all types of evil outsiders and sending them back to

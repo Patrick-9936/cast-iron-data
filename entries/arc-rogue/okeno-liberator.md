@@ -16,8 +16,11 @@ page = "41"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense", "Uncanny dodge"]
-replaces_features = ["trapfinding", "trap-sense", "uncanny-dodge"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+]
 +++
 
 The sight of yellow sails on the Inner Sea signals the approach of a ship from Okeno, home port of

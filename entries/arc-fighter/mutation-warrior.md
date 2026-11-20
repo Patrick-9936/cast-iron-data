@@ -16,8 +16,11 @@ page = "93"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor training 1", "Armor training 2, 3, 4", "armor mastery"]
-replaces_features = ["armor-mastery"]
+trades = [
+  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+  { replaces = "Armor training 2, 3, 4" },
+  { replaces = "armor mastery", feature = "armor-mastery" },
+]
 +++
 
 While most fighters rely on physical fitness and rigorous training to achieve martial superiority, a

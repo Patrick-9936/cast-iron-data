@@ -15,7 +15,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "improved evasion", "Deliver touch spells", "speak with animals of its kind", "Spell resistance"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "improved evasion" },
+  { replaces = "Deliver touch spells" },
+  { replaces = "speak with animals of its kind" },
+  { replaces = "Spell resistance" },
+]
 +++
 
 Protector familiars are so devoted that they would give their lives for their masters. A tumor

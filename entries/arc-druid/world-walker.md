@@ -16,8 +16,12 @@ page = "43"
 
 [fields]
 kind = "archetype"
-replaces = ["Trackless step", "resist nature's lure", "Venom immunity", "timeless body"]
-replaces_features = ["trackless-step", "resist-nature-s-lure", "venom-immunity", "timeless-body"]
+trades = [
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { replaces = "timeless body", feature = "timeless-body" },
+]
 +++
 
 While all druids traverse the wilderness with ease, the world walkers take it upon themselves to

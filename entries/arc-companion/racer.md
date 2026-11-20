@@ -15,7 +15,10 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Devotion"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Devotion" },
+]
 +++
 
 Some companions have uncanny speed, providing their masters with swift transport.

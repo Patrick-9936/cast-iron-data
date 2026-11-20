@@ -16,8 +16,14 @@ page = "90"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "Mount", "Cavalier's charge", "Expert trainer", "Mighty charge", "Supreme charge"]
-replaces_features = ["weapon-and-armor-proficiencies", "mount", "cavalier-s-charge", "expert-trainer", "mighty-charge", "supreme-charge"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "Supreme charge", feature = "supreme-charge" },
+]
 +++
 
 While many cavaliers are the champions of old fighting forms, some younger, more daring cavaliers

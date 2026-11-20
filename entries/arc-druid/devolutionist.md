@@ -16,10 +16,11 @@ page = "50"
 
 [fields]
 kind = "archetype"
-replaces = ["Resist nature's lure", "Venom immunity"]
-alters = ["Nature bond"]
-replaces_features = ["resist-nature-s-lure", "venom-immunity"]
-alters_features = ["nature-bond"]
+trades = [
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { alters = "Nature bond", feature = "nature-bond" },
+]
 +++
 
 Full of simmering hatred toward civilization and those who dwell within it, devolutionists believe

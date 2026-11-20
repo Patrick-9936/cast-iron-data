@@ -16,8 +16,11 @@ page = "43"
 
 [fields]
 kind = "archetype"
-replaces = ["Familiar's ability to deliver touch spells", "4th-level hex"]
-alters = ["Familiar"]
+trades = [
+  { replaces = "Familiar's ability to deliver touch spells" },
+  { replaces = "4th-level hex", feature = "hex", levels = [4] },
+  { alters = "Familiar" },
+]
 +++
 
 Among that nation's highly competitive arcane communities, Nexian spellspies are witches who use

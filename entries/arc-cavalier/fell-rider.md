@@ -16,10 +16,15 @@ page = "122"
 
 [fields]
 kind = "archetype"
-replaces = ["Cavalier's charge", "Expert trainer", "Banner", "Mighty charge", "Greater banner", "Supreme charge"]
-alters = ["Mount"]
-replaces_features = ["cavalier-s-charge", "expert-trainer", "banner", "mighty-charge", "greater-banner", "supreme-charge"]
-alters_features = ["mount"]
+trades = [
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "Banner", feature = "banner" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "Greater banner", feature = "greater-banner" },
+  { replaces = "Supreme charge", feature = "supreme-charge" },
+  { alters = "Mount", feature = "mount" },
+]
 +++
 
 The fell rider rides a bestial steed, a mount mastered by him alone. He tramples his enemies down,

@@ -16,9 +16,12 @@ page = "30"
 
 [fields]
 kind = "archetype"
-replaces = ["Versatile performance", "Inspire courage", "suggestion"]
-alters = ["Weapon and armor proficiency"]
-replaces_features = ["versatile-performance"]
+trades = [
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Inspire courage" },
+  { replaces = "suggestion" },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+]
 +++
 
 A dwarven scholar researches the lineage of the kings of the old dwarven empires and learns their

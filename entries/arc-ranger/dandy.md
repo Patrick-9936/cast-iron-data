@@ -16,10 +16,14 @@ page = "41"
 
 [fields]
 kind = "archetype"
-replaces = ["Favored enemy", "Wild empathy", "Woodland stride"]
-alters = ["Favored terrain", "Hunter's bond", "Spellcasting"]
-replaces_features = ["favored-enemy", "wild-empathy", "woodland-stride"]
-alters_features = ["favored-terrain", "hunter-s-bond"]
+trades = [
+  { replaces = "Favored enemy", feature = "favored-enemy" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { alters = "Favored terrain", feature = "favored-terrain" },
+  { alters = "Hunter's bond", feature = "hunter-s-bond" },
+  { alters = "Spellcasting" },
+]
 +++
 
 The antithesis of the gruff and wild woodsmen, a dandy takes effort to master the subtle etiquette

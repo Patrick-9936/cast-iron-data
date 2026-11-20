@@ -16,7 +16,11 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["The 1st-level fighter bonus combat feat", "The 2nd-level fighter bonus combat feat", "Armor training 1"]
+trades = [
+  { replaces = "The 1st-level fighter bonus combat feat" },
+  { replaces = "The 2nd-level fighter bonus combat feat" },
+  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+]
 +++
 
 With myriad weapons, armor, and useful gear always on hand, the weapon bearer squire ensures her

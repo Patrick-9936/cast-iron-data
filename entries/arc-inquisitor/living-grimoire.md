@@ -16,10 +16,18 @@ page = "53"
 
 [fields]
 kind = "archetype"
-replaces = ["Monster lore", "Cunning initiative", "Judgment", "Bane", "greater bane", "second judgment", "third judgment", "True judgment"]
-alters = ["Orisons", "spellcasting"]
-replaces_features = ["monster-lore", "cunning-initiative", "judgment", "bane", "greater-bane", "second-judgment", "third-judgment", "true-judgment"]
-alters_features = ["orisons"]
+trades = [
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Cunning initiative", feature = "cunning-initiative" },
+  { replaces = "Judgment", feature = "judgment" },
+  { replaces = "Bane", feature = "bane" },
+  { replaces = "greater bane", feature = "greater-bane" },
+  { replaces = "second judgment", feature = "second-judgment" },
+  { replaces = "third judgment", feature = "third-judgment" },
+  { replaces = "True judgment", feature = "true-judgment" },
+  { alters = "Orisons", feature = "orisons" },
+  { alters = "spellcasting" },
+]
 +++
 
 The living grimoire literally wields the sacred word of his deity, using his holy tome to smite the

@@ -16,8 +16,21 @@ page = "122"
 
 [fields]
 kind = "archetype"
-replaces = ["AC bonus", "the ability to add his Wisdom bonus to his AC", "Dodge", "Mobility", "and Spring Attack on the monk's bonus feat list", "Evasion", "The ability to increase speed with ki", "High jump", "Fast movement", "slow fall", "Improved evasion", "Tongue of the sun and moon", "Perfect self"]
-replaces_features = ["ac-bonus", "evasion", "high-jump", "fast-movement", "slow-fall", "improved-evasion", "tongue-of-the-sun-and-moon", "perfect-self"]
+trades = [
+  { replaces = "AC bonus", feature = "ac-bonus" },
+  { replaces = "the ability to add his Wisdom bonus to his AC" },
+  { replaces = "Dodge" },
+  { replaces = "Mobility" },
+  { replaces = "and Spring Attack on the monk's bonus feat list" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "The ability to increase speed with ki" },
+  { replaces = "High jump", feature = "high-jump" },
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "slow fall", feature = "slow-fall" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { replaces = "Tongue of the sun and moon", feature = "tongue-of-the-sun-and-moon" },
+  { replaces = "Perfect self", feature = "perfect-self" },
+]
 +++
 
 Through discipline and training, an ironskin monk hardens his body to withstand punishing blows.

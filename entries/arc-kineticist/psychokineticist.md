@@ -16,8 +16,12 @@ page = "56"
 
 [fields]
 kind = "archetype"
-alters = ["Class skills", "key ability score of wild talents", "Burn", "Elemental overflow"]
-alters_features = ["burn", "elemental-overflow"]
+trades = [
+  { alters = "Class skills" },
+  { alters = "key ability score of wild talents" },
+  { alters = "Burn", feature = "burn" },
+  { alters = "Elemental overflow", feature = "elemental-overflow" },
+]
 +++
 
 While most kineticists channel elemental power through their bodies, rare kineticists, such as

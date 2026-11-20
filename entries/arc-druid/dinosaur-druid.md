@@ -16,10 +16,11 @@ page = "47"
 
 [fields]
 kind = "archetype"
-replaces = ["Resist nature's lure"]
-alters = ["Nature's bond", "Wild shape"]
-replaces_features = ["resist-nature-s-lure"]
-alters_features = ["wild-shape"]
+trades = [
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { alters = "Nature's bond", feature = "nature-bond" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 A dinosaur druid speaks for the spirit of prehistoric nature, even taking the form of great beasts

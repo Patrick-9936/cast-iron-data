@@ -16,8 +16,11 @@ page = "65"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus feat gained at 1st level", "Stunning fist", "High jump"]
-replaces_features = ["stunning-fist", "high-jump"]
+trades = [
+  { replaces = "Bonus feat gained at 1st level", feature = "bonus-feat", levels = [1] },
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "High jump", feature = "high-jump" },
+]
 +++
 
 An underfoot adept turns his diminutive stature and unorthodox footwork into a powerful weapon.

@@ -16,10 +16,13 @@ page = "66"
 
 [fields]
 kind = "archetype"
-replaces = ["Magic circles", "fast circles", "Outside contact", "Binding circles"]
-alters = ["Mental focus"]
-replaces_features = ["magic-circles", "fast-circles", "outside-contact", "binding-circles"]
-alters_features = ["mental-focus"]
+trades = [
+  { replaces = "Magic circles", feature = "magic-circles" },
+  { replaces = "fast circles", feature = "fast-circles" },
+  { replaces = "Outside contact", feature = "outside-contact" },
+  { replaces = "Binding circles", feature = "binding-circles" },
+  { alters = "Mental focus", feature = "mental-focus" },
+]
 +++
 
 A naturalist eschews the contact with outsiders that other occultists use as the core of their work.

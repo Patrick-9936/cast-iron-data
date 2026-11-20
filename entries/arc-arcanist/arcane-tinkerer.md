@@ -16,7 +16,10 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["The arcanist exploit gained at 1st level", "The arcanist exploits gained at 5th and 11th level"]
+trades = [
+  { replaces = "The arcanist exploit gained at 1st level", feature = "arcanist-exploits", levels = [1] },
+  { replaces = "The arcanist exploits gained at 5th and 11th level", feature = "arcanist-exploits", levels = [5, 11] },
+]
 +++
 
 All constructs are animated by magic in some capacity. Arcane tinkerers use their knowledge and

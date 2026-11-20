@@ -16,8 +16,12 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["7th-level bomb damage increase", "13th-level bomb damage increase", "15th-level bomb damage increase"]
-alters = ["Bombs"]
+trades = [
+  { replaces = "7th-level bomb damage increase" },
+  { replaces = "13th-level bomb damage increase" },
+  { replaces = "15th-level bomb damage increase" },
+  { alters = "Bombs", feature = "bomb" },
+]
 +++
 
 A reanimator is an alchemist who has discovered how to infuse a corpse with a semblance of life.

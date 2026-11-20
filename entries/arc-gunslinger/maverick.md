@@ -16,7 +16,11 @@ page = "64"
 
 [fields]
 kind = "archetype"
-replaces = ["Gunslinger's dodge deed", "Pistol whip deed", "Gunslinger initiative deed"]
+trades = [
+  { replaces = "Gunslinger's dodge deed" },
+  { replaces = "Pistol whip deed" },
+  { replaces = "Gunslinger initiative deed" },
+]
 +++
 
 Trouble always finds a maverick, whether she is a con artist or an honest gambler. Quick with her

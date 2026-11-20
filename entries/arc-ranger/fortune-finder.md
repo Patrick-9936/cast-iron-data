@@ -16,8 +16,14 @@ page = "29"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Hunter's bond", "Woodland stride", "Quarry", "improved quarry", "Master hunter"]
-replaces_features = ["track", "hunter-s-bond", "woodland-stride", "quarry", "improved-quarry", "master-hunter"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Quarry", feature = "quarry" },
+  { replaces = "improved quarry", feature = "improved-quarry" },
+  { replaces = "Master hunter", feature = "master-hunter" },
+]
 +++
 
 Vanaras often leave home to seek fortune and sate their curiosity regarding the mysterious lands

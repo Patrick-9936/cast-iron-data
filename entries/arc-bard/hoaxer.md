@@ -16,8 +16,18 @@ page = "29"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Inspire courage", "inspire competence", "and inspire greatness", "Countersong", "Distraction", "Inspire greatness", "Versatile performance", "Well-versed", "Lore master"]
-replaces_features = ["bardic-knowledge", "versatile-performance", "well-versed", "lore-master"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Inspire courage" },
+  { replaces = "inspire competence" },
+  { replaces = "and inspire greatness" },
+  { replaces = "Countersong" },
+  { replaces = "Distraction" },
+  { replaces = "Inspire greatness" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Lore master", feature = "lore-master" },
+]
 +++
 
 Hoaxers specialize in creating valuable-looking counterfeits and infusing these false treasures with

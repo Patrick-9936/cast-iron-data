@@ -13,8 +13,12 @@ page = "61"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Detect evil", "3rd-level and 9th-level mercies", "Aura of resolve", "Aura of justice"]
-replaces_features = ["detect-evil", "aura-of-resolve", "aura-of-justice"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "3rd-level and 9th-level mercies", feature = "mercy", levels = [3, 9] },
+  { replaces = "Aura of resolve", feature = "aura-of-resolve" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+]
 +++
 
 A paladin with this oath vows to restore the natural state of death to any animate corpse she

@@ -15,7 +15,12 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Improved evasion", "Deliver touch spells", "speak with animals of its kind", "scry on familiar"]
+trades = [
+  { replaces = "Improved evasion" },
+  { replaces = "Deliver touch spells" },
+  { replaces = "speak with animals of its kind" },
+  { replaces = "scry on familiar" },
+]
 +++
 
 Figments are born from their masters' imaginations rather than being ordinary creatures that are

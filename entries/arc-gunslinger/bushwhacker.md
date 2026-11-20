@@ -16,9 +16,13 @@ page = "134"
 
 [fields]
 kind = "archetype"
-replaces = ["Utility shot deed", "Targeting deed", "Bonus feats the gunslinger gains at 4th, 8th, 12th, 16th, and 20th level"]
-alters = ["Grit", "Deeds"]
-alters_features = ["grit", "deeds"]
+trades = [
+  { replaces = "Utility shot deed" },
+  { replaces = "Targeting deed" },
+  { replaces = "Bonus feats the gunslinger gains at 4th, 8th, 12th, 16th, and 20th level" },
+  { alters = "Grit", feature = "grit" },
+  { alters = "Deeds", feature = "deeds" },
+]
 +++
 
 The bushwhacker specializes in the art of the ambush. For her, gunplay works best when it comes from

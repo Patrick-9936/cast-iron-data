@@ -16,8 +16,13 @@ page = "32"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Inspire courage", "Versatile performance", "Well-versed", "Lore master"]
-replaces_features = ["bardic-knowledge", "versatile-performance", "well-versed", "lore-master"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Inspire courage" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Lore master", feature = "lore-master" },
+]
 +++
 
 As quick at wordplay as at swordplay, daredevils are dashing heroes, inspiring their allies to match

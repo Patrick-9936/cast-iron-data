@@ -16,9 +16,13 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["The magus arcana gained at 3rd level"]
-alters = ["Spellcasting", "Arcane pool", "Cantrips", "Spellstrike"]
-alters_features = ["arcane-pool", "cantrips", "spellstrike"]
+trades = [
+  { replaces = "The magus arcana gained at 3rd level", feature = "magus-arcana", levels = [3] },
+  { alters = "Spellcasting" },
+  { alters = "Arcane pool", feature = "arcane-pool" },
+  { alters = "Cantrips", feature = "cantrips" },
+  { alters = "Spellstrike", feature = "spellstrike" },
+]
 +++
 
 As part of studying the secret methods the original Jistkan artificers used to build golems, these

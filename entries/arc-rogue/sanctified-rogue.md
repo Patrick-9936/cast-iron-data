@@ -16,8 +16,10 @@ page = "74"
 
 [fields]
 kind = "archetype"
-replaces = ["Uncanny dodge", "Improved uncanny dodge"]
-replaces_features = ["uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 The sanctified rogue serves a higher purpose, acting as a representative of a church or cult, or

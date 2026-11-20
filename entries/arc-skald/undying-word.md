@@ -16,8 +16,14 @@ page = "5"
 
 [fields]
 kind = "archetype"
-replaces = ["Scribe scroll", "lore master", "Inspired rage", "Song of strength", "Dirge of doom", "Spell kenning"]
-replaces_features = ["scribe-scroll", "lore-master", "inspired-rage", "song-of-strength", "dirge-of-doom", "spell-kenning"]
+trades = [
+  { replaces = "Scribe scroll", feature = "scribe-scroll" },
+  { replaces = "lore master", feature = "lore-master" },
+  { replaces = "Inspired rage", feature = "inspired-rage" },
+  { replaces = "Song of strength", feature = "song-of-strength" },
+  { replaces = "Dirge of doom", feature = "dirge-of-doom" },
+  { replaces = "Spell kenning", feature = "spell-kenning" },
+]
 +++
 
 Some who have survived the Mana Wastes cannot accept defeat, and those who have learned to speak the

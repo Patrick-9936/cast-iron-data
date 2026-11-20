@@ -16,10 +16,12 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["Alchemy", "Poison lore"]
-alters = ["Inspiration", "Investigator talents"]
-replaces_features = ["alchemy", "poison-lore"]
-alters_features = ["inspiration"]
+trades = [
+  { replaces = "Alchemy", feature = "alchemy" },
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { alters = "Inspiration", feature = "inspiration" },
+  { alters = "Investigator talents", feature = "investigator-talent" },
+]
 +++
 
 Dabblers in arcane magic and masters of stealth and guile, questioners are investigators who often

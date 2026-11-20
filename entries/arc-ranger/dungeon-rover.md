@@ -16,10 +16,13 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Wild empathy", "Woodland stride", "Swift tracker"]
-alters = ["Hunter's bond"]
-replaces_features = ["track", "wild-empathy", "woodland-stride", "swift-tracker"]
-alters_features = ["hunter-s-bond"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { alters = "Hunter's bond", feature = "hunter-s-bond" },
+]
 +++
 
 These rangers specialize in surviving hostile subterranean environs. They are well equipped to avoid

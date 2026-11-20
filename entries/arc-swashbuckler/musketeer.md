@@ -16,8 +16,11 @@ page = "126"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon proficiencies", "Swashbuckler finesse", "Dodging panache"]
-replaces_features = ["swashbuckler-finesse"]
+trades = [
+  { replaces = "Weapon proficiencies" },
+  { replaces = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
+  { replaces = "Dodging panache" },
+]
 +++
 
 A number of organizations and kingdoms search for warriors who are brave (or foolish) enough to

@@ -16,10 +16,11 @@ page = "117"
 
 [fields]
 kind = "archetype"
-replaces = ["Divine health", "Aura of justice"]
-alters = ["Divine bond"]
-replaces_features = ["divine-health", "aura-of-justice"]
-alters_features = ["divine-bond"]
+trades = [
+  { replaces = "Divine health", feature = "divine-health" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { alters = "Divine bond", feature = "divine-bond" },
+]
 +++
 
 While paladins often are seen mounted atop a loyal steed, the shining knight is the true symbol of

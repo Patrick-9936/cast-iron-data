@@ -16,10 +16,14 @@ page = "57"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "trap sense", "Swift alchemy"]
-alters = ["Weapon and armor proficiency", "Alchemy", "Investigator talents"]
-replaces_features = ["trapfinding", "trap-sense", "swift-alchemy"]
-alters_features = ["alchemy"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "trap sense", feature = "trap-sense" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Alchemy", feature = "alchemy" },
+  { alters = "Investigator talents", feature = "investigator-talent" },
+]
 +++
 
 Star watchers study the movements and positions of the sun, the moon, and the stars, searching for

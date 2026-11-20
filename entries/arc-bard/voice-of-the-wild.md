@@ -16,8 +16,15 @@ page = "81"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Countersong", "versatile performance", "jack-of-all-trades", "Inspire competence", "dirge of doom", "inspire heroics"]
-replaces_features = ["bardic-knowledge", "versatile-performance", "jack-of-all-trades"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Countersong" },
+  { replaces = "versatile performance", feature = "versatile-performance" },
+  { replaces = "jack-of-all-trades", feature = "jack-of-all-trades" },
+  { replaces = "Inspire competence" },
+  { replaces = "dirge of doom" },
+  { replaces = "inspire heroics" },
+]
 +++
 
 Most bards are inspired by the art of civilization, yet the voice of the wild's muse is the grandeur

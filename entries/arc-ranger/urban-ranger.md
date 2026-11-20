@@ -16,8 +16,13 @@ page = "130"
 
 [fields]
 kind = "archetype"
-replaces = ["Favored terrain", "Endurance", "Woodland stride", "Camouflage", "Hide in plain sight"]
-replaces_features = ["favored-terrain", "endurance", "woodland-stride", "camouflage", "hide-in-plain-sight"]
+trades = [
+  { replaces = "Favored terrain", feature = "favored-terrain" },
+  { replaces = "Endurance", feature = "endurance" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Camouflage", feature = "camouflage" },
+  { replaces = "Hide in plain sight", feature = "hide-in-plain-sight" },
+]
 +++
 
 For the urban ranger, the streets and sewers of the city are just as dangerous as the barren

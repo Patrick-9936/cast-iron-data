@@ -16,7 +16,10 @@ page = "26"
 
 [fields]
 kind = "archetype"
-alters = ["Spellcasting", "Hexes"]
+trades = [
+  { alters = "Spellcasting" },
+  { alters = "Hexes", feature = "hex" },
+]
 +++
 
 Though most shamans dole out banes and boons equally, a benefactor seeks to improve the lives of

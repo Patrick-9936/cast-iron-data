@@ -16,8 +16,10 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild shape", "A thousand faces"]
-replaces_features = ["wild-shape", "a-thousand-faces"]
+trades = [
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+]
 +++
 
 Using the same primal energy with which other druids assume animal forms, skinshapers can imitate

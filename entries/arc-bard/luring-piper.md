@@ -16,10 +16,14 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Dirge of doom", "Soothing performance", "Well-versed"]
-alters = ["Bardic performance", "Fascinate"]
-replaces_features = ["bardic-knowledge", "well-versed"]
-alters_features = ["bardic-performance"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Dirge of doom" },
+  { replaces = "Soothing performance" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { alters = "Bardic performance", feature = "bardic-performance" },
+  { alters = "Fascinate" },
+]
 +++
 
 Some bards have an exceptional ability to use their musical performances to entrance the world's

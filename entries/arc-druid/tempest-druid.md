@@ -19,10 +19,15 @@ page = "41"
 
 [fields]
 kind = "archetype"
-replaces = ["Spontaneous casting", "Nature sense", "Trackless step", "Resist nature's lure", "Venom immunity"]
-alters = ["Armor and weapon proficiencies", "Nature bond"]
-replaces_features = ["spontaneous-casting", "nature-sense", "trackless-step", "resist-nature-s-lure", "venom-immunity"]
-alters_features = ["nature-bond"]
+trades = [
+  { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
+  { replaces = "Nature sense", feature = "nature-sense" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { alters = "Armor and weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Nature bond", feature = "nature-bond" },
+]
 +++
 
 Many of the druids who train under the aegis of the [Storm Kindlers](ref/rule/aff-storms) focus on

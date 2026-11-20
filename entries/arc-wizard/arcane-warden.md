@@ -16,10 +16,12 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Scribe Scroll, 5th-, 10th-, 15th-, and 20th-level bonus feats", "Hand of the apprentice universalist school ability", "Metamagic mastery universalist school ability"]
-alters = ["Arcane school"]
-replaces_features = ["scribe-scroll"]
-alters_features = ["arcane-school"]
+trades = [
+  { replaces = "Scribe Scroll, 5th-, 10th-, 15th-, and 20th-level bonus feats" },
+  { replaces = "Hand of the apprentice universalist school ability" },
+  { replaces = "Metamagic mastery universalist school ability" },
+  { alters = "Arcane school", feature = "arcane-school" },
+]
 +++
 
 In the aftermath of Earthfall, some elven wizards from Mierani chose to remain behind and provide

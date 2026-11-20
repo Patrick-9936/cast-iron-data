@@ -16,8 +16,15 @@ page = "130"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiency", "Sacred weapon", "Focus weapon", "Bonus feat gained at 3rd level", "Bonus feats gained at 6th, 12th, and 18th levels", "Sacred armor", "Bonus feat gained at 9th level"]
-replaces_features = ["sacred-weapon", "focus-weapon", "sacred-armor"]
+trades = [
+  { replaces = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Sacred weapon", feature = "sacred-weapon" },
+  { replaces = "Focus weapon", feature = "focus-weapon" },
+  { replaces = "Bonus feat gained at 3rd level", feature = "bonus-feats", levels = [3] },
+  { replaces = "Bonus feats gained at 6th, 12th, and 18th levels", feature = "bonus-feats", levels = [6, 12, 18] },
+  { replaces = "Sacred armor", feature = "sacred-armor" },
+  { replaces = "Bonus feat gained at 9th level", feature = "bonus-feats", levels = [9] },
+]
 +++
 
 Unlike many warpriests, sacred fists leave behind armor and shield and instead rely on their fists

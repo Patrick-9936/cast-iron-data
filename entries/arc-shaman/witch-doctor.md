@@ -16,7 +16,11 @@ page = "113"
 
 [fields]
 kind = "archetype"
-replaces = ["Hexes gained at 4th and 12th levels", "Hex gained at 8th level", "Hex gained at 10th level"]
+trades = [
+  { replaces = "Hexes gained at 4th and 12th levels", feature = "hex", levels = [4, 12] },
+  { replaces = "Hex gained at 8th level", feature = "hex", levels = [8] },
+  { replaces = "Hex gained at 10th level", feature = "hex", levels = [10] },
+]
 +++
 
 The witch doctor is a healer who specializes in afflictions of the soul. Often misunderstood, she

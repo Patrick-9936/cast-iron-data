@@ -16,8 +16,16 @@ page = "105"
 
 [fields]
 kind = "archetype"
-replaces = ["Still mind", "Ki pool", "high jump", "All instances of slow fall", "Improved evasion", "abundant step", "Diamond soul", "Empty body"]
-replaces_features = ["still-mind", "ki-pool", "high-jump", "improved-evasion", "abundant-step", "diamond-soul", "empty-body"]
+trades = [
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Ki pool", feature = "ki-pool" },
+  { replaces = "high jump", feature = "high-jump" },
+  { replaces = "All instances of slow fall" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { replaces = "abundant step", feature = "abundant-step" },
+  { replaces = "Diamond soul", feature = "diamond-soul" },
+  { replaces = "Empty body", feature = "empty-body" },
+]
 +++
 
 A wildcat is a student of the school of hard knocks, who dedicates himself to learning how to take

@@ -16,10 +16,11 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Elemental overflow"]
-alters = ["Elemental focus", "Expanded element"]
-replaces_features = ["elemental-overflow"]
-alters_features = ["elemental-focus", "expanded-element"]
+trades = [
+  { replaces = "Elemental overflow", feature = "elemental-overflow" },
+  { alters = "Elemental focus", feature = "elemental-focus" },
+  { alters = "Expanded element", feature = "expanded-element" },
+]
 +++
 
 Psammokinetics are ascetic kineticists who consider the harsh nature of the burning deserts of

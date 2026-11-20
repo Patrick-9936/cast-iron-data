@@ -16,8 +16,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Tactician", "greater tactician", "master tactician", "Banner", "Greater banner"]
-replaces_features = ["tactician", "greater-tactician", "master-tactician", "banner", "greater-banner"]
+trades = [
+  { replaces = "Tactician", feature = "tactician" },
+  { replaces = "greater tactician", feature = "greater-tactician" },
+  { replaces = "master tactician", feature = "master-tactician" },
+  { replaces = "Banner", feature = "banner" },
+  { replaces = "Greater banner", feature = "greater-banner" },
+]
 +++
 
 The war colleges of the Castrovelian city-state of Qabarat produce a distinctive breed of cavalier

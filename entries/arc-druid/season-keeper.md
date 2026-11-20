@@ -16,10 +16,13 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Trackless step", "venom immunity", "timeless body"]
-alters = ["Nature bond", "Wild shape"]
-replaces_features = ["trackless-step", "venom-immunity", "timeless-body"]
-alters_features = ["nature-bond", "wild-shape"]
+trades = [
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "venom immunity", feature = "venom-immunity" },
+  { replaces = "timeless body", feature = "timeless-body" },
+  { alters = "Nature bond", feature = "nature-bond" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Imbued with the primeval potency of their planet's seasons, those druids known as season keepers

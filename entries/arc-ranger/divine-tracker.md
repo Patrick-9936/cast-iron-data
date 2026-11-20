@@ -16,8 +16,10 @@ page = "108"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Hunter's bond"]
-replaces_features = ["wild-empathy", "hunter-s-bond"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+]
 +++
 
 Blessed by his deity, a divine tracker hunts down those he deems deserving of his retribution. His

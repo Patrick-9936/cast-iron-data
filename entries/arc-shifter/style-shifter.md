@@ -16,10 +16,15 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["Shifter aspect", "chimeric aspect", "greater chimeric aspect", "final aspect"]
-alters = ["Armor proficiencies", "Shifter claws", "Wild shape"]
-replaces_features = ["shifter-aspect", "chimeric-aspect", "greater-chimeric-aspect", "final-aspect"]
-alters_features = ["shifter-claws", "wild-shape"]
+trades = [
+  { replaces = "Shifter aspect", feature = "shifter-aspect" },
+  { replaces = "chimeric aspect", feature = "chimeric-aspect" },
+  { replaces = "greater chimeric aspect", feature = "greater-chimeric-aspect" },
+  { replaces = "final aspect", feature = "final-aspect" },
+  { alters = "Armor proficiencies" },
+  { alters = "Shifter claws", feature = "shifter-claws" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Among the many warriors that train on Tian Xia's Wall of Heaven, a select few have been able to

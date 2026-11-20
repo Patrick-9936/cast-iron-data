@@ -16,8 +16,15 @@ page = "36"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor and weapon proficiencies", "Bravery", "Weapon training 1", "Weapon training 2", "Weapon training 3", "Weapon training 4", "Weapon mastery"]
-replaces_features = ["bravery", "weapon-mastery"]
+trades = [
+  { replaces = "Armor and weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
+  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { replaces = "Weapon training 3", feature = "weapon-training", power = "3" },
+  { replaces = "Weapon training 4", feature = "weapon-training", power = "4" },
+  { replaces = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 Not every [Calistrian](ref/faith/calistria) who dedicates himself to the goddess can channel divine

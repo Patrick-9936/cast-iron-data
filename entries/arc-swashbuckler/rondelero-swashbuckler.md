@@ -16,9 +16,13 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Derring-do", "Kip-up", "Bleeding wound", "Perfect thrust"]
-alters = ["Charmed life"]
-alters_features = ["charmed-life"]
+trades = [
+  { replaces = "Derring-do" },
+  { replaces = "Kip-up" },
+  { replaces = "Bleeding wound" },
+  { replaces = "Perfect thrust" },
+  { alters = "Charmed life", feature = "charmed-life" },
+]
 +++
 
 Rondelero swashbucklers are Taldan specialists in an aggressive, lightly armored fighting style that

@@ -16,7 +16,9 @@ page = "59"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus spells granted by the oracle's mystery after 2nd level"]
+trades = [
+  { replaces = "Bonus spells granted by the oracle's mystery after 2nd level" },
+]
 +++
 
 While all oracles possess some ability at divination, the seer is a true prophet, able to see things

@@ -16,8 +16,14 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "High jump", "Improved evasion", "Abundant step", "Quivering palm", "Empty body"]
-replaces_features = ["evasion", "high-jump", "improved-evasion", "abundant-step", "quivering-palm", "empty-body"]
+trades = [
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "High jump", feature = "high-jump" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { replaces = "Quivering palm", feature = "quivering-palm" },
+  { replaces = "Empty body", feature = "empty-body" },
+]
 +++
 
 Possessing a natural affinity for all things earthen, terracotta monks are experts at turning the

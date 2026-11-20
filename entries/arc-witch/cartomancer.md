@@ -16,7 +16,10 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Familiar", "2nd-level hex"]
+trades = [
+  { replaces = "Familiar" },
+  { replaces = "2nd-level hex", feature = "hex", levels = [2] },
+]
 +++
 
 More than mere playing cards, harrow decks allow individuals to communicate with powers beyond

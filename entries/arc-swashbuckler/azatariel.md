@@ -16,8 +16,15 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Menacing swordplay", "Precise strike", "Targeted strike", "Bleeding wound", "Charmed life", "Nimble", "Bonus feats"]
-replaces_features = ["charmed-life", "nimble", "bonus-feats"]
+trades = [
+  { replaces = "Menacing swordplay" },
+  { replaces = "Precise strike" },
+  { replaces = "Targeted strike" },
+  { replaces = "Bleeding wound" },
+  { replaces = "Charmed life", feature = "charmed-life" },
+  { replaces = "Nimble", feature = "nimble" },
+  { replaces = "Bonus feats", feature = "bonus-feats" },
+]
 +++
 
 Azatariels are the champions of Elysium, dedicated to spreading its unpredictable whimsy and

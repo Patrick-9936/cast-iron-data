@@ -16,10 +16,17 @@ page = "82"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild shape", "shifter aspect", "Defensive instinct", "chimeric aspect", "greater chimeric aspect", "Woodland stride", "Trackless step"]
-alters = ["Alignment", "Shifter claws"]
-replaces_features = ["wild-shape", "shifter-aspect", "defensive-instinct", "chimeric-aspect", "greater-chimeric-aspect", "woodland-stride", "trackless-step"]
-alters_features = ["shifter-claws"]
+trades = [
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { replaces = "shifter aspect", feature = "shifter-aspect" },
+  { replaces = "Defensive instinct", feature = "defensive-instinct" },
+  { replaces = "chimeric aspect", feature = "chimeric-aspect" },
+  { replaces = "greater chimeric aspect", feature = "greater-chimeric-aspect" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { alters = "Alignment" },
+  { alters = "Shifter claws", feature = "shifter-claws" },
+]
 +++
 
 Not all shifters represent the balance of nature. The rageshaper is a destructive force of nature

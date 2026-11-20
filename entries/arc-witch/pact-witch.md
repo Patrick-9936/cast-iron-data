@@ -16,8 +16,11 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["Patron", "6th-level hex"]
-alters = ["Familiar"]
+trades = [
+  { replaces = "Patron" },
+  { replaces = "6th-level hex", feature = "hex", levels = [6] },
+  { alters = "Familiar" },
+]
 +++
 
 Though all witches forge bonds with mysterious powers known as patrons, a pact witch takes this bond

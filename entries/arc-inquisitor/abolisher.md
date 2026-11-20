@@ -16,10 +16,13 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Stern gaze", "Detect alignment", "Discern lies"]
-alters = ["Domains", "Bane"]
-replaces_features = ["stern-gaze", "detect-alignment", "discern-lies"]
-alters_features = ["bane"]
+trades = [
+  { replaces = "Stern gaze", feature = "stern-gaze" },
+  { replaces = "Detect alignment", feature = "detect-alignment" },
+  { replaces = "Discern lies", feature = "discern-lies" },
+  { alters = "Domains", feature = "domain" },
+  { alters = "Bane", feature = "bane" },
+]
 +++
 
 Abolishers are incorruptible inquisitors who weed out creatures of alien, unnatural origins, finding

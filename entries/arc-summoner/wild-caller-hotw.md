@@ -16,9 +16,11 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Aspect", "Greater aspect"]
-alters = ["Summon monster"]
-replaces_features = ["aspect", "greater-aspect"]
+trades = [
+  { replaces = "Aspect", feature = "aspect" },
+  { replaces = "Greater aspect", feature = "greater-aspect" },
+  { alters = "Summon monster" },
+]
 +++
 
 A wild caller summons creatures from the First World and forges a bond with an eidolon with a plant

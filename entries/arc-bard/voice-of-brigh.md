@@ -16,7 +16,12 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Fascinate", "Dirge of doom", "Soothing performance", "Frightening tune"]
+trades = [
+  { replaces = "Fascinate" },
+  { replaces = "Dirge of doom" },
+  { replaces = "Soothing performance" },
+  { replaces = "Frightening tune" },
+]
 +++
 
 The [Whisper in Bronze](ref/faith/brigh) sometimes sends inspiration to her favorite followers in

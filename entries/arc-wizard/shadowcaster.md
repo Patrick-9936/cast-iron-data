@@ -16,8 +16,11 @@ page = "39"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane bond", "5th-level bonus feat", "10th-level bonus feat"]
-replaces_features = ["arcane-bond"]
+trades = [
+  { replaces = "Arcane bond", feature = "arcane-bond" },
+  { replaces = "5th-level bonus feat", feature = "bonus-feats", levels = [5] },
+  { replaces = "10th-level bonus feat", feature = "bonus-feats", levels = [10] },
+]
 +++
 
 Trained in the dark mysteries of Nidal's Umbral Court and its Kuthonite dogma, your training allows

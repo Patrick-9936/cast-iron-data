@@ -16,8 +16,14 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense (for a core rogue)", "danger sense (for an unchained rogue)", "Rogue talents gained at 4th and 12th levels", "Uncanny dodge", "improved uncanny dodge"]
-replaces_features = ["trapfinding", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense (for a core rogue)" },
+  { replaces = "danger sense (for an unchained rogue)" },
+  { replaces = "Rogue talents gained at 4th and 12th levels", feature = "rogue-talents", levels = [4, 12] },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Often brought in to handle messy situations, discretion specialists deal with bodies, inconvenient

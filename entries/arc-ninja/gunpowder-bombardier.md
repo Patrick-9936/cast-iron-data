@@ -16,10 +16,12 @@ page = "30"
 
 [fields]
 kind = "archetype"
-replaces = ["Ninja trick gained at 2nd level", "Uncanny dodge", "Improved uncanny dodge"]
-alters = ["Ki pool"]
-replaces_features = ["uncanny-dodge", "improved-uncanny-dodge"]
-alters_features = ["ki-pool"]
+trades = [
+  { replaces = "Ninja trick gained at 2nd level", feature = "ninja-tricks", levels = [2] },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { alters = "Ki pool", feature = "ki-pool" },
+]
 +++
 
 [Ratfolk](ref/race/ratfolk) assassins and other ninjas with an affinity for gunpowder demonstrate

@@ -16,7 +16,9 @@ page = "128"
 
 [fields]
 kind = "archetype"
-replaces = ["Spellcasting ability"]
+trades = [
+  { replaces = "Spellcasting ability" },
+]
 +++
 
 Many rangers rely on spells, but there are some who eschew aid from divine powers for their own

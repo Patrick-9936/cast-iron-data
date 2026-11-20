@@ -16,10 +16,17 @@ page = "69"
 
 [fields]
 kind = "archetype"
-replaces = ["Slam damage increase gained at 5th level", "Devotion", "Slam damage increase gained at 13th level", "Spiritual interference", "Greater spiritual interference"]
-alters = ["Alignment", "Bonded manifestation", "Shared consciousness", "Share spells"]
-replaces_features = ["spiritual-interference", "greater-spiritual-interference"]
-alters_features = ["bonded-manifestation", "shared-consciousness"]
+trades = [
+  { replaces = "Slam damage increase gained at 5th level" },
+  { replaces = "Devotion" },
+  { replaces = "Slam damage increase gained at 13th level" },
+  { replaces = "Spiritual interference", feature = "spiritual-interference" },
+  { replaces = "Greater spiritual interference", feature = "greater-spiritual-interference" },
+  { alters = "Alignment" },
+  { alters = "Bonded manifestation", feature = "bonded-manifestation" },
+  { alters = "Shared consciousness", feature = "shared-consciousness" },
+  { alters = "Share spells" },
+]
 +++
 
 All spiritualists call upon residual phantoms that cling to the living world through force of will

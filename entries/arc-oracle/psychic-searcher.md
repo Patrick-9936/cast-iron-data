@@ -16,8 +16,12 @@ page = "106"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus spells gained at 4th, 6th, 8th, 12th, 16th, and 18th levels from the oracle's mystery", "Mystery spell gained at 2nd level", "Revelation gained at 3rd level"]
-alters = ["Revelations gained after 3rd level"]
+trades = [
+  { replaces = "The bonus spells gained at 4th, 6th, 8th, 12th, 16th, and 18th levels from the oracle's mystery" },
+  { replaces = "Mystery spell gained at 2nd level" },
+  { replaces = "Revelation gained at 3rd level", feature = "revelation", levels = [3] },
+  { alters = "Revelations gained after 3rd level" },
+]
 +++
 
 A psychic searcher is devoted to revealing the hidden within the world around her by sensing and

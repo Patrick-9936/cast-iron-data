@@ -16,8 +16,10 @@ page = "78"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement", "Trap sense"]
-replaces_features = ["fast-movement", "trap-sense"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+]
 +++
 
 While most barbarians are skilled at breaking things, some find the need to destroy their

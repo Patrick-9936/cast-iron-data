@@ -16,8 +16,11 @@ page = "123"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Uncanny dodge", "Improved uncanny dodge"]
-replaces_features = ["trapfinding", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 The escapologist excels at escaping any confinement, whether physical, magical, or mental. Few

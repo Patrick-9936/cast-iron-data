@@ -16,10 +16,12 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison lore", "Poison resistance", "Investigator talents gained at 3rd and 9th levels"]
-alters = ["Studied strike"]
-replaces_features = ["poison-lore", "poison-resistance"]
-alters_features = ["studied-strike"]
+trades = [
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Investigator talents gained at 3rd and 9th levels", feature = "investigator-talent", levels = [3, 9] },
+  { alters = "Studied strike", feature = "studied-strike" },
+]
 +++
 
 Holomog is an ancient nation built on even more ancient ruins. Its renowned civil engineers develop

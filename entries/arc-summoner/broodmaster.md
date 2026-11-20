@@ -16,8 +16,12 @@ page = "78"
 
 [fields]
 kind = "archetype"
-replaces = ["Eidolon", "Life link", "Life bond", "Merge forms"]
-replaces_features = ["eidolon", "life-link", "life-bond", "merge-forms"]
+trades = [
+  { replaces = "Eidolon", feature = "eidolon" },
+  { replaces = "Life link", feature = "life-link" },
+  { replaces = "Life bond", feature = "life-bond" },
+  { replaces = "Merge forms", feature = "merge-forms" },
+]
 +++
 
 Most summoners bond with one eidolon for their entire lives, but the broodmaster forges a link with

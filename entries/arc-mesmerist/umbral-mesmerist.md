@@ -16,9 +16,12 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["Mesmerist tricks gained at 1st, 4th, 8th, 12th, 16th, and 20th levels", "Towering ego", "Mental potency"]
-alters = ["Spellcasting"]
-replaces_features = ["towering-ego", "mental-potency"]
+trades = [
+  { replaces = "Mesmerist tricks gained at 1st, 4th, 8th, 12th, 16th, and 20th levels", feature = "mesmerist-tricks", levels = [1, 4, 8, 12, 16, 20] },
+  { replaces = "Towering ego", feature = "towering-ego" },
+  { replaces = "Mental potency", feature = "mental-potency" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Trained in secret, umbral mesmerists are clandestine weapons who spend years learning how to shape

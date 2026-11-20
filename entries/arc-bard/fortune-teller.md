@@ -16,10 +16,14 @@ page = "32"
 
 [fields]
 kind = "archetype"
-replaces = ["Countersong", "distraction", "Well-versed", "Dirge of doom"]
-alters = ["Spell list", "Bardic performance"]
-replaces_features = ["well-versed"]
-alters_features = ["bardic-performance"]
+trades = [
+  { replaces = "Countersong" },
+  { replaces = "distraction" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Dirge of doom" },
+  { alters = "Spell list" },
+  { alters = "Bardic performance", feature = "bardic-performance" },
+]
 +++
 
 Instead of using song and dance, a fortune-teller influences people by divining their fate. Though

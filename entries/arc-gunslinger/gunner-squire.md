@@ -16,7 +16,11 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Gunslinger's dodge deed", "Gunslinger initiative", "Nimble +1"]
+trades = [
+  { replaces = "Gunslinger's dodge deed" },
+  { replaces = "Gunslinger initiative" },
+  { replaces = "Nimble +1", feature = "nimble", power = "+1" },
+]
 +++
 
 Prepared to reload or repair her lord's firearms at a moment's notice, the gunner squire is an

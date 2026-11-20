@@ -16,8 +16,9 @@ page = "42"
 
 [fields]
 kind = "archetype"
-replaces = ["Martial flexibility"]
-replaces_features = ["martial-flexibility"]
+trades = [
+  { replaces = "Martial flexibility", feature = "martial-flexibility" },
+]
 +++
 
 A feral striker taps into a reservoir of druidic power hidden inside herself, allowing her to take

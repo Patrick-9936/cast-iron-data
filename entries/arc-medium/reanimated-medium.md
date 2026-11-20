@@ -16,10 +16,14 @@ page = "93"
 
 [fields]
 kind = "archetype"
-replaces = ["Haunt channeler", "Location channel", "Connection channel", "spacious soul", "Astral beacon"]
-alters = ["Spirit"]
-replaces_features = ["haunt-channeler", "location-channel", "connection-channel", "spacious-soul", "astral-beacon"]
-alters_features = ["spirit"]
+trades = [
+  { replaces = "Haunt channeler", feature = "haunt-channeler" },
+  { replaces = "Location channel", feature = "location-channel" },
+  { replaces = "Connection channel", feature = "connection-channel" },
+  { replaces = "spacious soul", feature = "spacious-soul" },
+  { replaces = "Astral beacon", feature = "astral-beacon" },
+  { alters = "Spirit", feature = "spirit" },
+]
 +++
 
 Sometimes a departed soul destined for legend gains a second chance at life by possessing his own

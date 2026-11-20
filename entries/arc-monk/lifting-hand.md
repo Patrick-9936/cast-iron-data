@@ -16,9 +16,12 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning fist", "Bonus feat gained at 10th level", "Abundant step"]
-alters = ["Bonus feats"]
-replaces_features = ["stunning-fist", "abundant-step"]
+trades = [
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "Bonus feat gained at 10th level", feature = "bonus-feat", levels = [10] },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { alters = "Bonus feats", feature = "bonus-feat" },
+]
 +++
 
 Those studied in the art of grappling know that using their opponents' own weight and momentum to

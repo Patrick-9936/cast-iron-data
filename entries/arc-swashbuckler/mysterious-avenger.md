@@ -16,10 +16,13 @@ page = "126"
 
 [fields]
 kind = "archetype"
-replaces = ["Nimble", "4th-level bonus feat", "Swashbuckler weapon training"]
-alters = ["Weapon and armor proficiency", "Swashbuckler finesse"]
-replaces_features = ["nimble", "swashbuckler-weapon-training"]
-alters_features = ["swashbuckler-finesse"]
+trades = [
+  { replaces = "Nimble", feature = "nimble" },
+  { replaces = "4th-level bonus feat", feature = "bonus-feats", levels = [4] },
+  { replaces = "Swashbuckler weapon training", feature = "swashbuckler-weapon-training" },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
+]
 +++
 
 While some swashbucklers fight for queen and country, and others for coin, glory, or just the

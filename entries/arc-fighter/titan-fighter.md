@@ -16,8 +16,11 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["The fighter's 1st level bonus feat", "Armor training", "Weapon training"]
-replaces_features = ["armor-training", "weapon-training"]
+trades = [
+  { replaces = "The fighter's 1st level bonus feat", feature = "bonus-feats", levels = [1] },
+  { replaces = "Armor training", feature = "armor-training" },
+  { replaces = "Weapon training", feature = "weapon-training" },
+]
 +++
 
 Titan fighters make use of enormous weapons others can barely lift. Titan fighters have the

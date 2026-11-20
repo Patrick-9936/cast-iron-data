@@ -16,10 +16,11 @@ page = "109"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "Rogue talent gained at 4th level"]
-alters = ["Advanced talents"]
-replaces_features = ["evasion"]
-alters_features = ["advanced-talents"]
+trades = [
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Rogue talent gained at 4th level", feature = "rogue-talents", levels = [4] },
+  { alters = "Advanced talents", feature = "advanced-talents" },
+]
 +++
 
 Underground chemists are part of the rotting, fetid underbelly of the alchemical world. While

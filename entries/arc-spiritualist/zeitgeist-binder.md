@@ -16,10 +16,15 @@ page = "51"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect undead", "calm spirit", "see invisibility", "call spirit", "Bonded senses", "fused consciousness"]
-alters = ["Phantom"]
-replaces_features = ["detect-undead", "calm-spirit", "see-invisibility", "call-spirit", "bonded-senses", "fused-consciousness"]
-alters_features = ["phantom"]
+trades = [
+  { replaces = "Detect undead", feature = "detect-undead" },
+  { replaces = "calm spirit", feature = "calm-spirit" },
+  { replaces = "see invisibility", feature = "see-invisibility" },
+  { replaces = "call spirit", feature = "call-spirit" },
+  { replaces = "Bonded senses", feature = "bonded-senses" },
+  { replaces = "fused consciousness", feature = "fused-consciousness" },
+  { alters = "Phantom", feature = "phantom" },
+]
 +++
 
 Not all spiritualists deal in the souls of creatures that refuse to pass into death. Zeitgeist

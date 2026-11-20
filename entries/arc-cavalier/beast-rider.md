@@ -16,8 +16,10 @@ page = "36"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "expert trainer"]
-replaces_features = ["mount", "expert-trainer"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "expert trainer", feature = "expert-trainer" },
+]
 +++
 
 The cavalier is defined not only by his dedication to his order or his skill on the battlefield, but

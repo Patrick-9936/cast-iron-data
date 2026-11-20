@@ -16,10 +16,11 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["Order"]
-alters = ["The cavalier's weapon proficiencies", "Mount"]
-replaces_features = ["order"]
-alters_features = ["mount"]
+trades = [
+  { replaces = "Order", feature = "order" },
+  { alters = "The cavalier's weapon proficiencies" },
+  { alters = "Mount", feature = "mount" },
+]
 +++
 
 Nagajor legend states that when [Nalinivati](ref/faith/nalinivati) created the first

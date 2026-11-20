@@ -16,9 +16,13 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus feat gained at 1st level", "Bravery", "Armor training 1 through 4", "Armor mastery"]
-alters = ["The fighter's skill ranks per level"]
-replaces_features = ["bravery", "armor-mastery"]
+trades = [
+  { replaces = "The bonus feat gained at 1st level", feature = "bonus-feats", levels = [1] },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Armor training 1 through 4" },
+  { replaces = "Armor mastery", feature = "armor-mastery" },
+  { alters = "The fighter's skill ranks per level" },
+]
 +++
 
 Pack mules carry heavy loads with ease and small packages with discretion. Unlike most couriers or

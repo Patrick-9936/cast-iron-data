@@ -16,10 +16,13 @@ page = "93"
 
 [fields]
 kind = "archetype"
-replaces = ["Haunt channeler", "Location channel"]
-alters = ["Spirit", "Spirit", "Connection channel"]
-replaces_features = ["haunt-channeler", "location-channel"]
-alters_features = ["spirit", "spirit", "connection-channel"]
+trades = [
+  { replaces = "Haunt channeler", feature = "haunt-channeler" },
+  { replaces = "Location channel", feature = "location-channel" },
+  { alters = "Spirit", feature = "spirit" },
+  { alters = "Spirit" },
+  { alters = "Connection channel", feature = "connection-channel" },
+]
 +++
 
 A relic channeler carries relics of legend around with her. She need not rely on locating the

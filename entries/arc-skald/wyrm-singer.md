@@ -16,8 +16,11 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Inspired rage", "Song of the fallen", "Rage power gained at 12th level"]
-replaces_features = ["inspired-rage", "song-of-the-fallen"]
+trades = [
+  { replaces = "Inspired rage", feature = "inspired-rage" },
+  { replaces = "Song of the fallen", feature = "song-of-the-fallen" },
+  { replaces = "Rage power gained at 12th level", feature = "rage-powers", levels = [12] },
+]
 +++
 
 Wyrm singers spin fragments of the story of the ongoing struggle between noble Apsu and wicked

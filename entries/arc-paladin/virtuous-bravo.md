@@ -16,10 +16,14 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Mercy", "Spellcasting", "Aura of justice", "Holy champion"]
-alters = ["Armor proficiency", "Smite evil"]
-replaces_features = ["mercy", "aura-of-justice", "holy-champion"]
-alters_features = ["smite-evil"]
+trades = [
+  { replaces = "Mercy", feature = "mercy" },
+  { replaces = "Spellcasting" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { replaces = "Holy champion", feature = "holy-champion" },
+  { alters = "Armor proficiency" },
+  { alters = "Smite evil", feature = "smite-evil" },
+]
 +++
 
 Although no less a beacon of hope and justice than other paladins, virtuous bravos rely on their wit

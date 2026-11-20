@@ -16,10 +16,13 @@ page = "40"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Wild shape", "Venom immunity"]
-alters = ["Nature bond", "Wild empathy"]
-replaces_features = ["woodland-stride", "wild-shape", "venom-immunity"]
-alters_features = ["nature-bond", "wild-empathy"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { alters = "Nature bond", feature = "nature-bond" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+]
 +++
 
 Some druids emulate the deadly shark, a remorseless hunter that marine dwellers dread. Like a true

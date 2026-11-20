@@ -16,10 +16,13 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "track", "woodland stride", "trackless step"]
-alters = ["Shifter claws"]
-replaces_features = ["wild-empathy", "track", "woodland-stride", "trackless-step"]
-alters_features = ["shifter-claws"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "track", feature = "track" },
+  { replaces = "woodland stride", feature = "woodland-stride" },
+  { replaces = "trackless step", feature = "trackless-step" },
+  { alters = "Shifter claws", feature = "shifter-claws" },
+]
 +++
 
 Thousands of gods are venerated in Vudra, and devoted followers might have personal relationships

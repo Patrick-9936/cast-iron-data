@@ -16,8 +16,10 @@ page = "74"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense"]
-replaces_features = ["trapfinding", "trap-sense"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+]
 +++
 
 A specialized urban acrobat, the roof runner makes her home high atop the spires and gables of great

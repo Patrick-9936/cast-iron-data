@@ -16,8 +16,14 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Judgment", "Discern lies", "second judgment", "third judgment", "slayer", "true judgment"]
-replaces_features = ["judgment", "discern-lies", "second-judgment", "third-judgment", "slayer", "true-judgment"]
+trades = [
+  { replaces = "Judgment", feature = "judgment" },
+  { replaces = "Discern lies", feature = "discern-lies" },
+  { replaces = "second judgment", feature = "second-judgment" },
+  { replaces = "third judgment", feature = "third-judgment" },
+  { replaces = "slayer", feature = "slayer" },
+  { replaces = "true judgment", feature = "true-judgment" },
+]
 +++
 
 While most inquisitors have learned to take advantage of the movements of their opponents and allies

@@ -15,8 +15,13 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Improved evasion", "Speak with animals of its kind", "Spell resistance"]
-alters = ["Alertness", "Share spells"]
+trades = [
+  { replaces = "Improved evasion" },
+  { replaces = "Speak with animals of its kind" },
+  { replaces = "Spell resistance" },
+  { alters = "Alertness" },
+  { alters = "Share spells" },
+]
 +++
 
 Familiars can be skilled spies, and infiltrators are the very best of their kind at the subtle art

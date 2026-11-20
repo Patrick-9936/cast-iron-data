@@ -16,10 +16,13 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Resist nature's lure", "Wild shape", "Venom immunity"]
-alters = ["Spellcasting", "Nature bond"]
-replaces_features = ["resist-nature-s-lure", "wild-shape", "venom-immunity"]
-alters_features = ["nature-bond"]
+trades = [
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { alters = "Spellcasting" },
+  { alters = "Nature bond", feature = "nature-bond" },
+]
 +++
 
 The survivor embodies the neutral aspect of the natural world and eschews druidic magic in favor of

@@ -16,8 +16,14 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense", "poison resistance", "poison immunity", "Swift alchemy", "investigator talent gained at 5th level"]
-replaces_features = ["trapfinding", "trap-sense", "poison-resistance", "swift-alchemy"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { replaces = "investigator talent gained at 5th level", feature = "investigator-talent", levels = [5] },
+]
 +++
 
 The ability of investigators trained at the University of Lepidstadt to get to the bottom of a

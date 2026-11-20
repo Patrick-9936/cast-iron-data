@@ -16,7 +16,13 @@ page = "65"
 
 [fields]
 kind = "archetype"
-replaces = ["Deadeye deed", "Startling shot deed", "Bleeding wound deed", "Menacing shot deed", "The bonus feat gained at 4th level"]
+trades = [
+  { replaces = "Deadeye deed" },
+  { replaces = "Startling shot deed" },
+  { replaces = "Bleeding wound deed" },
+  { replaces = "Menacing shot deed" },
+  { replaces = "The bonus feat gained at 4th level", feature = "bonus-feats", levels = [4] },
+]
 +++
 
 Graveslingers craft signature bullets to hunt down wandering undead. With this infused ammunition,

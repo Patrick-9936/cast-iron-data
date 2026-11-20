@@ -16,10 +16,14 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Aura"]
-alters = ["Weapon and armor proficiency", "Spells", "Channel energy", "Domains", "Spontaneous casting"]
-replaces_features = ["aura"]
-alters_features = ["spells", "channel-energy", "domains", "spontaneous-casting"]
+trades = [
+  { replaces = "Aura", feature = "aura" },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Spells", feature = "spells" },
+  { alters = "Channel energy", feature = "channel-energy" },
+  { alters = "Domains", feature = "domains" },
+  { alters = "Spontaneous casting", feature = "spontaneous-casting" },
+]
 +++
 
 While most clerics who fall out of favor with their deities simply lose their divine connection and

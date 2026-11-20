@@ -16,10 +16,15 @@ page = "104"
 
 [fields]
 kind = "archetype"
-replaces = ["Spells", "Spell recall", "Arcane pool", "Knowledge pool"]
-alters = ["Spell combat", "Improved spell combat", "Greater spell combat"]
-replaces_features = ["spells", "spell-recall", "arcane-pool", "knowledge-pool"]
-alters_features = ["spell-combat", "improved-spell-combat", "greater-spell-combat"]
+trades = [
+  { replaces = "Spells", feature = "spells" },
+  { replaces = "Spell recall", feature = "spell-recall" },
+  { replaces = "Arcane pool", feature = "arcane-pool" },
+  { replaces = "Knowledge pool", feature = "knowledge-pool" },
+  { alters = "Spell combat", feature = "spell-combat" },
+  { alters = "Improved spell combat", feature = "improved-spell-combat" },
+  { alters = "Greater spell combat", feature = "greater-spell-combat" },
+]
 +++
 
 Unlike typical magi, eldritch scions do not study tomes of magic or spend time learning to combine

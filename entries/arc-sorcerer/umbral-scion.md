@@ -16,8 +16,12 @@ page = "19"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level bloodline power", "7th-level bloodline feat", "13th-level bloodline feat"]
-alters = ["Spellcasting"]
+trades = [
+  { replaces = "1st-level bloodline power" },
+  { replaces = "7th-level bloodline feat" },
+  { replaces = "13th-level bloodline feat" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Umbral scions are sorcerers who are able to expertly control their especially potent shadow

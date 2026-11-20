@@ -16,8 +16,14 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Favored terrain", "Woodland stride", "Swift tracker", "Camouflage", "hide in plain sight"]
-replaces_features = ["track", "favored-terrain", "woodland-stride", "swift-tracker", "camouflage", "hide-in-plain-sight"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Favored terrain", feature = "favored-terrain" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "Camouflage", feature = "camouflage" },
+  { replaces = "hide in plain sight", feature = "hide-in-plain-sight" },
+]
 +++
 
 Those plying the lightless waters of the Darklands learn to use sound to augment their compromised

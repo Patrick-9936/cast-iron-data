@@ -16,9 +16,12 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Startling shot deed", "Lightning reload deed", "Menacing shot deed"]
-alters = ["Gun training"]
-alters_features = ["gun-training"]
+trades = [
+  { replaces = "Startling shot deed" },
+  { replaces = "Lightning reload deed" },
+  { replaces = "Menacing shot deed" },
+  { alters = "Gun training", feature = "gun-training" },
+]
 +++
 
 These long-shot artists are masters at taking down dragons with sharp shooting and light siege

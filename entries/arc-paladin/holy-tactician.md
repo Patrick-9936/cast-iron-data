@@ -16,8 +16,15 @@ page = "64"
 
 [fields]
 kind = "archetype"
-replaces = ["Smite evil", "Divine health", "divine bond", "Aura of courage", "Aura of resolve", "Aura of justice", "Holy champion"]
-replaces_features = ["smite-evil", "divine-health", "divine-bond", "aura-of-courage", "aura-of-resolve", "aura-of-justice", "holy-champion"]
+trades = [
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { replaces = "Divine health", feature = "divine-health" },
+  { replaces = "divine bond", feature = "divine-bond" },
+  { replaces = "Aura of courage", feature = "aura-of-courage" },
+  { replaces = "Aura of resolve", feature = "aura-of-resolve" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { replaces = "Holy champion", feature = "holy-champion" },
+]
 +++
 
 The holy tactician inspires her allies on the field of battle. Her place is at their side against

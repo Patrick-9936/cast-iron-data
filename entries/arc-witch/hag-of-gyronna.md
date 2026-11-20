@@ -16,7 +16,11 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd-level hex", "8th-level hex", "12th-level hex"]
+trades = [
+  { replaces = "2nd-level hex", feature = "hex", levels = [2] },
+  { replaces = "8th-level hex", feature = "hex", levels = [8] },
+  { replaces = "12th-level hex", feature = "hex", levels = [12] },
+]
 +++
 
 Only female witches dare dedicate themselves to the [Angry Hag](ref/faith/gyronna), and those who do

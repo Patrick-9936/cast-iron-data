@@ -16,10 +16,20 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "Cavalier's charge", "Banner", "Cavalier bonus feats", "Mighty charge", "Greater banner", "Supreme charge"]
-alters = ["Challenge", "Tactician", "greater tactician", "master tactician", "Expert trainer"]
-replaces_features = ["mount", "cavalier-s-charge", "banner", "mighty-charge", "greater-banner", "supreme-charge"]
-alters_features = ["challenge", "tactician", "greater-tactician", "master-tactician", "expert-trainer"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Banner", feature = "banner" },
+  { replaces = "Cavalier bonus feats", feature = "bonus-feat" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "Greater banner", feature = "greater-banner" },
+  { replaces = "Supreme charge", feature = "supreme-charge" },
+  { alters = "Challenge", feature = "challenge" },
+  { alters = "Tactician", feature = "tactician" },
+  { alters = "greater tactician", feature = "greater-tactician" },
+  { alters = "master tactician", feature = "master-tactician" },
+  { alters = "Expert trainer", feature = "expert-trainer" },
+]
 +++
 
 Huntmasters train the beasts favored by lordly castes into swift and deadly trackers.

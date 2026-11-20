@@ -16,8 +16,12 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Uncanny dodge", "Trap sense", "Improved uncanny dodge", "Damage reduction"]
-replaces_features = ["uncanny-dodge", "trap-sense", "improved-uncanny-dodge", "damage-reduction"]
+trades = [
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Damage reduction", feature = "damage-reduction" },
+]
 +++
 
 There are no rules in the wild. Some barbarians enter combat with only victory in mind and do

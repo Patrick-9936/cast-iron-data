@@ -16,8 +16,13 @@ page = "101"
 
 [fields]
 kind = "archetype"
-replaces = ["Spontaneous casting", "Woodland stride", "trackless step", "Resist nature's lure", "Venom immunity"]
-replaces_features = ["spontaneous-casting", "woodland-stride", "trackless-step", "resist-nature-s-lure", "venom-immunity"]
+trades = [
+  { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+]
 +++
 
 While many druids keep to the wilderness, some make their way within settlements, communing with the

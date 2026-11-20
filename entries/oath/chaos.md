@@ -13,8 +13,11 @@ page = "15"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Detect evil", "Smite evil", "Channel positive energy"]
-replaces_features = ["detect-evil", "smite-evil", "channel-positive-energy"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+]
 +++
 
 Despite the seemingly inherent contradiction, the militant [Hellknights](ref/rule/aff-lawknights) of

@@ -16,8 +16,13 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd-level rogue talent", "Trap sense", "Uncanny dodge", "Improved uncanny dodge", "10th-level rogue talent"]
-replaces_features = ["trap-sense", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "2nd-level rogue talent", feature = "rogue-talents", levels = [2] },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "10th-level rogue talent", feature = "rogue-talents", levels = [10] },
+]
 +++
 
 The scroll scoundrel is a rogue archetype that relies on cunning and quick wits to stay alive. He

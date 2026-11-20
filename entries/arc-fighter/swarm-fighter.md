@@ -16,10 +16,16 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus feat a fighter gains at first level", "Bravery", "The bonus combat feats the fighter normally receives at 2nd, 6th, 10th, 14th, and 18th levels", "Weapon training 1", "Weapon training 2", "Weapon training 3 and 4", "Weapon mastery"]
-alters = ["Weapon and armor proficiencies"]
-replaces_features = ["bravery", "weapon-mastery"]
-alters_features = ["weapon-and-armor-proficiencies"]
+trades = [
+  { replaces = "The bonus feat a fighter gains at first level" },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "The bonus combat feats the fighter normally receives at 2nd, 6th, 10th, 14th, and 18th levels" },
+  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
+  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { replaces = "Weapon training 3 and 4" },
+  { replaces = "Weapon mastery", feature = "weapon-mastery" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+]
 +++
 
 Kobolds know there's strength in numbers, and they rarely send fewer than two kobolds out on patrol.

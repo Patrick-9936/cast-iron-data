@@ -19,8 +19,16 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Spell recall", "Knowledge pool", "Medium armor", "Magus arcana gained at 9th level", "Improved spell recall", "Heavy armor", "Greater spell access", "True magus"]
-replaces_features = ["spell-recall", "knowledge-pool", "medium-armor", "improved-spell-recall", "heavy-armor", "greater-spell-access", "true-magus"]
+trades = [
+  { replaces = "Spell recall", feature = "spell-recall" },
+  { replaces = "Knowledge pool", feature = "knowledge-pool" },
+  { replaces = "Medium armor", feature = "medium-armor" },
+  { replaces = "Magus arcana gained at 9th level", feature = "magus-arcana", levels = [9] },
+  { replaces = "Improved spell recall", feature = "improved-spell-recall" },
+  { replaces = "Heavy armor", feature = "heavy-armor" },
+  { replaces = "Greater spell access", feature = "greater-spell-access" },
+  { replaces = "True magus", feature = "true-magus" },
+]
 +++
 
 A kensai spends his life focusing his training and meditation into a rapturous perfection of the use

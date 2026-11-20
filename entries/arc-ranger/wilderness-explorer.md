@@ -16,10 +16,16 @@ page = "74"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Hunter's bond", "Swift tracker", "Quarry", "Improved quarry"]
-alters = ["Favored terrain", "Favored terrain", "Favored terrain"]
-replaces_features = ["wild-empathy", "hunter-s-bond", "swift-tracker", "quarry", "improved-quarry"]
-alters_features = ["favored-terrain", "favored-terrain", "favored-terrain"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "Quarry", feature = "quarry" },
+  { replaces = "Improved quarry", feature = "improved-quarry" },
+  { alters = "Favored terrain", feature = "favored-terrain" },
+  { alters = "Favored terrain" },
+  { alters = "Favored terrain" },
+]
 +++
 
 Wilderness explorers are adept at making peaceful contact with remote societies.

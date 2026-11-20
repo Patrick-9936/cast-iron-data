@@ -16,10 +16,14 @@ page = "91"
 
 [fields]
 kind = "archetype"
-replaces = ["10th-level use of smite good", "Aura of vengeance", "The cruelty gained at 15th level"]
-alters = ["Smite good", "Fiendish boon", "Unholy champion"]
-replaces_features = ["aura-of-vengeance"]
-alters_features = ["smite-good", "fiendish-boon", "unholy-champion"]
+trades = [
+  { replaces = "10th-level use of smite good" },
+  { replaces = "Aura of vengeance", feature = "aura-of-vengeance" },
+  { replaces = "The cruelty gained at 15th level", feature = "cruelty", levels = [15] },
+  { alters = "Smite good", feature = "smite-good" },
+  { alters = "Fiendish boon", feature = "fiendish-boon" },
+  { alters = "Unholy champion", feature = "unholy-champion" },
+]
 +++
 
 Blighted myrmidons carry the seed of rot in their black hearts and sap life from the natural world.

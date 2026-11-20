@@ -16,10 +16,20 @@ page = "54"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "Trapfinding", "trap sense", "Poison resistance", "poison immunity", "Poison lore", "Swift alchemy"]
-alters = ["Alchemy", "investigator talents", "Investigator talents", "Studied combat", "studied strike"]
-replaces_features = ["weapon-and-armor-proficiencies", "trapfinding", "trap-sense", "poison-resistance", "poison-lore", "swift-alchemy"]
-alters_features = ["alchemy", "studied-combat", "studied-strike"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "trap sense", feature = "trap-sense" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity" },
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { alters = "Alchemy", feature = "alchemy" },
+  { alters = "investigator talents", feature = "investigator-talent" },
+  { alters = "Investigator talents" },
+  { alters = "Studied combat", feature = "studied-combat" },
+  { alters = "studied strike", feature = "studied-strike" },
+]
 +++
 
 Gravediggers pursue long buried mysteries, figuratively and literally digging up the truth and

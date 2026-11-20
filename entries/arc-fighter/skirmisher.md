@@ -13,9 +13,15 @@ relations = [
 
 [fields]
 kind = "archetype"
-replaces = ["The fighter's armor proficiency", "2nd level fighter bonus feat", "Bravery", "Armor training", "Armor mastery"]
-alters = ["Class skills", "skill ranks per level"]
-replaces_features = ["bravery", "armor-training", "armor-mastery"]
+trades = [
+  { replaces = "The fighter's armor proficiency" },
+  { replaces = "2nd level fighter bonus feat", feature = "bonus-feats", levels = [2] },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Armor training", feature = "armor-training" },
+  { replaces = "Armor mastery", feature = "armor-mastery" },
+  { alters = "Class skills" },
+  { alters = "skill ranks per level" },
+]
 +++
 
 **Source** Ultimate Wilderness pg. 50, errata

@@ -16,7 +16,11 @@ page = "28"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd-level hex", "8th-level hex", "12th-level hex"]
+trades = [
+  { replaces = "2nd-level hex", feature = "hex", levels = [2] },
+  { replaces = "8th-level hex", feature = "hex", levels = [8] },
+  { replaces = "12th-level hex", feature = "hex", levels = [12] },
+]
 +++
 
 While dimensional occultist witches are not all associated with the Pathfinders, enough of them are

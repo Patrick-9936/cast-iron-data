@@ -16,8 +16,12 @@ page = "64"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "Trap sense +1, +2, +3, +4, +5, and +6", "Uncanny dodge", "Improved uncanny dodge"]
-replaces_features = ["evasion", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Trap sense +1, +2, +3, +4, +5, and +6" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 A filcher steals valuables without their owners even realizing it. Whether cutting purses in the

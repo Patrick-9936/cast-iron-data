@@ -16,8 +16,11 @@ page = "65"
 
 [fields]
 kind = "archetype"
-replaces = ["6th-level mercy", "Aura of justice", "12th-level mercy"]
-replaces_features = ["aura-of-justice"]
+trades = [
+  { replaces = "6th-level mercy", feature = "mercy", levels = [6] },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { replaces = "12th-level mercy", feature = "mercy", levels = [12] },
+]
 +++
 
 In a world of horrors, some holy warriors fight to safeguard the minds and spirits of those exposed

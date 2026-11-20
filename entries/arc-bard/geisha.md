@@ -16,9 +16,10 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge"]
-alters = ["Armor and weapon proficiencies"]
-replaces_features = ["bardic-knowledge"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { alters = "Armor and weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+]
 +++
 
 In some cultures, the professional entertainer is a prestigious role. Specially trained entertainers

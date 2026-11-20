@@ -16,8 +16,12 @@ page = "114"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning Fist", "Abundant step", "Quivering palm", "Tongue of the sun and the moon"]
-replaces_features = ["stunning-fist", "abundant-step", "quivering-palm"]
+trades = [
+  { replaces = "Stunning Fist", feature = "stunning-fist" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { replaces = "Quivering palm", feature = "quivering-palm" },
+  { replaces = "Tongue of the sun and the moon", feature = "tongue-of-the-sun-and-moon" },
+]
 +++
 
 Monks are warriors who hone their bodies into deadly weapons, but some monks eschew violence in

@@ -16,8 +16,11 @@ page = "37"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement", "Trap sense", "Damage reduction"]
-replaces_features = ["fast-movement", "trap-sense", "damage-reduction"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Damage reduction", feature = "damage-reduction" },
+]
 +++
 
 Unused to the light of the sun, cave dwellers use their subterranean expertise to protect their

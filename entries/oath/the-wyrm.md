@@ -13,8 +13,11 @@ page = "62"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Channel positive energy", "Divine bond", "Holy champion"]
-replaces_features = ["channel-positive-energy", "divine-bond", "holy-champion"]
+trades = [
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { replaces = "Holy champion", feature = "holy-champion" },
+]
 +++
 
 Few dragons see the smaller races of the world as their equals - to most, humanoids are either food

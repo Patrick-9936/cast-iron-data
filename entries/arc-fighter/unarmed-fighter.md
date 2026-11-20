@@ -16,10 +16,19 @@ page = "48"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus feat at 1st level", "Bravery", "Armor training 1", "Weapon training 1, 2, 3, and 4", "Armor training 2", "The 8th-level bonus feat", "The 12th-level bonus feat", "Weapon training 3", "Armor training 4", "Armor mastery"]
-alters = ["Weapon mastery"]
-replaces_features = ["bravery", "armor-mastery"]
-alters_features = ["weapon-mastery"]
+trades = [
+  { replaces = "The bonus feat at 1st level", feature = "bonus-feats", levels = [1] },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+  { replaces = "Weapon training 1, 2, 3, and 4" },
+  { replaces = "Armor training 2", feature = "armor-training", power = "2" },
+  { replaces = "The 8th-level bonus feat", feature = "bonus-feats", levels = [8] },
+  { replaces = "The 12th-level bonus feat", feature = "bonus-feats", levels = [12] },
+  { replaces = "Weapon training 3", feature = "weapon-training", power = "3" },
+  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Armor mastery", feature = "armor-mastery" },
+  { alters = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 Not all fighters need weapons to make their mark on the world. The unarmed fighter picks up a weapon

@@ -16,10 +16,14 @@ page = "83"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Shifter aspect", "Defensive instinct", "Chimeric form", "greater chimeric form"]
-alters = ["Wild shape"]
-replaces_features = ["wild-empathy", "shifter-aspect", "defensive-instinct"]
-alters_features = ["wild-shape"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Shifter aspect", feature = "shifter-aspect" },
+  { replaces = "Defensive instinct", feature = "defensive-instinct" },
+  { replaces = "Chimeric form" },
+  { replaces = "greater chimeric form" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Verdant shifters have an affinity for plants rather than animals and gain a plant-like form that

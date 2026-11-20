@@ -16,8 +16,10 @@ page = "28"
 
 [fields]
 kind = "archetype"
-replaces = ["Rage power gained at 3rd level", "Spell kenning"]
-replaces_features = ["spell-kenning"]
+trades = [
+  { replaces = "Rage power gained at 3rd level", feature = "rage-powers", levels = [3] },
+  { replaces = "Spell kenning", feature = "spell-kenning" },
+]
 +++
 
 Warrior bands devoted to [Ragadahn](ref/faith/ragadahn) are often led by a serpent herald, whose

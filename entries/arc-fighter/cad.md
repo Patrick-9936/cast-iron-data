@@ -16,8 +16,17 @@ page = "45"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "Armor training 1", "Weapon training 1, 3, and 4", "Armor training 2", "Weapon training 2", "Armor training 3", "Weapon training 3 and 4", "Armor training 4", "Weapon mastery"]
-replaces_features = ["bravery", "weapon-mastery"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+  { replaces = "Weapon training 1, 3, and 4" },
+  { replaces = "Armor training 2", feature = "armor-training", power = "2" },
+  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
+  { replaces = "Weapon training 3 and 4" },
+  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 In combat, most fighters have some sort of code of honor. Some believe that one should not kick

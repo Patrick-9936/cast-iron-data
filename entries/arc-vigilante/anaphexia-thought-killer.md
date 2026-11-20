@@ -16,7 +16,12 @@ page = "38"
 
 [fields]
 kind = "archetype"
-replaces = ["Social talent gained at 2nd level", "Social talent gained at 6th level", "Vigilante talent gained at 7th level", "Vigilante talent gained at 15th level"]
+trades = [
+  { replaces = "Social talent gained at 2nd level", feature = "social-talent", levels = [2] },
+  { replaces = "Social talent gained at 6th level", feature = "social-talent", levels = [6] },
+  { replaces = "Vigilante talent gained at 7th level", feature = "vigilante-talent", levels = [7] },
+  { replaces = "Vigilante talent gained at 15th level", feature = "vigilante-talent", levels = [15] },
+]
 +++
 
 Anaphexia thought-killers worship [Norgorber's](ref/faith/norgorber) Reaper of Reputation aspect

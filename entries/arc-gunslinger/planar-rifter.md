@@ -16,10 +16,15 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Deadeye deed", "Dead shot deed", "Menacing shot deed", "Death's shot deed", "Nimble", "Gun training"]
-alters = ["Grit"]
-replaces_features = ["nimble", "gun-training"]
-alters_features = ["grit"]
+trades = [
+  { replaces = "Deadeye deed" },
+  { replaces = "Dead shot deed" },
+  { replaces = "Menacing shot deed" },
+  { replaces = "Death's shot deed" },
+  { replaces = "Nimble", feature = "nimble" },
+  { replaces = "Gun training", feature = "gun-training" },
+  { alters = "Grit", feature = "grit" },
+]
 +++
 
 Followers of the daemonic harbinger [Cixyron](ref/faith/cixyron) invented a method of harvesting

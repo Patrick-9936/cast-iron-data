@@ -16,8 +16,11 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison use", "Poison resistance +4", "Poison immunity"]
-replaces_features = ["poison-use"]
+trades = [
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "Poison resistance +4", feature = "poison-resistance", power = "+4" },
+  { replaces = "Poison immunity" },
+]
 +++
 
 An alchemist who studies anatomy and uses this knowledge to heal is a chirurgeon. A chirurgeon has

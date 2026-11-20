@@ -16,10 +16,12 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Spirit", "spirit animal", "hexes gained at 4th and 10th levels"]
-alters = ["Spirit magic"]
-replaces_features = ["spirit", "spirit-animal"]
-alters_features = ["spirit-magic"]
+trades = [
+  { replaces = "Spirit", feature = "spirit" },
+  { replaces = "spirit animal", feature = "spirit-animal" },
+  { replaces = "hexes gained at 4th and 10th levels", feature = "hex", levels = [4, 10] },
+  { alters = "Spirit magic", feature = "spirit-magic" },
+]
 +++
 
 In some regions of Tian Xia, shamans are unusually common, and may have strong ties to dragon gods

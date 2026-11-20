@@ -16,8 +16,10 @@ page = "15"
 
 [fields]
 kind = "archetype"
-alters = ["Spontaneous casting", "Channel energy"]
-alters_features = ["spontaneous-casting", "channel-energy"]
+trades = [
+  { alters = "Spontaneous casting", feature = "spontaneous-casting" },
+  { alters = "Channel energy", feature = "channel-energy" },
+]
 +++
 
 In the Great Beyond, belief is power. Idealist clerics are personifications of this power, each

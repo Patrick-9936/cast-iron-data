@@ -16,9 +16,12 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Well-versed", "Bardic knowledge", "lore master"]
-alters = ["Weapon proficiencies"]
-replaces_features = ["well-versed", "bardic-knowledge", "lore-master"]
+trades = [
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "lore master", feature = "lore-master" },
+  { alters = "Weapon proficiencies" },
+]
 +++
 
 The lotus geisha of Minkai are renowned for their powers of seduction, and tales tell of lotus

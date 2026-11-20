@@ -16,10 +16,15 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus fighter combat feat gained at 1st level", "Bonus feat gained at 2nd level", "Weapon training", "bonus feats gained at 8th, 12th, 16th, and 20th level"]
-alters = ["Weapon and armor proficiency", "Skills", "Armor training"]
-replaces_features = ["weapon-training"]
-alters_features = ["armor-training"]
+trades = [
+  { replaces = "Bonus fighter combat feat gained at 1st level" },
+  { replaces = "Bonus feat gained at 2nd level", feature = "bonus-feats", levels = [2] },
+  { replaces = "Weapon training", feature = "weapon-training" },
+  { replaces = "bonus feats gained at 8th, 12th, 16th, and 20th level", feature = "bonus-feats", levels = [8, 12, 16, 20] },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Skills" },
+  { alters = "Armor training", feature = "armor-training" },
+]
 +++
 
 The child of [Acavna](ref/faith/acavna) and [Amaznen](ref/faith/amaznen) has trained in the nearly

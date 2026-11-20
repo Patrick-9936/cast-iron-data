@@ -13,8 +13,10 @@ page = "11"
 [fields]
 kind = "class_option"
 group = "medium-spirit"
-replaces = ["Arcane surge"]
-alters = ["Archmage arcana"]
+trades = [
+  { replaces = "Arcane surge" },
+  { alters = "Archmage arcana" },
+]
 +++
 
 A powerful genie binder from the Padishah Empire of Kelesh, Sulesh the Great created many famed

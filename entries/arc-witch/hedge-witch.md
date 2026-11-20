@@ -16,7 +16,10 @@ page = "84"
 
 [fields]
 kind = "archetype"
-replaces = ["4th-level hex", "8th-level hex"]
+trades = [
+  { replaces = "4th-level hex", feature = "hex", levels = [4] },
+  { replaces = "8th-level hex", feature = "hex", levels = [8] },
+]
 +++
 
 Among witches, there are those who devote themselves to the care of others and restrict their

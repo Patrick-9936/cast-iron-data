@@ -12,7 +12,11 @@ page = "187"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Devotion", "Multiattack"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Devotion" },
+  { replaces = "Multiattack" },
+]
 +++
 
 Daredevil companions join the fray with graceful leaps or swooping dives, heedless of the danger.

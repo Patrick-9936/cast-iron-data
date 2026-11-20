@@ -16,8 +16,14 @@ page = "53"
 
 [fields]
 kind = "archetype"
-replaces = ["Monster lore", "Detect alignment", "discern lies", "true judgment", "Track", "Exploit weakness"]
-replaces_features = ["monster-lore", "detect-alignment", "discern-lies", "true-judgment", "track", "exploit-weakness"]
+trades = [
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Detect alignment", feature = "detect-alignment" },
+  { replaces = "discern lies", feature = "discern-lies" },
+  { replaces = "true judgment", feature = "true-judgment" },
+  { replaces = "Track", feature = "track" },
+  { replaces = "Exploit weakness", feature = "exploit-weakness" },
+]
 +++
 
 When pursuing justice for their faith, inquisitors sometimes hunt sorcerers, witches, wizards, and

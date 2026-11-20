@@ -16,8 +16,10 @@ page = "118"
 
 [fields]
 kind = "archetype"
-replaces = ["Spells", "Aura of faith"]
-replaces_features = ["spells", "aura-of-faith"]
+trades = [
+  { replaces = "Spells", feature = "spells" },
+  { replaces = "Aura of faith", feature = "aura-of-faith" },
+]
 +++
 
 Some paladins use their gifts to focus on the holy light that shines within their souls. With the

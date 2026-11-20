@@ -16,8 +16,11 @@ page = "97"
 
 [fields]
 kind = "archetype"
-replaces = ["Animal focus", "Second animal focus", "Master hunter"]
-replaces_features = ["animal-focus", "second-animal-focus", "master-hunter"]
+trades = [
+  { replaces = "Animal focus", feature = "animal-focus" },
+  { replaces = "Second animal focus", feature = "second-animal-focus" },
+  { replaces = "Master hunter", feature = "master-hunter" },
+]
 +++
 
 Most hunters are skilled at awakening the primal beasts inside themselves. However, some can instead

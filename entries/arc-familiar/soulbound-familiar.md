@@ -12,7 +12,11 @@ page = "213"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "Speak with animals of its kind", "scry on familiar"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "Speak with animals of its kind" },
+  { replaces = "scry on familiar" },
+]
 +++
 
 Soulbound familiars are born when a master uses the magical principles behind soulbound dolls to

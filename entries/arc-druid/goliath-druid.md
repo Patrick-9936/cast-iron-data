@@ -16,10 +16,13 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature sense", "Resist nature's lure"]
-alters = ["Nature bond", "Wild empathy", "Wild shape"]
-replaces_features = ["nature-sense", "resist-nature-s-lure"]
-alters_features = ["nature-bond", "wild-empathy", "wild-shape"]
+trades = [
+  { replaces = "Nature sense", feature = "nature-sense" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { alters = "Nature bond", feature = "nature-bond" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Goliath druids hone their spiritual and magical connections to nature's largest creatures,

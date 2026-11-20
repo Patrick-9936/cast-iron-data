@@ -16,8 +16,13 @@ page = "48"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Rage power", "Dirge of doom", "song of the fallen", "Master skald"]
-replaces_features = ["bardic-knowledge", "dirge-of-doom", "song-of-the-fallen", "master-skald"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Rage power", feature = "rage-powers" },
+  { replaces = "Dirge of doom", feature = "dirge-of-doom" },
+  { replaces = "song of the fallen", feature = "song-of-the-fallen" },
+  { replaces = "Master skald", feature = "master-skald" },
+]
 +++
 
 The battle scion possesses a unique mixture of courtly grace alongside martial and magical prowess.

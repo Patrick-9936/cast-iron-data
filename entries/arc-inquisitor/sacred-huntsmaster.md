@@ -16,8 +16,15 @@ page = "99"
 
 [fields]
 kind = "archetype"
-replaces = ["Judgment 1/day", "Solo tactics", "Later iterations of the judgment ability", "Second judgment", "Third judgment", "Slayer", "True judgment"]
-replaces_features = ["solo-tactics", "second-judgment", "third-judgment", "slayer", "true-judgment"]
+trades = [
+  { replaces = "Judgment 1/day" },
+  { replaces = "Solo tactics", feature = "solo-tactics" },
+  { replaces = "Later iterations of the judgment ability" },
+  { replaces = "Second judgment", feature = "second-judgment" },
+  { replaces = "Third judgment", feature = "third-judgment" },
+  { replaces = "Slayer", feature = "slayer" },
+  { replaces = "True judgment", feature = "true-judgment" },
+]
 +++
 
 Some inquisitors create a strong bond with an animal companion, and they hunt and punish threats to

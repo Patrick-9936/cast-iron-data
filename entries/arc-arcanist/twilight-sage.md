@@ -16,9 +16,12 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Consume spells", "The arcanist exploit gained at 11th level", "Magical supremacy"]
-alters = ["The arcanist exploit gained at 1st level"]
-replaces_features = ["consume-spells", "magical-supremacy"]
+trades = [
+  { replaces = "Consume spells", feature = "consume-spells" },
+  { replaces = "The arcanist exploit gained at 11th level", feature = "arcanist-exploits", levels = [11] },
+  { replaces = "Magical supremacy", feature = "magical-supremacy" },
+  { alters = "The arcanist exploit gained at 1st level", feature = "arcanist-exploits", levels = [1] },
+]
 +++
 
 The twilight sages of Geb carry out experiments to solve the ultimate puzzle and unlock the secrets

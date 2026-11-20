@@ -16,10 +16,12 @@ page = "37"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor and weapon proficiency", "Wild empathy"]
-alters = ["Favored enemy", "Favored terrain"]
-replaces_features = ["wild-empathy"]
-alters_features = ["favored-enemy", "favored-terrain"]
+trades = [
+  { replaces = "Armor and weapon proficiency", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { alters = "Favored enemy", feature = "favored-enemy" },
+  { alters = "Favored terrain", feature = "favored-terrain" },
+]
 +++
 
 The forested country of Nirmathas is known for its rangers - skilled trackers, marksmen, and silent

@@ -16,10 +16,15 @@ page = "61"
 
 [fields]
 kind = "archetype"
-replaces = ["Consummate liar", "Mental potency", "manifold tricks", "7th-level bold stare", "Glib lie"]
-alters = ["Mesmerist tricks", "Touch treatment"]
-replaces_features = ["consummate-liar", "mental-potency", "manifold-tricks", "glib-lie"]
-alters_features = ["mesmerist-tricks", "touch-treatment"]
+trades = [
+  { replaces = "Consummate liar", feature = "consummate-liar" },
+  { replaces = "Mental potency", feature = "mental-potency" },
+  { replaces = "manifold tricks", feature = "manifold-tricks" },
+  { replaces = "7th-level bold stare", feature = "bold-stare", levels = [7] },
+  { replaces = "Glib lie", feature = "glib-lie" },
+  { alters = "Mesmerist tricks", feature = "mesmerist-tricks" },
+  { alters = "Touch treatment", feature = "touch-treatment" },
+]
 +++
 
 Hate-mongers are xenophobic and judgmental rabblerousers who whip up mobs against enemies real or

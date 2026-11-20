@@ -12,7 +12,10 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "Deliver touch spells"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "Deliver touch spells" },
+]
 +++
 
 Some familiars are messengers of greater powers than themselves. The witch's familiar comes from her

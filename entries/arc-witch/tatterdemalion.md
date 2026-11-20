@@ -16,9 +16,13 @@ page = "73"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level hex", "4th-, 8th-, 12th-, and 16th-level hexes"]
-alters = ["Weapon proficiencies", "Cantrips", "Spells"]
-alters_features = ["cantrips", "spells"]
+trades = [
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+  { replaces = "4th-, 8th-, 12th-, and 16th-level hexes", feature = "hex", levels = [4, 8, 12, 16] },
+  { alters = "Weapon proficiencies" },
+  { alters = "Cantrips", feature = "cantrips" },
+  { alters = "Spells", feature = "spells" },
+]
 +++
 
 Some witches can bend the warp and weft of fabric and thread.

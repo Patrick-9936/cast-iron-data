@@ -16,9 +16,11 @@ page = "49"
 
 [fields]
 kind = "archetype"
-replaces = ["The discovery at 2nd level"]
-alters = ["Alchemy", "Bombs"]
-alters_features = ["alchemy"]
+trades = [
+  { replaces = "The discovery at 2nd level", feature = "discovery", levels = [2] },
+  { alters = "Alchemy", feature = "alchemy" },
+  { alters = "Bombs", feature = "bomb" },
+]
 +++
 
 The principles of alchemy work equally well underwater and on land, but mixing solutions and keeping

@@ -16,7 +16,10 @@ page = "76"
 
 [fields]
 kind = "archetype"
-replaces = ["The arcanist exploits gained at 1st and 9th levels", "The arcanist exploit gained at 3rd level"]
+trades = [
+  { replaces = "The arcanist exploits gained at 1st and 9th levels", feature = "arcanist-exploits", levels = [1, 9] },
+  { replaces = "The arcanist exploit gained at 3rd level", feature = "arcanist-exploits", levels = [3] },
+]
 +++
 
 A small number of arcanists learn to use blades as part of their spellcasting and in combat. While

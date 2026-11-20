@@ -16,10 +16,15 @@ page = "114"
 
 [fields]
 kind = "archetype"
-replaces = ["Uncanny dodge", "improved uncanny dodge", "the 2nd- and 8th-level rage powers", "Greater rage", "The 14th-level rage power", "Mighty rage"]
-alters = ["Rage"]
-replaces_features = ["uncanny-dodge", "improved-uncanny-dodge", "greater-rage", "mighty-rage"]
-alters_features = ["rage"]
+trades = [
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "the 2nd- and 8th-level rage powers", feature = "rage-powers", levels = [2, 8] },
+  { replaces = "Greater rage", feature = "greater-rage" },
+  { replaces = "The 14th-level rage power", feature = "rage-powers", levels = [14] },
+  { replaces = "Mighty rage", feature = "mighty-rage" },
+  { alters = "Rage", feature = "rage" },
+]
 +++
 
 A flesheater eats flesh to create a spiritual bond between herself and the consumed creature,

@@ -16,7 +16,11 @@ page = "92"
 
 [fields]
 kind = "archetype"
-replaces = ["Familiar", "1st-level hex", "10th-level major hex"]
+trades = [
+  { replaces = "Familiar" },
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+  { replaces = "10th-level major hex", feature = "major-hex", levels = [10] },
+]
 +++
 
 These strange and often solitary witches have a strong connection to curses, the evil eye, and

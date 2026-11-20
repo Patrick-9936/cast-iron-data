@@ -19,10 +19,13 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Stern gaze", "Monster lore", "Discern lies", "Stalwart"]
-alters = ["Domain"]
-replaces_features = ["stern-gaze", "monster-lore", "discern-lies", "stalwart"]
-alters_features = ["domain"]
+trades = [
+  { replaces = "Stern gaze", feature = "stern-gaze" },
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Discern lies", feature = "discern-lies" },
+  { replaces = "Stalwart", feature = "stalwart" },
+  { alters = "Domain", feature = "domain" },
+]
 +++
 
 The [Green Faith](ref/faith/green-faith) marshal serves as a literal force of nature, hunting down

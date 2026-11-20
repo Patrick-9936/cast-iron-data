@@ -16,8 +16,14 @@ page = "99"
 
 [fields]
 kind = "archetype"
-replaces = ["Judgment 1/day", "Later iterations of the judgment ability", "Second judgment", "third judgment", "slayer", "true judgment"]
-replaces_features = ["second-judgment", "third-judgment", "slayer", "true-judgment"]
+trades = [
+  { replaces = "Judgment 1/day" },
+  { replaces = "Later iterations of the judgment ability" },
+  { replaces = "Second judgment", feature = "second-judgment" },
+  { replaces = "third judgment", feature = "third-judgment" },
+  { replaces = "slayer", feature = "slayer" },
+  { replaces = "true judgment", feature = "true-judgment" },
+]
 +++
 
 While all inquisitors root out enemies of the faith, in many orders and churches there's a select

@@ -16,8 +16,13 @@ page = "85"
 
 [fields]
 kind = "archetype"
-replaces = ["The bloodrager's armor proficiency", "Fast movement", "Uncanny dodge", "Improved uncanny dodge", "Damage reduction"]
-replaces_features = ["fast-movement", "uncanny-dodge", "improved-uncanny-dodge", "damage-reduction"]
+trades = [
+  { replaces = "The bloodrager's armor proficiency" },
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Damage reduction", feature = "damage-reduction" },
+]
 +++
 
 Most bloodragers prefer light armor, but some learn the secret of using heavy armors. These

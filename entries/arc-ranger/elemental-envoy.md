@@ -16,8 +16,10 @@ page = "5"
 
 [fields]
 kind = "archetype"
-alters = ["Combat style feats", "Favored terrain"]
-alters_features = ["favored-terrain"]
+trades = [
+  { alters = "Combat style feats", feature = "combat-style-feat" },
+  { alters = "Favored terrain", feature = "favored-terrain" },
+]
 +++
 
 An elemental envoy travels the Elemental Planes. He has learned to protect himself from their many

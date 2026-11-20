@@ -16,10 +16,13 @@ page = "48"
 
 [fields]
 kind = "archetype"
-replaces = ["Spontaneous casting", "Increases to channel energy gained at 5th, 11th, and 19th levels"]
-alters = ["Alignment", "Domains", "Channel energy"]
-replaces_features = ["spontaneous-casting"]
-alters_features = ["domains", "channel-energy"]
+trades = [
+  { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
+  { replaces = "Increases to channel energy gained at 5th, 11th, and 19th levels" },
+  { alters = "Alignment" },
+  { alters = "Domains", feature = "domains" },
+  { alters = "Channel energy", feature = "channel-energy" },
+]
 +++
 
 Typically grasping, secretive, and thoroughly mad, Elder Mythos cultists open their bodies and minds

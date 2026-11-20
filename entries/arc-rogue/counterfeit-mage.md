@@ -16,8 +16,10 @@ page = "109"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Rogue talent gained at 4th level"]
-replaces_features = ["trapfinding"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Rogue talent gained at 4th level", feature = "rogue-talents", levels = [4] },
+]
 +++
 
 Charlatans and stage magicians use sleight of hand to fake magic. A counterfeit mage goes a step

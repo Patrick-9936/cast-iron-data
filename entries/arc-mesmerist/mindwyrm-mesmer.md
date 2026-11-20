@@ -16,8 +16,10 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Consummate liar", "Painful stare"]
-replaces_features = ["consummate-liar", "painful-stare"]
+trades = [
+  { replaces = "Consummate liar", feature = "consummate-liar" },
+  { replaces = "Painful stare", feature = "painful-stare" },
+]
 +++
 
 While most mesmerists are subtle and manipulative schemers, mindwyrm mesmers emulate the confidence,

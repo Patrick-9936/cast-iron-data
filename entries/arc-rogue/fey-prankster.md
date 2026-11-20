@@ -16,8 +16,15 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Rogue talent gained at 2nd level", "Uncanny dodge", "improved uncanny dodge", "Rogue talent gained at 6th level", "Rogue talent gained at 8th level", "Rogue talent gained at 12th level"]
-replaces_features = ["trapfinding", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Rogue talent gained at 2nd level", feature = "rogue-talents", levels = [2] },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Rogue talent gained at 6th level", feature = "rogue-talents", levels = [6] },
+  { replaces = "Rogue talent gained at 8th level", feature = "rogue-talents", levels = [8] },
+  { replaces = "Rogue talent gained at 12th level", feature = "rogue-talents", levels = [12] },
+]
 +++
 
 Fey pranksters specialize in tricking others to teach a lesson or for their own entertainment.

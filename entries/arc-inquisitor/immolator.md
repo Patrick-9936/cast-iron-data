@@ -16,10 +16,12 @@ page = "128"
 
 [fields]
 kind = "archetype"
-replaces = ["Smiting judgment", "Bane", "greater bane"]
-alters = ["True judgment"]
-replaces_features = ["bane", "greater-bane"]
-alters_features = ["true-judgment"]
+trades = [
+  { replaces = "Smiting judgment" },
+  { replaces = "Bane", feature = "bane" },
+  { replaces = "greater bane", feature = "greater-bane" },
+  { alters = "True judgment", feature = "true-judgment" },
+]
 +++
 
 The immolator puts her pyromaniacal urges to work in the service of a deity. She brings burning

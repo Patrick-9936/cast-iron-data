@@ -16,8 +16,10 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Monster lore", "Stalwart"]
-replaces_features = ["monster-lore", "stalwart"]
+trades = [
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Stalwart", feature = "stalwart" },
+]
 +++
 
 Masters of secretly gathering information to further their faith's ends, urban infiltrators excel at

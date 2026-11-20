@@ -16,9 +16,13 @@ page = "111"
 
 [fields]
 kind = "archetype"
-replaces = ["Shared consciousness", "fused consciousness", "Spiritual interference", "greater spiritual interference"]
-alters = ["Spellcasting"]
-replaces_features = ["shared-consciousness", "fused-consciousness", "spiritual-interference", "greater-spiritual-interference"]
+trades = [
+  { replaces = "Shared consciousness", feature = "shared-consciousness" },
+  { replaces = "fused consciousness", feature = "fused-consciousness" },
+  { replaces = "Spiritual interference", feature = "spiritual-interference" },
+  { replaces = "greater spiritual interference", feature = "greater-spiritual-interference" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Though most spiritualists are chosen by their phantoms, others deliberately call phantoms to them

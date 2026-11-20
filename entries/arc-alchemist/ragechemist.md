@@ -16,8 +16,11 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison use", "Swift poisoning", "Poison immunity"]
-replaces_features = ["poison-use", "swift-poisoning"]
+trades = [
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "Swift poisoning", feature = "swift-poisoning" },
+  { replaces = "Poison immunity" },
+]
 +++
 
 Some alchemists create mutagens that tap into a primal anger that fuels their physical

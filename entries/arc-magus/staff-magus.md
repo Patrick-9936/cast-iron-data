@@ -16,8 +16,12 @@ page = "49"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "Medium armor", "heavy armor", "Fighter training"]
-replaces_features = ["weapon-and-armor-proficiencies", "medium-armor", "heavy-armor", "fighter-training"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Medium armor", feature = "medium-armor" },
+  { replaces = "heavy armor", feature = "heavy-armor" },
+  { replaces = "Fighter training", feature = "fighter-training" },
+]
 +++
 
 While most magi use a one-handed weapon as their melee implement of choice, one group of magi uses

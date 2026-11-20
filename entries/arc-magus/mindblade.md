@@ -16,8 +16,18 @@ page = "121"
 
 [fields]
 kind = "archetype"
-replaces = ["Spellcasting", "Arcane pool", "Spell recall", "knowledge pool", "improved spell recall", "greater spell combat", "greater spell access", "Medium armor", "Improved spell combat", "Heavy armor"]
-replaces_features = ["arcane-pool", "spell-recall", "knowledge-pool", "improved-spell-recall", "greater-spell-combat", "greater-spell-access", "medium-armor", "improved-spell-combat", "heavy-armor"]
+trades = [
+  { replaces = "Spellcasting" },
+  { replaces = "Arcane pool", feature = "arcane-pool" },
+  { replaces = "Spell recall", feature = "spell-recall" },
+  { replaces = "knowledge pool", feature = "knowledge-pool" },
+  { replaces = "improved spell recall", feature = "improved-spell-recall" },
+  { replaces = "greater spell combat", feature = "greater-spell-combat" },
+  { replaces = "greater spell access", feature = "greater-spell-access" },
+  { replaces = "Medium armor", feature = "medium-armor" },
+  { replaces = "Improved spell combat", feature = "improved-spell-combat" },
+  { replaces = "Heavy armor", feature = "heavy-armor" },
+]
 +++
 
 A mindblade blends psychic talent and martial skill to lethal effect. By forming weapons with her

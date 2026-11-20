@@ -16,8 +16,9 @@ page = "40"
 
 [fields]
 kind = "archetype"
-replaces = ["Channel energy"]
-replaces_features = ["channel-energy"]
+trades = [
+  { replaces = "Channel energy", feature = "channel-energy" },
+]
 +++
 
 The divine strategist leads the armies of the faithful, not from the front lines but through her

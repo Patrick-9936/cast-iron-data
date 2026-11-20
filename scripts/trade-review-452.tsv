@@ -1,0 +1,1367 @@
+id	kind	trade	op	printed	reason	candidates	unclaimed_old_anchors	disposition	decision	publication	page
+ref/arc-alchemist/alchemical-sapper	archetype	5	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/beastmorph	archetype	3	replaces	Poison resistance +2, +4, and +6	unusable-qualifier			open			
+ref/arc-alchemist/beastmorph	archetype	4	replaces	poison immunity	no-heading			open			
+ref/arc-alchemist/blightseeker	archetype	6	alters	Bombs	duplicate-feature	bomb		open			
+ref/arc-alchemist/chirurgeon	archetype	3	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/clone-master	archetype	3	replaces	poison immunity	no-heading			open			
+ref/arc-alchemist/dimensional-excavator	archetype	3	alters	Discovery	duplicate-feature	discovery		open			
+ref/arc-alchemist/ectochymist	archetype	6	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/energist	archetype	1	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/energy-scientist	archetype	3	replaces	poison immunity	no-heading			open			
+ref/arc-alchemist/fire-bomber	archetype	3	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/first-world-innovator	archetype	4	replaces	poison immunity	no-heading			open			
+ref/arc-alchemist/grenadier	archetype	5	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/grenadier-mc	archetype	5	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/herbalist	archetype	5	replaces	poison immunity	no-heading			open			
+ref/arc-alchemist/herbalist	archetype	7	alters	the alchemist's key ability score	no-heading			open			
+ref/arc-alchemist/horticulturist	archetype	1	replaces	Mutagen, 2nd-level discovery	no-heading		mutagen	open			
+ref/arc-alchemist/horticulturist	archetype	4	replaces	poison immunity	no-heading		mutagen	open			
+ref/arc-alchemist/ice-chemist	archetype	2	replaces	poison immunity	no-heading			open			
+ref/arc-alchemist/oozemaster	archetype	3	replaces	poison immunity	no-heading			open			
+ref/arc-alchemist/plague-bringer	archetype	3	replaces	poison immunity	no-heading			open			
+ref/arc-alchemist/preservationist	archetype	4	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/psychonaut	archetype	4	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/psychonaut	archetype	5	replaces	15th-level bomb damage increase	no-heading			open			
+ref/arc-alchemist/psychonaut	archetype	6	replaces	17th-level bomb damage increase	no-heading			open			
+ref/arc-alchemist/ragechemist	archetype	3	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/reanimator	archetype	1	replaces	7th-level bomb damage increase	no-heading			open			
+ref/arc-alchemist/reanimator	archetype	2	replaces	13th-level bomb damage increase	no-heading			open			
+ref/arc-alchemist/reanimator	archetype	3	replaces	15th-level bomb damage increase	no-heading			open			
+ref/arc-alchemist/tinkerer	archetype	7	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/trap-breaker	archetype	6	replaces	Poison immunity	no-heading			open			
+ref/arc-alchemist/vaultbreaker	archetype	6	alters	Bombs	duplicate-feature	bomb		open			
+ref/arc-antipaladin/blighted-myrmidon	archetype	1	replaces	10th-level use of smite good	no-heading			open			
+ref/arc-antipaladin/knight-of-the-sepulcher	archetype	3	replaces	The smite good use gained at 10th level	no-heading			open			
+ref/arc-antipaladin/tyrant	archetype	1	alters	Code of conduct and associated abilities	no-heading			open			
+ref/arc-arcanist/aeromancer	archetype	1	replaces	The arcane exploit gained at 1st level	no-heading			open			
+ref/arc-arcanist/aeromancer	archetype	2	replaces	The arcane exploit gained at 5th level	no-heading			open			
+ref/arc-arcanist/aeromancer	archetype	3	replaces	The arcane exploit gained at 11th level	no-heading			open			
+ref/arc-barbarian/geminate-invoker	archetype	3	alters	The barbarian's class skills	no-heading			open			
+ref/arc-barbarian/geminate-invoker	archetype	4	alters	alignment	no-heading			open			
+ref/arc-barbarian/wildborn	archetype	2	alters	The barbarian's normal weapon and armor proficiencies	no-heading			open			
+ref/arc-bard/animal-speaker	archetype	1	replaces	Fascinate	no-heading			open			
+ref/arc-bard/animal-speaker	archetype	3	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/animal-speaker	archetype	4	replaces	Suggestion	no-heading			open			
+ref/arc-bard/animal-speaker	archetype	5	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/arcane-duelist	archetype	2	replaces	Countersong	no-heading			open			
+ref/arc-bard/arcane-duelist	archetype	3	replaces	Suggestion	no-heading			open			
+ref/arc-bard/arcane-duelist	archetype	4	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/arcane-healer	archetype	2	replaces	Loremaster	no-heading			open			
+ref/arc-bard/archivist	archetype	1	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/archivist	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/archivist	archetype	3	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/argent-voice	archetype	1	replaces	Fascinate	no-heading			open			
+ref/arc-bard/argent-voice	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/argent-voice	archetype	3	replaces	mass suggestion	no-heading			open			
+ref/arc-bard/argent-voice	archetype	4	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/argent-voice	archetype	5	replaces	frightening tune	no-heading			open			
+ref/arc-bard/arrowsong-minstrel	archetype	2	replaces	dirge of doom	no-heading			open			
+ref/arc-bard/arrowsong-minstrel	archetype	3	replaces	distraction	no-heading			open			
+ref/arc-bard/arrowsong-minstrel	archetype	4	replaces	fascinate	no-heading			open			
+ref/arc-bard/arrowsong-minstrel	archetype	5	replaces	inspire competence	no-heading			open			
+ref/arc-bard/arrowsong-minstrel	archetype	7	replaces	soothing performance	no-heading			open			
+ref/arc-bard/arrowsong-minstrel	archetype	10	replaces	Suggestion	no-heading			open			
+ref/arc-bard/arrowsong-minstrel	archetype	11	replaces	mass suggestion	no-heading			open			
+ref/arc-bard/arrowsong-minstrel	archetype	12	alters	Weapon proficiencies	no-heading			open			
+ref/arc-bard/arrowsong-minstrel	archetype	13	alters	Spellcasting	no-heading			open			
+ref/arc-bard/averaka-arbiter	archetype	1	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/averaka-arbiter	archetype	2	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/brazen-deceiver	archetype	1	replaces	Countersong	no-heading			open			
+ref/arc-bard/brazen-deceiver	archetype	2	replaces	distraction	no-heading			open			
+ref/arc-bard/buccaneer	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/buccaneer	archetype	4	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/celebrity	archetype	1	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/celebrity	archetype	3	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/chelish-diva	archetype	4	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/chelish-diva	archetype	5	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/chronicler-of-worlds	archetype	1	replaces	Inspire greatness	no-heading			open			
+ref/arc-bard/chronicler-of-worlds	archetype	2	replaces	Inspire heroics	no-heading			open			
+ref/arc-bard/court-bard	archetype	1	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/court-bard	archetype	2	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/court-bard	archetype	3	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/court-bard	archetype	4	replaces	Frightening tune	no-heading			open			
+ref/arc-bard/court-fool	archetype	2	replaces	Countersong	no-heading			open			
+ref/arc-bard/court-fool	archetype	3	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/cultivator	archetype	2	replaces	Countersong	no-heading			open			
+ref/arc-bard/daredevil	archetype	2	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/dawnflower-dervish	archetype	1	replaces	Proficiency with the rapier and whip	no-heading			open			
+ref/arc-bard/dawnflower-dervish	archetype	4	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/demagogue	archetype	1	replaces	Inspire courage +1	no-heading			open			
+ref/arc-bard/demagogue	archetype	3	replaces	Suggestion	no-heading			open			
+ref/arc-bard/demagogue	archetype	4	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/dervish-dancer	archetype	1	replaces	Proficiency with the rapier and whip	no-heading			open			
+ref/arc-bard/dervish-dancer	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/dervish-dancer	archetype	3	replaces	mass suggestion	no-heading			open			
+ref/arc-bard/dervish-dancer	archetype	4	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/dervish-dancer	archetype	5	replaces	Frightening performance	no-heading			open			
+ref/arc-bard/dervish-dancer	archetype	9	replaces	Soothing performance	no-heading			open			
+ref/arc-bard/dervish-dancer	archetype	10	replaces	Deadly performance	no-heading			open			
+ref/arc-bard/detective	archetype	1	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/detective	archetype	2	replaces	Inspire greatness	no-heading			open			
+ref/arc-bard/detective	archetype	3	replaces	Inspire heroics	no-heading			open			
+ref/arc-bard/disciple-of-the-forked-tongue	archetype	1	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/disciple-of-the-forked-tongue	archetype	2	replaces	Inspire greatness	no-heading			open			
+ref/arc-bard/dragon-herald	archetype	2	replaces	Countersong	no-heading			open			
+ref/arc-bard/dragon-herald	archetype	3	replaces	fascinate	no-heading			open			
+ref/arc-bard/dragon-herald	archetype	4	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/dragon-herald	archetype	5	replaces	Soothing performance	no-heading			open			
+ref/arc-bard/dragon-herald	archetype	6	replaces	Inspire heroics	no-heading			open			
+ref/arc-bard/dragon-yapper	archetype	1	replaces	Fascinate	no-heading			open			
+ref/arc-bard/dragon-yapper	archetype	2	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/duettist	archetype	3	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/duettist	archetype	4	replaces	Frightening tune	no-heading			open			
+ref/arc-bard/dwarven-scholar	archetype	2	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/dwarven-scholar	archetype	3	replaces	suggestion	no-heading			open			
+ref/arc-bard/fey-courtier	archetype	1	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/fey-courtier	archetype	2	replaces	frightening tune	no-heading			open			
+ref/arc-bard/fey-courtier	archetype	3	replaces	Inspire heroics	no-heading			open			
+ref/arc-bard/fey-courtier	archetype	5	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/fey-prankster	archetype	2	replaces	Countersong	no-heading			open			
+ref/arc-bard/fey-prankster	archetype	3	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/fey-prankster	archetype	4	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/filidh	archetype	1	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/filidh	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/filidh	archetype	3	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/filidh	archetype	4	replaces	Inspire heroics	no-heading			open			
+ref/arc-bard/filidh	archetype	5	replaces	Deadly performance	no-heading			open			
+ref/arc-bard/filidh	archetype	7	alters	Spellcasting	no-heading			open			
+ref/arc-bard/first-world-minstrel	archetype	2	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/first-world-minstrel	archetype	3	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/first-world-minstrel	archetype	5	alters	Spell list	no-heading			open			
+ref/arc-bard/flame-dancer	archetype	1	replaces	Countersong	no-heading			open			
+ref/arc-bard/flame-dancer	archetype	2	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/flame-dancer	archetype	3	replaces	Suggestion	no-heading			open			
+ref/arc-bard/flame-dancer	archetype	4	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/flamesinger	archetype	3	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/fortune-teller	archetype	1	replaces	Countersong	no-heading			open			
+ref/arc-bard/fortune-teller	archetype	2	replaces	distraction	no-heading			open			
+ref/arc-bard/fortune-teller	archetype	4	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/fortune-teller	archetype	5	alters	Spell list	no-heading			open			
+ref/arc-bard/hatharat-agent	archetype	3	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/hoaxer	archetype	2	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/hoaxer	archetype	3	replaces	inspire competence	no-heading			open			
+ref/arc-bard/hoaxer	archetype	4	replaces	and inspire greatness	no-heading			open			
+ref/arc-bard/hoaxer	archetype	5	replaces	Countersong	no-heading			open			
+ref/arc-bard/hoaxer	archetype	6	replaces	Distraction	no-heading			open			
+ref/arc-bard/hoaxer	archetype	7	replaces	Inspire greatness	no-heading			open			
+ref/arc-bard/impervious-messenger	archetype	1	replaces	Fascinate	no-heading			open			
+ref/arc-bard/impervious-messenger	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/impervious-messenger	archetype	3	replaces	mass suggestion	no-heading			open			
+ref/arc-bard/impervious-messenger	archetype	4	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/impervious-messenger	archetype	5	replaces	frightening tune	no-heading			open			
+ref/arc-bard/juggler	archetype	5	replaces	soothing performance	no-heading			open			
+ref/arc-bard/lotus-geisha	archetype	4	alters	Weapon proficiencies	no-heading			open			
+ref/arc-bard/luring-piper	archetype	2	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/luring-piper	archetype	3	replaces	Soothing performance	no-heading			open			
+ref/arc-bard/luring-piper	archetype	6	alters	Fascinate	no-heading			open			
+ref/arc-bard/magician	archetype	1	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/magician	archetype	2	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/magician	archetype	3	replaces	Frightening tune	no-heading			open			
+ref/arc-bard/magician	archetype	5	replaces	Countersong	no-heading			open			
+ref/arc-bard/masked-performer	archetype	2	replaces	Countersong	no-heading			open			
+ref/arc-bard/masked-performer	archetype	3	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/masked-performer	archetype	4	replaces	Suggestion	no-heading			open			
+ref/arc-bard/masked-performer	archetype	5	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/mute-musician	archetype	2	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/mute-musician	archetype	3	replaces	Frightening tune	no-heading			open			
+ref/arc-bard/mute-musician	archetype	4	replaces	Inspire heroics	no-heading			open			
+ref/arc-bard/mute-musician	archetype	5	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/negotiator	archetype	2	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/negotiator	archetype	3	replaces	Inspire greatness	no-heading			open			
+ref/arc-bard/phrenologist	archetype	4	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/phrenologist	archetype	5	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/phrenologist	archetype	6	alters	Fascinate	no-heading			open			
+ref/arc-bard/plant-speaker	archetype	1	replaces	Inspire greatness	no-heading			open			
+ref/arc-bard/prankster	archetype	1	replaces	Fascinate	no-heading			open			
+ref/arc-bard/prankster	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/prankster	archetype	3	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/provocateur	archetype	3	replaces	Suggestion	no-heading			open			
+ref/arc-bard/provocateur	archetype	4	replaces	mass suggestion	no-heading			open			
+ref/arc-bard/ringleader-ag	archetype	3	replaces	Suggestion	no-heading			open			
+ref/arc-bard/ringleader-ag	archetype	4	replaces	mass suggestion	no-heading			open			
+ref/arc-bard/ringleader-ag	archetype	5	replaces	soothing performance	no-heading			open			
+ref/arc-bard/ringleader-ui	archetype	1	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/ringleader-ui	archetype	2	replaces	frightening tune	no-heading			open			
+ref/arc-bard/ringleader-ui	archetype	6	alters	Inspire competence	no-heading			open			
+ref/arc-bard/sandman	archetype	1	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/sandman	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/sandman	archetype	3	replaces	Inspire greatness	no-heading			open			
+ref/arc-bard/sandman	archetype	4	replaces	Inspire heroics	no-heading			open			
+ref/arc-bard/sandman	archetype	5	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/sandman	archetype	6	replaces	Deadly performance	no-heading			open			
+ref/arc-bard/sandman	archetype	9	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/savage-skald	archetype	1	replaces	Fascinate	no-heading			open			
+ref/arc-bard/savage-skald	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/savage-skald	archetype	4	replaces	Soothing performance	no-heading			open			
+ref/arc-bard/savage-skald	archetype	5	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/sea-singer	archetype	1	replaces	Countersong	no-heading			open			
+ref/arc-bard/sea-singer	archetype	2	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/sea-singer	archetype	3	replaces	Suggestion	no-heading			open			
+ref/arc-bard/sea-singer	archetype	4	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/shadow-puppeteer	archetype	1	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/shadow-puppeteer	archetype	2	replaces	inspire competence	no-heading			open			
+ref/arc-bard/silver-balladeer	archetype	1	replaces	Suggestion	no-heading			open			
+ref/arc-bard/silver-balladeer	archetype	2	replaces	Inspire greatness	no-heading			open			
+ref/arc-bard/silver-balladeer	archetype	3	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/solacer	archetype	3	replaces	Countersong	no-heading			open			
+ref/arc-bard/songhealer	archetype	2	replaces	Frightening tune	no-heading			open			
+ref/arc-bard/songhealer	archetype	3	replaces	Deadly performance	no-heading			open			
+ref/arc-bard/sorrowsoul	archetype	1	replaces	Soothing performance	no-heading			open			
+ref/arc-bard/sound-striker	archetype	1	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/sound-striker	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/speaker-of-the-palatine-eye	archetype	1	replaces	Countersong	no-heading			open			
+ref/arc-bard/speaker-of-the-palatine-eye	archetype	3	alters	The bard's class skills	no-heading			open			
+ref/arc-bard/stonesinger	archetype	1	replaces	Countersong	no-heading			open			
+ref/arc-bard/stonesinger	archetype	2	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/stonesinger	archetype	3	alters	Spellcasting	no-heading			open			
+ref/arc-bard/street-performer	archetype	1	replaces	Inspire courage	no-heading			open			
+ref/arc-bard/street-performer	archetype	2	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/street-performer	archetype	3	replaces	Inspire greatness	no-heading			open			
+ref/arc-bard/street-performer	archetype	4	replaces	Inspire heroics	no-heading			open			
+ref/arc-bard/street-performer	archetype	5	replaces	Countersong	no-heading			open			
+ref/arc-bard/studious-librarian	archetype	1	replaces	Distraction	no-heading			open			
+ref/arc-bard/studious-librarian	archetype	2	replaces	Suggestion	no-heading			open			
+ref/arc-bard/studious-librarian	archetype	4	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/studious-librarian	archetype	5	replaces	Mass suggestion	no-heading			open			
+ref/arc-bard/studious-librarian	archetype	6	replaces	Deadly performance	no-heading			open			
+ref/arc-bard/thundercaller	archetype	2	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/thundercaller	archetype	3	replaces	Suggestion	no-heading			open			
+ref/arc-bard/thundercaller	archetype	4	replaces	mass suggestion	no-heading			open			
+ref/arc-bard/thundercaller	archetype	5	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/thundercaller	archetype	6	replaces	Frightening tune	no-heading			open			
+ref/arc-bard/voice-of-brigh	archetype	1	replaces	Fascinate	no-heading			open			
+ref/arc-bard/voice-of-brigh	archetype	2	replaces	Dirge of doom	no-heading			open			
+ref/arc-bard/voice-of-brigh	archetype	3	replaces	Soothing performance	no-heading			open			
+ref/arc-bard/voice-of-brigh	archetype	4	replaces	Frightening tune	no-heading			open			
+ref/arc-bard/voice-of-the-wild	archetype	2	replaces	Countersong	no-heading			open			
+ref/arc-bard/voice-of-the-wild	archetype	5	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/voice-of-the-wild	archetype	6	replaces	dirge of doom	no-heading			open			
+ref/arc-bard/voice-of-the-wild	archetype	7	replaces	inspire heroics	no-heading			open			
+ref/arc-bard/wasteland-chronicler	archetype	2	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/watersinger	archetype	1	replaces	Fascinate	no-heading			open			
+ref/arc-bard/watersinger	archetype	2	replaces	suggestion	no-heading			open			
+ref/arc-bard/watersinger	archetype	3	replaces	mass suggestion	no-heading			open			
+ref/arc-bard/watersinger	archetype	4	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/watersinger	archetype	5	replaces	The use of lore master gained at 5th level	no-heading			open			
+ref/arc-bard/wit	archetype	2	replaces	Inspire competence	no-heading			open			
+ref/arc-bard/wit	archetype	3	replaces	dirge of doom	no-heading			open			
+ref/arc-bard/wit	archetype	4	replaces	frightening tune	no-heading			open			
+ref/arc-bard/wit	archetype	8	alters	Countersong	no-heading			open			
+ref/arc-bloodrager/ancestral-harbinger	archetype	2	replaces	bloodline feats gained at 6th and 18th levels	no-heading			open			
+ref/arc-bloodrager/ancestral-harbinger	archetype	4	replaces	the bloodline feat gained at 12th level	no-heading			open			
+ref/arc-bloodrager/blood-conduit	archetype	5	alters	Bloodline feats	no-heading			open			
+ref/arc-bloodrager/bloodline-familiars	archetype	1	replaces	The 1st-level bloodline power	no-heading			open			
+ref/arc-bloodrager/bloodrider	archetype	4	replaces	The bloodline feat gained at 9th level	no-heading			open			
+ref/arc-bloodrager/bloody-knuckled-rowdy	archetype	4	alters	Spellcasting	no-heading			open			
+ref/arc-bloodrager/enlightened-bloodrager	archetype	1	replaces	1st-level bloodline power	no-heading			open			
+ref/arc-bloodrager/enlightened-bloodrager	archetype	2	replaces	bloodline bonus spells	no-heading			open			
+ref/arc-bloodrager/enlightened-bloodrager	archetype	3	replaces	The bloodline power gained at 4th level	no-heading			open			
+ref/arc-bloodrager/enlightened-bloodrager	archetype	4	replaces	Damage reduction the bloodrager gains at 7th, 13th, and 19th levels	no-heading			open			
+ref/arc-bloodrager/enlightened-bloodrager	archetype	5	alters	Spellcasting	no-heading			open			
+ref/arc-bloodrager/enlightened-bloodrager	archetype	7	alters	The bloodrager's bloodline powers	no-heading			open			
+ref/arc-bloodrager/greenrager	archetype	2	replaces	The bloodline feat gained at 6th level	no-heading			open			
+ref/arc-bloodrager/greenrager	archetype	3	replaces	The bloodline feat at 9th level	no-heading			open			
+ref/arc-bloodrager/id-rager	archetype	2	replaces	all bloodline spells	no-heading			open			
+ref/arc-bloodrager/id-rager	archetype	3	replaces	all bloodline powers	no-heading			open			
+ref/arc-bloodrager/id-rager	archetype	5	replaces	All bloodline feats	no-heading			open			
+ref/arc-bloodrager/id-rager	archetype	6	alters	Spellcasting	no-heading			open			
+ref/arc-bloodrager/prowler-at-worlds-end	archetype	1	replaces	The 1st-, 8th-, and 16th-level bloodline powers	no-heading			open			
+ref/arc-bloodrager/prowler-at-worlds-end	archetype	2	replaces	9th-level and 15th-level bloodline feats	no-heading			open			
+ref/arc-bloodrager/prowler-at-worlds-end	archetype	3	replaces	The 12th-level bloodline feat	no-heading			open			
+ref/arc-bloodrager/prowler-at-worlds-end	archetype	4	alters	The 4th-, 16th-, and 20th-level bloodline powers	no-heading			open			
+ref/arc-bloodrager/steelblood	archetype	1	replaces	The bloodrager's armor proficiency	no-heading			open			
+ref/arc-bloodrager/symbol-striker	archetype	2	replaces	Bloodline feats gained at 6th, 12th, and 18th levels	no-heading			open			
+ref/arc-bloodrager/symbol-striker	archetype	3	replaces	Bloodline feat gained at 9th level	no-heading			open			
+ref/arc-bloodrager/untouchable-rager	archetype	4	replaces	bloodline spells	no-heading			open			
+ref/arc-brawler/battle-dancer	archetype	4	alters	The brawler's armor proficiencies	no-heading			open			
+ref/arc-brawler/bouncer	archetype	1	replaces	The bonus feat gained at 2nd level	no-heading			open			
+ref/arc-brawler/hinyasi	archetype	4	alters	The brawler's armor proficiencies	no-heading			open			
+ref/arc-brawler/living-avalanche	archetype	1	replaces	Bonus feats gained at 2nd and 5th levels	no-heading			open			
+ref/arc-brawler/verdant-grappler	archetype	1	replaces	Bonus feat gained at 2nd level	no-heading			open			
+ref/arc-brawler/verdant-grappler	archetype	3	replaces	The combat feat gained at 11th level	no-heading			open			
+ref/arc-brawler/wild-child	archetype	3	replaces	Bonus combat feats gained at 5th, 8th, 11th, 14th, 17th, and 20th levels	duplicate-feature	bonus-combat-feats		open			
+ref/arc-brawler/winding-path-renegade	archetype	1	replaces	Bonus feats gained at 2nd, 8th, and 14th levels	no-heading			open			
+ref/arc-cavalier/first-mothers-fang	archetype	2	alters	The cavalier's weapon proficiencies	no-heading			open			
+ref/arc-cavalier/gallant	archetype	3	alters	The cavalier's order	no-heading			open			
+ref/arc-cavalier/herald-squire	archetype	2	replaces	The 2nd-level order ability	no-heading			open			
+ref/arc-cavalier/hussar	archetype	1	replaces	The cavalier's normal armor proficiencies	no-heading			open			
+ref/arc-cavalier/knight-of-arnisant	archetype	5	replaces	Greater tactician	duplicate-feature	greater-tactician		open			
+ref/arc-cavalier/oceanrider	archetype	2	alters	Armor proficiency	no-heading			open			
+ref/arc-cavalier/spellscar-drifter	archetype	4	replaces	The cavalier's normal bonus feats	no-heading			open			
+ref/arc-cavalier/vermin-tamer	archetype	1	replaces	Expert training	no-heading			open			
+ref/arc-cleric/angelfire-apostle	archetype	1	alters	The cleric's armor proficiency	no-heading			open			
+ref/arc-cleric/angelfire-apostle	archetype	2	alters	The cleric's spellcasting	no-heading			open			
+ref/arc-cleric/appeaser	archetype	3	alters	Alignment	no-heading			open			
+ref/arc-cleric/blossoming-light	archetype	1	alters	The cleric's armor proficiencies	no-heading			open			
+ref/arc-cleric/blossoming-light	archetype	2	alters	Alignment	no-heading			open			
+ref/arc-cleric/cardinal	archetype	1	replaces	Armor proficiencies	no-heading			open			
+ref/arc-cleric/cardinal	archetype	2	replaces	Spontaneous casting ability	no-heading			open			
+ref/arc-cleric/cardinal	archetype	4	alters	class skills	no-heading			open			
+ref/arc-cleric/cardinal	archetype	5	alters	skill ranks per level	no-heading			open			
+ref/arc-cleric/cardinal	archetype	6	alters	base attack bonus	no-heading			open			
+ref/arc-cleric/crusader	archetype	2	alters	spellcasting	no-heading			open			
+ref/arc-cleric/ecclesitheurge	archetype	2	replaces	The increase to channel energy gained at 3rd level	no-heading			open			
+ref/arc-cleric/ecclesitheurge	archetype	3	alters	The normal domain ability	no-heading			open			
+ref/arc-cleric/elder-mythos-cultist	archetype	2	replaces	Increases to channel energy gained at 5th, 11th, and 19th levels	no-heading			open			
+ref/arc-cleric/elder-mythos-cultist	archetype	3	alters	Alignment	no-heading			open			
+ref/arc-cleric/evangelist	archetype	1	replaces	The 1st-, 9th-, and 15th-level channel energy abilities	no-heading			open			
+ref/arc-cleric/herald-caller	archetype	1	alters	Class skills	no-heading			open			
+ref/arc-cleric/herald-caller	archetype	3	alters	armor proficiencies	no-heading			open			
+ref/arc-cleric/hidden-priest	archetype	1	replaces	One of the cleric's two 1st-level domain powers (her choice)	no-heading			open			
+ref/arc-cleric/hidden-priest	archetype	2	replaces	One of the cleric's two 8th-level domain powers (his choice)	no-heading			open			
+ref/arc-cleric/iron-priest	archetype	2	alters	Casting	no-heading			open			
+ref/arc-cleric/roaming-exorcist	archetype	3	alters	armor proficiency	no-heading			open			
+ref/arc-cleric/sacred-attendant	archetype	1	replaces	Proficiency with light and medium armor	no-heading			open			
+ref/arc-cleric/scroll-scholar	archetype	1	replaces	One of the 1st-level granted powers from her domains - the character gets to choose which of her two 1st-level granted powers it replaces	no-heading			open			
+ref/arc-cleric/scroll-scholar	archetype	2	replaces	Channel energy damage boost at 5th level	no-heading			open			
+ref/arc-cleric/scroll-scholar	archetype	3	replaces	The normal addition of a new 4th-level spell slot to the character's spells per day	no-heading			open			
+ref/arc-cleric/varisian-pilgrim	archetype	2	replaces	Proficiency with medium armor and shields - she retains proficiency with light armor only	no-heading			open			
+ref/arc-cleric/varisian-pilgrim	archetype	3	replaces	An 8th-level domain power of the Varisian pilgrim's choice	no-heading			open			
+ref/arc-companion/aberrant-companion	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/aberrant-companion	archetype	2	replaces	Devotion	no-base-class			open			
+ref/arc-companion/aberrant-companion	archetype	3	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/aberrant-companion	archetype	4	replaces	The +2 natural armor increase at 9th level	no-base-class			open			
+ref/arc-companion/ambusher	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/ambusher	archetype	2	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/ambusher	archetype	3	replaces	Evasion	no-base-class			open			
+ref/arc-companion/ambusher	archetype	4	replaces	Devotion	no-base-class			open			
+ref/arc-companion/ambusher	archetype	5	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/apex-species	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/apex-species	archetype	2	replaces	Evasion	no-base-class			open			
+ref/arc-companion/apex-species	archetype	3	replaces	Devotion	no-base-class			open			
+ref/arc-companion/apex-species	archetype	4	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/apex-species	archetype	5	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/augmented-companion	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/augmented-companion	archetype	2	replaces	Devotion	no-base-class			open			
+ref/arc-companion/auspice	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/auspice	archetype	2	replaces	Evasion	no-base-class			open			
+ref/arc-companion/auspice	archetype	3	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/bodyguard	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/bodyguard	archetype	2	replaces	Evasion	no-base-class			open			
+ref/arc-companion/bodyguard	archetype	3	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/bodyguard	archetype	4	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/bully	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/bully	archetype	2	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/charger	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/charger	archetype	2	replaces	Evasion	no-base-class			open			
+ref/arc-companion/charger	archetype	3	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/charger	archetype	4	replaces	Devotion	no-base-class			open			
+ref/arc-companion/charger	archetype	5	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/daredevil	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/daredevil	archetype	2	replaces	Devotion	no-base-class			open			
+ref/arc-companion/daredevil	archetype	3	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/deathtouched-companion	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/deathtouched-companion	archetype	2	replaces	Devotion	no-base-class			open			
+ref/arc-companion/draconic-companion	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/draconic-companion	archetype	2	replaces	Evasion	no-base-class			open			
+ref/arc-companion/draconic-companion	archetype	3	replaces	Devotion	no-base-class			open			
+ref/arc-companion/draconic-companion	archetype	4	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/draconic-companion	archetype	5	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/elemental-companion	archetype	1	replaces	Evasion	no-base-class			open			
+ref/arc-companion/elemental-companion	archetype	2	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/elemental-companion	archetype	3	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/feytouched-companion	archetype	1	replaces	The 4th- or 7th-level ability score and size advancement	no-base-class			open			
+ref/arc-companion/feytouched-companion	archetype	2	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/feytouched-companion	archetype	3	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/feytouched-companion	archetype	4	replaces	Evasion	no-base-class			open			
+ref/arc-companion/feytouched-companion	archetype	5	replaces	Devotion	no-base-class			open			
+ref/arc-companion/feytouched-companion	archetype	6	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/precocious-companion	archetype	1	replaces	Evasion	no-base-class			open			
+ref/arc-companion/precocious-companion	archetype	2	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/precocious-companion	archetype	3	replaces	The 4th- or 7th-level ability score advancement	no-base-class			open			
+ref/arc-companion/racer	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/racer	archetype	2	replaces	Devotion	no-base-class			open			
+ref/arc-companion/totem-guide	archetype	1	replaces	Evasion	no-base-class			open			
+ref/arc-companion/totem-guide	archetype	2	replaces	Devotion	no-base-class			open			
+ref/arc-companion/totem-guide	archetype	3	replaces	Multiattack	no-base-class			open			
+ref/arc-companion/totem-guide	archetype	4	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/tracker	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/tracker	archetype	2	replaces	Devotion	no-base-class			open			
+ref/arc-companion/unexpected-intellectual	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/verdant-companion	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/verdant-companion	archetype	2	replaces	Evasion	no-base-class			open			
+ref/arc-companion/verdant-companion	archetype	3	replaces	Devotion	no-base-class			open			
+ref/arc-companion/verdant-companion	archetype	4	replaces	Improved Evasion	no-base-class			open			
+ref/arc-companion/wrecker	archetype	1	replaces	Share Spells	no-base-class			open			
+ref/arc-companion/wrecker	archetype	2	replaces	Multiattack	no-base-class			open			
+ref/arc-druid/ancient-guardian	archetype	7	alters	Weapon proficiencies	no-heading			open			
+ref/arc-druid/ashvawg-tamer	archetype	2	replaces	Daily use of wild shape at 6th level	no-heading			open			
+ref/arc-druid/ashvawg-tamer	archetype	4	replaces	Venom immunity	duplicate-feature	venom-immunity		open			
+ref/arc-druid/dragon-shaman	archetype	4	replaces	The additional use of wild shape at 8th level	no-heading			open			
+ref/arc-druid/feyspeaker	archetype	2	replaces	The druid's proficiency with medium armor	no-heading			open			
+ref/arc-druid/feyspeaker	archetype	3	alters	Spellcasting	no-heading			open			
+ref/arc-druid/feyspeaker	archetype	4	alters	Base attack bonus	no-heading			open			
+ref/arc-druid/feyspeaker	archetype	5	alters	class skills	no-heading			open			
+ref/arc-druid/feyspeaker	archetype	6	alters	skills ranks per level	no-heading			open			
+ref/arc-druid/fungal-pilgrim	archetype	2	replaces	Wild shape	duplicate-feature	wild-shape		open			
+ref/arc-druid/green-faith-initiate	archetype	2	replaces	Daily use of wild shape gained at 6th level	no-heading			open			
+ref/arc-druid/green-faith-initiate	archetype	4	replaces	Daily use of wild shape gained at 10th level	no-heading			open			
+ref/arc-druid/halcyon-druid	archetype	8	alters	Class skills	no-heading			open			
+ref/arc-druid/life-channeler	archetype	3	alters	Alignment requirements	no-heading			open			
+ref/arc-druid/naga-aspirant	archetype	7	replaces	Wildshape (at will)	no-heading			open			
+ref/arc-druid/nature-priest	archetype	4	alters	Weapon proficiencies	no-heading			open			
+ref/arc-druid/pack-lord	archetype	2	replaces	The 6th-level additional use of wild shape	no-heading			open			
+ref/arc-druid/river-druid	archetype	6	alters	Class skills	no-heading			open			
+ref/arc-druid/survivor	archetype	4	alters	Spellcasting	no-heading			open			
+ref/arc-druid/swarm-monger	archetype	5	replaces	The normal wild shape options gained at 12th level	no-heading			open			
+ref/arc-druid/wild-whisperer	archetype	4	replaces	The additional use of wild shape at 6th level	no-heading			open			
+ref/arc-druid/wild-whisperer	archetype	5	replaces	The additional use of wild shape at 8th level	no-heading			open			
+ref/arc-familiar/ambassador	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/ambassador	archetype	2	replaces	The familiar's Intelligence score advancement	no-base-class			open			
+ref/arc-familiar/animal-exemplar	archetype	1	replaces	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/animal-exemplar	archetype	2	replaces	spell resistance	no-base-class			open			
+ref/arc-familiar/animal-exemplar	archetype	3	replaces	scry on familiar	no-base-class			open			
+ref/arc-familiar/animal-exemplar	archetype	4	alters	Speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/arcane-amplifier	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/arcane-amplifier	archetype	2	replaces	improved evasion	no-base-class			open			
+ref/arc-familiar/arcane-amplifier	archetype	3	replaces	Speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/arcane-amplifier	archetype	4	replaces	spell resistance	no-base-class			open			
+ref/arc-familiar/arcane-amplifier	archetype	5	replaces	Scry on familiar	no-base-class			open			
+ref/arc-familiar/decoy	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/decoy	archetype	2	replaces	Speak with master	no-base-class			open			
+ref/arc-familiar/decoy	archetype	3	replaces	speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/decoy	archetype	4	replaces	Spell resistance	no-base-class			open			
+ref/arc-familiar/egotist	archetype	1	replaces	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/egotist	archetype	2	replaces	Scry on familiar	no-base-class			open			
+ref/arc-familiar/egotist	archetype	3	alters	Alertness	no-base-class			open			
+ref/arc-familiar/egotist	archetype	4	alters	the variable familiar bonus	no-base-class			open			
+ref/arc-familiar/egotist	archetype	5	alters	Speak with master	no-base-class			open			
+ref/arc-familiar/elemental-familiar	archetype	1	replaces	Improved evasion	no-base-class			open			
+ref/arc-familiar/elemental-familiar	archetype	2	replaces	Speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/emissary	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/emissary	archetype	2	replaces	Share spells	no-base-class			open			
+ref/arc-familiar/emissary	archetype	3	replaces	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/figment	archetype	1	replaces	Improved evasion	no-base-class			open			
+ref/arc-familiar/figment	archetype	2	replaces	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/figment	archetype	3	replaces	speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/figment	archetype	4	replaces	scry on familiar	no-base-class			open			
+ref/arc-familiar/infiltrator	archetype	1	replaces	Improved evasion	no-base-class			open			
+ref/arc-familiar/infiltrator	archetype	2	replaces	Speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/infiltrator	archetype	3	replaces	Spell resistance	no-base-class			open			
+ref/arc-familiar/infiltrator	archetype	4	alters	Alertness	no-base-class			open			
+ref/arc-familiar/infiltrator	archetype	5	alters	Share spells	no-base-class			open			
+ref/arc-familiar/mascot	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/mascot	archetype	2	replaces	Improved evasion	no-base-class			open			
+ref/arc-familiar/mascot	archetype	3	replaces	Speak with master	no-base-class			open			
+ref/arc-familiar/mascot	archetype	4	replaces	speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/mascot	archetype	5	replaces	Spell resistance	no-base-class			open			
+ref/arc-familiar/mascot	archetype	6	replaces	scry on familiar	no-base-class			open			
+ref/arc-familiar/mascot	archetype	7	alters	Empathic link	no-base-class			open			
+ref/arc-familiar/mascot	archetype	8	alters	Share spells	no-base-class			open			
+ref/arc-familiar/mascot	archetype	9	alters	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/mauler	archetype	1	replaces	Speak with master	no-base-class			open			
+ref/arc-familiar/mauler	archetype	2	replaces	speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/mauler	archetype	3	replaces	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/mauler	archetype	4	replaces	Spell resistance	no-base-class			open			
+ref/arc-familiar/mauler	archetype	5	alters	The familiar's Intelligence score advancement	no-base-class			open			
+ref/arc-familiar/occult-messenger	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/occult-messenger	archetype	2	replaces	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/parasite	archetype	1	replaces	Improved evasion	no-base-class			open			
+ref/arc-familiar/parasite	archetype	2	replaces	share spells	no-base-class			open			
+ref/arc-familiar/parasite	archetype	3	replaces	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/parasite	archetype	4	replaces	speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/parasite	archetype	5	replaces	spell resistance	no-base-class			open			
+ref/arc-familiar/parasite	archetype	6	replaces	scry on familiar	no-base-class			open			
+ref/arc-familiar/pilferer	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/pilferer	archetype	2	replaces	Improved evasion	no-base-class			open			
+ref/arc-familiar/pilferer	archetype	3	replaces	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/pilferer	archetype	4	replaces	Speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/prankster	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/prankster	archetype	2	replaces	Improved evasion	no-base-class			open			
+ref/arc-familiar/prankster	archetype	3	replaces	share spells	no-base-class			open			
+ref/arc-familiar/prankster	archetype	4	replaces	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/prankster	archetype	5	replaces	Spell resistance	no-base-class			open			
+ref/arc-familiar/prankster	archetype	6	alters	Empathic link	no-base-class			open			
+ref/arc-familiar/prankster	archetype	7	alters	Scry on familiar	no-base-class			open			
+ref/arc-familiar/protector	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/protector	archetype	2	replaces	improved evasion	no-base-class			open			
+ref/arc-familiar/protector	archetype	3	replaces	Deliver touch spells	no-base-class			open			
+ref/arc-familiar/protector	archetype	4	replaces	speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/protector	archetype	5	replaces	Spell resistance	no-base-class			open			
+ref/arc-familiar/sage	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/sage	archetype	2	replaces	the familiar's ability to share its master's skill ranks	no-base-class			open			
+ref/arc-familiar/sage	archetype	3	alters	The familiar's Intelligence score and natural armor adjustment	no-base-class			open			
+ref/arc-familiar/soulbound-familiar	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/soulbound-familiar	archetype	2	replaces	Speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/soulbound-familiar	archetype	3	replaces	scry on familiar	no-base-class			open			
+ref/arc-familiar/valet	archetype	1	replaces	Alertness	no-base-class			open			
+ref/arc-familiar/valet	archetype	2	replaces	Share spells	no-base-class			open			
+ref/arc-familiar/valet	archetype	3	replaces	Improved evasion	no-base-class			open			
+ref/arc-familiar/valet	archetype	4	replaces	Speak with animals of its kind	no-base-class			open			
+ref/arc-familiar/valet	archetype	5	replaces	Scry on familiar	no-base-class			open			
+ref/arc-familiar/valet	archetype	6	alters	Deliver touch spells	no-base-class			open			
+ref/arc-fighter/airborne-ambusher	archetype	4	replaces	Weapon training 3 and 4	unusable-qualifier			open			
+ref/arc-fighter/aquanaut	archetype	5	alters	Armor proficiency	no-heading			open			
+ref/arc-fighter/archer	archetype	2	replaces	Armor training 1, 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/armiger	archetype	4	alters	Class skills	no-heading			open			
+ref/arc-fighter/armiger	archetype	5	alters	skill points per level	no-heading			open			
+ref/arc-fighter/armor-master	archetype	2	replaces	Weapon training 1 and 3	unusable-qualifier			open			
+ref/arc-fighter/armor-master	archetype	4	replaces	Weapon training 2 and 4	unusable-qualifier			open			
+ref/arc-fighter/brawler	archetype	2	replaces	Weapon training 1 and 2	unusable-qualifier			open			
+ref/arc-fighter/brawler	archetype	3	replaces	Armor training 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/brawler	archetype	5	replaces	Weapon training 3 and 4	unusable-qualifier			open			
+ref/arc-fighter/cad	archetype	3	replaces	Weapon training 1, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/cad	archetype	7	replaces	Weapon training 3 and 4	unusable-qualifier			open			
+ref/arc-fighter/cavern-sniper	archetype	4	replaces	Weapon training 1, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/child-of-acavna-and-amaznen	archetype	1	replaces	Bonus fighter combat feat gained at 1st level	no-heading			open			
+ref/arc-fighter/child-of-acavna-and-amaznen	archetype	6	alters	Skills	no-heading			open			
+ref/arc-fighter/cyber-soldier	archetype	2	replaces	Armor training 2 and 4	unusable-qualifier			open			
+ref/arc-fighter/dirty-fighter	archetype	4	replaces	Weapon training 3 and 4	unusable-qualifier			open			
+ref/arc-fighter/dragonheir-scion	archetype	3	replaces	Armor training 1, 2, and 3	unusable-qualifier			open			
+ref/arc-fighter/dragonheir-scion	archetype	5	replaces	Bonus feat gained at 6th level.1-2	unusable-qualifier			open			
+ref/arc-fighter/dragoon	archetype	1	replaces	The 1st-level fighter bonus combat feat	no-heading			open			
+ref/arc-fighter/dragoon	archetype	3	replaces	Weapon training 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/foehammer	archetype	2	replaces	Armor training 2 and 4	unusable-qualifier			open			
+ref/arc-fighter/free-hand-fighter	archetype	2	replaces	Armor training 1, 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/free-hand-fighter	archetype	3	replaces	Weapon training 1 and 4	unusable-qualifier			open			
+ref/arc-fighter/gladiator	archetype	1	replaces	Proficiency with heavy armor and tower shields	no-heading			open			
+ref/arc-fighter/gloomblade	archetype	2	replaces	proficiency with heavy armor and shields	no-heading			open			
+ref/arc-fighter/lore-warden	archetype	1	replaces	Proficiency with medium armor	no-heading			open			
+ref/arc-fighter/lore-warden	archetype	2	replaces	heavy armor	no-heading			open			
+ref/arc-fighter/lore-warden	archetype	3	replaces	and shields	no-heading			open			
+ref/arc-fighter/lore-warden	archetype	4	replaces	Bravery and the fighter bonus feat gained at 2nd level	no-heading			open			
+ref/arc-fighter/lore-warden-pfs-field-guide	archetype	1	replaces	Proficiency with medium armor	no-heading			open			
+ref/arc-fighter/lore-warden-pfs-field-guide	archetype	2	replaces	heavy armor	no-heading			open			
+ref/arc-fighter/lore-warden-pfs-field-guide	archetype	3	replaces	and shields	no-heading			open			
+ref/arc-fighter/mobile-fighter	archetype	2	replaces	Weapon training 1, 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/molthuni-defender	archetype	1	replaces	Armor training 1 through 4	no-heading			open			
+ref/arc-fighter/mutation-warrior	archetype	2	replaces	Armor training 2, 3, 4	unusable-qualifier			open			
+ref/arc-fighter/opportunist	archetype	5	alters	Class skills	no-heading			open			
+ref/arc-fighter/pack-mule	archetype	3	replaces	Armor training 1 through 4	no-heading			open			
+ref/arc-fighter/pack-mule	archetype	5	alters	The fighter's skill ranks per level	no-heading			open			
+ref/arc-fighter/phalanx-soldier	archetype	4	replaces	Armor training 2 and 3	unusable-qualifier			open			
+ref/arc-fighter/phalanx-soldier	archetype	5	replaces	Weapon training 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/polearm-master	archetype	2	replaces	Armor training 1, 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/roughrider	archetype	3	replaces	Weapon training 1, 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/roughrider	archetype	7	replaces	Armor training 4	duplicate-feature	armor-training		open			
+ref/arc-fighter/seasoned-commander	archetype	1	replaces	Bonus fighter combat feat gained at 1st level	no-heading			open			
+ref/arc-fighter/seasoned-commander	archetype	2	replaces	proficiency with heavy armor and tower shields	no-heading			open			
+ref/arc-fighter/seasoned-commander	archetype	4	replaces	Weapon training 1 and 3	unusable-qualifier			open			
+ref/arc-fighter/seasoned-commander	archetype	9	alters	Skill ranks per level	no-heading			open			
+ref/arc-fighter/seasoned-commander	archetype	10	alters	class skills	no-heading			open			
+ref/arc-fighter/sensate	archetype	4	replaces	Weapon training 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/shielded-fighter	archetype	1	replaces	Armor training 1, 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/shielded-fighter	archetype	3	replaces	Weapon training 2 and 3	unusable-qualifier			open			
+ref/arc-fighter/siegebreaker	archetype	1	replaces	The feat gained at 1st level	no-heading			open			
+ref/arc-fighter/siegebreaker	archetype	3	replaces	The feat gained at 2nd level	no-heading			open			
+ref/arc-fighter/siegebreaker	archetype	6	alters	The feat gained at 4th level	no-heading			open			
+ref/arc-fighter/skirmisher	archetype	1	replaces	The fighter's armor proficiency	no-heading			open			
+ref/arc-fighter/skirmisher	archetype	6	alters	Class skills	no-heading			open			
+ref/arc-fighter/skirmisher	archetype	7	alters	skill ranks per level	no-heading			open			
+ref/arc-fighter/spear-fighter	archetype	2	replaces	Armor training 1, 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/spear-fighter	archetype	4	alters	The fighter's armor proficiencies	no-heading			open			
+ref/arc-fighter/swarm-fighter	archetype	1	replaces	The bonus feat a fighter gains at first level	no-heading			open			
+ref/arc-fighter/swarm-fighter	archetype	3	replaces	The bonus combat feats the fighter normally receives at 2nd, 6th, 10th, 14th, and 18th levels	no-heading			open			
+ref/arc-fighter/swarm-fighter	archetype	6	replaces	Weapon training 3 and 4	unusable-qualifier			open			
+ref/arc-fighter/tactician	archetype	1	replaces	The bonus fighter combat feat gained at 1st level	no-heading			open			
+ref/arc-fighter/tactician	archetype	6	alters	Armor proficiencies	no-heading			open			
+ref/arc-fighter/trench-fighter	archetype	1	replaces	Armor training 1, 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/tribal-fighter	archetype	1	replaces	The fighter feat gained at 1st level	no-heading			open			
+ref/arc-fighter/tribal-fighter	archetype	2	alters	Armor proficiency	no-heading			open			
+ref/arc-fighter/two-weapon-warrior	archetype	1	replaces	Armor training 1 and 2	unusable-qualifier			open			
+ref/arc-fighter/unarmed-fighter	archetype	4	replaces	Weapon training 1, 2, 3, and 4	unusable-qualifier			open			
+ref/arc-fighter/weapon-bearer-squire	archetype	1	replaces	The 1st-level fighter bonus combat feat	no-heading			open			
+ref/arc-fighter/weapon-bearer-squire	archetype	2	replaces	The 2nd-level fighter bonus combat feat	no-heading			open			
+ref/arc-fighter/weapon-master	archetype	2	replaces	Armor training 1, 2, 3, and 4	unusable-qualifier			open			
+ref/arc-gunslinger/black-powder-vaulter	archetype	1	replaces	Deadeye deed	no-heading			open			
+ref/arc-gunslinger/black-powder-vaulter	archetype	2	replaces	Gunslinger's dodge deed	no-heading			open			
+ref/arc-gunslinger/black-powder-vaulter	archetype	3	replaces	Gunslinger initiative deed	no-heading			open			
+ref/arc-gunslinger/black-powder-vaulter	archetype	4	replaces	Startling shot deed	no-heading			open			
+ref/arc-gunslinger/black-powder-vaulter	archetype	5	replaces	Expert loading deed	no-heading			open			
+ref/arc-gunslinger/blatherskite	archetype	1	replaces	Gunslinger's dodge deed	no-heading			open			
+ref/arc-gunslinger/blatherskite	archetype	2	replaces	Gunslinger initiative deed	no-heading			open			
+ref/arc-gunslinger/blatherskite	archetype	3	replaces	Pistol-whip deed	no-heading			open			
+ref/arc-gunslinger/blatherskite	archetype	4	replaces	Startling shot deed	no-heading			open			
+ref/arc-gunslinger/bolt-ace	archetype	2	replaces	Deadeye	no-heading			open			
+ref/arc-gunslinger/bolt-ace	archetype	3	replaces	Quick clear	no-heading			open			
+ref/arc-gunslinger/bolt-ace	archetype	4	replaces	Utility shot	no-heading			open			
+ref/arc-gunslinger/bolt-ace	archetype	5	replaces	Startling shot	no-heading			open			
+ref/arc-gunslinger/bolt-ace	archetype	6	replaces	Expert loading	no-heading			open			
+ref/arc-gunslinger/bolt-ace	archetype	7	replaces	Lightning reload	no-heading			open			
+ref/arc-gunslinger/bolt-ace	archetype	8	replaces	Menacing shot	no-heading			open			
+ref/arc-gunslinger/bolt-ace	archetype	10	alters	Weapon proficiencies	no-heading			open			
+ref/arc-gunslinger/buccaneer	archetype	1	replaces	Quick clear deed	no-heading			open			
+ref/arc-gunslinger/buccaneer	archetype	2	replaces	Pistol whip deed	no-heading			open			
+ref/arc-gunslinger/buccaneer	archetype	3	replaces	Dead shot deed	no-heading			open			
+ref/arc-gunslinger/buccaneer	archetype	4	replaces	Lightning reload deed	no-heading			open			
+ref/arc-gunslinger/bushwhacker	archetype	1	replaces	Utility shot deed	no-heading			open			
+ref/arc-gunslinger/bushwhacker	archetype	2	replaces	Targeting deed	no-heading			open			
+ref/arc-gunslinger/bushwhacker	archetype	3	replaces	Bonus feats the gunslinger gains at 4th, 8th, 12th, 16th, and 20th level	no-heading			open			
+ref/arc-gunslinger/commando	archetype	1	replaces	Utility shot deed	no-heading			open			
+ref/arc-gunslinger/commando	archetype	2	replaces	Expert loading deed	no-heading			open			
+ref/arc-gunslinger/commando	archetype	3	replaces	Lightning reload deed	no-heading			open			
+ref/arc-gunslinger/commando	archetype	4	replaces	Slinger's luck deed	no-heading			open			
+ref/arc-gunslinger/firebrand	archetype	1	replaces	Deadeye deed	no-heading			open			
+ref/arc-gunslinger/firebrand	archetype	2	replaces	Dead shot deed	no-heading			open			
+ref/arc-gunslinger/graveslinger	archetype	1	replaces	Deadeye deed	no-heading			open			
+ref/arc-gunslinger/graveslinger	archetype	2	replaces	Startling shot deed	no-heading			open			
+ref/arc-gunslinger/graveslinger	archetype	3	replaces	Bleeding wound deed	no-heading			open			
+ref/arc-gunslinger/graveslinger	archetype	4	replaces	Menacing shot deed	no-heading			open			
+ref/arc-gunslinger/gulch-gunner	archetype	1	replaces	The ability to regain grit from a critical hit with a firearm	no-heading			open			
+ref/arc-gunslinger/gulch-gunner	archetype	2	replaces	Deadeye deed	no-heading			open			
+ref/arc-gunslinger/gulch-gunner	archetype	3	replaces	Pistol whip deed	no-heading			open			
+ref/arc-gunslinger/gulch-gunner	archetype	4	replaces	Menacing shot deed	no-heading			open			
+ref/arc-gunslinger/gulch-gunner	archetype	5	replaces	Gun training ability gained at 9th, 13th, and 17th level	no-heading			open			
+ref/arc-gunslinger/gun-scavenger	archetype	1	replaces	Quick clear deed	no-heading			open			
+ref/arc-gunslinger/gun-scavenger	archetype	2	replaces	Targeting deed	no-heading			open			
+ref/arc-gunslinger/gun-tank	archetype	1	replaces	Gunslinger's dodge deed	no-heading			open			
+ref/arc-gunslinger/gun-tank	archetype	2	replaces	Evasive deed	no-heading			open			
+ref/arc-gunslinger/gun-tank	archetype	4	replaces	All bonus combat/grit feats	no-heading			open			
+ref/arc-gunslinger/gunner-squire	archetype	1	replaces	Gunslinger's dodge deed	no-heading			open			
+ref/arc-gunslinger/gunner-squire	archetype	2	replaces	Gunslinger initiative	no-heading			open			
+ref/arc-gunslinger/maverick	archetype	1	replaces	Gunslinger's dodge deed	no-heading			open			
+ref/arc-gunslinger/maverick	archetype	2	replaces	Pistol whip deed	no-heading			open			
+ref/arc-gunslinger/maverick	archetype	3	replaces	Gunslinger initiative deed	no-heading			open			
+ref/arc-gunslinger/musket-master	archetype	1	replaces	Gunslinger's dodge deed	no-heading			open			
+ref/arc-gunslinger/musket-master	archetype	2	replaces	Utility shot deed	no-heading			open			
+ref/arc-gunslinger/musket-master	archetype	3	replaces	Firearm training 1, 2, 3, and 4	no-heading			open			
+ref/arc-gunslinger/mysterious-stranger	archetype	1	replaces	Quick clear deed	no-heading			open			
+ref/arc-gunslinger/mysterious-stranger	archetype	2	replaces	Bleeding wound deed	no-heading			open			
+ref/arc-gunslinger/pistolero	archetype	1	replaces	Deadeye deed	no-heading			open			
+ref/arc-gunslinger/pistolero	archetype	2	replaces	Startling shot deed	no-heading			open			
+ref/arc-gunslinger/pistolero	archetype	3	replaces	Bleeding wound deed	no-heading			open			
+ref/arc-gunslinger/pistolero	archetype	4	replaces	Gun training 1-4	unusable-qualifier			open			
+ref/arc-gunslinger/planar-rifter	archetype	1	replaces	Deadeye deed	no-heading			open			
+ref/arc-gunslinger/planar-rifter	archetype	2	replaces	Dead shot deed	no-heading			open			
+ref/arc-gunslinger/planar-rifter	archetype	3	replaces	Menacing shot deed	no-heading			open			
+ref/arc-gunslinger/planar-rifter	archetype	4	replaces	Death's shot deed	no-heading			open			
+ref/arc-gunslinger/scatter-gunner	archetype	1	replaces	Deadeye deed	no-heading			open			
+ref/arc-gunslinger/scatter-gunner	archetype	2	replaces	Utility shot deed	no-heading			open			
+ref/arc-gunslinger/scatter-gunner	archetype	3	replaces	Dead shot deed	no-heading			open			
+ref/arc-gunslinger/scatter-gunner	archetype	4	replaces	Targeting deed	no-heading			open			
+ref/arc-gunslinger/siege-gunner	archetype	2	replaces	Deadeye deed	no-heading			open			
+ref/arc-gunslinger/siege-gunner	archetype	3	replaces	Gunslinger initiative deed	no-heading			open			
+ref/arc-gunslinger/siege-gunner	archetype	4	replaces	The gunslinger's normal bonus feats	no-heading			open			
+ref/arc-gunslinger/techslinger	archetype	1	replaces	Deadeye	no-heading			open			
+ref/arc-gunslinger/techslinger	archetype	2	replaces	Quick clear	no-heading			open			
+ref/arc-gunslinger/techslinger	archetype	3	replaces	Expert loading	no-heading			open			
+ref/arc-gunslinger/thronewarden	archetype	3	replaces	Startling shot deed	no-heading			open			
+ref/arc-gunslinger/thronewarden	archetype	4	replaces	Bleeding wound deed	no-heading			open			
+ref/arc-gunslinger/wyrm-sniper	archetype	1	replaces	Startling shot deed	no-heading			open			
+ref/arc-gunslinger/wyrm-sniper	archetype	2	replaces	Lightning reload deed	no-heading			open			
+ref/arc-gunslinger/wyrm-sniper	archetype	3	replaces	Menacing shot deed	no-heading			open			
+ref/arc-hunter/courtly-hunter	archetype	3	replaces	the hunter's bonus teamwork feats	no-heading			open			
+ref/arc-hunter/feral-hunter	archetype	6	replaces	master of the wild	no-heading			open			
+ref/arc-hunter/packmaster	archetype	8	alters	Teamwork feats	duplicate-feature	teamwork-feat		open			
+ref/arc-inquisitor/exarch	archetype	7	alters	Spellcasting	no-heading			open			
+ref/arc-inquisitor/faith-hunter	archetype	2	replaces	justice and destruction judgments	no-heading			open			
+ref/arc-inquisitor/hexenhammer	archetype	7	alters	Spellcasting	no-heading			open			
+ref/arc-inquisitor/immolator	archetype	1	replaces	Smiting judgment	no-heading			open			
+ref/arc-inquisitor/keeper-of-the-current	archetype	3	alters	Spellcasting	no-heading			open			
+ref/arc-inquisitor/kinslayer	archetype	1	replaces	Destruction judgment	no-heading			open			
+ref/arc-inquisitor/living-grimoire	archetype	10	alters	spellcasting	no-heading			open			
+ref/arc-inquisitor/oathkeeper	archetype	3	alters	Alignment requirements	no-heading			open			
+ref/arc-inquisitor/relic-hunter	archetype	7	alters	Spellcasting	no-heading			open			
+ref/arc-inquisitor/royal-accuser	archetype	5	replaces	Teamwork feat granted at 6th level	no-heading			open			
+ref/arc-inquisitor/royal-accuser	archetype	6	replaces	Teamwork feat granted at 12th	no-heading			open			
+ref/arc-inquisitor/royal-accuser	archetype	7	replaces	Teamwork feat granted at 18th level	no-heading			open			
+ref/arc-inquisitor/sacred-huntsmaster	archetype	1	replaces	Judgment 1/day	no-heading			open			
+ref/arc-inquisitor/sacred-huntsmaster	archetype	3	replaces	Later iterations of the judgment ability	no-heading			open			
+ref/arc-inquisitor/sanctified-slayer	archetype	1	replaces	Judgment 1/day	no-heading			open			
+ref/arc-inquisitor/sanctified-slayer	archetype	2	replaces	Later iterations of the judgment ability	no-heading			open			
+ref/arc-inquisitor/sworn-of-the-eldest	archetype	4	replaces	All teamwork feats	no-heading			open			
+ref/arc-inquisitor/umbral-stalker	archetype	1	replaces	Justice judgment	no-heading			open			
+ref/arc-inquisitor/vampire-hunter	archetype	2	alters	Purity and Smiting judgments	no-heading			open			
+ref/arc-investigator/antiquarian	archetype	3	alters	Alchemy (including Extracts)	unusable-qualifier			open			
+ref/arc-investigator/bonded-investigator	archetype	3	replaces	poison immunity	no-heading			open			
+ref/arc-investigator/bonded-investigator	archetype	4	replaces	Studied strike damage gained at 4th level	no-heading			open			
+ref/arc-investigator/cipher	archetype	4	replaces	poison immunity	no-heading			open			
+ref/arc-investigator/cipher	archetype	10	alters	Class skills	no-heading			open			
+ref/arc-investigator/cult-hunter	archetype	3	replaces	poison immunity	no-heading			open			
+ref/arc-investigator/dread-investigator	archetype	3	replaces	immunity	no-heading			open			
+ref/arc-investigator/gravedigger	archetype	5	replaces	poison immunity	no-heading			open			
+ref/arc-investigator/gravedigger	archetype	10	alters	Investigator talents	duplicate-feature	investigator-talent		open			
+ref/arc-investigator/guardian-of-immortality	archetype	4	replaces	Immunity to poison	no-heading			open			
+ref/arc-investigator/hallucinist	archetype	1	replaces	Trapfinding, 3rd-level trap sense boost	no-heading		trapfinding	open			
+ref/arc-investigator/hallucinist	archetype	4	replaces	All instances of poison resistance	no-heading		trapfinding	open			
+ref/arc-investigator/hallucinist	archetype	5	replaces	poison immunity	no-heading		trapfinding	open			
+ref/arc-investigator/hallucinist	archetype	8	replaces	All remaining trap sense	no-heading		trapfinding	open			
+ref/arc-investigator/lamplighter	archetype	3	replaces	poison immunity	no-heading			open			
+ref/arc-investigator/lepidstadt-inspector	archetype	4	replaces	poison immunity	no-heading			open			
+ref/arc-investigator/majordomo	archetype	2	replaces	All instances of trap sense	no-heading			open			
+ref/arc-investigator/malice-binder	archetype	5	replaces	Poison immunity	no-heading			open			
+ref/arc-investigator/portal-seeker	archetype	5	replaces	Poison immunity	no-heading			open			
+ref/arc-investigator/profiler	archetype	5	replaces	poison immunity	no-heading			open			
+ref/arc-investigator/psychic-detective	archetype	5	replaces	poison immunity	no-heading			open			
+ref/arc-investigator/reckless-epicurean	archetype	5	alters	poison immunity	no-heading			open			
+ref/arc-investigator/scavenger	archetype	3	replaces	poison immunity	no-heading			open			
+ref/arc-investigator/spiritualist	archetype	6	replaces	Poison immunity	no-heading			open			
+ref/arc-investigator/toxin-codexer	archetype	4	alters	Alchemy and replaces	no-heading			open			
+ref/arc-kineticist/aquakinetcist	archetype	1	replaces	Basic hydrokinesis	no-heading			open			
+ref/arc-kineticist/aquakinetcist	archetype	2	replaces	2nd and 6th level utility wild talents	no-heading			open			
+ref/arc-kineticist/aquakinetcist	archetype	3	replaces	Defense wild talent from elemental defense	no-heading			open			
+ref/arc-kineticist/aquakinetcist	archetype	6	alters	Cold simple blast	no-heading			open			
+ref/arc-kineticist/arakineticist	archetype	1	replaces	Utility wild talent gained at 4th level	no-heading			open			
+ref/arc-kineticist/arakineticist	archetype	2	replaces	Utility wild talents gained at 6th and 8th levels	no-heading			open			
+ref/arc-kineticist/arakineticist	archetype	3	replaces	Utility wild talent gained at 13th level	no-heading			open			
+ref/arc-kineticist/blightburner	archetype	1	replaces	Basic geokinesis wild talent	no-heading			open			
+ref/arc-kineticist/blightburner	archetype	2	replaces	Utility wild talent gained at 2nd level	no-heading			open			
+ref/arc-kineticist/blightburner	archetype	3	replaces	Ability score boosts granted by elemental overflow	no-heading			open			
+ref/arc-kineticist/blightburner	archetype	4	replaces	earth's elemental defense	no-heading			open			
+ref/arc-kineticist/blighted-defiler	archetype	4	alters	Alignment	no-heading			open			
+ref/arc-kineticist/blighted-defiler	archetype	6	alters	The key ability score of wild talents	no-heading			open			
+ref/arc-kineticist/blood-kineticist	archetype	3	replaces	The 6th-level utility wild talent	no-heading			open			
+ref/arc-kineticist/blood-kineticist	archetype	4	replaces	The 8th-level utility wild talent	no-heading			open			
+ref/arc-kineticist/cinderlands-adept	archetype	2	replaces	Utility wild talents gained at 4th, 8th, and 12th levels	no-heading			open			
+ref/arc-kineticist/dark-elementalist	archetype	2	alters	Base saving throws	no-heading			open			
+ref/arc-kineticist/dark-elementalist	archetype	3	alters	the key ability score of wild talents	no-heading			open			
+ref/arc-kineticist/elemental-annihilator	archetype	1	replaces	2nd-, 8th-, 10th-, 14th-, and 18th-level utility wild talents	no-heading		omnikinesis	open			
+ref/arc-kineticist/elemental-annihilator	archetype	3	replaces	4th-level utility wild talent	no-heading		omnikinesis	open			
+ref/arc-kineticist/elemental-annihilator	archetype	5	replaces	6th-, 12th-, and 16th level utility wild talents	no-heading		omnikinesis	open			
+ref/arc-kineticist/elemental-annihilator	archetype	6	replaces	Omnikinesis, 20th-level utility wild talent	no-heading		omnikinesis	open			
+ref/arc-kineticist/elemental-annihilator	archetype	8	alters	the basic utility wild talent normally granted by selecting an element	no-heading			open			
+ref/arc-kineticist/elemental-ascetic	archetype	5	alters	Key ability scores of wild talents	no-heading			open			
+ref/arc-kineticist/elemental-purist	archetype	1	replaces	Expanded element, 11th- and 19th-level infusions	no-heading		expanded-element	open			
+ref/arc-kineticist/elysiokineticist	archetype	2	replaces	Basic phytokinesis utility wild talent granted by the wood element	no-heading			open			
+ref/arc-kineticist/elysiokineticist	archetype	4	replaces	Flesh of wood defense wild talent granted by the wood element	no-heading			open			
+ref/arc-kineticist/ioun-kineticist	archetype	1	replaces	The ability score boosts granted by elemental overflow	no-heading			open			
+ref/arc-kineticist/ioun-kineticist	archetype	3	alters	Basic telekinesis utility wild talent granted by the aether element	no-heading			open			
+ref/arc-kineticist/leshykineticist	archetype	1	replaces	6th- and 10th-level utility wild talents	no-heading			open			
+ref/arc-kineticist/leshykineticist	archetype	2	replaces	maximize metakinesis	no-heading			open			
+ref/arc-kineticist/leshykineticist	archetype	4	alters	Element	no-heading			open			
+ref/arc-kineticist/leshykineticist	archetype	6	alters	Basic phytokinesis	no-heading			open			
+ref/arc-kineticist/overwhelming-soul	archetype	3	alters	Key ability score of wild talents	no-heading			open			
+ref/arc-kineticist/psychokineticist	archetype	1	alters	Class skills	no-heading			open			
+ref/arc-kineticist/psychokineticist	archetype	2	alters	key ability score of wild talents	no-heading			open			
+ref/arc-magus/deep-marshal	archetype	2	alters	Armor proficiencies	no-heading			open			
+ref/arc-magus/deep-marshal	archetype	5	alters	Spellcasting	no-heading			open			
+ref/arc-magus/esoteric	archetype	7	alters	Spellcasting	no-heading			open			
+ref/arc-magus/iron-ring-striker	archetype	5	alters	Weapon proficiency	no-heading			open			
+ref/arc-magus/iron-ring-striker	archetype	6	alters	Spellcasting	no-heading			open			
+ref/arc-magus/jistkan-artificer	archetype	2	alters	Spellcasting	no-heading			open			
+ref/arc-magus/mindblade	archetype	1	replaces	Spellcasting	no-heading			open			
+ref/arc-magus/myrmidarch	archetype	4	replaces	Knowledge pool, 10th-level fighter training	no-heading		knowledge-pool	open			
+ref/arc-magus/puppetmaster	archetype	9	alters	Skills	no-heading			open			
+ref/arc-magus/spell-dancer	archetype	1	replaces	The magus's ability to expend points from his arcane pool as a swift action to grant any weapon he is holding magic bonuses for 1 minute	no-heading			open			
+ref/arc-magus/spire-defender	archetype	1	replaces	Weapon proficiencies	no-heading			open			
+ref/arc-magus/spire-defender	archetype	2	replaces	Armor proficiencies	no-heading			open			
+ref/arc-medium/kami-medium	archetype	8	alters	Spellcasting	no-heading			open			
+ref/arc-medium/medium-of-the-master	archetype	3	alters	Armor proficiency	no-heading			open			
+ref/arc-medium/medium-of-the-master	archetype	6	alters	Spirit power (lesser)	no-heading			open			
+ref/arc-medium/medium-of-the-master	archetype	7	alters	Spirit power (intermediate)	no-heading			open			
+ref/arc-medium/medium-of-the-master	archetype	8	alters	Spirit power (supreme)	no-heading			open			
+ref/arc-medium/outer-channeler	archetype	6	alters	spirit power (intermediate)	no-heading			open			
+ref/arc-medium/relic-channeler	archetype	4	alters	Spirit	duplicate-feature	spirit		open			
+ref/arc-medium/rivethun-spirit-channeler	archetype	5	alters	Spellcasting	no-heading			open			
+ref/arc-mesmerist/eyebiter	archetype	3	replaces	All instances of touch treatment	no-heading			open			
+ref/arc-mesmerist/fey-trickster	archetype	4	alters	Spellcasting	no-heading			open			
+ref/arc-mesmerist/gaslighter	archetype	5	replaces	Touch treatment (break enchantment)	unusable-qualifier			open			
+ref/arc-mesmerist/material-manipulator	archetype	6	alters	Spellcasting	no-heading			open			
+ref/arc-mesmerist/projectionist	archetype	3	alters	Spellcasting	no-heading			open			
+ref/arc-mesmerist/spirit-walker	archetype	6	alters	Spell list	no-heading			open			
+ref/arc-mesmerist/umbral-mesmerist	archetype	4	alters	Spellcasting	no-heading			open			
+ref/arc-mesmerist/vexing-trickster	archetype	6	replaces	touch treatment (break enchantment)	unusable-qualifier			open			
+ref/arc-mesmerist/vizier	archetype	2	replaces	bold stare improvement gained at 3rd level	no-heading			open			
+ref/arc-mesmerist/vox	archetype	1	replaces	Towering ego, 10th-level mesmerist trick	no-heading		towering-ego	open			
+ref/arc-mesmerist/vox	archetype	2	replaces	touch treatment (break enchantment)	unusable-qualifier		towering-ego	open			
+ref/arc-mesmerist/vox	archetype	6	alters	Spellcasting	no-heading			open			
+ref/arc-monk/disciple-of-wholeness	archetype	1	replaces	The ability to spend ki to gain an extra attack during a flurry of blows	no-heading			open			
+ref/arc-monk/elemental-monk	archetype	1	replaces	Alignment requirement	no-heading			open			
+ref/arc-monk/elemental-monk	archetype	2	replaces	All bonus feats	no-heading			open			
+ref/arc-monk/hellcat	archetype	1	replaces	Weapon proficiencies	no-heading			open			
+ref/arc-monk/hellcat	archetype	11	alters	Alignment requirements	no-heading			open			
+ref/arc-monk/invested-regent	archetype	2	replaces	Bonus feat the invested regent gives up for the vested power	no-heading			open			
+ref/arc-monk/ironskin-monk	archetype	2	replaces	the ability to add his Wisdom bonus to his AC	no-heading			open			
+ref/arc-monk/ironskin-monk	archetype	3	replaces	Dodge	no-heading			open			
+ref/arc-monk/ironskin-monk	archetype	4	replaces	Mobility	no-heading			open			
+ref/arc-monk/ironskin-monk	archetype	5	replaces	and Spring Attack on the monk's bonus feat list	no-heading			open			
+ref/arc-monk/ironskin-monk	archetype	7	replaces	The ability to increase speed with ki	no-heading			open			
+ref/arc-monk/karmic-monk	archetype	3	replaces	7th- and 10th-level ki pool abilities	no-heading			open			
+ref/arc-monk/karmic-monk	archetype	5	replaces	The slow fall improvement; it remains at 70 feet	no-heading			open			
+ref/arc-monk/karmic-monk	archetype	6	alters	Alignment requirement	no-heading			open			
+ref/arc-monk/master-of-many-styles	archetype	1	replaces	Standard bonus feats	no-heading			open			
+ref/arc-monk/menhir-guardian	archetype	3	replaces	ki strike	no-heading			open			
+ref/arc-monk/menhir-guardian	archetype	7	alters	Alignment requirement	no-heading			open			
+ref/arc-monk/menhir-guardian	archetype	9	alters	Furry of blows	no-heading			open			
+ref/arc-monk/monk-of-the-empty-hand	archetype	1	replaces	Weapon proficiencies	no-heading			open			
+ref/arc-monk/ouat	archetype	2	replaces	and the greed and hatred dwarf racial traits	no-heading			open			
+ref/arc-monk/ouat	archetype	3	replaces	The defensive training	no-heading			open			
+ref/arc-monk/ouat	archetype	4	replaces	stonecunning	no-heading			open			
+ref/arc-monk/ouat	archetype	5	replaces	and weapon familiarity dwarf racial traits	no-heading			open			
+ref/arc-monk/qinggong-monk	archetype	1	replaces	The monk class abilities the qinggong monk gives up for a ki power	no-heading			open			
+ref/arc-monk/sage-counselor	archetype	2	replaces	The ability to spend ki to make an additional attack with a flurry of blows	no-heading			open			
+ref/arc-monk/sage-counselor	archetype	4	replaces	The ability to spend ki to increase his speed by 20 feet for 1 round	no-heading			open			
+ref/arc-monk/sage-counselor	archetype	7	alters	Ki pool	duplicate-feature	ki-pool		open			
+ref/arc-monk/scarred-monk	archetype	5	replaces	the ability to spend ki points to do anything other than what's described below	no-heading			open			
+ref/arc-monk/sin-monk	archetype	2	replaces	alters high jump	no-heading			open			
+ref/arc-monk/softstrike-monk	archetype	1	replaces	Weapon proficiency	no-heading			open			
+ref/arc-monk/sohei	archetype	3	replaces	increased unarmed damage	no-heading			open			
+ref/arc-monk/wildcat	archetype	4	replaces	All instances of slow fall	no-heading			open			
+ref/arc-monk/windstep-master	archetype	3	replaces	The ability to spend ki to increase his base speed	no-heading			open			
+ref/arc-monk/zen-archer	archetype	1	replaces	The monk's normal bonus feats	no-heading			open			
+ref/arc-ninja/frozen-shadow	archetype	1	replaces	Ability to treat Acrobatics jump checks as if he had a running start	no-heading			open			
+ref/arc-ninja/frozen-shadow	archetype	2	replaces	ability to reduce Acrobatics jump checks by half	no-heading			open			
+ref/arc-ninja/mask-of-the-living-god	archetype	2	replaces	Spend ki to make an additional attack	no-heading			open			
+ref/arc-occultist/battle-host	archetype	10	alters	spellcasting	no-heading			open			
+ref/arc-occultist/curator	archetype	1	replaces	One of the two occultist implements learned at 1st level, 6th- and 14th-level implements	no-heading			open			
+ref/arc-occultist/curator	archetype	4	replaces	Outsider contact	no-heading			open			
+ref/arc-occultist/extemporaneous-channeler	archetype	5	alters	Weapon proficiencies	no-heading			open			
+ref/arc-occultist/occult-historian	archetype	4	replaces	Outside contact 2, 3, and 4	unusable-qualifier			open			
+ref/arc-occultist/planar-harmonizer	archetype	2	replaces	Shift focus, 7th-level focus power	no-heading		shift-focus aura-sight	open			
+ref/arc-occultist/planar-harmonizer	archetype	3	replaces	Aura sight, 5th-level focus power	no-heading		shift-focus aura-sight	open			
+ref/arc-occultist/shair	archetype	6	alters	spellcasting	no-heading			open			
+ref/arc-occultist/silksworn	archetype	9	alters	Implements	duplicate-feature	implements		open			
+ref/arc-occultist/talisman-crafter	archetype	4	replaces	Aura sight, 5th- and 17th-level focus powers	no-heading		aura-sight	open			
+ref/arc-occultist/tome-eater	archetype	1	replaces	Shift focus, 6th-level implement	no-heading		shift-focus	open			
+ref/arc-occultist/tome-eater	archetype	9	alters	spellcasting	no-heading			open			
+ref/arc-oracle/ancient-lorekeeper	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/ancient-lorekeeper	archetype	2	replaces	Bonus spells gained from the oracle's mystery	no-heading			open			
+ref/arc-oracle/community-guardian	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/community-guardian	archetype	2	replaces	The bonus spells gained at 2nd, 4th, 6th, 10th, and 12th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/cyclopean-seer	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/cyclopean-seer	archetype	5	alters	Bonus spells granted by the oracle's mystery	no-heading			open			
+ref/arc-oracle/divine-numerologist	archetype	1	replaces	The bonus spells gained at 10th, 12th, 14th, 16th, and 18th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/dual-cursed-oracle	archetype	1	replaces	The bonus spells gained at 2nd, 4th, and 6th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/elementalist-oracle	archetype	1	replaces	The bonus spells gained at 4th, 6th, 8th, 10th, 12th and 18th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/enlightened-philosopher	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/enlightened-philosopher	archetype	2	replaces	All bonus spells gained from the oracle's mystery after 2nd level	no-heading			open			
+ref/arc-oracle/hermit	archetype	1	replaces	The bonus spells gained at 4th, 8th, 12th, and 16th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/inerrant-voice	archetype	1	replaces	The bonus spells gained at 2nd, 4th, 8th, and 14th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/keleshite-prophet	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/keleshite-prophet	archetype	2	replaces	The bonus spells gained at 6th, 10th, 12th, 16th, and 18th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/oceans-echo	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/oceans-echo	archetype	2	replaces	The bonus spells gained at 4th, 8th, 10th, 12th, and 14th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/pei-zin-practitioner	archetype	1	replaces	Class skills gained from the oracle's mystery	no-heading			open			
+ref/arc-oracle/planar-oracle	archetype	1	replaces	All bonus spells from the oracle's mystery	no-heading			open			
+ref/arc-oracle/possessed-oracle	archetype	1	replaces	The bonus spells gained at 1st, 4th, 6th, 8th, 10th, 12th, and 16th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/psychic-searcher	archetype	1	replaces	The bonus spells gained at 4th, 6th, 8th, 12th, 16th, and 18th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/psychic-searcher	archetype	2	replaces	Mystery spell gained at 2nd level	no-heading			open			
+ref/arc-oracle/psychic-searcher	archetype	4	alters	Revelations gained after 3rd level	no-heading			open			
+ref/arc-oracle/purifier	archetype	1	replaces	All bonus spells from the oracle's mystery	no-heading			open			
+ref/arc-oracle/purifier	archetype	2	replaces	Revelations from her mystery gained at 3rd, 7th, and 11th levels	no-heading			open			
+ref/arc-oracle/reincarnated-oracle	archetype	1	replaces	The bonus spells gained at 2nd, 4th, 10th, 16th, and 18th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/river-soul	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/river-soul	archetype	2	replaces	The bonus spells gained at 2nd, 6th, 8th, 10th, and 18th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/seeker	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/seer	archetype	1	replaces	Bonus spells granted by the oracle's mystery after 2nd level	no-heading			open			
+ref/arc-oracle/shigenjo	archetype	1	replaces	The bonus spells gained at 2nd, 4th, 8th, 12th, 14th, and 16th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/spirit-guide	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/stargazer	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/stargazer	archetype	2	replaces	The bonus spells gained at 2nd, 4th, 6th, 8th, and 18th levels from the oracle's mystery	no-heading			open			
+ref/arc-oracle/tree-soul	archetype	1	replaces	Bonus skills from the oracle's mystery	no-heading			open			
+ref/arc-oracle/tree-soul	archetype	2	replaces	The bonus spells gained at 2nd, 10th, 12th, 14th, 16th, and 18th levels from the oracle's mystery	no-heading			open			
+ref/arc-paladin/champion-of-the-cascade	archetype	4	alters	Armor proficiency	no-heading			open			
+ref/arc-paladin/divine-hunter	archetype	1	replaces	Heavy Armor Proficiency	no-heading			open			
+ref/arc-paladin/faithful-wanderer	archetype	6	alters	Skills per level	no-heading			open			
+ref/arc-paladin/gray-paladin	archetype	3	replaces	Code of conduct and associated abilities	no-heading			open			
+ref/arc-paladin/gray-paladin	archetype	7	alters	Alignment restrictions	no-heading			open			
+ref/arc-paladin/gray-paladin	archetype	13	alters	Smite evil	duplicate-feature	smite-evil		open			
+ref/arc-paladin/hunting-paladin	archetype	1	replaces	1st-level use of smite evil	no-heading			open			
+ref/arc-paladin/hunting-paladin	archetype	3	alters	Armor proficiencies	no-heading			open			
+ref/arc-paladin/iroran-paladin	archetype	1	replaces	Proficiency with medium armor	no-heading			open			
+ref/arc-paladin/iroran-paladin	archetype	2	replaces	heavy armor	no-heading			open			
+ref/arc-paladin/iroran-paladin	archetype	3	replaces	and shields	no-heading			open			
+ref/arc-paladin/knight-of-coins	archetype	3	alters	Skill ranks per level	no-heading			open			
+ref/arc-paladin/pearl-seeker	archetype	5	alters	Armor proficiency	no-heading			open			
+ref/arc-paladin/silver-champion	archetype	7	alters	Spellcasting	no-heading			open			
+ref/arc-paladin/stonelord	archetype	3	replaces	Divine health, 3rd-, 9th-, and 15th-level mercies	no-heading		divine-health	open			
+ref/arc-paladin/tempered-champion	archetype	1	replaces	Spellcasting	no-heading			open			
+ref/arc-paladin/tortured-crusader	archetype	4	alters	Spellcasting	no-heading			open			
+ref/arc-paladin/tortured-crusader	archetype	7	alters	Class skills	no-heading			open			
+ref/arc-paladin/tortured-crusader	archetype	8	alters	skill ranks per level	no-heading			open			
+ref/arc-paladin/tortured-crusader	archetype	9	alters	Smite evil	duplicate-feature	smite-evil		open			
+ref/arc-paladin/tortured-crusader	archetype	10	alters	Lay on hands	duplicate-feature	lay-on-hands		open			
+ref/arc-paladin/tortured-crusader	archetype	17	alters	Lay on hands	duplicate-feature	lay-on-hands		open			
+ref/arc-paladin/vindictive-bastard	archetype	13	alters	Aura	no-heading			open			
+ref/arc-paladin/virtuous-bravo	archetype	2	replaces	Spellcasting	no-heading			open			
+ref/arc-paladin/virtuous-bravo	archetype	5	alters	Armor proficiency	no-heading			open			
+ref/arc-psychic/amnesiac	archetype	1	alters	Spellcasting	no-heading			open			
+ref/arc-psychic/esoteric-starseeker	archetype	1	replaces	Discipline spells, 1st- and 11th-level phrenic amplifications	no-heading			open			
+ref/arc-psychic/formless-adept	archetype	2	replaces	discipline powers	no-heading			open			
+ref/arc-psychic/formless-adept	archetype	4	replaces	Discipline spells	no-heading			open			
+ref/arc-psychic/magaambyan-telepath	archetype	1	replaces	Discipline spells	no-heading			open			
+ref/arc-psychic/psychic-duelist	archetype	1	replaces	4th-level discipline spell	no-heading			open			
+ref/arc-psychic/terror-weaver	archetype	2	replaces	Telepathic bond, 11th- and 19th-level phrenic amplifications	no-heading		telepathic-bond	open			
+ref/arc-ranger/battle-scout	archetype	1	replaces	2nd favored enemy	ordinal-is-not-a-level			open			
+ref/arc-ranger/battle-scout	archetype	2	replaces	3rd favored enemy	ordinal-is-not-a-level			open			
+ref/arc-ranger/battle-scout	archetype	3	replaces	4th favored enemy	ordinal-is-not-a-level			open			
+ref/arc-ranger/blightwarden	archetype	2	replaces	1st favored terrain	ordinal-is-not-a-level			open			
+ref/arc-ranger/cinderwalker	archetype	1	replaces	1st favored terrain	ordinal-is-not-a-level			open			
+ref/arc-ranger/dandy	archetype	6	alters	Spellcasting	no-heading			open			
+ref/arc-ranger/drake-warden	archetype	1	replaces	Hunter's bond, 2nd favored enemy	no-heading		hunter-s-bond	open			
+ref/arc-ranger/groom	archetype	3	replaces	1st favored terrain	ordinal-is-not-a-level			open			
+ref/arc-ranger/ilsurian-archer	archetype	3	replaces	Spellcasting ability	no-heading			open			
+ref/arc-ranger/ilsurian-archer	archetype	4	replaces	Swift tracking	no-heading			open			
+ref/arc-ranger/ilsurian-archer	archetype	7	alters	Combat style	no-heading			open			
+ref/arc-ranger/raven-master	archetype	6	alters	Spellcasting	no-heading			open			
+ref/arc-ranger/sable-company-marine	archetype	1	replaces	Hunter's bond (but see text)	unusable-qualifier			open			
+ref/arc-ranger/skirmisher	archetype	1	replaces	Spellcasting ability	no-heading			open			
+ref/arc-ranger/stormwalker	archetype	6	alters	Combat style	no-heading			open			
+ref/arc-ranger/tidal-hunter	archetype	1	replaces	Wild empathy, 6th-level combat style feat	no-heading		wild-empathy	open			
+ref/arc-ranger/trapper	archetype	1	replaces	Spellcasting ability	no-heading			open			
+ref/arc-ranger/trophy-hunter	archetype	2	replaces	All combat style feats	no-heading			open			
+ref/arc-ranger/warden	archetype	1	replaces	1st favored enemy	ordinal-is-not-a-level			open			
+ref/arc-ranger/warden	archetype	2	replaces	All combat style feats	no-heading			open			
+ref/arc-ranger/warden	archetype	4	replaces	2nd, 3rd, and 4th favored enemies	ordinal-is-not-a-level			open			
+ref/arc-ranger/warden	archetype	5	replaces	5th favored enemy	ordinal-is-not-a-level			open			
+ref/arc-ranger/wave-warden	archetype	2	replaces	All combat style bonus feats	no-heading			open			
+ref/arc-ranger/wild-stalker	archetype	1	replaces	1st favored enemy	ordinal-is-not-a-level			open			
+ref/arc-ranger/wild-stalker	archetype	4	replaces	2nd, 3rd, 4th, and 5th favored enemy	ordinal-is-not-a-level			open			
+ref/arc-ranger/wilderness-explorer	archetype	7	alters	Favored terrain	duplicate-feature	favored-terrain		open			
+ref/arc-ranger/wilderness-explorer	archetype	8	alters	Favored terrain	duplicate-feature	favored-terrain		open			
+ref/arc-rogue/consigliere	archetype	6	replaces	Rogue talent normally gained at 10th level	no-heading			open			
+ref/arc-rogue/discretion-specialist	archetype	2	replaces	Trap sense (for a core rogue)	unusable-qualifier			open			
+ref/arc-rogue/discretion-specialist	archetype	3	replaces	danger sense (for an unchained rogue)	no-heading			open			
+ref/arc-rogue/eldritch-scoundrel	archetype	2	alters	Armor proficiencies	no-heading			open			
+ref/arc-rogue/eldritch-scoundrel	archetype	3	alters	Skills	no-heading			open			
+ref/arc-rogue/eldritch-scoundrel	archetype	4	alters	Sneak attack progression	no-heading			open			
+ref/arc-rogue/eldritch-scoundrel	archetype	5	alters	Rogue talent progression	no-heading			open			
+ref/arc-rogue/filcher	archetype	2	replaces	Trap sense +1, +2, +3, +4, +5, and +6	unusable-qualifier			open			
+ref/arc-rogue/guild-agent	archetype	3	replaces	Improved evasion	no-heading			open			
+ref/arc-rogue/gun-smuggler	archetype	1	replaces	Weapon proficiencies	no-heading			open			
+ref/arc-rogue/phantom-thief	archetype	1	replaces	Debilitating injury	no-heading			open			
+ref/arc-rogue/phantom-thief	archetype	6	alters	Rogue's edge (unchained rogue only)	no-heading			open			
+ref/arc-rogue/skulking-slayer	archetype	2	replaces	Trap sense +1 and +4	unusable-qualifier			open			
+ref/arc-rogue/snare-setter	archetype	1	replaces	Sneak attack (but see below)	unusable-qualifier			open			
+ref/arc-rogue/swamp-poisoner	archetype	3	replaces	Trap sense (core rogue)	unusable-qualifier			open			
+ref/arc-rogue/swamp-poisoner	archetype	4	replaces	danger sense (unchained rogue)	no-heading			open			
+ref/arc-rogue/tidal-trickster	archetype	3	replaces	Uncanny dodge, 4th-level rogue talent	no-heading		uncanny-dodge improved-uncanny-dodge	open			
+ref/arc-rogue/tidal-trickster	archetype	4	replaces	Improved uncanny dodge, 8th-level rogue talent	no-heading		uncanny-dodge improved-uncanny-dodge	open			
+ref/arc-rogue/toxic-talon	archetype	5	alters	Weapon proficiencies	no-heading			open			
+ref/arc-samurai/sword-saint	archetype	2	replaces	Mounted charge	no-heading			open			
+ref/arc-samurai/warrior-poet	archetype	1	replaces	Proficiency with medium armor	no-heading			open			
+ref/arc-samurai/warrior-poet	archetype	2	replaces	heavy armor	no-heading			open			
+ref/arc-samurai/warrior-poet	archetype	3	replaces	and shields	no-heading			open			
+ref/arc-samurai/warrior-poet	archetype	10	replaces	Bonus combat feats	no-heading			open			
+ref/arc-shaman/animist	archetype	1	replaces	Spirit magic spells gained from the shaman's spirit	no-heading			open			
+ref/arc-shaman/benefactor	archetype	1	alters	Spellcasting	no-heading			open			
+ref/arc-shaman/deep-shaman	archetype	1	replaces	Elemental form of the true spirit ability	no-heading			open			
+ref/arc-shaman/deep-shaman	archetype	5	alters	Spirit ability	no-heading			open			
+ref/arc-shaman/deep-shaman	archetype	6	alters	greater spirit ability	no-heading			open			
+ref/arc-shaman/grasping-vine	archetype	1	replaces	Spirit magic spells granted by the shaman's spirit	no-heading			open			
+ref/arc-shaman/name-keeper	archetype	2	replaces	Spirit magic spells gained from the shaman's spirit	no-heading			open			
+ref/arc-shaman/overseer	archetype	1	replaces	Spirit magic spells gained from the shaman's spirit	no-heading			open			
+ref/arc-shaman/overseer	archetype	2	alters	Deliver touch spells spirit animal ability	no-heading			open			
+ref/arc-shaman/primal-warden	archetype	1	replaces	Abilities the spirit animal gains from the shaman's chosen spirit	no-heading			open			
+ref/arc-shaman/speaker-for-the-past	archetype	1	replaces	Familiar	no-heading			open			
+ref/arc-shaman/spirit-warden	archetype	1	replaces	Spirit magic spells gained from the shaman's spirit	no-heading			open			
+ref/arc-shaman/visionary	archetype	2	replaces	Spirit magic spells gained from the shaman's wandering spirit	no-heading			open			
+ref/arc-shaman/visionary	archetype	4	replaces	Greater version of wandering spirit gained at 12th level	no-heading			open			
+ref/arc-shaman/visionary	archetype	5	replaces	true version of wandering spirit gained at 20th level	no-heading			open			
+ref/arc-shifter/elementalist-shifter	archetype	5	alters	Languages	no-heading			open			
+ref/arc-shifter/feyform-shifter	archetype	1	replaces	Shifter aspect and all improvements to it	no-heading			open			
+ref/arc-shifter/fiendflesh-shifter	archetype	6	alters	Alignment	no-heading			open			
+ref/arc-shifter/rageshaper	archetype	8	alters	Alignment	no-heading			open			
+ref/arc-shifter/style-shifter	archetype	5	alters	Armor proficiencies	no-heading			open			
+ref/arc-shifter/verdant-shifter	archetype	4	replaces	Chimeric form	no-heading			open			
+ref/arc-shifter/verdant-shifter	archetype	5	replaces	greater chimeric form	no-heading			open			
+ref/arc-skald/augur	archetype	2	replaces	All types of versatile performance	no-heading			open			
+ref/arc-skald/belkzen-war-drummer	archetype	4	replaces	7th-level versatile performance gained benefit	no-heading			open			
+ref/arc-skald/fated-champion	archetype	2	replaces	Dirge of doom raging song	no-heading			open			
+ref/arc-skald/herald-of-the-horn	archetype	2	replaces	The first daily use of spell kenning gained at 5th level	no-heading			open			
+ref/arc-skald/herald-of-the-horn	archetype	4	replaces	The second and third daily uses of spell kenning gained at 11th and 17th levels	no-heading			open			
+ref/arc-skald/red-tongue	archetype	2	replaces	Versatile performance selections normally gained at 7th, 12th, and 17th levels	no-heading			open			
+ref/arc-skald/warlord	archetype	1	replaces	Scribe Scroll feat	no-heading			open			
+ref/arc-slayer/bloody-jake	archetype	1	replaces	Proficiency in medium armor and shields	no-heading			open			
+ref/arc-slayer/dune-rider	archetype	2	replaces	fast tracker	no-heading			open			
+ref/arc-slayer/pureblade	archetype	2	replaces	Slayer talent received at 2nd level	no-heading			open			
+ref/arc-slayer/pureblade	archetype	4	replaces	Slayer talent received at 8th level	no-heading			open			
+ref/arc-slayer/sczarni-executioner	archetype	5	alters	Slayer talent received at 4th level	no-heading			open			
+ref/arc-slayer/sczarni-executioner	archetype	6	alters	Slayer talent received at 10th level	no-heading			open			
+ref/arc-slayer/spawn-slayer	archetype	1	replaces	The ability to study an opponent as a swift action at 7th level	no-heading			open			
+ref/arc-slayer/stygian-slayer	archetype	1	replaces	Armor proficiency	no-heading			open			
+ref/arc-slayer/velvet-blade	archetype	3	alters	Armor proficiency	no-heading			open			
+ref/arc-sorcerer/bloodline-familiars	archetype	1	replaces	1st-level bloodline power	no-heading			open			
+ref/arc-sorcerer/dragon-drinker	archetype	1	replaces	Bloodline arcana	no-heading			open			
+ref/arc-sorcerer/dragon-drinker	archetype	2	replaces	1st-level bloodline power	no-heading			open			
+ref/arc-sorcerer/dragon-drinker	archetype	3	replaces	7th-level bloodline feat	no-heading			open			
+ref/arc-sorcerer/dragon-drinker	archetype	4	replaces	13th-level bloodline feat	no-heading			open			
+ref/arc-sorcerer/dragon-drinker	archetype	5	replaces	19th-level bloodline feat	no-heading			open			
+ref/arc-sorcerer/eldritch-scrapper	archetype	1	replaces	Bloodline powers gained at 1st, 9th, and 15th level	no-heading			open			
+ref/arc-sorcerer/mongrel-mage	archetype	1	replaces	Bloodline feats gained at 7th, 13th, and 19th level	no-heading			open			
+ref/arc-sorcerer/mongrel-mage	archetype	3	alters	bloodline powers	no-heading			open			
+ref/arc-sorcerer/mongrel-mage	archetype	4	alters	bloodline spells	no-heading			open			
+ref/arc-sorcerer/nine-tailed-heir	archetype	1	replaces	Bloodline spell	no-heading			open			
+ref/arc-sorcerer/razmiran-priest	archetype	1	replaces	Eschew Materials bonus feat	no-heading			open			
+ref/arc-sorcerer/razmiran-priest	archetype	2	replaces	Bloodline spells gained at 3rd level and 5th level	no-heading			open			
+ref/arc-sorcerer/razmiran-priest	archetype	3	replaces	9th-level bloodline power	no-heading			open			
+ref/arc-sorcerer/seeker	archetype	2	replaces	3rd-level bloodline power	no-heading			open			
+ref/arc-sorcerer/seeker	archetype	3	replaces	15th-level bloodline power	no-heading			open			
+ref/arc-sorcerer/sorcerer-of-sleep	archetype	1	replaces	Bloodline arcana	no-heading			open			
+ref/arc-sorcerer/sorcerer-of-sleep	archetype	3	replaces	1st-level bloodline power	no-heading			open			
+ref/arc-sorcerer/stone-warder	archetype	1	replaces	Eschew Materials, 3rd-level bloodline spell, 7th-level bloodline feat	no-heading		eschew-materials	open			
+ref/arc-sorcerer/tattooed-sorcerer	archetype	1	replaces	1st-level bloodline power	no-heading			open			
+ref/arc-sorcerer/tattooed-sorcerer	archetype	2	replaces	Eschew Materials bonus feat	no-heading			open			
+ref/arc-sorcerer/tattooed-sorcerer	archetype	3	replaces	7th-level bloodline feat	no-heading			open			
+ref/arc-sorcerer/tattooed-sorcerer	archetype	4	replaces	9th-level bloodline power	no-heading			open			
+ref/arc-sorcerer/umbral-scion	archetype	1	replaces	1st-level bloodline power	no-heading			open			
+ref/arc-sorcerer/umbral-scion	archetype	2	replaces	7th-level bloodline feat	no-heading			open			
+ref/arc-sorcerer/umbral-scion	archetype	3	replaces	13th-level bloodline feat	no-heading			open			
+ref/arc-sorcerer/umbral-scion	archetype	4	alters	Spellcasting	no-heading			open			
+ref/arc-sorcerer/wishcrafter	archetype	1	replaces	Bloodline arcana	no-heading			open			
+ref/arc-sorcerer/wishcrafter	archetype	2	replaces	All bloodline spells	no-heading			open			
+ref/arc-sorcerer/wishcrafter	archetype	3	replaces	7th-level bloodline feat	no-heading			open			
+ref/arc-sorcerer/wishcrafter	archetype	4	replaces	13th-level bloodline feat	no-heading			open			
+ref/arc-sorcerer/wishcrafter	archetype	5	replaces	19th-level bloodline feat	no-heading			open			
+ref/arc-spiritualist/exciter	archetype	2	replaces	Ability to manifest his phantom	no-heading			open			
+ref/arc-spiritualist/exciter	archetype	3	replaces	ability to use emotional focus abilities that require a manifested phantom	no-heading			open			
+ref/arc-spiritualist/exciter	archetype	12	alters	emotional focus	no-heading			open			
+ref/arc-spiritualist/fated-guide	archetype	1	replaces	Phantom's antagonistic ability	no-heading			open			
+ref/arc-spiritualist/fractured-mind	archetype	5	alters	Spellcasting	no-heading			open			
+ref/arc-spiritualist/geist-channeler	archetype	1	replaces	The phantom's emotional focus	no-heading			open			
+ref/arc-spiritualist/geist-channeler	archetype	4	alters	Phantom	duplicate-feature	phantom		open			
+ref/arc-spiritualist/grim-apostle	archetype	1	replaces	The phantom's emotional focus	no-heading			open			
+ref/arc-spiritualist/involutionist	archetype	1	replaces	Phantom's emotional focus	no-heading			open			
+ref/arc-spiritualist/involutionist	archetype	3	replaces	Additional uses of calm spirit available at 11th, 15th, and 19th levels	no-heading			open			
+ref/arc-spiritualist/involutionist	archetype	4	alters	Spellcasting	no-heading			open			
+ref/arc-spiritualist/necrologist	archetype	1	replaces	Slam damage increase gained at 5th level	no-heading			open			
+ref/arc-spiritualist/necrologist	archetype	2	replaces	Devotion	no-heading			open			
+ref/arc-spiritualist/necrologist	archetype	3	replaces	Slam damage increase gained at 13th level	no-heading			open			
+ref/arc-spiritualist/necrologist	archetype	6	alters	Alignment	no-heading			open			
+ref/arc-spiritualist/necrologist	archetype	9	alters	Share spells	no-heading			open			
+ref/arc-spiritualist/onmyoji	archetype	5	alters	Spellcasting	no-heading			open			
+ref/arc-spiritualist/phantom-blade	archetype	13	alters	Weapon	no-heading			open			
+ref/arc-spiritualist/phantom-blade	archetype	14	alters	armor proficiency	no-heading			open			
+ref/arc-spiritualist/scourge	archetype	2	replaces	Devotion	no-heading			open			
+ref/arc-spiritualist/shadow-caller	archetype	7	alters	Spellcasting	no-heading			open			
+ref/arc-spiritualist/soul-warden	archetype	8	replaces	Bonded manifestation increases	no-heading			open			
+ref/arc-spiritualist/ward-spiritualist	archetype	5	alters	Spellcasting	no-heading			open			
+ref/arc-summoner/blood-god-disciple	archetype	2	replaces	III	no-heading			open			
+ref/arc-summoner/blood-god-disciple	archetype	3	replaces	V	no-heading			open			
+ref/arc-summoner/blood-god-disciple	archetype	4	replaces	VII	no-heading			open			
+ref/arc-summoner/blood-god-disciple	archetype	5	replaces	and IX	no-heading			open			
+ref/arc-summoner/blood-god-disciple	archetype	6	replaces	Summon monster II	no-heading			open			
+ref/arc-summoner/blood-god-disciple	archetype	7	replaces	Summon monster IV	no-heading			open			
+ref/arc-summoner/blood-god-disciple	archetype	8	replaces	Summon monster VI and VIII spell-like abilities	no-heading			open			
+ref/arc-summoner/counter-summoner	archetype	1	replaces	Summon monster	no-heading			open			
+ref/arc-summoner/first-worlder	archetype	1	replaces	Summon monster	no-heading			open			
+ref/arc-summoner/leshy-caller	archetype	1	alters	Summon monster	no-heading			open			
+ref/arc-summoner/morphic-savant	archetype	2	alters	Summon monster	no-heading			open			
+ref/arc-summoner/shadow-caller	archetype	1	replaces	Magical symbol that identifies the summoner and his eidolon	no-heading			open			
+ref/arc-summoner/spirit-summoner	archetype	1	replaces	Summon monster	no-heading			open			
+ref/arc-summoner/unwavering-conduit	archetype	2	alters	Summon monster	no-heading			open			
+ref/arc-summoner/wild-caller-arg	archetype	2	alters	Spell list of the summoner	no-heading			open			
+ref/arc-summoner/wild-caller-hotw	archetype	3	alters	Summon monster	no-heading			open			
+ref/arc-swashbuckler/arrow-champion	archetype	1	replaces	Opportune parry and riposte	no-heading			open			
+ref/arc-swashbuckler/arrow-champion	archetype	2	replaces	Swashbuckler initiative	no-heading			open			
+ref/arc-swashbuckler/arrow-champion	archetype	3	replaces	Superior feint	no-heading			open			
+ref/arc-swashbuckler/arrow-champion	archetype	6	alters	Precise strike	no-heading			open			
+ref/arc-swashbuckler/azatariel	archetype	1	replaces	Menacing swordplay	no-heading			open			
+ref/arc-swashbuckler/azatariel	archetype	2	replaces	Precise strike	no-heading			open			
+ref/arc-swashbuckler/azatariel	archetype	3	replaces	Targeted strike	no-heading			open			
+ref/arc-swashbuckler/azatariel	archetype	4	replaces	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/courser	archetype	1	replaces	Opportune parry and riposte	no-heading			open			
+ref/arc-swashbuckler/courser	archetype	3	replaces	Menacing swordplay	no-heading			open			
+ref/arc-swashbuckler/courser	archetype	4	replaces	Superior feint	no-heading			open			
+ref/arc-swashbuckler/courser	archetype	5	replaces	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/daring-infiltrator	archetype	2	replaces	Swashbuckler initiative	no-heading			open			
+ref/arc-swashbuckler/daring-infiltrator	archetype	3	replaces	Menacing swordplay	no-heading			open			
+ref/arc-swashbuckler/daring-infiltrator	archetype	4	replaces	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/dashing-thief	archetype	1	replaces	Regain panache from a killing blow	no-heading			open			
+ref/arc-swashbuckler/dashing-thief	archetype	3	replaces	Menacing swordplay	no-heading			open			
+ref/arc-swashbuckler/dashing-thief	archetype	4	replaces	Dizzying defense	no-heading			open			
+ref/arc-swashbuckler/dashing-thief	archetype	5	alters	Derring-do	no-heading			open			
+ref/arc-swashbuckler/dashing-thief	archetype	6	alters	swashbuckler's edge	no-heading			open			
+ref/arc-swashbuckler/flying-blade	archetype	1	replaces	Dodging panache	no-heading			open			
+ref/arc-swashbuckler/flying-blade	archetype	2	replaces	Kip-up	no-heading			open			
+ref/arc-swashbuckler/flying-blade	archetype	3	replaces	Menacing swordplay	no-heading			open			
+ref/arc-swashbuckler/flying-blade	archetype	4	replaces	Targeted strike	no-heading			open			
+ref/arc-swashbuckler/flying-blade	archetype	5	replaces	Perfect thrust	no-heading			open			
+ref/arc-swashbuckler/flying-blade	archetype	9	alters	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/guiding-blade	archetype	1	replaces	Bonus feats, 1st-, 7th-, and 15th-level deeds	no-heading		bonus-feats	open			
+ref/arc-swashbuckler/guiding-blade	archetype	3	replaces	Kip-up	no-heading		bonus-feats	open			
+ref/arc-swashbuckler/inspired-blade	archetype	2	replaces	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/mouser	archetype	1	replaces	Opportune parry and riposte	no-heading			open			
+ref/arc-swashbuckler/mouser	archetype	2	replaces	Menacing swordplay	no-heading			open			
+ref/arc-swashbuckler/mouser	archetype	3	replaces	Targeted strike	no-heading			open			
+ref/arc-swashbuckler/mouser	archetype	4	replaces	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/musketeer	archetype	1	replaces	Weapon proficiencies	no-heading			open			
+ref/arc-swashbuckler/musketeer	archetype	3	replaces	Dodging panache	no-heading			open			
+ref/arc-swashbuckler/noble-fencer	archetype	1	replaces	Dodging panache	no-heading			open			
+ref/arc-swashbuckler/noble-fencer	archetype	2	replaces	Superior feint	no-heading			open			
+ref/arc-swashbuckler/noble-fencer	archetype	3	replaces	Subtle blade	no-heading			open			
+ref/arc-swashbuckler/okayo-corsair	archetype	3	replaces	Menacing swordplay	no-heading			open			
+ref/arc-swashbuckler/okayo-corsair	archetype	4	replaces	Superior feint	no-heading			open			
+ref/arc-swashbuckler/okayo-corsair	archetype	5	replaces	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/okayo-corsair	archetype	6	replaces	Dizzying defense	no-heading			open			
+ref/arc-swashbuckler/picaroon	archetype	1	replaces	Weapon proficiency	no-heading			open			
+ref/arc-swashbuckler/picaroon	archetype	2	replaces	Opportune parry and riposte	no-heading			open			
+ref/arc-swashbuckler/picaroon	archetype	3	replaces	Kip-up	no-heading			open			
+ref/arc-swashbuckler/picaroon	archetype	4	replaces	Superior feint	no-heading			open			
+ref/arc-swashbuckler/picaroon	archetype	5	replaces	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/rondelero-swashbuckler	archetype	1	replaces	Derring-do	no-heading			open			
+ref/arc-swashbuckler/rondelero-swashbuckler	archetype	2	replaces	Kip-up	no-heading			open			
+ref/arc-swashbuckler/rondelero-swashbuckler	archetype	3	replaces	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/rondelero-swashbuckler	archetype	4	replaces	Perfect thrust	no-heading			open			
+ref/arc-swashbuckler/rostland-bravo	archetype	1	replaces	Menacing swordplay	no-heading			open			
+ref/arc-swashbuckler/rostland-bravo	archetype	2	replaces	Superior feint	no-heading			open			
+ref/arc-swashbuckler/rostland-bravo	archetype	3	replaces	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/rostland-bravo	archetype	4	replaces	Swashbuckler's edge	no-heading			open			
+ref/arc-swashbuckler/rostland-bravo	archetype	5	alters	Armor proficiencies	no-heading			open			
+ref/arc-swashbuckler/shackles-corsair	archetype	2	replaces	Swashbuckler initiative	no-heading			open			
+ref/arc-swashbuckler/shackles-corsair	archetype	3	replaces	Targeted strike	no-heading			open			
+ref/arc-swashbuckler/veiled-blade	archetype	1	replaces	Opportune parry and riposte	no-heading			open			
+ref/arc-swashbuckler/veiled-blade	archetype	2	replaces	Menacing swordplay	no-heading			open			
+ref/arc-swashbuckler/veiled-blade	archetype	3	replaces	Swashbuckler's grace	no-heading			open			
+ref/arc-swashbuckler/veiled-blade	archetype	4	replaces	Swashbuckler's edge	no-heading			open			
+ref/arc-swashbuckler/whirling-dervish	archetype	1	replaces	Superior feint	no-heading			open			
+ref/arc-swashbuckler/whirling-dervish	archetype	2	replaces	targeted strike	no-heading			open			
+ref/arc-swashbuckler/whirling-dervish	archetype	3	replaces	Bleeding wound	no-heading			open			
+ref/arc-swashbuckler/whirling-dervish	archetype	4	replaces	Deadly stab	no-heading			open			
+ref/arc-swashbuckler/wildstrider	archetype	1	replaces	Dodging panache	no-heading			open			
+ref/arc-swashbuckler/wildstrider	archetype	2	replaces	Kip-up	no-heading			open			
+ref/arc-swashbuckler/wildstrider	archetype	3	replaces	Subtle blade	no-heading			open			
+ref/arc-swashbuckler/wildstrider	archetype	4	alters	Derring-do	no-heading			open			
+ref/arc-swashbuckler/wildstrider	archetype	5	alters	swashbuckler's edge	no-heading			open			
+ref/arc-unchained-summoner/devil-binder	archetype	9	replaces	eidolon's devotion ability	no-heading			open			
+ref/arc-unchained-summoner/devil-impostor	archetype	6	alters	Summon monster	no-heading			open			
+ref/arc-unchained-summoner/fey-caller	archetype	1	alters	Summon monster	no-heading			open			
+ref/arc-unchained-summoner/leshy-caller	archetype	1	alters	Summon monster	no-heading			open			
+ref/arc-unchained-summoner/morphic-savant	archetype	2	alters	Summon monster	no-heading			open			
+ref/arc-vigilante/avenging-beast	archetype	6	alters	Skill ranks per level	no-heading			open			
+ref/arc-vigilante/brute	archetype	4	alters	Base saving throws	no-heading			open			
+ref/arc-vigilante/cabalist	archetype	6	alters	Skill ranks per level	no-heading			open			
+ref/arc-vigilante/magical-child	archetype	3	alters	Skill ranks per level	no-heading			open			
+ref/arc-vigilante/serial-killer	archetype	2	replaces	4th- and 14th-level vigilante talents, 9th- and 19th-level social talents	no-heading			open			
+ref/arc-vigilante/warlock	archetype	4	alters	Skill ranks per level	no-heading			open			
+ref/arc-vigilante/warlock	archetype	5	alters	Armor proficiencies	no-heading			open			
+ref/arc-vigilante/zealot	archetype	3	alters	Weapon proficiencies	no-heading			open			
+ref/arc-warpriest/forgepriest	archetype	1	replaces	2nd blessing normally gained by a warpriest	no-heading			open			
+ref/arc-warpriest/jistkan-magistrate	archetype	4	alters	Channel	no-heading			open			
+ref/arc-warpriest/proclaimer	archetype	3	alters	Spellcasting	no-heading			open			
+ref/arc-warpriest/proselytizer	archetype	1	replaces	Sacred armor, 3rd-level bonus feat	no-heading		sacred-armor	open			
+ref/arc-witch/alley-witch	archetype	3	alters	Patron	no-heading			open			
+ref/arc-witch/ashiftah	archetype	1	replaces	Familiar	no-heading			open			
+ref/arc-witch/bonded-witch	archetype	1	replaces	Familiar	no-heading			open			
+ref/arc-witch/bouda	archetype	1	replaces	Familiar	no-heading			open			
+ref/arc-witch/cartomancer	archetype	1	replaces	Familiar	no-heading			open			
+ref/arc-witch/coral-witch	archetype	2	alters	Familiar	no-heading			open			
+ref/arc-witch/gingerbread-witch	archetype	6	alters	Familiar	no-heading			open			
+ref/arc-witch/gravewalker	archetype	1	replaces	Familiar	no-heading			open			
+ref/arc-witch/havocker	archetype	2	replaces	All 2nd-level and higher hexes	no-heading			open			
+ref/arc-witch/havocker	archetype	5	alters	Familiar	no-heading			open			
+ref/arc-witch/herb-witch	archetype	2	alters	Patron	no-heading			open			
+ref/arc-witch/ley-line-guardian	archetype	1	replaces	Familiar, 1st- and 8th-level hexes	no-heading			open			
+ref/arc-witch/ley-line-guardian	archetype	2	alters	Spellcasting	no-heading			open			
+ref/arc-witch/mirror-witch	archetype	1	replaces	Familiar	no-heading			open			
+ref/arc-witch/nexian-spellspy	archetype	1	replaces	Familiar's ability to deliver touch spells	no-heading			open			
+ref/arc-witch/nexian-spellspy	archetype	3	alters	Familiar	no-heading			open			
+ref/arc-witch/pact-witch	archetype	1	replaces	Patron	no-heading			open			
+ref/arc-witch/pact-witch	archetype	3	alters	Familiar	no-heading			open			
+ref/arc-witch/putrefactor	archetype	5	alters	Familiar	no-heading			open			
+ref/arc-witch/putrefactor	archetype	6	alters	patron	no-heading			open			
+ref/arc-witch/rhetorician	archetype	2	replaces	All spells granted by the witch's patron	no-heading			open			
+ref/arc-witch/scarred-witch-doctor	archetype	1	replaces	Familiar	no-heading			open			
+ref/arc-witch/season-witch	archetype	1	alters	Patron, 1st-level hex	no-heading			open			
+ref/arc-witch/tatterdemalion	archetype	3	alters	Weapon proficiencies	no-heading			open			
+ref/arc-witch/venom-siphoner	archetype	2	replaces	the familiar's alertness special ability	no-heading			open			
+ref/arc-witch/witch-watcher	archetype	1	alters	Spellcasting	no-heading			open			
+ref/arc-wizard/arcane-warden	archetype	1	replaces	Scribe Scroll, 5th-, 10th-, 15th-, and 20th-level bonus feats	no-heading		scribe-scroll	open			
+ref/arc-wizard/arcane-warden	archetype	2	replaces	Hand of the apprentice universalist school ability	no-heading		scribe-scroll	open			
+ref/arc-wizard/arcane-warden	archetype	3	replaces	Metamagic mastery universalist school ability	no-heading		scribe-scroll	open			
+ref/arc-wizard/chronomancer	archetype	1	replaces	Arcane bond, 10th-, 15th-, and 20th-level bonus feats	no-heading		arcane-bond	open			
+ref/arc-wizard/clocksmith	archetype	1	replaces	School powers granted by the wizard's arcane school	no-heading			open			
+ref/arc-wizard/cruoromancer	archetype	5	replaces	The 20th-level wizard bonus spell	no-heading			open			
+ref/arc-wizard/elder-mythos-scholar	archetype	3	replaces	The school ability gained at 8th level	no-heading			open			
+ref/arc-wizard/elder-mythos-scholar	archetype	5	alters	The 1st-level arcane school ability	no-heading			open			
+ref/arc-wizard/familiar-adept	archetype	1	replaces	Scribe scroll, 5th- and 10th-level bonus feats	no-heading		scribe-scroll	open			
+ref/arc-wizard/hallowed-necromancer	archetype	1	replaces	Grave touch necromancy school ability	no-heading			open			
+ref/arc-wizard/hallowed-necromancer	archetype	8	alters	Power over undead necromancy school ability	no-heading			open			
+ref/arc-wizard/pact-wizard-hhh	archetype	3	alters	Spellcasting	no-heading			open			
+ref/arc-wizard/scroll-scholar	archetype	1	replaces	Diviner's fortune (if a diviner) or hand of the apprentice (if a universalist)	no-heading			open			
+ref/arc-wizard/scroll-scholar	archetype	3	replaces	The normal addition of a new 4th-level spell slot; from this point on	no-heading			open			
+ref/arc-wizard/scroll-scholar	archetype	4	replaces	the wizard has one fewer 4th-level spell slot than other wizards	no-heading			open			
+ref/arc-wizard/spirit-whisperer	archetype	2	replaces	Arcane school, 20th-level bonus feat	no-heading		arcane-school	open			
+ref/arc-wizard/sword-binder	archetype	2	replaces	bonus school spell slots	no-heading			open			
+ref/arc-wizard/undead-master	archetype	5	alters	alignment	no-heading			open			
+ref/arc-wizard/worldseeker	archetype	2	replaces	The school ability normally gained at 6th or 8th level	no-heading			open			
+ref/domain/air	class_option	0	replaces	The electricity resistance power of the Air domain	variant-only			open			
+ref/domain/air	class_option	0	replaces	The electricity resistance power of the Air domain	variant-only			open			
+ref/domain/air	class_option	0	replaces	The lightning arc power of the Air domain	variant-only			open			
+ref/domain/animal	class_option	0	replaces	The speak with animals power of the Animal domain	variant-only			open			
+ref/domain/animal	class_option	0	replaces	The speak with animals power of the Animal domain	variant-only			open			
+ref/domain/animal	class_option	0	replaces	The speak with animals power of the Animal domain	variant-only			open			
+ref/domain/artifice	class_option	0	replaces	The artificer's touch power of the Artifice domain	variant-only			open			
+ref/domain/artifice	class_option	0	replaces	The dancing weapon power of the Artifice domain	variant-only			open			
+ref/domain/artifice	class_option	0	replaces	The dancing weapon power of the Artifice domain	variant-only			open			
+ref/domain/artifice	class_option	0	replaces	The dancing weapon power of the Artifice domain	variant-only			open			
+ref/domain/artifice	class_option	0	replaces	The dancing weapons power of the Artifice domain	variant-only			open			
+ref/domain/chaos	class_option	0	replaces	The touch of chaos power of the Chaos domain	variant-only			open			
+ref/domain/chaos	class_option	0	replaces	The touch of chaos ability of the Chaos domain	variant-only			open			
+ref/domain/chaos	class_option	0	replaces	The touch of chaos power of the Chaos domain	variant-only			open			
+ref/domain/chaos	class_option	0	replaces	The chaos blade power of the Chaos domain	variant-only			open			
+ref/domain/chaos	class_option	0	replaces	The chaos blade power of the Chaos domain	variant-only			open			
+ref/domain/chaos	class_option	0	replaces	The chaos blade ability of the Chaos domain	variant-only			open			
+ref/domain/chaos	class_option	0	replaces	The chaos blade power of the Chaos domain	variant-only			open			
+ref/domain/chaos	class_option	0	replaces	The chaos blade of the Chaos domain	variant-only			open			
+ref/domain/chaos	class_option	0	replaces	The touch of chaos domain power of the Chaos domain	variant-only			open			
+ref/domain/charm	class_option	0	replaces	The charming smile power of the Charm domain	variant-only			open			
+ref/domain/charm	class_option	0	replaces	The dazing touch power of the Charm domain	variant-only			open			
+ref/domain/charm	class_option	0	replaces	The charming smile power of the Charm domain	variant-only			open			
+ref/domain/community	class_option	0	replaces	The calming touch ability of the Community domain	variant-only			open			
+ref/domain/community	class_option	0	replaces	The unity power of the Community domain	variant-only			open			
+ref/domain/community	class_option	0	replaces	The calming touch power of the Community domain	variant-only			open			
+ref/domain/community	class_option	0	replaces	The unity power of the Community domain	variant-only			open			
+ref/domain/darkness	class_option	0	replaces	The eyes of darkness power of the Darkness domain	variant-only			open			
+ref/domain/darkness	class_option	0	replaces	The eyes of darkness power of the Darkness domain	variant-only			open			
+ref/domain/darkness	class_option	0	replaces	The touch of darkness power of the Darkness domain	variant-only			open			
+ref/domain/darkness	class_option	0	replaces	The touch of darkness ability of the Darkness domain	variant-only			open			
+ref/domain/death	class_option	0	replaces	The death's embrace power of the Death domain	variant-only			open			
+ref/domain/death	class_option	0	replaces	The death's embrace power of the Death domain	variant-only			open			
+ref/domain/death	class_option	0	replaces	The death's embrace ability of the Death domain	variant-only			open			
+ref/domain/death	class_option	0	replaces	The bleeding touch ability of the Death domain	variant-only			open			
+ref/domain/death	class_option	0	replaces	The bleeding touch power of the Death domain	variant-only			open			
+ref/domain/death	class_option	0	replaces	The bleeding touch domain power of the Death domain	variant-only			open			
+ref/domain/destruction	class_option	0	replaces	The destructive aura power of the Destruction domain	variant-only			open			
+ref/domain/destruction	class_option	0	replaces	The destructive aura ability of the Destruction domain	variant-only			open			
+ref/domain/destruction	class_option	0	replaces	The destructive aura power of the Destruction domain	variant-only			open			
+ref/domain/destruction	class_option	0	replaces	The destructive smite power of the Destruction domain	variant-only			open			
+ref/domain/earth	class_option	0	replaces	The acid resistance power of the Earth domain	variant-only			open			
+ref/domain/earth	class_option	0	replaces	The acid dart power of the Earth domain	variant-only			open			
+ref/domain/earth	class_option	0	replaces	The acid dart power of the Earth domain	variant-only			open			
+ref/domain/earth	class_option	0	replaces	The acid dart power of the Earth domain	variant-only			open			
+ref/domain/evil	class_option	0	replaces	The touch of evil ability of the Evil domain	variant-only			open			
+ref/domain/evil	class_option	0	replaces	The scythe of evil ability of the Evil domain	variant-only			open			
+ref/domain/evil	class_option	0	replaces	The scythe of evil power of the Evil domain	variant-only			open			
+ref/domain/evil	class_option	0	replaces	The touch of evil ability of the Evil domain	variant-only			open			
+ref/domain/evil	class_option	0	replaces	The touch of evil power of the Evil domain	variant-only			open			
+ref/domain/evil	class_option	0	replaces	The touch of evil power of the Evil domain	variant-only			open			
+ref/domain/evil	class_option	0	replaces	The scythe of evil power of the Evil domain	variant-only			open			
+ref/domain/evil	class_option	0	replaces	The scythe of evil ability of the Evil domain	variant-only			open			
+ref/domain/evil	class_option	0	replaces	The touch of evil power of the Evil domain	variant-only			open			
+ref/domain/evil	class_option	0	replaces	The touch of evil power of the Evil domain	variant-only			open			
+ref/domain/fire	class_option	0	replaces	The fire bolt power of the Fire domain	variant-only			open			
+ref/domain/fire	class_option	0	replaces	The fire resistance power of the Fire domain	variant-only			open			
+ref/domain/fire	class_option	0	replaces	The fire bolt power of the Fire domain	variant-only			open			
+ref/domain/glory	class_option	0	replaces	The touch of glory power of the Glory domain	variant-only			open			
+ref/domain/glory	class_option	0	replaces	The divine presence power of the Glory domain	variant-only			open			
+ref/domain/glory	class_option	0	replaces	The touch of glory power of the Glory domain	variant-only			open			
+ref/domain/glory	class_option	0	replaces	The channel boost ability of the Glory domain	variant-only			open			
+ref/domain/glory	class_option	0	replaces	The divine presence ability of the Glory domain	variant-only			open			
+ref/domain/glory	class_option	0	replaces	The channel boost ability of the Glory domain	variant-only			open			
+ref/domain/glory	class_option	0	replaces	The divine presence ability of the Glory domain	variant-only			open			
+ref/domain/good	class_option	0	replaces	The holy lance power of the Good domain	variant-only			open			
+ref/domain/good	class_option	0	replaces	The holy lance power of the Good domain	variant-only			open			
+ref/domain/good	class_option	0	replaces	The touch of good power of the Good domain	variant-only			open			
+ref/domain/good	class_option	0	replaces	The touch of good power of the Good domain	variant-only			open			
+ref/domain/good	class_option	0	replaces	The holy lance ability of the Good domain	variant-only			open			
+ref/domain/healing	class_option	0	replaces	The rebuke death power of the Healing domain	variant-only			open			
+ref/domain/healing	class_option	0	replaces	The rebuke death power of the Healing domain	variant-only			open			
+ref/domain/healing	class_option	0	replaces	The healer's blessing power of the Healing domain	variant-only			open			
+ref/domain/healing	class_option	0	replaces	The rebuke death domain power of the Healing domain	variant-only			open			
+ref/domain/knowledge	class_option	0	replaces	The remote viewing ability of the Knowledge domain	variant-only			open			
+ref/domain/knowledge	class_option	0	replaces	The remote viewing power of the Knowledge domain	variant-only			open			
+ref/domain/knowledge	class_option	0	replaces	The lore keeper power of the Knowledge domain	variant-only			open			
+ref/domain/knowledge	class_option	0	replaces	The lore keeper power of the Knowledge domain	variant-only			open			
+ref/domain/knowledge	class_option	0	replaces	The remote viewing power of the Knowledge domain	variant-only			open			
+ref/domain/law	class_option	0	replaces	The staff of order power of the Law domain	variant-only			open			
+ref/domain/law	class_option	0	replaces	The touch of law power of the Law domain	variant-only			open			
+ref/domain/law	class_option	0	replaces	The touch of law power of the Law domain	variant-only			open			
+ref/domain/law	class_option	0	replaces	The touch of law ability of the Law domain	variant-only			open			
+ref/domain/law	class_option	0	replaces	The staff of order ability of the Law domain	variant-only			open			
+ref/domain/law	class_option	0	replaces	The touch of law power of the Law domain	variant-only			open			
+ref/domain/law	class_option	0	replaces	The touch of law power of the Law domain	variant-only			open			
+ref/domain/law	class_option	0	replaces	The staff of order power of the Law domain	variant-only			open			
+ref/domain/law	class_option	0	replaces	The staff of order power of the Law domain	variant-only			open			
+ref/domain/law	class_option	0	replaces	The staff of order power of the Law domain	variant-only			open			
+ref/domain/liberation	class_option	0	replaces	The liberation power of the Liberation domain	variant-only			open			
+ref/domain/liberation	class_option	0	replaces	The freedom's call power of the Liberation domain	variant-only			open			
+ref/domain/liberation	class_option	0	replaces	The liberation power of the Liberation domain	variant-only			open			
+ref/domain/luck	class_option	0	replaces	The bit of luck power of the Luck domain	variant-only			open			
+ref/domain/luck	class_option	0	replaces	The good fortune power of the Luck domain	variant-only			open			
+ref/domain/luck	class_option	0	replaces	The good fortune ability of the Luck domain	variant-only			open			
+ref/domain/madness	class_option	0	replaces	The vision of madness power of the Madness domain	variant-only			open			
+ref/domain/madness	class_option	0	replaces	The vision of madness power of the Madness domain	variant-only			open			
+ref/domain/madness	class_option	0	replaces	The aura of madness power of the Madness domain	variant-only			open			
+ref/domain/magic	class_option	0	replaces	The hand of the acolyte power of the Magic domain	variant-only			open			
+ref/domain/magic	class_option	0	replaces	The hand of the acolyte power of the Magic domain	variant-only			open			
+ref/domain/magic	class_option	0	replaces	The hand of the acolyte power of the Magic domain	variant-only			open			
+ref/domain/magic	class_option	0	replaces	The hand of the acolyte power of the Magic domain	variant-only			open			
+ref/domain/nobility	class_option	0	replaces	The inspiring word ability of the Nobility domain	variant-only			open			
+ref/domain/nobility	class_option	0	replaces	The leadership power of the Nobility domain	variant-only			open			
+ref/domain/nobility	class_option	0	replaces	The inspiring word power of the Nobility domain	variant-only			open			
+ref/domain/nobility	class_option	0	replaces	The leadership power of the Nobility domain	variant-only			open			
+ref/domain/nobility	class_option	0	replaces	The leadership domain power of the Nobility domain	variant-only			open			
+ref/domain/plant	class_option	0	replaces	The bramble armor power of the Plant domain	variant-only			open			
+ref/domain/plant	class_option	0	replaces	The wooden fist power of the Plant domain	variant-only			open			
+ref/domain/plant	class_option	0	replaces	The wooden fist power of the Plant domain	variant-only			open			
+ref/domain/plant	class_option	0	replaces	The wooden fist power of the Plant domain	variant-only			open			
+ref/domain/protection	class_option	0	replaces	The resistant touch power of the Protection domain	variant-only			open			
+ref/domain/protection	class_option	0	replaces	The resistant touch power of the Protection domain	variant-only			open			
+ref/domain/protection	class_option	0	replaces	The aura of protection power of the Protection domain	variant-only			open			
+ref/domain/protection	class_option	0	replaces	The resistant touch ability of the Protection domain	variant-only			open			
+ref/domain/repose	class_option	0	replaces	The ward against death power of the Repose domain	variant-only			open			
+ref/domain/repose	class_option	0	replaces	The ward against death ability of the Repose domain	variant-only			open			
+ref/domain/repose	class_option	0	replaces	The gentle rest power of the Repose domain	variant-only			open			
+ref/domain/repose	class_option	0	replaces	The ward against death domain power of the Repose domain	variant-only			open			
+ref/domain/rune	class_option	0	replaces	The spell rune power of the Rune domain	variant-only			open			
+ref/domain/rune	class_option	0	replaces	The blast rune power of the Rune domain	variant-only			open			
+ref/domain/rune	class_option	0	replaces	The spell rune power of the Rune domain	variant-only			open			
+ref/domain/scalykind	class_option	0	replaces	The serpent companion ability of the Scalykind domain	variant-only			open			
+ref/domain/scalykind	class_option	0	replaces	The serpent companion ability of the Scalykind domain	variant-only			open			
+ref/domain/scalykind	class_option	0	replaces	The venomous stare power of the Scalykind domain	variant-only			open			
+ref/domain/strength	class_option	0	replaces	The strength surge power of the Strength domain	variant-only			open			
+ref/domain/strength	class_option	0	replaces	The strength surge power of the Strength domain	variant-only			open			
+ref/domain/strength	class_option	0	replaces	The strength surge ability of the Strength domain	variant-only			open			
+ref/domain/strength	class_option	0	replaces	The might of the gods power of the Strength domain	variant-only			open			
+ref/domain/strength	class_option	0	replaces	The strength surge ability of the Strength domain	variant-only			open			
+ref/domain/sun	class_option	0	replaces	The nimbus of light power of the Sun domain	variant-only			open			
+ref/domain/sun	class_option	0	replaces	The sun's blessing power of the Sun domain	variant-only			open			
+ref/domain/sun	class_option	0	replaces	The sun's blessing ability of the Sun domain	variant-only			open			
+ref/domain/sun	class_option	0	replaces	The sun's blessing power of the Sun domain	variant-only			open			
+ref/domain/sun	class_option	0	alters	The nimbus of light power of the Sun domain	variant-only			open			
+ref/domain/travel	class_option	0	replaces	The agile feet power of the Travel domain	variant-only			open			
+ref/domain/travel	class_option	0	replaces	The base speed increase power of the Travel domain	variant-only			open			
+ref/domain/travel	class_option	0	replaces	The agile feet power of the Travel domain	variant-only			open			
+ref/domain/travel	class_option	0	replaces	The agile feet power of the Travel domain	variant-only			open			
+ref/domain/trickery	class_option	0	replaces	The copycat power of the Trickery domain	variant-only			open			
+ref/domain/trickery	class_option	0	replaces	The copycat power of the Trickery domain	variant-only			open			
+ref/domain/trickery	class_option	0	replaces	The copycat power of the Trickery domain	variant-only			open			
+ref/domain/trickery	class_option	0	replaces	The copycat ability of the Trickery domain	variant-only			open			
+ref/domain/trickery	class_option	0	replaces	The copycat ability of the Trickery domain	variant-only			open			
+ref/domain/trickery	class_option	0	replaces	The master's illusion power of the Trickery domain	variant-only			open			
+ref/domain/trickery	class_option	0	replaces	The copycat power of the Trickery domain	variant-only			open			
+ref/domain/void	class_option	0	replaces	The guarded mind power of the Void domain	variant-only			open			
+ref/domain/void	class_option	0	replaces	The part the veil power of the Void domain	variant-only			open			
+ref/domain/void	class_option	0	replaces	The part the veil power of the Void domain	variant-only			open			
+ref/domain/war	class_option	0	replaces	The weapon master power of the War domain	variant-only			open			
+ref/domain/war	class_option	0	replaces	The battle rage power of the War domain	variant-only			open			
+ref/domain/war	class_option	0	replaces	The battle rage power of the War domain	variant-only			open			
+ref/domain/water	class_option	0	replaces	The cold resistance power of the Water domain	variant-only			open			
+ref/domain/water	class_option	0	replaces	The # ability of the Water domain	variant-only			open			
+ref/domain/water	class_option	0	replaces	The cold resistance power of the Water domain	variant-only			open			
+ref/domain/water	class_option	0	replaces	The # power of the Water domain	variant-only			open			
+ref/domain/water	class_option	0	replaces	The # power of the Water domain	variant-only			open			
+ref/domain/weather	class_option	0	replaces	The lightning lord ability of the Weather domain	variant-only			open			
+ref/domain/weather	class_option	0	replaces	The storm burst power of the Weather domain	variant-only			open			
+ref/domain/weather	class_option	0	replaces	The lightning lord power of the Weather domain	variant-only			open			
+ref/sorcbloodline/aberrant	class_option	0	replaces	Acidic ray	variant-only			open			
+ref/sorcbloodline/abyssal	class_option	0	replaces	Strength of the abyss	variant-only			open			
+ref/sorcbloodline/aquatic	class_option	0	replaces	Dehydrating touch	variant-only			open			
+ref/sorcbloodline/arcane	class_option	0	replaces	Arcane bond	variant-only			open			
+ref/sorcbloodline/boreal	class_option	0	replaces	Snow shroud	variant-only			open			
+ref/sorcbloodline/celestial	class_option	0	replaces	Wings of heaven	variant-only			open			
+ref/sorcbloodline/deep-earth	class_option	0	replaces	Crystal shard	variant-only			open			
+ref/sorcbloodline/destined	class_option	0	replaces	Touch of destiny	variant-only			open			
+ref/sorcbloodline/draconic	class_option	0	replaces	Claws	variant-only			open			
+ref/sorcbloodline/dreamspun	class_option	0	replaces	Dreamshaper	variant-only			open			
+ref/sorcbloodline/elemental	class_option	0	replaces	Elemental blast	variant-only			open			
+ref/sorcbloodline/elemental	class_option	0	replaces	Elemental blast	variant-only			open			
+ref/sorcbloodline/fey	class_option	0	replaces	Laughing touch	variant-only			open			
+ref/sorcbloodline/fey	class_option	0	replaces	Laughing touch	variant-only			open			
+ref/sorcbloodline/fey	class_option	0	replaces	bloodline arcana	variant-only			open			
+ref/sorcbloodline/fey	class_option	0	replaces	Fey magic	variant-only			open			
+ref/sorcbloodline/infernal	class_option	0	replaces	Hellfire	variant-only			open			
+ref/sorcbloodline/marid	class_option	0	replaces	Elemental Movement	variant-only			open			
+ref/sorcbloodline/martyred	class_option	0	replaces	Gift of Blood	variant-only			open			
+ref/sorcbloodline/protean	class_option	0	replaces	Protean resistances	variant-only			open			
+ref/sorcbloodline/serpentine	class_option	0	replaces	Serpentfriend	variant-only			open			
+ref/sorcbloodline/shadow	class_option	0	replaces	Shadowstrike	variant-only			open			
+ref/sorcbloodline/starsoul	class_option	0	replaces	Minute Meteors	variant-only			open			
+ref/sorcbloodline/starsoul	class_option	0	replaces	Aurora Borealis	variant-only			open			
+ref/sorcbloodline/stormborn	class_option	0	replaces	Thunderbolt	variant-only			open			
+ref/sorcbloodline/undead	class_option	0	replaces	Grave touch	variant-only			open			
+ref/sorcbloodline/verdant	class_option	0	replaces	Photosynthesis	variant-only			open			
+ref/spirit/abrogail-thrune-i	class_option	1	replaces	Overflowing grace	no-heading			open			
+ref/spirit/abrogail-thrune-i	class_option	2	alters	Divine surge	no-heading			open			
+ref/spirit/ambras-imre	class_option	1	replaces	Trickster's edge	no-heading			open			
+ref/spirit/arnisant	class_option	1	replaces	Absorb blow	no-heading			open			
+ref/spirit/azghaad-i	class_option	1	replaces	Decisive strike	no-heading			open			
+ref/spirit/namzaruum	class_option	1	replaces	Decisive strike	no-heading			open			
+ref/spirit/namzaruum	class_option	2	alters	Marshal's order	no-heading			open			
+ref/spirit/savith	class_option	1	alters	Champion's prowess	no-heading			open			
+ref/spirit/savith	class_option	2	alters	Legendary champion	no-heading			open			
+ref/spirit/sulesh-the-great	class_option	1	replaces	Arcane surge	no-heading			open			
+ref/spirit/sulesh-the-great	class_option	2	alters	Archmage arcana	no-heading			open			
+ref/spirit/warmonger	class_option	1	alters	Inspiring call	no-heading			open			

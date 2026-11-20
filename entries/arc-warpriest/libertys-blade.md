@@ -16,8 +16,12 @@ page = "24"
 
 [fields]
 kind = "archetype"
-alters = ["Blessings", "Sacred weapon", "Channel energy", "Sacred armor"]
-alters_features = ["blessings", "sacred-weapon", "channel-energy", "sacred-armor"]
+trades = [
+  { alters = "Blessings", feature = "blessings" },
+  { alters = "Sacred weapon", feature = "sacred-weapon" },
+  { alters = "Channel energy", feature = "channel-energy" },
+  { alters = "Sacred armor", feature = "sacred-armor" },
+]
 +++
 
 There are some who find in the call to freedom something primal and spiritual, even more so than

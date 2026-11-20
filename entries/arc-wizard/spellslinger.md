@@ -16,8 +16,12 @@ page = "75"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane bond", "Scribe scroll", "Cantrips", "Arcane school"]
-replaces_features = ["arcane-bond", "scribe-scroll", "cantrips", "arcane-school"]
+trades = [
+  { replaces = "Arcane bond", feature = "arcane-bond" },
+  { replaces = "Scribe scroll", feature = "scribe-scroll" },
+  { replaces = "Cantrips", feature = "cantrips" },
+  { replaces = "Arcane school", feature = "arcane-school" },
+]
 +++
 
 While few contest the seductive allure of commanding arcane and occult powers, there are those

@@ -16,10 +16,17 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Haunt channeler", "connection channel", "Location channel", "Astral journey"]
-alters = ["Spirit", "spirit power (intermediate)", "Taboo", "Shared seance", "Ask the spirits"]
-replaces_features = ["haunt-channeler", "connection-channel", "location-channel", "astral-journey"]
-alters_features = ["spirit", "taboo", "shared-seance", "ask-the-spirits"]
+trades = [
+  { replaces = "Haunt channeler", feature = "haunt-channeler" },
+  { replaces = "connection channel", feature = "connection-channel" },
+  { replaces = "Location channel", feature = "location-channel" },
+  { replaces = "Astral journey", feature = "astral-journey" },
+  { alters = "Spirit", feature = "spirit" },
+  { alters = "spirit power (intermediate)" },
+  { alters = "Taboo", feature = "taboo" },
+  { alters = "Shared seance", feature = "shared-seance" },
+  { alters = "Ask the spirits", feature = "ask-the-spirits" },
+]
 +++
 
 Rather than invite strange entities and departed souls into their bodies, outer channelers invite

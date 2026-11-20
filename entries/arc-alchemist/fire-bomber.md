@@ -16,10 +16,14 @@ page = "117"
 
 [fields]
 kind = "archetype"
-replaces = ["The alchemist's 4th-level discovery", "Poison resistance +6", "Poison immunity", "Persistent mutagen"]
-alters = ["Bomb", "throw anything"]
-replaces_features = ["persistent-mutagen"]
-alters_features = ["bomb", "throw-anything"]
+trades = [
+  { replaces = "The alchemist's 4th-level discovery", feature = "discovery", levels = [4] },
+  { replaces = "Poison resistance +6", feature = "poison-resistance", power = "+6" },
+  { replaces = "Poison immunity" },
+  { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
+  { alters = "Bomb", feature = "bomb" },
+  { alters = "throw anything", feature = "throw-anything" },
+]
 +++
 
 Fire bombers are exceptionally good at using bombs to burn creatures and blow things up, but are not

@@ -16,10 +16,15 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Metakinesis", "metakinetic master", "3rd-level infusion", "supercharge"]
-alters = ["Kinetic blast", "infusions", "Elemental defense"]
-replaces_features = ["metakinesis", "metakinetic-master", "supercharge"]
-alters_features = ["kinetic-blast", "elemental-defense"]
+trades = [
+  { replaces = "Metakinesis", feature = "metakinesis" },
+  { replaces = "metakinetic master", feature = "metakinetic-master" },
+  { replaces = "3rd-level infusion", feature = "infusion", levels = [3] },
+  { replaces = "supercharge", feature = "supercharge" },
+  { alters = "Kinetic blast", feature = "kinetic-blast" },
+  { alters = "infusions", feature = "infusion" },
+  { alters = "Elemental defense", feature = "elemental-defense" },
+]
 +++
 
 A kinetic knight dons armor and wields a blade of elemental energy. The Phoenix Kindred counted many

@@ -16,8 +16,11 @@ page = "59"
 
 [fields]
 kind = "archetype"
-replaces = ["All bonus spells from the oracle's mystery", "3rd-level revelation", "Final revelation"]
-replaces_features = ["final-revelation"]
+trades = [
+  { replaces = "All bonus spells from the oracle's mystery" },
+  { replaces = "3rd-level revelation", feature = "revelation", levels = [3] },
+  { replaces = "Final revelation", feature = "final-revelation" },
+]
 +++
 
 A planar oracle has an affinity with one of the Outer Planes. She is at home on the multiple planes

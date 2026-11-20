@@ -16,10 +16,15 @@ page = "54"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect evil", "Aura of courage", "aura of resolve", "Channel positive energy"]
-alters = ["Armor proficiency", "Spells", "Divine bond"]
-replaces_features = ["detect-evil", "aura-of-courage", "aura-of-resolve", "channel-positive-energy"]
-alters_features = ["spells", "divine-bond"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "Aura of courage", feature = "aura-of-courage" },
+  { replaces = "aura of resolve", feature = "aura-of-resolve" },
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+  { alters = "Armor proficiency" },
+  { alters = "Spells", feature = "spells" },
+  { alters = "Divine bond", feature = "divine-bond" },
+]
 +++
 
 Some paladins are called to their faith by strange empathic visions and dreams that beckon them to

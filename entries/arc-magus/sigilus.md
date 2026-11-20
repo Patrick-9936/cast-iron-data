@@ -16,8 +16,11 @@ page = "59"
 
 [fields]
 kind = "archetype"
-replaces = ["Spellstrike", "Medium armor", "heavy armor"]
-replaces_features = ["spellstrike", "medium-armor", "heavy-armor"]
+trades = [
+  { replaces = "Spellstrike", feature = "spellstrike" },
+  { replaces = "Medium armor", feature = "medium-armor" },
+  { replaces = "heavy armor", feature = "heavy-armor" },
+]
 +++
 
 Traditionally, the [Cyphermages](ref/rule/aff-i-tradition) have harbored something of a resistance

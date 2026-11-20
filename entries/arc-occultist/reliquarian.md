@@ -16,10 +16,13 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Knacks"]
-alters = ["Spells", "Focus powers", "Implements", "Mental focus"]
-replaces_features = ["knacks"]
-alters_features = ["spells", "focus-powers", "implements", "mental-focus"]
+trades = [
+  { replaces = "Knacks", feature = "knacks" },
+  { alters = "Spells", feature = "spells" },
+  { alters = "Focus powers", feature = "focus-powers" },
+  { alters = "Implements", feature = "implements" },
+  { alters = "Mental focus", feature = "mental-focus" },
+]
 +++
 
 Not all occultists derive their power from psychic impressions left on objects. Some find faith

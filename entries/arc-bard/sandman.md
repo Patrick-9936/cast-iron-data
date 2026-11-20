@@ -16,8 +16,18 @@ page = "82"
 
 [fields]
 kind = "archetype"
-replaces = ["Inspire courage", "Suggestion", "Inspire greatness", "Inspire heroics", "Mass suggestion", "Deadly performance", "Bardic knowledge", "Versatile performance", "Inspire competence", "Lore master"]
-replaces_features = ["bardic-knowledge", "versatile-performance", "lore-master"]
+trades = [
+  { replaces = "Inspire courage" },
+  { replaces = "Suggestion" },
+  { replaces = "Inspire greatness" },
+  { replaces = "Inspire heroics" },
+  { replaces = "Mass suggestion" },
+  { replaces = "Deadly performance" },
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Inspire competence" },
+  { replaces = "Lore master", feature = "lore-master" },
+]
 +++
 
 Combining performance with stealth, trickery, and guile, the sandman uses cleverness to keep others

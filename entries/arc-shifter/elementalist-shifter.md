@@ -16,10 +16,15 @@ page = "78"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Shifter claws", "Chimeric aspect", "greater chimeric aspect"]
-alters = ["Languages", "Shifter aspect", "Wild shape"]
-replaces_features = ["wild-empathy", "shifter-claws", "chimeric-aspect", "greater-chimeric-aspect"]
-alters_features = ["shifter-aspect", "wild-shape"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Shifter claws", feature = "shifter-claws" },
+  { replaces = "Chimeric aspect", feature = "chimeric-aspect" },
+  { replaces = "greater chimeric aspect", feature = "greater-chimeric-aspect" },
+  { alters = "Languages" },
+  { alters = "Shifter aspect", feature = "shifter-aspect" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Rather than drawing power from bestial aspects, elementalist shifters channel power from the Inner

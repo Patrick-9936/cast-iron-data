@@ -16,9 +16,12 @@ page = "122"
 
 [fields]
 kind = "archetype"
-replaces = ["Bloodline feats gained at 7th, 13th, and 19th level"]
-alters = ["Bloodline", "bloodline powers", "bloodline spells"]
-alters_features = ["bloodline"]
+trades = [
+  { replaces = "Bloodline feats gained at 7th, 13th, and 19th level" },
+  { alters = "Bloodline", feature = "bloodline" },
+  { alters = "bloodline powers" },
+  { alters = "bloodline spells" },
+]
 +++
 
 A mongrel mage is a sorcerer whose bloodline is so weak, or mixed with so many others, that her

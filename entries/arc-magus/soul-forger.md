@@ -16,10 +16,15 @@ page = "57"
 
 [fields]
 kind = "archetype"
-replaces = ["Knowledge pool", "Spell recall", "Improved spell recall", "Counterstrike", "Greater spell access"]
-alters = ["Spell combat", "Spellstrike"]
-replaces_features = ["knowledge-pool", "spell-recall", "improved-spell-recall", "counterstrike", "greater-spell-access"]
-alters_features = ["spell-combat", "spellstrike"]
+trades = [
+  { replaces = "Knowledge pool", feature = "knowledge-pool" },
+  { replaces = "Spell recall", feature = "spell-recall" },
+  { replaces = "Improved spell recall", feature = "improved-spell-recall" },
+  { replaces = "Counterstrike", feature = "counterstrike" },
+  { replaces = "Greater spell access", feature = "greater-spell-access" },
+  { alters = "Spell combat", feature = "spell-combat" },
+  { alters = "Spellstrike", feature = "spellstrike" },
+]
 +++
 
 The soul forger has learned the skill of infusing the raw magical essence of his soul into armaments

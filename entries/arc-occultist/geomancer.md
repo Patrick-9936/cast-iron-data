@@ -16,10 +16,14 @@ page = "66"
 
 [fields]
 kind = "archetype"
-replaces = ["Magic item skill", "Aura sight", "7th-level focus power", "13th-level focus power"]
-alters = ["Mental focus", "Implements"]
-replaces_features = ["magic-item-skill", "aura-sight"]
-alters_features = ["mental-focus", "implements"]
+trades = [
+  { replaces = "Magic item skill", feature = "magic-item-skill" },
+  { replaces = "Aura sight", feature = "aura-sight" },
+  { replaces = "7th-level focus power", feature = "focus-powers", levels = [7] },
+  { replaces = "13th-level focus power", feature = "focus-powers", levels = [13] },
+  { alters = "Mental focus", feature = "mental-focus" },
+  { alters = "Implements", feature = "implements" },
+]
 +++
 
 A geomancer studies every type of land, deriving power from the differences between types of

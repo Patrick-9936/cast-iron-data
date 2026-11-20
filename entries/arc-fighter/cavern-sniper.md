@@ -16,10 +16,14 @@ page = "104"
 
 [fields]
 kind = "archetype"
-replaces = ["The 1st-level fighter bonus feat", "Bravery", "The 4th-level fighter bonus feat", "Weapon training 1, 3, and 4", "Weapon training 2"]
-alters = ["Weapon mastery"]
-replaces_features = ["bravery"]
-alters_features = ["weapon-mastery"]
+trades = [
+  { replaces = "The 1st-level fighter bonus feat", feature = "bonus-feats", levels = [1] },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "The 4th-level fighter bonus feat", feature = "bonus-feats", levels = [4] },
+  { replaces = "Weapon training 1, 3, and 4" },
+  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { alters = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 Perfectly at home in the darkness, the cavern sniper capitalizes on stealth and ranged attacks

@@ -16,8 +16,11 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["Monster lore", "Stern gaze", "Solo tactics"]
-replaces_features = ["monster-lore", "stern-gaze", "solo-tactics"]
+trades = [
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Stern gaze", feature = "stern-gaze" },
+  { replaces = "Solo tactics", feature = "solo-tactics" },
+]
 +++
 
 Masters of mind tricks and deception, these divine assassins track down and kill anyone who has

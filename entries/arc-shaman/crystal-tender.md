@@ -16,10 +16,12 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Shaman hex gained at 8th level", "Manifestation"]
-alters = ["Spirit animal", "Wandering spirit"]
-replaces_features = ["manifestation"]
-alters_features = ["spirit-animal", "wandering-spirit"]
+trades = [
+  { replaces = "Shaman hex gained at 8th level", feature = "hex", levels = [8] },
+  { replaces = "Manifestation", feature = "manifestation" },
+  { alters = "Spirit animal", feature = "spirit-animal" },
+  { alters = "Wandering spirit", feature = "wandering-spirit" },
+]
 +++
 
 Crystal tenders are most often found among subterranean races and races bearing a strong connection

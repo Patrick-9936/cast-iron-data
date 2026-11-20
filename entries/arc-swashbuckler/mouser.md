@@ -16,7 +16,12 @@ page = "125"
 
 [fields]
 kind = "archetype"
-replaces = ["Opportune parry and riposte", "Menacing swordplay", "Targeted strike", "Bleeding wound"]
+trades = [
+  { replaces = "Opportune parry and riposte" },
+  { replaces = "Menacing swordplay" },
+  { replaces = "Targeted strike" },
+  { replaces = "Bleeding wound" },
+]
 +++
 
 In the hands of a trained warrior, a well-sharpened blade is deadly regardless of size. A mouser

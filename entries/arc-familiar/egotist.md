@@ -12,8 +12,13 @@ page = "210"
 
 [fields]
 kind = "archetype"
-replaces = ["Deliver touch spells", "Scry on familiar"]
-alters = ["Alertness", "the variable familiar bonus", "Speak with master"]
+trades = [
+  { replaces = "Deliver touch spells" },
+  { replaces = "Scry on familiar" },
+  { alters = "Alertness" },
+  { alters = "the variable familiar bonus" },
+  { alters = "Speak with master" },
+]
 +++
 
 An egotist believes itself to be the real master in the relationship - the power behind the throne.

@@ -16,8 +16,14 @@ page = "19"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison use", "Poison resistance +4", "Poison resistance +6", "Poison immunity", "Persistent mutagen", "18th-level discovery"]
-replaces_features = ["poison-use", "persistent-mutagen"]
+trades = [
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "Poison resistance +4", feature = "poison-resistance", power = "+4" },
+  { replaces = "Poison resistance +6", feature = "poison-resistance", power = "+6" },
+  { replaces = "Poison immunity" },
+  { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
+  { replaces = "18th-level discovery", feature = "discovery", levels = [18] },
+]
 +++
 
 Some alchemists are obsessed with collecting and preserving exotic creatures. These preservationists

@@ -16,8 +16,10 @@ page = "93"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon training", "weapon mastery"]
-replaces_features = ["weapon-training", "weapon-mastery"]
+trades = [
+  { replaces = "Weapon training", feature = "weapon-training" },
+  { replaces = "weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 There are those who learn the fighting arts though countless hours of repetition and training, while

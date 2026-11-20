@@ -16,8 +16,11 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "Improved uncanny dodge", "uncanny dodge"]
-replaces_features = ["evasion", "improved-uncanny-dodge", "uncanny-dodge"]
+trades = [
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "uncanny dodge", feature = "uncanny-dodge" },
+]
 +++
 
 Poisons are common tools in a rogue's trade, and some poison-using rogues are so frequently exposed

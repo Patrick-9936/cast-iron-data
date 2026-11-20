@@ -16,10 +16,13 @@ page = "105"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning fist", "Still mind", "Wholeness of body", "Quivering palm"]
-alters = ["Ki pool"]
-replaces_features = ["stunning-fist", "still-mind", "wholeness-of-body", "quivering-palm"]
-alters_features = ["ki-pool"]
+trades = [
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "Quivering palm", feature = "quivering-palm" },
+  { alters = "Ki pool", feature = "ki-pool" },
+]
 +++
 
 The kata master takes the visual aspect of his martial art to its logical extreme, harnessing her

@@ -16,8 +16,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Dirge of doom", "frightening tune", "Inspire heroics", "Versatile performance", "Inspire competence"]
-replaces_features = ["versatile-performance"]
+trades = [
+  { replaces = "Dirge of doom" },
+  { replaces = "frightening tune" },
+  { replaces = "Inspire heroics" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Inspire competence" },
+]
 +++
 
 Fey who associate with courts often become bards skilled at navigating the inhuman societies of the

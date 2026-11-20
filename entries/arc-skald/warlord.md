@@ -16,8 +16,13 @@ page = "49"
 
 [fields]
 kind = "archetype"
-replaces = ["Scribe Scroll feat", "Well-versed", "Spell kenning", "Lore master", "Improved uncanny dodge"]
-replaces_features = ["well-versed", "spell-kenning", "lore-master", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Scribe Scroll feat" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Spell kenning", feature = "spell-kenning" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 The warlord wields his force of personality like a weapon, intimidating his allies and ensuring that

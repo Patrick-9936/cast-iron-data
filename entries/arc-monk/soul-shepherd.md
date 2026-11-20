@@ -16,8 +16,13 @@ page = "65"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning fist", "Evasion", "improved evasion", "Abundant step", "Quivering palm"]
-replaces_features = ["stunning-fist", "evasion", "improved-evasion", "abundant-step", "quivering-palm"]
+trades = [
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "improved evasion", feature = "improved-evasion" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { replaces = "Quivering palm", feature = "quivering-palm" },
+]
 +++
 
 Whether studying at the feet of psychopomps or merely imitating the creatures' philosophy and

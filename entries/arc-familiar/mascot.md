@@ -15,8 +15,17 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "Improved evasion", "Speak with master", "speak with animals of its kind", "Spell resistance", "scry on familiar"]
-alters = ["Empathic link", "Share spells", "Deliver touch spells"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "Improved evasion" },
+  { replaces = "Speak with master" },
+  { replaces = "speak with animals of its kind" },
+  { replaces = "Spell resistance" },
+  { replaces = "scry on familiar" },
+  { alters = "Empathic link" },
+  { alters = "Share spells" },
+  { alters = "Deliver touch spells" },
+]
 +++
 
 A familiar sometimes serves as the centerpiece of an adventuring party. Known as a mascot, this type

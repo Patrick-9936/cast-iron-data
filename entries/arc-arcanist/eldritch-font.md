@@ -16,8 +16,12 @@ page = "77"
 
 [fields]
 kind = "archetype"
-replaces = ["The arcanist exploit gained at 3rd level", "The arcanist exploit gained at 7th level", "The arcanist exploit gained at 13th level", "Magical supremacy"]
-replaces_features = ["magical-supremacy"]
+trades = [
+  { replaces = "The arcanist exploit gained at 3rd level", feature = "arcanist-exploits", levels = [3] },
+  { replaces = "The arcanist exploit gained at 7th level", feature = "arcanist-exploits", levels = [7] },
+  { replaces = "The arcanist exploit gained at 13th level", feature = "arcanist-exploits", levels = [13] },
+  { replaces = "Magical supremacy", feature = "magical-supremacy" },
+]
 +++
 
 For some arcanists, the power bubbling up from within is nearly too much to contain. They become

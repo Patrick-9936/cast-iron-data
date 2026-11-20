@@ -16,7 +16,9 @@ page = "78"
 
 [fields]
 kind = "archetype"
-replaces = ["The arcanist exploits gained at 1st, 3rd, and 7th levels"]
+trades = [
+  { replaces = "The arcanist exploits gained at 1st, 3rd, and 7th levels", feature = "arcanist-exploits", levels = [1, 3, 7] },
+]
 +++
 
 Some arcanists specialize in a school of magic and trade flexibility for focus. School savants are

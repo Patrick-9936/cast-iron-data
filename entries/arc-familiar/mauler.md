@@ -15,8 +15,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Speak with master", "speak with animals of its kind", "Deliver touch spells", "Spell resistance"]
-alters = ["The familiar's Intelligence score advancement"]
+trades = [
+  { replaces = "Speak with master" },
+  { replaces = "speak with animals of its kind" },
+  { replaces = "Deliver touch spells" },
+  { replaces = "Spell resistance" },
+  { alters = "The familiar's Intelligence score advancement" },
+]
 +++
 
 While most familiars are scouts and assistants, the mauler familiar cares only for the thrill of

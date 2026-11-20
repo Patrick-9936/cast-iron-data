@@ -16,10 +16,14 @@ page = "5"
 
 [fields]
 kind = "archetype"
-replaces = ["Tactician", "Expert trainer", "Greater tactician", "Demanding challenge", "Greater tactician"]
-alters = ["Banner"]
-replaces_features = ["tactician", "expert-trainer", "greater-tactician", "demanding-challenge", "greater-tactician"]
-alters_features = ["banner"]
+trades = [
+  { replaces = "Tactician", feature = "tactician" },
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "Greater tactician", feature = "greater-tactician" },
+  { replaces = "Demanding challenge", feature = "demanding-challenge" },
+  { replaces = "Greater tactician" },
+  { alters = "Banner", feature = "banner" },
+]
 +++
 
 The cavaliers known as knights of Arnisant revere the famous general who was crucial in the defeat

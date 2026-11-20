@@ -16,9 +16,16 @@ page = "89"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd-, 8th-, 10th-, 14th-, and 18th-level utility wild talents", "3rd- and 9th-level infusions", "4th-level utility wild talent", "5th-level infusion", "6th-, 12th-, and 16th level utility wild talents", "Omnikinesis, 20th-level utility wild talent"]
-alters = ["1st-level infusion", "the basic utility wild talent normally granted by selecting an element"]
-replaces_features = ["omnikinesis"]
+trades = [
+  { replaces = "2nd-, 8th-, 10th-, 14th-, and 18th-level utility wild talents" },
+  { replaces = "3rd- and 9th-level infusions", feature = "infusion", levels = [3, 9] },
+  { replaces = "4th-level utility wild talent" },
+  { replaces = "5th-level infusion", feature = "infusion", levels = [5] },
+  { replaces = "6th-, 12th-, and 16th level utility wild talents" },
+  { replaces = "Omnikinesis, 20th-level utility wild talent" },
+  { alters = "1st-level infusion", feature = "infusion", levels = [1] },
+  { alters = "the basic utility wild talent normally granted by selecting an element" },
+]
 +++
 
 For some kineticists, nothing in life is as sweet as destruction and pain. Elemental annihilators

@@ -16,10 +16,13 @@ page = "66"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd favored enemy", "3rd favored enemy", "4th favored enemy", "Master hunter"]
-alters = ["Hunter's bond"]
-replaces_features = ["master-hunter"]
-alters_features = ["hunter-s-bond"]
+trades = [
+  { replaces = "2nd favored enemy" },
+  { replaces = "3rd favored enemy" },
+  { replaces = "4th favored enemy" },
+  { replaces = "Master hunter", feature = "master-hunter" },
+  { alters = "Hunter's bond", feature = "hunter-s-bond" },
+]
 +++
 
 Armies need clean water, safe routes, and intelligence about their enemies. Though regular

@@ -16,7 +16,11 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd-level hex", "6th-level hex", "20th-level hex"]
+trades = [
+  { replaces = "2nd-level hex", feature = "hex", levels = [2] },
+  { replaces = "6th-level hex", feature = "hex", levels = [6] },
+  { replaces = "20th-level hex", feature = "hex", levels = [20] },
+]
 +++
 
 > _**Note:** This is a witch archetype, and has no relation to the [medium](ref/class/medium) occult

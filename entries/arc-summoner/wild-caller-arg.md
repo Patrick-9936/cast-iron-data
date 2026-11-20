@@ -16,9 +16,10 @@ page = "44"
 
 [fields]
 kind = "archetype"
-replaces = ["Summon monster I"]
-alters = ["Spell list of the summoner"]
-replaces_features = ["summon-monster-i"]
+trades = [
+  { replaces = "Summon monster I", feature = "summon-monster-i" },
+  { alters = "Spell list of the summoner" },
+]
 +++
 
 Often a half-elf's ties to nature and elven heritage are so strong that they can dramatically affect

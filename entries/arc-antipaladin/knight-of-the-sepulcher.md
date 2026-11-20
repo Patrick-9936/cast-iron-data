@@ -16,8 +16,16 @@ page = "64"
 
 [fields]
 kind = "archetype"
-replaces = ["Fiendish boon", "Aura of despair", "The smite good use gained at 10th level", "Aura of vengeance", "Aura of sin", "Cruelty", "Aura of depravity", "Unholy champion"]
-replaces_features = ["fiendish-boon", "aura-of-despair", "aura-of-vengeance", "aura-of-sin", "cruelty", "aura-of-depravity", "unholy-champion"]
+trades = [
+  { replaces = "Fiendish boon", feature = "fiendish-boon" },
+  { replaces = "Aura of despair", feature = "aura-of-despair" },
+  { replaces = "The smite good use gained at 10th level" },
+  { replaces = "Aura of vengeance", feature = "aura-of-vengeance" },
+  { replaces = "Aura of sin", feature = "aura-of-sin" },
+  { replaces = "Cruelty", feature = "cruelty" },
+  { replaces = "Aura of depravity", feature = "aura-of-depravity" },
+  { replaces = "Unholy champion", feature = "unholy-champion" },
+]
 +++
 
 Not content with the antipaladin's mere corruption of the soul, the knight of the sepulcher

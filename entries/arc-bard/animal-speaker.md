@@ -16,8 +16,13 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Fascinate", "Well-versed", "Inspire competence", "Suggestion", "Mass suggestion"]
-replaces_features = ["well-versed"]
+trades = [
+  { replaces = "Fascinate" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Inspire competence" },
+  { replaces = "Suggestion" },
+  { replaces = "Mass suggestion" },
+]
 +++
 
 An animal speaker focuses not on the ears and minds of humans, but on the creatures of the wild and

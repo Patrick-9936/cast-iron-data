@@ -16,10 +16,17 @@ page = "5"
 
 [fields]
 kind = "archetype"
-replaces = ["Medium armor", "heavy armor", "Knowledge pool", "Counterstrike"]
-alters = ["Weapon proficiency", "Spellcasting", "Arcane pool", "Spellstrike", "5th-level bonus feat"]
-replaces_features = ["medium-armor", "heavy-armor", "knowledge-pool", "counterstrike"]
-alters_features = ["arcane-pool", "spellstrike"]
+trades = [
+  { replaces = "Medium armor", feature = "medium-armor" },
+  { replaces = "heavy armor", feature = "heavy-armor" },
+  { replaces = "Knowledge pool", feature = "knowledge-pool" },
+  { replaces = "Counterstrike", feature = "counterstrike" },
+  { alters = "Weapon proficiency" },
+  { alters = "Spellcasting" },
+  { alters = "Arcane pool", feature = "arcane-pool" },
+  { alters = "Spellstrike", feature = "spellstrike" },
+  { alters = "5th-level bonus feat", feature = "bonus-feats", levels = [5] },
+]
 +++
 
 Practitioners of this martial art, powered by arcane magic, wear an iron ring on the finger of one

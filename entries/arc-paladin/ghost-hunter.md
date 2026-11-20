@@ -16,9 +16,11 @@ page = "123"
 
 [fields]
 kind = "archetype"
-replaces = ["6th-level mercy", "9th-level mercy"]
-alters = ["Smite evil"]
-alters_features = ["smite-evil"]
+trades = [
+  { replaces = "6th-level mercy", feature = "mercy", levels = [6] },
+  { replaces = "9th-level mercy", feature = "mercy", levels = [9] },
+  { alters = "Smite evil", feature = "smite-evil" },
+]
 +++
 
 Ghost hunters devote their lives to eliminating malevolent spirits and putting them to rest.

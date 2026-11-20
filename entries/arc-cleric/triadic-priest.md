@@ -16,8 +16,9 @@ page = "19"
 
 [fields]
 kind = "archetype"
-alters = ["Domains"]
-alters_features = ["domains"]
+trades = [
+  { alters = "Domains", feature = "domains" },
+]
 +++
 
 Power comes not just from communion with one's deity, but also from the formation of divine

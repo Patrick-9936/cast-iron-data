@@ -16,10 +16,12 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Counterstrike"]
-alters = ["Arcane pool", "Spell combat", "Spellstrike"]
-replaces_features = ["counterstrike"]
-alters_features = ["arcane-pool", "spell-combat", "spellstrike"]
+trades = [
+  { replaces = "Counterstrike", feature = "counterstrike" },
+  { alters = "Arcane pool", feature = "arcane-pool" },
+  { alters = "Spell combat", feature = "spell-combat" },
+  { alters = "Spellstrike", feature = "spellstrike" },
+]
 +++
 
 The eldritch archer rains magical attacks down on her foes from the city walls.

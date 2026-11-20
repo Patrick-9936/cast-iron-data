@@ -16,10 +16,15 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Spontaneous casting", "Wild empathy", "woodland stride", "Trackless step", "resist nature's lure"]
-alters = ["Spells", "Wild shape"]
-replaces_features = ["spontaneous-casting", "wild-empathy", "woodland-stride", "trackless-step", "resist-nature-s-lure"]
-alters_features = ["spells", "wild-shape"]
+trades = [
+  { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "woodland stride", feature = "woodland-stride" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "resist nature's lure", feature = "resist-nature-s-lure" },
+  { alters = "Spells", feature = "spells" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Druids protect the natural environs of the world, and sometimes that requires forcibly expelling

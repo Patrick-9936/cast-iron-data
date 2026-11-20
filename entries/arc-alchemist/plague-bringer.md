@@ -16,8 +16,11 @@ page = "153"
 
 [fields]
 kind = "archetype"
-replaces = ["Mutagen", "Poison resistance", "poison immunity"]
-replaces_features = ["mutagen", "poison-resistance"]
+trades = [
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity" },
+]
 +++
 
 The plague bringer sees disease as the ultimate weapon, and has worked tirelessly to master new

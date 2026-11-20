@@ -16,10 +16,14 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["Unshakable"]
-alters = ["Dual identity", "Social talents gained at 3rd and 7th levels", "Startling appearance", "frightening appearance", "stunning appearance"]
-replaces_features = ["unshakable"]
-alters_features = ["dual-identity", "startling-appearance", "frightening-appearance", "stunning-appearance"]
+trades = [
+  { replaces = "Unshakable", feature = "unshakable" },
+  { alters = "Dual identity", feature = "dual-identity" },
+  { alters = "Social talents gained at 3rd and 7th levels", feature = "social-talent", levels = [3, 7] },
+  { alters = "Startling appearance", feature = "startling-appearance" },
+  { alters = "frightening appearance", feature = "frightening-appearance" },
+  { alters = "stunning appearance", feature = "stunning-appearance" },
+]
 +++
 
 A splintersoul pushes the boundaries of what it means to have two separate identities. One may be

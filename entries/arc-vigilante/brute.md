@@ -16,10 +16,14 @@ page = "54"
 
 [fields]
 kind = "archetype"
-replaces = ["Vigilante specialization", "Vengeance strike"]
-alters = ["Dual identity", "Base saving throws", "Armor and weapon proficiencies", "Vigilante talents"]
-replaces_features = ["vigilante-specialization", "vengeance-strike"]
-alters_features = ["dual-identity"]
+trades = [
+  { replaces = "Vigilante specialization", feature = "vigilante-specialization" },
+  { replaces = "Vengeance strike", feature = "vengeance-strike" },
+  { alters = "Dual identity", feature = "dual-identity" },
+  { alters = "Base saving throws" },
+  { alters = "Armor and weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Vigilante talents", feature = "vigilante-talent" },
+]
 +++
 
 Either through the results of magical experimentation or bizarre natural sparks, some vigilantes can

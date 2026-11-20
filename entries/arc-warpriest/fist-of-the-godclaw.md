@@ -16,10 +16,12 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus feat gained at 3rd level", "Bonus feats gained at 6th level and 12th level", "Aspect of war"]
-alters = ["Blessings"]
-replaces_features = ["aspect-of-war"]
-alters_features = ["blessings"]
+trades = [
+  { replaces = "Bonus feat gained at 3rd level", feature = "bonus-feats", levels = [3] },
+  { replaces = "Bonus feats gained at 6th level and 12th level", feature = "bonus-feats", levels = [6, 12] },
+  { replaces = "Aspect of war", feature = "aspect-of-war" },
+  { alters = "Blessings", feature = "blessings" },
+]
 +++
 
 Devoted to the divine control of law above all else, these zealots seek to establish absolute order.

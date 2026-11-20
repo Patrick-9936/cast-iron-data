@@ -16,8 +16,11 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Favored enemy", "Hunter's bond", "Woodland stride"]
-replaces_features = ["favored-enemy", "hunter-s-bond", "woodland-stride"]
+trades = [
+  { replaces = "Favored enemy", feature = "favored-enemy" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+]
 +++
 
 A freebooter is a natural leader, a pirate who works well with a variety of people and in a variety

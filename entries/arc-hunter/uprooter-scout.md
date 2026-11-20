@@ -16,8 +16,13 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Improved empathic link", "speak with master", "greater empathic link", "Raise animal companion", "One with the wild"]
-replaces_features = ["improved-empathic-link", "speak-with-master", "greater-empathic-link", "raise-animal-companion", "one-with-the-wild"]
+trades = [
+  { replaces = "Improved empathic link", feature = "improved-empathic-link" },
+  { replaces = "speak with master", feature = "speak-with-master" },
+  { replaces = "greater empathic link", feature = "greater-empathic-link" },
+  { replaces = "Raise animal companion", feature = "raise-animal-companion" },
+  { replaces = "One with the wild", feature = "one-with-the-wild" },
+]
 +++
 
 The Uprooters are an elite band of Kyonin elves skilled and brave enough to foray into the

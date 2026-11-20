@@ -16,8 +16,13 @@ page = "30"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement", "Uncanny dodge", "Trap sense", "Improved uncanny dodge", "Indomitable will"]
-replaces_features = ["fast-movement", "uncanny-dodge", "trap-sense", "improved-uncanny-dodge", "indomitable-will"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Indomitable will", feature = "indomitable-will" },
+]
 +++
 
 In lands overrun by giants, dragons, and other hulking beasts, entire fellowships of barbarians hone

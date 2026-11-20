@@ -16,9 +16,14 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Dirge of doom", "frightening tune", "Versatile performance", "Well-versed", "Lore master"]
-alters = ["Inspire competence"]
-replaces_features = ["versatile-performance", "well-versed", "lore-master"]
+trades = [
+  { replaces = "Dirge of doom" },
+  { replaces = "frightening tune" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { alters = "Inspire competence" },
+]
 +++
 
 Ringleaders are adept in getting the most out of their allies, and they excel at planning for

@@ -16,10 +16,16 @@ page = "57"
 
 [fields]
 kind = "archetype"
-replaces = ["4th-, 8th-, 10th-, 14th-, and 16th-level vigilante talents", "Vigilante specialization"]
-alters = ["Skill ranks per level", "Armor and weapon proficiencies", "Startling appearance", "frightening appearance", "stunning appearance", "vengeance strike"]
-replaces_features = ["vigilante-specialization"]
-alters_features = ["startling-appearance", "frightening-appearance", "stunning-appearance", "vengeance-strike"]
+trades = [
+  { replaces = "4th-, 8th-, 10th-, 14th-, and 16th-level vigilante talents", feature = "vigilante-talent", levels = [4, 8, 10, 14, 16] },
+  { replaces = "Vigilante specialization", feature = "vigilante-specialization" },
+  { alters = "Skill ranks per level" },
+  { alters = "Armor and weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Startling appearance", feature = "startling-appearance" },
+  { alters = "frightening appearance", feature = "frightening-appearance" },
+  { alters = "stunning appearance", feature = "stunning-appearance" },
+  { alters = "vengeance strike", feature = "vengeance-strike" },
+]
 +++
 
 Some vigilantes, no matter their age, carry a spark of capricious whimsy under which flows a

@@ -16,10 +16,15 @@ page = "98"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Trackless step", "Resist nature's lure", "Venom immunity", "A thousand faces"]
-alters = ["Wild empathy", "Wild shape"]
-replaces_features = ["woodland-stride", "trackless-step", "resist-nature-s-lure", "venom-immunity", "a-thousand-faces"]
-alters_features = ["wild-empathy", "wild-shape"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Shepherds of the lakes and seas, aquatic druids guard ecosystems ranging from shallows streams to

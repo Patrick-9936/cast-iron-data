@@ -16,10 +16,16 @@ page = "50"
 
 [fields]
 kind = "archetype"
-replaces = ["Shared consciousness", "Etheric tether", "Phantom recall", "See invisibility", "Fused consciousness", "Empowered consciousness"]
-alters = ["Spellcasting", "Phantom"]
-replaces_features = ["shared-consciousness", "etheric-tether", "phantom-recall", "see-invisibility", "fused-consciousness", "empowered-consciousness"]
-alters_features = ["phantom"]
+trades = [
+  { replaces = "Shared consciousness", feature = "shared-consciousness" },
+  { replaces = "Etheric tether", feature = "etheric-tether" },
+  { replaces = "Phantom recall", feature = "phantom-recall" },
+  { replaces = "See invisibility", feature = "see-invisibility" },
+  { replaces = "Fused consciousness", feature = "fused-consciousness" },
+  { replaces = "Empowered consciousness", feature = "empowered-consciousness" },
+  { alters = "Spellcasting" },
+  { alters = "Phantom", feature = "phantom" },
+]
 +++
 
 While most spiritualists form a bond with the remnants of a creature's soul, some explore ways to

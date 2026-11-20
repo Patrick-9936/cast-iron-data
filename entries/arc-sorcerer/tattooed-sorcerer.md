@@ -16,7 +16,12 @@ page = "40"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level bloodline power", "Eschew Materials bonus feat", "7th-level bloodline feat", "9th-level bloodline power"]
+trades = [
+  { replaces = "1st-level bloodline power" },
+  { replaces = "Eschew Materials bonus feat" },
+  { replaces = "7th-level bloodline feat" },
+  { replaces = "9th-level bloodline power" },
+]
 +++
 
 The tattooed sorcerer has embraced the ancient traditions of Varisian spellcasting, and uses

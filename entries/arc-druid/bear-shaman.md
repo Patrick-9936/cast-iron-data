@@ -16,10 +16,14 @@ page = "102"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "A thousand faces", "Wild shape", "Venom immunity"]
-alters = ["Nature bond", "Wild empathy"]
-replaces_features = ["woodland-stride", "a-thousand-faces", "wild-shape", "venom-immunity"]
-alters_features = ["nature-bond", "wild-empathy"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { alters = "Nature bond", feature = "nature-bond" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+]
 +++
 
 A shaman with this focus calls upon the mighty bear, titan of the woodlands and mountains, a paragon

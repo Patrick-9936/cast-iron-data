@@ -16,8 +16,12 @@ page = "119"
 
 [fields]
 kind = "archetype"
-replaces = ["Slayer talent gained at 2nd level", "Slayer talent gained at 6th level", "Advanced slayer talent gained at 10th level"]
-alters = ["Weapon and armor proficiency"]
+trades = [
+  { replaces = "Slayer talent gained at 2nd level", feature = "slayer-talents", levels = [2] },
+  { replaces = "Slayer talent gained at 6th level", feature = "slayer-talents", levels = [6] },
+  { replaces = "Advanced slayer talent gained at 10th level", feature = "advanced-talents", levels = [10] },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+]
 +++
 
 Also known as a divine assassin, god's blade, or wrath-bringer, a deliverer is a weapon chosen by a

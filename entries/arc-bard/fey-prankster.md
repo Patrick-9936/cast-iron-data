@@ -16,8 +16,14 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Countersong", "Inspire courage", "Dirge of doom", "Well-versed", "Lore master"]
-replaces_features = ["bardic-knowledge", "well-versed", "lore-master"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Countersong" },
+  { replaces = "Inspire courage" },
+  { replaces = "Dirge of doom" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Lore master", feature = "lore-master" },
+]
 +++
 
 Sly and mischievous like the Lantern King himself, fey pranksters learn supernatural tricks that can

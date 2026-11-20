@@ -16,8 +16,14 @@ page = "50"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature bond", "wild shape", "Nature sense", "wild empathy", "Resist nature's lure", "Venom immunity"]
-replaces_features = ["nature-bond", "wild-shape", "nature-sense", "wild-empathy", "resist-nature-s-lure", "venom-immunity"]
+trades = [
+  { replaces = "Nature bond", feature = "nature-bond" },
+  { replaces = "wild shape", feature = "wild-shape" },
+  { replaces = "Nature sense", feature = "nature-sense" },
+  { replaces = "wild empathy", feature = "wild-empathy" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+]
 +++
 
 Some druids believe that birth and death are the most important parts of the natural cycle. They

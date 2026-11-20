@@ -16,9 +16,12 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Still mind", "Maneuver training", "Quivering palm"]
-alters = ["Bonus feats"]
-replaces_features = ["still-mind", "maneuver-training", "quivering-palm"]
+trades = [
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Maneuver training", feature = "maneuver-training" },
+  { replaces = "Quivering palm", feature = "quivering-palm" },
+  { alters = "Bonus feats", feature = "bonus-feat" },
+]
 +++
 
 Steeped in traditions that trace their origins to the warrior-monks who trained under the tutelage

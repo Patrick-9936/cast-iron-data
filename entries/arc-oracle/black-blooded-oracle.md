@@ -16,8 +16,9 @@ page = "32"
 
 [fields]
 kind = "archetype"
-replaces = ["Oracle's curse"]
-replaces_features = ["oracle-s-curse"]
+trades = [
+  { replaces = "Oracle's curse", feature = "oracle-s-curse" },
+]
 +++
 
 The black-blooded oracle has been infused with the eerie influence of strange fluids that seep from

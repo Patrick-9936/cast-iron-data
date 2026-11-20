@@ -16,10 +16,14 @@ page = "98"
 
 [fields]
 kind = "archetype"
-replaces = ["Consummate liar", "Hypnotic stare", "Painful stare", "Bold stare", "Glib lie"]
-alters = ["Touch treatment"]
-replaces_features = ["consummate-liar", "hypnotic-stare", "painful-stare", "bold-stare", "glib-lie"]
-alters_features = ["touch-treatment"]
+trades = [
+  { replaces = "Consummate liar", feature = "consummate-liar" },
+  { replaces = "Hypnotic stare", feature = "hypnotic-stare" },
+  { replaces = "Painful stare", feature = "painful-stare" },
+  { replaces = "Bold stare", feature = "bold-stare" },
+  { replaces = "Glib lie", feature = "glib-lie" },
+  { alters = "Touch treatment", feature = "touch-treatment" },
+]
 +++
 
 Toxiticians forgo the mesmerist's stare, instead combining their psychic power with their alchemical

@@ -16,8 +16,12 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Nimble", "The bonus feat gained at 4th level", "Startling shot deed", "Bleeding wound deed"]
-replaces_features = ["nimble"]
+trades = [
+  { replaces = "Nimble", feature = "nimble" },
+  { replaces = "The bonus feat gained at 4th level", feature = "bonus-feats", levels = [4] },
+  { replaces = "Startling shot deed" },
+  { replaces = "Bleeding wound deed" },
+]
 +++
 
 As vigilant sentinels, thronewardens identify and head off trouble. First employed in the Grand

@@ -16,8 +16,12 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning fist", "Improved evasion", "Diamond body", "Quivering palm"]
-replaces_features = ["stunning-fist", "improved-evasion", "diamond-body", "quivering-palm"]
+trades = [
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { replaces = "Diamond body", feature = "diamond-body" },
+  { replaces = "Quivering palm", feature = "quivering-palm" },
+]
 +++
 
 Some who study the mysteries of the harrow do so to restore lost knowledge and pride to the Varisian

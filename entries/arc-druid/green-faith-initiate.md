@@ -19,8 +19,13 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Trackless step", "Daily use of wild shape gained at 6th level", "Venom immunity", "Daily use of wild shape gained at 10th level", "A thousand faces"]
-replaces_features = ["trackless-step", "venom-immunity", "a-thousand-faces"]
+trades = [
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Daily use of wild shape gained at 6th level" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { replaces = "Daily use of wild shape gained at 10th level" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+]
 +++
 
 Druids who are initiated into the magic of nature as strict students of the

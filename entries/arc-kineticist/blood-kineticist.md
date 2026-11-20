@@ -16,10 +16,16 @@ page = "88"
 
 [fields]
 kind = "archetype"
-replaces = ["The 1st-level infusion", "The 5th-level infusion", "The 6th-level utility wild talent", "The 8th-level utility wild talent", "The 9th-level infusion", "The 11th-level infusion", "Omnikinesis"]
-alters = ["Expanded element"]
-replaces_features = ["omnikinesis"]
-alters_features = ["expanded-element"]
+trades = [
+  { replaces = "The 1st-level infusion", feature = "infusion", levels = [1] },
+  { replaces = "The 5th-level infusion", feature = "infusion", levels = [5] },
+  { replaces = "The 6th-level utility wild talent" },
+  { replaces = "The 8th-level utility wild talent" },
+  { replaces = "The 9th-level infusion", feature = "infusion", levels = [9] },
+  { replaces = "The 11th-level infusion", feature = "infusion", levels = [11] },
+  { replaces = "Omnikinesis", feature = "omnikinesis" },
+  { alters = "Expanded element", feature = "expanded-element" },
+]
 +++
 
 To a blood kineticist, the water in a creature's blood is just like any other sort, and she uses

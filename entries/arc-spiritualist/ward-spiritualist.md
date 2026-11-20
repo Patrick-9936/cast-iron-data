@@ -16,10 +16,13 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonded senses", "phantom recall", "greater spiritual interference"]
-alters = ["Phantom", "Spellcasting"]
-replaces_features = ["bonded-senses", "phantom-recall", "greater-spiritual-interference"]
-alters_features = ["phantom"]
+trades = [
+  { replaces = "Bonded senses", feature = "bonded-senses" },
+  { replaces = "phantom recall", feature = "phantom-recall" },
+  { replaces = "greater spiritual interference", feature = "greater-spiritual-interference" },
+  { alters = "Phantom", feature = "phantom" },
+  { alters = "Spellcasting" },
+]
 +++
 
 While many spiritualists are bound to a departed spirit, a condition more likely to be the result of

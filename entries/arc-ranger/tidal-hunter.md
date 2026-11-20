@@ -16,10 +16,14 @@ page = "73"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy, 6th-level combat style feat", "Track", "camouflage", "Woodland stride", "Improved evasion"]
-alters = ["Favored terrain"]
-replaces_features = ["wild-empathy", "track", "camouflage", "woodland-stride", "improved-evasion"]
-alters_features = ["favored-terrain"]
+trades = [
+  { replaces = "Wild empathy, 6th-level combat style feat" },
+  { replaces = "Track", feature = "track" },
+  { replaces = "camouflage", feature = "camouflage" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { alters = "Favored terrain", feature = "favored-terrain" },
+]
 +++
 
 The tidal hunter draws strength from the fish and other wildlife of the deep.

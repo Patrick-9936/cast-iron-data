@@ -15,7 +15,9 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["The 1st-level bloodline power"]
+trades = [
+  { replaces = "The 1st-level bloodline power" },
+]
 +++
 
 **Prerequisites:** Must have one of these bloodlines: aberrant, abyssal, arcane, celestial,

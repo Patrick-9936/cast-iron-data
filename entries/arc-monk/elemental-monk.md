@@ -16,10 +16,15 @@ page = "4"
 
 [fields]
 kind = "archetype"
-replaces = ["Alignment requirement", "All bonus feats", "stunning fist", "Evasion", "purity of body", "diamond body"]
-alters = ["Ki pool"]
-replaces_features = ["stunning-fist", "evasion", "purity-of-body", "diamond-body"]
-alters_features = ["ki-pool"]
+trades = [
+  { replaces = "Alignment requirement" },
+  { replaces = "All bonus feats" },
+  { replaces = "stunning fist", feature = "stunning-fist" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "purity of body", feature = "purity-of-body" },
+  { replaces = "diamond body", feature = "diamond-body" },
+  { alters = "Ki pool", feature = "ki-pool" },
+]
 +++
 
 Elemental monks draw inspiration from genies to create their fighting style. Their adaptability and

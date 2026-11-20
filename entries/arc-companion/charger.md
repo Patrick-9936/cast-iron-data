@@ -12,7 +12,13 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Evasion", "Multiattack", "Devotion", "Improved Evasion"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Evasion" },
+  { replaces = "Multiattack" },
+  { replaces = "Devotion" },
+  { replaces = "Improved Evasion" },
+]
 +++
 
 The mighty charger is a boon to heavily armored and armed champions, bearing them and their

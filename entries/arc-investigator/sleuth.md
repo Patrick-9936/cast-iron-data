@@ -16,8 +16,10 @@ page = "101"
 
 [fields]
 kind = "archetype"
-replaces = ["Alchemy", "Swift alchemy"]
-replaces_features = ["alchemy", "swift-alchemy"]
+trades = [
+  { replaces = "Alchemy", feature = "alchemy" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+]
 +++
 
 A sleuth is an investigator who relies on good fortune and guile rather than alchemy. Having no

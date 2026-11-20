@@ -16,10 +16,10 @@ page = "79"
 
 [fields]
 kind = "archetype"
-replaces = ["Spellbooks"]
-alters = ["Spells"]
-replaces_features = ["spellbooks"]
-alters_features = ["spells"]
+trades = [
+  { replaces = "Spellbooks", feature = "spellbooks" },
+  { alters = "Spells", feature = "spells" },
+]
 +++
 
 Some arcanists store their spells as whispered secrets within familiars instead of on paper.

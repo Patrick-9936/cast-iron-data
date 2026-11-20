@@ -16,7 +16,9 @@ page = "36"
 
 [fields]
 kind = "archetype"
-replaces = ["Domain"]
+trades = [
+  { replaces = "Domain", feature = "domains" },
+]
 +++
 
 People of high and low character flock to Mendev for glory, plunder, or the desire to slay demons

@@ -16,7 +16,11 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["One of the 1st-level granted powers from her domains - the character gets to choose which of her two 1st-level granted powers it replaces", "Channel energy damage boost at 5th level", "The normal addition of a new 4th-level spell slot to the character's spells per day"]
+trades = [
+  { replaces = "One of the 1st-level granted powers from her domains - the character gets to choose which of her two 1st-level granted powers it replaces" },
+  { replaces = "Channel energy damage boost at 5th level" },
+  { replaces = "The normal addition of a new 4th-level spell slot to the character's spells per day" },
+]
 +++
 
 A scroll scholar values knowledge and learning as much as her other abilities, trading a portion of

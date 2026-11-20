@@ -16,7 +16,9 @@ page = "65"
 
 [fields]
 kind = "archetype"
-replaces = ["Spellcasting ability"]
+trades = [
+  { replaces = "Spellcasting ability" },
+]
 +++
 
 A trapper is a ranger who focuses exclusively on traps, rather than learning conventional magic. A

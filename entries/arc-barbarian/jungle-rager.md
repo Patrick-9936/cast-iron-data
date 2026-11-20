@@ -16,10 +16,12 @@ page = "39"
 
 [fields]
 kind = "archetype"
-replaces = ["Uncanny dodge", "Trap sense", "Improved uncanny dodge"]
-alters = ["Damage reduction"]
-replaces_features = ["uncanny-dodge", "trap-sense", "improved-uncanny-dodge"]
-alters_features = ["damage-reduction"]
+trades = [
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { alters = "Damage reduction", feature = "damage-reduction" },
+]
 +++
 
 More "civilized" folk sometimes scoff at the people of the Mwangi Expanse, dismissing them as

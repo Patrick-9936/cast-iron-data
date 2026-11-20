@@ -16,8 +16,12 @@ page = "17"
 
 [fields]
 kind = "archetype"
-alters = ["Blessings", "Spontaneous casting", "Bonus languages", "Channel"]
-alters_features = ["blessings", "spontaneous-casting", "bonus-languages"]
+trades = [
+  { alters = "Blessings", feature = "blessings" },
+  { alters = "Spontaneous casting", feature = "spontaneous-casting" },
+  { alters = "Bonus languages", feature = "bonus-languages" },
+  { alters = "Channel" },
+]
 +++
 
 Some warpriests study the ancient magic that the Jistkan magistrates used to bind elementals and

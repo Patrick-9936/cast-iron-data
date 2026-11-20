@@ -16,8 +16,13 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "lore master", "Countersong", "Versatile performance", "Jack-of-all-trades"]
-replaces_features = ["bardic-knowledge", "lore-master", "versatile-performance", "jack-of-all-trades"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "lore master", feature = "lore-master" },
+  { replaces = "Countersong" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Jack-of-all-trades", feature = "jack-of-all-trades" },
+]
 +++
 
 Solacers are experts in the healing arts as well as creators of performances that console the

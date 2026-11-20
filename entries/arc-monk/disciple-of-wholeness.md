@@ -16,10 +16,13 @@ page = "4"
 
 [fields]
 kind = "archetype"
-replaces = ["The ability to spend ki to gain an extra attack during a flurry of blows", "Purity of body", "Diamond body", "Diamond soul"]
-alters = ["Ki pool"]
-replaces_features = ["purity-of-body", "diamond-body", "diamond-soul"]
-alters_features = ["ki-pool"]
+trades = [
+  { replaces = "The ability to spend ki to gain an extra attack during a flurry of blows" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "Diamond body", feature = "diamond-body" },
+  { replaces = "Diamond soul", feature = "diamond-soul" },
+  { alters = "Ki pool", feature = "ki-pool" },
+]
 +++
 
 Disciples of wholeness train to bring themselves and others closer to physical and spiritual

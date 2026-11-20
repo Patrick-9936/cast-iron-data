@@ -16,8 +16,13 @@ page = "9"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Rogue talent gained at 2nd level", "trap sense", "Uncanny dodge", "improved uncanny dodge"]
-replaces_features = ["trapfinding", "trap-sense", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Rogue talent gained at 2nd level", feature = "rogue-talents", levels = [2] },
+  { replaces = "trap sense", feature = "trap-sense" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Shadow walkers are comfortable in light, darkness, and the shadows in between. Fetchling rogues

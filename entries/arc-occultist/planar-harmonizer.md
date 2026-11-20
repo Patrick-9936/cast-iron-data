@@ -16,10 +16,14 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Magic item skill", "Shift focus, 7th-level focus power", "Aura sight, 5th-level focus power"]
-alters = ["Implements", "implement mastery", "Magic circles"]
-replaces_features = ["magic-item-skill", "shift-focus", "aura-sight"]
-alters_features = ["implements", "implement-mastery", "magic-circles"]
+trades = [
+  { replaces = "Magic item skill", feature = "magic-item-skill" },
+  { replaces = "Shift focus, 7th-level focus power" },
+  { replaces = "Aura sight, 5th-level focus power" },
+  { alters = "Implements", feature = "implements" },
+  { alters = "implement mastery", feature = "implement-mastery" },
+  { alters = "Magic circles", feature = "magic-circles" },
+]
 +++
 
 Tuning forks resonate with the music of the planes, guiding travelers between worlds. Planar

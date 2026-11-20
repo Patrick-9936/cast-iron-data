@@ -16,10 +16,14 @@ page = "167"
 
 [fields]
 kind = "archetype"
-replaces = ["Phantom's emotional focus", "Detect undead", "Additional uses of calm spirit available at 11th, 15th, and 19th levels"]
-alters = ["Spellcasting", "Phantom", "Bonded manifestation"]
-replaces_features = ["detect-undead"]
-alters_features = ["phantom", "bonded-manifestation"]
+trades = [
+  { replaces = "Phantom's emotional focus" },
+  { replaces = "Detect undead", feature = "detect-undead" },
+  { replaces = "Additional uses of calm spirit available at 11th, 15th, and 19th levels" },
+  { alters = "Spellcasting" },
+  { alters = "Phantom", feature = "phantom" },
+  { alters = "Bonded manifestation", feature = "bonded-manifestation" },
+]
 +++
 
 The [Rivethun](ref/rule/aff-animists) teach their followers to cultivate a well of inner power and

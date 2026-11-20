@@ -16,10 +16,14 @@ page = "75"
 
 [fields]
 kind = "archetype"
-replaces = ["Scribe Scroll", "5th-, 10th-, and 15th-level bonus feats", "20th-level bonus feat"]
-alters = ["Arcane school", "alignment", "Arcane bond"]
-replaces_features = ["scribe-scroll"]
-alters_features = ["arcane-school", "arcane-bond"]
+trades = [
+  { replaces = "Scribe Scroll", feature = "scribe-scroll" },
+  { replaces = "5th-, 10th-, and 15th-level bonus feats", feature = "bonus-feats", levels = [5, 10, 15] },
+  { replaces = "20th-level bonus feat", feature = "bonus-feats", levels = [20] },
+  { alters = "Arcane school", feature = "arcane-school" },
+  { alters = "alignment" },
+  { alters = "Arcane bond", feature = "arcane-bond" },
+]
 +++
 
 Undead masters have great power over undeath.

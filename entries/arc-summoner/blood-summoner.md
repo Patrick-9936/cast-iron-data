@@ -16,8 +16,12 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Shield ally", "Transposition", "Greater shield ally", "Merge forms"]
-replaces_features = ["shield-ally", "transposition", "greater-shield-ally", "merge-forms"]
+trades = [
+  { replaces = "Shield ally", feature = "shield-ally" },
+  { replaces = "Transposition", feature = "transposition" },
+  { replaces = "Greater shield ally", feature = "greater-shield-ally" },
+  { replaces = "Merge forms", feature = "merge-forms" },
+]
 +++
 
 A blood summoner conjures an eidolon born from violence and blood. These cruel spellcasters are

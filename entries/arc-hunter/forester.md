@@ -16,10 +16,17 @@ page = "52"
 
 [fields]
 kind = "archetype"
-replaces = ["Precise companion", "Hunter tactics", "Improved empathic link", "Animal companion", "Bonus tricks", "Raise animal companion", "Speak with master", "Greater empathic link"]
-alters = ["Animal focus"]
-replaces_features = ["precise-companion", "hunter-tactics", "improved-empathic-link", "animal-companion", "bonus-tricks", "raise-animal-companion", "speak-with-master", "greater-empathic-link"]
-alters_features = ["animal-focus"]
+trades = [
+  { replaces = "Precise companion", feature = "precise-companion" },
+  { replaces = "Hunter tactics", feature = "hunter-tactics" },
+  { replaces = "Improved empathic link", feature = "improved-empathic-link" },
+  { replaces = "Animal companion", feature = "animal-companion" },
+  { replaces = "Bonus tricks", feature = "bonus-tricks" },
+  { replaces = "Raise animal companion", feature = "raise-animal-companion" },
+  { replaces = "Speak with master", feature = "speak-with-master" },
+  { replaces = "Greater empathic link", feature = "greater-empathic-link" },
+  { alters = "Animal focus", feature = "animal-focus" },
+]
 +++
 
 While all hunters have a bond with the natural world, a forester has a stronger tie to her

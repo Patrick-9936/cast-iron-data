@@ -12,7 +12,12 @@ page = "189"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Evasion", "Devotion", "Improved Evasion"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Evasion" },
+  { replaces = "Devotion" },
+  { replaces = "Improved Evasion" },
+]
 +++
 
 Favorites of druids who balance their responsibilities between flora and fauna, verdant companions

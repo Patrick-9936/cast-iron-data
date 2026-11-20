@@ -16,8 +16,13 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Inspire courage", "Inspire greatness", "Versatile performance", "Lore master"]
-replaces_features = ["bardic-knowledge", "versatile-performance", "lore-master"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Inspire courage" },
+  { replaces = "Inspire greatness" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Lore master", feature = "lore-master" },
+]
 +++
 
 Bards are experts at manipulating the emotions and perceptions of others. Negotiators are those

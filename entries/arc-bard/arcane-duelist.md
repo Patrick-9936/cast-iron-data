@@ -16,8 +16,16 @@ page = "80"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Countersong", "Suggestion", "Mass suggestion", "Versatile performance", "well-versed", "Lore master", "Jack of all trades"]
-replaces_features = ["bardic-knowledge", "versatile-performance", "well-versed", "lore-master", "jack-of-all-trades"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Countersong" },
+  { replaces = "Suggestion" },
+  { replaces = "Mass suggestion" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "well-versed", feature = "well-versed" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { replaces = "Jack of all trades", feature = "jack-of-all-trades" },
+]
 +++
 
 A master of the martial applications of steel and spell, the arcane duelist blends both into a

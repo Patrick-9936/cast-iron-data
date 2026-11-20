@@ -16,10 +16,16 @@ page = "45"
 
 [fields]
 kind = "archetype"
-replaces = ["Hunter's bond", "Woodland stride", "Quarry", "Camouflage", "Improved quarry"]
-alters = ["Track", "wild empathy", "Favored terrain"]
-replaces_features = ["hunter-s-bond", "woodland-stride", "quarry", "camouflage", "improved-quarry"]
-alters_features = ["track", "wild-empathy", "favored-terrain"]
+trades = [
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Quarry", feature = "quarry" },
+  { replaces = "Camouflage", feature = "camouflage" },
+  { replaces = "Improved quarry", feature = "improved-quarry" },
+  { alters = "Track", feature = "track" },
+  { alters = "wild empathy", feature = "wild-empathy" },
+  { alters = "Favored terrain", feature = "favored-terrain" },
+]
 +++
 
 The isolation that some [half-elves](ref/race/half-elf) feel leads them to live a life of isolation

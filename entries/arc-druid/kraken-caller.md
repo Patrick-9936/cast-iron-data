@@ -16,10 +16,14 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Trackless step", "Resist nature's lure", "A thousand faces"]
-alters = ["Bonus languages", "Wild shape"]
-replaces_features = ["woodland-stride", "trackless-step", "resist-nature-s-lure", "a-thousand-faces"]
-alters_features = ["bonus-languages", "wild-shape"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+  { alters = "Bonus languages", feature = "bonus-languages" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Some druids draw upon power irreverently stolen from one of the most dangerous creatures of the

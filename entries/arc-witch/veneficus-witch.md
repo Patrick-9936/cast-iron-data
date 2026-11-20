@@ -16,7 +16,9 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd- and 10th-level hexes"]
+trades = [
+  { replaces = "2nd- and 10th-level hexes", feature = "hex", levels = [2, 10] },
+]
 +++
 
 Veneficus witches specialize in poisons - brewing both magical and traditional concoctions, and

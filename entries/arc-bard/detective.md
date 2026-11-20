@@ -16,8 +16,14 @@ page = "81"
 
 [fields]
 kind = "archetype"
-replaces = ["Inspire courage", "Inspire greatness", "Inspire heroics", "Bardic knowledge", "Well-versed", "Versatile performance"]
-replaces_features = ["bardic-knowledge", "well-versed", "versatile-performance"]
+trades = [
+  { replaces = "Inspire courage" },
+  { replaces = "Inspire greatness" },
+  { replaces = "Inspire heroics" },
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+]
 +++
 
 Piecing together clues and catching the guilty with sheer cleverness, the detective is skilled at

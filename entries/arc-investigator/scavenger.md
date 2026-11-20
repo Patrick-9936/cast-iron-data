@@ -16,10 +16,13 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison lore", "Poison resistance", "poison immunity"]
-alters = ["Alchemy", "Inspiration"]
-replaces_features = ["poison-lore", "poison-resistance"]
-alters_features = ["alchemy", "inspiration"]
+trades = [
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity" },
+  { alters = "Alchemy", feature = "alchemy" },
+  { alters = "Inspiration", feature = "inspiration" },
+]
 +++
 
 Scavengers are masters of systems: how they fit together, why they work, and how to make the most of

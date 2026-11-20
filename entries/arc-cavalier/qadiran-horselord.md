@@ -19,10 +19,15 @@ page = "42"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "Tactician", "Cavalier's charge", "The bonus feat gained at 6th level", "Greater tactician", "Master tactician"]
-alters = ["Mount"]
-replaces_features = ["weapon-and-armor-proficiencies", "tactician", "cavalier-s-charge", "greater-tactician", "master-tactician"]
-alters_features = ["mount"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Tactician", feature = "tactician" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "The bonus feat gained at 6th level", feature = "bonus-feat", levels = [6] },
+  { replaces = "Greater tactician", feature = "greater-tactician" },
+  { replaces = "Master tactician", feature = "master-tactician" },
+  { alters = "Mount", feature = "mount" },
+]
 +++
 
 The traditions of the Qadiran horselords are now spread throughout Qadira and the lands beyond in

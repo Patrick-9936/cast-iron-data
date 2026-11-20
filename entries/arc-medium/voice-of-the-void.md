@@ -16,10 +16,12 @@ page = "212"
 
 [fields]
 kind = "archetype"
-replaces = ["Haunt channeler"]
-alters = ["Spirit", "Spirit surge", "Taboo"]
-replaces_features = ["haunt-channeler"]
-alters_features = ["spirit", "spirit-surge", "taboo"]
+trades = [
+  { replaces = "Haunt channeler", feature = "haunt-channeler" },
+  { alters = "Spirit", feature = "spirit" },
+  { alters = "Spirit surge", feature = "spirit-surge" },
+  { alters = "Taboo", feature = "taboo" },
+]
 +++
 
 Some mediums delve deeply into the spirit world and make contact with entities that exist outside

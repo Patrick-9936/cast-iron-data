@@ -16,8 +16,12 @@ page = "38"
 
 [fields]
 kind = "archetype"
-replaces = ["Consummate liar", "Towering ego", "Touch treatment", "Rule minds"]
-replaces_features = ["consummate-liar", "towering-ego", "touch-treatment", "rule-minds"]
+trades = [
+  { replaces = "Consummate liar", feature = "consummate-liar" },
+  { replaces = "Towering ego", feature = "towering-ego" },
+  { replaces = "Touch treatment", feature = "touch-treatment" },
+  { replaces = "Rule minds", feature = "rule-minds" },
+]
 +++
 
 Mesmerists that learn to pierce deep into the minds of their victims are known as thought eaters,

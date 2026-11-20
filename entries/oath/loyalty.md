@@ -13,8 +13,9 @@ page = "63"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Smite evil"]
-replaces_features = ["smite-evil"]
+trades = [
+  { replaces = "Smite evil", feature = "smite-evil" },
+]
 +++
 
 To most paladins, their word is everything. When they say something, it will be done. Those who take

@@ -12,7 +12,13 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "improved evasion", "Speak with animals of its kind", "spell resistance", "Scry on familiar"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "improved evasion" },
+  { replaces = "Speak with animals of its kind" },
+  { replaces = "spell resistance" },
+  { replaces = "Scry on familiar" },
+]
 +++
 
 The secret of the arcane amplifier familiar was first discovered in Irrisen, where the winter

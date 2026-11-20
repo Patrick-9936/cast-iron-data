@@ -16,8 +16,12 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Countersong", "Inspire competence", "Lore master"]
-replaces_features = ["bardic-knowledge", "lore-master"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Countersong" },
+  { replaces = "Inspire competence" },
+  { replaces = "Lore master", feature = "lore-master" },
+]
 +++
 
 Arguably the oldest and most widespread role for a court entertainer is that of the court jester or

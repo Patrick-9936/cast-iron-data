@@ -16,10 +16,18 @@ page = "45"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "Tactician", "Cavalier's charge", "The cavalier's normal bonus feats", "Greater tactician", "Mighty charge", "Demanding challenge", "Master tactician", "Supreme charge"]
-alters = ["Banner"]
-replaces_features = ["weapon-and-armor-proficiencies", "tactician", "cavalier-s-charge", "greater-tactician", "mighty-charge", "demanding-challenge", "master-tactician", "supreme-charge"]
-alters_features = ["banner"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Tactician", feature = "tactician" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "The cavalier's normal bonus feats" },
+  { replaces = "Greater tactician", feature = "greater-tactician" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "Demanding challenge", feature = "demanding-challenge" },
+  { replaces = "Master tactician", feature = "master-tactician" },
+  { replaces = "Supreme charge", feature = "supreme-charge" },
+  { alters = "Banner", feature = "banner" },
+]
 +++
 
 The Spellscar Desert is a dangerous wasteland into which few venture without a guide. Spellscar

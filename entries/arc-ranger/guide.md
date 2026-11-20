@@ -16,8 +16,14 @@ page = "125"
 
 [fields]
 kind = "archetype"
-replaces = ["Favored enemy", "Hunter's bond", "Evasion", "Quarry", "improved quarry", "Improved evasion"]
-replaces_features = ["favored-enemy", "hunter-s-bond", "evasion", "quarry", "improved-quarry", "improved-evasion"]
+trades = [
+  { replaces = "Favored enemy", feature = "favored-enemy" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Quarry", feature = "quarry" },
+  { replaces = "improved quarry", feature = "improved-quarry" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+]
 +++
 
 Many rangers are loners, but some choose to use their familiarity with the land to guide others

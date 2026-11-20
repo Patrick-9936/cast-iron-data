@@ -16,8 +16,11 @@ page = "67"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "All combat style feats", "Hunter's bond"]
-replaces_features = ["wild-empathy", "hunter-s-bond"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "All combat style feats" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+]
 +++
 
 Some rangers have taken up the mysteries of black powder in order to become big game hunters.

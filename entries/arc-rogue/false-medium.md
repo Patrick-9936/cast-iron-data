@@ -16,8 +16,11 @@ page = "123"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "2nd-level rogue talent", "Trap sense"]
-replaces_features = ["trapfinding", "trap-sense"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "2nd-level rogue talent", feature = "rogue-talents", levels = [2] },
+  { replaces = "Trap sense", feature = "trap-sense" },
+]
 +++
 
 The false medium is a master of pretending to have occult powers in order to manipulate the emotions

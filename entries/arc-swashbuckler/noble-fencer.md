@@ -16,8 +16,12 @@ page = "52"
 
 [fields]
 kind = "archetype"
-replaces = ["Dodging panache", "Superior feint", "Subtle blade", "Charmed life"]
-replaces_features = ["charmed-life"]
+trades = [
+  { replaces = "Dodging panache" },
+  { replaces = "Superior feint" },
+  { replaces = "Subtle blade" },
+  { replaces = "Charmed life", feature = "charmed-life" },
+]
 +++
 
 The noble fencer is an aristocrat or other upper-class socialite who trained in dueling from a young

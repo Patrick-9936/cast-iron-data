@@ -16,9 +16,12 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level hex", "6th-level hex"]
-alters = ["Patron", "patron spells"]
-alters_features = ["patron-spells"]
+trades = [
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+  { replaces = "6th-level hex", feature = "hex", levels = [6] },
+  { alters = "Patron" },
+  { alters = "patron spells", feature = "patron-spells" },
+]
 +++
 
 Some witches find their spark of magic in the long, dark shadows and forgotten places within the

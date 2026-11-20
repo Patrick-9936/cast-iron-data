@@ -16,8 +16,10 @@ page = "92"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd, 6th, 10th, 14th, and 18th level rage powers", "Damage reduction"]
-replaces_features = ["damage-reduction"]
+trades = [
+  { replaces = "2nd, 6th, 10th, 14th, and 18th level rage powers", feature = "rage-powers", levels = [2, 6, 10, 14, 18] },
+  { replaces = "Damage reduction", feature = "damage-reduction" },
+]
 +++
 
 Barbarian rages can be a thing of savage beauty, exhibiting a lethal grace. While such uncontrolled

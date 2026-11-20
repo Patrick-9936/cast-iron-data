@@ -13,8 +13,10 @@ page = "10"
 [fields]
 kind = "class_option"
 group = "medium-spirit"
-replaces = ["Overflowing grace"]
-alters = ["Divine surge"]
+trades = [
+  { replaces = "Overflowing grace" },
+  { alters = "Divine surge" },
+]
 +++
 
 The ruthless monarch who single-handedly changed the course of Cheliax's history, Abrogail Thrune I

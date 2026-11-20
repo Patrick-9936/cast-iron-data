@@ -16,9 +16,14 @@ page = "174"
 
 [fields]
 kind = "archetype"
-replaces = ["Fascinate", "Suggestion", "mass suggestion", "Dirge of doom", "frightening tune"]
-alters = ["Versatile performance"]
-alters_features = ["versatile-performance"]
+trades = [
+  { replaces = "Fascinate" },
+  { replaces = "Suggestion" },
+  { replaces = "mass suggestion" },
+  { replaces = "Dirge of doom" },
+  { replaces = "frightening tune" },
+  { alters = "Versatile performance", feature = "versatile-performance" },
+]
 +++
 
 As much as the [Silver Ravens](ref/rule/aff-rebels) are freedom fighters, they are also patrons of

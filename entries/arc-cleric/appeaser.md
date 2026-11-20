@@ -16,8 +16,13 @@ page = "15"
 
 [fields]
 kind = "archetype"
-alters = ["Aura", "Channel energy", "Alignment", "spells", "Domains"]
-alters_features = ["aura", "channel-energy", "spells", "domains"]
+trades = [
+  { alters = "Aura", feature = "aura" },
+  { alters = "Channel energy", feature = "channel-energy" },
+  { alters = "Alignment" },
+  { alters = "spells", feature = "spells" },
+  { alters = "Domains", feature = "domains" },
+]
 +++
 
 A rare few seek the power of dark forces for brighter ends by focusing on the utilitarian aspects of

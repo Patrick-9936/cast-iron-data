@@ -16,8 +16,11 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Bomb", "Mutagen", "persistent mutagen"]
-replaces_features = ["bomb", "mutagen", "persistent-mutagen"]
+trades = [
+  { replaces = "Bomb", feature = "bomb" },
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "persistent mutagen", feature = "persistent-mutagen" },
+]
 +++
 
 An interrogator extracts vital information from reluctant individuals using alchemical and

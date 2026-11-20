@@ -16,8 +16,16 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning fist", "Bonus feat gained at 1st level", "Purity of body", "bonus feat gained at 10th level", "Diamond soul", "Quivering palm", "Empty body", "Perfect self"]
-replaces_features = ["stunning-fist", "purity-of-body", "diamond-soul", "quivering-palm", "empty-body", "perfect-self"]
+trades = [
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "Bonus feat gained at 1st level", feature = "bonus-feat", levels = [1] },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "bonus feat gained at 10th level", feature = "bonus-feat", levels = [10] },
+  { replaces = "Diamond soul", feature = "diamond-soul" },
+  { replaces = "Quivering palm", feature = "quivering-palm" },
+  { replaces = "Empty body", feature = "empty-body" },
+  { replaces = "Perfect self", feature = "perfect-self" },
+]
 +++
 
 Nornkith hone their bodies and minds to follow the branching threefold paths of fate. Nornkith seek

@@ -12,7 +12,14 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Improved evasion", "share spells", "Deliver touch spells", "speak with animals of its kind", "spell resistance", "scry on familiar"]
+trades = [
+  { replaces = "Improved evasion" },
+  { replaces = "share spells" },
+  { replaces = "Deliver touch spells" },
+  { replaces = "speak with animals of its kind" },
+  { replaces = "spell resistance" },
+  { replaces = "scry on familiar" },
+]
 +++
 
 Most familiars are still something akin to normal animals, conduits for power rather than powers

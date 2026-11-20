@@ -16,10 +16,21 @@ page = "92"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon proficiencies", "Stunning fist", "fast movement", "Evasion", "purity of body", "improved evasion", "Slow fall", "still mind", "Wholeness of body", "diamond body"]
-alters = ["Alignment requirements", "Bonus feat", "Ki pool"]
-replaces_features = ["stunning-fist", "fast-movement", "evasion", "purity-of-body", "improved-evasion", "slow-fall", "still-mind", "wholeness-of-body", "diamond-body"]
-alters_features = ["bonus-feat", "ki-pool"]
+trades = [
+  { replaces = "Weapon proficiencies" },
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "fast movement", feature = "fast-movement" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "purity of body", feature = "purity-of-body" },
+  { replaces = "improved evasion", feature = "improved-evasion" },
+  { replaces = "Slow fall", feature = "slow-fall" },
+  { replaces = "still mind", feature = "still-mind" },
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "diamond body", feature = "diamond-body" },
+  { alters = "Alignment requirements" },
+  { alters = "Bonus feat", feature = "bonus-feat" },
+  { alters = "Ki pool", feature = "ki-pool" },
+]
 +++
 
 Monks of the hellcat sect follow the teachings of Asmodeus or another infernal power. Their brutal

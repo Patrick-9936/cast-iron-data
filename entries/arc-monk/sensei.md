@@ -16,8 +16,14 @@ page = "60"
 
 [fields]
 kind = "archetype"
-replaces = ["Flurry of blows", "fast movement", "improved evasion", "Evasion", "bonus feat gained at 2nd level", "Bonus feats gained at 6th, 10th, and 14th level"]
-replaces_features = ["flurry-of-blows", "fast-movement", "improved-evasion", "evasion"]
+trades = [
+  { replaces = "Flurry of blows", feature = "flurry-of-blows" },
+  { replaces = "fast movement", feature = "fast-movement" },
+  { replaces = "improved evasion", feature = "improved-evasion" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "bonus feat gained at 2nd level", feature = "bonus-feat", levels = [2] },
+  { replaces = "Bonus feats gained at 6th, 10th, and 14th level", feature = "bonus-feat", levels = [6, 10, 14] },
+]
 +++
 
 The sensei is a revered teacher who imparts lessons on the oneness of mind, body, and spirit, along

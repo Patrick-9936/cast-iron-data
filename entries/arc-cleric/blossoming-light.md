@@ -16,8 +16,12 @@ page = "112"
 
 [fields]
 kind = "archetype"
-alters = ["The cleric's armor proficiencies", "Alignment", "Channel energy", "domains"]
-alters_features = ["channel-energy", "domains"]
+trades = [
+  { alters = "The cleric's armor proficiencies" },
+  { alters = "Alignment" },
+  { alters = "Channel energy", feature = "channel-energy" },
+  { alters = "domains", feature = "domains" },
+]
 +++
 
 There are some clerics who take their pursuit of purity and light to extremes. These clerics are

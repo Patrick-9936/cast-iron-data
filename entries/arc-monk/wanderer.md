@@ -16,8 +16,15 @@ page = "76"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus feat gained at 1st level", "Still mind", "Slow fall", "High jump", "Wholeness of body", "Abundant step", "Diamond soul"]
-replaces_features = ["still-mind", "slow-fall", "high-jump", "wholeness-of-body", "abundant-step", "diamond-soul"]
+trades = [
+  { replaces = "Bonus feat gained at 1st level", feature = "bonus-feat", levels = [1] },
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Slow fall", feature = "slow-fall" },
+  { replaces = "High jump", feature = "high-jump" },
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { replaces = "Diamond soul", feature = "diamond-soul" },
+]
 +++
 
 Some monks wander the world in humility to learn and to share wisdom and philosophy from their

@@ -16,8 +16,16 @@ page = "9"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Inspire competence", "Frightening tune", "Inspire heroics", "Mass suggestion", "Versatile performance", "Well-versed", "Jack-of-all-trades"]
-replaces_features = ["bardic-knowledge", "versatile-performance", "well-versed", "jack-of-all-trades"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Inspire competence" },
+  { replaces = "Frightening tune" },
+  { replaces = "Inspire heroics" },
+  { replaces = "Mass suggestion" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Jack-of-all-trades", feature = "jack-of-all-trades" },
+]
 +++
 
 A mute musician forswears speech for the unnatural songs and thunderous silences of the depths of

@@ -16,8 +16,10 @@ page = "18"
 
 [fields]
 kind = "archetype"
-alters = ["Shifter claws", "Shifter aspect"]
-alters_features = ["shifter-claws", "shifter-aspect"]
+trades = [
+  { alters = "Shifter claws", feature = "shifter-claws" },
+  { alters = "Shifter aspect", feature = "shifter-aspect" },
+]
 +++
 
 Rather than assume aspects taken from the traits of natural animals, a leafshifter transforms into

@@ -16,8 +16,10 @@ page = "67"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "6th-level combat style feat"]
-replaces_features = ["wild-empathy"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "6th-level combat style feat", feature = "combat-style-feat", levels = [6] },
+]
 +++
 
 Rangers have always enjoyed a special bond with a specific animal, but the falconer takes this bond

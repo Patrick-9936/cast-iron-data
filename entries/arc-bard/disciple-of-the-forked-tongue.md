@@ -16,8 +16,11 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Inspire courage", "Inspire greatness", "Versatile performance"]
-replaces_features = ["versatile-performance"]
+trades = [
+  { replaces = "Inspire courage" },
+  { replaces = "Inspire greatness" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+]
 +++
 
 Studied in venomous words as well as venomous blood, a disciple of the forked tongue knows just the

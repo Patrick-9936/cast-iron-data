@@ -16,7 +16,13 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level hex", "2nd-, 8th-, and 14th-level hexes", "4th- and 12th-level hexes", "10th-level hex", "20th-level hex"]
+trades = [
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+  { replaces = "2nd-, 8th-, and 14th-level hexes", feature = "hex", levels = [2, 8, 14] },
+  { replaces = "4th- and 12th-level hexes", feature = "hex", levels = [4, 12] },
+  { replaces = "10th-level hex", feature = "hex", levels = [10] },
+  { replaces = "20th-level hex", feature = "hex", levels = [20] },
+]
 +++
 
 Whether a [changeling](ref/race/changeling) in the process of succumbing to her mother's call, a

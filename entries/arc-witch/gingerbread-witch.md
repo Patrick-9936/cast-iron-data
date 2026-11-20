@@ -16,8 +16,14 @@ page = "72"
 
 [fields]
 kind = "archetype"
-replaces = ["1st- and 10th-level hexes", "4th-level hex", "8th-level hex", "12th-level hex", "16th-level hex"]
-alters = ["Familiar"]
+trades = [
+  { replaces = "1st- and 10th-level hexes", feature = "hex", levels = [1, 10] },
+  { replaces = "4th-level hex", feature = "hex", levels = [4] },
+  { replaces = "8th-level hex", feature = "hex", levels = [8] },
+  { replaces = "12th-level hex", feature = "hex", levels = [12] },
+  { replaces = "16th-level hex", feature = "hex", levels = [16] },
+  { alters = "Familiar" },
+]
 +++
 
 A sweet tooth lures the gingerbread witch's victims to doom.

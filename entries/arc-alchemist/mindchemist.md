@@ -16,8 +16,10 @@ page = "19"
 
 [fields]
 kind = "archetype"
-replaces = ["Mutagen", "Poison use"]
-replaces_features = ["mutagen", "poison-use"]
+trades = [
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "Poison use", feature = "poison-use" },
+]
 +++
 
 While most alchemists use mutagens to boost their physical ability at the cost of mental ability,

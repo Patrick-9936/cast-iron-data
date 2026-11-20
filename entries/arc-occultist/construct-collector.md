@@ -16,8 +16,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["3rd-, 9th- and 15th-level focus powers", "Magic circles", "outside contact", "binding circles", "fast circles"]
-replaces_features = ["magic-circles", "outside-contact", "binding-circles", "fast-circles"]
+trades = [
+  { replaces = "3rd-, 9th- and 15th-level focus powers", feature = "focus-powers", levels = [3, 9, 15] },
+  { replaces = "Magic circles", feature = "magic-circles" },
+  { replaces = "outside contact", feature = "outside-contact" },
+  { replaces = "binding circles", feature = "binding-circles" },
+  { replaces = "fast circles", feature = "fast-circles" },
+]
 +++
 
 Trapped within each construct is a spiritual presence, be it a bound elemental or raw magical

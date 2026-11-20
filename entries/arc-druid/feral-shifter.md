@@ -16,8 +16,12 @@ page = "92"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature bond", "Venom immunity", "a thousand faces", "timeless body"]
-replaces_features = ["nature-bond", "venom-immunity", "a-thousand-faces", "timeless-body"]
+trades = [
+  { replaces = "Nature bond", feature = "nature-bond" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { replaces = "a thousand faces", feature = "a-thousand-faces" },
+  { replaces = "timeless body", feature = "timeless-body" },
+]
 +++
 
 A feral shifter internalizes her communion with and mastery over animals. Instead of forming a bond

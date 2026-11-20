@@ -16,8 +16,9 @@ page = "78"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement"]
-replaces_features = ["fast-movement"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+]
 +++
 
 A raging barbarian is frightening enough in melee, but some become skilled at throwing objects at

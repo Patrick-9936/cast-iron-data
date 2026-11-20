@@ -16,8 +16,12 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Inspire greatness", "Bardic knowledge", "well-versed", "Lore master"]
-replaces_features = ["bardic-knowledge", "well-versed", "lore-master"]
+trades = [
+  { replaces = "Inspire greatness" },
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "well-versed", feature = "well-versed" },
+  { replaces = "Lore master", feature = "lore-master" },
+]
 +++
 
 ## Plant Speaker (Vine Leshy only)

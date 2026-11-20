@@ -16,8 +16,12 @@ page = "40"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning fist", "Maneuver training", "Abundant step", "quivering palm"]
-replaces_features = ["stunning-fist", "maneuver-training", "abundant-step", "quivering-palm"]
+trades = [
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "Maneuver training", feature = "maneuver-training" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { replaces = "quivering palm", feature = "quivering-palm" },
+]
 +++
 
 When Tian monks founded the Monastery of the Seven Forms near the present border between Qadira and

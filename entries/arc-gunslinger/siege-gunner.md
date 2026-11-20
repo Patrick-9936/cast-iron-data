@@ -16,8 +16,12 @@ page = "45"
 
 [fields]
 kind = "archetype"
-replaces = ["Nimble", "Deadeye deed", "Gunslinger initiative deed", "The gunslinger's normal bonus feats"]
-replaces_features = ["nimble"]
+trades = [
+  { replaces = "Nimble", feature = "nimble" },
+  { replaces = "Deadeye deed" },
+  { replaces = "Gunslinger initiative deed" },
+  { replaces = "The gunslinger's normal bonus feats" },
+]
 +++
 
 The Grand Duchy of Alkenstar has spawned all manner of firearm specialists, wielding small and large

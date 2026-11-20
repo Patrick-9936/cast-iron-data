@@ -16,7 +16,9 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus spells gained at 2nd, 4th, 8th, and 14th levels from the oracle's mystery"]
+trades = [
+  { replaces = "The bonus spells gained at 2nd, 4th, 8th, and 14th levels from the oracle's mystery" },
+]
 +++
 
 An inerrant voice serves as a spiritual advisor to either a monarch or noble. Most Qadiran nobles

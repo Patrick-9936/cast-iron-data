@@ -16,7 +16,13 @@ page = "112"
 
 [fields]
 kind = "archetype"
-replaces = ["Wandering spirit gained at 4th level", "Spirit magic spells gained from the shaman's wandering spirit", "Wandering hex gained at 6th level", "Greater version of wandering spirit gained at 12th level", "true version of wandering spirit gained at 20th level"]
+trades = [
+  { replaces = "Wandering spirit gained at 4th level", feature = "wandering-spirit", levels = [4] },
+  { replaces = "Spirit magic spells gained from the shaman's wandering spirit" },
+  { replaces = "Wandering hex gained at 6th level", feature = "wandering-hex", levels = [6] },
+  { replaces = "Greater version of wandering spirit gained at 12th level" },
+  { replaces = "true version of wandering spirit gained at 20th level" },
+]
 +++
 
 The visionary is a master at divination, drawing upon her intimate relationship with the spirit

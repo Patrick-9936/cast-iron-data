@@ -16,10 +16,12 @@ page = "33"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense", "investigator talent gained at 7th level"]
-alters = ["Inspiration"]
-replaces_features = ["trapfinding", "trap-sense"]
-alters_features = ["inspiration"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "investigator talent gained at 7th level", feature = "investigator-talent", levels = [7] },
+  { alters = "Inspiration", feature = "inspiration" },
+]
 +++
 
 A conspirator uses his knowledge of investigations to make sure he avoids any investigations that

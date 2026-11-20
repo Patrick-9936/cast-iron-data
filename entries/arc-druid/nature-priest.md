@@ -16,10 +16,13 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature sense", "Resist nature's lure", "Venom immunity"]
-alters = ["Weapon proficiencies", "Nature bond"]
-replaces_features = ["nature-sense", "resist-nature-s-lure", "venom-immunity"]
-alters_features = ["nature-bond"]
+trades = [
+  { replaces = "Nature sense", feature = "nature-sense" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { alters = "Weapon proficiencies" },
+  { alters = "Nature bond", feature = "nature-bond" },
+]
 +++
 
 Nature priests serve two masters: their deities and nature itself, and can call upon the power of

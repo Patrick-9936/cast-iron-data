@@ -16,10 +16,13 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["Brew potion", "Mutagen", "Persistent mutagen"]
-alters = ["Extracts", "Bomb"]
-replaces_features = ["brew-potion", "mutagen", "persistent-mutagen"]
-alters_features = ["extracts", "bomb"]
+trades = [
+  { replaces = "Brew potion", feature = "brew-potion" },
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
+  { alters = "Extracts", feature = "extracts" },
+  { alters = "Bomb", feature = "bomb" },
+]
 +++
 
 While most alchemists focus on the flash of loud explosions, full-bodied potions, and dramatically

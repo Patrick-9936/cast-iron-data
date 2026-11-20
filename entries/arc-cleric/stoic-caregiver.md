@@ -16,8 +16,10 @@ page = "6"
 
 [fields]
 kind = "archetype"
-alters = ["Channel energy", "Domains"]
-alters_features = ["channel-energy", "domains"]
+trades = [
+  { alters = "Channel energy", feature = "channel-energy" },
+  { alters = "Domains", feature = "domains" },
+]
 +++
 
 Stoic caregivers are champions of life in defiance of untimely death as well as undeath. Stoic

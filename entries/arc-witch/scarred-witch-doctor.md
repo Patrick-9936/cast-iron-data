@@ -16,7 +16,10 @@ page = "140"
 
 [fields]
 kind = "archetype"
-replaces = ["Familiar", "1st-level hex"]
+trades = [
+  { replaces = "Familiar" },
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+]
 +++
 
 The scarred witch doctor draws power from her ability to endure pain and suffering. She mutilates

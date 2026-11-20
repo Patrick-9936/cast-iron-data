@@ -16,8 +16,11 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "Weapon expertise", "Mounted archer"]
-replaces_features = ["mount", "weapon-expertise", "mounted-archer"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Weapon expertise", feature = "weapon-expertise" },
+  { replaces = "Mounted archer", feature = "mounted-archer" },
+]
 +++
 
 Yojimbo are highly trained bodyguards favored by the nobles and warlords of distant Minkai. Yojimbo

@@ -16,10 +16,15 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Mutagen", "Poison resistance", "Swift alchemy", "The discovery gained at 6th level", "Poison immunity"]
-alters = ["Extracts", "Bomb"]
-replaces_features = ["mutagen", "poison-resistance", "swift-alchemy"]
-alters_features = ["extracts", "bomb"]
+trades = [
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { replaces = "The discovery gained at 6th level", feature = "discovery", levels = [6] },
+  { replaces = "Poison immunity" },
+  { alters = "Extracts", feature = "extracts" },
+  { alters = "Bomb", feature = "bomb" },
+]
 +++
 
 Alchemical sappers are trained to create explosives.

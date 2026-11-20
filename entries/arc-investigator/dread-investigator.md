@@ -16,10 +16,15 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison lore", "Poison resistance", "immunity", "Investigator talents gained at 7th, 13th, and 19th level"]
-alters = ["Inspiration", "studied combat", "studied strike"]
-replaces_features = ["poison-lore", "poison-resistance"]
-alters_features = ["inspiration", "studied-combat", "studied-strike"]
+trades = [
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "immunity" },
+  { replaces = "Investigator talents gained at 7th, 13th, and 19th level", feature = "investigator-talent", levels = [7, 13, 19] },
+  { alters = "Inspiration", feature = "inspiration" },
+  { alters = "studied combat", feature = "studied-combat" },
+  { alters = "studied strike", feature = "studied-strike" },
+]
 +++
 
 The dread investigator observes human behavior after the fact, honing their intuition by delving

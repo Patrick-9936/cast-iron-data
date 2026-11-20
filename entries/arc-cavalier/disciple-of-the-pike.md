@@ -16,8 +16,15 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "Cavalier's charge", "Expert trainer", "Banner", "greater banner", "Mighty charge", "Supreme charge"]
-replaces_features = ["mount", "cavalier-s-charge", "expert-trainer", "banner", "greater-banner", "mighty-charge", "supreme-charge"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "Banner", feature = "banner" },
+  { replaces = "greater banner", feature = "greater-banner" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "Supreme charge", feature = "supreme-charge" },
+]
 +++
 
 The [Hellknight](ref/rule/aff-lawknights)

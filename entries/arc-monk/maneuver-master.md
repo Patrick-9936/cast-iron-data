@@ -16,8 +16,14 @@ page = "58"
 
 [fields]
 kind = "archetype"
-replaces = ["Flurry of blows", "Still mind", "Slow fall", "Purity of body", "Diamond body", "Quivering palm"]
-replaces_features = ["flurry-of-blows", "still-mind", "slow-fall", "purity-of-body", "diamond-body", "quivering-palm"]
+trades = [
+  { replaces = "Flurry of blows", feature = "flurry-of-blows" },
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Slow fall", feature = "slow-fall" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "Diamond body", feature = "diamond-body" },
+  { replaces = "Quivering palm", feature = "quivering-palm" },
+]
 +++
 
 The maneuver master specializes in more complicated moves than simple damage-dealing strikes.

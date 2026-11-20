@@ -12,7 +12,10 @@ page = "187"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Multiattack"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Multiattack" },
+]
 +++
 
 Bigger than others of its kind, a bully is used to winning fights and displays of dominance for its

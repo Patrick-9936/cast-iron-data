@@ -16,7 +16,9 @@ page = "79"
 
 [fields]
 kind = "archetype"
-replaces = ["The arcanist exploits gained at 1st and 9th levels"]
+trades = [
+  { replaces = "The arcanist exploits gained at 1st and 9th levels", feature = "arcanist-exploits", levels = [1, 9] },
+]
 +++
 
 A white mage is an arcanist touched by a divine power and gifted with the ability to heal others.

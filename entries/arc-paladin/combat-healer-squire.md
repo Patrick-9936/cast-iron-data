@@ -16,8 +16,11 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect evil", "Divine grace", "Divine health"]
-replaces_features = ["detect-evil", "divine-grace", "divine-health"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "Divine grace", feature = "divine-grace" },
+  { replaces = "Divine health", feature = "divine-health" },
+]
 +++
 
 Always ready with bandages and potions, the combat healer squire keeps her knight on his feet

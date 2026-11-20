@@ -16,8 +16,13 @@ page = "68"
 
 [fields]
 kind = "archetype"
-replaces = ["1st favored enemy", "2nd-level combat style feat", "Hunter's bond", "2nd, 3rd, 4th, and 5th favored enemy", "6th-, 10th-, 14th-, and 18th-level combat style feat"]
-replaces_features = ["hunter-s-bond"]
+trades = [
+  { replaces = "1st favored enemy" },
+  { replaces = "2nd-level combat style feat", feature = "combat-style-feat", levels = [2] },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "2nd, 3rd, 4th, and 5th favored enemy" },
+  { replaces = "6th-, 10th-, 14th-, and 18th-level combat style feat", feature = "combat-style-feat", levels = [6, 10, 14, 18] },
+]
 +++
 
 Civilization grows stronger and more decadent with each passing year. It tears into unclaimed

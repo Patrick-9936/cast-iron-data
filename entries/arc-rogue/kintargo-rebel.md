@@ -16,8 +16,10 @@ page = "40"
 
 [fields]
 kind = "archetype"
-replaces = ["Trap sense", "Uncanny dodge"]
-replaces_features = ["trap-sense", "uncanny-dodge"]
+trades = [
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+]
 +++
 
 With few natural barriers, a thriving international port, and many miles separating it from Egorian,

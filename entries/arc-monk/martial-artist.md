@@ -16,10 +16,21 @@ page = "59"
 
 [fields]
 kind = "archetype"
-replaces = ["Still mind", "Slow fall", "Ki pool", "Purity of body", "diamond body", "perfect self", "Wholeness of body", "timeless body", "tongue of sun and moon", "Abundant step", "Diamond soul", "Empty body"]
-alters = ["Quivering palm"]
-replaces_features = ["still-mind", "slow-fall", "ki-pool", "purity-of-body", "diamond-body", "perfect-self", "wholeness-of-body", "timeless-body", "abundant-step", "diamond-soul", "empty-body"]
-alters_features = ["quivering-palm"]
+trades = [
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Slow fall", feature = "slow-fall" },
+  { replaces = "Ki pool", feature = "ki-pool" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "diamond body", feature = "diamond-body" },
+  { replaces = "perfect self", feature = "perfect-self" },
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "timeless body", feature = "timeless-body" },
+  { replaces = "tongue of sun and moon", feature = "tongue-of-the-sun-and-moon" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { replaces = "Diamond soul", feature = "diamond-soul" },
+  { replaces = "Empty body", feature = "empty-body" },
+  { alters = "Quivering palm", feature = "quivering-palm" },
+]
 +++
 
 The martial artist pursues a mastery of pure martial arts without the monastic traditions. He is a

@@ -13,7 +13,9 @@ page = "10"
 [fields]
 kind = "class_option"
 group = "medium-spirit"
-replaces = ["Absorb blow"]
+trades = [
+  { replaces = "Absorb blow" },
+]
 +++
 
 General Arnisant was a Taldan hero who sacrificed himself in the battle against

@@ -16,10 +16,13 @@ page = "48"
 
 [fields]
 kind = "archetype"
-replaces = ["Uncanny dodge", "improved uncanny dodge", "damage reduction", "Dirge of doom"]
-alters = ["Bardic knowledge"]
-replaces_features = ["uncanny-dodge", "improved-uncanny-dodge", "damage-reduction", "dirge-of-doom"]
-alters_features = ["bardic-knowledge"]
+trades = [
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "damage reduction", feature = "damage-reduction" },
+  { replaces = "Dirge of doom", feature = "dirge-of-doom" },
+  { alters = "Bardic knowledge", feature = "bardic-knowledge" },
+]
 +++
 
 The bold schemer combines wrath, wits, and daring to win battles and wars in unconventional ways,

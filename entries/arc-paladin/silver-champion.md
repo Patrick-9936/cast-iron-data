@@ -16,10 +16,15 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Divine bond", "channel energy", "aura of justice", "aura of righteousness"]
-alters = ["Smite evil", "mercy", "Spellcasting"]
-replaces_features = ["divine-bond", "channel-energy", "aura-of-justice", "aura-of-righteousness"]
-alters_features = ["smite-evil", "mercy"]
+trades = [
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { replaces = "channel energy", feature = "channel-energy" },
+  { replaces = "aura of justice", feature = "aura-of-justice" },
+  { replaces = "aura of righteousness", feature = "aura-of-righteousness" },
+  { alters = "Smite evil", feature = "smite-evil" },
+  { alters = "mercy", feature = "mercy" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Paladins who serve as priests of Apsu are almost always on the move, wandering from place to place

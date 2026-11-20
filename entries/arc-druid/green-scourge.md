@@ -16,10 +16,12 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature sense", "Trackless step", "Resist nature's lure"]
-alters = ["Spontaneous casting"]
-replaces_features = ["nature-sense", "trackless-step", "resist-nature-s-lure"]
-alters_features = ["spontaneous-casting"]
+trades = [
+  { replaces = "Nature sense", feature = "nature-sense" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { alters = "Spontaneous casting", feature = "spontaneous-casting" },
+]
 +++
 
 Green scourges are militant druids sworn to restore natural order. They're less concerned with

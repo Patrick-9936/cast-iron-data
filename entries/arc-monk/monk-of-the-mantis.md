@@ -16,10 +16,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd-, 6th-, 10th-, 14th-, and 18th-level bonus feats", "Wholeness of body", "diamond body", "diamond soul"]
-alters = ["Quivering palm"]
-replaces_features = ["wholeness-of-body", "diamond-body", "diamond-soul"]
-alters_features = ["quivering-palm"]
+trades = [
+  { replaces = "2nd-, 6th-, 10th-, 14th-, and 18th-level bonus feats", feature = "bonus-feat", levels = [2, 6, 10, 14, 18] },
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "diamond body", feature = "diamond-body" },
+  { replaces = "diamond soul", feature = "diamond-soul" },
+  { alters = "Quivering palm", feature = "quivering-palm" },
+]
 +++
 
 A body contains many points where the flesh, mind, and spirit coincide. A monk of the mantis is

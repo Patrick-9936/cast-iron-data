@@ -16,8 +16,13 @@ page = "44"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement", "Uncanny dodge", "Trap sense", "4th, 8th, 12th, and 16th level rage powers", "Improved uncanny dodge"]
-replaces_features = ["fast-movement", "uncanny-dodge", "trap-sense", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "4th, 8th, 12th, and 16th level rage powers", feature = "rage-powers", levels = [4, 8, 12, 16] },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 The Shoanti tribes who live in the Cinderlands have turned the deadly emberstorms that plague the

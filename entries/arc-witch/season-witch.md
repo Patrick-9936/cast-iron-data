@@ -16,7 +16,9 @@ page = "90"
 
 [fields]
 kind = "archetype"
-alters = ["Patron, 1st-level hex"]
+trades = [
+  { alters = "Patron, 1st-level hex" },
+]
 +++
 
 Season witches gain their power from the cyclical and mystical exchange of energy passed from one

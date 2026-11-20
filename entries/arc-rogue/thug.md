@@ -16,8 +16,10 @@ page = "135"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense"]
-replaces_features = ["trapfinding", "trap-sense"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+]
 +++
 
 Some criminals steal with finesse, their victims only discovering the crime when the rogue is long

@@ -16,9 +16,13 @@ page = "84"
 
 [fields]
 kind = "archetype"
-replaces = ["Familiar", "1st-level hex", "4th-level hex", "8th-level hex"]
-alters = ["Patron spells"]
-alters_features = ["patron-spells"]
+trades = [
+  { replaces = "Familiar" },
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+  { replaces = "4th-level hex", feature = "hex", levels = [4] },
+  { replaces = "8th-level hex", feature = "hex", levels = [8] },
+  { alters = "Patron spells", feature = "patron-spells" },
+]
 +++
 
 Having much in common with necromancers, the gravewalker is obsessed with the occult manipulations

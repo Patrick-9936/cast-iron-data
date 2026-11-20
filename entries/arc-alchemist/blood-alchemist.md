@@ -16,8 +16,10 @@ page = "44"
 
 [fields]
 kind = "archetype"
-replaces = ["Mutagen", "Bombs"]
-replaces_features = ["mutagen"]
+trades = [
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "Bombs", feature = "bomb" },
+]
 +++
 
 Most alchemists can transform matter and energy into other forms, but some wicked specialists

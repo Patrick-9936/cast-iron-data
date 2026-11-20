@@ -16,8 +16,11 @@ page = "120"
 
 [fields]
 kind = "archetype"
-replaces = ["Slayer talent gained at 2nd level", "Stalker", "Advanced slayer talent gained at 10th level"]
-replaces_features = ["stalker"]
+trades = [
+  { replaces = "Slayer talent gained at 2nd level", feature = "slayer-talents", levels = [2] },
+  { replaces = "Stalker", feature = "stalker" },
+  { replaces = "Advanced slayer talent gained at 10th level", feature = "advanced-talents", levels = [10] },
+]
 +++
 
 While paladins and inquisitors use their connection with the divine to fight undead hordes and other

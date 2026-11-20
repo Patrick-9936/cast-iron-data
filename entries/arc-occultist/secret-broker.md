@@ -16,10 +16,15 @@ page = "68"
 
 [fields]
 kind = "archetype"
-replaces = ["Magic item skill", "Shift focus", "Magic circles", "Binding circles", "Fast circles"]
-alters = ["Implements", "implement mastery"]
-replaces_features = ["magic-item-skill", "shift-focus", "magic-circles", "binding-circles", "fast-circles"]
-alters_features = ["implements", "implement-mastery"]
+trades = [
+  { replaces = "Magic item skill", feature = "magic-item-skill" },
+  { replaces = "Shift focus", feature = "shift-focus" },
+  { replaces = "Magic circles", feature = "magic-circles" },
+  { replaces = "Binding circles", feature = "binding-circles" },
+  { replaces = "Fast circles", feature = "fast-circles" },
+  { alters = "Implements", feature = "implements" },
+  { alters = "implement mastery", feature = "implement-mastery" },
+]
 +++
 
 Whether as spymasters, extortionists, political fixers, or puppet masters, secret brokers use their
