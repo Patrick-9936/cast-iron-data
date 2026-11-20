@@ -3,7 +3,7 @@ id = "ref/spell/break-greater"
 kind = "spell"
 title = "Greater Break"
 aon = "SpellDisplay.aspx?ItemName=Break%2C%20Greater"
-source_ids = ["advanced-players-guide", "ultimate-intrigue"]
+source_ids = ["ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "break_greater", path = "json/spells2.json" },
 ]

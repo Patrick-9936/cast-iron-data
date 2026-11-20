@@ -3,7 +3,7 @@ id = "ref/spell/demanding-message"
 kind = "spell"
 title = "Demanding Message"
 aon = "SpellDisplay.aspx?ItemName=Demanding%20Message"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "demanding_message", path = "json/spells14.json" },
 ]

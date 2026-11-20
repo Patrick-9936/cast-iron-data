@@ -3,7 +3,7 @@ id = "ref/spell/detect-desires"
 kind = "spell"
 title = "Detect Desires"
 aon = "SpellDisplay.aspx?ItemName=Detect%20Desires"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "detect_desires", path = "json/spells3.json" },
 ]

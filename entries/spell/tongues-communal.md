@@ -3,7 +3,7 @@ id = "ref/spell/tongues-communal"
 kind = "spell"
 title = "Communal Tongues"
 aon = "SpellDisplay.aspx?ItemName=Tongues%2C%20Communal"
-source_ids = ["core-rulebook", "ultimate-combat"]
+source_ids = ["ultimate-combat"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "tongues_communal", path = "json/spells10.json" },
 ]

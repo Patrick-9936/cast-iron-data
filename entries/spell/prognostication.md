@@ -3,7 +3,7 @@ id = "ref/spell/prognostication"
 kind = "spell"
 title = "Prognostication"
 aon = "SpellDisplay.aspx?ItemName=Prognostication"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "prognostication", path = "json/spells13.json" },
 ]

@@ -3,7 +3,7 @@ id = "ref/spell/astral-projection-lesser"
 kind = "spell"
 title = "Lesser Astral Projection"
 aon = "SpellDisplay.aspx?ItemName=Astral%20Projection%2C%20Lesser"
-source_ids = ["core-rulebook", "ultimate-magic"]
+source_ids = ["ultimate-magic"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "astral_projection_lesser", path = "json/spells.json" },
 ]

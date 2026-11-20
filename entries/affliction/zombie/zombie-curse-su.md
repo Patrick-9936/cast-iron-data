@@ -2,7 +2,7 @@
 id = "ref/affliction/zombie/zombie-curse-su"
 kind = "affliction"
 title = "Zombie Curse (Su)"
-source_ids = ["bestiary", "classic-horrors-revisited"]
+source_ids = ["classic-horrors-revisited"]
 parent = "ref/template/zombie"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "zombie|affliction:zombie-curse-su", path = "json/monster_template4.json" },

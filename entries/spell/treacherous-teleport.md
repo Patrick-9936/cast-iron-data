@@ -3,7 +3,7 @@ id = "ref/spell/treacherous-teleport"
 kind = "spell"
 title = "Treacherous Teleport"
 aon = "SpellDisplay.aspx?ItemName=Treacherous%20Teleport"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "treacherous_teleport", path = "json/spells10.json" },
 ]

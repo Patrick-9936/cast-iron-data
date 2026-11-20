@@ -3,7 +3,7 @@ id = "ref/spell/deadmans-contingency"
 kind = "spell"
 title = "Deadman's Contingency"
 aon = "SpellDisplay.aspx?ItemName=Deadman%27s%20Contingency"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "deadmans_contingency", path = "json/spells12.json" },
 ]

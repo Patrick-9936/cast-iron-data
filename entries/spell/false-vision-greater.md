@@ -3,7 +3,7 @@ id = "ref/spell/false-vision-greater"
 kind = "spell"
 title = "Greater False Vision"
 aon = "SpellDisplay.aspx?ItemName=False%20Vision%2C%20Greater"
-source_ids = ["core-rulebook", "ultimate-intrigue"]
+source_ids = ["ultimate-intrigue"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "false_vision_greater", path = "json/spells4.json" },
 ]

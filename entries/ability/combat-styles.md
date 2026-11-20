@@ -10,6 +10,9 @@ provenance = [
 publication = "core-rulebook"
 [[sources]]
 publication = "advanced-players-guide"
+[[sources]]
+publication = "aquatic-adventures"
+page = "55"
 
 [fields]
 kind = "none"

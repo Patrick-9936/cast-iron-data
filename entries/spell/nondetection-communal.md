@@ -3,7 +3,7 @@ id = "ref/spell/nondetection-communal"
 kind = "spell"
 title = "Communal Nondetection"
 aon = "SpellDisplay.aspx?ItemName=Nondetection%2C%20Communal"
-source_ids = ["core-rulebook", "ultimate-combat"]
+source_ids = ["ultimate-combat"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "nondetection_communal", path = "json/spells7.json" },
 ]

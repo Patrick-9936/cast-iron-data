@@ -3,7 +3,7 @@ id = "ref/spell/water-walk-communal"
 kind = "spell"
 title = "Communal Water Walk"
 aon = "SpellDisplay.aspx?ItemName=Water%20Walk%2C%20Communal"
-source_ids = ["core-rulebook", "ultimate-combat"]
+source_ids = ["ultimate-combat"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "water_walk_communal", path = "json/spells11.json" },
 ]

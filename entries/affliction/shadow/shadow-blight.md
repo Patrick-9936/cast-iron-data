@@ -2,7 +2,7 @@
 id = "ref/affliction/shadow/shadow-blight"
 kind = "affliction"
 title = "Shadow blight"
-source_ids = ["bestiary", "undead-revisited"]
+source_ids = ["undead-revisited"]
 parent = "ref/monster/shadow"
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "shadow|affliction:shadow-blight", path = "json/monsters21.json" },

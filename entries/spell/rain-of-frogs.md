@@ -3,7 +3,7 @@ id = "ref/spell/rain-of-frogs"
 kind = "spell"
 title = "Rain of Frogs"
 aon = "SpellDisplay.aspx?ItemName=Rain%20of%20Frogs"
-source_ids = ["core-rulebook", "ultimate-magic"]
+source_ids = ["ultimate-magic"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "rain_of_frogs", path = "json/spells16.json" },
 ]

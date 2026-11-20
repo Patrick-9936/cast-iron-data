@@ -3,7 +3,7 @@ id = "ref/spell/thorny-entanglement"
 kind = "spell"
 title = "Thorny Entanglement"
 aon = "SpellDisplay.aspx?ItemName=Thorny%20Entanglement"
-source_ids = ["core-rulebook", "advanced-class-guide", "legacy-of-the-first-world"]
+source_ids = ["advanced-class-guide", "legacy-of-the-first-world"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "thorny_entanglement", path = "json/spells4.json" },
 ]
