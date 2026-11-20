@@ -19,10 +19,10 @@ kind = "archetype"
 trades = [
   { replaces = "The bonus fighter combat feat gained at 1st level" },
   { replaces = "Bravery", feature = "bravery" },
-  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
-  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
-  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
-  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Weapon training 1", feature = "weapon-training", levels = [5] },
+  { replaces = "Armor training 3", feature = "armor-training", levels = [11] },
+  { replaces = "Armor training 4", feature = "armor-training", levels = [15] },
+  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies", power = "armor" },
 ]
 +++
 

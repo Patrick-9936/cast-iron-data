@@ -17,7 +17,7 @@ page = "126"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { replaces = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
   { replaces = "Dodging panache" },
 ]

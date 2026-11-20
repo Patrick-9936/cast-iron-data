@@ -17,7 +17,7 @@ page = "34"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency with the rapier and whip", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Proficiency with the rapier and whip", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
   { replaces = "Lore master", feature = "lore-master" },
   { replaces = "Dirge of doom" },

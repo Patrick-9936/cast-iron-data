@@ -21,7 +21,7 @@ trades = [
   { replaces = "heavy armor", feature = "heavy-armor" },
   { replaces = "Knowledge pool", feature = "knowledge-pool" },
   { replaces = "Counterstrike", feature = "counterstrike" },
-  { alters = "Weapon proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Weapon proficiency", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { alters = "Spellcasting", feature = "spells" },
   { alters = "Arcane pool", feature = "arcane-pool" },
   { alters = "Spellstrike", feature = "spellstrike" },

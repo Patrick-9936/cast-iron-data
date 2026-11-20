@@ -14,7 +14,7 @@ relations = [
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "The fighter's armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "The fighter's armor proficiency", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { replaces = "2nd level fighter bonus feat", feature = "bonus-feats", levels = [2] },
   { replaces = "Bravery", feature = "bravery" },
   { replaces = "Armor training", feature = "armor-training" },

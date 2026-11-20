@@ -21,7 +21,7 @@ trades = [
   { replaces = "Aura of courage", feature = "aura-of-courage" },
   { replaces = "aura of resolve", feature = "aura-of-resolve" },
   { replaces = "Channel positive energy", feature = "channel-positive-energy" },
-  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "Spells", feature = "spells" },
   { alters = "Divine bond", feature = "divine-bond" },
 ]

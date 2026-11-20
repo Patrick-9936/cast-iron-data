@@ -21,7 +21,7 @@ trades = [
   { replaces = "Spellcasting", feature = "spells" },
   { replaces = "Aura of justice", feature = "aura-of-justice" },
   { replaces = "Holy champion", feature = "holy-champion" },
-  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "Smite evil", feature = "smite-evil" },
 ]
 +++

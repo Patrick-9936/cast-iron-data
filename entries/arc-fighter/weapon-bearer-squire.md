@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "The 1st-level fighter bonus combat feat" },
   { replaces = "The 2nd-level fighter bonus combat feat" },
-  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+  { replaces = "Armor training 1", feature = "armor-training", levels = [3] },
 ]
 +++
 

@@ -18,9 +18,9 @@ page = "23"
 kind = "archetype"
 trades = [
   { replaces = "Poison use", feature = "poison-use" },
-  { replaces = "poison resistance +2", feature = "poison-resistance", power = "+2" },
-  { replaces = "Poison resistance +4", feature = "poison-resistance", power = "+4" },
-  { replaces = "poison resistance +6", feature = "poison-resistance", power = "+6" },
+  { replaces = "poison resistance +2", feature = "poison-resistance", levels = [2] },
+  { replaces = "Poison resistance +4", feature = "poison-resistance", levels = [5] },
+  { replaces = "poison resistance +6", feature = "poison-resistance", levels = [8] },
   { replaces = "Swift poisoning", feature = "swift-poisoning" },
   { replaces = "Poison immunity" },
 ]

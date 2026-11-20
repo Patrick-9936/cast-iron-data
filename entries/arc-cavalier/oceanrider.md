@@ -18,7 +18,7 @@ page = "53"
 kind = "archetype"
 trades = [
   { replaces = "Expert trainer", feature = "expert-trainer" },
-  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "Mount", feature = "mount" },
 ]
 +++

@@ -18,10 +18,10 @@ page = "60"
 kind = "archetype"
 trades = [
   { replaces = "Consummate liar", feature = "consummate-liar" },
-  { replaces = "Touch treatment (minor)", feature = "touch-treatment", power = "minor" },
-  { replaces = "Touch treatment (moderate)", feature = "touch-treatment", power = "moderate" },
-  { replaces = "Touch treatment (greater)", feature = "touch-treatment", power = "greater" },
-  { replaces = "Touch treatment (break enchantment)", feature = "touch-treatment", power = "break enchantment" },
+  { replaces = "Touch treatment (minor)", feature = "touch-treatment", levels = [3] },
+  { replaces = "Touch treatment (moderate)", feature = "touch-treatment", levels = [6] },
+  { replaces = "Touch treatment (greater)", feature = "touch-treatment", levels = [10] },
+  { replaces = "Touch treatment (break enchantment)", feature = "touch-treatment", levels = [14] },
   { alters = "Painful stare", feature = "painful-stare" },
 ]
 +++

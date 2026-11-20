@@ -21,7 +21,7 @@ trades = [
   { replaces = "outside contact", feature = "outside-contact" },
   { replaces = "binding circles", feature = "binding-circles" },
   { replaces = "fast circles", feature = "fast-circles" },
-  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Weapon proficiencies", feature = "weapon-and-armor-proficiencies", power = "weapons" },
   { alters = "Mental focus", feature = "mental-focus" },
   { alters = "Shift focus", feature = "shift-focus" },
 ]

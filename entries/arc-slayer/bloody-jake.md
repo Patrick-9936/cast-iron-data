@@ -17,7 +17,7 @@ page = "66"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency in medium armor and shields", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Proficiency in medium armor and shields" },
   { replaces = "The 1st-level studied target", feature = "studied-target", levels = [1] },
   { replaces = "slayer talents gained at 4th, 8th, 12th, and 16th level", feature = "slayer-talents", levels = [4, 8, 12, 16] },
   { replaces = "Slayer talent gained at 6th level", feature = "slayer-talents", levels = [6] },

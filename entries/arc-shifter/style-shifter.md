@@ -21,7 +21,7 @@ trades = [
   { replaces = "chimeric aspect", feature = "chimeric-aspect" },
   { replaces = "greater chimeric aspect", feature = "greater-chimeric-aspect" },
   { replaces = "final aspect", feature = "final-aspect" },
-  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Armor proficiencies", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "Shifter claws", feature = "shifter-claws" },
   { alters = "Wild shape", feature = "wild-shape" },
 ]

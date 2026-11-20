@@ -17,14 +17,14 @@ page = "31"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency with medium armor", feature = "weapon-and-armor-proficiencies" },
-  { replaces = "heavy armor" },
-  { replaces = "and shields" },
-  { replaces = "Bravery 1", feature = "bravery", power = "1" },
-  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
-  { replaces = "Armor training 2", feature = "armor-training", power = "2" },
-  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
-  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Proficiency with medium armor", feature = "weapon-and-armor-proficiencies", power = "medium armor" },
+  { replaces = "heavy armor", feature = "weapon-and-armor-proficiencies", power = "heavy armor" },
+  { replaces = "and shields", feature = "weapon-and-armor-proficiencies", power = "shields" },
+  { replaces = "Bravery 1", feature = "bravery", levels = [2] },
+  { replaces = "Armor training 1", feature = "armor-training", levels = [3] },
+  { replaces = "Armor training 2", feature = "armor-training", levels = [7] },
+  { replaces = "Armor training 3", feature = "armor-training", levels = [11] },
+  { replaces = "Armor training 4", feature = "armor-training", levels = [15] },
   { replaces = "Armor mastery", feature = "armor-mastery" },
 ]
 +++

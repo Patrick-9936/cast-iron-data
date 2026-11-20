@@ -20,7 +20,7 @@ trades = [
   { replaces = "Brawler's cunning", feature = "brawler-s-cunning" },
   { replaces = "AC bonus", feature = "ac-bonus" },
   { replaces = "Knockout", feature = "knockout" },
-  { alters = "The brawler's armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "The brawler's armor proficiencies", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "Brawler's flurry", feature = "brawler-s-flurry" },
 ]
 +++

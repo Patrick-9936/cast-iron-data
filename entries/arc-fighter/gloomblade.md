@@ -18,7 +18,7 @@ page = "14"
 kind = "archetype"
 trades = [
   { replaces = "Armor training", feature = "armor-training" },
-  { replaces = "proficiency with heavy armor and shields", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "proficiency with heavy armor and shields" },
   { alters = "Weapon training", feature = "weapon-training" },
 ]
 +++

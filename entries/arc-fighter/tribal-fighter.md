@@ -18,7 +18,7 @@ page = "50"
 kind = "archetype"
 trades = [
   { replaces = "The fighter feat gained at 1st level" },
-  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Armor proficiency", feature = "weapon-and-armor-proficiencies", power = "armor" },
   { alters = "Weapon training", feature = "weapon-training" },
 ]
 +++

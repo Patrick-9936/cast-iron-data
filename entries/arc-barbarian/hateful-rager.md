@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "2nd, 8th, 14th, and 20th level rage powers", feature = "rage-powers", levels = [2, 8, 14, 20] },
   { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
-  { replaces = "Trap sense +3", feature = "trap-sense", power = "+3" },
+  { replaces = "Trap sense +3", feature = "trap-sense", levels = [9] },
 ]
 +++
 
