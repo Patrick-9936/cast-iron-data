@@ -19,13 +19,13 @@ kind = "archetype"
 trades = [
   { replaces = "The bonus feat at 1st level", feature = "bonus-feats", levels = [1] },
   { replaces = "Bravery", feature = "bravery" },
-  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
-  { replaces = "Weapon training 1, 2, 3, and 4", feature = "weapon-training", levels = [5, 9, 13, 17] },
-  { replaces = "Armor training 2", feature = "armor-training", power = "2" },
+  { replaces = "Armor training 1", feature = "armor-training", levels = [3] },
+  { replaces = "Weapon training 1, 2, 3, and 4" },
+  { replaces = "Armor training 2", feature = "armor-training", levels = [7] },
   { replaces = "The 8th-level bonus feat", feature = "bonus-feats", levels = [8] },
   { replaces = "The 12th-level bonus feat", feature = "bonus-feats", levels = [12] },
-  { replaces = "Weapon training 3", feature = "weapon-training", power = "3" },
-  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Weapon training 3", feature = "weapon-training", levels = [13] },
+  { replaces = "Armor training 4", feature = "armor-training", levels = [15] },
   { replaces = "Armor mastery", feature = "armor-mastery" },
   { alters = "Weapon mastery", feature = "weapon-mastery" },
 ]

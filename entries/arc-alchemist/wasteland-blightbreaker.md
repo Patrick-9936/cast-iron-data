@@ -17,9 +17,9 @@ page = "10"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Poison resistance +2", feature = "poison-resistance", power = "+2" },
+  { replaces = "Poison resistance +2", feature = "poison-resistance", levels = [2] },
   { replaces = "Swift poisoning", feature = "swift-poisoning" },
-  { replaces = "Poison resistance +6", feature = "poison-resistance", power = "+6" },
+  { replaces = "Poison resistance +6", feature = "poison-resistance", levels = [8] },
   { replaces = "the discovery gained at 8th level", feature = "discovery", levels = [8] },
 ]
 +++

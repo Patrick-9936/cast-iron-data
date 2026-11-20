@@ -18,10 +18,10 @@ page = "46"
 kind = "archetype"
 trades = [
   { replaces = "The 1st-level fighter bonus combat feat" },
-  { replaces = "Armor training 2", feature = "armor-training", power = "2" },
+  { replaces = "Armor training 2", feature = "armor-training", levels = [7] },
   { replaces = "Weapon training 2, 3, and 4", feature = "weapon-training", levels = [9, 13, 17] },
-  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
-  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Armor training 3", feature = "armor-training", levels = [11] },
+  { replaces = "Armor training 4", feature = "armor-training", levels = [15] },
   { alters = "Weapon training", feature = "weapon-training" },
   { alters = "Weapon mastery", feature = "weapon-mastery" },
 ]
