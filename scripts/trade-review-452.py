@@ -137,7 +137,11 @@ def plain(text):
 
 def sources_of(text):
     """`Advanced Player's Guide pg 88, Divine Anthology pg 24` as [(title, page)]."""
-    return re.findall(r"(?:^|,\s*)(.+?)\s+pg\s+(\d+)", plain(text))
+    found = re.findall(r"(?:^|,\s*)(.+?)\s+pg\s+(\d+)", plain(text))
+    if found:
+        return found
+    # A source line without a page (`**Sources:** Haunted Heroes Handbook`) names the book only.
+    return [(t.strip(), "") for t in plain(text).split(", ") if t.strip()]
 
 
 def variant_occurrences(entry_id):
@@ -362,8 +366,9 @@ def citation(row, data):
         if not occ["sources"]:
             return "", "", "the owning subsection names no source"
         titles = [t for t, _ in occ["sources"]]
-        pages = [p for _, p in occ["sources"]]
-        return "; ".join(titles), "; ".join(pages), ""
+        pages = [p for _, p in occ["sources"] if p]
+        why = "" if pages else "the owning subsection's source line names the book without a page"
+        return "; ".join(titles), "; ".join(pages), why
     sources = data.get("sources") or []
     if sources:
         s = sources[0]
