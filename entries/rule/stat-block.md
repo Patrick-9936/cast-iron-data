@@ -95,8 +95,7 @@ cases, the creature's ability score modifiers are listed at the end of its descr
 **Base Atk/CMB/CMD:** These values give the creature's base attack, its Combat Maneuver Bonus, and
 its Combat Maneuver Defense score.
 
-**Feats:** The creature's feats are listed here. A bonus feat is indicated with a
-footnote.^[1](ref/rule/stat-block#footnote-b)^
+**Feats:** The creature's feats are listed here. A bonus feat is indicated with a footnote.
 
 **Skills:** The creature's skills are listed here. Racial modifiers to skills are indicated at the
 end of this entry.
@@ -132,7 +131,3 @@ world, notes on its ecology and society, and other bits of useful lore and flavo
 breathe life into the creature when your PCs encounter it. Some monsters have additional sections
 that cover variant creatures, notes on using the monsters as PCs, methods of constructing the
 creature, and so on.
-
-###### ^1^ {#footnote-b}
-
-Example of a bonus feat's footnote.

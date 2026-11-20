@@ -58,7 +58,7 @@ beyond 1st, to a maximum of 14 times per day at 19th level.
 **Usage:** Twice per day at 1st level, plus two additional times per day for every 3 cavalier levels
 beyond 1st, to a maximum of 14 times per day at 19th level.
 
-The circuit judge can choose one target within sight to _sentence._^1^ The circuit judge gains the
+The circuit judge can choose one target within sight to _sentence._ The circuit judge gains the
 potential for a variety of bonuses related to that target. The circuit judge chooses the form of
 these benefits from the following list of inquisitor [judgments](ref/ability/judgments):
 destruction, justice, protection, purity, or smiting.
@@ -86,8 +86,3 @@ _sentence._
 **Gained:** At 12th Level
 
 **Replaces:** Demanding challenge
-
-^1^ The original text starts this ability with "Once per day as a swift action..." but later
-contradicts itself by saying "The circuit judge can use this ability twice per day at 1st level,
-plus..." This app takes the position that the second line overrides the first line. As always,
-consult your GM.

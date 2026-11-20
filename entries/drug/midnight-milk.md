@@ -30,16 +30,16 @@ hours of sleep.
 
 **Damage:** Wisdom 1d2
 
-While a _dream lens_^[1](ref/drug/midnight-milk#footnote-d)^ is active nearby, there's a 1% chance
-each time a user takes the drug that he ends up in a body already used by an
-[intellect devourer](ref/monster/intellect-devourer) - this chance increases by 1% for each previous
-dose of midnight milk the user has taken. If the dreamer is unfortunate enough to end up sharing a
-host body with an intellect devourer, the intellect devourer immediately makes its way toward the
-_dream lens_ - this takes 1d10 hours. If the dream ends before the intellect devourer reaches the
-_dream lens,_ the dreamer awakens with no ill effect. If the intellect devourer reaches the _dream
-lens_ in time, the intellect devourer can attempt to use its body thief ability on the dreamer. If
-the attempt fails, the dreamer awakes with a start with blood pouring from eyes, mouth, nostrils,
-and ears, but no real memories of what caused the incredible pain.
+While a _dream lens_ is active nearby, there's a 1% chance each time a user takes the drug that he
+ends up in a body already used by an [intellect devourer](ref/monster/intellect-devourer) - this
+chance increases by 1% for each previous dose of midnight milk the user has taken. If the dreamer is
+unfortunate enough to end up sharing a host body with an intellect devourer, the intellect devourer
+immediately makes its way toward the _dream lens_ - this takes 1d10 hours. If the dream ends before
+the intellect devourer reaches the _dream lens,_ the dreamer awakens with no ill effect. If the
+intellect devourer reaches the _dream lens_ in time, the intellect devourer can attempt to use its
+body thief ability on the dreamer. If the attempt fails, the dreamer awakes with a start with blood
+pouring from eyes, mouth, nostrils, and ears, but no real memories of what caused the incredible
+pain.
 
 The strange and powerful drug known as midnight milk is the cornerstone of Ilvarandin's most recent
 attempt to bolster its armies against the worms of Denebrum. Distilled from the excretions and
@@ -87,9 +87,3 @@ point, the intellect devourer is free to use its new body on the surface as it w
 seek out other cells of intellect devourers active in the area to secure
 [gentle repose](ref/spell/gentle-repose) spells to keep their new host bodies fresh, or to volunteer
 their aid in spreading the midnight milk further into society.
-
-###### ^1^ {#footnote-d}
-
-_Dream lenses_ are artifacts mentioned in _Lost Cities of Golarion_ but not given any statistics.
-The _lens_ is described as "the artifact allowing the invasion into Golarion's dreaming minds," and
-is located in Ilvarandin in Orv, the deepest part of the Darklands.

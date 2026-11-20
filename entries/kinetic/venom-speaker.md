@@ -31,9 +31,9 @@ holding a dose of poison in one of your hands or appendages as long as you could
 ability.
 
 If you are at least 6th level, you can learn the [alchemist's](ref/class/alchemist) _swift
-poisoning_ class feature^[1](ref/kinetic/venom-speaker#footnote-n)^ or one of the following
-alchemist discoveries in place of a utility wild talent, using your kineticist level as your
-alchemist level: [concentrate poison](ref/discovery/concentrate-poison),
+poisoning_ class feature or one of the following alchemist discoveries in place of a utility wild
+talent, using your kineticist level as your alchemist level:
+[concentrate poison](ref/discovery/concentrate-poison),
 [poison conversion](ref/discovery/poison-conversion), or
 [sticky poison](ref/discovery/sticky-poison).
 
@@ -50,8 +50,3 @@ yourself when examining or attempting to neutralize a poison.
 **Flavor:** Text from the investigator class ability.
 
 **Passive:** You cannot accidentally poison yourself when applying poison to a weapon.
-
-###### ^1^ {#footnote-n}
-
-The investigator has no "Swift Poisoner" ability, but _does_ have a "Swift Alchemy" ability that
-allows the investigator to apply poison to a weapon as a **move action**. Consult your GM.

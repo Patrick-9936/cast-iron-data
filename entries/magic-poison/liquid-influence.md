@@ -23,8 +23,7 @@ caster_level = "5th"
 **Slot**; **Price** 900 gp; **Weight** —
 
 This heady liquid brewed from the toxin [indigo dreams](ref/eq-poison/indigo-dreams) imparts a
-compulsion^[1](ref/magic-poison/liquid-influence#footnote-c)^ to its victim, decided when the poison
-is first created.
+compulsion to its victim, decided when the poison is first created.
 
 **Type** poison, ingested; **Save** Fortitude DC 13\
 **Onset** 10 minutes; **Frequency** 1/minute for 6 minutes\
@@ -33,9 +32,3 @@ is first created.
 
 **Requirements** [Brew Potion](ref/feat/brew-potion), [Infuse Poison](ref/feat/infuse-poison),
 [suggestion](ref/spell/suggestion); **Cost** 525 gp
-
-###### ^1^ {#footnote-c}
-
-What "compulsion" means here is not defined. Given that the requirements list the
-_[suggestion](ref/spell/suggestion)_ spell, it may be reasonable to use that spell as a benchmark.
-Consult your GM.

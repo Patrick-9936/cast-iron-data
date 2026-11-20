@@ -1,0 +1,76 @@
+action	kind	entry_id	anchor	marker	class	body_marker	drop_labels	text_sha	text	note
+remove	paragraph	ref/ability/bloodline-mutations			paragraph			bab1a88d64cc2f57	**Note:** The original text says this ability peaks at 4 times per day at 18th level, but the progression given doesn't reach 4 times per day until 19th level.	
+remove	paragraph	ref/arc-cavalier/circuit-judge			inline-note	^1^		a315292d1d4b9435	"^1^ The original text starts this ability with ""Once per day as a swift action..."" but later contradicts itself by saying ""The circuit judge can use this abilit"	
+remove	paragraph	ref/arc-inquisitor/ravener-hunter			inline-note	^1^		51549f6ceef677ff	"^1^ Edited; the original text reads: ""She cannot cast **2** with the chaotic..."""	
+remove	paragraph	ref/discovery/flesh-eating-bomb			paragraph			79b42617a20da9e1	**Note:** Despite what the text seems to indicate, _concussive bombs_ and _flesh-eating bombs_ cannot be combined under the published rules. Consult your GM if 	
+remove	paragraph	ref/discovery/subsumed-spirit			paragraph			cc43a5b7ce34d69f	**Note:** This discovery was presented in a section on the Derro who have a special ability called **Madness**, which is referenced by a separate discovery (met	
+remove	footnote	ref/drug/midnight-milk	footnote-d	1	commentary			45eae39140689c85	"_Dream lenses_ are artifacts mentioned in _Lost Cities of Golarion_ but not given any statistics. The _lens_ is described as ""the artifact allowing the invasion"	
+remove	paragraph	ref/eq-misc/camel			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/goat			paragraph			045494331e87015e	"Mindspin Mountain Goats use the stats of rams and do not have published prices. They have been placed in the ""goat"" entry because of their similar nature. Consu"	
+remove	paragraph	ref/eq-misc/horse			paragraph			41c6fc86861a99b7	These specific breeds do not have published prices. Consult your GM if you wish to buy one.	
+remove	paragraph	ref/eq-misc/horse			paragraph			44f099dbaed590a4	Chernasardo Riding Elk use the stats of river elk and do not have published prices, nor any published confirmation of whether it uses the Large or Medium versio	
+remove	paragraph	ref/eq-misc/pig			paragraph			34a2398ff5a9f0a4	"Warthogs use the stats of boars and do not have published prices. They have been placed in the ""pig"" entry because of their similar nature. Consult your GM if y"	
+remove	footnote	ref/kinetic/venom-speaker	footnote-n	1	commentary			8c268a3ce89dfb68	"The investigator has no ""Swift Poisoner"" ability, but _does_ have a ""Swift Alchemy"" ability that allows the investigator to apply poison to a weapon as a **move"	
+remove	footnote	ref/magic-poison/liquid-influence	footnote-c	1	commentary			1fa3dab4b91b72af	"What ""compulsion"" means here is not defined. Given that the requirements list the _suggestion_ spell, it may be reasonable to use that spell as a benchmark. Con"	
+remove	paragraph	ref/masterpiece/lingering-leitmotif			paragraph	†		b291bb3cef6bb4b8	"† _The original source refers to an ""inspire confidence"" performance, which does not exist. Presumably, they meant *inspire competence,* which boosts skill chec"	
+remove	paragraph	ref/masterpiece/the-requiem-of-the-fallen-priest-king			paragraph	†		c8b66873b78be94d	† _The original text says this would cost 11 rounds, but that math doesn't seem right. Five rounds (base time) + one round for each of five allies is 5 + 5 = 10	
+remove	footnote	ref/misc/spell-completion	footnote-m	1	pointer			83b910bd568cfb2c	This is explained in the scrolls section.	
+remove	footnote	ref/rule/age	footnote-e	5	commentary			4e884977d967102a	Errata was published that changed how aasimars, tieflings and dhampirs aged, but it seems incomplete. Originally, these were very long-lived races. The errata c	
+remove	footnote	ref/rule/age	footnote-i	1	compiled			54a50e853316c1e6	Includes the barbarian, oracle, rogue, and sorcerer.	
+remove	footnote	ref/rule/age	footnote-o	4	commentary			86fcd13ee6c43aa0	Classes not listed above have not officially been given a specific group. The following is a suggestion: classify Bloodrager, Kineticist and Spiritualist as Int	
+remove	footnote	ref/rule/age	footnote-s	2	compiled			1252a9fb224b2b48	Includes the bard, cavalier, fighter, gunslinger, paladin, ranger, summoner, and witch.	
+remove	footnote	ref/rule/age	footnote-t	3	compiled			12b2ad6139dbc75a	Includes the alchemist, cleric, druid, inquisitor, magus, monk, and wizard.	
+remove	footnote	ref/rule/charters	footnote-c	1	commentary			eddfe486a6af6743	No such feat was presented in the sourcebook.	
+remove	paragraph	ref/rule/conditions			paragraph			178d5da3a1236068	_Note: The condition groups above are not official terms from the rules. They were created for this app in order to better present the underlying information._	
+remove	footnote	ref/rule/deft-maneuvers	footnote-1	1	commentary			dccab4535b6175fa	The orignal blog post also applied this to dirty trick, reposition, and steal maneuvers.	
+remove	footnote	ref/rule/elephant-overview	footnote-1	1	commentary			afc4ed441496dc37	The orignal blog post also removed the Improved Dirty Trick, Improved Drag, Improved Reposition, Improved Steal, and Martial Mastery feats.	
+remove	footnote	ref/rule/harrowing-plot-twists	footnote-p	1	commentary			de11ad9994ed48bd	A separate product produced by Paizo.	
+remove	footnote	ref/rule/inheritance	footnote-1	1	compiled			4d0b04fc2eb5bf7f	Traits can allow for some masterwork heirlooms to become feasible, such as Ancestral Weapon, Ancestor's Blade, Chosen of Iomedae Duskwalker Agent, Lair Snake, R	
+remove	footnote	ref/rule/one-shot-games	footnote-m	1	pointer			e1cbd1959e0a6469	Wikipedia: MacGuffin	
+remove	footnote	ref/rule/other-worlds	footnote-1	1	commentary			b4ee74970cb2f4d6	This generalization has come into question as more and more exoplanets (planets around other stars) have been discovered, but it's still a useful starting point	
+remove	footnote	ref/rule/powerful-maneuvers	footnote-1	1	commentary			21513dcfed30aeab	The original blog post also said this could be used for the drag maneuver.	
+remove	footnote	ref/rule/random-item-generators	footnote-2	2	commentary			98a7277cd446625f	The original table appears in the Pathfinder RPG Core Rulebook. The items on the table can be found in miscellaneous equipment, along with many other items from	
+remove	footnote	ref/rule/slimes-molds-and-fungi	footnote-s	1	commentary			565971f122c9f193	This contradicts the text from the Bestiary, where sunlight merely renders the mold dormant. There is no official errata regarding this.	
+remove	footnote	ref/rule/stat-block	footnote-b	1	commentary			d4e2e063786550b9	Example of a bonus feat's footnote.	
+remove	footnote	ref/rule/story-items	footnote-m	1	pointer			e1cbd1959e0a6469	Wikipedia: MacGuffin	
+remove	paragraph	ref/rule/tavern-toolbox			paragraph			b50086124b957ecc	> _Side note: The developer of this app also created Writing Quirks which has a Tavern name > generator tool. The app is free, with no ads._	
+remove	paragraph	ref/rule/the-elephant-in-the-room			inline-note	^1^		0c1d3c05860a78c3	^1^ This is verbatim from the source. *Pf Data 1e* has no connection to the authors.	
+remove	footnote	ref/rule/type-f	footnote-m	2	pointer			2fe4581c0cf88de1	Refer to Type E, masterwork armor and weapons	
+remove	footnote	ref/rule/type-f	footnote-o	3	pointer			1a0663c872163230	Refer to Type E, armor and shields	
+remove	footnote	ref/rule/type-f	footnote-p	1	pointer			014455209b542385	Refer to Type D, potions and oils	
+remove	footnote	ref/rule/type-f	footnote-x	4	pointer			22fb08a88330a46e	Refer to Type E, weapons	
+remove	footnote	ref/rule/type-g	footnote-d	7	pointer			76f102f9509a178d	Refer to Type G, rods	
+remove	footnote	ref/rule/type-g	footnote-i	5	pointer			4767f60426ec3f74	Refer to Type F, wondrous items	
+remove	footnote	ref/rule/type-g	footnote-m	4	pointer			0fe9284614566032	Refer to Type E, masterwork weapons	
+remove	footnote	ref/rule/type-g	footnote-o	9	pointer			1a0663c872163230	Refer to Type E, armor and shields	
+remove	footnote	ref/rule/type-g	footnote-p	1	pointer			014455209b542385	Refer to Type D, potions and oils	
+remove	footnote	ref/rule/type-g	footnote-r	6	pointer			0c95ccc9ac241ac0	Refer to Type F, rings	
+remove	footnote	ref/rule/type-g	footnote-s	2	pointer			3bbd0af70740bdea	Refer to Type D, scrolls	
+remove	footnote	ref/rule/type-g	footnote-w	3	pointer			213228ef41d1e1eb	Refer to Type D, wands	
+remove	footnote	ref/rule/type-g	footnote-x	8	pointer			22fb08a88330a46e	Refer to Type E, weapons	
+remove	footnote	ref/rule/type-h	footnote-d	10	pointer			76f102f9509a178d	Refer to Type G, rods	
+remove	footnote	ref/rule/type-h	footnote-g	4	pointer			ab02b04bef30bbaf	Refer to Type B, generating gemstones	
+remove	footnote	ref/rule/type-h	footnote-i	9	pointer			4767f60426ec3f74	Refer to Type F, wondrous items	
+remove	footnote	ref/rule/type-h	footnote-m	1	pointer			2fe4581c0cf88de1	Refer to Type E, masterwork armor and weapons	
+remove	footnote	ref/rule/type-h	footnote-o	6	pointer			1a0663c872163230	Refer to Type E, armor and shields	
+remove	footnote	ref/rule/type-h	footnote-p	2	pointer			014455209b542385	Refer to Type D, potions and oils	
+remove	footnote	ref/rule/type-h	footnote-r	7	pointer			0c95ccc9ac241ac0	Refer to Type F, rings	
+remove	footnote	ref/rule/type-h	footnote-s	3	pointer			3bbd0af70740bdea	Refer to Type D, scrolls	
+remove	footnote	ref/rule/type-h	footnote-v	11	pointer			6ef8d19172a24086	Refer to Type G, staves	
+remove	footnote	ref/rule/type-h	footnote-w	5	pointer			213228ef41d1e1eb	Refer to Type D, wands	
+remove	footnote	ref/rule/type-h	footnote-x	8	pointer			22fb08a88330a46e	Refer to Type E, weapons	
+remove	footnote	ref/rule/type-i	footnote-a	4	pointer			246a47e9a0ad1046	Refer to Type C, art objects	
+remove	footnote	ref/rule/type-i	footnote-d	10	pointer			76f102f9509a178d	Refer to Type G, rods	
+remove	footnote	ref/rule/type-i	footnote-g	3	pointer			ab02b04bef30bbaf	Refer to Type B, generating gemstones	
+remove	footnote	ref/rule/type-i	footnote-i	6	pointer			4767f60426ec3f74	Refer to Type F, wondrous items	
+remove	footnote	ref/rule/type-i	footnote-o	1	pointer			1a0663c872163230	Refer to Type E, armor and shields	
+remove	footnote	ref/rule/type-i	footnote-p	9	pointer			014455209b542385	Refer to Type D, potions and oils	
+remove	footnote	ref/rule/type-i	footnote-r	8	pointer			0c95ccc9ac241ac0	Refer to Type F, rings	
+remove	footnote	ref/rule/type-i	footnote-s	7	pointer			3bbd0af70740bdea	Refer to Type D, scrolls	
+remove	footnote	ref/rule/type-i	footnote-v	11	pointer			6ef8d19172a24086	Refer to Type G, staves	
+remove	footnote	ref/rule/type-i	footnote-w	2	pointer			213228ef41d1e1eb	Refer to Type D, wands	
+remove	footnote	ref/rule/type-i	footnote-x	5	pointer			22fb08a88330a46e	Refer to Type E, weapons	
+remove	footnote	ref/rule/underwater-combat	footnote-5	1	commentary			6c6a4423e5ce13c7	_Aquatic Adventures_ introduces a rule that negates cover when using piercing weapons, citing spearfishing and harpooning as reasons. This is entirely optional.	
+remove	footnote	ref/rule/using-items	footnote-m	1	pointer			83b910bd568cfb2c	This is explained in the scrolls section.	
+remove	footnote	ref/rule/wealth-and-money	footnote-u	1	compiled			82183d7b0f405944	The Unchained version of this class has the same starting gold.	
+remove	footnote	ref/template/lycanthropic-creature	footnote-l	1	pointer			2e1d2686f0d11ee0	This ability can be found in the lycanthrope template.	

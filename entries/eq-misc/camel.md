@@ -37,8 +37,6 @@ grants an additional boon to the mount or its rider. The trait granted to a moun
 character's total maximum number of traits. If a knight replaces his mount, he effectively loses the
 old trait and gains the new mount's trait.
 
-These specific breeds do not have published prices. Consult your GM if you wish to buy one.
-
 **Keleshite Trade Camel:** The camels of the Padishah Empire are larger and shaggier than their
 Qadiran cousins, with two humps and long hair. They are also ill-tempered even by camel standards,
 with a penchant for spitting when annoyed. **Associated Trait:**

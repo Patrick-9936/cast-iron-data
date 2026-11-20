@@ -30,9 +30,9 @@ finished. The preparation is done for the caster, so no preparation time is need
 with normal spellcasting. All that's left to do is perform the finishing parts of the spellcasting
 (the final gestures, words, and so on). To use a spell completion item safely, a character must be
 of high enough level in the right class to cast the spell already. If he can't already cast the
-spell, there's a chance he'll make a mistake.^[1](ref/rule/using-items#footnote-m)^ Activating a
-spell completion item is a standard action (or the spell's casting time, whichever is longer) and
-provokes attacks of opportunity exactly as casting a spell does.
+spell, there's a chance he'll make a mistake. Activating a spell completion item is a standard
+action (or the spell's casting time, whichever is longer) and provokes attacks of opportunity
+exactly as casting a spell does.
 
 **Spell Trigger:** Spell trigger activation is similar to spell completion, but it's even simpler.
 No gestures or spell finishing is needed, just a special knowledge of spellcasting that an
@@ -84,7 +84,3 @@ subsumed in its use and takes no extra time use, activation is not an action at 
 Use activation doesn't mean that if you use an item, you automatically know what it can do. You must
 know (or at least guess) what the item can do and then use the item in order to activate it, unless
 the benefit of the item comes automatically, such as from drinking a potion or swinging a sword.
-
-###### ^1^ {#footnote-m}
-
-This is explained in the [scrolls](ref/rule/scrolls) section.

@@ -40,7 +40,3 @@ old trait and gains the new mount's trait.
 **Mindspin Mountain Goat:** The goats of the Mindspin Mountains are known for being sure-footed
 climbers, scaling vertical peaks that would give a monkey pause. **Associated Trait:**
 [Clamber](ref/trait/clamber).
-
-Mindspin Mountain Goats use the stats of [rams](ref/monster/herd-animal-ram) and do not have
-published prices. They have been placed in the "goat" entry because of their similar nature. Consult
-your GM if you wish to buy one.

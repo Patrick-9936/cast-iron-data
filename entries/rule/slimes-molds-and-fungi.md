@@ -91,7 +91,7 @@ their horrific means of reproduction. A typical patch of this rust-colored fungu
 the spores are not a disease effect, protection like a paladin's divine health is ineffective, but
 the growth of the spores can be halted with a _[remove disease](ref/spell/remove-disease)_ spell or
 similar effect. The best tool to overcome the spores of a russet mold patch is exposure to sunlight,
-which kills both the spores and the mold itself.^[1](ref/rule/slimes-molds-and-fungi#footnote-s)^
+which kills both the spores and the mold itself.
 
 In addition to the standard russet mold, several other varieties of russet mold exist, each with
 unique properties and passing on racial variations to the vegepygmies they spawn.
@@ -111,8 +111,3 @@ unique properties and passing on racial variations to the vegepygmies they spawn
 > **Iron Mold (CR 6):** This rare variant of russet mold is susceptible to cold damage instead of
 > acid. Vegepygmies created by this variant mold gain immunity to acid and cold, but also gain
 > [light sensitivity](ref/umr/light-sensitivity).
-
-###### ^1^ {#footnote-s}
-
-This contradicts the text from the Bestiary, where sunlight merely renders the mold dormant. There
-is no official errata regarding this.

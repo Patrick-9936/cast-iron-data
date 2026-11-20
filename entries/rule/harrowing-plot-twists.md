@@ -14,11 +14,10 @@ page = "40"
 kind = "none"
 +++
 
-The harrow deck can be used as an alternative deck of _Pathfinder Cards: Plot Twist
-Cards.^[1](ref/rule/harrowing-plot-twists#footnote-p)^_ Plot Twist Cards provide minor
-story-altering effects that players can use to affect the plot of an adventure, as well as story
-seeds that the GM can integrate into the campaign to give the players an opportunity to use their
-cards' effects.
+The harrow deck can be used as an alternative deck of _Pathfinder Cards: Plot Twist Cards._ Plot
+Twist Cards provide minor story-altering effects that players can use to affect the plot of an
+adventure, as well as story seeds that the GM can integrate into the campaign to give the players an
+opportunity to use their cards' effects.
 
 At the start of the campaign as well as every time she gains a level, a PC takes part in an
 individual in-character harrow reading and gains a harrow card to use as a Plot Twist Card. When a
@@ -48,7 +47,3 @@ from, then roll a d10 to pick a specific card, rerolling a result of 10.
 |4|Books|
 |5|Stars|
 |6|Crowns|
-
-###### ^1^ {#footnote-p}
-
-A separate product produced by Paizo.

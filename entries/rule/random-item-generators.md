@@ -24,10 +24,10 @@ items prove too powerful (or not powerful enough!) for your PCs' levels, simply 
 
 |Minor^[1](ref/rule/random-item-generators#footnote-1)^|Medium^[1](ref/rule/random-item-generators#footnote-1)^|Major^[1](ref/rule/random-item-generators#footnote-1)^|Item|Consult Table|
 | --- | --- | --- | --- | --- |
-|01-25|—|—|Mundane equipment (worth 10 gp or less)|6-9: Goods and Services^[2](ref/rule/random-item-generators#footnote-2)^|
-|26-36|—|—|Mundane equipment (worth 11-50 gp or less)|6-9: Goods and Services^[2](ref/rule/random-item-generators#footnote-2)^|
-|37-42|01-5|—|Mundane equipment (worth 51-100 gp or less)|6-9: Goods and Services^[2](ref/rule/random-item-generators#footnote-2)^|
-|43-46|6-16|—|Mundane equipment (worth 100 gp or more)|6-9: Goods and Services^[2](ref/rule/random-item-generators#footnote-2)^|
+|01-25|—|—|Mundane equipment (worth 10 gp or less)|6-9: Goods and Services|
+|26-36|—|—|Mundane equipment (worth 11-50 gp or less)|6-9: Goods and Services|
+|37-42|01-5|—|Mundane equipment (worth 51-100 gp or less)|6-9: Goods and Services|
+|43-46|6-16|—|Mundane equipment (worth 100 gp or more)|6-9: Goods and Services|
 |47-56|17-19|—|Armor or shield (non-magical masterwork)|5-4: Random Armor and Shields|
 |57-69|20-23|—|Weapon (non-magical masterwork)|5-11: Random Weapons|
 |70-77|24-35|01-10|Potion|5-19: Random Potions and Oils|
@@ -45,8 +45,3 @@ items prove too powerful (or not powerful enough!) for your PCs' levels, simply 
 ###### ^1^ {#footnote-1}
 
 Average values: minor, 1,000 gp; medium, 10,000 gp; major, 40,000 gp.
-
-###### ^2^ {#footnote-2}
-
-The original table appears in the Pathfinder RPG Core Rulebook. The items on the table can be found
-in miscellaneous equipment, along with many other items from later books.

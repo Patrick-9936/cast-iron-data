@@ -13,8 +13,8 @@ publication = "the-elephant-in-the-room-feat-taxes-in-pathfinder"
 kind = "none"
 +++
 
-> In September of 2012, my brother and I^1^ released a blog post discussing the issue of feat taxes
-> in the _Pathfinder Roleplaying Game._ Although the post was intended to be a one-off thought
+> In September of 2012, my brother and I released a blog post discussing the issue of feat taxes in
+> the _Pathfinder Roleplaying Game._ Although the post was intended to be a one-off thought
 > experiment based on our experiences building characters for organized play, it gained an
 > inexplicable amount of traction on Reddit, Facebook, and the official Paizo forums.
 >
@@ -40,5 +40,3 @@ kind = "none"
 
 You have toggled _Elephant_-related information off on the settings page. You may want to toggle it
 back on to see _Elephant_-related notes and reminders on other pages.
-
-^1^ This is verbatim from the source. \*Pf Data 1e\* has no connection to the authors.

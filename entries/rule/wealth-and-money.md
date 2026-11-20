@@ -27,9 +27,9 @@ character begins play with an outfit worth 10 gp or less. For characters above 1
 
 |Class|Starting Wealth|Average|
 | --- | --- | --- |
-|Arcanist, Druid, Psychic, Sorcerer, Spiritualist, Summoner^[1](ref/rule/wealth-and-money#footnote-u)^, Wizard|2d6 × 10 gp|70 gp|
-|Alchemist, Barbarian^[1](ref/rule/wealth-and-money#footnote-u)^, Bard, Bloodrager, Brawler, Investigator, Mesmerist, Monk^[1](ref/rule/wealth-and-money#footnote-u)^, Oracle, Shaman, Shifter, Skald, Witch|3d6 × 10 gp|105 gp|
-|Cleric, Hunter, Inquisitor, Magus, Medium, Ninja, Occultist, Rouge^[1](ref/rule/wealth-and-money#footnote-u)^|4d6 × 10 gp|140 gp|
+|Arcanist, Druid, Psychic, Sorcerer, Spiritualist, Summoner, Wizard|2d6 × 10 gp|70 gp|
+|Alchemist, Barbarian, Bard, Bloodrager, Brawler, Investigator, Mesmerist, Monk, Oracle, Shaman, Shifter, Skald, Witch|3d6 × 10 gp|105 gp|
+|Cleric, Hunter, Inquisitor, Magus, Medium, Ninja, Occultist, Rouge|4d6 × 10 gp|140 gp|
 |Antipaladin, Cavalier, Gunslinger, Fighter, Paladin, Ranger, Samurai, Slayer, Swashbuckler, Vigilante, Warpriest|5d6 × 10 gp|175 gp|
 
 ### Coins
@@ -116,7 +116,3 @@ gear, and magic items. This also includes character-created items.
 
 Trade goods are the exception to the half-price rule. A trade good, in this sense, is a valuable
 good that can be easily exchanged almost as if it were cash itself.
-
-###### ^1^ {#footnote-u}
-
-The Unchained version of this class has the same starting gold.

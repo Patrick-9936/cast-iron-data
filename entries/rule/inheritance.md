@@ -31,13 +31,4 @@ roleplaying flavor for your character's starting equipment. For example, if your
 at 1st level includes a normal longbow, you don't need GM approval to say that the bow once belonged
 to your grandmother, who was a ranger in her youth. However, if you wanted an heirloom masterwork
 longbow or +1 longbow for your character, you would need GM approval because the price of either of
-those items is beyond what a 1st-level character could afford.^[1](ref/rule/inheritance#footnote-1)^
-
-###### ^1^ {#footnote-1}
-
-[Traits](ref/rule/traits) can allow for some masterwork heirlooms to become feasible, such as
-[Ancestral Weapon](ref/trait/ancestral-weapon), [Ancestor's Blade](ref/trait/ancestors-blade),
-[Chosen of Iomedae](ref/trait/chosen-of-iomedae) [Duskwalker Agent](ref/trait/duskwalker-agent),
-[Lair Snake](ref/trait/lair-snake), [Rich Parents](ref/trait/rich-parents),
-[Signature Moves](ref/trait/signature-moves) or
-[Well-Provisioned Adventurer](ref/trait/well-provisioned-adventurer).
+those items is beyond what a 1st-level character could afford.

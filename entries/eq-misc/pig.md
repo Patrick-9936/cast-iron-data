@@ -42,6 +42,3 @@ with enormous tusks and large "warts" (in truth, these fleshy facial protrusions
 ridges). Despite that, those who have worked with them find warthogs easier to deal with than the
 wild boars of more northerly climes, as warthogs are more prone to flight than aggression.
 **Associated Trait:** [Running Pig](ref/trait/running-pig).
-
-Warthogs use the stats of [boars](ref/monster/boar) and do not have published prices. They have been
-placed in the "pig" entry because of their similar nature. Consult your GM if you wish to buy one.

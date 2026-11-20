@@ -25,7 +25,4 @@ a direct hit can attempt a Reflex save against the bomb's save DC to take only h
 
 ;;;aside
 
-**Note:** Despite what the text seems to indicate, _concussive bombs_ and _flesh-eating bombs_
-cannot be combined under the published rules. Consult your GM if you wish to use these two together.
-
 ;;;

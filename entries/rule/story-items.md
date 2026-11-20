@@ -17,10 +17,9 @@ kind = "none"
 Magic items in fantasy literature often have a narrative attached to them. When the group gets a
 powerful item, you can use it as a springboard for story developments. Any item can be used as the
 focus of a story. Using a term made famous by Alfred Hitchcock, screenwriters refer to an object
-that serves as the motivating factor to drive a storyline as a
-macguffin.^[1](ref/rule/story-items#footnote-m)^ Famous macguffin include the Maltese Falcon, from
-the book and movie of the same name, and Pulp Fiction's glowing suitcase. Mythological macguffin
-include the Golden Fleece and Holy Grail.
+that serves as the motivating factor to drive a storyline as a macguffin. Famous macguffin include
+the Maltese Falcon, from the book and movie of the same name, and Pulp Fiction's glowing suitcase.
+Mythological macguffin include the Golden Fleece and Holy Grail.
 
 Any mission that sends the PCs to find a particular item is a macguffin story, whether a former
 owner dispatches them to find it or the group finds reference to it in an old tome. Once the group
@@ -50,7 +49,3 @@ hard-to-motivate player to draw them into the story, while tying it into existin
 who have already established clear goals. Alternatively, use items that multiple PCs can make use
 of. Depending on the makeup of your group, a relic could grant one power to a fighter and another to
 a cleric.
-
-###### ^1^ {#footnote-m}
-
-Wikipedia: MacGuffin
