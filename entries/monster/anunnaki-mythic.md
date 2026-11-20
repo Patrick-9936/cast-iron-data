@@ -109,7 +109,7 @@ back._
 **Per day:**
 
 - 5/day: greater dispel magic
-- 3/day: &Q baleful polymorph (DC 23), primal regression (DC 24)
+- 3/day: quickened baleful polymorph (DC 23), primal regression (DC 24)
 - 1/day: divide mind, overwhelming presence (DC 27)
 
 **Statistics**

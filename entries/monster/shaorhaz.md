@@ -107,9 +107,9 @@ multiweapon mastery
 
 **Per day:**
 
-- 3/day: &Q enervation, regenerate, silence (DC 21), vampiric touch
-- 1/day: mass hold monster (DC 28), &S level 6; 1 marilith 50% or 1d4 glabrezus 75%, symbol of death
-  (DC 27)
+- 3/day: quickened enervation, regenerate, silence (DC 21), vampiric touch
+- 1/day: mass hold monster (DC 28), summon (level 6, 1 marilith 50% or 1d4 glabrezus 75%), symbol of
+  death (DC 27)
 
 **Spell-Like Abilities**
 

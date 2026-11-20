@@ -109,8 +109,8 @@ claws +27 (1d8+11), tail slap +22 (2d8+5 plus stun)
 
 **Per day:**
 
-- 3/day: blasphemy (DC 23), &Q enervation, power word stun (DC 24)
-- 1/day: earthquake, &S level 6; 1 marilith 40% or 1d3 nalfeshnees 60%
+- 3/day: blasphemy (DC 23), quickened enervation, power word stun (DC 24)
+- 1/day: earthquake, summon (level 6, 1 marilith 40% or 1d3 nalfeshnees 60%)
 
 **Statistics**
 

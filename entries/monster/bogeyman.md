@@ -92,7 +92,7 @@ aura of horror._
 
 **Per day:**
 
-- 3/day: crushing despair (DC 21), hold person (DC 20), &Q phantasmal killer (DC 21)
+- 3/day: crushing despair (DC 21), hold person (DC 20), quickened phantasmal killer (DC 21)
 - 1/day: nightmare (DC 22)
 
 **Statistics**

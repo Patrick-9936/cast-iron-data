@@ -107,8 +107,8 @@ spell
 
 **8th-level spells:**
 
-- binding (DC 36), dimension door, maze, &Q phantasmal killer (DC 36), chain lightning (DC 34),
-  disintegrate (DC 34), eyebite (DC 34), greater dispel magic, slay living (DC 34), true seeing
+- binding (DC 36), dimension door, maze, quickened phantasmal killer (DC 36), chain lightning (DC
+  34), disintegrate (DC 34), eyebite (DC 34), greater dispel magic, slay living (DC 34), true seeing
 
 **5th-level spells:**
 

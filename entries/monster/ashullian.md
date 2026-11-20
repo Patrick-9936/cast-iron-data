@@ -98,7 +98,7 @@ rely on sight
 
 **Per day:**
 
-- 3/day: aqueous orb (DC 18), &Q hydraulic push, hydraulic torrent (DC 18)
+- 3/day: aqueous orb (DC 18), quickened hydraulic push, hydraulic torrent (DC 18)
 - 1/day: cone of cold (DC 20), major creation, telekinesis (DC 20)
 
 **Statistics**

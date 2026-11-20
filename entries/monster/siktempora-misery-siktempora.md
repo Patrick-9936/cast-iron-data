@@ -104,7 +104,7 @@ and its gaze conveys a furious misery._
 
 **Per day:**
 
-- 3/day: displacement, &Q vanish
+- 3/day: displacement, quickened vanish
 - 1/day: plane shift (DC 21)
 
 **Statistics**

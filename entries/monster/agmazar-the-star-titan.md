@@ -111,7 +111,7 @@ arms move with supple grace._
 
 **Per day:**
 
-- 3/day: &Q circle of death (DC 31), waves of exhaustion
+- 3/day: quickened circle of death (DC 31), waves of exhaustion
 
 **Statistics**
 

@@ -118,7 +118,7 @@ Mistsight, See in darkness, True seeing
 
 **Per day:**
 
-- 3/day: &Q true strike
+- 3/day: quickened true strike
 
 **Statistics**
 

@@ -117,7 +117,7 @@ vengeful dreams
 
 **Per day:**
 
-- 3/day: demand, &Q feeblemind (DC 23), horrid wilting (DC 26)
+- 3/day: demand, quickened feeblemind (DC 23), horrid wilting (DC 26)
 - 1/day: control weather, symbol of insanity (DC 26), tsunami (DC 26)
 
 **Statistics**

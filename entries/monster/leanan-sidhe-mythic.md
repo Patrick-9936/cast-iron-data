@@ -89,7 +89,7 @@ of twigs._
 
 **Per day:**
 
-- 3/day: animal trance (DC 18), &Q charm person (DC 17)
+- 3/day: animal trance (DC 18), quickened charm person (DC 17)
 
 **Statistics**
 

@@ -95,7 +95,7 @@ massive giant._
 
 **Per day:**
 
-- 3/day: &Q harm (DC 20), &Q heal
+- 3/day: quickened harm (DC 20), quickened heal
 - 1/day: lunar veil, polar midnight
 
 **Statistics**

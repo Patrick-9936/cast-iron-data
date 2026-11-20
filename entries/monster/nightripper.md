@@ -110,9 +110,9 @@ bleed), 2 talons +31 (1d6+4/19-20 plus 2d6 bleed)
 
 **Per day:**
 
-- 3/day: acid pit (DC 21), &Q blade barrier (DC 23), harm (DC 23), hungry pit (DC 22)
-- 1/day: reverse gravity, &S level 9; any demon or combination of demons whose total combined CR is
-  20 or lower 100%, time stop, weird (DC 26)
+- 3/day: acid pit (DC 21), quickened blade barrier (DC 23), harm (DC 23), hungry pit (DC 22)
+- 1/day: reverse gravity, summon (level 9, any demon or combination of demons whose total combined
+  CR is 20 or lower 100%), time stop, weird (DC 26)
 
 **Statistics**
 

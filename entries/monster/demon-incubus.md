@@ -96,7 +96,7 @@ origin._
 
 **Per day:**
 
-- 1/day: crushing despair (DC 19), &S level 3; 2 schirs 40%
+- 1/day: crushing despair (DC 19), summon (level 3, 2 schirs 40%)
 
 **Statistics**
 

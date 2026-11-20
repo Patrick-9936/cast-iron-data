@@ -121,8 +121,8 @@ curses), 2 talons +45 (1d8+8)
 
 **Per day:**
 
-- 3/day: horrid wilting (DC 30), implosion (DC 31), maze, plane shift (DC 29), &S level 9; see
-  below, wish
+- 3/day: horrid wilting (DC 30), implosion (DC 31), maze, plane shift (DC 29), summon (level 9, see
+  below), wish
 - 1/day: demand (DC 30), symbol of fear (DC 28), symbol of persuasion (DC 28), symbol of stunning
   (DC 29), symbol of weakness (DC 29)
 

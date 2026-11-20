@@ -115,7 +115,7 @@ mind-affecting effects, paralysis, petrification, poison
 
 **Per day:**
 
-- 3/day: creeping doom, demand (DC 27), &Q feeblemind (DC 24)
+- 3/day: creeping doom, demand (DC 27), quickened feeblemind (DC 24)
 - 1/day: imprisonment (DC 28), symbol of insanity (DC 27), dominate monster (DC 28)
 
 **Statistics**

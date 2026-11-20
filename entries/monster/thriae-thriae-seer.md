@@ -93,7 +93,7 @@ plus mind sting)
 
 - 3/day: divination, invisibility purge, locate object, misdirection (DC 20), symbol of sleep (DC
   23)
-- 1/day: &S level 5; 1d3 giant queen bees or 1d4 wasp swarms, true seeing
+- 1/day: summon bees (level 5, 1d3 giant queen bees or 1d4 wasp swarms), true seeing
 
 **Statistics**
 

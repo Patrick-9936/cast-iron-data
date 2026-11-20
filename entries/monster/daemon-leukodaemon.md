@@ -106,7 +106,7 @@ rotting wings of a carrion bird._
 
 **Per day:**
 
-- 1/day: harm (DC 19), &S level 3; 1 leukodaemon only; 35%
+- 1/day: harm (DC 19), summon (level 3, 1 leukodaemon only, 35%)
 
 **Statistics**
 

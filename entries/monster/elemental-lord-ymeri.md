@@ -106,7 +106,7 @@ plus 1d10 fire plus trip)
 
 - 3/day: delayed blast fireball (DC 27), fire storm\#P (DC 27), incendiary cloud (DC 28), wall of
   lava
-- 1/day: meteor swarm\#P (DC 29), &S level 9; 2d4 fiendish elder fire elementals 100%
+- 1/day: meteor swarm\#P (DC 29), summon (level 9, 2d4 fiendish elder fire elementals 100%)
 
 **Statistics**
 

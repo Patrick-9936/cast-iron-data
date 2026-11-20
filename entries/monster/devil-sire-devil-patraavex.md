@@ -98,8 +98,8 @@ fanged mouth running vertically across its torso._
 **Per day:**
 
 - 3/day: protection from good
-- 1/day: greater magic fang, &S level 3; 1 [bearded devil](ref/monster/devil-bearded-devil-barbazu)
-  50%
+- 1/day: greater magic fang, summon (level 3, 1
+  [bearded devil](ref/monster/devil-bearded-devil-barbazu) 50%)
 
 **Statistics**
 

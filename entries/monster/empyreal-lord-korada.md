@@ -110,7 +110,7 @@ flurry of blows +38/+38/+33/+33/+28/+28/+23 (2d10+8)
 
 **Per day:**
 
-- 3/day: divination, mad monkeys, &Q mirror image^M^, neutralize poison, true seeing, wall of
+- 3/day: divination, mad monkeys, quickened mirror image^M^, neutralize poison, true seeing, wall of
   force^M^
 - 1/day: antimagic field, moment of prescience
 

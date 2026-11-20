@@ -111,8 +111,8 @@ Cha drain)
 
 **Per day:**
 
-- 3/day: demand (DC 31), &Q dominate person (DC 28), &Q suggestion (DC 26), summon demons, symbol of
-  strife (DC 32)
+- 3/day: demand (DC 31), quickened dominate person (DC 28), quickened suggestion (DC 26), summon
+  demons, symbol of strife (DC 32)
 - 1/day: sympathy (DC 31), time stop, weird (DC 32)
 
 **Statistics**

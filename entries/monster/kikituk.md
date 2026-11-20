@@ -91,7 +91,7 @@ scrimshaw patterns._
 
 **Per day:**
 
-- 3/day: &Q invisibility
+- 3/day: quickened invisibility
 
 **Statistics**
 

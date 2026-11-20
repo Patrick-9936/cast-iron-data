@@ -94,7 +94,7 @@ that of an octopus._
 **Per day:**
 
 - 3/day: chain lightning (DC 20), geyser (DC 19)
-- 1/day: &S level 8; 1d4+1 dire sharks 50%, vortex (DC 21)
+- 1/day: summon (level 8, 1d4+1 dire sharks 50%), vortex (DC 21)
 
 **Statistics**
 

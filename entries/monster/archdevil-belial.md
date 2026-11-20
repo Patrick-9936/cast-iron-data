@@ -106,8 +106,8 @@ wings +40 (2d8+6), gore +40 (1d6+6)
 
 **Per day:**
 
-- 3/day: &Q mass suggestion (DC 29), prismatic spray^M^ (DC 30), summon devils, sympathy (DC 31),
-  waves of ecstasy (DC 30)
+- 3/day: quickened mass suggestion (DC 29), prismatic spray^M^ (DC 30), summon devils, sympathy (DC
+  31), waves of ecstasy (DC 30)
 - 1/day: overwhelming presence (DC 32), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

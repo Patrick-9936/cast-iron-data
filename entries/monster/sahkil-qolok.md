@@ -108,7 +108,7 @@ claws +26 (1d6+9)
 **Per day:**
 
 - 3/day: blink, deeper darkness, disintegrate (DC 21), mass suggestion (DC 21), nondetection
-- 1/day: mind blank, plane shift (DC 22), &S level 7; 1d3 pakalchis 40%
+- 1/day: mind blank, plane shift (DC 22), summon (level 7, 1d3 pakalchis 40%)
 
 **Statistics**
 

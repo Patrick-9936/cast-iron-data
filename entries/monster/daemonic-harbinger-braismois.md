@@ -98,9 +98,10 @@ poison
 
 **Per day:**
 
-- 3/day: displacement, &Q mirror image, power word blind, power word stun, symbol of insanity (DC
-  27), symbol of persuasion (DC 25), symbol of strife (DC 28), symbol of stunning (DC 26)
-- 1/day: &Q mass hold person (DC 26), overwhelming presence (DC 28), &Q power word kill
+- 3/day: displacement, quickened mirror image, power word blind, power word stun, symbol of insanity
+  (DC 27), symbol of persuasion (DC 25), symbol of strife (DC 28), symbol of stunning (DC 26)
+- 1/day: quickened mass hold person (DC 26), overwhelming presence (DC 28), quickened power word
+  kill
 
 **Statistics**
 

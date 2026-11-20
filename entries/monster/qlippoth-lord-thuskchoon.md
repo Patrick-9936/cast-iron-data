@@ -116,8 +116,8 @@ gaping, sludge-dripping mouth._
 
 **Per day:**
 
-- 3/day: foresight^M^, mass hunger for flesh (DC 21), power word blind^M^, &Q slow (DC 18), vision,
-  waves of exhaustion
+- 3/day: foresight^M^, mass hunger for flesh (DC 21), power word blind^M^, quickened slow (DC 18),
+  vision, waves of exhaustion
 - 1/day: imprisonment (DC 24), summon qlippoth
 
 ###### M {#footnote-m}

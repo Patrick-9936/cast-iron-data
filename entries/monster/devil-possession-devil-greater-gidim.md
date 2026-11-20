@@ -96,8 +96,8 @@ abilities = ["-", "26", "24", "17", "20", "20"]
   versa, gust of wind (domain spell) (DC 17), major creation, plane shift, self only; to Ethereal
   Plane, Hell, or Material Plane only, produce flame (domain spell) (DC 16), stinking cloud (DC 18),
   suggestion (DC 18)
-- 1/day: &S level 5; 1d4
-  [lesser possession devils](ref/monster/devil-possession-devil-lesser-gidim); 40%
+- 1/day: summon (level 5, 1d4
+  [lesser possession devils](ref/monster/devil-possession-devil-lesser-gidim), 40%)
 
 **Statistics**
 

@@ -109,7 +109,7 @@ mind-affecting effects, paralysis, petrification, [plane shift](ref/spell/plane-
 
 **Per day:**
 
-- 3/day: demand (DC 27), earthquake (DC 27), &Q feeblemind (DC 24)
+- 3/day: demand (DC 27), earthquake (DC 27), quickened feeblemind (DC 24)
 - 1/day: meteor swarm (DC 28), microcosm (DC 28), symbol of insanity (DC 27)
 
 **Statistics**

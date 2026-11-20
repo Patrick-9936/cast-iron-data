@@ -87,7 +87,7 @@ _Beneath its cloak, this man-shaped creature appears to be part statue and part 
 
 **Per day:**
 
-- 3/day: hold monster (DC 18), mark of justice, &Q suggestion (DC 16)
+- 3/day: hold monster (DC 18), mark of justice, quickened suggestion (DC 16)
 
 **Per week:**
 

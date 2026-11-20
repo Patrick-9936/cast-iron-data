@@ -99,7 +99,7 @@ _This foul creature looks like an emaciated humanoid with the head of a jackal._
 
 **Per day:**
 
-- 3/day: blight (DC 19), diminish plants, &Q magic missile
+- 3/day: blight (DC 19), diminish plants, quickened magic missile
 - 1/day: horrid wilting (DC 22), waves of fatigue
 
 **Statistics**

@@ -112,8 +112,8 @@ fire, memory loss effects, petrification, poison
 
 **Per day:**
 
-- 3/day: feeblemind (DC 26), &Q mindwipe (DC 25), mislead, persistent image (DC 26), summon devils,
-  vision
+- 3/day: feeblemind (DC 26), quickened mindwipe (DC 25), mislead, persistent image (DC 26), summon
+  devils, vision
 - 1/day: prediction of failure (DC 29), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

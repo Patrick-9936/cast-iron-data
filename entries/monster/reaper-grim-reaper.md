@@ -102,7 +102,7 @@ around it._
 
 - 3/day: energy drain (DC 28), finger of death (DC 26), soul bind (DC 28), summon minor reapers,
   level 8; 1d4 minor reapers, unwilling shield (DC 25)
-- 1/day: &Q destruction (DC 26), wail of the banshee (DC 28)
+- 1/day: quickened destruction (DC 26), wail of the banshee (DC 28)
 
 **Statistics**
 

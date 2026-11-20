@@ -96,7 +96,7 @@ hungry, reptilian eyes._
 **Per day:**
 
 - 3/day: gaseous form
-- 1/day: blasphemy (DC 21), &S level 4; 1 hezrou 35%
+- 1/day: blasphemy (DC 21), summon (level 4, 1 hezrou 35%)
 
 **Statistics**
 

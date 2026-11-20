@@ -103,8 +103,8 @@ _This lithe, six-armed humanoid has tusks that curve from his chin and carries a
 **Per day:**
 
 - 3/day: arcane sight, divination
-- 1/day: &S level 5; 1d3 [adhukaits](ref/monster/asura-adhukait) 50% or 1
-  [upasunda](ref/monster/asura-upasunda) 30%, true seeing, vision
+- 1/day: summon (level 5, 1d3 [adhukaits](ref/monster/asura-adhukait) 50% or 1
+  [upasunda](ref/monster/asura-upasunda) 30%), true seeing, vision
 
 **Statistics**
 

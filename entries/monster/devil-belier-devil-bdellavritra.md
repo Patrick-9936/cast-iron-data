@@ -109,8 +109,8 @@ three human heads at the other._
 
 - 3/day: acid fog, dimensional anchor, dominate person (DC 22), greater scrying (DC 24), mass
   suggestion (DC 23)
-- 1/day: blasphemy (DC 24), demand (DC 25), magic jar (DC 22), plane shift (DC 22), &S level 6; 3
-  [barbed devils](ref/monster/devil-barbed-devil-hamatula) 45%, waves of exhaustion
+- 1/day: blasphemy (DC 24), demand (DC 25), magic jar (DC 22), plane shift (DC 22), summon (level 6,
+  3 [barbed devils](ref/monster/devil-barbed-devil-hamatula) 45%), waves of exhaustion
 
 **Statistics**
 

@@ -116,8 +116,8 @@ mind-affecting effects, paralysis, petrification, sonic
 
 **Per day:**
 
-- 3/day: demand (DC 31), &Q feeblemind, interplanetary teleport, mass suggestion (DC 29), project
-  image (DC 30)
+- 3/day: demand (DC 31), quickened feeblemind, interplanetary teleport, mass suggestion (DC 29),
+  project image (DC 30)
 - 1/day: symbol of death (DC 31), symbol of fear (DC 29), symbol of insanity (DC 31), symbol of pain
   (DC 28), symbol of persuasion (DC 29), symbol of strife (DC 32), symbol of stunning (DC 30),
   symbol of weakness (DC 30)

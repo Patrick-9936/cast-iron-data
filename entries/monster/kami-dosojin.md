@@ -91,7 +91,8 @@ reverence and patience._
 
 **Per day:**
 
-- 3/day: dispel magic, fog cloud, &Q invisibility, longstrider, pass without trace, stone shape
+- 3/day: dispel magic, fog cloud, quickened invisibility, longstrider, pass without trace, stone
+  shape
 - 1/day: locate object, mirage arcana (DC 18), nondetection
 
 **Statistics**

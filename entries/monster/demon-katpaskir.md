@@ -101,8 +101,8 @@ membranous dragonfly wings._
 
 **Per day:**
 
-- 3/day: banishment (DC 23), &EM disintegrate (DC 22), maze
-- 1/day: gate, &S level 7; 1d4 fiendish army ant swarms 50%, summon monster IX
+- 3/day: banishment (DC 23), empowered disintegrate (DC 22), maze
+- 1/day: gate, summon (level 7, 1d4 fiendish army ant swarms 50%), summon monster IX
 
 **Statistics**
 

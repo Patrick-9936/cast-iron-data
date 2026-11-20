@@ -96,8 +96,8 @@ tail slap +31 (4d6+8 plus [grab](ref/umr/grab))
 
 **Per day:**
 
-- 3/day: &Q greater dispel magic, limited wish, plane shift, between First World and Material Plane
-  only, spell turning, wall of force
+- 3/day: quickened greater dispel magic, limited wish, plane shift, between First World and Material
+  Plane only, spell turning, wall of force
 
 **Statistics**
 

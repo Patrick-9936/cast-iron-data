@@ -99,7 +99,8 @@ steel-girded flesh._
 
 **Per day:**
 
-- 3/day: &EX animate objects, 7 Medium weapons only, telekinesis, violent thrust; heavy armor only
+- 3/day: extended animate objects, 7 Medium weapons only, telekinesis, violent thrust; heavy armor
+  only
 
 **Statistics**
 

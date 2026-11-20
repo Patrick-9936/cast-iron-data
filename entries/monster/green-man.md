@@ -129,12 +129,12 @@ vine._
 
 **9th-level spells:**
 
-- antipathy (DC 30), &Q cure serious wounds
+- antipathy (DC 30), quickened cure serious wounds
 
 **8th-level spells:**
 
-- control plants (DC 29), &Q dispel magic, heal, 2, greater scrying, &Q quench (DC 24), death ward,
-  tree stride, wall of thorns
+- control plants (DC 29), quickened dispel magic, heal, 2, greater scrying, quickened quench (DC
+  24), death ward, tree stride, wall of thorns
 
 **4th-level spells:**
 

@@ -111,7 +111,7 @@ electricity, energy drain, petrification
 **Per day:**
 
 - 3/day: chaos hammer^M^ (DC 29), halt undead (DC 28), irresistible dance (DC 33), lunar veil (DC
-  32), mass cat's grace, &Q moonstruck (DC 29)
+  32), mass cat's grace, quickened moonstruck (DC 29)
 - 1/day: freedom, time stop, undeath to death (DC 31)
 
 ###### M {#footnote-m}

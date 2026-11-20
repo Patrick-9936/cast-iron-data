@@ -115,8 +115,8 @@ mind-affecting effects, paralysis, petrification, sonic
 
 **Per day:**
 
-- 3/day: demand (DC 30), &Q disintegrate^M^ (DC 28)
-- 1/day: gate, microcosm (DC 31), &S, level 9; 2 ancient ones 100%, time stop^M^, wish^M^
+- 3/day: demand (DC 30), quickened disintegrate^M^ (DC 28)
+- 1/day: gate, microcosm (DC 31), summon (level 9, 2 ancient ones 100%), time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

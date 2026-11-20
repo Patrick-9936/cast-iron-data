@@ -110,7 +110,7 @@ bite +43 (2d6+5)
 
 **Per day:**
 
-- 3/day: banishment (DC 28), &EM circle of death (DC 28)
+- 3/day: banishment (DC 28), empowered circle of death (DC 28)
 - 1/day: freedom, phase door
 
 **Statistics**

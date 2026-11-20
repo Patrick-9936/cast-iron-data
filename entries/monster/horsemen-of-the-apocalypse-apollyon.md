@@ -111,7 +111,7 @@ energy drain and disease), gore +46 (4d6+8)
 
 **Per day:**
 
-- 3/day: &Q epidemic (DC 27), soul bind (DC 30), summon daemon
+- 3/day: quickened epidemic (DC 27), soul bind (DC 30), summon daemon
 - 1/day: cursed earth (DC 30), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

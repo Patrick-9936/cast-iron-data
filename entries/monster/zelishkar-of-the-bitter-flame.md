@@ -109,8 +109,10 @@ dart from the creature's mouth._
 
 **Per day:**
 
-- 3/day: &EM fire storm (DC 24), incendiary cloud (DC 24), &Q contagious flame, sirocco (DC 22)
-- 1/day: &S level 9; 2 fiendish elder fire elementals or any daemon of 20 Hit Dice or fewer 100%
+- 3/day: empowered fire storm (DC 24), incendiary cloud (DC 24), quickened contagious flame, sirocco
+  (DC 22)
+- 1/day: summon (level 9, 2 fiendish elder fire elementals or any daemon of 20 Hit Dice or fewer
+  100%)
 
 **Statistics**
 

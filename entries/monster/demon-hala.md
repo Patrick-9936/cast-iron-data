@@ -98,7 +98,7 @@ mouth full of needle-sharp teeth._
 **Per day:**
 
 - 3/day: gust of wind (DC 14), river of wind (DC 16)
-- 1/day: control winds (DC 17), &S level 3; 1 hala 40%
+- 1/day: control winds (DC 17), summon (level 3, 1 hala 40%)
 
 **Statistics**
 

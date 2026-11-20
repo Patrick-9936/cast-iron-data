@@ -109,8 +109,8 @@ _This muscular giant has two ferocious lion heads, each with a long, black, lash
 
 - 3/day: bless, cure serious wounds, good hope, neutralize poison, remove blindness/deafness, remove
   curse, remove disease
-- 1/day: blasphemy (DC 22), dream, limited wish, &S level 6; 1d3
-  [upasundas](ref/monster/asura-upasunda) 50%
+- 1/day: blasphemy (DC 22), dream, limited wish, summon (level 6, 1d3
+  [upasundas](ref/monster/asura-upasunda) 50%)
 
 **Statistics**
 

@@ -108,7 +108,7 @@ rounds
 
 **Per day:**
 
-- 3/day: aqueous orb (DC 17), &Q telekinesis (DC 19)
+- 3/day: aqueous orb (DC 17), quickened telekinesis (DC 19)
 - 1/day: break enchantment
 
 **Statistics**

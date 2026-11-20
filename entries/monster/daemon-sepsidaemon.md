@@ -95,7 +95,7 @@ disease)
 
 **Per day:**
 
-- 1/day: &S level 3; 1 sepsidaemon 40%
+- 1/day: summon (level 3, 1 sepsidaemon 40%)
 
 **Statistics**
 

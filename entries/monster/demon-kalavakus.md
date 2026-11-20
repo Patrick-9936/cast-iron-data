@@ -92,7 +92,7 @@ _This muscular, violet demon walks upon elephantine feet. Large, razor-sharp hor
 **Per day:**
 
 - 3/day: air walk, dominate person (DC 18), haste
-- 1/day: greater command (DC 18), &S level 4; 1 kalavakus 40%, symbol of persuasion (DC 19)
+- 1/day: greater command (DC 18), summon (level 4, 1 kalavakus 40%), symbol of persuasion (DC 19)
 
 **Statistics**
 

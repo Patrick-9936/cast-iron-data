@@ -96,7 +96,7 @@ her fiendish nature._
 
 **Per day:**
 
-- 3/day: &Q blindness/deafness (DC 20), charm person (DC 19)
+- 3/day: quickened blindness/deafness (DC 20), charm person (DC 19)
 - 1/day: !_dominate thrall_
 
 **Spell-Like Abilities**
@@ -126,7 +126,7 @@ her fiendish nature._
 **Per day:**
 
 - 3/day: shadow conjuration (DC 22), shadow evocation (DC 23)
-- 1/day: magic jar (DC 23), &S level 3, 1 [shadow demon](ref/monster/demon-shadow-demon) 50%
+- 1/day: magic jar (DC 23), summon (level 3, 1 [shadow demon](ref/monster/demon-shadow-demon) 50%)
 
 **Prepared Spells**
 
@@ -140,16 +140,16 @@ her fiendish nature._
 
 **7th-level spells:**
 
-- &Q cure critical wounds, desctruction (DC 22), power word blind^D^
+- quickened cure critical wounds, desctruction (DC 22), power word blind^D^
 
 **6th-level spells:**
 
-- blade barrier (DC 21), &Q death knell (DC 17), geas/quest^D^, heal
+- blade barrier (DC 21), quickened death knell (DC 17), geas/quest^D^, heal
 
 **5th-level spells:**
 
-- breath of life, &Q command (DC 16), flame strike (DC 20), greater command (DC 20), slay living (DC
-  20), summon monster V^D^, summons 1d3 shadows
+- breath of life, quickened command (DC 16), flame strike (DC 20), greater command (DC 20), slay
+  living (DC 20), summon monster V^D^, summons 1d3 shadows
 
 **4th-level spells:**
 

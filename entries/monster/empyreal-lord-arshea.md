@@ -108,9 +108,9 @@ slam +44 (1d4+20)
 
 **Per day:**
 
-- 3/day: discern location, &Q greater invisibility, heroes' feast, irresistible dance^M^ (DC 31),
-  limited wish, to duplicate 5th-level or lower bard spells only, mass heal, mind blank, moment of
-  prescience, sympathy (DC 31)
+- 3/day: discern location, quickened greater invisibility, heroes' feast, irresistible dance^M^ (DC
+  31), limited wish, to duplicate 5th-level or lower bard spells only, mass heal, mind blank, moment
+  of prescience, sympathy (DC 31)
 - 1/day: time stop^M^, wish^M^
 
 ###### M {#footnote-m}

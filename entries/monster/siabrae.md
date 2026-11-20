@@ -109,13 +109,13 @@ and its eyes are polished white orbs._
 
 **7th-level spells:**
 
-- &Q contagion (DC 20), transmute rock to mud, wall of stone^D^
+- quickened contagion (DC 20), transmute rock to mud, wall of stone^D^
 
 **4th-level spells:**
 
-- blight (DC 21), dispel magic, freedom of movement, &EX greater magic fang, call lightning (DC 20),
-  contagion (DC 20), meld into stone, poison (DC 20), &EX spider climb, soften earth and stone^D^,
-  tree shape
+- blight (DC 21), dispel magic, freedom of movement, extended greater magic fang, call lightning (DC
+  20), contagion (DC 20), meld into stone, poison (DC 20), extended spider climb, soften earth and
+  stone^D^, tree shape
 
 **1st-level spells:**
 

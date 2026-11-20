@@ -101,8 +101,8 @@ in curved blades._
 **Per day:**
 
 - 3/day: greater glyph of warding (DC 25), hold monster (DC 24)
-- 1/day: insanity (DC 26), &S level 4; 2 [piscodaemons](ref/monster/daemon-piscodaemon) 50%, symbol
-  of pain (DC 24)
+- 1/day: insanity (DC 26), summon (level 4, 2 [piscodaemons](ref/monster/daemon-piscodaemon) 50%),
+  symbol of pain (DC 24)
 
 **Statistics**
 

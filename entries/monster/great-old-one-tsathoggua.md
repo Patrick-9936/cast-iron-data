@@ -115,7 +115,7 @@ mind-affecting effects, paralysis, petrification
 
 **Per day:**
 
-- 3/day: demand (DC 30), &Q feeblemind (DC 27), hungry pit (DC 27), power word stun
+- 3/day: demand (DC 30), quickened feeblemind (DC 27), hungry pit (DC 27), power word stun
 - 1/day: maze, weird (DC 31), wish
 
 **Spells Known**

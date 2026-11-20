@@ -100,7 +100,7 @@ ring of huge drums and storm clouds._
 
 - 3/day: control weather, deafening song bolt, discordant blast, greater dispel magic, mass
   cacophonous call (DC 22)
-- 1/day: &EM chain lightning (DC 23), greater shout (DC 25), storm of vengeance (DC 26)
+- 1/day: empowered chain lightning (DC 23), greater shout (DC 25), storm of vengeance (DC 26)
 
 **Statistics**
 

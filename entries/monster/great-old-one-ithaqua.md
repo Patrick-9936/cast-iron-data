@@ -118,8 +118,8 @@ mind-affecting effects, paralysis, petrification, storms
 
 **Per day:**
 
-- 3/day: demand (DC 28), &Q feeblemind (DC 25), &Q gust of wind (DC 22), &S, level 9; 2d4 wendigos
-  100%
+- 3/day: demand (DC 28), quickened feeblemind (DC 25), quickened gust of wind (DC 22), summon (level
+  9, 2d4 wendigos 100%)
 - 1/day: interplanetary teleport, arctic regions only, storm of vengeance (DC 29), whirlwind (DC 28)
 
 **Statistics**

@@ -102,9 +102,10 @@ arms end in massive blades._
 
 **Per day:**
 
-- 3/day: confusion (DC 19), haste, hold monster (DC 20), invisibility, &Q unholy blight (DC 19)
-- 1/day: cone of cold (DC 20), finger of death (DC 22), plane shift (DC 22), &S level 7; 4 greater
-  shadows
+- 3/day: confusion (DC 19), haste, hold monster (DC 20), invisibility, quickened unholy blight (DC
+  19)
+- 1/day: cone of cold (DC 20), finger of death (DC 22), plane shift (DC 22), summon (level 7, 4
+  greater shadows)
 
 **Statistics**
 

@@ -96,7 +96,7 @@ and shivering insectile wings._
 
 **Per day:**
 
-- 3/day: confusion (DC 20), haste, &Q invisibility, mind fog (DC 21)
+- 3/day: confusion (DC 20), haste, quickened invisibility, mind fog (DC 21)
 - 1/day: giant vermin, shadow evocation (DC 21)
 
 **Statistics**

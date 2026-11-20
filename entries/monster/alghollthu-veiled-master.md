@@ -107,7 +107,8 @@ tentacles +12 touch (2d6 electricity plus thoughtlance)
 
 **Per day:**
 
-- 3/day: dominate monster (DC 25), &Q dominate person (DC 21), geas/quest, mass suggestion (DC 22)
+- 3/day: dominate monster (DC 25), quickened dominate person (DC 21), geas/quest, mass suggestion
+  (DC 22)
 
 **Spells Known**
 

@@ -108,7 +108,7 @@ helm made of greasy green metal._
 **Per day:**
 
 - 3/day: gaseous form
-- 1/day: blasphemy (DC 23), &S level 4; 1 hezrou 35%
+- 1/day: blasphemy (DC 23), summon (level 4, 1 hezrou 35%)
 
 **Statistics**
 

@@ -92,8 +92,8 @@ and a fang-filled mouth._
 
 **Per day:**
 
-- 3/day: charm monster (DC 20), &Q invisibility, &Q ray of enfeeblement (DC 19), ray of exhaustion,
-  vampiric touch
+- 3/day: charm monster (DC 20), quickened invisibility, quickened ray of enfeeblement (DC 19), ray
+  of exhaustion, vampiric touch
 - 1/day: mirage arcana (DC 21), veil, self only, waves of fatigue, wind walk
 
 **Statistics**

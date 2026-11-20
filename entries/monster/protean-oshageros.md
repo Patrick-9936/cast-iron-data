@@ -103,7 +103,7 @@ its back._
 **Per day:**
 
 - 3/day: chaos hammer (DC 19)
-- 1/day: dispel law (DC 20), dismissal (DC 20), &S level 5; 2 imenteshes 75%
+- 1/day: dispel law (DC 20), dismissal (DC 20), summon (level 5, 2 imenteshes 75%)
 
 **Statistics**
 

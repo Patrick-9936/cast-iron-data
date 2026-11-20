@@ -112,8 +112,8 @@ lengthy contracts._
 - 3/day: arcane eye, break enchantment, greater teleport, self plus 50 lbs. of objects only, hold
   person (DC 19), locate creature, mage's private sanctum, scorching ray, silence (DC 18), vision
 - 1/day: contact other plane, delayed blast fireball (DC 23), dismissal (DC 21), plane shift (DC
-  23), &S level 4; 1d6 [bearded devils](ref/monster/devil-bearded-devil-barbazu) or 1
-  [bone devil](ref/monster/devil-bone-devil-osyluth) 50%, symbol of pain (DC 21)
+  23), summon (level 4, 1d6 [bearded devils](ref/monster/devil-bearded-devil-barbazu) or 1
+  [bone devil](ref/monster/devil-bone-devil-osyluth) 50%), symbol of pain (DC 21)
 
 **Statistics**
 

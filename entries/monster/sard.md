@@ -103,7 +103,7 @@ dance in the cracks of its bark._
 
 **Per day:**
 
-- 3/day: chain lightning (DC 23), &Q lightning bolt (DC 20)
+- 3/day: chain lightning (DC 23), quickened lightning bolt (DC 20)
 - 1/day: storm of vengeance (DC 26), whirlwind (DC 25)
 
 **Statistics**

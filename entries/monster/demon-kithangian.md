@@ -100,8 +100,8 @@ poison)
 
 **Per day:**
 
-- 3/day: air walk, &Q unnatural lust (DC 14)
-- 1/day: baleful polymorph (DC 18), &S level 3; 1 kithangian 35%
+- 3/day: air walk, quickened unnatural lust (DC 14)
+- 1/day: baleful polymorph (DC 18), summon (level 3, 1 kithangian 35%)
 
 **Statistics**
 

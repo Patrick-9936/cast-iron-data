@@ -93,7 +93,7 @@ grace its hands._
 
 **Per day:**
 
-- 1/day: &S level 4; 1 vayuphak 35%
+- 1/day: summon (level 4, 1 vayuphak 35%)
 
 **Psychic Magic**
 

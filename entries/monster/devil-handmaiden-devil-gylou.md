@@ -104,7 +104,7 @@ a gown of writhing tendrils._
 **Per day:**
 
 - 3/day: black tentacles, charm monster (DC 19)
-- 1/day: &S level 5; 3 [erinyes](ref/monster/devil-erinyes) 65%
+- 1/day: summon (level 5, 3 [erinyes](ref/monster/devil-erinyes) 65%)
 
 **Statistics**
 

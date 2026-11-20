@@ -101,8 +101,8 @@ _This serpentine monster has six arms and is crowned by a halo of ever-changing 
 
 **Per day:**
 
-- 3/day: &Q confusion (DC 23), &Q disintegrate (DC 25), prismatic spray (DC 26), reshape reality (DC
-  26), &Q telekinesis (DC 24), word of chaos (DC 26)
+- 3/day: quickened confusion (DC 23), quickened disintegrate (DC 25), prismatic spray (DC 26),
+  reshape reality (DC 26), quickened telekinesis (DC 24), word of chaos (DC 26)
 - 1/day: heal, implosion (DC 28), mage's disjunction, prismatic sphere (DC 28)
 
 **Per year:**

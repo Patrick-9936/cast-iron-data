@@ -110,8 +110,8 @@ wings +35 (1d8+5 plus 1d6 fire)
 
 **Per day:**
 
-- 3/day: banishment (DC 26), &Q blade barrier^M^ (DC 25), blessing of fervor, discern location,
-  heal^M^
+- 3/day: banishment (DC 26), quickened blade barrier^M^ (DC 25), blessing of fervor, discern
+  location, heal^M^
 - 1/day: gate, meteor swarm^M^ (DC 28), time stop^M^
 
 ###### M {#footnote-m}

@@ -120,8 +120,8 @@ wall), terrakinesis, witch of the fey
 
 **Per day:**
 
-- 3/day: clashing rocks (DC 29), &Q confusion (DC 23), flesh to stone (DC 26), move earth, summon
-  nature's ally IX
+- 3/day: clashing rocks (DC 29), quickened confusion (DC 23), flesh to stone (DC 26), move earth,
+  summon nature's ally IX
 
 **Statistics**
 

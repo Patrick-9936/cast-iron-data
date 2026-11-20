@@ -100,7 +100,7 @@ covered in a viscous slime._
 **Per day:**
 
 - 3/day: acid fog, greater dispel magic
-- 1/day: &S level 6; 1d4 tarry demodands 50%
+- 1/day: summon (level 6, 1d4 tarry demodands 50%)
 
 **Statistics**
 

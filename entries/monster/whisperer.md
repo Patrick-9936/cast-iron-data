@@ -104,7 +104,8 @@ be._
 
 **Per day:**
 
-- 3/day: commune with nature, &Q confusion (DC 23), &Q greater dispel magic, green caress (DC 25)
+- 3/day: commune with nature, quickened confusion (DC 23), quickened greater dispel magic, green
+  caress (DC 25)
 - 1/day: earthquake, reverse gravity, whirlwind (DC 27), wish, to duplicate druid spells of 7th or
   lower level only
 

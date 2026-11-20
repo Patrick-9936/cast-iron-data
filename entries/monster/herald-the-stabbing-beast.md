@@ -107,7 +107,7 @@ sting +24 (1d6+4 plus bleed and poison)
 **Per day:**
 
 - 3/day: false alibi (DC 15), greater teleport, self plus 50 lbs. of objects only, invisibility,
-  modify memory (DC 16), suggestion (DC 15), &S, level 6; 1 fiendish deadfall scorpion 100%
+  modify memory (DC 16), suggestion (DC 15), summon (level 6, 1 fiendish deadfall scorpion 100%)
 
 **Statistics**
 

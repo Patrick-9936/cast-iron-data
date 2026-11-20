@@ -110,8 +110,8 @@ petrification, poison
 
 **Per day:**
 
-- 3/day: &Q blade barrier^M^ (DC 27), forcecage (DC 28), geas/quest, summon devils, symbol of pain
-  (DC 27)
+- 3/day: quickened blade barrier^M^ (DC 27), forcecage (DC 28), geas/quest, summon devils, symbol of
+  pain (DC 27)
 - 1/day: imprisonment (DC 30), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

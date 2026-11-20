@@ -102,7 +102,7 @@ and a toothy, toad-like head._
 
 **Per day:**
 
-- 1/day: &S level 8; 1d8 tarry demodands or 1d4 slimy demodands or 1 shaggy demodand 75%
+- 1/day: summon (level 8, 1d8 tarry demodands or 1d4 slimy demodands or 1 shaggy demodand 75%)
 
 **Statistics**
 

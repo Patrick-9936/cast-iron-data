@@ -103,9 +103,9 @@ reincarnation
 
 **Per day:**
 
-- 3/day: &Q charm monster (DC 22), greater command (DC 23), hallucinatory terrain (DC 22), mass
-  suggestion (DC 24), plane shift (DC 25), stone tell, veil
-- 1/day: dominate monster (DC 27), &S level 9; 1 wild hunt horse 100%, wind walk
+- 3/day: quickened charm monster (DC 22), greater command (DC 23), hallucinatory terrain (DC 22),
+  mass suggestion (DC 24), plane shift (DC 25), stone tell, veil
+- 1/day: dominate monster (DC 27), summon (level 9, 1 wild hunt horse 100%), wind walk
 
 **Prepared Spells**
 

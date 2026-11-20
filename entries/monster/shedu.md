@@ -93,8 +93,8 @@ wise-looking human._
 
 **Per day:**
 
-- 3/day: &EM cure moderate wounds, dispel magic, magic circle against evil, remove disease, shield
-  other
+- 3/day: empowered cure moderate wounds, dispel magic, magic circle against evil, remove disease,
+  shield other
 - 1/day: dismissal (DC 19), flame strike (DC 19), restoration
 
 **Statistics**

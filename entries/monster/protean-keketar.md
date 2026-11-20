@@ -114,8 +114,8 @@ plus [grab](ref/umr/grab))
 
 **Per day:**
 
-- 3/day: &Q confusion (DC 21), dispel law (DC 22), &EM chaos hammer (DC 21), polymorph any object
-  (DC 25)
+- 3/day: quickened confusion (DC 21), dispel law (DC 22), empowered chaos hammer (DC 21), polymorph
+  any object (DC 25)
 - 1/day: disintegrate (DC 23), prismatic spray (DC 24), prismatic sphere (DC 26), reshape reality
 
 **Statistics**

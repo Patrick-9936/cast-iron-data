@@ -97,7 +97,7 @@ its open, lily-shaped maw._
 **Per day:**
 
 - 3/day: clairvoyance/clairaudience, telekinesis (DC 20)
-- 1/day: &Q suggestion (DC 18)
+- 1/day: quickened suggestion (DC 18)
 
 **Statistics**
 

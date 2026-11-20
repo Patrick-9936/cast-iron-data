@@ -94,7 +94,7 @@ humanoid features with canine._
 
 **Per day:**
 
-- 3/day: dimension door, &Q summon swarm, bats only
+- 3/day: dimension door, quickened summon swarm, bats only
 - 1/day: word of recall, see grave link
 
 **Statistics**

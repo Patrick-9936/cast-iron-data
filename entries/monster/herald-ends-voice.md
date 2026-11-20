@@ -98,8 +98,8 @@ strike)
 
 **At will:**
 
-- arcane eye, &Q bleed (DC 16), hideous laughter (DC 18), knock, magic missile, shatter (DC 18),
-  telepathic bond, touch of idiocy, true strike
+- arcane eye, quickened bleed (DC 16), hideous laughter (DC 18), knock, magic missile, shatter (DC
+  18), telepathic bond, touch of idiocy, true strike
 
 **Per day:**
 

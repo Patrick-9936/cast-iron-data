@@ -100,8 +100,8 @@ blackest night._
 **Per day:**
 
 - 3/day: confusion (DC 19), greater dispel magic, haste, hold monster (DC 20), invisibility
-- 1/day: cone of cold (DC 20), finger of death (DC 22), plane shift (DC 22), &S level 6; 2 greater
-  shadows
+- 1/day: cone of cold (DC 20), finger of death (DC 22), plane shift (DC 22), summon (level 6, 2
+  greater shadows)
 
 **Statistics**
 

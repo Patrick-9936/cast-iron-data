@@ -112,8 +112,8 @@ mind
 
 - 3/day: blasphemy (DC 25), crushing despair (DC 24), dispel magic, fear (DC 24), malicious spite
   (DC 24), suggestion (DC 21)
-- 1/day: antipathy (DC 28), eyebite (DC 26), &S level 9; any one CR 19 or lower sahkil 100%, symbol
-  of fear (DC 26), weird (DC 29)
+- 1/day: antipathy (DC 28), eyebite (DC 26), summon (level 9, any one CR 19 or lower sahkil 100%),
+  symbol of fear (DC 26), weird (DC 29)
 
 **Statistics**
 

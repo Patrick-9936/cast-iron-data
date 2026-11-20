@@ -98,7 +98,7 @@ wound)
 **Per day:**
 
 - 3/day: fireball (DC 19), lightning bolt (DC 19)
-- 1/day: &S level 6; 3 [barbed devils](ref/monster/devil-barbed-devil-hamatula); 35%
+- 1/day: summon (level 6, 3 [barbed devils](ref/monster/devil-barbed-devil-hamatula), 35%)
 
 **Statistics**
 

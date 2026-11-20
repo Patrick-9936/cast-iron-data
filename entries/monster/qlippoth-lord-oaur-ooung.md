@@ -111,8 +111,8 @@ pulsing blisters._
 
 **Per day:**
 
-- 3/day: control plants (DC 24), &Q heal^M^, horrid wilting^M^ (DC 24), plundered power (DC 23),
-  vortex (DC 23)
+- 3/day: control plants (DC 24), quickened heal^M^, horrid wilting^M^ (DC 24), plundered power (DC
+  23), vortex (DC 23)
 - 1/day: tsunami^M^ (DC 25), summon qlippoth
 
 ###### M {#footnote-m}

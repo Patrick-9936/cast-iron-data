@@ -98,7 +98,7 @@ amplify the light around her._
 
 **Per day:**
 
-- 3/day: &Q blistering invective (DC 15)
+- 3/day: quickened blistering invective (DC 15)
 - 1/day: flame strike (DC 18), waves of exhaustion
 
 **Statistics**

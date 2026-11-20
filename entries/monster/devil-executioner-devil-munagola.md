@@ -93,7 +93,7 @@ black eyes smolder like coals._
 
 **Per day:**
 
-- 1/day: &S level 4; 3 [erinyes](ref/monster/devil-erinyes) 60%
+- 1/day: summon (level 4, 3 [erinyes](ref/monster/devil-erinyes) 60%)
 
 **Statistics**
 

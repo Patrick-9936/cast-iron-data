@@ -99,7 +99,7 @@ between her hands._
 
 **Per day:**
 
-- 3/day: &Q wandering star motes (DC 20)
+- 3/day: quickened wandering star motes (DC 20)
 
 **Statistics**
 

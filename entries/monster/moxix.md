@@ -109,10 +109,10 @@ rounds
 
 **Per day:**
 
-- 3/day: create undead, feeblemind (DC 22), insanity (DC 24), &Q mind fog (DC 22), phantasmal killer
-  (DC 21), song of discord (DC 22), symbol of pain (DC 22)
-- 1/day: desecrate, greater teleport, self plus 50 lbs. of objects only, &S level 9; any 1 CR 19 or
-  lower demon 100%, symbol of insanity (DC 25), weird (DC 26)
+- 3/day: create undead, feeblemind (DC 22), insanity (DC 24), quickened mind fog (DC 22), phantasmal
+  killer (DC 21), song of discord (DC 22), symbol of pain (DC 22)
+- 1/day: desecrate, greater teleport, self plus 50 lbs. of objects only, summon (level 9, any 1 CR
+  19 or lower demon 100%), symbol of insanity (DC 25), weird (DC 26)
 
 **Statistics**
 

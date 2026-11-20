@@ -114,11 +114,11 @@ transparent flesh._
 
 **4th-level spells:**
 
-- bestow curse (DC 21), enervation, 2, shadow projection, &reach vampiric touch
+- bestow curse (DC 21), enervation, 2, shadow projection, reach vampiric touch
 
 **3rd-level spells:**
 
-- dispel magic, &reach ghoul touch (DC 19)
+- dispel magic, reach ghoul touch (DC 19)
 
 **Cantrips:**
 

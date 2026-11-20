@@ -105,7 +105,7 @@ confusion)
 **Per day:**
 
 - 3/day: disintegrate (DC 21), greater dispel magic, illusory wall (DC 19), suggestion (DC 18)
-- 1/day: &S level 5; 1 temerdaemon 30%
+- 1/day: summon (level 5, 1 temerdaemon 30%)
 
 **Statistics**
 

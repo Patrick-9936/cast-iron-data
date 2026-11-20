@@ -109,8 +109,8 @@ tumors and writing tentacles._
 
 **Per day:**
 
-- 3/day: antilife shell, break enchantment, contagion (DC 28), &Q cure serious wounds, dimension
-  door
+- 3/day: antilife shell, break enchantment, contagion (DC 28), quickened cure serious wounds,
+  dimension door
 - 1/day: antimagic field, destruction (DC 32), regenerate
 
 **Statistics**

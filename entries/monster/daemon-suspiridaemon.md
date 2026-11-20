@@ -108,7 +108,7 @@ arms that end in claws._
 **Per day:**
 
 - 3/day: stinking cloud (DC 16), vampiric touch
-- 1/day: cloudkill (DC 18), &S level 4; 1d3 [lacridaemons](ref/monster/daemon-lacridaemon) 35%
+- 1/day: cloudkill (DC 18), summon (level 4, 1d3 [lacridaemons](ref/monster/daemon-lacridaemon) 35%)
 
 **Statistics**
 

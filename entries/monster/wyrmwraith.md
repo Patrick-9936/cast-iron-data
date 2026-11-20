@@ -111,7 +111,7 @@ dispelling), 2 incorporeal wings +24 (2d6), incorporeal tail slap +24 (2d8)
 **Per day:**
 
 - 5/day: create undead, control undead (DC 23), unhallow, unholy blight (DC 20)
-- 3/day: create greater undead, &Q finger of death (DC 23), waves of exhaustion
+- 3/day: create greater undead, quickened finger of death (DC 23), waves of exhaustion
 - 1/day: energy drain (DC 25), soul bind (DC 25)
 
 **Statistics**

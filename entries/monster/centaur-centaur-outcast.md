@@ -87,7 +87,7 @@ scrolls and wands. Winding, swirling tattoos climb across his body and face._
 
 **3rd-level spells:**
 
-- fly, haste, &merciful lightning bolt (DC 17)
+- fly, haste, merciful lightning bolt (DC 17)
 
 **2nd-level spells:**
 

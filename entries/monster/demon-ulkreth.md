@@ -107,7 +107,7 @@ back._
 **Per day:**
 
 - 3/day: move earth
-- 1/day: earthquake, &S level 5; 1 ulkreth or 1 omox 40%
+- 1/day: earthquake, summon (level 5, 1 ulkreth or 1 omox 40%)
 
 **Statistics**
 

@@ -84,7 +84,7 @@ deep in its eye sockets._
 
 **Per day:**
 
-- 3/day: &Q dimension door
+- 3/day: quickened dimension door
 
 **Statistics**
 

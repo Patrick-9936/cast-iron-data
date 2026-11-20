@@ -96,7 +96,7 @@ intelligence and cruelty._
 
 **Per day:**
 
-- 1/day: power word stun, &S level 4; 1 glabrezu 20% or 1d2 vrocks 50%
+- 1/day: power word stun, summon (level 4, 1 glabrezu 20% or 1d2 vrocks 50%)
 
 **Per month:**
 

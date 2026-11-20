@@ -112,7 +112,7 @@ reach, lore keeper, spell synthesis
 
 **7th-level spells:**
 
-- destruction^D^ (2, DC 29), &EM flame strike, 2, repulsion (DC 28)
+- destruction^D^ (2, DC 29), empowered flame strike, 2, repulsion (DC 28)
 
 **6th-level spells:**
 

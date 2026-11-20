@@ -106,8 +106,8 @@ plus creeping dark)
 **Per day:**
 
 - 3/day: dispel magic, contagion (DC 18), invisibility
-- 1/day: air walk, confusion (DC 18), cone of cold (DC 19), haste, hold monster (DC 19), &S level 4;
-  2 shadows
+- 1/day: air walk, confusion (DC 18), cone of cold (DC 19), haste, hold monster (DC 19), summon
+  (level 4, 2 shadows)
 
 **Statistics**
 

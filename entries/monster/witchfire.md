@@ -94,7 +94,7 @@ off the ground._
 
 **Per day:**
 
-- 1/day: &S level 4; 2 will-o'-wisps 50%
+- 1/day: summon (level 4, 2 will-o'-wisps 50%)
 
 **Statistics**
 

@@ -102,8 +102,8 @@ single red eye._
 
 **Per day:**
 
-- 3/day: call lightning storm (DC 21), earthquake (DC 22), &Q teleport, sirocco (DC 21), vortex (DC
-  22), whirlwind (DC 23)
+- 3/day: call lightning storm (DC 21), earthquake (DC 22), quickened teleport, sirocco (DC 21),
+  vortex (DC 22), whirlwind (DC 23)
 - 1/day: meteor swarm (DC 24), storm of vengeance (DC 24), time stop, tsunami (DC 24)
 
 **Statistics**

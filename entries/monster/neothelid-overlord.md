@@ -104,7 +104,7 @@ tentacles._
 
 **Per day:**
 
-- 3/day: &Q mass suggestion (DC 23)
+- 3/day: quickened mass suggestion (DC 23)
 
 **Psychic Magic**
 

@@ -101,7 +101,7 @@ and smoking eye sockets._
 **Per day:**
 
 - 3/day: baleful polymorph (DC 21), feeblemind (DC 21), greater dispel magic, plane shift, self and
-  willing targets only, &S level 4; 1d3 yeth hounds 100%
+  willing targets only, summon (level 4, 1d3 yeth hounds 100%)
 - 1/day: control weather, unhallow
 
 **Statistics**

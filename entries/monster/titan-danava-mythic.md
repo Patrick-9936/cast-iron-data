@@ -111,7 +111,7 @@ mace._
 
 **Per day:**
 
-- 3/day: &Q chain lightning (DC 28), mass suggestion (DC 28)
+- 3/day: quickened chain lightning (DC 28), mass suggestion (DC 28)
 - 1/day: greater planar ally, mass heal (DC 31), soul bind (DC 31), tsunami (DC 31)
 
 **Statistics**

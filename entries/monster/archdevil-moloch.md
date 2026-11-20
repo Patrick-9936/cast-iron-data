@@ -120,8 +120,8 @@ petrification, poison
 
 **Per day:**
 
-- 3/day: &Q blade barrier^M^ (DC 27), &EM fire storm (DC 29), mass charm monster (DC 29), mass hold
-  person (DC 28), summon devils
+- 3/day: quickened blade barrier^M^ (DC 27), empowered fire storm (DC 29), mass charm monster (DC
+  29), mass hold person (DC 28), summon devils
 - 1/day: meteor swarm^M^ (DC 30), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

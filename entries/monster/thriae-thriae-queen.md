@@ -101,7 +101,7 @@ poison)
 **Per day:**
 
 - 3/day: charm monster (DC 23), find the path, giant vermin, 8 bees or 6 wasps, mass cure critical
-  wounds, poison (DC 23), restoration, &Q slow (DC 22)
+  wounds, poison (DC 23), restoration, quickened slow (DC 22)
 - 1/day: foresight, mass heal, regenerate
 
 **Statistics**

@@ -113,8 +113,8 @@ electricity, energy drain, petrification, and poison
 
 **Per day:**
 
-- 3/day: &Q dominate person^M^ (DC 28), summon demons, symbol of persuasion (DC 29), sympathy (DC
-  31), whirlwind^M^
+- 3/day: quickened dominate person^M^ (DC 28), summon demons, symbol of persuasion (DC 29), sympathy
+  (DC 31), whirlwind^M^
 - 1/day: dominate monster (DC 32), time stop^M^, wish^M^
 
 ###### M {#footnote-m}

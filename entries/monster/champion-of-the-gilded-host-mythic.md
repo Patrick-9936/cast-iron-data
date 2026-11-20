@@ -92,8 +92,8 @@ _This towering humanoid creature is made almost entirely of gold and radiates a 
 
 **Per day:**
 
-- 3/day: &EX good hope
-- 1/day: &EX vengeful outrage (DC 16)
+- 3/day: extended good hope
+- 1/day: extended vengeful outrage (DC 16)
 
 **Statistics**
 

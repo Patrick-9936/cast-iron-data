@@ -108,7 +108,7 @@ together into one body._
 
 - 3/day: charm monster (DC 21), mass suggestion (DC 23), scrying (DC 21), symbol of pain (DC 22),
   touch of idiocy, vision
-- 1/day: &S level 5; 1 hezrou or 1d4 succubi; 50%
+- 1/day: summon (level 5, 1 hezrou or 1d4 succubi, 50%)
 
 **Statistics**
 

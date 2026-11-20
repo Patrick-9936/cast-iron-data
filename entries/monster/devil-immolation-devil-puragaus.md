@@ -105,7 +105,7 @@ _Ash and embers encrust the smoldering humanoid frame of this imperious, dragon-
 **Per day:**
 
 - 3/day: dictum (DC 24), fire storm (DC 25), mass charm monster (DC 25)
-- 1/day: &S level 9; any 2d4 devils of CR 10 or lower; 90%
+- 1/day: summon (level 9, any 2d4 devils of CR 10 or lower, 90%)
 
 **Statistics**
 

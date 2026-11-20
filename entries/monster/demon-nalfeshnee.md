@@ -99,7 +99,7 @@ four-fingered hands._
 
 **Per day:**
 
-- 1/day: &S level 5; 1 nalfeshnee 20%; 1d4 hezrous 40%; or 1d4 vrocks 50%
+- 1/day: summon (level 5, 1 nalfeshnee 20%, 1d4 hezrous 40%, or 1d4 vrocks 50%)
 
 **Statistics**
 

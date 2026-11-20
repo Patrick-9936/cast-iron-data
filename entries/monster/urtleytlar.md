@@ -120,7 +120,7 @@ welcoming._
 **Per day:**
 
 - 3/day: black tentacles, charm monster (DC 21), insanity (DC 24), mirage arcana (DC 22), solid fog
-- 1/day: control weather, power word stun, project image (DC 24), &S level 8; 1 charybdis 100%
+- 1/day: control weather, power word stun, project image (DC 24), summon (level 8, 1 charybdis 100%)
 
 **Prepared Spells**
 

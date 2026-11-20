@@ -103,8 +103,8 @@ punching daggers._
 
 - 3/day: chain lightning (DC 22), cloudkill (DC 21), cone of cold (DC 21), dimension door, fire
   snake (DC 21), greater dispel magic, wall of fire
-- 1/day: control water, control weather, greater shout (DC 24), &S level 6; 1d3
-  [aghasuras](ref/monster/asura-aghasura); 40%
+- 1/day: control water, control weather, greater shout (DC 24), summon (level 6, 1d3
+  [aghasuras](ref/monster/asura-aghasura), 40%)
 
 **Statistics**
 

@@ -101,7 +101,8 @@ hum._
 
 **Per day:**
 
-- 3/day: crushing despair (DC 21), &Q murderous command (DC 18), &Q oppressive boredom (DC 19)
+- 3/day: crushing despair (DC 21), quickened murderous command (DC 18), quickened oppressive boredom
+  (DC 19)
 - 1/day: envious urge (DC 23), malicious spite (DC 21), song of discord (DC 22)
 
 **Statistics**

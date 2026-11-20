@@ -92,7 +92,7 @@ fiery-eyed sentinel bristles with barbs._
 
 **Per day:**
 
-- 1/day: order's wrath (DC 18), &S level 4; 1 barbed devil 35%, unholy blight (DC 18)
+- 1/day: order's wrath (DC 18), summon (level 4, 1 barbed devil 35%), unholy blight (DC 18)
 
 **Statistics**
 

@@ -111,7 +111,7 @@ pockmarked with coal-like scales and metallic piercings, and it carries a fearso
 
 **Per day:**
 
-- 3/day: &Q detonate (DC 24), greater dispel magic, make whole
+- 3/day: quickened detonate (DC 24), greater dispel magic, make whole
 - 1/day: blade barrier (DC 26), flame strike (DC 25), wall of iron
 
 **Statistics**

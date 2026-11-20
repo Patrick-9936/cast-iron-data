@@ -110,7 +110,7 @@ flesh, and the skulladorned flails she wields drip black liquid._
 **Per day:**
 
 - 3/day: blade barrier (DC 26), fly
-- 1/day: &S level 5; 1 marilith 20%; 1 nalfeshnee 35%; or 1d4 hezrous 60%
+- 1/day: summon (level 5, 1 marilith 20%, 1 nalfeshnee 35%, or 1d4 hezrous 60%)
 
 **Spell-Like Abilities**
 

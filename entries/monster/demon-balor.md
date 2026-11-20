@@ -100,9 +100,9 @@ flaming whip +30/+25/+20 (1d4+7 plus 1d6 fire and entangle) or 2 slams +31 (1d10
 
 **Per day:**
 
-- 3/day: &Q telekinesis (DC 23)
-- 1/day: blasphemy (DC 25), fire storm (DC 26), implosion (DC 27), &S level 9; any 1 CR 19 or lower
-  demon 100%
+- 3/day: quickened telekinesis (DC 23)
+- 1/day: blasphemy (DC 25), fire storm (DC 26), implosion (DC 27), summon (level 9, any 1 CR 19 or
+  lower demon 100%)
 
 **Statistics**
 

@@ -103,9 +103,9 @@ spiky armor._
 
 **Per day:**
 
-- 3/day: dimensional lock, &Q hold monster (DC 22), song of discord (DC 22)
-- 1/day: mass hold monster (DC 26), &S level 7; 1 gallu 20%; 1 marilith 35%; or 1d4 nalfeshnees 60%,
-  symbol of insanity (DC 25), word of chaos (DC 24)
+- 3/day: dimensional lock, quickened hold monster (DC 22), song of discord (DC 22)
+- 1/day: mass hold monster (DC 26), summon (level 7, 1 gallu 20%, 1 marilith 35%, or 1d4 nalfeshnees
+  60%), symbol of insanity (DC 25), word of chaos (DC 24)
 
 **Statistics**
 

@@ -106,8 +106,8 @@ Intelligence drain)
 
 **Per day:**
 
-- 3/day: banishment (DC 29), &Q greater dispel magic, &EM horrid wilting (DC 31), polymorph any
-  object (DC 31), spell turning
+- 3/day: banishment (DC 29), quickened greater dispel magic, empowered horrid wilting (DC 31),
+  polymorph any object (DC 31), spell turning
 - 1/day: dominate monster (DC 32), limited wish, mage's disjunction (DC 32), prismatic sphere, time
   stop
 
