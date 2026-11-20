@@ -92737,10 +92737,6 @@ title = "Unpaged"
 review = "These entries name this publication but their source line gives no page number, so their position is unknown."
 
 [[books.chapters.children]]
-title = "Universal Path Abilities"
-entry = "ref/rule/universal-path-abilities"
-
-[[books.chapters.children]]
 title = "Anuli Engineer"
 entry = "ref/trait/anuli-engineer"
 

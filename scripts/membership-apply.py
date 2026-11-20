@@ -46,8 +46,10 @@ It refuses a row that
   * has `gate = primary` (removing the first book changes the entry's primary book) unless the
     reviewer cleared it: the row names `proposed_primary`, `proposed_status` is `printed` or
     `body` (the reviewer read the page), the book that becomes first is exactly `proposed_primary`,
-    and the entry holds a `[[sources]]` row with a page for it. A gated row with any other value
-    is refused. Or has tag `hub-keep`,
+    and the entry holds a `[[sources]]` row for it whose page is exactly the reviewed `print_page`.
+    A gated row with any other value is refused, and so is a queue that also removes that proposed
+    book from the same entry (the rows are checked against the files as they are now, then applied
+    one after another). Or has tag `hub-keep`,
   * would leave `source_ids` empty (the last book of an entry is never removed),
   * names a book that is not in the entry's `source_ids`, or an entry that does not exist.
 It never edits an `id` and never moves a file. The edit is textual and keeps the canonical form;
@@ -216,7 +218,7 @@ def release_citation(root: Path, entry: str, book: str, text: str, audit: dict) 
 
 def edit_entry(path: Path, book: str, title: str, write: bool = True,
                entry: str = "", root: Path | None = None, audit: dict | None = None,
-               primary_to: str = "") -> str:
+               primary_to: str = "", print_page: str = "") -> str:
     """Remove `book` from `source_ids` of one entry file. Returns 'removed' or 'absent'; refuses
     the last book, any body source line naming the book (checked first, whatever structured rows exist)
     and any `[[sources]]` row the audit file does not release."""
@@ -239,8 +241,11 @@ def edit_entry(path: Path, book: str, title: str, write: bool = True,
     if primary_to:
         if ids[0] != book or len(ids) < 2 or ids[1] != primary_to:
             raise SystemExit(f"refused: {path.name} would not have {primary_to} as its first book after removing {book}")
-        if not sources_page(text, primary_to):
+        cited = sources_page(text, primary_to)
+        if not cited:
             raise SystemExit(f"refused: {path.name} has no page citation for the new first book {primary_to}")
+        if cited != print_page:
+            raise SystemExit(f"refused: {path.name} cites {primary_to} at p. {cited}, but the reviewed print_page is {print_page!r}")
     ids.remove(book)
     new_line = "source_ids = [" + ", ".join(f'"{i}"' for i in ids) + "]"
     if write:
@@ -344,14 +349,21 @@ def main() -> int:
         if r["evidence"] == "passing-mention-recorded" and audit.get((r["entry"], r["book"]), {}).get("class") != "mention":
             raise SystemExit(f"refused: {r['entry']} in {r['book']} is a passing mention with no `mention` audit row")
         todo.append((path, r))
+    # Rows are checked against the files as they are now and applied one after another, so a queue
+    # must not remove the book that another row of the same entry proposes as its new first book.
+    wanted = {(r["entry"], r["book"]) for _, r in todo}
+    for _, r in todo:
+        if r["gate"] and (r["entry"], r["proposed_primary"]) in wanted:
+            raise SystemExit(f"refused: {r['entry']} clears {r['book']} -> {r['proposed_primary']}, and the queue also removes {r['proposed_primary']}")
     # Check every row first (a refusal stops the run before anything is written), then write.
     for path, r in todo:
         edit_entry(path, r["book"], titles[r["book"]], write=False, entry=r["entry"], root=root, audit=audit,
-                   primary_to=r["proposed_primary"] if r["gate"] else "")
+                   primary_to=r["proposed_primary"] if r["gate"] else "", print_page=r["print_page"])
     removed = absent = 0
     for path, r in todo:
         state = edit_entry(path, r["book"], titles[r["book"]], write=not args.dry_run, entry=r["entry"], root=root,
-                           audit=audit, primary_to=r["proposed_primary"] if r["gate"] else "")
+                           audit=audit, primary_to=r["proposed_primary"] if r["gate"] else "",
+                           print_page=r["print_page"])
         removed += state == "removed"
         absent += state == "absent"
         removals[r["book"]].add(r["entry"])

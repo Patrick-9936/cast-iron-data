@@ -239,7 +239,7 @@ adventurers-armory	ref/eq-misc/travelers-outfit	item	Traveler's outfit	3	3	cite-
 adventurers-armory	ref/eq-misc/weasel	item	Weasel	2	2	cite-off	off-page	19	row	2	16,21									
 adventurers-armory	ref/eq-misc/wig	item	Wig	2	2	cite-off	off-page	19	row	3	14,21,30									
 adventurers-armory	ref/eq-weapon/sawtooth-sabre	item	Sawtooth sabre	5	6	cite-off	off-page	33	row	1	18									
-adventurers-armory-2	ref/class/warpriest	class	Warpriest	3	7	uncited	absent		none	0								remove	none	mention-only
+adventurers-armory-2	ref/class/warpriest	class	Warpriest	3	7	uncited	absent		none	0								remove	11	expansion-credited-on-related
 adventurers-armory-2	ref/arc-magus/kensai	archetype	Kensai	2	2	review	absent	11	row	0										
 adventurers-guide	ref/rule/optional-subsystems	rule	Optional Subsystems	1	10	hub-keep	absent		none	0										
 adventurers-guide	ref/spell/detect-magic-greater	spell	Greater Detect Magic	2	5	family-leak	absent	77	row	0		variant	ref/spell/detect-magic(title)					remove	77	wrong-credit-invalidated
@@ -563,7 +563,7 @@ darklands-revisited	ref/racial-trait/half-elf/low-light-vision	racial_trait	Low-
 darklands-revisited	ref/racial-trait/half-elf/normal-speed	racial_trait	Normal Speed	9	18	weak	weak		none	1	37	parent	ref/race/half-elf(title)	yes						
 demon-hunters-handbook	ref/trait/exposed-to-awfulness	trait	Exposed to Awfulness	2	2	weak	weak		none	1	3									
 disciples-doctrine	ref/ability/combat-styles	rule	Combat Styles	4	7	weak	weak		none	1	5									
-distant-shores	ref/rule/universal-path-abilities	rule	Universal Path Abilities	4	7	uncited	absent		none	0								keep	12	section-printed
+distant-shores	ref/rule/universal-path-abilities	rule	Universal Path Abilities	4	7	uncited	absent		none	0								expands	12	expansion-credited-via-upa-1
 divine-anthology	ref/rule/basics	rule	Basics	5	5	hub-keep	absent		none	0										
 divine-anthology	ref/rule/gamemastery	rule	Gamemastery	7	8	hub-keep	absent		none	0										
 dragon-empires-primer	ref/ability/arcane-schools	rule	Arcane Schools	7	7	hub-keep	absent		none	0										

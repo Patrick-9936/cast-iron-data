@@ -120,7 +120,8 @@ class ApplyTest(unittest.TestCase):
         self.assertNotEqual(r.returncode, 0)
         self.assertEqual(path.read_text(), text)
 
-    def run_first(self, text: str, gate: str = "primary", proposed: str = "book-b", status: str = "printed"):
+    def run_first(self, text: str, gate: str = "primary", proposed: str = "book-b", status: str = "printed",
+                  print_page: str = "12", extra: list[dict] | None = None, rerun: bool = False):
         """Remove book-a, the entry's first book, with a gated queue row."""
         tmp = Path(tempfile.mkdtemp())
         (tmp / "entries/spell").mkdir(parents=True)
@@ -131,14 +132,26 @@ class ApplyTest(unittest.TestCase):
         queue = tmp / "queue.tsv"
         row = dict.fromkeys(QUEUE_HEAD, "")
         row.update(book="book-a", entry="ref/spell/test-spell", kind="spell", title="Test Spell", tag="family-leak",
-                   gate=gate, proposed_primary=proposed, proposed_status=status, verdict="remove", print_page="12",
+                   gate=gate, proposed_primary=proposed, proposed_status=status, verdict="remove", print_page=print_page,
                    evidence="whole-book-absent-new-primary-printed")
         with open(queue, "w", newline="") as f:
             w = csv.DictWriter(f, fieldnames=QUEUE_HEAD, delimiter="\t", lineterminator="\n")
             w.writeheader()
             w.writerow(row)
-        r = subprocess.run([sys.executable, str(APPLY), str(tmp), "--queue", str(queue),
-                            "--audit", str(tmp / "none.tsv")], capture_output=True, text=True)
+            for more in extra or []:
+                other = dict.fromkeys(QUEUE_HEAD, "")
+                other.update(entry="ref/spell/test-spell", kind="spell", title="Test Spell", tag="uncited",
+                             verdict="remove", print_page="none", evidence="whole-book-absent")
+                other.update(more)
+                w.writerow(other)
+        args = [sys.executable, str(APPLY), str(tmp), "--queue", str(queue), "--audit", str(tmp / "none.tsv")]
+        r = subprocess.run(args, capture_output=True, text=True)
+        if rerun:
+            first = path.read_text()
+            again = subprocess.run(args, capture_output=True, text=True)
+            self.assertEqual(again.returncode, 0, again.stderr)
+            self.assertIn("already out 1", again.stdout)
+            self.assertEqual(path.read_text(), first)
         return r, path
 
     def test_cleared_first_book_is_removed_and_the_proposed_book_becomes_first(self):
@@ -171,6 +184,25 @@ class ApplyTest(unittest.TestCase):
         r, path = self.run_first(text, gate="", proposed="")
         self.assertNotEqual(r.returncode, 0)
         self.assertEqual(path.read_text(), text)
+
+    def test_queue_that_also_removes_the_proposed_new_first_book_is_refused(self):
+        text = entry(ROW, "Text.\n")
+        r, path = self.run_first(text, extra=[dict(book="book-b")])
+        self.assertNotEqual(r.returncode, 0)
+        self.assertIn("also removes", r.stderr)
+        self.assertEqual(path.read_text(), text)
+
+    def test_new_first_book_cited_at_another_page_than_the_reviewed_one_is_refused(self):
+        text = entry(ROW, "Text.\n")
+        r, path = self.run_first(text, print_page="13")
+        self.assertNotEqual(r.returncode, 0)
+        self.assertIn("reviewed print_page", r.stderr)
+        self.assertEqual(path.read_text(), text)
+
+    def test_a_successful_first_book_removal_can_run_again(self):
+        r, path = self.run_first(entry(ROW, "Text.\n"), rerun=True)
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn('source_ids = ["book-b", "book-c"]', path.read_text())
 
 
 if __name__ == "__main__":
