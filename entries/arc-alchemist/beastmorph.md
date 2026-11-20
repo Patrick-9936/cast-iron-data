@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Swift alchemy", feature = "swift-alchemy" },
   { replaces = "Swift poisoning", feature = "swift-poisoning" },
-  { replaces = "Poison resistance +2, +4, and +6" },
+  { replaces = "Poison resistance +2, +4, and +6", feature = "poison-resistance", levels = [2, 5, 8] },
   { replaces = "poison immunity" },
   { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
 ]

@@ -19,7 +19,7 @@ kind = "archetype"
 trades = [
   { replaces = "Poison lore", feature = "poison-lore" },
   { replaces = "Swift alchemy", feature = "swift-alchemy" },
-  { alters = "Alchemy (including Extracts)" },
+  { alters = "Alchemy (including Extracts)", feature = "alchemy" },
 ]
 +++
 

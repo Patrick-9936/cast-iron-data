@@ -19,10 +19,10 @@ kind = "archetype"
 trades = [
   { replaces = "Consummate liar", feature = "consummate-liar" },
   { replaces = "Towering ego", feature = "towering-ego" },
-  { replaces = "Touch treatment (minor)", feature = "touch-treatment", power = "minor" },
-  { replaces = "touch treatment (greater)", feature = "touch-treatment", power = "greater" },
-  { replaces = "Touch treatment (moderate)", feature = "touch-treatment", power = "moderate" },
-  { replaces = "touch treatment (break enchantment)" },
+  { replaces = "Touch treatment (minor)", feature = "touch-treatment", levels = [3] },
+  { replaces = "touch treatment (greater)", feature = "touch-treatment", levels = [10] },
+  { replaces = "Touch treatment (moderate)", feature = "touch-treatment", levels = [6] },
+  { replaces = "touch treatment (break enchantment)", feature = "touch-treatment", levels = [14] },
 ]
 +++
 

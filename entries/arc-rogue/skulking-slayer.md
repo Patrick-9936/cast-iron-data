@@ -18,9 +18,9 @@ page = "55"
 kind = "archetype"
 trades = [
   { replaces = "Trapfinding", feature = "trapfinding" },
-  { replaces = "Trap sense +1 and +4" },
-  { replaces = "Trap sense +2", feature = "trap-sense", power = "+2" },
-  { replaces = "Trap sense +3", feature = "trap-sense", power = "+3" },
+  { replaces = "Trap sense +1 and +4", feature = "trap-sense", levels = [3, 12] },
+  { replaces = "Trap sense +2", feature = "trap-sense", levels = [6] },
+  { replaces = "Trap sense +3", feature = "trap-sense", levels = [9] },
 ]
 +++
 

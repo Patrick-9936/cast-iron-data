@@ -17,11 +17,11 @@ page = "68"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "1st favored enemy" },
+  { replaces = "1st favored enemy", feature = "favored-enemy", levels = [1] },
   { replaces = "All combat style feats" },
   { replaces = "Hunter's bond", feature = "hunter-s-bond" },
-  { replaces = "2nd, 3rd, and 4th favored enemies" },
-  { replaces = "5th favored enemy" },
+  { replaces = "2nd, 3rd, and 4th favored enemies", feature = "favored-enemy", levels = [5, 10, 15] },
+  { replaces = "5th favored enemy", feature = "favored-enemy", levels = [20] },
   { replaces = "master hunter", feature = "master-hunter" },
 ]
 +++

@@ -18,7 +18,7 @@ page = "17"
 kind = "archetype"
 trades = [
   { replaces = "Wild empathy", feature = "wild-empathy" },
-  { replaces = "1st favored terrain" },
+  { replaces = "1st favored terrain", feature = "favored-terrain", levels = [3] },
   { replaces = "Endurance", feature = "endurance" },
   { alters = "Favored enemy", feature = "favored-enemy" },
   { alters = "Favored terrain", feature = "favored-terrain" },

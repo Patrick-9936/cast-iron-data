@@ -18,7 +18,7 @@ page = "25"
 kind = "archetype"
 trades = [
   { replaces = "Trapfinding", feature = "trapfinding" },
-  { replaces = "Trap sense (for a core rogue)" },
+  { replaces = "Trap sense (for a core rogue)", feature = "trap-sense" },
   { replaces = "danger sense (for an unchained rogue)" },
   { replaces = "Rogue talents gained at 4th and 12th levels", feature = "rogue-talents", levels = [4, 12] },
   { replaces = "Uncanny dodge", feature = "uncanny-dodge" },

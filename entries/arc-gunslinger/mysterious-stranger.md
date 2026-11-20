@@ -20,7 +20,7 @@ trades = [
   { replaces = "Quick clear deed" },
   { replaces = "Bleeding wound deed" },
   { replaces = "Nimble", feature = "nimble" },
-  { replaces = "Gun training 1", feature = "gun-training", power = "1" },
+  { replaces = "Gun training 1", feature = "gun-training", levels = [5] },
   { alters = "Grit", feature = "grit" },
 ]
 +++

@@ -17,7 +17,7 @@ page = "23"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Sneak attack (but see below)" },
+  { replaces = "Sneak attack (but see below)", feature = "sneak-attack" },
   { replaces = "Trapfinding", feature = "trapfinding" },
   { replaces = "Master strike", feature = "master-strike" },
 ]

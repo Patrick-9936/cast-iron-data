@@ -17,7 +17,7 @@ page = "72"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "1st favored terrain" },
+  { replaces = "1st favored terrain", feature = "favored-terrain", levels = [3] },
   { replaces = "wild empathy", feature = "wild-empathy" },
   { replaces = "Hunter's bond", feature = "hunter-s-bond" },
   { replaces = "Woodland stride", feature = "woodland-stride" },

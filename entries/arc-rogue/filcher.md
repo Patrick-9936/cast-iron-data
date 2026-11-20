@@ -18,7 +18,7 @@ page = "64"
 kind = "archetype"
 trades = [
   { replaces = "Evasion", feature = "evasion" },
-  { replaces = "Trap sense +1, +2, +3, +4, +5, and +6" },
+  { replaces = "Trap sense +1, +2, +3, +4, +5, and +6", feature = "trap-sense", levels = [3, 6, 9, 12, 15, 18] },
   { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
   { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
 ]

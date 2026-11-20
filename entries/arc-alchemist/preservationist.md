@@ -18,8 +18,8 @@ page = "19"
 kind = "archetype"
 trades = [
   { replaces = "Poison use", feature = "poison-use" },
-  { replaces = "Poison resistance +4", feature = "poison-resistance", power = "+4" },
-  { replaces = "Poison resistance +6", feature = "poison-resistance", power = "+6" },
+  { replaces = "Poison resistance +4", feature = "poison-resistance", levels = [5] },
+  { replaces = "Poison resistance +6", feature = "poison-resistance", levels = [8] },
   { replaces = "Poison immunity" },
   { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
   { replaces = "18th-level discovery", feature = "discovery", levels = [18] },

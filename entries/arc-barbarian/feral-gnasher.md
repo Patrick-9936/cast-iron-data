@@ -19,12 +19,12 @@ kind = "archetype"
 trades = [
   { replaces = "Fast movement", feature = "fast-movement" },
   { replaces = "2nd-level rage power", feature = "rage-powers", levels = [2] },
-  { replaces = "Trap sense +1", feature = "trap-sense", power = "+1" },
+  { replaces = "Trap sense +1", feature = "trap-sense", levels = [3] },
   { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
-  { replaces = "Trap sense +2", feature = "trap-sense", power = "+2" },
-  { replaces = "Trap sense +3", feature = "trap-sense", power = "+3" },
-  { replaces = "trap sense +5", feature = "trap-sense", power = "+5" },
-  { replaces = "Trap sense +4", feature = "trap-sense", power = "+4" },
+  { replaces = "Trap sense +2", feature = "trap-sense", levels = [6] },
+  { replaces = "Trap sense +3", feature = "trap-sense", levels = [9] },
+  { replaces = "trap sense +5", feature = "trap-sense", levels = [15] },
+  { replaces = "Trap sense +4", feature = "trap-sense", levels = [12] },
 ]
 +++
 

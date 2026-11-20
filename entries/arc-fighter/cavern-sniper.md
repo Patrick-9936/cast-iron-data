@@ -20,8 +20,8 @@ trades = [
   { replaces = "The 1st-level fighter bonus feat", feature = "bonus-feats", levels = [1] },
   { replaces = "Bravery", feature = "bravery" },
   { replaces = "The 4th-level fighter bonus feat", feature = "bonus-feats", levels = [4] },
-  { replaces = "Weapon training 1, 3, and 4" },
-  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { replaces = "Weapon training 1, 3, and 4", feature = "weapon-training", levels = [5, 13, 17] },
+  { replaces = "Weapon training 2", feature = "weapon-training", levels = [9] },
   { alters = "Weapon mastery", feature = "weapon-mastery" },
 ]
 +++
