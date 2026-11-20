@@ -111,9 +111,12 @@ Reference Document (PRD) carries the same text. A note that neither carries goes
 legends in stat blocks stay without a match at each stat block, and the stat paragraph of
 *Maniac Hand* stays to preserve its printed values (data pull request #115).
 
-**What the corpus holds now.** Pull request #115 removed the notes that neither AoN nor the PRD
-carries. Pull request #113 converted the 438 page-citation notes into structured source rows, and
-removed the notes. About 770 footnote blocks in about 530 entries remain. Most are notes that a Paizo
+**What the corpus holds now.** Pull request #115 removed the notes that the audit had confirmed
+absent from both AoN and the PRD. Other notes wait for review (issue #117, below). Pull request #113
+removed the 438 page-citation blocks and converted their citations to structured source rows. It
+excluded 4 book and page pairs it could not check, because the books were not available for a print
+check (*Pathfinder #30: The Twice-Damned Prince* pp. 68 and 69, and *Pathfinder #43: Haunting of
+Harrowstone* pp. 80 and 81, on *Animated Object*). About 770 footnote blocks in about 530 entries remain. Most are notes that a Paizo
 book prints, such as notes under tables and the markers on spell lists. More than half have a
 recorded match on an AoN page or in a PRD document. The "Bonus feat." legends and the *Maniac Hand*
 paragraph stay without one. The rest wait for review: pointers, compiled lists (for example the
