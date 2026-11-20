@@ -14,7 +14,6 @@ page = "28"
 kind = "item"
 category = "Piercings"
 price = "2,200 gp (Minor), 3,750 gp (Major), 5,750 gp (Greater)"
-weight = "&mdash;"
 slot = "body"
 aura = "faint transmutation CL 3rd"
 +++

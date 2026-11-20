@@ -1,7 +1,7 @@
 +++
 id = "ref/eq-misc/telescope-x250"
 kind = "item"
-title = "Telescope (&times;250)"
+title = "Telescope (×250)"
 source_ids = ["people-of-the-stars"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "telescope_x250", path = "json/equipment_misc3.json" },
@@ -13,8 +13,8 @@ page = "27"
 [fields]
 kind = "item"
 category = "Miscellaneous Equipment"
-price = "2,000 gp (&times;10), 8,000 gp (&times;250), 4,000 gp (&times;50)"
-weight = "12 lbs. (&times;10), 44 lbs. (&times;250), 23 lbs. (&times;50)"
+price = "2,000 gp (×10), 8,000 gp (×250), 4,000 gp (×50)"
+weight = "12 lbs. (×10), 44 lbs. (×250), 23 lbs. (×50)"
 +++
 
 ## Telescope

@@ -16,7 +16,7 @@ kind = "feat"
 feat_types = ["Combat"]
 prerequisites = "Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, Street Sweep, base attack bonus +8 or monk level 7th."
 prerequisite_feats = ["ref/feat/improved-bull-rush", "ref/feat/improved-unarmed-strike", "ref/feat/power-attack", "ref/feat/street-style", "ref/feat/street-sweep"]
-benefit = "While using Street Style, the critical multiplier of your unarmed strikes becomes &times;3, instead of &times;2."
+benefit = "While using Street Style, the critical multiplier of your unarmed strikes becomes ×3, instead of ×2."
 +++
 
 ## Street Carnage (Combat)

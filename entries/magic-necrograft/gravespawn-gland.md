@@ -14,7 +14,6 @@ page = "15"
 kind = "item"
 category = "Necrografts"
 price = "6,200 gp"
-weight = "&mdash;"
 aura = "moderate necromancy"
 caster_level = "11th"
 +++

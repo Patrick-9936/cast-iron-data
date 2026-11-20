@@ -16,8 +16,8 @@ page = "159"
 [fields]
 kind = "item"
 category = "Armor"
-price = "&times;4 (Large creature), &times;2 (Medium creature)"
-weight = "&times;2 (Large creature), &times;1 (Medium creature)"
+price = "×4 (Large creature), ×2 (Medium creature)"
+weight = "×2 (Large creature), ×1 (Medium creature)"
 +++
 
 **Price** ×4 (Large creature), ×2 (Medium creature); **Weight** ×2 (Large creature), ×1 (Medium
