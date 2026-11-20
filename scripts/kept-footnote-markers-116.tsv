@@ -1,0 +1,111 @@
+action	entry_id	anchor	marker	orphan_cause	on_aon_prd	text_sha	text	inline	note
+restore-inline	ref/monster/aasimar	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/agathion-draconal	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+skip	ref/monster/ammut	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/apkallu-mythic	footnote-m	M	marker-expanded-inline	yes	0a37f564e71e370d	mythic spell	(mythic spell)	
+restore-inline	ref/monster/arazni	footnote-m	M	marker-expanded-inline	yes	13393f3deaeb6242	Mythic spell	(mythic spell)	
+restore-inline	ref/monster/archdevil-baalzebul	footnote-m	M	marker-expanded-inline	yes	310498322108ad32	Baalzebul can use this ability's mythic version in his infernal realm.	(mythic spell)	
+restore-inline	ref/monster/archdevil-barbatos	footnote-m	M	marker-expanded-inline	yes	d93a30ca0a08ac83	Barbatos can use this ability's mythic version in his realm	(mythic spell)	
+restore-inline	ref/monster/archdevil-belial	footnote-m	M	marker-expanded-inline	yes	8893da24844c1c7c	Belial can use this ability's mythic version in their realm.	(mythic spell)	
+restore-inline	ref/monster/archdevil-dispater	footnote-m	M	marker-expanded-inline	yes	69d6712322f97892	Dispater can use this ability's mythic version in his realm.	(mythic spell)	
+restore-inline	ref/monster/archdevil-geryon	footnote-m	M	marker-expanded-inline	yes	17fe347c8dbd7418	Geryon can use this ability's mythic version in its realm.	(mythic spell)	
+restore-inline	ref/monster/archdevil-mammon	footnote-m	M	marker-expanded-inline	yes	234c94cb67286270	Mammon can use this ability's mythic version in his realm.	(mythic spell)	
+restore-inline	ref/monster/archdevil-mephistopheles	footnote-m	M	marker-expanded-inline	yes	207dc5c9d6990592	Mephistopheles can use this ability's mythic version in his realm.	(mythic spell)	
+restore-inline	ref/monster/archdevil-moloch	footnote-m	M	marker-expanded-inline	yes	485870c408d3df0a	Moloch can use this ability's mythic version in his realm	(mythic spell)	
+restore-inline	ref/monster/boggard-boggard-priest-king	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/boggard-boggard-swampseer	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/bone-priest	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-plain	ref/monster/centaur-centaur-greenspeaker	footnote-s	S	marker-dropped	yes	4918ee2dbce1a324	Spirit magic spell	\#S	
+restore-inline	ref/monster/charau-ka-devotee-of-the-ravener-king	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+skip	ref/monster/crocodilians-deinosuchus	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/daughter-of-urgathoa	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/deep-one-deep-one-hybrid	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/demon-lord-dagon	footnote-m	M	marker-expanded-inline	yes	50e6cb516edbe57e	Dagon can use the mythic version of this ability in his realm.	(mythic spell)	
+restore-inline	ref/monster/demon-lord-kostchtchie	footnote-m	M	marker-expanded-inline	yes	52a6457c356e19f6	Kostchtchie can use the mythic version of this ability in his realm.	(mythic spell)	
+restore-inline	ref/monster/demon-lord-pazuzu	footnote-m	M	marker-expanded-inline	yes	1fd70b5a00568a15	Pazuzu can use the mythic version of this ability in his realm.	(mythic spell)	
+skip	ref/monster/dossenus	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/drow-drow-matron	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/drow-drow-noble	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/drow-drow-priest	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/duergar-duergar-high-priest	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/empyreal-lord-arshea	footnote-m	M	marker-expanded-inline	yes	f8e8657bda58c41d	Arshea can use the mythic version of this ability in certain conditions (see Nomadic).	(mythic spell)	
+restore-inline	ref/monster/empyreal-lord-ashava	footnote-m	M	marker-expanded-inline	yes	41990c181f9c4aa4	Ashava can use this ability's mythic version in her realm.	(mythic spell)	
+restore-inline	ref/monster/empyreal-lord-black-butterfly	footnote-m	M	marker-expanded-inline	yes	03467908039ca9e5	Black Butterfly can use this ability's mythic version in her realm.	(mythic spell)	
+restore-inline	ref/monster/empyreal-lord-cernunnos	footnote-m	M	marker-expanded-inline	yes	0a44cabd593cb01b	Cernunnos can use the mythic version of this ability in his realm.	(mythic spell)	
+restore-inline	ref/monster/empyreal-lord-korada	footnote-m	M	marker-expanded-inline	yes	db5ec9297423b0c8	Korada can use the mythic version of this ability in his realm.	(mythic spell)	
+restore-inline	ref/monster/empyreal-lord-ragathiel	footnote-m	M	marker-expanded-inline	yes	e7d980fc660cd0ad	Ragathiel can use this ability's mythic version in his realm.	(mythic spell)	
+restore-inline	ref/monster/empyreal-lord-vildeis	footnote-m	M	marker-expanded-inline	yes	8dadc4237d0e22a7	Vildeis can use the mythic version of this ability in her realm.	(mythic spell)	
+restore-inline	ref/monster/eudranis	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/fastachee	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/giant-frost-frost-giant-battle-priest	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+skip	ref/monster/giant-ocean-giant	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/girtablilu-divine-chieftain	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/gnoll-chosen-of-lamashtu	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/gnoll-eye-of-lamashtu	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+skip	ref/monster/golem-cannon-golem	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+skip	ref/monster/golem-coral-golem	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/great-old-one-rhan-tegoth	footnote-m	M	marker-expanded-inline	yes	0a37f564e71e370d	mythic spell	(mythic spell)	
+restore-inline	ref/monster/great-old-one-tawil-atumr	footnote-m	M	marker-expanded-inline	yes	0a37f564e71e370d	mythic spell	(mythic spell)	
+restore-inline	ref/monster/great-old-one-yig	footnote-m	M	marker-expanded-inline	yes	0a37f564e71e370d	mythic spell	(mythic spell)	
+restore-inline	ref/monster/hobgoblin-hobgoblin-battle-priest	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/hobgoblin-hobgoblin-battlefield-zealot	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/horsemen-of-the-apocalypse-apollyon	footnote-m	M	marker-expanded-inline	yes	693681202670b6fc	Apollyon can use this ability's mythic version in his realm.	(mythic spell)	
+restore-inline	ref/monster/horsemen-of-the-apocalypse-charon	footnote-m	M	marker-expanded-inline	yes	c8925a6c15f057ba	Charon can use this ability's mythic version in his realm	(mythic spell)	
+restore-inline	ref/monster/horsemen-of-the-apocalypse-szuriel	footnote-m	M	marker-expanded-inline	yes	2fb63e98d70d891d	Szuriel can use this ability's mythic version in her realm.	(mythic spell)	
+restore-inline	ref/monster/horsemen-of-the-apocalypse-trelmarixian	footnote-m	M	marker-expanded-inline	yes	a2b12522fe80cfe4	Trelmarixian can use this ability's mythic version in his realm.	(mythic spell)	
+skip	ref/monster/idol-bone	footnote-s	S	marker-dropped	candidate	5cdd84850c235ec0	"See ""Share Abilities"" below"		marker-dropped, on_aon_prd=candidate: left for the review of #109 ticket 3
+skip	ref/monster/idol-jade	footnote-s	S	marker-dropped	candidate	5cdd84850c235ec0	"See ""Share Abilities"" below"		marker-dropped, on_aon_prd=candidate: left for the review of #109 ticket 3
+skip	ref/monster/idol-stone	footnote-s	S	marker-dropped	candidate	5cdd84850c235ec0	"See ""Share Abilities"" below"		marker-dropped, on_aon_prd=candidate: left for the review of #109 ticket 3
+skip	ref/monster/idol-wood	footnote-s	S	marker-dropped	candidate	5cdd84850c235ec0	"See ""Share Abilities"" below"		marker-dropped, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/ilzunae	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+drop-copy	ref/monster/ilzunae	footnote-d-2	1	shared-record-copy	yes	5331b9c7c568d170	Domain spell		duplicate of the D legend of the same entry
+restore-inline	ref/monster/kobold-kobold-devilspeaker	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/kortash-khain	footnote-d	D	marker-expanded-inline	unchecked	d18d630f69c3d3ee	domain spell	(domain spell)	on_aon_prd=unchecked; the inline text is the importer's rewrite either way
+restore-inline	ref/monster/kortash-khain	footnote-m	M	marker-expanded-inline	unchecked	0a37f564e71e370d	mythic spell	(mythic spell)	on_aon_prd=unchecked; the inline text is the importer's rewrite either way
+restore-inline	ref/monster/lich-forsaken-lich	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/lizardfolk-lizardfolk-clutch-mother	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/manasaputra-solar-pitri-agnishvatta-mythic	footnote-m	M	marker-expanded-inline	candidate	72f6fa1947b329eb	mythic spell-like ability	(mythic spell)	on_aon_prd=candidate; the inline text is the importer's rewrite either way
+restore-inline	ref/monster/minotaur-prophet-of-baphomet	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/mummy-lord	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+skip	ref/monster/nightripper	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/ogre-ogre-priest	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+skip	ref/monster/old-mage-jatembe	footnote-f	F	marker-dropped	unchecked	24eacf164e7834ce	Jatembe has one unprepared slot at each level for his rapid preparation archmage path ability.		marker-dropped, on_aon_prd=unchecked: left for the review of #109 ticket 3
+restore-inline	ref/monster/old-mage-jatembe	footnote-m	M	marker-expanded-inline	unchecked	8f5b446610a365a4	mythic spells	(mythic spell)	on_aon_prd=unchecked; the inline text is the importer's rewrite either way
+skip	ref/monster/old-wulunga	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/oozlosh	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/orc-orc-mystic	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/portunus-mythic	footnote-m	M	marker-expanded-inline	yes	0a37f564e71e370d	mythic spell	(mythic spell)	
+restore-inline	ref/monster/qlippoth-lord-chavazvug	footnote-m	M	marker-expanded-inline	yes	9c497e188d5365d4	Chavazvug can use the mythic version of this ability within his sanctum.	(mythic spell)	
+restore-inline	ref/monster/qlippoth-lord-isph-aun-vuln	footnote-m	M	marker-expanded-inline	yes	4320216800808b3d	Isph-Aun-Vuln can use the mythic version of this ability within her sanctum	(mythic spell)	
+restore-inline	ref/monster/qlippoth-lord-oaur-ooung	footnote-m	M	marker-expanded-inline	yes	3e9302f58aed780b	Oaur-Ooung can use the mythic version of this ability within her sanctum.	(mythic spell)	
+restore-inline	ref/monster/qlippoth-lord-thuskchoon	footnote-m	M	marker-expanded-inline	yes	d83cf83015f39e95	Thuskchoon can use the mythic version of this ability within his sanctum.	(mythic spell)	
+restore-inline	ref/monster/ratfolk-ratfolk-elder	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/sahuagin-sahuagin-high-priestess	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/sahuagin-sahuagin-underpriestess	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+skip	ref/monster/scorpion-deadfall-scorpion	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/scyld-hranni	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+skip	ref/monster/sea-worm-king-ragworm	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/serpentfolk-serpentfolk-high-priest	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/shen-mythic	footnote-m	M	marker-expanded-inline	yes	0a37f564e71e370d	mythic spell	(mythic spell)	
+skip	ref/monster/shobhad	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/siabrae	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-plain	ref/monster/strix-strix-rokoa	footnote-s	S	marker-dropped	yes	4918ee2dbce1a324	Spirit magic spell	\#S	
+restore-inline	ref/monster/tanaq-mammoth-eater	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+skip	ref/monster/troggle	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+restore-inline	ref/monster/troglodyte-troglodyte-chieftain	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/troglodyte-troglodyte-priest	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/troglodyte-troglodyte-tyrant	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/troll-troll-acolyte	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/undine	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+restore-inline	ref/monster/urtleytlar	footnote-d	D	marker-expanded-inline	yes	5331b9c7c568d170	Domain spell	(domain spell)	
+skip	ref/monster/xenopterid	footnote-b	B	shared-record-copy	candidate	968463179ca274ce	Bonus feat.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+skip	ref/rule/type-g	footnote-o	9	shared-record-copy	candidate	1a0663c872163230	Refer to Type E, armor and shields		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+drop-copy	ref/spell/detect-chaos	footnote-a	2	shared-record-copy	yes	e3792911e7fec014	Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.		the note belongs to the table of detect evil; this entry has no table or text that carries marker 2
+skip	ref/spell/detect-chaos	footnote-e	1	shared-record-copy	candidate	87fb45690bde1a42	Excludes undead and outsiders, which have their own entries on the table.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+drop-copy	ref/spell/detect-fiendish-presence	footnote-a	2	shared-record-copy	yes	e3792911e7fec014	Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.		the note belongs to the table of detect evil; this entry has no table or text that carries marker 2
+skip	ref/spell/detect-fiendish-presence	footnote-e	1	shared-record-copy	candidate	87fb45690bde1a42	Excludes undead and outsiders, which have their own entries on the table.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+drop-copy	ref/spell/detect-good	footnote-a	2	shared-record-copy	yes	e3792911e7fec014	Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.		the note belongs to the table of detect evil; this entry has no table or text that carries marker 2
+skip	ref/spell/detect-good	footnote-e	1	shared-record-copy	candidate	87fb45690bde1a42	Excludes undead and outsiders, which have their own entries on the table.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+drop-copy	ref/spell/detect-law	footnote-a	2	shared-record-copy	yes	e3792911e7fec014	Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.		the note belongs to the table of detect evil; this entry has no table or text that carries marker 2
+skip	ref/spell/detect-law	footnote-e	1	shared-record-copy	candidate	87fb45690bde1a42	Excludes undead and outsiders, which have their own entries on the table.		shared-record-copy, on_aon_prd=candidate: left for the review of #109 ticket 3
+drop-copy	ref/spell/minor-creation	footnote-r	1	shared-record-copy	yes	a9a5045068a0c2a2	Includes adamantine, alchemical silver, and mithral. You can't use major creation to create a cold iron item.		the note belongs to major creation; this entry has no table or text that carries marker 1
