@@ -113,16 +113,15 @@ grab)
 
 **At will:**
 
-- astral projection, blasphemy (mythic spell) (DC 27), control water, control weather (mythic
-  spell), desecrate (mythic spell), greater dispel magic, greater teleport, shapechange, telekinesis
-  (mythic spell) (DC 25), unhallow, unholy blight (mythic spell) (DC 24)
+- astral projection, blasphemy^M^ (DC 27), control water, control weather^M^, desecrate^M^, greater
+  dispel magic, greater teleport, shapechange, telekinesis^M^ (DC 25), unhallow, unholy blight^M^
+  (DC 24)
 
 **Per day:**
 
 - 3/day: &Q greater dispel magic, insanity (DC 27), summon demons, symbol of insanity (DC 28),
   vortex (DC 27)
-- 1/day: storm of vengeance (mythic spell) (DC 29), time stop (mythic spell), tsunami (mythic spell)
-  (DC 29)
+- 1/day: storm of vengeance^M^ (DC 29), time stop^M^, tsunami^M^ (DC 29)
 
 ###### M {#footnote-m}
 

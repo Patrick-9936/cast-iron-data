@@ -105,14 +105,14 @@ wings +35 (1d8+5 plus 1d6 fire)
 
 **At will:**
 
-- bestow grace, fire of judgment (DC 22), greater dispel magic, greater teleport, holy word (mythic
-  spell) (DC 26), geas/quest, mark of justice, shield other (mythic spell)
+- bestow grace, fire of judgment (DC 22), greater dispel magic, greater teleport, holy word^M^ (DC
+  26), geas/quest, mark of justice, shield other^M^
 
 **Per day:**
 
-- 3/day: banishment (DC 26), &Q blade barrier (mythic spell) (DC 25), blessing of fervor, discern
-  location, heal (mythic spell)
-- 1/day: gate, meteor swarm (mythic spell) (DC 28), time stop (mythic spell)
+- 3/day: banishment (DC 26), &Q blade barrier^M^ (DC 25), blessing of fervor, discern location,
+  heal^M^
+- 1/day: gate, meteor swarm^M^ (DC 28), time stop^M^
 
 ###### M {#footnote-m}
 

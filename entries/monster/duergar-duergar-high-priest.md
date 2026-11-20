@@ -111,36 +111,36 @@ abilities = ["13", "10", "14", "8", "20", "12"]
 
 **7th-level spells:**
 
-- blasphemy (DC 22), insanity (domain spell) (DC 22)
+- blasphemy (DC 22), insanity^D^ (DC 22)
 
 **6th-level spells:**
 
-- blade barrier (DC 21), harm (DC 21), mislead (domain spell) (DC 21)
+- blade barrier (DC 21), harm (DC 21), mislead^D^ (DC 21)
 
 **5th-level spells:**
 
-- break enchantment (DC 20), breath of life, charm monster (domain spell) (DC 20), slay living (DC
-  20), wall of stone (DC 20)
+- break enchantment (DC 20), breath of life, charm monster^D^ (DC 20), slay living (DC 20), wall of
+  stone (DC 20)
 
 **4th-level spells:**
 
-- cure critical wounds, divine power, freedom of movement, heroism (domain spell), spell immunity,
-  unholy blight (DC 19)
+- cure critical wounds, divine power, freedom of movement, heroism^D^, spell immunity, unholy blight
+  (DC 19)
 
 **3rd-level spells:**
 
-- bestow curse (DC 18), dispel magic, invisibility purge, stone shape, suggestion (domain spell) (DC
-  18), wind wall
+- bestow curse (DC 18), dispel magic, invisibility purge, stone shape, suggestion^D^ (DC 18), wind
+  wall
 
 **2nd-level spells:**
 
-- control vermin (DC 17), hold person (2, DC 17), invisibility (domain spell), sound burst (DC 17),
-  spiritual weapon
+- control vermin (DC 17), hold person (2, DC 17), invisibility^D^, sound burst (DC 17), spiritual
+  weapon
 
 **1st-level spells:**
 
-- bane (DC 16), charm person (domain spell) (DC 16), cure light wounds, divine favor, doom (DC 16),
-  shield of faith, 2
+- bane (DC 16), charm person^D^ (DC 16), cure light wounds, divine favor, doom (DC 16), shield of
+  faith, 2
 
 **Cantrips:**
 

@@ -108,7 +108,7 @@ and feet are webbed._
 
 **1st-level spells:**
 
-- bless, charm person (domain spell), divine favor
+- bless, charm person^D^, divine favor
 
 **Cantrips:**
 

@@ -102,15 +102,14 @@ energy drain)
 
 **At will:**
 
-- astral projection, blasphemy (mythic spell) (DC 27), desecrate (mythic spell), greater dispel
-  magic, greater teleport, shapechange, spiritual weapon (mythic spell), telekinesis (mythic spell)
-  (DC 25), unhallow, unholy blight (mythic spell) (DC 24)
+- astral projection, blasphemy^M^ (DC 27), desecrate^M^, greater dispel magic, greater teleport,
+  shapechange, spiritual weapon^M^, telekinesis^M^ (DC 25), unhallow, unholy blight^M^ (DC 24)
 
 **Per day:**
 
-- 3/day: blade barrier (mythic spell) (DC 26), fire storm (mythic spell) (DC 28), incendiary cloud
-  (DC 28), plane shift (DC 27), summon daemon, &Q telekinesis (mythic spell) (DC 25)
-- 1/day: meteor swarm (mythic spell) (DC 29), time stop (mythic spell), wish (mythic spell)
+- 3/day: blade barrier^M^ (DC 26), fire storm^M^ (DC 28), incendiary cloud (DC 28), plane shift (DC
+  27), summon daemon, &Q telekinesis^M^ (DC 25)
+- 1/day: meteor swarm^M^ (DC 29), time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

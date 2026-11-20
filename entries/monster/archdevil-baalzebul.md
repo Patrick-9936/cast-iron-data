@@ -105,15 +105,15 @@ plus 1d6 cold) or 2 slams +47 (8d6+13)
 
 **At will:**
 
-- astral projection, curse of disgust (DC 27), desecrate (mythic spell), dictum (mythic spell) (DC
-  29), greater dispel magic, greater invisibility, greater teleport, icy prison (DC 27), insect
-  plague, order's wrath (mythic spell) (DC 26), unhallow
+- astral projection, curse of disgust (DC 27), desecrate^M^, dictum^M^ (DC 29), greater dispel
+  magic, greater invisibility, greater teleport, icy prison (DC 27), insect plague, order's wrath^M^
+  (DC 26), unhallow
 
 **Per day:**
 
-- 3/day: demand (DC 30), finger of death (mythic spell) (DC 29), &Q freezing sphere, &EM cone of
-  cold (mythic spell), summon devils
-- 1/day: mass suffocation (DC 31), time stop (mythic spell), wish (mythic spell)
+- 3/day: demand (DC 30), finger of death^M^ (DC 29), &Q freezing sphere, &EM cone of cold^M^, summon
+  devils
+- 1/day: mass suffocation (DC 31), time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

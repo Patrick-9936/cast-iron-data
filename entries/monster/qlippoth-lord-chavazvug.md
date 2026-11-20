@@ -109,14 +109,14 @@ searing flesh
 
 **At will:**
 
-- contagious flame, desecrate (mythic spell), fireball (mythic spell) (DC 19), greater dispel magic,
-  greater teleport, wall of fire (mythic spell)
+- contagious flame, desecrate^M^, fireball^M^ (DC 19), greater dispel magic, greater teleport, wall
+  of fire^M^
 
 **Per day:**
 
-- 3/day: &Q contagious flame, delayed blast fireball (DC 23), harm (mythic spell) (DC 22),
-  resurrection, see tainted resurrection, wall of lava
-- 1/day: meteor swarm (mythic spell) (DC 25), summon qlippoth
+- 3/day: &Q contagious flame, delayed blast fireball (DC 23), harm^M^ (DC 22), resurrection, see
+  tainted resurrection, wall of lava
+- 1/day: meteor swarm^M^ (DC 25), summon qlippoth
 
 ###### M {#footnote-m}
 

@@ -110,15 +110,13 @@ mind-affecting effects, paralysis, petrification, sonic
 
 **At will:**
 
-- astral projection, dimensional lock (mythic spell), dream (mythic spell), greater dispel magic,
-  interplanetary teleport, nightmare (mythic spell), plane shift (mythic spell) (DC 29), sending
-  (mythic spell), teleport object (DC 29)
+- astral projection, dimensional lock^M^, dream^M^, greater dispel magic, interplanetary teleport,
+  nightmare^M^, plane shift^M^ (DC 29), sending^M^, teleport object (DC 29)
 
 **Per day:**
 
-- 3/day: demand (DC 30), &Q disintegrate (mythic spell) (DC 28)
-- 1/day: gate, microcosm (DC 31), &S, level 9; 2 ancient ones 100%, time stop (mythic spell), wish
-  (mythic spell)
+- 3/day: demand (DC 30), &Q disintegrate^M^ (DC 28)
+- 1/day: gate, microcosm (DC 31), &S, level 9; 2 ancient ones 100%, time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

@@ -116,26 +116,26 @@ it isn't bedecked in gaudy jewelry._
 
 **5th-level spells:**
 
-- ice storm (domain spell), insect plague, snake staff, summon monster V
+- ice storm^D^, insect plague, snake staff, summon monster V
 
 **4th-level spells:**
 
-- chaos hammer (DC 20), control water (domain spell), plague carrier (DC 20), spit venom (DC 20),
-  unholy blight (DC 20)
+- chaos hammer (DC 20), control water^D^, plague carrier (DC 20), spit venom (DC 20), unholy blight
+  (DC 20)
 
 **3rd-level spells:**
 
-- badger's ferocity, deeper darkness, dispel magic, prayer, water breathing (domain spell)
+- badger's ferocity, deeper darkness, dispel magic, prayer, water breathing^D^
 
 **2nd-level spells:**
 
-- align weapon (domain spell), evil only, death knell (DC 18), dread bolt (DC 18), grace, hold
-  person (DC 18), silence (DC 18), spiritual weapon
+- align weapon^D^, evil only, death knell (DC 18), dread bolt (DC 18), grace, hold person (DC 18),
+  silence (DC 18), spiritual weapon
 
 **1st-level spells:**
 
 - cause fear (DC 17), doom (DC 17), entropic shield, magic stone, murderous command (DC 17),
-  protection from good (domain spell), ray of sickening (DC 17)
+  protection from good^D^, ray of sickening (DC 17)
 
 **Cantrips:**
 

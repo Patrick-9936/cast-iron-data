@@ -105,14 +105,14 @@ energy drain and disease), gore +46 (4d6+8)
 
 **At will:**
 
-- astral projection, blasphemy (mythic spell) (DC 28), creeping doom (DC 28), desecrate (mythic
-  spell), contagion (mythic spell) (DC 24), greater dispel magic, greater teleport, shapechange,
-  telekinesis (mythic spell) (DC 26), unhallow, unholy blight (mythic spell) (DC 25)
+- astral projection, blasphemy^M^ (DC 28), creeping doom (DC 28), desecrate^M^, contagion^M^ (DC
+  24), greater dispel magic, greater teleport, shapechange, telekinesis^M^ (DC 26), unhallow, unholy
+  blight^M^ (DC 25)
 
 **Per day:**
 
 - 3/day: &Q epidemic (DC 27), soul bind (DC 30), summon daemon
-- 1/day: cursed earth (DC 30), time stop (mythic spell), wish (mythic spell)
+- 1/day: cursed earth (DC 30), time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

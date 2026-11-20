@@ -106,16 +106,15 @@ precision damage
 
 **At will:**
 
-- astral projection, deeper darkness, desecrate (mythic spell), dictum (mythic spell) (DC 31),
-  dominate person (mythic spell) (DC 29), greater dispel magic, greater scrying (DC 31), greater
-  teleport, order's wrath (mythic spell) (DC 28), secret page, unhallow
+- astral projection, deeper darkness, desecrate^M^, dictum^M^ (DC 31), dominate person^M^ (DC 29),
+  greater dispel magic, greater scrying (DC 31), greater teleport, order's wrath^M^ (DC 28), secret
+  page, unhallow
 
 **Per day:**
 
-- 3/day: &Q dominate person (mythic spell) (DC 29), fire storm (mythic spell) (DC 32), globe of
-  invulnerability (mythic spell), mass charm monster (DC 32), mislead (mythic spell) (DC 30), summon
-  devils
-- 1/day: soul bind (DC 33), time stop (mythic spell), wish (mythic spell)
+- 3/day: &Q dominate person^M^ (DC 29), fire storm^M^ (DC 32), globe of invulnerability^M^, mass
+  charm monster (DC 32), mislead^M^ (DC 30), summon devils
+- 1/day: soul bind (DC 33), time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

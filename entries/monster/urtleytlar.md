@@ -130,22 +130,22 @@ welcoming._
 
 **4th-level spells:**
 
-- cure critical wounds (DC 23), divine power, inflict critical wounds (domain spell) (DC 23),
-  tongues, unholy blight (DC 23)
+- cure critical wounds (DC 23), divine power, inflict critical wounds^D^ (DC 23), tongues, unholy
+  blight (DC 23)
 
 **3rd-level spells:**
 
-- call lightning (domain spell) (DC 22), cure serious wounds (DC 22), 2, invisibility purge, magic
-  circle against good, water breathing
+- call lightning^D^ (DC 22), cure serious wounds (DC 22), 2, invisibility purge, magic circle
+  against good, water breathing
 
 **2nd-level spells:**
 
-- darkness, death knell (DC 21), gust of wind (domain spell) (DC 21), shatter, 2, spiritual weapon
+- darkness, death knell (DC 21), gust of wind^D^ (DC 21), shatter, 2, spiritual weapon
 
 **1st-level spells:**
 
 - cause fear (DC 20), command (DC 20), 2, divine favor, entropic shield, obscuring mist, shield of
-  faith, true strike (domain spell)
+  faith, true strike^D^
 
 **Cantrips:**
 

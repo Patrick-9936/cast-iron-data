@@ -58,8 +58,3 @@ created cannot exceed 1 cubic foot per caster level. You must succeed on an appr
 check to make a complex item.
 
 Attempting to use any created object as a material component causes the spell to fail.
-
-###### ^1^ {#footnote-r}
-
-Includes adamantine, alchemical silver, and mithral. You can't use major creation to create a cold
-iron item.

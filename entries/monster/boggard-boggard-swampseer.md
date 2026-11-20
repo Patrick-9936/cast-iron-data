@@ -78,11 +78,11 @@ abilities = ["15", "13", "12", "10", "15", "12"]
 
 **2nd-level spells:**
 
-- bull's strength, burst of nettles (domain spell), summon swarm
+- bull's strength, burst of nettles^D^, summon swarm
 
 **1st-level spells:**
 
-- entangle (DC 13), hydraulic push (domain spell), longstrider, shillelagh
+- entangle (DC 13), hydraulic push^D^, longstrider, shillelagh
 
 **Cantrips:**
 

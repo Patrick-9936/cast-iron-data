@@ -106,11 +106,11 @@ _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes w
 
 **2nd-level spells:**
 
-- death knell (domain spell) (DC 15), hold person (DC 15), silence (DC 15)
+- death knell^D^ (DC 15), hold person (DC 15), silence (DC 15)
 
 **1st-level spells:**
 
-- bless, cause fear (DC 14), cure light wounds, protection from law (domain spell)
+- bless, cause fear (DC 14), cure light wounds, protection from law^D^
 
 **Cantrips:**
 

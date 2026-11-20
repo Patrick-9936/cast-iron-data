@@ -115,15 +115,14 @@ electricity, energy drain, petrification, and poison
 
 **At will:**
 
-- astral projection, blasphemy (mythic spell) (DC 25), cone of cold (mythic spell) (DC 23),
-  desecrate (mythic spell), enlarge person (mythic spell), greater dispel magic, greater teleport,
-  telekinesis (mythic spell) (DC 23), shapechange, unhallow, unholy blight (mythic spell) (DC 22)
+- astral projection, blasphemy^M^ (DC 25), cone of cold^M^ (DC 23), desecrate^M^, enlarge person^M^,
+  greater dispel magic, greater teleport, telekinesis^M^ (DC 23), shapechange, unhallow, unholy
+  blight^M^ (DC 22)
 
 **Per day:**
 
-- 3/day: polar ray (mythic spell), power word stun (mythic spell), summon demons, symbol of stunning
-  (DC 25)
-- 1/day: mass icy prison (DC 27), polar midnight (DC 27), time stop (mythic spell)
+- 3/day: polar ray^M^, power word stun^M^, summon demons, symbol of stunning (DC 25)
+- 1/day: mass icy prison (DC 27), polar midnight (DC 27), time stop^M^
 
 ###### M {#footnote-m}
 

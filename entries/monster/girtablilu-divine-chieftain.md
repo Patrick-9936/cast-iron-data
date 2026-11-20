@@ -101,26 +101,24 @@ _This authoritative, scorpion-bodied woman is bedecked with amulets and other re
 
 **5th-level spells:**
 
-- baleful polymorph (DC 20), commune with nature (domain spell), cure critical wounds, stoneskin
+- baleful polymorph (DC 20), commune with nature^D^, cure critical wounds, stoneskin
 
 **4th-level spells:**
 
-- dispel magic, freedom of movement, giant vermin, rusting grasp (domain spell), scrying (DC 19)
+- dispel magic, freedom of movement, giant vermin, rusting grasp^D^, scrying (DC 19)
 
 **3rd-level spells:**
 
-- cure moderate wounds, greater magic fang, meld into stone (domain spell), protection from energy,
-  stone shape
+- cure moderate wounds, greater magic fang, meld into stone^D^, protection from energy, stone shape
 
 **2nd-level spells:**
 
-- barkskin, bull's strength, lesser restoration, owl's wisdom, spider climb, stone call (domain
-  spell)
+- barkskin, bull's strength, lesser restoration, owl's wisdom, spider climb, stone call^D^
 
 **1st-level spells:**
 
-- cure light wounds, expeditious excavation, longstrider, magic fang, magic stone (domain spell),
-  pass without trace, speak with animals
+- cure light wounds, expeditious excavation, longstrider, magic fang, magic stone^D^, pass without
+  trace, speak with animals
 
 **Cantrips:**
 

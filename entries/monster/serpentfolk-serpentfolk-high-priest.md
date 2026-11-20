@@ -109,27 +109,27 @@ abilities = ["10", "23", "20", "16", "22", "20"]
 
 **5th-level spells:**
 
-- flame strike (domain spell) (2, DC 21), righteous might, slay living (DC 21)
+- flame strike^D^ (2, DC 21), righteous might, slay living (DC 21)
 
 **4th-level spells:**
 
-- cure critical wounds, divine power, freedom of movement, spit venom (DC 20), unholy blight (domain
-  spell) (DC 20)
+- cure critical wounds, divine power, freedom of movement, spit venom (DC 20), unholy blight^D^ (DC
+  20)
 
 **3rd-level spells:**
 
-- cure serious wounds, dispel magic, invisibility purge, magic circle against good (domain spell),
-  protection from energy
+- cure serious wounds, dispel magic, invisibility purge, magic circle against good^D^, protection
+  from energy
 
 **2nd-level spells:**
 
 - bear's endurance, calm emotions (DC 18), darkness, dread bolt (DC 18), hold person (2, DC 18),
-  spiritual weapon (domain spell)
+  spiritual weapon^D^
 
 **1st-level spells:**
 
-- bane (DC 17), forbid action (DC 17), murderous command (2, DC 17), protection from good (domain
-  spell), shield of faith, 2
+- bane (DC 17), forbid action (DC 17), murderous command (2, DC 17), protection from good^D^, shield
+  of faith, 2
 
 **Cantrips:**
 

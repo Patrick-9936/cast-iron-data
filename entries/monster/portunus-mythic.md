@@ -100,12 +100,11 @@ its head independently._
 
 **At will:**
 
-- crushing despair, fog cloud (mythic spell), good hope, hydraulic torrent (mythic spell), water
-  walk
+- crushing despair, fog cloud^M^, good hope, hydraulic torrent^M^, water walk
 
 **Per day:**
 
-- 3/day: control water (DC 21), dispel magic (mythic spell), &Q rusting grasp, warp wood (DC 19)
+- 3/day: control water (DC 21), dispel magic^M^, &Q rusting grasp, warp wood (DC 19)
 - 1/day: control weather, as druid, vortex (DC 24)
 
 ###### M {#footnote-m}

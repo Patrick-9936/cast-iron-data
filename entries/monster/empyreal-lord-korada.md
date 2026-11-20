@@ -101,18 +101,17 @@ flurry of blows +38/+38/+33/+33/+28/+28/+23 (2d10+8)
 
 **Constant:**
 
-- detect evil, detect thoughts, foresight (mythic spell), sanctuary (mythic spell) (DC 25), water
-  walk
+- detect evil, detect thoughts, foresight^M^, sanctuary^M^ (DC 25), water walk
 
 **At will:**
 
-- augury, bless (mythic spell), calm animals (DC 25), calm emotions (DC 26), cure serious wounds
-  (mythic spell), greater teleport, mirror image (mythic spell)
+- augury, bless^M^, calm animals (DC 25), calm emotions (DC 26), cure serious wounds^M^, greater
+  teleport, mirror image^M^
 
 **Per day:**
 
-- 3/day: divination, mad monkeys, &Q mirror image (mythic spell), neutralize poison, true seeing,
-  wall of force (mythic spell)
+- 3/day: divination, mad monkeys, &Q mirror image^M^, neutralize poison, true seeing, wall of
+  force^M^
 - 1/day: antimagic field, moment of prescience
 
 ###### M {#footnote-m}

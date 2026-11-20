@@ -108,41 +108,40 @@ reach, lore keeper, spell synthesis
 
 **8th-level spells:**
 
-- fire storm (mythic spell) (DC 29), mind blank (domain spell), already cast, unholy aura
+- fire storm^M^ (DC 29), mind blank^D^, already cast, unholy aura
 
 **7th-level spells:**
 
-- destruction (domain spell) (2, DC 29), &EM flame strike, 2, repulsion (DC 28)
+- destruction^D^ (2, DC 29), &EM flame strike, 2, repulsion (DC 28)
 
 **6th-level spells:**
 
-- create undead (domain spell), greater dispel magic, harm (mythic spell) (2, DC 29), plague storm,
-  word of recall
+- create undead^D^, greater dispel magic, harm^M^ (2, DC 29), plague storm, word of recall
 
 **5th-level spells:**
 
-- plane shift (mythic spell) (DC 26), scrying (DC 26), slay living (domain spell) (3, DC 27), steal
-  power (DC 28), true seeing, already cast
+- plane shift^M^ (DC 26), scrying (DC 26), slay living^D^ (3, DC 27), steal power (DC 28), true
+  seeing, already cast
 
 **4th-level spells:**
 
-- aura of doom, blessing of fervor, dismissal (DC 25), divine power, enervation (domain spell)
-  (mythic spell), 2, freedom of movement
+- aura of doom, blessing of fervor, dismissal (DC 25), divine power, enervation^D^^M^, 2, freedom of
+  movement
 
 **3rd-level spells:**
 
-- bestow curse (3, DC 25), dispel magic, magic vestment, already cast, prayer (mythic spell), 2,
-  seek thoughts (domain spell)
+- bestow curse (3, DC 25), dispel magic, magic vestment, already cast, prayer^M^, 2, seek
+  thoughts^D^
 
 **2nd-level spells:**
 
-- darkness (mythic spell), ghoul touch (domain spell) (DC 25), remove paralysis, resist energy, 2,
-  silence (mythic spell) (2, DC 23), spiritual weapon
+- darkness^M^, ghoul touch^D^ (DC 25), remove paralysis, resist energy, 2, silence^M^ (2, DC 23),
+  spiritual weapon
 
 **1st-level spells:**
 
-- comprehend languages (domain spell), divine favor, entropic shield, protection from good, 3,
-  shield of faith (mythic spell), 2
+- comprehend languages^D^, divine favor, entropic shield, protection from good, 3, shield of
+  faith^M^, 2
 
 **Cantrips:**
 
@@ -158,32 +157,29 @@ reach, lore keeper, spell synthesis
 
 **7th-level spells:**
 
-- 5/day: finger of death (mythic spell) (DC 29), power word blind, prismatic spray (mythic spell)
+- 5/day: finger of death^M^ (DC 29), power word blind, prismatic spray^M^
 
 **6th-level spells:**
 
-- 8/day: contagious flame, contingency (mythic spell), greater dispel magic, undeath to death (DC
-  28)
+- 8/day: contagious flame, contingency^M^, greater dispel magic, undeath to death (DC 28)
 
 **5th-level spells:**
 
-- 8/day: cone of cold (DC 25), dominate person (mythic spell) (DC 25), mage's private sanctum,
-  teleport, waves of fatigue
+- 8/day: cone of cold (DC 25), dominate person^M^ (DC 25), mage's private sanctum, teleport, waves
+  of fatigue
 
 **4th-level spells:**
 
-- 8/day: animate dead, bestow curse (DC 26), charm monster (DC 24), enervation (mythic spell), fire
-  shield
+- 8/day: animate dead, bestow curse (DC 26), charm monster (DC 24), enervation^M^, fire shield
 
 **3rd-level spells:**
 
-- 8/day: fly, hold person (DC 23), magic circle against good, nondetection, vampiric touch (mythic
-  spell)
+- 8/day: fly, hold person (DC 23), magic circle against good, nondetection, vampiric touch^M^
 
 **2nd-level spells:**
 
 - 9/day: command undead (DC 23), false life, mirror image, resist energy, scorching ray, spider
-  climb (mythic spell)
+  climb^M^
 
 **1st-level spells:**
 

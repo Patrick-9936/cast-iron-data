@@ -88,12 +88,11 @@ abilities = ["17", "12", "10", "8", "16", "12"]
 
 **2nd-level spells:**
 
-- death knell (DC 15), dread bolt (DC 15), hold person (DC 15), invisibility (domain spell)
+- death knell (DC 15), dread bolt (DC 15), hold person (DC 15), invisibility^D^
 
 **1st-level spells:**
 
-- bane (DC 14), doom (DC 14), enlarge person (domain spell) (DC 14), entropic shield, ray of
-  sickening (DC 14)
+- bane (DC 14), doom (DC 14), enlarge person^D^ (DC 14), entropic shield, ray of sickening (DC 14)
 
 **Cantrips:**
 

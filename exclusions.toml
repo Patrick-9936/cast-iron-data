@@ -51773,6 +51773,36 @@ path = "json/traits05.json#genie_blood"
 records = 0
 reason = '1 inline note that neither Archives of Nethys nor the PRD carries, removed (phynics/cast-iron-data#109, #114). Kind: paragraph. Entry ref/trait/genie-blood, line 13. Text: "> † This is different from the usual associations, where cold is water and electricity is air. > Con". No record is left out.'
 
+[[excluded]]
+path = "json/monsters_unique2.json#ilzunae"
+records = 0
+reason = '1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #116). Entry ref/monster/ilzunae, marker 1, anchor footnote-d-2: duplicate of the D legend of the same entry. Text: "Domain spell". No record is left out.'
+
+[[excluded]]
+path = "json/spells3.json#detect_chaos"
+records = 0
+reason = '1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #116). Entry ref/spell/detect-chaos, marker 2, anchor footnote-a: the note belongs to the table of detect evil; this entry has no table or text that carries marker 2. Text: "Some characters who are not clerics may radiate an aura of equivalent power. The class description w". No record is left out.'
+
+[[excluded]]
+path = "json/spells3.json#detect_fiendish_presence"
+records = 0
+reason = '1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #116). Entry ref/spell/detect-fiendish-presence, marker 2, anchor footnote-a: the note belongs to the table of detect evil; this entry has no table or text that carries marker 2. Text: "Some characters who are not clerics may radiate an aura of equivalent power. The class description w". No record is left out.'
+
+[[excluded]]
+path = "json/spells3.json#detect_good"
+records = 0
+reason = '1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #116). Entry ref/spell/detect-good, marker 2, anchor footnote-a: the note belongs to the table of detect evil; this entry has no table or text that carries marker 2. Text: "Some characters who are not clerics may radiate an aura of equivalent power. The class description w". No record is left out.'
+
+[[excluded]]
+path = "json/spells3.json#detect_law"
+records = 0
+reason = '1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #116). Entry ref/spell/detect-law, marker 2, anchor footnote-a: the note belongs to the table of detect evil; this entry has no table or text that carries marker 2. Text: "Some characters who are not clerics may radiate an aura of equivalent power. The class description w". No record is left out.'
+
+[[excluded]]
+path = "json/spells14.json#minor_creation"
+records = 0
+reason = """1 footnote that is a copy of a note that belongs to another record, removed (phynics/cast-iron-data#109, #116). Entry ref/spell/minor-creation, marker 1, anchor footnote-r: the note belongs to major creation; this entry has no table or text that carries marker 1. Text: "Includes adamantine, alchemical silver, and mithral. You can't use major creation to create a cold i". No record is left out."""
+
 [[rejected]]
 path = "json/archetypes_barbarian.json#totem_warrior"
 reason = "converter native exclusion (ref/arc-barbarian/totem-warrior): json/archetypes_barbarian.json#totem_warrior uses compileFrom; recipe expansion is not implemented"
