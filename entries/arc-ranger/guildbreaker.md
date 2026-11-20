@@ -16,10 +16,12 @@ page = "41"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Hunter's bond", "Woodland stride"]
-alters = ["Favored enemy"]
-replaces_features = ["wild-empathy", "hunter-s-bond", "woodland-stride"]
-alters_features = ["favored-enemy"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { alters = "Favored enemy", feature = "favored-enemy" },
+]
 +++
 
 Some rangers aren't the type to put their steel and sweat behind fighting particular kinds of

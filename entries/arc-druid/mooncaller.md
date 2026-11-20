@@ -16,8 +16,12 @@ page = "38"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Resist nature's lure", "Venom immunity", "A thousand faces"]
-replaces_features = ["woodland-stride", "resist-nature-s-lure", "venom-immunity", "a-thousand-faces"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+]
 +++
 
 A mooncaller is bound to the subtle influences of the ever-changing moon and its endless cycles from

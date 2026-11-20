@@ -16,10 +16,14 @@ page = "130"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd blessing normally gained by a warpriest", "Bonus feat gained at 3rd level", "Channel energy", "Bonus feat gained at 6th level"]
-alters = ["Blessings", "Bonus feats"]
-replaces_features = ["channel-energy"]
-alters_features = ["blessings", "bonus-feats"]
+trades = [
+  { replaces = "2nd blessing normally gained by a warpriest" },
+  { replaces = "Bonus feat gained at 3rd level", feature = "bonus-feats", levels = [3] },
+  { replaces = "Channel energy", feature = "channel-energy" },
+  { replaces = "Bonus feat gained at 6th level", feature = "bonus-feats", levels = [6] },
+  { alters = "Blessings", feature = "blessings" },
+  { alters = "Bonus feats", feature = "bonus-feats" },
+]
 +++
 
 Armorers of exquisite skill, forgepriests take inspiration from their deity to produce the most

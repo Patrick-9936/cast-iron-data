@@ -16,9 +16,14 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["The feat gained at 1st level", "Bravery", "The feat gained at 2nd level", "The bonus feat gained at 8th level", "Weapon mastery"]
-alters = ["The feat gained at 4th level"]
-replaces_features = ["bravery", "weapon-mastery"]
+trades = [
+  { replaces = "The feat gained at 1st level" },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "The feat gained at 2nd level" },
+  { replaces = "The bonus feat gained at 8th level", feature = "bonus-feats", levels = [8] },
+  { replaces = "Weapon mastery", feature = "weapon-mastery" },
+  { alters = "The feat gained at 4th level" },
+]
 +++
 
 The siegebreaker is trained to break through lines of enemy soldiers.

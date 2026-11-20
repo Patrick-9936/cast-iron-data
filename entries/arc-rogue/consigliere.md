@@ -16,8 +16,14 @@ page = "44"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "evasion", "Uncanny dodge", "improved uncanny dodge", "Trap sense", "Rogue talent normally gained at 10th level"]
-replaces_features = ["trapfinding", "evasion", "uncanny-dodge", "improved-uncanny-dodge", "trap-sense"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "evasion", feature = "evasion" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Rogue talent normally gained at 10th level" },
+]
 +++
 
 Consiglieres act as trusted mediators and administrators for crime families and various criminal

@@ -16,10 +16,14 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Keen recollection", "trap sense"]
-alters = ["Poison lore", "Alchemy and replaces", "trapfinding", "investigator talent gained at 3rd level"]
-replaces_features = ["keen-recollection", "trap-sense"]
-alters_features = ["poison-lore", "trapfinding"]
+trades = [
+  { replaces = "Keen recollection", feature = "keen-recollection" },
+  { replaces = "trap sense", feature = "trap-sense" },
+  { alters = "Poison lore", feature = "poison-lore" },
+  { alters = "Alchemy and replaces" },
+  { alters = "trapfinding", feature = "trapfinding" },
+  { alters = "investigator talent gained at 3rd level", feature = "investigator-talent", levels = [3] },
+]
 +++
 
 While most investigators are well versed in the knowledge of poisons, the toxin codexer has made it

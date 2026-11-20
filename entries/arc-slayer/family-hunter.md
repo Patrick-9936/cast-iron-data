@@ -16,9 +16,12 @@ page = "66"
 
 [fields]
 kind = "archetype"
-replaces = ["Slayer talent gained at 2nd level", "Slayer talent gained at 6th level"]
-alters = ["Sneak attack", "Studied target"]
-alters_features = ["sneak-attack", "studied-target"]
+trades = [
+  { replaces = "Slayer talent gained at 2nd level", feature = "slayer-talents", levels = [2] },
+  { replaces = "Slayer talent gained at 6th level", feature = "slayer-talents", levels = [6] },
+  { alters = "Sneak attack", feature = "sneak-attack" },
+  { alters = "Studied target", feature = "studied-target" },
+]
 +++
 
 Most slayers focus their efforts on single targets, but family hunters try to root out every branch

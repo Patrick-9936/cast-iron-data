@@ -16,10 +16,17 @@ page = "64"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiency", "Unarmed strike", "ki strike", "Stunning fist", "high jump", "quivering palm"]
-alters = ["Alignment requirement", "Ki pool", "Furry of blows"]
-replaces_features = ["unarmed-strike", "stunning-fist", "high-jump", "quivering-palm"]
-alters_features = ["ki-pool"]
+trades = [
+  { replaces = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Unarmed strike", feature = "unarmed-strike" },
+  { replaces = "ki strike" },
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "high jump", feature = "high-jump" },
+  { replaces = "quivering palm", feature = "quivering-palm" },
+  { alters = "Alignment requirement" },
+  { alters = "Ki pool", feature = "ki-pool" },
+  { alters = "Furry of blows" },
+]
 +++
 
 Menhir guardians are ascetic protectors of sacred druidic sites, less concerned with structure and

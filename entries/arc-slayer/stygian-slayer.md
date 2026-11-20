@@ -16,8 +16,12 @@ page = "120"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor proficiency", "Slayer talent gained at 4th level", "Stalker", "Advanced slayer talent gained at 10th level"]
-replaces_features = ["stalker"]
+trades = [
+  { replaces = "Armor proficiency" },
+  { replaces = "Slayer talent gained at 4th level", feature = "slayer-talents", levels = [4] },
+  { replaces = "Stalker", feature = "stalker" },
+  { replaces = "Advanced slayer talent gained at 10th level", feature = "advanced-talents", levels = [10] },
+]
 +++
 
 A stygian slayer crawls out of the darkest shadows to strike fear into the hearts of civilized folk.

@@ -16,7 +16,9 @@ page = "94"
 
 [fields]
 kind = "archetype"
-alters = ["Summon monster"]
+trades = [
+  { alters = "Summon monster" },
+]
 +++
 
 A leshy caller summons creatures from the First World and forges a bond with a leshy eidolon.

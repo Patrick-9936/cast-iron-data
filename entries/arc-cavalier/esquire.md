@@ -16,10 +16,14 @@ page = "30"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "Cavalier's charge", "Expert trainer", "Mighty charge", "Supreme charge"]
-alters = ["Banner"]
-replaces_features = ["mount", "cavalier-s-charge", "expert-trainer", "mighty-charge", "supreme-charge"]
-alters_features = ["banner"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "Supreme charge", feature = "supreme-charge" },
+  { alters = "Banner", feature = "banner" },
+]
 +++
 
 The esquire is a roving knight who acquires the services of a faithful follower - an

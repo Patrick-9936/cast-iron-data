@@ -16,8 +16,10 @@ page = "15"
 
 [fields]
 kind = "archetype"
-alters = ["Domains", "Aura"]
-alters_features = ["domains", "aura"]
+trades = [
+  { alters = "Domains", feature = "domains" },
+  { alters = "Aura", feature = "aura" },
+]
 +++
 
 Divine paragons strive to emulate their god's ideals as closely as possible. They might see

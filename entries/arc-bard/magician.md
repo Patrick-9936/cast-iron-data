@@ -16,8 +16,17 @@ page = "82"
 
 [fields]
 kind = "archetype"
-replaces = ["Inspire courage", "Dirge of doom", "Frightening tune", "Bardic knowledge", "Countersong", "Well-versed", "Versatile performance", "Lore master", "Jack of all trades"]
-replaces_features = ["bardic-knowledge", "well-versed", "versatile-performance", "lore-master", "jack-of-all-trades"]
+trades = [
+  { replaces = "Inspire courage" },
+  { replaces = "Dirge of doom" },
+  { replaces = "Frightening tune" },
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Countersong" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { replaces = "Jack of all trades", feature = "jack-of-all-trades" },
+]
 +++
 
 A magician dabbles in performance, but sees it as a means to tap into universal energies and channel

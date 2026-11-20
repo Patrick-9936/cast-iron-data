@@ -16,9 +16,11 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level social talent", "Vigilante talent gained at 4th level"]
-alters = ["Dual identity"]
-alters_features = ["dual-identity"]
+trades = [
+  { replaces = "1st-level social talent", feature = "social-talent", levels = [1] },
+  { replaces = "Vigilante talent gained at 4th level", feature = "vigilante-talent", levels = [4] },
+  { alters = "Dual identity", feature = "dual-identity" },
+]
 +++
 
 The [Lantern Bearers](ref/rule/aff-lights) are an elite group of elves dedicated to the containment

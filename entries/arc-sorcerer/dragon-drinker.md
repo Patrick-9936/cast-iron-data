@@ -16,7 +16,13 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Bloodline arcana", "1st-level bloodline power", "7th-level bloodline feat", "13th-level bloodline feat", "19th-level bloodline feat"]
+trades = [
+  { replaces = "Bloodline arcana" },
+  { replaces = "1st-level bloodline power" },
+  { replaces = "7th-level bloodline feat" },
+  { replaces = "13th-level bloodline feat" },
+  { replaces = "19th-level bloodline feat" },
+]
 +++
 
 The blood of dragons not only flows through a dragon drinker's veins, but also empowers her spells

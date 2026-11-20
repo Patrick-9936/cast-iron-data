@@ -16,8 +16,12 @@ page = "140"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "Weapon training 1", "Weapon training 2", "Weapon training 3 and 4"]
-replaces_features = ["bravery"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
+  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { replaces = "Weapon training 3 and 4" },
+]
 +++
 
 The dirty fighter laughs at concepts like honor and fair play. He cares only for victory, no matter

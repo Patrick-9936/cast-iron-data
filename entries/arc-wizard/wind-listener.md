@@ -16,8 +16,12 @@ page = "158"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane bond", "5th-level bonus feat", "10th-level bonus feat", "15th-level bonus feat"]
-replaces_features = ["arcane-bond"]
+trades = [
+  { replaces = "Arcane bond", feature = "arcane-bond" },
+  { replaces = "5th-level bonus feat", feature = "bonus-feats", levels = [5] },
+  { replaces = "10th-level bonus feat", feature = "bonus-feats", levels = [10] },
+  { replaces = "15th-level bonus feat", feature = "bonus-feats", levels = [15] },
+]
 +++
 
 The wind listener takes a sylph's natural curiosity to the extreme, enhancing his natural skill at

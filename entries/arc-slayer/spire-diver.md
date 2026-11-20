@@ -16,10 +16,15 @@ page = "80"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Swift tracker", "Slayer's advance"]
-alters = ["Studied target", "stalker", "Quarry", "improved quarry"]
-replaces_features = ["track", "swift-tracker", "slayer-s-advance"]
-alters_features = ["studied-target", "stalker", "quarry", "improved-quarry"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "Slayer's advance", feature = "slayer-s-advance" },
+  { alters = "Studied target", feature = "studied-target" },
+  { alters = "stalker", feature = "stalker" },
+  { alters = "Quarry", feature = "quarry" },
+  { alters = "improved quarry", feature = "improved-quarry" },
+]
 +++
 
 Peerless divers, assassins, and scouts, spire divers operate in and out of water using the same

@@ -16,9 +16,12 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Countersong", "Dirge of doom"]
-alters = ["Spellcasting", "Bardic performance"]
-alters_features = ["bardic-performance"]
+trades = [
+  { replaces = "Countersong" },
+  { replaces = "Dirge of doom" },
+  { alters = "Spellcasting" },
+  { alters = "Bardic performance", feature = "bardic-performance" },
+]
 +++
 
 Once practiced by the dwarves in their Quest for Sky, the traditions of the stonesinger bards

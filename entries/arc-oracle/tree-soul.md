@@ -16,8 +16,12 @@ page = "69"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus skills from the oracle's mystery", "The bonus spells gained at 2nd, 10th, 12th, 14th, 16th, and 18th levels from the oracle's mystery", "Oracle's curse", "Final revelation"]
-replaces_features = ["oracle-s-curse", "final-revelation"]
+trades = [
+  { replaces = "Bonus skills from the oracle's mystery" },
+  { replaces = "The bonus spells gained at 2nd, 10th, 12th, 14th, 16th, and 18th levels from the oracle's mystery" },
+  { replaces = "Oracle's curse", feature = "oracle-s-curse" },
+  { replaces = "Final revelation", feature = "final-revelation" },
+]
 +++
 
 Tree souls develop an affinity not just with trees but also with objects carved from them, feeling

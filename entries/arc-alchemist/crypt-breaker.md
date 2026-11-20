@@ -16,8 +16,12 @@ page = "33"
 
 [fields]
 kind = "archetype"
-replaces = ["Bombs", "Mutagen", "Brew potion", "Persistent mutagen"]
-replaces_features = ["mutagen", "brew-potion", "persistent-mutagen"]
+trades = [
+  { replaces = "Bombs", feature = "bomb" },
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "Brew potion", feature = "brew-potion" },
+  { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
+]
 +++
 
 Crypt breakers are most common in Osirion, where they use their powers of perception and alchemical

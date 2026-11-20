@@ -19,10 +19,15 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature sense", "Woodland stride", "Trackless step", "Resist nature's lure", "Timeless body"]
-alters = ["Class skills", "Wild shape"]
-replaces_features = ["nature-sense", "woodland-stride", "trackless-step", "resist-nature-s-lure", "timeless-body"]
-alters_features = ["wild-shape"]
+trades = [
+  { replaces = "Nature sense", feature = "nature-sense" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Timeless body", feature = "timeless-body" },
+  { alters = "Class skills" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 These druids are the guardians of rivers and the creatures that depend on them. Just as rivers pour

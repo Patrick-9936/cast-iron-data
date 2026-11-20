@@ -13,10 +13,17 @@ relations = [
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "Chimeric aspect", "greater chimeric aspect", "wild shape", "shifter aspect", "Shifter claws", "Defensive instinct", "Woodland stride"]
-alters = ["Wild empathy"]
-replaces_features = ["weapon-and-armor-proficiencies", "chimeric-aspect", "greater-chimeric-aspect", "wild-shape", "shifter-aspect", "shifter-claws", "defensive-instinct", "woodland-stride"]
-alters_features = ["wild-empathy"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Chimeric aspect", feature = "chimeric-aspect" },
+  { replaces = "greater chimeric aspect", feature = "greater-chimeric-aspect" },
+  { replaces = "wild shape", feature = "wild-shape" },
+  { replaces = "shifter aspect", feature = "shifter-aspect" },
+  { replaces = "Shifter claws", feature = "shifter-claws" },
+  { replaces = "Defensive instinct", feature = "defensive-instinct" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+]
 +++
 
 **Source** Ultimate Wilderness pg. 81, official Paizo FAQ\

@@ -16,10 +16,10 @@ page = "47"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies"]
-alters = ["Mount"]
-replaces_features = ["weapon-and-armor-proficiencies"]
-alters_features = ["mount"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Mount", feature = "mount" },
+]
 +++
 
 Throughout the Inner Sea region, wave riders patrol harbors, keeping them safe from dangerous sea

@@ -16,8 +16,12 @@ page = "19"
 
 [fields]
 kind = "archetype"
-replaces = ["Scribe Scroll", "Bardic knowledge", "Well-versed", "Song of marching"]
-replaces_features = ["scribe-scroll", "bardic-knowledge", "well-versed", "song-of-marching"]
+trades = [
+  { replaces = "Scribe Scroll", feature = "scribe-scroll" },
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Song of marching", feature = "song-of-marching" },
+]
 +++
 
 The Ulfen prize skalds on sea raids and linnorm hunts. Dragon skald performances involve song,

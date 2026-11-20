@@ -16,7 +16,10 @@ page = "128"
 
 [fields]
 kind = "archetype"
-replaces = ["The discovery at 2nd level", "The discovery at 4th level"]
+trades = [
+  { replaces = "The discovery at 2nd level", feature = "discovery", levels = [2] },
+  { replaces = "The discovery at 4th level", feature = "discovery", levels = [4] },
+]
 +++
 
 Because kobolds rely on [traps](ref/rule/traps) to soften up enemies, kobold alchemists learn to

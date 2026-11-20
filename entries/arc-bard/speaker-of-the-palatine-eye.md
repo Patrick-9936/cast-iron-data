@@ -16,10 +16,12 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Countersong", "Jack-of-all-trades"]
-alters = ["The bard's class skills", "Spells"]
-replaces_features = ["jack-of-all-trades"]
-alters_features = ["spells"]
+trades = [
+  { replaces = "Countersong" },
+  { replaces = "Jack-of-all-trades", feature = "jack-of-all-trades" },
+  { alters = "The bard's class skills" },
+  { alters = "Spells", feature = "spells" },
+]
 +++
 
 Working from the shadows of Ustalav's high society, the Esoteric Order of the Palatine

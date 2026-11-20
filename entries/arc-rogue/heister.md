@@ -16,8 +16,13 @@ page = "45"
 
 [fields]
 kind = "archetype"
-replaces = ["Rogue talent gained at 2nd level", "Uncanny dodge", "rogue talent gained at 4th level", "Improved uncanny dodge", "rogue talent gained at 8th level"]
-replaces_features = ["uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Rogue talent gained at 2nd level", feature = "rogue-talents", levels = [2] },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "rogue talent gained at 4th level", feature = "rogue-talents", levels = [4] },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "rogue talent gained at 8th level", feature = "rogue-talents", levels = [8] },
+]
 +++
 
 Notorious for their stealth, imagination, and elaborately planned thefts and capers, heisters

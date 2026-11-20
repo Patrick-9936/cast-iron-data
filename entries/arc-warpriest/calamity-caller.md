@@ -16,10 +16,13 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Focus weapon", "sacred weapon", "bonus feats", "Aspect of war"]
-alters = ["Blessings"]
-replaces_features = ["focus-weapon", "sacred-weapon", "bonus-feats", "aspect-of-war"]
-alters_features = ["blessings"]
+trades = [
+  { replaces = "Focus weapon", feature = "focus-weapon" },
+  { replaces = "sacred weapon", feature = "sacred-weapon" },
+  { replaces = "bonus feats", feature = "bonus-feats" },
+  { replaces = "Aspect of war", feature = "aspect-of-war" },
+  { alters = "Blessings", feature = "blessings" },
+]
 +++
 
 While all elves feel a deep connection to nature, some elven priests take this bond further, using

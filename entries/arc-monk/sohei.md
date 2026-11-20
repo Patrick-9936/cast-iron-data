@@ -16,10 +16,19 @@ page = "60"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning fist", "Fast movement", "increased unarmed damage", "Slow fall", "abundant step", "Purity of body", "diamond body", "quivering palm", "timeless body", "tongue of sun and moon"]
-alters = ["Weapon and armor proficiencies"]
-replaces_features = ["stunning-fist", "fast-movement", "slow-fall", "abundant-step", "purity-of-body", "diamond-body", "quivering-palm", "timeless-body"]
-alters_features = ["weapon-and-armor-proficiencies"]
+trades = [
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "increased unarmed damage" },
+  { replaces = "Slow fall", feature = "slow-fall" },
+  { replaces = "abundant step", feature = "abundant-step" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "diamond body", feature = "diamond-body" },
+  { replaces = "quivering palm", feature = "quivering-palm" },
+  { replaces = "timeless body", feature = "timeless-body" },
+  { replaces = "tongue of sun and moon", feature = "tongue-of-the-sun-and-moon" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+]
 +++
 
 The sohei are masters of the horse and the hunt. A monastic soldier, the sohei is equally adept at

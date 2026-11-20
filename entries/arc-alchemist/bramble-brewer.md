@@ -16,8 +16,10 @@ page = "44"
 
 [fields]
 kind = "archetype"
-replaces = ["Mutagen", "The 2nd-level discovery"]
-replaces_features = ["mutagen"]
+trades = [
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "The 2nd-level discovery", feature = "discovery", levels = [2] },
+]
 +++
 
 Some half-elven alchemists merge human curiosity with their elven link to nature. Such alchemists

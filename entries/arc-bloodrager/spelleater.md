@@ -16,8 +16,11 @@ page = "85"
 
 [fields]
 kind = "archetype"
-replaces = ["Uncanny dodge", "damage reduction", "Improved uncanny dodge"]
-replaces_features = ["uncanny-dodge", "damage-reduction", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "damage reduction", feature = "damage-reduction" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Where other bloodragers learn to avoid or shrug off minor damage of all sorts, spelleaters tap into

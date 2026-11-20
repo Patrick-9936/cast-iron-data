@@ -16,10 +16,13 @@ page = "100"
 
 [fields]
 kind = "archetype"
-replaces = ["Object reading", "Aura sight", "Outside contact"]
-alters = ["Implements", "implement mastery"]
-replaces_features = ["object-reading", "aura-sight", "outside-contact"]
-alters_features = ["implements", "implement-mastery"]
+trades = [
+  { replaces = "Object reading", feature = "object-reading" },
+  { replaces = "Aura sight", feature = "aura-sight" },
+  { replaces = "Outside contact", feature = "outside-contact" },
+  { alters = "Implements", feature = "implements" },
+  { alters = "implement mastery", feature = "implement-mastery" },
+]
 +++
 
 Necroccultists' fascination with death and the undead drives them to explore the forbidden

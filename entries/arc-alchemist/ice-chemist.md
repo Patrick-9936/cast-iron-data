@@ -16,9 +16,12 @@ page = "35"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison resistance", "poison immunity", "2nd-level discovery"]
-alters = ["Bombs"]
-replaces_features = ["poison-resistance"]
+trades = [
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity" },
+  { replaces = "2nd-level discovery", feature = "discovery", levels = [2] },
+  { alters = "Bombs", feature = "bomb" },
+]
 +++
 
 Reclusive alchemists who dwell in the highest mountains or on the frozen tundra devote their skills

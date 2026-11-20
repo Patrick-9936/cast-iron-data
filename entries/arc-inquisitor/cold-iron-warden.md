@@ -16,10 +16,15 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "teamwork feats gained at 12th and 18th level", "Solo tactics", "teamwork feats gained at 6th and 15th level", "Teamwork feats gained at 3rd and 9th level", "Discern lies"]
-alters = ["Bane"]
-replaces_features = ["track", "solo-tactics", "discern-lies"]
-alters_features = ["bane"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "teamwork feats gained at 12th and 18th level", feature = "teamwork-feat", levels = [12, 18] },
+  { replaces = "Solo tactics", feature = "solo-tactics" },
+  { replaces = "teamwork feats gained at 6th and 15th level", feature = "teamwork-feat", levels = [6, 15] },
+  { replaces = "Teamwork feats gained at 3rd and 9th level", feature = "teamwork-feat", levels = [3, 9] },
+  { replaces = "Discern lies", feature = "discern-lies" },
+  { alters = "Bane", feature = "bane" },
+]
 +++
 
 The natural enemies of [demoniacs](ref/pclass/demoniac) and other cultists of fiendish forces, cold

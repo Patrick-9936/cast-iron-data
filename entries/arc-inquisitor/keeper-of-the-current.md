@@ -16,9 +16,11 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Discern lies"]
-alters = ["Spellcasting"]
-replaces_features = ["track", "discern-lies"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Discern lies", feature = "discern-lies" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Aquatic creatures worship many different deities and powers based on their alignment, their

@@ -16,10 +16,14 @@ page = "28"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "trap sense", "Alchemy", "Poison resistance", "Poison immunity"]
-alters = ["Inspiration"]
-replaces_features = ["trapfinding", "trap-sense", "alchemy", "poison-resistance"]
-alters_features = ["inspiration"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "trap sense", feature = "trap-sense" },
+  { replaces = "Alchemy", feature = "alchemy" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison immunity" },
+  { alters = "Inspiration", feature = "inspiration" },
+]
 +++
 
 A lock of hair, a bit of blood, even a footprint is enough to grant a wily witch hunter an edge.

@@ -16,7 +16,12 @@ page = "9"
 
 [fields]
 kind = "archetype"
-replaces = ["Gunslinger's dodge deed", "Gunslinger initiative deed", "Pistol-whip deed", "Startling shot deed"]
+trades = [
+  { replaces = "Gunslinger's dodge deed" },
+  { replaces = "Gunslinger initiative deed" },
+  { replaces = "Pistol-whip deed" },
+  { replaces = "Startling shot deed" },
+]
 +++
 
 A blatherskite talks big and feels powerful when holding a loaded gun, but when the gun jams or the

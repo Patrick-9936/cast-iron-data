@@ -16,10 +16,15 @@ page = "66"
 
 [fields]
 kind = "archetype"
-replaces = ["Proficiency in medium armor and shields", "The 1st-level studied target", "slayer talents gained at 4th, 8th, 12th, and 16th level", "Slayer talent gained at 6th level", "Swift tracker", "Slayer's advance"]
-alters = ["Studied target"]
-replaces_features = ["swift-tracker", "slayer-s-advance"]
-alters_features = ["studied-target"]
+trades = [
+  { replaces = "Proficiency in medium armor and shields" },
+  { replaces = "The 1st-level studied target", feature = "studied-target", levels = [1] },
+  { replaces = "slayer talents gained at 4th, 8th, 12th, and 16th level", feature = "slayer-talents", levels = [4, 8, 12, 16] },
+  { replaces = "Slayer talent gained at 6th level", feature = "slayer-talents", levels = [6] },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "Slayer's advance", feature = "slayer-s-advance" },
+  { alters = "Studied target", feature = "studied-target" },
+]
 +++
 
 Bloody jakes are cruel backwoods folk who prey upon their country cousins while terrorizing

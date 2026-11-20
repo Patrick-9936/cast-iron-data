@@ -19,10 +19,12 @@ page = "42"
 
 [fields]
 kind = "archetype"
-replaces = ["Magus arcana gained at 3rd level", "Greater spell combat", "Greater spell access"]
-alters = ["Improved spell combat"]
-replaces_features = ["greater-spell-combat", "greater-spell-access"]
-alters_features = ["improved-spell-combat"]
+trades = [
+  { replaces = "Magus arcana gained at 3rd level", feature = "magus-arcana", levels = [3] },
+  { replaces = "Greater spell combat", feature = "greater-spell-combat" },
+  { replaces = "Greater spell access", feature = "greater-spell-access" },
+  { alters = "Improved spell combat", feature = "improved-spell-combat" },
+]
 +++
 
 Trained in a tradition stretching back to Old-Mage Jatembe's Ten Magic Warriors, Magic Warriors

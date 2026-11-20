@@ -16,10 +16,16 @@ page = "32"
 
 [fields]
 kind = "archetype"
-replaces = ["One of the two occultist implements learned at 1st level, 6th- and 14th-level implements", "3rd-level focus power", "Shift focus", "Outsider contact", "Magic circles", "binding circles", "fast circles"]
-alters = ["Mental focus"]
-replaces_features = ["shift-focus", "magic-circles", "binding-circles", "fast-circles"]
-alters_features = ["mental-focus"]
+trades = [
+  { replaces = "One of the two occultist implements learned at 1st level, 6th- and 14th-level implements" },
+  { replaces = "3rd-level focus power", feature = "focus-powers", levels = [3] },
+  { replaces = "Shift focus", feature = "shift-focus" },
+  { replaces = "Outsider contact" },
+  { replaces = "Magic circles", feature = "magic-circles" },
+  { replaces = "binding circles", feature = "binding-circles" },
+  { replaces = "fast circles", feature = "fast-circles" },
+  { alters = "Mental focus", feature = "mental-focus" },
+]
 +++
 
 Most occultists acquire and study antiques at a steady pace, learning new techniques one at a time.

@@ -16,10 +16,15 @@ page = "47"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Resist nature's lure", "Venom immunity"]
-alters = ["Weapon and armor proficiency", "Nature bond", "Wild empathy", "Wild shape"]
-replaces_features = ["woodland-stride", "resist-nature-s-lure", "venom-immunity"]
-alters_features = ["nature-bond", "wild-empathy", "wild-shape"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Nature bond", feature = "nature-bond" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 The aerie protector guards nature's nests and lairs in the highest mountains, and she is only ever

@@ -16,8 +16,12 @@ page = "38"
 
 [fields]
 kind = "archetype"
-replaces = ["Consummate liar", "bold stare improvement gained at 3rd level", "Towering ego", "mental potency"]
-replaces_features = ["consummate-liar", "towering-ego", "mental-potency"]
+trades = [
+  { replaces = "Consummate liar", feature = "consummate-liar" },
+  { replaces = "bold stare improvement gained at 3rd level" },
+  { replaces = "Towering ego", feature = "towering-ego" },
+  { replaces = "mental potency", feature = "mental-potency" },
+]
 +++
 
 While many mesmerists focus on beguiling their foes or taking overt control of others with their

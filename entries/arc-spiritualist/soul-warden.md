@@ -16,10 +16,20 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Phantom", "etheric tether", "shared consciousness", "spiritual interference", "fused consciousness", "greater spiritual interference", "Bonded manifestation", "Bonded manifestation increases", "dual bond", "Empowered consciousness"]
-alters = ["Bonded senses", "phantom recall"]
-replaces_features = ["phantom", "etheric-tether", "shared-consciousness", "spiritual-interference", "fused-consciousness", "greater-spiritual-interference", "bonded-manifestation", "dual-bond", "empowered-consciousness"]
-alters_features = ["bonded-senses", "phantom-recall"]
+trades = [
+  { replaces = "Phantom", feature = "phantom" },
+  { replaces = "etheric tether", feature = "etheric-tether" },
+  { replaces = "shared consciousness", feature = "shared-consciousness" },
+  { replaces = "spiritual interference", feature = "spiritual-interference" },
+  { replaces = "fused consciousness", feature = "fused-consciousness" },
+  { replaces = "greater spiritual interference", feature = "greater-spiritual-interference" },
+  { replaces = "Bonded manifestation", feature = "bonded-manifestation" },
+  { replaces = "Bonded manifestation increases" },
+  { replaces = "dual bond", feature = "dual-bond" },
+  { replaces = "Empowered consciousness", feature = "empowered-consciousness" },
+  { alters = "Bonded senses", feature = "bonded-senses" },
+  { alters = "phantom recall", feature = "phantom-recall" },
+]
 +++
 
 Normally, the bond a spiritualist shares with his phantom persists for the duration of the

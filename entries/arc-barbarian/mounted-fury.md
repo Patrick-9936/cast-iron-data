@@ -16,8 +16,11 @@ page = "79"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement", "Uncanny dodge", "improved uncanny dodge"]
-replaces_features = ["fast-movement", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Many barbarian tribes are masters of the horse, teaching their members how to ride from a young age.

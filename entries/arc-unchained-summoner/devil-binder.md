@@ -16,10 +16,18 @@ page = "94"
 
 [fields]
 kind = "archetype"
-replaces = ["Summon monster I", "Bond senses", "shield ally", "transposition", "greater shield ally", "merge forms", "twin eidolon", "Maker's call", "eidolon's devotion ability"]
-alters = ["Eidolon"]
-replaces_features = ["summon-monster-i", "bond-senses", "shield-ally", "transposition", "greater-shield-ally", "merge-forms", "twin-eidolon", "maker-s-call"]
-alters_features = ["eidolon"]
+trades = [
+  { replaces = "Summon monster I", feature = "summon-monster-i" },
+  { replaces = "Bond senses", feature = "bond-senses" },
+  { replaces = "shield ally", feature = "shield-ally" },
+  { replaces = "transposition", feature = "transposition" },
+  { replaces = "greater shield ally", feature = "greater-shield-ally" },
+  { replaces = "merge forms", feature = "merge-forms" },
+  { replaces = "twin eidolon", feature = "twin-eidolon" },
+  { replaces = "Maker's call", feature = "maker-s-call" },
+  { replaces = "eidolon's devotion ability" },
+  { alters = "Eidolon", feature = "eidolon" },
+]
 +++
 
 While many assume [Hellknights](ref/rule/aff-lawknights) are worshipers or agents of devilkind - or,

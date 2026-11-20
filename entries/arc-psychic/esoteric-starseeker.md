@@ -16,7 +16,9 @@ page = "30"
 
 [fields]
 kind = "archetype"
-replaces = ["Discipline spells, 1st- and 11th-level phrenic amplifications"]
+trades = [
+  { replaces = "Discipline spells, 1st- and 11th-level phrenic amplifications" },
+]
 +++
 
 The celestial bodies travel through the sky in fixed patterns, and knowledgeable astrologers rely on

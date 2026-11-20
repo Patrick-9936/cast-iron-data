@@ -16,10 +16,17 @@ page = "56"
 
 [fields]
 kind = "archetype"
-replaces = ["Spell combat", "Spell recall", "Knowledge pool", "Improved spell combat", "greater spell combat", "greater spell access", "Counterstrike"]
-alters = ["Spellstrike", "Spell combat"]
-replaces_features = ["spell-combat", "spell-recall", "knowledge-pool", "improved-spell-combat", "greater-spell-combat", "greater-spell-access", "counterstrike"]
-alters_features = ["spellstrike", "spell-combat"]
+trades = [
+  { replaces = "Spell combat", feature = "spell-combat" },
+  { replaces = "Spell recall", feature = "spell-recall" },
+  { replaces = "Knowledge pool", feature = "knowledge-pool" },
+  { replaces = "Improved spell combat", feature = "improved-spell-combat" },
+  { replaces = "greater spell combat", feature = "greater-spell-combat" },
+  { replaces = "greater spell access", feature = "greater-spell-access" },
+  { replaces = "Counterstrike", feature = "counterstrike" },
+  { alters = "Spellstrike", feature = "spellstrike" },
+  { alters = "Spell combat", feature = "spell-combat" },
+]
 +++
 
 Sometimes called a shield-vassal or shieldmaiden, the skirnir has learned to infuse his power into

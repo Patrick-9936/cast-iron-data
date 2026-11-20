@@ -16,10 +16,10 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Brew Potion"]
-alters = ["Extracts"]
-replaces_features = ["brew-potion"]
-alters_features = ["extracts"]
+trades = [
+  { replaces = "Brew Potion", feature = "brew-potion" },
+  { alters = "Extracts", feature = "extracts" },
+]
 +++
 
 Able to distill spectral horrors into alchemical reagents, the eccentric techniques of the ectoplasm

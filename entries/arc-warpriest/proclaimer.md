@@ -16,10 +16,12 @@ page = "19"
 
 [fields]
 kind = "archetype"
-replaces = ["Sacred armor", "Channel energy"]
-alters = ["Spellcasting", "Fervor"]
-replaces_features = ["sacred-armor", "channel-energy"]
-alters_features = ["fervor"]
+trades = [
+  { replaces = "Sacred armor", feature = "sacred-armor" },
+  { replaces = "Channel energy", feature = "channel-energy" },
+  { alters = "Spellcasting" },
+  { alters = "Fervor", feature = "fervor" },
+]
 +++
 
 A proclaimer is the polar opposite of a

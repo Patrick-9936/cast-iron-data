@@ -16,8 +16,11 @@ page = "59"
 
 [fields]
 kind = "archetype"
-replaces = ["Standard bonus feats", "Flurry of blows", "Perfect self"]
-replaces_features = ["flurry-of-blows", "perfect-self"]
+trades = [
+  { replaces = "Standard bonus feats" },
+  { replaces = "Flurry of blows", feature = "flurry-of-blows" },
+  { replaces = "Perfect self", feature = "perfect-self" },
+]
 +++
 
 The master of many styles is a collector. For every move, he seeks a counter. For every style, he

@@ -16,10 +16,14 @@ page = "72"
 
 [fields]
 kind = "archetype"
-replaces = ["Hunter's bond", "Evasion", "Camouflage", "Improved evasion", "master hunter"]
-alters = ["Spells"]
-replaces_features = ["hunter-s-bond", "evasion", "camouflage", "improved-evasion", "master-hunter"]
-alters_features = ["spells"]
+trades = [
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Camouflage", feature = "camouflage" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { replaces = "master hunter", feature = "master-hunter" },
+  { alters = "Spells", feature = "spells" },
+]
 +++
 
 Emulating the blazing phoenix, flamewardens sweep through the world like a selective forest fire,

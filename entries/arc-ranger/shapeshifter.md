@@ -16,8 +16,11 @@ page = "126"
 
 [fields]
 kind = "archetype"
-replaces = ["Favored terrain", "Camouflage", "Master hunter"]
-replaces_features = ["favored-terrain", "camouflage", "master-hunter"]
+trades = [
+  { replaces = "Favored terrain", feature = "favored-terrain" },
+  { replaces = "Camouflage", feature = "camouflage" },
+  { replaces = "Master hunter", feature = "master-hunter" },
+]
 +++
 
 Most rangers venture into the wilderness, but there are some who let the wilderness seep into them.

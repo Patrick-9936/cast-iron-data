@@ -16,10 +16,14 @@ page = "64"
 
 [fields]
 kind = "archetype"
-replaces = ["Precise companion", "Hunter tactics", "the hunter's bonus teamwork feats", "Bonus tricks"]
-alters = ["Animal companion", "Animal focus"]
-replaces_features = ["precise-companion", "hunter-tactics", "bonus-tricks"]
-alters_features = ["animal-companion", "animal-focus"]
+trades = [
+  { replaces = "Precise companion", feature = "precise-companion" },
+  { replaces = "Hunter tactics", feature = "hunter-tactics" },
+  { replaces = "the hunter's bonus teamwork feats" },
+  { replaces = "Bonus tricks", feature = "bonus-tricks" },
+  { alters = "Animal companion", feature = "animal-companion" },
+  { alters = "Animal focus", feature = "animal-focus" },
+]
 +++
 
 While most hunters find themselves at ease in the wildest parts of the world, courtly hunters

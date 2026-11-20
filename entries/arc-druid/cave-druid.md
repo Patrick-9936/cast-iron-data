@@ -16,10 +16,15 @@ page = "99"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature sense", "Woodland stride", "Trackless step", "Resist nature's lure"]
-alters = ["Nature bond", "Wild empathy", "Wild shape"]
-replaces_features = ["nature-sense", "woodland-stride", "trackless-step", "resist-nature-s-lure"]
-alters_features = ["nature-bond", "wild-empathy", "wild-shape"]
+trades = [
+  { replaces = "Nature sense", feature = "nature-sense" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { alters = "Nature bond", feature = "nature-bond" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Far from the green fields of the world above lies a lightless expanse beneath the surface. This

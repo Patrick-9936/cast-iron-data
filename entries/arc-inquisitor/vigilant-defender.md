@@ -16,10 +16,12 @@ page = "31"
 
 [fields]
 kind = "archetype"
-replaces = ["Stern gaze", "Exploit weakness"]
-alters = ["Judgment", "True judgment"]
-replaces_features = ["stern-gaze", "exploit-weakness"]
-alters_features = ["judgment", "true-judgment"]
+trades = [
+  { replaces = "Stern gaze", feature = "stern-gaze" },
+  { replaces = "Exploit weakness", feature = "exploit-weakness" },
+  { alters = "Judgment", feature = "judgment" },
+  { alters = "True judgment", feature = "true-judgment" },
+]
 +++
 
 Some inquisitors focus more on protecting those who share their faiths and their ideals than on

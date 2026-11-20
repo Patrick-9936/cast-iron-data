@@ -16,10 +16,11 @@ page = "54"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride"]
-alters = ["Animal companion", "Animal focus"]
-replaces_features = ["woodland-stride"]
-alters_features = ["animal-companion", "animal-focus"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { alters = "Animal companion", feature = "animal-companion" },
+  { alters = "Animal focus", feature = "animal-focus" },
+]
 +++
 
 Pelagic hunters form strong bonds that extend deep beneath the sea, reaching out to whatever heeds

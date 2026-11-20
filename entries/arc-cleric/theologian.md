@@ -16,8 +16,9 @@ page = "32"
 
 [fields]
 kind = "archetype"
-replaces = ["Domains"]
-replaces_features = ["domains"]
+trades = [
+  { replaces = "Domains", feature = "domains" },
+]
 +++
 
 A theologian is an expert on one particular area of her religion. She is so focused on that area

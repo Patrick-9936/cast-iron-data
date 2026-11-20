@@ -16,7 +16,11 @@ page = "112"
 
 [fields]
 kind = "archetype"
-replaces = ["Spirit magic spells gained from the shaman's spirit", "Hex gained at 2nd level", "Hex gained at 10th level"]
+trades = [
+  { replaces = "Spirit magic spells gained from the shaman's spirit" },
+  { replaces = "Hex gained at 2nd level", feature = "hex", levels = [2] },
+  { replaces = "Hex gained at 10th level", feature = "hex", levels = [10] },
+]
 +++
 
 Not all spirits deserve reverence and respect. Some are twisted and despicable. It's a spirit

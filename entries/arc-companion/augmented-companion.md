@@ -12,7 +12,10 @@ page = "186"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Devotion"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Devotion" },
+]
 +++
 
 Augmented companions have suffered an injury, such as the loss of a wing, and parts of their bodies

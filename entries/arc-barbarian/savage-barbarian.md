@@ -16,8 +16,10 @@ page = "79"
 
 [fields]
 kind = "archetype"
-replaces = ["Trap sense", "Damage reduction"]
-replaces_features = ["trap-sense", "damage-reduction"]
+trades = [
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Damage reduction", feature = "damage-reduction" },
+]
 +++
 
 Some barbarians are truly savage, having little training in modern arms. These savage barbarians

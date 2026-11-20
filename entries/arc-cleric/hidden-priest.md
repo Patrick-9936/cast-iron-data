@@ -16,7 +16,10 @@ page = "35"
 
 [fields]
 kind = "archetype"
-replaces = ["One of the cleric's two 1st-level domain powers (her choice)", "One of the cleric's two 8th-level domain powers (his choice)"]
+trades = [
+  { replaces = "One of the cleric's two 1st-level domain powers (her choice)" },
+  { replaces = "One of the cleric's two 8th-level domain powers (his choice)" },
+]
 +++
 
 Practicing one's religion is not always legal. For example, most lands outlaw worshiping fiends.

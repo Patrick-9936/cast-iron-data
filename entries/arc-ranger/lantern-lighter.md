@@ -19,10 +19,18 @@ page = "42"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Endurance", "Woodland stride", "8th-level favored terrain", "Camouflage", "Favored terrain gained at 13th level", "Hide in plain sight", "Favored terrain gained at 18th level"]
-alters = ["Spells", "Favored terrain"]
-replaces_features = ["wild-empathy", "endurance", "woodland-stride", "camouflage", "hide-in-plain-sight"]
-alters_features = ["spells", "favored-terrain"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Endurance", feature = "endurance" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "8th-level favored terrain", feature = "favored-terrain", levels = [8] },
+  { replaces = "Camouflage", feature = "camouflage" },
+  { replaces = "Favored terrain gained at 13th level", feature = "favored-terrain", levels = [13] },
+  { replaces = "Hide in plain sight", feature = "hide-in-plain-sight" },
+  { replaces = "Favored terrain gained at 18th level", feature = "favored-terrain", levels = [18] },
+  { alters = "Spells", feature = "spells" },
+  { alters = "Favored terrain", feature = "favored-terrain" },
+]
 +++
 
 Lantern lighters were originally entrusted with secretly eliminating the drow and quarantining any

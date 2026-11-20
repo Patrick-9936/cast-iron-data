@@ -16,9 +16,15 @@ page = "119"
 
 [fields]
 kind = "archetype"
-replaces = ["Alchemy", "Poison lore", "poison resistance", "swift alchemy", "poison immunity", "Investigator talent gained at 3rd level"]
-alters = ["Investigator talents"]
-replaces_features = ["alchemy", "poison-lore", "poison-resistance", "swift-alchemy"]
+trades = [
+  { replaces = "Alchemy", feature = "alchemy" },
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { replaces = "poison resistance", feature = "poison-resistance" },
+  { replaces = "swift alchemy", feature = "swift-alchemy" },
+  { replaces = "poison immunity" },
+  { replaces = "Investigator talent gained at 3rd level", feature = "investigator-talent", levels = [3] },
+  { alters = "Investigator talents", feature = "investigator-talent" },
+]
 +++
 
 A psychic detective supplements her keen insight with occult skill to unravel mysteries both

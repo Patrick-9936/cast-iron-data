@@ -13,7 +13,9 @@ page = "59"
 [fields]
 kind = "class_option"
 group = "medium-spirit"
-alters = ["Inspiring call"]
+trades = [
+  { alters = "Inspiring call" },
+]
 +++
 
 The Warmonger is a spirit of unbridled strife, inspiring others to throw their lives away in pursuit

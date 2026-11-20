@@ -16,10 +16,14 @@ page = "4"
 
 [fields]
 kind = "archetype"
-replaces = ["Deadeye deed", "Dead shot deed", "Bonus feats gained at 4th, 8th, 12th, 16th, and 20th levels", "Gun training"]
-alters = ["Gunsmith", "Grit"]
-replaces_features = ["gun-training"]
-alters_features = ["gunsmith", "grit"]
+trades = [
+  { replaces = "Deadeye deed" },
+  { replaces = "Dead shot deed" },
+  { replaces = "Bonus feats gained at 4th, 8th, 12th, 16th, and 20th levels", feature = "bonus-feats", levels = [4, 8, 12, 16, 20] },
+  { replaces = "Gun training", feature = "gun-training" },
+  { alters = "Gunsmith", feature = "gunsmith" },
+  { alters = "Grit", feature = "grit" },
+]
 +++
 
 Where other gunslingers rely on precision shooting, the firebrand instead masters explosive

@@ -19,8 +19,13 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature training", "wild empathy", "Hunter tactics", "Teamwork feats", "Raise animal companion"]
-replaces_features = ["nature-training", "wild-empathy", "hunter-tactics", "raise-animal-companion"]
+trades = [
+  { replaces = "Nature training", feature = "nature-training" },
+  { replaces = "wild empathy", feature = "wild-empathy" },
+  { replaces = "Hunter tactics", feature = "hunter-tactics" },
+  { replaces = "Teamwork feats", feature = "teamwork-feat" },
+  { replaces = "Raise animal companion", feature = "raise-animal-companion" },
+]
 +++
 
 Wandering the wilds, some hunters eschew the bond of innate teamwork with their animal companions.

@@ -16,9 +16,13 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "The bonus feat gained at 1st level", "Bonus feats gained at 4th, 8th, 12th, 16th, and 20th levels", "Weapon training 1"]
-alters = ["Class skills"]
-replaces_features = ["bravery"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "The bonus feat gained at 1st level", feature = "bonus-feats", levels = [1] },
+  { replaces = "Bonus feats gained at 4th, 8th, 12th, 16th, and 20th levels", feature = "bonus-feats", levels = [4, 8, 12, 16, 20] },
+  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
+  { alters = "Class skills" },
+]
 +++
 
 Opportunists believe every battle is one of wits rather than arms. The ratfolk enforcers who protect

@@ -16,7 +16,9 @@ page = "85"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level hex"]
+trades = [
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+]
 +++
 
 A sea witch's affinities are tied to the vast oceans and the rolling waves. Her magic concerns the

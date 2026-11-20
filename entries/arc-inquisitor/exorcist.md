@@ -16,8 +16,12 @@ page = "44"
 
 [fields]
 kind = "archetype"
-replaces = ["Second judgment", "Third judgment", "Slayer", "True judgment"]
-replaces_features = ["second-judgment", "third-judgment", "slayer", "true-judgment"]
+trades = [
+  { replaces = "Second judgment", feature = "second-judgment" },
+  { replaces = "Third judgment", feature = "third-judgment" },
+  { replaces = "Slayer", feature = "slayer" },
+  { replaces = "True judgment", feature = "true-judgment" },
+]
 +++
 
 Some inquisitors, as they learn more about the threat of possession and the machinations of the

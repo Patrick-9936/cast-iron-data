@@ -16,8 +16,10 @@ page = "33"
 
 [fields]
 kind = "archetype"
-replaces = ["Song of marching", "Spell kenning"]
-replaces_features = ["song-of-marching", "spell-kenning"]
+trades = [
+  { replaces = "Song of marching", feature = "song-of-marching" },
+  { replaces = "Spell kenning", feature = "spell-kenning" },
+]
 +++
 
 Qadiran sunsingers are particularly religious skalds of Sarenrae who call down their goddess's glory

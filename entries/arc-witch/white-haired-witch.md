@@ -16,8 +16,11 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Hex", "Major hex", "grand hex"]
-replaces_features = ["hex", "major-hex", "grand-hex"]
+trades = [
+  { replaces = "Hex", feature = "hex" },
+  { replaces = "Major hex", feature = "major-hex" },
+  { replaces = "grand hex", feature = "grand-hex" },
+]
 +++
 
 A white-haired witch concentrates her mysterious powers on improving her prowess in melee, using

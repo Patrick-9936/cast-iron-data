@@ -16,7 +16,11 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Familiar", "2nd-level hex", "6th-level hex"]
+trades = [
+  { replaces = "Familiar" },
+  { replaces = "2nd-level hex", feature = "hex", levels = [2] },
+  { replaces = "6th-level hex", feature = "hex", levels = [6] },
+]
 +++
 
 Qadira's armies strike terror into foes, but tales of something even more terrible than desert

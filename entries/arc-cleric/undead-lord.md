@@ -16,8 +16,9 @@ page = "32"
 
 [fields]
 kind = "archetype"
-replaces = ["Domains"]
-replaces_features = ["domains"]
+trades = [
+  { replaces = "Domains", feature = "domains" },
+]
 +++
 
 An undead lord is a cleric focused on using necromancy to control undead. Her flock is the walking

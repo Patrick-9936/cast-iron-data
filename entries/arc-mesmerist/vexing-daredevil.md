@@ -16,8 +16,12 @@ page = "98"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level mesmerist trick", "Touch treatment", "Bold stare", "Glib lie"]
-replaces_features = ["touch-treatment", "bold-stare", "glib-lie"]
+trades = [
+  { replaces = "1st-level mesmerist trick", feature = "mesmerist-tricks", levels = [1] },
+  { replaces = "Touch treatment", feature = "touch-treatment" },
+  { replaces = "Bold stare", feature = "bold-stare" },
+  { replaces = "Glib lie", feature = "glib-lie" },
+]
 +++
 
 Vexing daredevils train their psychic powers for combat, specializing in momentarily blinding and

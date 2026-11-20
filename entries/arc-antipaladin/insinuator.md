@@ -16,10 +16,22 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Aura of evil", "Smite good", "Touch of corruption", "Aura of cowardice", "Plague bringer", "Cruelty", "Antipaladin spells", "Aura of despair", "Aura of vengeance", "Aura of sin", "Aura of depravity", "Unholy champion"]
-alters = ["Detect good", "Channel negative energy"]
-replaces_features = ["aura-of-evil", "smite-good", "touch-of-corruption", "aura-of-cowardice", "plague-bringer", "cruelty", "aura-of-despair", "aura-of-vengeance", "aura-of-sin", "aura-of-depravity", "unholy-champion"]
-alters_features = ["detect-good", "channel-negative-energy"]
+trades = [
+  { replaces = "Aura of evil", feature = "aura-of-evil" },
+  { replaces = "Smite good", feature = "smite-good" },
+  { replaces = "Touch of corruption", feature = "touch-of-corruption" },
+  { replaces = "Aura of cowardice", feature = "aura-of-cowardice" },
+  { replaces = "Plague bringer", feature = "plague-bringer" },
+  { replaces = "Cruelty", feature = "cruelty" },
+  { replaces = "Antipaladin spells", feature = "spells" },
+  { replaces = "Aura of despair", feature = "aura-of-despair" },
+  { replaces = "Aura of vengeance", feature = "aura-of-vengeance" },
+  { replaces = "Aura of sin", feature = "aura-of-sin" },
+  { replaces = "Aura of depravity", feature = "aura-of-depravity" },
+  { replaces = "Unholy champion", feature = "unholy-champion" },
+  { alters = "Detect good", feature = "detect-good" },
+  { alters = "Channel negative energy", feature = "channel-negative-energy" },
+]
 +++
 
 Between the selfless nobility of paladins and the chaotic menace of antipaladins, there exists a

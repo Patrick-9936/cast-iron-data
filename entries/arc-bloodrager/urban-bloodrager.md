@@ -16,10 +16,12 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Blood sanctuary", "Damage reduction"]
-alters = ["Weapon and armor proficiencies", "Bloodrage"]
-replaces_features = ["blood-sanctuary", "damage-reduction"]
-alters_features = ["weapon-and-armor-proficiencies", "bloodrage"]
+trades = [
+  { replaces = "Blood sanctuary", feature = "blood-sanctuary" },
+  { replaces = "Damage reduction", feature = "damage-reduction" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Bloodrage", feature = "bloodrage" },
+]
 +++
 
 Like the [urban barbarian](ref/arc-barbarian/urban-barbarian), the urban bloodrager has learned to

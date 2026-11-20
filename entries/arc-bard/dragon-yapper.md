@@ -16,7 +16,10 @@ page = "128"
 
 [fields]
 kind = "archetype"
-replaces = ["Fascinate", "Dirge of doom"]
+trades = [
+  { replaces = "Fascinate" },
+  { replaces = "Dirge of doom" },
+]
 +++
 
 Kobolds' yammering songs distract opponents in combat, hindering their ability to attack.

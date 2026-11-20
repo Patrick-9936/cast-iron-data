@@ -13,8 +13,10 @@ page = "24"
 [fields]
 kind = "class_option"
 group = "medium-spirit"
-replaces = ["Decisive strike"]
-alters = ["Marshal's order"]
+trades = [
+  { replaces = "Decisive strike" },
+  { alters = "Marshal's order" },
+]
 +++
 
 Not all gods of Ninshabur are forgotten. Prophets of the herogod Namzaruum claim he rests in the

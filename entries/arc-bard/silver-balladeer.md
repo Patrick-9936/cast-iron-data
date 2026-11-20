@@ -16,8 +16,13 @@ page = "115"
 
 [fields]
 kind = "archetype"
-replaces = ["Suggestion", "Inspire greatness", "Mass suggestion", "Well-versed", "The 2nd-level versatile performance"]
-replaces_features = ["well-versed"]
+trades = [
+  { replaces = "Suggestion" },
+  { replaces = "Inspire greatness" },
+  { replaces = "Mass suggestion" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "The 2nd-level versatile performance", feature = "versatile-performance", levels = [2] },
+]
 +++
 
 The bright purity of silver makes beautiful music, and its vibrations are also anathema to unnatural

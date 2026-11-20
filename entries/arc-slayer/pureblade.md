@@ -16,10 +16,13 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Slayer talent received at 2nd level", "Stalker", "Slayer talent received at 8th level"]
-alters = ["Master slayer"]
-replaces_features = ["track", "stalker"]
-alters_features = ["master-slayer"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Slayer talent received at 2nd level" },
+  { replaces = "Stalker", feature = "stalker" },
+  { replaces = "Slayer talent received at 8th level" },
+  { alters = "Master slayer", feature = "master-slayer" },
+]
 +++
 
 First known in Numeria, these aberration hunters have spread to other regions of Golarion, even as

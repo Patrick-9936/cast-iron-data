@@ -16,8 +16,12 @@ page = "118"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "Slayer talent gained at 2nd level", "Slayer talent gained at 6th level", "The advanced slayer talent gained at 10th level"]
-replaces_features = ["weapon-and-armor-proficiencies"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Slayer talent gained at 2nd level", feature = "slayer-talents", levels = [2] },
+  { replaces = "Slayer talent gained at 6th level", feature = "slayer-talents", levels = [6] },
+  { replaces = "The advanced slayer talent gained at 10th level", feature = "advanced-talents", levels = [10] },
+]
 +++
 
 Whether tasked with bringing in wanted criminals or paid to drag debtors back to their loan sharks,

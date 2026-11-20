@@ -13,7 +13,9 @@ page = "10"
 [fields]
 kind = "class_option"
 group = "medium-spirit"
-replaces = ["Trickster's edge"]
+trades = [
+  { replaces = "Trickster's edge" },
+]
 +++
 
 Seeking a place to practice his illegal art, Chelish poisoner Count Ambras Imre settled in

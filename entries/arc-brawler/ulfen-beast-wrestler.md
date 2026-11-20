@@ -16,8 +16,10 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Maneuver training", "AC bonus"]
-replaces_features = ["maneuver-training", "ac-bonus"]
+trades = [
+  { replaces = "Maneuver training", feature = "maneuver-training" },
+  { replaces = "AC bonus", feature = "ac-bonus" },
+]
 +++
 
 For these mighty grapplers, wrestling normal opponents has lost its challenge - they seek greater

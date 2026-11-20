@@ -16,9 +16,11 @@ page = "30"
 
 [fields]
 kind = "archetype"
-replaces = ["Monster lore", "Track"]
-alters = ["Alignment requirements"]
-replaces_features = ["monster-lore", "track"]
+trades = [
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Track", feature = "track" },
+  { alters = "Alignment requirements" },
+]
 +++
 
 Servants of gods who hold oaths to be sacrosanct, oathkeepers formally oversee the creation of

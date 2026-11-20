@@ -16,10 +16,13 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect evil", "Aura of faith", "Holy champion"]
-alters = ["Smite evil", "Aura of justice"]
-replaces_features = ["detect-evil", "aura-of-faith", "holy-champion"]
-alters_features = ["smite-evil", "aura-of-justice"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "Aura of faith", feature = "aura-of-faith" },
+  { replaces = "Holy champion", feature = "holy-champion" },
+  { alters = "Smite evil", feature = "smite-evil" },
+  { alters = "Aura of justice", feature = "aura-of-justice" },
+]
 +++
 
 Torag constantly seeks those who would use the power of creation to threaten or harm others. To this

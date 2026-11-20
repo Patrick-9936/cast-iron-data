@@ -16,10 +16,11 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["Expert training", "Demanding challenge"]
-alters = ["Mount"]
-replaces_features = ["demanding-challenge"]
-alters_features = ["mount"]
+trades = [
+  { replaces = "Expert training" },
+  { replaces = "Demanding challenge", feature = "demanding-challenge" },
+  { alters = "Mount", feature = "mount" },
+]
 +++
 
 Due to the strange terrain, the lack of sunlight, and numerous other hazards, keeping a traditional

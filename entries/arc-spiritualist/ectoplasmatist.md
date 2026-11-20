@@ -16,8 +16,19 @@ page = "108"
 
 [fields]
 kind = "archetype"
-replaces = ["Etheric tether", "phantom", "shared consciousness", "fused consciousness", "spiritual bond", "empowered consciousness", "Bonded manifestation", "phantom recall", "dual bond", "Spiritual interference", "greater spiritual interference"]
-replaces_features = ["etheric-tether", "phantom", "shared-consciousness", "fused-consciousness", "spiritual-bond", "empowered-consciousness", "bonded-manifestation", "phantom-recall", "dual-bond", "spiritual-interference", "greater-spiritual-interference"]
+trades = [
+  { replaces = "Etheric tether", feature = "etheric-tether" },
+  { replaces = "phantom", feature = "phantom" },
+  { replaces = "shared consciousness", feature = "shared-consciousness" },
+  { replaces = "fused consciousness", feature = "fused-consciousness" },
+  { replaces = "spiritual bond", feature = "spiritual-bond" },
+  { replaces = "empowered consciousness", feature = "empowered-consciousness" },
+  { replaces = "Bonded manifestation", feature = "bonded-manifestation" },
+  { replaces = "phantom recall", feature = "phantom-recall" },
+  { replaces = "dual bond", feature = "dual-bond" },
+  { replaces = "Spiritual interference", feature = "spiritual-interference" },
+  { replaces = "greater spiritual interference", feature = "greater-spiritual-interference" },
+]
 +++
 
 Instead of calling upon a phantom from the Ethereal Plane, an ectoplasmatist infuses herself with

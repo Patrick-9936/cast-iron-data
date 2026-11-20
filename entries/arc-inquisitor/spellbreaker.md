@@ -16,8 +16,12 @@ page = "52"
 
 [fields]
 kind = "archetype"
-replaces = ["Monster lore", "Teamwork feats", "Solo tactics", "True judgment"]
-replaces_features = ["monster-lore", "solo-tactics", "true-judgment"]
+trades = [
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Teamwork feats", feature = "teamwork-feat" },
+  { replaces = "Solo tactics", feature = "solo-tactics" },
+  { replaces = "True judgment", feature = "true-judgment" },
+]
 +++
 
 The world is full of dangerous magic, and many recoil in the face of such power. The spellbreaker,

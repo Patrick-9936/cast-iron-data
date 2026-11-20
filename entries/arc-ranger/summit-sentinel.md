@@ -16,10 +16,13 @@ page = "72"
 
 [fields]
 kind = "archetype"
-replaces = ["Combat style feats", "Swift tracker", "Hide in plain sight"]
-alters = ["Favored terrain", "Spells"]
-replaces_features = ["swift-tracker", "hide-in-plain-sight"]
-alters_features = ["favored-terrain", "spells"]
+trades = [
+  { replaces = "Combat style feats", feature = "combat-style-feat" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "Hide in plain sight", feature = "hide-in-plain-sight" },
+  { alters = "Favored terrain", feature = "favored-terrain" },
+  { alters = "Spells", feature = "spells" },
+]
 +++
 
 Some rangers eschew the path of the swift skirmisher and embrace the implacable strength of the

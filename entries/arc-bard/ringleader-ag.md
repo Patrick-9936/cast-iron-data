@@ -16,10 +16,14 @@ page = "33"
 
 [fields]
 kind = "archetype"
-replaces = ["Well-versed", "Versatile performance", "Suggestion", "mass suggestion", "soothing performance"]
-alters = ["Bardic performance"]
-replaces_features = ["well-versed", "versatile-performance"]
-alters_features = ["bardic-performance"]
+trades = [
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Suggestion" },
+  { replaces = "mass suggestion" },
+  { replaces = "soothing performance" },
+  { alters = "Bardic performance", feature = "bardic-performance" },
+]
 +++
 
 The [Aspis Consortium's](ref/rule/aff-profiteers) global operations are too extensive to conduct

@@ -16,8 +16,10 @@ page = "12"
 
 [fields]
 kind = "archetype"
-alters = ["Channel energy", "Casting"]
-alters_features = ["channel-energy"]
+trades = [
+  { alters = "Channel energy", feature = "channel-energy" },
+  { alters = "Casting" },
+]
 +++
 
 Iron priests preach of the messengers from beyond the stars, envoys of the divine brought to

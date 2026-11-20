@@ -16,10 +16,13 @@ page = "34"
 
 [fields]
 kind = "archetype"
-replaces = ["Proficiency with the rapier and whip", "Bardic knowledge", "Lore master", "Dirge of doom"]
-alters = ["Bardic performance"]
-replaces_features = ["bardic-knowledge", "lore-master"]
-alters_features = ["bardic-performance"]
+trades = [
+  { replaces = "Proficiency with the rapier and whip" },
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { replaces = "Dirge of doom" },
+  { alters = "Bardic performance", feature = "bardic-performance" },
+]
 +++
 
 Although Sarenrae is seen mainly as a goddess of healing and redemption in most parts of the Inner

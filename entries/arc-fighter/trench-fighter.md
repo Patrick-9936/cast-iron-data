@@ -16,7 +16,9 @@ page = "67"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor training 1, 2, 3, and 4"]
+trades = [
+  { replaces = "Armor training 1, 2, 3, and 4" },
+]
 +++
 
 Advances in technology have made archaic armors obsolete by the twentieth century, and modern

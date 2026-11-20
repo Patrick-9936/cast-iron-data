@@ -16,10 +16,12 @@ page = "82"
 
 [fields]
 kind = "archetype"
-replaces = ["Seamless guise", "Social talents gained at 3rd, 7th, 11th, 15th, and 19th levels"]
-alters = ["Weapon and armor proficiencies", "Dual identity"]
-replaces_features = ["seamless-guise"]
-alters_features = ["weapon-and-armor-proficiencies", "dual-identity"]
+trades = [
+  { replaces = "Seamless guise", feature = "seamless-guise" },
+  { replaces = "Social talents gained at 3rd, 7th, 11th, 15th, and 19th levels", feature = "social-talent", levels = [3, 7, 11, 15, 19] },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Dual identity", feature = "dual-identity" },
+]
 +++
 
 In the wake of Ileosa's death, some of the surviving [Gray Maidens](ref/rule/aff-scarred-ladies)

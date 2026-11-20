@@ -16,10 +16,14 @@ page = "52"
 
 [fields]
 kind = "archetype"
-replaces = ["Throw anything", "Mutagen", "Bombs", "Poison resistance", "Poison use"]
-alters = ["Alchemy"]
-replaces_features = ["throw-anything", "mutagen", "poison-resistance", "poison-use"]
-alters_features = ["alchemy"]
+trades = [
+  { replaces = "Throw anything", feature = "throw-anything" },
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "Bombs", feature = "bomb" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison use", feature = "poison-use" },
+  { alters = "Alchemy", feature = "alchemy" },
+]
 +++
 
 Mnemostillers extract memories, storing them as a thick vapor called mnemos. They can return

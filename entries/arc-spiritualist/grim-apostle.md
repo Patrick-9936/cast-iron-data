@@ -16,10 +16,12 @@ page = "72"
 
 [fields]
 kind = "archetype"
-replaces = ["The phantom's emotional focus", "Shared consciousness", "fused consciousness"]
-alters = ["Phantom"]
-replaces_features = ["shared-consciousness", "fused-consciousness"]
-alters_features = ["phantom"]
+trades = [
+  { replaces = "The phantom's emotional focus" },
+  { replaces = "Shared consciousness", feature = "shared-consciousness" },
+  { replaces = "fused consciousness", feature = "fused-consciousness" },
+  { alters = "Phantom", feature = "phantom" },
+]
 +++
 
 Some devotees of the Four Horsemen can form spiritual manifestations of the daemonic demigods.

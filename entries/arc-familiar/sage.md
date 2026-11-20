@@ -15,8 +15,11 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "the familiar's ability to share its master's skill ranks"]
-alters = ["The familiar's Intelligence score and natural armor adjustment"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "the familiar's ability to share its master's skill ranks" },
+  { alters = "The familiar's Intelligence score and natural armor adjustment" },
+]
 +++
 
 Sages are masters of useful facts, able to recall them for their masters' benefit, though this leads

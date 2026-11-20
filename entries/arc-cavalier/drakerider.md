@@ -16,10 +16,16 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "tactician", "expert trainer", "banner", "greater tactician", "greater banner", "master tactician"]
-alters = ["Cavalier's charge"]
-replaces_features = ["mount", "tactician", "expert-trainer", "banner", "greater-tactician", "greater-banner", "master-tactician"]
-alters_features = ["cavalier-s-charge"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "tactician", feature = "tactician" },
+  { replaces = "expert trainer", feature = "expert-trainer" },
+  { replaces = "banner", feature = "banner" },
+  { replaces = "greater tactician", feature = "greater-tactician" },
+  { replaces = "greater banner", feature = "greater-banner" },
+  { replaces = "master tactician", feature = "master-tactician" },
+  { alters = "Cavalier's charge", feature = "cavalier-s-charge" },
+]
 +++
 
 While many cavaliers dream of riding a dragon into battle, drakeriders come to learn that the

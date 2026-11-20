@@ -16,8 +16,11 @@ page = "7"
 
 [fields]
 kind = "archetype"
-alters = ["The cleric's armor proficiency", "The cleric's spellcasting", "Channel energy"]
-alters_features = ["channel-energy"]
+trades = [
+  { alters = "The cleric's armor proficiency" },
+  { alters = "The cleric's spellcasting" },
+  { alters = "Channel energy", feature = "channel-energy" },
+]
 +++
 
 Angelfire apostles use the powers of good to avoid violence when possible and cleanse both maladies

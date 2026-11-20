@@ -16,8 +16,16 @@ page = "19"
 
 [fields]
 kind = "archetype"
-replaces = ["Alchemy", "bombs", "extracts", "mutagen", "Throw Anything", "Swift alchemy", "swift poisoning", "instant alchemy"]
-replaces_features = ["alchemy", "extracts", "mutagen", "throw-anything", "swift-alchemy", "swift-poisoning", "instant-alchemy"]
+trades = [
+  { replaces = "Alchemy", feature = "alchemy" },
+  { replaces = "bombs", feature = "bomb" },
+  { replaces = "extracts", feature = "extracts" },
+  { replaces = "mutagen", feature = "mutagen" },
+  { replaces = "Throw Anything", feature = "throw-anything" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { replaces = "swift poisoning", feature = "swift-poisoning" },
+  { replaces = "instant alchemy", feature = "instant-alchemy" },
+]
 +++
 
 Metamorphs eschew traditional alchemy, focusing on internal chemistry and the transfiguration of

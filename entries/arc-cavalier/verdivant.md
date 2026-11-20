@@ -16,10 +16,17 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Expert trainer", "Tactician", "banner", "greater tactician", "greater banner", "master tactician", "bonus feats"]
-alters = ["Mount", "Cavalier's charge"]
-replaces_features = ["expert-trainer", "tactician", "banner", "greater-tactician", "greater-banner", "master-tactician"]
-alters_features = ["mount", "cavalier-s-charge"]
+trades = [
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "Tactician", feature = "tactician" },
+  { replaces = "banner", feature = "banner" },
+  { replaces = "greater tactician", feature = "greater-tactician" },
+  { replaces = "greater banner", feature = "greater-banner" },
+  { replaces = "master tactician", feature = "master-tactician" },
+  { replaces = "bonus feats", feature = "bonus-feat" },
+  { alters = "Mount", feature = "mount" },
+  { alters = "Cavalier's charge", feature = "cavalier-s-charge" },
+]
 +++
 
 Some [vine leshy](ref/race/vine-leshy) spirits are vibrant enough to project this animus beyond

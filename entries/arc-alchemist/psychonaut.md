@@ -16,7 +16,14 @@ page = "19"
 
 [fields]
 kind = "archetype"
-replaces = ["Bombs", "Poison resistance +4", "Poison resistance +6", "Poison immunity", "15th-level bomb damage increase", "17th-level bomb damage increase"]
+trades = [
+  { replaces = "Bombs", feature = "bomb" },
+  { replaces = "Poison resistance +4", feature = "poison-resistance", power = "+4" },
+  { replaces = "Poison resistance +6", feature = "poison-resistance", power = "+6" },
+  { replaces = "Poison immunity" },
+  { replaces = "15th-level bomb damage increase" },
+  { replaces = "17th-level bomb damage increase" },
+]
 +++
 
 A psychonaut uses his knowledge to explore altered states of consciousness and even other planes of

@@ -15,8 +15,14 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "Share spells", "Improved evasion", "Speak with animals of its kind", "Scry on familiar"]
-alters = ["Deliver touch spells"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "Share spells" },
+  { replaces = "Improved evasion" },
+  { replaces = "Speak with animals of its kind" },
+  { replaces = "Scry on familiar" },
+  { alters = "Deliver touch spells" },
+]
 +++
 
 A valet is a consummate personal servant, able to fetch, deliver, and perform for its master's every

@@ -16,8 +16,11 @@ page = "164"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus spells gained at 2nd, 4th, 8th, 12th, 14th, and 16th levels from the oracle's mystery", "7th-level revelation", "Final revelation"]
-replaces_features = ["final-revelation"]
+trades = [
+  { replaces = "The bonus spells gained at 2nd, 4th, 8th, 12th, 14th, and 16th levels from the oracle's mystery" },
+  { replaces = "7th-level revelation", feature = "revelation", levels = [7] },
+  { replaces = "Final revelation", feature = "final-revelation" },
+]
 +++
 
 The shigenjo walks the path of enlightenment and transcendence by seeking oneness with the celestial

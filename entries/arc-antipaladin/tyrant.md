@@ -16,8 +16,11 @@ page = "64"
 
 [fields]
 kind = "archetype"
-alters = ["Code of conduct and associated abilities", "ex-antipaladins", "Fiendish boon"]
-alters_features = ["fiendish-boon"]
+trades = [
+  { alters = "Code of conduct and associated abilities" },
+  { alters = "ex-antipaladins", feature = "sec-ex-antipaladins" },
+  { alters = "Fiendish boon", feature = "fiendish-boon" },
+]
 +++
 
 Evil arises in every form imaginable, not just in hearts full of destruction and chaos. Tyrants are

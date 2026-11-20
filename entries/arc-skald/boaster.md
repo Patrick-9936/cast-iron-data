@@ -16,10 +16,15 @@ page = "84"
 
 [fields]
 kind = "archetype"
-replaces = ["Scribe Scroll", "Uncanny dodge", "Lore master", "Song of the fallen", "Rage power gained at 6th level"]
-alters = ["Song of marching", "Rage powers"]
-replaces_features = ["scribe-scroll", "uncanny-dodge", "lore-master", "song-of-the-fallen"]
-alters_features = ["song-of-marching", "rage-powers"]
+trades = [
+  { replaces = "Scribe Scroll", feature = "scribe-scroll" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { replaces = "Song of the fallen", feature = "song-of-the-fallen" },
+  { replaces = "Rage power gained at 6th level", feature = "rage-powers", levels = [6] },
+  { alters = "Song of marching", feature = "song-of-marching" },
+  { alters = "Rage powers", feature = "rage-powers" },
+]
 +++
 
 Boasters use incredible tales and claims to challenge themselves and their allies to accomplish

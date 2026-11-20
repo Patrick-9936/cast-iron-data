@@ -16,8 +16,9 @@ page = "203"
 
 [fields]
 kind = "archetype"
-replaces = ["Spell recall"]
-replaces_features = ["spell-recall"]
+trades = [
+  { replaces = "Spell recall", feature = "spell-recall" },
+]
 +++
 
 Elemental knights are born with elemental energies surging through their blood and discover the

@@ -16,8 +16,12 @@ page = "75"
 
 [fields]
 kind = "archetype"
-replaces = ["Scribe scroll", "Arcane bond", "Cantrips", "Arcane school"]
-replaces_features = ["scribe-scroll", "arcane-bond", "cantrips", "arcane-school"]
+trades = [
+  { replaces = "Scribe scroll", feature = "scribe-scroll" },
+  { replaces = "Arcane bond", feature = "arcane-bond" },
+  { replaces = "Cantrips", feature = "cantrips" },
+  { replaces = "Arcane school", feature = "arcane-school" },
+]
 +++
 
 The siege mage combines his arcane mastery with a supernatural link to

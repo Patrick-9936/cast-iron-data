@@ -16,10 +16,12 @@ page = "102"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Wild shape"]
-alters = ["Nature bond", "Wild empathy"]
-replaces_features = ["woodland-stride", "wild-shape"]
-alters_features = ["nature-bond", "wild-empathy"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { alters = "Nature bond", feature = "nature-bond" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+]
 +++
 
 A shaman with this totem calls upon the noble eagle, stern and proud, soaring high above the world

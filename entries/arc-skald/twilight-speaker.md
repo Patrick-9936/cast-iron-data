@@ -16,8 +16,16 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Inspired rage", "song of strength", "dirge of doom", "Versatile performance", "well-versed", "Lore master", "Master skald"]
-replaces_features = ["bardic-knowledge", "inspired-rage", "song-of-strength", "dirge-of-doom", "versatile-performance", "well-versed", "lore-master", "master-skald"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Inspired rage", feature = "inspired-rage" },
+  { replaces = "song of strength", feature = "song-of-strength" },
+  { replaces = "dirge of doom", feature = "dirge-of-doom" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "well-versed", feature = "well-versed" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { replaces = "Master skald", feature = "master-skald" },
+]
 +++
 
 From the extraordinarily reclusive Snowcaster elves come the twilight speakers, who consider it a

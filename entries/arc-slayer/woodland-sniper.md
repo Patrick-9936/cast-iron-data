@@ -16,10 +16,13 @@ page = "87"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Stalker", "Swift tracker", "slayer's advance"]
-alters = ["Sneak attack"]
-replaces_features = ["track", "stalker", "swift-tracker", "slayer-s-advance"]
-alters_features = ["sneak-attack"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Stalker", feature = "stalker" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "slayer's advance", feature = "slayer-s-advance" },
+  { alters = "Sneak attack", feature = "sneak-attack" },
+]
 +++
 
 Woodland snipers are guardians of forest and grove, keeping vigil on their borders and hunting

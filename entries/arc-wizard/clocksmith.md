@@ -16,10 +16,12 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["School powers granted by the wizard's arcane school", "Scribe Scroll", "5th-, 10th-, 15th-, and 20th-level bonus feats"]
-alters = ["Arcane bond"]
-replaces_features = ["scribe-scroll"]
-alters_features = ["arcane-bond"]
+trades = [
+  { replaces = "School powers granted by the wizard's arcane school" },
+  { replaces = "Scribe Scroll", feature = "scribe-scroll" },
+  { replaces = "5th-, 10th-, 15th-, and 20th-level bonus feats", feature = "bonus-feats", levels = [5, 10, 15, 20] },
+  { alters = "Arcane bond", feature = "arcane-bond" },
+]
 +++
 
 Clocksmiths are oddities among wizard communities, pursuing the study and creation of clockwork

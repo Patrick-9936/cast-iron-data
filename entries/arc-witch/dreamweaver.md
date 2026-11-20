@@ -16,7 +16,11 @@ page = "185"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd-level hex", "6th-level hex", "10th-level hex"]
+trades = [
+  { replaces = "2nd-level hex", feature = "hex", levels = [2] },
+  { replaces = "6th-level hex", feature = "hex", levels = [6] },
+  { replaces = "10th-level hex", feature = "hex", levels = [10] },
+]
 +++
 
 A changeling dreamweaver draws upon her hag heritage to ply the dream realms in order to touch

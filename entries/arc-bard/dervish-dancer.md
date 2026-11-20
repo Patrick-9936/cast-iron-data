@@ -16,10 +16,19 @@ page = "32"
 
 [fields]
 kind = "archetype"
-replaces = ["Proficiency with the rapier and whip", "Suggestion", "mass suggestion", "Dirge of doom", "Frightening performance", "Bardic knowledge", "lore master", "Versatile performance", "Soothing performance", "Deadly performance"]
-alters = ["Bardic performance"]
-replaces_features = ["bardic-knowledge", "lore-master", "versatile-performance"]
-alters_features = ["bardic-performance"]
+trades = [
+  { replaces = "Proficiency with the rapier and whip" },
+  { replaces = "Suggestion" },
+  { replaces = "mass suggestion" },
+  { replaces = "Dirge of doom" },
+  { replaces = "Frightening performance" },
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "lore master", feature = "lore-master" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Soothing performance" },
+  { replaces = "Deadly performance" },
+  { alters = "Bardic performance", feature = "bardic-performance" },
+]
 +++
 
 Not all bards inspire others with their performances. Dervish dancers enter a near-mystical trance

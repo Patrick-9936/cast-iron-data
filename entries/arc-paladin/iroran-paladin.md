@@ -16,8 +16,18 @@ page = "39"
 
 [fields]
 kind = "archetype"
-replaces = ["Proficiency with medium armor", "heavy armor", "and shields", "Aura of good", "Detect evil", "Smite evil", "Aura of courage", "Channel positive energy", "Divine bond", "Aura of justice"]
-replaces_features = ["aura-of-good", "detect-evil", "smite-evil", "aura-of-courage", "channel-positive-energy", "divine-bond", "aura-of-justice"]
+trades = [
+  { replaces = "Proficiency with medium armor" },
+  { replaces = "heavy armor" },
+  { replaces = "and shields" },
+  { replaces = "Aura of good", feature = "aura-of-good" },
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { replaces = "Aura of courage", feature = "aura-of-courage" },
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+]
 +++
 
 Iroran paladins meditate on self-perfection and train relentlessly, knowing that their example can

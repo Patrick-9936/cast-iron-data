@@ -16,9 +16,12 @@ page = "89"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level hex", "6th-level hex", "10th-level hex"]
-alters = ["Patron spells"]
-alters_features = ["patron-spells"]
+trades = [
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+  { replaces = "6th-level hex", feature = "hex", levels = [6] },
+  { replaces = "10th-level hex", feature = "hex", levels = [10] },
+  { alters = "Patron spells", feature = "patron-spells" },
+]
 +++
 
 Witches who dwell in floodplains or along the banks of predictably dangerous rivers can tap into the

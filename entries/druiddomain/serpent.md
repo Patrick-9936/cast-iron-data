@@ -13,8 +13,9 @@ page = "35"
 [fields]
 kind = "class_option"
 group = "druid-domain"
-replaces = ["Venom immunity"]
-replaces_features = ["venom-immunity"]
+trades = [
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+]
 +++
 
 ## Serpent Domain

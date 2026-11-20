@@ -16,10 +16,13 @@ page = "5"
 
 [fields]
 kind = "archetype"
-replaces = ["Shifter aspect", "Chimeric aspect", "Greater chimeric aspect", "Final aspect"]
-alters = ["Wild shape"]
-replaces_features = ["shifter-aspect", "chimeric-aspect", "greater-chimeric-aspect", "final-aspect"]
-alters_features = ["wild-shape"]
+trades = [
+  { replaces = "Shifter aspect", feature = "shifter-aspect" },
+  { replaces = "Chimeric aspect", feature = "chimeric-aspect" },
+  { replaces = "Greater chimeric aspect", feature = "greater-chimeric-aspect" },
+  { replaces = "Final aspect", feature = "final-aspect" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Dragonblood shifters draw upon the inherent strength and majesty of the true dragons, gaining a

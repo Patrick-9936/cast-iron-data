@@ -16,9 +16,11 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Rage power gained at 3rd level"]
-alters = ["Versatile performance", "Rage powers gained at 6th and 9th levels"]
-alters_features = ["versatile-performance"]
+trades = [
+  { replaces = "Rage power gained at 3rd level", feature = "rage-powers", levels = [3] },
+  { alters = "Versatile performance", feature = "versatile-performance" },
+  { alters = "Rage powers gained at 6th and 9th levels", feature = "rage-powers", levels = [6, 9] },
+]
 +++
 
 While the twisted power of the demon-worshiping Bekyar's skalds is great, it comes at a terrible

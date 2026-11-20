@@ -16,8 +16,11 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Smite evil", "Aura of justice", "Holy champion"]
-replaces_features = ["smite-evil", "aura-of-justice", "holy-champion"]
+trades = [
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { replaces = "Holy champion", feature = "holy-champion" },
+]
 +++
 
 Invigorators devote themselves to keeping their allies bodily whole. These selfless paladins believe

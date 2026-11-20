@@ -16,8 +16,12 @@ page = "115"
 
 [fields]
 kind = "archetype"
-replaces = ["Scribe Scroll", "The first daily use of spell kenning gained at 5th level", "Lore master", "The second and third daily uses of spell kenning gained at 11th and 17th levels"]
-replaces_features = ["scribe-scroll", "lore-master"]
+trades = [
+  { replaces = "Scribe Scroll", feature = "scribe-scroll" },
+  { replaces = "The first daily use of spell kenning gained at 5th level" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { replaces = "The second and third daily uses of spell kenning gained at 11th and 17th levels" },
+]
 +++
 
 Even the loudest voice can often times be drowned out by the din of battle. Whether with the

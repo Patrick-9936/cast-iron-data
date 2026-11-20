@@ -16,8 +16,13 @@ page = "38"
 
 [fields]
 kind = "archetype"
-replaces = ["Challenge", "Cavalier's charge", "Mighty charge", "Demanding challenge", "Supreme charge"]
-replaces_features = ["challenge", "cavalier-s-charge", "mighty-charge", "demanding-challenge", "supreme-charge"]
+trades = [
+  { replaces = "Challenge", feature = "challenge" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "Demanding challenge", feature = "demanding-challenge" },
+  { replaces = "Supreme charge", feature = "supreme-charge" },
+]
 +++
 
 Those who study the perfection of strategy and tactics know that picking the battlefield can grant

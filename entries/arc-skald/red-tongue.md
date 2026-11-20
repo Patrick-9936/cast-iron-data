@@ -16,10 +16,12 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Versatile performance selections normally gained at 7th, 12th, and 17th levels"]
-alters = ["Raging song", "versatile performance"]
-replaces_features = ["bardic-knowledge"]
-alters_features = ["raging-song", "versatile-performance"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Versatile performance selections normally gained at 7th, 12th, and 17th levels" },
+  { alters = "Raging song", feature = "raging-song" },
+  { alters = "versatile performance", feature = "versatile-performance" },
+]
 +++
 
 In the young tengu nation of Kwanlai, politicos argue endlessly over how best to rule and guide a

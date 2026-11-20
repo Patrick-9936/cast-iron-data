@@ -19,8 +19,10 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["1st- and 10th-level hexes"]
-alters = ["Patron"]
+trades = [
+  { replaces = "1st- and 10th-level hexes", feature = "hex", levels = [1, 10] },
+  { alters = "Patron" },
+]
 +++
 
 Some witches dedicate their lives to the mastery of herb lore. Herb witches brew foul-tasting

@@ -16,10 +16,18 @@ page = "65"
 
 [fields]
 kind = "archetype"
-replaces = ["Flurry of blows", "stunning fist", "quivering palm", "Bonus feat gained at 1st level", "Evasion", "Bonus feats gained at 2nd, 6th, 10th, 14th, and 18th levels", "Slow fall", "Improved evasion", "Abundant step"]
-alters = ["Unarmed strike"]
-replaces_features = ["flurry-of-blows", "stunning-fist", "quivering-palm", "evasion", "slow-fall", "improved-evasion", "abundant-step"]
-alters_features = ["unarmed-strike"]
+trades = [
+  { replaces = "Flurry of blows", feature = "flurry-of-blows" },
+  { replaces = "stunning fist", feature = "stunning-fist" },
+  { replaces = "quivering palm", feature = "quivering-palm" },
+  { replaces = "Bonus feat gained at 1st level", feature = "bonus-feat", levels = [1] },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Bonus feats gained at 2nd, 6th, 10th, 14th, and 18th levels", feature = "bonus-feat", levels = [2, 6, 10, 14, 18] },
+  { replaces = "Slow fall", feature = "slow-fall" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { alters = "Unarmed strike", feature = "unarmed-strike" },
+]
 +++
 
 Water dancers derive their martial training from ancient nereid traditions jealously guarded by

@@ -16,8 +16,15 @@ page = "86"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "fast tracker", "Studied target", "Stalker", "slayer talent gained at 4th level", "Slayer talent gained at 8th level", "Master slayer"]
-replaces_features = ["track", "studied-target", "stalker", "master-slayer"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "fast tracker" },
+  { replaces = "Studied target", feature = "studied-target" },
+  { replaces = "Stalker", feature = "stalker" },
+  { replaces = "slayer talent gained at 4th level", feature = "slayer-talents", levels = [4] },
+  { replaces = "Slayer talent gained at 8th level", feature = "slayer-talents", levels = [8] },
+  { replaces = "Master slayer", feature = "master-slayer" },
+]
 +++
 
 Mounted harriers, saboteurs, and skirmishers, dune riders can disrupt even the most organized

@@ -19,9 +19,15 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Mutagen, 2nd-level discovery", "Poison resistance", "poison use", "poison immunity", "The discovery gained at 4th level", "Persistent mutagen"]
-alters = ["Bombs"]
-replaces_features = ["mutagen", "poison-resistance", "poison-use", "persistent-mutagen"]
+trades = [
+  { replaces = "Mutagen, 2nd-level discovery" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "poison use", feature = "poison-use" },
+  { replaces = "poison immunity" },
+  { replaces = "The discovery gained at 4th level", feature = "discovery", levels = [4] },
+  { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
+  { alters = "Bombs", feature = "bomb" },
+]
 +++
 
 A horticulturist spends his time cultivating plants and plant creatures, allowing him to experiment

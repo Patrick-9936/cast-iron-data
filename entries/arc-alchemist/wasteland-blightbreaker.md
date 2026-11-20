@@ -16,8 +16,12 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison resistance +2", "Swift poisoning", "Poison resistance +6", "the discovery gained at 8th level"]
-replaces_features = ["swift-poisoning"]
+trades = [
+  { replaces = "Poison resistance +2", feature = "poison-resistance", power = "+2" },
+  { replaces = "Swift poisoning", feature = "swift-poisoning" },
+  { replaces = "Poison resistance +6", feature = "poison-resistance", power = "+6" },
+  { replaces = "the discovery gained at 8th level", feature = "discovery", levels = [8] },
+]
 +++
 
 The deleterious effects of the weird hazards of the Mana Wastes require special skill to remedy.

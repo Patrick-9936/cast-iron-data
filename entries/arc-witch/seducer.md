@@ -16,8 +16,11 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["6th-level hex", "8th-level hex"]
-alters = ["1st-level hex"]
+trades = [
+  { replaces = "6th-level hex", feature = "hex", levels = [6] },
+  { replaces = "8th-level hex", feature = "hex", levels = [8] },
+  { alters = "1st-level hex", feature = "hex", levels = [1] },
+]
 +++
 
 These charismatic witches, often devotees of the Green Mother, rely on their otherworldly charms to

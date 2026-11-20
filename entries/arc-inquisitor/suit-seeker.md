@@ -16,10 +16,13 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect alignment", "True judgment"]
-alters = ["Judgment", "second judgment", "third judgment"]
-replaces_features = ["detect-alignment", "true-judgment"]
-alters_features = ["judgment", "second-judgment", "third-judgment"]
+trades = [
+  { replaces = "Detect alignment", feature = "detect-alignment" },
+  { replaces = "True judgment", feature = "true-judgment" },
+  { alters = "Judgment", feature = "judgment" },
+  { alters = "second judgment", feature = "second-judgment" },
+  { alters = "third judgment", feature = "third-judgment" },
+]
 +++
 
 Though surrounded by meaning and tradition revered by most harrowers, the harrow is a tool that

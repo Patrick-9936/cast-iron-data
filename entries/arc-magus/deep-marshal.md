@@ -16,9 +16,16 @@ page = "28"
 
 [fields]
 kind = "archetype"
-replaces = ["Magus arcana gained at 3rd level"]
-alters = ["Armor proficiencies", "medium armor", "heavy armor", "Spellcasting", "Arcane pool", "spell combat", "spellstrike"]
-alters_features = ["medium-armor", "heavy-armor", "arcane-pool", "spell-combat", "spellstrike"]
+trades = [
+  { replaces = "Magus arcana gained at 3rd level", feature = "magus-arcana", levels = [3] },
+  { alters = "Armor proficiencies" },
+  { alters = "medium armor", feature = "medium-armor" },
+  { alters = "heavy armor", feature = "heavy-armor" },
+  { alters = "Spellcasting" },
+  { alters = "Arcane pool", feature = "arcane-pool" },
+  { alters = "spell combat", feature = "spell-combat" },
+  { alters = "spellstrike", feature = "spellstrike" },
+]
 +++
 
 According to dwarven legend, the first deep marshals were handpicked by King Taargick himself to

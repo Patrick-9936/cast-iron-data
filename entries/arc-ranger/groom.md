@@ -16,8 +16,11 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Endurance", "1st favored terrain"]
-replaces_features = ["track", "endurance"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Endurance", feature = "endurance" },
+  { replaces = "1st favored terrain" },
+]
 +++
 
 The groom attends to the needs of the party's mounts and beasts of burden during their adventures,

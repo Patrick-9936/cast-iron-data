@@ -16,10 +16,14 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["Bond senses", "Shield ally", "Greater shield ally", "Transposition"]
-alters = ["Eidolon", "Summon monster"]
-replaces_features = ["bond-senses", "shield-ally", "greater-shield-ally", "transposition"]
-alters_features = ["eidolon"]
+trades = [
+  { replaces = "Bond senses", feature = "bond-senses" },
+  { replaces = "Shield ally", feature = "shield-ally" },
+  { replaces = "Greater shield ally", feature = "greater-shield-ally" },
+  { replaces = "Transposition", feature = "transposition" },
+  { alters = "Eidolon", feature = "eidolon" },
+  { alters = "Summon monster" },
+]
 +++
 
 Some summoners can't abide the cruelty of devils, or simply can't outwit them, but must appear to do

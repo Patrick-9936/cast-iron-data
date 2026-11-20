@@ -16,10 +16,15 @@ page = "104"
 
 [fields]
 kind = "archetype"
-replaces = ["Psychic discipline", "discipline powers", "1st-level phrenic amplification", "Discipline spells", "15th-level phrenic amplification", "Remade self"]
-alters = ["Phrenic pool"]
-replaces_features = ["psychic-discipline", "remade-self"]
-alters_features = ["phrenic-pool"]
+trades = [
+  { replaces = "Psychic discipline", feature = "psychic-discipline" },
+  { replaces = "discipline powers" },
+  { replaces = "1st-level phrenic amplification", feature = "phrenic-amplifications", levels = [1] },
+  { replaces = "Discipline spells" },
+  { replaces = "15th-level phrenic amplification", feature = "phrenic-amplifications", levels = [15] },
+  { replaces = "Remade self", feature = "remade-self" },
+  { alters = "Phrenic pool", feature = "phrenic-pool" },
+]
 +++
 
 Formless adepts master their psychic powers to unshackle themselves from the confines of the flesh

@@ -16,8 +16,13 @@ page = "116"
 
 [fields]
 kind = "archetype"
-replaces = ["Brew Potion", "Poison resistance", "Poison use", "Swift poisoning", "Poison immunity"]
-replaces_features = ["brew-potion", "poison-resistance", "poison-use", "swift-poisoning"]
+trades = [
+  { replaces = "Brew Potion", feature = "brew-potion" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "Swift poisoning", feature = "swift-poisoning" },
+  { replaces = "Poison immunity" },
+]
 +++
 
 Grenadiers train to exercise their talents in the thick of battle, even when not under the influence

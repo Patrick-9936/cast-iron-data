@@ -13,7 +13,10 @@ relations = [
 
 [fields]
 kind = "archetype"
-replaces = ["Inspire competence", "Suggestion"]
+trades = [
+  { replaces = "Inspire competence" },
+  { replaces = "Suggestion" },
+]
 +++
 
 **Source** Ultimate Magic pg. 27, errata

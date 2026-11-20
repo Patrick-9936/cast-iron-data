@@ -16,10 +16,13 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Shared consciousness", "fused consciousness", "Spiritual interference", "greater spiritual interference"]
-alters = ["Phantom"]
-replaces_features = ["shared-consciousness", "fused-consciousness", "spiritual-interference", "greater-spiritual-interference"]
-alters_features = ["phantom"]
+trades = [
+  { replaces = "Shared consciousness", feature = "shared-consciousness" },
+  { replaces = "fused consciousness", feature = "fused-consciousness" },
+  { replaces = "Spiritual interference", feature = "spiritual-interference" },
+  { replaces = "greater spiritual interference", feature = "greater-spiritual-interference" },
+  { alters = "Phantom", feature = "phantom" },
+]
 +++
 
 [Hags](ref/family/hag) - those of flesh and blood, at any rate - die like any other mortals, and

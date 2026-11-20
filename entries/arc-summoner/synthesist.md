@@ -16,8 +16,17 @@ page = "81"
 
 [fields]
 kind = "archetype"
-replaces = ["Eidolon", "bond senses", "life bond", "Life link", "Shield ally", "Maker's call", "transposition", "Greater shield ally", "Merge forms"]
-replaces_features = ["eidolon", "bond-senses", "life-bond", "life-link", "shield-ally", "maker-s-call", "transposition", "greater-shield-ally", "merge-forms"]
+trades = [
+  { replaces = "Eidolon", feature = "eidolon" },
+  { replaces = "bond senses", feature = "bond-senses" },
+  { replaces = "life bond", feature = "life-bond" },
+  { replaces = "Life link", feature = "life-link" },
+  { replaces = "Shield ally", feature = "shield-ally" },
+  { replaces = "Maker's call", feature = "maker-s-call" },
+  { replaces = "transposition", feature = "transposition" },
+  { replaces = "Greater shield ally", feature = "greater-shield-ally" },
+  { replaces = "Merge forms", feature = "merge-forms" },
+]
 +++
 
 Rather than summon an eidolon to serve by his side, the synthesist fuses his eidolon's essence to

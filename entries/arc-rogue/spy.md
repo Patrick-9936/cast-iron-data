@@ -16,8 +16,10 @@ page = "135"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense"]
-replaces_features = ["trapfinding", "trap-sense"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+]
 +++
 
 The best spies are like chameleons, but not only can they change their appearances to fit the

@@ -16,10 +16,15 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Throw Anything", "Bombs", "poison use", "poison resistance", "poison immunity"]
-alters = ["Alchemy", "the alchemist's key ability score"]
-replaces_features = ["throw-anything", "poison-use", "poison-resistance"]
-alters_features = ["alchemy"]
+trades = [
+  { replaces = "Throw Anything", feature = "throw-anything" },
+  { replaces = "Bombs", feature = "bomb" },
+  { replaces = "poison use", feature = "poison-use" },
+  { replaces = "poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity" },
+  { alters = "Alchemy", feature = "alchemy" },
+  { alters = "the alchemist's key ability score" },
+]
 +++
 
 Vine leshys who study the physical and spiritual composition of their own bodies have discovered a

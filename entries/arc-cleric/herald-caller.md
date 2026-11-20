@@ -16,8 +16,11 @@ page = "7"
 
 [fields]
 kind = "archetype"
-alters = ["Class skills", "Domains", "armor proficiencies"]
-alters_features = ["domains"]
+trades = [
+  { alters = "Class skills" },
+  { alters = "Domains", feature = "domains" },
+  { alters = "armor proficiencies" },
+]
 +++
 
 Unlike warpriests or paladins, who charge headlong into battle in the name of their patron deities,

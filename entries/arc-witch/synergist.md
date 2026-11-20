@@ -16,7 +16,9 @@ page = "9"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-, 8th-, and 14th-level hexes"]
+trades = [
+  { replaces = "1st-, 8th-, and 14th-level hexes", feature = "hex", levels = [1, 8, 14] },
+]
 +++
 
 Synergists gain the ability to combine their forms with their familiars' in order to create

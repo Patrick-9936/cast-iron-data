@@ -16,9 +16,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Inspire courage", "Dirge of doom", "Well-versed"]
-alters = ["Spell list"]
-replaces_features = ["bardic-knowledge", "well-versed"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Inspire courage" },
+  { replaces = "Dirge of doom" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { alters = "Spell list" },
+]
 +++
 
 Most cultures tell stories of people stolen away by the fey, only to return years later, forever

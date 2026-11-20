@@ -16,9 +16,15 @@ page = "119"
 
 [fields]
 kind = "archetype"
-replaces = ["Judgment", "Domain", "bane", "greater bane", "second judgment", "third judgment"]
-alters = ["Spellcasting"]
-replaces_features = ["judgment", "domain", "bane", "greater-bane", "second-judgment", "third-judgment"]
+trades = [
+  { replaces = "Judgment", feature = "judgment" },
+  { replaces = "Domain", feature = "domain" },
+  { replaces = "bane", feature = "bane" },
+  { replaces = "greater bane", feature = "greater-bane" },
+  { replaces = "second judgment", feature = "second-judgment" },
+  { replaces = "third judgment", feature = "third-judgment" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Some inquisitors specialize in the use and recovery of long-lost relics of their faiths, drawing

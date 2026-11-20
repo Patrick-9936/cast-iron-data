@@ -16,9 +16,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level hex", "All 2nd-level and higher hexes", "major hex", "grand hex"]
-alters = ["Familiar"]
-replaces_features = ["major-hex", "grand-hex"]
+trades = [
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+  { replaces = "All 2nd-level and higher hexes" },
+  { replaces = "major hex", feature = "major-hex" },
+  { replaces = "grand hex", feature = "grand-hex" },
+  { alters = "Familiar" },
+]
 +++
 
 Although most witches are guided to subtle curses and debilitating hexes by their mysterious

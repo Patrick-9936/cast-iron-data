@@ -16,8 +16,13 @@ page = "75"
 
 [fields]
 kind = "archetype"
-replaces = ["Favored enemy", "Swift tracker", "Quarry", "Improved quarry", "Master hunter"]
-replaces_features = ["favored-enemy", "swift-tracker", "quarry", "improved-quarry", "master-hunter"]
+trades = [
+  { replaces = "Favored enemy", feature = "favored-enemy" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "Quarry", feature = "quarry" },
+  { replaces = "Improved quarry", feature = "improved-quarry" },
+  { replaces = "Master hunter", feature = "master-hunter" },
+]
 +++
 
 Hailing from primitive roots in the wild, some rangers venture to more civilized lands and learn

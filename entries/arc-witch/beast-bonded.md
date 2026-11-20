@@ -16,7 +16,11 @@ page = "83"
 
 [fields]
 kind = "archetype"
-replaces = ["4th-level hex", "8th-level hex", "Major hex at 10th-level"]
+trades = [
+  { replaces = "4th-level hex", feature = "hex", levels = [4] },
+  { replaces = "8th-level hex", feature = "hex", levels = [8] },
+  { replaces = "Major hex at 10th-level", feature = "major-hex", levels = [10] },
+]
 +++
 
 While all witches are intimately tied to their familiars, a beast-bonded witch's craft focuses

@@ -16,10 +16,13 @@ page = "101"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "trap sense", "Swift alchemy", "Investigator talent gained at 9th level"]
-alters = ["Inspiration"]
-replaces_features = ["trapfinding", "trap-sense", "swift-alchemy"]
-alters_features = ["inspiration"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "trap sense", feature = "trap-sense" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { replaces = "Investigator talent gained at 9th level", feature = "investigator-talent", levels = [9] },
+  { alters = "Inspiration", feature = "inspiration" },
+]
 +++
 
 Although some investigators use their honed senses and cunning insight for personal gain, no one

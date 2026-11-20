@@ -12,7 +12,11 @@ page = "188"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "Improved Evasion", "The 4th- or 7th-level ability score advancement"]
+trades = [
+  { replaces = "Evasion" },
+  { replaces = "Improved Evasion" },
+  { replaces = "The 4th- or 7th-level ability score advancement" },
+]
 +++
 
 Precocious companions are able to learn far more tricks than other companions; this ability to learn

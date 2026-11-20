@@ -16,10 +16,11 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Touch treatment"]
-alters = ["Mesmerist tricks", "manifold tricks"]
-replaces_features = ["touch-treatment"]
-alters_features = ["mesmerist-tricks", "manifold-tricks"]
+trades = [
+  { replaces = "Touch treatment", feature = "touch-treatment" },
+  { alters = "Mesmerist tricks", feature = "mesmerist-tricks" },
+  { alters = "manifold tricks", feature = "manifold-tricks" },
+]
 +++
 
 Lirgeni astrologists would divine their futures by consulting star charts, but some had no talent

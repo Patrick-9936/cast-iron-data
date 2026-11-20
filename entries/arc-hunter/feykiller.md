@@ -16,10 +16,13 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "speak with master", "Improved empathic link", "One with the wild"]
-alters = ["Animal focus"]
-replaces_features = ["wild-empathy", "speak-with-master", "improved-empathic-link", "one-with-the-wild"]
-alters_features = ["animal-focus"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "speak with master", feature = "speak-with-master" },
+  { replaces = "Improved empathic link", feature = "improved-empathic-link" },
+  { replaces = "One with the wild", feature = "one-with-the-wild" },
+  { alters = "Animal focus", feature = "animal-focus" },
+]
 +++
 
 Some hunters in fey-plagued regions are dedicated to tracking down and eradicating these threats.

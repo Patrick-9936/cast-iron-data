@@ -16,10 +16,18 @@ page = "54"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Poison resistance", "poison immunity", "Poison lore", "Trap sense", "Swift alchemy", "The 7th-level investigator talent", "The 13th-level investigator talent"]
-alters = ["Studied combat", "Studied strike"]
-replaces_features = ["trapfinding", "poison-resistance", "poison-lore", "trap-sense", "swift-alchemy"]
-alters_features = ["studied-combat", "studied-strike"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity" },
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { replaces = "The 7th-level investigator talent", feature = "investigator-talent", levels = [7] },
+  { replaces = "The 13th-level investigator talent", feature = "investigator-talent", levels = [13] },
+  { alters = "Studied combat", feature = "studied-combat" },
+  { alters = "Studied strike", feature = "studied-strike" },
+]
 +++
 
 Cult hunters seek out heretical secret societies, purging their ideological taint and banishing

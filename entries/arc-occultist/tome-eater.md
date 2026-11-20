@@ -16,10 +16,18 @@ page = "102"
 
 [fields]
 kind = "archetype"
-replaces = ["Shift focus, 6th-level implement", "magic circles", "outside contact", "binding circles", "fast circles", "Aura sight"]
-alters = ["Implements", "mental focus", "spellcasting", "implement mastery"]
-replaces_features = ["shift-focus", "magic-circles", "outside-contact", "binding-circles", "fast-circles", "aura-sight"]
-alters_features = ["implements", "mental-focus", "implement-mastery"]
+trades = [
+  { replaces = "Shift focus, 6th-level implement" },
+  { replaces = "magic circles", feature = "magic-circles" },
+  { replaces = "outside contact", feature = "outside-contact" },
+  { replaces = "binding circles", feature = "binding-circles" },
+  { replaces = "fast circles", feature = "fast-circles" },
+  { replaces = "Aura sight", feature = "aura-sight" },
+  { alters = "Implements", feature = "implements" },
+  { alters = "mental focus", feature = "mental-focus" },
+  { alters = "spellcasting" },
+  { alters = "implement mastery", feature = "implement-mastery" },
+]
 +++
 
 Tome eaters have learned how to tap into the latent psychic energy of the written word by physically

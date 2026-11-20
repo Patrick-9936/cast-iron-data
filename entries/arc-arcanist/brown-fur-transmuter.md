@@ -16,8 +16,11 @@ page = "77"
 
 [fields]
 kind = "archetype"
-replaces = ["The arcanist exploit gained at 3rd level", "The arcanist exploit gained at 9th level", "Magical supremacy"]
-replaces_features = ["magical-supremacy"]
+trades = [
+  { replaces = "The arcanist exploit gained at 3rd level", feature = "arcanist-exploits", levels = [3] },
+  { replaces = "The arcanist exploit gained at 9th level", feature = "arcanist-exploits", levels = [9] },
+  { replaces = "Magical supremacy", feature = "magical-supremacy" },
+]
 +++
 
 Frequently called "brown-furs," these transmutation-focused arcanists are known for transforming

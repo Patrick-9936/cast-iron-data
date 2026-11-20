@@ -16,8 +16,15 @@ page = "40"
 
 [fields]
 kind = "archetype"
-replaces = ["Inspire courage", "Suggestion", "Dirge of doom", "Inspire heroics", "Deadly performance"]
-alters = ["Armor and weapon proficiencies", "Spellcasting"]
+trades = [
+  { replaces = "Inspire courage" },
+  { replaces = "Suggestion" },
+  { replaces = "Dirge of doom" },
+  { replaces = "Inspire heroics" },
+  { replaces = "Deadly performance" },
+  { alters = "Armor and weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Spellcasting" },
+]
 +++
 
 By tapping into the world's natural music, specialized bards known as filidhs are able to see not

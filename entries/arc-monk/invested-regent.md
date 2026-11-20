@@ -16,7 +16,10 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus feat gained at 1st level", "Bonus feat the invested regent gives up for the vested power"]
+trades = [
+  { replaces = "Bonus feat gained at 1st level", feature = "bonus-feat", levels = [1] },
+  { replaces = "Bonus feat the invested regent gives up for the vested power" },
+]
 +++
 
 The invested regent has been handpicked by inscrutable divine forces to command others - either at

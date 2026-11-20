@@ -16,9 +16,11 @@ page = "28"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect evil", "3rd-, 9th-, and 15th-level mercies"]
-alters = ["Skill ranks per level"]
-replaces_features = ["detect-evil"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "3rd-, 9th-, and 15th-level mercies", feature = "mercy", levels = [3, 9, 15] },
+  { alters = "Skill ranks per level" },
+]
 +++
 
 Servants of gods who revere wealth, knights of coins promote fair trade and stable commerce between

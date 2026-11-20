@@ -19,8 +19,14 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Inspire competence", "Suggestion", "mass suggestion", "Dirge of doom", "Frightening tune"]
-replaces_features = ["bardic-knowledge"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Inspire competence" },
+  { replaces = "Suggestion" },
+  { replaces = "mass suggestion" },
+  { replaces = "Dirge of doom" },
+  { replaces = "Frightening tune" },
+]
 +++
 
 Thundercallers bear the knowledge of the ancients, wielding it like a weapon to protect the land for

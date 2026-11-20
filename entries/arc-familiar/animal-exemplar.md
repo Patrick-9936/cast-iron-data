@@ -12,8 +12,12 @@ page = "210"
 
 [fields]
 kind = "archetype"
-replaces = ["Deliver touch spells", "spell resistance", "scry on familiar"]
-alters = ["Speak with animals of its kind"]
+trades = [
+  { replaces = "Deliver touch spells" },
+  { replaces = "spell resistance" },
+  { replaces = "scry on familiar" },
+  { alters = "Speak with animals of its kind" },
+]
 +++
 
 An animal exemplar is a paragon of its species, able to command the loyalty of others of its kind.

@@ -16,9 +16,14 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Consummate liar", "mesmerist trick gained at 2nd level", "manifold tricks", "Touch treatment", "rule minds"]
-alters = ["Spellcasting"]
-replaces_features = ["consummate-liar", "manifold-tricks", "touch-treatment", "rule-minds"]
+trades = [
+  { replaces = "Consummate liar", feature = "consummate-liar" },
+  { replaces = "mesmerist trick gained at 2nd level", feature = "mesmerist-tricks", levels = [2] },
+  { replaces = "manifold tricks", feature = "manifold-tricks" },
+  { replaces = "Touch treatment", feature = "touch-treatment" },
+  { replaces = "rule minds", feature = "rule-minds" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Rather than waste time limiting himself to ruling minds, a material manipulator forces his whims

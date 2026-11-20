@@ -16,8 +16,13 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonded senses", "Spiritual interference", "greater spiritual interference", "See invisibility", "Spiritual bond"]
-replaces_features = ["bonded-senses", "spiritual-interference", "greater-spiritual-interference", "see-invisibility", "spiritual-bond"]
+trades = [
+  { replaces = "Bonded senses", feature = "bonded-senses" },
+  { replaces = "Spiritual interference", feature = "spiritual-interference" },
+  { replaces = "greater spiritual interference", feature = "greater-spiritual-interference" },
+  { replaces = "See invisibility", feature = "see-invisibility" },
+  { replaces = "Spiritual bond", feature = "spiritual-bond" },
+]
 +++
 
 Ushers of lost souls are spiritualists who focus on bringing the souls of the dead to their final

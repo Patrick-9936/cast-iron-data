@@ -16,10 +16,13 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Soothing performance", "versatile performance", "Well-versed", "Lore master"]
-alters = ["Bardic performance"]
-replaces_features = ["versatile-performance", "well-versed", "lore-master"]
-alters_features = ["bardic-performance"]
+trades = [
+  { replaces = "Soothing performance" },
+  { replaces = "versatile performance", feature = "versatile-performance" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { alters = "Bardic performance", feature = "bardic-performance" },
+]
 +++
 
 It isn't uncommon for a bard to, on occasion, sing mournful tunes or craft elegies that depict the

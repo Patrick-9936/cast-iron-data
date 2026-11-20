@@ -16,8 +16,13 @@ page = "105"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "Weapon training 1, 2, 3, and 4", "Armor training 3", "Armor training 4", "Weapon mastery"]
-replaces_features = ["bravery", "weapon-mastery"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Weapon training 1, 2, 3, and 4" },
+  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
+  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 Where some fighters focus on strength and raw power, the mobile fighter relies on swiftness and

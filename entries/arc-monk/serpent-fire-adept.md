@@ -16,8 +16,16 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning fist", "bonus feat gained at 1st level", "Bonus feat gained at 2nd level", "Slow fall", "high jump", "Bonus feat gained at 6th level", "Wholeness of body", "Bonus feats gained at 10th, 14th, and 18th level"]
-replaces_features = ["stunning-fist", "slow-fall", "high-jump", "wholeness-of-body"]
+trades = [
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "bonus feat gained at 1st level", feature = "bonus-feat", levels = [1] },
+  { replaces = "Bonus feat gained at 2nd level", feature = "bonus-feat", levels = [2] },
+  { replaces = "Slow fall", feature = "slow-fall" },
+  { replaces = "high jump", feature = "high-jump" },
+  { replaces = "Bonus feat gained at 6th level", feature = "bonus-feat", levels = [6] },
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "Bonus feats gained at 10th, 14th, and 18th level", feature = "bonus-feat", levels = [10, 14, 18] },
+]
 +++
 
 A serpent-fire adept embraces the secrets of her chakras and mastery of their energetic flow.

@@ -12,7 +12,12 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "Speak with master", "speak with animals of its kind", "Spell resistance"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "Speak with master" },
+  { replaces = "speak with animals of its kind" },
+  { replaces = "Spell resistance" },
+]
 +++
 
 A decoy misdirects its master's enemies, allowing the master to strike by surprise.

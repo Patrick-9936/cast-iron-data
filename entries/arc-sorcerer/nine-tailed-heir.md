@@ -16,7 +16,9 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Bloodline spell"]
+trades = [
+  { replaces = "Bloodline spell" },
+]
 +++
 
 Tian stories often tell of kitsune with multiple tails, but not many realize that fewer than one

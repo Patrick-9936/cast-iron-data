@@ -16,10 +16,12 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane school", "bonus school spell slots", "10th-level bonus feat"]
-alters = ["Arcane bond"]
-replaces_features = ["arcane-school"]
-alters_features = ["arcane-bond"]
+trades = [
+  { replaces = "Arcane school", feature = "arcane-school" },
+  { replaces = "bonus school spell slots" },
+  { replaces = "10th-level bonus feat", feature = "bonus-feats", levels = [10] },
+  { alters = "Arcane bond", feature = "arcane-bond" },
+]
 +++
 
 Sword binders follow a tradition of martial wizards who often worked with the Church of Aroden and

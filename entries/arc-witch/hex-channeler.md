@@ -16,7 +16,9 @@ page = "132"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd-level hex"]
+trades = [
+  { replaces = "2nd-level hex", feature = "hex", levels = [2] },
+]
 +++
 
 A hex channeler is a witch who devotes herself to either life - healing the wounded and destroying

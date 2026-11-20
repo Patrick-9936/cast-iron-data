@@ -16,7 +16,9 @@ page = "35"
 
 [fields]
 kind = "archetype"
-replaces = ["Summon monster"]
+trades = [
+  { replaces = "Summon monster" },
+]
 +++
 
 Most summoners have a close connection to creatures from the farthest reaches of the planes. A few

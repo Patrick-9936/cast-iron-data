@@ -16,10 +16,12 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["Resolve", "greater resolve", "true resolve"]
-alters = ["Honorable stand"]
-replaces_features = ["resolve", "greater-resolve", "true-resolve"]
-alters_features = ["honorable-stand"]
+trades = [
+  { replaces = "Resolve", feature = "resolve" },
+  { replaces = "greater resolve", feature = "greater-resolve" },
+  { replaces = "true resolve", feature = "true-resolve" },
+  { alters = "Honorable stand", feature = "honorable-stand" },
+]
 +++
 
 The ward speaker draws power from simple rituals to honor the spirits found throughout the world so

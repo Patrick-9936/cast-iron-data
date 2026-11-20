@@ -16,8 +16,14 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Shared consciousness", "Detect undead", "Calm spirit", "See invisibility", "Fused consciousness", "Call spirit"]
-replaces_features = ["shared-consciousness", "detect-undead", "calm-spirit", "see-invisibility", "fused-consciousness", "call-spirit"]
+trades = [
+  { replaces = "Shared consciousness", feature = "shared-consciousness" },
+  { replaces = "Detect undead", feature = "detect-undead" },
+  { replaces = "Calm spirit", feature = "calm-spirit" },
+  { replaces = "See invisibility", feature = "see-invisibility" },
+  { replaces = "Fused consciousness", feature = "fused-consciousness" },
+  { replaces = "Call spirit", feature = "call-spirit" },
+]
 +++
 
 Sometimes a spiritualist is so haunted by a past life's failure to reach enlightenment that the past

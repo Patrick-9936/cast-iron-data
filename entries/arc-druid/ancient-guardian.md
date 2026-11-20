@@ -16,10 +16,16 @@ page = "140"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Trackless step", "woodland stride", "Spontaneous casting", "Resist nature's lure", "A thousand faces"]
-alters = ["Weapon proficiencies", "Nature bond"]
-replaces_features = ["wild-empathy", "trackless-step", "woodland-stride", "spontaneous-casting", "resist-nature-s-lure", "a-thousand-faces"]
-alters_features = ["nature-bond"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "woodland stride", feature = "woodland-stride" },
+  { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+  { alters = "Weapon proficiencies" },
+  { alters = "Nature bond", feature = "nature-bond" },
+]
 +++
 
 Ancient guardians revere nature and draw power from its divine energies, but also protect the

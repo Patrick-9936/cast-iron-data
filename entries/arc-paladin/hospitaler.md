@@ -16,10 +16,11 @@ page = "116"
 
 [fields]
 kind = "archetype"
-replaces = ["Channel positive energy", "Aura of justice"]
-alters = ["Smite evil"]
-replaces_features = ["channel-positive-energy", "aura-of-justice"]
-alters_features = ["smite-evil"]
+trades = [
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { alters = "Smite evil", feature = "smite-evil" },
+]
 +++
 
 Paladins are known for their charity and for tending to the sick. The hospitaler takes to this

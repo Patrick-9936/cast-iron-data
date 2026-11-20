@@ -16,10 +16,21 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Haunt channeler", "location channel", "connection channel", "propitiation", "ask the spirits", "astral journey", "trance of three", "spacious soul", "Spirit mastery", "Astral beacon"]
-alters = ["Spirit", "Knacks", "taboo"]
-replaces_features = ["haunt-channeler", "location-channel", "connection-channel", "propitiation", "ask-the-spirits", "astral-journey", "trance-of-three", "spacious-soul", "spirit-mastery", "astral-beacon"]
-alters_features = ["spirit", "knacks", "taboo"]
+trades = [
+  { replaces = "Haunt channeler", feature = "haunt-channeler" },
+  { replaces = "location channel", feature = "location-channel" },
+  { replaces = "connection channel", feature = "connection-channel" },
+  { replaces = "propitiation", feature = "propitiation" },
+  { replaces = "ask the spirits", feature = "ask-the-spirits" },
+  { replaces = "astral journey", feature = "astral-journey" },
+  { replaces = "trance of three", feature = "trance-of-three" },
+  { replaces = "spacious soul", feature = "spacious-soul" },
+  { replaces = "Spirit mastery", feature = "spirit-mastery" },
+  { replaces = "Astral beacon", feature = "astral-beacon" },
+  { alters = "Spirit", feature = "spirit" },
+  { alters = "Knacks", feature = "knacks" },
+  { alters = "taboo", feature = "taboo" },
+]
 +++
 
 Normally, storied figures who simply disappear don't form legendary spirits, but the archmage Nex

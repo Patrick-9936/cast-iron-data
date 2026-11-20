@@ -16,10 +16,13 @@ page = "51"
 
 [fields]
 kind = "archetype"
-replaces = ["Quick clear deed", "Bleeding wound deed", "Nimble", "Gun training 1"]
-alters = ["Grit"]
-replaces_features = ["nimble"]
-alters_features = ["grit"]
+trades = [
+  { replaces = "Quick clear deed" },
+  { replaces = "Bleeding wound deed" },
+  { replaces = "Nimble", feature = "nimble" },
+  { replaces = "Gun training 1", feature = "gun-training", power = "1" },
+  { alters = "Grit", feature = "grit" },
+]
 +++
 
 Gunslingers use a potent mixture of common sense and manual dexterity in order to control the fickle

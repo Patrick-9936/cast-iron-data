@@ -16,8 +16,9 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Witch's familiar"]
-replaces_features = ["witch-s-familiar"]
+trades = [
+  { replaces = "Witch's familiar", feature = "witch-s-familiar" },
+]
 +++
 
 Though a dragon derives no power from accumulating precious metals and gems, its desire to acquire

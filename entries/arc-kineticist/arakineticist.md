@@ -16,7 +16,11 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Utility wild talent gained at 4th level", "Utility wild talents gained at 6th and 8th levels", "Utility wild talent gained at 13th level"]
+trades = [
+  { replaces = "Utility wild talent gained at 4th level" },
+  { replaces = "Utility wild talents gained at 6th and 8th levels" },
+  { replaces = "Utility wild talent gained at 13th level" },
+]
 +++
 
 Those of strong will who live under a dark curse long enough might learn to control and channel the

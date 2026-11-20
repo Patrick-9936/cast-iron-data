@@ -16,10 +16,13 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["Hunter's bond", "Evasion", "improved evasion"]
-alters = ["Wild empathy", "Favored terrain"]
-replaces_features = ["hunter-s-bond", "evasion", "improved-evasion"]
-alters_features = ["wild-empathy", "favored-terrain"]
+trades = [
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "improved evasion", feature = "improved-evasion" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+  { alters = "Favored terrain", feature = "favored-terrain" },
+]
 +++
 
 Planar scouts are rangers specializing in traversing the planes - and surviving their journeys.

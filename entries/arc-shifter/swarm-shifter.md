@@ -16,10 +16,13 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild shape", "shifter aspect", "Chimeric aspect", "Greater chimeric aspect"]
-alters = ["Final aspect"]
-replaces_features = ["wild-shape", "shifter-aspect", "chimeric-aspect", "greater-chimeric-aspect"]
-alters_features = ["final-aspect"]
+trades = [
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { replaces = "shifter aspect", feature = "shifter-aspect" },
+  { replaces = "Chimeric aspect", feature = "chimeric-aspect" },
+  { replaces = "Greater chimeric aspect", feature = "greater-chimeric-aspect" },
+  { alters = "Final aspect", feature = "final-aspect" },
+]
 +++
 
 Swarm shifters channel the essence of the basest and most overlooked animals, vermin.

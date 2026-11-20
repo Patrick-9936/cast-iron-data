@@ -16,8 +16,13 @@ page = "98"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane bond", "5th-level bonus feat", "10th-level bonus feat", "15th-level bonus feat", "The 20th-level wizard bonus spell"]
-replaces_features = ["arcane-bond"]
+trades = [
+  { replaces = "Arcane bond", feature = "arcane-bond" },
+  { replaces = "5th-level bonus feat", feature = "bonus-feats", levels = [5] },
+  { replaces = "10th-level bonus feat", feature = "bonus-feats", levels = [10] },
+  { replaces = "15th-level bonus feat", feature = "bonus-feats", levels = [15] },
+  { replaces = "The 20th-level wizard bonus spell" },
+]
 +++
 
 To those who know how to manipulate it, the blood of a dhampir can be a powerful component to magic.

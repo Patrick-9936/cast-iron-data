@@ -16,10 +16,16 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Sneak attack", "Stalker", "swift tracker", "quarry", "Improved quarry"]
-alters = ["Studied target", "Slayer talents"]
-replaces_features = ["track", "sneak-attack", "stalker", "swift-tracker", "quarry", "improved-quarry"]
-alters_features = ["studied-target", "slayer-talents"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Sneak attack", feature = "sneak-attack" },
+  { replaces = "Stalker", feature = "stalker" },
+  { replaces = "swift tracker", feature = "swift-tracker" },
+  { replaces = "quarry", feature = "quarry" },
+  { replaces = "Improved quarry", feature = "improved-quarry" },
+  { alters = "Studied target", feature = "studied-target" },
+  { alters = "Slayer talents", feature = "slayer-talents" },
+]
 +++
 
 Followers of a tradition dating back to the ancient empire of Yixing, the yellow-robed agents known

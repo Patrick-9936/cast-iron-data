@@ -19,9 +19,10 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Vigilante talents gained at 2nd, 6th, 12th, and 18th levels"]
-alters = ["Vigilante specialization"]
-alters_features = ["vigilante-specialization"]
+trades = [
+  { replaces = "Vigilante talents gained at 2nd, 6th, 12th, and 18th levels", feature = "vigilante-talent", levels = [2, 6, 12, 18] },
+  { alters = "Vigilante specialization", feature = "vigilante-specialization" },
+]
 +++
 
 Within some vigilantes are incredible innate abilities that, although normally the domain of natural

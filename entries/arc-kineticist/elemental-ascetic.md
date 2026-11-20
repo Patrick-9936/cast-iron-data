@@ -16,10 +16,13 @@ page = "90"
 
 [fields]
 kind = "archetype"
-replaces = ["Elemental overflow", "Elemental defense", "5th-, 9th-, and 13th-level infusions"]
-alters = ["Kinetic blast", "Key ability scores of wild talents"]
-replaces_features = ["elemental-overflow", "elemental-defense"]
-alters_features = ["kinetic-blast"]
+trades = [
+  { replaces = "Elemental overflow", feature = "elemental-overflow" },
+  { replaces = "Elemental defense", feature = "elemental-defense" },
+  { replaces = "5th-, 9th-, and 13th-level infusions", feature = "infusion", levels = [5, 9, 13] },
+  { alters = "Kinetic blast", feature = "kinetic-blast" },
+  { alters = "Key ability scores of wild talents" },
+]
 +++
 
 Combining the elemental powers of a kineticist with the rigid physical discipline of a monk, an

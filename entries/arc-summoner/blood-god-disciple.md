@@ -16,8 +16,16 @@ page = "53"
 
 [fields]
 kind = "archetype"
-replaces = ["Summon monster I", "III", "V", "VII", "and IX", "Summon monster II", "Summon monster IV", "Summon monster VI and VIII spell-like abilities"]
-replaces_features = ["summon-monster-i"]
+trades = [
+  { replaces = "Summon monster I", feature = "summon-monster-i" },
+  { replaces = "III" },
+  { replaces = "V" },
+  { replaces = "VII" },
+  { replaces = "and IX" },
+  { replaces = "Summon monster II" },
+  { replaces = "Summon monster IV" },
+  { replaces = "Summon monster VI and VIII spell-like abilities" },
+]
 +++
 
 A half-orc summoner who devotes himself to one of the bloody orc gods may believe his eidolon is an

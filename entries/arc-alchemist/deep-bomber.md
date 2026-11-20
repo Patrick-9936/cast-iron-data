@@ -16,10 +16,12 @@ page = "205"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison use", "Instant alchemy", "Swift poisoning"]
-alters = ["Swift alchemy"]
-replaces_features = ["poison-use", "instant-alchemy", "swift-poisoning"]
-alters_features = ["swift-alchemy"]
+trades = [
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "Instant alchemy", feature = "instant-alchemy" },
+  { replaces = "Swift poisoning", feature = "swift-poisoning" },
+  { alters = "Swift alchemy", feature = "swift-alchemy" },
+]
 +++
 
 Consumed with keeping hidden from the horrors below the surface, svirfneblin use their racial

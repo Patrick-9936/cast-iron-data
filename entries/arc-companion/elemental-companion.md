@@ -12,7 +12,11 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "Improved Evasion", "Multiattack"]
+trades = [
+  { replaces = "Evasion" },
+  { replaces = "Improved Evasion" },
+  { replaces = "Multiattack" },
+]
 +++
 
 The heart of this companion beats with primal energy.

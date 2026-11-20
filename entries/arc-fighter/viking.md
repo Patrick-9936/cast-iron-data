@@ -19,10 +19,13 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "Armor training", "Weapon training"]
-alters = ["Weapon and armor proficiencies", "The fighter's bonus feats"]
-replaces_features = ["bravery", "armor-training", "weapon-training"]
-alters_features = ["weapon-and-armor-proficiencies"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Armor training", feature = "armor-training" },
+  { replaces = "Weapon training", feature = "weapon-training" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "The fighter's bonus feats", feature = "bonus-feats" },
+]
 +++
 
 Vikings seek to raid "softer societies" and return with their longships filled with plunder. A

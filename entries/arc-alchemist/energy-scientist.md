@@ -16,10 +16,15 @@ page = "30"
 
 [fields]
 kind = "archetype"
-replaces = ["Brew potion", "Poison resistance", "poison immunity", "Poison use", "swift poisoning"]
-alters = ["Bombs", "Alchemy"]
-replaces_features = ["brew-potion", "poison-resistance", "poison-use", "swift-poisoning"]
-alters_features = ["alchemy"]
+trades = [
+  { replaces = "Brew potion", feature = "brew-potion" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity" },
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "swift poisoning", feature = "swift-poisoning" },
+  { alters = "Bombs", feature = "bomb" },
+  { alters = "Alchemy", feature = "alchemy" },
+]
 +++
 
 Energy scientists fervently prepare themselves to overcome exposure to specific elemental hazards so

@@ -16,10 +16,17 @@ page = "45"
 
 [fields]
 kind = "archetype"
-replaces = ["Order", "Tactician", "greater tactician", "master tactician", "Banner", "Greater banner"]
-alters = ["Weapon and armor proficiencies", "Challenge", "Mount"]
-replaces_features = ["order", "tactician", "greater-tactician", "master-tactician", "banner", "greater-banner"]
-alters_features = ["weapon-and-armor-proficiencies", "challenge", "mount"]
+trades = [
+  { replaces = "Order", feature = "order" },
+  { replaces = "Tactician", feature = "tactician" },
+  { replaces = "greater tactician", feature = "greater-tactician" },
+  { replaces = "master tactician", feature = "master-tactician" },
+  { replaces = "Banner", feature = "banner" },
+  { replaces = "Greater banner", feature = "greater-banner" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Challenge", feature = "challenge" },
+  { alters = "Mount", feature = "mount" },
+]
 +++
 
 These primeval cavaliers idolize dinosaurs as apex predators and value them as powerful, oversized

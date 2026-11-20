@@ -16,8 +16,11 @@ page = "206"
 
 [fields]
 kind = "archetype"
-replaces = ["Still mind", "Purity of body", "Abundant step"]
-replaces_features = ["still-mind", "purity-of-body", "abundant-step"]
+trades = [
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+]
 +++
 
 While many vanaras follow traditional monastic training and traditions, others learn to blend exotic

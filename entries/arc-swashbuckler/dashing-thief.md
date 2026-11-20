@@ -16,10 +16,15 @@ page = "51"
 
 [fields]
 kind = "archetype"
-replaces = ["Regain panache from a killing blow", "Bonus feats", "Menacing swordplay", "Dizzying defense"]
-alters = ["Derring-do", "swashbuckler's edge", "Panache"]
-replaces_features = ["bonus-feats"]
-alters_features = ["panache"]
+trades = [
+  { replaces = "Regain panache from a killing blow" },
+  { replaces = "Bonus feats", feature = "bonus-feats" },
+  { replaces = "Menacing swordplay" },
+  { replaces = "Dizzying defense" },
+  { alters = "Derring-do" },
+  { alters = "swashbuckler's edge" },
+  { alters = "Panache", feature = "panache" },
+]
 +++
 
 The dashing thief relies on swift swordplay, dazzling charm, and spirited courage to commit

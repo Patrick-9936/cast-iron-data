@@ -16,8 +16,12 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Magus arcana gained at 3rd level", "Spell recall", "Knowledge pool", "Improved spell recall"]
-replaces_features = ["spell-recall", "knowledge-pool", "improved-spell-recall"]
+trades = [
+  { replaces = "Magus arcana gained at 3rd level", feature = "magus-arcana", levels = [3] },
+  { replaces = "Spell recall", feature = "spell-recall" },
+  { replaces = "Knowledge pool", feature = "knowledge-pool" },
+  { replaces = "Improved spell recall", feature = "improved-spell-recall" },
+]
 +++
 
 Beastblade magi work in tandem with their familiars, using spell, steel, and claw to clear the

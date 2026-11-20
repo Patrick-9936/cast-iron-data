@@ -19,10 +19,14 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature bond", "Wild empathy", "Resist nature's lure", "A thousand faces"]
-alters = ["Spontaneous casting", "Wild shape"]
-replaces_features = ["nature-bond", "wild-empathy", "resist-nature-s-lure", "a-thousand-faces"]
-alters_features = ["spontaneous-casting", "wild-shape"]
+trades = [
+  { replaces = "Nature bond", feature = "nature-bond" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+  { alters = "Spontaneous casting", feature = "spontaneous-casting" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 The natural world is full of bodiless nature spirits connected to the forces of glades, springs, and

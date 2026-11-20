@@ -13,8 +13,9 @@ page = "62"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Divine bond"]
-replaces_features = ["divine-bond"]
+trades = [
+  { replaces = "Divine bond", feature = "divine-bond" },
+]
 +++
 
 Charity is more than just giving money to a temple or a cause - it is about the necessity of

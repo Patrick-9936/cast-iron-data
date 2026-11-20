@@ -16,8 +16,17 @@ page = "187"
 
 [fields]
 kind = "archetype"
-replaces = ["Slow fall", "still mind", "High jump", "bonus feat gained at 6th level", "Wholeness of body", "Abundant step", "Quivering palm", "Tongue of the sun and moon", "empty body"]
-replaces_features = ["slow-fall", "still-mind", "high-jump", "wholeness-of-body", "abundant-step", "quivering-palm", "tongue-of-the-sun-and-moon", "empty-body"]
+trades = [
+  { replaces = "Slow fall", feature = "slow-fall" },
+  { replaces = "still mind", feature = "still-mind" },
+  { replaces = "High jump", feature = "high-jump" },
+  { replaces = "bonus feat gained at 6th level", feature = "bonus-feat", levels = [6] },
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { replaces = "Quivering palm", feature = "quivering-palm" },
+  { replaces = "Tongue of the sun and moon", feature = "tongue-of-the-sun-and-moon" },
+  { replaces = "empty body", feature = "empty-body" },
+]
 +++
 
 The gray disciple contemplates the inner voice of duergar magic and the silent eternity of stone,

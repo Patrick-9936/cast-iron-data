@@ -16,9 +16,14 @@ page = "4"
 
 [fields]
 kind = "archetype"
-replaces = ["The 1st-, 8th-, and 16th-level bloodline powers", "9th-level and 15th-level bloodline feats", "The 12th-level bloodline feat"]
-alters = ["The 4th-, 16th-, and 20th-level bloodline powers", "Greater bloodrage", "mighty bloodrage"]
-alters_features = ["greater-bloodrage", "mighty-bloodrage"]
+trades = [
+  { replaces = "The 1st-, 8th-, and 16th-level bloodline powers" },
+  { replaces = "9th-level and 15th-level bloodline feats" },
+  { replaces = "The 12th-level bloodline feat" },
+  { alters = "The 4th-, 16th-, and 20th-level bloodline powers" },
+  { alters = "Greater bloodrage", feature = "greater-bloodrage" },
+  { alters = "mighty bloodrage", feature = "mighty-bloodrage" },
+]
 +++
 
 Ancient catfolk legends claim their kind was created to protect the world from the sinister forces

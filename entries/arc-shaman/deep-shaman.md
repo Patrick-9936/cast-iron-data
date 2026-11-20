@@ -16,9 +16,14 @@ page = "51"
 
 [fields]
 kind = "archetype"
-replaces = ["Elemental form of the true spirit ability"]
-alters = ["Spirit", "spirit animal", "Hexes", "Spirit ability", "greater spirit ability"]
-alters_features = ["spirit", "spirit-animal"]
+trades = [
+  { replaces = "Elemental form of the true spirit ability" },
+  { alters = "Spirit", feature = "spirit" },
+  { alters = "spirit animal", feature = "spirit-animal" },
+  { alters = "Hexes", feature = "hex" },
+  { alters = "Spirit ability" },
+  { alters = "greater spirit ability" },
+]
 +++
 
 While most shamans of the _waves_ spirit have powers associated with surface waters, deep shamans

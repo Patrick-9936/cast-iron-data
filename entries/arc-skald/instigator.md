@@ -16,8 +16,11 @@ page = "49"
 
 [fields]
 kind = "archetype"
-replaces = ["Spell kenning", "Dirge of doom", "Lore master"]
-replaces_features = ["spell-kenning", "dirge-of-doom", "lore-master"]
+trades = [
+  { replaces = "Spell kenning", feature = "spell-kenning" },
+  { replaces = "Dirge of doom", feature = "dirge-of-doom" },
+  { replaces = "Lore master", feature = "lore-master" },
+]
 +++
 
 The instigator influences the will of the people, turning them toward his own purposes. Regardless

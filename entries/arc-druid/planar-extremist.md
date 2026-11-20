@@ -16,10 +16,13 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature's bond", "Resist nature's lure", "Wild shape"]
-alters = ["Spells", "A druid's spontaneous casting"]
-replaces_features = ["resist-nature-s-lure", "wild-shape"]
-alters_features = ["spells"]
+trades = [
+  { replaces = "Nature's bond", feature = "nature-bond" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { alters = "Spells", feature = "spells" },
+  { alters = "A druid's spontaneous casting", feature = "spontaneous-casting" },
+]
 +++
 
 Through determined interest or repeated exposure to those places where the borders between planes

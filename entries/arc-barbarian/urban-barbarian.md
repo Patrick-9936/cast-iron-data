@@ -16,10 +16,10 @@ page = "31"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement"]
-alters = ["Rage"]
-replaces_features = ["fast-movement"]
-alters_features = ["rage"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { alters = "Rage", feature = "rage" },
+]
 +++
 
 Every barbarian knows that city life can soften the spirit and the body, but some barbarians take on

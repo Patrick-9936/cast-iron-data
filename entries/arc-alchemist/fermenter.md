@@ -16,8 +16,12 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison resistance", "the discovery gained at 10th level", "Poison use", "Swift poisoning"]
-replaces_features = ["poison-resistance", "poison-use", "swift-poisoning"]
+trades = [
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "the discovery gained at 10th level", feature = "discovery", levels = [10] },
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "Swift poisoning", feature = "swift-poisoning" },
+]
 +++
 
 Little more than moonshiners to some, fermenters focus their efforts on imbibing substances,

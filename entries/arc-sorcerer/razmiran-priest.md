@@ -16,7 +16,11 @@ page = "38"
 
 [fields]
 kind = "archetype"
-replaces = ["Eschew Materials bonus feat", "Bloodline spells gained at 3rd level and 5th level", "9th-level bloodline power"]
+trades = [
+  { replaces = "Eschew Materials bonus feat" },
+  { replaces = "Bloodline spells gained at 3rd level and 5th level" },
+  { replaces = "9th-level bloodline power" },
+]
 +++
 
 The so-called "priests" of Razmir are magical charlatans - missionary servants of the Living God who

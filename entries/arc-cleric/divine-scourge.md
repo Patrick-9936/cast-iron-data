@@ -16,10 +16,10 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Channel energy"]
-alters = ["Domains"]
-replaces_features = ["channel-energy"]
-alters_features = ["domains"]
+trades = [
+  { replaces = "Channel energy", feature = "channel-energy" },
+  { alters = "Domains", feature = "domains" },
+]
 +++
 
 Some divine servants take on the role of dealing out unique punishments on behalf of their deities,

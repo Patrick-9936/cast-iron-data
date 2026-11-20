@@ -16,10 +16,14 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Hypnotic stare", "painful stare", "towering ego", "Bold stare", "Mental potency"]
-alters = ["Touch treatment"]
-replaces_features = ["hypnotic-stare", "painful-stare", "towering-ego", "bold-stare", "mental-potency"]
-alters_features = ["touch-treatment"]
+trades = [
+  { replaces = "Hypnotic stare", feature = "hypnotic-stare" },
+  { replaces = "painful stare", feature = "painful-stare" },
+  { replaces = "towering ego", feature = "towering-ego" },
+  { replaces = "Bold stare", feature = "bold-stare" },
+  { replaces = "Mental potency", feature = "mental-potency" },
+  { alters = "Touch treatment", feature = "touch-treatment" },
+]
 +++
 
 Rather than employ the baleful glares of the typical mesmerist, aromaphiles hypnotize others using

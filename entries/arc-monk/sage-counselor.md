@@ -16,9 +16,15 @@ page = "67"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus feats gained at 1st, 2nd, and 6th levels", "The ability to spend ki to make an additional attack with a flurry of blows", "bonus feat gained at 10th level", "The ability to spend ki to increase his speed by 20 feet for 1 round"]
-alters = ["Flurry of blows", "ki pool", "Ki pool"]
-alters_features = ["flurry-of-blows", "ki-pool", "ki-pool"]
+trades = [
+  { replaces = "Bonus feats gained at 1st, 2nd, and 6th levels", feature = "bonus-feat", levels = [1, 2, 6] },
+  { replaces = "The ability to spend ki to make an additional attack with a flurry of blows" },
+  { replaces = "bonus feat gained at 10th level", feature = "bonus-feat", levels = [10] },
+  { replaces = "The ability to spend ki to increase his speed by 20 feet for 1 round" },
+  { alters = "Flurry of blows", feature = "flurry-of-blows" },
+  { alters = "ki pool", feature = "ki-pool" },
+  { alters = "Ki pool" },
+]
 +++
 
 Sage counselors are ascetics and mystics who leave the confines of the monastery walls to advise

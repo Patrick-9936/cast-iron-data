@@ -16,10 +16,12 @@ page = "91"
 
 [fields]
 kind = "archetype"
-replaces = ["Internal buffer", "Elemental overflow"]
-alters = ["Key ability score of wild talents", "Burn"]
-replaces_features = ["internal-buffer", "elemental-overflow"]
-alters_features = ["burn"]
+trades = [
+  { replaces = "Internal buffer", feature = "internal-buffer" },
+  { replaces = "Elemental overflow", feature = "elemental-overflow" },
+  { alters = "Key ability score of wild talents" },
+  { alters = "Burn", feature = "burn" },
+]
 +++
 
 Some kineticists have such a powerful personality that they can seize control of their element with

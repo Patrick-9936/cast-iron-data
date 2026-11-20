@@ -16,8 +16,14 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level hex", "2nd-level hex", "4th-, 10th-, and 16th-level hexes", "6th-level hex"]
-alters = ["Familiar", "patron"]
+trades = [
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+  { replaces = "2nd-level hex", feature = "hex", levels = [2] },
+  { replaces = "4th-, 10th-, and 16th-level hexes", feature = "hex", levels = [4, 10, 16] },
+  { replaces = "6th-level hex", feature = "hex", levels = [6] },
+  { alters = "Familiar" },
+  { alters = "patron" },
+]
 +++
 
 Some witches find their patrons while in the throes of despair and grief, when all they desire is to

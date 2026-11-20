@@ -16,10 +16,21 @@ page = "32"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "poison lore", "poison resistance", "poison immunity", "trap sense", "Swift alchemy", "investigator talent gained at 9th level", "Investigator talents gained at 3rd and 11th levels", "Investigator talent gained at 7th level"]
-alters = ["Class skills", "inspiration", "Studied strike", "the investigator talent gained at 5th level"]
-replaces_features = ["trapfinding", "poison-lore", "poison-resistance", "trap-sense", "swift-alchemy"]
-alters_features = ["inspiration", "studied-strike"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "poison lore", feature = "poison-lore" },
+  { replaces = "poison resistance", feature = "poison-resistance" },
+  { replaces = "poison immunity" },
+  { replaces = "trap sense", feature = "trap-sense" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { replaces = "investigator talent gained at 9th level", feature = "investigator-talent", levels = [9] },
+  { replaces = "Investigator talents gained at 3rd and 11th levels", feature = "investigator-talent", levels = [3, 11] },
+  { replaces = "Investigator talent gained at 7th level", feature = "investigator-talent", levels = [7] },
+  { alters = "Class skills" },
+  { alters = "inspiration", feature = "inspiration" },
+  { alters = "Studied strike", feature = "studied-strike" },
+  { alters = "the investigator talent gained at 5th level", feature = "investigator-talent", levels = [5] },
+]
 +++
 
 A cipher is a student of nonexistence. He trains himself to remain undetected and ignored in order

@@ -16,8 +16,11 @@ page = "208"
 
 [fields]
 kind = "archetype"
-replaces = ["Rogue talent gained at 2nd level", "Trap sense", "Improved uncanny dodge"]
-replaces_features = ["trap-sense", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Rogue talent gained at 2nd level", feature = "rogue-talents", levels = [2] },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Skilled at manipulation and diversion, the deadly courtesan builds up those around her and

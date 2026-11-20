@@ -16,8 +16,11 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Trap sense", "Uncanny dodge", "improved uncanny dodge"]
-replaces_features = ["trap-sense", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 A planar sneak finds creative ways to defy conventional limitations when trying to overcome

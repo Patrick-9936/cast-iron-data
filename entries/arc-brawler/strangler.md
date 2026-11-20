@@ -16,10 +16,14 @@ page = "88"
 
 [fields]
 kind = "archetype"
-replaces = ["Unarmed strike", "brawler's flurry", "AC bonus", "Awesome blow", "improved awesome blow"]
-alters = ["Knockout"]
-replaces_features = ["unarmed-strike", "brawler-s-flurry", "ac-bonus", "awesome-blow", "improved-awesome-blow"]
-alters_features = ["knockout"]
+trades = [
+  { replaces = "Unarmed strike", feature = "unarmed-strike" },
+  { replaces = "brawler's flurry", feature = "brawler-s-flurry" },
+  { replaces = "AC bonus", feature = "ac-bonus" },
+  { replaces = "Awesome blow", feature = "awesome-blow" },
+  { replaces = "improved awesome blow", feature = "improved-awesome-blow" },
+  { alters = "Knockout", feature = "knockout" },
+]
 +++
 
 A strangler is trained to choke the life out of her victims with her vise-like grip. Some stranglers

@@ -16,8 +16,13 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "5th-level favored enemy", "10th-level favored enemy", "15th-level favored enemy", "20th-level favored enemy"]
-replaces_features = ["track"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "5th-level favored enemy", feature = "favored-enemy", levels = [5] },
+  { replaces = "10th-level favored enemy", feature = "favored-enemy", levels = [10] },
+  { replaces = "15th-level favored enemy", feature = "favored-enemy", levels = [15] },
+  { replaces = "20th-level favored enemy", feature = "favored-enemy", levels = [20] },
+]
 +++
 
 The quintessential dragonslayers, dragon hunters are experts at forging through the wilds in search

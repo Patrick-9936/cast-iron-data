@@ -16,10 +16,12 @@ page = "47"
 
 [fields]
 kind = "archetype"
-replaces = ["Improved uncanny dodge", "Greater rage", "Mighty rage"]
-alters = ["Rage"]
-replaces_features = ["improved-uncanny-dodge", "greater-rage", "mighty-rage"]
-alters_features = ["rage"]
+trades = [
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Greater rage", feature = "greater-rage" },
+  { replaces = "Mighty rage", feature = "mighty-rage" },
+  { alters = "Rage", feature = "rage" },
+]
 +++
 
 Some barbarians exhibit an unusual form of lycanthropy powered by their fury. Such a character

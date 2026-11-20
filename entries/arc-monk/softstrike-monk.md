@@ -16,10 +16,14 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon proficiency", "Bonus feats gained at 6th and 10th levels", "Empty body"]
-alters = ["Unarmed strike", "Wholeness of body", "Quivering palm"]
-replaces_features = ["empty-body"]
-alters_features = ["unarmed-strike", "wholeness-of-body", "quivering-palm"]
+trades = [
+  { replaces = "Weapon proficiency" },
+  { replaces = "Bonus feats gained at 6th and 10th levels", feature = "bonus-feat", levels = [6, 10] },
+  { replaces = "Empty body", feature = "empty-body" },
+  { alters = "Unarmed strike", feature = "unarmed-strike" },
+  { alters = "Wholeness of body", feature = "wholeness-of-body" },
+  { alters = "Quivering palm", feature = "quivering-palm" },
+]
 +++
 
 The practices of softstrike monks date back to the peaceful eras of Imperial Lung Wa. Still common

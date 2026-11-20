@@ -16,10 +16,15 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison immunity", "2nd-level discovery", "swift poisoning", "Poison resistance"]
-alters = ["Extracts", "Bombs", "Throw anything"]
-replaces_features = ["swift-poisoning", "poison-resistance"]
-alters_features = ["extracts", "throw-anything"]
+trades = [
+  { replaces = "Poison immunity" },
+  { replaces = "2nd-level discovery", feature = "discovery", levels = [2] },
+  { replaces = "swift poisoning", feature = "swift-poisoning" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { alters = "Extracts", feature = "extracts" },
+  { alters = "Bombs", feature = "bomb" },
+  { alters = "Throw anything", feature = "throw-anything" },
+]
 +++
 
 While most alchemists experiment mainly with chemicals and physical materials to create disparate

@@ -16,8 +16,15 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["The cavalier's normal armor proficiencies", "Tactician", "banner", "greater banner", "Bonus feats gained at 6th, 12th, and 18th levels", "Greater tactician", "Master tactician"]
-replaces_features = ["tactician", "banner", "greater-banner", "greater-tactician", "master-tactician"]
+trades = [
+  { replaces = "The cavalier's normal armor proficiencies" },
+  { replaces = "Tactician", feature = "tactician" },
+  { replaces = "banner", feature = "banner" },
+  { replaces = "greater banner", feature = "greater-banner" },
+  { replaces = "Bonus feats gained at 6th, 12th, and 18th levels", feature = "bonus-feat", levels = [6, 12, 18] },
+  { replaces = "Greater tactician", feature = "greater-tactician" },
+  { replaces = "Master tactician", feature = "master-tactician" },
+]
 +++
 
 Agile and maneuverable cavalry, hussars make up for their relatively light armor with their speed

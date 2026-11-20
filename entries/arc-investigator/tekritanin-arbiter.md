@@ -16,8 +16,12 @@ page = "33"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Poison lore", "Poison resistance", "Trap sense"]
-replaces_features = ["trapfinding", "poison-lore", "poison-resistance", "trap-sense"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+]
 +++
 
 The Tekritanin League facilitated trade and settled disputes between a vast array of diverse

@@ -16,8 +16,11 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Brew Potion", "Poison use", "The alchemist's 4th-level discovery"]
-replaces_features = ["brew-potion", "poison-use"]
+trades = [
+  { replaces = "Brew Potion", feature = "brew-potion" },
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "The alchemist's 4th-level discovery", feature = "discovery", levels = [4] },
+]
 +++
 
 The blazing torchbearer is especially adept at manipulating flames of all kinds.

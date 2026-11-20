@@ -16,7 +16,10 @@ page = "86"
 
 [fields]
 kind = "archetype"
-replaces = ["All bonus spells from the oracle's mystery", "Revelations from her mystery gained at 3rd, 7th, and 11th levels"]
+trades = [
+  { replaces = "All bonus spells from the oracle's mystery" },
+  { replaces = "Revelations from her mystery gained at 3rd, 7th, and 11th levels" },
+]
 +++
 
 The purifier seeks out signs of possession or mind control that manifest from unwilling (and often

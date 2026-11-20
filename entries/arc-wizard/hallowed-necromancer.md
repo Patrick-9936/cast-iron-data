@@ -16,10 +16,16 @@ page = "74"
 
 [fields]
 kind = "archetype"
-replaces = ["Grave touch necromancy school ability", "Scribe Scroll", "5th-level bonus feat", "10th-level bonus feat", "15th-level bonus feat"]
-alters = ["Arcane school", "spells", "Power over undead necromancy school ability"]
-replaces_features = ["scribe-scroll"]
-alters_features = ["arcane-school", "spells"]
+trades = [
+  { replaces = "Grave touch necromancy school ability" },
+  { replaces = "Scribe Scroll", feature = "scribe-scroll" },
+  { replaces = "5th-level bonus feat", feature = "bonus-feats", levels = [5] },
+  { replaces = "10th-level bonus feat", feature = "bonus-feats", levels = [10] },
+  { replaces = "15th-level bonus feat", feature = "bonus-feats", levels = [15] },
+  { alters = "Arcane school", feature = "arcane-school" },
+  { alters = "spells", feature = "spells" },
+  { alters = "Power over undead necromancy school ability" },
+]
 +++
 
 Many wizards study necromancy to create undead, but some study the same arts to purge the stain of

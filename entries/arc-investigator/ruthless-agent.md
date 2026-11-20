@@ -16,10 +16,14 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense", "Swift alchemy", "Investigator talent gained at 7th level", "Investigator talents gained at 11th and 17th levels"]
-alters = ["Inspiration"]
-replaces_features = ["trapfinding", "trap-sense", "swift-alchemy"]
-alters_features = ["inspiration"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { replaces = "Investigator talent gained at 7th level", feature = "investigator-talent", levels = [7] },
+  { replaces = "Investigator talents gained at 11th and 17th levels", feature = "investigator-talent", levels = [11, 17] },
+  { alters = "Inspiration", feature = "inspiration" },
+]
 +++
 
 Ruthless agents are often called upon for their skills at extracting information by any means

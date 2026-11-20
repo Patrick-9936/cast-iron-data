@@ -16,10 +16,12 @@ page = "9"
 
 [fields]
 kind = "archetype"
-replaces = ["Scribe Scroll", "bonus feats"]
-alters = ["Arcane bond", "Arcane school"]
-replaces_features = ["scribe-scroll", "bonus-feats"]
-alters_features = ["arcane-bond", "arcane-school"]
+trades = [
+  { replaces = "Scribe Scroll", feature = "scribe-scroll" },
+  { replaces = "bonus feats", feature = "bonus-feats" },
+  { alters = "Arcane bond", feature = "arcane-bond" },
+  { alters = "Arcane school", feature = "arcane-school" },
+]
 +++
 
 While most wizards learn their arts through gradual study, spirit binders have made a sudden arcane

@@ -16,10 +16,12 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Discipline spells", "1st- and 11th-level phrenic amplifications", "Telepathic bond"]
-alters = ["Telepathy"]
-replaces_features = ["telepathic-bond"]
-alters_features = ["telepathy"]
+trades = [
+  { replaces = "Discipline spells" },
+  { replaces = "1st- and 11th-level phrenic amplifications", feature = "phrenic-amplifications", levels = [1, 11] },
+  { replaces = "Telepathic bond", feature = "telepathic-bond" },
+  { alters = "Telepathy", feature = "telepathy" },
+]
 +++
 
 While most students of the [Magaambya](ref/rule/aff-i-school) in the Mwangi Expanse focus on the

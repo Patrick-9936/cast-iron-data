@@ -16,8 +16,13 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Poison resistance", "Poison lore", "Studied strike", "Poison immunity"]
-replaces_features = ["trapfinding", "poison-resistance", "poison-lore", "studied-strike"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { replaces = "Studied strike", feature = "studied-strike" },
+  { replaces = "Poison immunity" },
+]
 +++
 
 While most investigators seek answers to mundane mysteries, portal seekers chase more unusual

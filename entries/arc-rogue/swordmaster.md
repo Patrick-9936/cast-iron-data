@@ -16,8 +16,9 @@ page = "164"
 
 [fields]
 kind = "archetype"
-replaces = ["Trap sense"]
-replaces_features = ["trap-sense"]
+trades = [
+  { replaces = "Trap sense", feature = "trap-sense" },
+]
 +++
 
 A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect

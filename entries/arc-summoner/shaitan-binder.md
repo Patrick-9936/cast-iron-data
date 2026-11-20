@@ -16,8 +16,13 @@ page = "146"
 
 [fields]
 kind = "archetype"
-replaces = ["Shield ally", "greater shield ally", "Aspect", "Greater aspect", "Twin eidolon"]
-replaces_features = ["shield-ally", "greater-shield-ally", "aspect", "greater-aspect", "twin-eidolon"]
+trades = [
+  { replaces = "Shield ally", feature = "shield-ally" },
+  { replaces = "greater shield ally", feature = "greater-shield-ally" },
+  { replaces = "Aspect", feature = "aspect" },
+  { replaces = "Greater aspect", feature = "greater-aspect" },
+  { replaces = "Twin eidolon", feature = "twin-eidolon" },
+]
 +++
 
 Shaitan binders call upon a reflection of their genie ancestors to serve as their eidolons. A

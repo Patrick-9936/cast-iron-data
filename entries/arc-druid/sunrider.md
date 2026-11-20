@@ -16,10 +16,14 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Trackless step", "Resist nature's lure", "Wild shape"]
-alters = ["Weapon and armor proficiencies", "Nature bond"]
-replaces_features = ["woodland-stride", "trackless-step", "resist-nature-s-lure", "wild-shape"]
-alters_features = ["weapon-and-armor-proficiencies", "nature-bond"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Nature bond", feature = "nature-bond" },
+]
 +++
 
 Sunriders help their allies, be they fellow tribe members or fellow adventurers, to survive in harsh

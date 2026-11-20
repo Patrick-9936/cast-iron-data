@@ -16,10 +16,21 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Knowledge pool", "greater spell access", "Spellstrike", "fighter training", "counterstrike", "Medium armor", "heavy armor", "True magus"]
-alters = ["Skills", "Arcane pool", "Spell combat", "improved spell combat", "greater spell combat"]
-replaces_features = ["knowledge-pool", "greater-spell-access", "spellstrike", "fighter-training", "counterstrike", "medium-armor", "heavy-armor", "true-magus"]
-alters_features = ["arcane-pool", "spell-combat", "improved-spell-combat", "greater-spell-combat"]
+trades = [
+  { replaces = "Knowledge pool", feature = "knowledge-pool" },
+  { replaces = "greater spell access", feature = "greater-spell-access" },
+  { replaces = "Spellstrike", feature = "spellstrike" },
+  { replaces = "fighter training", feature = "fighter-training" },
+  { replaces = "counterstrike", feature = "counterstrike" },
+  { replaces = "Medium armor", feature = "medium-armor" },
+  { replaces = "heavy armor", feature = "heavy-armor" },
+  { replaces = "True magus", feature = "true-magus" },
+  { alters = "Skills" },
+  { alters = "Arcane pool", feature = "arcane-pool" },
+  { alters = "Spell combat", feature = "spell-combat" },
+  { alters = "improved spell combat", feature = "improved-spell-combat" },
+  { alters = "greater spell combat", feature = "greater-spell-combat" },
+]
 +++
 
 Puppetmasters focus on using charm and illusion spells to control the senses of those for whom they

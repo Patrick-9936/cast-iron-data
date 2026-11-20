@@ -16,8 +16,13 @@ page = "129"
 
 [fields]
 kind = "archetype"
-replaces = ["Blessings", "Bonus feat gained at 3rd level", "Bonus feat gained at 6th level", "Bonus feat gained at 12th level", "Bonus feat gained at 15th level"]
-replaces_features = ["blessings"]
+trades = [
+  { replaces = "Blessings", feature = "blessings" },
+  { replaces = "Bonus feat gained at 3rd level", feature = "bonus-feats", levels = [3] },
+  { replaces = "Bonus feat gained at 6th level", feature = "bonus-feats", levels = [6] },
+  { replaces = "Bonus feat gained at 12th level", feature = "bonus-feats", levels = [12] },
+  { replaces = "Bonus feat gained at 15th level", feature = "bonus-feats", levels = [15] },
+]
 +++
 
 Some warpriests are called to lead great armies and face legions of foes. These divine commanders

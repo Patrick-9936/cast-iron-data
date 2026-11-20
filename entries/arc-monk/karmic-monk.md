@@ -16,10 +16,16 @@ page = "122"
 
 [fields]
 kind = "archetype"
-replaces = ["Stunning fist", "Still mind", "7th- and 10th-level ki pool abilities", "Improved evasion", "The slow fall improvement; it remains at 70 feet"]
-alters = ["Alignment requirement", "Slow fall", "Perfect self"]
-replaces_features = ["stunning-fist", "still-mind", "improved-evasion"]
-alters_features = ["slow-fall", "perfect-self"]
+trades = [
+  { replaces = "Stunning fist", feature = "stunning-fist" },
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "7th- and 10th-level ki pool abilities" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { replaces = "The slow fall improvement; it remains at 70 feet" },
+  { alters = "Alignment requirement" },
+  { alters = "Slow fall", feature = "slow-fall" },
+  { alters = "Perfect self", feature = "perfect-self" },
+]
 +++
 
 A karmic monk contemplates the myriad harmonies that guide existence. He learns to use the

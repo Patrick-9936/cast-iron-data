@@ -16,8 +16,10 @@ page = "134"
 
 [fields]
 kind = "archetype"
-replaces = ["Uncanny dodge", "Improved uncanny dodge"]
-replaces_features = ["uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Not all rogues live in the city. Scouts frequently roam the wilderness, often banding together as

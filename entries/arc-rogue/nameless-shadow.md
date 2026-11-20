@@ -16,8 +16,11 @@ page = "30"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "rogue talents gained at 2nd, 6th, 10th, 14th, and 18th levels", "Rogue talents gained at 4th and 8th levels"]
-replaces_features = ["trapfinding"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "rogue talents gained at 2nd, 6th, 10th, 14th, and 18th levels", feature = "rogue-talents", levels = [2, 6, 10, 14, 18] },
+  { replaces = "Rogue talents gained at 4th and 8th levels", feature = "rogue-talents", levels = [4, 8] },
+]
 +++
 
 Where bandits and tyrants prey on merchants and caravans, the nameless shadow preys on bandits and

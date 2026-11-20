@@ -16,10 +16,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Monster lore", "Stern gaze", "Solo tactics", "All teamwork feats"]
-alters = ["Domain"]
-replaces_features = ["monster-lore", "stern-gaze", "solo-tactics"]
-alters_features = ["domain"]
+trades = [
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Stern gaze", feature = "stern-gaze" },
+  { replaces = "Solo tactics", feature = "solo-tactics" },
+  { replaces = "All teamwork feats" },
+  { alters = "Domain", feature = "domain" },
+]
 +++
 
 Sworn of the Eldest are gathlains who have pledged their loyalty to one of

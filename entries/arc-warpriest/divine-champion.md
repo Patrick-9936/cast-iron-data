@@ -16,7 +16,11 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus feat gained at 3rd level", "Bonus feats gained at 6th, 12th, and 18th levels", "Bonus feat gained at 9th level"]
+trades = [
+  { replaces = "Bonus feat gained at 3rd level", feature = "bonus-feats", levels = [3] },
+  { replaces = "Bonus feats gained at 6th, 12th, and 18th levels", feature = "bonus-feats", levels = [6, 12, 18] },
+  { replaces = "Bonus feat gained at 9th level", feature = "bonus-feats", levels = [9] },
+]
 +++
 
 Divine champions are unswervingly devoted to their causes, and specialize in bringing battle to the

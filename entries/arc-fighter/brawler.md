@@ -16,10 +16,14 @@ page = "44"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor training 1", "Weapon training 1 and 2", "Armor training 2, 3, and 4", "armor mastery", "Weapon training 3 and 4"]
-alters = ["Weapon mastery"]
-replaces_features = ["armor-mastery"]
-alters_features = ["weapon-mastery"]
+trades = [
+  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+  { replaces = "Weapon training 1 and 2" },
+  { replaces = "Armor training 2, 3, and 4" },
+  { replaces = "armor mastery", feature = "armor-mastery" },
+  { replaces = "Weapon training 3 and 4" },
+  { alters = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 > _**Note:** This is a fighter archetype, and has no relation to the [brawler](ref/class/brawler)

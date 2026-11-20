@@ -16,10 +16,12 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane school", "Scribe Scroll", "10th- and 15th-level bonus feats"]
-alters = ["Arcane bond"]
-replaces_features = ["arcane-school", "scribe-scroll"]
-alters_features = ["arcane-bond"]
+trades = [
+  { replaces = "Arcane school", feature = "arcane-school" },
+  { replaces = "Scribe Scroll", feature = "scribe-scroll" },
+  { replaces = "10th- and 15th-level bonus feats", feature = "bonus-feats", levels = [10, 15] },
+  { alters = "Arcane bond", feature = "arcane-bond" },
+]
 +++
 
 Some wizards, typically First World [gnomes](ref/race/gnome), have mystical ties with the First

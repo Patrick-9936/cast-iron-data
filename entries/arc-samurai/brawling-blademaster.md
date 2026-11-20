@@ -16,9 +16,14 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "Weapon expertise", "Mounted archer", "Banner", "Greater banner"]
-alters = ["Weapon and armor proficiency"]
-replaces_features = ["mount", "weapon-expertise", "mounted-archer", "banner", "greater-banner"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Weapon expertise", feature = "weapon-expertise" },
+  { replaces = "Mounted archer", feature = "mounted-archer" },
+  { replaces = "Banner", feature = "banner" },
+  { replaces = "Greater banner", feature = "greater-banner" },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+]
 +++
 
 While some martial arts traditions focus on the strength of the body, most schools of combat and

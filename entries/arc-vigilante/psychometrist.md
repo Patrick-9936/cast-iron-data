@@ -16,10 +16,12 @@ page = "59"
 
 [fields]
 kind = "archetype"
-replaces = ["Social talent gained at 1st level", "Vigilante talents gained at 2nd, 6th, 12th, and 18th levels", "Unshakable"]
-alters = ["Vengeance strike"]
-replaces_features = ["unshakable"]
-alters_features = ["vengeance-strike"]
+trades = [
+  { replaces = "Social talent gained at 1st level", feature = "social-talent", levels = [1] },
+  { replaces = "Vigilante talents gained at 2nd, 6th, 12th, and 18th levels", feature = "vigilante-talent", levels = [2, 6, 12, 18] },
+  { replaces = "Unshakable", feature = "unshakable" },
+  { alters = "Vengeance strike", feature = "vengeance-strike" },
+]
 +++
 
 Wise vigilantes know that there is power in certain seemingly unremarkable items. Psychometrists

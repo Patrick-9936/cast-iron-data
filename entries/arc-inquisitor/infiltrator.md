@@ -16,10 +16,12 @@ page = "45"
 
 [fields]
 kind = "archetype"
-replaces = ["Monster lore", "Track", "Discern lies"]
-alters = ["Stern gaze"]
-replaces_features = ["monster-lore", "track", "discern-lies"]
-alters_features = ["stern-gaze"]
+trades = [
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Track", feature = "track" },
+  { replaces = "Discern lies", feature = "discern-lies" },
+  { alters = "Stern gaze", feature = "stern-gaze" },
+]
 +++
 
 This inquisitor uses guile and deception to blend in among the enemies of the faith rather than

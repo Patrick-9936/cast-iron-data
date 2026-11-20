@@ -16,8 +16,11 @@ page = "17"
 
 [fields]
 kind = "archetype"
-alters = ["Eidolon", "Summon monster", "Spells known"]
-alters_features = ["eidolon"]
+trades = [
+  { alters = "Eidolon", feature = "eidolon" },
+  { alters = "Summon monster" },
+  { alters = "Spells known", feature = "sec-spells-known" },
+]
 +++
 
 Unwavering conduits work to keep everything ordered and regimented, drawing on power from the

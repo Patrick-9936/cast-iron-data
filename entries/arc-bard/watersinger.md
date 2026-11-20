@@ -16,7 +16,13 @@ page = "176"
 
 [fields]
 kind = "archetype"
-replaces = ["Fascinate", "suggestion", "mass suggestion", "Inspire competence", "The use of lore master gained at 5th level"]
+trades = [
+  { replaces = "Fascinate" },
+  { replaces = "suggestion" },
+  { replaces = "mass suggestion" },
+  { replaces = "Inspire competence" },
+  { replaces = "The use of lore master gained at 5th level" },
+]
 +++
 
 The watersinger's song reaches from the depths of his soul into the elemental waters from which life

@@ -16,8 +16,11 @@ page = "83"
 
 [fields]
 kind = "archetype"
-replaces = ["Blood sanctuary", "The bloodline feat gained at 6th level", "The bloodline feat at 9th level"]
-replaces_features = ["blood-sanctuary"]
+trades = [
+  { replaces = "Blood sanctuary", feature = "blood-sanctuary" },
+  { replaces = "The bloodline feat gained at 6th level" },
+  { replaces = "The bloodline feat at 9th level" },
+]
 +++
 
 Typically, nature finds its greatest harmony with divine magic, but sometimes a connection with the

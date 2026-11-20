@@ -16,8 +16,10 @@ page = "125"
 
 [fields]
 kind = "archetype"
-replaces = ["Familiar, 1st- and 8th-level hexes"]
-alters = ["Spellcasting"]
+trades = [
+  { replaces = "Familiar, 1st- and 8th-level hexes" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Some witches tap into the power of their patrons not through a special connection with a familiar,

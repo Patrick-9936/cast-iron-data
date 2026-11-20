@@ -16,7 +16,10 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level hex", "All spells granted by the witch's patron"]
+trades = [
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+  { replaces = "All spells granted by the witch's patron" },
+]
 +++
 
 Rhetoricians feel driven to engage in debate, learn as much as they can about their potential foes,

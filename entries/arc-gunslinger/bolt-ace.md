@@ -16,10 +16,19 @@ page = "94"
 
 [fields]
 kind = "archetype"
-replaces = ["Gunsmith", "Deadeye", "Quick clear", "Utility shot", "Startling shot", "Expert loading", "Lightning reload", "Menacing shot", "Gun training"]
-alters = ["Weapon proficiencies", "Grit"]
-replaces_features = ["gunsmith", "gun-training"]
-alters_features = ["grit"]
+trades = [
+  { replaces = "Gunsmith", feature = "gunsmith" },
+  { replaces = "Deadeye" },
+  { replaces = "Quick clear" },
+  { replaces = "Utility shot" },
+  { replaces = "Startling shot" },
+  { replaces = "Expert loading" },
+  { replaces = "Lightning reload" },
+  { replaces = "Menacing shot" },
+  { replaces = "Gun training", feature = "gun-training" },
+  { alters = "Weapon proficiencies" },
+  { alters = "Grit", feature = "grit" },
+]
 +++
 
 While gunslingers are full of sound and fury, there is a class of gunslingers that never soil their

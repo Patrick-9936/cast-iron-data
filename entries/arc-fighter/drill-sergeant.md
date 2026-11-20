@@ -16,9 +16,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "Weapon training 2", "Weapon training 3", "Weapon training 4"]
-alters = ["Weapon training 1"]
-replaces_features = ["bravery"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { replaces = "Weapon training 3", feature = "weapon-training", power = "3" },
+  { replaces = "Weapon training 4", feature = "weapon-training", power = "4" },
+  { alters = "Weapon training 1", feature = "weapon-training", power = "1" },
+]
 +++
 
 Drill sergeants excel at training other combatants in fighting techniques.

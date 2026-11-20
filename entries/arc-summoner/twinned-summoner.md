@@ -16,8 +16,13 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Shield ally", "greater shield ally", "Maker's call", "transposition", "Merge forms"]
-replaces_features = ["shield-ally", "greater-shield-ally", "maker-s-call", "transposition", "merge-forms"]
+trades = [
+  { replaces = "Shield ally", feature = "shield-ally" },
+  { replaces = "greater shield ally", feature = "greater-shield-ally" },
+  { replaces = "Maker's call", feature = "maker-s-call" },
+  { replaces = "transposition", feature = "transposition" },
+  { replaces = "Merge forms", feature = "merge-forms" },
+]
 +++
 
 Reflecting the connected nature of Imbrex, a twinned summoner and his eidolon appear identical save

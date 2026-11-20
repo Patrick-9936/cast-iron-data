@@ -16,8 +16,17 @@ page = "49"
 
 [fields]
 kind = "archetype"
-replaces = ["The fighter's 1st-level bonus feat", "Bravery", "Weapon training 1", "Weapon training 2", "Armor training 3", "Weapon training 3", "Armor training 4", "Weapon training 4", "Weapon mastery"]
-replaces_features = ["bravery", "weapon-mastery"]
+trades = [
+  { replaces = "The fighter's 1st-level bonus feat", feature = "bonus-feats", levels = [1] },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
+  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
+  { replaces = "Weapon training 3", feature = "weapon-training", power = "3" },
+  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Weapon training 4", feature = "weapon-training", power = "4" },
+  { replaces = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 The unbreakable is a warrior of indomitable will, unstoppable and implacable once he has set his

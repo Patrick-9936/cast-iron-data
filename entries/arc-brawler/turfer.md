@@ -16,8 +16,10 @@ page = "42"
 
 [fields]
 kind = "archetype"
-replaces = ["Maneuver training", "Knockout"]
-replaces_features = ["maneuver-training", "knockout"]
+trades = [
+  { replaces = "Maneuver training", feature = "maneuver-training" },
+  { replaces = "Knockout", feature = "knockout" },
+]
 +++
 
 A turfer has a mastery over particular types of terrain.

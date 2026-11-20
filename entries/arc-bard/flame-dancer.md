@@ -16,7 +16,12 @@ page = "81"
 
 [fields]
 kind = "archetype"
-replaces = ["Countersong", "Inspire competence", "Suggestion", "Dirge of doom"]
+trades = [
+  { replaces = "Countersong" },
+  { replaces = "Inspire competence" },
+  { replaces = "Suggestion" },
+  { replaces = "Dirge of doom" },
+]
 +++
 
 A flame dancer studies the movements of fire, adding its grace to his repertoire. He seeks truth in

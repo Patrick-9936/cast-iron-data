@@ -16,8 +16,14 @@ page = "70"
 
 [fields]
 kind = "archetype"
-replaces = ["Aura of courage", "Divine health", "Channel positive energy", "Aura of resolve", "Aura of justice", "Aura of faith"]
-replaces_features = ["aura-of-courage", "divine-health", "channel-positive-energy", "aura-of-resolve", "aura-of-justice", "aura-of-faith"]
+trades = [
+  { replaces = "Aura of courage", feature = "aura-of-courage" },
+  { replaces = "Divine health", feature = "divine-health" },
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+  { replaces = "Aura of resolve", feature = "aura-of-resolve" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { replaces = "Aura of faith", feature = "aura-of-faith" },
+]
 +++
 
 Forest preservers are sacred defenders of the woodlands and of the wild creatures and natural beauty

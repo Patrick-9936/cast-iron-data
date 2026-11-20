@@ -16,8 +16,14 @@ page = "112"
 
 [fields]
 kind = "archetype"
-replaces = ["Bombs", "Poison resistance", "Poison use", "Swift poisoning", "The 8th-level alchemist discovery", "Poison immunity"]
-replaces_features = ["poison-resistance", "poison-use", "swift-poisoning"]
+trades = [
+  { replaces = "Bombs", feature = "bomb" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "Swift poisoning", feature = "swift-poisoning" },
+  { replaces = "The 8th-level alchemist discovery", feature = "discovery", levels = [8] },
+  { replaces = "Poison immunity" },
+]
 +++
 
 Ectochymists study the effects of alchemy on soul and spirit, focusing on fighting ghosts and other

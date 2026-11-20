@@ -16,10 +16,14 @@ page = "60"
 
 [fields]
 kind = "archetype"
-replaces = ["Consummate liar", "Touch treatment (minor)", "Touch treatment (moderate)", "Touch treatment (greater)", "Touch treatment (break enchantment)"]
-alters = ["Painful stare"]
-replaces_features = ["consummate-liar"]
-alters_features = ["painful-stare"]
+trades = [
+  { replaces = "Consummate liar", feature = "consummate-liar" },
+  { replaces = "Touch treatment (minor)", feature = "touch-treatment", power = "minor" },
+  { replaces = "Touch treatment (moderate)", feature = "touch-treatment", power = "moderate" },
+  { replaces = "Touch treatment (greater)", feature = "touch-treatment", power = "greater" },
+  { replaces = "Touch treatment (break enchantment)" },
+  { alters = "Painful stare", feature = "painful-stare" },
+]
 +++
 
 A gaslighter takes joy in others' suffering, delighting in driving them to madness.

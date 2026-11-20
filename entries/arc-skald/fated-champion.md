@@ -16,10 +16,12 @@ page = "114"
 
 [fields]
 kind = "archetype"
-replaces = ["Well-versed", "Dirge of doom raging song", "Master skald"]
-alters = ["Spell kenning"]
-replaces_features = ["well-versed", "master-skald"]
-alters_features = ["spell-kenning"]
+trades = [
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Dirge of doom raging song" },
+  { replaces = "Master skald", feature = "master-skald" },
+  { alters = "Spell kenning", feature = "spell-kenning" },
+]
 +++
 
 Many cultures see fate as a limit that is both stifling and unwanted, regardless of the destiny that

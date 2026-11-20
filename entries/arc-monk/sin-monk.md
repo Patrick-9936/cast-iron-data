@@ -16,8 +16,14 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Ki pool", "alters high jump", "Wholeness of body", "Abundant step", "Empty body", "Perfect self"]
-replaces_features = ["ki-pool", "wholeness-of-body", "abundant-step", "empty-body", "perfect-self"]
+trades = [
+  { replaces = "Ki pool", feature = "ki-pool" },
+  { replaces = "alters high jump" },
+  { replaces = "Wholeness of body", feature = "wholeness-of-body" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { replaces = "Empty body", feature = "empty-body" },
+  { replaces = "Perfect self", feature = "perfect-self" },
+]
 +++
 
 Some vices prove too tempting even to those who have trained their minds and bodies against such

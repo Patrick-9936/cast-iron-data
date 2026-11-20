@@ -16,10 +16,13 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Inspire greatness", "Inspire heroics", "Well-versed", "Versatile performance"]
-alters = ["Bardic knowledge"]
-replaces_features = ["well-versed", "versatile-performance"]
-alters_features = ["bardic-knowledge"]
+trades = [
+  { replaces = "Inspire greatness" },
+  { replaces = "Inspire heroics" },
+  { replaces = "Well-versed", feature = "well-versed" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { alters = "Bardic knowledge", feature = "bardic-knowledge" },
+]
 +++
 
 In eons past, the angel Tabris was tasked with cataloging all knowledge of the Great Beyond, only to

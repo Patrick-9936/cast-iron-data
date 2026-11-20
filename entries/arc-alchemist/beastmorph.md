@@ -16,8 +16,13 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Swift alchemy", "Swift poisoning", "Poison resistance +2, +4, and +6", "poison immunity", "Persistent mutagen"]
-replaces_features = ["swift-alchemy", "swift-poisoning", "persistent-mutagen"]
+trades = [
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { replaces = "Swift poisoning", feature = "swift-poisoning" },
+  { replaces = "Poison resistance +2, +4, and +6" },
+  { replaces = "poison immunity" },
+  { replaces = "Persistent mutagen", feature = "persistent-mutagen" },
+]
 +++
 
 Beastmorphs study the anatomy of monsters, learning how they achieve their strange powers. They use

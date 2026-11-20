@@ -16,8 +16,12 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Spirit animal", "Wandering spirit", "wandering hex", "8th-level hex"]
-replaces_features = ["spirit-animal", "wandering-spirit", "wandering-hex"]
+trades = [
+  { replaces = "Spirit animal", feature = "spirit-animal" },
+  { replaces = "Wandering spirit", feature = "wandering-spirit" },
+  { replaces = "wandering hex", feature = "wandering-hex" },
+  { replaces = "8th-level hex", feature = "hex", levels = [8] },
+]
 +++
 
 Members in good standing who have risen to a prestigious rank within the Esoteric Order of the

@@ -16,10 +16,14 @@ page = "48"
 
 [fields]
 kind = "archetype"
-replaces = ["Spontaneous casting", "Wild empathy", "Woodland stride", "Resist nature's lure", "Wild shape"]
-alters = ["Nature bond"]
-replaces_features = ["spontaneous-casting", "wild-empathy", "woodland-stride", "resist-nature-s-lure", "wild-shape"]
-alters_features = ["nature-bond"]
+trades = [
+  { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { alters = "Nature bond", feature = "nature-bond" },
+]
 +++
 
 Guardians of the lonely paths between cities, road keepers protect the wild from travelers, and

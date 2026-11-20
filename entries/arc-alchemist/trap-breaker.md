@@ -16,8 +16,14 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison use", "poison resistance +2", "Poison resistance +4", "poison resistance +6", "Swift poisoning", "Poison immunity"]
-replaces_features = ["poison-use", "swift-poisoning"]
+trades = [
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "poison resistance +2", feature = "poison-resistance", power = "+2" },
+  { replaces = "Poison resistance +4", feature = "poison-resistance", power = "+4" },
+  { replaces = "poison resistance +6", feature = "poison-resistance", power = "+6" },
+  { replaces = "Swift poisoning", feature = "swift-poisoning" },
+  { replaces = "Poison immunity" },
+]
 +++
 
 Trap breakers forgo the study of poison to instead master the construction and deployment of traps,

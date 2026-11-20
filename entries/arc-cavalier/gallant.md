@@ -16,9 +16,11 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Banner", "Greater banner"]
-alters = ["The cavalier's order"]
-replaces_features = ["banner", "greater-banner"]
+trades = [
+  { replaces = "Banner", feature = "banner" },
+  { replaces = "Greater banner", feature = "greater-banner" },
+  { alters = "The cavalier's order" },
+]
 +++
 
 Gallants embody the virtues of honor, generosity, and civility. Their personal symbol serves as an

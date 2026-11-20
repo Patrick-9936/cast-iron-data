@@ -16,8 +16,14 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Mutagen", "swift poisoning", "persistent mutagen", "Poison use", "swift alchemy", "Poison resistance"]
-replaces_features = ["mutagen", "swift-poisoning", "persistent-mutagen", "poison-use", "swift-alchemy", "poison-resistance"]
+trades = [
+  { replaces = "Mutagen", feature = "mutagen" },
+  { replaces = "swift poisoning", feature = "swift-poisoning" },
+  { replaces = "persistent mutagen", feature = "persistent-mutagen" },
+  { replaces = "Poison use", feature = "poison-use" },
+  { replaces = "swift alchemy", feature = "swift-alchemy" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+]
 +++
 
 Although the specifics of the Aeromantic Infadibulum are lost to time, aerochemists are able to

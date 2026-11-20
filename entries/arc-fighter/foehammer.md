@@ -16,10 +16,16 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor training 1", "Armor training 2 and 4", "Weapon training 2", "Armor training 3", "Weapon training 3", "Weapon training 4", "Armor mastery"]
-alters = ["Weapon mastery"]
-replaces_features = ["armor-mastery"]
-alters_features = ["weapon-mastery"]
+trades = [
+  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+  { replaces = "Armor training 2 and 4" },
+  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
+  { replaces = "Weapon training 3", feature = "weapon-training", power = "3" },
+  { replaces = "Weapon training 4", feature = "weapon-training", power = "4" },
+  { replaces = "Armor mastery", feature = "armor-mastery" },
+  { alters = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 While the axe is the most famous dwarven weapon, the hammer is at the heart of dwarves' heritage as

@@ -16,10 +16,14 @@ page = "62"
 
 [fields]
 kind = "archetype"
-replaces = ["Divine grace", "Mercy", "Lay on hands", "channel positive energy", "Holy champion"]
-alters = ["Divine bond"]
-replaces_features = ["divine-grace", "mercy", "lay-on-hands", "channel-positive-energy", "holy-champion"]
-alters_features = ["divine-bond"]
+trades = [
+  { replaces = "Divine grace", feature = "divine-grace" },
+  { replaces = "Mercy", feature = "mercy" },
+  { replaces = "Lay on hands", feature = "lay-on-hands" },
+  { replaces = "channel positive energy", feature = "channel-positive-energy" },
+  { replaces = "Holy champion", feature = "holy-champion" },
+  { alters = "Divine bond", feature = "divine-bond" },
+]
 +++
 
 The empyreal knight dedicates her life to serving the celestial beings that guide mortals in their

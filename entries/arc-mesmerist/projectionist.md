@@ -16,9 +16,11 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Mesmerist tricks gained at 4th and 8th levels", "Mental potency"]
-alters = ["Spellcasting"]
-replaces_features = ["mental-potency"]
+trades = [
+  { replaces = "Mesmerist tricks gained at 4th and 8th levels", feature = "mesmerist-tricks", levels = [4, 8] },
+  { replaces = "Mental potency", feature = "mental-potency" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Not content to simply command others from afar, a projectionist is able to use his mesmerizing

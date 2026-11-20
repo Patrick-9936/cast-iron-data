@@ -16,8 +16,9 @@ page = "11"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild shape"]
-replaces_features = ["wild-shape"]
+trades = [
+  { replaces = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Season sages wander as the seasons change, turning the leaves and transforming nature as they pass

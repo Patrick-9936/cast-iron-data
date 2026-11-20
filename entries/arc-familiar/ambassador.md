@@ -12,7 +12,10 @@ page = "210"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "The familiar's Intelligence score advancement"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "The familiar's Intelligence score advancement" },
+]
 +++
 
 An ambassador speaks on its master's behalf and sometimes on behalf of its master's patron or other

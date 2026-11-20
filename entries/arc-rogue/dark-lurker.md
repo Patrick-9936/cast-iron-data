@@ -16,8 +16,13 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "Rogue talent gained at 2nd level", "Rogue talent gained at 8th level", "Rogue talent gained at 14th level", "Rogue talent gained at 20th level"]
-replaces_features = ["evasion"]
+trades = [
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Rogue talent gained at 2nd level", feature = "rogue-talents", levels = [2] },
+  { replaces = "Rogue talent gained at 8th level", feature = "rogue-talents", levels = [8] },
+  { replaces = "Rogue talent gained at 14th level", feature = "rogue-talents", levels = [14] },
+  { replaces = "Rogue talent gained at 20th level", feature = "rogue-talents", levels = [20] },
+]
 +++
 
 Dark lurkers use darkness as an ally. They are widely feared in many major metropolises, spoken of

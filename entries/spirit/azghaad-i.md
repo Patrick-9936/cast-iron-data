@@ -13,7 +13,9 @@ page = "11"
 [fields]
 kind = "class_option"
 group = "medium-spirit"
-replaces = ["Decisive strike"]
+trades = [
+  { replaces = "Decisive strike" },
+]
 +++
 
 The ancient founder of Osirion, Azghaad I brought his people together under

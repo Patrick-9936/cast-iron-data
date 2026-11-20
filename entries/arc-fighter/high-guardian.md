@@ -16,8 +16,12 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus feat gained at 1st level", "The bonus feat gained at 2nd level", "Bravery", "The bonus feat gained at 4th level"]
-replaces_features = ["bravery"]
+trades = [
+  { replaces = "The bonus feat gained at 1st level", feature = "bonus-feats", levels = [1] },
+  { replaces = "The bonus feat gained at 2nd level", feature = "bonus-feats", levels = [2] },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "The bonus feat gained at 4th level", feature = "bonus-feats", levels = [4] },
+]
 +++
 
 As the shield that protects his lord from the myriad dangers around every corner, the high guardian

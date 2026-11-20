@@ -16,8 +16,17 @@ page = "117"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "Tactician", "greater tactician", "master tactician", "Cavalier's charge", "Expert trainer", "banner", "Mighty charge", "greater banner"]
-replaces_features = ["mount", "tactician", "greater-tactician", "master-tactician", "cavalier-s-charge", "expert-trainer", "banner", "mighty-charge", "greater-banner"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Tactician", feature = "tactician" },
+  { replaces = "greater tactician", feature = "greater-tactician" },
+  { replaces = "master tactician", feature = "master-tactician" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "banner", feature = "banner" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "greater banner", feature = "greater-banner" },
+]
 +++
 
 Ghost riders are conflicted warriors who use the powers of the phantasmal dead even while seeking

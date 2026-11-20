@@ -16,10 +16,15 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Magic circles", "outside contact", "binding circles", "fast circles"]
-alters = ["Weapon proficiencies", "Mental focus", "Shift focus"]
-replaces_features = ["magic-circles", "outside-contact", "binding-circles", "fast-circles"]
-alters_features = ["mental-focus", "shift-focus"]
+trades = [
+  { replaces = "Magic circles", feature = "magic-circles" },
+  { replaces = "outside contact", feature = "outside-contact" },
+  { replaces = "binding circles", feature = "binding-circles" },
+  { replaces = "fast circles", feature = "fast-circles" },
+  { alters = "Weapon proficiencies" },
+  { alters = "Mental focus", feature = "mental-focus" },
+  { alters = "Shift focus", feature = "shift-focus" },
+]
 +++
 
 Extemporaneous channelers study the power of transformation and use items in unintended ways to

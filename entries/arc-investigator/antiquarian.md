@@ -16,9 +16,11 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["Poison lore", "Swift alchemy"]
-alters = ["Alchemy (including Extracts)"]
-replaces_features = ["poison-lore", "swift-alchemy"]
+trades = [
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { replaces = "Swift alchemy", feature = "swift-alchemy" },
+  { alters = "Alchemy (including Extracts)" },
+]
 +++
 
 Antiquarians are collectors, explorers, and scholars who delve into ruined places in search of lost

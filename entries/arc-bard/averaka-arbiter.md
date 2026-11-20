@@ -16,8 +16,12 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Inspire competence", "Dirge of doom", "Versatile performance", "well-versed"]
-replaces_features = ["versatile-performance", "well-versed"]
+trades = [
+  { replaces = "Inspire competence" },
+  { replaces = "Dirge of doom" },
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "well-versed", feature = "well-versed" },
+]
 +++
 
 Some Averakan bards make it their mission to unify their fellow half-orcs, and are equally skilled

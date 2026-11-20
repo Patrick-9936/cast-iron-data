@@ -16,10 +16,11 @@ page = "4"
 
 [fields]
 kind = "archetype"
-replaces = ["Spontaneous casting"]
-alters = ["Wild shape", "Venom immunity"]
-replaces_features = ["spontaneous-casting"]
-alters_features = ["wild-shape", "venom-immunity"]
+trades = [
+  { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
+  { alters = "Wild shape", feature = "wild-shape" },
+  { alters = "Venom immunity", feature = "venom-immunity" },
+]
 +++
 
 A mantella focuses on exploring her poisonous heritage, whether or not it has manifested in her own

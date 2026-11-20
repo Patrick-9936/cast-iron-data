@@ -16,7 +16,9 @@ page = "43"
 
 [fields]
 kind = "archetype"
-replaces = ["Familiar"]
+trades = [
+  { replaces = "Familiar" },
+]
 +++
 
 While all witches commune with the unknown, the blend of human ingenuity and adept learning mixed

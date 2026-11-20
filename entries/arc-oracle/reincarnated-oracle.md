@@ -16,7 +16,9 @@ page = "199"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus spells gained at 2nd, 4th, 10th, 16th, and 18th levels from the oracle's mystery"]
+trades = [
+  { replaces = "The bonus spells gained at 2nd, 4th, 10th, 16th, and 18th levels from the oracle's mystery" },
+]
 +++
 
 A reincarnated oracle draws her knowledge and power from the experiences of her previous lives. Her

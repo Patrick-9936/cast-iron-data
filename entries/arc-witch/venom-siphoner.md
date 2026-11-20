@@ -16,7 +16,12 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level hex", "the familiar's alertness special ability", "2nd-level hex", "6th-level hex"]
+trades = [
+  { replaces = "1st-level hex", feature = "hex", levels = [1] },
+  { replaces = "the familiar's alertness special ability" },
+  { replaces = "2nd-level hex", feature = "hex", levels = [2] },
+  { replaces = "6th-level hex", feature = "hex", levels = [6] },
+]
 +++
 
 Witches are no strangers to [poisons](ref/rule/poisons), using them alongside their various brews,

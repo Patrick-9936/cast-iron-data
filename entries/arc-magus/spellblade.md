@@ -16,8 +16,9 @@ page = "49"
 
 [fields]
 kind = "archetype"
-replaces = ["Spellstrike"]
-replaces_features = ["spellstrike"]
+trades = [
+  { replaces = "Spellstrike", feature = "spellstrike" },
+]
 +++
 
 A spellblade magus can manifest a ghostly blade of force that can be used as an off-hand weapon.

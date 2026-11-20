@@ -16,10 +16,12 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "Vigilante talent gained at 2nd level"]
-alters = ["Vigilante specialization", "Vigilante talents"]
-replaces_features = ["weapon-and-armor-proficiencies"]
-alters_features = ["vigilante-specialization"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Vigilante talent gained at 2nd level", feature = "vigilante-talent", levels = [2] },
+  { alters = "Vigilante specialization", feature = "vigilante-specialization" },
+  { alters = "Vigilante talents", feature = "vigilante-talent" },
+]
 +++
 
 Teisatsu are specialized vigilantes who focus on infiltrating social scenes and high-society

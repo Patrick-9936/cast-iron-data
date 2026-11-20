@@ -16,10 +16,13 @@ page = "6"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Lore master", "Dirge of doom", "Frightening tune"]
-alters = ["Versatile performance"]
-replaces_features = ["bardic-knowledge", "lore-master"]
-alters_features = ["versatile-performance"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { replaces = "Dirge of doom" },
+  { replaces = "Frightening tune" },
+  { alters = "Versatile performance", feature = "versatile-performance" },
+]
 +++
 
 Whether singing a delicate duo with a nightingale or slipping coins from purses while a trained

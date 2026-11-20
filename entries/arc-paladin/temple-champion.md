@@ -16,8 +16,10 @@ page = "107"
 
 [fields]
 kind = "archetype"
-replaces = ["Divine bond", "aura of justice"]
-replaces_features = ["divine-bond", "aura-of-justice"]
+trades = [
+  { replaces = "Divine bond", feature = "divine-bond" },
+  { replaces = "aura of justice", feature = "aura-of-justice" },
+]
 +++
 
 A temple champion is a powerful warrior dedicated to a good or lawful deity. She thinks of herself

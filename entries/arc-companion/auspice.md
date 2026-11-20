@@ -12,7 +12,11 @@ page = "187"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Evasion", "Improved Evasion"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Evasion" },
+  { replaces = "Improved Evasion" },
+]
 +++
 
 Auspices were born with a birthmark or other feature that seems to be in the shape of their master's

@@ -16,10 +16,16 @@ page = "70"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd-level vigilante talent", "Unshakable", "4th-level vigilante talent", "Startling appearance", "Frightening appearance", "Stunning appearance"]
-alters = ["Weapon and armor proficiencies", "Vigilante specialization"]
-replaces_features = ["unshakable", "startling-appearance", "frightening-appearance", "stunning-appearance"]
-alters_features = ["weapon-and-armor-proficiencies", "vigilante-specialization"]
+trades = [
+  { replaces = "2nd-level vigilante talent", feature = "vigilante-talent", levels = [2] },
+  { replaces = "Unshakable", feature = "unshakable" },
+  { replaces = "4th-level vigilante talent", feature = "vigilante-talent", levels = [4] },
+  { replaces = "Startling appearance", feature = "startling-appearance" },
+  { replaces = "Frightening appearance", feature = "frightening-appearance" },
+  { replaces = "Stunning appearance", feature = "stunning-appearance" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Vigilante specialization", feature = "vigilante-specialization" },
+]
 +++
 
 Wherever the guilty walk free, the hangman brings judgment.

@@ -16,8 +16,13 @@ page = "38"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature sense", "wild empathy", "Woodland stride", "trackless step", "A thousand faces"]
-replaces_features = ["nature-sense", "wild-empathy", "woodland-stride", "trackless-step", "a-thousand-faces"]
+trades = [
+  { replaces = "Nature sense", feature = "nature-sense" },
+  { replaces = "wild empathy", feature = "wild-empathy" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "trackless step", feature = "trackless-step" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+]
 +++
 
 Some druids study the paths of nature's power through the nodes and ley lines that connect standing

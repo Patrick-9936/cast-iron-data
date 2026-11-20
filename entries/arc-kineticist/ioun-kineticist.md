@@ -16,9 +16,12 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["The ability score boosts granted by elemental overflow"]
-alters = ["Elemental focus", "Basic telekinesis utility wild talent granted by the aether element", "Internal buffer"]
-alters_features = ["elemental-focus", "internal-buffer"]
+trades = [
+  { replaces = "The ability score boosts granted by elemental overflow" },
+  { alters = "Elemental focus", feature = "elemental-focus" },
+  { alters = "Basic telekinesis utility wild talent granted by the aether element" },
+  { alters = "Internal buffer", feature = "internal-buffer" },
+]
 +++
 
 Among the greatest technologies to come from Azlant are ioun stones, small crystalline minerals

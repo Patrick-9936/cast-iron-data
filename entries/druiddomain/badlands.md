@@ -13,8 +13,9 @@ page = "24"
 [fields]
 kind = "class_option"
 group = "druid-domain"
-replaces = ["Woodland stride"]
-replaces_features = ["woodland-stride"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+]
 +++
 
 ## Badlands Domain

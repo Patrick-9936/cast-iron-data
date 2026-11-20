@@ -16,8 +16,12 @@ page = "72"
 
 [fields]
 kind = "archetype"
-replaces = ["1st favored terrain", "wild empathy", "Hunter's bond", "Woodland stride"]
-replaces_features = ["wild-empathy", "hunter-s-bond", "woodland-stride"]
+trades = [
+  { replaces = "1st favored terrain" },
+  { replaces = "wild empathy", feature = "wild-empathy" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+]
 +++
 
 Cinderwalkers traverse burning wastelands and restless mountains, thriving in lands most creatures

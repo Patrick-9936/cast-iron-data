@@ -16,8 +16,13 @@ page = "111"
 
 [fields]
 kind = "archetype"
-replaces = ["Still mind", "Purity of body", "Diamond body", "Diamond soul", "Empty body"]
-replaces_features = ["still-mind", "purity-of-body", "diamond-body", "diamond-soul", "empty-body"]
+trades = [
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "Diamond body", feature = "diamond-body" },
+  { replaces = "Diamond soul", feature = "diamond-soul" },
+  { replaces = "Empty body", feature = "empty-body" },
+]
 +++
 
 The ki mystic believes that violence is sometimes necessary, but knowing and understanding is the

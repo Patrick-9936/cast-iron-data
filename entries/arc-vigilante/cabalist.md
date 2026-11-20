@@ -16,9 +16,16 @@ page = "55"
 
 [fields]
 kind = "archetype"
-replaces = ["4th-, 8th-, 10th-, 14th-, and 16th-level vigilante talents", "Vigilante specialization", "Startling appearance", "Frightening appearance", "Stunning appearance"]
-alters = ["Skill ranks per level", "Armor and weapon proficiencies", "Vigilante talents"]
-replaces_features = ["vigilante-specialization", "startling-appearance", "frightening-appearance", "stunning-appearance"]
+trades = [
+  { replaces = "4th-, 8th-, 10th-, 14th-, and 16th-level vigilante talents", feature = "vigilante-talent", levels = [4, 8, 10, 14, 16] },
+  { replaces = "Vigilante specialization", feature = "vigilante-specialization" },
+  { replaces = "Startling appearance", feature = "startling-appearance" },
+  { replaces = "Frightening appearance", feature = "frightening-appearance" },
+  { replaces = "Stunning appearance", feature = "stunning-appearance" },
+  { alters = "Skill ranks per level" },
+  { alters = "Armor and weapon proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Vigilante talents", feature = "vigilante-talent" },
+]
 +++
 
 Appearing to be an upstanding member of society, the cabalist clandestinely follows the tenets of a

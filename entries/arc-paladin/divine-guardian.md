@@ -16,10 +16,11 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect evil"]
-alters = ["Lay on hands", "Aura of courage"]
-replaces_features = ["detect-evil"]
-alters_features = ["lay-on-hands", "aura-of-courage"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { alters = "Lay on hands", feature = "lay-on-hands" },
+  { alters = "Aura of courage", feature = "aura-of-courage" },
+]
 +++
 
 The divine guardian devotes herself to the protection and guardianship of one creature at a time, be

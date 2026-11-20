@@ -16,8 +16,11 @@ page = "75"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane bond", "Cantrips", "Arcane school"]
-replaces_features = ["arcane-bond", "cantrips", "arcane-school"]
+trades = [
+  { replaces = "Arcane bond", feature = "arcane-bond" },
+  { replaces = "Cantrips", feature = "cantrips" },
+  { replaces = "Arcane school", feature = "arcane-school" },
+]
 +++
 
 To many wizards, the experimentation of the alchemist seems quaint, if not dangerous or frightening.

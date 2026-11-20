@@ -16,10 +16,11 @@ page = "110"
 
 [fields]
 kind = "archetype"
-replaces = ["Hunter's bond", "Camouflage"]
-alters = ["Favored terrain"]
-replaces_features = ["hunter-s-bond", "camouflage"]
-alters_features = ["favored-terrain"]
+trades = [
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Camouflage", feature = "camouflage" },
+  { alters = "Favored terrain", feature = "favored-terrain" },
+]
 +++
 
 Hunters and guides through the Shadow Plane, dusk stalkers are rangers that thrive in shadow. Adept

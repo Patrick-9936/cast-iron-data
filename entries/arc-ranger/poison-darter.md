@@ -16,10 +16,13 @@ page = "9"
 
 [fields]
 kind = "archetype"
-replaces = ["Favored enemy", "master hunter", "Wild empathy", "Hunter's bond"]
-alters = ["Combat style feat"]
-replaces_features = ["favored-enemy", "master-hunter", "wild-empathy", "hunter-s-bond"]
-alters_features = ["combat-style-feat"]
+trades = [
+  { replaces = "Favored enemy", feature = "favored-enemy" },
+  { replaces = "master hunter", feature = "master-hunter" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { alters = "Combat style feat", feature = "combat-style-feat" },
+]
 +++
 
 In dense jungles, foliage and tight spaces hinder all but the most deceptively humble weapons:

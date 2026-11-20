@@ -16,8 +16,11 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Evasion", "rogue talents gained at 4th, 8th, 12th, and 16th levels"]
-replaces_features = ["trapfinding", "evasion"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "rogue talents gained at 4th, 8th, 12th, and 16th levels", feature = "rogue-talents", levels = [4, 8, 12, 16] },
+]
 +++
 
 When the dwarves began their Quest for Sky millennia ago to reach the world's surface, they already

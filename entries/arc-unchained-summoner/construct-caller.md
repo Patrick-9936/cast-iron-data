@@ -16,10 +16,10 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Summon monster I"]
-alters = ["Eidolon"]
-replaces_features = ["summon-monster-i"]
-alters_features = ["eidolon"]
+trades = [
+  { replaces = "Summon monster I", feature = "summon-monster-i" },
+  { alters = "Eidolon", feature = "eidolon" },
+]
 +++
 
 Construct callers use their mechanical and planar understandings to work planar energies as a

@@ -16,8 +16,15 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Fascinate", "Suggestion", "mass suggestion", "Dirge of doom", "frightening tune", "Bardic knowledge", "well-versed"]
-replaces_features = ["bardic-knowledge", "well-versed"]
+trades = [
+  { replaces = "Fascinate" },
+  { replaces = "Suggestion" },
+  { replaces = "mass suggestion" },
+  { replaces = "Dirge of doom" },
+  { replaces = "frightening tune" },
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "well-versed", feature = "well-versed" },
+]
 +++
 
 The impervious messenger is capable of harnessing the unique qualities of bardic magic to keep,

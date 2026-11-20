@@ -16,10 +16,12 @@ page = "39"
 
 [fields]
 kind = "archetype"
-replaces = ["Expert trainer", "Greater banner", "The cavalier's 18th-level bonus feat"]
-alters = ["Tactician"]
-replaces_features = ["expert-trainer", "greater-banner"]
-alters_features = ["tactician"]
+trades = [
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "Greater banner", feature = "greater-banner" },
+  { replaces = "The cavalier's 18th-level bonus feat", feature = "bonus-feat", levels = [18] },
+  { alters = "Tactician", feature = "tactician" },
+]
 +++
 
 Some cavaliers make a lifelong mission out of their exceptional ability to direct troops on the

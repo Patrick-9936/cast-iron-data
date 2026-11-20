@@ -16,8 +16,16 @@ page = "116"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement", "2nd-level rage power", "Trap sense +1", "Improved uncanny dodge", "Trap sense +2", "Trap sense +3", "trap sense +5", "Trap sense +4"]
-replaces_features = ["fast-movement", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "2nd-level rage power", feature = "rage-powers", levels = [2] },
+  { replaces = "Trap sense +1", feature = "trap-sense", power = "+1" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Trap sense +2", feature = "trap-sense", power = "+2" },
+  { replaces = "Trap sense +3", feature = "trap-sense", power = "+3" },
+  { replaces = "trap sense +5", feature = "trap-sense", power = "+5" },
+  { replaces = "Trap sense +4", feature = "trap-sense", power = "+4" },
+]
 +++
 
 Feral gnashers grow up in the wild, either raised by animals or scraping by on their own, and soon

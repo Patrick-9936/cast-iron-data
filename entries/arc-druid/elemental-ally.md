@@ -16,8 +16,12 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["Nature's bond", "wild shape", "Wild empathy", "Resist nature's lure"]
-replaces_features = ["wild-shape", "wild-empathy", "resist-nature-s-lure"]
+trades = [
+  { replaces = "Nature's bond", feature = "nature-bond" },
+  { replaces = "wild shape", feature = "wild-shape" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+]
 +++
 
 An elemental ally is a druid who has crafted powerful bonds of trust and friendship with one ally

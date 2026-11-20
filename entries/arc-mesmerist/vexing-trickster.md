@@ -16,8 +16,14 @@ page = "19"
 
 [fields]
 kind = "archetype"
-replaces = ["Consummate liar", "Towering ego", "Touch treatment (minor)", "touch treatment (greater)", "Touch treatment (moderate)", "touch treatment (break enchantment)"]
-replaces_features = ["consummate-liar", "towering-ego"]
+trades = [
+  { replaces = "Consummate liar", feature = "consummate-liar" },
+  { replaces = "Towering ego", feature = "towering-ego" },
+  { replaces = "Touch treatment (minor)", feature = "touch-treatment", power = "minor" },
+  { replaces = "touch treatment (greater)", feature = "touch-treatment", power = "greater" },
+  { replaces = "Touch treatment (moderate)", feature = "touch-treatment", power = "moderate" },
+  { replaces = "touch treatment (break enchantment)" },
+]
 +++
 
 While many mesmerists are called to embrace the art of deception, using their mind-binding powers to

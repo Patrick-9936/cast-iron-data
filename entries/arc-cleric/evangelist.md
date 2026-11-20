@@ -16,9 +16,10 @@ page = "40"
 
 [fields]
 kind = "archetype"
-replaces = ["The 1st-, 9th-, and 15th-level channel energy abilities"]
-alters = ["Spontaneous casting"]
-alters_features = ["spontaneous-casting"]
+trades = [
+  { replaces = "The 1st-, 9th-, and 15th-level channel energy abilities" },
+  { alters = "Spontaneous casting", feature = "spontaneous-casting" },
+]
 +++
 
 The evangelist is the voice of her religion in the world. Where others nurture the faith among

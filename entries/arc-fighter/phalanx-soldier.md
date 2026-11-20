@@ -16,8 +16,15 @@ page = "105"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "Armor training 1", "Weapon training 1", "Armor training 2 and 3", "Weapon training 2, 3, and 4", "Armor training 4", "Weapon mastery"]
-replaces_features = ["bravery", "weapon-mastery"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
+  { replaces = "Armor training 2 and 3" },
+  { replaces = "Weapon training 2, 3, and 4" },
+  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 The phalanx soldier specializes in defensive tactics, using his shield to guard himself and his

@@ -16,10 +16,11 @@ page = "53"
 
 [fields]
 kind = "archetype"
-replaces = ["Expert trainer"]
-alters = ["Armor proficiency", "Mount"]
-replaces_features = ["expert-trainer"]
-alters_features = ["mount"]
+trades = [
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { alters = "Armor proficiency" },
+  { alters = "Mount", feature = "mount" },
+]
 +++
 
 Oceanriders are underwater cavaliers who ride dolphins, orcas, or seahorses.

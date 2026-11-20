@@ -16,8 +16,12 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Suggestion", "Lore master", "Mass suggestion"]
-replaces_features = ["bardic-knowledge", "lore-master"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Suggestion" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { replaces = "Mass suggestion" },
+]
 +++
 
 A buccaneer is a pirate who specializes in raiding ships and port towns, but who leaves his victims

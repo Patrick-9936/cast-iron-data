@@ -16,8 +16,13 @@ page = "86"
 
 [fields]
 kind = "archetype"
-replaces = ["Unarmed strike", "close weapon mastery", "Maneuver training", "AC bonus", "Brawler's strike"]
-replaces_features = ["unarmed-strike", "close-weapon-mastery", "maneuver-training", "ac-bonus", "brawler-s-strike"]
+trades = [
+  { replaces = "Unarmed strike", feature = "unarmed-strike" },
+  { replaces = "close weapon mastery", feature = "close-weapon-mastery" },
+  { replaces = "Maneuver training", feature = "maneuver-training" },
+  { replaces = "AC bonus", feature = "ac-bonus" },
+  { replaces = "Brawler's strike", feature = "brawler-s-strike" },
+]
 +++
 
 A versatile soldier who inspires her companions with her fighting prowess, an exemplar is at home on

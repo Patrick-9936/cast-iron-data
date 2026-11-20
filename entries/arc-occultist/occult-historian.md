@@ -16,8 +16,12 @@ page = "67"
 
 [fields]
 kind = "archetype"
-replaces = ["Object reading", "aura sight", "3rd-level focus power", "Outside contact 2, 3, and 4"]
-replaces_features = ["object-reading", "aura-sight"]
+trades = [
+  { replaces = "Object reading", feature = "object-reading" },
+  { replaces = "aura sight", feature = "aura-sight" },
+  { replaces = "3rd-level focus power", feature = "focus-powers", levels = [3] },
+  { replaces = "Outside contact 2, 3, and 4" },
+]
 +++
 
 Many wilderness areas contain the remnants of ancient civilizations, with some waiting to be

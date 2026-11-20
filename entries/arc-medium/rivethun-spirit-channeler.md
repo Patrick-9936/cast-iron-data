@@ -16,10 +16,14 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Spirit bonus", "spirit surge", "Taboo", "Connection channel"]
-alters = ["Spellcasting", "Spirit"]
-replaces_features = ["spirit-bonus", "spirit-surge", "taboo", "connection-channel"]
-alters_features = ["spirit"]
+trades = [
+  { replaces = "Spirit bonus", feature = "spirit-bonus" },
+  { replaces = "spirit surge", feature = "spirit-surge" },
+  { replaces = "Taboo", feature = "taboo" },
+  { replaces = "Connection channel", feature = "connection-channel" },
+  { alters = "Spellcasting" },
+  { alters = "Spirit", feature = "spirit" },
+]
 +++
 
 [Rivethun](ref/rule/aff-animists) spirit channelers are mediums who practice the ancient dwarven

@@ -16,10 +16,16 @@ page = "96"
 
 [fields]
 kind = "archetype"
-replaces = ["Consummate liar", "Painful stare", "3rd- and 6th-level touch treatments", "7th-level bold stare", "10th- and 14th-level touch treatments", "Rule minds"]
-alters = ["Mesmerist tricks", "Masterful tricks"]
-replaces_features = ["consummate-liar", "painful-stare", "rule-minds"]
-alters_features = ["mesmerist-tricks", "masterful-tricks"]
+trades = [
+  { replaces = "Consummate liar", feature = "consummate-liar" },
+  { replaces = "Painful stare", feature = "painful-stare" },
+  { replaces = "3rd- and 6th-level touch treatments", feature = "touch-treatment", levels = [3, 6] },
+  { replaces = "7th-level bold stare", feature = "bold-stare", levels = [7] },
+  { replaces = "10th- and 14th-level touch treatments", feature = "touch-treatment", levels = [10, 14] },
+  { replaces = "Rule minds", feature = "rule-minds" },
+  { alters = "Mesmerist tricks", feature = "mesmerist-tricks" },
+  { alters = "Masterful tricks", feature = "masterful-tricks" },
+]
 +++
 
 The leaders of some cults are simply charlatans, bathing in the adulation of their followers. Others

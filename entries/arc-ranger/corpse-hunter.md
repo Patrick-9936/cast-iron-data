@@ -16,8 +16,10 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Swift tracker"]
-replaces_features = ["woodland-stride", "swift-tracker"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+]
 +++
 
 Many rangers count the undead among their _favored enemies,_ but some make a full-time job out of

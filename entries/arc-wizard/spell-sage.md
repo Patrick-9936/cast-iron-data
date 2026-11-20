@@ -16,8 +16,10 @@ page = "133"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane bond", "Arcane school"]
-replaces_features = ["arcane-bond", "arcane-school"]
+trades = [
+  { replaces = "Arcane bond", feature = "arcane-bond" },
+  { replaces = "Arcane school", feature = "arcane-school" },
+]
 +++
 
 A spell sage has mastered spells of all types, and is able to increase the effectiveness of his own

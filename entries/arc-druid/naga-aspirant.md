@@ -16,8 +16,15 @@ page = "196"
 
 [fields]
 kind = "archetype"
-replaces = ["Spontaneous casting", "Resist nature's lure", "Wild Shape", "Venom immunity", "a thousand faces", "timeless body", "Wildshape (at will)"]
-replaces_features = ["spontaneous-casting", "resist-nature-s-lure", "wild-shape", "venom-immunity", "a-thousand-faces", "timeless-body"]
+trades = [
+  { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Wild Shape", feature = "wild-shape" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { replaces = "a thousand faces", feature = "a-thousand-faces" },
+  { replaces = "timeless body", feature = "timeless-body" },
+  { replaces = "Wildshape (at will)" },
+]
 +++
 
 The naga aspirant follows the ancient beliefs and engages in the rituals of a druidic sect dedicated

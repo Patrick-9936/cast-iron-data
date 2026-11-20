@@ -13,8 +13,10 @@ page = "61"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Aura of resolve", "9th-level mercy"]
-replaces_features = ["aura-of-resolve"]
+trades = [
+  { replaces = "Aura of resolve", feature = "aura-of-resolve" },
+  { replaces = "9th-level mercy", feature = "mercy", levels = [9] },
+]
 +++
 
 A paladin who takes an oath against [demons](ref/family/demon), [devils](ref/family/devil),

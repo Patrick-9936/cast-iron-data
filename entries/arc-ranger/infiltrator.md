@@ -16,8 +16,9 @@ page = "125"
 
 [fields]
 kind = "archetype"
-replaces = ["Favored terrain"]
-replaces_features = ["favored-terrain"]
+trades = [
+  { replaces = "Favored terrain", feature = "favored-terrain" },
+]
 +++
 
 Some rangers study their _favored enemies_ and learn their ways, applying this knowledge to their

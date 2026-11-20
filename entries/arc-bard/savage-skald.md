@@ -16,8 +16,13 @@ page = "84"
 
 [fields]
 kind = "archetype"
-replaces = ["Fascinate", "Suggestion", "Jack of all trades", "Soothing performance", "Mass suggestion"]
-replaces_features = ["jack-of-all-trades"]
+trades = [
+  { replaces = "Fascinate" },
+  { replaces = "Suggestion" },
+  { replaces = "Jack of all trades", feature = "jack-of-all-trades" },
+  { replaces = "Soothing performance" },
+  { replaces = "Mass suggestion" },
+]
 +++
 
 Far from civilization, furious tribes have their own war-singers, work-chanters, and lore-keepers,

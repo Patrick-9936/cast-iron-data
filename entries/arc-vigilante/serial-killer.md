@@ -16,10 +16,17 @@ page = "71"
 
 [fields]
 kind = "archetype"
-replaces = ["Unshakable", "4th- and 14th-level vigilante talents, 9th- and 19th-level social talents", "Startling appearance", "6th-level vigilante talent", "7th-level social talent", "Frightening appearance", "12th-level vigilante talent", "Stunning appearance"]
-alters = ["Vigilante specialization"]
-replaces_features = ["unshakable", "startling-appearance", "frightening-appearance", "stunning-appearance"]
-alters_features = ["vigilante-specialization"]
+trades = [
+  { replaces = "Unshakable", feature = "unshakable" },
+  { replaces = "4th- and 14th-level vigilante talents, 9th- and 19th-level social talents" },
+  { replaces = "Startling appearance", feature = "startling-appearance" },
+  { replaces = "6th-level vigilante talent", feature = "vigilante-talent", levels = [6] },
+  { replaces = "7th-level social talent", feature = "social-talent", levels = [7] },
+  { replaces = "Frightening appearance", feature = "frightening-appearance" },
+  { replaces = "12th-level vigilante talent", feature = "vigilante-talent", levels = [12] },
+  { replaces = "Stunning appearance", feature = "stunning-appearance" },
+  { alters = "Vigilante specialization", feature = "vigilante-specialization" },
+]
 +++
 
 Some vigilantes adopt an innocent guise to cloak their acts of brutal murder.

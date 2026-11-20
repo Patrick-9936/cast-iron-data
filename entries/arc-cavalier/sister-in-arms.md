@@ -16,10 +16,15 @@ page = "83"
 
 [fields]
 kind = "archetype"
-replaces = ["Mount", "Cavalier's charge", "Expert trainer", "Mighty charge", "supreme charge"]
-alters = ["Challenge", "Order"]
-replaces_features = ["mount", "cavalier-s-charge", "expert-trainer", "mighty-charge", "supreme-charge"]
-alters_features = ["challenge", "order"]
+trades = [
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "supreme charge", feature = "supreme-charge" },
+  { alters = "Challenge", feature = "challenge" },
+  { alters = "Order", feature = "order" },
+]
 +++
 
 Some of the most charismatic [Gray Maidens](ref/rule/aff-scarred-ladies) combine their devotion to

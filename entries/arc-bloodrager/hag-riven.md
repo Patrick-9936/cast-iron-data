@@ -16,10 +16,13 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement", "uncanny dodge", "Improved uncanny dodge", "Damage reduction"]
-alters = ["Weapon and armor proficiencies"]
-replaces_features = ["fast-movement", "uncanny-dodge", "improved-uncanny-dodge", "damage-reduction"]
-alters_features = ["weapon-and-armor-proficiencies"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Damage reduction", feature = "damage-reduction" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+]
 +++
 
 All [changelings](ref/race/changeling) have the potential to transform into [hags](ref/family/hag),

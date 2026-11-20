@@ -16,7 +16,9 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus spells gained at 4th, 8th, 12th, and 16th levels from the oracle's mystery"]
+trades = [
+  { replaces = "The bonus spells gained at 4th, 8th, 12th, and 16th levels from the oracle's mystery" },
+]
 +++
 
 A hermit is a recluse who gained her oracular powers from isolation in a deep desert, on a mountain

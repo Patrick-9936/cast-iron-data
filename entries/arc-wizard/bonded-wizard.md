@@ -16,10 +16,12 @@ page = "17"
 
 [fields]
 kind = "archetype"
-replaces = ["Scribe Scroll", "5th- and 15th-level bonus feats", "10th-level bonus feat"]
-alters = ["Arcane bond"]
-replaces_features = ["scribe-scroll"]
-alters_features = ["arcane-bond"]
+trades = [
+  { replaces = "Scribe Scroll", feature = "scribe-scroll" },
+  { replaces = "5th- and 15th-level bonus feats", feature = "bonus-feats", levels = [5, 15] },
+  { replaces = "10th-level bonus feat", feature = "bonus-feats", levels = [10] },
+  { alters = "Arcane bond", feature = "arcane-bond" },
+]
 +++
 
 Many wizards form an arcane bond with an item, but for some this bond becomes a powerful mystic

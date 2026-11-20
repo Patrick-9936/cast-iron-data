@@ -16,7 +16,10 @@ page = "14"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-, 8th- and 16th-level hexes", "10th-level hex"]
+trades = [
+  { replaces = "1st-, 8th- and 16th-level hexes", feature = "hex", levels = [1, 8, 16] },
+  { replaces = "10th-level hex", feature = "hex", levels = [10] },
+]
 +++
 
 The invoker uses her familiar to summon facets of her mysterious patron directly into her body,

@@ -12,7 +12,10 @@ page = "189"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Devotion"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Devotion" },
+]
 +++
 
 Some companions are expert trackers, able to use their scent ability to follow any trail.

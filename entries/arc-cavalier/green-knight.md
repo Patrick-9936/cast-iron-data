@@ -16,10 +16,19 @@ page = "44"
 
 [fields]
 kind = "archetype"
-replaces = ["Tactician", "Mount", "Cavalier's charge", "Expert trainer", "banner", "Greater tactician", "Mighty charge", "greater banner", "Master tactician", "Supreme charge"]
-alters = ["Order"]
-replaces_features = ["tactician", "mount", "cavalier-s-charge", "expert-trainer", "banner", "greater-tactician", "mighty-charge", "greater-banner", "master-tactician", "supreme-charge"]
-alters_features = ["order"]
+trades = [
+  { replaces = "Tactician", feature = "tactician" },
+  { replaces = "Mount", feature = "mount" },
+  { replaces = "Cavalier's charge", feature = "cavalier-s-charge" },
+  { replaces = "Expert trainer", feature = "expert-trainer" },
+  { replaces = "banner", feature = "banner" },
+  { replaces = "Greater tactician", feature = "greater-tactician" },
+  { replaces = "Mighty charge", feature = "mighty-charge" },
+  { replaces = "greater banner", feature = "greater-banner" },
+  { replaces = "Master tactician", feature = "master-tactician" },
+  { replaces = "Supreme charge", feature = "supreme-charge" },
+  { alters = "Order", feature = "order" },
+]
 +++
 
 Some knights serve nature itself and can be found protecting unspoiled natural places or serving fey

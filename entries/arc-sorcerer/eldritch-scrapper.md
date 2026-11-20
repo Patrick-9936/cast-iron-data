@@ -16,7 +16,9 @@ page = "122"
 
 [fields]
 kind = "archetype"
-replaces = ["Bloodline powers gained at 1st, 9th, and 15th level"]
+trades = [
+  { replaces = "Bloodline powers gained at 1st, 9th, and 15th level" },
+]
 +++
 
 An eldritch scrapper is usually spoiling for a fight, looking to prove that she's just as tough as a

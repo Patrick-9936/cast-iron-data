@@ -16,8 +16,17 @@ page = "31"
 
 [fields]
 kind = "archetype"
-replaces = ["Proficiency with medium armor", "heavy armor", "and shields", "Bravery 1", "Armor training 1", "Armor training 2", "Armor training 3", "Armor training 4", "Armor mastery"]
-replaces_features = ["armor-mastery"]
+trades = [
+  { replaces = "Proficiency with medium armor" },
+  { replaces = "heavy armor" },
+  { replaces = "and shields" },
+  { replaces = "Bravery 1", feature = "bravery", power = "1" },
+  { replaces = "Armor training 1", feature = "armor-training", power = "1" },
+  { replaces = "Armor training 2", feature = "armor-training", power = "2" },
+  { replaces = "Armor training 3", feature = "armor-training", power = "3" },
+  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "Armor mastery", feature = "armor-mastery" },
+]
 +++
 
 Quick thinking and deception can often carry the day where raw force might not. Lore wardens are the

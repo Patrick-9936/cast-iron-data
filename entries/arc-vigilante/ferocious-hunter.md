@@ -16,10 +16,12 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["Vigilante talent gained at 2nd level", "Unshakable", "Vigilante talent gained at 8th level"]
-alters = ["Dual identity"]
-replaces_features = ["unshakable"]
-alters_features = ["dual-identity"]
+trades = [
+  { replaces = "Vigilante talent gained at 2nd level", feature = "vigilante-talent", levels = [2] },
+  { replaces = "Unshakable", feature = "unshakable" },
+  { replaces = "Vigilante talent gained at 8th level", feature = "vigilante-talent", levels = [8] },
+  { alters = "Dual identity", feature = "dual-identity" },
+]
 +++
 
 Half-orcs with more distant orc ancestry often look almost indistinguishable from humans, aside from

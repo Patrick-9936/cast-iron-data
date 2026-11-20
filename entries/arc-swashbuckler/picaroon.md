@@ -16,10 +16,15 @@ page = "127"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon proficiency", "Opportune parry and riposte", "Kip-up", "Superior feint", "Bleeding wound", "Swashbuckler finesse"]
-alters = ["Panache"]
-replaces_features = ["swashbuckler-finesse"]
-alters_features = ["panache"]
+trades = [
+  { replaces = "Weapon proficiency" },
+  { replaces = "Opportune parry and riposte" },
+  { replaces = "Kip-up" },
+  { replaces = "Superior feint" },
+  { replaces = "Bleeding wound" },
+  { replaces = "Swashbuckler finesse", feature = "swashbuckler-finesse" },
+  { alters = "Panache", feature = "panache" },
+]
 +++
 
 While some swashbucklers take pride in their ability to wear down an opponent with great skill at

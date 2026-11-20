@@ -16,9 +16,11 @@ page = "105"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level phrenic amplification"]
-alters = ["Phrenic amplifications", "Major amplifications"]
-alters_features = ["phrenic-amplifications", "major-amplifications"]
+trades = [
+  { replaces = "1st-level phrenic amplification", feature = "phrenic-amplifications", levels = [1] },
+  { alters = "Phrenic amplifications", feature = "phrenic-amplifications" },
+  { alters = "Major amplifications", feature = "major-amplifications" },
+]
 +++
 
 Exposure to unintended spell effects, curses, or sources of radiation cause some to manifest psychic

@@ -16,8 +16,11 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["The discoveries gained at 2nd and 4th levels", "Swift poisoning", "the discovery gained at 6th level"]
-replaces_features = ["swift-poisoning"]
+trades = [
+  { replaces = "The discoveries gained at 2nd and 4th levels", feature = "discovery", levels = [2, 4] },
+  { replaces = "Swift poisoning", feature = "swift-poisoning" },
+  { replaces = "the discovery gained at 6th level", feature = "discovery", levels = [6] },
+]
 +++
 
 Experts at combining sets of chemicals to create unique effects, concocters specialize in blending

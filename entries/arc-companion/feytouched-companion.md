@@ -12,7 +12,14 @@ page = "188"
 
 [fields]
 kind = "archetype"
-replaces = ["The 4th- or 7th-level ability score and size advancement", "Share Spells", "Multiattack", "Evasion", "Devotion", "Improved Evasion"]
+trades = [
+  { replaces = "The 4th- or 7th-level ability score and size advancement" },
+  { replaces = "Share Spells" },
+  { replaces = "Multiattack" },
+  { replaces = "Evasion" },
+  { replaces = "Devotion" },
+  { replaces = "Improved Evasion" },
+]
 +++
 
 Feytouched companions are strangely colored fauna native to the First World, the primal realm of the

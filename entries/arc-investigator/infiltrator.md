@@ -16,8 +16,11 @@ page = "100"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Poison lore", "Poison resistance"]
-replaces_features = ["trapfinding", "poison-lore", "poison-resistance"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Poison lore", feature = "poison-lore" },
+  { replaces = "Poison resistance", feature = "poison-resistance" },
+]
 +++
 
 An infiltrator specializes in investigating or disrupting groups from within. He uses his

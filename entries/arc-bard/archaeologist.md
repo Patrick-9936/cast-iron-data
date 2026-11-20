@@ -16,8 +16,10 @@ page = "32"
 
 [fields]
 kind = "archetype"
-replaces = ["Versatile performance", "Well-versed"]
-replaces_features = ["versatile-performance", "well-versed"]
+trades = [
+  { replaces = "Versatile performance", feature = "versatile-performance" },
+  { replaces = "Well-versed", feature = "well-versed" },
+]
 +++
 
 No stodgy researcher, this archaeologist meets his research head-on in the field. Archaeologists

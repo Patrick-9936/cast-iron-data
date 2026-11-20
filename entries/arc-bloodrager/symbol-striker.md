@@ -16,8 +16,11 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement", "Bloodline feats gained at 6th, 12th, and 18th levels", "Bloodline feat gained at 9th level"]
-replaces_features = ["fast-movement"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "Bloodline feats gained at 6th, 12th, and 18th levels" },
+  { replaces = "Bloodline feat gained at 9th level" },
+]
 +++
 
 Symbol strikers are honored warriors of Dongun Hold, a Sky Citadel in Alkenstar that was a site of

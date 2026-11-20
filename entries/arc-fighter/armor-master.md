@@ -16,8 +16,13 @@ page = "44"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "Weapon training 1 and 3", "armor mastery", "Weapon training 2 and 4", "Weapon mastery"]
-replaces_features = ["bravery", "armor-mastery", "weapon-mastery"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Weapon training 1 and 3" },
+  { replaces = "armor mastery", feature = "armor-mastery" },
+  { replaces = "Weapon training 2 and 4" },
+  { replaces = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 All fighters have two main tools of their trade: weapons and armor. While many fighters hone their

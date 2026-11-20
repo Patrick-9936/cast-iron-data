@@ -16,10 +16,12 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Aura sight"]
-alters = ["Mental focus", "implements", "shift focus"]
-replaces_features = ["aura-sight"]
-alters_features = ["mental-focus", "implements", "shift-focus"]
+trades = [
+  { replaces = "Aura sight", feature = "aura-sight" },
+  { alters = "Mental focus", feature = "mental-focus" },
+  { alters = "implements", feature = "implements" },
+  { alters = "shift focus", feature = "shift-focus" },
+]
 +++
 
 While most occultists learn to draw power from a variety of implements and objects, esoteric

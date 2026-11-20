@@ -16,8 +16,10 @@ page = "34"
 
 [fields]
 kind = "archetype"
-replaces = ["Gunsmith", "Gun training"]
-replaces_features = ["gunsmith", "gun-training"]
+trades = [
+  { replaces = "Gunsmith", feature = "gunsmith" },
+  { replaces = "Gun training", feature = "gun-training" },
+]
 +++
 
 The experimental gunsmith is obsessed with creating the ultimate firearm, and is willing to take

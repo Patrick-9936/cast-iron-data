@@ -16,8 +16,16 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["The bonus feat gained at 1st level", "Bravery", "Armor training 1, 2, and 3", "Bonus feat gained at 4th level", "Bonus feat gained at 6th level.1-2", "Armor training 4", "armor mastery", "Weapon mastery"]
-replaces_features = ["bravery", "armor-mastery", "weapon-mastery"]
+trades = [
+  { replaces = "The bonus feat gained at 1st level", feature = "bonus-feats", levels = [1] },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Armor training 1, 2, and 3" },
+  { replaces = "Bonus feat gained at 4th level", feature = "bonus-feats", levels = [4] },
+  { replaces = "Bonus feat gained at 6th level.1-2" },
+  { replaces = "Armor training 4", feature = "armor-training", power = "4" },
+  { replaces = "armor mastery", feature = "armor-mastery" },
+  { replaces = "Weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 Dragonheir scions are the martially inclined humanoid descendants of those influenced by draconic

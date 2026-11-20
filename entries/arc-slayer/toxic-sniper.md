@@ -16,10 +16,15 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Track", "Slayer talent gained at 2nd level", "Slayer talent gained at 4th level", "Slayer talents gained at 6th, 8th, 12th, 14th, 16th, 18th, and 20th levels", "Slayer talent gained at 10th level"]
-alters = ["Weapon and armor proficiency", "Studied target"]
-replaces_features = ["track"]
-alters_features = ["studied-target"]
+trades = [
+  { replaces = "Track", feature = "track" },
+  { replaces = "Slayer talent gained at 2nd level", feature = "slayer-talents", levels = [2] },
+  { replaces = "Slayer talent gained at 4th level", feature = "slayer-talents", levels = [4] },
+  { replaces = "Slayer talents gained at 6th, 8th, 12th, 14th, 16th, 18th, and 20th levels", feature = "slayer-talents", levels = [6, 8, 12, 14, 16, 18, 20] },
+  { replaces = "Slayer talent gained at 10th level", feature = "slayer-talents", levels = [10] },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Studied target", feature = "studied-target" },
+]
 +++
 
 Followers of the daemonic harbinger [Cixyron](ref/faith/cixyron) hide throughout the Mana Wastes,

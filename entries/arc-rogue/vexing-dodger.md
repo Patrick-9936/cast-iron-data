@@ -16,8 +16,13 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Rogue talent gained at 2nd level", "Trap sense", "Uncanny dodge", "Improved uncanny dodge"]
-replaces_features = ["trapfinding", "trap-sense", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Rogue talent gained at 2nd level", feature = "rogue-talents", levels = [2] },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Vexing dodgers take advantage of their smaller size to outmaneuver larger foes such as giants.

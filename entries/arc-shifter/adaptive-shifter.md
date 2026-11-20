@@ -16,10 +16,18 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Shifter aspect", "chimeric aspect", "greater chimeric aspect", "final aspect", "Wild empathy", "track", "woodland stride", "trackless step", "Wild shape"]
-alters = ["Shifter claws"]
-replaces_features = ["shifter-aspect", "chimeric-aspect", "greater-chimeric-aspect", "final-aspect", "wild-empathy", "track", "woodland-stride", "trackless-step", "wild-shape"]
-alters_features = ["shifter-claws"]
+trades = [
+  { replaces = "Shifter aspect", feature = "shifter-aspect" },
+  { replaces = "chimeric aspect", feature = "chimeric-aspect" },
+  { replaces = "greater chimeric aspect", feature = "greater-chimeric-aspect" },
+  { replaces = "final aspect", feature = "final-aspect" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "track", feature = "track" },
+  { replaces = "woodland stride", feature = "woodland-stride" },
+  { replaces = "trackless step", feature = "trackless-step" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { alters = "Shifter claws", feature = "shifter-claws" },
+]
 +++
 
 Rather than emulate other animals entirely, some shifters learn to reshape their forms on the fly in

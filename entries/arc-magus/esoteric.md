@@ -16,10 +16,17 @@ page = "120"
 
 [fields]
 kind = "archetype"
-replaces = ["Spell recall", "Bonus feats", "Medium armor", "heavy armor", "Improved spell recall"]
-alters = ["Weapon and armor proficiency", "Spellcasting", "Arcane pool", "Spellstrike"]
-replaces_features = ["spell-recall", "bonus-feats", "medium-armor", "heavy-armor", "improved-spell-recall"]
-alters_features = ["arcane-pool", "spellstrike"]
+trades = [
+  { replaces = "Spell recall", feature = "spell-recall" },
+  { replaces = "Bonus feats", feature = "bonus-feats" },
+  { replaces = "Medium armor", feature = "medium-armor" },
+  { replaces = "heavy armor", feature = "heavy-armor" },
+  { replaces = "Improved spell recall", feature = "improved-spell-recall" },
+  { alters = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { alters = "Spellcasting" },
+  { alters = "Arcane pool", feature = "arcane-pool" },
+  { alters = "Spellstrike", feature = "spellstrike" },
+]
 +++
 
 Esoterics are drawn to the mysticism of the occult and spend their lives delving into forgotten

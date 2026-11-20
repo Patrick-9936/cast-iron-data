@@ -16,8 +16,11 @@ page = "46"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "rogue talent gained at 2nd level", "Rogue talent gained at 10th level"]
-replaces_features = ["trapfinding"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "rogue talent gained at 2nd level", feature = "rogue-talents", levels = [2] },
+  { replaces = "Rogue talent gained at 10th level", feature = "rogue-talents", levels = [10] },
+]
 +++
 
 A master of disguise feels no need to advertise her skills to build a reputation. Instead, she

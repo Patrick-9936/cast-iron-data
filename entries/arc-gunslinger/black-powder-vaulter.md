@@ -16,7 +16,13 @@ page = "10"
 
 [fields]
 kind = "archetype"
-replaces = ["Deadeye deed", "Gunslinger's dodge deed", "Gunslinger initiative deed", "Startling shot deed", "Expert loading deed"]
+trades = [
+  { replaces = "Deadeye deed" },
+  { replaces = "Gunslinger's dodge deed" },
+  { replaces = "Gunslinger initiative deed" },
+  { replaces = "Startling shot deed" },
+  { replaces = "Expert loading deed" },
+]
 +++
 
 While firearms were designed to allow combatants to fight their foes from a distance, some

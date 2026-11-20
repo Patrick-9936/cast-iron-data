@@ -16,8 +16,10 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Spirit magic spells gained from the shaman's spirit"]
-alters = ["Deliver touch spells spirit animal ability"]
+trades = [
+  { replaces = "Spirit magic spells gained from the shaman's spirit" },
+  { alters = "Deliver touch spells spirit animal ability" },
+]
 +++
 
 While all shamans use their connection to the spirits of the world to draw upon otherworldly magic

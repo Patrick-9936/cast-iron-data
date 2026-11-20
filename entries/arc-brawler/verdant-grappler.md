@@ -16,10 +16,12 @@ page = "43"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus feat gained at 2nd level", "Close weapon mastery", "The combat feat gained at 11th level"]
-alters = ["Maneuver training"]
-replaces_features = ["close-weapon-mastery"]
-alters_features = ["maneuver-training"]
+trades = [
+  { replaces = "Bonus feat gained at 2nd level" },
+  { replaces = "Close weapon mastery", feature = "close-weapon-mastery" },
+  { replaces = "The combat feat gained at 11th level" },
+  { alters = "Maneuver training", feature = "maneuver-training" },
+]
 +++
 
 By accepting spirits of nature into her soul, a verdant grappler can entangle her foes with tangled

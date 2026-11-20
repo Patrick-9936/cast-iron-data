@@ -16,7 +16,11 @@ page = "29"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus skills from the oracle's mystery", "Revelation gained at 3rd level", "Revelation gained at 15th level"]
+trades = [
+  { replaces = "Bonus skills from the oracle's mystery" },
+  { replaces = "Revelation gained at 3rd level", feature = "revelation", levels = [3] },
+  { replaces = "Revelation gained at 15th level", feature = "revelation", levels = [15] },
+]
 +++
 
 Oracles and sorcerers gain their magical powers through strange and mysterious ways, be they chosen

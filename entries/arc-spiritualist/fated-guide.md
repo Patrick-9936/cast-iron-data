@@ -16,10 +16,12 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Phantom's antagonistic ability", "See invisibility", "Call spirit"]
-alters = ["Bonded manifestation"]
-replaces_features = ["see-invisibility", "call-spirit"]
-alters_features = ["bonded-manifestation"]
+trades = [
+  { replaces = "Phantom's antagonistic ability" },
+  { replaces = "See invisibility", feature = "see-invisibility" },
+  { replaces = "Call spirit", feature = "call-spirit" },
+  { alters = "Bonded manifestation", feature = "bonded-manifestation" },
+]
 +++
 
 Not all phantoms are restless dead escaping the afterlife. On rare occasions,

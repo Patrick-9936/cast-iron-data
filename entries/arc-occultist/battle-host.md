@@ -16,10 +16,21 @@ page = "100"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiency", "Shift focus", "magic circles", "binding circles", "fast circles", "Aura sight", "Outside contact"]
-alters = ["Implements", "mental focus", "spellcasting", "implement mastery", "Magic item skill", "Object reading"]
-replaces_features = ["shift-focus", "magic-circles", "binding-circles", "fast-circles", "aura-sight", "outside-contact"]
-alters_features = ["implements", "mental-focus", "implement-mastery", "magic-item-skill", "object-reading"]
+trades = [
+  { replaces = "Weapon and armor proficiency", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Shift focus", feature = "shift-focus" },
+  { replaces = "magic circles", feature = "magic-circles" },
+  { replaces = "binding circles", feature = "binding-circles" },
+  { replaces = "fast circles", feature = "fast-circles" },
+  { replaces = "Aura sight", feature = "aura-sight" },
+  { replaces = "Outside contact", feature = "outside-contact" },
+  { alters = "Implements", feature = "implements" },
+  { alters = "mental focus", feature = "mental-focus" },
+  { alters = "spellcasting" },
+  { alters = "implement mastery", feature = "implement-mastery" },
+  { alters = "Magic item skill", feature = "magic-item-skill" },
+  { alters = "Object reading", feature = "object-reading" },
+]
 +++
 
 Well versed in military history, battlefield lore, and the occult, a battle host forms a

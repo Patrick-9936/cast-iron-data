@@ -16,10 +16,15 @@ page = "70"
 
 [fields]
 kind = "archetype"
-replaces = ["Vigilante specialization", "1st-level social talent", "Unshakable", "Startling appearance", "Frightening appearance", "Stunning appearance"]
-alters = ["Weapon and armor proficiencies"]
-replaces_features = ["vigilante-specialization", "unshakable", "startling-appearance", "frightening-appearance", "stunning-appearance"]
-alters_features = ["weapon-and-armor-proficiencies"]
+trades = [
+  { replaces = "Vigilante specialization", feature = "vigilante-specialization" },
+  { replaces = "1st-level social talent", feature = "social-talent", levels = [1] },
+  { replaces = "Unshakable", feature = "unshakable" },
+  { replaces = "Startling appearance", feature = "startling-appearance" },
+  { replaces = "Frightening appearance", feature = "frightening-appearance" },
+  { replaces = "Stunning appearance", feature = "stunning-appearance" },
+  { alters = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+]
 +++
 
 Some vigilantes adopt lives of secrecy to hide their strange experiments from public view.

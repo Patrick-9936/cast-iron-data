@@ -16,10 +16,13 @@ page = "55"
 
 [fields]
 kind = "archetype"
-replaces = ["Animal focus", "second animal focus", "Precise companion", "Raise animal companion"]
-alters = ["Animal companion"]
-replaces_features = ["animal-focus", "second-animal-focus", "precise-companion", "raise-animal-companion"]
-alters_features = ["animal-companion"]
+trades = [
+  { replaces = "Animal focus", feature = "animal-focus" },
+  { replaces = "second animal focus", feature = "second-animal-focus" },
+  { replaces = "Precise companion", feature = "precise-companion" },
+  { replaces = "Raise animal companion", feature = "raise-animal-companion" },
+  { alters = "Animal companion", feature = "animal-companion" },
+]
 +++
 
 Some hunters are masters of the wild. Whether raised by apes or having some other link with simian

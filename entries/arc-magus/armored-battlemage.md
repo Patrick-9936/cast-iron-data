@@ -16,10 +16,15 @@ page = "4"
 
 [fields]
 kind = "archetype"
-replaces = ["Spell combat", "Magus arcana gained at 3rd and 18th levels", "improved spell combat", "Greater spell combat"]
-alters = ["Medium armor", "Arcane pool", "Heavy armor"]
-replaces_features = ["spell-combat", "improved-spell-combat", "greater-spell-combat"]
-alters_features = ["medium-armor", "arcane-pool", "heavy-armor"]
+trades = [
+  { replaces = "Spell combat", feature = "spell-combat" },
+  { replaces = "Magus arcana gained at 3rd and 18th levels", feature = "magus-arcana", levels = [3, 18] },
+  { replaces = "improved spell combat", feature = "improved-spell-combat" },
+  { replaces = "Greater spell combat", feature = "greater-spell-combat" },
+  { alters = "Medium armor", feature = "medium-armor" },
+  { alters = "Arcane pool", feature = "arcane-pool" },
+  { alters = "Heavy armor", feature = "heavy-armor" },
+]
 +++
 
 Though it hasn't been at war with its southern neighbor for centuries, Nex continues to train

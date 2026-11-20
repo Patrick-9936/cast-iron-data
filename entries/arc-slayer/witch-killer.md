@@ -16,9 +16,12 @@ page = "67"
 
 [fields]
 kind = "archetype"
-replaces = ["Slayer talent gained at 4th level", "Slayer talent gained at 10th level"]
-alters = ["Studied target", "Slayer talents"]
-alters_features = ["studied-target", "slayer-talents"]
+trades = [
+  { replaces = "Slayer talent gained at 4th level", feature = "slayer-talents", levels = [4] },
+  { replaces = "Slayer talent gained at 10th level", feature = "slayer-talents", levels = [10] },
+  { alters = "Studied target", feature = "studied-target" },
+  { alters = "Slayer talents", feature = "slayer-talents" },
+]
 +++
 
 Born into cultures where magic users are hated and feared, witch killers devote their lives to purge

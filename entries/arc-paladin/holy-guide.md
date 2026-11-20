@@ -16,7 +16,10 @@ page = "107"
 
 [fields]
 kind = "archetype"
-replaces = ["3rd-level mercy", "6th-level mercy"]
+trades = [
+  { replaces = "3rd-level mercy", feature = "mercy", levels = [3] },
+  { replaces = "6th-level mercy", feature = "mercy", levels = [6] },
+]
 +++
 
 A holy guide believes that it's his sacred calling to clear the roads of bandits between towns as

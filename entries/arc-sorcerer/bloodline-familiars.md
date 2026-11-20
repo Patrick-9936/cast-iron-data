@@ -15,7 +15,9 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level bloodline power"]
+trades = [
+  { replaces = "1st-level bloodline power" },
+]
 +++
 
 Those with an inherent connection to magic often attract creatures who feel a similar instinctive

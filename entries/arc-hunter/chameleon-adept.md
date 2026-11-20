@@ -16,10 +16,15 @@ page = "52"
 
 [fields]
 kind = "archetype"
-replaces = ["Teamwork feats", "hunter's tactics", "Wild empathy", "Precise companion", "Woodland stride", "Raise animal companion"]
-alters = ["One with the wild"]
-replaces_features = ["wild-empathy", "precise-companion", "woodland-stride", "raise-animal-companion"]
-alters_features = ["one-with-the-wild"]
+trades = [
+  { replaces = "Teamwork feats", feature = "teamwork-feat" },
+  { replaces = "hunter's tactics", feature = "hunter-tactics" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Precise companion", feature = "precise-companion" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Raise animal companion", feature = "raise-animal-companion" },
+  { alters = "One with the wild", feature = "one-with-the-wild" },
+]
 +++
 
 Some hunters are masters of blending into every situation, even making their companions appear

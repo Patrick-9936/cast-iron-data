@@ -16,10 +16,15 @@ page = "13"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon proficiencies", "Trapfinding", "Trap sense", "rogue talent gained at 6th level", "Uncanny dodge", "improved uncanny dodge"]
-alters = ["Sneak attack"]
-replaces_features = ["trapfinding", "trap-sense", "uncanny-dodge", "improved-uncanny-dodge"]
-alters_features = ["sneak-attack"]
+trades = [
+  { replaces = "Weapon proficiencies" },
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "rogue talent gained at 6th level", feature = "rogue-talents", levels = [6] },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { alters = "Sneak attack", feature = "sneak-attack" },
+]
 +++
 
 Alkenstar protects the secrets of gunpowder and controls the sale of firearms, creating lucrative

@@ -16,9 +16,10 @@ page = "46"
 
 [fields]
 kind = "archetype"
-replaces = ["Solo tactics"]
-alters = ["Teamwork feats"]
-replaces_features = ["solo-tactics"]
+trades = [
+  { replaces = "Solo tactics", feature = "solo-tactics" },
+  { alters = "Teamwork feats", feature = "teamwork-feat" },
+]
 +++
 
 Some inquisitors wander the land to spread the true word of their faith. Often they come into

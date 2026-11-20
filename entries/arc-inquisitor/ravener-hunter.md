@@ -16,10 +16,11 @@ page = "4"
 
 [fields]
 kind = "archetype"
-replaces = ["Domain", "Teamwork feat gained at 3rd level"]
-alters = ["Spells"]
-replaces_features = ["domain"]
-alters_features = ["spells"]
+trades = [
+  { replaces = "Domain", feature = "domain" },
+  { replaces = "Teamwork feat gained at 3rd level", feature = "teamwork-feat", levels = [3] },
+  { alters = "Spells", feature = "spells" },
+]
 +++
 
 Throughout the Mwangi Expanse, cults of [Angazhan](ref/faith/angazhan) pollute the pristine jungle

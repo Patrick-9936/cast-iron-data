@@ -16,9 +16,13 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Abilities the spirit animal gains from the shaman's chosen spirit", "Hex gained at 8th level", "Hexes gained at 4th and 12th levels"]
-alters = ["Spirit magic", "Hexes"]
-alters_features = ["spirit-magic"]
+trades = [
+  { replaces = "Abilities the spirit animal gains from the shaman's chosen spirit" },
+  { replaces = "Hex gained at 8th level", feature = "hex", levels = [8] },
+  { replaces = "Hexes gained at 4th and 12th levels", feature = "hex", levels = [4, 12] },
+  { alters = "Spirit magic", feature = "spirit-magic" },
+  { alters = "Hexes", feature = "hex" },
+]
 +++
 
 The influence of [primal magic](ref/rule/primal-magic) extends beyond what is visible and material.

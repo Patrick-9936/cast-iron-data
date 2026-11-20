@@ -16,9 +16,12 @@ page = "37"
 
 [fields]
 kind = "archetype"
-replaces = ["Towering ego", "Touch treatment", "Rule minds"]
-alters = ["Spellcasting"]
-replaces_features = ["towering-ego", "touch-treatment", "rule-minds"]
+trades = [
+  { replaces = "Towering ego", feature = "towering-ego" },
+  { replaces = "Touch treatment", feature = "touch-treatment" },
+  { replaces = "Rule minds", feature = "rule-minds" },
+  { alters = "Spellcasting" },
+]
 +++
 
 Most mesmerists draw psychic power from the Astral Plane, but a few gain their powers in an unusual

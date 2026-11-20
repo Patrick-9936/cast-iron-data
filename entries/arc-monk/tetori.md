@@ -16,8 +16,18 @@ page = "61"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus feats", "Flurry of blows", "Slow fall", "High jump", "Abundant step", "improved evasion", "timeless body", "tongue of sun and moon", "Diamond soul", "Empty body"]
-replaces_features = ["flurry-of-blows", "slow-fall", "high-jump", "abundant-step", "improved-evasion", "timeless-body", "diamond-soul", "empty-body"]
+trades = [
+  { replaces = "Bonus feats", feature = "bonus-feat" },
+  { replaces = "Flurry of blows", feature = "flurry-of-blows" },
+  { replaces = "Slow fall", feature = "slow-fall" },
+  { replaces = "High jump", feature = "high-jump" },
+  { replaces = "Abundant step", feature = "abundant-step" },
+  { replaces = "improved evasion", feature = "improved-evasion" },
+  { replaces = "timeless body", feature = "timeless-body" },
+  { replaces = "tongue of sun and moon", feature = "tongue-of-the-sun-and-moon" },
+  { replaces = "Diamond soul", feature = "diamond-soul" },
+  { replaces = "Empty body", feature = "empty-body" },
+]
 +++
 
 The style of the tetori is that of the majestic wrestler - a warrior with a dizzying array of grabs,

@@ -16,8 +16,9 @@ page = "30"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane bond, 10th-, 15th-, and 20th-level bonus feats"]
-replaces_features = ["arcane-bond"]
+trades = [
+  { replaces = "Arcane bond, 10th-, 15th-, and 20th-level bonus feats" },
+]
 +++
 
 Time is not an immutable force but an inscrutable phenomenon. Rare arcane scholars known as

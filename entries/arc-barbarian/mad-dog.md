@@ -16,10 +16,13 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["2nd, 6th, 10th, 14th, and 18th level rage powers", "Uncanny dodge", "Improved uncanny dodge", "Indomitable will"]
-alters = ["Rage"]
-replaces_features = ["uncanny-dodge", "improved-uncanny-dodge", "indomitable-will"]
-alters_features = ["rage"]
+trades = [
+  { replaces = "2nd, 6th, 10th, 14th, and 18th level rage powers", feature = "rage-powers", levels = [2, 6, 10, 14, 18] },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Indomitable will", feature = "indomitable-will" },
+  { alters = "Rage", feature = "rage" },
+]
 +++
 
 Though named for the wild savages who fight alongside rabid dogs, mad dogs employ all manner of

@@ -16,8 +16,11 @@ page = "83"
 
 [fields]
 kind = "archetype"
-alters = ["Shifter aspect", "Wild empathy", "Wild shape"]
-alters_features = ["shifter-aspect", "wild-empathy", "wild-shape"]
+trades = [
+  { alters = "Shifter aspect", feature = "shifter-aspect" },
+  { alters = "Wild empathy", feature = "wild-empathy" },
+  { alters = "Wild shape", feature = "wild-shape" },
+]
 +++
 
 Weretouched shifters are scions of lycanthropic forces, whether hereditary or supernaturally

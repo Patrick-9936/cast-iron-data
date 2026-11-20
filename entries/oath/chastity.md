@@ -13,8 +13,10 @@ page = "62"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Divine grace", "Aura of resolve"]
-replaces_features = ["divine-grace", "aura-of-resolve"]
+trades = [
+  { replaces = "Divine grace", feature = "divine-grace" },
+  { replaces = "Aura of resolve", feature = "aura-of-resolve" },
+]
 +++
 
 A chaste paladin proves her purity by way of her action and her abstinence from romantic activities.

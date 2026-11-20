@@ -16,8 +16,11 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["1st-level social talent", "Frightening appearance", "2nd-level vigilante talent"]
-replaces_features = ["frightening-appearance"]
+trades = [
+  { replaces = "1st-level social talent", feature = "social-talent", levels = [1] },
+  { replaces = "Frightening appearance", feature = "frightening-appearance" },
+  { replaces = "2nd-level vigilante talent", feature = "vigilante-talent", levels = [2] },
+]
 +++
 
 Sometimes the best place to hide is in plain sight. The hidden current operates above and below the

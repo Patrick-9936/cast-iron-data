@@ -16,7 +16,13 @@ page = "78"
 
 [fields]
 kind = "archetype"
-replaces = ["The arcanist exploit gained at 1st level", "The arcanist exploit gained at 3rd level", "The arcanist exploit gained at 9th level", "The arcanist exploit gained at 11th level", "The arcanist exploit gained at 15th level"]
+trades = [
+  { replaces = "The arcanist exploit gained at 1st level", feature = "arcanist-exploits", levels = [1] },
+  { replaces = "The arcanist exploit gained at 3rd level", feature = "arcanist-exploits", levels = [3] },
+  { replaces = "The arcanist exploit gained at 9th level", feature = "arcanist-exploits", levels = [9] },
+  { replaces = "The arcanist exploit gained at 11th level", feature = "arcanist-exploits", levels = [11] },
+  { replaces = "The arcanist exploit gained at 15th level", feature = "arcanist-exploits", levels = [15] },
+]
 +++
 
 Arcanists with an affinity for elemental forces sometimes focus on one and display its power in

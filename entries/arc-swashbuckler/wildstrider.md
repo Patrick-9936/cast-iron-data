@@ -16,8 +16,13 @@ page = "96"
 
 [fields]
 kind = "archetype"
-replaces = ["Dodging panache", "Kip-up", "Subtle blade"]
-alters = ["Derring-do", "swashbuckler's edge"]
+trades = [
+  { replaces = "Dodging panache" },
+  { replaces = "Kip-up" },
+  { replaces = "Subtle blade" },
+  { alters = "Derring-do" },
+  { alters = "swashbuckler's edge" },
+]
 +++
 
 Most swashbucklers call cities their home, but some prefer deserts, marshlands, mountains, or woods,

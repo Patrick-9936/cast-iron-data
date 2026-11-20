@@ -16,10 +16,15 @@ page = "51"
 
 [fields]
 kind = "archetype"
-replaces = ["Bravery", "Armor training", "armor mastery", "Weapon training"]
-alters = ["Armor proficiency", "Bonus feats", "weapon mastery"]
-replaces_features = ["bravery", "armor-training", "armor-mastery", "weapon-training"]
-alters_features = ["bonus-feats", "weapon-mastery"]
+trades = [
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "Armor training", feature = "armor-training" },
+  { replaces = "armor mastery", feature = "armor-mastery" },
+  { replaces = "Weapon training", feature = "weapon-training" },
+  { alters = "Armor proficiency" },
+  { alters = "Bonus feats", feature = "bonus-feats" },
+  { alters = "weapon mastery", feature = "weapon-mastery" },
+]
 +++
 
 Aquanaut fighters master the movement of water, using its flow to their advantage in combat.

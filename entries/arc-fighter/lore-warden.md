@@ -16,8 +16,14 @@ page = "144"
 
 [fields]
 kind = "archetype"
-replaces = ["Proficiency with medium armor", "heavy armor", "and shields", "Bravery and the fighter bonus feat gained at 2nd level", "Armor training", "armor mastery"]
-replaces_features = ["armor-training", "armor-mastery"]
+trades = [
+  { replaces = "Proficiency with medium armor" },
+  { replaces = "heavy armor" },
+  { replaces = "and shields" },
+  { replaces = "Bravery and the fighter bonus feat gained at 2nd level" },
+  { replaces = "Armor training", feature = "armor-training" },
+  { replaces = "armor mastery", feature = "armor-mastery" },
+]
 +++
 
 Quick wits and deceptive techniques can often succeed where brute force might not. A lore warden is

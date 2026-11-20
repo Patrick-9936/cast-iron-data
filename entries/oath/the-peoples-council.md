@@ -13,10 +13,11 @@ page = "20"
 [fields]
 kind = "class_option"
 group = "paladin-oath"
-replaces = ["Smite evil", "Aura of justice"]
-alters = ["Holy champion"]
-replaces_features = ["smite-evil", "aura-of-justice"]
-alters_features = ["holy-champion"]
+trades = [
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { replaces = "Aura of justice", feature = "aura-of-justice" },
+  { alters = "Holy champion", feature = "holy-champion" },
+]
 +++
 
 The [Eagle Knights](ref/rule/aff-vangard) and the people of Andoran hold their elected officials to

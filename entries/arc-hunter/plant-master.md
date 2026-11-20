@@ -16,10 +16,13 @@ page = "53"
 
 [fields]
 kind = "archetype"
-replaces = ["Animal companion", "Animal focus", "Wild empathy", "One with the wild"]
-alters = ["Master hunter"]
-replaces_features = ["animal-companion", "animal-focus", "wild-empathy", "one-with-the-wild"]
-alters_features = ["master-hunter"]
+trades = [
+  { replaces = "Animal companion", feature = "animal-companion" },
+  { replaces = "Animal focus", feature = "animal-focus" },
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "One with the wild", feature = "one-with-the-wild" },
+  { alters = "Master hunter", feature = "master-hunter" },
+]
 +++
 
 Some hunters form a bond with plant life instead of an animal and take on those aspects instead.

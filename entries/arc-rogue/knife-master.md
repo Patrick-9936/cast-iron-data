@@ -16,10 +16,11 @@ page = "72"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Trap sense"]
-alters = ["Sneak attack"]
-replaces_features = ["trapfinding", "trap-sense"]
-alters_features = ["sneak-attack"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { alters = "Sneak attack", feature = "sneak-attack" },
+]
 +++
 
 The knife master is a trained killer who specializes in close-up combat and the wave and weave of

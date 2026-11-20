@@ -16,8 +16,11 @@ page = "46"
 
 [fields]
 kind = "archetype"
-replaces = ["Domain", "Teamwork feat gained at 6th level", "Exploit weakness"]
-replaces_features = ["domain", "exploit-weakness"]
+trades = [
+  { replaces = "Domain", feature = "domain" },
+  { replaces = "Teamwork feat gained at 6th level", feature = "teamwork-feat", levels = [6] },
+  { replaces = "Exploit weakness", feature = "exploit-weakness" },
+]
 +++
 
 There is a sect of inquisitors in some religions that believes it is not enough to hunt the enemies

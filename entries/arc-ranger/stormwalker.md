@@ -16,9 +16,14 @@ page = "72"
 
 [fields]
 kind = "archetype"
-replaces = ["Hunter's bond", "Swift tracker", "Quarry", "Improved evasion", "Improved quarry"]
-alters = ["Combat style"]
-replaces_features = ["hunter-s-bond", "swift-tracker", "quarry", "improved-evasion", "improved-quarry"]
+trades = [
+  { replaces = "Hunter's bond", feature = "hunter-s-bond" },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "Quarry", feature = "quarry" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { replaces = "Improved quarry", feature = "improved-quarry" },
+  { alters = "Combat style" },
+]
 +++
 
 Rangers who walk in the tempest unafraid draw the power of the storm into themselves and become

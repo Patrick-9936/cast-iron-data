@@ -16,10 +16,13 @@ page = "111"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon proficiencies", "Still mind", "Purity of body", "diamond body"]
-alters = ["Flurry of blows"]
-replaces_features = ["still-mind", "purity-of-body", "diamond-body"]
-alters_features = ["flurry-of-blows"]
+trades = [
+  { replaces = "Weapon proficiencies" },
+  { replaces = "Still mind", feature = "still-mind" },
+  { replaces = "Purity of body", feature = "purity-of-body" },
+  { replaces = "diamond body", feature = "diamond-body" },
+  { alters = "Flurry of blows", feature = "flurry-of-blows" },
+]
 +++
 
 The monk of the empty hand eschews normal weapons in favor of whatever is lying around - rocks,

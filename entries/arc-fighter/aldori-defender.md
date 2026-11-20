@@ -19,8 +19,12 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Armor training", "6th level fighter bonus feat", "8th level fighter bonus feat", "10th level fighter bonus feat"]
-replaces_features = ["armor-training"]
+trades = [
+  { replaces = "Armor training", feature = "armor-training" },
+  { replaces = "6th level fighter bonus feat", feature = "bonus-feats", levels = [6] },
+  { replaces = "8th level fighter bonus feat", feature = "bonus-feats", levels = [8] },
+  { replaces = "10th level fighter bonus feat", feature = "bonus-feats", levels = [10] },
+]
 +++
 
 The Aldori swordlords of Brevoy are among the deadliest and most feared fighters of the Inner Sea.

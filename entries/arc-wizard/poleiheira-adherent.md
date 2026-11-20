@@ -16,8 +16,10 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Arcane bond", "Arcane school"]
-replaces_features = ["arcane-bond", "arcane-school"]
+trades = [
+  { replaces = "Arcane bond", feature = "arcane-bond" },
+  { replaces = "Arcane school", feature = "arcane-school" },
+]
 +++
 
 Poleiheira adherents are wizards who wish to emulate the explorations and discoveries of Arustun and

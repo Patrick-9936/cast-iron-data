@@ -15,7 +15,12 @@ page = "21"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "Devotion", "Multiattack", "Improved Evasion"]
+trades = [
+  { replaces = "Evasion" },
+  { replaces = "Devotion" },
+  { replaces = "Multiattack" },
+  { replaces = "Improved Evasion" },
+]
 +++
 
 Totem guides embody the wisdom and spirituality of the natural world, providing guidance as well as

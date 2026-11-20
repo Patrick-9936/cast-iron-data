@@ -16,8 +16,11 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Haunt channeler", "Location channel", "connection channel"]
-replaces_features = ["haunt-channeler", "location-channel", "connection-channel"]
+trades = [
+  { replaces = "Haunt channeler", feature = "haunt-channeler" },
+  { replaces = "Location channel", feature = "location-channel" },
+  { replaces = "connection channel", feature = "connection-channel" },
+]
 +++
 
 Shenmen is a ghost-haunted nation trapped in the shadow of the Gossamer Mountains and held beneath

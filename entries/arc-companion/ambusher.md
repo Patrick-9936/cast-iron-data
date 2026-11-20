@@ -12,7 +12,13 @@ page = "186"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Improved Evasion", "Evasion", "Devotion", "Multiattack"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Improved Evasion" },
+  { replaces = "Evasion" },
+  { replaces = "Devotion" },
+  { replaces = "Multiattack" },
+]
 +++
 
 Ambushers sneak up on unsuspecting prey, pouncing on targets when they least expect it.

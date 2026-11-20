@@ -16,10 +16,11 @@ page = "67"
 
 [fields]
 kind = "archetype"
-replaces = ["Object reading", "Outside contact"]
-alters = ["Implements"]
-replaces_features = ["object-reading", "outside-contact"]
-alters_features = ["implements"]
+trades = [
+  { replaces = "Object reading", feature = "object-reading" },
+  { replaces = "Outside contact", feature = "outside-contact" },
+  { alters = "Implements", feature = "implements" },
+]
 +++
 
 It is common for a noble to possess a deep pride for his family's past, but when such

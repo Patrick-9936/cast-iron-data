@@ -16,8 +16,9 @@ page = "5"
 
 [fields]
 kind = "archetype"
-alters = ["Spirit"]
-alters_features = ["spirit"]
+trades = [
+  { alters = "Spirit", feature = "spirit" },
+]
 +++
 
 Although some [catfolk](ref/race/catfolk) venerate elven and human deities, the traditional worship

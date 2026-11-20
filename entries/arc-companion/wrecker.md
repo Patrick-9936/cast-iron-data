@@ -12,7 +12,10 @@ page = "189"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Multiattack"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Multiattack" },
+]
 +++
 
 Like unruly pets, some companions have a tendency to destroy nearby objects while unsupervised, and

@@ -16,9 +16,14 @@ page = "8"
 
 [fields]
 kind = "archetype"
-replaces = ["Wild empathy", "Endurance", "Favored terrain", "Camouflage", "hide in plain sight"]
-alters = ["6th-level combat style feat"]
-replaces_features = ["wild-empathy", "endurance", "favored-terrain", "camouflage", "hide-in-plain-sight"]
+trades = [
+  { replaces = "Wild empathy", feature = "wild-empathy" },
+  { replaces = "Endurance", feature = "endurance" },
+  { replaces = "Favored terrain", feature = "favored-terrain" },
+  { replaces = "Camouflage", feature = "camouflage" },
+  { replaces = "hide in plain sight", feature = "hide-in-plain-sight" },
+  { alters = "6th-level combat style feat", feature = "combat-style-feat", levels = [6] },
+]
 +++
 
 Thanks to their four arms, kasathas can master a combat form native to their home world and rarely

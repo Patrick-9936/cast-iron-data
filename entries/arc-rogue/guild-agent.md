@@ -16,8 +16,12 @@ page = "45"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "uncanny dodge", "Improved evasion", "Master strike"]
-replaces_features = ["evasion", "uncanny-dodge", "master-strike"]
+trades = [
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Improved evasion" },
+  { replaces = "Master strike", feature = "master-strike" },
+]
 +++
 
 Guild agents are members of a thieves' guild or other shadowy organization. What they lose in

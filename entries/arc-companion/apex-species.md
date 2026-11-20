@@ -12,7 +12,13 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Evasion", "Devotion", "Improved Evasion", "Multiattack"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Evasion" },
+  { replaces = "Devotion" },
+  { replaces = "Improved Evasion" },
+  { replaces = "Multiattack" },
+]
 +++
 
 Some animals have no serious competitors and no real predators. They are masters of their habitats,

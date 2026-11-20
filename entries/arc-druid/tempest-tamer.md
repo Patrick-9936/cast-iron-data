@@ -16,10 +16,11 @@ page = "25"
 
 [fields]
 kind = "archetype"
-replaces = ["Resist nature's lure", "Wild shape"]
-alters = ["Bonus languages"]
-replaces_features = ["resist-nature-s-lure", "wild-shape"]
-alters_features = ["bonus-languages"]
+trades = [
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { alters = "Bonus languages", feature = "bonus-languages" },
+]
 +++
 
 Druids draw upon the fiercest powers of nature, and tsunamis, typhoons, and whirlpools are among the

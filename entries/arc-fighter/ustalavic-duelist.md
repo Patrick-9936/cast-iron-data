@@ -16,8 +16,14 @@ page = "47"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "The fighter's 1st-level bonus feat", "Weapon training 1", "Weapon training 2", "Weapon training 3", "Weapon training 4"]
-replaces_features = ["weapon-and-armor-proficiencies"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "The fighter's 1st-level bonus feat", feature = "bonus-feats", levels = [1] },
+  { replaces = "Weapon training 1", feature = "weapon-training", power = "1" },
+  { replaces = "Weapon training 2", feature = "weapon-training", power = "2" },
+  { replaces = "Weapon training 3", feature = "weapon-training", power = "3" },
+  { replaces = "Weapon training 4", feature = "weapon-training", power = "4" },
+]
 +++
 
 The University of Lepidstadt has developed a reputation for churning out fearsome duelists. At the

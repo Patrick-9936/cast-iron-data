@@ -19,7 +19,10 @@ page = "16"
 
 [fields]
 kind = "archetype"
-replaces = ["The arcanist exploits gained at 1st, 9th, and 17th levels", "The arcanist exploit gained at 5th level"]
+trades = [
+  { replaces = "The arcanist exploits gained at 1st, 9th, and 17th levels", feature = "arcanist-exploits", levels = [1, 9, 17] },
+  { replaces = "The arcanist exploit gained at 5th level", feature = "arcanist-exploits", levels = [5] },
+]
 +++
 
 Aspiring students of the [Magaambya](ref/rule/aff-i-school) often spend decades researching arcane

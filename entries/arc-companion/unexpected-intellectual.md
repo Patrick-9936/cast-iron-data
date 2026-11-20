@@ -12,7 +12,9 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells"]
+trades = [
+  { replaces = "Share Spells" },
+]
 +++
 
 Sometimes, when an insect or other vermin is chosen to be an animal companion, it proves cleverer

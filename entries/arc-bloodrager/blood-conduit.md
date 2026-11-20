@@ -16,9 +16,13 @@ page = "82"
 
 [fields]
 kind = "archetype"
-replaces = ["Fast movement", "Uncanny dodge", "improved uncanny dodge", "Indomitable will"]
-alters = ["Bloodline feats"]
-replaces_features = ["fast-movement", "uncanny-dodge", "improved-uncanny-dodge", "indomitable-will"]
+trades = [
+  { replaces = "Fast movement", feature = "fast-movement" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Indomitable will", feature = "indomitable-will" },
+  { alters = "Bloodline feats" },
+]
 +++
 
 Blood conduits learn to channel their arcane might directly through their flesh, without the need

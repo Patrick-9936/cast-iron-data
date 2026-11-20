@@ -16,10 +16,13 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Shared seance", "Haunt channeler", "location channel", "connection channel"]
-alters = ["Spirit"]
-replaces_features = ["shared-seance", "haunt-channeler", "location-channel", "connection-channel"]
-alters_features = ["spirit"]
+trades = [
+  { replaces = "Shared seance", feature = "shared-seance" },
+  { replaces = "Haunt channeler", feature = "haunt-channeler" },
+  { replaces = "location channel", feature = "location-channel" },
+  { replaces = "connection channel", feature = "connection-channel" },
+  { alters = "Spirit", feature = "spirit" },
+]
 +++
 
 Primarily found among the various tribes of the Mwangi Expanse, uda wendo are powerful mediums who

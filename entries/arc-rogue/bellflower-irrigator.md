@@ -16,8 +16,12 @@ page = "43"
 
 [fields]
 kind = "archetype"
-replaces = ["Trapfinding", "Uncanny dodge", "rogue talent gained at 4th level", "Improved uncanny dodge"]
-replaces_features = ["trapfinding", "uncanny-dodge", "improved-uncanny-dodge"]
+trades = [
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "rogue talent gained at 4th level", feature = "rogue-talents", levels = [4] },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+]
 +++
 
 Bellflower irrigators take on tasks that many other agents of the

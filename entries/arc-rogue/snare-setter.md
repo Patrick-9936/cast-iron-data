@@ -16,8 +16,11 @@ page = "23"
 
 [fields]
 kind = "archetype"
-replaces = ["Sneak attack (but see below)", "Trapfinding", "Master strike"]
-replaces_features = ["trapfinding", "master-strike"]
+trades = [
+  { replaces = "Sneak attack (but see below)" },
+  { replaces = "Trapfinding", feature = "trapfinding" },
+  { replaces = "Master strike", feature = "master-strike" },
+]
 +++
 
 Deep in darkness, the snare setter constructs his deadly traps and brutal mechanisms to confound and

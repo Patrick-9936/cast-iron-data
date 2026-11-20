@@ -16,10 +16,10 @@ page = "131"
 
 [fields]
 kind = "archetype"
-replaces = ["Animal focus"]
-alters = ["Animal companion"]
-replaces_features = ["animal-focus"]
-alters_features = ["animal-companion"]
+trades = [
+  { replaces = "Animal focus", feature = "animal-focus" },
+  { alters = "Animal companion", feature = "animal-companion" },
+]
 +++
 
 The [Mammoth Lords](ref/rule/aff-beast-riders) coexist with the great primeval beasts that roam

@@ -16,8 +16,16 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["Bardic knowledge", "Countersong", "fascinate", "Inspire competence", "Soothing performance", "Inspire heroics", "Lore master", "Jack-of-all-trades"]
-replaces_features = ["bardic-knowledge", "lore-master", "jack-of-all-trades"]
+trades = [
+  { replaces = "Bardic knowledge", feature = "bardic-knowledge" },
+  { replaces = "Countersong" },
+  { replaces = "fascinate" },
+  { replaces = "Inspire competence" },
+  { replaces = "Soothing performance" },
+  { replaces = "Inspire heroics" },
+  { replaces = "Lore master", feature = "lore-master" },
+  { replaces = "Jack-of-all-trades", feature = "jack-of-all-trades" },
+]
 +++
 
 Dragon heralds are messengers and evangelists of true dragonkind. They carry the word of their

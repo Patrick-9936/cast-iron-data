@@ -16,8 +16,12 @@ page = "7"
 
 [fields]
 kind = "archetype"
-replaces = ["Bonus feats gained at 1st level, 6th level, 10th level, and 12th level", "weapon training", "weapon mastery", "Armor training"]
-replaces_features = ["weapon-training", "weapon-mastery", "armor-training"]
+trades = [
+  { replaces = "Bonus feats gained at 1st level, 6th level, 10th level, and 12th level", feature = "bonus-feats", levels = [1, 6, 10, 12] },
+  { replaces = "weapon training", feature = "weapon-training" },
+  { replaces = "weapon mastery", feature = "weapon-mastery" },
+  { replaces = "Armor training", feature = "armor-training" },
+]
 +++
 
 Free-style fighters are most common in Varisia, where their training - with multiple teachers, or

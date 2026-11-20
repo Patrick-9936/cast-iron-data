@@ -16,10 +16,17 @@ page = "12"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect undead", "Calm spirit", "See invisibility", "Fused consciousness", "Call spirit"]
-alters = ["Phantom", "shared consciousness", "Spiritual interference", "Greater spiritual interference"]
-replaces_features = ["detect-undead", "calm-spirit", "see-invisibility", "fused-consciousness", "call-spirit"]
-alters_features = ["phantom", "shared-consciousness", "spiritual-interference", "greater-spiritual-interference"]
+trades = [
+  { replaces = "Detect undead", feature = "detect-undead" },
+  { replaces = "Calm spirit", feature = "calm-spirit" },
+  { replaces = "See invisibility", feature = "see-invisibility" },
+  { replaces = "Fused consciousness", feature = "fused-consciousness" },
+  { replaces = "Call spirit", feature = "call-spirit" },
+  { alters = "Phantom", feature = "phantom" },
+  { alters = "shared consciousness", feature = "shared-consciousness" },
+  { alters = "Spiritual interference", feature = "spiritual-interference" },
+  { alters = "Greater spiritual interference", feature = "greater-spiritual-interference" },
+]
 +++
 
 Iobaria has been ravaged by plague for centuries, and many of its dead do not rest. These ghosts

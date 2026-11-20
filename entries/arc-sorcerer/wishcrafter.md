@@ -16,7 +16,13 @@ page = "128"
 
 [fields]
 kind = "archetype"
-replaces = ["Bloodline arcana", "All bloodline spells", "7th-level bloodline feat", "13th-level bloodline feat", "19th-level bloodline feat"]
+trades = [
+  { replaces = "Bloodline arcana" },
+  { replaces = "All bloodline spells" },
+  { replaces = "7th-level bloodline feat" },
+  { replaces = "13th-level bloodline feat" },
+  { replaces = "19th-level bloodline feat" },
+]
 +++
 
 Wishcrafters are born with a talent for manipulating reality inherited from their efreeti ancestors.

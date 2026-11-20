@@ -15,7 +15,12 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Share Spells", "Evasion", "Multiattack", "Improved Evasion"]
+trades = [
+  { replaces = "Share Spells" },
+  { replaces = "Evasion" },
+  { replaces = "Multiattack" },
+  { replaces = "Improved Evasion" },
+]
 +++
 
 Some companions live lives of faithful devotion and steady vigilance, standing watch through long

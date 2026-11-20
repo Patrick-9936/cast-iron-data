@@ -16,9 +16,12 @@ page = "109"
 
 [fields]
 kind = "archetype"
-replaces = ["The phantom's emotional focus"]
-alters = ["Phantom", "Bonded manifestation", "Phantom"]
-alters_features = ["phantom", "bonded-manifestation", "phantom"]
+trades = [
+  { replaces = "The phantom's emotional focus" },
+  { alters = "Phantom", feature = "phantom" },
+  { alters = "Bonded manifestation", feature = "bonded-manifestation" },
+  { alters = "Phantom" },
+]
 +++
 
 Some phantoms retain less of their personalities and memories than others. Though most phantoms

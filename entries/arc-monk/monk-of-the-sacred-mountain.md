@@ -16,8 +16,13 @@ page = "114"
 
 [fields]
 kind = "archetype"
-replaces = ["Evasion", "Slow fall", "High jump", "Improved evasion", "Tongue of the sun and the moon"]
-replaces_features = ["evasion", "slow-fall", "high-jump", "improved-evasion"]
+trades = [
+  { replaces = "Evasion", feature = "evasion" },
+  { replaces = "Slow fall", feature = "slow-fall" },
+  { replaces = "High jump", feature = "high-jump" },
+  { replaces = "Improved evasion", feature = "improved-evasion" },
+  { replaces = "Tongue of the sun and the moon", feature = "tongue-of-the-sun-and-moon" },
+]
 +++
 
 The monk of the sacred mountain finds strength and power in the earth beneath his feet. Rather than

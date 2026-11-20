@@ -16,7 +16,11 @@ page = "26"
 
 [fields]
 kind = "archetype"
-replaces = ["The arcane exploit gained at 1st level", "The arcane exploit gained at 5th level", "The arcane exploit gained at 11th level"]
+trades = [
+  { replaces = "The arcane exploit gained at 1st level" },
+  { replaces = "The arcane exploit gained at 5th level" },
+  { replaces = "The arcane exploit gained at 11th level" },
+]
 +++
 
 The Shory were the undisputed masters of wind and sky, and they unlocked numerous secrets of air

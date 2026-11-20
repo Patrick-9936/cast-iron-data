@@ -16,8 +16,17 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Hunter tactics", "The teamwork feat gained at 3rd level", "Woodland stride", "The teamwork feat gained at 6th level", "Swift tracker", "The teamwork feat gained at 9th level", "The teamwork feat gained at 12th level", "The teamwork feat gained at 15th level", "The teamwork feat gained at 18th level"]
-replaces_features = ["hunter-tactics", "woodland-stride", "swift-tracker"]
+trades = [
+  { replaces = "Hunter tactics", feature = "hunter-tactics" },
+  { replaces = "The teamwork feat gained at 3rd level", feature = "teamwork-feat", levels = [3] },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "The teamwork feat gained at 6th level", feature = "teamwork-feat", levels = [6] },
+  { replaces = "Swift tracker", feature = "swift-tracker" },
+  { replaces = "The teamwork feat gained at 9th level", feature = "teamwork-feat", levels = [9] },
+  { replaces = "The teamwork feat gained at 12th level", feature = "teamwork-feat", levels = [12] },
+  { replaces = "The teamwork feat gained at 15th level", feature = "teamwork-feat", levels = [15] },
+  { replaces = "The teamwork feat gained at 18th level", feature = "teamwork-feat", levels = [18] },
+]
 +++
 
 Well adapted to their drenched surroundings, flood flourishers coordinate deadly ambushes with their

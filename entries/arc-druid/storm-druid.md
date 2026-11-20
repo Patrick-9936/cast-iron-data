@@ -16,8 +16,14 @@ page = "40"
 
 [fields]
 kind = "archetype"
-replaces = ["Spontaneous casting", "Woodland stride", "Trackless step", "Resist nature's lure", "Venom immunity", "A thousand faces"]
-replaces_features = ["spontaneous-casting", "woodland-stride", "trackless-step", "resist-nature-s-lure", "venom-immunity", "a-thousand-faces"]
+trades = [
+  { replaces = "Spontaneous casting", feature = "spontaneous-casting" },
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Trackless step", feature = "trackless-step" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { replaces = "A thousand faces", feature = "a-thousand-faces" },
+]
 +++
 
 While most druids focus their attention upon the rich earth and the bounty of nature that springs

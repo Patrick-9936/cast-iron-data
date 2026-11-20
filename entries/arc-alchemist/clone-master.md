@@ -16,7 +16,11 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Bombs", "Poison resistance +6", "poison immunity"]
+trades = [
+  { replaces = "Bombs", feature = "bomb" },
+  { replaces = "Poison resistance +6", feature = "poison-resistance", power = "+6" },
+  { replaces = "poison immunity" },
+]
 +++
 
 Clone masters practice duplicating existing creatures in order to better understand how to create

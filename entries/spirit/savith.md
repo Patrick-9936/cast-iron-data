@@ -13,7 +13,10 @@ page = "11"
 [fields]
 kind = "class_option"
 group = "medium-spirit"
-alters = ["Champion's prowess", "Legendary champion"]
+trades = [
+  { alters = "Champion's prowess" },
+  { alters = "Legendary champion" },
+]
 +++
 
 Savith was the Azlanti hero who, during the Age of Legend, descended into the serpentfolk city of

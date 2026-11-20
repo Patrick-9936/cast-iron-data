@@ -16,9 +16,14 @@ page = "24"
 
 [fields]
 kind = "archetype"
-replaces = ["Opportune parry and riposte", "4th-level bonus feat", "Menacing swordplay", "Superior feint", "Bleeding wound"]
-alters = ["Nimble"]
-alters_features = ["nimble"]
+trades = [
+  { replaces = "Opportune parry and riposte" },
+  { replaces = "4th-level bonus feat", feature = "bonus-feats", levels = [4] },
+  { replaces = "Menacing swordplay" },
+  { replaces = "Superior feint" },
+  { replaces = "Bleeding wound" },
+  { alters = "Nimble", feature = "nimble" },
+]
 +++
 
 Many [tengus](ref/race/tengu) still hold some bitterness at their lack of wings, and while a small

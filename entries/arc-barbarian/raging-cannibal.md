@@ -19,9 +19,13 @@ page = "27"
 
 [fields]
 kind = "archetype"
-replaces = ["Uncanny dodge", "Trap sense", "Improved uncanny dodge", "Damage reduction"]
-alters = ["The barbarian's 2nd-level rage power"]
-replaces_features = ["uncanny-dodge", "trap-sense", "improved-uncanny-dodge", "damage-reduction"]
+trades = [
+  { replaces = "Uncanny dodge", feature = "uncanny-dodge" },
+  { replaces = "Trap sense", feature = "trap-sense" },
+  { replaces = "Improved uncanny dodge", feature = "improved-uncanny-dodge" },
+  { replaces = "Damage reduction", feature = "damage-reduction" },
+  { alters = "The barbarian's 2nd-level rage power", feature = "rage-powers", levels = [2] },
+]
 +++
 
 While savagery is not inherently evil, some barbaric cultures thrive on depravity and welcome the

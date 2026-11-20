@@ -16,10 +16,13 @@ page = "28"
 
 [fields]
 kind = "archetype"
-replaces = ["Stern gaze", "Monster lore", "Solo tactics", "teamwork feats"]
-alters = ["Cunning initiative"]
-replaces_features = ["stern-gaze", "monster-lore", "solo-tactics"]
-alters_features = ["cunning-initiative"]
+trades = [
+  { replaces = "Stern gaze", feature = "stern-gaze" },
+  { replaces = "Monster lore", feature = "monster-lore" },
+  { replaces = "Solo tactics", feature = "solo-tactics" },
+  { replaces = "teamwork feats", feature = "teamwork-feat" },
+  { alters = "Cunning initiative", feature = "cunning-initiative" },
+]
 +++
 
 Some inquisitors are adept at appearing harmless until they throw off their unassuming facades and

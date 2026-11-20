@@ -12,8 +12,15 @@ page = "212"
 
 [fields]
 kind = "archetype"
-replaces = ["Alertness", "Improved evasion", "share spells", "Deliver touch spells", "Spell resistance"]
-alters = ["Empathic link", "Scry on familiar"]
+trades = [
+  { replaces = "Alertness" },
+  { replaces = "Improved evasion" },
+  { replaces = "share spells" },
+  { replaces = "Deliver touch spells" },
+  { replaces = "Spell resistance" },
+  { alters = "Empathic link" },
+  { alters = "Scry on familiar" },
+]
 +++
 
 Some familiars love to perform pranks on their unsuspecting masters, as well as on those around

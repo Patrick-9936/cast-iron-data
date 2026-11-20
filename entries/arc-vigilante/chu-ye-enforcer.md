@@ -16,9 +16,13 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Social talent gained at 1st level", "Vigilante talents gained at 4th, 14th, and 18th levels", "Vigilante talent gained at 6th level", "Vigilante talent gained at 12th level"]
-alters = ["Dual identity"]
-alters_features = ["dual-identity"]
+trades = [
+  { replaces = "Social talent gained at 1st level", feature = "social-talent", levels = [1] },
+  { replaces = "Vigilante talents gained at 4th, 14th, and 18th levels", feature = "vigilante-talent", levels = [4, 14, 18] },
+  { replaces = "Vigilante talent gained at 6th level", feature = "vigilante-talent", levels = [6] },
+  { replaces = "Vigilante talent gained at 12th level", feature = "vigilante-talent", levels = [12] },
+  { alters = "Dual identity", feature = "dual-identity" },
+]
 +++
 
 In the despotic nation of Chu Ye, merciless [oni](ref/family/oni) oppress the human populace. Some

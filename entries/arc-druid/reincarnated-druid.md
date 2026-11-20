@@ -16,8 +16,13 @@ page = "39"
 
 [fields]
 kind = "archetype"
-replaces = ["Woodland stride", "Resist nature's lure", "Wild shape", "Venom immunity", "Timeless body"]
-replaces_features = ["woodland-stride", "resist-nature-s-lure", "wild-shape", "venom-immunity", "timeless-body"]
+trades = [
+  { replaces = "Woodland stride", feature = "woodland-stride" },
+  { replaces = "Resist nature's lure", feature = "resist-nature-s-lure" },
+  { replaces = "Wild shape", feature = "wild-shape" },
+  { replaces = "Venom immunity", feature = "venom-immunity" },
+  { replaces = "Timeless body", feature = "timeless-body" },
+]
 +++
 
 Spun off into the endless circle of life, an incarnate druid is an embodiment of nature's eternal

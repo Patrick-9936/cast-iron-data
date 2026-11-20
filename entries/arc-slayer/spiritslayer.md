@@ -16,8 +16,10 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Slayer talent gained at 2nd level", "Stalker"]
-replaces_features = ["stalker"]
+trades = [
+  { replaces = "Slayer talent gained at 2nd level", feature = "slayer-talents", levels = [2] },
+  { replaces = "Stalker", feature = "stalker" },
+]
 +++
 
 Originally trained and employed by the enforcers of the Pure Legion seeking to defend Rahadoum from

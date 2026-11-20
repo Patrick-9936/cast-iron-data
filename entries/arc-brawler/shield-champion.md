@@ -16,8 +16,12 @@ page = "86"
 
 [fields]
 kind = "archetype"
-replaces = ["Weapon and armor proficiencies", "Maneuver training at 3rd, 7th, and 11th levels", "Brawler's strike", "Maneuver training gained at 15th and 19th levels"]
-replaces_features = ["weapon-and-armor-proficiencies", "brawler-s-strike"]
+trades = [
+  { replaces = "Weapon and armor proficiencies", feature = "weapon-and-armor-proficiencies" },
+  { replaces = "Maneuver training at 3rd, 7th, and 11th levels", feature = "maneuver-training", levels = [3, 7, 11] },
+  { replaces = "Brawler's strike", feature = "brawler-s-strike" },
+  { replaces = "Maneuver training gained at 15th and 19th levels", feature = "maneuver-training", levels = [15, 19] },
+]
 +++
 
 Stalwart in battle, a shield champion has perfected an entire martial discipline relying on only her

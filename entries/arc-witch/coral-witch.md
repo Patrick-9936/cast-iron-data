@@ -16,9 +16,11 @@ page = "22"
 
 [fields]
 kind = "archetype"
-replaces = ["8th-level hex"]
-alters = ["Familiar", "Hex"]
-alters_features = ["hex"]
+trades = [
+  { replaces = "8th-level hex", feature = "hex", levels = [8] },
+  { alters = "Familiar" },
+  { alters = "Hex", feature = "hex" },
+]
 +++
 
 Coral witches inhabit shallow coasts and reefs where great masses of coral grow. They use their

@@ -16,8 +16,9 @@ page = "15"
 
 [fields]
 kind = "archetype"
-replaces = ["Channel energy"]
-replaces_features = ["channel-energy"]
+trades = [
+  { replaces = "Channel energy", feature = "channel-energy" },
+]
 +++
 
 Forgemasters are priestly dwarves who are ritual casters and expert enchanters, able to produce

@@ -16,10 +16,19 @@ page = "18"
 
 [fields]
 kind = "archetype"
-replaces = ["Detect evil", "Aura of good", "aura of justice", "Smite evil", "Holy champion"]
-alters = ["Skills per level", "Aura of courage", "aura of resolve", "aura of faith", "aura of righteousness", "Divine bond"]
-replaces_features = ["detect-evil", "aura-of-good", "aura-of-justice", "smite-evil", "holy-champion"]
-alters_features = ["aura-of-courage", "aura-of-resolve", "aura-of-faith", "aura-of-righteousness", "divine-bond"]
+trades = [
+  { replaces = "Detect evil", feature = "detect-evil" },
+  { replaces = "Aura of good", feature = "aura-of-good" },
+  { replaces = "aura of justice", feature = "aura-of-justice" },
+  { replaces = "Smite evil", feature = "smite-evil" },
+  { replaces = "Holy champion", feature = "holy-champion" },
+  { alters = "Skills per level" },
+  { alters = "Aura of courage", feature = "aura-of-courage" },
+  { alters = "aura of resolve", feature = "aura-of-resolve" },
+  { alters = "aura of faith", feature = "aura-of-faith" },
+  { alters = "aura of righteousness", feature = "aura-of-righteousness" },
+  { alters = "Divine bond", feature = "divine-bond" },
+]
 +++
 
 While most paladins stride brazenly forth to battle evil in gleaming armor, faithful wanderers

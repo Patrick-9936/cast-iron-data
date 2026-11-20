@@ -13,9 +13,13 @@ relations = [
 
 [fields]
 kind = "archetype"
-replaces = ["Deadeye deed", "Startling shot deed", "Bleeding wound deed", "Gun training 1-4"]
-alters = ["Gunsmith"]
-alters_features = ["gunsmith"]
+trades = [
+  { replaces = "Deadeye deed" },
+  { replaces = "Startling shot deed" },
+  { replaces = "Bleeding wound deed" },
+  { replaces = "Gun training 1-4" },
+  { alters = "Gunsmith", feature = "gunsmith" },
+]
 +++
 
 **Source** Ultimate Combat pg. 51

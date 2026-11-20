@@ -16,7 +16,12 @@ page = "53"
 
 [fields]
 kind = "archetype"
-replaces = ["Opportune parry and riposte", "Menacing swordplay", "Swashbuckler's grace", "Swashbuckler's edge"]
+trades = [
+  { replaces = "Opportune parry and riposte" },
+  { replaces = "Menacing swordplay" },
+  { replaces = "Swashbuckler's grace" },
+  { replaces = "Swashbuckler's edge" },
+]
 +++
 
 Veiled blades specialize in subtlety, not through clandestine sneaking but simply by appearing to be

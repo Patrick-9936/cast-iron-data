@@ -16,8 +16,11 @@ page = "20"
 
 [fields]
 kind = "archetype"
-replaces = ["Lay on hands", "Mercy", "Channel positive energy"]
-replaces_features = ["lay-on-hands", "mercy", "channel-positive-energy"]
+trades = [
+  { replaces = "Lay on hands", feature = "lay-on-hands" },
+  { replaces = "Mercy", feature = "mercy" },
+  { replaces = "Channel positive energy", feature = "channel-positive-energy" },
+]
 +++
 
 Veterans of mystical battles against demons of the Worldwound, mind swords merge psychic and divine
