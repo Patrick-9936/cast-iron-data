@@ -84,9 +84,10 @@ text, so that fixes are ordinary edits to this repository. The datasets are pinn
   `08ea71f24375908d0190c822fd1fd080797667a9`. Its `json/` directory is Open Game Content under the
   OGL 1.0a (its `OPENGAMECONTENT.md` carries the license text, the Section 15 credits, and Paizo's
   Product Identity exclusion). The application content in that repository is copyright 2024 Jason
-  Tamez under GPL-3.0-or-later; none of it was copied. Its Pathfinder Second Edition material is
-  licensed under the ORC License and is out of scope: no ORC-licensed record or notice is in this
-  corpus.
+  Tamez under GPL-3.0-or-later. Its code, its renderer, and its other application content were not
+  copied. The one part that may count as application content is the dataset's editor's notes (see
+  below). Its Pathfinder Second Edition material is licensed under the ORC License and is out of
+  scope: no ORC-licensed record or notice is in this corpus.
 
 Section 15 notices come from those datasets' own notice lists and from a reviewed export of the
 d20pfsrd.com Section 15 statements. d20pfsrd.com distributes its Pathfinder First Edition Open
@@ -95,6 +96,42 @@ Game Content under OGL 1.0a. The research behind these decisions is in the Cast 
 
 Excluded and rejected material is listed in `exclusions.toml`. Records of Pathfinder comics, which
 have no usable notice, are excluded.
+
+### Editor's notes from Pathfinder Data 1e
+
+Pathfinder Data 1e adds notes to its records (footnotes and similar notes). The dataset does not
+mark each note as Open Game Content or as application content, and its notices support either
+reading. A note stays in this corpus only when Archives of Nethys (AoN) or the Paizo Pathfinder
+Reference Document (PRD) carries the same text. The corpus removed or converted the notes that
+neither carries (cast-iron-data pull requests #113 and #115).
+
+The notes that stay are, by kind:
+
+- Notes that a Paizo book prints, such as the "Bonus feat." legends in stat blocks, notes under
+  tables, and the markers on spell lists, in the dataset's wording or a close paraphrase of the
+  printed text. This is most of them.
+- A small number of cross-reference pointers, short compiled lists, and similar notes that AoN or
+  the PRD carries.
+
+About 770 footnote blocks in about 530 entries remained when this note was written. The count falls
+if the review of the remaining candidates (cast-iron-data issue #117) removes more notes. The basis
+below applies to whichever notes stay.
+
+The basis is the game text that AoN or the PRD carries, not the dataset's editorial work:
+
+- Text that the PRD carries is Paizo's Open Game Content, published under the Open Game License
+  1.0a. The Section 15 notices of the book that printed it apply, and they are in
+  [LICENSES/OGL-1.0a.md](LICENSES/OGL-1.0a.md).
+- Text that AoN carries is Paizo's printed rules text as AoN presents it, mostly condensed printed
+  sentences. The corpus treats it as it treats the rest of the entry: Open Game Content under the
+  Open Game License 1.0a, with the Section 15 notice of the book and of the dataset ("Pf Data 1e
+  Copyright 2025, Jason Tamez"), as `legal.toml` records. Notes that AoN's own editors wrote
+  (Nethys Notes) are not Paizo text, and the corpus claims no other license for them.
+
+Paizo's Community Use Policy covers Paizo's own material only. It does not cover a third party's
+prose, so it is not the basis for any of these notes. This is a statement of the project's basis,
+not a legal clearance. A rights holder who disagrees can ask for a note's removal through the
+contact address below.
 
 ## Contact
 
