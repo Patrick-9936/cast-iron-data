@@ -100,16 +100,15 @@ wings +40 (2d8+6), gore +40 (1d6+6)
 
 **At will:**
 
-- astral projection, baleful polymorph (mythic spell) (DC 28), desecrate (mythic spell), dictum
-  (mythic spell) (DC 30), dominate person (mythic spell) (DC 28), greater dispel magic, greater
-  teleport, matchmaker (DC 26), modify memory (mythic spell) (DC 27), order's wrath (mythic spell)
-  (DC 27), unhallow
+- astral projection, baleful polymorph^M^ (DC 28), desecrate^M^, dictum^M^ (DC 30), dominate
+  person^M^ (DC 28), greater dispel magic, greater teleport, matchmaker (DC 26), modify memory^M^
+  (DC 27), order's wrath^M^ (DC 27), unhallow
 
 **Per day:**
 
-- 3/day: &Q mass suggestion (DC 29), prismatic spray (mythic spell) (DC 30), summon devils, sympathy
-  (DC 31), waves of ecstasy (DC 30)
-- 1/day: overwhelming presence (DC 32), time stop (mythic spell), wish (mythic spell)
+- 3/day: &Q mass suggestion (DC 29), prismatic spray^M^ (DC 30), summon devils, sympathy (DC 31),
+  waves of ecstasy (DC 30)
+- 1/day: overwhelming presence (DC 32), time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

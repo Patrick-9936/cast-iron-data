@@ -102,22 +102,21 @@ _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth,
 
 **4th-level spells:**
 
-- aura of doom (DC 17), confusion (domain spell) (DC 17), cure critical wounds
+- aura of doom (DC 17), confusion^D^ (DC 17), cure critical wounds
 
 **3rd-level spells:**
 
-- animate dead, blindness/deafness (DC 16), deeper darkness, magic circle against chaos (domain
-  spell), summon monster III
+- animate dead, blindness/deafness (DC 16), deeper darkness, magic circle against chaos^D^, summon
+  monster III
 
 **2nd-level spells:**
 
-- death knell (DC 15), hold person (DC 15), invisibility (domain spell), lesser animate dead,
-  protective penumbra
+- death knell (DC 15), hold person (DC 15), invisibility^D^, lesser animate dead, protective
+  penumbra
 
 **1st-level spells:**
 
-- bane (DC 14), bless, disguise self (domain spell), moment of greatness, obscuring mist, sanctuary
-  (DC 14)
+- bane (DC 14), bless, disguise self^D^, moment of greatness, obscuring mist, sanctuary (DC 14)
 
 **Cantrips:**
 

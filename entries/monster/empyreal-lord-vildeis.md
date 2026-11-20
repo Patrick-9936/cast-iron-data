@@ -103,13 +103,12 @@ death effects, energy drain, petrification
 
 **At will:**
 
-- command (mythic spell) (DC 16), greater teleport, haste (mythic spell), paladin's sacrifice, pain
-  strike (DC 18)
+- command^M^ (DC 16), greater teleport, haste^M^, paladin's sacrifice, pain strike (DC 18)
 
 **Per day:**
 
-- 3/day: discern location, geas/quest (DC 21), heal, holy word (mythic spell) (DC 22), mark of
-  justice (DC 20), mass pain strike (DC 20), searing light (mythic spell)
+- 3/day: discern location, geas/quest (DC 21), heal, holy word^M^ (DC 22), mark of justice (DC 20),
+  mass pain strike (DC 20), searing light^M^
 
 **Prepared Spells**
 

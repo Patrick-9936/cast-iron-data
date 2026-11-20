@@ -101,21 +101,20 @@ cloud of heady incense about her form doesn't conceal the distinct scent of brim
 
 **6th-level spells:**
 
-- blade barrier (DC 21), stoneskin (domain spell)
+- blade barrier (DC 21), stoneskin^D^
 
 **5th-level spells:**
 
-- flame strike (DC 20), righteous might (domain spell), slay living (DC 19)
+- flame strike (DC 20), righteous might^D^, slay living (DC 19)
 
 **4th-level spells:**
 
-- air walk, chaos hammer (DC 19), cure critical wounds, greater magic weapon, spell immunity (domain
-  spell)
+- air walk, chaos hammer (DC 19), cure critical wounds, greater magic weapon, spell immunity^D^
 
 **3rd-level spells:**
 
-- cure serious wounds, deeper darkness, dispel magic, magic circle against good (domain spell), meld
-  into stone, mind maze (DC 17)
+- cure serious wounds, deeper darkness, dispel magic, magic circle against good^D^, meld into stone,
+  mind maze (DC 17)
 
 **2nd-level spells:**
 
@@ -123,8 +122,8 @@ cloud of heady incense about her form doesn't conceal the distinct scent of brim
 
 **1st-level spells:**
 
-- bane (DC 15), cause fear (DC 15), cure light wounds, divine favor, protection from good (domain
-  spell), shield of faith
+- bane (DC 15), cause fear (DC 15), cure light wounds, divine favor, protection from good^D^, shield
+  of faith
 
 **Cantrips:**
 

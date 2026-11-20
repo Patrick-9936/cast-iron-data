@@ -115,16 +115,16 @@ _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes w
 
 **3rd-level spells:**
 
-- chain of perdition, dispel magic (domain spell), protection from energy
+- chain of perdition, dispel magic^D^, protection from energy
 
 **2nd-level spells:**
 
-- align weapon (domain spell), evil only, dread bolt (DC 16), hold person (DC 16), spiritual weapon
+- align weapon^D^, evil only, dread bolt (DC 16), hold person (DC 16), spiritual weapon
 
 **1st-level spells:**
 
-- cure light wounds, entropic shield, murderous command (DC 15), protection from good (domain
-  spell), shield of faith
+- cure light wounds, entropic shield, murderous command (DC 15), protection from good^D^, shield of
+  faith
 
 **Cantrips:**
 

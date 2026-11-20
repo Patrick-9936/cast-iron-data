@@ -108,8 +108,7 @@ hand of the apprentice (17/day), inspire minions, marshal's order (advance), met
 
 **9th-level spells:**
 
-- gate, overwhelming presence (DC 36), power word kill (mythic spell), 2, time stop (mythic spell),
-  wish
+- gate, overwhelming presence (DC 36), power word kill^M^, 2, time stop^M^, wish
 
 **8th-level spells:**
 
@@ -117,8 +116,8 @@ hand of the apprentice (17/day), inspire minions, marshal's order (advance), met
 
 **6th-level spells:**
 
-- antimagic field (mythic spell), circle of death (DC 31), disintegrate (DC 30), greater dispel
-  magic, greater heroism, mass eagle's splendor, mass suggestion (DC 33)
+- antimagic field^M^, circle of death (DC 31), disintegrate (DC 30), greater dispel magic, greater
+  heroism, mass eagle's splendor, mass suggestion (DC 33)
 
 **5th-level spells:**
 
@@ -131,8 +130,8 @@ hand of the apprentice (17/day), inspire minions, marshal's order (advance), met
 
 **3rd-level spells:**
 
-- fireball (mythic spell) (DC 27), fly, greater magic weapon, already cast, haste (mythic spell), 2,
-  heroism (mythic spell), stinking cloud (DC 27)
+- fireball^M^ (DC 27), fly, greater magic weapon, already cast, haste^M^, 2, heroism^M^, stinking
+  cloud (DC 27)
 
 **2nd-level spells:**
 
@@ -141,8 +140,8 @@ hand of the apprentice (17/day), inspire minions, marshal's order (advance), met
 
 **1st-level spells:**
 
-- disguise self, feather fall, mage armor (mythic spell), ray of enfeeblement (DC 26), shield, true
-  strike, vanish, 2
+- disguise self, feather fall, mage armor^M^, ray of enfeeblement (DC 26), shield, true strike,
+  vanish, 2
 
 **Cantrips:**
 

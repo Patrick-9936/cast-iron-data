@@ -106,14 +106,14 @@ pulsing blisters._
 
 **At will:**
 
-- black tentacles (mythic spell), cloudkill (mythic spell) (DC 21), control water, desecrate (mythic
-  spell), greater dispel magic, greater teleport
+- black tentacles^M^, cloudkill^M^ (DC 21), control water, desecrate^M^, greater dispel magic,
+  greater teleport
 
 **Per day:**
 
-- 3/day: control plants (DC 24), &Q heal (mythic spell), horrid wilting (mythic spell) (DC 24),
-  plundered power (DC 23), vortex (DC 23)
-- 1/day: tsunami (mythic spell) (DC 25), summon qlippoth
+- 3/day: control plants (DC 24), &Q heal^M^, horrid wilting^M^ (DC 24), plundered power (DC 23),
+  vortex (DC 23)
+- 1/day: tsunami^M^ (DC 25), summon qlippoth
 
 ###### M {#footnote-m}
 

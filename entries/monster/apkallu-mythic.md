@@ -106,12 +106,12 @@ plus mark of restraint)
 
 **At will:**
 
-- control water, greater teleport, self plus 50 lbs. of objects only, major creation, order's wrath
-  (mythic spell) (DC 23), plane shift (DC 24)
+- control water, greater teleport, self plus 50 lbs. of objects only, major creation, order's
+  wrath^M^ (DC 23), plane shift (DC 24)
 
 **Per day:**
 
-- 3/day: &Q order's wrath (mythic spell) (DC 23)
+- 3/day: &Q order's wrath^M^ (DC 23)
 - 1/day: commune
 
 **Psychic Magic**
@@ -141,15 +141,15 @@ plus mark of restraint)
 
 **8th-level spells:**
 
-- 7/day: dimensional lock (mythic spell), mass cure critical wounds (DC 27), shield of law
+- 7/day: dimensional lock^M^, mass cure critical wounds (DC 27), shield of law
 
 **7th-level spells:**
 
-- 7/day: destruction (DC 26), dictum (mythic spell), repulsion (DC 26)
+- 7/day: destruction (DC 26), dictum^M^, repulsion (DC 26)
 
 **6th-level spells:**
 
-- 7/day: geas/quest, greater dispel magic, heal (mythic spell)
+- 7/day: geas/quest, greater dispel magic, heal^M^
 
 **5th-level spells:**
 
@@ -158,7 +158,7 @@ plus mark of restraint)
 
 **4th-level spells:**
 
-- 8/day: dimensional anchor, divination, restoration, sending (mythic spell)
+- 8/day: dimensional anchor, divination, restoration, sending^M^
 
 **3rd-level spells:**
 
@@ -171,8 +171,8 @@ plus mark of restraint)
 
 **1st-level spells:**
 
-- 9/day: comprehend languages, divine favor (mythic spell), obscuring mist (mythic spell), sanctuary
-  (mythic spell) (DC 20), shield of faith (mythic spell)
+- 9/day: comprehend languages, divine favor^M^, obscuring mist^M^, sanctuary^M^ (DC 20), shield of
+  faith^M^
 
 **Cantrips:**
 

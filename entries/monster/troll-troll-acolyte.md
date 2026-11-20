@@ -98,7 +98,7 @@ abilities = ["21", "12", "25", "8", "13", "10"]
 
 **1st-level spells:**
 
-- bless, divine favor, obscuring mist (domain spell), sun metal
+- bless, divine favor, obscuring mist^D^, sun metal
 
 **Cantrips:**
 

@@ -95,15 +95,15 @@ not plant form)
 
 **3rd-level spells:**
 
-- fireball (domain spell) (DC 16), greater magic fang, 2, swarm of fangs (DC 16)
+- fireball^D^ (DC 16), greater magic fang, 2, swarm of fangs (DC 16)
 
 **2nd-level spells:**
 
-- barkskin, bull's strength, 2, produce flame (domain spell), stone call
+- barkskin, bull's strength, 2, produce flame^D^, stone call
 
 **1st-level spells:**
 
-- burning hands (domain spell) (DC 14), cure light wounds, 2, longstrider, pass without trace
+- burning hands^D^ (DC 14), cure light wounds, 2, longstrider, pass without trace
 
 **Cantrips:**
 

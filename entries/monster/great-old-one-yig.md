@@ -114,14 +114,13 @@ mind-affecting effects, paralysis, petrification, poison
 
 **At will:**
 
-- awaken, snakes only, baleful polymorph (mythic spell) (DC 25, into harmless snakes only), commune
-  with nature, dimension door (mythic spell), dream (mythic spell), greater dispel magic, nightmare
-  (mythic spell) (DC 25), transport via plants
+- awaken, snakes only, baleful polymorph^M^ (DC 25, into harmless snakes only), commune with nature,
+  dimension door^M^, dream^M^, greater dispel magic, nightmare^M^ (DC 25), transport via plants
 
 **Per day:**
 
 - 3/day: demand, &Q feeblemind (DC 25)
-- 1/day: control weather (mythic spell), symbol of persuasion (DC 26), true resurrection
+- 1/day: control weather^M^, symbol of persuasion (DC 26), true resurrection
 
 ###### M {#footnote-m}
 

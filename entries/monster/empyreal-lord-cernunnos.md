@@ -111,12 +111,12 @@ electricity, energy drain, petrification
 
 **At will:**
 
-- greater teleport, haste (mythic spell), true strike (mythic spell)
+- greater teleport, haste^M^, true strike^M^
 
 **Per day:**
 
-- 3/day: break enchantment (mythic spell), breath of life (mythic spell), dimensional anchor (DC 19)
-- 1/day: discern location, mage's disjunction (mythic spell) (DC 24), time stop (mythic spell)
+- 3/day: break enchantment^M^, breath of life^M^, dimensional anchor (DC 19)
+- 1/day: discern location, mage's disjunction^M^ (DC 24), time stop^M^
 
 **Prepared Spells**
 

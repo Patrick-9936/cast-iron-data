@@ -111,13 +111,13 @@ gaping, sludge-dripping mouth._
 
 **At will:**
 
-- acid fog, blindness/deafness (mythic spell) (DC 17), desecrate (mythic spell), greater dispel
-  magic, greater teleport, slow (mythic spell) (DC 18)
+- acid fog, blindness/deafness^M^ (DC 17), desecrate^M^, greater dispel magic, greater teleport,
+  slow^M^ (DC 18)
 
 **Per day:**
 
-- 3/day: foresight (mythic spell), mass hunger for flesh (DC 21), power word blind (mythic spell),
-  &Q slow (DC 18), vision, waves of exhaustion
+- 3/day: foresight^M^, mass hunger for flesh (DC 21), power word blind^M^, &Q slow (DC 18), vision,
+  waves of exhaustion
 - 1/day: imprisonment (DC 24), summon qlippoth
 
 ###### M {#footnote-m}

@@ -97,7 +97,7 @@ mouth with ill-fitting teeth._
 
 **1st-level spells:**
 
-- bless, cure light wounds, divine favor, enlarge person (domain spell)
+- bless, cure light wounds, divine favor, enlarge person^D^
 
 **Cantrips:**
 

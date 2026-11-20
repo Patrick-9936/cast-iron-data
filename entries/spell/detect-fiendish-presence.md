@@ -60,11 +60,6 @@ outsiders with the evil subtype, as well as the lingering effects caused by thei
 and spells. It can also detect clerics and paladins of fiendish deities, including
 [Asmodeus](ref/faith/asmodeus), archdevils, daemonic harbingers, and demon lords.
 
-###### ^2^ {#footnote-a}
-
-Some characters who are not clerics may radiate an aura of equivalent power. The class description
-will indicate whether this applies.
-
 ###### ^1^ {#footnote-e}
 
 Excludes undead and outsiders, which have their own entries on the table.

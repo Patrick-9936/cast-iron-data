@@ -107,15 +107,15 @@ electricity, energy drain, petrification, and poison
 
 **At will:**
 
-- astral projection, blasphemy (mythic spell) (DC 30), control winds, desecrate (mythic spell),
-  dominate person (mythic spell) (DC 28), greater dispel magic, greater teleport, shapechange,
-  telekinesis (mythic spell) (DC 28), unhallow, unholy blight (mythic spell) (DC 27)
+- astral projection, blasphemy^M^ (DC 30), control winds, desecrate^M^, dominate person^M^ (DC 28),
+  greater dispel magic, greater teleport, shapechange, telekinesis^M^ (DC 28), unhallow, unholy
+  blight^M^ (DC 27)
 
 **Per day:**
 
-- 3/day: &Q dominate person (mythic spell) (DC 28), summon demons, symbol of persuasion (DC 29),
-  sympathy (DC 31), whirlwind (mythic spell)
-- 1/day: dominate monster (DC 32), time stop (mythic spell), wish (mythic spell)
+- 3/day: &Q dominate person^M^ (DC 28), summon demons, symbol of persuasion (DC 29), sympathy (DC
+  31), whirlwind^M^
+- 1/day: dominate monster (DC 32), time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

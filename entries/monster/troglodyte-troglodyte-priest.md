@@ -99,11 +99,11 @@ tail and crests on its head and back._
 
 **2nd-level spells:**
 
-- amplify stench, bull's strength (domain spell), hold person (DC 14)
+- amplify stench, bull's strength^D^, hold person (DC 14)
 
 **1st-level spells:**
 
-- bless, command (DC 13), doom (domain spell) (DC 13), magic weapon
+- bless, command (DC 13), doom^D^ (DC 13), magic weapon
 
 **Cantrips:**
 

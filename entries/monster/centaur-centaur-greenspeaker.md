@@ -88,7 +88,7 @@ carries a variety of wands and talismans in addition to his weapons._
 
 **1st-level spells:**
 
-- detect undead\#S, entangle (DC 15), goodberry, sleep (DC 15)
+- detect undead^S^, entangle (DC 15), goodberry, sleep (DC 15)
 
 **Cantrips:**
 

@@ -99,14 +99,14 @@ soul shell
 
 **At will:**
 
-- charm monster (DC 23), desecrate (mythic spell), greater command (DC 25), greater dispel magic,
-  greater object possession (DC 26), greater teleport
+- charm monster (DC 23), desecrate^M^, greater command (DC 25), greater dispel magic, greater object
+  possession (DC 26), greater teleport
 
 **Per day:**
 
-- 3/day: dominate monster (DC 28), greater possession (DC 27), &Q mass suggestion (DC 25), whirlwind
-  (mythic spell) (DC 27)
-- 1/day: summon qlippoth, wish (mythic spell)
+- 3/day: dominate monster (DC 28), greater possession (DC 27), &Q mass suggestion (DC 25),
+  whirlwind^M^ (DC 27)
+- 1/day: summon qlippoth, wish^M^
 
 ###### M {#footnote-m}
 

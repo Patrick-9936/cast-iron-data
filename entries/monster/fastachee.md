@@ -102,31 +102,31 @@ basket filled with corn._
 
 **6th-level spells:**
 
-- greater dispel magic, heal (domain spell), mass bear's endurance
+- greater dispel magic, heal^D^, mass bear's endurance
 
 **5th-level spells:**
 
-- baleful polymorph (DC 21), breath of life (domain spell), commune with nature, wall of thorns
+- baleful polymorph (DC 21), breath of life^D^, commune with nature, wall of thorns
 
 **4th-level spells:**
 
-- command plants (DC 20), cure critical wounds (domain spell), flame strike (DC 20), freedom of
-  movement, spike stones (DC 20)
+- command plants (DC 20), cure critical wounds^D^, flame strike (DC 20), freedom of movement, spike
+  stones (DC 20)
 
 **3rd-level spells:**
 
-- aqueous orb (DC 20), call lightning (DC 19), cure serious wounds (domain spell), protection from
-  energy, remove disease, spike growth (DC 19)
+- aqueous orb (DC 20), call lightning (DC 19), cure serious wounds^D^, protection from energy,
+  remove disease, spike growth (DC 19)
 
 **2nd-level spells:**
 
-- barkskin, cat's grace, cure moderate wounds (domain spell), flaming sphere (DC 18), lesser
-  restoration, soften earth and stone, tree shape
+- barkskin, cat's grace, cure moderate wounds^D^, flaming sphere (DC 18), lesser restoration, soften
+  earth and stone, tree shape
 
 **1st-level spells:**
 
-- ant haul, cure light wounds (domain spell), endure elements, faerie fire, goodberry, longstrider,
-  obscuring mist
+- ant haul, cure light wounds^D^, endure elements, faerie fire, goodberry, longstrider, obscuring
+  mist
 
 **Cantrips:**
 

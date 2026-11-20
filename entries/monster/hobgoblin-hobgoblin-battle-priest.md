@@ -96,25 +96,25 @@ eyes._
 
 **5th-level spells:**
 
-- flame strike (domain spell) (DC 18), righteous might
+- flame strike^D^ (DC 18), righteous might
 
 **4th-level spells:**
 
-- blessing of fervor, cure critical wounds, divine power (domain spell)
+- blessing of fervor, cure critical wounds, divine power^D^
 
 **3rd-level spells:**
 
-- blindness/deafness (DC 16), cure serious wounds, dispel magic, magic circle against chaos (domain
-  spell), prayer
+- blindness/deafness (DC 16), cure serious wounds, dispel magic, magic circle against chaos^D^,
+  prayer
 
 **2nd-level spells:**
 
 - aid, bear's endurance, death knell (DC 15), lesser restoration, sound burst (DC 15), spiritual
-  weapon (domain spell)
+  weapon^D^
 
 **1st-level spells:**
 
-- bless, entropic shield, magic weapon (domain spell), remove fear, 2, shield of faith
+- bless, entropic shield, magic weapon^D^, remove fear, 2, shield of faith
 
 **Cantrips:**
 

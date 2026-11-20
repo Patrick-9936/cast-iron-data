@@ -102,16 +102,16 @@ slam +44 (1d4+20)
 
 **At will:**
 
-- cure critical wounds (mythic spell), detect anxieties (DC 25), detect desires (DC 25), detect
-  thoughts (DC 25), good hope, greater dispel magic, greater teleport, holy word (mythic spell) (DC
-  30), matchmaker (DC 25), plane shift (mythic spell) (DC 30), project image (DC 30), shapechange
+- cure critical wounds^M^, detect anxieties (DC 25), detect desires (DC 25), detect thoughts (DC
+  25), good hope, greater dispel magic, greater teleport, holy word^M^ (DC 30), matchmaker (DC 25),
+  plane shift^M^ (DC 30), project image (DC 30), shapechange
 
 **Per day:**
 
-- 3/day: discern location, &Q greater invisibility, heroes' feast, irresistible dance (mythic spell)
-  (DC 31), limited wish, to duplicate 5th-level or lower bard spells only, mass heal, mind blank,
-  moment of prescience, sympathy (DC 31)
-- 1/day: time stop (mythic spell), wish (mythic spell)
+- 3/day: discern location, &Q greater invisibility, heroes' feast, irresistible dance^M^ (DC 31),
+  limited wish, to duplicate 5th-level or lower bard spells only, mass heal, mind blank, moment of
+  prescience, sympathy (DC 31)
+- 1/day: time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

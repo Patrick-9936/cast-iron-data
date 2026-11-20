@@ -56,11 +56,6 @@ This spell functions like _[detect evil](ref/spell/detect-evil),_ except that it
 of chaotic creatures, clerics of chaotic deities, chaotic spells, and chaotic magic items, and you
 are vulnerable to an overwhelming chaotic aura if you are lawful.
 
-###### ^2^ {#footnote-a}
-
-Some characters who are not clerics may radiate an aura of equivalent power. The class description
-will indicate whether this applies.
-
 ###### ^1^ {#footnote-e}
 
 Excludes undead and outsiders, which have their own entries on the table.

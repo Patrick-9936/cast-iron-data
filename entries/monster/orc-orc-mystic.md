@@ -95,11 +95,11 @@ abilities = ["17", "8", "12", "8", "13", "12"]
 
 **2nd-level spells:**
 
-- bull's strength, invisibility (domain spell)
+- bull's strength, invisibility^D^
 
 **1st-level spells:**
 
-- bane (DC 12), magic weapon, murderous command (DC 12), protection from good (domain spell)
+- bane (DC 12), magic weapon, murderous command (DC 12), protection from good^D^
 
 **Cantrips:**
 

@@ -82,31 +82,29 @@ abilities = ["10", "11", "12", "12", "20", "15"]
 
 **6th-level spells:**
 
-- antimagic field (domain spell), mass cure light wounds, wall of stone (DC 21)
+- antimagic field^D^, mass cure light wounds, wall of stone (DC 21)
 
 **5th-level spells:**
 
 - baleful polymorph (DC 20), commune with nature, death ward,
-  [spell resistance](ref/rule/spell-resistance) (domain spell), wall of thorns
+  [spell resistance](ref/rule/spell-resistance)^D^, wall of thorns
 
 **4th-level spells:**
 
-- cure serious wounds, dispel magic, freedom of movement, scrying (DC 19), spell immunity (domain
-  spell)
+- cure serious wounds, dispel magic, freedom of movement, scrying (DC 19), spell immunity^D^
 
 **3rd-level spells:**
 
-- call lightning (DC 18), cure moderate wounds, 2, protection from energy (domain spell), spit venom
-  (DC 18)
+- call lightning (DC 18), cure moderate wounds, 2, protection from energy^D^, spit venom (DC 18)
 
 **2nd-level spells:**
 
-- animal messenger, barkskin, delay poison, lesser restoration, 2, shield other (domain spell)
+- animal messenger, barkskin, delay poison, lesser restoration, 2, shield other^D^
 
 **1st-level spells:**
 
-- calm animals (DC 16), cure light wounds, 2, entangle (DC 16), sanctuary (domain spell) (DC 16),
-  shillelagh, speak with animals
+- calm animals (DC 16), cure light wounds, 2, entangle (DC 16), sanctuary^D^ (DC 16), shillelagh,
+  speak with animals
 
 **Cantrips:**
 

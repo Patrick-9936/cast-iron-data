@@ -94,31 +94,30 @@ dry, stretched skin._
 
 **6th-level spells:**
 
-- antilife shell, create undead (domain spell)
+- antilife shell, create undead^D^
 
 **5th-level spells:**
 
-- flame strike (DC 20), slay living (domain spell), symbol of pain (DC 20), unhallow
+- flame strike (DC 20), slay living^D^, symbol of pain (DC 20), unhallow
 
 **4th-level spells:**
 
-- divine power, freedom of movement, imbue with spell ability (domain spell), spell immunity, unholy
-  blight (DC 19)
+- divine power, freedom of movement, imbue with spell ability^D^, spell immunity, unholy blight (DC
+  19)
 
 **3rd-level spells:**
 
-- animate dead (domain spell), bestow curse (DC 18), dispel magic, glyph of warding (DC 18),
-  invisibility purge, protection from energy
+- animate dead^D^, bestow curse (DC 18), dispel magic, glyph of warding (DC 18), invisibility purge,
+  protection from energy
 
 **2nd-level spells:**
 
-- death knell (domain spell), desecrate, gentle repose, hold person (DC 17), resist energy, silence
-  (DC 17)
+- death knell^D^, desecrate, gentle repose, hold person (DC 17), resist energy, silence (DC 17)
 
 **1st-level spells:**
 
-- cause fear (domain spell) (DC 16), command (DC 16), entropic shield, deathwatch, doom (DC 16),
-  protection from good, shield of faith
+- cause fear^D^ (DC 16), command (DC 16), entropic shield, deathwatch, doom (DC 16), protection from
+  good, shield of faith
 
 **Cantrips:**
 

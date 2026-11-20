@@ -106,15 +106,15 @@ fire, memory loss effects, petrification, poison
 
 **At will:**
 
-- astral projection, black tentacles (mythic spell), desecrate (mythic spell), dictum (mythic spell)
-  (DC 28), greater dispel magic, greater teleport, mindwipe (DC 25), modify memory (mythic spell)
-  (DC 25), order's wrath (mythic spell) (DC 25), unhallow, wall of ice
+- astral projection, black tentacles^M^, desecrate^M^, dictum^M^ (DC 28), greater dispel magic,
+  greater teleport, mindwipe (DC 25), modify memory^M^ (DC 25), order's wrath^M^ (DC 25), unhallow,
+  wall of ice
 
 **Per day:**
 
 - 3/day: feeblemind (DC 26), &Q mindwipe (DC 25), mislead, persistent image (DC 26), summon devils,
   vision
-- 1/day: prediction of failure (DC 29), time stop (mythic spell), wish (mythic spell)
+- 1/day: prediction of failure (DC 29), time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

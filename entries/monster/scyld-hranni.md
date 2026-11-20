@@ -110,36 +110,36 @@ and a coral-encrusted shield._
 
 **7th-level spells:**
 
-- elemental body IV (domain spell), water only, holy word (DC 27), waves of ecstasy (DC 27)
+- elemental body IV^D^, water only, holy word (DC 27), waves of ecstasy (DC 27)
 
 **6th-level spells:**
 
-- antilife shell, banishment (DC 26), cold ice strike (DC 26), heal, sirocco (domain spell) (DC 26)
+- antilife shell, banishment (DC 26), cold ice strike (DC 26), heal, sirocco^D^ (DC 26)
 
 **5th-level spells:**
 
-- call lightning storm (domain spell) (DC 25), cleanse, greater forbid action (DC 25), holy ice (DC
-  25), righteous might, true seeing
+- call lightning storm^D^ (DC 25), cleanse, greater forbid action (DC 25), holy ice (DC 25),
+  righteous might, true seeing
 
 **4th-level spells:**
 
-- air walk, aura of doom (DC 24), blessing of fervor (DC 24), control water (domain spell), death
-  ward, dismissal (DC 24), divination
+- air walk, aura of doom (DC 24), blessing of fervor (DC 24), control water^D^, death ward,
+  dismissal (DC 24), divination
 
 **3rd-level spells:**
 
 - bestow curse (DC 23), blindness/deafness (DC 23), create food and water, daylight, dispel magic,
-  magic vestment, water walk (domain spell)
+  magic vestment, water walk^D^
 
 **2nd-level spells:**
 
-- augury, compassionate ally (DC 22), grace, hold person (DC 22), silence (DC 22), slipstream
-  (domain spell) (DC 22), sound burst (DC 22), zone of truth (DC 22)
+- augury, compassionate ally (DC 22), grace, hold person (DC 22), silence (DC 22), slipstream^D^ (DC
+  22), sound burst (DC 22), zone of truth (DC 22)
 
 **1st-level spells:**
 
-- command (DC 21), divine favor, murderous command (DC 21), obscuring mist (domain spell),
-  protection from evil, remove fear, sanctuary (DC 21), shield of faith
+- command (DC 21), divine favor, murderous command (DC 21), obscuring mist^D^, protection from evil,
+  remove fear, sanctuary (DC 21), shield of faith
 
 **Cantrips:**
 

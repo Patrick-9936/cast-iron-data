@@ -114,16 +114,15 @@ petrification, poison
 
 **At will:**
 
-- astral projection, desecrate (mythic spell), dictum (mythic spell) (DC 28), dominate person
-  (mythic spell) (DC 26), fireball (mythic spell) (DC 24), greater dispel magic, greater teleport,
-  order's wrath (mythic spell) (DC 25), slow (mythic spell) (DC 24), unhallow, wall of fire (mythic
-  spell)
+- astral projection, desecrate^M^, dictum^M^ (DC 28), dominate person^M^ (DC 26), fireball^M^ (DC
+  24), greater dispel magic, greater teleport, order's wrath^M^ (DC 25), slow^M^ (DC 24), unhallow,
+  wall of fire^M^
 
 **Per day:**
 
-- 3/day: &Q blade barrier (mythic spell) (DC 27), &EM fire storm (DC 29), mass charm monster (DC
-  29), mass hold person (DC 28), summon devils
-- 1/day: meteor swarm (mythic spell) (DC 30), time stop (mythic spell), wish (mythic spell)
+- 3/day: &Q blade barrier^M^ (DC 27), &EM fire storm (DC 29), mass charm monster (DC 29), mass hold
+  person (DC 28), summon devils
+- 1/day: meteor swarm^M^ (DC 30), time stop^M^, wish^M^
 
 ###### M {#footnote-m}
 

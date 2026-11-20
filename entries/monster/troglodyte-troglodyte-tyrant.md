@@ -101,20 +101,19 @@ claws +13 (1d4+5)
 
 **4th-level spells:**
 
-- divine power, mark of the reptile god (DC 19), unholy blight (domain spell) (DC 19)
+- divine power, mark of the reptile god (DC 19), unholy blight^D^ (DC 19)
 
 **3rd-level spells:**
 
-- bestow curse (DC 18), prayer, rage (domain spell), searing light
+- bestow curse (DC 18), prayer, rage^D^, searing light
 
 **2nd-level spells:**
 
-- amplify stench, bull's strength (domain spell), cure moderate wounds, hold person (DC 17),
-  spiritual weapon
+- amplify stench, bull's strength^D^, cure moderate wounds, hold person (DC 17), spiritual weapon
 
 **1st-level spells:**
 
-- bless, command (DC 16), cure light wounds, 3, entropic shield, protection from good (domain spell)
+- bless, command (DC 16), cure light wounds, 3, entropic shield, protection from good^D^
 
 **Cantrips:**
 

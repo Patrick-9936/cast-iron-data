@@ -94,12 +94,12 @@ In one hand, he clutches a great blade, while his other hand holds an idol of so
 
 **2nd-level spells:**
 
-- align weapon (domain spell), chaos only, hold person (DC 16), resist energy, spiritual weapon
+- align weapon^D^, chaos only, hold person (DC 16), resist energy, spiritual weapon
 
 **1st-level spells:**
 
-- cure light wounds, divine favor, murderous command (DC 15), protection from law (domain spell),
-  shield of faith
+- cure light wounds, divine favor, murderous command (DC 15), protection from law^D^, shield of
+  faith
 
 **Cantrips:**
 

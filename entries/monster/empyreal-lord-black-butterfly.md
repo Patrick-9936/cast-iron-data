@@ -110,16 +110,13 @@ electricity, energy drain, petrification
 
 **At will:**
 
-- break enchantment, deeper darkness, dimensional anchor, greater dispel magic, haste (mythic
-  spell), holy smite (mythic spell) (DC 25), holy word (mythic spell) (DC 28), interplanetary
-  teleport, wandering star motes (DC 25)
+- break enchantment, deeper darkness, dimensional anchor, greater dispel magic, haste^M^, holy
+  smite^M^ (DC 25), holy word^M^ (DC 28), interplanetary teleport, wandering star motes (DC 25)
 
 **Per day:**
 
-- 3/day: antimagic field (mythic spell), &Q heal (mythic spell), reverse gravity (mythic spell), &Q
-  wandering star motes (DC 25)
-- 1/day: gate, implosion (DC 30), mage's disjunction (mythic spell), moment of prescience, time stop
-  (mythic spell)
+- 3/day: antimagic field^M^, &Q heal^M^, reverse gravity^M^, &Q wandering star motes (DC 25)
+- 1/day: gate, implosion (DC 30), mage's disjunction^M^, moment of prescience, time stop^M^
 
 ###### M {#footnote-m}
 
