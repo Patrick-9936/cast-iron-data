@@ -106,31 +106,36 @@ of the dataset, or they are application content under GPL-3.0-or-later. This cor
 which reading is right.
 
 **The policy.** A note stays in this corpus when Archives of Nethys (AoN) or the Paizo Pathfinder
-Reference Document (PRD) carries the same text. A note that neither carries goes, with a row in
-`exclusions.toml`. Two decisions by the project owner depart from this: the printed "Bonus feat."
-legends in stat blocks stay without a match at each stat block, and the stat paragraph of
-*Maniac Hand* stays to preserve its printed values (data pull request #115).
+Reference Document (PRD) carries it, or when the printed book carries it (test of 2026-11-20). A note
+that only the dataset's editor added (a pointer, a commentary note, a compiled list), and a note
+whose origin is unclear, goes, with a row in `exclusions.toml`. The printed "Bonus feat." legends in
+stat blocks and the stat paragraph of *Maniac Hand* stay as printed text (data pull request #115).
 
 **What the corpus holds now.** Pull request #115 removed the notes that the audit had confirmed
-absent from both AoN and the PRD. Other notes wait for review (issue #117, below). Pull request #113
-removed the 438 page-citation blocks and converted their citations to structured source rows. It
-excluded 4 book and page pairs it could not check, because the books were not available for a print
-check (*Pathfinder #30: The Twice-Damned Prince* pp. 68 and 69, and *Pathfinder #43: Haunting of
-Harrowstone* pp. 80 and 81, on *Animated Object*). About 770 footnote blocks in about 530 entries remain. Most are notes that a Paizo
-book prints, such as notes under tables and the markers on spell lists. More than half have a
-recorded match on an AoN page or in a PRD document. The "Bonus feat." legends and the *Maniac Hand*
-paragraph stay without one. The rest wait for review: pointers, compiled lists (for example the
-class lists in *Age*), and editorial prose (for example the plug in *Tavern Toolbox*). Issue #117
-reviews them, and the count falls if that review removes more notes. A remaining note is therefore
-not necessarily one that AoN or the PRD carries.
+absent from both AoN and the PRD, under the earlier test that required an AoN or PRD match. Pull
+request #113 removed the 438 page-citation blocks and converted their citations to structured source
+rows. It excluded 4 book and page pairs it could not check, because the books were not available for
+a print check (*Pathfinder #30: The Twice-Damned Prince* pp. 68 and 69, and *Pathfinder #43: Haunting
+of Harrowstone* pp. 80 and 81, on *Animated Object*). About 770 footnote blocks in about 530 entries
+remain. Most are notes that a Paizo book prints, such as notes under tables and the markers on spell
+lists. More than half have a recorded match on an AoN page or in a PRD document. Others stay because
+the printed book carries them, although AoN and the PRD lack or reword them (for example notes on the
+*GameMastery Guide* random tables). Issue #117 applies the 2026-11-20 test to the notes still under
+review: it removes the pointers, commentary notes, compiled lists (for example the class lists in
+*Age*) and editorial prose (for example the plug in *Tavern Toolbox*) that only the dataset's editor
+added, and the unclear notes. Until that change merges, some of those notes are still in the corpus,
+and the count falls when it does. A remaining note is therefore not necessarily one that AoN, the PRD
+or the book carries.
 
-**The basis.** A match on AoN or in the PRD is evidence of provenance: it helps show that the text is
-Paizo game text. The OGL 1.0a covers text that is identifiable as Open Game Content, and its
-declaration excludes Product Identity. The Section 15 notices of the book and of the dataset ("Pf
-Data 1e Copyright 2025, Jason Tamez") give attribution, and `legal.toml` records the dataset-level
-basis. None of them is a license for an individual note. The basis for any original wording by the
-dataset's editor, or by AoN's editors (Nethys Notes), is unresolved. The corpus claims no license
-for such wording beyond what the dataset's own notices give.
+**The basis.** A match on AoN, in the PRD or in the printed book is evidence of provenance: it helps
+show that the text is Paizo game text. It is not a separate license. The OGL 1.0a covers text that is
+identifiable as Open Game Content, and its declaration excludes Product Identity. The Section 15
+notices of the book and of the dataset ("Pf Data 1e Copyright 2025, Jason Tamez") give attribution,
+and `legal.toml` records the dataset-level basis. None of them is a license for an individual note.
+For a note kept because the printed book carries it, the basis is the same as for the entry text
+around it: the book's Open Game Content and its Section 15 notice. The basis for any original wording
+by the dataset's editor, or by AoN's editors (Nethys Notes), is unresolved. The corpus claims no
+license for such wording beyond what the dataset's own notices give.
 
 Paizo's Community Use Policy covers Paizo's own material only. It does not cover a third party's
 prose, so it is not the basis for any of these notes. This is a statement of the project's position,
