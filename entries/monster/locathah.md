@@ -52,13 +52,17 @@ face of a fish._
 
 **Experience points:** 200
 
-**Armor class:** 13/11/12
+**Armor class:** 13
 
-**Fort:** +3
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 natural
 
 **Hit points:** 9 (2d8)
 
-**Mod:** +1 Dex, +2 natural
+**Fort:** +3
 
 **Ref:** +1
 

@@ -54,23 +54,27 @@ hissing, triangular heads._
 
 **Experience points:** 102,400
 
-**Armor class:** 31/15/25
+**Armor class:** 31
 
-**Fort:** +19
+**Touch:** 15
+
+**Flat-footed:** 25
+
+**AC modifiers:** +6 Dex, +16 natural, -1 size
 
 **Hit points:** 261 (18d12+144)
 
-**Immune:** cold, disease, paralysis, sleep
-
-**Mod:** +6 Dex, +16 natural, -1 size
+**Fort:** +19
 
 **Ref:** +17
+
+**Will:** +16
+
+**Immune:** cold, disease, paralysis, sleep
 
 **Resist:** acid 10, electricity 10
 
 **Vulner:** fire
-
-**Will:** +16
 
 **Offense**
 

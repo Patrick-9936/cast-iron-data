@@ -47,19 +47,23 @@ _Multiple angry snake-like heads rise from the sleek, serpentine body of this te
 
 **Experience points:** 1,200
 
-**Armor class:** 15/9/14
+**Armor class:** 15
 
-**Fh:** 5
+**Touch:** 9
 
-**Fort:** +8
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +6 natural, -2 size
 
 **Hit points:** 47 (5d10+20)
 
-**Mod:** +1 Dex, +6 natural, -2 size
+**Fort:** +8
 
 **Ref:** +7
 
 **Will:** +3
+
+**Fh:** 5
 
 **Offense**
 

@@ -54,23 +54,27 @@ protrudes from its snarling face._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/10/24
+**Armor class:** 25
 
-**Fort:** +14
+**Touch:** 10
+
+**Flat-footed:** 24
+
+**AC modifiers:** +1 Dex, +15 natural, -1 size
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** cold
-
-**Mod:** +1 Dex, +15 natural, -1 size
+**Fort:** +14
 
 **Ref:** +12
+
+**Will:** +11
+
+**Immune:** cold
 
 **Vulner:** fire
 
 **Weaknesses:** heat susceptible
-
-**Will:** +11
 
 **Offense**
 

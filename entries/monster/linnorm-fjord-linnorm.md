@@ -52,27 +52,31 @@ flukes._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/12/24
+**Armor class:** 30
+
+**Touch:** 12
+
+**Flat-footed:** 24
+
+**AC modifiers:** +6 Dex, +18 natural, -4 size
+
+**Hit points:** 248 (16d12+144)
+
+**Fort:** +19
+
+**Ref:** +18
+
+**Will:** +15
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 15/cold iron
 
-**Fort:** +19
-
-**Hit points:** 248 (16d12+144)
-
 **Immune:** cold, curse effects, mind-affecting effects, paralysis, poison, sleep
-
-**Mod:** +6 Dex, +18 natural, -4 size
-
-**Ref:** +18
 
 **Regen:** 10 (cold iron)
 
 **Sr:** 27
-
-**Will:** +15
 
 **Offense**
 

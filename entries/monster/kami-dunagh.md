@@ -52,25 +52,29 @@ presence._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/16/13
+**Armor class:** 16
 
-**Fh:** 2
+**Touch:** 16
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 deflection, +3 Dex
+
+**Hit points:** 37 (5d10+10)
 
 **Fort:** +3
 
-**Hit points:** 37 (5d10+10)
+**Ref:** +7
+
+**Will:** +7
+
+**Fh:** 2
 
 **Immune:** bleed, mind-affecting effects, petrification, polymorph
 
 **Incorporeal:** present
 
-**Mod:** +3 deflection, +3 Dex
-
-**Ref:** +7
-
 **Resist:** acid 10, cold 10, electricity 10, fire 10
-
-**Will:** +7
 
 **Offense**
 

@@ -50,19 +50,23 @@ on buzzing wings._
 
 **Experience points:** 400
 
-**Armor class:** 13/13/10
+**Armor class:** 13
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 10
+
+**AC modifiers:** +3 Dex
 
 **Hit points:** 15 (2d8+6)
 
-**Immune:** disease, mind-affecting effects
-
-**Mod:** +3 Dex
+**Fort:** +6
 
 **Ref:** +3
 
 **Will:** -2
+
+**Immune:** disease, mind-affecting effects
 
 **Offense**
 

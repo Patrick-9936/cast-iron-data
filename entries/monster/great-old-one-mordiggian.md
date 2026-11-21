@@ -53,7 +53,21 @@ into its body to be forever extinguished._
 
 **Experience points:** 9,830,400
 
-**Armor class:** 47/47/31
+**Armor class:** 47
+
+**Touch:** 47
+
+**Flat-footed:** 31
+
+**AC modifiers:** +13 deflection, +15 Dex, +1 dodge, +12 insight, -4 size
+
+**Hit points:** 752 (35d8+595)
+
+**Fort:** +28
+
+**Ref:** +26
+
+**Will:** +31
 
 **Defensive abilities:** absorb light, immortality, insanity (DC 40)
 
@@ -61,24 +75,14 @@ into its body to be forever extinguished._
 
 **Fh:** 30
 
-**Fort:** +28
-
-**Hit points:** 752 (35d8+595)
-
 **Immune:** ability damage, ability drain, acid, aging, blindness, cold, death effects, disease,
 energy drain, mind-affecting effects, paralysis, and petrification
 
 **Incorporeal:** present
 
-**Mod:** +13 deflection, +15 Dex, +1 dodge, +12 insight, -4 size
-
-**Ref:** +26
-
 **Resist:** electricity 30, fire 30
 
 **Sr:** 41
-
-**Will:** +31
 
 **Offense**
 

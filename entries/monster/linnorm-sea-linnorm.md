@@ -53,27 +53,31 @@ pulsating orange light accented by regular electrical discharges._
 
 **Experience points:** 614,400
 
-**Armor class:** 39/11/30
+**Armor class:** 39
+
+**Touch:** 11
+
+**Flat-footed:** 30
+
+**AC modifiers:** +9 Dex, +28 natural, -8 size
+
+**Hit points:** 455 (26d12+286)
+
+**Fort:** +26
+
+**Ref:** +24
+
+**Will:** +23
 
 **Defensive abilities:** [freedom of movement](ref/spell/freedom-of-movement)
 
 **Dr:** 20/cold iron
 
-**Fort:** +26
-
-**Hit points:** 455 (26d12+286)
-
 **Immune:** curse effects, electricity, mind-affecting effects, paralysis, poison, sleep
-
-**Mod:** +9 Dex, +28 natural, -8 size
-
-**Ref:** +24
 
 **Regen:** 15 (cold iron)
 
 **Sr:** 33
-
-**Will:** +23
 
 **Offense**
 

@@ -50,19 +50,23 @@ virtual wall of stinging tentacles._
 
 **Experience points:** 2,400
 
-**Armor class:** 15/15/14
+**Armor class:** 15
 
-**Fort:** +8
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 size
 
 **Hit points:** 54 (12d8)
 
-**Immune:** swarm traits, weapon damage
-
-**Mod:** +1 Dex, +4 size
+**Fort:** +8
 
 **Ref:** +5
 
 **Will:** +4
+
+**Immune:** swarm traits, weapon damage
 
 **Offense**
 

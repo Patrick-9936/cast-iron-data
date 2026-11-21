@@ -55,23 +55,27 @@ leathery flesh, and blood-red smoke._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Dr:** 5/good
+**Touch:** 12
 
-**Fort:** +8
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +6 natural
 
 **Hit points:** 51 (6d8+24)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +6 natural
+**Fort:** +8
 
 **Ref:** +4
 
-**Resist:** fire 10
-
 **Will:** +7
+
+**Dr:** 5/good
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Resist:** fire 10
 
 **Offense**
 

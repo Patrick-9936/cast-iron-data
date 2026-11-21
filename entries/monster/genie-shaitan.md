@@ -55,19 +55,23 @@ _This being resembles a towering human with skin of polished stone and glitterin
 
 **Experience points:** 3,200
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
 
 **Hit points:** 85 (9d10+36)
 
-**Immune:** electricity
-
-**Mod:** +1 Dex, +10 natural, -1 size
+**Fort:** +10
 
 **Ref:** +4
 
 **Will:** +8
+
+**Immune:** electricity
 
 **Offense**
 

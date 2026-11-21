@@ -52,23 +52,27 @@ large - flex in anticipation of combat._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/10/21
+**Armor class:** 22
 
-**Defensive abilities:** shell of ice
+**Touch:** 10
 
-**Fort:** +11
+**Flat-footed:** 21
+
+**AC modifiers:** +1 Dex, +12 natural, -1 size
 
 **Hit points:** 102 (12d10+36)
 
-**Immune:** cold
-
-**Mod:** +1 Dex, +12 natural, -1 size
+**Fort:** +11
 
 **Ref:** +11
 
-**Vulner:** fire
-
 **Will:** +7
+
+**Defensive abilities:** shell of ice
+
+**Immune:** cold
+
+**Vulner:** fire
 
 **Offense**
 

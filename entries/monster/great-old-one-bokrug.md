@@ -55,7 +55,21 @@ tail._
 
 **Experience points:** 3,276,800
 
-**Armor class:** 45/27/37
+**Armor class:** 45
+
+**Touch:** 27
+
+**Flat-footed:** 37
+
+**AC modifiers:** +8 Dex, +10 insight, +18 natural, -1 size
+
+**Hit points:** 645 (30d10+480)
+
+**Fort:** +33
+
+**Ref:** +25
+
+**Will:** +22
 
 **Defensive abilities:** immortality, insanity (DC 41), spines
 
@@ -63,22 +77,12 @@ tail._
 
 **Fh:** 20
 
-**Fort:** +33
-
-**Hit points:** 645 (30d10+480)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain,
 mind-affecting effects, paralysis, petrification, poison
-
-**Mod:** +8 Dex, +10 insight, +18 natural, -1 size
-
-**Ref:** +25
 
 **Resist:** acid 30, fire 30
 
 **Sr:** 38
-
-**Will:** +22
 
 **Offense**
 

@@ -56,13 +56,17 @@ from its back._
 
 **Experience points:** 1,600
 
-**Armor class:** 16/9/16
+**Armor class:** 16
 
-**Fort:** +11
+**Touch:** 9
+
+**Flat-footed:** 16
+
+**AC modifiers:** -1 Dex, +7 natural
 
 **Hit points:** 66 (7d10+28)
 
-**Mod:** -1 Dex, +7 natural
+**Fort:** +11
 
 **Ref:** +4
 

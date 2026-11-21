@@ -52,13 +52,17 @@ abilities = ["8", "18", "13", "16", "12", "6"]
 
 **Experience points:** 800
 
-**Armor class:** 21/15/17
+**Armor class:** 21
 
-**Fort:** +5
+**Touch:** 15
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 armor, +4 Dex, +2 natural, +1 size
 
 **Hit points:** 38 (4d8+17)
 
-**Mod:** +4 armor, +4 Dex, +2 natural, +1 size
+**Fort:** +5
 
 **Ref:** +8
 
@@ -162,19 +166,23 @@ headdresses or paint themselves with guano as marks of status.
 
 **Experience points:** none given
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Evasion:** present
+**Touch:** 13
 
-**Fort:** +6
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 26 (4d8+8)
 
-**Mod:** +3 Dex, +6 natural
+**Fort:** +6
 
 **Ref:** +7
 
 **Will:** +3; +4 against disease
+
+**Evasion:** present
 
 **Offense**
 

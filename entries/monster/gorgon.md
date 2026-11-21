@@ -47,13 +47,17 @@ smoke puff from its mouth._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/9/20
+**Armor class:** 20
 
-**Fort:** +13
+**Touch:** 9
+
+**Flat-footed:** 20
+
+**AC modifiers:** +11 natural, -1 size
 
 **Hit points:** 100 (8d10+56)
 
-**Mod:** +11 natural, -1 size
+**Fort:** +13
 
 **Ref:** +6
 

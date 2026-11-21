@@ -48,21 +48,25 @@ ponderous but inexorable steps._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/8/26
+**Armor class:** 26
 
-**Dr:** 10/adamantine
+**Touch:** 8
 
-**Fort:** +4
+**Flat-footed:** 26
+
+**AC modifiers:** -1 Dex, +18 natural, -1 size
 
 **Hit points:** 107 (14d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +18 natural, -1 size
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +4
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

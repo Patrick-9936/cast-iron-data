@@ -55,25 +55,29 @@ _This maggot-like creature has a long tail covered with frightening hooked sucke
 
 **Experience points:** 2,400
 
-**Armor class:** 19/10/18
+**Armor class:** 19
+
+**Touch:** 10
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
+
+**Hit points:** 68 (8d8+32)
+
+**Fort:** +6
+
+**Ref:** +5
+
+**Will:** +10
 
 **Defensive abilities:** slashing scales
 
 **Fh:** 5
 
-**Fort:** +6
-
-**Hit points:** 68 (8d8+32)
-
 **Immune:** disease
 
-**Mod:** +1 Dex, +9 natural, -1 size
-
-**Ref:** +5
-
 **Resist:** acid 10, fire 10
-
-**Will:** +10
 
 **Offense**
 

@@ -51,22 +51,26 @@ _The tricorne hat this gillwoman wears is encrusted with salt, suggesting years 
 
 **Experience points:** 6,400
 
-**Armor class:** 19/14/16
+**Armor class:** 19
 
-**Defensive abilities:** enchantment resistance
+**Touch:** 14
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +5 armor, +1 deflection, +3 Dex
 
 **Hit points:** 75 (10d8+30)
 
-**Mod:** +5 armor, +1 deflection, +3 Dex
+**Fort:** +7
 
 **Ref:** +12
 
-**Weaknesses:** water dependent
-
 **Will:** +10; +4 vs. bardic performance, language-dependent, and sonic, +4 vs. air and water
 effects, +2 vs. non-aboleth enchantments, -2 vs. aboleth enchantments
+
+**Defensive abilities:** enchantment resistance
+
+**Weaknesses:** water dependent
 
 **Offense**
 

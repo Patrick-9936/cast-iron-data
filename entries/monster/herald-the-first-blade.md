@@ -56,27 +56,31 @@ some merciless warlord._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/10/29
+**Armor class:** 30
 
-**Dr:** 15/adamantine and law
+**Touch:** 10
 
-**Fort:** +20
+**Flat-footed:** 29
 
-**Fortif:** 75
+**AC modifiers:** +20 armor, +1 Dex, -1 size
 
 **Hit points:** 261 (18d10+162)
 
-**Immune:** magic, poison
-
-**Mod:** +20 armor, +1 Dex, -1 size
+**Fort:** +20
 
 **Ref:** +12
+
+**Will:** +8
+
+**Dr:** 15/adamantine and law
+
+**Fortif:** 75
+
+**Immune:** magic, poison
 
 **Regen:** 5 (adamantine)
 
 **Resist:** cold 10, sonic 10
-
-**Will:** +8
 
 **Offense**
 

@@ -55,7 +55,21 @@ bulbous eyes glare._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/30/35
+**Armor class:** 46
+
+**Touch:** 30
+
+**Flat-footed:** 35
+
+**AC modifiers:** +10 Dex, +1 dodge, +10 insight, +16 natural, -1 size
+
+**Hit points:** 676 (33d8+528)
+
+**Fort:** +29
+
+**Ref:** +23
+
+**Will:** +31
 
 **Defensive abilities:** immortality, insanity (DC 35)
 
@@ -63,22 +77,12 @@ bulbous eyes glare._
 
 **Fh:** 25
 
-**Fort:** +29
-
-**Hit points:** 676 (33d8+528)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain,
 mind-affecting effects, paralysis, petrification, poison
-
-**Mod:** +10 Dex, +1 dodge, +10 insight, +16 natural, -1 size
-
-**Ref:** +23
 
 **Resist:** fire 30, sonic 30
 
 **Sr:** 39
-
-**Will:** +31
 
 **Offense**
 

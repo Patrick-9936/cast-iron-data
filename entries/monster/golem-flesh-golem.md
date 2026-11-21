@@ -51,21 +51,25 @@ staples lurches to horrific life._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/8/20
+**Armor class:** 20
 
-**Dr:** 5/adamantine
+**Touch:** 8
 
-**Fort:** +3
+**Flat-footed:** 20
+
+**AC modifiers:** -1 Dex, +12 natural, -1 size
 
 **Hit points:** 79 (9d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +12 natural, -1 size
+**Fort:** +3
 
 **Ref:** +2
 
 **Will:** +3
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

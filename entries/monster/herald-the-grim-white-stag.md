@@ -56,27 +56,31 @@ limbs of some ancient, leaf less tree._
 
 **Experience points:** 51,200
 
-**Armor class:** 25/5/22
+**Armor class:** 25
 
-**Dr:** 10/evil and silver
+**Touch:** 5
 
-**Fort:** +18
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +1 dodge, +20 natural, -8 size; +4 deflection vs. evil
 
 **Hit points:** 225 (18d10+126)
 
-**Immune:** electricity, petrification
-
-**Mod:** +2 Dex, +1 dodge, +20 natural, -8 size; +4 deflection vs. evil
+**Fort:** +18
 
 **Ref:** +13
+
+**Will:** +7; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 10/evil and silver
+
+**Immune:** electricity, petrification
 
 **Regen:** 5 (evil weapons and effects)
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 26
-
-**Will:** +7; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

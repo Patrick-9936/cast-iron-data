@@ -54,7 +54,21 @@ fangs._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/27/35
+**Armor class:** 46
+
+**Touch:** 27
+
+**Flat-footed:** 35
+
+**AC modifiers:** +10 Dex, +1 dodge, +10 insight, +19 natural, -4 size
+
+**Hit points:** 688 (32d10+512)
+
+**Fort:** +26
+
+**Ref:** +30
+
+**Will:** +28
 
 **Defensive abilities:** immortality, insanity (DC 36)
 
@@ -62,16 +76,8 @@ fangs._
 
 **Fh:** 25
 
-**Fort:** +26
-
-**Hit points:** 688 (32d10+512)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain,
 mind-affecting effects, paralysis, petrification, storms
-
-**Mod:** +10 Dex, +1 dodge, +10 insight, +19 natural, -4 size
-
-**Ref:** +30
 
 **Resist:** electricity 30, sonic 30
 
@@ -80,8 +86,6 @@ mind-affecting effects, paralysis, petrification, storms
 **Vulner:** fire
 
 **Weaknesses:** arctic bound
-
-**Will:** +28
 
 **Offense**
 

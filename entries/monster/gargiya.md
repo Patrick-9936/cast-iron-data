@@ -51,19 +51,23 @@ Sweltering heat radiates from its rippling scales._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/9/23
+**Armor class:** 24
 
-**Fort:** +14
+**Touch:** 9
+
+**Flat-footed:** 23
+
+**AC modifiers:** +1 Dex, +15 natural, -2 size
 
 **Hit points:** 138 (12d10+72)
 
-**Immune:** fire
-
-**Mod:** +1 Dex, +15 natural, -2 size
+**Fort:** +14
 
 **Ref:** +11
 
 **Will:** +4
+
+**Immune:** fire
 
 **Offense**
 

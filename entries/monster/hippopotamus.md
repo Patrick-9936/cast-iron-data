@@ -51,19 +51,23 @@ challenge, exposing massive, tusk-like teeth._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Defensive abilities:** blood sweat
+**Touch:** 9
 
-**Fort:** +8 (+10 vs. nonmagical disease)
+**Flat-footed:** 17
+
+**AC modifiers:** +8 natural, -1 size
 
 **Hit points:** 59 (7d8+28)
 
-**Mod:** +8 natural, -1 size
+**Fort:** +8 (+10 vs. nonmagical disease)
 
 **Ref:** +5
 
 **Will:** +3
+
+**Defensive abilities:** blood sweat
 
 **Offense**
 

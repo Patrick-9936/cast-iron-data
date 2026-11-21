@@ -51,25 +51,29 @@ strange steel alloy. Its eyes glow with a piercing white light._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/12/17
+**Armor class:** 19
+
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 armor, +2 Dex, +4 natural
+
+**Hit points:** 80 (8d10+36)
+
+**Fort:** +8
+
+**Ref:** +4
+
+**Will:** +9
 
 **Defensive abilities:** armor of will, constructed
 
 **Dr:** 5/chaotic
 
-**Fort:** +8
-
-**Hit points:** 80 (8d10+36)
-
-**Mod:** +3 armor, +2 Dex, +4 natural
-
-**Ref:** +4
-
 **Regen:** 3 (chaotic)
 
 **Sr:** 17
-
-**Will:** +9
 
 **Offense**
 

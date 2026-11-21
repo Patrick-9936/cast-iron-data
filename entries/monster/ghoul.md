@@ -50,19 +50,23 @@ starved frame._
 
 **Experience points:** 400
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Chan Res:** +2
+**Touch:** 12
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 natural
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +2 Dex, +2 natural
+**Fort:** +2
 
 **Ref:** +2
 
 **Will:** +5
+
+**Chan Res:** +2
 
 **Offense**
 

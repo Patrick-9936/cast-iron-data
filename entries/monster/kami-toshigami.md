@@ -50,27 +50,31 @@ branches._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/20/22
+**Armor class:** 30
+
+**Touch:** 20
+
+**Flat-footed:** 22
+
+**AC modifiers:** +6 Dex, +2 dodge, +2 insight, +10 natural
+
+**Hit points:** 210 (20d10+100)
+
+**Fort:** +11
+
+**Ref:** +23
+
+**Will:** +16
 
 **Dr:** 10/cold iron and evil
 
 **Fh:** 10
 
-**Fort:** +11
-
-**Hit points:** 210 (20d10+100)
-
 **Immune:** bleed, mind-affecting effects, petrification, polymorph
-
-**Mod:** +6 Dex, +2 dodge, +2 insight, +10 natural
-
-**Ref:** +23
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 26
-
-**Will:** +16
 
 **Offense**
 

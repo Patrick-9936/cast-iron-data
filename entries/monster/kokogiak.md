@@ -51,19 +51,23 @@ small but infinite pits of malice._
 
 **Experience points:** 19,200
 
-**Armor class:** 25/9/24
+**Armor class:** 25
 
-**Fort:** +15
+**Touch:** 9
+
+**Flat-footed:** 24
+
+**AC modifiers:** +1 Dex, +16 natural, -2 size
 
 **Hit points:** 172 (15d10+90)
 
-**Immune:** cold, illusions
-
-**Mod:** +1 Dex, +16 natural, -2 size
+**Fort:** +15
 
 **Ref:** +10
 
 **Will:** +9
+
+**Immune:** cold, illusions
 
 **Offense**
 

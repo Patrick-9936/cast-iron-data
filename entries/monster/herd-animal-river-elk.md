@@ -46,13 +46,17 @@ antlers crowning its head._
 
 **Experience points:** 600
 
-**Armor class:** 13/11/11
+**Armor class:** 13
 
-**Fort:** +7
+**Touch:** 11
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +2 natural, -1 size
 
 **Hit points:** 25 (3d8+12)
 
-**Mod:** +2 Dex, +2 natural, -1 size
+**Fort:** +7
 
 **Ref:** +7
 

@@ -50,13 +50,17 @@ _This gray-skinned humanoid has long, willowy limbs and a bulbous head with over
 
 **Experience points:** 1,200
 
-**Armor class:** 14/14/11
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
 
 **Hit points:** 39 (6d8+12)
 
-**Mod:** +3 Dex, +1 size
+**Fort:** +4
 
 **Ref:** +4
 

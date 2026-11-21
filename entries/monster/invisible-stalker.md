@@ -51,21 +51,25 @@ creature's presence._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Defensive abilities:** natural invisibility
+**Touch:** 14
 
-**Fort:** +11
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +6 natural
 
 **Hit points:** 80 (7d10+42)
 
-**Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +4 Dex, +6 natural
+**Fort:** +11
 
 **Ref:** +11
 
 **Will:** +4
+
+**Defensive abilities:** natural invisibility
+
+**Immune:** [elemental](ref/subtype/elemental) traits
 
 **Offense**
 

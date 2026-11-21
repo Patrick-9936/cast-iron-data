@@ -47,19 +47,23 @@ and dung._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
 
 **Hit points:** 67 (9d8+27)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +10 natural, -1 size
+**Fort:** +9
 
 **Ref:** +4
 
 **Will:** +3; +4 vs. disease and paralysis
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

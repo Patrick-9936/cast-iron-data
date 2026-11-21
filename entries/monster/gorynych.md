@@ -48,25 +48,29 @@ behind three sets of fangs._
 
 **Experience points:** 51,200
 
-**Armor class:** 28/10/26
+**Armor class:** 28
 
-**Dr:** 10/lawful
+**Touch:** 10
 
-**Fort:** +16
+**Flat-footed:** 26
+
+**AC modifiers:** +2 Dex, +18 natural, -2 size
 
 **Hit points:** 212 (17d12+102)
 
-**Immune:** fire, paralysis, poison, sleep
-
-**Mod:** +2 Dex, +18 natural, -2 size
+**Fort:** +16
 
 **Ref:** +14
+
+**Will:** +15
+
+**Dr:** 10/lawful
+
+**Immune:** fire, paralysis, poison, sleep
 
 **Regen:** 5 (acid)
 
 **Sr:** 26
-
-**Will:** +15
 
 **Offense**
 

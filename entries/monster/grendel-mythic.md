@@ -55,27 +55,31 @@ with blood._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/13/30
+**Armor class:** 34
+
+**Touch:** 13
+
+**Flat-footed:** 30
+
+**AC modifiers:** +4 Dex, +25 natural, -1 size
+
+**Hit points:** 340 (20d10+230)
+
+**Fort:** +16
+
+**Ref:** +16
+
+**Will:** +16
 
 **Dr:** 10/epic
 
 **Ferocity:** present
-
-**Fort:** +16
-
-**Hit points:** 340 (20d10+230)
-
-**Mod:** +4 Dex, +25 natural, -1 size
-
-**Ref:** +16
 
 **Regen:** 10 (unarmed strikes or natural weapons)
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Unstop:** present
-
-**Will:** +16
 
 **Offense**
 

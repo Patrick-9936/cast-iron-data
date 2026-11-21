@@ -47,13 +47,17 @@ _This giant turtle has a large, thin membrane of scaly skin extending from its s
 
 **Experience points:** 600
 
-**Armor class:** 14/9/14
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 9
+
+**Flat-footed:** 14
+
+**AC modifiers:** +5 natural, -1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +5 natural, -1 size
+**Fort:** +4
 
 **Ref:** +3
 

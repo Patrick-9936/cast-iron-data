@@ -53,21 +53,25 @@ bulbous tumors._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/11/23
+**Armor class:** 25
 
-**Fort:** +15
+**Touch:** 11
+
+**Flat-footed:** 23
+
+**AC modifiers:** +4 armor, +2 Dex, +10 natural, -1 size
 
 **Hit points:** 147 (14d8+84)
 
-**Immune:** disease, poison
-
-**Mod:** +4 armor, +2 Dex, +10 natural, -1 size
+**Fort:** +15
 
 **Ref:** +6
 
-**Rock Ct:** present
-
 **Will:** +5
+
+**Immune:** disease, poison
+
+**Rock Ct:** present
 
 **Offense**
 

@@ -49,19 +49,23 @@ visage._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/14/22
+**Armor class:** 26
 
-**Fort:** +12
+**Touch:** 14
+
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +12 natural
 
 **Hit points:** 168 (16d10+80)
 
-**Immune:** disease
-
-**Mod:** +4 Dex, +12 natural
+**Fort:** +12
 
 **Ref:** +14
 
 **Will:** +13
+
+**Immune:** disease
 
 **Offense**
 

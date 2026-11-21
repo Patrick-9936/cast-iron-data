@@ -52,21 +52,25 @@ from her brow like a thunderhead._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/13/18
+**Armor class:** 21
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +1 dodge, +8 natural
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** electricity
-
-**Mod:** +2 Dex, +1 dodge, +8 natural
+**Fort:** +6
 
 **Ref:** +9
 
-**Sr:** 18
-
 **Will:** +8
+
+**Immune:** electricity
+
+**Sr:** 18
 
 **Offense**
 

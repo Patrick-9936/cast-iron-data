@@ -50,21 +50,25 @@ looms taller than a human._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Dr:** 5/bludgeoning
+**Touch:** 10
 
-**Fort:** +8
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
 
 **Hit points:** 66 (7d10+28)
 
-**Mod:** +1 Dex, +10 natural, -1 size
+**Fort:** +8
 
 **Ref:** +6
 
-**Sr:** 17
-
 **Will:** +6
+
+**Dr:** 5/bludgeoning
+
+**Sr:** 17
 
 **Offense**
 

@@ -49,21 +49,25 @@ together._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/9/19
+**Armor class:** 19
 
-**Dr:** 5/adamantine
+**Touch:** 9
 
-**Fort:** +1
+**Flat-footed:** 19
+
+**AC modifiers:** -1 Dex, +10 natural
 
 **Hit points:** 42 (4d10+20); junk repair
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +10 natural
+**Fort:** +1
 
 **Ref:** +0
 
 **Will:** +1
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

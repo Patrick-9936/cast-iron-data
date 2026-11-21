@@ -51,23 +51,27 @@ dangles and writhes below._
 
 **Experience points:** 3,200
 
-**Armor class:** 11/11/9
+**Armor class:** 11
+
+**Touch:** 11
+
+**Flat-footed:** 9
+
+**AC modifiers:** +2 Dex, -1 size
+
+**Hit points:** 94 (9d8+54)
+
+**Fort:** +12
+
+**Ref:** +5
+
+**Will:** +3
 
 **Amorph:** present
 
 **Dr:** 10/piercing or slashing
 
-**Fort:** +12
-
-**Hit points:** 94 (9d8+54)
-
 **Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, -1 size
-
-**Ref:** +5
-
-**Will:** +3
 
 **Offense**
 

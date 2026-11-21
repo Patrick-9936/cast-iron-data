@@ -52,21 +52,25 @@ determination and detachment._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Fort:** +11
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +3 armor, +1 Dex, +7 natural, -1 size
 
 **Hit points:** 85 (10d8+40)
 
-**Mod:** +3 armor, +1 Dex, +7 natural, -1 size
+**Fort:** +11
 
 **Ref:** +6
+
+**Will:** +4
 
 **Resist:** fire 30
 
 **Rock Ct:** present
-
-**Will:** +4
 
 **Offense**
 

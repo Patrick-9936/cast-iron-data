@@ -51,21 +51,25 @@ bowl-shaped head is filled with water._
 
 **Experience points:** 600
 
-**Armor class:** 15/14/12
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +1 natural, +1 size
 
 **Hit points:** 19 (3d10+3)
 
-**Mod:** +3 Dex, +1 natural, +1 size
+**Fort:** +4
 
 **Ref:** +6
+
+**Will:** +5
 
 **Resist:** acid 5, cold 5
 
 **Weaknesses:** head bowl
-
-**Will:** +5
 
 **Offense**
 

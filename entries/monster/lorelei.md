@@ -55,21 +55,25 @@ sprouting from its scalp._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/10/26
+**Armor class:** 27
 
-**Fort:** +13
+**Touch:** 10
+
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +17 natural, -1 size
 
 **Hit points:** 162 (12d8+108)
 
-**Immune:** sonic
-
-**Mod:** +1 Dex, +17 natural, -1 size
+**Fort:** +13
 
 **Ref:** +5
 
-**Resist:** cold 10
-
 **Will:** +13
+
+**Immune:** sonic
+
+**Resist:** cold 10
 
 **Offense**
 

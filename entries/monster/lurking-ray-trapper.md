@@ -49,25 +49,29 @@ abilities = ["30", "12", "19", "14", "17", "13"]
 
 **Experience points:** 4,800
 
-**Armor class:** 21/9/20
+**Armor class:** 21
+
+**Touch:** 9
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +12 natural, -2 size
+
+**Hit points:** 123 (13d8+65)
+
+**Fort:** +10
+
+**Ref:** +5
+
+**Will:** +11
 
 **Amorph:** present
 
 **Dr:** 10/piercing or slashing
 
-**Fort:** +10
-
-**Hit points:** 123 (13d8+65)
-
-**Mod:** +1 Dex, +12 natural, -2 size
-
-**Ref:** +5
-
 **Resist:** cold 10, fire 10
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +11
 
 **Offense**
 

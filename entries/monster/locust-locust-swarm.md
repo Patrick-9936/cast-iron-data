@@ -50,21 +50,25 @@ _Thousands upon thousands of locusts dance and drone in a dark and ravenous clou
 
 **Experience points:** 600
 
-**Armor class:** 20/20/18
+**Armor class:** 20
 
-**Defensive abilities:** swarm traits
+**Touch:** 20
 
-**Fort:** +4
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 size
 
 **Hit points:** 18 (4d8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +8 size
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +1
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

@@ -49,25 +49,29 @@ form._
 
 **Experience points:** 51,200
 
-**Armor class:** 32/18/23
+**Armor class:** 32
 
-**Fort:** +13
+**Touch:** 18
+
+**Flat-footed:** 23
+
+**AC modifiers:** +8 Dex, +1 dodge, +14 natural, -1 size
 
 **Hit points:** 218 (19d8+133)
 
-**Immune:** cold
-
-**Mod:** +8 Dex, +1 dodge, +14 natural, -1 size
+**Fort:** +13
 
 **Ref:** +14
+
+**Will:** +17
+
+**Immune:** cold
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 26
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +17
 
 **Offense**
 

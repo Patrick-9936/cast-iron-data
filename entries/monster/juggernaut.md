@@ -48,27 +48,31 @@ _This oppressive construct rumbles forth on deadly rollers, crushing everything 
 
 **Experience points:** 12,800
 
-**Armor class:** 26/6/26
+**Armor class:** 26
+
+**Touch:** 6
+
+**Flat-footed:** 26
+
+**AC modifiers:** +20 natural, -4 size
+
+**Hit points:** 142 (15d10+60)
+
+**Fort:** +5
+
+**Ref:** +5
+
+**Will:** +9
 
 **Dr:** 10/adamantine
 
 **Fh:** 5
 
-**Fort:** +5
-
-**Hit points:** 142 (15d10+60)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +20 natural, -4 size
-
-**Ref:** +5
 
 **Sr:** 22
 
 **Weaknesses:** faith-bound
-
-**Will:** +9
 
 **Offense**
 

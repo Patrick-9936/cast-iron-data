@@ -48,23 +48,27 @@ elongated, showing sharp, worn teeth._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/13/17
+**Armor class:** 20
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +1 dodge, +7 natural
 
 **Hit points:** 74 (9d8+32)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +1 dodge, +7 natural
+**Fort:** +5
 
 **Ref:** +7
+
+**Will:** +9
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Vulner:** cold and fire
 
 **Weaknesses:** aversion to sun and moon, compulsive hunger
-
-**Will:** +9
 
 **Offense**
 

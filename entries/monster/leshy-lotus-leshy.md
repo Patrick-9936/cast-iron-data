@@ -54,19 +54,23 @@ _A plant whose body resembles a blooming lotus flower exudes an air of serenity.
 
 **Experience points:** 1,600
 
-**Armor class:** 20/18/17
+**Armor class:** 20
 
-**Fort:** +8
+**Touch:** 18
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +1 dodge, +4 Wis, +2 natural, +1 size
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
-
-**Mod:** +2 Dex, +1 dodge, +4 Wis, +2 natural, +1 size
+**Fort:** +8
 
 **Ref:** +4
 
 **Will:** +6
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
 
 **Offense**
 

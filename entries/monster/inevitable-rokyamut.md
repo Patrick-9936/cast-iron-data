@@ -53,29 +53,33 @@ body of a four-armed giant._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/10/34
+**Armor class:** 34
+
+**Touch:** 10
+
+**Flat-footed:** 34
+
+**AC modifiers:** +4 deflection, +24 natural, -4 size
+
+**Hit points:** 350 (20d10+240)
+
+**Fort:** +21
+
+**Ref:** +6
+
+**Will:** +18
 
 **Defensive abilities:** constructed, prudent positioning
 
 **Dr:** 15/chaotic
 
-**Fort:** +21
-
-**Hit points:** 350 (20d10+240)
-
 **Immune:** electricity, fire
-
-**Mod:** +4 deflection, +24 natural, -4 size
-
-**Ref:** +6
 
 **Regen:** 10 (chaotic)
 
 **Resist:** sonic 30
 
 **Sr:** 30
-
-**Will:** +18
 
 **Offense**
 

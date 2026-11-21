@@ -52,21 +52,25 @@ large shield bearing Torag's symbol._
 
 **Experience points:** 51,200
 
-**Armor class:** 32/7/32
+**Armor class:** 32
 
-**Dr:** 15/adamantine
+**Touch:** 7
 
-**Fort:** +6
+**Flat-footed:** 32
+
+**AC modifiers:** -1 Dex, +20 natural, +5 shield, -2 size
 
 **Hit points:** 157 (18d10+58)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +20 natural, +5 shield, -2 size
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +8
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

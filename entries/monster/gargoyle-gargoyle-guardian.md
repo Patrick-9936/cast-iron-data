@@ -49,21 +49,25 @@ innocent passers-by. Then it moves - to do just that._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/11/20
+**Armor class:** 22
 
-**Dr:** 5/adamantine
+**Touch:** 11
 
-**Fort:** +3
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +11 natural, -1 size
 
 **Hit points:** 90 (11d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +11 natural, -1 size
+**Fort:** +3
 
 **Ref:** +5
 
 **Will:** +3
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

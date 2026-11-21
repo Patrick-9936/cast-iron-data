@@ -51,23 +51,27 @@ that it wears braided._
 
 **Experience points:** 6,400
 
-**Armor class:** 21/8/21
+**Armor class:** 21
 
-**Fort:** +14
+**Touch:** 8
+
+**Flat-footed:** 21
+
+**AC modifiers:** +4 armor, -1 Dex, +9 natural, -1 size
 
 **Hit points:** 133 (14d8+70)
 
-**Immune:** cold
-
-**Mod:** +4 armor, -1 Dex, +9 natural, -1 size
+**Fort:** +14
 
 **Ref:** +3
+
+**Will:** +6
+
+**Immune:** cold
 
 **Rock Ct:** present
 
 **Vulner:** fire
-
-**Will:** +6
 
 **Offense**
 

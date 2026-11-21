@@ -47,13 +47,17 @@ tail trailing behind._
 
 **Experience points:** 200
 
-**Armor class:** 15/13/12
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 natural
 
 **Hit points:** 6 (1d8+2)
 
-**Mod:** +3 Dex, +2 natural
+**Fort:** +4
 
 **Ref:** +5
 

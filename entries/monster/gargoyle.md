@@ -51,19 +51,23 @@ winged demon._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/12/14
+**Armor class:** 16
 
-**Dr:** 10/magic
+**Touch:** 12
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Mod:** +2 Dex, +4 natural
+**Fort:** +4
 
 **Ref:** +6
 
 **Will:** +4
+
+**Dr:** 10/magic
 
 **Offense**
 

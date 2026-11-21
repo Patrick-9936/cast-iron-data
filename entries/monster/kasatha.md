@@ -51,13 +51,17 @@ _This strange, four-armed humanoid is sleek and muscled, with two spiked blades 
 
 **Experience points:** 200
 
-**Armor class:** 18/18/13
+**Armor class:** 18
 
-**Fort:** +3
+**Touch:** 18
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +2 dodge, +3 Wis
 
 **Hit points:** 10 (1d8+2)
 
-**Mod:** +3 Dex, +2 dodge, +3 Wis
+**Fort:** +3
 
 **Ref:** +5
 

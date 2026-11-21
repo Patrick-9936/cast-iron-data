@@ -53,13 +53,17 @@ _The carapace of this large crab resembles a scowling face, its eyes seething wi
 
 **Experience points:** 1,200
 
-**Armor class:** 18/12/17
+**Armor class:** 18
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +6 natural, +1 size
 
 **Hit points:** 42 (5d8+20)
 
-**Mod:** +1 Dex, +6 natural, +1 size
+**Fort:** +5
 
 **Ref:** +2
 

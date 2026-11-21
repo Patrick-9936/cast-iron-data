@@ -51,13 +51,17 @@ writhe._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/12/16
+**Armor class:** 19
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +7 natural, -1 size
 
 **Hit points:** 37 (5d10+10)
 
-**Mod:** +3 Dex, +7 natural, -1 size
+**Fort:** +3
 
 **Ref:** +7
 

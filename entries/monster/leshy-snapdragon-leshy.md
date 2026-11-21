@@ -53,19 +53,23 @@ head._
 
 **Experience points:** 1,200
 
-**Armor class:** 15/13/13
+**Armor class:** 15
 
-**Fort:** +7
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +2 natural, +1 size
 
 **Hit points:** 39 (6d8+12)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
-
-**Mod:** +2 Dex, +2 natural, +1 size
+**Fort:** +7
 
 **Ref:** +4
 
 **Will:** +3
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
 
 **Offense**
 

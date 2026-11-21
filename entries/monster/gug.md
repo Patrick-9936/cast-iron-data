@@ -54,19 +54,23 @@ into twin clawed hands._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/10/23
+**Armor class:** 24
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 23
+
+**AC modifiers:** +1 Dex, +14 natural, -1 size
 
 **Hit points:** 127 (15d8+60)
 
-**Immune:** disease, poison
-
-**Mod:** +1 Dex, +14 natural, -1 size
+**Fort:** +9
 
 **Ref:** +6
 
 **Will:** +12
+
+**Immune:** disease, poison
 
 **Offense**
 

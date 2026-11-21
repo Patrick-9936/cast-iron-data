@@ -47,25 +47,29 @@ _This lanky, yellow-eyed drunk sways unsteadily, draped in the stink of barley a
 
 **Experience points:** 1,600
 
-**Armor class:** 17/17/15
+**Armor class:** 17
 
-**Defensive abilities:** drunken defense
+**Touch:** 17
 
-**Fort:** +7
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +5 luck
 
 **Hit points:** 63 (6d10+30)
 
-**Immune:** poison
-
-**Mod:** +2 Dex, +5 luck
+**Fort:** +7
 
 **Ref:** +7
+
+**Will:** +7
+
+**Defensive abilities:** drunken defense
+
+**Immune:** poison
 
 **Resist:** acid 10, cold 10
 
 **Weaknesses:** vicious sobriety
-
-**Will:** +7
 
 **Offense**
 

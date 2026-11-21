@@ -51,23 +51,27 @@ eyes._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/21/14
+**Armor class:** 21
 
-**Dr:** 10/good
+**Touch:** 21
 
-**Fort:** +10
+**Flat-footed:** 14
+
+**AC modifiers:** +6 Dex, +1 dodge, +4 size
 
 **Hit points:** 90 (12d8+36)
 
-**Immune:** swarm traits, weapon damage
-
-**Mod:** +6 Dex, +1 dodge, +4 size
+**Fort:** +10
 
 **Ref:** +10
 
-**Resist:** fire 10
-
 **Will:** +7
+
+**Dr:** 10/good
+
+**Immune:** swarm traits, weapon damage
+
+**Resist:** fire 10
 
 **Offense**
 

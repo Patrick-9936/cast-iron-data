@@ -55,21 +55,25 @@ _This mass of writhing, maggot-like creatures secretes a caustic odor._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/20/18
+**Armor class:** 20
 
-**Defensive abilities:** corrosive blood (1d4), heat adaptability, swarm traits
+**Touch:** 20
 
-**Fort:** +5
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 Size
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** acid, mind-affecting effects, weapon damage
-
-**Mod:** +2 Dex, +8 Size
+**Fort:** +5
 
 **Ref:** +4
 
 **Will:** +5
+
+**Defensive abilities:** corrosive blood (1d4), heat adaptability, swarm traits
+
+**Immune:** acid, mind-affecting effects, weapon damage
 
 **Offense**
 

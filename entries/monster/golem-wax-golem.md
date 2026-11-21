@@ -51,21 +51,25 @@ oily sheen._
 
 **Experience points:** 800
 
-**Armor class:** 15/9/15
+**Armor class:** 15
 
-**Fort:** +1
+**Touch:** 9
+
+**Flat-footed:** 15
+
+**AC modifiers:** -1 Dex, +6 natural
 
 **Hit points:** 42 (4d10+20)
 
-**Immune:** cold, [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +6 natural
+**Fort:** +1
 
 **Ref:** +0
 
-**Vulner:** fire
-
 **Will:** +1
+
+**Immune:** cold, [construct traits](ref/umr/construct-traits), magic
+
+**Vulner:** fire
 
 **Offense**
 

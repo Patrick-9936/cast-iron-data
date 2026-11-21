@@ -52,13 +52,17 @@ a twisted, human-like hand._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/9/19
+**Armor class:** 19
 
-**Fort:** +6
+**Touch:** 9
+
+**Flat-footed:** 19
+
+**AC modifiers:** +10 natural, -1 size
 
 **Hit points:** 76 (8d10+32)
 
-**Mod:** +10 natural, -1 size
+**Fort:** +6
 
 **Ref:** +6
 

@@ -52,25 +52,29 @@ filled with terrible teeth._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/10/29
+**Armor class:** 31
 
-**Dr:** 10/cold iron and piercing
+**Touch:** 10
 
-**Fort:** +12
+**Flat-footed:** 29
+
+**AC modifiers:** +1 Dex, +1 dodge, +21 natural, -2 size
 
 **Hit points:** 220 (21d10+105)
 
-**Immune:** acid, poison
-
-**Mod:** +1 Dex, +1 dodge, +21 natural, -2 size
+**Fort:** +12
 
 **Ref:** +15
+
+**Will:** +18
+
+**Dr:** 10/cold iron and piercing
+
+**Immune:** acid, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 26
-
-**Will:** +18
 
 **Offense**
 

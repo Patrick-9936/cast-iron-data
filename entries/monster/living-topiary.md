@@ -50,23 +50,27 @@ _This lumbering topiary has the rough shape of an elephant, complete with brambl
 
 **Experience points:** 1,200
 
-**Armor class:** 16/12/14
+**Armor class:** 16
 
-**Dr:** 5/slashing
+**Touch:** 12
 
-**Fort:** +10
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 natural
 
 **Hit points:** 42 (5d8+20)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +4 natural
+**Fort:** +10
 
 **Ref:** +3
 
-**Vulner:** fire
-
 **Will:** +1
+
+**Dr:** 5/slashing
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Vulner:** fire
 
 **Offense**
 

@@ -53,25 +53,29 @@ _This comely man is clad in fine silken robes. His eyes smolder with infernal fl
 
 **Experience points:** 51,200
 
-**Armor class:** 28/16/22
+**Armor class:** 28
 
-**Dr:** 10/good
+**Touch:** 16
 
-**Fort:** +12
+**Flat-footed:** 22
+
+**AC modifiers:** +6 Dex, +12 natural
 
 **Hit points:** 200 (16d10+112)
 
-**Immune:** fire, poison
-
-**Mod:** +6 Dex, +12 natural
+**Fort:** +12
 
 **Ref:** +18
+
+**Will:** +16
+
+**Dr:** 10/good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 26
-
-**Will:** +16
 
 **Offense**
 

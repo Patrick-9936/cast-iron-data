@@ -54,23 +54,27 @@ still moves with fluid grace._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/17/20
+**Armor class:** 29
 
-**Fh:** 10
+**Touch:** 17
 
-**Fort:** +17
+**Flat-footed:** 20
+
+**AC modifiers:** +9 Dex, +12 natural, -2 size
 
 **Hit points:** 202 (15d10+120)
 
-**Immune:** cold, confusion and insanity effects, poison, sonic
-
-**Mod:** +9 Dex, +12 natural, -2 size
+**Fort:** +17
 
 **Ref:** +18
 
-**Sr:** 25
-
 **Will:** +10
+
+**Fh:** 10
+
+**Immune:** cold, confusion and insanity effects, poison, sonic
+
+**Sr:** 25
 
 **Offense**
 

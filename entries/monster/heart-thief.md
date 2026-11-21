@@ -51,25 +51,29 @@ sack._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/12/21
+**Armor class:** 24
 
-**Dr:** 10/silver
+**Touch:** 12
 
-**Fort:** +12
+**Flat-footed:** 21
+
+**AC modifiers:** +3 Dex, +12 natural, -1 size
 
 **Hit points:** 115 (12d10+48)
 
-**Immune:** disease, fire, poison, fear
-
-**Mod:** +3 Dex, +12 natural, -1 size
+**Fort:** +12
 
 **Ref:** +7
+
+**Will:** +12
+
+**Dr:** 10/silver
+
+**Immune:** disease, fire, poison, fear
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 20
-
-**Will:** +12
 
 **Offense**
 

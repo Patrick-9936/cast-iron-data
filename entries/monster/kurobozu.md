@@ -48,21 +48,25 @@ _The mouth of this gray-skinned, emaciated monk is a distended, hollow pit of da
 
 **Experience points:** 2,400
 
-**Armor class:** 20/20/16
+**Armor class:** 20
 
-**Evasion:** present
+**Touch:** 20
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +2 monk, +4 Wis
 
 **Hit points:** 76 (9d8+36)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +2 monk, +4 Wis
+**Fort:** +7
 
 **Ref:** +9
 
 **Will:** +10
+
+**Evasion:** present
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

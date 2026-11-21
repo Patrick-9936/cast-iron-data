@@ -52,27 +52,31 @@ carved crystal blade._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/16/18
+**Armor class:** 24
+
+**Touch:** 16
+
+**Flat-footed:** 18
+
+**AC modifiers:** +4 armor, +5 Dex, +1 dodge, +4 natural
+
+**Hit points:** 104 (11d10+44)
+
+**Fort:** +11
+
+**Ref:** +8
+
+**Will:** +11; +2 vs. divine
 
 **Defensive abilities:** divine aversion, positive energy affinity
 
 **Fh:** 10
 
-**Fort:** +11
-
-**Hit points:** 104 (11d10+44)
-
 **Immune:** death attacks, disease, energy drain, poison
-
-**Mod:** +4 armor, +5 Dex, +1 dodge, +4 natural
-
-**Ref:** +8
 
 **Resist:** acid 10, cold 10, electricity 10, fire 10, sonic 10
 
 **Sr:** 20
-
-**Will:** +11; +2 vs. divine
 
 **Offense**
 

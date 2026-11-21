@@ -47,19 +47,23 @@ tentacles and hooked jaws._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Dr:** 10/magic
+**Touch:** 12
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +3 natural
 
 **Hit points:** 27 (5d8+5)
 
-**Mod:** +2 Dex, +3 natural
+**Fort:** +2
 
 **Ref:** +3
 
 **Will:** +6
+
+**Dr:** 10/magic
 
 **Offense**
 

@@ -52,30 +52,34 @@ cloak around his waist and legs._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 46/24/32
+**Armor class:** 46
+
+**Touch:** 24
+
+**Flat-footed:** 32
+
+**AC modifiers:** +13 Dex, +1 dodge, +22 natural, +8 profane, -8 size
+
+**Hit points:** 610 (33d10+429)
+
+**Fort:** +31
+
+**Ref:** +24
+
+**Will:** +23
 
 **Defensive abilities:** cloak of ice, _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +31
-
-**Hit points:** 610 (33d10+429)
-
 **Immune:** charm effects, cold, compulsion effects, fear effects, nonlethal damage, pain,
 petrification, poison
-
-**Mod:** +13 Dex, +1 dodge, +22 natural, +8 profane, -8 size
-
-**Ref:** +24
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, electricity 30
 
 **Sr:** 37
-
-**Will:** +23
 
 **Offense**
 

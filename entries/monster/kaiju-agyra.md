@@ -52,7 +52,21 @@ _This two-headed monstrosity has vast wings and a long tail covered in a forest 
 
 **Experience points:** 3,276,800
 
-**Armor class:** 45/9/38
+**Armor class:** 45
+
+**Touch:** 9
+
+**Flat-footed:** 38
+
+**AC modifiers:** +7 Dex, +36 natural, -8 size
+
+**Hit points:** 656 (32d10+480)
+
+**Fort:** +33
+
+**Ref:** +25
+
+**Will:** +21
 
 **Defensive abilities:** electrified corpse, rebirth, recovery
 
@@ -62,19 +76,9 @@ _This two-headed monstrosity has vast wings and a long tail covered in a forest 
 
 **Fh:** 30
 
-**Fort:** +33
-
-**Hit points:** 656 (32d10+480)
-
 **Immune:** ability damage, ability drain, death effects, disease, electricity, energy drain, fear
 
-**Mod:** +7 Dex, +36 natural, -8 size
-
-**Ref:** +25
-
 **Resist:** acid 30, cold 30, fire 30, negative energy 30, sonic 30
-
-**Will:** +21
 
 **Offense**
 

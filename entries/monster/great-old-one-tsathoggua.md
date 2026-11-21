@@ -53,7 +53,21 @@ on its bat-like face._
 
 **Experience points:** 6,553,600
 
-**Armor class:** 47/30/36
+**Armor class:** 47
+
+**Touch:** 30
+
+**Flat-footed:** 36
+
+**AC modifiers:** +11 Dex, +10 insight, +17 natural, -1 size
+
+**Hit points:** 742 (33d8+594)
+
+**Fort:** +29
+
+**Ref:** +24
+
+**Will:** +29
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, immortality,
 insanity (DC 38)
@@ -62,22 +76,12 @@ insanity (DC 38)
 
 **Fh:** 25
 
-**Fort:** +29
-
-**Hit points:** 742 (33d8+594)
-
 **Immune:** ability damage, ability drain, acid, aging, cold, death effects, disease, energy drain,
 mind-affecting effects, paralysis, petrification
-
-**Mod:** +11 Dex, +10 insight, +17 natural, -1 size
-
-**Ref:** +24
 
 **Resist:** electricity 30, sonic 30
 
 **Sr:** 40
-
-**Will:** +29
 
 **Offense**
 

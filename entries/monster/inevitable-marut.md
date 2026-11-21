@@ -50,25 +50,29 @@ revealing flesh of black stone._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/13/26
+**Armor class:** 30
+
+**Touch:** 13
+
+**Flat-footed:** 26
+
+**AC modifiers:** +3 Dex, +1 dodge, +17 natural, -1 size
+
+**Hit points:** 214 (16d10+126)
+
+**Fort:** +16
+
+**Ref:** +8
+
+**Will:** +13
 
 **Defensive abilities:** constructed
 
 **Dr:** 15/chaotic
 
-**Fort:** +16
-
-**Hit points:** 214 (16d10+126)
-
-**Mod:** +3 Dex, +1 dodge, +17 natural, -1 size
-
-**Ref:** +8
-
 **Regen:** 10 (chaotic)
 
 **Sr:** 26
-
-**Will:** +13
 
 **Offense**
 

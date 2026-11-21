@@ -54,7 +54,21 @@ beneath it._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/8/18
+**Armor class:** 18
+
+**Touch:** 8
+
+**Flat-footed:** 18
+
+**AC modifiers:** -1 Dex, +10 natural, -1 size
+
+**Hit points:** 32 (5d8+10)
+
+**Fort:** +3
+
+**Ref:** +0
+
+**Will:** +7
 
 **Chan Res:** +2
 
@@ -62,17 +76,7 @@ beneath it._
 
 **Dr:** 5/slashing
 
-**Fort:** +3
-
-**Hit points:** 32 (5d8+10)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** -1 Dex, +10 natural, -1 size
-
-**Ref:** +0
-
-**Will:** +7
 
 **Offense**
 

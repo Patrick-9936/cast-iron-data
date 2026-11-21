@@ -53,21 +53,25 @@ innocent passers-by. Then it moves - to do just that._
 
 **Experience points:** 3,200
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Defensive abilities:** bravery +1
+**Touch:** 14
 
-**Dr:** 10/magic
+**Flat-footed:** 14
 
-**Fort:** +8
+**AC modifiers:** +4 Dex, +4 natural
 
 **Hit points:** 66 (5d10+2d10+28\~7)
 
-**Mod:** +4 Dex, +4 natural
+**Fort:** +8
 
 **Ref:** +10
 
 **Will:** +3; +1 vs. fear,
+
+**Defensive abilities:** bravery +1
+
+**Dr:** 10/magic
 
 **Offense**
 

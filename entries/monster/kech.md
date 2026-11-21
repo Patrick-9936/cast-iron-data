@@ -48,13 +48,17 @@ creature moves._
 
 **Experience points:** 800
 
-**Armor class:** 16/13/13
+**Armor class:** 16
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 dodge, +3 natural
 
 **Hit points:** 26 (4d10+4)
 
-**Mod:** +2 Dex, +1 dodge, +3 natural
+**Fort:** +2
 
 **Ref:** +6
 

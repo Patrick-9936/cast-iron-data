@@ -52,21 +52,25 @@ lolling tongue drips with thick saliva._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/19
+**Armor class:** 19
 
-**Fort:** +11
+**Touch:** 11
+
+**Flat-footed:** 19
+
+**AC modifiers:** -2 Dex, +8 natural, +3 profane
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** fear, pain effects
-
-**Mod:** -2 Dex, +8 natural, +3 profane
+**Fort:** +11
 
 **Ref:** +5
 
-**Sr:** 17
-
 **Will:** +9
+
+**Immune:** fear, pain effects
+
+**Sr:** 17
 
 **Offense**
 

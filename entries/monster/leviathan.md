@@ -52,28 +52,32 @@ lined with rows of sharp teeth._
 
 **Experience points:** 9,830,400
 
-**Armor class:** 48/13/37
+**Armor class:** 48
+
+**Touch:** 13
+
+**Flat-footed:** 37
+
+**AC modifiers:** +11 Dex, +35 natural, -8 size
+
+**Hit points:** 765 (34d10+578)
+
+**Fort:** +36
+
+**Ref:** +30
+
+**Will:** +24
 
 **Defensive abilities:** all-around vision, recovery
 
 **Dr:** 20/epic
 
-**Fort:** +36
-
-**Hit points:** 765 (34d10+578)
-
 **Immune:** ability damage, ability drain, bleed, cold, death effects, disease, energy drain, fear,
 paralysis, sleep
-
-**Mod:** +11 Dex, +35 natural, -8 size
-
-**Ref:** +30
 
 **Resist:** acid 30, electricity 30, fire 30
 
 **Sr:** 41
-
-**Will:** +24
 
 **Offense**
 

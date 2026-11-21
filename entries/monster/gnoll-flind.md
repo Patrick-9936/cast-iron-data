@@ -50,13 +50,17 @@ cruel gaze._
 **Subtype:** Gnoll\
 **Experience points:** 800
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 armor, +2 Dex, +2 natural
 
 **Hit points:** 30 (4d8+12)
 
-**Mod:** +3 armor, +2 Dex, +2 natural
+**Fort:** +7
 
 **Ref:** +3
 

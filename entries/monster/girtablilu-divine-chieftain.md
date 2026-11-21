@@ -52,19 +52,23 @@ _This authoritative, scorpion-bodied woman is bedecked with amulets and other re
 
 **Experience points:** 38,400
 
-**Armor class:** 30/12/27
+**Armor class:** 30
 
-**Fort:** +19
+**Touch:** 12
+
+**Flat-footed:** 27
+
+**AC modifiers:** +8 armor, +2 Dex, +1 dodge, +10 natural, -1 size
 
 **Hit points:** 240 (10d8+10d10+140\~20)
 
-**Immune:** blinding and dazzling effects
-
-**Mod:** +8 armor, +2 Dex, +1 dodge, +10 natural, -1 size
+**Fort:** +19
 
 **Ref:** +14
 
 **Will:** +21; +2 vs. gaze attacks and figment and pattern illusions
+
+**Immune:** blinding and dazzling effects
 
 **Offense**
 

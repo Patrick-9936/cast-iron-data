@@ -53,13 +53,17 @@ adorned with scrimshaw talismans._
 
 **Experience points:** 6,400
 
-**Armor class:** 25/13/22
+**Armor class:** 25
 
-**Fort:** +8
+**Touch:** 13
+
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +1 dodge, +12 natural
 
 **Hit points:** 105 (14d6+56)
 
-**Mod:** +2 Dex, +1 dodge, +12 natural
+**Fort:** +8
 
 **Ref:** +13
 

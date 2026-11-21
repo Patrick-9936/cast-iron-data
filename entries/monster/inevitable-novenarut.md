@@ -50,23 +50,27 @@ gemstone eyes._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/10/17
+**Armor class:** 17
 
-**Defensive abilities:** constructed, parry
+**Touch:** 10
 
-**Fort:** +7
+**Flat-footed:** 17
+
+**AC modifiers:** +7 natural
 
 **Hit points:** 45 (6d10+12)
 
-**Mod:** +7 natural
+**Fort:** +7
 
 **Ref:** +2
+
+**Will:** +8
+
+**Defensive abilities:** constructed, parry
 
 **Regen:** 3 (chaotic)
 
 **Sr:** 15
-
-**Will:** +8
 
 **Offense**
 

@@ -54,21 +54,25 @@ brilliant flower petals._
 
 **Experience points:** 400
 
-**Armor class:** 13/11/12
+**Armor class:** 13
 
-**Fort:** +3
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 natural
 
 **Hit points:** 12 (1d8+4)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +2 natural
+**Fort:** +3
 
 **Ref:** +3
 
-**Weaknesses:** delicious, light dependent
-
 **Will:** +3
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Weaknesses:** delicious, light dependent
 
 **Offense**
 

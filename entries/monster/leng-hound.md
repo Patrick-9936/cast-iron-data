@@ -52,23 +52,27 @@ humanoid features with canine._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/18/17
+**Armor class:** 25
+
+**Touch:** 18
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 Dex, +1 dodge, +7 natural
+
+**Hit points:** 123 (13d8+65)
+
+**Fort:** +9
+
+**Ref:** +11
+
+**Will:** +13
 
 **Defensive abilities:** negative energy affinity
 
 **Fh:** 10
 
-**Fort:** +9
-
-**Hit points:** 123 (13d8+65)
-
 **Immune:** cold, disease
-
-**Mod:** +7 Dex, +1 dodge, +7 natural
-
-**Ref:** +11
-
-**Will:** +13
 
 **Offense**
 

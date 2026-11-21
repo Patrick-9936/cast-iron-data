@@ -54,7 +54,21 @@ from bones and rotting flesh._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/15/16
+**Armor class:** 21
+
+**Touch:** 15
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +1 dodge, +6 natural
+
+**Hit points:** 104 (11d8+55)
+
+**Fort:** +8
+
+**Ref:** +7
+
+**Will:** +11
 
 **Chan Res:** +2
 
@@ -62,19 +76,9 @@ from bones and rotting flesh._
 
 **Fh:** 5
 
-**Fort:** +8
-
-**Hit points:** 104 (11d8+55)
-
 **Immune:** electricity, [undead traits](ref/umr/undead-traits)
 
-**Mod:** +4 Dex, +1 dodge, +6 natural
-
-**Ref:** +7
-
 **Resist:** cold 10
-
-**Will:** +11
 
 **Offense**
 

@@ -49,21 +49,25 @@ flesh billows from its smokestack horns._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/9/24
+**Armor class:** 25
 
-**Dr:** 10/adamantine
+**Touch:** 9
 
-**Fort:** +6
+**Flat-footed:** 24
+
+**AC modifiers:** +1 Dex, +16 natural, -2 size
 
 **Hit points:** 131 (14d10+54)
 
-**Immune:** [construct traits](ref/umr/construct-traits), fire
-
-**Mod:** +1 Dex, +16 natural, -2 size
+**Fort:** +6
 
 **Ref:** +7
 
 **Will:** +4
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), fire
 
 **Offense**
 

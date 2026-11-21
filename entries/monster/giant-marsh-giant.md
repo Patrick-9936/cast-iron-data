@@ -54,19 +54,23 @@ obese giant._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/12/18
+**Armor class:** 21
 
-**Fort:** +12
+**Touch:** 12
+
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +9 natural, -1 size
 
 **Hit points:** 102 (12d8+48)
 
-**Mod:** +3 Dex, +9 natural, -1 size
+**Fort:** +12
 
 **Ref:** +7
 
-**Rock Ct:** present
-
 **Will:** +8
+
+**Rock Ct:** present
 
 **Offense**
 

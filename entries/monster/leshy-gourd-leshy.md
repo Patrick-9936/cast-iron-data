@@ -52,19 +52,23 @@ mouth for a head._
 
 **Experience points:** 400
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 9 (1d8+5)
 
-**Immune:** electricity, sonic, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +1 size
+**Fort:** +4
 
 **Ref:** +2
 
 **Will:** +0
+
+**Immune:** electricity, sonic, [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

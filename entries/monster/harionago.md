@@ -48,23 +48,27 @@ flowing tangle of hair._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/15/20
+**Armor class:** 25
+
+**Touch:** 15
+
+**Flat-footed:** 20
+
+**AC modifiers:** +5 Dex, +10 natural
+
+**Hit points:** 147 (14d8+84)
+
+**Fort:** +10
+
+**Ref:** +9
+
+**Will:** +12
 
 **Chan Res:** +2
 
 **Dr:** 10/magic
 
-**Fort:** +10
-
-**Hit points:** 147 (14d8+84)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 Dex, +10 natural
-
-**Ref:** +9
-
-**Will:** +12
 
 **Offense**
 

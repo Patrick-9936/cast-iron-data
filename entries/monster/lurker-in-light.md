@@ -54,23 +54,27 @@ transparent wings._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/15/14
+**Armor class:** 18
+
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +3 natural, +1 size
+
+**Hit points:** 44 (8d6+16)
+
+**Fort:** +4
+
+**Ref:** +10
+
+**Will:** +9
 
 **Defensive abilities:** blend with light
 
 **Dr:** 5/cold iron
 
-**Fort:** +4
-
-**Hit points:** 44 (8d6+16)
-
 **Immune:** blindness
-
-**Mod:** +4 Dex, +3 natural, +1 size
-
-**Ref:** +10
-
-**Will:** +9
 
 **Offense**
 

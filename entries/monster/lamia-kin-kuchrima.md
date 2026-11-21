@@ -52,19 +52,23 @@ in its taloned feet._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/16/16
+**Armor class:** 22
 
-**Fort:** +7
+**Touch:** 16
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +6 natural
 
 **Hit points:** 104 (11d10+44)
 
-**Immune:** disease, magic missile
-
-**Mod:** +6 Dex, +6 natural
+**Fort:** +7
 
 **Ref:** +13
 
 **Will:** +6
+
+**Immune:** disease, magic missile
 
 **Offense**
 

@@ -50,21 +50,25 @@ orbit the floating mass._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/17/22
+**Armor class:** 29
 
-**Amorph:** present
+**Touch:** 17
 
-**Defensive abilities:** [darkvision](ref/rule/darkvision) adaptation
+**Flat-footed:** 22
 
-**Fort:** +12
+**AC modifiers:** +7 Dex, +12 natural
 
 **Hit points:** 210 (20d8+120)
 
-**Mod:** +7 Dex, +12 natural
+**Fort:** +12
 
 **Ref:** +15
 
 **Will:** +18
+
+**Amorph:** present
+
+**Defensive abilities:** [darkvision](ref/rule/darkvision) adaptation
 
 **Offense**
 

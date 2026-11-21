@@ -51,13 +51,17 @@ _Delicate antennae extend from the forehead of this lithe woman._
 **Subtype:** Lashunta\
 **Experience points:** 200
 
-**Armor class:** 11/11/10
+**Armor class:** 11
 
-**Fort:** -1
+**Touch:** 11
+
+**Flat-footed:** 10
+
+**AC modifiers:** +1 Dex
 
 **Hit points:** 11 (1d6+2)
 
-**Mod:** +1 Dex
+**Fort:** -1
 
 **Ref:** +1
 

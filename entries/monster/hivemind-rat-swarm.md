@@ -54,19 +54,23 @@ center of the mass._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/20/18
+**Armor class:** 20
 
-**Defensive abilities:** swarm traits
+**Touch:** 20
 
-**Fort:** +8
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +6 insight, +2 size
 
 **Hit points:** 76 (9d10+27)
 
-**Mod:** +2 Dex, +6 insight, +2 size
+**Fort:** +8
 
 **Ref:** +10
 
 **Will:** +4
+
+**Defensive abilities:** swarm traits
 
 **Offense**
 

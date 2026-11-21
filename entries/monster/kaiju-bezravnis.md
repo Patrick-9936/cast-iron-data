@@ -53,7 +53,21 @@ molten heat._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 44/7/39
+**Armor class:** 44
+
+**Touch:** 7
+
+**Flat-footed:** 39
+
+**AC modifiers:** +5 Dex, +37 natural, -8 size
+
+**Hit points:** 615 (30d10+450)
+
+**Fort:** +32
+
+**Ref:** +24
+
+**Will:** +20
 
 **Defensive abilities:** recovery
 
@@ -63,19 +77,9 @@ molten heat._
 
 **Fh:** 30
 
-**Fort:** +32
-
-**Hit points:** 615 (30d10+450)
-
 **Immune:** ability damage, ability drain, death effects, disease, energy drain, fear, fire
 
-**Mod:** +5 Dex, +37 natural, -8 size
-
-**Ref:** +24
-
 **Resist:** acid 30, cold 30, electricity 30, negative energy 30, sonic 30
-
-**Will:** +20
 
 **Offense**
 

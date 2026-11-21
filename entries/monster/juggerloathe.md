@@ -50,21 +50,25 @@ appears to be an armored cobra._
 
 **Experience points:** 76,800
 
-**Armor class:** 32/7/31
+**Armor class:** 32
 
-**Dr:** 10/adamantine
+**Touch:** 7
 
-**Fort:** +19
+**Flat-footed:** 31
+
+**AC modifiers:** +1 Dex, +25 natural, -4 size
 
 **Hit points:** 256 (19d10+152)
 
-**Mod:** +1 Dex, +25 natural, -4 size
+**Fort:** +19
 
 **Ref:** +14
 
-**Sr:** 22
-
 **Will:** +12
+
+**Dr:** 10/adamantine
+
+**Sr:** 22
 
 **Offense**
 

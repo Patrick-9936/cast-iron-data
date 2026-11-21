@@ -51,19 +51,23 @@ brutish and backwoods lifestyle._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/8/21
+**Armor class:** 21
 
-**Fort:** +11
+**Touch:** 8
+
+**Flat-footed:** 21
+
+**AC modifiers:** +4 armor, -1 Dex, +9 natural, -1 size
 
 **Hit points:** 85 (10d8+40)
 
-**Mod:** +4 armor, -1 Dex, +9 natural, -1 size
+**Fort:** +11
 
 **Ref:** +2
 
-**Rock Ct:** present
-
 **Will:** +3
+
+**Rock Ct:** present
 
 **Offense**
 

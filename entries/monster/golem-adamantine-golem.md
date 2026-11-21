@@ -48,7 +48,21 @@ burn atop its crown and back._
 
 **Experience points:** 204,800
 
-**Armor class:** 33/7/33
+**Armor class:** 33
+
+**Touch:** 7
+
+**Flat-footed:** 33
+
+**AC modifiers:** -1 Dex, +26 natural, -2 size
+
+**Hit points:** 205 (30d10+40)
+
+**Fort:** +10
+
+**Ref:** +9
+
+**Will:** +10
 
 **Defensive abilities:** indestructible
 
@@ -56,17 +70,7 @@ burn atop its crown and back._
 
 **Fh:** 10
 
-**Fort:** +10
-
-**Hit points:** 205 (30d10+40)
-
 **Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +26 natural, -2 size
-
-**Ref:** +9
-
-**Will:** +10
 
 **Offense**
 

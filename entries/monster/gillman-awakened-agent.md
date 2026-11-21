@@ -51,21 +51,25 @@ sickly gillman. Abnormal muscles and joints flex just beneath his flesh._
 
 **Experience points:** 12,800
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Defensive abilities:** enchantment resistance, unusual anatomy (25%)
+**Touch:** 13
 
-**Fort:** +8
+**Flat-footed:** 12
+
+**AC modifiers:** +1 deflection, +2 Dex, +1 natural
 
 **Hit points:** 66 (12d6+24)
 
-**Mod:** +1 deflection, +2 Dex, +1 natural
+**Fort:** +8
 
 **Ref:** +8
 
-**Weaknesses:** water dependent
-
 **Will:** +11; +2 vs. non-aboleth enchantments and -2 vs. aboleth enchantments
+
+**Defensive abilities:** enchantment resistance, unusual anatomy (25%)
+
+**Weaknesses:** water dependent
 
 **Offense**
 

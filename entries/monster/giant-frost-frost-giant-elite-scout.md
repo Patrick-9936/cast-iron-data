@@ -52,19 +52,23 @@ abilities = ["31", "16", "22", "14", "16", "8"]
 
 **Experience points:** 25,600
 
-**Armor class:** 30/14/26
+**Armor class:** 30
 
-**Fort:** +19
+**Touch:** 14
+
+**Flat-footed:** 26
+
+**AC modifiers:** +6 armor, +1 deflection, +3 Dex, +1 dodge, +10 natural, -1 size
 
 **Hit points:** 197 (14d8+4d10+112\~18)
 
-**Mod:** +6 armor, +1 deflection, +3 Dex, +1 dodge, +10 natural, -1 size
+**Fort:** +19
 
 **Ref:** +11
 
-**Rock Ct:** present
-
 **Will:** +10
+
+**Rock Ct:** present
 
 **Offense**
 

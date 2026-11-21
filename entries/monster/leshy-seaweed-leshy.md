@@ -52,19 +52,23 @@ made from seashells._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/14
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 armor, +1 Dex, +2 natural, +1 size
 
 **Hit points:** 30 (4d8+12)
 
-**Immune:** electricity, sonic, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 armor, +1 Dex, +2 natural, +1 size
+**Fort:** +6
 
 **Ref:** +2
 
 **Will:** +3
+
+**Immune:** electricity, sonic, [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

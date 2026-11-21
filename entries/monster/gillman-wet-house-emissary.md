@@ -52,21 +52,25 @@ _Swathed in striking turquoise robes, this gillwoman has a cold, appraising star
 
 **Experience points:** 3,200
 
-**Armor class:** 12/9/12
+**Armor class:** 12
 
-**Defensive abilities:** enchantment resistance, poison resistance
+**Touch:** 9
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +3 armor, -1 Dex
 
 **Hit points:** 56 (9d8+16)
 
-**Mod:** +3 armor, -1 Dex
+**Fort:** +4
 
 **Ref:** +5
 
-**Weaknesses:** water dependent
-
 **Will:** +11; +4 bonus vs. poison, +2 vs. non-aboleth enchantments, -2 vs. aboleth enchantments
+
+**Defensive abilities:** enchantment resistance, poison resistance
+
+**Weaknesses:** water dependent
 
 **Offense**
 

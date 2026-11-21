@@ -50,27 +50,31 @@ not exist._
 
 **Experience points:** 6,400
 
-**Armor class:** 6/6/6
+**Armor class:** 6
+
+**Touch:** 6
+
+**Flat-footed:** 6
+
+**AC modifiers:** -4 size
+
+**Hit points:** 114 (12d8+60)
+
+**Fort:** +9
+
+**Ref:** +4
+
+**Will:** -1
 
 **Defensive abilities:** natural invisibility
 
 **Dr:** 10/magic
 
-**Fort:** +9
-
-**Hit points:** 114 (12d8+60)
-
 **Immune:** sonic, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -4 size
-
-**Ref:** +4
 
 **Resist:** cold 10, fire 10
 
 **Weaknesses:** vulnerable to wind
-
-**Will:** -1
 
 **Offense**
 

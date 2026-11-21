@@ -50,25 +50,29 @@ its arms end in barbed chains._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/15/18
+**Armor class:** 24
+
+**Touch:** 15
+
+**Flat-footed:** 18
+
+**AC modifiers:** +5 Dex, +1 dodge, +9 natural, -1 size
+
+**Hit points:** 115 (10d10+60)
+
+**Fort:** +10
+
+**Ref:** +8
+
+**Will:** +10
 
 **Defensive abilities:** constructed
 
 **Dr:** 10/chaotic
 
-**Fort:** +10
-
-**Hit points:** 115 (10d10+60)
-
-**Mod:** +5 Dex, +1 dodge, +9 natural, -1 size
-
-**Ref:** +8
-
 **Regen:** 5 (chaotic)
 
 **Sr:** 20
-
-**Will:** +10
 
 **Offense**
 

@@ -48,23 +48,27 @@ its eyes are pinpoints of red light._
 
 **Experience points:** 600
 
-**Armor class:** 20/13/18
+**Armor class:** 20
 
-**Dr:** 5/-
+**Touch:** 13
 
-**Fort:** +0
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +7 natural, +1 size
 
 **Hit points:** 15 (1d10+10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +7 natural, +1 size
+**Fort:** +0
 
 **Ref:** +2
 
-**Sr:** 13
-
 **Will:** +0
+
+**Dr:** 5/-
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Sr:** 13
 
 **Offense**
 

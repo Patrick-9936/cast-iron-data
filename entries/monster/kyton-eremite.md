@@ -51,25 +51,29 @@ its bleeding shoulders._
 
 **Experience points:** 307,200
 
-**Armor class:** 38/19/29
+**Armor class:** 38
 
-**Dr:** 15/good and silver
+**Touch:** 19
 
-**Fort:** +22
+**Flat-footed:** 29
+
+**AC modifiers:** +8 Dex, +1 dodge, +19 natural
 
 **Hit points:** 310 (20d10+200)
 
-**Immune:** cold, fear effects, nonlethal damage, pain
-
-**Mod:** +8 Dex, +1 dodge, +19 natural
+**Fort:** +22
 
 **Ref:** +16
+
+**Will:** +19
+
+**Dr:** 15/good and silver
+
+**Immune:** cold, fear effects, nonlethal damage, pain
 
 **Regen:** 15 (good weapons and spells, silver weapons)
 
 **Sr:** 31
-
-**Will:** +19
 
 **Offense**
 

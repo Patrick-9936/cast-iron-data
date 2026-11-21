@@ -52,27 +52,31 @@ traceries of blue lines._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/16/19
+**Armor class:** 25
+
+**Touch:** 16
+
+**Flat-footed:** 19
+
+**AC modifiers:** +6 Dex, +9 natural
+
+**Hit points:** 138 (12d10+72)
+
+**Fort:** +14
+
+**Ref:** +10
+
+**Will:** +13
 
 **Defensive abilities:** constructed
 
 **Dr:** 10/chaotic
 
-**Fort:** +14
-
-**Hit points:** 138 (12d10+72)
-
 **Immune:** transmutation effects
-
-**Mod:** +6 Dex, +9 natural
-
-**Ref:** +10
 
 **Regen:** 5 (chaotic)
 
 **Sr:** 22
-
-**Will:** +13
 
 **Offense**
 

@@ -56,7 +56,21 @@ upper half is humanoid-shaped and wields an enormous pick made from a giant's ri
 
 **Experience points:** 51,200
 
-**Armor class:** 29/17/25
+**Armor class:** 29
+
+**Touch:** 17
+
+**Flat-footed:** 25
+
+**AC modifiers:** +4 Dex, +4 luck, +12 natural, -1 size
+
+**Hit points:** 195 (17d10+102)
+
+**Fort:** +15
+
+**Ref:** +18
+
+**Will:** +17
 
 **Defensive abilities:** unearthly luck
 
@@ -64,21 +78,11 @@ upper half is humanoid-shaped and wields an enormous pick made from a giant's ri
 
 **Fh:** 5
 
-**Fort:** +15
-
-**Hit points:** 195 (17d10+102)
-
 **Immune:** fear
-
-**Mod:** +4 Dex, +4 luck, +12 natural, -1 size
-
-**Ref:** +18
 
 **Resist:** cold 30, fire 30
 
 **Sr:** 26
-
-**Will:** +17
 
 **Offense**
 

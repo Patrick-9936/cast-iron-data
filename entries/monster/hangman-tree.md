@@ -48,23 +48,27 @@ into nooses, hang from its branches._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/7/20
+**Armor class:** 20
 
-**Fort:** +12
+**Touch:** 7
+
+**Flat-footed:** 20
+
+**AC modifiers:** -1 Dex, +13 natural, -2 size
 
 **Hit points:** 84 (8d8+48)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** -1 Dex, +13 natural, -2 size
+**Fort:** +12
 
 **Ref:** +3
+
+**Will:** +5
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Sr:** 18
 
 **Vulner:** electricity
-
-**Will:** +5
 
 **Offense**
 

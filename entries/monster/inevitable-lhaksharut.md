@@ -54,27 +54,31 @@ rings of metal._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/18/35
+**Armor class:** 36
+
+**Touch:** 18
+
+**Flat-footed:** 35
+
+**AC modifiers:** +4 deflection, +1 Dex, +5 insight, +18 natural, -2 size
+
+**Hit points:** 337 (22d10+216)
+
+**Fort:** +25
+
+**Ref:** +12
+
+**Will:** +22
 
 **Defensive abilities:** constructed
 
 **Dr:** 15/chaotic
 
-**Fort:** +25
-
-**Hit points:** 337 (22d10+216)
-
 **Immune:** energy spells
-
-**Mod:** +4 deflection, +1 Dex, +5 insight, +18 natural, -2 size
-
-**Ref:** +12
 
 **Regen:** 10 (chaotic)
 
 **Sr:** 31
-
-**Will:** +22
 
 **Offense**
 

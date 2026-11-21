@@ -49,21 +49,25 @@ _The mandibles of this enormous grasshopper churn and grind as it quests for foo
 
 **Experience points:** 800
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +5 natural
 
 **Hit points:** 22 (4d8+4)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +5 natural
+**Fort:** +5
 
 **Ref:** +3
 
-**Resist:** acid 5
-
 **Will:** +1
+
+**Immune:** mind-affecting effects
+
+**Resist:** acid 5
 
 **Offense**
 

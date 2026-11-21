@@ -50,25 +50,29 @@ fire and seething with smoke._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/15/15
+**Armor class:** 21
+
+**Touch:** 15
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 Dex, +1 dodge, +6 natural, -1 size
+
+**Hit points:** 85 (9d10+36)
+
+**Fort:** +10
+
+**Ref:** +13
+
+**Will:** +5
 
 **Defensive abilities:** invisible in light
 
 **Dr:** 5/good
 
-**Fort:** +10
-
-**Hit points:** 85 (9d10+36)
-
-**Mod:** +5 Dex, +1 dodge, +6 natural, -1 size
-
-**Ref:** +13
-
 **Resist:** fire 10
 
 **Sr:** 18
-
-**Will:** +5
 
 **Offense**
 

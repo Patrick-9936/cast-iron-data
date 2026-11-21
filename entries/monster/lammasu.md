@@ -52,13 +52,17 @@ man._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/10/20
+**Armor class:** 21
 
-**Fort:** +11
+**Touch:** 10
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +11 natural, -1 size
 
 **Hit points:** 94 (9d10+45)
 
-**Mod:** +1 Dex, +11 natural, -1 size
+**Fort:** +11
 
 **Ref:** +9
 

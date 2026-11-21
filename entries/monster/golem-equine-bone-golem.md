@@ -49,21 +49,25 @@ _This mass of bones is shaped like a horse, with bizarre limbs._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/11/21
+**Armor class:** 23
 
-**Dr:** 5/adamantine and bludgeoning
+**Touch:** 11
 
-**Fort:** +5
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +12 natural, -1 size
 
 **Hit points:** 118 (16d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +2 Dex, +12 natural, -1 size
+**Fort:** +5
 
 **Ref:** +7
 
 **Will:** +5
+
+**Dr:** 5/adamantine and bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

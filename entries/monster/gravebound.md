@@ -51,23 +51,27 @@ stretch toward the ground._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Amorph:** present
+**Touch:** 11
 
-**Fort:** +4
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +6 natural
 
 **Hit points:** 37 (5d8+15)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +6 natural
+**Fort:** +4
 
 **Ref:** +2
 
-**Weaknesses:** tied to the grave, vulnerable to _consecration_
-
 **Will:** +5
+
+**Amorph:** present
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Weaknesses:** tied to the grave, vulnerable to _consecration_
 
 **Offense**
 

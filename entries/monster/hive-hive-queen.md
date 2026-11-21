@@ -56,21 +56,25 @@ mandibles._
 
 **Experience points:** 9,600
 
-**Armor class:** 26/12/22
+**Armor class:** 26
 
-**Defensive abilities:** corrosive blood (1d8 acid), heat adaptability
+**Touch:** 12
 
-**Fort:** +9
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +14 Natural, -2 size
 
 **Hit points:** 127 (15d8+60)
 
-**Immune:** acid
-
-**Mod:** +4 Dex, +14 Natural, -2 size
+**Fort:** +9
 
 **Ref:** +9
 
 **Will:** +13
+
+**Defensive abilities:** corrosive blood (1d8 acid), heat adaptability
+
+**Immune:** acid
 
 **Offense**
 

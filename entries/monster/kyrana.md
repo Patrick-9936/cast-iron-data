@@ -50,21 +50,25 @@ mouth._
 
 **Experience points:** 800
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 natural
 
 **Hit points:** 30 (4d12+4); fiery regeneration
 
-**Immune:** dragon traits, fire, paralysis, sleep
-
-**Mod:** +2 Dex, +2 natural
+**Fort:** +5
 
 **Ref:** +6
 
-**Vulner:** cold
-
 **Will:** +3
+
+**Immune:** dragon traits, fire, paralysis, sleep
+
+**Vulner:** cold
 
 **Offense**
 

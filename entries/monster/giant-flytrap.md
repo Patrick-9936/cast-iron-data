@@ -50,21 +50,25 @@ in a set of green, toothy jaws._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/12/18
+**Armor class:** 22
 
-**Fort:** +17
+**Touch:** 12
+
+**Flat-footed:** 18
+
+**AC modifiers:** +4 Dex, +10 natural, -2 size
 
 **Hit points:** 149 (13d8+91)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +4 Dex, +10 natural, -2 size
+**Fort:** +17
 
 **Ref:** +8
 
-**Resist:** acid 20
-
 **Will:** +5
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Resist:** acid 20
 
 **Offense**
 

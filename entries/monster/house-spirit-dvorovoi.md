@@ -51,21 +51,25 @@ toothy grin._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/14/14
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +3 natural, +1 size
 
 **Hit points:** 38 (7d6+14)
 
-**Mod:** +3 Dex, +3 natural, +1 size
+**Fort:** +4
 
 **Ref:** +8
 
-**Sr:** 15
-
 **Will:** +6
+
+**Dr:** 5/cold iron
+
+**Sr:** 15
 
 **Offense**
 

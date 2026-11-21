@@ -52,21 +52,25 @@ substance._
 
 **Experience points:** 600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Defensive abilities:** tube armor
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +4 Dex, +4 natural
+**Fort:** +5
 
 **Ref:** +5
 
 **Will:** +1
+
+**Defensive abilities:** tube armor
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

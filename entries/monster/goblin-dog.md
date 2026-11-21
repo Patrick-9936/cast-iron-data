@@ -50,19 +50,23 @@ grotesquely large._
 
 **Experience points:** 400
 
-**Armor class:** 13/12/11
+**Armor class:** 13
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 natural
 
 **Hit points:** 9 (1d8+5)
 
-**Immune:** disease
-
-**Mod:** +2 Dex, +1 natural
+**Fort:** +4
 
 **Ref:** +4
 
 **Will:** +1
+
+**Immune:** disease
 
 **Offense**
 

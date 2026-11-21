@@ -52,23 +52,27 @@ be made of fire._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/8/24
+**Armor class:** 24
 
-**Fort:** +14
+**Touch:** 8
+
+**Flat-footed:** 24
+
+**AC modifiers:** +8 armor, -1 Dex, +8 natural, -1 size
 
 **Hit points:** 142 (15d8+75)
 
-**Immune:** fire
-
-**Mod:** +8 armor, -1 Dex, +8 natural, -1 size
+**Fort:** +14
 
 **Ref:** +4
+
+**Will:** +9
+
+**Immune:** fire
 
 **Rock Ct:** present
 
 **Vulner:** cold
-
-**Will:** +9
 
 **Offense**
 

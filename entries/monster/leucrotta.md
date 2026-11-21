@@ -52,19 +52,23 @@ ridges of bone instead of teeth._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/10/17
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +8 natural, -1 size
 
 **Hit points:** 57 (6d10+24)
 
-**Immune:** disease, poison
-
-**Mod:** +1 Dex, +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +6
 
 **Will:** +4
+
+**Immune:** disease, poison
 
 **Offense**
 

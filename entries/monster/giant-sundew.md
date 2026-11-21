@@ -49,23 +49,27 @@ Whip-like fronds unfurl from the center._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/17/18
+**Armor class:** 27
+
+**Touch:** 17
+
+**Flat-footed:** 18
+
+**AC modifiers:** +8 Dex, +1 dodge, +10 natural, -2 size
+
+**Hit points:** 153 (18d8+72)
+
+**Fort:** +15
+
+**Ref:** +16
+
+**Will:** +9
 
 **Defensive abilities:** stupefaction pollen
 
 **Dr:** 10/slashing
 
-**Fort:** +15
-
-**Hit points:** 153 (18d8+72)
-
 **Immune:** acid, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +8 Dex, +1 dodge, +10 natural, -2 size
-
-**Ref:** +16
-
-**Will:** +9
 
 **Offense**
 

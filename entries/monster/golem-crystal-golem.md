@@ -49,21 +49,25 @@ _This burly humanoid figure is cut from blue crystal that shines with an inner l
 
 **Experience points:** 12,800
 
-**Armor class:** 26/10/25
+**Armor class:** 26
 
-**Dr:** 10/adamantine
+**Touch:** 10
 
-**Fort:** +5
+**Flat-footed:** 25
+
+**AC modifiers:** +1 Dex, +16 natural, -1 size
 
 **Hit points:** 112 (15d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +1 Dex, +16 natural, -1 size
+**Fort:** +5
 
 **Ref:** +6
 
 **Will:** +8
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

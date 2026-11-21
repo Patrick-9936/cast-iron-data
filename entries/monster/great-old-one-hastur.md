@@ -53,7 +53,21 @@ with unsettling, inhuman grace._
 
 **Experience points:** 6,553,600
 
-**Armor class:** 48/37/31
+**Armor class:** 48
+
+**Touch:** 37
+
+**Flat-footed:** 31
+
+**AC modifiers:** +16 Dex, +1 dodge, +10 insight, +11 natural
+
+**Hit points:** 731 (34d8+578)
+
+**Fort:** +28
+
+**Ref:** +27
+
+**Will:** +29
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, immortality,
 insanity (DC 40)
@@ -62,22 +76,12 @@ insanity (DC 40)
 
 **Fh:** 25
 
-**Fort:** +28
-
-**Hit points:** 731 (34d8+578)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain,
 mind-affecting effects, paralysis, petrification, sonic
-
-**Mod:** +16 Dex, +1 dodge, +10 insight, +11 natural
-
-**Ref:** +27
 
 **Resist:** acid 30, electricity 30, fire 30
 
 **Sr:** 40
-
-**Will:** +29
 
 **Offense**
 

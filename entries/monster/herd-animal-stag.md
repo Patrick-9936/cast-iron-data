@@ -45,13 +45,17 @@ _Majestic and graceful, this powerful animal has branching antlers atop it head.
 
 **Experience points:** 400
 
-**Armor class:** 13/13/10
+**Armor class:** 13
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 10
+
+**AC modifiers:** +3 Dex
 
 **Hit points:** 15 (2d8+6)
 
-**Mod:** +3 Dex
+**Fort:** +6
 
 **Ref:** +6
 

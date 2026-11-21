@@ -52,21 +52,25 @@ sparkling green eyes._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/10/26
+**Armor class:** 28
 
-**Fort:** +17
+**Touch:** 10
+
+**Flat-footed:** 26
+
+**AC modifiers:** +6 armor, +2 Dex, +12 natural, -2 size
 
 **Hit points:** 199 (19d8+114)
 
-**Immune:** electricity
-
-**Mod:** +6 armor, +2 Dex, +12 natural, -2 size
+**Fort:** +17
 
 **Ref:** +8
 
-**Rock Ct:** present
-
 **Will:** +13
+
+**Immune:** electricity
+
+**Rock Ct:** present
 
 **Offense**
 

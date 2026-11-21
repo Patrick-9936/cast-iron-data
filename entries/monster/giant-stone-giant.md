@@ -51,19 +51,23 @@ it were carved of stone._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/11/20
+**Armor class:** 22
 
-**Defensive abilities:** improved rock catching
+**Touch:** 11
 
-**Fort:** +12
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +11 natural, -1 size
 
 **Hit points:** 102 (12d8+48)
 
-**Mod:** +2 Dex, +11 natural, -1 size
+**Fort:** +12
 
 **Ref:** +6
 
 **Will:** +7
+
+**Defensive abilities:** improved rock catching
 
 **Offense**
 

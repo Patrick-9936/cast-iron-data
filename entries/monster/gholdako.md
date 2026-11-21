@@ -51,25 +51,29 @@ strips of bloody linen._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/9/25
+**Armor class:** 25
+
+**Touch:** 9
+
+**Flat-footed:** 25
+
+**AC modifiers:** +16 natural, -1 size
+
+**Hit points:** 127 (15d8+60)
+
+**Fort:** +9
+
+**Ref:** +5
+
+**Will:** +10
 
 **Chan Res:** +3
 
 **Dr:** 5/good
 
-**Fort:** +9
-
-**Hit points:** 127 (15d8+60)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +16 natural, -1 size
-
-**Ref:** +5
-
 **Resist:** cold 10, fire 10
-
-**Will:** +10
 
 **Offense**
 

@@ -56,7 +56,21 @@ dry, stretched skin._
 
 **Experience points:** 19,200
 
-**Armor class:** 21/11/21
+**Armor class:** 21
+
+**Touch:** 11
+
+**Flat-footed:** 21
+
+**AC modifiers:** +7 armor, +1 deflection, +3 natural
+
+**Hit points:** 97 (11d8+44)
+
+**Fort:** +7
+
+**Ref:** +3
+
+**Will:** +12
 
 **Chan Res:** +4
 
@@ -64,17 +78,7 @@ dry, stretched skin._
 
 **Dr:** 15/bludgeoning and magic
 
-**Fort:** +7
-
-**Hit points:** 97 (11d8+44)
-
 **Immune:** cold, electricity, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +7 armor, +1 deflection, +3 natural
-
-**Ref:** +3
-
-**Will:** +12
 
 **Offense**
 

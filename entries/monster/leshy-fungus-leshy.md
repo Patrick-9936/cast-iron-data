@@ -56,19 +56,23 @@ set with pale fungal teeth._
 
 **Experience points:** 600
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 15 (2d8+6)
 
-**Immune:** electricity, sonic, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +1 size
+**Fort:** +6
 
 **Ref:** +2
 
 **Will:** +2
+
+**Immune:** electricity, sonic, [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

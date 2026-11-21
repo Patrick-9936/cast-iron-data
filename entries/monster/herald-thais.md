@@ -56,31 +56,35 @@ halberd._
 
 **Experience points:** 51,200
 
-**Armor class:** 32/25/23
+**Armor class:** 32
+
+**Touch:** 25
+
+**Flat-footed:** 23
+
+**AC modifiers:** +7 deflection, +8 Dex, +1 dodge, +7 natural, -1 size
+
+**Hit points:** 195 (17d10+102)
+
+**Fort:** +17
+
+**Ref:** +21
+
+**Will:** +12
 
 **Defensive abilities:** armor of valor
 
 **Dr:** 15/lawful
 
-**Fort:** +17
-
-**Hit points:** 195 (17d10+102)
-
 **Immune:** electricity, fear, petrification
 
 **Improved evasion:** present
-
-**Mod:** +7 deflection, +8 Dex, +1 dodge, +7 natural, -1 size
-
-**Ref:** +21
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 26
 
 **Uncanny dodge:** present
-
-**Will:** +12
 
 **Offense**
 

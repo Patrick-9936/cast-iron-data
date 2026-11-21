@@ -47,13 +47,17 @@ _This massive lizard has pale, spotted flesh and spines around its face that for
 
 **Experience points:** 600
 
-**Armor class:** 15/11/13
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +4 natural, -1 size
 
 **Hit points:** 22 (3d10+6)
 
-**Mod:** +2 Dex, +4 natural, -1 size
+**Fort:** +5
 
 **Ref:** +5
 

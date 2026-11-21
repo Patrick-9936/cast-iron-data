@@ -50,23 +50,27 @@ _Fungus drips from this grotesque tree's ridged bark as its branches wave like b
 
 **Experience points:** 25,600
 
-**Armor class:** 28/8/28
+**Armor class:** 28
+
+**Touch:** 8
+
+**Flat-footed:** 28
+
+**AC modifiers:** +20 natural, -2 size
+
+**Hit points:** 184 (16d8+112)
+
+**Fort:** +17
+
+**Ref:** +7
+
+**Will:** +5
 
 **Defensive abilities:** all-around vision
 
 **Dr:** 10/slashing
 
-**Fort:** +17
-
-**Hit points:** 184 (16d8+112)
-
 **Immune:** [plant traits](ref/umr/plant-traits), poison
-
-**Mod:** +20 natural, -2 size
-
-**Ref:** +7
-
-**Will:** +5
 
 **Offense**
 

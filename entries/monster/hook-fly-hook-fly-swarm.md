@@ -51,21 +51,25 @@ miniscule, proboscises._
 
 **Experience points:** 400
 
-**Armor class:** 15/15/14
+**Armor class:** 15
 
-**Defensive abilities:** swarm traits
+**Touch:** 15
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 size
 
 **Hit points:** 11 (2d8+2)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** +1 Dex, +4 size
+**Fort:** +4
 
 **Ref:** +1
 
 **Will:** +0
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
 
 **Offense**
 

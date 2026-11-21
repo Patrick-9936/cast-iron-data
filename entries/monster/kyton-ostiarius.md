@@ -54,21 +54,25 @@ pleasure or titillating torture._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +2 natural, +4 shield
 
 **Hit points:** 52 (7d10+14)
 
-**Immune:** cold, magic missile
-
-**Mod:** +2 Dex, +2 natural, +4 shield
+**Fort:** +7
 
 **Ref:** +4
 
-**Regen:** 2 (good weapons and spells)
-
 **Will:** +11
+
+**Immune:** cold, magic missile
+
+**Regen:** 2 (good weapons and spells)
 
 **Offense**
 

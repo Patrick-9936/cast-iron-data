@@ -48,19 +48,23 @@ of a fox from the neck up._
 
 **Experience points:** 600
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Defensive abilities:** drift
+**Touch:** 14
 
-**Fort:** +3
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 16 (3d10)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +3
 
 **Ref:** +5
 
 **Will:** +1
+
+**Defensive abilities:** drift
 
 **Offense**
 

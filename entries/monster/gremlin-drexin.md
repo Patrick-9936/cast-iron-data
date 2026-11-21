@@ -50,19 +50,23 @@ darkness._
 
 **Experience points:** 600
 
-**Armor class:** 16/15/12
+**Armor class:** 16
 
-**Dr:** 5/cold iron
+**Touch:** 15
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +4 Dex, +1 natural, +1 size
 
 **Hit points:** 16 (3d6+6)
 
-**Mod:** +4 Dex, +1 natural, +1 size
+**Fort:** +2
 
 **Ref:** +7
 
 **Will:** +5
+
+**Dr:** 5/cold iron
 
 **Offense**
 

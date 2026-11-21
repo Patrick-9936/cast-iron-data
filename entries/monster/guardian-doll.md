@@ -51,27 +51,31 @@ disturbing curiosity._
 
 **Experience points:** 800
 
-**Armor class:** 16/15/13
+**Armor class:** 16
 
-**Dr:** 5/magic
+**Touch:** 15
 
-**Fort:** +1
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 natural, +2 size
 
 **Hit points:** 22 (4d10)
 
-**Immune:** cold, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +1 natural, +2 size
+**Fort:** +1
 
 **Ref:** +4
+
+**Will:** +2
+
+**Dr:** 5/magic
+
+**Immune:** cold, [construct traits](ref/umr/construct-traits)
 
 **Sr:** 14
 
 **Vulner:** fire
 
 **Weaknesses:** susceptible to mind-affecting effects
-
-**Will:** +2
 
 **Offense**
 

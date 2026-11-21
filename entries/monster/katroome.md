@@ -46,13 +46,17 @@ _This large, plump caterpillar is brilliantly colored and has a strangely self-i
 
 **Experience points:** 400
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 11 (2d10)
 
-**Mod:** +2 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +5
 

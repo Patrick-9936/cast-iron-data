@@ -52,19 +52,23 @@ _This muscular, fiery-skinned man has flaming hair and spotted horns upon his br
 
 **Experience points:** 200
 
-**Armor class:** 13/13/10
+**Armor class:** 13
 
-**Fort:** +1
+**Touch:** 13
+
+**Flat-footed:** 10
+
+**AC modifiers:** +3 Dex
 
 **Hit points:** 8 (1d6+2)
 
-**Mod:** +3 Dex
+**Fort:** +1
 
 **Ref:** +3
 
-**Resist:** fire 5
-
 **Will:** +0
+
+**Resist:** fire 5
 
 **Offense**
 

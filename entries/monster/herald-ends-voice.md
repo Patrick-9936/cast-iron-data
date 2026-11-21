@@ -51,27 +51,31 @@ ground on footless legs as its menacing flail crackles with blue currents of ele
 
 **Experience points:** 51,200
 
-**Armor class:** 31/15/27
+**Armor class:** 31
+
+**Touch:** 15
+
+**Flat-footed:** 27
+
+**AC modifiers:** +3 Dex, +1 dodge, +2 insight, +16 natural, -1 size; never surprised or flat-footed
+
+**Hit points:** 225 (18d10+126)
+
+**Fort:** +18
+
+**Ref:** +11
+
+**Will:** +19
 
 **Dr:** 10/law and magic
 
 **Fh:** 5
 
-**Fort:** +18
-
-**Hit points:** 225 (18d10+126)
-
 **Immune:** confusion, insanity
-
-**Mod:** +3 Dex, +1 dodge, +2 insight, +16 natural, -1 size; never surprised or flat-footed
-
-**Ref:** +11
 
 **Resist:** acid 30, cold 30, electricity 30, fire 30
 
 **Sr:** 26
-
-**Will:** +19
 
 **Offense**
 

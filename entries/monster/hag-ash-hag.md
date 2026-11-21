@@ -49,21 +49,25 @@ peppered with globs of what appear to be ashes._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +6 natural
 
 **Hit points:** 52 (7d10+14)
 
-**Immune:** fire
-
-**Mod:** +1 Dex, +6 natural
+**Fort:** +4
 
 **Ref:** +6
 
-**Sr:** 16
-
 **Will:** +9
+
+**Immune:** fire
+
+**Sr:** 16
 
 **Offense**
 

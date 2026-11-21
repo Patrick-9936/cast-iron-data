@@ -48,13 +48,17 @@ clearly expecting a treat._
 
 **Experience points:** 200
 
-**Armor class:** 11/11/10
+**Armor class:** 11
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 10
+
+**AC modifiers:** +1 Dex
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +1 Dex
+**Fort:** +5
 
 **Ref:** +4
 

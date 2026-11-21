@@ -50,25 +50,29 @@ moves, the air around it thrums with a high-pitched wail._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/11/26
+**Armor class:** 29
 
-**Dr:** 10/magic
+**Touch:** 11
 
-**Fort:** +19
+**Flat-footed:** 26
+
+**AC modifiers:** +3 Dex, +18 natural, -2 size
 
 **Hit points:** 261 (18d12+141)
 
-**Immune:** dragon traits, magic paralysis, sleep, sonic
-
-**Mod:** +3 Dex, +18 natural, -2 size
+**Fort:** +19
 
 **Ref:** +16
+
+**Will:** +13
+
+**Dr:** 10/magic
+
+**Immune:** dragon traits, magic paralysis, sleep, sonic
 
 **Resist:** acid 10, cold 10, electricity 10, fire 10
 
 **Sr:** 26
-
-**Will:** +13
 
 **Offense**
 

@@ -49,27 +49,31 @@ hooked sword._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/12/18
+**Armor class:** 20
+
+**Touch:** 12
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 natural
+
+**Hit points:** 53 (6d10+20)
+
+**Fort:** +2
+
+**Ref:** +4
+
+**Will:** +3
 
 **Dr:** 5/adamantine
 
 **Fh:** 2
 
-**Fort:** +2
-
-**Hit points:** 53 (6d10+20)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +8 natural
-
-**Ref:** +4
 
 **Sr:** 16
 
 **Weaknesses:** faith bound
-
-**Will:** +3
 
 **Offense**
 

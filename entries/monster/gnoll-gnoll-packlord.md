@@ -51,23 +51,27 @@ abilities = ["24", "13", "21", "8", "12", "6"]
 **Subtype:** Gnoll\
 **Experience points:** 6,400
 
-**Armor class:** 18/9/17
+**Armor class:** 18
 
-**Dr:** 1/-
+**Touch:** 9
 
-**Fort:** +16
+**Flat-footed:** 17
+
+**AC modifiers:** +7 armor, +1 Dex, +2 natural, -2 rage
 
 **Hit points:** 124 (2d8+8d12+58\~10)
 
-**Improved uncanny dodge:** present
-
-**Mod:** +7 armor, +1 Dex, +2 natural, -2 rage
+**Fort:** +16
 
 **Ref:** +5
 
-**Trap S:** +2
-
 **Will:** +7
+
+**Dr:** 1/-
+
+**Improved uncanny dodge:** present
+
+**Trap S:** +2
 
 **Offense**
 

@@ -55,21 +55,25 @@ dominate its avian face._
 
 **Experience points:** 6,400
 
-**Armor class:** 19/15/14
+**Armor class:** 19
 
-**Dr:** 10/evil or magic
+**Touch:** 15
 
-**Fort:** +8
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +4 natural
 
 **Hit points:** 115 (11d10+55)
 
-**Mod:** +5 Dex, +4 natural
+**Fort:** +8
 
 **Ref:** +12
 
-**Sr:** 21
-
 **Will:** +9
+
+**Dr:** 10/evil or magic
+
+**Sr:** 21
 
 **Offense**
 

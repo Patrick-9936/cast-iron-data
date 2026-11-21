@@ -53,25 +53,29 @@ resembles a dead giant with the head of an oversized boar._
 
 **Experience points:** 102,400
 
-**Armor class:** 33/9/30
+**Armor class:** 33
 
-**Dr:** 10/good
+**Touch:** 9
 
-**Fort:** +19
+**Flat-footed:** 30
+
+**AC modifiers:** +11 armor, +3 Dex, +13 natural, -4 size
 
 **Hit points:** 241 (21d8+147)
 
-**Immune:** acid, death effects
-
-**Mod:** +11 armor, +3 Dex, +13 natural, -4 size
+**Fort:** +19
 
 **Ref:** +11
+
+**Will:** +15
+
+**Dr:** 10/good
+
+**Immune:** acid, death effects
 
 **Resist:** cold 10, electricity 10, fire 10, sonic 10
 
 **Rock Ct:** present
-
-**Will:** +15
 
 **Offense**
 

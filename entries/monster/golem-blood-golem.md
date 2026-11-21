@@ -50,25 +50,29 @@ form._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/14/16
+**Armor class:** 20
+
+**Touch:** 14
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +6 natural
+
+**Hit points:** 64 (8d10+20)
+
+**Fort:** +2
+
+**Ref:** +6
+
+**Will:** +4
 
 **Amorph:** present
 
 **Dr:** 5/bludgeoning
 
-**Fort:** +2
-
-**Hit points:** 64 (8d10+20)
-
 **Immune:** [construct traits](ref/umr/construct-traits), magic
 
-**Mod:** +4 Dex, +6 natural
-
-**Ref:** +6
-
 **Weaknesses:** vulnerable to bleed
-
-**Will:** +4
 
 **Offense**
 

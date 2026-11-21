@@ -49,23 +49,27 @@ sets of fangs._
 
 **Experience points:** 25,600
 
-**Armor class:** 22/10/20
+**Armor class:** 22
+
+**Touch:** 10
+
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +12 natural, -2 size
+
+**Hit points:** 138 (12d10+72)
+
+**Fort:** +15
+
+**Ref:** +12
+
+**Will:** +7
 
 **Dr:** 10/cold iron
 
 **Fh:** 12
 
-**Fort:** +15
-
-**Hit points:** 138 (12d10+72)
-
 **Immune:** disease, poison
-
-**Mod:** +2 Dex, +12 natural, -2 size
-
-**Ref:** +12
-
-**Will:** +7
 
 **Offense**
 

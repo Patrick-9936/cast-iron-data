@@ -50,21 +50,25 @@ of different-sized fangs. As it hisses, lightning slashes the storm-gray sky beh
 
 **Experience points:** 25,600
 
-**Armor class:** 28/10/24
+**Armor class:** 28
 
-**Dr:** 10/magic
+**Touch:** 10
 
-**Fort:** +15
+**Flat-footed:** 24
+
+**AC modifiers:** +3 Dex, +1 dodge, +18 natural, -4 size
 
 **Hit points:** 178 (17d10+85)
 
-**Immune:** electricity, poison
-
-**Mod:** +3 Dex, +1 dodge, +18 natural, -4 size
+**Fort:** +15
 
 **Ref:** +15
 
 **Will:** +10
+
+**Dr:** 10/magic
+
+**Immune:** electricity, poison
 
 **Offense**
 

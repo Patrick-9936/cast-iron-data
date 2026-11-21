@@ -54,21 +54,25 @@ brawny and exceptionally broad._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/17/19
+**Armor class:** 26
 
-**Dr:** 10/-
+**Touch:** 17
 
-**Fort:** +9
+**Flat-footed:** 19
+
+**AC modifiers:** +6 Dex, +1 dodge, +9 natural
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** elemental traits
-
-**Mod:** +6 Dex, +1 dodge, +9 natural
+**Fort:** +9
 
 **Ref:** +15
 
 **Will:** +12
+
+**Dr:** 10/-
+
+**Immune:** elemental traits
 
 **Offense**
 

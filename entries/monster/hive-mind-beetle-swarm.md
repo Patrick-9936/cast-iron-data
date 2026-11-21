@@ -51,23 +51,27 @@ leaping from insect to insect. The patterns on their wings resemble humanoid eye
 
 **Experience points:** 25,600
 
-**Armor class:** 25/25/14
+**Armor class:** 25
 
-**Defensive abilities:** swarm traits
+**Touch:** 25
 
-**Fort:** +16
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +8 dodge, +4 size
 
 **Hit points:** 170 (20d10+60)
 
-**Immune:** electricity, weapon damage
-
-**Mod:** +3 Dex, +8 dodge, +4 size
+**Fort:** +16
 
 **Ref:** +15
 
-**Weaknesses:** exposed nerves
-
 **Will:** +9
+
+**Defensive abilities:** swarm traits
+
+**Immune:** electricity, weapon damage
+
+**Weaknesses:** exposed nerves
 
 **Offense**
 

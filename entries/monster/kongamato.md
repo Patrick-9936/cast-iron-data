@@ -49,25 +49,29 @@ scream as it descends._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/11/26
+**Armor class:** 29
 
-**Dr:** 10/magic
+**Touch:** 11
 
-**Fort:** +19
+**Flat-footed:** 26
+
+**AC modifiers:** +3 Dex, +18 natural, -2 size
 
 **Hit points:** 261 (18d12+144)
 
-**Immune:** magic paralysis and sleep
-
-**Mod:** +3 Dex, +18 natural, -2 size
+**Fort:** +19
 
 **Ref:** +16
+
+**Will:** +13
+
+**Dr:** 10/magic
+
+**Immune:** magic paralysis and sleep
 
 **Resist:** acid 10, cold 10, electricity 10, fire 10
 
 **Sr:** 26
-
-**Will:** +13
 
 **Offense**
 

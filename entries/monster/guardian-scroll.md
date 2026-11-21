@@ -50,25 +50,29 @@ _This innocuous-looking scroll flits about with serpentine grace, baring its raz
 
 **Experience points:** 800
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Dr:** 5/magic
+**Touch:** 15
 
-**Fort:** +1
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 dodge, +2 size
 
 **Hit points:** 27 (5d10)
 
-**Immune:** bludgeoning, crushing, and falling damage, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +1 dodge, +2 size
+**Fort:** +1
 
 **Ref:** +5
+
+**Will:** +1
+
+**Dr:** 5/magic
+
+**Immune:** bludgeoning, crushing, and falling damage, [construct traits](ref/umr/construct-traits)
 
 **Vulner:** fire
 
 **Weaknesses:** susceptible to mind-affecting effects
-
-**Will:** +1
 
 **Offense**
 

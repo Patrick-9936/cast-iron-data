@@ -48,23 +48,27 @@ _This regal woman exhibits the grace and pride of the forest's most ancient tree
 
 **Experience points:** 51,200
 
-**Armor class:** 29/17/22
+**Armor class:** 29
+
+**Touch:** 17
+
+**Flat-footed:** 22
+
+**AC modifiers:** +6 Dex, +1 dodge, +12 natural
+
+**Hit points:** 190 (20d6+120)
+
+**Fort:** +12
+
+**Ref:** +18
+
+**Will:** +18
 
 **Dr:** 10/cold iron
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 190 (20d6+120)
-
-**Mod:** +6 Dex, +1 dodge, +12 natural
-
-**Ref:** +18
-
 **Resist:** acid 30, cold 30, electricity 30
-
-**Will:** +18
 
 **Offense**
 

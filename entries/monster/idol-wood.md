@@ -52,23 +52,27 @@ primeval scowl._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/14
+**Armor class:** 14
 
-**Fort:** +0
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 size
 
 **Hit points:** 11 (2d10)
 
-**Mod:** +4 size
+**Fort:** +0
 
 **Ref:** +0
+
+**Will:** +1
 
 **Regen:** 5 (on natural ground)
 
 **Resist:** cold 5, electricity 5
 
 **Vulner:** fire
-
-**Will:** +1
 
 **Offense**
 

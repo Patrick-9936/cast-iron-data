@@ -51,23 +51,27 @@ face and neck, soaking its tangled white beard; in its arms looms a rusty but cl
 
 **Experience points:** 12,800
 
-**Armor class:** 26/14/22
+**Armor class:** 26
+
+**Touch:** 14
+
+**Flat-footed:** 22
+
+**AC modifiers:** +2 armor, +4 Dex, +10 natural
+
+**Hit points:** 147 (14d6+98)
+
+**Fort:** +10
+
+**Ref:** +13
+
+**Will:** +9
 
 **Dr:** 10/cold iron
 
 **Fh:** 5
 
-**Fort:** +10
-
-**Hit points:** 147 (14d6+98)
-
-**Mod:** +2 armor, +4 Dex, +10 natural
-
-**Ref:** +13
-
 **Weaknesses:** irreligious
-
-**Will:** +9
 
 **Offense**
 

@@ -51,27 +51,31 @@ _Within this elaborate suit of armor can be seen the partial form of a determine
 
 **Experience points:** 9,600
 
-**Armor class:** 23/13/20
+**Armor class:** 23
+
+**Touch:** 13
+
+**Flat-footed:** 20
+
+**AC modifiers:** +6 armor, +3 Dex, +4 natural
+
+**Hit points:** 123 (13d10+52)
+
+**Fort:** +8
+
+**Ref:** +13
+
+**Will:** +14
 
 **Dr:** 10/cold iron
 
 **Fh:** 5
 
-**Fort:** +8
-
-**Hit points:** 123 (13d10+52)
-
 **Immune:** bleed, mind-affecting effects, petrification, polymorph
-
-**Mod:** +6 armor, +3 Dex, +4 natural
-
-**Ref:** +13
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 21
-
-**Will:** +14
 
 **Offense**
 

@@ -53,21 +53,25 @@ nearly the length of a human._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/13/20
+**Armor class:** 24
 
-**Fort:** +9
+**Touch:** 13
+
+**Flat-footed:** 20
+
+**AC modifiers:** +2 armor, +3 Dex, +1 dodge, +9 natural, -1 size
 
 **Hit points:** 123 (13d8+65)
 
-**Immune:** fire
-
-**Mod:** +2 armor, +3 Dex, +1 dodge, +9 natural, -1 size
+**Fort:** +9
 
 **Ref:** +11
 
-**Rock Ct:** present
-
 **Will:** +5
+
+**Immune:** fire
+
+**Rock Ct:** present
 
 **Offense**
 

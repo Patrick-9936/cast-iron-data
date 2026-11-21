@@ -48,19 +48,23 @@ behind it._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/11
+**Armor class:** 14
 
-**Fort:** +6
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
 
 **Hit points:** 15 (2d8+6)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex, +1 size
+**Fort:** +6
 
 **Ref:** +3
 
 **Will:** +1
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

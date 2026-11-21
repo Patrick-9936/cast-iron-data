@@ -51,19 +51,23 @@ from its flesh._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/13/17
+**Armor class:** 21
 
-**Fort:** +7
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** fire
-
-**Mod:** +3 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +7
 
 **Ref:** +10
 
 **Will:** +9
+
+**Immune:** fire
 
 **Offense**
 

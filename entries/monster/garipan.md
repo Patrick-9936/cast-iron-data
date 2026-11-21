@@ -50,25 +50,29 @@ The molten core in the creature's torso glows through rugged cracks in its dark 
 
 **Experience points:** 9,600
 
-**Armor class:** 23/13/20
+**Armor class:** 23
 
-**Dr:** 5/-
+**Touch:** 13
 
-**Fort:** +13
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +1 dodge, +10 natural
 
 **Hit points:** 133 (14d10+56)
 
-**Immune:** poison
-
-**Mod:** +2 Dex, +1 dodge, +10 natural
+**Fort:** +13
 
 **Ref:** +8
+
+**Will:** +11
+
+**Dr:** 5/-
+
+**Immune:** poison
 
 **Resist:** acid 5, cold 5, fire 5
 
 **Vulner:** sonic
-
-**Will:** +11
 
 **Offense**
 

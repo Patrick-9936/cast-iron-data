@@ -48,23 +48,27 @@ _Carved from gray stone, this enormous figure is shaped like the head of some pr
 
 **Experience points:** 4,800
 
-**Armor class:** 20/6/20
+**Armor class:** 20
 
-**Dr:** 10/adamantine
+**Touch:** 6
 
-**Fort:** +3
+**Flat-footed:** 20
+
+**AC modifiers:** -2 Dex, +14 natural, -2 size
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** -2 Dex, +14 natural, -2 size
+**Fort:** +3
 
 **Ref:** +1
 
-**Weaknesses:** susceptible to mind-affecting effects
-
 **Will:** +6
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Weaknesses:** susceptible to mind-affecting effects
 
 **Offense**
 
