@@ -55,25 +55,29 @@ between its yellowed fangs._
 
 **Experience points:** 2,400
 
-**Armor class:** 23/15/18
+**Armor class:** 23
 
-**Dr:** 5/good
+**Touch:** 15
 
-**Fort:** +8
+**Flat-footed:** 18
+
+**AC modifiers:** +4 Dex, +1 dodge, +8 natural
 
 **Hit points:** 59 (7d10+21)
 
-**Immune:** fire, poison
-
-**Mod:** +4 Dex, +1 dodge, +8 natural
+**Fort:** +8
 
 **Ref:** +9
+
+**Will:** +3
+
+**Dr:** 5/good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 17
-
-**Will:** +3
 
 **Offense**
 

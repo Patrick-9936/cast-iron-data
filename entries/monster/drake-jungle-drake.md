@@ -54,19 +54,23 @@ menacing stinger._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/15
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +1 dodge, +6 natural, -1 size
 
 **Hit points:** 73 (7d12+28)
 
-**Immune:** disease, poison, paralysis, sleep
-
-**Mod:** +3 Dex, +1 dodge, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +8
 
 **Will:** +6
+
+**Immune:** disease, poison, paralysis, sleep
 
 **Offense**
 

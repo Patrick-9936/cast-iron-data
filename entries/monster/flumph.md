@@ -51,13 +51,17 @@ either side of its puckered mouth._
 
 **Experience points:** 400
 
-**Armor class:** 18/14/15
+**Armor class:** 18
 
-**Fort:** +0
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +4 natural, +1 size
 
 **Hit points:** 9 (2d8)
 
-**Mod:** +3 Dex, +4 natural, +1 size
+**Fort:** +0
 
 **Ref:** +3
 

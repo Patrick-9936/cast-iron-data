@@ -55,30 +55,34 @@ golden armor._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 44/30/35
+**Armor class:** 44
+
+**Touch:** 30
+
+**Flat-footed:** 35
+
+**AC modifiers:** +14 armor, +4 deflection, +9 Dex, +9 sacred, -2 size
+
+**Hit points:** 604 (31d10+434)
+
+**Fort:** +35
+
+**Ref:** +23
+
+**Will:** +27; +4 vs. poison
 
 **Defensive abilities:** golden armor, righteous mantle
 
 **Dr:** 20/epic and evil
 
-**Fort:** +35
-
-**Hit points:** 604 (31d10+434)
-
 **Immune:** ability damage, ability drain, acid, charm effects, cold, compulsion effects, death
 effects, energy drain, fire, petrification
-
-**Mod:** +14 armor, +4 deflection, +9 Dex, +9 sacred, -2 size
-
-**Ref:** +23
 
 **Regen:** 20 (deific or mythic)
 
 **Resist:** electricity 30
 
 **Sr:** 37
-
-**Will:** +27; +4 vs. poison
 
 **Offense**
 

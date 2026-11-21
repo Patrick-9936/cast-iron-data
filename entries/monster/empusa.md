@@ -52,25 +52,29 @@ whip._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/18/20
+**Armor class:** 28
+
+**Touch:** 18
+
+**Flat-footed:** 20
+
+**AC modifiers:** +8 Dex, +10 natural
+
+**Hit points:** 174 (12d10+108)
+
+**Fort:** +17
+
+**Ref:** +16
+
+**Will:** +10
 
 **Dr:** 10/lawful
 
 **Fh:** 5
 
-**Fort:** +17
-
-**Hit points:** 174 (12d10+108)
-
 **Immune:** disease, electricity, poison
 
-**Mod:** +8 Dex, +10 natural
-
-**Ref:** +16
-
 **Sr:** 24
-
-**Will:** +10
 
 **Offense**
 

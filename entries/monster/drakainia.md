@@ -57,25 +57,29 @@ tumors and writing tentacles._
 
 **Experience points:** 1,638,400
 
-**Armor class:** 48/13/43
+**Armor class:** 48
 
-**Dr:** 10/epic
+**Touch:** 13
 
-**Fort:** +28
+**Flat-footed:** 43
+
+**AC modifiers:** +5 Dex, +35 natural, -2 size
 
 **Hit points:** 642 (25d8+530)
 
-**Immune:** bleed, disease, poison, polymorph effects
-
-**Mod:** +5 Dex, +35 natural, -2 size
+**Fort:** +28
 
 **Ref:** +15
+
+**Will:** +21
+
+**Dr:** 10/epic
+
+**Immune:** bleed, disease, poison, polymorph effects
 
 **Regen:** 10 (negative energy)
 
 **Sr:** 36
-
-**Will:** +21
 
 **Offense**
 

@@ -50,21 +50,25 @@ In one hand, he clutches a great blade, while his other hand holds an idol of so
 
 **Experience points:** 1,600
 
-**Armor class:** 20/12/18
+**Armor class:** 20
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 18
+
+**AC modifiers:** +7 armor, +2 Dex, +1 natural
 
 **Hit points:** 59 (4d8+3d10+25\~7)
 
-**Immune:** disease, poison
-
-**Mod:** +7 armor, +2 Dex, +1 natural
+**Fort:** +9
 
 **Ref:** +8
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +14
+
+**Immune:** disease, poison
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

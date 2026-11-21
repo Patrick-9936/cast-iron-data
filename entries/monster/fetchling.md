@@ -52,21 +52,25 @@ _This gaunt man appears drained of color, like a person viewed at twilight or in
 
 **Experience points:** 200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Defensive abilities:** shadow bending
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +4 armor, +3 Dex
 
 **Hit points:** 10 (1d8+2)
 
-**Mod:** +4 armor, +3 Dex
+**Fort:** +2
 
 **Ref:** +5
 
-**Resist:** cold 5, electricity 5
-
 **Will:** -1
+
+**Defensive abilities:** shadow bending
+
+**Resist:** cold 5, electricity 5
 
 **Offense**
 

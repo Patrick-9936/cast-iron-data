@@ -55,27 +55,31 @@ limbs and writhing tendrils._
 
 **Experience points:** 76,800
 
-**Armor class:** 29/17/21
+**Armor class:** 29
+
+**Touch:** 17
+
+**Flat-footed:** 21
+
+**AC modifiers:** +7 Dex, +1 dodge, +12 natural, -1 size
+
+**Hit points:** 212 (17d10+119)
+
+**Fort:** +12
+
+**Ref:** +17
+
+**Will:** +14
 
 **Defensive abilities:** displacement
 
 **Dr:** 10/good and silver
 
-**Fort:** +12
-
-**Hit points:** 212 (17d10+119)
-
 **Immune:** acid, death effects, disease, poison
-
-**Mod:** +7 Dex, +1 dodge, +12 natural, -1 size
-
-**Ref:** +17
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 27
-
-**Will:** +14
 
 **Offense**
 

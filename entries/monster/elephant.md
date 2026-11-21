@@ -46,13 +46,17 @@ _These thick-skinned animals bear large ivory tusks flanking a long, prehensile 
 
 **Experience points:** 3,200
 
-**Armor class:** 17/8/17
+**Armor class:** 17
 
-**Fort:** +13
+**Touch:** 8
+
+**Flat-footed:** 17
+
+**AC modifiers:** +9 natural, -2 size
 
 **Hit points:** 93 (11d8+44)
 
-**Mod:** +9 natural, -2 size
+**Fort:** +13
 
 **Ref:** +7
 

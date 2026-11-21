@@ -57,31 +57,35 @@ seeing
 
 **Experience points:** 9,830,400
 
-**Armor class:** 48/22/35
+**Armor class:** 48
+
+**Touch:** 22
+
+**Flat-footed:** 35
+
+**AC modifiers:** +12 Dex, +1 dodge, +26 natural, -1 size
+
+**Hit points:** 663 (34d10+476)
+
+**Fort:** +25
+
+**Ref:** +31
+
+**Will:** +25
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, lightning rod,
 unbound
 
 **Dr:** 15/epic and evil
 
-**Fort:** +25
-
-**Hit points:** 663 (34d10+476)
-
 **Immune:** ability damage, ability drain, charm effects, compulsion effects, death effects,
 electricity, energy drain, petrification
-
-**Mod:** +12 Dex, +1 dodge, +26 natural, -1 size
-
-**Ref:** +31
 
 **Regen:** 10 (evil artifacts, effects, and spells)
 
 **Resist:** cold 30, fire 30
 
 **Sr:** 41
-
-**Will:** +25
 
 **Offense**
 

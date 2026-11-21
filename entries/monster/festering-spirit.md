@@ -53,23 +53,27 @@ _This ghost-like creature reeks of the grave and drips with putrescent goo._
 
 **Experience points:** 4,800
 
-**Armor class:** 18/18/12
+**Armor class:** 18
 
-**Chan Res:** +2
+**Touch:** 18
 
-**Fort:** +5
+**Flat-footed:** 12
+
+**AC modifiers:** +2 deflection, +5 Dex, +1 dodge
 
 **Hit points:** 58 (9d8+18)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +2 deflection, +5 Dex, +1 dodge
+**Fort:** +5
 
 **Ref:** +8
 
 **Will:** +7
+
+**Chan Res:** +2
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

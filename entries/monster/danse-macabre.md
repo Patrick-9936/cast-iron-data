@@ -58,27 +58,31 @@ eerie crowd of dancing specters looms a dark-cloaked figure wielding a scythe._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/29/19
+**Armor class:** 29
+
+**Touch:** 29
+
+**Flat-footed:** 19
+
+**AC modifiers:** +10 deflection, +9 Dex, +1 dodge, -1 size
+
+**Hit points:** 203 (14d8+140)
+
+**Fort:** +14
+
+**Ref:** +13
+
+**Will:** +17
 
 **Chan Res:** +4
 
 **Defensive abilities:** deathless
 
-**Fort:** +14
-
-**Hit points:** 203 (14d8+140)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +10 deflection, +9 Dex, +1 dodge, -1 size
-
-**Ref:** +13
-
 **Sr:** 25
-
-**Will:** +17
 
 **Offense**
 

@@ -54,21 +54,25 @@ its lissome back._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/11/19
+**Armor class:** 21
 
-**Fort:** +11
+**Touch:** 11
+
+**Flat-footed:** 19
+
+**AC modifiers:** +2 Dex, +10 natural, -1 size
 
 **Hit points:** 103 (9d12+45)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +2 Dex, +10 natural, -1 size
+**Fort:** +11
 
 **Ref:** +8
 
-**Resist:** electricity 20
-
 **Will:** +8
+
+**Immune:** paralysis, sleep
+
+**Resist:** electricity 20
 
 **Offense**
 

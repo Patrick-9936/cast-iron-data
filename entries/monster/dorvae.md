@@ -51,23 +51,27 @@ nightmare._
 
 **Experience points:** 12,800
 
-**Armor class:** 24/16/18
+**Armor class:** 24
 
-**Dr:** 10/good
+**Touch:** 16
 
-**Fort:** +8
+**Flat-footed:** 18
+
+**AC modifiers:** +5 Dex, +1 dodge, +8 natural
 
 **Hit points:** 123 (13d10+52)
 
-**Immune:** mind-affecting effects, poison
-
-**Mod:** +5 Dex, +1 dodge, +8 natural
+**Fort:** +8
 
 **Ref:** +13
 
-**Sr:** 22
-
 **Will:** +10
+
+**Dr:** 10/good
+
+**Immune:** mind-affecting effects, poison
+
+**Sr:** 22
 
 **Offense**
 

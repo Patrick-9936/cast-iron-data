@@ -55,26 +55,30 @@ a half-melted man._
 
 **Experience points:** 19,200
 
-**Armor class:** 28/18/20
+**Armor class:** 28
 
-**Dr:** 10/good
+**Touch:** 18
+
+**Flat-footed:** 20
+
+**AC modifiers:** +7 Dex, +1 dodge, +10 natural
+
+**Hit points:** 162 (13d10+91)
 
 **Fort:** +15
 
-**Hit points:** 162 (13d10+91)
+**Ref:** +13
+
+**Will:** +12
+
+**Dr:** 10/good
 
 **Immune:** acid, critical hits, disease, electricity, paralysis, poison, polymorph, sleep effects,
 stunning
 
-**Mod:** +7 Dex, +1 dodge, +10 natural
-
-**Ref:** +13
-
 **Resist:** cold 10, fire 10
 
 **Sr:** 23
-
-**Will:** +12
 
 **Offense**
 

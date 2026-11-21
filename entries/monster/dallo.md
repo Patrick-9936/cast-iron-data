@@ -48,13 +48,17 @@ woolly underside._
 
 **Experience points:** 400
 
-**Armor class:** 14/11/14
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 natural, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +3 natural, +1 size
+**Fort:** +5
 
 **Ref:** +3
 

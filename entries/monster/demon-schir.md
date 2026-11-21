@@ -49,25 +49,29 @@ muscled frame._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/12/17
+**Armor class:** 19
 
-**Dr:** 5/cold iron or good
+**Touch:** 12
 
-**Fort:** +6
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +7 natural
 
 **Hit points:** 37 (5d10+10)
 
-**Immune:** disease, electricity, poison
-
-**Mod:** +2 Dex, +7 natural
+**Fort:** +6
 
 **Ref:** +3
+
+**Will:** +3
+
+**Dr:** 5/cold iron or good
+
+**Immune:** disease, electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 15
-
-**Will:** +3
 
 **Offense**
 

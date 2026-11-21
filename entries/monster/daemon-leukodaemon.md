@@ -56,25 +56,29 @@ rotting wings of a carrion bird._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/16/16
+**Armor class:** 23
 
-**Dr:** 10/good or silver
+**Touch:** 16
 
-**Fort:** +9
+**Flat-footed:** 16
+
+**AC modifiers:** +7 Dex, +7 natural, -1 size
 
 **Hit points:** 115 (10d10+60)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +7 Dex, +7 natural, -1 size
+**Fort:** +9
 
 **Ref:** +14
+
+**Will:** +12
+
+**Dr:** 10/good or silver
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 20
-
-**Will:** +12
 
 **Offense**
 

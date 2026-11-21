@@ -53,19 +53,23 @@ wings are sheets of flexible glass._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/12/18
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 12
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 natural
 
 **Hit points:** 66 (7d12+21)
 
-**Immune:** paralysis, sleep, sonic
-
-**Mod:** +2 Dex, +8 natural
+**Fort:** +10
 
 **Ref:** +9
 
 **Will:** +6
+
+**Immune:** paralysis, sleep, sonic
 
 **Offense**
 

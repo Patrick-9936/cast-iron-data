@@ -44,19 +44,23 @@ dream._
 
 **Experience points:** 0
 
-**Armor class:** 15/15/14
+**Armor class:** 15
 
-**Fort:** -1
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 size
 
 **Hit points:** 1 (1d8-3)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +4 size
+**Fort:** -1
 
 **Ref:** +1
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

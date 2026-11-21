@@ -50,19 +50,23 @@ but filled with sharp teeth._
 
 **Experience points:** 6,400
 
-**Armor class:** 20/9/20
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 9
+
+**Flat-footed:** 20
+
+**AC modifiers:** +11 natural, -1 size
 
 **Hit points:** 95 (10d12+30)
 
-**Immune:** electricity, paralysis, sleep
-
-**Mod:** +11 natural, -1 size
+**Fort:** +10
 
 **Ref:** +7
 
 **Will:** +10
+
+**Immune:** electricity, paralysis, sleep
 
 **Offense**
 

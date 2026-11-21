@@ -55,25 +55,29 @@ pulsating mound of fungus._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/20
+**Armor class:** 23
 
-**Dr:** 10/cold iron or good
+**Touch:** 13
 
-**Fort:** +13
+**Flat-footed:** 20
+
+**AC modifiers:** +3 Dex, +10 natural
 
 **Hit points:** 114 (12d8+60)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex, +10 natural
+**Fort:** +13
 
 **Ref:** +7
+
+**Will:** +7
+
+**Dr:** 10/cold iron or good
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits)
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 20
-
-**Will:** +7
 
 **Offense**
 

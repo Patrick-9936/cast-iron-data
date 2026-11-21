@@ -47,13 +47,17 @@ that runs down its back._
 
 **Experience points:** 12,800
 
-**Armor class:** 24/8/22
+**Armor class:** 24
 
-**Fort:** +16
+**Touch:** 8
+
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +16 natural, -4 size
 
 **Hit points:** 170 (20d8+80)
 
-**Mod:** +2 Dex, +16 natural, -4 size
+**Fort:** +16
 
 **Ref:** +16
 

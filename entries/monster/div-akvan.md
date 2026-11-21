@@ -53,25 +53,29 @@ crowning its broad head._
 
 **Experience points:** 307,200
 
-**Armor class:** 38/10/34
+**Armor class:** 38
 
-**Dr:** 15/cold iron and good
+**Touch:** 10
 
-**Fort:** +18
+**Flat-footed:** 34
+
+**AC modifiers:** +13 armor, +4 Dex, +15 natural, -4 size
 
 **Hit points:** 372 (24d10+240)
 
-**Immune:** fire, poison
-
-**Mod:** +13 armor, +4 Dex, +15 natural, -4 size
+**Fort:** +18
 
 **Ref:** +22
+
+**Will:** +21
+
+**Dr:** 15/cold iron and good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 31
-
-**Will:** +21
 
 **Offense**
 

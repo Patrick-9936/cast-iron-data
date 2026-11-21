@@ -54,19 +54,23 @@ hands, and writhing tentacles._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/23/17
+**Armor class:** 23
 
-**Fort:** +7
+**Touch:** 23
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 deflection, +5 Dex, +1 dodge, -1 size
 
 **Hit points:** 102 (12d10+36)
 
-**Incorporeal:** present
-
-**Mod:** +7 deflection, +5 Dex, +1 dodge, -1 size
+**Fort:** +7
 
 **Ref:** +13
 
 **Will:** +11
+
+**Incorporeal:** present
 
 **Offense**
 

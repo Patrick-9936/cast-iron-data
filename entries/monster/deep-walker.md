@@ -53,23 +53,27 @@ _This armor-plated creature has four crab-like legs and four arms with razor-sha
 
 **Experience points:** 38,400
 
-**Armor class:** 30/15/26
+**Armor class:** 30
 
-**Defensive abilities:** psychic protection
+**Touch:** 15
 
-**Fort:** +17
+**Flat-footed:** 26
+
+**AC modifiers:** +5 deflection, +3 Dex, +1 dodge, +15 natural, -4 size
 
 **Hit points:** 210 (20d8+120)
 
-**Immune:** cold
-
-**Mod:** +5 deflection, +3 Dex, +1 dodge, +15 natural, -4 size
+**Fort:** +17
 
 **Ref:** +11
 
-**Resist:** acid 20, fire 20
-
 **Will:** +18
+
+**Defensive abilities:** psychic protection
+
+**Immune:** cold
+
+**Resist:** acid 20, fire 20
 
 **Offense**
 

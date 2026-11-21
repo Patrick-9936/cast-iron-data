@@ -49,13 +49,17 @@ its body._
 
 **Experience points:** 50
 
-**Armor class:** 18/18/14
+**Armor class:** 18
 
-**Fort:** +1
+**Touch:** 18
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 size
 
 **Hit points:** 3 (1d8-1)
 
-**Mod:** +4 Dex, +4 size
+**Fort:** +1
 
 **Ref:** +6
 

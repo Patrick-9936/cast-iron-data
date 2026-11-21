@@ -50,23 +50,27 @@ drizzle a cascade of shimmering dust._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/14/16
+**Armor class:** 21
 
-**Dr:** 10/cold iron
+**Touch:** 14
 
-**Fort:** +8
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +1 dodge, +7 natural, -1 size
 
 **Hit points:** 97 (13d6+52)
 
-**Mod:** +4 Dex, +1 dodge, +7 natural, -1 size
+**Fort:** +8
 
 **Ref:** +12
+
+**Will:** +11
+
+**Dr:** 10/cold iron
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 19
-
-**Will:** +11
 
 **Offense**
 

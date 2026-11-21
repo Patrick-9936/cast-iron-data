@@ -55,25 +55,29 @@ the faintest outlines of a veiled face and a pair of eyes flickering with barely
 
 **Experience points:** 9,600
 
-**Armor class:** 22/22/15
+**Armor class:** 22
 
-**Dr:** 10/good
+**Touch:** 22
 
-**Fort:** +11
+**Flat-footed:** 15
+
+**AC modifiers:** +5 deflection, +6 Dex, +1 dodge
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** fire, poison
-
-**Mod:** +5 deflection, +6 Dex, +1 dodge
+**Fort:** +11
 
 **Ref:** +15
+
+**Will:** +7
+
+**Dr:** 10/good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 21
-
-**Will:** +7
 
 **Offense**
 

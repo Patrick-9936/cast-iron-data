@@ -51,23 +51,27 @@ fingers._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/13/18
+**Armor class:** 21
+
+**Touch:** 13
+
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +8 natural
+
+**Hit points:** 94 (9d10+45)
+
+**Fort:** +11
+
+**Ref:** +8
+
+**Will:** +10
 
 **Defensive abilities:** resist conjuration
 
 **Dr:** 5/lawful
 
-**Fort:** +11
-
-**Hit points:** 94 (9d10+45)
-
 **Immune:** summoning
-
-**Mod:** +3 Dex, +8 natural
-
-**Ref:** +8
-
-**Will:** +10
 
 **Offense**
 

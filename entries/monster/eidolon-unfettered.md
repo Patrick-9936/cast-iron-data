@@ -50,19 +50,23 @@ _This bizarre amalgam of monstrous parts rampages forth, an eldritch rune seared
 
 **Experience points:** 4,800
 
-**Armor class:** 26/14/22
+**Armor class:** 26
 
-**Fort:** +7
+**Touch:** 14
+
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +12 natural
 
 **Hit points:** 85 (10d10+30)
 
-**Improved evasion:** present
-
-**Mod:** +4 Dex, +12 natural
+**Fort:** +7
 
 **Ref:** +11
 
 **Will:** +9
+
+**Improved evasion:** present
 
 **Offense**
 

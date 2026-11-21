@@ -52,25 +52,29 @@ body of a giant wolf._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Dr:** 10/good or lawful
+**Touch:** 11
 
-**Fort:** +8
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +7 natural, +1 dodge, -1 size
 
 **Hit points:** 76 (8d10+32)
 
-**Immune:** fire, poison
-
-**Mod:** +2 Dex, +7 natural, +1 dodge, -1 size
+**Fort:** +8
 
 **Ref:** +4
+
+**Will:** +7
+
+**Dr:** 10/good or lawful
+
+**Immune:** fire, poison
 
 **Resist:** electricity 10
 
 **Sr:** 16
-
-**Will:** +7
 
 **Offense**
 

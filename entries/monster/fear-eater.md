@@ -47,21 +47,25 @@ _A distressingly humanoid face and stubby arms grow from this maggot-like creatu
 
 **Experience points:** 1,600
 
-**Armor class:** 18/16/12
+**Armor class:** 18
 
-**Dr:** 5/cold iron
+**Touch:** 16
 
-**Fort:** +5
+**Flat-footed:** 12
+
+**AC modifiers:** +6 Dex, +2 natural
 
 **Hit points:** 52 (8d6+24)
 
-**Immune:** disease, fear
-
-**Mod:** +6 Dex, +2 natural
+**Fort:** +5
 
 **Ref:** +12
 
 **Will:** +7
+
+**Dr:** 5/cold iron
+
+**Immune:** disease, fear
 
 **Offense**
 

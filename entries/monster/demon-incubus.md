@@ -51,25 +51,29 @@ origin._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Dr:** 10/cold iron or good
+**Touch:** 12
 
-**Fort:** +10
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +6 natural
 
 **Hit points:** 76 (8d10+32)
 
-**Immune:** electricity, poison
-
-**Mod:** +2 Dex, +6 natural
+**Fort:** +10
 
 **Ref:** +6
+
+**Will:** +8
+
+**Dr:** 10/cold iron or good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 17
-
-**Will:** +8
 
 **Offense**
 

@@ -51,25 +51,29 @@ between its two pincers._
 
 **Experience points:** 6,400
 
-**Armor class:** 25/9/25
+**Armor class:** 25
 
-**Dr:** 10/good
+**Touch:** 9
 
-**Fort:** +12
+**Flat-footed:** 25
+
+**AC modifiers:** +16 natural, -1 size
 
 **Hit points:** 115 (11d10+55)
 
-**Immune:** electricity, fear, poison
-
-**Mod:** +16 natural, -1 size
+**Fort:** +12
 
 **Ref:** +9
+
+**Will:** +7
+
+**Dr:** 10/good
+
+**Immune:** electricity, fear, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 20
-
-**Will:** +7
 
 **Offense**
 

@@ -52,25 +52,29 @@ spurting from its flesh._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/20/29
+**Armor class:** 36
 
-**Dr:** 15/cold iron and good
+**Touch:** 20
 
-**Fort:** +29
+**Flat-footed:** 29
+
+**AC modifiers:** +4 deflection, +7 Dex, +16 natural, -1 size
 
 **Hit points:** 370 (20d10+260)
 
-**Immune:** electricity, fire, poison
-
-**Mod:** +4 deflection, +7 Dex, +16 natural, -1 size
+**Fort:** +29
 
 **Ref:** +17
+
+**Will:** +25
+
+**Dr:** 15/cold iron and good
+
+**Immune:** electricity, fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 31
-
-**Will:** +25
 
 **Offense**
 

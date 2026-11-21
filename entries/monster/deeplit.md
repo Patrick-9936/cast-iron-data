@@ -51,21 +51,25 @@ head should be._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/12/17
+**Armor class:** 19
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 armor, +2 Dex, +3 natural
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** blindness, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 armor, +2 Dex, +3 natural
+**Fort:** +5
 
 **Ref:** +4
 
-**Weaknesses:** pattern susceptibility
-
 **Will:** +8
+
+**Immune:** blindness, [undead traits](ref/umr/undead-traits)
+
+**Weaknesses:** pattern susceptibility
 
 **Offense**
 

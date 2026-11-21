@@ -52,19 +52,23 @@ it snaps crustacean-like claws._
 
 **Experience points:** 800
 
-**Armor class:** 15/13/14
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +2 natural, +2 size
 
 **Hit points:** 30 (4d12+4)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +1 Dex, +2 natural, +2 size
+**Fort:** +5
 
 **Ref:** +7
 
 **Will:** +6
+
+**Immune:** paralysis, sleep
 
 **Offense**
 

@@ -47,13 +47,17 @@ _This elephantine amphibian has a grotesquely long tongue and beady eyes._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/9/17
+**Armor class:** 18
 
-**Fort:** +10
+**Touch:** 9
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +9 natural, -2 size
 
 **Hit points:** 57 (6d8+30)
 
-**Mod:** +1 Dex, +9 natural, -2 size
+**Fort:** +10
 
 **Ref:** +8
 

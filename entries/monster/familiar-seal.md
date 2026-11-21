@@ -53,13 +53,17 @@ sharp teeth._
 
 **Experience points:** 135
 
-**Armor class:** 13/12/12
+**Armor class:** 13
 
-**Fort:** +2
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +1 natural, +1 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +1 Dex, +1 natural, +1 size
+**Fort:** +2
 
 **Ref:** +3
 

@@ -49,23 +49,27 @@ moves with surprising quickness._
 
 **Experience points:** 600
 
-**Armor class:** 14/11/14
+**Armor class:** 14
 
-**Dr:** 5/cold iron or good
+**Touch:** 11
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +3 natural, +1 size
 
 **Hit points:** 18 (2d10+7)
 
-**Immune:** electricity, poison
-
-**Mod:** +3 natural, +1 size
+**Fort:** +5
 
 **Ref:** +0
 
-**Resist:** acid 10, cold 10, fire 10
-
 **Will:** +3
+
+**Dr:** 5/cold iron or good
+
+**Immune:** electricity, poison
+
+**Resist:** acid 10, cold 10, fire 10
 
 **Offense**
 

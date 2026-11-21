@@ -53,27 +53,31 @@ shadows._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/22/20
+**Armor class:** 28
+
+**Touch:** 22
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 deflection, +7 Dex, +1 dodge, +6 natural
+
+**Hit points:** 175 (14d10+98)
+
+**Fort:** +11
+
+**Ref:** +16
+
+**Will:** +16
 
 **Defensive abilities:** shadow mantle
 
 **Dr:** 10/good
 
-**Fort:** +11
-
-**Hit points:** 175 (14d10+98)
-
 **Immune:** electricity, mind-affecting effects, poison
-
-**Mod:** +4 deflection, +7 Dex, +1 dodge, +6 natural
-
-**Ref:** +16
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 24
-
-**Will:** +16
 
 **Offense**
 

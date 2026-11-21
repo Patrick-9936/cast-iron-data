@@ -48,23 +48,27 @@ circular maw filled with jagged teeth._
 
 **Experience points:** 4,800
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Defensive abilities:** protection from sonics
+**Touch:** 11
 
-**Fort:** +9
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 90 (12d8+36)
 
-**Immune:** gaze attacks, visual effects, illusions, and attacks relying on sight
-
-**Mod:** +1 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
 
-**Resist:** sonic 30
-
 **Will:** +12
+
+**Defensive abilities:** protection from sonics
+
+**Immune:** gaze attacks, visual effects, illusions, and attacks relying on sight
+
+**Resist:** sonic 30
 
 **Offense**
 

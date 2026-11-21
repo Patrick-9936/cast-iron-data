@@ -49,19 +49,23 @@ stretch out from its torso._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
 
 **Hit points:** 84 (8d12+32)
 
-**Immune:** curses, energy drain, negative energy, paralysis, sleep
-
-**Mod:** +1 Dex, +10 natural, -1 size
+**Fort:** +10
 
 **Ref:** +7
 
 **Will:** +6
+
+**Immune:** curses, energy drain, negative energy, paralysis, sleep
 
 **Offense**
 

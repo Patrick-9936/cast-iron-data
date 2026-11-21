@@ -53,25 +53,29 @@ thread is tangled between its curled ram horns._
 
 **Experience points:** 19,200
 
-**Armor class:** 28/14/23
+**Armor class:** 28
 
-**Dr:** 10/cold iron and evil
+**Touch:** 14
 
-**Fort:** +15
+**Flat-footed:** 23
+
+**AC modifiers:** +4 Dex, +1 dodge, +14 natural, -1 size
 
 **Hit points:** 168 (16d10+80)
 
-**Immune:** fire, poison, death effects
-
-**Mod:** +4 Dex, +1 dodge, +14 natural, -1 size
+**Fort:** +15
 
 **Ref:** +9
+
+**Will:** +16
+
+**Dr:** 10/cold iron and evil
+
+**Immune:** fire, poison, death effects
 
 **Resist:** acid 10, cold 10, electricity 10
 
 **Sr:** 23
-
-**Will:** +16
 
 **Offense**
 

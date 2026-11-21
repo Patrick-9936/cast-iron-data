@@ -47,19 +47,23 @@ abilities = ["8", "21", "10", "2", "13", "3"]
 
 **Experience points:** 200
 
-**Armor class:** 17/17/12
+**Armor class:** 17
 
-**Defensive abilities:** ink cloud (5-ft. radius)
+**Touch:** 17
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +5 Dex, +2 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +5 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +7
 
 **Will:** +1
+
+**Defensive abilities:** ink cloud (5-ft. radius)
 
 **Offense**
 

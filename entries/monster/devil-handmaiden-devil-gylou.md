@@ -52,25 +52,29 @@ a gown of writhing tendrils._
 
 **Experience points:** 38,400
 
-**Armor class:** 31/17/24
+**Armor class:** 31
 
-**Dr:** 10/good
+**Touch:** 17
 
-**Fort:** +16
+**Flat-footed:** 24
+
+**AC modifiers:** +7 Dex, +14 natural
 
 **Hit points:** 187 (15d10+105)
 
-**Immune:** fire, poison
-
-**Mod:** +7 Dex, +14 natural
+**Fort:** +16
 
 **Ref:** +16
+
+**Will:** +10
+
+**Dr:** 10/good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 25
-
-**Will:** +10
 
 **Offense**
 

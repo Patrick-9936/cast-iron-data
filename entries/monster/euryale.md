@@ -52,24 +52,28 @@ cobras for hair._
 
 **Experience points:** 307,200
 
-**Armor class:** 37/32/25
+**Armor class:** 37
+
+**Touch:** 32
+
+**Flat-footed:** 25
+
+**AC modifiers:** +11 Dex, +1 dodge, +5 natural, +10 profane
+
+**Hit points:** 367 (21d10+252)
+
+**Fort:** +19
+
+**Ref:** +23
+
+**Will:** +20; +4 vs. death effects, +8 vs. mind-affecting effects
 
 **Defensive abilities:** absorb essence, all-around vision, _[death ward](ref/spell/death-ward)_,
 _[mind blank](ref/spell/mind-blank)_, profane visions
 
 **Dr:** 15/good and slashing
 
-**Fort:** +19
-
-**Hit points:** 367 (21d10+252)
-
 **Immune:** blindness, daze, petrification, poison, sonic
-
-**Mod:** +11 Dex, +1 dodge, +5 natural, +10 profane
-
-**Ref:** +23
-
-**Will:** +20; +4 vs. death effects, +8 vs. mind-affecting effects
 
 **Offense**
 

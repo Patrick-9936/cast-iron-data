@@ -46,13 +46,17 @@ small head pulls food from the treetop._
 
 **Experience points:** 9,600
 
-**Armor class:** 18/6/18
+**Armor class:** 18
 
-**Fort:** +18
+**Touch:** 6
+
+**Flat-footed:** 18
+
+**AC modifiers:** +12 natural, -4 size
 
 **Hit points:** 171 (18d8+90)
 
-**Mod:** +12 natural, -4 size
+**Fort:** +18
 
 **Ref:** +11
 

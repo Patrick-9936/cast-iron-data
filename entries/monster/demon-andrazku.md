@@ -51,27 +51,31 @@ and skin the color of a snow-buried corpse._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/11/17
+**Armor class:** 18
 
-**Dr:** 5/cold iron or good
+**Touch:** 11
 
-**Fort:** +9
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +7 natural
 
 **Hit points:** 57 (6d10+24)
 
-**Immune:** cold, electricity, poison
-
-**Mod:** +1 Dex, +7 natural
+**Fort:** +9
 
 **Ref:** +6
+
+**Will:** +2
+
+**Dr:** 5/cold iron or good
+
+**Immune:** cold, electricity, poison
 
 **Resist:** acid 10, fire 10
 
 **Sr:** 16
 
 **Vulner:** fire
-
-**Will:** +2
 
 **Offense**
 

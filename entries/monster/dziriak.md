@@ -52,13 +52,17 @@ and arms display glowing runes._
 
 **Experience points:** 800
 
-**Armor class:** 16/12/14
+**Armor class:** 16
 
-**Fort:** +2
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 natural
 
 **Hit points:** 26 (4d10+4)
 
-**Mod:** +2 Dex, +4 natural
+**Fort:** +2
 
 **Ref:** +6
 

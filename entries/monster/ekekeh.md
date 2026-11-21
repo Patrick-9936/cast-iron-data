@@ -52,25 +52,29 @@ electricity crackling between them._
 
 **Experience points:** 1,200
 
-**Armor class:** 15/12/12
+**Armor class:** 15
+
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +3 natural, -1 size
+
+**Hit points:** 33 (6d6+12)
+
+**Fort:** +4
+
+**Ref:** +8
+
+**Will:** +5
 
 **Defensive abilities:** bioelectric shield
 
 **Dr:** 5/cold iron
 
-**Fort:** +4
-
-**Hit points:** 33 (6d6+12)
-
 **Immune:** electricity
 
-**Mod:** +3 Dex, +3 natural, -1 size
-
-**Ref:** +8
-
 **Resist:** cold 5
-
-**Will:** +5
 
 **Offense**
 

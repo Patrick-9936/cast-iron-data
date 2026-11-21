@@ -49,23 +49,27 @@ humanoid shape roughly the size of a child._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/11/16
+**Armor class:** 16
+
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +5 natural, +1 size
+
+**Hit points:** 39 (6d8+12)
+
+**Fort:** +4
+
+**Ref:** +2
+
+**Will:** +9
 
 **Defensive abilities:** flotsam repair
 
 **Dr:** 5/slashing
 
-**Fort:** +4
-
-**Hit points:** 39 (6d8+12)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 natural, +1 size
-
-**Ref:** +2
-
-**Will:** +9
 
 **Offense**
 

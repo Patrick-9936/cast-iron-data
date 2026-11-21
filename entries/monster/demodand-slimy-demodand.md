@@ -54,25 +54,29 @@ covered in a viscous slime._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/13/27
+**Armor class:** 30
 
-**Dr:** 10/good and magic
+**Touch:** 13
 
-**Fort:** +18
+**Flat-footed:** 27
+
+**AC modifiers:** +6 armor, +3 Dex, +11 natural
 
 **Hit points:** 241 (21d10+126)
 
-**Immune:** acid, poison
-
-**Mod:** +6 armor, +3 Dex, +11 natural
+**Fort:** +18
 
 **Ref:** +13
+
+**Will:** +14; +4 vs. divine spells
+
+**Dr:** 10/good and magic
+
+**Immune:** acid, poison
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 27
-
-**Will:** +14; +4 vs. divine spells
 
 **Offense**
 

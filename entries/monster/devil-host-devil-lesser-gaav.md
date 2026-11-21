@@ -53,23 +53,27 @@ clawed arms work together to slash the air with a vicious-looking spear._
 
 **Experience points:** 800
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Dr:** 5/good
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +2 natural, +1 size
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** fire, poison
-
-**Mod:** +3 Dex, +1 dodge, +2 natural, +1 size
+**Fort:** +6
 
 **Ref:** +7
 
-**Resist:** acid 10, cold 10
-
 **Will:** +0
+
+**Dr:** 5/good
+
+**Immune:** fire, poison
+
+**Resist:** acid 10, cold 10
 
 **Offense**
 

@@ -53,25 +53,29 @@ _Twice the height of a human, this horned monstrous warrior wields a massive bla
 
 **Experience points:** 38,400
 
-**Armor class:** 32/14/27
+**Armor class:** 32
 
-**Dr:** 10/cold iron and good
+**Touch:** 14
 
-**Fort:** +13
+**Flat-footed:** 27
+
+**AC modifiers:** +5 Dex, +18 natural, -1 size
 
 **Hit points:** 202 (15d10+120)
 
-**Immune:** fire, poison
-
-**Mod:** +5 Dex, +18 natural, -1 size
+**Fort:** +13
 
 **Ref:** +16
+
+**Will:** +15
+
+**Dr:** 10/cold iron and good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 25
-
-**Will:** +15
 
 **Offense**
 

@@ -47,13 +47,17 @@ _This regal fox's coat shifts subtly between silver, red, and dull brown as it w
 
 **Experience points:** 600
 
-**Armor class:** 17/17/12
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 17
+
+**Flat-footed:** 12
+
+**AC modifiers:** +5 Dex, +2 size
 
 **Hit points:** 16 (3d8+3)
 
-**Mod:** +5 Dex, +2 size
+**Fort:** +4
 
 **Ref:** +8
 

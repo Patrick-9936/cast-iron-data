@@ -52,21 +52,25 @@ roots ending in hooves, and its trunk decorated with numerous drooling maws._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/11/24
+**Armor class:** 27
 
-**Dr:** 15/slashing
+**Touch:** 11
 
-**Fort:** +11
+**Flat-footed:** 24
+
+**AC modifiers:** +3 Dex, +16 natural, -2 size
 
 **Hit points:** 161 (14d8+98)
 
-**Immune:** acid, electricity, fire, poison
-
-**Mod:** +3 Dex, +16 natural, -2 size
+**Fort:** +11
 
 **Ref:** +9
 
 **Will:** +13
+
+**Dr:** 15/slashing
+
+**Immune:** acid, electricity, fire, poison
 
 **Offense**
 

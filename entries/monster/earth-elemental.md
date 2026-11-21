@@ -51,19 +51,23 @@ for two glowing gemstone eyes._
 
 **Experience points:** 400
 
-**Armor class:** 17/10/17
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** -1 Dex, +7 natural, +1 size
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** elemental traits
-
-**Mod:** -1 Dex, +7 natural, +1 size
+**Fort:** +4
 
 **Ref:** -1
 
 **Will:** +3
+
+**Immune:** elemental traits
 
 **Offense**
 
@@ -161,19 +165,23 @@ that makes up parts of an earth elemental's body.
 
 **Experience points:** 800
 
-**Armor class:** 18/9/18
+**Armor class:** 18
 
-**Fort:** +7
+**Touch:** 9
+
+**Flat-footed:** 18
+
+**AC modifiers:** -1 Dex, +9 natural
 
 **Hit points:** 34 (4d10+12)
 
-**Immune:** elemental traits
-
-**Mod:** -1 Dex, +9 natural
+**Fort:** +7
 
 **Ref:** +0
 
 **Will:** +4
+
+**Immune:** elemental traits
 
 **Offense**
 
@@ -226,21 +234,25 @@ Bonus feat.
 
 **Experience points:** 1,600
 
-**Armor class:** 18/8/18
+**Armor class:** 18
 
-**Dr:** 5/-
+**Touch:** 8
 
-**Fort:** +9
+**Flat-footed:** 18
+
+**AC modifiers:** -1 Dex, +10 natural, -1 size
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** elemental traits
-
-**Mod:** -1 Dex, +10 natural, -1 size
+**Fort:** +9
 
 **Ref:** +1
 
 **Will:** +6
+
+**Dr:** 5/-
+
+**Immune:** elemental traits
 
 **Offense**
 
@@ -297,21 +309,25 @@ Bonus feat.
 
 **Experience points:** 3,200
 
-**Armor class:** 19/7/19
+**Armor class:** 19
 
-**Dr:** 5/-
+**Touch:** 7
 
-**Fort:** +11
+**Flat-footed:** 19
+
+**AC modifiers:** -1 Dex, +12 natural, -2 size
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** elemental traits
-
-**Mod:** -1 Dex, +12 natural, -2 size
+**Fort:** +11
 
 **Ref:** +2
 
 **Will:** +7
+
+**Dr:** 5/-
+
+**Immune:** elemental traits
 
 **Offense**
 
@@ -369,21 +385,25 @@ Bonus feat.
 
 **Experience points:** 6,400
 
-**Armor class:** 21/7/21
+**Armor class:** 21
 
-**Dr:** 10/-
+**Touch:** 7
 
-**Fort:** +13
+**Flat-footed:** 21
+
+**AC modifiers:** -1 Dex, +14 natural, -2 size
 
 **Hit points:** 136 (13d10+65)
 
-**Immune:** elemental traits
-
-**Mod:** -1 Dex, +14 natural, -2 size
+**Fort:** +13
 
 **Ref:** +3
 
 **Will:** +8
+
+**Dr:** 10/-
+
+**Immune:** elemental traits
 
 **Offense**
 
@@ -441,21 +461,25 @@ Bonus feat.
 
 **Experience points:** 12,800
 
-**Armor class:** 23/7/23
+**Armor class:** 23
 
-**Dr:** 10/-
+**Touch:** 7
 
-**Fort:** +15
+**Flat-footed:** 23
+
+**AC modifiers:** -1 Dex, +16 natural, -2 size
 
 **Hit points:** 168 (16d10+80)
 
-**Immune:** elemental traits
-
-**Mod:** -1 Dex, +16 natural, -2 size
+**Fort:** +15
 
 **Ref:** +4
 
 **Will:** +10
+
+**Dr:** 10/-
+
+**Immune:** elemental traits
 
 **Offense**
 

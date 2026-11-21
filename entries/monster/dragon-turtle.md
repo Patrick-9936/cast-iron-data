@@ -50,19 +50,23 @@ _This long-tailed aquatic beast resembles a massive snapping turtle with draconi
 
 **Experience points:** 6,400
 
-**Armor class:** 23/8/23
+**Armor class:** 23
 
-**Fort:** +12
+**Touch:** 8
+
+**Flat-footed:** 23
+
+**AC modifiers:** +15 natural, -2 size
 
 **Hit points:** 126 (12d12+48)
 
-**Immune:** fire, sleep, paralysis
-
-**Mod:** +15 natural, -2 size
+**Fort:** +12
 
 **Ref:** +8
 
 **Will:** +9
+
+**Immune:** fire, sleep, paralysis
 
 **Offense**
 

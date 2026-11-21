@@ -56,7 +56,21 @@ vortex of sucking wind._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/16/26
+**Armor class:** 29
+
+**Touch:** 16
+
+**Flat-footed:** 26
+
+**AC modifiers:** +5 deflection, +2 Dex, +1 dodge, +13 natural, -2 size
+
+**Hit points:** 207 (18d8+126)
+
+**Fort:** +13
+
+**Ref:** +12
+
+**Will:** +16
 
 **Amorph:** present
 
@@ -64,21 +78,11 @@ vortex of sucking wind._
 
 **Dr:** 10/magic and slashing
 
-**Fort:** +13
-
-**Hit points:** 207 (18d8+126)
-
 **Immune:** acid, cold, sonic
-
-**Mod:** +5 deflection, +2 Dex, +1 dodge, +13 natural, -2 size
-
-**Ref:** +12
 
 **Sr:** 25
 
 **Vulner:** electricity
-
-**Will:** +16
 
 **Offense**
 

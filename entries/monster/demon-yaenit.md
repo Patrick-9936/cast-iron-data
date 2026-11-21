@@ -54,23 +54,27 @@ _Patches of fur adorn the sickly flesh of this gangly but muscular hyena-headed 
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Dr:** 5/cold iron or good
+**Touch:** 13
 
-**Fort:** +10
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +1 dodge, +6 natural
 
 **Hit points:** 76 (8d10+32)
 
-**Immune:** electricity, poison
-
-**Mod:** +2 Dex, +1 dodge, +6 natural
+**Fort:** +10
 
 **Ref:** +8
 
-**Resist:** acid 10, cold 10, fire 10
-
 **Will:** +5
+
+**Dr:** 5/cold iron or good
+
+**Immune:** electricity, poison
+
+**Resist:** acid 10, cold 10, fire 10
 
 **Offense**
 

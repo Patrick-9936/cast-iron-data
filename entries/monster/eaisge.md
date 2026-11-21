@@ -52,23 +52,27 @@ from its half-rotted flesh._
 
 **Experience points:** 400
 
-**Armor class:** 12/10/12
+**Armor class:** 12
 
-**Dr:** 5/piercing or slashing
+**Touch:** 10
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +2 natural
 
 **Hit points:** 16 (3d8+3)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 natural
+**Fort:** +2
 
 **Ref:** +1
 
-**Resist:** cold 5, fire 5
-
 **Will:** +4
+
+**Dr:** 5/piercing or slashing
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Resist:** cold 5, fire 5
 
 **Offense**
 

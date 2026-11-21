@@ -52,7 +52,21 @@ impression of an open eye floats before it._
 
 **Experience points:** 9,600
 
-**Armor class:** 27/13/23
+**Armor class:** 27
+
+**Touch:** 13
+
+**Flat-footed:** 23
+
+**AC modifiers:** +4 armor, +3 Dex, +1 dodge, +6 natural, +4 shield, -1 size
+
+**Hit points:** 123 (13d8+65)
+
+**Fort:** +10
+
+**Ref:** +9
+
+**Will:** +15
 
 **Amorph:** present
 
@@ -60,17 +74,7 @@ impression of an open eye floats before it._
 
 **Fh:** 5
 
-**Fort:** +10
-
-**Hit points:** 123 (13d8+65)
-
-**Mod:** +4 armor, +3 Dex, +1 dodge, +6 natural, +4 shield, -1 size
-
-**Ref:** +9
-
 **Sr:** 21
-
-**Will:** +15
 
 **Offense**
 

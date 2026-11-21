@@ -46,13 +46,17 @@ and a whip-like tail._
 
 **Experience points:** 200
 
-**Armor class:** 15/14/13
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 natural, +2 size
 
 **Hit points:** 6 (1d8+2)
 
-**Mod:** +2 Dex, +1 natural, +2 size
+**Fort:** +4
 
 **Ref:** +4
 

@@ -46,13 +46,17 @@ _This magnificent bird of prey has dark feathers save for those on its head, whi
 
 **Experience points:** 200
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 natural, +1 size
 
 **Hit points:** 5 (1d8+1)
 
-**Mod:** +2 Dex, +1 natural, +1 size
+**Fort:** +3
 
 **Ref:** +4
 

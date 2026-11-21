@@ -50,21 +50,25 @@ teeth._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/10/18
+**Armor class:** 19
 
-**Defensive abilities:** corrosive blood, venomous skin
+**Touch:** 10
 
-**Fort:** +9
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** acid, electricity, poison
-
-**Mod:** +1 Dex, +9 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
 
 **Will:** +4
+
+**Defensive abilities:** corrosive blood, venomous skin
+
+**Immune:** acid, electricity, poison
 
 **Offense**
 

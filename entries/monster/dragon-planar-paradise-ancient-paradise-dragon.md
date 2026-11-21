@@ -53,23 +53,27 @@ _This sleek dragon carries itself with regal dignity. Its eyes glow with heavenl
 
 **Experience points:** 409,600
 
-**Armor class:** 40/5/40
+**Armor class:** 40
 
-**Dr:** 15/evil
+**Touch:** 5
 
-**Fort:** +25
+**Flat-footed:** 40
+
+**AC modifiers:** -1 Dex, +35 natural, -4 size
 
 **Hit points:** 434 (28d12+252)
 
-**Immune:** force effects, paralysis, petrification, poison, sleep
-
-**Mod:** -1 Dex, +35 natural, -4 size
+**Fort:** +25
 
 **Ref:** +15
 
-**Sr:** 32
-
 **Will:** +23
+
+**Dr:** 15/evil
+
+**Immune:** force effects, paralysis, petrification, poison, sleep
+
+**Sr:** 32
 
 **Offense**
 

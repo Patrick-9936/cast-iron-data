@@ -50,25 +50,29 @@ and writhing tentacles._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/14/20
+**Armor class:** 24
 
-**Dr:** 10/good
+**Touch:** 14
 
-**Fort:** +14
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +10 natural
 
 **Hit points:** 137 (11d10+77)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +4 Dex, +10 natural
+**Fort:** +14
 
 **Ref:** +7
+
+**Will:** +9
+
+**Dr:** 10/good
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 21
-
-**Will:** +9
 
 **Offense**
 

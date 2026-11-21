@@ -47,19 +47,23 @@ barbs._
 
 **Experience points:** 135
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 4 (1d8)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +1
 
 **Will:** +1
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

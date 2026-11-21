@@ -53,21 +53,25 @@ has been flogged and branded a thousand times._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/12/18
+**Armor class:** 20
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 18
+
+**AC modifiers:** +6 armor, +2 Dex, +2 natural
 
 **Hit points:** 51 (6d10+18)
 
-**Immune:** electricity, poison
-
-**Mod:** +6 armor, +2 Dex, +2 natural
+**Fort:** +8
 
 **Ref:** +7
 
-**Resist:** acid 10, cold 10, fire 10
-
 **Will:** +2
+
+**Immune:** electricity, poison
+
+**Resist:** acid 10, cold 10, fire 10
 
 **Offense**
 

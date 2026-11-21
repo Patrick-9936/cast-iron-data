@@ -50,25 +50,29 @@ quills emerge from each knuckle of its clawed upper hands._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/14/18
+**Armor class:** 22
 
-**Dr:** 10/good or silver
+**Touch:** 14
 
-**Fort:** +6
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +1 dodge, +8 natural
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +3 Dex, +1 dodge, +8 natural
+**Fort:** +6
 
 **Ref:** +10
+
+**Will:** +9
+
+**Dr:** 10/good or silver
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 19
-
-**Will:** +9
 
 **Offense**
 

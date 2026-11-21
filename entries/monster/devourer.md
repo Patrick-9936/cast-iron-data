@@ -54,23 +54,27 @@ tormented ghostly form._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/12/22
+**Armor class:** 25
 
-**Defensive abilities:** spell deflection
+**Touch:** 12
 
-**Fort:** +9
+**Flat-footed:** 22
+
+**AC modifiers:** +3 Dex, +13 natural, -1 size
 
 **Hit points:** 133 (14d8+70)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +13 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
 
-**Sr:** 22
-
 **Will:** +12
+
+**Defensive abilities:** spell deflection
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Sr:** 22
 
 **Offense**
 

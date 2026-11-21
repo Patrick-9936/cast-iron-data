@@ -51,19 +51,23 @@ scarf wrapped around its face._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 armor, +4 Dex, +2 natural
 
 **Hit points:** 39 (6d8+12)
 
-**Mod:** +2 armor, +4 Dex, +2 natural
+**Fort:** +4
 
 **Ref:** +9
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +2
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

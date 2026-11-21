@@ -54,27 +54,31 @@ _This ancient monstrosity has the torso of a massively muscled giant._
 
 **Experience points:** 153,600
 
-**Armor class:** 36/15/29
+**Armor class:** 36
+
+**Touch:** 15
+
+**Flat-footed:** 29
+
+**AC modifiers:** +7 armor, +7 Dex, +14 natural, -2 size
+
+**Hit points:** 297 (18d10+198)
+
+**Fort:** +21
+
+**Ref:** +18
+
+**Will:** +13
 
 **Defensive abilities:** idol armor
 
 **Dr:** 10/good and silver
 
-**Fort:** +21
-
-**Hit points:** 297 (18d10+198)
-
 **Immune:** cold, dismissal, electricity, fire, poison, sonic
-
-**Mod:** +7 armor, +7 Dex, +14 natural, -2 size
-
-**Ref:** +18
 
 **Resist:** acid 10
 
 **Sr:** 29
-
-**Will:** +13
 
 **Offense**
 

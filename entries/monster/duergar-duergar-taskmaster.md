@@ -51,27 +51,31 @@ abilities = ["13", "17", "12", "12", "16", "4"]
 
 **Experience points:** 6,400
 
-**Armor class:** 21/15/17
+**Armor class:** 21
 
-**Evasion:** present
+**Touch:** 15
+
+**Flat-footed:** 17
+
+**AC modifiers:** +5 armor, +1 deflection, +3 Dex, +1 dodge, +1 natural
+
+**Hit points:** 64 (10d8+16)
 
 **Fort:** +5
 
-**Hit points:** 64 (10d8+16)
+**Ref:** +11
+
+**Will:** +7; +2 vs. spells
+
+**Evasion:** present
 
 **Immune:** paralysis, phantasms, poison
 
 **Improved uncanny dodge:** present
 
-**Mod:** +5 armor, +1 deflection, +3 Dex, +1 dodge, +1 natural
-
-**Ref:** +11
-
 **Trap S:** +2
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +7; +2 vs. spells
 
 **Offense**
 

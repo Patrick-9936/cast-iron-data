@@ -55,25 +55,29 @@ draconic saurian head._
 
 **Experience points:** 153,600
 
-**Armor class:** 35/14/33
+**Armor class:** 35
 
-**Dr:** 15/cold iron and good
+**Touch:** 14
 
-**Fort:** +26
+**Flat-footed:** 33
+
+**AC modifiers:** +8 armor, +4 deflection, +2 Dex, +13 natural, -2 size
 
 **Hit points:** 297 (18d10+198)
 
-**Immune:** electricity, fire, poison
-
-**Mod:** +8 armor, +4 deflection, +2 Dex, +13 natural, -2 size
+**Fort:** +26
 
 **Ref:** +12
+
+**Will:** +22
+
+**Dr:** 15/cold iron and good
+
+**Immune:** electricity, fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 29
-
-**Will:** +22
 
 **Offense**
 

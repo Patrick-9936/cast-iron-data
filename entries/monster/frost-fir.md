@@ -52,23 +52,27 @@ towering trunk-like legs. Its arms resemble the branches of a snow-laden conifer
 
 **Experience points:** 400
 
-**Armor class:** 13/10/13
+**Armor class:** 13
 
-**Dr:** 2/slashing
+**Touch:** 10
 
-**Fort:** +6
+**Flat-footed:** 13
+
+**AC modifiers:** +3 natural
 
 **Hit points:** 15 (2d8+6)
 
-**Immune:** cold, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 natural
+**Fort:** +6
 
 **Ref:** +0
 
-**Vulner:** fire
-
 **Will:** +1
+
+**Dr:** 2/slashing
+
+**Immune:** cold, [plant traits](ref/umr/plant-traits)
+
+**Vulner:** fire
 
 **Offense**
 

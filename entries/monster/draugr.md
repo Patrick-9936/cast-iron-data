@@ -49,23 +49,27 @@ off a nauseating stench._
 
 **Experience points:** 600
 
-**Armor class:** 14/10/14
+**Armor class:** 14
 
-**Dr:** 5/bludgeoning or slashing
+**Touch:** 10
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +2 armor, +2 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 armor, +2 natural
+**Fort:** +2
 
 **Ref:** +1
 
-**Resist:** fire 10
-
 **Will:** +3
+
+**Dr:** 5/bludgeoning or slashing
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Resist:** fire 10
 
 **Offense**
 

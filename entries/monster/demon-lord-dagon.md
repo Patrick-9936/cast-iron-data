@@ -53,31 +53,35 @@ a deep sea predator._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/31/39
+**Armor class:** 46
+
+**Touch:** 31
+
+**Flat-footed:** 39
+
+**AC modifiers:** +4 deflection, +7 Dex, +15 natural, +12 profane, -2 size
+
+**Hit points:** 676 (33d10+495)
+
+**Fort:** +37
+
+**Ref:** +24
+
+**Will:** +33
 
 **Defensive abilities:** Abyssal resurrection,
 _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/cold iron, epic, and good
 
-**Fort:** +37
-
-**Hit points:** 676 (33d10+495)
-
 **Immune:** ability damage, ability drain, charm effects, compulsion effects, cold, death effects,
 electricity, energy drain, petrification, and poison
-
-**Mod:** +4 deflection, +7 Dex, +15 natural, +12 profane, -2 size
-
-**Ref:** +24
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, fire 30
 
 **Sr:** 39
-
-**Will:** +33
 
 **Offense**
 

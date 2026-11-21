@@ -52,19 +52,23 @@ arms serve as both wings and flippers._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +8 natural, -1 size
 
 **Hit points:** 73 (7d12+28)
 
-**Immune:** electricity, paralysis, sleep
-
-**Mod:** +2 Dex, +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +9
 
 **Will:** +5
+
+**Immune:** electricity, paralysis, sleep
 
 **Offense**
 

@@ -51,25 +51,29 @@ _This tiny black dragon-like creature has charcoal-colored scales and shadowy wi
 
 **Experience points:** 600
 
-**Armor class:** 18/17/13
+**Armor class:** 18
 
-**Defensive abilities:** shadow blend
+**Touch:** 17
 
-**Fort:** +4
+**Flat-footed:** 13
+
+**AC modifiers:** +5 Dex, +1 natural, +2 size
 
 **Hit points:** 22 (3d12+3)
 
-**Immune:** cold, paralysis, and sleep
-
-**Mod:** +5 Dex, +1 natural, +2 size
+**Fort:** +4
 
 **Ref:** +8
+
+**Will:** +4
+
+**Defensive abilities:** shadow blend
+
+**Immune:** cold, paralysis, and sleep
 
 **Vulner:** fire
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +4
 
 **Offense**
 

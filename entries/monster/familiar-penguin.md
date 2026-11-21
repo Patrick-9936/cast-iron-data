@@ -53,13 +53,17 @@ flippers that lie flat against its sides instead of wings._
 
 **Experience points:** 135
 
-**Armor class:** 11/10/11
+**Armor class:** 11
 
-**Fort:** +3
+**Touch:** 10
+
+**Flat-footed:** 11
+
+**AC modifiers:** -1 Dex, +1 natural, +1 size
 
 **Hit points:** 5 (1d8+1)
 
-**Mod:** -1 Dex, +1 natural, +1 size
+**Fort:** +3
 
 **Ref:** +1
 

@@ -46,13 +46,17 @@ powerful flippers._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/11/17
+**Armor class:** 20
 
-**Fort:** +14
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +1 dodge, +9 natural, -2 size
 
 **Hit points:** 105 (10d8+60)
 
-**Mod:** +2 Dex, +1 dodge, +9 natural, -2 size
+**Fort:** +14
 
 **Ref:** +9
 

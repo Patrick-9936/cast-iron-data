@@ -55,23 +55,27 @@ gem-encrusted coronet._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/14/16
+**Armor class:** 19
 
-**Fort:** +7
+**Touch:** 14
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 armor, +3 Dex, +3 natural, +1 size
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 armor, +3 Dex, +3 natural, +1 size
+**Fort:** +7
 
 **Ref:** +5
+
+**Will:** +8
+
+**Immune:** mind-affecting effects
 
 **Sr:** 16
 
 **Weaknesses:** vulnerability to sunlight
-
-**Will:** +8
 
 **Offense**
 

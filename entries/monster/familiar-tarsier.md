@@ -46,13 +46,17 @@ _This small, furry creature has enormous glossy eyes, long legs, and elongated f
 
 **Experience points:** 65
 
-**Armor class:** 17/17/14
+**Armor class:** 17
 
-**Fort:** +2
+**Touch:** 17
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +3 Dex, +4 size
+**Fort:** +2
 
 **Ref:** +5
 

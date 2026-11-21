@@ -53,25 +53,29 @@ _This foul creature looks like an emaciated humanoid with the head of a jackal._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/15/19
+**Armor class:** 25
 
-**Dr:** 10/good
+**Touch:** 15
 
-**Fort:** +11
+**Flat-footed:** 19
+
+**AC modifiers:** +6 Dex, +10 natural, -1 size
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** acid, critical hits, death effects, disease, poison, sneak attack
-
-**Mod:** +6 Dex, +10 natural, -1 size
+**Fort:** +11
 
 **Ref:** +15
+
+**Will:** +14
+
+**Dr:** 10/good
+
+**Immune:** acid, critical hits, death effects, disease, poison, sneak attack
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 22
-
-**Will:** +14
 
 **Offense**
 

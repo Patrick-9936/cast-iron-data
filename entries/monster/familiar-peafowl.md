@@ -50,13 +50,17 @@ its back._
 
 **Experience points:** 100
 
-**Armor class:** 12/12/11
+**Armor class:** 12
 
-**Fort:** +2
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +1 Dex, +1 size
+**Fort:** +2
 
 **Ref:** +3
 

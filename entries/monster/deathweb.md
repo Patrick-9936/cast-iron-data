@@ -53,19 +53,23 @@ from its body like drops of blood._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +8 natural, -1 size
 
 **Hit points:** 71 (11d8+22)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +8 natural, -1 size
+**Fort:** +5
 
 **Ref:** +5
 
 **Will:** +8
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

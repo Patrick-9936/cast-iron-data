@@ -48,19 +48,23 @@ teeth._
 
 **Experience points:** 400
 
-**Armor class:** 12/11/12
+**Armor class:** 12
 
-**Fort:** +2
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 natural, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +1 natural, +1 size
+**Fort:** +2
 
 **Ref:** +0
 
-**Weaknesses:** hydrophobia, [light blindness](ref/umr/light-blindness)
-
 **Will:** +3; +4 vs. poison
+
+**Weaknesses:** hydrophobia, [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

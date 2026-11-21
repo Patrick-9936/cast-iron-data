@@ -52,27 +52,31 @@ and then, a grasping claw extends forth._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/14/16
+**Armor class:** 20
+
+**Touch:** 14
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +6 natural
+
+**Hit points:** 85 (9d10+36)
+
+**Fort:** +10
+
+**Ref:** +10
+
+**Will:** +7
 
 **Amorph:** present
 
 **Dr:** 10/good or silver
 
-**Fort:** +10
-
-**Hit points:** 85 (9d10+36)
-
 **Immune:** acid, death effects, disease, poison
-
-**Mod:** +4 Dex, +6 natural
-
-**Ref:** +10
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 18
-
-**Will:** +7
 
 **Offense**
 

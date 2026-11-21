@@ -49,21 +49,25 @@ armored entirely in disfigured plates._
 
 **Experience points:** 600
 
-**Armor class:** 13/13/9
+**Armor class:** 13
 
-**Dr:** 5/slashing
+**Touch:** 13
 
-**Fort:** +5
+**Flat-footed:** 9
+
+**AC modifiers:** +3 Dex, +1 dodge, -1 size
 
 **Hit points:** 22 (4d8+4)
 
-**Immune:** disease, mind-affecting effects
-
-**Mod:** +3 Dex, +1 dodge, -1 size
+**Fort:** +5
 
 **Ref:** +4
 
 **Will:** +1
+
+**Dr:** 5/slashing
+
+**Immune:** disease, mind-affecting effects
 
 **Offense**
 

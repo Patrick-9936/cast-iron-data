@@ -48,27 +48,31 @@ four arms ends in a clawed hand._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/21/27
+**Armor class:** 33
 
-**Defensive abilities:** negative energy affinity
+**Touch:** 21
 
-**Fort:** +19
+**Flat-footed:** 27
+
+**AC modifiers:** +5 deflection, +5 Dex, +1 dodge, +12 natural
 
 **Hit points:** 313 (19d10+209)
 
-**Immune:** death effects
-
-**Mod:** +5 deflection, +5 Dex, +1 dodge, +12 natural
+**Fort:** +19
 
 **Ref:** +16
+
+**Will:** +18
+
+**Defensive abilities:** negative energy affinity
+
+**Immune:** death effects
 
 **Regen:** 10 (positive energy)
 
 **Resist:** cold 30, fire 30
 
 **Sr:** 29
-
-**Will:** +18
 
 **Offense**
 

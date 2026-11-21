@@ -55,19 +55,23 @@ adorns its thrashing tail._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/15
+**Armor class:** 17
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +6 natural, -1 size
 
 **Hit points:** 42 (5d12+10)
 
-**Immune:** acid, paralysis, sleep
-
-**Mod:** +2 Dex, +6 natural, -1 size
+**Fort:** +6
 
 **Ref:** +6
 
 **Will:** +4
+
+**Immune:** acid, paralysis, sleep
 
 **Offense**
 

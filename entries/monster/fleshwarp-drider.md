@@ -48,21 +48,25 @@ centaurian fusion of drow and spider._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 76 (9d8+36)
 
-**Immune:** sleep
-
-**Mod:** +2 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +7
 
 **Ref:** +5
 
-**Sr:** 18
-
 **Will:** +9
+
+**Immune:** sleep
+
+**Sr:** 18
 
 **Offense**
 

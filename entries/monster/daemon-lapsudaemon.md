@@ -55,7 +55,21 @@ spraying blood._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/24/18
+**Armor class:** 29
+
+**Touch:** 24
+
+**Flat-footed:** 18
+
+**AC modifiers:** +3 deflection, +10 Dex, +1 dodge, +5 natural
+
+**Hit points:** 199 (19d10+95)
+
+**Fort:** +11
+
+**Ref:** +21
+
+**Will:** +15
 
 **Amorph:** present
 
@@ -63,21 +77,11 @@ spraying blood._
 
 **Dr:** 10/good
 
-**Fort:** +11
-
-**Hit points:** 199 (19d10+95)
-
 **Immune:** acid, bludgeoning, death effects, disease, poison
-
-**Mod:** +3 deflection, +10 Dex, +1 dodge, +5 natural
-
-**Ref:** +21
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 25
-
-**Will:** +15
 
 **Offense**
 

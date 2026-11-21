@@ -50,25 +50,29 @@ vulture._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/11/20
+**Armor class:** 22
 
-**Dr:** 10/good
+**Touch:** 11
 
-**Fort:** +13
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +11 natural, -1 size
 
 **Hit points:** 112 (9d10+63)
 
-**Immune:** electricity, poison
-
-**Mod:** +2 Dex, +11 natural, -1 size
+**Fort:** +13
 
 **Ref:** +10
+
+**Will:** +6
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 20
-
-**Will:** +6
 
 **Offense**
 

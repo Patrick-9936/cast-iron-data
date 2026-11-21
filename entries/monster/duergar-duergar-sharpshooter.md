@@ -51,21 +51,25 @@ abilities = ["14", "15", "14", "10", "15", "4"]
 
 **Experience points:** 200
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 armor, +2 Dex
 
 **Hit points:** 13 (1d10+3)
 
-**Immune:** paralysis, phantasms, poison
-
-**Mod:** +3 armor, +2 Dex
+**Fort:** +4
 
 **Ref:** +4
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +2; +2 vs. spells
+
+**Immune:** paralysis, phantasms, poison
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

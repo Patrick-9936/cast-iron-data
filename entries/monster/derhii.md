@@ -56,13 +56,17 @@ its simian hands._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/15
+**Armor class:** 18
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +6 natural, -1 size
 
 **Hit points:** 59 (7d10+21)
 
-**Mod:** +3 Dex, +6 natural, -1 size
+**Fort:** +5
 
 **Ref:** +8
 

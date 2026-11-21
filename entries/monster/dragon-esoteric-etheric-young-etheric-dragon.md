@@ -51,21 +51,25 @@ _This silent dragon seems to gather shadows and gloom around its tattered-appear
 
 **Experience points:** 3,200
 
-**Armor class:** 20/11/19
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 11
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +9 natural
 
 **Hit points:** 84 (8d12+32)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +1 Dex, +9 natural
+**Fort:** +10
 
 **Ref:** +7
 
-**Sr:** 18
-
 **Will:** +7
+
+**Immune:** paralysis, sleep
+
+**Sr:** 18
 
 **Offense**
 

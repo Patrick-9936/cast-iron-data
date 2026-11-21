@@ -50,21 +50,25 @@ _Clouds trail from the edges of this graceful, nearly fanciful creature in hypno
 
 **Experience points:** 9,600
 
-**Armor class:** 22/10/21
+**Armor class:** 22
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 21
+
+**AC modifiers:** +1 Dex, +12 natural, -1 size
 
 **Hit points:** 104 (11d12+33)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +1 Dex, +12 natural, -1 size
+**Fort:** +10
 
 **Ref:** +8
 
-**Sr:** 21
-
 **Will:** +9
+
+**Immune:** paralysis, sleep
+
+**Sr:** 21
 
 **Offense**
 

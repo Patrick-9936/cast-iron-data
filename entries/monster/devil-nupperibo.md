@@ -49,23 +49,27 @@ abilities = ["10", "10", "10", "-", "11", "4"]
 
 **Experience points:** 400
 
-**Armor class:** 12/10/12
+**Armor class:** 12
 
-**Dr:** 5/good or silver
+**Touch:** 10
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +2 natural
 
 **Hit points:** 5 (1d10)
 
-**Immune:** fire, mind-affecting effects, poison
-
-**Mod:** +2 natural
+**Fort:** +2
 
 **Ref:** +2
 
-**Resist:** acid 10, cold 10
-
 **Will:** +0
+
+**Dr:** 5/good or silver
+
+**Immune:** fire, mind-affecting effects, poison
+
+**Resist:** acid 10, cold 10
 
 **Offense**
 

@@ -56,7 +56,21 @@ her most disturbing feature._
 
 **Experience points:** 102,400
 
-**Armor class:** 34/24/28
+**Armor class:** 34
+
+**Touch:** 24
+
+**Flat-footed:** 28
+
+**AC modifiers:** +4 deflection, +5 Dex, +1 dodge, +10 natural, +4 profane
+
+**Hit points:** 263 (17d10+170)
+
+**Fort:** +19
+
+**Ref:** +23
+
+**Will:** +20
 
 **Defensive abilities:** profane grace
 
@@ -64,21 +78,11 @@ her most disturbing feature._
 
 **Evasion:** present
 
-**Fort:** +19
-
-**Hit points:** 263 (17d10+170)
-
 **Immune:** electricity, poison
-
-**Mod:** +4 deflection, +5 Dex, +1 dodge, +10 natural, +4 profane
-
-**Ref:** +23
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 28
-
-**Will:** +20
 
 **Offense**
 

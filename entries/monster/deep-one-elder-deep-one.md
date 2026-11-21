@@ -54,29 +54,33 @@ predator._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/11/24
+**Armor class:** 29
+
+**Touch:** 11
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 deflection, +1 Dex, +18 natural, -4 size
+
+**Hit points:** 202 (15d8+135)
+
+**Fort:** +18
+
+**Ref:** +16
+
+**Will:** +19
 
 **Defensive abilities:** mind reflection
 
 **Dr:** 10/magic and piercing
 
-**Fort:** +18
-
-**Hit points:** 202 (15d8+135)
-
 **Immune:** cold, disease
-
-**Mod:** +4 deflection, +1 Dex, +18 natural, -4 size
-
-**Ref:** +16
 
 **Regen:** 10 (fire)
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 25
-
-**Will:** +19
 
 **Offense**
 

@@ -54,21 +54,25 @@ rather than reflect the light._
 
 **Experience points:** 135
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 9
+
+**Flat-footed:** 17
+
+**AC modifiers:** +6 armor, -1 Dex, +2 shield
 
 **Hit points:** 8 (1d10+3)
 
-**Immune:** paralysis, phantasms, poison
-
-**Mod:** +6 armor, -1 Dex, +2 shield
+**Fort:** +4
 
 **Ref:** -1
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +1; +2 vs. spells
+
+**Immune:** paralysis, phantasms, poison
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

@@ -54,31 +54,35 @@ hooves, and her three tails are studded with barbs._
 
 **Experience points:** 9,830,400
 
-**Armor class:** 48/41/35
+**Armor class:** 48
+
+**Touch:** 41
+
+**Flat-footed:** 35
+
+**AC modifiers:** +4 deflection, +13 Dex, +7 natural, +14 profane
+
+**Hit points:** 774 (36d10+576)
+
+**Fort:** +32
+
+**Ref:** +37
+
+**Will:** +35
 
 **Defensive abilities:** Abyssal resurrection,
 _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/cold iron, epic, and lawful
 
-**Fort:** +32
-
-**Hit points:** 774 (36d10+576)
-
 **Immune:** ability damage and drain, charm and compulsion effects, death effects, electricity,
 energy drain, fire, petrification, poison
-
-**Mod:** +4 deflection, +13 Dex, +7 natural, +14 profane
-
-**Ref:** +37
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, cold 30
 
 **Sr:** 41
-
-**Will:** +35
 
 **Offense**
 

@@ -53,7 +53,21 @@ spiky armor._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/18/30
+**Armor class:** 34
+
+**Touch:** 18
+
+**Flat-footed:** 30
+
+**AC modifiers:** +8 armor, +4 deflection, +4 Dex, +8 natural
+
+**Hit points:** 332 (19d10+228)
+
+**Fort:** +27
+
+**Ref:** +16
+
+**Will:** +21
 
 **Defensive abilities:** armor plating
 
@@ -61,21 +75,11 @@ spiky armor._
 
 **Fh:** 10
 
-**Fort:** +27
-
-**Hit points:** 332 (19d10+228)
-
 **Immune:** bleed, electricity, poison
-
-**Mod:** +8 armor, +4 deflection, +4 Dex, +8 natural
-
-**Ref:** +16
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 30
-
-**Will:** +21
 
 **Offense**
 

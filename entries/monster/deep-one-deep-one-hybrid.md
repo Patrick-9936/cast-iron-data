@@ -53,13 +53,17 @@ his bloodline._
 
 **Experience points:** 200
 
-**Armor class:** 13/10/13
+**Armor class:** 13
 
-**Fort:** +5
+**Touch:** 10
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +1 natural
 
 **Hit points:** 12 (1d8+4)
 
-**Mod:** +2 armor, +1 natural
+**Fort:** +5
 
 **Ref:** +0
 

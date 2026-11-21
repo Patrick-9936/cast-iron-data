@@ -54,27 +54,31 @@ membranous dragonfly wings._
 
 **Experience points:** 153,600
 
-**Armor class:** 31/15/26
+**Armor class:** 31
+
+**Touch:** 15
+
+**Flat-footed:** 26
+
+**AC modifiers:** +5 Dex, +16 natural
+
+**Hit points:** 304 (21d10+189)
+
+**Fort:** +16
+
+**Ref:** +17
+
+**Will:** +17
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 10/cold iron and lawful
 
-**Fort:** +16
-
-**Hit points:** 304 (21d10+189)
-
 **Immune:** electricity, poison
-
-**Mod:** +5 Dex, +16 natural
-
-**Ref:** +17
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 29
-
-**Will:** +17
 
 **Offense**
 

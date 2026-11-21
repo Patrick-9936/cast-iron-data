@@ -49,19 +49,23 @@ crown._
 
 **Experience points:** 12,800
 
-**Armor class:** 23/10/22
+**Armor class:** 23
 
-**Fort:** +12
+**Touch:** 10
+
+**Flat-footed:** 22
+
+**AC modifiers:** +1 Dex, +13 natural, -1 size
 
 **Hit points:** 126 (12d12+48)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +1 Dex, +13 natural, -1 size
+**Fort:** +12
 
 **Ref:** +11
 
 **Will:** +13
+
+**Immune:** paralysis, sleep
 
 **Offense**
 

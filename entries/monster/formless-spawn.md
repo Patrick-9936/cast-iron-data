@@ -54,27 +54,31 @@ into a dark gullet._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/22/13
+**Armor class:** 22
+
+**Touch:** 22
+
+**Flat-footed:** 13
+
+**AC modifiers:** +5 deflection, +9 Dex, -2 size
+
+**Hit points:** 126 (12d8+72)
+
+**Fort:** +10
+
+**Ref:** +13
+
+**Will:** +5
 
 **Dr:** 10/-
 
 **Fh:** 10
 
-**Fort:** +10
-
-**Hit points:** 126 (12d8+72)
-
 **Immune:** acid, aging effects, [ooze traits](ref/umr/ooze-traits), piercing damage
-
-**Mod:** +5 deflection, +9 Dex, -2 size
-
-**Ref:** +13
 
 **Resist:** electricity 10
 
 **Sr:** 21
-
-**Will:** +5
 
 **Offense**
 

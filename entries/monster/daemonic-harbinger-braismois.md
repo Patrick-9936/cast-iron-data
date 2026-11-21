@@ -53,26 +53,30 @@ wears black robes that cover most of its rotting, frostbitten flesh._
 
 **Experience points:** 614,400
 
-**Armor class:** 40/28/30
+**Armor class:** 40
 
-**Dr:** 20/good and silver
+**Touch:** 28
+
+**Flat-footed:** 30
+
+**AC modifiers:** +8 deflection, +10 Dex, +12 natural
+
+**Hit points:** 377 (26d10+234)
 
 **Fort:** +17
 
-**Hit points:** 377 (26d10+234)
+**Ref:** +25
+
+**Will:** +24
+
+**Dr:** 20/good and silver
 
 **Immune:** acid, charm, compulsion, death effects, disease, emotion, enchantments, mind-reading,
 poison
 
-**Mod:** +8 deflection, +10 Dex, +12 natural
-
-**Ref:** +25
-
 **Resist:** cold 30, electricity 30, fire 30
 
 **Sr:** 33
-
-**Will:** +24
 
 **Offense**
 

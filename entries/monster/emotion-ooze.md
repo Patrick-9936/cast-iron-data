@@ -50,21 +50,25 @@ _This viscous blob of brightly colored goo quivers and pulses in a curious manne
 
 **Experience points:** 2,400
 
-**Armor class:** 13/13/13
+**Armor class:** 13
 
-**Amorph:** present
+**Touch:** 13
 
-**Fort:** +13
+**Flat-footed:** 13
+
+**AC modifiers:** +6 deflection, -3 Dex
 
 **Hit points:** 76 (9d8+36)
 
-**Immune:** mind-affecting effects, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +6 deflection, -3 Dex
+**Fort:** +13
 
 **Ref:** +6
 
 **Will:** +11
+
+**Amorph:** present
+
+**Immune:** mind-affecting effects, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

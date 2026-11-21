@@ -51,25 +51,29 @@ and hatred._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/18/14
+**Armor class:** 18
 
-**Chan Res:** +2
+**Touch:** 18
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 deflection, +3 Dex, +1 dodge
+
+**Hit points:** 68 (8d8+32)
 
 **Fort:** +6
 
-**Hit points:** 68 (8d8+32)
+**Ref:** +5
+
+**Will:** +8
+
+**Chan Res:** +2
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +4 deflection, +3 Dex, +1 dodge
-
-**Ref:** +5
-
 **Weaknesses:** exiled
-
-**Will:** +8
 
 **Offense**
 

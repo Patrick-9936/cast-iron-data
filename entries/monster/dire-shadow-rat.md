@@ -49,21 +49,25 @@ Its semi-translucent skin shows discolored bones and muscles._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/11
+**Armor class:** 14
 
-**Defensive abilities:** incorporeal form, shadow blend
+**Touch:** 14
 
-**Fort:** +1
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
 
 **Hit points:** 11 (2d8+2)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +1 size
+**Fort:** +1
 
 **Ref:** +3
 
 **Will:** +4
+
+**Defensive abilities:** incorporeal form, shadow blend
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

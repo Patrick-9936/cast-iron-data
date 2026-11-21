@@ -51,25 +51,29 @@ _This disembodied and bestial head covered in lashing hair and curling horns fli
 
 **Experience points:** 600
 
-**Armor class:** 18/15/15
+**Armor class:** 18
 
-**Dr:** 10/cold iron or good
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +3 natural, +2 size
 
 **Hit points:** 16 (3d10)
 
-**Immune:** fire, poison
-
-**Mod:** +3 Dex, +3 natural, +2 size
+**Fort:** +3
 
 **Ref:** +4
+
+**Will:** +4
+
+**Dr:** 10/cold iron or good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 13
-
-**Will:** +4
 
 **Offense**
 

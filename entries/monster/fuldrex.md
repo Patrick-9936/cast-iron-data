@@ -49,21 +49,25 @@ malevolently from beneath layers of dripping, fungal hair._
 
 **Experience points:** 12,800
 
-**Armor class:** 27/12/26
+**Armor class:** 27
 
-**Fort:** +16
+**Touch:** 12
+
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +15 natural, +1 size
 
 **Hit points:** 168 (16d8+96)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
-
-**Mod:** +1 Dex, +15 natural, +1 size
+**Fort:** +16
 
 **Ref:** +8
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +6
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

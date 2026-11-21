@@ -47,19 +47,23 @@ _Short legs and overlarge ears make this broad-chested canine seem almost comica
 
 **Experience points:** 400
 
-**Armor class:** 11/10/11
+**Armor class:** 11
 
-**Defensive abilities:** stability
+**Touch:** 10
 
-**Fort:** +6
+**Flat-footed:** 11
+
+**AC modifiers:** +1 natural
 
 **Hit points:** 15 (2d8+6)
 
-**Mod:** +1 natural
+**Fort:** +6
 
 **Ref:** +3
 
 **Will:** +1
+
+**Defensive abilities:** stability
 
 **Offense**
 

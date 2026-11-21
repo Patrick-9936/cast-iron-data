@@ -48,13 +48,17 @@ _This small bird has a mix of brown and white feathers and makes a loud croaking
 
 **Experience points:** 65
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +0
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 2 (1d8-2)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +0
 
 **Ref:** +4
 

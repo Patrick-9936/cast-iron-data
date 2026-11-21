@@ -58,29 +58,33 @@ armor and weapons seem quite solid._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/17/19
+**Armor class:** 22
+
+**Touch:** 17
+
+**Flat-footed:** 19
+
+**AC modifiers:** +4 armor, +4 deflection, +3 Dex, +1 shield
+
+**Hit points:** 93 (11d8+44)
+
+**Fort:** +7
+
+**Ref:** +6
+
+**Will:** +10
 
 **Chan Res:** +4
 
 **Defensive abilities:** rejuvenation
 
-**Fort:** +7
-
-**Hit points:** 93 (11d8+44)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +4 armor, +4 deflection, +3 Dex, +1 shield
-
-**Ref:** +6
-
 **Resist:** acid 5, fire 5
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +10
 
 **Offense**
 

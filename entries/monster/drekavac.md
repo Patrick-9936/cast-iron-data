@@ -52,23 +52,27 @@ death and disease._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/14
+**Armor class:** 15
 
-**Dr:** 5/silver
+**Touch:** 12
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +3 natural, +1 size
 
 **Hit points:** 30 (4d8+12)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +3 natural, +1 size
+**Fort:** +4
 
 **Ref:** +2
 
-**Weaknesses:** sunlight aversion, vulnerability to magic, vulnerability to salt
-
 **Will:** +7
+
+**Dr:** 5/silver
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Weaknesses:** sunlight aversion, vulnerability to magic, vulnerability to salt
 
 **Offense**
 

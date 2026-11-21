@@ -46,13 +46,17 @@ tail ending in a bony club._
 
 **Experience points:** 2,400
 
-**Armor class:** 22/8/22
+**Armor class:** 22
 
-**Fort:** +12
+**Touch:** 8
+
+**Flat-footed:** 22
+
+**AC modifiers:** +14 natural, -2 size
 
 **Hit points:** 75 (10d8+30)
 
-**Mod:** +14 natural, -2 size
+**Fort:** +12
 
 **Ref:** +7
 

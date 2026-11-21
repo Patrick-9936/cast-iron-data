@@ -50,25 +50,29 @@ wiry._
 
 **Experience points:** 600
 
-**Armor class:** 16/14/14
+**Armor class:** 16
+
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +2 natural, +2 size
+
+**Hit points:** 16 (3d10)
+
+**Fort:** +1
+
+**Ref:** +5
+
+**Will:** +4
 
 **Dr:** 5/cold iron or good
 
 **Fh:** 2
 
-**Fort:** +1
-
-**Hit points:** 16 (3d10)
-
 **Immune:** electricity, poison
 
-**Mod:** +2 Dex, +2 natural, +2 size
-
-**Ref:** +5
-
 **Resist:** acid 10, cold 10, fire 10
-
-**Will:** +4
 
 **Offense**
 

@@ -45,19 +45,23 @@ _The creeping tendrils of this plant creature guide its way up tree trunks and w
 
 **Experience points:** 100
 
-**Armor class:** 15/14/13
+**Armor class:** 15
 
-**Fort:** +2
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 natural, +2 size
 
 **Hit points:** 4 (1d8)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +1 natural, +2 size
+**Fort:** +2
 
 **Ref:** +2
 
 **Will:** +0
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

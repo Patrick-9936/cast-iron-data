@@ -51,19 +51,23 @@ mouth at the end of a long stalk._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/15/15
+**Armor class:** 21
 
-**Fort:** +12
+**Touch:** 15
+
+**Flat-footed:** 15
+
+**AC modifiers:** +6 Dex, +6 natural, -1 size
 
 **Hit points:** 95 (10d8+50)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +6 Dex, +6 natural, -1 size
+**Fort:** +12
 
 **Ref:** +11
 
 **Will:** +7
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

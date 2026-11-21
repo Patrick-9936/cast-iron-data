@@ -52,21 +52,25 @@ from between its powerful jaws._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
 
 **Hit points:** 84 (8d12+32)
 
-**Immune:** cold, paralysis, sleep
-
-**Mod:** +1 Dex, +10 natural, -1 size
+**Fort:** +10
 
 **Ref:** +7
 
-**Vulner:** fire
-
 **Will:** +5
+
+**Immune:** cold, paralysis, sleep
+
+**Vulner:** fire
 
 **Offense**
 

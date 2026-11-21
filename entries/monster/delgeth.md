@@ -51,19 +51,23 @@ and bursts into flame._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +6 natural
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** fire
-
-**Mod:** +2 Dex, +6 natural
+**Fort:** +9
 
 **Ref:** +8
 
 **Will:** +3
+
+**Immune:** fire
 
 **Offense**
 

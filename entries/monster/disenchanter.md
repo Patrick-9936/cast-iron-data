@@ -51,21 +51,25 @@ shimmer with magical energy._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/12
+**Armor class:** 15
 
-**Dr:** 5/magic
+**Touch:** 12
 
-**Fort:** +6
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +3 natural, -1 size
 
 **Hit points:** 30 (4d10+8)
 
-**Mod:** +3 Dex, +3 natural, -1 size
+**Fort:** +6
 
 **Ref:** +7
 
-**Weaknesses:** vulnerable to _[dispel magic](ref/spell/dispel-magic)_
-
 **Will:** +4
+
+**Dr:** 5/magic
+
+**Weaknesses:** vulnerable to _[dispel magic](ref/spell/dispel-magic)_
 
 **Offense**
 

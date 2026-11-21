@@ -52,21 +52,25 @@ weapon glistens with poison._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/14/17
+**Armor class:** 20
 
-**Fort:** +11
+**Touch:** 14
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 armor, +3 Dex, +2 natural, +1 size
 
 **Hit points:** 81 (3d8+4d10+46\~7)
 
-**Mod:** +4 armor, +3 Dex, +2 natural, +1 size
+**Fort:** +11
 
 **Ref:** +8
+
+**Will:** +6
 
 **Sr:** 18
 
 **Weaknesses:** vulnerability to sunlight
-
-**Will:** +6
 
 **Offense**
 

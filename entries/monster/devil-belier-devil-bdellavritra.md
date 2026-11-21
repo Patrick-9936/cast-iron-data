@@ -54,25 +54,29 @@ three human heads at the other._
 
 **Experience points:** 76,800
 
-**Armor class:** 33/15/27
+**Armor class:** 33
 
-**Dr:** 10/good and silver
+**Touch:** 15
 
-**Fort:** +17
+**Flat-footed:** 27
+
+**AC modifiers:** +6 Dex, +18 natural, -1 size
 
 **Hit points:** 212 (17d10+119)
 
-**Immune:** fire, poison
-
-**Mod:** +6 Dex, +18 natural, -1 size
+**Fort:** +17
 
 **Ref:** +11
+
+**Will:** +20
+
+**Dr:** 10/good and silver
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 28
-
-**Will:** +20
 
 **Offense**
 

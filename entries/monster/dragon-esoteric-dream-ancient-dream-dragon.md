@@ -51,25 +51,29 @@ abilities = ["33", "9", "24", "24", "23", "26"]
 
 **Experience points:** 204,800
 
-**Armor class:** 38/5/38
+**Armor class:** 38
+
+**Touch:** 5
+
+**Flat-footed:** 38
+
+**AC modifiers:** -1 Dex, +33 natural, -4 size
+
+**Hit points:** 337 (25d12+175)
+
+**Fort:** +21
+
+**Ref:** +15
+
+**Will:** +22
 
 **Defensive abilities:** dream fortress
 
 **Dr:** 15/magic
 
-**Fort:** +21
-
-**Hit points:** 337 (25d12+175)
-
 **Immune:** paralysis, sleep
 
-**Mod:** -1 Dex, +33 natural, -4 size
-
-**Ref:** +15
-
 **Sr:** 30
-
-**Will:** +22
 
 **Offense**
 

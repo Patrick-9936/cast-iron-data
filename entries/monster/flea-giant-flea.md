@@ -49,21 +49,25 @@ greedily clatter for blood._
 
 **Experience points:** 200
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Dr:** 5/slashing
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** disease, mind-affecting effects
-
-**Mod:** +2 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +2
 
 **Will:** +0
+
+**Dr:** 5/slashing
+
+**Immune:** disease, mind-affecting effects
 
 **Offense**
 

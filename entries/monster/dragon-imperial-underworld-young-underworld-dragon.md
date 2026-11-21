@@ -52,21 +52,25 @@ stone-like horns and scales._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/11/20
+**Armor class:** 21
 
-**Fort:** +9
+**Touch:** 11
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +10 natural
 
 **Hit points:** 76 (8d12+24)
 
-**Immune:** fire, paralysis, sleep
-
-**Mod:** +1 Dex, +10 natural
+**Fort:** +9
 
 **Ref:** +7
 
-**Vulner:** cold
-
 **Will:** +7
+
+**Immune:** fire, paralysis, sleep
+
+**Vulner:** cold
 
 **Offense**
 

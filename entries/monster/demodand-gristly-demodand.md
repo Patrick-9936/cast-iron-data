@@ -52,29 +52,33 @@ greasy skin._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/16/26
+**Armor class:** 32
+
+**Touch:** 16
+
+**Flat-footed:** 26
+
+**AC modifiers:** +1 armor, +6 Dex, +15 natural
+
+**Hit points:** 264 (23d10+138)
+
+**Fort:** +19
+
+**Ref:** +15
+
+**Will:** +15; +4 vs. divine spells
 
 **Dr:** 15/good and slashing
 
 **Fh:** 10
 
-**Fort:** +19
-
 **Fortif:** 50
 
-**Hit points:** 264 (23d10+138)
-
 **Immune:** acid, poison
-
-**Mod:** +1 armor, +6 Dex, +15 natural
-
-**Ref:** +15
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 28
-
-**Will:** +15; +4 vs. divine spells
 
 **Offense**
 

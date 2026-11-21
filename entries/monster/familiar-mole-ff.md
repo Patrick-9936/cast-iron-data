@@ -47,13 +47,17 @@ thick paws that end in digging claws._
 
 **Experience points:** 65
 
-**Armor class:** 12/12/12
+**Armor class:** 12
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 size
 
 **Hit points:** 6 (1d8+2)
 
-**Mod:** +2 size
+**Fort:** +4
 
 **Ref:** +2
 

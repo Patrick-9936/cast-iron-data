@@ -53,19 +53,23 @@ _Beneath ragged shreds, this lean figure's chalky skin darkens to charred hues a
 
 **Experience points:** 200
 
-**Armor class:** 15/13/12
+**Armor class:** 15
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 armor, +3 Dex
 
 **Hit points:** 12 (1d8+4)
 
-**Mod:** +2 armor, +3 Dex
+**Fort:** +3
 
 **Ref:** +5
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** -1
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

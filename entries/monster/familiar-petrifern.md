@@ -49,21 +49,25 @@ feet._
 
 **Experience points:** 65
 
-**Armor class:** 15/13/15
+**Armor class:** 15
 
-**Defensive abilities:** self-petrification, toxic secretion
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 15
+
+**AC modifiers:** -1 Dex, +2 natural, +4 size
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** -1 Dex, +2 natural, +4 size
+**Fort:** +3
 
 **Ref:** -1
 
 **Will:** -2
+
+**Defensive abilities:** self-petrification, toxic secretion
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

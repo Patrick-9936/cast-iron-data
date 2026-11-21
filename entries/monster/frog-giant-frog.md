@@ -48,13 +48,17 @@ truly monstrous size._
 
 **Experience points:** 400
 
-**Armor class:** 12/11/11
+**Armor class:** 12
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 natural
 
 **Hit points:** 15 (2d8+6)
 
-**Mod:** +1 Dex, +1 natural
+**Fort:** +6
 
 **Ref:** +6
 

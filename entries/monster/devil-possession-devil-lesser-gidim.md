@@ -52,27 +52,31 @@ looming malevolence and faint foul breath._
 
 **Experience points:** 2,400
 
-**Armor class:** 17/17/13
+**Armor class:** 17
 
-**Dr:** 5/good
+**Touch:** 17
 
-**Fort:** +8
+**Flat-footed:** 13
+
+**AC modifiers:** +3 deflection, +3 Dex, +1 dodge
 
 **Hit points:** 59 (7d10+21)
 
-**Incorporeal:** present
-
-**Mod:** +3 deflection, +3 Dex, +1 dodge
+**Fort:** +8
 
 **Ref:** +10
+
+**Will:** +7
+
+**Dr:** 5/good
+
+**Incorporeal:** present
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 17
 
 **Weaknesses:** sunlight weakness
-
-**Will:** +7
 
 **Offense**
 

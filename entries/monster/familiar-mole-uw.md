@@ -49,13 +49,17 @@ digging claws._
 
 **Experience points:** 50
 
-**Armor class:** 14/14/14
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 size
 
 **Hit points:** 6 (1d8+2)
 
-**Mod:** +4 size
+**Fort:** +4
 
 **Ref:** +2
 

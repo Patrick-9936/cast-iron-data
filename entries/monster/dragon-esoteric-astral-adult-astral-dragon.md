@@ -54,25 +54,29 @@ abilities = ["27", "12", "20", "21", "20", "16"]
 
 **Experience points:** 25,600
 
-**Armor class:** 28/9/27
+**Armor class:** 28
+
+**Touch:** 9
+
+**Flat-footed:** 27
+
+**AC modifiers:** +1 Dex, +19 natural, -2 size
+
+**Hit points:** 184 (16d12+80)
+
+**Fort:** +15
+
+**Ref:** +11
+
+**Will:** +17; +4 vs. psychic spells
 
 **Defensive abilities:** psychic resilience
 
 **Dr:** 5/magic
 
-**Fort:** +15
-
-**Hit points:** 184 (16d12+80)
-
 **Immune:** paralysis, sleep
 
-**Mod:** +1 Dex, +19 natural, -2 size
-
-**Ref:** +11
-
 **Sr:** 24
-
-**Will:** +17; +4 vs. psychic spells
 
 **Offense**
 

@@ -50,21 +50,25 @@ _This giant fanged cricket is caked in pungent fungal growths and topped with a 
 
 **Experience points:** 800
 
-**Armor class:** 16/16/11
+**Armor class:** 16
 
-**Defensive abilities:** plant defenses
+**Touch:** 16
 
-**Fort:** +3
+**Flat-footed:** 11
+
+**AC modifiers:** +5 Dex, +1 size
 
 **Hit points:** 26 (4d8+8)
 
-**Immune:** mind-affecting effects, paralysis, poison, polymorph effects, sleep, stunning
-
-**Mod:** +5 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +6
 
 **Will:** +5
+
+**Defensive abilities:** plant defenses
+
+**Immune:** mind-affecting effects, paralysis, poison, polymorph effects, sleep, stunning
 
 **Offense**
 

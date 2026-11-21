@@ -54,19 +54,23 @@ _This ferocious creature looks like a red-and-yellow scaled dragon, but with onl
 
 **Experience points:** 1,600
 
-**Armor class:** 18/10/17
+**Armor class:** 18
 
-**Fort:** +8
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +8 natural, -1 size
 
 **Hit points:** 57 (6d12+18)
 
-**Immune:** fire, paralysis, sleep
-
-**Mod:** +1 Dex, +8 natural, -1 size
+**Fort:** +8
 
 **Ref:** +6
 
 **Will:** +6
+
+**Immune:** fire, paralysis, sleep
 
 **Offense**
 
