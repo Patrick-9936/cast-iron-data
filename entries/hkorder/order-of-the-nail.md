@@ -78,15 +78,15 @@ other classes.
 
 **2: Identification (Su)**
 
+**Swift:** Three times per day, you can choose a living creature within sight and know its creature
+type, ethnicity (if any), and alignment. Additionally, for a number of hours equal to your character
+level, that creature is treated as though you had cast the spell [status](ref/spell/status) upon it.
+
 **Special:** Though unaware of your probing, the target can attempt a Will saving throw to negate
 this ability (DC = 10 + 1/2 your Hit Dice + your Charisma modifier). Spells such as
 [undetectable alignment](ref/spell/undetectable-alignment) may prevent a portion of this information
 from being gleaned, while spells such as [nondetection](ref/spell/nondetection) stymie this effect
 entirely. This is a divination effect.
-
-**Swift:** Three times per day, you can choose a living creature within sight and know its creature
-type, ethnicity (if any), and alignment. Additionally, for a number of hours equal to your character
-level, that creature is treated as though you had cast the spell [status](ref/spell/status) upon it.
 
 **3: End Superstition (Sp)**
 

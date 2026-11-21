@@ -68,20 +68,17 @@ destroying seditious writing and strange inventions.
 
 **1: Mute (Su)**
 
-**Special:** Each round on its turn, the target can attempt a new saving throw to end the effect.
-This effect is [dismissible](ref/misc/dismissible). It does not make the target immune to sonic or
-language-based attacks, spells, or effects.
-
 **Standard:** Three times per day, you can target a single creature within 100 feet. If the creature
 fails a Will saving throw (DC = 10 + 1/2 your Hit Dice + your Charisma modifier), the creature
 cannot make any sounds for a number of rounds equal to your character level. This prevents the
 target from speaking, otherwise making noise, casting spells with verbal components, and using
 similar abilities with auditory effects.
 
-**2: Dismantle (Su)**
+**Special:** Each round on its turn, the target can attempt a new saving throw to end the effect.
+This effect is [dismissible](ref/misc/dismissible). It does not make the target immune to sonic or
+language-based attacks, spells, or effects.
 
-**Special:** You and your possessions can enter the cloud and not be affected. This effect is
-dismissible.
+**2: Dismantle (Su)**
 
 **Standard:** Once per day, you can cause a cloud of thick, brown fog to arise from a chosen point
 within 200 feet. This cloud functions as per [fog cloud](ref/spell/fog-cloud), using your character
@@ -93,6 +90,9 @@ Attended metal objects, including weapons and armor, receive a Fortitude saving 
 effect using their wielder's Fortitude saving throw bonus (DC = 10 + 1/2 your Hit Dice + your
 Charisma modifier). Creatures within the cloud are affected by the rusting effect only once, not
 every round, but creatures that move back into the area are exposed again.
+
+**Special:** You and your possessions can enter the cloud and not be affected. This effect is
+dismissible.
 
 **3: Ruin (Sp)**
 

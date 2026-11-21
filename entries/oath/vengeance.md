@@ -36,11 +36,11 @@ _smite evil_ that day.
 
 **Powerful Justice (Su)**
 
+**Gained:** At 11th Level
+
 **Ability:** An oathbound paladin may spends one use of her _smite evil_ ability to grant her allies
 within 10 feet the ability to _smite evil,_ except they only gain the paladin's bonus to damage, not
 her _smite's_ attack bonus or ability to bypass DR.
-
-**Gained:** At 11th Level
 
 **Replaces:** Aura of justice
 

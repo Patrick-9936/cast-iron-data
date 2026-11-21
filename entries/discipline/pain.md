@@ -66,14 +66,14 @@ only when you suffer pain.
 
 **Painful Reminder (Su)**
 
-**At 15th Level:** The damage becomes 3d6 .
-
-**At 8th Level:** This damage increases to 2d6.
-
 **Swift:** You can cause an enemy to take 1d6 points of nonlethal damage if you dealt damage to that
 enemy with a spell since the start of your previous turn.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 8th level,** this damage increases to 2d6.
+
+**At 15th level,** the damage becomes 3d6 .
 
 **Power from Pain (Su)**
 

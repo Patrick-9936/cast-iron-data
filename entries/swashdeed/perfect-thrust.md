@@ -14,9 +14,9 @@ group = "swashbuckler-deed"
 
 **Perfect Thrust (Ex)**
 
-**Fullround:** While the swashbuckler has at least 1 panache point, she can make a _perfect thrust,_
-pooling all of her attack potential into a single melee attack made with a light or one-handed
-piercing melee weapon. When she does, she makes the attack against the target's touch AC, and
-ignores all [damage reduction](ref/rule/damage-reduction).
+**Full-round:** While the swashbuckler has at least 1 panache point, she can make a _perfect
+thrust,_ pooling all of her attack potential into a single melee attack made with a light or
+one-handed piercing melee weapon. When she does, she makes the attack against the target's touch AC,
+and ignores all [damage reduction](ref/rule/damage-reduction).
 
 **Prereq:** 15th-level swashbuckler

@@ -18,11 +18,11 @@ group = "hellknight-discipline"
 as if using a [summon monster](ref/spell/summon-monster) spell, save that the summoned creature
 lingers for 1 hour before vanishing.
 
-**At 6th Level:** The Hellknight can summon either an [eagle](ref/monster/eagle), a
+**At 6th level,** the Hellknight can summon either an [eagle](ref/monster/eagle), a
 [riding dog](ref/monster/dog-riding-dog), a [wolf](ref/monster/wolf), or a
 [leopard](ref/monster/cat-leopard).
 
-**At 9th Level:** The Hellknight can instead opt to summon a [dire wolf](ref/monster/wolf-dire-wolf)
+**At 9th level,** the Hellknight can instead opt to summon a [dire wolf](ref/monster/wolf-dire-wolf)
 or a [hell hound](ref/monster/hell-hound).
 
 **Order:** Any order

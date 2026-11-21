@@ -30,10 +30,10 @@ powerful foes head on.
 
 **Breath Evasion (Su)**
 
+**Gained:** At 4th Level
+
 **Ability:** A paladin with this oath gains [evasion](ref/ability/evasion), but only against the
 breath weapons of creatures with the dragon type.
-
-**Gained:** At 4th Level
 
 **Replaces:** Channel positive energy
 

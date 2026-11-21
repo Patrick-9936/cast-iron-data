@@ -87,10 +87,10 @@ armor.
 
 **3: Unfathomable Gaze (Sp)**
 
+**Flavor:** You are able to focus your staunch Hellknight training into a spell-like ritual that
+allows you to glean information that could be vital to your mission of enforcing the law.
+
 **Ability:** Once per day, while wearing a signifer mask, you can use [vision](ref/spell/vision) as
 a [spell-like ability](ref/umr/spell-like-abilities), treating your total character level as your
 caster level. Unlike casting the spell normally, you are not fatigued after this ability is
 complete, as your training allows you to shake off what might tire lesser individuals.
-
-**Flavor:** You are able to focus your staunch Hellknight training into a spell-like ritual that
-allows you to glean information that could be vital to your mission of enforcing the law.

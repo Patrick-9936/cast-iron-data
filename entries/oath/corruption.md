@@ -41,13 +41,13 @@ or dead.
 
 **Cleansing Flame (Sp)**
 
+**Gained:** At 11th Level
+
 **Ability:** You may expend two uses of your _smite evil_ ability to ignite your weapon with a
 cleansing blue flame for 1 minute. This flame sheds light as a [torch](ref/eq-misc/torch).
 Aberrations within 20 feet of the flame take a -4 penalty on attack rolls against you and your
 allies, and your allies within 20 feet of the flame gain a +2 sacred bonus on saving throws against
 spells and effects from aberrations.
-
-**Gained:** At 11th Level
 
 **Replaces:** Aura of justice
 

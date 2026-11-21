@@ -67,11 +67,11 @@ commitment to the Measure and the Chain must be beyond reproach.
 
 **1: Spill Guilty Blood (Sp)**
 
+**Flavor:** The end of a lawbreaker invigorates you like nothing else.
+
 **Ability:** Twice per day, you can cast [death knell](ref/spell/death-knell) as a
 [spell-like ability](ref/umr/spell-like-abilities), using your character level as your caster level
 (DC = 12 + your Charisma modifier).
-
-**Flavor:** The end of a lawbreaker invigorates you like nothing else.
 
 **Special:** If you do not have a caster level, instead of a +1 increase in effective caster level,
 this ability provides you a +1 bonus on attack and damage rolls for 10 minutes per Hit Die of the
@@ -80,11 +80,11 @@ instead of to your effective caster level.
 
 **2: Terrible Justice (Sp)**
 
+**Flavor:** You end a foe's life with a brutal display of force.
+
 **Ability:** Three times per day, when you perform a _coup de grace,_ all foes within 30 feet must
 succeed at a Will saving throw or be affected as per the spell [fear](ref/spell/fear) (DC = 14 +
 your Charisma modifier).
-
-**Flavor:** You end a foe's life with a brutal display of force.
 
 **3: Reason to Fear (Su)**
 
