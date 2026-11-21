@@ -2,11 +2,17 @@
 """Rewrite class-option powers into the canonical row order (phynics/cast-iron-data#88).
 
 The spec is the decision `2026-11-20-class-option-power-layout` of phynics/cast-iron (sections 1
-and 2, "Rewrite and survey algorithm", "Fixtures") and its correction
-`2026-11-21-class-option-power-counts`. The app's `cast_iron_schema::power` is the one
-classifier and validator; `cargo xtask corpus-check` runs it on this corpus. This script mirrors
-it over source text, rewrites what it can without guessing, and queues everything else for print
-review with the whole span unchanged.
+and 2, "Rewrite and survey algorithm", "Fixtures"), its correction
+`2026-11-21-class-option-power-counts` and the owner's answers
+`2026-11-21-class-option-power-owner-cases` (the "What the data rewrite must change" list). The
+app's `cast_iron_schema::power` is the one classifier and validator; `cargo xtask corpus-check`
+runs it on this corpus. This script mirrors it over source text, rewrites what it can without
+guessing, and queues everything else for print review with the whole span unchanged.
+
+Everything that mirrors the app lives in one place, the section "the mirror of the app": the
+labels, the ranks of the canonical order, the section labels that are never powers, the level
+grammar, the classifier, candidate discovery and `validate`. When the app's rules change, change
+that section and the "emit" step of `rewrite_run`, and nothing else.
 
 Usage
 -----
@@ -34,8 +40,11 @@ Files
     `span_sha256`, `print` (book and page) and `replacement`: a power that passes validation,
     then any blocks that belong after it (a list that print sets as bullets). A resolution
     applies only when the current span hashes to `span_sha256`. A span that already equals the
-    replacement is left alone. Any other span is a stale resolution: reported, and the power is
-    queued again.
+    replacement is left alone. Any other span is a stale resolution: it is reported, the power
+    is queued again with the reason `stale-resolution` and the automatic rewrite does not touch
+    it. A resolution whose key matches no candidate is orphaned, and one for a section label
+    that is no longer a candidate (Base Evolutions, ...) is obsolete: both are reported, and
+    `--check` and `--write` fail until they are removed.
 
 Span source text (what `span_sha256` hashes)
 --------------------------------------------
@@ -48,9 +57,13 @@ Rules of the rewrite, in short
 ------------------------------
 Candidates, the explicit Action map, allowed crossings, continuation paragraphs, the canonical
 order, the upgrade lead `**At Nth level,** <printed sentence>` and the lowercase list follow the
-decision. Only identical original `Usage` rows are deduplicated. Anything else the rewrite would
-have to guess goes to the queue with its whole span unchanged. The replacement is validated, and
-when it fails, the original span is queued. A second pass changes nothing.
+decision. A power may have two effect rows when the first is `Passive` or `Ability` and the
+second an action (`Standard`, `Move`, `Swift`, `Immediate`, `Free`, `Full-round`); each keeps its
+own continuation. `Choice` and `Info` stand after `Flavor`, before the effect. The unlabeled
+paragraphs after a `Special` row continue it. Only identical original `Usage` rows are
+deduplicated. Anything else the rewrite would have to guess goes to the queue with its whole
+span unchanged. The replacement is validated, and when it fails, the original span is queued. A
+second pass changes nothing.
 """
 
 from __future__ import annotations
@@ -64,11 +77,31 @@ from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 
+# ==== the mirror of the app: cast_iron_schema::power =========================================
+# Labels, ranks, section labels, level grammar, classifier, candidates and `validate`. Keep this
+# section in step with the app's `crates/schema/src/power.rs`.
+
 EFFECT_LABELS = (
     "Passive", "Ability", "Standard", "Move", "Swift", "Immediate", "Free", "Full-round", "Benefit",
 )
+# The effect labels of a pair: the first row is passive text, the second an action.
+PASSIVE_EFFECT_LABELS = ("Passive", "Ability")
+ACTION_EFFECT_LABELS = ("Standard", "Move", "Swift", "Immediate", "Free", "Full-round")
 ALIAS_LABELS = {"Fullround": "Full-round", "Passive Ability": "Passive", "Standard Action": "Standard"}
 ACTION_LABEL = "Action"
+# Block names that are section labels, never powers (matched on the name without a trailing colon,
+# white space folded, ASCII case ignored).
+NON_POWER_LABELS = (
+    "Base Evolutions", "Bonus Spells", "Discipline Powers", "Domain Spells", "Patron Spells",
+    "Replacement Domain Spells",
+)
+# `Choice` and `Info` (the "preface" rows) stand after `Flavor`, before the effect, each at most
+# once, in their source order.
+PREFACE_LABELS = ("Choice", "Info")
+SINGLETONS = ("Gained", "Flavor", "Choice", "Info", "Usage", "Prereq", "Replaces")
+# The position of a row in the canonical order. `Choice` and `Info` share position 4.
+RANK = {"Gained": 2, "Flavor": 3, "Choice": 4, "Info": 4, "Usage": 7, "Prereq": 9, "Replaces": 10}
+RANK_EFFECT, RANK_UPGRADE, RANK_OTHER = 5, 8, 11
 # The explicit map of an `Action` value. There is no catch-all.
 ACTION_EFFECT = {
     "Ability": "Ability", "ability": "Ability",
@@ -80,9 +113,8 @@ ACTION_EFFECT = {
     "Free Action": "Free",
     "Full-Round Action": "Full-round", "Full-round.": "Full-round",
 }
-SINGLETONS = ("Gained", "Flavor", "Usage", "Prereq", "Replaces")
 # Rows that an `Action` row's effect paragraphs may cross.
-CROSSABLE = frozenset(SINGLETONS)
+CROSSABLE = frozenset(("Gained", "Flavor", "Choice", "Info", "Usage", "Prereq", "Replaces"))
 # The first word of an upgrade sentence that the rewrite may lowercase.
 LOWERCASE_FIRST = frozenset((
     "You", "Your", "The", "This", "These", "That", "Those", "Its", "It", "A", "An", "Any", "All",
@@ -294,15 +326,23 @@ def written_name(b: Block) -> str:
     return b.label if b.kind == "name" else b.label + ":"
 
 
+def is_non_power_label(name: str) -> bool:
+    """A section label that is never a power: trimmed, no trailing colon, white space folded."""
+    folded = " ".join(name.strip().rstrip(":").split())
+    return any(label.lower() == folded.lower() and folded.isascii() for label in NON_POWER_LABELS)
+
+
 def candidates(blocks: list[Block], legacy_names: bool = False) -> list[Candidate]:
     """A name directly followed by a row, a lead or a legacy upgrade, then the run to the next
-    boundary or name; the run holds a power marker. `legacy_names` adds the rewrite's names."""
+    boundary or name; the run holds a power marker. `legacy_names` adds the rewrite's names. A
+    section label (`NON_POWER_LABELS`) is never a candidate, but it still ends the run before it."""
     out: list[Candidate] = []
     count: Counter[str] = Counter()
     i = 0
     while i < len(blocks):
         named = blocks[i].kind == "name" or (legacy_names and legacy_name(blocks, i))
-        if named and i + 1 < len(blocks) and blocks[i + 1].kind in ("row", "lead", "legacy"):
+        if (named and not is_non_power_label(blocks[i].label)
+                and i + 1 < len(blocks) and blocks[i + 1].kind in ("row", "lead", "legacy")):
             j = i + 1
             while j < len(blocks) and blocks[j].kind not in ("boundary", "name"):
                 j += 1
@@ -318,13 +358,19 @@ def candidates(blocks: list[Block], legacy_names: bool = False) -> list[Candidat
 
 # ---- validation (mirrors cast_iron_schema::power::validate_power) ----------------------------
 
-RANK = {"Gained": 2, "Flavor": 3, "Usage": 6, "Prereq": 8, "Replaces": 9}
-RANK_EFFECT, RANK_UPGRADE, RANK_OTHER = 4, 7, 10
-
 
 def gained_level(content: str) -> int | None:
     head = level_head(content.strip())
     return head.level if head and head.rest == "" and not head.lowercase else None
+
+
+def effect_class(label: str) -> str:
+    """`passive` (Passive, Ability), `action` (Standard ... Full-round) or `neither` (Benefit).
+    An alias counts as the label it becomes."""
+    label = ALIAS_LABELS.get(label, label)
+    if label in PASSIVE_EFFECT_LABELS:
+        return "passive"
+    return "action" if label in ACTION_EFFECT_LABELS else "neither"
 
 
 def validate(run: list[Block]) -> list[str]:
@@ -341,24 +387,41 @@ def validate(run: list[Block]) -> list[str]:
     if any(b.kind in ("name", "boundary") for b in body):
         note("block-in-span")
     gained = next((gained_level(b.content) for b in body if b.kind == "row" and b.label == "Gained"), None)
-    last_rank, seen, effect_rows, after_effect, last_up = 1, set(), 0, False, None
+    last_rank, seen, effect_rows, last_up = 1, set(), 0, None
+    # What the unlabeled paragraphs that follow continue: None (nothing: stray), "effect",
+    # "action", "dropped" (an effect row that is already a problem) or "special".
+    continues: str | None = None
+    first_class = "neither"
     for b in body:
         if b.kind == "row":
             label = b.label
-            after_effect = False
+            continues = None
             if b.empty:
                 note("empty-row")
             if label in EFFECT_LABELS or label in ALIAS_LABELS:
                 effect_rows += 1
-                after_effect = True
                 if label in ALIAS_LABELS:
                     note("legacy-label")
-                if effect_rows > 1:
+                cls = effect_class(label)
+                # A pair is a passive row and an action row; print decides which comes first, so
+                # the validator accepts both orders (the rewrite queues the action-first one).
+                second_is_action = (effect_rows == 2
+                                    and {first_class, cls} == {"passive", "action"})
+                if effect_rows == 2 and not second_is_action:
                     note("multiple-effect-rows")
-                else:
+                elif effect_rows > 2:
+                    note("multiple-effect-rows")
+                if effect_rows == 1 or second_is_action:
                     if last_rank > RANK_EFFECT:
                         note("out-of-order")
                     last_rank = max(last_rank, RANK_EFFECT)
+                if effect_rows == 1:
+                    first_class = cls
+                    continues = "effect"
+                elif second_is_action:
+                    continues = "action"
+                else:
+                    continues = "dropped"
                 continue
             if is_numbered_effect_label(label):
                 note("numbered-effect-label")
@@ -377,8 +440,10 @@ def validate(run: list[Block]) -> list[str]:
             last_rank = max(last_rank, rank)
             if label == "Gained" and gained_level(b.content) is None:
                 note("non-canonical-gained")
+            if label == "Special":
+                continues = "special"
         elif b.kind == "lead":
-            after_effect = False
+            continues = None
             if not (b.level is not None and b.lowercase and b.content):
                 note("non-canonical-lead")
                 continue
@@ -393,10 +458,10 @@ def validate(run: list[Block]) -> list[str]:
                 note("out-of-order")
             last_rank = max(last_rank, RANK_UPGRADE)
         elif b.kind == "legacy":
-            after_effect = False
+            continues = None
             note("legacy-upgrade")
         elif b.kind == "para":
-            if not after_effect:
+            if continues is None:
                 note("stray-paragraph")
     if effect_rows == 0:
         note("no-effect-row")
@@ -415,6 +480,9 @@ def map_action(content: str):
     if head and head.rest == "" and not head.lowercase and head.level is not None:
         return "gained", head.level
     return "unmapped", None
+
+
+# ==== end of the mirror of the app ==========================================================
 
 
 # ---- the rewrite -----------------------------------------------------------------------------
@@ -520,10 +588,24 @@ def rewrite_run(run: list[Block]) -> tuple[list[tuple[str, ...]] | None, list[st
     if not effects:
         q.append("no-effect-row" + (": suggest the lowest upgrade as Gained level and base effect"
                                     if ups and not has_gained else ""))
-    elif len(effects) > 1:
+    elif len(effects) == 2:
+        # A passive row, then an action row, is the one valid pair. A legacy `Action` row in a pair
+        # queues: its paragraph group cannot be assigned without a guess. An action first queues
+        # for print; the script never reorders it.
+        classes = [effect_class(items[k].label) for k in effects]
+        if any(items[k].kind == "action" for k in effects):
+            q.append("multiple-effect-rows: a legacy Action row in a pair of effect rows")
+        elif classes == ["action", "passive"]:
+            q.append("action-first-pair: print decides the order")
+        elif classes != ["passive", "action"]:
+            q.append("multiple-effect-rows")
+    elif len(effects) > 2:
         q.append("multiple-effect-rows")
 
-    # 3. Paragraph groups: consecutive unlabeled paragraphs.
+    # 3. Paragraph groups: consecutive unlabeled paragraphs. A group continues the row right
+    # before it: an effect row, or a `Special` row. A group anywhere else queues. A legacy `Action`
+    # row has no continuation of its own: its effect text is the one group that does not follow a
+    # `Special` row.
     groups: list[list[int]] = []
     current: list[int] = []
     for k, it in enumerate(items):
@@ -534,27 +616,33 @@ def rewrite_run(run: list[Block]) -> tuple[list[tuple[str, ...]] | None, list[st
             current = []
     if current:
         groups.append(current)
-    effect_lines: tuple[str, ...] = ()
-    continuation: list[tuple[str, ...]] = []
-    if len(effects) == 1:
-        e = effects[0]
-        eff = items[e]
-        if eff.kind == "action":
-            if len(groups) != 1 or groups[0][0] < e:
-                q.append("action-without-one-group")
-            elif any(not (items[k].kind == "row" and items[k].label in CROSSABLE)
-                     for k in range(e + 1, groups[0][0])):
-                q.append("action-group-crosses-row")
-            else:
-                first = items[groups[0][0]].block
-                effect_lines = (f"**{eff.label}:** {first.text}",)
-                continuation = [items[k].lines for k in groups[0][1:]]
+    legacy_action = len(effects) == 1 and items[effects[0]].kind == "action"
+    continuation: dict[int, list[tuple[str, ...]]] = {}   # effect or `Special` item -> paragraphs
+    loose: list[list[int]] = []                             # groups that follow no row they continue
+    for group in groups:
+        before = items[group[0] - 1] if group[0] > 0 else None
+        if before is not None and before.kind == "row" and before.label == "Special":
+            continuation[group[0] - 1] = [items[k].lines for k in group]
+        elif (before is not None and group[0] - 1 in effects and before.kind == "row"
+              and not legacy_action):
+            continuation[group[0] - 1] = [items[k].lines for k in group]
         else:
-            effect_lines = eff.lines
-            if len(groups) > 1 or (groups and groups[0][0] != e + 1):
-                q.append("unlabeled-paragraphs-not-after-effect")
-            elif groups:
-                continuation = [items[k].lines for k in groups[0]]
+            loose.append(group)
+    effect_text: dict[int, tuple[str, ...]] = {}
+    if legacy_action:
+        e = effects[0]
+        if len(loose) != 1 or loose[0][0] < e:
+            q.append("action-without-one-group")
+        elif any(not (items[k].kind == "row" and items[k].label in CROSSABLE)
+                 for k in range(e + 1, loose[0][0])):
+            q.append("action-group-crosses-row")
+        else:
+            group = loose[0]
+            effect_text[e] = (f"**{items[e].label}:** {items[group[0]].block.text}",)
+            continuation[e] = [items[k].lines for k in group[1:]]
+    elif len(effects) in (1, 2) and loose and not any(
+            x.startswith(("multiple-effect-rows", "action-first-pair")) for x in q):
+        q.append("unlabeled-paragraphs-not-after-effect")
 
     # 4. Upgrades, ascending, with the printed sentence after the lead.
     gained = next((gained_level(it.content) for it in items
@@ -576,12 +664,23 @@ def rewrite_run(run: list[Block]) -> tuple[list[tuple[str, ...]] | None, list[st
     if q:
         return None, q
 
-    # 5. Emit in canonical order. Other rows keep their source order.
-    rows = [it for it in items if it.kind == "row"]
-    pick = lambda label: [it.lines for it in rows if it.label == label]
-    tail = [it.lines for it in rows if it.label not in SINGLETONS and it.label not in EFFECT_LABELS]
-    out = ([name_lines] + pick("Gained") + pick("Flavor") + [effect_lines] + continuation
-           + pick("Usage") + up_lines + pick("Prereq") + pick("Replaces") + tail)
+    # 5. Emit (the canonical order of the mirror): name, Gained, Flavor, Choice and Info (source order), the effect
+    # rows each with its continuation, Usage, upgrades, Prereq, Replaces, then the other rows in
+    # source order, a `Special` row with its paragraphs.
+    rows = [(k, it) for k, it in enumerate(items) if it.kind == "row"]
+    pick = lambda label: [it.lines for _, it in rows if it.label == label]
+    effect_blocks: list[tuple[str, ...]] = []
+    for k in effects:
+        effect_blocks.append(effect_text.get(k) or items[k].lines)
+        effect_blocks.extend(continuation.get(k, []))
+    tail: list[tuple[str, ...]] = []
+    for k, it in rows:
+        if it.label not in SINGLETONS and it.label not in EFFECT_LABELS:
+            tail.append(it.lines)
+            tail.extend(continuation.get(k, []))
+    preface = [it.lines for _, it in rows if it.label in PREFACE_LABELS]   # source order
+    out = ([name_lines] + pick("Gained") + pick("Flavor") + preface
+           + effect_blocks + pick("Usage") + up_lines + pick("Prereq") + pick("Replaces") + tail)
     problems = validate(parse_blocks(join_blocks(out)))
     if problems:
         return None, ["replacement-fails-validation: " + ", ".join(problems)]
@@ -672,6 +771,14 @@ class Outcome:
     sha: str
 
 
+def action_first_pair(run: list[Block]) -> bool:
+    """Two effect rows, an action row before a passive one. The validator accepts it, but print
+    decides the order, so the power waits in the queue for a print lookup."""
+    labels = [ALIAS_LABELS.get(b.label, b.label) for b in run[1:]
+              if b.kind == "row" and (b.label in EFFECT_LABELS or b.label in ALIAS_LABELS)]
+    return len(labels) == 2 and [effect_class(x) for x in labels] == ["action", "passive"]
+
+
 def process_body(entry_id: str, lines: list[str], resolutions,
                  rewrite: bool = True) -> tuple[list[str], list[Outcome]]:
     """The new body lines and one outcome per candidate. With `rewrite` off, only resolutions
@@ -694,9 +801,16 @@ def process_body(entry_id: str, lines: list[str], resolutions,
             status = "resolution-noop"
         else:
             if res:
+                # A stale resolution: the span is not the one the resolution was made for. Report
+                # it, and queue the power again; the automatic rewrite does not touch it.
                 outcomes.append(Outcome(entry_id, c.name, c.occurrence, "stale", ["stale-resolution"], sha))
             if not validate(run):
-                status = "valid"
+                if action_first_pair(run):
+                    status, reasons = "queued", ["action-first-pair: print decides the order"]
+                else:
+                    status = "valid"
+            elif res:
+                status, reasons = "queued", ["stale-resolution"]
             elif key in PRINT_ITEMS:
                 status, reasons = "queued", ["print-review: " + PRINT_ITEMS[key]]
             else:
@@ -748,6 +862,23 @@ def run_corpus(corpus: Path, resolutions, families=None, write=False, rewrite=Tr
     return outcomes, changed
 
 
+def unused_resolutions(resolutions, outcomes: list[Outcome]):
+    """(orphaned, obsolete): the resolutions whose key matches no candidate. A resolution that is
+    already applied counts as used even when it renamed its power (a legacy name loses its colon):
+    the entry then holds a candidate with the span of the replacement. A resolution for a
+    section label (`NON_POWER_LABELS`), which is no candidate any more, is obsolete."""
+    used = {(o.entry_id, o.name, o.occurrence) for o in outcomes}
+    present = {(o.entry_id, o.sha) for o in outcomes}
+    orphaned, obsolete = [], []
+    for key in sorted(set(resolutions) - used):
+        res = resolutions[key]
+        applied = (key[0], hashlib.sha256(resolution_power_text(res).encode()).hexdigest()) in present
+        if applied:
+            continue
+        (obsolete if is_non_power_label(key[1]) else orphaned).append(key)
+    return orphaned, obsolete
+
+
 def queue_text(outcomes: list[Outcome]) -> str:
     rows = [QUEUE_HEADER]
     for o in outcomes:
@@ -793,8 +924,10 @@ FIXTURES = [
      "**Resistance (Ex)**\n\n**At 11th Level:** This resistance increases to 10.\n\n"
      "**At 20th Level:** This resistance changes to immunity.\n\n**Gained:** At 1st Level\n\n"
      "**Passive:** You gain resistance 5.\n"),
-    ("ref/arcaneschool/abjuration", "Counterspell Mastery", 1, "queued", "multiple-effect-rows",
-     "**Counterspell Mastery**\n\n**Gained:** At 8th Level\n\n**Ability:** You can counter.\n\n"
+    # Counterspell Mastery was queued (two effect rows). Since the owner's answer of 2026-11-21 an
+    # `Ability` row, then an action row, is the valid pair: only the place of `Gained` changes.
+    ("ref/arcaneschool/abjuration", "Counterspell Mastery", 1, "rewritten", None,
+     "**Counterspell Mastery**\n\n**Ability:** You can counter.\n\n**Gained:** At 8th Level\n\n"
      "**Immediate:** You counter a spell.\n"),
     ("ref/aspect/giant-wasp", "Minor Form", 1, "rewritten", None,
      "**Minor Form**\n\n**Passive:** You gain a sting.\n\nAt 8th level: The sting grows.\n\n"
@@ -827,7 +960,9 @@ FIXTURES = [
      "**Flight (Su)**\n\n**At 1st Level:** You fly.\n\n**At 5th Level:** You fly faster.\n"),
     ("ref/domain/fire", "Fire Resistance (Ex)", 1, "queued", "no-effect-row",
      "**Fire Resistance (Ex)**\n\n**At 6th Level:** You gain fire resistance 10.\n"),
-    ("ref/hex/blight", "Blight (Su)", 1, "queued", "action-group-crosses-row",
+    # Since the owner's answer 2 of 2026-11-21 the paragraph after `Special` continues the note, so
+    # the `Action` row has no group of its own (it was "the group crosses Special").
+    ("ref/hex/blight", "Blight (Su)", 1, "queued", "action-without-one-group",
      "**Blight (Su)**\n\n**Action:** Standard Action\n\n**Special:** A limit.\n\nYou blight a plant.\n"),
     ("ref/arcana/accurate-strike", "Accurate Strike (Ex):", 1, "rewritten", None,
      "**Accurate Strike (Ex):**\n\n**Ability:** You strike accurately.\n"),
@@ -840,10 +975,79 @@ FIXTURES = [
     ("S3", "Resistance (Ex)", 1, "valid", None,
      "**Resistance (Ex)**\n\n**Gained:** At 1st Level\n\n**Passive:** You gain resistance 5.\n\n"
      "**At 11th level,** this resistance increases to 10.\n"),
+    # The owner's answers of 2026-11-21 (the fixtures of crates/schema/tests/power_fixtures.rs).
+    # Decision 1: Noble Visage, a passive row then an action row; `Replaces` moves after `Usage`.
+    ("ref/domain/nobility", "Noble Visage (Su)", 1, "rewritten", None,
+     "**Noble Visage (Su)**\n\n**Passive:** You gain a bonus.\n\n**Replaces:** The inspiring word ability\n\n"
+     "**Standard:** You touch an ally.\n\n**Usage:** 3 + Wisdom modifier times/day\n"),
+    # Decision 1: each row of a pair keeps its own continuation, in source order.
+    ("P1", "Pair (Su)", 1, "rewritten", None,
+     "**Pair (Su)**\n\n**Passive:** The passive.\n\nPassive continuation.\n\n**Standard:** The action.\n\n"
+     "Action continuation.\n\n**Flavor:** The intro.\n"),
+    # Decision 1, queued: two passive rows, two actions, an action first, three rows, `Benefit`.
+    ("P2", "Two Passives (Su)", 1, "queued", "multiple-effect-rows",
+     "**Two Passives (Su)**\n\n**Ability:** One.\n\n**Passive:** Two.\n"),
+    ("P3", "Two Actions (Su)", 1, "queued", "multiple-effect-rows",
+     "**Two Actions (Su)**\n\n**Standard:** One.\n\n**Swift:** Two.\n"),
+    ("P4", "Action First (Su)", 1, "queued", "action-first-pair",
+     "**Action First (Su)**\n\n**Immediate:** One.\n\n**Passive:** Two.\n"),
+    ("P5", "Three Rows (Su)", 1, "queued", "multiple-effect-rows",
+     "**Three Rows (Su)**\n\n**Passive:** One.\n\n**Standard:** Two.\n\n**Swift:** Three.\n"),
+    ("P6", "Benefit Beside (Su)", 1, "queued", "multiple-effect-rows",
+     "**Benefit Beside (Su)**\n\n**Passive:** One.\n\n**Benefit:** Two.\n"),
+    # A pair with a legacy `Action` row queues: its paragraph group cannot be assigned.
+    ("P7", "Legacy Pair (Su)", 1, "queued", "multiple-effect-rows",
+     "**Legacy Pair (Su)**\n\n**Passive:** One.\n\n**Action:** Standard Action\n\nTwo.\n"),
+    # A paragraph that follows neither an effect row nor `Special` queues.
+    ("P8", "Loose Paragraph (Su)", 1, "queued", "unlabeled-paragraphs-not-after-effect",
+     "**Loose Paragraph (Su)**\n\n**Passive:** One.\n\n**Usage:** Once.\n\nLoose.\n"),
+    # Decision 2: Natural Spell Combat, paragraphs after `Special` continue it (already valid).
+    ("ref/arcana/natural-spell-combat", "Natural Spell Combat (Ex)", 1, "valid", None,
+     "**Natural Spell Combat (Ex)**\n\n**Ability:** The effect.\n\n**Special:** The note.\n\n"
+     "First more.\n\nSecond more.\n"),
+    # Decision 2: the same, after the rewrite moved `Special`'s neighbours: the paragraphs go with it.
+    ("P9", "Special First (Ex)", 1, "rewritten", None,
+     "**Special First (Ex)**\n\n**Special:** The note.\n\nNote continues.\n\n**Passive:** The effect.\n"),
+    # Decision 4: Basic Magic, `Choice` after the effect moves before it.
+    ("ref/evolution/basic-magic", "Basic Magic (Sp)", 1, "rewritten", None,
+     "**Basic Magic (Sp)**\n\n**Flavor:** An eidolon learns a spell.\n\n**Ability:** Cast it daily.\n\n"
+     "**Choice:** Select one spell.\n\n**At 4th level,** three times per day.\n\n**Special:** Repeatable.\n"),
+    # Decision 4: a second `Choice` row conflicts; `Choice` and `Info` keep their source order.
+    ("P10", "Two Choices (Ex)", 1, "queued", "conflicting-rows",
+     "**Two Choices (Ex)**\n\n**Ability:** x.\n\n**Choice:** a.\n\n**Choice:** b.\n"),
+    # Decision 5: the witch patron's `Patron Spells` is a row of the power (an "other row"), not a
+    # name; `Info` goes before the effect, the spell rows keep their place.
+    ("ref/patron/empath", "Empath", 1, "rewritten", None,
+     "**Empath**\n\n**Ability:** You gain a hex.\n\n**Info:** The patron is a manifestation.\n\n"
+     "**Spells:** Burst of insight (2nd)\n\n**Patron Spells:** This unique patron grants these spells.\n"),
+    # Decision 5, answer B: Class Skill and Bonus Feat of the Glory subdomain stay powers.
+    ("ref/domain/glory", "Class Skill", 1, "valid", None,
+     "**Class Skill**\n\n**Passive:** Add a skill to your class skills.\n"),
+    ("P11", "Info Last (Ex)", 1, "rewritten", None,
+     "**Info Last (Ex)**\n\n**Passive:** x.\n\n**Info:** i.\n\n**Choice:** c.\n"),
 ]
 
 # The exact text of the rewritten fixtures: (entry id, name, expected lines).
 EXACT = {
+    ("ref/arcaneschool/abjuration", "Counterspell Mastery"): (
+        "**Counterspell Mastery**\n\n**Gained:** At 8th Level\n\n**Ability:** You can counter.\n\n"
+        "**Immediate:** You counter a spell.\n"),
+    ("ref/domain/nobility", "Noble Visage (Su)"): (
+        "**Noble Visage (Su)**\n\n**Passive:** You gain a bonus.\n\n**Standard:** You touch an ally.\n\n"
+        "**Usage:** 3 + Wisdom modifier times/day\n\n**Replaces:** The inspiring word ability\n"),
+    ("P1", "Pair (Su)"): (
+        "**Pair (Su)**\n\n**Flavor:** The intro.\n\n**Passive:** The passive.\n\nPassive continuation.\n\n"
+        "**Standard:** The action.\n\nAction continuation.\n"),
+    ("P9", "Special First (Ex)"): (
+        "**Special First (Ex)**\n\n**Passive:** The effect.\n\n**Special:** The note.\n\nNote continues.\n"),
+    ("ref/evolution/basic-magic", "Basic Magic (Sp)"): (
+        "**Basic Magic (Sp)**\n\n**Flavor:** An eidolon learns a spell.\n\n**Choice:** Select one spell.\n\n"
+        "**Ability:** Cast it daily.\n\n**At 4th level,** three times per day.\n\n**Special:** Repeatable.\n"),
+    ("ref/patron/empath", "Empath"): (
+        "**Empath**\n\n**Info:** The patron is a manifestation.\n\n**Ability:** You gain a hex.\n\n"
+        "**Spells:** Burst of insight (2nd)\n\n**Patron Spells:** This unique patron grants these spells.\n"),
+    ("P11", "Info Last (Ex)"): (
+        "**Info Last (Ex)**\n\n**Info:** i.\n\n**Choice:** c.\n\n**Passive:** x.\n"),
     ("ref/arcaneschool/abjuration", "Resistance (Ex)"): (
         "**Resistance (Ex)**\n\n**Gained:** At 1st Level\n\n**Passive:** You gain resistance 5.\n\n"
         "**At 11th level,** this resistance increases to 10.\n\n"
@@ -958,6 +1162,74 @@ def self_test() -> int:
            f"resolutions-only: {outs}")
     expect([o.status for o in outs] == ["resolved", "rewritten"], f"resolutions-only statuses: {outs}")
 
+    # Decision 5: section labels are never candidates, whatever the case, colon or spacing; a name
+    # that only starts with one is a power. A label still ends the run before it.
+    for label in ("Base Evolutions", "base  evolutions", "Discipline Powers:", "Patron Spells",
+                  "Bonus Spells", "Domain Spells", "Replacement Domain Spells"):
+        body = f"**Real Power (Su)**\n\n**Passive:** x.\n\n**{label}**\n\n**At 1st Level:** Label line.\n"
+        _, outs = process_body("ref/eidolon/x", body.split("\n"), {})
+        expect([o.name for o in outs] == ["Real Power (Su)"], f"{label} is no candidate: {outs}")
+    _, outs = process_body("x", "**Base Evolutions (Su)**\n\n**At 1st Level:** A line.\n".split("\n"), {})
+    expect([o.name for o in outs] == ["Base Evolutions (Su)"], f"a longer name is a power: {outs}")
+    for body in ("**Base Evolutions**\n\n**At 1st Level:** A line.\n\n**At 4th Level:** Another.\n",
+                 "**Discipline Powers**\n\n**At 1st Level:** A line.\n"):
+        _, outs = process_body("ref/eidolon/agathion", body.split("\n"), {})
+        expect(outs == [], f"a section label span is no candidate: {outs}")
+    _, outs = process_body("x", "**Granted Powers**\n\n**Ability:** Bonus feats.\n".split("\n"), {})
+    expect([o.status for o in outs] == ["valid"], f"Granted Powers stays a power: {outs}")
+
+    # The combinations of the owner's answer 1, straight through `validate`.
+    def slugs(body: str) -> list[str]:
+        blocks = parse_blocks(body.split("\n"))
+        c = candidates(blocks)
+        return sorted(validate(blocks[c[0].start:c[0].end]))
+    expect(slugs("**P**\n\n**Passive:** a.\n\n**Standard:** b.\n") == [], "passive then action is valid")
+    expect(slugs("**P**\n\n**Ability:** a.\n\n**Full-round:** b.\n") == [], "ability then action is valid")
+    expect(slugs("**P**\n\n**Passive:** a.\n\n**Usage:** u.\n\n**Standard:** b.\n") == ["out-of-order"],
+           "a row between the pair is out of order")
+    expect(slugs("**P**\n\n**Passive:** a.\n\n**Choice:** c.\n\n**Standard:** b.\n") == ["out-of-order"],
+           "Choice between the pair is out of order")
+    expect(slugs("**P**\n\n**Passive:** a.\n\n**Fullround:** b.\n") == ["legacy-label"],
+           "an alias is the label it becomes, and still a legacy label")
+    expect(slugs("**P**\n\n**Passive:** a.\n\n**Usage:** u.\n\nLoose.\n") == ["stray-paragraph"],
+           "a paragraph after Usage is stray")
+    expect(slugs("**P**\n\n**Passive:** a.\n\n**Special:** s.\n\nOne.\n\nTwo.\n\n**Penalty:** p.\n\nStray.\n")
+           == ["stray-paragraph"], "only Special has continuation")
+
+    # An applied resolution that renamed its power (a legacy name loses its colon) is not orphaned.
+    legacy = "**Pool Ray:**\n\n**Standard:** Infuse.\n\n**Free:** Release.\n"
+    blocks = parse_blocks(legacy.split("\n"))
+    c = candidates(blocks, True)[0]
+    renamed = Resolution("ref/arcana/pool-ray", "Pool Ray:", 1, span_sha(blocks[c.start:c.end]), "a book and page",
+                         "**Pool Ray**\n\n**Standard:** Infuse.\n\nRelease.\n")
+    keyed = {("ref/arcana/pool-ray", "Pool Ray:", 1): renamed}
+    after, outs = process_body("ref/arcana/pool-ray", legacy.split("\n"), keyed)
+    expect(outs[0].status == "resolved" and after[0] == "**Pool Ray**", f"the rename applies: {outs}")
+    again, outs = process_body("ref/arcana/pool-ray", after, keyed)
+    expect(unused_resolutions(keyed, outs) == ([], []), "an applied, renamed resolution is not orphaned")
+
+    # A stale resolution is queued again and the automatic rewrite leaves the power alone.
+    rewritable = "**Resistance (Ex)**\n\n**At 11th Level:** Increases.\n\n**Gained:** At 1st Level\n\n**Passive:** Base.\n"
+    blocks = parse_blocks(rewritable.split("\n"))
+    c = candidates(blocks, True)[0]
+    other = Resolution("ref/x/y", "Resistance (Ex)", 1, "0" * 64, "a book and page",
+                       "**Resistance (Ex)**\n\n**Passive:** Something else.\n")
+    stale_new, stale_outs = process_body("ref/x/y", rewritable.split("\n"), {("ref/x/y", "Resistance (Ex)", 1): other})
+    expect(stale_new == rewritable.split("\n"), "a stale resolution leaves the power unchanged")
+    expect([(o.status, o.reasons) for o in stale_outs] == [("stale", ["stale-resolution"]),
+                                                         ("queued", ["stale-resolution"])],
+           f"a stale resolution is reported and queued again: {stale_outs}")
+    # A matching resolution key, a key that matches nothing, and a section label that is no power.
+    used = {("ref/x/y", "Resistance (Ex)", 1): other}
+    gone = Resolution("ref/x/gone", "Gone (Su)", 1, "0" * 64, "x", other.replacement)
+    label = Resolution("ref/eidolon/x", "Base Evolutions", 1, "0" * 64, "x", other.replacement)
+    allres = dict(used)
+    allres[("ref/x/gone", "Gone (Su)", 1)] = gone
+    allres[("ref/eidolon/x", "Base Evolutions", 1)] = label
+    orphaned, obsolete = unused_resolutions(allres, stale_outs)
+    expect(orphaned == [("ref/x/gone", "Gone (Su)", 1)], f"an orphaned resolution is reported: {orphaned}")
+    expect(obsolete == [("ref/eidolon/x", "Base Evolutions", 1)], f"an obsolete one too: {obsolete}")
+
     # Hash: it does not depend on how a paragraph is wrapped.
     wrapped = parse_blocks("**N (Su)**\n\n**Passive:** one two\nthree four\n".split("\n"))
     flat = parse_blocks("**N (Su)**\n\n**Passive:** one two three four\n".split("\n"))
@@ -989,28 +1261,40 @@ def main() -> int:
     if bad:
         print("\n".join("invalid resolution: " + b for b in bad))
         return 1
-    outcomes, changed = run_corpus(corpus, resolutions, families, write=args.write,
+    # Dry run first: nothing is written while a resolution is stale, orphaned or obsolete.
+    outcomes, changed = run_corpus(corpus, resolutions, families, write=False,
                                    rewrite=not args.resolutions_only)
     print(summarize(outcomes, changed))
     stale = [o for o in outcomes if o.status == "stale"]
+    orphaned, obsolete = unused_resolutions(resolutions, outcomes)
+    problems = []
     for o in stale:
-        print(f"stale resolution: {o.entry_id} {o.name} #{o.occurrence}")
+        problems.append(f"stale resolution: {o.entry_id} {o.name} #{o.occurrence}")
+    for key in orphaned:
+        problems.append("orphaned resolution (matches no candidate): %s %s #%d" % key)
+    for key in obsolete:
+        problems.append("obsolete resolution (a section label is no power): %s %s #%d" % key)
+    for line in problems:
+        print(line)
     queue = corpus / QUEUE_FILE
     if args.write or args.write_queue:
+        if problems:
+            print("nothing written: fix the resolutions first")
+            return 1
+        if args.write:
+            run_corpus(corpus, resolutions, families, write=True, rewrite=not args.resolutions_only)
         queue.write_text(queue_text(outcomes))
-        return 1 if stale else 0
+        return 0
     if args.check:
         current = queue.read_text() if queue.exists() else ""
-        problems = []
+        extra = []
         if changed:
-            problems.append(f"{len(changed)} entries would change")
+            extra.append(f"{len(changed)} entries would change")
         if current != queue_text(outcomes):
-            problems.append(f"{QUEUE_FILE} is out of date")
-        if stale:
-            problems.append(f"{len(stale)} stale resolutions")
-        for p in problems:
-            print("check:", p)
-        return 1 if problems else 0
+            extra.append(f"{QUEUE_FILE} is out of date")
+        for line in extra:
+            print("check:", line)
+        return 1 if problems or extra else 0
     return 0
 
 
