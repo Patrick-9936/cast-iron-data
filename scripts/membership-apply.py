@@ -9,7 +9,8 @@ It reads the queue written by `scripts/membership-screen.py` and acts only on th
 marked `keep` or `expands` and rows without a verdict are never touched. For each removal it
 
   1. takes the book out of the entry's `source_ids` (order of the rest is kept),
-  2. drops the entry's placement in that book from `books.toml`. The compiler requires every
+  2. drops the entry's placement in that book from `books.toml` (format 3: from the curated `books/<book>.toml`;
+     a derived book has none). The compiler requires every
      placement to be in `source_ids` (docs/corpus-format.md, "corpus-check"). A title-only group
      (no `entry`, no `anchor`) whose children are all removed is dropped as well.
 
@@ -262,19 +263,19 @@ def edit_entry(path: Path, book: str, title: str, write: bool = True,
 HEADER = re.compile(r"^\[\[books((?:\.chapters)(?:\.children)*)?\]\]$")
 
 
-def parse_books(text: str) -> list[list[str]]:
+def parse_books(text: str, name: str = "books.toml") -> list[list[str]]:
     """Split books.toml into blocks: a header line and its lines, up to the blank line.
 
     The file is canonical, so blocks are separated by exactly one blank line."""
     if "\n\n\n" in text or not text.endswith("\n") or text.endswith("\n\n"):
-        raise SystemExit("refused: books.toml is not in canonical block form; run corpus-fmt first")
+        raise SystemExit(f"refused: {name} is not in canonical block form; run corpus-fmt first")
     return [b.split("\n") for b in text[:-1].split("\n\n")]
 
 
-def apply_books(text: str, removals: dict[str, set[str]]) -> tuple[str, dict[str, int], int]:
+def apply_books(text: str, removals: dict[str, set[str]], name: str = "books.toml") -> tuple[str, dict[str, int], int]:
     """Drop the node of each (book -> entry ids) removal. Returns the new text, counts per book,
     and the number of title-only groups dropped because their children all went."""
-    blocks = parse_books(text)
+    blocks = parse_books(text, name)
     # Walk blocks in order, tracking the current book and a stack of (depth, block index).
     book = None
     stack: list[tuple[int, int]] = []
@@ -301,6 +302,11 @@ def apply_books(text: str, removals: dict[str, set[str]]) -> tuple[str, dict[str
         if em and book in removals and em.group(1) in removals[book]:
             drop.add(idx)
             counts[book] += 1
+    # Dropping a node block that has children would leave the child blocks behind, and TOML would
+    # attach them to the previous sibling. Refuse unless every child goes too.
+    for idx in sorted(drop):
+        if any(k not in drop for k in children.get(idx, [])):
+            raise SystemExit(f"refused: a placement of {blocks[idx][0]} in {name} has children; decide it by hand")
     # A title-only group (no `entry`, no `anchor`) whose children all went is dropped as well.
     dropped_groups = 0
     changed = True
@@ -317,6 +323,31 @@ def apply_books(text: str, removals: dict[str, set[str]]) -> tuple[str, dict[str
             changed = True
     kept = ["\n".join(blk) for idx, blk in enumerate(blocks) if idx not in drop]
     return "\n\n".join(kept) + "\n", dict(counts), dropped_groups
+
+
+def apply_layout(root: Path, removals: dict[str, set[str]], dry_run: bool) -> tuple[str, dict[str, int], int]:
+    """Drop the placements in whichever layout the corpus has: the single `books.toml` of formats 1
+    and 2, or the curated `books/<publication-id>.toml` files of format 3. A book that has no file
+    is derived from the `[[sources]]` pages, so it holds no placement and there is nothing to drop.
+    Returns the layout's name, the nodes dropped per book, and the title-only groups dropped."""
+    legacy = root / "books.toml"
+    if legacy.is_file():
+        new_text, counts, groups = apply_books(legacy.read_text(encoding="utf-8"), removals, "books.toml")
+        if not dry_run:
+            legacy.write_text(new_text, encoding="utf-8")
+        return "books.toml", counts, groups
+    counts: dict[str, int] = {}
+    groups = 0
+    for book in sorted(removals):
+        path = root / "books" / f"{book}.toml"
+        if not path.is_file():
+            continue
+        new_text, one, dropped = apply_books(path.read_text(encoding="utf-8"), {book: removals[book]}, f"books/{book}.toml")
+        if not dry_run:
+            path.write_text(new_text, encoding="utf-8")
+        counts.update(one)
+        groups += dropped
+    return "books/", counts, groups
 
 
 def main() -> int:
@@ -359,6 +390,11 @@ def main() -> int:
     for path, r in todo:
         edit_entry(path, r["book"], titles[r["book"]], write=False, entry=r["entry"], root=root, audit=audit,
                    primary_to=r["proposed_primary"] if r["gate"] else "", print_page=r["print_page"])
+    # The book files are checked before anything is written as well.
+    planned: dict[str, set[str]] = defaultdict(set)
+    for _, r in todo:
+        planned[r["book"]].add(r["entry"])
+    apply_layout(root, planned, dry_run=True)
     removed = absent = 0
     for path, r in todo:
         state = edit_entry(path, r["book"], titles[r["book"]], write=not args.dry_run, entry=r["entry"], root=root,
@@ -368,15 +404,11 @@ def main() -> int:
         absent += state == "absent"
         removals[r["book"]].add(r["entry"])
 
-    books_path = root / "books.toml"
-    text = books_path.read_text(encoding="utf-8")
-    new_text, counts, groups = apply_books(text, removals)
-    if not args.dry_run:
-        books_path.write_text(new_text, encoding="utf-8")
+    layout, counts, groups = apply_layout(root, removals, args.dry_run)
     placed = sum(counts.values())
     print(f"rows with verdict remove: {len(rows)}")
     print(f"source_ids: removed {removed}, already out {absent}")
-    print(f"books.toml: placements dropped {placed}, empty title-only groups dropped {groups}")
+    print(f"{layout}: placements dropped {placed}, empty title-only groups dropped {groups}")
     if args.dry_run:
         print("dry run: nothing written")
     return 0

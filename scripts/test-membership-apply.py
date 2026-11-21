@@ -6,7 +6,10 @@
 Cases: a `[[sources]]` row the audit file releases is dropped with the membership; the same
 entry with a body `**Source:**` line as well is refused and left byte for byte unchanged; a
 body line alone is refused; a row without an audit row is refused; a released row with a
-wrong page is refused. Each refusal must happen before anything is written.
+wrong page is refused. Each refusal must happen before anything is written. A format 3 corpus
+(`books/<publication-id>.toml`, curated books only) loses the placement from the curated file;
+a derived book has no file, so only `source_ids` and the row change. A placement whose node
+has children is refused, before any file is written.
 
 A row for the entry's first book (`gate = primary`) is applied only when the reviewer cleared it:
 `proposed_primary` is the book that becomes first, `proposed_status` is `printed` or `body`, and
@@ -49,11 +52,15 @@ ROW = '[[sources]]\npublication = "book-b"\npage = "12"\n'
 
 
 class ApplyTest(unittest.TestCase):
-    def run_apply(self, text: str, audit_page: str | None = "12", audit_class: str = "wrong-credit"):
+    def run_apply(self, text: str, audit_page: str | None = "12", audit_class: str = "wrong-credit",
+                  books: dict[str, str] | None = None):
+        """`books` maps a path under the corpus to a book file; the default is the format 1 `books.toml`."""
         tmp = Path(tempfile.mkdtemp())
         (tmp / "entries/spell").mkdir(parents=True)
         (tmp / "publications.toml").write_text(PUBS, encoding="utf-8")
-        (tmp / "books.toml").write_text('[[books]]\nsource = "book-a"\n', encoding="utf-8")
+        for name, content in (books or {"books.toml": '[[books]]\nsource = "book-a"\n'}).items():
+            (tmp / name).parent.mkdir(exist_ok=True)
+            (tmp / name).write_text(content, encoding="utf-8")
         path = tmp / "entries/spell/test-spell.md"
         path.write_text(text, encoding="utf-8")
         queue = tmp / "queue.tsv"
@@ -76,6 +83,7 @@ class ApplyTest(unittest.TestCase):
                 w.writerow(a)
         r = subprocess.run([sys.executable, str(APPLY), str(tmp), "--queue", str(queue), "--audit", str(audit)],
                            capture_output=True, text=True)
+        self.corpus = tmp
         return r, path
 
     def test_row_released_by_audit_is_dropped(self):
@@ -84,6 +92,33 @@ class ApplyTest(unittest.TestCase):
         out = path.read_text()
         self.assertIn('source_ids = ["book-a", "book-c"]', out)
         self.assertNotIn("[[sources]]", out)
+
+    def test_format_3_curated_book_loses_its_placement(self):
+        book = ('[[books]]\nsource = "book-b"\n\n[[books.chapters]]\ntitle = "Spells"\n\n'
+                '[[books.chapters.children]]\ntitle = "Test Spell"\nentry = "ref/spell/test-spell"\n')
+        r, path = self.run_apply(entry(ROW, "Text.\n"), books={"books/book-b.toml": book})
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("books/: placements dropped 1", r.stdout)
+        self.assertNotIn("ref/spell/test-spell", (self.corpus / "books/book-b.toml").read_text())
+        self.assertIn('source_ids = ["book-a", "book-c"]', path.read_text())
+
+    def test_format_3_derived_book_has_no_file_and_nothing_to_drop(self):
+        r, path = self.run_apply(entry(ROW, "Text.\n"), books={"books/book-a.toml": '[[books]]\nsource = "book-a"\n'})
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("books/: placements dropped 0", r.stdout)
+        self.assertIn('source_ids = ["book-a", "book-c"]', path.read_text())
+
+    def test_format_3_placement_with_a_nested_child_is_refused_before_any_write(self):
+        book = ('[[books]]\nsource = "book-b"\n\n[[books.chapters]]\ntitle = "Spells"\n\n'
+                '[[books.chapters.children]]\ntitle = "Alpha"\nentry = "ref/spell/alpha"\n\n'
+                '[[books.chapters.children]]\ntitle = "Test Spell"\nentry = "ref/spell/test-spell"\n\n'
+                '[[books.chapters.children.children]]\ntitle = "Child"\nentry = "ref/spell/child"\n')
+        text = entry(ROW, "Text.\n")
+        r, path = self.run_apply(text, books={"books/book-b.toml": book})
+        self.assertNotEqual(r.returncode, 0)
+        self.assertIn("has children", r.stderr)
+        self.assertEqual((self.corpus / "books/book-b.toml").read_text(), book)
+        self.assertEqual(path.read_text(), text)
 
     def test_body_line_beside_a_released_row_is_refused(self):
         text = entry(ROW, "Text.\n\n**Source:** Beta Book pg. 12\n")

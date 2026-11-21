@@ -17,6 +17,10 @@ where it has nothing to do it changes nothing.
 
 The classification comes from `scripts/placement-audit.py`, which this script runs. Entry ids and
 file locations never change. Only `books.toml`, `source_ids` and `[[sources]]` rows are edited.
+
+Historical: this script reads the single `books.toml` of corpus formats 1 and 2, which format 3
+removed (phynics/cast-iron#425). Run it on a checkout of commit c8aa0bc33 (tag v0.1.35), the
+last format 2 commit.
 """
 from __future__ import annotations
 

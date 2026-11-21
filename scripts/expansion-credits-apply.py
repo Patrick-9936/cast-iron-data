@@ -8,7 +8,8 @@ The decision file has one row per (entry, book). Its `action` column is one of
 
   remove       the book does not print the entry. The script takes the book out of the entry's
                `source_ids`, drops the entry's `[[sources]]` row for it, and drops the entry's
-               placement in that book from `books.toml` (the compiler requires every placement
+               placement in that book from `books.toml` (format 3: from the curated
+               `books/<book>.toml`; a derived book has none). The compiler requires every placement
                to be in `source_ids`). A removal needs a `class` that says what happens to the
                page the citation held:
                  family-ref    the cited page prints a related entry (the `family` column). The
@@ -258,18 +259,18 @@ def edit_entry(root: Path, path: Path, r: dict) -> str:
     return "applied"
 
 
-def parse_books(text: str) -> list[list[str]]:
+def parse_books(text: str, name: str = "books.toml") -> list[list[str]]:
     """Split books.toml into blocks: a header line and its lines, up to the blank line."""
     if "\n\n\n" in text or not text.endswith("\n") or text.endswith("\n\n"):
-        raise SystemExit("refused: books.toml is not in canonical block form; run corpus-fmt first")
+        raise SystemExit(f"refused: {name} is not in canonical block form; run corpus-fmt first")
     return [b.split("\n") for b in text[:-1].split("\n\n")]
 
 
-def apply_books(text: str, removals: dict[str, set[str]]) -> tuple[str, dict[str, int], int]:
+def apply_books(text: str, removals: dict[str, set[str]], name: str = "books.toml") -> tuple[str, dict[str, int], int]:
     """Drop the node of each (book -> entry ids) removal. Returns the new text, the number of
     nodes dropped per book, and the number of title-only groups dropped because all their
     children went."""
-    blocks = parse_books(text)
+    blocks = parse_books(text, name)
     book = None
     stack: list[tuple[int, int]] = []
     children: dict[int, list[int]] = defaultdict(list)
@@ -297,7 +298,7 @@ def apply_books(text: str, removals: dict[str, set[str]]) -> tuple[str, dict[str
             counts[book] += 1
     for idx in sorted(drop):
         if children.get(idx):
-            raise SystemExit(f"refused: a placement of {blocks[idx][0]} in books.toml has children; decide it by hand")
+            raise SystemExit(f"refused: a placement of {blocks[idx][0]} in {name} has children; decide it by hand")
     dropped_groups = 0
     changed = True
     while changed:
@@ -312,6 +313,31 @@ def apply_books(text: str, removals: dict[str, set[str]]) -> tuple[str, dict[str
             changed = True
     kept = ["\n".join(blk) for idx, blk in enumerate(blocks) if idx not in drop]
     return "\n\n".join(kept) + "\n", dict(counts), dropped_groups
+
+
+def apply_layout(root: Path, removals: dict[str, set[str]], dry_run: bool) -> tuple[str, dict[str, int], int]:
+    """Drop the placements in whichever layout the corpus has: the single `books.toml` of formats 1
+    and 2, or the curated `books/<publication-id>.toml` files of format 3. A book that has no file
+    is derived from the `[[sources]]` pages, so it holds no placement and there is nothing to drop.
+    Returns the layout's name, the nodes dropped per book, and the title-only groups dropped."""
+    legacy = root / "books.toml"
+    if legacy.is_file():
+        new_text, counts, groups = apply_books(legacy.read_text(encoding="utf-8"), removals, "books.toml")
+        if not dry_run:
+            legacy.write_text(new_text, encoding="utf-8")
+        return "books.toml", counts, groups
+    counts: dict[str, int] = {}
+    groups = 0
+    for book in sorted(removals):
+        path = root / "books" / f"{book}.toml"
+        if not path.is_file():
+            continue
+        new_text, one, dropped = apply_books(path.read_text(encoding="utf-8"), {book: removals[book]}, f"books/{book}.toml")
+        if not dry_run:
+            path.write_text(new_text, encoding="utf-8")
+        counts.update(one)
+        groups += dropped
+    return "books/", counts, groups
 
 
 def main() -> int:
@@ -341,14 +367,10 @@ def main() -> int:
         if r["action"] in ("remove", "expanded_in"):
             removals[r["book"]].add(r["entry"])
 
-    books_path = root / "books.toml"
-    text = books_path.read_text(encoding="utf-8")
-    new_text, counts, groups = apply_books(text, removals)
-    if not args.dry_run:
-        books_path.write_text(new_text, encoding="utf-8")
+    layout, counts, groups = apply_layout(root, removals, args.dry_run)
     for k in sorted(tally):
         print(f"{k}: {tally[k]}")
-    print(f"books.toml: placements dropped {sum(counts.values())}, empty title-only groups dropped {groups}")
+    print(f"{layout}: placements dropped {sum(counts.values())}, empty title-only groups dropped {groups}")
     return 0
 
 

@@ -21,6 +21,10 @@ entry, so turning the book off removes it completely. This script reports:
 (e) an entry whose ``source_ids`` mix third-party and Paizo publications.
 
 The report is Markdown. It changes no files.
+
+Historical: this script reads the single `books.toml` of corpus formats 1 and 2, which format 3
+removed (phynics/cast-iron#425). Run it on a checkout of commit c8aa0bc33 (tag v0.1.35), the
+last format 2 commit.
 """
 
 from __future__ import annotations
