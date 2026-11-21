@@ -14,8 +14,8 @@ group = "rogue-talent"
 
 **Pierce the Darkness (Ex)**
 
+**Flavor:** The rogue can extend her senses of hearing and smell in darkness or when blinded.
+
 **Ability:** She gains [blindsense](ref/umr/blindsense) out to a range of 5 feet, but only against
 creatures concealed by darkness or her own blindness. She still suffers the normal miss chance for
 attacking creatures with [concealment](ref/rule/concealment).
-
-**Flavor:** The rogue can extend her senses of hearing and smell in darkness or when blinded.

@@ -14,6 +14,9 @@ group = "social-talent"
 
 **Notorious Fool (Ex)**
 
+**Flavor:** While in his social identity, the vigilante can feign absentmindedness, clumsiness,
+drunkenness, or eccentricity very convincingly.
+
 **Ability:** When he fails an opposed [Sleight of Hand](ref/skill/sleight-of-hand) or
 [Stealth](ref/skill/stealth) check while in his social identity, he can immediately attempt a
 [Bluff](ref/skill/bluff) check opposed by the onlookers' [Sense Motive](ref/skill/sense-motive)
@@ -21,9 +24,6 @@ checks to appear as though he had only blundered or stumbled in a spectacular fa
 succeeds at this Bluff check, the onlookers do not realize the vigilante was attempting the action
 that prompted him to attempt a Sleight of Hand or Stealth check, although being in the wrong place
 or behaving in an inappropriate manner may still have negative consequences.
-
-**Flavor:** While in his social identity, the vigilante can feign absentmindedness, clumsiness,
-drunkenness, or eccentricity very convincingly.
 
 **Special:** This talent is ineffective against any onlooker who has already witnessed the vigilante
 faking a blunder within the last 24 hours.

@@ -16,4 +16,4 @@ group = "vigilante-talent"
 
 **Ability:** The vigilante gains [Quick Draw](ref/feat/quick-draw) as a bonus feat.
 
-**At 8th Level:** He can draw hidden weapons as a **swift action** (instead of a move action).
+**At 8th level,** he can draw hidden weapons as a **swift action** (instead of a move action).

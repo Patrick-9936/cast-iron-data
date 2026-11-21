@@ -14,8 +14,8 @@ group = "investigator-talent"
 
 **Amazing Inspiration (Ex)**
 
-**At 20th Level:** The investigator rolls 2d8 and adds both dice to the result.
-
 **Passive:** When using _inspiration,_ the investigator rolls a d8 instead of a d6.
+
+**At 20th level,** the investigator rolls 2d8 and adds both dice to the result.
 
 **Prereq:** 7th-level investigator

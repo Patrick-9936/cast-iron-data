@@ -29,8 +29,6 @@ attack from throwing a ranged weapon into melee. If the ranged attack hits, the 
 deals damage as if the barbarian had thrown it. The barbarian can choose to aim the disarmed weapon
 at a square rather than at a foe.
 
+**Usage:** Once per _rage_
+
 **Prereq:** 4th-level barbarian
-
-**Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

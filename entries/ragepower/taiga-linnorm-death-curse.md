@@ -14,14 +14,12 @@ group = "rage-power"
 
 **Taiga Linnorm Death Curse (Su)**
 
-**Action:** Ability
+**Ability:** The character channels the power of a
+[taiga linnorm](ref/monster/linnorm-taiga-linnorm). The character's melee attacks deal an additional
+1 point of electricity damage. If the character is knocked unconscious or killed by an attack or
+spell, the attacker suffers the _curse of electricity_ (Will negates).
 
 **Prereq:** 4th-level barbarian
-
-The character channels the power of a [taiga linnorm](ref/monster/linnorm-taiga-linnorm). The
-character's melee attacks deal an additional 1 point of electricity damage. If the character is
-knocked unconscious or killed by an attack or spell, the attacker suffers the _curse of electricity_
-(Will negates).
 
 **Curse of Electricity**
 

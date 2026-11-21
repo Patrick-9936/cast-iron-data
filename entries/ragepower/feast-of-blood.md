@@ -17,7 +17,7 @@ group = "rage-power"
 **Flavor:** While _raging,_ the barbarian may feast on the organs of her foes and absorb their
 power.
 
-**Fullround:** After successfully ripping out a creature's vital organ, the barbarian may eat the
+**Full-round:** After successfully ripping out a creature's vital organ, the barbarian may eat the
 organ within 1 minute of extracting it. Once the organ is consumed, the barbarian recovers a number
 of hit points equal to the Hit Dice of the organ's owner.
 

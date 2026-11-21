@@ -20,7 +20,7 @@ weapon type. If he already has the Weapon Focus feat with the selected weapon, h
 swap it for another feat for which he qualified at the level he chose Weapon Focus in the selected
 weapon.
 
-**At 8th Level:** He also gains [Weapon Specialization](ref/feat/weapon-specialization) as a bonus
+**At 8th level,** he also gains [Weapon Specialization](ref/feat/weapon-specialization) as a bonus
 feat for his selected weapon.
 
 **Special:** He doesn't have to meet any of the prerequisites for these feats.

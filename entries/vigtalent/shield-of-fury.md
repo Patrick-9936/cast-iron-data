@@ -18,7 +18,7 @@ group = "vigilante-talent"
 feat. If he already has the Improved Shield Bash feat, he can immediately swap it for another feat
 for which he qualified at the level he chose Improved Shield Bash.
 
-**At 6th Level:** He is treated as if he has the [Two-Weapon Fighting](ref/feat/two-weapon-fighting)
+**At 6th level,** he is treated as if he has the [Two-Weapon Fighting](ref/feat/two-weapon-fighting)
 feat as long as one of the weapons used is a shield. This allows him to take feats that require
 Two-Weapon Fighting as a prerequisite without meeting the Two-Weapon Fighting or Dexterity
 prerequisites, but these feats only apply while he is wielding a shield as one of his weapons

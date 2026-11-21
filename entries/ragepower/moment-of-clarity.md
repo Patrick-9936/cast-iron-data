@@ -19,5 +19,3 @@ round. This includes the penalty to Armor Class and the restriction on what acti
 performed. This round still counts against her total number of rounds of _rage_ per day.
 
 **Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

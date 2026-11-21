@@ -18,6 +18,6 @@ group = "social-talent"
 he takes 10 on checks with these skills while not distracted or threatened, he gains a bonus on the
 check equal to [one-quarter](ref/misc/fractions-and-rounding) of his vigilante level (minimum +2).
 
-**Choice:** The vigilante choses four skills when he gains this talent.
-
 **Prereq:** 9th-level vigilante
+
+**Choice:** The vigilante choses four skills when he gains this talent.

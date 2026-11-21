@@ -20,5 +20,3 @@ enemy that used the withdraw action. The barbarian provokes attacks of opportuni
 this movement.
 
 **Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

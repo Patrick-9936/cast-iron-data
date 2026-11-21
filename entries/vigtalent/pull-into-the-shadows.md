@@ -14,7 +14,7 @@ group = "vigilante-talent"
 
 **Pull into the Shadows (Ex)**
 
-**Fullround:** The vigilante can move up to his speed toward an opponent who is unaware of his
+**Full-round:** The vigilante can move up to his speed toward an opponent who is unaware of his
 presence (or who considers him an ally) and make a single attack against that opponent. If the
 attack hits, he can attempt a [drag](ref/rule/drag) combat maneuver against that enemy with a +4
 bonus and without provoking an attack of opportunity. If the drag succeeds, the vigilante doesn't

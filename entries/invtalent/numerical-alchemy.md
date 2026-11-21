@@ -14,8 +14,8 @@ group = "investigator-talent"
 
 **Numerical Alchemy (Su)**
 
-**Ability:** The investigator can expend one use of _inspiration_ to mix an extract in 1 round (as
-opposed to 1 minute).
-
 **Flavor:** The investigator's skill with mental mathematics allows him to know exactly which muscle
 movements are necessary to mix an extract in the quickest, most efficient way.
+
+**Ability:** The investigator can expend one use of _inspiration_ to mix an extract in 1 round (as
+opposed to 1 minute).

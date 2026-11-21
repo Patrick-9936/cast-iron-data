@@ -17,11 +17,9 @@ group = "rage-power"
 **Flavor:** The barbarian has been marked by the spirits, as indicated by an impressive tattoo,
 scar, or birthmark she possesses.
 
-**Special:** She can call on the _auspicious_ mark after seeing the result of the d20 roll.
-
 **Swift:** By spending 2 rounds of _rage,_ the barbarian can call upon the spirits' favor. Using
 _auspicious mark_ grants her a +1d6 bonus on one d20 roll she has just made.
 
 **Usage:** Once per _rage_
 
-**Usage:** Once per _rage_
+**Special:** She can call on the _auspicious_ mark after seeing the result of the d20 roll.

@@ -14,10 +14,10 @@ group = "vigilante-talent"
 
 **Leave an Opening (Ex)**
 
+**Flavor:** The vigilante's _hidden strike_ leaves an unbalancing opening in a foe's defenses,
+setting up the foe to be attacked again.
+
 **Ability:** At the beginning of the foe's next turn, if the vigilante threatens the foe, the foe
 provokes an attack of opportunity from the vigilante. Multiple attacks against the same foe don't
 create multiple attacks of opportunity in the same round (but attacks against several foes can cause
 each to provoke one attack of opportunity).
-
-**Flavor:** The vigilante's _hidden strike_ leaves an unbalancing opening in a foe's defenses,
-setting up the foe to be attacked again.

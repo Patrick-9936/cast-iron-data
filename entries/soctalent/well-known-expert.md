@@ -14,12 +14,10 @@ group = "social-talent"
 
 **Well-Known Expert (Ex)**
 
-**Action:** Ability
-
-The vigilante's social identity is known as an expert in numerous fields, including areas and topics
-the vigilante hasn't actually taken the time to study. As a result the vigilante is skilled at
-encouraging others to discover solutions to difficult problems themselves by asking probing
-questions, while appearing to give the information himself.
+**Ability:** The vigilante's social identity is known as an expert in numerous fields, including
+areas and topics the vigilante hasn't actually taken the time to study. As a result the vigilante is
+skilled at encouraging others to discover solutions to difficult problems themselves by asking
+probing questions, while appearing to give the information himself.
 
 In his social identity, the vigilante can take 10 when attempting to
 [aid another](ref/rule/aid-another) on [Appraise](ref/skill/appraise), [Craft](ref/skill/craft-any),

@@ -14,9 +14,9 @@ group = "investigator-talent"
 
 **Timed Strike (Ex)**
 
+**Flavor:** The longer the investigator studies his opponent, the greater the damage he ultimately
+deals with his _studied strike._
+
 **Ability:** When the investigator makes a _studied strike,_ he deal a number of points of
 additional damage equal to the number of consecutive rounds he studied the target with _studied
 combat._
-
-**Flavor:** The longer the investigator studies his opponent, the greater the damage he ultimately
-deals with his _studied strike._

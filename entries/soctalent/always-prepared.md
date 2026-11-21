@@ -14,6 +14,8 @@ group = "social-talent"
 
 **Always Prepared (Ex)**
 
+**Flavor:** The vigilante can set aside resources to plan for future contingencies.
+
 **Ability:** The vigilante gains the [Brilliant Planner](ref/feat/brilliant-planner) feat except he
 can spend up to 100 gp per character level for his brilliant plan fund and only requires 1 minute to
 enact his brilliant plan.
@@ -24,8 +26,6 @@ take 1 hour to retrieve a stash, retrieving any number of items that would have 
 settlement he visited at the time of making the stash, regardless of the weight of the items. Once
 he retrieves a stash in this way, he subtracts the price of the items from the stash's value and the
 stash is exhausted and lost, regardless if he used the full value of the stash.
-
-**Flavor:** The vigilante can set aside resources to plan for future contingencies.
 
 **Special:** The vigilante can maintain any number of stashes, but a stash is lost if he does not
 spend 1 hour to maintain the stash at least once per month. A vigilante's stash is well-hidden and

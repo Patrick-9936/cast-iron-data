@@ -14,14 +14,12 @@ group = "rage-power"
 
 **Cairn Linnorm Death Curse (Su)**
 
-**Action:** Ability
+**Ability:** The character channels the power of a
+[cairn linnorm](ref/monster/linnorm-cairn-linnorm). The character's melee attacks deal an additional
+1 point of negative energy damage. If the character is knocked unconscious or killed by an attack or
+spell, the attacker suffers the _curse of decay_ (Will negates).
 
 **Prereq:** 8th-level barbarian
-
-The character channels the power of a [cairn linnorm](ref/monster/linnorm-cairn-linnorm). The
-character's melee attacks deal an additional 1 point of negative energy damage. If the character is
-knocked unconscious or killed by an attack or spell, the attacker suffers the _curse of decay_ (Will
-negates).
 
 **Curse of Decay**
 

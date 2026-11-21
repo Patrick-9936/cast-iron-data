@@ -14,11 +14,11 @@ group = "rogue-talent"
 
 **Flying Stunt (Ex)**
 
+**Swift:** A rogue with this talent can attempt a Fly check against a target's CMD when
+[charging](ref/rule/charge) from above that target. Success allows the rogue to add an amount damage
+equal to her Dexterity modifier to the attack's damage.
+
 **Prereq:** Trained in [Fly](ref/skill/fly)
 
 **Special:** This additional damage is precision damage and is not multiplied on a critical hit. A
 creature immune to sneak attacks is immune to this additional damage.
-
-**Swift:** A rogue with this talent can attempt a Fly check against a target's CMD when
-[charging](ref/rule/charge) from above that target. Success allows the rogue to add an amount damage
-equal to her Dexterity modifier to the attack's damage.

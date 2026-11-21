@@ -23,8 +23,6 @@ the attack absorbed by the barbarian, but creatures within the area may make a R
 1/2 the barbarian's level + the barbarian's Constitution modifier) for half damage even if the
 original effect did not allow a save.
 
+**Usage:** Once per _rage_
+
 **Prereq:** 16th-level barbarian, [energy absorption](ref/ragepower/energy-absorption)
-
-**Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

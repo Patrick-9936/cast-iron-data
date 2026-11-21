@@ -14,14 +14,12 @@ group = "rage-power"
 
 **Tarn Linnorm Death Curse (Su)**
 
-**Action:** Ability
-
-**Prereq:** 4th-level barbarian
-
-The character channels the power of a [tarn linnorm](ref/monster/linnorm-tarn-linnorm). The
-character's melee attacks deal an additional 1 point of acid damage. If the character is knocked
+**Ability:** The character channels the power of a [tarn linnorm](ref/monster/linnorm-tarn-linnorm).
+The character's melee attacks deal an additional 1 point of acid damage. If the character is knocked
 unconscious or killed by an attack or spell, the attacker suffers the _curse of death_ (Will
 negates).
+
+**Prereq:** 4th-level barbarian
 
 **Curse of Death**
 
