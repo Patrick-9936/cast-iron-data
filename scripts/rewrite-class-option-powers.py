@@ -29,9 +29,11 @@ Files
 
 `scripts/class-option-power-resolutions.toml`
     The hand-made replacements, one `[[resolution]]` each: `id`, `name`, `occurrence`,
-    `span_sha256`, `print` (book and page), `replacement`. A resolution applies only when the
-    current span hashes to `span_sha256`. A span that already equals the replacement is left
-    alone. Any other span is a stale resolution: reported, and the power is queued again.
+    `span_sha256`, `print` (book and page) and `replacement`: a power that passes validation,
+    then any blocks that belong after it (a list that print sets as bullets). A resolution
+    applies only when the current span hashes to `span_sha256`. A span that already equals the
+    replacement is left alone. Any other span is a stale resolution: reported, and the power is
+    queued again.
 
 Span source text (what `span_sha256` hashes)
 --------------------------------------------
@@ -633,11 +635,13 @@ def resolution_blocks(res: Resolution) -> list[Block]:
 
 
 def check_resolution(res: Resolution) -> list[str]:
-    """A replacement must be one or more candidates that all pass validation, and nothing else."""
+    """A replacement starts with a candidate, and every candidate in it passes validation. Blocks
+    after the last candidate's boundary are free: a power that print sets as a bulleted list keeps
+    the list after the power (Utility Shot)."""
     blocks = resolution_blocks(res)
     cands = candidates(blocks)
-    if not cands or cands[0].start != 0 or cands[-1].end != len(blocks):
-        return ["the replacement is not made of candidates only"]
+    if not cands or cands[0].start != 0:
+        return ["the replacement does not start with a power"]
     out = []
     for c in cands:
         problems = validate(blocks[c.start:c.end])
@@ -927,6 +931,10 @@ def self_test() -> int:
     expect(outs[1].status == "queued", f"a stale resolution is queued again: {outs}")
     bad = Resolution(res.id, res.name, 1, res.span_sha256, "x", "**Foretell (Su)**\n\n**Gained:** At 8th Level\n")
     expect(check_resolution(bad) != [], "a replacement that fails validation is refused")
+    listed = Resolution(res.id, res.name, 1, res.span_sha256, "x", text + "\n- **Option:** A bullet of print.\n")
+    expect(check_resolution(listed) == [], "a valid power followed by a list is accepted")
+    bare = Resolution(res.id, res.name, 1, res.span_sha256, "x", "A paragraph.\n\n" + text)
+    expect(check_resolution(bare) != [], "a replacement must start with a power")
 
     # Hash: it does not depend on how a paragraph is wrapped.
     wrapped = parse_blocks("**N (Su)**\n\n**Passive:** one two\nthree four\n".split("\n"))
