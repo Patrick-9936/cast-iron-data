@@ -56,27 +56,31 @@ humanoid has a regal presence._
 
 **Experience points:** 1,638,400
 
-**Armor class:** 43/19/38
+**Armor class:** 43
+
+**Touch:** 19
+
+**Flat-footed:** 38
+
+**AC modifiers:** +10 armor, +5 deflection, +5 Dex, +14 natural, -1 size
+
+**Hit points:** 485 (14d8+12d10+356\~26)
+
+**Fort:** +34
+
+**Ref:** +26
+
+**Will:** +19; +2 vs. fire-based effects
 
 **Defensive abilities:** hard to kill, mythic saving throws
 
 **Evasion:** present
-
-**Fort:** +34
-
-**Hit points:** 485 (14d8+12d10+356\~26)
-
-**Mod:** +10 armor, +5 deflection, +5 Dex, +14 natural, -1 size
-
-**Ref:** +26
 
 **Resist:** electricity 20, fire 30
 
 **Rock Ct:** present
 
 **Unstop:** present
-
-**Will:** +19; +2 vs. fire-based effects
 
 **Offense**
 

@@ -55,25 +55,29 @@ scalloped with vicious, jagged barbs._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/15/20
+**Armor class:** 25
 
-**Dr:** 10/magic and cold iron
+**Touch:** 15
 
-**Fort:** +13
+**Flat-footed:** 20
+
+**AC modifiers:** +5 Dex, +10 natural
 
 **Hit points:** 133 (14d10+56)
 
-**Immune:** electricity
-
-**Mod:** +5 Dex, +10 natural
+**Fort:** +13
 
 **Ref:** +14
+
+**Will:** +10
+
+**Dr:** 10/magic and cold iron
+
+**Immune:** electricity
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 22
-
-**Will:** +10
 
 **Offense**
 

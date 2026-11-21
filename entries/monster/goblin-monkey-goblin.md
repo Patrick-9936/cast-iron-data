@@ -58,13 +58,17 @@ feet, and a rat-like tail._
 
 **Experience points:** 200
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Fort:** +3
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +4 Dex, +1 size
 
 **Hit points:** 13 (1d12+1)
 
-**Mod:** +2 armor, +4 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +4
 

@@ -50,13 +50,17 @@ _The body of a spear-wielding woman rises from the front of this monstrously hug
 
 **Experience points:** 4,800
 
-**Armor class:** 22/12/19
+**Armor class:** 22
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +2 armor, +2 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 105 (10d10+50)
 
-**Mod:** +2 armor, +2 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +8
 
 **Ref:** +11
 

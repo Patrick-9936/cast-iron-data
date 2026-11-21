@@ -49,23 +49,27 @@ dirty fingers._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/16/13
+**Armor class:** 19
+
+**Touch:** 16
+
+**Flat-footed:** 13
+
+**AC modifiers:** +5 Dex, +1 dodge, +3 natural
+
+**Hit points:** 76 (9d8+36)
+
+**Fort:** +7
+
+**Ref:** +8
+
+**Will:** +10
 
 **Chan Res:** +4
 
 **Defensive abilities:** rejuvenation
 
-**Fort:** +7
-
-**Hit points:** 76 (9d8+36)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 Dex, +1 dodge, +3 natural
-
-**Ref:** +8
-
-**Will:** +10
 
 **Offense**
 

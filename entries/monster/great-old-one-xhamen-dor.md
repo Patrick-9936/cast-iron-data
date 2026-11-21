@@ -55,7 +55,21 @@ in the wriggling mass, arrayed around a central draconic skull._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 44/26/34
+**Armor class:** 44
+
+**Touch:** 26
+
+**Flat-footed:** 34
+
+**AC modifiers:** +10 Dex, +10 insight, +18 natural, -4 size
+
+**Hit points:** 602 (28d8+476)
+
+**Fort:** +33
+
+**Ref:** +21
+
+**Will:** +20
 
 **Amorph:** present
 
@@ -65,22 +79,12 @@ in the wriggling mass, arrayed around a central draconic skull._
 
 **Fh:** 20
 
-**Fort:** +33
-
-**Hit points:** 602 (28d8+476)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain,
 mind-affecting effects, paralysis, petrification, [plant traits](ref/umr/plant-traits), poison
-
-**Mod:** +10 Dex, +10 insight, +18 natural, -4 size
-
-**Ref:** +21
 
 **Resist:** acid 30, fire 30
 
 **Sr:** 37
-
-**Will:** +20
 
 **Offense**
 

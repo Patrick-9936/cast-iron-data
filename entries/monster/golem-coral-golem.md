@@ -51,21 +51,25 @@ its creased body and claw-like hands._
 
 **Experience points:** 6,400
 
-**Armor class:** 21/9/21
+**Armor class:** 21
 
-**Dr:** 10/adamantine
+**Touch:** 9
 
-**Fort:** +4
+**Flat-footed:** 21
+
+**AC modifiers:** +12 natural, -1 size
 
 **Hit points:** 96 (12d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +12 natural, -1 size
+**Fort:** +4
 
 **Ref:** +4
 
 **Will:** +4
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

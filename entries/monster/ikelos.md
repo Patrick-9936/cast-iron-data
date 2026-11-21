@@ -54,23 +54,27 @@ wings spread across its back and the four digits of each hand end in sharp claws
 
 **Experience points:** 3,200
 
-**Armor class:** 18/18/13
+**Armor class:** 18
 
-**Defensive abilities:** dream-phased
+**Touch:** 18
 
-**Fort:** +7
+**Flat-footed:** 13
+
+**AC modifiers:** +3 deflection, +4 Dex, +1 dodge
 
 **Hit points:** 67 (9d10+18)
 
-**Incorporeal:** present
-
-**Mod:** +3 deflection, +4 Dex, +1 dodge
+**Fort:** +7
 
 **Ref:** +7
 
-**Weaknesses:** fear dependency
-
 **Will:** +9
+
+**Defensive abilities:** dream-phased
+
+**Incorporeal:** present
+
+**Weaknesses:** fear dependency
 
 **Offense**
 

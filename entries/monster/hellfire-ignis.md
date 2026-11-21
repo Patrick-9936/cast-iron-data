@@ -52,23 +52,27 @@ wicked grin on its foul, warped face._
 
 **Experience points:** 800
 
-**Armor class:** 16/16/11
+**Armor class:** 16
 
-**Dr:** 5/cold iron
+**Touch:** 16
 
-**Fort:** +3
+**Flat-footed:** 11
+
+**AC modifiers:** +5 Dex, +1 size
 
 **Hit points:** 27 (5d6+10)
 
-**Immune:** fire
-
-**Mod:** +5 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +9
 
-**Vulner:** cold
-
 **Will:** +4
+
+**Dr:** 5/cold iron
+
+**Immune:** fire
+
+**Vulner:** cold
 
 **Offense**
 

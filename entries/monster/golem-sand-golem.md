@@ -49,25 +49,29 @@ reinforcing its tall, humanoid form._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/11/21
+**Armor class:** 23
+
+**Touch:** 11
+
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +12 natural, -1 size
+
+**Hit points:** 96 (12d10+30)
+
+**Fort:** +4
+
+**Ref:** +6
+
+**Will:** +4
 
 **Amorph:** present
 
 **Dr:** 10/bludgeoning
 
-**Fort:** +4
-
-**Hit points:** 96 (12d10+30)
-
 **Immune:** [construct traits](ref/umr/construct-traits), magic
 
-**Mod:** +2 Dex, +12 natural, -1 size
-
-**Ref:** +6
-
 **Vulner:** electricity
-
-**Will:** +4
 
 **Offense**
 

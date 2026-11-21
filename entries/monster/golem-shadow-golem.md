@@ -50,23 +50,27 @@ otherwise blank visage._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/19/25
+**Armor class:** 29
+
+**Touch:** 19
+
+**Flat-footed:** 25
+
+**AC modifiers:** +6 deflection, +4 Dex, +10 Natural, -1 Size
+
+**Hit points:** 151 (22d10+30)
+
+**Fort:** +7
+
+**Ref:** +11
+
+**Will:** +7
 
 **Defensive abilities:** immunity to magic
 
 **Dr:** 15/adamantine and slashing
 
-**Fort:** +7
-
-**Hit points:** 151 (22d10+30)
-
 **Immune:** cold, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +6 deflection, +4 Dex, +10 Natural, -1 Size
-
-**Ref:** +11
-
-**Will:** +7
 
 **Offense**
 

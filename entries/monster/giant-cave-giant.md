@@ -52,23 +52,27 @@ from the bones of past victims._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/9/19
+**Armor class:** 19
 
-**Ferocity:** present
+**Touch:** 9
 
-**Fort:** +9
+**Flat-footed:** 19
+
+**AC modifiers:** +4 armor, +6 natural, -1 size
 
 **Hit points:** 67 (9d8+27)
 
-**Mod:** +4 armor, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +3
+
+**Will:** +3
+
+**Ferocity:** present
 
 **Rock Ct:** present
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +3
 
 **Offense**
 

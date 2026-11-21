@@ -50,21 +50,25 @@ red eyes._
 
 **Experience points:** 800
 
-**Armor class:** 16/11/15
+**Armor class:** 16
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +5 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** fire
-
-**Mod:** +1 Dex, +5 natural
+**Fort:** +6
 
 **Ref:** +5
 
-**Vulner:** cold
-
 **Will:** +1
+
+**Immune:** fire
+
+**Vulner:** cold
 
 **Offense**
 

@@ -54,27 +54,31 @@ her fiendish nature._
 
 **Experience points:** 204,800
 
-**Armor class:** 33/25/27
+**Armor class:** 33
 
-**Dr:** 10/cold iron or good
+**Touch:** 25
+
+**Flat-footed:** 27
+
+**AC modifiers:** +8 armor, +8 deflection, +5 Dex, +1 dodge, +1 insight
+
+**Hit points:** 274 (7d10+15d8+169\~22)
 
 **Fort:** +17
 
-**Hit points:** 274 (7d10+15d8+169\~22)
+**Ref:** +16
+
+**Will:** +19; +4 vs. blindness and charm
+
+**Dr:** 10/cold iron or good
 
 **Immune:** cold, electricity, poison
 
 **Incorporeal:** present
 
-**Mod:** +8 armor, +8 deflection, +5 Dex, +1 dodge, +1 insight
-
-**Ref:** +16
-
 **Resist:** acid 10, fire 10
 
 **Sr:** 17
-
-**Will:** +19; +4 vs. blindness and charm
 
 **Offense**
 

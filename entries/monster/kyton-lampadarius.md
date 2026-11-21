@@ -50,27 +50,31 @@ flesh and shifting shadowstuff._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/13/13
+**Armor class:** 16
+
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 dodge, +3 natural
+
+**Hit points:** 37 (5d10+10)
+
+**Fort:** +6
+
+**Ref:** +3
+
+**Will:** +6
 
 **Defensive abilities:** semi-incorporeal
 
 **Dr:** 5/good or silver
 
-**Fort:** +6
-
-**Hit points:** 37 (5d10+10)
-
 **Immune:** cold
-
-**Mod:** +2 Dex, +1 dodge, +3 natural
-
-**Ref:** +3
 
 **Regen:** 2 (good weapons and spells, silver weapons)
 
 **Sr:** 15
-
-**Will:** +6
 
 **Offense**
 

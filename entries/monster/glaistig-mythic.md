@@ -58,27 +58,31 @@ and her bestial legs._
 
 **Experience points:** 409,600
 
-**Armor class:** 40/32/28
+**Armor class:** 40
 
-**Dr:** 15/cold iron and epic
+**Touch:** 32
 
-**Fort:** +18
+**Flat-footed:** 28
+
+**AC modifiers:** +10 deflection, +12 Dex, +8 natural
 
 **Hit points:** 422 (25d6+335)
 
-**Immune:** daze, mind-affecting effects, stagger, stun
-
-**Mod:** +10 deflection, +12 Dex, +8 natural
+**Fort:** +18
 
 **Ref:** +26
+
+**Will:** +23; second save
+
+**Dr:** 15/cold iron and epic
+
+**Immune:** daze, mind-affecting effects, stagger, stun
 
 **Regen:** 30 (air; see airbane)
 
 **Resist:** acid 30, cold 30, electricity 30, fire 30, sonic 30
 
 **Sr:** 32
-
-**Will:** +23; second save
 
 **Offense**
 

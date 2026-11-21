@@ -52,19 +52,23 @@ makeshift spear._
 
 **Experience points:** 200
 
-**Armor class:** 13/12/12
+**Armor class:** 13
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 armor, +1 Dex, +1 size
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** electricity, sonic, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 armor, +1 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +1
 
 **Will:** +1
+
+**Immune:** electricity, sonic, [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

@@ -51,25 +51,29 @@ overwhelming despair about her._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/25/17
+**Armor class:** 25
+
+**Touch:** 25
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 deflection, +7 Dex, +1 dodge
+
+**Hit points:** 138 (12d8+84)
+
+**Fort:** +11
+
+**Ref:** +13
+
+**Will:** +9
 
 **Chan Res:** +2
 
 **Defensive abilities:** rejuvenation
 
-**Fort:** +11
-
-**Hit points:** 138 (12d8+84)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
-
-**Mod:** +7 deflection, +7 Dex, +1 dodge
-
-**Ref:** +13
-
-**Will:** +9
 
 **Offense**
 

@@ -51,25 +51,29 @@ reverence and patience._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/13/17
+**Armor class:** 20
+
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +7 natural
+
+**Hit points:** 85 (10d10+30)
+
+**Fort:** +10
+
+**Ref:** +6
+
+**Will:** +11
 
 **Dr:** 5/cold iron
 
 **Fh:** 4
 
-**Fort:** +10
-
-**Hit points:** 85 (10d10+30)
-
 **Immune:** bleed, mind-affecting effects, petrification, polymorph
 
-**Mod:** +3 Dex, +7 natural
-
-**Ref:** +6
-
 **Resist:** acid 10, electricity 10, fire 10
-
-**Will:** +11
 
 **Offense**
 

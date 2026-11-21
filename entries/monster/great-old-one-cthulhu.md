@@ -53,7 +53,21 @@ must surely herald the end of times._
 
 **Experience points:** 9,830,400
 
-**Armor class:** 49/29/44
+**Armor class:** 49
+
+**Touch:** 29
+
+**Flat-footed:** 44
+
+**AC modifiers:** +12 deflection, +5 Dex, +10 insight, +20 natural, -8 size
+
+**Hit points:** 774 (36d8+612)
+
+**Fort:** +29
+
+**Ref:** +29
+
+**Will:** +33
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, immortality,
 insanity (DC 40), non-euclidean
@@ -62,22 +76,12 @@ insanity (DC 40), non-euclidean
 
 **Fh:** 30
 
-**Fort:** +29
-
-**Hit points:** 774 (36d8+612)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain,
 mind-affecting effects, paralysis, and petrification
-
-**Mod:** +12 deflection, +5 Dex, +10 insight, +20 natural, -8 size
-
-**Ref:** +29
 
 **Resist:** acid 30, electricity 30, fire 30, sonic 30
 
 **Sr:** 41
-
-**Will:** +33
 
 **Offense**
 

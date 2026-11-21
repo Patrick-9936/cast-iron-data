@@ -50,25 +50,29 @@ Elongated saw blades loll out of its distended mouth._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Dr:** 5/good or silver
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural
 
 **Hit points:** 51 (6d10+18)
 
-**Immune:** cold
-
-**Mod:** +3 Dex, +1 dodge, +4 natural
+**Fort:** +5
 
 **Ref:** +8
+
+**Will:** +8
+
+**Dr:** 5/good or silver
+
+**Immune:** cold
 
 **Regen:** 2 (good weapons and spells, silver weapons)
 
 **Sr:** 16
-
-**Will:** +8
 
 **Offense**
 

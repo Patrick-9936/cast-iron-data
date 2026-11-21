@@ -48,21 +48,25 @@ out, ending in an upraised fist._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/13/26
+**Armor class:** 30
 
-**Dr:** 15/adamantine
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 26
+
+**AC modifiers:** +4 Dex, +17 natural, -1 size
 
 **Hit points:** 156 (23d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +4 Dex, +17 natural, -1 size
+**Fort:** +7
 
 **Ref:** +11
 
 **Will:** +7
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

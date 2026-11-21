@@ -54,7 +54,21 @@ from his eye sockets, yet his expression is one of unquenched rage._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/19/20
+**Armor class:** 24
+
+**Touch:** 19
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +5 natural, +5 profane
+
+**Hit points:** 138 (12d8+84)
+
+**Fort:** +11
+
+**Ref:** +10
+
+**Will:** +11
 
 **Chan Res:** +6
 
@@ -62,19 +76,9 @@ from his eye sockets, yet his expression is one of unquenched rage._
 
 **Dr:** 10/good
 
-**Fort:** +11
-
-**Hit points:** 138 (12d8+84)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +4 Dex, +5 natural, +5 profane
-
-**Ref:** +10
-
 **Sr:** 20 (24 vs. divine spells)
-
-**Will:** +11
 
 **Offense**
 

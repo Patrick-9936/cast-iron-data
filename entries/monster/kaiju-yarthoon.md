@@ -53,7 +53,21 @@ amid a ring of glowing eyes._
 
 **Experience points:** 1,638,400
 
-**Armor class:** 44/12/34
+**Armor class:** 44
+
+**Touch:** 12
+
+**Flat-footed:** 34
+
+**AC modifiers:** +9 Dex, +1 dodge, +32 natural, -8 size
+
+**Hit points:** 565 (29d10+406)
+
+**Fort:** +30
+
+**Ref:** +25
+
+**Will:** +19
 
 **Defensive abilities:** recovery
 
@@ -63,19 +77,9 @@ amid a ring of glowing eyes._
 
 **Fh:** 30
 
-**Fort:** +30
-
-**Hit points:** 565 (29d10+406)
-
 **Immune:** ability damage, ability drain, cold, death effects, disease, energy drain, fear
 
-**Mod:** +9 Dex, +1 dodge, +32 natural, -8 size
-
-**Ref:** +25
-
 **Resist:** acid 30, electricity 30, fire 30, negative energy 30, sonic 30
-
-**Will:** +19
 
 **Offense**
 

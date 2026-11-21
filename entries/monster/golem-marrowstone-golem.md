@@ -49,21 +49,25 @@ _Thin veins of black rock crisscross the frame of this hulking construct._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/9/21
+**Armor class:** 21
 
-**Dr:** 10/adamantine
+**Touch:** 9
 
-**Fort:** +3
+**Flat-footed:** 21
+
+**AC modifiers:** +12 natural, -1 size
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +12 natural, -1 size
+**Fort:** +3
 
 **Ref:** +3
 
 **Will:** +3
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

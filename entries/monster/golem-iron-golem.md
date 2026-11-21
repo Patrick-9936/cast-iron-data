@@ -48,21 +48,25 @@ with bone-jarring force._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/8/28
+**Armor class:** 28
 
-**Dr:** 15/adamantine
+**Touch:** 8
 
-**Fort:** +6
+**Flat-footed:** 28
+
+**AC modifiers:** -1 Dex, +20 natural, -1 size
 
 **Hit points:** 129 (18d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +20 natural, -1 size
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +6
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

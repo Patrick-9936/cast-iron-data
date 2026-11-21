@@ -55,21 +55,25 @@ of an immense snake._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/13/17
+**Armor class:** 21
 
-**Fort:** +7
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 Dex, +8 natural, -1 size
 
 **Hit points:** 102 (12d10+36)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +4 Dex, +8 natural, -1 size
+**Fort:** +7
 
 **Ref:** +12
 
-**Sr:** 19
-
 **Will:** +11
+
+**Immune:** mind-affecting effects
+
+**Sr:** 19
 
 **Offense**
 

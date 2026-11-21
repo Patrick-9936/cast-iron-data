@@ -52,23 +52,27 @@ obscure its head._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Dr:** 5/good
+**Touch:** 12
 
-**Fort:** +6
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +5 natural
 
 **Hit points:** 37 (5d10+10)
 
-**Immune:** poison
-
-**Mod:** +2 Dex, +5 natural
+**Fort:** +6
 
 **Ref:** +6
 
-**Sr:** 15
-
 **Will:** +2
+
+**Dr:** 5/good
+
+**Immune:** poison
+
+**Sr:** 15
 
 **Offense**
 

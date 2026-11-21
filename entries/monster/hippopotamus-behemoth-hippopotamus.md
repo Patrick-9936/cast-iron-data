@@ -48,19 +48,23 @@ moves with an indomitable gait._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/7/23
+**Armor class:** 23
 
-**Defensive abilities:** [blood sweat](ref/monster/hippopotamus)
+**Touch:** 7
 
-**Fort:** +14 (+16 vs. nonmagical disease)
+**Flat-footed:** 23
+
+**AC modifiers:** -1 Dex, +16 natural, -2 size
 
 **Hit points:** 133 (14d8+70)
 
-**Mod:** -1 Dex, +16 natural, -2 size
+**Fort:** +14 (+16 vs. nonmagical disease)
 
 **Ref:** +8
 
 **Will:** +7
+
+**Defensive abilities:** [blood sweat](ref/monster/hippopotamus)
 
 **Offense**
 

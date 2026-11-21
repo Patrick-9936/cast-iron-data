@@ -48,19 +48,23 @@ origins._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Fort:** +10
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +8 natural, -1 size
 
 **Hit points:** 73 (7d10+35)
 
-**Mod:** +2 Dex, +8 natural, -1 size
+**Fort:** +10
 
 **Ref:** +7
 
-**Resist:** energy 10 (see genie-touched abilities)
-
 **Will:** +5
+
+**Resist:** energy 10 (see genie-touched abilities)
 
 **Offense**
 

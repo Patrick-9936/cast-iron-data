@@ -51,25 +51,29 @@ gems._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/11/19
+**Armor class:** 20
 
-**Dr:** 10/magic
+**Touch:** 11
 
-**Fort:** +8
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +9 natural
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** cold
-
-**Mod:** +1 Dex, +9 natural
+**Fort:** +8
 
 **Ref:** +8
+
+**Will:** +8
+
+**Dr:** 10/magic
+
+**Immune:** cold
 
 **Sr:** 18
 
 **Vulner:** fire
-
-**Will:** +8
 
 **Offense**
 

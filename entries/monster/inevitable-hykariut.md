@@ -51,23 +51,27 @@ hammer._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/13/33
+**Armor class:** 33
+
+**Touch:** 13
+
+**Flat-footed:** 33
+
+**AC modifiers:** +4 deflection, +20 natural, -1 size
+
+**Hit points:** 280 (20d10+170)
+
+**Fort:** +23
+
+**Ref:** +10
+
+**Will:** +23
 
 **Defensive abilities:** constructed, unimpeachable
 
 **Dr:** 15/chaotic
 
-**Fort:** +23
-
-**Hit points:** 280 (20d10+170)
-
-**Mod:** +4 deflection, +20 natural, -1 size
-
-**Ref:** +10
-
 **Regen:** 10 (chaotic)
-
-**Will:** +23
 
 **Offense**
 

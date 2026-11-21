@@ -50,27 +50,31 @@ looks like a large, glistening brain._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/17/16
+**Armor class:** 22
 
-**Dr:** 10/adamantine and magic
+**Touch:** 17
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +5 natural, +1 size
 
 **Hit points:** 84 (8d8+48)
 
-**Immune:** fire, mind-affecting effects
-
-**Mod:** +6 Dex, +5 natural, +1 size
+**Fort:** +7
 
 **Ref:** +8
+
+**Will:** +8
+
+**Dr:** 10/adamantine and magic
+
+**Immune:** fire, mind-affecting effects
 
 **Resist:** cold 20, electricity 20, sonic 20
 
 **Sr:** 23
 
 **Weaknesses:** vulnerable to _[protection from evil](ref/spell/protection-from-evil)_
-
-**Will:** +8
 
 **Offense**
 

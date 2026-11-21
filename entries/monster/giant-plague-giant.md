@@ -51,21 +51,25 @@ _This oversized humanoid is dressed in tattered rags that don't quite cover its 
 
 **Experience points:** 38,400
 
-**Armor class:** 29/13/24
+**Armor class:** 29
 
-**Fort:** +15
+**Touch:** 13
+
+**Flat-footed:** 24
+
+**AC modifiers:** +5 Dex, +16 natural, -2 size
 
 **Hit points:** 207 (18d8+126)
 
-**Immune:** disease
-
-**Mod:** +5 Dex, +16 natural, -2 size
+**Fort:** +15
 
 **Ref:** +11
 
-**Rock Ct:** present
-
 **Will:** +18
+
+**Immune:** disease
+
+**Rock Ct:** present
 
 **Offense**
 

@@ -47,21 +47,25 @@ formidable shield._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/13/28
+**Armor class:** 33
 
-**Dr:** 20/adamantine
+**Touch:** 13
 
-**Fort:** +9
+**Flat-footed:** 28
+
+**AC modifiers:** +5 Dex, +20 natural, -2 size
 
 **Hit points:** 222 (28d10+68)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +5 Dex, +20 natural, -2 size
+**Fort:** +9
 
 **Ref:** +14
 
 **Will:** +9
+
+**Dr:** 20/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

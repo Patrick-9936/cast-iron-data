@@ -47,21 +47,25 @@ back._
 
 **Experience points:** 38,400
 
-**Armor class:** 28/12/25
+**Armor class:** 28
 
-**Dr:** 10/bludgeoning and magic
+**Touch:** 12
 
-**Fort:** +6
+**Flat-footed:** 25
+
+**AC modifiers:** +3 Dex, +16 natural, -1 size
 
 **Hit points:** 140 (20d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +3 Dex, +16 natural, -1 size
+**Fort:** +6
 
 **Ref:** +9
 
 **Will:** +6
+
+**Dr:** 10/bludgeoning and magic
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

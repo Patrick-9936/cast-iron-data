@@ -49,21 +49,25 @@ its arms to support itself._
 
 **Experience points:** 9,600
 
-**Armor class:** 26/7/26
+**Armor class:** 26
 
-**Dr:** 10/adamantine
+**Touch:** 7
 
-**Fort:** +4
+**Flat-footed:** 26
+
+**AC modifiers:** -2 Dex, +19 natural, -1 size
 
 **Hit points:** 107 (14d10+30)
 
-**Immune:** acid, [construct traits](ref/umr/construct-traits), electricity, magic
-
-**Mod:** -2 Dex, +19 natural, -1 size
+**Fort:** +4
 
 **Ref:** +2
 
 **Will:** +4
+
+**Dr:** 10/adamantine
+
+**Immune:** acid, [construct traits](ref/umr/construct-traits), electricity, magic
 
 **Offense**
 

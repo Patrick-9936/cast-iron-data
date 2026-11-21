@@ -54,27 +54,31 @@ abdomen chitters and clicks like a menacing maw._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/13/27
+**Armor class:** 31
+
+**Touch:** 13
+
+**Flat-footed:** 27
+
+**AC modifiers:** +4 Dex, +18 natural, -1 size
+
+**Hit points:** 147 (18d10+48)
+
+**Fort:** +8
+
+**Ref:** +12
+
+**Will:** +12
 
 **Dr:** 10/adamantine and magic
 
 **Fh:** 10
 
-**Fort:** +8
-
-**Hit points:** 147 (18d10+48)
-
 **Immune:** acid, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +4 Dex, +18 natural, -1 size
-
-**Ref:** +12
 
 **Resist:** cold 30, fire 30
 
 **Sr:** 26
-
-**Will:** +12
 
 **Offense**
 

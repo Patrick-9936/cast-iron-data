@@ -49,21 +49,25 @@ head._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/14/20
+**Armor class:** 24
 
-**Dr:** 10/-
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +10 natural
 
 **Hit points:** 102 (15d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +4 Dex, +10 natural
+**Fort:** +5
 
 **Ref:** +11
 
 **Will:** +8
+
+**Dr:** 10/-
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

@@ -51,23 +51,27 @@ frog-like face, yet only empty sockets stare from where its eyes should be._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/17/14
+**Armor class:** 17
 
-**Defensive abilities:**
+**Touch:** 17
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +4 deflection, +3 Dex
 
 **Hit points:** 42 (5d8+20)
 
-**Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +4 deflection, +3 Dex
+**Fort:** +5
 
 **Ref:** +4
 
 **Will:** +7
+
+**Defensive abilities:**
+
+**Immune:** cold, [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

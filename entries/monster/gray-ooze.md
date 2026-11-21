@@ -49,19 +49,23 @@ more as a terrible pseudopod lashes out._
 
 **Experience points:** 1,200
 
-**Armor class:** 5/5/5
+**Armor class:** 5
 
-**Fort:** +9
+**Touch:** 5
+
+**Flat-footed:** 5
+
+**AC modifiers:** -5 Dex
 
 **Hit points:** 50 (4d8+32)
 
-**Immune:** cold, fire, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex
+**Fort:** +9
 
 **Ref:** -4
 
 **Will:** -4
+
+**Immune:** cold, fire, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

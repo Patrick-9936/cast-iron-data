@@ -50,21 +50,25 @@ _Buzzing with an ear-shattering drone, this cloud is full of particularly viciou
 
 **Experience points:** 4,800
 
-**Armor class:** 22/22/18
+**Armor class:** 22
 
-**Defensive abilities:** swarm traits
+**Touch:** 22
 
-**Fort:** +11
+**Flat-footed:** 18
+
+**AC modifiers:** +4 Dex, +8 size
 
 **Hit points:** 90 (12d8+36)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** +4 Dex, +8 size
+**Fort:** +11
 
 **Ref:** +8
 
 **Will:** +5
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
 
 **Offense**
 

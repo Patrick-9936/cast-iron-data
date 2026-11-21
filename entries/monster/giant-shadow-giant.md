@@ -55,21 +55,25 @@ decorated with skulls._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/11/26
+**Armor class:** 28
 
-**Defensive abilities:** shadow cloak
+**Touch:** 11
 
-**Fort:** +18
+**Flat-footed:** 26
+
+**AC modifiers:** +5 armor, +2 Dex, +12 natural, -1 size
 
 **Hit points:** 218 (19d8+133)
 
-**Mod:** +5 armor, +2 Dex, +12 natural, -1 size
+**Fort:** +18
 
 **Ref:** +8
 
-**Rock Ct:** present
-
 **Will:** +7
+
+**Defensive abilities:** shadow cloak
+
+**Rock Ct:** present
 
 **Offense**
 

@@ -48,21 +48,25 @@ face is only vaguely humanoid._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/8/24
+**Armor class:** 24
 
-**Dr:** 10/adamantine and bludgeoning
+**Touch:** 8
 
-**Fort:** +4
+**Flat-footed:** 24
+
+**AC modifiers:** -1 Dex, +16 natural, -1 size
 
 **Hit points:** 101 (13d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +16 natural, -1 size
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +4
+
+**Dr:** 10/adamantine and bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

@@ -51,23 +51,27 @@ an eerie sense of life and otherworldly majesty._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/18/12
+**Armor class:** 18
 
-**Amorph:** present
+**Touch:** 18
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +2 deflection, +5 Dex, +1 dodge
 
 **Hit points:** 39 (6d8+12)
 
-**Immune:** bleed, disease, paralysis, poison, stunning
-
-**Mod:** +2 deflection, +5 Dex, +1 dodge
+**Fort:** +4
 
 **Ref:** +7
 
-**Weaknesses:** vulnerable to _[erase](ref/spell/erase)_
-
 **Will:** +6
+
+**Amorph:** present
+
+**Immune:** bleed, disease, paralysis, poison, stunning
+
+**Weaknesses:** vulnerable to _[erase](ref/spell/erase)_
 
 **Offense**
 

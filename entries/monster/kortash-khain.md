@@ -53,24 +53,28 @@ _This withered humanoid wears sooty, fire-blackened robes and a headdress of bla
 
 **Experience points:** 819,200
 
-**Armor class:** 39/22/34
+**Armor class:** 39
+
+**Touch:** 22
+
+**Flat-footed:** 34
+
+**AC modifiers:** +5 armor, +5 deflection, +5 Dex, +2 luck, +7 natural, +5 shield
+
+**Hit points:** 391 (2d8+5d8+5d6+10d6+308\~22)
+
+**Fort:** +25
+
+**Ref:** +17
+
+**Will:** +34
 
 **Chan Res:** +2
 
 **Defensive abilities:** _contingencies_, hard to kill, _[mind blank](ref/spell/mind-blank)_, mythic
 saving throws
 
-**Fort:** +25
-
-**Hit points:** 391 (2d8+5d8+5d6+10d6+308\~22)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 armor, +5 deflection, +5 Dex, +2 luck, +7 natural, +5 shield
-
-**Ref:** +17
-
-**Will:** +34
 
 **Offense**
 

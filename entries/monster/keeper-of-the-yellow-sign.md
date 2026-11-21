@@ -50,25 +50,29 @@ parts intensity and insanity._
 
 **Experience points:** 2,400
 
-**Armor class:** 17/12/15
+**Armor class:** 17
+
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +5 natural
+
+**Hit points:** 66 (7d8+35)
+
+**Fort:** +8
+
+**Ref:** +4
+
+**Will:** +5
 
 **Chan Res:** +2
 
 **Dr:** 5/magic or silver
 
-**Fort:** +8
-
-**Hit points:** 66 (7d8+35)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +2 Dex, +5 natural
-
-**Ref:** +4
-
 **Weaknesses:** sunlight powerlessness
-
-**Will:** +5
 
 **Offense**
 

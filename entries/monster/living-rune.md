@@ -51,23 +51,27 @@ before finally assembling into an arcane symbol that flares with untold magical 
 
 **Experience points:** 25,600
 
-**Armor class:** 28/28/16
+**Armor class:** 28
 
-**Amorph:** present
+**Touch:** 28
 
-**Fort:** +10
+**Flat-footed:** 16
+
+**AC modifiers:** +6 deflection, +11 Dex, +1 dodge
 
 **Hit points:** 153 (18d8+72)
 
-**Immune:** bleed, disease, magic, paralysis, poison, stunning
-
-**Mod:** +6 deflection, +11 Dex, +1 dodge
+**Fort:** +10
 
 **Ref:** +17
 
-**Vulner:** sonic
-
 **Will:** +15
+
+**Amorph:** present
+
+**Immune:** bleed, disease, magic, paralysis, poison, stunning
+
+**Vulner:** sonic
 
 **Offense**
 

@@ -48,25 +48,29 @@ exquisite detail into an eerie replica of a human face._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/9/19
+**Armor class:** 19
+
+**Touch:** 9
+
+**Flat-footed:** 19
+
+**AC modifiers:** -1 Dex, +10 natural
+
+**Hit points:** 64 (8d10+20)
+
+**Fort:** +2
+
+**Ref:** +1
+
+**Will:** +2
 
 **Defensive abilities:** conductivity, heat shimmer
 
 **Dr:** 5/adamantine
 
-**Fort:** +2
-
-**Hit points:** 64 (8d10+20)
-
 **Immune:** [construct traits](ref/umr/construct-traits), electricity, fire
 
-**Mod:** -1 Dex, +10 natural
-
-**Ref:** +1
-
 **Sr:** 17
-
-**Will:** +2
 
 **Offense**
 

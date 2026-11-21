@@ -50,25 +50,29 @@ veins, organs, and twisted flesh._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/13/22
+**Armor class:** 26
 
-**Dr:** 10/silver or good
+**Touch:** 13
 
-**Fort:** +14
+**Flat-footed:** 22
+
+**AC modifiers:** +3 Dex, +1 dodge, +13 natural, -1 size
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** cold
-
-**Mod:** +3 Dex, +1 dodge, +13 natural, -1 size
+**Fort:** +14
 
 **Ref:** +9
+
+**Will:** +17
+
+**Dr:** 10/silver or good
+
+**Immune:** cold
 
 **Regen:** 5 (good weapons and spells, silver weapons)
 
 **Sr:** 23
-
-**Will:** +17
 
 **Offense**
 

@@ -54,29 +54,33 @@ on stout cloven hooves._
 
 **Experience points:** 1,638,400
 
-**Armor class:** 45/29/33
+**Armor class:** 45
+
+**Touch:** 29
+
+**Flat-footed:** 33
+
+**AC modifiers:** +6 armor, +5 deflection, +11 Dex, +1 dodge, +2 luck, +10 natural
+
+**Hit points:** 560 (32d10+384)
+
+**Fort:** +26
+
+**Ref:** +31
+
+**Will:** +30
 
 **Dr:** 20/good and silver
 
 **Evasion:** present
 
-**Fort:** +26
-
-**Hit points:** 560 (32d10+384)
-
 **Immune:** fire, poison
-
-**Mod:** +6 armor, +5 deflection, +11 Dex, +1 dodge, +2 luck, +10 natural
-
-**Ref:** +31
 
 **Regen:** 5 (good weapons or spells)
 
 **Resist:** acid 30, cold 30
 
 **Sr:** 36
-
-**Will:** +30
 
 **Offense**
 

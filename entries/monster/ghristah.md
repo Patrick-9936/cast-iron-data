@@ -57,13 +57,17 @@ and bone and the skull of a larger reptile as a menacing mask._
 
 **Experience points:** 4,800
 
-**Armor class:** 23/12/21
+**Armor class:** 23
 
-**Fort:** +14
+**Touch:** 12
+
+**Flat-footed:** 21
+
+**AC modifiers:** +5 armor, +2 Dex, +6 natural
 
 **Hit points:** 83 (9d8+43)
 
-**Mod:** +5 armor, +2 Dex, +6 natural
+**Fort:** +14
 
 **Ref:** +7
 

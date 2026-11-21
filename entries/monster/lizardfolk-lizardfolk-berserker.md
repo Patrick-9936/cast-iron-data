@@ -50,21 +50,25 @@ abilities = ["22", "14", "19", "9", "12", "8"]
 
 **Experience points:** 1,600
 
-**Armor class:** 19/10/17
+**Armor class:** 19
 
-**Fort:** +11
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 armor, +2 Dex, +5 natural, -2 rage
 
 **Hit points:** 66 (2d8+4d12+26\~6)
 
-**Mod:** +4 armor, +2 Dex, +5 natural, -2 rage
+**Fort:** +11
 
 **Ref:** +3
+
+**Will:** +4
 
 **Trap S:** +1
 
 **Uncanny dodge:** present
-
-**Will:** +4
 
 **Offense**
 

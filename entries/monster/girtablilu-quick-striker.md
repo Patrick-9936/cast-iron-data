@@ -52,21 +52,25 @@ _Foul liquid drips in equal measure from this scorpion-woman's fearsome spear an
 
 **Experience points:** 19,200
 
-**Armor class:** 28/15/22
+**Armor class:** 28
 
-**Evasion:** present
+**Touch:** 15
 
-**Fort:** +10
+**Flat-footed:** 22
+
+**AC modifiers:** +3 armor, +5 Dex, +1 dodge, +10 natural, -1 size
 
 **Hit points:** 189 (8d8+10d10+98\~18)
 
-**Mod:** +3 armor, +5 Dex, +1 dodge, +10 natural, -1 size
+**Fort:** +10
 
 **Ref:** +21
 
-**Trap S:** +2
-
 **Will:** +12
+
+**Evasion:** present
+
+**Trap S:** +2
 
 **Offense**
 

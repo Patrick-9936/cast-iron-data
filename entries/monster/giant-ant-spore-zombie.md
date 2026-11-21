@@ -51,19 +51,23 @@ of the gap._
 
 **Experience points:** 800
 
-**Armor class:** 17/10/17
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 natural
 
 **Hit points:** 34 (4d8+16)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +7 natural
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +5
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

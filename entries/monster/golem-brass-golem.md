@@ -51,21 +51,25 @@ sword in its metal fists._
 
 **Experience points:** 38,400
 
-**Armor class:** 30/8/30
+**Armor class:** 30
 
-**Dr:** 15/adamantine
+**Touch:** 8
 
-**Fort:** +6
+**Flat-footed:** 30
+
+**AC modifiers:** +22 natural, -2 size
 
 **Hit points:** 150 (20d10+40)
 
-**Immune:** [construct traits](ref/umr/construct-traits), fire, magic
-
-**Mod:** +22 natural, -2 size
+**Fort:** +6
 
 **Ref:** +6
 
 **Will:** +7
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), fire, magic
 
 **Offense**
 

@@ -46,21 +46,25 @@ abilities = ["42", "9", "-", "-", "15", "1"]
 
 **Experience points:** 102,400
 
-**Armor class:** 31/1/31
+**Armor class:** 31
 
-**Dr:** 15/adamantine
+**Touch:** 1
 
-**Fort:** +7
+**Flat-footed:** 31
+
+**AC modifiers:** -1 Dex, +30 natural, -8 size
 
 **Hit points:** 206 (23d10+80)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +30 natural, -8 size
+**Fort:** +7
 
 **Ref:** +6
 
 **Will:** +9
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

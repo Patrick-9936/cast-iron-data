@@ -48,21 +48,25 @@ hand and a club in the other._
 
 **Experience points:** 600
 
-**Armor class:** 14/14/11
+**Armor class:** 14
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +2
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
 
 **Hit points:** 18 (4d6+4)
 
-**Mod:** +3 Dex, +1 size
+**Fort:** +2
 
 **Ref:** +7
 
-**Sr:** 13
-
 **Will:** +6
+
+**Dr:** 5/cold iron
+
+**Sr:** 13
 
 **Offense**
 

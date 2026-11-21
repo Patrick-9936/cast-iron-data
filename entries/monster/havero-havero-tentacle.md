@@ -45,23 +45,27 @@ abilities = ["28", "12", "20", "-", "20", "10"]
 
 **Experience points:** 2,400
 
-**Armor class:** 19/10/18
+**Armor class:** 19
 
-**Dr:** 5/slashing
+**Touch:** 10
 
-**Fort:** +7
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
 
 **Hit points:** 66 (7d8+35)
 
-**Immune:** cold, mind-affecting effects, poison, vision-based effects
-
-**Mod:** +1 Dex, +9 natural, -1 size
+**Fort:** +7
 
 **Ref:** +3
 
-**Resist:** acid 10, fire 10
-
 **Will:** +10
+
+**Dr:** 5/slashing
+
+**Immune:** cold, mind-affecting effects, poison, vision-based effects
+
+**Resist:** acid 10, fire 10
 
 **Offense**
 

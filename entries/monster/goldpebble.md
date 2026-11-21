@@ -53,19 +53,23 @@ stones, a few of which glint with traces of gold._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/15
+**Armor class:** 18
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +6 natural, -1 size
 
 **Hit points:** 51 (6d10+18)
 
-**Mod:** +3 Dex, +6 natural, -1 size
+**Fort:** +8
 
 **Ref:** +8
 
-**Resist:** cold 10
-
 **Will:** +3
+
+**Resist:** cold 10
 
 **Offense**
 

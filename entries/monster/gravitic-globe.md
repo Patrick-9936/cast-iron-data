@@ -49,21 +49,25 @@ flame._
 
 **Experience points:** 9,600
 
-**Armor class:** 18/8/18
+**Armor class:** 18
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 20, magnetism
+**Touch:** 8
 
-**Fort:** +6
+**Flat-footed:** 18
+
+**AC modifiers:** -1 Dex, +10 natural, -1 size
 
 **Hit points:** 140 (20d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** -1 Dex, +10 natural, -1 size
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +1
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 20, magnetism
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

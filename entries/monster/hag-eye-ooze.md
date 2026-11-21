@@ -52,21 +52,25 @@ mass, ready to strike._
 
 **Experience points:** 800
 
-**Armor class:** 6/6/6
+**Armor class:** 6
 
-**Fort:** +5
+**Touch:** 6
+
+**Flat-footed:** 6
+
+**AC modifiers:** -5 Dex, +1 size
 
 **Hit points:** 34 (4d8+16)
 
-**Immune:** acid, cold, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, +1 size
+**Fort:** +5
 
 **Ref:** -4
 
-**Resist:** fire 5
-
 **Will:** -4
+
+**Immune:** acid, cold, [ooze traits](ref/umr/ooze-traits)
+
+**Resist:** fire 5
 
 **Offense**
 

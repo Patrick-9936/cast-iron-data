@@ -49,21 +49,25 @@ hands._
 
 **Experience points:** 307,200
 
-**Armor class:** 37/4/37
+**Armor class:** 37
 
-**Dr:** 20/adamantine and bludgeoning
+**Touch:** 4
 
-**Fort:** +10
+**Flat-footed:** 37
+
+**AC modifiers:** -2 Dex, +33 natural, -4 size
 
 **Hit points:** 375 (30d10+210)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -2 Dex, +33 natural, -4 size
+**Fort:** +10
 
 **Ref:** +8
 
 **Will:** +10
+
+**Dr:** 20/adamantine and bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

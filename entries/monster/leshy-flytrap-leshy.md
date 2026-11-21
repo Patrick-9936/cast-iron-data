@@ -53,21 +53,25 @@ glare menacingly._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/15
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +4 natural, +1 size
 
 **Hit points:** 39 (6d8+12)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
-
-**Mod:** +2 Dex, +4 natural, +1 size
+**Fort:** +7
 
 **Ref:** +4
 
-**Resist:** fire 5
-
 **Will:** +4
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
+
+**Resist:** fire 5
 
 **Offense**
 

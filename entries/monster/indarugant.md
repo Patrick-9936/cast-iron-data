@@ -49,7 +49,21 @@ conceal the simple geometric tattoos and ancient battle scars that decorate his 
 
 **Experience points:** 38,400
 
-**Armor class:** 29/11/26
+**Armor class:** 29
+
+**Touch:** 11
+
+**Flat-footed:** 26
+
+**AC modifiers:** +4 armor, +2 Dex, +1 dodge, +14 natural, -2 size
+
+**Hit points:** 190 (20d8+100)
+
+**Fort:** +10
+
+**Ref:** +10
+
+**Will:** +16
 
 **Chan Res:** +4
 
@@ -57,19 +71,9 @@ conceal the simple geometric tattoos and ancient battle scars that decorate his 
 
 **Dr:** 5/-
 
-**Fort:** +10
-
-**Hit points:** 190 (20d8+100)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
 
-**Mod:** +4 armor, +2 Dex, +1 dodge, +14 natural, -2 size
-
-**Ref:** +10
-
 **Sr:** 25
-
-**Will:** +16
 
 **Offense**
 

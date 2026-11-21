@@ -57,27 +57,31 @@ a whip of flames._
 
 **Experience points:** 1,638,400
 
-**Armor class:** 44/17/40
+**Armor class:** 44
+
+**Touch:** 17
+
+**Flat-footed:** 40
+
+**AC modifiers:** +11 armor, +4 deflection, +4 Dex, +16 natural, -1 size
+
+**Hit points:** 542 (25d10+405\~25)
+
+**Fort:** +35
+
+**Ref:** +19
+
+**Will:** +24 (+1 vs. fear)
 
 **Defensive abilities:** bravery +1
 
 **Dr:** 15/epic, cold iron, and good
 
-**Fort:** +35
-
-**Hit points:** 542 (25d10+405\~25)
-
 **Immune:** electricity, fire, poison
-
-**Mod:** +11 armor, +4 deflection, +4 Dex, +16 natural, -1 size
-
-**Ref:** +19
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 31
-
-**Will:** +24 (+1 vs. fear)
 
 **Offense**
 

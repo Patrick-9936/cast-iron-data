@@ -50,25 +50,29 @@ for sustenance._
 
 **Experience points:** 800
 
-**Armor class:** 8/6/8
+**Armor class:** 8
+
+**Touch:** 6
+
+**Flat-footed:** 8
+
+**AC modifiers:** -3 Dex, +2 natural, -1 size
+
+**Hit points:** 47 (5d8+25)
+
+**Fort:** +6
+
+**Ref:** -2
+
+**Will:** -4
 
 **Amorph:** present
 
 **Defensive abilities:**
 
-**Fort:** +6
-
-**Hit points:** 47 (5d8+25)
-
 **Immune:** [ooze traits](ref/umr/ooze-traits)
 
-**Mod:** -3 Dex, +2 natural, -1 size
-
-**Ref:** -2
-
 **Regen:** 5 (acid or fire)
-
-**Will:** -4
 
 **Offense**
 

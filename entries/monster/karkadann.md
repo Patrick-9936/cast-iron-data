@@ -47,21 +47,25 @@ _A single wicked horn grows from the forehead of this stocky, oryx-like creature
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/15
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +6 natural, -1 size
 
 **Hit points:** 42 (5d10+15)
 
-**Immune:** disease, poison
-
-**Mod:** +2 Dex, +6 natural, -1 size
+**Fort:** +7
 
 **Ref:** +6
 
-**Resist:** fire 5
-
 **Will:** +6
+
+**Immune:** disease, poison
+
+**Resist:** fire 5
 
 **Offense**
 

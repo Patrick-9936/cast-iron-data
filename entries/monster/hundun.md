@@ -53,7 +53,21 @@ _The wrinkled, blotchy skin of this giant hangs from its body like hooded robes,
 
 **Experience points:** 409,600
 
-**Armor class:** 37/23/31
+**Armor class:** 37
+
+**Touch:** 23
+
+**Flat-footed:** 31
+
+**AC modifiers:** +8 deflection, +6 Dex, +14 natural, -1 size
+
+**Hit points:** 364 (27d8+243)
+
+**Fort:** +18
+
+**Ref:** +23
+
+**Will:** +21
 
 **Defensive abilities:** entropic mind, negative energy affinity, spacetime shifting
 
@@ -61,21 +75,11 @@ _The wrinkled, blotchy skin of this giant hangs from its body like hooded robes,
 
 **Evasion:** present
 
-**Fort:** +18
-
-**Hit points:** 364 (27d8+243)
-
 **Immune:** aging effects, cold, disease, mind-affecting effects, petrification, poison
-
-**Mod:** +8 deflection, +6 Dex, +14 natural, -1 size
-
-**Ref:** +23
 
 **Resist:** fire 30
 
 **Sr:** 32
-
-**Will:** +21
 
 **Offense**
 

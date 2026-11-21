@@ -49,21 +49,25 @@ various colors._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/10/29
+**Armor class:** 31
 
-**Dr:** 15/adamantine and magic
+**Touch:** 10
 
-**Fort:** +7
+**Flat-footed:** 29
+
+**AC modifiers:** +2 Dex, +21 natural, -2 size
 
 **Hit points:** 155 (21d10+40)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +2 Dex, +21 natural, -2 size
+**Fort:** +7
 
 **Ref:** +9
 
 **Will:** +7
+
+**Dr:** 15/adamantine and magic
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

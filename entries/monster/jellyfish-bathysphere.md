@@ -51,21 +51,25 @@ with an eerie blue light._
 
 **Experience points:** 200
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Amorph:** present
+**Touch:** 13
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 9 (1d8+5)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +2 size
+**Fort:** +4
 
 **Ref:** +1
 
 **Will:** +0
+
+**Amorph:** present
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

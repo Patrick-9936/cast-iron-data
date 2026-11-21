@@ -57,32 +57,36 @@ like burnished gold._
 
 **Experience points:** 1,228,800
 
-**Armor class:** 44/7/43
+**Armor class:** 44
 
-**Dr:** 15/epic and magic
+**Touch:** 7
+
+**Flat-footed:** 43
+
+**AC modifiers:** +6 armor, +1 Dex, +31 natural, -4 size
+
+**Hit points:** 529 (26d12+360)
 
 **Fort:** +25
 
-**Fortif:** 50
+**Ref:** +16
 
-**Hit points:** 529 (26d12+360)
+**Will:** +24
+
+**Dr:** 15/epic and magic
+
+**Fortif:** 50
 
 **Immune:** ability damage, ability drain, curses, death effects, dragon traits, sleep, paralysis,
 poison
 
-**Mod:** +6 armor, +1 Dex, +31 natural, -4 size
-
 **P Blood:** dragon bile
-
-**Ref:** +16
 
 **Resist:** acid 30, cold 30, electricity 30, fire 30, sonic 30
 
 **Sr:** 35
 
 **Unstop:** present
-
-**Will:** +24
 
 **Offense**
 

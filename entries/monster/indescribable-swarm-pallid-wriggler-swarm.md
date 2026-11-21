@@ -52,21 +52,25 @@ constant, droning snorting._
 
 **Experience points:** 600
 
-**Armor class:** 16/16/14
+**Armor class:** 16
 
-**Defensive abilities:** swarm traits
+**Touch:** 16
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 size
 
 **Hit points:** 13 (3d8)
 
-**Immune:** weapon damage
-
-**Mod:** +2 Dex, +4 size
+**Fort:** +3
 
 **Ref:** +3
 
 **Will:** +5
+
+**Defensive abilities:** swarm traits
+
+**Immune:** weapon damage
 
 **Offense**
 

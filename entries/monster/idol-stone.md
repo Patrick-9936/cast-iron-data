@@ -50,21 +50,25 @@ sneering lord. Flecks of onyx glisten within its eyes, gazing across the gulf in
 
 **Experience points:** 800
 
-**Armor class:** 17/13/17
+**Armor class:** 17
 
-**Dr:** 5/-
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 17
+
+**AC modifiers:** -1 Dex, +4 natural, +4 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** cold, electricity, fire, sonic
-
-**Mod:** -1 Dex, +4 natural, +4 size
+**Fort:** +1
 
 **Ref:** +0
 
 **Will:** +3
+
+**Dr:** 5/-
+
+**Immune:** cold, electricity, fire, sonic
 
 **Offense**
 

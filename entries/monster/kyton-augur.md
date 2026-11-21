@@ -50,23 +50,27 @@ exterior of this tiny flying orb._
 
 **Experience points:** 600
 
-**Armor class:** 17/15/14
+**Armor class:** 17
 
-**Dr:** 5/good or silver
+**Touch:** 15
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +2 natural, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** cold
-
-**Mod:** +3 Dex, +2 natural, +2 size
+**Fort:** +2
 
 **Ref:** +8
 
-**Regen:** 2 (good weapons and spells, silver weapons)
-
 **Will:** +4
+
+**Dr:** 5/good or silver
+
+**Immune:** cold
+
+**Regen:** 2 (good weapons and spells, silver weapons)
 
 **Offense**
 

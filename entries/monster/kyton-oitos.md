@@ -50,25 +50,29 @@ skirt adorned with gold pendants._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/15/20
+**Armor class:** 25
 
-**Dr:** 10/bludgeoning and silver or bludgeoning and good
+**Touch:** 15
 
-**Fort:** +14
+**Flat-footed:** 20
+
+**AC modifiers:** +5 Dex, +10 natural
 
 **Hit points:** 149 (13d10+78)
 
-**Immune:** cold
-
-**Mod:** +5 Dex, +10 natural
+**Fort:** +14
 
 **Ref:** +11
+
+**Will:** +15
+
+**Dr:** 10/bludgeoning and silver or bludgeoning and good
+
+**Immune:** cold
 
 **Regen:** 5 (good)
 
 **Sr:** 22
-
-**Will:** +15
 
 **Offense**
 

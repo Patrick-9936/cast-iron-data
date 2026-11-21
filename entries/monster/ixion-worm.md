@@ -51,21 +51,25 @@ _A cyclopean face stretches grotesquely across the hub of a tall, knobby wheel o
 
 **Experience points:** 25,600
 
-**Armor class:** 27/14/22
+**Armor class:** 27
 
-**Fort:** +16
+**Touch:** 14
+
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +1 dodge, +13 natural, -1 size
 
 **Hit points:** 187 (15d10+105)
 
-**Mod:** +4 Dex, +1 dodge, +13 natural, -1 size
+**Fort:** +16
 
 **Ref:** +9
+
+**Will:** +14
 
 **Resist:** fire 10, sonic 10
 
 **Sr:** 24
-
-**Will:** +14
 
 **Offense**
 

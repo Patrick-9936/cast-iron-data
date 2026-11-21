@@ -53,25 +53,29 @@ terrifying size, as it opens its steam-shrouded maw with a hiss._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/30/25
+**Armor class:** 30
 
-**Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
+**Touch:** 30
 
-**Fort:** +17
+**Flat-footed:** 25
+
+**AC modifiers:** +5 Dex, +19 natural, -4 size
 
 **Hit points:** 229 (17d12+119)
 
-**Immune:** curse effects, dragon traits, fire, mind-affecting effects, paralysis, poison, sleep
-
-**Mod:** +5 Dex, +19 natural, -4 size
+**Fort:** +17
 
 **Ref:** +15
+
+**Will:** +14
+
+**Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
+
+**Immune:** curse effects, dragon traits, fire, mind-affecting effects, paralysis, poison, sleep
 
 **Regen:** 10 (cold iron)
 
 **Sr:** 26
-
-**Will:** +14
 
 **Offense**
 

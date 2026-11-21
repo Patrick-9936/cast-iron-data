@@ -48,21 +48,25 @@ with needle-sharp teeth._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +1 dodge, +4 natural
 
 **Hit points:** 39 (6d10+6)
 
-**Immune:** deafness, electricity, sonic
-
-**Mod:** +2 Dex, +1 dodge, +4 natural
+**Fort:** +3
 
 **Ref:** +7
 
-**Weaknesses:** wind dependence
-
 **Will:** +7
+
+**Immune:** deafness, electricity, sonic
+
+**Weaknesses:** wind dependence
 
 **Offense**
 

@@ -53,25 +53,29 @@ from the top of his head._
 
 **Experience points:** 800
 
-**Armor class:** 15/15/12
+**Armor class:** 15
+
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
+
+**Hit points:** 30 (4d10+8)
+
+**Fort:** +6
+
+**Ref:** +4
+
+**Will:** +7
 
 **Dr:** 5/cold iron or evil
 
 **Fh:** 3
 
-**Fort:** +6
-
-**Hit points:** 30 (4d10+8)
-
 **Immune:** bleed, mind-affecting effects, petrification, polymorph
 
-**Mod:** +3 Dex, +2 size
-
-**Ref:** +4
-
 **Resist:** acid 10, electricity 10, fire 10
-
-**Will:** +7
 
 **Offense**
 

@@ -48,19 +48,23 @@ and jagged teeth lend rodent-like qualities to the imposing war beast._
 
 **Experience points:** 600
 
-**Armor class:** 14/11/13
+**Armor class:** 14
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +3 natural
 
 **Hit points:** 25 (3d8+12)
 
-**Mod:** +1 Dex, +3 natural
+**Fort:** +6
 
 **Ref:** +4
 
-**Resist:** fire 3
-
 **Will:** +1
+
+**Resist:** fire 3
 
 **Offense**
 

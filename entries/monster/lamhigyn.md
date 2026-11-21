@@ -53,13 +53,17 @@ _This small, three-eyed creature has ragged, red-streaked wings and a menacingly
 
 **Experience points:** 800
 
-**Armor class:** 15/13/13
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +2 natural, +1 size
 
 **Hit points:** 32 (5d10+5)
 
-**Mod:** +2 Dex, +2 natural, +1 size
+**Fort:** +5
 
 **Ref:** +6
 

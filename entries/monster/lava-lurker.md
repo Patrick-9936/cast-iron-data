@@ -54,23 +54,27 @@ and reforming rock._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/11/21
+**Armor class:** 22
 
-**Fort:** +12
+**Touch:** 11
+
+**Flat-footed:** 21
+
+**AC modifiers:** +1 Dex, +11 natural
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** electricity, elemental traits, fire
-
-**Mod:** +1 Dex, +11 natural
+**Fort:** +12
 
 **Ref:** +9
+
+**Will:** +4
+
+**Immune:** electricity, elemental traits, fire
 
 **Vulner:** water
 
 **Weaknesses:** vulnerable to cold
-
-**Will:** +4
 
 **Offense**
 

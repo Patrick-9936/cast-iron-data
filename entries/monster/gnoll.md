@@ -50,13 +50,17 @@ human._
 **Subtype:** Gnoll\
 **Experience points:** 400
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 armor, +1 natural, +2 shield
 
 **Hit points:** 11 (2d8+2)
 
-**Mod:** +2 armor, +1 natural, +2 shield
+**Fort:** +4
 
 **Ref:** +0
 

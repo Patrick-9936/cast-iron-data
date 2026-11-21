@@ -53,21 +53,25 @@ its head to the tip of its thick tail. Its blue eyes give off a soft glow._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/8/30
+**Armor class:** 32
 
-**Fort:** +15
+**Touch:** 8
+
+**Flat-footed:** 30
+
+**AC modifiers:** +2 Dex, +24 natural, -4 size
 
 **Hit points:** 270 (20d8+180)
 
-**Immune:** cold, mind-affecting effects
-
-**Mod:** +2 Dex, +24 natural, -4 size
+**Fort:** +15
 
 **Ref:** +10
 
-**Sr:** 28
-
 **Will:** +20
+
+**Immune:** cold, mind-affecting effects
+
+**Sr:** 28
 
 **Offense**
 

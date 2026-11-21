@@ -51,7 +51,21 @@ its fanged mouth._
 
 **Experience points:** 409,600
 
-**Armor class:** 37/19/27
+**Armor class:** 37
+
+**Touch:** 19
+
+**Flat-footed:** 27
+
+**AC modifiers:** +9 Dex, +1 dodge, +18 natural, -1 size
+
+**Hit points:** 396 (24d10+264)
+
+**Fort:** +19
+
+**Ref:** +23
+
+**Will:** +20
 
 **Defensive abilities:** limited immortality
 
@@ -59,20 +73,10 @@ its fanged mouth._
 
 **Fh:** 15
 
-**Fort:** +19
-
-**Hit points:** 396 (24d10+264)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain, fear
 effects, paralysis
 
-**Mod:** +9 Dex, +1 dodge, +18 natural, -1 size
-
-**Ref:** +23
-
 **Sr:** 32
-
-**Will:** +20
 
 **Offense**
 

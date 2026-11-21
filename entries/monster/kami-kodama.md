@@ -51,27 +51,31 @@ hollow pits for eyes._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/15
+**Armor class:** 18
+
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +2 dodge, +4 natural, +1 size
+
+**Hit points:** 51 (6d10+18)
+
+**Fort:** +10
+
+**Ref:** +6
+
+**Will:** +4
 
 **Dr:** 5/cold iron
 
 **Fh:** 3
 
-**Fort:** +10
-
-**Hit points:** 51 (6d10+18)
-
 **Immune:** bleed, mind-affecting effects, petrification, polymorph
-
-**Mod:** +1 Dex, +2 dodge, +4 natural, +1 size
-
-**Ref:** +6
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 16
-
-**Will:** +4
 
 **Offense**
 

@@ -53,7 +53,21 @@ distinctive crescent shape._
 
 **Experience points:** 3,276,800
 
-**Armor class:** 45/30/34
+**Armor class:** 45
+
+**Touch:** 30
+
+**Flat-footed:** 34
+
+**AC modifiers:** +11 Dex, +10 insight, +15 natural, -1 size
+
+**Hit points:** 635 (31d10+465)
+
+**Fort:** +27
+
+**Ref:** +28
+
+**Will:** +28
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, immortality,
 insanity (DC 35)
@@ -62,22 +76,12 @@ insanity (DC 35)
 
 **Fh:** 20
 
-**Fort:** +27
-
-**Hit points:** 635 (31d10+465)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain,
 mind-affecting effects, paralysis, petrification, poison
-
-**Mod:** +11 Dex, +10 insight, +15 natural, -1 size
-
-**Ref:** +28
 
 **Resist:** acid 30, fire 30
 
 **Sr:** 38
-
-**Will:** +28
 
 **Offense**
 

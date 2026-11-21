@@ -48,13 +48,17 @@ its beak is razor-sharp._
 
 **Experience points:** 400
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 15 (2d10+4)
 
-**Mod:** +2 Dex, +1 size
+**Fort:** +5
 
 **Ref:** +5
 

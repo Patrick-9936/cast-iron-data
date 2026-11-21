@@ -52,27 +52,31 @@ dire flail in its gauntlets, and several pairs of manacles on its belt writhe of
 
 **Experience points:** 153,600
 
-**Armor class:** 32/12/30
+**Armor class:** 32
 
-**Dr:** 15/good and silver
+**Touch:** 12
 
-**Fort:** +19
+**Flat-footed:** 30
+
+**AC modifiers:** +6 armor, +2 Dex, +14 natural
 
 **Hit points:** 297 (18d10+198)
 
-**Immune:** cold, disease
-
-**Mod:** +6 armor, +2 Dex, +14 natural
+**Fort:** +19
 
 **Ref:** +15
+
+**Will:** +16
+
+**Dr:** 15/good and silver
+
+**Immune:** cold, disease
 
 **Regen:** 15 (good weapons and spells, silver weapons)
 
 **Sr:** 29
 
 **Weaknesses:** iron chair (see text)
-
-**Will:** +16
 
 **Offense**
 

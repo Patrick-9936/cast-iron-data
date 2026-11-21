@@ -54,21 +54,25 @@ craters on its rock-like surface._
 
 **Experience points:** 51,200
 
-**Armor class:** 32/12/28
+**Armor class:** 32
 
-**Defensive abilities:** improved rock catching
+**Touch:** 12
 
-**Fort:** +15
+**Flat-footed:** 28
+
+**AC modifiers:** +4 Dex, +20 natural, -2 size
 
 **Hit points:** 220 (21d8+126)
 
-**Mod:** +4 Dex, +20 natural, -2 size
+**Fort:** +15
 
 **Ref:** +13
 
-**Resist:** cold 30, fire 30
-
 **Will:** +18
+
+**Defensive abilities:** improved rock catching
+
+**Resist:** cold 30, fire 30
 
 **Offense**
 

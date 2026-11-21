@@ -47,13 +47,17 @@ to its full, towering height._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/12/15
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +6 natural, -1 size
 
 **Hit points:** 73 (7d10+35)
 
-**Mod:** +3 Dex, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +8
 

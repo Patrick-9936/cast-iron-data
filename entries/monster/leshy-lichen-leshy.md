@@ -52,19 +52,23 @@ growths._
 
 **Experience points:** 800
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 armor, +1 Dex, +1 natural, +1 size
 
 **Hit points:** 37 (5d8+15)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
-
-**Mod:** +1 armor, +1 Dex, +1 natural, +1 size
+**Fort:** +6
 
 **Ref:** +2
 
 **Will:** +3
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
 
 **Offense**
 

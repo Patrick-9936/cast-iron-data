@@ -50,23 +50,27 @@ of plate armor._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/2/34
+**Armor class:** 34
 
-**Fh:** 10
+**Touch:** 2
 
-**Fort:** +17
+**Flat-footed:** 34
+
+**AC modifiers:** +8 armor, +24 natural, -8 size
 
 **Hit points:** 341 (22d10+220)
 
-**Immune:** blindness, death effects, fire, sonic
-
-**Mod:** +8 armor, +24 natural, -8 size
+**Fort:** +17
 
 **Ref:** +16
 
-**Sr:** 30
-
 **Will:** +22
+
+**Fh:** 10
+
+**Immune:** blindness, death effects, fire, sonic
+
+**Sr:** 30
 
 **Offense**
 

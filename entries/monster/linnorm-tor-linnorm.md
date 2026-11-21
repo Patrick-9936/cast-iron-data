@@ -49,27 +49,31 @@ serpentine body._
 
 **Experience points:** 409,600
 
-**Armor class:** 37/12/27
+**Armor class:** 37
+
+**Touch:** 12
+
+**Flat-footed:** 27
+
+**AC modifiers:** +10 Dex, +25 natural, -8 size
+
+**Hit points:** 420 (24d12+264)
+
+**Fort:** +25
+
+**Ref:** +26
+
+**Will:** +21
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/cold iron
 
-**Fort:** +25
-
-**Hit points:** 420 (24d12+264)
-
 **Immune:** curse effects, fire, mind-affecting effects, paralysis, poison, sleep
-
-**Mod:** +10 Dex, +25 natural, -8 size
-
-**Ref:** +26
 
 **Regen:** 20 (cold iron)
 
 **Sr:** 32
-
-**Will:** +21
 
 **Offense**
 

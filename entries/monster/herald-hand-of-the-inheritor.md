@@ -55,27 +55,31 @@ radiant shield._
 
 **Experience points:** 51,200
 
-**Armor class:** 32/14/27
+**Armor class:** 32
 
-**Dr:** 10/evil
+**Touch:** 14
 
-**Fort:** +17
+**Flat-footed:** 27
+
+**AC modifiers:** +5 Dex, +14 natural, +4 shield, -1 size; +4 deflection vs. evil
 
 **Hit points:** 207 (18d10+108)
 
-**Immune:** acid, cold, fear, petrification
-
-**Mod:** +5 Dex, +14 natural, +4 shield, -1 size; +4 deflection vs. evil
+**Fort:** +17
 
 **Ref:** +16
+
+**Will:** +13; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** acid, cold, fear, petrification
 
 **Regen:** 10 (evil effects or weapons)
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 26
-
-**Will:** +13; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

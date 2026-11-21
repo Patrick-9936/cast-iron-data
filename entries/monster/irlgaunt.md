@@ -53,21 +53,25 @@ alien aperture._
 
 **Experience points:** 25,600
 
-**Armor class:** 29/18/20
+**Armor class:** 29
 
-**Dr:** 10/bludgeoning
+**Touch:** 18
 
-**Fort:** +9
+**Flat-footed:** 20
+
+**AC modifiers:** +9 Dex, +11 natural, -1 size
 
 **Hit points:** 133 (14d8+70)
 
-**Immune:** acid, cold
-
-**Mod:** +9 Dex, +11 natural, -1 size
+**Fort:** +9
 
 **Ref:** +15
 
 **Will:** +13
+
+**Dr:** 10/bludgeoning
+
+**Immune:** acid, cold
 
 **Offense**
 

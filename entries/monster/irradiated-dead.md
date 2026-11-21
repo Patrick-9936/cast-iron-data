@@ -48,21 +48,25 @@ eyes stare, unblinking but seething with rage._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/14/15
+**Armor class:** 19
 
-**Chan Res:** +2
+**Touch:** 14
 
-**Fort:** +6
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +1 dodge, +5 natural
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +1 dodge, +5 natural
+**Fort:** +6
 
 **Ref:** +6
 
 **Will:** +9
+
+**Chan Res:** +2
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

@@ -49,23 +49,27 @@ abilities = ["10", "12", "12", "3", "13", "9"]
 
 **Experience points:** 600
 
-**Armor class:** 16/13/15
+**Armor class:** 16
 
-**Amorph:** present
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +3 natural, +2 size
 
 **Hit points:** 11 (2d8+2)
 
-**Immune:** sleep effects
-
-**Mod:** +1 Dex, +3 natural, +2 size
+**Fort:** +1
 
 **Ref:** +1
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), susceptible to alcohol
-
 **Will:** +4
+
+**Amorph:** present
+
+**Immune:** sleep effects
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), susceptible to alcohol
 
 **Offense**
 

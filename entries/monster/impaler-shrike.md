@@ -47,13 +47,17 @@ _This large bird has brown and gray feathers and a vicious hooked beak._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/12
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 dodge, +3 natural, -1 size
 
 **Hit points:** 32 (5d8+10)
 
-**Mod:** +2 Dex, +1 dodge, +3 natural, -1 size
+**Fort:** +6
 
 **Ref:** +6
 

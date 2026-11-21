@@ -52,21 +52,25 @@ within it, and curling, steel horns emerge from its helm._
 
 **Experience points:** 3,200
 
-**Armor class:** 18/10/17
+**Armor class:** 18
 
-**Dr:** 5/evil
+**Touch:** 10
 
-**Fort:** +11
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +8 natural, -1 size
 
 **Hit points:** 94 (9d10+45)
 
-**Mod:** +1 Dex, +8 natural, -1 size
+**Fort:** +11
 
 **Ref:** +6
 
-**Resist:** electricity 5, fire 5
-
 **Will:** +9
+
+**Dr:** 5/evil
+
+**Resist:** electricity 5, fire 5
 
 **Offense**
 

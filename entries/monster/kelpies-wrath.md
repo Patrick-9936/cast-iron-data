@@ -57,25 +57,29 @@ made all the more disturbing by its apparent lack of a crew._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/6/30
+**Armor class:** 30
+
+**Touch:** 6
+
+**Flat-footed:** 30
+
+**AC modifiers:** +5 deflection, -1 Dex, +24 natural, -8 size
+
+**Hit points:** 297 (18d10+198)
+
+**Fort:** +22
+
+**Ref:** +5
+
+**Will:** +13
 
 **Dr:** 10/lawful
 
 **Fh:** 10
 
-**Fort:** +22
-
-**Hit points:** 297 (18d10+198)
-
-**Mod:** +5 deflection, -1 Dex, +24 natural, -8 size
-
-**Ref:** +5
-
 **Resist:** acid 30, cold 30, electricity 30, fire 10
 
 **Sr:** 26
-
-**Will:** +13
 
 **Offense**
 

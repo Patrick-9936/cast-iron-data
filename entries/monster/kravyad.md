@@ -49,21 +49,25 @@ _Glowing motes of electricity dance over this massive ursine creature's hairless
 
 **Experience points:** 3,200
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Ferocity:** present
+**Touch:** 12
 
-**Fort:** +10
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +8 natural, -1 size
 
 **Hit points:** 85 (9d10+36)
 
-**Immune:** electricity
-
-**Mod:** +3 Dex, +8 natural, -1 size
+**Fort:** +10
 
 **Ref:** +9
 
 **Will:** +6
+
+**Ferocity:** present
+
+**Immune:** electricity
 
 **Offense**
 

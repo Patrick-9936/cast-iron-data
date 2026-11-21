@@ -48,21 +48,25 @@ sinew._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/11/19
+**Armor class:** 21
 
-**Dr:** 5/adamantine and bludgeoning
+**Touch:** 11
 
-**Fort:** +3
+**Flat-footed:** 19
+
+**AC modifiers:** +2 Dex, +10 natural, -1 size
 
 **Hit points:** 90 (11d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +2 Dex, +10 natural, -1 size
+**Fort:** +3
 
 **Ref:** +5
 
 **Will:** +3
+
+**Dr:** 5/adamantine and bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

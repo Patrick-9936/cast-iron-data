@@ -51,21 +51,25 @@ hand._
 
 **Experience points:** 600
 
-**Armor class:** 17/15/14
+**Armor class:** 17
 
-**Dr:** 2/cold iron
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +2 natural, +2 size
 
 **Hit points:** 22 (4d6+8)
 
-**Mod:** +3 Dex, +2 natural, +2 size
+**Fort:** +3
 
 **Ref:** +7
 
-**Resist:** fire 5
-
 **Will:** +6
+
+**Dr:** 2/cold iron
+
+**Resist:** fire 5
 
 **Offense**
 

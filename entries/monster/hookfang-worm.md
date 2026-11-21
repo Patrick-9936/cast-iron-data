@@ -53,19 +53,23 @@ large, black, hook-like teeth._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/12/16
+**Armor class:** 20
 
-**Fort:** +11
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +8 natural, -2 size
 
 **Hit points:** 85 (9d8+45)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +4 Dex, +8 natural, -2 size
+**Fort:** +11
 
 **Ref:** +7
 
 **Will:** +6
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

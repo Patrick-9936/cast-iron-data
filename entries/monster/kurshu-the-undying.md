@@ -54,17 +54,23 @@ withered, like a preserved corpse._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/17/24
+**Armor class:** 30
 
-**Dr:** 10/cold iron and magic
+**Touch:** 17
 
-**Fort:** +20
+**Flat-footed:** 24
+
+**AC modifiers:** +2 deflection, +6 Dex, +13 natural, -1 size
 
 **Hit points:** 229 (17d10+136)
 
-**Mod:** +2 deflection, +6 Dex, +13 natural, -1 size
+**Fort:** +20
 
 **Ref:** +11
+
+**Will:** +17
+
+**Dr:** 10/cold iron and magic
 
 **Regen:** 5 (acid)
 
@@ -73,8 +79,6 @@ withered, like a preserved corpse._
 **Sr:** 26
 
 **Weaknesses:** divine separation
-
-**Will:** +17
 
 **Offense**
 

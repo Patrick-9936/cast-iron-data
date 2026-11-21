@@ -50,25 +50,29 @@ _This titanic golden statue of a great knight moves of its own accord and hefts 
 
 **Experience points:** 51,200
 
-**Armor class:** 34/7/33
+**Armor class:** 34
 
-**Dr:** 15/chaotic
+**Touch:** 7
 
-**Fort:** +8
+**Flat-footed:** 33
+
+**AC modifiers:** +1 Dex, +27 natural, -4 size
 
 **Hit points:** 177 (18d10+78)
 
-**Immune:** acid, [construct traits](ref/umr/construct-traits), critical hits, electricity, rust
-
-**Mod:** +1 Dex, +27 natural, -4 size
+**Fort:** +8
 
 **Ref:** +7
+
+**Will:** +13
+
+**Dr:** 15/chaotic
+
+**Immune:** acid, [construct traits](ref/umr/construct-traits), critical hits, electricity, rust
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 26
-
-**Will:** +13
 
 **Offense**
 

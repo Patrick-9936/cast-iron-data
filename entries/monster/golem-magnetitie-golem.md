@@ -50,21 +50,25 @@ objects clinging to its body._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/8/24
+**Armor class:** 24
 
-**Dr:** 10/adamantine
+**Touch:** 8
 
-**Fort:** +4
+**Flat-footed:** 24
+
+**AC modifiers:** -1 Dex, +16 natural, -1 size
 
 **Hit points:** 101 (13d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +16 natural, -1 size
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +5
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

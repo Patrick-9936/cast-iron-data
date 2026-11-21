@@ -49,23 +49,27 @@ wind._
 
 **Experience points:** 400
 
-**Armor class:** 12/11/11
+**Armor class:** 12
+
+**Touch:** 11
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 natural
+
+**Hit points:** 9 (2d8)
+
+**Fort:** +3
+
+**Ref:** +1
+
+**Will:** +0
 
 **Defensive abilities:** blood healing
 
 **Dr:** 5/slashing
 
-**Fort:** +3
-
-**Hit points:** 9 (2d8)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +1 natural
-
-**Ref:** +1
-
-**Will:** +0
 
 **Offense**
 

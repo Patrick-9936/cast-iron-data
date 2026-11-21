@@ -48,19 +48,23 @@ _This bloodshot eyeball trails strands of bloody nerves that fan out like flappi
 
 **Experience points:** 200
 
-**Armor class:** 15/15/14
+**Armor class:** 15
 
-**Fort:** +0
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 size
 
 **Hit points:** 9 (2d8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +4 size
+**Fort:** +0
 
 **Ref:** +1
 
 **Will:** +5
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

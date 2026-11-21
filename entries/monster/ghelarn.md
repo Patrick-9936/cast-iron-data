@@ -51,23 +51,27 @@ surrounding sand._
 
 **Experience points:** 600
 
-**Armor class:** 14/9/14
+**Armor class:** 14
 
-**Defensive abilities:** carapace
+**Touch:** 9
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +5 natural, -1 size
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +5 natural, -1 size
+**Fort:** +4
 
 **Ref:** +1
+
+**Will:** +5
+
+**Defensive abilities:** carapace
 
 **Resist:** fire 5
 
 **Vulner:** sonic
-
-**Will:** +5
 
 **Offense**
 

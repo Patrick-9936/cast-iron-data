@@ -55,21 +55,25 @@ with a predatory grace._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/15/15
+**Armor class:** 20
 
-**Dr:** 10/magic
+**Touch:** 15
 
-**Fort:** +10
+**Flat-footed:** 15
+
+**AC modifiers:** +5 Dex, +5 natural
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** mind-affecting effects, poison
-
-**Mod:** +5 Dex, +5 natural
+**Fort:** +10
 
 **Ref:** +12
 
 **Will:** +8
+
+**Dr:** 10/magic
+
+**Immune:** mind-affecting effects, poison
 
 **Offense**
 

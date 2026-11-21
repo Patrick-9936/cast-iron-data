@@ -54,19 +54,23 @@ frame._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/13/13
+**Armor class:** 16
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +3 natural
 
 **Hit points:** 38 (4d10+16)
 
-**Mod:** +3 Dex, +3 natural
+**Fort:** +5
 
 **Ref:** +7
 
-**Sr:** 15
-
 **Will:** +5
+
+**Sr:** 15
 
 **Offense**
 

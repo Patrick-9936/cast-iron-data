@@ -52,21 +52,25 @@ sports six frightening tusks._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/11/26
+**Armor class:** 31
 
-**Dr:** 10/magic
+**Touch:** 11
 
-**Fort:** +20
+**Flat-footed:** 26
+
+**AC modifiers:** +4 Dex, +1 dodge, +20 natural, -4 size
 
 **Hit points:** 283 (21d10+168)
 
-**Mod:** +4 Dex, +1 dodge, +20 natural, -4 size
+**Fort:** +20
 
 **Ref:** +16
 
-**Sr:** 27
-
 **Will:** +12
+
+**Dr:** 10/magic
+
+**Sr:** 27
 
 **Offense**
 

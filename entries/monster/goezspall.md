@@ -52,21 +52,25 @@ end of each of its stumpy legs._
 
 **Experience points:** 38,400
 
-**Armor class:** 30/12/27
+**Armor class:** 30
 
-**Fort:** +17
+**Touch:** 12
+
+**Flat-footed:** 27
+
+**AC modifiers:** +2 Dex, +1 dodge, +18 natural, -1 size
 
 **Hit points:** 200 (16d10+112)
 
-**Immune:** cold, disease, fire, poison, pressure damage
-
-**Mod:** +2 Dex, +1 dodge, +18 natural, -1 size
+**Fort:** +17
 
 **Ref:** +12
 
-**Resist:** acid 15, electricity 15, sonic 15
-
 **Will:** +10
+
+**Immune:** cold, disease, fire, poison, pressure damage
+
+**Resist:** acid 15, electricity 15, sonic 15
 
 **Offense**
 

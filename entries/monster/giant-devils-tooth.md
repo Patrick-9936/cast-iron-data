@@ -50,21 +50,25 @@ blood-red globules that appear on the brink of rupturing._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/6/19
+**Armor class:** 19
 
-**Defensive abilities:** acid rupture
+**Touch:** 6
 
-**Fort:** +8
+**Flat-footed:** 19
+
+**AC modifiers:** -2 Dex, +13 natural, -2 size
 
 **Hit points:** 58 (9d8+18)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** -2 Dex, +13 natural, -2 size
+**Fort:** +8
 
 **Ref:** +3
 
 **Will:** +6
+
+**Defensive abilities:** acid rupture
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

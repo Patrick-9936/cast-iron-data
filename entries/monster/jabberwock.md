@@ -57,21 +57,27 @@ and wings in a violent manner._
 
 **Experience points:** 819,200
 
-**Armor class:** 40/14/34
+**Armor class:** 40
+
+**Touch:** 14
+
+**Flat-footed:** 34
+
+**AC modifiers:** +5 Dex, +1 dodge, +26 natural, -2 size
+
+**Hit points:** 455 (26d12+286)
+
+**Fort:** +26
+
+**Ref:** +20
+
+**Will:** +24
 
 **Dr:** 15/vorpal
 
 **Fh:** 15
 
-**Fort:** +26
-
-**Hit points:** 455 (26d12+286)
-
 **Immune:** fire, paralysis, sleep
-
-**Mod:** +5 Dex, +1 dodge, +26 natural, -2 size
-
-**Ref:** +20
 
 **Resist:** acid 30, electricity 30, sonic 30
 
@@ -80,8 +86,6 @@ and wings in a violent manner._
 **Vulner:** cold
 
 **Weaknesses:** fear of vorpal weapons
-
-**Will:** +24
 
 **Offense**
 

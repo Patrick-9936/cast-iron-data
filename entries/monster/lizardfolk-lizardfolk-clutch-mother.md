@@ -50,19 +50,23 @@ abilities = ["10", "11", "12", "12", "20", "15"]
 
 **Experience points:** 25,600
 
-**Armor class:** 22/11/22
+**Armor class:** 22
 
-**Fort:** +15
+**Touch:** 11
+
+**Flat-footed:** 22
+
+**AC modifiers:** +6 armor, +1 deflection, +5 natural
 
 **Hit points:** 95 (14d8+32)
 
-**Immune:** poison
-
-**Mod:** +6 armor, +1 deflection, +5 natural
+**Fort:** +15
 
 **Ref:** +7
 
 **Will:** +16; +4 vs. enchantments
+
+**Immune:** poison
 
 **Offense**
 

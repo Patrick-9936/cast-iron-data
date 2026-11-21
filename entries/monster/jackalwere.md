@@ -52,19 +52,23 @@ away._
 
 **Experience points:** 600
 
-**Armor class:** 17/14/13
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +3 Dex, +1 dodge, +1 natural
 
 **Hit points:** 22 (3d10+6)
 
-**Mod:** +2 armor, +3 Dex, +1 dodge, +1 natural
+**Fort:** +5
 
 **Ref:** +6
 
 **Will:** +2
+
+**Dr:** 5/cold iron
 
 **Offense**
 

@@ -49,23 +49,27 @@ protuberances jut from its body._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/9/27
+**Armor class:** 27
+
+**Touch:** 9
+
+**Flat-footed:** 27
+
+**AC modifiers:** +18 natural, -1 size
+
+**Hit points:** 123 (17d10+30)
+
+**Fort:** +5
+
+**Ref:** +5
+
+**Will:** +5
 
 **Defensive abilities:** jagged body
 
 **Dr:** 10/adamantine
 
-**Fort:** +5
-
-**Hit points:** 123 (17d10+30)
-
 **Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +18 natural, -1 size
-
-**Ref:** +5
-
-**Will:** +5
 
 **Offense**
 

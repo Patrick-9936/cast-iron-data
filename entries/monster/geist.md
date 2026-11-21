@@ -50,25 +50,29 @@ _This disembodied phantom wears black robes that swirl around a maw of sharp tee
 
 **Experience points:** 6,400
 
-**Armor class:** 20/20/15
+**Armor class:** 20
 
-**Chan Res:** +4
+**Touch:** 20
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 deflection, +5 Dex
+
+**Hit points:** 114 (12d8+60)
 
 **Fort:** +9
 
-**Hit points:** 114 (12d8+60)
+**Ref:** +9
+
+**Will:** +10
+
+**Chan Res:** +4
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +5 deflection, +5 Dex
-
-**Ref:** +9
-
 **Weaknesses:** sunlight powerlessness
-
-**Will:** +10
 
 **Offense**
 

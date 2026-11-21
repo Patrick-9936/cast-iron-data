@@ -52,21 +52,25 @@ grooves visible above, below, and between its twin sets of arms._
 
 **Experience points:** 102,400
 
-**Armor class:** 33/18/24
+**Armor class:** 33
 
-**Dr:** 15/adamantine
+**Touch:** 18
 
-**Fort:** +7
+**Flat-footed:** 24
+
+**AC modifiers:** +9 Dex, +15 natural, -1 size
 
 **Hit points:** 156 (23d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +9 Dex, +15 natural, -1 size
+**Fort:** +7
 
 **Ref:** +16
 
 **Will:** +7
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

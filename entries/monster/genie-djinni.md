@@ -50,19 +50,23 @@ vortex of mist and wind._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/14/14
+**Armor class:** 19
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +1 dodge, +5 natural, -1 size
 
 **Hit points:** 52 (7d10+14)
 
-**Immune:** acid
-
-**Mod:** +4 Dex, +1 dodge, +5 natural, -1 size
+**Fort:** +4
 
 **Ref:** +9
 
 **Will:** +7
+
+**Immune:** acid
 
 **Offense**
 

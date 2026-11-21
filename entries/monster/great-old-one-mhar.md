@@ -57,30 +57,34 @@ spews smoke and roiling lava._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 43/13/42
+**Armor class:** 43
+
+**Touch:** 13
+
+**Flat-footed:** 42
+
+**AC modifiers:** +1 Dex, +10 insight, +30 natural, -8 size
+
+**Hit points:** 592 (32d8+448)
+
+**Fort:** +24
+
+**Ref:** +13
+
+**Will:** +28
 
 **Defensive abilities:** earthen regeneration, insanity (DC 35)
 
 **Dr:** 15/epic and good
 
-**Fort:** +24
-
-**Hit points:** 592 (32d8+448)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain, fire,
 mind-affecting effects, paralysis, petrification, [plane shift](ref/spell/plane-shift)
-
-**Mod:** +1 Dex, +10 insight, +30 natural, -8 size
-
-**Ref:** +13
 
 **Regen:** 20 (electricity, see below)
 
 **Resist:** acid 30, electricity 30, sonic 10
 
 **Sr:** 37
-
-**Will:** +28
 
 **Offense**
 

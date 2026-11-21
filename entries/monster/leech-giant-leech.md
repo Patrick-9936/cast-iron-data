@@ -54,21 +54,25 @@ teeth._
 
 **Experience points:** 600
 
-**Armor class:** 11/11/10
+**Armor class:** 11
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 10
+
+**AC modifiers:** +1 Dex
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex
+**Fort:** +5
 
 **Ref:** +2
 
-**Weaknesses:** susceptible to salt
-
 **Will:** +1
+
+**Immune:** mind-affecting effects
+
+**Weaknesses:** susceptible to salt
 
 **Offense**
 

@@ -54,7 +54,21 @@ _Jagged bolts of lightning crackle within this massive and vaguely humanoid stor
 
 **Experience points:** 51,200
 
-**Armor class:** 30/21/17
+**Armor class:** 30
+
+**Touch:** 21
+
+**Flat-footed:** 17
+
+**AC modifiers:** +12 Dex, +1 dodge, +9 natural, -2 size
+
+**Hit points:** 195 (17d10+102)
+
+**Fort:** +16
+
+**Ref:** +22
+
+**Will:** +9
 
 **Defensive abilities:** air mastery
 
@@ -62,17 +76,7 @@ _Jagged bolts of lightning crackle within this massive and vaguely humanoid stor
 
 **Fh:** 10
 
-**Fort:** +16
-
-**Hit points:** 195 (17d10+102)
-
 **Immune:** cold, electricity, [elemental](ref/subtype/elemental) traits
-
-**Mod:** +12 Dex, +1 dodge, +9 natural, -2 size
-
-**Ref:** +22
-
-**Will:** +9
 
 **Offense**
 

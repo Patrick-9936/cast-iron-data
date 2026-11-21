@@ -50,23 +50,27 @@ sapphire set into its brow. At the creature moves, the masks seem to shift and s
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Dr:** 5/bludgeoning
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
 
 **Hit points:** 42 (4d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +3 Dex, +4 natural
+**Fort:** +1
 
 **Ref:** +6
 
-**Vulner:** sonic
-
 **Will:** +2
+
+**Dr:** 5/bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
+
+**Vulner:** sonic
 
 **Offense**
 

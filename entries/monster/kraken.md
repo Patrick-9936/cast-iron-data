@@ -52,19 +52,23 @@ unsettling to look upon._
 
 **Experience points:** 153,600
 
-**Armor class:** 32/6/32
+**Armor class:** 32
 
-**Fort:** +21
+**Touch:** 6
+
+**Flat-footed:** 32
+
+**AC modifiers:** +26 natural, -4 size
 
 **Hit points:** 290 (20d10+180)
 
-**Immune:** cold, mind-affecting effects, poison
-
-**Mod:** +26 natural, -4 size
+**Fort:** +21
 
 **Ref:** +12
 
 **Will:** +11
+
+**Immune:** cold, mind-affecting effects, poison
 
 **Offense**
 

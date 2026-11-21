@@ -53,13 +53,17 @@ eyes._
 
 **Experience points:** 200
 
-**Armor class:** 16/12/14
+**Armor class:** 16
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 armor, +2 Dex, +1 shield
 
 **Hit points:** 17 (1d10+7)
 
-**Mod:** +3 armor, +2 Dex, +1 shield
+**Fort:** +5
 
 **Ref:** +2
 

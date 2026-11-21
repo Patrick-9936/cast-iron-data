@@ -55,25 +55,29 @@ effortlessly._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/7/30
+**Armor class:** 31
 
-**Dr:** 3/-, 10/lawful
+**Touch:** 7
 
-**Fort:** +21
+**Flat-footed:** 30
+
+**AC modifiers:** +9 armor, +1 Dex, +15 natural, -4 size
 
 **Hit points:** 283 (21d8+189)
 
-**Immune:** electricity
-
-**Mod:** +9 armor, +1 Dex, +15 natural, -4 size
+**Fort:** +21
 
 **Ref:** +8
+
+**Will:** +10
+
+**Dr:** 3/-, 10/lawful
+
+**Immune:** electricity
 
 **Resist:** acid 10, cold 10, fire 10, sonic 10
 
 **Rock Ct:** present
-
-**Will:** +10
 
 **Offense**
 

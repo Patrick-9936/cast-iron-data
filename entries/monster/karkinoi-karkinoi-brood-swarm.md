@@ -51,19 +51,23 @@ _Each member of this horde of blue crab-like things is armed with a menacing, ov
 
 **Experience points:** 1,200
 
-**Armor class:** 18/14/16
+**Armor class:** 18
 
-**Defensive abilities:** swarm traits
+**Touch:** 14
 
-**Fort:** +3
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +4 natural, +2 size
 
 **Hit points:** 39 (6d10+6)
 
-**Mod:** +2 Dex, +4 natural, +2 size
+**Fort:** +3
 
 **Ref:** +7
 
 **Will:** +5
+
+**Defensive abilities:** swarm traits
 
 **Offense**
 

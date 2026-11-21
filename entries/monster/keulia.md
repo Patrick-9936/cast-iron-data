@@ -47,13 +47,17 @@ _This small, frilled reptile has a squat body with smooth scales._
 
 **Experience points:** 100
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +1 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +3
 

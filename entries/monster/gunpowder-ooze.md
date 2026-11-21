@@ -50,23 +50,27 @@ shudders with concussive energy._
 
 **Experience points:** 38,400
 
-**Armor class:** 9/9/9
+**Armor class:** 9
 
-**Fort:** +13
+**Touch:** 9
+
+**Flat-footed:** 9
+
+**AC modifiers:** -1 size
 
 **Hit points:** 230 (20d8+140)
 
-**Immune:** cold, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -1 size
+**Fort:** +13
 
 **Ref:** +6
+
+**Will:** +1
+
+**Immune:** cold, [ooze traits](ref/umr/ooze-traits)
 
 **Split:** slashing or fire, 46 hp
 
 **Vulner:** fire
-
-**Will:** +1
 
 **Offense**
 

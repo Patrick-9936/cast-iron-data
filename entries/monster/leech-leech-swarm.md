@@ -51,21 +51,25 @@ enveloping its victim._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/18/14
+**Armor class:** 18
 
-**Fort:** +7
+**Touch:** 18
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 size
 
 **Hit points:** 39 (6d8+12)
 
-**Immune:** mind-affecting effects, swarm traits, weapon damage
-
-**Mod:** +4 Dex, +4 size
+**Fort:** +7
 
 **Ref:** +6
 
-**Weaknesses:** susceptible to salt (see [giant leech](ref/monster/leech-giant-leech))
-
 **Will:** +2
+
+**Immune:** mind-affecting effects, swarm traits, weapon damage
+
+**Weaknesses:** susceptible to salt (see [giant leech](ref/monster/leech-giant-leech))
 
 **Offense**
 

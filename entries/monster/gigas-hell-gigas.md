@@ -55,25 +55,29 @@ hefting its grisly armor with ease._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/9/26
+**Armor class:** 29
 
-**Dr:** 10/chaotic
+**Touch:** 9
 
-**Fort:** +19
+**Flat-footed:** 26
+
+**AC modifiers:** +6 armor, +3 Dex, +14 natural, -4 size
 
 **Hit points:** 237 (19d8+152)
 
-**Immune:** fire
-
-**Mod:** +6 armor, +3 Dex, +14 natural, -4 size
+**Fort:** +19
 
 **Ref:** +11
+
+**Will:** +12
+
+**Dr:** 10/chaotic
+
+**Immune:** fire
 
 **Resist:** acid 10, cold 10, electricity 10, sonic 10
 
 **Rock Ct:** present
-
-**Will:** +12
 
 **Offense**
 

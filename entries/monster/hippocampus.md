@@ -51,13 +51,17 @@ splayed fins rather than hooves._
 
 **Experience points:** 400
 
-**Armor class:** 12/8/12
+**Armor class:** 12
 
-**Fort:** +5
+**Touch:** 8
+
+**Flat-footed:** 12
+
+**AC modifiers:** -1 Dex, +4 natural, -1 size
 
 **Hit points:** 15 (2d10+4)
 
-**Mod:** -1 Dex, +4 natural, -1 size
+**Fort:** +5
 
 **Ref:** +2
 

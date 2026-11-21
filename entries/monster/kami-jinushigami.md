@@ -52,27 +52,31 @@ equally huge staff._
 
 **Experience points:** 307,200
 
-**Armor class:** 34/14/26
+**Armor class:** 34
+
+**Touch:** 14
+
+**Flat-footed:** 26
+
+**AC modifiers:** +7 Dex, +1 dodge, +20 natural, -4 size
+
+**Hit points:** 348 (24d10+216)
+
+**Fort:** +25
+
+**Ref:** +17
+
+**Will:** +23
 
 **Dr:** 15/cold iron and bludgeoning
 
 **Fh:** 20
 
-**Fort:** +25
-
-**Hit points:** 348 (24d10+216)
-
 **Immune:** bleed, mind-affecting effects, petrification, polymorph
-
-**Mod:** +7 Dex, +1 dodge, +20 natural, -4 size
-
-**Ref:** +17
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 31
-
-**Will:** +23
 
 **Offense**
 

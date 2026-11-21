@@ -53,21 +53,25 @@ leering, crudely carved face._
 
 **Experience points:** 400
 
-**Armor class:** 11/8/11
+**Armor class:** 11
 
-**Fort:** +4
+**Touch:** 8
+
+**Flat-footed:** 11
+
+**AC modifiers:** -2 Dex, +3 natural
 
 **Hit points:** 11 (2d8+2)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** -2 Dex, +3 natural
+**Fort:** +4
 
 **Ref:** -2
 
-**Resist:** fire 15
-
 **Will:** +2
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Resist:** fire 15
 
 **Offense**
 

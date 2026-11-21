@@ -46,13 +46,17 @@ _This large, brown, horse-like creature has a hawk's wings, talons, and hooked b
 
 **Experience points:** 600
 
-**Armor class:** 14/12/11
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 dodge, +2 natural, -1 size
 
 **Hit points:** 22 (3d10+6)
 
-**Mod:** +2 Dex, +1 dodge, +2 natural, -1 size
+**Fort:** +5
 
 **Ref:** +5
 

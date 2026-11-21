@@ -53,23 +53,27 @@ glistening with blue energy._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/6/36
+**Armor class:** 36
 
-**Fort:** +23
+**Touch:** 6
+
+**Flat-footed:** 36
+
+**AC modifiers:** +30 natural, -4 size
 
 **Hit points:** 348 (24d10+216)
 
-**Immune:** cold, mind-affecting effects, poison
-
-**Mod:** +30 natural, -4 size
+**Fort:** +23
 
 **Ref:** +14
+
+**Will:** +13
+
+**Immune:** cold, mind-affecting effects, poison
 
 **Resist:** electricity 30
 
 **Sr:** 31
-
-**Will:** +13
 
 **Offense**
 

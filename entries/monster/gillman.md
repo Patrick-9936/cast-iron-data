@@ -52,19 +52,23 @@ flexing._
 
 **Experience points:** 135
 
-**Armor class:** 11/11/10
+**Armor class:** 11
 
-**Fort:** +3
+**Touch:** 11
+
+**Flat-footed:** 10
+
+**AC modifiers:** +1 Dex
 
 **Hit points:** 6 (1d10+1)
 
-**Mod:** +1 Dex
+**Fort:** +3
 
 **Ref:** +1
 
-**Weaknesses:** water dependent
-
 **Will:** -1; +2 vs. enchantment
+
+**Weaknesses:** water dependent
 
 **Offense**
 

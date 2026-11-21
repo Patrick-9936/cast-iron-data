@@ -52,13 +52,17 @@ jaw._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/10/28
+**Armor class:** 30
 
-**Fort:** +13
+**Touch:** 10
+
+**Flat-footed:** 28
+
+**AC modifiers:** +2 Dex, +20 natural, -2 size
 
 **Hit points:** 250 (20d10+140)
 
-**Mod:** +2 Dex, +20 natural, -2 size
+**Fort:** +13
 
 **Ref:** +14
 

@@ -48,23 +48,27 @@ _Thorn-tipped tendrils and flowering filaments sprout from this tiny, squirming 
 
 **Experience points:** 2,400
 
-**Armor class:** 17/17/12
+**Armor class:** 17
 
-**Dr:** 5/slashing
+**Touch:** 17
 
-**Fort:** +8
+**Flat-footed:** 12
+
+**AC modifiers:** +4 Dex, +1 dodge, +2 size
 
 **Hit points:** 58 (9d8+18)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +4 Dex, +1 dodge, +2 size
+**Fort:** +8
 
 **Ref:** +7
 
-**Weaknesses:** cold lethargy
-
 **Will:** +5
+
+**Dr:** 5/slashing
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Weaknesses:** cold lethargy
 
 **Offense**
 

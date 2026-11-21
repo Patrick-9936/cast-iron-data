@@ -54,7 +54,21 @@ and shimmering gossamer wings._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/26/25
+**Armor class:** 34
+
+**Touch:** 26
+
+**Flat-footed:** 25
+
+**AC modifiers:** +8 Dex, +1 dodge, +7 insight, +8 natural
+
+**Hit points:** 333 (23d10+207)
+
+**Fort:** +16
+
+**Ref:** +22
+
+**Will:** +18
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, frozen moment,
 temporal insight, temporal mastery
@@ -63,21 +77,11 @@ temporal insight, temporal mastery
 
 **Fh:** 10
 
-**Fort:** +16
-
-**Hit points:** 333 (23d10+207)
-
 **Immune:** disease, paralysis, slow, stun
 
 **Improved evasion:** present
 
-**Mod:** +8 Dex, +1 dodge, +7 insight, +8 natural
-
-**Ref:** +22
-
 **Sr:** 30
-
-**Will:** +18
 
 **Offense**
 

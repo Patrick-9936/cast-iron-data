@@ -52,21 +52,25 @@ smirk suggest a sharp mind and daring nature._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Defensive abilities:** enchantment resistance
+**Touch:** 12
 
-**Fort:** +7
+**Flat-footed:** 15
+
+**AC modifiers:** +4 armor, +2 Dex, +1 shield
 
 **Hit points:** 51 (6d10+18)
 
-**Mod:** +4 armor, +2 Dex, +1 shield
+**Fort:** +7
 
 **Ref:** +7
 
-**Weaknesses:** water dependent
-
 **Will:** +3; +2 vs. non-aboleth enchantments, -2 vs. aboleth enchantments
+
+**Defensive abilities:** enchantment resistance
+
+**Weaknesses:** water dependent
 
 **Offense**
 

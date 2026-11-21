@@ -53,21 +53,25 @@ massive giant._
 
 **Experience points:** 204,800
 
-**Armor class:** 32/6/32
+**Armor class:** 32
 
-**Fort:** +16
+**Touch:** 6
+
+**Flat-footed:** 32
+
+**AC modifiers:** +26 natural, -4 size
 
 **Hit points:** 312 (25d8+200)
 
-**Immune:** death effects
-
-**Mod:** +26 natural, -4 size
+**Fort:** +16
 
 **Ref:** +15
 
-**Rock Ct:** present
-
 **Will:** +21
+
+**Immune:** death effects
+
+**Rock Ct:** present
 
 **Offense**
 

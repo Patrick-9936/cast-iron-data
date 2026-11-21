@@ -54,21 +54,25 @@ visible, is gray and warty._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/11/28
+**Armor class:** 33
 
-**Fort:** +18
+**Touch:** 11
+
+**Flat-footed:** 28
+
+**AC modifiers:** +4 armor, +5 Dex, +17 natural, +1 shield, -4 size
 
 **Hit points:** 297 (22d8+198)
 
-**Immune:** cold, fear, mind-affecting effects, poison
-
-**Mod:** +4 armor, +5 Dex, +17 natural, +1 shield, -4 size
+**Fort:** +18
 
 **Ref:** +12
 
-**Rock Ct:** present
-
 **Will:** +20
+
+**Immune:** cold, fear, mind-affecting effects, poison
+
+**Rock Ct:** present
 
 **Offense**
 

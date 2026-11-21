@@ -53,29 +53,33 @@ hum._
 
 **Experience points:** 19,200
 
-**Armor class:** 8/8/6
+**Armor class:** 8
+
+**Touch:** 8
+
+**Flat-footed:** 6
+
+**AC modifiers:** +1 Dex, +1 dodge, -4 size
+
+**Hit points:** 162 (13d10+91)
+
+**Fort:** +11
+
+**Ref:** +9
+
+**Will:** +15
 
 **Defensive abilities:** gaseous, natural invisibility
 
 **Dr:** 10/magic
 
-**Fort:** +11
-
-**Hit points:** 162 (13d10+91)
-
 **Immune:** acid, [elemental](ref/subtype/elemental) traits
-
-**Mod:** +1 Dex, +1 dodge, -4 size
-
-**Ref:** +9
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Vulner:** sonic
 
 **Weaknesses:** vulnerability to magic wind
-
-**Will:** +15
 
 **Offense**
 

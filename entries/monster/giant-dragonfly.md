@@ -47,19 +47,23 @@ farm animals or people._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +5 natural
 
 **Hit points:** 45 (7d8+14)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +5 natural
+**Fort:** +7
 
 **Ref:** +4
 
 **Will:** +3
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

@@ -51,25 +51,29 @@ etched with jagged scars._
 
 **Experience points:** 2,400
 
-**Armor class:** 21/13/18
+**Armor class:** 21
 
-**Dr:** 5/silver or good
+**Touch:** 13
 
-**Fort:** +8
+**Flat-footed:** 18
+
+**AC modifiers:** +4 armor, +3 Dex, +4 natural
 
 **Hit points:** 60 (8d10+16)
 
-**Immune:** cold
-
-**Mod:** +4 armor, +3 Dex, +4 natural
+**Fort:** +8
 
 **Ref:** +9
+
+**Will:** +3
+
+**Dr:** 5/silver or good
+
+**Immune:** cold
 
 **Regen:** 2 (good weapons and spells, silver weapons)
 
 **Sr:** 17
-
-**Will:** +3
 
 **Offense**
 

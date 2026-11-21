@@ -47,19 +47,23 @@ _Knots of dark, moldering hair spill over the features of this sickly, thin, gre
 
 **Experience points:** 1,600
 
-**Armor class:** 19/11/18
+**Armor class:** 19
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +8 natural
 
 **Hit points:** 58 (9d10+9)
 
-**Mod:** +1 Dex, +8 natural
+**Fort:** +6
 
 **Ref:** +7
 
-**Sr:** 16
-
 **Will:** +7
+
+**Sr:** 16
 
 **Offense**
 

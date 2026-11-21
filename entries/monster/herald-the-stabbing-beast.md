@@ -54,27 +54,31 @@ _This towering, scorpion-tailed man stalks with a soundless grace and murderous 
 
 **Experience points:** 51,200
 
-**Armor class:** 31/23/18
+**Armor class:** 31
+
+**Touch:** 23
+
+**Flat-footed:** 18
+
+**AC modifiers:** +12 Dex, +1 dodge, +8 natural
+
+**Hit points:** 212 (17d10+119)
+
+**Fort:** +17
+
+**Ref:** +17
+
+**Will:** +14; +4 vs. mind-affecting
 
 **Defensive abilities:** all-around vision
 
 **Dr:** 10/good and magic
 
-**Fort:** +17
-
-**Hit points:** 212 (17d10+119)
-
 **Immune:** poison
-
-**Mod:** +12 Dex, +1 dodge, +8 natural
-
-**Ref:** +17
 
 **Resist:** acid 30, cold 10, electricity 10, fire 10
 
 **Sr:** 26
-
-**Will:** +14; +4 vs. mind-affecting
 
 **Offense**
 

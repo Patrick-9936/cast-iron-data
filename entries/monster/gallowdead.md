@@ -49,23 +49,27 @@ its midsection._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/15/26
+**Armor class:** 31
+
+**Touch:** 15
+
+**Flat-footed:** 26
+
+**AC modifiers:** +4 Dex, +1 dodge, +16 natural
+
+**Hit points:** 228 (24d8+120)
+
+**Fort:** +13
+
+**Ref:** +12
+
+**Will:** +17
 
 **Chan Res:** +6
 
 **Dr:** 10/bludgeoning
 
-**Fort:** +13
-
-**Hit points:** 228 (24d8+120)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +1 dodge, +16 natural
-
-**Ref:** +12
-
-**Will:** +17
 
 **Offense**
 

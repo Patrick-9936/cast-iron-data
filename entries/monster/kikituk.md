@@ -51,19 +51,23 @@ scrimshaw patterns._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/14/26
+**Armor class:** 28
 
-**Fort:** +12
+**Touch:** 14
+
+**Flat-footed:** 26
+
+**AC modifiers:** +2 Dex, +14 natural, +4 profane, -2 size
 
 **Hit points:** 170 (20d10+60)
 
-**Immune:** acid, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +14 natural, +4 profane, -2 size
+**Fort:** +12
 
 **Ref:** +14
 
 **Will:** +14
+
+**Immune:** acid, [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

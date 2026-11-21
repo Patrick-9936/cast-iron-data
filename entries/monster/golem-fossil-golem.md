@@ -47,21 +47,25 @@ tyrannosaur-skulled hands._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/9/25
+**Armor class:** 26
 
-**Dr:** 10/adamantine and bludgeoning
+**Touch:** 9
 
-**Fort:** +5
+**Flat-footed:** 25
+
+**AC modifiers:** +1 Dex, +17 natural, -2 size
 
 **Hit points:** 122 (15d10+40)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +1 Dex, +17 natural, -2 size
+**Fort:** +5
 
 **Ref:** +6
 
 **Will:** +5
+
+**Dr:** 10/adamantine and bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

@@ -52,19 +52,23 @@ feet._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/20/15
+**Armor class:** 20
 
-**Dr:** 5/cold iron
+**Touch:** 20
 
-**Fort:** +6
+**Flat-footed:** 15
+
+**AC modifiers:** +5 deflection, +5 Dex
 
 **Hit points:** 52 (7d6+28)
 
-**Mod:** +5 deflection, +5 Dex
+**Fort:** +6
 
 **Ref:** +10
 
 **Will:** +8
+
+**Dr:** 5/cold iron
 
 **Offense**
 

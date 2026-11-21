@@ -46,13 +46,17 @@ tower over other animals._
 
 **Experience points:** 800
 
-**Armor class:** 16/10/14
+**Armor class:** 16
 
-**Fort:** +7
+**Touch:** 10
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +6 natural, -2 size
 
 **Hit points:** 30 (4d8+12)
 
-**Mod:** +2 Dex, +6 natural, -2 size
+**Fort:** +7
 
 **Ref:** +6
 

@@ -49,19 +49,23 @@ _At the heart of each of these tiny blobs of slime and tentacles is a single, ee
 
 **Experience points:** 1,200
 
-**Armor class:** 16/16/12
+**Armor class:** 16
 
-**Defensive abilities:** all-around vision, ruptured membranes, swarm traits
+**Touch:** 16
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +1 dodge, +2 size
 
 **Hit points:** 45 (7d8+14)
 
-**Mod:** +3 Dex, +1 dodge, +2 size
+**Fort:** +4
 
 **Ref:** +5
 
 **Will:** +8
+
+**Defensive abilities:** all-around vision, ruptured membranes, swarm traits
 
 **Offense**
 

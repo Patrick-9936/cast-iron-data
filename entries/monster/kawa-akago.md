@@ -48,21 +48,25 @@ toothy maw at its center._
 
 **Experience points:** 800
 
-**Armor class:** 16/14/13
+**Armor class:** 16
 
-**Fort:** +6
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +2 natural, +1 size
 
 **Hit points:** 26 (4d8+8)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex, +2 natural, +1 size
+**Fort:** +6
 
 **Ref:** +4
 
-**Resist:** fire 10
-
 **Will:** +2
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Resist:** fire 10
 
 **Offense**
 

@@ -50,27 +50,31 @@ voracity._
 
 **Experience points:** 2,400
 
-**Armor class:** 5/5/5
+**Armor class:** 5
+
+**Touch:** 5
+
+**Flat-footed:** 5
+
+**AC modifiers:** -3 Dex, -2 size
+
+**Hit points:** 59 (7d8+28)
+
+**Fort:** +6
+
+**Ref:** -1
+
+**Will:** -3
 
 **Defensive abilities:** gaseous, negative energy affinity
 
 **Dr:** 10/magic
 
-**Fort:** +6
-
-**Hit points:** 59 (7d8+28)
-
 **Immune:** acid, electricity, [ooze traits](ref/umr/ooze-traits), sonic
-
-**Mod:** -3 Dex, -2 size
-
-**Ref:** -1
 
 **Resist:** cold 10
 
 **Weaknesses:** vulnerable to wind
-
-**Will:** -3
 
 **Offense**
 

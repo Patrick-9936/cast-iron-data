@@ -57,23 +57,27 @@ shape, crackling with energy._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/15/18
+**Armor class:** 23
+
+**Touch:** 15
+
+**Flat-footed:** 18
+
+**AC modifiers:** +4 Dex, +1 dodge, +8 natural
+
+**Hit points:** 127 (15d10+45)
+
+**Fort:** +12
+
+**Ref:** +13
+
+**Will:** +6
 
 **Defensive abilities:** swarmlike
 
 **Dr:** 10/slashing
 
-**Fort:** +12
-
-**Hit points:** 127 (15d10+45)
-
 **Immune:** electricity
-
-**Mod:** +4 Dex, +1 dodge, +8 natural
-
-**Ref:** +13
-
-**Will:** +6
 
 **Offense**
 

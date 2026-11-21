@@ -56,21 +56,25 @@ it has a long, bladed tail._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/12/18
+**Armor class:** 20
 
-**Defensive abilities:** corrosive blood (1d4), heat adaptability
+**Touch:** 12
 
-**Fort:** +4
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 natural
 
 **Hit points:** 52 (8d8+16)
 
-**Immune:** acid
-
-**Mod:** +2 Dex, +8 natural
+**Fort:** +4
 
 **Ref:** +4
 
 **Will:** +9
+
+**Defensive abilities:** corrosive blood (1d4), heat adaptability
+
+**Immune:** acid
 
 **Offense**
 

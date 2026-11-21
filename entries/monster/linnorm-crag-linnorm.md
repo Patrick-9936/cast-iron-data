@@ -48,27 +48,31 @@ swipe at the air._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/10/25
+**Armor class:** 29
+
+**Touch:** 10
+
+**Flat-footed:** 25
+
+**AC modifiers:** +4 Dex, +19 natural, -4 size
+
+**Hit points:** 202 (15d12+105)
+
+**Fort:** +16
+
+**Ref:** +15
+
+**Will:** +13
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 15/cold iron
 
-**Fort:** +16
-
-**Hit points:** 202 (15d12+105)
-
 **Immune:** curse effects, fire, mind-affecting effects, paralysis, poison, sleep
-
-**Mod:** +4 Dex, +19 natural, -4 size
-
-**Ref:** +15
 
 **Regen:** 10 (cold iron)
 
 **Sr:** 25
-
-**Will:** +13
 
 **Offense**
 

@@ -61,7 +61,21 @@ serpent slithers forward with a silent, unearthly grace._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/19/21
+**Armor class:** 31
+
+**Touch:** 19
+
+**Flat-footed:** 21
+
+**AC modifiers:** +9 Dex, +1 dodge, +12 natural, -1 size
+
+**Hit points:** 230 (20d8+140)
+
+**Fort:** +14
+
+**Ref:** +17
+
+**Will:** +18
 
 **Chan Res:** +4
 
@@ -69,19 +83,9 @@ serpent slithers forward with a silent, unearthly grace._
 
 **Fh:** 10
 
-**Fort:** +14
-
-**Hit points:** 230 (20d8+140)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +9 Dex, +1 dodge, +12 natural, -1 size
-
-**Ref:** +17
-
 **Sr:** 27
-
-**Will:** +18
 
 **Offense**
 

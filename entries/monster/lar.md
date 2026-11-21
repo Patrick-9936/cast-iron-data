@@ -52,19 +52,23 @@ and curious._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/17/14
+**Armor class:** 17
 
-**Fort:** +3
+**Touch:** 17
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 deflection, +3 Dex, +2 size
 
 **Hit points:** 39 (6d10+6)
 
-**Mod:** +2 deflection, +3 Dex, +2 size
+**Fort:** +3
 
 **Ref:** +7
 
-**Regen:** 1 (in statua)
-
 **Will:** +4
+
+**Regen:** 1 (in statua)
 
 **Offense**
 

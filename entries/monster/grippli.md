@@ -54,13 +54,17 @@ wears leather armor._
 
 **Experience points:** 200
 
-**Armor class:** 16/14/13
+**Armor class:** 16
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +3 Dex, +1 size
 
 **Hit points:** 12 (1d10+2)
 
-**Mod:** +2 armor, +3 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +5
 

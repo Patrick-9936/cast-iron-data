@@ -49,23 +49,27 @@ tastes the air for prey._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/4/20
+**Armor class:** 20
 
-**Dr:** 10/slashing or piercing
+**Touch:** 4
 
-**Fort:** +12
+**Flat-footed:** 20
+
+**AC modifiers:** -4 Dex, +16 natural, -2 size
 
 **Hit points:** 102 (12d8+48)
 
-**Immune:** acid, mind-affecting effects
-
-**Mod:** -4 Dex, +16 natural, -2 size
+**Fort:** +12
 
 **Ref:** +0
 
-**Weaknesses:** susceptible to salt
-
 **Will:** +4
+
+**Dr:** 10/slashing or piercing
+
+**Immune:** acid, mind-affecting effects
+
+**Weaknesses:** susceptible to salt
 
 **Offense**
 

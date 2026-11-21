@@ -50,29 +50,33 @@ ring of huge drums and storm clouds._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/13/27
+**Armor class:** 32
+
+**Touch:** 13
+
+**Flat-footed:** 27
+
+**AC modifiers:** +5 Dex, +19 natural, -2 size
+
+**Hit points:** 264 (23d10+138)
+
+**Fort:** +19
+
+**Ref:** +12
+
+**Will:** +18
 
 **Dr:** 15/cold iron
 
 **Fh:** 15
 
-**Fort:** +19
-
-**Hit points:** 264 (23d10+138)
-
 **Immune:** bleed, electricity, mind-affecting effects, petrification, polymorph, sonic
-
-**Mod:** +5 Dex, +19 natural, -2 size
-
-**Ref:** +12
 
 **Resist:** acid 10, fire 10
 
 **Sr:** 28
 
 **Weaknesses:** vulnerable to silence
-
-**Will:** +18
 
 **Offense**
 

@@ -48,21 +48,25 @@ some force other than its own rattling gears._
 
 **Experience points:** 12,800
 
-**Armor class:** 27/9/27
+**Armor class:** 27
 
-**Dr:** 10/adamantine
+**Touch:** 9
 
-**Fort:** +5
+**Flat-footed:** 27
+
+**AC modifiers:** +18 natural, -1 size
 
 **Hit points:** 112 (15d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +18 natural, -1 size
+**Fort:** +5
 
 **Ref:** +5
 
 **Will:** +5
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

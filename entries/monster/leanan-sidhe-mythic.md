@@ -53,19 +53,23 @@ of twigs._
 
 **Experience points:** 6,400
 
-**Armor class:** 25/19/21
+**Armor class:** 25
 
-**Dr:** 10/cold iron and epic
+**Touch:** 19
 
-**Fort:** +12
+**Flat-footed:** 21
+
+**AC modifiers:** +5 deflection, +3 Dex, +1 dodge, +6 natural
 
 **Hit points:** 100 (11d6+62)
 
-**Mod:** +5 deflection, +3 Dex, +1 dodge, +6 natural
+**Fort:** +12
 
 **Ref:** +15
 
 **Will:** +13
+
+**Dr:** 10/cold iron and epic
 
 **Offense**
 

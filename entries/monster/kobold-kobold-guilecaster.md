@@ -52,19 +52,23 @@ _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth,
 
 **Experience points:** 1,600
 
-**Armor class:** 18/13/16
+**Armor class:** 18
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 armor, +2 Dex, +1 natural, +1 size
 
 **Hit points:** 35 (6d6+12)
 
-**Mod:** +4 armor, +2 Dex, +1 natural, +1 size
+**Fort:** +3
 
 **Ref:** +4
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +4
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

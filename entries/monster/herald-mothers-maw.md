@@ -56,7 +56,21 @@ of rotting meat, spice, and perfume._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/16/23
+**Armor class:** 30
+
+**Touch:** 16
+
+**Flat-footed:** 23
+
+**AC modifiers:** +7 Dex, +14 natural, -1 size
+
+**Hit points:** 230 (20d8+140)
+
+**Fort:** +13
+
+**Ref:** +16
+
+**Will:** +18
 
 **Chan Res:** +4
 
@@ -64,21 +78,11 @@ of rotting meat, spice, and perfume._
 
 **Fh:** 5 or 20 (see Devour Soul)
 
-**Fort:** +13
-
-**Hit points:** 230 (20d8+140)
-
 **Immune:** cold, electricity, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +7 Dex, +14 natural, -1 size
-
-**Ref:** +16
 
 **Resist:** fire 30
 
 **Sr:** 26
-
-**Will:** +18
 
 **Offense**
 

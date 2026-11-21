@@ -53,21 +53,25 @@ _Droplets of a silvery gray, slightly grainy goo gleam dully as they hang in the
 
 **Experience points:** 38,400
 
-**Armor class:** 29/29/18
+**Armor class:** 29
 
-**Defensive abilities:** dispersion, swarm traits
+**Touch:** 29
 
-**Fort:** +8
+**Flat-footed:** 18
+
+**AC modifiers:** +10 Dex, +1 dodge, +8 size
 
 **Hit points:** 123 (19d10+19)
 
-**Immune:** [construct traits](ref/umr/construct-traits), weapon damage
-
-**Mod:** +10 Dex, +1 dodge, +8 size
+**Fort:** +8
 
 **Ref:** +18
 
 **Will:** +8
+
+**Defensive abilities:** dispersion, swarm traits
+
+**Immune:** [construct traits](ref/umr/construct-traits), weapon damage
 
 **Offense**
 

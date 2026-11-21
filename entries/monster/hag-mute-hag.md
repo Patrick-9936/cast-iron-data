@@ -54,25 +54,29 @@ gray-skinned crone._
 
 **Experience points:** 12,800
 
-**Armor class:** 24/15/19
+**Armor class:** 24
 
-**Dr:** 10/cold iron and magic
+**Touch:** 15
 
-**Fort:** +12
+**Flat-footed:** 19
+
+**AC modifiers:** +5 Dex, +9 natural
 
 **Hit points:** 175 (14d10+84)
 
-**Immune:** cold, acid, charm, fear, gaze attacks, sleep
-
-**Mod:** +5 Dex, +9 natural
+**Fort:** +12
 
 **Ref:** +14
+
+**Will:** +13
+
+**Dr:** 10/cold iron and magic
+
+**Immune:** cold, acid, charm, fear, gaze attacks, sleep
 
 **Sr:** 22
 
 **Vulner:** fire
-
-**Will:** +13
 
 **Offense**
 

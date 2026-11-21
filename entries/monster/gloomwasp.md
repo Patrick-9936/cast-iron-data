@@ -49,23 +49,27 @@ _The stinger and antennae of this dog-sized wasp pulsate with a dim, violet ligh
 
 **Experience points:** 2,400
 
-**Armor class:** 23/17/17
+**Armor class:** 23
 
-**Defensive abilities:** shadow blending
+**Touch:** 17
 
-**Fort:** +8
+**Flat-footed:** 17
+
+**AC modifiers:** +5 Dex, +1 dodge, +6 natural, +1 size
 
 **Hit points:** 59 (7d10+21)
 
-**Immune:** poison
-
-**Mod:** +5 Dex, +1 dodge, +6 natural, +1 size
+**Fort:** +8
 
 **Ref:** +10
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +4
+
+**Defensive abilities:** shadow blending
+
+**Immune:** poison
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

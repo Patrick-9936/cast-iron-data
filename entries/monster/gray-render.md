@@ -48,13 +48,17 @@ its only facial features._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/10/20
+**Armor class:** 21
 
-**Fort:** +13
+**Touch:** 10
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +11 natural, -1 size
 
 **Hit points:** 100 (8d10+56)
 
-**Mod:** +1 Dex, +11 natural, -1 size
+**Fort:** +13
 
 **Ref:** +7
 

@@ -48,23 +48,27 @@ yammering ceaselessly._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/13/16
+**Armor class:** 19
+
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
+
+**Hit points:** 46 (4d8+28)
+
+**Fort:** +8
+
+**Ref:** +4
+
+**Will:** +5
 
 **Amorph:** present
 
 **Dr:** 5/bludgeoning
 
-**Fort:** +8
-
-**Hit points:** 46 (4d8+28)
-
 **Immune:** critical hits, precision damage
-
-**Mod:** +3 Dex, +6 natural
-
-**Ref:** +4
-
-**Will:** +5
 
 **Offense**
 

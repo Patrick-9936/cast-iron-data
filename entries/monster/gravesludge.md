@@ -50,24 +50,28 @@ soil._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/21/21
+**Armor class:** 27
+
+**Touch:** 21
+
+**Flat-footed:** 21
+
+**AC modifiers:** +5 deflection, +6 Dex, +6 natural
+
+**Hit points:** 161 (14d8+98)
+
+**Fort:** +11
+
+**Ref:** +15
+
+**Will:** +11
 
 **Defensive abilities:** haunted, negative energy affinity
 
 **Dr:** 10/good
 
-**Fort:** +11
-
-**Hit points:** 161 (14d8+98)
-
 **Immune:** acid, cold, death effects, energy drain, fear, negative energy,
 [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +5 deflection, +6 Dex, +6 natural
-
-**Ref:** +15
-
-**Will:** +11
 
 **Offense**
 

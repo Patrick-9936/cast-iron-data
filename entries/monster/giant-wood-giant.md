@@ -51,19 +51,23 @@ somewhat primitive visage._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/14/15
+**Armor class:** 20
 
-**Fort:** +9
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 armor, +5 Dex, +4 natural, -1 size
 
 **Hit points:** 67 (9d8+27)
 
-**Mod:** +2 armor, +5 Dex, +4 natural, -1 size
+**Fort:** +9
 
 **Ref:** +8
 
-**Rock Ct:** present
-
 **Will:** +7
+
+**Rock Ct:** present
 
 **Offense**
 
