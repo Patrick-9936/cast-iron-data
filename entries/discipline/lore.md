@@ -150,5 +150,23 @@ palace (including when the palace isn't in effect).
 
 **Usage:** You can create your memory palace once per day.
 
-**At 14th level,** and at each additional level thereafter, choose another Knowledge skill to which
-your memory palace's library bonuses apply.
+**At 14th level,** choose another Knowledge skill to which your memory palace's library bonuses
+apply.
+
+**At 15th level,** choose another Knowledge skill to which your memory palace's library bonuses
+apply.
+
+**At 16th level,** choose another Knowledge skill to which your memory palace's library bonuses
+apply.
+
+**At 17th level,** choose another Knowledge skill to which your memory palace's library bonuses
+apply.
+
+**At 18th level,** choose another Knowledge skill to which your memory palace's library bonuses
+apply.
+
+**At 19th level,** choose another Knowledge skill to which your memory palace's library bonuses
+apply.
+
+**At 20th level,** choose another Knowledge skill to which your memory palace's library bonuses
+apply.

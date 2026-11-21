@@ -22,12 +22,12 @@ surround him. The alchemist can channel one spirit for every 4 alchemist levels 
 spirit channeled this way grants the alchemist a +1 deflection bonus to AC as the spirits whirl
 around his body.
 
-The alchemist can launch one of these spirits toward a target as a ranged touch attack. Launching a
-spirit this way reduces this discovery's deflection bonus to AC by 1. As a launched spirit passes
-through its target's body, it emits a terrible wail heard only in the target's mind, causing the
-target to become [frightened](ref/misc/frightened) for 1 round per alchemist level (Will negates).
-This is a mind-affecting fear effect. A creature that successfully saves against the wail cannot be
-affected by this discovery again for 24 hours.
+As a **standard action**, the alchemist can launch one of these spirits toward a target as a ranged
+touch attack. Launching a spirit this way reduces this discovery's deflection bonus to AC by 1. As a
+launched spirit passes through its target's body, it emits a terrible wail heard only in the
+target's mind, causing the target to become [frightened](ref/misc/frightened) for 1 round per
+alchemist level (Will negates). This is a mind-affecting fear effect. A creature that successfully
+saves against the wail cannot be affected by this discovery again for 24 hours.
 
 **Usage:** Once per day
 

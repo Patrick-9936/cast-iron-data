@@ -181,11 +181,13 @@ replacement = '''
 **Standard:** You can change your shape, functioning like [beast shape II](ref/spell/beast-shape-2)
 or [elemental body I](ref/spell/elemental-body-1).
 
-**Usage:** A number of rounds per day equal to your wizard level. These rounds don't need to be consecutive.
+**Usage:** A number of rounds per day equal to your wizard level. These rounds do not need to be consecutive.
 
 **At 12th level,** this ability functions like [beast shape III](ref/spell/beast-shape-3) or [elemental body II](ref/spell/elemental-body-2).
 
-**Special:** At 5th, 10th, 15th, and 20th levels, a transmuter may learn an [annointing](ref/ability/annointings) instead of gaining a wizard bonus feat.
+::: paragraph indented
+At 5th, 10th, 15th, and 20th levels, a transmuter may learn an [annointing](ref/ability/annointings) instead of gaining a wizard bonus feat.
+:::
 '''
 
 [[resolution]]
@@ -2075,7 +2077,19 @@ palace (including when the palace isn't in effect).
 
 **Usage:** You can create your memory palace once per day.
 
-**At 14th level,** and at each additional level thereafter, choose another Knowledge skill to which your memory palace's library bonuses apply.
+**At 14th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 15th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 16th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 17th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 18th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 19th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 20th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
 '''
 
 [[resolution]]
@@ -2646,7 +2660,7 @@ surround him. The alchemist can channel one spirit for every 4 alchemist levels 
 spirit channeled this way grants the alchemist a +1 deflection bonus to AC as the spirits whirl
 around his body.
 
-The alchemist can launch one of these spirits toward a target as a ranged touch attack. Launching a spirit this way reduces this discovery's deflection bonus to AC by 1. As a launched spirit passes through its target's body, it emits a terrible wail heard only in the target's mind, causing the target to become [frightened](ref/misc/frightened) for 1 round per alchemist level (Will negates). This is a mind-affecting fear effect. A creature that successfully saves against the wail cannot be affected by this discovery again for 24 hours.
+As a **standard action**, the alchemist can launch one of these spirits toward a target as a ranged touch attack. Launching a spirit this way reduces this discovery's deflection bonus to AC by 1. As a launched spirit passes through its target's body, it emits a terrible wail heard only in the target's mind, causing the target to become [frightened](ref/misc/frightened) for 1 round per alchemist level (Will negates). This is a mind-affecting fear effect. A creature that successfully saves against the wail cannot be affected by this discovery again for 24 hours.
 
 **Usage:** Once per day
 
@@ -2665,15 +2679,11 @@ print = "Cohorts and Companions p. 13"
 replacement = '''
 **Syringe Stirge**
 
-**Info:** A _syringe stirge_ has all of the statistics of a [stirge](ref/monster/stirge) but lacks
-the blood drain ability. If it ends its turn attached to an opponent, it injects your bomb into the
-opponent's bloodstream, dealing damage as a direct hit plus the alchemist's Intelligence modifier
-(as the [Throw Anything](ref/feat/throw-anything) feat - this injection is a direct attack and
-doesn't deal splash damage).
-
 **Full-round:** You can expend two daily uses of bombs to create a _syringe stirge,_ a tiny construct primed with a bomb (if you have multiple types of bombs, you must select which type the _syringe stirge_ carries when created). Undirected, they take no actions except to flock around you in your square and follow you as best they can. They can be attacked normally, but gain [cover](ref/rule/cover) while occupying your square.
 
 As a **swift action**, you can order one of your _syringe stirges_ to attack an enemy it can see. Once ordered to attack that enemy, the _syringe stirge_ will continue to attack every round, attempting to attach and deliver its payload.
+
+A _syringe stirge_ has all of the statistics of a [stirge](ref/monster/stirge) but lacks the blood drain ability. If it ends its turn attached to an opponent, it injects your bomb into the opponent's bloodstream, dealing damage as a direct hit plus the alchemist's Intelligence modifier (as the [Throw Anything](ref/feat/throw-anything) feat - this injection is a direct attack and doesn't deal splash damage).
 
 **Prereq:** 6th-level alchemist
 
