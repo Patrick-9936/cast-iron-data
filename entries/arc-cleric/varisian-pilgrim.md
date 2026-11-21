@@ -60,8 +60,7 @@ traveling companions at a range of up to 30 feet, even if the ability normally r
 
 **Gained:** At 1st Level
 
-**Replaces:** Proficiency with medium armor, shields - she retains proficiency with light armor
-only
+**Replaces:** Proficiency with medium armor, shields - she retains proficiency with light armor only
 
 **Blessing of the Harrow (Su)**
 
