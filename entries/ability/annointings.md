@@ -24,12 +24,12 @@ level. Unless an anointing specifies otherwise, all anointings require a standar
 
 [Investigators](ref/class/investigator) can choose any of these discoveries with the
 [alchemist discovery](ref/invtalent/alchemist-discovery) investigator talent.
-[Clerics](ref/class/cleric) with the Artifice domain can select an anointing in place of their
+[Clerics](ref/class/cleric) with the artifice domain can select an anointing in place of their
 8th-level domain ability. [Transmuter](ref/arcaneschool/transmutation) [wizards](ref/class/wizard)
 can gain anointings in place of wizard bonus feats. [Witches](ref/class/witch) with
 [transformation](ref/patron/transformation) patrons can gain a single anointing in place of a major
 hex. In each of these cases, the character treats levels in the class used to select the anointing
-as his alchemist level for all relevant anointing calculations and prerequisites.
+as his alchemist level for all relevant anointing calculations.
 
 **Eldritch Enhancement**
 

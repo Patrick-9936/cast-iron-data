@@ -2,10 +2,13 @@
 id = "ref/patron/transformation"
 kind = "class_option"
 title = "Transformation"
-source_ids = ["advanced-players-guide"]
+source_ids = ["advanced-players-guide", "arcane-anthology"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "transformation", path = "json/class_ability_patrons.json" },
 ]
+[[sources]]
+publication = "arcane-anthology"
+page = "23"
 
 [fields]
 kind = "class_option"

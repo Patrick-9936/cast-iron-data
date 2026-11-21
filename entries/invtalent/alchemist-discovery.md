@@ -2,10 +2,13 @@
 id = "ref/invtalent/alchemist-discovery"
 kind = "class_option"
 title = "Alchemist Discovery"
-source_ids = ["advanced-class-guide"]
+source_ids = ["advanced-class-guide", "arcane-anthology"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "alchemist_discovery", path = "json/class_ability_investigator_talents.json" },
 ]
+[[sources]]
+publication = "arcane-anthology"
+page = "23"
 
 [fields]
 kind = "class_option"

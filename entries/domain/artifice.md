@@ -3,7 +3,7 @@ id = "ref/domain/artifice"
 kind = "class_option"
 title = "Artifice"
 aon = "DomainDisplay.aspx?ItemName=Artifice"
-source_ids = ["core-rulebook", "divine-anthology", "advanced-players-guide", "heroes-of-the-streets", "kobolds-of-golarion"]
+source_ids = ["core-rulebook", "divine-anthology", "advanced-players-guide", "heroes-of-the-streets", "kobolds-of-golarion", "arcane-anthology"]
 [[sources]]
 publication = "core-rulebook"
 page = "41"
@@ -16,6 +16,9 @@ page = "19"
 [[sources]]
 publication = "kobolds-of-golarion"
 page = "13"
+[[sources]]
+publication = "arcane-anthology"
+page = "23"
 
 [fields]
 kind = "class_option"

@@ -172,7 +172,7 @@ id = "ref/arcaneschool/transmutation"
 name = "Change Shape (Sp)"
 occurrence = 1
 span_sha256 = "2fac8fd180e0c2cbf99c171c04683d386765414be0d9b243b097b9ed034bbe85"
-print = "Core Rulebook p. 82"
+print = "Core Rulebook p. 82; Arcane Anthology p. 23"
 replacement = '''
 **Change Shape (Sp)**
 
@@ -184,12 +184,6 @@ or [elemental body I](ref/spell/elemental-body-1).
 **Usage:** A number of rounds per day equal to your wizard level. These rounds do not need to be consecutive.
 
 **At 12th level,** this ability functions like [beast shape III](ref/spell/beast-shape-3) or [elemental body II](ref/spell/elemental-body-2).
-
-### Anointings
-
-**Sources:** Arcane Anthology pg 23
-
-Transmuter wizards can gain [anointings](ref/ability/annointings) in place of wizard bonus feats. In each of these cases, the character treats levels in the class used to select the [anointing](ref/ability/annointings) as his alchemist level for all relevant anointing calculations.
 '''
 
 [[resolution]]
@@ -2710,23 +2704,6 @@ replacement = '''
 **At 12th level,** this resistance increases to 20.
 
 **At 20th level,** you gain [immunity](ref/umr/immunity) to electricity.
-'''
-
-[[resolution]]
-id = "ref/domain/artifice"
-name = "Dancing Weapons (Su)"
-occurrence = 1
-span_sha256 = "5e9cc36094856a8f1ca701fc516798842b35fee64885b54d916098b239b7393c"
-print = "Core Rulebook p. 41"
-replacement = '''
-**Dancing Weapons (Su)**
-
-**Gained:** At 8th Level
-
-**Standard:** You can give a weapon touched the [dancing](ref/magic-enh/dancing) special weapon
-quality for 4 rounds.
-
-**Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
 '''
 
 [[resolution]]

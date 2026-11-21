@@ -38,10 +38,17 @@ An attributed block is one inside a heading section whose first block is a `**So
 Those sections name their book already and are never candidates.
 
 `scripts/later-book-rules-reviewed.tsv` records the outcome of each reviewed candidate: entry id,
-signal, a short key (the first words of the block, or the link target), the outcome (`fixed`,
-`left`) and the reason with the book title and page. `--check` fails when a candidate is not in it.
-The survey finds candidates only. Confirming one against print, in the entry's own book and in
-the later book, is the reviewer's work.
+signal, a short key (the first words of the block, or the link target), the outcome and the reason
+with the book title and page. The outcomes are `fixed` (now an attributed section, or removed),
+`left` (print shows the text belongs to the entry's own book) and `OPEN` (the later book is not
+among the reviewed PDFs, or the source needs an owner decision; nothing changed). `--check` fails
+when a candidate is not in the file.
+
+The survey finds candidates only. Confirming one against print, in the entry's own book and in the
+later book, is the reviewer's work. It does not reach everything: `ref/class/alchemist` and
+`ref/invtalent/alchemist-discovery` carry the anointing rule too, but a class and an investigator
+talent are not in GROUPS. The issue named both, and they were checked by hand (their rows are in the
+file as `fixed`).
 """
 
 from __future__ import annotations
