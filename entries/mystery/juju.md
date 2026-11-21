@@ -158,10 +158,10 @@ and cause them to behave erratically for a number of rounds equal to your oracle
 Your knowledge enables you to gain incredible insight and control over others by manipulating
 spiritual energy.
 
-**Ability:** Once per day, you may cast [extended](ref/feat/extend-spell)
+**Ability:** You gain an insight bonus equal to your Charisma modifier to your AC and on all saving
+throws and [Knowledge](ref/skill/knowledge-all) checks.
+
+Once per day, you may cast [extended](ref/feat/extend-spell)
 [dominate monster](ref/spell/dominate-monster) as a
 [spell-like ability](ref/umr/spell-like-abilities). With this ability, you may dominate a number of
 creatures equal to double your Charisma modifier.
-
-You gain an insight bonus equal to your Charisma modifier to your AC and on all saving throws and
-[Knowledge](ref/skill/knowledge-all) checks.

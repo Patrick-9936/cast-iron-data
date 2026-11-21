@@ -136,12 +136,12 @@ change it to deal one of the other listed damage types.
 
 **Primal Mastery (Su)**
 
-**Passive:** You gain a +2 bonus on all saving throws made to resist primal magic events or magical
-effects caused by a rod of wonder.
-
-Whenever a spell you cast triggers a primal magic event, or whenever you use a
+**Passive:** Whenever a spell you cast triggers a primal magic event, or whenever you use a
 [rod of wonder](ref/magic-rod/rod-of-wonder), roll d% twice when generating the result. You may pick
 which of the two results actually occurs.
+
+You gain a +2 bonus on all saving throws made to resist primal magic events or magical effects
+caused by a rod of wonder.
 
 **Trigger Primal Magic Event (Su)**
 

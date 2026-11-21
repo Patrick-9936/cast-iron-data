@@ -2487,13 +2487,13 @@ replacement = '''
 
 **Flavor:** You become a master of death.
 
-**Ability:** Once per day, you can cast [power word kill](ref/spell/power-word-kill), but the spell can target a creature with 150 hit points or less.
+**Free:** Once per round, you can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
 
-If you are brought to below 0 hit points, you automatically stabilize.
+**Ability:** If you are brought to below 0 hit points, you automatically stabilize.
 
 You can cast _[animate dead](ref/spell/animate-dead)_ at will without paying a material component cost (although you are still subject to the usual Hit Die control limit).
 
-**Free:** Once per round, you can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
+Once per day, you can cast [power word kill](ref/spell/power-word-kill), but the spell can target a creature with 150 hit points or less.
 '''
 
 [[resolution]]
@@ -2509,9 +2509,9 @@ replacement = '''
 
 **Flavor:** You become a truly alien and unnatural creature.
 
-**Ability:** Once per day, you can cast [shapechange](ref/spell/shapechange) as a [spell-like ability](ref/umr/spell-like-abilities) without requiring a material component.
+**Ability:** You gain [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid, critical hits, and sneak attacks.
 
-You gain [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid, critical hits, and sneak attacks.
+Once per day, you can cast [shapechange](ref/spell/shapechange) as a [spell-like ability](ref/umr/spell-like-abilities) without requiring a material component.
 '''
 
 [[resolution]]
@@ -2610,9 +2610,9 @@ replacement = '''
 Your knowledge enables you to gain incredible insight and control over others by manipulating
 spiritual energy.
 
-**Ability:** Once per day, you may cast [extended](ref/feat/extend-spell) [dominate monster](ref/spell/dominate-monster) as a [spell-like ability](ref/umr/spell-like-abilities). With this ability, you may dominate a number of creatures equal to double your Charisma modifier.
+**Ability:** You gain an insight bonus equal to your Charisma modifier to your AC and on all saving throws and [Knowledge](ref/skill/knowledge-all) checks.
 
-You gain an insight bonus equal to your Charisma modifier to your AC and on all saving throws and [Knowledge](ref/skill/knowledge-all) checks.
+Once per day, you may cast [extended](ref/feat/extend-spell) [dominate monster](ref/spell/dominate-monster) as a [spell-like ability](ref/umr/spell-like-abilities). With this ability, you may dominate a number of creatures equal to double your Charisma modifier.
 '''
 
 [[resolution]]
@@ -2813,9 +2813,9 @@ print = "Inner Sea Magic p. 30"
 replacement = '''
 **Primal Mastery (Su)**
 
-**Passive:** You gain a +2 bonus on all saving throws made to resist primal magic events or magical effects caused by a rod of wonder.
+**Passive:** Whenever a spell you cast triggers a primal magic event, or whenever you use a [rod of wonder](ref/magic-rod/rod-of-wonder), roll d% twice when generating the result. You may pick which of the two results actually occurs.
 
-Whenever a spell you cast triggers a primal magic event, or whenever you use a [rod of wonder](ref/magic-rod/rod-of-wonder), roll d% twice when generating the result. You may pick which of the two results actually occurs.
+You gain a +2 bonus on all saving throws made to resist primal magic events or magical effects caused by a rod of wonder.
 '''
 
 [[resolution]]
@@ -3062,7 +3062,7 @@ id = "ref/oraclecurse/cold-blooded"
 name = "Cold-Blooded"
 occurrence = 1
 span_sha256 = "d2f0885b082e9dc216cb825b2a6f6e46b7a3a4ad73a0de999366842628f9abd3"
-print = "Monster Codex p. -105"
+print = "Monster Codex p. 140"
 replacement = '''
 **Cold-Blooded**
 
@@ -3659,9 +3659,9 @@ replacement = '''
 **Info:** Your powers hail from an incomprehensible being from beyond the stars, whose motivations
 and needs erode your psyche.
 
-**Passive:** You take a -2 penalty on saving throws against confusion and emotion effects and are affected by such effects for at least 1 round even on a successful saving throw.
+**Ability:** You gain the [unnerve beasts](ref/hex/unnerve-beasts) hex at 1st level.
 
-You gain the [unnerve beasts](ref/hex/unnerve-beasts) hex at 1st level.
+You take a -2 penalty on saving throws against confusion and emotion effects and are affected by such effects for at least 1 round even on a successful saving throw.
 
 **Spells:** Lesser confusion (2nd)
 
@@ -3863,13 +3863,13 @@ replacement = '''
 
 **Flavor:** The shaman becomes a spirit of death.
 
+**Free:** Once per round, she can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
+
 **Passive:** If she is reduced to below 0 hit points, she automatically stabilizes.
 
 She can cast [animate dead](ref/spell/animate-dead) at will without paying a material component cost, although she is still subject to the usual Hit Dice control limit.
 
 Once per day, she can cast [power word kill](ref/spell/power-word-kill), but the spell can target a creature with 150 hit points or fewer.
-
-**Free:** Once per round, she can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
 '''
 
 [[resolution]]
@@ -3912,9 +3912,9 @@ her original appearance, several minor cosmetic changes leave no doubt as to her
 Her eyes might appear as solid spheres of blackness, her fingers might writhe like tentacles, or her
 legs might bend backward at the knees.
 
-**Ability:** Once per day, the shaman can cast [shapechange](ref/spell/shapechange) as a [spell-like ability](ref/umr/spell-like-abilities) without requiring a material component, but the form the shaman assumes via this spell-like ability is never something that looks of natural origin to the shaman's home world.
+**Ability:** She gains [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid, critical hits, and sneak attacks.
 
-She gains [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid, critical hits, and sneak attacks.
+Once per day, the shaman can cast [shapechange](ref/spell/shapechange) as a [spell-like ability](ref/umr/spell-like-abilities) without requiring a material component, but the form the shaman assumes via this spell-like ability is never something that looks of natural origin to the shaman's home world.
 '''
 
 [[resolution]]
@@ -4081,9 +4081,9 @@ replacement = '''
 
 **Flavor:** The shaman becomes a master of cold and water.
 
-**Ability:** She can also apply any one of the following feats to any cold or water spell she casts without increasing the spell's level or casting time: [Enlarge Spell](ref/feat/enlarge-spell), [Extend Spell](ref/feat/extend-spell), [Silent Spell](ref/feat/silent-spell), or [Still Spell](ref/feat/still-spell). She doesn't need to possess these feats to use this ability.
+**Ability:** The shaman gains cold resistance 30.
 
-The shaman gains cold resistance 30.
+She can also apply any one of the following feats to any cold or water spell she casts without increasing the spell's level or casting time: [Enlarge Spell](ref/feat/enlarge-spell), [Extend Spell](ref/feat/extend-spell), [Silent Spell](ref/feat/silent-spell), or [Still Spell](ref/feat/still-spell). She doesn't need to possess these feats to use this ability.
 '''
 
 [[resolution]]
@@ -4532,11 +4532,11 @@ replacement = '''
 
 **Ability:** Your natural form becomes an animal-headed humanoid, like a true rakshasa. This does not affect your ability to speak or cast spells. You can use your _[alter self](ref/spell/alter-self)_ or other disguise and polymorph abilities to assume your original form or other forms when it suits you.
 
-You gain DR 10/piercing.
-
 **Special:** You are forevermore treated as a native outsider rather than as a humanoid (or whatever
 your original type was) for the purpose of spells and other magical effects. Unlike other outsiders,
 you can still be brought back from the dead as if you were a member of your previous creature type.
+
+You gain DR 10/piercing.
 '''
 
 [[resolution]]
@@ -4668,9 +4668,9 @@ replacement = '''
 **Flavor:** You become master of your own shape and you fully understand the intricacies of all
 shapechanging magic.
 
-**Ability:** Once per day when you cast a polymorph spell on yourself, in addition to the normal effects of the spell, you can choose to gain a fly speed of 60 feet (average maneuverability), a swim speed of 60 feet, or an increase to your base land speed of 30 feet.
+**Ability:** You are immune to polymorph effects unless you are a willing target.
 
-You are immune to polymorph effects unless you are a willing target.
+Once per day when you cast a polymorph spell on yourself, in addition to the normal effects of the spell, you can choose to gain a fly speed of 60 feet (average maneuverability), a swim speed of 60 feet, or an increase to your base land speed of 30 feet.
 '''
 
 [[resolution]]
@@ -4858,9 +4858,9 @@ replacement = '''
 
 **Flavor:** You can ignore impediments to your mobility.
 
-**Ability:** You can cast [liberating command](ref/spell/liberating-command) as a [spell-like ability](ref/umr/spell-like-abilities) a number of times per day equal to your Charisma modifier, using your medium level as the spell's caster level.
+**Ability:** For a number of rounds per day equal to your medium level, you can move normally regardless of magical effects that impede movement, as if you were affected by [freedom of movement](ref/spell/freedom-of-movement).
 
-For a number of rounds per day equal to your medium level, you can move normally regardless of magical effects that impede movement, as if you were affected by [freedom of movement](ref/spell/freedom-of-movement).
+You can cast [liberating command](ref/spell/liberating-command) as a [spell-like ability](ref/umr/spell-like-abilities) a number of times per day equal to your Charisma modifier, using your medium level as the spell's caster level.
 '''
 
 [[resolution]]
@@ -4914,11 +4914,11 @@ print = "Occult Origins p. 11"
 replacement = '''
 **Personal Spire (Su)**
 
-**Ability:** You can allow Nex to gain 1 point of influence over you and expend a 6th-level spell slot to use _project servitor_ as per [summon monster VIII](ref/spell/summon-monster-8) (80% real and can mimic trapped creatures of CR 11 or 12) or [summon monster IX](ref/spell/summon-monster-9) (90% real and can mimic trapped creatures of CR 13 or 14).
-
-Nex's legendary spirit grants you access to a personal demiplane that you create (as per one created by [greater create demiplane](ref/spell/create-demiplane-greater)). As long as you channel Nex each day, your demiplane remains, but if you ever channel a spirit from a different legend, the demiplane disappears, dumping its inhabitants onto the Astral Plane.
+**Ability:** Nex's legendary spirit grants you access to a personal demiplane that you create (as per one created by [greater create demiplane](ref/spell/create-demiplane-greater)). As long as you channel Nex each day, your demiplane remains, but if you ever channel a spirit from a different legend, the demiplane disappears, dumping its inhabitants onto the Astral Plane.
 
 You can use _project servitor_ to summon a shadowy projection of any creature currently within your demiplane, as long as its CR matches the summon spell (CR 1/2 or lower for [summon monster I](ref/spell/summon-monster-1), CR 1 for [summon monster II](ref/spell/summon-monster-2), CR 2 for [summon monster III](ref/spell/summon-monster-3), CR 3 or 4 for [summon monster IV](ref/spell/summon-monster-4), CR 5 or 6 for [summon monster V](ref/spell/summon-monster-5), CR 7 or 8 for [summon monster VI](ref/spell/summon-monster-6), or CR 9 or 10 for [summon monster VII](ref/spell/summon-monster-7)).
+
+You can allow Nex to gain 1 point of influence over you and expend a 6th-level spell slot to use _project servitor_ as per [summon monster VIII](ref/spell/summon-monster-8) (80% real and can mimic trapped creatures of CR 11 or 12) or [summon monster IX](ref/spell/summon-monster-9) (90% real and can mimic trapped creatures of CR 13 or 14).
 '''
 
 [[resolution]]
@@ -5027,9 +5027,9 @@ print = "Adventurer's Guide p. 53"
 replacement = '''
 **Shrinewalk (Sp)**
 
-**Ability:** Once placed, the rogue can use [word of recall](ref/spell/word-of-recall) once per day to return to the shrine.
+**Ability:** Council agents can walk the mystic paths between Westcrown's shrines. A rogue with _shrinewalk_ can create her own shrine simply by designating an area in any urban region by placing a unique marking or rune on a wall or the ground. This marking is not magical, and if it is defaced or erased, it can no longer be used by the rogue (the marking can be hidden from view without removing its usability, including painting over the marking in question).
 
-Council agents can walk the mystic paths between Westcrown's shrines. A rogue with _shrinewalk_ can create her own shrine simply by designating an area in any urban region by placing a unique marking or rune on a wall or the ground. This marking is not magical, and if it is defaced or erased, it can no longer be used by the rogue (the marking can be hidden from view without removing its usability, including painting over the marking in question).
+Once placed, the rogue can use [word of recall](ref/spell/word-of-recall) once per day to return to the shrine.
 
 **Special:** A rogue can maintain one shrine at a time; if a new marking is created in a new
 location, the previous shrine becomes inactive.
@@ -5080,9 +5080,9 @@ replacement = '''
 
 **Flavor:** A ward curses an enemy who attacks the subject.
 
-**Ability:** The mesmerist can trigger this trick when the subject is attacked or becomes the target of a spell that requires an attack roll. The attacker takes a -4 penalty on attack rolls, saves, ability checks, and skill checks for 1 minute per mesmerist level (Will negates). This penalty applies to the triggering attack roll.
+**Ability:** While this trick is implanted, a visible, circular symbol appears on the subject's forehead.
 
-While this trick is implanted, a visible, circular symbol appears on the subject's forehead.
+The mesmerist can trigger this trick when the subject is attacked or becomes the target of a spell that requires an attack roll. The attacker takes a -4 penalty on attack rolls, saves, ability checks, and skill checks for 1 minute per mesmerist level (Will negates). This penalty applies to the triggering attack roll.
 
 **Special:** This is a curse effect.
 '''

@@ -180,6 +180,8 @@ special ability.
 
 **Flavor:** The shaman becomes a spirit of death.
 
+**Free:** Once per round, she can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
+
 **Passive:** If she is reduced to below 0 hit points, she automatically stabilizes.
 
 She can cast [animate dead](ref/spell/animate-dead) at will without paying a material component
@@ -187,5 +189,3 @@ cost, although she is still subject to the usual Hit Dice control limit.
 
 Once per day, she can cast [power word kill](ref/spell/power-word-kill), but the spell can target a
 creature with 150 hit points or fewer.
-
-**Free:** Once per round, she can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).

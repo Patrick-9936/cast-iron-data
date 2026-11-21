@@ -215,10 +215,10 @@ her original appearance, several minor cosmetic changes leave no doubt as to her
 Her eyes might appear as solid spheres of blackness, her fingers might writhe like tentacles, or her
 legs might bend backward at the knees.
 
-**Ability:** Once per day, the shaman can cast [shapechange](ref/spell/shapechange) as a
+**Ability:** She gains [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid,
+critical hits, and sneak attacks.
+
+Once per day, the shaman can cast [shapechange](ref/spell/shapechange) as a
 [spell-like ability](ref/umr/spell-like-abilities) without requiring a material component, but the
 form the shaman assumes via this spell-like ability is never something that looks of natural origin
 to the shaman's home world.
-
-She gains [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid, critical hits, and
-sneak attacks.

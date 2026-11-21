@@ -176,12 +176,12 @@ effect.
 
 **Flavor:** You become a master of death.
 
-**Ability:** Once per day, you can cast [power word kill](ref/spell/power-word-kill), but the spell
-can target a creature with 150 hit points or less.
+**Free:** Once per round, you can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
 
-If you are brought to below 0 hit points, you automatically stabilize.
+**Ability:** If you are brought to below 0 hit points, you automatically stabilize.
 
 You can cast _[animate dead](ref/spell/animate-dead)_ at will without paying a material component
 cost (although you are still subject to the usual Hit Die control limit).
 
-**Free:** Once per round, you can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
+Once per day, you can cast [power word kill](ref/spell/power-word-kill), but the spell can target a
+creature with 150 hit points or less.

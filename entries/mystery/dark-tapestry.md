@@ -181,8 +181,8 @@ up to 1 hour per level, and counts as your total use of this ability for the day
 
 **Flavor:** You become a truly alien and unnatural creature.
 
-**Ability:** Once per day, you can cast [shapechange](ref/spell/shapechange) as a
-[spell-like ability](ref/umr/spell-like-abilities) without requiring a material component.
+**Ability:** You gain [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid,
+critical hits, and sneak attacks.
 
-You gain [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid, critical hits, and
-sneak attacks.
+Once per day, you can cast [shapechange](ref/spell/shapechange) as a
+[spell-like ability](ref/umr/spell-like-abilities) without requiring a material component.

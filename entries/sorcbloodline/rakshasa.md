@@ -108,8 +108,8 @@ not affect your ability to speak or cast spells. You can use your
 _[alter self](ref/spell/alter-self)_ or other disguise and polymorph abilities to assume your
 original form or other forms when it suits you.
 
-You gain DR 10/piercing.
-
 **Special:** You are forevermore treated as a native outsider rather than as a humanoid (or whatever
 your original type was) for the purpose of spells and other magical effects. Unlike other outsiders,
 you can still be brought back from the dead as if you were a member of your previous creature type.
+
+You gain DR 10/piercing.

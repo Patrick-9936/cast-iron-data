@@ -101,11 +101,11 @@ for half damage.
 **Flavor:** You become master of your own shape and you fully understand the intricacies of all
 shapechanging magic.
 
-**Ability:** Once per day when you cast a polymorph spell on yourself, in addition to the normal
-effects of the spell, you can choose to gain a fly speed of 60 feet (average maneuverability), a
-swim speed of 60 feet, or an increase to your base land speed of 30 feet.
+**Ability:** You are immune to polymorph effects unless you are a willing target.
 
-You are immune to polymorph effects unless you are a willing target.
+Once per day when you cast a polymorph spell on yourself, in addition to the normal effects of the
+spell, you can choose to gain a fly speed of 60 feet (average maneuverability), a swim speed of 60
+feet, or an increase to your base land speed of 30 feet.
 
 **Amorphous Anatomy (Su)**
 
