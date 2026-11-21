@@ -17,7 +17,8 @@ page = "47"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency with heavy armor and tower shields" },
+  { replaces = "Proficiency with heavy armor", feature = "weapon-and-armor-proficiencies", power = "heavy armor" },
+  { replaces = "tower shields", feature = "weapon-and-armor-proficiencies", power = "shields" },
   { replaces = "Bravery", feature = "bravery" },
 ]
 +++
@@ -38,7 +39,7 @@ considered to be wearing a suit of armor as long as he wearing two or three armo
 the +1 to armor bonus but still taking the +5% chance of arcane spell failure if the pieces are
 mixed.
 
-**Replaces:** Proficiency with heavy armor and tower shields
+**Replaces:** Proficiency with heavy armor, tower shields
 
 **Bonus Feats**
 

@@ -18,7 +18,8 @@ page = "28"
 kind = "archetype"
 trades = [
   { replaces = "Domain", feature = "domain" },
-  { replaces = "justice and destruction judgments" },
+  { replaces = "justice", feature = "judgment", power = "justice" },
+  { replaces = "destruction judgments", feature = "judgment", power = "destruction" },
   { replaces = "Detect alignment", feature = "detect-alignment" },
   { alters = "Judgment", feature = "judgment" },
   { alters = "Bane", feature = "bane" },
@@ -49,7 +50,7 @@ damage rolls made against the foe. Smites against targets of the faith hunter's 
 alignment automatically bypass any DR the creature might possess. If the faith hunter targets a
 creature that is not of her _sworn enemy_ alignment, the smite is wasted with no effect.
 
-**Replaces:** Domain, justice and destruction judgments
+**Replaces:** Domain, justice, destruction judgments
 
 **Special:** The smite effect remains until the foe is dead or the next time the faith hunter rests
 and regains her uses of this ability. At 10th level and every 4 inquisitor levels thereafter, a

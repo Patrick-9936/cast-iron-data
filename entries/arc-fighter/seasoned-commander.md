@@ -18,7 +18,8 @@ page = "164"
 kind = "archetype"
 trades = [
   { replaces = "Bonus fighter combat feat gained at 1st level", feature = "bonus-feats", levels = [1] },
-  { replaces = "proficiency with heavy armor and tower shields" },
+  { replaces = "proficiency with heavy armor", feature = "weapon-and-armor-proficiencies", power = "heavy armor" },
+  { replaces = "tower shields", feature = "weapon-and-armor-proficiencies", power = "shields" },
   { replaces = "Armor training 1", feature = "armor-training", levels = [3] },
   { replaces = "Weapon training 1 and 3", feature = "weapon-training", levels = [5, 13] },
   { replaces = "Weapon training 2", feature = "weapon-training", levels = [9] },
@@ -43,7 +44,7 @@ each level. A seasoned commander adds [Diplomacy](ref/skill/diplomacy) (CHA),
 [Knowledge (nobility)](ref/skill/knowledge-nobility) (INT), [Linguistics](ref/skill/linguistics)
 (INT), and [Sense Motive](ref/skill/sense-motive) (WIS) to his list of class skills.
 
-**Replaces:** Bonus fighter combat feat gained at 1st level, proficiency with heavy armor and tower
+**Replaces:** Bonus fighter combat feat gained at 1st level, proficiency with heavy armor, tower
 shields
 
 **Tactician (Ex)**

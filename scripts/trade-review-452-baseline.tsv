@@ -313,12 +313,14 @@ ref/arc-cleric/hidden-priest	archetype	1	replaces	One of the cleric's two 1st-le
 ref/arc-cleric/hidden-priest	archetype	2	replaces	One of the cleric's two 8th-level domain powers (his choice)	no-heading			
 ref/arc-cleric/iron-priest	archetype	2	alters	Casting	no-heading			
 ref/arc-cleric/roaming-exorcist	archetype	3	alters	armor proficiency	no-heading			
-ref/arc-cleric/sacred-attendant	archetype	1	replaces	Proficiency with light and medium armor	no-heading			
+ref/arc-cleric/sacred-attendant	archetype	1	replaces	Proficiency with light	split-part			
+ref/arc-cleric/sacred-attendant	archetype	2	replaces	medium armor	split-part			
 ref/arc-cleric/scroll-scholar	archetype	1	replaces	One of the 1st-level granted powers from her domains - the character gets to choose which of her two 1st-level granted powers it replaces	no-heading			
 ref/arc-cleric/scroll-scholar	archetype	2	replaces	Channel energy damage boost at 5th level	no-heading			
 ref/arc-cleric/scroll-scholar	archetype	3	replaces	The normal addition of a new 4th-level spell slot to the character's spells per day	no-heading			
-ref/arc-cleric/varisian-pilgrim	archetype	2	replaces	Proficiency with medium armor and shields - she retains proficiency with light armor only	no-heading			
-ref/arc-cleric/varisian-pilgrim	archetype	3	replaces	An 8th-level domain power of the Varisian pilgrim's choice	no-heading			
+ref/arc-cleric/varisian-pilgrim	archetype	2	replaces	Proficiency with medium armor	split-part			
+ref/arc-cleric/varisian-pilgrim	archetype	3	replaces	shields - she retains proficiency with light armor only	split-part			
+ref/arc-cleric/varisian-pilgrim	archetype	4	replaces	An 8th-level domain power of the Varisian pilgrim's choice	no-heading			
 ref/arc-companion/aberrant-companion	archetype	1	replaces	Share Spells	no-base-class			
 ref/arc-companion/aberrant-companion	archetype	2	replaces	Devotion	no-base-class			
 ref/arc-companion/aberrant-companion	archetype	3	replaces	Multiattack	no-base-class			
@@ -516,12 +518,15 @@ ref/arc-fighter/dragoon	archetype	3	replaces	Weapon training 2, 3, and 4	unusabl
 ref/arc-fighter/foehammer	archetype	2	replaces	Armor training 2 and 4	unusable-qualifier			
 ref/arc-fighter/free-hand-fighter	archetype	2	replaces	Armor training 1, 2, 3, and 4	unusable-qualifier			
 ref/arc-fighter/free-hand-fighter	archetype	3	replaces	Weapon training 1 and 4	unusable-qualifier			
-ref/arc-fighter/gladiator	archetype	1	replaces	Proficiency with heavy armor and tower shields	no-heading			
-ref/arc-fighter/gloomblade	archetype	2	replaces	proficiency with heavy armor and shields	no-heading			
+ref/arc-fighter/gladiator	archetype	1	replaces	Proficiency with heavy armor	split-part			
+ref/arc-fighter/gladiator	archetype	2	replaces	tower shields	split-part			
+ref/arc-fighter/gloomblade	archetype	2	replaces	proficiency with heavy armor	split-part			
+ref/arc-fighter/gloomblade	archetype	3	replaces	shields	split-part			
 ref/arc-fighter/lore-warden	archetype	1	replaces	Proficiency with medium armor	no-heading			
 ref/arc-fighter/lore-warden	archetype	2	replaces	heavy armor	no-heading			
 ref/arc-fighter/lore-warden	archetype	3	replaces	and shields	no-heading			
-ref/arc-fighter/lore-warden	archetype	4	replaces	Bravery and the fighter bonus feat gained at 2nd level	no-heading			
+ref/arc-fighter/lore-warden	archetype	4	replaces	Bravery	split-part			
+ref/arc-fighter/lore-warden	archetype	5	replaces	the fighter bonus feat gained at 2nd level	split-part			
 ref/arc-fighter/lore-warden-pfs-field-guide	archetype	1	replaces	Proficiency with medium armor	no-heading			
 ref/arc-fighter/lore-warden-pfs-field-guide	archetype	2	replaces	heavy armor	no-heading			
 ref/arc-fighter/lore-warden-pfs-field-guide	archetype	3	replaces	and shields	no-heading			
@@ -537,10 +542,11 @@ ref/arc-fighter/polearm-master	archetype	2	replaces	Armor training 1, 2, 3, and 
 ref/arc-fighter/roughrider	archetype	3	replaces	Weapon training 1, 2, 3, and 4	unusable-qualifier			
 ref/arc-fighter/roughrider	archetype	7	replaces	Armor training 4	duplicate-feature	armor-training		
 ref/arc-fighter/seasoned-commander	archetype	1	replaces	Bonus fighter combat feat gained at 1st level	no-heading			
-ref/arc-fighter/seasoned-commander	archetype	2	replaces	proficiency with heavy armor and tower shields	no-heading			
-ref/arc-fighter/seasoned-commander	archetype	4	replaces	Weapon training 1 and 3	unusable-qualifier			
-ref/arc-fighter/seasoned-commander	archetype	9	alters	Skill ranks per level	no-heading			
-ref/arc-fighter/seasoned-commander	archetype	10	alters	class skills	no-heading			
+ref/arc-fighter/seasoned-commander	archetype	2	replaces	proficiency with heavy armor	split-part			
+ref/arc-fighter/seasoned-commander	archetype	3	replaces	tower shields	split-part			
+ref/arc-fighter/seasoned-commander	archetype	5	replaces	Weapon training 1 and 3	unusable-qualifier			
+ref/arc-fighter/seasoned-commander	archetype	10	alters	Skill ranks per level	no-heading			
+ref/arc-fighter/seasoned-commander	archetype	11	alters	class skills	no-heading			
 ref/arc-fighter/sensate	archetype	4	replaces	Weapon training 2, 3, and 4	unusable-qualifier			
 ref/arc-fighter/shielded-fighter	archetype	1	replaces	Armor training 1, 2, 3, and 4	unusable-qualifier			
 ref/arc-fighter/shielded-fighter	archetype	3	replaces	Weapon training 2 and 3	unusable-qualifier			
@@ -556,7 +562,8 @@ ref/arc-fighter/swarm-fighter	archetype	1	replaces	The bonus feat a fighter gain
 ref/arc-fighter/swarm-fighter	archetype	3	replaces	The bonus combat feats the fighter normally receives at 2nd, 6th, 10th, 14th, and 18th levels	no-heading			
 ref/arc-fighter/swarm-fighter	archetype	6	replaces	Weapon training 3 and 4	unusable-qualifier			
 ref/arc-fighter/tactician	archetype	1	replaces	The bonus fighter combat feat gained at 1st level	no-heading			
-ref/arc-fighter/tactician	archetype	6	alters	Armor proficiencies	no-heading			
+ref/arc-fighter/tactician	archetype	6	alters	Proficiency with heavy armor	split-part			
+ref/arc-fighter/tactician	archetype	7	alters	tower shields	split-part			
 ref/arc-fighter/trench-fighter	archetype	1	replaces	Armor training 1, 2, 3, and 4	unusable-qualifier			
 ref/arc-fighter/tribal-fighter	archetype	1	replaces	The fighter feat gained at 1st level	no-heading			
 ref/arc-fighter/tribal-fighter	archetype	2	alters	Armor proficiency	no-heading			
@@ -646,7 +653,8 @@ ref/arc-hunter/courtly-hunter	archetype	3	replaces	the hunter's bonus teamwork f
 ref/arc-hunter/feral-hunter	archetype	6	replaces	master of the wild	no-heading			
 ref/arc-hunter/packmaster	archetype	8	alters	Teamwork feats	duplicate-feature	teamwork-feat		
 ref/arc-inquisitor/exarch	archetype	7	alters	Spellcasting	no-heading			
-ref/arc-inquisitor/faith-hunter	archetype	2	replaces	justice and destruction judgments	no-heading			
+ref/arc-inquisitor/faith-hunter	archetype	2	replaces	justice	split-part			
+ref/arc-inquisitor/faith-hunter	archetype	3	replaces	destruction judgments	split-part			
 ref/arc-inquisitor/hexenhammer	archetype	7	alters	Spellcasting	no-heading			
 ref/arc-inquisitor/immolator	archetype	1	replaces	Smiting judgment	no-heading			
 ref/arc-inquisitor/keeper-of-the-current	archetype	3	alters	Spellcasting	no-heading			
@@ -663,7 +671,8 @@ ref/arc-inquisitor/sanctified-slayer	archetype	1	replaces	Judgment 1/day	no-head
 ref/arc-inquisitor/sanctified-slayer	archetype	2	replaces	Later iterations of the judgment ability	no-heading			
 ref/arc-inquisitor/sworn-of-the-eldest	archetype	4	replaces	All teamwork feats	no-heading			
 ref/arc-inquisitor/umbral-stalker	archetype	1	replaces	Justice judgment	no-heading			
-ref/arc-inquisitor/vampire-hunter	archetype	2	alters	Purity and Smiting judgments	no-heading			
+ref/arc-inquisitor/vampire-hunter	archetype	2	alters	Purity	split-part			
+ref/arc-inquisitor/vampire-hunter	archetype	3	alters	Smiting judgments	split-part			
 ref/arc-investigator/antiquarian	archetype	3	alters	Alchemy (including Extracts)	unusable-qualifier			
 ref/arc-investigator/bonded-investigator	archetype	3	replaces	poison immunity	no-heading			
 ref/arc-investigator/bonded-investigator	archetype	4	replaces	Studied strike damage gained at 4th level	no-heading			
@@ -970,7 +979,8 @@ ref/arc-skald/herald-of-the-horn	archetype	2	replaces	The first daily use of spe
 ref/arc-skald/herald-of-the-horn	archetype	4	replaces	The second and third daily uses of spell kenning gained at 11th and 17th levels	no-heading			
 ref/arc-skald/red-tongue	archetype	2	replaces	Versatile performance selections normally gained at 7th, 12th, and 17th levels	no-heading			
 ref/arc-skald/warlord	archetype	1	replaces	Scribe Scroll feat	no-heading			
-ref/arc-slayer/bloody-jake	archetype	1	replaces	Proficiency in medium armor and shields	no-heading			
+ref/arc-slayer/bloody-jake	archetype	1	replaces	Proficiency in medium armor	split-part			
+ref/arc-slayer/bloody-jake	archetype	2	replaces	shields	split-part			
 ref/arc-slayer/dune-rider	archetype	2	replaces	fast tracker	no-heading			
 ref/arc-slayer/pureblade	archetype	2	replaces	Slayer talent received at 2nd level	no-heading			
 ref/arc-slayer/pureblade	archetype	4	replaces	Slayer talent received at 8th level	no-heading			
