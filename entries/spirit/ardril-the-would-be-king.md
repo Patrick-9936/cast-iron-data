@@ -46,8 +46,6 @@ your target has. In addition, you gain a +2 bonus on saving throws until the _ch
 
 **Challenge (Ex)**
 
-**Flavor:** Relevant text from the cavalier class ability.
-
 **Swift:** You challenge a foe to combat, choosing one target within sight to challenge. Your melee
 attacks deal extra damage whenever the attacks are made against the target of your challenge. This
 extra damage is equal to your level. Challenging a foe requires much of your concentration. You take

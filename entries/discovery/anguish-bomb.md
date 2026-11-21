@@ -21,8 +21,6 @@ group = "alchemist-discovery"
 
 **Anguish Bomb (Su)**
 
-**Flavor:** Text from the mnemostiller archetype ability.
-
 **Ability:** An _anguish bomb_ is identical to a bomb except that it deals nonlethal damage, it
 deals no damage to inanimate objects and creatures immune to mental effects, and creatures caught in
 the _anguish bomb's_ splash can attempt a Will save for half damage. A mnemostiller uses his

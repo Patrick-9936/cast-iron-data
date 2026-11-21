@@ -122,8 +122,6 @@ magus spell list.
 
 **Spellstrike (Su)**
 
-**Flavor:** Text from the magus class ability.
-
 **Ability:** Whenever you cast a spell with a range of "touch" from the magus spell list, you can
 deliver the spell through any weapon you are wielding as part of a melee attack. Instead of the free
 melee touch attack normally allowed to deliver the spell, you can make one free melee attack with

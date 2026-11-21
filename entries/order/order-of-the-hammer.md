@@ -67,8 +67,6 @@ ability.
 
 **Gained:** At 1st Level
 
-**Flavor:** Relevant text from the monk class ability.
-
 **Info:** Unarmed strike damage is based on your size.
 
 **Ability:** Your unarmed strike deals 1d4 (Small), 1d6 (Medium), or 1d8 (Large) damage.

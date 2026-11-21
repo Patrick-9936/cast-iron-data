@@ -46,8 +46,6 @@ every inquisitor level above 4th.
 
 **Rage (Ex)**
 
-**Flavor:** Text from the barbarian class.
-
 **Free:** You can enter (or end) a _rage._ You gain a +4 morale bonus to your Strength and
 Constitution, as well as a +2 morale bonus on Will saves. The increase to Constitution grants you 2
 hit points per Hit Dice, but these disappear when the _rage_ ends and are not lost first like

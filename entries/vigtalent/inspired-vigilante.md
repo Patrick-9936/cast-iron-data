@@ -24,8 +24,6 @@ the _inspiration_ class feature.
 
 **Inspiration (Ex)**
 
-**Flavor:** Relevant text from the investigator class ability.
-
 **Ability:** You have an inspiration pool equal to [half](ref/misc/fractions-and-rounding) your
 level. Your inspiration pool refreshes each day, typically after you get a restful night's sleep.
 

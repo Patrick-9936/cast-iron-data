@@ -178,8 +178,6 @@ feature.
 
 **Hide in Plain Sight (Su)**
 
-**Flavor:** Text from the shadowdancer class ability.
-
 **Ability:** A shadowdancer can use the Stealth skill even while being observed. As long as she is
 within 10 feet of an area of [dim light](ref/rule/vision-and-light), a shadowdancer can hide herself
 from view in the open without anything to actually hide behind. She cannot, however, hide in her own

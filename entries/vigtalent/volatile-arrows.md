@@ -28,8 +28,6 @@ discoveries to his bombs as normal.
 
 **Bomb (Su)**
 
-**Flavor:** Relevant text from the alchemist class ability.
-
 **Standard:** On a direct hit, your bomb inflicts 1d6 points of fire damage + additional damage
 equal to your Intelligence modifier (this bonus damage is not multiplied on a critical hit or by
 using feats such as [Vital Strike](ref/feat/vital-strike)).

@@ -85,8 +85,6 @@ doesn't affect anyone else (even if it normally would). The haunt then gains con
 for 24 hours. Once per minute, you can attempt to end this possession early by succeeding at a Will
 save (DC = 20 + 1/2 your medium level).
 
-**Flavor:** Text from the medium class ability.
-
 **Passive:** You can always act on the surprise round against a haunt.
 
 **Moral Crisis (Su)**

@@ -70,8 +70,8 @@ ability.
 
 **Gained:** At 15th Level
 
-**Flavor:** This is the same as the [order of the star](ref/order/order-of-the-star) ability of the
-same name: The cavalier can take retribution on those who dare to strike an agent of his faith.
+**Flavor:** The cavalier gains retribution, as the [order of the star](ref/order/order-of-the-star)
+ability of the same name.
 
 **Ability:** Whenever an enemy makes a successful melee attack against the cavalier or an adjacent
 ally devoted to the same faith as the cavalier, the enemy provokes an attack of opportunity from the

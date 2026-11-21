@@ -23,8 +23,6 @@ doesn't add her Intelligence modifier to this damage).
 
 **Gained:** At 1st Level
 
-**Flavor:** Relevant text from the alchemist class ability.
-
 **Standard:** You can make and throw bombs. Drawing the components of, creating, and throwing a bomb
 is a single action. Thrown bombs have a range of 20 feet and use the
 [Throw Splash Weapon special attack](ref/rule/throw-splash-weapon). On a direct hit, your bomb

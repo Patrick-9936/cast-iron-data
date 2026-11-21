@@ -22,8 +22,6 @@ vigilante's level as his shifter level.
 
 **Morphic Weaponry (Ex)**
 
-**Flavor:** Text from the oozemorph ability.
-
 **Move:** An oozemorph can form two primary natural attacks that each deal 1d6 points of
 bludgeoning, piercing, or slashing damage, chosen by the oozemorph when she forms them.
 

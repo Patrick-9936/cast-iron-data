@@ -3407,8 +3407,6 @@ print = "Core Rulebook p. 31; Ultimate Magic p. 41"
 replacement = '''
 **Rage (Ex)**
 
-**Flavor:** Text from the barbarian class.
-
 **Free:** You can enter (or end) a _rage._ You gain a +4 morale bonus to your Strength and
 Constitution, as well as a +2 morale bonus on Will saves. The increase to Constitution grants you 2
 hit points per Hit Dice, but these disappear when the _rage_ ends and are not lost first like
@@ -3496,12 +3494,10 @@ creature for a number of rounds equal to 1/2 his investigator level.
 id = "ref/kinetic/venom-speaker"
 name = "Poison Lore (Ex)"
 occurrence = 1
-span_sha256 = "15d97d65466cf83c4d69aea8134b04df15b730cc5656df66868512e83691537a"
+span_sha256 = "a326c2f8f4a56a63c22445b7369e4397166c8e0b81b9e28a4d0e857a8a55e95a"
 print = "Advanced Class Guide p. 31; Heroes of Golarion p. 27"
 replacement = '''
 **Poison Lore (Ex)**
-
-**Flavor:** Text from the investigator class ability.
 
 **Passive:** You cannot accidentally poison yourself when applying poison to a weapon.
 
@@ -4803,14 +4799,12 @@ ability.
 id = "ref/order/order-of-the-hammer"
 name = "Unarmed Strike"
 occurrence = 1
-span_sha256 = "64c752ab91471761bbfc4e49c7cf6ab805cc13f54cfb1724351a32a4a9fc9ee0"
-print = "Core Rulebook p. 58"
+span_sha256 = "bfeca6e244df866b713f0466e766443d73411ccf841131d8dcc2d8775bed4a01"
+print = "Core Rulebook p. 58; The Harrow Handbook p. 18"
 replacement = '''
 **Unarmed Strike**
 
 **Gained:** At 1st Level
-
-**Flavor:** Relevant text from the monk class ability.
 
 **Info:** Unarmed strike damage is based on your size.
 
@@ -4897,12 +4891,10 @@ revealing information about his charge.
 id = "ref/order/order-of-the-songbird"
 name = "Versatile Performance (Ex)"
 occurrence = 2
-span_sha256 = "acec1e66b5238d53c25406ccab467e710558675475e50325953d10548f21182a"
-print = "Core Rulebook p. 38"
+span_sha256 = "780c8a7addc2f16b1f0507cef87725c5e51dd3c3a5391152dd9169989d2b68ff"
+print = "Core Rulebook p. 38; Heroes from the Fringe p. 15"
 replacement = '''
 **Versatile Performance (Ex)**
-
-**Flavor:** Relevant text from the bard class ability.
 
 **Ability:** You can choose one type of Perform skill, using your bonus in that skill in place of your bonus in associated skills. When substituting in this way, you use your total Perform skill bonus, including class skill bonus, in place of its associated skill's bonus, whether or not you have ranks in that skill or if it is a class skill.
 
@@ -7346,14 +7338,12 @@ bonus feat.
 id = "ref/talent/bomber"
 name = "Bomb (Su)"
 occurrence = 1
-span_sha256 = "14f59ea1fb8b400d22e33f822ca741f2d60e8f2c18e4f37382be40418c6c5702"
-print = "Advanced Player's Guide p. 28"
+span_sha256 = "908a208629daf84a5f29708cd431dd3cc48db11e8979b3ad263ab31dd770923b"
+print = "Advanced Player's Guide p. 28; Ranged Tactics Toolbox p. 7"
 replacement = '''
 **Bomb (Su)**
 
 **Gained:** At 1st Level
-
-**Flavor:** Relevant text from the alchemist class ability.
 
 **Standard:** You can make and throw bombs. Drawing the components of, creating, and throwing a bomb
 is a single action. Thrown bombs have a range of 20 feet and use the
@@ -7702,12 +7692,10 @@ When using Weapon Finesse to make a melee attack using his Dexterity bonus on at
 id = "ref/vigtalent/morphic-weaponry"
 name = "Morphic Weaponry (Ex)"
 occurrence = 2
-span_sha256 = "c65d32c477c6748a21843d4525881283ddc4d3a209475969417b698ed67bd3c1"
-print = "Ultimate Wilderness p. 81"
+span_sha256 = "e6d16aff6cccc3be2fba478887c3b0fbc539993697a3cec9f259b9661d17936d"
+print = "Ultimate Wilderness p. 81; Chronicle of Legends p. 7"
 replacement = '''
 **Morphic Weaponry (Ex)**
-
-**Flavor:** Text from the oozemorph ability.
 
 **Move:** An oozemorph can form two primary natural attacks that each deal 1d6 points of
 bludgeoning, piercing, or slashing damage, chosen by the oozemorph when she forms them.
@@ -7724,4 +7712,307 @@ with _[beast shape I](ref/spell/beast-shape-1)_ has a bite attack as part of tha
 create only two additional natural attacks via _morphic weaponry,_ for a total of three attacks
 available to her at that level. If the oozemorph later reverts to a humanoid form with no natural
 weapons, she can instead create three _morphic weapons._
+'''
+
+[[resolution]]
+id = "ref/discovery/anguish-bomb"
+name = "Anguish Bomb (Su)"
+occurrence = 1
+span_sha256 = "6834c358cd4187b4a91556c9e7592fad724d2596868beaa2cd8a7e121813b86e"
+print = "Distant Realms p. 52"
+replacement = '''
+**Anguish Bomb (Su)**
+
+**Ability:** An _anguish bomb_ is identical to a bomb except that it deals nonlethal damage, it
+deals no damage to inanimate objects and creatures immune to mental effects, and creatures caught in
+the _anguish bomb's_ splash can attempt a Will save for half damage. A mnemostiller uses his
+Charisma score in place of his Intelligence score to determine the bonus damage of his _anguish
+bomb_ and the save DC of the _anguish bomb's_ splash damage. He still uses his Intelligence score to
+determine his number of bombs per day.
+
+**Special:** If the mnemostiller has taken any hit point damage in the past 24 hours, his _anguish
+bombs_ inflict additional nonlethal damage equal to [half](ref/misc/fractions-and-rounding) of his
+alchemist level.
+'''
+
+[[resolution]]
+id = "ref/mystery/ascetic"
+name = "Spellstrike (Su)"
+occurrence = 1
+span_sha256 = "a3ae5e713fcc15032e7c3bf25d47907fb2d497623bd82de2d7c455b6f3ff906e"
+print = "Villain Codex p. 104"
+replacement = '''
+**Spellstrike (Su)**
+
+**Ability:** Whenever you cast a spell with a range of "touch" from the magus spell list, you can
+deliver the spell through any weapon you are wielding as part of a melee attack. Instead of the free
+melee touch attack normally allowed to deliver the spell, you can make one free melee attack with
+your weapon (at your highest base attack bonus) as part of casting this spell. If successful, this
+melee attack deals its normal damage as well as the effects of the spell. If you make this attack in
+concert with _spell combat,_ this melee attack takes all the penalties accrued by spell combat melee
+attacks.
+
+**Special:** This attack uses the weapon's critical range (20, 19-20, or 18-20 and modified by the
+_keen_ weapon property or similar effects), but the spell effect only deals ×2 damage on a
+successful critical hit, while the weapon damage uses its own critical modifier.
+'''
+
+[[resolution]]
+id = "ref/mystery/life"
+name = "Combat Healer (Su)"
+occurrence = 1
+span_sha256 = "fc3de7eb728685ab734c2c0c152251a385673b77ead30861f206f9663f2c1133"
+print = "Advanced Player's Guide p. 49"
+replacement = '''
+**Combat Healer (Su)**
+
+**Flavor:** As the [battle](ref/mystery/battle) mystery revelation.
+
+**Ability:** Whenever you cast a cure spell (a spell with "cure" in its name), you can cast it as a
+**swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by expending two
+spell slots. This does not increase the level of the spell.
+
+**Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
+
+**Prereq:** 7th-level oracle
+'''
+
+[[resolution]]
+id = "ref/mystery/shadow"
+name = "Hide in Plain Sight (Su)"
+occurrence = 1
+span_sha256 = "7fd4a29cdd0e9358b79b2b0dcf18814e00627d703b360d85d69973df84c9e7a4"
+print = "Blood of Shadows p. 13; Core Rulebook p. 392"
+replacement = '''
+**Hide in Plain Sight (Su)**
+
+**Ability:** A shadowdancer can use the Stealth skill even while being observed. As long as she is
+within 10 feet of an area of [dim light](ref/rule/vision-and-light), a shadowdancer can hide herself
+from view in the open without anything to actually hide behind. She cannot, however, hide in her own
+shadow.
+'''
+
+[[resolution]]
+id = "ref/mystery/succor"
+name = "Combat Healer (Su)"
+occurrence = 1
+span_sha256 = "fc3de7eb728685ab734c2c0c152251a385673b77ead30861f206f9663f2c1133"
+print = "Healer's Handbook p. 20"
+replacement = '''
+**Combat Healer (Su)**
+
+**Flavor:** As per the [battle](ref/mystery/battle) mystery revelation of the same name.
+
+**Ability:** Whenever you cast a cure spell (a spell with "cure" in its name), you can cast it as a
+**swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by expending two
+spell slots. This does not increase the level of the spell.
+
+**Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
+
+**Prereq:** 7th-level oracle
+'''
+
+[[resolution]]
+id = "ref/mystery/succor"
+name = "Enhanced Cures (Su)"
+occurrence = 1
+span_sha256 = "f91cadc7850a09dd92687fb625968deea260fe2a74d477ec470d4637e951ac24"
+print = "Healer's Handbook p. 21"
+replacement = '''
+**Enhanced Cures (Su)**
+
+**Flavor:** As per the [life](ref/mystery/life) oracle mystery revelation of the same name.
+
+**Ability:** Whenever you cast a _cure_ spell, the maximum number of hit points healed is based on
+your oracle level, not the limit based on the spell. For example, an 11th-level oracle with this
+revelation may cast [cure light wounds](ref/spell/cure-light-wounds) to heal 1d8+11 hit points
+instead of the normal 1d8+5 maximum.
+'''
+
+[[resolution]]
+id = "ref/mystery/succor"
+name = "Soul Siphon (Su)"
+occurrence = 1
+span_sha256 = "9fdd0430a04b1444a857b7a52d45abadf2540739eebe283c141aea1666eff1f1"
+print = "Healer's Handbook p. 21"
+replacement = '''
+**Soul Siphon (Su)**
+
+**Flavor:** As per the [bones](ref/mystery/bones) oracle mystery revelation of the same name.
+
+**Ability:** As a ranged touch attack, you can unleash a ray that causes a target to gain one
+[negative level](ref/rule/energy-drain-and-negative-levels). The ray has a range of 30 feet. This
+negative level lasts for a number of minutes equal to your Charisma modifier.
+
+Whenever this ability gives a target a negative level, you heal a number of hit points equal to your
+oracle level.
+
+**Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
+
+**Prereq:** 7th-level oracle
+'''
+
+[[resolution]]
+id = "ref/mystery/succor"
+name = "Spirit Boost (Su)"
+occurrence = 1
+span_sha256 = "b15e7c79eb7b0f21867a32fb52b7cfbef9e2f0ee579e26c16038d8dd9c869d1e"
+print = "Healer's Handbook p. 21"
+replacement = '''
+**Spirit Boost (Su)**
+
+**Flavor:** As per the [life](ref/mystery/life) oracle mystery revelation of the same name.
+
+**Ability:** Whenever your healing spells heal a target up to its maximum hit points, any excess
+points persist for 1 round per level as [temporary hit points](ref/rule/temporary-hit-points) (up to
+a maximum number of temporary hit points equal to your oracle level).
+'''
+
+[[resolution]]
+id = "ref/order/order-of-vengeance"
+name = "Retribution (Ex)"
+occurrence = 1
+span_sha256 = "e7c496463dd979da449d2236630c5bbe469dff8bcc616f4fdb1630cb4fe1f9eb"
+print = "People of the River p. 10"
+replacement = '''
+**Retribution (Ex)**
+
+**Gained:** At 15th Level
+
+**Flavor:** The cavalier gains retribution, as the [order of the star](ref/order/order-of-the-star) ability of the same name.
+
+**Ability:** Whenever an enemy makes a successful melee attack against the cavalier or an adjacent
+ally devoted to the same faith as the cavalier, the enemy provokes an attack of opportunity from the
+cavalier. The cavalier receives a +2 morale bonus on the attack of opportunity.
+
+If the attack made by the enemy was a critical hit, the cavalier may treat the enemy as the target
+of his _challenge_ for the attack of opportunity.
+
+The cavalier can use this ability once per round.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/efreeti"
+name = "Heat"
+occurrence = 1
+span_sha256 = "07069534440b4e8070fb5042d8c94ad4e2a48b1c4d622e475a3e89a36d31796f"
+print = "Ultimate Magic p. 67; Bestiary p. 140"
+replacement = '''
+**Heat**
+
+**Passive:** An efreeti's body deals 1d6 points of fire damage whenever it hits in melee, or in each
+round it [grapples](ref/rule/grapple).
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/vestige"
+name = "Bonded Object"
+occurrence = 1
+span_sha256 = "be0eeda2b241d515589a31059ac369b48b5e698ac6fc00796e635d7575fd855a"
+print = "Blood of the Ancients p. 6"
+replacement = '''
+**Bonded Object**
+
+**Ability:** You begin play with a _bonded object_ at no cost. Objects that are the subject of an
+arcane bond must fall into one of the following categories: amulet, ring, staff, wand, or weapon.
+These objects are always masterwork quality. Weapons acquired at 1st level are not made of any
+special material. If the object is an amulet or ring, it must be worn to have effect, while staves,
+wands, and weapons must be wielded. If you attempt to cast a spell without your bonded object worn
+or in hand, you must make a [concentration](ref/rule/concentration) check or lose the spell. The DC
+for this check is equal to 20 + the spell's level. If the object is a ring or amulet, it occupies
+the [ring or neck slot](ref/rule/magic-items-on-the-body) accordingly.
+
+You can add additional magic abilities to your bonded object as if you have the required item
+creation feats and if you meet the level prerequisites of the feat. For example, a wizard with a
+bonded dagger must be at least 5th level to add magic abilities to the dagger (see
+[Craft Magic Arms and Armor](ref/feat/craft-magic-arms-and-armor)). If the bonded object is a wand,
+it loses its wand abilities when its last charge is consumed, but it is not destroyed and it retains
+all of its bonded object properties and can be used to craft a new wand. The magic properties of a
+bonded object, including any magic abilities added to the object, only function for the wizard who
+owns it. If a bonded object's owner dies, or the item is replaced, the object reverts to being an
+ordinary masterwork item of the appropriate type.
+
+If a bonded object is damaged, it is restored to full hit points the next time you prepare your
+spells. If the object of an arcane bond is lost or destroyed, it can be replaced after 1 week in a
+special ritual that costs 200 gp per wizard level plus the cost of the masterwork item. This ritual
+takes 8 hours to complete. Items replaced in this way do not possess any of the additional
+enchantments of the previous bonded item. You can designate an existing magic item as your bonded
+item. This functions in the same way as replacing a lost or destroyed item except that the new magic
+item retains its abilities while gaining the benefits and drawbacks of becoming a bonded item.
+'''
+
+[[resolution]]
+id = "ref/spirit/ardril-the-would-be-king"
+name = "Challenge (Ex)"
+occurrence = 1
+span_sha256 = "0cd5c077f6c5c42d3590de7cc44f1c6339ce0536b3b9911011acae325237b804"
+print = "Heroes of Golarion p. 5"
+replacement = '''
+**Challenge (Ex)**
+
+**Swift:** You challenge a foe to combat, choosing one target within sight to challenge. Your melee
+attacks deal extra damage whenever the attacks are made against the target of your challenge. This
+extra damage is equal to your level. Challenging a foe requires much of your concentration. You take
+a -2 penalty to your Armor Class, except against attacks made by the target of your challenge.
+
+**Usage:** 1 time/day + 1 per 3 cavalier levels beyond 1st
+
+**Special:** The challenge remains in effect until the target is dead or unconscious or until the
+combat ends.
+'''
+
+[[resolution]]
+id = "ref/vigtalent/inspired-vigilante"
+name = "Inspiration (Ex)"
+occurrence = 1
+span_sha256 = "a591990908261b0594c59c3f39e8b19ef1898ba12e2f892325019462f77af0f7"
+print = "Ultimate Intrigue p. 47"
+replacement = '''
+**Inspiration (Ex)**
+
+**Ability:** You have an inspiration pool equal to [half](ref/misc/fractions-and-rounding) your
+level. Your inspiration pool refreshes each day, typically after you get a restful night's sleep.
+
+**Free:** You can expend one use of inspiration from your pool to add 1d6 to the result of a check,
+including any on which you take 10 or 20. This choice is made after the check is rolled and before
+the results are revealed.
+
+**Usage:** You can only use inspiration once per check or roll.
+
+**Special:** Using inspiration on attack rolls and saving throws costs two uses of inspiration each
+time. In the case of saving throws, using inspiration is an **immediate action**.
+'''
+
+[[resolution]]
+id = "ref/vigtalent/volatile-arrows"
+name = "Bomb (Su)"
+occurrence = 1
+span_sha256 = "d96fe7eecc33d1a7877151c5e1ccb40efdccf144573a22914e1863955647ecd9"
+print = "Chronicle of Legends p. 7"
+replacement = '''
+**Bomb (Su)**
+
+**Standard:** On a direct hit, your bomb inflicts 1d6 points of fire damage + additional damage
+equal to your Intelligence modifier (this bonus damage is not multiplied on a critical hit or by
+using feats such as [Vital Strike](ref/feat/vital-strike)).
+
+**At 3rd level,** the base bomb damage becomes 2d6.
+
+**At 5th level,** the base bomb damage becomes 3d6.
+
+**At 7th level,** the base bomb damage becomes 4d6.
+
+**At 9th level,** the base bomb damage becomes 5d6.
+
+**At 11th level,** the base bomb damage becomes 6d6.
+
+**At 13th level,** the base bomb damage becomes 7d6.
+
+**At 15th level,** the base bomb damage becomes 8d6.
+
+**At 17th level,** the base bomb damage becomes 9d6.
+
+**At 19th level,** the base bomb damage becomes 10d6.
+
+**Provokes attack of opportunity:** Yes
 '''

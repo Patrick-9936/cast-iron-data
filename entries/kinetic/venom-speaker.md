@@ -39,8 +39,6 @@ talent, using your kineticist level as your alchemist level:
 
 **Poison Lore (Ex)**
 
-**Flavor:** Text from the investigator class ability.
-
 **Passive:** You cannot accidentally poison yourself when applying poison to a weapon.
 
 If you spend 1 minute physically examining the poison, you can attempt a
