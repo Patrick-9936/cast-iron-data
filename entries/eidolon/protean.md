@@ -29,24 +29,26 @@ slap\], [tail](ref/unchevolution/tail), [tail slap](ref/unchevolution/tail-slap)
 
 **Base Evolutions**
 
-**At 1st Level:** Protean eidolons gain the [resistance](ref/unchevolution/resistance) (acid)
-evolution as well as the _[grab](ref/carried/bestiary/rules/universal-monster-rules/grab)_
-evolution, tied to an attack type of the summoner's choice. Whenever the summoner changes the
-protean eidolon's evolutions, he can also change the attack type for
+**Gained:** At 1st Level
+
+**Ability:** Protean eidolons gain the [resistance](ref/unchevolution/resistance) (acid) evolution
+as well as the _[grab](ref/carried/bestiary/rules/universal-monster-rules/grab)_ evolution, tied to
+an attack type of the summoner's choice. Whenever the summoner changes the protean eidolon's
+evolutions, he can also change the attack type for
 _[grab](ref/carried/bestiary/rules/universal-monster-rules/grab)._
 
-**At 12th Level:** Protean eidolons gain DR 5/lawful. They also gain the
+**At 4th level,** protean eidolons gain electricity _resistance_ 10 and sonic _resistance_ 10.
+
+**At 8th level,** protean eidolons gain the [constrict](ref/unchevolution/constrict) evolution.
+
+**At 12th level,** protean eidolons gain DR 5/lawful. They also gain the
 [blindsense](ref/unchevolution/blindsense) evolution and the ability to fly without wings with
 perfect maneuverability, as the [flight](ref/unchevolution/flight) evolution with 4 points spent.
 
-**At 16th Level:** Protean eidolons lose the _resistance_ (acid) evolution and instead gain the
+**At 16th level,** protean eidolons lose the _resistance_ (acid) evolution and instead gain the
 [immunity](ref/unchevolution/immunity) (acid) evolution. They also gain the amorphous anatomy
 ability (see the [protean creature subtype](ref/subtype/protean)).
 
-**At 20th Level:** Protean eidolons gain constant
+**At 20th level,** protean eidolons gain constant
 [freedom of movement](ref/spell/freedom-of-movement) and the protean version of the change shape
 (greater polymorph) ability (see the protean creature subtype).
-
-**At 4th Level:** Protean eidolons gain electricity _resistance_ 10 and sonic _resistance_ 10.
-
-**At 8th Level:** Protean eidolons gain the [constrict](ref/unchevolution/constrict) evolution.
