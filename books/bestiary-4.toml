@@ -1,0 +1,1609 @@
+[[books]]
+source = "bestiary-4"
+title = "Bestiary 4"
+basis = "The main chapter titles, their order, and their first pages are checked against the printed contents page of Bestiary 4. The dataset holds only the monster entries; the printed introduction and appendices are not in it. See docs/research/book-order-evidence.md. Canonical ids were substituted through the reviewed alias map; chapters and order are unchanged."
+review = ["Canonical ids were substituted through sources/canonical/id-map.toml. A legacy entry with no installed target is omitted and listed in coverage."]
+
+[[books.chapters]]
+title = "Monsters A to Z"
+
+[[books.chapters.children]]
+title = "Abaia"
+entry = "ref/monster/abaia"
+
+[[books.chapters.children]]
+title = "Almiraj"
+entry = "ref/monster/almiraj"
+
+[[books.chapters.children]]
+title = "Alpluachra"
+entry = "ref/monster/alpluachra"
+
+[[books.chapters.children]]
+title = "Ankou"
+entry = "ref/monster/ankou"
+
+[[books.chapters.children]]
+title = "Aoandon"
+entry = "ref/monster/aoandon"
+
+[[books.chapters.children]]
+title = "Apocalypse Locust"
+entry = "ref/monster/apocalypse-locust-mythic"
+
+[[books.chapters.children.children]]
+title = "Sting (Ex)"
+entry = "ref/affliction/apocalypse-locust-mythic/sting-ex"
+
+[[books.chapters.children]]
+title = "Argus"
+entry = "ref/monster/argus-mythic"
+
+[[books.chapters.children]]
+title = "Astral Leviathan"
+entry = "ref/monster/astral-leviathan"
+
+[[books.chapters.children]]
+title = "Bakekujira"
+entry = "ref/monster/bakekujira"
+
+[[books.chapters.children]]
+title = "Barometz"
+entry = "ref/monster/barometz"
+
+[[books.chapters.children.children]]
+title = "Growing a Barometz"
+anchor = "growing-a-barometz"
+
+[[books.chapters.children.children.children]]
+title = "Barometz"
+entry = "ref/carried/bestiary-4/monsters/barometz/growing-a-barometz/barometz"
+
+[[books.chapters.children]]
+title = "Beheaded"
+entry = "ref/family/beheaded"
+
+[[books.chapters.children.children]]
+title = "Beheaded"
+entry = "ref/monster/beheaded"
+
+[[books.chapters.children]]
+title = "Bhole"
+entry = "ref/monster/bhole"
+
+[[books.chapters.children]]
+title = "Blood Hag"
+entry = "ref/monster/hag-blood-hag"
+
+[[books.chapters.children]]
+title = "Bodythief"
+entry = "ref/monster/bodythief"
+
+[[books.chapters.children.children]]
+title = "Pod-Spawned Creature (CR 0, –1, or –2)"
+anchor = "pod-spawned-creature-cr-0-1-or-2"
+
+[[books.chapters.children.children.children]]
+title = "Pod-Spawned Guard Captain"
+entry = "ref/carried/bestiary-4/monsters/bodythief/pod-spawned-creature-cr-0/1/or-2/pod-spawned-guard-captain"
+
+[[books.chapters.children.children.children]]
+title = "Pod-Spawned"
+entry = "ref/template/pod-spawned"
+
+[[books.chapters.children]]
+title = "Boilborn"
+entry = "ref/monster/boilborn"
+
+[[books.chapters.children]]
+title = "Brethedan"
+entry = "ref/monster/brethedan"
+
+[[books.chapters.children]]
+title = "Broken Soul"
+entry = "ref/carried/bestiary-4/monsters/broken-soul"
+
+[[books.chapters.children.children]]
+title = "Broken Soul"
+entry = "ref/template/broken-soul"
+
+[[books.chapters.children]]
+title = "Buggane"
+entry = "ref/monster/buggane"
+
+[[books.chapters.children]]
+title = "Cephalophore"
+entry = "ref/monster/cephalophore"
+
+[[books.chapters.children.children]]
+title = "Construction"
+anchor = "construction"
+
+[[books.chapters.children.children.children]]
+title = "Cephalophore"
+entry = "ref/carried/bestiary-4/monsters/cephalophore/construction/cephalophore"
+
+[[books.chapters.children]]
+title = "Chaneque"
+entry = "ref/monster/chaneque-mythic"
+
+[[books.chapters.children]]
+title = "Changeling"
+entry = "ref/monster/changeling"
+
+[[books.chapters.children.children]]
+title = "Changeling"
+entry = "ref/race/changeling"
+
+[[books.chapters.children]]
+title = "Clockwork Dragon"
+entry = "ref/monster/clockwork-clockwork-dragon"
+
+[[books.chapters.children.children]]
+title = "Construction"
+
+[[books.chapters.children.children.children]]
+title = "Clockwork Dragon"
+entry = "ref/carried/bestiary-4/monsters/clockwork-dragon/clockwork-dragon/construction/clockwork-dragon"
+
+[[books.chapters.children]]
+title = "Clockwork Mage"
+entry = "ref/monster/clockwork-clockwork-mage"
+
+[[books.chapters.children.children]]
+title = "Construction"
+
+[[books.chapters.children.children.children]]
+title = "Clockwork Mage"
+entry = "ref/carried/bestiary-4/monsters/clockwork-dragon/clockwork-mage/construction/clockwork-mage"
+
+[[books.chapters.children]]
+title = "Clockwork Steed"
+entry = "ref/monster/clockwork-clockwork-steed"
+
+[[books.chapters.children.children]]
+title = "Construction"
+
+[[books.chapters.children.children.children]]
+title = "Clockwork Steed"
+entry = "ref/carried/bestiary-4/monsters/clockwork-dragon/clockwork-steed/construction/clockwork-steed"
+
+[[books.chapters.children]]
+title = "Colossus"
+entry = "ref/family/colossus"
+
+[[books.chapters.children.children]]
+title = "Flesh Colossus"
+entry = "ref/monster/colossus-flesh-colossus-mythic"
+
+[[books.chapters.children.children.children]]
+title = "Construction"
+
+[[books.chapters.children.children.children.children]]
+title = "Flesh Colossus"
+entry = "ref/carried/bestiary-4/monsters/colossus/flesh/construction/flesh-colossus"
+
+[[books.chapters.children.children]]
+title = "Iron Colossus"
+entry = "ref/monster/colossus-iron-colossus-mythic"
+
+[[books.chapters.children.children.children]]
+title = "Construction"
+
+[[books.chapters.children.children.children.children]]
+title = "Iron Colossus"
+entry = "ref/carried/bestiary-4/monsters/colossus/iron/construction/iron-colossus"
+
+[[books.chapters.children.children.children]]
+title = "Deadly Fumes"
+entry = "ref/affliction/colossus-iron-colossus-mythic/deadly-fumes"
+
+[[books.chapters.children.children]]
+title = "Stone Colossus"
+entry = "ref/monster/colossus-stone-colossus-mythic"
+
+[[books.chapters.children.children.children]]
+title = "Construction"
+
+[[books.chapters.children.children.children.children]]
+title = "Stone Colossus"
+entry = "ref/carried/bestiary-4/monsters/colossus/stone/construction/stone-colossus"
+
+[[books.chapters.children]]
+title = "Colour Out of Space"
+entry = "ref/monster/colour-out-of-space"
+
+[[books.chapters.children.children]]
+title = "Colour-Blighted"
+entry = "ref/template/colour-blighted"
+
+[[books.chapters.children]]
+title = "Comozant Wyrd"
+entry = "ref/monster/comozant-wyrd"
+
+[[books.chapters.children]]
+title = "Contemplative"
+entry = "ref/monster/contemplative"
+
+[[books.chapters.children]]
+title = "Dark Caller"
+entry = "ref/monster/dark-folk-dark-caller"
+
+[[books.chapters.children]]
+title = "Dark Dancer"
+entry = "ref/monster/dark-folk-dark-dancer"
+
+[[books.chapters.children]]
+title = "Death Dog"
+entry = "ref/monster/death-dog"
+
+[[books.chapters.children.children]]
+title = "Wormpox"
+entry = "ref/affliction/death-dog/wormpox"
+
+[[books.chapters.children]]
+title = "Demon Lord"
+entry = "ref/family/demon-lord"
+
+[[books.chapters.children.children]]
+title = "Dagon"
+entry = "ref/monster/demon-lord-dagon"
+
+[[books.chapters.children.children]]
+title = "Kostchtchie"
+entry = "ref/monster/demon-lord-kostchtchie"
+
+[[books.chapters.children.children]]
+title = "Pazuzu"
+entry = "ref/monster/demon-lord-pazuzu"
+
+[[books.chapters.children.children.children]]
+title = "Scepter of Shibaxet"
+entry = "ref/magic-artifact/scepter-of-shibaxet"
+
+[[books.chapters.children]]
+title = "Devil, Drowning"
+entry = "ref/monster/devil-drowning-devil-sarglagon"
+
+[[books.chapters.children]]
+title = "Devil, Host"
+entry = "ref/carried/bestiary-4/monsters/devil/host"
+
+[[books.chapters.children.children]]
+title = "Greater Host Devil (Magaav)"
+entry = "ref/monster/devil-host-devil-greater-magaav"
+
+[[books.chapters.children]]
+title = "Devil, Nemesis"
+entry = "ref/monster/devil-nemesis-devil-advodaza"
+
+[[books.chapters.children]]
+title = "Devilbound Creature"
+entry = "ref/carried/bestiary-4/monsters/devilbound-creature"
+
+[[books.chapters.children.children]]
+title = "Devilbound"
+entry = "ref/template/devilbound"
+
+[[books.chapters.children]]
+title = "Dinosaur, Dimorphodon"
+entry = "ref/monster/dinosaur-dimorphodon"
+
+[[books.chapters.children]]
+title = "Dinosaur, Diplodocus"
+entry = "ref/monster/dinosaur-diplodocus"
+
+[[books.chapters.children]]
+title = "Dinosaur, Styracosaurus"
+entry = "ref/monster/dinosaur-styracosaurus"
+
+[[books.chapters.children]]
+title = "Dinosaur, Velociraptor"
+entry = "ref/monster/dinosaur-velociraptor"
+
+[[books.chapters.children]]
+title = "Divine Guardian"
+entry = "ref/carried/bestiary-4/monsters/divine-guardian"
+
+[[books.chapters.children.children]]
+title = "Divine Guardian"
+entry = "ref/template/divine-guardian"
+
+[[books.chapters.children]]
+title = "Dorvae"
+entry = "ref/monster/dorvae"
+
+[[books.chapters.children.children]]
+title = "Dorvae Poison (Su)"
+entry = "ref/affliction/dorvae/dorvae-poison-su"
+
+[[books.chapters.children]]
+title = "Dossenus"
+entry = "ref/monster/dossenus"
+
+[[books.chapters.children]]
+title = "Dragon (Outer)"
+entry = "ref/family/dragon-outer"
+
+[[books.chapters.children.children]]
+title = "Dragon (Outer, Lunar)"
+entry = "ref/family/dragon-outer-lunar"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Lunar"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/lunar/dragon/outer/lunar"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Lunar, Young"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/lunar/young"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Lunar, Adult"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/lunar/adult"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Lunar, Ancient"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/lunar/ancient"
+
+[[books.chapters.children.children]]
+title = "Dragon (Outer, Solar)"
+entry = "ref/family/dragon-outer-solar"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Solar"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/solar/dragon/outer/solar"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Solar, Young"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/solar/young"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Solar, Adult"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/solar/adult"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Solar, Ancient"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/solar/ancient"
+
+[[books.chapters.children.children.children.children]]
+title = "Ancient Solar Dragon"
+entry = "ref/monster/dragon-outer-solar-ancient-solar-dragon"
+
+[[books.chapters.children.children]]
+title = "Dragon (Outer, Time)"
+entry = "ref/family/dragon-outer-time"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Time"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/time/dragon/outer/time"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Time, Young"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/time/young"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Time, Adult"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/time/adult"
+
+[[books.chapters.children.children.children.children]]
+title = "Adult Time Dragon"
+entry = "ref/monster/dragon-outer-time-adult-time-dragon"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Time, Ancient"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/time/ancient"
+
+[[books.chapters.children.children.children.children]]
+title = "Ancient Time Dragon"
+entry = "ref/monster/dragon-outer-time-ancient-time-dragon"
+
+[[books.chapters.children.children]]
+title = "Dragon (Outer, Void)"
+entry = "ref/family/dragon-outer-void"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Void"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/void/dragon/outer/void"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Void, Young"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/void/young"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Void, Adult"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/void/adult"
+
+[[books.chapters.children.children.children.children]]
+title = "Adult Void Dragon"
+entry = "ref/monster/dragon-outer-void-adult-void-dragon"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Void, Ancient"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/void/ancient"
+
+[[books.chapters.children.children.children.children]]
+title = "Ancient Void Dragon"
+entry = "ref/monster/dragon-outer-void-ancient-void-dragon"
+
+[[books.chapters.children.children]]
+title = "Dragon (Outer, Vortex)"
+entry = "ref/family/dragon-outer-vortex"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Vortex"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/vortex/dragon/outer/vortex"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Vortex, Young"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/vortex/young"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Vortex, Adult"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/vortex/adult"
+
+[[books.chapters.children.children.children.children]]
+title = "Adult Vortex Dragon"
+entry = "ref/monster/dragon-outer-vortex-adult-vortex-dragon"
+
+[[books.chapters.children.children.children]]
+title = "Dragon, Outer, Vortex, Ancient"
+entry = "ref/carried/bestiary-4/monsters/dragon/outer/vortex/ancient"
+
+[[books.chapters.children.children.children.children]]
+title = "Ancient Vortex Dragon"
+entry = "ref/monster/dragon-outer-vortex-ancient-vortex-dragon"
+
+[[books.chapters.children]]
+title = "Drakainia"
+entry = "ref/monster/drakainia"
+
+[[books.chapters.children.children]]
+title = "Poison Glands Poison"
+entry = "ref/affliction/drakainia/poison-glands-poison"
+
+[[books.chapters.children]]
+title = "Drake, Lava"
+entry = "ref/monster/drake-lava-drake"
+
+[[books.chapters.children]]
+title = "Drake, Mist"
+entry = "ref/monster/drake-mist-drake"
+
+[[books.chapters.children]]
+title = "Drake, Shadow"
+entry = "ref/monster/drake-shadow-drake"
+
+[[books.chapters.children]]
+title = "Drake, Spire"
+entry = "ref/monster/drake-spire-drake"
+
+[[books.chapters.children]]
+title = "Ectoplasmic Creature"
+entry = "ref/carried/bestiary-4/monsters/ectoplasmic-creature"
+
+[[books.chapters.children.children]]
+title = "Ectoplasmic"
+entry = "ref/template/ectoplasmic"
+
+[[books.chapters.children]]
+title = "Einherji"
+entry = "ref/monster/einherji"
+
+[[books.chapters.children]]
+title = "Elder Thing"
+entry = "ref/monster/elder-thing"
+
+[[books.chapters.children]]
+title = "Elohim"
+entry = "ref/monster/elohim-mythic"
+
+[[books.chapters.children]]
+title = "Empyreal Lord"
+entry = "ref/family/empyreal-lord"
+
+[[books.chapters.children.children]]
+title = "Cernunnos (Empyreal Lord)"
+entry = "ref/monster/empyreal-lord-cernunnos"
+
+[[books.chapters.children.children]]
+title = "Korada (Empyreal Lord)"
+entry = "ref/monster/empyreal-lord-korada"
+
+[[books.chapters.children.children]]
+title = "Vildeis (Empyreal Lord)"
+entry = "ref/monster/empyreal-lord-vildeis"
+
+[[books.chapters.children.children.children]]
+title = "Cicatrix"
+entry = "ref/magic-artifact/cicatrix"
+
+[[books.chapters.children]]
+title = "Erlking"
+entry = "ref/monster/erlking"
+
+[[books.chapters.children]]
+title = "Fachen"
+entry = "ref/monster/fachen"
+
+[[books.chapters.children]]
+title = "Familiars"
+
+[[books.chapters.children.children]]
+title = "Archaeopteryx"
+entry = "ref/monster/familiar-archaeopteryx"
+
+[[books.chapters.children.children]]
+title = "Dodo"
+entry = "ref/monster/familiar-dodo"
+
+[[books.chapters.children.children]]
+title = "Platypus"
+entry = "ref/monster/familiar-platypus"
+
+[[books.chapters.children.children]]
+title = "Sloth"
+entry = "ref/monster/familiar-sloth"
+
+[[books.chapters.children.children]]
+title = "Tuatara"
+entry = "ref/monster/familiar-tuatara"
+
+[[books.chapters.children]]
+title = "Festering Spirit"
+entry = "ref/monster/festering-spirit"
+
+[[books.chapters.children]]
+title = "Giant Flea"
+entry = "ref/monster/flea-giant-flea"
+
+[[books.chapters.children]]
+title = "Mammoth Flea"
+entry = "ref/monster/flea-mammoth-flea"
+
+[[books.chapters.children]]
+title = "Fleshdreg"
+entry = "ref/monster/fleshdreg"
+
+[[books.chapters.children]]
+title = "Fleshwarp"
+entry = "ref/family/fleshwarp"
+
+[[books.chapters.children.children]]
+title = "Fleshwarp, Ghonhatine"
+entry = "ref/monster/fleshwarp-ghonhatine"
+
+[[books.chapters.children.children]]
+title = "Fleshwarp, Grothlut"
+entry = "ref/monster/fleshwarp-grothlut"
+
+[[books.chapters.children.children]]
+title = "Fleshwarp, Halsora"
+entry = "ref/monster/fleshwarp-halsora"
+
+[[books.chapters.children.children]]
+title = "Fleshwarp, Irnakurse"
+entry = "ref/monster/fleshwarp-irnakurse"
+
+[[books.chapters.children]]
+title = "Flying Polyp"
+entry = "ref/monster/flying-polyp"
+
+[[books.chapters.children]]
+title = "Formian"
+entry = "ref/family/formian"
+
+[[books.chapters.children.children]]
+title = "Formian Myrmarch"
+entry = "ref/monster/formian-formian-myrmarch"
+
+[[books.chapters.children.children]]
+title = "Formian Queen"
+entry = "ref/monster/formian-formian-queen"
+
+[[books.chapters.children.children]]
+title = "Formian Taskmaster"
+entry = "ref/monster/formian-formian-taskmaster"
+
+[[books.chapters.children.children]]
+title = "Formian Warrior"
+entry = "ref/monster/formian-formian-warrior"
+
+[[books.chapters.children.children]]
+title = "Formian Worker"
+entry = "ref/monster/formian-formian-worker"
+
+[[books.chapters.children]]
+title = "Fossegrim"
+entry = "ref/monster/fossegrim"
+
+[[books.chapters.children]]
+title = "Freezing Flow"
+entry = "ref/monster/freezing-flow"
+
+[[books.chapters.children]]
+title = "Fungal Creature"
+entry = "ref/carried/bestiary-4/monsters/fungal-creature"
+
+[[books.chapters.children.children]]
+title = "Fungal Creature"
+entry = "ref/template/fungal-creature"
+
+[[books.chapters.children.children.children]]
+title = "Fungal Blood or Flesh"
+entry = "ref/affliction/fungal-creature/fungal-blood-or-flesh"
+
+[[books.chapters.children.children.children]]
+title = "Fungal Spores"
+entry = "ref/affliction/fungal-creature/fungal-spores"
+
+[[books.chapters.children]]
+title = "Gaki"
+entry = "ref/monster/gaki"
+
+[[books.chapters.children]]
+title = "Gallowdead"
+entry = "ref/monster/gallowdead"
+
+[[books.chapters.children]]
+title = "Galvo"
+entry = "ref/monster/galvo"
+
+[[books.chapters.children]]
+title = "Gashadokuro"
+entry = "ref/monster/gashadokuro"
+
+[[books.chapters.children]]
+title = "Gathlain"
+entry = "ref/monster/gathlain"
+
+[[books.chapters.children.children]]
+title = "Gathlain"
+entry = "ref/race/gathlain"
+
+[[books.chapters.children]]
+title = "Gearghost"
+entry = "ref/monster/gearghost"
+
+[[books.chapters.children]]
+title = "Geist"
+entry = "ref/monster/geist"
+
+[[books.chapters.children]]
+title = "Gholdako"
+entry = "ref/monster/gholdako"
+
+[[books.chapters.children.children]]
+title = "Seaside rot"
+entry = "ref/affliction/gholdako/seaside-rot"
+
+[[books.chapters.children]]
+title = "Giant, Cliff"
+entry = "ref/monster/giant-cliff-giant"
+
+[[books.chapters.children]]
+title = "Giant, Ocean"
+entry = "ref/monster/giant-ocean-giant"
+
+[[books.chapters.children]]
+title = "Giant, River"
+entry = "ref/monster/giant-river-giant"
+
+[[books.chapters.children]]
+title = "Giant, Slag"
+entry = "ref/monster/giant-slag-giant"
+
+[[books.chapters.children]]
+title = "Golem, Blood"
+entry = "ref/monster/golem-blood-golem"
+
+[[books.chapters.children]]
+title = "Coral Golem"
+entry = "ref/monster/golem-coral-golem"
+
+[[books.chapters.children]]
+title = "Junk Golem"
+entry = "ref/monster/golem-junk-golem"
+
+[[books.chapters.children.children]]
+title = "Tetanus"
+entry = "ref/disease/tetanus"
+
+[[books.chapters.children]]
+title = "Wax Golem"
+entry = "ref/monster/golem-wax-golem"
+
+[[books.chapters.children]]
+title = "Graeae"
+entry = "ref/monster/graeae-mythic"
+
+[[books.chapters.children]]
+title = "Great Old One"
+entry = "ref/family/great-old-one"
+
+[[books.chapters.children.children]]
+title = "Bokrug"
+entry = "ref/monster/great-old-one-bokrug"
+
+[[books.chapters.children.children]]
+title = "Cthulhu"
+entry = "ref/monster/great-old-one-cthulhu"
+
+[[books.chapters.children.children]]
+title = "Hastur"
+entry = "ref/monster/great-old-one-hastur"
+
+[[books.chapters.children]]
+title = "Gremlin, Grimple"
+entry = "ref/monster/gremlin-grimple"
+
+[[books.chapters.children]]
+title = "Gremlin, Haniver"
+entry = "ref/monster/gremlin-haniver"
+
+[[books.chapters.children]]
+title = "Gremlin, Monaciello"
+entry = "ref/monster/gremlin-monaciello"
+
+[[books.chapters.children]]
+title = "Grendel"
+entry = "ref/monster/grendel-mythic"
+
+[[books.chapters.children]]
+title = "Guardian Dragon"
+entry = "ref/monster/guardian-dragon-mythic"
+
+[[books.chapters.children]]
+title = "Hamadryad"
+entry = "ref/monster/hamadryad"
+
+[[books.chapters.children]]
+title = "Harionago"
+entry = "ref/monster/harionago"
+
+[[books.chapters.children]]
+title = "Herd Animal, Giraffe"
+entry = "ref/monster/herd-animal-giraffe"
+
+[[books.chapters.children]]
+title = "Herd Animal, Stag"
+entry = "ref/monster/herd-animal-stag"
+
+[[books.chapters.children]]
+title = "Huldra"
+entry = "ref/monster/huldra"
+
+[[books.chapters.children]]
+title = "Hungry Flesh"
+entry = "ref/monster/hungry-flesh"
+
+[[books.chapters.children.children]]
+title = "Tumor Infestation"
+entry = "ref/affliction/hungry-flesh/tumor-infestation"
+
+[[books.chapters.children]]
+title = "Hyakume"
+entry = "ref/monster/hyakume"
+
+[[books.chapters.children]]
+title = "Hypnalis"
+entry = "ref/monster/hypnalis"
+
+[[books.chapters.children.children]]
+title = "Hypnalis Venom"
+entry = "ref/affliction/hypnalis/hypnalis-venom"
+
+[[books.chapters.children]]
+title = "Ijiraq"
+entry = "ref/monster/ijiraq"
+
+[[books.chapters.children]]
+title = "Immortal Ichor"
+entry = "ref/monster/immortal-ichor"
+
+[[books.chapters.children]]
+title = "Incutilis"
+entry = "ref/monster/incutilis"
+
+[[books.chapters.children]]
+title = "Irminsul"
+entry = "ref/monster/irminsul-mythic"
+
+[[books.chapters.children]]
+title = "Isitoq"
+entry = "ref/monster/isitoq"
+
+[[books.chapters.children]]
+title = "Jack-o'-Lantern"
+entry = "ref/monster/jack-o-lantern"
+
+[[books.chapters.children]]
+title = "Jinmenju"
+entry = "ref/monster/jinmenju"
+
+[[books.chapters.children.children]]
+title = "Head-Fruit Poison"
+entry = "ref/affliction/jinmenju/head-fruit-poison"
+
+[[books.chapters.children]]
+title = "Juggernaut"
+entry = "ref/monster/juggernaut"
+
+[[books.chapters.children.children]]
+title = "Construction"
+anchor = "construction"
+
+[[books.chapters.children.children.children]]
+title = "Juggernaut"
+entry = "ref/carried/bestiary-4/monsters/juggernaut/construction/juggernaut"
+
+[[books.chapters.children]]
+title = "Julunggali"
+entry = "ref/monster/julunggali-mythic"
+
+[[books.chapters.children.children]]
+title = "Julunggali Venom"
+entry = "ref/affliction/julunggali-mythic/julunggali-venom"
+
+[[books.chapters.children]]
+title = "Kaiju"
+entry = "ref/family/kaiju"
+
+[[books.chapters.children.children]]
+title = "Kaiju, Agyra"
+entry = "ref/monster/kaiju-agyra"
+
+[[books.chapters.children.children]]
+title = "Kaiju, Bezravnis"
+entry = "ref/monster/kaiju-bezravnis"
+
+[[books.chapters.children.children]]
+title = "Kaiju, Mogaru"
+entry = "ref/monster/kaiju-mogaru"
+
+[[books.chapters.children]]
+title = "Kapre"
+entry = "ref/monster/kapre"
+
+[[books.chapters.children]]
+title = "Karkinoi"
+entry = "ref/monster/karkinoi"
+
+[[books.chapters.children]]
+title = "Kasatha"
+entry = "ref/monster/kasatha"
+
+[[books.chapters.children.children]]
+title = "Kasatha"
+entry = "ref/race/kasatha"
+
+[[books.chapters.children]]
+title = "Kitsune"
+entry = "ref/monster/kitsune"
+
+[[books.chapters.children.children]]
+title = "Kitsune"
+entry = "ref/race/kitsune"
+
+[[books.chapters.children]]
+title = "Kyton, Ostiarius"
+entry = "ref/monster/kyton-ostiarius"
+
+[[books.chapters.children]]
+title = "Kyton, Sacristan"
+entry = "ref/monster/kyton-sacristan"
+
+[[books.chapters.children]]
+title = "Lampad"
+entry = "ref/monster/lampad"
+
+[[books.chapters.children]]
+title = "Leaf Ray"
+entry = "ref/monster/leaf-ray"
+
+[[books.chapters.children]]
+title = "Leanan Sidhe"
+entry = "ref/monster/leanan-sidhe-mythic"
+
+[[books.chapters.children]]
+title = "Living Topiary"
+entry = "ref/monster/living-topiary"
+
+[[books.chapters.children]]
+title = "Living Wall"
+entry = "ref/monster/living-wall"
+
+[[books.chapters.children.children]]
+title = "Construction"
+anchor = "construction"
+
+[[books.chapters.children.children.children]]
+title = "Living Wall"
+entry = "ref/carried/bestiary-4/monsters/living-wall/construction/living-wall"
+
+[[books.chapters.children]]
+title = "Locust, Giant"
+entry = "ref/monster/locust-giant-locust"
+
+[[books.chapters.children]]
+title = "Locust Swarm"
+entry = "ref/monster/locust-locust-swarm"
+
+[[books.chapters.children]]
+title = "Lorelei"
+entry = "ref/monster/lorelei"
+
+[[books.chapters.children]]
+title = "Lunarma"
+entry = "ref/monster/lunarma"
+
+[[books.chapters.children]]
+title = "Lurking Ray"
+entry = "ref/family/lurking-ray"
+
+[[books.chapters.children.children]]
+title = "Executioner's Hood"
+entry = "ref/monster/lurking-ray-executioners-hood"
+
+[[books.chapters.children.children]]
+title = "Lurker Above"
+entry = "ref/monster/lurking-ray-lurker-above"
+
+[[books.chapters.children.children]]
+title = "Trapper"
+entry = "ref/monster/lurking-ray-trapper"
+
+[[books.chapters.children]]
+title = "Lycanthrope, Werebat"
+
+[[books.chapters.children.children]]
+title = "Werebat (Human Form)"
+entry = "ref/carried/bestiary-4/monsters/lycanthrope/werebat/werebat-human-form"
+
+[[books.chapters.children.children]]
+title = "Werebat (Hybrid Form)"
+entry = "ref/carried/bestiary-4/monsters/lycanthrope/werebat/werebat-hybrid-form"
+
+[[books.chapters.children]]
+title = "Lycanthrope, Werecrocodile"
+
+[[books.chapters.children.children]]
+title = "Werecrocodile (Human Form)"
+entry = "ref/carried/bestiary-4/monsters/lycanthrope/werecrocodile/werecrocodile-human-form"
+
+[[books.chapters.children.children]]
+title = "Werecrocodile (Hybrid Form)"
+entry = "ref/carried/bestiary-4/monsters/lycanthrope/werecrocodile/werecrocodile-hybrid-form"
+
+[[books.chapters.children]]
+title = "Lycanthrope, Wereshark"
+
+[[books.chapters.children.children]]
+title = "Wereshark (Human Form)"
+entry = "ref/carried/bestiary-4/monsters/lycanthrope/wereshark/wereshark-human-form"
+
+[[books.chapters.children.children]]
+title = "Wereshark (Hybrid Form)"
+entry = "ref/carried/bestiary-4/monsters/lycanthrope/wereshark/wereshark-hybrid-form"
+
+[[books.chapters.children]]
+title = "Maenad"
+entry = "ref/monster/maenad"
+
+[[books.chapters.children]]
+title = "Manitou"
+entry = "ref/monster/manitou"
+
+[[books.chapters.children]]
+title = "Mi-Go"
+entry = "ref/monster/mi-go"
+
+[[books.chapters.children]]
+title = "Mindslaver Mold"
+entry = "ref/monster/mindslaver-mold"
+
+[[books.chapters.children]]
+title = "Mudlord"
+entry = "ref/monster/mudlord"
+
+[[books.chapters.children]]
+title = "Mummified Creature"
+entry = "ref/carried/bestiary-4/monsters/mummified-creature"
+
+[[books.chapters.children.children]]
+title = "Mummified Creature"
+entry = "ref/template/mummified-creature"
+
+[[books.chapters.children]]
+title = "Myrmecoleon"
+entry = "ref/monster/myrmecoleon-mythic"
+
+[[books.chapters.children]]
+title = "Nagaji"
+entry = "ref/monster/nagaji"
+
+[[books.chapters.children.children]]
+title = "Nagaji"
+entry = "ref/race/nagaji"
+
+[[books.chapters.children]]
+title = "Necrocraft"
+entry = "ref/monster/necrocraft"
+
+[[books.chapters.children.children]]
+title = "Rotting Flesh"
+entry = "ref/affliction/necrocraft/rotting-flesh"
+
+[[books.chapters.children]]
+title = "Nependis"
+entry = "ref/monster/nependis"
+
+[[books.chapters.children]]
+title = "Nightgaunt"
+entry = "ref/monster/nightgaunt"
+
+[[books.chapters.children]]
+title = "Nightmare Creature"
+entry = "ref/carried/bestiary-4/monsters/nightmare-creature"
+
+[[books.chapters.children.children]]
+title = "Nightmare Creature"
+entry = "ref/template/nightmare-creature"
+
+[[books.chapters.children]]
+title = "Ningyo"
+entry = "ref/monster/ningyo"
+
+[[books.chapters.children.children]]
+title = "Ningyo Flesh"
+entry = "ref/affliction/ningyo/ningyo-flesh"
+
+[[books.chapters.children]]
+title = "Nycar"
+entry = "ref/monster/nycar"
+
+[[books.chapters.children]]
+title = "Oceanid"
+entry = "ref/monster/oceanid"
+
+[[books.chapters.children]]
+title = "Oma"
+entry = "ref/monster/oma"
+
+[[books.chapters.children]]
+title = "Owb"
+entry = "ref/monster/owb"
+
+[[books.chapters.children]]
+title = "Pard"
+entry = "ref/monster/pard"
+
+[[books.chapters.children]]
+title = "Peluda"
+entry = "ref/monster/peluda"
+
+[[books.chapters.children]]
+title = "Phantom Armor"
+
+[[books.chapters.children.children]]
+title = "Guardian Phantom Armor"
+entry = "ref/monster/phantom-armor-guardian"
+
+[[books.chapters.children.children]]
+title = "Giant Phantom Armor"
+entry = "ref/monster/phantom-armor-giant"
+
+[[books.chapters.children]]
+title = "Pickled Punk"
+entry = "ref/monster/pickled-punk"
+
+[[books.chapters.children]]
+title = "Pipefox"
+entry = "ref/monster/pipefox"
+
+[[books.chapters.children]]
+title = "Pooka"
+entry = "ref/monster/pooka"
+
+[[books.chapters.children.children]]
+title = "Pooka Dust (Su)"
+entry = "ref/affliction/pooka/pooka-dust-su"
+
+[[books.chapters.children]]
+title = "Psychopomp"
+entry = "ref/family/psychopomp"
+
+[[books.chapters.children.children]]
+title = "Psychopomp, Catrina"
+entry = "ref/monster/psychopomp-catrina"
+
+[[books.chapters.children.children]]
+title = "Psychopomp, Morrigna"
+entry = "ref/monster/psychopomp-morrigna"
+
+[[books.chapters.children.children]]
+title = "Psychopomp, Nosoi"
+entry = "ref/monster/psychopomp-nosoi"
+
+[[books.chapters.children.children]]
+title = "Psychopomp, Vanth"
+entry = "ref/monster/psychopomp-vanth"
+
+[[books.chapters.children.children]]
+title = "Psychopomp, Yamaraj"
+entry = "ref/monster/psychopomp-yamaraj"
+
+[[books.chapters.children]]
+title = "Qallupilluk"
+entry = "ref/monster/qallupilluk"
+
+[[books.chapters.children]]
+title = "Rat King"
+entry = "ref/monster/rat-king"
+
+[[books.chapters.children.children]]
+title = "Bubonic plague"
+entry = "ref/affliction/rat-king/bubonic-plague"
+
+[[books.chapters.children]]
+title = "Ratling"
+entry = "ref/monster/ratling"
+
+[[books.chapters.children]]
+title = "Rokurokubi"
+entry = "ref/monster/rokurokubi"
+
+[[books.chapters.children.children]]
+title = "Rokurokubi's Curse (Su)"
+entry = "ref/affliction/rokurokubi/rokurokubis-curse-su"
+
+[[books.chapters.children]]
+title = "Rukh"
+entry = "ref/monster/rukh"
+
+[[books.chapters.children.children]]
+title = "Juvenile Rukh"
+entry = "ref/monster/rukh-juvenile-rukh"
+
+[[books.chapters.children]]
+title = "Saguaroi"
+entry = "ref/monster/saguaroi"
+
+[[books.chapters.children]]
+title = "Samsaran"
+entry = "ref/monster/samsaran"
+
+[[books.chapters.children.children]]
+title = "Samsaran"
+entry = "ref/race/samsaran"
+
+[[books.chapters.children]]
+title = "Sayona"
+entry = "ref/monster/sayona"
+
+[[books.chapters.children]]
+title = "Scorpion, Giant Emperor"
+entry = "ref/monster/scorpion-giant-emperor-scorpion"
+
+[[books.chapters.children]]
+title = "Scorpion, Greensting"
+entry = "ref/carried/ultimate-magic/monsters/new-familiars/small-and-vermin-familiars/familiar/scorpion/greensting"
+
+[[books.chapters.children]]
+title = "Sea Cat"
+entry = "ref/monster/sea-cat"
+
+[[books.chapters.children]]
+title = "Giant Seahorse"
+entry = "ref/monster/seahorse-giant-seahorse"
+
+[[books.chapters.children]]
+title = "Killer Seahorse"
+entry = "ref/monster/seahorse-killer-seahorse"
+
+[[books.chapters.children]]
+title = "Seaweed Siren"
+entry = "ref/monster/seaweed-siren"
+
+[[books.chapters.children]]
+title = "Selkie"
+entry = "ref/monster/selkie"
+
+[[books.chapters.children]]
+title = "Seps"
+entry = "ref/monster/seps"
+
+[[books.chapters.children.children]]
+title = "Seps, Juvenile"
+entry = "ref/monster/seps-juvenile-seps"
+
+[[books.chapters.children]]
+title = "Shadow Creature"
+entry = "ref/carried/bestiary-4/monsters/shadow-creature"
+
+[[books.chapters.children.children]]
+title = "Shadow"
+entry = "ref/template/shadow"
+
+[[books.chapters.children.children]]
+title = "Shadow Lord"
+entry = "ref/template/shadow-lord"
+
+[[books.chapters.children.children]]
+title = "Shadow Roper (Shadow Creature)"
+entry = "ref/monster/shadow-creature-shadow-roper"
+
+[[books.chapters.children]]
+title = "Shard Slag"
+entry = "ref/monster/shard-slag"
+
+[[books.chapters.children]]
+title = "Shark, Bull"
+entry = "ref/monster/shark-bull-shark"
+
+[[books.chapters.children]]
+title = "Shark, Great White"
+entry = "ref/monster/shark-great-white-shark"
+
+[[books.chapters.children]]
+title = "Shobhad"
+entry = "ref/monster/shobhad"
+
+[[books.chapters.children]]
+title = "Shredskin"
+entry = "ref/monster/shredskin"
+
+[[books.chapters.children]]
+title = "Shriezyx"
+entry = "ref/monster/shriezyx"
+
+[[books.chapters.children]]
+title = "Shulsaga"
+entry = "ref/monster/shulsaga"
+
+[[books.chapters.children]]
+title = "Skinstitch"
+entry = "ref/monster/skinstitch"
+
+[[books.chapters.children.children]]
+title = "Construction"
+anchor = "construction"
+
+[[books.chapters.children.children.children]]
+title = "Skinstitch"
+entry = "ref/carried/bestiary-4/monsters/skinstitch/construction/skinstitch"
+
+[[books.chapters.children]]
+title = "Snallygaster"
+entry = "ref/monster/snallygaster"
+
+[[books.chapters.children]]
+title = "Soulbound Mannequin"
+entry = "ref/monster/soulbound-mannequin"
+
+[[books.chapters.children]]
+title = "Soulbound Shell"
+entry = "ref/monster/soulbound-shell"
+
+[[books.chapters.children.children]]
+title = "Construction"
+anchor = "construction"
+
+[[books.chapters.children.children.children]]
+title = "Soulbound Shell"
+entry = "ref/carried/bestiary-4/monsters/soulbound-shell/construction/soulbound-shell"
+
+[[books.chapters.children]]
+title = "Soulsliver"
+entry = "ref/monster/soulsliver"
+
+[[books.chapters.children]]
+title = "Spawn of Yog-Sothoth"
+entry = "ref/monster/spawn-of-yog-sothoth"
+
+[[books.chapters.children]]
+title = "Spider, Goliath"
+entry = "ref/monster/spider-goliath-spider"
+
+[[books.chapters.children]]
+title = "Spider, Scarlet"
+entry = "ref/carried/bestiary-4/monsters/spider/scarlet"
+
+[[books.chapters.children]]
+title = "Spring-Heeled Jack"
+entry = "ref/monster/spring-heeled-jack"
+
+[[books.chapters.children]]
+title = "Star-Spawn of Cthulhu"
+entry = "ref/monster/star-spawn-of-cthulhu"
+
+[[books.chapters.children]]
+title = "Svartalfar"
+entry = "ref/monster/svartalfar"
+
+[[books.chapters.children]]
+title = "Swan Maiden"
+entry = "ref/monster/swan-maiden"
+
+[[books.chapters.children]]
+title = "Swan, Trumpeter"
+entry = "ref/monster/swan-trumpeter-swan"
+
+[[books.chapters.children]]
+title = "Taniniver"
+entry = "ref/monster/taniniver"
+
+[[books.chapters.children]]
+title = "Tiberolith"
+entry = "ref/monster/tiberolith"
+
+[[books.chapters.children.children]]
+title = "Construction"
+anchor = "construction"
+
+[[books.chapters.children.children.children]]
+title = "Tiberolith"
+entry = "ref/carried/bestiary-4/monsters/tiberolith/construction/tiberolith"
+
+[[books.chapters.children]]
+title = "Tikbalang"
+entry = "ref/monster/tikbalang"
+
+[[books.chapters.children]]
+title = "Fomorian Titan (Titan)"
+entry = "ref/monster/titan-fomorian-titan-mythic"
+
+[[books.chapters.children]]
+title = "Tooth Fairy"
+entry = "ref/monster/tooth-fairy"
+
+[[books.chapters.children]]
+title = "Tortoise, Giant"
+entry = "ref/monster/tortoise-giant-tortoise"
+
+[[books.chapters.children]]
+title = "Tortoise, Immense"
+entry = "ref/monster/tortoise-immense-tortoise"
+
+[[books.chapters.children]]
+title = "Trox"
+entry = "ref/monster/trox"
+
+[[books.chapters.children.children]]
+title = "Trox"
+entry = "ref/race/trox"
+
+[[books.chapters.children]]
+title = "Tunche"
+entry = "ref/monster/tunche"
+
+[[books.chapters.children]]
+title = "Tyrant Jelly"
+entry = "ref/monster/tyrant-jelly-mythic"
+
+[[books.chapters.children]]
+title = "Udaeus"
+entry = "ref/monster/udaeus-mythic"
+
+[[books.chapters.children]]
+title = "Vampire, Nosferatu"
+entry = "ref/carried/bestiary-4/monsters/vampire/nosferatu"
+
+[[books.chapters.children.children]]
+title = "Nosferatu"
+entry = "ref/template/nosferatu"
+
+[[books.chapters.children]]
+title = "Vouivre"
+entry = "ref/monster/vouivre"
+
+[[books.chapters.children]]
+title = "Walrus"
+entry = "ref/monster/walrus-walrus-b4"
+
+[[books.chapters.children]]
+title = "Walrus, Emperor"
+entry = "ref/monster/walrus-emperor-walrus"
+
+[[books.chapters.children]]
+title = "Warsworn"
+entry = "ref/monster/warsworn"
+
+[[books.chapters.children]]
+title = "Water Strider, Giant"
+entry = "ref/monster/water-strider-giant-water-strider"
+
+[[books.chapters.children]]
+title = "Water Strider, Nymph"
+entry = "ref/monster/water-strider-nymph-water-strider"
+
+[[books.chapters.children]]
+title = "Wayang"
+entry = "ref/monster/wayang"
+
+[[books.chapters.children.children]]
+title = "Wayang"
+entry = "ref/race/wayang"
+
+[[books.chapters.children]]
+title = "Weasel, Dire"
+entry = "ref/monster/weasel-dire-weasel"
+
+[[books.chapters.children]]
+title = "Weasel, Giant"
+entry = "ref/monster/weasel-giant-weasel"
+
+[[books.chapters.children]]
+title = "Weedwhip"
+entry = "ref/monster/weedwhip"
+
+[[books.chapters.children]]
+title = "Wickerman"
+entry = "ref/monster/wickerman"
+
+[[books.chapters.children.children]]
+title = "Construction"
+anchor = "construction"
+
+[[books.chapters.children.children.children]]
+title = "Wickerman"
+entry = "ref/carried/bestiary-4/monsters/wickerman/construction/wickerman"
+
+[[books.chapters.children]]
+title = "Wikkawak"
+entry = "ref/monster/wikkawak"
+
+[[books.chapters.children]]
+title = "Winter Hag"
+entry = "ref/monster/hag-winter-hag"
+
+[[books.chapters.children]]
+title = "Wyrwood"
+entry = "ref/monster/wyrwood"
+
+[[books.chapters.children.children]]
+title = "Wyrwood"
+entry = "ref/race/wyrwood"
+
+[[books.chapters.children]]
+title = "Wyvaran"
+entry = "ref/monster/wyvaran"
+
+[[books.chapters.children.children]]
+title = "Wyvaran"
+entry = "ref/race/wyvaran"
+
+[[books.chapters.children]]
+title = "Xanthos"
+entry = "ref/monster/xanthos"
+
+[[books.chapters.children]]
+title = "Xenopterid"
+entry = "ref/monster/xenopterid"
+
+[[books.chapters.children]]
+title = "Yaoguai"
+entry = "ref/monster/yaoguai"
+
+[[books.chapters.children]]
+title = "Ypotryll"
+entry = "ref/monster/ypotryll"
+
+[[books.chapters.children]]
+title = "Zombie Lord"
+entry = "ref/carried/bestiary-4/monsters/zombie-lord"
+
+[[books.chapters.children.children]]
+title = "Zombie Lord"
+entry = "ref/template/zombie-lord"
+
+[[books.chapters.children]]
+title = "Zomok"
+entry = "ref/monster/zomok"
+
+[[books.chapters]]
+title = "Universal Monster Rules"
+collapse = true
+
+[[books.chapters.children]]
+title = "Amazing Initiative"
+entry = "ref/umr/amazing-initiative"
+
+[[books.chapters.children]]
+title = "Blood Rage"
+entry = "ref/umr/blood-rage"
+
+[[books.chapters.children.children]]
+title = "Blood Rage"
+entry = "ref/rule/umr-blood-rage/blood-rage"
+
+[[books.chapters.children]]
+title = "Curse of Lycanthropy"
+entry = "ref/umr/curse-of-lycanthropy"
+
+[[books.chapters.children.children]]
+title = "Curse of Lycanthropy"
+entry = "ref/rule/umr-curse-of-lycanthropy/curse-of-lycanthropy"
+
+[[books.chapters.children]]
+title = "Demon Lord Traits"
+entry = "ref/umr/demon-lord-traits"
+
+[[books.chapters.children]]
+title = "Display of Strength"
+entry = "ref/umr/display-of-strength"
+
+[[books.chapters.children]]
+title = "Empyreal Lord Traits"
+entry = "ref/umr/empyreal-lord-traits"
+
+[[books.chapters.children]]
+title = "Engulf"
+entry = "ref/umr/engulf"
+
+[[books.chapters.children.children]]
+title = "Engulf"
+entry = "ref/rule/umr-engulf/engulf"
+
+[[books.chapters.children]]
+title = "Formian Traits"
+entry = "ref/umr/formian-traits"
+
+[[books.chapters.children]]
+title = "Mythic Immortality"
+entry = "ref/umr/mythic-immortality"
+
+[[books.chapters.children]]
+title = "Natural Invisibility"
+entry = "ref/umr/natural-invisibility"
+
+[[books.chapters.children.children]]
+title = "Natural Invisibility"
+entry = "ref/rule/umr-natural-invisibility/natural-invisibility"
+
+[[books.chapters.children]]
+title = "Plantbringer"
+entry = "ref/umr/plantbringer"
+
+[[books.chapters.children]]
+title = "Push"
+entry = "ref/umr/push"
+
+[[books.chapters.children.children]]
+title = "Push"
+entry = "ref/rule/umr-push/push"
+
+[[books.chapters.children]]
+title = "Recuperation"
+entry = "ref/umr/recuperation"
+
+[[books.chapters.children]]
+title = "Sound Mimicry"
+entry = "ref/umr/sound-mimicry"
+
+[[books.chapters.children.children]]
+title = "Sound Mimicry"
+entry = "ref/rule/umr-sound-mimicry/sound-mimicry"
+
+[[books.chapters.children]]
+title = "Sunlight Powerlessness"
+entry = "ref/umr/sunlight-powerlessness"
+
+[[books.chapters.children.children]]
+title = "Sunlight Powerlessness"
+entry = "ref/rule/umr-sunlight-powerlessness/sunlight-powerlessness"
+
+[[books.chapters.children]]
+title = "Unnatural Aura"
+entry = "ref/umr/unnatural-aura"
+
+[[books.chapters.children]]
+title = "Unstoppable"
+entry = "ref/umr/unstoppable"
+
+[[books.chapters.children]]
+title = "Water Dependency"
+entry = "ref/umr/water-dependency"
+
+[[books.chapters.children.children]]
+title = "Water Dependency"
+entry = "ref/rule/umr-water-dependency/water-dependency"

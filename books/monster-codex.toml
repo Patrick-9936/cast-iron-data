@@ -1,0 +1,2878 @@
+[[books]]
+source = "monster-codex"
+title = "Monster Codex"
+basis = "The 20 race chapter titles, their order, and their first pages are checked against the printed contents page of the Monster Codex. Introduction text is not in the dataset. See docs/research/book-order-evidence.md. Canonical ids were substituted through the reviewed alias map; chapters and order are unchanged."
+review = ["Canonical ids were substituted through sources/canonical/id-map.toml. A legacy entry with no installed target is omitted and listed in coverage."]
+
+[[books.chapters]]
+title = "Boggards"
+entry = "ref/carried/monster-codex/rules/boggards"
+
+[[books.chapters.children]]
+title = "Boggards"
+entry = "ref/carried/monster-codex/rules/boggards/boggards"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/boggards/new-rules"
+
+[[books.chapters.children.children]]
+title = "Boggard Feats"
+
+[[books.chapters.children.children.children]]
+title = "Extra Croaking"
+entry = "ref/feat/extra-croaking"
+
+[[books.chapters.children.children.children]]
+title = "Powerful Tongue"
+entry = "ref/feat/powerful-tongue"
+
+[[books.chapters.children.children.children]]
+title = "Sonic Croak"
+entry = "ref/feat/sonic-croak"
+
+[[books.chapters.children.children.children]]
+title = "Stunning Croak"
+entry = "ref/feat/stunning-croak"
+
+[[books.chapters.children.children.children]]
+title = "Throat Pouch"
+entry = "ref/feat/throat-pouch"
+
+[[books.chapters.children.children]]
+title = "Boggard Spell"
+anchor = "boggard-spell"
+
+[[books.chapters.children.children.children]]
+title = "Aura of Cannibalism"
+entry = "ref/spell/aura-of-cannibalism"
+
+[[books.chapters.children.children]]
+title = "Boggard Magic Items"
+anchor = "boggard-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Cap of Enervation"
+entry = "ref/magic-wondrous/cap-of-enervation"
+
+[[books.chapters.children.children.children]]
+title = "Venomsweat Salve"
+entry = "ref/magic-wondrous/venomsweat-salve"
+
+[[books.chapters.children]]
+title = "Example Boggards"
+entry = "ref/carried/monster-codex/rules/boggards/example-boggards"
+
+[[books.chapters.children.children]]
+title = "Boggard Fighters"
+anchor = "boggard-fighters"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Brute"
+entry = "ref/monster/boggard-boggard-brute"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Champion"
+entry = "ref/monster/boggard-boggard-champion"
+
+[[books.chapters.children.children]]
+title = "Boggard Oddities"
+anchor = "boggard-oddities"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Farcroaker"
+entry = "ref/monster/boggard-boggard-farcroaker"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Abyssal Warrior"
+entry = "ref/monster/boggard-boggard-abyssal-warrior"
+
+[[books.chapters.children.children]]
+title = "Boggard Barbarians"
+anchor = "boggard-barbarians"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Savage"
+entry = "ref/monster/boggard-boggard-savage"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Scarred One"
+entry = "ref/monster/boggard-boggard-scarred-one"
+
+[[books.chapters.children.children]]
+title = "Boggard Mystics"
+anchor = "boggard-mystics"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Swampseer"
+entry = "ref/monster/boggard-boggard-swampseer"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Prophet"
+entry = "ref/monster/boggard-boggard-prophet"
+
+[[books.chapters.children.children]]
+title = "Boggard Rangers"
+anchor = "boggard-rangers"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Hunter"
+entry = "ref/monster/boggard-boggard-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Stalker"
+entry = "ref/monster/boggard-boggard-stalker"
+
+[[books.chapters.children.children]]
+title = "Boggard Priest-King"
+anchor = "boggard-priest-king"
+
+[[books.chapters.children.children.children]]
+title = "Boggard Priest-King"
+entry = "ref/monster/boggard-boggard-priest-king"
+
+[[books.chapters.children.children]]
+title = "Bogwiggle"
+anchor = "bogwiggle"
+
+[[books.chapters.children.children.children]]
+title = "Bogwiggle"
+entry = "ref/monster/bogwiggle"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/boggards/encounters"
+
+[[books.chapters]]
+title = "Bugbears"
+entry = "ref/carried/monster-codex/rules/bugbears"
+
+[[books.chapters.children]]
+title = "Bugbears"
+entry = "ref/carried/monster-codex/rules/bugbears/bugbears"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/bugbears/new-rules"
+
+[[books.chapters.children.children]]
+title = "Bugbear Archetype"
+
+[[books.chapters.children.children.children]]
+title = "Fearmonger"
+entry = "ref/arc-antipaladin/fearmonger"
+
+[[books.chapters.children.children]]
+title = "Bugbear Feats"
+
+[[books.chapters.children.children.children]]
+title = "Bushwhack"
+entry = "ref/feat/bushwhack"
+
+[[books.chapters.children.children.children]]
+title = "Hurtful"
+entry = "ref/feat/hurtful"
+
+[[books.chapters.children.children.children]]
+title = "Pile On"
+entry = "ref/feat/pile-on"
+
+[[books.chapters.children.children.children]]
+title = "Shocking Bellow"
+entry = "ref/feat/shocking-bellow"
+
+[[books.chapters.children.children.children]]
+title = "Staggering Blow"
+entry = "ref/feat/staggering-blow"
+
+[[books.chapters.children.children.children]]
+title = "Strangler (MC)"
+entry = "ref/feat/strangler-mc"
+
+[[books.chapters.children.children.children]]
+title = "Visceral Threat"
+entry = "ref/feat/visceral-threat"
+
+[[books.chapters.children.children]]
+title = "Bugbear Spell"
+anchor = "bugbear-spell"
+
+[[books.chapters.children.children.children]]
+title = "Isolate"
+entry = "ref/spell/isolate"
+
+[[books.chapters.children.children]]
+title = "Bugbear Magic Items"
+anchor = "bugbear-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Elixir of Oppression"
+entry = "ref/magic-wondrous/elixir-of-oppression"
+
+[[books.chapters.children.children.children]]
+title = "Horror Dust"
+entry = "ref/magic-wondrous/horror-dust"
+
+[[books.chapters.children]]
+title = "Example Bugbears"
+entry = "ref/carried/monster-codex/rules/bugbears/example-bugbears"
+
+[[books.chapters.children.children]]
+title = "Bugbear Cannibals"
+anchor = "bugbear-cannibals"
+
+[[books.chapters.children.children.children]]
+title = "Bugbear Gnasher"
+entry = "ref/monster/bugbear-bugbear-gnasher"
+
+[[books.chapters.children.children.children]]
+title = "Bugbear Flesh Glutton"
+entry = "ref/monster/bugbear-bugbear-flesh-glutton"
+
+[[books.chapters.children.children]]
+title = "Bugbear Hunters"
+anchor = "bugbear-hunters"
+
+[[books.chapters.children.children.children]]
+title = "Bugbear Stalker"
+entry = "ref/monster/bugbear-bugbear-stalker"
+
+[[books.chapters.children.children.children]]
+title = "Bugbear Ambusher"
+entry = "ref/monster/bugbear-bugbear-ambusher"
+
+[[books.chapters.children.children]]
+title = "Bugbear Cultist"
+anchor = "bugbear-cultist"
+
+[[books.chapters.children.children.children]]
+title = "Bugbear Cultist"
+entry = "ref/monster/bugbear-bugbear-cultist"
+
+[[books.chapters.children.children]]
+title = "Bugbear Sneaks"
+anchor = "bugbear-sneaks"
+
+[[books.chapters.children.children.children]]
+title = "Bugbear Lurker"
+entry = "ref/monster/bugbear-bugbear-lurker"
+
+[[books.chapters.children.children.children]]
+title = "Bugbear Shadow Sneak"
+entry = "ref/monster/bugbear-bugbear-shadow-sneak"
+
+[[books.chapters.children.children]]
+title = "Bugbear Bloodmage"
+entry = "ref/carried/monster-codex/rules/bugbears/bugbear-bloodmage"
+
+[[books.chapters.children.children.children]]
+title = "Bugbear Bloodmage"
+entry = "ref/monster/bugbear-bugbear-bloodmage"
+
+[[books.chapters.children.children]]
+title = "Bugbear Tyrant"
+entry = "ref/carried/monster-codex/rules/bugbears/bugbear-tyrant"
+
+[[books.chapters.children.children.children]]
+title = "Bugbear Tyrant"
+entry = "ref/monster/bugbear-bugbear-tyrant"
+
+[[books.chapters.children.children.children]]
+title = "Frightful Haunter"
+anchor = "frightful-haunter"
+
+[[books.chapters.children.children.children.children]]
+title = "Frightful Haunter"
+entry = "ref/monster/frightful-haunter"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/bugbears/encounters"
+
+[[books.chapters]]
+title = "Drow"
+entry = "ref/carried/monster-codex/rules/drow"
+
+[[books.chapters.children]]
+title = "Drow"
+entry = "ref/carried/monster-codex/rules/drow/drow"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/drow/new-rules"
+
+[[books.chapters.children.children]]
+title = "Drow Alchemist Discoveries"
+
+[[books.chapters.children.children.children]]
+title = "Blackstar Bomb"
+entry = "ref/discovery/blackstar-bomb"
+
+[[books.chapters.children.children.children]]
+title = "Void Bomb"
+entry = "ref/discovery/void-bomb"
+
+[[books.chapters.children.children]]
+title = "Drow Feats"
+
+[[books.chapters.children.children.children]]
+title = "Angelbane Strike"
+entry = "ref/feat/angelbane-strike"
+
+[[books.chapters.children.children.children]]
+title = "Shadow Shroud"
+entry = "ref/feat/shadow-shroud"
+
+[[books.chapters.children.children.children]]
+title = "Sniper's Lantern"
+entry = "ref/feat/snipers-lantern"
+
+[[books.chapters.children.children]]
+title = "Drow Equipment"
+anchor = "drow-equipment"
+
+[[books.chapters.children.children.children]]
+title = "Light-Killer's Grease"
+entry = "ref/eq-misc/light-killers-grease"
+
+[[books.chapters.children.children.children]]
+title = "Spiderdraw"
+entry = "ref/eq-misc/spiderdraw"
+
+[[books.chapters.children.children]]
+title = "Drow Magic Items"
+anchor = "drow-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Caver's Bolt"
+entry = "ref/magic-wondrous/cavers-bolt"
+
+[[books.chapters.children.children.children]]
+title = "Extractor's Gloves"
+entry = "ref/magic-wondrous/extractors-gloves"
+
+[[books.chapters.children]]
+title = "Example Drow"
+entry = "ref/carried/monster-codex/rules/drow/example-drow"
+
+[[books.chapters.children.children]]
+title = "Drow Scouts"
+anchor = "drow-scouts"
+
+[[books.chapters.children.children.children]]
+title = "Drow Scout"
+entry = "ref/monster/drow-drow-scout"
+
+[[books.chapters.children.children.children]]
+title = "Drow Master Scout"
+entry = "ref/monster/drow-drow-master-scout"
+
+[[books.chapters.children.children]]
+title = "Drow House Soldiers"
+anchor = "drow-house-soldiers"
+
+[[books.chapters.children.children.children]]
+title = "Drow House Guard"
+entry = "ref/monster/drow-drow-house-guard"
+
+[[books.chapters.children.children.children]]
+title = "Drow House Captain"
+entry = "ref/monster/drow-drow-house-captain"
+
+[[books.chapters.children.children]]
+title = "Drow Priest"
+anchor = "drow-priest"
+
+[[books.chapters.children.children.children]]
+title = "Drow Priest"
+entry = "ref/monster/drow-drow-priest"
+
+[[books.chapters.children.children]]
+title = "Drow Demonic Champion"
+anchor = "drow-demonic-champion"
+
+[[books.chapters.children.children.children]]
+title = "Drow Demonic Champion"
+entry = "ref/monster/drow-drow-demonic-champion"
+
+[[books.chapters.children.children]]
+title = "Drow Poisoner"
+anchor = "drow-poisoner"
+
+[[books.chapters.children.children.children]]
+title = "Drow Poisoner"
+entry = "ref/monster/drow-drow-poisoner"
+
+[[books.chapters.children.children]]
+title = "Drow Matron"
+anchor = "drow-matron"
+
+[[books.chapters.children.children.children]]
+title = "Drow Matron"
+entry = "ref/monster/drow-drow-matron"
+
+[[books.chapters.children.children]]
+title = "Abrakarn Viper"
+anchor = "abrakarn-viper"
+
+[[books.chapters.children.children.children]]
+title = "Abrakarn Viper"
+entry = "ref/monster/abrakarn-viper"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/drow/encounters"
+
+[[books.chapters]]
+title = "Duergar"
+entry = "ref/carried/monster-codex/rules/duergar"
+
+[[books.chapters.children]]
+title = "Duergar"
+entry = "ref/race/duergar"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/duergar/new-rules"
+
+[[books.chapters.children.children]]
+title = "Duergar Feats"
+
+[[books.chapters.children.children.children]]
+title = "Gray Dwarf Magic"
+entry = "ref/feat/gray-dwarf-magic"
+
+[[books.chapters.children.children.children]]
+title = "Innate Flexibility"
+entry = "ref/feat/innate-flexibility"
+
+[[books.chapters.children.children.children]]
+title = "Tough as Iron"
+entry = "ref/feat/tough-as-iron"
+
+[[books.chapters.children.children]]
+title = "Duergar Equipment"
+anchor = "duergar-equipment"
+
+[[books.chapters.children.children.children]]
+title = "Bolas Bolts"
+entry = "ref/eq-weapon/bolas-bolts"
+
+[[books.chapters.children.children.children]]
+title = "Slaver's Crossbow"
+entry = "ref/carried/monster-codex/rules/duergar/new-rules/duergar-equipment/slavers-crossbow"
+
+[[books.chapters.children.children.children.children]]
+title = "Heavy slaver's crossbow"
+entry = "ref/eq-weapon/heavy-slavers-crossbow"
+
+[[books.chapters.children.children.children.children]]
+title = "Light slaver's crossbow"
+entry = "ref/eq-weapon/light-slavers-crossbow"
+
+[[books.chapters.children.children]]
+title = "Duergar Spells"
+anchor = "duergar-spells"
+
+[[books.chapters.children.children.children]]
+title = "Control Vermin"
+entry = "ref/spell/control-vermin"
+
+[[books.chapters.children.children.children]]
+title = "Dust Ward"
+entry = "ref/spell/dust-ward"
+
+[[books.chapters.children.children.children]]
+title = "Ironskin"
+entry = "ref/spell/ironskin"
+
+[[books.chapters.children.children]]
+title = "Duergar Magic Item"
+anchor = "duergar-magic-item"
+
+[[books.chapters.children.children.children]]
+title = "Headband of Vermin Control"
+entry = "ref/magic-wondrous/headband-of-vermin-control"
+
+[[books.chapters.children]]
+title = "Example Duergar"
+entry = "ref/carried/monster-codex/rules/duergar/example-duergar"
+
+[[books.chapters.children.children]]
+title = "Duergar Rangers"
+anchor = "duergar-rangers"
+
+[[books.chapters.children.children.children]]
+title = "Duergar Sharpshooter"
+entry = "ref/monster/duergar-duergar-sharpshooter"
+
+[[books.chapters.children.children.children]]
+title = "Duergar Lieutenant"
+entry = "ref/monster/duergar-duergar-lieutenant"
+
+[[books.chapters.children.children]]
+title = "Duergar Rogues"
+anchor = "duergar-rogues"
+
+[[books.chapters.children.children.children]]
+title = "Duergar Slaver"
+entry = "ref/monster/duergar-duergar-slaver"
+
+[[books.chapters.children.children.children]]
+title = "Duergar Taskmaster"
+entry = "ref/monster/duergar-duergar-taskmaster"
+
+[[books.chapters.children.children]]
+title = "Duergar Bombardier"
+anchor = "duergar-bombardier"
+
+[[books.chapters.children.children.children]]
+title = "Duergar Bombardier"
+entry = "ref/monster/duergar-duergar-bombardier"
+
+[[books.chapters.children.children]]
+title = "Duergar Monks"
+anchor = "duergar-monks"
+
+[[books.chapters.children.children.children]]
+title = "Duergar Anvil"
+entry = "ref/monster/duergar-duergar-anvil"
+
+[[books.chapters.children.children.children]]
+title = "Duergar Hammer"
+entry = "ref/monster/duergar-duergar-hammer"
+
+[[books.chapters.children.children]]
+title = "Duergar Soldiers"
+anchor = "duergar-soldiers"
+
+[[books.chapters.children.children.children]]
+title = "Duergar Sergeant"
+entry = "ref/monster/duergar-duergar-sergeant"
+
+[[books.chapters.children.children.children]]
+title = "Duergar Captain"
+entry = "ref/monster/duergar-duergar-captain"
+
+[[books.chapters.children.children]]
+title = "Duergar High Priest"
+anchor = "duergar-high-priest"
+
+[[books.chapters.children.children.children]]
+title = "Duergar High Priest"
+entry = "ref/monster/duergar-duergar-high-priest"
+
+[[books.chapters.children.children]]
+title = "Beetles"
+entry = "ref/carried/monster-codex/rules/duergar/beetles"
+
+[[books.chapters.children.children.children]]
+title = "Dark Spitter Beetle"
+anchor = "dark-spitter-beetle"
+
+[[books.chapters.children.children.children.children]]
+title = "Dark Spitter Beetle"
+entry = "ref/monster/beetle-dark-spitter-beetle"
+
+[[books.chapters.children.children.children]]
+title = "Juggernaut Beetle"
+anchor = "juggernaut-beetle"
+
+[[books.chapters.children.children.children.children]]
+title = "Juggernaut Beetle"
+entry = "ref/monster/beetle-juggernaut-beetle"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/duergar/encounters"
+
+[[books.chapters]]
+title = "Fire Giants"
+entry = "ref/carried/monster-codex/rules/fire-giants"
+
+[[books.chapters.children]]
+title = "Fire Giants"
+entry = "ref/carried/monster-codex/rules/fire-giants/fire-giants"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/fire-giants/new-rules"
+
+[[books.chapters.children.children]]
+title = "Fire Giant Oracle Mystery"
+
+[[books.chapters.children.children.children]]
+title = "Apocalypse"
+entry = "ref/mystery/apocalypse"
+
+[[books.chapters.children.children]]
+title = "Fire Giant Feat"
+
+[[books.chapters.children.children.children]]
+title = "Smoking Boulder"
+entry = "ref/feat/smoking-boulder"
+
+[[books.chapters.children.children]]
+title = "Fire Giant Magic Items"
+anchor = "fire-giant-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Burning"
+entry = "ref/magic-enh/burning"
+
+[[books.chapters.children.children.children]]
+title = "Steaming"
+entry = "ref/magic-enh/steaming"
+
+[[books.chapters.children]]
+title = "Example Fire Giants"
+entry = "ref/carried/monster-codex/rules/fire-giants/example-fire-giants"
+
+[[books.chapters.children.children]]
+title = "Fire Giant Vanguard"
+anchor = "fire-giant-vanguard"
+
+[[books.chapters.children.children.children]]
+title = "Fire Giant Glaive"
+entry = "ref/monster/giant-fire-fire-giant-glaive"
+
+[[books.chapters.children.children.children]]
+title = "Fire Giant Strongarm"
+entry = "ref/monster/giant-fire-fire-giant-strongarm"
+
+[[books.chapters.children.children]]
+title = "Fire Giant Lieutenant"
+anchor = "fire-giant-lieutenant"
+
+[[books.chapters.children.children.children]]
+title = "Fire Giant Lieutenant"
+entry = "ref/monster/giant-fire-fire-giant-lieutenant"
+
+[[books.chapters.children.children]]
+title = "Fire Giant Magmablade"
+anchor = "fire-giant-magmablade"
+
+[[books.chapters.children.children.children]]
+title = "Fire Giant Magmablade"
+entry = "ref/monster/giant-fire-fire-giant-magmablade"
+
+[[books.chapters.children.children]]
+title = "Fire Giant Doombringer"
+anchor = "fire-giant-doombringer"
+
+[[books.chapters.children.children.children]]
+title = "Fire Giant Doombringer"
+entry = "ref/monster/giant-fire-fire-giant-doombringer"
+
+[[books.chapters.children.children]]
+title = "Fire Giant Queen"
+anchor = "fire-giant-queen"
+
+[[books.chapters.children.children.children]]
+title = "Fire Giant Queen"
+entry = "ref/monster/giant-fire-fire-giant-queen"
+
+[[books.chapters.children.children]]
+title = "Fire Giant King"
+anchor = "fire-giant-king"
+
+[[books.chapters.children.children.children]]
+title = "Fire Giant King"
+entry = "ref/monster/giant-fire-fire-giant-king"
+
+[[books.chapters.children.children]]
+title = "Steam Hog"
+entry = "ref/carried/monster-codex/rules/fire-giants/steam-hog"
+
+[[books.chapters.children.children.children]]
+title = "Steam Hog"
+entry = "ref/monster/steam-hog"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/fire-giants/encounters"
+
+[[books.chapters]]
+title = "Frost Giants"
+entry = "ref/carried/monster-codex/rules/frost-giants"
+
+[[books.chapters.children]]
+title = "Frost Giants"
+entry = "ref/carried/monster-codex/rules/frost-giants/frost-giants"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/frost-giants/new-rules"
+
+[[books.chapters.children.children]]
+title = "Frost Giant Feats"
+
+[[books.chapters.children.children.children]]
+title = "Ancestral Enmity"
+entry = "ref/feat/ancestral-enmity"
+
+[[books.chapters.children.children.children]]
+title = "Awesome Charge"
+entry = "ref/feat/awesome-charge"
+
+[[books.chapters.children.children.children]]
+title = "Born of Frost"
+entry = "ref/feat/born-of-frost"
+
+[[books.chapters.children.children.children]]
+title = "Chilled Rock"
+entry = "ref/feat/chilled-rock"
+
+[[books.chapters.children.children.children]]
+title = "Cleaving Sweep"
+entry = "ref/feat/cleaving-sweep"
+
+[[books.chapters.children.children.children]]
+title = "Icy Stare"
+entry = "ref/feat/icy-stare"
+
+[[books.chapters.children.children.children]]
+title = "Sure on Ice"
+entry = "ref/feat/sure-on-ice"
+
+[[books.chapters.children.children]]
+title = "Frost Giant Spells"
+anchor = "frost-giant-spells"
+
+[[books.chapters.children.children.children]]
+title = "Ice Slick"
+entry = "ref/spell/ice-slick"
+
+[[books.chapters.children.children.children]]
+title = "Magic Boulder"
+entry = "ref/spell/magic-boulder"
+
+[[books.chapters.children.children]]
+title = "Frost Giant Magic Items"
+anchor = "frost-giant-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Fog-Cutting Lenses"
+entry = "ref/magic-wondrous/fog-cutting-lenses"
+
+[[books.chapters.children.children.children]]
+title = "Frostblood Axe"
+entry = "ref/magic-weapon/frostblood-axe"
+
+[[books.chapters.children.children.children]]
+title = "Irongrip Gauntlets"
+entry = "ref/magic-wondrous/irongrip-gauntlets"
+
+[[books.chapters.children.children.children]]
+title = "Winter Wolf Runetooth"
+entry = "ref/magic-wondrous/winter-wolf-runetooth"
+
+[[books.chapters.children]]
+title = "Example Frost Giants"
+entry = "ref/carried/monster-codex/rules/frost-giants/example-frost-giants"
+
+[[books.chapters.children.children]]
+title = "Frost Giant Raider"
+anchor = "frost-giant-raider"
+
+[[books.chapters.children.children.children]]
+title = "Frost Giant Raider"
+entry = "ref/monster/giant-frost-frost-giant-raider"
+
+[[books.chapters.children.children]]
+title = "Frost Giant Rangers"
+anchor = "frost-giant-rangers"
+
+[[books.chapters.children.children.children]]
+title = "Frost Giant Hunter"
+entry = "ref/monster/giant-frost-frost-giant-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Frost Giant Elite Scout"
+entry = "ref/monster/giant-frost-frost-giant-elite-scout"
+
+[[books.chapters.children.children]]
+title = "Frost Giant Ice Mage"
+anchor = "frost-giant-ice-mage"
+
+[[books.chapters.children.children.children]]
+title = "Frost Giant Ice Mage"
+entry = "ref/monster/giant-frost-frost-giant-ice-mage"
+
+[[books.chapters.children.children]]
+title = "Frost Giant Battle Priest"
+anchor = "frost-giant-battle-priest"
+
+[[books.chapters.children.children.children]]
+title = "Frost Giant Battle Priest"
+entry = "ref/monster/giant-frost-frost-giant-battle-priest"
+
+[[books.chapters.children.children]]
+title = "Frost Giant Houndmaster"
+anchor = "frost-giant-houndmaster"
+
+[[books.chapters.children.children.children]]
+title = "Frost Giant Houndmaster"
+entry = "ref/monster/giant-frost-frost-giant-houndmaster"
+
+[[books.chapters.children.children]]
+title = "Frost Giant Jarl"
+anchor = "frost-giant-jarl"
+
+[[books.chapters.children.children.children]]
+title = "Frost Giant Jarl"
+entry = "ref/monster/giant-frost-frost-giant-jarl"
+
+[[books.chapters.children.children]]
+title = "Svathurim"
+entry = "ref/carried/monster-codex/rules/frost-giants/svathurim"
+
+[[books.chapters.children.children.children]]
+title = "Svathurim"
+entry = "ref/monster/svathurim"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/frost-giants/encounters"
+
+[[books.chapters]]
+title = "Ghouls"
+entry = "ref/carried/monster-codex/rules/ghouls"
+
+[[books.chapters.children]]
+title = "Ghouls"
+entry = "ref/carried/monster-codex/rules/ghouls/ghouls"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/ghouls/new-rules"
+
+[[books.chapters.children.children]]
+title = "Ghoul Sorcerer Bloodline"
+
+[[books.chapters.children.children.children]]
+title = "Ghoul"
+entry = "ref/sorcbloodline/ghoul"
+
+[[books.chapters.children.children]]
+title = "Ghoul Feats"
+
+[[books.chapters.children.children.children]]
+title = "Bag of Bones"
+entry = "ref/feat/bag-of-bones"
+
+[[books.chapters.children.children.children]]
+title = "Corpse Companion"
+entry = "ref/feat/corpse-companion"
+
+[[books.chapters.children.children.children]]
+title = "Old as Dust"
+entry = "ref/feat/old-as-dust"
+
+[[books.chapters.children.children.children]]
+title = "Sleeper"
+entry = "ref/feat/sleeper"
+
+[[books.chapters.children.children.children]]
+title = "Warren Digger"
+entry = "ref/feat/warren-digger"
+
+[[books.chapters.children.children]]
+title = "Ghoul Spells"
+anchor = "ghoul-spells"
+
+[[books.chapters.children.children.children]]
+title = "Fleshy Facade"
+entry = "ref/spell/fleshy-facade"
+
+[[books.chapters.children.children.children]]
+title = "Hungry Earth"
+entry = "ref/spell/hungry-earth"
+
+[[books.chapters.children]]
+title = "Example Ghouls"
+entry = "ref/carried/monster-codex/rules/ghouls/example-ghouls"
+
+[[books.chapters.children.children]]
+title = "Sneaky Ghouls"
+anchor = "sneaky-ghouls"
+
+[[books.chapters.children.children.children]]
+title = "Ghoul Creeper"
+entry = "ref/monster/ghoul-ghoul-creeper"
+
+[[books.chapters.children.children.children]]
+title = "Ghoul Stalker"
+entry = "ref/monster/ghoul-ghoul-stalker"
+
+[[books.chapters.children.children]]
+title = "Ghoul Huntsmaster"
+anchor = "ghoul-huntsmaster"
+
+[[books.chapters.children.children.children]]
+title = "Ghoul Huntsmaster"
+entry = "ref/monster/ghoul-ghoul-huntsmaster"
+
+[[books.chapters.children.children.children]]
+title = "Corpse Cat"
+entry = "ref/carried/monster-codex/rules/ghouls/example-ghouls/ghoul-huntsmaster/corpse-cat"
+
+[[books.chapters.children.children]]
+title = "Ghoul Commander"
+anchor = "ghoul-commander"
+
+[[books.chapters.children.children.children]]
+title = "Ghoul Commander"
+entry = "ref/monster/ghoul-ghoul-commander"
+
+[[books.chapters.children.children]]
+title = "Masked Murderer"
+anchor = "masked-murderer"
+
+[[books.chapters.children.children.children]]
+title = "Masked Murderer"
+entry = "ref/monster/ghoul-masked-murderer"
+
+[[books.chapters.children.children]]
+title = "Ancient Gravedigger"
+anchor = "ancient-gravedigger"
+
+[[books.chapters.children.children.children]]
+title = "Ancient Gravedigger"
+entry = "ref/monster/ghoul-ancient-gravedigger"
+
+[[books.chapters.children.children]]
+title = "Ghoul Monarch"
+anchor = "ghoul-monarch"
+
+[[books.chapters.children.children.children]]
+title = "Ghoul Monarch"
+entry = "ref/monster/ghoul-ghoul-monarch"
+
+[[books.chapters.children.children]]
+title = "Ghoul Beasts"
+anchor = "ghoul-beasts"
+
+[[books.chapters.children.children.children]]
+title = "Sootwing Bat"
+entry = "ref/monster/bat-sootwing-bat"
+
+[[books.chapters.children.children.children]]
+title = "Ghoul Hound"
+entry = "ref/monster/ghoul-hound"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/ghouls/encounters"
+
+[[books.chapters]]
+title = "Gnolls"
+entry = "ref/carried/monster-codex/rules/gnolls"
+
+[[books.chapters.children]]
+title = "Gnolls"
+entry = "ref/carried/monster-codex/rules/gnolls/gnolls"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/gnolls/new-rules"
+
+[[books.chapters.children.children]]
+title = "Gnoll Archetypes"
+
+[[books.chapters.children.children.children]]
+title = "Bouda"
+entry = "ref/arc-witch/bouda"
+
+[[books.chapters.children.children.children]]
+title = "Pack Rager"
+entry = "ref/arc-barbarian/pack-rager"
+
+[[books.chapters.children.children]]
+title = "Gnoll Feats"
+
+[[books.chapters.children.children.children]]
+title = "Coordinated Reposition"
+entry = "ref/feat/coordinated-reposition"
+
+[[books.chapters.children.children.children]]
+title = "Disarm Partner"
+entry = "ref/feat/disarm-partner"
+
+[[books.chapters.children.children.children]]
+title = "Improved Disarm Partner"
+entry = "ref/feat/improved-disarm-partner"
+
+[[books.chapters.children.children.children]]
+title = "Snapping Flank"
+entry = "ref/feat/snapping-flank"
+
+[[books.chapters.children.children.children]]
+title = "Snapping Jaws"
+entry = "ref/feat/snapping-jaws"
+
+[[books.chapters.children.children]]
+title = "Gnoll Equipment"
+anchor = "gnoll-equipment"
+
+[[books.chapters.children.children.children]]
+title = "Flindbar"
+entry = "ref/eq-weapon/flindbar"
+
+[[books.chapters.children.children]]
+title = "Gnoll Magic Items"
+anchor = "gnoll-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Hunter's Nose Ring"
+entry = "ref/magic-wondrous/hunters-nose-ring"
+
+[[books.chapters.children.children.children]]
+title = "Hyena Shawl"
+entry = "ref/magic-wondrous/hyena-shawl"
+
+[[books.chapters.children.children.children]]
+title = "Pugwampi Braid"
+entry = "ref/magic-wondrous/pugwampi-braid"
+
+[[books.chapters.children]]
+title = "Example Gnolls"
+entry = "ref/carried/monster-codex/rules/gnolls/example-gnolls"
+
+[[books.chapters.children.children]]
+title = "Gnoll Barbarians"
+anchor = "gnoll-barbarians"
+
+[[books.chapters.children.children.children]]
+title = "Gnoll Rageborn"
+entry = "ref/monster/gnoll-gnoll-rageborn"
+
+[[books.chapters.children.children.children]]
+title = "Gnoll Packlord"
+entry = "ref/monster/gnoll-gnoll-packlord"
+
+[[books.chapters.children.children]]
+title = "Gnoll Skirmishers"
+anchor = "gnoll-skirmishers"
+
+[[books.chapters.children.children.children]]
+title = "Gnoll Bruiser"
+entry = "ref/monster/gnoll-gnoll-bruiser"
+
+[[books.chapters.children.children.children]]
+title = "Gnoll Warden"
+entry = "ref/monster/gnoll-gnoll-warden"
+
+[[books.chapters.children.children]]
+title = "Gnoll War Leaders"
+anchor = "gnoll-war-leaders"
+
+[[books.chapters.children.children.children]]
+title = "Gnoll Sergeant"
+entry = "ref/monster/gnoll-gnoll-sergeant"
+
+[[books.chapters.children.children.children]]
+title = "Gnoll Lieutenant"
+entry = "ref/monster/gnoll-gnoll-lieutenant"
+
+[[books.chapters.children.children]]
+title = "Gnoll Devotees"
+anchor = "gnoll-devotees"
+
+[[books.chapters.children.children.children]]
+title = "Gnoll Devotee"
+entry = "ref/carried/monster-codex/rules/gnolls/example-gnolls/gnoll-devotees/gnoll-devotee"
+
+[[books.chapters.children.children.children.children]]
+title = "Eye of Lamashtu (Gnoll)"
+entry = "ref/monster/gnoll-eye-of-lamashtu"
+
+[[books.chapters.children.children.children]]
+title = "Gnoll Ravager"
+entry = "ref/monster/gnoll-gnoll-ravager"
+
+[[books.chapters.children.children.children]]
+title = "Gnoll Cleric"
+entry = "ref/carried/monster-codex/rules/gnolls/example-gnolls/gnoll-devotees/gnoll-cleric"
+
+[[books.chapters.children.children.children.children]]
+title = "Chosen of Lamashtu (Gnoll)"
+entry = "ref/monster/gnoll-chosen-of-lamashtu"
+
+[[books.chapters.children.children]]
+title = "Gnoll Bouda"
+anchor = "gnoll-bouda"
+
+[[books.chapters.children.children.children]]
+title = "Gnoll Bouda"
+entry = "ref/monster/gnoll-gnoll-bouda"
+
+[[books.chapters.children.children]]
+title = "Flind"
+anchor = "flind"
+
+[[books.chapters.children.children.children]]
+title = "Flind"
+entry = "ref/monster/gnoll-flind"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/gnolls/encounters"
+
+[[books.chapters]]
+title = "Goblins"
+entry = "ref/carried/monster-codex/rules/goblins"
+
+[[books.chapters.children]]
+title = "Goblins"
+entry = "ref/carried/monster-codex/rules/goblins/goblins"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/goblins/new-rules"
+
+[[books.chapters.children.children]]
+title = "Goblin Archetype"
+entry = "ref/carried/monster-codex/rules/goblins/goblin-archetype"
+
+[[books.chapters.children.children.children]]
+title = "Winged Marauder"
+entry = "ref/arc-alchemist/winged-marauder"
+
+[[books.chapters.children.children]]
+title = "Goblin Oracle Curse"
+
+[[books.chapters.children.children.children]]
+title = "Infested"
+entry = "ref/oraclecurse/infested"
+
+[[books.chapters.children.children]]
+title = "Goblin Witch Hex"
+
+[[books.chapters.children.children.children]]
+title = "Mud Witch"
+entry = "ref/hex/mud-witch"
+
+[[books.chapters.children.children]]
+title = "Goblin Equipment"
+anchor = "goblin-equipment"
+
+[[books.chapters.children.children.children]]
+title = "Flying Straps"
+entry = "ref/carried/monster-codex/rules/goblins/goblin-archetype/goblin-equipment/flying-straps"
+
+[[books.chapters.children.children.children.children]]
+title = "Flying straps (masterwork)"
+entry = "ref/eq-misc/flying-straps-masterwork"
+
+[[books.chapters.children.children.children.children]]
+title = "Flying straps (standard)"
+entry = "ref/eq-misc/flying-straps-standard"
+
+[[books.chapters.children.children]]
+title = "Goblin Spells"
+anchor = "goblin-spells"
+
+[[books.chapters.children.children.children]]
+title = "Bouncy Body"
+entry = "ref/spell/bouncy-body"
+
+[[books.chapters.children.children.children]]
+title = "Mud Buddy"
+entry = "ref/spell/mud-buddy"
+
+[[books.chapters.children]]
+title = "Example Goblins"
+entry = "ref/carried/monster-codex/rules/goblins/example-goblins"
+
+[[books.chapters.children.children]]
+title = "Goblin Riders"
+anchor = "goblin-riders"
+
+[[books.chapters.children.children.children]]
+title = "Goblin Outrider"
+entry = "ref/monster/goblin-goblin-outrider"
+
+[[books.chapters.children.children.children]]
+title = "Grizzled Rider"
+entry = "ref/monster/goblin-grizzled-rider"
+
+[[books.chapters.children.children]]
+title = "Goblin Rogues"
+anchor = "goblin-rogues"
+
+[[books.chapters.children.children.children]]
+title = "Goblin Sneak"
+entry = "ref/monster/goblin-goblin-sneak"
+
+[[books.chapters.children.children.children]]
+title = "Goblin Firestarter"
+entry = "ref/monster/goblin-goblin-firestarter"
+
+[[books.chapters.children.children]]
+title = "Goblins Warriors"
+anchor = "goblins-warriors"
+
+[[books.chapters.children.children.children]]
+title = "Goblin Commando"
+entry = "ref/monster/goblin-goblin-commando"
+
+[[books.chapters.children.children.children]]
+title = "Goblin Chief"
+entry = "ref/monster/goblin-goblin-chief"
+
+[[books.chapters.children.children]]
+title = "Goblin Vulture Pilot"
+anchor = "goblin-vulture-pilot"
+
+[[books.chapters.children.children.children]]
+title = "Goblin Vulture Pilot"
+entry = "ref/monster/goblin-goblin-vulture-pilot"
+
+[[books.chapters.children.children.children]]
+title = "Giant Vulture"
+entry = "ref/carried/monster-codex/rules/goblins/example-goblins/goblin-vulture-pilot/giant-vulture"
+
+[[books.chapters.children.children]]
+title = "Goblin Frog-Talker"
+anchor = "goblin-frog-talker"
+
+[[books.chapters.children.children.children]]
+title = "Goblin Frog-Talker"
+entry = "ref/monster/goblin-goblin-frog-talker"
+
+[[books.chapters.children.children]]
+title = "Goblin Stickylord"
+anchor = "goblin-stickylord"
+
+[[books.chapters.children.children.children]]
+title = "Goblin Stickylord"
+entry = "ref/monster/goblin-goblin-stickylord"
+
+[[books.chapters.children.children]]
+title = "Mutant Goblin"
+anchor = "mutant-goblin"
+
+[[books.chapters.children.children.children]]
+title = "Mutant Goblin"
+entry = "ref/carried/monster-codex/rules/goblins/example-goblins/mutant-goblin/mutant-goblin"
+
+[[books.chapters.children.children.children]]
+title = "Mutant Goblin"
+entry = "ref/template/mutant-goblin"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/goblins/encounters"
+
+[[books.chapters]]
+title = "Hobgoblins"
+entry = "ref/carried/monster-codex/rules/hobgoblins"
+
+[[books.chapters.children]]
+title = "Hobgoblins"
+entry = "ref/carried/monster-codex/rules/hobgoblins/hobgoblins"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/hobgoblins/new-rules"
+
+[[books.chapters.children.children]]
+title = "Hobgoblin Archetype"
+
+[[books.chapters.children.children.children]]
+title = "Grenadier (MC)"
+entry = "ref/arc-alchemist/grenadier-mc"
+
+[[books.chapters.children.children]]
+title = "Hobgoblin Feats"
+
+[[books.chapters.children.children.children]]
+title = "Bred Commander"
+entry = "ref/feat/bred-commander"
+
+[[books.chapters.children.children.children]]
+title = "Chain Challenge"
+entry = "ref/feat/chain-challenge"
+
+[[books.chapters.children.children.children]]
+title = "Commander of Goblinkind"
+entry = "ref/feat/commander-of-goblinkind"
+
+[[books.chapters.children.children.children]]
+title = "Motivated March"
+entry = "ref/feat/motivated-march"
+
+[[books.chapters.children.children.children]]
+title = "Spirit of the Corps"
+entry = "ref/feat/spirit-of-the-corps"
+
+[[books.chapters.children.children.children]]
+title = "Warmonger"
+entry = "ref/feat/warmonger"
+
+[[books.chapters.children.children]]
+title = "Hobgoblin Equipment"
+anchor = "hobgoblin-equipment"
+
+[[books.chapters.children.children.children]]
+title = "Alchemical Sling Bullet"
+entry = "ref/eq-misc/alchemical-sling-bullet"
+
+[[books.chapters.children.children.children]]
+title = "Bombchucker"
+entry = "ref/eq-misc/bombchucker"
+
+[[books.chapters.children.children.children]]
+title = "Fervor Juice"
+entry = "ref/eq-misc/fervor-juice"
+
+[[books.chapters.children.children.children]]
+title = "Signal Rocket"
+entry = "ref/carried/monster-codex/rules/hobgoblins/new-rules/hobgoblin-equipment/signal-rocket"
+
+[[books.chapters.children.children.children.children]]
+title = "Firework (signal rocket)"
+entry = "ref/eq-weapon/firework-signal-rocket"
+
+[[books.chapters.children]]
+title = "Example Hobgoblins"
+entry = "ref/carried/monster-codex/rules/hobgoblins/example-hobgoblins"
+
+[[books.chapters.children.children]]
+title = "Hobgoblin Overseers"
+anchor = "hobgoblin-overseers"
+
+[[books.chapters.children.children.children]]
+title = "Hobgoblin Battlefield Zealot"
+entry = "ref/monster/hobgoblin-hobgoblin-battlefield-zealot"
+
+[[books.chapters.children.children.children]]
+title = "Hobgoblin Sergeant"
+entry = "ref/monster/hobgoblin-hobgoblin-sergeant"
+
+[[books.chapters.children.children]]
+title = "Hobgoblin Leaders"
+anchor = "hobgoblin-leaders"
+
+[[books.chapters.children.children.children]]
+title = "Hobgoblin Lieutenant"
+entry = "ref/monster/hobgoblin-hobgoblin-lieutenant"
+
+[[books.chapters.children.children.children]]
+title = "Hobgoblin Forerunner"
+entry = "ref/monster/hobgoblin-hobgoblin-forerunner"
+
+[[books.chapters.children.children]]
+title = "Hobgoblin Bombardier"
+anchor = "hobgoblin-bombardier"
+
+[[books.chapters.children.children.children]]
+title = "Hobgoblin Bombardier"
+entry = "ref/monster/hobgoblin-hobgoblin-bombardier"
+
+[[books.chapters.children.children]]
+title = "Hobgoblin Battle Priest"
+anchor = "hobgoblin-battle-priest"
+
+[[books.chapters.children.children.children]]
+title = "Hobgoblin Battle Priest"
+entry = "ref/monster/hobgoblin-hobgoblin-battle-priest"
+
+[[books.chapters.children.children]]
+title = "Hobgoblin Paragon"
+anchor = "hobgoblin-paragon"
+
+[[books.chapters.children.children.children]]
+title = "Hobgoblin Paragon"
+entry = "ref/monster/hobgoblin-hobgoblin-paragon"
+
+[[books.chapters.children.children]]
+title = "Hobgoblin Commander"
+anchor = "hobgoblin-commander"
+
+[[books.chapters.children.children.children]]
+title = "Hobgoblin Commander"
+entry = "ref/monster/hobgoblin-hobgoblin-commander"
+
+[[books.chapters.children.children.children]]
+title = "Commander's Warhorse"
+entry = "ref/carried/monster-codex/rules/hobgoblins/example-hobgoblins/hobgoblin-commander/commanders-warhorse"
+
+[[books.chapters.children.children]]
+title = "Yzobu"
+anchor = "yzobu"
+
+[[books.chapters.children.children.children]]
+title = "Yzobu"
+entry = "ref/monster/yzobu"
+
+[[books.chapters.children.children.children]]
+title = "Yzobu"
+entry = "ref/companion/yzobu"
+
+[[books.chapters.children]]
+title = "Hobgoblin Encounters"
+entry = "ref/carried/monster-codex/rules/hobgoblins/hobgoblin-encounters"
+
+[[books.chapters]]
+title = "Kobolds"
+entry = "ref/carried/monster-codex/rules/kobolds"
+
+[[books.chapters.children]]
+title = "Kobolds"
+entry = "ref/carried/monster-codex/rules/kobolds/kobolds"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/kobolds/new-rules"
+
+[[books.chapters.children.children]]
+title = "Kobold Archetypes"
+
+[[books.chapters.children.children.children]]
+title = "Alchemical Trapper"
+entry = "ref/arc-alchemist/alchemical-trapper"
+
+[[books.chapters.children.children.children]]
+title = "Dragon Yapper"
+entry = "ref/arc-bard/dragon-yapper"
+
+[[books.chapters.children.children]]
+title = "Kobold Companions"
+
+[[books.chapters.children.children.children]]
+title = "Cave Salamander"
+entry = "ref/companion/cave-salamander"
+
+[[books.chapters.children.children.children]]
+title = "Riding Python"
+entry = "ref/companion/riding-python"
+
+[[books.chapters.children.children]]
+title = "Kobold Traps"
+anchor = "kobold-traps"
+
+[[books.chapters.children.children.children]]
+title = "Dragonfire Trap"
+entry = "ref/carried/monster-codex/rules/kobolds/new-rules/kobold-traps/dragonfire-trap"
+
+[[books.chapters.children.children.children]]
+title = "Ensnaring Dirt Trap"
+entry = "ref/carried/monster-codex/rules/kobolds/new-rules/kobold-traps/ensnaring-dirt-trap"
+
+[[books.chapters.children.children.children]]
+title = "Acid drop Trap"
+entry = "ref/carried/monster-codex/rules/kobolds/new-rules/kobold-traps/acid-drop-trap"
+
+[[books.chapters.children.children.children]]
+title = "Dragon Dung Pit Trap"
+entry = "ref/carried/monster-codex/rules/kobolds/new-rules/kobold-traps/dragon-dung-pit-trap"
+
+[[books.chapters.children.children.children]]
+title = "Falling Log Trap"
+entry = "ref/carried/monster-codex/rules/kobolds/new-rules/kobold-traps/falling-log-trap"
+
+[[books.chapters.children.children.children]]
+title = "Snake Spear Trap"
+entry = "ref/carried/monster-codex/rules/kobolds/new-rules/kobold-traps/snake-spear-trap"
+
+[[books.chapters.children.children.children]]
+title = "Rotting Badger Under a Falling Rock Trap"
+entry = "ref/carried/monster-codex/rules/kobolds/new-rules/kobold-traps/rotting-badger-under-a-falling-rock-trap"
+
+[[books.chapters.children.children]]
+title = "Kobold Feats"
+
+[[books.chapters.children.children.children]]
+title = "Draconic Magic"
+entry = "ref/feat/draconic-magic"
+
+[[books.chapters.children.children.children]]
+title = "Slurk Rider"
+entry = "ref/feat/slurk-rider"
+
+[[books.chapters.children]]
+title = "Example Kobolds"
+entry = "ref/carried/monster-codex/rules/kobolds/example-kobolds"
+
+[[books.chapters.children.children]]
+title = "Kobold Fighters"
+anchor = "kobold-fighters"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Sniper"
+entry = "ref/monster/kobold-kobold-sniper"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Blade"
+entry = "ref/monster/kobold-kobold-blade"
+
+[[books.chapters.children.children]]
+title = "Kobold Sorcerers"
+anchor = "kobold-sorcerers"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Scalecaster"
+entry = "ref/monster/kobold-kobold-scalecaster"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Guilecaster"
+entry = "ref/monster/kobold-kobold-guilecaster"
+
+[[books.chapters.children.children]]
+title = "Kobold Riders"
+anchor = "kobold-riders"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Monster Wrangler"
+entry = "ref/monster/kobold-kobold-monster-wrangler"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Battle Master"
+entry = "ref/monster/kobold-kobold-battle-master"
+
+[[books.chapters.children.children]]
+title = "Kobold Tricksters"
+anchor = "kobold-tricksters"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Bomber"
+entry = "ref/monster/kobold-kobold-bomber"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Master Trapper"
+entry = "ref/monster/kobold-kobold-master-trapper"
+
+[[books.chapters.children.children]]
+title = "Kobold Devilspeaker"
+anchor = "kobold-devilspeaker"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Devilspeaker"
+entry = "ref/monster/kobold-kobold-devilspeaker"
+
+[[books.chapters.children.children]]
+title = "Kobold Leaders"
+anchor = "kobold-leaders"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Yapper"
+entry = "ref/monster/kobold-kobold-yapper"
+
+[[books.chapters.children.children.children]]
+title = "Kobold Chieftain"
+entry = "ref/monster/kobold-kobold-chieftain"
+
+[[books.chapters.children.children]]
+title = "Kyrana"
+anchor = "kyrana"
+
+[[books.chapters.children.children.children]]
+title = "Kyrana"
+entry = "ref/monster/kyrana"
+
+[[books.chapters.children]]
+title = "Kobold Encounters"
+entry = "ref/carried/monster-codex/rules/kobolds/kobold-encounters"
+
+[[books.chapters]]
+title = "Lizardfolk"
+entry = "ref/carried/monster-codex/rules/lizardfolk"
+
+[[books.chapters.children]]
+title = "Lizardfolk"
+entry = "ref/carried/monster-codex/rules/lizardfolk/lizardfolk"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/lizardfolk/new-rules"
+
+[[books.chapters.children.children]]
+title = "Lizardfolk Archetype"
+
+[[books.chapters.children.children.children]]
+title = "Ancient Guardian"
+entry = "ref/arc-druid/ancient-guardian"
+
+[[books.chapters.children.children]]
+title = "Lizardfolk Oracle Curse"
+
+[[books.chapters.children.children.children]]
+title = "Cold-Blooded"
+entry = "ref/oraclecurse/cold-blooded"
+
+[[books.chapters.children.children]]
+title = "Lizardfolk Feats"
+
+[[books.chapters.children.children.children]]
+title = "Aquatic Adaption"
+entry = "ref/feat/aquatic-adaption"
+
+[[books.chapters.children.children.children]]
+title = "Dangerous Tail"
+entry = "ref/feat/dangerous-tail"
+
+[[books.chapters.children.children.children]]
+title = "Swift Swimmer"
+entry = "ref/feat/swift-swimmer"
+
+[[books.chapters.children.children]]
+title = "Lizardfolk Spells"
+anchor = "lizardfolk-spells"
+
+[[books.chapters.children.children.children]]
+title = "Endothermic Touch"
+entry = "ref/spell/endothermic-touch"
+
+[[books.chapters.children.children.children]]
+title = "Scale Spikes"
+entry = "ref/spell/scale-spikes"
+
+[[books.chapters.children.children.children]]
+title = "Scale Spikes, Greater"
+entry = "ref/carried/monster-codex/rules/lizardfolk/new-rules/lizardfolk-spells/scale-spikes/greater"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Scale Spikes"
+entry = "ref/spell/scale-spikes-greater"
+
+[[books.chapters.children]]
+title = "Example Lizardfolk"
+entry = "ref/carried/monster-codex/rules/lizardfolk/example-lizardfolk"
+
+[[books.chapters.children.children]]
+title = "Lizardfolk Barbarians"
+anchor = "lizardfolk-barbarians"
+
+[[books.chapters.children.children.children]]
+title = "Lizardfolk Vanguard"
+entry = "ref/monster/lizardfolk-lizardfolk-vanguard"
+
+[[books.chapters.children.children.children]]
+title = "Lizardfolk Berserker"
+entry = "ref/monster/lizardfolk-lizardfolk-berserker"
+
+[[books.chapters.children.children]]
+title = "Lizardfolk Rangers"
+anchor = "lizardfolk-rangers"
+
+[[books.chapters.children.children.children]]
+title = "Lizardfolk Stalker"
+entry = "ref/monster/lizardfolk-lizardfolk-stalker"
+
+[[books.chapters.children.children.children]]
+title = "Lizardfolk Swamp Lurker"
+entry = "ref/monster/lizardfolk-lizardfolk-swamp-lurker"
+
+[[books.chapters.children.children]]
+title = "Lizardfolk Rattler"
+anchor = "lizardfolk-rattler"
+
+[[books.chapters.children.children.children]]
+title = "Lizardfolk rattler"
+entry = "ref/monster/lizardfolk-lizardfolk-rattler"
+
+[[books.chapters.children.children]]
+title = "Lizardfolk Champion"
+anchor = "lizardfolk-champion"
+
+[[books.chapters.children.children.children]]
+title = "Lizardfolk Champion"
+entry = "ref/monster/lizardfolk-lizardfolk-champion"
+
+[[books.chapters.children.children.children]]
+title = "Styracosaurus"
+entry = "ref/carried/monster-codex/rules/lizardfolk/example-lizardfolk/lizardfolk-champion/styracosaurus"
+
+[[books.chapters.children.children]]
+title = "LizardFolk Sorcerer"
+anchor = "lizardfolk-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Lizardfolk Sorcerer"
+entry = "ref/monster/lizardfolk-lizardfolk-sorcerer"
+
+[[books.chapters.children.children]]
+title = "Lizardfolk Clutch Mother"
+anchor = "lizardfolk-clutch-mother"
+
+[[books.chapters.children.children.children]]
+title = "Lizardfolk Clutch Mother"
+entry = "ref/monster/lizardfolk-lizardfolk-clutch-mother"
+
+[[books.chapters.children.children]]
+title = "Lizard Scion"
+anchor = "lizard-scion"
+
+[[books.chapters.children.children.children]]
+title = "Lizard Scion"
+entry = "ref/monster/lizardfolk-lizard-scion"
+
+[[books.chapters.children]]
+title = "Lizardfolk Encounters"
+entry = "ref/carried/monster-codex/rules/lizardfolk/lizardfolk-encounters"
+
+[[books.chapters]]
+title = "Ogres"
+entry = "ref/carried/monster-codex/rules/ogres"
+
+[[books.chapters.children]]
+title = "Ogres"
+entry = "ref/carried/monster-codex/rules/ogres/ogres"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/ogres/new-rules"
+
+[[books.chapters.children.children]]
+title = "Ogre Simple Templates"
+
+[[books.chapters.children.children.children]]
+title = "Pickin Ogre"
+entry = "ref/template/pickin-ogre"
+
+[[books.chapters.children.children.children]]
+title = "Thicken Ogre"
+entry = "ref/template/thicken-ogre"
+
+[[books.chapters.children.children.children]]
+title = "Shaggra Ogre"
+entry = "ref/template/shaggra-ogre"
+
+[[books.chapters.children.children]]
+title = "Ogre Giantkin Template"
+
+[[books.chapters.children.children.children]]
+title = "Giantkin Ogre"
+entry = "ref/template/giantkin-ogre"
+
+[[books.chapters.children.children]]
+title = "Ogre Feats"
+
+[[books.chapters.children.children.children]]
+title = "Corrupted Flesh"
+entry = "ref/feat/corrupted-flesh"
+
+[[books.chapters.children.children.children]]
+title = "Fetid Breath"
+entry = "ref/feat/fetid-breath"
+
+[[books.chapters.children.children.children]]
+title = "Gluttonous Gobbler"
+entry = "ref/feat/gluttonous-gobbler"
+
+[[books.chapters.children.children.children]]
+title = "Night Stalker"
+entry = "ref/feat/night-stalker"
+
+[[books.chapters.children.children.children]]
+title = "Ogre Crush"
+entry = "ref/feat/ogre-crush"
+
+[[books.chapters.children.children.children]]
+title = "Raging Brute"
+entry = "ref/feat/raging-brute"
+
+[[books.chapters.children.children.children]]
+title = "Savage Critical"
+entry = "ref/feat/savage-critical"
+
+[[books.chapters.children.children.children]]
+title = "Vestigial Head"
+entry = "ref/feat/vestigial-head"
+
+[[books.chapters.children]]
+title = "Example Ogres"
+entry = "ref/carried/monster-codex/rules/ogres/example-ogres"
+
+[[books.chapters.children.children]]
+title = "Ogre Schemers"
+anchor = "ogre-schemers"
+
+[[books.chapters.children.children.children]]
+title = "Ogre Priest"
+entry = "ref/monster/ogre-ogre-priest"
+
+[[books.chapters.children.children.children]]
+title = "Ogre Stalker"
+entry = "ref/monster/ogre-ogre-stalker"
+
+[[books.chapters.children.children]]
+title = "Ogre Bruisers"
+anchor = "ogre-bruisers"
+
+[[books.chapters.children.children.children]]
+title = "Ogre Brute"
+entry = "ref/monster/ogre-ogre-brute"
+
+[[books.chapters.children.children.children]]
+title = "Ogre Boss"
+entry = "ref/monster/ogre-ogre-boss"
+
+[[books.chapters.children.children]]
+title = "Ogre Devourers"
+anchor = "ogre-devourers"
+
+[[books.chapters.children.children.children]]
+title = "Ogre Mancatcher"
+entry = "ref/monster/ogre-ogre-mancatcher"
+
+[[books.chapters.children.children.children]]
+title = "Ogre Glutton"
+entry = "ref/monster/ogre-ogre-glutton"
+
+[[books.chapters.children.children]]
+title = "Ogre Hunter"
+anchor = "ogre-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Ogre Hunter"
+entry = "ref/monster/ogre-ogre-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Wolf Companion"
+entry = "ref/carried/monster-codex/rules/ogres/example-ogres/ogre-hunter/wolf-companion"
+
+[[books.chapters.children.children]]
+title = "Ogre Destroyer"
+anchor = "ogre-destroyer"
+
+[[books.chapters.children.children.children]]
+title = "Ogre Destroyer"
+entry = "ref/monster/ogre-ogre-destroyer"
+
+[[books.chapters.children.children.children]]
+title = "Fiendish Rhinoceros Companion"
+entry = "ref/carried/monster-codex/rules/ogres/example-ogres/ogre-destroyer/fiendish-rhinoceros-companion"
+
+[[books.chapters.children.children]]
+title = "Ogre King"
+anchor = "ogre-king"
+
+[[books.chapters.children.children.children]]
+title = "Ogre King"
+entry = "ref/monster/ogre-ogre-king"
+
+[[books.chapters.children.children]]
+title = "Troggle"
+anchor = "troggle"
+
+[[books.chapters.children.children.children]]
+title = "Troggle"
+entry = "ref/monster/troggle"
+
+[[books.chapters.children.children.children]]
+title = "Troggle Raider"
+entry = "ref/monster/troggle-troggle-raider"
+
+[[books.chapters.children]]
+title = "Ogre Encounters"
+entry = "ref/carried/monster-codex/rules/ogres/ogre-encounters"
+
+[[books.chapters]]
+title = "Orcs"
+entry = "ref/carried/monster-codex/rules/orcs"
+
+[[books.chapters.children]]
+title = "Orcs"
+entry = "ref/carried/monster-codex/rules/orcs/orcs"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/orcs/new-rules"
+
+[[books.chapters.children.children]]
+title = "Orc Feats"
+
+[[books.chapters.children.children.children]]
+title = "Horn Rider"
+entry = "ref/feat/horn-rider"
+
+[[books.chapters.children.children.children]]
+title = "Horn Rider's Charge"
+entry = "ref/feat/horn-riders-charge"
+
+[[books.chapters.children.children.children]]
+title = "Mutual Hatred"
+entry = "ref/feat/mutual-hatred"
+
+[[books.chapters.children.children.children]]
+title = "Scarred Legion"
+entry = "ref/feat/scarred-legion"
+
+[[books.chapters.children.children]]
+title = "Orc Equipment"
+anchor = "orc-equipment"
+
+[[books.chapters.children.children.children]]
+title = "Gorthek Saddle"
+entry = "ref/eq-misc/gorthek-saddle"
+
+[[books.chapters.children.children.children]]
+title = "Horn Harness"
+entry = "ref/eq-misc/horn-harness"
+
+[[books.chapters.children.children]]
+title = "Orc Magic Items"
+anchor = "orc-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Ambush Cauldron"
+entry = "ref/magic-wondrous/ambush-cauldron"
+
+[[books.chapters.children.children.children]]
+title = "Banner of the Rushing Horde"
+entry = "ref/magic-wondrous/banner-of-the-rushing-horde"
+
+[[books.chapters.children.children.children]]
+title = "Crashing Boots"
+entry = "ref/magic-wondrous/crashing-boots"
+
+[[books.chapters.children.children.children]]
+title = "Gorthek Masks"
+entry = "ref/magic-wondrous/gorthek-masks"
+
+[[books.chapters.children.children.children]]
+title = "Spikebones"
+entry = "ref/magic-wondrous/spikebones"
+
+[[books.chapters.children.children.children]]
+title = "War Drums of Savagery"
+entry = "ref/magic-wondrous/war-drums-of-savagery"
+
+[[books.chapters.children]]
+title = "Example Orcs"
+entry = "ref/carried/monster-codex/rules/orcs/example-orcs"
+
+[[books.chapters.children.children]]
+title = "Orc Commanders"
+anchor = "orc-commanders"
+
+[[books.chapters.children.children.children]]
+title = "Orc Sergeant"
+entry = "ref/monster/orc-orc-sergeant"
+
+[[books.chapters.children.children.children]]
+title = "Orc Lieutenant"
+entry = "ref/monster/orc-orc-lieutenant"
+
+[[books.chapters.children.children]]
+title = "Orc Mystic"
+anchor = "orc-mystic"
+
+[[books.chapters.children.children.children]]
+title = "Orc Mystic"
+entry = "ref/monster/orc-orc-mystic"
+
+[[books.chapters.children.children]]
+title = "Orc Prodigies"
+anchor = "orc-prodigies"
+
+[[books.chapters.children.children.children]]
+title = "Orc Thug"
+entry = "ref/monster/orc-orc-thug"
+
+[[books.chapters.children.children.children]]
+title = "Orc War Drummer"
+entry = "ref/monster/orc-orc-war-drummer"
+
+[[books.chapters.children.children]]
+title = "Orc Seekers"
+anchor = "orc-seekers"
+
+[[books.chapters.children.children.children]]
+title = "Orc Scout"
+entry = "ref/monster/orc-orc-scout"
+
+[[books.chapters.children.children.children]]
+title = "Gorthek Rider"
+entry = "ref/monster/orc-gorthek-rider"
+
+[[books.chapters.children.children]]
+title = "Orc Rulers"
+anchor = "orc-rulers"
+
+[[books.chapters.children.children.children]]
+title = "Orc Warlord"
+entry = "ref/monster/orc-orc-warlord"
+
+[[books.chapters.children.children.children]]
+title = "Orc Chieftain"
+entry = "ref/monster/orc-orc-chieftain"
+
+[[books.chapters.children.children]]
+title = "Orc Witch Doctor"
+anchor = "orc-witch-doctor"
+
+[[books.chapters.children.children.children]]
+title = "Orc Witch Doctor"
+entry = "ref/monster/orc-orc-witch-doctor"
+
+[[books.chapters.children.children]]
+title = "Gorthek"
+anchor = "gorthek"
+
+[[books.chapters.children.children.children]]
+title = "Gorthek"
+entry = "ref/monster/orc-gorthek"
+
+[[books.chapters.children.children.children]]
+title = "Gorthek"
+entry = "ref/companion/gorthek"
+
+[[books.chapters.children]]
+title = "Orc Encounters"
+entry = "ref/carried/monster-codex/rules/orcs/orc-encounters"
+
+[[books.chapters.children.children]]
+title = "Demolition Crew"
+anchor = "demolition-crew"
+
+[[books.chapters.children.children.children]]
+title = "Gorthek Mounts"
+entry = "ref/carried/monster-codex/rules/orcs/orc-encounters/demolition-crew/gorthek-mounts"
+
+[[books.chapters]]
+title = "Ratfolk"
+entry = "ref/carried/monster-codex/rules/ratfolk"
+
+[[books.chapters.children]]
+title = "Ratfolk"
+entry = "ref/race/ratfolk"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/ratfolk/new-rules"
+
+[[books.chapters.children.children]]
+title = "Ratfolk Feats"
+
+[[books.chapters.children.children.children]]
+title = "Gnawer"
+entry = "ref/feat/gnawer"
+
+[[books.chapters.children.children.children]]
+title = "Pack Rat"
+entry = "ref/feat/pack-rat"
+
+[[books.chapters.children.children.children]]
+title = "Shared Stash"
+entry = "ref/feat/shared-stash"
+
+[[books.chapters.children.children.children]]
+title = "Sharptooth"
+entry = "ref/feat/sharptooth"
+
+[[books.chapters.children.children]]
+title = "Ratfolk Equipment"
+anchor = "ratfolk-equipment"
+
+[[books.chapters.children.children.children]]
+title = "Rhinarium Paste"
+entry = "ref/eq-misc/rhinarium-paste"
+
+[[books.chapters.children.children.children]]
+title = "Riding Rat"
+entry = "ref/carried/monster-codex/rules/ratfolk/new-rules/ratfolk-equipment/riding-rat"
+
+[[books.chapters.children.children.children.children]]
+title = "Riding rat (combat trained)"
+entry = "ref/eq-misc/riding-rat-combat-trained"
+
+[[books.chapters.children.children.children.children]]
+title = "Riding rat (common)"
+entry = "ref/eq-misc/riding-rat-common"
+
+[[books.chapters.children.children.children.children]]
+title = "Riding Rat"
+entry = "ref/companion/riding-rat"
+
+[[books.chapters.children.children]]
+title = "Ratfolk Magic Items"
+anchor = "ratfolk-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Catalytic"
+entry = "ref/magic-enh/catalytic"
+
+[[books.chapters.children.children.children]]
+title = "Virulent"
+entry = "ref/magic-enh/virulent"
+
+[[books.chapters.children]]
+title = "Example Ratfolk"
+entry = "ref/carried/monster-codex/rules/ratfolk/example-ratfolk"
+
+[[books.chapters.children.children]]
+title = "Ratfolk Scroungers"
+anchor = "ratfolk-scroungers"
+
+[[books.chapters.children.children.children]]
+title = "Ratfolk Tinkerer"
+entry = "ref/monster/ratfolk-ratfolk-tinkerer"
+
+[[books.chapters.children.children.children]]
+title = "Ratfolk Troubleshooter"
+entry = "ref/monster/ratfolk-ratfolk-troubleshooter"
+
+[[books.chapters.children.children.children]]
+title = "Ratfolk Bravo"
+entry = "ref/monster/ratfolk-ratfolk-bravo"
+
+[[books.chapters.children.children.children]]
+title = "Ratfolk Warden"
+entry = "ref/monster/ratfolk-ratfolk-warden"
+
+[[books.chapters.children.children.children]]
+title = "Ratfolk Caravan Guard"
+entry = "ref/monster/ratfolk-ratfolk-caravan-guard"
+
+[[books.chapters.children.children.children]]
+title = "Ratfolk Expedition Leader"
+entry = "ref/monster/ratfolk-ratfolk-expedition-leader"
+
+[[books.chapters.children.children.children]]
+title = "Ratfolk Sage"
+entry = "ref/monster/ratfolk-ratfolk-sage"
+
+[[books.chapters.children.children.children]]
+title = "Ratfolk Chemist"
+entry = "ref/monster/ratfolk-ratfolk-chemist"
+
+[[books.chapters.children.children.children]]
+title = "Ratfolk Elder"
+entry = "ref/monster/ratfolk-ratfolk-elder"
+
+[[books.chapters.children.children]]
+title = "Kirrix"
+anchor = "kirrix"
+
+[[books.chapters.children.children.children]]
+title = "Kirrix"
+entry = "ref/monster/kirrix"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/ratfolk/encounters"
+
+[[books.chapters.children.children]]
+title = "Ratfolk Advance Scouts"
+anchor = "ratfolk-advance-scouts"
+
+[[books.chapters.children.children.children]]
+title = "Riding Rats"
+entry = "ref/carried/monster-codex/rules/ratfolk/encounters/ratfolk-advance-scouts/riding-rats"
+
+[[books.chapters]]
+title = "Sahuagin"
+entry = "ref/carried/monster-codex/rules/sahuagin"
+
+[[books.chapters.children]]
+title = "Sahuagin"
+entry = "ref/rule/monster-sahuagin/sahuagin"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/sahuagin/new-rules"
+
+[[books.chapters.children.children]]
+title = "Sahuagin Feats"
+
+[[books.chapters.children.children.children]]
+title = "Aquatic Advantage"
+entry = "ref/feat/aquatic-advantage"
+
+[[books.chapters.children.children.children]]
+title = "Blood Tide"
+entry = "ref/feat/blood-tide"
+
+[[books.chapters.children.children.children]]
+title = "Greater Blood Frenzy"
+entry = "ref/feat/greater-blood-frenzy"
+
+[[books.chapters.children.children]]
+title = "Sahuagin Spells"
+anchor = "sahuagin-spells"
+
+[[books.chapters.children.children.children]]
+title = "Air Breathing"
+entry = "ref/spell/air-breathing"
+
+[[books.chapters.children.children.children]]
+title = "Blood in the Water"
+entry = "ref/spell/blood-in-the-water"
+
+[[books.chapters.children.children.children]]
+title = "Gift of the Deep"
+entry = "ref/spell/gift-of-the-deep"
+
+[[books.chapters.children]]
+title = "Example Sahuagin"
+entry = "ref/carried/monster-codex/rules/sahuagin/example-sahuagin"
+
+[[books.chapters.children.children]]
+title = "Sahuagin Agents"
+anchor = "sahuagin-agents"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin Scout"
+entry = "ref/monster/sahuagin-sahuagin-scout"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin Infiltrator"
+entry = "ref/monster/sahuagin-sahuagin-infiltrator"
+
+[[books.chapters.children.children]]
+title = "Sahuagin Marauders"
+anchor = "sahuagin-marauders"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin Brute"
+entry = "ref/monster/sahuagin-sahuagin-brute"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin Champion"
+entry = "ref/monster/sahuagin-sahuagin-champion"
+
+[[books.chapters.children.children]]
+title = "Shark Speakers"
+anchor = "shark-speakers"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin Deep Racer"
+entry = "ref/monster/sahuagin-sahuagin-deep-racer"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin Shark Sentry"
+entry = "ref/monster/sahuagin-sahuagin-shark-sentry"
+
+[[books.chapters.children.children]]
+title = "Sahuagin Priestesses"
+anchor = "sahuagin-priestesses"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin Underpriestess"
+entry = "ref/monster/sahuagin-sahuagin-underpriestess"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin High Priestess"
+entry = "ref/monster/sahuagin-sahuagin-high-priestess"
+
+[[books.chapters.children.children]]
+title = "Sahuagin Soldiers"
+anchor = "sahuagin-soldiers"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin Lieutenant"
+entry = "ref/monster/sahuagin-sahuagin-lieutenant"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin Baron"
+entry = "ref/monster/sahuagin-sahuagin-baron"
+
+[[books.chapters.children.children.children]]
+title = "Sahuagin Prince"
+entry = "ref/monster/sahuagin-sahuagin-prince"
+
+[[books.chapters.children.children.children]]
+title = "Shark Mount"
+entry = "ref/carried/monster-codex/rules/sahuagin/example-sahuagin/sahuagin-soldiers/shark-mount"
+
+[[books.chapters.children.children]]
+title = "Feeder in the Depths"
+anchor = "feeder-in-the-depths"
+
+[[books.chapters.children.children.children]]
+title = "Feeder in the Depths"
+entry = "ref/monster/feeder-in-the-depths"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/sahuagin/encounters"
+
+[[books.chapters]]
+title = "Serpentfolk"
+entry = "ref/carried/monster-codex/rules/serpentfolk"
+
+[[books.chapters.children]]
+title = "Serpentfolk"
+entry = "ref/carried/monster-codex/rules/serpentfolk/serpentfolk"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/serpentfolk/new-rules"
+
+[[books.chapters.children.children]]
+title = "Serpentfolk Feats"
+
+[[books.chapters.children.children.children]]
+title = "Innate Arcana"
+entry = "ref/feat/innate-arcana"
+
+[[books.chapters.children.children.children]]
+title = "Serpentine Compression"
+entry = "ref/feat/serpentine-compression"
+
+[[books.chapters.children.children.children]]
+title = "Tail Weapon"
+entry = "ref/feat/tail-weapon"
+
+[[books.chapters.children.children.children]]
+title = "Telepathic Distraction"
+entry = "ref/feat/telepathic-distraction"
+
+[[books.chapters.children.children.children]]
+title = "Venomous Spray"
+entry = "ref/feat/venomous-spray"
+
+[[books.chapters.children.children]]
+title = "Serpentfolk Spells"
+anchor = "serpentfolk-spells"
+
+[[books.chapters.children.children.children]]
+title = "Spellsteal"
+entry = "ref/spell/spellsteal"
+
+[[books.chapters.children.children.children]]
+title = "Sundered Serpent Coil"
+entry = "ref/spell/sundered-serpent-coil"
+
+[[books.chapters.children.children]]
+title = "Serpentfolk Magic Items"
+anchor = "serpentfolk-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Serpentine Choker"
+entry = "ref/magic-wondrous/serpentine-choker"
+
+[[books.chapters.children.children.children]]
+title = "Serpent-Necked Flail"
+entry = "ref/magic-weapon/serpent-necked-flail"
+
+[[books.chapters.children.children.children]]
+title = "Snakebiter Arrow"
+entry = "ref/magic-weapon/snakebiter-arrow"
+
+[[books.chapters.children]]
+title = "Example Serpentfolk"
+entry = "ref/carried/monster-codex/rules/serpentfolk/example-serpentfolk"
+
+[[books.chapters.children.children]]
+title = "Serpentfolk Spy"
+anchor = "serpentfolk-spy"
+
+[[books.chapters.children.children.children]]
+title = "Serpentfolk Spy"
+entry = "ref/monster/serpentfolk-serpentfolk-spy"
+
+[[books.chapters.children.children]]
+title = "Serpentfolk Hunter"
+anchor = "serpentfolk-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Serpentfolk Hunter"
+entry = "ref/monster/serpentfolk-serpentfolk-hunter"
+
+[[books.chapters.children.children]]
+title = "Serpentfolk Illusionist"
+anchor = "serpentfolk-illusionist"
+
+[[books.chapters.children.children.children]]
+title = "Serpentfolk Illusionist"
+entry = "ref/monster/serpentfolk-serpentfolk-illusionist"
+
+[[books.chapters.children.children]]
+title = "Serpentfolk Bone Prophet"
+anchor = "serpentfolk-bone-prophet"
+
+[[books.chapters.children.children.children]]
+title = "Serpentfolk Bone Prophet"
+entry = "ref/monster/serpentfolk-serpentfolk-bone-prophet"
+
+[[books.chapters.children.children]]
+title = "Serpentfolk Spellblade"
+anchor = "serpentfolk-spellblade"
+
+[[books.chapters.children.children.children]]
+title = "Serpentfolk Spellblade"
+entry = "ref/monster/serpentfolk-serpentfolk-spellblade"
+
+[[books.chapters.children.children]]
+title = "Serpentfolk High Priest"
+anchor = "serpentfolk-high-priest"
+
+[[books.chapters.children.children.children]]
+title = "Serpentfolk High Priest"
+entry = "ref/monster/serpentfolk-serpentfolk-high-priest"
+
+[[books.chapters.children.children]]
+title = "Seru"
+anchor = "seru"
+
+[[books.chapters.children.children.children]]
+title = "Seru"
+entry = "ref/monster/seru"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/serpentfolk/encounters"
+
+[[books.chapters]]
+title = "Troglodytes"
+entry = "ref/carried/monster-codex/rules/troglodytes"
+
+[[books.chapters.children]]
+title = "Troglodytes"
+entry = "ref/carried/monster-codex/rules/troglodytes/troglodytes"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/troglodytes/new-rules"
+
+[[books.chapters.children.children]]
+title = "Troglodyte Spells"
+anchor = "troglodyte-spells"
+
+[[books.chapters.children.children.children]]
+title = "Amplify Stench"
+entry = "ref/spell/amplify-stench"
+
+[[books.chapters.children.children.children]]
+title = "Mark of the Reptile God"
+entry = "ref/spell/mark-of-the-reptile-god"
+
+[[books.chapters.children.children.children]]
+title = "Swarm of Fangs"
+entry = "ref/spell/swarm-of-fangs"
+
+[[books.chapters.children.children]]
+title = "Troglodyte Magic Items"
+anchor = "troglodyte-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Cave dweller's Greataxe"
+entry = "ref/magic-weapon/cave-dwellers-greataxe"
+
+[[books.chapters.children.children.children]]
+title = "Stench Spray Amulet"
+entry = "ref/magic-wondrous/stench-spray-amulet"
+
+[[books.chapters.children]]
+title = "Example Troglodytes"
+entry = "ref/carried/monster-codex/rules/troglodytes/example-troglodytes"
+
+[[books.chapters.children.children]]
+title = "Troglodyte Sneaks"
+anchor = "troglodyte-sneaks"
+
+[[books.chapters.children.children.children]]
+title = "Troglodyte Skulker"
+entry = "ref/monster/troglodyte-troglodyte-skulker"
+
+[[books.chapters.children.children.children]]
+title = "Troglodyte Sorcerer"
+entry = "ref/monster/troglodyte-troglodyte-sorcerer"
+
+[[books.chapters.children.children]]
+title = "Troglodyte Holy Ones"
+anchor = "troglodyte-holy-ones"
+
+[[books.chapters.children.children.children]]
+title = "Troglodyte Beast-Speaker"
+entry = "ref/monster/troglodyte-troglodyte-beast-speaker"
+
+[[books.chapters.children.children.children]]
+title = "Troglodyte Priest"
+entry = "ref/monster/troglodyte-troglodyte-priest"
+
+[[books.chapters.children.children]]
+title = "Troglodyte Cavalry"
+anchor = "troglodyte-cavalry"
+
+[[books.chapters.children.children.children]]
+title = "Troglodyte Scale-Rider"
+entry = "ref/monster/troglodyte-troglodyte-scale-rider"
+
+[[books.chapters.children.children.children]]
+title = "Troglodyte Champion"
+entry = "ref/monster/troglodyte-troglodyte-champion"
+
+[[books.chapters.children.children]]
+title = "Troglodyte Chieftain"
+anchor = "troglodyte-chieftain"
+
+[[books.chapters.children.children.children]]
+title = "Troglodyte Chieftain"
+entry = "ref/monster/troglodyte-troglodyte-chieftain"
+
+[[books.chapters.children.children]]
+title = "Troglodyte Warren Guard"
+anchor = "troglodyte-warren-guard"
+
+[[books.chapters.children.children.children]]
+title = "Troglodyte Warren Guard"
+entry = "ref/monster/troglodyte-troglodyte-warren-guard"
+
+[[books.chapters.children.children]]
+title = "Troglodyte Tyrant"
+anchor = "troglodyte-tyrant"
+
+[[books.chapters.children.children.children]]
+title = "Troglodyte Tyrant"
+entry = "ref/monster/troglodyte-troglodyte-tyrant"
+
+[[books.chapters.children.children]]
+title = "Slaugrak"
+anchor = "slaugrak"
+
+[[books.chapters.children.children.children]]
+title = "Slaugrak"
+entry = "ref/monster/slaugrak"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/troglodytes/encounters"
+
+[[books.chapters]]
+title = "Trolls"
+entry = "ref/carried/monster-codex/rules/trolls"
+
+[[books.chapters.children]]
+title = "Trolls"
+entry = "ref/carried/monster-codex/rules/trolls/trolls"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/trolls/new-rules"
+
+[[books.chapters.children.children]]
+title = "Troll Archetype"
+
+[[books.chapters.children.children.children]]
+title = "Troll Fury"
+entry = "ref/arc-druid/troll-fury"
+
+[[books.chapters.children.children]]
+title = "Troll Feats"
+
+[[books.chapters.children.children.children]]
+title = "Cooperative Rend"
+entry = "ref/feat/cooperative-rend"
+
+[[books.chapters.children.children.children]]
+title = "Great Rend"
+entry = "ref/feat/great-rend"
+
+[[books.chapters.children.children.children]]
+title = "Mighty Bite"
+entry = "ref/feat/mighty-bite"
+
+[[books.chapters.children.children.children]]
+title = "Raging Regeneration"
+entry = "ref/feat/raging-regeneration"
+
+[[books.chapters.children.children.children]]
+title = "Regenerate Muscles"
+entry = "ref/feat/regenerate-muscles"
+
+[[books.chapters.children.children.children]]
+title = "Sprinting Troll"
+entry = "ref/feat/sprinting-troll"
+
+[[books.chapters.children.children]]
+title = "Troll Equipment"
+anchor = "troll-equipment"
+
+[[books.chapters.children.children.children]]
+title = "Barbed Troll Claws"
+entry = "ref/eq-misc/barbed-troll-claws"
+
+[[books.chapters.children.children]]
+title = "Troll Spells"
+anchor = "troll-spells"
+
+[[books.chapters.children.children.children]]
+title = "Transfer Regeneration"
+entry = "ref/spell/transfer-regeneration"
+
+[[books.chapters.children.children.children]]
+title = "Trial of Fire and Acid"
+entry = "ref/spell/trial-of-fire-and-acid"
+
+[[books.chapters.children.children]]
+title = "Troll Magic Items"
+anchor = "troll-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Cloak of the Troll King"
+entry = "ref/magic-wondrous/cloak-of-the-troll-king"
+
+[[books.chapters.children.children.children]]
+title = "Gauntlets of Rending"
+entry = "ref/magic-weapon/gauntlets-of-rending"
+
+[[books.chapters.children]]
+title = "Example Trolls"
+entry = "ref/carried/monster-codex/rules/trolls/example-trolls"
+
+[[books.chapters.children.children]]
+title = "Troll Defenders"
+anchor = "troll-defenders"
+
+[[books.chapters.children.children.children]]
+title = "Troll Acolyte"
+entry = "ref/monster/troll-troll-acolyte"
+
+[[books.chapters.children.children.children]]
+title = "Troll Warden"
+entry = "ref/monster/troll-troll-warden"
+
+[[books.chapters.children.children]]
+title = "Troll Ragers"
+anchor = "troll-ragers"
+
+[[books.chapters.children.children.children]]
+title = "Troll Brute"
+entry = "ref/monster/troll-troll-brute"
+
+[[books.chapters.children.children.children]]
+title = "Troll Berserker"
+entry = "ref/monster/troll-troll-berserker"
+
+[[books.chapters.children.children]]
+title = "Troll Fighters"
+anchor = "troll-fighters"
+
+[[books.chapters.children.children.children]]
+title = "Troll Ripper"
+entry = "ref/monster/troll-troll-ripper"
+
+[[books.chapters.children.children.children]]
+title = "Troll Render"
+entry = "ref/monster/troll-troll-render"
+
+[[books.chapters.children.children]]
+title = "Troll fury"
+anchor = "troll-fury"
+
+[[books.chapters.children.children.children]]
+title = "Troll fury"
+entry = "ref/monster/troll-troll-fury"
+
+[[books.chapters.children.children]]
+title = "Troll Elder Matron"
+anchor = "troll-elder-matron"
+
+[[books.chapters.children.children.children]]
+title = "Troll Elder Matron"
+entry = "ref/monster/troll-troll-elder-matron"
+
+[[books.chapters.children.children]]
+title = "Troll Monarch"
+anchor = "troll-monarch"
+
+[[books.chapters.children.children.children]]
+title = "Troll Monarch"
+entry = "ref/monster/troll-troll-monarch"
+
+[[books.chapters.children.children]]
+title = "Sewer Troll"
+anchor = "sewer-troll"
+
+[[books.chapters.children.children.children]]
+title = "Sewer Troll"
+entry = "ref/monster/troll-sewer-troll"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/trolls/encounters"
+
+[[books.chapters]]
+title = "Vampires"
+entry = "ref/carried/monster-codex/rules/vampires"
+
+[[books.chapters.children]]
+title = "Vampires"
+entry = "ref/carried/monster-codex/rules/vampires/vampires"
+
+[[books.chapters.children]]
+title = "New Rules"
+entry = "ref/carried/monster-codex/rules/vampires/new-rules"
+
+[[books.chapters.children.children]]
+title = "Vampire Minion Simple Templates"
+
+[[books.chapters.children.children.children]]
+title = "Vampire Minion, Addle-Minded"
+entry = "ref/template/vampire-minion-addle-minded"
+
+[[books.chapters.children.children.children]]
+title = "Vampire Minion, Repeatedly Drained"
+entry = "ref/template/vampire-minion-repeatedly-drained"
+
+[[books.chapters.children.children]]
+title = "Vampire Feats"
+
+[[books.chapters.children.children.children]]
+title = "Aversion Tolerance"
+entry = "ref/feat/aversion-tolerance"
+
+[[books.chapters.children.children.children]]
+title = "Vampiric Companion"
+entry = "ref/feat/vampiric-companion"
+
+[[books.chapters.children.children]]
+title = "Vampire Equipment"
+anchor = "vampire-equipment"
+
+[[books.chapters.children.children.children]]
+title = "Alchemical Blood"
+entry = "ref/eq-misc/alchemical-blood"
+
+[[books.chapters.children.children]]
+title = "Vampire Magic Items"
+anchor = "vampire-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Bloodfeast shield"
+entry = "ref/magic-armor/bloodfeast-shield"
+
+[[books.chapters.children.children.children]]
+title = "Bloodletting Thimble"
+entry = "ref/magic-ring/bloodletting-thimble"
+
+[[books.chapters.children]]
+title = "Example Vampires"
+entry = "ref/carried/monster-codex/rules/vampires/example-vampires"
+
+[[books.chapters.children.children]]
+title = "Vampire Servants"
+anchor = "vampire-servants"
+
+[[books.chapters.children.children.children]]
+title = "Vampire Servant"
+entry = "ref/family/vampire-servant"
+
+[[books.chapters.children.children.children]]
+title = "Coffin Guard"
+entry = "ref/monster/vampire-servant-coffin-guard"
+
+[[books.chapters.children.children.children]]
+title = "Weird Butler"
+entry = "ref/monster/vampire-servant-weird-butler"
+
+[[books.chapters.children.children]]
+title = "Vampire Seducer"
+anchor = "vampire-seducer"
+
+[[books.chapters.children.children.children]]
+title = "Vampire Seducer"
+entry = "ref/monster/vampire-vampire-seducer"
+
+[[books.chapters.children.children]]
+title = "Vampire Warrior"
+anchor = "vampire-warrior"
+
+[[books.chapters.children.children.children]]
+title = "Vampire Warrior"
+entry = "ref/monster/vampire-vampire-warrior"
+
+[[books.chapters.children.children.children]]
+title = "Vishkanya Venom"
+entry = "ref/affliction/vampire-vampire-warrior/vishkanya-venom"
+
+[[books.chapters.children.children]]
+title = "Vampire Savage"
+anchor = "vampire-savage"
+
+[[books.chapters.children.children.children]]
+title = "Vampire Savage"
+entry = "ref/monster/vampire-vampire-savage"
+
+[[books.chapters.children.children]]
+title = "Enlightened Vampire"
+anchor = "enlightened-vampire"
+
+[[books.chapters.children.children.children]]
+title = "Enlightened Vampire"
+entry = "ref/monster/vampire-enlightened-vampire"
+
+[[books.chapters.children.children]]
+title = "Vampire Lord"
+anchor = "vampire-lord"
+
+[[books.chapters.children.children.children]]
+title = "Vampire Lord"
+entry = "ref/monster/vampire-vampire-lord"
+
+[[books.chapters.children.children]]
+title = "Vampire Spawn"
+anchor = "vampire-spawn"
+
+[[books.chapters.children.children.children]]
+title = "Vampire Spawn"
+entry = "ref/carried/monster-codex/rules/vampires/example-vampires/vampire-spawn/vampire-spawn"
+
+[[books.chapters.children.children.children]]
+title = "Vampire Spawn"
+entry = "ref/template/vampire-spawn"
+
+[[books.chapters.children]]
+title = "Encounters"
+entry = "ref/carried/monster-codex/rules/vampires/encounters"
+
+[[books.chapters]]
+title = "Appendix"
+entry = "ref/carried/monster-codex/rules/appendix"
+
+[[books.chapters.children]]
+title = "Modifying Monsters"
+entry = "ref/carried/monster-codex/rules/appendix/modifying-monsters"
+
+[[books.chapters.children.children]]
+title = "Simple Class Templates"
+
+[[books.chapters.children.children.children]]
+title = "Barbarian"
+entry = "ref/template/barbarian"
+
+[[books.chapters.children.children.children]]
+title = "Bard"
+entry = "ref/template/bard"
+
+[[books.chapters.children.children.children]]
+title = "Cleric"
+entry = "ref/template/cleric"
+
+[[books.chapters.children.children.children]]
+title = "Druid"
+entry = "ref/template/druid"
+
+[[books.chapters.children.children.children]]
+title = "Fighter"
+entry = "ref/template/fighter"
+
+[[books.chapters.children.children.children]]
+title = "Monk"
+entry = "ref/template/monk"
+
+[[books.chapters.children.children.children]]
+title = "Paladin"
+entry = "ref/template/paladin"
+
+[[books.chapters.children.children.children]]
+title = "Ranger"
+entry = "ref/template/ranger"
+
+[[books.chapters.children.children.children]]
+title = "Rogue"
+entry = "ref/template/rogue"
+
+[[books.chapters.children.children.children]]
+title = "Sorcerer"
+entry = "ref/template/sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Wizard"
+entry = "ref/template/wizard"

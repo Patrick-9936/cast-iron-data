@@ -14,7 +14,7 @@ of official status or compatibility.
 | `entries/<kind>/<slug>.md` | One rules entry per file: 31,106 entries (spells, feats, creatures, items, classes, races, rules, and more) |
 | `corpus.toml` | The format version and the defaults entries omit |
 | `publications.toml` | Publication metadata |
-| `books.toml` | The chapter order of each book |
+| `books/<publication-id>.toml` | The printed chapter order of a book that has one (16 books). Every other book is built from the `[[sources]]` pages of its entries |
 | `legal.toml` | Licenses, Product Identity declaration, and Section 15 notices |
 | `aliases.toml` | Legacy ids that resolve to current ids, so old bookmarks keep working |
 | `exclusions.toml` | What the import left out and why. Rows are only appended |

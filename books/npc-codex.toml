@@ -1,0 +1,1477 @@
+[[books]]
+source = "npc-codex"
+title = "NPC Codex"
+basis = "The main chapter titles, their order, and their first pages are checked against the printed contents page of the NPC Codex. Each class section holds its NPCs in printed page order. See docs/research/book-order-evidence.md. Canonical ids were substituted through the reviewed alias map; chapters and order are unchanged."
+review = ["Each class section holds its NPCs in printed page order; entries that share a printed page keep the dataset order. The dataset's plural class list groups stay inside their class section.", "The printed chapter 4: Iconic Characters has no corresponding chapter in the dataset.", "Canonical ids were substituted through sources/canonical/id-map.toml. A legacy entry with no installed target is omitted and listed in coverage."]
+
+[[books.chapters]]
+title = "Core Classes"
+entry = "ref/carried/npc-codex/rules/core-class-npcs"
+
+[[books.chapters.children]]
+title = "Core Classes"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/core-classes"
+
+[[books.chapters.children]]
+title = "Barbarian"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/barbarian"
+
+[[books.chapters.children.children]]
+title = "Barbarians"
+anchor = "barbarians"
+
+[[books.chapters.children.children.children]]
+title = "Savage Mercenary"
+entry = "ref/npc/savage-mercenary"
+
+[[books.chapters.children.children.children]]
+title = "Dwarven Rager"
+entry = "ref/npc/dwarven-rager"
+
+[[books.chapters.children.children.children]]
+title = "Axe Warrior"
+entry = "ref/npc/axe-warrior"
+
+[[books.chapters.children.children.children]]
+title = "Dog Rider"
+entry = "ref/npc/dog-rider"
+
+[[books.chapters.children.children.children]]
+title = "Wild Lancer"
+entry = "ref/npc/wild-lancer"
+
+[[books.chapters.children.children.children]]
+title = "Forest Guardian"
+entry = "ref/npc/forest-guardian"
+
+[[books.chapters.children.children.children]]
+title = "Sundering Axe"
+entry = "ref/npc/sundering-axe"
+
+[[books.chapters.children.children.children]]
+title = "Glaive Rager"
+entry = "ref/npc/glaive-rager"
+
+[[books.chapters.children.children.children]]
+title = "Raging Swimmer"
+entry = "ref/npc/raging-swimmer"
+
+[[books.chapters.children.children.children]]
+title = "Cannibalistic Hunter"
+entry = "ref/npc/cannibalistic-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Double Axe Fury"
+entry = "ref/npc/double-axe-fury"
+
+[[books.chapters.children.children.children]]
+title = "Giant Slayer"
+entry = "ref/npc/giant-slayer"
+
+[[books.chapters.children.children.children]]
+title = "Savage Rider"
+entry = "ref/npc/savage-rider"
+
+[[books.chapters.children.children.children]]
+title = "Arcane Experimenter"
+entry = "ref/npc/arcane-experimenter"
+
+[[books.chapters.children.children.children]]
+title = "Life Stealer"
+entry = "ref/npc/life-stealer"
+
+[[books.chapters.children.children.children]]
+title = "Undead Hunter"
+entry = "ref/npc/undead-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Graceful Slayer"
+entry = "ref/npc/graceful-slayer"
+
+[[books.chapters.children.children.children]]
+title = "Refined Reaver"
+entry = "ref/npc/refined-reaver"
+
+[[books.chapters.children.children.children]]
+title = "Death Dealer"
+entry = "ref/npc/death-dealer"
+
+[[books.chapters.children.children.children]]
+title = "Scarred Wanderer"
+entry = "ref/npc/scarred-wanderer"
+
+[[books.chapters.children]]
+title = "Bard"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/bard"
+
+[[books.chapters.children.children]]
+title = "Bards"
+anchor = "bards"
+
+[[books.chapters.children.children.children]]
+title = "Tavern Singer"
+entry = "ref/npc/tavern-singer"
+
+[[books.chapters.children.children.children]]
+title = "Street Performer"
+entry = "ref/npc/street-performer"
+
+[[books.chapters.children.children.children]]
+title = "Local Celebrity"
+entry = "ref/npc/local-celebrity"
+
+[[books.chapters.children.children.children]]
+title = "Taunting Comedian"
+entry = "ref/npc/taunting-comedian"
+
+[[books.chapters.children.children.children]]
+title = "Court Poet"
+entry = "ref/npc/court-poet"
+
+[[books.chapters.children.children.children]]
+title = "Con Artist"
+entry = "ref/npc/con-artist"
+
+[[books.chapters.children.children.children]]
+title = "Gambler"
+entry = "ref/npc/gambler"
+
+[[books.chapters.children.children.children]]
+title = "Street Artist"
+entry = "ref/npc/street-artist"
+
+[[books.chapters.children.children.children]]
+title = "Cruel Instructor"
+entry = "ref/npc/cruel-instructor"
+
+[[books.chapters.children.children.children]]
+title = "Seance Medium"
+entry = "ref/npc/seance-medium"
+
+[[books.chapters.children.children.children]]
+title = "Chameleon"
+entry = "ref/npc/chameleon"
+
+[[books.chapters.children.children.children]]
+title = "Courtesan"
+entry = "ref/npc/courtesan"
+
+[[books.chapters.children.children.children]]
+title = "Tribal Leader"
+entry = "ref/npc/tribal-leader"
+
+[[books.chapters.children.children.children]]
+title = "Tunnel Drummer"
+entry = "ref/npc/tunnel-drummer"
+
+[[books.chapters.children.children.children]]
+title = "Lion Tamer"
+entry = "ref/npc/lion-tamer"
+
+[[books.chapters.children.children.children]]
+title = "Spellsword"
+entry = "ref/npc/spellsword"
+
+[[books.chapters.children.children.children]]
+title = "Notorious Foil"
+entry = "ref/npc/notorious-foil"
+
+[[books.chapters.children.children.children]]
+title = "Rival Explorer"
+entry = "ref/npc/rival-explorer"
+
+[[books.chapters.children.children.children]]
+title = "Master Spy"
+entry = "ref/npc/master-spy"
+
+[[books.chapters.children.children.children]]
+title = "Doomsayer"
+entry = "ref/npc/doomsayer"
+
+[[books.chapters.children]]
+title = "Cleric"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/cleric"
+
+[[books.chapters.children.children]]
+title = "Clerics"
+anchor = "clerics"
+
+[[books.chapters.children.children.children]]
+title = "Mercenary Healer"
+entry = "ref/npc/mercenary-healer"
+
+[[books.chapters.children.children.children]]
+title = "War Priest"
+entry = "ref/npc/war-priest"
+
+[[books.chapters.children.children.children]]
+title = "Scholar Priest"
+entry = "ref/npc/scholar-priest"
+
+[[books.chapters.children.children.children]]
+title = "Shoreline Cleric"
+entry = "ref/npc/shoreline-cleric"
+
+[[books.chapters.children.children.children]]
+title = "Noble Crusader"
+entry = "ref/npc/noble-crusader"
+
+[[books.chapters.children.children.children]]
+title = "Carousing Champion"
+entry = "ref/npc/carousing-champion"
+
+[[books.chapters.children.children.children]]
+title = "Vivisectionist Cleric"
+entry = "ref/npc/vivisectionist-cleric"
+
+[[books.chapters.children.children.children]]
+title = "Wrath Priest"
+entry = "ref/npc/wrath-priest"
+
+[[books.chapters.children.children.children]]
+title = "Death Priest"
+entry = "ref/npc/death-priest"
+
+[[books.chapters.children.children.children]]
+title = "Mother of Beasts"
+entry = "ref/npc/mother-of-beasts"
+
+[[books.chapters.children.children.children]]
+title = "Fire Cleric"
+entry = "ref/npc/fire-cleric"
+
+[[books.chapters.children.children.children]]
+title = "Trickster Priest"
+entry = "ref/npc/trickster-priest"
+
+[[books.chapters.children.children.children]]
+title = "Profane General"
+entry = "ref/npc/profane-general"
+
+[[books.chapters.children.children.children]]
+title = "Sacred Guardian"
+entry = "ref/npc/sacred-guardian"
+
+[[books.chapters.children.children.children]]
+title = "Master of Undeath"
+entry = "ref/npc/master-of-undeath"
+
+[[books.chapters.children.children.children]]
+title = "Elemental Priest"
+entry = "ref/npc/elemental-priest"
+
+[[books.chapters.children.children.children]]
+title = "Herald of Armageddon"
+entry = "ref/npc/herald-of-armageddon"
+
+[[books.chapters.children.children.children]]
+title = "Shadow Cleric"
+entry = "ref/npc/shadow-cleric"
+
+[[books.chapters.children.children.children]]
+title = "Priest of Oblivion"
+entry = "ref/npc/priest-of-oblivion"
+
+[[books.chapters.children.children.children]]
+title = "Fire Diabolist"
+entry = "ref/npc/fire-diabolist"
+
+[[books.chapters.children]]
+title = "Druid"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/druid"
+
+[[books.chapters.children.children]]
+title = "Druids"
+anchor = "druids"
+
+[[books.chapters.children.children.children]]
+title = "Initiate of Flame"
+entry = "ref/npc/initiate-of-flame"
+
+[[books.chapters.children.children.children]]
+title = "Sail Master"
+entry = "ref/npc/sail-master"
+
+[[books.chapters.children.children.children]]
+title = "Sylvan Protector"
+entry = "ref/npc/sylvan-protector"
+
+[[books.chapters.children.children.children]]
+title = "Savage Plant sage"
+entry = "ref/npc/savage-plant-sage"
+
+[[books.chapters.children.children.children]]
+title = "Cavern Defender"
+entry = "ref/npc/cavern-defender"
+
+[[books.chapters.children.children.children]]
+title = "Evasive Slip"
+entry = "ref/npc/evasive-slip"
+
+[[books.chapters.children.children.children]]
+title = "Island Defender"
+entry = "ref/npc/island-defender"
+
+[[books.chapters.children.children.children]]
+title = "Sea Captain"
+entry = "ref/npc/sea-captain"
+
+[[books.chapters.children.children.children]]
+title = "Mud Shaman"
+entry = "ref/npc/mud-shaman"
+
+[[books.chapters.children.children.children]]
+title = "Water Merchant"
+entry = "ref/npc/water-merchant"
+
+[[books.chapters.children.children.children]]
+title = "Mistress of High Places"
+entry = "ref/npc/mistress-of-high-places"
+
+[[books.chapters.children.children.children]]
+title = "Castaway"
+entry = "ref/npc/castaway"
+
+[[books.chapters.children.children.children]]
+title = "Fey friend"
+entry = "ref/npc/fey-friend"
+
+[[books.chapters.children.children.children]]
+title = "Fury of Flame"
+entry = "ref/npc/fury-of-flame"
+
+[[books.chapters.children.children.children]]
+title = "Creeping Death"
+entry = "ref/npc/creeping-death"
+
+[[books.chapters.children.children.children]]
+title = "Taiga Stalker"
+entry = "ref/npc/taiga-stalker"
+
+[[books.chapters.children.children.children]]
+title = "Hateful Scourge"
+entry = "ref/npc/hateful-scourge"
+
+[[books.chapters.children.children.children]]
+title = "Dark Nature Priest"
+entry = "ref/npc/dark-nature-priest"
+
+[[books.chapters.children.children.children]]
+title = "Rage Flame"
+entry = "ref/npc/rage-flame"
+
+[[books.chapters.children.children.children]]
+title = "Earthfather"
+entry = "ref/npc/earthfather"
+
+[[books.chapters.children]]
+title = "Fighter"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/fighter"
+
+[[books.chapters.children.children]]
+title = "Fighters"
+anchor = "fighters"
+
+[[books.chapters.children.children.children]]
+title = "Superstitious Mercenary"
+entry = "ref/npc/superstitious-mercenary"
+
+[[books.chapters.children.children.children]]
+title = "Daring Bravo"
+entry = "ref/npc/daring-bravo"
+
+[[books.chapters.children.children.children]]
+title = "Traitorous Brigand"
+entry = "ref/npc/traitorous-brigand"
+
+[[books.chapters.children.children.children]]
+title = "Murderous Halfling"
+entry = "ref/npc/murderous-halfling"
+
+[[books.chapters.children.children.children]]
+title = "Cautious Archer"
+entry = "ref/npc/cautious-archer"
+
+[[books.chapters.children.children.children]]
+title = "Adventuring Blacksmith"
+entry = "ref/npc/adventuring-blacksmith"
+
+[[books.chapters.children.children.children]]
+title = "Spell Hunter"
+entry = "ref/npc/spell-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Fastidious Sharpshooter"
+entry = "ref/npc/fastidious-sharpshooter"
+
+[[books.chapters.children.children.children]]
+title = "Halfling Slinger"
+entry = "ref/npc/halfling-slinger"
+
+[[books.chapters.children.children.children]]
+title = "Griffon Rider"
+entry = "ref/npc/griffon-rider"
+
+[[books.chapters.children.children.children]]
+title = "Scheming Fencer"
+entry = "ref/npc/scheming-fencer"
+
+[[books.chapters.children.children.children]]
+title = "ShieldBreaker"
+entry = "ref/npc/shieldbreaker"
+
+[[books.chapters.children.children.children]]
+title = "Brutal Warlord"
+entry = "ref/npc/brutal-warlord"
+
+[[books.chapters.children.children.children]]
+title = "Arcane Pretender"
+entry = "ref/npc/arcane-pretender"
+
+[[books.chapters.children.children.children]]
+title = "Pirate King"
+entry = "ref/npc/pirate-king"
+
+[[books.chapters.children.children.children]]
+title = "Dwarven Arbalester"
+entry = "ref/npc/dwarven-arbalester"
+
+[[books.chapters.children.children.children]]
+title = "Elven Recluse"
+entry = "ref/npc/elven-recluse"
+
+[[books.chapters.children.children.children]]
+title = "Failed Disciple"
+entry = "ref/npc/failed-disciple"
+
+[[books.chapters.children.children.children]]
+title = "Crime Lord"
+entry = "ref/npc/crime-lord"
+
+[[books.chapters.children.children.children]]
+title = "Infernal Champion"
+entry = "ref/npc/infernal-champion"
+
+[[books.chapters.children]]
+title = "Monk"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/monk"
+
+[[books.chapters.children.children]]
+title = "Monks"
+anchor = "monks"
+
+[[books.chapters.children.children.children]]
+title = "Careful Initiate"
+entry = "ref/npc/careful-initiate"
+
+[[books.chapters.children.children.children]]
+title = "Bullying Brawler"
+entry = "ref/npc/bullying-brawler"
+
+[[books.chapters.children.children.children]]
+title = "Vigilant Bodyguard"
+entry = "ref/npc/vigilant-bodyguard"
+
+[[books.chapters.children.children.children]]
+title = "Spry Ambusher"
+entry = "ref/npc/spry-ambusher"
+
+[[books.chapters.children.children.children]]
+title = "Cruel Devotee"
+entry = "ref/npc/cruel-devotee"
+
+[[books.chapters.children.children.children]]
+title = "Nimble Shuriken Thrower"
+entry = "ref/npc/nimble-shuriken-thrower"
+
+[[books.chapters.children.children.children]]
+title = "Harrying Brute"
+entry = "ref/npc/harrying-brute"
+
+[[books.chapters.children.children.children]]
+title = "Axe Dancer"
+entry = "ref/npc/axe-dancer"
+
+[[books.chapters.children.children.children]]
+title = "Steadfast Defender"
+entry = "ref/npc/steadfast-defender"
+
+[[books.chapters.children.children.children]]
+title = "Cautious Hunter"
+entry = "ref/npc/cautious-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Poisonous Performer"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/monk/monks/poisonous-performer"
+
+[[books.chapters.children.children.children]]
+title = "Swift Brawler"
+entry = "ref/npc/swift-brawler"
+
+[[books.chapters.children.children.children]]
+title = "Monastic Sniper"
+entry = "ref/npc/monastic-sniper"
+
+[[books.chapters.children.children.children]]
+title = "Little Fist"
+entry = "ref/npc/little-fist"
+
+[[books.chapters.children.children.children]]
+title = "Improvised Hurler"
+entry = "ref/npc/improvised-hurler"
+
+[[books.chapters.children.children.children]]
+title = "Horse Monk"
+entry = "ref/npc/horse-monk"
+
+[[books.chapters.children.children.children]]
+title = "Warren Chief"
+entry = "ref/npc/warren-chief"
+
+[[books.chapters.children.children.children]]
+title = "Grove Guardian"
+entry = "ref/npc/grove-guardian"
+
+[[books.chapters.children.children.children]]
+title = "Sword Savant"
+entry = "ref/npc/sword-savant"
+
+[[books.chapters.children.children.children]]
+title = "Ageless Master"
+entry = "ref/npc/ageless-master"
+
+[[books.chapters.children]]
+title = "Paladin"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/paladin"
+
+[[books.chapters.children.children]]
+title = "Paladins"
+anchor = "paladins"
+
+[[books.chapters.children.children.children]]
+title = "Callous Rake"
+entry = "ref/npc/callous-rake"
+
+[[books.chapters.children.children.children]]
+title = "Honorable Outcast"
+entry = "ref/npc/honorable-outcast"
+
+[[books.chapters.children.children.children]]
+title = "Haughty Avenger"
+entry = "ref/npc/haughty-avenger"
+
+[[books.chapters.children.children.children]]
+title = "Skirmishing Crusader"
+entry = "ref/npc/skirmishing-crusader"
+
+[[books.chapters.children.children.children]]
+title = "Hammer of Justice"
+entry = "ref/npc/hammer-of-justice"
+
+[[books.chapters.children.children.children]]
+title = "Holy Archer"
+entry = "ref/npc/holy-archer"
+
+[[books.chapters.children.children.children]]
+title = "Dog rider Knight"
+entry = "ref/npc/dog-rider-knight"
+
+[[books.chapters.children.children.children]]
+title = "Desert Protector"
+entry = "ref/npc/desert-protector"
+
+[[books.chapters.children.children.children]]
+title = "Saintly Knight"
+entry = "ref/npc/saintly-knight"
+
+[[books.chapters.children.children.children]]
+title = "Pious Guard"
+entry = "ref/npc/pious-guard"
+
+[[books.chapters.children.children.children]]
+title = "Elven Honorblade"
+entry = "ref/npc/elven-honorblade"
+
+[[books.chapters.children.children.children]]
+title = "Forge Rider"
+entry = "ref/npc/forge-rider"
+
+[[books.chapters.children.children.children]]
+title = "Dragon Smiter"
+entry = "ref/npc/dragon-smiter"
+
+[[books.chapters.children.children.children]]
+title = "Rider of the Steppe"
+entry = "ref/npc/rider-of-the-steppe"
+
+[[books.chapters.children.children.children]]
+title = "Giant Hunter"
+entry = "ref/npc/giant-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Mounted Paragon"
+entry = "ref/npc/mounted-paragon"
+
+[[books.chapters.children.children.children]]
+title = "Axe Lord"
+entry = "ref/npc/axe-lord"
+
+[[books.chapters.children.children.children]]
+title = "Furious Crusader"
+entry = "ref/npc/furious-crusader"
+
+[[books.chapters.children.children.children]]
+title = "Mithral Master"
+entry = "ref/npc/mithral-master"
+
+[[books.chapters.children.children.children]]
+title = "Demon Hunter"
+entry = "ref/npc/demon-hunter"
+
+[[books.chapters.children]]
+title = "Ranger"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/ranger"
+
+[[books.chapters.children.children]]
+title = "Rangers"
+anchor = "rangers"
+
+[[books.chapters.children.children.children]]
+title = "Novice Scout"
+entry = "ref/npc/novice-scout"
+
+[[books.chapters.children.children.children]]
+title = "Town Watcher"
+entry = "ref/npc/town-watcher"
+
+[[books.chapters.children.children.children]]
+title = "Poacher"
+entry = "ref/npc/poacher"
+
+[[books.chapters.children.children.children]]
+title = "Border Guard"
+entry = "ref/npc/border-guard"
+
+[[books.chapters.children.children.children]]
+title = "Mounted Archer"
+entry = "ref/npc/mounted-archer"
+
+[[books.chapters.children.children.children]]
+title = "Tunnel Rat"
+entry = "ref/npc/tunnel-rat"
+
+[[books.chapters.children.children.children]]
+title = "Mountaineer"
+entry = "ref/npc/mountaineer"
+
+[[books.chapters.children.children.children]]
+title = "Orc slayer"
+entry = "ref/npc/orc-slayer"
+
+[[books.chapters.children.children.children]]
+title = "Swampwalker"
+entry = "ref/npc/swampwalker"
+
+[[books.chapters.children.children.children]]
+title = "Pirate Queen"
+entry = "ref/npc/pirate-queen"
+
+[[books.chapters.children.children.children]]
+title = "Giant-Killer"
+entry = "ref/npc/giant-killer"
+
+[[books.chapters.children.children.children]]
+title = "Bounty Hunter"
+entry = "ref/npc/bounty-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Fiendslayer"
+entry = "ref/npc/fiendslayer"
+
+[[books.chapters.children.children.children]]
+title = "Desert Stalker"
+entry = "ref/npc/desert-stalker"
+
+[[books.chapters.children.children.children]]
+title = "Angel Slayer"
+entry = "ref/npc/angel-slayer"
+
+[[books.chapters.children.children.children]]
+title = "Undead Slayer"
+entry = "ref/npc/undead-slayer"
+
+[[books.chapters.children.children.children]]
+title = "Daredevil Hunter"
+entry = "ref/npc/daredevil-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Golem-Breaker"
+entry = "ref/npc/golem-breaker"
+
+[[books.chapters.children.children.children]]
+title = "Mage Hunter"
+entry = "ref/npc/mage-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Supreme Hunter"
+entry = "ref/npc/supreme-hunter"
+
+[[books.chapters.children]]
+title = "Rogue"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/rogue"
+
+[[books.chapters.children.children]]
+title = "Rogues"
+anchor = "rogues"
+
+[[books.chapters.children.children.children]]
+title = "Cutpurse"
+entry = "ref/npc/cutpurse"
+
+[[books.chapters.children.children.children]]
+title = "Skulking Brute"
+entry = "ref/npc/skulking-brute"
+
+[[books.chapters.children.children.children]]
+title = "Skilled Sniper"
+entry = "ref/npc/skilled-sniper"
+
+[[books.chapters.children.children.children]]
+title = "Charlatan"
+entry = "ref/npc/charlatan"
+
+[[books.chapters.children.children.children]]
+title = "Guild Initiate"
+entry = "ref/npc/guild-initiate"
+
+[[books.chapters.children.children.children]]
+title = "Cave Stalker"
+entry = "ref/npc/cave-stalker"
+
+[[books.chapters.children.children.children]]
+title = "Freelance Thief"
+entry = "ref/npc/freelance-thief"
+
+[[books.chapters.children.children.children]]
+title = "Trapsmith"
+entry = "ref/npc/trapsmith"
+
+[[books.chapters.children.children.children]]
+title = "Deadly Spy"
+entry = "ref/npc/deadly-spy"
+
+[[books.chapters.children.children.children]]
+title = "Dancing Dervish"
+entry = "ref/npc/dancing-dervish"
+
+[[books.chapters.children.children.children]]
+title = "Contract Killer"
+entry = "ref/npc/contract-killer"
+
+[[books.chapters.children.children.children]]
+title = "Dilettante"
+entry = "ref/npc/dilettante"
+
+[[books.chapters.children.children.children]]
+title = "Guildmaster"
+entry = "ref/npc/guildmaster"
+
+[[books.chapters.children.children.children]]
+title = "Chain Mauler"
+entry = "ref/npc/chain-mauler"
+
+[[books.chapters.children.children.children]]
+title = "Unseen Archer"
+entry = "ref/npc/unseen-archer"
+
+[[books.chapters.children.children.children]]
+title = "Mage Slayer"
+entry = "ref/npc/mage-slayer"
+
+[[books.chapters.children.children.children]]
+title = "Masked Lord"
+entry = "ref/npc/masked-lord"
+
+[[books.chapters.children.children.children]]
+title = "Dagger Master"
+entry = "ref/npc/dagger-master"
+
+[[books.chapters.children.children.children]]
+title = "Death Whisperer"
+entry = "ref/npc/death-whisperer"
+
+[[books.chapters.children.children.children]]
+title = "Blade Lord"
+entry = "ref/npc/blade-lord"
+
+[[books.chapters.children]]
+title = "Sorcerer"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/sorcerer"
+
+[[books.chapters.children.children]]
+title = "Sorcerers"
+anchor = "sorcerers"
+
+[[books.chapters.children.children.children]]
+title = "Mercenary Magician"
+entry = "ref/npc/mercenary-magician"
+
+[[books.chapters.children.children.children]]
+title = "Gem Sorcerer"
+entry = "ref/npc/gem-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Whiteclaw Sorcerer"
+entry = "ref/npc/whiteclaw-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Tainted Sorcerer"
+entry = "ref/npc/tainted-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Bramble Sorcerer"
+entry = "ref/npc/bramble-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Storm Sorcerer"
+entry = "ref/npc/storm-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Bloodfire Sorcerer"
+entry = "ref/npc/bloodfire-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Trickster Mage"
+entry = "ref/npc/trickster-mage"
+
+[[books.chapters.children.children.children]]
+title = "Sacred Sorcerer"
+entry = "ref/npc/sacred-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Blackscale Sorcerer"
+entry = "ref/npc/blackscale-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Lucky Mage"
+entry = "ref/npc/lucky-mage"
+
+[[books.chapters.children.children.children]]
+title = "Fey Enchantress"
+entry = "ref/npc/fey-enchantress"
+
+[[books.chapters.children.children.children]]
+title = "Azure Bolt Sorcerer"
+entry = "ref/npc/azure-bolt-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Ice Mage"
+entry = "ref/npc/ice-mage"
+
+[[books.chapters.children.children.children]]
+title = "Diabolical Charmer"
+entry = "ref/npc/diabolical-charmer"
+
+[[books.chapters.children.children.children]]
+title = "Natural Arcanist"
+entry = "ref/npc/natural-arcanist"
+
+[[books.chapters.children.children.children]]
+title = "Fiery Dragonkin"
+entry = "ref/npc/fiery-dragonkin"
+
+[[books.chapters.children.children.children]]
+title = "Demon-Blooded Sorcerer"
+entry = "ref/npc/demon-blooded-sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Fate-Bound Mage"
+entry = "ref/npc/fate-bound-mage"
+
+[[books.chapters.children.children.children]]
+title = "Arisen Sorcerer"
+entry = "ref/npc/arisen-sorcerer"
+
+[[books.chapters.children]]
+title = "Wizard"
+entry = "ref/carried/npc-codex/rules/core-class-npcs/wizard"
+
+[[books.chapters.children.children]]
+title = "Wizards"
+anchor = "wizards"
+
+[[books.chapters.children.children.children]]
+title = "Cautious Mage"
+entry = "ref/npc/cautious-mage"
+
+[[books.chapters.children.children.children]]
+title = "Street Magician"
+entry = "ref/npc/street-magician"
+
+[[books.chapters.children.children.children]]
+title = "Battle Mage"
+entry = "ref/npc/battle-mage"
+
+[[books.chapters.children.children.children]]
+title = "Investigator Wizard"
+entry = "ref/npc/investigator-wizard"
+
+[[books.chapters.children.children.children]]
+title = "Jungle Wizard"
+entry = "ref/npc/jungle-wizard"
+
+[[books.chapters.children.children.children]]
+title = "Tribal Seer"
+entry = "ref/npc/tribal-seer"
+
+[[books.chapters.children.children.children]]
+title = "Thunder Wizard"
+entry = "ref/npc/thunder-wizard"
+
+[[books.chapters.children.children.children]]
+title = "Seductive Enchanter"
+entry = "ref/npc/seductive-enchanter"
+
+[[books.chapters.children.children.children]]
+title = "Cave Wizard"
+entry = "ref/npc/cave-wizard"
+
+[[books.chapters.children.children.children]]
+title = "Prankster Illusionist"
+entry = "ref/npc/prankster-illusionist"
+
+[[books.chapters.children.children.children]]
+title = "Undead Creator"
+entry = "ref/npc/undead-creator"
+
+[[books.chapters.children.children.children]]
+title = "Toothy Transmuter"
+entry = "ref/npc/toothy-transmuter"
+
+[[books.chapters.children.children.children]]
+title = "Pyromaniac Mage"
+entry = "ref/npc/pyromaniac-mage"
+
+[[books.chapters.children.children.children]]
+title = "Mage Sniper"
+entry = "ref/npc/mage-sniper"
+
+[[books.chapters.children.children.children]]
+title = "Cruel Conjurer"
+entry = "ref/npc/cruel-conjurer"
+
+[[books.chapters.children.children.children]]
+title = "Deep Marshal"
+entry = "ref/npc/deep-marshal"
+
+[[books.chapters.children.children.children]]
+title = "Mage Spy"
+entry = "ref/npc/mage-spy"
+
+[[books.chapters.children.children.children]]
+title = "Grand Necromancer"
+entry = "ref/npc/grand-necromancer"
+
+[[books.chapters.children.children.children]]
+title = "Puppet Master"
+entry = "ref/npc/puppet-master"
+
+[[books.chapters.children.children.children]]
+title = "Master Universalist"
+entry = "ref/npc/master-universalist"
+
+[[books.chapters]]
+title = "Prestige Classes"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs"
+
+[[books.chapters.children]]
+title = "Prestige Classes"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/prestige-classes"
+
+[[books.chapters.children]]
+title = "Arcane Archer"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/arcane-archer"
+
+[[books.chapters.children.children]]
+title = "Arcane Archers"
+anchor = "arcane-archers"
+
+[[books.chapters.children.children.children]]
+title = "Green Warden"
+entry = "ref/npc/green-warden"
+
+[[books.chapters.children.children.children]]
+title = "Tournament Champion"
+entry = "ref/npc/tournament-champion"
+
+[[books.chapters.children.children.children]]
+title = "Undead Bane"
+entry = "ref/npc/undead-bane"
+
+[[books.chapters.children.children.children]]
+title = "Chaos Arrow"
+entry = "ref/npc/chaos-arrow"
+
+[[books.chapters.children]]
+title = "Arcane Trickster"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/arcane-trickster"
+
+[[books.chapters.children.children]]
+title = "Arcane Tricksters"
+anchor = "arcane-tricksters"
+
+[[books.chapters.children.children.children]]
+title = "Stage Magician"
+entry = "ref/npc/stage-magician"
+
+[[books.chapters.children.children.children]]
+title = "Arcanothief"
+entry = "ref/npc/arcanothief"
+
+[[books.chapters.children.children.children]]
+title = "Vaultbreaker"
+entry = "ref/npc/vaultbreaker"
+
+[[books.chapters.children.children.children]]
+title = "God Stealer"
+entry = "ref/npc/god-stealer"
+
+[[books.chapters.children]]
+title = "Assassin"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/assassin"
+
+[[books.chapters.children.children]]
+title = "Assassins"
+anchor = "assassins"
+
+[[books.chapters.children.children.children]]
+title = "Sacred Killer"
+entry = "ref/npc/sacred-killer"
+
+[[books.chapters.children.children.children]]
+title = "Death Initiate"
+entry = "ref/npc/death-initiate"
+
+[[books.chapters.children.children.children]]
+title = "Murderous Scythe"
+entry = "ref/npc/murderous-scythe"
+
+[[books.chapters.children.children.children]]
+title = "Fatal Axe"
+entry = "ref/npc/fatal-axe"
+
+[[books.chapters.children]]
+title = "Dragon Disciple"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/dragon-disciple"
+
+[[books.chapters.children.children]]
+title = "Dragon Disciples"
+anchor = "dragon-disciples"
+
+[[books.chapters.children.children.children]]
+title = "Storm Prophet"
+entry = "ref/npc/storm-prophet"
+
+[[books.chapters.children.children.children]]
+title = "Acid Terror"
+entry = "ref/npc/acid-terror"
+
+[[books.chapters.children.children.children]]
+title = "Dragon Chieftain"
+entry = "ref/npc/dragon-chieftain"
+
+[[books.chapters.children.children.children]]
+title = "Ice Maiden"
+entry = "ref/npc/ice-maiden"
+
+[[books.chapters.children]]
+title = "Duelist"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/duelist"
+
+[[books.chapters.children.children]]
+title = "Duelists"
+anchor = "duelists"
+
+[[books.chapters.children.children.children]]
+title = "Tribal Champion"
+entry = "ref/npc/tribal-champion"
+
+[[books.chapters.children.children.children]]
+title = "Feisty Hotspur"
+entry = "ref/npc/feisty-hotspur"
+
+[[books.chapters.children.children.children]]
+title = "Iron Duelist"
+entry = "ref/npc/iron-duelist"
+
+[[books.chapters.children.children.children]]
+title = "Master Duelist"
+entry = "ref/npc/master-duelist"
+
+[[books.chapters.children]]
+title = "Eldritch Knight"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/eldritch-knight"
+
+[[books.chapters.children.children]]
+title = "Eldritch Knights"
+anchor = "eldritch-knights"
+
+[[books.chapters.children.children.children]]
+title = "Queen of Staves"
+entry = "ref/npc/queen-of-staves"
+
+[[books.chapters.children.children.children]]
+title = "Champion of Magic"
+entry = "ref/npc/champion-of-magic"
+
+[[books.chapters.children.children.children]]
+title = "Spirit Avenger"
+entry = "ref/npc/spirit-avenger"
+
+[[books.chapters.children.children.children]]
+title = "Mithral Wizard"
+entry = "ref/npc/mithral-wizard"
+
+[[books.chapters.children]]
+title = "Loremaster"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/loremaster"
+
+[[books.chapters.children.children]]
+title = "Loremasters"
+anchor = "loremasters"
+
+[[books.chapters.children.children.children]]
+title = "Divine Loremaster"
+entry = "ref/npc/divine-loremaster"
+
+[[books.chapters.children.children.children]]
+title = "Nature Scholar"
+entry = "ref/npc/nature-scholar"
+
+[[books.chapters.children.children.children]]
+title = "Master Historian"
+entry = "ref/npc/master-historian"
+
+[[books.chapters.children.children.children]]
+title = "Demonologist"
+entry = "ref/npc/demonologist"
+
+[[books.chapters.children]]
+title = "Mystic Theurge"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/mystic-theurge"
+
+[[books.chapters.children.children]]
+title = "Mystic Theurges"
+anchor = "mystic-theurges"
+
+[[books.chapters.children.children.children]]
+title = "Celestial Theurge"
+entry = "ref/npc/celestial-theurge"
+
+[[books.chapters.children.children.children]]
+title = "Sound Warrior"
+entry = "ref/npc/sound-warrior"
+
+[[books.chapters.children.children.children]]
+title = "Death Master"
+entry = "ref/npc/death-master"
+
+[[books.chapters.children.children.children]]
+title = "Holy Battle Mage"
+entry = "ref/npc/holy-battle-mage"
+
+[[books.chapters.children]]
+title = "Pathfinder Chronicler"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/pathfinder-chronicler"
+
+[[books.chapters.children.children]]
+title = "Pathfinder Chroniclers"
+anchor = "pathfinder-chroniclers"
+
+[[books.chapters.children.children.children]]
+title = "Aloof Scholar"
+entry = "ref/npc/aloof-scholar"
+
+[[books.chapters.children.children.children]]
+title = "Mad Prophet"
+entry = "ref/npc/mad-prophet"
+
+[[books.chapters.children.children.children]]
+title = "Master Storycrafter"
+entry = "ref/npc/master-storycrafter"
+
+[[books.chapters.children.children.children]]
+title = "Battle Skald"
+entry = "ref/npc/battle-skald"
+
+[[books.chapters.children]]
+title = "Shadowdancer"
+entry = "ref/carried/npc-codex/rules/prestige-class-npcs/shadowdancer"
+
+[[books.chapters.children.children]]
+title = "Shadowdancers"
+anchor = "shadowdancers"
+
+[[books.chapters.children.children.children]]
+title = "Blackstrike"
+entry = "ref/npc/blackstrike"
+
+[[books.chapters.children.children.children]]
+title = "Midnight Dancer"
+entry = "ref/npc/midnight-dancer"
+
+[[books.chapters.children.children.children]]
+title = "Black Ice"
+entry = "ref/npc/black-ice"
+
+[[books.chapters.children.children.children]]
+title = "Darkstar"
+entry = "ref/npc/darkstar"
+
+[[books.chapters]]
+title = "NPC Classes"
+entry = "ref/carried/npc-codex/rules/npc-class-npcs"
+
+[[books.chapters.children]]
+title = "NPC Classes"
+entry = "ref/carried/npc-codex/rules/npc-class-npcs/npc-classes"
+
+[[books.chapters.children]]
+title = "Adept"
+entry = "ref/carried/npc-codex/rules/npc-class-npcs/adept"
+
+[[books.chapters.children.children]]
+title = "Adepts"
+anchor = "adepts"
+
+[[books.chapters.children.children.children]]
+title = "Acolyte"
+entry = "ref/npc/acolyte"
+
+[[books.chapters.children.children.children]]
+title = "Shaman"
+entry = "ref/npc/shaman"
+
+[[books.chapters.children.children.children]]
+title = "Initiate"
+entry = "ref/npc/initiate"
+
+[[books.chapters.children.children.children]]
+title = "Doom Prophet"
+entry = "ref/npc/doom-prophet"
+
+[[books.chapters.children.children.children]]
+title = "Enforcer"
+entry = "ref/npc/enforcer"
+
+[[books.chapters.children.children.children]]
+title = "Guru"
+entry = "ref/npc/guru"
+
+[[books.chapters.children.children.children]]
+title = "Hermit"
+entry = "ref/npc/hermit"
+
+[[books.chapters.children.children.children]]
+title = "Heretic"
+entry = "ref/npc/heretic"
+
+[[books.chapters.children.children.children]]
+title = "Healer"
+entry = "ref/npc/healer"
+
+[[books.chapters.children.children.children]]
+title = "Cultist"
+entry = "ref/npc/cultist"
+
+[[books.chapters.children]]
+title = "Aristocrat"
+entry = "ref/carried/npc-codex/rules/npc-class-npcs/aristocrat"
+
+[[books.chapters.children.children]]
+title = "Aristocrats"
+anchor = "aristocrats"
+
+[[books.chapters.children.children.children]]
+title = "Page"
+entry = "ref/npc/page"
+
+[[books.chapters.children.children.children]]
+title = "Princess"
+entry = "ref/npc/princess"
+
+[[books.chapters.children.children.children]]
+title = "Squire"
+entry = "ref/npc/squire"
+
+[[books.chapters.children.children.children]]
+title = "Heir Apparent"
+entry = "ref/npc/heir-apparent"
+
+[[books.chapters.children.children.children]]
+title = "Falconer"
+entry = "ref/npc/falconer"
+
+[[books.chapters.children.children.children]]
+title = "Officer"
+entry = "ref/npc/officer"
+
+[[books.chapters.children.children.children]]
+title = "Mayor"
+entry = "ref/npc/mayor"
+
+[[books.chapters.children.children.children]]
+title = "Diplomat"
+entry = "ref/npc/diplomat"
+
+[[books.chapters.children.children.children]]
+title = "Knight"
+entry = "ref/npc/knight"
+
+[[books.chapters.children.children.children]]
+title = "King"
+entry = "ref/npc/king"
+
+[[books.chapters.children]]
+title = "Commoner"
+entry = "ref/carried/npc-codex/rules/npc-class-npcs/commoner"
+
+[[books.chapters.children.children]]
+title = "Commoners"
+anchor = "commoners"
+
+[[books.chapters.children.children.children]]
+title = "Beggar"
+entry = "ref/npc/beggar"
+
+[[books.chapters.children.children.children]]
+title = "Pig Farmer"
+entry = "ref/npc/pig-farmer"
+
+[[books.chapters.children.children.children]]
+title = "Miner"
+entry = "ref/npc/miner"
+
+[[books.chapters.children.children.children]]
+title = "Accomplished Angler"
+entry = "ref/npc/accomplished-angler"
+
+[[books.chapters.children.children.children]]
+title = "Barmaid"
+entry = "ref/npc/barmaid"
+
+[[books.chapters.children.children.children]]
+title = "Shopkeeper"
+entry = "ref/npc/shopkeeper"
+
+[[books.chapters.children.children.children]]
+title = "Ruffian"
+entry = "ref/npc/ruffian"
+
+[[books.chapters.children.children.children]]
+title = "Village Elder"
+entry = "ref/npc/village-elder"
+
+[[books.chapters.children.children.children]]
+title = "Constable"
+entry = "ref/npc/constable"
+
+[[books.chapters.children.children.children]]
+title = "Traitor"
+entry = "ref/npc/traitor"
+
+[[books.chapters.children]]
+title = "Expert"
+entry = "ref/carried/npc-codex/rules/npc-class-npcs/expert"
+
+[[books.chapters.children.children]]
+title = "Experts"
+anchor = "experts"
+
+[[books.chapters.children.children.children]]
+title = "Apprentice Jeweler"
+entry = "ref/npc/apprentice-jeweler"
+
+[[books.chapters.children.children.children]]
+title = "Old Sailor"
+entry = "ref/npc/old-sailor"
+
+[[books.chapters.children.children.children]]
+title = "Seasoned Trapper"
+entry = "ref/npc/seasoned-trapper"
+
+[[books.chapters.children.children.children]]
+title = "Journeyman Carpenter"
+entry = "ref/npc/journeyman-carpenter"
+
+[[books.chapters.children.children.children]]
+title = "Sapper"
+entry = "ref/npc/sapper"
+
+[[books.chapters.children.children.children]]
+title = "Expert Blacksmith"
+entry = "ref/npc/expert-blacksmith"
+
+[[books.chapters.children.children.children]]
+title = "Successful Merchant"
+entry = "ref/npc/successful-merchant"
+
+[[books.chapters.children.children.children]]
+title = "Wise Sage"
+entry = "ref/npc/wise-sage"
+
+[[books.chapters.children.children.children]]
+title = "Cutthroat Lawyer"
+entry = "ref/npc/cutthroat-lawyer"
+
+[[books.chapters.children.children.children]]
+title = "Master Entertainer"
+entry = "ref/npc/master-entertainer"
+
+[[books.chapters.children]]
+title = "Warrior"
+entry = "ref/carried/npc-codex/rules/npc-class-npcs/warrior"
+
+[[books.chapters.children.children]]
+title = "Warriors"
+anchor = "warriors"
+
+[[books.chapters.children.children.children]]
+title = "Recruit"
+entry = "ref/npc/recruit"
+
+[[books.chapters.children.children.children]]
+title = "Brigand"
+entry = "ref/npc/brigand"
+
+[[books.chapters.children.children.children]]
+title = "Guard"
+entry = "ref/npc/guard"
+
+[[books.chapters.children.children.children]]
+title = "Veteran Buccaneer"
+entry = "ref/npc/veteran-buccaneer"
+
+[[books.chapters.children.children.children]]
+title = "Tavern Champion"
+entry = "ref/npc/tavern-champion"
+
+[[books.chapters.children.children.children]]
+title = "Grizzled Mercenary"
+entry = "ref/npc/grizzled-mercenary"
+
+[[books.chapters.children.children.children]]
+title = "Expert Bodyguard"
+entry = "ref/npc/expert-bodyguard"
+
+[[books.chapters.children.children.children]]
+title = "Aloof Archer"
+entry = "ref/npc/aloof-archer"
+
+[[books.chapters.children.children.children]]
+title = "Cavalry Soldier"
+entry = "ref/npc/cavalry-soldier"
+
+[[books.chapters.children.children.children]]
+title = "Gladiator Champion"
+entry = "ref/npc/gladiator-champion"
