@@ -23,9 +23,9 @@ shifter's attention.
 
 **Passive:** You gain a +4 competence bonus on Perception checks.
 
-At 8th level: The bonus increases to +6.
+**At 8th level,** the bonus increases to +6.
 
-At 15th level: The bonus increases to +8.
+**At 15th level,** the bonus increases to +8.
 
 **Major Form**
 
@@ -35,11 +35,11 @@ two claw attacks (1d3 damage), a fly speed of 60 feet (good),
 [low-light vision](ref/rule/low-light-vision), and a +4 racial bonus on vision-based Perception
 checks.
 
-**At 15th Level:** You gain [blindsense](ref/umr/blindsense) with a range of 60 feet and your fly
-speed increases to 90 feet (perfect).
-
-**At 8th Level:** You gain [darkvision](ref/rule/darkvision) with a range of 120 feet, and your
+**At 8th level,** you gain [darkvision](ref/rule/darkvision) with a range of 120 feet, and your
 racial bonus on Perception checks increases to +6.
+
+**At 15th level,** you gain [blindsense](ref/umr/blindsense) with a range of 60 feet and your fly
+speed increases to 90 feet (perfect).
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

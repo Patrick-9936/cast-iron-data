@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Quickened Magic (Su):**
+**Quickened Magic (Su)**
 
 **Ability:** The magus can cast one spell per day as if it were modified by the
 [Quicken Spell](ref/feat/quicken-spell) feat. This does not increase the level of the spell.

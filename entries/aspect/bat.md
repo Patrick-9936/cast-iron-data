@@ -23,12 +23,12 @@ as some other aspects, those who take this aspect become adept at skirmishing an
 **Ability:** You gain [darkvision](ref/rule/darkvision) with a range of 60 feet. If you already have
 darkvision with this range or greater, the range of your darkvision increases by 30 feet.
 
-**At 15th Level:** You gain the 8th-level benefit and gain [blindsense](ref/umr/blindsense) with a
+**At 8th level,** you gain [darkvision](ref/rule/darkvision) with a range of 90 feet instead. If you
+already have darkvision with this range or greater, your darkvision increases by 30 feet.
+
+**At 15th level,** you gain the 8th-level benefit and gain [blindsense](ref/umr/blindsense) with a
 range of 15 feet or, if you already have [blindsense](ref/rule/blindsight-and-blindsense) with a
 range of 15 feet or more, you increase its range by 10 feet.
-
-**At 8th Level:** You gain [darkvision](ref/rule/darkvision) with a range of 90 feet instead. If you
-already have darkvision with this range or greater, your darkvision increases by 30 feet.
 
 **Major Form**
 
@@ -37,12 +37,12 @@ form, you gain a base speed of 30 feet, a fly speed of 40 feet (clumsy),
 [blindsense](ref/rule/blindsight-and-blindsense) with a range of 10 feet, and a
 [bite attack](ref/umr/natural-attacks) (1d8 damage).
 
-**At 15th Level:** Your fly speed increases to 80 feet (good) and you gain the
-[Hover](ref/feat/hover) feat.
-
-**At 8th Level:** The fly speed increases to 60 feet (good), the range of your
+**At 8th level,** the fly speed increases to 60 feet (good), the range of your
 [blindsense](ref/rule/blindsight-and-blindsense) increases to 20 feet, and you gain the
 [Flyby Attack](ref/feat/flyby-attack) feat.
+
+**At 15th level,** your fly speed increases to 80 feet (good) and you gain the
+[Hover](ref/feat/hover) feat.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

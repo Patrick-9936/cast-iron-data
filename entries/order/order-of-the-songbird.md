@@ -49,10 +49,10 @@ A samurai belonging to the order of the songbird gains the following abilities.
 
 **Versatile Performance (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** The order of the songbird samurai gains the benefits of the [bard's](ref/class/bard)
 versatile performance ability with one Perform skill.
-
-**Gained:** At 2nd Level
 
 **Versatile Performance (Ex)**
 
@@ -79,9 +79,9 @@ The types of Perform and their associated skills are:
 
 **Poetic Inspiration (Ex)**
 
-**Flavor:** An order of the songbird samurai can speak a few words, inspiring allies to great deeds.
-
 **Gained:** At 8th Level
+
+**Flavor:** An order of the songbird samurai can speak a few words, inspiring allies to great deeds.
 
 **Swift:** Allies within 30 feet who can hear the samurai gain a competence bonus equal to her
 Charisma modifier on attack and weapon damage rolls for 1 round. This ability can be used once per
@@ -89,10 +89,10 @@ combat.
 
 **Beautiful Strike (Su)**
 
+**Gained:** At 15th Level
+
 **Ability:** Once per day when the order of the songbird samurai confirms a critical hit against the
 target of her _challenge,_ she can declare it a _beautiful strike_S without spending an action. The
 damage dealt by the attack becomes nonlethal damage, and the target must succeed at a Will save (DC
 = 10 + half the samurai's class level + her Charisma modifier) or be charmed as per
 [charm monster](ref/spell/charm-monster) (caster level equals the samurai's class level).
-
-**Gained:** At 15th Level

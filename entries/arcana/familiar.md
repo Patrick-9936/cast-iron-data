@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Familiar (Ex):**
+**Familiar (Ex)**
 
 **Ability:** The magus gains a [familiar](ref/sidekick/familiar), using his magus level as his
 effective wizard level. This familiar follows the rules for [familiars](ref/ability/familiars)

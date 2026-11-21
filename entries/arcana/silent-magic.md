@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Silent Magic (Su):**
+**Silent Magic (Su)**
 
 **Ability:** The magus can cast one spell per day as if it were modified by the
 [Silent Spell](ref/feat/silent-spell) feat. This does not increase the casting time or the level of

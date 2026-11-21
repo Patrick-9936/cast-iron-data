@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Rakshasa's Fortune (Su):**
+**Rakshasa's Fortune (Su)**
 
 **Free:** Whenever the magus casts a spell of the polymorph subschool on himself, he can draw a card
 from a complete [harrow deck](ref/eq-misc/harrow-deck) he owns. If the card's alignment and the

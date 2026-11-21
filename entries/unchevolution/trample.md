@@ -17,7 +17,7 @@ group = "unchained-summoner-evolution"
 **Flavor:** The eidolon gains the ability to crush its foes underfoot, gaining the
 [trample](ref/umr/trample) ability.
 
-**Fullround:** The eidolon can overrun any creature that is at least one size category smaller than
+**Full-round:** The eidolon can overrun any creature that is at least one size category smaller than
 itself. This works like the [overrun](ref/rule/overrun) combat maneuver, but the eidolon does not
 need to attempt a check; it merely has to move over opponents in its path. The creatures take 1d6
 points of damage (1d8 if Large, 2d6 if Huge), plus 1-1/2 times the eidolon's Strength modifier.

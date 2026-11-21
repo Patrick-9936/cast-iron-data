@@ -41,11 +41,11 @@ points of fire damage + half your inquisitor level (minimum 1).
 
 **Gained:** At 8th Level
 
-**Special:** If a creature affected by this ability fails its save and is for some reason unable to
-dispel any ongoing polymorph effects or innate shapechanging abilities, it is instead
-[staggered](ref/misc/staggered) for 1 round. This is a mind-affecting compulsion effect.
-
 **Standard:** Once per day you can invoke the name of your deity and order one shapechanged target
 within 30 feet to reveal its true form. The target must succeed at a Will save (DC 10 + 1/2 your
 inquisitor level + your Wisdom modifier) or be forced on its next turn to dispel any ongoing
 polymorph effects or innate shapechanging abilities to assume its natural form.
+
+**Special:** If a creature affected by this ability fails its save and is for some reason unable to
+dispel any ongoing polymorph effects or innate shapechanging abilities, it is instead
+[staggered](ref/misc/staggered) for 1 round. This is a mind-affecting compulsion effect.

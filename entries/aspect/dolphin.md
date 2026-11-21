@@ -23,9 +23,9 @@ the size and ferociousness of large dolphins, such as orcas.
 **Passive:** You gain a +4 competence bonus on Knowledge checks to identify creatures' abilities and
 weaknesses.
 
-At 8th level: The bonus increases to +6.
+**At 8th level,** the bonus increases to +6.
 
-At 15th level: The bonus increases to +8.
+**At 15th level,** the bonus increases to +8.
 
 **Major Form**
 
@@ -36,11 +36,11 @@ At 15th level: The bonus increases to +8.
 the ability to [hold your breath](ref/misc/hold-your-breath) for a number of minutes equal to 6
 times your Constitution score before you risk drowning.
 
-**At 15th Level:** The range of your [blindsense](ref/rule/blindsight-and-blindsense) increases to
-60 feet and your swim speed increases to 80 feet.
-
-**At 8th Level:** The range of your [blindsense](ref/rule/blindsight-and-blindsense) increases to 20
+**At 8th level,** the range of your [blindsense](ref/rule/blindsight-and-blindsense) increases to 20
 feet.
+
+**At 15th level,** the range of your [blindsense](ref/rule/blindsight-and-blindsense) increases to
+60 feet and your swim speed increases to 80 feet.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

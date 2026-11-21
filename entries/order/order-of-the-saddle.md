@@ -56,25 +56,25 @@ level.
 
 **Mounted Synergy (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** The cavalier receives [Mounted Combat](ref/feat/mounted-combat) as a bonus feat and,
 whenever she is mounted, gains a +2 bonus on initiative checks as long as her mount is conscious and
 mobile.
 
-**Gained:** At 2nd Level
-
 **Stalwart Mount (Su)**
+
+**Gained:** At 8th Level
 
 **Ability:** The cavalier's mount becomes healthier and more robust. It gains
 [Toughness](ref/feat/toughness) as a bonus feat (if it already has Toughness, or takes this as a
 feat later, the hit points granted by the feat are doubled) and gains a +2 bonus on saving throws.
 
-**Gained:** At 8th Level
-
 **Protective Partner (Ex)**
 
-**Flavor:** The cavalier wreaks terrible vengeance on those who would try to harm her mount.
-
 **Gained:** At 15th Level
+
+**Flavor:** The cavalier wreaks terrible vengeance on those who would try to harm her mount.
 
 **Passive:** Whenever an opponent attacks the cavalier's mount, the attacking creature provokes an
 attack of opportunity from the cavalier. The cavalier receives a +2 bonus on attack rolls and damage

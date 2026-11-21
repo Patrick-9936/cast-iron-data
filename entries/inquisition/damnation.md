@@ -33,9 +33,9 @@ complete. Good and neutral creatures that refuse become [shaken](ref/misc/shaken
 negates), while evil creatures that obey gain a +2 morale bonus on all rolls and checks made for 1
 round.
 
-**Special:** This is a language-dependent, mind-affecting effect.
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Special:** This is a language-dependent, mind-affecting effect.
 
 **Collector of Souls (Sp)**
 

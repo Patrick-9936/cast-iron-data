@@ -81,6 +81,10 @@ attack provokes an attack of opportunity from the cavalier.
 
 **Unstoppable Ravager (Ex)**
 
+**Gained:** At 15th Level
+
+**Flavor:** The cavalier becomes an unstoppable engine of destruction.
+
 **Ability:** If the cavalier's current hit points drop below 0, he does not fall unconscious.
 Instead, he continues to act so long as his negative hit point total does not exceed the amount of
 damage he dealt to an enemy on a single melee attack during the last round.
@@ -93,7 +97,3 @@ must deal to continue to act is now equal to the difference between his current 
 total and his negative Constitution score. Additionally, the cavalier can no longer benefit from
 magical healing (save for a [wish](ref/spell/wish) or [miracle](ref/spell/miracle) spell), and he
 immediately dies once he can no longer take an action due to this ability.
-
-**Flavor:** The cavalier becomes an unstoppable engine of destruction.
-
-**Gained:** At 15th Level

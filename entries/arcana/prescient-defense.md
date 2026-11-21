@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Prescient Defense (Su):**
+**Prescient Defense (Su)**
 
 **Immediate:** The magus can expend 1 point from his arcane pool after hitting a target with a
 weapon attack, granting him a premonition of his enemy's intentions. The magus gains a bonus to his

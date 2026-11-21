@@ -62,9 +62,9 @@ revealing information about his charge.
 
 **I Shall Not Be Moved (Ex)**
 
-**Flavor:** The cavalier can draw on his dedication to overcome physical weakness.
-
 **Gained:** At 8th Level
+
+**Flavor:** The cavalier can draw on his dedication to overcome physical weakness.
 
 **Passive:** Whenever the cavalier does not move more than a 5-foot step, he receives a +2 dodge
 bonus to his CMD to resist bull rush, overrun, reposition, and trip combat maneuvers until his next
@@ -72,11 +72,11 @@ turn.
 
 **Staggering Assault (Ex)**
 
+**Gained:** At 15th Level
+
 **Flavor:** The cavalier can drive opponents back without giving ground.
 
-**Fullround:** The cavalier can make a single attack at his highest attack bonus. If the attack
+**Full-round:** The cavalier can make a single attack at his highest attack bonus. If the attack
 hits, the attack does damage as normal, and the cavalier may attempt a
 [bull rush](ref/rule/bull-rush) against the target. The cavalier gains a bonus on the bull rush
 combat maneuver check equal to half the amount of damage dealt on the initial attack.
-
-**Gained:** At 15th Level

@@ -56,31 +56,27 @@ A ronin samurai gains the following abilities as he increases in level.
 
 **Self Reliant (Ex)**
 
+**Gained:** At 2nd Level
+
+**Flavor:** The ronin learns to rely solely on himself, even in the most difficult of times.
+
 **Ability:** Whenever the ronin fails a Will saving throw against an effect with a duration greater
 than 1 round, he can attempt another saving throw at the end of the second round of the effect. If
 he makes this saving throw, it has the same effect as if he had made the original save (negating
 part or all of the effect).
-
-**Flavor:** The ronin learns to rely solely on himself, even in the most difficult of times.
-
-**Gained:** At 2nd Level
 
 **Special:** In addition, whenever a ronin is brought below 0 hit points, on his next turn he can
 roll twice to stabilize, taking the better result.
 
 **Without Master (Ex)**
 
-**Action:** Immediate Action
+**Gained:** At 8th Level
 
 **Flavor:** The ronin's fierce independence allows him to overcome staggering odds.
 
-**Gained:** At 8th Level
+**Immediate:** The ronin can summon up his willpower and can use it in one of three ways.
 
 **Usage:** Once during a combat
-
-**Usage:** Once during a combat
-
-The ronin can summon up his willpower and can use it in one of three ways.
 
 1. He can use his willpower whenever an attack would reduce him to fewer than 0 hit points but
   wouldn't kill him, to instead be at 1 hit point and conscious.

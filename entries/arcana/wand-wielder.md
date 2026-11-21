@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Wand Wielder (Su):**
+**Wand Wielder (Su)**
 
 **Ability:** The magus can activate a wand or staff in place of casting a spell when using spell
 combat.

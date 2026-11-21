@@ -44,16 +44,16 @@ it affects your [jumping](ref/skill/acrobatics) distance as normal for increased
 can also remove one of the following conditions from yourself: blinded, confused, dazzled, deafened,
 frightened, nauseated, shaken, sickened, or staggered.
 
-At 8th level: The amount you heal increases to 4d6.
+**At 8th level,** the amount you heal increases to 4d6.
 
-At 10th level: The amount you heal increases to 5d6.
+**At 10th level,** the amount you heal increases to 5d6.
 
-At 12th level: The amount you heal increases to 6d6.
+**At 12th level,** the amount you heal increases to 6d6.
 
-At 14th level: The amount you heal increases to 7d6.
+**At 14th level,** the amount you heal increases to 7d6.
 
-At 16th level: The amount you heal increases to 8d6.
+**At 16th level,** the amount you heal increases to 8d6.
 
-At 18th level: The amount you heal increases to 9d6.
+**At 18th level,** the amount you heal increases to 9d6.
 
-At 20th level: The amount you heal increases to 10d6.
+**At 20th level,** the amount you heal increases to 10d6.

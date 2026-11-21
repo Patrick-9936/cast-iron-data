@@ -16,11 +16,11 @@ group = "summoner-evolution"
 
 **Flavor:** An eidolon's body becomes resistant to harm, granting it damage reduction.
 
-**At 12th Level:** This protection can be increased to DR 10 by spending 2 additional evolution
-points.
-
 **Passive:** Choose one alignment: chaotic, evil, good, or lawful. The eidolon gains DR 5 that can
 be bypassed by weapons that possess the chosen alignment. The alignment must be opposite to one of
 the alignments possessed by the eidolon.
+
+**At 12th level,** this protection can be increased to DR 10 by spending 2 additional evolution
+points.
 
 **Prereq:** 9th-level summoner

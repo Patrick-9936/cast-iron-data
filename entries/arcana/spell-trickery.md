@@ -15,14 +15,12 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Spell Trickery (Ex):**
+**Spell Trickery (Ex)**
 
 **Ability:** When the magus successfully performs a [dirty trick](ref/rule/dirty-trick) combat
 maneuver, he can cast an illusion or enchantment spell he has prepared with a casting time of 1
 standard action or less as a **swift action**.
 
+**Usage:** Once per day
+
 **Prereq:** 12th-level magus
-
-**Usage:** Once per day
-
-**Usage:** Once per day

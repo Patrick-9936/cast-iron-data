@@ -22,9 +22,9 @@ with an astounding agility and balance.
 
 **Passive:** You gain a +4 competence bonus on Acrobatics checks.
 
-At 8th level: The bonus increases to +6.
+**At 8th level,** the bonus increases to +6.
 
-At 15th level: The bonus increases to +8.
+**At 15th level,** the bonus increases to +8.
 
 **Major Form**
 
@@ -35,10 +35,10 @@ While in this form, you gain a base speed of 40 feet, [low-light vision](ref/rul
 the [grab](ref/umr/grab) ability and a secondary tail attack (1d6 damage) with the
 [trip](ref/umr/trip) ability.
 
-**At 15th Level:** You gain [Improved Natural Attack](ref/feat/improved-natural-attack) with your
-bite and your tail attacks, and the reach of your tail attack becomes 10 feet.
+**At 8th level,** your base speed increases to 60 feet and you gain a climb speed of 30 feet.
 
-**At 8th Level:** Your base speed increases to 60 feet and you gain a climb speed of 30 feet.
+**At 15th level,** you gain [Improved Natural Attack](ref/feat/improved-natural-attack) with your
+bite and your tail attacks, and the reach of your tail attack becomes 10 feet.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

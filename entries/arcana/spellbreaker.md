@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Spellbreaker (Ex):**
+**Spellbreaker (Ex)**
 
 **Ability:** The magus gains [Spellbreaker](ref/feat/spellbreaker) as a bonus feat.
 

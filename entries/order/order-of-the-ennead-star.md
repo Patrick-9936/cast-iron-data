@@ -90,8 +90,6 @@ critical hit damage.
 
 **Gained:** At 15th Level
 
-**Special:** A cavalier can use this ability only once per combat.
-
 **Swift:** The cavalier can declare himself an enforcer of martial law. For a number of rounds equal
 to his Charisma modifier, the cavalier can ignore
 [difficult terrain](ref/rule/terrain-and-obstacles) and gains an additional +2 bonus on attack rolls
@@ -102,3 +100,5 @@ for a number of additional rounds equal to the cavalier's Charisma modifier. Add
 these creatures attack the cavalier, attempt saving throws against the cavalier's abilities, or
 attempt opposed skill checks against the cavalier, they take a -3 penalty for being shaken (instead
 of -2).
+
+**Special:** A cavalier can use this ability only once per combat.

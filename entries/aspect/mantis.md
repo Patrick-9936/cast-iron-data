@@ -21,7 +21,7 @@ The aspect of the mantis imparts uncanny patience and unsettling speed.
 
 **Ability:** You gain [Lunge](ref/feat/lunge) as a bonus feat.
 
-**At 12th Level:** Your reach increases by 5 feet.
+**At 12th level,** your reach increases by 5 feet.
 
 **Major Form**
 
@@ -30,11 +30,11 @@ in this form, you gain [darkvision](ref/rule/darkvision) with a range of 60 feet
 on initiative checks, and two primary [claw attacks](ref/umr/natural-attacks) (1d6) with the
 [grab](ref/umr/grab) ability.
 
-**At 15th Level:** Whenever you roll for initiative, you can roll three times and use any one of the
-results.
-
-**At 8th Level:** You can always act in the surprise round, but if you fail to notice your foes, you
+**At 8th level,** you can always act in the surprise round, but if you fail to notice your foes, you
 act last, regardless of your initiative result (you act in the normal order in subsequent rounds).
+
+**At 15th level,** whenever you roll for initiative, you can roll three times and use any one of the
+results.
 
 **Functions As:** [Vermin Shape II](ref/spell/vermin-shape-2)
 

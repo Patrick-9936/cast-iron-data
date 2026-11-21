@@ -43,13 +43,15 @@ An order of the beast cavalier gains the following abilities as he increases in 
 
 **Wild Empathy (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** The cavalier can improve the attitude of an animal. This ability functions as the druid
 ability of the [same name](ref/ability/wild-empathy). The cavalier uses his level as his effective
 druid level when using this ability.
 
-**Gained:** At 2nd Level
-
 **Wild Mount Shape (Su)**
+
+**Gained:** At 8th Level
 
 **Ability:** An order of the of the beast cavalier gains the ability to turn his mount into a
 different Medium or Large animal and back again once per day. His options for new forms include all
@@ -63,20 +65,18 @@ must be that of an animal the cavalier is familiar with. The mount does not chan
 receive the bonuses (not the penalty) presented in _[beast shape II](ref/spell/beast-shape-2)_ for
 the Large animal.
 
-**At 15th Level:** The cavalier can use _wild mount shape_ to change his mount into a Medium or
+**Usage:** 1 time/day + 1 per 4 cavalier levels beyond 6th
+
+**At 15th level,** the cavalier can use _wild mount shape_ to change his mount into a Medium or
 Large dragon. When taking this form, the cavalier's _wild mount shape_ now functions as
 [form of the dragon I](ref/spell/form-of-the-dragon-1), except as above.
 
-**Gained:** At 8th Level
-
-**Usage:** 1 time/day + 1 per 4 cavalier levels beyond 6th
-
 **Ferocious Charge (Ex)**
+
+**Gained:** At 15th Level
 
 **Flavor:** The cavalier is the embodiment of nature's fury.
 
 **Free:** When the cavalier [charges](ref/rule/charge) a creature, he can attempt an
 [Intimidate](ref/skill/intimidate) check to demoralize his enemy. If he succeeds, the target is
 [frightened](ref/misc/frightened).
-
-**Gained:** At 15th Level

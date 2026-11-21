@@ -34,9 +34,9 @@ aura, a dying creature (including yourself) adds your Wisdom bonus to its
 
 **Stare of Oblivion (Sp)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can use [feeblemind](ref/spell/feeblemind) as a [gaze](ref/umr/gaze) attack against
 one creature (Will negates). This effect lasts 1d4 rounds.
-
-**Gained:** At 8th Level
 
 **Usage:** 1 time/day + 1 per 4 inquisitor levels beyond 8th

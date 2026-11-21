@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Rod Mastery (Su):**
+**Rod Mastery (Su)**
 
 **Ability:** Whenever the magus uses a rod, he calculates the DC for any spell it contains using his
 Intelligence modifier (minimum 0) instead of the minimum modifier needed to cast a spell of that

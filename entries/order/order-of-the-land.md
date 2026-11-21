@@ -56,12 +56,7 @@ that round with an improvised weapon. This ability can be used once per combat.
 
 **Terrain Training (Ex)**
 
-**Choice:** The cavalier may select a terrain type from the ranger
-[Favored Terrains](ref/ability/favored-terrain) table.
-
 **Gained:** At 8th Level
-
-**Repeat:** The cavalier may select a new terrain type that this ability can affect., 12, 4
 
 **Standard:** He can shout orders that grant all allies within 60 feet a competence bonus equal to
 his Charisma modifier on initiative checks and
@@ -69,7 +64,14 @@ his Charisma modifier on initiative checks and
 Survival checks while they are in the chosen terrain for a number of rounds equal to 1/2 his
 cavalier level.
 
+**Choice:** The cavalier may select a terrain type from the ranger
+[Favored Terrains](ref/ability/favored-terrain) table.
+
+**Repeat:** The cavalier may select a new terrain type that this ability can affect., 12, 4
+
 **Wild Charge (Ex)**
+
+**Gained:** At 15th Level
 
 **Ability:** The cavalier and his mount can ignore
 [difficult terrain](ref/rule/terrain-and-obstacles) for the purpose of making a
@@ -77,5 +79,3 @@ cavalier level.
 his opponent are occupying squares with difficult terrain, the cavalier gains a +2 competence bonus
 when using his _mighty charge_ ability to make a bull rush, disarm, sunder, or trip
 [combat maneuver](ref/rule/combat-maneuvers).
-
-**Gained:** At 15th Level

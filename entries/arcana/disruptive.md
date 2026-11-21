@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Disruptive (Ex):**
+**Disruptive (Ex)**
 
 **Ability:** The magus gains [Disruptive](ref/feat/disruptive) as a bonus feat.
 

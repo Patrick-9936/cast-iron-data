@@ -57,9 +57,9 @@ This does not stack with other fear effects.
 
 **Inspiring Pain (Ex)**
 
-**Flavor:** The cavalier can inspire brutal malice among his allies.
-
 **Gained:** At 8th Level
+
+**Flavor:** The cavalier can inspire brutal malice among his allies.
 
 **Swift:** The cavalier can allow allies within 30 feet to deal nonlethal damage with their weapons
 without taking the usual -4 penalty (the weapon must still be capable of dealing nonlethal damage).
@@ -68,14 +68,14 @@ can be used once every 5 minutes.
 
 **Assert Authority (Ex)**
 
+**Gained:** At 15th Level
+
+**Flavor:** The cavalier demonstrates his ruthlessness against those who strike the cavalier or his
+slaves.
+
 **Ability:** Whenever an enemy makes a melee attack against the cavalier or one of his adjacent
 slaves or servants, that enemy provokes an attack of opportunity from the cavalier, and the cavalier
 gains a +2 morale bonus on this attack of opportunity.
 
 If the enemy's attack was a confirmed critical hit, the cavalier counts the enemy as if it were the
 target of his _challenge_ for this attack of opportunity.
-
-**Flavor:** The cavalier demonstrates his ruthlessness against those who strike the cavalier or his
-slaves.
-
-**Gained:** At 15th Level

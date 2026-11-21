@@ -47,32 +47,34 @@ level.
 
 **Monster Expert (Ex)**
 
+**Gained:** At 2nd Level
+
 **Flavor:** The cavalier learns how to dodge the attacks of his monstrous foes and the traps in
 their lairs.
-
-**Gained:** At 2nd Level
 
 **Passive:** He gains a bonus equal to his Charisma bonus on Fortitude and Reflex saves against
 abilities and spells that have an area of effect.
 
 **Resist Energy (Su)**
 
-**Flavor:** The cavalier can steel himself against harmful energies.
-
 **Gained:** At 8th Level
+
+**Flavor:** The cavalier can steel himself against harmful energies.
 
 **Move:** The cavalier chooses one of the following: acid, cold, electricity, or fire. He gains
 energy [resistance](ref/umr/resistance) 5 against the chosen type for 1 minute.
 
 **Usage:** 1 time/day + 1 per 4 cavalier levels beyond 8th
 
-At 12th level: The resistance increases to 10.
+**At 12th level,** the resistance increases to 10.
 
-At 16th level: The resistance increases to 15.
+**At 16th level,** the resistance increases to 15.
 
-At 20th level: The resistance increases to 20.
+**At 20th level,** the resistance increases to 20.
 
 **Counterstriking Challenge (Ex)**
+
+**Gained:** At 15th Level
 
 **Ability:** Once per day when he _challenges_ a Large or larger creature, the cavalier can also
 prepare to interrupt the creature's special attacks. The _challenged_ target provokes an attack of
@@ -80,8 +82,6 @@ opportunity from the cavalier whenever it activates an extraordinary or a supern
 as a breath weapon or gaze attack). If the cavalier deals damage with this attack, the creature must
 succeed at a Will save (DC = 10 + half the cavalier's level + his Charisma modifier) or it fails to
 activate the special attack and loses the action it took to do so.
-
-**Gained:** At 15th Level
 
 **Special:** The cavalier can perform three such attacks of opportunity over the course of a
 _counterstriking challenge._

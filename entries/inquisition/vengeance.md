@@ -26,8 +26,6 @@ Vengeance is justice naked of pretense. On your oath, you will deliver justice s
 
 **Divine Retribution (Sp)**
 
-**Special:** The GM decides whether this damage is bludgeoning, piercing, or slashing damage.
-
 **Standard:** You can point at one creature within 30 feet to indicate that it is the target of
 divine wrath. A mishap or an accident appropriate to the environment occurs, such as a branch
 falling on the creature, rocks falling from the ceiling, or some other nonmagical misfortune;
@@ -36,13 +34,15 @@ regardless of the cause, the mishap deals damage equal to 1d6 +
 
 **Usage:** 3 + Wisdom modifier times/day
 
+**Special:** The GM decides whether this damage is bludgeoning, piercing, or slashing damage.
+
 **Final Vengeance (Su)**
+
+**Gained:** At 8th Level
 
 **Ability:** Once per day, you can make one melee attack against an opponent within reach in
 response to an attack that would reduce you to negative hit points. Once your attack is resolved,
 you suffer the normal effect of the attack that provoked this ability.
-
-**Gained:** At 8th Level
 
 **Special:** Effects that kill you or do not reduce you to negative hit points (such as
 [ability damage or drain](ref/rule/ability-damage-drain),

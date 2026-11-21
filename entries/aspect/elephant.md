@@ -24,9 +24,9 @@ learn the value of applying their strength with precision. An elephant's alterna
 **Passive:** You gain a +4 enhancement bonus on [bull rush](ref/rule/bull-rush) and
 [overrun](ref/rule/overrun) combat maneuver checks.
 
-At 8th level: The bonus increases to +6.
+**At 8th level,** the bonus increases to +6.
 
-At 15th level: The bonus increases to +8.
+**At 15th level,** the bonus increases to +8.
 
 **Major Form**
 
@@ -37,11 +37,11 @@ an elephant, but with a space of 10 feet). While in this form, you gain
 reach. You also gain a +2 racial bonus to Strength and to natural armor. While in this form, you can
 carry a Medium bipedal creature on your back, allowing you to act as the creature's mount.
 
-**At 15th Level:** You gain [Improved Bull Rush](ref/feat/improved-bull-rush) as a bonus feat, and
-your racial bonus to Strength and natural armor increases to +4.
-
-**At 8th Level:** You gain [trample](ref/umr/trample), as the universal monster rule, dealing your
+**At 8th level,** you gain [trample](ref/umr/trample), as the universal monster rule, dealing your
 _shifter claw_ damage.
+
+**At 15th level,** you gain [Improved Bull Rush](ref/feat/improved-bull-rush) as a bonus feat, and
+your racial bonus to Strength and natural armor increases to +4.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

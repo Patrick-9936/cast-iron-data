@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Divinatory Strike (Su):**
+**Divinatory Strike (Su)**
 
 **Ability:** Whenever the magus scores a critical hit against an opponent with a melee attack, he
 can gain preternatural insight into his foe's strengths and weaknesses as though he had rolled a

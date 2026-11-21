@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Ki Arcana (Ex):**
+**Ki Arcana (Ex)**
 
 **Ability:** The magus may use points from his arcana pool and ki points from a _ki pool_ granted by
 another class interchangeably.

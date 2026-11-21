@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Distant Spellstrike (Su):**
+**Distant Spellstrike (Su)**
 
 **Ability:** The range of any spell the magus delivers through a ranged weapon attack increases to
 the maximum range of the weapon if that is greater than the spell's range.

@@ -49,19 +49,19 @@ level.
 
 **Spell Aid (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** Whenever the cavalier uses the [aid another](ref/rule/aid-another) action to assist one
 of his allies, the ally receives a +2 competence bonus on the next
 [concentration](ref/rule/concentration) check, [dispel](ref/spell/dispel-magic) check, or caster
 level check she makes (whichever comes first). At 8th level and every six levels thereafter, this
 bonus increases by an additional +1.
 
-**Gained:** At 2nd Level
+**At 8th level,** this bonus increases to +3.
 
-At 8th level: This bonus increases to +3.
+**At 14th level,** this bonus increases to +4.
 
-At 14th level: This bonus increases to +4.
-
-At 20th level: This bonus increases to +5.
+**At 20th level,** this bonus increases to +5.
 
 **Arcane Vessel (Ex)**
 
@@ -78,14 +78,14 @@ minutes.
 
 **Synchronized Smash (Ex)**
 
+**Gained:** At 15th Level
+
+**Flavor:** The cavalier can utilize the power of his spellcasting allies to make devastating
+attacks against the allies' targets.
+
 **Ability:** If the cavalier is adjacent to an enemy affected by a targeted or area spell or
 [spell-like ability](ref/umr/spell-like-abilities) cast by one of the cavalier's allies, he can make
 an immediate attack of opportunity against the affected creature. If the cavalier is also affected
 by the spell (such as by being caught in the area of the same [fireball](ref/spell/fireball) spell),
 during the rest of that round he automatically confirms any critical hits made against the affected
 creature while using this ability.
-
-**Flavor:** The cavalier can utilize the power of his spellcasting allies to make devastating
-attacks against the allies' targets.
-
-**Gained:** At 15th Level

@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Aquatic Agility (Su):**
+**Aquatic Agility (Su)**
 
 **Immediate:** The magus can spend 1 point from his arcane pool to gain the benefits of
 [water breathing](ref/spell/water-breathing) for 1 round per level. During this time, he can ignore

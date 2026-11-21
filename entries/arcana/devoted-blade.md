@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Devoted Blade (Su):**
+**Devoted Blade (Su)**
 
 **Ability:** Whenever the magus enhances his weapon using his arcane pool, he may spend 1 additional
 point from his arcane pool to add either the [anarchic](ref/magic-enh/anarchic),

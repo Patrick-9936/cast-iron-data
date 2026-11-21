@@ -46,10 +46,10 @@ result.
 
 **Delayed Spells (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can delay the effects of a spell you cast by up to 1 round per inquisitor level.
 You choose the duration of the delay when you cast the spell and can cause the spell to take effect
 immediately during the period of delay by concentrating as a **standard action**.
-
-**Gained:** At 8th Level
 
 **Usage:** 1 time/day + 1 per 4 inquisitor levels beyond 8th

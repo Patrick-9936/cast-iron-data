@@ -22,9 +22,9 @@ it down with ruthless efficiency.
 
 **Passive:** You gain a +2 enhancement bonus to your Dexterity score.
 
-At 8th level: This bonus increases to +4.
+**At 8th level,** this bonus increases to +4.
 
-At 15th level: This bonus increases to +6.
+**At 15th level,** this bonus increases to +6.
 
 **Major Form**
 
@@ -34,10 +34,10 @@ While in this form, you gain a base speed of 40 feet, [low-light vision](ref/rul
 attacks (2d4 damage), the [grab](ref/umr/grab) ability with both your bite and claw attacks, and
 [pounce](ref/umr/pounce).
 
-**At 15th Level:** You gain the [rake](ref/umr/rake) attack with your back claw attacks (dealing
-additional damage equal to that of your claw attack).
+**At 8th level,** you gain a +4 racial bonus on Stealth checks.
 
-**At 8th Level:** You gain a +4 racial bonus on Stealth checks.
+**At 15th level,** you gain the [rake](ref/umr/rake) attack with your back claw attacks (dealing
+additional damage equal to that of your claw attack).
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

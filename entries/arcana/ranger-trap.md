@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Ranger Trap:**
+**Ranger Trap**
 
 **Ability:** The magus learns a ranger trap.
 

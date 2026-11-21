@@ -15,10 +15,10 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Tabris's Step (Sp):**
-
-**Prereq:** 6th-level magus
+**Tabris's Step (Sp)**
 
 **Swift:** A magus can spend 1 point from his arcane pool and gain the effects of a
 [water walk](ref/spell/water-walk) spell for 10 minutes per magus level. If he expends 2 points from
 his arcane pool, he can affect a total number of touched creatures equal to his magus level.
+
+**Prereq:** 6th-level magus

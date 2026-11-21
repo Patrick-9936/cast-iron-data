@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Scroll Mastery (Su):**
+**Scroll Mastery (Su)**
 
 **Ability:** Whenever the magus uses a scroll, he may expend 1 point from his arcane pool to allow
 him to calculate the DC for any spell contained on the scroll using his Intelligence modifier,

@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Bane Blade (Su):**
+**Bane Blade (Su)**
 
 **Ability:** Whenever the magus enhances his weapon using his arcane pool, he may spend 1 additional
 point from his arcane pool to add the [bane](ref/magic-enh/bane) special ability to the weapon.
