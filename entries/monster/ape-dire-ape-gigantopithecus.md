@@ -47,13 +47,17 @@ ending in wickedly curved claws._
 
 **Experience points:** 800
 
-**Armor class:** 15/11/13
+**Armor class:** 15
 
-**Fort:** +7
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +4 natural, -1 size
 
 **Hit points:** 30 (4d8+12)
 
-**Mod:** +2 Dex, +4 natural, -1 size
+**Fort:** +7
 
 **Ref:** +6
 

@@ -47,19 +47,23 @@ _Trim wings fold along the back of this oblong, iridescent insect._
 
 **Experience points:** 400
 
-**Armor class:** 15/12/14
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +3 natural, +1 size
 
 **Hit points:** 15 (2d8+6)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +3 natural, +1 size
+**Fort:** +6
 
 **Ref:** +1
 
 **Will:** +0
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

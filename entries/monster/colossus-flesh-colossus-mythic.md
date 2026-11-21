@@ -55,21 +55,25 @@ humanoid shape._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/6/30
+**Armor class:** 30
 
-**Dr:** 10/epic
+**Touch:** 6
 
-**Fort:** +5
+**Flat-footed:** 30
+
+**AC modifiers:** +24 natural, -4 size
 
 **Hit points:** 224 (16d10+136)
 
-**Immune:** electricity, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +24 natural, -4 size
+**Fort:** +5
 
 **Ref:** +5
 
 **Will:** +5
+
+**Dr:** 10/epic
+
+**Immune:** electricity, [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

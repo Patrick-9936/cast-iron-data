@@ -54,19 +54,23 @@ belt that encircles her chiton._
 
 **Experience points:** 9,600
 
-**Armor class:** 21/8/21
+**Armor class:** 21
 
-**Ferocity:** present
+**Touch:** 8
 
-**Fort:** +12
+**Flat-footed:** 21
+
+**AC modifiers:** +6 armor, -1 Dex, +7 natural, -1 size
 
 **Hit points:** 153 (10d8+8d8+72\~18)
 
-**Mod:** +6 armor, -1 Dex, +7 natural, -1 size
+**Fort:** +12
 
 **Ref:** +4
 
 **Will:** +13
+
+**Ferocity:** present
 
 **Offense**
 

@@ -52,19 +52,23 @@ into a giant, winged scorpion._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/9/20
+**Armor class:** 20
 
-**Dr:** 5/epic
+**Touch:** 9
 
-**Fort:** +7
+**Flat-footed:** 20
+
+**AC modifiers:** +11 natural, -1 size
 
 **Hit points:** 75 (6d10+42)
 
-**Mod:** +11 natural, -1 size
+**Fort:** +7
 
 **Ref:** +2
 
 **Will:** +6
+
+**Dr:** 5/epic
 
 **Offense**
 

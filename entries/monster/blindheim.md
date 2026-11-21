@@ -48,19 +48,23 @@ glowing white eyes._
 
 **Experience points:** 600
 
-**Armor class:** 16/14/13
+**Armor class:** 16
 
-**Fort:** +5
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 dodge, +2 natural, +1 size
 
 **Hit points:** 22 (3d10+6)
 
-**Immune:** blindness
-
-**Mod:** +2 Dex, +1 dodge, +2 natural, +1 size
+**Fort:** +5
 
 **Ref:** +5
 
 **Will:** +2
+
+**Immune:** blindness
 
 **Offense**
 

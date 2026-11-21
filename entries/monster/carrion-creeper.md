@@ -51,19 +51,23 @@ with strength._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/16/17
+**Armor class:** 24
 
-**Fort:** +13
+**Touch:** 16
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 Dex, +8 natural, -1 size
 
 **Hit points:** 133 (14d8+70)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +7 Dex, +8 natural, -1 size
+**Fort:** +13
 
 **Ref:** +11
 
 **Will:** +5
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

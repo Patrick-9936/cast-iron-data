@@ -52,13 +52,17 @@ horrible powers it serves._
 **Subtype:** Charau-ka\
 **Experience points:** 3,200
 
-**Armor class:** 22/14/20
+**Armor class:** 22
 
-**Fort:** +8
+**Touch:** 14
+
+**Flat-footed:** 20
+
+**AC modifiers:** +5 armor, +1 deflection, +2 Dex, +3 natural, +1 size
 
 **Hit points:** 65 (3d8+5d8+29\~8)
 
-**Mod:** +5 armor, +1 deflection, +2 Dex, +3 natural, +1 size
+**Fort:** +8
 
 **Ref:** +6
 

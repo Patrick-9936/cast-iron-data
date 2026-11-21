@@ -52,19 +52,23 @@ it._
 
 **Experience points:** 600
 
-**Armor class:** 12/12/10
+**Armor class:** 12
 
-**Fort:** +0
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +1 Dex, +1 dodge
 
 **Hit points:** 18 (4d10-4)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +1 dodge
+**Fort:** +0
 
 **Ref:** +5
 
 **Will:** +7
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

@@ -52,25 +52,29 @@ swirling with vibrant colors._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Dr:** 10/cold iron or evil
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +6 natural
 
 **Hit points:** 66 (7d10+28)
 
-**Immune:** electricity, petrification
-
-**Mod:** +4 Dex, +6 natural
+**Fort:** +9
 
 **Ref:** +9
+
+**Will:** +6
+
+**Dr:** 10/cold iron or evil
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 17
-
-**Will:** +6
 
 **Offense**
 

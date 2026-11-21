@@ -52,13 +52,17 @@ pair of mandibles._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/11
+**Armor class:** 14
 
-**Fort:** +2
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +3 Dex, +1 size
+**Fort:** +2
 
 **Ref:** +3
 

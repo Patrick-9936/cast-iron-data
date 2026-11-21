@@ -48,13 +48,17 @@ _This oversized rabbit has a single long, pearlescent horn protruding from its c
 
 **Experience points:** 400
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 13 (2d10+2)
 
-**Mod:** +2 Dex, +1 size
+**Fort:** +4
 
 **Ref:** +5
 

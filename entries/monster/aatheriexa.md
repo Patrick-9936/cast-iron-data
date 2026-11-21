@@ -51,21 +51,25 @@ projecting an air of cruelty._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/15/16
+**Armor class:** 21
 
-**Dr:** 5/magic
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 16
+
+**AC modifiers:** +5 Dex, +6 natural
 
 **Hit points:** 84 (13d8+26)
 
-**Immune:** cold, disease, poison
-
-**Mod:** +5 Dex, +6 natural
+**Fort:** +6
 
 **Ref:** +9
 
 **Will:** +8
+
+**Dr:** 5/magic
+
+**Immune:** cold, disease, poison
 
 **Offense**
 

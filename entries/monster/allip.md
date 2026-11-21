@@ -60,23 +60,27 @@ creature's claws manifest from the darkness._
 
 **Experience points:** 800
 
-**Armor class:** 14/14/13
+**Armor class:** 14
 
-**Chan Res:** +2
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 13
+
+**AC modifiers:** +3 deflection, +1 Dex
 
 **Hit points:** 30 (4d8+12)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +3 deflection, +1 Dex
+**Fort:** +4
 
 **Ref:** +4
 
 **Will:** +4
+
+**Chan Res:** +2
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

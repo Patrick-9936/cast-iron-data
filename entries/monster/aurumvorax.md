@@ -46,25 +46,29 @@ _Powerful muscles ripple beneath the golden fur of this small yet fearsome eight
 
 **Experience points:** 6,400
 
-**Armor class:** 23/15/19
+**Armor class:** 23
+
+**Touch:** 15
+
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +8 natural, +1 size
+
+**Hit points:** 114 (12d10+48)
+
+**Fort:** +14
+
+**Ref:** +12
+
+**Will:** +7
 
 **Dr:** 10/piercing or slashing
 
 **Ferocity:** present
 
-**Fort:** +14
-
-**Hit points:** 114 (12d10+48)
-
 **Immune:** poison
 
-**Mod:** +4 Dex, +8 natural, +1 size
-
-**Ref:** +12
-
 **Resist:** fire 10
-
-**Will:** +7
 
 **Offense**
 

@@ -52,25 +52,29 @@ vestments._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/6/24
+**Armor class:** 24
+
+**Touch:** 6
+
+**Flat-footed:** 24
+
+**AC modifiers:** +6 armor, +12 natural, -4 size
+
+**Hit points:** 133 (14d8+70)
+
+**Fort:** +9
+
+**Ref:** +4
+
+**Will:** +14
 
 **Defensive abilities:** 50% chance to negate critical hits and sneak attacks
 
 **Dr:** 10/magic
 
-**Fort:** +9
-
-**Hit points:** 133 (14d8+70)
-
 **Immune:** acid, mind-affecting effects
 
-**Mod:** +6 armor, +12 natural, -4 size
-
-**Ref:** +4
-
 **Sr:** 21
-
-**Will:** +14
 
 **Offense**
 

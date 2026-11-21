@@ -52,23 +52,27 @@ mace._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/14/23
+**Armor class:** 27
 
-**Dr:** 10/evil
+**Touch:** 14
 
-**Fort:** +15
+**Flat-footed:** 23
+
+**AC modifiers:** +4 Dex, +13 natural; +4 deflection vs. evil
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** acid, cold, electricity, fire, death effects, energy drain, petrification
-
-**Mod:** +4 Dex, +13 natural; +4 deflection vs. evil
+**Fort:** +15
 
 **Ref:** +13
 
-**Sr:** 23
-
 **Will:** +10; +4 vs. poison
+
+**Dr:** 10/evil
+
+**Immune:** acid, cold, electricity, fire, death effects, energy drain, petrification
+
+**Sr:** 23
 
 **Offense**
 

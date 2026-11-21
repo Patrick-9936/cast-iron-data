@@ -50,25 +50,29 @@ and its eyes glow with blue fire._
 
 **Experience points:** 12,800
 
-**Armor class:** 24/24/16
+**Armor class:** 24
 
-**Chan Res:** +4
+**Touch:** 24
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 deflection, +7 Dex, +1 dodge
+
+**Hit points:** 147 (14d8+84)
 
 **Fort:** +10
 
-**Hit points:** 147 (14d8+84)
+**Ref:** +11
+
+**Will:** +10
+
+**Chan Res:** +4
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +6 deflection, +7 Dex, +1 dodge
-
-**Ref:** +11
-
 **Weaknesses:** cold iron
-
-**Will:** +10
 
 **Offense**
 

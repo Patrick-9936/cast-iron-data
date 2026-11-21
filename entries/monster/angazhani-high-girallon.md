@@ -49,25 +49,29 @@ It carries a strangely shaped throwing axe._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/12/21
+**Armor class:** 24
 
-**Dr:** 10/cold iron or good
+**Touch:** 12
 
-**Fort:** +12
+**Flat-footed:** 21
+
+**AC modifiers:** +4 armor, +3 Dex, +8 natural, -1 size
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** electricity, poison
-
-**Mod:** +4 armor, +3 Dex, +8 natural, -1 size
+**Fort:** +12
 
 **Ref:** +11
+
+**Will:** +8
+
+**Dr:** 10/cold iron or good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 19
-
-**Will:** +8
 
 **Offense**
 

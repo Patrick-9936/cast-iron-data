@@ -53,25 +53,29 @@ jut from around the column, each ending in a hand with long, black claws._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/17/25
+**Armor class:** 29
 
-**Defensive abilities:** all-around vision
+**Touch:** 17
 
-**Fort:** +14
+**Flat-footed:** 25
+
+**AC modifiers:** +4 deflection, +4 Dex, +12 natural, -1 size
 
 **Hit points:** 200 (16d10+112)
 
-**Immune:** cold, critical hits, poison
-
-**Mod:** +4 deflection, +4 Dex, +12 natural, -1 size
+**Fort:** +14
 
 **Ref:** +14
+
+**Will:** +18
+
+**Defensive abilities:** all-around vision
+
+**Immune:** cold, critical hits, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 25
-
-**Will:** +18
 
 **Offense**
 

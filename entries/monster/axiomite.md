@@ -54,27 +54,31 @@ of shimmering light._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/15/16
+**Armor class:** 21
 
-**Dr:** 10/chaotic
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +1 dodge, +6 natural
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** disease, electricity, mind-affecting effects
-
-**Mod:** +4 Dex, +1 dodge, +6 natural
+**Fort:** +6
 
 **Ref:** +11
+
+**Will:** +14
+
+**Dr:** 10/chaotic
+
+**Immune:** disease, electricity, mind-affecting effects
 
 **Regen:** 5 (chaotic or magic)
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 19
-
-**Will:** +14
 
 **Offense**
 

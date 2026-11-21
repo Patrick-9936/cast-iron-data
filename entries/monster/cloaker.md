@@ -48,19 +48,23 @@ menacing tail of segmented bone._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/12/16
+**Armor class:** 19
 
-**Defensive abilities:** shadow shift
+**Touch:** 12
 
-**Fort:** +6
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +7 natural, -1 size
 
 **Hit points:** 51 (6d8+24)
 
-**Mod:** +3 Dex, +7 natural, -1 size
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +7
+
+**Defensive abilities:** shadow shift
 
 **Offense**
 

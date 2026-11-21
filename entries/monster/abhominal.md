@@ -49,19 +49,23 @@ feet. A mass of barbed, black tentacles extends from its exposed abdomen._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 67 (9d8+27)
 
-**Immune:** acid, cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +6
 
 **Ref:** +6
 
 **Will:** +9
+
+**Immune:** acid, cold, [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

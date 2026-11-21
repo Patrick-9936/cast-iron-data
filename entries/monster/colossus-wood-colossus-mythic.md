@@ -55,27 +55,31 @@ rooms._
 
 **Experience points:** 102,400
 
-**Armor class:** 35/5/35
+**Armor class:** 35
+
+**Touch:** 5
+
+**Flat-footed:** 35
+
+**AC modifiers:** -1 Dex, +30 natural, -4 size
+
+**Hit points:** 237 (18d10+138)
+
+**Fort:** +6
+
+**Ref:** +7
+
+**Will:** +9
 
 **Dr:** 10/epic
 
 **Fh:** 20
 
-**Fort:** +6
-
-**Hit points:** 237 (18d10+138)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** -1 Dex, +30 natural, -4 size
-
-**Ref:** +7
 
 **Sec Save:** present
 
 **Vulner:** fire
-
-**Will:** +9
 
 **Offense**
 

@@ -48,23 +48,27 @@ a goat, ending in cloven hooves._
 
 **Experience points:** 19,200
 
-**Armor class:** 29/15/24
+**Armor class:** 29
 
-**Dr:** 10/cold iron
+**Touch:** 15
 
-**Fort:** +11
+**Flat-footed:** 24
+
+**AC modifiers:** +8 armor, +5 Dex, +4 natural, +2 shield
 
 **Hit points:** 152 (16d6+96)
 
-**Immune:** cold, poison
-
-**Mod:** +8 armor, +5 Dex, +4 natural, +2 shield
+**Fort:** +11
 
 **Ref:** +15
 
-**Sr:** 23
-
 **Will:** +14
+
+**Dr:** 10/cold iron
+
+**Immune:** cold, poison
+
+**Sr:** 23
 
 **Offense**
 

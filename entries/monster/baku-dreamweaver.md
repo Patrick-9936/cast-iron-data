@@ -51,23 +51,27 @@ a gentle wisdom._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/25/18
+**Armor class:** 25
 
-**Dr:** 15/cold iron and magic
+**Touch:** 25
 
-**Fort:** +16
+**Flat-footed:** 18
+
+**AC modifiers:** +7 Dex, +8 deflection
 
 **Hit points:** 174 (12d10+96)
 
-**Immune:** mind-affecting effects, sleep
-
-**Mod:** +7 Dex, +8 deflection
+**Fort:** +16
 
 **Ref:** +15
 
-**Sr:** 22
-
 **Will:** +12
+
+**Dr:** 15/cold iron and magic
+
+**Immune:** mind-affecting effects, sleep
+
+**Sr:** 22
 
 **Offense**
 

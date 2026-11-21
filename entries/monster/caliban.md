@@ -48,13 +48,17 @@ erupt over its sloping brow._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Fort:** +1
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 natural
 
 **Hit points:** 22 (4d10)
 
-**Mod:** +2 Dex, +2 natural
+**Fort:** +1
 
 **Ref:** +6
 

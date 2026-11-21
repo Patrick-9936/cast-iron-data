@@ -58,30 +58,34 @@ echoes from his gaping maw._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 46/21/37
+**Armor class:** 46
+
+**Touch:** 21
+
+**Flat-footed:** 37
+
+**AC modifiers:** +8 Dex, +1 dodge, +15 natural, +14 profane, -2 size
+
+**Hit points:** 610 (33d10+429)
+
+**Fort:** +24
+
+**Ref:** +26
+
+**Will:** +25
 
 **Defensive abilities:** freeing chains, skin of serpents
 
 **Dr:** 20/cold iron, epic, and good
 
-**Fort:** +24
-
-**Hit points:** 610 (33d10+429)
-
 **Immune:** ability damage and drain, charm and compulsion effects, death effects, energy drain,
 fire, petrification, poison
-
-**Mod:** +8 Dex, +1 dodge, +15 natural, +14 profane, -2 size
-
-**Ref:** +26
 
 **Regen:** 20 (mythic and epic or good)
 
 **Resist:** acid 30, electricity 30
 
 **Sr:** 37 (41 vs. good)
-
-**Will:** +25
 
 **Offense**
 

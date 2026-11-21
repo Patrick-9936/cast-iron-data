@@ -51,25 +51,29 @@ _This faceless construct has a crystal wand set into its chest, bristling with a
 
 **Experience points:** 6,400
 
-**Armor class:** 25/17/18
+**Armor class:** 25
 
-**Dr:** 5/adamantine
+**Touch:** 17
 
-**Fort:** +5
+**Flat-footed:** 18
+
+**AC modifiers:** +5 Dex, +2 dodge, +8 natural
 
 **Hit points:** 102 (15d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +5 Dex, +2 dodge, +8 natural
+**Fort:** +5
 
 **Ref:** +12
+
+**Will:** +7
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Sr:** 20
 
 **Vulner:** electricity
-
-**Will:** +7
 
 **Offense**
 

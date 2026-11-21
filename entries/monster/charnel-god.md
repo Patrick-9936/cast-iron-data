@@ -52,7 +52,21 @@ looking longbow in her hands._
 
 **Experience points:** 819,200
 
-**Armor class:** 42/32/31
+**Armor class:** 42
+
+**Touch:** 32
+
+**Flat-footed:** 31
+
+**AC modifiers:** +11 Dex, +10 natural, +12 profane, -1 size
+
+**Hit points:** 485 (26d10+342)
+
+**Fort:** +20
+
+**Ref:** +19
+
+**Will:** +20
 
 **Defensive abilities:** divine antithesis
 
@@ -60,21 +74,11 @@ looking longbow in her hands._
 
 **Fh:** 10
 
-**Fort:** +20
-
-**Hit points:** 485 (26d10+342)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +11 Dex, +10 natural, +12 profane, -1 size
-
-**Ref:** +19
 
 **Resist:** acid 30, cold 30, electricity 30, fire 30
 
 **Sr:** 34
-
-**Will:** +20
 
 **Offense**
 

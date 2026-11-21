@@ -51,19 +51,23 @@ nucleus to be seen within._
 
 **Experience points:** 400
 
-**Armor class:** 6/6/6
+**Armor class:** 6
 
-**Fort:** +3
+**Touch:** 6
+
+**Flat-footed:** 6
+
+**AC modifiers:** -5 Dex, +1 size
 
 **Hit points:** 15 (2d8+6)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, +1 size
+**Fort:** +3
 
 **Ref:** -5
 
 **Will:** -5
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

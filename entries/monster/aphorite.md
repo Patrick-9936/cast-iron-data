@@ -52,21 +52,25 @@ to create strange runic shapes._
 
 **Experience points:** 200
 
-**Armor class:** 13/9/13
+**Armor class:** 13
 
-**Defensive abilities:** crystalline dust
+**Touch:** 9
 
-**Fort:** +4
+**Flat-footed:** 13
+
+**AC modifiers:** +4 armor, -1 Dex
 
 **Hit points:** 13 (1d10+3)
 
-**Mod:** +4 armor, -1 Dex
+**Fort:** +4
 
 **Ref:** -1
 
-**Resist:** electricity 5
-
 **Will:** +3; +2 vs. poison and mind-affecting effects
+
+**Defensive abilities:** crystalline dust
+
+**Resist:** electricity 5
 
 **Offense**
 

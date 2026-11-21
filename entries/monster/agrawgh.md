@@ -52,19 +52,23 @@ bubbling at the back of its mouth._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/9/18
+**Armor class:** 18
 
-**Fort:** +8
+**Touch:** 9
+
+**Flat-footed:** 18
+
+**AC modifiers:** +9 natural, -1 size
 
 **Hit points:** 59 (7d10+21)
 
-**Immune:** acid
-
-**Mod:** +9 natural, -1 size
+**Fort:** +8
 
 **Ref:** +5
 
 **Will:** +1
+
+**Immune:** acid
 
 **Offense**
 

@@ -54,13 +54,17 @@ decorate its greenish skin._
 **Subtype:** Boggard\
 **Experience points:** 600
 
-**Armor class:** 14/9/14
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 9
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 armor, -1 Dex, +3 natural
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +2 armor, -1 Dex, +3 natural
+**Fort:** +5
 
 **Ref:** +0
 

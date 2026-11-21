@@ -50,7 +50,21 @@ speak to great age and danger._
 
 **Experience points:** 4,800
 
-**Armor class:** 19/18/15
+**Armor class:** 19
+
+**Touch:** 18
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 armor, +4 Dex, +4 profane
+
+**Hit points:** 102 (12d8+48)
+
+**Fort:** +12
+
+**Ref:** +12
+
+**Will:** +13
 
 **Chan Res:** +4
 
@@ -58,17 +72,7 @@ speak to great age and danger._
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 102 (12d8+48)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 armor, +4 Dex, +4 profane
-
-**Ref:** +12
-
-**Will:** +13
 
 **Offense**
 

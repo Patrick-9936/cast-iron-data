@@ -52,23 +52,27 @@ cosmic starstuff._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/15
+**Armor class:** 17
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 deflection, +2 Dex, +4 natural
 
 **Hit points:** 39 (6d10+6)
 
-**Immune:** cold, critical hits, poison
-
-**Mod:** +1 deflection, +2 Dex, +4 natural
+**Fort:** +6
 
 **Ref:** +4
+
+**Will:** +7
+
+**Immune:** cold, critical hits, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 15
-
-**Will:** +7
 
 **Offense**
 

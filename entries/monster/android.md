@@ -56,21 +56,25 @@ blue tattoos._
 
 **Experience points:** 400
 
-**Armor class:** 15/13/12
+**Armor class:** 15
 
-**Defensive abilities:** constructed
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +2 armor, +3 Dex
 
 **Hit points:** 11 (1d8+3)
 
-**Immune:** disease, emotion, exhaustion, fatigue, fear, sleep
-
-**Mod:** +2 armor, +3 Dex
+**Fort:** +2
 
 **Ref:** +5
 
 **Will:** +0; +4 vs. mind-affecting, paralysis, poison, and stun
+
+**Defensive abilities:** constructed
+
+**Immune:** disease, emotion, exhaustion, fatigue, fear, sleep
 
 **Offense**
 

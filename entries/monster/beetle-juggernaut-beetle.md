@@ -46,23 +46,27 @@ _This massive insect lumbers ominously, waving scythe-like mandibles that reek o
 
 **Experience points:** 38,400
 
-**Armor class:** 29/7/29
+**Armor class:** 29
 
-**Defensive abilities:** selective mind
+**Touch:** 7
 
-**Fort:** +17
+**Flat-footed:** 29
+
+**AC modifiers:** -1 Dex, +22 natural, -2 size
 
 **Hit points:** 210 (20d10+100)
 
-**Immune:** acid, mind-affecting effects
-
-**Mod:** -1 Dex, +22 natural, -2 size
+**Fort:** +17
 
 **Ref:** +11
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +7
+
+**Defensive abilities:** selective mind
+
+**Immune:** acid, mind-affecting effects
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

@@ -52,13 +52,17 @@ carries a variety of wands and talismans in addition to his weapons._
 
 **Experience points:** 1,200
 
-**Armor class:** 13/12/10
+**Armor class:** 13
 
-**Fort:** +2
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex, +1 dodge, +1 natural, -1 size
 
 **Hit points:** 39 (2d8+4d10+8\~6)
 
-**Mod:** +2 Dex, +1 dodge, +1 natural, -1 size
+**Fort:** +2
 
 **Ref:** +6
 

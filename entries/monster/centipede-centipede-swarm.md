@@ -53,21 +53,25 @@ wave._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/18/14
+**Armor class:** 18
 
-**Defensive abilities:** swarm traits
+**Touch:** 18
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 size
 
 **Hit points:** 31 (9d8-9)
 
-**Immune:** weapon damage
-
-**Mod:** +4 Dex, +4 size
+**Fort:** +5
 
 **Ref:** +7
 
 **Will:** +3
+
+**Defensive abilities:** swarm traits
+
+**Immune:** weapon damage
 
 **Offense**
 

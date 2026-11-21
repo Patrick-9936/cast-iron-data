@@ -48,21 +48,25 @@ _A pile of more than 100,000 coins has been given malevolent life._
 
 **Experience points:** 6,400
 
-**Armor class:** 21/8/21
+**Armor class:** 21
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 10
+**Touch:** 8
 
-**Fort:** +4
+**Flat-footed:** 21
+
+**AC modifiers:** -2 Dex, +15 natural, -2 size
 
 **Hit points:** 111 (13d10+40)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** -2 Dex, +15 natural, -2 size
+**Fort:** +4
 
 **Ref:** +2
 
 **Will:** +4
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

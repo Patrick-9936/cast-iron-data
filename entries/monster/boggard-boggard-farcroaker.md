@@ -51,13 +51,17 @@ abilities = ["13", "11", "14", "12", "13", "14"]
 **Subtype:** Boggard\
 **Experience points:** 800
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 armor, +3 natural
 
 **Hit points:** 32 (5d8+10)
 
-**Mod:** +2 armor, +3 natural
+**Fort:** +5
 
 **Ref:** +4
 

@@ -50,25 +50,29 @@ glow like rubies._
 
 **Experience points:** 600
 
-**Armor class:** 16/16/13
+**Armor class:** 16
+
+**Touch:** 16
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 dodge, +1 insight, +2 size
+
+**Hit points:** 19 (3d10+3)
+
+**Fort:** +4
+
+**Ref:** +3
+
+**Will:** +5
 
 **Dr:** 5/cold iron or good
 
 **Fh:** 2
 
-**Fort:** +4
-
-**Hit points:** 19 (3d10+3)
-
 **Immune:** curse effects, disease, poison
 
-**Mod:** +2 Dex, +1 dodge, +1 insight, +2 size
-
-**Ref:** +3
-
 **Resist:** acid 10, electricity 10
-
-**Will:** +5
 
 **Offense**
 

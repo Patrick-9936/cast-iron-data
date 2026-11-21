@@ -47,19 +47,23 @@ horns._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/9/20
+**Armor class:** 21
 
-**Fort:** +12
+**Touch:** 9
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +12 natural, -2 size
 
 **Hit points:** 105 (10d10+50)
 
-**Immune:** electricity
-
-**Mod:** +1 Dex, +12 natural, -2 size
+**Fort:** +12
 
 **Ref:** +8
 
 **Will:** +5
+
+**Immune:** electricity
 
 **Offense**
 

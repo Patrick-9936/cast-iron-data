@@ -51,25 +51,29 @@ appendage dangles._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/18/21
+**Armor class:** 27
 
-**Fh:** 5
+**Touch:** 18
 
-**Fort:** +17
+**Flat-footed:** 21
+
+**AC modifiers:** +2 deflection, +6 Dex, +9 natural
 
 **Hit points:** 148 (11d10+88)
 
-**Immune:** cold, critical hits, poison
-
-**Mod:** +2 deflection, +6 Dex, +9 natural
+**Fort:** +17
 
 **Ref:** +11
+
+**Will:** +14
+
+**Fh:** 5
+
+**Immune:** cold, critical hits, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 23
-
-**Will:** +14
 
 **Offense**
 

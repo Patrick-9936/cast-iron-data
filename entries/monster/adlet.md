@@ -52,21 +52,25 @@ fist._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/19/15
+**Armor class:** 24
 
-**Fort:** +9
+**Touch:** 19
+
+**Flat-footed:** 15
+
+**AC modifiers:** +8 Dex, +1 dodge, +5 natural
 
 **Hit points:** 127 (15d8+60)
 
-**Immune:** cold
-
-**Mod:** +8 Dex, +1 dodge, +5 natural
+**Fort:** +9
 
 **Ref:** +17
 
-**Vulner:** fire
-
 **Will:** +8
+
+**Immune:** cold
+
+**Vulner:** fire
 
 **Offense**
 

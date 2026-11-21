@@ -52,25 +52,29 @@ iron and eldritch sparks._
 
 **Experience points:** 25,600
 
-**Armor class:** 29/8/28
+**Armor class:** 29
+
+**Touch:** 8
+
+**Flat-footed:** 28
+
+**AC modifiers:** +20 armor, +1 Dex, -2 size
+
+**Hit points:** 139 (18d10+40)
+
+**Fort:** +8
+
+**Ref:** +6
+
+**Will:** +6
 
 **Defensive abilities:** leaden weariness, reflect spell
 
 **Dr:** 10/-
 
-**Fort:** +8
-
-**Hit points:** 139 (18d10+40)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
 
-**Mod:** +20 armor, +1 Dex, -2 size
-
-**Ref:** +6
-
 **Sr:** 24
-
-**Will:** +6
 
 **Offense**
 

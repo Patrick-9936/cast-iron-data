@@ -54,13 +54,17 @@ above a mass of tentacles._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/10/23
+**Armor class:** 25
 
-**Fort:** +15
+**Touch:** 10
+
+**Flat-footed:** 23
+
+**AC modifiers:** +2 Dex, +15 natural, -2 size
 
 **Hit points:** 152 (16d8+80)
 
-**Mod:** +2 Dex, +15 natural, -2 size
+**Fort:** +15
 
 **Ref:** +12
 

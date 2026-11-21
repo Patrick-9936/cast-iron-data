@@ -48,21 +48,25 @@ countenance._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/12/26
+**Armor class:** 30
 
-**Fort:** +14
+**Touch:** 12
+
+**Flat-footed:** 26
+
+**AC modifiers:** +4 Dex, +18 natural, -2 size
 
 **Hit points:** 230 (20d10+120)
 
-**Mod:** +4 Dex, +18 natural, -2 size
+**Fort:** +14
 
 **Ref:** +16
+
+**Will:** +18
 
 **Resist:** cold 20, fire 20
 
 **Rock Ct:** present
-
-**Will:** +18
 
 **Offense**
 

@@ -47,19 +47,23 @@ _An elephantine centipede scurries about, its double tail lashing angrily behind
 
 **Experience points:** 800
 
-**Armor class:** 15/8/14
+**Armor class:** 15
 
-**Fort:** +9
+**Touch:** 8
+
+**Flat-footed:** 14
+
+**AC modifiers:** +7 natural, -2 size
 
 **Hit points:** 38 (4d8+20)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +7 natural, -2 size
+**Fort:** +9
 
 **Ref:** +1
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

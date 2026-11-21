@@ -53,23 +53,27 @@ as it lumbers forth._
 
 **Experience points:** 204,800
 
-**Armor class:** 35/13/28
+**Armor class:** 35
 
-**Dr:** 15/adamantine
+**Touch:** 13
 
-**Fort:** +9
+**Flat-footed:** 28
+
+**AC modifiers:** +5 Dex, +2 dodge, +22 natural, -4 size
 
 **Hit points:** 214 (28d10+60)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +5 Dex, +2 dodge, +22 natural, -4 size
+**Fort:** +9
 
 **Ref:** +16
 
-**Vulner:** electricity
-
 **Will:** +9
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

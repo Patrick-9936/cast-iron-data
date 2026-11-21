@@ -55,13 +55,17 @@ dangle tiny fairy skull trophies._
 
 **Experience points:** 400
 
-**Armor class:** 15/14/12
+**Armor class:** 15
 
-**Fort:** +1
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +1 natural, +1 size
 
 **Hit points:** 19 (3d6+9)
 
-**Mod:** +3 Dex, +1 natural, +1 size
+**Fort:** +1
 
 **Ref:** +6
 

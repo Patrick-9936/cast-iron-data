@@ -49,21 +49,25 @@ _This indistinct figure suddenly takes on a nightmarish shape, not quite human o
 
 **Experience points:** 4,800
 
-**Armor class:** 20/20/15
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 20
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 deflection, +4 Dex, +1 dodge
 
 **Hit points:** 90 (12d10+24)
 
-**Incorporeal:** present
-
-**Mod:** +5 deflection, +4 Dex, +1 dodge
+**Fort:** +10
 
 **Ref:** +8
 
-**Sr:** 19
-
 **Will:** +12
+
+**Incorporeal:** present
+
+**Sr:** 19
 
 **Offense**
 

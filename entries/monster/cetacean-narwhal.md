@@ -53,13 +53,17 @@ single tusk protruding from its nose, easily as long as a human._
 
 **Experience points:** 800
 
-**Armor class:** 16/12/13
+**Armor class:** 16
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +4 natural, -1 size
 
 **Hit points:** 30 (4d8+12)
 
-**Mod:** +3 Dex, +4 natural, -1 size
+**Fort:** +6
 
 **Ref:** +7
 

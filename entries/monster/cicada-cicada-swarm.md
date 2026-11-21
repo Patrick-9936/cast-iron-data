@@ -50,21 +50,25 @@ _A loud droning buzz accompanies this mass of flying insects._
 
 **Experience points:** 600
 
-**Armor class:** 17/17/14
+**Armor class:** 17
 
-**Defensive abilities:** swarm traits
+**Touch:** 17
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 size
 
 **Hit points:** 18 (4d8)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** +3 Dex, +4 size
+**Fort:** +4
 
 **Ref:** +4
 
 **Will:** +2
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
 
 **Offense**
 

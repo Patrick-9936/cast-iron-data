@@ -53,19 +53,23 @@ itself whispers around her feet as patches of clover, heather, and milkweed mark
 
 **Experience points:** 2,400
 
-**Armor class:** 20/16/14
+**Armor class:** 20
 
-**Dr:** 5/cold iron
+**Touch:** 16
 
-**Fort:** +7
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +1 dodge, +4 natural
 
 **Hit points:** 66 (7d6+35)
 
-**Mod:** +5 Dex, +1 dodge, +4 natural
+**Fort:** +7
 
 **Ref:** +10
 
 **Will:** +8
+
+**Dr:** 5/cold iron
 
 **Offense**
 

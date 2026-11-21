@@ -52,19 +52,23 @@ wildly, eager for prey._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/10/18
+**Armor class:** 20
 
-**Fort:** +12
+**Touch:** 10
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +10 natural, -2 size
 
 **Hit points:** 84 (8d8+48)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +10 natural, -2 size
+**Fort:** +12
 
 **Ref:** +4
 
 **Will:** +3
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

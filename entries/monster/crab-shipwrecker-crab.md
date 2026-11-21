@@ -51,19 +51,23 @@ the creature's thick shell._
 
 **Experience points:** 25,600
 
-**Armor class:** 27/5/24
+**Armor class:** 27
 
-**Fort:** +18
+**Touch:** 5
+
+**Flat-footed:** 24
+
+**AC modifiers:** +3 Dex, +22 natural, -8 size
 
 **Hit points:** 189 (14d8+126)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +22 natural, -8 size
+**Fort:** +18
 
 **Ref:** +7
 
 **Will:** +6
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

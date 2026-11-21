@@ -51,19 +51,23 @@ strong enough to shatter stone._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/8/18
+**Armor class:** 18
 
-**Fort:** +7
+**Touch:** 8
+
+**Flat-footed:** 18
+
+**AC modifiers:** -1 Dex, +10 natural, -1 size
 
 **Hit points:** 51 (6d10+18)
 
-**Mod:** -1 Dex, +10 natural, -1 size
+**Fort:** +7
 
 **Ref:** +4
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +6
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

@@ -55,13 +55,17 @@ fangs._
 
 **Experience points:** 400
 
-**Armor class:** 12/12/11
+**Armor class:** 12
 
-**Fort:** +2
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 size
 
 **Hit points:** 16 (3d8+3)
 
-**Mod:** +1 Dex, +1 size
+**Fort:** +2
 
 **Ref:** +2
 

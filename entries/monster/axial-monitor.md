@@ -54,27 +54,31 @@ torsos are topped with a single head bearing three faces, each set in a bland, s
 
 **Experience points:** 51,200
 
-**Armor class:** 30/12/27
+**Armor class:** 30
 
-**Dr:** 10/chaotic
+**Touch:** 12
 
-**Fort:** +17
+**Flat-footed:** 27
+
+**AC modifiers:** +6 armor, +3 Dex, +12 natural, -1 size
 
 **Hit points:** 210 (20d10+100)
 
-**Immune:** disease, electricity, mind-affecting effects
-
-**Mod:** +6 armor, +3 Dex, +12 natural, -1 size
+**Fort:** +17
 
 **Ref:** +11
+
+**Will:** +18
+
+**Dr:** 10/chaotic
+
+**Immune:** disease, electricity, mind-affecting effects
 
 **Regen:** 5 (chaotic or magic)
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 26
-
-**Will:** +18
 
 **Offense**
 

@@ -50,23 +50,27 @@ _A tall, handsome woman sits astride a white horse. She grips an elegant longbow
 
 **Experience points:** 12,800
 
-**Armor class:** 27/17/20
+**Armor class:** 27
 
-**Dr:** 10/cold iron
+**Touch:** 17
 
-**Fort:** +10
+**Flat-footed:** 20
+
+**AC modifiers:** +6 armor, +7 Dex, +4 natural
 
 **Hit points:** 136 (16d6+80)
 
-**Immune:** cold, poison
-
-**Mod:** +6 armor, +7 Dex, +4 natural
+**Fort:** +10
 
 **Ref:** +17
 
-**Sr:** 22
-
 **Will:** +15
+
+**Dr:** 10/cold iron
+
+**Immune:** cold, poison
+
+**Sr:** 22
 
 **Offense**
 

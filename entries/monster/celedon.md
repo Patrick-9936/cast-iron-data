@@ -48,19 +48,23 @@ _This metallic sculpture of an idealized humanoid figure sparkles with divine lu
 
 **Experience points:** 400
 
-**Armor class:** 12/10/12
+**Armor class:** 12
 
-**Fort:** +0
+**Touch:** 10
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 natural
 
 **Hit points:** 25 (1d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 natural
+**Fort:** +0
 
 **Ref:** +0
 
 **Will:** +4
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

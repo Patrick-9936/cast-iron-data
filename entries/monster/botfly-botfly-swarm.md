@@ -51,23 +51,27 @@ low, droning buzz of thousands of tiny flies._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/18/18
+**Armor class:** 18
 
-**Defensive abilities:** swarm traits
+**Touch:** 18
 
-**Fort:** +6
+**Flat-footed:** 18
+
+**AC modifiers:** +8 size
 
 **Hit points:** 40 (9d8)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** +8 size
+**Fort:** +6
 
 **Ref:** +3
 
-**Weaknesses:** swarm traits
-
 **Will:** +3
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
+
+**Weaknesses:** swarm traits
 
 **Offense**
 

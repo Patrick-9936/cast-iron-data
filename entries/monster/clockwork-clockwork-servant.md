@@ -52,23 +52,27 @@ body._
 
 **Experience points:** 600
 
-**Armor class:** 16/14/12
+**Armor class:** 16
 
-**Fh:** 2
+**Touch:** 14
 
-**Fort:** +0
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 dodge, +2 natural
 
 **Hit points:** 31 (2d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +2 dodge, +2 natural
+**Fort:** +0
 
 **Ref:** +4
 
-**Vulner:** electricity
-
 **Will:** +0
+
+**Fh:** 2
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

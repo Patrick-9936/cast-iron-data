@@ -52,23 +52,27 @@ gemstones._
 
 **Experience points:** 600
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 natural, +1 size
 
 **Hit points:** 13 (3d10-3)
 
-**Immune:** cold, critical hits, poison
-
-**Mod:** +2 Dex, +1 natural, +1 size
+**Fort:** +4
 
 **Ref:** +3
+
+**Will:** +6
+
+**Immune:** cold, critical hits, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 7
-
-**Will:** +6
 
 **Offense**
 

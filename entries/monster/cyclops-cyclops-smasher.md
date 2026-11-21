@@ -55,21 +55,25 @@ a terrible club._
 
 **Experience points:** 6,400
 
-**Armor class:** 17/7/17
+**Armor class:** 17
 
-**Ferocity:** present
+**Touch:** 7
 
-**Fort:** +19
+**Flat-footed:** 17
+
+**AC modifiers:** +3 armor, +7 natural, -2 rage, -1 size
 
 **Hit points:** 155 (10d8+4d12+84\~14)
 
-**Mod:** +3 armor, +7 natural, -2 rage, -1 size
+**Fort:** +19
 
 **Ref:** +6
 
-**Uncanny dodge:** present
-
 **Will:** +11
+
+**Ferocity:** present
+
+**Uncanny dodge:** present
 
 **Offense**
 

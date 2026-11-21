@@ -52,21 +52,25 @@ looks hungry._
 
 **Experience points:** 200
 
-**Armor class:** 15/15/14
+**Armor class:** 15
 
-**Defensive abilities:** numbing slime
+**Touch:** 15
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 size
 
 **Hit points:** 5 (1d6+2)
 
-**Mod:** +1 Dex, +4 size
+**Fort:** +2
 
 **Ref:** +3
 
-**Weaknesses:** vulnerable to salt
-
 **Will:** +2
+
+**Defensive abilities:** numbing slime
+
+**Weaknesses:** vulnerable to salt
 
 **Offense**
 

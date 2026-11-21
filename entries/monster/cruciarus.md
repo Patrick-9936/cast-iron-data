@@ -51,21 +51,25 @@ within its glaring eyes._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/26/16
+**Armor class:** 26
 
-**Fort:** +13
+**Touch:** 26
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 deflection, +9 Dex, +1 dodge
 
 **Hit points:** 157 (15d8+90)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +6 deflection, +9 Dex, +1 dodge
+**Fort:** +13
 
 **Ref:** +16
 
 **Will:** +14
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

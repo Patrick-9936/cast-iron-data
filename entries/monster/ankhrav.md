@@ -48,13 +48,17 @@ mandibles._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/8/24
+**Armor class:** 24
 
-**Fort:** +13
+**Touch:** 8
+
+**Flat-footed:** 24
+
+**AC modifiers:** +16 natural, -2 size
 
 **Hit points:** 115 (10d10+60)
 
-**Mod:** +16 natural, -2 size
+**Fort:** +13
 
 **Ref:** +7
 

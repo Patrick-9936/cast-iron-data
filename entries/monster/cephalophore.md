@@ -52,23 +52,27 @@ its domain._
 
 **Experience points:** 4,800
 
-**Armor class:** 23/11/21
+**Armor class:** 23
 
-**Defensive abilities:** shatter weapon
+**Touch:** 11
 
-**Fort:** +4
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +12 natural, -1 size
 
 **Hit points:** 96 (12d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +12 natural, -1 size
+**Fort:** +4
 
 **Ref:** +6
 
-**Sr:** 20
-
 **Will:** +5
+
+**Defensive abilities:** shatter weapon
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Sr:** 20
 
 **Offense**
 

@@ -49,23 +49,27 @@ eyes searching._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/12/18
+**Armor class:** 20
 
-**Dr:** 5/adamantine
+**Touch:** 12
 
-**Fort:** +3
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 natural
 
 **Hit points:** 75 (10d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +8 natural
+**Fort:** +3
 
 **Ref:** +7
 
-**Weaknesses:** sunlight dependency
-
 **Will:** +5
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Weaknesses:** sunlight dependency
 
 **Offense**
 

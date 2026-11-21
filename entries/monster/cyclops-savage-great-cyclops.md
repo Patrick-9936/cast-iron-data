@@ -55,21 +55,25 @@ in his single, rage-filled eye._
 
 **Experience points:** 153,600
 
-**Armor class:** 25/8/23
+**Armor class:** 25
 
-**Fort:** +21
+**Touch:** 8
+
+**Flat-footed:** 23
+
+**AC modifiers:** +4 armor, +2 Dex, +13 natural, -2 rage, -2 size
 
 **Hit points:** 368 (17d8+6d12+253\~23)
 
-**Improved uncanny dodge:** present
-
-**Mod:** +4 armor, +2 Dex, +13 natural, -2 rage, -2 size
+**Fort:** +21
 
 **Ref:** +11
 
-**Trap S:** +2
-
 **Will:** +19
+
+**Improved uncanny dodge:** present
+
+**Trap S:** +2
 
 **Offense**
 

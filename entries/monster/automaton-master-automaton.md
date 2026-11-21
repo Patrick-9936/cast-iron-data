@@ -51,29 +51,33 @@ in its head glows with light._
 
 **Experience points:** 307,200
 
-**Armor class:** 38/20/34
+**Armor class:** 38
+
+**Touch:** 20
+
+**Flat-footed:** 34
+
+**AC modifiers:** +3 Dex, +1 dodge, +8 insight, +18 natural, -2 size
+
+**Hit points:** 377 (25d10+240)
+
+**Fort:** +16
+
+**Ref:** +19
+
+**Will:** +23
 
 **Defensive abilities:** powerful core, reconstruction
 
 **Fh:** 20
 
-**Fort:** +16
-
-**Hit points:** 377 (25d10+240)
-
 **Immune:** [construct traits](ref/umr/construct-traits), electricity
-
-**Mod:** +3 Dex, +1 dodge, +8 insight, +18 natural, -2 size
-
-**Ref:** +19
 
 **Resist:** cold 30, sonic 30
 
 **Sr:** 31
 
 **Weaknesses:** vulnerable mind
-
-**Will:** +23
 
 **Offense**
 

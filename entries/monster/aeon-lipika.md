@@ -52,25 +52,29 @@ elbow, and an eye on each of its eight palms._
 
 **Experience points:** 153,600
 
-**Armor class:** 30/23/24
+**Armor class:** 30
 
-**Defensive abilities:** karmic defense
+**Touch:** 23
 
-**Fort:** +23
+**Flat-footed:** 24
+
+**AC modifiers:** +6 deflection, +6 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 300 (24d10+168)
 
-**Immune:** cold, critical hits, poison
-
-**Mod:** +6 deflection, +6 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +23
 
 **Ref:** +16
+
+**Will:** +23
+
+**Defensive abilities:** karmic defense
+
+**Immune:** cold, critical hits, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 29
-
-**Will:** +23
 
 **Offense**
 

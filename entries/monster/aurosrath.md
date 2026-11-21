@@ -48,25 +48,29 @@ and from the exposed wounds that cover its hideously distended body._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/10/18
+**Armor class:** 19
+
+**Touch:** 10
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
+
+**Hit points:** 59 (7d8+28)
+
+**Fort:** +5
+
+**Ref:** +3
+
+**Will:** +6
 
 **Defensive abilities:** smeltable
 
 **Dr:** 5/slashing
 
-**Fort:** +5
-
-**Hit points:** 59 (7d8+28)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +1 Dex, +9 natural, -1 size
-
-**Ref:** +3
-
 **Resist:** electricity 10
-
-**Will:** +6
 
 **Offense**
 

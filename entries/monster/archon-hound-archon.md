@@ -53,23 +53,27 @@ than a common beast._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/10/19
+**Armor class:** 19
 
-**Dr:** 10/evil
+**Touch:** 10
 
-**Fort:** +6
+**Flat-footed:** 19
+
+**AC modifiers:** +9 natural; +2 deflection vs. evil
 
 **Hit points:** 39 (6d10+6)
 
-**Immune:** electricity, petrification
-
-**Mod:** +9 natural; +2 deflection vs. evil
+**Fort:** +6
 
 **Ref:** +5
 
-**Sr:** 15
-
 **Will:** +5; +4 vs. poison, +2 resistance vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** electricity, petrification
+
+**Sr:** 15
 
 **Offense**
 

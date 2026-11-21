@@ -55,19 +55,23 @@ his toned muscles and a lingering stench of blood._
 
 **Experience points:** 25,600
 
-**Armor class:** 18/10/18
+**Armor class:** 18
 
-**Ferocity:** present
+**Touch:** 10
 
-**Fort:** +13
+**Flat-footed:** 18
+
+**AC modifiers:** +1 deflection, +8 natural, -1 size
 
 **Hit points:** 146 (11d6+10d8+63\~21)
 
-**Mod:** +1 deflection, +8 natural, -1 size
+**Fort:** +13
 
 **Ref:** +7
 
 **Will:** +15
+
+**Ferocity:** present
 
 **Offense**
 

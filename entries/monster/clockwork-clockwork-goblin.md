@@ -52,23 +52,27 @@ dogslicer._
 
 **Experience points:** 800
 
-**Armor class:** 16/15/12
+**Armor class:** 16
 
-**Fort:** +1
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 dodge, +1 natural, +1 size
 
 **Hit points:** 32 (4d10+10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +2 dodge, +1 natural, +1 size
+**Fort:** +1
 
 **Ref:** +5
+
+**Will:** +1
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** fire 5
 
 **Vulner:** electricity
-
-**Will:** +1
 
 **Offense**
 

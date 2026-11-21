@@ -48,23 +48,27 @@ _Two slimy tentacles protrude from the sides of this brain-shaped mass of quiver
 
 **Experience points:** 3,200
 
-**Armor class:** 23/19/18
+**Armor class:** 23
+
+**Touch:** 19
+
+**Flat-footed:** 18
+
+**AC modifiers:** +4 armor, +4 Dex, +1 dodge, +2 insight, +2 size
+
+**Hit points:** 75 (10d8+30)
+
+**Fort:** +6
+
+**Ref:** +9
+
+**Will:** +6
 
 **Defensive abilities:** prescience
 
 **Evasion:** present
 
-**Fort:** +6
-
-**Hit points:** 75 (10d8+30)
-
 **Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +4 armor, +4 Dex, +1 dodge, +2 insight, +2 size
-
-**Ref:** +9
-
-**Will:** +6
 
 **Offense**
 

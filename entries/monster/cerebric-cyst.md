@@ -50,23 +50,27 @@ ectoplasm._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/19/14
+**Armor class:** 19
+
+**Touch:** 19
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +1 dodge, +2 insight, +2 size
+
+**Hit points:** 85 (10d8+40)
+
+**Fort:** +9
+
+**Ref:** +9
+
+**Will:** +11
 
 **Defensive abilities:** prescience
 
 **Evasion:** present
 
-**Fort:** +9
-
-**Hit points:** 85 (10d8+40)
-
 **Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +4 Dex, +1 dodge, +2 insight, +2 size
-
-**Ref:** +9
-
-**Will:** +11
 
 **Offense**
 

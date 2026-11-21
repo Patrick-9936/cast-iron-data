@@ -55,21 +55,27 @@ along her skin._
 
 **Experience points:** 153,600
 
-**Armor class:** 34/30/24
+**Armor class:** 34
+
+**Touch:** 30
+
+**Flat-footed:** 24
+
+**AC modifiers:** +10 deflection, +10 Dex, +4 natural
+
+**Hit points:** 341 (22d10+220)
+
+**Fort:** +23
+
+**Ref:** +23
+
+**Will:** +17
 
 **Defensive abilities:** windblessed
 
 **Dr:** 15/-
 
-**Fort:** +23
-
-**Hit points:** 341 (22d10+220)
-
 **Immune:** daze, electricity, [elemental](ref/subtype/elemental) traits
-
-**Mod:** +10 deflection, +10 Dex, +4 natural
-
-**Ref:** +23
 
 **Regen:** 15 (earth; see earthbane)
 
@@ -78,8 +84,6 @@ along her skin._
 **Sr:** 29
 
 **Weaknesses:** earthbane
-
-**Will:** +17
 
 **Offense**
 

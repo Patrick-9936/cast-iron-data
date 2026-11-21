@@ -50,25 +50,29 @@ where its mane should be._
 
 **Experience points:** 400
 
-**Armor class:** 13/12/11
+**Armor class:** 13
 
-**Defensive abilities:** no breath
+**Touch:** 12
 
-**Fort:** +3
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 natural
 
 **Hit points:** 15 (2d8+6)
 
-**Immune:** cold, disease, poison
-
-**Mod:** +2 Dex, +1 natural
+**Fort:** +3
 
 **Ref:** +2
+
+**Will:** +4
+
+**Defensive abilities:** no breath
+
+**Immune:** cold, disease, poison
 
 **Resist:** fire 30
 
 **Weaknesses:** [deaf](ref/misc/deafened), vulnerable to salt water
-
-**Will:** +4
 
 **Offense**
 

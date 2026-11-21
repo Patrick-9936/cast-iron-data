@@ -54,25 +54,29 @@ lower body of a majestic elk._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/15/26
+**Armor class:** 32
 
-**Dr:** 10/evil and silver
+**Touch:** 15
 
-**Fort:** +20
+**Flat-footed:** 26
+
+**AC modifiers:** +5 Dex, +1 dodge, +17 natural, -1 size
 
 **Hit points:** 283 (21d10+168)
 
-**Immune:** electricity, petrification
-
-**Mod:** +5 Dex, +1 dodge, +17 natural, -1 size
+**Fort:** +20
 
 **Ref:** +14
+
+**Will:** +19; +4 vs. poison
+
+**Dr:** 10/evil and silver
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 28
-
-**Will:** +19; +4 vs. poison
 
 **Offense**
 

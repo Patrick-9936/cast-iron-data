@@ -50,21 +50,25 @@ aura of horror._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/23/17
+**Armor class:** 23
 
-**Dr:** 15/cold iron
+**Touch:** 23
 
-**Fort:** +9
+**Flat-footed:** 17
+
+**AC modifiers:** +7 deflection, +5 Dex, +1 dodge
 
 **Hit points:** 93 (17d6+34); terrible rejuvenation 5
 
-**Mod:** +7 deflection, +5 Dex, +1 dodge
+**Fort:** +9
 
 **Ref:** +15
 
-**Sr:** 21
-
 **Will:** +13
+
+**Dr:** 15/cold iron
+
+**Sr:** 21
 
 **Offense**
 

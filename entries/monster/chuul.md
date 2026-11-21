@@ -52,19 +52,23 @@ of writhing tentacles._
 
 **Experience points:** 3,200
 
-**Armor class:** 22/12/19
+**Armor class:** 22
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +10 natural, -1 size
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** poison
-
-**Mod:** +3 Dex, +10 natural, -1 size
+**Fort:** +7
 
 **Ref:** +6
 
 **Will:** +9
+
+**Immune:** poison
 
 **Offense**
 

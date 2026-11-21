@@ -52,19 +52,23 @@ form._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/14/15
+**Armor class:** 20
 
-**Dr:** 5/-
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 15
+
+**AC modifiers:** +5 Dex, +6 natural, -1 size
 
 **Hit points:** 68 (8d10+24)
 
-**Mod:** +5 Dex, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +11
 
 **Will:** +2
+
+**Dr:** 5/-
 
 **Offense**
 

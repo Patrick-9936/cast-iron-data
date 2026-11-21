@@ -52,23 +52,27 @@ _This roiling horror appears to be a swirling vortex of darkness and screaming, 
 
 **Experience points:** 6,400
 
-**Armor class:** 20/20/12
+**Armor class:** 20
+
+**Touch:** 20
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 deflection, +7 Dex, +1 dodge, -1 size
+
+**Hit points:** 97 (13d8+39)
 
 **Fort:** +7
 
-**Hit points:** 97 (13d8+39)
+**Ref:** +11
+
+**Will:** +10
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +3 deflection, +7 Dex, +1 dodge, -1 size
-
-**Ref:** +11
-
 **Weaknesses:** sunlight powerlessness
-
-**Will:** +10
 
 **Offense**
 

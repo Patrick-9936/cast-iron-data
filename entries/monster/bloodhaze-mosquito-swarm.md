@@ -51,23 +51,27 @@ tiny forms whir in agitation, each a tiny insect with a needle-like proboscis._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/20/18
+**Armor class:** 20
 
-**Defensive abilities:** swarm traits
+**Touch:** 20
 
-**Fort:** +9
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 size
 
 **Hit points:** 71 (13d8+13)
 
-**Immune:** weapon damage
-
-**Mod:** +2 Dex, +8 size
+**Fort:** +9
 
 **Ref:** +6
 
-**Weaknesses:** swarm traits
-
 **Will:** +5
+
+**Defensive abilities:** swarm traits
+
+**Immune:** weapon damage
+
+**Weaknesses:** swarm traits
 
 **Offense**
 

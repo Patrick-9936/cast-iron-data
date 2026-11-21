@@ -50,27 +50,31 @@ mouth bisects the bulb's crown._
 
 **Experience points:** 800
 
-**Armor class:** 15/10/15
+**Armor class:** 15
+
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 natural
+
+**Hit points:** 30 (4d8+12)
+
+**Fort:** +7
+
+**Ref:** +1
+
+**Will:** +6
 
 **Defensive abilities:** otherworldly mind
 
 **Fh:** 2
 
-**Fort:** +7
-
-**Hit points:** 30 (4d8+12)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +5 natural
-
-**Ref:** +1
 
 **Resist:** cold 5
 
 **Vulner:** sonic
-
-**Will:** +6
 
 **Offense**
 

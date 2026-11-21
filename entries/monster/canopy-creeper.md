@@ -52,25 +52,29 @@ air._
 
 **Experience points:** 4,800
 
-**Armor class:** 23/11/20
+**Armor class:** 23
 
-**Fh:** 2
+**Touch:** 11
 
-**Fort:** +12
+**Flat-footed:** 20
+
+**AC modifiers:** +3 Dex, +12 natural, -2 size
 
 **Hit points:** 150 (12d8+96)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex, +12 natural, -2 size
+**Fort:** +12
 
 **Ref:** +9
+
+**Will:** +8
+
+**Fh:** 2
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits)
 
 **Resist:** fire 10
 
 **Weaknesses:** cold
-
-**Will:** +8
 
 **Offense**
 

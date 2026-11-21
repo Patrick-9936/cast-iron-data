@@ -53,25 +53,29 @@ peer out in different directions._
 
 **Experience points:** 153,600
 
-**Armor class:** 34/4/32
+**Armor class:** 34
 
-**Dr:** 10/adamantine
+**Touch:** 4
 
-**Fort:** +24
+**Flat-footed:** 32
+
+**AC modifiers:** +2 Dex, +30 natural, -8 size
 
 **Hit points:** 310 (20d10+200)
 
-**Immune:** cold
-
-**Mod:** +2 Dex, +30 natural, -8 size
+**Fort:** +24
 
 **Ref:** +8
+
+**Will:** +16
+
+**Dr:** 10/adamantine
+
+**Immune:** cold
 
 **Regen:** 5 (acid and fire)
 
 **Resist:** electricity 30, fire 30
-
-**Will:** +16
 
 **Offense**
 

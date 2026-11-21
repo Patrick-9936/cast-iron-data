@@ -50,21 +50,25 @@ from the waist down._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +8 natural, -1 size
 
 **Hit points:** 73 (7d10+35)
 
-**Immune:** electricity, petrification, poison
-
-**Mod:** +3 Dex, +8 natural, -1 size
+**Fort:** +7
 
 **Ref:** +10
 
-**Resist:** cold 10, fire 10
-
 **Will:** +10
+
+**Immune:** electricity, petrification, poison
+
+**Resist:** cold 10, fire 10
 
 **Offense**
 

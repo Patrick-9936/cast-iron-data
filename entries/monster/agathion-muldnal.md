@@ -50,27 +50,31 @@ dirt-stained smock; its pink nose twitches ceaselessly._
 
 **Experience points:** 800
 
-**Armor class:** 14/10/14
+**Armor class:** 14
 
-**Dr:** 5/evil or silver
+**Touch:** 10
 
-**Fort:** +8
+**Flat-footed:** 14
+
+**AC modifiers:** -1 Dex, +4 natural, +1 size
 
 **Hit points:** 38 (4d10+16)
 
-**Immune:** electricity, paralysis, petrification
-
-**Mod:** -1 Dex, +4 natural, +1 size
+**Fort:** +8
 
 **Ref:** +3
+
+**Will:** +6; +4 vs. poison
+
+**Dr:** 5/evil or silver
+
+**Immune:** electricity, paralysis, petrification
 
 **Resist:** acid 10, cold 10, sonic 10
 
 **Sr:** 14
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), revulsion
-
-**Will:** +6; +4 vs. poison
 
 **Offense**
 

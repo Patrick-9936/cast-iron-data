@@ -52,23 +52,27 @@ interrupted by transparent membranes showing dark fluid within._
 
 **Experience points:** 2,400
 
-**Armor class:** 16/12/16
+**Armor class:** 16
 
-**Defensive abilities:** psychic deflection
+**Touch:** 12
 
-**Fort:** +13
+**Flat-footed:** 16
+
+**AC modifiers:** +6 deflection, -4 Dex, +4 natural
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** sensory effects
-
-**Mod:** +6 deflection, -4 Dex, +4 natural
+**Fort:** +13
 
 **Ref:** -1
 
-**Sr:** 17
-
 **Will:** +14
+
+**Defensive abilities:** psychic deflection
+
+**Immune:** sensory effects
+
+**Sr:** 17
 
 **Offense**
 

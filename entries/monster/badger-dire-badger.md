@@ -47,19 +47,23 @@ its streaked and shaggy fur._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Ferocity:** present
+**Touch:** 12
 
-**Fort:** +6
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 natural
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +2 Dex, +2 natural
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +2
+
+**Ferocity:** present
 
 **Offense**
 

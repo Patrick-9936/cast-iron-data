@@ -50,23 +50,27 @@ _A vague humanoid shape composed of whirling dust and shards of bone hovers mena
 
 **Experience points:** 1,600
 
-**Armor class:** 18/18/13
+**Armor class:** 18
 
-**Chan Res:** +2
+**Touch:** 18
 
-**Fort:** +5
+**Flat-footed:** 13
+
+**AC modifiers:** +3 deflection, +4 Dex, +1 dodge
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +3 deflection, +4 Dex, +1 dodge
+**Fort:** +5
 
 **Ref:** +8
 
 **Will:** +7
+
+**Chan Res:** +2
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

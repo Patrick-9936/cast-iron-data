@@ -49,23 +49,27 @@ an non-existent wind._
 
 **Experience points:** 200
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Dr:** 5/slashing
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 11 (2d8+2)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +1 Dex, +2 size
+**Fort:** +1
 
 **Ref:** +1
 
-**Vulner:** fire
-
 **Will:** +1
+
+**Dr:** 5/slashing
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
+
+**Vulner:** fire
 
 **Offense**
 

@@ -51,23 +51,27 @@ stylized boar tusks._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/10/16
+**Armor class:** 16
 
-**Dr:** 5/chaotic
+**Touch:** 10
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +6 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Mod:** +6 natural
+**Fort:** +7
 
 **Ref:** +1
+
+**Will:** +7; +2 vs. poison, spells, and [spell-like abilities](ref/umr/spell-like-abilities)
+
+**Dr:** 5/chaotic
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 15
-
-**Will:** +7; +2 vs. poison, spells, and [spell-like abilities](ref/umr/spell-like-abilities)
 
 **Offense**
 

@@ -53,32 +53,36 @@ wings._
 
 **Experience points:** 9,830,400
 
-**Armor class:** 48/40/37
+**Armor class:** 48
+
+**Touch:** 40
+
+**Flat-footed:** 37
+
+**AC modifiers:** +4 deflection, +10 Dex, +1 dodge, +8 natural, +16 profane, -1 size
+
+**Hit points:** 752 (35d10+560)
+
+**Fort:** +31
+
+**Ref:** +33
+
+**Will:** +37; +8 vs. mind-affecting effects
 
 **Defensive abilities:** ashen essence, _[freedom of movement](ref/spell/freedom-of-movement)_,
 infernal resurrection, _[mind blank](ref/spell/mind-blank)_
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +31
-
-**Hit points:** 752 (35d10+560)
-
 **Immune:** ability damage, ability drain, bleed, blindness, blood drain, charm, compulsion,
 critical hits, dazzled, deafness, death effects, energy drain, fire, petrification, poison,
 precision damage
-
-**Mod:** +4 deflection, +10 Dex, +1 dodge, +8 natural, +16 profane, -1 size
-
-**Ref:** +33
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, cold 30
 
 **Sr:** 41
-
-**Will:** +37; +8 vs. mind-affecting effects
 
 **Offense**
 

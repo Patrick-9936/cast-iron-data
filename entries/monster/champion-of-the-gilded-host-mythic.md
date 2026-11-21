@@ -54,21 +54,25 @@ _This towering humanoid creature is made almost entirely of gold and radiates a 
 
 **Experience points:** 153,600
 
-**Armor class:** 32/3/31
+**Armor class:** 32
 
-**Dr:** 10/epic
+**Touch:** 3
 
-**Fort:** +6
+**Flat-footed:** 31
+
+**AC modifiers:** +1 Dex, +29 natural, -8 size
 
 **Hit points:** 273 (19d10+169)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +29 natural, -8 size
+**Fort:** +6
 
 **Ref:** +7
 
 **Will:** +7
+
+**Dr:** 10/epic
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

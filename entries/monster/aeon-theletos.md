@@ -51,25 +51,29 @@ creature's crystalline body._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/15/17
+**Armor class:** 20
 
-**Fh:** 5
+**Touch:** 15
 
-**Fort:** +9
+**Flat-footed:** 17
+
+**AC modifiers:** +2 deflection, +2 Dex, +1 dodge, +5 natural
 
 **Hit points:** 76 (9d10+27)
 
-**Immune:** cold, critical hits, poison
-
-**Mod:** +2 deflection, +2 Dex, +1 dodge, +5 natural
+**Fort:** +9
 
 **Ref:** +5
+
+**Will:** +12
+
+**Fh:** 5
+
+**Immune:** cold, critical hits, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 18
-
-**Will:** +12
 
 **Offense**
 

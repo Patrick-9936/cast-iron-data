@@ -52,27 +52,31 @@ punching daggers._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/12/27
+**Armor class:** 30
 
-**Dr:** 10/good
+**Touch:** 12
 
-**Fort:** +17
+**Flat-footed:** 27
+
+**AC modifiers:** +3 Dex, +18 natural, -1 size
 
 **Hit points:** 207 (18d10+108)
 
-**Immune:** curse effects, disease, poison
-
-**Mod:** +3 Dex, +18 natural, -1 size
+**Fort:** +17
 
 **Ref:** +11
+
+**Will:** +15; +2 vs. enchantment spells
+
+**Dr:** 10/good
+
+**Immune:** curse effects, disease, poison
 
 **Regen:** 10 (good spells, good weapons)
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 26
-
-**Will:** +15; +2 vs. enchantment spells
 
 **Offense**
 

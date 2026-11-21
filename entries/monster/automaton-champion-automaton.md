@@ -52,7 +52,21 @@ glows with an unrivaled ferocity._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/14/22
+**Armor class:** 24
+
+**Touch:** 14
+
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +2 insight, +10 natural
+
+**Hit points:** 127 (13d10+56)
+
+**Fort:** +4
+
+**Ref:** +6
+
+**Will:** +6
 
 **Defensive abilities:** warrior's resolve
 
@@ -60,23 +74,13 @@ glows with an unrivaled ferocity._
 
 **Fh:** 15
 
-**Fort:** +4
-
-**Hit points:** 127 (13d10+56)
-
 **Immune:** [construct traits](ref/umr/construct-traits), electricity
-
-**Mod:** +2 Dex, +2 insight, +10 natural
-
-**Ref:** +6
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 21
 
 **Weaknesses:** vulnerable mind
-
-**Will:** +6
 
 **Offense**
 

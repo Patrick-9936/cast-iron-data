@@ -53,7 +53,21 @@ apparent mechanism._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/14/25
+**Armor class:** 29
+
+**Touch:** 14
+
+**Flat-footed:** 25
+
+**AC modifiers:** +4 Dex, +15 natural
+
+**Hit points:** 130 (20d10+20)
+
+**Fort:** +6
+
+**Ref:** +14
+
+**Will:** +10
 
 **Defensive abilities:** all-around vision, sharpshooter's sense
 
@@ -61,23 +75,13 @@ apparent mechanism._
 
 **Fh:** 10
 
-**Fort:** +6
-
-**Hit points:** 130 (20d10+20)
-
 **Immune:** [construct traits](ref/umr/construct-traits), electricity
-
-**Mod:** +4 Dex, +15 natural
-
-**Ref:** +14
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 26
 
 **Weaknesses:** vulnerable mind
-
-**Will:** +10
 
 **Offense**
 

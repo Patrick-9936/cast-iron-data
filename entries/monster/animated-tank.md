@@ -49,21 +49,25 @@ dominates the battlefield, spitting hot lead and artillery - seemingly without a
 
 **Experience points:** 19,200
 
-**Armor class:** 29/9/28
+**Armor class:** 29
 
-**Dr:** 10/adamantine
+**Touch:** 9
 
-**Fort:** +5
+**Flat-footed:** 28
+
+**AC modifiers:** +1 Dex, +20 natural, -2 size
 
 **Hit points:** 144 (16d10+56)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +20 natural, -2 size
+**Fort:** +5
 
 **Ref:** +6
 
 **Will:** +5
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

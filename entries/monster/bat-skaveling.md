@@ -47,19 +47,23 @@ green glow._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/13/15
+**Armor class:** 19
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +6 natural, -1 size
 
 **Hit points:** 58 (9d8+18)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +6 natural, -1 size
+**Fort:** +5
 
 **Ref:** +6
 
 **Will:** +8
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

@@ -55,24 +55,28 @@ within, and embedded with strange objects._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/16/19
+**Armor class:** 26
+
+**Touch:** 16
+
+**Flat-footed:** 19
+
+**AC modifiers:** +7 Dex, +10 natural, -1 size
+
+**Hit points:** 137 (11d10+77)
 
 **Fort:** +9
 
-**Hit points:** 137 (11d10+77)
+**Ref:** +14
+
+**Will:** +11
 
 **Immune:** [gaze](ref/umr/gaze) attacks, illusions, visual effects, and other attack forms that
 rely on sight
 
-**Mod:** +7 Dex, +10 natural, -1 size
-
-**Ref:** +14
-
 **Resist:** cold 30
 
 **Sr:** 22
-
-**Will:** +11
 
 **Offense**
 

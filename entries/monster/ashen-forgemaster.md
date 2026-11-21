@@ -54,7 +54,21 @@ pockmarked with coal-like scales and metallic piercings, and it carries a fearso
 
 **Experience points:** 102,400
 
-**Armor class:** 32/14/27
+**Armor class:** 32
+
+**Touch:** 14
+
+**Flat-footed:** 27
+
+**AC modifiers:** +5 Dex, +18 natural, -1 size
+
+**Hit points:** 290 (20d8+200)
+
+**Fort:** +16
+
+**Ref:** +11
+
+**Will:** +13
 
 **Chan Res:** +4
 
@@ -62,23 +76,13 @@ pockmarked with coal-like scales and metallic piercings, and it carries a fearso
 
 **Dr:** 15/good
 
-**Fort:** +16
-
-**Hit points:** 290 (20d8+200)
-
 **Immune:** fire, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 Dex, +18 natural, -1 size
-
-**Ref:** +11
 
 **Regen:** 15 (cold)
 
 **Sr:** 28
 
 **Vulner:** cold
-
-**Will:** +13
 
 **Offense**
 

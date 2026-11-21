@@ -48,13 +48,17 @@ snapping jaws that grind menacingly between each bite._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/7/20
+**Armor class:** 21
 
-**Fort:** +12
+**Touch:** 7
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +14 natural, -4 size
 
 **Hit points:** 104 (11d8+55)
 
-**Mod:** +1 Dex, +14 natural, -4 size
+**Fort:** +12
 
 **Ref:** +10
 

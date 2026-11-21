@@ -50,13 +50,17 @@ clacking mandibles._
 
 **Experience points:** 800
 
-**Armor class:** 16/9/16
+**Armor class:** 16
 
-**Fort:** +6
+**Touch:** 9
+
+**Flat-footed:** 16
+
+**AC modifiers:** +7 natural, -1 size
 
 **Hit points:** 28 (3d10+12)
 
-**Mod:** +7 natural, -1 size
+**Fort:** +6
 
 **Ref:** +3
 

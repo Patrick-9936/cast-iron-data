@@ -51,27 +51,31 @@ replaces its missing flesh._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/10/16
+**Armor class:** 16
+
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 natural
+
+**Hit points:** 32 (5d10+5)
+
+**Fort:** +5
+
+**Ref:** +3
+
+**Will:** +5
 
 **Defensive abilities:** frostfire spirit
 
 **Dr:** 5/magic
 
-**Fort:** +5
-
-**Hit points:** 32 (5d10+5)
-
 **Immune:** cold or fire
-
-**Mod:** +6 natural
-
-**Ref:** +3
 
 **Sr:** 15
 
 **Vulner:** cold or fire
-
-**Will:** +5
 
 **Offense**
 

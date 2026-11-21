@@ -47,23 +47,27 @@ of fangs._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Defensive abilities:** split
+**Touch:** 11
 
-**Fort:** +6
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +8 natural, -1 size
 
 **Hit points:** 45 (6d10+12)
 
-**Immune:** petrification
-
-**Mod:** +2 Dex, +8 natural, -1 size
+**Fort:** +6
 
 **Ref:** +7
 
-**Resist:** cold 10
-
 **Will:** +3
+
+**Defensive abilities:** split
+
+**Immune:** petrification
+
+**Resist:** cold 10
 
 **Offense**
 

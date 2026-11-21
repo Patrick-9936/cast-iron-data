@@ -55,21 +55,25 @@ plant monster. A pair of stout vine-like appendages sprout from either side of i
 
 **Experience points:** 9,600
 
-**Armor class:** 25/13/21
+**Armor class:** 25
 
-**Defensive abilities:** camouflage
+**Touch:** 13
 
-**Fort:** +13
+**Flat-footed:** 21
+
+**AC modifiers:** +4 Dex, +12 natural, -1 size
 
 **Hit points:** 120 (16d8+48)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +4 Dex, +12 natural, -1 size
+**Fort:** +13
 
 **Ref:** +9
 
 **Will:** +3
+
+**Defensive abilities:** camouflage
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

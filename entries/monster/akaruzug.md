@@ -54,23 +54,27 @@ has been affixed to its chest._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/16/27
+**Armor class:** 30
+
+**Touch:** 16
+
+**Flat-footed:** 27
+
+**AC modifiers:** +4 deflection, +3 Dex, +14 natural, -1 size
+
+**Hit points:** 220 (20d10+110)
+
+**Fort:** +8
+
+**Ref:** +11
+
+**Will:** +10
 
 **Defensive abilities:** soul shield
 
 **Dr:** 15/bludgeoning and good
 
-**Fort:** +8
-
-**Hit points:** 220 (20d10+110)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +4 deflection, +3 Dex, +14 natural, -1 size
-
-**Ref:** +11
-
-**Will:** +10
 
 **Offense**
 

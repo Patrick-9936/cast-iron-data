@@ -53,21 +53,25 @@ material._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Defensive abilities:** telekinetic deflection
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +1 deflection, +2 Dex, +1 size
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** [elemental](ref/subtype/elemental) traits, force
-
-**Mod:** +1 deflection, +2 Dex, +1 size
+**Fort:** +4
 
 **Ref:** +5
 
 **Will:** +0
+
+**Defensive abilities:** telekinetic deflection
+
+**Immune:** [elemental](ref/subtype/elemental) traits, force
 
 **Offense**
 
@@ -159,21 +163,25 @@ Plane near the borders of the Elemental Planes.
 
 **Experience points:** 800
 
-**Armor class:** 17/17/13
+**Armor class:** 17
 
-**Defensive abilities:** telekinetic deflection
+**Touch:** 17
 
-**Fort:** +7
+**Flat-footed:** 13
+
+**AC modifiers:** +3 deflection, +4 Dex
 
 **Hit points:** 34 (4d10+12)
 
-**Immune:** [elemental](ref/subtype/elemental) traits, force
-
-**Mod:** +3 deflection, +4 Dex
+**Fort:** +7
 
 **Ref:** +8
 
 **Will:** +3
+
+**Defensive abilities:** telekinetic deflection
+
+**Immune:** [elemental](ref/subtype/elemental) traits, force
 
 **Offense**
 
@@ -230,23 +238,27 @@ Bonus feat.
 
 **Experience points:** 1,600
 
-**Armor class:** 20/20/13
+**Armor class:** 20
+
+**Touch:** 20
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 deflection, +7 Dex, -1 size
+
+**Hit points:** 76 (8d10+32)
+
+**Fort:** +10
+
+**Ref:** +13
+
+**Will:** +4
 
 **Defensive abilities:** telekinetic deflection
 
 **Dr:** 5/-
 
-**Fort:** +10
-
-**Hit points:** 76 (8d10+32)
-
 **Immune:** [elemental](ref/subtype/elemental) traits, force
-
-**Mod:** +4 deflection, +7 Dex, -1 size
-
-**Ref:** +13
-
-**Will:** +4
 
 **Offense**
 
@@ -307,23 +319,27 @@ Bonus feat.
 
 **Experience points:** 3,200
 
-**Armor class:** 22/22/13
+**Armor class:** 22
+
+**Touch:** 22
+
+**Flat-footed:** 13
+
+**AC modifiers:** +5 deflection, +9 Dex, -2 size
+
+**Hit points:** 105 (10d10+50)
+
+**Fort:** +12
+
+**Ref:** +16
+
+**Will:** +5
 
 **Defensive abilities:** telekinetic deflection
 
 **Dr:** 5/-
 
-**Fort:** +12
-
-**Hit points:** 105 (10d10+50)
-
 **Immune:** [elemental](ref/subtype/elemental) traits, force
-
-**Mod:** +5 deflection, +9 Dex, -2 size
-
-**Ref:** +16
-
-**Will:** +5
 
 **Offense**
 
@@ -385,23 +401,27 @@ Bonus feat.
 
 **Experience points:** 6,400
 
-**Armor class:** 24/24/14
+**Armor class:** 24
+
+**Touch:** 24
+
+**Flat-footed:** 14
+
+**AC modifiers:** +6 deflection, +10 Dex, -2 size
+
+**Hit points:** 149 (13d10+78)
+
+**Fort:** +14
+
+**Ref:** +18
+
+**Will:** +6
 
 **Defensive abilities:** telekinetic deflection
 
 **Dr:** 10/-
 
-**Fort:** +14
-
-**Hit points:** 149 (13d10+78)
-
 **Immune:** [elemental](ref/subtype/elemental) traits, force
-
-**Mod:** +6 deflection, +10 Dex, -2 size
-
-**Ref:** +18
-
-**Will:** +6
 
 **Offense**
 
@@ -463,23 +483,27 @@ Bonus feat.
 
 **Experience points:** 12,800
 
-**Armor class:** 26/26/15
+**Armor class:** 26
+
+**Touch:** 26
+
+**Flat-footed:** 15
+
+**AC modifiers:** +7 deflection, +11 Dex, -2 size
+
+**Hit points:** 200 (16d10+112)
+
+**Fort:** +17
+
+**Ref:** +21
+
+**Will:** +7
 
 **Defensive abilities:** telekinetic deflection
 
 **Dr:** 10/-
 
-**Fort:** +17
-
-**Hit points:** 200 (16d10+112)
-
 **Immune:** [elemental](ref/subtype/elemental) traits, force
-
-**Mod:** +7 deflection, +11 Dex, -2 size
-
-**Ref:** +21
-
-**Will:** +7
 
 **Offense**
 

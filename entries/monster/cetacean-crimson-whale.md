@@ -49,13 +49,17 @@ menacingly strong jaws, and blood-red skin._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/4/22
+**Armor class:** 22
 
-**Fort:** +12
+**Touch:** 4
+
+**Flat-footed:** 22
+
+**AC modifiers:** -2 Dex, +18 natural, -4 size
 
 **Hit points:** 105 (10d8+60)
 
-**Mod:** -2 Dex, +18 natural, -4 size
+**Fort:** +12
 
 **Ref:** +7
 

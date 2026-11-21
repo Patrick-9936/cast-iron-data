@@ -46,13 +46,17 @@ _Fearsome bony growths protrude from several spots in this massive animal's snow
 
 **Experience points:** 4,800
 
-**Armor class:** 22/12/19
+**Armor class:** 22
 
-**Fort:** +14
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +10 natural, -1 size
 
 **Hit points:** 115 (10d8+70)
 
-**Mod:** +3 Dex, +10 natural, -1 size
+**Fort:** +14
 
 **Ref:** +10
 

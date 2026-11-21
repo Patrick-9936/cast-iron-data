@@ -55,25 +55,29 @@ wriggling mass of tentacles._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/6/30
+**Armor class:** 30
 
-**Dr:** 15/cold iron and magic
+**Touch:** 6
 
-**Fort:** +19
+**Flat-footed:** 30
+
+**AC modifiers:** +24 natural, -4 size
 
 **Hit points:** 232 (15d10+150)
 
-**Immune:** death effects, mind-affecting effects, petrification, polymorph
-
-**Mod:** +24 natural, -4 size
+**Fort:** +19
 
 **Ref:** +11
+
+**Will:** +9
+
+**Dr:** 15/cold iron and magic
+
+**Immune:** death effects, mind-affecting effects, petrification, polymorph
 
 **Resist:** acid 20, cold 20
 
 **Sr:** 26
-
-**Will:** +9
 
 **Offense**
 

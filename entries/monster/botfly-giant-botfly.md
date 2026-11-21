@@ -48,19 +48,23 @@ oversized head and bulbous eyes._
 
 **Experience points:** 135
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +2
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 4 (1d8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +2
 
 **Will:** +0
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

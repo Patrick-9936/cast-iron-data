@@ -51,19 +51,23 @@ its barbed and razor-edged front claws._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/9/21
+**Armor class:** 22
 
-**Dr:** 10/good
+**Touch:** 9
 
-**Fort:** +15
+**Flat-footed:** 21
+
+**AC modifiers:** +1 Dex, +13 natural, -2 size
 
 **Hit points:** 150 (12d10+84)
 
-**Mod:** +1 Dex, +13 natural, -2 size
+**Fort:** +15
 
 **Ref:** +11
 
 **Will:** +7
+
+**Dr:** 10/good
 
 **Offense**
 

@@ -55,27 +55,31 @@ with impossible grace._
 
 **Experience points:** 76,800
 
-**Armor class:** 34/14/28
+**Armor class:** 34
 
-**Dr:** 15/adamantine
+**Touch:** 14
 
-**Fort:** +8
+**Flat-footed:** 28
+
+**AC modifiers:** +4 Dex, +2 dodge, +20 natural, -2 size
 
 **Hit points:** 177 (25d10+40)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +4 Dex, +2 dodge, +20 natural, -2 size
+**Fort:** +8
 
 **Ref:** +14
+
+**Will:** +8
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** fire 20
 
 **Sr:** 27
 
 **Vulner:** electricity
-
-**Will:** +8
 
 **Offense**
 

@@ -54,23 +54,27 @@ _This stag-headed humanoid has large, sweeping antlers and wields a finely-craft
 
 **Experience points:** 1,200
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Dr:** 10/evil
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +6 natural
 
 **Hit points:** 33 (6d10)
 
-**Immune:** electricity, petrification
-
-**Mod:** +2 Dex, +6 natural
+**Fort:** +5
 
 **Ref:** +4
 
-**Sr:** 15
-
 **Will:** +7; +4 vs. poison
+
+**Dr:** 10/evil
+
+**Immune:** electricity, petrification
+
+**Sr:** 15
 
 **Offense**
 

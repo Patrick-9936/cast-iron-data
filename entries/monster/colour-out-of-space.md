@@ -56,28 +56,32 @@ of latent malignancy._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/23/14
+**Armor class:** 23
 
-**Amorph:** present
+**Touch:** 23
+
+**Flat-footed:** 14
+
+**AC modifiers:** +6 deflection, +8 Dex, +1 dodge, -2 size
+
+**Hit points:** 126 (12d8+72)
 
 **Fort:** +10
 
-**Hit points:** 126 (12d8+72)
+**Ref:** +14
+
+**Will:** +10
+
+**Amorph:** present
 
 **Immune:** acid, cold, fire, mind-affecting effects, [ooze traits](ref/umr/ooze-traits), poison,
 sonic
 
 **Incorporeal:** present
 
-**Mod:** +6 deflection, +8 Dex, +1 dodge, -2 size
-
-**Ref:** +14
-
 **Sr:** 21
 
 **Weaknesses:** susceptible to force effects
-
-**Will:** +10
 
 **Offense**
 

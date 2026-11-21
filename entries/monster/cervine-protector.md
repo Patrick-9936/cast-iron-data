@@ -48,25 +48,29 @@ abilities = ["22", "15", "18", "12", "13", "11"]
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Dr:** 5/evil
+**Touch:** 11
 
-**Fort:** +10
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +8 natural, -1 size
 
 **Hit points:** 76 (8d10+32)
 
-**Immune:** electricity, petrification
-
-**Mod:** +2 Dex, +8 natural, -1 size
+**Fort:** +10
 
 **Ref:** +4
+
+**Will:** +9; +2 vs. poison
+
+**Dr:** 5/evil
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 17
-
-**Will:** +9; +2 vs. poison
 
 **Offense**
 

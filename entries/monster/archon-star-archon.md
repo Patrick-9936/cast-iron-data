@@ -54,27 +54,31 @@ _[magic circle against evil](ref/spell/magic-circle-against-evil)_
 
 **Experience points:** 204,800
 
-**Armor class:** 34/11/32
+**Armor class:** 34
+
+**Touch:** 11
+
+**Flat-footed:** 32
+
+**AC modifiers:** +9 armor, +1 Dex, +1 dodge, +12 natural, +2 shield, -1 size
+
+**Hit points:** 294 (19d10+190)
+
+**Fort:** +21
+
+**Ref:** +17
+
+**Will:** +15; +4 vs. poison
 
 **Defensive abilities:** explosive rebirth
 
 **Dr:** 10/evil
 
-**Fort:** +21
-
-**Hit points:** 294 (19d10+190)
-
 **Immune:** electricity, fire, charm, compulsion, fear, petrification
-
-**Mod:** +9 armor, +1 Dex, +1 dodge, +12 natural, +2 shield, -1 size
-
-**Ref:** +17
 
 **Regen:** 10 (evil weapons and effects)
 
 **Sr:** 30
-
-**Will:** +15; +4 vs. poison
 
 **Offense**
 

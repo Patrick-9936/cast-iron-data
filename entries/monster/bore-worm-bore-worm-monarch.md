@@ -49,23 +49,27 @@ mandibles._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/7/19
+**Armor class:** 19
 
-**Dr:** 10/piercing
+**Touch:** 7
 
-**Fort:** +10
+**Flat-footed:** 19
+
+**AC modifiers:** -2 Dex, +12 natural, -1 size
 
 **Hit points:** 78 (12d8+24)
 
-**Immune:** acid, mind-affecting effects
-
-**Mod:** -2 Dex, +12 natural, -1 size
+**Fort:** +10
 
 **Ref:** +2
 
-**Weaknesses:** vulnerable to water
-
 **Will:** +4
+
+**Dr:** 10/piercing
+
+**Immune:** acid, mind-affecting effects
+
+**Weaknesses:** vulnerable to water
 
 **Offense**
 

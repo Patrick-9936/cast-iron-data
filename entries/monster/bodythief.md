@@ -49,23 +49,27 @@ seedpods throb like beating hearts._
 
 **Experience points:** 38,400
 
-**Armor class:** 26/1/25
+**Armor class:** 26
 
-**Defensive abilities:** vexing vines
+**Touch:** 1
 
-**Fort:** +19
+**Flat-footed:** 25
+
+**AC modifiers:** -5 Dex, +25 natural, -4 size
 
 **Hit points:** 230 (20d8+140)
 
-**Immune:** [plant traits](ref/umr/plant-traits), sonic
-
-**Mod:** -5 Dex, +25 natural, -4 size
+**Fort:** +19
 
 **Ref:** +1
 
-**Resist:** cold 20
-
 **Will:** +11
+
+**Defensive abilities:** vexing vines
+
+**Immune:** [plant traits](ref/umr/plant-traits), sonic
+
+**Resist:** cold 20
 
 **Offense**
 

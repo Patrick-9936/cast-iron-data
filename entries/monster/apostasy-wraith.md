@@ -49,25 +49,29 @@ _A broken mask gives this smoky, ghostly figure a bitter, unwavering gaze._
 
 **Experience points:** 2,400
 
-**Armor class:** 16/16/12
+**Armor class:** 16
 
-**Chan Res:** +4
+**Touch:** 16
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 deflection, +4 Dex
+
+**Hit points:** 52 (8d8+16)
 
 **Fort:** +4
 
-**Hit points:** 52 (8d8+16)
+**Ref:** +6
+
+**Will:** +8
+
+**Chan Res:** +4
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +2 deflection, +4 Dex
-
-**Ref:** +6
-
 **Weaknesses:** Razmiri aversion
-
-**Will:** +8
 
 **Offense**
 

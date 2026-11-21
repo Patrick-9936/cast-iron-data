@@ -52,21 +52,25 @@ grinding metal._
 
 **Experience points:** 200
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Fort:** +0
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 dodge, +2 size
 
 **Hit points:** 5 (1d10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +2 dodge, +2 size
+**Fort:** +0
 
 **Ref:** +3
 
-**Vulner:** electricity
-
 **Will:** +0
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

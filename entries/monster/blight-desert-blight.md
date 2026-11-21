@@ -52,25 +52,29 @@ tentacles._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/18/20
+**Armor class:** 28
+
+**Touch:** 18
+
+**Flat-footed:** 20
+
+**AC modifiers:** +7 Dex, +1 dodge, +10 natural
+
+**Hit points:** 172 (15d8+105)
+
+**Fort:** +12
+
+**Ref:** +14
+
+**Will:** +11
 
 **Defensive abilities:** rejuvenation
 
 **Fh:** 10
 
-**Fort:** +12
-
-**Hit points:** 172 (15d8+105)
-
 **Immune:** acid, [ooze traits](ref/umr/ooze-traits)
 
-**Mod:** +7 Dex, +1 dodge, +10 natural
-
-**Ref:** +14
-
 **Resist:** cold 20, fire 20
-
-**Will:** +11
 
 **Offense**
 

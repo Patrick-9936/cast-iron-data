@@ -51,23 +51,27 @@ mane of fire._
 
 **Experience points:** 600
 
-**Armor class:** 18/11/17
+**Armor class:** 18
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +5 armor, +1 Dex, +2 natural
 
 **Hit points:** 15 (2d10+4)
 
-**Immune:** fire
-
-**Mod:** +5 armor, +1 Dex, +2 natural
+**Fort:** +5
 
 **Ref:** +1
+
+**Will:** +4
+
+**Immune:** fire
 
 **Sr:** 13
 
 **Vulner:** cold
-
-**Will:** +4
 
 **Offense**
 

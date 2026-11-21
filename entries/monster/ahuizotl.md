@@ -54,13 +54,17 @@ clawed hand._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/12/16
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +7 natural, -1 size
 
 **Hit points:** 68 (8d10+24)
 
-**Mod:** +3 Dex, +7 natural, -1 size
+**Fort:** +9
 
 **Ref:** +9
 

@@ -55,25 +55,29 @@ individual with shining eyes._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/13/18
+**Armor class:** 21
 
-**Dr:** 10/evil
+**Touch:** 13
 
-**Fort:** +11
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +1 dodge, +8 natural; +4 deflection vs. evil
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** acid, cold, petrification
-
-**Mod:** +2 Dex, +1 dodge, +8 natural; +4 deflection vs. evil
+**Fort:** +11
 
 **Ref:** +7
+
+**Will:** +10; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** acid, cold, petrification
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 19
-
-**Will:** +10; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

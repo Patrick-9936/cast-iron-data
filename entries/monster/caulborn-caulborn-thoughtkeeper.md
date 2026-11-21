@@ -56,21 +56,25 @@ into terrifying jaws._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/21/17
+**Armor class:** 22
 
-**Defensive abilities:** psychic deflection, psychic resilience
+**Touch:** 21
 
-**Fort:** +7
+**Flat-footed:** 17
+
+**AC modifiers:** +6 deflection, +5 Dex, +1 natural
 
 **Hit points:** 115 (9d10+44)
 
-**Immune:** visual effects
-
-**Mod:** +6 deflection, +5 Dex, +1 natural
+**Fort:** +7
 
 **Ref:** +8
 
 **Will:** +15; +4 vs. psychic spells
+
+**Defensive abilities:** psychic deflection, psychic resilience
+
+**Immune:** visual effects
 
 **Offense**
 

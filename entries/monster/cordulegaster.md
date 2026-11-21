@@ -50,21 +50,25 @@ _Interlocking plates of chitin cover this massive, six-legged beast's face like 
 
 **Experience points:** 2,400
 
-**Armor class:** 19/9/19
+**Armor class:** 19
 
-**Defensive abilities:** all-around vision
+**Touch:** 9
 
-**Fort:** +10
+**Flat-footed:** 19
+
+**AC modifiers:** +10 natural, -1 size
 
 **Hit points:** 76 (8d10+32)
 
-**Immune:** waters of the River Styx
-
-**Mod:** +10 natural, -1 size
+**Fort:** +10
 
 **Ref:** +4
 
 **Will:** +8
+
+**Defensive abilities:** all-around vision
+
+**Immune:** waters of the River Styx
 
 **Offense**
 

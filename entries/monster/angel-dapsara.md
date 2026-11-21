@@ -51,25 +51,29 @@ motions of her physical arms._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/12/14
+**Armor class:** 16
 
-**Dr:** 5/evil
+**Touch:** 12
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 natural
 
 **Hit points:** 32 (5d10+5)
 
-**Immune:** petrification
-
-**Mod:** +2 Dex, +4 natural
+**Fort:** +2
 
 **Ref:** +6
+
+**Will:** +8; +4 vs. poison
+
+**Dr:** 5/evil
+
+**Immune:** petrification
 
 **Resist:** acid 5, cold 5, electricity 5, fire 5
 
 **Sr:** 15
-
-**Will:** +8; +4 vs. poison
 
 **Offense**
 

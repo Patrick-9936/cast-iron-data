@@ -52,25 +52,29 @@ head and crest. Its wings let forth thin clouds of golden pollen and showers of 
 
 **Experience points:** 76,800
 
-**Armor class:** 31/14/25
+**Armor class:** 31
 
-**Dr:** 10/cold iron or evil
+**Touch:** 14
 
-**Fort:** +13
+**Flat-footed:** 25
+
+**AC modifiers:** +5 Dex, +1 dodge, +17 natural, -2 size
 
 **Hit points:** 250 (20d10+140)
 
-**Immune:** acid, disease, poison
-
-**Mod:** +5 Dex, +1 dodge, +17 natural, -2 size
+**Fort:** +13
 
 **Ref:** +19
+
+**Will:** +21
+
+**Dr:** 10/cold iron or evil
+
+**Immune:** acid, disease, poison
 
 **Resist:** cold 15, electricity 15, fire 15
 
 **Sr:** 28
-
-**Will:** +21
 
 **Offense**
 

@@ -48,21 +48,25 @@ _This enormous caterpillar is covered with hundreds of sharp, poisonous bristles
 
 **Experience points:** 1,200
 
-**Armor class:** 19/9/19
+**Armor class:** 19
 
-**Defensive abilities:** bristles
+**Touch:** 9
 
-**Fort:** +7
+**Flat-footed:** 19
+
+**AC modifiers:** +10 natural, -1 size
 
 **Hit points:** 37 (5d8+15)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +10 natural, -1 size
+**Fort:** +7
 
 **Ref:** +1
 
 **Will:** +1
+
+**Defensive abilities:** bristles
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

@@ -49,19 +49,23 @@ and cloven hooves on its stumpy legs._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/8/27
+**Armor class:** 27
 
-**Fort:** +15
+**Touch:** 8
+
+**Flat-footed:** 27
+
+**AC modifiers:** -1 Dex, +19 natural, -1 size
 
 **Hit points:** 161 (14d10+84)
 
-**Mod:** -1 Dex, +19 natural, -1 size
+**Fort:** +15
 
 **Ref:** +8
 
-**Sr:** 23
-
 **Will:** +8
+
+**Sr:** 23
 
 **Offense**
 

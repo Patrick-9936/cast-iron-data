@@ -51,25 +51,29 @@ _This towering reptilian humanoid seems to be made of obsidian scales over a mol
 
 **Experience points:** 25,600
 
-**Armor class:** 24/9/23
+**Armor class:** 24
+
+**Touch:** 9
+
+**Flat-footed:** 23
+
+**AC modifiers:** +1 Dex, +15 natural, -2 size
+
+**Hit points:** 189 (18d10+90)
+
+**Fort:** +16
+
+**Ref:** +14
+
+**Will:** +10
 
 **Defensive abilities:** fire healing
 
 **Dr:** 10/-
 
-**Fort:** +16
-
-**Hit points:** 189 (18d10+90)
-
 **Immune:** fire
 
-**Mod:** +1 Dex, +15 natural, -2 size
-
-**Ref:** +14
-
 **Vulner:** cold
-
-**Will:** +10
 
 **Offense**
 

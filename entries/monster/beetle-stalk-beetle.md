@@ -47,19 +47,23 @@ _This ravenous beetle is the size of a pony, and sports a pair of deadly, serrat
 
 **Experience points:** 600
 
-**Armor class:** 16/11/15
+**Armor class:** 16
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +5 natural
 
 **Hit points:** 22 (4d8+4)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +5 natural
+**Fort:** +5
 
 **Ref:** +2
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

@@ -48,25 +48,29 @@ and ears are clawed and spiked._
 
 **Experience points:** 600
 
-**Armor class:** 16/14/14
+**Armor class:** 16
 
-**Fh:** 2
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +2 natural, +2 size
 
 **Hit points:** 22 (3d10+6)
 
-**Immune:** poison
-
-**Mod:** +2 Dex, +2 natural, +2 size
+**Fort:** +5
 
 **Ref:** +5
+
+**Will:** +2
+
+**Fh:** 2
+
+**Immune:** poison
 
 **Resist:** acid 5, electricity 5
 
 **Sr:** 13
-
-**Will:** +2
 
 **Offense**
 

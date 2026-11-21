@@ -51,23 +51,27 @@ _A dorsal fin rises up from the back of this immense black-and-white-furred, wol
 
 **Experience points:** 25,600
 
-**Armor class:** 30/11/27
+**Armor class:** 30
 
-**Dr:** 15/magic
+**Touch:** 11
 
-**Fort:** +16
+**Flat-footed:** 27
+
+**AC modifiers:** +2 Dex, +1 dodge, +19 natural, -2 size
 
 **Hit points:** 189 (18d10+90)
 
-**Immune:** cold
-
-**Mod:** +2 Dex, +1 dodge, +19 natural, -2 size
+**Fort:** +16
 
 **Ref:** +13
 
-**Vulner:** fire
-
 **Will:** +10
+
+**Dr:** 15/magic
+
+**Immune:** cold
+
+**Vulner:** fire
 
 **Offense**
 

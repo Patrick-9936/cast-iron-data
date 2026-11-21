@@ -52,21 +52,25 @@ extensions._
 
 **Experience points:** 2,400
 
-**Armor class:** 17/13/15
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 13
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +4 natural, +1 size
 
 **Hit points:** 66 (12d6+24)
 
-**Mod:** +2 Dex, +4 natural, +1 size
+**Fort:** +5
 
 **Ref:** +10
 
-**Resist:** acid 5, fire 5
-
 **Will:** +8
+
+**Dr:** 5/cold iron
+
+**Resist:** acid 5, fire 5
 
 **Offense**
 

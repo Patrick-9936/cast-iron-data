@@ -51,19 +51,23 @@ appearance._
 
 **Experience points:** 1,600
 
-**Armor class:** 16/14/14
+**Armor class:** 16
 
-**Defensive abilities:** shrouded mind
+**Touch:** 14
 
-**Fort:** +7
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +2 natural, +2 size
 
 **Hit points:** 45 (6d10+12)
 
-**Mod:** +2 Dex, +2 natural, +2 size
+**Fort:** +7
 
 **Ref:** +7
 
 **Will:** +7
+
+**Defensive abilities:** shrouded mind
 
 **Offense**
 

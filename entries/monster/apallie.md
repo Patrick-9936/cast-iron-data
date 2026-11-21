@@ -45,23 +45,27 @@ appearance._
 
 **Experience points:** 600
 
-**Armor class:** 15/13/13
+**Armor class:** 15
 
-**Amorph:** present
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +2 natural, +1 size
 
 **Hit points:** 22 (4d8+4)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +2 Dex, +2 natural, +1 size
+**Fort:** +2
 
 **Ref:** +5
 
-**Weaknesses:** sun allergy
-
 **Will:** +2
+
+**Amorph:** present
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
+
+**Weaknesses:** sun allergy
 
 **Offense**
 

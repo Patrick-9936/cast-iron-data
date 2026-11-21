@@ -51,21 +51,25 @@ ground in an unnatural slither._
 
 **Experience points:** 800
 
-**Armor class:** 15/9/15
+**Armor class:** 15
 
-**Fort:** +7
+**Touch:** 9
+
+**Flat-footed:** 15
+
+**AC modifiers:** +6 natural, -1 size
 
 **Hit points:** 30 (4d8+12)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +6 natural, -1 size
+**Fort:** +7
 
 **Ref:** +1
 
-**Resist:** cold 10 and fire 10
-
 **Will:** +2
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits)
+
+**Resist:** cold 10 and fire 10
 
 **Offense**
 

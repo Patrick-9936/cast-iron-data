@@ -52,23 +52,27 @@ claws, flank its fanged jaws._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/13/20
+**Armor class:** 24
 
-**Fort:** +10
+**Touch:** 13
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +11 natural, -1 size
 
 **Hit points:** 126 (12d8+72)
 
-**Immune:** electricity, mind-affecting effects, sonic
-
-**Mod:** +4 Dex, +11 natural, -1 size
+**Fort:** +10
 
 **Ref:** +10
+
+**Will:** +14
+
+**Immune:** electricity, mind-affecting effects, sonic
 
 **Resist:** cold 10
 
 **Sr:** 21
-
-**Will:** +14
 
 **Offense**
 

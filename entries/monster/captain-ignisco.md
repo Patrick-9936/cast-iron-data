@@ -55,23 +55,27 @@ of the same material._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/15/14
+**Armor class:** 19
 
-**Defensive abilities:** charmed life 3/day, emotional push (+3; 1/day), nimble +1
+**Touch:** 15
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +4 armor, +3 Dex, +2 dodge
 
 **Hit points:** 55 (2d6+4d10+22\~6)
 
-**Mod:** +4 armor, +3 Dex, +2 dodge
+**Fort:** +4
 
 **Ref:** +7
+
+**Will:** +4
+
+**Defensive abilities:** charmed life 3/day, emotional push (+3; 1/day), nimble +1
 
 **Sr:** 14
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +4
 
 **Offense**
 

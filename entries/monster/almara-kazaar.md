@@ -54,23 +54,27 @@ warhammer._
 
 **Experience points:** 9,600
 
-**Armor class:** 21/10/21
+**Armor class:** 21
 
-**Defensive abilities:** sacred armor (+2; 11 minutes/day)
+**Touch:** 10
 
-**Fort:** +11
+**Flat-footed:** 21
+
+**AC modifiers:** +10 armor, +1 natural
 
 **Hit points:** 108 (11d8+55)
 
-**Immune:** duergar immunities, paralysis, phantasms, poison
-
-**Mod:** +10 armor, +1 natural
+**Fort:** +11
 
 **Ref:** +5
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +13; +2 bonus vs. spells and [spell-like abilities](ref/umr/spell-like-abilities)
+
+**Defensive abilities:** sacred armor (+2; 11 minutes/day)
+
+**Immune:** duergar immunities, paralysis, phantasms, poison
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

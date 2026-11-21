@@ -52,23 +52,27 @@ tendrils._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/16
+**Armor class:** 17
+
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +6 natural
+
+**Hit points:** 37 (5d8+15)
+
+**Fort:** +7
+
+**Ref:** +2
+
+**Will:** +2
 
 **Amorph:** present
 
 **Dr:** 5/piercing or slashing
 
-**Fort:** +7
-
-**Hit points:** 37 (5d8+15)
-
 **Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +6 natural
-
-**Ref:** +2
-
-**Will:** +2
 
 **Offense**
 

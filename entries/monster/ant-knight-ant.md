@@ -50,19 +50,23 @@ scarred._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Fort:** +9
+**Touch:** 9
+
+**Flat-footed:** 17
+
+**AC modifiers:** +8 natural, -1 size
 
 **Hit points:** 42 (4d8+24)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +1
 
 **Will:** +2
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

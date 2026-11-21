@@ -51,21 +51,25 @@ _Gleaming gears whir and buzz in an orchestra of motion whenever this red-eyed s
 
 **Experience points:** 2,400
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Fort:** +2
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +2 dodge, +8 natural, -1 size
 
 **Hit points:** 74 (8d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +2 dodge, +8 natural, -1 size
+**Fort:** +2
 
 **Ref:** +5
 
-**Vulner:** electricity
-
 **Will:** +2
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

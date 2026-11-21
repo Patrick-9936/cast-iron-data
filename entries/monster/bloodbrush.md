@@ -48,25 +48,29 @@ wind, but of its own volition._
 
 **Experience points:** 600
 
-**Armor class:** 13/11/13
+**Armor class:** 13
+
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 natural, +1 size
+
+**Hit points:** 26 (4d8+8)
+
+**Fort:** +6
+
+**Ref:** +1
+
+**Will:** +1
 
 **Defensive abilities:** all-around vision, barbs, flammable
 
 **Dr:** 5/slashing
 
-**Fort:** +6
-
-**Hit points:** 26 (4d8+8)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
 
-**Mod:** +2 natural, +1 size
-
-**Ref:** +1
-
 **Vulner:** fire
-
-**Will:** +1
 
 **Offense**
 

@@ -54,23 +54,27 @@ knotted into a mask of rage._
 
 **Experience points:** 25,600
 
-**Armor class:** 26/26/14
+**Armor class:** 26
+
+**Touch:** 26
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 deflection, +11 Dex, +1 dodge
+
+**Hit points:** 161 (19d8+76)
 
 **Fort:** +10
 
-**Hit points:** 161 (19d8+76)
+**Ref:** +19
+
+**Will:** +18
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +4 deflection, +11 Dex, +1 dodge
-
-**Ref:** +19
-
 **Weaknesses:** sunlight powerlessness
-
-**Will:** +18
 
 **Offense**
 
