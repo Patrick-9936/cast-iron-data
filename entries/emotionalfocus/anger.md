@@ -40,26 +40,22 @@ gains a bonus to Strength instead.
 
 **Powerful Strike (Ex)**
 
+**Flavor:** A phantom with this focus deals more damage with its slam attacks.
+
 **Ability:** The phantom deals slam damage as a creature
 [one size category](ref/misc/damage-die-adjustments) larger than its current size. The phantom also
 gains [Power Attack](ref/feat/power-attack) as a bonus feat.
-
-**Flavor:** A phantom with this focus deals more damage with its slam attacks.
 
 **Aura of Fury (Su)**
 
 **Gained:** At 7th Level
 
-**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
-
 **Swift:** The phantom can emit a 20-foot-radius aura of fury. Creatures within the aura gain a +2
 bonus on melee attack rolls but take a -2 penalty to AC. Ending the aura is a **free action**.
 
-**Ferocious Mien (Su)**
+**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
 
-**At 18th Level:** A phantom using _ferocious mien_ also gains the
-[frightful presence](ref/umr/frightful-presence) extraordinary ability (range 30 feet, duration 5d6
-rounds).
+**Ferocious Mien (Su)**
 
 **Gained:** At 12th Level
 
@@ -68,13 +64,17 @@ becomes one size category larger than its current size, as affected by an
 [enlarge person](ref/spell/enlarge-person) spell, and grows fiercer in combat, as if affected by a
 [rage](ref/spell/rage) spell. This effect lasts for 1 round per class level of the spiritualist.
 
+**At 18th level,** a phantom using _ferocious mien_ also gains the
+[frightful presence](ref/umr/frightful-presence) extraordinary ability (range 30 feet, duration 5d6
+rounds).
+
 **Furious Wail (Su)**
 
 **Gained:** At 17th Level
-
-**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Standard:** Once per day, the phantom can emit a single angry wail that acts as
 [wail of the banshee](ref/spell/wail-of-the-banshee). The phantom uses its Hit Dice as its caster
 level for the effect, and the DC of the effect is 10 + 1/2 the phantom's Hit Dice + the phantom's
 Charisma modifier.
+
+**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.

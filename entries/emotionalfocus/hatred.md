@@ -41,15 +41,15 @@ skills.
 
 **Hated Target (Su)**
 
-**At 7th Level:** The phantom can use this ability as a **swift action**, and takes no penalty when
-attacking creatures that are not designated as its _hated_ enemy.
-
 **Move:** The phantom can designate one creature within its line of sight as a _hated target._ The
 phantom gains a +2 bonus on attack rolls against its _hated target,_ and a bonus on damage rolls
 equal to 1/2 the phantom's Hit Dice (minimum 1). The phantom is so focused on this _hated target_
 that it takes a -2 penalty on attack rolls against all other creatures. The phantom can maintain
 these bonuses against only one target at a time, and these bonuses remain in effect until either the
 _hated_ opponent is dead or it has been out of the phantom's line of sight for at least 1 minute.
+
+**At 7th level,** the phantom can use this ability as a **swift action**, and takes no penalty when
+attacking creatures that are not designated as its _hated_ enemy.
 
 **Special:** The phantom must be manifested in ectoplasmic form to use this ability (unless the
 spiritualist is 17th level or higher; see _Shared Hatred_ below).
@@ -58,12 +58,12 @@ spiritualist is 17th level or higher; see _Shared Hatred_ below).
 
 **Gained:** At 7th Level
 
-**Special:** This is a mind-affecting pain effect. The phantom can use this ability in either
-ectoplasmic or incorporeal form.
-
 **Swift:** The phantom can emit a 10-foot-radius aura that inflicts pain upon the minds of those who
 dare damage it or its master. Enemies within the aura that deal damage to the spiritualist or the
 phantom take an amount of damage equal to the phantom's Charisma bonus.
+
+**Special:** This is a mind-affecting pain effect. The phantom can use this ability in either
+ectoplasmic or incorporeal form.
 
 **Sneak Attack (Su)**
 
@@ -74,13 +74,13 @@ its _hated target._
 
 **Shared Hatred (Su)**
 
+**Gained:** At 17th Level
+
+**Flavor:** The phantom can grant its hatred to others.
+
 **Ability:** When the phantom designates a _hated target,_ its allies also gain a +2 bonus on attack
 rolls and a +4 bonus on damage rolls against that enemy.
 
 Furthermore, the phantom can use its _hated target_ ability even when in incorporeal form; when it
 does, it can make slam attacks against a corporeal creature, but only if that corporeal creature is
 its _hated target._
-
-**Flavor:** The phantom can grant its hatred to others.
-
-**Gained:** At 17th Level

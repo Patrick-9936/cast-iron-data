@@ -46,24 +46,24 @@ full base attack bonus against that enemy as an **immediate action**.
 
 **Etheric Healing (Su)**
 
+**Gained:** At 7th Level
+
 **Ability:** The phantom gains the [lay on hands](ref/ability/lay-on-hands) ability with an
 effective paladin level equal to its Hit Dice. The phantom can use this ability on the spiritualist
 as a **swift action**.
 
-**Gained:** At 7th Level
-
 **Expanded Aid (Su)**
+
+**Gained:** At 12th Level
 
 **Ability:** The phantom can use the aid another action as a **move action**. Additionally, the
 phantom selects four mercies available to a 12th-level paladin that it adds to its _lay on hands_
 ability.
 
-**Gained:** At 12th Level
-
 **Exceptional Aid (Su)**
+
+**Gained:** At 17th Level
 
 **Ability:** The phantom can use the aid another action as a **swift action**. Additionally, when
 designating an ally for an _opening strike,_ that ally gains a bonus equal to the phantom's Charisma
 modifier on damage rolls for the attack granted to him.
-
-**Gained:** At 17th Level

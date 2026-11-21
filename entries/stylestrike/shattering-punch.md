@@ -14,9 +14,9 @@ group = "style-strike"
 
 **Shattering Punch**
 
+**Flavor:** The monk delivers a brutal punch that can penetrate defenses.
+
 **Ability:** If the attack hits, it bypasses any [damage reduction](ref/rule/damage-reduction) or
 [hardness](ref/umr/hardness) possessed by the target of that attack.
-
-**Flavor:** The monk delivers a brutal punch that can penetrate defenses.
 
 **Special:** The monk must attack with a fist to use this style strike.

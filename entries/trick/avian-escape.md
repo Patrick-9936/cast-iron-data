@@ -14,10 +14,10 @@ group = "mesmerist-trick"
 
 **Avian Escape**
 
+**Flavor:** The subject changes shape to elude an attacking enemy.
+
 **Ability:** The mesmerist can trigger this trick when the subject takes damage from an enemy's
 attack. The subject transforms into a bird (as [beast shape III](ref/spell/beast-shape-3)).
-
-**Flavor:** The subject changes shape to elude an attacking enemy.
 
 **Special:** Though the subject can appear as any Tiny bird, it uses the statistics for a
 [raven](ref/monster/familiar-raven). This is a polymorph effect.

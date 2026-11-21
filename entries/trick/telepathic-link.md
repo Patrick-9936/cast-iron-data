@@ -14,11 +14,11 @@ group = "mesmerist-trick"
 
 **Telepathic Link**
 
+**Flavor:** The subject can communicate telepathically with the mesmerist during a crisis.
+
 **Ability:** The mesmerist can trigger this trick when the subject and her allies are outnumbered in
 combat. For 1 minute per mesmerist level, the subject and the mesmerist can communicate
 telepathically.
-
-**Flavor:** The subject can communicate telepathically with the mesmerist during a crisis.
 
 **Special:** If the subject and the mesmerist are more than a medium distance (100 feet + 10 feet
 per level) apart, the telepathic connection is severed and cannot be regained unless the trick is

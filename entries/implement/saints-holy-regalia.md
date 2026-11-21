@@ -28,30 +28,30 @@ This panoply is associated with devoted members of a good-aligned faith and the 
 
 **Font of Healing (Su)**
 
+**Flavor:** The panoply grants you mastery over healing magic.
+
 **Ability:** When you cast a cure spell (a spell with "cure" in its name), you restore 1 additional
 hit point for every 3 points of total mental focus invested in all of the associated implements, to
 a maximum bonus equal to half the occultist's level. This doesn't apply to damage dealt to undead
 with the spell.
 
-**Flavor:** The panoply grants you mastery over healing magic.
-
 ### Base Focus Power
 
 **Restoring Touch (Sp)**
-
-**At 10th Level:** You can expend an additional point of mental focus to instead restore the same
-amount of permanent ability drain.
 
 **Standard:** You can expend 2 points of mental focus to cure a living creature you touch of
 temporary [ability damage](ref/rule/ability-damage-drain). You cure an amount of temporary ability
 damage to a single ability score equal to [one-third](ref/misc/fractions-and-rounding) of you
 occultist level.
 
+**At 10th level,** you can expend an additional point of mental focus to instead restore the same
+amount of permanent ability drain.
+
 ### Focus Powers
 
 **Guardian Aura (Sp)**
 
-**Fullround:** You can expend 3 points of mental focus to emit a 20-foot-radius aura of protection
+**Full-round:** You can expend 3 points of mental focus to emit a 20-foot-radius aura of protection
 that lasts for 1 minute. You and your allies within the aura gain a sacred bonus to AC equal to
 [one-fourth](ref/misc/fractions-and-rounding) of your occultist level (minimum +1). Your speed is
 reduced to 10 feet while this power is active, but you can dismiss it as a **free action**.

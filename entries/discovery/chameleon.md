@@ -17,4 +17,4 @@ group = "alchemist-discovery"
 **Ability:** An alchemist with this discovery can shift the colors of his skin and equipment to
 blend in with the surrounding terrain. He gains a +4 enhancement bonus on Stealth checks.
 
-**At 10th Level:** The bonus on Stealth checks increases to +8.
+**At 10th level,** the bonus on Stealth checks increases to +8.

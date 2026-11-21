@@ -14,6 +14,8 @@ group = "ninja-trick"
 
 **Assassinate (Ex)**
 
+**Flavor:** A ninja with this master trick can kill foes that are unable to defend themselves.
+
 **Ability:** To attempt to _assassinate_ a target, the ninja must first study her target for 1 round
 as a **standard action**.
 
@@ -26,5 +28,3 @@ DC of this save is equal to 10 + 1/2 the ninja's level + the ninja's Charisma mo
 
 If the save is successful, the target still takes the sneak attack damage as normal, but it is
 immune to that ninja's _assassinate_ ability for 1 day.
-
-**Flavor:** A ninja with this master trick can kill foes that are unable to defend themselves.

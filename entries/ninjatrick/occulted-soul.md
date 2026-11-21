@@ -14,8 +14,8 @@ group = "ninja-trick"
 
 **Occulted Soul (Su)**
 
+**Flavor:** A ninja with this trick can still her mind to bypass magical detection.
+
 **Ability:** The ninja can spend 1 ki point to cast [nondetection](ref/spell/nondetection) on
 herself as a [spell-like ability](ref/umr/spell-like-abilities), with a caster level equal to her
 ninja level.
-
-**Flavor:** A ninja with this trick can still her mind to bypass magical detection.

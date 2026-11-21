@@ -48,26 +48,26 @@ themselves.
 
 **Gained:** At 7th Level
 
-**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
-
 **Swift:** Her phantom can emit a 10-foot-radius aura of regret. Enemies within the aura take a -2
 penalty on skill checks, on caster level checks, on combat maneuver checks, and to CMD. Ending the
 aura is a **free action**.
 
+**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
+
 **Keening (Su)**
 
 **Gained:** At 12th Level
-
-**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Standard:** Her phantom can wail about its misdeeds once per day, affecting all creatures within a
 30-foot cone with the [terrible remorse](ref/spell/terrible-remorse) spell. The phantom uses its Hit
 Dice as its caster level for the effect, and the DC equals 10 + 1/2 the phantom's Hit Dice + the
 phantom's Charisma modifier.
 
+**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
+
 **Utter Misery (Su)**
+
+**Gained:** At 17th Level
 
 **Ability:** Her phantom's _long-suffering strike_ also causes a creature that fails its save to
 become [stunned](ref/misc/stunned) until the beginning of the phantom's next turn.
-
-**Gained:** At 17th Level

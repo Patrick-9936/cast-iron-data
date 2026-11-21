@@ -14,10 +14,10 @@ group = "ki-power"
 
 **Ki Mount (Su)**
 
-**Prereq:** 6th-level monk
-
 **Standard:** A monk with this ability can spend 1 ki point to grant 2
 [temporary hit points](ref/rule/temporary-hit-points) per monk level he possesses to his mount for 1
 hour per monk level. As long as the monk and his mount are adjacent or the monk is mounted, the
 mount shares the benefits of whichever of the _AC bonus, evasion, high jump, improved evasion, ki
 strike, perfect self,_ and _still mind_ abilities the monk possesses.
+
+**Prereq:** 6th-level monk

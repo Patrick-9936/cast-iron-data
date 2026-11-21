@@ -14,7 +14,7 @@ group = "ninja-trick"
 
 **Hidden Weapons (Ex)**
 
+**Flavor:** A ninja with this ability can easily conceal weapons on her body.
+
 **Ability:** The ninja adds her level on opposed Sleight of Hand checks made to conceal a weapon. In
 addition, she can draw hidden weapons as a **move action**, instead of as a standard action.
-
-**Flavor:** A ninja with this ability can easily conceal weapons on her body.

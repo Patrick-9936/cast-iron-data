@@ -14,7 +14,7 @@ group = "ninja-trick"
 
 **Acrobatic Master (Su)**
 
-**Special:** Using this ability expends 1 ki point from her ki pool.
-
 **Swift:** A ninja with this trick can focus her ki to grant her a +20 bonus on one Acrobatics check
 of her choice made before the start of her next turn.
+
+**Special:** Using this ability expends 1 ki point from her ki pool.

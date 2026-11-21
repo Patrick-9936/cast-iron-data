@@ -14,13 +14,13 @@ group = "alchemist-discovery"
 
 **Boneshard Bomb**
 
-**Ability:** The alchemist's bomb deals piercing damage instead of fire damage, and creatures that
-take a direct hit from a _boneshard bomb_ must succeed at a Fortitude save or take 1d4 points of
-[bleed](ref/rule/bleed) damage in addition to normal damage.
-
 **Flavor:** This discovery is popular among necromancers and necrologists alike; aside from its
 offensive potential, necrologists sometimes use it to turn uncooperative live creatures they wish to
 question into pliable undead.
+
+**Ability:** The alchemist's bomb deals piercing damage instead of fire damage, and creatures that
+take a direct hit from a _boneshard bomb_ must succeed at a Fortitude save or take 1d4 points of
+[bleed](ref/rule/bleed) damage in addition to normal damage.
 
 **Prereq:** [Alchemical zombie](ref/discovery/alchemical-zombie)
 

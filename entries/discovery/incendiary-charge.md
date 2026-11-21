@@ -17,8 +17,8 @@ group = "alchemist-discovery"
 **Flavor:** An _incendiary charge_ is a bomb specifically designed to overcome the effects of any
 nonmagical object's [hardness](ref/umr/hardness).
 
-**Fullround:** The alchemist can place an _incendiary charge_ that burns and eats away at an object,
-dealing normal bomb damage to it. (The damage is not halved against an object with
+**Full-round:** The alchemist can place an _incendiary charge_ that burns and eats away at an
+object, dealing normal bomb damage to it. (The damage is not halved against an object with
 [hardness](ref/umr/hardness), unlike most energy damage.) Furthermore, the _incendiary charge_
 ignores the first 5 points of hardness of the material being damaged.
 

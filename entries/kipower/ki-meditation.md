@@ -14,7 +14,7 @@ group = "ki-power"
 
 **Ki Meditation (Su)**
 
-**Fullround:** A monk with this ability can spend 2 ki points to meditate, as if using Combat
+**Full-round:** A monk with this ability can spend 2 ki points to meditate, as if using Combat
 Meditation. Alternatively, he can spend 4 ki points to meditate as a **move action** instead.
 
 **Prereq:** [Combat Meditation](ref/feat/combat-meditation)

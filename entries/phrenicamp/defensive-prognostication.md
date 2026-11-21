@@ -14,9 +14,9 @@ group = "phrenic-amplification"
 
 **Defensive Prognostication (Su)**
 
+**Flavor:** When casting a divination spell, the psychic sees a glimmer of her future.
+
 **Ability:** By spending 1 point from her phrenic pool as she casts a divination spell, she gains a
 +2 insight bonus to AC for a number of rounds equal to the linked spell's level. She can instead
 spend 2 points to increase the bonus to +4. This amplification can be linked only to divination
 spells.
-
-**Flavor:** When casting a divination spell, the psychic sees a glimmer of her future.

@@ -28,15 +28,15 @@ This panoply is associated with the arcane arts and the masters of manipulating 
 
 **Scholarly Knowledge (Su)**
 
-**At 5th Level:** The panoply's bearer can cast [augury](ref/spell/augury) as a
-[spell-like ability](ref/umr/spell-like-abilities) a total number of times per day equal to the
-greatest number of points of mental focus stored in any one of the associated implements.
-
 **Passive:** The panoply grants a bonus on all [Knowledge](ref/skill/knowledge-all) checks equal to
 [one-fourth](ref/misc/fractions-and-rounding) of the total amount of points of mental focus invested
 in all of the associated implements, to a maximum bonus equal to half the occultist's level.
 Additionally, the bearer is treated as being trained in all Knowledge checks for the purpose of
 determining whether or not he can succeed at Knowledge checks with a DC higher than 10.
+
+**At 5th level,** the panoply's bearer can cast [augury](ref/spell/augury) as a
+[spell-like ability](ref/umr/spell-like-abilities) a total number of times per day equal to the
+greatest number of points of mental focus stored in any one of the associated implements.
 
 ### Base Focus Power
 
@@ -75,6 +75,6 @@ power is equal to the increase in spell levels the metamagic feat would normally
 **Free:** While casting a spell, you can expend 2 points of mental focus to increase that spell's
 caster level by 2.
 
-**At 12th Level:** You can now spend 3 points to increase the caster level by 3.
+**At 12th level,** you can now spend 3 points to increase the caster level by 3.
 
-**At 18th Level:** You can spend 4 points to increase the caster level by 4.
+**At 18th level,** you can spend 4 points to increase the caster level by 4.

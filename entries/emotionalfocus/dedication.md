@@ -63,13 +63,13 @@ throws. Deactivating the aura is a **free action**.
 
 **Devoted Servant (Su)**
 
+**Gained:** At 12th Level
+
 **Ability:** When the spiritualist is caught unawares by an attack (such as an attack made in a
 surprise round or while the spiritualist is asleep or an attack by a creature using Stealth), if the
 phantom is not fully manifested, it automatically fully manifests from the spiritualist's
 consciousness to protect its master. The phantom stays manifested as long as the spiritualist is
 unaware and in danger. This ability requires no action from the spiritualist.
-
-**Gained:** At 12th Level
 
 **Steadfast Devotion (Su)**
 

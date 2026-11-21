@@ -14,6 +14,8 @@ group = "ninja-trick"
 
 **Fractured Mirror (Su)**
 
+**Flavor:** By sending phantom selves across the battlefield, one may fight as many.
+
 **Ability:** When a ninja with this trick uses the _shadow clone_ ninja trick, she gains an
 additional clone for every 3 ninja levels she has, to a maximum of eight clones.
 
@@ -22,8 +24,6 @@ split from herself as part of a **move action**. The _shadow clones_ move up to 
 her will each time she uses a move action to move. _Shadow clones_ separated in this way are not
 considered part of the _shadow clone_ trick until they return to the ninja's square, though they can
 still be destroyed while separated.
-
-**Flavor:** By sending phantom selves across the battlefield, one may fight as many.
 
 **Prereq:** [Shadow clone](ref/ninjatrick/shadow-clone)
 

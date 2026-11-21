@@ -14,6 +14,9 @@ group = "mesmerist-trick"
 
 **Reflection of Weakness**
 
+**Flavor:** Psychic feedback causes an enemy to suffer from the same weakening effect it imposes on
+the subject.
+
 **Ability:** The mesmerist can trigger this trick when an attack or spell used by an enemy causes
 the subject to take [ability damage, ability drain](ref/rule/ability-damage-drain),
 [bleed](ref/rule/bleed) damage, or a minor or moderate condition listed under the _touch treatment_
@@ -30,8 +33,5 @@ If the trick is triggered by the subject gaining a condition, the subject is sti
 condition, but the attacker takes a condition of the mesmerist's choice for 1 round. This condition
 must come from the minor condition or moderate condition lists of the _touch treatment_ class
 feature. The enemy can attempt a Will save to avoid gaining the condition.
-
-**Flavor:** Psychic feedback causes an enemy to suffer from the same weakening effect it imposes on
-the subject.
 
 **Special:** The mesmerist doesn't need to have _touch treatment_ to select or use this trick.

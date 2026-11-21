@@ -14,9 +14,9 @@ group = "phrenic-amplification"
 
 **Psychic Defense (Su)**
 
+**Flavor:** Reading small, invisible cues allows the psychic to take advantage of social
+circumstances and subtly influence her target.
+
 **Ability:** Casting a linked spell during a social encounter and spending 1 point from her phrenic
 pool allows the psychic to add a +4 bonus on her next Bluff, Diplomacy, Intimidate, or Sense Motive
 check.
-
-**Flavor:** Reading small, invisible cues allows the psychic to take advantage of social
-circumstances and subtly influence her target.

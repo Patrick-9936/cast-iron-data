@@ -14,7 +14,7 @@ group = "ki-power"
 
 **Freedom of Movement (Su)**
 
-**Prereq:** 8th-level monk
-
 **Swift:** A monk with this ability can spend 1 ki point to gain the effects of
 [freedom of movement](ref/spell/freedom-of-movement) for 1 round.
+
+**Prereq:** 8th-level monk

@@ -47,14 +47,14 @@ attack bonus. The penalty is equal to 1 + one-fourth of the phantom's base attac
 
 **Gained:** At 7th Level
 
-**Special:** This ability cannot cause a creature to become frightened or panicked, even if the
-target was already shaken from another effect. This is a mind-affecting fear effect that relies on
-audible components.
-
 **Swift:** The phantom can espouse bold lies about its own prowess to cause enemies to become
 [shaken](ref/misc/shaken). To be affected, an enemy must be within 30 feet of the phantom and able
 to hear it. This effect persists as long as the enemy is within 30 feet (the phantom can end the
 _oration_ as a **free action**).
+
+**Special:** This ability cannot cause a creature to become frightened or panicked, even if the
+target was already shaken from another effect. This is a mind-affecting fear effect that relies on
+audible components.
 
 **Overwhelming Confidence (Su)**
 
@@ -69,8 +69,6 @@ their duration or until the phantom regains its immunity to fear (whichever come
 
 **Gained:** At 17th Level
 
-**Special:** This ability is a mind-affecting illusion effect.
-
 **Swift:** The greed phantom can shroud itself in an illusion, appearing as a model of absolute
 physical perfection - its idealized image of itself. The phantom gains a bonus on melee damage rolls
 equal to its Charisma modifier. However, whenever the phantom deals damage to a creature, the
@@ -79,3 +77,5 @@ modifier) to disbelieve the effect, reducing the bonus on damage rolls by half i
 
 **Usage:** 1 minute/day per phantom level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
+
+**Special:** This ability is a mind-affecting illusion effect.

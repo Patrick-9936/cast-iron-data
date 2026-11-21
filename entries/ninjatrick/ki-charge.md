@@ -14,8 +14,6 @@ group = "ninja-trick"
 
 **Ki Charge (Su)**
 
-**Special:** Using this ability expends 1 ki point from her ki pool.
-
 **Standard:** A ninja with this trick can invest a portion of her ki into a single thrown weapon,
 such as a [shuriken](ref/eq-weapon/shuriken), and throw it. The thrown weapon explodes on impact in
 a 5-foot [burst](ref/misc/burst), dealing 1d6 points of fire damage plus 1d6 points of fire damage
@@ -26,8 +24,10 @@ level + the ninja's Charisma modifier.
 If the thrown weapon hits a creature, that creature takes a -2 penalty on the saving throw. If the
 thrown weapon misses, treat it as a [thrown splash weapon](ref/rule/throw-splash-weapon).
 
-At 6th level: The fire damage increases to 2d6.
+**At 6th level,** the fire damage increases to 2d6.
 
-At 10th level: The fire damage increases to 3d6.
+**At 10th level,** the fire damage increases to 3d6.
 
-At 14th level: The fire damage increases to 4d6.
+**At 14th level,** the fire damage increases to 4d6.
+
+**Special:** Using this ability expends 1 ki point from her ki pool.
