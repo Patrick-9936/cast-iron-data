@@ -14,6 +14,8 @@ Usage
     scripts/rewrite-class-option-powers.py [CORPUS]            dry run: print the counts
     scripts/rewrite-class-option-powers.py [CORPUS] --write    rewrite the entries, write the queue
     scripts/rewrite-class-option-powers.py [CORPUS] --write-queue   write the queue only
+    scripts/rewrite-class-option-powers.py [CORPUS] --write --resolutions-only
+                                                               apply the resolutions, nothing else
     scripts/rewrite-class-option-powers.py [CORPUS] --check    exit 1 unless a rerun changes nothing
 
 CORPUS defaults to the repository that holds this script. `--families a,b` limits the rewrite
@@ -662,7 +664,10 @@ class Outcome:
     sha: str
 
 
-def process_body(entry_id: str, lines: list[str], resolutions) -> tuple[list[str], list[Outcome]]:
+def process_body(entry_id: str, lines: list[str], resolutions,
+                 rewrite: bool = True) -> tuple[list[str], list[Outcome]]:
+    """The new body lines and one outcome per candidate. With `rewrite` off, only resolutions
+    change the text; the outcomes still say what the rewrite would do."""
     blocks = parse_blocks(lines)
     outcomes: list[Outcome] = []
     out: list[str] = []
@@ -693,7 +698,7 @@ def process_body(entry_id: str, lines: list[str], resolutions) -> tuple[list[str
                 else:
                     status, replacement = "rewritten", new
         outcomes.append(Outcome(entry_id, c.name, c.occurrence, status, reasons, sha))
-        if replacement is not None:
+        if replacement is not None and (rewrite or status == "resolved"):
             out.extend(lines[cursor:run[0].start])
             out.extend(join_blocks(replacement))
             cursor = run[-1].end
@@ -720,12 +725,12 @@ def class_option_entries(corpus: Path):
     return found
 
 
-def run_corpus(corpus: Path, resolutions, families=None, write=False):
+def run_corpus(corpus: Path, resolutions, families=None, write=False, rewrite=True):
     outcomes: list[Outcome] = []
     changed: list[Path] = []
     for entry_id, path, parts in class_option_entries(corpus):
         body = parts[2].split("\n")
-        new, found = process_body(entry_id, body, resolutions)
+        new, found = process_body(entry_id, body, resolutions, rewrite)
         outcomes.extend(found)
         family = entry_id.split("/")[1]
         if new != body and (families is None or family in families):
@@ -936,6 +941,13 @@ def self_test() -> int:
     bare = Resolution(res.id, res.name, 1, res.span_sha256, "x", "A paragraph.\n\n" + text)
     expect(check_resolution(bare) != [], "a replacement must start with a power")
 
+    # With the automatic rewrite off, a resolution still applies and a rewritable power stays put.
+    mixed = (foretell + "\n" + FIXTURES[1][5]).split("\n")
+    new, outs = process_body(res.id, mixed, resolutions, rewrite=False)
+    expect("Rounds per day" in "\n".join(new) and "**At 11th Level:**" in "\n".join(new),
+           f"resolutions-only: {outs}")
+    expect([o.status for o in outs] == ["resolved", "rewritten"], f"resolutions-only statuses: {outs}")
+
     # Hash: it does not depend on how a paragraph is wrapped.
     wrapped = parse_blocks("**N (Su)**\n\n**Passive:** one two\nthree four\n".split("\n"))
     flat = parse_blocks("**N (Su)**\n\n**Passive:** one two three four\n".split("\n"))
@@ -954,6 +966,8 @@ def main() -> int:
     ap.add_argument("--write", action="store_true", help="rewrite the entries and write the queue file")
     ap.add_argument("--write-queue", action="store_true", help="write the queue file only")
     ap.add_argument("--check", action="store_true")
+    ap.add_argument("--resolutions-only", action="store_true",
+                    help="apply the resolutions and nothing else (the automatic rewrite stays off)")
     ap.add_argument("--families", help="comma-separated families to rewrite, e.g. mystery,oraclecurse")
     args = ap.parse_args()
     if args.self_test:
@@ -965,7 +979,8 @@ def main() -> int:
     if bad:
         print("\n".join("invalid resolution: " + b for b in bad))
         return 1
-    outcomes, changed = run_corpus(corpus, resolutions, families, write=args.write)
+    outcomes, changed = run_corpus(corpus, resolutions, families, write=args.write,
+                                   rewrite=not args.resolutions_only)
     print(summarize(outcomes, changed))
     stale = [o for o in outcomes if o.status == "stale"]
     for o in stale:
