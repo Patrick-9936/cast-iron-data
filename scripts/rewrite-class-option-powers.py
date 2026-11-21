@@ -95,7 +95,9 @@ NON_POWER_LABELS = (
     "Base Evolutions", "Bonus Spells", "Discipline Powers", "Domain Spells", "Patron Spells",
     "Replacement Domain Spells",
 )
-# The singleton rows, in the order the rewrite emits them before the effect and after it.
+# `Choice` and `Info` (the "preface" rows) stand after `Flavor`, before the effect, each at most
+# once, in their source order.
+PREFACE_LABELS = ("Choice", "Info")
 SINGLETONS = ("Gained", "Flavor", "Choice", "Info", "Usage", "Prereq", "Replaces")
 # The position of a row in the canonical order. `Choice` and `Info` share position 4.
 RANK = {"Gained": 2, "Flavor": 3, "Choice": 4, "Info": 4, "Usage": 7, "Prereq": 9, "Replaces": 10}
@@ -112,7 +114,7 @@ ACTION_EFFECT = {
     "Full-Round Action": "Full-round", "Full-round.": "Full-round",
 }
 # Rows that an `Action` row's effect paragraphs may cross.
-CROSSABLE = frozenset(("Gained", "Flavor", "Usage", "Prereq", "Replaces"))
+CROSSABLE = frozenset(("Gained", "Flavor", "Choice", "Info", "Usage", "Prereq", "Replaces"))
 # The first word of an upgrade sentence that the rewrite may lowercase.
 LOWERCASE_FIRST = frozenset((
     "You", "Your", "The", "This", "These", "That", "Those", "Its", "It", "A", "An", "Any", "All",
@@ -401,10 +403,12 @@ def validate(run: list[Block]) -> list[str]:
                 if label in ALIAS_LABELS:
                     note("legacy-label")
                 cls = effect_class(label)
-                second_is_action = effect_rows == 2 and first_class == "passive" and cls == "action"
+                # A pair is a passive row and an action row; print decides which comes first, so
+                # the validator accepts both orders (the rewrite queues the action-first one).
+                second_is_action = (effect_rows == 2
+                                    and {first_class, cls} == {"passive", "action"})
                 if effect_rows == 2 and not second_is_action:
-                    note("action-before-passive" if first_class == "action" and cls == "passive"
-                         else "multiple-effect-rows")
+                    note("multiple-effect-rows")
                 elif effect_rows > 2:
                     note("multiple-effect-rows")
                 if effect_rows == 1 or second_is_action:
@@ -592,7 +596,7 @@ def rewrite_run(run: list[Block]) -> tuple[list[tuple[str, ...]] | None, list[st
         if any(items[k].kind == "action" for k in effects):
             q.append("multiple-effect-rows: a legacy Action row in a pair of effect rows")
         elif classes == ["action", "passive"]:
-            q.append("action-before-passive")
+            q.append("action-first-pair: print decides the order")
         elif classes != ["passive", "action"]:
             q.append("multiple-effect-rows")
     elif len(effects) > 2:
@@ -637,7 +641,7 @@ def rewrite_run(run: list[Block]) -> tuple[list[tuple[str, ...]] | None, list[st
             effect_text[e] = (f"**{items[e].label}:** {items[group[0]].block.text}",)
             continuation[e] = [items[k].lines for k in group[1:]]
     elif len(effects) in (1, 2) and loose and not any(
-            x.startswith(("multiple-effect-rows", "action-before-passive")) for x in q):
+            x.startswith(("multiple-effect-rows", "action-first-pair")) for x in q):
         q.append("unlabeled-paragraphs-not-after-effect")
 
     # 4. Upgrades, ascending, with the printed sentence after the lead.
@@ -660,7 +664,7 @@ def rewrite_run(run: list[Block]) -> tuple[list[tuple[str, ...]] | None, list[st
     if q:
         return None, q
 
-    # 5. Emit (the canonical order of the mirror): name, Gained, Flavor, Choice, Info, the effect
+    # 5. Emit (the canonical order of the mirror): name, Gained, Flavor, Choice and Info (source order), the effect
     # rows each with its continuation, Usage, upgrades, Prereq, Replaces, then the other rows in
     # source order, a `Special` row with its paragraphs.
     rows = [(k, it) for k, it in enumerate(items) if it.kind == "row"]
@@ -674,7 +678,8 @@ def rewrite_run(run: list[Block]) -> tuple[list[tuple[str, ...]] | None, list[st
         if it.label not in SINGLETONS and it.label not in EFFECT_LABELS:
             tail.append(it.lines)
             tail.extend(continuation.get(k, []))
-    out = ([name_lines] + pick("Gained") + pick("Flavor") + pick("Choice") + pick("Info")
+    preface = [it.lines for _, it in rows if it.label in PREFACE_LABELS]   # source order
+    out = ([name_lines] + pick("Gained") + pick("Flavor") + preface
            + effect_blocks + pick("Usage") + up_lines + pick("Prereq") + pick("Replaces") + tail)
     problems = validate(parse_blocks(join_blocks(out)))
     if problems:
@@ -766,6 +771,14 @@ class Outcome:
     sha: str
 
 
+def action_first_pair(run: list[Block]) -> bool:
+    """Two effect rows, an action row before a passive one. The validator accepts it, but print
+    decides the order, so the power waits in the queue for a print lookup."""
+    labels = [ALIAS_LABELS.get(b.label, b.label) for b in run[1:]
+              if b.kind == "row" and (b.label in EFFECT_LABELS or b.label in ALIAS_LABELS)]
+    return len(labels) == 2 and [effect_class(x) for x in labels] == ["action", "passive"]
+
+
 def process_body(entry_id: str, lines: list[str], resolutions,
                  rewrite: bool = True) -> tuple[list[str], list[Outcome]]:
     """The new body lines and one outcome per candidate. With `rewrite` off, only resolutions
@@ -792,7 +805,10 @@ def process_body(entry_id: str, lines: list[str], resolutions,
                 # it, and queue the power again; the automatic rewrite does not touch it.
                 outcomes.append(Outcome(entry_id, c.name, c.occurrence, "stale", ["stale-resolution"], sha))
             if not validate(run):
-                status = "valid"
+                if action_first_pair(run):
+                    status, reasons = "queued", ["action-first-pair: print decides the order"]
+                else:
+                    status = "valid"
             elif res:
                 status, reasons = "queued", ["stale-resolution"]
             elif key in PRINT_ITEMS:
@@ -966,7 +982,7 @@ FIXTURES = [
      "**Two Passives (Su)**\n\n**Ability:** One.\n\n**Passive:** Two.\n"),
     ("P3", "Two Actions (Su)", 1, "queued", "multiple-effect-rows",
      "**Two Actions (Su)**\n\n**Standard:** One.\n\n**Swift:** Two.\n"),
-    ("P4", "Action First (Su)", 1, "queued", "action-before-passive",
+    ("P4", "Action First (Su)", 1, "queued", "action-first-pair",
      "**Action First (Su)**\n\n**Immediate:** One.\n\n**Passive:** Two.\n"),
     ("P5", "Three Rows (Su)", 1, "queued", "multiple-effect-rows",
      "**Three Rows (Su)**\n\n**Passive:** One.\n\n**Standard:** Two.\n\n**Swift:** Three.\n"),
@@ -989,7 +1005,7 @@ FIXTURES = [
     ("ref/evolution/basic-magic", "Basic Magic (Sp)", 1, "rewritten", None,
      "**Basic Magic (Sp)**\n\n**Flavor:** An eidolon learns a spell.\n\n**Ability:** Cast it daily.\n\n"
      "**Choice:** Select one spell.\n\n**At 4th level,** three times per day.\n\n**Special:** Repeatable.\n"),
-    # Decision 4: a second `Choice` row conflicts; `Info` goes after `Choice`.
+    # Decision 4: a second `Choice` row conflicts; `Choice` and `Info` keep their source order.
     ("P10", "Two Choices (Ex)", 1, "queued", "conflicting-rows",
      "**Two Choices (Ex)**\n\n**Ability:** x.\n\n**Choice:** a.\n\n**Choice:** b.\n"),
     ("P11", "Info Last (Ex)", 1, "rewritten", None,
@@ -1013,7 +1029,7 @@ EXACT = {
         "**Basic Magic (Sp)**\n\n**Flavor:** An eidolon learns a spell.\n\n**Choice:** Select one spell.\n\n"
         "**Ability:** Cast it daily.\n\n**At 4th level,** three times per day.\n\n**Special:** Repeatable.\n"),
     ("P11", "Info Last (Ex)"): (
-        "**Info Last (Ex)**\n\n**Choice:** c.\n\n**Info:** i.\n\n**Passive:** x.\n"),
+        "**Info Last (Ex)**\n\n**Info:** i.\n\n**Choice:** c.\n\n**Passive:** x.\n"),
     ("ref/arcaneschool/abjuration", "Resistance (Ex)"): (
         "**Resistance (Ex)**\n\n**Gained:** At 1st Level\n\n**Passive:** You gain resistance 5.\n\n"
         "**At 11th level,** this resistance increases to 10.\n\n"
