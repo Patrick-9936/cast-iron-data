@@ -9,7 +9,8 @@ It reads the queue written by `scripts/membership-screen.py` and acts only on th
 marked `keep` or `expands` and rows without a verdict are never touched. For each removal it
 
   1. takes the book out of the entry's `source_ids` (order of the rest is kept),
-  2. drops the entry's placement in that book from `books.toml`. The compiler requires every
+  2. drops the entry's placement in that book from `books.toml` (format 3: from the curated `books/<book>.toml`;
+     a derived book has none). The compiler requires every
      placement to be in `source_ids` (docs/corpus-format.md, "corpus-check"). A title-only group
      (no `entry`, no `anchor`) whose children are all removed is dropped as well.
 
@@ -319,6 +320,31 @@ def apply_books(text: str, removals: dict[str, set[str]]) -> tuple[str, dict[str
     return "\n\n".join(kept) + "\n", dict(counts), dropped_groups
 
 
+def apply_layout(root: Path, removals: dict[str, set[str]], dry_run: bool) -> tuple[str, dict[str, int], int]:
+    """Drop the placements in whichever layout the corpus has: the single `books.toml` of formats 1
+    and 2, or the curated `books/<publication-id>.toml` files of format 3. A book that has no file
+    is derived from the `[[sources]]` pages, so it holds no placement and there is nothing to drop.
+    Returns the layout's name, the nodes dropped per book, and the title-only groups dropped."""
+    legacy = root / "books.toml"
+    if legacy.is_file():
+        new_text, counts, groups = apply_books(legacy.read_text(encoding="utf-8"), removals)
+        if not dry_run:
+            legacy.write_text(new_text, encoding="utf-8")
+        return "books.toml", counts, groups
+    counts: dict[str, int] = {}
+    groups = 0
+    for book in sorted(removals):
+        path = root / "books" / f"{book}.toml"
+        if not path.is_file():
+            continue
+        new_text, one, dropped = apply_books(path.read_text(encoding="utf-8"), {book: removals[book]})
+        if not dry_run:
+            path.write_text(new_text, encoding="utf-8")
+        counts.update(one)
+        groups += dropped
+    return "books/", counts, groups
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("corpus", type=Path)
@@ -368,15 +394,11 @@ def main() -> int:
         absent += state == "absent"
         removals[r["book"]].add(r["entry"])
 
-    books_path = root / "books.toml"
-    text = books_path.read_text(encoding="utf-8")
-    new_text, counts, groups = apply_books(text, removals)
-    if not args.dry_run:
-        books_path.write_text(new_text, encoding="utf-8")
+    layout, counts, groups = apply_layout(root, removals, args.dry_run)
     placed = sum(counts.values())
     print(f"rows with verdict remove: {len(rows)}")
     print(f"source_ids: removed {removed}, already out {absent}")
-    print(f"books.toml: placements dropped {placed}, empty title-only groups dropped {groups}")
+    print(f"{layout}: placements dropped {placed}, empty title-only groups dropped {groups}")
     if args.dry_run:
         print("dry run: nothing written")
     return 0
