@@ -185,9 +185,11 @@ or [elemental body I](ref/spell/elemental-body-1).
 
 **At 12th level,** this ability functions like [beast shape III](ref/spell/beast-shape-3) or [elemental body II](ref/spell/elemental-body-2).
 
-::: paragraph indented
-At 5th, 10th, 15th, and 20th levels, a transmuter may learn an [annointing](ref/ability/annointings) instead of gaining a wizard bonus feat.
-:::
+### Anointings
+
+**Sources:** Arcane Anthology pg 23
+
+Transmuter wizards can gain [anointings](ref/ability/annointings) in place of wizard bonus feats. In each of these cases, the character treats levels in the class used to select the [anointing](ref/ability/annointings) as his alchemist level for all relevant anointing calculations.
 '''
 
 [[resolution]]
@@ -2714,7 +2716,7 @@ replacement = '''
 id = "ref/domain/artifice"
 name = "Dancing Weapons (Su)"
 occurrence = 1
-span_sha256 = "ef96b40c0d3918cfb2e6d0638a3cea292cb3eb2dd92b53470140f5c80e47389d"
+span_sha256 = "5e9cc36094856a8f1ca701fc516798842b35fee64885b54d916098b239b7393c"
 print = "Core Rulebook p. 41"
 replacement = '''
 **Dancing Weapons (Su)**
@@ -2723,9 +2725,6 @@ replacement = '''
 
 **Standard:** You can give a weapon touched the [dancing](ref/magic-enh/dancing) special weapon
 quality for 4 rounds.
-
-Alternately, you can choose to learn an [anointing](ref/ability/annointings) instead of gaining the
-dancing weapons ability at 8th level.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
 '''
@@ -8015,4 +8014,32 @@ using feats such as [Vital Strike](ref/feat/vital-strike)).
 **At 19th level,** the base bomb damage becomes 10d6.
 
 **Provokes attack of opportunity:** Yes
+'''
+
+[[resolution]]
+id = "ref/invtalent/alchemist-discovery"
+name = "Alchemist Discovery (Ex)"
+occurrence = 1
+span_sha256 = "0ecdfb4d98151fdb94071852a1fe704f3356b6226468a91cfce86c9b04193937"
+print = "Advanced Class Guide p. 32; Arcane Anthology p. 23"
+replacement = '''
+**Alchemist Discovery (Ex)**
+
+**Ability:** The investigator can select one of the following alchemist discoveries as an
+investigator talent: [combine extracts](ref/discovery/combine-extracts),
+[concentrate poison](ref/discovery/concentrate-poison), [dilution](ref/discovery/dilution),
+[elixir of life](ref/discovery/elixir-of-life), [enhance potion](ref/discovery/enhance-potion),
+[eternal potion](ref/discovery/eternal-potion), [extend potion](ref/discovery/extend-potion),
+[infusion](ref/discovery/infusion), [mutagen](ref/discovery/mutagen), and
+[poison conversion](ref/discovery/poison-conversion).
+
+When selecting an alchemist discovery, he must be high enough level to qualify for that discovery, using his investigator level as his alchemist level to determine if he qualifies.
+
+**Special:** This talent can be selected multiple times; each time grants a new alchemist discovery.
+
+### Anointings
+
+**Sources:** Arcane Anthology pg 23
+
+Investigators can choose any of these discoveries with the alchemist discovery investigator talent. In each of these cases, the character treats levels in the class used to select the [anointing](ref/ability/annointings) as his alchemist level for all relevant anointing calculations.
 '''

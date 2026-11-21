@@ -34,5 +34,10 @@ group = "witch-patron"
 
 **Spells:** Shapechange (18th)
 
-**Special:** When a witch with a Transformation patron gains the ability to choose a major hex, they
-may learn an [annointing](ref/ability/annointings) in place of a new hex.
+### Anointings
+
+**Sources:** Arcane Anthology pg 23
+
+Witches with transformation patrons can gain a single [anointing](ref/ability/annointings) in place
+of a major hex. In each of these cases, the character treats levels in the class used to select the
+[anointing](ref/ability/annointings) as his alchemist level for all relevant anointing calculations.

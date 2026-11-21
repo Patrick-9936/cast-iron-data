@@ -292,9 +292,6 @@ can only be made if you have met certain prerequisites first, such as uncovering
 such discovery can be applied to an individual bomb. The DC of any saving throw called for by a
 discovery is equal to 10 + 1/2 your alchemist level + the your Intelligence modifier.
 
-In addition, an alchemist can choose to learn an [annointing](ref/ability/annointings) instead of a
-discovery.
-
 #### Poison Resistance (Ex) {#poison-resistance}
 
 **At 10th Level:** You become completely immune to poison.
@@ -361,6 +358,16 @@ of their experiments and hard work.
 **Passive:** You make a grand discovery. You also immediately learn two normal discoveries, but also
 a third discovery chosen from the given list, representing a truly astounding alchemical
 breakthrough of significant import.
+
+### Anointings
+
+**Sources:** Arcane Anthology pg 23
+
+Alchemists can choose any of the following [anointings](ref/ability/annointings) in place of a
+normal discovery. An alchemist can use any of the anointings he knows a total number of times per
+day equal to 3 + his alchemist level. Unless an anointing specifies otherwise, all anointings
+require a standard action to apply (this provokes attacks of opportunity) and last for 1 minute per
+alchemist level.
 
 ### Alternate Capstones
 

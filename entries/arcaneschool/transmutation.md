@@ -50,10 +50,13 @@ consecutive.
 **At 12th level,** this ability functions like [beast shape III](ref/spell/beast-shape-3) or
 [elemental body II](ref/spell/elemental-body-2).
 
-::: paragraph indented
-At 5th, 10th, 15th, and 20th levels, a transmuter may learn an [annointing](ref/ability/annointings)
-instead of gaining a wizard bonus feat.
-:::
+### Anointings
+
+**Sources:** Arcane Anthology pg 23
+
+Transmuter wizards can gain [anointings](ref/ability/annointings) in place of wizard bonus feats. In
+each of these cases, the character treats levels in the class used to select the
+[anointing](ref/ability/annointings) as his alchemist level for all relevant anointing calculations.
 
 ### Enhancement School
 
