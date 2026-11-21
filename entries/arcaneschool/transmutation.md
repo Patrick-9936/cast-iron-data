@@ -2,13 +2,16 @@
 id = "ref/arcaneschool/transmutation"
 kind = "class_option"
 title = "Transmutation"
-source_ids = ["core-rulebook", "advanced-players-guide"]
+source_ids = ["core-rulebook", "advanced-players-guide", "arcane-anthology"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "transmutation", path = "json/class_ability_arcane_schools.json" },
 ]
 [[sources]]
 publication = "core-rulebook"
 page = "82"
+[[sources]]
+publication = "arcane-anthology"
+page = "23"
 
 [fields]
 kind = "class_option"
@@ -49,11 +52,6 @@ consecutive.
 
 **At 12th level,** this ability functions like [beast shape III](ref/spell/beast-shape-3) or
 [elemental body II](ref/spell/elemental-body-2).
-
-::: paragraph indented
-At 5th, 10th, 15th, and 20th levels, a transmuter may learn an [annointing](ref/ability/annointings)
-instead of gaining a wizard bonus feat.
-:::
 
 ### Enhancement School
 
@@ -109,3 +107,11 @@ creature of your size. You may not grow additional limbs or a tail with this abi
 [one-fourth](ref/misc/fractions-and-rounding) of your wizard level.
 
 **At 11th level,** you can shape two natural weapons.
+
+### Anointings
+
+**Sources:** Arcane Anthology pg 23
+
+Transmuter wizards can gain [anointings](ref/ability/annointings) in place of wizard bonus feats. In
+each of these cases, the character treats levels in the class used to select the
+[anointing](ref/ability/annointings) as his alchemist level for all relevant anointing calculations.

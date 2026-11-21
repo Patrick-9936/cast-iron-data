@@ -3,13 +3,16 @@ id = "ref/class/alchemist"
 kind = "class"
 title = "Alchemist"
 aon = "ClassDisplay.aspx?ItemName=Alchemist"
-source_ids = ["advanced-players-guide", "chronicle-of-legends", "plane-hoppers-handbook", "blood-of-the-beast", "advanced-race-guide", "blood-of-shadows", "legacy-of-the-first-world", "goblins-of-golarion", "horror-adventures", "ultimate-wilderness", "heroes-of-golarion"]
+source_ids = ["advanced-players-guide", "chronicle-of-legends", "plane-hoppers-handbook", "blood-of-the-beast", "advanced-race-guide", "blood-of-shadows", "legacy-of-the-first-world", "goblins-of-golarion", "horror-adventures", "ultimate-wilderness", "heroes-of-golarion", "arcane-anthology"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "alchemist", path = "json/classes.json" },
 ]
 [[sources]]
 publication = "advanced-players-guide"
 page = "26"
+[[sources]]
+publication = "arcane-anthology"
+page = "23"
 
 [fields]
 kind = "class"
@@ -292,9 +295,6 @@ can only be made if you have met certain prerequisites first, such as uncovering
 such discovery can be applied to an individual bomb. The DC of any saving throw called for by a
 discovery is equal to 10 + 1/2 your alchemist level + the your Intelligence modifier.
 
-In addition, an alchemist can choose to learn an [annointing](ref/ability/annointings) instead of a
-discovery.
-
 #### Poison Resistance (Ex) {#poison-resistance}
 
 **At 10th Level:** You become completely immune to poison.
@@ -380,6 +380,16 @@ below.
 _Rather than gaining a capstone, an alchemist can select the following grand discovery:_ The
 alchemist has been practicing his demolitions for years, and it's paid off with ever larger
 explosions. The alchemist's bomb damage increases by 3d6.
+
+### Anointings
+
+**Sources:** Arcane Anthology pg 23
+
+Alchemists can choose any of the following [anointings](ref/ability/annointings) in place of a
+normal discovery. An alchemist can use any of the anointings he knows a total number of times per
+day equal to 3 + his alchemist level. Unless an anointing specifies otherwise, all anointings
+require a standard action to apply (this provokes attacks of opportunity) and last for 1 minute per
+alchemist level.
 
 ### Archetypes
 

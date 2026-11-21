@@ -3,7 +3,7 @@ id = "ref/domain/artifice"
 kind = "class_option"
 title = "Artifice"
 aon = "DomainDisplay.aspx?ItemName=Artifice"
-source_ids = ["core-rulebook", "divine-anthology", "advanced-players-guide", "heroes-of-the-streets", "kobolds-of-golarion"]
+source_ids = ["core-rulebook", "divine-anthology", "advanced-players-guide", "heroes-of-the-streets", "kobolds-of-golarion", "arcane-anthology"]
 [[sources]]
 publication = "core-rulebook"
 page = "41"
@@ -16,6 +16,9 @@ page = "19"
 [[sources]]
 publication = "kobolds-of-golarion"
 page = "13"
+[[sources]]
+publication = "arcane-anthology"
+page = "23"
 
 [fields]
 kind = "class_option"
@@ -41,9 +44,6 @@ bypasses an amount of damage reduction and hardness equal to your cleric level.
 
 **Standard:** You can give a weapon touched the [dancing](ref/magic-enh/dancing) special weapon
 quality for 4 rounds.
-
-Alternately, you can choose to learn an [anointing](ref/ability/annointings) instead of gaining the
-dancing weapons ability at 8th level.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
 
@@ -204,6 +204,15 @@ character level + your Wisdom bonus. The trap lasts for 1 hour or until triggere
 **3rd:** improve trap
 
 **7th:** teleport trap
+
+### Anointings
+
+**Sources:** Arcane Anthology pg 23
+
+Clerics with the artifice domain can select an [anointing](ref/ability/annointings) in place of
+their 8th-level domain ability. In each of these cases, the character treats levels in the class
+used to select the [anointing](ref/ability/annointings) as his alchemist level for all relevant
+anointing calculations.
 
 ### Deities
 
