@@ -1015,6 +1015,14 @@ FIXTURES = [
     # Decision 4: a second `Choice` row conflicts; `Choice` and `Info` keep their source order.
     ("P10", "Two Choices (Ex)", 1, "queued", "conflicting-rows",
      "**Two Choices (Ex)**\n\n**Ability:** x.\n\n**Choice:** a.\n\n**Choice:** b.\n"),
+    # Decision 5: the witch patron's `Patron Spells` is a row of the power (an "other row"), not a
+    # name; `Info` goes before the effect, the spell rows keep their place.
+    ("ref/patron/empath", "Empath", 1, "rewritten", None,
+     "**Empath**\n\n**Ability:** You gain a hex.\n\n**Info:** The patron is a manifestation.\n\n"
+     "**Spells:** Burst of insight (2nd)\n\n**Patron Spells:** This unique patron grants these spells.\n"),
+    # Decision 5, answer B: Class Skill and Bonus Feat of the Glory subdomain stay powers.
+    ("ref/domain/glory", "Class Skill", 1, "valid", None,
+     "**Class Skill**\n\n**Passive:** Add a skill to your class skills.\n"),
     ("P11", "Info Last (Ex)", 1, "rewritten", None,
      "**Info Last (Ex)**\n\n**Passive:** x.\n\n**Info:** i.\n\n**Choice:** c.\n"),
 ]
@@ -1035,6 +1043,9 @@ EXACT = {
     ("ref/evolution/basic-magic", "Basic Magic (Sp)"): (
         "**Basic Magic (Sp)**\n\n**Flavor:** An eidolon learns a spell.\n\n**Choice:** Select one spell.\n\n"
         "**Ability:** Cast it daily.\n\n**At 4th level,** three times per day.\n\n**Special:** Repeatable.\n"),
+    ("ref/patron/empath", "Empath"): (
+        "**Empath**\n\n**Info:** The patron is a manifestation.\n\n**Ability:** You gain a hex.\n\n"
+        "**Spells:** Burst of insight (2nd)\n\n**Patron Spells:** This unique patron grants these spells.\n"),
     ("P11", "Info Last (Ex)"): (
         "**Info Last (Ex)**\n\n**Info:** i.\n\n**Choice:** c.\n\n**Passive:** x.\n"),
     ("ref/arcaneschool/abjuration", "Resistance (Ex)"): (
@@ -1160,6 +1171,10 @@ def self_test() -> int:
         expect([o.name for o in outs] == ["Real Power (Su)"], f"{label} is no candidate: {outs}")
     _, outs = process_body("x", "**Base Evolutions (Su)**\n\n**At 1st Level:** A line.\n".split("\n"), {})
     expect([o.name for o in outs] == ["Base Evolutions (Su)"], f"a longer name is a power: {outs}")
+    for body in ("**Base Evolutions**\n\n**At 1st Level:** A line.\n\n**At 4th Level:** Another.\n",
+                 "**Discipline Powers**\n\n**At 1st Level:** A line.\n"):
+        _, outs = process_body("ref/eidolon/agathion", body.split("\n"), {})
+        expect(outs == [], f"a section label span is no candidate: {outs}")
     _, outs = process_body("x", "**Granted Powers**\n\n**Ability:** Bonus feats.\n".split("\n"), {})
     expect([o.status for o in outs] == ["valid"], f"Granted Powers stays a power: {outs}")
 
