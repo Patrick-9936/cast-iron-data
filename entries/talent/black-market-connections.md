@@ -12,7 +12,7 @@ kind = "class_option"
 group = "rogue-talent"
 +++
 
-**Black Market Connection (Ex)**
+**Black Market Connections (Ex)**
 
 **Ability:** A rogue with this talent gains better access to magic items from black market
 connections. She treats every [settlement](ref/rule/settlements-and-districts) as one size greater
