@@ -107,10 +107,10 @@ a creature.
 
 **Blessing (Su)**
 
-**Ability:** You can cast [magic circle against evil](ref/spell/magic-circle-against-evil) at will
-with a caster level equal to your sorcerer level.
-
 **Gained:** At 20th Level
 
 **Passive:** You gain immunity to poison, to charm effects, and to spells and weapons with the evil
 descriptor.
+
+You can cast [magic circle against evil](ref/spell/magic-circle-against-evil) at will with a caster
+level equal to your sorcerer level.

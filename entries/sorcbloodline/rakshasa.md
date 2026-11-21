@@ -101,15 +101,15 @@ protection as a **move action**.
 
 **Outsider (Su)**
 
+**Gained:** At 20th Level
+
 **Ability:** Your natural form becomes an animal-headed humanoid, like a true rakshasa. This does
 not affect your ability to speak or cast spells. You can use your
 _[alter self](ref/spell/alter-self)_ or other disguise and polymorph abilities to assume your
 original form or other forms when it suits you.
 
-**Gained:** At 20th Level
-
-**Passive:** You gain DR 10/piercing.
-
 **Special:** You are forevermore treated as a native outsider rather than as a humanoid (or whatever
 your original type was) for the purpose of spells and other magical effects. Unlike other outsiders,
 you can still be brought back from the dead as if you were a member of your previous creature type.
+
+You gain DR 10/piercing.

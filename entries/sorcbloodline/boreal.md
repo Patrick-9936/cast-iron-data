@@ -82,20 +82,20 @@ without penalty and without leaving tracks.
 
 **Snow Shroud (Su)**
 
-**Ability:** Once per day, you can surround yourself with a cloak of swirling snow for a number of
-rounds per day equal to your sorcerer level. This power acts and deals damage as a
-[fire shield](ref/spell/fire-shield) (chill shield) that sheds no light. It provides a 20% miss
-chance on attacks made against you and grants a bonus on [Stealth](ref/skill/stealth) checks equal
-to half your sorcerer level in snowy or icy areas.
-
 **Gained:** At 9th Level
 
 **Passive:** You ignore [concealment](ref/rule/concealment) and [Perception](ref/skill/perception)
 penalties in natural or magical snow, ice, fog, and similar weather conditions.
 
-**At 17th Level:** You can use this ability twice per day.
+Once per day, you can surround yourself with a cloak of swirling snow for a number of rounds per day
+equal to your sorcerer level. This power acts and deals damage as a
+[fire shield](ref/spell/fire-shield) (chill shield) that sheds no light. It provides a 20% miss
+chance on attacks made against you and grants a bonus on [Stealth](ref/skill/stealth) checks equal
+to half your sorcerer level in snowy or icy areas.
 
-**At 20th Level:** You can use this ability three times per day.
+**At 17th level,** you can use this ability twice per day.
+
+**At 20th level,** you can use this ability three times per day.
 
 **Blizzard (Sp)**
 

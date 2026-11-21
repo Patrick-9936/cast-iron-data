@@ -14,16 +14,16 @@ group = "witch-patron"
 
 **Hag's Calling**
 
-**Ability:** You gain the [coven](ref/hex/coven) hex at 1st level.
-
 **Info:** Hags of exceptional power - most often [mute hags](ref/monster/hag-mute-hag) and
 [dreamthief hags](ref/monster/hag-dreamthief-hag) - sometimes invest mortal agents with the same
 well of ancient power they have mastered. Hags most often invest their
 [changeling](ref/race/changeling) daughters with such power, either once they have proven loyal or
 else to tempt them into wickedness.
 
-**Passive:** You can neither use the [aid another](ref/rule/aid-another) action nor receive benefits
-from others' aid another actions.
+**Ability:** You gain the [coven](ref/hex/coven) hex at 1st level.
+
+You can neither use the [aid another](ref/rule/aid-another) action nor receive benefits from others'
+aid another actions.
 
 **Spells:** Disguise self (2nd)
 

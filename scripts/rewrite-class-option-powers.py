@@ -40,11 +40,13 @@ Files
     `span_sha256`, `print` (book and page) and `replacement`: a power that passes validation,
     then any blocks that belong after it (a list that print sets as bullets). A resolution
     applies only when the current span hashes to `span_sha256`. A span that already equals the
-    replacement is left alone. Any other span is a stale resolution: it is reported, the power
-    is queued again with the reason `stale-resolution` and the automatic rewrite does not touch
-    it. A resolution whose key matches no candidate is orphaned, and one for a section label
-    that is no longer a candidate (Base Evolutions, ...) is obsolete: both are reported, and
-    `--check` and `--write` fail until they are removed.
+    replacement is left alone. Any other span is a stale resolution, and `--check` and `--write`
+    fail until it is removed or redone. If that span fails validation, the power is queued again
+    with the reason `stale-resolution` and the automatic rewrite does not touch it; a stale span
+    that already validates stays valid, and the stale resolution is only reported. A resolution
+    whose key matches no candidate is orphaned, and one for a section label that is no longer a
+    candidate (Base Evolutions, ...) is obsolete: both are reported, and `--check` and `--write`
+    fail until they are removed.
 
 Span source text (what `span_sha256` hashes)
 --------------------------------------------
@@ -386,7 +388,9 @@ def validate(run: list[Block]) -> list[str]:
     body = run[1:]
     if any(b.kind in ("name", "boundary") for b in body):
         note("block-in-span")
-    gained = next((gained_level(b.content) for b in body if b.kind == "row" and b.label == "Gained"), None)
+    # The first `Gained` row that parses (the app takes the first parseable one).
+    gained = next((lv for b in body if b.kind == "row" and b.label == "Gained"
+                   and (lv := gained_level(b.content)) is not None), None)
     last_rank, seen, effect_rows, last_up = 1, set(), 0, None
     # What the unlabeled paragraphs that follow continue: None (nothing: stray), "effect",
     # "action", "dropped" (an effect row that is already a problem) or "special".
@@ -645,8 +649,8 @@ def rewrite_run(run: list[Block]) -> tuple[list[tuple[str, ...]] | None, list[st
         q.append("unlabeled-paragraphs-not-after-effect")
 
     # 4. Upgrades, ascending, with the printed sentence after the lead.
-    gained = next((gained_level(it.content) for it in items
-                   if it.kind == "row" and it.label == "Gained"), None)
+    gained = next((lv for it in items if it.kind == "row" and it.label == "Gained"
+                   and (lv := gained_level(it.content)) is not None), None)
     levels = [it.level for it in ups]
     if len(set(levels)) != len(levels):
         q.append("two-upgrades-at-one-level")
@@ -1207,6 +1211,11 @@ def self_test() -> int:
     expect(outs[0].status == "resolved" and after[0] == "**Pool Ray**", f"the rename applies: {outs}")
     again, outs = process_body("ref/arcana/pool-ray", after, keyed)
     expect(unused_resolutions(keyed, outs) == ([], []), "an applied, renamed resolution is not orphaned")
+
+    # The upgrade level is checked against the first `Gained` row that parses.
+    expect("upgrade-not-above-gained" in slugs(
+        "**P**\n\n**Gained:** soon\n\n**Gained:** At 5th Level\n\n**Passive:** a.\n\n**At 3rd level,** b.\n"),
+        "the first parseable Gained row sets the level")
 
     # A stale resolution is queued again and the automatic rewrite leaves the power alone.
     rewritable = "**Resistance (Ex)**\n\n**At 11th Level:** Increases.\n\n**Gained:** At 1st Level\n\n**Passive:** Base.\n"

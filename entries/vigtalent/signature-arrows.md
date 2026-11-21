@@ -14,16 +14,16 @@ group = "vigilante-talent"
 
 **Signature Arrows (Ex)**
 
+**Choice:** The vigilante must select one type of bow or crossbow (such as
+[shortbow](ref/eq-weapon/shortbow) or [heavy crossbow](ref/eq-weapon/heavy-crossbow)) when he
+selects this talent.
+
 **Ability:** After the first time the vigilante buys a set of 50 pieces of magic ammunition intended
 for the selected type of bow or crossbow, he can pay the construction cost instead of the purchase
 price for additional ammunition with identical magical effects for the same weapon, even if he could
 not normally craft magic ammunition.
 
 **Prereq:** 14th-level vigilante
-
-**Choice:** The vigilante must select one type of bow or crossbow (such as
-[shortbow](ref/eq-weapon/shortbow) or [heavy crossbow](ref/eq-weapon/heavy-crossbow)) when he
-selects this talent.
 
 **Special:** This benefit applies only to the first type of magic ammunition that the vigilante buys
 50 pieces of for the designated weapon. The vigilante can take this talent more than once; each time

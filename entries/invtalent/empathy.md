@@ -20,9 +20,9 @@ two d20 rolls and takes the higher result.
 If an investigator uses _inspiration_ on a Sense Motive check, he rolls the _inspiration_ dice twice
 and takes the higher result.
 
-**Ability2:** Once per day, the investigator can expend one use of _inspiration_ to target a single
-creature that he can see and hear within 30 feet. Upon doing so, the investigator detects the
-surface thoughts of the target's mind, as if he concentrated for 3 rounds while using the
+Once per day, the investigator can expend one use of _inspiration_ to target a single creature that
+he can see and hear within 30 feet. Upon doing so, the investigator detects the surface thoughts of
+the target's mind, as if he concentrated for 3 rounds while using the
 [detect thoughts](ref/spell/detect-thoughts) spell, unless the creature succeeds a Will saving
 throw. The DC of this save is 10 + 1/2 the investigator's level + his Intelligence modifier.
 

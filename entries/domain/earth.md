@@ -35,11 +35,13 @@ a ranged touch attack. This acid dart deals an amount of acid damage equal to 1d
 
 **Acid Resistance (Ex)**
 
-**At 12th Level:** Your acid resistance increases to 20.
+**Gained:** At 6th Level
 
-**At 20th Level:** You gain [immunity](ref/umr/immunity) to acid.
+**Ability:** You gain [resist](ref/umr/resistance) acid 10.
 
-**At 6th Level:** You gain [resist](ref/umr/resistance) acid 10.
+**At 12th level,** your acid resistance increases to 20.
+
+**At 20th level,** you gain [immunity](ref/umr/immunity) to acid.
 
 **Domain Spells**
 

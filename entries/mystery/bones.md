@@ -172,16 +172,16 @@ effect.
 
 **Final Revelation**
 
-**Ability2:** You can cast _[animate dead](ref/spell/animate-dead)_ at will without paying a
-material component cost (although you are still subject to the usual Hit Die control limit).
-
-**Ability3:** Once per day, you can cast [power word kill](ref/spell/power-word-kill), but the spell
-can target a creature with 150 hit points or less.
+**Gained:** At 20th Level
 
 **Flavor:** You become a master of death.
 
 **Free:** Once per round, you can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
 
-**Gained:** At 20th Level
+**Ability:** If you are brought to below 0 hit points, you automatically stabilize.
 
-**Passive:** If you are brought to below 0 hit points, you automatically stabilize.
+You can cast _[animate dead](ref/spell/animate-dead)_ at will without paying a material component
+cost (although you are still subject to the usual Hit Die control limit).
+
+Once per day, you can cast [power word kill](ref/spell/power-word-kill), but the spell can target a
+creature with 150 hit points or less.

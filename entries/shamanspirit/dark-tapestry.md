@@ -178,7 +178,7 @@ random answers, are considered equal to those of a greater deity if the question
 concern the Material Plane, but they are equal to those of a demigod if the questions posed concern
 any other plane.
 
-**Ability2:** Also once per day (but only after first using this ability as per
+Also once per day (but only after first using this ability as per
 _[contact other plane](ref/spell/contact-other-plane)_), the shaman can reveal a fragment of this
 horrific vision to another creature, as per [phantasmal killer](ref/spell/phantasmal-killer), except
 that the target takes 1d4+1 points of [Wisdom damage](ref/rule/ability-damage-drain) regardless of
@@ -208,17 +208,17 @@ coating of mucus over the flesh.
 
 **Manifestation**
 
-**Ability:** Once per day, the shaman can cast [shapechange](ref/spell/shapechange) as a
-[spell-like ability](ref/umr/spell-like-abilities) without requiring a material component, but the
-form the shaman assumes via this spell-like ability is never something that looks of natural origin
-to the shaman's home world.
+**Gained:** At 20th Level
 
 **Flavor:** The shaman becomes an unnatural spirit of the Dark Tapestry. While she retains much of
 her original appearance, several minor cosmetic changes leave no doubt as to her now-alien nature.
 Her eyes might appear as solid spheres of blackness, her fingers might writhe like tentacles, or her
 legs might bend backward at the knees.
 
-**Gained:** At 20th Level
-
-**Passive:** She gains [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid,
+**Ability:** She gains [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid,
 critical hits, and sneak attacks.
+
+Once per day, the shaman can cast [shapechange](ref/spell/shapechange) as a
+[spell-like ability](ref/umr/spell-like-abilities) without requiring a material component, but the
+form the shaman assumes via this spell-like ability is never something that looks of natural origin
+to the shaman's home world.

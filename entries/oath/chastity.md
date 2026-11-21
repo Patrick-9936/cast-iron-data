@@ -36,8 +36,10 @@ gains a bonus equal to her Charisma modifier on Will saving throws.
 
 **Pure of Body (Su)**
 
-**At 8th Level:** The paladin has a 50% chance to turn any critical hit or sneak attack against her
-into a normal hit, as if she were wearing [fortification](ref/magic-enh/fortification) armor.
+**Gained:** At 8th Level
+
+**Ability:** The paladin has a 50% chance to turn any critical hit or sneak attack against her into
+a normal hit, as if she were wearing [fortification](ref/magic-enh/fortification) armor.
 
 **Replaces:** Aura of resolve
 

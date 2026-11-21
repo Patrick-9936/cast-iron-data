@@ -16,6 +16,10 @@ group = "alchemist-discovery"
 
 **Flavor:** The alchemist infuses his inks and dyes with a spark of animating force.
 
+**Standard:** He can expend one daily use of his bombs and a 1st-level extract he has prepared to
+create a creature, as [summon monster I](ref/spell/summon-monster-1), using his level as the spell's
+caster level. The extract is expended as if the alchemist had consumed it.
+
 **Prereq:** [Divine inks](ref/discovery/divine-inks)
 
 **Special:** The alchemist can expend a higher-level extract when using this ability to create a
@@ -26,7 +30,3 @@ creature as if using [summon monster IV](ref/spell/summon-monster-4).
 Additionally, the alchemist can expend an additional use of his daily bombs when creating a creature
 in this way to grant the creature the [celestial](ref/template/celestial) or
 [fiendish](ref/template/fiendish) template.
-
-**Standard:** He can expend one daily use of his bombs and a 1st-level extract he has prepared to
-create a creature, as [summon monster I](ref/spell/summon-monster-1), using his level as the spell's
-caster level. The extract is expended as if the alchemist had consumed it.

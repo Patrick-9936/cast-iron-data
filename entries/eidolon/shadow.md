@@ -30,31 +30,33 @@ limbs \[legs\]), quadruped (limbs \[legs, 2\], [bite](ref/unchevolution/bite)), 
 
 **Base Evolutions**
 
-**At 1st Level:** Shadow eidolons gain the [resistance](ref/unchevolution/resistance) (cold) and
+**Gained:** At 1st Level
+
+**Ability:** Shadow eidolons gain the [resistance](ref/unchevolution/resistance) (cold) and
 _resistance_ (electricity) evolutions. They also gain the ability to cast
 [darkness](ref/spell/darkness) as a [spell-like ability](ref/umr/spell-like-abilities) three times
 per day. The caster level for this spell-like ability is equal to the eidolon's Hit Dice.
 
-**At 12th Level:** Shadow eidolons lose the ability to cast _[darkness](ref/spell/darkness)_ as a
-[spell-like ability](ref/umr/spell-like-abilities) and instead gain the ability to cast
-[deeper darkness](ref/spell/deeper-darkness) as a spell-like ability three times per day. In
-addition, they gain the [see in darkness](ref/umr/see-in-darkness) universal monster ability.
-
-**At 16th Level:** Shadow eidolons' [damage reduction](ref/rule/damage-reduction) increases to DR
-10/magic and they gain the [spell resistance](ref/unchevolution/spell-resistance) evolution.
-
-**At 20th Level:** Shadow eidolons increase the range of their [darkvision](ref/rule/darkvision) to
-120 feet and gain the ability to cast [shadow step](ref/spell/shadow-step) as a
-[spell-like ability](ref/umr/spell-like-abilities) at will. Three times per day, a shadow eidolon
-can quicken this spell-like ability, functioning as the
-[Quicken Spell-Like Ability](ref/feat/quicken-spell-like-ability) feat.
-
-**At 4th Level:** Shadow eidolons effortlessly blend into the shadows, giving them
+**At 4th level,** shadow eidolons effortlessly blend into the shadows, giving them
 [concealment](ref/rule/concealment) (20% miss chance) in any illumination other than bright light.
 In [dim light](ref/rule/vision-and-light) or darkness, shadow eidolons have a 50% miss chance
 instead of the normal 20% miss chance; this doesn't grant the eidolons total concealment. A shadow
 eidolon can suspend or resume this ability as a **free action**.
 
-**At 8th Level:** Shadow eidolons gain DR 5/magic and increase the range of their
+**At 8th level,** shadow eidolons gain DR 5/magic and increase the range of their
 [darkvision](ref/rule/darkvision) to 90 feet. In addition, they add 1 point to their evolution
 pools.
+
+**At 12th level,** shadow eidolons lose the ability to cast _[darkness](ref/spell/darkness)_ as a
+[spell-like ability](ref/umr/spell-like-abilities) and instead gain the ability to cast
+[deeper darkness](ref/spell/deeper-darkness) as a spell-like ability three times per day. In
+addition, they gain the [see in darkness](ref/umr/see-in-darkness) universal monster ability.
+
+**At 16th level,** shadow eidolons' [damage reduction](ref/rule/damage-reduction) increases to DR
+10/magic and they gain the [spell resistance](ref/unchevolution/spell-resistance) evolution.
+
+**At 20th level,** shadow eidolons increase the range of their [darkvision](ref/rule/darkvision) to
+120 feet and gain the ability to cast [shadow step](ref/spell/shadow-step) as a
+[spell-like ability](ref/umr/spell-like-abilities) at will. Three times per day, a shadow eidolon
+can quicken this spell-like ability, functioning as the
+[Quicken Spell-Like Ability](ref/feat/quicken-spell-like-ability) feat.

@@ -103,17 +103,17 @@ lasts for a number of rounds equal to your sorcerer level.
 
 **Storm Lord (Ex)**
 
-**Ability:** Once per day, when attacked with an electricity or sonic effect, you may forgo your
-saving throw and absorb the energies of the attack, healing 1 point of damage for every 3 points of
-damage the attack would otherwise have dealt.
+**Gained:** At 20th Level
 
 **Flavor:** You are one with the storm.
-
-**Gained:** At 20th Level
 
 **Passive:** You gain immunity to deafness, stunning, and wind effects and gain
 [blindsight](ref/umr/blindsight) 120 feet against concealment from natural or magical fog, mist, or
 weather.
+
+Once per day, when attacked with an electricity or sonic effect, you may forgo your saving throw and
+absorb the energies of the attack, healing 1 point of damage for every 3 points of damage the attack
+would otherwise have dealt.
 
 ### Arial (Wildblooded Mutation)
 

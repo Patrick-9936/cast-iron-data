@@ -64,16 +64,16 @@ succeeds on its save to resist the effect.
 
 **Entrancing Aura (Su)**
 
-**At 16th Level:** Enemies are instead treated as if they had 3 fewer Hit Dice for such effects.
-
-**Replaces:** The charming smile power of the Charm domain
-
 **Standard:** You can emit an imperceptible 30-foot aura of distraction. Enemies within this aura
 take a -5 penalty on Perception checks and are treated as though they had 2 fewer Hit Dice (minimum
 1 Hit Die) for the purpose of your effects that would give them the
 [fascinated](ref/misc/fascinated) condition.
 
 **Usage:** 1 time/day per cleric level
+
+**At 16th level,** enemies are instead treated as if they had 3 fewer Hit Dice for such effects.
+
+**Replaces:** The charming smile power of the Charm domain
 
 **Replacement Domain Spells**
 

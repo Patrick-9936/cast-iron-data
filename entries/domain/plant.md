@@ -127,14 +127,14 @@ spell to summon one or more [leshys](ref/family/leshy). Add
 and [lotus leshy](ref/monster/leshy-lotus-leshy) to your _summon nature's ally I, II, III, IV,_ and
 _V_ lists, respectively.
 
-**Replaces:** The wooden fist power of the Plant domain
-
-**Special:** You count as a plant creature for the purpose of creating leshys.
-
 **Standard:** You can grant a single leshy within 30 feet a +4 sacred bonus on its next attack roll
 before the start of your next turn.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The wooden fist power of the Plant domain
+
+**Special:** You count as a plant creature for the purpose of creating leshys.
 
 **Replacement Domain Spells**
 

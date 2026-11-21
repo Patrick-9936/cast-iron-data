@@ -21,13 +21,15 @@ group = "warpriest-blessing"
 
 **Axiomatic Strike (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch one weapon and enhance it with the essence of law.
 
-**At 1st Level:** For 1 minute, this weapon glows blue, pale yellow, or white and deals an
-additional 1d6 points of damage against chaotic creatures. During this time, it's treated as lawful
-for the purposes of overcoming [damage reduction](ref/rule/damage-reduction). This additional damage
-doesn't stack with the additional damage from the [axiomatic](ref/magic-enh/axiomatic) weapon
-special ability.
+**Ability:** For 1 minute, this weapon glows blue, pale yellow, or white and deals an additional 1d6
+points of damage against chaotic creatures. During this time, it's treated as lawful for the
+purposes of overcoming [damage reduction](ref/rule/damage-reduction). This additional damage doesn't
+stack with the additional damage from the [axiomatic](ref/magic-enh/axiomatic) weapon special
+ability.
 
 **Battle Companion (major)**
 

@@ -56,7 +56,7 @@ save, it can't be affected by your aura again for 24 hours.
 **Ability:** Add [dimension door](ref/spell/dimension-door) to your medium spell list and list of
 spells known as a 4th-level spell.
 
-**Ability2:** You can cast _[dimension door](ref/spell/dimension-door)_ as a
+You can cast _[dimension door](ref/spell/dimension-door)_ as a
 [spell-like ability](ref/umr/spell-like-abilities), using your medium level as the spell's caster
 level.
 

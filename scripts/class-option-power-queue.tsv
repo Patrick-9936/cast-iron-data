@@ -1,525 +1,139 @@
 entry_id	original_name	occurrence	span_sha256	reasons
-ref/arcana/arcane-redoubt-greater	Greater Arcane Redoubt (Su):	1	51c3a1d4f9e7967b310cbf27daec21288fae5cf543dfe05efcecc5894d6a65a4	multiple-effect-rows
-ref/arcana/arcane-scent	Arcane Scent (Ex):	1	ff89bc68740980d850b24039fbb3c219c16f8bcdb0324e074deeabd938c2ea9b	multiple-effect-rows
-ref/arcana/natural-spell-combat	Natural Spell Combat (Ex):	1	6da3acafcd4bad2c85e31489a3678783b2f1bdb91d414714d1989037f2f8cdbc	unlabeled-paragraphs-not-after-effect
-ref/arcana/pool-ray	Pool Ray:	1	9ad7ccf37c4475283ab5da74932c63ef5f9a17b0d767d34351b2ba02fedfc79a	multiple-effect-rows
 ref/arcanedisc/bonded-mask	Bonded Mask	1	0a369cc21f293ab28ffc4b89eb720847837b7530cc109297f9f98ac60b6843e9	multiple-effect-rows
-ref/arcanedisc/true-name	True Name (Sp)	1	c37cf1561f45285543169f56c72fa5f1c30746b95df7b99ac78e2c0297520fbd	action-group-crosses-row
-ref/arcaneschool/abjuration	Counterspell Mastery	1	221382e9d9460bb7ea61cd3b2a9aa7d221b3b55386bb138cd1e1d90167b1e994	multiple-effect-rows
-ref/arcaneschool/divination	Forewarned (Su)	1	14c94fb0463279e48e09dc311220e641178e4a1346b5f10b04b8b26db8cdb321	upgrade-keeps-capital: Anytime
-ref/arcaneschool/divination	Foretell (Su)	1	c80491dd677d16b1f863673c74169fea03f3ac0d54ddacd2deec654f8089f3c3	print-review: seeded print item: Usage says 1 time/day per wizard level; print gives rounds per day
-ref/arcaneschool/earth	Earth Supremacy (Su)	1	987e873df4bd56996cc5ba098c20bc1ee1a4dd0ee8cb3d121d757aa9ddc861d7	upgrade-keeps-capital: Earth
-ref/arcaneschool/enchantment	Force of Will (Su)	1	2060ae1f17c9dea560f66fb321b27d6c95f7fbe96ff498f127fa7abaa10ba0ff	upgrade-keeps-capital: Affected
-ref/arcaneschool/necromancy	Power over Undead (Su)	1	5204449e6b81e928361273549e2ed08ce1f361795b268a86ed8e4b110177a27c	upgrade-keeps-capital: Undead
+ref/arcanedisc/true-name	True Name (Sp)	1	c37cf1561f45285543169f56c72fa5f1c30746b95df7b99ac78e2c0297520fbd	action-without-one-group
 ref/arcaneschool/transmutation	Change Shape (Sp)	1	2fac8fd180e0c2cbf99c171c04683d386765414be0d9b243b097b9ed034bbe85	unlabeled-paragraphs-not-after-effect
-ref/aspect/electric-eel	Major Form	1	4a0e4730ccc15b6e257345cb14b406bfb94abb81e82683382f43f12b8d39eaab	upgrade-keeps-capital: On
 ref/aspect/giant-wasp	Major Form	1	1f2f91c3656ef74dd0320d2d8c3b460efde3a406d0c37e4ca053764306c3f2fc	unlabeled-paragraphs-not-after-effect
 ref/aspect/scorpion	Major Form	1	9cb61773052b2fe688b6793894e8144f78fe6a0a191b3d9593f2435325d5b263	unlabeled-paragraphs-not-after-effect; upgrade-not-above-gained: 8
 ref/aspect/snake	Major Form	1	951a35bce4e4dc613a0b9fd38534910ef9c20e6f5489c29687c7613b835285a5	unlabeled-paragraphs-not-after-effect; upgrade-not-above-gained: 8
-ref/blessing/air	Zephyr's Gift (minor)	1	87e390f7de06e226ed4b0e7b20992d9c52f8243fd6fa85e37dee2352e9018cdb	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/air	Soaring Assault (major)	1	c5161929d0eec161434f552470d9cf82c9e13f3035fb314b6829c4e095d227d7	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/animal	Animal Fury (minor)	1	de0f397e6496b6895dd9d1f1595e564b90149a6cbb5217f2135a0ccead84a0b7	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/animal	Battle Companion (major)	1	9fedb9bcf8658c26eccc993da7d73e901974fb320884446ed6d5253aab21eace	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/artifice	Crafter's Wrath (minor)	1	d27f4dfd5d4790b3a1a54858bd982c36607f80355d6227620470d9b1448e76c4	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/artifice	Transfer Magic (major)	1	113d115f91b081596e9f7ec0cfa0bb2d31acd88a7a7ef6ae752bdae77323ee0d	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/chaos	Anarchic Strike (minor)	1	77e093dc256cbf51a7ad9f75403133f5b0f53ea557a80e4c2d8758ce7e89d586	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/chaos	Battle Companion (major)	1	6abe32cbddfa01109b52e43eee45906383344b9a176d85dc5f08ca1143454413	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/charm	Charming Presence (minor)	1	e9d4a1a38fecfefc9beed47f40d2928e2fc723448c423be7f70ffc9dc61634b2	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/charm	Dominance Aura (major)	1	d7c3dd2ef752812b28ac44f85241f656cb966597286a5ee8d28460976d682cdb	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/community	Communal Aid (minor)	1	5b2825ecd6d17ed33af93cfa2364601e073fed84debf5965a0e19d5df96a15e2	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/community	Fight as One (major)	1	4bfe67988be4503343bc35ec78ec876cd2899ef4c52710fc2e11cb65da94c27f	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/community	Team Effort (minor)	1	bb28527ef650f0bb672ceaf7be5c476b46ba03fe40ba1c0f771e5c5f00a5570a	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Choose
 ref/blessing/curse	Hexing Attack (minor)	1	b21f4a35b4db569fe486c8be0db625b919a3b8b0e9a819d44ca91345cfec6025	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/curse	Retributive Curse (major)	1	ffba7429b4bb56c36363821ecfb12db12c4b3d1c87ef9a9644c491d545fa83bd	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/darkness	Enshrouding Darkness (minor)	1	817410758a1b2ec921f276fde4cdac64808f1274e6405bcd988eb1b1504faa90	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/darkness	Darkened Vision (major)	1	dca126bfada75fc27e02f86ed9813653e0f0090ffca33ef0729d4b131b000dfe	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/death	From the Grave (minor)	1	d3ca73c809d3830cf67957c5f76fb6d05dd4fb83f93a39416d58438a95ae9085	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/death	Death's Touch (major)	1	fc3690afc73c7e2c64ce2704941b2a73ab56c402bdf892ff07f5d859ddf9f8ac	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/destruction	Destructive Attacks (minor)	1	e33d793073dcf42a8004343b1f6f5f798521bd69094501647207e056a01b67e2	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/destruction	Heart of Carnage (major)	1	3dab1a39d50f48b4226dfcb60d63f90dd0b3166f7670fcda549465ae61c2d1b0	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/earth	Acid Strike (minor)	1	77d1746e10cce0648ae31fe544ed4748047e2adfe6c4a67bc48281321caaf65b	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/earth	Armor of Earth (major)	1	537cdce2d1be6471568548022a91b335c18e6227db66b21716df6f871b4b954e	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/earthquake	Stone's Base (minor)	1	fcaf786a84f133c18367d80074c4a56111d1002bd20b58178148f5ea23ef2035	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/earthquake	Earth Hammer (major)	1	2bfb2dae1cb4869dd16fd42720fc00a5095201cdf6b312216955675cfba5f42c	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/evil	Unholy Strike (minor)	1	336f507016ea36ba47df052f7279623b7b6d62857f5ecddb865c492a8beef09a	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/evil	Battle Companion (major)	1	d07ae46d1b928dbe89596e89f4ec97be50d415e14106907f03c9ce736913af6c	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/fire	Fire Strike (minor)	1	8b06e157bfcdb9ca7508466f8515f792e4299f05493bf0f1ff6667bec6bfda39	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/fire	Armor of Flame (major)	1	d604042dd4953dc785a2e92273b5bfbe0b2233ad48ef3e0117bc6b470293ef9d	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/flood	Lasting Breath (minor)	1	d154e6d6030a8b964ef5c8a012a88cfe173a60ebefbabe61a9ff57a68ba625d2	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/flood	Tsunami Burst (major)	1	239043cb0886b8f836de199373f9bb81e26d33ab717a013bad4f8be76746f3a5	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/glory	Glorious Presence (minor)	1	9ee186099fb3c04d0180496c62f75faeed2c76a925a8773fd6e9dff487db53ec	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/glory	Demoralizing Glory (major)	1	b120b40e26ab64b4660d37246a5839083eb22f594477fb7ed9a4fd1e47e7ccd9	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/godclaw	Command Obedience (minor)	1	84d3ad6f1533898a4465ccf790f4d4ca1e1f5f9764c11a44720f8c2e88d5a135	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/godclaw	Tactical Readiness (major)	1	43c15923ed9a9a38f8ef098db5156494ee6a2469f823075c2bbd5185039de118	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/good	Holy Strike (minor)	1	9b0a99a23d05b1aa2995528febee403328a43a6e6b65eb7af19660b24555426d	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/good	Battle Companion (major)	1	2ae3ad047ac6226668e9e8a64219a44e171a035ec0e7426b9f5e9d13ba9e9e53	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/healing	Powerful Healer (minor)	1	8cbc5788b28751c5c4eeecd065a795ce39baf20b29924b9a1bd4d9bf797eb393	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/healing	Fast Healing (major)	1	925ce156fa1758b68e6c17f8e4c8207059ee3c0bcb6b2bf028e029ef558d0d1e	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/healing	Ameliorating Touch (minor)	1	5dd7ddec1c34aee5701110e60824f1b6feb820295116335d7feb83f08e1f92ea	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/healing	Return of the Fallen (major)	1	98fe70d4c30266a8add9cfee2ac6e7d7c69d729e8cf3a8c73150fc67efda953d	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/knowledge	Lore Keeper (minor)	1	8559458f92b9044cd1a55b089f1d0ed46cd8f56a7247c0602fb2613dcca6016d	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: With
-ref/blessing/knowledge	Monster Lore (major)	1	dbb17e3cffe26daac48d1f307db88da3f79e720de319ecb002a71624870b0ef1	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/law	Axiomatic Strike (minor)	1	e9f0542258b966f7a8b5105d68612acb285d780f3dcadeb11df6b71e96c20824	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/law	Battle Companion (major)	1	ec7692ea7c50bc7e5012ca14981338215743497b8b1ca41100884781a2a5b2ad	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/liberation	Liberation (minor)	1	bb3127ad0da2d56c3281ed729f911b882c5a45b8f71541376aa8b7ce1b4eefaa	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/liberation	Freedom's Shout (major)	1	a9578cece5b19dec9012e59eb74da9883b30f995876c406757971444a5824af3	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/liberation	Greater Liberation (major)	1	5d2c97dc368cf624d3e425f6b7dadd9ee63be59632c6c55db43d3278ef875598	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/luck	Lucky Presence (minor)	1	782ead43f7cb26c83cde3d62cdc37e63d4481eda907d7f05096574ea934997f0	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/luck	Unlucky Enemy (major)	1	9b9430264f35cc1b8581aa31b4b47ecef9179400b148d0fc348c96742609594c	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/madness	Madness Supremacy (minor)	1	9840447d40ea6a0f416eb4e905edd43186677fb660c6879739b41960abadd80d	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/madness	Control Madness (major)	1	dbcbb67ba3f0eeef291b302556f71b4d266e2de02fd4c8679acc5882f2272006	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/magic	Hand of the Acolyte (minor)	1	6cf804e900ba3b9bcd75bfc76579c0e704a9c8260d326fc034bbd68666874e15	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/magic	Blessed Magic (major)	1	ebe2c010b2fca7ce9738f27010c415fd83c27ce9ec510c589e4f0142c665a9d7	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/nobility	Inspiring Word (minor)	1	c51f9ccf0c1ce7869fc66571c732ba6363876878d60f4d2ccf6ae4045db69948	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/nobility	Lead by Example (major)	1	ec667dc264b8fd80e21ef6e165582246b1e1e3cadd93630edd005a11dffd2afc	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/nobility	Martyr's Sacrifice (major)	1	5629d686b1690773d7486654411e3dd43f2ed1f9d5bd1a6fc1bb0072e9021679	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/plant	Creeping Vines (minor)	1	d4f89b1963b75f540c09cfcfac682a9be4bee574d56746e9a409c23d48950a5c	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Upon
 ref/blessing/plant	Battle Companion (major)	1	abaf651c865caffdef6f655720bbec0a7a4667557e4aa6d788a0dde34d6d92e5	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/protection	Increased Defense (minor)	1	6764bae4233645e802a24ce286f43237896de6bbdef7516f8ca70ec5d2173795	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/protection	Aura of Protection (major)	1	da149fd72839457c07dde5c604fb0ac44436fecd43b0d12f939dd67c1375ad54	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/repose	Gentle Rest (minor)	1	efd64859591fe3744f15b6020f2c4bcd19d6b645d7cd5c8148a68f019159fc38	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/repose	Back to the Grave (major)	1	177bd8dd6aa25a5d3c30ca15c6a7c9dec1150dd5c5c79549468d3be3c3ef449b	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/rune	Blast Rune (minor)	1	ede169ac8bdb6e084000dc089370d9f229afe3bd5be7bb5ffcc15291d75df511	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/rune	Spell-Storing Weapon (major)	1	ae0996467a4e515178b73eeadc3ca864ec6c63bca356753446aa96b855aacf45	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/scalykind	Scaly Touch (minor)	1	df036ddc24111bad0904a1b16ebeb278f330a732b2c54c01fae0cb35cf37a318	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/scalykind	Serpent Fang (major)	1	d1c293c8aaa4748cf077d62a0093bd847e7b8c41bf9529001eae9e0f44b80cf0	no-effect-row
-ref/blessing/shadow	Flicker of Shadows (minor)	1	1763f6f566308a433f190726218970364d39b049834ea69bbef2f8b17a97ba66	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/shadow	Swift as Shadow (major)	1	a8e3e26a22579bdc171a6341e20490bd2f74b5824432838a2da55ff18a7e09c6	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/strength	Strength Surge (minor)	1	f2c993d3cd912b05ba1a9ef2196f23378d3e8316afaeee98e9d5cd856df80ddf	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/strength	Strength of Will (major)	1	51a224769634276bb99b504541e6e2d1329814997a253ccb8b8b277c2e4f9c8a	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/sun	Blinding Strike (minor)	1	15d0dceeac3c409836cf8efc22c0ef39d510784cb8147e9707d4972f5da38619	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/sun	Cleansing Fire (major)	1	e8868bf5699d8ca7bfe76da20295c58b56b11249f7d0e3e605bea06046ca847f	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/tornado	Dust Devil (minor)	1	6767374b2f6b476c0a49e2753753f6b4655ebbd0f16943fea26efdf4b48ebec0	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/tornado	Howling Gale (major)	1	0abf5b26694d13a8791d5cdfcd195d8a2a70784f9c3235e076ef0b4eee26130d	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/travel	Agile Feet (minor)	1	3c2d236bc5e5dbf1ec428a0920222c21072880b2b23d3c826b7b3a6eafda65cf	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/travel	Dimensional Hop (major)	1	44cc5813a3578456c8cca6ac8c1eab0c58a45c9e56e84ae3bdc44dbd52e9bcba	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/trickery	Double (minor)	1	75220b459bf934127acf28d9daf0ce2b96791d5b59a36fd15f382eeebba5c93a	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/trickery	Greater Invisibility (major)	1	605ca9c833d77d4911eea3fef441ad2d9134ae5de5d9078abeb5c963f1626f38	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/void	Airless Touch (minor)	1	129894ae9056e1ce6a389ea4021b6e688fee58bd5d8d6fa83636852179468951	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: With
-ref/blessing/void	Deny Gravity (major)	1	c3d259946de8d6d68787b5d05afe9110069bb981fca52957062d73669c4e99b3	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/war	War Mind (minor)	1	f59a77273c6345929ca86450237d23d7ba4ee009b831852bffb24b2bca9eb038	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/war	Battle Lust (major)	1	4b0b18081ef2a92c6ca9706148b54d6881dfc492adf0792e1cfd7f86ef355924	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/water	Ice Strike (minor)	1	82058496927ae087d715a0cd611433abb418132f86405e4fb5bda54023e86f07	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/water	Armor of Ice (major)	1	ad0095757cdd4ed48ddc29e590c35e16a3a9f22c05e3e6ccd8c3b3032370aef7	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/weather	Storm Strike (minor)	1	1d18e41b77c2d4d3adf8c43a77fed9a2ff2dd591e8213dd05a562afea34df01c	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/weather	Wind Barrier (major)	1	7dc53430334a9cfd92ca542445bd38590e2e6a2c4e197cf5ea9bb94f2ac55cc3	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/blessing/wildfire	Leaping Flames (minor)	1	73003ba342e10d165e84867005f519f5a8ed9731206f501f038ef50227303b0f	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blessing/wildfire	Fiery Wake (major)	1	f463f0eac4fb6e5ea482ae1f68f2f258af6abf41ecca911404b1d58ca6c06cfd	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blrgbloodline/aquatic	Watersense (Ex)	1	740ccd68690d00f923659bd1f88f99e896b300265da5dceb5225084bd2e4e354	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/blrgbloodline/fey	One with Nature (Su)	1	c2974da769f009c8f21794e348a15ff08d3a92d71fe3c21cabe28f4cbb09afb5	unmapped-action: Move-Equivalent Action; no-effect-row
 ref/blrgbloodline/sphinx	Desert Fortitude (Su)	1	1f704707af4265606ead5342287f404cac6c243d2560da71c0570f6b97238c80	upgrade-not-above-gained: 6
-ref/deed/dead-shot	Dead Shot (Ex)	1	c180715798f560936bde2165576a211cb5cdfa070d74dbeb4a395f88116b7a6e	action-group-crosses-row
-ref/deed/utility-shot	Utility Shot (Ex)	1	400f98874be59af4db0bfab6461b1835380917eada645794248027faee1cb5c7	empty-row: Blast Lock; empty-row: Scoot Unattended Object; empty-row: Stop Bleeding; multiple-effect-rows
-ref/discipline/abomination	Dark Half (Su)	1	5091ba2b8f09a3d7bfa9af2447a9c650d09c1abbff81e0255935945b8e828ae8	multiple-effect-rows
+ref/deed/dead-shot	Dead Shot (Ex)	1	c180715798f560936bde2165576a211cb5cdfa070d74dbeb4a395f88116b7a6e	action-without-one-group
 ref/discipline/abomination	Morphic Form (Ex)	1	6241a8f905b2f553435b549fa0f689ed6e646f39d8af3b65b0f1158246aadbd6	no-effect-row
-ref/discipline/abomination	Psychic Safeguard (Su)	1	f4b66844f8c9c4d1a33d08b64a280734e3411a047523d8eb5b3c6fd360623473	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/bleaching	Emotionally Distant	1	186ff7d465c044c2e2e0ae3ecefa19888a5c67b4a8ab93bb37e6bde3aa8bccbb	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/dream	Mind Heist (Sp)	1	042d4b73149d1698dc0b29b6b4038a5ecc36b2c3dbf5625d888fc3e259d839d3	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/enlightenment	Focused Trance (Ex)	1	47e9339352671ec8188f68d9996ce3bbcb9ac2658d56b0158d11b5ef5f7e1fda	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/enlightenment	Empty Mind (Su)	1	3886548468793e7ecc032d166d2a837245ad15fe8e69aa56cf77e0aea2965a0a	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/faith	Discipline Powers	1	cd8a06b72dcbf1c65921b41266783c041a7fdd8c8caa89189de3baa4b1af8856	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Choose
-ref/discipline/faith	Resilience of the Faithful (Su)	1	de7eff32c03972cf742bef5a3468d9fd68f51203a384f912c93a7498b5b896b6	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/discipline/faith	Prayer Aura (Su)	1	28e0fefd30623ea9f6257eaded33f837745e715d892e21a66fbeaeab8671dc3a	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/ferocity	Enhanced Senses (Ex)	1	f12b1e77fbe95b073858b53751588d3a2423cc552a8e8dfd2baeda202c3dc587	multiple-effect-rows
-ref/discipline/ferocity	Ferocity (Ex)	1	f1b18695bfda31e476e855297a0a02510e72672e028d1976fd6ef29ada070d99	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/ferocity	Primal Fury (Su)	1	ac0b4a3ca6c124556a2b5a5d1b1d5e1bd0c86bb3b1f75c7a151fc97bb2c9b2e8	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/hag-called	Deceptive Shapes (Su)	1	12d11a90488067ea9ecf9cf90f9889fa6ff549c0cdbba2abc8321a6d61ac0588	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/hag-called	Curse Mastery (Sp)	1	fab39296ca1e94c3d894a6167ba7d221a9781551f30df391d638a5a740808651	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/haunted	Spiritual Bulwark (Su)	1	fa979c6c1c524b54c8dee8b4ad187fee4f7ab4055335e823333c890e16ebdb33	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/haunted	Phantasmal Assault (Su)	1	a9d7353e4d9a0b5e698ce3f001d6a3ed16fb14848e714280078478bde727e9d5	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/lore	Superior Automatic Writing (Ex)	1	8aa389e033399a063b68407b3969cbc35e97afa9ec2581c60dee3b2737a86136	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/discipline/lore	Memory Palace (Su)	1	c956826cc1b43fa73f48057a50942042fb33b52fa49976722fe4b6edb0fe20cf	action-group-crosses-row
-ref/discipline/mindtech	Attune Implants (Su)	1	a76c1e08ce5d116da5121f871d4f980642f35c2582f5429be73176c00696cfab	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/mindtech	Dominate Technology (Sp)	1	7c5b3ce59c1a0a18938e1bf9ff18d2eac0e46a51443cc8b1eed58ba46d5dfa2e	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/pageantry	Force of Habit (Su)	1	057fec166eb008c5db2ae81dff0d862a52d958ddde3d473223a0a6cacb1a9c38	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/pageantry	Unrivaled Focus (Su)	1	e966eb3637721c9aef584dc85fe273b0138e54dd00a06b2b013633b8f72bbef8	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/pain	Live On (Sp)	1	16bde0b3c5b13bd9bd28e7cc616fec425fc326e7fe75425d9794c6939c558113	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/pain	Agonizing Wound (Su)	1	10296fa525fa7a23a9b90b0dce5330cd8638833517edce59ca1f2ca99364e4fb	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/psychedelia	Warped Brain (Su)	1	1151d8a9c358f0529ed49c45e7188bc9cb3f1967063649838efd0b7a3fb7b2dd	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/psychedelia	Hallucinogenic Aura (Su)	1	7c173eceea31c270fd6a555292f5a720e75f873f2f62308159ab84bb5e8a8787	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/rapport	Share Memory (Sp)	1	12588d0f0cb864895af1ed22391af311504744f08ec6c0c23d169f9a15986d22	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/rapport	Team Player (Ex)	1	48e4acdee6343816ee660e289caeb3767245d46c7d7d95e3de45c05b759149ba	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/rapport	Shared Skill (Ex)	1	fb454b2ad52648543a245c139fe6b75b8d29e4680adde273010c29c7b9167a28	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/rebirth	Resurgence (Su)	1	e162080b08f8f1ae1948778a826df3cef993a9b870782c8249064e7a1a6fbc55	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/rebirth	Physical Regression (Sp)	1	1ea987c448da01264a124a1234ebb715e50630967873ca9af5984172cabdbc25	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/rivethun	Spirit Channeling (Su)	1	6913527d50085a1b0d9664b82877931a335e713ae359afd41d5aca6dfdaac64a	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/rivethun	Greater Spirit Channeling (Su)	1	d74598eb8587d4b7f93b94abcee578214a364f5315f0762885f05131b8c02527	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/discipline/self-perfection	Bodily Purge (Su)	1	14a62d9ce0acd361993f3ef0e9d971aecab59c6dcca9ee76dc7ceb64f543ee2c	no-effect-row: suggest the lowest upgrade as Gained level and base effect; two-upgrades-at-one-level
-ref/discipline/self-perfection	Pure Body (Ex)	1	6cfcf563d3ae5482581ba8a963e924ee7c683c5419cbeda5bd0fcc921114f595	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/shadow	Dark Defense (Su)	1	b53dabc4ccf52c39b7b69fdea54c6a93da3151e6f0168ea567c57eee8978c241	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/shadow	Adumbration (Su)	1	90138d14ecf44071a63d543dd6481c75f4f1bc50a58cefd900a585784d28b5d8	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/sorrow	Wave of Gloom (Su)	1	006705d3a697826c4c905cbcf1551c4dbe068a2a0d242599a40b6115d6aa0885	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/sorrow	Fortress of Sorrow (Sp)	1	0887e9de4ea05bfa3fe36a7d02302c384a24f00c2085a3eeff00b34b5a655888	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/superiority	At Arm's Length (Ex)	1	b660bcc4a51748d1db43e09484ffbab5b30c7bf3657e4689839f86da1b48c91d	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/discipline/superiority	Magical Hoarder (Su)	1	ce27ef59b53c4693796bc100a8e93e2f4f1c061e6eb9c4a5a72613d9c3c296b7	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/discipline/symbiosis	Bionetwork (Su)	1	e9f680b14358c6071bd9b197c51e70383a297ea84d63f7eda7c6e75a6bbc6a01	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/symbiosis	Animate Trees (Su)	1	e7ef1b8bdac3a2110c356586910ff923004e405744c379d2ce2ccbeb1f7b116d	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/tranquility	Calming Presence (Su)	1	a1338321d73ac04b3257939f13da0e8cbb73b402b8beb70c4ecbd4b6365aedfe	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/discipline/tranquility	Purge Disquiet (Su)	1	81f438dc71d8970df541bc3c325abe4dd0d940a971e59fbdc3d9c4cfdedb11de	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/warp	Turn Aside (Su)	1	f6e3b2774d17aa656260f988e22eded735378cab74b73894d8d93914b33a554a	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discipline/warp	Sidestep (Su)	1	84c3ae3ab81302d8957cf2d946b18f1e85f2346863042ec0b9fb04f7584ef164	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/discovery/bottled-ooze	Bottled Ooze	1	baac846324c157d7f32770910c538636d837455ee39d82e61871a86ace8ba6b5	unlabeled-paragraphs-not-after-effect
-ref/discovery/doppelganger-simulacrum	Doppelganger Simulacrum	1	76fe77eb994756cbe5fa4cc6968574282e88148402e8ece1453e872f9dfdde8f	multiple-effect-rows
-ref/discovery/elemental-mutagen	Elemental Mutagen	1	04d7bba1050758812b080daf33be90603182e7755ad44cc0a56d83f5d9387b6f	unlabeled-paragraphs-not-after-effect
-ref/discovery/living-pigment	Living Pigment	1	828f422f2204d7b8b4f68689b5024b7eda1d3d84fbaebc2372eed10825e281a0	unlabeled-paragraphs-not-after-effect
-ref/discovery/parasitic-twin	Parasitic Twin	1	a41540a0793b8226b75b29bfc020f68409bc27f08fadcd9f4f248227c9cef989	multiple-effect-rows
-ref/discovery/phantom-limb	Phantom Limb	1	473e3eabf5fadcb38836d744263a48a7d4af7ebc3f32029ce9d28f77d5a3832e	multiple-effect-rows
 ref/discovery/psychokinetic-tincture	Psychokinetic Tincture	1	e192f2a32537e44351aadfbe75c92ca3866e3bc5b0d24eafc3b49f8f06099f2f	multiple-effect-rows
-ref/discovery/subsumed-spirit	Subsumed Spirit	1	aaccffc584b756e38ebedb3ffba145770f2f44dcb26a8ac5280286eeb307bed8	multiple-effect-rows
 ref/discovery/syringe-stirge	Syringe Stirge	1	67b13d7e58dc35db8075cd6bb0a6924d53178eeb5182cab6754c148e03b11043	multiple-effect-rows
 ref/domain/air	Electricity Resistance (Ex)	1	c503b81f54235c5865cb3a1b217eaefe2bca0cec2a4ef22e4bcedafa90b6aed7	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Gain; upgrade-keeps-capital: Resistance; upgrade-keeps-capital: Immune](ref/umr/immunity)
 ref/domain/artifice	Dancing Weapons (Su)	1	ef96b40c0d3918cfb2e6d0638a3cea292cb3eb2dd92b53470140f5c80e47389d	unlabeled-paragraphs-not-after-effect
-ref/domain/charm	Entrancing Aura (Su)	1	29d12fe1ba81a4a9465418afe1d773255104822044401a154c92b9063e3d4a1e	upgrade-keeps-capital: Enemies
-ref/domain/earth	Acid Resistance (Ex)	1	897507ff9bc8a066543469f92aeccf6e091ed326ffd3d3d1281c95f68dda1b55	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/domain/fire	Fire Resistance (Ex)	1	cdd129921c3dfa9767fdec4720523d20fb0ac4bedcc2513a32a5a57c3f190a70	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/domain/knowledge	Deep Cover (Su)	1	999b9fd79d2d3042696523cb15045dd72455cb28b28cdb4bb9a1c199f11b69d6	multiple-effect-rows
-ref/domain/liberation	Perfected Form (Su)	1	7dcaea346eeede02c89fbd4be88bcb60b0158e77321f8e9d98ea73c3a0060dd1	multiple-effect-rows
-ref/domain/nobility	Noble Visage (Su)	1	423d40e073abb7b7c71be43b2a9afcfaf89df2a499c3f1b4a5393d7e76cc27f0	multiple-effect-rows
-ref/domain/plant	Leshy Caller (Sp)	1	32cc426a639b705cfa78cec17261d4d87f9f98ae32808bd7df605e8c2d3ad47c	multiple-effect-rows
 ref/domain/repose	Exorcism of Undeath (Sp)	1	02d0495f4c5c1e6f9e7594456081228acf6c2ee96961738eb5d6772167754975	multiple-effect-rows
-ref/domain/strength	Perfected Form (Su)	1	76fe865cf79999374a2e6b21c01f5259ec5a8cb50ecb0a98807697148eeba743	multiple-effect-rows
-ref/domain/trickery	Deep Cover (Su)	1	2082fdef0525248eb11c09d9dc48b226498839a9bd2044bc95910501ff6d2e5f	multiple-effect-rows
-ref/domain/water	Cold Resistance (Ex)	1	9a9a88c7e673c70686eb75308b8f7ee28b045a8ea952e2cc00c06c68d9b90f41	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Gain
 ref/druiddomain/aquatic	Seastrike (Su)	1	97bea72f82dd58e9b0cadf4038149c6114c94577cc9dede458258dcb12733f95	multiple-effect-rows
-ref/druiddomain/cave	Tremorsense (Ex)	1	4e3f04fbcb48f9cd7091b81c243a7e97381e86bdcf7001d11034a9070063aa8e	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/druiddomain/desert	Servant of the Sands (Sp)	1	7b496f85bff2db9ff7db5f35ea9b4d9119fb58c81d3aea8006ac10f5a957d6dc	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/druiddomain/eagle	Aerial evasion (Ex)	1	19400fcc200c3f638dd27f1ebd7f7013e789a9300836d53012ef773f1ef2e4d6	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/druiddomain/frog	Webfoot (Ex)	1	9dfcf2c2dec7db3edba5abac879a7615d69037732a1388128c98ca4edb0f045b	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/druiddomain/plane-of-air	Wind Savant (Su)	1	be3ace303e0b065beb1d51c9d6aa03c2b344064e6ae32fbea16cca87af55886a	no-effect-row
 ref/druiddomain/plane-of-earth	One with the Stone (Su)	1	13a958db389c2ca407bd24bcdd6e3c154ff9fe7d37afcb64f74ffcb01953f690	no-effect-row
-ref/druiddomain/plane-of-fire	Fire Hardened (Ex)	1	a79b49481ba6f40632bbb8cfca5dbe72ce16a493cc19d00fc8d3a80099eeb281	multiple-effect-rows
 ref/druiddomain/plane-of-fire	All-Consuming Flames (Su)	1	227e8d03ede6dc92dbc76f5fdbeee9ea4668e6757b96266f4468587e34e42c5b	no-effect-row
 ref/druiddomain/plane-of-water	Hydraulic Crush (Su)	1	7e491d7d5372d8b878d7b1adadc4acd7bdb7edcc53031a25f58a7dc3417bcea3	no-effect-row
-ref/druiddomain/serpent	Venom Immunity (Ex)	1	bc3c66ca931bbbfe9843eee20bcb8ad14f76cdc682da007d620cddaeee1f53f6	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/druiddomain/swamp	Reed Hunter (Ex)	1	f5d17bafc54044c373685e39b90a40f43f67ab61bb61f58202183c3229b86acd	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/eidolon/aberrant	Base Evolutions	1	d76ad56d67533829133855266dfd8623b9b77fb3399421a3895308940f35085b	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Aberrant; upgrade-keeps-capital: Aberrant; upgrade-keeps-capital: Aberrant; upgrade-keeps-capital: Aberrant; upgrade-keeps-capital: Aberrant; upgrade-keeps-capital: Aberrant
-ref/eidolon/aeon	Base Evolutions	1	9a9f8323cc645e12627951a8c784b144b96392b8249d75e8fef163e251f3c8f4	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Aeon; upgrade-keeps-capital: Aeon; upgrade-keeps-capital: Aeon; upgrade-keeps-capital: Aeon; upgrade-keeps-capital: Aeon; upgrade-keeps-capital: Aeon
-ref/eidolon/agathion	Base Evolutions	1	ac0c56c2208953cf3baf3f7e60a31d548a643b0fc68640f4b2298e8a9b743298	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Agathion; upgrade-keeps-capital: Agathion; upgrade-keeps-capital: Agathion; upgrade-keeps-capital: Agathion; upgrade-keeps-capital: Agathion; upgrade-keeps-capital: Agathion
-ref/eidolon/ancestor	Base Evolutions	1	eb36f534975b64bba9cceed89cf5347a35277950c2bce52f1895e950276bccdb	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/eidolon/angel	Base Evolutions	1	c49eb4a79562aeb074e9e1634024267745d83285bb883c24befd00bf0aa3ae78	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Angel; upgrade-keeps-capital: Angel; upgrade-keeps-capital: Angel; upgrade-keeps-capital: Angel; upgrade-keeps-capital: Angel; upgrade-keeps-capital: Angel
-ref/eidolon/archon	Base Evolutions	1	21fe7d5ffdc2ead20625ddbbacf30248b5922538c0f9d0a26d0bd9f39a589e01	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Archon; upgrade-keeps-capital: Archon; upgrade-keeps-capital: Archon; upgrade-keeps-capital: Archon; upgrade-keeps-capital: Archon; upgrade-keeps-capital: Archon
-ref/eidolon/astral	Base Evolutions	1	756edd6a35c468b5030bbd82fcf38c2e0e2bccda7784997d69af7d4e7c746b5c	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Astral; upgrade-keeps-capital: Astral; upgrade-keeps-capital: Astral; upgrade-keeps-capital: Astral; upgrade-keeps-capital: Astral; upgrade-keeps-capital: Astral
-ref/eidolon/azata	Base Evolutions	1	16de32c4541e22886b198d0effd4e72f9910d6706bff860fedd68e98155caefd	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Azata; upgrade-keeps-capital: Azata; upgrade-keeps-capital: Azata; upgrade-keeps-capital: Azata; upgrade-keeps-capital: Azata
-ref/eidolon/daemon	Base Evolutions	1	fff28e0f0b9ccb306be53207a695276d812629a318c3133d015fd8728d7accda	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Daemon; upgrade-keeps-capital: Daemon; upgrade-keeps-capital: Daemon; upgrade-keeps-capital: Daemon; upgrade-keeps-capital: Daemon
-ref/eidolon/deepwater	Base Evolutions	1	d9407844ff07e53b0da902765079b743dae717a1e613b67496811c7bf6e58c39	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Deepwater; upgrade-keeps-capital: Deepwater; upgrade-keeps-capital: Deepwater; upgrade-keeps-capital: Deepwater; upgrade-keeps-capital: Deepwater; upgrade-keeps-capital: Deepwater
-ref/eidolon/demon	Base Evolutions	1	efdf4cad6e68b9af894c13df5d3fee3d30bb698596d310fe49d294a09290a4e3	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Demon; upgrade-keeps-capital: Demon; upgrade-keeps-capital: Demon; upgrade-keeps-capital: Demon; upgrade-keeps-capital: Demon; upgrade-keeps-capital: Demon
-ref/eidolon/devil	Base Evolutions	1	771e539bb1016b9ad9302abda8ed6f23f62783701268d6a8bfaba61520a33668	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Devil; upgrade-keeps-capital: Devil; upgrade-keeps-capital: Devil; upgrade-keeps-capital: Devil; upgrade-keeps-capital: Devil; upgrade-keeps-capital: Devil
-ref/eidolon/div	Base Evolutions	1	b581b2f423e0e0b9abd7e6e78793c00c79cbea0be1a164f57df7db4d36f11144	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Div; upgrade-keeps-capital: Div; upgrade-keeps-capital: Div; upgrade-keeps-capital: Div; upgrade-keeps-capital: Div; upgrade-keeps-capital: Div
-ref/eidolon/elemental	Base Evolutions	1	035c9d5ad43268cefb8408f4ac31e410e0f5d04b9ab5b3f7414cfce4d073999e	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Air
-ref/eidolon/genie	Base Evolutions	1	9d2814239406bdedf3e514dcd114207795bf6d4c76130328a69f0316dceb87ce	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Genie; upgrade-keeps-capital: Genie; upgrade-keeps-capital: Genie; upgrade-keeps-capital: Genie; upgrade-keeps-capital: Genie
-ref/eidolon/inevitable	Base Evolutions	1	1e40f93d3110632ab68ee566e45f10971e5e280b2dd294421c262a247fbae5e7	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Inevitable; upgrade-keeps-capital: Inevitable; upgrade-keeps-capital: Inevitable; upgrade-keeps-capital: Inevitable; upgrade-keeps-capital: Inevitable; upgrade-keeps-capital: Inevitable
-ref/eidolon/kami	Base Evolutions	1	98637cf860f2e06564a7747f99edbd9d3e958a3a273ab5aa42194ce5eb9c0b73	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Kami
-ref/eidolon/kyton	Base Evolutions	1	8e061d8e5ec190382c8348b5a61ba37136ce405f3e1a259d19a2e444cff62187	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Kyton
-ref/eidolon/plant	Base Evolutions	1	33dbfb4868ab7e2eb16bbc2453117d0ab3a084960ae53db3f7d16be930a6664b	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Plant; upgrade-keeps-capital: Plant; upgrade-keeps-capital: Plant; upgrade-keeps-capital: Plant; upgrade-keeps-capital: Plant; upgrade-keeps-capital: Plant
-ref/eidolon/protean	Base Evolutions	1	cf5984cf24803acacb41a19f50d84e997661f41061f3f0b5813456f1151a8c75	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Protean; upgrade-keeps-capital: Protean; upgrade-keeps-capital: Protean; upgrade-keeps-capital: Protean; upgrade-keeps-capital: Protean; upgrade-keeps-capital: Protean
-ref/eidolon/psychopomp	Base Evolutions	1	0d8ffd97b32444b6956110c85cdaa75360b1011d312a7b777dbb8afb45e80ca5	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Psychopomp; upgrade-keeps-capital: Psychopomp; upgrade-keeps-capital: Psychopomp; upgrade-keeps-capital: Psychopomp; upgrade-keeps-capital: Psychopomp; upgrade-keeps-capital: Psychopomp
-ref/eidolon/radiant	Base Evolutions	1	d136aeaac0292f4dd7500e955241cb161c0dac5a0fb213eed3ae4ddbc0cb3cac	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Radiant; upgrade-keeps-capital: Radiant; upgrade-keeps-capital: Radiant; upgrade-keeps-capital: Radiant; upgrade-keeps-capital: Radiant; upgrade-keeps-capital: Radiant
-ref/eidolon/shadow	Base Evolutions	1	4e8b2bb1e32f20a31729646d7c20cbe28cd2c42ae710cf160eaa5828ab686f33	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Shadow; upgrade-keeps-capital: Shadow; upgrade-keeps-capital: Shadow; upgrade-keeps-capital: Shadow; upgrade-keeps-capital: Shadow; upgrade-keeps-capital: Shadow
-ref/eidolon/storykin	Base Evolutions	1	298b07dcc23750a6b96300e88a27b056601dcbcad0af98a52c984e38febabcf5	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/eidolon/twinned	Base Evolutions	1	2ee45d44b627c794f601d5f9cba1423935eb73edee06876bb5a0cbe5a3d40e3f	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/eidolon/void	Base Evolutions	1	42c692af680a0a9ce79deb7fcebca07b8fcb0d6cf911f679182d7f81af93da05	no-effect-row: suggest the lowest upgrade as Gained level and base effect; upgrade-keeps-capital: Void; upgrade-keeps-capital: Void; upgrade-keeps-capital: Void; upgrade-keeps-capital: Void; upgrade-keeps-capital: Void; upgrade-keeps-capital: Void
 ref/emotionalfocus/hatred	Sneak Attack (Su)	1	f6382c1210d1d74d1f39b4a1679d5bd7a975aa457f411831673f17371086db1a	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/evolution/ability-increase	Ability Increase (Ex)	1	c0192c078cc53b34283f14aebaab23397490a364ae46837e518e605db277abfe	unlabeled-paragraphs-not-after-effect
-ref/evolution/claws	Claws (Ex)	1	f586966ebc03dca6d575735727287c809289cc25cffa956e876a03885976c40c	unlabeled-paragraphs-not-after-effect
 ref/evolution/large	Large (Ex)	1	a0a9bd5b1c0a3b2d40b94316b1472a23c72b51f31aab65963cd288ae0e451399	unlabeled-paragraphs-not-after-effect
-ref/exploit/arcane-weapon	Arcane Weapon (Su)	1	40059ff6f7ec77dff1071a3ed8249204cfe2455ab4dbf996c30fbd8206fe39c6	unlabeled-paragraphs-not-after-effect
 ref/exploit/armored-mask	Armored Mask (Su)	1	081a2a5fbc460ee7eef0e401215231fa3cce3b68b8bb71a6e063961b46e2443f	multiple-effect-rows
-ref/exploit/bloodline-development	Bloodline Development	1	2b8896e7238cc1215391d4078c35a4de86f7db420d0861a43063fb7454bb4c6c	multiple-effect-rows
-ref/exploit/first-world-illusion-catcher	First-World Illusion Catcher (Su)	1	820fb4b215cff4a69dd3f6cb0b8d9b7fc9062db3dbdc1302b2aaa7424d8686a3	multiple-effect-rows
-ref/exploit/greater-metamagic-knowledge	Greater Metamagic Knowledge	1	0606b17830e869e4c420fdc147ccc4a0591687d9a6b75ea3c36e4a482614141e	numbered-effect-label: Ability2
-ref/exploit/primal-magic	Primal Magic (Sp)	1	7768b7ede32f82149a4f67c5c1f45a17df56050fc80ace499ef32174ab06d867	numbered-effect-label: Ability2
-ref/exploit/school-understanding	School Understanding	1	f289a592444f655d5049f2a460085c330ece4e1eb7407409d8b1ec8f2977622c	multiple-effect-rows
-ref/hex/blight	Blight (Su)	1	4962f45b3165914fd8f5613866d9e0bef0fbfda6a62ac0e675ad97246798a001	action-group-crosses-row
-ref/hex/coven	Coven (Ex)	1	7795d0682ed82a45baf7e2338e12c9d3c255b6a4719a46a99563ba5d001f31f9	numbered-effect-label: Ability2
-ref/hex/death-interrupted	Death Interrupted (Su)	1	64b0e43c70d84ca057b3703023fc717a3eebce1c1b3afa21fd9699a6c5e6c9dc	unlabeled-paragraphs-not-after-effect
-ref/hex/eternal-slumber	Eternal Slumber (Su)	1	bd5b8ce7301578cb95988e0febf3936313c7c9de42f1ec33e6c5ea74fa45b0fd	numbered-effect-label: Ability2
-ref/hex/flight	Flight (Su)	1	020812f778c2012aca80cbccb40e15b6e2885ee213b07b6775c6b81b2738866b	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/hex/heralding-bloom	Heralding Bloom (Su)	1	086e4516d530bcad0ea0f4f4475dbd702cbd7c2cd738acf763c0343c0fdca9ed	unlabeled-paragraphs-not-after-effect
-ref/hex/poison-touch	Poison Touch (Ex)	1	90563a4a6f275d74fa5adb886fa10844a4e2ba3f4fdea244bdbdd51c78ad11ec	action-without-one-group
-ref/hex/scar	Scar (Su)	1	6d46d16886fd9aa0d27ed429f01be2da63519645a0657590c57339e007f8217b	numbered-effect-label: Ability2
-ref/hex/slumber	Slumber (Su)	1	ece70500ae93baae0a4c01c934c7fd08885ad2bf308310abaae342abf6f6bc76	unlabeled-paragraphs-not-after-effect
+ref/hex/blight	Blight (Su)	1	4962f45b3165914fd8f5613866d9e0bef0fbfda6a62ac0e675ad97246798a001	action-without-one-group
+ref/hex/poison-touch	Poison Touch (Ex)	1	90563a4a6f275d74fa5adb886fa10844a4e2ba3f4fdea244bdbdd51c78ad11ec	action-group-crosses-row
 ref/hex/waxen-image	Waxen Image (Su)	1	1cb8cc9765e6d9faf2ccedc191a7560a0a19d0d51add9e03f0bf62499641045c	multiple-effect-rows
-ref/hex/witchs-hut	Witch's Hut (Su)	1	a7b0623a66ccc806e0db5ffc13acae47f51cfee4a85cd305878ace64129644ab	numbered-effect-label: Ability2
 ref/hkdiscipline/invoke-glyph	Invoke Glyph (Sp and Ex)	1	75f16a56d9d86cc1526cb8d47a48b6e379b6c0a221e84708252c8d903a31433b	multiple-effect-rows
-ref/hkdiscipline/trace	Trace (Su)	1	aca85a35a13787e39fd9b2d08b20bd6f98f7caf36e22c137f9e6c0e0398e5265	unlabeled-paragraphs-not-after-effect
-ref/hkdiscipline/vigilance	Vigilance (Su)	1	4925ed4b4191575ae0c9d711d87e106acf445824826e28da0e2fe5ae0df506d3	multiple-effect-rows
 ref/hkorder/order-of-the-chain	Reckoning	1	34af779f6035f39758ab00b08faaf9326489b52ec839037716c97afd142f5d9a	unlabeled-paragraphs-not-after-effect
 ref/hkorder/order-of-the-chain	1: Taken Alive (Ex)	1	4991c505c9e14a939ddfc54a0531bdd02190e547457d1723f439c15013d54915	multiple-effect-rows
-ref/hkorder/order-of-the-chain	3: True Identities (Su)	1	0329bb42fa6efe2db8231c86361c787fceefb1526523423518aaffe39f43722f	multiple-effect-rows
+ref/hkorder/order-of-the-chain	3: True Identities (Su)	1	0329bb42fa6efe2db8231c86361c787fceefb1526523423518aaffe39f43722f	action-first-pair: print decides the order
 ref/hkorder/order-of-the-gate	Reckoning	1	88e8d913eccdd1a328d1fad0e09b57e7745648eb7aa501b03423f119b1830b58	unlabeled-paragraphs-not-after-effect
 ref/hkorder/order-of-the-godclaw	Reckoning	1	f03f8f1fa7a948b8a24eb93ab867027deec25a523db3ed3afc60a5faf9b54752	unlabeled-paragraphs-not-after-effect
 ref/hkorder/order-of-the-nail	Reckoning	1	bde04e05a48629cb6857077aead272753f0924e80433dc19e8d775aa8c73432e	unlabeled-paragraphs-not-after-effect
 ref/hkorder/order-of-the-pyre	Reckoning	1	dc9d3782a10a35991e797afdd0939ec7b4b5659f6e17818861141a213e916c9e	unlabeled-paragraphs-not-after-effect
 ref/hkorder/order-of-the-rack	Reckoning	1	7193ef7b4df64a1da4e8ebd2ed89c2687b130ac1966bb34627987d8fe65e7d05	unlabeled-paragraphs-not-after-effect
 ref/hkorder/order-of-the-scourge	Reckoning	1	cc1c8b8d4500f6303272b50f318b374eb71e8fc2bf03eb05b4dab12cb8fba0d4	unlabeled-paragraphs-not-after-effect
-ref/hkorder/order-of-the-scourge	3: Reason to Fear (Su)	1	fdb07a2a48e67d861c00e5b2c9f3d166548fa7b4f4c80d97e366814e592c86ce	multiple-effect-rows
+ref/hkorder/order-of-the-scourge	3: Reason to Fear (Su)	1	fdb07a2a48e67d861c00e5b2c9f3d166548fa7b4f4c80d97e366814e592c86ce	action-first-pair: print decides the order
 ref/implement/conjuration	Psychic Fog (Sp)	1	07d9a77b91b942c731d9361e9f7cc29a4bed0439e42ddfc1545849d704aa22ce	unlabeled-paragraphs-not-after-effect
 ref/implement/evocation	Light Matrix (Sp)	1	2095a76aed99657c110c568c7fa260f5a0ed91f902e1a052245e77c95d0ae2c4	multiple-effect-rows
 ref/implement/performers-accoutrements	False Confidence (Sp)	1	e403b20112305aeefde905afb1446ea2f12bd7d27a5dbb900e500ee040eea051	multiple-effect-rows
-ref/inquisition/anger	Rage (Ex)	1	25a1987ce6ec5ea3917cb36c02d98c1d72f42e0b89ebc675fac0e3d299208522	multiple-effect-rows
-ref/inquisition/chivalry	Mount (Ex)	2	008881228c015971792ed0f630d661c031fecedcb551add2766ba539c7825d61	action-without-one-group
+ref/inquisition/anger	Rage (Ex)	1	25a1987ce6ec5ea3917cb36c02d98c1d72f42e0b89ebc675fac0e3d299208522	action-first-pair: print decides the order
+ref/inquisition/chivalry	Mount (Ex)	2	008881228c015971792ed0f630d661c031fecedcb551add2766ba539c7825d61	action-group-crosses-row
 ref/inquisition/chivalry	Faithful Steed (Su)	1	d0e9d88402d07941f7ede6be08c1754ccb32cceb5e47c6c9f2f2d646d84e6e2a	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/invtalent/chroniclers-insight	Chronicler's Insight (Ex)	1	e1864c31e5c633605aef64699584b02c4b4e2baa80e13522556164a7d44a96f2	multiple-effect-rows
-ref/invtalent/empathy	Empathy (Ex, Su)	1	28ba1969074148c8ed5693a0c0b9a50e7d5b6840071c5fed6c0dca79b4a415aa	numbered-effect-label: Ability2
-ref/invtalent/favored-beat	Favored Beat (Ex)	1	1c99115eaade2a5823ac7d577e6235c109feb0e89b7408f6d16d7bfafb012a30	unlabeled-paragraphs-not-after-effect
-ref/invtalent/the-whole-time	The Whole Time (Su)	1	c051f236691f2174503a909c08fab84baa61bd2156f7a493638adbe29a9de57a	multiple-effect-rows
 ref/kinetic/venom-speaker	Poison Lore (Ex)	1	15d97d65466cf83c4d69aea8134b04df15b730cc5656df66868512e83691537a	multiple-effect-rows
-ref/kipower/high-jump	High Jump (Ex)	1	d4f9bae5496a4b76701317fd27a930ab35ca4c23433719e6641830096786e011	multiple-effect-rows
 ref/kipower/improvised-weapon-proficiency	Improvised Weapon Proficiency (Ex, Su)	1	5212403a030d76ac11975e30aa557977727aacefc23ed7031b2b835afc08118f	multiple-effect-rows
-ref/kipower/ki-metabolism	Ki Metabolism (Su)	1	d065fe99f9bb7404ce60cc5c089e7fa486772c08372150ca75c801bc0987e64c	multiple-effect-rows
-ref/mystery/ancestor	Storm of Souls (Su)	1	e595690e47175b9b09f2efe3ef69e384a3faacb0dd93c83eecdf96c5f520c885	upgrade-keeps-capital: Objects; upgrade-keeps-capital: Objects; upgrade-keeps-capital: Objects; upgrade-keeps-capital: Objects; upgrade-keeps-capital: Objects; upgrade-keeps-capital: Objects; upgrade-keeps-capital: Objects
-ref/mystery/ancestor	Final Revelation	1	66d409c3269dbb6f8c8ca164a94e557d785f962ea5461e6d63a15e6ea1bcb9ee	multiple-effect-rows
-ref/mystery/apocalypse	Doomsayer (Su)	1	9292bc755b13e58ad83387a05e8ebfe75809c60f93b196fecb8b2124b81e71b0	upgrade-keeps-capital: Continuing
-ref/mystery/apocalypse	Final Revelation	1	1d4707213ec37b9c7a2c3c2527082391f60c49d7156fc7ce430006ec7f2958d8	multiple-effect-rows
-ref/mystery/battle	Final Revelation	1	9aff6469023427add0e2aa95906894b0c7696ae8ea4fac6756b7e23a6f6163c8	multiple-effect-rows
-ref/mystery/bones	Final Revelation	1	51f1fd99c9f9375537650b487cadd177ad089e3ed51a030f0baeb57c7d909c5d	numbered-effect-label: Ability2; numbered-effect-label: Ability3; multiple-effect-rows
-ref/mystery/dark-tapestry	Final Revelation	1	422f9a2754ddd16f86822f647a58464e25c9ac4ce235d913924cb89ee03abda1	multiple-effect-rows
-ref/mystery/elemental	Elemental Aegis (Su)	1	6518d9080b532c623996f53701d99b2bcd4db9217479f5e50c6a9cbf3fe9a560	upgrade-keeps-capital: At
 ref/mystery/godclaw	Instant Armor (Su)	1	3788a9614494dbb846f5ef3562a8e70c4bac6420c0b493b0fe4365d0952da7d4	upgrade-keeps-capital: Twice
 ref/mystery/godclaw	Resiliency (Ex)	1	22e4549905f49743961094d9a0d7eeecbb4a03f5132914602d0143cba1d93cff	upgrade-keeps-capital: Three
 ref/mystery/godclaw	Final Revelation	1	db0eb4c38985227953784dc4138e3ad8463cc4fee0984bde4d8c407b3afee0de	numbered-effect-label: Ability2; multiple-effect-rows
-ref/mystery/heavens	Guiding Star (Su)	1	b158acd9cb9b4a1ab83c7743f81d8f45604923c2376f8fe8d6364b760cfc0652	numbered-effect-label: Ability2; multiple-effect-rows
-ref/mystery/heavens	Lure of the Heavens (Su)	1	99122aea52399c42a168f0ba5b64e0df1c1a111c922841d0502bb8ba4fd42dad	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/mystery/heavens	Mantle of Moonlight (Su)	1	794d2424b74dc2203964a46f7a2c8c7d1c8bff98039137c10fdd5c78fb3db25c	multiple-effect-rows
-ref/mystery/heavens	Final Revelation	1	8117aa6246b2d7fd86bfde07b933eb27f44ab9c61f50b59f7c18c1777ac59d0d	unlabeled-paragraphs-not-after-effect
-ref/mystery/juju	Final Revelation	1	9c101fa1da4ab0888cc838ae1dbc0d54d42fadc3774e52b097c6050d75492c0b	multiple-effect-rows
-ref/mystery/life	Healing Hands (Ex)	1	da25f334357720d8391afd206141114286d2b4e205e5be5f217d61e826157cd2	multiple-effect-rows
-ref/mystery/lore	Final Revelation	1	b6a35266ff4b6976a89f61c8c60e295d03918dbafc00a5e48e23f533631fa461	numbered-effect-label: Ability2
 ref/mystery/lunar	Mantle of Moonlight (Su)	1	794d2424b74dc2203964a46f7a2c8c7d1c8bff98039137c10fdd5c78fb3db25c	multiple-effect-rows
 ref/mystery/metal	Dance of the Blades (Ex)	1	5c1a99a1d31c0e9f100643396d34e0eb92c5acf0417e75ac76862f8d40a28486	two-upgrades-at-one-level
-ref/mystery/metal	Final Revelation	1	d5e62f9d0a60d4f5e3dc79136c4343204f55bd00e0db9e3e54780e9081c84258	multiple-effect-rows
-ref/mystery/nature	Friend to the Animals (Ex)	1	0e70c184dc62254a28bf589149f6a098c854b92197f2d26f192a21b87bb05a09	multiple-effect-rows
-ref/mystery/nature	Natural Divination (Ex)	1	f94f650746f258178644838ab7986e62df6a2822836931f5807adf9d66ecfa7e	numbered-effect-label: Ability2; numbered-effect-label: Ability3
-ref/mystery/occult	Spectral Spells (Su)	1	abecbc7707ce0a7c4cbd7610747d33c82788963f6915d7a7eb3a4500f2ea1b17	multiple-effect-rows
-ref/mystery/occult	Final Revelation	1	0c72ef813dac8b95aa25514ba2c257fbf4c968b67462a67f6397f2db9183a2ef	multiple-effect-rows
-ref/mystery/outer-rifts	Balefire (Su)	1	ef2eee0af7258575df8291a75799a96824c7f6ef65a00be9f49ee0efee5a4f3b	upgrade-keeps-capital: Creatures
 ref/mystery/reaper	Death's Embrace (Su)	1	77c77914c4795ad8b6f03db81757cc23de2c083ae032e3f7da9a6a68981f16b1	numbered-effect-label: Ability2
 ref/mystery/reaper	Haunt Channeler (Su)	2	fd2deb47fcad9f29ef28f5c21bedf42189a9038d8af43bbf6d7e3fe824447da0	numbered-effect-label: Ability2; multiple-effect-rows
-ref/mystery/reaper	Spectral Spells (Su)	1	abecbc7707ce0a7c4cbd7610747d33c82788963f6915d7a7eb3a4500f2ea1b17	multiple-effect-rows
 ref/mystery/reaper	Final Revelation	1	f91588049d0dacea58f9c19383c7921f2a2a65af4c82b6be90f6a6c029781c82	multiple-effect-rows
-ref/mystery/shadow	Dark Secrets (Su)	1	c978a22e84a0cef019ce81a252d0844e139d5ccf4393013662d1eb57219b5655	unlabeled-paragraphs-not-after-effect
-ref/mystery/shadow	Final Revelation	1	d1152e6bec00df66ed7b0beed30b8be3f34b3048b0c8f761b73178135086ee74	multiple-effect-rows
-ref/mystery/solar	Luminous Form (Su)	1	81d3c9f72afeeeffa6b4947ed2cc41eaa3ec675c79b5c3e62c1451112a5b8c9b	upgrade-keeps-capital: Creatures; upgrade-keeps-capital: Creatures
 ref/mystery/solar	Many Roads (Su)	1	5f8b325675ac00126dc65dd66f831eb3e8ed479f068bb2656ee24be55d670ccc	multiple-effect-rows
-ref/mystery/spellscar	Primal Mastery (Su)	1	7a7474c6fb25d2140a024f6748b29ad555798d8c55852706fba3c706c609209c	multiple-effect-rows
-ref/mystery/spellscar	Final Revelation	1	b9ac236f28995ffeb3a79a95683a22e47514b33c1c05e0fa839add7e519495ea	numbered-effect-label: Ability2
-ref/mystery/stone	Earth Glide (Su)	1	f8bc0989f62de7e5f49af5c6dfa1889e66d178b5686caaffdc029ea73ad510c5	unlabeled-paragraphs-not-after-effect
-ref/mystery/streets	Final Revelation	1	7aa7b924054de8e7d954089993ee5671cbfbdbb8c22cd78bb9d4aec0f2c98d4c	numbered-effect-label: Ability2
-ref/mystery/succor	Teamwork Mastery (Ex, Sp)	1	184595d28ba0b0ee7c9b185bb4eec0eda33152f1e5d2065e2fa092510d374451	multiple-effect-rows
-ref/mystery/time	Final Revelation	1	cfffb132d5f8fc0ff34e583f4c4984bfa2fea491ca28133bda653b5fc509a035	multiple-effect-rows
 ref/mystery/wind	Wind Sight (Ex)	1	ef2be205a318a160cddd4d80a0e6d270fa56ac134bcd639cb4be98f7ce6d5742	unlabeled-paragraphs-not-after-effect
-ref/mystery/wood	Final Revelation	1	ee5c04cbced2857131633688acc0ee67534b4de0dbdedac04cc61c01d55c24b0	multiple-effect-rows
-ref/ninjatrick/blood-debt	Blood Debt (Su)	1	3feb0b1b6ba151a26a8ddf6938b6b113f818c9f7137915562a57b0824f3df863	numbered-effect-label: Ability2
-ref/ninjatrick/deadly-shuriken	Deadly Shuriken (Ex)	1	5c00585b619944a59c69f33153a54fbc821d46eb1365390a24423d5bd4f0102f	unlabeled-paragraphs-not-after-effect
-ref/ninjatrick/ki-venom	Ki Venom (Ex)	1	89a03180793b5083591e7c2473b36c798bd7cba16f43b5809a5c6cbc56472ae5	action-group-crosses-row
+ref/ninjatrick/ki-venom	Ki Venom (Ex)	1	89a03180793b5083591e7c2473b36c798bd7cba16f43b5809a5c6cbc56472ae5	action-without-one-group
 ref/ninjatrick/many-guises	Many Guises (Ex)	1	5ef825f2a024a11909c7e267b6869ce42faa39cb27a19986b96c4b04e7b16b9c	multiple-effect-rows
-ref/ninjatrick/master-disguise	Master Disguise (Su)	1	9f897245774caeb1c75c1340b6d5fa08c79811656988f5ce50e20ead656df8c1	numbered-effect-label: Ability2
-ref/ninjatrick/slow-metabolism	Slow Metabolism (Ex)	1	e1d2e6bea1bf9a45cb0ad7bf8b6e6aa465b4d2ad92087957068298674828b955	multiple-effect-rows
-ref/ninjatrick/strangler	Strangler (Ex)	1	545f58826f4bd23784fd75c68c059d0d7d2dfe341e20f4558268f6c9fd12714f	multiple-effect-rows
 ref/oath/chaos	Order of Good (Su)	1	546a2ab2e10480f02ef640029d23e845516d41db94abcc90fe9775d7920f6a26	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/oath/chastity	Pure of Body (Su)	1	24b824e1e2dc3f7619a09a748358d8fdd2bc758f2529b9852d46549b71c32bc8	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/oath/corruption	Cast into the Void (Su)	1	6d72ec0bb3198a51311d8a5cb91a5279676cff75bc709881799df1f709784039	numbered-effect-label: Ability2; multiple-effect-rows
-ref/oath/fiends	Anchoring Aura (Su)	1	f5b2e9b7a53481c3f7784013a37c053b766cbc54edf9b15844aa5bf235d6a141	multiple-effect-rows
-ref/oath/grotesquery	Restore True Beauty (Su)	1	da8b47cc057e1477534afcdc2dd5744d43c7be3ea429c3db0b877287999cdfcf	numbered-effect-label: Ability2
 ref/oath/loyalty	Loyal Oath (Su)	1	52ce55b06fd2928806933254b4a648f113c6b2c26f8da67111ad40c4af9db90f	multiple-effect-rows
-ref/oath/the-mendevian-crusade	Anchoring Aura (Su)	1	f5b2e9b7a53481c3f7784013a37c053b766cbc54edf9b15844aa5bf235d6a141	multiple-effect-rows
 ref/oath/the-peoples-council	Stirring Monologue (Su)	1	6bb596d0bf001967090ccfe5e319275c9c6eef9e9ee1b7d19f842d5dc630d811	upgrade-not-above-gained: 1; upgrade-keeps-capital: Inspire; upgrade-keeps-capital: Fascinate](ref/performance/fascinate); upgrade-keeps-capital: Inspire; upgrade-keeps-capital: Suggestion](ref/performance/suggestion); upgrade-keeps-capital: Dirge; upgrade-keeps-capital: Inspire; upgrade-keeps-capital: Frightening; upgrade-keeps-capital: Mass
-ref/oath/the-peoples-council	Champion of Andoran (Su)	1	63702cea0b38dccbb311fba2ba46040209f63c2f370ccede61769746cc2b80fd	numbered-effect-label: Ability2; multiple-effect-rows
 ref/oath/the-whispering-way	Ghost Touch Aura (Su)	1	4232d25993a3c3081affa2c83fbd3472a9877a2311e3134f00bce3270468aa98	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/oath/the-wyrm	Dragon-Slaying Strike (Su)	1	ffbf915e208d770bcfbf6fae4e2ff4d10733415457b42a61e39cccb8e0e1b50a	numbered-effect-label: Ability2; multiple-effect-rows
-ref/oath/undeath	Ghost Touch Aura (Su)	1	4232d25993a3c3081affa2c83fbd3472a9877a2311e3134f00bce3270468aa98	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/oath/vengeance	Channel Wrath (Su)	1	adf200dc55788cb2ba1c1cba523ac06d30cbafc7b91ccb894b85ae0034263f90	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/oraclecurse/cold-blooded	Cold-Blooded	1	d2f0885b082e9dc216cb825b2a6f6e46b7a3a4ad73a0de999366842628f9abd3	upgrade-keeps-capital: Poisons
-ref/oraclecurse/elemental-imbalance	Elemental Imbalance	1	f9c96fefb0729d40ee807112df8c160b7087a3589cb4d07748a84ec5ac86824e	unmapped-action: Benefit; no-effect-row
-ref/oraclecurse/god-meddled	God-Meddled	1	f244d089dcf9e4ee41be8ec47e0b4566cc1616d1321b29c795ad6865bfab679d	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/oraclecurse/lich	Lich	1	7474651dac68c06160a4376342f299e2d3979d5625c16a189ab7cf7071dbe53d	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/oraclecurse/plagued	Plagued	1	cb0d622026e997596c4ded134b715c4fc74782c73a6a123d281397db269f9d2a	upgrade-keeps-capital: Increase
-ref/oraclecurse/tongues	Tongues	1	9e87e580224c11739c8fdd4feee9287cd1c97f2f8c908adc713a82f3d26a23e1	upgrade-keeps-capital: Pick
 ref/oraclecurse/toxic-blood	Toxic Blood	1	86f4f7bb02ae04ca5cc7fc9cc71b66ae0f066251569ce366137ee047f662c761	unlabeled-paragraphs-not-after-effect
-ref/oraclecurse/vampirism	Vampirism	1	fabf0d3b4eb793c06dc2e33b23c4a468609ffb42eb0ec0f4bbe02874d7ec245b	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/order/order-of-the-asp	Indiscriminate (Ex)	1	2afdaaac2395a9455497bd011ebd1f881543e317dc54e6037247035229a1a4cb	multiple-effect-rows
-ref/order/order-of-the-beast-isc	Vandal (Ex)	1	9ea688b621b73d3bac27d1e07e4ecc7bfe37b4b3725b9dfb24a5da74241274e1	numbered-effect-label: Ability2
-ref/order/order-of-the-beast-isc	Havoc (Ex)	1	26863dc0bc0311bd3f4e6aed46d54b1d69198cb1fdc0fba0865a1498a593b06e	multiple-effect-rows
-ref/order/order-of-the-blossom	Curse of the First World (Su)	1	6b0a1ba62b3e8b055f579387832d472a616ef01e762d064593e17a154ea45f32	multiple-effect-rows
-ref/order/order-of-the-blue-rose	Shield of Blades (Ex)	1	1960c9568cf152da3a126a513f91176ffcf480445a7148a5f0c04e05874ca88c	multiple-effect-rows
-ref/order/order-of-the-ennead-star	Oppress (Sp)	1	42262732614b0ffa8b321296136960e3b5837c4f8be0843eb570df509d6f7a80	multiple-effect-rows
-ref/order/order-of-the-ennead-star	Subjugate (Ex)	1	8f064a3a17aff8bced38dffe4a986e462f4577c342cd32209b809e84cf2e21ad	multiple-effect-rows
+ref/order/order-of-the-ennead-star	Subjugate (Ex)	1	8f064a3a17aff8bced38dffe4a986e462f4577c342cd32209b809e84cf2e21ad	action-first-pair: print decides the order
 ref/order/order-of-the-green	Favored Terrain (Ex)	1	ecf163147a7b5f38c576da3d0678cd2477a21a214f9998c0f5dd05639138fcd6	no-effect-row
 ref/order/order-of-the-hammer	Mighty Bash (Ex)	1	a2bde8a869996e6fdbdba79ba0a7befb5a9caddc1229c0841a977c7875b933aa	multiple-effect-rows
 ref/order/order-of-the-hammer	Unarmed Strike	1	64c752ab91471761bbfc4e49c7cf6ab805cc13f54cfb1724351a32a4a9fc9ee0	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/order/order-of-the-land	Adaptive Strike (Ex)	1	2f9976ab619c8e42705449e5f9a829bc9bcf66027205f1686e6b17d6735a9d3e	multiple-effect-rows
-ref/order/order-of-the-lion	Shield of the Liege (Ex)	1	39f4094f7b631287c913afaaaa9c137441135159d88b50bd072dfb6d1b0ceeca	multiple-effect-rows
 ref/order/order-of-the-scales	Mobile Wall (Ex)	1	b8a87847d044e5ad53780d18f71183b5cc57bdcc4d48df2db38f5dc3a5fcc0b8	multiple-effect-rows
 ref/order/order-of-the-seal	Keeper (Ex)	1	55f81fd85e566b86f56075c897cb7490275b3bfd4a69512208d9ababe7b75915	no-effect-row
 ref/order/order-of-the-songbird	Versatile Performance (Ex)	2	acec1e66b5238d53c25406ccab467e710558675475e50325953d10548f21182a	unmapped-action: Choice; no-effect-row
 ref/order/order-of-the-sword	By My Honor (Ex)	1	b2addb55c38be54931e3be9e3d0cd5435a228a7da7cdca2b41e5d6c6de7f4966	no-effect-row
-ref/order/order-of-the-sword	Mounted Mastery (Ex)	1	c53097733305115ff9e254a35f809d58df0dc9347ea458462f584147f936630c	numbered-effect-label: Ability2; multiple-effect-rows
 ref/order/order-of-the-tome	Specialized Knowledge (Ex)	1	cc1c6323bd5fe35a71f8f3bc1176025795487da709626311f890a53ece4c0235	no-effect-row
-ref/order/order-of-the-tome	Powerful Knowledge (Ex)	1	60b2b2d675c30490a7a583b29d1c2eea3410de0382fda98d09c261a1957faaf5	multiple-effect-rows
-ref/order/order-of-the-tome	Defensive Knowledge (Ex)	1	75d0e72e69834f004ecbc2edfec7baba4833d6db24a07c0a934ca6195e6b7375	multiple-effect-rows
-ref/order/order-of-the-waves	Waverider (Ex)	1	3cd341d0610782b0335ac3444b632852a10f9b082464adfa5cc765d01d5fb961	multiple-effect-rows
-ref/order/order-of-the-waves	Explore the Seas (Ex)	1	abe7d312f9df2cb5658ab6a9e9def2b9df8da75f45ca7114a5b32ea8c31d7cca	numbered-effect-label: Ability2
-ref/order/order-of-the-whip	Whip Crack (Ex)	1	cef1f7728889f5cec472418623119af08d9d6cff9ec21c812d5ea8c5d1d647ce	numbered-effect-label: Ability2
-ref/order/ronin	Chosen Destiny (Ex)	1	362249c92edefee20284868fac13ca4c6ce97b2c1483e19a22e2c2381efd89a9	numbered-effect-label: Ability2
-ref/patron/celestial-agenda	Celestial Agenda	1	f8c9f4582f907527c72487a237bcdf2c9b6444ead4edf120d871c7536027ed2b	multiple-effect-rows
-ref/patron/empath	Empath	1	bbb659900efd9f2f16aef065c4256cf9fc3a6e73358ad4ed290b6e7eaa9feb14	multiple-effect-rows
-ref/patron/fey-gifts	Fey Gifts	1	59a560917ea7bedf1302ca4fe67e36d8fb15adcf9e4d5e79f5c672c29707fad6	multiple-effect-rows
-ref/patron/green-whispers	Green Whispers	1	a3de673f9d8adc028d43a408e132b95c47a1fb4a81686125c947d4ff277365a5	multiple-effect-rows
-ref/patron/hags-calling	Hag's Calling	1	06f90130e70a55c1b62819091a3290dd553013dc53f982dc4601b078be85a708	multiple-effect-rows
 ref/patron/infernal-contract	Infernal Contract	1	3ab281d071ea2102b61096e2cf748ca8b95aa8df840851ef0269f60dc99e381f	multiple-effect-rows
-ref/patron/shadowbound	Shadowbound	1	9c3bc8cb1effd5662a52e33667ba7bd7a3c929f3bd2b819dcbbf447cc789861e	multiple-effect-rows
-ref/patron/the-condition-of-all	The Condition of All	1	9d4d2d9751b02995cfebed1d8491302bd476cbb1340a59d36205c5b750c59193	multiple-effect-rows
-ref/patron/touched-by-the-outer-gods	Touched by the Outer Gods	1	d9bafcea74c860a0aed5f215132e98d541263100e82011e51cc66d82cc345877	multiple-effect-rows
 ref/performance/countersong	Countersong (Su)	1	acb05221f0f0c3f954054eeb866783337aeef8c58f4ba1fa8f919028b75e9465	no-effect-row
 ref/performance/deadly-performance	Deadly Performance (Su)	1	eedd17cc9e18ccd14dd9f88a36aab1f17e7a467653b4e85332823e77580d5433	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/performance/dirge-of-doom	Dirge of Doom (Su)	1	21eeb7925d5833bd2a516170961a0405de9cc779160ec3790de7e79c5f88d894	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/performance/distraction	Distraction (Su)	1	a3163993f6ff751221712a567394e303d99c4fd82e3a624e6524234e7ecf9c88	no-effect-row
 ref/performance/fascinate	Fascinate (Su)	1	3ac82a9a98ee4752a9bc36de5555e197b42a78c51c6948fa3d8b1361310d4279	no-effect-row; upgrade-not-above-gained: 1
 ref/performance/frightening-tune	Frightening Tune (Sp)	1	bd4ef535ec9f0de3b31fa82a6646d636b6e950308026ab73076ee1b81097d7c1	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/performance/inspire-competence	Inspire Competence (Su)	1	232bd9362b9dcaf9209210bcbb64e310a354b02d47b1c363d753907e1971a321	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/performance/inspire-courage	Inspire Courage (Su)	1	98e514f04b9e948ab2535a16f1809740a2aba9ec682117eb2049bb383e4ad3b1	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/performance/inspire-greatness	Inspire Greatness (Su)	1	e55f559dc0d84166e411430bfff84bc79a48eb6374f13c35fb6115dab0dfa370	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/performance/inspire-heroics	Inspire Heroics (Su)	1	7d36bb5e7250f5e84eeab82f8a620db889be6d2f242cbe0c8f399e9d57182005	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/performance/mass-suggestion	Mass Suggestion (Sp)	1	2e53eea09569f605cac9c52aa7104520244ccf49225816b21547dfe480598e0f	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/performance/soothing-performance	Soothing Performance (Su)	1	ac1597d94c340d42de62b437fc0f45bb7f91be2141b1419ba2720903284cd1f2	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/performance/suggestion	Suggestion (Sp)	1	b190136bdfce8d6a938cd7044dedf573aa9fe4f9c429e14249f938146149f361	no-effect-row: suggest the lowest upgrade as Gained level and base effect
 ref/phrenicamp/mimic-metamagic	Mimic Metamagic (Ex)	1	39d436b8f9200533b6ef73b9dfc6a2a0f7f7d861ab76a7bc80e7b3908f967d9e	unlabeled-paragraphs-not-after-effect
-ref/ragepower/dragon-totem-wings	Dragon Totem Wings (Su)	1	42e552d97edd63004170ba5b9a04ac68d1ed2791dfd2fc5e4650211e042d2fd0	multiple-effect-rows
-ref/ragepower/greater-ancestor-totem	Greater Ancestor Totem (Su)	1	3251977b26011c0c1935ea8940531db66110e2b495e8c6d1041487a38b7d300e	multiple-effect-rows
-ref/ragepower/hive-totem-toxicity	Hive Totem Toxicity (Su)	1	f7980c570dc06d2e488af4fc6c2e0788df34381b0131915f40f621cebe7ad187	multiple-effect-rows
-ref/ragepower/penetrating-bite	Penetrating Bite (Ex)	1	4646c32271e7d5531b571342af7af1deba940089ab30ccb4457cb9cc02ede5a8	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/ragepower/renewed-life	Renewed Life (Ex)	1	e68208287bf3d1cc6e49e4e9f9d9f4ae575924db9d765aca30959ddf5001b9eb	multiple-effect-rows
-ref/ragepower/renewed-vitality	Renewed Vitality (Ex)	1	6163c692f857b9fb2bfcdd9cef30a05572065419e683f9394147140737ad0bf9	multiple-effect-rows
+ref/ragepower/greater-ancestor-totem	Greater Ancestor Totem (Su)	1	3251977b26011c0c1935ea8940531db66110e2b495e8c6d1041487a38b7d300e	action-first-pair: print decides the order
 ref/ragepower/savage-dirty-trick	Savage Dirty Trick (Ex)	1	d68f1c131dca7b58519f520c693834977f351e6c4950cf3a9fc71a1e2906a5c9	action-group-crosses-row
-ref/ragepower/unrestrained-rage	Unrestrained Rage	1	5ebd88520aebe9438f058482dea20b365c3cbd4f0b403a7cb858f9508cc4d086	multiple-effect-rows
-ref/shamanspirit/ancestors	Manifestation	1	ac9bf9636316231ed440153031fc2c48342078bf4377821d58e5e165a2a8dbb6	numbered-effect-label: Ability2; multiple-effect-rows
-ref/shamanspirit/battle	Battle Spirit (Su)	1	b22f7e7c1d1be59350e82368716504a7322c6b98e79599bcb10bf13c78c6b114	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/shamanspirit/battle	Manifestation	1	bea8987222d5f588a34a4e9de6251428fe29f7718fb4676c261850e5b49cbe3c	multiple-effect-rows
+ref/ragepower/unrestrained-rage	Unrestrained Rage	1	5ebd88520aebe9438f058482dea20b365c3cbd4f0b403a7cb858f9508cc4d086	action-first-pair: print decides the order
 ref/shamanspirit/bones	Deathly Being (Su)	1	0a67cc3ff5b219e3c63134c2ff31c2901959f3090402decd0f05f67675cbee2e	unlabeled-paragraphs-not-after-effect
-ref/shamanspirit/bones	Shard Soul (Su)	1	4f0c1367fee3f0887151c557db805edcb772befe19d4e577da94dd720c5ce19a	multiple-effect-rows
-ref/shamanspirit/bones	Manifestation	1	01ec3ce00864c5af4673ad6a8d491e8f034cb6382113be3d37f7caf7af97b36e	numbered-effect-label: Ability2; multiple-effect-rows
-ref/shamanspirit/dark-tapestry	Horrific Glimpse (Sp)	1	5e90c90d283f14805d663c5b841344ceac44987906b525e8e10995be955f263f	numbered-effect-label: Ability2
-ref/shamanspirit/dark-tapestry	Manifestation	1	529110f5da9475ea70dc6803523bda4bacd28d4a7f217311ad742e5d2b42f2c2	multiple-effect-rows
-ref/shamanspirit/flame	Fiery Soul (Su)	1	ae6fb6f4118bd74140b48f9efd5d6791cc5480a1bbe9bba372d88299761e3a37	multiple-effect-rows
-ref/shamanspirit/flame	Manifestation	1	c8c3fd0bfd21421f89cf173369c16e0796540845813418febadf45a878e72965	multiple-effect-rows
-ref/shamanspirit/frost	Frigid Blast (Su)	1	77849c9391b1c781c97e6af88fc3a40ca2e6134c05e94f1c2e2238f1794d3bbc	multiple-effect-rows
-ref/shamanspirit/frost	Manifestation	1	e9fa624f833a064a9646b1f258238190eead86236668b3e72be9e5c3cf621eef	multiple-effect-rows
-ref/shamanspirit/heavens	Guiding Star (Su)	1	8abdcbeb4808a355cd9363d99bbe4ac2d325b9978c99218b9b80038b1ac5d2d1	numbered-effect-label: Ability2
-ref/shamanspirit/heavens	Lure of the Heavens (Su)	1	ece155d59731272bf4a69069931b26fff2a681523179e4a24bf55686b758bc51	no-effect-row: suggest the lowest upgrade as Gained level and base effect
-ref/shamanspirit/heavens	Spirit Animal	1	44c48533d2959aff3b68fe9fd3f135ee29613331d9b2263137dd1e61a36718fe	multiple-effect-rows
-ref/shamanspirit/life	Healer's Touch (Su)	1	40544d2bbb5b67d0f28e6963ffa83b8c5237b5ee9057e70bc639370d7a485d72	multiple-effect-rows
-ref/shamanspirit/lore	Manifestation	1	fff88d637c8ba285289762b49e441baf4a15cae1265c8cc0f52eb3121fa9327f	numbered-effect-label: Ability2
-ref/shamanspirit/nature	Friend to Animals (Su)	1	2d6d8dfbb2632408c75d914cf7fec0397cde7face20852878eb191ecb40868ca	multiple-effect-rows
-ref/shamanspirit/restoration	Healer's Touch (Su)	1	40544d2bbb5b67d0f28e6963ffa83b8c5237b5ee9057e70bc639370d7a485d72	multiple-effect-rows
-ref/shamanspirit/restoration	Spirit of Life (Su)	1	09d75c7a81be61e998f63aa345c62f02b525d57005dca078349a18616f66439f	multiple-effect-rows
-ref/shamanspirit/stone	Body of Earth (Su)	1	608e971cc1159fadf8ab1dd0f29261f25ebd39ac82c6d6040fd1b8baae5e855c	multiple-effect-rows
-ref/shamanspirit/stone	Manifestation	1	f0a3ead447afd8a6cbaff740c032891ba51d43b6cf418015ee26c1f4de0bfad5	multiple-effect-rows
-ref/shamanspirit/tribe	Guardian of the Tribe (Su)	1	ef9181d748ff6a313e3292c3fbda3538d9e87f135910ef1de8c8865871bf8c1c	multiple-effect-rows
-ref/shamanspirit/tribe	Manifestation	1	eaa2278bfe256e83517eaa688608cdf531dc3fa585eb0700d2c117d63ee3a41b	multiple-effect-rows
-ref/shamanspirit/waves	Fluid Mastery (Su)	1	a30483b23791b522a158f499d630e75fe3ad588cded1bea2cb8ecc141c26593f	multiple-effect-rows
-ref/shamanspirit/waves	Manifestation	1	48b58aad23aad5323966026a1233a748e47add29a6e6b567510a015c7e50ba25	multiple-effect-rows
 ref/shamanspirit/wind	Wind Sight (Su)	1	e489c0d8bce369a695dd52da76bd23a0baed5702b037c05cde46949472b1909b	unlabeled-paragraphs-not-after-effect
-ref/shamanspirit/wind	Spark Soul (Su)	1	1b96509b9a512798f7772dfb838c93c568d19976a83082ebae93f54f527a9896	multiple-effect-rows
-ref/shamanspirit/wind	Manifestation	1	b2fd0d4bfcb1103bd307019ad764324f3c8ec5a2379965b948607384b72b8133	multiple-effect-rows
-ref/shamanspirit/wood	Manifestation	1	301cc3a9d1662efb84a0bfe8609088d4c64b0e10dafbf009f8c8bdafb34ad737	multiple-effect-rows
-ref/slayertalent/rogue-and-ninja-advanced-talents	Rogue and Ninja Advanced Talents	1	4979a50eb145bcc8e7a2d7956ee8ca9d4664535440b96a29484f95d1e3e65cbb	action-group-crosses-row
-ref/slayertalent/scrying-familiarity	Scrying Familiarity (Ex)	1	239a3a842ef11a59fc4c7d39bf5c9873bbe2eedfb366f0562031b3b73ff95fde	multiple-effect-rows
-ref/soctalent/celebrity-perks	Celebrity Perks (Ex)	1	d277aca726aa10d7ead8f57e0ba58d2bcff69427dc5dd924d8bc9f37334aba53	unlabeled-paragraphs-not-after-effect
-ref/soctalent/many-guises	Many Guises (Ex)	1	e677ae4882d4bc4aea1c55935316e1ff5bd3374609128c207d540bcae270691e	multiple-effect-rows
-ref/soctalent/renown	Renown (Ex)	1	7edbcdaf5267e67d5ff4b2bea55744d0cc9e7a0fe2f62b008f4dfe3e707567ae	action-group-crosses-row
-ref/sorcbloodline/abyssal	Demonic Might (Su)	1	5c6e8ab090db80c6ca8bd76dd327b490f1eb241463cef8ef630eeb499e6deb0d	multiple-effect-rows
-ref/sorcbloodline/accursed	Bloodline Arcana	1	9654c5dcfada8c5a5550cd19a41ba2988bc5315b62d7f40102c56aad49b72712	multiple-effect-rows
-ref/sorcbloodline/arcane	Arcane Bond (Su)	1	6ba465ecef4668df363f9f4934939d5ba6469063f00737ae1783d343f1b8c0ad	numbered-effect-label: Ability2
-ref/sorcbloodline/arcane	Arcane Apotheosis (Ex)	1	8ffc72ad5fc42fadb5c1740fbfcf9d1dd7f91848dd2ce77b86e936904cf9f88c	numbered-effect-label: Ability2
+ref/slayertalent/rogue-and-ninja-advanced-talents	Rogue and Ninja Advanced Talents	1	4979a50eb145bcc8e7a2d7956ee8ca9d4664535440b96a29484f95d1e3e65cbb	action-without-one-group
+ref/soctalent/renown	Renown (Ex)	1	7edbcdaf5267e67d5ff4b2bea55744d0cc9e7a0fe2f62b008f4dfe3e707567ae	action-without-one-group
 ref/sorcbloodline/arcane	Replacement Bloodline Arcana	1	7984868f01b36e421f1bf0e29e0d9b9348b9a779c7067230f9ccd54931c13d89	multiple-effect-rows
-ref/sorcbloodline/astral	Timeless Soul (Ex)	1	8f478a56e39ddd6424d9eb0357923576364192b7fff0fadd0aa6a1beed99ea46	multiple-effect-rows
-ref/sorcbloodline/boreal	Snow Shroud (Su)	1	bc1da6db223bb2f7a37f415372561fc1e43a648465e2a2e03599eb160ed18a10	multiple-effect-rows
-ref/sorcbloodline/celestial	Ascension (Su)	1	3a1b458374e266c92c126b0c9d68d9b4382d13f598a708cf52dacd84aeb355bc	multiple-effect-rows
-ref/sorcbloodline/destined	Destiny Realized (Su)	1	a795eea5293caa08b10110c2e8afbc922528fc8a608ded2661464a3c3e4cfbe1	multiple-effect-rows
-ref/sorcbloodline/djinni	Power of the Djinn (Su)	1	0bf813866460620e93a20a0fba5e9f52f1315057e445c902cfa0a97880e9c9fa	numbered-effect-label: Ability2; multiple-effect-rows
-ref/sorcbloodline/draconic	Power of Wyrms (Su)	1	ea0d5e5887559256a735d98662ab1d3b48a8307f674ef7d6d3cc2d517107fcb5	multiple-effect-rows
-ref/sorcbloodline/efreeti	Power of the Efreet (Su)	1	9ceb2280135823fbf17d6bac202306e5d123c41443f17c037a169f2307b82565	numbered-effect-label: Ability2; multiple-effect-rows
-ref/sorcbloodline/fey	Soul of the Fey (Su)	1	9500295f6d8d7e36ff389a4cc14f35def795cd6ca2bc501ada6b1c63b6ca54f6	multiple-effect-rows
 ref/sorcbloodline/ghoul	Ghoulish Claws (Su)	1	b5d1dbd65a2120ede59420b264b296b35049fb9a408fcd07fb8436663ca642c9	unlabeled-paragraphs-not-after-effect; upgrade-keeps-capital: Creatures
-ref/sorcbloodline/harrow	See It Coming (Su)	1	26cfd825459c43c87abdc01ac95e2d060a4bc3561ca4189437bded06c98f4e7b	multiple-effect-rows
+ref/sorcbloodline/harrow	See It Coming (Su)	1	26cfd825459c43c87abdc01ac95e2d060a4bc3561ca4189437bded06c98f4e7b	action-first-pair: print decides the order
 ref/sorcbloodline/harrow	Kin to the Old Tales (Su)	1	d8d2f56995826d34686be891bc19914ccc3cf8f50d24920a254c0e45f0ac693c	multiple-effect-rows
-ref/sorcbloodline/imperious	Heroic Echo (Su)	1	fc2297630989d11679e4c7ca0a0459916af61848946f18ecf4b75be026e5b872	multiple-effect-rows
+ref/sorcbloodline/imperious	Heroic Echo (Su)	1	fc2297630989d11679e4c7ca0a0459916af61848946f18ecf4b75be026e5b872	action-first-pair: print decides the order
 ref/sorcbloodline/impossible	Spontaneous Generation	1	1b66cf80b4e34787a71c766332c62ef3988551810ace3c3d2560b4a5958b4adf	multiple-effect-rows
-ref/sorcbloodline/kobold-sorcerer	Nimble Walker (Su)	1	675926f8517059f7a93d3a5e009dda1fba8d9b92bbafdf1d2daeb563d457424d	multiple-effect-rows
-ref/sorcbloodline/maestro	Perfect Voice (Su)	1	3b8afc5c60602031a7db66662f50712286c3f7f1b6cd7aba4a15229e6572c6a5	multiple-effect-rows
-ref/sorcbloodline/maestro	Grand Maestro (Su)	1	48cf56c19edcc4d9f058f87a00856e8b9139bb760b46ff58f2daff50f3f6edee	multiple-effect-rows
-ref/sorcbloodline/marid	Power of the Marid (Su)	1	11d01c841e0ceed27bdbb91bde8327815274e9be049e422b71ae7689216a2348	numbered-effect-label: Ability2; multiple-effect-rows
 ref/sorcbloodline/martyred	Sacrificial Exchange (Su)	1	b2ebfcacd777153081d60c724d9da54169a1c7f849e4f9893bac9aaf54f299eb	unlabeled-paragraphs-not-after-effect
-ref/sorcbloodline/naga	Power of the Naga (Su)	1	aba70a517511ee959d24fdaf15930ade120f737ab9ae929b8075c22bab30ab9b	multiple-effect-rows
 ref/sorcbloodline/nanite	Nanite Strike (Ex)	1	53d2aef137a6dceca28a3950226de3615a356f723939df72eaeda6990a3f79ec	action-group-crosses-row; upgrade-keeps-capital: Weapons
 ref/sorcbloodline/nanite	Living Swarm (Su)	1	f7793f66fb451fe7cbaf5c537ea07ce11c4ec687c6d238243b5d782cc042f9c4	multiple-effect-rows
-ref/sorcbloodline/oni	Hedonistic Master (Su)	1	c1084c6a691b656dbc8483d823540169ce4f0475bb1dcba918177189964a0f6e	multiple-effect-rows
-ref/sorcbloodline/orc	Bloodline Arcana	1	0c44064feaf1941c639fb1f1bf1f610cb8fc0d15584c63da3a843b5ecfbe5557	multiple-effect-rows
-ref/sorcbloodline/orc	Warlord Reborn (Su)	1	8e74abf5b1b30d232cf85e46b4b596439f849f0d77face12af1c42cdeba0d8d1	multiple-effect-rows
-ref/sorcbloodline/pestilence	Shroud of Vermin (Su)	1	0f54b89607c50087850014c8ab822a50935c07b6f817984cde9fedbbf6f8e9ad	multiple-effect-rows
 ref/sorcbloodline/pestilence	Pestilential Breath (Su)	1	e469cdc329253b771fd488dc02283802d99074a192a69b7f7e1febd3c98ca8f8	unlabeled-paragraphs-not-after-effect
 ref/sorcbloodline/phoenix	The Unseen World (Su)	1	cfca6d35f812628307e5db8045525445502f1e0697dd3b877c2810b2b4bee364	no-effect-row
-ref/sorcbloodline/rakshasa	Outsider (Su)	1	2255dee9f32e2f40278a6c53f0b97c874e279533d55d22bcd6d7712e79425d69	multiple-effect-rows
 ref/sorcbloodline/scorpion	Progenitor's Sting (Sp)	1	6d0d74fd1e2eee7e0cdf564f649adc3c95ecac2a645879368de5bf2e5d494137	action-group-crosses-row
 ref/sorcbloodline/scorpion	Sudden Sting (Ex, Sp)	1	77f31743a2c080b71131541982f9d80651158455b734bf88b6ddabf28fd43056	numbered-effect-label: Ability2
-ref/sorcbloodline/serpentine	Serpent's Fang (Ex)	1	56b6293f365702a12e3104ef5909eb5017a3cdd474d8d8a7a0d2127307c71dd0	unmapped-action: Free Action=; no-effect-row
-ref/sorcbloodline/serpentine	Serpentfriend (Ex)	1	eb8b60362c621ab9e1e1d467c5f831130972b654b7cff0763dda5c3178eb82f4	numbered-effect-label: Ability2
-ref/sorcbloodline/serpentine	Scaled Soul (Su)	1	a86810f7edd0d9f66701e7429485e32432a0b559e20859d31cd01feaa9126e56	numbered-effect-label: Ability2; multiple-effect-rows
-ref/sorcbloodline/shadow	Shadow Well (Sp)	1	543d8cbec802dcb5b0ae940869b847ed88a629169e44aeb9c7e4f51f718177e6	multiple-effect-rows
-ref/sorcbloodline/shadow	Shadow Master (Su)	1	a058052f328afd3e8f05a8239a5e82e70658d481fb265ec92f05d4f566a14e45	multiple-effect-rows
-ref/sorcbloodline/shaitan	Power of the Shaitan (Su)	1	fe29ee7c453e780d863de7b24bd46e98ca5508f891efaeec77b7c050647d6d37	numbered-effect-label: Ability2; multiple-effect-rows
 ref/sorcbloodline/shapechanger	Vortex of Flesh (Su)	1	a166327eebfc7eb564975053fcbcafac37bdf4b1742fd88e5d77737f8b655abe	unlabeled-paragraphs-not-after-effect
-ref/sorcbloodline/shapechanger	Superior Transformation (Su)	1	7f84aa34577a50a55ddc0409e8969f5529d07bd5c67f11571630b17f9dbeb237	multiple-effect-rows
-ref/sorcbloodline/shapechanger	Amorphous Anatomy (Su)	1	de27b169eebc468f2358acb76b6507608558c1e4f172650eedb70a63cff5c50e	multiple-effect-rows
-ref/sorcbloodline/starsoul	Breaching the Gulf (Sp)	1	4e0b7c0021ee8743cdae47ca61c12b503e620e6bf393aaf6d49d62cd41fdae8e	multiple-effect-rows
-ref/sorcbloodline/stormborn	Storm Lord (Ex)	1	5a0584f198813dd1b3e4e5cc58a634b7c93779b80c8d2607ce53129cb3a94b9d	multiple-effect-rows
-ref/sorcbloodline/unicorn	Blessing (Su)	1	84d44e60597ad509edc6dc69c5713ed5039be6a67ac9146e743526763997daeb	multiple-effect-rows
-ref/sorcbloodline/verdant	Shepherd of the Trees (Su)	1	7a353147386080d5283bb326fbe12b0ba32111a4f1d51ddef36906e1758d15a3	multiple-effect-rows
-ref/sorcbloodline/vestige	Restored Glory (Su)	1	6fc6c01dda71b71c28f4ffc8d89b7ef6a4b009850d12834788cc6bbdfc8840b6	upgrade-keeps-capital: Destroyed; upgrade-keeps-capital: Destroyed
-ref/sorcbloodline/vestige	Call Ancestor (Sp)	1	c377108840ba90ad22538189fda0d0084bccbc4ed77e4df6e55cbf383701f540	unlabeled-paragraphs-not-after-effect
-ref/spirit/ambras-imre	Apprentice Poisoner (Su)	1	7f17becab619e9fea526e602ad2896e28158f135c3cb2ba856b9ff642e233afd	multiple-effect-rows
-ref/spirit/angel	Protective Aura (Su)	1	082d50eec0294b02dfcbaec0ad22565f0da6d435b5365375d1188caa040ab42f	multiple-effect-rows
-ref/spirit/archon	Teleportation (Su)	1	9225987d186effda94af711a9f01570f9d174f8167d4c3a3b4466fdf557432a5	numbered-effect-label: Ability2
-ref/spirit/arnisant	Arnisant's Shield (Su)	1	9e0ad1cb670e0213f65f17745d3af70b617bc59d368b077a321a075594a93f56	numbered-effect-label: Ability2
-ref/spirit/azata	Slip the Surly Bonds (Sp)	1	d7d3aa27ff11b17ed4e046aa124cbdc426da2c38e7da6f3e186135112d094ed0	numbered-effect-label: Ability2
 ref/spirit/beldam-i	Princely Humor (Su)	1	b86334838c5144c235a55a2945ea08d89d5b5ea6f9fad89bb33f20db857274b9	numbered-effect-label: Ability2
-ref/spirit/butcher	Bloodletter (Ex)	1	b991c4efad8bea9b2379a8fb9163e5450d150c0d25628fd080b660600887d0ef	multiple-effect-rows
-ref/spirit/deceiver	Shift Blame (Ex)	1	accff7ec6f832203ea308aaa69fb43e3ae5946c0a343b1a54f598fc526e456c0	numbered-effect-label: Ability2
-ref/spirit/father-of-legends	Saga of Future Kings (Su)	1	1bc407018fa3141183fafa41e21e76a52adbdb0050ccd3ac30ddc1d59c3b98f0	multiple-effect-rows
-ref/spirit/guardian	Absorb Blow (Su)	1	59d1dcf945d42219e989d76f637ac92997a72b8c013578fafa0184d859a76264	multiple-effect-rows
 ref/spirit/hierophant	Overflowing Grace (Su)	1	62b3693907be3c415cbeeceb8c6fddeac62c19979716600136b29d33b62fe4c5	numbered-effect-label: Ability2
-ref/spirit/nex	Personal Spire (Su)	1	75672adeeb923030c959b4d62ed433f7f4f530a90f0f33c0a621101227827e2f	numbered-effect-label: Ability2; numbered-effect-label: Ability3
-ref/spirit/psychopomp	Spirit Touch (Su)	1	c233a8f6f688b564fe2a229abf514f90ef2dfa3d86ead3e1afda1ce1b76ff63d	multiple-effect-rows
-ref/spirit/sulesh-the-great	Master Summoner (Su)	1	917ceba85b9f09ae0dc341243bd2fe7694bed2170f32fbdd270e0aa852f3eb9a	numbered-effect-label: Ability2
 ref/spirit/taldaris	First Emperor's Order (Su)	1	91cda435ead14c349756dbca40569717ffad60aeebaad6afe80e7f6cf3274887	multiple-effect-rows
-ref/spirit/terminator	Bloodless (Su)	1	2dfe6857746cd514c81f7882d4dedd031d9216b6dfa04ba30c21cc5f9e845dc2	multiple-effect-rows
-ref/spirit/trickster	Legendary Trickster (Su)	1	98b71ab02df1139921ddf637c0550c40421ec468b4c241979e1d08751bafa2f0	numbered-effect-label: Ability2
-ref/swashdeed/opportune-parry-and-riposte	Opportune Parry and Riposte (Ex)	1	cfabf71e321beb3f973854bc48218f6346705251aae393f0367231d4fbfd8656	multiple-effect-rows
-ref/swashdeed/precise-strike	Precise Strike (Ex)	1	4677845671b93206e30533bf8ce3cce1797348eb7c01ea82f114f38843975df6	multiple-effect-rows
 ref/talent/bomber	Bomb (Su)	1	14f59ea1fb8b400d22e33f822ca741f2d60e8f2c18e4f37382be40418c6c5702	unmapped-action: Info
 ref/talent/combat-swipe-unchained-rogue	Combat Swipe (Unchained Rogue)	1	b0e61a1fc50830bb277721acf9d382abcb411ed3b74aa2d5714e1895a4d6cb69	unlabeled-paragraphs-not-after-effect
-ref/talent/escaping-stunt	Escaping Stunt (Ex)	1	0680615724f41c129f2959b9310785179a2af37066e11e646e4d5894d59c9197	multiple-effect-rows
 ref/talent/expert-cypher	Expert Cypher (Ex)	1	ae33a6ee34ac248bce3ed16452f04662f35d6b609174cc654b3a4c7d27e5ebe0	numbered-effect-label: Ability2; multiple-effect-rows
-ref/talent/extinguishing-strike	Extinguishing Strike (Ex)	1	72741f9e7b5a18b36ef4400c1d8b2af3fb9def91891fe5d7327abbd2971ee4be	numbered-effect-label: Ability2
-ref/talent/ki-pool	Ki Pool (Ex)	1	7112ef34e3c1901c3d613af3d482c6f5701c73353ae5d2a4dd559bdff0c2ff94	numbered-effect-label: Ability2
-ref/talent/occult-dungeoneer	Occult Dungeoneer (Su)	1	e2761d23b309b1286862ea56c3f68538c4a01f4f45c42fb2635c5d7476968244	numbered-effect-label: Ability2
-ref/talent/shrinewalk	Shrinewalk (Sp)	1	80f9a7133dc52747522c53cd20115f9b058bec6b88663d5350484cc9d960052e	numbered-effect-label: Ability2
-ref/talent/thrill-of-the-chase	Thrill of the Chase (Ex)	1	c471f28ad5ad0c166ae1168204e4e07f76fc022d521d64e9593aa2547d61775f	numbered-effect-label: Ability2
-ref/talent/toxic-regurgitation	Toxic Regurgitation (Ex)	1	a42a23c62afe97fb5dec48b0e63027bc3ab7c0ff4ea7e98b9c442022049d718f	multiple-effect-rows
-ref/talent/umbral-gear	Umbral Gear (Su)	1	5482826208f1212e2fa865b4cfd08098cfb8b00d5b06829899566512243a7967	action-group-crosses-row
-ref/talent/underhanded	Underhanded (Ex)	1	d0e25e6be36523a4c2e42c951d66b55638ea60ddd6ca5d836c00f950022f54e8	multiple-effect-rows
-ref/talent/unlock-ki	Unlock Ki (Su)	1	69f3cc8be4b68931cdd78d8611073dd8e3f5d545390e98d33707374a760eb00d	multiple-effect-rows
-ref/trick/cursed-sanction	Cursed Sanction	1	13a8d645d5ebdd86482dfc3d2d4107c711b344527e3bafce049d9905de94c616	multiple-effect-rows
-ref/trick/slip-bonds	Slip Bonds	1	05d6ff74723ccfa6e2af52090bbd45f4a78d83925719062ccad8ba8112412d9e	multiple-effect-rows
-ref/trick/spell-anticipation	Spell Anticipation	1	6d33bfb7a3578022255bc14324ddf0df0b61a0b86e0ddd482d1c258391f5ec86	numbered-effect-label: Ability2
-ref/unchevolution/claws	Claws (Ex)	1	50831689d4c19aa3285a0b4b3249163dfa49a15f547eb0ea51cad240f74e375f	unlabeled-paragraphs-not-after-effect
-ref/unchevolution/flight	Flight (Ex or Su)	1	290aa93d7246968086fb7978d790cefa7d9d94b54553b36eb248f8f99c5ba941	numbered-effect-label: Ability2
+ref/talent/umbral-gear	Umbral Gear (Su)	1	5482826208f1212e2fa865b4cfd08098cfb8b00d5b06829899566512243a7967	action-without-one-group
 ref/unchevolution/large	Large (Ex)	1	c22504fd908bbbb01e4887a044ac7e94c4d16f5f7be02b7454bea9d392a25cb5	unlabeled-paragraphs-not-after-effect
-ref/unchevolution/poison	Poison (Ex)	1	43f30078ab7c1a5db13d257c7b560bcee55b0d571042a3d6b354423691027227	action-group-crosses-row
-ref/unchevolution/web	Web (Ex)	1	9bfd3681d27fbaf7dccbec892d074b66adaecc7d6b5430de95737c708d4a05ed	numbered-effect-label: Ability2
-ref/vigtalent/combat-expertise	Combat Expertise (Ex)	1	194e8a8bbbf6cef4b07aefa9b28ea96d4bab9190ab078dd32faee8f55cf051f1	multiple-effect-rows
-ref/vigtalent/gator-wrangle	Gator Wrangle (Ex)	1	f5fd935da9ec39b2de7728c66bb09f579a211c35a61bd03b9aaf7d9cb2466b80	multiple-effect-rows
-ref/vigtalent/inspired-vigilante	Inspiration (Ex)	1	550c6f132731b9601a2ec32601c81c0c31e5cad17797c7d3dbf108a48c5f28b3	multiple-effect-rows
-ref/vigtalent/lethal-grace	Lethal Grace (Ex)	1	80c5ce4d377c83db194e58471c8e3252c9171ea579e831baa5650c9ddc12fd2e	multiple-effect-rows
+ref/unchevolution/poison	Poison (Ex)	1	43f30078ab7c1a5db13d257c7b560bcee55b0d571042a3d6b354423691027227	action-without-one-group
 ref/vigtalent/morphic-weaponry	Morphic Weaponry (Ex)	2	c65d32c477c6748a21843d4525881283ddc4d3a209475969417b698ed67bd3c1	multiple-effect-rows
-ref/vigtalent/racial-paragon	Racial Paragon	1	68b30f9b19d5a174c70cf083c9b536ffd62190fa9ba9f21a79ace58e00ca1765	unlabeled-paragraphs-not-after-effect

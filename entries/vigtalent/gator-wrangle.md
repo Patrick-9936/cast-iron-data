@@ -18,5 +18,5 @@ group = "vigilante-talent"
 the [grab](ref/umr/grab) ability, and he halves all damage from [constrict](ref/umr/constrict)
 attacks.
 
-**Passive:** When attacking a creature that is grappling him, an avenger vigilante deals an
-additional amount of damage equal to half his vigilante level.
+When attacking a creature that is grappling him, an avenger vigilante deals an additional amount of
+damage equal to half his vigilante level.

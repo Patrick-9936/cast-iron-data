@@ -34,11 +34,13 @@ point of ability damage for each d6 that the channel energy is reduced.
 
 **Reed Hunter (Ex)**
 
-**At 12th Level:** This improves to [blindsight](ref/umr/blindsight) 30 feet with respect to these
-conditions.
+**Gained:** At 6th Level
 
-**At 6th Level:** You gain [blindsense](ref/umr/blindsense) 30 feet with respect to
+**Ability:** You gain [blindsense](ref/umr/blindsense) 30 feet with respect to
 [concealment](ref/rule/concealment) and [cover](ref/rule/cover) from fog, vegetation, or water.
+
+**At 12th level,** this improves to [blindsight](ref/umr/blindsight) 30 feet with respect to these
+conditions.
 
 **Domain Spells**
 

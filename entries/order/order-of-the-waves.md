@@ -44,13 +44,13 @@ A cavalier belonging to this order gains the following abilities as he increases
 
 **Waverider (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** The cavalier gains a swim speed equal to his unmodified base land speed. If he already
 has a swim speed, his swim speed increases by 10 feet, and if he and his mount both have a swim
 speed, the mount's swim speed also increases by 10 feet.
 
-**Gained:** At 2nd Level
-
-**Passive:** He gains a +1 morale bonus on damage rolls when underwater.
+He gains a +1 morale bonus on damage rolls when underwater.
 
 **Current's Rush (Ex)**
 
@@ -62,10 +62,10 @@ every 10 feet of the current's speed (maximum +6 points of damage).
 
 **Explore the Seas (Ex)**
 
+**Gained:** At 15th Level
+
 **Ability:** The cavalier gains [Pressure Adept](ref/feat/pressure-adept) as a bonus feat and adds
 two oceanic zones to his native range instead of one.
 
-**Ability2:** When exploring a new location underwater, he gains a +2 morale bonus on initiative
-checks and Perception checks, and can always act in the surprise round.
-
-**Gained:** At 15th Level
+When exploring a new location underwater, he gains a +2 morale bonus on initiative checks and
+Perception checks, and can always act in the surprise round.

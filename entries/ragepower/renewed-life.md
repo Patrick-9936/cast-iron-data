@@ -14,12 +14,12 @@ group = "rage-power"
 
 **Renewed Life (Ex)**
 
-**Ability:** Once per day, when a barbarian with temporary negative levels ends her _rage,_ she can
-attempt saving throws to remove a number of negative levels equal to the number of levels she could
-ignore while _raging._
-
 **Passive:** While _raging,_ the barbarian ignores the effect of one temporary
 [negative level](ref/rule/energy-drain-and-negative-levels) per four barbarian levels she has
 (maximum 5).
+
+Once per day, when a barbarian with temporary negative levels ends her _rage,_ she can attempt
+saving throws to remove a number of negative levels equal to the number of levels she could ignore
+while _raging._
 
 **Prereq:** 6th-level barbarian, [renewed vitality](ref/ragepower/renewed-vitality)

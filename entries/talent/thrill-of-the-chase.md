@@ -14,12 +14,12 @@ group = "rogue-talent"
 
 **Thrill of the Chase (Ex)**
 
+**Flavor:** The rogue revels in the thrill and adrenaline rush of a challenging chase.
+
 **Ability:** When engaged in [a chase](ref/rule/chases) or [pursuit](ref/rule/pursuit), the rogue
 gains one d20 reroll which she can use at any time after the original roll is made but before the
 results of the roll are revealed; she must take the second result, even if it is lower.
 
 She can use this reroll once per chase or once per day during a pursuit.
 
-**Ability2:** Additionally, she gains [Run](ref/feat/run) as a bonus feat.
-
-**Flavor:** The rogue revels in the thrill and adrenaline rush of a challenging chase.
+Additionally, she gains [Run](ref/feat/run) as a bonus feat.

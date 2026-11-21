@@ -136,12 +136,12 @@ change it to deal one of the other listed damage types.
 
 **Primal Mastery (Su)**
 
-**Ability:** Whenever a spell you cast triggers a primal magic event, or whenever you use a
+**Passive:** Whenever a spell you cast triggers a primal magic event, or whenever you use a
 [rod of wonder](ref/magic-rod/rod-of-wonder), roll d% twice when generating the result. You may pick
 which of the two results actually occurs.
 
-**Passive:** You gain a +2 bonus on all saving throws made to resist primal magic events or magical
-effects caused by a rod of wonder.
+You gain a +2 bonus on all saving throws made to resist primal magic events or magical effects
+caused by a rod of wonder.
 
 **Trigger Primal Magic Event (Su)**
 
@@ -169,12 +169,12 @@ non-spellcasters activating magic items have no such option.
 
 **Final Revelation**
 
-**Ability:** Whenever you cast a spell, you can choose to trigger a primal magic event in addition
-to casting the spell itself - you can use this ability once per minute.
-
-**Ability2:** If your spellcasting causes a primal magic event to occur, your spell effect is not
-replaced by the primal magic event - it takes place normally, along with the event itself.
+**Gained:** At 20th Level
 
 **Flavor:** You become a master of primal magic.
 
-**Gained:** At 20th Level
+**Ability:** Whenever you cast a spell, you can choose to trigger a primal magic event in addition
+to casting the spell itself - you can use this ability once per minute.
+
+If your spellcasting causes a primal magic event to occur, your spell effect is not replaced by the
+primal magic event - it takes place normally, along with the event itself.

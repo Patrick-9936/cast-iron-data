@@ -30,6 +30,8 @@ DC 26 Perception skill check and disarmed with a successful DC 26 Disable Device
 
 **Spell-Storing Weapon (major)**
 
-**At 10th Level:** You can cast a spell into a magic weapon as if it had the
+**Gained:** At 10th Level
+
+**Ability:** You can cast a spell into a magic weapon as if it had the
 [spell storing](ref/magic-enh/spell-storing) weapon special ability. If the stored spell is not used
 within 10 minutes, it dissipates.

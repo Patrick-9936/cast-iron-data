@@ -79,28 +79,27 @@ points of fire damage.
 
 **Elemental Aegis (Su)**
 
+**Choice:** When you take this revelation, choose one element: air, earth, fire, or water.
+
 **Ability:** You can conjure an enveloping, protective force made of this element that grants you a
 +4 armor bonus to AC (this manifests as a solid rush of air over your body, rocky plates covering
 your skin, and the like).
 
-**Choice:** When you take this revelation, choose one element: air, earth, fire, or water.
-
-**At 13th Level:** At 13th level, you receive an additional boon depending on the element you chose.
-If you chose air, you gain a +2 bonus on Reflex saving throws. If you chose earth, you gain a +2
-bonus to CMD. If you chose fire, you gain fire [resistance](ref/umr/resistance) 2 (this stacks with
-any other fire resistance you have). If you chose water, you gain a +4 bonus on
-[Swim](ref/skill/swim) checks.
-
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The AC bonus increases to +6.
+**At 7th level,** the AC bonus increases to +6.
 
-At 11th level: The AC bonus increases to +8.
+**At 11th level,** the AC bonus increases to +8.
 
-At 15th level: The AC bonus increases to +10.
+**At 13th level,** you receive an additional boon depending on the element you chose. If you chose
+air, you gain a +2 bonus on Reflex saving throws. If you chose earth, you gain a +2 bonus to CMD. If
+you chose fire, you gain fire [resistance](ref/umr/resistance) 2 (this stacks with any other fire
+resistance you have). If you chose water, you gain a +4 bonus on [Swim](ref/skill/swim) checks.
 
-At 19th level: The AC bonus increases to +12.
+**At 15th level,** the AC bonus increases to +10.
+
+**At 19th level,** the AC bonus increases to +12.
 
 **Elemental Allies (Su)**
 

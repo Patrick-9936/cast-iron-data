@@ -14,14 +14,14 @@ group = "witch-patron"
 
 **Green Whispers**
 
-**Ability:** You gain the [feral speech](ref/hex/feral-speech) hex at 1st level.
-
 **Info:** Your witch powers are a manifestation of the [Green Faith](ref/faith/green-faith) or
 bestowed by a representative of natural forces, such as an ancient [treant](ref/monster/treant) or
 nature spirit, who expects you to wield such gifts on its behalf.
 
-**Passive:** You cannot abide the touch of iron or steel; contact with either metal deals 1d3 points
-of damage each round, and wearing metal armor prevents you from casting spells until it is removed.
+**Ability:** You gain the [feral speech](ref/hex/feral-speech) hex at 1st level.
+
+You cannot abide the touch of iron or steel; contact with either metal deals 1d3 points of damage
+each round, and wearing metal armor prevents you from casting spells until it is removed.
 
 **Spells:** Entangle (2nd)
 

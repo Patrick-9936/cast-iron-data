@@ -19,14 +19,18 @@ group = "warpriest-blessing"
 
 **Enshrouding Darkness (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch an ally and bestow a darkness blessing.
 
-**At 1st Level:** For 1 minute, the ally becomes enshrouded in shadows while in combat, granting it
+**Ability:** For 1 minute, the ally becomes enshrouded in shadows while in combat, granting it
 [concealment](ref/rule/concealment) (20%). Creatures that are normally able to see in supernatural
 darkness ignore this concealment.
 
 **Darkened Vision (major)**
 
-**At 10th Level:** You can place a shroud of darkness around the eyes of one foe within 30 feet. The
+**Gained:** At 10th Level
+
+**Ability:** You can place a shroud of darkness around the eyes of one foe within 30 feet. The
 target must succeed at a Will saving throw or be [blinded](ref/misc/blinded) for 1 minute (as
 [blindness/deafness](ref/spell/blindness-deafness)).

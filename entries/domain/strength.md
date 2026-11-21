@@ -168,14 +168,14 @@ all allies within 20 feet. The temporary hit points remain for 1 minute.
 **Flavor:** You maintain an unshakable sense of who you are, and no force can compel you to be
 anything else.
 
+**Passive:** You gain a +1 sacred (if your patron is good or neutral) or profane (if your patron is
+evil) bonus on saving throws against polymorph, petrification, and transmutation effects. This bonus
+increases by 1 for every 5 cleric levels you have (maximum +5).
+
 **Immediate:** Once per day when you succeed at a saving throw against such an effect, you can gain
 a surge of self-confidence that grants you a number of
 [temporary hit points](ref/rule/temporary-hit-points) equal to your cleric level and a +2 morale
 bonus on attack rolls, skill checks, and saving throws; both effects last for 1 minute.
-
-**Passive:** You gain a sacred (if your patron is good or neutral) or profane (if your patron is
-evil) bonus on saving throws against polymorph, petrification, and transmutation effects.
-@B-5y1-cleric.
 
 **Replaces:** The strength surge ability of the Strength domain
 

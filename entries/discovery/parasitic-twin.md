@@ -22,13 +22,13 @@ the _vestigial arm_ discovery, though the alchemist can manifest or hide the twi
 action**. The twin is helpless, fully subservient to the alchemist, and cannot be targeted or
 harmed.
 
-**Passive:** Once per day, if the alchemist succumbs to a mental effect that would make him
-unconscious, helpless, or not in control of his own actions (such as
-[charm person](ref/spell/charm-person), [feeblemind](ref/spell/feeblemind), or
-[hold person](ref/spell/hold-person)), he can reroll his saving throw; success means the twin
-absorbs the effect and the alchemist can ignore it. Using this ability [sickens](ref/misc/sickened)
-the alchemist for the duration of the absorbed effect (removing the effect from the twin ends the
-sickened condition), and he cannot use the twin's limbs during that time, though passive effects
-(such as from rings worn on the vestigial limbs) continue normally.
+Once per day, if the alchemist succumbs to a mental effect that would make him unconscious,
+helpless, or not in control of his own actions (such as [charm person](ref/spell/charm-person),
+[feeblemind](ref/spell/feeblemind), or [hold person](ref/spell/hold-person)), he can reroll his
+saving throw; success means the twin absorbs the effect and the alchemist can ignore it. Using this
+ability [sickens](ref/misc/sickened) the alchemist for the duration of the absorbed effect (removing
+the effect from the twin ends the sickened condition), and he cannot use the twin's limbs during
+that time, though passive effects (such as from rings worn on the vestigial limbs) continue
+normally.
 
 **Prereq:** Taken the [vestigial arm](ref/discovery/vestigial-arm) discovery twice

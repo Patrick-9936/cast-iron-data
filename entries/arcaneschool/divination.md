@@ -22,14 +22,14 @@ Diviners are masters of remote viewing, prophecies, and using magic to explore t
 
 **Forewarned (Su)**
 
-**At 20th Level:** Anytime you roll initiative, assume the roll resulted in a natural 20.
-
 **Gained:** At 1st Level
 
 **Passive:** You can always act in the surprise round even if you fail to make a Perception roll to
 notice a foe, but you are still considered [flat-footed](ref/rule/flat-footed) until you take an
 action. In addition, you receive a bonus on initiative checks equal to 1/2 your wizard level
 (minimum +1).
+
+**At 20th level,** anytime you roll initiative, assume the roll resulted in a natural 20.
 
 **Diviner's Fortune (Sp)**
 
@@ -70,20 +70,19 @@ you do not use the d20 result before your next turn, it is lost.
 
 **Foretell (Su)**
 
-**Action:** Standard Action
-
 **Gained:** At 8th Level
 
-**Usage:** 1 time/day per wizard level
-
-You can utter a prediction of the immediate future. While your foretelling is in effect, you emit a
-30-foot aura of fortune that aids your allies or hinders your enemies, as chosen by you at the time
-of prediction.
+**Standard:** You can utter a prediction of the immediate future. While your foretelling is in
+effect, you emit a 30-foot aura of fortune that aids your allies or hinders your enemies, as chosen
+by you at the time of prediction.
 
 If you choose to aid, you and your allies gain a +2 luck bonus on ability checks, attack rolls,
 caster level checks, saving throws, and skill checks.
 
 If you choose to hinder, your enemies take a -2 penalty on those rolls instead.
+
+**Usage:** A number of rounds per day equal to your wizard level. These rounds do not need to be
+consecutive.
 
 ### Prophecy School
 

@@ -14,14 +14,16 @@ group = "witch-hex"
 
 **Flight (Su)**
 
+**Gained:** At 1st Level
+
 **Flavor:** The witch grows lighter as she gains power, eventually gaining the ability to fly.
 
-**At 1st Level:** The witch can use [feather fall](ref/spell/feather-fall) at will and gains a +4
-racial bonus on Swim checks.
+**Ability:** The witch can use [feather fall](ref/spell/feather-fall) at will and gains a +4 racial
+bonus on Swim checks.
 
-**At 3rd Level:** She can cast [levitate](ref/spell/levitate) once per day.
+**At 3rd level,** she can cast [levitate](ref/spell/levitate) once per day.
 
-**At 5th Level:** She can [fly](ref/spell/fly), as per the spell, for a number of minutes per day
+**At 5th level,** she can [fly](ref/spell/fly), as per the spell, for a number of minutes per day
 equal to her level. These minutes do not need to be consecutive, but they must be spent in 1-minute
 increments.
 

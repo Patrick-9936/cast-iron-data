@@ -21,12 +21,14 @@ group = "warpriest-blessing"
 
 **Holy Strike (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch one weapon and bless it with the power of purity and goodness.
 
-**At 1st Level:** For 1 minute, this weapon glows green, white, or yellow-gold and deals an
-additional 1d6 points of damage against evil creatures. During this time, it's treated as good for
-the purposes of overcoming [damage reduction](ref/rule/damage-reduction). This additional damage
-doesn't stack with the additional damage from the [holy](ref/magic-enh/holy) weapon special ability.
+**Ability:** For 1 minute, this weapon glows green, white, or yellow-gold and deals an additional
+1d6 points of damage against evil creatures. During this time, it's treated as good for the purposes
+of overcoming [damage reduction](ref/rule/damage-reduction). This additional damage doesn't stack
+with the additional damage from the [holy](ref/magic-enh/holy) weapon special ability.
 
 **Battle Companion (major)**
 

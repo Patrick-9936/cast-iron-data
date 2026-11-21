@@ -99,19 +99,23 @@ day (instead of an unlimited number) unless you also possess the _cognatogen_ di
 
 **Warped Brain (Su)**
 
+**Gained:** At 5th Level
+
 **Flavor:** Your mind becomes difficult to comprehend.
 
-**At 5th Level:** When another creature uses a mind-affecting spell or ability against you, that
-creature must attempt a Will save. If it fails, it becomes [nauseated](ref/misc/nauseated) for 1
-round. This ability triggers even if you succeed at your save (or are otherwise unaffected by the
-spell or ability), but doesn't apply if you're a willing subject of the spell. This is a
-mind-affecting effect.
+**Ability:** When another creature uses a mind-affecting spell or ability against you, that creature
+must attempt a Will save. If it fails, it becomes [nauseated](ref/misc/nauseated) for 1 round. This
+ability triggers even if you succeed at your save (or are otherwise unaffected by the spell or
+ability), but doesn't apply if you're a willing subject of the spell. This is a mind-affecting
+effect.
 
 **Hallucinogenic Aura (Su)**
 
+**Gained:** At 13th Level
+
 **Flavor:** A mental field emanates from you, touching the minds of those nearby.
 
-**At 13th Level:** Any creature within 30 feet of you must succeed at a Will save or be
+**Ability:** Any creature within 30 feet of you must succeed at a Will save or be
 [confused](ref/misc/confused) for 1d4 rounds. A creature that succeeds at its saving throw is immune
 to your _hallucinogenic aura_ for 24 hours. A creature that fails its save doesn't need to continue
 making saves while it's confused by this aura, and becomes immune for 24 hours once its confusion

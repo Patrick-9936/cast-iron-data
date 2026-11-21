@@ -114,14 +114,16 @@ network, but the radius of the network is only 100 feet per psychic level.
 
 **Animate Trees (Su)**
 
-**At 13th Level:** You can animate a tree within 180 feet as a **standard action**. This functions
-as a [treant's](ref/monster/treant) _animate trees_ ability, with the following exceptions. Each
-day, you can animate a number of trees equal to 3 + your Charisma modifier, and you can control up
-to one tree at a time. A tree remains animated for 10 minutes per level, or until dismissed by you
-or destroyed.
+**Gained:** At 13th Level
 
-At 15th level: The amount of trees you can control increases to 2.
+**Ability:** You can animate a tree within 180 feet as a **standard action**. This functions as a
+[treant's](ref/monster/treant) _animate trees_ ability, with the following exceptions. Each day, you
+can animate a number of trees equal to 3 + your Charisma modifier, and you can control up to one
+tree at a time. A tree remains animated for 10 minutes per level, or until dismissed by you or
+destroyed.
 
-At 17th level: The amount of trees you can control increases to 3.
+**At 15th level,** the amount of trees you can control increases to 2.
 
-At 19th level: The amount of trees you can control increases to 4.
+**At 17th level,** the amount of trees you can control increases to 3.
+
+**At 19th level,** the amount of trees you can control increases to 4.

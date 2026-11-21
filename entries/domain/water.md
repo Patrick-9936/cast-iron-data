@@ -43,11 +43,13 @@ touch attack. The icicle deals an amount of cold damage equal to 1d6 +
 
 **Cold Resistance (Ex)**
 
-**At 12th Level:** The resistance increases to 20.
+**Gained:** At 6th Level
 
-**At 20th Level:** You gain [immunity](ref/umr/immunity) to cold.
+**Ability:** Gain [resist](ref/umr/resistance) cold 10.
 
-**At 6th Level:** Gain [resist](ref/umr/resistance) cold 10.
+**At 12th level,** the resistance increases to 20.
+
+**At 20th level,** you gain [immunity](ref/umr/immunity) to cold.
 
 **Domain Spells**
 

@@ -14,6 +14,8 @@ group = "summoner-evolution"
 
 **Alignment Smite (Su)**
 
+**Choice:** Choose a single alignment component that opposes one of the summoner's own.
+
 **Swift:** Once per day, the eidolon chooses one target within sight. If this target's alignment
 matches that chosen for this ability, the eidolon deals an additional +1d6 points of damage with one
 of its natural weapons.
@@ -26,5 +28,3 @@ or the eidolon is dismissed.
 daily use of this ability.
 
 **Prereq:** 5th-level summoner, and the summoner cannot be evil or true neutral
-
-**Choice:** Choose a single alignment component that opposes one of the summoner's own.

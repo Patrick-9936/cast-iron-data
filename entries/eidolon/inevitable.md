@@ -29,21 +29,23 @@ clockwork constructs and idealized humanoid statues.
 
 **Base Evolutions**
 
-**At 1st Level:** Inevitable eidolons count as both constructs and outsiders for the purpose of
-effects such as the [bane](ref/magic-enh/bane) weapon special ability and the
+**Gained:** At 1st Level
+
+**Ability:** Inevitable eidolons count as both constructs and outsiders for the purpose of effects
+such as the [bane](ref/magic-enh/bane) weapon special ability and the
 [favored enemy](ref/ability/favored-enemy) class feature. They gain a +4 bonus on saving throws
 against death effects, disease, necromancy effects, paralysis, poison, sleep, and stun.
 
-**At 12th Level:** Inevitable eidolons gain DR 5/chaotic. They also gain immunity to sleep, as well
-as the _truespeech_ ability (see the [inevitable creature subtype](ref/subtype/inevitable)).
-
-**At 16th Level:** Inevitable eidolons lose the +4 bonus on saving throws against necromancy effects
-and gain immunity to ability damage, ability drain, energy drain, and necromancy effects.
-
-**At 20th Level:** Inevitable eidolons gain immunity to paralysis, sleep, stun, and any effect that
-requires a Fortitude save (unless the effect also works on objects).
-
-**At 4th Level:** Inevitable eidolons gain a +4 bonus on saving throws against mind-affecting
+**At 4th level,** inevitable eidolons gain a +4 bonus on saving throws against mind-affecting
 effects and immunity to nonlethal damage, fatigue, and exhaustion.
 
-**At 8th Level:** Inevitable eidolons gain immunity to death effects, disease, and poison.
+**At 8th level,** inevitable eidolons gain immunity to death effects, disease, and poison.
+
+**At 12th level,** inevitable eidolons gain DR 5/chaotic. They also gain immunity to sleep, as well
+as the _truespeech_ ability (see the [inevitable creature subtype](ref/subtype/inevitable)).
+
+**At 16th level,** inevitable eidolons lose the +4 bonus on saving throws against necromancy effects
+and gain immunity to ability damage, ability drain, energy drain, and necromancy effects.
+
+**At 20th level,** inevitable eidolons gain immunity to paralysis, sleep, stun, and any effect that
+requires a Fortitude save (unless the effect also works on objects).

@@ -76,18 +76,18 @@ returning to its original state.
 
 **Doomsayer (Su)**
 
-**At 15th Level:** Continuing your _doomsaying_ each round is a **swift action** instead.
+**Standard:** You can utter a dire prophecy that strikes fear in your enemies and causes them to
+become [shaken](ref/misc/shaken). To be affected, an enemy must be within 30 feet and able to hear
+you. This effect persists as long as the enemy is within 30 feet and you use a **move action** each
+round to continue your _doomsaying._
+
+**At 15th level,** continuing your _doomsaying_ each round is a **swift action** instead.
 
 **Prereq:** 7th-level oracle
 
 **Special:** This ability cannot cause a creature to become frightened or panicked, even if the
 target was already shaken from another effect. This is a mind-affecting fear effect that relies on
 audible components.
-
-**Standard:** You can utter a dire prophecy that strikes fear in your enemies and causes them to
-become [shaken](ref/misc/shaken). To be affected, an enemy must be within 30 feet and able to hear
-you. This effect persists as long as the enemy is within 30 feet and you use a **move action** each
-round to continue your _doomsaying._
 
 **Dust to Dust (Su)**
 
@@ -171,14 +171,14 @@ up to two size categories larger than you.
 
 **Final Revelation**
 
-**Ability:** Anytime you successfully cast a spell or use an ability that bestows 1 or more
-[negative levels](ref/rule/energy-drain-and-negative-levels), the effect bestows 1d4 additional
-negative levels.
+**Gained:** At 20th Level
 
 **Flavor:** You become a herald of the apocalypse and wield the awesome power to fulfill such
 prophecy.
 
-**Gained:** At 20th Level
+**Ability:** Anytime you successfully cast a spell or use an ability that bestows 1 or more
+[negative levels](ref/rule/energy-drain-and-negative-levels), the effect bestows 1d4 additional
+negative levels.
 
 **Swift:** Whenever you confirm a critical hit against a creature (including with a melee, ranged,
 or spell attack), you can curse the target of your attack, as the

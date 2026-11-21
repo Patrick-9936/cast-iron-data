@@ -111,11 +111,13 @@ only if written text is involved.
 
 **Superior Automatic Writing (Ex)**
 
-**At 5th Level:** When attempting checks for the [automatic writing](ref/skill/linguistics) occult
-skill unlock, you can treat your psychic level + your Wisdom bonus as your number of Linguistics
-skill ranks.
+**Gained:** At 5th Level
 
-**At 8th Level:** You gain an additional option when using _automatic writing,_ and can attempt a DC
+**Ability:** When attempting checks for the [automatic writing](ref/skill/linguistics) occult skill
+unlock, you can treat your psychic level + your Wisdom bonus as your number of Linguistics skill
+ranks.
+
+**At 8th level,** you gain an additional option when using _automatic writing,_ and can attempt a DC
 35 check to gain information as though you'd used [commune](ref/spell/commune) instead of
 _[augury](ref/spell/augury)_ or [divination](ref/spell/divination). This type of
 _[commune](ref/spell/commune)_ requires no material component, and the duration equals 1 round per

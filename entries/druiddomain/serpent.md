@@ -40,10 +40,12 @@ against attacks of opportunity provoked by your movement and a +2 bonus on CMB a
 
 **Venom Immunity (Ex)**
 
-**At 12th Level:** You gain immunity to all poisons.
+**Gained:** At 6th Level
 
-**At 6th Level:** You gain immunity to poisons from snakes, reptiles, and creatures with the
-reptilian subtype.
+**Ability:** You gain immunity to poisons from snakes, reptiles, and creatures with the reptilian
+subtype.
+
+**At 12th level,** you gain immunity to all poisons.
 
 **Replaces:** Venom immunity
 

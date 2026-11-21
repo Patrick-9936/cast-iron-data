@@ -72,13 +72,13 @@ cultists, priests of rare religions, and followers of mystical orders.
 
 **Flavor:** You can hone your skills to become a bane to those who worship a divinity you hate.
 
+**Choice:** Each day while performing your obedience, choose a divine power that grants four or
+fewer domains.
+
 **Passive:** You gain +2 bonus on [Intimidate](ref/skill/intimidate),
 [Knowledge](ref/skill/knowledge-all), [Sense Motive](ref/skill/sense-motive), and
 [Survival](ref/skill/survival) checks against those who worship that power. Additionally, you get a
 +1 bonus on weapon attack rolls and weapon damage rolls against the worshipers of that deity.
-
-**Choice:** Each day while performing your obedience, choose a divine power that grants four or
-fewer domains.
 
 **2: Immolation (Sp)**
 

@@ -58,10 +58,12 @@ benefits).
 
 **Watersense (Ex)**
 
-**At 12th Level:** You instead gain [tremorsense](ref/umr/tremorsense) with a range of 60 feet when
-in water.
+**Gained:** At 8th Level
 
-**At 8th Level:** You gain [tremorsense](ref/umr/tremorsense) with a range of 30 feet in water.
+**Ability:** You gain [tremorsense](ref/umr/tremorsense) with a range of 30 feet in water.
+
+**At 12th level,** you instead gain [tremorsense](ref/umr/tremorsense) with a range of 60 feet when
+in water.
 
 **Wavedarter (Sp, Su)**
 

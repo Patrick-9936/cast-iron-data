@@ -46,14 +46,14 @@ level.
 
 **Whip Crack (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** The cavalier becomes proficient with a [whip](ref/eq-weapon/whip) and gains
 [Whip Mastery](ref/feat/whip-mastery) as a bonus feat.
 
-**Ability2:** When a creature whose number of Hit Dice is less than or equal to 1/2 the cavalier's
-level takes nonlethal damage from the cavalier's whip, it is [shaken](ref/misc/shaken) for 1 round.
-This does not stack with other fear effects.
-
-**Gained:** At 2nd Level
+When a creature whose number of Hit Dice is less than or equal to 1/2 the cavalier's level takes
+nonlethal damage from the cavalier's whip, it is [shaken](ref/misc/shaken) for 1 round. This does
+not stack with other fear effects.
 
 **Inspiring Pain (Ex)**
 

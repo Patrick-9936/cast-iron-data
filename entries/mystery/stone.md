@@ -83,6 +83,9 @@ speed. While _gliding,_ you breathe stone as if it were air (you do not need to 
 Your burrowing leaves behind no tunnel or hole, nor does it create any ripple or sign of your
 presence.
 
+**Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
+in 1-minute increments
+
 **Prereq:** 7th-level oracle
 
 **Special:** A [move earth](ref/spell/move-earth) spell cast on an area where you are flings you
@@ -91,9 +94,6 @@ save.
 
 You can bring other creatures with you when you _[glide](ref/spell/glide),_ but each passenger costs
 an additional minute per minute of travel.
-
-**Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
-in 1-minute increments
 
 **Mighty Pebble (Su)**
 

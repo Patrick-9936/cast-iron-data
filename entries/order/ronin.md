@@ -87,12 +87,12 @@ roll twice to stabilize, taking the better result.
 
 **Chosen Destiny (Ex)**
 
-**Ability:** Whenever the ronin makes a saving throw against a charm or compulsion effect, he may
-roll twice and take the better result.
-
-**Ability2:** Once per day, the ronin can treat any one d20 roll as if the result were a natural 20.
-He must declare the use of this ability before the roll is made.
+**Gained:** At 15th Level
 
 **Flavor:** The ronin is the master of his own destiny.
 
-**Gained:** At 15th Level
+**Ability:** Whenever the ronin makes a saving throw against a charm or compulsion effect, he may
+roll twice and take the better result.
+
+Once per day, the ronin can treat any one d20 roll as if the result were a natural 20. He must
+declare the use of this ability before the roll is made.

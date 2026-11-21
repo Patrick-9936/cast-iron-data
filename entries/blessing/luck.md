@@ -19,14 +19,18 @@ group = "warpriest-blessing"
 
 **Lucky Presence (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch an ally and grant it a lucky presence.
 
-**At 1st Level:** The target of this luck can call upon it to roll any one ability check, attack
-roll, saving throw, or skill check twice and take the better result. The decision to use this
-ability must be made before the roll is made. Once used, or once 1 minute passes, the effect ends.
+**Ability:** The target of this luck can call upon it to roll any one ability check, attack roll,
+saving throw, or skill check twice and take the better result. The decision to use this ability must
+be made before the roll is made. Once used, or once 1 minute passes, the effect ends.
 
 **Unlucky Enemy (major)**
 
-**At 10th Level:** As an **immediate action** you can force an adjacent opponent to reroll an
-attack, saving throw, or skill or ability check it just attempted; it must take the lower of the two
-rolls. You must declare this after the roll is made but before the result is revealed.
+**Gained:** At 10th Level
+
+**Ability:** As an **immediate action** you can force an adjacent opponent to reroll an attack,
+saving throw, or skill or ability check it just attempted; it must take the lower of the two rolls.
+You must declare this after the roll is made but before the result is revealed.

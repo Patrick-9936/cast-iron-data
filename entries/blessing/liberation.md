@@ -22,15 +22,19 @@ group = "warpriest-blessing"
 
 **Liberation (minor)**
 
-**At 1st Level:** For 1 round as a **swift action**, you can ignore impediments to your mobility and
+**Gained:** At 1st Level
+
+**Ability:** For 1 round as a **swift action**, you can ignore impediments to your mobility and
 effects that cause [paralysis](ref/rule/paralysis) (as
 [freedom of movement](ref/spell/freedom-of-movement)). You can activate this blessing even if you're
 otherwise unable to take actions, but not if you're unconscious.
 
 **Freedom's Shout (major)**
 
-**At 10th Level:** As a **swift action** you can emit a 30-foot aura that affects all allies with
-the _liberation_ blessing described above. This effect lasts for 1 round.
+**Gained:** At 10th Level
+
+**Ability:** As a **swift action** you can emit a 30-foot aura that affects all allies with the
+_liberation_ blessing described above. This effect lasts for 1 round.
 
 ### Freedom
 
@@ -41,5 +45,7 @@ Liberation blessing.
 
 **Greater Liberation (major)**
 
-**At 10th Level:** When you use the _liberation_ ability of the Liberation blessing, its effects
-last for 1 minute.
+**Gained:** At 10th Level
+
+**Ability:** When you use the _liberation_ ability of the Liberation blessing, its effects last for
+1 minute.

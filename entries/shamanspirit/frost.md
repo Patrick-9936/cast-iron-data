@@ -131,13 +131,13 @@ ability upon having access to the greater version of that spirit.
 
 **Passive:** The shaman gains cold resistance 10.
 
-**Special:** The shaman can use this ability three times per day, but she must wait at least 1d4
-rounds between each use.
-
 **Standard:** In addition, she can summon an icy blast in a 20-foot-radius [burst](ref/misc/burst)
 originating from a point she can see within 30 feet. This blast deals cold damage equal to 1d6 per
 shaman level she has to each creature caught in the burst. Each target can attempt a Reflex saving
 throw to halve this damage.
+
+**Special:** The shaman can use this ability three times per day, but she must wait at least 1d4
+rounds between each use.
 
 ### True Spirit Ability
 
@@ -156,14 +156,13 @@ is 1 hour per level. The shaman can use this ability once per day.
 
 **Manifestation**
 
-**Ability:** She can also apply any one of the following feats to any spell with the cold descriptor
-that she casts without increasing the spell's level or casting time:
-[Enlarge Spell](ref/feat/enlarge-spell), [Extend Spell](ref/feat/extend-spell),
-[Silent Spell](ref/feat/silent-spell), or [Still Spell](ref/feat/still-spell). She doesn't need to
-have these feats to use this ability.
+**Gained:** At 20th Level
 
 **Flavor:** The shaman becomes a being of ice and snow.
 
-**Gained:** At 20th Level
-
 **Passive:** The shaman gains immunity to cold.
+
+She can also apply any one of the following feats to any spell with the cold descriptor that she
+casts without increasing the spell's level or casting time: [Enlarge Spell](ref/feat/enlarge-spell),
+[Extend Spell](ref/feat/extend-spell), [Silent Spell](ref/feat/silent-spell), or
+[Still Spell](ref/feat/still-spell). She doesn't need to have these feats to use this ability.

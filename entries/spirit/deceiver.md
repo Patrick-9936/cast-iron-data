@@ -53,8 +53,7 @@ bonus on all [Bluff](ref/skill/bluff) checks.
 attack of opportunity to another target of your choice within the attacker's reach. Afterward, the
 foe whose attack you diverted becomes immune to this ability for 24 hours.
 
-**Ability2:** When you target a creature with a spell,
-[spell-like ability](ref/umr/spell-like-abilities), or supernatural ability, or when you fail a
-Bluff, Diplomacy, or Intimidate check, you can allow the Deceiver to gain 1 point of influence over
-you to make the target believe another creature adjacent to you created the effect or attempted to
-lie to, convince, or bully the target.
+When you target a creature with a spell, [spell-like ability](ref/umr/spell-like-abilities), or
+supernatural ability, or when you fail a Bluff, Diplomacy, or Intimidate check, you can allow the
+Deceiver to gain 1 point of influence over you to make the target believe another creature adjacent
+to you created the effect or attempted to lie to, convince, or bully the target.

@@ -96,18 +96,22 @@ modifier.
 
 **Deceptive Shapes (Su)**
 
+**Gained:** At 5th Level
+
 **Flavor:** You learn the hag's art of concealing your true face to get what you want.
 
-**At 5th Level:** You can change into any Small or Medium humanoid at will as
+**Ability:** You can change into any Small or Medium humanoid at will as
 [alter self](ref/spell/alter-self), though you don't gain any special abilities or ability score
 adjustments. You can't replicate a specific person using this ability.
 
 **Curse Mastery (Sp)**
 
+**Gained:** At 13th Level
+
 **Flavor:** You have made the accursed magic of the hags your own.
 
-**At 13th Level:** You become immune to spells of the curse subschool and curse effects.
-Furthermore, the DCs of your spells with the curse descriptor increase by 1, and you can apply the
+**Ability:** You become immune to spells of the curse subschool and curse effects. Furthermore, the
+DCs of your spells with the curse descriptor increase by 1, and you can apply the
 [overpowering mind](ref/phrenicamp/overpowering-mind) and
 [synaptic shock](ref/phrenicamp/synaptic-shock) phrenic amplifications to spells with the curse
 descriptor so long as you have learned those amplifications.

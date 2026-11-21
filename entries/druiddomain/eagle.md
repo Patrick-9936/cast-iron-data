@@ -34,10 +34,11 @@ levels from other classes that grant familiars when determining the powers of yo
 
 **Aerial evasion (Ex)**
 
-**At 12th Level:** You gain [improved evasion](ref/talent/improved-evasion) while flying.
+**Gained:** At 6th Level
 
-**At 6th Level:** You gain the [evasion](ref/ability/evasion) ability (as a rogue) when you are
-flying.
+**Ability:** You gain the [evasion](ref/ability/evasion) ability (as a rogue) when you are flying.
+
+**At 12th level,** you gain [improved evasion](ref/talent/improved-evasion) while flying.
 
 **Domain Spells**
 

@@ -72,12 +72,12 @@ circumstance bonus on [Stealth](ref/skill/stealth) checks.
 
 **Dark Secrets (Su)**
 
+**Flavor:** You learn the hidden secrets surrounding the casting of shadow spells.
+
 **Ability:** You can add a number of spells from the sorcerer/wizard spell list equal to your
 Charisma modifier (minimum 1, maximum equal to half your oracle level) to your spell list and your
 list of spells known as divine spells. These have a spell level equal to their sorcerer/wizard spell
 level.
-
-**Flavor:** You learn the hidden secrets surrounding the casting of shadow spells.
 
 **Special:** You can add only illusion spells from the shadow subschool or spells with the darkness
 descriptor to your list of spells known in this manner.
@@ -206,13 +206,13 @@ up to 1 hour per level, and counts as your total use of this ability for the day
 
 **Final Revelation**
 
-**Ability:** Any spells you cast of the shadow subschool or with the darkness descriptor are
-automatically [enlarged](ref/feat/enlarge-spell) without affecting their spell level.
+**Gained:** At 20th Level
 
 **Flavor:** Your body becomes permanently suffused with the essence of the Shadow Plane.
-
-**Gained:** At 20th Level
 
 **Passive:** You gain [regeneration](ref/umr/regeneration) 5 while in dim light or darkness and
 immunity to cold, critical hits, and sneak attacks. Your regeneration is suppressed while in any
 level of illumination brighter than dim light.
+
+Any spells you cast of the shadow subschool or with the darkness descriptor are automatically
+[enlarged](ref/feat/enlarge-spell) without affecting their spell level.

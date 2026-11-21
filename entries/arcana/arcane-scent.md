@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Arcane Scent (Ex):**
+**Arcane Scent (Ex)**
 
 **Ability:** The magus can sniff out other spellcasters. By spending 1 point from his arcane pool,
 the magus gains the [scent](ref/umr/scent) special quality for 1 hour per magus level. This scent

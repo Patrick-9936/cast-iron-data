@@ -27,7 +27,9 @@ standard and full-round actions don't decrease the number of rounds the ally can
 
 **Tsunami Burst (major)**
 
-**At 10th Level:** When you are hit by a melee attack, you can invoke this blessing as an
-**immediate action**. A wave of water blasts out from you at your attacker, attempting a
+**Gained:** At 10th Level
+
+**Ability:** When you are hit by a melee attack, you can invoke this blessing as an **immediate
+action**. A wave of water blasts out from you at your attacker, attempting a
 [bull rush](ref/rule/bull-rush) combat maneuver check using your CMB but adding your Wisdom modifier
 instead of your Strength modifier.

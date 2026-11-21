@@ -26,7 +26,9 @@ sudden burst of wind and debris to swirl around your target. The target is
 
 **Howling Gale (major)**
 
-**At 10th Level:** You can invoke a howling windstorm around yourself as a **standard action**. For
-1 minute, any Large or smaller creature takes twice as much movement to enter a space adjacent to
-you due to the winds, and thus can't [take a 5-foot step](ref/rule/take-5-foot-step) to move
-adjacent to you.
+**Gained:** At 10th Level
+
+**Ability:** You can invoke a howling windstorm around yourself as a **standard action**. For 1
+minute, any Large or smaller creature takes twice as much movement to enter a space adjacent to you
+due to the winds, and thus can't [take a 5-foot step](ref/rule/take-5-foot-step) to move adjacent to
+you.

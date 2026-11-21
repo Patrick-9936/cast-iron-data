@@ -62,21 +62,19 @@ sinuous and seductive grace.
 
 **Serpent's Fang (Ex)**
 
-**Action:** Free Action=
-
 **Gained:** At 1st Level
+
+**Free:** You can grow fangs. These fangs are treated as a [natural weapon](ref/umr/natural-attacks)
+inflicting 1d4 points of damage plus your Strength modifier (1d3 if you are Small) plus poison.
 
 **Usage:** 3 + Charisma modifier rounds/day
 
-**At 5th Level:** These fangs are considered magical for the purpose of overcoming DR and the poison
+**At 5th level,** these fangs are considered magical for the purpose of overcoming DR and the poison
 damage increases to 1d2 Con.
 
-**At 7th Level:** Your poison requires 2 successful saves to cure.
+**At 7th level,** your poison requires 2 successful saves to cure.
 
-**At 11th Level:** Your poison damage increases to 1d4 Con.
-
-You can grow fangs. These fangs are treated as a [natural weapon](ref/umr/natural-attacks)
-inflicting 1d4 points of damage plus your Strength modifier (1d3 if you are Small) plus poison.
+**At 11th level,** your poison damage increases to 1d4 Con.
 
 **Serpent's Fang Poison**
 
@@ -92,13 +90,13 @@ inflicting 1d4 points of damage plus your Strength modifier (1d3 if you are Smal
 
 **Serpentfriend (Ex)**
 
+**Gained:** At 3rd Level
+
 **Ability:** You can use [speak with animals](ref/spell/speak-with-animals) at will with reptilian
 animals (including various forms of dinosaurs, lizards, and other cold-blooded creatures).
 
-**Ability2:** You gain a [viper](ref/monster/familiar-viper) [familiar](ref/ability/familiars) using
-your sorcerer level - 2 as your effective wizard level.
-
-**Gained:** At 3rd Level
+You gain a [viper](ref/monster/familiar-viper) [familiar](ref/ability/familiars) using your sorcerer
+level - 2 as your effective wizard level.
 
 **Snakeskin (Ex)**
 
@@ -117,17 +115,17 @@ any creature other than you sharing a space with a swarm is [entangled](ref/rule
 
 **Scaled Soul (Su)**
 
+**Gained:** At 20th Level
+
 **Ability:** You gain the [shapechanger](ref/subtype/shapechanger) subtype, and you can assume the
 form of a reptilian humanoid (as [alter self](ref/spell/alter-self)) or snake of Diminutive to Huge
 size (as [beast shape III](ref/spell/beast-shape-3)) at will. You retain the power of speech and the
 ability to use somatic spell components when transformed.
 
-**Ability2:** You may use _serpent's fang_ as often as desired, and you may choose to inflict damage
-to any ability score.
+You also become immune to poison and paralysis.
 
-**Gained:** At 20th Level
-
-**Passive:** You also become immune to poison and paralysis.
+You may use _serpent's fang_ as often as desired, and you may choose to inflict damage to any
+ability score.
 
 ### Envenomed (Wildblooded Mutation)
 

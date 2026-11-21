@@ -122,4 +122,6 @@ At 19th level: Your healing pool increases to 10d8.
 
 **Pure Body (Ex)**
 
-**At 13th Level:** You gain immunity to diseases and poisons.
+**Gained:** At 13th Level
+
+**Ability:** You gain immunity to diseases and poisons.

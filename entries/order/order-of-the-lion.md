@@ -69,14 +69,14 @@ used once per combat.
 
 **Shield of the Liege (Ex)**
 
+**Gained:** At 15th Level
+
 **Flavor:** An order of the lion cavalier can protect those around him.
+
+**Passive:** Allies that are adjacent to the cavalier receive a +2 shield bonus to their AC.
 
 **Immediate:** The cavalier can redirect an attack made at a creature adjacent to himself, as long
 as the creature making the attack is within the cavalier's reach. This ability must be declared
 before the attack roll is made. The attack is made against the cavalier's AC and defenses, even if
 the creature could not normally reach or attack the cavalier. The cavalier loses any cover or
 concealment bonuses when subject to the redirected attack.
-
-**Gained:** At 15th Level
-
-**Passive:** Allies that are adjacent to the cavalier receive a +2 shield bonus to their AC.

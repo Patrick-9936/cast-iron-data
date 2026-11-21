@@ -78,22 +78,22 @@ phantasm subschool.
 
 **Champion of Andoran (Su)**
 
-**Ability:** Whenever she uses her _stirring monologue,_ up to four creatures (including the paladin
-herself) affected by the _monologue_ gain SR 30 against spells with the evil descriptor or
+**Gained:** At 20th Level
+
+**Flavor:** An oathbound paladin becomes a champion of the people of Andoran.
+
+**Passive:** Her DR increases to 10/evil.
+
+Whenever she uses her _stirring monologue,_ up to four creatures (including the paladin herself)
+affected by the _monologue_ gain SR 30 against spells with the evil descriptor or
 [spell-like abilities](ref/umr/spell-like-abilities) cast by evil outsiders or undead. Weapons
 wielded by those affected by her _stirring monologue_ are treated as good, silver, and cold iron for
 the purpose of overcoming [damage reduction](ref/rule/damage-reduction).
 
-**Ability2:** In addition, whenever the oathbound paladin channels positive energy or uses _lay on
-hands_ to heal a creature, she heals it the maximum possible amount.
+In addition, whenever the oathbound paladin channels positive energy or uses _lay on hands_ to heal
+a creature, she heals it the maximum possible amount.
 
 **Alters:** Holy champion
-
-**Flavor:** An oathbound paladin becomes a champion of the people of Andoran.
-
-**Gained:** At 20th Level
-
-**Passive:** Her DR increases to 10/evil.
 
 **Code of Conduct**
 

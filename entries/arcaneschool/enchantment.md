@@ -55,15 +55,15 @@ despair_ powers of the enchantment school.
 
 **Force of Will (Su)**
 
-**At 11th Level:** Affected creatures can communicate back to you via the telepathic link as well.
-
-**At 20th Level:** Any creature that succeeds at a saving throw against an enchantment spell you
-have just cast is still affected for 1 round if the spell has a duration greater than 1 round.
-
 **Gained:** At 1st Level
 
 **Passive:** You can send thoughts and instructions telepathically to any creature within 60 feet
 that you have charmed or dominated as though you shared a common language.
+
+**At 11th level,** affected creatures can communicate back to you via the telepathic link as well.
+
+**At 20th level,** any creature that succeeds at a saving throw against an enchantment spell you
+have just cast is still affected for 1 round if the spell has a duration greater than 1 round.
 
 **Irresistible Demand (Sp)**
 

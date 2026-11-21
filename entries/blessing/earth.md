@@ -19,11 +19,13 @@ group = "warpriest-blessing"
 
 **Acid Strike (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch one weapon and enhance it with acidic potency.
 
-**At 1st Level:** For 1 minute, this weapon emits acrid fumes that deal an additional 1d4 points of
-acid damage with each strike. This additional damage doesn't stack with the additional damage from
-the [corrosive](ref/magic-enh/corrosive) weapon special ability.
+**Ability:** For 1 minute, this weapon emits acrid fumes that deal an additional 1d4 points of acid
+damage with each strike. This additional damage doesn't stack with the additional damage from the
+[corrosive](ref/magic-enh/corrosive) weapon special ability.
 
 **Armor of Earth (major)**
 

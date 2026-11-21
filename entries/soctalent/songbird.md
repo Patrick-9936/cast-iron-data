@@ -14,8 +14,8 @@ group = "social-talent"
 
 **Songbird (Su)**
 
+**Info:** He also gains [Handle Animal](ref/skill/handle-animal) as a class skill.
+
 **Ability:** The vigilante gains the use of [animal messenger](ref/spell/animal-messenger) once per
 day as a [spell-like ability](ref/umr/spell-like-abilities), with a caster level equal to his
 character level.
-
-**Info:** He also gains [Handle Animal](ref/skill/handle-animal) as a class skill.

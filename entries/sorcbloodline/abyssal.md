@@ -104,15 +104,15 @@ spell, you summon one additional creature of the same kind.
 
 **Demonic Might (Su)**
 
-**Ability:** You also gain [telepathy](ref/umr/telepathy) with a range of 60 feet (allowing you to
-communicate with any creature that can speak a language).
+**Gained:** At 20th Level
 
 **Flavor:** The power of the Abyss flows through you.
 
-**Gained:** At 20th Level
-
 **Passive:** You gain immunity to electricity and poison and resistance to acid 10, cold 10, and
 fire 10.
+
+You also gain [telepathy](ref/umr/telepathy) with a range of 60 feet (allowing you to communicate
+with any creature that can speak a language).
 
 ### Brutal (Wildblooded Mutation)
 

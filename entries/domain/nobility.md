@@ -61,16 +61,17 @@ if you do not venerate a deity).
 
 **Noble Visage (Su)**
 
-**Passive:** You gain a bonus on Charisma checks and Charisma-based skill checks against creatures
-that share your creature type (and subtype, if you are a humanoid). @B-5y1-cleric.
-
-**Replaces:** The inspiring word ability of the Nobility domain
+**Passive:** You gain a +1 bonus on Charisma checks and Charisma-based skill checks against
+creatures that share your creature type (and subtype, if you are a humanoid). This bonus increases
+by 1 for every 5 levels you possess.
 
 **Standard:** You can touch an ally to grant her your noble visage bonus against creatures that
 share her creature type (or subtype) for 1 minute. When you use this ability, you lose your noble
 visage bonus for 1 minute.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The inspiring word ability of the Nobility domain
 
 **Replacement Domain Spells**
 

@@ -102,18 +102,24 @@ you regain 1 point in your phrenic pool.
 
 **Share Memory (Sp)**
 
-**At 5th Level:** You can use [share memory](ref/spell/share-memory) at will, but only with a
-willing target.
+**Gained:** At 5th Level
+
+**Ability:** You can use [share memory](ref/spell/share-memory) at will, but only with a willing
+target.
 
 **Team Player (Ex)**
 
-**At 13th Level:** You gain another bonus teamwork feat.
+**Gained:** At 5th Level
 
-**At 5th Level:** You gain a bonus teamwork feat.
+**Ability:** You gain a bonus teamwork feat.
+
+**At 13th level,** you gain another bonus teamwork feat.
 
 **Shared Skill (Ex)**
 
-**At 13th Level:** Each time you set up an _emotional bond,_ you can choose one Intelligence- or
+**Gained:** At 13th Level
+
+**Ability:** Each time you set up an _emotional bond,_ you can choose one Intelligence- or
 Charisma-based skill from the list of psychic's class skills. Any subject of your bond can use your
 bonus instead of his own when attempting checks with that skill as long as the bond lasts.
 

@@ -24,18 +24,16 @@ the _inspiration_ class feature.
 
 **Inspiration (Ex)**
 
+**Flavor:** Relevant text from the investigator class ability.
+
 **Ability:** You have an inspiration pool equal to [half](ref/misc/fractions-and-rounding) your
 level. Your inspiration pool refreshes each day, typically after you get a restful night's sleep.
-
-**Flavor:** Relevant text from the investigator class ability.
 
 **Free:** You can expend one use of inspiration from your pool to add 1d6 to the result of a check,
 including any on which you take 10 or 20. This choice is made after the check is rolled and before
 the results are revealed.
 
+**Usage:** You can only use inspiration once per check or roll.
+
 **Special:** Using inspiration on attack rolls and saving throws costs two uses of inspiration each
 time. In the case of saving throws, using inspiration is an **immediate action**.
-
-**Usage:** You can only use inspiration once per check or roll.
-
-**Usage:** You can only use inspiration once per check or roll.

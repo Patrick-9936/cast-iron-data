@@ -14,10 +14,10 @@ group = "rogue-talent"
 
 **Signature Poison (Ex)**
 
-**Ability:** When she uses the chosen poison, the poison's saving throw DC increases by +2.
-
 **Choice:** A rogue with this talent chooses one poison (such as
 [bloodroot](ref/eq-poison/bloodroot) or [oil of taggit](ref/eq-poison/oil-of-taggit)) as her
 signature poison.
+
+**Ability:** When she uses the chosen poison, the poison's saving throw DC increases by +2.
 
 **Special:** A rogue can take this talent multiple times, each time applying it to a new poison.

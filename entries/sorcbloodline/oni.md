@@ -114,16 +114,16 @@ drop below 0 hit points a second time, you do not benefit from this ability.
 
 **Hedonistic Master (Su)**
 
+**Gained:** At 20th Level
+
+**Flavor:** You fully embrace your oni heritage to unlock its maximum potential.
+
 **Ability:** You gain the ability to change your shape between your natural form and that of any one
 Large humanoid creature of the giant subtype at will (as the spell
 [giant form I](ref/spell/giant-form-1)). You must choose which creature you wish to be able to
 change into when you reach 20th level; once you make this decision, you cannot change it. You can
 switch between your forms at will, and can assume your giant form for as long as you want.
 
-**Flavor:** You fully embrace your oni heritage to unlock its maximum potential.
-
-**Gained:** At 20th Level
-
-**Passive:** In addition, you gain SR equal to 6 + your sorcerer level, and whenever you cast a
-spell of the [charm](ref/spelldef/charm) or [compulsion](ref/spelldef/compulsion) subschool, the
-spell's DC increases by +2.
+In addition, you gain SR equal to 6 + your sorcerer level, and whenever you cast a spell of the
+[charm](ref/spelldef/charm) or [compulsion](ref/spelldef/compulsion) subschool, the spell's DC
+increases by +2.

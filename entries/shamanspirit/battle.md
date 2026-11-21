@@ -127,14 +127,14 @@ ability.
 
 **Battle Spirit (Su)**
 
-**Flavor:** A shaman surrounds herself with the spirit of battle. Allies within 30 feet of the
+**Ability:** A shaman surrounds herself with the spirit of battle. Allies within 30 feet of the
 shaman (including the shaman) receive a +1 morale bonus on attack rolls and weapon damage rolls.
 
 **Usage:** 3 + Charisma modifier rounds/day
 
-At 8th level: This bonus increases to +2.
+**At 8th level,** this bonus increases to +2.
 
-At 16th level: This bonus increases to +3.
+**At 16th level,** this bonus increases to +3.
 
 ### Greater Spirit Ability
 
@@ -168,16 +168,16 @@ ability upon having access to the true version of that spirit.
 
 **Manifestation**
 
-**Ability:** Whenever she scores a critical hit, the attack ignores
-[damage reduction](ref/rule/damage-reduction).
+**Gained:** At 20th Level
 
 **Flavor:** The shaman becomes a spirit of battle.
 
-**Fullround:** She can make a full attack and move up to her speed (either before or after the
+**Full-round:** She can make a full attack and move up to her speed (either before or after the
 attacks).
 
-**Gained:** At 20th Level
+**Ability:** Whenever she scores a critical hit, the attack ignores
+[damage reduction](ref/rule/damage-reduction).
 
-**Passive:** She gains a +4 insight bonus to AC for the purposes of confirming critical hits against
-her. If she is reduced to below 0 hit points, she does not die until her negative hit point total
-exceeds double her Constitution score.
+She gains a +4 insight bonus to AC for the purposes of confirming critical hits against her. If she
+is reduced to below 0 hit points, she does not die until her negative hit point total exceeds double
+her Constitution score.

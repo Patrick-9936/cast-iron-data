@@ -19,11 +19,13 @@ group = "warpriest-blessing"
 
 **Crafter's Wrath (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch one melee weapon and grant it greater power to harm and destroy crafted
 objects.
 
-**At 1st Level:** For 1 minute, whenever this weapon deals damage to constructs or objects, it
-bypasses [hardness](ref/umr/hardness) and [damage reduction](ref/rule/damage-reduction).
+**Ability:** For 1 minute, whenever this weapon deals damage to constructs or objects, it bypasses
+[hardness](ref/umr/hardness) and [damage reduction](ref/rule/damage-reduction).
 
 **Transfer Magic (major)**
 

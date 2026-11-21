@@ -19,9 +19,11 @@ group = "warpriest-blessing"
 
 **Creeping Vines (minor)**
 
-**At 1st Level:** Upon hitting with a melee attack, as a **swift action** you cause the creature you
-hit to sprout entangling vines that attempt to hold it in place, [entangling](ref/rule/entangled) it
-for 1 round (Reflex negates).
+**Gained:** At 1st Level
+
+**Ability:** Upon hitting with a melee attack, as a **swift action** you cause the creature you hit
+to sprout entangling vines that attempt to hold it in place, [entangling](ref/rule/entangled) it for
+1 round (Reflex negates).
 
 **Battle Companion (major)**
 

@@ -53,19 +53,19 @@ he receives a +2 morale bonus to one saving throw of his choice.
 
 **Mounted Mastery (Ex)**
 
-**Ability:** Whenever he makes a [charge](ref/rule/charge) attack while mounted, he receives a +4
-dodge bonus to his AC to avoid attacks set against his charge. When making such an attack, he can
-add his mount's Strength modifier to the damage roll, in addition to his own.
-
-**Ability2:** He also receives a bonus feat, chosen from the following list:
-[Mounted Combat](ref/feat/mounted-combat), [Ride-By Attack](ref/feat/ride-by-attack),
-[Skill Focus](ref/feat/skill-focus) (Ride), [Spirited Charge](ref/feat/spirited-charge),
-[Trample](ref/feat/trample), or [Unseat](ref/feat/unseat). He must qualify for the feat selected.
-
 **Gained:** At 8th Level
 
 **Passive:** The cavalier ignores the armor check penalty when using the [Ride](ref/skill/ride)
 skill, regardless of whether or not the creature he is riding is his mount.
+
+Whenever he makes a [charge](ref/rule/charge) attack while mounted, he receives a +4 dodge bonus to
+his AC to avoid attacks set against his charge. When making such an attack, he can add his mount's
+Strength modifier to the damage roll, in addition to his own.
+
+He also receives a bonus feat, chosen from the following list:
+[Mounted Combat](ref/feat/mounted-combat), [Ride-By Attack](ref/feat/ride-by-attack),
+[Skill Focus](ref/feat/skill-focus) (Ride), [Spirited Charge](ref/feat/spirited-charge),
+[Trample](ref/feat/trample), or [Unseat](ref/feat/unseat). He must qualify for the feat selected.
 
 **Knight's Challenge (Ex)**
 

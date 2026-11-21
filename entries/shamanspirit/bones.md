@@ -153,11 +153,11 @@ this damage.
 
 The shaman can use this ability three times per day, but she must wait 1d4 rounds between each use.
 
-At 12th level: The DR 4/magic.
+**At 12th level,** the DR 4/magic.
 
-At 16th level: The DR 5/magic.
+**At 16th level,** the DR 5/magic.
 
-At 20th level: The DR 6/magic.
+**At 20th level,** the DR 6/magic.
 
 ### True Spirit Ability
 
@@ -176,16 +176,16 @@ special ability.
 
 **Manifestation**
 
-**Ability:** She can cast [animate dead](ref/spell/animate-dead) at will without paying a material
-component cost, although she is still subject to the usual Hit Dice control limit.
-
-**Ability2:** Once per day, she can cast [power word kill](ref/spell/power-word-kill), but the spell
-can target a creature with 150 hit points or fewer.
+**Gained:** At 20th Level
 
 **Flavor:** The shaman becomes a spirit of death.
 
 **Free:** Once per round, she can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
 
-**Gained:** At 20th Level
-
 **Passive:** If she is reduced to below 0 hit points, she automatically stabilizes.
+
+She can cast [animate dead](ref/spell/animate-dead) at will without paying a material component
+cost, although she is still subject to the usual Hit Dice control limit.
+
+Once per day, she can cast [power word kill](ref/spell/power-word-kill), but the spell can target a
+creature with 150 hit points or fewer.

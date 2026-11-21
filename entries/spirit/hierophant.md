@@ -64,14 +64,14 @@ thought and emotion components, and you need a divine focus if the spell require
 
 **Energy Font (Su)**
 
-**Ability:** You can [channel energy](ref/ability/channel-energy) a number of times per day equal to
-1 + your Charisma modifier.
-
 **Choice:** Choose whether you channel positive or negative energy each time you contact a
 hierophant spirit; this choice must match the spirit's faith. If you choose positive energy, add
 cure spells of each level you can cast from the cleric list to your medium spell list and spells
 known. Otherwise, add inflict spells in the same way. These spells count as divine, as in the divine
 surge spirit power.
+
+**Ability:** You can [channel energy](ref/ability/channel-energy) a number of times per day equal to
+1 + your Charisma modifier.
 
 ### Greater Spirit Power
 

@@ -22,8 +22,6 @@ place of her CMD against that combat maneuver attempt.
 saving throw against any effect that would impose the [entangled](ref/rule/entangled) condition on
 her.
 
+**Usage:** 1 grapple/day + 1 per five rogue levels
+
 **Prereq:** Trained in [Escape Artist](ref/skill/escape-artist)
-
-**Usage:** 1 grapple/day + 1 per five rogue levels
-
-**Usage:** 1 grapple/day + 1 per five rogue levels

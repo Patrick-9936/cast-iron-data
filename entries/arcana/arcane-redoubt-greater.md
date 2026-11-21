@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Greater Arcane Redoubt (Su):**
+**Greater Arcane Redoubt (Su)**
 
 **Ability:** Whenever the magus uses his [arcane redoubt](ref/arcana/arcane-redoubt) magus arcana,
 he may spend an additional point from his arcane pool in order to apply his shield bonus to AC

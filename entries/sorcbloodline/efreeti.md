@@ -97,16 +97,16 @@ round it [grapples](ref/rule/grapple).
 
 **Power of the Efreet (Su)**
 
+**Gained:** At 20th Level
+
+**Flavor:** You gain the power of genies to grant wishes.
+
 **Ability:** Once per day, you can cast [limited wish](ref/spell/limited-wish) as a
 [spell-like ability](ref/umr/spell-like-abilities). Such wishes must begin with the words "I wish,"
 and cannot duplicate a wish you have granted within the past 24 hours. If you use this ability to
 duplicate a spell with a costly material component, you must provide that component.
 
-**Ability2:** You can use _[plane shift](ref/spell/plane-shift)_ once per day to travel to or from
-the Plane of Fire.
+You also become immune to fire damage.
 
-**Flavor:** You gain the power of genies to grant wishes.
-
-**Gained:** At 20th Level
-
-**Passive:** You also become immune to fire damage.
+You can use _[plane shift](ref/spell/plane-shift)_ once per day to travel to or from the Plane of
+Fire.

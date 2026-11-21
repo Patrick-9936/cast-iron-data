@@ -124,11 +124,11 @@ while using this ability.
 
 **Nimble Walker (Su)**
 
-**Ability:** You also gain the ability to breathe while passing through earth using your
-_[earth glide](ref/spell/earth-glide)_ ability.
-
 **Gained:** At 20th Level
 
 **Passive:** You gain a +5 racial bonus on Reflex saving throws and on
 [Acrobatics](ref/skill/acrobatics) checks made to move through a creature's threatened area or
 through its space.
+
+You also gain the ability to breathe while passing through earth using your
+_[earth glide](ref/spell/earth-glide)_ ability.

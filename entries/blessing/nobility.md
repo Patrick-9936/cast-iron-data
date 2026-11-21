@@ -22,15 +22,19 @@ group = "warpriest-blessing"
 
 **Inspiring Word (minor)**
 
-**At 1st Level:** You can speak a few words to a creature within 30 feet that fill them with
-inspiration. You can grant that creature a +2 morale bonus on attack rolls, ability checks, skill
-checks, or saving throws (your choice). This effect lasts for 1 minute.
+**Gained:** At 1st Level
+
+**Ability:** You can speak a few words to a creature within 30 feet that fill them with inspiration.
+You can grant that creature a +2 morale bonus on attack rolls, ability checks, skill checks, or
+saving throws (your choice). This effect lasts for 1 minute.
 
 **Lead by Example (major)**
 
-**At 10th Level:** As a **swift action** you can inspire your allies to follow your lead. If the
-following action on your turn is an attack or skill check, all allies within 30 feet who take the
-same action against the same foe or obstacle on their next turn gain a +4 morale bonus on that roll.
+**Gained:** At 10th Level
+
+**Ability:** As a **swift action** you can inspire your allies to follow your lead. If the following
+action on your turn is an attack or skill check, all allies within 30 feet who take the same action
+against the same foe or obstacle on their next turn gain a +4 morale bonus on that roll.
 
 ### Martyr
 
@@ -41,11 +45,13 @@ Nobility blessing.
 
 **Martyr's Sacrifice (major)**
 
+**Gained:** At 10th Level
+
 **Flavor:** Your body can accept wounds meant for others you deem worthy.
 
-**At 10th Level:** You can shoulder the wounds of an ally within 50 feet for 1 minute, and during
-this time, the ally is affected as if you had cast [shield other](ref/spell/shield-other) on her
-(except with a range of 50 feet).
+**Ability:** You can shoulder the wounds of an ally within 50 feet for 1 minute, and during this
+time, the ally is affected as if you had cast [shield other](ref/spell/shield-other) on her (except
+with a range of 50 feet).
 
 **Special:** You can have only one use of this ability active at a time; if you use this major
 blessing again, the previous use immediately expires.

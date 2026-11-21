@@ -47,9 +47,9 @@ level.
 
 **Adaptive Strike (Ex)**
 
-**Ability:** The cavalier receives [Catch Off-Guard](ref/feat/catch-off-guard) as a bonus feat.
-
 **Gained:** At 2nd Level
+
+**Ability:** The cavalier receives [Catch Off-Guard](ref/feat/catch-off-guard) as a bonus feat.
 
 **Swift:** He can cause an armed opponent to become flat-footed against any attacks he makes during
 that round with an improvised weapon. This ability can be used once per combat.
@@ -58,14 +58,14 @@ that round with an improvised weapon. This ability can be used once per combat.
 
 **Gained:** At 8th Level
 
+**Choice:** The cavalier may select a terrain type from the ranger
+[Favored Terrains](ref/ability/favored-terrain) table.
+
 **Standard:** He can shout orders that grant all allies within 60 feet a competence bonus equal to
 his Charisma modifier on initiative checks and
 [Knowledge (geography)](ref/skill/knowledge-geography), [Perception](ref/skill/perception), and
 Survival checks while they are in the chosen terrain for a number of rounds equal to 1/2 his
 cavalier level.
-
-**Choice:** The cavalier may select a terrain type from the ranger
-[Favored Terrains](ref/ability/favored-terrain) table.
 
 **Repeat:** The cavalier may select a new terrain type that this ability can affect., 12, 4
 

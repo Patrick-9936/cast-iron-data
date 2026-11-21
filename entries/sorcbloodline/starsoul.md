@@ -92,15 +92,15 @@ effect. The save DC is equal to 10 + half your sorcerer level + your Charisma mo
 
 **Breaching the Gulf (Sp)**
 
-**Ability:** Once per day you can teleport a single creature within 30 feet into the void of space
-if it fails a Will save. The save DC is equal to 10 + half your sorcerer level + your Charisma
-modifier. The target can attempt a new saving throw as a full-round action each round to return.
-While trapped in the airless void, the target takes 6d6 points of cold damage per round and must
-[hold its breath](ref/misc/hold-your-breath) or begin to suffocate.
-
 **Gained:** At 15th Level
 
 **Passive:** Your caster level is increased by 3 when casting spells of the teleportation subschool.
+
+Once per day you can teleport a single creature within 30 feet into the void of space if it fails a
+Will save. The save DC is equal to 10 + half your sorcerer level + your Charisma modifier. The
+target can attempt a new saving throw as a full-round action each round to return. While trapped in
+the airless void, the target takes 6d6 points of cold damage per round and must
+[hold its breath](ref/misc/hold-your-breath) or begin to suffocate.
 
 **Starborn (Ex)**
 

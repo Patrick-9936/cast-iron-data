@@ -14,15 +14,15 @@ group = "investigator-talent"
 
 **The Whole Time (Su)**
 
+**Flavor:** Mercenaries in the employ of the [Aspis Consortium](ref/rule/aff-profiteers) often use
+wands of [invisibility](ref/spell/invisibility) to attack protected targets, then blend into the
+crowd to escape or disguise the source of the next attack.
+
 **Ability:** An investigator with this ability is practiced at attacking from magical concealment.
 He can use [spell trigger](ref/misc/spell-trigger) and [spell completion](ref/misc/spell-completion)
 items as if the following spells were on a spell list to which he has access:
 [greater invisibility](ref/spell/invisibility-greater), _invisibility,_ and
 [vanish](ref/spell/vanish)
-
-**Flavor:** Mercenaries in the employ of the [Aspis Consortium](ref/rule/aff-profiteers) often use
-wands of [invisibility](ref/spell/invisibility) to attack protected targets, then blend into the
-crowd to escape or disguise the source of the next attack.
 
 **Free:** Additionally, if the investigator becomes visible as a result of a weapon or spell attack,
 he can sheathe his weapon and instantly adopt a neutral posture. With a successful

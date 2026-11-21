@@ -79,8 +79,10 @@ your phrenic pool.
 
 **At Arm's Length (Ex)**
 
-**At 5th Level:** You gain [Reach Spell](ref/feat/reach-spell) as a bonus feat. Additionally, when
-using this feat, you can spend 1 point from your phrenic pool for each increase in the spell's range
+**Gained:** At 5th Level
+
+**Ability:** You gain [Reach Spell](ref/feat/reach-spell) as a bonus feat. Additionally, when using
+this feat, you can spend 1 point from your phrenic pool for each increase in the spell's range
 category. If you do, the spell does not use up a higher-level spell slot than normal. (For example,
 a spell with a range of touch increased to long range via this feat would normally use up a spell
 slot 3 levels higher, but if you spend 3 points from your phrenic pool, the spell does not use up a

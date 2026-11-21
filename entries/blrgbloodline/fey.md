@@ -73,21 +73,17 @@ _[haste](ref/spell/haste)._
 
 **One with Nature (Su)**
 
-**Action:** Move-Equivalent Action
-
 **Gained:** At 16th Level
 
-**Usage:** Three times a day.
+**Passive:** Creatures of the animal or plant types don't attack you unless compelled to do so by
+magic or you attack them first.
 
-**Usage:** Three times a day.
-
-You can transport yourself from one tree to another tree, as [tree stride](ref/spell/tree-stride)
-with half the transport range.
-
-Creatures of the animal or plant types don't attack you unless compelled to do so by magic or you
-attack them first.
+**Move:** You can transport yourself from one tree to another tree, as
+[tree stride](ref/spell/tree-stride) with half the transport range.
 
 You gain these abilities even while not _bloodraging._
+
+**Usage:** Three times a day.
 
 **Fury of the Fey (Su)**
 

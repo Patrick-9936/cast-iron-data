@@ -14,14 +14,14 @@ group = "witch-patron"
 
 **The Condition of All**
 
-**Ability:** You gain the [scar](ref/hex/scar) hex at 1st level.
-
 **Info:** [Aeons](ref/family/aeon) are often patrons to witches, seeking out mortals who share their
 vested interest in some agenda that helps them promote the cosmic balance.
 
-**Passive:** Your patron requires unwavering commitment to their cause, and you lose your
-spellcasting and hexes (but not your familiar) if your alignment changes after taking your first
-witch level; you regain your spellcasting and hexes once you revert to your original alignment.
+**Ability:** You gain the [scar](ref/hex/scar) hex at 1st level.
+
+Your patron requires unwavering commitment to their cause, and you lose your spellcasting and hexes
+(but not your familiar) if your alignment changes after taking your first witch level; you regain
+your spellcasting and hexes once you revert to your original alignment.
 
 **Spells:** Forbid action (2nd)
 

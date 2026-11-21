@@ -177,12 +177,12 @@ up to 1 hour per level, and counts as your total use of this ability for the day
 
 **Final Revelation**
 
-**Ability:** Once per day, you can cast [shapechange](ref/spell/shapechange) as a
-[spell-like ability](ref/umr/spell-like-abilities) without requiring a material component.
+**Gained:** At 20th Level
 
 **Flavor:** You become a truly alien and unnatural creature.
 
-**Gained:** At 20th Level
-
-**Passive:** You gain [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid,
+**Ability:** You gain [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid,
 critical hits, and sneak attacks.
+
+Once per day, you can cast [shapechange](ref/spell/shapechange) as a
+[spell-like ability](ref/umr/spell-like-abilities) without requiring a material component.

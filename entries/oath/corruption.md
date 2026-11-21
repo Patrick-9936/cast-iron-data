@@ -53,20 +53,20 @@ spells and effects from aberrations.
 
 **Cast into the Void (Su)**
 
-**Ability:** Whenever she uses _smite evil_ and successfully strikes an aberration, the creature
-must make a Will save (DC 10 + 1/2 the paladin's level + the paladin's Charisma modifier) or be
-banished to oblivion. This ability does not kill the creature, but it is sent to a remote place,
-such as deep underground or far into space (if it is a creature native to space), and cannot return
-under its own power for at least 100 years.
-
-**Ability2:** Whenever the paladin [channels positive energy](ref/ability/channel-energy) or uses
-_lay on hands_ to heal a creature, she heals the maximum possible amount.
+**Gained:** At 20th Level
 
 **Flavor:** A paladin becomes a conduit for the power of her god.
 
-**Gained:** At 20th Level
-
 **Passive:** Her DR increases to 10/evil.
+
+Whenever she uses _smite evil_ and successfully strikes an aberration, the creature must make a Will
+save (DC 10 + 1/2 the paladin's level + the paladin's Charisma modifier) or be banished to oblivion.
+This ability does not kill the creature, but it is sent to a remote place, such as deep underground
+or far into space (if it is a creature native to space), and cannot return under its own power for
+at least 100 years.
+
+Whenever the paladin [channels positive energy](ref/ability/channel-energy) or uses _lay on hands_
+to heal a creature, she heals the maximum possible amount.
 
 **Replaces:** Holy champion
 

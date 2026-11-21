@@ -71,8 +71,8 @@ it cannot be the target of this hex again for 24 hours.
 spells as a [druid](ref/class/druid), "losing" a prepared spell in order to cast any
 _[summon nature's ally](ref/spell/summon-natures-ally)_ spell of the same level or lower.
 
-**Passive:** In addition, all animals within 30 feet of the shaman receive a sacred bonus on all
-saving throws equal to the shaman's Charisma modifier.
+In addition, all animals within 30 feet of the shaman receive a sacred bonus on all saving throws
+equal to the shaman's Charisma modifier.
 
 **Speak with Animals (Ex)**
 

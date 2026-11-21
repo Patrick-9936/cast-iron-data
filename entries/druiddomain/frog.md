@@ -42,10 +42,12 @@ equal to your touch Armor Class). You can dissolve the tendril as a **free actio
 
 **Webfoot (Ex)**
 
-**At 12th Level:** You gain a climb speed equal to your land speed.
+**Gained:** At 6th Level
 
-**At 6th Level:** You gain the [amphibious](ref/umr/amphibious) special quality and a swim speed
-equal to your land speed.
+**Ability:** You gain the [amphibious](ref/umr/amphibious) special quality and a swim speed equal to
+your land speed.
+
+**At 12th level,** you gain a climb speed equal to your land speed.
 
 **Domain Spells**
 

@@ -45,9 +45,9 @@ monarch or totalitarian.
 
 **Ability:** You gain [poison use](ref/ability/poison-use), as per the alchemist class feature.
 
-**At 4th Level:** You gain a +2 bonus on all saving throws against poison.
+When using [Craft](ref/skill/craft-any) (alchemy) to create poisons, you receive a bonus equal to
+1/2 your medium level (minimum 1).
 
-**Passive:** When using [Craft](ref/skill/craft-any) (alchemy) to create poisons, you receive a
-bonus equal to 1/2 your medium level (minimum 1).
+**At 4th level,** you gain a +2 bonus on all saving throws against poison.
 
 **Replaces:** Trickster's edge

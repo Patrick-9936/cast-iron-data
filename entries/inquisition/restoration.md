@@ -36,12 +36,12 @@ broken object or a creature with fewer than half its maximum hit points.
 
 **Gained:** At 8th Level
 
+**Choice:** Choose an alignment (chaotic, evil, good, or lawful) that is opposite to one axis of
+your own. Once chosen, this cannot be changed.
+
 **Ability:** Add your Wisdom bonus on caster level checks to overcome the
 [spell resistance](ref/rule/spell-resistance) of creatures with the chosen alignment subtype; dispel
 effects with the chosen alignment descriptor; and remove curses, diseases, and poisons.
-
-**Choice:** Choose an alignment (chaotic, evil, good, or lawful) that is opposite to one axis of
-your own. Once chosen, this cannot be changed.
 
 **Special:** A neutral inquisitor gains only the bonus on caster level checks to remove curses,
 diseases, and poisons.

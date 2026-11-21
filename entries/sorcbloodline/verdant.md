@@ -108,14 +108,14 @@ bonus to natural armor and a +10 bonus to CMD against [bull rush](ref/rule/bull-
 
 **Shepherd of the Trees (Su)**
 
-**Ability:** You gain [tremorsense](ref/umr/tremorsense) 30 feet even when not rooted.
+**Gained:** At 20th Level
 
 **Flavor:** Your verdant heritage fully manifests.
 
-**Gained:** At 20th Level
-
 **Passive:** You gain a +4 natural armor bonus. You gain immunity to paralysis, poison, polymorph,
 sleep, and stunning.
+
+You gain [tremorsense](ref/umr/tremorsense) 30 feet even when not rooted.
 
 ### Groveborn (Wildblooded Mutation)
 

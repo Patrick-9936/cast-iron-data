@@ -109,13 +109,13 @@ instead of the normal 1d8+5 maximum.
 
 **Healing Hands (Ex)**
 
-**Ability:** You may provide first aid to two people or treat two people for poison as a **standard
-action** (make a separate Heal check for each creature). When using the Heal skill to treat wounds
-from [caltrops](ref/eq-misc/caltrops) (and so on), treat deadly wounds, treat poison, treat disease,
-or treat long-term care, you may treat double the normal number of people you may treat at the same
-time. You may provide long-term care for yourself.
-
 **Passive:** You gain a +4 bonus on [Heal](ref/skill/heal) checks.
+
+You may provide first aid to two people or treat two people for poison as a **standard action**
+(make a separate Heal check for each creature). When using the Heal skill to treat wounds from
+[caltrops](ref/eq-misc/caltrops) (and so on), treat deadly wounds, treat poison, treat disease, or
+treat long-term care, you may treat double the normal number of people you may treat at the same
+time. You may provide long-term care for yourself.
 
 **Life Link (Su)**
 

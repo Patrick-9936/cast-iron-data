@@ -183,14 +183,14 @@ effect.
 
 **Final Revelation**
 
-**Ability:** You can cast _[astral projection](ref/spell/astral-projection)_ and
-[true seeing](ref/spell/true-seeing) once per day as
-[spell-like abilities](ref/umr/spell-like-abilities) without requiring material components.
+**Gained:** At 20th Level
 
 **Flavor:** You become one with the spirits.
-
-**Gained:** At 20th Level
 
 **Passive:** You become immune to death effects, exhaustion, fatigue, nausea, negative levels, and
 the sickened condition. Should you die, you rise again 2d4 days later as a
 [ghost](ref/template/ghost).
+
+You can cast _[astral projection](ref/spell/astral-projection)_ and
+[true seeing](ref/spell/true-seeing) once per day as
+[spell-like abilities](ref/umr/spell-like-abilities) without requiring material components.

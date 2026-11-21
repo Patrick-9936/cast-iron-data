@@ -103,11 +103,11 @@ target's spell is wasted. This field lasts for a number of rounds equal to 1/2 y
 
 **Counterspell Mastery**
 
+**Gained:** At 6th Level
+
 **Ability:** You gain [Improved Counterspell](ref/feat/improved-counterspell) as a bonus feat.
 
 **Immediate:** You may attempt to counterspell an opponent's spell. You must use a spell at least
 one level higher than the spell being countered to use this ability.
-
-**Gained:** At 6th Level
 
 **Usage:** 1 time/day + 1 per 4 wizard levels beyond 6th

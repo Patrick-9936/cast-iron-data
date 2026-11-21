@@ -14,8 +14,8 @@ group = "rogue-talent"
 
 **Developed Poison Immunity (Ex)**
 
-**Passive:** The rogue automatically succeeds at all Fortitude saves against exposure to the
-selected poison.
-
 **Choice:** When this talent is taken, select a single animal or plant poison that the rogue has
 been poisoned with but survived.
+
+**Passive:** The rogue automatically succeeds at all Fortitude saves against exposure to the
+selected poison.

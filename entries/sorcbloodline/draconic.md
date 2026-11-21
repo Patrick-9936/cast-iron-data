@@ -125,13 +125,13 @@ average maneuverability. You can dismiss the wings as a **free action**.
 
 **Power of Wyrms (Su)**
 
-**Ability:** You also gain [blindsense](ref/rule/blindsight-and-blindsense) 60 feet.
+**Gained:** At 20th Level
 
 **Flavor:** Your draconic heritage becomes manifest.
 
-**Gained:** At 20th Level
-
 **Passive:** You gain immunity to paralysis, sleep, and damage of your energy type.
+
+You also gain [blindsense](ref/rule/blindsight-and-blindsense) 60 feet.
 
 ### Expanded Bloodlines
 

@@ -154,15 +154,15 @@ payment for services it performs as normal for the spell.
 
 **Manifestation**
 
-**Ability:** She gains [blindsense](ref/umr/blindsense) out to a range of 60 feet.
-
-**Ability2:** She can cast [astral projection](ref/spell/astral-projection) as a
-[spell-like ability](ref/umr/spell-like-abilities) once per day without requiring material
-components.
+**Gained:** At 20th Level
 
 **Flavor:** The shaman becomes one with the spirits of her ancestors.
 
-**Gained:** At 20th Level
-
 **Passive:** She gains a bonus on Will saving throws equal to her Charisma modifier and a +4 bonus
 to her caster level for all divination spells.
+
+She gains [blindsense](ref/umr/blindsense) out to a range of 60 feet.
+
+She can cast [astral projection](ref/spell/astral-projection) as a
+[spell-like ability](ref/umr/spell-like-abilities) once per day without requiring material
+components.

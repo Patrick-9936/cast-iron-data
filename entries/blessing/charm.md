@@ -20,16 +20,20 @@ group = "warpriest-blessing"
 
 **Charming Presence (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch an ally and grant an entrancing blessing.
 
-**At 1st Level:** For 1 minute, the ally becomes mesmerizing to her opponents, filling them with
-either abject admiration or paralyzing fear. This effect functions as
-[sanctuary](ref/spell/sanctuary), except if the ally attacks an opponent, the effect ends with
-respect to only that opponent. This is a mind-affecting effect.
+**Ability:** For 1 minute, the ally becomes mesmerizing to her opponents, filling them with either
+abject admiration or paralyzing fear. This effect functions as [sanctuary](ref/spell/sanctuary),
+except if the ally attacks an opponent, the effect ends with respect to only that opponent. This is
+a mind-affecting effect.
 
 **Dominance Aura (major)**
 
-**At 10th Level:** You can surround yourself with a tangible aura of majesty for 1 minute. While
-this aura is active, once per round as a **swift action** you can issue a command (as the
+**Gained:** At 10th Level
+
+**Ability:** You can surround yourself with a tangible aura of majesty for 1 minute. While this aura
+is active, once per round as a **swift action** you can issue a command (as the
 [command](ref/spell/command) spell) to one creature within 30 feet; the creature must succeed at a
 Will saving throw or submit for 1 round.

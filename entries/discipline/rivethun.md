@@ -90,10 +90,12 @@ level.
 
 **Spirit Channeling (Su)**
 
+**Gained:** At 5th Level
+
 **Flavor:** As your self-awareness expands, you become increasingly attuned to the spirit world
 around you.
 
-**At 5th Level:** As part of your meditation to initiate _metamorphosis,_ you can invite a
+**Ability:** As part of your meditation to initiate _metamorphosis,_ you can invite a
 [wandering spirit](ref/ability/shaman-spirits) to share your body as if you were a
 [shaman](ref/class/shaman). You gain the associated 1st-level _spirit ability_ as long as you
 maintain your altered form, but your _metamorphosis_ form also exhibits some aspect of the spirit
@@ -102,5 +104,7 @@ you host, such as vivid red hair for a [flame](ref/shamanspirit/flame) spirit or
 
 **Greater Spirit Channeling (Su)**
 
-**At 13th Level:** When you open your body to a wandering spirit, you also gain that wandering
-spirit's _greater spirit ability_ as long as you are in a metamorphosed form.
+**Gained:** At 13th Level
+
+**Ability:** When you open your body to a wandering spirit, you also gain that wandering spirit's
+_greater spirit ability_ as long as you are in a metamorphosed form.

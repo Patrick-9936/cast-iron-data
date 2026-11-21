@@ -147,12 +147,12 @@ gains the following ability upon having access to the true version of that spiri
 
 **Spirit of Life (Su)**
 
+**Flavor:** The shaman's spirit animal transforms into a conduit of life energy able to store
+succoring magic that can keep the shaman's allies safe.
+
 **Ability:** The spirit animal can cast [stabilize](ref/spell/stabilize) as a
 [spell-like ability](ref/umr/spell-like-abilities) at will using the shaman's level as the spell's
 caster level.
-
-**Flavor:** The shaman's spirit animal transforms into a conduit of life energy able to store
-succoring magic that can keep the shaman's allies safe.
 
 **Swift:** In addition, the shaman can transfer any cure spell (a spell with "cure" in its name) she
 casts to her spirit animal, provided that the spirit animal is within 30 feet of her. This functions

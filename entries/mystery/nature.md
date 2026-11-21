@@ -70,8 +70,7 @@ sunder combat maneuver.
 **Ability:** Add all [summon nature's ally](ref/spell/summon-natures-ally) spells to your spell
 list. You must still select these spells using your allotment of spells known.
 
-**Passive:** Animals within 30 feet of you receive a bonus on all saving throws equal to your
-Charisma modifier.
+Animals within 30 feet of you receive a bonus on all saving throws equal to your Charisma modifier.
 
 **Life Leach (Su)**
 
@@ -93,22 +92,18 @@ target receives a Fortitude save to halve the damage (and the temporary hit poin
 **Ability:** You can read the entrails of a freshly killed animal or humanoid to gain an insight
 bonus equal to your Charisma modifier on one saving throw.
 
-**Ability2:** Alternatively, by observing and interpreting the flights of birds, you may apply a +10
-competence bonus on any one skill check.
+Alternatively, by observing and interpreting the flights of birds, you may apply a +10 competence
+bonus on any one skill check.
 
-**Ability3:** Finally, by charting marks in dirt or stone, or observing the behavior of sand when
-thrown into the wind, you gain a +4 insight bonus on one initiative check.
+Finally, by charting marks in dirt or stone, or observing the behavior of sand when thrown into the
+wind, you gain a +4 insight bonus on one initiative check.
+
+**Usage:** Making a _natural divination_ takes 10 minutes. You may use _natural divination_ (in any
+combination) once per day plus a number of times equal to
+[one-fourth](ref/misc/fractions-and-rounding) of your oracle level.
 
 **Special:** These bonuses must be used during the next 24 hours and you must declare you are using
 the bonus before the check or save is made.
-
-**Usage:** Making a _natural divination_ takes 10 minutes. You may use _natural divination_ (in any
-combination) once per day plus a number of times equal to
-[one-fourth](ref/misc/fractions-and-rounding) of your oracle level.
-
-**Usage:** Making a _natural divination_ takes 10 minutes. You may use _natural divination_ (in any
-combination) once per day plus a number of times equal to
-[one-fourth](ref/misc/fractions-and-rounding) of your oracle level.
 
 **Nature's Whispers (Ex)**
 
@@ -122,11 +117,11 @@ Class instead causes you to lose your Charisma modifier to your Armor Class.
 
 **Speak with Animals (Ex)**
 
-**Ability:** You gain the ability to converse with those types of animal as if you were under the
-effects of [speak with animals](ref/spell/speak-with-animals).
-
 **Choice:** Choose a number of specific kinds of animal (eagle, fox, dog, and so on) equal to 1 +
 [one-third](ref/misc/fractions-and-rounding) of your oracle level.
+
+**Ability:** You gain the ability to converse with those types of animal as if you were under the
+effects of [speak with animals](ref/spell/speak-with-animals).
 
 **Special:** As you gain levels, you choose new kinds of animals. (You are not locked into the
 number you gained when you first selected this revelation.)

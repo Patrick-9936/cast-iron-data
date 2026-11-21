@@ -21,9 +21,11 @@ group = "warpriest-blessing"
 
 **Unholy Strike (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch one weapon and give it an evil blessing.
 
-**At 1st Level:** For 1 minute, this weapon takes on a black, orange, or violet cast and deals an
+**Ability:** For 1 minute, this weapon takes on a black, orange, or violet cast and deals an
 additional 1d6 points of damage against good creatures. During this time, it's treated as evil for
 the purposes of overcoming [damage reduction](ref/rule/damage-reduction). This additional damage
 doesn't stack with the additional damage from the [unholy](ref/magic-enh/unholy) weapon special

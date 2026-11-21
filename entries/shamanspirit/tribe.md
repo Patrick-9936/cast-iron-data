@@ -144,8 +144,8 @@ ability upon having access to the true version of that spirit.
 **Ability:** The shaman can cast a harmless spell with a range of touch on a member of her _tribal
 bond_ as long as that creature is within 30 feet.
 
-**Passive:** In addition, she is constantly aware of the condition of all members of her _tribal
-bond_ ability, as [status](ref/spell/status).
+In addition, she is constantly aware of the condition of all members of her _tribal bond_ ability,
+as [status](ref/spell/status).
 
 **Usage:** Charisma modifier times/day
 
@@ -153,9 +153,9 @@ bond_ ability, as [status](ref/spell/status).
 
 **Manifestation**
 
-**Flavor:** The shaman embodies the strength and unity of her tribe.
-
 **Gained:** At 20th Level
+
+**Flavor:** The shaman embodies the strength and unity of her tribe.
 
 **Passive:** She gains a bonus on all of her saving throws equal to her Charisma modifier and
 becomes immune to [compulsion](ref/spelldef/compulsion) spells and

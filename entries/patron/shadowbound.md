@@ -14,13 +14,13 @@ group = "witch-patron"
 
 **Shadowbound**
 
-**Ability:** You gain the [disguise](ref/hex/disguise) hex at 1st level.
-
 **Info:** Deep exposure to entities from the Plane of Shadow - [kytons](ref/family/kyton),
 [nightshades](ref/family/nightshade), [owbs](ref/monster/owb), and similar ethereal forces - has
 infused you with shadow.
 
-**Passive:** You also gain [light blindness](ref/umr/light-blindness).
+**Ability:** You gain the [disguise](ref/hex/disguise) hex at 1st level.
+
+You also gain [light blindness](ref/umr/light-blindness).
 
 **Spells:** Shadow conjuration (8th)
 
