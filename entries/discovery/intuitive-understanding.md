@@ -14,11 +14,11 @@ group = "alchemist-discovery"
 
 **Intuitive Understanding**
 
-**At 10th Level:** He can use [divination](ref/spell/divination) instead.
-
 **Passive:** If the alchemist drinks an extract of the divination school while under the effects of
 a _cognatogen,_ his effective caster level temporarily increases by 2. In addition, while under the
 effects of a _cognatogen,_ the alchemist may use [augury](ref/spell/augury) once as a
 [spell-like ability](ref/umr/spell-like-abilities) (caster level equal to his alchemist level).
+
+**At 10th level,** he can use [divination](ref/spell/divination) instead.
 
 **Prereq:** 4th-level alchemist, [cognatogen](ref/discovery/cognatogen)

@@ -14,13 +14,13 @@ group = "alchemist-discovery"
 
 **Promethean Disciple**
 
+**Flavor:** An alchemist with this discovery learns how to craft constructs by way of alchemical
+research rather than arcane magic.
+
 **Ability:** The alchemist gains [Craft Construct](ref/feat/craft-construct) as a bonus feat without
 needing to meet its requirements. The alchemist substitutes his number of ranks in
 [Craft](ref/skill/craft-any) (alchemy) for his total caster level and must use Craft (alchemy) to
 create the construct.
-
-**Flavor:** An alchemist with this discovery learns how to craft constructs by way of alchemical
-research rather than arcane magic.
 
 **Prereq:** 6th-level alchemist
 

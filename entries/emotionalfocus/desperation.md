@@ -51,12 +51,12 @@ maneuvers.
 
 **Gained:** At 7th Level
 
-**Special:** This is a mind-affecting effect. Deactivating the aura is a **free action**.
-
 **Swift:** The phantom can emit a 10-foot-radius aura that fills its foes with the sensation of
 drowning, suffocation, or another terrible impending death. Enemies attempting to cast a spell with
 a verbal component within the aura must succeed at a [concentration](ref/rule/concentration) check
 (DC = 10 + half the phantom's Hit Dice + the level of the spell being cast) or lose the spell.
+
+**Special:** This is a mind-affecting effect. Deactivating the aura is a **free action**.
 
 **Clutch of Terror (Su)**
 
@@ -75,15 +75,13 @@ manifested. The effect also ends if the phantom uses this ability against a diff
 
 **Usage:** Three times/day
 
-**Usage:** Three times/day
-
 **Burst of Desperation (Sp)**
 
 **Gained:** At 17th Level
 
-**Special:** The duration of this ability must be used all at once, and any of the effect's
-remaining rounds per day are lost after this ability is dismissed.
-
 **Standard:** Once per day, the phantom can affect itself and the spiritualist with the effects of
 [haste](ref/spell/haste). The caster level of this effect is equal to the spiritualist's caster
 level. The phantom or the spiritualist can dismiss this effect as a **free action**.
+
+**Special:** The duration of this ability must be used all at once, and any of the effect's
+remaining rounds per day are lost after this ability is dismissed.

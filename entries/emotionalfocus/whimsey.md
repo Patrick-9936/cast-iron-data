@@ -58,22 +58,22 @@ distracted by the laughter, taking a -2 penalty on attack and damage rolls and a
 
 **Telekinetic Prankster (Sp)**
 
+**Gained:** At 12th Level
+
+**Flavor:** The phantom gains the ability to use limited telekinesis to trip up its foes.
+
 **Ability:** The phantom can perform combat maneuvers against creatures up to 15 feet away. When
 doing so, it can use its Charisma modifier in place of its Strength modifier on its combat maneuver
 checks.
 
-**Flavor:** The phantom gains the ability to use limited telekinesis to trip up its foes.
-
-**Gained:** At 12th Level
-
 **Invoke Laughter (Sp)**
 
 **Gained:** At 17th Level
-
-**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Standard:** Once per day, the phantom can cause nearby creatures to fall into fits of
 uncontrollable laughter. Each creature in a 30-foot-radius [burst](ref/misc/burst) centered on the
 phantom must succeed at a Will save (DC = 10 + half the phantom's Hit Dice + the phantom's Charisma
 modifier) or begin laughing uncontrollably, as the spell
 [hideous laughter](ref/spell/hideous-laughter).
+
+**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.

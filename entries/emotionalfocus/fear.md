@@ -48,9 +48,6 @@ the creature to become frightened. This is a mind-affecting fear effect.
 
 **Gained:** At 7th Level
 
-**Special:** This is a mind-affecting fear effect. The phantom can use this ability in either
-ectoplasmic or incorporeal form.
-
 **Swift:** The phantom can emit a 20-foot-radius aura that amplifies the fear conditions of enemies
 within it if they fail their Will saving throws (DC = 10 + 1/2 the phantom's Hit Dice + the
 phantom's Charisma modifier). A shaken enemy in the aura becomes [frightened](ref/misc/frightened),
@@ -61,19 +58,22 @@ aura equal to 1/2 the phantom's Hit Dice, or until the end of the original fear 
 whichever comes first. A creature that succeeds at the saving throw is immune to this effect from
 the same phantom for 24 hours.
 
+**Special:** This is a mind-affecting fear effect. The phantom can use this ability in either
+ectoplasmic or incorporeal form.
+
 **Frightful Attack (Su)**
+
+**Gained:** At 12th Level
 
 **Ability:** If the phantom hits with a slam attack, it can frighten those it hits instead of
 causing them to be shaken (the phantom chooses when it makes the attack). This is a mind-affecting
 fear effect.
 
-**Gained:** At 12th Level
-
 **Shelter Allies (Su)**
+
+**Gained:** At 17th Level
 
 **Ability:** The phantom protects its allies from terror. Allies within the phantom's _increase
 fear_ aura are immune to fear as long as they are within the aura. This ability also grants the
 phantom's spiritualist master immunity to fear as long as the phantom is not banished to the
 Ethereal Plane.
-
-**Gained:** At 17th Level

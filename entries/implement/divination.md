@@ -27,36 +27,36 @@ Implements of the divination school grant powers related to foresight and remote
 
 **Flavor:** The implement allows its bearer to notice that which can't easily be seen.
 
-**At 13th Level:** If the occultist stores at least 12 points of mental focus in it, the implement
-also grants [blindsense](ref/umr/blindsense) 60 feet.
+**Passive:** The implement grants a +1 insight bonus on [Perception](ref/skill/perception) checks
+per 2 points of mental focus stored in it, to a maximum bonus equal to the occultist's level.
 
-**At 19th Level:** If the occultist stores at least 15 points of mental focus in it, the implement
-also grants [blindsight](ref/umr/blindsight) 30 feet.
-
-**At 3rd Level:** If the occultist stores at least 3 points of mental focus in it, the implement
+**At 3rd level,** if the occultist stores at least 3 points of mental focus in it, the implement
 also grants [low-light vision](ref/rule/low-light-vision).
 
-**At 5th Level:** If the occultist stores at least 6 points of mental focus in it, the implement
+**At 5th level,** if the occultist stores at least 6 points of mental focus in it, the implement
 also grants [darkvision](ref/rule/darkvision) 60 feet. (If the bearer already has darkvision, the
 implement increases the range of the darkvision by 30 feet.)
 
-**At 7th Level:** If the occultist stores at least 9 points of mental focus in it, the implement
+**At 7th level,** if the occultist stores at least 9 points of mental focus in it, the implement
 also grants the effects of [see invisibility](ref/spell/see-invisibility).
 
-**Passive:** The implement grants a +1 insight bonus on [Perception](ref/skill/perception) checks
-per 2 points of mental focus stored in it, to a maximum bonus equal to the occultist's level.
+**At 13th level,** if the occultist stores at least 12 points of mental focus in it, the implement
+also grants [blindsense](ref/umr/blindsense) 60 feet.
+
+**At 19th level,** if the occultist stores at least 15 points of mental focus in it, the implement
+also grants [blindsight](ref/umr/blindsight) 30 feet.
 
 ### Base Focus Power
 
 **Sudden Insight (Sp)**
 
-**Special:** You can use your foreknowledge only once per turn, and if it's not used by the end of
-your turn, the insight fades and you gain no benefit.
-
 **Swift:** You can expend 1 point of mental focus to gain an insight into your immediate future. You
 can use this foreknowledge as a **free action** before you roll any ability check, attack roll, or
 skill check to gain an insight bonus on that roll equal to [half](ref/misc/fractions-and-rounding)
 your occultist level (minimum +1).
+
+**Special:** You can use your foreknowledge only once per turn, and if it's not used by the end of
+your turn, the insight fades and you gain no benefit.
 
 ### Focus Powers
 
@@ -78,8 +78,6 @@ functions as [augury](ref/spell/augury), using your occultist level as the caste
 
 **Mind Eye (Sp)**
 
-**Prereq:** 5th-level occultist
-
 **Standard:** You can expend 1 point of mental focus to create a _mind eye_ - a magical sensor
 through which you can see and hear. The _mind eye_ is invisible and its size is Fine, giving it an
 AC of 18. Any amount of damage to the _eye_ destroys it, but it can be harmed by only spells or
@@ -93,9 +91,11 @@ The _mind eye_ sees as your eyes see, including any additional senses you posses
 [darkvision](ref/rule/darkvision) or [see invisibility](ref/spell/see-invisibility)). The _mind eye_
 lasts for 1 minute per occultist level you possess.
 
+**Prereq:** 5th-level occultist
+
 **Object Seer (Sp)**
 
-**Fullround:** You can expend 1 point of mental focus to gain insight into an object in your
+**Full-round:** You can expend 1 point of mental focus to gain insight into an object in your
 possession. You can ask one question, but that question must be tied in some way to the object, such
 as the nature of its power, the identity of the creature that last possessed it, or even where the
 object was when a certain event took place. You always receive an answer from the psychic
@@ -116,13 +116,13 @@ focus component for the spell and expending 1 point of mental focus.
 
 **Watchful Eye (Sp)**
 
-**Special:** The image will not wake you from slumber, although you do receive all of the images the
-sensor collected once you wake up. The sensor can be deceived by
-[invisibility](ref/spell/invisibility) and similar magic.
-
 **Standard:** You can expend 1 point of mental focus to create an invisible sensor within 30 feet
 that watches a 5-foot-square area. Whenever any creature enters that square, you receive a mental
 image of the creature as long as you are on the same plane as the sensor. The sensor remains active
 for 10 minutes per occultist level you possess. You can expend additional points of mental focus
 when creating the eye to increase the size of the square by 5 feet per additional point spent (to 10
 feet square, 15 feet square, and so on).
+
+**Special:** The image will not wake you from slumber, although you do receive all of the images the
+sensor collected once you wake up. The sensor can be deceived by
+[invisibility](ref/spell/invisibility) and similar magic.

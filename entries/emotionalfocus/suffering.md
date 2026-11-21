@@ -53,13 +53,15 @@ feet with this ability, regardless of the result of its combat maneuver check.
 
 **Gained:** At 7th Level
 
-**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
-
 **Swift:** The phantom can emit a 20-foot aura of protection. Allies within this aura gain a +4
 bonus on saving throws against curse, disease, evil, fear, pain, and poison effects. Deactivating
 the aura is a **free action**.
 
+**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
+
 **Suffer in Stead (Su)**
+
+**Gained:** At 12th Level
 
 **Immediate:** When her phantom is fully manifested and within 30 feet of her, she can transfer any
 of the following conditions to the phantom that would afflict her: blinded, deafened, exhausted,
@@ -69,18 +71,16 @@ listed conditions are already affecting the phantom. Using this ability does not
 of the transferred condition; it simply makes the condition affect the phantom instead of the
 spiritualist.
 
-**At 18th Level:** The phantom can use this ability as an **immediate action** to transfer any of
+**At 18th level,** the phantom can use this ability as an **immediate action** to transfer any of
 the listed conditions to itself when the condition would afflict any ally within 30 feet. Using the
 ability in this way requires no additional action from the spiritualist.
 
-**Gained:** At 12th Level
-
 **Willing Martyr (Su)**
+
+**Gained:** At 17th Level
 
 **Flavor:** The phantom begins to anticipate when the spiritualist or her allies would fall into
 grave bodily danger and can take those wounds itself.
-
-**Gained:** At 17th Level
 
 **Passive:** Whenever the phantom is fully manifested and the spiritualist or an ally is reduced to
 one-quarter or fewer hit points, as long as the phantom is within 30 feet, it must take any hit

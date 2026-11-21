@@ -14,10 +14,10 @@ group = "style-strike"
 
 **Overbearing Assault**
 
+**Flavor:** The monk attacks relentlessly, backing his foe into a corner.
+
 **Ability:** If the attack hits, the monk can perform a free [reposition](ref/rule/reposition)
 combat maneuver against the target of the strike (using the base attack bonus of the attack used to
 hit the foe) with a -5 penalty.
-
-**Flavor:** The monk attacks relentlessly, backing his foe into a corner.
 
 **Special:** This reposition attempt does not provoke an attack of opportunity.

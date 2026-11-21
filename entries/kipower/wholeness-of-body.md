@@ -14,6 +14,6 @@ group = "ki-power"
 
 **Wholeness of Body (Su)**
 
-**Ability:** By spending 2 ki points, he can heal an amount of damage equal to 1d8 + his monk level.
-
 **Flavor:** A monk with this ki power can heal his own wounds.
+
+**Ability:** By spending 2 ki points, he can heal an amount of damage equal to 1d8 + his monk level.

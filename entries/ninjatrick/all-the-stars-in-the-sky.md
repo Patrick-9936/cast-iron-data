@@ -14,9 +14,9 @@ group = "ninja-trick"
 
 **All the Stars in the Sky (Ex)**
 
+**Flavor:** Certain master ninjas possess a seemingly limitless supply of their trusted weapons.
+
 **Ability:** Whenever a ninja with this trick buys a set of 50 identical magic
 [shuriken](ref/eq-weapon/shuriken), she thereafter replenishes them at no cost and never runs out.
 This stock of magical shuriken can be upgraded as though it were a normal magic weapon, and shuriken
 upgraded this way likewise never run out.
-
-**Flavor:** Certain master ninjas possess a seemingly limitless supply of their trusted weapons.

@@ -14,14 +14,14 @@ group = "mesmerist-trick"
 
 **Vanish Arrow**
 
+**Flavor:** With a flourish, the mesmerist snatches a projectile from an enemy before it can be
+shot.
+
 **Ability:** The mesmerist can trigger this trick when the subject is targeted by a ranged weapon
 attack, before the attack roll is made. The mesmerist attempts a
 [Sleight of Hand](ref/skill/sleight-of-hand) check opposed by the attacker's
 [Perception](ref/skill/perception) check. If the mesmerist succeeds, that ranged attack
 automatically misses, and the projectile appears stowed on the mesmerist's person.
-
-**Flavor:** With a flourish, the mesmerist snatches a projectile from an enemy before it can be
-shot.
 
 **Special:** If the attacker is making a full attack, this affects only one of the attacks (of the
 mesmerist's choice). If the attack is made with a [javelin](ref/eq-weapon/javelin) or other thrown

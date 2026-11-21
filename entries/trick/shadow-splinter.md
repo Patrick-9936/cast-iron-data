@@ -14,6 +14,9 @@ group = "mesmerist-trick"
 
 **Shadow Splinter**
 
+**Flavor:** The mesmerist protects the subject against an attack and redirects the harm to someone
+else.
+
 **Ability:** The mesmerist can trigger this trick when the subject takes damage from an attack. The
 damage the subject takes is reduced by an amount equal to 3 + the mesmerist's Charisma modifier (to
 a maximum of the total amount of damage the attack deals).
@@ -24,9 +27,6 @@ attacker's actual target. This second creature takes an amount of damage equal t
 which the attack's damage was reduced. This shadow doesn't require a roll to hit and ignores cover
 and concealment, but the target can attempt a Will save to disbelieve the effect. If it succeeds at
 this save, it neither takes the damage nor believes the attacker targeted it.
-
-**Flavor:** The mesmerist protects the subject against an attack and redirects the harm to someone
-else.
 
 **Special:** This trick can't be triggered if there's no eligible second creature within range to
 take the redirected damage. This is an illusion (shadow) effect.

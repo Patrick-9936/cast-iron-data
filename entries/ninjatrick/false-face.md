@@ -14,9 +14,9 @@ group = "ninja-trick"
 
 **False Face (Su)**
 
+**Flavor:** Like [oni](ref/family/oni) who take mortal shapes to infiltrate society, some ninjas can
+mold their flesh to pass unsuspected.
+
 **Ability:** A ninja with this trick gains the [change shape](ref/umr/change-shape) (any Small or
 Medium humanoid, [alter self](ref/spell/alter-self)) universal monster rule as long as she has at
 least 1 ki point.
-
-**Flavor:** Like [oni](ref/family/oni) who take mortal shapes to infiltrate society, some ninjas can
-mold their flesh to pass unsuspected.

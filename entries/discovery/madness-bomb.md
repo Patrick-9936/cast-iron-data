@@ -14,10 +14,10 @@ group = "alchemist-discovery"
 
 **Madness Bomb**
 
+**Flavor:** The alchemist's bombs do more than sear flesh - they sear the mind.
+
 **Ability:** A creature that takes a direct hit from a _madness bomb_ takes damage from the bomb
 plus 1d4 points of [Wisdom damage](ref/rule/ability-damage-drain).
-
-**Flavor:** The alchemist's bombs do more than sear flesh - they sear the mind.
 
 **Prereq:** 12th-level alchemist
 

@@ -38,24 +38,18 @@ of 1 + [one-fourth](ref/misc/fractions-and-rounding) of your occultist level.
 
 **Cloud Mind (Su)**
 
-**Special:** The foe can attempt a Will saving throw to negate the effect. Whether or not it
-succeeds at the save, the target is then immune to this effect for 1 day. This is a mind-affecting
-effect.
-
 **Standard:** You can expend 1 point of mental focus to cloud the mind of one foe within 30 feet.
 That foe is [dazed](ref/misc/dazed) for 1 round if the number of Hit Dice it possesses is less than
 or equal to or your occultist level. If it has more Hit Dice than your occultist level, it is
 [staggered](ref/misc/staggered) for 1 round instead.
 
+**Special:** The foe can attempt a Will saving throw to negate the effect. Whether or not it
+succeeds at the save, the target is then immune to this effect for 1 day. This is a mind-affecting
+effect.
+
 ### Focus Powers
 
 **Binding Pattern (Sp)**
-
-**Prereq:** 7th-level occultist
-
-**Special:** At the end of each of its turns, it can attempt another Will save to end the paralyzed
-effect and instead be staggered for the remaining duration. This is a mind-affecting compulsion
-effect.
 
 **Standard:** You can expend 1 point of mental focus to create a binding pattern of psychic energy
 that causes a living creature to become [paralyzed](ref/rule/paralyzed). The target must be within
@@ -63,11 +57,13 @@ that causes a living creature to become [paralyzed](ref/rule/paralyzed). The tar
 it is paralyzed for a number of rounds equal to [half](ref/misc/fractions-and-rounding) of your
 occultist level.
 
+**Prereq:** 7th-level occultist
+
+**Special:** At the end of each of its turns, it can attempt another Will save to end the paralyzed
+effect and instead be staggered for the remaining duration. This is a mind-affecting compulsion
+effect.
+
 **Forced Alliance (Sp)**
-
-**Prereq:** 5th-level occultist
-
-**Special:** This is a mind-affecting charm effect.
 
 **Standard:** You can alter a living creature's mind, causing it to see you as a friend and ally. If
 the creature is the same creature type as you, this power requires you to expend 1 point of mental
@@ -78,6 +74,10 @@ attempt to harm you (although your allies are not protected).
 You can call on the creature to aid you directly, but while doing so the creature can attempt a new
 Will save at the end of each round to end the effect. This effect otherwise lasts 1 round per
 occultist level you possess.
+
+**Prereq:** 5th-level occultist
+
+**Special:** This is a mind-affecting charm effect.
 
 **Inspired Assault (Sp)**
 
@@ -99,11 +99,6 @@ for 1 round per occultist level you possess.
 
 **Mind Slumber (Sp)**
 
-**Prereq:** 3rd-level occultist
-
-**Special:** This is a mind-affecting compulsion effect. Regardless of whether it succeeds at the
-save, the target is then immune to this effect for 24 hours.
-
 **Standard:** By expending 1 point of mental focus, you can lull a living creature into a deep
 mental slumber, forcing it to view the world as a dream. The target must be within 30 feet of you,
 and it can attempt a Will saving throw to negate the effect. If it fails the save, the creature
@@ -116,6 +111,11 @@ The creature remains asleep for a number of rounds equal to your occultist level
 any amount of damage, which immediately wakes it. At the end of each of its turns, it receives
 another Will saving throw to end the effect. The creature can be manipulated or examined without
 waking it, but it can't be moved from its square without waking it.
+
+**Prereq:** 3rd-level occultist
+
+**Special:** This is a mind-affecting compulsion effect. Regardless of whether it succeeds at the
+save, the target is then immune to this effect for 24 hours.
 
 **Obey (Sp)**
 

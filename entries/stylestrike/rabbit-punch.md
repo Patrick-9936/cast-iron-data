@@ -14,10 +14,10 @@ group = "style-strike"
 
 **Rabbit Punch**
 
+**Flavor:** The monk gives a sharp blow to the back of a foe's head.
+
 **Ability:** The critical threat range and critical multiplier of this strike increase by 1, and the
 monk gains a +2 bonus on attack rolls to confirm a critical hit with this strike.
-
-**Flavor:** The monk gives a sharp blow to the back of a foe's head.
 
 **Special:** This increase is not doubled by [Improved Critical](ref/feat/improved-critical) or
 similar effects. Creatures without a discernible head are unaffected by this style strike (subject

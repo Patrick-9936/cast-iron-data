@@ -29,13 +29,13 @@ creatures.
 
 **Casting Focus (Su)**
 
+**Flavor:** The implement empowers the bearer's ties to the worlds beyond, allowing his spells to
+maintain their power for a longer period of time.
+
 **Ability:** The bearer can add the implement as an additional focus component to any conjuration
 spell he casts that has a duration measured in rounds per level. If he does so, he adds 1 to his
 caster level for every 2 points of mental focus stored in the implement (to a maximum bonus equal to
 your occultist level).
-
-**Flavor:** The implement empowers the bearer's ties to the worlds beyond, allowing his spells to
-maintain their power for a longer period of time.
 
 **Special:** This increase applies only when determining the duration of the spell. Apply this
 increase after other effects that adjust a spell's duration, such as
@@ -45,25 +45,25 @@ increase after other effects that adjust a spell's duration, such as
 
 **Servitor (Sp)**
 
-**Special:** You can't have more than one servitor in effect at a time. At any time, you can expend
-1 point of mental focus as a **free action** to extend the duration of an active servitor by 1
-minute.
-
 **Standard:** You can expend 1 point of mental focus to summon a servitor. This ability functions as
 [summon monster I](ref/spell/summon-monster-1), but you can use it only to summon a single creature,
 and the effect lasts for 1 minute.
 
-At 4th level: This now behaves as [summon monster II](ref/spell/summon-monster-2).
+**At 4th level,** this now behaves as [summon monster II](ref/spell/summon-monster-2).
 
-At 7th level: This now behaves as [summon monster III](ref/spell/summon-monster-3).
+**At 7th level,** this now behaves as [summon monster III](ref/spell/summon-monster-3).
 
-At 10th level: This now behaves as [summon monster IV](ref/spell/summon-monster-4).
+**At 10th level,** this now behaves as [summon monster IV](ref/spell/summon-monster-4).
 
-At 13th level: This now behaves as [summon monster V](ref/spell/summon-monster-5).
+**At 13th level,** this now behaves as [summon monster V](ref/spell/summon-monster-5).
 
-At 16th level: This now behaves as [summon monster VI](ref/spell/summon-monster-6).
+**At 16th level,** this now behaves as [summon monster VI](ref/spell/summon-monster-6).
 
-At 19th level: This now behaves as [summon monster VII](ref/spell/summon-monster-7).
+**At 19th level,** this now behaves as [summon monster VII](ref/spell/summon-monster-7).
+
+**Special:** You can't have more than one servitor in effect at a time. At any time, you can expend
+1 point of mental focus as a **free action** to extend the duration of an active servitor by 1
+minute.
 
 ### Focus Powers
 
@@ -81,31 +81,31 @@ occultist level you possess.
 
 **Flesh Mend (Sp)**
 
-**Prereq:** 3rd-level occultist
-
 **Standard:** You can expend 1 point of mental focus to heal a living creature with a touch. The
 creature is healed an amount of damage equal to 1d8 + your occultist level. This has no effect on
 undead creatures.
 
-At 7th level: The healing increases to 2d8 + your occultist level.
+**At 7th level,** the healing increases to 2d8 + your occultist level.
 
-At 11th level: The healing increases to 3d8 + your occultist level.
+**At 11th level,** the healing increases to 3d8 + your occultist level.
 
-At 15th level: The healing increases to 4d8 + your occultist level.
+**At 15th level,** the healing increases to 4d8 + your occultist level.
 
-At 19th level: The healing increases to 5d8 + your occultist level.
+**At 19th level,** the healing increases to 5d8 + your occultist level.
+
+**Prereq:** 3rd-level occultist
 
 **Mind Steed (Sp)**
-
-**At 5th Level:** The mount's base land speed increases by 20 feet.
-
-**At 9th Level:** If you expend 1 additional point of mental focus, the mount can fly at a speed of
-60 feet with good maneuverability, but doing so reduces the mount's duration to 1 minute per
-occultist level you possess.
 
 **Standard:** You can expend 1 point of mental focus to conjure a spectral horse. This horse can be
 either Medium or Large, but it otherwise functions as [mount](ref/spell/mount). The horse lasts for
 10 minutes per occultist level you possess.
+
+**At 5th level,** the mount's base land speed increases by 20 feet.
+
+**At 9th level,** if you expend 1 additional point of mental focus, the mount can fly at a speed of
+60 feet with good maneuverability, but doing so reduces the mount's duration to 1 minute per
+occultist level you possess.
 
 **Psychic Fog (Sp)**
 
@@ -124,13 +124,13 @@ can't be dispersed by wind.
 
 **Purge Corruption (Sp)**
 
-**Prereq:** 5th-level occultist
-
 **Standard:** You can expend 1 point of mental focus to draw out the corruption from a creature. You
 must touch the target with your implement to use this power. This ability functions as either
 [neutralize poison](ref/spell/neutralize-poison) or [remove disease](ref/spell/remove-disease),
 using your occultist level as the caster level. Each use of this ability can cure only one poison or
 one disease.
+
+**Prereq:** 5th-level occultist
 
 **Side Step (Sp)**
 

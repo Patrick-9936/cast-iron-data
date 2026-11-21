@@ -14,8 +14,8 @@ group = "ki-power"
 
 **Diamond Soul (Ex)**
 
-**Prereq:** 12th-level monk
-
 **Swift:** A monk can spend 2 ki points to gain [spell resistance](ref/rule/spell-resistance) equal
 to his monk level + 10. This spell resistance lasts for a number of rounds equal to the monk's
 level.
+
+**Prereq:** 12th-level monk

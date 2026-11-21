@@ -43,29 +43,29 @@ skills.
 
 **Ability:** The phantom threatens a critical hit with its slam attacks on a roll of 19-20.
 
-**At 11th Level:** The phantom's critical modifier with slam attacks increases to ×3. This doesn't
+**At 11th level,** the phantom's critical modifier with slam attacks increases to ×3. This doesn't
 stack with [Improved Critical](ref/feat/improved-critical) or similar effects.
 
 **Determination Aura (Su)**
 
 **Gained:** At 7th Level
 
-**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
-
 **Swift:** The phantom can emit a 20-foot-radius aura that grants its zeal to nearby allies. Allies
 within the aura gain a +2 competence bonus on attack rolls and saving throws.
 
+**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
+
 **Steadfast Servant (Su)**
+
+**Gained:** At 12th Level
 
 **Ability:** The phantom can stay manifested even when its spiritualist master is unconscious or
 asleep.
 
-**Gained:** At 12th Level
-
 **Zeal's Resolve (Su)**
+
+**Gained:** At 17th Level
 
 **Free:** Three times per day, when the phantom misses with an attack roll or fails a saving throw,
 it can reroll the failed attack or saving throw. It must take the new result, even if that result is
 worse.
-
-**Gained:** At 17th Level

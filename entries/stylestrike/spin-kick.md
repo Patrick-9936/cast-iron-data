@@ -14,10 +14,10 @@ group = "style-strike"
 
 **Spin Kick**
 
+**Flavor:** The monk spins about, delivering a kick his foe did not expect.
+
 **Ability:** The monk makes his attack against the foe's [flat-footed](ref/rule/flat-footed) AC.
 Creatures with the [uncanny dodge](ref/ability/uncanny-dodge) class feature or a similar effect
 cannot be caught flat-footed by this style strike.
-
-**Flavor:** The monk spins about, delivering a kick his foe did not expect.
 
 **Special:** The monk must attack with a kick to use this style strike.

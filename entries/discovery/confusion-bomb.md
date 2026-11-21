@@ -14,11 +14,11 @@ group = "alchemist-discovery"
 
 **Confusion Bomb**
 
+**Flavor:** The alchemist's bombs twist the target's perception of friend and foe.
+
 **Ability:** A creature that takes a direct hit from a _confusion bomb_ takes damage from the bomb
 and is under the effect of a [confusion](ref/spell/confusion) spell for 1 round per caster level of
 the alchemist.
-
-**Flavor:** The alchemist's bombs twist the target's perception of friend and foe.
 
 **Prereq:** 8th-level alchemist
 
