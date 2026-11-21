@@ -53,31 +53,35 @@ immense serpents._
 
 **Experience points:** 6,553,600
 
-**Armor class:** 47/32/42
+**Armor class:** 47
+
+**Touch:** 32
+
+**Flat-footed:** 42
+
+**AC modifiers:** +4 deflection, +5 Dex, +8 natural, +15 profane, +7 shield, -2 size
+
+**Hit points:** 731 (34d10+544)
+
+**Fort:** +31
+
+**Ref:** +28
+
+**Will:** +33; +8 vs. mind-affecting effects
 
 **Defensive abilities:** all-around vision, envenomed scales, infernal resurrection,
 _[mind blank](ref/spell/mind-blank)_, threefold body
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +31
-
-**Hit points:** 731 (34d10+544)
-
 **Immune:** ability damage, ability drain, charm, cold, compulsion, death effects, energy drain,
 fire, memory loss effects, petrification, poison
-
-**Mod:** +4 deflection, +5 Dex, +8 natural, +15 profane, +7 shield, -2 size
-
-**Ref:** +28
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30
 
 **Sr:** 40
-
-**Will:** +33; +8 vs. mind-affecting effects
 
 **Offense**
 

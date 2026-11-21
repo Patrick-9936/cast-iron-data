@@ -52,21 +52,25 @@ razor-like fins._
 
 **Experience points:** 51,200
 
-**Armor class:** 28/10/24
+**Armor class:** 28
 
-**Fort:** +17
+**Touch:** 10
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 Dex, +18 natural, -4 size
 
 **Hit points:** 212 (17d10+119)
 
-**Immune:** poison
-
-**Mod:** +4 Dex, +18 natural, -4 size
+**Fort:** +17
 
 **Ref:** +14
 
-**Resist:** fire 30
-
 **Will:** +9
+
+**Immune:** poison
+
+**Resist:** fire 30
 
 **Offense**
 

@@ -53,27 +53,31 @@ of shimmering dust._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/22/21
+**Armor class:** 27
+
+**Touch:** 22
+
+**Flat-footed:** 21
+
+**AC modifiers:** +6 deflection, +6 Dex, +5 natural
+
+**Hit points:** 162 (12d10+96)
+
+**Fort:** +12
+
+**Ref:** +14
+
+**Will:** +16
 
 **Defensive abilities:** stardust
 
 **Dr:** 10/evil
 
-**Fort:** +12
-
-**Hit points:** 162 (12d10+96)
-
 **Immune:** cold
-
-**Mod:** +6 deflection, +6 Dex, +5 natural
-
-**Ref:** +14
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 23
-
-**Will:** +16
 
 **Offense**
 

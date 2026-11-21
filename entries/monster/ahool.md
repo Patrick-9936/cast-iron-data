@@ -48,19 +48,23 @@ in sharp claws._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/12/19
+**Armor class:** 22
 
-**Ferocity:** present
+**Touch:** 12
 
-**Fort:** +12
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +10 natural, -1 size
 
 **Hit points:** 114 (12d10+48)
 
-**Mod:** +3 Dex, +10 natural, -1 size
+**Fort:** +12
 
 **Ref:** +11
 
 **Will:** +8
+
+**Ferocity:** present
 
 **Offense**
 

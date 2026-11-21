@@ -50,19 +50,23 @@ pulses and crawls with sickly boils._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +1 dodge, +6 natural
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +1 dodge, +6 natural
+**Fort:** +4
 
 **Ref:** +6
 
 **Will:** +6
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

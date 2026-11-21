@@ -50,19 +50,23 @@ legs twitching across the sand._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/16/16
+**Armor class:** 18
 
-**Fort:** +6
+**Touch:** 16
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +2 natural, +4 size
 
 **Hit points:** 38 (7d8+7)
 
-**Immune:** mind-affecting effects, swarm traits, weapon damage
-
-**Mod:** +2 Dex, +2 natural, +4 size
+**Fort:** +6
 
 **Ref:** +4
 
 **Will:** +2
+
+**Immune:** mind-affecting effects, swarm traits, weapon damage
 
 **Offense**
 

@@ -50,19 +50,23 @@ _This large, regal canine looks like a juvenile mastiff. It has red fur and vibr
 
 **Experience points:** 600
 
-**Armor class:** 14/11/14
+**Armor class:** 14
 
-**Dr:** 5/cold iron
+**Touch:** 11
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +3 natural, +1 size
 
 **Hit points:** 22 (3d10+6)
 
-**Mod:** +3 natural, +1 size
+**Fort:** +3
 
 **Ref:** +3
 
 **Will:** +2
+
+**Dr:** 5/cold iron
 
 **Offense**
 

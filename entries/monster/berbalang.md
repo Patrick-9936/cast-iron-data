@@ -47,23 +47,27 @@ presenting a frightening visage._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/15/15
+**Armor class:** 20
+
+**Touch:** 15
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +1 dodge, +5 natural
+
+**Hit points:** 68 (8d8+32)
+
+**Fort:** +6
+
+**Ref:** +6
+
+**Will:** +9
 
 **Defensive abilities:** projection
 
 **Dr:** 10/good or silver
 
-**Fort:** +6
-
-**Hit points:** 68 (8d8+32)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +1 dodge, +5 natural
-
-**Ref:** +6
-
-**Will:** +9
 
 **Offense**
 

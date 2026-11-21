@@ -56,25 +56,29 @@ slowly ripples through the air._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/14/16
+**Armor class:** 19
 
-**Dr:** 5/evil
+**Touch:** 14
 
-**Fort:** +6
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +5 natural, +1 size; +4 deflection vs. evil
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** acid, cold, petrification
-
-**Mod:** +3 Dex, +5 natural, +1 size; +4 deflection vs. evil
+**Fort:** +6
 
 **Ref:** +9
+
+**Will:** +9; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 5/evil
+
+**Immune:** acid, cold, petrification
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 17
-
-**Will:** +9; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

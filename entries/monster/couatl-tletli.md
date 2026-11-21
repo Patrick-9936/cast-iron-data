@@ -50,23 +50,27 @@ along the feathers of its burning wings._
 
 **Experience points:** 38,400
 
-**Armor class:** 30/13/25
+**Armor class:** 30
 
-**Fort:** +12
+**Touch:** 13
+
+**Flat-footed:** 25
+
+**AC modifiers:** +4 Dex, +1 dodge, +17 natural, -2 size
 
 **Hit points:** 200 (16d10+112)
 
-**Immune:** fire
-
-**Mod:** +4 Dex, +1 dodge, +17 natural, -2 size
+**Fort:** +12
 
 **Ref:** +16
+
+**Will:** +17
+
+**Immune:** fire
 
 **Resist:** acid 15, cold 15, electricity 15
 
 **Sr:** 25
-
-**Will:** +17
 
 **Offense**
 

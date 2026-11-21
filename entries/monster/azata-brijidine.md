@@ -54,27 +54,31 @@ _This beautiful woman has flesh made of lava. She soars through the sky on a tra
 
 **Experience points:** 102,400
 
-**Armor class:** 32/19/27
+**Armor class:** 32
 
-**Dr:** 10/cold iron and evil
+**Touch:** 19
 
-**Fort:** +22
+**Flat-footed:** 27
+
+**AC modifiers:** +4 deflection, +5 Dex, +13 natural
 
 **Hit points:** 256 (19d10+152)
 
-**Immune:** electricity, fire, petrification
-
-**Mod:** +4 deflection, +5 Dex, +13 natural
+**Fort:** +22
 
 **Ref:** +15
+
+**Will:** +21
+
+**Dr:** 10/cold iron and evil
+
+**Immune:** electricity, fire, petrification
 
 **Resist:** cold 10
 
 **Sr:** 28
 
 **Vulner:** cold
-
-**Will:** +21
 
 **Offense**
 

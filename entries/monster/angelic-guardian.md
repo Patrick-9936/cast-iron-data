@@ -48,23 +48,27 @@ form of a burning crown._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/16
+**Armor class:** 18
+
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +6 natural
+
+**Hit points:** 53 (6d10+20)
+
+**Fort:** +2
+
+**Ref:** +4
+
+**Will:** +2
 
 **Defensive abilities:** deflective wings
 
 **Dr:** 5/adamantine
 
-**Fort:** +2
-
-**Hit points:** 53 (6d10+20)
-
 **Immune:** [construct traits](ref/umr/construct-traits), fire
-
-**Mod:** +2 Dex, +6 natural
-
-**Ref:** +4
-
-**Will:** +2
 
 **Offense**
 

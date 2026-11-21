@@ -54,13 +54,17 @@ plunging beneath the waves._
 
 **Experience points:** 102,400
 
-**Armor class:** 27/-1/27
+**Armor class:** 27
 
-**Fort:** +23
+**Touch:** -1
+
+**Flat-footed:** 27
+
+**AC modifiers:** +28 armor, -3 Dex, -8 size
 
 **Hit points:** 297 (22d10+176)
 
-**Mod:** +28 armor, -3 Dex, -8 size
+**Fort:** +23
 
 **Ref:** +10
 

@@ -58,7 +58,21 @@ stretched over its icy bones._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/16/24
+**Armor class:** 30
+
+**Touch:** 16
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 armor, +5 Dex, +1 Dodge, +10 natural
+
+**Hit points:** 209 (22d8+110)
+
+**Fort:** +13
+
+**Ref:** +14
+
+**Will:** +18
 
 **Chan Res:** +4
 
@@ -66,21 +80,11 @@ stretched over its icy bones._
 
 **Fh:** 10
 
-**Fort:** +13
-
-**Hit points:** 209 (22d8+110)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 armor, +5 Dex, +1 Dodge, +10 natural
-
-**Ref:** +14
 
 **Sr:** 26
 
 **Vulner:** fire
-
-**Will:** +18
 
 **Offense**
 

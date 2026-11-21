@@ -46,21 +46,25 @@ _This large beetle's black, shiny exoskeleton clicks and grinds as it opens its 
 
 **Experience points:** 800
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Fort:** +6
+**Touch:** 9
+
+**Flat-footed:** 17
+
+**AC modifiers:** +8 natural, -1 size
 
 **Hit points:** 26 (4d8+8)
 
-**Immune:** acid, mind-affecting effects
-
-**Mod:** +8 natural, -1 size
+**Fort:** +6
 
 **Ref:** +1
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +1
+
+**Immune:** acid, mind-affecting effects
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

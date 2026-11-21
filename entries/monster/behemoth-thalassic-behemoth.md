@@ -55,20 +55,26 @@ sea._
 
 **Experience points:** 307,200
 
-**Armor class:** 37/1/37
+**Armor class:** 37
 
-**Dr:** 15/epic
+**Touch:** 1
 
-**Fort:** +24
+**Flat-footed:** 37
+
+**AC modifiers:** -1 Dex, +36 natural, -8 size
 
 **Hit points:** 391 (29d10+232)
 
-**Immune:** ability damage, aging, bleed, cold, disease, energy drain, fire, mind-affecting effects,
-negative levels, paralysis, permanent wounds, petrification, poison, polymorph
-
-**Mod:** -1 Dex, +36 natural, -8 size
+**Fort:** +24
 
 **Ref:** +17
+
+**Will:** +14
+
+**Dr:** 15/epic
+
+**Immune:** ability damage, aging, bleed, cold, disease, energy drain, fire, mind-affecting effects,
+negative levels, paralysis, permanent wounds, petrification, poison, polymorph
 
 **Regen:** 20
 
@@ -77,8 +83,6 @@ negative levels, paralysis, permanent wounds, petrification, poison, polymorph
 **Unstop:** present
 
 **Vulner:** [miracles](ref/spell/miracle) and [wishes](ref/spell/wish)
-
-**Will:** +14
 
 **Offense**
 

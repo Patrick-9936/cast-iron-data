@@ -51,23 +51,27 @@ and its thorny flowers drip blood._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/18/15
+**Armor class:** 24
 
-**Dr:** 10/slashing
+**Touch:** 18
 
-**Fort:** +14
+**Flat-footed:** 15
+
+**AC modifiers:** +9 Dex, +6 natural, -1 size
 
 **Hit points:** 126 (12d8+72)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +9 Dex, +6 natural, -1 size
+**Fort:** +14
 
 **Ref:** +13
 
-**Vulner:** fire
-
 **Will:** +8
+
+**Dr:** 10/slashing
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Vulner:** fire
 
 **Offense**
 

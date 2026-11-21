@@ -52,30 +52,34 @@ abilities = ["17", "20", "26", "46", "24", "32"]
 
 **Experience points:** 9,830,400
 
-**Armor class:** 51/31/46
+**Armor class:** 51
+
+**Touch:** 31
+
+**Flat-footed:** 46
+
+**AC modifiers:** +13 armor, +5 deflection, +5 Dex, +11 insight, +7 natural
+
+**Hit points:** 782 (20d6+710)
+
+**Fort:** +30
+
+**Ref:** +27
+
+**Will:** +35
 
 **Defensive abilities:** hard to kill, mythic saving throws
 
 **Dr:** 10/epic and good
 
-**Fort:** +30
-
-**Hit points:** 782 (20d6+710)
-
 **Immune:** ability damage and drain, charm and compulsion effects, death effects, disease, energy
 drain, petrification, poison, and all forms of madness
-
-**Mod:** +13 armor, +5 deflection, +5 Dex, +11 insight, +7 natural
-
-**Ref:** +27
 
 **Regen:** 20
 
 **Sr:** 35 (arcane only)
 
 **Unstop:** present
-
-**Will:** +35
 
 **Offense**
 

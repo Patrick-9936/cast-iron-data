@@ -54,13 +54,17 @@ babbles to itself as it flies, as if to remind itself of secrets only it knows._
 
 **Experience points:** 800
 
-**Armor class:** 16/16/14
+**Armor class:** 16
 
-**Fort:** +2
+**Touch:** 16
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +2 insight, +2 size
 
 **Hit points:** 27 (6d8)
 
-**Mod:** +2 Dex, +2 insight, +2 size
+**Fort:** +2
 
 **Ref:** +6
 

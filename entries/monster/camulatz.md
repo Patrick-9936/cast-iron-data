@@ -51,13 +51,17 @@ beak and powerful talons are instead adorned with dried blood and gore._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/12/19
+**Armor class:** 22
 
-**Fort:** +12
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +10 natural, -1 size
 
 **Hit points:** 114 (12d10+48)
 
-**Mod:** +3 Dex, +10 natural, -1 size
+**Fort:** +12
 
 **Ref:** +11
 

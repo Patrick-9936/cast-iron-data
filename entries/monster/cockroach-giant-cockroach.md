@@ -49,19 +49,23 @@ _A dog-sized cockroach skitters forth, greedily clicking its filth-slicked mandi
 
 **Experience points:** 200
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +2 natural, +1 size
 
 **Hit points:** 8 (1d8+4)
 
-**Mod:** +1 Dex, +2 natural, +1 size
+**Fort:** +6
 
 **Ref:** +1
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +0
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

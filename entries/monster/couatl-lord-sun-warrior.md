@@ -50,19 +50,23 @@ _This brilliantly colored couatl radiates a palpable air of peace and wisdom._
 
 **Experience points:** 51,200
 
-**Armor class:** 28/13/24
+**Armor class:** 28
 
-**Fort:** +14
+**Touch:** 13
+
+**Flat-footed:** 24
+
+**AC modifiers:** +3 Dex, +1 dodge, +15 natural, -1 size
 
 **Hit points:** 230 (20d10+120)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +1 dodge, +15 natural, -1 size
+**Fort:** +14
 
 **Ref:** +17
 
 **Will:** +19
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

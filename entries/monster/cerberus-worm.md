@@ -51,25 +51,29 @@ poisonous cloud that flickers like fire._
 
 **Experience points:** 38,400
 
-**Armor class:** 27/7/26
+**Armor class:** 27
 
-**Defensive abilities:** elusive
+**Touch:** 7
 
-**Fort:** +18
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +20 natural, -4 size
 
 **Hit points:** 229 (17d10+136)
 
-**Immune:** poison
-
-**Mod:** +1 Dex, +20 natural, -4 size
+**Fort:** +18
 
 **Ref:** +13
+
+**Will:** +6
+
+**Defensive abilities:** elusive
+
+**Immune:** poison
 
 **Resist:** fire 30
 
 **Sr:** 25
-
-**Will:** +6
 
 **Offense**
 

@@ -50,23 +50,27 @@ _This crimson-skinned genie has an artificial, sculpted appearance._
 
 **Experience points:** 400
 
-**Armor class:** 18/16/14
+**Armor class:** 18
 
-**Dr:** 10/adamantine
+**Touch:** 16
 
-**Fort:** +0
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +2 dodge, +2 natural, +2 size
 
 **Hit points:** 5 (1d10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +2 dodge, +2 natural, +2 size
+**Fort:** +0
 
 **Ref:** +4
 
-**Vulner:** electricity
-
 **Will:** +0
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

@@ -53,25 +53,29 @@ glowing golden light within._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/10/21
+**Armor class:** 21
+
+**Touch:** 10
+
+**Flat-footed:** 21
+
+**AC modifiers:** +8 natural, +3 shield
+
+**Hit points:** 97 (14d10+20)
+
+**Fort:** +9
+
+**Ref:** +9
+
+**Will:** +10
 
 **Defensive abilities:** divine grace
 
 **Dr:** 5/adamantine and bludgeoning
 
-**Fort:** +9
-
-**Hit points:** 97 (14d10+20)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
 
-**Mod:** +8 natural, +3 shield
-
-**Ref:** +9
-
 **Sr:** 19
-
-**Will:** +10
 
 **Offense**
 

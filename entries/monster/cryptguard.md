@@ -51,21 +51,25 @@ raven's skull for a head._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/20
+**Armor class:** 23
 
-**Dr:** 10/adamantine
+**Touch:** 13
 
-**Fort:** +4
+**Flat-footed:** 20
+
+**AC modifiers:** +3 Dex, +10 natural
 
 **Hit points:** 111 (14d10+34)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +10 natural
+**Fort:** +4
 
 **Ref:** +7
 
 **Will:** +5
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

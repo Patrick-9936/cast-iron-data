@@ -47,19 +47,23 @@ the wee creature aloft._
 
 **Experience points:** 400
 
-**Armor class:** 17/17/14
+**Armor class:** 17
 
-**Dr:** 2/cold iron
+**Touch:** 17
 
-**Fort:** +1
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 size
 
 **Hit points:** 9 (2d6+2)
 
-**Mod:** +3 Dex, +4 size
+**Fort:** +1
 
 **Ref:** +6
 
 **Will:** +5
+
+**Dr:** 2/cold iron
 
 **Offense**
 

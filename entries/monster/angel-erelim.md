@@ -53,25 +53,29 @@ _This athletic, winged humanoid has handsome features and wields a shining lance
 
 **Experience points:** 2,400
 
-**Armor class:** 18/13/15
+**Armor class:** 18
 
-**Dr:** 5/evil
+**Touch:** 13
 
-**Fort:** +9
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +5 natural
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** acid, cold, petrification
-
-**Mod:** +3 Dex, +5 natural
+**Fort:** +9
 
 **Ref:** +5
+
+**Will:** +8; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 5/evil
+
+**Immune:** acid, cold, petrification
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 17
-
-**Will:** +8; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

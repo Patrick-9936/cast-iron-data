@@ -48,19 +48,23 @@ it spies prey._
 
 **Experience points:** 6,400
 
-**Armor class:** 21/2/21
+**Armor class:** 21
 
-**Fort:** +16
+**Touch:** 2
+
+**Flat-footed:** 21
+
+**AC modifiers:** +19 natural, -8 size
 
 **Hit points:** 135 (10d8+90)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +19 natural, -8 size
+**Fort:** +16
 
 **Ref:** +3
 
 **Will:** +3
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

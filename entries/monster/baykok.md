@@ -48,19 +48,23 @@ _This howling corpse swoops through the air with hideously elongated legs and a 
 
 **Experience points:** 6,400
 
-**Armor class:** 24/17/17
+**Armor class:** 24
 
-**Fort:** +7
+**Touch:** 17
+
+**Flat-footed:** 17
+
+**AC modifiers:** +6 Dex, +1 dodge, +7 natural
 
 **Hit points:** 97 (15d8+30)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +6 Dex, +1 dodge, +7 natural
+**Fort:** +7
 
 **Ref:** +11
 
 **Will:** +9
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

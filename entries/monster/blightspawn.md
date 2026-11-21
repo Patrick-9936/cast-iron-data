@@ -50,23 +50,27 @@ stinger._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
+
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
+
+**Hit points:** 52 (7d8+21)
+
+**Fort:** +5
+
+**Ref:** +8
+
+**Will:** +8
 
 **Dr:** 5/magic
 
 **Fh:** 3
 
-**Fort:** +5
-
-**Hit points:** 52 (7d8+21)
-
 **Immune:** acid, cold, poison
-
-**Mod:** +4 Dex, +4 natural
-
-**Ref:** +8
-
-**Will:** +8
 
 **Offense**
 

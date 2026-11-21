@@ -48,19 +48,23 @@ _This beautiful female sphinx appears both wise and thoughtful._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/5/28
+**Armor class:** 28
 
-**Dr:** 10/magic
+**Touch:** 5
 
-**Fort:** +17
+**Flat-footed:** 28
+
+**AC modifiers:** -1 Dex, +23 natural, -4 size
 
 **Hit points:** 207 (18d10+108)
 
-**Mod:** -1 Dex, +23 natural, -4 size
+**Fort:** +17
 
 **Ref:** +10
 
 **Will:** +13
+
+**Dr:** 10/magic
 
 **Offense**
 

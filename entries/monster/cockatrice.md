@@ -47,13 +47,17 @@ scaly tail._
 
 **Experience points:** 800
 
-**Armor class:** 15/15/11
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 15
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 dodge, +1 size
 
 **Hit points:** 27 (5d10)
 
-**Mod:** +3 Dex, +1 dodge, +1 size
+**Fort:** +4
 
 **Ref:** +7
 

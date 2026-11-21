@@ -55,19 +55,23 @@ stained with gore serves as a warning for opponents who dare draw closer._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/10/20
+**Armor class:** 21
 
-**Ferocity:** present
+**Touch:** 10
 
-**Fort:** +13
+**Flat-footed:** 20
+
+**AC modifiers:** +4 armor, +1 Dex, +7 natural, -1 size
 
 **Hit points:** 80 (10d8+2d10+24\~12)
 
-**Mod:** +4 armor, +1 Dex, +7 natural, -1 size
+**Fort:** +13
 
 **Ref:** +8
 
 **Will:** +6
+
+**Ferocity:** present
 
 **Offense**
 

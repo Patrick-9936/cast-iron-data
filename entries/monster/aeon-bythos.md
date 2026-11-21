@@ -53,25 +53,29 @@ in its torso._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/18/26
+**Armor class:** 31
 
-**Fh:** 10
+**Touch:** 18
 
-**Fort:** +18
+**Flat-footed:** 26
+
+**AC modifiers:** +4 deflection, +4 Dex, +1 dodge, +13 natural, -1 size
 
 **Hit points:** 207 (18d10+108)
 
-**Immune:** cold, critical hits, poison
-
-**Mod:** +4 deflection, +4 Dex, +1 dodge, +13 natural, -1 size
+**Fort:** +18
 
 **Ref:** +12
+
+**Will:** +20
+
+**Fh:** 10
+
+**Immune:** cold, critical hits, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 27
-
-**Will:** +20
 
 **Offense**
 

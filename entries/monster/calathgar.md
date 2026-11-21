@@ -49,23 +49,27 @@ twitches a cluster of sharp stamens arranged like a ring of teeth within a leafy
 
 **Experience points:** 1,200
 
-**Armor class:** 16/15/12
+**Armor class:** 16
 
-**Defensive abilities:** cold healing
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 12
+
+**AC modifiers:** +4 Dex, +1 natural, +1 size
 
 **Hit points:** 39 (6d8+12)
 
-**Immune:** cold, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +4 Dex, +1 natural, +1 size
+**Fort:** +6
 
 **Ref:** +6
 
-**Vulner:** fire
-
 **Will:** +4
+
+**Defensive abilities:** cold healing
+
+**Immune:** cold, [plant traits](ref/umr/plant-traits)
+
+**Vulner:** fire
 
 **Offense**
 

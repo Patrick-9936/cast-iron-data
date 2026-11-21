@@ -49,13 +49,17 @@ powerful tail lashing behind._
 
 **Experience points:** 600
 
-**Armor class:** 14/10/13
+**Armor class:** 14
 
-**Fort:** +6
+**Touch:** 10
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +4 natural, -1 size
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +1 Dex, +4 natural, -1 size
+**Fort:** +6
 
 **Ref:** +4
 

@@ -52,25 +52,29 @@ _This masked humanoid being has wings and armor of rune-carved gray stone, and i
 
 **Experience points:** 102,400
 
-**Armor class:** 33/14/29
+**Armor class:** 33
 
-**Dr:** 10/evil
+**Touch:** 14
 
-**Fort:** +20
+**Flat-footed:** 29
+
+**AC modifiers:** +9 armor, +3 Dex, +1 Dodge, +10 natural; +2 deflection vs. evil
 
 **Hit points:** 263 (17d10+170)
 
-**Immune:** electricity, fear, petrification
-
-**Mod:** +9 armor, +3 Dex, +1 Dodge, +10 natural; +2 deflection vs. evil
+**Fort:** +20
 
 **Ref:** +8
+
+**Will:** +16; +4 vs. poison
+
+**Dr:** 10/evil
+
+**Immune:** electricity, fear, petrification
 
 **Regen:** 10 (evil weapons and effects)
 
 **Sr:** 28
-
-**Will:** +16; +4 vs. poison
 
 **Offense**
 

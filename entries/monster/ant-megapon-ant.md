@@ -48,19 +48,23 @@ horse._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/7/19
+**Armor class:** 19
 
-**Fort:** +12
+**Touch:** 7
+
+**Flat-footed:** 19
+
+**AC modifiers:** -1 Dex, +12 natural, -2 size
 
 **Hit points:** 75 (6d8+48)
 
-**Immune:** mind-affecting effects
-
-**Mod:** -1 Dex, +12 natural, -2 size
+**Fort:** +12
 
 **Ref:** +1
 
 **Will:** +3
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

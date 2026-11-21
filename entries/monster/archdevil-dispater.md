@@ -53,30 +53,34 @@ mace of black metal._
 
 **Experience points:** 3,276,800
 
-**Armor class:** 45/35/35
+**Armor class:** 45
+
+**Touch:** 35
+
+**Flat-footed:** 35
+
+**AC modifiers:** +4 deflection, +9 Dex, +1 dodge, +10 natural, +12 profane, -1 size
+
+**Hit points:** 643 (33d10+462)
+
+**Fort:** +29
+
+**Ref:** +31
+
+**Will:** +34; +8 vs. mind-affecting effects
 
 **Defensive abilities:** infernal resurrection, _[mind blank](ref/spell/mind-blank)_
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +29
-
-**Hit points:** 643 (33d10+462)
-
 **Immune:** ability damage, ability drain, charm, compulsion, death effects, energy drain, fire,
 petrification, poison
-
-**Mod:** +4 deflection, +9 Dex, +1 dodge, +10 natural, +12 profane, -1 size
-
-**Ref:** +31
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, cold 30
 
 **Sr:** 38
-
-**Will:** +34; +8 vs. mind-affecting effects
 
 **Offense**
 

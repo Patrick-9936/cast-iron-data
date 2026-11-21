@@ -52,29 +52,33 @@ wield several exotic weapons._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/21/16
+**Armor class:** 24
 
-**Dr:** 10/good
+**Touch:** 21
+
+**Flat-footed:** 16
+
+**AC modifiers:** +7 Dex, +1 dodge, +3 insight, +3 natural
+
+**Hit points:** 114 (12d10+48)
 
 **Fort:** +12
 
-**Hit points:** 114 (12d10+48)
+**Ref:** +11
+
+**Will:** +15
+
+**Dr:** 10/good
 
 **Immune:** curse effects, disease, [flanking](ref/rule/flanking), poison
 
 **Improved evasion:** present
-
-**Mod:** +7 Dex, +1 dodge, +3 insight, +3 natural
-
-**Ref:** +11
 
 **Regen:** 5 (good weapons, good spells)
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 20
-
-**Will:** +15
 
 **Offense**
 

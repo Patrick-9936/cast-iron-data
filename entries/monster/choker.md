@@ -47,13 +47,17 @@ _This hunched-over wretch has long, pliable arms like tentacles capped with five
 
 **Experience points:** 600
 
-**Armor class:** 17/13/15
+**Armor class:** 17
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +4 natural, +1 size
 
 **Hit points:** 16 (3d8+3)
 
-**Mod:** +2 Dex, +4 natural, +1 size
+**Fort:** +2
 
 **Ref:** +3
 

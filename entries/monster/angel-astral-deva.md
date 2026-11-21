@@ -52,27 +52,31 @@ difficult to look directly at._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/14/25
+**Armor class:** 29
 
-**Dr:** 10/evil
+**Touch:** 14
 
-**Fort:** +16
+**Flat-footed:** 25
+
+**AC modifiers:** +4 Dex, +15 natural; +4 deflection vs. evil
 
 **Hit points:** 172 (15d10+90)
 
-**Immune:** acid, cold, petrification
-
-**Mod:** +4 Dex, +15 natural; +4 deflection vs. evil
+**Fort:** +16
 
 **Ref:** +13
+
+**Will:** +11; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** acid, cold, petrification
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 25
 
 **Uncanny dodge:** present
-
-**Will:** +11; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

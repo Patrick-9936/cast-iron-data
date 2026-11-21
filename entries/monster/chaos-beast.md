@@ -50,23 +50,27 @@ itself and reshaping into new forms._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/13/17
+**Armor class:** 20
+
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +1 dodge, +7 natural
+
+**Hit points:** 85 (9d10+36)
+
+**Fort:** +9
+
+**Ref:** +8
+
+**Will:** +4
 
 **Amorph:** present
 
 **Defensive abilities:** resistant to transformation
 
-**Fort:** +9
-
-**Hit points:** 85 (9d10+36)
-
-**Mod:** +2 Dex, +1 dodge, +7 natural
-
-**Ref:** +8
-
 **Sr:** 18
-
-**Will:** +4
 
 **Offense**
 

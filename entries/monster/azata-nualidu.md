@@ -51,23 +51,27 @@ _Clear, flowing water forms the arms and the lower half of this angelic, elf-lik
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Dr:** 5/cold iron or evil
+**Touch:** 14
 
-**Fort:** +8
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural
 
 **Hit points:** 51 (6d10+18)
 
-**Immune:** electricity, petrification
-
-**Mod:** +3 Dex, +1 dodge, +4 natural
+**Fort:** +8
 
 **Ref:** +8
 
-**Resist:** cold 10, fire 10
-
 **Will:** +4
+
+**Dr:** 5/cold iron or evil
+
+**Immune:** electricity, petrification
+
+**Resist:** cold 10, fire 10
 
 **Offense**
 

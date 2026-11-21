@@ -54,25 +54,29 @@ in the center of its chest._
 
 **Experience points:** 19,200
 
-**Armor class:** 25/13/21
+**Armor class:** 25
 
-**Dr:** 10/good
+**Touch:** 13
 
-**Fort:** +15
+**Flat-footed:** 21
+
+**AC modifiers:** +4 Dex, +12 natural, -1 size
 
 **Hit points:** 168 (16d10+80)
 
-**Immune:** electricity, poison
-
-**Mod:** +4 Dex, +12 natural, -1 size
+**Fort:** +15
 
 **Ref:** +14
+
+**Will:** +10
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 23
-
-**Will:** +10
 
 **Offense**
 

@@ -48,13 +48,17 @@ maw, and a long, thin tongue darts forth seemingly at random to lash the air aro
 
 **Experience points:** 400
 
-**Armor class:** 15/14/12
+**Armor class:** 15
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 armor, +3 Dex, +1 size
 
 **Hit points:** 11 (2d10)
 
-**Mod:** +1 armor, +3 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +6
 

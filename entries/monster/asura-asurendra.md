@@ -52,27 +52,31 @@ glowing weaponry._
 
 **Experience points:** 307,200
 
-**Armor class:** 35/25/26
+**Armor class:** 35
 
-**Dr:** 15/chaotic and good
+**Touch:** 25
 
-**Fort:** +25
+**Flat-footed:** 26
+
+**AC modifiers:** +5 deflection, +8 Dex, +1 dodge, +3 insight, +10 natural, -2 size
 
 **Hit points:** 385 (22d10+264)
 
-**Immune:** curse effects, disease, [flanking](ref/rule/flanking), poison, polymorph
-
-**Mod:** +5 deflection, +8 Dex, +1 dodge, +3 insight, +10 natural, -2 size
+**Fort:** +25
 
 **Ref:** +17
+
+**Will:** +20; +2 vs. enchantment spells
+
+**Dr:** 15/chaotic and good
+
+**Immune:** curse effects, disease, [flanking](ref/rule/flanking), poison, polymorph
 
 **Regen:** 10 (good weapons, good spells)
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 31
-
-**Will:** +20; +2 vs. enchantment spells
 
 **Offense**
 

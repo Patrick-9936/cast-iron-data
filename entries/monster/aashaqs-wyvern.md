@@ -48,23 +48,27 @@ stinger. Heavy smoke drips from the beast's nostrils and jaws._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Fort:** +11
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
 
 **Hit points:** 103 (9d12+45)
 
-**Immune:** dragon traits, magic paralysis and sleep
-
-**Mod:** +1 Dex, +10 natural, -1 size
+**Fort:** +11
 
 **Ref:** +7
+
+**Will:** +9
+
+**Immune:** dragon traits, magic paralysis and sleep
 
 **Resist:** acid 10, fire 10
 
 **Sr:** 19
-
-**Will:** +9
 
 **Offense**
 

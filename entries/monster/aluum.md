@@ -51,21 +51,25 @@ that glow with blue light._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/10/24
+**Armor class:** 25
 
-**Dr:** 10/adamantine
+**Touch:** 10
 
-**Fort:** +4
+**Flat-footed:** 24
+
+**AC modifiers:** +1 Dex, +15 natural, -1 size
 
 **Hit points:** 107 (14d10+30)
 
-**Immune:** magic, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +15 natural, -1 size
+**Fort:** +4
 
 **Ref:** +5
 
 **Will:** +4
+
+**Dr:** 10/adamantine
+
+**Immune:** magic, [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

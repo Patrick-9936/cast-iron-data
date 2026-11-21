@@ -52,23 +52,27 @@ swiftness._
 
 **Experience points:** 12,800
 
-**Armor class:** 23/16/17
+**Armor class:** 23
+
+**Touch:** 16
+
+**Flat-footed:** 17
+
+**AC modifiers:** +6 Dex, +7 natural
+
+**Hit points:** 149 (13d10+78)
+
+**Fort:** +10
+
+**Ref:** +14
+
+**Will:** +10
 
 **Defensive abilities:** natural invisibility
 
 **Dr:** 10/magic
 
-**Fort:** +10
-
-**Hit points:** 149 (13d10+78)
-
 **Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +6 Dex, +7 natural
-
-**Ref:** +14
-
-**Will:** +10
 
 **Offense**
 

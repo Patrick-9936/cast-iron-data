@@ -54,7 +54,21 @@ arms move with supple grace._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 40/22/35
+**Armor class:** 40
+
+**Touch:** 22
+
+**Flat-footed:** 35
+
+**AC modifiers:** +15 deflection, +5 Dex, +18 natural, -8 size
+
+**Hit points:** 615 (30d8+480)
+
+**Fort:** +25
+
+**Ref:** +15
+
+**Will:** +27
 
 **Chan Res:** +4
 
@@ -64,22 +78,12 @@ arms move with supple grace._
 
 **Fh:** 30
 
-**Fort:** +25
-
-**Hit points:** 615 (30d8+480)
-
 **Immune:** ability damage, ability drain, cold, death effects, disease, energy drain, fear,
 [undead traits](ref/umr/undead-traits)
-
-**Mod:** +15 deflection, +5 Dex, +18 natural, -8 size
-
-**Ref:** +15
 
 **Resist:** acid 30, electricity 30, fire 30, negative energy 30, sonic 30
 
 **Vulner:** fire
-
-**Will:** +27
 
 **Offense**
 

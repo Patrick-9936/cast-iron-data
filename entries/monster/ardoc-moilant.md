@@ -49,27 +49,31 @@ head, and iron pincers at the ends of its powerful arms snap open and shut._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/8/24
+**Armor class:** 24
+
+**Touch:** 8
+
+**Flat-footed:** 24
+
+**AC modifiers:** +16 natural, -2 size
+
+**Hit points:** 124 (13d10+53)
+
+**Fort:** +6
+
+**Ref:** +4
+
+**Will:** +10
 
 **Defensive abilities:** loyal servant
 
 **Dr:** 10/adamantine
 
-**Fort:** +6
-
-**Hit points:** 124 (13d10+53)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +16 natural, -2 size
-
-**Ref:** +4
 
 **Sr:** 26
 
 **Weaknesses:** thaumaturgical field
-
-**Will:** +10
 
 **Offense**
 

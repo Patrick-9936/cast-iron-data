@@ -49,25 +49,29 @@ beneath its translucent skin, causing the skin to ripple in a roiling, sickening
 
 **Experience points:** 9,600
 
-**Armor class:** 24/6/24
+**Armor class:** 24
+
+**Touch:** 6
+
+**Flat-footed:** 24
+
+**AC modifiers:** -2 Dex, +18 natural, -2 size
+
+**Hit points:** 142 (15d8+75)
+
+**Fort:** +14
+
+**Ref:** +3
+
+**Will:** +5
 
 **Defensive abilities:** viviparous birth
 
 **Dr:** 15/piercing
 
-**Fort:** +14
-
-**Hit points:** 142 (15d8+75)
-
 **Immune:** acid, mind-affecting effects
 
-**Mod:** -2 Dex, +18 natural, -2 size
-
-**Ref:** +3
-
 **Weaknesses:** vulnerable to water
-
-**Will:** +5
 
 **Offense**
 

@@ -53,25 +53,29 @@ between her hands._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/21/16
+**Armor class:** 27
+
+**Touch:** 21
+
+**Flat-footed:** 16
+
+**AC modifiers:** +11 Dex, +6 natural
+
+**Hit points:** 168 (16d6+112)
+
+**Fort:** +14
+
+**Ref:** +21
+
+**Will:** +16
 
 **Dr:** 10/cold iron
 
 **Fh:** 10
 
-**Fort:** +14
-
-**Hit points:** 168 (16d6+112)
-
 **Immune:** magic
 
-**Mod:** +11 Dex, +6 natural
-
-**Ref:** +21
-
 **Weaknesses:** susceptible to darkness
-
-**Will:** +16
 
 **Offense**
 

@@ -53,21 +53,25 @@ _Wreathed in flame, this winged serpent sports brightly colored feathers sparkin
 
 **Experience points:** 19,200
 
-**Armor class:** 29/14/24
+**Armor class:** 29
 
-**Fort:** +14
+**Touch:** 14
+
+**Flat-footed:** 24
+
+**AC modifiers:** +5 Dex, +15 natural, -1 size
 
 **Hit points:** 157 (15d10+75)
 
-**Immune:** electricity, fire
-
-**Mod:** +5 Dex, +15 natural, -1 size
+**Fort:** +14
 
 **Ref:** +10
 
-**Sr:** 23
-
 **Will:** +16
+
+**Immune:** electricity, fire
+
+**Sr:** 23
 
 **Offense**
 

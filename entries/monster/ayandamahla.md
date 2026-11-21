@@ -54,25 +54,29 @@ weapons and fangs drip with blood._
 
 **Experience points:** 1,228,800
 
-**Armor class:** 41/21/35
+**Armor class:** 41
 
-**Dr:** 10/cold iron or good
+**Touch:** 21
 
-**Fort:** +24
+**Flat-footed:** 35
+
+**AC modifiers:** +9 armor, +5 deflection, +5 Dex, +1 dodge, +10 natural, +1 shield
 
 **Hit points:** 490 (8d10+20d8+356\~28)
 
-**Immune:** electricity, fire, poison
-
-**Mod:** +9 armor, +5 deflection, +5 Dex, +1 dodge, +10 natural, +1 shield
+**Fort:** +24
 
 **Ref:** +28
+
+**Will:** +26; +4 vs. bardic performance, language-dependent, and sonic
+
+**Dr:** 10/cold iron or good
+
+**Immune:** electricity, fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 18
-
-**Will:** +26; +4 vs. bardic performance, language-dependent, and sonic
 
 **Offense**
 

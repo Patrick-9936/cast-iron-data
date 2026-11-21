@@ -50,19 +50,23 @@ into vapor below the waist._
 
 **Experience points:** 19,200
 
-**Armor class:** 24/24/16
+**Armor class:** 24
 
-**Fort:** +14
+**Touch:** 24
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 deflection, +7 Dex, +1 dodge
 
 **Hit points:** 152 (16d10+64)
 
-**Incorporeal:** present
-
-**Mod:** +6 deflection, +7 Dex, +1 dodge
+**Fort:** +14
 
 **Ref:** +12
 
 **Will:** +12
+
+**Incorporeal:** present
 
 **Offense**
 

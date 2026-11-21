@@ -52,13 +52,17 @@ and shield with the majesty and prowess of any human knight._
 
 **Experience points:** 38,400
 
-**Armor class:** 27/13/24
+**Armor class:** 27
 
-**Fort:** +15
+**Touch:** 13
+
+**Flat-footed:** 24
+
+**AC modifiers:** +8 armor, +1 deflection, +3 Dex, +2 natural, +4 shield, -1 size
 
 **Hit points:** 183 (4d10+11d10+101\~15)
 
-**Mod:** +8 armor, +1 deflection, +3 Dex, +2 natural, +4 shield, -1 size
+**Fort:** +15
 
 **Ref:** +11
 

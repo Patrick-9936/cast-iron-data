@@ -52,23 +52,27 @@ beetle carapace._
 
 **Experience points:** 25,600
 
-**Armor class:** 25/10/23
+**Armor class:** 25
 
-**Dr:** 10/magic and slashing
+**Touch:** 10
 
-**Fort:** +11
+**Flat-footed:** 23
+
+**AC modifiers:** +2 Dex, +15 natural, -2 size
 
 **Hit points:** 168 (16d8+96)
 
-**Immune:** acid
-
-**Mod:** +2 Dex, +15 natural, -2 size
+**Fort:** +11
 
 **Ref:** +7
 
-**Resist:** cold 10
-
 **Will:** +15
+
+**Dr:** 10/magic and slashing
+
+**Immune:** acid
+
+**Resist:** cold 10
 
 **Offense**
 

@@ -53,7 +53,21 @@ compact crossbow bolt launcher._
 
 **Experience points:** 25,600
 
-**Armor class:** 27/20/17
+**Armor class:** 27
+
+**Touch:** 20
+
+**Flat-footed:** 17
+
+**AC modifiers:** +8 Dex, +2 dodge, +7 natural
+
+**Hit points:** 119 (18d10+20)
+
+**Fort:** +6
+
+**Ref:** +16
+
+**Will:** +6
 
 **Defensive abilities:** rapid repair
 
@@ -63,19 +77,9 @@ compact crossbow bolt launcher._
 
 **Fh:** 10
 
-**Fort:** +6
-
-**Hit points:** 119 (18d10+20)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
 
-**Mod:** +8 Dex, +2 dodge, +7 natural
-
-**Ref:** +16
-
 **Vulner:** electricity
-
-**Will:** +6
 
 **Offense**
 

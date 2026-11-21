@@ -51,21 +51,25 @@ stink clinging to it._
 
 **Experience points:** 800
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Dr:** 5/-
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Mod:** +3 Dex, +4 natural
+**Fort:** +3
 
 **Ref:** +7
 
-**Sr:** 14
-
 **Will:** +5
+
+**Dr:** 5/-
+
+**Sr:** 14
 
 **Offense**
 

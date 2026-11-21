@@ -49,21 +49,25 @@ carries himself with a dancer's grace._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/20/16
+**Armor class:** 26
 
-**Dr:** 10/cold iron
+**Touch:** 20
 
-**Fort:** +11
+**Flat-footed:** 16
+
+**AC modifiers:** +9 Dex, +1 dodge, +4 natural, +2 shield
 
 **Hit points:** 161 (19d6+95)
 
-**Mod:** +9 Dex, +1 dodge, +4 natural, +2 shield
+**Fort:** +11
 
 **Ref:** +20
 
-**Sr:** 23
-
 **Will:** +14
+
+**Dr:** 10/cold iron
+
+**Sr:** 23
 
 **Offense**
 

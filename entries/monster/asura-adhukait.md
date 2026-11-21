@@ -55,27 +55,31 @@ with their twin curved knives._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Dr:** 5/good
+**Touch:** 14
 
-**Fort:** +6
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +1 dodge, +6 natural
 
 **Hit points:** 76 (9d10+27)
 
-**Immune:** curse effects, disease, [flanking](ref/rule/flanking), poison
-
-**Mod:** +3 Dex, +1 dodge, +6 natural
+**Fort:** +6
 
 **Ref:** +11
+
+**Will:** +9; dual mind, +2 vs. enchantments
+
+**Dr:** 5/good
+
+**Immune:** curse effects, disease, [flanking](ref/rule/flanking), poison
 
 **Regen:** 5 (good weapons, good spells)
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 18
-
-**Will:** +9; dual mind, +2 vs. enchantments
 
 **Offense**
 

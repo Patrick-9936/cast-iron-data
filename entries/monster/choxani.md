@@ -50,21 +50,25 @@ colors and patterns._
 
 **Experience points:** 800
 
-**Armor class:** 15/13/12
+**Armor class:** 15
 
-**Defensive abilities:** all-around vision
+**Touch:** 13
 
-**Dr:** 5/cold iron and slashing
+**Flat-footed:** 12
 
-**Fort:** +3
+**AC modifiers:** +2 Dex, +1 dodge, +2 natural
 
 **Hit points:** 27 (5d6+10)
 
-**Mod:** +2 Dex, +1 dodge, +2 natural
+**Fort:** +3
 
 **Ref:** +6
 
 **Will:** +6
+
+**Defensive abilities:** all-around vision
+
+**Dr:** 5/cold iron and slashing
 
 **Offense**
 

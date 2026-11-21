@@ -53,25 +53,29 @@ _This monstrous eel-like creature has jaws within jaws, each bearing transparent
 
 **Experience points:** 153,600
 
-**Armor class:** 33/15/24
+**Armor class:** 33
 
-**Fh:** 10
+**Touch:** 15
 
-**Fort:** +18
+**Flat-footed:** 24
+
+**AC modifiers:** +4 armor, +9 Dex, +14 natural, -4 size
 
 **Hit points:** 300 (24d8+192)
 
-**Immune:** electricity, mind-affecting effects
-
-**Mod:** +4 armor, +9 Dex, +14 natural, -4 size
+**Fort:** +18
 
 **Ref:** +19
+
+**Will:** +19
+
+**Fh:** 10
+
+**Immune:** electricity, mind-affecting effects
 
 **Resist:** cold 20
 
 **Sr:** 29
-
-**Will:** +19
 
 **Offense**
 

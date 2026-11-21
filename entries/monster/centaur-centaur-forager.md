@@ -52,13 +52,17 @@ enough to suit her powerful frame, hang from her body._
 
 **Experience points:** 2,400
 
-**Armor class:** 17/12/14
+**Armor class:** 17
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 armor, +3 Dex, +2 natural, -1 size
 
 **Hit points:** 69 (4d10+3d10+31\~7)
 
-**Mod:** +3 armor, +3 Dex, +2 natural, -1 size
+**Fort:** +8
 
 **Ref:** +10
 

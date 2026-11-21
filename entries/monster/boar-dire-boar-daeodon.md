@@ -47,19 +47,23 @@ and its bristly flank crawls with flies._
 
 **Experience points:** 1,200
 
-**Armor class:** 15/9/15
+**Armor class:** 15
 
-**Ferocity:** present
+**Touch:** 9
 
-**Fort:** +7
+**Flat-footed:** 15
+
+**AC modifiers:** +6 natural, -1 size
 
 **Hit points:** 42 (5d8+20)
 
-**Mod:** +6 natural, -1 size
+**Fort:** +7
 
 **Ref:** +4
 
 **Will:** +2
+
+**Ferocity:** present
 
 **Offense**
 

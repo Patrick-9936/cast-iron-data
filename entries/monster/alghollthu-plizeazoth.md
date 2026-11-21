@@ -55,25 +55,29 @@ sides of its wide mouth, and its slimy skin undulates with sickening shudders._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/13/21
+**Armor class:** 26
 
-**Amorph:** present
+**Touch:** 13
 
-**Fort:** +13
+**Flat-footed:** 21
+
+**AC modifiers:** +4 Dex, +1 dodge, +13 natural, -2 size
 
 **Hit points:** 157 (15d8+90)
 
-**Immune:** mind-affecting effects, pain effects
-
-**Mod:** +4 Dex, +1 dodge, +13 natural, -2 size
+**Fort:** +13
 
 **Ref:** +11
+
+**Will:** +13
+
+**Amorph:** present
+
+**Immune:** mind-affecting effects, pain effects
 
 **Resist:** cold 10
 
 **Sr:** 23
-
-**Will:** +13
 
 **Offense**
 

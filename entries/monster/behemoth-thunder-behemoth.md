@@ -56,20 +56,26 @@ head._
 
 **Experience points:** 153,600
 
-**Armor class:** 35/0/35
+**Armor class:** 35
 
-**Dr:** 15/epic
+**Touch:** 0
 
-**Fort:** +22
+**Flat-footed:** 35
+
+**AC modifiers:** -2 Dex, +35 natural, -8 size
 
 **Hit points:** 337 (25d10+200)
 
-**Immune:** ability damage, acid, aging, bleed, disease, energy drain, fire, mind-affecting effects,
-negative levels, paralysis, permanent wounds, petrification, poison, polymorph
-
-**Mod:** -2 Dex, +35 natural, -8 size
+**Fort:** +22
 
 **Ref:** +12
+
+**Will:** +12
+
+**Dr:** 15/epic
+
+**Immune:** ability damage, acid, aging, bleed, disease, energy drain, fire, mind-affecting effects,
+negative levels, paralysis, permanent wounds, petrification, poison, polymorph
 
 **Regen:** 20
 
@@ -78,8 +84,6 @@ negative levels, paralysis, permanent wounds, petrification, poison, polymorph
 **Unstop:** present
 
 **Vulner:** [miracles](ref/spell/miracle) and [wishes](ref/spell/wish)
-
-**Will:** +12
 
 **Offense**
 

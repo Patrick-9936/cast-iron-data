@@ -54,25 +54,29 @@ articulated plates._
 
 **Experience points:** 600
 
-**Armor class:** 18/16/14
+**Armor class:** 18
 
-**Dr:** 5/adamantine
+**Touch:** 16
 
-**Fort:** +1
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +2 Dodge, +2 natural, +2 size
 
 **Hit points:** 16 (3d10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +2 Dodge, +2 natural, +2 size
+**Fort:** +1
 
 **Ref:** +5
+
+**Will:** +2
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** cold 10, fire 10
 
 **Vulner:** electricity
-
-**Will:** +2
 
 **Offense**
 

@@ -51,7 +51,21 @@ grace its hands._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
+
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural
+
+**Hit points:** 52 (8d10+8)
+
+**Fort:** +3
+
+**Ref:** +11
+
+**Will:** +9; +2 vs. enchantments
 
 **Defensive abilities:** enveloping winds
 
@@ -59,21 +73,11 @@ grace its hands._
 
 **Fh:** 5
 
-**Fort:** +3
-
-**Hit points:** 52 (8d10+8)
-
 **Immune:** curse effects, disease, poison
-
-**Mod:** +3 Dex, +1 dodge, +4 natural
-
-**Ref:** +11
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 16
-
-**Will:** +9; +2 vs. enchantments
 
 **Offense**
 

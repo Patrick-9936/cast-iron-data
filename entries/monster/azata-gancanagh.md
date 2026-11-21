@@ -49,25 +49,29 @@ _This incredibly handsome man's pointed ears and otherworldly grace betray an in
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/12
+**Armor class:** 17
 
-**Dr:** 5/cold iron or evil
+**Touch:** 15
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +5 Dex, +2 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Immune:** electricity, petrification
-
-**Mod:** +5 Dex, +2 natural
+**Fort:** +4
 
 **Ref:** +9
+
+**Will:** +5
+
+**Dr:** 5/cold iron or evil
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, fire 10
 
 **Weaknesses:** vulnerable to smoke
-
-**Will:** +5
 
 **Offense**
 

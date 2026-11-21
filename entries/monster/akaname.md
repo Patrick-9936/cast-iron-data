@@ -48,21 +48,25 @@ tongue drags on the ground beneath it._
 
 **Experience points:** 400
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Immune:** disease
-
-**Mod:** +2 Dex, +1 size
+**Fort:** +2
 
 **Ref:** +2
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +4
+
+**Immune:** disease
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

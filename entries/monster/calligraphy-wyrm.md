@@ -49,19 +49,23 @@ _The feet and tongue of this minuscule gold-scaled dragon are stained with ink._
 
 **Experience points:** 600
 
-**Armor class:** 17/17/14
+**Armor class:** 17
 
-**Fort:** +3
+**Touch:** 17
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 Size
 
 **Hit points:** 19 (3d12)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +3 Dex, +4 Size
+**Fort:** +3
 
 **Ref:** +6
 
 **Will:** +4
+
+**Immune:** paralysis, sleep
 
 **Offense**
 

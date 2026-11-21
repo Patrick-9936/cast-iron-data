@@ -50,27 +50,31 @@ _This disc of flying metal is about the size of a wagon wheel and burns with yel
 
 **Experience points:** 1,200
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Dr:** 5/magic
+**Touch:** 14
 
-**Fort:** +6
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural; +2 deflection vs. evil
 
 **Hit points:** 37 (5d10+10)
 
-**Immune:** fire, petrification
-
-**Mod:** +3 Dex, +1 dodge, +4 natural; +2 deflection vs. evil
+**Fort:** +6
 
 **Ref:** +7
+
+**Will:** +1; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 5/magic
+
+**Immune:** fire, petrification
 
 **Resist:** acid 5, cold 5, electricity 5
 
 **Sr:** 15
 
 **Vulner:** cold
-
-**Will:** +1; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

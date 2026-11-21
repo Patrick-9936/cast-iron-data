@@ -55,25 +55,29 @@ end of his wings._
 
 **Experience points:** 6,400
 
-**Armor class:** 25/17/18
+**Armor class:** 25
 
-**Dr:** 10/evil or silver
+**Touch:** 17
 
-**Fort:** +11
+**Flat-footed:** 18
+
+**AC modifiers:** +6 Dex, +1 dodge, +8 natural
 
 **Hit points:** 94 (9d10+45)
 
-**Immune:** electricity, petrification
-
-**Mod:** +6 Dex, +1 dodge, +8 natural
+**Fort:** +11
 
 **Ref:** +12
+
+**Will:** +6; +4 vs. poison
+
+**Dr:** 10/evil or silver
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 20
-
-**Will:** +6; +4 vs. poison
 
 **Offense**
 

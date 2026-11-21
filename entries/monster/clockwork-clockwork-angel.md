@@ -52,25 +52,29 @@ gaps of its metallic body._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/21/18
+**Armor class:** 29
+
+**Touch:** 21
+
+**Flat-footed:** 18
+
+**AC modifiers:** +9 Dex, +2 dodge, +8 natural
+
+**Hit points:** 210 (20d10+100)
+
+**Fort:** +6
+
+**Ref:** +17
+
+**Will:** +6
 
 **Defensive abilities:** infused heart
 
 **Dr:** 10/adamantine
 
-**Fort:** +6
-
-**Hit points:** 210 (20d10+100)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
 
-**Mod:** +9 Dex, +2 dodge, +8 natural
-
-**Ref:** +17
-
 **Vulner:** electricity
-
-**Will:** +6
 
 **Offense**
 

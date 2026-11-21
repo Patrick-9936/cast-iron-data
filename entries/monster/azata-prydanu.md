@@ -53,25 +53,29 @@ its skin._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/19/26
+**Armor class:** 31
 
-**Dr:** 10/cold iron and evil
+**Touch:** 19
 
-**Fort:** +13
+**Flat-footed:** 26
+
+**AC modifiers:** +5 deflection, +5 Dex, +12 natural, -1 size
 
 **Hit points:** 243 (18d10+144)
 
-**Immune:** electricity, mind-affecting effects, petrification
-
-**Mod:** +5 deflection, +5 Dex, +12 natural, -1 size
+**Fort:** +13
 
 **Ref:** +16
+
+**Will:** +20
+
+**Dr:** 10/cold iron and evil
+
+**Immune:** electricity, mind-affecting effects, petrification
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 27
-
-**Will:** +20
 
 **Offense**
 

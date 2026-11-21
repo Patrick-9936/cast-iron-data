@@ -52,23 +52,27 @@ and carries a quiver full of arrows on its back._
 
 **Experience points:** 800
 
-**Armor class:** 16/14/13
+**Armor class:** 16
 
-**Dr:** 5/cold iron or evil
+**Touch:** 14
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +2 natural, +1 size
 
 **Hit points:** 26 (4d10+4)
 
-**Immune:** acid, cold, petrification
-
-**Mod:** +3 Dex, +2 natural, +1 size
+**Fort:** +2
 
 **Ref:** +7
 
-**Resist:** electricity 10, fire 10
-
 **Will:** +5; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 5/cold iron or evil
+
+**Immune:** acid, cold, petrification
+
+**Resist:** electricity 10, fire 10
 
 **Offense**
 

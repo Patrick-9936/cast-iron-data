@@ -48,23 +48,27 @@ figure._
 
 **Experience points:** 2,400
 
-**Armor class:** 16/16/10
+**Armor class:** 16
+
+**Touch:** 16
+
+**Flat-footed:** 10
+
+**AC modifiers:** +5 Dex, +1 dodge
+
+**Hit points:** 65 (10d6+30)
+
+**Fort:** +6
+
+**Ref:** +12
+
+**Will:** +8
 
 **Defensive abilities:** cut in with care, elegant maneuvers
 
 **Dr:** 5/cold iron
 
 **Evasion:** present
-
-**Fort:** +6
-
-**Hit points:** 65 (10d6+30)
-
-**Mod:** +5 Dex, +1 dodge
-
-**Ref:** +12
-
-**Will:** +8
 
 **Offense**
 

@@ -51,19 +51,23 @@ elegantly toward the sky._
 
 **Experience points:** 600
 
-**Armor class:** 13/13/10
+**Armor class:** 13
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 10
+
+**AC modifiers:** +3 Dex
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex
+**Fort:** +5
 
 **Ref:** +4
 
 **Will:** +2
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

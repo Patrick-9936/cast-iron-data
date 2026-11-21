@@ -50,21 +50,25 @@ _Electricity crackles and arcs from this undulating mass of orange slime._
 
 **Experience points:** 12,800
 
-**Armor class:** 5/5/5
+**Armor class:** 5
 
-**Defensive abilities:** electrified
+**Touch:** 5
 
-**Fort:** +12
+**Flat-footed:** 5
+
+**AC modifiers:** -5 Dex
 
 **Hit points:** 195 (17d8+119)
 
-**Immune:** electricity, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex
+**Fort:** +12
 
 **Ref:** +0
 
 **Will:** +0
+
+**Defensive abilities:** electrified
+
+**Immune:** electricity, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

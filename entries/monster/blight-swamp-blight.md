@@ -54,23 +54,27 @@ five tentacles tipped with stingers._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/20/22
+**Armor class:** 32
+
+**Touch:** 20
+
+**Flat-footed:** 22
+
+**AC modifiers:** +10 Dex, +12 natural
+
+**Hit points:** 275 (19d8+190)
+
+**Fort:** +18
+
+**Ref:** +18
+
+**Will:** +14
 
 **Defensive abilities:** rejuvenation
 
 **Fh:** 15
 
-**Fort:** +18
-
-**Hit points:** 275 (19d8+190)
-
 **Immune:** acid, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +10 Dex, +12 natural
-
-**Ref:** +18
-
-**Will:** +14
 
 **Offense**
 

@@ -54,23 +54,27 @@ lights and gentle rainbow arcs._
 
 **Experience points:** 600
 
-**Armor class:** 16/16/12
+**Armor class:** 16
 
-**Dr:** 5/evil
+**Touch:** 16
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +4 Dex, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** electricity, petrification
-
-**Mod:** +4 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +7
 
-**Resist:** cold 10, fire 10
-
 **Will:** +6
+
+**Dr:** 5/evil
+
+**Immune:** electricity, petrification
+
+**Resist:** cold 10, fire 10
 
 **Offense**
 

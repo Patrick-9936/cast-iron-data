@@ -56,23 +56,27 @@ with what look like hands._
 
 **Experience points:** 38,400
 
-**Armor class:** 30/15/24
+**Armor class:** 30
 
-**Fort:** +13
+**Touch:** 15
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 armor, +6 Dex, +11 natural, -1 size
 
 **Hit points:** 200 (16d8+128)
 
-**Immune:** electricity, mind-affecting effects
-
-**Mod:** +4 armor, +6 Dex, +11 natural, -1 size
+**Fort:** +13
 
 **Ref:** +13
+
+**Will:** +14
+
+**Immune:** electricity, mind-affecting effects
 
 **Resist:** cold 20
 
 **Sr:** 25
-
-**Will:** +14
 
 **Offense**
 

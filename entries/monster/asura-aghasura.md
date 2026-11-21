@@ -52,27 +52,31 @@ which wields a scimitar._
 
 **Experience points:** 12,800
 
-**Armor class:** 23/11/20
+**Armor class:** 23
 
-**Dr:** 10/good
+**Touch:** 11
 
-**Fort:** +15
+**Flat-footed:** 20
+
+**AC modifiers:** +6 armor, +3 Dex, +6 natural, -2 size
 
 **Hit points:** 161 (14d10+84)
 
-**Immune:** curse effects, disease, poison
-
-**Mod:** +6 armor, +3 Dex, +6 natural, -2 size
+**Fort:** +15
 
 **Ref:** +9
+
+**Will:** +11; +2 vs. enchantment spells
+
+**Dr:** 10/good
+
+**Immune:** curse effects, disease, poison
 
 **Regen:** 5 (good weapons, good spells)
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 22
-
-**Will:** +11; +2 vs. enchantment spells
 
 **Offense**
 

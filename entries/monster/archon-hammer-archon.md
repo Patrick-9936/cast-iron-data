@@ -54,27 +54,31 @@ hammer-headed polearm with a wicked spike on its reverse side._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/10/32
+**Armor class:** 33
+
+**Touch:** 10
+
+**Flat-footed:** 32
+
+**AC modifiers:** +11 armor, +1 Dex, +12 natural, -1 size
+
+**Hit points:** 310 (20d10+200)
+
+**Fort:** +16
+
+**Ref:** +13
+
+**Will:** +17; +4 vs. poison
 
 **Defensive abilities:** reverberation
 
 **Dr:** 10/evil
 
-**Fort:** +16
-
-**Hit points:** 310 (20d10+200)
-
 **Immune:** bludgeoning, electricity, petrification
-
-**Mod:** +11 armor, +1 Dex, +12 natural, -1 size
-
-**Ref:** +13
 
 **Regen:** 5 (evil weapons and spells)
 
 **Sr:** 31
-
-**Will:** +17; +4 vs. poison
 
 **Offense**
 

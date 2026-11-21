@@ -54,23 +54,27 @@ eyes staring out from the chaos._
 
 **Experience points:** 400
 
-**Armor class:** 12/12/12
+**Armor class:** 12
 
-**Defensive abilities:** swarm traits
+**Touch:** 12
 
-**Fort:** +1
+**Flat-footed:** 12
+
+**AC modifiers:** +2 size
 
 **Hit points:** 11 (2d8+2)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 size
+**Fort:** +1
 
 **Ref:** +0
 
-**Vulner:** channeled energy
-
 **Will:** +5
+
+**Defensive abilities:** swarm traits
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Vulner:** channeled energy
 
 **Offense**
 

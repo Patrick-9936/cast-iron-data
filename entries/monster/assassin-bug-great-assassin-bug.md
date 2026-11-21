@@ -48,19 +48,23 @@ thorax._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Fort:** +8
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +4 Dex, +4 natural
+**Fort:** +8
 
 **Ref:** +6
 
 **Will:** +3
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

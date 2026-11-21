@@ -54,20 +54,26 @@ bird-like monstrosity._
 
 **Experience points:** 614,400
 
-**Armor class:** 40/8/34
+**Armor class:** 40
 
-**Dr:** 15/epic
+**Touch:** 8
 
-**Fort:** +26
+**Flat-footed:** 34
+
+**AC modifiers:** +5 Dex, +1 dodge, +32 natural, -8 size
 
 **Hit points:** 445 (33d10+264)
 
-**Immune:** ability damage, aging, bleed, disease, electricity, energy drain, fire, mind-affecting
-effects, negative levels, paralysis, permanent wounds, petrification, poison, polymorph
-
-**Mod:** +5 Dex, +1 dodge, +32 natural, -8 size
+**Fort:** +26
 
 **Ref:** +23
+
+**Will:** +16
+
+**Dr:** 15/epic
+
+**Immune:** ability damage, aging, bleed, disease, electricity, energy drain, fire, mind-affecting
+effects, negative levels, paralysis, permanent wounds, petrification, poison, polymorph
 
 **Regen:** 20
 
@@ -76,8 +82,6 @@ effects, negative levels, paralysis, permanent wounds, petrification, poison, po
 **Unstop:** present
 
 **Vulner:** [miracles](ref/spell/miracle) and [wishes](ref/spell/wish)
-
-**Will:** +16
 
 **Offense**
 

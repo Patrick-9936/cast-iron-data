@@ -51,21 +51,25 @@ emanates from the dreadful mass._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/15/19
+**Armor class:** 22
 
-**Defensive abilities:** swarm traits
+**Touch:** 15
 
-**Fort:** +9
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +7 natural, +2 size
 
 **Hit points:** 127 (15d8+60)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +7 natural, +2 size
+**Fort:** +9
 
 **Ref:** +8
 
 **Will:** +10
+
+**Defensive abilities:** swarm traits
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

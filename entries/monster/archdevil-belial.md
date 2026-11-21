@@ -53,31 +53,35 @@ scaled, scarred, and blackened._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/35/37
+**Armor class:** 46
+
+**Touch:** 35
+
+**Flat-footed:** 37
+
+**AC modifiers:** +4 deflection, +8 Dex, +1 dodge, +11 natural, +12 profane
+
+**Hit points:** 676 (33d10+495)
+
+**Fort:** +37
+
+**Ref:** +23
+
+**Will:** +31; +8 vs. mind-affecting effects
 
 **Defensive abilities:** amorphous anatomy, infernal resurrection,
 _[mind blank](ref/spell/mind-blank)_, reflexive shapeshifter
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +37
-
-**Hit points:** 676 (33d10+495)
-
 **Immune:** ability damage, ability drain, charm, compulsion, death effects, energy drain, fire,
 petrification, poison, polymorph effects
-
-**Mod:** +4 deflection, +8 Dex, +1 dodge, +11 natural, +12 profane
-
-**Ref:** +23
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, cold 30
 
 **Sr:** 39
-
-**Will:** +31; +8 vs. mind-affecting effects
 
 **Offense**
 

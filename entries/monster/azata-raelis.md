@@ -53,23 +53,27 @@ glowing runes._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/13/19
+**Armor class:** 23
 
-**Dr:** 10/cold iron and evil
+**Touch:** 13
 
-**Fort:** +8
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +10 natural, -1 size
 
 **Hit points:** 115 (11d10+55)
 
-**Immune:** electricity, petrification, rune mastery
-
-**Mod:** +4 Dex, +10 natural, -1 size
+**Fort:** +8
 
 **Ref:** +11
 
-**Resist:** cold 10, fire 10
-
 **Will:** +9
+
+**Dr:** 10/cold iron and evil
+
+**Immune:** electricity, petrification, rune mastery
+
+**Resist:** cold 10, fire 10
 
 **Offense**
 

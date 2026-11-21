@@ -50,13 +50,17 @@ _A noxious fluid drips from the vicious arrows of this feral ape-like humanoid._
 
 **Experience points:** 1,600
 
-**Armor class:** 22/16/17
+**Armor class:** 22
 
-**Fort:** +8
+**Touch:** 16
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 armor, +4 Dex, +1 dodge, +2 natural, +2 shield, +1 size
 
 **Hit points:** 53 (3d8+4d10+18\~7)
 
-**Mod:** +2 armor, +4 Dex, +1 dodge, +2 natural, +2 shield, +1 size
+**Fort:** +8
 
 **Ref:** +12
 

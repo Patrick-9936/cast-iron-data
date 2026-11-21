@@ -49,19 +49,23 @@ _This animal resembles an alpaca with voluminous, shiny wool._
 
 **Experience points:** 400
 
-**Armor class:** 12/12/11
+**Armor class:** 12
 
-**Defensive abilities:** pristine wool
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 natural
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +1 Dex, +1 natural
+**Fort:** +5
 
 **Ref:** +4
 
 **Will:** +1
+
+**Defensive abilities:** pristine wool
 
 **Offense**
 

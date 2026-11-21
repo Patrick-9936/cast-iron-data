@@ -55,19 +55,23 @@ _Cloaked by wings of darkness, this horrific, skeletal creature appears to burn 
 
 **Experience points:** 38,400
 
-**Armor class:** 31/19/21
+**Armor class:** 31
 
-**Dr:** 10/cold iron
+**Touch:** 19
 
-**Fort:** +10
+**Flat-footed:** 21
+
+**AC modifiers:** +9 Dex, +1 dodge, +12 natural, -1 size
 
 **Hit points:** 133 (14d6+84)
 
-**Mod:** +9 Dex, +1 dodge, +12 natural, -1 size
+**Fort:** +10
 
 **Ref:** +18
 
 **Will:** +13
+
+**Dr:** 10/cold iron
 
 **Offense**
 

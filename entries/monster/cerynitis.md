@@ -46,23 +46,27 @@ _This sleek and graceful doe possesses long, metallic antlers and a shiny, golde
 
 **Experience points:** 3,200
 
-**Armor class:** 25/24/14
+**Armor class:** 25
+
+**Touch:** 24
+
+**Flat-footed:** 14
+
+**AC modifiers:** +10 Dex, +1 dodge, +1 natural, +4 sacred, -1 size
+
+**Hit points:** 76 (9d10+27)
+
+**Fort:** +9
+
+**Ref:** +16
+
+**Will:** +8
 
 **Defensive abilities:** freedom, sacred grace, unearthly speed
 
 **Fh:** 5
 
-**Fort:** +9
-
-**Hit points:** 76 (9d10+27)
-
-**Mod:** +10 Dex, +1 dodge, +1 natural, +4 sacred, -1 size
-
-**Ref:** +16
-
 **Uncanny dodge:** present
-
-**Will:** +8
 
 **Offense**
 

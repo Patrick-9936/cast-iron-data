@@ -53,27 +53,31 @@ _This lithe, six-armed humanoid has tusks that curve from his chin and carries a
 
 **Experience points:** 19,200
 
-**Armor class:** 27/17/20
+**Armor class:** 27
 
-**Dr:** 10/good
+**Touch:** 17
 
-**Fort:** +9
+**Flat-footed:** 20
+
+**AC modifiers:** +7 Dex, +10 natural
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** curse effects, disease, poison
-
-**Mod:** +7 Dex, +10 natural
+**Fort:** +9
 
 **Ref:** +16
+
+**Will:** +13; +2 vs. enchantment
+
+**Dr:** 10/good
+
+**Immune:** curse effects, disease, poison
 
 **Regen:** 5 (good spells, good weapons)
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 23
-
-**Will:** +13; +2 vs. enchantment
 
 **Offense**
 

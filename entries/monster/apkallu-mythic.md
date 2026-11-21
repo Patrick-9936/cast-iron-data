@@ -55,29 +55,33 @@ crafted from opalescent scales._
 
 **Experience points:** 819,200
 
-**Armor class:** 44/17/36
+**Armor class:** 44
+
+**Touch:** 17
+
+**Flat-footed:** 36
+
+**AC modifiers:** +7 armor, +8 Dex, +20 natural, -1 size
+
+**Hit points:** 469 (23d10+343)
+
+**Fort:** +24
+
+**Ref:** +27
+
+**Will:** +21; second save
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, scale surplice
 
 **Dr:** 20/chaotic and epic
 
-**Fort:** +24
-
-**Hit points:** 469 (23d10+343)
-
 **Immune:** daze, disease, electricity, petrification, poison
-
-**Mod:** +7 armor, +8 Dex, +20 natural, -1 size
-
-**Ref:** +27
 
 **Regen:** 15 (chaotic spells and effects)
 
 **Resist:** cold 20
 
 **Sr:** 39
-
-**Will:** +21; second save
 
 **Offense**
 

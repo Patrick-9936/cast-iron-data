@@ -50,13 +50,17 @@ shoulders._
 
 **Experience points:** 3,200
 
-**Armor class:** 22/10/20
+**Armor class:** 22
 
-**Fort:** +11
+**Touch:** 10
+
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +12 natural, -2 size
 
 **Hit points:** 84 (8d10+40)
 
-**Mod:** +2 Dex, +12 natural, -2 size
+**Fort:** +11
 
 **Ref:** +8
 

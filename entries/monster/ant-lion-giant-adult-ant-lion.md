@@ -49,19 +49,23 @@ _This spindly insect, borne aloft on four delicate wings, snaps its mandibles in
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/16
+**Armor class:** 19
 
-**Fort:** +11
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +8 natural, -2 size
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +8 natural, -2 size
+**Fort:** +11
 
 **Ref:** +6
 
 **Will:** +3
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

@@ -55,25 +55,29 @@ in lengths of writhing chains._
 
 **Experience points:** 38,400
 
-**Armor class:** 30/30/26
+**Armor class:** 30
+
+**Touch:** 30
+
+**Flat-footed:** 26
+
+**AC modifiers:** +8 deflection, +4 Dex, +8 profane
+
+**Hit points:** 200 (16d8+128)
+
+**Fort:** +13
+
+**Ref:** +11
+
+**Will:** +17
 
 **Defensive abilities:** spirit anchor
 
 **Fh:** 20
 
-**Fort:** +13
-
-**Hit points:** 200 (16d8+128)
-
 **Immune:** positive energy, [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
-
-**Mod:** +8 deflection, +4 Dex, +8 profane
-
-**Ref:** +11
-
-**Will:** +17
 
 **Offense**
 

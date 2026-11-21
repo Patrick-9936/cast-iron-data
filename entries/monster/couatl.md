@@ -49,13 +49,17 @@ _This great serpent has multicolored wings and eyes that glimmer with intense aw
 
 **Experience points:** 9,600
 
-**Armor class:** 22/13/18
+**Armor class:** 22
 
-**Fort:** +9
+**Touch:** 13
+
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +1 dodge, +9 natural, -1 size
 
 **Hit points:** 126 (12d10+60)
 
-**Mod:** +3 Dex, +1 dodge, +9 natural, -1 size
+**Fort:** +9
 
 **Ref:** +13
 

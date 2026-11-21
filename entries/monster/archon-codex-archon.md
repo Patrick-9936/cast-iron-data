@@ -54,23 +54,27 @@ watchfully as though alive._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/13/17
+**Armor class:** 20
 
-**Dr:** 10/evil
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +7 natural
 
 **Hit points:** 47 (5d10+20)
 
-**Immune:** electricity, petrification
-
-**Mod:** +3 Dex, +7 natural
+**Fort:** +7
 
 **Ref:** +7
 
-**Sr:** 16
-
 **Will:** +5; +4 vs. poison, +2 vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** electricity, petrification
+
+**Sr:** 16
 
 **Offense**
 

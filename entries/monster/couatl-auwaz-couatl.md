@@ -52,13 +52,17 @@ waters._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Fort:** +5
+**Touch:** 14
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +6 natural
 
 **Hit points:** 84 (8d10+40)
 
-**Mod:** +4 Dex, +6 natural
+**Fort:** +5
 
 **Ref:** +10
 

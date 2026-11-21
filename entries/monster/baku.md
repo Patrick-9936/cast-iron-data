@@ -49,23 +49,27 @@ elongated trunk for a snout._
 
 **Experience points:** 4,800
 
-**Armor class:** 15/15/10
+**Armor class:** 15
 
-**Dr:** 10/cold iron
+**Touch:** 15
 
-**Fort:** +11
+**Flat-footed:** 10
+
+**AC modifiers:** +5 Dex
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** mind-affecting effects, sleep
-
-**Mod:** +5 Dex
+**Fort:** +11
 
 **Ref:** +12
 
-**Sr:** 19
-
 **Will:** +8
+
+**Dr:** 10/cold iron
+
+**Immune:** mind-affecting effects, sleep
+
+**Sr:** 19
 
 **Offense**
 

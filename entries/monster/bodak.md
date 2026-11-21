@@ -54,25 +54,29 @@ trails of smoke._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/13/18
+**Armor class:** 21
 
-**Dr:** 10/cold iron
+**Touch:** 13
 
-**Fort:** +6
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +1 dodge, +8 natural
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** electricity, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +1 dodge, +8 natural
+**Fort:** +6
 
 **Ref:** +5
+
+**Will:** +8
+
+**Dr:** 10/cold iron
+
+**Immune:** electricity, [undead traits](ref/umr/undead-traits)
 
 **Resist:** acid 10, fire 10
 
 **Weaknesses:** vulnerable to sunlight
-
-**Will:** +8
 
 **Offense**
 

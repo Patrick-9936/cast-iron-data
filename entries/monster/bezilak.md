@@ -53,7 +53,21 @@ other arms end in pincers._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/12/28
+**Armor class:** 32
+
+**Touch:** 12
+
+**Flat-footed:** 28
+
+**AC modifiers:** +3 Dex, +1 dodge, +20 natural, -2 size
+
+**Hit points:** 310 (12d10+8d8+208\~20)
+
+**Fort:** +20
+
+**Ref:** +13
+
+**Will:** +13
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -61,25 +75,15 @@ other arms end in pincers._
 
 **Evasion:** present
 
-**Fort:** +20
-
-**Hit points:** 310 (12d10+8d8+208\~20)
-
 **Immune:** electricity, poison
 
 **Improved uncanny dodge:** present
-
-**Mod:** +3 Dex, +1 dodge, +20 natural, -2 size
-
-**Ref:** +13
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 24
 
 **Trap S:** +2
-
-**Will:** +13
 
 **Offense**
 

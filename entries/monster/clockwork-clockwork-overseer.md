@@ -54,23 +54,27 @@ articulated metal lash._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/14/17
+**Armor class:** 21
 
-**Dr:** 5/adamantine
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +2 dodge, +7 natural
 
 **Hit points:** 75 (10d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +2 dodge, +7 natural
+**Fort:** +4
 
 **Ref:** +8
 
-**Vulner:** electricity
-
 **Will:** +5
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

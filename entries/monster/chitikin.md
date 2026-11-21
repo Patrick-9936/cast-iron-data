@@ -49,19 +49,23 @@ are scythe-like claws, and its slender antennae end in glowing green bulbs._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/10/16
+**Armor class:** 17
 
-**Fort:** +6
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +7 natural, -1 size
 
 **Hit points:** 32 (5d8+10)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +7 natural, -1 size
+**Fort:** +6
 
 **Ref:** +2
 
 **Will:** +3
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

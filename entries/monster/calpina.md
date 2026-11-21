@@ -51,19 +51,23 @@ resembles a proboscis._
 
 **Experience points:** 800
 
-**Armor class:** 16/14/13
+**Armor class:** 16
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +3
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +2 natural, +1 size
 
 **Hit points:** 27 (5d6+10)
 
-**Mod:** +3 Dex, +2 natural, +1 size
+**Fort:** +3
 
 **Ref:** +7
 
 **Will:** +5
+
+**Dr:** 5/cold iron
 
 **Offense**
 

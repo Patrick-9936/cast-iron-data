@@ -54,7 +54,21 @@ shimmering, pulsating globe of holy light._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/14/30
+**Armor class:** 36
+
+**Touch:** 14
+
+**Flat-footed:** 30
+
+**AC modifiers:** +6 Dex, +22 natural, -2 size
+
+**Hit points:** 350 (20d10+240)
+
+**Fort:** +24
+
+**Ref:** +14
+
+**Will:** +19; +4 vs. poison
 
 **Defensive abilities:** all-around vision, entrench
 
@@ -62,19 +76,9 @@ shimmering, pulsating globe of holy light._
 
 **Fh:** 5
 
-**Fort:** +24
-
-**Hit points:** 350 (20d10+240)
-
 **Immune:** electricity, blindness, petrification
 
-**Mod:** +6 Dex, +22 natural, -2 size
-
-**Ref:** +14
-
 **Sr:** 31
-
-**Will:** +19; +4 vs. poison
 
 **Offense**
 

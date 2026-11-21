@@ -47,19 +47,23 @@ defense of its territory._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 9
+
+**Flat-footed:** 17
+
+**AC modifiers:** +8 natural, -1 size
 
 **Hit points:** 45 (7d8+14)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +8 natural, -1 size
+**Fort:** +7
 
 **Ref:** +2
 
 **Will:** +2
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

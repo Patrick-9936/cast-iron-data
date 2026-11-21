@@ -57,21 +57,25 @@ fingers on each hand._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/18/15
+**Armor class:** 19
 
-**Defensive abilities:** premonition, psychic deflection
+**Touch:** 18
 
-**Fort:** +6
+**Flat-footed:** 15
+
+**AC modifiers:** +4 deflection, +4 Dex, +1 natural
 
 **Hit points:** 76 (9d10+27)
 
-**Immune:** visual effects
-
-**Mod:** +4 deflection, +4 Dex, +1 natural
+**Fort:** +6
 
 **Ref:** +8
 
 **Will:** +13
+
+**Defensive abilities:** premonition, psychic deflection
+
+**Immune:** visual effects
 
 **Offense**
 

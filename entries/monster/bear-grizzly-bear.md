@@ -47,13 +47,17 @@ force._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/10/15
+**Armor class:** 16
 
-**Fort:** +8
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +6 natural, -1 size
 
 **Hit points:** 42 (5d8+20)
 
-**Mod:** +1 Dex, +6 natural, -1 size
+**Fort:** +8
 
 **Ref:** +5
 

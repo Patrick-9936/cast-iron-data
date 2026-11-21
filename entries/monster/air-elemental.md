@@ -48,21 +48,25 @@ it into ominous shapes._
 
 **Experience points:** 400
 
-**Armor class:** 17/14/14
+**Armor class:** 17
 
-**Defensive abilities:** air mastery
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +3 natural, +1 size
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +3 Dex, +3 natural, +1 size
+**Fort:** +4
 
 **Ref:** +6
 
 **Will:** +0
+
+**Defensive abilities:** air mastery
+
+**Immune:** [elemental](ref/subtype/elemental) traits
 
 **Offense**
 
@@ -152,21 +156,25 @@ when underwater.
 
 **Experience points:** 400
 
-**Armor class:** 17/14/14
+**Armor class:** 17
 
-**Defensive abilities:** air mastery
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +3 natural, +1 size
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +3 Dex, +3 natural, +1 size
+**Fort:** +4
 
 **Ref:** +6
 
 **Will:** +0
+
+**Defensive abilities:** air mastery
+
+**Immune:** [elemental](ref/subtype/elemental) traits
 
 **Offense**
 
@@ -216,21 +224,25 @@ Bonus feat.
 
 **Experience points:** 800
 
-**Armor class:** 19/16/13
+**Armor class:** 19
 
-**Defensive abilities:** air mastery
+**Touch:** 16
 
-**Fort:** +6
+**Flat-footed:** 13
+
+**AC modifiers:** +5 Dex, +1 dodge, +3 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +5 Dex, +1 dodge, +3 natural
+**Fort:** +6
 
 **Ref:** +9
 
 **Will:** +1
+
+**Defensive abilities:** air mastery
+
+**Immune:** [elemental](ref/subtype/elemental) traits
 
 **Offense**
 
@@ -280,23 +292,27 @@ Bonus feat.
 
 **Experience points:** 1,600
 
-**Armor class:** 21/17/13
+**Armor class:** 21
+
+**Touch:** 17
+
+**Flat-footed:** 13
+
+**AC modifiers:** +7 Dex, +1 dodge, +4 natural, -1 size
+
+**Hit points:** 68 (8d10+24)
+
+**Fort:** +9
+
+**Ref:** +13
+
+**Will:** +2
 
 **Defensive abilities:** air mastery
 
 **Dr:** 5/-
 
-**Fort:** +9
-
-**Hit points:** 68 (8d10+24)
-
 **Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +7 Dex, +1 dodge, +4 natural, -1 size
-
-**Ref:** +13
-
-**Will:** +2
 
 **Offense**
 
@@ -350,23 +366,27 @@ Bonus feat.
 
 **Experience points:** 3,200
 
-**Armor class:** 22/18/12
+**Armor class:** 22
+
+**Touch:** 18
+
+**Flat-footed:** 12
+
+**AC modifiers:** +9 Dex, +1 dodge, +4 natural, -2 size
+
+**Hit points:** 95 (10d10+40)
+
+**Fort:** +11
+
+**Ref:** +16
+
+**Will:** +5
 
 **Defensive abilities:** air mastery
 
 **Dr:** 5/-
 
-**Fort:** +11
-
-**Hit points:** 95 (10d10+40)
-
 **Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +9 Dex, +1 dodge, +4 natural, -2 size
-
-**Ref:** +16
-
-**Will:** +5
 
 **Offense**
 
@@ -421,23 +441,27 @@ Bonus feat.
 
 **Experience points:** 6,400
 
-**Armor class:** 25/19/14
+**Armor class:** 25
+
+**Touch:** 19
+
+**Flat-footed:** 14
+
+**AC modifiers:** +10 Dex, +1 dodge, +6 natural, -2 size
+
+**Hit points:** 123 (13d10+52)
+
+**Fort:** +12
+
+**Ref:** +18
+
+**Will:** +6
 
 **Defensive abilities:** air mastery
 
 **Dr:** 10/-
 
-**Fort:** +12
-
-**Hit points:** 123 (13d10+52)
-
 **Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +10 Dex, +1 dodge, +6 natural, -2 size
-
-**Ref:** +18
-
-**Will:** +6
 
 **Offense**
 
@@ -492,23 +516,27 @@ Bonus feat.
 
 **Experience points:** 12,800
 
-**Armor class:** 28/20/16
+**Armor class:** 28
+
+**Touch:** 20
+
+**Flat-footed:** 16
+
+**AC modifiers:** +11 Dex, +1 dodge, +8 natural, -2 size
+
+**Hit points:** 152 (16d10+64)
+
+**Fort:** +14
+
+**Ref:** +21
+
+**Will:** +7
 
 **Defensive abilities:** air mastery
 
 **Dr:** 10/-
 
-**Fort:** +14
-
-**Hit points:** 152 (16d10+64)
-
 **Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +11 Dex, +1 dodge, +8 natural, -2 size
-
-**Ref:** +21
-
-**Will:** +7
 
 **Offense**
 

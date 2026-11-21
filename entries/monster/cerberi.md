@@ -53,13 +53,17 @@ tendons exposed._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Fort:** +10
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +6 natural
 
 **Hit points:** 76 (8d10+32)
 
-**Mod:** +2 Dex, +6 natural
+**Fort:** +10
 
 **Ref:** +8
 

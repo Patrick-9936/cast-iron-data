@@ -55,25 +55,29 @@ vines._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/12/24
+**Armor class:** 28
+
+**Touch:** 12
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 Dex, +16 natural, -2 size
+
+**Hit points:** 178 (17d8+102)
+
+**Fort:** +16
+
+**Ref:** +11
+
+**Will:** +6
 
 **Defensive abilities:** all-around vision
 
 **Dr:** 10/slashing
 
-**Fort:** +16
-
-**Hit points:** 178 (17d8+102)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
 
-**Mod:** +4 Dex, +16 natural, -2 size
-
-**Ref:** +11
-
 **Resist:** acid 10, electricity 10
-
-**Will:** +6
 
 **Offense**
 

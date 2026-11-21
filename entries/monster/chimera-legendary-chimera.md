@@ -49,23 +49,27 @@ a ram, and a red dragon's head sprouting from its tail._
 
 **Experience points:** 25,600
 
-**Armor class:** 26/8/26
+**Armor class:** 26
 
-**Dr:** 10/cold iron and magic
+**Touch:** 8
 
-**Fort:** +15
+**Flat-footed:** 26
+
+**AC modifiers:** +18 natural, -2 size
 
 **Hit points:** 178 (17d10+85)
 
-**Immune:** bleed, death effects, disease, fire, poison
-
-**Mod:** +18 natural, -2 size
+**Fort:** +15
 
 **Ref:** +12
 
-**Sr:** 24
-
 **Will:** +8
+
+**Dr:** 10/cold iron and magic
+
+**Immune:** bleed, death effects, disease, fire, poison
+
+**Sr:** 24
 
 **Offense**
 

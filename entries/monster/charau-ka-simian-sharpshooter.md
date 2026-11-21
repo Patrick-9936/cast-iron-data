@@ -52,19 +52,23 @@ _This long-furred ape-person wears a battered snakeskin poncho and carries a wor
 **Subtype:** Charau-ka\
 **Experience points:** 2,400
 
-**Armor class:** 24/17/18
+**Armor class:** 24
 
-**Defensive abilities:** nimble +1
+**Touch:** 17
 
-**Fort:** +8
+**Flat-footed:** 18
+
+**AC modifiers:** +4 armor, +4 Dex, +2 dodge, +3 natural, +1 size
 
 **Hit points:** 60 (3d8+4d10+25\~7)
 
-**Mod:** +4 armor, +4 Dex, +2 dodge, +3 natural, +1 size
+**Fort:** +8
 
 **Ref:** +11
 
 **Will:** +5
+
+**Defensive abilities:** nimble +1
 
 **Offense**
 

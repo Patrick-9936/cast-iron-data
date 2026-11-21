@@ -54,23 +54,27 @@ DC 20)
 
 **Experience points:** 6,400
 
-**Armor class:** 22/16/16
+**Armor class:** 22
 
-**Fort:** +12
+**Touch:** 16
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +6 natural
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** cold
-
-**Mod:** +6 Dex, +6 natural
+**Fort:** +12
 
 **Ref:** +10
+
+**Will:** +12
+
+**Immune:** cold
 
 **Sr:** 20
 
 **Vulner:** fire
-
-**Will:** +12
 
 **Offense**
 

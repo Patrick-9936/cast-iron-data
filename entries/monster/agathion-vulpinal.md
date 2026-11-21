@@ -55,25 +55,29 @@ instrument in one hand._
 
 **Experience points:** 2,400
 
-**Armor class:** 22/14/19
+**Armor class:** 22
 
-**Dr:** 10/evil or silver
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 19
+
+**AC modifiers:** +4 armor, +3 Dex, +4 natural, +1 size
 
 **Hit points:** 59 (7d10+21)
 
-**Immune:** electricity, petrification
-
-**Mod:** +4 armor, +3 Dex, +4 natural, +1 size
+**Fort:** +5
 
 **Ref:** +10
+
+**Will:** +7; +4 vs. poison
+
+**Dr:** 10/evil or silver
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 17
-
-**Will:** +7; +4 vs. poison
 
 **Offense**
 

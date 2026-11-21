@@ -49,13 +49,17 @@ warhorse._
 
 **Experience points:** 800
 
-**Armor class:** 20/11/18
+**Armor class:** 20
 
-**Fort:** +3
+**Touch:** 11
+
+**Flat-footed:** 18
+
+**AC modifiers:** +6 armor, +2 Dex, +1 natural, +2 shield, -1 size
 
 **Hit points:** 30 (4d10+8)
 
-**Mod:** +6 armor, +2 Dex, +1 natural, +2 shield, -1 size
+**Fort:** +3
 
 **Ref:** +6
 

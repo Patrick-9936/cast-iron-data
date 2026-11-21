@@ -51,27 +51,31 @@ resembling a starry night sky._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/13/14
+**Armor class:** 16
+
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +3 natural, +1 size
+
+**Hit points:** 39 (6d10+6)
+
+**Fort:** +3
+
+**Ref:** +7
+
+**Will:** +7; +4 vs. poison
 
 **Dr:** 5/evil
 
 **Fh:** 1 (see below)
 
-**Fort:** +3
-
-**Hit points:** 39 (6d10+6)
-
 **Immune:** electricity, petrification
-
-**Mod:** +2 Dex, +3 natural, +1 size
-
-**Ref:** +7
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 15
-
-**Will:** +7; +4 vs. poison
 
 **Offense**
 

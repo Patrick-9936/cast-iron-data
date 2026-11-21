@@ -50,21 +50,25 @@ _An oily substance in the water surrounds this seething red mass of worm-like lu
 
 **Experience points:** 4,800
 
-**Armor class:** 21/17/18
+**Armor class:** 21
 
-**Defensive abilities:** swarm traits
+**Touch:** 17
 
-**Fort:** +11
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +4 natural, +4 size
 
 **Hit points:** 97 (13d8+39)
 
-**Immune:** weapon damage, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex, +4 natural, +4 size
+**Fort:** +11
 
 **Ref:** +7
 
 **Will:** +4
+
+**Defensive abilities:** swarm traits
+
+**Immune:** weapon damage, [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

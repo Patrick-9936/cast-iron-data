@@ -51,25 +51,29 @@ four long, hook-like jaws._
 
 **Experience points:** 409,600
 
-**Armor class:** 37/9/30
+**Armor class:** 37
+
+**Touch:** 9
+
+**Flat-footed:** 30
+
+**AC modifiers:** +7 Dex, +28 natural, -8 size
+
+**Hit points:** 406 (28d8+280)
+
+**Fort:** +21
+
+**Ref:** +18
+
+**Will:** +24
 
 **Defensive abilities:** telepathic escape
 
 **Dr:** 15/good and piercing
 
-**Fort:** +21
-
-**Hit points:** 406 (28d8+280)
-
 **Immune:** acid, cold, disease, mind-affecting effects, poison
 
-**Mod:** +7 Dex, +28 natural, -8 size
-
-**Ref:** +18
-
 **Sr:** 32
-
-**Will:** +24
 
 **Offense**
 

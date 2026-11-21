@@ -53,21 +53,25 @@ fits snugly between its pectoral armor plates._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/15/15
+**Armor class:** 20
 
-**Fort:** +3
+**Touch:** 15
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +2 dodge, +5 natural
 
 **Hit points:** 69 (9d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +2 dodge, +5 natural
+**Fort:** +3
 
 **Ref:** +8
 
-**Vulner:** electricity
-
 **Will:** +3
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

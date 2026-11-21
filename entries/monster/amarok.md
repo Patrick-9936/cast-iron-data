@@ -48,13 +48,17 @@ of a cold moon._
 
 **Experience points:** 19,200
 
-**Armor class:** 28/13/23
+**Armor class:** 28
 
-**Fort:** +15
+**Touch:** 13
+
+**Flat-footed:** 23
+
+**AC modifiers:** +5 Dex, +15 natural, -2 size
 
 **Hit points:** 172 (15d10+90)
 
-**Mod:** +5 Dex, +15 natural, -2 size
+**Fort:** +15
 
 **Ref:** +14
 

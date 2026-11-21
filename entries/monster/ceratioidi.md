@@ -56,19 +56,23 @@ lure of a deep-sea predator._
 
 **Experience points:** 800
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Fort:** +3
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +5 natural
+**Fort:** +3
 
 **Ref:** +4
 
 **Will:** +6
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

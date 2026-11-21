@@ -48,13 +48,17 @@ long, toothed mouth as it lunges forward._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/8/18
+**Armor class:** 18
 
-**Fort:** +10
+**Touch:** 8
+
+**Flat-footed:** 18
+
+**AC modifiers:** +10 natural, -2 size
 
 **Hit points:** 57 (6d8+30)
 
-**Mod:** +10 natural, -2 size
+**Fort:** +10
 
 **Ref:** +5
 

@@ -47,21 +47,25 @@ stinger is the size of a dagger blade._
 
 **Experience points:** 400
 
-**Armor class:** 13/12/11
+**Armor class:** 13
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 natural
 
 **Hit points:** 16 (3d8+3)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +1 natural
+**Fort:** +4
 
 **Ref:** +3
 
-**Weaknesses:** vulnerable to smoke
-
 **Will:** +2
+
+**Immune:** mind-affecting effects
+
+**Weaknesses:** vulnerable to smoke
 
 **Offense**
 

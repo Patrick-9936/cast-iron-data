@@ -56,29 +56,33 @@ swallow a small ship._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/16/22
+**Armor class:** 28
+
+**Touch:** 16
+
+**Flat-footed:** 22
+
+**AC modifiers:** +8 deflection, +5 Dex, +1 Dodge, +12 natural, -8 size
+
+**Hit points:** 184 (16d12+80)
+
+**Fort:** +17
+
+**Ref:** +15
+
+**Will:** +14; -4 vs. petrification
 
 **Defensive abilities:** ocean's aegis
 
 **Dr:** 5/-
 
-**Fort:** +17
-
-**Hit points:** 184 (16d12+80)
-
 **Immune:** paralysis, sleep
-
-**Mod:** +8 deflection, +5 Dex, +1 Dodge, +12 natural, -8 size
-
-**Ref:** +15
 
 **Regen:** 10 (petrification)
 
 **Sr:** 24
 
 **Weaknesses:** vulnerable to petrification
-
-**Will:** +14; -4 vs. petrification
 
 **Offense**
 

@@ -52,27 +52,31 @@ white-feathered wings._
 
 **Experience points:** 76,800
 
-**Armor class:** 32/13/28
+**Armor class:** 32
 
-**Dr:** 10/evil
+**Touch:** 13
 
-**Fort:** +19
+**Flat-footed:** 28
+
+**AC modifiers:** +4 Dex, +19 natural, -1 size; +4 deflection vs. evil
 
 **Hit points:** 229 (17d10+136)
 
-**Immune:** acid, cold, petrification
-
-**Mod:** +4 Dex, +19 natural, -1 size; +4 deflection vs. evil
+**Fort:** +19
 
 **Ref:** +11
+
+**Will:** +19; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** acid, cold, petrification
 
 **Regen:** 10 (evil weapons and effects)
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 27
-
-**Will:** +19; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

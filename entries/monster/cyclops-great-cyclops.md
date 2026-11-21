@@ -55,13 +55,17 @@ jagged horn on its brow._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/9/25
+**Armor class:** 26
 
-**Fort:** +12
+**Touch:** 9
+
+**Flat-footed:** 25
+
+**AC modifiers:** +4 armor, +1 Dex, +13 natural, -2 size
 
 **Hit points:** 195 (17d8+119)
 
-**Mod:** +4 armor, +1 Dex, +13 natural, -2 size
+**Fort:** +12
 
 **Ref:** +6
 

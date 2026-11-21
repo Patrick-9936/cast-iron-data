@@ -57,21 +57,25 @@ new prisoners._
 
 **Experience points:** 800
 
-**Armor class:** 14/10/12
+**Armor class:** 14
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 5 (or more)
+**Touch:** 10
 
-**Fort:** +1
+**Flat-footed:** 12
+
+**AC modifiers:** +4 natural
 
 **Hit points:** 36 (3d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +4 natural
+**Fort:** +1
 
 **Ref:** +1
 
 **Will:** -4
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 5 (or more)
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

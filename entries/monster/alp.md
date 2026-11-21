@@ -49,25 +49,29 @@ mouth._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/19/15
+**Armor class:** 24
 
-**Dr:** 10/cold iron
+**Touch:** 19
 
-**Fort:** +10
+**Flat-footed:** 15
+
+**AC modifiers:** +8 Dex, +1 dodge, +5 natural
 
 **Hit points:** 123 (13d6+78)
 
-**Immune:** sleep effects
-
-**Mod:** +8 Dex, +1 dodge, +5 natural
+**Fort:** +10
 
 **Ref:** +16
+
+**Will:** +9
+
+**Dr:** 10/cold iron
+
+**Immune:** sleep effects
 
 **Sr:** 21
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +9
 
 **Offense**
 

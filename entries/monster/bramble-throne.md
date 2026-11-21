@@ -54,19 +54,23 @@ grow on the branches._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/14/24
+**Armor class:** 30
 
-**Fort:** +19
+**Touch:** 14
+
+**Flat-footed:** 24
+
+**AC modifiers:** +6 Dex, +16 natural, -2 size
 
 **Hit points:** 230 (20d8+140)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +6 Dex, +16 natural, -2 size
+**Fort:** +19
 
 **Ref:** +12
 
 **Will:** +12
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

@@ -47,21 +47,25 @@ _This mangy stray animal growls and whimpers miserably. Stinking blue drool drip
 
 **Experience points:** 1,200
 
-**Armor class:** 17/12/16
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +5 natural, +1 size
 
 **Hit points:** 42 (5d8+20)
 
-**Mod:** +1 Dex, +5 natural, +1 size
+**Fort:** +7
 
 **Ref:** +2
+
+**Will:** +6
 
 **Resist:** acid 5
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +6
 
 **Offense**
 

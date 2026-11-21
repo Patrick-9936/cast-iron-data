@@ -53,13 +53,17 @@ _The pink, fleshy underside of this flat, aquatic creature features a large circ
 
 **Experience points:** 1,600
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +8 natural, -1 size
 
 **Hit points:** 59 (7d8+28)
 
-**Mod:** +2 Dex, +8 natural, -1 size
+**Fort:** +6
 
 **Ref:** +4
 

@@ -52,21 +52,25 @@ barbs that's topped with a heap of berry-red eyes._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Defensive abilities:** thorny
+**Touch:** 12
 
-**Fort:** +11
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +8 natural, -1 size
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex, +8 natural, -1 size
+**Fort:** +11
 
 **Ref:** +6
 
 **Will:** +5
+
+**Defensive abilities:** thorny
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 
@@ -213,21 +217,25 @@ N Large construct\
 **Init** -1; **Senses** [darkvision](ref/rule/darkvision) 60 ft.,
 [low-light vision](ref/rule/low-light-vision); Perception -5
 
-**Armor class:** 15/8/15
+**Armor class:** 15
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 5
+**Touch:** 8
 
-**Fort:** +1
+**Flat-footed:** 15
+
+**AC modifiers:** -1 Dex, +7 natural, -1 size
 
 **Hit points:** 52 (4d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** -1 Dex, +7 natural, -1 size
+**Fort:** +1
 
 **Ref:** +0
 
 **Will:** -4
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 5
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

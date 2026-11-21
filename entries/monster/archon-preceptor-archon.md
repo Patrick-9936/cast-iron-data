@@ -55,23 +55,27 @@ white robes contrast starkly with its black feathers, and its willow staff sheds
 
 **Experience points:** 6,400
 
-**Armor class:** 24/15/19
+**Armor class:** 24
 
-**Dr:** 10/evil
+**Touch:** 15
 
-**Fort:** +12
+**Flat-footed:** 19
+
+**AC modifiers:** +5 Dex, +9 natural; +2 deflection vs. evil
 
 **Hit points:** 112 (9d10+63)
 
-**Immune:** electricity, petrification
-
-**Mod:** +5 Dex, +9 natural; +2 deflection vs. evil
+**Fort:** +12
 
 **Ref:** +8
 
-**Sr:** 20
-
 **Will:** +12; +4 vs. poison, +2 resistance vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** electricity, petrification
+
+**Sr:** 20
 
 **Offense**
 

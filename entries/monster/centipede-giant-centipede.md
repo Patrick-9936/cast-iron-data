@@ -48,19 +48,23 @@ prey._
 
 **Experience points:** 200
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 natural
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +2 natural
+**Fort:** +3
 
 **Ref:** +2
 
 **Will:** +0
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

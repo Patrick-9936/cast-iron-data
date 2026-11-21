@@ -54,32 +54,36 @@ of blistering fire._
 
 **Experience points:** 6,553,600
 
-**Armor class:** 47/34/40
+**Armor class:** 47
+
+**Touch:** 34
+
+**Flat-footed:** 40
+
+**AC modifiers:** +4 deflection, +7 Dex, +13 natural, +15 profane, -2 size
+
+**Hit points:** 731 (34d10+544)
+
+**Fort:** +39
+
+**Ref:** +24
+
+**Will:** +35; +8 vs. mind-affecting effects
 
 **Defensive abilities:** infernal resurrection, _[mind blank](ref/spell/mind-blank)_
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +39
-
 **Fortif:** 50
-
-**Hit points:** 731 (34d10+544)
 
 **Immune:** ability damage, ability drain, charm, compulsion, death effects, energy drain, fire,
 petrification, poison
-
-**Mod:** +4 deflection, +7 Dex, +13 natural, +15 profane, -2 size
-
-**Ref:** +24
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, cold 30
 
 **Sr:** 40
-
-**Will:** +35; +8 vs. mind-affecting effects
 
 **Offense**
 

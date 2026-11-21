@@ -53,21 +53,25 @@ with hooked teeth._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/13/22
+**Armor class:** 29
 
-**Defensive abilities:** collapse
+**Touch:** 13
 
-**Fh:** 20
+**Flat-footed:** 22
 
-**Fort:** +17
+**AC modifiers:** +7 Dex, +16 natural, -4 size
 
 **Hit points:** 207 (18d10+108)
 
-**Mod:** +7 Dex, +16 natural, -4 size
+**Fort:** +17
 
 **Ref:** +18
 
 **Will:** +12
+
+**Defensive abilities:** collapse
+
+**Fh:** 20
 
 **Offense**
 

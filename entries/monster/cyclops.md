@@ -52,19 +52,23 @@ even larger mouth gapes like a cave._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/8/19
+**Armor class:** 19
 
-**Ferocity:** present
+**Touch:** 8
 
-**Fort:** +9
+**Flat-footed:** 19
+
+**AC modifiers:** +4 armor, -1 Dex, +7 natural, -1 size
 
 **Hit points:** 65 (10d8+20)
 
-**Mod:** +4 armor, -1 Dex, +7 natural, -1 size
+**Fort:** +9
 
 **Ref:** +2
 
 **Will:** +4
+
+**Ferocity:** present
 
 **Offense**
 

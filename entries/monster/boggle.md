@@ -53,21 +53,25 @@ _This small, goat-like man has curved horns, hoofed feet, and a rat-like tail._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/18/14
+**Armor class:** 21
 
-**Dr:** 10/cold iron
+**Touch:** 18
 
-**Fort:** +9
+**Flat-footed:** 14
+
+**AC modifiers:** +6 Dex, +1 dodge, +3 natural, +1 size
 
 **Hit points:** 102 (12d6+60)
 
-**Mod:** +6 Dex, +1 dodge, +3 natural, +1 size
+**Fort:** +9
 
 **Ref:** +14
 
-**Sr:** 19
-
 **Will:** +9
+
+**Dr:** 10/cold iron
+
+**Sr:** 19
 
 **Offense**
 

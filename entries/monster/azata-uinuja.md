@@ -57,25 +57,29 @@ tangle of night-blue hair._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/19/25
+**Armor class:** 30
 
-**Dr:** 10/cold iron and evil
+**Touch:** 19
 
-**Fort:** +12
+**Flat-footed:** 25
+
+**AC modifiers:** +5 deflection, +5 Dex, +11 natural, -1 size
 
 **Hit points:** 207 (18d10+108)
 
-**Immune:** electricity, petrification, sleep
-
-**Mod:** +5 deflection, +5 Dex, +11 natural, -1 size
+**Fort:** +12
 
 **Ref:** +16
+
+**Will:** +19
+
+**Dr:** 10/cold iron and evil
+
+**Immune:** electricity, petrification, sleep
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 26
-
-**Will:** +19
 
 **Offense**
 

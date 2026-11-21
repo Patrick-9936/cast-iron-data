@@ -46,19 +46,23 @@ graying teeth clattering slightly as it bobs in the air._
 
 **Experience points:** 200
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Fort:** +1
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** fire, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +2 size
+**Fort:** +1
 
 **Ref:** +1
 
 **Will:** +2
+
+**Immune:** fire, [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

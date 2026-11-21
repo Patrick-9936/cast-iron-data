@@ -52,13 +52,17 @@ within its jaws._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +5 natural
 
 **Hit points:** 37 (5d8+15)
 
-**Mod:** +2 Dex, +5 natural
+**Fort:** +4
 
 **Ref:** +3
 

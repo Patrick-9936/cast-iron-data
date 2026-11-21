@@ -50,23 +50,27 @@ _The insectile eyes of this chitin-covered daemonic monstrosity display a malign
 
 **Experience points:** 3,200
 
-**Armor class:** 20/9/20
+**Armor class:** 20
 
-**Defensive abilities:** all-around vision
+**Touch:** 9
 
-**Fort:** +10
+**Flat-footed:** 20
+
+**AC modifiers:** +11 natural, -1 size
 
 **Hit points:** 85 (9d10+36)
 
-**Immune:** acid, disease, poison, death effects, waters of the River Styx
-
-**Mod:** +11 natural, -1 size
+**Fort:** +10
 
 **Ref:** +5
 
-**Resist:** cold 10, electricity 10, fire 10
-
 **Will:** +8
+
+**Defensive abilities:** all-around vision
+
+**Immune:** acid, disease, poison, death effects, waters of the River Styx
+
+**Resist:** cold 10, electricity 10, fire 10
 
 **Offense**
 

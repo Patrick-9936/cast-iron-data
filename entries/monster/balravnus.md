@@ -57,29 +57,33 @@ helm made of greasy green metal._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/9/31
+**Armor class:** 33
 
-**Dr:** 10/good, 1/-
+**Touch:** 9
+
+**Flat-footed:** 31
+
+**AC modifiers:** +8 armor, +2 Dex, +16 natural, -2 rage, -1 size
+
+**Hit points:** 300 (10d10+7d12+194\~17)
 
 **Fort:** +23
 
-**Hit points:** 300 (10d10+7d12+194\~17)
+**Ref:** +9
+
+**Will:** +14; +2 vs. traps
+
+**Dr:** 10/good, 1/-
 
 **Immune:** electricity, poison
 
 **Improved uncanny dodge:** present
-
-**Mod:** +8 armor, +2 Dex, +16 natural, -2 rage, -1 size
-
-**Ref:** +9
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 29
 
 **Trap S:** +2
-
-**Will:** +14; +2 vs. traps
 
 **Offense**
 

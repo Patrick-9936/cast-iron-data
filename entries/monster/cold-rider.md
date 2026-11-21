@@ -52,29 +52,33 @@ _Jagged, twisting antlers of dark blue ice crown the helm of this ice-armored hu
 
 **Experience points:** 4,800
 
-**Armor class:** 22/13/19
+**Armor class:** 22
+
+**Touch:** 13
+
+**Flat-footed:** 19
+
+**AC modifiers:** +9 armor, +3 Dex
+
+**Hit points:** 97 (13d6+52)
+
+**Fort:** +8
+
+**Ref:** +11
+
+**Will:** +10
 
 **Defensive abilities:** implements of ice
 
 **Fh:** 5
 
-**Fort:** +8
-
-**Hit points:** 97 (13d6+52)
-
 **Immune:** cold
-
-**Mod:** +9 armor, +3 Dex
-
-**Ref:** +11
 
 **Sr:** 19
 
 **Vulner:** fire and sonic
 
 **Weaknesses:** susceptible to _[shatter](ref/spell/shatter)_
-
-**Will:** +10
 
 **Offense**
 

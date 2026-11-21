@@ -52,19 +52,23 @@ currents on its fan-like tail._
 
 **Experience points:** 600
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Defensive abilities:** wind blessed, wind form
+**Touch:** 15
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Mod:** +3 Dex, +2 size
+**Fort:** +4
 
 **Ref:** +6
 
 **Will:** +0
+
+**Defensive abilities:** wind blessed, wind form
 
 **Offense**
 

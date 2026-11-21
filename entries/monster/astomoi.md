@@ -53,21 +53,25 @@ _This humanoid appears to be made of darkness, and has no discernible ears, eyes
 
 **Experience points:** 200
 
-**Armor class:** 14/14/13
+**Armor class:** 14
 
-**Fort:** +0
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +3 Wis
 
 **Hit points:** 7 (1d6+1)
 
-**Immune:** ingested poisons
-
-**Mod:** +1 Dex, +3 Wis
+**Fort:** +0
 
 **Ref:** +1
 
-**Weaknesses:** sensitive breath
-
 **Will:** +5; -2 vs. disease and inhaled poison
+
+**Immune:** ingested poisons
+
+**Weaknesses:** sensitive breath
 
 **Offense**
 

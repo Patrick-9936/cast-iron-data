@@ -53,21 +53,25 @@ dangling down beneath it._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Amorph:** present
+**Touch:** 9
 
-**Fort:** +7
+**Flat-footed:** 17
+
+**AC modifiers:** +8 natural, -1 size
 
 **Hit points:** 66 (7d8+35)
 
-**Mod:** +8 natural, -1 size
+**Fort:** +7
 
 **Ref:** +2
 
-**Regen:** 2 (acid)
-
 **Will:** +9
+
+**Amorph:** present
+
+**Regen:** 2 (acid)
 
 **Offense**
 

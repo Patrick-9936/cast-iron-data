@@ -51,23 +51,27 @@ shell-like posterior of the machine, while toxic green ooze courses through its 
 
 **Experience points:** 9,600
 
-**Armor class:** 26/14/21
+**Armor class:** 26
 
-**Dr:** 5/adamantine
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 21
+
+**AC modifiers:** +3 Dex, +2 dodge, +12 natural, -1 size
 
 **Hit points:** 101 (13d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), eidite sickness
-
-**Mod:** +3 Dex, +2 dodge, +12 natural, -1 size
+**Fort:** +4
 
 **Ref:** +9
 
-**Vulner:** electricity
-
 **Will:** +4
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), eidite sickness
+
+**Vulner:** electricity
 
 **Offense**
 

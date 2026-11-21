@@ -52,25 +52,29 @@ hissing cloud of churning gases._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/19/10
+**Armor class:** 19
+
+**Touch:** 19
+
+**Flat-footed:** 10
+
+**AC modifiers:** +8 Dex, +1 dodge
+
+**Hit points:** 73 (7d10+35)
+
+**Fort:** +10
+
+**Ref:** +13
+
+**Will:** +4
 
 **Amorph:** present
 
 **Dr:** 5/-
 
-**Fort:** +10
-
-**Hit points:** 73 (7d10+35)
-
 **Immune:** acid, [elemental](ref/subtype/elemental) traits
 
-**Mod:** +8 Dex, +1 dodge
-
-**Ref:** +13
-
 **Weaknesses:** vulnerable to wind
-
-**Will:** +4
 
 **Offense**
 

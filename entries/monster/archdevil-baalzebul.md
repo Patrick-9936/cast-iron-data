@@ -54,31 +54,35 @@ _This swarm of droning black flies teems in the semblance of a winged angel with
 
 **Experience points:** 9,830,400
 
-**Armor class:** 48/40/37
+**Armor class:** 48
+
+**Touch:** 40
+
+**Flat-footed:** 37
+
+**AC modifiers:** +4 deflection, +10 Dex, +1 dodge, +8 natural, +16 profane, -1 size
+
+**Hit points:** 717 (35d10+525)
+
+**Fort:** +30
+
+**Ref:** +30
+
+**Will:** +36; +8 vs. mind-affecting effects
 
 **Defensive abilities:** infernal resurrection, _[mind blank](ref/spell/mind-blank)_, swarm body,
 usurpation
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +30
-
-**Hit points:** 717 (35d10+525)
-
 **Immune:** ability damage, ability drain, charm, cold, compulsion, death effects, disease, energy
 drain, fire, petrification, poison
-
-**Mod:** +4 deflection, +10 Dex, +1 dodge, +8 natural, +16 profane, -1 size
-
-**Ref:** +30
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30
 
 **Sr:** 41
-
-**Will:** +36; +8 vs. mind-affecting effects
 
 **Offense**
 

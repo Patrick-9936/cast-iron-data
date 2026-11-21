@@ -53,27 +53,31 @@ wings._
 
 **Experience points:** 819,200
 
-**Armor class:** 44/11/42
+**Armor class:** 44
 
-**Dr:** 15/epic and evil
+**Touch:** 11
 
-**Fort:** +25
+**Flat-footed:** 42
+
+**AC modifiers:** +14 armor, +1 Dex, +1 dodge, +19 natural, -1 size; +4 deflection vs. evil
 
 **Hit points:** 363 (22d10+242)
 
-**Immune:** acid, cold, petrification
-
-**Mod:** +14 armor, +1 Dex, +1 dodge, +19 natural, -1 size; +4 deflection vs. evil
+**Fort:** +25
 
 **Ref:** +14
+
+**Will:** +23; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 15/epic and evil
+
+**Immune:** acid, cold, petrification
 
 **Regen:** 15 (evil artifacts, effects, and spells)
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 34
-
-**Will:** +23; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

@@ -47,13 +47,17 @@ with pale green fire._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Fort:** +9
+**Touch:** 9
+
+**Flat-footed:** 17
+
+**AC modifiers:** -1 Dex, +8 natural
 
 **Hit points:** 52 (7d10+14)
 
-**Mod:** -1 Dex, +8 natural
+**Fort:** +9
 
 **Ref:** +4
 

@@ -51,23 +51,27 @@ red and its jagged tusks seem more like obsidian than bone._
 
 **Experience points:** 6,400
 
-**Armor class:** 21/8/21
+**Armor class:** 21
 
-**Defensive abilities:** infernal ferocity
+**Touch:** 8
 
-**Fort:** +13
+**Flat-footed:** 21
+
+**AC modifiers:** -1 Dex, +13 natural, -1 size
 
 **Hit points:** 137 (11d10+77)
 
-**Immune:** disease, fire
-
-**Mod:** -1 Dex, +13 natural, -1 size
+**Fort:** +13
 
 **Ref:** +6
 
-**Vulner:** cold
-
 **Will:** +6
+
+**Defensive abilities:** infernal ferocity
+
+**Immune:** disease, fire
+
+**Vulner:** cold
 
 **Offense**
 

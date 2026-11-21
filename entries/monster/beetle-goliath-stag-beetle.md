@@ -47,19 +47,23 @@ hungry fervor._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/8/21
+**Armor class:** 21
 
-**Fort:** +12
+**Touch:** 8
+
+**Flat-footed:** 21
+
+**AC modifiers:** +13 natural, -2 size
 
 **Hit points:** 104 (11d8+55)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +13 natural, -2 size
+**Fort:** +12
 
 **Ref:** +3
 
 **Will:** +3
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

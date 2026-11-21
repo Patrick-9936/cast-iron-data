@@ -52,21 +52,25 @@ periodically from within._
 
 **Experience points:** 600
 
-**Armor class:** 16/15/13
+**Armor class:** 16
 
-**Dr:** 5/evil
+**Touch:** 15
 
-**Fort:** +1
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 dodge, +1 natural, +2 size
 
 **Hit points:** 16 (3d10)
 
-**Immune:** electricity, petrification
-
-**Mod:** +2 Dex, +1 dodge, +1 natural, +2 size
+**Fort:** +1
 
 **Ref:** +5
 
 **Will:** +4; +4 vs. poison
+
+**Dr:** 5/evil
+
+**Immune:** electricity, petrification
 
 **Offense**
 

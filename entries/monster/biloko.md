@@ -50,13 +50,17 @@ grass and moss grow from its skin instead._
 
 **Experience points:** 200
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Fort:** -1
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 natural, +1 size
 
 **Hit points:** 5 (2d6-2)
 
-**Mod:** +2 Dex, +1 natural, +1 size
+**Fort:** -1
 
 **Ref:** +5
 

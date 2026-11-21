@@ -53,25 +53,29 @@ strike at a moment's notice._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/15/26
+**Armor class:** 31
 
-**Dr:** 10/evil and silver
+**Touch:** 15
 
-**Fort:** +15
+**Flat-footed:** 26
+
+**AC modifiers:** +4 Dex, +1 dodge, +16 natural
 
 **Hit points:** 261 (18d10+162)
 
-**Immune:** electricity, petrification
-
-**Mod:** +4 Dex, +1 dodge, +16 natural
+**Fort:** +15
 
 **Ref:** +15
+
+**Will:** +13; +4 resistance vs. evil
+
+**Dr:** 10/evil and silver
+
+**Immune:** electricity, petrification
 
 **Regen:** 5 (evil weapons and spells)
 
 **Resist:** cold 10, sonic 10
-
-**Will:** +13; +4 resistance vs. evil
 
 **Offense**
 

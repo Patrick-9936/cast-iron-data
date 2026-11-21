@@ -47,19 +47,23 @@ wickedly sharp wooden branches._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/11/26
+**Armor class:** 31
 
-**Fort:** +20
+**Touch:** 11
+
+**Flat-footed:** 26
+
+**AC modifiers:** +5 Dex, +20 natural, -4 size
 
 **Hit points:** 253 (22d8+154)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +5 Dex, +20 natural, -4 size
+**Fort:** +20
 
 **Ref:** +12
 
 **Will:** +11
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

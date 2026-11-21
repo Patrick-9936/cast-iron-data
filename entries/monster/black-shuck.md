@@ -51,19 +51,23 @@ in filth and gore._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/16/13
+**Armor class:** 20
 
-**Dr:** 10/cold iron or magic
+**Touch:** 16
 
-**Fort:** +10
+**Flat-footed:** 13
+
+**AC modifiers:** +7 Dex, +4 natural, -1 size
 
 **Hit points:** 85 (9d10+36)
 
-**Mod:** +7 Dex, +4 natural, -1 size
+**Fort:** +10
 
 **Ref:** +13
 
 **Will:** +5
+
+**Dr:** 10/cold iron or magic
 
 **Offense**
 

@@ -50,23 +50,27 @@ other and separating in a riot of oozing momentum._
 
 **Experience points:** 135
 
-**Armor class:** 7/7/7
+**Armor class:** 7
 
-**Fort:** +3
+**Touch:** 7
+
+**Flat-footed:** 7
+
+**AC modifiers:** -5 Dex, +2 size
 
 **Hit points:** 7 (1d8+3)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits), swarm traits
-
-**Mod:** -5 Dex, +2 size
+**Fort:** +3
 
 **Ref:** -5
+
+**Will:** -5
+
+**Immune:** [ooze traits](ref/umr/ooze-traits), swarm traits
 
 **Resist:** fire 5
 
 **Vulner:** cold
-
-**Will:** -5
 
 **Offense**
 

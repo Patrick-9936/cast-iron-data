@@ -51,21 +51,25 @@ stink of rancid vinegar._
 
 **Experience points:** 400
 
-**Armor class:** 13/13/13
+**Armor class:** 13
 
-**Defensive abilities:** ooze and swarm traits
+**Touch:** 13
 
-**Fort:** +0
+**Flat-footed:** 13
+
+**AC modifiers:** -5 Dex, +8 size
 
 **Hit points:** 9 (2d8)
 
-**Immune:** weapon damage
-
-**Mod:** -5 Dex, +8 size
+**Fort:** +0
 
 **Ref:** -5
 
 **Will:** -5
+
+**Defensive abilities:** ooze and swarm traits
+
+**Immune:** weapon damage
 
 **Offense**
 

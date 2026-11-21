@@ -49,21 +49,25 @@ _An attractive green-skinned woman sits in the depths of this enormous, sweet-sm
 
 **Experience points:** 25,600
 
-**Armor class:** 27/10/26
+**Armor class:** 27
 
-**Fort:** +17
+**Touch:** 10
+
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +17 natural, -1 size
 
 **Hit points:** 199 (19d8+114)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +17 natural, -1 size
+**Fort:** +17
 
 **Ref:** +9
 
-**Sr:** 24
-
 **Will:** +11
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Sr:** 24
 
 **Offense**
 
