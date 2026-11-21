@@ -78,13 +78,13 @@ fails. Once a corpse has answered a single question, it cannot be targeted with 
 
 **Flavor:** The shaman can call upon the ancestral heroes of her family to bolster ailing allies.
 
-**At 7th Level:** This increases to 1d4 points of temporary ability damage.
+**Standard:** The shaman can cure 1 point of temporary
+[ability damage](ref/rule/ability-damage-drain) affecting the creature touched.
+
+**At 7th level,** this increases to 1d4 points of temporary ability damage.
 
 **Special:** Once a creature has been the target of this hex, it cannot be the target of this hex
 again for 24 hours.
-
-**Standard:** The shaman can cure 1 point of temporary
-[ability damage](ref/rule/ability-damage-drain) affecting the creature touched.
 
 **Wisdom of the Ages (Su)**
 
@@ -97,11 +97,11 @@ Intelligence-based skill checks.
 
 **Spirit Animal**
 
-**Ability:** The spirit animal can speak and understand a number of bonus languages equal to the
-shaman's Charisma bonus.
-
 **Flavor:** The shaman's spirit animal has streaks of gray or silver hide, hair, or fur, and long
 facial hair that appears similar to a wispy mustache or bushy eyebrows.
+
+**Ability:** The spirit animal can speak and understand a number of bonus languages equal to the
+shaman's Charisma bonus.
 
 ### Spirit Ability
 
@@ -123,18 +123,18 @@ ability upon having access to the greater version of that spirit.
 
 **Ancestral Weapon (Su)**
 
-**At 11th Level:** The weapon gains the [ghost touch](ref/magic-enh/ghost-touch-weapon) weapon
-property.
-
 **Standard:** The shaman can summon an appropriately-sized simple or martial weapon with a +1
 enhancement bonus from her family's history. She is always considered proficient with this weapon.
 
 **Usage:** 1 minute/day per shaman level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
-At 15th level: The enhancement bonus increases to +2.
+**At 11th level,** the weapon gains the [ghost touch](ref/magic-enh/ghost-touch-weapon) weapon
+property.
 
-At 19th level: The enhancement bonus increases to +3.
+**At 15th level,** the enhancement bonus increases to +2.
+
+**At 19th level,** the enhancement bonus increases to +3.
 
 ### True Spirit Ability
 

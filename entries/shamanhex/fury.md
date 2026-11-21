@@ -18,9 +18,9 @@ group = "shaman-hex"
 morale bonus on attack rolls and a +2 resistance bonus on saving throws against fear for a number of
 rounds equal to the shaman's Wisdom modifier.
 
+**At 8th level,** these bonuses increase to +3.
+
+**At 16th level,** these bonuses increase to +4.
+
 **Special:** Once a creature has benefited from the _fury_ hex, it cannot benefit from it again for
 24 hours.
-
-At 8th level: These bonuses increase to +3.
-
-At 16th level: These bonuses increase to +4.

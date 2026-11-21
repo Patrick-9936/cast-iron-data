@@ -18,9 +18,9 @@ group = "witch-hex"
 round. Whenever that creature is targeted by an effect that requires an attack roll, including
 weapon attacks, the attacker must roll twice and take the worse result.
 
-**At 16th Level:** This hex lasts for 3 rounds.
+**At 8th level,** this lasts for 2 rounds.
 
-**At 8th Level:** This lasts for 2 rounds.
+**At 16th level,** this hex lasts for 3 rounds.
 
 **Special:** A witch cannot use this ability on herself. Hexes that affect the
 [fortune](ref/hex/fortune) hex, such as [cackle](ref/hex/cackle), also affect _protective luck._

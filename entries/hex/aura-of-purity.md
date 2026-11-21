@@ -18,8 +18,8 @@ group = "witch-hex"
 gaseous effects (such as [stinking cloud](ref/spell/stinking-cloud)) are negated in a 10-foot aura
 around the witch.
 
-**Special:** Effects caused by spells whose level is more than half the witch's class level are
-unaffected.
-
 **Usage:** 1 minute/day per witch level; these minutes need not be consecutive, but must be spent in
 1-minute increments
+
+**Special:** Effects caused by spells whose level is more than half the witch's class level are
+unaffected.

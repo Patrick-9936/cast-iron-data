@@ -64,6 +64,8 @@ Nurgal, Ra, Sarenrae, Shizuru, Skode
 
 **Day's Resurgence (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can restore a single creature as if it had just completed 8 hours of rest. It takes
 10 minutes to use this power. If the use of this power is disrupted, it must be restarted, but it is
 not lost.
@@ -75,11 +77,9 @@ success counts toward removing the affliction (if possible).
 
 This ability does not allow a target to prepare spells an additional time per day.
 
-**Gained:** At 8th Level
+**Usage:** 1 time/day per 2 cleric levels
 
 **Replaces:** The nimbus of light power of the Sun domain
-
-**Usage:** 1 time/day per 2 cleric levels
 
 **Replacement Domain Spells**
 
@@ -96,8 +96,6 @@ Pharimia, Ra, Sarenrae, Shizuru, Skode
 
 **Blinding Flash (Su)**
 
-**Replaces:** The sun's blessing power of the Sun domain
-
 **Standard:** You can emit a flash of light from your holy symbol or divine focus. The most powerful
 light emanates out 20 feet from you. Creatures with fewer Hit Dice than your cleric level within
 this area are [blinded](ref/misc/blinded) for 1d4 rounds unless they succeed at a Fortitude save.
@@ -105,6 +103,8 @@ All creatures in this area are [dazzled](ref/misc/dazzled) for a number of round
 [half](ref/misc/fractions-and-rounding) your cleric level (minimum 1).
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The sun's blessing power of the Sun domain
 
 **Replacement Domain Spells**
 
@@ -147,8 +147,6 @@ concealed, you gain a +4 sacred bonus on the check.
 
 **Wilting Glare (Su)**
 
-**Replaces:** The sun's blessing power of the Sun domain
-
 **Standard:** You can leach moisture and vitality from a living, corporeal creature you can see
 within 30 feet. The target takes an amount of nonlethal damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) of your cleric level and becomes
@@ -158,9 +156,9 @@ are fatigued for a number of rounds equal to your Wisdom modifier.
 
 **Usage:** 3 + Wisdom modifier times/day
 
-**Withering Nimbus (Su)**
+**Replaces:** The sun's blessing power of the Sun domain
 
-**Alters:** The nimbus of light power of the Sun domain
+**Withering Nimbus (Su)**
 
 **Gained:** At 8th Level
 
@@ -171,6 +169,8 @@ damage equal to your cleric level each round that they remain inside the nimbus.
 dispelled if brought inside this nimbus.
 
 **Usage:** 1 time/day per cleric level
+
+**Alters:** The nimbus of light power of the Sun domain
 
 **Replacement Domain Spells**
 

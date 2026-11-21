@@ -90,19 +90,19 @@ gains the ability to converse with those types of animal as if she were under th
 she doesn't need to attempt Acrobatics skill checks to move across such surfaces. She can also move
 through magical environmental effects that she created.
 
-**At 10th Level:** The shaman can see twice as far as normal through environmental effects, whether
+**At 10th level,** the shaman can see twice as far as normal through environmental effects, whether
 or not they are magical in nature.
 
 ### Spirit Animal
 
 **Spirit Animal**
 
+**Flavor:** The shaman's spirit animal looks feral, and appears to be in peak physical form.
+
 **Ability:** The animal can move through any sort of undergrowth or natural
 [difficult terrain](ref/rule/terrain-and-obstacles) at its normal speed without taking damage or
 suffering any other impairment. If the animal has a fly speed, it can ignore the penalty on
 [Fly](ref/skill/fly) skill checks for winds up to windstorm strength.
-
-**Flavor:** The shaman's spirit animal looks feral, and appears to be in peak physical form.
 
 ### Spirit Ability
 
@@ -111,15 +111,15 @@ ability.
 
 **Storm Burst (Su)**
 
-**At 11th Level:** Any weapon she wields is treated as a [thundering](ref/magic-enh/thundering)
-weapon.
-
 **Standard:** The shaman causes a small storm of swirling wind and rain to form around one creature
 within 30 feet. This storm causes the target to treat all foes as if they had
 [concealment](ref/rule/concealment), suffering a 20% miss chance for a number of rounds equal to 1 +
 one-fourth of her shaman level.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 11th level,** any weapon she wields is treated as a [thundering](ref/magic-enh/thundering)
+weapon.
 
 ### Greater Spirit Ability
 
@@ -128,10 +128,10 @@ ability upon having access to the greater version of that spirit.
 
 **Spirit of Nature (Su)**
 
-**At 15th Level:** This increases to [fast healing](ref/umr/fast-healing) 3.
-
 **Passive:** Whenever the shaman is reduced to below 0 hit points, she automatically stabilizes and
 gains [fast healing](ref/umr/fast-healing) 1 for 1d4 rounds.
+
+**At 15th level,** this increases to [fast healing](ref/umr/fast-healing) 3.
 
 ### True Spirit Ability
 
@@ -150,6 +150,10 @@ is dismissed, is lost, or dies, it can be replaced in the same way as a normal s
 
 **Manifestation**
 
+**Gained:** At 20th Level
+
+**Flavor:** The shaman becomes a spirit of nature.
+
 **Ability:** Once per day, she can surround herself with an organic cocoon of silk as a **full-round
 action**. While enclosed in the cocoon, she's considered [helpless](ref/misc/helpless). Eight hours
 later, she emerges, having changed her type to plant, animal, or humanoid, and having gained
@@ -158,10 +162,6 @@ is different from her current type.
 
 This effect change doesn't alter her Hit Dice, hit points, saving throws, skill ranks, class skills,
 or proficiencies. The effect is permanent, until the shaman chooses to transform again.
-
-**Flavor:** The shaman becomes a spirit of nature.
-
-**Gained:** At 20th Level
 
 **Special:** Each time the transformation is made, the shaman is cleansed of all poisons or
 diseases, restored to full hit points, and healed of all ability damage.

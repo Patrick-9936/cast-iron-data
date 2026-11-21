@@ -78,14 +78,14 @@ emotion components.
 
 **Project Servitor (Su)**
 
+**Flavor:** You can create projections of the creatures trapped in the Spire of Nex, just as Nex did
+during his siege of Absalom.
+
 **Ability:** You can expend a spell slot to cast [shadow conjuration](ref/spell/shadow-conjuration),
 mimicking a [summon monster](ref/spell/summon-monster) or
 [summon nature's ally](ref/spell/summon-natures-ally) spell of the spell slot's level (or that spell
 slot's level + 1 for 5th- and 6th-level slots). These shadows are 10% real per level of the spell
 slot expended.
-
-**Flavor:** You can create projections of the creatures trapped in the Spire of Nex, just as Nex did
-during his siege of Absalom.
 
 **Special:** If you allow Nex to gain 1 point of influence over you, double the reality percentage
 (to a maximum of 100%; if the result would be greater than 100%, the creature or creatures instead

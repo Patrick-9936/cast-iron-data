@@ -14,9 +14,9 @@ group = "witch-hex"
 
 **Combat Hypnosis (Su)**
 
+**Flavor:** The witch can lull her enemies into a trance, even in the chaos of combat.
+
 **Ability:** This hex functions as [hypnotism](ref/spell/hypnotism), except it can affect only one
 creature at a time, and the target creature does not receive the usual +2 bonus on its saving throw
 while in combat. Whether or not the save is successful, a creature cannot be the target of this hex
 again for 1 day.
-
-**Flavor:** The witch can lull her enemies into a trance, even in the chaos of combat.

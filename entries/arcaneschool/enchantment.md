@@ -19,13 +19,13 @@ The enchanter uses magic to control and manipulate the minds of his victims.
 
 **Enchanting Smile (Su)**
 
-**At 20th Level:** Whenever you succeed at a saving throw against a spell of the enchantment school,
-that spell is reflected back at its caster, as per [spell turning](ref/spell/spell-turning).
-
 **Gained:** At 1st Level
 
 **Passive:** You gain an enhancement bonus on Bluff, Diplomacy, and Intimidate skill checks. This
 bonus is equal to 2 + one-fifth of your wizard level.
+
+**At 20th level,** whenever you succeed at a saving throw against a spell of the enchantment school,
+that spell is reflected back at its caster, as per [spell turning](ref/spell/spell-turning).
 
 **Dazing Touch (Sp)**
 
@@ -101,13 +101,9 @@ by [charm monster](ref/spell/charm-monster) for a number of rounds equal to 1/2 
 
 **Shape Emotions (Su)**
 
-**Action:** Standard Action
-
 **Gained:** At 8th Level
 
-**Usage:** 1 time/day per wizard level
-
-You can emit a 30-foot aura to either ward off or welcome emotional influence.
+**Standard:** You can emit a 30-foot aura to either ward off or welcome emotional influence.
 
 If you choose to ward, you and your allies within this aura receive a +4 morale bonus on saves
 against mind-affecting spells and effects, and any fear effects targeting you or your allies are
@@ -116,3 +112,5 @@ becomes shaken, and [panicked](ref/misc/panicked) becomes frightened).
 
 If you chose to enhance emotional influence, enemies within the aura receive a -2 penalty on saves
 against mind-affecting spells and effects.
+
+**Usage:** 1 time/day per wizard level

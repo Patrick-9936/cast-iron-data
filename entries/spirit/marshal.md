@@ -70,13 +70,13 @@ each time you use _inspiring call._ This ability lasts for 1 round.
 
 **Decisive Strike (Su)**
 
-**Special:** You can use _inspiring call_ as a **move action**.
-
 **Swift:** You can allow the marshal to gain 1 point of influence over you to allow an ally within
 30 feet who can see and hear you to make a single melee or ranged attack during your turn.
 
 You can use this ability as a **standard action** to instead allow the ally to perform any standard
 action.
+
+**Special:** You can use _inspiring call_ as a **move action**.
 
 ### Supreme Spirit Power
 

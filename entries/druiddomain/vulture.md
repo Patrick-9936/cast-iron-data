@@ -29,13 +29,15 @@ that lasts a number of rounds equal to your druid level.
 
 **Usage:** 3 + Wisdom modifier times/day
 
-At 6th level: This bonus increases to +4.
+**At 6th level,** this bonus increases to +4.
 
-At 11th level: This bonus increases to +6.
+**At 11th level,** this bonus increases to +6.
 
-At 16th level: This bonus increases to +8.
+**At 16th level,** this bonus increases to +8.
 
 **Agent of Rebirth (Sp)**
+
+**Gained:** At 8th Level
 
 **Ability:** You may expend a quantity of special oils worth 1,000 gp to cast
 [reincarnate](ref/spell/reincarnate) as a [spell-like ability](ref/umr/spell-like-abilities) usable
@@ -45,8 +47,6 @@ Additionally, when using this ability or casting _[reincarnate](ref/spell/reinca
 prepared spell, you have some influence over the physical form that the reincarnated spirit will
 take. When rolling against the spell's incarnation table, you may roll twice and choose between the
 two results.
-
-**Gained:** At 8th Level
 
 **Domain Spells**
 

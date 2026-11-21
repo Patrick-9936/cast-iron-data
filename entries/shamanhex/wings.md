@@ -21,10 +21,10 @@ Initially, these wings lack the power to allow the shaman to fly, but the shaman
 secondary [natural attack](ref/umr/natural-attacks) that deals 1d3 points of damage (1d2 for a Small
 shaman).
 
-**At 3rd Level:** She can use the wings to safely descend any distance, as if using the
+**At 3rd level,** she can use the wings to safely descend any distance, as if using the
 [feather fall](ref/spell/feather-fall) spell.
 
-**At 7th Level:** She can use the wings to fly with poor maneuverability and a fly speed of 30 feet,
+**At 7th level,** she can use the wings to fly with poor maneuverability and a fly speed of 30 feet,
 but the shaman must land at the end of each turn or fall.
 
 **Special:** A shaman of 8th level or higher can select the wings hex a second time. This doubles

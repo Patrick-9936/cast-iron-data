@@ -47,28 +47,25 @@ A shaman who chooses the Lore spirit can select from the following hexes.
 
 **Arcane Enlightenment (Su)**
 
+**Flavor:** The shaman's native intelligence grants her the ability to tap into arcane lore.
+
 **Ability:** The shaman can add a number of spells from the sorcerer/wizard spell list equal to her
 Charisma modifier (minimum 1) to the list of shaman spells she can prepare. To cast these spells she
 must have an Intelligence score equal to at least 10 + the spell's level, but the saving throw DCs
 of these spells are based on her Wisdom rather than Intelligence. When she casts these spells, they
 are treated as divine rather than arcane.
 
-**Flavor:** The shaman's native intelligence grants her the ability to tap into arcane lore.
-
 **Special:** Each time the shaman gains a level after taking this hex, she can choose to replace one
 of these spells for a new spell on the wizard/sorcerer spell list.
 
 **Benefit of Wisdom (Ex)**
 
+**Flavor:** The shaman relies on wisdom rather than intellect to gain and retain knowledge.
+
 **Ability:** She can use her Wisdom modifier instead of her Intelligence modifier on all
 Intelligence-based skill checks.
 
-**Flavor:** The shaman relies on wisdom rather than intellect to gain and retain knowledge.
-
 **Brain Drain (Su)**
-
-**Special:** This is a mind-affecting effect. Once she successfully affects a creature, she cannot
-use this hex on that creature again for 24 hours.
 
 **Standard:** The shaman violently probes the mind of a single intelligent enemy within 30 feet. The
 target can attempt a Will saving throw to negate the effect. If it succeeds, it immediately knows
@@ -83,13 +80,16 @@ The random stolen thoughts remain in the shaman's mind for a number of rounds eq
 modifier (minimum 1), and she can treat the knowledge gained as if she used
 [detect thoughts](ref/spell/detect-thoughts).
 
+**Special:** This is a mind-affecting effect. Once she successfully affects a creature, she cannot
+use this hex on that creature again for 24 hours.
+
 **Confusion Curse (Ex)**
+
+**Flavor:** The shaman's command of lore can cause weaker minds to become mired in confusion.
 
 **Ability:** The shaman chooses a single intelligent target within 30 feet. That creature must
 succeed at a Will saving throw or become [confused](ref/misc/confused) for a number of rounds equal
 to the shaman's Charisma modifier (minimum 1).
-
-**Flavor:** The shaman's command of lore can cause weaker minds to become mired in confusion.
 
 **Special:** Once affected by this hex, the creature cannot be the target of this hex again for 24
 hours.
@@ -120,15 +120,15 @@ ability.
 
 **Flavor:** The shaman can identify creatures and gain insight into their strengths and weaknesses.
 
-**Special:** Whether or not the check is successful, she also gains a +2 insight bonus for 1 minute
-on attack rolls made against that creature and a +2 insight bonus to her AC against attacks made by
-that creature. These bonuses last for 1 minute.
-
 **Standard:** The shaman can attempt a [Knowledge](ref/skill/knowledge-all) skill check to identify
 a creature and its abilities (using the appropriate skill for the monster's type) with an insight
 bonus equal to her shaman level.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**Special:** Whether or not the check is successful, she also gains a +2 insight bonus for 1 minute
+on attack rolls made against that creature and a +2 insight bonus to her AC against attacks made by
+that creature. These bonuses last for 1 minute.
 
 ### Greater Spirit Ability
 

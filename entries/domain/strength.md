@@ -62,12 +62,12 @@ bonus only applies on Strength checks and Strength-based skill checks.
 
 **Athletic Exploit (Su)**
 
-**Replaces:** The strength surge power of the Strength domain
-
 **Swift:** You gain the ability to overcome physical obstacles with ease. Until the beginning of
 your next turn, you halve your armor check penalty when attempting Acrobatics, Climb, Escape Artist,
 and Swim skill checks, and you gain a bonus equal to 1/2 your cleric level (minimum +1) on such
 skill checks.
+
+**Replaces:** The strength surge power of the Strength domain
 
 **Replacement Domain Spells**
 
@@ -91,9 +91,9 @@ Uskyeria, Xoveron, Zevgavizeb, Zipacna
 **Ability:** Whenever you make a melee attack, you can designate that attack as a _ferocious
 strike._ If the attack hits, it deals additional damage equal to 1/2 your cleric level (minimum +1).
 
-**Replaces:** The strength surge power of the Strength domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The strength surge power of the Strength domain
 
 **Replacement Domain Spells**
 
@@ -113,9 +113,9 @@ strike._ If the attack hits, it deals additional damage equal to 1/2 your cleric
 fists, your unarmed strikes do not provoke attacks of opportunity, deal lethal damage, and gain a
 bonus on damage rolls equal to 1/2 your cleric level (minimum +1).
 
-**Replaces:** The strength surge ability of the Strength domain
-
 **Usage:** 3 + Wisdom modifier rounds/day
+
+**Replaces:** The strength surge ability of the Strength domain
 
 **Replacement Domain Spells**
 
@@ -138,13 +138,13 @@ Uruskreil, Yamatsumi, Zevgavizeb
 
 **Gained:** At 8th Level
 
-**Replaces:** The might of the gods power of the Strength domain
-
 **Standard:** You can bless creatures with the boldness of your deity. You can bestow a number of
 [temporary hit points](ref/rule/temporary-hit-points) equal to your level + your Wisdom modifier to
 all allies within 20 feet. The temporary hit points remain for 1 minute.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The might of the gods power of the Strength domain
 
 **Replacement Domain Spells**
 

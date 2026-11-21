@@ -29,11 +29,11 @@ time the target rolls a d20, he may roll twice and take the more favorable resul
 
 **Good Fortune (Ex)**
 
+**Gained:** At 6th Level
+
 **Immediate:** You can reroll any one d20 roll that you have just made before the results of the
 roll are revealed. You must take the result of the reroll, even if it's worse than the original
 roll.
-
-**Gained:** At 6th Level
 
 **Usage:** 1 time/day per 6 cleric levels
 
@@ -58,13 +58,13 @@ Dachzerul, Desna, Graffiacane, Lao Shu Po, Magdh, Raetorgash, Yabu
 
 **Malign Eye (Su)**
 
-**Replaces:** The bit of luck power of the Luck domain
-
 **Standard:** You can afflict one target within 30 feet with your malign eye, causing it to take a
 -2 penalty on all saving throws against your spells. The effect lasts for 1 minute or until the
 target hits you with an attack.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The bit of luck power of the Luck domain
 
 **Replacement Domain Spells**
 
@@ -83,15 +83,15 @@ Nivi Rhombodazzle, Raetorgash, Shelyn, Shelyn (pre-Earthfall), Sinashakti, Uaran
 
 **Tugging Strands (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can force a creature within line of sight to reroll any one roll that it has just
 made before the result of the roll is revealed. The result of the reroll must be taken, even if it
 is worse than the original roll.
 
-**Gained:** At 8th Level
+**Usage:** 1 time/day + 1 per 6 cleric levels beyond 8th
 
 **Replaces:** The good fortune power of the Luck domain
-
-**Usage:** 1 time/day + 1 per 6 cleric levels beyond 8th
 
 **Replacement Domain Spells**
 
@@ -109,8 +109,6 @@ is worse than the original roll.
 
 **Gained:** At 6th Level
 
-**Replaces:** The good fortune ability of the Luck domain
-
 **Standard:** You can emit a 15-foot-radius haze of daydreams. Creatures within the haze gain the
 [fascinated](ref/misc/fascinated) condition unless they succeed at a Will save (DC equal to 10 + 1/2
 your cleric level + your Wisdom modifier). You may designate a number of creatures equal to your
@@ -118,6 +116,8 @@ cleric level that are not affected by the haze. The fascinated condition ends im
 creatures leave the area or the aura expires.
 
 **Usage:** 1 time/day per cleric level
+
+**Replaces:** The good fortune ability of the Luck domain
 
 **Replacement Domain Spells**
 

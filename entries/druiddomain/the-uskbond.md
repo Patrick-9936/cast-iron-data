@@ -35,28 +35,28 @@ gain a +4 profane bonus on all saving throws versus pain effects during the foll
 
 **Gained:** At 8th Level
 
-**Special:** Each time you activate your _gruesome display,_ you must affect at least one target,
-but you can choose to affect fewer targets than your maximum. Once you've targeted the maximum
-number of creatures granted by level (regardless of whether they successfully save to resist the
-effect or not), you cannot use _gruesome display_ again for the remainder of the day. This is a
-mind-affecting fear effect.
-
 **Standard:** You can alter your appearance in such intense, horrific ways that onlookers become
 [nauseated](ref/misc/nauseated). One creature you select within 30 feet who can see you must succeed
 at a Will save (DC = 10 + 1/2 your druid level + your Wisdom modifier) or be nauseated for a number
 of rounds equal to 1/2 your druid level.
 
-At 10th level: You can now affect 2 creatures.
+**At 10th level,** you can now affect 2 creatures.
 
-At 12th level: You can now affect 3 creatures.
+**At 12th level,** you can now affect 3 creatures.
 
-At 14th level: You can now affect 4 creatures.
+**At 14th level,** you can now affect 4 creatures.
 
-At 16th level: You can now affect 5 creatures.
+**At 16th level,** you can now affect 5 creatures.
 
-At 18th level: You can now affect 6 creatures.
+**At 18th level,** you can now affect 6 creatures.
 
-At 20th level: You can now affect 7 creatures.
+**At 20th level,** you can now affect 7 creatures.
+
+**Special:** Each time you activate your _gruesome display,_ you must affect at least one target,
+but you can choose to affect fewer targets than your maximum. Once you've targeted the maximum
+number of creatures granted by level (regardless of whether they successfully save to resist the
+effect or not), you cannot use _gruesome display_ again for the remainder of the day. This is a
+mind-affecting fear effect.
 
 **Domain Spells**
 

@@ -64,13 +64,13 @@ as a spell-like ability using your cleric level as the caster level.
 
 **Gained:** At 6th Level
 
-**Replaces:** The remote viewing ability of the Knowledge domain
-
 **Standard:** You can become semi-tangible. While in this form, you are immune to critical hits and
 gain a deflection bonus to AC equal to [one-fourth](ref/misc/fractions-and-rounding) of your cleric
 level.
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The remote viewing ability of the Knowledge domain
 
 **Replacement Domain Spells**
 
@@ -99,9 +99,9 @@ special insights that help them overcome similar challenges. Once during the nex
 affected creature can choose to roll twice and take the better result before attempting an attack
 roll, ability check, skill check, or saving throw.
 
-**Replaces:** The remote viewing power of the Knowledge domain
-
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The remote viewing power of the Knowledge domain
 
 **Replacement Domain Spells**
 
@@ -157,13 +157,13 @@ Velgaas, Yog-Sothoth, Yuelral
 
 **Recall (Su)**
 
-**Replaces:** The lore keeper power of the Knowledge domain
-
 **Standard:** With a touch, you can cause a creature to recall some bit of forgotten lore or
 information. The creature can retry any Knowledge skill check it has made within the past minute,
 gaining an insight bonus on the check equal to your Wisdom modifier.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The lore keeper power of the Knowledge domain
 
 **Replacement Domain Spells**
 
@@ -187,8 +187,6 @@ Ulon, Vapula, Velgaas, Yog-Sothoth, Zohls
 
 **Gained:** At 8th Level
 
-**Replaces:** The remote viewing power of the Knowledge domain
-
 **Standard:** You can broaden your mental spectrum to encompass those around you. Doing so allows
 you to read the mind of every creature within 30 feet as if you had cast
 [detect thoughts](ref/spell/detect-thoughts). This ability allows you to read the surface thoughts
@@ -197,6 +195,8 @@ are allowed a Will save to negate the effect. The DC of this Will save is 10 + 1
 level + your Wisdom modifier.
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The remote viewing power of the Knowledge domain
 
 **Replacement Domain Spells**
 

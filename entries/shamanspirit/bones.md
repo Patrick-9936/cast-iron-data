@@ -52,11 +52,11 @@ A shaman who chooses the Bones spirit can select from the following hexes.
 stiffness in the joints and bones, causing the target to be [staggered](ref/misc/staggered) 1 round.
 A successful Fortitude saving throw negates this effect.
 
-**At 16th Level:** The target can no longer attempt a saving throw each round to end the effect,
-although it still attempts the initial Fortitude saving throw to negate the effect entirely.
-
-**At 8th Level:** The duration is increased to a number of rounds equal to her shaman level, though
+**At 8th level,** the duration is increased to a number of rounds equal to her shaman level, though
 the target can attempt a save each round to end the effect if its initial saving throw fails.
+
+**At 16th level,** the target can no longer attempt a saving throw each round to end the effect,
+although it still attempts the initial Fortitude saving throw to negate the effect entirely.
 
 **Bone Ward (Su)**
 
@@ -64,9 +64,9 @@ the target can attempt a save each round to end the effect if its initial saving
 warded creature becomes encircled by a group of flying bones that grant it a +2 deflection bonus to
 AC for a number of rounds equal to the shaman's level.
 
-**At 16th Level:** The bonus increases to +4 and lasts for 1 hour.
+**At 8th level,** the _ward_ increases to +3 and lasts for 1 minute.
 
-**At 8th Level:** The _ward_ increases to +3 and lasts for 1 minute.
+**At 16th level,** the bonus increases to +4 and lasts for 1 hour.
 
 **Special:** Once the _bone ward_ ends, the creature cannot be the target of the hex again for 24
 hours.
@@ -95,9 +95,9 @@ ability, she gains a +1 bonus to her [channel resistance](ref/umr/channel-resist
 **Ability:** With a single shout, the shaman causes one target creature within 30 feet to become
 [shaken](ref/misc/shaken) for 1 round. A successful Will saving throw negates this effect.
 
-**At 16th Level:** She makes it [panicked](ref/misc/panicked) instead.
+**At 8th level,** she makes the target [frightened](ref/misc/frightened) instead.
 
-**At 8th Level:** She makes the target [frightened](ref/misc/frightened) instead.
+**At 16th level,** she makes it [panicked](ref/misc/panicked) instead.
 
 **Special:** This is a mind-affecting fear effect. A creature affected by this hex cannot be
 affected by it again for 24 hours.
@@ -127,15 +127,15 @@ ability.
 
 **Touch of the Grave (Su)**
 
-**At 11th Level:** Any weapon that the shaman wields is treated as an [unholy](ref/magic-enh/unholy)
-weapon.
-
 **Standard:** The shaman can make a melee touch attack infused with negative energy that deals
 damage equal to 1d4 + [half](ref/misc/fractions-and-rounding) of her shaman level.
 
 She can instead touch an undead creature to heal it of the same amount of damage.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 11th level,** any weapon that the shaman wields is treated as an [unholy](ref/magic-enh/unholy)
+weapon.
 
 ### Greater Spirit Ability
 

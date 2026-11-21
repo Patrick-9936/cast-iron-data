@@ -35,11 +35,11 @@ bonus on damage rolls equal to 1/2 your cleric level (minimum +1).
 
 **Bramble Armor (Su)**
 
+**Gained:** At 6th Level
+
 **Free:** You can cause a host of wooden thorns to burst from your skin. While bramble armor is in
 effect, any foe striking you with an unarmed strike or a melee weapon without reach takes an amount
 of piercing damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your cleric level.
-
-**Gained:** At 6th Level
 
 **Usage:** 1 time/day per cleric level
 
@@ -67,8 +67,6 @@ Xhamen-Dor, Zyphus
 
 **Gained:** At 8th Level
 
-**Replaces:** The bramble armor power of the Plant domain
-
 **Standard:** You can emit a 30-foot aura of decay. Living creatures in this aura (except you) take
 1d6 points of damage per round as their flesh rots. They also take a cumulative -1 penalty to
 Strength each round they remain in the aura. Once outside the aura, the penalty fades at the rate of
@@ -76,6 +74,8 @@ Strength each round they remain in the aura. Once outside the aura, the penalty 
 of damage per round.
 
 **Usage:** 1 time/day per cleric level
+
+**Replaces:** The bramble armor power of the Plant domain
 
 **Replacement Domain Spells**
 
@@ -95,12 +95,12 @@ Tamede, The Green Mother, Valani, Vermilion Mother
 
 **Enlarge (Su)**
 
-**Replaces:** The wooden fist power of the Plant domain
-
 **Swift:** You can enlarge yourself for 1 round, as if you were the target of the
 _[enlarge person](ref/spell/enlarge-person)_ spell.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The wooden fist power of the Plant domain
 
 **Replacement Domain Spells**
 
@@ -153,8 +153,6 @@ before the start of your next turn.
 
 **Cruel Thicket (Su)**
 
-**Replaces:** The wooden fist power of the Plant domain
-
 **Standard:** You can cause the ground in a 5-foot-radius [burst](ref/misc/burst) centered on you to
 sprout twisting, thorny vines. Any creature moving through it must travel at half speed or take
 [bleed](ref/rule/bleed) damage equal to half your cleric level; if you activate this ability in an
@@ -164,6 +162,8 @@ the vines crumble to dust. Creatures able to move through natural undergrowth un
 effects of this ability.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The wooden fist power of the Plant domain
 
 **Replacement Domain Spells**
 

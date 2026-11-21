@@ -79,14 +79,14 @@ pg 1, Champions of Purity pg 20
 
 **Gained:** At 4th Level
 
-**Replaces:** The serpent companion ability of the Scalykind domain
-
 **Standard:** You can use a breath weapon once per day. When you gain this ability, choose what kind
 of damage your breath weapon deals: acid, cold, electricity, or fire. Once you make this choice, you
 can't change it later. Your breath weapon fills a 15-foot cone and deals **X**d6 points of damage,
 where **X** is equal to 1 + [one-half](ref/misc/fractions-and-rounding) your cleric level. A
 creature hit by your dragonbreath attack can attempt a Reflex save (DC = 10 + half your class
 level + your Wisdom modifier) to take half damage.
+
+**Replaces:** The serpent companion ability of the Scalykind domain
 
 **Replacement Domain Spells**
 
@@ -132,13 +132,13 @@ Vorasha, Yig
 
 **Venomous Saliva (Su)**
 
-**Replaces:** The venomous stare power of the Scalykind domain
-
 **Swift:** Just as certain serpents can spray poison from their fangs, you can spit a gout of
 life-stealing venom onto a weapon you are wielding. The poison (see below) lasts for 1 minute or
 until you make an attack with that weapon that injures a foe.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The venomous stare power of the Scalykind domain
 
 **Life-Stealing Venom**
 

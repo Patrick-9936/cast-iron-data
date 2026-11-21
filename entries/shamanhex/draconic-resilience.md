@@ -18,7 +18,7 @@ group = "shaman-hex"
 dragons, causing the creature to be immune to magical sleep effects for a number of rounds equal to
 the shaman's level.
 
-**At 7th Level:** The creature is also immune to paralysis for this duration.
+**At 7th level,** the creature is also immune to paralysis for this duration.
 
 **Special:** Once a creature has benefited from the draconic resilience hex, it cannot benefit from
 this hex again for 24 hours.

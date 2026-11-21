@@ -71,20 +71,20 @@ target of this hex again for 24 hours.
 of the shaman's next turn. Whenever the creature is attacked with a melee or ranged weapon
 constructed primarily of metal, it takes a -2 penalty to AC.
 
-**At 16th Level:** The penalty increases to -6 and lasts for three rounds
+**At 8th level,** the penalty becomes -4 and it lasts for two rounds.
 
-**At 8th Level:** The penalty becomes -4 and it lasts for two rounds.
+**At 16th level,** the penalty increases to -6 and lasts for three rounds
 
 **Special:** Once affected, the creature cannot be the target of this hex again for 24 hours.
 
 **Stone Stability (Ex)**
 
-**At 10th Level:** The shaman receives [Greater Trip](ref/feat/greater-trip) as a bonus feat.
-
-**At 5th Level:** The shaman receives [Improved Trip](ref/feat/improved-trip) as a bonus feat.
-
 **Passive:** The shaman receives a +4 bonus to her CMD when resisting bull rush or trip attempts as
 long as she is standing on the ground.
+
+**At 5th level,** the shaman receives [Improved Trip](ref/feat/improved-trip) as a bonus feat.
+
+**At 10th level,** the shaman receives [Greater Trip](ref/feat/greater-trip) as a bonus feat.
 
 **Special:** The shaman does not need to meet the prerequisites of these feats.
 
@@ -94,9 +94,9 @@ long as she is standing on the ground.
 The next time the warded creature is struck with a melee attack, it is treated as if it has DR
 5/adamantine. This _ward_ lasts for 1 minute, after which it fades away if not already expended.
 
-**At 16th Level:** The _ward_ now lasts through three attacks.
+**At 8th level,** the _ward_ persists through two attacks.
 
-**At 8th Level:** The _ward_ persists through two attacks.
+**At 16th level,** the _ward_ now lasts through three attacks.
 
 **Special:** A creature affected by this hex cannot be affected by it again for 24 hours.
 
@@ -116,13 +116,13 @@ ability.
 
 **Touch of Acid (Su)**
 
-**At 11th Level:** Any weapon she wields is treated as a [corrosive](ref/magic-enh/corrosive)
-weapon.
-
 **Standard:** The shaman can make a melee touch attack that deals an amount of acid damage equal to
 1d6 + [half](ref/misc/fractions-and-rounding) her shaman level.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 11th level,** any weapon she wields is treated as a [corrosive](ref/magic-enh/corrosive)
+weapon.
 
 ### Greater Spirit Ability
 
@@ -149,8 +149,6 @@ ability upon having access to the true version of that spirit.
 
 **Standard:** The shaman assumes the form of a Huge (or smaller) earth elemental, as
 [elemental body IV](ref/spell/elemental-body-4) with a duration of 1 hour per level.
-
-**Usage:** Once per day
 
 **Usage:** Once per day
 

@@ -79,11 +79,11 @@ creature. The profane bonus is equal to 1 + [one-fifth](ref/misc/fractions-and-r
 cleric level. This effect lasts for a number of minutes equal to 1/2 your cleric level or until you
 use this ability against a different creature.
 
-**Provokes attack of opportunity:** Yes
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replaces:** The touch of evil ability of the Evil domain
 
-**Usage:** 3 + Wisdom modifier times/day
+**Provokes attack of opportunity:** Yes
 
 **Replacement Domain Spells**
 
@@ -102,6 +102,8 @@ Velgaas, Zipacna
 
 **Spark Malfeasance (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can awaken the sinful desires of a target within 30 feet with a ranged touch
 attack. The target suffers extreme guilt and is [sickened](ref/misc/sickened) for a number of rounds
 equal to 1/2 your cleric level. To end the effect earlier, the target can willingly commit an evil
@@ -109,11 +111,9 @@ act (if it is of good alignment) or attempt a Will save (DC = 10 + 1/2 your cler
 Wisdom modifier) at the beginning of its turn each round. Creatures that succeed at their saving
 throws are immune to this ability for 24 hours.
 
-**Gained:** At 8th Level
+**Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
 
 **Replaces:** The scythe of evil ability of the Evil domain
-
-**Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
 
 **Replacement Domain Spells**
 
@@ -137,13 +137,13 @@ Ulon, Urgathoa, Venkelvore, Vorasha, Xsistaid, Zaigasnar, Zarongel, Zelishkar, Z
 
 **Gained:** At 8th Level
 
-**Replaces:** The scythe of evil power of the Evil domain
-
 **Standard:** You can whisper a hypnotizing litany of empty promises. Each enemy within a 30-foot
 [emanation](ref/misc/emanation) that can hear you must succeed on a Will saving throw or become
 [fascinated](ref/misc/fascinated) for as long as you continue the litany.
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The scythe of evil power of the Evil domain
 
 **Replacement Domain Spells**
 
@@ -169,9 +169,9 @@ save (DC = 10 + 1/2 your cleric level + your Wisdom modifier) or be unable to ca
 for 1 round. If you do not damage your target with the attack, this ability is expended with no
 effect.
 
-**Replaces:** The touch of evil ability of the Evil domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of evil ability of the Evil domain
 
 **Replacement Domain Spells**
 
@@ -197,13 +197,13 @@ Ydersius, Yhidothrus, Zagresh, Zevgavizeb, Zogmugot, Zura
 
 **Fury of the Abyss (Su)**
 
-**Replaces:** The touch of evil power of the Evil domain
-
 **Swift:** You can give yourself an enhancement bonus equal to 1/2 your cleric level (minimum +1) on
 melee attacks, melee damage rolls, and combat maneuver checks. This bonus lasts for 1 round. During
 this round, you take a -2 penalty to AC.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of evil power of the Evil domain
 
 **Replacement Domain Spells**
 
@@ -236,9 +236,9 @@ attack. Creatures touched take a -2 penalty on all saving throws and must roll a
 checks twice, taking the worse result. This effect lasts for a number of rounds equal to 1/2 your
 cleric level (minimum 1).
 
-**Replaces:** The touch of evil power of the Evil domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of evil power of the Evil domain
 
 **Replacement Domain Spells**
 
@@ -269,9 +269,9 @@ a fear effect, you can deal 2d6 extra points of damage and gain an equal amount 
 [temporary hit points](ref/rule/temporary-hit-points). These temporary hit points last for 24 hours
 or until lost.
 
-**Replaces:** The scythe of evil power of the Evil domain
-
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The scythe of evil power of the Evil domain
 
 **Replacement Domain Spells**
 
@@ -298,9 +298,9 @@ or until lost.
 [blessing of fervor](ref/spell/blessing-of-fervor) spell for a number of rounds equal to 1/2 your
 cleric level. If you fail, this ability is expended with no effect.
 
-**Replaces:** The scythe of evil ability of the Evil domain
-
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The scythe of evil ability of the Evil domain
 
 **Replacement Domain Spells**
 
@@ -322,14 +322,14 @@ cleric level. If you fail, this ability is expended with no effect.
 
 **Touch of Virulence (Su)**
 
-**Replaces:** The touch of evil power of the Evil domain
-
 **Standard:** You can touch a diseased creature and exacerbate its condition. If it fails a
 Fortitude save (DC = 10 + 1/2 your cleric level + your Wisdom modifier), the creature takes damage
 as though it had failed its Fortitude save against the disease and any remaining onset time for the
 disease ends.
 
 **Usage:** 1 time/day + 1 per 6 cleric levels beyond 8th
+
+**Replaces:** The touch of evil power of the Evil domain
 
 **Replacement Domain Spells**
 
@@ -358,9 +358,9 @@ them using teamwork feats, or give or receive benefits from the [aid another](re
 action or any spells or effect that affects only allies. This ability lasts for a number of rounds
 equal to 1/2 your cleric level (minimum 1).
 
-**Replaces:** The touch of evil power of the Evil domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of evil power of the Evil domain
 
 **Replacement Domain Spells**
 

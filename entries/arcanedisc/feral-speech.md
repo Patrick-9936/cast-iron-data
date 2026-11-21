@@ -20,6 +20,6 @@ must decide to communicate with either amphibians, birds, fish, mammals, or rept
 speak to and understand animals of that type. You can make yourself understood as far as your voice
 carries. This discovery does not predispose any animal addressed toward you in any way.
 
-**At 12th Level:** You can also use this ability to communicate with vermin.
+**At 12th level,** you can also use this ability to communicate with vermin.
 
 **Prereq:** 5th-level wizard

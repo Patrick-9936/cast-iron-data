@@ -22,7 +22,7 @@ The effect lasts for 1 round, but the witch can extend this effect for 1 additio
 total number of rounds equal to her class level) by taking a **standard action** to continue her
 enthralling movements.
 
-**At 8th Level:** The _fascination_ effect lasts for 2 additional rounds after the witch ceases
+**At 8th level,** the _fascination_ effect lasts for 2 additional rounds after the witch ceases
 taking a standard action to maintain it.
 
 **Special:** Whether or not the target succeeds at its save, it cannot be the target of this ability

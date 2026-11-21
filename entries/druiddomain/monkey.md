@@ -37,12 +37,12 @@ powers of your familiar.
 
 **Ranged Legerdemain (Su)**
 
+**Gained:** At 6th Level
+
 **Ability:** You can use the Disable Device and Sleight of Hand skills at a range of 30 feet.
 Working at a distance increases the normal skill check DC by 5, and you cannot take 10 on this
 check. Any object to be manipulated must weigh 5 pounds or less. You can only use this ability if
 you have at least 1 rank in the skill being used.
-
-**Gained:** At 6th Level
 
 **Domain Spells**
 

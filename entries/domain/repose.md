@@ -66,13 +66,13 @@ Pharasma, Ragadahn, Rhan-Tegoth, Selket, Shizuru, The Lost Prince, Tsukiyo, Yhid
 
 **Gained:** At 8th Level
 
-**Replaces:** The ward against death power of the Repose domain
-
 **Standard:** You can ask one question of a dead creature as if using
 [speak with dead](ref/spell/speak-with-dead). The dead creature you are questioning does not gain a
 Will saving throw if your alignments are different.
 
 **Usage:** 1 time/day per cleric level
+
+**Replaces:** The ward against death power of the Repose domain
 
 **Replacement Domain Spells**
 
@@ -94,12 +94,12 @@ Will saving throw if your alignments are different.
 
 **Gained:** At 6th Level
 
-**Replaces:** The ward against death ability of the Repose domain
-
 **Swift:** You can give your natural weapons or any weapons you wield the
 [ghost touch](ref/magic-enh/ghost-touch-weapon) weapon special ability.
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The ward against death ability of the Repose domain
 
 **Replacement Domain Spells**
 
@@ -118,13 +118,13 @@ Fharaas, Fumeiyoshi, Lorcan, Magrim, Naderi, Osiris, Ozranvial, Pharasma, Selket
 
 **Touch the Spirit World (Su)**
 
-**Replaces:** The gentle rest power of the Repose domain
-
 **Standard:** With a touch, you can empower a weapon to affect incorporeal creatures. The weapon
 touched deals half damage to incorporeal creatures, or full damage if it is a magic weapon. This
 benefit lasts for a number of rounds equal to your cleric level.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The gentle rest power of the Repose domain
 
 **Replacement Domain Spells**
 

@@ -19,10 +19,10 @@ to her level, as [alter self](ref/spell/alter-self). This duration does not need
 but must be spent in 1-minute increments. Changing form (including changing back) is a **standard
 action** that doesn't provoke an attack of opportunity.
 
-**At 12th Level:** This ability works as [beast shape II](ref/spell/beast-shape-2).
+**At 8th level,** this ability works as [beast shape I](ref/spell/beast-shape-1).
 
-**At 16th Level:** This ability works as [beast shape III](ref/spell/beast-shape-3).
+**At 12th level,** this ability works as [beast shape II](ref/spell/beast-shape-2).
 
-**At 20th Level:** This ability works as [beast shape IV](ref/spell/beast-shape-4).
+**At 16th level,** this ability works as [beast shape III](ref/spell/beast-shape-3).
 
-**At 8th Level:** This ability works as [beast shape I](ref/spell/beast-shape-1).
+**At 20th level,** this ability works as [beast shape IV](ref/spell/beast-shape-4).

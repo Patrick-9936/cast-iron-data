@@ -65,8 +65,6 @@ Mother, Torag, Xoveron, Yamasoth, Yamatsumi, Yuelral
 
 **Gained:** At 8th Level
 
-**Replaces:** The acid resistance power of the Earth domain
-
 **Standard:** You can choose to move through tunnels and caves with ease. While this ability is
 active, you can move across any stone surface as if under the effects of
 [spider climb](ref/spell/spider-climb). You can also see very well in darkness, gaining
@@ -77,6 +75,8 @@ checks.
 
 **Usage:** 1 minute/day per cleric level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
+
+**Replaces:** The acid resistance power of the Earth domain
 
 **Replacement Domain Spells**
 
@@ -96,8 +96,6 @@ Wylgart
 
 **Metal Fist (Su)**
 
-**Replaces:** The acid dart power of the Earth domain
-
 **Swift:** You can turn your fists into metal for 1 round, allowing you to make unarmed strikes that
 deal 1d6 points of bludgeoning damage plus your Strength modifier. These unarmed strikes do not
 provoke attacks of opportunity, but attacking with both uses the two-weapon fighting rules as
@@ -105,6 +103,8 @@ normal. In addition, these unarmed strikes ignore the [hardness](ref/umr/hardnes
 hardness of 10 or less.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The acid dart power of the Earth domain
 
 **Replacement Domain Spells**
 
@@ -125,8 +125,6 @@ hardness of 10 or less.
 
 **Fossil Form (Su)**
 
-**Replaces:** The acid dart power of the Earth domain
-
 **Swift:** At the beginning of your turn, you can infuse your flesh with minerals, granting you
 cumbersome security. Until the beginning of your next turn, you are [staggered](ref/misc/staggered),
 gain [hardness](ref/umr/hardness) 2, and gain a +2 bonus on saving throws against petrification.
@@ -134,6 +132,8 @@ This hardness increases by 2 and your saving throw bonus increases by 1 for ever
 you have.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The acid dart power of the Earth domain
 
 **Replacement Domain Spells**
 
@@ -156,10 +156,6 @@ can take this subdomain.
 
 **Radiating Touch (Su)**
 
-**Provokes attack of opportunity:** Yes
-
-**Replaces:** The acid dart power of the Earth domain
-
 **Standard:** You can irradiate any unattended object for a number of rounds equal to your cleric
 level. While an object is irradiated, it emits a faint aura of transmutation. Any creature that
 passes within 5 feet of the aura must succeed at a Will save (DC equal to 10 + 1/2 your cleric
@@ -167,6 +163,10 @@ level + your Wisdom modifier) or become [sickened](ref/misc/sickened). You're im
 object's effect.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The acid dart power of the Earth domain
+
+**Provokes attack of opportunity:** Yes
 
 **Replacement Domain Spells**
 

@@ -35,14 +35,14 @@ This ability cannot be used to perform a combat maneuver.
 
 **Metamagic Mastery (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can apply any one metamagic feat that you know to a spell you are about to cast.
 This does not alter the level of the spell or the casting time. Any time you use this ability to
 apply a metamagic feat that increases the spell level by more than 1, you must use an additional
 daily usage for each level above 1 that the feat adds to the spell. Even though this ability does
 not modify the spell's actual level, you cannot use this ability to cast a spell whose modified
 spell level would be above the level of the highest-level spell that you are capable of casting.
-
-**Gained:** At 8th Level
 
 **Usage:** 1 time/day + 1 per 2 wizard levels beyond 8th
 

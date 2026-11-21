@@ -48,12 +48,6 @@ if it has fewer Hit Dice than your wizard level.
 
 **Life Sight (Su)**
 
-**At 12th Level:** The range increases to 20 feet.
-
-**At 16th Level:** The range increases to 30 feet.
-
-**At 20th Level:** The range increases to 40 feet.
-
 **Gained:** At 8th Level
 
 **Passive:** You gain [blindsight](ref/umr/blindsight) to a range of 10 feet for a number of rounds
@@ -62,6 +56,12 @@ undead creatures. This sight also tells you whether a creature is living or unde
 other creatures that are neither living nor undead cannot be seen with this ability.
 
 **Usage:** 1 time/day per wizard level
+
+**At 12th level,** the range increases to 20 feet.
+
+**At 16th level,** the range increases to 30 feet.
+
+**At 20th level,** the range increases to 40 feet.
 
 ### Life School
 
@@ -73,6 +73,8 @@ touch_ powers of the necromancy school.
 
 **Healing Grace (Su)**
 
+**Gained:** At 1st Level
+
 **Ability:** Whenever you cast a spell that has targets, affects creatures in an area, or requires
 an attack roll, you may heal creatures affected by the spell a total of 1 point of damage per level
 of the spell. This healing may be spread out between the targets of the spell in any way you choose.
@@ -80,13 +82,11 @@ This healing occurs when the spell is cast and has no effect on creatures that e
 the spell is in place. If you assign any of the healing to an undead creature, it instead takes 1
 point of damage for each point assigned.
 
-**At 11th Level:** The amount of damage cured increases to 2 points of damage per level of the
+**At 11th level,** the amount of damage cured increases to 2 points of damage per level of the
 spell.
 
-**At 20th Level:** The amount of damage cured increases to 3 points of damage per level of the
+**At 20th level,** the amount of damage cured increases to 3 points of damage per level of the
 spell.
-
-**Gained:** At 1st Level
 
 **Share Essence (Sp)**
 

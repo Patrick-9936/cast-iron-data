@@ -44,16 +44,16 @@ elemental school as normal. He does not need to select a second opposition schoo
 
 **Void Awareness (Su)**
 
-**At 20th Level:** Whenever you would be affected by a spell or
-[spell-like ability](ref/umr/spell-like-abilities) that allows a saving throw, you can roll twice to
-save against the effect and take the better result.
-
 **Gained:** At 1st Level
 
 **Passive:** Your ability to recognize the void allows your body to react to magical manifestations
 before you're even aware of them. You gain an insight bonus on saving throws against spells and
 [spell-like abilities](ref/umr/spell-like-abilities). This bonus is equal to 2 + one-fifth of your
 wizard level.
+
+**At 20th level,** whenever you would be affected by a spell or
+[spell-like ability](ref/umr/spell-like-abilities) that allows a saving throw, you can roll twice to
+save against the effect and take the better result.
 
 **Reveal Weakness (Su)**
 

@@ -42,13 +42,10 @@ it.
 can bring other willing creatures with you, but you must expend an equal amount of distance for each
 creature brought.
 
+**Usage:** You can travel up to 10 feet per cleric level per day. This teleportation must be used in
+5-foot increments.
+
 **Provokes attack of opportunity:** No
-
-**Usage:** You can travel up to 10 feet per cleric level per day. This teleportation must be used in
-5-foot increments.
-
-**Usage:** You can travel up to 10 feet per cleric level per day. This teleportation must be used in
-5-foot increments.
 
 **Domain Spells**
 
@@ -79,9 +76,9 @@ time you must be touching the surface you want to see through. You can keep look
 10 minutes with each use of this power, but must touch the surface and take no other action the
 entire time. The surface cannot be thicker than 6 inches plus 1 inch per cleric level you possess.
 
-**Replaces:** The agile feet power of the Travel domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The agile feet power of the Travel domain
 
 **Replacement Domain Spells**
 
@@ -102,8 +99,6 @@ entire time. The surface cannot be thicker than 6 inches plus 1 inch per cleric 
 
 **Sacred Threshold (Su)**
 
-**Replaces:** The base speed increase power of the Travel domain
-
 **Standard:** You can bless a door, a window, or another portal with a touch. For 1 minute, you can
 increase or decrease the DC of any check to unlock or force open the portal by an amount equal to
 half your cleric level. In addition, your first ally to pass through the portal during this time
@@ -111,6 +106,8 @@ gains an amount of [temporary hit points](ref/rule/temporary-hit-points) equal t
 2 cleric levels you have. These temporary hit points last for 1 minute.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The base speed increase power of the Travel domain
 
 **Travel as One (Su)**
 
@@ -145,9 +142,9 @@ Matravash, Ng, Pharimia, Ptah, Rowdrosh, Wadjet
 **Free:** Whenever you make a Bluff, Diplomacy, or Sense Motive check, you can grant yourself a
 bonus on the roll equal to 1/2 your cleric level (minimum +1).
 
-**Replaces:** The agile feet power of the Travel domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The agile feet power of the Travel domain
 
 **Replacement Domain Spells**
 

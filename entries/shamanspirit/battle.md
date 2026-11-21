@@ -51,11 +51,11 @@ A shaman who chooses the Battle spirit can select from the following hexes.
 **Ability:** The shaman makes an extra attack of opportunity each round. This ability stacks with
 the attacks of opportunity granted by the [Combat Reflexes](ref/feat/combat-reflexes) feat.
 
-**At 16th Level:** The shaman gains the [Greater Weapon Focus](ref/feat/greater-weapon-focus) feat
-as a bonus feat, for the same weapon chosen for Weapon Specialization.
-
-**At 8th Level:** The shaman gains the [Weapon Specialization](ref/feat/weapon-specialization) feat
+**At 8th level,** the shaman gains the [Weapon Specialization](ref/feat/weapon-specialization) feat
 in a weapon of her choice as a bonus feat.
+
+**At 16th level,** the shaman gains the [Greater Weapon Focus](ref/feat/greater-weapon-focus) feat
+as a bonus feat, for the same weapon chosen for Weapon Specialization.
 
 **Special:** The shaman doesn't need to meet the prerequisites of these feats.
 
@@ -67,11 +67,11 @@ deflection bonus to the warded creature's AC. Each subsequent time she's attacke
 bonus reduces by 1 (to +2 for the second time she's attacked and +1 for the third). The ward fades
 when the bonus is reduced to +0 or after 24 hours, whichever comes first.
 
+**At 8th level,** the starting bonus increases to +4.
+
+**At 16th level,** the starting bonus increases to +5.
+
 **Special:** A creature affected by this hex cannot be affected by it again for 24 hours.
-
-At 8th level: The starting bonus increases to +4.
-
-At 16th level: The starting bonus increases to +5.
 
 **Curse of Suffering (Su)**
 
@@ -105,7 +105,7 @@ turn.
 number of rounds equal to the shaman's level. A successful Will saving throw reduces this to just 1
 round.
 
-**At 8th Level:** The penalty becomes -4.
+**At 8th level,** the penalty becomes -4.
 
 **Special:** Whether or not the save is successful, a creature affected by a _hampering hex_ cannot
 be the target of this hex again for 24 hours.

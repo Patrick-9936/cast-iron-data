@@ -25,6 +25,8 @@ group = "druid-domain"
 
 **Pack Tactics (Ex)**
 
+**Gained:** At 8th Level
+
 **Free:** On your turn, you can designate an adjacent square; your attacks are treated as coming
 from that square for the purposes of determining whether or not you are
 [flanking](ref/rule/flanking) (this applies even if that square is occupied by an object or
@@ -32,8 +34,6 @@ creature). This ends at the start of your next turn or if you move.
 
 If you are flanking a creature without using this ability, you may add your Wisdom bonus to your
 attack roll rather than the normal +2 flanking bonus.
-
-**Gained:** At 8th Level
 
 **Usage:** 3 + Wisdom modifier times/day
 

@@ -65,14 +65,14 @@ functions as _[call lightning](ref/spell/call-lightning)._
 
 **Gained:** At 8th Level
 
-**Replaces:** The lightning lord ability of the Weather domain
-
 **Standard:** You can call a brief shower of rain in a 30-foot radius. Creatures in the area are
 healed of an amount of nonlethal damage equal to double your cleric level and are no longer
 [exhausted](ref/misc/exhausted), [fatigued](ref/misc/fatigued), [nauseated](ref/misc/nauseated), or
 [sickened](ref/misc/sickened).
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The lightning lord ability of the Weather domain
 
 **Replacement Domain Spells**
 
@@ -93,12 +93,12 @@ Psomeira, Pulura, Rasvocel, Trelmarixian, Valani, Vois
 
 **Untouched by the Seasons (Su)**
 
-**Replaces:** The storm burst power of the Weather domain
-
 **Standard:** By touching a creature, you can grant it the benefits of
 [endure elements](ref/spell/endure-elements), which last for 1 hour per cleric level.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The storm burst power of the Weather domain
 
 **Replacement Domain Spells**
 
@@ -119,14 +119,14 @@ Rasvocel, Roqorolos, Rovagug, Rull, Set, Sithhud, Tolc, Urxehl, Valani, Vois, Ya
 
 **Gained:** At 6th Level
 
-**Replaces:** The lightning lord power of the Weather domain
-
 **Standard:** You can create a 30-foot aura of gale-like winds that slows the progress of enemies.
 Creatures in the aura cannot take a 5-foot step. Enemies in the aura treat each square that brings
 them closer to you as [difficult terrain](ref/rule/terrain-and-obstacles). They can move normally in
 any other direction.
 
 **Usage:** 1 time/day per cleric level
+
+**Replaces:** The lightning lord power of the Weather domain
 
 **Replacement Domain Spells**
 

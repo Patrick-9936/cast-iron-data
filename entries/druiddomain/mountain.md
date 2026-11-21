@@ -33,19 +33,19 @@ CMD due to poor footing. A foothold that is created on a vertical surface grants
 
 **Thin Air (Su)**
 
+**Gained:** At 8th Level
+
 **Free:** You can surround yourself with a 5-foot aura of supernaturally thin air that draws the
 breath from creatures adjacent to you. Creatures beginning their turn in the aura are
 [fatigued](ref/misc/fatigued) (Fortitude negates). A fatigued creature that begins its turn in the
 aura must save or suffer from [altitude sickness](ref/rule/mountain-travel), taking 1 point of
 ability damage to all ability scores.
 
-**At 16th Level:** The aura increases to 10 feet.
+**Usage:** 1 time/day per druid level
 
-**Gained:** At 8th Level
+**At 16th level,** the aura increases to 10 feet.
 
 **Special:** Creatures that do not breathe are immune to this aura.
-
-**Usage:** 1 time/day per druid level
 
 **Domain Spells**
 

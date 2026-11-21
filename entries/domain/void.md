@@ -48,22 +48,20 @@ other worlds, or summon monsters from beyond to do your bidding.
 
 **Part the Veil (Su)**
 
-**Action:** Swift Action
+**Gained:** At 8th Level
 
 **Flavor:** You can lace spells you cast with the raw madness that waits in the outer darkness.
 
-**Gained:** At 8th Level
-
-**Usage:** 1 time/day per 2 cleric levels
-
-Activating this ability must be done as you cast a spell that targets a single creature and that
-allows a Will saving throw to negate or reduce the spell's primary effect. If the target fails to
-resist the spell, the target is also [confused](ref/misc/confused) for a number of rounds equal to
-the spell's level as visions of the void cause temporary insanity.
+**Swift:** Activating this ability must be done as you cast a spell that targets a single creature
+and that allows a Will saving throw to negate or reduce the spell's primary effect. If the target
+fails to resist the spell, the target is also [confused](ref/misc/confused) for a number of rounds
+equal to the spell's level as visions of the void cause temporary insanity.
 
 The victim must succeed at a new saving throw each round to end the effect; these additional saving
 throws apply only to the additional confusion effect and not to the original spell effect. Part the
 veil is a mind-affecting effect.
+
+**Usage:** 1 time/day per 2 cleric levels
 
 **Domain Spells**
 
@@ -115,8 +113,6 @@ Nocticula (Redeemed), Roqorolos, Shawnari, Uaransaph
 
 **Aura of Isolation (Su)**
 
-**Replaces:** The part the veil power of the Void domain
-
 **Standard:** You can create a 20-foot aura that causes enemies within to be overcome with feelings
 of isolation and loss. Your enemies treat the aura as
 [difficult terrain](ref/rule/terrain-and-obstacles), as they become sluggish within its area of
@@ -125,6 +121,8 @@ another, nor can they use or benefit from the [aid another](ref/rule/aid-another
 a mind-affecting emotion effect.
 
 **Usage:** 3 + Wisdom modifier rounds/day
+
+**Replaces:** The part the veil power of the Void domain
 
 **Replacement Domain Spells**
 

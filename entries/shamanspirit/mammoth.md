@@ -68,11 +68,11 @@ target of this hex again for 24 hours.
 shaggy fur. The creature gains a +2 enhancement bonus to natural armor and cold
 [resistance](ref/umr/resistance) 5 for 10 minutes.
 
-**At 15th Level:** This enhancement bonus increases to +4 and the cold resistance to 15.
-
-**At 9th Level:** The enhancement bonus increases to +3 and the cold resistance to 10.
-
 **Usage:** 3 + Charisma modifier times/day
+
+**At 9th level,** the enhancement bonus increases to +3 and the cold resistance to 10.
+
+**At 15th level,** this enhancement bonus increases to +4 and the cold resistance to 15.
 
 **Phantom Stampede (Su)**
 
@@ -93,23 +93,23 @@ hours.
 megafauna or [elephant](ref/monster/elephant) creatures as if she were under the effects of
 [speak with animals](ref/spell/speak-with-animals).
 
-**At 10th Level:** The shaman can affect one such animal within 30 feet as if she'd cast
+**At 5th level,** the shaman gains a bonus on [Handle Animal](ref/skill/handle-animal) checks when
+dealing with those animals equal to [half](ref/misc/fractions-and-rounding) her shaman level.
+
+**At 10th level,** the shaman can affect one such animal within 30 feet as if she'd cast
 [charm animal](ref/spell/charm-animal) (Will negates). Whether or not the target succeeds at the
 saving throw, it can't be the target of this hex again for 24 hours.
-
-**At 5th Level:** The shaman gains a bonus on [Handle Animal](ref/skill/handle-animal) checks when
-dealing with those animals equal to [half](ref/misc/fractions-and-rounding) her shaman level.
 
 **Thunder Foot (Ex)**
 
 **Flavor:** The shaman's body thickens and becomes more muscular.
 
-**At 11th Level:** The shaman gains [Greater Overrun](ref/feat/greater-overrun) as a bonus feat.
-
-**At 7th Level:** The shaman gains [Improved Overrun](ref/feat/improved-overrun) as a bonus feat.
-
 **Passive:** For the purpose of the overrun combat maneuver, she treats her shaman level as her base
 attack bonus when calculating her CMB and CMD.
+
+**At 7th level,** the shaman gains [Improved Overrun](ref/feat/improved-overrun) as a bonus feat.
+
+**At 11th level,** the shaman gains [Greater Overrun](ref/feat/greater-overrun) as a bonus feat.
 
 **Special:** The shaman doesn't need to meet the prerequisites of these feats.
 
@@ -117,11 +117,11 @@ attack bonus when calculating her CMB and CMD.
 
 **Spirit Animal**
 
-**Ability:** It gains a +2 inherent bonus to its Strength score. The spirit animal loses this bonus
-when it manifests as a megafauna companion from the _true spirit_ ability.
-
 **Flavor:** The shaman's spirit animal appears more primal and prehistoric than an ordinary animal
 of its kind.
+
+**Ability:** It gains a +2 inherent bonus to its Strength score. The spirit animal loses this bonus
+when it manifests as a megafauna companion from the _true spirit_ ability.
 
 ### Spirit Ability
 
@@ -144,13 +144,13 @@ ability upon having access to the greater version of that spirit.
 
 **Strength of the Beast (Ex)**
 
-**At 14th Level:** If this is her _spirit,_ this improves to +4.
-
-**At 18th Level:** If this is her _wandering spirit,_ this improves to +4.
-
-**At 20th Level:** If this is her _spirit,_ this bonus increases to +6.
-
 **Passive:** The shaman gains a +2 enhancement bonus to her Strength score.
+
+**At 14th level,** if this is her _spirit,_ this improves to +4.
+
+**At 18th level,** if this is her _wandering spirit,_ this improves to +4.
+
+**At 20th level,** if this is her _spirit,_ this bonus increases to +6.
 
 ### True Spirit Ability
 
@@ -178,8 +178,8 @@ as a normal spirit animal.
 
 **Manifestation**
 
+**Gained:** At 20th Level
+
 **Ability:** The shaman can transform into any animal listed under the megafauna or elephant
 heading. This ability works as per [beast shape IV](ref/spell/beast-shape-4), but the shaman can
 activate and dismiss the ability as often as she likes and the duration is permanent.
-
-**Gained:** At 20th Level

@@ -70,9 +70,9 @@ maximum spell level you can infuse in this way is equal to 1 +
 [one-fourth](ref/misc/fractions-and-rounding) of your cleric level. These potions are treated as
 [alchemist](ref/class/alchemist) extracts for the purpose of your domain spells.
 
-**Replaces:** The hand of the acolyte power of the Magic domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The hand of the acolyte power of the Magic domain
 
 **Replacement Domain Spells**
 
@@ -92,14 +92,14 @@ Nyarlathotep (Haunter of the Dark), Shiggarreb, Shyka, Thoth, Tsathoggua, Yuelra
 
 **Arcane Beacon (Su)**
 
-**Replaces:** The hand of the acolyte power of the Magic domain
-
 **Standard:** You can become a beacon of arcane energy until the end of your next turn. The aura
 emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their
 caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts
 the spell.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The hand of the acolyte power of the Magic domain
 
 **Replacement Domain Spells**
 
@@ -119,13 +119,13 @@ Dark), Orcus, Qi Zhong, Sezelrian, Shyka, Skrymir, Tsathoggua, Urgathoa, Yuelral
 
 **Divine Vessel (Su)**
 
-**Replaces:** The hand of the acolyte power of the Magic domain
-
 **Swift:** Whenever you are the target of a divine spell, you can grant each ally within 15 feet of
 you a divine boon. This boon grants a +2 bonus on the next attack roll, skill check, or ability
 check made before the end of their next turn.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The hand of the acolyte power of the Magic domain
 
 **Replacement Domain Spells**
 
@@ -153,17 +153,17 @@ components by 20%.
 
 **Enduring Ritual (Su)**
 
-**At 10th Level:** The effective caster level increases by 2.
-
-**At 20th Level:** The effective caster level increases by 3.
-
-**Replaces:** The hand of the acolyte power of the Magic domain
-
 **Swift:** When you cast a spell with a duration of at least 1 minute per caster level, you can
 increase the spell's effective caster level by 1 for the purpose of determining its duration and
 preventing attempts to dispel it.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**At 10th level,** the effective caster level increases by 2.
+
+**At 20th level,** the effective caster level increases by 3.
+
+**Replaces:** The hand of the acolyte power of the Magic domain
 
 **Replacement Domain Spells**
 

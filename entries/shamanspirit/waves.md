@@ -56,24 +56,24 @@ entangled by _beckoning chill,_ the duration of the entangled condition increase
 
 **Crashing Waves (Su)**
 
+**Flavor:** The force of a waves shaman's water spells can bring even the mightiest of foes to the
+ground.
+
 **Ability:** When the shaman casts a spell with the water descriptor, she does so at 1 caster level
 higher. If that spell deals damage, the target must succeed at a Fortitude saving throw or be
 knocked [prone](ref/rule/prone).
 
-**Flavor:** The force of a waves shaman's water spells can bring even the mightiest of foes to the
-ground.
+**At 8th level,** the shaman casts water spells at 2 caster levels higher.
 
-**At 16th Level:** Her ability to knock creatures prone extends to any spell that deals damage.
-
-**At 8th Level:** The shaman casts water spells at 2 caster levels higher.
+**At 16th level,** her ability to knock creatures prone extends to any spell that deals damage.
 
 **Fluid Magic (Su)**
+
+**Flavor:** The shaman's magic is not constrained by the reservoirs of magic that hold others back.
 
 **Ability:** She is able to prepare her spirit magic spells in her regular spell slots. If the
 shaman changes her _wandering spirit,_ any prepared spirit magic spell belonging to that spirit
 becomes an open spell slot.
-
-**Flavor:** The shaman's magic is not constrained by the reservoirs of magic that hold others back.
 
 **Mist's Shroud (Su)**
 
@@ -82,9 +82,9 @@ in mist. This grants the creature [concealment](ref/rule/concealment) as the [bl
 spell. The mist dissipates after it causes an attack to miss because of concealment or after 1
 minute, whichever comes first.
 
-**At 16th Level:** The mist now fades after thwarting three attacks.
+**At 8th level,** the mist lasts for one additional attack.
 
-**At 8th Level:** The mist lasts for one additional attack.
+**At 16th level,** the mist now fades after thwarting three attacks.
 
 **Special:** A creature affected by this hex cannot be affected by it again for 24 hours.
 
@@ -93,22 +93,22 @@ minute, whichever comes first.
 **Ability:** The shaman sees through fog and mist without penalty as long as there is enough light
 to otherwise allow her to see normally.
 
-**At 15th Level:** This functions as [greater scrying](ref/spell/scrying-greater).
+**Usage:** 1 time/day per shaman level
 
-**At 7th Level:** She can use can use [scrying](ref/spell/scrying), using any calm pool of water
+**At 7th level,** she can use can use [scrying](ref/spell/scrying), using any calm pool of water
 that's at least 1 foot in diameter as the sole focus.
 
-**Usage:** 1 time/day per shaman level
+**At 15th level,** this functions as [greater scrying](ref/spell/scrying-greater).
 
 ### Spirit Animal
 
 **Spirit Animal**
 
-**Ability:** The animal gains [Mobility](ref/feat/mobility) as a bonus feat. The animal doesn't need
-to meet the prerequisites for this feat. In addition, the animal can breathe underwater.
-
 **Flavor:** The skin of the shaman's spirit animal constantly distorts, much as a pond's surface
 ripples when drops of water fall gently into it.
+
+**Ability:** The animal gains [Mobility](ref/feat/mobility) as a bonus feat. The animal doesn't need
+to meet the prerequisites for this feat. In addition, the animal can breathe underwater.
 
 ### Spirit Ability
 
@@ -117,15 +117,15 @@ ability.
 
 **Wave Strike (Su)**
 
-**At 11th Level:** Any melee weapon she wields is treated as if it had the
-[quenching](ref/magic-enh/quenching) weapon special ability.
-
 **Standard:** The shaman can perform a melee touch attack that drenches a creature and pushes it
 away. The opponent takes an amount of nonlethal damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) her shaman level and is pushed 5 feet directly away from the
 shaman. This movement does not provoke attacks of opportunity.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 11th level,** any melee weapon she wields is treated as if it had the
+[quenching](ref/magic-enh/quenching) weapon special ability.
 
 ### Greater Spirit Ability
 

@@ -64,8 +64,6 @@ foe, the fire bolt deals an amount of fire damage equal to 1d6 +
 
 **Call Fire (Su)**
 
-**Replaces:** The fire bolt power of the Fire domain
-
 **Standard:** You can stretch out your hand toward any visible fire source within 60 feet and beckon
 it toward you. This causes a ribbon-thin streak of fire to approach you in a straight line through
 the air. Any creature directly in the fire ribbon's path takes 1d4 points of fire damage; a
@@ -74,6 +72,8 @@ When the ribbon of fire reaches your hand, it either extinguishes or lights a fl
 your choice that you're holding.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The fire bolt power of the Fire domain
 
 **Replacement Domain Spells**
 
@@ -95,8 +95,6 @@ Yamatsumi, Ymeri, Zelishkar, Zipacna, Zurapadyn, Zursvaater
 
 **Gained:** At 8th Level
 
-**Replaces:** The fire resistance power of the Fire domain
-
 **Standard:** You can create a wall of swirling ashes anywhere within 100 feet. This wall is up to
 20 feet high and up to 10 feet long per cleric level you possess. The wall of ash blocks line of
 sight, and any creature passing through it must make a Fortitude save or be
@@ -105,6 +103,8 @@ inside it or adjacent to it, although they become invisible again if they move a
 
 **Usage:** 1 minute/day per cleric level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
+
+**Replaces:** The fire resistance power of the Fire domain
 
 **Replacement Domain Spells**
 
@@ -122,14 +122,14 @@ Yamatsumi, Zarongel
 
 **Cloud of Smoke (Su)**
 
-**Replaces:** The fire bolt power of the Fire domain
-
 **Standard:** You can create a 5-foot-radius cloud of smoke. This power has a range of 30 feet.
 Creatures inside the cloud take a -2 penalty on attack rolls and Perception skill checks for as long
 as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain
 [concealment](ref/rule/concealment) from attacks made by opponents that are not adjacent to them.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The fire bolt power of the Fire domain
 
 **Replacement Domain Spells**
 

@@ -17,6 +17,6 @@ group = "arcane-discovery"
 **Ability:** You can briefly step out of time, pausing the world around you. This ability acts as
 the [time stop](ref/spell/time-stop) spell, except that you gain only 1 round of apparent time.
 
-**Prereq:** 10th-level wizard
-
 **Usage:** 1 time/day + 1 per 5 wizard levels beyond 10th
+
+**Prereq:** 10th-level wizard

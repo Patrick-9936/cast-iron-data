@@ -67,11 +67,11 @@ Mephistopheles, Onmyuza, Pavnuri, Stygidvod, Thoth, Titivilus, Vapula
 
 **Gained:** At 6th Level
 
-**Replaces:** The spell rune power of the Rune domain
-
 **Swift:** You can change the location of one of your _blast runes._ The rune must be within 30
 feet. You can place the _blast rune_ in any square adjacent to you, including one occupied by
 another creature.
+
+**Replaces:** The spell rune power of the Rune domain
 
 **Replacement Domain Spells**
 
@@ -93,6 +93,14 @@ another creature.
 
 **Prohibition (Su)**
 
+**Standard:** You can command a creature within 30 feet to refrain from committing a particular
+action (including any referenced in the spell _[forbid action](ref/spell/forbid-action)_). If the
+creature performs the named action before the beginning of your next turn, it takes an amount of
+damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your cleric level and the effect
+ends. This is a language-dependent effect.
+
+**Usage:** 3 + Wisdom modifier times/day
+
 **Replaces:** The blast rune power of the Rune domain
 
 **Special:** If you have the _spell rune_ domain power, you can attach a spell effect to the
@@ -103,14 +111,6 @@ targets the spell can normally affect, it affects only the creature that trigger
 
 **Special:** Attaching a spell in this way extends the duration of the _prohibition_ by a number of
 rounds equal to the spell's level, or until it is discharged.
-
-**Standard:** You can command a creature within 30 feet to refrain from committing a particular
-action (including any referenced in the spell _[forbid action](ref/spell/forbid-action)_). If the
-creature performs the named action before the beginning of your next turn, it takes an amount of
-damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your cleric level and the effect
-ends. This is a language-dependent effect.
-
-**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -136,9 +136,9 @@ attack you for a number of rounds equal to 1/2 your cleric level unless it succe
 as per the spell [sanctuary](ref/spell/sanctuary). The ability does not prevent you from being
 attacked or affected by area of effect spells or abilities.
 
-**Replaces:** The spell rune power of the Rune domain
-
 **Usage:** 1 time/day + 1 per 6 cleric levels beyond 8th
+
+**Replaces:** The spell rune power of the Rune domain
 
 **Replacement Domain Spells**
 

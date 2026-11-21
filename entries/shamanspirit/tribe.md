@@ -84,24 +84,24 @@ target of it again for 24 hours.
 
 **Touch of Succor (Su)**
 
-**At 12th Level:** She also adds dazed, nauseated, and panicked.
-
-**At 8th Level:** She adds confused and frightened to the list of conditions she can remove.
-
 **Standard:** The shaman can touch a willing creature to remove one of the following conditions:
 fatigued, shaken, or sickened.
 
 **Usage:** 1 time/day per shaman level
 
+**At 8th level,** she adds confused and frightened to the list of conditions she can remove.
+
+**At 12th level,** she also adds dazed, nauseated, and panicked.
+
 ### Spirit Animal
 
 **Spirit Animal**
 
-**Ability:** When the spirit animal successfully performs the aid another action, the bonus it
-provides increases by 1.
-
 **Flavor:** The shaman's spirit animal has colorations or markings that resemble a totem or
 important symbol for the shaman's tribe.
+
+**Ability:** When the spirit animal successfully performs the aid another action, the bonus it
+provides increases by 1.
 
 ### Spirit Ability
 
@@ -127,12 +127,12 @@ ability upon having access to the greater version of that spirit.
 
 **Tribal Bond (Sp)**
 
+**Flavor:** The shaman and her tribe share a transcendent bond.
+
 **Ability:** Once per day when she communes with her spirit animal to regain spells, the shaman can
 select a number of creatures equal to half her shaman level to serve as her honorary tribe. These
 creatures can constantly communicate with each other, as
 [telepathic bond](ref/spell/telepathic-bond).
-
-**Flavor:** The shaman and her tribe share a transcendent bond.
 
 ### True Spirit Ability
 

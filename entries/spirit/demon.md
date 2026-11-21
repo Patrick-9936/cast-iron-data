@@ -51,19 +51,19 @@ This ability can summon only one creature, regardless of the list used.
 
 **Usage:** 3 + Charisma modifier times/day
 
-At 8th level: The level of the spell increases to _summon monster +3._
+**At 8th level,** the level of the spell increases to _summon monster +3._
 
-At 10th level: The level of the spell increases to _summon monster +4._
+**At 10th level,** the level of the spell increases to _summon monster +4._
 
-At 12th level: The level of the spell increases to _summon monster +5._
+**At 12th level,** the level of the spell increases to _summon monster +5._
 
-At 14th level: The level of the spell increases to _summon monster +6._
+**At 14th level,** the level of the spell increases to _summon monster +6._
 
-At 16th level: The level of the spell increases to _summon monster +7._
+**At 16th level,** the level of the spell increases to _summon monster +7._
 
-At 18th level: The level of the spell increases to _summon monster +8._
+**At 18th level,** the level of the spell increases to _summon monster +8._
 
-At 20th level: The level of the spell increases to _summon monster +9._
+**At 20th level,** the level of the spell increases to _summon monster +9._
 
 ### Gift
 

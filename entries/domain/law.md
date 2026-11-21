@@ -89,12 +89,12 @@ Wadjet, Winlas, Zohls
 
 **Gained:** At 8th Level
 
-**Replaces:** The staff of order power of the Law domain
-
 **Standard:** You can emit a 30-foot aura of menace. Enemies in this aura take a -2 penalty to AC
 and on attacks and saves as long as they remain inside the aura.
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The staff of order power of the Law domain
 
 **Replacement Domain Spells**
 
@@ -127,9 +127,9 @@ attack. Creatures touched take a -2 penalty on all saving throws and must roll a
 checks twice, taking the worse result. This effect lasts for a number of rounds equal to 1/2 your
 cleric level (minimum 1).
 
-**Replaces:** The touch of law power of the Law domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of law power of the Law domain
 
 **Replacement Domain Spells**
 
@@ -150,13 +150,13 @@ Magrim, Ra, Thoth
 
 **Command (Su)**
 
-**Replaces:** The touch of law power of the Law domain
-
 **Standard:** You can give a creature an emotionless yet undeniable order, as per the spell
 [command](ref/spell/command). A Will save negates this effect. You cannot target a creature more
 than once per day with this ability.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of law power of the Law domain
 
 **Replacement Domain Spells**
 
@@ -174,14 +174,14 @@ than once per day with this ability.
 
 **Chastisement (Su)**
 
-**Replaces:** The touch of law ability of the Law domain
-
 **Standard:** You can cast a strengthened spell against a creature that damaged you since your last
 turn. This spell must target the creature that damaged you, and is cast at +1 caster level. Area of
 effect spells cannot be used in conjunction with this ability, but other spells that target multiple
 creatures may be.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of law ability of the Law domain
 
 **Replacement Domain Spells**
 
@@ -208,9 +208,9 @@ creatures may be.
 [blessing of fervor](ref/spell/blessing-of-fervor) spell for a number of rounds equal to 1/2 your
 cleric level. If you fail, this ability is expended with no effect.
 
-**Replaces:** The staff of order ability of the Law domain
-
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The staff of order ability of the Law domain
 
 **Replacement Domain Spells**
 
@@ -232,8 +232,6 @@ cleric level. If you fail, this ability is expended with no effect.
 
 **Prohibition (Su)**
 
-**Replaces:** The touch of law power of the Law domain
-
 **Standard:** You can command a creature within 30 feet to refrain from committing a particular
 action (including any referenced in the spell _[forbid action](ref/spell/forbid-action)_). If the
 creature performs the named action before the beginning of your next turn, it takes an amount of
@@ -241,6 +239,8 @@ damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your cleric lev
 ends. This is a language-dependent effect.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of law power of the Law domain
 
 **Replacement Domain Spells**
 
@@ -258,12 +258,12 @@ ends. This is a language-dependent effect.
 
 **Touch of Loyalty (Su)**
 
-**Replaces:** The touch of law power of the Law domain
-
 **Standard:** You can touch a willing creature, granting it a +4 sacred bonus on saving throws to
 resist charm, compulsion, and fear effects for 1 hour.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of law power of the Law domain
 
 **Replacement Domain Spells**
 
@@ -282,8 +282,6 @@ Losarkur, Vevelor, Zursvaater
 
 **Gained:** At 8th Level
 
-**Replaces:** The staff of order power of the Law domain
-
 **Standard:** You can attempt to assert your dominance over any visible creature within 30 feet by
 declaring the target your property. The target can resist this effect with a successful Will save
 (DC = 10 + half your class level + your Wisdom modifier). If the target fails the save, it is
@@ -293,6 +291,8 @@ of Constitution damage and become [staggered](ref/misc/staggered) for 1 round. T
 language-based, mind-affecting effect.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The staff of order power of the Law domain
 
 **Replacement Domain Spells**
 
@@ -310,17 +310,17 @@ language-based, mind-affecting effect.
 
 **Demand Subjugation (Sp)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can force a defeated creature to accept a binding pact as a condition of its
 surrender, as if you are using lesser geas, except the creature must have a number of Hit Dice equal
 to or less than your cleric level.
 
-**At 16th Level:** The ability functions as per [geas/quest](ref/spell/geas-quest).
+**Usage:** 3 + Wisdom modifier times/day
 
-**Gained:** At 8th Level
+**At 16th level,** the ability functions as per [geas/quest](ref/spell/geas-quest).
 
 **Replaces:** The staff of order power of the Law domain
-
-**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -346,9 +346,9 @@ Surpa, Uruskreil, Vibhishah, Wylgart, Zabha, Zursvaater
 damage (but not any other effects of the attack) to instead affect the creature you hit as per a
 greater command spell, with a caster level equal to your class level.
 
-**Replaces:** The staff of order power of the Law domain
-
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The staff of order power of the Law domain
 
 **Replacement Domain Spells**
 

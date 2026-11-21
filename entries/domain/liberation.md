@@ -61,8 +61,6 @@ Lorris, Milani, Neshen, Scal, Shei, Sun Wukong, Taraksun, Vevelor, Xhasnaphar, Z
 
 **Liberty's Blessing (Sp)**
 
-**Replaces:** The liberation power of the Liberation domain
-
 **Standard:** You touch a willing creature, granting it a boon. A creature with this boon can, as a
 swift action, make a saving throw against a single spell or effect it is suffering from that grants
 a save. The DC of the saving throw is equal to the original DC of the spell or effect. If the saving
@@ -70,6 +68,8 @@ throw is successful, the effect ends. This boon lasts for 1 minute or until succ
 remove a spell or effect, whichever duration is shorter.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The liberation power of the Liberation domain
 
 **Replacement Domain Spells**
 
@@ -86,14 +86,14 @@ Taraksun, Vevelor, Xhasnaphar
 
 **Powerful Persuader (Su)**
 
+**Gained:** At 8th Level
+
 **Free:** When you make a Diplomacy or Intimidate check, you can roll twice and take the higher
 result.
 
-**Gained:** At 8th Level
+**Usage:** 1 time/day + 1 per 2 cleric levels beyond 8th
 
 **Replaces:** The freedom's call power of the Liberation domain
-
-**Usage:** 1 time/day + 1 per 2 cleric levels beyond 8th
 
 **Replacement Domain Spells**
 

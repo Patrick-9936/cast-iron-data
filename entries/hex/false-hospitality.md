@@ -14,8 +14,8 @@ group = "witch-hex"
 
 **False Hospitality (Su)**
 
-**Ability:** A witch can use this hex to gain the benefits of [glibness](ref/spell/glibness) with a
-caster level equal to the witch's level. This hex can be used once per day.
-
 **Flavor:** The witches of Iblydos are known for greeting travelers with warmth only to reveal their
 powers once their enemies have lowered their defenses.
+
+**Ability:** A witch can use this hex to gain the benefits of [glibness](ref/spell/glibness) with a
+caster level equal to the witch's level. This hex can be used once per day.
