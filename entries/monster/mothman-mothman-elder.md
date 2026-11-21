@@ -51,25 +51,29 @@ into complex patterns._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/14/21
+**Armor class:** 26
+
+**Touch:** 14
+
+**Flat-footed:** 21
+
+**AC modifiers:** +5 Dex, +12 natural, -1 size
+
+**Hit points:** 142 (15d10+60)
+
+**Fort:** +9
+
+**Ref:** +14
+
+**Will:** +16
 
 **Defensive abilities:** blur
 
 **Dr:** 10/magic
 
-**Fort:** +9
-
-**Hit points:** 142 (15d10+60)
-
-**Mod:** +5 Dex, +12 natural, -1 size
-
-**Ref:** +14
-
 **Resist:** cold 20, fire 20
 
 **Sr:** 23
-
-**Will:** +16
 
 **Offense**
 

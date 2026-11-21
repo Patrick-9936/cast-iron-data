@@ -50,23 +50,27 @@ _This small dragon, which appears to be composed of coils of rope, bristles with
 
 **Experience points:** 1,600
 
-**Armor class:** 19/15/16
+**Armor class:** 19
 
-**Dr:** 5/slashing
+**Touch:** 15
 
-**Fort:** +8
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +4 natural, +1 size
 
 **Hit points:** 57 (6d12+18)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +4 Dex, +4 natural, +1 size
+**Fort:** +8
 
 **Ref:** +9
 
-**Vulner:** fire
-
 **Will:** +7
+
+**Dr:** 5/slashing
+
+**Immune:** paralysis, sleep
+
+**Vulner:** fire
 
 **Offense**
 

@@ -46,13 +46,17 @@ length of its body._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/9/20
+**Armor class:** 21
 
-**Fort:** +11
+**Touch:** 9
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +12 natural, -2 size
 
 **Hit points:** 85 (10d8+40)
 
-**Mod:** +1 Dex, +12 natural, -2 size
+**Fort:** +11
 
 **Ref:** +8
 

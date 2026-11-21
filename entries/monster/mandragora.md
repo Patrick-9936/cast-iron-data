@@ -51,23 +51,27 @@ dirt, and pallid tubers._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +2 natural, +1 size
 
 **Hit points:** 37 (5d8+15)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +4 Dex, +2 natural, +1 size
+**Fort:** +7
 
 **Ref:** +7
+
+**Will:** +2
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Resist:** acid 5, cold 5, electricity 10
 
 **Weaknesses:** vulnerable to supernatural darkness
-
-**Will:** +2
 
 **Offense**
 

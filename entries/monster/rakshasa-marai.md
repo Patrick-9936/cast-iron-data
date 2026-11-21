@@ -52,21 +52,25 @@ tongue in its fanged mouth._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/16/15
+**Armor class:** 21
 
-**Dr:** 10/good and piercing
+**Touch:** 16
 
-**Fort:** +8
+**Flat-footed:** 15
+
+**AC modifiers:** +5 Dex, +1 dodge, +5 natural
 
 **Hit points:** 94 (9d10+45)
 
-**Mod:** +5 Dex, +1 dodge, +5 natural
+**Fort:** +8
 
 **Ref:** +11
 
-**Sr:** 23
-
 **Will:** +9
+
+**Dr:** 10/good and piercing
+
+**Sr:** 23
 
 **Offense**
 

@@ -50,23 +50,27 @@ belt, not the least of which is its mechanical monstrosity of a crossbow._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/13/20
+**Armor class:** 23
+
+**Touch:** 13
+
+**Flat-footed:** 20
+
+**AC modifiers:** +5 armor, +1 deflection, +2 Dex, +1 dodge, +5 natural, -1 size
+
+**Hit points:** 133 (8d8+6d10+64\~14)
+
+**Fort:** +8
+
+**Ref:** +13
+
+**Will:** +10
 
 **Defensive abilities:** natural cunning
 
 **Evasion:** present
 
-**Fort:** +8
-
-**Hit points:** 133 (8d8+6d10+64\~14)
-
-**Mod:** +5 armor, +1 deflection, +2 Dex, +1 dodge, +5 natural, -1 size
-
-**Ref:** +13
-
 **Trap S:** +2
-
-**Will:** +10
 
 **Offense**
 

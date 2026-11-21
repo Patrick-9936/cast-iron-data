@@ -46,13 +46,17 @@ smaller horn-like ridges._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/9/20
+**Armor class:** 20
 
-**Fort:** +12
+**Touch:** 9
+
+**Flat-footed:** 20
+
+**AC modifiers:** +11 natural, -1 size
 
 **Hit points:** 95 (10d8+50)
 
-**Mod:** +11 natural, -1 size
+**Fort:** +12
 
 **Ref:** +7
 

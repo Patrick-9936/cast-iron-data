@@ -46,13 +46,17 @@ incredible speed._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/7/22
+**Armor class:** 23
 
-**Fort:** +15
+**Touch:** 7
+
+**Flat-footed:** 22
+
+**AC modifiers:** +1 Dex, +16 natural, -4 size
 
 **Hit points:** 138 (12d8+84)
 
-**Mod:** +1 Dex, +16 natural, -4 size
+**Fort:** +15
 
 **Ref:** +9
 

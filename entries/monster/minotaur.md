@@ -47,19 +47,23 @@ hooves as if preparing to charge._
 
 **Experience points:** 1,200
 
-**Armor class:** 14/9/14
+**Armor class:** 14
 
-**Defensive abilities:** natural cunning
+**Touch:** 9
 
-**Fort:** +6
+**Flat-footed:** 14
+
+**AC modifiers:** +5 natural, -1 size
 
 **Hit points:** 45 (6d10+12)
 
-**Mod:** +5 natural, -1 size
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +5
+
+**Defensive abilities:** natural cunning
 
 **Offense**
 

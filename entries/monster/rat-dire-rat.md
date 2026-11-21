@@ -48,13 +48,17 @@ and two glittering eyes._
 
 **Experience points:** 135
 
-**Armor class:** 14/14/11
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
 
 **Hit points:** 5 (1d8+1)
 
-**Mod:** +3 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +5
 

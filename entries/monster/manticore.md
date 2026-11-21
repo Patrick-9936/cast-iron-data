@@ -48,13 +48,17 @@ ends in long, sharp spikes._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/11/15
+**Armor class:** 17
 
-**Fort:** +9
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +6 natural, -1 size
 
 **Hit points:** 57 (6d10+24)
 
-**Mod:** +2 Dex, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
 

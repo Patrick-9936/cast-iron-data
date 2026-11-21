@@ -51,25 +51,29 @@ robes are soaking wet._
 
 **Experience points:** 153,600
 
-**Armor class:** 32/11/29
+**Armor class:** 32
 
-**Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
+**Touch:** 11
 
-**Fort:** +21
+**Flat-footed:** 29
+
+**AC modifiers:** +6 armor, +3 Dex, +15 natural, -2 size
 
 **Hit points:** 297 (22d10+176)
 
-**Immune:** acid
-
-**Mod:** +6 armor, +3 Dex, +15 natural, -2 size
+**Fort:** +21
 
 **Ref:** +10
+
+**Will:** +18
+
+**Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
+
+**Immune:** acid
 
 **Regen:** 10 (fire or good spells)
 
 **Sr:** 29
-
-**Will:** +18
 
 **Offense**
 

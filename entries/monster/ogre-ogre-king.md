@@ -53,21 +53,25 @@ mouth with ill-fitting teeth._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/10/28
+**Armor class:** 28
 
-**Dr:** 10/adamantine (120 hit points)
+**Touch:** 10
 
-**Fort:** +14
+**Flat-footed:** 28
+
+**AC modifiers:** +12 armor, +1 deflection, +6 natural, -1 size
 
 **Hit points:** 180 (16d8+108)
 
-**Immune:** fatigue
-
-**Mod:** +12 armor, +1 deflection, +6 natural, -1 size
+**Fort:** +14
 
 **Ref:** +8
 
 **Will:** +11
+
+**Dr:** 10/adamantine (120 hit points)
+
+**Immune:** fatigue
 
 **Offense**
 

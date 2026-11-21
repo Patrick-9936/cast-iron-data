@@ -46,13 +46,17 @@ _The stony-looking hide of this fat reptile ends in a studded, heavy club of a t
 
 **Experience points:** 135
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 5 (1d8+1)
 
-**Mod:** +1 Dex, +2 size
+**Fort:** +3
 
 **Ref:** +3
 

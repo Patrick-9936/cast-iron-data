@@ -48,19 +48,23 @@ despite its cloven hooves._
 
 **Experience points:** 6,400
 
-**Armor class:** 21/11/19
+**Armor class:** 21
 
-**Ferocity:** present
+**Touch:** 11
 
-**Fort:** +10
+**Flat-footed:** 19
+
+**AC modifiers:** +2 Dex, +10 natural, -1 size
 
 **Hit points:** 114 (12d10+48)
 
-**Mod:** +2 Dex, +10 natural, -1 size
+**Fort:** +10
 
 **Ref:** +10
 
 **Will:** +11
+
+**Ferocity:** present
 
 **Offense**
 

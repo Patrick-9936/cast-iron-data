@@ -47,21 +47,25 @@ _This small creature has the body of a housecat, the wings of a falcon, and the 
 
 **Experience points:** 600
 
-**Armor class:** 15/14/13
+**Armor class:** 15
 
-**Dr:** 5/magic
+**Touch:** 14
 
-**Fort:** +3
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 natural, +2 size
 
 **Hit points:** 16 (3d10)
 
-**Mod:** +2 Dex, +1 natural, +2 size
+**Fort:** +3
 
 **Ref:** +5
 
-**Sr:** 13
-
 **Will:** +6
+
+**Dr:** 5/magic
+
+**Sr:** 13
 
 **Offense**
 

@@ -53,27 +53,31 @@ rock._
 
 **Experience points:** 102,400
 
-**Armor class:** 36/11/36
+**Armor class:** 36
+
+**Touch:** 11
+
+**Flat-footed:** 36
+
+**AC modifiers:** +8 cover, +1 Dex, +25 natural, -8 size
+
+**Hit points:** 313 (19d8+228)
+
+**Fort:** +18
+
+**Ref:** +13
+
+**Will:** +20
 
 **Defensive abilities:** all-around vision, stony cover
 
 **Dr:** 15/-
 
-**Fort:** +18
-
-**Hit points:** 313 (19d8+228)
-
 **Immune:** cold, electricity, fire
-
-**Mod:** +8 cover, +1 Dex, +25 natural, -8 size
-
-**Ref:** +13
 
 **Rock Ct:** present
 
 **Sr:** 28
-
-**Will:** +20
 
 **Offense**
 

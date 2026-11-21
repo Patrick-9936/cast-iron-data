@@ -53,23 +53,27 @@ teeth flecked with blood._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/18/13
+**Armor class:** 21
 
-**Evasion:** present
+**Touch:** 18
 
-**Fort:** +8
+**Flat-footed:** 13
+
+**AC modifiers:** +7 Dex, +1 dodge, +3 natural
 
 **Hit points:** 80 (7d10+42)
 
-**Mod:** +7 Dex, +1 dodge, +3 natural
+**Fort:** +8
 
 **Ref:** +12
+
+**Will:** +8
+
+**Evasion:** present
 
 **Regen:** 5 (acid or fire)
 
 **Sr:** 18
-
-**Will:** +8
 
 **Offense**
 

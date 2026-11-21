@@ -47,13 +47,17 @@ _This enormous owl has a silent gracefulness and wisdom about it despite its con
 
 **Experience points:** 1,600
 
-**Armor class:** 18/10/16
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +8 natural, -2 size
 
 **Hit points:** 57 (6d10+24)
 
-**Mod:** +2 Dex, +8 natural, -2 size
+**Fort:** +9
 
 **Ref:** +7
 

@@ -54,19 +54,23 @@ abilities = ["25", "10", "19", "6", "8", "14"]
 
 **Experience points:** 9,600
 
-**Armor class:** 24/10/24
+**Armor class:** 24
 
-**Fort:** +16
+**Touch:** 10
+
+**Flat-footed:** 24
+
+**AC modifiers:** +9 armor, +1 deflection, +5 natural, -1 size
 
 **Hit points:** 107 (4d8+7d10+51\~11)
 
-**Immune:** disease
-
-**Mod:** +9 armor, +1 deflection, +5 natural, -1 size
+**Fort:** +16
 
 **Ref:** +6
 
 **Will:** +10
+
+**Immune:** disease
 
 **Offense**
 

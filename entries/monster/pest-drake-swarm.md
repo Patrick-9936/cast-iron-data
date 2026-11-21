@@ -51,21 +51,25 @@ _These songbird-sized drakes declare their territory with an insistent chorus of
 
 **Experience points:** 6,400
 
-**Armor class:** 23/21/16
+**Armor class:** 23
 
-**Defensive abilities:** swarm traits
+**Touch:** 21
 
-**Fort:** +12
+**Flat-footed:** 16
+
+**AC modifiers:** +7 Dex, +2 natural, +4 size
 
 **Hit points:** 115 (11d12+44)
 
-**Immune:** acid, paralysis, sleep, weapon damage
-
-**Mod:** +7 Dex, +2 natural, +4 size
+**Fort:** +12
 
 **Ref:** +14
 
 **Will:** +9
+
+**Defensive abilities:** swarm traits
+
+**Immune:** acid, paralysis, sleep, weapon damage
 
 **Offense**
 

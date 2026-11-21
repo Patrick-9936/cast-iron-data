@@ -50,19 +50,23 @@ red-hot._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/9/19
+**Armor class:** 20
 
-**Fort:** +11
+**Touch:** 9
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +11 natural, -2 size
 
 **Hit points:** 94 (9d10+45)
 
-**Immune:** fire, cold
-
-**Mod:** +1 Dex, +11 natural, -2 size
+**Fort:** +11
 
 **Ref:** +7
 
 **Will:** +4
+
+**Immune:** fire, cold
 
 **Offense**
 

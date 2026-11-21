@@ -53,25 +53,29 @@ eerie agility._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/13/23
+**Armor class:** 26
+
+**Touch:** 13
+
+**Flat-footed:** 23
+
+**AC modifiers:** +3 armor, +2 Dex, +1 dodge, +10 natural
+
+**Hit points:** 162 (17d8+85)
+
+**Fort:** +14
+
+**Ref:** +9
+
+**Will:** +10; +10 vs. environmental effects and traps within bonded ruin
 
 **Defensive abilities:** death gasp, negative energy affinity
 
 **Dr:** 5/-
 
-**Fort:** +14
-
-**Hit points:** 162 (17d8+85)
-
 **Immune:** curses
 
-**Mod:** +3 armor, +2 Dex, +1 dodge, +10 natural
-
-**Ref:** +9
-
 **Vulner:** _consecration_
-
-**Will:** +10; +10 vs. environmental effects and traps within bonded ruin
 
 **Offense**
 

@@ -51,25 +51,29 @@ glitters in its metallic golden eyes._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/11/15
+**Armor class:** 16
 
-**Dr:** 5/magic
+**Touch:** 11
 
-**Fort:** +6
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +5 natural
 
 **Hit points:** 37 (5d10+10)
 
-**Immune:** electricity
-
-**Mod:** +1 Dex, +5 natural
+**Fort:** +6
 
 **Ref:** +2
+
+**Will:** +5
+
+**Dr:** 5/magic
+
+**Immune:** electricity
 
 **Resist:** cold 10, fire 5
 
 **Sr:** 15
-
-**Will:** +5
 
 **Offense**
 

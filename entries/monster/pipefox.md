@@ -47,13 +47,17 @@ _This furry, minute serpent has a fox-like head and tiny eyes that glitter with 
 
 **Experience points:** 600
 
-**Armor class:** 17/17/13
+**Armor class:** 17
 
-**Fort:** +2
+**Touch:** 17
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +4 size
 
 **Hit points:** 13 (3d10-3)
 
-**Mod:** +3 Dex, +4 size
+**Fort:** +2
 
 **Ref:** +6
 

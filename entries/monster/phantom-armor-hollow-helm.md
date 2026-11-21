@@ -48,21 +48,25 @@ lumbering movements slow and methodical._
 
 **Experience points:** 400
 
-**Armor class:** 16/13/15
+**Armor class:** 16
 
-**Chan Res:** +2
+**Touch:** 13
 
-**Fort:** +0
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +3 natural, +2 size
 
 **Hit points:** 9 (2d8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +3 natural, +2 size
+**Fort:** +0
 
 **Ref:** +1
 
 **Will:** +3
+
+**Chan Res:** +2
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

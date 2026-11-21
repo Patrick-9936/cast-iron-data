@@ -51,19 +51,23 @@ Its breath reeks of pestilence._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/11/25
+**Armor class:** 28
 
-**Fort:** +17
+**Touch:** 11
+
+**Flat-footed:** 25
+
+**AC modifiers:** +8 armor, +3 Dex, +9 natural, -2 size
 
 **Hit points:** 187 (15d8+120)
 
-**Immune:** disease, poison
-
-**Mod:** +8 armor, +3 Dex, +9 natural, -2 size
+**Fort:** +17
 
 **Ref:** +11
 
 **Will:** +11
+
+**Immune:** disease, poison
 
 **Offense**
 

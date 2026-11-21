@@ -48,13 +48,17 @@ prehensile tail hold it in the trees._
 
 **Experience points:** 600
 
-**Armor class:** 12/11/11
+**Armor class:** 12
 
-**Fort:** +8
+**Touch:** 11
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 natural
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +1 Dex, +1 natural
+**Fort:** +8
 
 **Ref:** +4
 

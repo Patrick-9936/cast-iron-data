@@ -55,21 +55,25 @@ distorted, ephemeral images and reflections._
 
 **Experience points:** 4,800
 
-**Armor class:** 19/19/14
+**Armor class:** 19
 
-**Fort:** +7
+**Touch:** 19
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 deflection, +4 Dex, +1 dodge, +1 size
 
 **Hit points:** 82 (11d10+22)
 
-**Incorporeal:** present
-
-**Mod:** +3 deflection, +4 Dex, +1 dodge, +1 size
+**Fort:** +7
 
 **Ref:** +11
 
-**Sr:** 19
-
 **Will:** +11
+
+**Incorporeal:** present
+
+**Sr:** 19
 
 **Offense**
 

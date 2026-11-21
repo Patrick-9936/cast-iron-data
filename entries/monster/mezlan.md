@@ -56,23 +56,27 @@ emerge._
 
 **Experience points:** 38,400
 
-**Armor class:** 30/18/22
+**Armor class:** 30
 
-**Fort:** +12
+**Touch:** 18
+
+**Flat-footed:** 22
+
+**AC modifiers:** +7 Dex, +1 dodge, +12 natural
 
 **Hit points:** 195 (17d8+119)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +7 Dex, +1 dodge, +12 natural
+**Fort:** +12
 
 **Ref:** +14
+
+**Will:** +11
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
 
 **Regen:** 5 (acid)
 
 **Sr:** 25
-
-**Will:** +11
 
 **Offense**
 

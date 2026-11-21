@@ -48,23 +48,27 @@ _This tiny, whimsical-looking humanoid darts about swiftly on wildly colored gos
 
 **Experience points:** 1,200
 
-**Armor class:** 18/17/12
+**Armor class:** 18
+
+**Touch:** 17
+
+**Flat-footed:** 12
+
+**AC modifiers:** +5 Dex, +1 dodge, +1 natural, +1 size
+
+**Hit points:** 18 (4d6+4)
+
+**Fort:** +2
+
+**Ref:** +9
+
+**Will:** +6
 
 **Defensive abilities:** invisibility
 
 **Dr:** 10/cold iron
 
-**Fort:** +2
-
-**Hit points:** 18 (4d6+4)
-
-**Mod:** +5 Dex, +1 dodge, +1 natural, +1 size
-
-**Ref:** +9
-
 **Sr:** 15
-
-**Will:** +6
 
 **Offense**
 

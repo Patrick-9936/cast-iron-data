@@ -46,13 +46,17 @@ knife-like horns curving up from its nose._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/9/20
+**Armor class:** 20
 
-**Fort:** +13
+**Touch:** 9
+
+**Flat-footed:** 20
+
+**AC modifiers:** +11 natural, -1 size
 
 **Hit points:** 85 (9d8+45)
 
-**Mod:** +11 natural, -1 size
+**Fort:** +13
 
 **Ref:** +6
 

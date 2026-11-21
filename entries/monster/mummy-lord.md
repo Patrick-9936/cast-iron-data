@@ -58,7 +58,21 @@ unholy light._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/14/21
+**Armor class:** 24
+
+**Touch:** 14
+
+**Flat-footed:** 21
+
+**AC modifiers:** +6 armor, +1 deflection, +2 Dex, +1 dodge, +4 natural
+
+**Hit points:** 103 (9d8+63)
+
+**Fort:** +11
+
+**Ref:** +7
+
+**Will:** +11
 
 **Chan Res:** +4
 
@@ -66,17 +80,7 @@ unholy light._
 
 **Dr:** 10/-
 
-**Fort:** +11
-
-**Hit points:** 103 (9d8+63)
-
 **Immune:** cold, electricity, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +6 armor, +1 deflection, +2 Dex, +1 dodge, +4 natural
-
-**Ref:** +7
-
-**Will:** +11
 
 **Offense**
 

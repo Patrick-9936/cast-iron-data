@@ -51,29 +51,33 @@ humanoid face._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/13/24
+**Armor class:** 28
+
+**Touch:** 13
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 Dex, +15 natural, -1 size
+
+**Hit points:** 172 (15d10+90)
+
+**Fort:** +10
+
+**Ref:** +15
+
+**Will:** +14
 
 **Amorph:** present
 
 **Dr:** 10/evil
 
-**Fort:** +10
-
-**Hit points:** 172 (15d10+90)
-
 **Immune:** fire
-
-**Mod:** +4 Dex, +15 natural, -1 size
-
-**Ref:** +15
 
 **Resist:** electricity 10
 
 **Sr:** 24
 
 **Vulner:** cold
-
-**Will:** +14
 
 **Offense**
 

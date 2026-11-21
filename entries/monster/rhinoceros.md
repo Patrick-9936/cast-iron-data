@@ -46,13 +46,17 @@ _This rhinoceros has a low-slung head with twisted ears that lie back along its 
 
 **Experience points:** 1,200
 
-**Armor class:** 16/9/16
+**Armor class:** 16
 
-**Fort:** +10
+**Touch:** 9
+
+**Flat-footed:** 16
+
+**AC modifiers:** +7 natural, -1 size
 
 **Hit points:** 42 (5d8+20)
 
-**Mod:** +7 natural, -1 size
+**Fort:** +10
 
 **Ref:** +4
 

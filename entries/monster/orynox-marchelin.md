@@ -54,23 +54,27 @@ his prowess as a warrior._
 
 **Experience points:** 204,800
 
-**Armor class:** 35/14/32
+**Armor class:** 35
 
-**Fort:** +26
+**Touch:** 14
+
+**Flat-footed:** 32
+
+**AC modifiers:** +11 armor, +2 deflection, +2 Dex, +1 dodge, +10 natural, -1 size
 
 **Hit points:** 313 (15d8+9d10+197\~24)
 
-**Immune:** fire
-
-**Mod:** +11 armor, +2 deflection, +2 Dex, +1 dodge, +10 natural, -1 size
+**Fort:** +26
 
 **Ref:** +14
+
+**Will:** +13
+
+**Immune:** fire
 
 **Rock Ct:** present
 
 **Vulner:** cold
-
-**Will:** +13
 
 **Offense**
 

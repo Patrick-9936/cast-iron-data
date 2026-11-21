@@ -55,19 +55,23 @@ woven reeds and leaves._
 
 **Experience points:** 200
 
-**Armor class:** 13/13/10
+**Armor class:** 13
 
-**Defensive abilities:** water bond
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 10
+
+**AC modifiers:** +3 Dex
 
 **Hit points:** 9 (1d8+1)
 
-**Mod:** +3 Dex
+**Fort:** +1
 
 **Ref:** +5
 
 **Will:** +2
+
+**Defensive abilities:** water bond
 
 **Offense**
 

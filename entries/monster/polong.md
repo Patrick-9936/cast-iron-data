@@ -52,25 +52,29 @@ _This crimson spectral creature drips with blood, its skeletal face contorted wi
 
 **Experience points:** 4,800
 
-**Armor class:** 19/19/15
+**Armor class:** 19
 
-**Chan Res:** +2
+**Touch:** 19
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 deflection, +4 Dex
+
+**Hit points:** 95 (10d8+50)
 
 **Fort:** +8
 
-**Hit points:** 95 (10d8+50)
+**Ref:** +7
+
+**Will:** +11
+
+**Chan Res:** +2
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +5 deflection, +4 Dex
-
-**Ref:** +7
-
 **Weaknesses:** bottle-bound (DC 22)
-
-**Will:** +11
 
 **Offense**
 

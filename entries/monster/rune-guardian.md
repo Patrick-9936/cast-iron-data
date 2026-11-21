@@ -48,25 +48,29 @@ energy._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fh:** 1
+**Touch:** 14
 
-**Fort:** +0
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 11 (2d10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +2 size
+**Fort:** +0
 
 **Ref:** +2
+
+**Will:** +2
+
+**Fh:** 1
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Sr:** 12
 
 **Weaknesses:** school vulnerability
-
-**Will:** +2
 
 **Offense**
 

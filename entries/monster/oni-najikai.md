@@ -50,25 +50,29 @@ _This scaly-skinned humanoid has long venomous fangs, claws, and unblinking rept
 
 **Experience points:** 4,800
 
-**Armor class:** 22/15/16
+**Armor class:** 22
 
-**Fort:** +8
+**Touch:** 15
+
+**Flat-footed:** 16
+
+**AC modifiers:** +5 Dex, +1 dodge, +7 natural, -1 size
 
 **Hit points:** 105 (10d10+50)
 
-**Immune:** acid, poison
-
-**Mod:** +5 Dex, +1 dodge, +7 natural, -1 size
+**Fort:** +8
 
 **Ref:** +12
+
+**Will:** +11
+
+**Immune:** acid, poison
 
 **Regen:** 5 (cold, fire)
 
 **Sr:** 19
 
 **Vulner:** cold
-
-**Will:** +11
 
 **Offense**
 

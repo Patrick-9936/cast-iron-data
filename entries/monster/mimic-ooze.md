@@ -48,19 +48,23 @@ moves, and tendrils of hair flow around its expressionless face._
 
 **Experience points:** 6,400
 
-**Armor class:** 18/18/10
+**Armor class:** 18
 
-**Fort:** +7
+**Touch:** 18
+
+**Flat-footed:** 10
+
+**AC modifiers:** +7 Dex, +1 dodge
 
 **Hit points:** 105 (14d8+42)
 
-**Immune:** acid, mind-affecting effects, [ooze traits](ref/umr/ooze-traits), piercing damage
-
-**Mod:** +7 Dex, +1 dodge
+**Fort:** +7
 
 **Ref:** +11
 
 **Will:** -1
+
+**Immune:** acid, mind-affecting effects, [ooze traits](ref/umr/ooze-traits), piercing damage
 
 **Offense**
 

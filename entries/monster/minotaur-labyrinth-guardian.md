@@ -56,7 +56,21 @@ enormous blade._
 
 **Experience points:** 4,800
 
-**Armor class:** 29/10/28
+**Armor class:** 29
+
+**Touch:** 10
+
+**Flat-footed:** 28
+
+**AC modifiers:** +10 armor, +1 Dex, +9 natural, -1 size
+
+**Hit points:** 60 (6d8+1d10+28\~7)
+
+**Fort:** +4
+
+**Ref:** +8
+
+**Will:** +9
 
 **Chan Res:** +4
 
@@ -64,19 +78,9 @@ enormous blade._
 
 **Dr:** 10/magic
 
-**Fort:** +4
-
-**Hit points:** 60 (6d8+1d10+28\~7)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +10 armor, +1 Dex, +9 natural, -1 size
-
-**Ref:** +8
-
 **Sr:** 19
-
-**Will:** +9
 
 **Offense**
 

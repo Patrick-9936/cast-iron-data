@@ -50,23 +50,27 @@ ending in a snapping mouth._
 
 **Experience points:** 600
 
-**Armor class:** 14/13/13
+**Armor class:** 14
 
-**Dr:** 5/cold iron or lawful
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +1 natural, +2 size
 
 **Hit points:** 16 (3d10)
 
-**Immune:** cold, poison, mind-affecting effects
-
-**Mod:** +1 Dex, +1 natural, +2 size
+**Fort:** +1
 
 **Ref:** +6
 
-**Resist:** acid 10, electricity 10, fire 10
-
 **Will:** +2
+
+**Dr:** 5/cold iron or lawful
+
+**Immune:** cold, poison, mind-affecting effects
+
+**Resist:** acid 10, electricity 10, fire 10
 
 **Offense**
 

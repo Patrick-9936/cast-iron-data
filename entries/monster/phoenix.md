@@ -52,29 +52,33 @@ musical cry as it takes to the air._
 
 **Experience points:** 51,200
 
-**Armor class:** 28/14/20
+**Armor class:** 28
+
+**Touch:** 14
+
+**Flat-footed:** 20
+
+**AC modifiers:** +7 Dex, +1 dodge, +14 natural, -4 size
+
+**Hit points:** 210 (20d10+100)
+
+**Fort:** +17
+
+**Ref:** +19
+
+**Will:** +14
 
 **Defensive abilities:** self-resurrection
 
 **Dr:** 15/evil
 
-**Fort:** +17
-
-**Hit points:** 210 (20d10+100)
-
 **Immune:** fire
-
-**Mod:** +7 Dex, +1 dodge, +14 natural, -4 size
-
-**Ref:** +19
 
 **Regen:** 10 (cold or evil)
 
 **Sr:** 26
 
 **Vulner:** cold
-
-**Will:** +14
 
 **Offense**
 

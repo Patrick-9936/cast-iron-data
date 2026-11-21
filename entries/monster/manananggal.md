@@ -48,23 +48,27 @@ mask._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Dr:** 10/good or silver
+**Touch:** 14
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +1 dodge, +6 natural
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +1 dodge, +6 natural
+**Fort:** +7
 
 **Ref:** +8
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), vulnerable to light blades
-
 **Will:** +10
+
+**Dr:** 10/good or silver
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), vulnerable to light blades
 
 **Offense**
 

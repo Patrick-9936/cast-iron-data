@@ -52,21 +52,25 @@ its fiendish nature._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/16/19
+**Armor class:** 25
 
-**Dr:** 15/good and piercing
+**Touch:** 16
 
-**Fort:** +9
+**Flat-footed:** 19
+
+**AC modifiers:** +5 Dex, +1 dodge, +9 natural
 
 **Hit points:** 115 (10d10+60)
 
-**Mod:** +5 Dex, +1 dodge, +9 natural
+**Fort:** +9
 
 **Ref:** +12
 
-**Sr:** 25
-
 **Will:** +8
+
+**Dr:** 15/good and piercing
+
+**Sr:** 25
 
 **Offense**
 

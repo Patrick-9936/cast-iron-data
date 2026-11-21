@@ -51,21 +51,25 @@ palpable aura of death._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Defensive abilities:** bone dance
+**Touch:** 14
 
-**Dr:** 5/cold iron
+**Flat-footed:** 14
 
-**Fort:** +5
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural
 
 **Hit points:** 39 (6d6+18)
 
-**Mod:** +3 Dex, +1 dodge, +4 natural
+**Fort:** +5
 
 **Ref:** +8
 
 **Will:** +5
+
+**Defensive abilities:** bone dance
+
+**Dr:** 5/cold iron
 
 **Offense**
 

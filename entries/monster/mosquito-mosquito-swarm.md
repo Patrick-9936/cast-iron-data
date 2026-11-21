@@ -53,21 +53,25 @@ _The droning and spastic movements of this cloud of hungry mosquitoes promise a 
 
 **Experience points:** 800
 
-**Armor class:** 15/15/14
+**Armor class:** 15
 
-**Defensive abilities:** swarm traits
+**Touch:** 15
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 size
 
 **Hit points:** 31 (7d8)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** +1 Dex, +4 size
+**Fort:** +5
 
 **Ref:** +3
 
 **Will:** +3
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
 
 **Offense**
 

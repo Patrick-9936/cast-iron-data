@@ -52,21 +52,25 @@ _Chunks of rock spin about a humanoid form of vibrant green light._
 
 **Experience points:** 12,800
 
-**Armor class:** 22/22/16
+**Armor class:** 22
 
-**Fort:** +16
+**Touch:** 22
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 deflection, +5 Dex, +1 dodge
 
 **Hit points:** 168 (16d10+80)
 
-**Immune:** [elemental](ref/subtype/elemental) traits
-
-**Incorporeal:** present
-
-**Mod:** +6 deflection, +5 Dex, +1 dodge
+**Fort:** +16
 
 **Ref:** +17
 
 **Will:** +9
+
+**Immune:** [elemental](ref/subtype/elemental) traits
+
+**Incorporeal:** present
 
 **Offense**
 

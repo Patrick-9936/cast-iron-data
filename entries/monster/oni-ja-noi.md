@@ -51,19 +51,23 @@ wears elaborate heavy armor, and wields an ornate metal club._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 armor, +2 Dex, +4 natural
 
 **Hit points:** 57 (6d10+24)
 
-**Mod:** +2 armor, +2 Dex, +4 natural
+**Fort:** +9
 
 **Ref:** +7
 
-**Regen:** 3 (acid or fire)
-
 **Will:** +3
+
+**Regen:** 3 (acid or fire)
 
 **Offense**
 

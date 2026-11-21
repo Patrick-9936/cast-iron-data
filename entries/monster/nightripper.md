@@ -54,27 +54,31 @@ jackal-legged albino demon._
 
 **Experience points:** 1,228,800
 
-**Armor class:** 42/25/31
+**Armor class:** 42
 
-**Dr:** 15/cold iron and good
+**Touch:** 25
 
-**Fort:** +27
+**Flat-footed:** 31
+
+**AC modifiers:** +4 deflection, +11 Dex, +17 natural
 
 **Hit points:** 526 (27d10+378)
 
-**Immune:** charm and compulsion effects, death effects, electricity, poison
-
-**Mod:** +4 deflection, +11 Dex, +17 natural
+**Fort:** +27
 
 **Ref:** +30
+
+**Will:** +25
+
+**Dr:** 15/cold iron and good
+
+**Immune:** charm and compulsion effects, death effects, electricity, poison
 
 **Regen:** 15 (good weapons or spells)
 
 **Resist:** acid 30, cold 30, fire 30
 
 **Sr:** 35
-
-**Will:** +25
 
 **Offense**
 

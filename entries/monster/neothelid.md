@@ -50,21 +50,25 @@ head rises like a snake's._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/4/30
+**Armor class:** 30
 
-**Dr:** 10/cold iron
+**Touch:** 4
 
-**Fort:** +15
+**Flat-footed:** 30
+
+**AC modifiers:** -2 Dex, +26 natural, -4 size
 
 **Hit points:** 230 (20d8+140)
 
-**Mod:** -2 Dex, +26 natural, -4 size
+**Fort:** +15
 
 **Ref:** +4
 
-**Sr:** 26
-
 **Will:** +16
+
+**Dr:** 10/cold iron
+
+**Sr:** 26
 
 **Offense**
 

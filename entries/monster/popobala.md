@@ -59,7 +59,21 @@ eye in its noseless face._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/17/22
+**Armor class:** 29
+
+**Touch:** 17
+
+**Flat-footed:** 22
+
+**AC modifiers:** +6 Dex, +1 dodge, +12 natural
+
+**Hit points:** 225 (18d10+126)
+
+**Fort:** +12
+
+**Ref:** +17
+
+**Will:** +14
 
 **Defensive abilities:** harvester of sorrow
 
@@ -67,17 +81,7 @@ eye in its noseless face._
 
 **Fh:** 10 (see harvester of sorrow)
 
-**Fort:** +12
-
-**Hit points:** 225 (18d10+126)
-
 **Immune:** disease, nausea, poison, sickened, stunning
-
-**Mod:** +6 Dex, +1 dodge, +12 natural
-
-**Ref:** +17
-
-**Will:** +14
 
 **Offense**
 

@@ -46,13 +46,17 @@ creature possesses a blunt, bony protrusion._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Fort:** +11
+**Touch:** 9
+
+**Flat-footed:** 17
+
+**AC modifiers:** +8 natural, -1 size
 
 **Hit points:** 59 (7d8+28)
 
-**Mod:** +8 natural, -1 size
+**Fort:** +11
 
 **Ref:** +5
 

@@ -51,25 +51,29 @@ skin._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/20/18
+**Armor class:** 24
 
-**Dr:** 10/cold iron
+**Touch:** 20
 
-**Fort:** +11
+**Flat-footed:** 18
+
+**AC modifiers:** +4 armor, +4 deflection, +5 Dex, +1 dodge
 
 **Hit points:** 119 (14d6+70)
 
-**Immune:** blindness, exhaustion, fatigue, fire
-
-**Mod:** +4 armor, +4 deflection, +5 Dex, +1 dodge
+**Fort:** +11
 
 **Ref:** +14
+
+**Will:** +11
+
+**Dr:** 10/cold iron
+
+**Immune:** blindness, exhaustion, fatigue, fire
 
 **Sr:** 21
 
 **Weaknesses:** darkness powerlessness
-
-**Will:** +11
 
 **Offense**
 

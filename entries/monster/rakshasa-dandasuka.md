@@ -51,21 +51,25 @@ mouth and fangs._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/16/14
+**Armor class:** 19
 
-**Dr:** 5/good or piercing
+**Touch:** 16
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +1 dodge, +3 natural, +1 size
 
 **Hit points:** 51 (6d10+18)
 
-**Mod:** +4 Dex, +1 dodge, +3 natural, +1 size
+**Fort:** +5
 
 **Ref:** +9
 
-**Sr:** 20
-
 **Will:** +6
+
+**Dr:** 5/good or piercing
+
+**Sr:** 20
 
 **Offense**
 

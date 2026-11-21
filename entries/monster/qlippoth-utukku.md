@@ -51,23 +51,27 @@ tentacles stretch from its shoulders._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/15/16
+**Armor class:** 21
 
-**Dr:** 10/cold iron or lawful
+**Touch:** 15
 
-**Fort:** +9
+**Flat-footed:** 16
+
+**AC modifiers:** +5 Dex, +6 natural
 
 **Hit points:** 103 (9d10+54)
 
-**Immune:** cold, mind-affecting effects, poison
-
-**Mod:** +5 Dex, +6 natural
+**Fort:** +9
 
 **Ref:** +11
 
-**Sr:** 19
-
 **Will:** +11
+
+**Dr:** 10/cold iron or lawful
+
+**Immune:** cold, mind-affecting effects, poison
+
+**Sr:** 19
 
 **Offense**
 

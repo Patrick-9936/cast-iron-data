@@ -46,19 +46,23 @@ _A bloated, red belly dangles beneath the furiously beating wings of this massiv
 
 **Experience points:** 2,400
 
-**Armor class:** 19/17/12
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 17
+
+**Flat-footed:** 12
+
+**AC modifiers:** +7 Dex, +2 natural
 
 **Hit points:** 60 (8d8+24)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +7 Dex, +2 natural
+**Fort:** +9
 
 **Ref:** +9
 
 **Will:** +3
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

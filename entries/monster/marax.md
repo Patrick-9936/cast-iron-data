@@ -48,13 +48,17 @@ scythe-like claws, and spiked tail, no part of this beast offers mercy._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/11/23
+**Armor class:** 25
 
-**Fort:** +17
+**Touch:** 11
+
+**Flat-footed:** 23
+
+**AC modifiers:** +2 Dex, +14 natural, -1 size
 
 **Hit points:** 152 (16d8+80)
 
-**Mod:** +2 Dex, +14 natural, -1 size
+**Fort:** +17
 
 **Ref:** +12
 

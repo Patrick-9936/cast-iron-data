@@ -47,23 +47,27 @@ oversized ears stick out from the sides of its head, and it wears its long earlo
 
 **Experience points:** 800
 
-**Armor class:** 15/14/11
+**Armor class:** 15
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +3
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 natural
 
 **Hit points:** 27 (5d6+10)
 
-**Mod:** +4 Dex, +1 natural
+**Fort:** +3
 
 **Ref:** +8
+
+**Will:** +5
+
+**Dr:** 5/cold iron
 
 **Vulner:** sonic
 
 **Weaknesses:** music susceptibility
-
-**Will:** +5
 
 **Offense**
 

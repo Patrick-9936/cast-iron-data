@@ -48,19 +48,23 @@ strange wheel-appendage._
 
 **Experience points:** 800
 
-**Armor class:** 14/14/10
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 10
+
+**AC modifiers:** +3 Dex, +1 dodge
 
 **Hit points:** 30 (4d10+8)
 
-**Mod:** +3 Dex, +1 dodge
+**Fort:** +3
 
 **Ref:** +7
 
-**Weaknesses:** cowardly, easily hampered
-
 **Will:** +5
+
+**Weaknesses:** cowardly, easily hampered
 
 **Offense**
 

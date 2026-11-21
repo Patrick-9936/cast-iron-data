@@ -48,27 +48,31 @@ to scorch the air as it moves._
 
 **Experience points:** 800
 
-**Armor class:** 20/18/12
+**Armor class:** 20
+
+**Touch:** 18
+
+**Flat-footed:** 12
+
+**AC modifiers:** +7 Dex, +1 dodge, +2 natural
+
+**Hit points:** 26 (4d10+4)
+
+**Fort:** +5
+
+**Ref:** +11
+
+**Will:** +2; +4 vs. poison
 
 **Dr:** 5/magic
 
 **Evasion:** present
 
-**Fort:** +5
-
-**Hit points:** 26 (4d10+4)
-
 **Improved uncanny dodge:** present
-
-**Mod:** +7 Dex, +1 dodge, +2 natural
-
-**Ref:** +11
 
 **Resist:** electricity 10, fire 10
 
 **Uncanny dodge:** present
-
-**Will:** +2; +4 vs. poison
 
 **Offense**
 

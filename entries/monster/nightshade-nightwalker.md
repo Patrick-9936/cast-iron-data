@@ -52,25 +52,29 @@ arms end in massive blades._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/10/29
+**Armor class:** 31
 
-**Dr:** 15/good and silver
+**Touch:** 10
 
-**Fort:** +14
+**Flat-footed:** 29
+
+**AC modifiers:** +2 Dex, +21 natural, -2 size
 
 **Hit points:** 241 (21d8+147)
 
-**Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +21 natural, -2 size
+**Fort:** +14
 
 **Ref:** +11
+
+**Will:** +19
+
+**Dr:** 15/good and silver
+
+**Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Sr:** 27
 
 **Weaknesses:** light aversion
-
-**Will:** +19
 
 **Offense**
 

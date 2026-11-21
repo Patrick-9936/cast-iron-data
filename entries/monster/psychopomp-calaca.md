@@ -52,23 +52,27 @@ creature's face is hidden by an intricately decorated skull mask._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/13/18
+**Armor class:** 21
 
-**Dr:** 5/adamantine
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +8 natural
 
 **Hit points:** 103 (11d10+44)
 
-**Immune:** death effects, disease, poison
-
-**Mod:** +3 Dex, +8 natural
+**Fort:** +7
 
 **Ref:** +10
 
-**Resist:** cold 10, electricity 10
-
 **Will:** +11
+
+**Dr:** 5/adamantine
+
+**Immune:** death effects, disease, poison
+
+**Resist:** cold 10, electricity 10
 
 **Offense**
 

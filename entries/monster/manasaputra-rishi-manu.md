@@ -52,23 +52,27 @@ given form._
 
 **Experience points:** 38,400
 
-**Armor class:** 31/31/24
+**Armor class:** 31
 
-**Fort:** +11
+**Touch:** 31
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 deflection, +6 Dex, +1 dodge, +10 soul armor
 
 **Hit points:** 189 (18d10+90)
 
-**Immune:** calling, disease, poison
-
-**Mod:** +4 deflection, +6 Dex, +1 dodge, +10 soul armor
+**Fort:** +11
 
 **Ref:** +17
+
+**Will:** +16; +2 vs. enchantment
+
+**Immune:** calling, disease, poison
 
 **Resist:** adaptive 10
 
 **Sr:** 25
-
-**Will:** +16; +2 vs. enchantment
 
 **Offense**
 

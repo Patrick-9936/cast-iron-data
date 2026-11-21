@@ -47,19 +47,23 @@ wafting tendrils of smoke._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/17
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +6 natural, +1 size
 
 **Hit points:** 39 (6d8+12)
 
-**Immune:** acid, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +6 natural, +1 size
+**Fort:** +7
 
 **Ref:** +2
 
 **Will:** +2
+
+**Immune:** acid, [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

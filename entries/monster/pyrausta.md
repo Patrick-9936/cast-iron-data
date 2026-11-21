@@ -50,25 +50,29 @@ form glows bright with an inner fire._
 
 **Experience points:** 100
 
-**Armor class:** 16/16/14
+**Armor class:** 16
 
-**Fh:** 1
+**Touch:** 16
 
-**Fort:** +1
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 size
 
 **Hit points:** 5 (1d12-1)
 
-**Immune:** fire, paralysis, sleep
-
-**Mod:** +2 Dex, +4 size
+**Fort:** +1
 
 **Ref:** +4
+
+**Will:** +3
+
+**Fh:** 1
+
+**Immune:** fire, paralysis, sleep
 
 **Vulner:** cold
 
 **Weaknesses:** heart of flame
-
-**Will:** +3
 
 **Offense**
 

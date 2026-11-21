@@ -53,25 +53,29 @@ beautiful, despite having no flesh._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Dr:** 5/adamantine
+**Touch:** 13
 
-**Fort:** +5
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 51 (6d10+18)
 
-**Immune:** death effects, disease, poison
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +5
 
 **Ref:** +8
+
+**Will:** +9
+
+**Dr:** 5/adamantine
+
+**Immune:** death effects, disease, poison
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 16
-
-**Will:** +9
 
 **Offense**
 

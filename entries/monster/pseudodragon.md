@@ -49,21 +49,25 @@ tipped with a barbed stinger._
 
 **Experience points:** 400
 
-**Armor class:** 16/14/14
+**Armor class:** 16
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +2 natural, +2 size
 
 **Hit points:** 15 (2d12+2)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +2 Dex, +2 natural, +2 size
+**Fort:** +4
 
 **Ref:** +5
 
-**Sr:** 12
-
 **Will:** +4
+
+**Immune:** paralysis, sleep
+
+**Sr:** 12
 
 **Offense**
 

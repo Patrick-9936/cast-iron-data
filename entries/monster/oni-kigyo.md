@@ -52,23 +52,27 @@ staring eyes and hideous fangs._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +1 dodge, +6 natural
 
 **Hit points:** 66 (7d10+28)
 
-**Immune:** cold
-
-**Mod:** +2 Dex, +1 dodge, +6 natural
+**Fort:** +6
 
 **Ref:** +7
+
+**Will:** +6
+
+**Immune:** cold
 
 **Regen:** 5 (electricity or good spells)
 
 **Sr:** 17
-
-**Will:** +6
 
 **Offense**
 

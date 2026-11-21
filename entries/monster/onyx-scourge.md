@@ -54,21 +54,25 @@ a mouth._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/10/28
+**Armor class:** 30
 
-**Dr:** 10/-
+**Touch:** 10
 
-**Fort:** +18
+**Flat-footed:** 28
+
+**AC modifiers:** +2 Dex, +20 natural, -2 size
 
 **Hit points:** 231 (22d10+110)
 
-**Immune:** death effects, elemental traits, energy drain, negative energy
-
-**Mod:** +2 Dex, +20 natural, -2 size
+**Fort:** +18
 
 **Ref:** +11
 
 **Will:** +15
+
+**Dr:** 10/-
+
+**Immune:** death effects, elemental traits, energy drain, negative energy
 
 **Offense**
 

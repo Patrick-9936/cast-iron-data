@@ -52,21 +52,25 @@ shimmering with magical energy._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/11/22
+**Armor class:** 25
 
-**Fh:** 5
+**Touch:** 11
 
-**Fort:** +7
+**Flat-footed:** 22
+
+**AC modifiers:** +3 Dex, +14 natural, -2 size
 
 **Hit points:** 137 (15d10+55)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +14 natural, -2 size
+**Fort:** +7
 
 **Ref:** +10
 
 **Will:** +5
+
+**Fh:** 5
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

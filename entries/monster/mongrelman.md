@@ -48,13 +48,17 @@ shape._
 
 **Experience points:** 400
 
-**Armor class:** 13/11/12
+**Armor class:** 13
 
-**Fort:** +2
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 natural
 
 **Hit points:** 15 (2d10+4)
 
-**Mod:** +1 Dex, +2 natural
+**Fort:** +2
 
 **Ref:** +4
 

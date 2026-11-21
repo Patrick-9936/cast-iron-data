@@ -54,27 +54,31 @@ her clothing and staff._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/13/25
+**Armor class:** 28
 
-**Dr:** 10/adamantine
+**Touch:** 13
 
-**Fort:** +10
+**Flat-footed:** 25
+
+**AC modifiers:** +8 armor, +3 Dex, +5 natural, +2 shield
 
 **Hit points:** 171 (18d10+72)
 
-**Immune:** death effects, disease, poison
-
-**Mod:** +8 armor, +3 Dex, +5 natural, +2 shield
+**Fort:** +10
 
 **Ref:** +15
+
+**Will:** +16
+
+**Dr:** 10/adamantine
+
+**Immune:** death effects, disease, poison
 
 **Regen:** 5 (acid or fire)
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 24
-
-**Will:** +16
 
 **Offense**
 

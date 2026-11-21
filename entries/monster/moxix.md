@@ -54,25 +54,29 @@ stains its body._
 
 **Experience points:** 307,200
 
-**Armor class:** 34/9/31
+**Armor class:** 34
+
+**Touch:** 9
+
+**Flat-footed:** 31
+
+**AC modifiers:** +3 Dex, +25 natural, -4 size
+
+**Hit points:** 379 (23d10+253)
+
+**Fort:** +24
+
+**Ref:** +10
+
+**Will:** +22
 
 **Defensive abilities:** gush
 
 **Dr:** 15/adamantine and good
 
-**Fort:** +24
-
-**Hit points:** 379 (23d10+253)
-
 **Immune:** electricity, poison
 
-**Mod:** +3 Dex, +25 natural, -4 size
-
-**Ref:** +10
-
 **Resist:** acid 20, cold 20, fire 20
-
-**Will:** +22
 
 **Offense**
 

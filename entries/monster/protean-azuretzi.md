@@ -56,27 +56,31 @@ reptilian maw is filled with tiny, sharp teeth._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/16/13
+**Armor class:** 18
+
+**Touch:** 16
+
+**Flat-footed:** 13
+
+**AC modifiers:** +5 Dex, +2 natural, +1 size
+
+**Hit points:** 57 (6d10+24)
+
+**Fort:** +6
+
+**Ref:** +10
+
+**Will:** +7
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 5/lawful
 
-**Fort:** +6
-
-**Hit points:** 57 (6d10+24)
-
 **Immune:** acid, polymorph
-
-**Mod:** +5 Dex, +2 natural, +1 size
-
-**Ref:** +10
 
 **Resist:** electricity 10, sonic 10
 
 **Sr:** 16
-
-**Will:** +7
 
 **Offense**
 

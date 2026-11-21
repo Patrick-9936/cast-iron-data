@@ -51,19 +51,23 @@ of beady eyes._
 
 **Experience points:** 800
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Defensive abilities:** swarm traits
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 27 (5d8+5)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +5
 
 **Ref:** +8
 
 **Will:** +3
+
+**Defensive abilities:** swarm traits
 
 **Offense**
 

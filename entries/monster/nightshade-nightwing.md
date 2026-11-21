@@ -51,25 +51,29 @@ blackest night._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/12/25
+**Armor class:** 29
 
-**Dr:** 15/good and silver
+**Touch:** 12
 
-**Fort:** +12
+**Flat-footed:** 25
+
+**AC modifiers:** +4 Dex, +17 natural, -2 size
 
 **Hit points:** 195 (17d8+119)
 
-**Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +17 natural, -2 size
+**Fort:** +12
 
 **Ref:** +11
+
+**Will:** +17
+
+**Dr:** 15/good and silver
+
+**Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Sr:** 25
 
 **Weaknesses:** light aversion
-
-**Will:** +17
 
 **Offense**
 

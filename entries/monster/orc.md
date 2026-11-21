@@ -51,21 +51,25 @@ greasy black hair._
 
 **Experience points:** 135
 
-**Armor class:** 13/10/13
+**Armor class:** 13
 
-**Ferocity:** present
+**Touch:** 10
 
-**Fort:** +3
+**Flat-footed:** 13
+
+**AC modifiers:** +3 armor
 
 **Hit points:** 6 (1d10+1)
 
-**Mod:** +3 armor
+**Fort:** +3
 
 **Ref:** +0
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** -1
+
+**Ferocity:** present
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

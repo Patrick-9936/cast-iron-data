@@ -52,32 +52,36 @@ fanged mouth._
 
 **Experience points:** 1,638,400
 
-**Armor class:** 44/32/31
+**Armor class:** 44
+
+**Touch:** 32
+
+**Flat-footed:** 31
+
+**AC modifiers:** +12 armor, +9 deflection, +12 Dex, +1 dodge
+
+**Hit points:** 546 (28d10+392)
+
+**Fort:** +34
+
+**Ref:** +27
+
+**Will:** +31
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, reflect compulsion,
 soul shell
 
 **Dr:** 15/cold iron and lawful
 
-**Fort:** +34
-
-**Hit points:** 546 (28d10+392)
-
 **Immune:** cold, death effects, mind-affecting effects, poison
 
 **Incorporeal:** present
-
-**Mod:** +12 armor, +9 deflection, +12 Dex, +1 dodge
-
-**Ref:** +27
 
 **Regen:** 15 (lawful)
 
 **Resist:** acid 30, electricity 30, fire 30
 
 **Sr:** 36
-
-**Will:** +31
 
 **Offense**
 

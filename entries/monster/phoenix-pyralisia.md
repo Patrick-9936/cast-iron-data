@@ -54,29 +54,33 @@ billowing behind it._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/13/26
+**Armor class:** 33
+
+**Touch:** 13
+
+**Flat-footed:** 26
+
+**AC modifiers:** +6 Dex, +1 dodge, +20 natural, -4 size
+
+**Hit points:** 287 (23d10+161)
+
+**Fort:** +20
+
+**Ref:** +19
+
+**Will:** +14
 
 **Defensive abilities:** self-resurrection
 
 **Dr:** 15/good
 
-**Fort:** +20
-
-**Hit points:** 287 (23d10+161)
-
 **Immune:** fire
-
-**Mod:** +6 Dex, +1 dodge, +20 natural, -4 size
-
-**Ref:** +19
 
 **Regen:** 10 (cold or good)
 
 **Sr:** 29
 
 **Vulner:** cold
-
-**Will:** +14
 
 **Offense**
 

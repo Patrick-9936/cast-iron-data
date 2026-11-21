@@ -50,19 +50,23 @@ dripping sludge._
 
 **Experience points:** 400
 
-**Armor class:** 16/10/16
+**Armor class:** 16
 
-**Fort:** +4
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** -1 Dex, +6 natural, +1 size
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** acid, elemental traits
-
-**Mod:** -1 Dex, +6 natural, +1 size
+**Fort:** +4
 
 **Ref:** +2
 
 **Will:** +0
+
+**Immune:** acid, elemental traits
 
 **Offense**
 
@@ -144,19 +148,23 @@ powerful mud elementals tend to have worm-like, reptilian, or frog-like forms.
 
 **Experience points:** 800
 
-**Armor class:** 16/10/16
+**Armor class:** 16
 
-**Fort:** +6
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** acid, elemental traits
-
-**Mod:** +6 natural
+**Fort:** +6
 
 **Ref:** +4
 
 **Will:** +1
+
+**Immune:** acid, elemental traits
 
 **Offense**
 
@@ -205,21 +213,25 @@ powerful mud elementals tend to have worm-like, reptilian, or frog-like forms.
 
 **Experience points:** 1,600
 
-**Armor class:** 17/10/16
+**Armor class:** 17
 
-**Dr:** 5/-
+**Touch:** 10
 
-**Fort:** +9
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +7 natural, -1 size
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** acid, elemental traits
-
-**Mod:** +1 Dex, +7 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
 
 **Will:** +2
+
+**Dr:** 5/-
+
+**Immune:** acid, elemental traits
 
 **Offense**
 
@@ -272,21 +284,25 @@ powerful mud elementals tend to have worm-like, reptilian, or frog-like forms.
 
 **Experience points:** 3,200
 
-**Armor class:** 20/12/16
+**Armor class:** 20
 
-**Dr:** 5/-
+**Touch:** 12
 
-**Fort:** +11
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +1 dodge, +8 natural, -2 size
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** acid, elemental traits
-
-**Mod:** +3 Dex, +1 dodge, +8 natural, -2 size
+**Fort:** +11
 
 **Ref:** +10
 
 **Will:** +3
+
+**Dr:** 5/-
+
+**Immune:** acid, elemental traits
 
 **Offense**
 
@@ -339,21 +355,25 @@ powerful mud elementals tend to have worm-like, reptilian, or frog-like forms.
 
 **Experience points:** 6,400
 
-**Armor class:** 22/13/17
+**Armor class:** 22
 
-**Dr:** 10/-
+**Touch:** 13
 
-**Fort:** +12
+**Flat-footed:** 17
+
+**AC modifiers:** +4 Dex, +1 dodge, +9 natural, -2 size
 
 **Hit points:** 123 (13d10+52)
 
-**Immune:** acid, elemental traits
-
-**Mod:** +4 Dex, +1 dodge, +9 natural, -2 size
+**Fort:** +12
 
 **Ref:** +14
 
 **Will:** +4
+
+**Dr:** 10/-
+
+**Immune:** acid, elemental traits
 
 **Offense**
 
@@ -407,21 +427,25 @@ Lightning Reflexes, Power Attack
 
 **Experience points:** 12,800
 
-**Armor class:** 23/14/17
+**Armor class:** 23
 
-**Dr:** 10/-
+**Touch:** 14
 
-**Fort:** +14
+**Flat-footed:** 17
+
+**AC modifiers:** +5 Dex, +1 dodge, +9 natural, -2 size
 
 **Hit points:** 152 (16d10+64)
 
-**Immune:** acid, elemental traits
-
-**Mod:** +5 Dex, +1 dodge, +9 natural, -2 size
+**Fort:** +14
 
 **Ref:** +17
 
 **Will:** +5
+
+**Dr:** 10/-
+
+**Immune:** acid, elemental traits
 
 **Offense**
 

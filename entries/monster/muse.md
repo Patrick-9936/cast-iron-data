@@ -51,23 +51,27 @@ _This beautiful, woman moves with impossible grace, a knowing smile on her lips.
 
 **Experience points:** 76,800
 
-**Armor class:** 32/28/23
+**Armor class:** 32
+
+**Touch:** 28
+
+**Flat-footed:** 23
+
+**AC modifiers:** +4 armor, +9 deflection, +8 Dex
+
+**Hit points:** 229 (17d6+170)
+
+**Fort:** +19
+
+**Ref:** +27
+
+**Will:** +21
 
 **Defensive abilities:** muse's ward, unearthly grace
 
 **Dr:** 15/cold iron
 
-**Fort:** +19
-
-**Hit points:** 229 (17d6+170)
-
 **Immune:** sonic
-
-**Mod:** +4 armor, +9 deflection, +8 Dex
-
-**Ref:** +27
-
-**Will:** +21
 
 **Offense**
 

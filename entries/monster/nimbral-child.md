@@ -51,25 +51,29 @@ a burning void within its head._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/20/21
+**Armor class:** 26
 
-**Defensive abilities:** dark nimbus
+**Touch:** 20
 
-**Fort:** +8
+**Flat-footed:** 21
+
+**AC modifiers:** +5 deflection, +4 Dex, +1 dodge, +6 natural
 
 **Hit points:** 133 (14d10+56)
 
-**Immune:** blindness, cold, poison
-
-**Mod:** +5 deflection, +4 Dex, +1 dodge, +6 natural
+**Fort:** +8
 
 **Ref:** +15
+
+**Will:** +13
+
+**Defensive abilities:** dark nimbus
+
+**Immune:** blindness, cold, poison
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +13
 
 **Offense**
 

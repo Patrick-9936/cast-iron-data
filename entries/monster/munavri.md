@@ -56,21 +56,25 @@ _Jade armor covers this lean albino humanoid, and her pale eyes have an eerie gl
 
 **Experience points:** 400
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Fort:** +2
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 armor, +1 Dex
 
 **Hit points:** 11 (1d8+3)
 
-**Mod:** +6 armor, +1 Dex
+**Fort:** +2
 
 **Ref:** +3
+
+**Will:** +4
 
 **Sr:** 9
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +4
 
 **Offense**
 

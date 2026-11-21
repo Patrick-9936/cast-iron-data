@@ -51,21 +51,25 @@ exaggerated features._
 
 **Experience points:** 51,200
 
-**Armor class:** 28/13/24
+**Armor class:** 28
 
-**Dr:** 15/good and piercing
+**Touch:** 13
 
-**Fort:** +18
+**Flat-footed:** 24
+
+**AC modifiers:** +3 Dex, +1 dodge, +15 natural, -1 size
 
 **Hit points:** 225 (18d10+126)
 
-**Mod:** +3 Dex, +1 dodge, +15 natural, -1 size
+**Fort:** +18
 
 **Ref:** +9
 
-**Sr:** 30
-
 **Will:** +12
+
+**Dr:** 15/good and piercing
+
+**Sr:** 30
 
 **Offense**
 

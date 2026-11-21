@@ -55,21 +55,25 @@ one-eyed humanoid wields an equally massive flat club._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/14/25
+**Armor class:** 29
 
-**Defensive abilities:** bravery +3
+**Touch:** 14
 
-**Ferocity:** present
+**Flat-footed:** 25
 
-**Fort:** +19
+**AC modifiers:** +6 armor, +1 deflection, +3 Dex, +1 dodge, +9 natural, -1 size
 
 **Hit points:** 210 (10d8+10d10+110\~20)
 
-**Mod:** +6 armor, +1 deflection, +3 Dex, +1 dodge, +9 natural, -1 size
+**Fort:** +19
 
 **Ref:** +11
 
 **Will:** +8; +3 vs. fear
+
+**Defensive abilities:** bravery +3
+
+**Ferocity:** present
 
 **Offense**
 

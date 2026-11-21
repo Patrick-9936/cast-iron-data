@@ -51,21 +51,25 @@ with a toothy mouth._
 
 **Experience points:** 600
 
-**Armor class:** 16/15/13
+**Armor class:** 16
 
-**Evasion:** present
+**Touch:** 15
 
-**Fort:** +4
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 dodge, +1 natural, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** disease, poison
-
-**Mod:** +2 Dex, +1 dodge, +1 natural, +2 size
+**Fort:** +4
 
 **Ref:** +5
 
 **Will:** +1
+
+**Evasion:** present
+
+**Immune:** disease, poison
 
 **Offense**
 

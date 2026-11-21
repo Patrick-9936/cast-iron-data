@@ -56,23 +56,27 @@ monstrosity._
 
 **Experience points:** 51,200
 
-**Armor class:** 33/13/29
+**Armor class:** 33
+
+**Touch:** 13
+
+**Flat-footed:** 29
+
+**AC modifiers:** +3 Dex, +1 dodge, +20 natural, -1 size
+
+**Hit points:** 202 (15d10+120)
+
+**Fort:** +17
+
+**Ref:** +12
+
+**Will:** +8
 
 **Defensive abilities:** exaction
 
 **Dr:** 15/good
 
-**Fort:** +17
-
-**Hit points:** 202 (15d10+120)
-
 **Immune:** cold, critical hits, sneak attacks
-
-**Mod:** +3 Dex, +1 dodge, +20 natural, -1 size
-
-**Ref:** +12
-
-**Will:** +8
 
 **Offense**
 

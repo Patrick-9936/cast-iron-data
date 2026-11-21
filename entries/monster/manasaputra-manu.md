@@ -52,23 +52,27 @@ strangely familiar._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/27/22
+**Armor class:** 27
 
-**Fort:** +9
+**Touch:** 27
+
+**Flat-footed:** 22
+
+**AC modifiers:** +3 deflection, +4 Dex, +1 dodge, +9 soul armor
 
 **Hit points:** 161 (17d10+68)
 
-**Immune:** calling, disease, poison
-
-**Mod:** +3 deflection, +4 Dex, +1 dodge, +9 soul armor
+**Fort:** +9
 
 **Ref:** +14
+
+**Will:** +15; +2 vs. enchantment
+
+**Immune:** calling, disease, poison
 
 **Resist:** adaptive 10
 
 **Sr:** 23
-
-**Will:** +15; +2 vs. enchantment
 
 **Offense**
 

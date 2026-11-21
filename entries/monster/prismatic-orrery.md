@@ -47,21 +47,25 @@ _A series of metal rings rotates around a giant prismatic sphere._
 
 **Experience points:** 25,600
 
-**Armor class:** 24/8/22
+**Armor class:** 24
 
-**Defensive abilities:** all-around vision, dispel resistance, [hardness](ref/umr/hardness) 10
+**Touch:** 8
 
-**Fort:** +6
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +16 natural, -4 size
 
 **Hit points:** 159 (18d10+60)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +16 natural, -4 size
+**Fort:** +6
 
 **Ref:** +8
 
 **Will:** +6
+
+**Defensive abilities:** all-around vision, dispel resistance, [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

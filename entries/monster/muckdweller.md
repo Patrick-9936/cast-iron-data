@@ -49,13 +49,17 @@ body and its forelimbs look like hands._
 
 **Experience points:** 100
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 natural, +1 size
 
 **Hit points:** 5 (1d10)
 
-**Mod:** +2 Dex, +1 natural, +1 size
+**Fort:** +2
 
 **Ref:** +4
 

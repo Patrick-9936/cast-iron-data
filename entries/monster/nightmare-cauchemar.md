@@ -49,13 +49,17 @@ _This towering, burning equine stands upon smoking hooves. Hellfire shimmers in 
 
 **Experience points:** 12,800
 
-**Armor class:** 26/10/24
+**Armor class:** 26
 
-**Fort:** +14
+**Touch:** 10
+
+**Flat-footed:** 24
+
+**AC modifiers:** +2 Dex, +16 natural, -2 size
 
 **Hit points:** 147 (14d10+70)
 
-**Mod:** +2 Dex, +16 natural, -2 size
+**Fort:** +14
 
 **Ref:** +11
 

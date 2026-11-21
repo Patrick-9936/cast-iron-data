@@ -51,19 +51,23 @@ from its narrow face._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Fort:** +6
+**Touch:** 14
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +6 natural
 
 **Hit points:** 76 (9d10+27)
 
-**Mod:** +4 Dex, +6 natural
+**Fort:** +6
 
 **Ref:** +10
 
-**Sr:** 17
-
 **Will:** +10
+
+**Sr:** 17
 
 **Offense**
 

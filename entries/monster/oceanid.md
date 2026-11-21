@@ -55,29 +55,33 @@ body._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/15/16
+**Armor class:** 21
+
+**Touch:** 15
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +1 dodge, +6 natural
+
+**Hit points:** 76 (9d6+45)
+
+**Fort:** +8
+
+**Ref:** +10
+
+**Will:** +10
 
 **Dr:** 10/cold iron
 
 **Fh:** 10 (in salt water only)
 
-**Fort:** +8
-
-**Hit points:** 76 (9d6+45)
-
 **Immune:** acid
-
-**Mod:** +4 Dex, +1 dodge, +6 natural
-
-**Ref:** +10
 
 **Resist:** cold 30
 
 **Vulner:** fire
 
 **Weaknesses:** water dependency, water magic
-
-**Will:** +10
 
 **Offense**
 

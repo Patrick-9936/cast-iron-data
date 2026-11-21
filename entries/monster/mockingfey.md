@@ -50,13 +50,17 @@ _This tiny avian has the head of a humanoid and the body of a brilliantly colore
 
 **Experience points:** 400
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Fort:** +2
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 13 (3d6+3)
 
-**Mod:** +3 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +6
 

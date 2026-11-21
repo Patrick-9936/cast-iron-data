@@ -54,27 +54,31 @@ its canyon of a mouth._
 
 **Experience points:** 9,830,400
 
-**Armor class:** 50/30/42
+**Armor class:** 50
+
+**Touch:** 30
+
+**Flat-footed:** 42
+
+**AC modifiers:** +20 deflection, +8 Dex, +20 natural, -8 size
+
+**Hit points:** 740 (40d10+520)
+
+**Fort:** +37
+
+**Ref:** +21
+
+**Will:** +27
 
 **Defensive abilities:** guardian of Jandelay, ward against command, wards of Jandelay
 
 **Dr:** 20/epic
 
-**Fort:** +37
-
-**Hit points:** 740 (40d10+520)
-
 **Immune:** ability damage, disease, energy drain, paralysis, petrification, poison, polymorph
-
-**Mod:** +20 deflection, +8 Dex, +20 natural, -8 size
-
-**Ref:** +21
 
 **Regen:** 35 (acid from a mythic spell or item)
 
 **Sr:** 41
-
-**Will:** +27
 
 **Offense**
 

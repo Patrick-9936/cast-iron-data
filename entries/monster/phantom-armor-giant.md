@@ -50,21 +50,25 @@ _This suit of armor moves with a warrior's deadly skill despite obviously being 
 
 **Experience points:** 1,200
 
-**Armor class:** 18/9/18
+**Armor class:** 18
 
-**Chan Res:** +4
+**Touch:** 9
 
-**Fort:** +3
+**Flat-footed:** 18
+
+**AC modifiers:** +9 armor, -1 size
 
 **Hit points:** 37 (5d8+15)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +9 armor, -1 size
+**Fort:** +3
 
 **Ref:** +1
 
 **Will:** +4
+
+**Chan Res:** +4
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

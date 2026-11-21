@@ -51,21 +51,25 @@ than a colorful silk sarong and a thin, flexible blade worn as a belt._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/17/21
+**Armor class:** 28
 
-**Dr:** 15/good and piercing
+**Touch:** 17
 
-**Fort:** +15
+**Flat-footed:** 21
+
+**AC modifiers:** +6 Dex, +1 dodge, +11 natural
 
 **Hit points:** 178 (17d10+85)
 
-**Mod:** +6 Dex, +1 dodge, +11 natural
+**Fort:** +15
 
 **Ref:** +16
 
-**Sr:** 28
-
 **Will:** +11
+
+**Dr:** 15/good and piercing
+
+**Sr:** 28
 
 **Offense**
 

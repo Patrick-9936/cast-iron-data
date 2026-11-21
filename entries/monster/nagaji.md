@@ -53,13 +53,17 @@ fanged, lipless mouth._
 
 **Experience points:** 200
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Fort:** +1
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +2 Dex, +1 natural
 
 **Hit points:** 10 (1d10)
 
-**Mod:** +2 armor, +2 Dex, +1 natural
+**Fort:** +1
 
 **Ref:** +2
 

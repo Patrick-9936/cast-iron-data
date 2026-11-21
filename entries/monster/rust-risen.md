@@ -47,23 +47,27 @@ _Miscellaneous bits of rusted machinery are fused to the body of this shambling 
 
 **Experience points:** 600
 
-**Armor class:** 15/11/14
+**Armor class:** 15
 
-**Defensive abilities:** absorb electricity
+**Touch:** 11
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +4 natural
+**Fort:** +3
 
 **Ref:** +2
 
-**Weaknesses:** malfunction
-
 **Will:** +4
+
+**Defensive abilities:** absorb electricity
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Weaknesses:** malfunction
 
 **Offense**
 

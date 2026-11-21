@@ -48,23 +48,27 @@ along its back that hold human brains._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/19/18
+**Armor class:** 21
 
-**Dr:** 10/magic
+**Touch:** 19
 
-**Fort:** +9
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +2 natural, +7 insight, -1 size
 
 **Hit points:** 105 (10d8+60)
 
-**Immune:** confusion effects
-
-**Mod:** +3 Dex, +2 natural, +7 insight, -1 size
+**Fort:** +9
 
 **Ref:** +6
 
-**Sr:** 19
-
 **Will:** +11
+
+**Dr:** 10/magic
+
+**Immune:** confusion effects
+
+**Sr:** 19
 
 **Offense**
 

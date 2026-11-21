@@ -54,7 +54,21 @@ noises from the natural world._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/18/22
+**Armor class:** 29
+
+**Touch:** 18
+
+**Flat-footed:** 22
+
+**AC modifiers:** +3 deflection, +6 Dex, +1 dodge, +11 natural, -2 size
+
+**Hit points:** 237 (19d10+133)
+
+**Fort:** +18
+
+**Ref:** +12
+
+**Will:** +17
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, greater
 invisibility
@@ -63,21 +77,11 @@ invisibility
 
 **Fh:** 5
 
-**Fort:** +18
-
-**Hit points:** 237 (19d10+133)
-
 **Immune:** acid, cold
-
-**Mod:** +3 deflection, +6 Dex, +1 dodge, +11 natural, -2 size
-
-**Ref:** +12
 
 **Resist:** electricity 30, fire 30
 
 **Sr:** 26
-
-**Will:** +17
 
 **Offense**
 

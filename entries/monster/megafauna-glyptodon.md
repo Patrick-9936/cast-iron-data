@@ -46,13 +46,17 @@ and a short spiky tail._
 
 **Experience points:** 2,400
 
-**Armor class:** 21/9/21
+**Armor class:** 21
 
-**Fort:** +11
+**Touch:** 9
+
+**Flat-footed:** 21
+
+**AC modifiers:** +12 natural, -1 size
 
 **Hit points:** 67 (9d8+27)
 
-**Mod:** +12 natural, -1 size
+**Fort:** +11
 
 **Ref:** +6
 

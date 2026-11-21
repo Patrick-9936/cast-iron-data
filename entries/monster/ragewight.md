@@ -48,20 +48,24 @@ _This desiccated corpse wields a greatsword, its eyes blazing with eerie red lig
 
 **Experience points:** 2,400
 
-**Armor class:** 18/10/16
+**Armor class:** 18
 
-**Fort:** +6
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +8 natural, -2 rage
 
 **Hit points:** 82 (11d8+33)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +8 natural, -2 rage
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +10; +4 morale bonus vs. spells, supernatural abilities, and
 [spell-like abilities](ref/umr/spell-like-abilities)
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

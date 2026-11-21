@@ -51,19 +51,23 @@ tentacles and a number of sharp teeth._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/11/15
+**Armor class:** 16
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +5 natural
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** acid
-
-**Mod:** +1 Dex, +5 natural
+**Fort:** +5
 
 **Ref:** +5
 
 **Will:** +6
+
+**Immune:** acid
 
 **Offense**
 

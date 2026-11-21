@@ -52,25 +52,29 @@ middle of its head._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/13/20
+**Armor class:** 23
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 10
+**Touch:** 13
 
-**Fort:** +4
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +1 dodge, +10 natural
 
 **Hit points:** 131 (13d10+20\~\~40)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +1 dodge, +10 natural
+**Fort:** +4
 
 **Ref:** +6
+
+**Will:** +8
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Vulner:** critical hits and electricity
-
-**Will:** +8
 
 **Offense**
 

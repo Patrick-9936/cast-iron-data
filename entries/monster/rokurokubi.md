@@ -54,23 +54,27 @@ teeth filling her gaping maw._
 
 **Experience points:** 38,400
 
-**Armor class:** 28/16/22
+**Armor class:** 28
 
-**Dr:** 5/cold iron
+**Touch:** 16
 
-**Fort:** +11
+**Flat-footed:** 22
+
+**AC modifiers:** +6 Dex, +12 natural
 
 **Hit points:** 195 (17d10+102)
 
-**Immune:** sleep
-
-**Mod:** +6 Dex, +12 natural
+**Fort:** +11
 
 **Ref:** +16
 
-**Sr:** 25
-
 **Will:** +13
+
+**Dr:** 5/cold iron
+
+**Immune:** sleep
+
+**Sr:** 25
 
 **Offense**
 

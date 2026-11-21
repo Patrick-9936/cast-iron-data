@@ -50,21 +50,25 @@ honey and fruit drape over the bone-white trees of a dead grove buried under hea
 
 **Experience points:** 3,200
 
-**Armor class:** 21/6/21
+**Armor class:** 21
 
-**Fort:** +11
+**Touch:** 6
+
+**Flat-footed:** 21
+
+**AC modifiers:** -2 Dex, +15 natural, -2 size
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** -2 Dex, +15 natural, -2 size
+**Fort:** +11
 
 **Ref:** +1
 
-**Resist:** cold 10, fire 10
-
 **Will:** +7
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Resist:** cold 10, fire 10
 
 **Offense**
 

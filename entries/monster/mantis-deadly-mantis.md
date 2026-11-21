@@ -48,19 +48,23 @@ a meditative, deadly stance._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/6/21
+**Armor class:** 25
 
-**Fort:** +15
+**Touch:** 6
+
+**Flat-footed:** 21
+
+**AC modifiers:** +4 Dex, +19 natural, -8 size
 
 **Hit points:** 152 (16d8+80)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +4 Dex, +19 natural, -8 size
+**Fort:** +15
 
 **Ref:** +9
 
 **Will:** +5
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

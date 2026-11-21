@@ -51,21 +51,25 @@ gapes along its entire front._
 
 **Experience points:** 800
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Defensive abilities:** phantom flesh
+**Touch:** 10
 
-**Fort:** +7
+**Flat-footed:** 15
+
+**AC modifiers:** +5 natural
 
 **Hit points:** 30 (4d8+12)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +5 natural
+**Fort:** +7
 
 **Ref:** +1
 
 **Will:** +1
+
+**Defensive abilities:** phantom flesh
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

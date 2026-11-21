@@ -53,27 +53,31 @@ a different method of inflicting pain._
 
 **Experience points:** 12,800
 
-**Armor class:** 27/17/20
+**Armor class:** 27
+
+**Touch:** 17
+
+**Flat-footed:** 20
+
+**AC modifiers:** +6 Dex, +1 dodge, +10 natural
+
+**Hit points:** 137 (11d10+77)
+
+**Fort:** +14
+
+**Ref:** +13
+
+**Will:** +7
 
 **Defensive abilities:** all-around vision, _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 10/lawful
 
-**Fort:** +14
-
-**Hit points:** 137 (11d10+77)
-
 **Immune:** acid, cold, mind-affecting effects, polymorph effects
-
-**Mod:** +6 Dex, +1 dodge, +10 natural
-
-**Ref:** +13
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 22
-
-**Will:** +7
 
 **Offense**
 

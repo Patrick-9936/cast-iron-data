@@ -51,21 +51,25 @@ many knuckles._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/16/22
+**Armor class:** 28
 
-**Dr:** 15/good and piercing
+**Touch:** 16
 
-**Fort:** +17
+**Flat-footed:** 22
+
+**AC modifiers:** +6 Dex, +12 natural
 
 **Hit points:** 189 (14d10+112)
 
-**Mod:** +6 Dex, +12 natural
+**Fort:** +17
 
 **Ref:** +15
 
-**Sr:** 28
-
 **Will:** +11
+
+**Dr:** 15/good and piercing
+
+**Sr:** 28
 
 **Offense**
 

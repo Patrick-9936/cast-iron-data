@@ -53,21 +53,25 @@ wings fluttering from its shoulders._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/16/15
+**Armor class:** 20
 
-**Fort:** +11
+**Touch:** 16
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 Dex, +4 natural, +1 size
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** electricity, petrification, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +5 Dex, +4 natural, +1 size
+**Fort:** +11
 
 **Ref:** +8
 
-**Resist:** cold 10, sonic 10
-
 **Will:** +7
+
+**Immune:** electricity, petrification, [plant traits](ref/umr/plant-traits)
+
+**Resist:** cold 10, sonic 10
 
 **Offense**
 

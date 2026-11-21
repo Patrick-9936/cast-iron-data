@@ -46,19 +46,23 @@ leonine face._
 
 **Experience points:** 3,200
 
-**Armor class:** 18/8/18
+**Armor class:** 18
 
-**Dr:** 5/-
+**Touch:** 8
 
-**Fort:** +13
+**Flat-footed:** 18
+
+**AC modifiers:** -1 Dex, +10 natural, -1 size
 
 **Hit points:** 85 (9d8+45)
 
-**Mod:** -1 Dex, +10 natural, -1 size
+**Fort:** +13
 
 **Ref:** +5
 
 **Will:** +3
+
+**Dr:** 5/-
 
 **Offense**
 

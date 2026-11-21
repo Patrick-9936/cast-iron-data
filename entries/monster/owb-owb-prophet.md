@@ -53,25 +53,29 @@ liquid shadow._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/16/21
+**Armor class:** 28
+
+**Touch:** 16
+
+**Flat-footed:** 21
+
+**AC modifiers:** +6 Dex, +1 dodge, +12 natural, -1 size
+
+**Hit points:** 184 (16d10+96)
+
+**Fort:** +16
+
+**Ref:** +16
+
+**Will:** +11
 
 **Dr:** 10/magic
 
 **Fh:** 5
 
-**Fort:** +16
-
-**Hit points:** 184 (16d10+96)
-
 **Immune:** bleed, cold, disease, mind-affecting effects, poison
 
-**Mod:** +6 Dex, +1 dodge, +12 natural, -1 size
-
-**Ref:** +16
-
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +11
 
 **Offense**
 

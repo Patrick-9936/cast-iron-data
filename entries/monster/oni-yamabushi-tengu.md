@@ -54,23 +54,27 @@ prodigious nose, and large raven-like wings._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 armor, +4 Dex, +2 natural
 
 **Hit points:** 57 (6d10+24)
 
-**Mod:** +2 armor, +4 Dex, +2 natural
+**Fort:** +9
 
 **Ref:** +9
+
+**Will:** +4; -2 vs. illusion (pattern) spells
 
 **Regen:** 2 (fire or acid)
 
 **Sr:** 16
 
 **Weaknesses:** susceptible to patterns
-
-**Will:** +4; -2 vs. illusion (pattern) spells
 
 **Offense**
 

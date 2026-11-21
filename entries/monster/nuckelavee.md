@@ -56,21 +56,25 @@ of rage and sickness._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/17/15
+**Armor class:** 23
 
-**Dr:** 10/cold iron
+**Touch:** 17
 
-**Fort:** +9
+**Flat-footed:** 15
+
+**AC modifiers:** +7 Dex, +1 dodge, +6 natural, -1 size
 
 **Hit points:** 104 (11d6+66)
 
-**Immune:** disease, poison
-
-**Mod:** +7 Dex, +1 dodge, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +16
 
 **Will:** +10
+
+**Dr:** 10/cold iron
+
+**Immune:** disease, poison
 
 **Offense**
 

@@ -50,25 +50,29 @@ _A thick carpet of moss and vines stretches out from a central tangled mass of p
 
 **Experience points:** 3,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
+
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
+
+**Hit points:** 105 (10d8+60)
+
+**Fort:** +12
+
+**Ref:** +6
+
+**Will:** +7
 
 **Defensive abilities:** creeping cover
 
 **Dr:** 5/slashing
 
-**Fort:** +12
-
-**Hit points:** 105 (10d8+60)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
 
-**Mod:** +3 Dex, +4 natural
-
-**Ref:** +6
-
 **Resist:** fire 10
-
-**Will:** +7
 
 **Offense**
 

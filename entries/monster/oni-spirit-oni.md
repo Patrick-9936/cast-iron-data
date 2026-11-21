@@ -51,19 +51,23 @@ smile full of fangs._
 
 **Experience points:** 600
 
-**Armor class:** 17/16/13
+**Armor class:** 17
 
-**Fh:** 2
+**Touch:** 16
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +1 natural, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Mod:** +4 Dex, +1 natural, +2 size
+**Fort:** +2
 
 **Ref:** +7
 
 **Will:** +4
+
+**Fh:** 2
 
 **Offense**
 

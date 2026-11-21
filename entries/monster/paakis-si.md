@@ -54,13 +54,17 @@ tree trunk as a club._
 
 **Experience points:** 1,600
 
-**Armor class:** 16/14/12
+**Armor class:** 16
 
-**Fort:** +8
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +4 Dex, +2 natural
 
 **Hit points:** 56 (3d8+3d10+27\~6)
 
-**Mod:** +4 Dex, +2 natural
+**Fort:** +8
 
 **Ref:** +10
 

@@ -55,7 +55,21 @@ insubstantial fire._
 
 **Experience points:** 12,800
 
-**Armor class:** 27/15/20
+**Armor class:** 27
+
+**Touch:** 15
+
+**Flat-footed:** 20
+
+**AC modifiers:** +6 Dex, +1 dodge, +12 natural, -2 size
+
+**Hit points:** 149 (13d10+78)
+
+**Fort:** +14
+
+**Ref:** +14
+
+**Will:** +7
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -63,21 +77,11 @@ insubstantial fire._
 
 **Fh:** 5
 
-**Fort:** +14
-
-**Hit points:** 149 (13d10+78)
-
 **Immune:** acid, polymorph
-
-**Mod:** +6 Dex, +1 dodge, +12 natural, -2 size
-
-**Ref:** +14
 
 **Resist:** electricity 10, sonic 10
 
 **Sr:** 22
-
-**Will:** +7
 
 **Offense**
 

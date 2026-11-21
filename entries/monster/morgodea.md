@@ -51,21 +51,25 @@ extending from its palms._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/15/14
+**Armor class:** 19
 
-**Fort:** +4
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +4 natural
 
 **Hit points:** 33 (6d6+12)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +5 Dex, +4 natural
+**Fort:** +4
 
 **Ref:** +10
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +6
+
+**Immune:** mind-affecting effects
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

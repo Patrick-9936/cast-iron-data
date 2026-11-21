@@ -53,33 +53,37 @@ hooves._
 
 **Experience points:** 102,400
 
-**Armor class:** 36/10/32
+**Armor class:** 36
+
+**Touch:** 10
+
+**Flat-footed:** 32
+
+**AC modifiers:** +4 Dex, +26 natural, -4 size
+
+**Hit points:** 302 (16d10+214)
+
+**Fort:** +19
+
+**Ref:** +14
+
+**Will:** +15; +8 vs. mind-affecting effects
 
 **Defensive abilities:** apocalyptic wound
 
 **Dr:** 15/epic
 
-**Fort:** +19
-
 **Fortif:** 50
-
-**Hit points:** 302 (16d10+214)
 
 **Immune:** divination, fear
 
-**Mod:** +4 Dex, +26 natural, -4 size
-
 **P Blood:** nightmare vapor
-
-**Ref:** +14
 
 **Regen:** 10 (cursed weapons)
 
 **Sec Save:** present
 
 **Sr:** 28
-
-**Will:** +15; +8 vs. mind-affecting effects
 
 **Offense**
 

@@ -58,21 +58,25 @@ a curiously sweet smell._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/12/17
+**Armor class:** 19
 
-**Dr:** 5/cold iron
+**Touch:** 12
 
-**Fort:** +6
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +7 natural
 
 **Hit points:** 76 (8d10+32)
 
-**Mod:** +2 Dex, +7 natural
+**Fort:** +6
 
 **Ref:** +10
 
-**Resist:** cold 10, fire 10
-
 **Will:** +8
+
+**Dr:** 5/cold iron
+
+**Resist:** cold 10, fire 10
 
 **Offense**
 

@@ -48,25 +48,29 @@ cap for a head._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/10/16
+**Armor class:** 16
 
-**Dr:** 5/slashing
+**Touch:** 10
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +6 natural
 
 **Hit points:** 37 (5d8+15)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +6 natural
+**Fort:** +7
 
 **Ref:** +1
+
+**Will:** +4
+
+**Dr:** 5/slashing
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Resist:** cold 10, fire 10, sonic 10
 
 **Vulner:** electricity
-
-**Will:** +4
 
 **Offense**
 

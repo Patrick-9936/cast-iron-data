@@ -51,23 +51,27 @@ the ground. A hood of damp moss and crusty bark conceals the monster's face._
 
 **Experience points:** 2,400
 
-**Armor class:** 21/12/19
+**Armor class:** 21
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +2 Dex, +9 natural
 
 **Hit points:** 67 (9d8+27)
 
-**Immune:** [plant traits](ref/umr/plant-traits), poison
-
-**Mod:** +2 Dex, +9 natural
+**Fort:** +9
 
 **Ref:** +7
+
+**Will:** +5
+
+**Immune:** [plant traits](ref/umr/plant-traits), poison
 
 **Regen:** 5 (acid)
 
 **Resist:** electricity 10, fire 10
-
-**Will:** +5
 
 **Offense**
 

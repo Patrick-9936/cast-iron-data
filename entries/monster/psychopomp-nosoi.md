@@ -53,23 +53,27 @@ _This strange black bird wears a leather long-nosed mask like a plague doctor._
 
 **Experience points:** 600
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Dr:** 2/adamantine
+**Touch:** 15
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** death effects, disease, poison
-
-**Mod:** +3 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +6
 
-**Resist:** cold 10, electricity 10
-
 **Will:** +4
+
+**Dr:** 2/adamantine
+
+**Immune:** death effects, disease, poison
+
+**Resist:** cold 10, electricity 10
 
 **Offense**
 

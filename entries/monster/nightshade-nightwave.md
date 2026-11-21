@@ -51,25 +51,29 @@ island heaved up from below._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/5/33
+**Armor class:** 36
 
-**Dr:** 15/good and silver
+**Touch:** 5
 
-**Fort:** +18
+**Flat-footed:** 33
+
+**AC modifiers:** +3 Dex, +31 natural, -8 size
 
 **Hit points:** 391 (29d8+261)
 
-**Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +31 natural, -8 size
+**Fort:** +18
 
 **Ref:** +16
+
+**Will:** +25
+
+**Dr:** 15/good and silver
+
+**Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Sr:** 29
 
 **Weaknesses:** light aversion
-
-**Will:** +25
 
 **Offense**
 

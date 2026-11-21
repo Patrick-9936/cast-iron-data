@@ -48,19 +48,23 @@ thin, rat-like tail twitches behind it._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/19/19
+**Armor class:** 28
 
-**Dr:** 10/cold iron and piercing
+**Touch:** 19
 
-**Fort:** +12
+**Flat-footed:** 19
+
+**AC modifiers:** +8 Dex, +1 dodge, +9 natural
 
 **Hit points:** 187 (15d10+105)
 
-**Mod:** +8 Dex, +1 dodge, +9 natural
+**Fort:** +12
 
 **Ref:** +17
 
 **Will:** +11
+
+**Dr:** 10/cold iron and piercing
 
 **Offense**
 

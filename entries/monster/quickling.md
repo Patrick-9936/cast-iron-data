@@ -48,7 +48,21 @@ the thing darts from sight._
 
 **Experience points:** 800
 
-**Armor class:** 20/19/12
+**Armor class:** 20
+
+**Touch:** 19
+
+**Flat-footed:** 12
+
+**AC modifiers:** +7 Dex, +1 dodge, +1 natural, +1 size
+
+**Hit points:** 18 (4d6+4)
+
+**Fort:** +2
+
+**Ref:** +11
+
+**Will:** +6
 
 **Defensive abilities:** natural invisibility, supernatural speed
 
@@ -56,19 +70,9 @@ the thing darts from sight._
 
 **Evasion:** present
 
-**Fort:** +2
-
-**Hit points:** 18 (4d6+4)
-
-**Mod:** +7 Dex, +1 dodge, +1 natural, +1 size
-
-**Ref:** +11
-
 **Uncanny dodge:** present
 
 **Weaknesses:** slow susceptibility
-
-**Will:** +6
 
 **Offense**
 

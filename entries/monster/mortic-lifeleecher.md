@@ -52,22 +52,26 @@ are thick and corded, and its hate-flled eyes seem to reflect death wherever the
 
 **Experience points:** 4,800
 
-**Armor class:** 22/12/20
+**Armor class:** 22
 
-**Defensive abilities:** death gasp, mortic ferocity, negative energy affinity
+**Touch:** 12
 
-**Fort:** +11
+**Flat-footed:** 20
+
+**AC modifiers:** +6 armor, +2 Dex, +4 natural
 
 **Hit points:** 90 (12d8+36)
 
-**Mod:** +6 armor, +2 Dex, +4 natural
+**Fort:** +11
 
 **Ref:** +6
 
+**Will:** +6; +4 vs. mind-affecting effects
+
+**Defensive abilities:** death gasp, mortic ferocity, negative energy affinity
+
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), vulnerable to _consecration_,
 vulnerable to _[resurrection](ref/spell/resurrection)_
-
-**Will:** +6; +4 vs. mind-affecting effects
 
 **Offense**
 

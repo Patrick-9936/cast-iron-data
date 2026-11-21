@@ -48,13 +48,17 @@ of a tiger with a viper as a tail._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/15/18
+**Armor class:** 24
 
-**Fort:** +13
+**Touch:** 15
+
+**Flat-footed:** 18
+
+**AC modifiers:** +5 Dex, +1 dodge, +9 natural, -1 size
 
 **Hit points:** 126 (12d10+60)
 
-**Mod:** +5 Dex, +1 dodge, +9 natural, -1 size
+**Fort:** +13
 
 **Ref:** +13
 

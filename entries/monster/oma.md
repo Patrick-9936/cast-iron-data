@@ -51,19 +51,23 @@ down its body._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/0/30
+**Armor class:** 30
 
-**Fort:** +23
+**Touch:** 0
+
+**Flat-footed:** 30
+
+**AC modifiers:** -2 Dex, +30 natural, -8 size
 
 **Hit points:** 290 (20d10+180)
 
-**Immune:** cold, electricity, fire
-
-**Mod:** -2 Dex, +30 natural, -8 size
+**Fort:** +23
 
 **Ref:** +10
 
 **Will:** +7
+
+**Immune:** cold, electricity, fire
 
 **Offense**
 

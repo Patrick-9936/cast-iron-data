@@ -53,25 +53,29 @@ shell along with several hooked legs._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/11/18
+**Armor class:** 18
+
+**Touch:** 11
+
+**Flat-footed:** 18
+
+**AC modifiers:** +7 natural, +1 size
+
+**Hit points:** 51 (6d10+18)
+
+**Fort:** +8
+
+**Ref:** +4
+
+**Will:** +6
 
 **Defensive abilities:** shell
 
 **Dr:** 5/cold iron or lawful
 
-**Fort:** +8
-
-**Hit points:** 51 (6d10+18)
-
 **Immune:** cold, mind-affecting effects, poison
 
-**Mod:** +7 natural, +1 size
-
-**Ref:** +4
-
 **Resist:** acid 10, electricity 10, fire 10
-
-**Will:** +6
 
 **Offense**
 

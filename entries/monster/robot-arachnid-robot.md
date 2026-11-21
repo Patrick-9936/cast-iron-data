@@ -51,25 +51,29 @@ claws on its forelegs._
 
 **Experience points:** 200
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Fort:** +0
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +2 natural, +1 size
 
 **Hit points:** 15 (1d10+10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +2 natural, +1 size
+**Fort:** +0
 
 **Ref:** +1
+
+**Will:** +1
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** fire 5
 
 **Vulner:** electricity
 
 **Weaknesses:** fragile, vulnerable to critical hits
-
-**Will:** +1
 
 **Offense**
 

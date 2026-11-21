@@ -56,7 +56,21 @@ body._
 
 **Experience points:** 307,200
 
-**Armor class:** 40/21/27
+**Armor class:** 40
+
+**Touch:** 21
+
+**Flat-footed:** 27
+
+**AC modifiers:** +4 armor, +12 Dex, +1 dodge, +15 natural, -2 size
+
+**Hit points:** 337 (25d10+200)
+
+**Fort:** +22
+
+**Ref:** +20
+
+**Will:** +25
 
 **Defensive abilities:** lightning drinker
 
@@ -64,19 +78,9 @@ body._
 
 **Fh:** 10
 
-**Fort:** +22
-
-**Hit points:** 337 (25d10+200)
-
 **Immune:** cold, electricity, death effects, disease, poison
 
-**Mod:** +4 armor, +12 Dex, +1 dodge, +15 natural, -2 size
-
-**Ref:** +20
-
 **Sr:** 31
-
-**Will:** +25
 
 **Offense**
 

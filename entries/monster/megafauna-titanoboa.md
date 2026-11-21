@@ -46,13 +46,17 @@ eagerly for the scent of prey._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/4/26
+**Armor class:** 28
 
-**Fort:** +17
+**Touch:** 4
+
+**Flat-footed:** 26
+
+**AC modifiers:** +2 Dex, +24 natural, -8 size
 
 **Hit points:** 184 (16d8+112)
 
-**Mod:** +2 Dex, +24 natural, -8 size
+**Fort:** +17
 
 **Ref:** +12
 

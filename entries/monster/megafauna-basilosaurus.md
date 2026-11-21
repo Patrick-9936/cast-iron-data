@@ -49,13 +49,17 @@ filled with sharp teeth._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/7/26
+**Armor class:** 27
 
-**Fort:** +17
+**Touch:** 7
+
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +20 natural, -4 size
 
 **Hit points:** 161 (17d8+85)
 
-**Mod:** +1 Dex, +20 natural, -4 size
+**Fort:** +17
 
 **Ref:** +11
 
