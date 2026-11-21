@@ -62,14 +62,14 @@ closer you come to joining them.
 
 **Gained:** At 1st Level
 
-**Special:** If you touch a shaken creature with this ability, it becomes
-[frightened](ref/misc/frightened) for 1 round if it has fewer Hit Dice than your sorcerer level.
-
 **Standard:** You can make a melee touch attack that causes a living creature to become
 [shaken](ref/misc/shaken) for a number of rounds equal to [half](ref/misc/fractions-and-rounding)
 your sorcerer level (minimum 1).
 
 **Usage:** 3 + Charisma modifier times/day
+
+**Special:** If you touch a shaken creature with this ability, it becomes
+[frightened](ref/misc/frightened) for 1 round if it has fewer Hit Dice than your sorcerer level.
 
 **Death's Gift (Su)**
 
@@ -77,10 +77,12 @@ your sorcerer level (minimum 1).
 
 **Passive:** You gain [resist](ref/umr/resistance) cold 5 and DR 5/- against nonlethal damage.
 
-**At 9th Level:** Your resistance to cold increases to 10 and your DR increases to 10/- against
+**At 9th level,** your resistance to cold increases to 10 and your DR increases to 10/- against
 nonlethal damage.
 
 **Grasp of the Dead (Sp)**
+
+**Gained:** At 9th Level
 
 **Ability:** Once per day, you can cause a swarm of skeletal arms to burst from the ground to rip
 and tear at your foes. This power has a range of 60 feet. The skeletal arms erupt from the ground in
@@ -91,13 +93,13 @@ Those caught in the area receive a Reflex save for half damage. Those who fail t
 to move for 1 round. The DC of this save is equal to 10 + half your sorcerer level + your Charisma
 modifier. The skeletal arms disappear after 1 round. The arms must burst up from a solid surface.
 
-**At 17th Level:** You can use this ability twice per day.
+**At 17th level,** you can use this ability twice per day.
 
-**At 20th Level:** You can use this ability three times a day.
-
-**Gained:** At 9th Level
+**At 20th level,** you can use this ability three times a day.
 
 **Incorporeal Form (Sp)**
+
+**Gained:** At 15th Level
 
 **Ability:** You can become incorporeal for 1 round per sorcerer level. While in this form, you gain
 the [incorporeal](ref/subtype/incorporeal) subtype. You only take half damage from corporeal sources
@@ -105,14 +107,12 @@ as long as they are magic (you take no damage from non-magic weapons and objects
 spells deal only half damage to corporeal creatures. Spells and other effects that do not deal
 damage function normally. You can use this ability once per day.
 
-**Gained:** At 15th Level
-
 **One of Us (Ex)**
+
+**Gained:** At 20th Level
 
 **Flavor:** Your form begins to rot (the appearance of this decay is up to you) and undead see you
 as one of them.
-
-**Gained:** At 20th Level
 
 **Passive:** You gain immunity to cold, nonlethal damage, paralysis, and sleep. You also gain DR
 5/-. Unintelligent undead do not notice you unless you attack them. You receive a +4 morale bonus on
@@ -135,14 +135,14 @@ Your magic emulates that of the hungry dead.
 
 **The Blood Is the Life (Su)**
 
-**Flavor:** You can gain sustenance from the blood of the recently dead.
-
 **Gained:** At 1st Level
 
-**Replaces:** Grave touch
+**Flavor:** You can gain sustenance from the blood of the recently dead.
 
 **Standard:** You can drink the blood of a creature that died within the past minute. The creature
 must be corporeal, must be at least the same size as you, and must have blood. This ability heals
 you 1d6 hit points and nourishes you as if you'd had a full meal.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**Replaces:** Grave touch

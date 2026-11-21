@@ -61,28 +61,28 @@ You hear music whenever you cast spells, and can use the songs in your head to c
 
 **Beguiling Voice (Ex)**
 
+**Gained:** At 1st Level
+
 **Ability:** You can use the sound of your voice to lull a target creature into taking no action.
 This ability acts as the [daze](ref/spell/daze) spell, except it is language-dependent, has a
 duration of 1 round, and affects a living creature whose Hit Dice do not exceed your sorcerer level.
 
-**Gained:** At 1st Level
-
 **Usage:** 3 + Charisma modifier times/day
 
 **Fascinate (Ex)**
+
+**Gained:** At 3rd Level
 
 **Ability:** You gain the ability to use a Perform skill to cause one or more creatures to become
 fascinated with you. This acts as the [fascinate](ref/performance/fascinate) bardic perform ability,
 except the save DC is 10 + half your sorcerer level + your Charisma bonus, and it lasts 1
 round/level. You may use this ability once per day.
 
-**Gained:** At 3rd Level
+**At 8th level,** you may use this ability 2 times per day.
 
-At 8th level: You may use this ability 2 times per day.
+**At 13th level,** you may use this ability 3 times per day.
 
-At 13th level: You may use this ability 3 times per day.
-
-At 18th level: You may use this ability 4 times per day.
+**At 18th level,** you may use this ability 4 times per day.
 
 **Perfect Voice (Su)**
 
@@ -96,16 +96,16 @@ of, any creature that understands at least one spoken language.
 
 **Inspire (Sp)**
 
-**Ability:** You can use [greater heroism](ref/spell/heroism-greater) as a
-[spell-like ability](ref/umr/spell-like-abilities) once per day.
+**Gained:** At 15th Level
 
 **Flavor:** Your artistic magic can inspire your allies to great accomplishments.
 
-**Gained:** At 15th Level
+**Ability:** You can use [greater heroism](ref/spell/heroism-greater) as a
+[spell-like ability](ref/umr/spell-like-abilities) once per day.
 
-At 17th level: You may use this ability 2 times per day.
+**At 17th level,** you may use this ability 2 times per day.
 
-At 19th level: You may use this ability 3 times per day.
+**At 19th level,** you may use this ability 3 times per day.
 
 **Grand Maestro (Su)**
 

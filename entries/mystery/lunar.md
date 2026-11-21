@@ -50,47 +50,45 @@ An oracle with the Lunar mystery can choose from any of the following revelation
 
 **Form of the Beast (Su)**
 
-**At 11th Level:** You can assume the form of a Diminutive or Huge animal or a Small or Medium
-magical beast, as [beast shape III](ref/spell/beast-shape-3).
-
-**At 13th Level:** You can assume the form of a Tiny or Large magical beast, as
-[beast shape IV](ref/spell/beast-shape-4).
-
-**At 9th Level:** You can assume the form of a Tiny or Large animal, as
-[beast shape II](ref/spell/beast-shape-2).
-
-**Prereq:** 7th-level oracle
-
 **Standard:** You can assume the form of a Small or Medium animal, as
 [beast shape I](ref/spell/beast-shape-1).
 
 **Usage:** Once per day, for 1 hour per oracle level.
 
-**Usage:** Once per day, for 1 hour per oracle level.
+**At 9th level,** you can assume the form of a Tiny or Large animal, as
+[beast shape II](ref/spell/beast-shape-2).
+
+**At 11th level,** you can assume the form of a Diminutive or Huge animal or a Small or Medium
+magical beast, as [beast shape III](ref/spell/beast-shape-3).
+
+**At 13th level,** you can assume the form of a Tiny or Large magical beast, as
+[beast shape IV](ref/spell/beast-shape-4).
+
+**Prereq:** 7th-level oracle
 
 **Eye of the Moon (Su)**
 
-**Ability:** You gain [darkvision](ref/rule/darkvision) to a range of 60 feet.
-
 **Flavor:** Your connection to the moon makes you supernaturally perceptive.
 
-**At 11th Level:** As a **standard action**, you can focus on a specific object or area (the size of
+**Ability:** You gain [darkvision](ref/rule/darkvision) to a range of 60 feet.
+
+**At 11th level,** as a **standard action**, you can focus on a specific object or area (the size of
 which can be no greater than a 10-foot-by-10-foot square) and see it as though with
 [true seeing](ref/spell/true-seeing) as long as the moon is shining on it. Moonless nights, cloudy
 skies, and shadows interfere with this ability.
 
 **Gift of Claw and Horn (Su)**
 
-**At 11th Level:** You gain two natural weapons at a time.
-
-**At 5th Level:** Your natural weapon gains an enhancement bonus. This bonus is equal to one-fifth
-of your oracle level.
-
 **Swift:** You gain a [natural weapon](ref/umr/natural-attacks). The natural weapon lasts for a
 number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claw, or gore
 attack. These attacks deal the normal damage for a creature of your size.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 5th level,** your natural weapon gains an enhancement bonus. This bonus is equal to one-fifth
+of your oracle level.
+
+**At 11th level,** you gain two natural weapons at a time.
 
 **Mantle of Moonlight (Su)**
 
@@ -121,22 +119,22 @@ at a point adjacent to your position. From this point it can extend in any direc
 oracle level. The path persists until you have crossed over the bridge or for 24 hours, whichever is
 shorter.
 
-**Special:** Should the bridge be attacked, treat it as a [wall of force](ref/spell/wall-of-force).
-
 **Usage:** Charisma modifier times/day
+
+**Special:** Should the bridge be attacked, treat it as a [wall of force](ref/spell/wall-of-force).
 
 **Moonlit Script (Su)**
 
 **Ability:** Once per night while you sleep, your hands produce mysterious writing that pertains to
 the future.
 
-**At 1st Level:** The prophetic writing manifests as an [augury](ref/spell/augury) spell with 90%
+**At 1st level,** the prophetic writing manifests as an [augury](ref/spell/augury) spell with 90%
 effectiveness.
 
-**At 5th Level:** The writing takes the form of a [divination](ref/spell/divination) with 90%
+**At 5th level,** the writing takes the form of a [divination](ref/spell/divination) with 90%
 effectiveness.
 
-**At 8th Level:** The writing manifests as a casting of [commune](ref/spell/commune) with no
+**At 8th level,** the writing manifests as a casting of [commune](ref/spell/commune) with no
 material component required.
 
 **Primal Companion (Ex)**
@@ -164,32 +162,32 @@ Charisma, instead.
 
 **You Cast Inflict Spells**
 
+**Flavor:** Your spells carry with them the taint of madness.
+
 **Ability:** Subjects who take damage from your _inflict_ spells are also subject to
 [confusion](ref/spell/confusion), as the spell, except the duration of this effect is a number of
 rounds equal to the level of the inflict spell. The save DC against this effect is 10 + 1/2 your
 oracle level + your Charisma modifier.
 
-**Flavor:** Your spells carry with them the taint of madness.
-
 **You Cast Cure Spells**
+
+**Flavor:** Your spells are potentially more effective but entirely in the target's mind.
 
 **Ability:** Whenever you cast a cure spell, you can cast it as though it were enhanced with the
 [Empower Spell](ref/feat/empower-spell) metamagic feat by expending two spell slots, except these
 hit points are [temporary](ref/rule/temporary-hit-points). This does not increase the level of the
 spell. Hit points healed this way expire after a number of minutes equal to half your oracle level.
 
-**Flavor:** Your spells are potentially more effective but entirely in the target's mind.
-
 ### Final Revelation
 
 **Final Revelation**
+
+**Gained:** At 20th Level
+
+**Flavor:** You become an avatar of the primal world - part humanoid, part beast.
 
 **Ability:** Once per day, you can transform into a lycanthrope of your choice for a number of hours
 equal to your Charisma modifier, gaining all the powers of a natural lycanthrope of that type,
 including the ability to change shape between human, animal, and hybrid form. In addition, you
 become immune to mind-affecting and language-dependent effects, as well as effects that specifically
 target only humanoids.
-
-**Flavor:** You become an avatar of the primal world - part humanoid, part beast.
-
-**Gained:** At 20th Level

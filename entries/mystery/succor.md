@@ -49,43 +49,46 @@ An oracle with the Succor mystery can choose from any of the following revelatio
 
 **Combat Healer (Su)**
 
+**Flavor:** This is the same as the [battle](ref/mystery/battle) mystery revelation.
+
 **Ability:** Whenever you cast a cure spell (a spell with "cure" in its name), you can cast it as a
 **swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by expending two
 spell slots. This does not increase the level of the spell.
 
-**Flavor:** This is the same as the [battle](ref/mystery/battle) mystery revelation.
-
-**Prereq:** 7th-level oracle
-
 **Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
 
-**Curse of Dampening (Su)**
-
-**At 11th Level:** You can use this ability twice per day.
-
-**At 15th Level:** You can do this three times per day.
-
 **Prereq:** 7th-level oracle
 
-**Special:** A successful Will saving throw negates this effect. This is a mind-affecting curse
-effect.
+**Curse of Dampening (Su)**
 
 **Standard:** Once per day, you diminish one target within 30 feet, making its attacks weaker.
 Whenever the target would roll to deal damage with an attack or spell, it deals the minimum amount
 of damage. This curse lasts a number of rounds equal to [half](ref/misc/fractions-and-rounding) of
 your oracle level (minimum 1).
 
+**At 11th level,** you can use this ability twice per day.
+
+**At 15th level,** you can do this three times per day.
+
+**Prereq:** 7th-level oracle
+
+**Special:** A successful Will saving throw negates this effect. This is a mind-affecting curse
+effect.
+
 **Enhanced Cures (Su)**
+
+**Flavor:** This is the same as the [life](ref/mystery/life) oracle mystery revelation of the same
+name.
 
 **Ability:** Whenever you cast a _cure_ spell, the maximum number of hit points healed is based on
 your oracle level, not the limit based on the spell. For example, an 11th-level oracle with this
 revelation may cast [cure light wounds](ref/spell/cure-light-wounds) to heal 1d8+11 hit points
 instead of the normal 1d8+5 maximum.
 
-**Flavor:** This is the same as the [life](ref/mystery/life) oracle mystery revelation of the same
-name.
-
 **Enhanced Inflictions (Su)**
+
+**Flavor:** You recognize that harming your enemies is sometimes the only way to help your allies,
+and so your wrath is particularly fierce.
 
 **Ability:** Whenever you cast an _inflict_ spell (a spell with the word "inflict" in the name), the
 maximum amount of damage dealt by the spell is based on your oracle level, not the limit based on
@@ -93,37 +96,27 @@ the spell. For example, an 11th-level oracle of succor with this revelation can 
 [inflict light wounds](ref/spell/inflict-light-wounds) to deal 1d8+11 points of damage instead of
 the normal 1d8+5 maximum.
 
-**Flavor:** You recognize that harming your enemies is sometimes the only way to help your allies,
-and so your wrath is particularly fierce.
-
 **Perfect Aid (Ex)**
+
+**Flavor:** You can effortlessly give aid to your allies, whether that means providing them with
+help attacking or defending them in the heat of combat.
 
 **Ability:** You gain [Bodyguard](ref/feat/bodyguard) as a bonus feat, and whenever you use the
 [aid another](ref/rule/aid-another-2) action to provide a bonus on attack rolls or to AC to one of
 your allies, the bonus you provide increases by 1. This bonus doesn't stack with other feats or
 class features that improve the bonus you provide when using the aid another action.
 
-**Flavor:** You can effortlessly give aid to your allies, whether that means providing them with
-help attacking or defending them in the heat of combat.
+**At 6th level,** the bonus you provide now increases by 2.
+
+**At 11th level,** the bonus you provide now increases by 3.
+
+**At 16th level,** the bonus you provide now increases by 4.
 
 **Special:** This revelation also counts as the [Combat Expertise](ref/feat/combat-expertise) feat,
 but only for the purpose of meeting the prerequisites of the [Swift Aid](ref/feat/swift-aid) feat
 and any feat that lists Swift Aid as a prerequisite.
 
-At 6th level: The bonus you provide now increases by 2.
-
-At 11th level: The bonus you provide now increases by 3.
-
-At 16th level: The bonus you provide now increases by 4.
-
 **Pitiful Foe (Su)**
-
-**At 15th Level:** You can do this three times per day.
-
-**At 7th Level:** You can use this ability twice per day.
-
-**Special:** A successful Will saving throw negates this effect. This is a mind-affecting curse
-effect.
 
 **Standard:** Once per day, you can temporarily curse one target within 30 feet, making it pitiful
 and ineffective in battle.
@@ -141,16 +134,17 @@ Additionally, the target automatically fails all rolls to confirm critical hits.
 This curse lasts for a number of rounds equal to [half](ref/misc/fractions-and-rounding) of your
 oracle level (minimum 1).
 
+**At 7th level,** you can use this ability twice per day.
+
+**At 15th level,** you can do this three times per day.
+
+**Special:** A successful Will saving throw negates this effect. This is a mind-affecting curse
+effect.
+
 **Shell of Succor (Su)**
 
 **Flavor:** You can surround an ally with bolstering energies that supplement its health and grant
 it extra vigor.
-
-**At 11th Level:** You can use this revelation twice per day.
-
-**At 19th Level:** You can do this three times per day.
-
-**Prereq:** 3rd-level oracle
 
 **Standard:** With a touch from you, one creature gains a ward of restorative energy, granting it a
 number of [temporary hit points](ref/rule/temporary-hit-points) equal to your Charisma bonus + 1d6
@@ -167,7 +161,16 @@ of abilities that trigger on a hit or a miss.
 
 You can use this revelation once per day
 
+**At 11th level,** you can use this revelation twice per day.
+
+**At 19th level,** you can do this three times per day.
+
+**Prereq:** 3rd-level oracle
+
 **Soul Siphon (Su)**
+
+**Flavor:** This is the same as the [bones](ref/mystery/bones) oracle mystery revelation of the same
+name.
 
 **Ability:** As a ranged touch attack, you can unleash a ray that causes a target to gain one
 [negative level](ref/rule/energy-drain-and-negative-levels). The ray has a range of 30 feet. This
@@ -176,20 +179,17 @@ negative level lasts for a number of minutes equal to your Charisma modifier.
 Whenever this ability gives a target a negative level, you heal a number of hit points equal to your
 oracle level.
 
-**Flavor:** This is the same as the [bones](ref/mystery/bones) oracle mystery revelation of the same
-name.
+**Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
 
 **Prereq:** 7th-level oracle
 
-**Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
-
 **Spirit Boost (Su)**
+
+**Flavor:** This is the same as the _life_ oracle mystery of the same name.
 
 **Ability:** Whenever your healing spells heal a target up to its maximum hit points, any excess
 points persist for 1 round per level as [temporary hit points](ref/rule/temporary-hit-points) (up to
 a maximum number of temporary hit points equal to your oracle level).
-
-**Flavor:** This is the same as the _life_ oracle mystery of the same name.
 
 **Teamwork Mastery (Ex, Sp)**
 
@@ -209,14 +209,14 @@ your oracle level (minimum 1).
 
 **Final Revelation**
 
+**Gained:** At 20th Level
+
+**Flavor:** You become a beacon of aid and assistance to your allies and those you deem worthy of
+receiving your succoring magical benefits.
+
 **Ability:** You can apply any one of the following metamagic feats to any spell you cast that
 targets one or more of your allies without increasing the level or casting time:
 [Enlarge Spell](ref/feat/enlarge-spell), [Extend Spell](ref/feat/extend-spell),
 [Silent Spell](ref/feat/silent-spell), or [Still Spell](ref/feat/still-spell). You do not need to
 have these feats to use this ability, and you can use this ability any number of times per day on
 any spell that can be affected by the listed metamagic feats.
-
-**Flavor:** You become a beacon of aid and assistance to your allies and those you deem worthy of
-receiving your succoring magical benefits.
-
-**Gained:** At 20th Level

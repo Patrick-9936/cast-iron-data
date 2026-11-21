@@ -75,20 +75,20 @@ following table.
 
 **Claws (Su)**
 
+**Gained:** At 1st Level
+
 **Free:** You can grow claws. These claws are treated as [natural weapons](ref/umr/natural-attacks),
 allowing you to make two claw attacks as a full attack action using your full base attack bonus.
 Each of these attacks deals 1d4 points of damage plus your Strength modifier (1d3 if you are Small).
 
-**Gained:** At 1st Level
-
 **Usage:** 3 + Charisma modifier rounds/day
 
-**At 5th Level:** These claws are considered magic weapons for the purpose of overcoming DR.
+**At 5th level,** these claws are considered magic weapons for the purpose of overcoming DR.
 
-**At 7th Level:** The damage [increases by one step](ref/misc/damage-die-adjustments) to 1d6 points
+**At 7th level,** the damage [increases by one step](ref/misc/damage-die-adjustments) to 1d6 points
 of damage (1d4 if you are Small).
 
-**At 11th Level:** These claws deal an additional 1d6 points of damage of your energy type on a
+**At 11th level,** these claws deal an additional 1d6 points of damage of your energy type on a
 successful hit.
 
 **Dragon Resistances (Ex)**
@@ -98,11 +98,13 @@ successful hit.
 **Passive:** You gain [resist](ref/umr/resistance) 5 against your energy type and a +1 natural armor
 bonus.
 
-**At 9th Level:** Your energy resistance increases to 10 and natural armor bonus increases to +2.
+**At 9th level,** your energy resistance increases to 10 and natural armor bonus increases to +2.
 
-**At 15th Level:** Your natural armor bonus increases to +4.
+**At 15th level,** your natural armor bonus increases to +4.
 
 **Breath Weapon (Su)**
+
+**Gained:** At 9th Level
 
 **Ability:** You gain a breath weapon. This breath weapon deals 1d6 points of damage of your energy
 type per sorcerer level. Those caught in the area of the breath receive a Reflex save for half
@@ -110,11 +112,9 @@ damage. The DC of this save is equal to 10 + half your sorcerer level + your Cha
 shape of the breath weapon depends on your dragon type (as indicated on the above chart). You can
 use this ability once per day.
 
-**Gained:** At 9th Level
+**At 17th level,** you can use this ability twice per day.
 
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times a day.
+**At 20th level,** you can use this ability three times a day.
 
 **Wings (Su)**
 
@@ -267,13 +267,13 @@ True dragons blast their foes with rays of energy.
 
 **Gained:** At 1st Level
 
-**Replaces:** Claws
-
 **Standard:** You can fire an elemental ray that matches your linnorm bloodline's energy type,
 targeting any foe within 30 feet as a ranged touch attack. The ray deals an amount of damage equal
 to 1d6 + [half](ref/misc/fractions-and-rounding) of your sorcerer level.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**Replaces:** Claws
 
 |Linnorm|Energy Type|Shape|
 | --- | --- | --- |

@@ -71,7 +71,7 @@ rounds need not be used consecutively.
 
 **Passive:** You gain a +2 bonus on saving throws against mind-affecting effects and poison effects.
 
-**At 9th Level:** This bonus increases to +4.
+**At 9th level,** this bonus increases to +4.
 
 **Ensnaring Eyes (Su)**
 
@@ -83,13 +83,13 @@ that belongs to the [charm subschool](ref/spelldef/charm).
 
 **Cast without Hands (Su)**
 
-**Ability:** Whenever you cast an arcane spell with a somatic component, you can do so even with
-your hands full, by twisting and gyrating your body. This doubles the arcane spell failure chance
-from your armor (if any), and you can't use this ability if you are pinned or immobile.
+**Gained:** At 15th Level
 
 **Flavor:** You learn to eschew the use of your hands when casting spells, as a naga would.
 
-**Gained:** At 15th Level
+**Ability:** Whenever you cast an arcane spell with a somatic component, you can do so even with
+your hands full, by twisting and gyrating your body. This doubles the arcane spell failure chance
+from your armor (if any), and you can't use this ability if you are pinned or immobile.
 
 **Power of the Naga (Su)**
 

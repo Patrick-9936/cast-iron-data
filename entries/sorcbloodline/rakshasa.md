@@ -61,9 +61,9 @@ convincingly deceive your enemies.
 
 **Silver Tongue (Su)**
 
-**Flavor:** You can draw upon your outsider heritage to spin amazingly convincing lies.
-
 **Gained:** At 1st Level
+
+**Flavor:** You can draw upon your outsider heritage to spin amazingly convincing lies.
 
 **Swift:** You gain a +5 bonus on one Bluff check made to convince another of the truth of your
 words (similar to using [glibness](ref/spell/glibness)). If a magical effect is used against you
@@ -86,18 +86,18 @@ information as if you had concentrated on it for 3 rounds.
 
 **Hide Aura (Sp)**
 
+**Gained:** At 9th Level
+
 **Ability:** You can conceal yourself from prying magic. This ability acts like a constant
 [nondetection](ref/spell/nondetection) spell cast upon yourself. You can end or restore this
 protection as a **move action**.
 
-**Gained:** At 9th Level
-
 **Alter Self (Sp)**
+
+**Gained:** At 15th Level
 
 **Ability:** You can change your shape into that of any humanoid at will. This ability acts like
 [alter self](ref/spell/alter-self), except you may remain in a chosen form as long as you want.
-
-**Gained:** At 15th Level
 
 **Outsider (Su)**
 

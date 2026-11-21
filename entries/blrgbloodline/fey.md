@@ -91,9 +91,9 @@ You gain these abilities even while not _bloodraging._
 
 **Fury of the Fey (Su)**
 
+**Gained:** At 20th Level
+
 **Ability:** When entering a _bloodrage_ you can choose one type of creature (and subtype for
 humanoids or outsiders) that can be affected by the [bane](ref/magic-enh/bane) weapon special
 ability. All of your melee attacks are considered to have _[bane](ref/spell/bane)_ against that
 type. This ability doesn't stack with other forms of _[bane](ref/spell/bane)._
-
-**Gained:** At 20th Level

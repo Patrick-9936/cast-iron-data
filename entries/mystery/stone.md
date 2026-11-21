@@ -48,13 +48,13 @@ An oracle with the Stone mystery can choose from any of the following revelation
 
 **Acid Skin (Ex)**
 
-**At 11th Level:** The resistance becomes 20.
-
-**At 17th Level:** You gain immunity to acid.
-
-**At 5th Level:** This resistance increases to 10.
-
 **Passive:** You gain [resist](ref/umr/resistance) acid 5.
+
+**At 5th level,** this resistance increases to 10.
+
+**At 11th level,** the resistance becomes 20.
+
+**At 17th level,** you gain immunity to acid.
 
 **Clobbering Strike (Ex)**
 
@@ -65,10 +65,10 @@ this ability.
 
 **Crystal Sight (Ex)**
 
+**Flavor:** You can see through stone, earth, or sand as easily as if it were transparent crystal.
+
 **Ability:** Your gaze can penetrate a number of feet of stone/earth/sand equal to your oracle
 level, or 1/12th this thickness of metal.
-
-**Flavor:** You can see through stone, earth, or sand as easily as if it were transparent crystal.
 
 **Usage:** 1 time/day per oracle level
 
@@ -97,9 +97,6 @@ in 1-minute increments
 
 **Mighty Pebble (Su)**
 
-**Special:** If the attack roll misses, treat the pebble as a
-[thrown splash weapon](ref/rule/throw-splash-weapon) to determine where it lands.
-
 **Standard:** You can charge and throw a pebble (or other stone of similar size) that detonates when
 it strikes a target as a ranged attack. The pebble has a range increment of 20 feet and has an
 enhancement bonus equal to [one-fourth](ref/misc/fractions-and-rounding) of your oracle level.
@@ -110,6 +107,9 @@ they make a Reflex saving throw.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
 
+**Special:** If the attack roll misses, treat the pebble as a
+[thrown splash weapon](ref/rule/throw-splash-weapon) to determine where it lands.
+
 **Rock Throwing (Ex)**
 
 **Ability:** You are an accomplished rock thrower and have a +1 racial bonus on attack rolls with
@@ -119,21 +119,16 @@ rock is 2d4 for a Medium creature or 2d3 for a Small creature, plus 1-1/2 your S
 
 **Shard Explosion (Su)**
 
-**Special:** In addition, the broken shards make the area
-[difficult terrain](ref/rule/terrain-and-obstacles) until your next turn.
-
 **Swift:** You can cause jagged pieces of stone to explode outward from your body. These shards deal
 1d6 points of piercing damage per two oracle levels (minimum 1d6) to all creatures within a 10-foot
 [burst](ref/misc/burst). A Reflex save halves this damage.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
 
+**Special:** In addition, the broken shards make the area
+[difficult terrain](ref/rule/terrain-and-obstacles) until your next turn.
+
 **Steelbreaker Skin (Su)**
-
-**At 15th Level:** The damage from this ability ignores up to 10 points of
-[hardness](ref/umr/hardness).
-
-**Prereq:** 7th-level oracle
 
 **Standard:** You can harden your flesh so that weapons that strike you are damaged or destroyed.
 Anytime a melee or ranged weapon strikes you, the weapon takes an amount of damage equal to your
@@ -142,36 +137,41 @@ the weapon attacking you.
 
 You can use this ability once per day, but the duration is 1 minute per oracle level.
 
+**At 15th level,** the damage from this ability ignores up to 10 points of
+[hardness](ref/umr/hardness).
+
+**Prereq:** 7th-level oracle
+
 **Stone Stability (Ex)**
-
-**At 10th Level:** You gain [Greater Trip](ref/feat/greater-trip) as a bonus feat.
-
-**At 5th Level:** You gain [Improved Trip](ref/feat/improved-trip) as a bonus feat.
 
 **Passive:** You receive a +4 bonus to your Combat Maneuver Defense when resisting a
 [bull rush](ref/rule/bull-rush) or trip attempt while standing on the ground.
 
+**At 5th level,** you gain [Improved Trip](ref/feat/improved-trip) as a bonus feat.
+
+**At 10th level,** you gain [Greater Trip](ref/feat/greater-trip) as a bonus feat.
+
 **Special:** You do not need to meet the prerequisites to gain these feats.
 
 **Touch of Acid (Su)**
-
-**At 11th Level:** Any weapon that you wield deals +1d6 points of acid damage, similar to how a
-[flaming](ref/magic-enh/flaming) weapon operates.
 
 **Standard:** You can perform a melee touch attack that deals an amount of acid damage equal to
 1d6 + [half](ref/misc/fractions-and-rounding) of your oracle level.
 
 **Usage:** 3 + Charisma modifier times/day
 
+**At 11th level,** any weapon that you wield deals +1d6 points of acid damage, similar to how a
+[flaming](ref/magic-enh/flaming) weapon operates.
+
 ### Final Revelation
 
 **Final Revelation**
+
+**Gained:** At 20th Level
+
+**Flavor:** You become a master of acid and earth.
 
 **Ability:** You can apply any one of the following feats to any acid or earth spell without
 increasing the level or casting time: [Enlarge Spell](ref/feat/enlarge-spell),
 [Extend Spell](ref/feat/extend-spell), [Silent Spell](ref/feat/silent-spell), or
 [Still Spell](ref/feat/still-spell).
-
-**Flavor:** You become a master of acid and earth.
-
-**Gained:** At 20th Level

@@ -76,7 +76,7 @@ Will saving throws equal to [half](ref/misc/fractions-and-rounding) of your sorc
 
 **Passive:** You gain a +4 bonus on saving throws made against fear and a +1 natural armor bonus.
 
-**At 9th Level:** You lose your light sensitivity, gain immunity to fear, and your natural armor
+**At 9th level,** you lose your light sensitivity, gain immunity to fear, and your natural armor
 bonus increases to +2.
 
 **Strength of the Beast (Ex)**
@@ -85,20 +85,20 @@ bonus increases to +2.
 
 **Passive:** You gain a +2 inherent bonus to your Strength.
 
-At 13th level: This bonus increases to +4.
+**At 13th level,** this bonus increases to +4.
 
-At 17th level: This bonus increases to +6.
+**At 17th level,** this bonus increases to +6.
 
 **Power of Giants (Sp)**
 
 **Gained:** At 15th Level
 
-**Special:** You may remain in this size for up to 1 minute per character level per day; this
-duration does not need to be consecutive, but it must be used in 1 minute increments.
-
 **Standard:** You grow to Large size. At this size you gain a +6 size bonus to Strength, a -2
 penalty to Dexterity, a +4 size bonus to Constitution, and a +4 natural armor bonus. You may return
 to your normal size as a **standard action**.
+
+**Special:** You may remain in this size for up to 1 minute per character level per day; this
+duration does not need to be consecutive, but it must be used in 1 minute increments.
 
 **Warlord Reborn (Su)**
 

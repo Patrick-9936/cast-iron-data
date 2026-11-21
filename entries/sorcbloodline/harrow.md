@@ -68,12 +68,12 @@ mortals.
 
 **Twisted Fortune (Sp)**
 
+**Gained:** At 1st Level
+
 **Ability:** You can use your supernatural insight to hijack the fortunes of a single target within
 30 feet. For 1 round, the target becomes [confused](ref/misc/confused) and cannot directly control
 its actions (Will negates). Once a creature has been affected by _twisted fortune,_ it is immune to
 the ability's effects for 24 hours.
-
-**Gained:** At 1st Level
 
 **Usage:** 3 + Charisma modifier times/day
 
@@ -108,6 +108,11 @@ in 1-minute increments
 
 **Harrowed Home (Sp)**
 
+**Gained:** At 15th Level
+
+**Flavor:** Your otherworldly connection is so strong that your subconscious cleaves off a small
+portion of the Harrowed Realm for use as your own private sanctuary.
+
 **Ability:** Your _harrowed home_ is created the first time you use this ability, and is decorated
 as a garish reflection of your personality. Thereafter, you always visit this same home.
 
@@ -121,11 +126,6 @@ are inside your _harrowed home._
 
 This ability is otherwise identical to
 [mage's magnificent mansion](ref/spell/mages-magnificent-mansion).
-
-**Flavor:** Your otherworldly connection is so strong that your subconscious cleaves off a small
-portion of the Harrowed Realm for use as your own private sanctuary.
-
-**Gained:** At 15th Level
 
 **Kin to the Old Tales (Su)**
 

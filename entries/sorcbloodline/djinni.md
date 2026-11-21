@@ -70,20 +70,20 @@ your sorcerer level.
 
 **Passive:** You gain electricity [resistance](ref/umr/resistance) 10.
 
-**At 9th Level:** Your electricity resistance increases to 20.
+**At 9th level,** your electricity resistance increases to 20.
 
 **Whirlwind (Su)**
+
+**Gained:** At 9th Level
 
 **Ability:** You gain the ability to turn into a 10-foot-high whirlwind once per day for 1 round per
 sorcerer level.
 
-**Gained:** At 9th Level
-
 **Elemental Movement (Su)**
 
-**Ability:** You gain a fly speed of 60 feet with average maneuverability.
-
 **Gained:** At 15th Level
+
+**Ability:** You gain a fly speed of 60 feet with average maneuverability.
 
 **Power of the Djinn (Su)**
 

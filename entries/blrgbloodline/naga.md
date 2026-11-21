@@ -48,10 +48,10 @@ and terrible strength of the nagas.
 bite attack as a primary [natural weapon](ref/umr/natural-attacks). This attack deals damage equal
 to 1d8 (1d6 if you are Small) + your Strength modifier.
 
-**At 4th Level:** Your fangs are considered magic weapons for the purpose of overcoming
+**At 4th level,** your fangs are considered magic weapons for the purpose of overcoming
 [damage reduction](ref/rule/damage-reduction).
 
-**At 8th Level:** The damage increases to 1d10 (1d8 if you are Small) + your Strength modifier.
+**At 8th level,** the damage increases to 1d10 (1d8 if you are Small) + your Strength modifier.
 
 **Serpentine Swim (Sp)**
 
@@ -66,10 +66,10 @@ to 1d8 (1d6 if you are Small) + your Strength modifier.
 **Passive:** When entering a _bloodrage,_ you gain a +2 enhancement bonus to your natural armor
 bonus and a +4 bonus on saves against poison.
 
-**At 16th Level:** The bonus to your natural armor increases to +4 and the bonus on saves against
+**At 16th level,** the bonus to your natural armor increases to +4 and the bonus on saves against
 poison increases to +8.
 
-**At 20th Level:** The bonus to your natural armor increases to +6, and you gain immunity to poison.
+**At 20th level,** the bonus to your natural armor increases to +6, and you gain immunity to poison.
 
 **Poison Fangs (Su)**
 
@@ -90,10 +90,10 @@ poison is below.
 
 **Naga Form (Sp)**
 
+**Gained:** At 16th Level
+
 **Ability:** When entering a _bloodrage,_ you can assume the form of a naga (as per
 [naga shape III](ref/spell/naga-shape-3)).
-
-**Gained:** At 16th Level
 
 **Naga Thoughts (Sp, Su)**
 

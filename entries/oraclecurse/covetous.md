@@ -14,17 +14,17 @@ group = "oracle-curse"
 
 **Covetous**
 
-**Benefit:** [Use Magic Device](ref/skill/use-magic-device) becomes a class skill for you.
-
 **Flavor:** You find yourself drawn to the luster of wealthy living.
 
-**At 10th Level:** You add [fabricate](ref/spell/fabricate) to your list of spells known.
+**Benefit:** [Use Magic Device](ref/skill/use-magic-device) becomes a class skill for you.
 
-**At 15th Level:** You add half your oracle level to your CMD against [steal](ref/rule/steal) combat
-maneuvers and to the DC of Sleight of Hand checks to take items from you.
-
-**At 5th Level:** You gain a +4 insight bonus on [Appraise](ref/skill/appraise) checks,
+**At 5th level,** you gain a +4 insight bonus on [Appraise](ref/skill/appraise) checks,
 [Spellcraft](ref/skill/spellcraft) checks to identify magic items, and Use Magic Device checks.
+
+**At 10th level,** you add [fabricate](ref/spell/fabricate) to your list of spells known.
+
+**At 15th level,** you add half your oracle level to your CMD against [steal](ref/rule/steal) combat
+maneuvers and to the DC of Sleight of Hand checks to take items from you.
 
 **Penalty:** You must wear fine nonmagical clothing and jewelry worth at least 50 gp + 100 gp per
 character level you have beyond 1st. If you do not have sufficient wealth to purchase this

@@ -79,7 +79,7 @@ good and restoration.
 **Passive:** You gain a +2 bonus on saving throws against charm effects and a +4 bonus on saving
 throws against spells with the evil descriptor.
 
-**At 9th Level:** Your bonus on saving throws against charm effects increases to +4 and your bonus
+**At 9th level,** your bonus on saving throws against charm effects increases to +4 and your bonus
 on saving throws against spells with the evil descriptor increases to +6.
 
 **Righteous Fury (Su)**
@@ -92,9 +92,9 @@ modifier to determine the attack bonus. The spear deals 1d6 points of damage per
 ignores all [damage reduction](ref/rule/damage-reduction) and [hardness](ref/umr/hardness). This
 damage increases to 1d8 points of damage per sorcerer level against an evil creature.
 
-**At 13th Level:** You can use this ability twice per day.
+**At 13th level,** you can use this ability twice per day.
 
-**At 17th Level:** You can use this ability three times a day.
+**At 17th level,** you can use this ability three times a day.
 
 **Friend to Nature (Su)**
 

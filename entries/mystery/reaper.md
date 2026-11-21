@@ -91,18 +91,14 @@ save (DC = 20 + 1/2 your medium level).
 
 **Moral Crisis (Su)**
 
-**Special:** The target can attempt a new saving throw at the end of each of its turns to end this
-effect. This is a mind-affecting emotion effect.
-
 **Standard:** You can target a living creature within 30 feet of you, reminding it of its moral
 failings. The target must succeed at a Will save or be [staggered](ref/misc/staggered) for a number
 of rounds equal to your oracle level.
 
+**Special:** The target can attempt a new saving throw at the end of each of its turns to end this
+effect. This is a mind-affecting emotion effect.
+
 **Obliterate Memory (Sp)**
-
-**At 15th Level:** You may use this ability twice per day.
-
-**Prereq:** 11th-level oracle
 
 **Standard:** Once per day, you can target a creature within 30 feet and eliminate all memory of an
 event the target experienced, as [modify memory](ref/spell/modify-memory). A target can attempt a
@@ -111,14 +107,18 @@ Will save to negate this effect.
 In addition, you can cause an account of the memory erased by this ability to appear on a blank page
 of any book you are carrying.
 
+**At 15th level,** you may use this ability twice per day.
+
+**Prereq:** 11th-level oracle
+
 **Pale Horse (Sp)**
 
 **Ability:** You can summon a [phantom steed](ref/spell/phantom-steed), as the spell.
 
-**Prereq:** 5th-level oracle
-
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
+
+**Prereq:** 5th-level oracle
 
 **Return to Dust (Su)**
 
@@ -126,11 +126,11 @@ of any book you are carrying.
 creature within 30 feet, dealing 1d6 points of damage per 2 oracle levels you have, ignoring
 [hardness](ref/umr/hardness) and [damage reduction](ref/rule/damage-reduction).
 
+**Usage:** 3 + Charisma modifier times/day
+
 **Special:** If used against an undead creature or an object in another creature's possession, the
 undead creature or the creature possessing the object can attempt a Reflex saving throw to halve the
 damage
-
-**Usage:** 3 + Charisma modifier times/day
 
 **Spectral Spells (Su)**
 
@@ -143,14 +143,14 @@ level of the spell.
 
 **Spirit Touch (Su)**
 
-**At 11th Level:** You can spend two uses of this ability to grant it the ghost touch and
-[undead bane](ref/magic-enh/bane) special abilities.
-
 **Standard:** You can touch one weapon to grant it the
 [ghost touch](ref/magic-enh/ghost-touch-weapon) special ability for a number of rounds equal to your
 Charisma modifier.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 11th level,** you can spend two uses of this ability to grant it the ghost touch and
+[undead bane](ref/magic-enh/bane) special abilities.
 
 **Terminal Aura (Su)**
 

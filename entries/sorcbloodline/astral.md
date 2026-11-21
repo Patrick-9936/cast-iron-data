@@ -63,22 +63,41 @@ You can warp time and project your senses into the Astral Plane.
 
 **Astral Warp (Sp)**
 
+**Gained:** At 1st Level
+
 **Ability:** You can create a sparkling field within 30 feet that distorts time within a 5-foot
 cube. This field lasts until the beginning of your next turn. Any creature that enters the area or
 that starts its turn within the cube takes an amount of force damage equal to 1d4 +
 [half](ref/misc/fractions-and-rounding) of your sorcerer level (Fortitude negates). While within the
 area, a creature takes a -1 penalty on Reflex saves and to AC.
 
-**Gained:** At 1st Level
-
 **Usage:** 3 + Charisma modifier times/day
 
 **Peerless Speed (Su)**
 
+**Gained:** At 3rd Level
+
 **Flavor:** You can tap into the power of the Astral's enhanced magical nature to gain the ability
 to accelerate your spellcasting dramatically.
 
-**Gained:** At 3rd Level
+**Swift:** Once per day, you can cast one cantrip you know as though it were augmented by the
+Quicken Spell metamagic feat, without altering the cantrip's level.
+
+**At 5th level,** the maximum level of the spell you can augment increases to 1.
+
+**At 7th level,** the maximum level of the spell you can augment increases to 2.
+
+**At 9th level,** the maximum level of the spell you can augment increases to 3.
+
+**At 11th level,** the maximum level of the spell you can augment increases to 4.
+
+**At 13th level,** the maximum level of the spell you can augment increases to 5.
+
+**At 15th level,** the maximum level of the spell you can augment increases to 6.
+
+**At 17th level,** the maximum level of the spell you can augment increases to 7.
+
+**At 19th level,** the maximum level of the spell you can augment increases to 8.
 
 **Special:** If you use this ability while on the Asgtral Plane or on any plane whose
 [enhanced magic trait](ref/rule/magic-traits) allows you to cast a spell as if augmented by Quicken
@@ -86,42 +105,25 @@ Spell, you can instead choose to augment the spell as though you had applied the
 [Empower Spell](ref/feat/empower-spell) or [Maximize Spell](ref/feat/maximize-spell) metamagic feats
 instead.
 
-**Swift:** Once per day, you can cast one cantrip you know as though it were augmented by the
-Quicken Spell metamagic feat, without altering the cantrip's level.
-
-At 5th level: The maximum level of the spell you can augment increases to 1.
-
-At 7th level: The maximum level of the spell you can augment increases to 2.
-
-At 9th level: The maximum level of the spell you can augment increases to 3.
-
-At 11th level: The maximum level of the spell you can augment increases to 4.
-
-At 13th level: The maximum level of the spell you can augment increases to 5.
-
-At 15th level: The maximum level of the spell you can augment increases to 6.
-
-At 17th level: The maximum level of the spell you can augment increases to 7.
-
-At 19th level: The maximum level of the spell you can augment increases to 8.
-
 **Astral Voyager (Sp)**
+
+**Gained:** At 9th Level
 
 **Ability:** You can send your consciousness to the Astral Plane once per day. This functions as
 [lesser astral projection](ref/spell/astral-projection-lesser) and allows you to bring with you up
 to a number of additional willing creature equal to [half](ref/misc/fractions-and-rounding) of your
 sorcerer level.
 
-**Gained:** At 9th Level
-
-**At 13th Level:** You can cast [plane shift](ref/spell/plane-shift) once per day, but only on
+**At 13th level,** you can cast [plane shift](ref/spell/plane-shift) once per day, but only on
 yourself and willing targets that accompany you, and only from the Material Plane to the Astral
 Plane and vice versa.
 
-**At 17th Level:** This ability instead functions as
+**At 17th level,** this ability instead functions as
 [astral projection](ref/spell/astral-projection).
 
 **Arrest the Flow (Su)**
+
+**Gained:** At 15th Level
 
 **Immediate:** Once per day, you can attune yourself to the Astral's timeless nature to halt the
 effects of one condition or affliction (such as [paralyzed](ref/rule/paralyzed),
@@ -138,9 +140,7 @@ Alternatively, you can use this ability to extend the duration of any one effect
 the end of your next turn; this does not extend the duration for any other creatures under the
 effect.
 
-**At 19th Level:** You can use this ability twice per day.
-
-**Gained:** At 15th Level
+**At 19th level,** you can use this ability twice per day.
 
 **Timeless Soul (Ex)**
 

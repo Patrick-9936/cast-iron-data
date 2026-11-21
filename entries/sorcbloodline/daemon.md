@@ -67,15 +67,15 @@ Like that of a daemon, your magic derives from painful and lingering death.
 
 **Gained:** At 1st Level
 
-**Special:** You can only apply this ability once every 24 hours to any given creature. Creatures
-that do not need to eat are immune to this effect.
-
 **Standard:** You can impose either starvation or thirst upon a living creature you can see within
 30 feet. This requires the creature to make a Constitution check each round (DC 10 + 1 for each
 previous check) to avoid taking 1d6 points of nonlethal damage. The creature must continue to make
 these checks until, as a **full-round action**, it quenches its thirst or sates its hunger.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**Special:** You can only apply this ability once every 24 hours to any given creature. Creatures
+that do not need to eat are immune to this effect.
 
 **Daemonic Resistances (Ex)**
 
@@ -84,15 +84,19 @@ these checks until, as a **full-round action**, it quenches its thirst or sates 
 **Passive:** You gain [resist](ref/umr/resistance) acid 5 and a +2 bonus on saving throws made
 against poison and death effects.
 
-**At 9th Level:** Your resistance to acid increases to 10 and your bonus on saving throws against
+**At 9th level,** your resistance to acid increases to 10 and your bonus on saving throws against
 poison and death effects increases to +4.
 
 **Age Out (Su)**
 
+**Gained:** At 9th Level
+
 **Flavor:** You gain the ability to instantly recover from most harmful effects by temporarily aging
 yourself decades in a matter of moments.
 
-**Gained:** At 9th Level
+**Standard:** You can shift your effective age to the next highest aging step (for example, from
+adulthood to middle age). Each time you do this, any debilitating condition or effect currently
+affecting you that initially allowed a Will or Fortitude saving throw immediately ends.
 
 **Special:** When you age yourself in this way, you take the
 [normal penalties associated with growing older](ref/rule/age) but gain none of the benefits. You
@@ -101,16 +105,12 @@ not or do not allow a Will or Fortitude saving throw to negate. You return to yo
 hours after the last time you used this ability, and all penalties to ability scores as a result of
 advanced age are then removed.
 
-**Standard:** You can shift your effective age to the next highest aging step (for example, from
-adulthood to middle age). Each time you do this, any debilitating condition or effect currently
-affecting you that initially allowed a Will or Fortitude saving throw immediately ends.
-
 **Wound Warp (Sp)**
+
+**Gained:** At 15th Level
 
 **Flavor:** You gain the ability to travel across the battlefield by literally erupting from the
 fatal wounds of deceased creatures.
-
-**Gained:** At 15th Level
 
 **Standard:** Once per day, you can teleport to an unoccupied square adjacent to any dead creature
 within 10 feet per caster level. Any creatures adjacent to the square you teleport to take 4d6
@@ -118,13 +118,13 @@ points of acid damage as you burst into being and shower them with acidic bile. 
 successful Reflex saves (DC 10 + half your sorcerer level + your Charisma modifier) take half
 damage. This ability otherwise functions like [dimension door](ref/spell/dimension-door).
 
-**At 20th Level:** You can use this ability twice per day.
+**At 20th level,** you can use this ability twice per day.
 
 **One with Abaddon (Su)**
 
-**Flavor:** Your body embraces the unspeakable power of your daemon lineage.
-
 **Gained:** At 20th Level
+
+**Flavor:** Your body embraces the unspeakable power of your daemon lineage.
 
 **Passive:** You gain immunity to acid, death effects, and poison. You also gain DR 5/good or silver
 and resistance to cold 10, electricity 10, and fire 10.

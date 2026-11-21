@@ -68,14 +68,14 @@ modifier in place of your CMB.
 
 **Rockseer (Su)**
 
+**Gained:** At 3rd Level
+
 **Ability:** You gain the stonecunning trait as a [dwarf](ref/race/dwarf); if already a dwarf, your
 bonus improves to +4.
 
-**Gained:** At 3rd Level
+**At 9th level,** you gain [tremorsense](ref/umr/tremorsense) 30 feet.
 
-**At 9th Level:** You gain [tremorsense](ref/umr/tremorsense) 30 feet.
-
-**At 15th Level:** You can see through solid objects as if using a
+**At 15th level,** you can see through solid objects as if using a
 [ring of x-ray vision](ref/magic-ring/ring-of-x-ray-vision) for a number of rounds per day equal to
 your sorcerer level. These rounds do not need to be consecutive.
 
@@ -87,17 +87,17 @@ your sorcerer level. These rounds do not need to be consecutive.
 ammunition), giving it the [bane](ref/magic-enh/bane) property against any creature with the earth
 subtype, oozes, or constructs made of stone or metal, for 1 minute.
 
-**At 17th Level:** You can use this ability twice per day.
+**At 17th level,** you can use this ability twice per day.
 
-**At 20th Level:** You can use this ability three times a day.
+**At 20th level,** you can use this ability three times a day.
 
 **Earth Glide (Ex)**
+
+**Gained:** At 15th Level
 
 **Ability:** You can glide through any sort of natural earth or stone as easily as a fish swims
 through water, with a burrow speed equal to half your normal speed. You do not leave a tunnel or
 trace of your passage.
-
-**Gained:** At 15th Level
 
 **Usage:** 1 minute/day per sorcerer level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
@@ -130,8 +130,8 @@ Rock is timeless; it endures.
 
 **Gained:** At 9th Level
 
-**Replaces:** Crystal shard
-
 **Swift:** You can grant yourself DR 10/adamantine.
 
 **Usage:** 1 round/day per sorcerer level
+
+**Replaces:** Crystal shard

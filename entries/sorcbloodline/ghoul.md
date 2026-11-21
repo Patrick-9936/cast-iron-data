@@ -83,34 +83,34 @@ and _[disease](ref/carried/bestiary/rules/universal-monster-rules/disease)_ spec
 
 **Passive:** You gain cold [resistance](ref/umr/resistance) 5 and a +1 natural armor bonus to AC.
 
-**At 9th Level:** Your cold resistance increases to 10 and natural armor bonus increases to +2.
+**At 9th level,** your cold resistance increases to 10 and natural armor bonus increases to +2.
 
-**At 15th Level:** Your natural armor bonus increases to +4.
+**At 15th level,** your natural armor bonus increases to +4.
 
 **Ravenous Frenzy (Ex)**
+
+**Gained:** At 9th Level
 
 **Ability:** You gain the benefits of [haste](ref/spell/haste). Each time you hit a creature with
 two or more claw attacks during a full attack while affected by this ability, that creature takes
 1d4 points of [bleed](ref/rule/bleed) damage.
 
-**Gained:** At 9th Level
-
 **Usage:** 1 time/day per sorcerer level
 
 **Earth Crawler (Su)**
+
+**Gained:** At 15th Level
 
 **Ability:** You gain a burrow speed of 30 feet. Additionally, as long as you are surrounded by at
 least 5 feet of dirt or natural stone on all sides, you gain
 [fast healing](ref/umr/fast-healing) 10. You can heal a number of hit points per day equal to 10 ×
 your sorcerer level with this ability.
 
-**Gained:** At 15th Level
-
 **Ghoulish Aspect (Su)**
 
-**Flavor:** You take on aspects of the nature and appearance of ghouls.
-
 **Gained:** At 20th Level
+
+**Flavor:** You take on aspects of the nature and appearance of ghouls.
 
 **Passive:** You no longer feel the need to eat and are immune to hunger (though you are still able
 to consume flesh if you choose to). You gain immunity to cold, nonlethal damage, paralysis, and

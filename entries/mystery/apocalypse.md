@@ -63,16 +63,16 @@ choose a previously chosen energy type and increase that resistance by 5., 0, 5
 
 **Flavor:** You can root yourself to your current spot and cause the world around you to fall apart.
 
+**Standard:** You can cause the ground in a 5-foot radius [burst](ref/misc/burst) centered on you to
+crumble and rupture, becoming [difficult terrain](ref/rule/terrain-and-obstacles). As a **move
+action** on subsequent rounds, you can continue to concentrate on this area as though concentrating
+on a spell; doing so increases the radius of difficult terrain by 5 feet (maximum 30-foot-radius).
+
 **Prereq:** 7th-level oracle
 
 **Special:** You immediately cease concentrating if you move from the square you started in when you
 activated this ability. Difficult terrain created by this ability remains for 24 hours before
 returning to its original state.
-
-**Standard:** You can cause the ground in a 5-foot radius [burst](ref/misc/burst) centered on you to
-crumble and rupture, becoming [difficult terrain](ref/rule/terrain-and-obstacles). As a **move
-action** on subsequent rounds, you can continue to concentrate on this area as though concentrating
-on a spell; doing so increases the radius of difficult terrain by 5 feet (maximum 30-foot-radius).
 
 **Doomsayer (Su)**
 
@@ -91,16 +91,16 @@ round to continue your _doomsaying._
 
 **Dust to Dust (Su)**
 
-**At 10th Level:** You can use this ability twice per day.
-
-**At 11th Level:** This damage increases to 1d6 × your Charisma modifier (minimum 1d6).
-
 **Standard:** Once per day, you can cause the weapons around you to shatter in their wielders'
 hands. When you use this ability, attempt a single [sunder](ref/rule/sunder) combat maneuver, using
 your caster level in place of your base attack bonus and your Charisma modifier in place of
 Strength. Every creature except you in a 10-foot radius that is wielding a manufactured weapon is
 targeted by the same attempt. You deal an amount of damage to each weapon affected equal to 1d4 ×
 your Charisma modifier (minimum 1d4).
+
+**At 10th level,** you can use this ability twice per day.
+
+**At 11th level,** this damage increases to 1d6 × your Charisma modifier (minimum 1d6).
 
 **Erosion Touch (Su)**
 
@@ -112,13 +112,13 @@ sunder combat maneuver.
 
 **Near Death (Su)**
 
-**At 11th Level:** The bonus increases to +4.
-
-**At 7th Level:** This bonus also applies on saves against death effects, sleep effects, and
-stunning.
-
 **Passive:** You gain a +2 insight bonus on saves against diseases, mind-affecting effects, and
 poisons.
+
+**At 7th level,** this bonus also applies on saves against death effects, sleep effects, and
+stunning.
+
+**At 11th level,** the bonus increases to +4.
 
 **Pass the Torch (Su)**
 
@@ -131,13 +131,13 @@ if you have had this ability active for 5 rounds. You can end this ability as a 
 
 **Usage:** 1 round/day per 2 oracle levels
 
-At 5th level: You can use this ability 2 times a day.
+**At 5th level,** you can use this ability 2 times a day.
 
-At 10th level: You can use this ability 3 times a day.
+**At 10th level,** you can use this ability 3 times a day.
 
-At 15th level: You can use this ability 4 times a day.
+**At 15th level,** you can use this ability 4 times a day.
 
-At 20th level: You can use this ability 5 times a day.
+**At 20th level,** you can use this ability 5 times a day.
 
 **Power of the Fallen (Sp)**
 
@@ -146,9 +146,9 @@ creature. This ability acts as [death knell](ref/spell/death-knell), except you 
 (including yourself) within 30 feet to gain the benefit of this effect, and you can apply the +2
 enhancement bonus to either Strength, Dexterity, or Constitution.
 
-**Prereq:** 5th-level oracle
-
 **Usage:** Charisma modifier times/day
+
+**Prereq:** 5th-level oracle
 
 **Spell Blast (Su)**
 
@@ -161,9 +161,9 @@ direction. You don't provoke an attack of opportunity for this bull rush attempt
 **Ability:** You can attempt [overrun](ref/rule/overrun) combat maneuvers against opponents that are
 up to two size categories larger than you.
 
-**At 10th Level:** You gain [Greater Overrun](ref/feat/greater-overrun) as a bonus feat.
+**At 5th level,** you gain [Improved Overrun](ref/feat/improved-overrun) as a bonus feat.
 
-**At 5th Level:** You gain [Improved Overrun](ref/feat/improved-overrun) as a bonus feat.
+**At 10th level,** you gain [Greater Overrun](ref/feat/greater-overrun) as a bonus feat.
 
 **Special:** You don't need to meet the prerequisites to gain these feats.
 

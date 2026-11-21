@@ -60,25 +60,25 @@ Your benighted heritage infuses your mastery of magic with the essence of shadow
 
 **Gained:** At 1st Level
 
-**Special:** Creatures with [low-light vision](ref/rule/low-light-vision) or
-[darkvision](ref/rule/darkvision) are not dazzled by this ability.
-
 **Standard:** You can make a melee touch attack that inflicts nonlethal damage equal to 1d4 +
 [half](ref/misc/fractions-and-rounding) of your sorcerer level. In addition, the target is
 [dazzled](ref/misc/dazzled) for 1 minute.
 
 **Usage:** 3 + Charisma modifier times/day
 
-**Nighteye (Ex)**
+**Special:** Creatures with [low-light vision](ref/rule/low-light-vision) or
+[darkvision](ref/rule/darkvision) are not dazzled by this ability.
 
-**Ability:** You gain [darkvision](ref/rule/darkvision) 30 feet.
+**Nighteye (Ex)**
 
 **Gained:** At 3rd Level
 
+**Ability:** You gain [darkvision](ref/rule/darkvision) 30 feet.
+
+**At 9th level,** you gain [darkvision](ref/rule/darkvision) 60 feet.
+
 **Special:** If you already possess [darkvision](ref/rule/darkvision), its range is increased by
 these amounts.
-
-**At 9th Level:** You gain [darkvision](ref/rule/darkvision) 60 feet.
 
 **Shadow Well (Sp)**
 
@@ -103,12 +103,12 @@ within 60 feet of you.
 
 **Enveloping Darkness (Sp)**
 
+**Gained:** At 15th Level
+
 **Ability:** Once a day, you may create an area of _[deeper darkness](ref/spell/deeper-darkness)_
 that you can see through without penalty. All creatures except you are
 [entangled](ref/rule/entangled) within this darkness unless using
 [freedom of movement](ref/spell/freedom-of-movement) or a similar effect.
-
-**Gained:** At 15th Level
 
 **Shadow Master (Su)**
 
@@ -138,11 +138,11 @@ Your shadow magic is more defensive than offensive.
 
 **Gained:** At 1st Level
 
-**Replaces:** Shadowstrike
-
 **Standard:** You can grant one target a _[cloak of shadows](ref/spell/cloak-of-shadows)._ This
 _cloak_ gives the target a bonus on Stealth checks made in areas of dim or no light equal to half
 your sorcerer level for a number of rounds equal to half your sorcerer level (minimum +1 bonus for 1
 round).
 
 **Usage:** 3 + Charisma modifier times/day
+
+**Replaces:** Shadowstrike

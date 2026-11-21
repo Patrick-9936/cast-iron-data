@@ -59,19 +59,19 @@ grows as you gain power.
 
 **Claws (Su)**
 
+**Gained:** At 1st Level
+
 **Free:** You can grow claws. These claws are treated as [natural weapons](ref/umr/natural-attacks),
 allowing you to make two claw attacks as a full attack action using your full base attack bonus.
 These attacks deal 1d4 points of damage each (1d3 if you are Small) plus your Strength modifier.
 
-**Gained:** At 1st Level
-
 **Usage:** 3 + Charisma modifier rounds/day
 
-**At 5th Level:** These claws are considered magic weapons for the purpose of overcoming DR.
+**At 5th level,** these claws are considered magic weapons for the purpose of overcoming DR.
 
-**At 7th Level:** The damage increases by one step to 1d6 points of damage (1d4 if you are Small).
+**At 7th level,** the damage increases by one step to 1d6 points of damage (1d4 if you are Small).
 
-**At 11th Level:** These claws become [flaming](ref/magic-enh/flaming) weapons, each dealing an
+**At 11th level,** these claws become [flaming](ref/magic-enh/flaming) weapons, each dealing an
 additional 1d6 points of fire damage on a successful hit.
 
 **Demon Resistances (Ex)**
@@ -81,7 +81,7 @@ additional 1d6 points of fire damage on a successful hit.
 **Passive:** You gain [resist](ref/umr/resistance) electricity 5 and a +2 bonus on saving throws
 made against poison.
 
-**At 9th Level:** Your resistance to electricity increases to 10 and your bonus on poison saving
+**At 9th level,** your resistance to electricity increases to 10 and your bonus on poison saving
 throws increases to +4.
 
 **Strength of the Abyss (Ex)**
@@ -90,17 +90,17 @@ throws increases to +4.
 
 **Passive:** You gain a +2 inherent bonus to your Strength.
 
-At 13th level: The bonus increases to +4.
+**At 13th level,** the bonus increases to +4.
 
-At 17th level: The bonus increases to +6.
+**At 17th level,** the bonus increases to +6.
 
 **Added Summonings (Su)**
+
+**Gained:** At 15th Level
 
 **Ability:** Whenever you summon a creature with the [demon subtype](ref/subtype/demon) or the
 [fiendish template](ref/template/fiendish) using a _[summon monster](ref/spell/summon-monster)_
 spell, you summon one additional creature of the same kind.
-
-**Gained:** At 15th Level
 
 **Demonic Might (Su)**
 
@@ -131,12 +131,12 @@ Flight is often the key to survival.
 
 **Wings of the Abyss (Su)**
 
+**Gained:** At 9th Level
+
 **Ability:** You can sprout leathery wings and can fly with a speed of 60 feet and good
 maneuverability.
 
-**Gained:** At 9th Level
-
-**Replaces:** Strength of the abyss
-
 **Usage:** 1 minute/day per sorcerer level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
+
+**Replaces:** Strength of the abyss

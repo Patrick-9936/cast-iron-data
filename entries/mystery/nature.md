@@ -77,8 +77,6 @@ Charisma modifier.
 
 **Flavor:** You can draw life force from the bodies of enemies and channel it into yourself.
 
-**Prereq:** 7th-level oracle
-
 **Standard:** You can drain the life essence from one living target within 30 feet. The target takes
 1d6 points of damage per two levels you possess (maximum 10d6). You gain
 [temporary hit points](ref/rule/temporary-hit-points) equal to the damage you deal. You can't gain
@@ -87,6 +85,8 @@ the subject). The temporary hit points last a number of hours equal to your Char
 target receives a Fortitude save to halve the damage (and the temporary hit points you gain).
 
 **Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
+
+**Prereq:** 7th-level oracle
 
 **Natural Divination (Ex)**
 
@@ -133,38 +133,40 @@ number you gained when you first selected this revelation.)
 
 **Spirit of Nature (Su)**
 
-**At 10th Level:** This ability now works everywhere, even in civilized or wholly artificial realms.
-
-**At 15th Level:** You gain [fast healing](ref/umr/fast-healing) 3 for 1d4 rounds when reduced to
-negative hit points.
-
-**At 5th Level:** You gain [fast healing](ref/umr/fast-healing) 1 for 1d4 rounds whenever you are
-reduced to negative hit points.
-
 **Passive:** When in a natural setting, whenever you are reduced to negative hit points, you
 automatically stabilize.
 
+**At 5th level,** you gain [fast healing](ref/umr/fast-healing) 1 for 1d4 rounds whenever you are
+reduced to negative hit points.
+
+**At 10th level,** this ability now works everywhere, even in civilized or wholly artificial realms.
+
+**At 15th level,** you gain [fast healing](ref/umr/fast-healing) 3 for 1d4 rounds when reduced to
+negative hit points.
+
 **Transcendental Bond (Su)**
+
+**Flavor:** You become so attuned to the common spirit shared by all living things that you can use
+it to communicate with allies.
 
 **Ability:** You may communicate with your allies for a number of rounds per day equal to your
 oracle level as if using [telepathic bond](ref/spell/telepathic-bond). You may designate a number of
 creatures as your ally equal to your Charisma modifier. Designating a creature is a **standard
 action** that requires a touch.
 
-**Flavor:** You become so attuned to the common spirit shared by all living things that you can use
-it to communicate with allies.
-
-**At 10th Level:** You may use this bond to cast a touch spell on a designated ally once per day.
+**At 10th level,** you may use this bond to cast a touch spell on a designated ally once per day.
 
 **Undo Artifice (Sp)**
+
+**Flavor:** You gain the ability to reduce a nonliving item to its component parts, essentially
+erasing the hand of artifice and rendering the item into a pile of raw natural materials.
 
 **Ability:** This effect acts as the spell [polymorph any object](ref/spell/polymorph-any-object),
 working on both magical and nonmagical nonliving objects. The duration is always permanent. Unlike
 _[polymorph any object](ref/spell/polymorph-any-object),_ it cannot be used to mimic the effects of
 other spells.
 
-**Flavor:** You gain the ability to reduce a nonliving item to its component parts, essentially
-erasing the hand of artifice and rendering the item into a pile of raw natural materials.
+**Usage:** Charisma modifier times/day
 
 **Prereq:** 11th-level oracle
 
@@ -172,21 +174,19 @@ erasing the hand of artifice and rendering the item into a pile of raw natural m
 Magic items receive a circumstance bonus on this save equal to +1 for every 5,000 gp in the item's
 value.
 
-**Usage:** Charisma modifier times/day
-
 ### Final Revelation
 
 **Final Revelation**
 
+**Gained:** At 20th Level
+
 **Flavor:** You have discovered the intrinsic secrets of life itself, granting you incredible
 control over your own body.
 
-**Fullround:** Once per day, you can surround yourself with an organic cocoon. While enclosed in the
-cocoon, you are considered [helpless](ref/misc/helpless). Eight hours later, you emerge having
+**Full-round:** Once per day, you can surround yourself with an organic cocoon. While enclosed in
+the cocoon, you are considered [helpless](ref/misc/helpless). Eight hours later, you emerge having
 changed your type to plant, animal, or humanoid, gaining superficial physical characteristics as
 appropriate. This change does not alter your Hit Dice, hit points, saving throws, skill points,
 class skills, or proficiencies. Each time the transformation is made, you are cleansed of all
 poisons or diseases, are restored to full hit points, and heal all ability damage. You must select a
 new type every time the transformation is made.
-
-**Gained:** At 20th Level

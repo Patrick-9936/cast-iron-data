@@ -92,30 +92,30 @@ blood of the victim.
 
 **Nanite Surge (Ex)**
 
+**Gained:** At 3rd Level
+
 **Immediate:** Once per day, you can cause your nanites to surge, granting you a bonus equal to 3 +
 your sorcerer level on any one d20 roll; this ability must be activated before the roll is made.
 
 If you already possess the _nanite surge_ ability from another source (such as from being an
 [android](ref/race/android)), you can use your _nanite surge_ an additional time per day.
 
-**At 9th Level:** You can use this ability an additional time per day.
-
-**Gained:** At 3rd Level
+**At 9th level,** you can use this ability an additional time per day.
 
 **Nanite Resurgence (Ex)**
+
+**Gained:** At 9th Level
 
 **Immediate:** Once per day upon being reduced to one-quarter your maximum hit points, you can force
 the mechanical swarm living inside you to keep you alive. This ability functions like a
 [resurgent transformation](ref/spell/resurgent-transformation) spell using your sorcerer level as
 the caster level, except it is an extraordinary ability and cannot be dispelled.
 
-**Gained:** At 9th Level
-
-**At 17th Level:** You can use this ability twice per day (though using this ability twice in one
+**At 17th level,** you can use this ability twice per day (though using this ability twice in one
 24-hour period entails a chance of system shock and death; see the spell's description for more
 details).
 
-**At 20th Level:** You never die of system shock from using this ability.
+**At 20th level,** you never die of system shock from using this ability.
 
 **Distributed Body (Ex)**
 
