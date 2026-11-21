@@ -2300,6 +2300,25 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/hex/poison-touch"
+name = "Poison Touch (Ex)"
+occurrence = 1
+span_sha256 = "90563a4a6f275d74fa5adb886fa10844a4e2ba3f4fdea244bdbdd51c78ad11ec"
+print = "Potions and Poisons p. 10"
+replacement = '''
+**Poison Touch (Ex)**
+
+**Ability:** The witch empowers herself or an ally within 30 feet with poisonous nails. The affected creature gains a [claw attack](ref/umr/natural-attacks) as a secondary attack that deals 1d3 points of damage (1d2 for Small creatures) and has the following poison ability: Witch Toxin: Claw-injury; save Fort DC 10 + half the witch's level + the witch's Intelligence modifier; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save.
+
+The creature gains this claw attack for a number of minutes equal to the witch's level. If the
+target already has a claw attack, that attack gains the poison ability listed above, but the DC is 1
+higher.
+
+**Special:** Once a creature has benefited from this hex, it cannot benefit from it again for 24
+hours.
+'''
+
+[[resolution]]
 id = "ref/hex/scar"
 name = "Scar (Su)"
 occurrence = 1
@@ -3197,6 +3216,33 @@ replacement = '''
 Infernal, or Terran. Whenever you are in combat, you can only speak and understand the selected
 language. This does not interfere with spellcasting, but it does apply to spells that are
 [language dependent](ref/spelldef/language-dependent).
+'''
+
+[[resolution]]
+id = "ref/oraclecurse/toxic-blood"
+name = "Toxic Blood"
+occurrence = 1
+span_sha256 = "86f4f7bb02ae04ca5cc7fc9cc71b66ae0f066251569ce366137ee047f662c761"
+print = "Villain Codex p. 105"
+replacement = '''
+**Toxic Blood**
+
+**Flavor:** Your body is ravaged by a potent, slow-acting poison that resists all treatment.
+
+**Benefit:** You gain the [poison use](ref/ability/poison-use) ability.
+
+**At 5th level,** you are so envenomed that your touch becomes poisonous. Once per day for every 4 oracle levels you have, you can deliver a unique contact poison as a touch attack or via an unarmed strike or natural weapon. This poison deals 1d2 points of Dexterity damage per round for 5 rounds. Poisoned creatures can attempt a Fortitude save (DC = 10 + 1/2 your oracle level + your Charisma modifier) each round. Success negates the damage and ends the affliction.
+
+**At 10th level,** the poison deals 1d3 points of Dexterity damage per round for 7 rounds.
+
+**At 15th level,** you can expend a use of your poison touch to transfer any poison effect you are currently experiencing from yourself to another creature. The touched creature must immediately attempt a saving throw against the poison (using the poison's initial DC and duration for a single dose, regardless of how many doses are currently affecting you). If the creature fails its save, the poison ceases to act on you, as if you had succeeded at all the necessary saves (this bypasses your immunity to effects that remove poison).
+
+**Penalty:** Whenever you must attempt a Fortitude save to resist a poison effect, roll twice and
+take the lowest result. Additionally, you need one more consecutive successful save to end an
+ongoing poison. You lose any immunity to poison you have upon receiving this curse, and you become
+immune to [delay poison](ref/spell/delay-poison) and
+[neutralize poison](ref/spell/neutralize-poison), as well as other attempts to suppress or remove
+the poison from which you are suffering.
 '''
 
 [[resolution]]
@@ -4965,6 +5011,21 @@ replacement = '''
 **Ability:** Once per day, instead of rolling for a skill check, you can choose your d20 result.
 
 Additionally, you gain the ability to change form at will as if using [greater polymorph](ref/spell/polymorph-greater), except that you can mimic the form of a specific individual.
+'''
+
+[[resolution]]
+id = "ref/talent/combat-swipe-unchained-rogue"
+name = "Combat Swipe (Unchained Rogue)"
+occurrence = 1
+span_sha256 = "b0e61a1fc50830bb277721acf9d382abcb411ed3b74aa2d5714e1895a4d6cb69"
+print = "Pathfinder Unchained p. 21"
+replacement = '''
+**Combat Swipe (Unchained Rogue)**
+
+**Ability:** A rogue who selects this talent gains [Improved Steal](ref/feat/improved-steal) as a
+bonus feat.
+
+**At 6th level,** she is treated as if she met all the prerequisites for [Greater Steal](ref/feat/greater-steal) (although she must take the feat as normal).
 '''
 
 [[resolution]]

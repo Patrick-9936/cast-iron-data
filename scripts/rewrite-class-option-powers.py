@@ -42,8 +42,9 @@ Files
     The app's check skips a failing power that this file names. The script checks the file:
     an exception applies only to the exact span it was made for; an exception whose span changed
     is stale, one that matches no candidate is orphaned, and one whose power passes validation
-    is obsolete. `--check` and `--write` fail on each until it is removed or redone. An excepted
-    power leaves the review queue.
+    is obsolete (an action-first pair passes validation, so it waits in the queue and is never an
+    exception). `--check` and `--write` fail on each until it is removed or redone. An excepted
+    power leaves the review queue. The file is read as strictly as the app reads it.
 
 `scripts/class-option-power-resolutions.toml`
     The hand-made replacements, one `[[resolution]]` each: `id`, `name`, `occurrence`,
@@ -756,19 +757,36 @@ class PowerException:
     print: str
 
 
+EXCEPTION_KEYS = {"id", "name", "occurrence", "span_sha256", "reason", "print"}
+HEX64 = re.compile(r"[0-9a-f]{64}")
+
+
 def load_exceptions(path: Path) -> dict[tuple[str, str, int], PowerException]:
-    """`power-exceptions.toml`. A missing file holds no exception."""
+    """`power-exceptions.toml`. A missing file holds no exception. The file is read as strictly
+    as the app's check reads it: no unknown key, a required `span_sha256` of 64 lowercase hex
+    digits, an integer `occurrence` from 1, and a text for `reason` and `print`."""
     if not path.exists():
         return {}
     data = tomllib.loads(path.read_text())
+    if set(data) - {"exception"}:
+        raise SystemExit(f"{path}: unknown top-level key {sorted(set(data) - {'exception'})}")
     out: dict[tuple[str, str, int], PowerException] = {}
     for r in data.get("exception", []):
+        where = f"{path}: the exception {r.get('name')!r} of {r.get('id')!r}"
+        if set(r) != EXCEPTION_KEYS:
+            raise SystemExit(f"{where} needs exactly the keys {sorted(EXCEPTION_KEYS)}")
+        if not all(isinstance(r[k], str) for k in ("id", "name", "span_sha256", "reason", "print")):
+            raise SystemExit(f"{where}: id, name, span_sha256, reason and print are strings")
+        if not isinstance(r["occurrence"], int) or isinstance(r["occurrence"], bool) or r["occurrence"] < 1:
+            raise SystemExit(f"{where}: occurrence is an integer from 1")
+        if not HEX64.fullmatch(r["span_sha256"]):
+            raise SystemExit(f"{where}: span_sha256 is 64 lowercase hex digits")
         exc = PowerException(r["id"], r["name"], r["occurrence"], r["span_sha256"], r["reason"], r["print"])
         key = (exc.id, exc.name, exc.occurrence)
         if key in out:
             raise SystemExit(f"{path}: two exceptions for {key}")
         if not exc.reason.strip() or not exc.print.strip():
-            raise SystemExit(f"{path}: the exception for {key} needs a reason and a print reference")
+            raise SystemExit(f"{where} needs a reason and a print reference")
         out[key] = exc
     return out
 
@@ -845,7 +863,7 @@ def process_body(entry_id: str, lines: list[str], resolutions,
             outcomes.append(Outcome(entry_id, c.name, c.occurrence, "stale-exception", ["stale-exception"], sha))
         elif exc:
             # Excepted: the power stays as it is. An exception for a power that passes is obsolete.
-            if not validate(run) and not action_first_pair(run):
+            if not validate(run):
                 status = "obsolete-exception"
             else:
                 status = "excepted"
@@ -1325,6 +1343,36 @@ def self_test() -> int:
     expect(unused_exceptions(exc(sha), outs) == [], "a matched exception is not orphaned")
     expect(unused_exceptions({("ref/gone", "Gone", 1): None}, outs) == [("ref/gone", "Gone", 1)],
            "an orphaned exception is reported")
+
+    # An action-first pair passes validation: an exception for it is obsolete, as in the app.
+    pair_body = "**Pair (Su)**\n\n**Standard:** Act.\n\n**Passive:** Be.\n"
+    pair_key = ("ref/x/pair", "Pair (Su)", 1)
+    pair_sha = span_sha(parse_blocks(pair_body.split("\n"))[:3])
+    new, outs = process_body(pair_key[0], pair_body.split("\n"), {},
+                             exceptions={pair_key: PowerException(*pair_key, pair_sha, "r", "p")})
+    expect([o.status for o in outs] == ["obsolete-exception"], f"an action-first pair is obsolete: {outs}")
+
+    # The loader accepts the app's file and nothing else.
+    import tempfile
+    good = ('[[exception]]\nid = "ref/a/b"\nname = "N"\noccurrence = 1\n'
+            f'span_sha256 = "{"a" * 64}"\nreason = "r"\nprint = "p"\n')
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "power-exceptions.toml"
+        path.write_text(good)
+        expect(len(load_exceptions(path)) == 1, "a valid exceptions file loads")
+        for broken in (good.replace("occurrence = 1", "occurrence = 0"),
+                       good.replace("occurrence = 1", 'occurrence = "1"'),
+                       good.replace("a" * 64, "A" * 64),
+                       good.replace("a" * 64, "ab"),
+                       good + "extra = 1\n",
+                       good.replace('span_sha256 = "%s"\n' % ("a" * 64), ""),
+                       good.replace('reason = "r"', 'reason = " "')):
+            path.write_text(broken)
+            try:
+                load_exceptions(path)
+                expect(False, f"a broken exceptions file must be refused: {broken!r}")
+            except SystemExit:
+                pass
 
     for message in failures:
         print("FAIL", message)
