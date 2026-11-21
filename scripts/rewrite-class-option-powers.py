@@ -636,6 +636,14 @@ def resolution_blocks(res: Resolution) -> list[Block]:
     return parse_blocks(res.replacement.strip("\n").split("\n"))
 
 
+def resolution_power_text(res: Resolution) -> str:
+    """The span text of the power that the replacement starts with (what the corpus holds once the
+    resolution is applied: the blocks after the power are not part of its span)."""
+    blocks = resolution_blocks(res)
+    cands = candidates(blocks)
+    return span_text(blocks[cands[0].start:cands[0].end]) if cands else span_text(blocks)
+
+
 def check_resolution(res: Resolution) -> list[str]:
     """A replacement starts with a candidate, and every candidate in it passes validation. Blocks
     after the last candidate's boundary are free: a power that print sets as a bulleted list keeps
@@ -682,7 +690,7 @@ def process_body(entry_id: str, lines: list[str], resolutions,
         if res and res.span_sha256 == sha:
             replacement = [tuple(b.lines) for b in resolution_blocks(res)]
             status = "resolved"
-        elif res and span_text(run) == span_text(resolution_blocks(res)):
+        elif res and span_text(run) == resolution_power_text(res):
             status = "resolution-noop"
         else:
             if res:
@@ -938,6 +946,8 @@ def self_test() -> int:
     expect(check_resolution(bad) != [], "a replacement that fails validation is refused")
     listed = Resolution(res.id, res.name, 1, res.span_sha256, "x", text + "\n- **Option:** A bullet of print.\n")
     expect(check_resolution(listed) == [], "a valid power followed by a list is accepted")
+    new, outs = process_body(res.id, (listed.replacement.strip("\n")).split("\n"), {(res.id, res.name, 1): listed})
+    expect([o.status for o in outs] == ["resolution-noop"], f"an applied list resolution is a no-op: {outs}")
     bare = Resolution(res.id, res.name, 1, res.span_sha256, "x", "A paragraph.\n\n" + text)
     expect(check_resolution(bare) != [], "a replacement must start with a power")
 
