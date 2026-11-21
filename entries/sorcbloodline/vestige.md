@@ -68,8 +68,6 @@ you to cast any one of your spells known and increase the save DC of that spell 
 
 **Bonded Object**
 
-**Flavor:** Relevant text from the wizard class ability.
-
 **Ability:** You begin play with a _bonded object_ at no cost. Objects that are the subject of an
 arcane bond must fall into one of the following categories: amulet, ring, staff, wand, or weapon.
 These objects are always masterwork quality. Weapons acquired at 1st level are not made of any

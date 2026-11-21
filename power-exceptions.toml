@@ -127,7 +127,7 @@ print = "Pathfinder #139: The Dead Road p. 66"
 id = "ref/mystery/reaper"
 name = "Haunt Channeler (Su)"
 occurrence = 2
-span_sha256 = "fd2deb47fcad9f29ef28f5c21bedf42189a9038d8af43bbf6d7e3fe824447da0"
+span_sha256 = "1840258c222993c4bbecec31e37114a5f883edccb727f89ceb02ce439840bce7"
 reason = "The book is not among the reviewed PDFs, so print cannot settle it. The power has a numbered row (`Ability2`) and a `Passive` row; print decides their order and paragraphs."
 print = "Pathfinder #139: The Dead Road p. 66"
 

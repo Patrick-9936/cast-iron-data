@@ -84,8 +84,6 @@ _[heat](ref/carried/bestiary/rules/universal-monster-rules/heat)_ ability.
 
 **Heat**
 
-**Flavor:** Text from the efreeti monster entry.
-
 **Passive:** An efreeti's body deals 1d6 points of fire damage whenever it hits in melee, or in each
 round it [grapples](ref/rule/grapple).
 

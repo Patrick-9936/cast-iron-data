@@ -57,7 +57,7 @@ to undead) and the DC.
 
 **Combat Healer (Su)**
 
-**Flavor:** This is the same as the [battle](ref/mystery/battle) mystery revelation.
+**Flavor:** As the [battle](ref/mystery/battle) mystery revelation.
 
 **Ability:** Whenever you cast a cure spell (a spell with "cure" in its name), you can cast it as a
 **swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by expending two

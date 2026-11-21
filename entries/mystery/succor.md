@@ -49,7 +49,7 @@ An oracle with the Succor mystery can choose from any of the following revelatio
 
 **Combat Healer (Su)**
 
-**Flavor:** This is the same as the [battle](ref/mystery/battle) mystery revelation.
+**Flavor:** As per the [battle](ref/mystery/battle) mystery revelation of the same name.
 
 **Ability:** Whenever you cast a cure spell (a spell with "cure" in its name), you can cast it as a
 **swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by expending two
@@ -77,8 +77,7 @@ effect.
 
 **Enhanced Cures (Su)**
 
-**Flavor:** This is the same as the [life](ref/mystery/life) oracle mystery revelation of the same
-name.
+**Flavor:** As per the [life](ref/mystery/life) oracle mystery revelation of the same name.
 
 **Ability:** Whenever you cast a _cure_ spell, the maximum number of hit points healed is based on
 your oracle level, not the limit based on the spell. For example, an 11th-level oracle with this
@@ -169,8 +168,7 @@ You can use this revelation once per day
 
 **Soul Siphon (Su)**
 
-**Flavor:** This is the same as the [bones](ref/mystery/bones) oracle mystery revelation of the same
-name.
+**Flavor:** As per the [bones](ref/mystery/bones) oracle mystery revelation of the same name.
 
 **Ability:** As a ranged touch attack, you can unleash a ray that causes a target to gain one
 [negative level](ref/rule/energy-drain-and-negative-levels). The ray has a range of 30 feet. This
@@ -185,7 +183,7 @@ oracle level.
 
 **Spirit Boost (Su)**
 
-**Flavor:** This is the same as the _life_ oracle mystery of the same name.
+**Flavor:** As per the [life](ref/mystery/life) oracle mystery revelation of the same name.
 
 **Ability:** Whenever your healing spells heal a target up to its maximum hit points, any excess
 points persist for 1 round per level as [temporary hit points](ref/rule/temporary-hit-points) (up to
