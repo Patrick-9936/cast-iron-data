@@ -3,14 +3,16 @@
 `trade-review-452-baseline.tsv` is the queue as `cast-iron-corpus migrate-trades` wrote it: one row for each
 trade that the migration could not resolve, and one row for each `**Replaces:**` or `**Alters:**` line that no
 trade can hold (`trade` is 0; `subsection` names the variant section that prints the line). It is preserved
-and never edited. `trade-review-452.tsv` has the same rows with a decision for each, and `check` fails when
+and never edited by hand. The one command that changes it is `split` (see Splits below), which replaces the row
+of a composite trade by one row for each part and renumbers the later trades of the entry. `trade-review-452.tsv` has the same rows with a decision for each, and `check` fails when
 the two disagree (a row missing, added or repeated). Every row is closed: `resolved` (the trade names a
 feature) or `exception` (it stays unresolved on purpose). A trade without a feature is never treated as
 compatible by a filter, so an exception costs a missing link, never a wrong one.
 
-Tools (run from the corpus root): `trade-review-452.py` (`fill`, `apply`, `normalize`, `check`, `stats`),
-`trade-review-452-print.py` (needs the book PDFs as an argument; commits only titles, pages and verdicts) and
-`trade-review-452-decisions.tsv` (the decisions: first matching line wins).
+Tools (run from the corpus root): `trade-review-452.py` (`split`, `fill`, `apply`, `normalize`, `check`, `stats`),
+`trade-review-452-print.py` (needs the book PDFs as an argument; commits only titles, pages and verdicts),
+`trade-review-452-decisions.tsv` (the decisions: first matching line wins) and `trade-splits-452.tsv` (the
+parts of each composite trade that is split).
 
 ## Convention: steps are grant levels
 
@@ -32,6 +34,33 @@ Columns of the queue: `id`, `kind`, `trade` (1-based position in the entry's `tr
 the row: see below), and for a named part of a feature
 `class_hit`, `class_book`, `class_page` (a search hit for the name in the class's own pages: see below).
 
+## Splits
+
+A trade holds one feature. A printed item that names several (`Mutagen, 2nd-level discovery`) is split into one
+trade per feature when the entry's own line lets it: the printed names of the trades are joined with `, ` and
+compared with the `**Replaces:**` and `**Alters:**` lines (the drift check), so the parts must join with `, ` to
+the item as the line prints it. `trade-splits-452.tsv` lists the parts: `id`, `op`, `composite` (the item), then
+for each part, in print order, `part` (its printed text) and its `feature`, `class`, `levels`, `power`, and a
+`note`, and `reads_as` when the parts join to other text than the composite. `split` rewrites the entry, the baseline, the queue and the two adjustment logs together; it decides
+from the entry alone, so a second run changes no byte. It checks every row and computes every new file before it writes any, and it replaces each file atomically (a run that is killed between two files is repaired with `git checkout`).
+`fill` gives each part row the decision `split-part` from this file, and `check` fails while a composite is
+still a trade or its parts are not next to each other.
+
+Convention for the parts: the features of a class are the anchors of its entry; a part that names a grant
+level is `levels` (`10th-level fighter training` is `fighter-training` at `[10]`); a part that names a
+component that the level alone does not tell apart is `power` (`3rd-level bloodline spell` is `bloodline` at
+`[3]` with `power = "bloodline spell"`, as `bloodline feat` is). When one item of an entry splits, the other
+trades of the same key must not share a level with a part: `hallucinist` names the steps of trap sense after
+the 3rd as `[6, 9, 12, 15, 18]` for that reason.
+
+An item that print shows to be one feature is not split but resolved (`Alchemy and replaces` is Alchemy;
+`7th- and 10th-level ki pool abilities` is Ki Pool at `[7, 10]`). An item that the line prints with `and` and no comma between its features (`Proficiency with heavy armor and tower
+shields`) cannot split as printed, because the joined parts would read `heavy armor, tower shields`. By the owner's
+decision of 2026-11-21 (#134) the separator of such a line is changed from ` and ` to `, ` and nothing else (the
+Tactician's line, which named only the section, names the two features that print names). The splits file then
+carries `reads_as`, the text that the parts join to, and the evidence row of each part says that the body
+separator was changed by that decision, with the book and the page. The ten items of #134 were handled so.
+
 ## Codes of `resolved` rows
 
 | Code | Meaning |
@@ -44,6 +73,7 @@ the row: see below), and for a named part of a feature
 | `same-feature`, `name-variant` | The printed name is the feature, or a variant spelling of it. |
 | `editor-note` | The parenthesis is the book's note; the whole feature is named. |
 | `proficiency`, `spellcasting` | The class's proficiencies, or its spells. |
+| `split-part` | One part of a composite item that `split` made (see Splits); the part's own row in `trade-splits-452.tsv` names the feature, levels and power. |
 
 ## Codes of `exception` rows
 
@@ -56,7 +86,6 @@ the row: see below), and for a named part of a feature
 | `conditional-replacement` | The archetype replaces the feature only if a choice is made; format 2 has no condition field. |
 | `class-statistic` | Class skills, alignment, skill ranks, saves: printed in the class statistics, not as a feature. |
 | `single-slot-loss` | The archetype gives up one slot of the Spells feature (one 4th-level spell slot); the whole feature would overstate it and no component names a slot. |
-| `composite` | The printed item names several features at once; a trade holds one feature. |
 | `free-text-part` | The item describes a part of a feature in words, with no stable name to compare by exact text. |
 | `no-class-heading` | The class entry has no heading or text for it (the code of conduct, an ability of the phantom). |
 | `not-a-class-feature` | A racial trait, or a feature of another class (the unchained rogue). |

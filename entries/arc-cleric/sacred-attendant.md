@@ -17,7 +17,8 @@ page = "4"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency with light and medium armor" },
+  { replaces = "Proficiency with light", feature = "weapon-and-armor-proficiencies", power = "light armor" },
+  { replaces = "medium armor", feature = "weapon-and-armor-proficiencies", power = "medium armor" },
   { alters = "Channel energy", feature = "channel-energy" },
   { alters = "Domains", feature = "domains" },
 ]
@@ -56,7 +57,7 @@ bonus).
 
 **At 6th Level:** The dodge bonus becomes +3.
 
-**Replaces:** Proficiency with light and medium armor
+**Replaces:** Proficiency with light, medium armor
 
 **Nurture Grace (Su)**
 

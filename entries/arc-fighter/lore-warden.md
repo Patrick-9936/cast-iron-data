@@ -20,7 +20,8 @@ trades = [
   { replaces = "Proficiency with medium armor", feature = "weapon-and-armor-proficiencies", power = "medium armor" },
   { replaces = "heavy armor", feature = "weapon-and-armor-proficiencies", power = "heavy armor" },
   { replaces = "and shields", feature = "weapon-and-armor-proficiencies", power = "shields" },
-  { replaces = "Bravery and the fighter bonus feat gained at 2nd level" },
+  { replaces = "Bravery", feature = "bravery" },
+  { replaces = "the fighter bonus feat gained at 2nd level", feature = "bonus-feats", levels = [2] },
   { replaces = "Armor training", feature = "armor-training" },
   { replaces = "armor mastery", feature = "armor-mastery" },
 ]
@@ -54,7 +55,7 @@ includes Combat Expertise as a prerequisite (and for which she otherwise qualifi
 **Passive:** A lore warden qualifies for feats and other abilities as though she had the
 [Combat Expertise](ref/feat/combat-expertise) feat.
 
-**Replaces:** Bravery and the fighter bonus feat gained at 2nd level
+**Replaces:** Bravery, the fighter bonus feat gained at 2nd level
 
 **Swords Secret (Ex)**
 

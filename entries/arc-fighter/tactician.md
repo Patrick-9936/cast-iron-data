@@ -22,7 +22,8 @@ trades = [
   { replaces = "Weapon training 1", feature = "weapon-training", levels = [5] },
   { replaces = "Armor training 3", feature = "armor-training", levels = [11] },
   { replaces = "Armor training 4", feature = "armor-training", levels = [15] },
-  { alters = "Armor proficiencies" },
+  { alters = "Proficiency with heavy armor", feature = "weapon-and-armor-proficiencies", power = "heavy armor" },
+  { alters = "tower shields", feature = "weapon-and-armor-proficiencies", power = "shields" },
 ]
 +++
 
@@ -32,7 +33,7 @@ tactical acumen to overcome challenges that would overwhelm mere brute strength 
 
 **Armor Proficiency**
 
-**Alters:** Armor proficiencies
+**Alters:** Proficiency with heavy armor, tower shields
 
 **Info:** A tactician is not proficient with heavy armor or tower shields.
 

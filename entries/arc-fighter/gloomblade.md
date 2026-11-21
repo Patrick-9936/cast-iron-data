@@ -18,7 +18,8 @@ page = "14"
 kind = "archetype"
 trades = [
   { replaces = "Armor training", feature = "armor-training" },
-  { replaces = "proficiency with heavy armor and shields" },
+  { replaces = "proficiency with heavy armor", feature = "weapon-and-armor-proficiencies", power = "heavy armor" },
+  { replaces = "shields", feature = "weapon-and-armor-proficiencies", power = "shields" },
   { alters = "Weapon training", feature = "weapon-training" },
 ]
 +++
@@ -65,7 +66,7 @@ discretion.)
 melee weapon with which he is proficient. A gloomblade can have only one shadow weapon in existence
 at a time; creating a new shadow weapon causes an existing shadow weapon to vanish.
 
-**Replaces:** Armor training, proficiency with heavy armor and shields
+**Replaces:** Armor training, proficiency with heavy armor, shields
 
 **Special:** He retains proficiency in light and medium armor
 

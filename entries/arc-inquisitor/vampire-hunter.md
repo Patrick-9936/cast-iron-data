@@ -18,7 +18,8 @@ page = "41"
 kind = "archetype"
 trades = [
   { replaces = "Detect alignment", feature = "detect-alignment" },
-  { alters = "Purity and Smiting judgments" },
+  { alters = "Purity", feature = "judgment", power = "purity" },
+  { alters = "Smiting judgments", feature = "judgment", power = "smiting" },
   { alters = "Bane", feature = "bane" },
 ]
 +++
@@ -37,7 +38,7 @@ hunter has the following class features.
 
 **Judgment**
 
-**Alters:** Purity and Smiting judgments
+**Alters:** Purity, Smiting judgments
 
 **Info:** The following vampire hunter judgments work differently than those of a standard
 inquisitor.

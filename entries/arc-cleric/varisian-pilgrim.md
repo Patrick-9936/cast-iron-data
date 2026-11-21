@@ -18,7 +18,8 @@ page = "42"
 kind = "archetype"
 trades = [
   { replaces = "Domains", feature = "domains" },
-  { replaces = "Proficiency with medium armor and shields - she retains proficiency with light armor only" },
+  { replaces = "Proficiency with medium armor", feature = "weapon-and-armor-proficiencies", power = "medium armor" },
+  { replaces = "shields - she retains proficiency with light armor only", feature = "weapon-and-armor-proficiencies", power = "shields" },
   { replaces = "An 8th-level domain power of the Varisian pilgrim's choice", feature = "domains", levels = [8], power = "domain power" },
 ]
 +++
@@ -59,8 +60,7 @@ traveling companions at a range of up to 30 feet, even if the ability normally r
 
 **Gained:** At 1st Level
 
-**Replaces:** Proficiency with medium armor and shields - she retains proficiency with light armor
-only
+**Replaces:** Proficiency with medium armor, shields - she retains proficiency with light armor only
 
 **Blessing of the Harrow (Su)**
 

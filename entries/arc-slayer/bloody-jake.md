@@ -17,7 +17,8 @@ page = "66"
 [fields]
 kind = "archetype"
 trades = [
-  { replaces = "Proficiency in medium armor and shields" },
+  { replaces = "Proficiency in medium armor", feature = "weapon-and-armor-proficiencies", power = "medium armor" },
+  { replaces = "shields", feature = "weapon-and-armor-proficiencies", power = "shields" },
   { replaces = "The 1st-level studied target", feature = "studied-target", levels = [1] },
   { replaces = "slayer talents gained at 4th, 8th, 12th, and 16th level", feature = "slayer-talents", levels = [4, 8, 12, 16] },
   { replaces = "Slayer talent gained at 6th level", feature = "slayer-talents", levels = [6] },
@@ -47,7 +48,7 @@ restricted to cold, desert, forest, jungle, mountains, plains, and swamp.
 
 **Gained:** At 1st Level
 
-**Replaces:** Proficiency in medium armor and shields
+**Replaces:** Proficiency in medium armor, shields
 
 **Special:** He does not gain the ability to select additional _favored terrains_ unless he takes
 the [terrain mastery](ref/talent/terrain-mastery) rogue talent.
