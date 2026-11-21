@@ -18,7 +18,7 @@ Patterns (the first one that matches names the row):
                      or a monster entry. Print has no
                      such sentence. Remove the row, or replace it with the flavor that print shows at
                      the power's own place.
-    cross-reference  "This is the same as ...", "This ability functions as ...": print has a
+    cross-reference  "This is the same as ...", "This ability (or talent, ...) functions as ...": print has a
                      cross-reference at that place ("As per the battle mystery revelation of the
                      same name."), and the note paraphrases it. Keep it only when it is the printed
                      wording; otherwise set the printed wording.
@@ -43,7 +43,7 @@ from pathlib import Path
 
 PATTERNS = (
     ("placeholder", re.compile(r"^(?:(?:relevant )?text from\b|from the [\w' -]+ domain$)", re.I)),
-    ("cross-reference", re.compile(r"^(?:this is the same as|this ability functions as)\b", re.I)),
+    ("cross-reference", re.compile(r"^(?:this is the same as|this \w+ functions as)\b", re.I)),
 )
 FRONT = re.compile(r"\A\+\+\+\n(.*?)\n\+\+\+\n", re.S)
 
@@ -74,7 +74,7 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("corpus", nargs="?", default=str(Path(__file__).resolve().parent.parent))
     ap.add_argument("--check", action="store_true")
-    ap.add_argument("--all", action="store_true", help="list every Flavor row of class_option entries too")
+    ap.add_argument("--all", action="store_true", help="list every Flavor row of every entry kind, matched or not")
     args = ap.parse_args()
 
     rows = list(flavor_rows(Path(args.corpus)))
@@ -91,7 +91,7 @@ def main() -> int:
     for kind, entry_id, text, name in hits:
         if name and (kind == "class_option" or args.all):
             print(f"{name}\t{kind}\t{entry_id}\t{text}")
-        elif args.all and kind == "class_option":
+        elif args.all:
             print(f"-\t{kind}\t{entry_id}\t{text}")
     if args.check and failing:
         print(f"{len(failing)} class-option placeholder note(s) remain", file=sys.stderr)
