@@ -48,21 +48,25 @@ its fanged maw._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/13/17
+**Armor class:** 20
 
-**Defensive abilities:** reactive escape
+**Touch:** 13
 
-**Fort:** +11
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +7 natural
 
 **Hit points:** 85 (9d8+45)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex, +7 natural
+**Fort:** +11
 
 **Ref:** +6
 
 **Will:** +5
+
+**Defensive abilities:** reactive escape
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

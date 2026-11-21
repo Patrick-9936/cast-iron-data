@@ -47,21 +47,25 @@ ravenous purple maw._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/7/19
+**Armor class:** 19
 
-**Fort:** +10
+**Touch:** 7
+
+**Flat-footed:** 19
+
+**AC modifiers:** -1 Dex, +12 natural, -2 size
 
 **Hit points:** 76 (9d8+36)
 
-**Immune:** acid, [plant traits](ref/umr/plant-traits)
-
-**Mod:** -1 Dex, +12 natural, -2 size
+**Fort:** +10
 
 **Ref:** +4
 
-**Regen:** 10 (bludgeoning or fire)
-
 **Will:** +4
+
+**Immune:** acid, [plant traits](ref/umr/plant-traits)
+
+**Regen:** 10 (bludgeoning or fire)
 
 **Offense**
 

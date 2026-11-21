@@ -51,23 +51,27 @@ immense, hate-filled eyes._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/6/30
+**Armor class:** 30
 
-**Dr:** 10/magic and slashing
+**Touch:** 6
 
-**Fort:** +13
+**Flat-footed:** 30
+
+**AC modifiers:** +24 natural, -4 size
 
 **Hit points:** 231 (22d8+132)
 
-**Immune:** cold, electricity, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +24 natural, -4 size
+**Fort:** +13
 
 **Ref:** +9
 
-**Resist:** acid 10, fire 10
-
 **Will:** +19
+
+**Dr:** 10/magic and slashing
+
+**Immune:** cold, electricity, [undead traits](ref/umr/undead-traits)
+
+**Resist:** acid 10, fire 10
 
 **Offense**
 

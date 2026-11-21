@@ -54,13 +54,17 @@ glistens on its scales._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Fort:** +8
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 45 (6d8+18)
 
-**Mod:** +3 Dex, +6 natural
+**Fort:** +8
 
 **Ref:** +5
 

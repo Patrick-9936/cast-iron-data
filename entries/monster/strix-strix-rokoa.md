@@ -55,19 +55,23 @@ on her crown and staff._
 **Subtype:** Strix\
 **Experience points:** 12,800
 
-**Armor class:** 20/12/19
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +7 armor, +1 deflection, +1 Dex, +1 natural
 
 **Hit points:** 78 (12d8+24)
 
-**Mod:** +7 armor, +1 deflection, +1 Dex, +1 natural
+**Fort:** +7
 
 **Ref:** +7
 
-**Resist:** electricity 10
-
 **Will:** +14; +2 bonus vs. illusion spells or effects
+
+**Resist:** electricity 10
 
 **Offense**
 

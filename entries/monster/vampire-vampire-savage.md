@@ -51,7 +51,21 @@ abilities = ["30", "18", "-", "10", "14", "22"]
 
 **Experience points:** 9,600
 
-**Armor class:** 21/14/16
+**Armor class:** 21
+
+**Touch:** 14
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 deflection, +4 Dex, +1 dodge, +7 natural, -2 rage
+
+**Hit points:** 136 (9d12+72)
+
+**Fort:** +13
+
+**Ref:** +10
+
+**Will:** +8
 
 **Chan Res:** +4
 
@@ -61,25 +75,15 @@ abilities = ["30", "18", "-", "10", "14", "22"]
 
 **Fh:** 5
 
-**Fort:** +13
-
-**Hit points:** 136 (9d12+72)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Improved uncanny dodge:** present
-
-**Mod:** +1 deflection, +4 Dex, +1 dodge, +7 natural, -2 rage
-
-**Ref:** +10
 
 **Resist:** cold 10, electricity 10
 
 **Trap S:** +3
 
 **Weaknesses:** vampire weaknesses
-
-**Will:** +8
 
 **Offense**
 

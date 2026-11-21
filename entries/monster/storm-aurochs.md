@@ -48,23 +48,27 @@ clouds._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/11/20
+**Armor class:** 23
 
-**Dr:** 5/magic
+**Touch:** 11
 
-**Fort:** +13
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +1 dodge, +12 natural, -2 size
 
 **Hit points:** 126 (12d10+60)
 
-**Immune:** electricity, sonic
-
-**Mod:** +2 Dex, +1 dodge, +12 natural, -2 size
+**Fort:** +13
 
 **Ref:** +10
 
-**Sr:** 20
-
 **Will:** +12
+
+**Dr:** 5/magic
+
+**Immune:** electricity, sonic
+
+**Sr:** 20
 
 **Offense**
 

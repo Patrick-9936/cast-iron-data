@@ -45,21 +45,25 @@ abilities = ["21", "17", "-", "2", "12", "15"]
 
 **Experience points:** 2,400
 
-**Armor class:** 17/12/14
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +5 natural, -1 size
 
 **Hit points:** 60 (8d8+24)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +5 natural, -1 size
+**Fort:** +4
 
 **Ref:** +7
 
-**Vulner:** fire
-
 **Will:** +7
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Vulner:** fire
 
 **Offense**
 

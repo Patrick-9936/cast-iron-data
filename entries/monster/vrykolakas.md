@@ -57,23 +57,27 @@ mouth full of fangs._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/15/18
+**Armor class:** 23
 
-**Chan Res:** +4
+**Touch:** 15
 
-**Fort:** +10
+**Flat-footed:** 18
+
+**AC modifiers:** +4 Dex, +1 dodge, +8 natural
 
 **Hit points:** 126 (12d8+72)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +1 dodge, +8 natural
+**Fort:** +10
 
 **Ref:** +10
 
-**Vulner:** fire
-
 **Will:** +12
+
+**Chan Res:** +4
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Vulner:** fire
 
 **Offense**
 

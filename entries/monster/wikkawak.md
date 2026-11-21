@@ -51,19 +51,23 @@ _This thick-bodied, white-furred bugbear wears bearskins and carries an axe made
 
 **Experience points:** 1,200
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 armor, +3 Dex, +3 natural
 
 **Hit points:** 39 (6d8+12)
 
-**Mod:** +3 armor, +3 Dex, +3 natural
+**Fort:** +4
 
 **Ref:** +8
 
-**Resist:** cold 5
-
 **Will:** +3
+
+**Resist:** cold 5
 
 **Offense**
 

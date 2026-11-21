@@ -48,21 +48,25 @@ slime-encrusted wings._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/11/18
+**Armor class:** 21
 
-**Defensive abilities:** slippery
+**Touch:** 11
 
-**Fort:** +11
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +10 natural, -2 size
 
 **Hit points:** 104 (11d10+44)
 
-**Immune:** cold, disease
-
-**Mod:** +3 Dex, +10 natural, -2 size
+**Fort:** +11
 
 **Ref:** +10
 
 **Will:** +6
+
+**Defensive abilities:** slippery
+
+**Immune:** cold, disease
 
 **Offense**
 

@@ -51,23 +51,27 @@ _This glittering ooze suddenly flexes and bulges as portions of it begin to crys
 
 **Experience points:** 600
 
-**Armor class:** 14/14/10
+**Armor class:** 14
+
+**Touch:** 14
+
+**Flat-footed:** 10
+
+**AC modifiers:** +3 Dex, +1 dodge
+
+**Hit points:** 22 (3d8+9)
+
+**Fort:** +4
+
+**Ref:** +4
+
+**Will:** +1
 
 **Defensive abilities:** all-around vision
 
 **Dr:** 5/bludgeoning
 
-**Fort:** +4
-
-**Hit points:** 22 (3d8+9)
-
 **Immune:** acid, mind-affecting effects, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +3 Dex, +1 dodge
-
-**Ref:** +4
-
-**Will:** +1
 
 **Offense**
 

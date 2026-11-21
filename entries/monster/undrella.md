@@ -52,13 +52,17 @@ wicked-looking longbow._
 
 **Experience points:** 12,800
 
-**Armor class:** 24/17/18
+**Armor class:** 24
 
-**Fort:** +12
+**Touch:** 17
+
+**Flat-footed:** 18
+
+**AC modifiers:** +6 armor, +1 deflection, +5 Dex, +1 dodge, +1 natural
 
 **Hit points:** 118 (7d10+7d10+42\~14)
 
-**Mod:** +6 armor, +1 deflection, +5 Dex, +1 dodge, +1 natural
+**Fort:** +12
 
 **Ref:** +15
 

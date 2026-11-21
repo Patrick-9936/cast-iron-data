@@ -49,21 +49,25 @@ lower half is in tatters._
 
 **Experience points:** 600
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Amorph:** present
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 natural, +1 size
 
 **Hit points:** 22 (4d8+4)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +1 natural, +1 size
+**Fort:** +2
 
 **Ref:** +3
 
 **Will:** +4
+
+**Amorph:** present
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

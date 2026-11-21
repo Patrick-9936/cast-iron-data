@@ -48,13 +48,17 @@ with a slim but wicked beak._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/10/16
+**Armor class:** 18
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +8 natural, -2 size
 
 **Hit points:** 68 (8d8+32)
 
-**Mod:** +2 Dex, +8 natural, -2 size
+**Fort:** +10
 
 **Ref:** +8
 

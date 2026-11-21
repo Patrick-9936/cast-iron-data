@@ -53,19 +53,23 @@ four powerful arms._
 
 **Experience points:** 800
 
-**Armor class:** 16/11/15
+**Armor class:** 16
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +5 natural
 
 **Hit points:** 18 (2d10+7)
 
-**Mod:** +1 Dex, +5 natural
+**Fort:** +4
 
 **Ref:** +4
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +4
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

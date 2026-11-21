@@ -58,21 +58,25 @@ tail and crests on its head and back._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/11/21
+**Armor class:** 21
 
-**Fort:** +14
+**Touch:** 11
+
+**Flat-footed:** 21
+
+**AC modifiers:** +4 armor, +9 natural, -2 rage
 
 **Hit points:** 100 (8d8+2d12+46\~10)
 
-**Mod:** +4 armor, +9 natural, -2 rage
+**Fort:** +14
 
 **Ref:** +4
+
+**Will:** +10; +2 vs. abilities of aberrations and oozes
 
 **Resist:** fire 10
 
 **Uncanny dodge:** present
-
-**Will:** +10; +2 vs. abilities of aberrations and oozes
 
 **Offense**
 

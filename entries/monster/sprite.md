@@ -49,19 +49,23 @@ ears._
 
 **Experience points:** 135
 
-**Armor class:** 17/17/14
+**Armor class:** 17
 
-**Dr:** 2/cold iron
+**Touch:** 17
 
-**Fort:** +0
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 size
 
 **Hit points:** 3 (1d6)
 
-**Mod:** +3 Dex, +4 size
+**Fort:** +0
 
 **Ref:** +5
 
 **Will:** +2
+
+**Dr:** 2/cold iron
 
 **Offense**
 

@@ -52,23 +52,27 @@ _A ridge of jagged ice runs down the back of this glistening, desert-dwelling li
 
 **Experience points:** 800
 
-**Armor class:** 15/13/13
+**Armor class:** 15
 
-**Defensive abilities:** heat absorption
+**Touch:** 13
 
-**Fort:** +6
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +2 natural, +1 size
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** fire
-
-**Mod:** +2 Dex, +2 natural, +1 size
+**Fort:** +6
 
 **Ref:** +6
 
-**Resist:** cold 10
-
 **Will:** +2
+
+**Defensive abilities:** heat absorption
+
+**Immune:** fire
+
+**Resist:** cold 10
 
 **Offense**
 

@@ -50,21 +50,25 @@ whip-thin tail ends in a slender stinger._
 
 **Experience points:** 800
 
-**Armor class:** 15/11/14
+**Armor class:** 15
 
-**Defensive abilities:** all-around vision
+**Touch:** 11
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 natural
 
 **Hit points:** 30 (4d8+12)
 
-**Immune:** disease
-
-**Mod:** +1 Dex, +4 natural
+**Fort:** +4
 
 **Ref:** +2
 
 **Will:** +7
+
+**Defensive abilities:** all-around vision
+
+**Immune:** disease
 
 **Offense**
 

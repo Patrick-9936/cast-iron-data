@@ -49,25 +49,29 @@ electric-blue tendrils._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Dr:** 5/cold iron
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +7
 
 **Ref:** +6
+
+**Will:** +8
+
+**Dr:** 5/cold iron
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Sr:** 18
 
 **Weaknesses:** vulnerable to glass
-
-**Will:** +8
 
 **Offense**
 

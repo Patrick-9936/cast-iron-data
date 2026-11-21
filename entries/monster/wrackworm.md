@@ -54,7 +54,21 @@ a massive fanged mouth._
 
 **Experience points:** 307,200
 
-**Armor class:** 37/7/32
+**Armor class:** 37
+
+**Touch:** 7
+
+**Flat-footed:** 32
+
+**AC modifiers:** +5 Dex, +30 natural, -8 size
+
+**Hit points:** 362 (25d10+225)
+
+**Fort:** +19
+
+**Ref:** +21
+
+**Will:** +21
 
 **Defensive abilities:** caustic ichor, planar anchor, twisting coils
 
@@ -62,19 +76,9 @@ a massive fanged mouth._
 
 **Fh:** 20
 
-**Fort:** +19
-
-**Hit points:** 362 (25d10+225)
-
 **Immune:** ability damage, ability drain, acid, disease, mind-affecting effects, poison
 
-**Mod:** +5 Dex, +30 natural, -8 size
-
-**Ref:** +21
-
 **Sr:** 31
-
-**Will:** +21
 
 **Offense**
 

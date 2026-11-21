@@ -52,25 +52,29 @@ looks unsettlingly like that of a gnome._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/21/16
+**Armor class:** 21
+
+**Touch:** 21
+
+**Flat-footed:** 16
+
+**AC modifiers:** +5 deflection, +5 Dex, +1 size
+
+**Hit points:** 104 (11d8+55)
 
 **Fort:** +8
 
-**Hit points:** 104 (11d8+55)
+**Ref:** +8
+
+**Will:** +10
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +5 deflection, +5 Dex, +1 size
-
-**Ref:** +8
-
 **Sr:** 19
 
 **Weaknesses:** compelling knock, nature dependent
-
-**Will:** +10
 
 **Offense**
 

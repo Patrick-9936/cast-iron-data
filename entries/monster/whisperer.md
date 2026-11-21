@@ -56,27 +56,31 @@ be._
 
 **Experience points:** 307,200
 
-**Armor class:** 35/35/24
+**Armor class:** 35
+
+**Touch:** 35
+
+**Flat-footed:** 24
+
+**AC modifiers:** +9 deflection, +10 Dex, +1 dodge, +6 insight, -1 size
+
+**Hit points:** 363 (22d6+286)
+
+**Fort:** +20
+
+**Ref:** +23
+
+**Will:** +21
 
 **Defensive abilities:** anticipation, rejuvenate
 
 **Dr:** 15/cold iron
 
-**Fort:** +20
-
-**Hit points:** 363 (22d6+286)
-
 **Immune:** cold, disease, mind-affecting effects, poison, sonic
 
 **Incorporeal:** present
 
-**Mod:** +9 deflection, +10 Dex, +1 dodge, +6 insight, -1 size
-
-**Ref:** +23
-
 **Sr:** 31
-
-**Will:** +21
 
 **Offense**
 

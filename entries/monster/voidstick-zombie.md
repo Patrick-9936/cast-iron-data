@@ -52,23 +52,27 @@ aura of entropy and despair hangs over the sorry, perforated creature._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/14/26
+**Armor class:** 26
+
+**Touch:** 14
+
+**Flat-footed:** 26
+
+**AC modifiers:** +12 natural, +4 profane
+
+**Hit points:** 157 (15d8+90)
+
+**Fort:** +9
+
+**Ref:** +7
+
+**Will:** +9
 
 **Chan Res:** +4
 
 **Fh:** 3
 
-**Fort:** +9
-
-**Hit points:** 157 (15d8+90)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +12 natural, +4 profane
-
-**Ref:** +7
-
-**Will:** +9
 
 **Offense**
 

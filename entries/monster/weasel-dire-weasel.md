@@ -48,13 +48,17 @@ with its glistening fangs._
 
 **Experience points:** 800
 
-**Armor class:** 17/12/14
+**Armor class:** 17
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +5 natural, -1 size
 
 **Hit points:** 32 (5d8+10)
 
-**Mod:** +3 Dex, +5 natural, -1 size
+**Fort:** +6
 
 **Ref:** +7
 

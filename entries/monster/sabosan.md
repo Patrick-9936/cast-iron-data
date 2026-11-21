@@ -52,13 +52,17 @@ _This bat-like humanoid has a lean, muscular body covered with fur and two large
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
 
 **Hit points:** 52 (7d10+14)
 
-**Mod:** +4 Dex, +4 natural
+**Fort:** +4
 
 **Ref:** +9
 

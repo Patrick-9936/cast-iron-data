@@ -52,13 +52,17 @@ swinging, ape-like gait._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 natural
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +2 Dex, +2 natural
+**Fort:** +4
 
 **Ref:** +5
 

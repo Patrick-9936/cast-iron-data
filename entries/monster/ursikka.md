@@ -54,21 +54,25 @@ mouth that drips viscous fluid._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/8/24
+**Armor class:** 24
 
-**Ferocity:** present
+**Touch:** 8
 
-**Fort:** +14
+**Flat-footed:** 24
+
+**AC modifiers:** +16 natural, -2 size
 
 **Hit points:** 138 (12d10+72)
 
-**Mod:** +16 natural, -2 size
+**Fort:** +14
 
 **Ref:** +10
 
-**Resist:** cold 20
-
 **Will:** +5; +4 vs. mind-affecting effects
+
+**Ferocity:** present
+
+**Resist:** cold 20
 
 **Offense**
 

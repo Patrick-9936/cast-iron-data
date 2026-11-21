@@ -51,25 +51,29 @@ place of an insectile head._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Dr:** 10/good
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +6 natural
 
 **Hit points:** 85 (9d10+36)
 
-**Immune:** death effects, disease, fear effects, poison
-
-**Mod:** +4 Dex, +6 natural
+**Fort:** +9
 
 **Ref:** +10
+
+**Will:** +11
+
+**Dr:** 10/good
+
+**Immune:** death effects, disease, fear effects, poison
 
 **Resist:** cold 10, electricity 10, sonic 10
 
 **Sr:** 18
-
-**Will:** +11
 
 **Offense**
 

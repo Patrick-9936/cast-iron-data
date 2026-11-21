@@ -49,21 +49,25 @@ narrow-snouted head._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/11/20
+**Armor class:** 23
 
-**Fort:** +12
+**Touch:** 11
+
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +1 dodge, +12 natural, -2 size
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** gaze attacks, visual effects and illusions, sight-based attacks, sonic
-
-**Mod:** +2 Dex, +1 dodge, +12 natural, -2 size
+**Fort:** +12
 
 **Ref:** +12
 
-**Weaknesses:** blind
-
 **Will:** +8
+
+**Immune:** gaze attacks, visual effects and illusions, sight-based attacks, sonic
+
+**Weaknesses:** blind
 
 **Offense**
 

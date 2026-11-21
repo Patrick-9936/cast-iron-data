@@ -46,13 +46,17 @@ it scans the area for prey._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/9/22
+**Armor class:** 25
 
-**Fort:** +14
+**Touch:** 9
+
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +1 dodge, +16 natural, -4 size
 
 **Hit points:** 126 (12d8+72)
 
-**Mod:** +2 Dex, +1 dodge, +16 natural, -4 size
+**Fort:** +14
 
 **Ref:** +10
 

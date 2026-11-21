@@ -46,25 +46,29 @@ _The thick stalks of this dark-veined, gray plant are covered in a fine black fu
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Fh:** 2
+**Touch:** 11
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +6 natural
 
 **Hit points:** 39 (6d8+12)
 
-**Immune:** cold, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +6 natural
+**Fort:** +7
 
 **Ref:** +3
+
+**Will:** +4
+
+**Fh:** 2
+
+**Immune:** cold, [plant traits](ref/umr/plant-traits)
 
 **Resist:** acid 5, electricity 5, fire 5
 
 **Weaknesses:** vulnerable to light
-
-**Will:** +4
 
 **Offense**
 

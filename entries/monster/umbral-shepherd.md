@@ -50,21 +50,25 @@ grub-like body._
 
 **Experience points:** 1,600
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 deflection, +2 Dex
 
 **Hit points:** 39 (6d10+6)
 
-**Incorporeal:** present
-
-**Mod:** +2 deflection, +2 Dex
+**Fort:** +3
 
 **Ref:** +9
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), planebound
-
 **Will:** +8
+
+**Incorporeal:** present
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), planebound
 
 **Offense**
 

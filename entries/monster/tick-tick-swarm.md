@@ -51,21 +51,25 @@ skitters forward._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/20/21
+**Armor class:** 23
 
-**Defensive abilities:** swarm traits
+**Touch:** 20
 
-**Fort:** +13
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +3 natural, +8 size
 
 **Hit points:** 120 (16d8+48)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** +2 Dex, +3 natural, +8 size
+**Fort:** +13
 
 **Ref:** +7
 
 **Will:** +5
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
 
 **Offense**
 

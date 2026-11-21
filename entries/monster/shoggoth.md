@@ -57,27 +57,31 @@ forming in its heaving bulk._
 
 **Experience points:** 204,800
 
-**Armor class:** 33/15/26
+**Armor class:** 33
+
+**Touch:** 15
+
+**Flat-footed:** 26
+
+**AC modifiers:** +7 Dex, +18 natural, -2 size
+
+**Hit points:** 333 (23d8+230)
+
+**Fort:** +19
+
+**Ref:** +14
+
+**Will:** +15
 
 **Dr:** 10/-
 
 **Fh:** 10
 
-**Fort:** +19
-
-**Hit points:** 333 (23d8+230)
-
 **Immune:** blindness, charm effects, cold, deafness, [ooze traits](ref/umr/ooze-traits), sonic
-
-**Mod:** +7 Dex, +18 natural, -2 size
-
-**Ref:** +14
 
 **Resist:** acid 20, electricity 20, fire 20
 
 **Sr:** 30
-
-**Will:** +15
 
 **Offense**
 

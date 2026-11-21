@@ -49,21 +49,25 @@ frame her youthful features._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/19/13
+**Armor class:** 21
 
-**Dr:** 10/cold iron
+**Touch:** 19
 
-**Fort:** +8
+**Flat-footed:** 13
+
+**AC modifiers:** +7 Dex, +1 dodge, +2 natural, +1 size
 
 **Hit points:** 90 (12d6+48)
 
-**Mod:** +7 Dex, +1 dodge, +2 natural, +1 size
+**Fort:** +8
 
 **Ref:** +15
 
-**Sr:** 19
-
 **Will:** +11
+
+**Dr:** 10/cold iron
+
+**Sr:** 19
 
 **Offense**
 

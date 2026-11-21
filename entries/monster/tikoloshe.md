@@ -54,7 +54,21 @@ darts quickly forward, shouting curses and swinging its fists._
 
 **Experience points:** 800
 
-**Armor class:** 15/13/13
+**Armor class:** 15
+
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +2 natural, +1 size
+
+**Hit points:** 26 (4d8+8)
+
+**Fort:** +2
+
+**Ref:** +3
+
+**Will:** +6
 
 **Chan Res:** +2
 
@@ -62,21 +76,11 @@ darts quickly forward, shouting curses and swinging its fists._
 
 **Dr:** 5/slashing
 
-**Fort:** +2
-
-**Hit points:** 26 (4d8+8)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +2 natural, +1 size
-
-**Ref:** +3
 
 **Resist:** fire 10
 
 **Weaknesses:** blind
-
-**Will:** +6
 
 **Offense**
 

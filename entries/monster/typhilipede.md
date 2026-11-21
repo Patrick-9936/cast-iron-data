@@ -54,21 +54,25 @@ of oversized mandibles that glisten with green ichor._
 
 **Experience points:** 600
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** fire, poison
-
-**Mod:** +2 Dex, +2 size
+**Fort:** +4
 
 **Ref:** +5
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +2
+
+**Immune:** fire, poison
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

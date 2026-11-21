@@ -55,25 +55,29 @@ demonic face._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Defensive abilities:** charmed life 3/day, nimble +1
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 16
+
+**AC modifiers:** +5 armor, +3 Dex, +1 dodge, +1 shield
 
 **Hit points:** 58 (4d6+4d10+20\~8)
 
-**Immune:** sleep
-
-**Mod:** +5 armor, +3 Dex, +1 dodge, +1 shield
+**Fort:** +5
 
 **Ref:** +9
+
+**Will:** +6; +2 vs. charm, cold, enchantments, fear, fire, and sleep
+
+**Defensive abilities:** charmed life 3/day, nimble +1
+
+**Immune:** sleep
 
 **Sr:** 14
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +6; +2 vs. charm, cold, enchantments, fear, fire, and sleep
 
 **Offense**
 

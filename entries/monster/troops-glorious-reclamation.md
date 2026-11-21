@@ -48,19 +48,23 @@ swords and armor are polished to a mirror-bright sheen._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/12/27
+**Armor class:** 29
 
-**Defensive abilities:** troop traits
+**Touch:** 12
 
-**Fort:** +14
+**Flat-footed:** 27
+
+**AC modifiers:** +9 armor, +1 Dex, +1 dodge, +3 natural, +5 shield
 
 **Hit points:** 210 (20d8+120)
 
-**Mod:** +9 armor, +1 Dex, +1 dodge, +3 natural, +5 shield
+**Fort:** +14
 
 **Ref:** +9
 
 **Will:** +15
+
+**Defensive abilities:** troop traits
 
 **Offense**
 

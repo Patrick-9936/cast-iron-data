@@ -50,23 +50,27 @@ whisper promises sleep and sweet rest to any that lie down at the thing's base._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/9/26
+**Armor class:** 27
 
-**Dr:** 10/magic slashing or bludgeoning
+**Touch:** 9
 
-**Fort:** +15
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +18 natural, -2 size
 
 **Hit points:** 178 (17d8+102)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +18 natural, -2 size
+**Fort:** +15
 
 **Ref:** +8
 
-**Weaknesses:** fire
-
 **Will:** +8
+
+**Dr:** 10/magic slashing or bludgeoning
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Weaknesses:** fire
 
 **Offense**
 

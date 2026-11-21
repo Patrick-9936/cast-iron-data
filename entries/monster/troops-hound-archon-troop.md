@@ -50,23 +50,27 @@ abilities = ["23", "20", "23", "18", "21", "18"]
 
 **Experience points:** 76,800
 
-**Armor class:** 28/15/23
+**Armor class:** 28
 
-**Dr:** 10/evil
+**Touch:** 15
 
-**Fort:** +20
+**Flat-footed:** 23
+
+**AC modifiers:** +4 armor, +4 Dex, +1 dodge, +9 natural; +2 deflection vs. evil
 
 **Hit points:** 241 (21d10+126)
 
-**Immune:** electricity, petrification
-
-**Mod:** +4 armor, +4 Dex, +1 dodge, +9 natural; +2 deflection vs. evil
+**Fort:** +20
 
 **Ref:** +19
 
-**Sr:** 27
-
 **Will:** +14; +2 resistance vs. evil, +4 vs. poison
+
+**Dr:** 10/evil
+
+**Immune:** electricity, petrification
+
+**Sr:** 27
 
 **Offense**
 

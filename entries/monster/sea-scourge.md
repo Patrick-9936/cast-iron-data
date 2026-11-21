@@ -52,21 +52,25 @@ inexorably against the current._
 
 **Experience points:** 2,400
 
-**Armor class:** 7/7/7
+**Armor class:** 7
 
-**Amorph:** present
+**Touch:** 7
 
-**Fort:** +7
+**Flat-footed:** 7
+
+**AC modifiers:** -2 Dex, -1 size
 
 **Hit points:** 76 (9d8+36)
 
-**Immune:** acid, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -2 Dex, -1 size
+**Fort:** +7
 
 **Ref:** +1
 
 **Will:** -2
+
+**Amorph:** present
+
+**Immune:** acid, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

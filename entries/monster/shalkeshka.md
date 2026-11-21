@@ -54,13 +54,17 @@ gnash. Six legs, each ending in spade-like claws, support its bulk._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/12/18
+**Armor class:** 21
 
-**Fort:** +11
+**Touch:** 12
+
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +9 natural, -1 size
 
 **Hit points:** 95 (10d10+40)
 
-**Mod:** +3 Dex, +9 natural, -1 size
+**Fort:** +11
 
 **Ref:** +10
 

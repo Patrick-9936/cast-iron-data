@@ -50,19 +50,23 @@ _This emaciated, hairless canine has a strange air of menace and cruelty about i
 
 **Experience points:** 800
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Dr:** 5/silver
+**Touch:** 12
 
-**Fort:** +3
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +3 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Mod:** +2 Dex, +3 natural
+**Fort:** +3
 
 **Ref:** +6
 
 **Will:** +6
+
+**Dr:** 5/silver
 
 **Offense**
 

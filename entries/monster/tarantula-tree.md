@@ -52,7 +52,21 @@ _This towering mass of vegetation balances itself upon several long and misshape
 
 **Experience points:** 204,800
 
-**Armor class:** 34/12/24
+**Armor class:** 34
+
+**Touch:** 12
+
+**Flat-footed:** 24
+
+**AC modifiers:** +10 Dex, +22 natural, -8 size
+
+**Hit points:** 325 (26d8+208)
+
+**Fort:** +23
+
+**Ref:** +18
+
+**Will:** +17
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -60,17 +74,7 @@ _This towering mass of vegetation balances itself upon several long and misshape
 
 **Fh:** 20
 
-**Fort:** +23
-
-**Hit points:** 325 (26d8+208)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +10 Dex, +22 natural, -8 size
-
-**Ref:** +18
-
-**Will:** +17
 
 **Offense**
 

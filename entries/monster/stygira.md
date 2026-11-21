@@ -55,25 +55,29 @@ a high, scarred brow devoid of nose or eyes._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Dr:** 10/adamantine
+**Touch:** 13
 
-**Fort:** +6
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 76 (8d10+32)
 
-**Immune:** gaze attacks, paralysis, petrification
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +6
 
 **Ref:** +9
+
+**Will:** +14
+
+**Dr:** 10/adamantine
+
+**Immune:** gaze attacks, paralysis, petrification
 
 **Sr:** 18
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +14
 
 **Offense**
 

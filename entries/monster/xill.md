@@ -53,19 +53,23 @@ twitching, fanged mandibles._
 
 **Experience points:** 2,400
 
-**Armor class:** 21/14/17
+**Armor class:** 21
 
-**Fort:** +8
+**Touch:** 14
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 Dex, +5 natural, +2 shield
 
 **Hit points:** 67 (9d10+18)
 
-**Mod:** +4 Dex, +5 natural, +2 shield
+**Fort:** +8
 
 **Ref:** +10
 
-**Sr:** 17
-
 **Will:** +6
+
+**Sr:** 17
 
 **Offense**
 

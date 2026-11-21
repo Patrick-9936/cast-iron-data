@@ -47,19 +47,23 @@ about to croak._
 
 **Experience points:** 600
 
-**Armor class:** 14/10/13
+**Armor class:** 14
 
-**Defensive abilities:** poison skin
+**Touch:** 10
 
-**Fort:** +6
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +4 natural, -1 size
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +1 Dex, +4 natural, -1 size
+**Fort:** +6
 
 **Ref:** +6
 
 **Will:** +0
+
+**Defensive abilities:** poison skin
 
 **Offense**
 

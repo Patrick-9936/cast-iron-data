@@ -52,23 +52,27 @@ intelligence._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/19/17
+**Armor class:** 27
 
-**Dr:** 10/cold iron
+**Touch:** 19
 
-**Fort:** +11
+**Flat-footed:** 17
+
+**AC modifiers:** +9 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 168 (16d6+112)
 
-**Immune:** electricity
-
-**Mod:** +9 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +11
 
 **Ref:** +19
 
-**Resist:** cold 10, sonic 10
-
 **Will:** +15
+
+**Dr:** 10/cold iron
+
+**Immune:** electricity
+
+**Resist:** cold 10, sonic 10
 
 **Offense**
 

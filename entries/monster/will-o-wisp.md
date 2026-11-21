@@ -51,21 +51,25 @@ skull visible somewhere in its depths._
 
 **Experience points:** 2,400
 
-**Armor class:** 26/26/16
+**Armor class:** 26
 
-**Defensive abilities:** natural invisibility
+**Touch:** 26
 
-**Fort:** +3
+**Flat-footed:** 16
+
+**AC modifiers:** +5 deflection, +9 Dex, +1 dodge, +1 size
 
 **Hit points:** 40 (9d8)
 
-**Immune:** magic
-
-**Mod:** +5 deflection, +9 Dex, +1 dodge, +1 size
+**Fort:** +3
 
 **Ref:** +12
 
 **Will:** +9
+
+**Defensive abilities:** natural invisibility
+
+**Immune:** magic
 
 **Offense**
 

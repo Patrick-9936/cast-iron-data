@@ -48,21 +48,25 @@ turned earth._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/9/19
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 9
+
+**Flat-footed:** 19
+
+**AC modifiers:** +10 natural, -1 size
 
 **Hit points:** 67 (9d8+27)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +10 natural, -1 size
+**Fort:** +9
 
 **Ref:** +5
 
-**Resist:** fire 10
-
 **Will:** +5
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits)
+
+**Resist:** fire 10
 
 **Offense**
 

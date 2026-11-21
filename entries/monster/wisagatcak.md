@@ -54,23 +54,27 @@ _This spider-like monstrosity watches quietly, skittering about on six needle-sh
 
 **Experience points:** 38,400
 
-**Armor class:** 30/19/22
+**Armor class:** 30
 
-**Dr:** 10/good
+**Touch:** 19
 
-**Fort:** +12
+**Flat-footed:** 22
+
+**AC modifiers:** +7 Dex, +1 dodge, +11 natural, +1 size
 
 **Hit points:** 200 (16d10+112)
 
-**Immune:** cold
-
-**Mod:** +7 Dex, +1 dodge, +11 natural, +1 size
+**Fort:** +12
 
 **Ref:** +17
 
-**Sr:** 25
-
 **Will:** +15
+
+**Dr:** 10/good
+
+**Immune:** cold
+
+**Sr:** 25
 
 **Offense**
 

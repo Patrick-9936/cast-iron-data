@@ -51,25 +51,29 @@ tusked underbite._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/9/28
+**Armor class:** 29
 
-**Defensive abilities:** stubborn
+**Touch:** 9
 
-**Fort:** +18
+**Flat-footed:** 28
+
+**AC modifiers:** +1 Dex, +20 natural, -2 size
 
 **Hit points:** 207 (18d8+126)
 
-**Mod:** +1 Dex, +20 natural, -2 size
+**Fort:** +18
 
 **Ref:** +7
+
+**Will:** +15
+
+**Defensive abilities:** stubborn
 
 **Regen:** 10 (acid or fire)
 
 **Rock Ct:** present
 
 **Vulner:** sonic
-
-**Will:** +15
 
 **Offense**
 

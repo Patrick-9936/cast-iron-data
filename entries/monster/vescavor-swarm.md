@@ -56,23 +56,27 @@ maws filled with a sickly green glow._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/17/16
+**Armor class:** 19
 
-**Fort:** +7
+**Touch:** 17
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +2 natural, +4 size
 
 **Hit points:** 47 (5d10+20)
 
-**Immune:** poison, swarm traits, weapon damage
-
-**Mod:** +3 Dex, +2 natural, +4 size
+**Fort:** +7
 
 **Ref:** +9
+
+**Will:** +2
+
+**Immune:** poison, swarm traits, weapon damage
 
 **Resist:** fire 10, electricity 10
 
 **Sr:** 16
-
-**Will:** +2
 
 **Offense**
 

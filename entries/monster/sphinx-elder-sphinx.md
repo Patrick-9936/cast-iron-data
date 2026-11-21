@@ -48,25 +48,29 @@ acquired through untold ages of experience._
 
 **Experience points:** 76,800
 
-**Armor class:** 29/7/28
+**Armor class:** 29
+
+**Touch:** 7
+
+**Flat-footed:** 28
+
+**AC modifiers:** +1 Dex, +22 natural, -4 size
+
+**Hit points:** 241 (21d10+126)
+
+**Fort:** +18
+
+**Ref:** +15
+
+**Will:** +19
 
 **Defensive abilities:** enciphered mind
 
 **Dr:** 15/adamantine and magic
 
-**Fort:** +18
-
-**Hit points:** 241 (21d10+126)
-
 **Immune:** petrification
 
-**Mod:** +1 Dex, +22 natural, -4 size
-
-**Ref:** +15
-
 **Sr:** 27
-
-**Will:** +19
 
 **Offense**
 

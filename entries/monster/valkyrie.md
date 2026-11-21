@@ -52,25 +52,29 @@ carries a shining spear._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/19/24
+**Armor class:** 27
 
-**Dr:** 10/cold iron and lawful
+**Touch:** 19
 
-**Fort:** +10
+**Flat-footed:** 24
+
+**AC modifiers:** +8 armor, +6 deflection, +3 Dex
 
 **Hit points:** 168 (16d10+80)
 
-**Immune:** cold, electricity, poison
-
-**Mod:** +8 armor, +6 deflection, +3 Dex
+**Fort:** +10
 
 **Ref:** +13
+
+**Will:** +15
+
+**Dr:** 10/cold iron and lawful
+
+**Immune:** cold, electricity, poison
 
 **Resist:** acid 10, fire 10
 
 **Sr:** 23
-
-**Will:** +15
 
 **Offense**
 

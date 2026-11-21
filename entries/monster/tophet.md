@@ -51,21 +51,25 @@ rotund iron effigy._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/8/24
+**Armor class:** 24
 
-**Dr:** 5/adamantine
+**Touch:** 8
 
-**Fort:** +4
+**Flat-footed:** 24
+
+**AC modifiers:** -1 Dex, +16 natural, -1 size
 
 **Hit points:** 107 (14d10+30)
 
-**Immune:** fire, [construct traits](ref/umr/construct-traits)
-
-**Mod:** -1 Dex, +16 natural, -1 size
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +5
+
+**Dr:** 5/adamantine
+
+**Immune:** fire, [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

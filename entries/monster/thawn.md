@@ -51,19 +51,23 @@ strangled wheezing issues from its deformed lips._
 
 **Experience points:** 600
 
-**Armor class:** 14/8/14
+**Armor class:** 14
 
-**Fort:** +7
+**Touch:** 8
+
+**Flat-footed:** 14
+
+**AC modifiers:** -1 Dex, +6 natural, -1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** -1 Dex, +6 natural, -1 size
+**Fort:** +7
 
 **Ref:** +0
 
-**Weaknesses:** repulsive
-
 **Will:** +2
+
+**Weaknesses:** repulsive
 
 **Offense**
 

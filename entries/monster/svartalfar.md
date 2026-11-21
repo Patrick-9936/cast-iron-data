@@ -51,25 +51,29 @@ sword._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/15/15
+**Armor class:** 20
 
-**Dr:** 10/cold iron
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 15
+
+**AC modifiers:** +5 Dex, +5 natural
 
 **Hit points:** 84 (13d6+39)
 
-**Mod:** +5 Dex, +5 natural
+**Fort:** +6
 
 **Ref:** +13
+
+**Will:** +12
+
+**Dr:** 10/cold iron
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 19
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +12
 
 **Offense**
 

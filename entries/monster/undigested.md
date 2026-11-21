@@ -49,23 +49,27 @@ _A jumble of melted bones and skull fragments float amid an oozing brown and yel
 
 **Experience points:** 100
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Amorph:** present
+**Touch:** 13
 
-**Fort:** +0
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 9 (2d8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +2 size
+**Fort:** +0
 
 **Ref:** +1
 
-**Resist:** acid 5
-
 **Will:** +1
+
+**Amorph:** present
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Resist:** acid 5
 
 **Offense**
 

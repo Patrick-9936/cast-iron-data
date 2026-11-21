@@ -52,22 +52,26 @@ eyes moves toward you. Their semi-translucent skin shows discolored bones and mu
 
 **Experience points:** 1,200
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Defensive abilities:** half damage from piercing and slashing, incorporeal form, shadow blend,
-swarm traits
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 39 (6d8+12)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +2 size
+**Fort:** +4
 
 **Ref:** +6
 
 **Will:** +6
+
+**Defensive abilities:** half damage from piercing and slashing, incorporeal form, shadow blend,
+swarm traits
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

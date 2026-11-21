@@ -55,7 +55,21 @@ heads and writhing tentacles._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/20/18
+**Armor class:** 30
+
+**Touch:** 20
+
+**Flat-footed:** 18
+
+**AC modifiers:** +11 Dex, +1 dodge, +10 natural, -2 size
+
+**Hit points:** 250 (20d8+160)
+
+**Fort:** +14
+
+**Ref:** +17
+
+**Will:** +18
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -63,23 +77,13 @@ heads and writhing tentacles._
 
 **Fh:** 10
 
-**Fort:** +14
-
-**Hit points:** 250 (20d8+160)
-
 **Immune:** cold, charm effects, confusion and insanity effects
 
 **Improved evasion:** present
 
-**Mod:** +11 Dex, +1 dodge, +10 natural, -2 size
-
-**Ref:** +17
-
 **Resist:** acid 20, fire 20
 
 **Sr:** 27
-
-**Will:** +18
 
 **Offense**
 

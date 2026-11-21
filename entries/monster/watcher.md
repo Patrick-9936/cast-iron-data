@@ -50,7 +50,21 @@ single red eye._
 
 **Experience points:** 614,400
 
-**Armor class:** 41/26/32
+**Armor class:** 41
+
+**Touch:** 26
+
+**Flat-footed:** 32
+
+**AC modifiers:** +8 Dex, +1 dodge, +11 Wis, +15 natural, -4 size
+
+**Hit points:** 429 (26d10+286)
+
+**Fort:** +19
+
+**Ref:** +23
+
+**Will:** +27
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -58,21 +72,11 @@ single red eye._
 
 **Evasion:** present
 
-**Fort:** +19
-
-**Hit points:** 429 (26d10+286)
-
 **Immune:** blindness, daze, divination effects, force effects, mind-affecting effects
-
-**Mod:** +8 Dex, +1 dodge, +11 Wis, +15 natural, -4 size
-
-**Ref:** +23
 
 **Regen:** 15 (chaotic spells and effects)
 
 **Sr:** 33
-
-**Will:** +27
 
 **Offense**
 

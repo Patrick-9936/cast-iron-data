@@ -48,23 +48,27 @@ head, neck, and back._
 
 **Experience points:** 38,400
 
-**Armor class:** 31/11/28
+**Armor class:** 31
 
-**Fort:** +15
+**Touch:** 11
+
+**Flat-footed:** 28
+
+**AC modifiers:** +2 Dex, +1 dodge, +20 natural, -2 size
 
 **Hit points:** 195 (17d10+102)
 
-**Immune:** cold
-
-**Mod:** +2 Dex, +1 dodge, +20 natural, -2 size
+**Fort:** +15
 
 **Ref:** +12
+
+**Will:** +10
+
+**Immune:** cold
 
 **Resist:** electricity 30, fire 30
 
 **Sr:** 25
-
-**Will:** +10
 
 **Offense**
 

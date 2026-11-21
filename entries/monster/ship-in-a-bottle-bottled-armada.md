@@ -50,21 +50,25 @@ one, coordinating their attacks._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/15/15
+**Armor class:** 18
 
-**Dr:** 5/-
+**Touch:** 15
 
-**Fort:** +2
+**Flat-footed:** 15
+
+**AC modifiers:** +3 armor, +3 Dex, +2 size
 
 **Hit points:** 64 (8d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 armor, +3 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +7
 
 **Will:** +4
+
+**Dr:** 5/-
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

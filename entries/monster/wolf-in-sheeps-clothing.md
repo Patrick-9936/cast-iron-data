@@ -52,13 +52,17 @@ a maw of sharp teeth._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/10/21
+**Armor class:** 21
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 21
+
+**AC modifiers:** +11 natural
 
 **Hit points:** 97 (13d8+39)
 
-**Mod:** +11 natural
+**Fort:** +9
 
 **Ref:** +6
 

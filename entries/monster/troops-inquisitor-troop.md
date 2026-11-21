@@ -49,21 +49,25 @@ ready in a coordinated front._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/13/20
+**Armor class:** 22
 
-**Defensive abilities:** judgment of protection, troop traits
+**Touch:** 13
 
-**Fh:** 5
+**Flat-footed:** 20
 
-**Fort:** +10
+**AC modifiers:** +9 armor, +2 Dex, +1 profane
 
 **Hit points:** 114 (12d8+60)
 
-**Mod:** +9 armor, +2 Dex, +1 profane
+**Fort:** +10
 
 **Ref:** +6
 
 **Will:** +14
+
+**Defensive abilities:** judgment of protection, troop traits
+
+**Fh:** 5
 
 **Offense**
 

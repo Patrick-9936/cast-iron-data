@@ -51,25 +51,29 @@ _This elven woman's allure is obfuscated by her ragged insectile wings and long,
 
 **Experience points:** 1,200
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural
 
 **Hit points:** 39 (6d10+6)
 
-**Immune:** sleep
-
-**Mod:** +3 Dex, +1 dodge, +4 natural
+**Fort:** +3
 
 **Ref:** +8
+
+**Will:** +7; +2 vs. enchantments
+
+**Dr:** 5/cold iron
+
+**Immune:** sleep
 
 **Resist:** electricity 10, fire 5
 
 **Sr:** 15
-
-**Will:** +7; +2 vs. enchantments
 
 **Offense**
 

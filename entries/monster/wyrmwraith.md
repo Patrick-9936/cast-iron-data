@@ -56,27 +56,31 @@ less noble._
 
 **Experience points:** 102,400
 
-**Armor class:** 31/31/18
+**Armor class:** 31
+
+**Touch:** 31
+
+**Flat-footed:** 18
+
+**AC modifiers:** +6 deflection, +12 Dex, +1 dodge, +6 profane, -4 size
+
+**Hit points:** 252 (24d8+144)
+
+**Fort:** +14
+
+**Ref:** +20
+
+**Will:** +19
 
 **Chan Res:** +4
 
 **Defensive abilities:** positive energy transference
 
-**Fort:** +14
-
-**Hit points:** 252 (24d8+144)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +6 deflection, +12 Dex, +1 dodge, +6 profane, -4 size
-
-**Ref:** +20
-
 **Weaknesses:** sunlight powerlessness
-
-**Will:** +19
 
 **Offense**
 

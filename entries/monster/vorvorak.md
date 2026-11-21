@@ -49,23 +49,27 @@ and green hide, and a muscular tail sways menacingly behind it._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/10/22
+**Armor class:** 24
 
-**Defensive abilities:** confident
+**Touch:** 10
 
-**Fort:** +12
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +14 natural, -2 size
 
 **Hit points:** 123 (13d10+52)
 
-**Immune:** poison
-
-**Mod:** +2 Dex, +14 natural, -2 size
+**Fort:** +12
 
 **Ref:** +12
 
-**Sr:** 21
-
 **Will:** +9; +4 vs. fear
+
+**Defensive abilities:** confident
+
+**Immune:** poison
+
+**Sr:** 21
 
 **Offense**
 

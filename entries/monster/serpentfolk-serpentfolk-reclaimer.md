@@ -49,21 +49,25 @@ tongue flicks from its serpentine head._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/16/14
+**Armor class:** 20
 
-**Fort:** +5
+**Touch:** 16
+
+**Flat-footed:** 14
+
+**AC modifiers:** +6 Dex, +4 natural
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** mind-affecting effects, poison, paralysis
-
-**Mod:** +6 Dex, +4 natural
+**Fort:** +5
 
 **Ref:** +12
 
-**Sr:** 17
-
 **Will:** +10
+
+**Immune:** mind-affecting effects, poison, paralysis
+
+**Sr:** 17
 
 **Offense**
 

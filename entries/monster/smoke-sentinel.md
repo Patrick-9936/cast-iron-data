@@ -48,21 +48,25 @@ it whirs as if mechanical._
 
 **Experience points:** 6,400
 
-**Armor class:** 20/20/14
+**Armor class:** 20
 
-**Defensive abilities:** gaseous
+**Touch:** 20
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +6 deflection, +5 Dex, +1 dodge, -2 size
 
 **Hit points:** 98 (9d10+49)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +6 deflection, +5 Dex, +1 dodge, -2 size
+**Fort:** +3
 
 **Ref:** +8
 
 **Will:** +8
+
+**Defensive abilities:** gaseous
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

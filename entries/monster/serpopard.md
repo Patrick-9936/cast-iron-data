@@ -49,13 +49,17 @@ neck stretches over twice the length of its body, ending in a snarling leopard's
 
 **Experience points:** 3,200
 
-**Armor class:** 20/15/15
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 15
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 Dex, +5 natural
 
 **Hit points:** 85 (9d10+36)
 
-**Mod:** +5 Dex, +5 natural
+**Fort:** +10
 
 **Ref:** +11
 

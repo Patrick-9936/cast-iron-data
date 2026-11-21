@@ -52,7 +52,21 @@ and its gaze conveys a furious misery._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/19/22
+**Armor class:** 27
+
+**Touch:** 19
+
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +1 dodge, +5 insight, +8 natural, -1 size
+
+**Hit points:** 168 (16d10+80)
+
+**Fort:** +10
+
+**Ref:** +16
+
+**Will:** +15
 
 **Defensive abilities:** temporal sense
 
@@ -60,17 +74,7 @@ and its gaze conveys a furious misery._
 
 **Fh:** 10
 
-**Fort:** +10
-
-**Hit points:** 168 (16d10+80)
-
 **Immune:** disease, mind-affecting effects, pain effects, poison
-
-**Mod:** +4 Dex, +1 dodge, +5 insight, +8 natural, -1 size
-
-**Ref:** +16
-
-**Will:** +15
 
 **Offense**
 

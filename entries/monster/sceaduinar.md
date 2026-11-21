@@ -56,27 +56,31 @@ living, dark purple crystal._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/16/14
+**Armor class:** 20
+
+**Touch:** 16
+
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +1 dodge, +4 natural
+
+**Hit points:** 85 (9d10+36)
+
+**Fort:** +10
+
+**Ref:** +11
+
+**Will:** +5
 
 **Defensive abilities:** entropic flesh, negative energy affinity, void child
 
 **Dr:** 10/adamantine or good
 
-**Fort:** +10
-
-**Hit points:** 85 (9d10+36)
-
 **Immune:** cold, death effects, disease, energy drain, poison
-
-**Mod:** +5 Dex, +1 dodge, +4 natural
-
-**Ref:** +11
 
 **Resist:** acid 10, electricity 10, sonic 10
 
 **Sr:** 18
-
-**Will:** +5
 
 **Offense**
 

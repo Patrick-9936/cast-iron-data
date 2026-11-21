@@ -49,19 +49,23 @@ has four elongated tentacles and a toothy maw._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Defensive abilities:** negative energy affinity
+**Touch:** 11
 
-**Fort:** +6
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +8 natural, -1 size
 
 **Hit points:** 67 (9d8+27)
 
-**Mod:** +2 Dex, +8 natural, -1 size
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +7
+
+**Defensive abilities:** negative energy affinity
 
 **Offense**
 

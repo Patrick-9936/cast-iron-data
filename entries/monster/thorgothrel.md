@@ -50,21 +50,25 @@ approximation of three arms and legs. Its outer skin shimmers with a rainbow of 
 
 **Experience points:** 4,800
 
-**Armor class:** 21/9/21
+**Armor class:** 21
 
-**Fort:** +7
+**Touch:** 9
+
+**Flat-footed:** 21
+
+**AC modifiers:** +12 natural, -1 size
 
 **Hit points:** 100 (8d8+24\~\~40)
 
-**Immune:** cold, electricity, mind-affecting effects, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +12 natural, -1 size
+**Fort:** +7
 
 **Ref:** +4
 
-**Resist:** acid 10
-
 **Will:** +7
+
+**Immune:** cold, electricity, mind-affecting effects, [ooze traits](ref/umr/ooze-traits)
+
+**Resist:** acid 10
 
 **Offense**
 

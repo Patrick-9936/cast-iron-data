@@ -50,19 +50,23 @@ unnatural gleam in its otherworldly eyes._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +2
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 13 (3d10-3)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +5
 
-**Resist:** cold 5
-
 **Will:** +2
+
+**Resist:** cold 5
 
 **Offense**
 

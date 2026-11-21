@@ -54,25 +54,29 @@ _This lithe humanoid has pointed ears, glowing green eyes, and a ram's horns._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/25/21
+**Armor class:** 31
+
+**Touch:** 25
+
+**Flat-footed:** 21
+
+**AC modifiers:** +5 deflection, +9 Dex, +1 dodge, +6 natural
+
+**Hit points:** 228 (24d6+144)
+
+**Fort:** +16
+
+**Ref:** +23
+
+**Will:** +21
 
 **Defensive abilities:** instinctive cooperation, wild grace
 
 **Dr:** 15/cold iron
 
-**Fort:** +16
-
-**Hit points:** 228 (24d6+144)
-
 **Immune:** cold, blindness
 
-**Mod:** +5 deflection, +9 Dex, +1 dodge, +6 natural
-
-**Ref:** +23
-
 **Resist:** electricity 10, fire 10
-
-**Will:** +21
 
 **Offense**
 

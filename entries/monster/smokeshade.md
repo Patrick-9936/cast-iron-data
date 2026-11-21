@@ -51,21 +51,25 @@ out from its body as swiftly as they collapse back into its central mass._
 
 **Experience points:** 600
 
-**Armor class:** 15/15/13
+**Armor class:** 15
 
-**Amorph:** present
+**Touch:** 15
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +1 deflection, +2 Dex, +2 size
 
 **Hit points:** 22 (4d8+4)
 
-**Mod:** +1 deflection, +2 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +5
 
-**Sr:** 13
-
 **Will:** +5
+
+**Amorph:** present
+
+**Sr:** 13
 
 **Offense**
 

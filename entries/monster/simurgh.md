@@ -53,24 +53,28 @@ _This massive creature has the body of a resplendent bird but the head of a rega
 
 **Experience points:** 153,600
 
-**Armor class:** 34/10/30
+**Armor class:** 34
+
+**Touch:** 10
+
+**Flat-footed:** 30
+
+**AC modifiers:** +3 Dex, +1 dodge, +24 natural, -4 size
+
+**Hit points:** 324 (24d10+192)
 
 **Fort:** +22
 
-**Hit points:** 324 (24d10+192)
+**Ref:** +17
+
+**Will:** +14
 
 **Immune:** ability damage, ability drain, disease, fire, negative energy, petrification, poison,
 sleep
 
-**Mod:** +3 Dex, +1 dodge, +24 natural, -4 size
-
-**Ref:** +17
-
 **Resist:** acid 10, cold 10, electricity 10
 
 **Sr:** 29
-
-**Will:** +14
 
 **Offense**
 

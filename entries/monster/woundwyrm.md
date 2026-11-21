@@ -51,24 +51,28 @@ protrusions._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/10/28
+**Armor class:** 30
 
-**Dr:** 10/good or lawful
+**Touch:** 10
+
+**Flat-footed:** 28
+
+**AC modifiers:** +1 Dex, +1 dodge, +20 natural, -2 size
+
+**Hit points:** 225 (18d12+108)
 
 **Fort:** +17
 
-**Hit points:** 225 (18d12+108)
+**Ref:** +12
+
+**Will:** +12
+
+**Dr:** 10/good or lawful
 
 **Immune:** acid, dragon traits, gaze attacks, illusions, magic paralysis and sleep, poison,
 polymorph, visual effects
 
-**Mod:** +1 Dex, +1 dodge, +20 natural, -2 size
-
-**Ref:** +12
-
 **Sr:** 26
-
-**Will:** +12
 
 **Offense**
 

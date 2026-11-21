@@ -52,23 +52,27 @@ its throat, below a circular, toothy maw dripping with luminescent spittle._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/11/26
+**Armor class:** 29
+
+**Touch:** 11
+
+**Flat-footed:** 26
+
+**AC modifiers:** +3 Dex, +18 natural, -2 size
+
+**Hit points:** 231 (22d8+132)
+
+**Fort:** +14
+
+**Ref:** +10
+
+**Will:** +17; +6 vs. illusion
 
 **Defensive abilities:** illusion sense
 
 **Dr:** 10/magic
 
-**Fort:** +14
-
-**Hit points:** 231 (22d8+132)
-
-**Mod:** +3 Dex, +18 natural, -2 size
-
-**Ref:** +10
-
 **Sr:** 26
-
-**Will:** +17; +6 vs. illusion
 
 **Offense**
 

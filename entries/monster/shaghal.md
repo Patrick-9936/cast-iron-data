@@ -51,19 +51,23 @@ dust._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/13/18
+**Armor class:** 21
 
-**Fort:** +12
+**Touch:** 13
+
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +8 natural
 
 **Hit points:** 105 (10d10+50)
 
-**Immune:** acid, disease, poison
-
-**Mod:** +3 Dex, +8 natural
+**Fort:** +12
 
 **Ref:** +10
 
 **Will:** +5
+
+**Immune:** acid, disease, poison
 
 **Offense**
 

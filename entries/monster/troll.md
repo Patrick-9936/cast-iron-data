@@ -50,19 +50,23 @@ hideous, tusked underbite._
 
 **Experience points:** 1,600
 
-**Armor class:** 16/11/14
+**Armor class:** 16
 
-**Fort:** +11
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +5 natural, -1 size
 
 **Hit points:** 63 (6d8+36)
 
-**Mod:** +2 Dex, +5 natural, -1 size
+**Fort:** +11
 
 **Ref:** +4
 
-**Regen:** 5 (acid or fire)
-
 **Will:** +3
+
+**Regen:** 5 (acid or fire)
 
 **Offense**
 

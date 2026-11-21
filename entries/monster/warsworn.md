@@ -55,23 +55,27 @@ steel-girded flesh._
 
 **Experience points:** 76,800
 
-**Armor class:** 29/9/26
+**Armor class:** 29
+
+**Touch:** 9
+
+**Flat-footed:** 26
+
+**AC modifiers:** +3 Dex, +20 natural, -4 size
+
+**Hit points:** 207 (18d8+126)
+
+**Fort:** +13
+
+**Ref:** +9
+
+**Will:** +17
 
 **Chan Res:** +4
 
 **Dr:** 10/bludgeoning and magic
 
-**Fort:** +13
-
-**Hit points:** 207 (18d8+126)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +20 natural, -4 size
-
-**Ref:** +9
-
-**Will:** +17
 
 **Offense**
 

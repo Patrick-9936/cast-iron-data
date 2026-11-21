@@ -51,25 +51,29 @@ erupt from the towering bulk._
 
 **Experience points:** 102,400
 
-**Armor class:** 33/17/25
+**Armor class:** 33
 
-**Dr:** 15/good
+**Touch:** 17
 
-**Fort:** +21
+**Flat-footed:** 25
+
+**AC modifiers:** +7 Dex, +1 dodge, +16 natural, -1 size
 
 **Hit points:** 279 (18d10+180)
 
-**Immune:** death effects, disease, fear effects, poison
-
-**Mod:** +7 Dex, +1 dodge, +16 natural, -1 size
+**Fort:** +21
 
 **Ref:** +13
+
+**Will:** +17
+
+**Dr:** 15/good
+
+**Immune:** death effects, disease, fear effects, poison
 
 **Resist:** cold 15, electricity 15, sonic 15
 
 **Sr:** 28
-
-**Will:** +17
 
 **Offense**
 

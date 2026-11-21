@@ -47,19 +47,23 @@ a sword and drips with venom._
 
 **Experience points:** 800
 
-**Armor class:** 14/10/13
+**Armor class:** 14
 
-**Fort:** +8
+**Touch:** 10
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +4 natural, -1 size
 
 **Hit points:** 34 (4d8+16)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +4 natural, -1 size
+**Fort:** +8
 
 **Ref:** +2
 
 **Will:** +2
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

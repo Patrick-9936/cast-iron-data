@@ -51,25 +51,29 @@ black pits for eyes and an expression of sorrow and horror._
 
 **Experience points:** 3,200
 
-**Armor class:** 18/18/13
+**Armor class:** 18
 
-**Chan Res:** +2
+**Touch:** 18
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 deflection, +4 Dex, +1 dodge
+
+**Hit points:** 75 (10d8+30)
 
 **Fort:** +6
 
-**Hit points:** 75 (10d8+30)
+**Ref:** +7
+
+**Will:** +10
+
+**Chan Res:** +2
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +3 deflection, +4 Dex, +1 dodge
-
-**Ref:** +7
-
 **Weaknesses:** legacy of faith
-
-**Will:** +10
 
 **Offense**
 

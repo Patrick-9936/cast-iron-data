@@ -50,23 +50,27 @@ crystalline eye glares from its hideous face._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/17/14
+**Armor class:** 20
 
-**Defensive abilities:** infected blood
+**Touch:** 17
 
-**Fort:** +7
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +1 dodge, +3 natural, +1 size
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** cold, disease, poison
-
-**Mod:** +5 Dex, +1 dodge, +3 natural, +1 size
+**Fort:** +7
 
 **Ref:** +8
 
-**Resist:** acid 5, electricity 5
-
 **Will:** +10
+
+**Defensive abilities:** infected blood
+
+**Immune:** cold, disease, poison
+
+**Resist:** acid 5, electricity 5
 
 **Offense**
 

@@ -48,23 +48,27 @@ alive, her bloody muscles and sinews pulsing grotesquely._
 
 **Experience points:** 4,800
 
-**Armor class:** 23/17/16
+**Armor class:** 23
 
-**Dr:** 5/cold iron and magic
+**Touch:** 17
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +1 dodge, +6 natural
 
 **Hit points:** 102 (12d10+36)
 
-**Immune:** fire, charm, disease, fear, sleep
-
-**Mod:** +6 Dex, +1 dodge, +6 natural
+**Fort:** +7
 
 **Ref:** +14
 
-**Sr:** 19
-
 **Will:** +11
+
+**Dr:** 5/cold iron and magic
+
+**Immune:** fire, charm, disease, fear, sleep
+
+**Sr:** 19
 
 **Offense**
 

@@ -51,13 +51,17 @@ body, and belligerent hiss._
 
 **Experience points:** 400
 
-**Armor class:** 15/14/11
+**Armor class:** 15
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 natural
 
 **Hit points:** 9 (2d8)
 
-**Mod:** +4 Dex, +1 natural
+**Fort:** +3
 
 **Ref:** +7
 

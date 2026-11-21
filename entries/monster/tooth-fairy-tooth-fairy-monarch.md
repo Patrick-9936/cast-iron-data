@@ -50,21 +50,25 @@ made of humanoid teeth and clutches a tooth-studded scepter._
 
 **Experience points:** 800
 
-**Armor class:** 15/15/11
+**Armor class:** 15
 
-**Dr:** 5/cold iron
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 size
 
 **Hit points:** 27 (5d6+10)
 
-**Mod:** +4 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +8
 
-**Sr:** 14
-
 **Will:** +6
+
+**Dr:** 5/cold iron
+
+**Sr:** 14
 
 **Offense**
 

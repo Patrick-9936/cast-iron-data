@@ -48,23 +48,27 @@ thrashing tail ends in a crab-like pincer._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/21/18
+**Armor class:** 33
+
+**Touch:** 21
+
+**Flat-footed:** 18
+
+**AC modifiers:** +15 Dex, +12 natural, -4 size
+
+**Hit points:** 310 (20d8+220)
+
+**Fort:** +17
+
+**Ref:** +21
+
+**Will:** +19
 
 **Defensive abilities:** all-around vision
 
 **Fh:** 15
 
-**Fort:** +17
-
-**Hit points:** 310 (20d8+220)
-
 **Immune:** acid
-
-**Mod:** +15 Dex, +12 natural, -4 size
-
-**Ref:** +21
-
-**Will:** +19
 
 **Offense**
 

@@ -51,21 +51,25 @@ its large eyes glow with inner light._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +2 Dex, +2 natural
+**Fort:** +5
 
 **Ref:** +3
+
+**Will:** +0
 
 **Regen:** 2 (acid or fire)
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +0
 
 **Offense**
 

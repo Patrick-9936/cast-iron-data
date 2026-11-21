@@ -51,13 +51,17 @@ of a giant fish._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/10/17
+**Armor class:** 18
 
-**Fort:** +7
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +8 natural, -1 size
 
 **Hit points:** 45 (6d10+12)
 
-**Mod:** +1 Dex, +8 natural, -1 size
+**Fort:** +7
 
 **Ref:** +6
 

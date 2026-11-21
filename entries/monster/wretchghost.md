@@ -52,25 +52,29 @@ almost touch the ground._
 
 **Experience points:** 1,600
 
-**Armor class:** 16/16/12
+**Armor class:** 16
 
-**Chan Res:** +2
+**Touch:** 16
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 deflection, +3 Dex, +1 dodge
+
+**Hit points:** 52 (8d8+16)
 
 **Fort:** +4
 
-**Hit points:** 52 (8d8+16)
+**Ref:** +5
+
+**Will:** +8
+
+**Chan Res:** +2
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +2 deflection, +3 Dex, +1 dodge
-
-**Ref:** +5
-
 **Weaknesses:** susceptible to addicts
-
-**Will:** +8
 
 **Offense**
 

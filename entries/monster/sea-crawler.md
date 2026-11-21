@@ -49,13 +49,17 @@ arms, legs, and a tail._
 
 **Experience points:** 400
 
-**Armor class:** 12/12/10
+**Armor class:** 12
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex
 
 **Hit points:** 11 (2d8+2)
 
-**Mod:** +2 Dex
+**Fort:** +4
 
 **Ref:** +5
 

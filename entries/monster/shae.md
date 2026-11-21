@@ -50,23 +50,27 @@ body._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/16/10
+**Armor class:** 16
+
+**Touch:** 16
+
+**Flat-footed:** 10
+
+**AC modifiers:** +6 Dex
+
+**Hit points:** 38 (4d10+16)
+
+**Fort:** +8
+
+**Ref:** +7
+
+**Will:** +7
 
 **Amorph:** present
 
 **Defensive abilities:** _[blur](ref/spell/blur)_
 
-**Fort:** +8
-
-**Hit points:** 38 (4d10+16)
-
 **Immune:** cold
-
-**Mod:** +6 Dex
-
-**Ref:** +7
-
-**Will:** +7
 
 **Offense**
 

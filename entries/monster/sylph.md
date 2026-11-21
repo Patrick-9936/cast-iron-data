@@ -54,19 +54,23 @@ into mist entirely at any minute._
 
 **Experience points:** 200
 
-**Armor class:** 16/14/12
+**Armor class:** 16
 
-**Fort:** +0
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 armor, +3 Dex, +1 dodge
 
 **Hit points:** 9 (1d8+1)
 
-**Mod:** +2 armor, +3 Dex, +1 dodge
+**Fort:** +0
 
 **Ref:** +5
 
-**Resist:** electricity 5
-
 **Will:** +2
+
+**Resist:** electricity 5
 
 **Offense**
 

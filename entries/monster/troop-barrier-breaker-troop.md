@@ -52,21 +52,25 @@ _This wretched collection of undead have tight leathery skin, sunken eyes, and e
 
 **Experience points:** 3,200
 
-**Armor class:** 21/12/19
+**Armor class:** 21
 
-**Defensive abilities:** troop traits
+**Touch:** 12
 
-**Fort:** +7
+**Flat-footed:** 19
+
+**AC modifiers:** +4 armor, +1 Dex, +1 dodge, +5 natural
 
 **Hit points:** 90 (12d8+36)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 armor, +1 Dex, +1 dodge, +5 natural
+**Fort:** +7
 
 **Ref:** +7
 
 **Will:** +9
+
+**Defensive abilities:** troop traits
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

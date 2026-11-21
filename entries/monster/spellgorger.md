@@ -52,21 +52,25 @@ and is encircled by strange arcane energies._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/26/17
+**Armor class:** 26
 
-**Defensive abilities:** deflective shield, spell healing
+**Touch:** 26
 
-**Fort:** +13
+**Flat-footed:** 17
+
+**AC modifiers:** +8 deflection, +8 Dex, +1 dodge, -1 size
 
 **Hit points:** 161 (14d8+98)
 
-**Immune:** fire, force, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +8 deflection, +8 Dex, +1 dodge, -1 size
+**Fort:** +13
 
 **Ref:** +12
 
 **Will:** +9
+
+**Defensive abilities:** deflective shield, spell healing
+
+**Immune:** fire, force, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

@@ -53,21 +53,27 @@ blazing white flames._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/15/15
+**Armor class:** 18
+
+**Touch:** 15
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +1 dodge, +3 natural, +2 size
+
+**Hit points:** 37 (5d10+10)
+
+**Fort:** +6
+
+**Ref:** +3
+
+**Will:** +6; +4 vs. poison
 
 **Defensive abilities:** self-resurrection
 
 **Dr:** 5/evil
 
-**Fort:** +6
-
-**Hit points:** 37 (5d10+10)
-
 **Immune:** fire, petrification
-
-**Mod:** +2 Dex, +1 dodge, +3 natural, +2 size
-
-**Ref:** +3
 
 **Regen:** 1 (cold or evil)
 
@@ -76,8 +82,6 @@ blazing white flames._
 **Sr:** 15
 
 **Vulner:** cold
-
-**Will:** +6; +4 vs. poison
 
 **Offense**
 

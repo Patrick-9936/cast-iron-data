@@ -53,23 +53,27 @@ long, powerful tail._
 
 **Experience points:** 9,600
 
-**Armor class:** 26/16/20
+**Armor class:** 26
 
-**Dr:** 10/slashing
+**Touch:** 16
 
-**Fort:** +10
+**Flat-footed:** 20
+
+**AC modifiers:** +5 Dex, +1 dodge, +10 natural
 
 **Hit points:** 136 (13d8+78)
 
-**Immune:** cold, electricity, poison
-
-**Mod:** +5 Dex, +1 dodge, +10 natural
+**Fort:** +10
 
 **Ref:** +9
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +10
+
+**Dr:** 10/slashing
+
+**Immune:** cold, electricity, poison
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

@@ -49,25 +49,29 @@ _This creature has the body of a middle-aged human man and the pointed ears and 
 
 **Experience points:** 204,800
 
-**Armor class:** 37/30/26
+**Armor class:** 37
+
+**Touch:** 30
+
+**Flat-footed:** 26
+
+**AC modifiers:** +9 deflection, +9 Dex, +2 dodge, +7 natural
+
+**Hit points:** 333 (23d6+253); sustaining joy
+
+**Fort:** +18
+
+**Ref:** +23
+
+**Will:** +21
 
 **Defensive abilities:** grace
 
 **Dr:** 15/cold iron and magic
 
-**Fort:** +18
-
-**Hit points:** 333 (23d6+253); sustaining joy
-
 **Immune:** sonic
 
-**Mod:** +9 deflection, +9 Dex, +2 dodge, +7 natural
-
-**Ref:** +23
-
 **Sr:** 30
-
-**Will:** +21
 
 **Offense**
 

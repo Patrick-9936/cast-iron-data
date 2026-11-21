@@ -58,21 +58,25 @@ tail and crests on its head and back._
 
 **Experience points:** 6,400
 
-**Armor class:** 19/11/18
+**Armor class:** 19
 
-**Defensive abilities:** improved savage grapple
+**Touch:** 11
 
-**Dr:** 1/-
+**Flat-footed:** 18
 
-**Fort:** +15
+**AC modifiers:** +2 armor, +1 Dex, +8 natural, -2 rage
 
 **Hit points:** 124 (2d8+8d12+58\~10)
 
-**Mod:** +2 armor, +1 Dex, +8 natural, -2 rage
+**Fort:** +15
 
 **Ref:** +4
 
 **Will:** +8
+
+**Defensive abilities:** improved savage grapple
+
+**Dr:** 1/-
 
 **Offense**
 

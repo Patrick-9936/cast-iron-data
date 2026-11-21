@@ -51,23 +51,27 @@ _The razor-sharp wings of a thousand stained glass insects jingle with a resonan
 
 **Experience points:** 6,400
 
-**Armor class:** 25/21/18
+**Armor class:** 25
 
-**Defensive abilities:** swarm traits
+**Touch:** 21
 
-**Fort:** +6
+**Flat-footed:** 18
+
+**AC modifiers:** +7 Dex, +4 natural, +4 size
 
 **Hit points:** 110 (20d10)
 
-**Immune:** acid, [construct traits](ref/umr/construct-traits), weapon damage
-
-**Mod:** +7 Dex, +4 natural, +4 size
+**Fort:** +6
 
 **Ref:** +13
 
-**Vulner:** sonic
-
 **Will:** +6
+
+**Defensive abilities:** swarm traits
+
+**Immune:** acid, [construct traits](ref/umr/construct-traits), weapon damage
+
+**Vulner:** sonic
 
 **Offense**
 

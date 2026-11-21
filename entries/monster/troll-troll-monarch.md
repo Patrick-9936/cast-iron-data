@@ -51,21 +51,25 @@ abilities = ["29", "12", "27", "8", "9", "10"]
 
 **Experience points:** 51,200
 
-**Armor class:** 26/11/25
+**Armor class:** 26
 
-**Defensive abilities:** bravery +3
+**Touch:** 11
 
-**Fort:** +20
+**Flat-footed:** 25
+
+**AC modifiers:** +10 armor, +1 deflection, +1 Dex, +5 natural, -1 size
 
 **Hit points:** 220 (6d8+10d10+138\~16)
 
-**Mod:** +10 armor, +1 deflection, +1 Dex, +5 natural, -1 size
+**Fort:** +20
 
 **Ref:** +8
 
-**Regen:** 5 (acid or fire)
-
 **Will:** +6 (+3 vs. fear)
+
+**Defensive abilities:** bravery +3
+
+**Regen:** 5 (acid or fire)
 
 **Offense**
 

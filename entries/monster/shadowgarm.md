@@ -51,23 +51,27 @@ writhing form makes it difficult to identify from a distance._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Defensive abilities:** feather fall, shadow blend
+**Touch:** 12
 
-**Fort:** +3
+**Flat-footed:** 12
+
+**AC modifiers:** +2 armor, +2 Dex
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +2 armor, +2 Dex
+**Fort:** +3
 
 **Ref:** +5
+
+**Will:** +5
+
+**Defensive abilities:** feather fall, shadow blend
 
 **Sr:** 7
 
 **Weaknesses:** light fixation
-
-**Will:** +5
 
 **Offense**
 

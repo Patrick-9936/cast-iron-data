@@ -52,7 +52,21 @@ white gas occasionally escape the roiling fluid._
 
 **Experience points:** 25,600
 
-**Armor class:** 27/17/18
+**Armor class:** 27
+
+**Touch:** 17
+
+**Flat-footed:** 18
+
+**AC modifiers:** +9 Dex, +10 armor, -2 size
+
+**Hit points:** 161 (14d8+98)
+
+**Fort:** +11
+
+**Ref:** +13
+
+**Will:** +12
 
 **Amorph:** present
 
@@ -60,23 +74,13 @@ white gas occasionally escape the roiling fluid._
 
 **Dr:** 10/-
 
-**Fort:** +11
-
-**Hit points:** 161 (14d8+98)
-
 **Immune:** bludgeoning, charm effects, electricity, fire, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +9 Dex, +10 armor, -2 size
-
-**Ref:** +13
 
 **Sr:** 24
 
 **Vulner:** cold
 
 **Weaknesses:** limited mobility
-
-**Will:** +12
 
 **Offense**
 

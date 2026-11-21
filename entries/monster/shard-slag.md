@@ -56,25 +56,29 @@ burning-hot sword blade._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/6/20
+**Armor class:** 20
 
-**Dr:** 5/magic
+**Touch:** 6
 
-**Fort:** +10
+**Flat-footed:** 20
+
+**AC modifiers:** -2 Dex, +14 natural, -2 size
 
 **Hit points:** 126 (12d8+72)
 
-**Immune:** acid, electricity, fire, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -2 Dex, +14 natural, -2 size
+**Fort:** +10
 
 **Ref:** +2
+
+**Will:** -1
+
+**Dr:** 5/magic
+
+**Immune:** acid, electricity, fire, [ooze traits](ref/umr/ooze-traits)
 
 **Vulner:** cold
 
 **Weaknesses:** vulnerable to water
-
-**Will:** -1
 
 **Offense**
 

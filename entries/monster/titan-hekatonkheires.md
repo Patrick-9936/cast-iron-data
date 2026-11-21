@@ -52,27 +52,31 @@ wielding a different weapon._
 
 **Experience points:** 1,228,800
 
-**Armor class:** 42/4/40
+**Armor class:** 42
+
+**Touch:** 4
+
+**Flat-footed:** 40
+
+**AC modifiers:** +8 armor, +2 Dex, +30 natural, -8 size
+
+**Hit points:** 516 (24d10+384)
+
+**Fort:** +30
+
+**Ref:** +12
+
+**Will:** +18
 
 **Defensive abilities:** spell turning
 
 **Dr:** 20/epic and lawful
 
-**Fort:** +30
-
-**Hit points:** 516 (24d10+384)
-
 **Immune:** aging, death effects, disease, mind-affecting effects
-
-**Mod:** +8 armor, +2 Dex, +30 natural, -8 size
-
-**Ref:** +12
 
 **Regen:** 10 (epic)
 
 **Sr:** 35
-
-**Will:** +18
 
 **Offense**
 

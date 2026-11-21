@@ -50,23 +50,27 @@ legs ending in powerful metallic talons, its beady eyes dart about voraciously._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/11/20
+**Armor class:** 22
 
-**Dr:** 10/magic and adamantine
+**Touch:** 11
 
-**Fort:** +11
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +11 natural, -1 size
 
 **Hit points:** 94 (9d10+45)
 
-**Immune:** fire
-
-**Mod:** +2 Dex, +11 natural, -1 size
+**Fort:** +11
 
 **Ref:** +10
 
-**Weaknesses:** sonic
-
 **Will:** +5
+
+**Dr:** 10/magic and adamantine
+
+**Immune:** fire
+
+**Weaknesses:** sonic
 
 **Offense**
 

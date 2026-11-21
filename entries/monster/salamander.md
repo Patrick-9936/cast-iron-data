@@ -51,23 +51,27 @@ blackened, fiery-red scales._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/11/17
+**Armor class:** 18
 
-**Dr:** 10/magic
+**Touch:** 11
 
-**Fort:** +10
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +7 natural
 
 **Hit points:** 76 (8d10+32)
 
-**Immune:** fire
-
-**Mod:** +1 Dex, +7 natural
+**Fort:** +10
 
 **Ref:** +7
 
-**Vulner:** cold
-
 **Will:** +6
+
+**Dr:** 10/magic
+
+**Immune:** fire
+
+**Vulner:** cold
 
 **Offense**
 

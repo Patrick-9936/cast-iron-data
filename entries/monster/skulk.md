@@ -51,13 +51,17 @@ mimic his surroundings._
 **Subtype:** Skulk\
 **Experience points:** 400
 
-**Armor class:** 12/12/10
+**Armor class:** 12
 
-**Fort:** +2
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex
 
 **Hit points:** 16 (3d8+3)
 
-**Mod:** +2 Dex
+**Fort:** +2
 
 **Ref:** +5
 

@@ -47,25 +47,29 @@ etchings and runes._
 
 **Experience points:** 12,800
 
-**Armor class:** 28/11/26
+**Armor class:** 28
 
-**Dr:** 10/adamantine
+**Touch:** 11
 
-**Fort:** +4
+**Flat-footed:** 26
+
+**AC modifiers:** +2 Dex, +17 natural, -1 size
 
 **Hit points:** 107 (14d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +17 natural, -1 size
+**Fort:** +4
 
 **Ref:** +6
+
+**Will:** +6
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** acid 10, cold 10, electricity 10, fire 10
 
 **Vulner:** sonic
-
-**Will:** +6
 
 **Offense**
 

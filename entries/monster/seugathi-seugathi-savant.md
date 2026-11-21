@@ -52,7 +52,21 @@ _Hundreds of legs support this hulking, bruise-colored worm._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/15/16
+**Armor class:** 23
+
+**Touch:** 15
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +1 dodge, +8 natural, -2 size
+
+**Hit points:** 142 (15d8+75)
+
+**Fort:** +12
+
+**Ref:** +11
+
+**Will:** +13; +4 vs. psychic spells
 
 **Defensive abilities:** psychic resilience
 
@@ -60,19 +74,9 @@ _Hundreds of legs support this hulking, bruise-colored worm._
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 142 (15d8+75)
-
 **Immune:** mind-affecting effects, poison
 
-**Mod:** +6 Dex, +1 dodge, +8 natural, -2 size
-
-**Ref:** +11
-
 **Sr:** 21
-
-**Will:** +13; +4 vs. psychic spells
 
 **Offense**
 

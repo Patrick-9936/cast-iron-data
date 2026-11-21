@@ -57,19 +57,23 @@ piscine head features a toothy maw._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/13/15
+**Armor class:** 18
 
-**Fort:** +7
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +5 natural
 
 **Hit points:** 40 (4d10+18)
 
-**Mod:** +3 Dex, +5 natural
+**Fort:** +7
 
 **Ref:** +9
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +5; +2 vs. ongoing effects
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

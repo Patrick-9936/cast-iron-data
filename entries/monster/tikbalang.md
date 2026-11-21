@@ -50,13 +50,17 @@ long forelimbs with clawed fingers._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/13/18
+**Armor class:** 22
 
-**Fort:** +10
+**Touch:** 13
+
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +1 dodge, +9 natural, -1 size
 
 **Hit points:** 114 (12d10+48)
 
-**Mod:** +3 Dex, +1 dodge, +9 natural, -1 size
+**Fort:** +10
 
 **Ref:** +11
 

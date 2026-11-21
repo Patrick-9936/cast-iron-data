@@ -53,25 +53,29 @@ and human skulls._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/12/21
+**Armor class:** 24
 
-**Dr:** 5/adamantine
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 21
+
+**AC modifiers:** +3 Dex, +12 natural, -1 size
 
 **Hit points:** 112 (15d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +12 natural, -1 size
+**Fort:** +5
 
 **Ref:** +10
+
+**Will:** +6
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** cold 10
 
 **Sr:** 20
-
-**Will:** +6
 
 **Offense**
 

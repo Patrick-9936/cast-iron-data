@@ -48,19 +48,23 @@ _An ape-like head with demonic features cast in black iron sits on six segmented
 
 **Experience points:** 1,600
 
-**Armor class:** 19/15/15
+**Armor class:** 19
 
-**Fort:** +2
+**Touch:** 15
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +4 natural, +1 size
 
 **Hit points:** 54 (8d10+10)
 
-**Immune:** cold, [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +4 Dex, +4 natural, +1 size
+**Fort:** +2
 
 **Ref:** +8
 
 **Will:** +2
+
+**Immune:** cold, [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

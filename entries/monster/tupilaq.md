@@ -49,21 +49,25 @@ with fine scrimshaw._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/15/16
+**Armor class:** 20
 
-**Dr:** 10/bludgeoning
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +5 natural, +1 size
 
 **Hit points:** 59 (9d10+10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +4 Dex, +5 natural, +1 size
+**Fort:** +3
 
 **Ref:** +7
 
 **Will:** +3
+
+**Dr:** 10/bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

@@ -54,27 +54,31 @@ dart from the creature's mouth._
 
 **Experience points:** 409,600
 
-**Armor class:** 39/13/35
+**Armor class:** 39
 
-**Defensive abilities:** _[blur](ref/spell/blur)_ (20% miss chance)
+**Touch:** 13
 
-**Fort:** +19
+**Flat-footed:** 35
+
+**AC modifiers:** +11 armor, +3 Dex, +1 dodge, +15 natural, -1 size
 
 **Hit points:** 396 (24d10+264)
 
-**Immune:** ability damage, acid, charm and compulsion effects, death effects, disease, fire, poison
-
-**Mod:** +11 armor, +3 Dex, +1 dodge, +15 natural, -1 size
+**Fort:** +19
 
 **Ref:** +19
+
+**Will:** +20
+
+**Defensive abilities:** _[blur](ref/spell/blur)_ (20% miss chance)
+
+**Immune:** ability damage, acid, charm and compulsion effects, death effects, disease, fire, poison
 
 **Resist:** cold 30, electricity 30
 
 **Sr:** 32
 
 **Vulner:** cold
-
-**Will:** +20
 
 **Offense**
 

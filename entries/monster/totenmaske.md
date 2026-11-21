@@ -55,21 +55,25 @@ to be mostly mouth._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/16/14
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 16
+
+**Flat-footed:** 14
+
+**AC modifiers:** +6 Dex, +4 natural
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +6 Dex, +4 natural
+**Fort:** +7
 
 **Ref:** +9
 
-**Resist:** cold 20
-
 **Will:** +9
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Resist:** cold 20
 
 **Offense**
 

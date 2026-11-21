@@ -55,25 +55,29 @@ sphere of violet crystal in the other._
 
 **Experience points:** 307,200
 
-**Armor class:** 34/11/32
+**Armor class:** 34
 
-**Dr:** 10/good
+**Touch:** 11
 
-**Fort:** +21
+**Flat-footed:** 32
+
+**AC modifiers:** +10 armor, +2 Dex, +13 natural, -1 size
 
 **Hit points:** 371 (9d10+15d8+255\~24)
 
-**Immune:** electricity, poison
-
-**Mod:** +10 armor, +2 Dex, +13 natural, -1 size
+**Fort:** +21
 
 **Ref:** +20
+
+**Will:** +18
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 20
-
-**Will:** +18
 
 **Offense**
 

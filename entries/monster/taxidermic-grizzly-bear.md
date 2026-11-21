@@ -47,23 +47,27 @@ crisscross its body._
 
 **Experience points:** 800
 
-**Armor class:** 12/9/12
+**Armor class:** 12
 
-**Fort:** +2
+**Touch:** 9
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 natural, -1 size
 
 **Hit points:** 63 (6d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 natural, -1 size
+**Fort:** +2
 
 **Ref:** +2
+
+**Will:** +2
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Vulner:** slashing
 
 **Weaknesses:** defect (crude stitching)
-
-**Will:** +2
 
 **Offense**
 

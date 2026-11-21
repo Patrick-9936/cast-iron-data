@@ -54,23 +54,27 @@ algae, continually changing._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/12/21
+**Armor class:** 24
 
-**Dr:** 5/slashing
+**Touch:** 12
 
-**Fort:** +15
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +1 dodge, +12 natural, -1 size
 
 **Hit points:** 123 (13d8+65)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +1 dodge, +12 natural, -1 size
+**Fort:** +15
 
 **Ref:** +8
 
-**Resist:** cold 10
-
 **Will:** +4
+
+**Dr:** 5/slashing
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Resist:** cold 10
 
 **Offense**
 

@@ -50,19 +50,23 @@ _Though obviously a wooden construct, this small, nimble creature moves fluidly 
 
 **Experience points:** 200
 
-**Armor class:** 16/14/13
+**Armor class:** 16
 
-**Fort:** +0
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +3 Dex, +1 size
 
 **Hit points:** 18 (1d8+10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 armor, +3 Dex, +1 size
+**Fort:** +0
 
 **Ref:** +5 (+1 vs. traps)
 
 **Will:** +1
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

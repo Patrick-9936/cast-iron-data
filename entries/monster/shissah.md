@@ -48,13 +48,17 @@ intelligence._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/14/12
+**Armor class:** 17
 
-**Fort:** +8
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +5 Dex, +3 natural, -1 size
 
 **Hit points:** 42 (5d8+20)
 
-**Mod:** +5 Dex, +3 natural, -1 size
+**Fort:** +8
 
 **Ref:** +9
 

@@ -52,21 +52,25 @@ silently through the air._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/17/14
+**Armor class:** 21
 
-**Dr:** 10/magic
+**Touch:** 17
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +6 Dex, +1 dodge, +4 natural
 
 **Hit points:** 82 (11d10+22)
 
-**Immune:** critical hits, paralysis, poison, sleep, stunning
-
-**Mod:** +6 Dex, +1 dodge, +4 natural
+**Fort:** +5
 
 **Ref:** +13
 
 **Will:** +7
+
+**Dr:** 10/magic
+
+**Immune:** critical hits, paralysis, poison, sleep, stunning
 
 **Offense**
 

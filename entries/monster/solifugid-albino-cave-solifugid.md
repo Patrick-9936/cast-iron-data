@@ -47,19 +47,23 @@ huge vertical mandibles._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Fort:** +8
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +6 natural
 
 **Hit points:** 45 (6d8+18)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +6 natural
+**Fort:** +8
 
 **Ref:** +3
 
 **Will:** +2
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

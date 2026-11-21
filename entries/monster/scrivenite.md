@@ -52,29 +52,33 @@ the open cover of some great tome like a metal- and leather-bound mask._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/17/16
+**Armor class:** 19
+
+**Touch:** 17
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 deflection, +3 Dex, +2 natural
+
+**Hit points:** 37 (5d10+10)
+
+**Fort:** +3
+
+**Ref:** +7
+
+**Will:** +8
 
 **Defensive abilities:** clever defense
 
 **Dr:** 5/chaotic
 
-**Fort:** +3
-
-**Hit points:** 37 (5d10+10)
-
 **Immune:** poison
-
-**Mod:** +4 deflection, +3 Dex, +2 natural
-
-**Ref:** +7
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 15
 
 **Vulner:** fire
-
-**Will:** +8
 
 **Offense**
 

@@ -48,25 +48,29 @@ poking out the seams._
 
 **Experience points:** 1,600
 
-**Armor class:** 16/9/16
+**Armor class:** 16
 
-**Dr:** 5/slashing
+**Touch:** 9
 
-**Fort:** +1
+**Flat-footed:** 16
+
+**AC modifiers:** +7 natural, -1 size
 
 **Hit points:** 52 (4d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +7 natural, -1 size
+**Fort:** +1
 
 **Ref:** +1
+
+**Will:** +1
+
+**Dr:** 5/slashing
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** cold 10, electricity 10
 
 **Vulner:** fire
-
-**Will:** +1
 
 **Offense**
 

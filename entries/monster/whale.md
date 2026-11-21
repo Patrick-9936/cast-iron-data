@@ -50,13 +50,17 @@ immense size._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/4/22
+**Armor class:** 22
 
-**Fort:** +17
+**Touch:** 4
+
+**Flat-footed:** 22
+
+**AC modifiers:** -2 Dex, +18 natural, -4 size
 
 **Hit points:** 157 (15d8+90)
 
-**Mod:** -2 Dex, +18 natural, -4 size
+**Fort:** +17
 
 **Ref:** +7
 

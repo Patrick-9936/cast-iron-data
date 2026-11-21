@@ -53,13 +53,17 @@ keeps his bow at the ready._
 **Subtype:** Strix\
 **Experience points:** 6,400
 
-**Armor class:** 20/13/17
+**Armor class:** 20
 
-**Fort:** +9
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 armor, +3 Dex
 
 **Hit points:** 85 (10d10+30)
 
-**Mod:** +7 armor, +3 Dex
+**Fort:** +9
 
 **Ref:** +12
 

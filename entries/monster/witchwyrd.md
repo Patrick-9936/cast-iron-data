@@ -51,21 +51,25 @@ three-fingered hand._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/12/17
+**Armor class:** 19
 
-**Defensive abilities:** absorb force
+**Touch:** 12
 
-**Dr:** 5/magic
+**Flat-footed:** 17
 
-**Fort:** +7
+**AC modifiers:** +4 armor, +2 Dex, +3 natural
 
 **Hit points:** 68 (8d10+24)
 
-**Mod:** +4 armor, +2 Dex, +3 natural
+**Fort:** +7
 
 **Ref:** +8
 
 **Will:** +9
+
+**Defensive abilities:** absorb force
+
+**Dr:** 5/magic
 
 **Offense**
 

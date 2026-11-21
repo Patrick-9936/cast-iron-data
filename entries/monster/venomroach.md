@@ -48,21 +48,25 @@ _The brown and black exoskeleton of this roach gleams when exposed to the light.
 
 **Experience points:** 800
 
-**Armor class:** 15/10/14
+**Armor class:** 15
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +5 natural, -1 size
 
 **Hit points:** 31 (3d8+18)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +5 natural, -1 size
+**Fort:** +9
 
 **Ref:** +2
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +2
+
+**Immune:** mind-affecting effects
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

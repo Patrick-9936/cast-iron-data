@@ -54,13 +54,17 @@ stark-white bones commonly worn by his people._
 **Subtype:** Strix\
 **Experience points:** 1,600
 
-**Armor class:** 19/12/17
+**Armor class:** 19
 
-**Fort:** +1
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +5 armor, +2 Dex, +1 natural, +1 shield
 
 **Hit points:** 27 (6d8)
 
-**Mod:** +5 armor, +2 Dex, +1 natural, +1 shield
+**Fort:** +1
 
 **Ref:** +7
 

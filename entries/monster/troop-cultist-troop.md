@@ -50,27 +50,31 @@ _A band of violet-skinned elves raises their hands high as vile magic swirls in 
 
 **Experience points:** 12,800
 
-**Armor class:** 21/16/15
+**Armor class:** 21
+
+**Touch:** 16
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 armor, +5 Dex, +1 dodge
+
+**Hit points:** 144 (17d8+68)
+
+**Fort:** +11
+
+**Ref:** +12
+
+**Will:** +15; +2 vs. enchantments
 
 **Defensive abilities:** swift healing, troop traits
 
 **Fh:** 5
 
-**Fort:** +11
-
-**Hit points:** 144 (17d8+68)
-
 **Immune:** sleep
-
-**Mod:** +5 armor, +5 Dex, +1 dodge
-
-**Ref:** +12
 
 **Sr:** 16
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +15; +2 vs. enchantments
 
 **Offense**
 

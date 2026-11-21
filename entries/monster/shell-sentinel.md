@@ -50,7 +50,21 @@ toxic-looking slime._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
+
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
+
+**Hit points:** 58 (7d10+20)
+
+**Fort:** +2
+
+**Ref:** +8
+
+**Will:** +4
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, sharpened edges
 
@@ -58,21 +72,11 @@ toxic-looking slime._
 
 **Fh:** 5
 
-**Fort:** +2
-
-**Hit points:** 58 (7d10+20)
-
 **Immune:** fire, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +4 Dex, +4 natural
-
-**Ref:** +8
 
 **Resist:** electricity 10
 
 **Weaknesses:** fragile frame
-
-**Will:** +4
 
 **Offense**
 

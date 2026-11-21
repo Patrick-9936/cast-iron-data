@@ -47,19 +47,23 @@ of fissures in its pointed cap._
 
 **Experience points:** 800
 
-**Armor class:** 15/9/15
+**Armor class:** 15
 
-**Fort:** +7
+**Touch:** 9
+
+**Flat-footed:** 15
+
+**AC modifiers:** -1 Dex, +6 natural
 
 **Hit points:** 30 (4d8+12)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** -1 Dex, +6 natural
+**Fort:** +7
 
 **Ref:** +0
 
 **Will:** +1
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

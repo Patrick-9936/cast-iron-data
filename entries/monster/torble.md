@@ -52,23 +52,27 @@ surprisingly swift scuttle._
 
 **Experience points:** 50
 
-**Armor class:** 16/16/14
+**Armor class:** 16
 
-**Dr:** 1/piercing or slashing
+**Touch:** 16
 
-**Fort:** -1
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 size
 
 **Hit points:** 1 (1d8-3)
 
-**Immune:** acid
-
-**Mod:** +2 Dex, +4 size
+**Fort:** -1
 
 **Ref:** +2
 
-**Weaknesses:** ooze-vermin hybrid
-
 **Will:** +2
+
+**Dr:** 1/piercing or slashing
+
+**Immune:** acid
+
+**Weaknesses:** ooze-vermin hybrid
 
 **Offense**
 

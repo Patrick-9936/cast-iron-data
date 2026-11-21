@@ -49,19 +49,23 @@ stone._
 
 **Experience points:** 400
 
-**Armor class:** 12/10/12
+**Armor class:** 12
 
-**Fort:** +4
+**Touch:** 10
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 natural
 
 **Hit points:** 16 (3d8+3)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 natural
+**Fort:** +4
 
 **Ref:** +1
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

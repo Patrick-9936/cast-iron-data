@@ -53,13 +53,17 @@ making a different note in an eerie harmony._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +8 natural, -1 size
 
 **Hit points:** 68 (8d10+24)
 
-**Mod:** +3 Dex, +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +11
 

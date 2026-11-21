@@ -49,21 +49,25 @@ abilities = ["16", "23", "21", "20", "13", "16"]
 
 **Experience points:** 25,600
 
-**Armor class:** 26/15/22
+**Armor class:** 26
 
-**Fort:** +15
+**Touch:** 15
+
+**Flat-footed:** 22
+
+**AC modifiers:** +7 armor, +1 deflection, +3 Dex, +1 dodge, +4 natural
 
 **Hit points:** 160 (5d10+9d8+93\~14)
 
-**Immune:** mind-affecting effects, paralysis, poison
-
-**Mod:** +7 armor, +1 deflection, +3 Dex, +1 dodge, +4 natural
+**Fort:** +15
 
 **Ref:** +14
 
-**Sr:** 24
-
 **Will:** +12
+
+**Immune:** mind-affecting effects, paralysis, poison
+
+**Sr:** 24
 
 **Offense**
 

@@ -51,23 +51,27 @@ by an eerie red glow._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/15/26
+**Armor class:** 33
+
+**Touch:** 15
+
+**Flat-footed:** 26
+
+**AC modifiers:** +7 Dex, +18 natural, -2 size
+
+**Hit points:** 300 (24d8+192)
+
+**Fort:** +16
+
+**Ref:** +17
+
+**Will:** +20
 
 **Chan Res:** +4
 
 **Dr:** 15/bludgeoning
 
-**Fort:** +16
-
-**Hit points:** 300 (24d8+192)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +7 Dex, +18 natural, -2 size
-
-**Ref:** +17
-
-**Will:** +20
 
 **Offense**
 

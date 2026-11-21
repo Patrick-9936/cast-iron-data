@@ -55,25 +55,29 @@ luminescent green eyes._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/26/26
+**Armor class:** 34
+
+**Touch:** 26
+
+**Flat-footed:** 26
+
+**AC modifiers:** +8 deflection, +7 Dex, +1 dodge, +8 natural
+
+**Hit points:** 325 (26d6+234)
+
+**Fort:** +19
+
+**Ref:** +22
+
+**Will:** +23
 
 **Defensive abilities:** instinctive cooperation, wild grace
 
 **Dr:** 15/cold iron
 
-**Fort:** +19
-
-**Hit points:** 325 (26d6+234)
-
 **Immune:** cold
 
-**Mod:** +8 deflection, +7 Dex, +1 dodge, +8 natural
-
-**Ref:** +22
-
 **Resist:** electricity 10, fire 10
-
-**Will:** +23
 
 **Offense**
 

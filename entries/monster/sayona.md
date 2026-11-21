@@ -51,23 +51,27 @@ fresh blood._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/16/20
+**Armor class:** 26
 
-**Fh:** 5 (see living form)
+**Touch:** 16
 
-**Fort:** +10
+**Flat-footed:** 20
+
+**AC modifiers:** +5 Dex, +1 dodge, +10 natural
 
 **Hit points:** 161 (17d8+85)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 Dex, +1 dodge, +10 natural
+**Fort:** +10
 
 **Ref:** +12
 
-**Resist:** cold 30
-
 **Will:** +13
+
+**Fh:** 5 (see living form)
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Resist:** cold 30
 
 **Offense**
 

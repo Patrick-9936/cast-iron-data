@@ -56,13 +56,17 @@ tail and crests on its head and back._
 
 **Experience points:** 800
 
-**Armor class:** 19/9/19
+**Armor class:** 19
 
-**Fort:** +7
+**Touch:** 9
+
+**Flat-footed:** 19
+
+**AC modifiers:** +4 armor, -1 Dex, +6 natural
 
 **Hit points:** 30 (5d8+8)
 
-**Mod:** +4 armor, -1 Dex, +6 natural
+**Fort:** +7
 
 **Ref:** +0
 

@@ -48,19 +48,23 @@ abilities = ["26", "13", "18", "7", "10", "9"]
 
 **Experience points:** 12,800
 
-**Armor class:** 25/11/23
+**Armor class:** 25
 
-**Defensive abilities:** natural cunning, troop traits
+**Touch:** 11
 
-**Fort:** +11
+**Flat-footed:** 23
+
+**AC modifiers:** +6 armor, +1 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 152 (16d10+64)
 
-**Mod:** +6 armor, +1 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +11
 
 **Ref:** +11
 
 **Will:** +12
+
+**Defensive abilities:** natural cunning, troop traits
 
 **Offense**
 

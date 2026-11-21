@@ -53,13 +53,17 @@ brutal farther out._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/15
+**Armor class:** 19
 
-**Fort:** +12
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +6 natural, -1 size
 
 **Hit points:** 68 (8d8+32)
 
-**Mod:** +4 Dex, +6 natural, -1 size
+**Fort:** +12
 
 **Ref:** +12
 

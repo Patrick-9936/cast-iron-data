@@ -53,23 +53,27 @@ _Blustering winds and snow swirl around this white, almost transparent fey-like 
 
 **Experience points:** 6,400
 
-**Armor class:** 23/17/16
+**Armor class:** 23
 
-**Dr:** 10/magic
+**Touch:** 17
 
-**Fort:** +12
+**Flat-footed:** 16
+
+**AC modifiers:** +7 Dex, +6 natural
 
 **Hit points:** 104 (11d10+44)
 
-**Immune:** cold, elemental traits
-
-**Mod:** +7 Dex, +6 natural
+**Fort:** +12
 
 **Ref:** +12
 
-**Vulner:** fire
-
 **Will:** +9
+
+**Dr:** 10/magic
+
+**Immune:** cold, elemental traits
+
+**Vulner:** fire
 
 **Offense**
 

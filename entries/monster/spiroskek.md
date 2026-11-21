@@ -50,21 +50,25 @@ propels itself forward with balance and grace._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/15/14
+**Armor class:** 19
 
-**Defensive abilities:** wheel barbs
+**Touch:** 15
 
-**Fort:** +9
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +1 dodge, +4 natural
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** disease, poison
-
-**Mod:** +4 Dex, +1 dodge, +4 natural
+**Fort:** +9
 
 **Ref:** +10
 
 **Will:** +5
+
+**Defensive abilities:** wheel barbs
+
+**Immune:** disease, poison
 
 **Offense**
 

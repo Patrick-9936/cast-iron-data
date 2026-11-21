@@ -50,25 +50,29 @@ gleaming metal._
 
 **Experience points:** 409,600
 
-**Armor class:** 37/5/34
+**Armor class:** 37
 
-**Dr:** 15/evil
+**Touch:** 5
 
-**Fort:** +21
+**Flat-footed:** 34
+
+**AC modifiers:** +9 armor, +3 Dex, +23 natural, -8 size
 
 **Hit points:** 409 (21d10+294)
 
-**Immune:** aging, death effects, disease
-
-**Mod:** +9 armor, +3 Dex, +23 natural, -8 size
+**Fort:** +21
 
 **Ref:** +15
+
+**Will:** +21; +8 resistance vs. mind-affecting
+
+**Dr:** 15/evil
+
+**Immune:** aging, death effects, disease
 
 **Regen:** 15 (evil)
 
 **Sr:** 32
-
-**Will:** +21; +8 resistance vs. mind-affecting
 
 **Offense**
 

@@ -51,23 +51,27 @@ _This smooth-featured, humanoid creature appears to have skin made entirely of m
 
 **Experience points:** 600
 
-**Armor class:** 15/14/11
+**Armor class:** 15
 
-**Fh:** 1
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 dodge, +1 natural
 
 **Hit points:** 19 (3d10+3)
 
-**Mod:** +3 Dex, +1 dodge, +1 natural
+**Fort:** +4
 
 **Ref:** +6
+
+**Will:** +2
+
+**Fh:** 1
 
 **Resist:** acid 5, fire 5
 
 **Vulner:** sonic
-
-**Will:** +2
 
 **Offense**
 

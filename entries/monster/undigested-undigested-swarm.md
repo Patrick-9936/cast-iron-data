@@ -51,25 +51,29 @@ disgusting communal mass._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/16/13
+**Armor class:** 17
+
+**Touch:** 16
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +1 natural, +2 size
+
+**Hit points:** 54 (12d8)
+
+**Fort:** +4
+
+**Ref:** +9
+
+**Will:** +9
 
 **Amorph:** present
 
 **Defensive abilities:** swarm traits
 
-**Fort:** +4
-
-**Hit points:** 54 (12d8)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +3 Dex, +1 dodge, +1 natural, +2 size
-
-**Ref:** +9
-
 **Resist:** acid 10
-
-**Will:** +9
 
 **Offense**
 

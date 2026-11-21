@@ -52,25 +52,29 @@ her._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/16/16
+**Armor class:** 22
 
-**Dr:** 10/good
+**Touch:** 16
 
-**Fort:** +10
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +6 natural
 
 **Hit points:** 115 (11d10+55)
 
-**Immune:** death effects, disease, fear effects, poison
-
-**Mod:** +6 Dex, +6 natural
+**Fort:** +10
 
 **Ref:** +13
+
+**Will:** +10
+
+**Dr:** 10/good
+
+**Immune:** death effects, disease, fear effects, poison
 
 **Resist:** cold 10, electricity 10, sonic 10
 
 **Sr:** 20
-
-**Will:** +10
 
 **Offense**
 

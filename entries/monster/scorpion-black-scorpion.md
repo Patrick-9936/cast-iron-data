@@ -50,19 +50,23 @@ body._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/2/30
+**Armor class:** 30
 
-**Fort:** +19
+**Touch:** 2
+
+**Flat-footed:** 30
+
+**AC modifiers:** +28 natural, -8 size
 
 **Hit points:** 228 (24d8+120)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +28 natural, -8 size
+**Fort:** +19
 
 **Ref:** +8
 
 **Will:** +8
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

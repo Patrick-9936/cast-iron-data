@@ -56,25 +56,29 @@ writhing mass of tentacles._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/9/35
+**Armor class:** 36
 
-**Defensive abilities:** immortality, overwhelming mind
+**Touch:** 9
 
-**Fort:** +18
+**Flat-footed:** 35
+
+**AC modifiers:** +1 Dex, +27 natural, -2 size
 
 **Hit points:** 362 (25d8+250)
 
-**Immune:** cold, disease, poison
-
-**Mod:** +1 Dex, +27 natural, -2 size
+**Fort:** +18
 
 **Ref:** +9
+
+**Will:** +25; +8 vs. divination and mind-affecting
+
+**Defensive abilities:** immortality, overwhelming mind
+
+**Immune:** cold, disease, poison
 
 **Regen:** 15 (fire)
 
 **Sr:** 31
-
-**Will:** +25; +8 vs. divination and mind-affecting
 
 **Offense**
 

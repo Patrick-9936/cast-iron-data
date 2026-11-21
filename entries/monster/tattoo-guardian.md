@@ -47,21 +47,25 @@ _This beautiful, impossibly intricate tattoo appears to swirl and move along its
 
 **Experience points:** 800
 
-**Armor class:** 15/13/12
+**Armor class:** 15
 
-**Defensive abilities:** worn form, fluid form, hypervigilant
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 natural
 
 **Hit points:** 42 (4d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +2 natural
+**Fort:** +1
 
 **Ref:** +6
 
 **Will:** +2
+
+**Defensive abilities:** worn form, fluid form, hypervigilant
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

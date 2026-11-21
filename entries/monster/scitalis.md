@@ -48,19 +48,23 @@ glass by the creature's inner glow._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/17/23
+**Armor class:** 27
 
-**Fort:** +15
+**Touch:** 17
+
+**Flat-footed:** 23
+
+**AC modifiers:** +4 Dex, +10 natural, -1 size
 
 **Hit points:** 175 (14d12+84)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +4 Dex, +10 natural, -1 size
+**Fort:** +15
 
 **Ref:** +13
 
 **Will:** +11
+
+**Immune:** paralysis, sleep
 
 **Offense**
 

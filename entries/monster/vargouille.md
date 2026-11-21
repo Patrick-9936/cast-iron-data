@@ -51,13 +51,17 @@ its fanged mouth hangs agape._
 
 **Experience points:** 600
 
-**Armor class:** 15/12/14
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +3 natural, +1 size
 
 **Hit points:** 19 (3d10+3)
 
-**Mod:** +1 Dex, +3 natural, +1 size
+**Fort:** +4
 
 **Ref:** +4
 

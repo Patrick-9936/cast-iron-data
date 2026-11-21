@@ -52,19 +52,25 @@ covered with scintillating red scales._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/9/31
+**Armor class:** 32
 
-**Dr:** 15/cold iron and slashing
+**Touch:** 9
 
-**Fort:** +21
+**Flat-footed:** 31
+
+**AC modifiers:** +1 Dex, +23 natural, -2 size
 
 **Hit points:** 279 (18d10+180)
 
-**Immune:** fire, sonic
-
-**Mod:** +1 Dex, +23 natural, -2 size
+**Fort:** +21
 
 **Ref:** +14
+
+**Will:** +15
+
+**Dr:** 15/cold iron and slashing
+
+**Immune:** fire, sonic
 
 **Regen:** 15 (acid or cold)
 
@@ -73,8 +79,6 @@ covered with scintillating red scales._
 **Sr:** 28
 
 **Vulner:** cold
-
-**Will:** +15
 
 **Offense**
 

@@ -53,13 +53,17 @@ the beard of an eccentric hermit._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/15/14
+**Armor class:** 19
 
-**Fort:** +5
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +1 dodge, +4 natural
 
 **Hit points:** 51 (6d10+18)
 
-**Mod:** +4 Dex, +1 dodge, +4 natural
+**Fort:** +5
 
 **Ref:** +9
 

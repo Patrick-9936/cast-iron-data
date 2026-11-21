@@ -50,23 +50,27 @@ _This lithe, androgynous humanoid has unusually colored skin and an otherworldly
 
 **Experience points:** 3,200
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Dr:** 10/magic
+**Touch:** 13
 
-**Fort:** +10
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 85 (9d10+36)
 
-**Immune:** electricity
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +10
 
 **Ref:** +9
 
-**Sr:** 18
-
 **Will:** +6
+
+**Dr:** 10/magic
+
+**Immune:** electricity
+
+**Sr:** 18
 
 **Offense**
 

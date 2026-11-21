@@ -51,19 +51,23 @@ eyeless face, pig-like snout, and toothy maw make for a disturbing visage._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +1 dodge, +6 natural
 
 **Hit points:** 76 (8d8+40)
 
-**Immune:** disease, gaze attacks, paralysis, sight-based effects, visual effects and illusions
-
-**Mod:** +2 Dex, +1 dodge, +6 natural
+**Fort:** +9
 
 **Ref:** +4
 
 **Will:** +6; +4 vs. attacks from undead
+
+**Immune:** disease, gaze attacks, paralysis, sight-based effects, visual effects and illusions
 
 **Offense**
 

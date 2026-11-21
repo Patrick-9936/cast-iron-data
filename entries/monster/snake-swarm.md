@@ -52,19 +52,23 @@ _Hissing menacingly, this mass of snakes resembles a pile of slithering tentacle
 
 **Experience points:** 600
 
-**Armor class:** 15/14/13
+**Armor class:** 15
 
-**Defensive abilities:** swarm traits
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 natural, +2 size
 
 **Hit points:** 16 (3d8+3)
 
-**Mod:** +2 Dex, +1 natural, +2 size
+**Fort:** +4
 
 **Ref:** +7
 
 **Will:** +2
+
+**Defensive abilities:** swarm traits
 
 **Offense**
 

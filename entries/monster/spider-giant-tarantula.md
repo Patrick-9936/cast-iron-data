@@ -49,21 +49,25 @@ scanning for prey._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/7/20
+**Armor class:** 21
 
-**Defensive abilities:** barbed hairs
+**Touch:** 7
 
-**Fort:** +14
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +14 natural, -4 size
 
 **Hit points:** 115 (10d8+70)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +14 natural, -4 size
+**Fort:** +14
 
 **Ref:** +4
 
 **Will:** +3
+
+**Defensive abilities:** barbed hairs
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

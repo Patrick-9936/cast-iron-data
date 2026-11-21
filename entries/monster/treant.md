@@ -49,23 +49,27 @@ roots for legs._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/7/21
+**Armor class:** 21
 
-**Dr:** 10/slashing
+**Touch:** 7
 
-**Fort:** +13
+**Flat-footed:** 21
+
+**AC modifiers:** -1 Dex, +14 natural, -2 size
 
 **Hit points:** 114 (12d8+60)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** -1 Dex, +14 natural, -2 size
+**Fort:** +13
 
 **Ref:** +3
 
-**Vulner:** fire
-
 **Will:** +9
+
+**Dr:** 10/slashing
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Vulner:** fire
 
 **Offense**
 

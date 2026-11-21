@@ -49,23 +49,27 @@ another reality._
 
 **Experience points:** 600
 
-**Armor class:** 7/7/7
+**Armor class:** 7
+
+**Touch:** 7
+
+**Flat-footed:** 7
+
+**AC modifiers:** -3 Dex
+
+**Hit points:** 25 (3d8+12)
+
+**Fort:** +5
+
+**Ref:** -2
+
+**Will:** +2
 
 **Defensive abilities:** acidic
 
 **Dr:** 5/bludgeoning or slashing
 
-**Fort:** +5
-
-**Hit points:** 25 (3d8+12)
-
 **Immune:** acid, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -3 Dex
-
-**Ref:** -2
-
-**Will:** +2
 
 **Offense**
 
