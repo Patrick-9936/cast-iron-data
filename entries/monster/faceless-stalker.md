@@ -53,19 +53,23 @@ instead of actual features._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Dr:** 5/piercing or slashing
+**Touch:** 13
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
 
 **Hit points:** 42 (5d8+20)
 
-**Mod:** +3 Dex, +4 natural
+**Fort:** +5
 
 **Ref:** +4
 
 **Will:** +6
+
+**Dr:** 5/piercing or slashing
 
 **Offense**
 

@@ -54,25 +54,29 @@ back._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/6/30
+**Armor class:** 30
 
-**Dr:** 10/cold iron and good
+**Touch:** 6
 
-**Fort:** +18
+**Flat-footed:** 30
+
+**AC modifiers:** +24 natural, -4 size
 
 **Hit points:** 229 (17d10+136)
 
-**Immune:** electricity, poison
-
-**Mod:** +24 natural, -4 size
+**Fort:** +18
 
 **Ref:** +5
+
+**Will:** +12
+
+**Dr:** 10/cold iron and good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Rock Ct:** present
-
-**Will:** +12
 
 **Offense**
 

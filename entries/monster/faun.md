@@ -49,19 +49,23 @@ and curling horns on his head._
 
 **Experience points:** 400
 
-**Armor class:** 16/13/13
+**Armor class:** 16
 
-**Dr:** 2/cold iron
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +3 natural
 
 **Hit points:** 13 (3d6+3)
 
-**Mod:** +3 Dex, +3 natural
+**Fort:** +2
 
 **Ref:** +6
 
 **Will:** +5
+
+**Dr:** 2/cold iron
 
 **Offense**
 

@@ -51,13 +51,17 @@ mane matching its scales._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +8 natural, -1 size
 
 **Hit points:** 76 (9d10+27)
 
-**Mod:** +3 Dex, +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +9
 

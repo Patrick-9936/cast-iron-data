@@ -53,23 +53,27 @@ skin and grotesque, slurping tongues where its face should be._
 
 **Experience points:** 6,400
 
-**Armor class:** 18/9/18
+**Armor class:** 18
 
-**Dr:** 10/piercing or slashing
+**Touch:** 9
 
-**Fort:** +8
+**Flat-footed:** 18
+
+**AC modifiers:** +9 natural, -1 size
 
 **Hit points:** 119 (14d8+56)
 
-**Mod:** +9 natural, -1 size
+**Fort:** +8
 
 **Ref:** +4
+
+**Will:** +11
+
+**Dr:** 10/piercing or slashing
 
 **Resist:** cold 5, fire 5
 
 **Rock Ct:** present
-
-**Will:** +11
 
 **Offense**
 

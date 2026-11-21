@@ -46,13 +46,17 @@ _This feathered bipedal saurian looks somewhat comical - save for its outlandish
 
 **Experience points:** 9,600
 
-**Armor class:** 24/9/21
+**Armor class:** 24
 
-**Fort:** +14
+**Touch:** 9
+
+**Flat-footed:** 21
+
+**AC modifiers:** +3 Dex, +15 natural, -4 size
 
 **Hit points:** 133 (14d8+70)
 
-**Mod:** +3 Dex, +15 natural, -4 size
+**Fort:** +14
 
 **Ref:** +12
 

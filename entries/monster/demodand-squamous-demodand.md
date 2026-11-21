@@ -54,25 +54,29 @@ and a toothy, toad-like head._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/13/29
+**Armor class:** 36
 
-**Dr:** 15/good and magic
+**Touch:** 13
 
-**Fort:** +23
+**Flat-footed:** 29
+
+**AC modifiers:** +7 Dex, +23 natural, -4 size
 
 **Hit points:** 362 (29d10+203)
 
-**Immune:** acid, poison
-
-**Mod:** +7 Dex, +23 natural, -4 size
+**Fort:** +23
 
 **Ref:** +23
+
+**Will:** +16
+
+**Dr:** 15/good and magic
+
+**Immune:** acid, poison
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 31
-
-**Will:** +16
 
 **Offense**
 

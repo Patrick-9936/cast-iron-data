@@ -51,23 +51,27 @@ childlike horror._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/14/14
+**Armor class:** 17
 
-**Dr:** 5/good or silver
+**Touch:** 14
 
-**Fort:** +6
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +3 natural, +1 size
 
 **Hit points:** 39 (6d10+6)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +3 Dex, +3 natural, +1 size
+**Fort:** +6
 
 **Ref:** +5
 
-**Resist:** cold 10, electricity 10, fire 10
-
 **Will:** +6
+
+**Dr:** 5/good or silver
+
+**Immune:** acid, death effects, disease, poison
+
+**Resist:** cold 10, electricity 10, fire 10
 
 **Offense**
 

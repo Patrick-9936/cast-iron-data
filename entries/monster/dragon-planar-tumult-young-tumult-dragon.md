@@ -50,21 +50,25 @@ _This dragon seems to be made of parts from different creatures._
 
 **Experience points:** 19,200
 
-**Armor class:** 24/10/23
+**Armor class:** 24
 
-**Defensive abilities:** adaptive form
+**Touch:** 10
 
-**Fort:** +15
+**Flat-footed:** 23
+
+**AC modifiers:** +1 Dex, +14 natural, -1 size
 
 **Hit points:** 175 (14d12+84)
 
-**Immune:** paralysis, sleep, warpproof
-
-**Mod:** +1 Dex, +14 natural, -1 size
+**Fort:** +15
 
 **Ref:** +10
 
 **Will:** +12
+
+**Defensive abilities:** adaptive form
+
+**Immune:** paralysis, sleep, warpproof
 
 **Offense**
 

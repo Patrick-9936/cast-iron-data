@@ -52,21 +52,25 @@ sea and sky._
 
 **Experience points:** 800
 
-**Armor class:** 16/13/13
+**Armor class:** 16
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +3 natural
 
 **Hit points:** 34 (4d12+8)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +3 Dex, +3 natural
+**Fort:** +6
 
 **Ref:** +7
 
-**Resist:** acid 20
-
 **Will:** +4
+
+**Immune:** paralysis, sleep
+
+**Resist:** acid 20
 
 **Offense**
 

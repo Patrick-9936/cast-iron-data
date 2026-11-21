@@ -50,23 +50,27 @@ abilities = ["30", "11", "19", "19", "16", "17"]
 
 **Experience points:** 12,800
 
-**Armor class:** 27/9/27
+**Armor class:** 27
 
-**Dr:** 5/magic
+**Touch:** 9
 
-**Fort:** +13
+**Flat-footed:** 27
+
+**AC modifiers:** +18 natural, -1 size
 
 **Hit points:** 147 (14d12+56)
 
-**Immune:** acid, paralysis, sleep
-
-**Mod:** +18 natural, -1 size
+**Fort:** +13
 
 **Ref:** +11
 
-**Sr:** 22
-
 **Will:** +12
+
+**Dr:** 5/magic
+
+**Immune:** acid, paralysis, sleep
+
+**Sr:** 22
 
 **Offense**
 

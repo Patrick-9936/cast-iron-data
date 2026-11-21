@@ -51,19 +51,23 @@ hands are visible._
 
 **Experience points:** 800
 
-**Armor class:** 15/15/11
+**Armor class:** 15
 
-**Fort:** +2
+**Touch:** 15
+
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 size
 
 **Hit points:** 22 (4d8+4)
 
-**Mod:** +4 Dex, +1 size
+**Fort:** +2
 
 **Ref:** +8
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +1
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

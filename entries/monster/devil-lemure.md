@@ -49,23 +49,27 @@ dripping tumorous face._
 
 **Experience points:** 400
 
-**Armor class:** 14/10/14
+**Armor class:** 14
 
-**Dr:** 5/good or silver
+**Touch:** 10
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +4 natural
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** fire, mind-affecting effects, poison
-
-**Mod:** +4 natural
+**Fort:** +4
 
 **Ref:** +3
 
-**Resist:** acid 10, cold 10
-
 **Will:** +0
+
+**Dr:** 5/good or silver
+
+**Immune:** fire, mind-affecting effects, poison
+
+**Resist:** acid 10, cold 10
 
 **Offense**
 

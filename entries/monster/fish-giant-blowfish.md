@@ -49,19 +49,23 @@ _A blowfish the size of a horse drifts through the water, its quills the size of
 
 **Experience points:** 1,600
 
-**Armor class:** 18/10/17
+**Armor class:** 18
 
-**Defensive abilities:** quills
+**Touch:** 10
 
-**Fort:** +10
+**Flat-footed:** 17
+
+**AC modifiers:** +8 armor, +1 Dex, -1 size
 
 **Hit points:** 52 (7d8+21)
 
-**Mod:** +8 armor, +1 Dex, -1 size
+**Fort:** +10
 
 **Ref:** +6
 
 **Will:** +4
+
+**Defensive abilities:** quills
 
 **Offense**
 

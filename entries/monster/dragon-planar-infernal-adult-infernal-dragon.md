@@ -53,25 +53,29 @@ _Cruel horns frame this dragon's head. Its body glows faintly with malicious hea
 
 **Experience points:** 76,800
 
-**Armor class:** 31/7/31
+**Armor class:** 31
+
+**Touch:** 7
+
+**Flat-footed:** 31
+
+**AC modifiers:** -1 Dex, +24 natural, -2 size
+
+**Hit points:** 250 (20d12+120)
+
+**Fort:** +18
+
+**Ref:** +11
+
+**Will:** +19; +6 vs. divination
 
 **Defensive abilities:** inscrutable
 
 **Dr:** 5/chaotic
 
-**Fort:** +18
-
-**Hit points:** 250 (20d12+120)
-
 **Immune:** fire, hellfire, mind-affecting effects, paralysis, sleep
 
-**Mod:** -1 Dex, +24 natural, -2 size
-
-**Ref:** +11
-
 **Sr:** 27
-
-**Will:** +19; +6 vs. divination
 
 **Offense**
 

@@ -55,29 +55,33 @@ single winged entity._
 
 **Experience points:** 819,200
 
-**Armor class:** 39/20/32
+**Armor class:** 39
 
-**Dr:** 15/epic
+**Touch:** 20
 
-**Fort:** +26
+**Flat-footed:** 32
 
-**Fortif:** 50
+**AC modifiers:** +6 Dex, +1 dodge, +5 insight, +19 natural, -2 size
 
 **Hit points:** 423 (22d10+302)
 
-**Immune:** electricity
-
-**Mod:** +6 Dex, +1 dodge, +5 insight, +19 natural, -2 size
+**Fort:** +26
 
 **Ref:** +13
+
+**Will:** +24
+
+**Dr:** 15/epic
+
+**Fortif:** 50
+
+**Immune:** electricity
 
 **Regen:** 15 (epic weapons)
 
 **Resist:** acid 30, cold 30, fire 30
 
 **Sr:** 34
-
-**Will:** +24
 
 **Offense**
 

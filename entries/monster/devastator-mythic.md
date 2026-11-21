@@ -57,25 +57,29 @@ _Each of this mechanical horror's four monstrous limbs ends in a terrible weapon
 
 **Experience points:** 614,400
 
-**Armor class:** 44/20/38
+**Armor class:** 44
+
+**Touch:** 20
+
+**Flat-footed:** 38
+
+**AC modifiers:** +4 deflection, +6 Dex, +24 natural, +4 profane, -4 size
+
+**Hit points:** 365 (30d10+200)
+
+**Fort:** +14
+
+**Ref:** +20
+
+**Will:** +18
 
 **Defensive abilities:** absorb good magic, unchanging
 
 **Dr:** 15/adamantine and epic
 
-**Fort:** +14
-
-**Hit points:** 365 (30d10+200)
-
 **Immune:** acid, cold, [construct traits](ref/umr/construct-traits), electricity, fire
 
-**Mod:** +4 deflection, +6 Dex, +24 natural, +4 profane, -4 size
-
-**Ref:** +20
-
 **Sr:** 33
-
-**Will:** +18
 
 **Offense**
 

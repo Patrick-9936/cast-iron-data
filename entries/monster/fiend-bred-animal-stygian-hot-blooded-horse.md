@@ -46,19 +46,23 @@ _This dark horse has striking coloring and a ferocious look in its bloodshot eye
 
 **Experience points:** 600
 
-**Armor class:** 14/11/12
+**Armor class:** 14
 
-**Defensive abilities:** shifting trot
+**Touch:** 11
 
-**Fort:** +6
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +3 natural, -1 size
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +2 Dex, +3 natural, -1 size
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +2
+
+**Defensive abilities:** shifting trot
 
 **Offense**
 

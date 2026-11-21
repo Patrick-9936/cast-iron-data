@@ -50,25 +50,29 @@ of menace._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/11/20
+**Armor class:** 21
+
+**Touch:** 11
+
+**Flat-footed:** 20
+
+**AC modifiers:** +10 armor, +1 Dex
+
+**Hit points:** 85 (10d8+40)
+
+**Fort:** +7
+
+**Ref:** +5
+
+**Will:** +12
 
 **Chan Res:** +4
 
 **Fh:** 5
 
-**Fort:** +7
-
-**Hit points:** 85 (10d8+40)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +10 armor, +1 Dex
-
-**Ref:** +5
-
 **Sr:** 18
-
-**Will:** +12
 
 **Offense**
 

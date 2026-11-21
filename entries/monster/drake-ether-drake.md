@@ -54,21 +54,25 @@ protrude from its back._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/11/21
+**Armor class:** 23
 
-**Fort:** +13
+**Touch:** 11
+
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +12 natural, -1 size
 
 **Hit points:** 138 (12d12+60)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +2 Dex, +12 natural, -1 size
+**Fort:** +13
 
 **Ref:** +10
 
-**Sr:** 21
-
 **Will:** +12
+
+**Immune:** paralysis, sleep
+
+**Sr:** 21
 
 **Offense**
 

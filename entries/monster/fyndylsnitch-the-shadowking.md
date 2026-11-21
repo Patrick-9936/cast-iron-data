@@ -51,21 +51,25 @@ delight._
 
 **Experience points:** 3,200
 
-**Armor class:** 16/15/12
+**Armor class:** 16
 
-**Dr:** 5/cold iron
+**Touch:** 15
 
-**Fort:** +5
+**Flat-footed:** 12
+
+**AC modifiers:** +4 Dex, +1 natural, +1 size
 
 **Hit points:** 54 (9d6+23)
 
-**Mod:** +4 Dex, +1 natural, +1 size
+**Fort:** +5
 
 **Ref:** +9
 
-**Sr:** 13
-
 **Will:** +11
+
+**Dr:** 5/cold iron
+
+**Sr:** 13
 
 **Offense**
 

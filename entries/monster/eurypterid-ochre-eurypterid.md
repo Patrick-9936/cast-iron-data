@@ -53,19 +53,23 @@ long, thin stinger rises from behind._
 
 **Experience points:** 135
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Fort:** +2
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +2 natural, +1 size
 
 **Hit points:** 4 (1d8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +2 natural, +1 size
+**Fort:** +2
 
 **Ref:** +1
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

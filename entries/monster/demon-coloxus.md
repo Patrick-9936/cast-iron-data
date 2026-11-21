@@ -50,25 +50,29 @@ and shivering insectile wings._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/19/17
+**Armor class:** 26
 
-**Dr:** 10/good
+**Touch:** 19
 
-**Fort:** +15
+**Flat-footed:** 17
+
+**AC modifiers:** +9 Dex, +7 natural
 
 **Hit points:** 168 (16d10+80)
 
-**Immune:** electricity, disease, poison
-
-**Mod:** +9 Dex, +7 natural
+**Fort:** +15
 
 **Ref:** +19
+
+**Will:** +9
+
+**Dr:** 10/good
+
+**Immune:** electricity, disease, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 23
-
-**Will:** +9
 
 **Offense**
 

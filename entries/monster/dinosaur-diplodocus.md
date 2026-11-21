@@ -46,13 +46,17 @@ tail out level behind it._
 
 **Experience points:** 19,200
 
-**Armor class:** 25/4/23
+**Armor class:** 25
 
-**Fort:** +17
+**Touch:** 4
+
+**Flat-footed:** 23
+
+**AC modifiers:** +2 Dex, +21 natural, -8 size
 
 **Hit points:** 190 (20d8+100)
 
-**Mod:** +2 Dex, +21 natural, -8 size
+**Fort:** +17
 
 **Ref:** +14
 

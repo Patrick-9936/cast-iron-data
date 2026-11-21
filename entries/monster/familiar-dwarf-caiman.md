@@ -48,13 +48,17 @@ _This lithe, green-scaled reptile looks like a miniature crocodile with a stunte
 
 **Experience points:** 135
 
-**Armor class:** 14/11/14
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 natural, +1 size
 
 **Hit points:** 6 (1d8+2)
 
-**Mod:** +3 natural, +1 size
+**Fort:** +4
 
 **Ref:** +2
 

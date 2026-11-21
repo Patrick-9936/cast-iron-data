@@ -51,19 +51,23 @@ pale white nose visible._
 
 **Experience points:** 600
 
-**Armor class:** 16/14/13
+**Armor class:** 16
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +3 Dex, +1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +2 armor, +3 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +6
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +1
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

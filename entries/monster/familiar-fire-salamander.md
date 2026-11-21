@@ -45,19 +45,23 @@ _Yellow spots and stripes run from this amphibian's wide snout to the tip of its
 
 **Experience points:** 135
 
-**Armor class:** 16/16/14
+**Armor class:** 16
 
-**Defensive abilities:** skin secretions
+**Touch:** 16
 
-**Fort:** +1
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 size
 
 **Hit points:** 3 (1d8-1)
 
-**Mod:** +2 Dex, +4 size
+**Fort:** +1
 
 **Ref:** +4
 
 **Will:** -1
+
+**Defensive abilities:** skin secretions
 
 **Offense**
 

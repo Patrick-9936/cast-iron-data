@@ -56,31 +56,35 @@ seeing
 
 **Experience points:** 4,915,200
 
-**Armor class:** 49/41/33
+**Armor class:** 49
+
+**Touch:** 41
+
+**Flat-footed:** 33
+
+**AC modifiers:** +15 Dex, +1 dodge, +8 natural, +15 sacred
+
+**Hit points:** 676 (33d10+495)
+
+**Fort:** +26
+
+**Ref:** +33
+
+**Will:** +30
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_,
 _[mind blank](ref/spell/mind-blank)_, never surprised
 
 **Dr:** 20/epic and evil
 
-**Fort:** +26
-
-**Hit points:** 676 (33d10+495)
-
 **Immune:** ability damage, ability drain, acid, charm effects, compulsion effects, death effects,
 electricity, energy drain, petrification
-
-**Mod:** +15 Dex, +1 dodge, +8 natural, +15 sacred
-
-**Ref:** +33
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** cold 30, fire 30
 
 **Sr:** 39
-
-**Will:** +30
 
 **Offense**
 

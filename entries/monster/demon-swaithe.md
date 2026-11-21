@@ -52,25 +52,29 @@ _This creepy ash-gray goblin-like creature has empty eye sockets and scraggly, s
 
 **Experience points:** 1,200
 
-**Armor class:** 18/14/15
+**Armor class:** 18
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +3
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +4 natural, +1 size
 
 **Hit points:** 37 (5d10+10)
 
-**Immune:** electricity, gaze attacks, poison, visual effects and attacks relying on sight
-
-**Mod:** +3 Dex, +4 natural, +1 size
+**Fort:** +3
 
 **Ref:** +9
+
+**Will:** +4
+
+**Dr:** 5/cold iron
+
+**Immune:** electricity, gaze attacks, poison, visual effects and attacks relying on sight
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 15
-
-**Will:** +4
 
 **Offense**
 

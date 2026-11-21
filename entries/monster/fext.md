@@ -51,25 +51,29 @@ in fearsome armor._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/12/23
+**Armor class:** 25
 
-**Dr:** 10/glass or obsidian
+**Touch:** 12
 
-**Fort:** +9
+**Flat-footed:** 23
+
+**AC modifiers:** +9 armor, +1 Dex, +1 dodge, +2 natural, +2 shield
 
 **Hit points:** 127 (15d8+60)
 
-**Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +9 armor, +1 Dex, +1 dodge, +2 natural, +2 shield
+**Fort:** +9
 
 **Ref:** +9
+
+**Will:** +11
+
+**Dr:** 10/glass or obsidian
+
+**Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 21
-
-**Will:** +11
 
 **Offense**
 

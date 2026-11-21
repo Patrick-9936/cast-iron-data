@@ -46,19 +46,23 @@ _This scuttling patchwork plant features flowers of many different shapes and co
 
 **Experience points:** 65
 
-**Armor class:** 15/15/14
+**Armor class:** 15
 
-**Fort:** +1
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 size
 
 **Hit points:** 3 (1d8-1)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +4 size
+**Fort:** +1
 
 **Ref:** +1
 
 **Will:** +1
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

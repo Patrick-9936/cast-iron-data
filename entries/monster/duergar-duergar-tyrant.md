@@ -53,27 +53,31 @@ _The dull gray skin of this dwarf ripples with kinetic power._
 
 **Experience points:** 800
 
-**Armor class:** 16/11/15
+**Armor class:** 16
+
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +5 armor
+
+**Hit points:** 37 (3d8+12)
+
+**Fort:** +7
+
+**Ref:** +4
+
+**Will:** +3; +2 vs. spells or +4 vs. psychic spells
 
 **Defensive abilities:** psychic resilience
 
 **Dr:** 1/adamantine
 
-**Fort:** +7
-
-**Hit points:** 37 (3d8+12)
-
 **Immune:** paralysis, phantasms, poison
-
-**Mod:** +1 Dex, +5 armor
-
-**Ref:** +4
 
 **Sr:** 14
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +3; +2 vs. spells or +4 vs. psychic spells
 
 **Offense**
 

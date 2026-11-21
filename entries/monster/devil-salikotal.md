@@ -53,25 +53,29 @@ while in one hand it clutches the twisted, dagger-like horn of some infernal ter
 
 **Experience points:** 3,200
 
-**Armor class:** 23/17/16
+**Armor class:** 23
 
-**Dr:** 5/good
+**Touch:** 17
 
-**Fort:** +9
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +1 dodge, +6 natural
 
 **Hit points:** 76 (9d10+27)
 
-**Immune:** fire, poison
-
-**Mod:** +6 Dex, +1 dodge, +6 natural
+**Fort:** +9
 
 **Ref:** +12
+
+**Will:** +7
+
+**Dr:** 5/good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 18
-
-**Will:** +7
 
 **Offense**
 

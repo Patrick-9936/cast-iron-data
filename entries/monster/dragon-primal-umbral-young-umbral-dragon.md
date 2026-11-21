@@ -51,19 +51,23 @@ within by crimson embers._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/10/21
+**Armor class:** 22
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 21
+
+**AC modifiers:** +1 Dex, +12 natural, -1 size
 
 **Hit points:** 104 (11d12+33)
 
-**Immune:** cold, death effects, energy drain, paralysis, sleep
-
-**Mod:** +1 Dex, +12 natural, -1 size
+**Fort:** +10
 
 **Ref:** +8
 
 **Will:** +10
+
+**Immune:** cold, death effects, energy drain, paralysis, sleep
 
 **Offense**
 

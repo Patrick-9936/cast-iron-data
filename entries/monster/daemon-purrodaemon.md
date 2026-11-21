@@ -52,25 +52,29 @@ vulture-like head._
 
 **Experience points:** 153,600
 
-**Armor class:** 35/19/29
+**Armor class:** 35
 
-**Dr:** 10/good and silver
+**Touch:** 19
 
-**Fort:** +25
+**Flat-footed:** 29
+
+**AC modifiers:** +4 deflection, +6 Dex, +16 natural, -1 size
 
 **Hit points:** 294 (19d10+190)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +4 deflection, +6 Dex, +16 natural, -1 size
+**Fort:** +25
 
 **Ref:** +21
+
+**Will:** +14
+
+**Dr:** 10/good and silver
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 29
-
-**Will:** +14
 
 **Offense**
 

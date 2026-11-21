@@ -45,19 +45,23 @@ _Blade-like horns jut from the snout and eye ridges of this toothy, bipedal dino
 
 **Experience points:** 1,600
 
-**Armor class:** 18/11/16
+**Armor class:** 18
 
-**Ferocity:** present
+**Touch:** 11
 
-**Fort:** +8
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +7 natural, -1 size
 
 **Hit points:** 52 (8d8+16)
 
-**Mod:** +2 Dex, +7 natural, -1 size
+**Fort:** +8
 
 **Ref:** +8
 
 **Will:** +4
+
+**Ferocity:** present
 
 **Offense**
 

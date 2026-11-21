@@ -52,25 +52,29 @@ eyes._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/17/28
+**Armor class:** 32
 
-**Dr:** 10/cold iron and good
+**Touch:** 17
 
-**Fort:** +25
+**Flat-footed:** 28
+
+**AC modifiers:** +4 deflection, +4 Dex, +15 natural, -1 size
 
 **Hit points:** 264 (16d10+176)
 
-**Immune:** electricity and poison
-
-**Mod:** +4 deflection, +4 Dex, +15 natural, -1 size
+**Fort:** +25
 
 **Ref:** +18
+
+**Will:** +13
+
+**Dr:** 10/cold iron and good
+
+**Immune:** electricity and poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 28
-
-**Will:** +13
 
 **Offense**
 

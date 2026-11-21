@@ -50,13 +50,17 @@ _A mouth like a lamprey's gnashes curved teeth at one end of this slimy, eel-lik
 
 **Experience points:** 400
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +7
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 17 (2d8+8)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +7
 
 **Ref:** +7
 

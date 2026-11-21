@@ -51,19 +51,23 @@ dark cloth._
 
 **Experience points:** 400
 
-**Armor class:** 15/15/11
+**Armor class:** 15
 
-**Fort:** +2
+**Touch:** 15
+
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +4 Dex, +1 size
+**Fort:** +2
 
 **Ref:** +7
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +0
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

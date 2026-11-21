@@ -55,23 +55,27 @@ mace-like club._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/8/18
+**Armor class:** 18
 
-**Defensive abilities:** retraction, warp magic
+**Touch:** 8
 
-**Fort:** +6
+**Flat-footed:** 18
+
+**AC modifiers:** -1 Dex, +10 natural, -1 size
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** poison
-
-**Mod:** -1 Dex, +10 natural, -1 size
+**Fort:** +6
 
 **Ref:** +3
 
-**Resist:** fire 10
-
 **Will:** +2
+
+**Defensive abilities:** retraction, warp magic
+
+**Immune:** poison
+
+**Resist:** fire 10
 
 **Offense**
 

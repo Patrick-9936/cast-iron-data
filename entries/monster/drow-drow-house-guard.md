@@ -53,25 +53,29 @@ _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes w
 
 **Experience points:** 600
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Defensive abilities:** bravery +1
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +4 armor, +3 Dex
 
 **Hit points:** 24 (3d10+3)
 
-**Immune:** sleep
-
-**Mod:** +4 armor, +3 Dex
+**Fort:** +3
 
 **Ref:** +4
+
+**Will:** +2 (+1 vs. fear); +2 vs. enchantment
+
+**Defensive abilities:** bravery +1
+
+**Immune:** sleep
 
 **Sr:** 9
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +2 (+1 vs. fear); +2 vs. enchantment
 
 **Offense**
 

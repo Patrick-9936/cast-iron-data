@@ -56,27 +56,31 @@ off the ground._
 
 **Experience points:** 19,200
 
-**Armor class:** 29/7/29
+**Armor class:** 29
+
+**Touch:** 7
+
+**Flat-footed:** 29
+
+**AC modifiers:** +4 armor, -1 Dex, +18 natural, -2 size
+
+**Hit points:** 175 (13d10+104)
+
+**Fort:** +17
+
+**Ref:** +3
+
+**Will:** +13
 
 **Dr:** 5/good
 
 **Fh:** 5
 
-**Fort:** +17
-
-**Hit points:** 175 (13d10+104)
-
 **Immune:** fire, poison
-
-**Mod:** +4 armor, -1 Dex, +18 natural, -2 size
-
-**Ref:** +3
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 22
-
-**Will:** +13
 
 **Offense**
 

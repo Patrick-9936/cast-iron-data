@@ -50,13 +50,17 @@ teeth._
 
 **Experience points:** 200
 
-**Armor class:** 13/12/11
+**Armor class:** 13
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 natural
 
 **Hit points:** 11 (2d8+2)
 
-**Mod:** +2 Dex, +1 natural
+**Fort:** +4
 
 **Ref:** +5
 

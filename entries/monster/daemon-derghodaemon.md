@@ -52,25 +52,29 @@ beast._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/14/22
+**Armor class:** 27
 
-**Dr:** 10/good
+**Touch:** 14
 
-**Fort:** +15
+**Flat-footed:** 22
+
+**AC modifiers:** +5 Dex, +13 natural, -1 size
 
 **Hit points:** 161 (14d10+84)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +5 Dex, +13 natural, -1 size
+**Fort:** +15
 
 **Ref:** +14
+
+**Will:** +7
+
+**Dr:** 10/good
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 23
-
-**Will:** +7
 
 **Offense**
 

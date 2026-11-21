@@ -51,19 +51,23 @@ hues of the heavens._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/10/21
+**Armor class:** 22
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 21
+
+**AC modifiers:** +1 Dex, +12 natural, -1 size
 
 **Hit points:** 95 (10d12+30)
 
-**Immune:** electricity, paralysis, sleep
-
-**Mod:** +1 Dex, +12 natural, -1 size
+**Fort:** +10
 
 **Ref:** +10
 
 **Will:** +10
+
+**Immune:** electricity, paralysis, sleep
 
 **Offense**
 

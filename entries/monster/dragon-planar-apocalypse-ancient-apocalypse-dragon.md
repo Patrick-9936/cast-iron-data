@@ -53,23 +53,27 @@ _Gangrenous wounds mar this dragon's twisted body._
 
 **Experience points:** 409,600
 
-**Armor class:** 40/5/40
+**Armor class:** 40
 
-**Dr:** 15/good
+**Touch:** 5
 
-**Fort:** +24
+**Flat-footed:** 40
+
+**AC modifiers:** -1 Dex, +35 natural, -4 size
 
 **Hit points:** 406 (28d12+224)
 
-**Immune:** cold, death effects, disease, paralysis, poison, sleep
-
-**Mod:** -1 Dex, +35 natural, -4 size
+**Fort:** +24
 
 **Ref:** +17
 
-**Sr:** 32
-
 **Will:** +25
+
+**Dr:** 15/good
+
+**Immune:** cold, death effects, disease, paralysis, poison, sleep
+
+**Sr:** 32
 
 **Offense**
 

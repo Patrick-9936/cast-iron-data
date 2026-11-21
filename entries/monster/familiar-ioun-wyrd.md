@@ -50,19 +50,23 @@ pulses with dim light._
 
 **Experience points:** 135
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Fort:** +0
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 dodge, +2 size
 
 **Hit points:** 5 (1d10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +1 dodge, +2 size
+**Fort:** +0
 
 **Ref:** +2
 
 **Will:** +2
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

@@ -47,13 +47,17 @@ head is all teeth._
 
 **Experience points:** 6,400
 
-**Armor class:** 21/7/20
+**Armor class:** 21
 
-**Fort:** +15
+**Touch:** 7
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +14 natural, -4 size
 
 **Hit points:** 153 (18d8+72)
 
-**Mod:** +1 Dex, +14 natural, -4 size
+**Fort:** +15
 
 **Ref:** +12
 

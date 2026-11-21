@@ -51,13 +51,17 @@ runs down its back._
 
 **Experience points:** 400
 
-**Armor class:** 13/11/13
+**Armor class:** 13
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 natural, +1 size
 
 **Hit points:** 19 (3d10+3)
 
-**Mod:** +2 natural, +1 size
+**Fort:** +4
 
 **Ref:** +5
 

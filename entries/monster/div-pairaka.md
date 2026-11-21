@@ -53,25 +53,29 @@ manner of debased pleasures._
 
 **Experience points:** 3,200
 
-**Armor class:** 23/15/18
+**Armor class:** 23
 
-**Dr:** 10/cold iron or good
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 18
+
+**AC modifiers:** +5 Dex, +8 natural
 
 **Hit points:** 76 (9d10+27)
 
-**Immune:** fire, poison, disease
-
-**Mod:** +5 Dex, +8 natural
+**Fort:** +6
 
 **Ref:** +11
+
+**Will:** +10
+
+**Dr:** 10/cold iron or good
+
+**Immune:** fire, poison, disease
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 22
-
-**Will:** +10
 
 **Offense**
 

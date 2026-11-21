@@ -52,13 +52,17 @@ pale blue energy._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/19
+**Armor class:** 23
 
-**Fort:** +12
+**Touch:** 13
+
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +1 dodge, +10 natural, -1 size
 
 **Hit points:** 105 (10d10+50)
 
-**Mod:** +3 Dex, +1 dodge, +10 natural, -1 size
+**Fort:** +12
 
 **Ref:** +10
 

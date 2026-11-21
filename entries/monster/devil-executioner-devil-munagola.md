@@ -51,27 +51,31 @@ black eyes smolder like coals._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/13/23
+**Armor class:** 26
+
+**Touch:** 13
+
+**Flat-footed:** 23
+
+**AC modifiers:** +7 armor, +3 Dex, +6 natural
+
+**Hit points:** 150 (12d10+84)
+
+**Fort:** +15
+
+**Ref:** +10
+
+**Will:** +14
 
 **Dr:** 10/good
 
 **Fh:** 5
 
-**Fort:** +15
-
-**Hit points:** 150 (12d10+84)
-
 **Immune:** fire, poison
-
-**Mod:** +7 armor, +3 Dex, +6 natural
-
-**Ref:** +10
 
 **Resist:** acid 15, cold 15
 
 **Sr:** 22
-
-**Will:** +14
 
 **Offense**
 

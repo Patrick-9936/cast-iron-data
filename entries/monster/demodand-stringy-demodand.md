@@ -54,25 +54,29 @@ _This lanky, winged humanoid is covered in layers of long, ropy skin growths._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/18/22
+**Armor class:** 30
 
-**Dr:** 10/good and magic
+**Touch:** 18
 
-**Fort:** +18
+**Flat-footed:** 22
+
+**AC modifiers:** +8 Dex, +12 natural
 
 **Hit points:** 230 (20d10+120)
 
-**Immune:** acid, poison
-
-**Mod:** +8 Dex, +12 natural
+**Fort:** +18
 
 **Ref:** +14
+
+**Will:** +13; +4 vs. divine spells
+
+**Dr:** 10/good and magic
+
+**Immune:** acid, poison
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 26
-
-**Will:** +13; +4 vs. divine spells
 
 **Offense**
 

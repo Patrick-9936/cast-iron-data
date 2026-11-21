@@ -55,19 +55,23 @@ with small bones._
 
 **Experience points:** 200
 
-**Armor class:** 15/13/12
+**Armor class:** 15
 
-**Defensive abilities:** ward against corruption
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 12
+
+**AC modifiers:** +2 armor, +3 Dex
 
 **Hit points:** 12 (1d10+2)
 
-**Mod:** +2 armor, +3 Dex
+**Fort:** +3
 
 **Ref:** +5
 
 **Will:** +2; +2 vs. negative energy and death effects
+
+**Defensive abilities:** ward against corruption
 
 **Offense**
 

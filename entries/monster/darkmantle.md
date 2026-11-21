@@ -49,13 +49,17 @@ tentacles connected by a fleshy web._
 
 **Experience points:** 400
 
-**Armor class:** 15/13/13
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +2 natural, +1 size
 
 **Hit points:** 15 (2d10+4)
 
-**Mod:** +2 Dex, +2 natural, +1 size
+**Fort:** +5
 
 **Ref:** +3
 

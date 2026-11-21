@@ -56,26 +56,30 @@ scarred with celestial runes._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 44/19/34
+**Armor class:** 44
 
-**Dr:** 15/epic and evil
+**Touch:** 19
+
+**Flat-footed:** 34
+
+**AC modifiers:** +9 Dex, +1 dodge, +25 natural, -1 size; +4 deflection vs. evil
+
+**Hit points:** 610 (33d10+429)
 
 **Fort:** +31
 
-**Hit points:** 610 (33d10+429)
+**Ref:** +20
+
+**Will:** +26; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 15/epic and evil
 
 **Immune:** ability damage, ability drain, acid, bleed, charm effects, compulsion effects, cold,
 death effects, energy drain, petrification
 
-**Mod:** +9 Dex, +1 dodge, +25 natural, -1 size; +4 deflection vs. evil
-
-**Ref:** +20
-
 **Regen:** 10 (evil artifacts, effects, and spells)
 
 **Resist:** electricity 30, fire 30
-
-**Will:** +26; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

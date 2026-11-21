@@ -51,25 +51,29 @@ wings fill the air with a dreadful drone even when the creature is still._
 
 **Experience points:** 4,800
 
-**Armor class:** 24/16/18
+**Armor class:** 24
 
-**Dr:** 10/cold iron and good
+**Touch:** 16
 
-**Fort:** +8
+**Flat-footed:** 18
+
+**AC modifiers:** +6 Dex, +8 natural
 
 **Hit points:** 105 (10d10+50)
 
-**Immune:** fire, poison
-
-**Mod:** +6 Dex, +8 natural
+**Fort:** +8
 
 **Ref:** +13
+
+**Will:** +11
+
+**Dr:** 10/cold iron and good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 19
-
-**Will:** +11
 
 **Offense**
 

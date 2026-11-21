@@ -50,25 +50,29 @@ seething glow burns in its eye sockets._
 
 **Experience points:** 25,600
 
-**Armor class:** 27/14/23
+**Armor class:** 27
 
-**Dr:** 10/good
+**Touch:** 14
 
-**Fort:** +11
+**Flat-footed:** 23
+
+**AC modifiers:** +3 Dex, +1 dodge, +13 natural
 
 **Hit points:** 172 (15d10+90)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +3 Dex, +1 dodge, +13 natural
+**Fort:** +11
 
 **Ref:** +12
+
+**Will:** +14
+
+**Dr:** 10/good
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 24
-
-**Will:** +14
 
 **Offense**
 

@@ -56,29 +56,33 @@ hooves._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/15
+**Armor class:** 18
+
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +4 natural, +1 size
+
+**Hit points:** 57 (6d10+24)
+
+**Fort:** +9
+
+**Ref:** +8
+
+**Will:** +3
 
 **Defensive abilities:** boiling blood
 
 **Dr:** 5/cold iron or good
 
-**Fort:** +9
-
-**Hit points:** 57 (6d10+24)
-
 **Immune:** electricity, fire
-
-**Mod:** +3 Dex, +4 natural, +1 size
-
-**Ref:** +8
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 16
 
 **Vulner:** cold
-
-**Will:** +3
 
 **Offense**
 

@@ -52,25 +52,29 @@ moves in unsettling lurches._
 
 **Experience points:** 6,400
 
-**Armor class:** 25/14/20
+**Armor class:** 25
 
-**Dr:** 10/good
+**Touch:** 14
 
-**Fort:** +12
+**Flat-footed:** 20
+
+**AC modifiers:** +5 Dex, +11 natural, -1 size
 
 **Hit points:** 105 (10d10+50)
 
-**Immune:** fire, poison
-
-**Mod:** +5 Dex, +11 natural, -1 size
+**Fort:** +12
 
 **Ref:** +12
+
+**Will:** +7
+
+**Dr:** 10/good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 20
-
-**Will:** +7
 
 **Offense**
 

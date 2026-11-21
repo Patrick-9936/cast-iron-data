@@ -53,29 +53,33 @@ mouth full of needle-sharp teeth._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/14/14
+**Armor class:** 18
+
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
+
+**Hit points:** 37 (5d10+10)
+
+**Fort:** +6
+
+**Ref:** +8
+
+**Will:** +1
 
 **Defensive abilities:** vengeful wind
 
 **Dr:** 10/cold iron or good
 
-**Fort:** +6
-
-**Hit points:** 37 (5d10+10)
-
 **Immune:** electricity, poison
-
-**Mod:** +4 Dex, +4 natural
-
-**Ref:** +8
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 15
 
 **Weaknesses:** enemy of dragons and eagles
-
-**Will:** +1
 
 **Offense**
 

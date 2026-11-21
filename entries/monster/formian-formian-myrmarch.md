@@ -52,19 +52,23 @@ intelligence and confidence._
 
 **Experience points:** 9,600
 
-**Armor class:** 27/16/22
+**Armor class:** 27
 
-**Fort:** +11
+**Touch:** 16
+
+**Flat-footed:** 22
+
+**AC modifiers:** +2 deflection, +4 Dex, +1 dodge, +11 natural, -1 size
 
 **Hit points:** 126 (12d10+60)
 
-**Mod:** +2 deflection, +4 Dex, +1 dodge, +11 natural, -1 size
+**Fort:** +11
 
 **Ref:** +14
 
-**Resist:** sonic 10
-
 **Will:** +13
+
+**Resist:** sonic 10
 
 **Offense**
 

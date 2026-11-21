@@ -51,25 +51,29 @@ abilities = ["31", "8", "25", "20", "25", "20"]
 
 **Experience points:** 76,800
 
-**Armor class:** 32/7/32
+**Armor class:** 32
+
+**Touch:** 7
+
+**Flat-footed:** 32
+
+**AC modifiers:** -1 Dex, +23 natural, +2 shield, -2 size
+
+**Hit points:** 270 (20d10+140)
+
+**Fort:** +19
+
+**Ref:** +13
+
+**Will:** +19
 
 **Defensive abilities:** parapet wings
 
 **Dr:** 5/chaotic
 
-**Fort:** +19
-
-**Hit points:** 270 (20d10+140)
-
 **Immune:** disease, fear, paralysis, poison, sleep
 
-**Mod:** -1 Dex, +23 natural, +2 shield, -2 size
-
-**Ref:** +13
-
 **Sr:** 29
-
-**Will:** +19
 
 **Offense**
 

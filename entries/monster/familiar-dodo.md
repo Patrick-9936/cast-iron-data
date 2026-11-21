@@ -52,13 +52,17 @@ beak._
 
 **Experience points:** 100
 
-**Armor class:** 11/11/11
+**Armor class:** 11
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 size
 
 **Hit points:** 6 (1d8+2)
 
-**Mod:** +1 size
+**Fort:** +4
 
 **Ref:** +2
 

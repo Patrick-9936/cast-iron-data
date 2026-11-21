@@ -53,25 +53,29 @@ stout legs._
 
 **Experience points:** 307,200
 
-**Armor class:** 38/18/30
+**Armor class:** 38
 
-**Dr:** 10/good and silver
+**Touch:** 18
 
-**Fort:** +29
+**Flat-footed:** 30
+
+**AC modifiers:** +4 deflection, +8 Dex, +20 natural, -4 size
 
 **Hit points:** 370 (20d10+260)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +4 deflection, +8 Dex, +20 natural, -4 size
+**Fort:** +29
 
 **Ref:** +18
+
+**Will:** +26
+
+**Dr:** 10/good and silver
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 31
-
-**Will:** +26
 
 **Offense**
 

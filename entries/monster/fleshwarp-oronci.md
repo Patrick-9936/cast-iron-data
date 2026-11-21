@@ -50,21 +50,25 @@ the sinewy shape of a centipede._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Ferocity:** present
+**Touch:** 12
 
-**Fort:** +6
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +6 natural, +2 shield, -1 size
 
 **Hit points:** 59 (7d8+28)
 
-**Mod:** +3 Dex, +6 natural, +2 shield, -1 size
+**Fort:** +6
 
 **Ref:** +5
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +5
+
+**Ferocity:** present
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

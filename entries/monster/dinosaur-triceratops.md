@@ -46,13 +46,17 @@ back over its neck from its skull._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/7/21
+**Armor class:** 21
 
-**Fort:** +15
+**Touch:** 7
+
+**Flat-footed:** 21
+
+**AC modifiers:** -1 Dex, +14 natural, -2 size
 
 **Hit points:** 119 (14d8+56)
 
-**Mod:** -1 Dex, +14 natural, -2 size
+**Fort:** +15
 
 **Ref:** +8
 

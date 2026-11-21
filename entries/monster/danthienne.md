@@ -47,21 +47,25 @@ hands, and a mischievous grin._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/17/14
+**Armor class:** 19
 
-**Dr:** 5/cold iron
+**Touch:** 17
 
-**Fort:** +7
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +1 dodge, +2 natural, +2 size
 
 **Hit points:** 59 (7d6+35)
 
-**Mod:** +4 Dex, +1 dodge, +2 natural, +2 size
+**Fort:** +7
 
 **Ref:** +9
 
-**Sr:** 16
-
 **Will:** +6
+
+**Dr:** 5/cold iron
+
+**Sr:** 16
 
 **Offense**
 

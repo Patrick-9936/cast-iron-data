@@ -48,19 +48,23 @@ basket filled with corn._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/18/20
+**Armor class:** 26
 
-**Dr:** 10/cold iron
+**Touch:** 18
 
-**Fort:** +12
+**Flat-footed:** 20
+
+**AC modifiers:** +6 Dex, +8 natural, +2 size
 
 **Hit points:** 153 (18d6+90)
 
-**Mod:** +6 Dex, +8 natural, +2 size
+**Fort:** +12
 
 **Ref:** +17
 
 **Will:** +17
+
+**Dr:** 10/cold iron
 
 **Offense**
 

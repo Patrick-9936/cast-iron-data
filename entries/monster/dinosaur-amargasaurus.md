@@ -46,13 +46,17 @@ of the creature's neck._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/10/16
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +8 natural, -2 size
 
 **Hit points:** 67 (9d8+27)
 
-**Mod:** +2 Dex, +8 natural, -2 size
+**Fort:** +9
 
 **Ref:** +8
 

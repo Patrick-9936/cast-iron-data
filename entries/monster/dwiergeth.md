@@ -54,27 +54,31 @@ gnashing, ophidian maws._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/17/20
+**Armor class:** 28
+
+**Touch:** 17
+
+**Flat-footed:** 20
+
+**AC modifiers:** +7 Dex, +1 dodge, +11 natural, -1 size
+
+**Hit points:** 175 (13d8+117)
+
+**Fort:** +13
+
+**Ref:** +11
+
+**Will:** +15
 
 **Defensive abilities:** all-around vision
 
 **Dr:** 10/lawful
 
-**Fort:** +13
-
-**Hit points:** 175 (13d8+117)
-
 **Immune:** blindness, dazzling, poison, visual effects
-
-**Mod:** +7 Dex, +1 dodge, +11 natural, -1 size
-
-**Ref:** +11
 
 **Resist:** cold 20, fire 20
 
 **Sr:** 24
-
-**Will:** +15
 
 **Offense**
 

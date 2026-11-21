@@ -48,13 +48,17 @@ spines._
 
 **Experience points:** 65
 
-**Armor class:** 16/15/15
+**Armor class:** 16
 
-**Fort:** +1
+**Touch:** 15
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +1 natural, +4 size
 
 **Hit points:** 3 (1d8-1)
 
-**Mod:** +1 Dex, +1 natural, +4 size
+**Fort:** +1
 
 **Ref:** +3
 

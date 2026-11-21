@@ -50,25 +50,29 @@ with dead, white eyes._
 
 **Experience points:** 204,800
 
-**Armor class:** 35/16/28
+**Armor class:** 35
 
-**Dr:** 15/cold iron and good
+**Touch:** 16
 
-**Fort:** +18
+**Flat-footed:** 28
+
+**AC modifiers:** +6 Dex, +1 dodge, +19 natural, -1 size
 
 **Hit points:** 332 (19d10+228)
 
-**Immune:** death effects, electricity, poison
-
-**Mod:** +6 Dex, +1 dodge, +19 natural, -1 size
+**Fort:** +18
 
 **Ref:** +17
+
+**Will:** +17
+
+**Dr:** 15/cold iron and good
+
+**Immune:** death effects, electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 30
-
-**Will:** +17
 
 **Offense**
 

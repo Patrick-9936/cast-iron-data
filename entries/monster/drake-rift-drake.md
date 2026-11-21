@@ -52,21 +52,25 @@ places on its winged arms._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/12/20
+**Armor class:** 23
 
-**Fort:** +12
+**Touch:** 12
+
+**Flat-footed:** 20
+
+**AC modifiers:** +3 Dex, +11 natural, -1 size
 
 **Hit points:** 126 (11d12+55)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +3 Dex, +11 natural, -1 size
+**Fort:** +12
 
 **Ref:** +10
 
-**Resist:** acid 30
-
 **Will:** +8
+
+**Immune:** paralysis, sleep
+
+**Resist:** acid 30
 
 **Offense**
 

@@ -50,29 +50,33 @@ save for her wide, fang-filled mouth._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/15/14
+**Armor class:** 19
+
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +4 natural
+
+**Hit points:** 68 (8d10+24)
+
+**Fort:** +9
+
+**Ref:** +7
+
+**Will:** +9
 
 **Defensive abilities:** faded
 
 **Dr:** 5/cold iron or good
 
-**Fort:** +9
-
-**Hit points:** 68 (8d10+24)
-
 **Immune:** fire, poison
-
-**Mod:** +5 Dex, +4 natural
-
-**Ref:** +7
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 17
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +9
 
 **Offense**
 

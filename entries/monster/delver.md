@@ -54,21 +54,25 @@ and its whole body sizzles with acidic slime as it slides forward through meltin
 
 **Experience points:** 6,400
 
-**Armor class:** 23/12/19
+**Armor class:** 23
 
-**Dr:** 5/piercing or slashing
+**Touch:** 12
 
-**Fort:** +12
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +11 natural, -2 size
 
 **Hit points:** 138 (12d8+84)
 
-**Immune:** acid
-
-**Mod:** +4 Dex, +11 natural, -2 size
+**Fort:** +12
 
 **Ref:** +8
 
 **Will:** +10
+
+**Dr:** 5/piercing or slashing
+
+**Immune:** acid
 
 **Offense**
 

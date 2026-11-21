@@ -49,21 +49,25 @@ _This enormous worm has stony hide and acid-dripping jaws._
 
 **Experience points:** 12,800
 
-**Armor class:** 23/9/20
+**Armor class:** 23
 
-**Defensive abilities:** corrosive blood (DC 22), venomous skin
+**Touch:** 9
 
-**Fort:** +14
+**Flat-footed:** 20
+
+**AC modifiers:** +3 Dex, +14 natural, -4 size
 
 **Hit points:** 157 (15d10+75)
 
-**Immune:** acid, electricity, poison
-
-**Mod:** +3 Dex, +14 natural, -4 size
+**Fort:** +14
 
 **Ref:** +12
 
 **Will:** +5
+
+**Defensive abilities:** corrosive blood (DC 22), venomous skin
+
+**Immune:** acid, electricity, poison
 
 **Offense**
 

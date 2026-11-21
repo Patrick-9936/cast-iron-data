@@ -53,23 +53,27 @@ brood._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/6/32
+**Armor class:** 32
+
+**Touch:** 6
+
+**Flat-footed:** 32
+
+**AC modifiers:** -3 Dex, +26 natural, -1 size
+
+**Hit points:** 276 (24d10+144)
+
+**Fort:** +15
+
+**Ref:** +13
+
+**Will:** +20
 
 **Dr:** 10/-
 
 **Fh:** 10
 
-**Fort:** +15
-
-**Hit points:** 276 (24d10+144)
-
-**Mod:** -3 Dex, +26 natural, -1 size
-
-**Ref:** +13
-
 **Resist:** sonic 10
-
-**Will:** +20
 
 **Offense**
 

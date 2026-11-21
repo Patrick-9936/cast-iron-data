@@ -48,26 +48,30 @@ nightmarish power, and its mouth drips with liquid flame._
 
 **Experience points:** 1,228,800
 
-**Armor class:** 42/12/32
+**Armor class:** 42
+
+**Touch:** 12
+
+**Flat-footed:** 32
+
+**AC modifiers:** +10 Dex, +30 natural, -8 size
+
+**Hit points:** 526 (27d12+351)
+
+**Fort:** +28
+
+**Ref:** +25
+
+**Will:** +23
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/cold iron and epic
 
-**Fort:** +28
-
-**Hit points:** 526 (27d12+351)
-
 **Immune:** curse effects, dragon traits, electricity, fire, mind-affecting effects, paralysis,
 poison, sleep
 
-**Mod:** +10 Dex, +30 natural, -8 size
-
-**Ref:** +25
-
 **Sr:** 35
-
-**Will:** +23
 
 **Offense**
 

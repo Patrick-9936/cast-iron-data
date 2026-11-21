@@ -54,23 +54,27 @@ Atop its head, a small protuberance shines like a star._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/11/19
+**Armor class:** 22
+
+**Touch:** 11
+
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +11 natural, -2 size
+
+**Hit points:** 126 (11d10+66)
+
+**Fort:** +13
+
+**Ref:** +10
+
+**Will:** +6; +4 vs. enchantment
 
 **Defensive abilities:** willful
 
 **Dr:** 5/piercing or slashing
 
-**Fort:** +13
-
-**Hit points:** 126 (11d10+66)
-
-**Mod:** +3 Dex, +11 natural, -2 size
-
-**Ref:** +10
-
 **Resist:** acid 10, fire 10
-
-**Will:** +6; +4 vs. enchantment
 
 **Offense**
 

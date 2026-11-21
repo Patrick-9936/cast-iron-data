@@ -55,25 +55,29 @@ flickering with wild flames._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Dr:** 5/silver or good
+**Touch:** 15
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +2 natural, +1 size
 
 **Hit points:** 32 (5d10+5)
 
-**Immune:** fire, poison
-
-**Mod:** +4 Dex, +2 natural, +1 size
+**Fort:** +2
 
 **Ref:** +8
+
+**Will:** +7
+
+**Dr:** 5/silver or good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 15
-
-**Will:** +7
 
 **Offense**
 

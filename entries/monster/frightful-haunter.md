@@ -53,25 +53,29 @@ and hairy, fanged face._
 
 **Experience points:** 4,800
 
-**Armor class:** 16/15/12
+**Armor class:** 16
+
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 deflection, +3 Dex
+
+**Hit points:** 60 (8d8+24)
+
+**Fort:** +5
+
+**Ref:** +5
+
+**Will:** +9
 
 **Chan Res:** +3
 
 **Fh:** 0 (see special abilities)
 
-**Fort:** +5
-
-**Hit points:** 60 (8d8+24)
-
 **Immune:** haunts
 
 **Incorporeal:** present
-
-**Mod:** +3 deflection, +3 Dex
-
-**Ref:** +5
-
-**Will:** +9
 
 **Offense**
 

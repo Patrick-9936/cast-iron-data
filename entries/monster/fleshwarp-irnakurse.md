@@ -50,13 +50,17 @@ cacophony of slapping flesh._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/12/20
+**Armor class:** 23
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 20
+
+**AC modifiers:** +3 Dex, +11 natural, -1 size
 
 **Hit points:** 105 (10d8+60)
 
-**Mod:** +3 Dex, +11 natural, -1 size
+**Fort:** +9
 
 **Ref:** +8
 

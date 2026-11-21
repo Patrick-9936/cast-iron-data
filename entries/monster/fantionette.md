@@ -54,23 +54,27 @@ arms._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Dr:** 5/good
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +2 natural, +1 size
 
 **Hit points:** 37 (5d10+10)
 
-**Immune:** poison
-
-**Mod:** +4 Dex, +2 natural, +1 size
+**Fort:** +3
 
 **Ref:** +8
 
-**Sr:** 15
-
 **Will:** +6
+
+**Dr:** 5/good
+
+**Immune:** poison
+
+**Sr:** 15
 
 **Offense**
 

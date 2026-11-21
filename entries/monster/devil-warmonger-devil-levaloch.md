@@ -56,27 +56,31 @@ upon six bladed, beetle-like legs._
 
 **Experience points:** 3,200
 
-**Armor class:** 22/12/19
+**Armor class:** 22
+
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +10 natural, -1 size
+
+**Hit points:** 84 (8d10+40)
+
+**Fort:** +10
+
+**Ref:** +9
+
+**Will:** +5
 
 **Defensive abilities:** construct form
 
 **Dr:** 5/good
 
-**Fort:** +10
-
-**Hit points:** 84 (8d10+40)
-
 **Immune:** fire, poison
-
-**Mod:** +3 Dex, +10 natural, -1 size
-
-**Ref:** +9
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 12
-
-**Will:** +5
 
 **Offense**
 

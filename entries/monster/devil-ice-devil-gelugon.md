@@ -51,27 +51,31 @@ _A pair of frozen, multifaceted eyes coldly judge all before this towering, inse
 
 **Experience points:** 25,600
 
-**Armor class:** 32/14/27
+**Armor class:** 32
 
-**Dr:** 10/good
+**Touch:** 14
 
-**Fort:** +15
+**Flat-footed:** 27
+
+**AC modifiers:** +5 Dex, +18 natural, -1 size
 
 **Hit points:** 161 (14d10+84)
 
-**Immune:** fire, cold, poison
-
-**Mod:** +5 Dex, +18 natural, -1 size
+**Fort:** +15
 
 **Ref:** +14
+
+**Will:** +12
+
+**Dr:** 10/good
+
+**Immune:** fire, cold, poison
 
 **Regen:** 5 (good weapons, good spells)
 
 **Resist:** acid 10
 
 **Sr:** 24
-
-**Will:** +12
 
 **Offense**
 

@@ -52,13 +52,17 @@ large flail in each fist._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/8/18
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 8
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 armor, -1 Dex, +8 natural, -1 size
 
 **Hit points:** 65 (10d8+20)
 
-**Mod:** +2 armor, -1 Dex, +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +2
 

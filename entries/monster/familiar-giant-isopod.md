@@ -52,21 +52,25 @@ shell-like plates._
 
 **Experience points:** 50
 
-**Armor class:** 14/11/14
+**Armor class:** 14
 
-**Defensive abilities:** curl
+**Touch:** 11
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** -1 Dex, +3 natural, +2 size
 
 **Hit points:** 6 (1d8+2)
 
-**Immune:** mind-affecting effects
-
-**Mod:** -1 Dex, +3 natural, +2 size
+**Fort:** +4
 
 **Ref:** -1
 
 **Will:** +0
+
+**Defensive abilities:** curl
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

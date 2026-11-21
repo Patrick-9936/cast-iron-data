@@ -55,30 +55,34 @@ tails._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 45/40/36
+**Armor class:** 45
+
+**Touch:** 40
+
+**Flat-footed:** 36
+
+**AC modifiers:** +10 Dex, +1 dodge, +2 insight, +13 natural, -1 size, +6 sacred, +12 Wis
+
+**Hit points:** 528 (32d10+352)
+
+**Fort:** +21
+
+**Ref:** +30
+
+**Will:** +30
 
 **Defensive abilities:** never surprised
 
 **Dr:** 10/epic and evil
 
-**Fort:** +21
-
-**Hit points:** 528 (32d10+352)
-
 **Immune:** ability damage, ability drain, charm effects, compulsion effects, death effects,
 disease, electricity, energy drain, petrification, poison
-
-**Mod:** +10 Dex, +1 dodge, +2 insight, +13 natural, -1 size, +6 sacred, +12 Wis
-
-**Ref:** +30
 
 **Regen:** 10 (evil artifacts, effects, and spells)
 
 **Resist:** cold 30, sonic 30
 
 **Sr:** 37
-
-**Will:** +30
 
 **Offense**
 

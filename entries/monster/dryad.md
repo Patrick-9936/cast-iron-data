@@ -49,21 +49,25 @@ leaves and blossoms._
 
 **Experience points:** 800
 
-**Armor class:** 17/14/13
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +3 natural
 
 **Hit points:** 27 (6d6+6)
 
-**Mod:** +4 Dex, +3 natural
+**Fort:** +5
 
 **Ref:** +9
 
-**Weaknesses:** tree dependent
-
 **Will:** +7
+
+**Dr:** 5/cold iron
+
+**Weaknesses:** tree dependent
 
 **Offense**
 

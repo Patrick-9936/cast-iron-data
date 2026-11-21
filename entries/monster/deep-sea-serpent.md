@@ -51,23 +51,27 @@ jagged teeth._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/12/28
+**Armor class:** 34
 
-**Defensive abilities:** elusive
+**Touch:** 12
 
-**Fort:** +22
+**Flat-footed:** 28
+
+**AC modifiers:** +5 Dex, +1 dodge, +22 natural, -4 size
 
 **Hit points:** 333 (23d10+207)
 
-**Immune:** cold
-
-**Mod:** +5 Dex, +1 dodge, +22 natural, -4 size
+**Fort:** +22
 
 **Ref:** +20
 
-**Resist:** fire 30
-
 **Will:** +12
+
+**Defensive abilities:** elusive
+
+**Immune:** cold
+
+**Resist:** fire 30
 
 **Offense**
 

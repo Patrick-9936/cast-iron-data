@@ -47,19 +47,23 @@ prey._
 
 **Experience points:** 600
 
-**Armor class:** 15/14/12
+**Armor class:** 15
 
-**Evasion:** present
+**Touch:** 14
 
-**Fort:** +6
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +1 natural, +1 size
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +3 Dex, +1 natural, +1 size
+**Fort:** +6
 
 **Ref:** +6
 
 **Will:** +3
+
+**Evasion:** present
 
 **Offense**
 

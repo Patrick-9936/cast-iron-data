@@ -49,21 +49,25 @@ always on the lookout._
 
 **Experience points:** 2,400
 
-**Armor class:** 21/12/19
+**Armor class:** 21
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +2 Dex, +9 natural
 
 **Hit points:** 57 (6d12+18)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +2 Dex, +9 natural
+**Fort:** +8
 
 **Ref:** +7
 
-**Sr:** 17
-
 **Will:** +7
+
+**Immune:** paralysis, sleep
+
+**Sr:** 17
 
 **Offense**
 

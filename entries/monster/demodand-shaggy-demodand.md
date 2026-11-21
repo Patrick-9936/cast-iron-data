@@ -54,25 +54,29 @@ two immense bat wings._
 
 **Experience points:** 153,600
 
-**Armor class:** 32/17/25
+**Armor class:** 32
 
-**Dr:** 15/good and magic
+**Touch:** 17
 
-**Fort:** +19
+**Flat-footed:** 25
+
+**AC modifiers:** +7 Dex, +15 natural
 
 **Hit points:** 262 (25d10+125)
 
-**Immune:** acid, poison
-
-**Mod:** +7 Dex, +15 natural
+**Fort:** +19
 
 **Ref:** +17
+
+**Will:** +18; +4 vs. divine spells
+
+**Dr:** 15/good and magic
+
+**Immune:** acid, poison
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 29
-
-**Will:** +18; +4 vs. divine spells
 
 **Offense**
 

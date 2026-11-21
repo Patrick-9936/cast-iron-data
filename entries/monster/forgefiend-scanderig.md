@@ -54,21 +54,25 @@ end in razor-sharp claws._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/11/23
+**Armor class:** 25
 
-**Fort:** +14
+**Touch:** 11
+
+**Flat-footed:** 23
+
+**AC modifiers:** +2 Dex, +14 natural, -1 size
 
 **Hit points:** 137 (11d10+77)
 
-**Immune:** fire, poison
-
-**Mod:** +2 Dex, +14 natural, -1 size
+**Fort:** +14
 
 **Ref:** +5
 
-**Resist:** acid 10, cold 10
-
 **Will:** +10
+
+**Immune:** fire, poison
+
+**Resist:** acid 10, cold 10
 
 **Offense**
 

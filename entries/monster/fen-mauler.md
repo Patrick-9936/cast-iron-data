@@ -50,23 +50,27 @@ tangles within its matted, reeking fur._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/14/19
+**Armor class:** 24
 
-**Defensive abilities:** shadowy pelt
+**Touch:** 14
 
-**Fort:** +11
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +1 dodge, +10 natural, -1 size
 
 **Hit points:** 136 (13d10+65)
 
-**Immune:** disease
-
-**Mod:** +4 Dex, +1 dodge, +10 natural, -1 size
+**Fort:** +11
 
 **Ref:** +12
 
-**Resist:** cold 10
-
 **Will:** +11
+
+**Defensive abilities:** shadowy pelt
+
+**Immune:** disease
+
+**Resist:** cold 10
 
 **Offense**
 

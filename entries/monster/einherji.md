@@ -52,7 +52,21 @@ _Holding a massive battleaxe and shield, this tall, helmed warrior is grim and f
 
 **Experience points:** 9,600
 
-**Armor class:** 24/13/21
+**Armor class:** 24
+
+**Touch:** 13
+
+**Flat-footed:** 21
+
+**AC modifiers:** +7 armor, +3 Dex, +4 shield
+
+**Hit points:** 123 (13d10+52)
+
+**Fort:** +12
+
+**Ref:** +11
+
+**Will:** +8
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -60,21 +74,11 @@ _Holding a massive battleaxe and shield, this tall, helmed warrior is grim and f
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 123 (13d10+52)
-
 **Immune:** cold, disease, fear, poison
-
-**Mod:** +7 armor, +3 Dex, +4 shield
-
-**Ref:** +11
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 21
-
-**Will:** +8
 
 **Offense**
 

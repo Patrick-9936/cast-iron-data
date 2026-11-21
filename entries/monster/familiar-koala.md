@@ -49,13 +49,17 @@ white-tufted ears._
 
 **Experience points:** 100
 
-**Armor class:** 11/11/11
+**Armor class:** 11
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 size
 
 **Hit points:** 5 (1d8+1)
 
-**Mod:** +1 size
+**Fort:** +5
 
 **Ref:** +2
 

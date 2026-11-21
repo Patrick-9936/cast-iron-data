@@ -55,27 +55,31 @@ emerged from some poisoned sea._
 
 **Experience points:** 9,600
 
-**Armor class:** 26/11/24
+**Armor class:** 26
+
+**Touch:** 11
+
+**Flat-footed:** 24
+
+**AC modifiers:** +2 Dex, +15 natural, -1 size
+
+**Hit points:** 161 (14d10+84)
+
+**Fort:** +10
+
+**Ref:** +13
+
+**Will:** +11
 
 **Defensive abilities:** rough hide
 
 **Dr:** 10/cold iron and good
 
-**Fort:** +10
-
-**Hit points:** 161 (14d10+84)
-
 **Immune:** fire, poison
-
-**Mod:** +2 Dex, +15 natural, -1 size
-
-**Ref:** +13
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 21
-
-**Will:** +11
 
 **Offense**
 

@@ -56,25 +56,29 @@ wields a scythe in its largest arms._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/15/23
+**Armor class:** 29
 
-**Dr:** 10/good and silver
+**Touch:** 15
 
-**Fort:** +16
+**Flat-footed:** 23
+
+**AC modifiers:** +6 Dex, +14 natural, -1 size
 
 **Hit points:** 195 (17d10+102)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +6 Dex, +14 natural, -1 size
+**Fort:** +16
 
 **Ref:** +13
+
+**Will:** +17
+
+**Dr:** 10/good and silver
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 25
-
-**Will:** +17
 
 **Offense**
 

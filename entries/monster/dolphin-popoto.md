@@ -50,13 +50,17 @@ rounded black dorsal fin._
 
 **Experience points:** 135
 
-**Armor class:** 15/14/12
+**Armor class:** 15
 
-**Fort:** +2
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +1 natural, +1 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +3 Dex, +1 natural, +1 size
+**Fort:** +2
 
 **Ref:** +5
 

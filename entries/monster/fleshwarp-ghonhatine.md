@@ -53,19 +53,23 @@ protruding teeth snapping wildly._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/7/24
+**Armor class:** 24
 
-**Fort:** +13
+**Touch:** 7
+
+**Flat-footed:** 24
+
+**AC modifiers:** -2 Dex, +17 natural, -1 size
 
 **Hit points:** 162 (12d8+108)
 
-**Immune:** acid, critical hits, disease, poison
-
-**Mod:** -2 Dex, +17 natural, -1 size
+**Fort:** +13
 
 **Ref:** +2
 
 **Will:** +6
+
+**Immune:** acid, critical hits, disease, poison
 
 **Offense**
 

@@ -52,19 +52,23 @@ wickedly barbed stinger._
 
 **Experience points:** 800
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Mod:** +3 Dex, +4 natural
+**Fort:** +3
 
 **Ref:** +7
 
-**Resist:** sonic 10
-
 **Will:** +4
+
+**Resist:** sonic 10
 
 **Offense**
 

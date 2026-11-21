@@ -48,21 +48,25 @@ yellow eyes and stands calmly, as though fearless._
 
 **Experience points:** 600
 
-**Armor class:** 16/15/13
+**Armor class:** 16
 
-**Dr:** 5/magic
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 dodge, +1 natural, +2 size
 
 **Hit points:** 16 (3d10)
 
-**Mod:** +2 Dex, +1 dodge, +1 natural, +2 size
+**Fort:** +3
 
 **Ref:** +5
 
-**Sr:** 14
-
 **Will:** +2
+
+**Dr:** 5/magic
+
+**Sr:** 14
 
 **Offense**
 

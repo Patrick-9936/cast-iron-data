@@ -51,25 +51,29 @@ a hideous, twitching beard._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/12/17
+**Armor class:** 19
 
-**Dr:** 5/good or silver
+**Touch:** 12
 
-**Fort:** +9
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +7 natural
 
 **Hit points:** 57 (6d10+24)
 
-**Immune:** fire, poison
-
-**Mod:** +2 Dex, +7 natural
+**Fort:** +9
 
 **Ref:** +7
+
+**Will:** +3
+
+**Dr:** 5/good or silver
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 16
-
-**Will:** +3
 
 **Offense**
 

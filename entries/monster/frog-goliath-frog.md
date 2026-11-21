@@ -47,13 +47,17 @@ _This massive, mottled amphibian glistens with slime, and its tongue drips with 
 
 **Experience points:** 800
 
-**Armor class:** 15/10/14
+**Armor class:** 15
 
-**Fort:** +8
+**Touch:** 10
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +5 natural, -1 size
 
 **Hit points:** 34 (4d8+16)
 
-**Mod:** +1 Dex, +5 natural, -1 size
+**Fort:** +8
 
 **Ref:** +7
 

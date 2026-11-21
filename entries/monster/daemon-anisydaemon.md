@@ -57,25 +57,29 @@ eyeless face._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/13/24
+**Armor class:** 28
 
-**Dr:** 10/good and silver
+**Touch:** 13
 
-**Fort:** +15
+**Flat-footed:** 24
+
+**AC modifiers:** +15 natural, +4 Dex, -1 size
 
 **Hit points:** 172 (15d10+90)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +15 natural, +4 Dex, -1 size
+**Fort:** +15
 
 **Ref:** +11
+
+**Will:** +14
+
+**Dr:** 10/good and silver
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Weaknesses:** sunlight weakness
-
-**Will:** +14
 
 **Offense**
 

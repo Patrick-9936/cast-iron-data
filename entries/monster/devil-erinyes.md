@@ -50,25 +50,29 @@ eyes search for a target._
 
 **Experience points:** 4,800
 
-**Armor class:** 23/17/16
+**Armor class:** 23
 
-**Dr:** 5/good
+**Touch:** 17
 
-**Fort:** +11
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +1 dodge, +6 natural
 
 **Hit points:** 94 (9d10+45)
 
-**Immune:** fire, poison
-
-**Mod:** +6 Dex, +1 dodge, +6 natural
+**Fort:** +11
 
 **Ref:** +12
+
+**Will:** +7
+
+**Dr:** 5/good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 19
-
-**Will:** +7
 
 **Offense**
 

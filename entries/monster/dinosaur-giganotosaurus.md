@@ -45,13 +45,17 @@ _This bipedal dinosaur has a large head and cavernous jaws full of large, sharp 
 
 **Experience points:** 25,600
 
-**Armor class:** 27/2/27
+**Armor class:** 27
 
-**Fort:** +17
+**Touch:** 2
+
+**Flat-footed:** 27
+
+**AC modifiers:** +25 natural, -8 size
 
 **Hit points:** 199 (21d8+105)
 
-**Mod:** +25 natural, -8 size
+**Fort:** +17
 
 **Ref:** +12
 

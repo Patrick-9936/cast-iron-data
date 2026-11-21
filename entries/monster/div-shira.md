@@ -53,25 +53,29 @@ with dead black eyes._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/16/20
+**Armor class:** 27
 
-**Dr:** 10/cold iron and good
+**Touch:** 16
 
-**Fort:** +11
+**Flat-footed:** 20
+
+**AC modifiers:** +7 Dex, +11 natural, -1 size
 
 **Hit points:** 150 (12d10+84)
 
-**Immune:** fire, poison
-
-**Mod:** +7 Dex, +11 natural, -1 size
+**Fort:** +11
 
 **Ref:** +15
+
+**Will:** +14
+
+**Dr:** 10/cold iron and good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 23
-
-**Will:** +14
 
 **Offense**
 

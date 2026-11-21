@@ -51,27 +51,31 @@ tail._
 
 **Experience points:** 1,228,800
 
-**Armor class:** 42/14/30
+**Armor class:** 42
+
+**Touch:** 14
+
+**Flat-footed:** 30
+
+**AC modifiers:** +12 Dex, +28 natural, -8 size
+
+**Hit points:** 528 (32d12+320)
+
+**Fort:** +28
+
+**Ref:** +30
+
+**Will:** +24
 
 **Dr:** 20/epic
 
 **Fh:** 20
 
-**Fort:** +28
-
-**Hit points:** 528 (32d12+320)
-
 **Immune:** acid, charm, curses, electricity, fear, paralysis, petrification, sleep
-
-**Mod:** +12 Dex, +28 natural, -8 size
-
-**Ref:** +30
 
 **Resist:** cold 30, fire 30, sonic 30
 
 **Sr:** 35
-
-**Will:** +24
 
 **Offense**
 

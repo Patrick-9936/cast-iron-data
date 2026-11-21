@@ -57,31 +57,35 @@ darkness, True seeing
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/34/31
+**Armor class:** 46
+
+**Touch:** 34
+
+**Flat-footed:** 31
+
+**AC modifiers:** +4 armor, +15 Dex, +10 insight, +8 natural, -1 size
+
+**Hit points:** 676 (33d10+495)
+
+**Fort:** +26
+
+**Ref:** +33
+
+**Will:** +28; +8 vs. mind-affecting effects
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_,
 _[mind blank](ref/spell/mind-blank)_
 
 **Dr:** 20/epic and evil
 
-**Fort:** +26
-
-**Hit points:** 676 (33d10+495)
-
 **Immune:** ability damage, ability drain, charm effects, cold, compulsion effects, death effects,
 electricity, energy drain, petrification
-
-**Mod:** +4 armor, +15 Dex, +10 insight, +8 natural, -1 size
-
-**Ref:** +33
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** fire 30, sonic 30
 
 **Sr:** 39
-
-**Will:** +28; +8 vs. mind-affecting effects
 
 **Offense**
 

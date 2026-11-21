@@ -50,28 +50,32 @@ barbed whips of calloused flesh._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/10/19
+**Armor class:** 20
+
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
+
+**Hit points:** 95 (10d10+40)
+
+**Fort:** +7
+
+**Ref:** +8
+
+**Will:** +9
 
 **Dr:** 10/good or silver
 
 **Fh:** 2
 
-**Fort:** +7
-
-**Hit points:** 95 (10d10+40)
-
 **Immune:** acid, daze, death effects, disease, exhaustion, fatigue, nonlethal damage, paralysis,
 poison, sleep, stun
-
-**Mod:** +1 Dex, +10 natural, -1 size
-
-**Ref:** +8
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 18
-
-**Will:** +9
 
 **Offense**
 

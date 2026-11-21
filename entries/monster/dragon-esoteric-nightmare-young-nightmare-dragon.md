@@ -49,21 +49,25 @@ _This ebony dragon with red frills appears terribly contorted and trails shadows
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/18
+**Armor class:** 19
 
-**Fort:** +10
+**Touch:** 11
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +8 natural
 
 **Hit points:** 80 (7d12+35)
 
-**Immune:** mind-affecting effects, paralysis, sleep
-
-**Mod:** +1 Dex, +8 natural
+**Fort:** +10
 
 **Ref:** +6
 
-**Sr:** 17
-
 **Will:** +7
+
+**Immune:** mind-affecting effects, paralysis, sleep
+
+**Sr:** 17
 
 **Offense**
 

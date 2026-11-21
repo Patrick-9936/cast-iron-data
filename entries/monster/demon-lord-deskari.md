@@ -53,31 +53,35 @@ are swarms of biting flies, and its inhuman eyes glitter with cruel intelligence
 
 **Experience points:** 6,553,600
 
-**Armor class:** 47/32/37
+**Armor class:** 47
+
+**Touch:** 32
+
+**Flat-footed:** 37
+
+**AC modifiers:** +4 deflection, +10 Dex, +15 natural, +12 profane, -4 size
+
+**Hit points:** 742 (33d10+561)
+
+**Fort:** +31
+
+**Ref:** +32
+
+**Will:** +32
 
 **Defensive abilities:** Abyssal resurrection, all-around vision,
 _[freedom of movement](ref/spell/freedom-of-movement)_, rasping armor
 
 **Dr:** 20/cold iron, epic, and good
 
-**Fort:** +31
-
-**Hit points:** 742 (33d10+561)
-
 **Immune:** ability damage and drain, charm and compulsion effects, death effects, electricity,
 energy drain, petrification, poison
-
-**Mod:** +4 deflection, +10 Dex, +15 natural, +12 profane, -4 size
-
-**Ref:** +32
 
 **Regen:** 30 (epic and good or deific)
 
 **Resist:** acid 30, cold 30, fire 30
 
 **Sr:** 40
-
-**Will:** +32
 
 **Offense**
 

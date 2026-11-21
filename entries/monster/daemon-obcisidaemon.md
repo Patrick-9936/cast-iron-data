@@ -56,25 +56,29 @@ immense, cruel-looking halberd._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/14/30
+**Armor class:** 34
 
-**Dr:** 15/good and silver
+**Touch:** 14
 
-**Fort:** +26
+**Flat-footed:** 30
+
+**AC modifiers:** +4 deflection, +4 Dex, +20 natural, -4 size
 
 **Hit points:** 319 (22d10+198)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +4 deflection, +4 Dex, +20 natural, -4 size
+**Fort:** +26
 
 **Ref:** +15
+
+**Will:** +22
+
+**Dr:** 15/good and silver
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 30, electricity 30, fire 30
 
 **Sr:** 30
-
-**Will:** +22
 
 **Offense**
 

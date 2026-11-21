@@ -50,25 +50,29 @@ in curved blades._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/16/23
+**Armor class:** 29
 
-**Dr:** 10/good and silver
+**Touch:** 16
 
-**Fort:** +17
+**Flat-footed:** 23
+
+**AC modifiers:** +5 Dex, +1 dodge, +13 natural
 
 **Hit points:** 212 (17d10+119)
 
-**Immune:** acid, bleed, death effects, disease, poison
-
-**Mod:** +5 Dex, +1 dodge, +13 natural
+**Fort:** +17
 
 **Ref:** +12
+
+**Will:** +13
+
+**Dr:** 10/good and silver
+
+**Immune:** acid, bleed, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 26
-
-**Will:** +13
 
 **Offense**
 

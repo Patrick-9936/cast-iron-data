@@ -49,23 +49,27 @@ huge tentacles thrash and writhe._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/9/27
+**Armor class:** 28
 
-**Fort:** +12
+**Touch:** 9
+
+**Flat-footed:** 27
+
+**AC modifiers:** +1 Dex, +19 natural, -2 size
 
 **Hit points:** 184 (16d8+112)
 
-**Immune:** electricity (partial)
-
-**Mod:** +1 Dex, +19 natural, -2 size
+**Fort:** +12
 
 **Ref:** +8
+
+**Will:** +11
+
+**Immune:** electricity (partial)
 
 **Resist:** fire 10
 
 **Weaknesses:** slowed by electricity
-
-**Will:** +11
 
 **Offense**
 

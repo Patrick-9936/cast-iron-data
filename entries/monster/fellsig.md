@@ -54,23 +54,27 @@ stone body glow with a fiery inner heat._
 
 **Experience points:** 800
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Defensive abilities:** molten heart
+**Touch:** 10
 
-**Fort:** +2
+**Flat-footed:** 15
+
+**AC modifiers:** +5 natural
 
 **Hit points:** 27 (5d8+5)
 
-**Immune:** fire, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 natural
+**Fort:** +2
 
 **Ref:** +1
 
-**Vulner:** cold
-
 **Will:** +5
+
+**Defensive abilities:** molten heart
+
+**Immune:** fire, [undead traits](ref/umr/undead-traits)
+
+**Vulner:** cold
 
 **Offense**
 

@@ -53,29 +53,33 @@ than twice a human's height._
 
 **Experience points:** 3,276,800
 
-**Armor class:** 45/34/45
+**Armor class:** 45
+
+**Touch:** 34
+
+**Flat-footed:** 45
+
+**AC modifiers:** +4 deflection, +11 Dex, +11 natural, +10 profane, -1 size
+
+**Hit points:** 643 (33d10+462)
+
+**Fort:** +36
+
+**Ref:** +26
+
+**Will:** +31
 
 **Defensive abilities:** Abyssal resurrection,
 _[freedom of movement](ref/spell/freedom-of-movement)_, supernatural cunning
 
 **Dr:** 20/cold iron, epic, and good
 
-**Fort:** +36
-
-**Hit points:** 643 (33d10+462)
-
 **Immune:** ability damage, ability drain, charm and compulsion effects, death effects, electricity,
 energy drain, fire, maze, petrification, poison
-
-**Mod:** +4 deflection, +11 Dex, +11 natural, +10 profane, -1 size
-
-**Ref:** +26
 
 **Resist:** acid 30, cold 30
 
 **Sr:** 38
-
-**Will:** +31
 
 **Offense**
 

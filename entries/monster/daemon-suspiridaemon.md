@@ -56,25 +56,29 @@ arms that end in claws._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Dr:** 10/good or silver
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +1 dodge, +6 natural
 
 **Hit points:** 85 (9d10+36)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +3 Dex, +1 dodge, +6 natural
+**Fort:** +9
 
 **Ref:** +9
+
+**Will:** +8
+
+**Dr:** 10/good or silver
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10, sonic 30
 
 **Sr:** 18
-
-**Will:** +8
 
 **Offense**
 

@@ -57,25 +57,29 @@ rancidly obese body._
 
 **Experience points:** 614,400
 
-**Armor class:** 41/17/38
+**Armor class:** 41
 
-**Dr:** 10/good
+**Touch:** 17
 
-**Fort:** +30
+**Flat-footed:** 38
+
+**AC modifiers:** +8 armor, +4 deflection, +2 Dex, +1 dodge, +2 luck, +16 natural, -2 size
 
 **Hit points:** 434 (14d10+15d6+305\~29)
 
-**Immune:** electricity, poison
-
-**Mod:** +8 armor, +4 deflection, +2 Dex, +1 dodge, +2 luck, +16 natural, -2 size
+**Fort:** +30
 
 **Ref:** +19
+
+**Will:** +30
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 25
-
-**Will:** +30
 
 **Offense**
 

@@ -48,13 +48,17 @@ glows with a pale, sapphire light._
 
 **Experience points:** 800
 
-**Armor class:** 15/11/13
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +1 dodge, +4 natural, -1 size
 
 **Hit points:** 32 (5d8+10)
 
-**Mod:** +1 Dex, +1 dodge, +4 natural, -1 size
+**Fort:** +6
 
 **Ref:** +5
 

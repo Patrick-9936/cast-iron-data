@@ -48,13 +48,17 @@ crawl on its mangy hide._
 
 **Experience points:** 600
 
-**Armor class:** 13/11/11
+**Armor class:** 13
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +2 natural, -1 size
 
 **Hit points:** 22 (3d10+6)
 
-**Mod:** +2 Dex, +2 natural, -1 size
+**Fort:** +4
 
 **Ref:** +5
 

@@ -49,19 +49,23 @@ _This small, centaur-like ant creature bears a huge, bulging sack on its armored
 
 **Experience points:** 200
 
-**Armor class:** 12/11/12
+**Armor class:** 12
 
-**Fort:** +1
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 natural, +1 size
 
 **Hit points:** 6 (1d10+1)
 
-**Mod:** +1 natural, +1 size
+**Fort:** +1
 
 **Ref:** +2
 
-**Resist:** sonic 10
-
 **Will:** +2
+
+**Resist:** sonic 10
 
 **Offense**
 

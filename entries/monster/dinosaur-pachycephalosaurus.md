@@ -46,13 +46,17 @@ _This bipedal reptile has a rounded, dome-like head adorned with bony frills and
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/15
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +6 natural, -1 size
 
 **Hit points:** 37 (5d8+15)
 
-**Mod:** +2 Dex, +6 natural, -1 size
+**Fort:** +7
 
 **Ref:** +6
 

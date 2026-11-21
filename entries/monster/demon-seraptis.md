@@ -55,25 +55,29 @@ slashes on her four arms._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/20/24
+**Armor class:** 30
 
-**Dr:** 10/cold iron and good
+**Touch:** 20
 
-**Fort:** +22
+**Flat-footed:** 24
+
+**AC modifiers:** +4 deflection, +6 Dex, +10 natural
 
 **Hit points:** 217 (15d10+135); blood healing
 
-**Immune:** bleed, electricity, poison
-
-**Mod:** +4 deflection, +6 Dex, +10 natural
+**Fort:** +22
 
 **Ref:** +15
+
+**Will:** +17
+
+**Dr:** 10/cold iron and good
+
+**Immune:** bleed, electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 26
-
-**Will:** +17
 
 **Offense**
 

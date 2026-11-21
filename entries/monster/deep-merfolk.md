@@ -52,23 +52,27 @@ _This gaunt mermaid has a long, semi-transparent tail with a vivid red crest and
 
 **Experience points:** 800
 
-**Armor class:** 17/15/12
+**Armor class:** 17
 
-**Defensive abilities:** deep dweller, semi-transparent
+**Touch:** 15
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +5 Dex, +2 natural
 
 **Hit points:** 30 (4d8+12)
 
-**Mod:** +5 Dex, +2 natural
+**Fort:** +4
 
 **Ref:** +6
+
+**Will:** +4
+
+**Defensive abilities:** deep dweller, semi-transparent
 
 **Resist:** cold 5
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +4
 
 **Offense**
 

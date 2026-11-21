@@ -49,13 +49,17 @@ head._
 
 **Experience points:** 600
 
-**Armor class:** 14/13/10
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 10
+
+**AC modifiers:** +3 Dex, +1 Dodge, +1 natural, -1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +3 Dex, +1 Dodge, +1 natural, -1 size
+**Fort:** +5
 
 **Ref:** +6
 

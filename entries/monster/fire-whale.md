@@ -53,27 +53,31 @@ _Waves of searing heat ripple from the stony, gem-encrusted hide of this enormou
 
 **Experience points:** 76,800
 
-**Armor class:** 31/4/29
+**Armor class:** 31
+
+**Touch:** 4
+
+**Flat-footed:** 29
+
+**AC modifiers:** +2 Dex, +27 natural, -8 size
+
+**Hit points:** 250 (20d10+140)
+
+**Fort:** +19
+
+**Ref:** +14
+
+**Will:** +16
 
 **Defensive abilities:** flaming body
 
 **Dr:** 15/adamantine and piercing
 
-**Fort:** +19
-
-**Hit points:** 250 (20d10+140)
-
 **Immune:** fire, paralysis, poison, sleep
-
-**Mod:** +2 Dex, +27 natural, -8 size
-
-**Ref:** +14
 
 **Resist:** cold 15
 
 **Vulner:** sonic
-
-**Will:** +16
 
 **Offense**
 

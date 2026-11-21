@@ -54,27 +54,31 @@ almost to be made of glass._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/9/28
+**Armor class:** 31
+
+**Touch:** 9
+
+**Flat-footed:** 28
+
+**AC modifiers:** +2 Dex, +1 dodge, +22 natural, -4 size
+
+**Hit points:** 248 (16d12+144)
+
+**Fort:** +19
+
+**Ref:** +12
+
+**Will:** +16
 
 **Defensive abilities:** ray deflection, spines
 
 **Dr:** 10/adamantine
 
-**Fort:** +19
-
-**Hit points:** 248 (16d12+144)
-
 **Immune:** paralysis, sleep effects, sonic
-
-**Mod:** +2 Dex, +1 dodge, +22 natural, -4 size
-
-**Ref:** +12
 
 **Resist:** cold 20, electricity 20, fire 20
 
 **Sr:** 27
-
-**Will:** +16
 
 **Offense**
 

@@ -50,19 +50,23 @@ escapes its slobbering lips._
 
 **Experience points:** 800
 
-**Armor class:** 13/8/13
+**Armor class:** 13
 
-**Fort:** +7
+**Touch:** 8
+
+**Flat-footed:** 13
+
+**AC modifiers:** -2 Dex, +5 natural
 
 **Hit points:** 42 (5d8+20)
 
-**Immune:** acid, mind-affecting effects
-
-**Mod:** -2 Dex, +5 natural
+**Fort:** +7
 
 **Ref:** -1
 
 **Will:** +3
+
+**Immune:** acid, mind-affecting effects
 
 **Offense**
 

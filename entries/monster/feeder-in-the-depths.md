@@ -54,21 +54,25 @@ intelligence._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/10/18
+**Armor class:** 20
 
-**Fort:** +12
+**Touch:** 10
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +10 natural, -2 size
 
 **Hit points:** 105 (10d10+50); blood feast
 
-**Mod:** +2 Dex, +10 natural, -2 size
+**Fort:** +12
 
 **Ref:** +9
+
+**Will:** +7
 
 **Resist:** cold 20
 
 **Sr:** 19
-
-**Will:** +7
 
 **Offense**
 

@@ -49,21 +49,25 @@ pallid body breaks the surface of dark waters without as much as a ripple._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/0/30
+**Armor class:** 30
 
-**Fort:** +22
+**Touch:** 0
+
+**Flat-footed:** 30
+
+**AC modifiers:** -2 Dex, +30 natural, -8 size
 
 **Hit points:** 248 (16d10+160)
 
-**Immune:** sonic, gaze attacks, sight-based attacks, visual effects and illusions
-
-**Mod:** -2 Dex, +30 natural, -8 size
+**Fort:** +22
 
 **Ref:** +8
 
-**Weaknesses:** blind
-
 **Will:** +7
+
+**Immune:** sonic, gaze attacks, sight-based attacks, visual effects and illusions
+
+**Weaknesses:** blind
 
 **Offense**
 

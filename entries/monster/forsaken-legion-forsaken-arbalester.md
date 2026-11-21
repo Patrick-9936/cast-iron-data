@@ -48,21 +48,25 @@ uniform and carries a massive crossbow._
 
 **Experience points:** 800
 
-**Armor class:** 16/11/15
+**Armor class:** 16
 
-**Dr:** 5/bludgeoning or slashing
+**Touch:** 11
 
-**Fort:** +2
+**Flat-footed:** 15
+
+**AC modifiers:** +5 armor, +1 Dex
 
 **Hit points:** 27 (6d8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 armor, +1 Dex
+**Fort:** +2
 
 **Ref:** +3
 
 **Will:** +6
+
+**Dr:** 5/bludgeoning or slashing
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

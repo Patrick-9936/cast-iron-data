@@ -49,21 +49,25 @@ _A pair of brightly colored butterfly wings sprouts from the back of this miniat
 
 **Experience points:** 600
 
-**Armor class:** 18/16/14
+**Armor class:** 18
 
-**Fort:** +4
+**Touch:** 16
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +2 natural, +2 size
 
 **Hit points:** 22 (3d12+3)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +3 Dex, +1 dodge, +2 natural, +2 size
+**Fort:** +4
 
 **Ref:** +6
 
-**Sr:** 13
-
 **Will:** +5
+
+**Immune:** paralysis, sleep
+
+**Sr:** 13
 
 **Offense**
 

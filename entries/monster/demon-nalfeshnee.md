@@ -52,25 +52,29 @@ four-fingered hands._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/13/28
+**Armor class:** 29
 
-**Dr:** 10/good
+**Touch:** 13
 
-**Fort:** +22
+**Flat-footed:** 28
+
+**AC modifiers:** +4 deflection, +1 Dex, +16 natural, -2 size
 
 **Hit points:** 203 (14d10+126)
 
-**Immune:** electricity, poison
-
-**Mod:** +4 deflection, +1 Dex, +16 natural, -2 size
+**Fort:** +22
 
 **Ref:** +9
+
+**Will:** +21
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 25
-
-**Will:** +21
 
 **Offense**
 

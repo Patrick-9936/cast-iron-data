@@ -50,27 +50,31 @@ _This grinning spectre has mad eyes and blood-red hands that twitch and jerk lik
 
 **Experience points:** 51,200
 
-**Armor class:** 28/28/17
+**Armor class:** 28
+
+**Touch:** 28
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 deflection, +11 Dex
+
+**Hit points:** 207 (18d8+126)
+
+**Fort:** +13
+
+**Ref:** +17
+
+**Will:** +17
 
 **Chan Res:** +4
 
 **Dr:** 10/good
 
-**Fort:** +13
-
-**Hit points:** 207 (18d8+126)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +7 deflection, +11 Dex
-
-**Ref:** +17
-
 **Sr:** 26
-
-**Will:** +17
 
 **Offense**
 

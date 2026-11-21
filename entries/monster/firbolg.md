@@ -52,13 +52,17 @@ long, red hair and a bushy beard._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/10/17
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 armor, +1 Dex, +5 natural, -1 size
 
 **Hit points:** 39 (6d8+12)
 
-**Mod:** +2 armor, +1 Dex, +5 natural, -1 size
+**Fort:** +4
 
 **Ref:** +5
 

@@ -46,13 +46,17 @@ backward-curving horn._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/10/15
+**Armor class:** 17
 
-**Fort:** +8
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +7 natural, -1 size
 
 **Hit points:** 45 (6d8+18)
 
-**Mod:** +2 Dex, +7 natural, -1 size
+**Fort:** +8
 
 **Ref:** +7
 

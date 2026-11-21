@@ -49,23 +49,27 @@ _An eerie green glow shines through the seams of this mechanical creature's armo
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Dr:** 5/adamantine
+**Touch:** 11
 
-**Fort:** +1
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +6 natural
 
 **Hit points:** 47 (5d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +6 natural
+**Fort:** +1
 
 **Ref:** +2
 
-**Weaknesses:** magic dependent
-
 **Will:** +1
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Weaknesses:** magic dependent
 
 **Offense**
 

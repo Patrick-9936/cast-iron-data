@@ -48,31 +48,35 @@ _This hulking, four-armed, four-headed, sting-tailed gargoyle stands as tall as 
 
 **Experience points:** 3,276,800
 
-**Armor class:** 45/30/39
+**Armor class:** 45
+
+**Touch:** 30
+
+**Flat-footed:** 39
+
+**AC modifiers:** +4 deflection, +6 Dex, +15 natural, +12 profane, -2 size
+
+**Hit points:** 643 (33d10+462)
+
+**Fort:** +36
+
+**Ref:** +23
+
+**Will:** +33
 
 **Defensive abilities:** Abyssal resurrection,
 _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/cold iron, good, and epic
 
-**Fort:** +36
-
-**Hit points:** 643 (33d10+462)
-
 **Immune:** ability damage and drain, acid, charm and compulsion effects, death effects,
 electricity, level drain, petrification, poison
-
-**Mod:** +4 deflection, +6 Dex, +15 natural, +12 profane, -2 size
-
-**Ref:** +23
 
 **Regen:** 30 (mythic or deific)
 
 **Resist:** cold 30, fire 30
 
 **Sr:** 38
-
-**Will:** +33
 
 **Offense**
 

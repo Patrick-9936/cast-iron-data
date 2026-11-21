@@ -47,19 +47,23 @@ sweeping back from its skull._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/10/18
+**Armor class:** 19
 
-**Ferocity:** present
+**Touch:** 10
 
-**Fort:** +10
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
 
 **Hit points:** 52 (7d8+21)
 
-**Mod:** +1 Dex, +9 natural, -1 size
+**Fort:** +10
 
 **Ref:** +6
 
 **Will:** +5
+
+**Ferocity:** present
 
 **Offense**
 

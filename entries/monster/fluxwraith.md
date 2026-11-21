@@ -55,23 +55,27 @@ encircle it, each fragment reflecting younger or older versions of itself._
 
 **Experience points:** 102,400
 
-**Armor class:** 26/26/16
+**Armor class:** 26
 
-**Chan Res:** +4
+**Touch:** 26
 
-**Fort:** +14
+**Flat-footed:** 16
+
+**AC modifiers:** +6 deflection, +9 Dex, +1 dodge
 
 **Hit points:** 273 (26d8+156)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +6 deflection, +9 Dex, +1 dodge
+**Fort:** +14
 
 **Ref:** +17
 
 **Will:** +20
+
+**Chan Res:** +4
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

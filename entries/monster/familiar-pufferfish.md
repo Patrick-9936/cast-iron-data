@@ -49,19 +49,23 @@ from its body._
 
 **Experience points:** 100
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Defensive abilities:** spines
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 6 (1d8+2)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +4
 
 **Ref:** +4
 
 **Will:** +1
+
+**Defensive abilities:** spines
 
 **Offense**
 

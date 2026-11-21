@@ -52,25 +52,29 @@ behind its feminine frame._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/16/15
+**Armor class:** 20
+
+**Touch:** 16
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +1 dodge, +4 natural, +1 size
+
+**Hit points:** 39 (6d10+6)
+
+**Fort:** +5
+
+**Ref:** +9
+
+**Will:** +7
 
 **Defensive abilities:** natural invisibility
 
 **Dr:** 5/cold or silver
 
-**Fort:** +5
-
-**Hit points:** 39 (6d10+6)
-
 **Immune:** fire, poison
 
-**Mod:** +4 Dex, +1 dodge, +4 natural, +1 size
-
-**Ref:** +9
-
 **Resist:** acid 10, cold 10
-
-**Will:** +7
 
 **Offense**
 

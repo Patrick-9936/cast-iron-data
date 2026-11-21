@@ -50,19 +50,23 @@ _Wrapped in tatters of dark musty robes, this humanoid figure weaves malevolent 
 
 **Experience points:** 1,600
 
-**Armor class:** 17/14/13
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +3 natural
 
 **Hit points:** 52 (8d8+16)
 
-**Mod:** +3 Dex, +1 dodge, +3 natural
+**Fort:** +4
 
 **Ref:** +9
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +3
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

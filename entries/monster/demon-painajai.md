@@ -54,25 +54,29 @@ dozens of sharp teeth. It carries a barbed spear with a long, clinking chain att
 
 **Experience points:** 38,400
 
-**Armor class:** 28/12/25
+**Armor class:** 28
 
-**Dr:** 10/good
+**Touch:** 12
 
-**Fort:** +18
+**Flat-footed:** 25
+
+**AC modifiers:** +3 Dex, +16 natural, -1 size
 
 **Hit points:** 203 (14d10+126)
 
-**Immune:** electricity, poison, sleep
-
-**Mod:** +3 Dex, +16 natural, -1 size
+**Fort:** +18
 
 **Ref:** +12
+
+**Will:** +10
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison, sleep
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 25
-
-**Will:** +10
 
 **Offense**
 

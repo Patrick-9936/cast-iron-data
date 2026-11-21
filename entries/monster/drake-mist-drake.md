@@ -52,19 +52,23 @@ with the mist._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/12/16
+**Armor class:** 19
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +1 dodge, +7 natural, -1 size
 
 **Hit points:** 57 (6d12+18)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +2 Dex, +1 dodge, +7 natural, -1 size
+**Fort:** +8
 
 **Ref:** +7
 
 **Will:** +6
+
+**Immune:** paralysis, sleep
 
 **Offense**
 

@@ -50,7 +50,21 @@ pulsing of its massive, exposed muscles._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/14/25
+**Armor class:** 30
+
+**Touch:** 14
+
+**Flat-footed:** 25
+
+**AC modifiers:** +5 Dex, +16 natural, -1 size
+
+**Hit points:** 209 (22d8+110)
+
+**Fort:** +12
+
+**Ref:** +12
+
+**Will:** +15
 
 **Chan Res:** +2
 
@@ -58,17 +72,7 @@ pulsing of its massive, exposed muscles._
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 209 (22d8+110)
-
 **Immune:** acid, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 Dex, +16 natural, -1 size
-
-**Ref:** +12
-
-**Will:** +15
 
 **Offense**
 

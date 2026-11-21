@@ -51,19 +51,23 @@ _This centaur-like creature is equipped with an ant's mandibles and antennae._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/12/18
+**Armor class:** 20
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 natural
 
 **Hit points:** 85 (10d10+30)
 
-**Mod:** +2 Dex, +8 natural
+**Fort:** +6
 
 **Ref:** +9
 
-**Resist:** sonic 10
-
 **Will:** +10
+
+**Resist:** sonic 10
 
 **Offense**
 

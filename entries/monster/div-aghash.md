@@ -50,25 +50,29 @@ for a large eye ringed by fangs._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Dr:** 5/cold iron or good
+**Touch:** 12
 
-**Fort:** +4
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +6 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Immune:** fire, poison
-
-**Mod:** +2 Dex, +6 natural
+**Fort:** +4
 
 **Ref:** +6
+
+**Will:** +7
+
+**Dr:** 5/cold iron or good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 15
-
-**Will:** +7
 
 **Offense**
 

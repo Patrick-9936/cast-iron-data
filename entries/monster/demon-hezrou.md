@@ -53,25 +53,29 @@ hungry, reptilian eyes._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/9/25
+**Armor class:** 25
 
-**Dr:** 10/good
+**Touch:** 9
 
-**Fort:** +16
+**Flat-footed:** 25
+
+**AC modifiers:** +16 natural, -1 size
 
 **Hit points:** 145 (10d10+90)
 
-**Immune:** electricity, poison
-
-**Mod:** +16 natural, -1 size
+**Fort:** +16
 
 **Ref:** +3
+
+**Will:** +9
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 22
-
-**Will:** +9
 
 **Offense**
 

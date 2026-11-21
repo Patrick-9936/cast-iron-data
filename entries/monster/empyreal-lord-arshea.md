@@ -54,30 +54,34 @@ _Blue-gray wings extend over the jeweled bangles and gossamer veils of this andr
 
 **Experience points:** 6,553,600
 
-**Armor class:** 48/48/35
+**Armor class:** 48
+
+**Touch:** 48
+
+**Flat-footed:** 35
+
+**AC modifiers:** +12 Dex, +1 dodge, +12 insight, +13 sacred
+
+**Hit points:** 697 (34d10+510)
+
+**Fort:** +26
+
+**Ref:** +31
+
+**Will:** +31; +4 vs. poison
 
 **Defensive abilities:** adoration, flawless form, freedom's call
 
 **Dr:** 20/epic and evil
 
-**Fort:** +26
-
-**Hit points:** 697 (34d10+510)
-
 **Immune:** ability damage, ability drain, acid, charm effects, cold, compulsion effects, daze,
 death effects, energy drain, petrification
-
-**Mod:** +12 Dex, +1 dodge, +12 insight, +13 sacred
-
-**Ref:** +31
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** electricity 30, fire 30
 
 **Sr:** 40
-
-**Will:** +31; +4 vs. poison
 
 **Offense**
 

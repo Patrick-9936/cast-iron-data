@@ -53,13 +53,17 @@ unusual grace._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +3 dodge, +4 natural
 
 **Hit points:** 45 (7d8+14)
 
-**Mod:** +1 Dex, +3 dodge, +4 natural
+**Fort:** +4
 
 **Ref:** +3
 
