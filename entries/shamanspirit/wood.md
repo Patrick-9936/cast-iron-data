@@ -154,16 +154,16 @@ ability once per day.
 
 **Manifestation**
 
-**Ability:** At will, the shaman can meld with any tree or single block of wood (as per
-[meld into stone](ref/spell/meld-into-stone), except she can meld only with wood and has no limit on
-how long she can remain in the wood).
+**Gained:** At 20th Level
 
 **Flavor:** The shaman becomes a living creature of wood.
-
-**Gained:** At 20th Level
 
 **Passive:** She is forevermore treated as a [plant creature](ref/type/plant) rather than her
 original creature type for the purposes of spells and magical effects. Her skin takes on the
 appearance of polished wood grain, and she gains a +4 natural armor bonus to her Armor Class and
 [damage reduction](ref/rule/damage-reduction) 10/- against wooden weapons and the natural attacks of
 wooden and wood-like creatures. She gains immunity to paralysis, poison, polymorph, sleep, and stun.
+
+At will, the shaman can meld with any tree or single block of wood (as per
+[meld into stone](ref/spell/meld-into-stone), except she can meld only with wood and has no limit on
+how long she can remain in the wood).

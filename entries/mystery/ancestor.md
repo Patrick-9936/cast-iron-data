@@ -201,14 +201,14 @@ effectiveness.
 
 **Final Revelation**
 
-**Ability:** You can cast _[astral projection](ref/spell/astral-projection)_ as a
-[spell-like ability](ref/umr/spell-like-abilities) once per day without requiring material
-components.
+**Gained:** At 20th Level
 
 **Flavor:** You become one with the spirits of your ancestors.
-
-**Gained:** At 20th Level
 
 **Passive:** You gain a bonus on Will saving throws equal to your Charisma modifier,
 [blindsense](ref/umr/blindsense) out to a range of 60 feet, and a +4 bonus on your caster level for
 all divination spells.
+
+You can cast _[astral projection](ref/spell/astral-projection)_ as a
+[spell-like ability](ref/umr/spell-like-abilities) once per day without requiring material
+components.

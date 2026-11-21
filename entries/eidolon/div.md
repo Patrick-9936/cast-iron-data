@@ -31,21 +31,23 @@ limbs \[legs\]).
 
 **Base Evolutions**
 
-**At 1st Level:** Div eidolons gain the [resistance](ref/unchevolution/resistance) (fire) evolution.
-They also gain a +4 bonus on saving throws against poison.
+**Gained:** At 1st Level
 
-**At 12th Level:** Div eidolons gain DR 5/good. They also gain
+**Ability:** Div eidolons gain the [resistance](ref/unchevolution/resistance) (fire) evolution. They
+also gain a +4 bonus on saving throws against poison.
+
+**At 4th level,** div eidolons gain acid _resistance_ 10 and electricity _resistance_ 10.
+
+**At 8th level,** div eidolons add 1 point to their evolution pools and immunity to poison.
+
+**At 12th level,** div eidolons gain DR 5/good. They also gain
 _[see in darkness](ref/carried/bestiary/rules/universal-monster-rules/see-in-darkness)_ (see the
 [div creature subtype](ref/subtype/div)).
 
-**At 16th Level:** Div eidolons lose the _resistance_ (fire) evolution, and instead gain the
+**At 16th level,** div eidolons lose the _resistance_ (fire) evolution, and instead gain the
 [immunity](ref/unchevolution/immunity) (fire) evolution. They also gain
 [telepathy](ref/umr/telepathy).
 
-**At 20th Level:** Div eidolons gain the ability to use
+**At 20th level,** div eidolons gain the ability to use
 [greater teleport](ref/spell/teleport-greater) at will, as per the spell (caster level 14th), except
 they can teleport only themselves and up to 50 pounds of carried objects.
-
-**At 4th Level:** Div eidolons gain acid _resistance_ 10 and electricity _resistance_ 10.
-
-**At 8th Level:** Div eidolons add 1 point to their evolution pools and immunity to poison.

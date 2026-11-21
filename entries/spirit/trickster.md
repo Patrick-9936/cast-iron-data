@@ -84,6 +84,6 @@ This ability does not work on personal-range or instantaneous- or permanent-dura
 
 **Ability:** Once per day, instead of rolling for a skill check, you can choose your d20 result.
 
-**Ability2:** Additionally, you gain the ability to change form at will as if using
+Additionally, you gain the ability to change form at will as if using
 [greater polymorph](ref/spell/polymorph-greater), except that you can mimic the form of a specific
 individual.

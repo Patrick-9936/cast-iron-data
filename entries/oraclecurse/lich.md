@@ -14,17 +14,19 @@ group = "oracle-curse"
 
 **Lich**
 
+**Gained:** At 5th Level
+
 **Flavor:** You have (unknowingly) fulfilled most (but not all) of the ritualistic components to
 achieve lichdom. You have yet to turn into an undead creature, but you are close.
 
-**At 10th Level:** Add [undead anatomy I](ref/spell/undead-anatomy-1) to your list of 3rd-level
+**Ability:** Add [control undead](ref/spell/control-undead) to your list of 2nd-level oracle spells
+known.
+
+**At 10th level,** add [undead anatomy I](ref/spell/undead-anatomy-1) to your list of 3rd-level
 oracle spells known and [undead anatomy II](ref/spell/undead-anatomy-2) to your list of 5th-level
 oracle spells known.
 
-**At 15th Level:** You are immune to death effects.
-
-**At 5th Level:** Add [control undead](ref/spell/control-undead) to your list of 2nd-level oracle
-spells known.
+**At 15th level,** you are immune to death effects.
 
 **Effects:** You take damage from positive energy and heal from negative energy as if you were
 undead.

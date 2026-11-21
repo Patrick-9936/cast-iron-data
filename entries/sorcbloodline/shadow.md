@@ -112,11 +112,11 @@ that you can see through without penalty. All creatures except you are
 
 **Shadow Master (Su)**
 
-**Ability:** You can see perfectly in natural or magical darkness.
-
 **Gained:** At 20th Level
 
-**Passive:** When you use _[shadow conjuration](ref/spell/shadow-conjuration)_ or
+**Ability:** You can see perfectly in natural or magical darkness.
+
+When you use _[shadow conjuration](ref/spell/shadow-conjuration)_ or
 _[shadow evocation](ref/spell/shadow-evocation)_ spells, your creations are 20% more real, and any
 creatures you create gain the benefits of the [Augment Summoning](ref/feat/augment-summoning) feat.
 

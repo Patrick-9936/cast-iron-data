@@ -103,15 +103,15 @@ save.
 
 **Destiny Realized (Su)**
 
-**Ability:** Once per day, you can automatically succeed at one caster level check made to overcome
-[spell resistance](ref/rule/spell-resistance). You must use this ability before making the roll.
+**Gained:** At 20th Level
 
 **Flavor:** Your moment of destiny is at hand.
 
-**Gained:** At 20th Level
-
 **Passive:** Any critical threats made against you only confirm if the second roll results in a
 natural 20 on the die. Any critical threats you score with a spell are automatically confirmed.
+
+Once per day, you can automatically succeed at one caster level check made to overcome
+[spell resistance](ref/rule/spell-resistance). You must use this ability before making the roll.
 
 ### Karmic (Wildblooded Mutation)
 

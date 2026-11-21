@@ -27,12 +27,12 @@ subtype if its Intelligence score is 1 or 2.
 
 **Fire Hardened (Ex)**
 
-**Ability:** You can touch a willing creature to grant these benefits for 1 hour.
-
 **Passive:** You ignore fire damage from the fire-dominant planar trait, and you gain fire
 resistance 5. If you have natural fire resistance, it increases by 5 instead, and if you are
 naturally immune to fire, you heal hit points and [ability damage](ref/rule/ability-damage-drain) at
 twice the normal rate when resting on a fire-dominant plane.
+
+You can touch a willing creature to grant these benefits for 1 hour.
 
 **Usage:** 3 + Wisdom modifier times/day
 

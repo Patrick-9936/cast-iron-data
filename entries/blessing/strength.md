@@ -20,14 +20,18 @@ group = "warpriest-blessing"
 
 **Strength Surge (minor)**
 
-**At 1st Level:** As a **swift action** you can focus your own strength. You gain an enhancement
-bonus equal to 1/2 your warpriest level (minimum +1) on melee attack rolls, combat maneuver checks
-that rely on Strength, Strength-based skills, and Strength checks for 1 round.
+**Gained:** At 1st Level
+
+**Ability:** As a **swift action** you can focus your own strength. You gain an enhancement bonus
+equal to 1/2 your warpriest level (minimum +1) on melee attack rolls, combat maneuver checks that
+rely on Strength, Strength-based skills, and Strength checks for 1 round.
 
 **Strength of Will (major)**
 
-**At 10th Level:** As a **swift action** you can ignore the movement penalties caused by wearing
-medium or heavy armor or by carrying a medium or heavy load. This effect lasts for 1 minute. During
-this time, you can add your Strength modifier on saving throws against effects that would cause you
-to become [entangled](ref/rule/entangled), [staggered](ref/misc/staggered), or
+**Gained:** At 10th Level
+
+**Ability:** As a **swift action** you can ignore the movement penalties caused by wearing medium or
+heavy armor or by carrying a medium or heavy load. This effect lasts for 1 minute. During this time,
+you can add your Strength modifier on saving throws against effects that would cause you to become
+[entangled](ref/rule/entangled), [staggered](ref/misc/staggered), or
 [paralyzed](ref/rule/paralyzed).

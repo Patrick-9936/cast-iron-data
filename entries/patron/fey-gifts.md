@@ -16,13 +16,13 @@ group = "witch-patron"
 
 **Ability:** You gain the [charm](ref/hex/charm) hex at 1st level.
 
+Your fey patron delights in your failure and injury and frequently jinxes you; once each day, the GM
+can demand you reroll a single ability check, attack roll, saving throw, or skill check and use the
+worse result.
+
 **Info:** A powerful fey or other entity from the First World has offered you magic. You serve as an
 anchor and scrying focus in the Material Plane for your patron, but you also provide frequent
 amusement.
-
-**Passive:** Your fey patron delights in your failure and injury and frequently jinxes you; once
-each day, the GM can demand you reroll a single ability check, attack roll, saving throw, or skill
-check and use the worse result.
 
 **Spells:** Disguise self (2nd)
 

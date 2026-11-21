@@ -19,7 +19,7 @@ group = "vigilante-talent"
 feat, he can immediately swap it for another feat for which he qualified at the level he chose
 Weapon Finesse.
 
-**Passive:** When using Weapon Finesse to make a melee attack using his Dexterity bonus on attack
-rolls and his Strength bonus on damage rolls, he also adds half his vigilante level on damage rolls.
-This bonus damage is not reduced or increased if the vigilante is wielding a weapon two-handed or in
-an off-hand.
+When using Weapon Finesse to make a melee attack using his Dexterity bonus on attack rolls and his
+Strength bonus on damage rolls, he also adds half his vigilante level on damage rolls. This bonus
+damage is not reduced or increased if the vigilante is wielding a weapon two-handed or in an
+off-hand.

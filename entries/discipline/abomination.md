@@ -112,6 +112,8 @@ rolling on the table below.
 
 **Psychic Safeguard (Su)**
 
-**At 13th Level:** You project constant mental defenses, gaining
+**Gained:** At 13th Level
+
+**Ability:** You project constant mental defenses, gaining
 [spell resistance](ref/rule/spell-resistance) equal to 8 + your caster level. While manifesting your
 dark half, this spell resistance increases to 16 + your caster level.

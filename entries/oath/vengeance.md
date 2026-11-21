@@ -27,8 +27,10 @@ judgment.
 
 **Channel Wrath (Su)**
 
-**At 4th Level:** She can spend two uses of her _lay on hands_ ability to gain an extra use of
-_smite evil_ that day.
+**Gained:** At 4th Level
+
+**Ability:** She can spend two uses of her _lay on hands_ ability to gain an extra use of _smite
+evil_ that day.
 
 **Replaces:** Channel positive energy
 

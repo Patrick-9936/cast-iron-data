@@ -63,8 +63,10 @@ ways, you resemble a divine caster, and prayers often factor into your casting o
 
 **Discipline Powers**
 
-**At 1st Level:** Choose a deity to worship. Your alignment must remain within one step of your
-deity's or you lose access to all this discipline's bonus spells and discipline powers.
+**Gained:** At 1st Level
+
+**Ability:** Choose a deity to worship. Your alignment must remain within one step of your deity's
+or you lose access to all this discipline's bonus spells and discipline powers.
 
 **Description:** Your powers serve to protect or cure you and your allies.
 
@@ -82,7 +84,9 @@ you can regain in this way per day is equal to your Wisdom modifier.
 
 **Resilience of the Faithful (Su)**
 
-**At 5th Level:** You gain a resistance bonus on all saving throws equal to 2 +
+**Gained:** At 5th Level
+
+**Ability:** You gain a resistance bonus on all saving throws equal to 2 +
 [one-fifth](ref/misc/fractions-and-rounding) of your psychic level.
 
 **Prayer Aura (Su)**

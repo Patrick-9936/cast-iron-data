@@ -80,19 +80,23 @@ maximum number of points you can regain in this way per day is equal to your Wis
 
 **Dark Defense (Su)**
 
+**Gained:** At 5th Level
+
 **Flavor:** Light and darkness become your allies, moving around you to protect you from your
 enemies.
 
-**At 5th Level:** You gain a +2 deflection bonus to Armor Class against any attack while you benefit
-from [concealment](ref/rule/concealment) against that attack. If you have full concealment from that
+**Ability:** You gain a +2 deflection bonus to Armor Class against any attack while you benefit from
+[concealment](ref/rule/concealment) against that attack. If you have full concealment from that
 attack, this deflection bonus increases to +4.
 
 **Adumbration (Su)**
 
+**Gained:** At 13th Level
+
 **Flavor:** Shadows move to conceal you.
 
-**At 13th Level:** You gain a bonus on [Stealth](ref/skill/stealth) checks equal to half your level.
-In addition, you can use the Stealth skill even while being observed and without
+**Ability:** You gain a bonus on [Stealth](ref/skill/stealth) checks equal to half your level. In
+addition, you can use the Stealth skill even while being observed and without
 [cover](ref/rule/cover) or concealment, as long as you are within 10 feet of a shadow other than
 your own. You gain no benefit from adumbration in areas of
 [bright light](ref/rule/vision-and-light).

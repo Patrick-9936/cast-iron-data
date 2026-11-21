@@ -20,7 +20,9 @@ group = "warpriest-blessing"
 
 **Scaly Touch (minor)**
 
-**At 1st Level:** You can touch an ally as a **standard action** to grant it reptilian scales. For 1
+**Gained:** At 1st Level
+
+**Ability:** You can touch an ally as a **standard action** to grant it reptilian scales. For 1
 minute, the ally gains an enhancement bonus to its natural armor equal to 1 +
 [one-fifth](ref/misc/fractions-and-rounding) of your warpriest level.
 

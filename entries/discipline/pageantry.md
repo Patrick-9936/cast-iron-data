@@ -80,17 +80,21 @@ and saving throw DC increase by 2.
 
 **Force of Habit (Su)**
 
+**Gained:** At 13th Level
+
 **Flavor:** You are so accustomed to complex tasks that you can maintain focus on multiple mental
 foci simultaneously.
 
-**At 13th Level:** If you spend 1 point from your phrenic pool as you cast a psychic spell that
-requires [concentration](ref/rule/concentration), you can maintain concentration on that spell as a
-**swift action**. In addition, you can cast other psychic spells while concentrating on that spell.
+**Ability:** If you spend 1 point from your phrenic pool as you cast a psychic spell that requires
+[concentration](ref/rule/concentration), you can maintain concentration on that spell as a **swift
+action**. In addition, you can cast other psychic spells while concentrating on that spell.
 
 **Unrivaled Focus (Su)**
 
+**Gained:** At 13th Level
+
 **Flavor:** Your powers of concentration become unmatched.
 
-**At 13th Level:** Whenever you attempt a concentration check, you can spend 1 point from your
-phrenic pool to treat the result of your die roll as a 20. You must choose to use this ability
-before rolling the check.
+**Ability:** Whenever you attempt a concentration check, you can spend 1 point from your phrenic
+pool to treat the result of your die roll as a 20. You must choose to use this ability before
+rolling the check.

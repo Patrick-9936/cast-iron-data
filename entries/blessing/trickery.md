@@ -20,7 +20,9 @@ group = "warpriest-blessing"
 
 **Double (minor)**
 
-**At 1st Level:** As a **move action** you can create an illusory double of yourself. This double
+**Gained:** At 1st Level
+
+**Ability:** As a **move action** you can create an illusory double of yourself. This double
 functions as a single [mirror image](ref/spell/mirror-image), and lasts for a number of rounds equal
 to your warpriest level, or until the illusory duplicate is [dispelled](ref/spell/dispel-magic) or
 destroyed.
@@ -30,5 +32,7 @@ doesn't stack with the additional images from the mirror image spell.
 
 **Greater Invisibility (major)**
 
-**At 10th Level:** As a **swift action** you can become invisible for 1 round (as
+**Gained:** At 10th Level
+
+**Ability:** As a **swift action** you can become invisible for 1 round (as
 [greater invisibility](ref/spell/invisibility-greater)).

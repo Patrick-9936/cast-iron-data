@@ -16,11 +16,11 @@ group = "witch-patron"
 
 **Ability:** You gain the [tongues](ref/hex/tongues) hex at 1st level
 
+You cannot help but feel the despair, pain, and other negative emotions in those around you, taking
+a -5 penalty on saving throws against emotion effects.
+
 **Info:** Your patron is a manifestation of the collective living experience - mortal desire and
 purpose given direction by the beliefs of countless minds and hearts.
-
-**Passive:** You cannot help but feel the despair, pain, and other negative emotions in those around
-you, taking a -5 penalty on saving throws against emotion effects.
 
 **Spells:** Burst of insight (2nd)
 

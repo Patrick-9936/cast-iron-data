@@ -20,15 +20,19 @@ group = "warpriest-blessing"
 
 **Destructive Attacks (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch an ally and bless it with the power of destruction.
 
-**At 1st Level:** For 1 minute, the ally gains a morale bonus on weapon damage rolls equal to half
-your level (minimum 1).
+**Ability:** For 1 minute, the ally gains a morale bonus on weapon damage rolls equal to half your
+level (minimum 1).
 
 **Heart of Carnage (major)**
 
+**Gained:** At 10th Level
+
 **Flavor:** You can touch an ally and bless it with even greater destructive power.
 
-**At 10th Level:** For 1 minute, the ally gains a +4 insight bonus on attack rolls made to confirm
+**Ability:** For 1 minute, the ally gains a +4 insight bonus on attack rolls made to confirm
 critical hits and has a 50% chance to treat any critical hit or
 [sneak attack](ref/ability/sneak-attack) against it as a normal hit.

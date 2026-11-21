@@ -19,15 +19,19 @@ group = "warpriest-blessing"
 
 **Glorious Presence (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch an ally and grant it a glorious blessing.
 
-**At 1st Level:** For 1 minute, the ally becomes mesmerizing to her foes. This functions as
+**Ability:** For 1 minute, the ally becomes mesmerizing to her foes. This functions as
 [sanctuary](ref/spell/sanctuary), except if the ally attacks an opponent, this effect ends with
 respect to only that opponent. This is a mind-affecting effect.
 
 **Demoralizing Glory (major)**
 
-**At 10th Level:** When you successfully damage an opponent with a melee attack or attack spell, as
-a **swift action** you can attempt to demoralize that opponent with the
+**Gained:** At 10th Level
+
+**Ability:** When you successfully damage an opponent with a melee attack or attack spell, as a
+**swift action** you can attempt to demoralize that opponent with the
 [Intimidate](ref/skill/intimidate) skill using your ranks in Intimidate or your warpriest level,
 whichever is higher.

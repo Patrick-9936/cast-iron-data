@@ -53,9 +53,9 @@ action**.
 
 **Saga of Future Kings (Su)**
 
-**Ability:** In addition, when an ally affected by your song would be reduced to fewer than 0 hit
-points, she can attempt a Fortitude saving throw (DC = 10 + half the damage received). If the ally
-succeeds, she instead is reduced to 0 hit points.
-
 **Passive:** Each ally who benefits from your _song of valor_ gains DR/- equal to your _spirit
 bonus._
+
+In addition, when an ally affected by your song would be reduced to fewer than 0 hit points, she can
+attempt a Fortitude saving throw (DC = 10 + half the damage received). If the ally succeeds, she
+instead is reduced to 0 hit points.

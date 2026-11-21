@@ -65,8 +65,8 @@ effect.
 location and can add her Wisdom modifier to her Charisma modifier on all Charisma-based skill
 checks.
 
-**Ability2:** In addition, once per night while outdoors, she can cast one spell as if it were
-modified by the [Empower Spell](ref/feat/empower-spell), [Extend Spell](ref/feat/extend-spell),
+In addition, once per night while outdoors, she can cast one spell as if it were modified by the
+[Empower Spell](ref/feat/empower-spell), [Extend Spell](ref/feat/extend-spell),
 [Silent Spell](ref/feat/silent-spell), or [Still Spell](ref/feat/still-spell) feat without
 increasing the spell's casting time or level. The shaman doesn't need to possess the feat to use
 this ability.
@@ -83,16 +83,18 @@ of this hex again for 24 hours.
 
 **Lure of the Heavens (Su)**
 
+**Gained:** At 1st Level
+
 **Flavor:** The shaman's connection to the skies above is so strong that her feet barely touch the
 ground.
 
-**At 1st Level:** She no longer leaves tracks.
+**Ability:** She no longer leaves tracks.
 
-**At 10th Level:** The shaman gains the ability to [fly](ref/spell/fly) (as the spell) for a number
+**At 5th level,** she can hover up to 6 inches above the ground or liquid surfaces.
+
+**At 10th level,** the shaman gains the ability to [fly](ref/spell/fly) (as the spell) for a number
 of minutes per day equal to her shaman level - the duration does not need to be consecutive, but it
 must be used in 1-minute increments.
-
-**At 5th Level:** She can hover up to 6 inches above the ground or liquid surfaces.
 
 **Starburn (Su)**
 
@@ -108,13 +110,12 @@ the damage and negates the emission of bright light.
 
 **Spirit Animal**
 
-**Ability:** In addition, it gains a fly speed of 5 feet; if the animal already has a fly speed,
-instead its fly speed increases by 10 feet. While the animal is flying, a small nimbus of light
-surrounds it.
-
 **Passive:** The flesh of the shaman's spirit animal accurately reflects the stars that would be
 visible in the night sky, no matter where the animal is or the time of day. Due to this, it can be
 used as a star map.
+
+In addition, it gains a fly speed of 5 feet; if the animal already has a fly speed, instead its fly
+speed increases by 10 feet. While the animal is flying, a small nimbus of light surrounds it.
 
 ### Spirit Ability
 

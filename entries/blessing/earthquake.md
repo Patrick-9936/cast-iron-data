@@ -27,6 +27,8 @@ would move the ally or knock it prone.
 
 **Earth Hammer (major)**
 
-**At 10th Level:** You can touch a weapon to bless it with the force of a mighty earthquake for 1
-minute. When the weapon hits a creature, the target must succeed at a Reflex save or fall
+**Gained:** At 10th Level
+
+**Ability:** You can touch a weapon to bless it with the force of a mighty earthquake for 1 minute.
+When the weapon hits a creature, the target must succeed at a Reflex save or fall
 [prone](ref/rule/prone); either way, the creature is immune to this ability for 24 hours.

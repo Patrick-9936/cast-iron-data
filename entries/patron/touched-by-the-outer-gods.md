@@ -14,13 +14,13 @@ group = "witch-patron"
 
 **Touched by the Outer Gods**
 
-**Ability:** You gain the [unnerve beasts](ref/hex/unnerve-beasts) hex at 1st level.
+**Passive:** You take a -2 penalty on saving throws against confusion and emotion effects and are
+affected by such effects for at least 1 round even on a successful saving throw.
+
+You gain the [unnerve beasts](ref/hex/unnerve-beasts) hex at 1st level.
 
 **Info:** Your powers hail from an incomprehensible being from beyond the stars, whose motivations
 and needs erode your psyche.
-
-**Passive:** You take a -2 penalty on saving throws against confusion and emotion effects and are
-affected by such effects for at least 1 round even on a successful saving throw.
 
 **Spells:** Lesser confusion (2nd)
 

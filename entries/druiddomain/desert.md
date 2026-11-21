@@ -29,14 +29,16 @@ spell. Creatures that strike you in melee while you're using this ability are
 
 **Servant of the Sands (Sp)**
 
-**At 12th Level:** You may call upon the aid of any type of common (non-noble) genie as if using
+**Gained:** At 8th Level
+
+**Ability:** Once per day, you may call upon the aid of a [janni](ref/monster/genie-janni) as if
+using [lesser planar ally](ref/spell/planar-ally-lesser).
+
+**At 12th level,** you may call upon the aid of any type of common (non-noble) genie as if using
 [planar ally](ref/spell/planar-ally).
 
-**At 16th Level:** You may call upon the aid of a noble genie as if using
+**At 16th level,** you may call upon the aid of a noble genie as if using
 [greater planar ally](ref/spell/planar-ally-greater).
-
-**At 8th Level:** Once per day, you may call upon the aid of a [janni](ref/monster/genie-janni) as
-if using [lesser planar ally](ref/spell/planar-ally-lesser).
 
 **Special:** If you use this power while in desert terrain, you need not make an offering to call
 the creature(s), and the cost of any service is halved.

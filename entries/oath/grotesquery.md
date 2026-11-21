@@ -38,14 +38,14 @@ the amount of damage or drain by 1 (minimum 0).
 
 **Restore True Beauty (Su)**
 
+**Gained:** At 14th Level
+
 **Ability:** A paladin can expend two uses of her _lay on hands_ ability to attempt to dispel any
 non-harmless transmutation effect on a target, as [break enchantment](ref/spell/break-enchantment).
 
-**Ability2:** Additionally, the paladin can expend two uses of her _lay on hands_ ability to remove
-all of the target's temporary [Charisma damage](ref/rule/ability-damage-drain) and restore all
-points drained from its Charisma score, as [restoration](ref/spell/restoration).
-
-**Gained:** At 14th Level
+Additionally, the paladin can expend two uses of her _lay on hands_ ability to remove all of the
+target's temporary [Charisma damage](ref/rule/ability-damage-drain) and restore all points drained
+from its Charisma score, as [restoration](ref/spell/restoration).
 
 **Replaces:** Aura of faith
 

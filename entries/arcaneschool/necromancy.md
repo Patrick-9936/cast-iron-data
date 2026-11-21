@@ -20,9 +20,6 @@ enemies.
 
 **Power over Undead (Su)**
 
-**At 20th Level:** Undead cannot add their [channel resistance](ref/rule/channel-resistance) to the
-save against this ability.
-
 **Gained:** At 1st Level
 
 **Standard:** You receive [Command Undead](ref/feat/command-undead) or
@@ -34,6 +31,9 @@ feats to add to this ability, such as [Extra Channel](ref/feat/extra-channel) an
 The DC to save against these feats is equal to 10 + 1/2 your wizard level + your Charisma modifier.
 
 **Usage:** 3 + Intelligence modifier times/day
+
+**At 20th level,** undead cannot add their [channel resistance](ref/rule/channel-resistance) to the
+save against this ability.
 
 **Grave Touch (Sp)**
 

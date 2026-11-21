@@ -28,9 +28,11 @@ touch. This effect lasts 1 minute, or 1 hour if used on yourself.
 
 **Tremorsense (Ex)**
 
-**At 12th Level:** You gain [tremorsense](ref/umr/tremorsense) 60 feet.
+**Gained:** At 6th Level
 
-**At 6th Level:** You gain [tremorsense](ref/umr/tremorsense) 30 feet.
+**Ability:** You gain [tremorsense](ref/umr/tremorsense) 30 feet.
+
+**At 12th level,** you gain [tremorsense](ref/umr/tremorsense) 60 feet.
 
 **Domain Spells**
 

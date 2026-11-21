@@ -101,9 +101,11 @@ _oneiromancy_ effect takes place when the spell is cast.
 
 **Mind Heist (Sp)**
 
+**Gained:** At 5th Level
+
 **Flavor:** You can delve into the subconscious mind of a sleeping target.
 
-**At 5th Level:** You can cast [detect thoughts](ref/spell/detect-thoughts) as a
+**Ability:** You can cast [detect thoughts](ref/spell/detect-thoughts) as a
 [spell-like ability](ref/umr/spell-like-abilities) on any adjacent sleeping creature. Additionally,
 you can gain the benefit of _[detect thoughts](ref/spell/detect-thoughts)_ on a target of your
 _dream, minor dream,_ or _[nightmare](ref/spell/nightmare)_ spells as if you had studied the target

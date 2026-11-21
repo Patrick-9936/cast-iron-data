@@ -51,16 +51,16 @@ An oracle with the Outer Rifts mystery can choose from any of the following reve
 
 **Flavor:** You call upon the cleansing or searing fires of the Outer Rifts to burn your foes.
 
-**At 1st Level:** You can use this ability once per day.
-
-**At 10th Level:** The fire's howls cause any creatures damaged by it to be
-[staggered](ref/misc/staggered) for 1 round. In addition, you can use this ability twice a day.
-
-**At 15th Level:** Creatures who fail their saves against the _balefire_ are staggered for 1d4
-rounds and [stunned](ref/misc/stunned) for 1 round.
-
 **Standard:** One target within 30 feet is wreathed in screaming flames and takes 1d6 points of fire
 damage per level. A successful Reflex save halves this damage.
+
+**At 1st level,** you can use this ability once per day.
+
+**At 10th level,** the fire's howls cause any creatures damaged by it to be
+[staggered](ref/misc/staggered) for 1 round. In addition, you can use this ability twice a day.
+
+**At 15th level,** creatures who fail their saves against the _balefire_ are staggered for 1d4
+rounds and [stunned](ref/misc/stunned) for 1 round.
 
 **Demonhide (Su)**
 

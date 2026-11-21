@@ -132,13 +132,13 @@ At 15th level: This bonus increases to +4.
 
 **Final Revelation**
 
-**Ability:** When you speak the name of a creature and a city out loud, you know whether that
-creature is in that city.
-
-**Ability2:** You can also learn about any settlement you are in at will; this functions as
-[commune with nature](ref/spell/commune-with-nature), operating only in towns and settlements rather
-than natural terrain.
+**Gained:** At 20th Level
 
 **Flavor:** You become an avatar of the city.
 
-**Gained:** At 20th Level
+**Ability:** When you speak the name of a creature and a city out loud, you know whether that
+creature is in that city.
+
+You can also learn about any settlement you are in at will; this functions as
+[commune with nature](ref/spell/commune-with-nature), operating only in towns and settlements rather
+than natural terrain.

@@ -20,16 +20,19 @@ group = "warpriest-blessing"
 
 **Agile Feet (minor)**
 
-**At 1st Level:** As a **swift action** you gain increased mobility. For 1 round, you ignore all
+**Gained:** At 1st Level
+
+**Ability:** As a **swift action** you gain increased mobility. For 1 round, you ignore all
 [difficult terrain](ref/rule/terrain-and-obstacles) (including magical terrain) and take no
 penalties for moving through it.
 
 **Dimensional Hop (major)**
 
-**At 10th Level:** You can teleport up to 20 feet as a **move action**. You can increase this
-distance by expending another use of your _blessing_ - each use spent grants an additional 20 feet.
-You must have line of sight to your destination. This teleportation doesn't provoke attacks of
-opportunity.
+**Gained:** At 10th Level
+
+**Ability:** You can teleport up to 20 feet as a **move action**. You can increase this distance by
+expending another use of your _blessing_ - each use spent grants an additional 20 feet. You must
+have line of sight to your destination. This teleportation doesn't provoke attacks of opportunity.
 
 **Special:** You can bring other willing creatures with you, but each such creature requires
 expending one additional use of your _blessing,_ regardless of the distance traveled. (For example,

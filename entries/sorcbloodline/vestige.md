@@ -107,37 +107,37 @@ item retains its abilities while gaining the benefits and drawbacks of becoming 
 they did not have the broken condition, though if they reach 0 hit points they are destroyed as
 normal.
 
-**Special:** Destroyed objects must have physical pieces left to be affected by this ability.
-Objects that leave your possession are affected normally by these conditions. This ability does not
-affect artifacts.
-
-**At 9th Level:** Destroyed objects (objects with 0 hit points) in your possession function and
+**At 9th level,** destroyed objects (objects with 0 hit points) in your possession function and
 appear as if they had only the broken condition, though if they reach a number of negative hit
 points equal to your level, they become fully destroyed and don't function at all, even in your
 possession.
 
-**At 15th Level:** Destroyed objects in your possession function and appear as if fully repaired,
+**At 15th level,** destroyed objects in your possession function and appear as if fully repaired,
 though they can become fully destroyed as described above.
+
+**Special:** Destroyed objects must have physical pieces left to be affected by this ability.
+Objects that leave your possession are affected normally by these conditions. This ability does not
+affect artifacts.
 
 **Call Ancestor (Sp)**
 
 **Gained:** At 9th Level
-
-**Special:** You cannot have more than one ancestor simulacrum active at any one time.
 
 **Standard:** Once per day, you can grant a long-dead relative a brief facsimile of life. This
 functions as the [lesser simulacrum](ref/spell/simulacrum-lesser) spell, except the simulacrum lasts
 only 1 round per sorcerer level you have, has the same statistics as you, and always has the
 likeness of an ancestor.
 
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times a day.
-
 In addition, the simulacrum has lost knowledge from the past. When summoning the simulacrum, select
 one Knowledge skill. The simulacrum is considered trained in that skill and has a bonus on Knowledge
 checks of this type equal to twice your level plus your Intelligence modifier. The simulacrum is
 under your control, but it cannot attack or take hostile actions.
+
+**At 17th level,** you can use this ability twice per day.
+
+**At 20th level,** you can use this ability three times a day.
+
+**Special:** You cannot have more than one ancestor simulacrum active at any one time.
 
 **Eternal Past (Su)**
 

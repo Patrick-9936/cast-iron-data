@@ -160,12 +160,12 @@ creatures with you, but you must expend an equal amount of distance for each cre
 
 **Final Revelation**
 
-**Ability:** In addition, you can cast _[time stop](ref/spell/time-stop)_ once per day as a
-[spell-like ability](ref/umr/spell-like-abilities).
-
 **Gained:** At 20th Level
 
 **Passive:** You become a true master of time and stop aging. You cannot be magically aged and no
 longer take penalties to your ability scores for aging. [Age bonuses](ref/rule/age) still accrue,
 and any aging penalties that you have already accrued remain in place. You cannot die of old age,
 but you can be killed or die through accident, disease, poison, or other external effects.
+
+In addition, you can cast _[time stop](ref/spell/time-stop)_ once per day as a
+[spell-like ability](ref/umr/spell-like-abilities).

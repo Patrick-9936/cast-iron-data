@@ -19,8 +19,7 @@ group = "rogue-talent"
 rogue gains a number of ki points equal to her Wisdom modifier (minimum 1). These ki points
 replenish at the start of each day.
 
-**Ability2:** She can spend a ki point to gain a +10-foot bonus to movement until the end of her
-turn.
+She can spend a ki point to gain a +10-foot bonus to movement until the end of her turn.
 
 **Special:** If she already has a ki pool, or gains a ki pool later, she gains half her Wisdom bonus
 (minimum 1) as bonus ki points to her ki pool.

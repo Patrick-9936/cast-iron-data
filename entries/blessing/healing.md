@@ -23,17 +23,19 @@ group = "warpriest-blessing"
 
 **Powerful Healer (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can add power to a cure spell as you cast it.
 
-**At 1st Level:** As a **swift action**, you can treat any _cure_ spell as if it were empowered (as
-the [Empower Spell](ref/feat/empower-spell) feat), causing it to heal 50% more damage (or deal 50%
-more damage if used against undead). This ability doesn't stack with itself or the Empower Spell
-feat.
+**Ability:** As a **swift action**, you can treat any _cure_ spell as if it were empowered (as the
+[Empower Spell](ref/feat/empower-spell) feat), causing it to heal 50% more damage (or deal 50% more
+damage if used against undead). This ability doesn't stack with itself or the Empower Spell feat.
 
 **Fast Healing (major)**
 
-**At 10th Level:** You can touch an ally and grant it [fast healing](ref/umr/fast-healing) 3 for 1
-minute.
+**Gained:** At 10th Level
+
+**Ability:** You can touch an ally and grant it [fast healing](ref/umr/fast-healing) 3 for 1 minute.
 
 ### Restoration
 

@@ -144,8 +144,8 @@ ability upon having access to the true version of that spirit.
 **Ability:** The shaman can cast a harmless spell with a range of touch on a member of her _tribal
 bond_ as long as that creature is within 30 feet.
 
-**Passive:** In addition, she is constantly aware of the condition of all members of her _tribal
-bond_ ability, as [status](ref/spell/status).
+In addition, she is constantly aware of the condition of all members of her _tribal bond_ ability,
+as [status](ref/spell/status).
 
 **Usage:** Charisma modifier times/day
 

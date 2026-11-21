@@ -18,5 +18,5 @@ group = "vigilante-talent"
 if he doesn't meet the prerequisites. If he already has Combat Expertise, he instead gains another
 feat he qualified for at the level when he chose Combat Expertise.
 
-**Passive:** If the vigilante's Intelligence score is less than 13, it counts as 13 for the purpose
-of meeting the prerequisites of combat feats.
+If the vigilante's Intelligence score is less than 13, it counts as 13 for the purpose of meeting
+the prerequisites of combat feats.

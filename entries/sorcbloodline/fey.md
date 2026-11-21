@@ -97,15 +97,15 @@ this ability at will.
 
 **Soul of the Fey (Su)**
 
-**Ability:** Once per day, you can cast [shadow walk](ref/spell/shadow-walk) as a
-[spell-like ability](ref/umr/spell-like-abilities) using your sorcerer level as your caster level.
+**Gained:** At 20th Level
 
 **Flavor:** Your soul becomes one with the world of the fey.
 
-**Gained:** At 20th Level
-
 **Passive:** You gain immunity to poison and DR 10/cold iron. Creatures of the animal type do not
 attack you unless compelled to do so through magic.
+
+Once per day, you can cast [shadow walk](ref/spell/shadow-walk) as a
+[spell-like ability](ref/umr/spell-like-abilities) using your sorcerer level as your caster level.
 
 ### Dark Fey (Wildblooded Mutation)
 

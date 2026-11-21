@@ -157,13 +157,13 @@ also gains a +10 competence bonus on all Knowledge, Linguistics, and Spellcraft 
 
 **Manifestation**
 
-**Ability:** She can take 20 on all Knowledge skill checks, including those she isn't trained in.
-
-**Ability2:** Her understanding of the fundamental underpinnings of reality has also become so
-advanced that she can cast [wish](ref/spell/wish) once per day. This doesn't require a material
-component, but the wish cannot be used to grant ability score bonuses or replicate spells with
-expensive material components.
+**Gained:** At 20th Level
 
 **Flavor:** The shaman becomes an unending font of knowledge and lore.
 
-**Gained:** At 20th Level
+**Ability:** She can take 20 on all Knowledge skill checks, including those she isn't trained in.
+
+Her understanding of the fundamental underpinnings of reality has also become so advanced that she
+can cast [wish](ref/spell/wish) once per day. This doesn't require a material component, but the
+wish cannot be used to grant ability score bonuses or replicate spells with expensive material
+components.

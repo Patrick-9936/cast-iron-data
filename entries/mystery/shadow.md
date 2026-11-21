@@ -206,13 +206,13 @@ in 1-minute increments
 
 **Final Revelation**
 
-**Ability:** Any spells you cast of the shadow subschool or with the darkness descriptor are
-automatically [enlarged](ref/feat/enlarge-spell) without affecting their spell level.
+**Gained:** At 20th Level
 
 **Flavor:** Your body becomes permanently suffused with the essence of the Shadow Plane.
-
-**Gained:** At 20th Level
 
 **Passive:** You gain [regeneration](ref/umr/regeneration) 5 while in dim light or darkness and
 immunity to cold, critical hits, and sneak attacks. Your regeneration is suppressed while in any
 level of illumination brighter than dim light.
+
+Any spells you cast of the shadow subschool or with the darkness descriptor are automatically
+[enlarged](ref/feat/enlarge-spell) without affecting their spell level.

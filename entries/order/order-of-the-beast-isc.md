@@ -57,16 +57,18 @@ level.
 
 **Vandal (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** The cavalier gains [Improved Sunder](ref/feat/improved-sunder) as a bonus feat. In
 addition, when dealing damage to objects (including when using the [sunder](ref/rule/sunder) combat
 maneuver), he adds half his cavalier level to the damage roll.
 
-**Ability2:** If an order of the beast cavalier successfully breaks an object, he receives a +2
-morale bonus on all attack rolls until the end of his next turn.
-
-**Gained:** At 2nd Level
+If an order of the beast cavalier successfully breaks an object, he receives a +2 morale bonus on
+all attack rolls until the end of his next turn.
 
 **Havoc (Ex)**
+
+**Gained:** At 8th Level
 
 **Ability:** The cavalier's mount gains the [trample](ref/umr/trample) monster special ability. If
 the cavalier's mount has trample from another source, damage from the mount's trample attack instead
@@ -74,10 +76,8 @@ increases as though the mount were one size category larger (see
 [Natural Attacks](ref/rule/natural-attacks)); this does not alter the damage dealt by the mount's
 slam attack.
 
-**Gained:** At 8th Level
-
-**Passive:** A creature that attempts a Reflex saving throw to avoid damage from the mount's trample
-attack provokes an attack of opportunity from the cavalier.
+A creature that attempts a Reflex saving throw to avoid damage from the mount's trample attack
+provokes an attack of opportunity from the cavalier.
 
 **Unstoppable Ravager (Ex)**
 

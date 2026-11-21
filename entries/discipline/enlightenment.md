@@ -88,7 +88,9 @@ point from your phrenic pool to roll the check twice and take the higher result.
 
 **Focused Trance (Ex)**
 
-**At 5th Level:** You can enter a deep meditation, allowing you to concentrate on a single problem,
+**Gained:** At 5th Level
+
+**Ability:** You can enter a deep meditation, allowing you to concentrate on a single problem,
 philosophical issue, or memory. This trance lasts 1d6 rounds, during which time you can take only
 move actions and gain a bonus equal to your psychic level on all saves against sonic effects and
 [gaze](ref/umr/gaze) attacks. When you come out of your trance, you can attempt a single
@@ -99,8 +101,10 @@ circumstance bonus.
 
 **Empty Mind (Su)**
 
+**Gained:** At 13th Level
+
 **Flavor:** You can clear your mind by focusing on a sense of emptiness, purging yourself of doubt
 and discomfort.
 
-**At 13th Level:** You can spend 1 point from your phrenic pool on your turn as a **free action** to
+**Ability:** You can spend 1 point from your phrenic pool on your turn as a **free action** to
 remove the blinded, confused, dazed, deafened, staggered, or stunned condition from yourself.

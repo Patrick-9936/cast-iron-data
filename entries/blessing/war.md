@@ -20,16 +20,20 @@ group = "warpriest-blessing"
 
 **War Mind (minor)**
 
-**At 1st Level:** You can touch an ally and grant it a tactical advantage for 1 minute. At the start
-of its turn each round, it can select one of the following bonuses: +10 feet to base land speed, +1
+**Gained:** At 1st Level
+
+**Ability:** You can touch an ally and grant it a tactical advantage for 1 minute. At the start of
+its turn each round, it can select one of the following bonuses: +10 feet to base land speed, +1
 dodge bonus to AC, +1 insight bonus on attack rolls, or a +1 luck bonus on saving throws. Each bonus
 selected lasts for 1 round.
 
 **Battle Lust (major)**
 
+**Gained:** At 10th Level
+
 **Flavor:** You can touch an ally and grant it a thirst for battle.
 
-**At 10th Level:** All of the ally's melee attacks are treated as if they had the
+**Ability:** All of the ally's melee attacks are treated as if they had the
 [vicious](ref/magic-enh/vicious) weapon special ability, but the additional damage dealt to the ally
 from that special ability is nonlethal. In addition, the ally receives a +4 insight bonus on attack
 rolls made to confirm critical hits. These benefits last for 1 minute.

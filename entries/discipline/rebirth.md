@@ -86,11 +86,13 @@ time you gain a new level.
 
 **Resurgence (Su)**
 
-**At 10th Level:** This ability's healing increases to 3d8 + your psychic level.
+**Gained:** At 5th Level
 
-**At 5th Level:** When you would be reduced to 0 hit points or fewer by an attack, you can spend 2
-points from your phrenic pool as an **immediate action** to regain a number of hit points equal to
-1d8 points of damage + your psychic level.
+**Ability:** When you would be reduced to 0 hit points or fewer by an attack, you can spend 2 points
+from your phrenic pool as an **immediate action** to regain a number of hit points equal to 1d8
+points of damage + your psychic level.
+
+**At 10th level,** this ability's healing increases to 3d8 + your psychic level.
 
 **Special:** If this healing is insufficient to bring you above negative hit points, you are
 automatically [stabilized](ref/misc/stable). If you would still be killed by the amount of damage
@@ -99,7 +101,9 @@ taken, you erupt with positive energy and heal all allies within 30-foot-radius
 
 **Physical Regression (Sp)**
 
-**At 13th Level:** You can spend 2 points from your phrenic pool as a **standard action** once per
-day to take on the form of one of your previous incarnations. This ability functions as the
+**Gained:** At 13th Level
+
+**Ability:** You can spend 2 points from your phrenic pool as a **standard action** once per day to
+take on the form of one of your previous incarnations. This ability functions as the
 [polymorph](ref/spell/polymorph) spell, but its range is personal and its duration becomes 10
 minutes per caster level.

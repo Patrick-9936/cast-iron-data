@@ -89,21 +89,25 @@ regain consciousness.
 
 **Ferocity (Ex)**
 
+**Gained:** At 5th Level
+
 **Flavor:** You cling to life with increasing ferocity.
 
-**At 5th Level:** You gain [ferocity](ref/umr/ferocity) as per the universal monster rule. Whenever
-you have 0 hit points or negative hit points, you gain a +4 morale bonus to your Strength and
-Dexterity, as well as a +2 morale bonus on Fortitude saves.
+**Ability:** You gain [ferocity](ref/umr/ferocity) as per the universal monster rule. Whenever you
+have 0 hit points or negative hit points, you gain a +4 morale bonus to your Strength and Dexterity,
+as well as a +2 morale bonus on Fortitude saves.
 
-**At 8th Level:** You are not [staggered](ref/misc/staggered) when you have 0 hit points or negative
+**At 8th level,** you are not [staggered](ref/misc/staggered) when you have 0 hit points or negative
 hit points, and you automatically stabilize when you have negative hit points.
 
 **Primal Fury (Su)**
 
-**At 13th Level:** You can unleash a more primal version of yourself as a **free action**. This
-functions as [transformation](ref/spell/transformation), with the following exceptions. You can use
-this ability for a number of rounds per day equal to your psychic level. These rounds do not need to
-be consecutive. You can end the effect as a **free action**. After using this ability, you are
+**Gained:** At 13th Level
+
+**Ability:** You can unleash a more primal version of yourself as a **free action**. This functions
+as [transformation](ref/spell/transformation), with the following exceptions. You can use this
+ability for a number of rounds per day equal to your psychic level. These rounds do not need to be
+consecutive. You can end the effect as a **free action**. After using this ability, you are
 [fatigued](ref/misc/fatigued) for a number of rounds equal to twice the number of rounds spent in
 _primal fury._ You cannot enter a new _primal fury_ while fatigued or
 [exhausted](ref/misc/exhausted). If you fall [unconscious](ref/misc/unconscious), your _primal fury_

@@ -127,14 +127,16 @@ ability.
 
 **Battle Spirit (Su)**
 
+**Gained:** At 8th Level
+
 **Flavor:** A shaman surrounds herself with the spirit of battle. Allies within 30 feet of the
 shaman (including the shaman) receive a +1 morale bonus on attack rolls and weapon damage rolls.
 
+**Ability:** This bonus increases to +2.
+
 **Usage:** 3 + Charisma modifier rounds/day
 
-At 8th level: This bonus increases to +2.
-
-At 16th level: This bonus increases to +3.
+**At 16th level,** this bonus increases to +3.
 
 ### Greater Spirit Ability
 

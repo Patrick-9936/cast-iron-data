@@ -38,11 +38,13 @@ foe, the fire bolt deals an amount of fire damage equal to 1d6 +
 
 **Fire Resistance (Ex)**
 
-**At 12th Level:** Your resistance increases to 20.
+**Gained:** At 6th Level
 
-**At 20th Level:** You gain [immunity](ref/umr/immunity) to fire.
+**Ability:** You gain [resist](ref/umr/resistance) fire 10.
 
-**At 6th Level:** You gain [resist](ref/umr/resistance) fire 10.
+**At 12th level,** your resistance increases to 20.
+
+**At 20th level,** you gain [immunity](ref/umr/immunity) to fire.
 
 **Domain Spells**
 

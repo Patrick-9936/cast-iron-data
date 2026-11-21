@@ -27,8 +27,10 @@ that allow a saving throw.
 
 **Tactical Readiness (major)**
 
-**At 10th Level:** You can rally your allies within 30 feet, allowing each to immediately do one of
-the following as a free action that does not provoke attacks of opportunity: remove the
+**Gained:** At 10th Level
+
+**Ability:** You can rally your allies within 30 feet, allowing each to immediately do one of the
+following as a free action that does not provoke attacks of opportunity: remove the
 [flat-footed](ref/rule/flat-footed) condition, [take a 5-foot step](ref/rule/take-5-foot-step), draw
 a weapon, ready a shield, or gain a +1 dodge bonus to AC for 1 round. You can affect a number of
 allies equal to your Wisdom bonus. These actions do not count against your allies' total movement or

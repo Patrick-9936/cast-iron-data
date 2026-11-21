@@ -144,16 +144,16 @@ effect.
 
 **Timeless Soul (Ex)**
 
-**Ability:** In addition, when applying the [Quicken Spell](ref/feat/quicken-spell) metamagic feat
-to a spell, it uses up a spell slot only 3 levels higher than the spell's actual level. This ability
-does not stack with other abilities that would reduce the spell's final adjusted level.
+**Gained:** At 20th Level
 
 **Flavor:** The silver skies and conduits of the Astral Plane are permanently connected to you.
-
-**Gained:** At 20th Level
 
 **Passive:** You become immune to the retroactive aging side effects incurred when leaving a plane
 with the [timeless planar trait](ref/rule/time-traits). You do not gain negative levels when slain
 on the Astral Plane while using _[astral projection](ref/spell/astral-projection),_ and any effect
 that would sever your silver cord instead returns you to your physical body if you succeed at a Will
 save (DC = 10 + the CR of the creature or caster level of the effect that severed the cord).
+
+In addition, when applying the [Quicken Spell](ref/feat/quicken-spell) metamagic feat to a spell, it
+uses up a spell slot only 3 levels higher than the spell's actual level. This ability does not stack
+with other abilities that would reduce the spell's final adjusted level.

@@ -33,12 +33,12 @@ this form, you gain a swim speed of 30 feet, [low-light vision](ref/rule/low-lig
 electricity [resistance](ref/umr/resistance) 5, a [bite attack](ref/umr/natural-attacks) (1d6), and
 a tail attack (a secondary natural touch attack that deals 1d6 points of electricity damage).
 
-**At 15th Level:** On a critical hit with your tail attack, the creature struck must succeed at a
+**At 8th level,** your electricity resistance increases to 10 and you gain a +4 racial bonus on
+Escape Artist checks.
+
+**At 15th level,** on a critical hit with your tail attack, the creature struck must succeed at a
 Fortitude save (DC = 10 + half your shifter level + your Constitution modifier) or be
 [stunned](ref/misc/stunned) for 1d4 rounds.
-
-**At 8th Level:** Your electricity resistance increases to 10 and you gain a +4 racial bonus on
-Escape Artist checks.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

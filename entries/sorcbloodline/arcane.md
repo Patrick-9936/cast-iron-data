@@ -59,15 +59,15 @@ overwhelming you.
 
 **Arcane Bond (Su)**
 
+**Gained:** At 1st Level
+
 **Ability:** You gain an _arcane bond,_ as a [wizard](ref/class/wizard) equal to your sorcerer
 level. Your sorcerer levels stack with any wizard levels you possess when determining the powers of
 your familiar or bonded object. This ability does not allow you to have both a familiar and a bonded
 item.
 
-**Ability2:** Once per day, your _bonded item_ allows you to cast any one of your spells known
-(unlike a wizard's bonded item, which allows him to cast any one spell in his spellbook).
-
-**Gained:** At 1st Level
+Once per day, your _bonded item_ allows you to cast any one of your spells known (unlike a wizard's
+bonded item, which allows him to cast any one spell in his spellbook).
 
 **Metamagic Adept (Ex)**
 
@@ -98,16 +98,16 @@ known. This spell must be of a level that you are capable of casting.
 
 **Arcane Apotheosis (Ex)**
 
-**Ability:** You can add any metamagic feats that you know to your spells without increasing their
-casting time, although you must still expend higher-level spell slots.
-
-**Ability2:** Whenever you use magic items that require charges, you can instead expend spell slots
-to power the item. For every three levels of spell slots that you expend, you consume one less
-charge when using a magic item that expends charges.
+**Gained:** At 20th Level
 
 **Flavor:** Your body surges with arcane power.
 
-**Gained:** At 20th Level
+**Ability:** You can add any metamagic feats that you know to your spells without increasing their
+casting time, although you must still expend higher-level spell slots.
+
+Whenever you use magic items that require charges, you can instead expend spell slots to power the
+item. For every three levels of spell slots that you expend, you consume one less charge when using
+a magic item that expends charges.
 
 ### Sage (Wildblooded Mutation)
 

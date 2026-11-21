@@ -83,9 +83,11 @@ hours. You regain 1 point in your phrenic pool each time you successfully drain 
 
 **Emotionally Distant**
 
+**Gained:** At 5th Level
+
 **Flavor:** Your emotions have atrophied such that you rarely have any genuine feelings at all.
 
-**At 5th Level:** You gain a +4 bonus on saving throws to resist charm, emotion, and fear effects.
+**Ability:** You gain a +4 bonus on saving throws to resist charm, emotion, and fear effects.
 
 **Drain Vibrancy**
 

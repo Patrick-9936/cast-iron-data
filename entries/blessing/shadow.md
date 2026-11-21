@@ -20,10 +20,12 @@ group = "warpriest-blessing"
 
 **Flicker of Shadows (minor)**
 
-**At 1st Level:** You can cause a weapon you touch to warp and become insubstantial for a split
-second before an attack. The first attack made with this weapon each round ignores any shield bonus
-to Armor Class, as well as bonuses from [cover](ref/rule/cover). Total cover still provides a
-creature its full benefit. This effect lasts for 1 minute.
+**Gained:** At 1st Level
+
+**Ability:** You can cause a weapon you touch to warp and become insubstantial for a split second
+before an attack. The first attack made with this weapon each round ignores any shield bonus to
+Armor Class, as well as bonuses from [cover](ref/rule/cover). Total cover still provides a creature
+its full benefit. This effect lasts for 1 minute.
 
 **Swift as Shadow (major)**
 

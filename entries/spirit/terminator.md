@@ -37,12 +37,12 @@ captured, or surrendered foes, regardless of extenuating circumstances.
 
 **Bloodless (Su)**
 
-**Ability:** You can allow the Terminator to gain 1 point of influence over you to automatically end
-any [bleed](ref/umr/bleed) or [blood drain](ref/umr/blood-drain) effect or effect with the pain
-descriptor. Doing so is not an action, so you can do this even if you are unconscious.
-
 **Passive:** You automatically [stabilize](ref/misc/stable) when at negative hit points, and you are
 killed only if your negative hit point total exceeds double your Constitution score.
+
+You can allow the Terminator to gain 1 point of influence over you to automatically end any
+[bleed](ref/umr/bleed) or [blood drain](ref/umr/blood-drain) effect or effect with the pain
+descriptor. Doing so is not an action, so you can do this even if you are unconscious.
 
 ### Intermediate Spirit Power
 

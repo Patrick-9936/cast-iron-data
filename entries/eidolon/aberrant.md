@@ -35,26 +35,28 @@ serpentine (bite, grab \[bite\], [reach](ref/unchevolution/reach) \[bite\],
 
 **Base Evolutions**
 
-**At 1st Level:** Aberrant eidolons gain the following class skills in place of those normally
-gained by eidolons: [Escape Artist](ref/skill/escape-artist); [Intimidate](ref/skill/intimidate);
+**Gained:** At 1st Level
+
+**Ability:** Aberrant eidolons gain the following class skills in place of those normally gained by
+eidolons: [Escape Artist](ref/skill/escape-artist); [Intimidate](ref/skill/intimidate);
 [Knowledge](ref/skill/knowledge-all) (pick one); [Perception](ref/skill/perception);
 [Stealth](ref/skill/stealth); and [Climb](ref/skill/climb), [Fly](ref/skill/fly), or
 [Swim](ref/skill/swim) (pick one). The summoner can choose four additional skills to be class skills
 for his eidolon. Aberrant eidolons count as both aberrations and outsiders for spells and effects.
 They gain a +4 racial bonus on saving throws against mind-affecting effects.
 
-**At 12th Level:** Aberrant eidolons gain DR 5/slashing. They also gain the
+**At 4th level,** aberrant eidolons add 1 point to their evolution pools.
+
+**At 8th level,** aberrant eidolons gain immunity to mind-affecting effects (including morale
+bonuses).
+
+**At 12th level,** aberrant eidolons gain DR 5/slashing. They also gain the
 [blindsense](ref/unchevolution/blindsense) evolution as a bonus evolution.
 
-**At 16th Level:** Aberrant eidolons gain the [blindsight](ref/unchevolution/blindsight) evolution.
+**At 16th level,** aberrant eidolons gain the [blindsight](ref/unchevolution/blindsight) evolution.
 They also gain [telepathy](ref/umr/telepathy) with a range of up to 100 feet.
 
-**At 20th Level:** Aberrant eidolons gain the ability to use [transmogrify](ref/spell/transmogrify)
+**At 20th level,** aberrant eidolons gain the ability to use [transmogrify](ref/spell/transmogrify)
 as a [quickened spell-like ability](ref/feat/quicken-spell-like-ability) once per day. These
 eidolons can gain the benefit of a _[transmogrify](ref/spell/transmogrify)_ spell any number of
 times per day.
-
-**At 4th Level:** Aberrant eidolons add 1 point to their evolution pools.
-
-**At 8th Level:** Aberrant eidolons gain immunity to mind-affecting effects (including morale
-bonuses).

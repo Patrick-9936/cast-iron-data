@@ -96,28 +96,28 @@ for half damage.
 
 **Superior Transformation (Su)**
 
-**Ability:** Once per day when you cast a polymorph spell on yourself, in addition to the normal
-effects of the spell, you can choose to gain a fly speed of 60 feet (average maneuverability), a
-swim speed of 60 feet, or an increase to your base land speed of 30 feet.
+**Gained:** At 15th Level
 
 **Flavor:** You become master of your own shape and you fully understand the intricacies of all
 shapechanging magic.
 
-**Gained:** At 15th Level
+**Ability:** Once per day when you cast a polymorph spell on yourself, in addition to the normal
+effects of the spell, you can choose to gain a fly speed of 60 feet (average maneuverability), a
+swim speed of 60 feet, or an increase to your base land speed of 30 feet.
 
-**Passive:** You are immune to polymorph effects unless you are a willing target.
+You are immune to polymorph effects unless you are a willing target.
 
 **Amorphous Anatomy (Su)**
 
-**Ability:** You gain [blindsight](ref/umr/blindsight) with a range of 60 feet.
+**Gained:** At 20th Level
 
 **Flavor:** Your vital organs shift position, and as a rule they are constantly changing their shape
 and size to best protect you.
 
-**Gained:** At 20th Level
-
 **Passive:** You gain immunity to critical hits and sneak attacks and also
 [damage reduction](ref/rule/damage-reduction) 5/-.
+
+You gain [blindsight](ref/umr/blindsight) with a range of 60 feet.
 
 **Special:** You automatically recover from physical [blindness](ref/misc/blinded) or
 [deafness](ref/misc/deafened) after 1 round by growing new sensory organs to replace the compromised

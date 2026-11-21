@@ -19,12 +19,14 @@ group = "warpriest-blessing"
 
 **Animal Fury (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch one ally and grant it feral features.
 
-**At 1st Level:** The ally gains 2 claw attacks that each deal 1d6 points of damage if the ally is
-Medium or 1d4 if it's Small, or 1 bite attack that deals 1d8 points of damage if the ally is Medium
-or 1d6 if it's Small. These are primary [natural attacks](ref/umr/natural-attacks) that replace any
-similar primary natural attacks the ally might have. This effect lasts for 1 minute.
+**Ability:** The ally gains 2 claw attacks that each deal 1d6 points of damage if the ally is Medium
+or 1d4 if it's Small, or 1 bite attack that deals 1d8 points of damage if the ally is Medium or 1d6
+if it's Small. These are primary [natural attacks](ref/umr/natural-attacks) that replace any similar
+primary natural attacks the ally might have. This effect lasts for 1 minute.
 
 **Battle Companion (major)**
 

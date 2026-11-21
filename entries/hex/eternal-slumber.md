@@ -19,9 +19,9 @@ creature receives a Will save to negate this effect. If the save fails, the crea
 and cannot be woken. The effect can only be removed with a [wish](ref/spell/wish) or similar magic,
 although slaying the witch ends the effect.
 
-**Ability2:** The witch can use this ability to poison food or drink, causing those who ingest it to
-make a save or fall into an _eternal slumber._ She can only have one such dose of poison at any one
-time, and it loses its potency after 1 minute if not consumed.
+The witch can use this ability to poison food or drink, causing those who ingest it to make a save
+or fall into an _eternal slumber._ She can only have one such dose of poison at any one time, and it
+loses its potency after 1 minute if not consumed.
 
 **Special:** Whether or not the save is successful, a creature cannot be the target of this hex
 again for 1 day.

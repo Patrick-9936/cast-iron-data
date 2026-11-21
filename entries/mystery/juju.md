@@ -152,16 +152,16 @@ and cause them to behave erratically for a number of rounds equal to your oracle
 
 **Final Revelation**
 
-**Ability:** Once per day, you may cast [extended](ref/feat/extend-spell)
-[dominate monster](ref/spell/dominate-monster) as a
-[spell-like ability](ref/umr/spell-like-abilities). With this ability, you may dominate a number of
-creatures equal to double your Charisma modifier.
+**Gained:** At 20th Level
 
 **Flavor:** You become a master of the connections between the mortal world and the spirit world.
 Your knowledge enables you to gain incredible insight and control over others by manipulating
 spiritual energy.
 
-**Gained:** At 20th Level
+**Ability:** Once per day, you may cast [extended](ref/feat/extend-spell)
+[dominate monster](ref/spell/dominate-monster) as a
+[spell-like ability](ref/umr/spell-like-abilities). With this ability, you may dominate a number of
+creatures equal to double your Charisma modifier.
 
-**Passive:** You gain an insight bonus equal to your Charisma modifier to your AC and on all saving
-throws and [Knowledge](ref/skill/knowledge-all) checks.
+You gain an insight bonus equal to your Charisma modifier to your AC and on all saving throws and
+[Knowledge](ref/skill/knowledge-all) checks.

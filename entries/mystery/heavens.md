@@ -87,13 +87,13 @@ had cast [weird](ref/spell/weird).
 
 **Ability:** Whenever you can see the open sky at night, you can determine your precise location.
 
-**Ability2:** Once per night while outdoors, you can cast one spell as if it were modified by the
+When the night sky is visible to you, you may also add your Charisma modifier to your Wisdom
+modifier on all Wisdom-based checks.
+
+Once per night while outdoors, you can cast one spell as if it were modified by the
 [Empower Spell](ref/feat/empower-spell), [Extend Spell](ref/feat/extend-spell),
 [Silent Spell](ref/feat/silent-spell), or [Still Spell](ref/feat/still-spell) feat without
 increasing the spell's casting time or level.
-
-**Passive:** When the night sky is visible to you, you may also add your Charisma modifier to your
-Wisdom modifier on all Wisdom-based checks.
 
 **Interstellar Void (Su)**
 
@@ -114,16 +114,18 @@ for every oracle level you possess. A successful Fortitude save halves this dama
 
 **Lure of the Heavens (Su)**
 
+**Gained:** At 1st Level
+
 **Flavor:** Your connection to the skies above is so strong that your feet barely touch the ground.
 
-**At 1st Level:** You no longer leave tracks.
+**Ability:** You no longer leave tracks.
 
-**At 10th Level:** You gain the ability to [fly](ref/spell/fly), as per the spell, for a number of
+**At 5th level,** you can hover up to 6 inches above the ground or even above liquid surfaces, as if
+[levitating](ref/spell/levitate).
+
+**At 10th level,** you gain the ability to [fly](ref/spell/fly), as per the spell, for a number of
 minutes per day equal to your oracle level. This duration does not need to be consecutive, but it
 must be spent in 1-minute increments.
-
-**At 5th Level:** You can hover up to 6 inches above the ground or even above liquid surfaces, as if
-[levitating](ref/spell/levitate).
 
 **Mantle of Moonlight (Su)**
 

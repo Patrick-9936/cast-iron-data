@@ -52,8 +52,7 @@ you to seek greater power.
 [darkvision](ref/rule/darkvision) 60 feet and [light sensitivity](ref/umr/light-sensitivity). If you
 already have darkvision, its range increases to 90 feet.
 
-**Passive:** Whenever you cast a spell that deals damage, that spell deals +1 point of damage per
-die rolled.
+Whenever you cast a spell that deals damage, that spell deals +1 point of damage per die rolled.
 
 ### Bloodline Powers
 
@@ -102,11 +101,11 @@ to your normal size as a **standard action**.
 
 **Warlord Reborn (Su)**
 
-**Ability:** Once per day, you can cast _[transformation](ref/spell/transformation)_ as a
-[spell-like ability](ref/umr/spell-like-abilities) using your sorcerer level as your caster level.
+**Gained:** At 20th Level
 
 **Flavor:** You become a true orc warlord of legend.
 
-**Gained:** At 20th Level
-
 **Passive:** You gain immunity to fire and DR 5/-.
+
+Once per day, you can cast _[transformation](ref/spell/transformation)_ as a
+[spell-like ability](ref/umr/spell-like-abilities) using your sorcerer level as your caster level.

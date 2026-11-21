@@ -75,20 +75,23 @@ points you can regain in your phrenic pool in this way per day is equal to your 
 
 **Attune Implants (Su)**
 
-**At 5th Level:** You can spend a **full-round action** once per day to harness and channel the
-power of your cybernetic implants into your psychic spellcasting. This increases the saving throw
-DCs of your psychic spells by 1, and the increase lasts a number of minutes equal to your psychic
-level.
+**Gained:** At 5th Level
+
+**Ability:** You can spend a **full-round action** once per day to harness and channel the power of
+your cybernetic implants into your psychic spellcasting. This increases the saving throw DCs of your
+psychic spells by 1, and the increase lasts a number of minutes equal to your psychic level.
 
 **Special:** You must have at least one piece of cybertech implanted in you to use this ability.
 Additional implants do not increase the duration or the number of uses of this discipline ability.
 
 **Dominate Technology (Sp)**
 
+**Gained:** At 13th Level
+
 **Flavor:** You can meld your mind with a piece of technology and temporarily control it, even if
 you had no hand in creating it or anything like it.
 
-**At 13th Level:** Once per day, you can target one construct with
+**Ability:** Once per day, you can target one construct with
 [control construct](ref/spell/control-construct) (as per the spell), except the DC of the
 [Spellcraft](ref/skill/spellcraft) check each round to maintain control of the construct is equal to
 15 + the construct's HD. If you must attempt opposed Spellcraft checks against the construct's

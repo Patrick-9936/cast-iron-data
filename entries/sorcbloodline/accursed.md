@@ -49,13 +49,13 @@ upon your kin in generations past. Now the hag's powers are part of your heritag
 
 **Bloodline Arcana**
 
-**Ability:** In addition, whenever you are within 30 feet of another sorcerer with this bloodline or
-a [witch](ref/class/witch) with the [coven](ref/hex/coven) hex, you can use the
-[aid another](ref/rule/aid-another-2) action to grant a +1 bonus to the other spellcaster's caster
-level for 1 round.
-
 **Passive:** You count as a hag for the purpose of joining a hag's coven. The coven must contain at
 least one hag.
+
+In addition, whenever you are within 30 feet of another sorcerer with this bloodline or a
+[witch](ref/class/witch) with the [coven](ref/hex/coven) hex, you can use the
+[aid another](ref/rule/aid-another-2) action to grant a +1 bonus to the other spellcaster's caster
+level for 1 round.
 
 ### Bloodline Powers
 

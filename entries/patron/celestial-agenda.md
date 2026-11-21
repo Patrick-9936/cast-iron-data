@@ -16,14 +16,13 @@ group = "witch-patron"
 
 **Ability:** You gain the [ward](ref/hex/ward) hex at 1st level.
 
+Your patron holds you to a higher standard: you must be of good alignment, and you take a -2 penalty
+on Bluff, Intimidate, Sleight of Hand, and other skill checks to deceive or threaten others.
+
 **Info:** While good deities and empyreal lords have organized faiths to carry out their wills,
 powerfully ranked [agathions](ref/family/agathion), [angels](ref/family/angel), and
 [archons](ref/family/archon) - and occasional intersectional councils of good outsiders - sometimes
 invest white witches with celestial might to defend the weak and heal the sick.
-
-**Passive:** Your patron holds you to a higher standard: you must be of good alignment, and you take
-a -2 penalty on Bluff, Intimidate, Sleight of Hand, and other skill checks to deceive or threaten
-others.
 
 **Spells:** Castigate (4th)
 

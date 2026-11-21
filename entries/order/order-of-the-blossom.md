@@ -85,14 +85,14 @@ seven times per day, and he adds [charm monster](ref/spell/charm-monster) and
 
 **Curse of the First World (Su)**
 
-**Ability:** In addition, whenever he confirms a critical hit against a target under an enchantment
-effect, that target is [confused](ref/misc/confused) for 1d6 rounds. Each round the confused
-creature rolls to determine its action, it rolls twice and the cavalier chooses which result to use.
-This is a mind-affecting effect.
+**Gained:** At 15th Level
 
 **Flavor:** An order of the blossom cavalier channels pandemonium through his weapon.
 
-**Gained:** At 15th Level
-
 **Passive:** His melee attacks count as chaotic-aligned for the purpose of overcoming
 [damage reduction](ref/rule/damage-reduction).
+
+In addition, whenever he confirms a critical hit against a target under an enchantment effect, that
+target is [confused](ref/misc/confused) for 1d6 rounds. Each round the confused creature rolls to
+determine its action, it rolls twice and the cavalier chooses which result to use. This is a
+mind-affecting effect.

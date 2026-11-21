@@ -26,7 +26,8 @@ against attacks of opportunity.
 
 **Fiery Wake (major)**
 
-**At 10th Level:** When you move, you can use a **swift action** to invoke a blazing blessing on
-yourself. For the rest of your turn, your movement leaves behind a 10-foot-tall wall of opaque fire
-in your path. The wall burns for 1 minute. A creature that touches the wall takes 2d6 points of fire
-damage.
+**Gained:** At 10th Level
+
+**Ability:** When you move, you can use a **swift action** to invoke a blazing blessing on yourself.
+For the rest of your turn, your movement leaves behind a 10-foot-tall wall of opaque fire in your
+path. The wall burns for 1 minute. A creature that touches the wall takes 2d6 points of fire damage.

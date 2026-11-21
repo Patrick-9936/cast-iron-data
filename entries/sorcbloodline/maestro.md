@@ -86,13 +86,13 @@ At 18th level: You may use this ability 4 times per day.
 
 **Perfect Voice (Su)**
 
+**Gained:** At 9th Level
+
 **Ability:** You understand all efforts to communicate through sound, and can make yourself
 understood to any creature able to understand language. You can speak to, and understand the speech
 of, any creature that understands at least one spoken language.
 
-**Gained:** At 9th Level
-
-**Passive:** The save DCs of language-dependent spells you cast increase by +1.
+The save DCs of language-dependent spells you cast increase by +1.
 
 **Inspire (Sp)**
 
@@ -109,12 +109,12 @@ At 19th level: You may use this ability 3 times per day.
 
 **Grand Maestro (Su)**
 
+**Gained:** At 20th Level
+
+**Flavor:** The power of pure magic music flows through you.
+
 **Ability:** You cast any spell with a verbal component as if it had the
 [Still Spell](ref/feat/still-spell) metamagic feat applied to it, with no increase to the casting
 time or spell slot required to cast it.
 
-**Flavor:** The power of pure magic music flows through you.
-
-**Gained:** At 20th Level
-
-**Passive:** You gain immunity to sonic damage and language-dependent spells.
+You gain immunity to sonic damage and language-dependent spells.

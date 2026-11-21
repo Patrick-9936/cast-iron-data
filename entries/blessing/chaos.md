@@ -21,10 +21,12 @@ group = "warpriest-blessing"
 
 **Anarchic Strike (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch one weapon and grant it a chaotic blessing.
 
-**At 1st Level:** For 1 minute, the touched weapon glows yellow or purple and deals an additional
-1d6 points of damage against lawful creatures. During this time, it's treated as chaotic for the
+**Ability:** For 1 minute, the touched weapon glows yellow or purple and deals an additional 1d6
+points of damage against lawful creatures. During this time, it's treated as chaotic for the
 purposes of overcoming [damage reduction](ref/rule/damage-reduction).
 
 **Special:** This blessing's additional damage doesn't stack with the additional damage from the

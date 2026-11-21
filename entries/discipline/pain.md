@@ -83,7 +83,9 @@ Wisdom modifier.
 
 **Live On (Sp)**
 
-**At 5th Level:** You can use [lay on hands](ref/ability/lay-on-hands) as though you were a
+**Gained:** At 5th Level
+
+**Ability:** You can use [lay on hands](ref/ability/lay-on-hands) as though you were a
 [paladin](ref/class/paladin) of 3 levels lower than your psychic level. You also gain access to
 mercies as though you were a paladin of 3 levels lower than your psychic level. You can target only
 yourself with _lay on hands_ or _mercies_ gained from this discipline. This stacks with _lay on
@@ -91,13 +93,15 @@ hands_ abilities gained from other sources.
 
 **Agonizing Wound (Su)**
 
-**At 13th Level:** Whenever you cast a spell that deals damage to a creature, you can also make that
+**Gained:** At 13th Level
+
+**Ability:** Whenever you cast a spell that deals damage to a creature, you can also make that
 creature [frightened](ref/misc/frightened) or [sickened](ref/misc/sickened) (your choice) for a
 number of rounds equal to your Charisma modifier. If you expend two uses of this ability, you can
 instead have the creature become [dazed](ref/misc/dazed), [nauseated](ref/misc/nauseated), or
 [panicked](ref/misc/panicked) for 1 round. The creature can attempt a Will saving throw to negate
 this effect.
 
-**Special:** This is a mind-affecting pain effect.
-
 **Usage:** 3 + Charisma modifier times/day
+
+**Special:** This is a mind-affecting pain effect.

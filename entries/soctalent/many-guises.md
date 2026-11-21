@@ -17,17 +17,17 @@ group = "social-talent"
 **Ability:** The vigilante can take on any number of mundane guises. Whenever he changes his
 identity, he has a third option (instead of social or vigilante): he can become mundane.
 
+While in this identity, he receives a +20 circumstance bonus on Disguise checks to appear like an
+ordinary member of his race. Spells and abilities that are looking for the vigilante in either of
+his other identities fail while he is in his mundane identity.
+
+**Prereq:** 5th-level vigilante
+
 **Info:** The mundane identity is not a specific individual. Each one is created at the moment it is
 assumed, and quickly forgotten as soon as it is removed. While in a mundane identity, the vigilante
 does not gain the benefit of either his social or vigilante identity, but instead appears as a
 member of his race, usually a common laborer, farmer, or peasant of any gender. His alignment is
 treated as neutral when he is in his mundane identity.
-
-**Passive:** While in this identity, he receives a +20 circumstance bonus on Disguise checks to
-appear like an ordinary member of his race. Spells and abilities that are looking for the vigilante
-in either of his other identities fail while he is in his mundane identity.
-
-**Prereq:** 5th-level vigilante
 
 **Special:** He must build the appearance for this identity using whatever clothing and tools he has
 at his disposal. While he can use magic (such as a

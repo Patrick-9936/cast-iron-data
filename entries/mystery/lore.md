@@ -161,11 +161,11 @@ benefit of having read the book.
 
 **Final Revelation**
 
+**Gained:** At 20th Level
+
 **Ability:** You gain the ability to take 20 on all Knowledge skill checks.
 
-**Ability2:** Your understanding of the fundamental underpinnings of reality has also become so
-advanced that once per day, you can cast [wish](ref/spell/wish). This ability does not require a
-material component, but the wish cannot be used to grant ability score bonuses, nor can it be used
-to replicate spells with expensive material components.
-
-**Gained:** At 20th Level
+Your understanding of the fundamental underpinnings of reality has also become so advanced that once
+per day, you can cast [wish](ref/spell/wish). This ability does not require a material component,
+but the wish cannot be used to grant ability score bonuses, nor can it be used to replicate spells
+with expensive material components.

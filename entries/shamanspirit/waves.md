@@ -159,13 +159,13 @@ use this ability once per day.
 
 **Manifestation**
 
+**Gained:** At 20th Level
+
+**Flavor:** The shaman becomes a master of cold and water.
+
 **Ability:** She can also apply any one of the following feats to any cold or water spell she casts
 without increasing the spell's level or casting time: [Enlarge Spell](ref/feat/enlarge-spell),
 [Extend Spell](ref/feat/extend-spell), [Silent Spell](ref/feat/silent-spell), or
 [Still Spell](ref/feat/still-spell). She doesn't need to possess these feats to use this ability.
 
-**Flavor:** The shaman becomes a master of cold and water.
-
-**Gained:** At 20th Level
-
-**Passive:** The shaman gains cold resistance 30.
+The shaman gains cold resistance 30.

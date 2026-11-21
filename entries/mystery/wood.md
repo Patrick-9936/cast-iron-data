@@ -183,16 +183,16 @@ motion, however, still affect you.
 
 **Final Revelation**
 
-**Ability:** You gain immunity to paralysis, poison, polymorph, sleep, and stunning. At will, you
-can meld with any tree or single block of wood (as [meld into stone](ref/spell/meld-into-stone),
-except wood only, and with no limit to how long you can remain in the wood).
+**Gained:** At 20th Level
 
 **Flavor:** You become a living creature of wood.
-
-**Gained:** At 20th Level
 
 **Passive:** You are forevermore treated as the [plant](ref/type/plant) type rather than your
 original type for the purpose of spells and magical effects. Your skin takes on the appearance of
 polished wood grain, and you gain a +4 natural armor bonus to your Armor Class and
 [damage reduction](ref/rule/damage-reduction) 10/- against wooden weapons or any natural attacks
 made by a wooden or wood-like creature.
+
+You gain immunity to paralysis, poison, polymorph, sleep, and stunning. At will, you can meld with
+any tree or single block of wood (as [meld into stone](ref/spell/meld-into-stone), except wood only,
+and with no limit to how long you can remain in the wood).

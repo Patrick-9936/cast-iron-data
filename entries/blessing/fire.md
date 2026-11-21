@@ -19,14 +19,18 @@ group = "warpriest-blessing"
 
 **Fire Strike (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch one weapon and enhance it with the grandeur of fire.
 
-**At 1st Level:** For 1 minute, this weapon glows red-hot and deals an additional 1d4 points of fire
+**Ability:** For 1 minute, this weapon glows red-hot and deals an additional 1d4 points of fire
 damage with each hit. This additional damage doesn't stack with the additional damage from the
 [flaming](ref/magic-enh/flaming) or [flaming burst](ref/magic-enh/flaming-burst) weapon special
 abilities.
 
 **Armor of Flame (major)**
 
-**At 10th Level:** You can touch an ally to wreath it in flames. This works as
+**Gained:** At 10th Level
+
+**Ability:** You can touch an ally to wreath it in flames. This works as
 [fire shield](ref/spell/fire-shield) (warm shield only) with a duration of 1 minute.

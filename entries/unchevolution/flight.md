@@ -19,9 +19,8 @@ the ability to fly. The eidolon gains a fly speed equal to its base speed. The e
 maneuverability depends on its size. Medium or smaller eidolons have good maneuverability. Large
 eidolons have average maneuverability, while Huge eidolons have poor maneuverability.
 
-**Ability2:** For 2 additional evolution points, the eidolon flies by means of magic. It loses its
-wings, but its maneuverability increases to perfect. If the eidolon flies by magic, this is a
-supernatural ability.
+For 2 additional evolution points, the eidolon flies by means of magic. It loses its wings, but its
+maneuverability increases to perfect. If the eidolon flies by magic, this is a supernatural ability.
 
 **Prereq:** 5th-level unchained summoner
 

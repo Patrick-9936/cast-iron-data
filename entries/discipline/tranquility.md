@@ -75,9 +75,11 @@ you succeed at the saving throw, you regain 1 point in your phrenic pool.
 
 **Calming Presence (Su)**
 
+**Gained:** At 5th Level
+
 **Flavor:** You become a calming force.
 
-**At 5th Level:** You can use [calm emotions](ref/spell/calm-emotions) as a
+**Ability:** You can use [calm emotions](ref/spell/calm-emotions) as a
 [spell-like ability](ref/umr/spell-like-abilities).
 
 **Usage:** Wisdom modifier times/day

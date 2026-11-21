@@ -103,13 +103,18 @@ of the appropriate level, and you can't apply metamagic feats to the spell.
 
 **Personal Spire (Su)**
 
-**Ability:** Nex's legendary spirit grants you access to a personal demiplane that you create (as
-per one created by [greater create demiplane](ref/spell/create-demiplane-greater)). As long as you
-channel Nex each day, your demiplane remains, but if you ever channel a spirit from a different
-legend, the demiplane disappears, dumping its inhabitants onto the Astral Plane.
+**Ability:** You can allow Nex to gain 1 point of influence over you and expend a 6th-level spell
+slot to use _project servitor_ as per [summon monster VIII](ref/spell/summon-monster-8) (80% real
+and can mimic trapped creatures of CR 11 or 12) or [summon monster IX](ref/spell/summon-monster-9)
+(90% real and can mimic trapped creatures of CR 13 or 14).
 
-**Ability2:** You can use _project servitor_ to summon a shadowy projection of any creature
-currently within your demiplane, as long as its CR matches the summon spell (CR 1/2 or lower for
+Nex's legendary spirit grants you access to a personal demiplane that you create (as per one created
+by [greater create demiplane](ref/spell/create-demiplane-greater)). As long as you channel Nex each
+day, your demiplane remains, but if you ever channel a spirit from a different legend, the demiplane
+disappears, dumping its inhabitants onto the Astral Plane.
+
+You can use _project servitor_ to summon a shadowy projection of any creature currently within your
+demiplane, as long as its CR matches the summon spell (CR 1/2 or lower for
 [summon monster I](ref/spell/summon-monster-1), CR 1 for
 [summon monster II](ref/spell/summon-monster-2), CR 2 for
 [summon monster III](ref/spell/summon-monster-3), CR 3 or 4 for
@@ -117,8 +122,3 @@ currently within your demiplane, as long as its CR matches the summon spell (CR 
 [summon monster V](ref/spell/summon-monster-5), CR 7 or 8 for
 [summon monster VI](ref/spell/summon-monster-6), or CR 9 or 10 for
 [summon monster VII](ref/spell/summon-monster-7)).
-
-**Ability3:** You can allow Nex to gain 1 point of influence over you and expend a 6th-level spell
-slot to use _project servitor_ as per [summon monster VIII](ref/spell/summon-monster-8) (80% real
-and can mimic trapped creatures of CR 11 or 12) or [summon monster IX](ref/spell/summon-monster-9)
-(90% real and can mimic trapped creatures of CR 13 or 14).

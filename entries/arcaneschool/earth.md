@@ -23,9 +23,6 @@ it to his will. He can use it to defend himself or cause it to rise up and crush
 
 **Earth Supremacy (Su)**
 
-**At 20th Level:** Earth and stone do not block the line of effect of your spells, although they do
-still block your line of sight.
-
 **Gained:** At 1st Level
 
 **Passive:** You gain an enhancement bonus to your CMD to resist [bull rush](ref/rule/bull-rush),
@@ -33,6 +30,9 @@ still block your line of sight.
 as long as you are touching the ground. This bonus is equal to 2 + one-fifth of your wizard level.
 In addition, you gain a +1 insight bonus on melee attack and damage rolls whenever both you and your
 foe are touching the ground.
+
+**At 20th level,** earth and stone do not block the line of effect of your spells, although they do
+still block your line of sight.
 
 **Acid Cloud (Su)**
 
