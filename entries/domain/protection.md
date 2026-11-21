@@ -39,8 +39,6 @@ this ability, you lose your resistance bonus granted by the Protection domain fo
 
 **Aura of Protection (Su)**
 
-**At 14th Level:** The elemental resistance increases to 10.
-
 **Gained:** At 8th Level
 
 **Standard:** You can emit a 30-foot aura of protection. You and your allies within this aura gain a
@@ -49,11 +47,13 @@ electricity, fire, and sonic).
 
 **Usage:** cleric level rounds/day. These rounds do not need to be consecutive.
 
-At 12th level: The deflection bonus increases to +2.
+**At 12th level,** the deflection bonus increases to +2.
 
-At 16th level: The deflection bonus increases to +3.
+**At 14th level,** the elemental resistance increases to 10.
 
-At 20th level: The deflection bonus increases to +4.
+**At 16th level,** the deflection bonus increases to +3.
+
+**At 20th level,** the deflection bonus increases to +4.
 
 **Domain Spells**
 
@@ -78,10 +78,10 @@ Shelyn (pre-Earthfall), Soralyon, Torag, Trudd, Wadjet, Winlas, Wylgart, Yamatsu
 
 **Deflection Aura (Su)**
 
-**Replaces:** The resistant touch power of the Protection domain
-
 **Standard:** Once each day, you can emit a 20-foot aura for a number of rounds equal to your cleric
 level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.
+
+**Replaces:** The resistant touch power of the Protection domain
 
 **Replacement Domain Spells**
 
@@ -99,8 +99,6 @@ level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuv
 
 **Sheltering Walls (Sp)**
 
-**Replaces:** The resistant touch power of the Protection domain
-
 **Standard:** You can touch an ally to summon a floating blockade of stone, granting the ally the
 benefits of partial [cover](ref/rule/cover) for a number of rounds equal to 1 +
 [one-sixth](ref/misc/fractions-and-rounding) of your cleric level. This ability does not grant the
@@ -109,6 +107,8 @@ benefits from any other form of cover against an attack, the bonuses to AC and o
 throws increase by 1.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The resistant touch power of the Protection domain
 
 **Replacement Domain Spells**
 
@@ -129,14 +129,14 @@ Nephthys, Ondisso, Qi Zhong, Selket, Shelyn, Shelyn (pre-Earthfall), Soralyon, W
 
 **Gained:** At 8th Level
 
-**Replaces:** The aura of protection power of the Protection domain
-
 **Standard:** You can touch a willing creature with divine power, giving it a saving throw against
 each effect currently affecting it, using the original saving throw DC of the effect. Each
 successful saving throw ends the related effect. The creature can choose not to make a save against
 an effect.
 
 **Usage:** 1 time/day + 1 per 6 cleric levels beyond 8th
+
+**Replaces:** The aura of protection power of the Protection domain
 
 **Replacement Domain Spells**
 
@@ -159,9 +159,9 @@ power. That creature takes a -1 penalty on saving throws for 1 minute. This pena
 for every 5 levels you possess. When you use this ability, you lose your resistance bonus granted by
 the Protection domain for 1 minute.
 
-**Replaces:** The resistant touch ability of the Protection domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The resistant touch ability of the Protection domain
 
 **Replacement Domain Spells**
 

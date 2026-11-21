@@ -22,15 +22,15 @@ of metal and stone over time appeals to and delights you.
 
 **Rusting Touch (Su)**
 
+**Flavor:** You can cause an opponent's metal armor or weapon to become dry and brittle as it
+magically corrodes and rusts.
+
 **Ability:** You make a melee touch attack against a creature wearing metal armor or wielding a
 metal weapon. If you hit, choose a metal weapon, suit of metal armor, or metal shield carried or
 worn by that creature. The object takes an amount of hit point damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) your druid level. If the item is not magical, or if your
 caster level is greater than the item's caster level, this damage bypasses the item's
 [hardness](ref/umr/hardness).
-
-**Flavor:** You can cause an opponent's metal armor or weapon to become dry and brittle as it
-magically corrodes and rusts.
 
 **Usage:** 3 + Wisdom modifier times/day
 

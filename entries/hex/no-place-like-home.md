@@ -23,8 +23,8 @@ Reflex saves against traps.
 Either way, the effects last for 1 minute. The target can attempt a Will save to negate the effects
 of the hex.
 
-**At 16th Level:** The bonus or penalty increases to 6.
+**At 8th level,** the bonus or penalty increases to 4.
 
-**At 8th Level:** The bonus or penalty increases to 4.
+**At 16th level,** the bonus or penalty increases to 6.
 
 **Special:** A creature targeted by this hex cannot be targeted again by this hex for 1 day.

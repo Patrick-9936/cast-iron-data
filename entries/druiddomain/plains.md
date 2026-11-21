@@ -29,17 +29,17 @@ The creature's land speed is increased by 10 feet.
 
 **Pounce (Ex)**
 
-**Ability:** You may use the [pounce](ref/umr/pounce) special attack once per day.
-
 **Gained:** At 6th Level
 
-At 9th level: You can use this ability 2 times a day.
+**Ability:** You may use the [pounce](ref/umr/pounce) special attack once per day.
 
-At 12th level: You can use this ability 3 times a day.
+**At 9th level,** you can use this ability 2 times a day.
 
-At 15th level: You can use this ability 4 times a day.
+**At 12th level,** you can use this ability 3 times a day.
 
-At 18th level: You can use this ability 5 times a day.
+**At 15th level,** you can use this ability 4 times a day.
+
+**At 18th level,** you can use this ability 5 times a day.
 
 **Domain Spells**
 

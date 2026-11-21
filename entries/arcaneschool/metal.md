@@ -31,10 +31,6 @@ steel is part of the metal school.
 
 **Metal Rending (Su)**
 
-**At 20th Level:** Whenever you cast a spell on a creature made of metal or wearing medium or heavy
-armor, you can roll twice to penetrate the creature's [spell resistance](ref/rule/spell-resistance)
-and take the better result.
-
 **Gained:** At 1st Level
 
 **Passive:** Whenever you cast a spell that deals hit point damage, you deal extra damage to
@@ -43,6 +39,10 @@ damage equal to 1/2 your wizard level. This bonus damage is not increased by
 [Empower Spell](ref/feat/empower-spell) or similar effects. This bonus only applies once to a spell,
 not once per missile or ray, and cannot be split between multiple missiles or rays. The damage is of
 the same type as the spell.
+
+**At 20th level,** whenever you cast a spell on a creature made of metal or wearing medium or heavy
+armor, you can roll twice to penetrate the creature's [spell resistance](ref/rule/spell-resistance)
+and take the better result.
 
 **Iron Skin (Su)**
 
@@ -55,9 +55,6 @@ one-fifth of your wizard level.
 
 **Shrapnel Burst (Su)**
 
-**At 10th Level:** The shrapnel bypasses [damage reduction](ref/rule/damage-reduction) as if it were
-a magic weapon.
-
 **Gained:** At 8th Level
 
 **Swift:** You can cause jagged pieces of metal to explode outward from your body. These shards deal
@@ -67,6 +64,9 @@ scraps of metal make the area [difficult terrain](ref/rule/terrain-and-obstacles
 turn (at which time they disappear).
 
 **Usage:** 1 time/day + 1 per 5 wizard levels beyond 8th
+
+**At 10th level,** the shrapnel bypasses [damage reduction](ref/rule/damage-reduction) as if it were
+a magic weapon.
 
 ### Metal Spells
 

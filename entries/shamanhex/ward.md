@@ -18,10 +18,10 @@ group = "shaman-hex"
 +2 deflection bonus to AC and a +2 resistance bonus on saving throws. This effect lasts until the
 _warded_ creature is hit or fails a saving throw.
 
+**At 8th level,** these bonuses increase to +3.
+
+**At 16th level,** these bonuses increase to +4.
+
 **Special:** A shaman knows when a _warded_ creature is no longer protected. A shaman can have only
 one _ward_ active at a time. If the shaman uses this hex while a previous _ward_ is still active,
 that previous _ward_ immediately ends. A shaman cannot use this ability on herself.
-
-At 8th level: These bonuses increase to +3.
-
-At 16th level: These bonuses increase to +4.

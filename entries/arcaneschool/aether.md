@@ -48,21 +48,21 @@ elemental school as normal.
 
 **Aether Supremacy (Su)**
 
-**At 10th Level:** You can attempt a Sleight of Hand check as a **move action** with only a -10
-penalty.
-
-**At 20th Level:** Whenever you attempt a Sleight of Hand check, assume the roll resulted in a
-natural 20.
-
-**At 5th Level:** You can attempt Sleight of Hand checks against a target within 30 feet, though the
-skill check DC increases by 5, and any creature within line of sight of either you or the target can
-attempt an opposed Perception check to notice the attempt.
-
 **Gained:** At 1st Level
 
 **Passive:** You gain an enhancement bonus on Sleight of Hand checks. This bonus is equal to 2 +
 one-fifth of your wizard level. In addition, you can cast [mage hand](ref/spell/mage-hand) at will
 as a [spell-like ability](ref/umr/spell-like-abilities) that uses your caster level.
+
+**At 5th level,** you can attempt Sleight of Hand checks against a target within 30 feet, though the
+skill check DC increases by 5, and any creature within line of sight of either you or the target can
+attempt an opposed Perception check to notice the attempt.
+
+**At 10th level,** you can attempt a Sleight of Hand check as a **move action** with only a -10
+penalty.
+
+**At 20th level,** whenever you attempt a Sleight of Hand check, assume the roll resulted in a
+natural 20.
 
 **Telekinetic Protection (Su)**
 

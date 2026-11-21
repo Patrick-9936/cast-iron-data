@@ -68,14 +68,14 @@ sorcerer/wizard spell list), instead of selecting them each day.
 
 **Lesser Lichdom (Su)**
 
-**Info:** In order to benefit from this power, you must have a proto-phylactery that costs you
-10,000 gp to create (if you continue with the process of lichdom, you can upgrade this to a true
-phylactery by paying the difference in cost).
-
 **Passive:** If you die while channeling the Lich, you return from the dead in 1d10 days, reforming
 around the proto-phylactery and gaining 1 permanent
 [negative level](ref/rule/energy-drain-and-negative-levels) (as if subject to the
 [resurrection](ref/spell/resurrection) spell). This process consumes the proto-phylactery.
+
+**Info:** In order to benefit from this power, you must have a proto-phylactery that costs you
+10,000 gp to create (if you continue with the process of lichdom, you can upgrade this to a true
+phylactery by paying the difference in cost).
 
 **Special:** If you are already a lich, you can instead create a backup phylactery for 10,000 gp, at
 which you reform if your normal phylactery is destroyed. This consumes the backup phylactery.

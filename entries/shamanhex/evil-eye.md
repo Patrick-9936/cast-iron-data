@@ -19,6 +19,6 @@ see. The target takes a -2 penalty on one of the following (shaman's choice): ab
 attack rolls, saving throws, or skill checks. This hex lasts a number of rounds equal to 3 + the
 shaman's Wisdom modifier. A successful Will saving throw reduces this to just 1 round.
 
-**At 8th Level:** The penalty increases to -4.
+**At 8th level,** the penalty increases to -4.
 
 **Special:** This is a mind-affecting effect.

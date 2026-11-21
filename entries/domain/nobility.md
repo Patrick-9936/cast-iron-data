@@ -35,11 +35,11 @@ rounds equal to 1/2 your cleric level (minimum 1).
 
 **Leadership (Ex)**
 
+**Gained:** At 8th Level
+
 **Ability:** You receive [Leadership](ref/feat/leadership) as a bonus feat. In addition, you gain a
 +2 bonus on your leadership score as long as you uphold the tenets of your deity (or divine concept
 if you do not venerate a deity).
-
-**Gained:** At 8th Level
 
 **Domain Spells**
 
@@ -93,8 +93,6 @@ visage bonus for 1 minute.
 
 **Gained:** At 6th Level
 
-**Replaces:** The leadership power of the Nobility domain
-
 **Swift:** You can petition your divine patron for far greater power than you deserve. This ability
 can be used only as you cast a spell that has a reduced (but not negated) effect on a successful
 save. The saving throw DC of the spell increases by 2, and you gain a +2 bonus on caster level
@@ -108,6 +106,8 @@ this loss by loudly apologizing to your patron deity as a full-round action that
 opportunity.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 6th
+
+**Replaces:** The leadership power of the Nobility domain
 
 **Replacement Domain Spells**
 
@@ -131,13 +131,13 @@ Seramaydiel, Shamira, Shax, Sicva, Sugroz, Thamir Gixx, Ydersius, Zaebos
 
 **Inspiring Command (Su)**
 
-**Replaces:** The inspiring word power of the Nobility domain
-
 **Standard:** You can issue an inspiring command to your allies. The inspiring command affects a
 number of allies up to 1 + [one-third](ref/misc/fractions-and-rounding) of your cleric level, who
 must all be within 30 feet of you. Affected allies gain a +2 insight bonus on attack rolls, AC,
 combat maneuver defense, and skill checks for 1 round. This is a language-dependant mind-affecting
 effect.
+
+**Replaces:** The inspiring word power of the Nobility domain
 
 **Replacement Domain Spells**
 
@@ -163,9 +163,9 @@ Zaebos
 to yourself. This power also transfers any effects that accompany the damage. The damage done to you
 cannot be reduced in any way.
 
-**Replaces:** The leadership power of the Nobility domain
-
 **Usage:** 1 time/day + 1 per 6 cleric levels beyond 8th
+
+**Replaces:** The leadership power of the Nobility domain
 
 **Replacement Domain Spells**
 

@@ -14,11 +14,11 @@ group = "arcane-discovery"
 
 **Alchemical Affinity**
 
-**Ability:** Whenever you cast a spell that appears on both the wizard and alchemist spell lists,
-you treat your caster level as 1 higher than normal and the save DC of such spells increases by 1.
-
 **Flavor:** Having studied alongside [alchemists](ref/class/alchemist), you've learned to use their
 methodologies to enhance your spellcraft.
+
+**Ability:** Whenever you cast a spell that appears on both the wizard and alchemist spell lists,
+you treat your caster level as 1 higher than normal and the save DC of such spells increases by 1.
 
 **Prereq:** 5th-level wizard
 

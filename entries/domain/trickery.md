@@ -75,14 +75,14 @@ this subdomain.
 
 **Chameleon Aspect (Su)**
 
-**Replaces:** The copycat power of the Trickery domain
-
 **Swift:** You can subtly alter the color of your scales, blending them with the surrounding
 environment. While under the effect of this power, you gain [concealment](ref/rule/concealment) from
 creatures more than 10 feet away (attacks have a 20% miss chance), and total concealment from
 creatures more than 40 feet away (attacks have a 50% miss chance).
 
 **Usage:** 3 + Wisdom modifier rounds/day
+
+**Replaces:** The copycat power of the Trickery domain
 
 **Replacement Domain Spells**
 
@@ -111,9 +111,9 @@ Lantern King, Titivilus, Ulon, Verex, Vibhishah, Xhamen-Dor, Yaezhing, Zabha
 **Immediate:** After you are missed by a melee attack, you can teleport up to 10 feet to a space
 that you can see. This space must be inside the reach of the creature that attacked you.
 
-**Replaces:** The copycat power of the Trickery domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The copycat power of the Trickery domain
 
 **Replacement Domain Spells**
 
@@ -167,9 +167,9 @@ are already a target of the spell, you are affected as though you were targeted 
 twice (which may or may not benefit you; remember that bonuses from the same source do not stack).
 This ability does not grant you knowledge of the spell being cast.
 
-**Replaces:** The copycat ability of the Trickery domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The copycat ability of the Trickery domain
 
 **Replacement Domain Spells**
 
@@ -187,13 +187,13 @@ This ability does not grant you knowledge of the spell being cast.
 
 **Fool's Privilege (Su)**
 
-**Replaces:** The copycat ability of the Trickery domain
-
 **Swift:** You can use this power when you fail a Bluff, Diplomacy, or Intimidate check outside of
 combat. You suffer no negative effects due to the failed check, and the next round you can attempt
 the check again without the usual penalty for a failed attempt.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 1st
+
+**Replaces:** The copycat ability of the Trickery domain
 
 **Replacement Domain Spells**
 
@@ -214,14 +214,14 @@ King, Verex, Zogmugot
 
 **Thief of the Gods (Su)**
 
+**Gained:** At 8th Level
+
 **Free:** When you make a Disable Device or Sleight of Hand check, you can roll twice and take the
 higher result.
 
-**Gained:** At 8th Level
+**Usage:** 1 time/day + 1 per 2 cleric levels beyond 8th
 
 **Replaces:** The master's illusion power of the Trickery domain
-
-**Usage:** 1 time/day + 1 per 2 cleric levels beyond 8th
 
 **Replacement Domain Spells**
 
@@ -253,8 +253,6 @@ predetermined length as recompense for their prior service.
 
 **Deceptive Reprieve (Sp)**
 
-**Replaces:** The copycat power of the Trickery domain
-
 **Standard:** When you touch a creature under direct mental control (such as that granted via
 [dominate person](ref/spell/dominate-person), but not via [charm person](ref/spell/charm-person)) or
 the victim of [possession](ref/rule/possession), that creature can attempt a new Will save against
@@ -264,6 +262,8 @@ of rounds equal to 1/2 your character level. While this ability is active, the t
 penalty on saves against new mind-affecting effects and new attempts at possession.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The copycat power of the Trickery domain
 
 ### Deities
 

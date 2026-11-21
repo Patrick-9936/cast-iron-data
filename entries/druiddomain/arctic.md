@@ -34,16 +34,16 @@ The DC to save against this ability is equal to 10 + 1/2 your druid level + your
 
 **Banish Flame (Su)**
 
+**Gained:** At 6th Level
+
 **Ability:** You may use your _call cold_ ability to damage creatures with the fire subtype (as a
 cleric channeling negative energy) or to cause them to flee from you (as the
 [Turn Undead](ref/feat/turn-undead) feat). Alternatively, you may use this ability to negate magical
 fire effects as if using a targeted [dispel magic](ref/spell/dispel-magic).
 
-**At 12th Level:** This functions as targeted or area
+**At 12th level,** this functions as targeted or area
 [greater dispel magic](ref/spell/dispel-magic-greater) instead of
 _[dispel magic](ref/spell/dispel-magic)._
-
-**Gained:** At 6th Level
 
 **Domain Spells**
 

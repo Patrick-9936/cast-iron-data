@@ -14,6 +14,8 @@ group = "witch-hex"
 
 **Soothsayer (Su)**
 
+**Flavor:** The witch's predictions become self-fulfilling prophecies.
+
 **Ability:** When the witch uses the [distraction](ref/hex/distraction) hex,
 [evil eye](ref/hex/evil-eye) hex, [fortune](ref/hex/fortune) hex, [misfortune](ref/hex/misfortune)
 hex, [protective luck](ref/hex/protective-luck) hex, or [retribution](ref/hex/retribution) major
@@ -22,8 +24,6 @@ target makes a roll that could be affected by the hex (such as an ability check,
 throw, or skill check) or is affected by an action that could be modified by the hex (such as being
 attacked when the hex would affect the target's AC), whichever comes first (ignoring actions that
 are not in combat and actions that have no penalty for failure).
-
-**Flavor:** The witch's predictions become self-fulfilling prophecies.
 
 **Special:** The duration of the hex begins on the same round as the action that causes it to take
 effect. The hex is wasted if it is not triggered within 24 hours.

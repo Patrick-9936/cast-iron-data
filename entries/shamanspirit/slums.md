@@ -57,13 +57,13 @@ to the shaman's caster level check to identify her as the source of the accident
 
 **Bad Penny (Su)**
 
-**At 8th Level:** The penalty becomes -4.
-
-**Special:** If the shaman curses a new coin, the previous curse ends. This is a curse effect.
-
 **Standard:** The shaman can curse a coin. The next bearer of the cursed coin takes a -2 penalty on
 all saving throws and skill checks as long he has the coin on his person. Once the coin leaves his
 person, the curse ends and the coin becomes a mundane piece of tender again.
+
+**At 8th level,** the penalty becomes -4.
+
+**Special:** If the shaman curses a new coin, the previous curse ends. This is a curse effect.
 
 **City Spirit (Su)**
 
@@ -80,9 +80,9 @@ percentage chances to negate critical hits and sneak attacks. (This stacks with 
 [fortification](ref/magic-enh/fortification), or abilities that grant a creature with no chance to
 negate critical hits a flat 25% chance.)
 
-**At 16th Level:** The bonuses become +9 and the percentage chance becomes 45%.
+**At 8th level,** the bonuses increase to +7 and the percentage change increases to 35%.
 
-**At 8th Level:** The bonuses increase to +7 and the percentage change increases to 35%.
+**At 16th level,** the bonuses become +9 and the percentage chance becomes 45%.
 
 **Special:** Each time the _ward_ is used (whether the roll is successful or not), the bonuses are
 reduced by 1 and 5%, respectively. The _ward_ ends when the bonuses are reduced to 0, when the
@@ -105,18 +105,18 @@ ability.
 
 **Doors to Everywhere (Ex)**
 
-**At 14th Level:** The shaman can use this ability as per [tree stride](ref/spell/tree-stride)
-(treating all doors as generic coniferous trees).
-
-**At 9th Level:** The shaman can use this ability as per [dimension door](ref/spell/dimension-door).
-
-**Special:** Regardless of what spell this functions as, it can transport only you, and both your
-departure and arrival spaces must be adjacent to a door or similar opening.
-
 **Standard:** The shaman can step through any door and instantly exit through another distant
 doorway, as per [jester's jaunt](ref/spell/jesters-jaunt).
 
 **Usage:** 3 times/day + 1 per 8 shaman levels beyond 4th
+
+**At 9th level,** the shaman can use this ability as per [dimension door](ref/spell/dimension-door).
+
+**At 14th level,** the shaman can use this ability as per [tree stride](ref/spell/tree-stride)
+(treating all doors as generic coniferous trees).
+
+**Special:** Regardless of what spell this functions as, it can transport only you, and both your
+departure and arrival spaces must be adjacent to a door or similar opening.
 
 ### Greater Spirit Ability
 
@@ -148,9 +148,9 @@ the alleys and shadows. She gains the ability to make [sneak attacks](ref/abilit
 
 **Manifestation**
 
-**Flavor:** The shaman becomes a spirit of the slums.
-
 **Gained:** At 20th Level
+
+**Flavor:** The shaman becomes a spirit of the slums.
 
 **Passive:** She is immune to all diseases and poisons. When in an urban environment, she gains a +4
 insight bonus to her AC and on Reflex saves.

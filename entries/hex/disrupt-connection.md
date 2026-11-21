@@ -21,10 +21,10 @@ determine the creature's confusion result is 76-100, the affected creature inste
 hexer had summoned it (attacking the hexer's enemies or performing such other tasks that the hexer
 can communicate to it).
 
-**At 16th Level:** This hex causes the summoned creature to act this way on a result of 26-100.
-
-**At 8th Level:** This hex causes the summoned creature to act as if the hexer had summoned it on a
+**At 8th level,** this hex causes the summoned creature to act as if the hexer had summoned it on a
 result of 51-100.
+
+**At 16th level,** this hex causes the summoned creature to act this way on a result of 26-100.
 
 **Special:** Once a creature has been the target of this hex, that creature is immune to this hex
 for 24 hours.

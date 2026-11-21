@@ -23,16 +23,16 @@ in mighty waves or wearing them down through timeless erosion.
 
 **Water Supremacy (Su)**
 
-**At 10th Level:** You gain a swim speed equal to your base speed.
-
-**At 20th Level:** Whenever you make a Swim skill check, assume the roll resulted in a natural 20.
-
 **Gained:** At 1st Level
 
 **Passive:** You gain an enhancement bonus on Swim skill checks. This bonus is equal to 2 +
 one-fifth of your wizard level. In addition, you can [hold your breath](ref/misc/hold-your-breath)
 for a number of rounds equal to four times your Constitution score before you must start making
 checks to avoid [drowning](ref/rule/drowning).
+
+**At 10th level,** you gain a swim speed equal to your base speed.
+
+**At 20th level,** whenever you make a Swim skill check, assume the roll resulted in a natural 20.
 
 **Cold Blast (Su)**
 

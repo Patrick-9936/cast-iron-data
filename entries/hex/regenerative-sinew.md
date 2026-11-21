@@ -19,7 +19,7 @@ helping it heal rapidly. The target either gains [fast healing](ref/umr/fast-hea
 of rounds equal to 1/2 the witch's class level or it heals up to 4 points of ability score damage
 from any two ability scores (witch's choice).
 
-**At 15th Level:** In addition to the chosen effect, the target's severed body members, broken
+**At 15th level,** in addition to the chosen effect, the target's severed body members, broken
 bones, and ruined organs grow back, as per [regenerate](ref/spell/regenerate).
 
 **Special:** Once a creature has benefited from this hex, it cannot benefit from it again for 24

@@ -40,8 +40,6 @@ this elemental magic often resemble druids in character and in the use of their 
 
 **Flexible Enhancement (Su)**
 
-**At 20th Level:** This bonus now applies to two of these ability scores of your choice.
-
 **Gained:** At 1st Level
 
 **Passive:** A master of the wood element is able to bend like bamboo when stressed and snap back
@@ -49,13 +47,9 @@ into place. You gain an enhancement bonus to your Dexterity, Constitution, or Wi
 This bonus is equal to 1 + one-fifth of your wizard level. You can change this bonus to a new
 ability score when you prepare spells.
 
+**At 20th level,** this bonus now applies to two of these ability scores of your choice.
+
 **Splintered Spear (Su)**
-
-**At 12th Level:** The spear's bonus becomes +2 and the bleed damage increases to 3.
-
-**At 18th Level:** The spear's bonus becomes +3 and the bleed damage increases to 4.
-
-**At 6th Level:** The spear gains a +1 enhancement bonus and the bleed damage increases to 2.
 
 **Gained:** At 1st Level
 
@@ -68,13 +62,19 @@ round on its turn.
 
 **Usage:** 3 + Intelligence modifier times/day
 
+**At 6th level,** the spear gains a +1 enhancement bonus and the bleed damage increases to 2.
+
+**At 12th level,** the spear's bonus becomes +2 and the bleed damage increases to 3.
+
+**At 18th level,** the spear's bonus becomes +3 and the bleed damage increases to 4.
+
 **Cooperative Defense (Su)**
+
+**Gained:** At 8th Level
 
 **Immediate:** Whenever a spell or effect targets you and one or more allies within 30 feet, you can
 use this ability to allow your allies to use your saving throw against the effect in place of their
 own. Each ally must make this choice individually before the rolls are made.
-
-**Gained:** At 8th Level
 
 **Usage:** 1 time/day + 1 per 4 wizard levels beyond 8th
 

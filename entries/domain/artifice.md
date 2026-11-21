@@ -79,9 +79,9 @@ maximum spell level you can infuse in this way is equal to 1 +
 [one-fourth](ref/misc/fractions-and-rounding) of your cleric level. These potions are treated as
 [alchemist](ref/class/alchemist) extracts for the purpose of your domain spells.
 
-**Replaces:** The artificer's touch power of the Artifice domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The artificer's touch power of the Artifice domain
 
 **Replacement Domain Spells**
 
@@ -103,12 +103,12 @@ Soralyon, Speakers of the Depths, Torag, Yaezhing, Yamasoth, Yuelral
 
 **Gained:** At 8th Level
 
-**Replaces:** The dancing weapon power of the Artifice domain
-
 **Standard:** You can give life to inanimate objects. This ability functions as
 [animate objects](ref/spell/animate-objects) using your cleric level as the caster level.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The dancing weapon power of the Artifice domain
 
 **Replacement Domain Spells**
 
@@ -126,8 +126,6 @@ Soralyon, Speakers of the Depths, Torag, Yaezhing, Yamasoth, Yuelral
 
 **Gained:** At 8th Level
 
-**Replaces:** The dancing weapon power of the Artifice domain
-
 **Standard:** You can emit a 30-foot-radius aura that grants your allies a +4 bonus on all saving
 throws against effects that inflict the [fatigued](ref/misc/fatigued) or
 [exhausted](ref/misc/exhausted) condition. Any equipment wielded by your allies within this area
@@ -135,6 +133,8 @@ gets a bonus to hardness equal to 1/2 your cleric level, and your allies' attack
 within this area ignore an equal amount of hardness.
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The dancing weapon power of the Artifice domain
 
 **Replacement Domain Spells**
 
@@ -156,8 +156,6 @@ Stygidvod, Torag, Yaezhing, Yamasoth
 
 **Gained:** At 8th Level
 
-**Replaces:** The dancing weapon power of the Artifice domain
-
 **Standard:** You can emit a 30-foot aura of repetition. All enemies within this aura must make a
 Will save each round or repeat their action from the previous round (if possible). Creatures that
 attacked on the previous round attack again on the following round, although they may change their
@@ -166,6 +164,8 @@ may change their route. Creatures that drank a potion must do so again, even the
 from an empty bottle. Actions that cannot be repeated are wasted.
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The dancing weapon power of the Artifice domain
 
 **Replacement Domain Spells**
 
@@ -186,16 +186,16 @@ can take this subdomain.
 
 **Supernatural Trap (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** When you gain this ability, select a supernatural ranger trap (_Ultimate Magic_ 64).
 You can use this trap a number of times per day equal to your Wisdom bonus. The DCs for Perception
 checks, Disable Device checks, and saving throws against the trap are equal to 10 + 1/2 your
 character level + your Wisdom bonus. The trap lasts for 1 hour or until triggered.
 
-**Gained:** At 8th Level
+**Usage:** Wisdom bonus times/day
 
 **Replaces:** The dancing weapons power of the Artifice domain
-
-**Usage:** Wisdom bonus times/day
 
 **Replacement Domain Spells**
 

@@ -22,30 +22,30 @@ world and understand how to ensure ruins that hold power or significance will pe
 
 **Ruin Touch (Su)**
 
+**Flavor:** You can strengthen or weaken objects with your touch.
+
 **Ability:** With a melee touch attack, you can increase or decrease the
 [hardness](ref/umr/hardness) of an object (up to a 10-foot cube) or construct by an amount equal to
 half your druid level (minimum 1) for 1 minute. You cannot reduce an object's hardness below 0, and
 the same target cannot be affected by this ability more than once.
 
-**Flavor:** You can strengthen or weaken objects with your touch.
-
 **Usage:** 3 + Wisdom modifier times/day
 
 **Remembrance (Sp)**
 
-**Ability:** You can cast [divination](ref/spell/divination) as a
-[spell-like ability](ref/umr/spell-like-abilities).
+**Gained:** At 4th Level
 
 **Flavor:** When within a ruin or other structure that is no longer claimed by civilization, you can
 call upon the wisdom of the land and its long-dead residents.
 
-**Gained:** At 4th Level
+**Ability:** You can cast [divination](ref/spell/divination) as a
+[spell-like ability](ref/umr/spell-like-abilities).
+
+**Usage:** 1 time/day per 4 druid levels
 
 **Special:** Additionally, if you are within ruins when you cast
 _[commune with nature](ref/spell/commune-with-nature),_ you gain information about the crumbling
 structures around you as though they were part of nature.
-
-**Usage:** 1 time/day per 4 druid levels
 
 **Surefooted (Ex)**
 

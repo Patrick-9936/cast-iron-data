@@ -83,8 +83,6 @@ Skrymir, Thisamet, Tolc, Valani, Yuelral
 
 **Elysium's Call (Su)**
 
-**Replaces:** The touch of chaos power of the Chaos domain
-
 **Standard:** With a touch, you can imbue creatures with the spirit of Elysium, lifting their
 spirits and freeing them from bonds. The creatures touched can immediately reroll any failed saving
 throws against spells and spell-like abilities of the enchantment (charm) and enchantment
@@ -95,6 +93,8 @@ bonuses last for a number of rounds equal to 1/2 your cleric level (minimum 1), 
 throw reroll only applies when the creature is touched.
 
 **Usage:** 3 + Wisdom modifier rounds/day
+
+**Replaces:** The touch of chaos power of the Chaos domain
 
 **Replacement Domain Spells**
 
@@ -114,8 +114,6 @@ throw reroll only applies when the creature is touched.
 
 **Faith-Stealing Strike (Su)**
 
-**Replaces:** The touch of chaos ability of the Chaos domain
-
 **Standard:** You can make a single melee attack using your highest base attack bonus against a
 creature capable of casting divine spells. If you damage the creature, it must succeed at a Will
 save (DC = 10 + 1/2 your cleric level + your Wisdom modifier) or be unable to cast any divine spells
@@ -123,6 +121,8 @@ for 1 round. If you do not damage your target with the attack, this ability is e
 effect.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of chaos ability of the Chaos domain
 
 **Replacement Domain Spells**
 
@@ -148,13 +148,13 @@ Ydersius, Yhidothrus, Zagresh, Zevgavizeb, Zogmugot, Zura
 
 **Fury of the Abyss (Su)**
 
-**Replaces:** The touch of chaos power of the Chaos domain
-
 **Swift:** As a swift action, you can give yourself an enhancement bonus equal to 1/2 your cleric
 level (minimum +1) on melee attacks, melee damage rolls, and combat maneuver checks. This bonus
 lasts for 1 round. During this round, you take a -2 penalty to AC.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of chaos power of the Chaos domain
 
 **Replacement Domain Spells**
 
@@ -181,9 +181,9 @@ remaining duration of all beneficial magical effects currently affecting the tar
 minute, hour, or day - whichever measurement is used to determine the duration of each particular
 magical effect.
 
-**Replaces:** The chaos blade power of the Chaos domain
-
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The chaos blade power of the Chaos domain
 
 **Replacement Domain Spells**
 
@@ -208,14 +208,14 @@ Sobek, Speakers of the Depths, Sun Wukong
 
 **Gained:** At 8th Level
 
-**Replaces:** The chaos blade power of the Chaos domain
-
 **Standard:** You can surround yourself with a field of wild energies. These energies manifest as a
 30-foot aura of chaos for a number of rounds per day equal to your cleric level. All enemies within
 this aura must declare one type of action at the start of their turn (attack, cast a spell, move,
 use an item, or activate a special ability) and make a Will save. Creatures that fail the Will save
 must take an action other than their declared action. If they succeed, they must take the declared
 action. Creatures cannot select actions that they cannot perform.
+
+**Replaces:** The chaos blade power of the Chaos domain
 
 **Replacement Domain Spells**
 
@@ -262,14 +262,14 @@ spell level.
 
 **Gained:** At 8th Level
 
-**Replaces:** The chaos blade power of the Chaos domain
-
 **Standard:** You can emit a 30-foot-radius aura of chaos and strife. Enemies in the aura take a
 penalty on [concentration](ref/rule/concentration) checks and are treated as experiencing vigorous
 motion (concentration DC = 10 + spell level) when attempting to cast spells. The penalty is equal to
 [one-half](ref/misc/fractions-and-rounding) of your cleric level. This is a mind-affecting effect.
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The chaos blade power of the Chaos domain
 
 **Replacement Domain Spells**
 
@@ -290,8 +290,6 @@ Tsathoggua
 
 **Gained:** At 8th Level
 
-**Replaces:** The chaos blade of the Chaos domain
-
 **Standard:** You dance, act like a buffoon, or commit some other act of whimsy. When you do,
 enemies within 30 feet of you that can see and hear you must succeed a Will saving throw (DC = 10 +
 1/2 your cleric level + half your Wisdom modifier) or they collapse into gales of manic laughter,
@@ -299,6 +297,8 @@ falling prone. Those who fail their saving throws can take no actions other than
 round, but are not considered [helpless](ref/misc/helpless).
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The chaos blade of the Chaos domain
 
 **Replacement Domain Spells**
 
@@ -331,8 +331,6 @@ threat, which they undoubtedly do with a (mostly) sober head.
 
 **Drunken Autonomy (Su)**
 
-**Replaces:** The touch of chaos domain power of the Chaos domain
-
 **Swift:** Whenever under the effects of mind-affecting magic, possession, or similar external
 control, you can channel the unrestricted nature of your god. Instead of acting under the
 compulsion, you instead act as though you had the [confused](ref/misc/confused) condition for 1
@@ -340,6 +338,8 @@ round. Producing the "act normally" result allows you to act free of mental comp
 round.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of chaos domain power of the Chaos domain
 
 ### Deities
 

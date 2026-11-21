@@ -24,7 +24,7 @@ Alternatively, for 24 hours the witch can grant her target a +4 circumstance bon
 against effects that cause any two of the above conditions or effects (witch's choice; she can
 choose any combination of conditions or effects, as long as she chooses only two total).
 
-**At 15th Level:** The witch can choose up to two total conditions or types of effects to suppress
+**At 15th level,** the witch can choose up to two total conditions or types of effects to suppress
 or three total conditions or types of effects to grant a circumstance bonus against each time she
 uses the major ameliorating hex.
 

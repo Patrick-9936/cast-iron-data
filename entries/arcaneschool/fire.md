@@ -23,17 +23,17 @@ consume his foes. He has also learned that fire can purify and protect, if prope
 
 **Fire Supremacy (Su)**
 
-**At 10th Level:** This resistance increases to 10.
+**Gained:** At 1st Level
 
-**At 20th Level:** You gain [immunity](ref/umr/immunity) to fire damage. In addition, whenever you
+**Passive:** You gain [resistance](ref/umr/resistance) 5 to fire.
+
+**At 10th level,** this resistance increases to 10.
+
+**At 20th level,** you gain [immunity](ref/umr/immunity) to fire damage. In addition, whenever you
 are within 5 feet of a source of flame at least as large as a campfire, you can draw the fire around
 you for 1 round as a swift action. Anyone striking you with a melee weapon or unarmed strike takes
 an amount of fire damage equal to 1/2 your wizard level (minimum 1). Weapons with reach avoid this
 damage.
-
-**Gained:** At 1st Level
-
-**Passive:** You gain [resistance](ref/umr/resistance) 5 to fire.
 
 **Fire Jet (Su)**
 

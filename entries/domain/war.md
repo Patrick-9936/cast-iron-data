@@ -63,12 +63,12 @@ Zursvaater, Zyphus
 
 **Gained:** At 8th Level
 
-**Replaces:** The weapon master power of the War domain
-
 **Standard:** You can give a weapon that you touch the [wounding](ref/magic-enh/wounding) special
 weapon quality for a number of rounds equal to 1/2 your cleric level.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The weapon master power of the War domain
 
 **Replacement Domain Spells**
 
@@ -86,13 +86,13 @@ weapon quality for a number of rounds equal to 1/2 your cleric level.
 
 **Divine Challenge (Su)**
 
-**Replaces:** The battle rage power of the War domain
-
 **Swift:** You can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC
 against that creature's attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to
 feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The battle rage power of the War domain
 
 **Replacement Domain Spells**
 
@@ -116,9 +116,9 @@ Ydersius, Ymeri, Zelishkar
 **Ability:** Whenever you and your allies roll for initiative, you can grant one ally within 30 feet
 the ability to roll twice and take either result. This decision is made before results are revealed.
 
-**Replaces:** The battle rage power of the War domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The battle rage power of the War domain
 
 **Replacement Domain Spells**
 

@@ -19,15 +19,15 @@ The abjurer uses magic against itself, and masters the art of defensive and ward
 
 **Resistance (Ex)**
 
-**At 11th Level:** This resistance increases to 10.
-
-**At 20th Level:** This resistance changes to [immunity](ref/umr/immunity) to the chosen energy
-type.
-
 **Gained:** At 1st Level
 
 **Passive:** You gain [resistance](ref/umr/resistance) 5 to an energy type of your choice, chosen
 when you prepare spells. This resistance can be changed each day.
+
+**At 11th level,** this resistance increases to 10.
+
+**At 20th level,** this resistance changes to [immunity](ref/umr/immunity) to the chosen energy
+type.
 
 **Protective Ward (Su)**
 
@@ -59,11 +59,11 @@ _protective ward_ power of the abjuration school.
 
 **Unstable Bonds (Su)**
 
+**Gained:** At 1st Level
+
 **Ability:** As a melee touch attack, you can cause a summoned or called creature to become
 [shaken](ref/misc/shaken) and [staggered](ref/misc/staggered) for a number of rounds equal to 1/2
 your wizard level (minimum 1).
-
-**Gained:** At 1st Level
 
 **Usage:** 3 + Intelligence modifier times/day
 
@@ -89,6 +89,8 @@ _energy absorption_ power of the abjuration school.
 
 **Disruption (Su)**
 
+**Gained:** At 1st Level
+
 **Ability:** As a melee touch attack, you can place a field around the target that disrupts
 spellcasting. While the field is in place, the target must make a
 [concentration](ref/rule/concentration) check to cast any spell or to use a
@@ -96,8 +98,6 @@ spellcasting. While the field is in place, the target must make a
 checks. The DC of this check is equal to 15 + twice the spell's level. If the check is failed, the
 target's spell is wasted. This field lasts for a number of rounds equal to 1/2 your wizard level
 (minimum 1).
-
-**Gained:** At 1st Level
 
 **Usage:** 3 + Intelligence modifier times/day
 

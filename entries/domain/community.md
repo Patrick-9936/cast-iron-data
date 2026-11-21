@@ -65,12 +65,12 @@ Ulon
 
 **Synergistic Touch (Sp)**
 
-**Replaces:** The calming touch ability of the Community domain
-
 **Standard:** You can touch a creature to confer upon it the benefits of any one teamwork feat that
 you possess. This effect persists for a number of rounds equal to 1/2 your cleric level (minimum 1).
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The calming touch ability of the Community domain
 
 **Replacement Domain Spells**
 
@@ -99,9 +99,9 @@ special insights that help them overcome similar challenges. Once during the nex
 affected creature can choose to roll twice and take the better result before attempting an attack
 roll, ability check, skill check, or saving throw.
 
-**Replaces:** The unity power of the Community domain
-
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The unity power of the Community domain
 
 **Replacement Domain Spells**
 
@@ -123,8 +123,6 @@ Shei, Svarozic, Thisamet
 
 **Binding Ties (Su)**
 
-**Replaces:** The calming touch power of the Community domain
-
 **Standard:** You can touch an ally and remove one condition affecting the ally by transferring it
 to yourself. This transfer lasts a number of rounds equal to your cleric level, but you can end it
 as a free action on your turn. At the end of this effect, the condition reverts to the original
@@ -132,6 +130,8 @@ creature, unless it has ended or is removed by another effect. While this power 
 target is immune to the transferred condition.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The calming touch power of the Community domain
 
 **Replacement Domain Spells**
 
@@ -148,6 +148,8 @@ Findeladlara, Folgrit, Ghenshau, Imbrex, Inma, Jiraviddain, Kurgess
 
 **Guarded Hearth (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can create a ward that protects a specified area. Creating this ward takes 10
 minutes of uninterrupted work. This ward has a maximum radius of 5 feet per 2 cleric levels you
 possess. When the ward is completed, you designate any number of creatures inside its area. Should
@@ -156,11 +158,9 @@ awoken if they were asleep). The designated creatures also receive a sacred bonu
 Wisdom modifier on all saving throws and attack rolls while inside the warded area. This ward
 immediately ends if you leave the area. The ward lasts for 1 hour per cleric level.
 
-**Gained:** At 8th Level
+**Usage:** Once a day
 
 **Replaces:** The unity power of the Community domain
-
-**Usage:** Once a day
 
 **Replacement Domain Spells**
 

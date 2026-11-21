@@ -65,14 +65,14 @@ Shivaska, Shyka, Sivanah, Speakers of the Depths, Taraksun, The Lost Prince, Tre
 
 **Insane Focus (Su)**
 
-**Replaces:** The vision of madness power of the Madness domain
-
 **Standard:** You can touch a willing creature, granting it a +4 bonus on all saving throws made
 against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the
 creature fails a saving throw against a mind-affecting effect during this period, it loses its
 immunity to confusion and is immediately [confused](ref/misc/confused) for one round.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The vision of madness power of the Madness domain
 
 **Replacement Domain Spells**
 
@@ -90,8 +90,6 @@ Sifkesh, Taraksun
 
 **Fearful Touch (Su)**
 
-**Replaces:** The vision of madness power of the Madness domain
-
 **Standard:** You can make a melee touch attack against a creature, causing it to experience
 terrible hallucinations for 1 round. During this time, the creature loses any immunity to fear
 effects it might possess and takes a -2 penalty on attack rolls made against you. In addition, the
@@ -99,6 +97,8 @@ creature takes a penalty on Will saves made against fear effects equal to 1/2 yo
 (minimum -1). This power is a mind-affecting effect.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The vision of madness power of the Madness domain
 
 **Replacement Domain Spells**
 
@@ -121,8 +121,6 @@ creature takes a penalty on Will saves made against fear effects equal to 1/2 yo
 
 **Gained:** At 8th Level
 
-**Replaces:** The aura of madness power of the Madness domain
-
 **Standard:** You can impart a shared vision of unfathomable ineffability to a living creature you
 touch, after which your turn immediately ends. You are [dazed](ref/misc/dazed) and the target
 [confused](ref/misc/confused) for 1 round by what you both learn. On the following round, you are
@@ -133,6 +131,8 @@ level + your Wisdom modifier to negate that round's effects for both of you, tho
 not end until the end of the third round. This is a mind-affecting effect.
 
 **Usage:** 1 time/day per 2 cleric levels
+
+**Replaces:** The aura of madness power of the Madness domain
 
 **Replacement Domain Spells**
 

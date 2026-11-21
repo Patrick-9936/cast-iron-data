@@ -69,13 +69,7 @@ touch attack. The icicle deals an amount of cold damage equal to 1d6 +
 
 **Sift (Su)**
 
-**At 12th Level:** The objects that you retrieve are not broken.
-
-**At 20th Level:** You can retrieve objects worth up to 5,000 gp.
-
 **Gained:** At 6th Level
-
-**Replaces:** The cold resistance power of the Water domain
 
 **Standard:** Once per day you can reach into water and pull out an object with a maximum gp value
 of up to 50 gp × your class level. This object always has the [broken](ref/misc/broken) condition
@@ -83,6 +77,12 @@ upon being withdrawn from the water. The water you reach into must be at least d
 immerse yourself in. If you're retrieving an object that would not normally float, assume it rests
 on top of or is entwined with debris that does float. Objects retrieved in this manner disappear
 after 24 hours if they're not already used up or otherwise destroyed before then.
+
+**At 12th level,** the objects that you retrieve are not broken.
+
+**At 20th level,** you can retrieve objects worth up to 5,000 gp.
+
+**Replaces:** The cold resistance power of the Water domain
 
 **Replacement Domain Spells**
 
@@ -100,14 +100,14 @@ after 24 hours if they're not already used up or otherwise destroyed before then
 
 **Go with the Flow (Su)**
 
-**Replaces:** The \# ability of the Water domain
-
 **Standard:** You can touch a creature to suppress its strong emotions. The target is affected as
 the [calm emotions](ref/spell/calm-emotions) spell, except it can still take violent actions and
 violent actions against the target do not end the effect. This effect lasts a number of rounds equal
 to 1/2 your cleric level (minimum 1).
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The \# ability of the Water domain
 
 **Replacement Domain Spells**
 
@@ -130,14 +130,14 @@ Tolc, Uzumae, Yamatsumi
 
 **Gained:** At 8th Level
 
-**Replaces:** The cold resistance power of the Water domain
-
 **Standard:** You can transmute your body and equipment to ice for a period of time. You can end the
 transmutation with a **free action** on your turn. When you take on the form of ice, you are
 [immune](ref/umr/immunity) to cold and have DR 5/-, but you take twice the normal amount of damage
 from fire.
 
 **Usage:** 1 time/day per cleric level
+
+**Replaces:** The cold resistance power of the Water domain
 
 **Replacement Domain Spells**
 
@@ -155,14 +155,14 @@ Roqorolos, Speakers of the Depths, Ylimancha, Zogmugot
 
 **Surge (Su)**
 
-**Replaces:** The \# power of the Water domain
-
 **Standard:** You can cause a mighty wave to appear that pushes or pulls a single creature. Make a
 combat maneuver check against the target, using your cleric level + your Wisdom modifier as your
 CMB. If successful, you may pull or push the creature as if using the
 [bull rush](ref/rule/bull-rush) or [drag](ref/rule/drag) combat maneuver.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The \# power of the Water domain
 
 **Replacement Domain Spells**
 
@@ -184,9 +184,9 @@ CMB. If successful, you may pull or push the creature as if using the
 gain a bonus on Swim checks equal to half your class level (minimum 1). These effects last for a
 number of rounds equal to your Wisdom modifier (minimum 1).
 
-**Replaces:** The \# power of the Water domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The \# power of the Water domain
 
 **Replacement Domain Spells**
 

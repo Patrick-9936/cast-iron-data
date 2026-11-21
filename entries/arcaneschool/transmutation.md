@@ -19,13 +19,13 @@ Transmuters use magic to change the world around them.
 
 **Physical Enhancement (Su)**
 
-**At 20th Level:** This bonus now applies to two physical ability scores of your choice.
-
 **Gained:** At 1st Level
 
 **Passive:** You gain an enhancement bonus to one physical ability score (Strength, Dexterity, or
 Constitution). This enhancement bonus is equal to 1 + [one-fifth](ref/misc/fractions-and-rounding)
 of your wizard level. You can change this bonus to a new ability score when you prepare spells.
+
+**At 20th level,** this bonus now applies to two physical ability scores of your choice.
 
 **Telekinetic Fist (Sp)**
 
@@ -63,8 +63,6 @@ transmutation school.
 
 **Augment (Sp)**
 
-**At 10th Level:** The enhancement bonus to one ability score increases to +4.
-
 **Gained:** At 1st Level
 
 **Standard:** You can touch a creature and grant it either a +2 enhancement bonus to a single
@@ -74,6 +72,8 @@ creature might possess; this natural armor bonus is equal to 1 +
 of rounds equal to 1/2 your wizard level (minimum 1 round).
 
 **Usage:** 3 + Intelligence modifier times/day
+
+**At 10th level,** the enhancement bonus to one ability score increases to +4.
 
 **Perfection of Self (Su)**
 
@@ -94,11 +94,6 @@ transmutation school.
 
 **Battleshaping (Su)**
 
-**At 11th Level:** You can shape two natural weapons.
-
-**At 4th Level:** Your natural weapon gains an enhancement bonus on attack and damage rolls equal to
-[one-fourth](ref/misc/fractions-and-rounding) of your wizard level.
-
 **Gained:** At 1st Level
 
 **Swift:** You grow a single [natural weapon](ref/umr/natural-attacks). The natural weapon lasts for
@@ -106,3 +101,8 @@ transmutation school.
 creature of your size. You may not grow additional limbs or a tail with this ability.
 
 **Usage:** 3 + Intelligence modifier times/day
+
+**At 4th level,** your natural weapon gains an enhancement bonus on attack and damage rolls equal to
+[one-fourth](ref/misc/fractions-and-rounding) of your wizard level.
+
+**At 11th level,** you can shape two natural weapons.

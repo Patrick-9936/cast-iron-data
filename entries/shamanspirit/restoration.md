@@ -72,17 +72,17 @@ can end as many as she wants with the same immediate action.
 
 **Life Sight (Ex)**
 
+**Flavor:** The shaman can see the states of life, death, and general health of those around her.
+
 **Ability:** When she uses this ability, she can tell whether or not creatures within 30 feet of her
 that she can see are living, wounded, dying, or dead. She can also tell if those creatures are
 confused, disabled, diseased, nauseated, poisoned, sickened or staggered.
 
-**Flavor:** The shaman can see the states of life, death, and general health of those around her.
+**Usage:** 1 time/day per shaman level
 
-**At 12th Level:** When using _life sight_ she is able to sense all nearby living creatures; this
+**At 12th level,** when using _life sight_ she is able to sense all nearby living creatures; this
 functions similar to [blindsight](ref/umr/blindsight), but only for living creatures within 30 feet
 of her.
-
-**Usage:** 1 time/day per shaman level
 
 **Shell of Succor (Su)**
 
@@ -93,11 +93,11 @@ hit points last a number of minutes equal to the shaman's level. The target alwa
 temporary hit points first, even before other temporary hit points (including those from a
 [kineticist's](ref/class/kineticist) [force ward](ref/kinetic/force-ward) defense wild talent).
 
+**Usage:** 1 + Charisma modifier times/day
+
 **Special:** If an attack deals fewer points of damage than the target's temporary hit points from
 this _shell of succor_ ability, it still reduces those temporary hit points but otherwise counts as
 a miss for the purpose of abilities that trigger on a hit or a miss.
-
-**Usage:** 1 + Charisma modifier times/day
 
 **Spirit Boost (Su)**
 
@@ -109,11 +109,11 @@ maximum number of temporary hit points equal to the shaman's level).
 
 **Spirit Animal**
 
-**Ability:** Her animal companion gains [fast healing](ref/umr/fast-healing) 1; if the spirit animal
-already has fast healing, instead its fast healing increases by 1.
-
 **Flavor:** The shaman's spirit animal appears to be a beautiful and very healthy version of its
 species, and seems especially vibrant and full of life.
+
+**Ability:** Her animal companion gains [fast healing](ref/umr/fast-healing) 1; if the spirit animal
+already has fast healing, instead its fast healing increases by 1.
 
 ### Spirit Ability
 
@@ -170,9 +170,9 @@ slain while it is imbued with a _cure_ spell, that spell is lost.
 
 **Manifestation**
 
-**Flavor:** The shaman becomes a perfect channel for life energy.
-
 **Gained:** At 20th Level
+
+**Flavor:** The shaman becomes a perfect channel for life energy.
 
 **Passive:** She gains immunity to bleed, death attacks, and negative energy, as well as to the
 exhausted, fatigued, nauseated, and sickened conditions. Ability damage and drain cannot reduce her

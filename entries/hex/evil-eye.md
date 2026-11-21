@@ -14,13 +14,13 @@ group = "witch-hex"
 
 **Evil Eye (Su)**
 
-**Ability:** The target takes a -2 penalty on one of the following (witch's choice): AC, ability
-checks, attack rolls, saving throws, or skill checks.
-
 **Flavor:** The witch can cause doubt to creep into the mind of a foe within 30 feet that she can
 see.
 
-**At 8th Level:** The penalty increases to -4.
+**Ability:** The target takes a -2 penalty on one of the following (witch's choice): AC, ability
+checks, attack rolls, saving throws, or skill checks.
+
+**At 8th level,** the penalty increases to -4.
 
 **Special:** This hex lasts for a number of rounds equal to 3 + the witch's Intelligence modifier. A
 Will save reduces this to just 1 round. This is a mind-affecting effect.

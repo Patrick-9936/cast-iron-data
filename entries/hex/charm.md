@@ -19,7 +19,7 @@ speaking soothing words. This improves the attitude of an animal or humanoid cre
 if the witch had successfully used the [Diplomacy](ref/skill/diplomacy) skill. The effect lasts for
 a number of rounds equal to the Witch's Intelligence modifier. A Will save negates this effect.
 
-**At 8th Level:** This effect improves the attitude of the target creature by 2 steps.
+**At 8th level,** this effect improves the attitude of the target creature by 2 steps.
 
 **Special:** Whether or not the save is successful, a creature cannot be the target of this hex
 again for 1 day. This is a mind-affecting charm effect.

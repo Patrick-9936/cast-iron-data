@@ -14,10 +14,10 @@ group = "witch-hex"
 
 **Polluting Glance (Su)**
 
+**Flavor:** The witch can corrupt nonmagical liquid items (such as alchemical remedies) with a look.
+
 **Ability:** The witch can choose one liquid item she can see within 30 feet and change its contents
 into polluted water as per her _pollute water_ hex.
-
-**Flavor:** The witch can corrupt nonmagical liquid items (such as alchemical remedies) with a look.
 
 **Prereq:** [Pollute water](ref/hex/pollute-water)
 
