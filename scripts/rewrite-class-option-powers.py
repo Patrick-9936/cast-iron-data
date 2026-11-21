@@ -863,11 +863,18 @@ def run_corpus(corpus: Path, resolutions, families=None, write=False, rewrite=Tr
 
 
 def unused_resolutions(resolutions, outcomes: list[Outcome]):
-    """(orphaned, obsolete): the resolutions whose key matches no candidate. A resolution for a
+    """(orphaned, obsolete): the resolutions whose key matches no candidate. A resolution that is
+    already applied counts as used even when it renamed its power (a legacy name loses its colon):
+    the entry then holds a candidate with the span of the replacement. A resolution for a
     section label (`NON_POWER_LABELS`), which is no candidate any more, is obsolete."""
     used = {(o.entry_id, o.name, o.occurrence) for o in outcomes}
+    present = {(o.entry_id, o.sha) for o in outcomes}
     orphaned, obsolete = [], []
     for key in sorted(set(resolutions) - used):
+        res = resolutions[key]
+        applied = (key[0], hashlib.sha256(resolution_power_text(res).encode()).hexdigest()) in present
+        if applied:
+            continue
         (obsolete if is_non_power_label(key[1]) else orphaned).append(key)
     return orphaned, obsolete
 
@@ -1173,6 +1180,18 @@ def self_test() -> int:
            "a paragraph after Usage is stray")
     expect(slugs("**P**\n\n**Passive:** a.\n\n**Special:** s.\n\nOne.\n\nTwo.\n\n**Penalty:** p.\n\nStray.\n")
            == ["stray-paragraph"], "only Special has continuation")
+
+    # An applied resolution that renamed its power (a legacy name loses its colon) is not orphaned.
+    legacy = "**Pool Ray:**\n\n**Standard:** Infuse.\n\n**Free:** Release.\n"
+    blocks = parse_blocks(legacy.split("\n"))
+    c = candidates(blocks, True)[0]
+    renamed = Resolution("ref/arcana/pool-ray", "Pool Ray:", 1, span_sha(blocks[c.start:c.end]), "a book and page",
+                         "**Pool Ray**\n\n**Standard:** Infuse.\n\nRelease.\n")
+    keyed = {("ref/arcana/pool-ray", "Pool Ray:", 1): renamed}
+    after, outs = process_body("ref/arcana/pool-ray", legacy.split("\n"), keyed)
+    expect(outs[0].status == "resolved" and after[0] == "**Pool Ray**", f"the rename applies: {outs}")
+    again, outs = process_body("ref/arcana/pool-ray", after, keyed)
+    expect(unused_resolutions(keyed, outs) == ([], []), "an applied, renamed resolution is not orphaned")
 
     # A stale resolution is queued again and the automatic rewrite leaves the power alone.
     rewritable = "**Resistance (Ex)**\n\n**At 11th Level:** Increases.\n\n**Gained:** At 1st Level\n\n**Passive:** Base.\n"
