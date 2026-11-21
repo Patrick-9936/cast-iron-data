@@ -28,6 +28,43 @@ As a free action while making an attack roll with the infused ranged weapon, aft
 '''
 
 [[resolution]]
+id = "ref/arcanedisc/true-name"
+name = "True Name (Sp)"
+occurrence = 1
+span_sha256 = "c37cf1561f45285543169f56c72fa5f1c30746b95df7b99ac78e2c0297520fbd"
+print = "Ultimate Magic p. 87"
+replacement = '''
+**True Name (Sp)**
+
+**Ability:** Your researches into ancient tomes and your inquisitions of bound spirits have led you to one of the best-hidden secrets of the multiverse: the true name of an outsider - the name that defines the very essence of the creature and that gives the speaker control over the being. This outsider can have no more than 12 Hit Dice. Once per day, you can speak the common name by which the outsider is known, and the outsider travels to you as if you had cast [planar binding](ref/spell/planar-binding) upon it. It must obey you to the best of its ability, without pay or bargaining for its services, for its fear that you might release its true name to the wider world is enough to bring even the most recalcitrant of outsiders to bear.
+
+If the creature is within 100 feet, as a **move action**, you may punish it by deliberately
+mispronouncing its name, wracking its very essence and giving it the [sickened](ref/misc/sickened)
+and [staggered](ref/misc/staggered) conditions for 1 round (even if the creature is normally immune
+to these conditions). You cannot use _true name_ in an area of [silence](ref/spell/silence), but the
+creature does not have to be able to hear you for it to be harmed by the ability.
+
+It is in your best interest to call this creature only sparingly, and occasionally reward it in some
+fashion to mollify its wrath. If you repeatedly fail to offer it a reward appropriate to its type
+and ethos, the creature may begin plotting ways to destroy the bond between you, whether by creating
+an accident that will destroy your memory of the name, by plaguing you with nuisances or dangers
+until you vow never to call on it again, or by actively seeking to destroy you through its own
+devices or those of an underling. If this creature is of a lawful type and you are violating its
+ethos, its superiors may even destroy it or you rather than allow you to contaminate their servant
+further. Worse, they may establish situations where it is necessary for you to summon this outsider,
+opening gateways to infernal or angelic interference, in order to gain a foothold on the Material
+Plane.
+
+**Prereq:** 11th-level wizard
+
+**Special:** You may select this discovery multiple times. Each time you select this discovery, it
+applies to a different, specific outsider. If you select this discovery at 15th level or higher, the
+creature may have up to 18 Hit Dice and the call acts as
+[greater planar binding](ref/spell/planar-binding-greater) instead of
+_[planar binding](ref/spell/planar-binding)._
+'''
+
+[[resolution]]
 id = "ref/arcaneschool/divination"
 name = "Foretell (Su)"
 occurrence = 1
@@ -131,6 +168,29 @@ The DC to save against these feats is equal to 10 + 1/2 your wizard level + your
 '''
 
 [[resolution]]
+id = "ref/arcaneschool/transmutation"
+name = "Change Shape (Sp)"
+occurrence = 1
+span_sha256 = "2fac8fd180e0c2cbf99c171c04683d386765414be0d9b243b097b9ed034bbe85"
+print = "Core Rulebook p. 82"
+replacement = '''
+**Change Shape (Sp)**
+
+**Gained:** At 8th Level
+
+**Standard:** You can change your shape, functioning like [beast shape II](ref/spell/beast-shape-2)
+or [elemental body I](ref/spell/elemental-body-1).
+
+**Usage:** A number of rounds per day equal to your wizard level. These rounds do not need to be consecutive.
+
+**At 12th level,** this ability functions like [beast shape III](ref/spell/beast-shape-3) or [elemental body II](ref/spell/elemental-body-2).
+
+::: paragraph indented
+At 5th, 10th, 15th, and 20th levels, a transmuter may learn an [annointing](ref/ability/annointings) instead of gaining a wizard bonus feat.
+:::
+'''
+
+[[resolution]]
 id = "ref/aspect/electric-eel"
 name = "Major Form"
 occurrence = 1
@@ -147,6 +207,74 @@ a tail attack (a secondary natural touch attack that deals 1d6 points of electri
 **At 8th level,** your electricity resistance increases to 10 and you gain a +4 racial bonus on Escape Artist checks.
 
 **At 15th level,** on a critical hit with your tail attack, the creature struck must succeed at a Fortitude save (DC = 10 + half your shifter level + your Constitution modifier) or be [stunned](ref/misc/stunned) for 1d4 rounds.
+
+**Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
+'''
+
+[[resolution]]
+id = "ref/aspect/giant-wasp"
+name = "Major Form"
+occurrence = 1
+span_sha256 = "1f2f91c3656ef74dd0320d2d8c3b460efde3a406d0c37e4ca053764306c3f2fc"
+print = "Heroes of Golarion p. 22"
+replacement = '''
+**Major Form**
+
+**Ability:** Your shape changes to that of a [giant wasp](ref/monster/wasp-giant-wasp). This ability
+uses the [vermin shape](ref/spell/vermin-shape-1) spell, rather than
+[beast shape](ref/spell/beast-shape-1), for the purposes of wild shape. While in this form, you gain
+a fly speed of 40 feet (clumsy), and swarms and vermin do not attack you unless magically commanded
+to do so.
+
+**At 8th level,** this fly speed increases to 60 feet (average), and you gain a sting attack usable a number of times per day equal to 3 + your Wisdom modifier, which applies the following poison.
+
+**At 15th level,** your fly speed increases to 80 feet (good), and you can attempt to gain control of a mindless swarm as a **full-round action**. To gain control of the swarm, you must succeed at a Charisma check against a DC of 10 + the swarm's CR. You can direct the swarm to disperse, remain in a designated location, or attack an opponent. This control lasts for a number of rounds equal to [half](ref/misc/fractions-and-rounding) your shifter level.
+
+**Functions As:** [Vermin Shape II](ref/spell/vermin-shape-2)
+'''
+
+[[resolution]]
+id = "ref/aspect/scorpion"
+name = "Major Form"
+occurrence = 1
+span_sha256 = "9cb61773052b2fe688b6793894e8144f78fe6a0a191b3d9593f2435325d5b263"
+print = "Wilderness Origins p. 5"
+replacement = '''
+**Major Form**
+
+**Ability:** Your shape changes to that of a [giant scorpion](ref/monster/scorpion-giant-scorpion).
+While in this form, you gain [darkvision](ref/rule/darkvision) with a range of 60 feet,
+[tremorsense](ref/umr/tremorsense) with a range of 10 feet, two primary
+[claw attacks](ref/umr/natural-attacks) (1d6) with the [grab](ref/umr/grab) ability, and a secondary
+sting attack (1d6).
+
+**At 8th level,** the range of your [tremorsense](ref/umr/tremorsense) increases to 20 feet, and you gain a +4 racial bonus on Climb and Perception checks.
+
+**At 15th level,** when you make an attack of opportunity with your sting attack or maintain a grapple and deal damage with your sting attack, that attack also applies the following poison.
+
+**Functions As:** [Vermin Shape II](ref/spell/vermin-shape-2)
+'''
+
+[[resolution]]
+id = "ref/aspect/snake"
+name = "Major Form"
+occurrence = 1
+span_sha256 = "951a35bce4e4dc613a0b9fd38534910ef9c20e6f5489c29687c7613b835285a5"
+print = "Ultimate Wilderness p. 30"
+replacement = '''
+**Major Form**
+
+**Ability:** Your shape changes to that of an [emperor cobra](ref/monster/snake-emperor-cobra).
+While in this form, you gain a base speed of 30 feet, a climb speed of 30 feet, a swim speed of 30
+feet, [low-light vision](ref/rule/low-light-vision), [scent](ref/umr/scent) (30 feet), a
+[bite attack](ref/umr/natural-attacks) (2d6 damage), and the
+[Combat Reflexes](ref/feat/combat-reflexes) feat. If you already have Combat Reflexes or your
+Dexterity score is not high enough to gain more attacks of opportunity from Combat Reflexes, you can
+instead make one additional attack of opportunity each round.
+
+**At 8th level,** you gain a +4 racial bonus on Acrobatics and Stealth checks.
+
+**At 15th level,** when you make an attack of opportunity with your bite attack, that attack also applies the following poison.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 '''
@@ -201,6 +329,30 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/blessing/animal"
+name = "Battle Companion (major)"
+occurrence = 1
+span_sha256 = "9fedb9bcf8658c26eccc993da7d73e901974fb320884446ed6d5253aab21eace"
+print = "Advanced Class Guide p. 63"
+replacement = '''
+**Battle Companion (major)**
+
+**Gained:** At 10th Level
+
+**Flavor:** You can summon a battle companion.
+
+**Ability:** This ability functions as [summon nature's ally V](ref/spell/summon-natures-ally-5) with a duration of 1 minute. This ability can summon only one animal, regardless of the list used.
+
+**At 12th level,** this now behaves as [summon nature's ally VI](ref/spell/summon-natures-ally-6).
+
+**At 14th level,** this now behaves as [summon nature's ally VII](ref/spell/summon-natures-ally-7).
+
+**At 16th level,** this now behaves as [summon nature's ally VIII](ref/spell/summon-natures-ally-8).
+
+**At 18th level,** this now behaves as [summon nature's ally IX](ref/spell/summon-natures-ally-9).
+'''
+
+[[resolution]]
 id = "ref/blessing/artifice"
 name = "Crafter's Wrath (minor)"
 occurrence = 1
@@ -215,6 +367,29 @@ replacement = '''
 objects.
 
 **Ability:** For 1 minute, whenever this weapon deals damage to constructs or objects, it bypasses [hardness](ref/umr/hardness) and [damage reduction](ref/rule/damage-reduction).
+'''
+
+[[resolution]]
+id = "ref/blessing/artifice"
+name = "Transfer Magic (major)"
+occurrence = 1
+span_sha256 = "113d115f91b081596e9f7ec0cfa0bb2d31acd88a7a7ef6ae752bdae77323ee0d"
+print = "Advanced Class Guide p. 64"
+replacement = '''
+**Transfer Magic (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** You can temporarily transfer a weapon special ability from one weapon to another. The bearers of each of the weapons must be willing, and you must be touching both weapons to activate this ability.
+
+You can transfer a weapon special ability with a base price modifier of +1 or +2. If you are using
+this ability on a [double](ref/misc/double) weapon, only one end of the double weapon is affected.
+The transfer lasts for 1 minute, after which the transferred weapon special ability automatically
+returns to the source weapon.
+
+You can use this ability multiple times on the same weapon or weapons. Alternatively, you can use
+_transfer magic_ to move a +1 or +2 armor special ability from one touched suit of armor to another,
+or move a +1 or +2 armor or weapon enhancement bonus to another armor or weapon.
 '''
 
 [[resolution]]
@@ -234,6 +409,32 @@ replacement = '''
 
 **Special:** This blessing's additional damage doesn't stack with the additional damage from the
 [anarchic](ref/magic-enh/anarchic) weapon special ability.
+'''
+
+[[resolution]]
+id = "ref/blessing/chaos"
+name = "Battle Companion (major)"
+occurrence = 1
+span_sha256 = "6abe32cbddfa01109b52e43eee45906383344b9a176d85dc5f08ca1143454413"
+print = "Advanced Class Guide p. 64"
+replacement = '''
+**Battle Companion (major)**
+
+**Gained:** At 10th Level
+
+**Flavor:** You can summon a battle companion.
+
+**Ability:** This ability functions as [summon monster IV](ref/spell/summon-monster-4) with a duration of 1 minute, but for only a chaotic outsider or an animal with the [entropic](ref/template/entropic) creature simple template. This ability can summon only one creature, regardless of the list used.
+
+**At 12th level,** this now behaves as [summon monster V](ref/spell/summon-monster-5).
+
+**At 14th level,** this now behaves as [summon monster VI](ref/spell/summon-monster-6).
+
+**At 16th level,** this now behaves as [summon monster VII](ref/spell/summon-monster-7).
+
+**At 18th level,** this now behaves as [summon monster VIII](ref/spell/summon-monster-8).
+
+**At 20th level,** this now behaves as [summon monster IX](ref/spell/summon-monster-9).
 '''
 
 [[resolution]]
@@ -315,6 +516,42 @@ replacement = '''
 **Flavor:** You can touch an ally and grant it the blessing of cooperation.
 
 **Ability:** Choose one teamwork feat that you have. The touched ally gains the benefit of the chosen teamwork feat for a number of rounds equal to 1/2 your warpriest level (minimum 1). Alternatively, you can choose one teamwork feat that a touched ally has and gain the benefit of the chosen feat for a number of rounds equal to 1/2 your warpriest level (minimum 1).
+'''
+
+[[resolution]]
+id = "ref/blessing/curse"
+name = "Hexing Attack (minor)"
+occurrence = 1
+span_sha256 = "b21f4a35b4db569fe486c8be0db625b919a3b8b0e9a819d44ca91345cfec6025"
+print = "Magic Tactics Toolbox p. 22"
+replacement = '''
+**Hexing Attack (minor)**
+
+**Gained:** At 1st Level
+
+**Ability:** You can touch one weapon and enhance it to inflict a minor curse on the next target it strikes. The struck target must succeed at a Will saving throw or take a -2 penalty on attack rolls, saving throws, skill checks, or ability checks (warpriest's choice) for 1 minute.
+'''
+
+[[resolution]]
+id = "ref/blessing/curse"
+name = "Retributive Curse (major)"
+occurrence = 1
+span_sha256 = "ffba7429b4bb56c36363821ecfb12db12c4b3d1c87ef9a9644c491d545fa83bd"
+print = "Magic Tactics Toolbox p. 22"
+replacement = '''
+**Retributive Curse (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** As a **swift** or **immediate action**, you can inflict a curse on any adjacent creature that scores a critical hit against you or deals precision damage to you. The target must succeed at a Will saving throw or be cursed.
+
+Select one of the following effects: the target takes a -2 penalty to one ability score of your
+choice (the ability cannot be reduced below 1); the target takes a -2 penalty on attack rolls,
+saving throws, ability checks, and skill checks; each turn, the target has a 25% chance of taking no
+action (otherwise, it acts normally).
+
+This curse lasts for 1 hour. A creature can be subjected to only one instance of _retributive curse_
+at a time. This otherwise functions as [bestow curse](ref/spell/bestow-curse).
 '''
 
 [[resolution]]
@@ -430,6 +667,30 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/blessing/earth"
+name = "Armor of Earth (major)"
+occurrence = 1
+span_sha256 = "537cdce2d1be6471568548022a91b335c18e6227db66b21716df6f871b4b954e"
+print = "Advanced Class Guide p. 65"
+replacement = '''
+**Armor of Earth (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** You can touch an ally and harden its armor or clothing. For 1 minute, the ally gains DR 1/-.
+
+**At 12th level,** the ally's DR improves to 2/-.
+
+**At 14th level,** the ally's DR increases to 3/-.
+
+**At 16th level,** the ally's DR improves to 4/-.
+
+**At 18th level,** the ally's DR increases to 5/-.
+
+**Special:** This doesn't stack with any other damage resistance.
+'''
+
+[[resolution]]
 id = "ref/blessing/earthquake"
 name = "Earth Hammer (major)"
 occurrence = 1
@@ -441,6 +702,46 @@ replacement = '''
 **Gained:** At 10th Level
 
 **Ability:** You can touch a weapon to bless it with the force of a mighty earthquake for 1 minute. When the weapon hits a creature, the target must succeed at a Reflex save or fall [prone](ref/rule/prone); either way, the creature is immune to this ability for 24 hours.
+'''
+
+[[resolution]]
+id = "ref/blessing/earthquake"
+name = "Stone's Base (minor)"
+occurrence = 1
+span_sha256 = "fcaf786a84f133c18367d80074c4a56111d1002bd20b58178148f5ea23ef2035"
+print = "Ultimate Wilderness p. 97"
+replacement = '''
+**Stone's Base (minor)**
+
+**Gained:** At 1st Level
+
+**Flavor:** You can touch an ally to bless it with the stalwart resilience of stone.
+
+**Ability:** For 1 minute, the creature gains a +4 bonus to its CMD against maneuvers that would move the ally or knock it prone.
+'''
+
+[[resolution]]
+id = "ref/blessing/evil"
+name = "Battle Companion (major)"
+occurrence = 1
+span_sha256 = "d07ae46d1b928dbe89596e89f4ec97be50d415e14106907f03c9ce736913af6c"
+print = "Advanced Class Guide p. 65"
+replacement = '''
+**Battle Companion (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** You can summon a battle companion. This ability functions as [summon monster IV](ref/spell/summon-monster-4) with a duration of 1 minute, but for only an evil outsider or an animal with the [fiendish](ref/template/fiendish) creature simple template. This ability can summon only one creature, regardless of the list used.
+
+**At 12th level,** this now behaves as [summon monster V](ref/spell/summon-monster-5).
+
+**At 14th level,** this now behaves as [summon monster VI](ref/spell/summon-monster-6).
+
+**At 16th level,** this now behaves as [summon monster VII](ref/spell/summon-monster-7).
+
+**At 18th level,** this now behaves as [summon monster VIII](ref/spell/summon-monster-8).
+
+**At 20th level,** this now behaves as [summon monster IX](ref/spell/summon-monster-9).
 '''
 
 [[resolution]]
@@ -491,6 +792,22 @@ replacement = '''
 
 [[resolution]]
 id = "ref/blessing/flood"
+name = "Lasting Breath (minor)"
+occurrence = 1
+span_sha256 = "d154e6d6030a8b964ef5c8a012a88cfe173a60ebefbabe61a9ff57a68ba625d2"
+print = "Ultimate Wilderness p. 97"
+replacement = '''
+**Lasting Breath (minor)**
+
+**Gained:** At 1st Level
+
+**Flavor:** You can touch an ally to bless it with an extra reserve of breath.
+
+**Ability:** For 1 minute, while the ally [holds its breath](ref/misc/hold-your-breath), standard and full-round actions don't decrease the number of rounds the ally can hold its breath.
+'''
+
+[[resolution]]
+id = "ref/blessing/flood"
 name = "Tsunami Burst (major)"
 occurrence = 1
 span_sha256 = "239043cb0886b8f836de199373f9bb81e26d33ab717a013bad4f8be76746f3a5"
@@ -535,6 +852,20 @@ replacement = '''
 
 [[resolution]]
 id = "ref/blessing/godclaw"
+name = "Command Obedience (minor)"
+occurrence = 1
+span_sha256 = "84d3ad6f1533898a4465ccf790f4d4ca1e1f5f9764c11a44720f8c2e88d5a135"
+print = "Disciple's Doctrine p. 14"
+replacement = '''
+**Command Obedience (minor)**
+
+**Gained:** At 1st Level
+
+**Ability:** You can touch an ally and say a quick word to remind her of her obligations, granting her a new saving throw against each enchantment effect that currently affects her. If the saving throw is successful, the enchantment effect immediately ends. This power affects only effects that allow a saving throw.
+'''
+
+[[resolution]]
+id = "ref/blessing/godclaw"
 name = "Tactical Readiness (major)"
 occurrence = 1
 span_sha256 = "43c15923ed9a9a38f8ef098db5156494ee6a2469f823075c2bbd5185039de118"
@@ -545,6 +876,30 @@ replacement = '''
 **Gained:** At 10th Level
 
 **Ability:** You can rally your allies within 30 feet, allowing each to immediately do one of the following as a free action that does not provoke attacks of opportunity: remove the [flat-footed](ref/rule/flat-footed) condition, [take a 5-foot step](ref/rule/take-5-foot-step), draw a weapon, ready a shield, or gain a +1 dodge bonus to AC for 1 round. You can affect a number of allies equal to your Wisdom bonus. These actions do not count against your allies' total movement or actions on their next turn.
+'''
+
+[[resolution]]
+id = "ref/blessing/good"
+name = "Battle Companion (major)"
+occurrence = 1
+span_sha256 = "2ae3ad047ac6226668e9e8a64219a44e171a035ec0e7426b9f5e9d13ba9e9e53"
+print = "Advanced Class Guide p. 66"
+replacement = '''
+**Battle Companion (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** You can summon a battle companion. This ability functions as [summon monster IV](ref/spell/summon-monster-4) with a duration of 1 minute, but for only a good outsider or an animal with the [celestial](ref/template/celestial) creature simple template. This ability can summon only one creature, regardless of the list used.
+
+**At 12th level,** this now behaves as [summon monster V](ref/spell/summon-monster-5).
+
+**At 14th level,** this now behaves as [summon monster VI](ref/spell/summon-monster-6).
+
+**At 16th level,** this now behaves as [summon monster VII](ref/spell/summon-monster-7).
+
+**At 18th level,** this now behaves as [summon monster VIII](ref/spell/summon-monster-8).
+
+**At 20th level,** this now behaves as [summon monster IX](ref/spell/summon-monster-9).
 '''
 
 [[resolution]]
@@ -671,6 +1026,30 @@ replacement = '''
 **Flavor:** You can touch one weapon and enhance it with the essence of law.
 
 **Ability:** For 1 minute, this weapon glows blue, pale yellow, or white and deals an additional 1d6 points of damage against chaotic creatures. During this time, it's treated as lawful for the purposes of overcoming [damage reduction](ref/rule/damage-reduction). This additional damage doesn't stack with the additional damage from the [axiomatic](ref/magic-enh/axiomatic) weapon special ability.
+'''
+
+[[resolution]]
+id = "ref/blessing/law"
+name = "Battle Companion (major)"
+occurrence = 1
+span_sha256 = "ec7692ea7c50bc7e5012ca14981338215743497b8b1ca41100884781a2a5b2ad"
+print = "Advanced Class Guide p. 66"
+replacement = '''
+**Battle Companion (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** You can summon a battle companion. This ability functions as [summon monster IV](ref/spell/summon-monster-4) with a duration of 1 minute, but for only a lawful outsider or an animal with the [resolute](ref/template/resolute) creature simple template. This ability can summon only one creature, regardless of the list used.
+
+**At 12th level,** this now behaves as [summon monster V](ref/spell/summon-monster-5).
+
+**At 14th level,** this now behaves as [summon monster VI](ref/spell/summon-monster-6).
+
+**At 16th level,** this now behaves as [summon monster VII](ref/spell/summon-monster-7).
+
+**At 18th level,** this now behaves as [summon monster VIII](ref/spell/summon-monster-8).
+
+**At 20th level,** this now behaves as [summon monster IX](ref/spell/summon-monster-9).
 '''
 
 [[resolution]]
@@ -850,6 +1229,30 @@ blessing again, the previous use immediately expires.
 
 [[resolution]]
 id = "ref/blessing/plant"
+name = "Battle Companion (major)"
+occurrence = 1
+span_sha256 = "abaf651c865caffdef6f655720bbec0a7a4667557e4aa6d788a0dde34d6d92e5"
+print = "Advanced Class Guide p. 67"
+replacement = '''
+**Battle Companion (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** You can summon a battle companion. This ability functions as [summon nature's ally IV](ref/spell/summon-natures-ally-4), with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature's type changes to [plant](ref/type/plant) instead of animal.
+
+**At 12th level,** this now behaves as [summon nature's ally V](ref/spell/summon-natures-ally-5).
+
+**At 14th level,** this now behaves as [summon nature's ally VI](ref/spell/summon-natures-ally-6).
+
+**At 16th level,** this now behaves as [summon nature's ally VII](ref/spell/summon-natures-ally-7).
+
+**At 18th level,** this now behaves as [summon nature's ally VIII](ref/spell/summon-natures-ally-8).
+
+**At 20th level,** this now behaves as [summon nature's ally IX](ref/spell/summon-natures-ally-9).
+'''
+
+[[resolution]]
+id = "ref/blessing/plant"
 name = "Creeping Vines (minor)"
 occurrence = 1
 span_sha256 = "d4f89b1963b75f540c09cfcfac682a9be4bee574d56746e9a409c23d48950a5c"
@@ -926,6 +1329,25 @@ replacement = '''
 
 [[resolution]]
 id = "ref/blessing/rune"
+name = "Blast Rune (minor)"
+occurrence = 1
+span_sha256 = "ede169ac8bdb6e084000dc089370d9f229afe3bd5be7bb5ffcc15291d75df511"
+print = "Advanced Class Guide p. 67"
+replacement = '''
+**Blast Rune (minor)**
+
+**Gained:** At 1st Level
+
+**Ability:** You can create a blast rune in any adjacent square. Any creature entering this square takes an amount of damage equal to 1d6 + 1/2 your warpriest level. This rune deals either acid, cold, electricity, or fire damage, designated when you create the rune.
+
+The rune is invisible, and lasts a number of rounds equal to your warpriest level or until
+discharged. You cannot create a blast rune in a square occupied by another creature. This rune
+counts as a 1st-level spell for the purposes of dispelling. It can be discovered with a successful
+DC 26 Perception skill check and disarmed with a successful DC 26 Disable Device skill check.
+'''
+
+[[resolution]]
+id = "ref/blessing/rune"
 name = "Spell-Storing Weapon (major)"
 occurrence = 1
 span_sha256 = "ae0996467a4e515178b73eeadc3ca864ec6c63bca356753446aa96b855aacf45"
@@ -953,6 +1375,20 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/blessing/scalykind"
+name = "Serpent Fang (major)"
+occurrence = 1
+span_sha256 = "d1c293c8aaa4748cf077d62a0093bd847e7b8c41bf9529001eae9e0f44b80cf0"
+print = "Advanced Class Origins p. 25"
+replacement = '''
+**Serpent Fang (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** As a **standard action** you can manifest venomous fangs for 1 minute. These fangs grant a [bite attack](ref/umr/natural-attacks) that deals 1d4 points of damage (for a Medium warpriest, 1d3 if Small). A successful bite also afflicts the opponent with a debilitating venom.
+'''
+
+[[resolution]]
 id = "ref/blessing/shadow"
 name = "Flicker of Shadows (minor)"
 occurrence = 1
@@ -964,6 +1400,23 @@ replacement = '''
 **Gained:** At 1st Level
 
 **Ability:** You can cause a weapon you touch to warp and become insubstantial for a split second before an attack. The first attack made with this weapon each round ignores any shield bonus to Armor Class, as well as bonuses from [cover](ref/rule/cover). Total cover still provides a creature its full benefit. This effect lasts for 1 minute.
+'''
+
+[[resolution]]
+id = "ref/blessing/shadow"
+name = "Swift as Shadow (major)"
+occurrence = 1
+span_sha256 = "a8e3e26a22579bdc171a6341e20490bd2f74b5824432838a2da55ff18a7e09c6"
+print = "Blood of Shadows p. 17"
+replacement = '''
+**Swift as Shadow (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** You can spend a **swift action** to empower yourself or an ally within 30 feet to move over the ground as easily as its shadow. The subject's land speed increases by 10 feet and it takes no movement penalties for darkness, difficult terrain, or slickness. The creature can safely move over areas of ice and even those affected by a [grease](ref/spell/grease) spell.
+
+When a creature affected by this ability hits with a [charge](ref/rule/charge) attack, that attack
+deals an amount of additional cold damage equal to your level.
 '''
 
 [[resolution]]
@@ -1023,6 +1476,20 @@ replacement = '''
 **Gained:** At 10th Level
 
 **Ability:** You can touch a weapon and grant it either the [flaming](ref/magic-enh/flaming) or undead-[bane](ref/magic-enh/bane) weapon special ability for 1 minute. If you spend two uses of your _blessing_ when activating this ability, the weapon can have both weapon special abilities.
+'''
+
+[[resolution]]
+id = "ref/blessing/tornado"
+name = "Dust Devil (minor)"
+occurrence = 1
+span_sha256 = "6767374b2f6b476c0a49e2753753f6b4655ebbd0f16943fea26efdf4b48ebec0"
+print = "Ultimate Wilderness p. 97"
+replacement = '''
+**Dust Devil (minor)**
+
+**Gained:** At 1st Level
+
+**Ability:** When you hit with a weapon attack, you can use a **swift action** to cause a sudden burst of wind and debris to swirl around your target. The target is [dazzled](ref/misc/dazzled) for 1 minute.
 '''
 
 [[resolution]]
@@ -1239,6 +1706,20 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/blessing/wildfire"
+name = "Leaping Flames (minor)"
+occurrence = 1
+span_sha256 = "73003ba342e10d165e84867005f519f5a8ed9731206f501f038ef50227303b0f"
+print = "Ultimate Wilderness p. 97"
+replacement = '''
+**Leaping Flames (minor)**
+
+**Gained:** At 1st Level
+
+**Ability:** You touch an ally to bless it with the speed of a wildfire for 1 minute. The ally gains a +10-foot enhancement bonus to its base speed, and the ally gains a +1 dodge bonus to its AC against attacks of opportunity.
+'''
+
+[[resolution]]
 id = "ref/blrgbloodline/aquatic"
 name = "Watersense (Ex)"
 occurrence = 1
@@ -1275,6 +1756,56 @@ You gain these abilities even while not _bloodraging._
 '''
 
 [[resolution]]
+id = "ref/blrgbloodline/sphinx"
+name = "Desert Fortitude (Su)"
+occurrence = 1
+span_sha256 = "1f704707af4265606ead5342287f404cac6c243d2560da71c0570f6b97238c80"
+print = "Heroes of Golarion p. 23"
+replacement = '''
+**Desert Fortitude (Su)**
+
+**Gained:** At 8th Level
+
+**Passive:** You gain [resistance](ref/umr/resistance) 5 to electricity and fire. In addition, you
+gain [endure elements](ref/spell/endure-elements) as a constant
+[spell-like ability](ref/umr/spell-like-abilities) and a +2 competence bonus on saves against arcane
+spells.
+
+**At 16th level,** your resistance to electricity and fire increases to 10.
+'''
+
+[[resolution]]
+id = "ref/deed/dead-shot"
+name = "Dead Shot (Ex)"
+occurrence = 1
+span_sha256 = "c180715798f560936bde2165576a211cb5cdfa070d74dbeb4a395f88116b7a6e"
+print = "Ultimate Combat p. 11"
+replacement = '''
+**Dead Shot (Ex)**
+
+**Full-round:** The gunslinger can take careful aim and pool all of her attack potential into a single, deadly shot. When she does this, she shoots the firearm at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack.
+
+If any of the attack rolls hit the target, the gunslinger's single attack is considered to have hit.
+For each additional successful attack roll beyond the first, the gunslinger increases the damage of
+the shot by the base damage dice of the firearm. For instance, if a 7th-level gunslinger firing a
+musket hits with both attacks, she does 2d12 points of damage with the shot, instead of 1d12 points
+of damage, before adding any damage modifiers.
+
+Precision damage and extra damage from weapon special abilities (such as
+[flaming](ref/magic-enh/flaming)) are added with damage modifiers and are not increased by this
+deed. If one or more rolls are critical threats, she confirms the critical once using her highest
+base attack bonus -5. For each critical threat beyond the first, she reduces this penalty by 1 (to a
+maximum of 0).
+
+**Prereq:** 7th-level gunslinger
+
+**Special:** The gunslinger only misfires on a dead shot if **all** the attack rolls are misfires.
+She cannot perform this deed with a [blunderbuss](ref/eq-weapon/blunderbuss) or other
+[scatter](ref/misc/scatter) weapon when attacking creatures in a cone. The gunslinger must spend 1
+grit point to perform this deed.
+'''
+
+[[resolution]]
 id = "ref/deed/utility-shot"
 name = "Utility Shot (Ex)"
 occurrence = 1
@@ -1292,6 +1823,20 @@ gunslinger must declare the utility shot she is using before firing the shot.
 - **Blast Lock:** The gunslinger makes an attack roll against a lock within the first range increment of her firearm. A Diminutive lock usually has AC 7, and larger locks have a lower AC. The lock gains a bonus to its AC against this attack based on its quality. A simple lock has a +10 bonus to AC, an average lock has a +15 bonus to AC, a good lock has a +20 bonus to AC, and a superior lock has a +30 bonus to AC. [Arcane lock](ref/spell/arcane-lock) grants a +10 bonus to the AC of a lock against this attack. On a hit, the lock is destroyed, and the object can be opened as if it were unlocked. On a miss, the lock is destroyed, but the object is jammed and still considered locked. It can still be unlocked by successfully performing this deed, by using the Disable Device skill, or with the break DC, though the DC for either break or Disable Device or the AC increases by 10. A key, combination, or similar mechanical method of unlocking the lock no longer works, though [knock](ref/spell/knock) can still be employed to bypass the lock, and the creator of an _[arcane lock](ref/spell/arcane-lock)_ can still bypass the wards of that spell.
 - **Scoot Unattended Object:** The gunslinger makes an attack roll against a Tiny or smaller unattended object within the first range increment of her firearm. A Tiny unattended object has an AC of 5, a Diminutive unattended object has an AC of 7, and a Fine unattended object has an AC of 11. On a hit, the gunslinger does not damage the object with the shot, but can move it up to 15 feet farther away from the shot's origin. On a miss, she damages the object normally.
 - **Stop Bleeding:** The gunslinger makes a firearm attack and then presses the hot barrel against herself or an adjacent creature to staunch a bleeding wound. Instead of dealing damage, the shot ends a single [bleed](ref/rule/bleed) condition affecting the creature. The gunslinger does not have to make an attack roll when performing the deed in this way; she can instead shoot the firearm into the air, but that shot still uses up ammunition normally.
+'''
+
+[[resolution]]
+id = "ref/discipline/abomination"
+name = "Morphic Form (Ex)"
+occurrence = 1
+span_sha256 = "6241a8f905b2f553435b549fa0f689ed6e646f39d8af3b65b0f1158246aadbd6"
+print = "Occult Adventures p. 65"
+replacement = '''
+**Morphic Form (Ex)**
+
+**Gained:** At 5th Level
+
+**Ability:** While manifesting your dark half, you gain DR 5. This [damage reduction](ref/rule/damage-reduction) can be overcome by a random type of damage each time you manifest your dark half, determined by rolling on the table below.
 '''
 
 [[resolution]]
@@ -1373,6 +1918,26 @@ replacement = '''
 **Ability:** You can enter a deep meditation, allowing you to concentrate on a single problem, philosophical issue, or memory. This trance lasts 1d6 rounds, during which time you can take only move actions and gain a bonus equal to your psychic level on all saves against sonic effects and [gaze](ref/umr/gaze) attacks. When you come out of your trance, you can attempt a single [Appraise](ref/skill/appraise), Knowledge, or [Spellcraft](ref/skill/spellcraft) check with a +20 circumstance bonus.
 
 **Usage:** Wisdom modifier times/day
+'''
+
+[[resolution]]
+id = "ref/discipline/faith"
+name = "Prayer Aura (Su)"
+occurrence = 1
+span_sha256 = "28e0fefd30623ea9f6257eaded33f837745e715d892e21a66fbeaeab8671dc3a"
+print = "Occult Adventures p. 66"
+replacement = '''
+**Prayer Aura (Su)**
+
+**Gained:** At 13th Level
+
+**Ability:** As a **free action**, you can extend an aura around you to bolster your allies and make your enemies less effective. This functions as the [prayer](ref/spell/prayer) spell, granting your allies a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks and imposing a -1 penalty on your enemies' rolls of those types.
+
+If you are chaotic, lawful, good, or evil, the penalty from your aura changes to -2 against
+creatures of an opposing alignment. The penalty doesn't change further for a creature that opposes
+you on two alignment axes (such as a chaotic evil creature fighting a lawful good psychic).
+
+**Usage:** A number of rounds per day equal to your psychic level. These rounds don't need to be consecutive.
 '''
 
 [[resolution]]
@@ -1488,6 +2053,43 @@ replacement = '''
 presence as protection from external spiritual attacks.
 
 **Ability:** You gain a bonus equal to your Charisma modifier on saving throws against effects generated by haunts, incorporeal undead, incorporeal outsiders, and on saving throws against possession attempts.
+'''
+
+[[resolution]]
+id = "ref/discipline/lore"
+name = "Memory Palace (Su)"
+occurrence = 1
+span_sha256 = "c956826cc1b43fa73f48057a50942042fb33b52fa49976722fe4b6edb0fe20cf"
+print = "Occult Adventures p. 67"
+replacement = '''
+**Memory Palace (Su)**
+
+**Gained:** At 13th Level
+
+**Ability:** You mentally construct an extradimensional library to house mental constructs representing the volumes of lore you've studied. This ability functions as [mage's magnificent mansion](ref/spell/mages-magnificent-mansion), with the following adjustments: the memory palace is limited in size to a number of 10-foot cubes equal to your psychic level; your memory palace doesn't contain any furniture other than bookcases and a few desks and sofas where you and your visitors can study; and there is no food within, though the memory palace does contain a number of [unseen servants](ref/spell/unseen-servant) equal to 1/2 your psychic level, which function solely as librarians. The library keeps the same layout each time you summon it, though you can alter its appearance each time you gain a level or by spending 15 minutes concentrating. You can reshape the memory palace in your mind, so it doesn't need to currently be in effect for you to alter it.
+
+Choose one type of [Knowledge](ref/skill/knowledge-all) skill when you gain this ability. Consulting
+your memory palace gives anyone who studies within - including you - a +4 circumstance bonus on
+Knowledge checks of that type, and the memory palace counts as an extensive
+[library](ref/rule/using-a-library) for people attempting Knowledge checks of that type untrained.
+You gain a +2 circumstance bonus on checks with the chosen skill when you're not consulting the
+palace (including when the palace isn't in effect).
+
+**Usage:** You can create your memory palace once per day.
+
+**At 14th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 15th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 16th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 17th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 18th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 19th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
+
+**At 20th level,** choose another Knowledge skill to which your memory palace's library bonuses apply.
 '''
 
 [[resolution]]
@@ -1760,6 +2362,38 @@ around you.
 
 [[resolution]]
 id = "ref/discipline/self-perfection"
+name = "Bodily Purge (Su)"
+occurrence = 1
+span_sha256 = "14a62d9ce0acd361993f3ef0e9d971aecab59c6dcca9ee76dc7ceb64f543ee2c"
+print = "Occult Adventures p. 69"
+replacement = '''
+**Bodily Purge (Su)**
+
+**Gained:** At 5th Level
+
+**Flavor:** You can heal your own wounds and maladies with the power of thought alone.
+
+**Ability:** You gain access to a daily pool of healing energy. This pool starts with 3d8 dice per day. As a **standard action**, you can use up any number of these dice to regain a number of hit points equal to the result of rolling that many d8s. For example, at 5th level you could regain 3d8 hit points all at once, 1d8 hit points three separate times, or 1d8 hit points once and 2d8 hit points at a different time. In addition, you can expend 2 dice from this pool to instead gain the benefit of [lesser restoration](ref/spell/restoration-lesser) (affecting yourself only).
+
+**At 7th level,** you can expend 3 dice from this pool to instead gain the benefit of [neutralize poison](ref/spell/neutralize-poison), [remove disease](ref/spell/remove-disease), or [restoration](ref/spell/restoration) (affecting yourself only). To use _[restoration](ref/spell/restoration)_ to dispel a permanent [negative level](ref/rule/energy-drain-and-negative-levels), you must expend 4 dice from this pool instead of 3. Your healing pool increases to 4d8.
+
+**At 9th level,** your healing pool increases to 5d8.
+
+**At 11th level,** your healing pool increases to 6d8.
+
+**At 13th level,** your healing pool increases to 7d8.
+
+**At 15th level,** your healing pool increases to 8d8.
+
+**At 17th level,** your healing pool increases to 9d8.
+
+**At 19th level,** your healing pool increases to 10d8.
+
+**Special:** Use your psychic level as your caster level for these effects.
+'''
+
+[[resolution]]
+id = "ref/discipline/self-perfection"
 name = "Pure Body (Ex)"
 occurrence = 1
 span_sha256 = "6cfcf563d3ae5482581ba8a963e924ee7c683c5419cbeda5bd0fcc921114f595"
@@ -1854,6 +2488,25 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/discipline/superiority"
+name = "Magical Hoarder (Su)"
+occurrence = 1
+span_sha256 = "ce27ef59b53c4693796bc100a8e93e2f4f1c061e6eb9c4a5a72613d9c3c296b7"
+print = "Disciple's Doctrine p. 19"
+replacement = '''
+**Magical Hoarder (Su)**
+
+**Gained:** At 13th Level
+
+**Ability:** Whenever a creature within 30 feet of you casts a spell intended to benefit its targets, you can spend 1 point from your phrenic pool as an **immediate action** to include yourself as a target of that spell. If the creature is not your ally, you must be able to clearly see the spell's effects and you must succeed at a [Spellcraft](ref/skill/spellcraft) check (DC = 15 + the spell's level) to identify the spell before using this ability.
+
+If you are not within the normal range of the spell, then you must spend 1 additional point from
+your phrenic pool to use this ability. If the spell has a range of personal, then you must instead
+spend 2 additional phrenic points from your pool to use this ability. This ability does not affect
+spells with an instantaneous or permanent duration.
+'''
+
+[[resolution]]
 id = "ref/discipline/symbiosis"
 name = "Animate Trees (Su)"
 occurrence = 1
@@ -1874,6 +2527,29 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/discipline/symbiosis"
+name = "Bionetwork (Su)"
+occurrence = 1
+span_sha256 = "e9f680b14358c6071bd9b197c51e70383a297ea84d63f7eda7c6e75a6bbc6a01"
+print = "Ultimate Wilderness p. 93"
+replacement = '''
+**Bionetwork (Su)**
+
+**Gained:** At 5th Level
+
+**Flavor:** Your mental influence over nature increases.
+
+**Ability:** You can spend 10 minutes to mentally connect with living fungi, leaves, moss, roots, and similar plants or plant-like things. You form a temporary network that functions as an extension of your senses. The network allows you to use one of the following two effects: you can remotely view any familiar or obvious location within a range of 250 feet per psychic level, as per [clairaudience/clairvoyance](ref/spell/clairaudience-clairvoyance); or you can attempt to locate a creature within the area, as per [scrying](ref/spell/scrying). You don't need a focus to use this effect, and you can't cast spells through the sensor.
+
+This ability doesn't function in areas of sparse vegetation, such as arid deserts, barren caverns,
+or frozen tundras. Buildings and urban areas are generally excluded from your network, but ruins
+reclaimed by nature are connected. While you're underground, roots and fungi function as your
+network, but the radius of the network is only 100 feet per psychic level.
+
+**Usage:** 1 time/day + 1 per 4 psychic levels beyond 5th
+'''
+
+[[resolution]]
 id = "ref/discipline/tranquility"
 name = "Calming Presence (Su)"
 occurrence = 1
@@ -1889,6 +2565,28 @@ replacement = '''
 **Ability:** You can use [calm emotions](ref/spell/calm-emotions) as a [spell-like ability](ref/umr/spell-like-abilities).
 
 **Usage:** Wisdom modifier times/day
+'''
+
+[[resolution]]
+id = "ref/discipline/tranquility"
+name = "Purge Disquiet (Su)"
+occurrence = 1
+span_sha256 = "81f438dc71d8970df541bc3c325abe4dd0d940a971e59fbdc3d9c4cfdedb11de"
+print = "Occult Adventures p. 69"
+replacement = '''
+**Purge Disquiet (Su)**
+
+**Gained:** At 13th Level
+
+**Flavor:** You can banish mental distress.
+
+**Ability:** You become immune to fear spells and effects and to the [confused](ref/misc/confused) condition.
+
+As a **standard action**, you can choose a willing creature that is either within 30 feet or in
+telepathic contact with you. For 1 round per psychic level you possess, you suppress any fear effect
+or confused, cowering, frightened, panicked, or shaken condition affecting that creature. You can
+suppress only one effect at a time with this ability, and choosing a new target ends the suppression
+for the character you previously chose.
 '''
 
 [[resolution]]
@@ -1943,6 +2641,93 @@ harmed.
 Once per day, if the alchemist succumbs to a mental effect that would make him unconscious, helpless, or not in control of his own actions (such as [charm person](ref/spell/charm-person), [feeblemind](ref/spell/feeblemind), or [hold person](ref/spell/hold-person)), he can reroll his saving throw; success means the twin absorbs the effect and the alchemist can ignore it. Using this ability [sickens](ref/misc/sickened) the alchemist for the duration of the absorbed effect (removing the effect from the twin ends the sickened condition), and he cannot use the twin's limbs during that time, though passive effects (such as from rings worn on the vestigial limbs) continue normally.
 
 **Prereq:** Taken the [vestigial arm](ref/discovery/vestigial-arm) discovery twice
+'''
+
+[[resolution]]
+id = "ref/discovery/psychokinetic-tincture"
+name = "Psychokinetic Tincture"
+occurrence = 1
+span_sha256 = "e192f2a32537e44351aadfbe75c92ca3866e3bc5b0d24eafc3b49f8f06099f2f"
+print = "Undead Slayer's Handbook p. 21"
+replacement = '''
+**Psychokinetic Tincture**
+
+**Flavor:** The alchemist can concoct a foul-tasting tincture that harnesses the power of the
+spirit.
+
+**Standard:** By drinking this tincture, the alchemist can invite the latent spirits in the area to
+surround him. The alchemist can channel one spirit for every 4 alchemist levels he possesses. Each
+spirit channeled this way grants the alchemist a +1 deflection bonus to AC as the spirits whirl
+around his body.
+
+As a **standard action**, the alchemist can launch one of these spirits toward a target as a ranged touch attack. Launching a spirit this way reduces this discovery's deflection bonus to AC by 1. As a launched spirit passes through its target's body, it emits a terrible wail heard only in the target's mind, causing the target to become [frightened](ref/misc/frightened) for 1 round per alchemist level (Will negates). This is a mind-affecting fear effect. A creature that successfully saves against the wail cannot be affected by this discovery again for 24 hours.
+
+**Usage:** Once per day
+
+**Prereq:** 4th-level alchemist
+
+**Special:** The spirits whirl around the alchemist's body for 10 minutes per alchemist level, or
+until the alchemist has launched all of the spirits.
+'''
+
+[[resolution]]
+id = "ref/discovery/syringe-stirge"
+name = "Syringe Stirge"
+occurrence = 1
+span_sha256 = "67b13d7e58dc35db8075cd6bb0a6924d53178eeb5182cab6754c148e03b11043"
+print = "Cohorts and Companions p. 13"
+replacement = '''
+**Syringe Stirge**
+
+**Full-round:** You can expend two daily uses of bombs to create a _syringe stirge,_ a tiny construct primed with a bomb (if you have multiple types of bombs, you must select which type the _syringe stirge_ carries when created). Undirected, they take no actions except to flock around you in your square and follow you as best they can. They can be attacked normally, but gain [cover](ref/rule/cover) while occupying your square.
+
+As a **swift action**, you can order one of your _syringe stirges_ to attack an enemy it can see. Once ordered to attack that enemy, the _syringe stirge_ will continue to attack every round, attempting to attach and deliver its payload.
+
+A _syringe stirge_ has all of the statistics of a [stirge](ref/monster/stirge) but lacks the blood drain ability. If it ends its turn attached to an opponent, it injects your bomb into the opponent's bloodstream, dealing damage as a direct hit plus the alchemist's Intelligence modifier (as the [Throw Anything](ref/feat/throw-anything) feat - this injection is a direct attack and doesn't deal splash damage).
+
+**Prereq:** 6th-level alchemist
+
+**Special:** A _syringe stirge_ dies immediately after injecting its bomb. A _syringe stirge_ lasts
+for 1 minute per alchemist level or until destroyed; if it has not attached to an enemy before the
+end of its life span it and its bomb payload fall inert.
+'''
+
+[[resolution]]
+id = "ref/domain/air"
+name = "Electricity Resistance (Ex)"
+occurrence = 1
+span_sha256 = "c503b81f54235c5865cb3a1b217eaefe2bca0cec2a4ef22e4bcedafa90b6aed7"
+print = "Core Rulebook p. 41"
+replacement = '''
+**Electricity Resistance (Ex)**
+
+**Gained:** At 6th Level
+
+**Ability:** You gain [resist](ref/umr/resistance) electricity 10.
+
+**At 12th level,** this resistance increases to 20.
+
+**At 20th level,** you gain [immunity](ref/umr/immunity) to electricity.
+'''
+
+[[resolution]]
+id = "ref/domain/artifice"
+name = "Dancing Weapons (Su)"
+occurrence = 1
+span_sha256 = "ef96b40c0d3918cfb2e6d0638a3cea292cb3eb2dd92b53470140f5c80e47389d"
+print = "Core Rulebook p. 41"
+replacement = '''
+**Dancing Weapons (Su)**
+
+**Gained:** At 8th Level
+
+**Standard:** You can give a weapon touched the [dancing](ref/magic-enh/dancing) special weapon
+quality for 4 rounds.
+
+Alternately, you can choose to learn an [anointing](ref/ability/annointings) instead of gaining the
+dancing weapons ability at 8th level.
+
+**Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
 '''
 
 [[resolution]]
@@ -2039,6 +2824,22 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/domain/repose"
+name = "Exorcism of Undeath (Sp)"
+occurrence = 1
+span_sha256 = "02d0495f4c5c1e6f9e7594456081228acf6c2ee96961738eb5d6772167754975"
+print = "Haunted Heroes Handbook p. 9"
+replacement = '''
+**Exorcism of Undeath (Sp)**
+
+**Full-round:** You can try to end any possession spells or effects, or effects that directly exercise mental control over a creature, as long as the effect was caused by an undead creature. You must touch the affected creature (this requires a melee touch attack if the target is neither willing nor helpless) and use a vial of [holy water](ref/eq-weapon/holy-water) as a material component that is consumed as part of using this ability. The target must immediately attempt a new Will save against the original save DC of the controlling effect. If the save is successful, the possession effect immediately ends, as if the target had succeeded at its original saving throw. If the possessing force is a [ghost](ref/template/ghost) or similar undead, it manifests adjacent to the target and is [staggered](ref/misc/staggered) for 1 round.
+
+**Usage:** Once per day
+
+**Replaces:** The ward against death domain power of the Repose domain
+'''
+
+[[resolution]]
 id = "ref/domain/strength"
 name = "Perfected Form (Su)"
 occurrence = 1
@@ -2072,6 +2873,23 @@ replacement = '''
 **At 12th level,** the resistance increases to 20.
 
 **At 20th level,** you gain [immunity](ref/umr/immunity) to cold.
+'''
+
+[[resolution]]
+id = "ref/druiddomain/aquatic"
+name = "Seastrike (Su)"
+occurrence = 1
+span_sha256 = "97bea72f82dd58e9b0cadf4038149c6114c94577cc9dede458258dcb12733f95"
+print = "Ultimate Magic p. 33"
+replacement = '''
+**Seastrike (Su)**
+
+**Gained:** At 6th Level
+
+**Free:** You may use natural and manufactured weapons in water as if you had continuous
+_[freedom of movement](ref/spell/freedom-of-movement)._
+
+As a **standard action**, you can throw a weapon underwater without the normal penalties for throwing weapons; if your target is in or under the water, the weapon also acts as a [returning](ref/magic-enh/returning) weapon for that attack.
 '''
 
 [[resolution]]
@@ -2194,6 +3012,63 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/emotionalfocus/hatred"
+name = "Sneak Attack (Su)"
+occurrence = 1
+span_sha256 = "f6382c1210d1d74d1f39b4a1679d5bd7a975aa457f411831673f17371086db1a"
+print = "Occult Adventures p. 83"
+replacement = '''
+**Sneak Attack (Su)**
+
+**Gained:** At 12th Level
+
+**Ability:** The phantom gains [sneak attack](ref/ability/sneak-attack) +3d6, but only against its _hated target._
+
+**At 18th level,** the sneak attack damage increases to +5d6.
+'''
+
+[[resolution]]
+id = "ref/evolution/large"
+name = "Large (Ex)"
+occurrence = 1
+span_sha256 = "a0a9bd5b1c0a3b2d40b94316b1472a23c72b51f31aab65963cd288ae0e451399"
+print = "Advanced Player's Guide p. 64"
+replacement = '''
+**Large (Ex)**
+
+**Ability:** An eidolon grows in size, becoming Large. The eidolon gains a +8 bonus to Strength, a
++4 bonus to Constitution, and a +2 bonus to its natural armor. It takes a -2 penalty to its
+Dexterity. This size change also gives the creature a -1 size penalty to its AC and on attack rolls,
+a +1 bonus to its CMB and CMD, a -2 penalty on Fly skill checks, and a -4 penalty on Stealth skill
+checks. If the eidolon has the biped base form, it also gains 10-foot reach. Any
+[reach](ref/evolution/reach) evolutions the eidolon possesses are added to this total.
+
+**At 13th level,** if 6 additional evolution points are spent, the eidolon instead becomes Huge. The eidolon gains a +16 bonus to Strength, a +8 bonus to Constitution, and a +5 bonus to its natural armor. It takes a -4 penalty to its Dexterity. This size change also give the creature a -2 size penalty to its AC and attack rolls, a +2 bonus to its CMB and CMD, 10-foot reach, a -4 penalty on Fly skill checks, and a -8 penalty on Stealth skill checks. If the eidolon has the biped base form, its reach increases to 15 feet (10 feet for all other base forms). Any _reach_ evolutions the eidolon possesses are added to this total. These bonuses and penalties replace, and do not stack with, those gained from becoming Large.
+
+**Prereq:** 8th-level summoner, eidolon is Medium-sized
+
+**Special:** The [ability increase](ref/evolution/ability-increase) evolution costs twice as much (4
+evolution points) when adding to the Strength or Constitution scores of a Large or Huge eidolon.
+'''
+
+[[resolution]]
+id = "ref/exploit/armored-mask"
+name = "Armored Mask (Su)"
+occurrence = 1
+span_sha256 = "081a2a5fbc460ee7eef0e401215231fa3cce3b68b8bb71a6e063961b46e2443f"
+print = "Disciple's Doctrine p. 21"
+replacement = '''
+**Armored Mask (Su)**
+
+**Standard:** By expending 1 point from her arcane reservoir, the arcanist grants herself an
+effective illusion of armor. She gains the benefits of [mage armor](ref/spell/mage-armor) with a
+caster level that's equal to her arcanist level and appears to be wearing light or medium armor of
+whatever design she chooses when activating this ability.
+
+At any time while this effect is active, she can expend 1 additional point from her arcane reservoir as an **immediate action** to also gain the benefits of [shield of faith](ref/spell/shield-of-faith) with a caster level equal to her arcanist level.
+'''
+
+[[resolution]]
 id = "ref/exploit/first-world-illusion-catcher"
 name = "First-World Illusion Catcher (Su)"
 occurrence = 1
@@ -2244,6 +3119,29 @@ comments on other topics or independently rediscovered the methods Jatembe first
 **Ability:** The arcanist can expend 1 or more points from her arcane reservoir to create an uncontrolled primal effect. This creates an effect from the [Sample Primal Magic Events](ref/rule/primal-magic) table. The CR of this effect is equal to the arcanist's caster level, to a maximum caster level of 5 per point spent from her arcane reserve. In this case, the effect is treated as a spell with a spell level equal to half its CR (maximum spell level 9).
 
 Alternatively, the arcanist can expend 1 point from her arcane reservoir and expend a spell slot of at least 3rd level to create an effect as if she has used a [rod of wonder](ref/magic-rod/rod-of-wonder). Any spell created by the _rod of wonder_ effect uses the arcanist's spell level, rather than the spell level set by the _rod of wonder_ table (for example a [fireball](ref/spell/fireball) created by an 8th level arcanist rolling on the _rod of wonder_ table would deal 8d6, rather than the listed 6d6). In this case, the effect is treated as a spell with a spell level equal to the spell slot expended.
+'''
+
+[[resolution]]
+id = "ref/hex/blight"
+name = "Blight (Su)"
+occurrence = 1
+span_sha256 = "4962f45b3165914fd8f5613866d9e0bef0fbfda6a62ac0e675ad97246798a001"
+print = "Advanced Player's Guide p. 66"
+replacement = '''
+**Blight (Su)**
+
+**Ability:** The witch can curse an animal, plant creature, or plot of land, causing it to wither and die. Blighting an area takes 1 round, during which time the witch and her familiar must be in contact with the target.
+
+If it's used on a plot of land, the land begins to wither the following day, and over the next week
+all plants in the area die. Nothing will grow in that area so long as the curse persists. A witch
+can affect an area with a radius equal to her class level × 10 feet.
+
+Blighting a creature is a **standard action** that requires a melee touch attack. If used on a
+creature of the animal or plant type, the creature gains the following [curse](ref/rule/curses):
+
+**Special:** Both types of curse can be removed with a [remove curse](ref/spell/remove-curse) or
+similar magic, using the save DC as the DC to remove the curse. A witch can only have one _blight_
+in effect at a time. If another _blight_ hex is made, the first immediately ends.
 '''
 
 [[resolution]]
@@ -2341,6 +3239,29 @@ another. Effects that remove curses can remove the _scar._
 '''
 
 [[resolution]]
+id = "ref/hex/waxen-image"
+name = "Waxen Image (Su)"
+occurrence = 1
+span_sha256 = "1cb8cc9765e6d9faf2ccedc191a7560a0a19d0d51add9e03f0bf62499641045c"
+print = "Advanced Player's Guide p. 68"
+replacement = '''
+**Waxen Image (Su)**
+
+**Full-round:** The witch can create a crude and unnerving wax duplicate of a creature she can see within 30 feet. Once the image is complete, the subject must make a Will save. If the subject fails, the witch gains a small measure of control over the creature. Whenever she exercises this control, the creature receives a new Will save to end the effect. This effect occurs on the witch's turn and does not impede the creature's actions on its turn.
+
+The witch can use the _waxen image_ a number of times equal to her Intelligence modifier before it
+melts.
+
+As a **standard action**, the witch can cause the subject to do any one of the following things: move up to the creature's speed in any direction, attack itself once with any weapon in hand (this attack automatically hits), lay down on the ground, or drop anything held.
+
+Alternatively, she can spend one of her uses to simply torture the _image,_ causing the creature to
+be both [sickened](ref/misc/sickened) and [staggered](ref/misc/staggered) on its turn.
+
+**Special:** As soon as the creature has succeeded on a saving throw against this effect, it is
+immune to it for 24 hours. The is an enchantment (compulsion) effect.
+'''
+
+[[resolution]]
 id = "ref/hex/witchs-hut"
 name = "Witch's Hut (Su)"
 occurrence = 1
@@ -2355,6 +3276,198 @@ The witch can give the hut the following commands: **guard** (the hut watches fo
 
 **Special:** The hut remains animate for 24 hours, until she dismisses it or she animates another,
 at which time the hut stops where it is and reverts to its nonmagical state.
+'''
+
+[[resolution]]
+id = "ref/hkorder/order-of-the-chain"
+name = "1: Taken Alive (Ex)"
+occurrence = 1
+span_sha256 = "4991c505c9e14a939ddfc54a0531bdd02190e547457d1723f439c15013d54915"
+print = "Path of the Hellknight p. 10"
+replacement = '''
+**1: Taken Alive (Ex)**
+
+**Flavor:** You are an expert in hunting your quarry and capturing it alive.
+
+**Passive:** You take no penalty on attack rolls for using a flail to deal nonlethal damage.
+
+Additionally, while performing your reckoning, you can focus on understanding one specific individual. For the next 24 hours, you gain a +4 bonus on [Perception](ref/skill/perception), [Sense Motive](ref/skill/sense-motive), and [Survival](ref/skill/survival) checks that relate to noticing, seeing through the disguises of, interrogating others about the location of, or tracking that individual, or any activity directly related to doing so.
+'''
+
+[[resolution]]
+id = "ref/hkorder/order-of-the-chain"
+name = "3: True Identities (Su)"
+occurrence = 1
+span_sha256 = "0329bb42fa6efe2db8231c86361c787fceefb1526523423518aaffe39f43722f"
+print = "Path of the Hellknight p. 10"
+replacement = '''
+**3: True Identities (Su)**
+
+**Flavor:** You are not easily fooled by those who would hide their true natures.
+
+**Passive:** You gain a +4 bonus on Will saving throws to disbelieve illusions.
+
+**Free:** Three times per day, when you successfully disbelieve an illusion that has a duration of
+longer than instantaneous (normally or using _[true seeing](ref/spell/true-seeing)_), you can
+attempt to dispel the illusion. Treat this as a targeted dispel, as per the spell
+[dispel magic](ref/spell/dispel-magic), but targeting only illusions and with your caster level
+equal to your character level.
+'''
+
+[[resolution]]
+id = "ref/hkorder/order-of-the-scourge"
+name = "3: Reason to Fear (Su)"
+occurrence = 1
+span_sha256 = "fdb07a2a48e67d861c00e5b2c9f3d166548fa7b4f4c80d97e366814e592c86ce"
+print = "Path of the Hellknight p. 46"
+replacement = '''
+**3: Reason to Fear (Su)**
+
+**Flavor:** You fear nothing, as you know you are a source of nightmares.
+
+**Passive:** You are immune to fear (magical or otherwise).
+
+**Free:** Three times per day, when you are the target of a fear effect or within a fear effect's
+area, you can target the creature from which the fear effect originated with a
+[phantasmal killer](ref/spell/phantasmal-killer) spell effect (DC = 14 + your Charisma modifier)
+when you strike it with a weapon. You must deal at least 1 point of damage to use this ability.
+
+This functions in all other ways as if your weapon were a
+[spell storing](ref/magic-enh/spell-storing) weapon with a
+_[phantasmal killer](ref/spell/phantasmal-killer)_ spell stored within.
+
+^There are no official stats for a scourge, but the \[Duergar Slaver^(npc/duergar\_slaver) describes
+a scourge as "a [cat-o'-nine-tails](ref/eq-weapon/cat-o-nine-tails) that deals lethal damage." —
+_Inner Sea NPC Codex pg. 20_\]\{from=1\}
+'''
+
+[[resolution]]
+id = "ref/implement/conjuration"
+name = "Psychic Fog (Sp)"
+occurrence = 1
+span_sha256 = "07d9a77b91b942c731d9361e9f7cc29a4bed0439e42ddfc1545849d704aa22ce"
+print = "Occult Adventures p. 51"
+replacement = '''
+**Psychic Fog (Sp)**
+
+**Standard:** You can expend 1 point of mental focus to create a cloud of fog. This fog lasts for 1
+minute per occultist level you possess. It functions as [fog cloud](ref/spell/fog-cloud), except it
+can't be dispersed by wind.
+
+**At 7th level,** you can expend 1 additional point of mental focus when creating this fog, causing it to become more tangible and function as [solid fog](ref/spell/solid-fog), except it doesn't slow down any creature that has psychic powers or that can cast psychic spells. When you create a solid fog in this way, its duration is reduced to 1 round per occultist level you possess.
+
+**Prereq:** 3rd-level occultist
+'''
+
+[[resolution]]
+id = "ref/implement/evocation"
+name = "Light Matrix (Sp)"
+occurrence = 1
+span_sha256 = "2095a76aed99657c110c568c7fa260f5a0ed91f902e1a052245e77c95d0ae2c4"
+print = "Occult Adventures p. 54"
+replacement = '''
+**Light Matrix (Sp)**
+
+**Standard:** You can expend 1 point of mental focus to create a glowing orb of swirling lights that
+obeys your commands. This orb illuminates the area like the [light](ref/spell/light) spell. The orb
+can be commanded to hover over your shoulder, moving with you.
+
+As a **move action**, you can direct it to move up to 30 feet away from you. If the _light matrix_ is ever more than 30 feet away from you, it returns to hover over your shoulder.
+
+**At 5th level,** you can direct the _light matrix_ to make a melee touch attack against one foe within 30 feet. If the attack hits, the target must succeed at a Fortitude save or be [blinded](ref/misc/blinded) for 1d4 rounds by a flash of light. If the attack hits, regardless of whether the target succeeds at the save, the _light matrix_ immediately ends.
+
+**Special:** Unless ended early, the _light matrix_ has a duration of 1 hour per occultist level you
+possess. You can't have more than one _light matrix_ in existence at one time. If you use this power
+again, any previous _light matrices_ immediately end.
+'''
+
+[[resolution]]
+id = "ref/implement/performers-accoutrements"
+name = "False Confidence (Sp)"
+occurrence = 1
+span_sha256 = "e403b20112305aeefde905afb1446ea2f12bd7d27a5dbb900e500ee040eea051"
+print = "Psychic Anthology p. 27"
+replacement = '''
+**False Confidence (Sp)**
+
+**Standard:** By expending 1 point of mental focus, you can instill incredible, boundless confidence
+in a single living creature with an Intelligence score of 3 or higher within 60 feet, granting that
+creature a +2 morale bonus on ability checks, attack rolls, saving throws, and skill checks for 10
+minutes.
+
+As a **move action**, you can shatter the feeling of confidence, leaving the target feeling hopeless and distraught. If you do, the target can immediately attempt a Will save to negate the effect, with a cumulative -1 penalty for every 2 minutes the creature benefited from the morale bonus. If the target fails this save, it takes a -2 penalty on ability checks, attack rolls, saving throws, and skill checks for the remainder of the effect's duration. If the creature then fails an ability check, attack roll, saving throw, or skill check by 10 or more while subject to this penalty, the penalty changes to -4.
+'''
+
+[[resolution]]
+id = "ref/inquisition/anger"
+name = "Rage (Ex)"
+occurrence = 1
+span_sha256 = "25a1987ce6ec5ea3917cb36c02d98c1d72f42e0b89ebc675fac0e3d299208522"
+print = "Core Rulebook p. 31; Ultimate Magic p. 41"
+replacement = '''
+**Rage (Ex)**
+
+**Flavor:** Text from the barbarian class.
+
+**Free:** You can enter (or end) a _rage._ You gain a +4 morale bonus to your Strength and
+Constitution, as well as a +2 morale bonus on Will saves. The increase to Constitution grants you 2
+hit points per Hit Dice, but these disappear when the _rage_ ends and are not lost first like
+[temporary hit points](ref/rule/temporary-hit-points).
+
+**Passive:** While in _rage,_ you take a -2 penalty to Armor Class, and you cannot use any
+Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride)
+or any ability that requires patience or concentration. You are [fatigued](ref/misc/fatigued) after
+_rage_ for a number of rounds equal to 2 times the number of rounds spent in the _rage._ You cannot
+enter a new _rage_ while fatigued or [exhausted](ref/misc/exhausted) but can otherwise enter _rage_
+multiple times during a single encounter or combat. If you fall unconscious, your _rage_ immediately
+ends, placing you in peril of death.
+
+**Special:** Temporary increases to Constitution, such as those gained from _rage_ and spells like
+[bear's endurance](ref/spell/bears-endurance), do not increase the total number of rounds that a
+barbarian can _rage_ per day. The total number of rounds of _rage_ per day is renewed after resting
+for 8 hours, although these hours do not need to be consecutive.
+'''
+
+[[resolution]]
+id = "ref/inquisition/chivalry"
+name = "Faithful Steed (Su)"
+occurrence = 1
+span_sha256 = "d0e9d88402d07941f7ede6be08c1754ccb32cceb5e47c6c9f2f2d646d84e6e2a"
+print = "Magical Marketplace p. 10"
+replacement = '''
+**Faithful Steed (Su)**
+
+**Gained:** At 8th Level
+
+**Ability:** When you use your _judgment_ ability, your mount gains the benefit of one of your selected _judgments._
+
+**At 16th level,** your mount gains the benefits of two of your selected _judgments._
+'''
+
+[[resolution]]
+id = "ref/inquisition/chivalry"
+name = "Mount (Ex)"
+occurrence = 2
+span_sha256 = "008881228c015971792ed0f630d661c031fecedcb551add2766ba539c7825d61"
+print = "Advanced Player's Guide p. 33; Magical Marketplace p. 10"
+replacement = '''
+**Mount (Ex)**
+
+**Gained:** At 1st Level
+
+**Ability:** You gain the service of a loyal and trusty steed to carry you into battle. This mount functions as a druid's [animal companion](ref/sidekick/animal-companion), using your level as your effective druid level. The creature must be one that you are capable of riding and is suitable as a mount. This mount may come from the following list: **Medium Cavaliers:** [Axe Beak](ref/companion/axe-beak), [Camel](ref/companion/camel), [Elk](ref/companion/elk), [Giraffe](ref/companion/giraffe), [Horse](ref/companion/horse), [Giant Seahorse](ref/companion/seahorse-giant), [Giant Tortoise](ref/companion/tortoise-giant), [Zebra](ref/companion/zebra); **Small Cavaliers:** [Antelope](ref/companion/antelope), [Boar](ref/companion/boar) (requires 4th level), [Capybara](ref/companion/capybara), [Dog](ref/companion/dog) (requires 4th level), [Kangaroo](ref/companion/kangaroo), [Giant Gecko](ref/companion/lizard-giant-gecko), [Pony](ref/companion/pony), [Ram](ref/companion/ram), Reindeer (uses elk statistics), [Stag](ref/companion/stag), [Giant Weasel](ref/companion/weasel-giant), [Wolf](ref/companion/wolf), [Wolfdog](ref/companion/wolfdog)
+
+The GM might approve other animals as suitable mounts.
+
+You do not take an armor check penalty on [Ride](ref/skill/ride) checks while riding your mount. The
+mount is always considered combat trained and begins play with
+[Light Armor Proficiency](ref/feat/armor-proficiency-light) as a bonus feat. Your mount does not
+gain the _share spells_ special ability.
+
+**Special:** Your bond with your mount is strong, with the two of you learning to anticipate each
+other's moods and moves. Should your mount die, you may find another mount to serve you after 1 week
+of mourning. This new mount does not gain the _link, evasion, devotion,_ or _improved evasion_
+special abilities until the next time you gain a level.
 '''
 
 [[resolution]]
@@ -2377,6 +3490,37 @@ If the target fails, the investigator can continue to detect the surface thought
 creature for a number of rounds equal to 1/2 his investigator level.
 
 **Prereq:** 5th-level investigator
+'''
+
+[[resolution]]
+id = "ref/kinetic/venom-speaker"
+name = "Poison Lore (Ex)"
+occurrence = 1
+span_sha256 = "15d97d65466cf83c4d69aea8134b04df15b730cc5656df66868512e83691537a"
+print = "Advanced Class Guide p. 31; Heroes of Golarion p. 27"
+replacement = '''
+**Poison Lore (Ex)**
+
+**Flavor:** Text from the investigator class ability.
+
+**Passive:** You cannot accidentally poison yourself when applying poison to a weapon.
+
+If you spend 1 minute physically examining the poison, you can attempt a [Knowledge (nature)](ref/skill/knowledge-nature) check to identify any natural poison or [Knowledge (arcana)](ref/skill/knowledge-arcana) check to identify any magical poison (DC = the poison's saving throw DC). Lastly, once a poison is identified, you can spend 1 minute and attempt a [Craft](ref/skill/craft-any) (alchemy) check (DC = the poison's saving throw DC) to neutralize 1 dose of the poison. Success renders the dose harmless. You have no chance of accidentally poisoning yourself when examining or attempting to neutralize a poison.
+'''
+
+[[resolution]]
+id = "ref/kipower/improvised-weapon-proficiency"
+name = "Improvised Weapon Proficiency (Ex, Su)"
+occurrence = 1
+span_sha256 = "5212403a030d76ac11975e30aa557977727aacefc23ed7031b2b835afc08118f"
+print = "Blood of the Beast p. 31"
+replacement = '''
+**Improvised Weapon Proficiency (Ex, Su)**
+
+**Passive:** A monk with this ability does not take a penalty on attack rolls for using an
+[improvised weapon](ref/misc/improvised-weapons).
+
+By spending 1 ki point, the monk can fight with a [broken](ref/misc/broken) weapon without taking any penalties on attack rolls or damage rolls for 1 round.
 '''
 
 [[resolution]]
@@ -2563,6 +3707,60 @@ your skin, and the like).
 '''
 
 [[resolution]]
+id = "ref/mystery/godclaw"
+name = "Final Revelation"
+occurrence = 1
+span_sha256 = "db0eb4c38985227953784dc4138e3ad8463cc4fee0984bde4d8c407b3afee0de"
+print = "Path of the Hellknight p. 27"
+replacement = '''
+**Final Revelation**
+
+**Gained:** At 20th Level
+
+**Ability:** You can cast [detect chaos](ref/spell/detect-chaos),
+[detect law](ref/spell/detect-law), and [discern lies](ref/spell/discern-lies) at will as
+[spell-like abilities](ref/umr/spell-like-abilities), using your oracle level as your caster level.
+
+You no longer take armor check penalties for wearing armor, and your armor's maximum Dexterity bonus increases by 5.
+
+Once per day, you can cast [crushing hand](ref/spell/crushing-hand) as a [spell-like ability](ref/umr/spell-like-abilities) without requiring a focus component, treating your oracle level as your caster level. This hand manifests as a massive, spiked gauntlet.
+'''
+
+[[resolution]]
+id = "ref/mystery/godclaw"
+name = "Instant Armor (Su)"
+occurrence = 1
+span_sha256 = "3788a9614494dbb846f5ef3562a8e70c4bac6420c0b493b0fe4365d0952da7d4"
+print = "Path of the Hellknight p. 27"
+replacement = '''
+**Instant Armor (Su)**
+
+**Ability:** Choose one type of heavy armor. You gain proficiency in that armor.
+
+**At 3rd level,** twice per day as an **immediate action**, you can instantly don or remove a suit of your chosen armor that you touch, causing it to teleport onto or off of your body.
+
+**At 11th level,** you can spend 1 minute placing a suit of your chosen armor into an extradimensional space. You can use this ability to immediately don or remove that armor, calling it from or removing it to that extradimensional space. While in the extradimensional space, the armor regains 1 hit point per hour when damaged.
+'''
+
+[[resolution]]
+id = "ref/mystery/godclaw"
+name = "Resiliency (Ex)"
+occurrence = 1
+span_sha256 = "22e4549905f49743961094d9a0d7eeecbb4a03f5132914602d0143cba1d93cff"
+print = "Path of the Hellknight p. 27"
+replacement = '''
+**Resiliency (Ex)**
+
+**Ability:** Once per day, when you are brought below 0 hit points but not killed, you can act as if
+you are [disabled](ref/misc/disabled) for 1 round. At the end of your next turn, unless you are
+brought to above 0 hit points, you immediately fall unconscious and begin [dying](ref/misc/dying).
+
+**At 7th level,** you gain [Diehard](ref/feat/diehard) as a bonus feat, even if you do not meet the prerequisites.
+
+**At 15th level,** three times per day, if you are disabled and take a standard action (or any otherwise strenuous action), you avoid taking 1 point of damage if you succeed at a DC 15 Fortitude saving throw.
+'''
+
+[[resolution]]
 id = "ref/mystery/heavens"
 name = "Guiding Star (Su)"
 occurrence = 1
@@ -2662,6 +3860,43 @@ replacement = '''
 **Ability:** You gain the ability to take 20 on all Knowledge skill checks.
 
 Your understanding of the fundamental underpinnings of reality has also become so advanced that once per day, you can cast [wish](ref/spell/wish). This ability does not require a material component, but the wish cannot be used to grant ability score bonuses, nor can it be used to replicate spells with expensive material components.
+'''
+
+[[resolution]]
+id = "ref/mystery/lunar"
+name = "Mantle of Moonlight (Su)"
+occurrence = 1
+span_sha256 = "794d2424b74dc2203964a46f7a2c8c7d1c8bff98039137c10fdd5c78fb3db25c"
+print = "Blood of the Moon p. 29"
+replacement = '''
+**Mantle of Moonlight (Su)**
+
+**Passive:** Your innate understanding of the moon renders you immune to
+[lycanthropy](ref/rule/lycanthropy).
+
+As a melee touch attack, you may disrupt a [lycanthrope's](ref/template/lycanthrope) connection to the moon. This action automatically forces the lycanthrope into its humanoid form, which it must remain in for a number of rounds equal to your oracle level.
+
+**At 5th level,** you can use this ability to force others into a [rage](ref/spell/rage), as per the spell, but only a number of times per day equal to [one-fifth](ref/misc/fractions-and-rounding) of your oracle level. It's still a melee touch attack.
+'''
+
+[[resolution]]
+id = "ref/mystery/metal"
+name = "Dance of the Blades (Ex)"
+occurrence = 1
+span_sha256 = "5c1a99a1d31c0e9f100643396d34e0eb92c5acf0417e75ac76862f8d40a28486"
+print = "Ultimate Magic p. 55"
+replacement = '''
+**Dance of the Blades (Ex)**
+
+**Passive:** Your base speed increases by 10 feet.
+
+**At 7th level,** you gain a +1 bonus on attack rolls with a metal weapon in any round in which you move at least 10 feet.
+
+**At 11th level,** the bonus on attack rolls increases to +2. As a **move action**, you can maneuver your weapon to create a shield of whirling steel around yourself until the start of your next turn; non-incorporeal melee and ranged attacks against you have a 20% miss chance while the shield is active. You must be wielding a metal weapon to use this ability.
+
+**At 15th level,** the bonus on attack rolls increases to +3.
+
+**At 19th level,** the bonus on attack rolls increases to +4.
 '''
 
 [[resolution]]
@@ -2806,6 +4041,21 @@ ability's duration for the day.
 '''
 
 [[resolution]]
+id = "ref/mystery/solar"
+name = "Many Roads (Su)"
+occurrence = 1
+span_sha256 = "5f8b325675ac00126dc65dd66f831eb3e8ed479f068bb2656ee24be55d670ccc"
+print = "The Harrow Handbook p. 27"
+replacement = '''
+**Many Roads (Su)**
+
+**Passive:** You gain an insight bonus on [Fly](ref/skill/fly) and [Survival](ref/skill/survival)
+checks equal to 1/2 your oracle level.
+
+Further, you learn to speak and read three languages in addition to those you already know.
+'''
+
+[[resolution]]
 id = "ref/mystery/spellscar"
 name = "Final Revelation"
 occurrence = 1
@@ -2872,6 +4122,21 @@ In addition, you can cast _[time stop](ref/spell/time-stop)_ once per day as a [
 '''
 
 [[resolution]]
+id = "ref/mystery/wind"
+name = "Wind Sight (Ex)"
+occurrence = 1
+span_sha256 = "ef2be205a318a160cddd4d80a0e6d270fa56ac134bcd639cb4be98f7ce6d5742"
+print = "Advanced Player's Guide p. 54"
+replacement = '''
+**Wind Sight (Ex)**
+
+**Passive:** You ignore penalties on [Perception](ref/skill/perception) checks based on wind and the
+first 100 feet of distance.
+
+**At 7th level,** as a **standard action**, you can see and hear into any area (as if using [clairaudience and clairvoyance](ref/spell/clairaudience-clairvoyance)) within range as long as there is an unobstructed path for air to travel between you and the target area (this does not require line of effect, meaning the path can turn corners and go through spaces no smaller than 1 inch in diameter). You can use this ability a number of rounds per day equal to your oracle level, but these rounds do not need to be consecutive.
+'''
+
+[[resolution]]
 id = "ref/mystery/wood"
 name = "Final Revelation"
 occurrence = 1
@@ -2901,6 +4166,49 @@ replacement = '''
 **Ability:** A ninja with this ability gains [In Harm's Way](ref/feat/in-harms-way) as a bonus feat, even if she doesn't meet the prerequisites.
 
 When the ninja intercepts an attack using this feat, she can spend 1 ki point to impose a _blood debt_ on the aided ally. The ninja's ki pool is reduced by 1 until she ends this effect, which she may do as an **immediate action**. If the ninja ends the _blood debt_ in response to a successful attack against her by a creature the indebted ally threatens, the ally (who must be willing) takes full damage from that attack and any associated effects instead of the ninja.
+'''
+
+[[resolution]]
+id = "ref/ninjatrick/ki-venom"
+name = "Ki Venom (Ex)"
+occurrence = 1
+span_sha256 = "89a03180793b5083591e7c2473b36c798bd7cba16f43b5809a5c6cbc56472ae5"
+print = "Martial Arts Handbook p. 20"
+replacement = '''
+**Ki Venom (Ex)**
+
+**Flavor:** A ninja with this trick knows how to make poisons from innocuous herbs or minerals.
+
+**Ability:** Creating _ki venom_ is a **full-round action** that costs 1 ki point. The poison lasts for 24 hours before becoming inert. The poison deals either [Strength or Dexterity damage](ref/rule/ability-damage-drain), chosen when the venom is created.
+
+**Special:** The ninja can spend additional ki as part of the process of creating the _ki venom_ to
+improve the venom in one or more of the following ways: spend 1 ki point to increase the damage die
+to a d6, spend 1 ki point to change the ability damage dealt to Intelligence, Wisdom, or Charisma
+damage, or spend 1 ki point to increase the number of saves required to cure the poison by 1.
+'''
+
+[[resolution]]
+id = "ref/ninjatrick/many-guises"
+name = "Many Guises (Ex)"
+occurrence = 1
+span_sha256 = "5ef825f2a024a11909c7e267b6869ce42faa39cb27a19986b96c4b04e7b16b9c"
+print = "Ultimate Intrigue p. 12"
+replacement = '''
+**Many Guises (Ex)**
+
+**Ability:** The ninja can take on any number of mundane guises. Whenever he changes his identity,
+he has a third option (instead of social or ninja): he can become mundane.
+
+The mundane identity is not a specific individual. Each one is created at the moment it is assumed, and quickly forgotten as soon as it is removed. While in a mundane identity, the ninja does not gain the benefit of either his social or ninja identity, but instead appears as a member of his race, usually a common laborer, farmer, or peasant of any gender. His alignment is treated as neutral when he is in his mundane identity.
+
+While in this identity, he receives a +20 circumstance bonus on Disguise checks to appear like an ordinary member of his race. Spells and abilities that are looking for the ninja in either of his other identities fail while he is in his mundane identity.
+
+**Prereq:** [Deep cover](ref/ninjatrick/deep-cover)
+
+**Special:** He must build the appearance for this identity using whatever clothing and tools he has
+at his disposal. While he can use magic (such as a
+[hat of disguise](ref/magic-wondrous/hat-of-disguise)), his mundane identity can never be anything
+other than an ordinary member of a society or large group (subject to GM discretion).
 '''
 
 [[resolution]]
@@ -2938,6 +4246,22 @@ replacement = '''
 **Ability:** She can [hold her breath](ref/misc/hold-your-breath) for twice as long as normal before needing to make Constitution checks (four times her Constitution score).
 
 In addition, whenever the ninja is poisoned, the time between saving throws (the poison's frequency) is doubled. Thus, a poison that has a frequency of _1/round for 6 rounds_ would instead be _1/2 rounds for 12 rounds._
+'''
+
+[[resolution]]
+id = "ref/oath/chaos"
+name = "Order of Good (Su)"
+occurrence = 1
+span_sha256 = "546a2ab2e10480f02ef640029d23e845516d41db94abcc90fe9775d7920f6a26"
+print = "Inner Sea Combat p. 15"
+replacement = '''
+**Order of Good (Su)**
+
+**Gained:** At 4th Level
+
+**Ability:** She gains the ability to spend one use of her _lay on hands_ ability when using her _smite chaos_ ability to instead _smite evil,_ as the paladin ability of the same name.
+
+**Replaces:** Channel positive energy
 '''
 
 [[resolution]]
@@ -2997,6 +4321,30 @@ Additionally, the paladin can expend two uses of her _lay on hands_ ability to r
 '''
 
 [[resolution]]
+id = "ref/oath/loyalty"
+name = "Loyal Oath (Su)"
+occurrence = 1
+span_sha256 = "52ce55b06fd2928806933254b4a648f113c6b2c26f8da67111ad40c4af9db90f"
+print = "Ultimate Magic p. 63"
+replacement = '''
+**Loyal Oath (Su)**
+
+**Gained:** At 1st Level
+
+**Swift:** An oathbound paladin can choose a willing creature within line of sight as the target of
+her _loyal oath._ When the paladin is adjacent to the target of her _loyal oath,_ she grants the
+target a sacred bonus on saving throws and to Armor Class equal to the paladin's Charisma bonus. The
+_loyal oath_ lasts 1 minute, or until the paladin dismisses it (a **free action**) or discharges it
+(see below), whichever comes first.
+
+While a _loyal oath_ is active and the target is struck by an enemy and the paladin is adjacent to that enemy, she may make a single melee attack against that enemy; making this attack ends the _loyal oath._
+
+**Usage:** 1 time/day + 1 per 3 paladin levels beyond 1st
+
+**Replaces:** Smite evil
+'''
+
+[[resolution]]
 id = "ref/oath/the-peoples-council"
 name = "Champion of Andoran (Su)"
 occurrence = 1
@@ -3016,6 +4364,59 @@ Whenever she uses her _stirring monologue,_ up to four creatures (including the 
 In addition, whenever the oathbound paladin channels positive energy or uses _lay on hands_ to heal a creature, she heals it the maximum possible amount.
 
 **Alters:** Holy champion
+'''
+
+[[resolution]]
+id = "ref/oath/the-peoples-council"
+name = "Stirring Monologue (Su)"
+occurrence = 1
+span_sha256 = "6bb596d0bf001967090ccfe5e319275c9c6eef9e9ee1b7d19f842d5dc630d811"
+print = "Divine Anthology p. 20"
+replacement = '''
+**Stirring Monologue (Su)**
+
+**Gained:** At 1st Level
+
+**Ability:** The paladin can deliver a _stirring monologue_ on the ideals of justice and fairness,
+motivating allies and persuading others. This functions as bardic performance as per a bard of her
+paladin level using Perform (oratory). All the effects are language-dependent even if they would not
+normally be.
+
+The paladin gains the following performances at the indicated levels: [inspire courage](ref/performance/inspire-courage) (1st).
+
+**At 4th level,** [fascinate](ref/performance/fascinate)
+
+**At 5th level,** [inspire competence](ref/performance/inspire-competence)
+
+**At 7th level,** [suggestion](ref/performance/suggestion)
+
+**At 10th level,** [dirge of doom](ref/performance/dirge-of-doom)
+
+**At 13th level,** [inspire greatness](ref/performance/inspire-greatness)
+
+**At 16th level,** [frightening tune](ref/performance/frightening-tune)
+
+**At 19th level,** [mass suggestion](ref/performance/mass-suggestion)
+
+**Replaces:** Smite evil
+'''
+
+[[resolution]]
+id = "ref/oath/the-whispering-way"
+name = "Ghost Touch Aura (Su)"
+occurrence = 1
+span_sha256 = "4232d25993a3c3081affa2c83fbd3472a9877a2311e3134f00bce3270468aa98"
+print = "Ultimate Magic p. 61"
+replacement = '''
+**Ghost Touch Aura (Su)**
+
+**Gained:** At 3rd Level
+
+**Ability:** The paladin's armor is treated as if it had the [ghost touch](ref/magic-enh/ghost-touch-armor) armor property. This does not affect the cost or effect of any other abilities of the armor.
+
+**At 9th level,** this ability also applies to the paladin's shield.
+
+**Replaces:** 3rd-level and 9th-level mercies
 '''
 
 [[resolution]]
@@ -3336,6 +4737,97 @@ In addition, whenever he confirms a critical hit against a target under an encha
 '''
 
 [[resolution]]
+id = "ref/order/order-of-the-ennead-star"
+name = "Subjugate (Ex)"
+occurrence = 1
+span_sha256 = "8f064a3a17aff8bced38dffe4a986e462f4577c342cd32209b809e84cf2e21ad"
+print = "Path of the Hellknight p. 59"
+replacement = '''
+**Subjugate (Ex)**
+
+**Gained:** At 8th Level
+
+**Passive:** Whenever the cavalier confirms a critical hit with a melee weapon against a creature of
+chaotic alignment with an Intelligence score of 3 or higher, or against a creature that the cavalier
+has witnessed committing a crime within the past hour, he adds his Charisma modifier to the total
+critical hit damage.
+
+**Immediate:** If the critical hit kills the creature or renders it unconscious, the cavalier can
+attempt an Intimidate check to demoralize all foes within 15 feet who can see him. This ability can
+be used only once per combat.
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-green"
+name = "Favored Terrain (Ex)"
+occurrence = 1
+span_sha256 = "ecf163147a7b5f38c576da3d0678cd2477a21a214f9998c0f5dd05639138fcd6"
+print = "Ultimate Wilderness p. 44"
+replacement = '''
+**Favored Terrain (Ex)**
+
+**Gained:** At 2nd Level
+
+**Ability:** An order of the Green cavalier chooses a [favored terrain](ref/ability/favored-terrain) from the list of ranger favored terrains. He gains this as a _favored terrain,_ as the ranger class feature of the same name.
+
+**At 8th level,** he selects another favored terrain, and the skill bonus in any one favored terrain (including the one just selected, if so desired) increases by 2.
+
+**At 14th level,** he selects another favored terrain, and the skill bonus in any one favored terrain (including the one just selected, if so desired) increases by 2.
+
+**At 20th level,** he selects another favored terrain, and the skill bonus in any one favored terrain (including the one just selected, if so desired) increases by 2.
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-hammer"
+name = "Mighty Bash (Ex)"
+occurrence = 1
+span_sha256 = "a2bde8a869996e6fdbdba79ba0a7befb5a9caddc1229c0841a977c7875b933aa"
+print = "The Harrow Handbook p. 18"
+replacement = '''
+**Mighty Bash (Ex)**
+
+**Gained:** At 2nd Level
+
+**Passive:** The cavalier does not provoke attacks of opportunity when she attacks foes while
+unarmed so long as she is dealing nonlethal damage.
+
+The cavalier's unarmed strikes deal more nonlethal damage than usual; she is treated as having a number of [monk](ref/class/monk) levels equal to her cavalier level for the purpose of determining how much nonlethal damage her unarmed strikes deal. For example, a 12th-level cavalier of the order of the hammer would deal 2d6 points of nonlethal damage with her unarmed strike.
+
+**Special:** The cavalier must still select the
+[Improved Unarmed Strike](ref/feat/improved-unarmed-strike) feat if she wants to deal lethal damage
+with her unarmed strike, and lethal damage dealt with her unarmed strike is not increased by this
+ability.
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-hammer"
+name = "Unarmed Strike"
+occurrence = 1
+span_sha256 = "64c752ab91471761bbfc4e49c7cf6ab805cc13f54cfb1724351a32a4a9fc9ee0"
+print = "Core Rulebook p. 58"
+replacement = '''
+**Unarmed Strike**
+
+**Gained:** At 1st Level
+
+**Flavor:** Relevant text from the monk class ability.
+
+**Info:** Unarmed strike damage is based on your size.
+
+**Ability:** Your unarmed strike deals 1d4 (Small), 1d6 (Medium), or 1d8 (Large) damage.
+
+**At 4th level,** your unarmed strike now deals 1d6 (Small), 1d8 (Medium), or 2d6 (Large) damage.
+
+**At 8th level,** your unarmed strike now deals 1d8 (Small), 1d10 (Medium), or 2d8 (Large) damage.
+
+**At 12th level,** your unarmed strike now deals 1d10 (Small), 2d6 (Medium), or 3d6 (Large) damage.
+
+**At 16th level,** your unarmed strike now deals 2d6 (Small), 2d8 (Medium), or 3d8 (Large) damage.
+
+**At 20th level,** your unarmed strike now deals 2d8 (Small), 2d10 (Medium), or 4d8 (Large) damage.
+'''
+
+[[resolution]]
 id = "ref/order/order-of-the-lion"
 name = "Shield of the Liege (Ex)"
 occurrence = 1
@@ -3355,6 +4847,80 @@ as the creature making the attack is within the cavalier's reach. This ability m
 before the attack roll is made. The attack is made against the cavalier's AC and defenses, even if
 the creature could not normally reach or attack the cavalier. The cavalier loses any cover or
 concealment bonuses when subject to the redirected attack.
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-scales"
+name = "Mobile Wall (Ex)"
+occurrence = 1
+span_sha256 = "b8a87847d044e5ad53780d18f71183b5cc57bdcc4d48df2db38f5dc3a5fcc0b8"
+print = "Champions of Balance p. 22"
+replacement = '''
+**Mobile Wall (Ex)**
+
+**Gained:** At 2nd Level
+
+**Ability:** The cavalier receives [Step Up](ref/feat/step-up) as a bonus feat. He can use this feat while mounted by succeeding at a DC 15 [Ride](ref/skill/ride) check, directing his mount to move rather than himself. The cavalier gains a +1 bonus to his CMD against attempts to tumble through squares he threatens.
+
+**At 6th level,** this bonus increases to +2.
+
+**At 10th level,** this bonus increases to +3.
+
+**At 14th level,** this bonus increases to +4.
+
+**At 18th level,** this bonus increases to +5.
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-seal"
+name = "Keeper (Ex)"
+occurrence = 1
+span_sha256 = "55f81fd85e566b86f56075c897cb7490275b3bfd4a69512208d9ababe7b75915"
+print = "Ultimate Combat p. 35"
+replacement = '''
+**Keeper (Ex)**
+
+**Gained:** At 2nd Level
+
+**Ability:** Once per day the cavalier must select a location, or a secret that he has sworn to protect.
+
+If he chooses a location, he gains a +2 morale bonus on attack rolls when directly defending his
+charge.
+
+If he chooses a secret, he gains a +2 morale bonus on saving throws and opposed checks to resist
+revealing information about his charge.
+
+**Special:** He gains these bonuses until he picks a new object, location, or secret to protect.
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-songbird"
+name = "Versatile Performance (Ex)"
+occurrence = 2
+span_sha256 = "acec1e66b5238d53c25406ccab467e710558675475e50325953d10548f21182a"
+print = "Core Rulebook p. 38"
+replacement = '''
+**Versatile Performance (Ex)**
+
+**Flavor:** Relevant text from the bard class ability.
+
+**Ability:** You can choose one type of Perform skill, using your bonus in that skill in place of your bonus in associated skills. When substituting in this way, you use your total Perform skill bonus, including class skill bonus, in place of its associated skill's bonus, whether or not you have ranks in that skill or if it is a class skill.
+
+The types of Perform and their associated skills are:
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-sword"
+name = "By My Honor (Ex)"
+occurrence = 1
+span_sha256 = "b2addb55c38be54931e3be9e3d0cd5435a228a7da7cdca2b41e5d6c6de7f4966"
+print = "Advanced Player's Guide p. 37"
+replacement = '''
+**By My Honor (Ex)**
+
+**Gained:** At 2nd Level
+
+**Ability:** The cavalier must select one alignment. As long as he maintains the selected alignment, he receives a +2 morale bonus to one saving throw of his choice.
 '''
 
 [[resolution]]
@@ -3421,6 +4987,20 @@ knowledge._ If he chose Knowledge (arcana), he can cast any arcane spells from a
 Knowledge (religion), he can cast any divine spells from a scroll.
 
 Furthermore, he gains a bonus equal to [one-fifth](ref/misc/fractions-and-rounding) of his cavalier level to an ability score for purposes of determining the level of spells he can cast from a scroll. The ability score that gains the bonus is dependent on which skill the cavalier picked for his _specialized knowledge_ ability. If the cavalier picked Knowledge (arcana), he gains the bonus to Intelligence. If he picked Knowledge (religion), he gains the bonus to Wisdom.
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-tome"
+name = "Specialized Knowledge (Ex)"
+occurrence = 1
+span_sha256 = "cc1c6323bd5fe35a71f8f3bc1176025795487da709626311f890a53ece4c0235"
+print = "Ultimate Combat p. 35"
+replacement = '''
+**Specialized Knowledge (Ex)**
+
+**Gained:** At 2nd Level
+
+**Ability:** An order of the tome cavalier chooses either Knowledge (arcana) or Knowledge (religion). He can make the chosen skill checks untrained. He cannot change his chosen skill later. If he has ranks in his chosen skill, he receives a bonus on the check equal to [half](ref/misc/fractions-and-rounding) his cavalier level (minimum +1) as long as that check involves a book, tome, scroll, or any other form of written knowledge.
 '''
 
 [[resolution]]
@@ -3637,6 +5217,46 @@ You can neither use the [aid another](ref/rule/aid-another) action nor receive b
 '''
 
 [[resolution]]
+id = "ref/patron/infernal-contract"
+name = "Infernal Contract"
+occurrence = 1
+span_sha256 = "3ab281d071ea2102b61096e2cf748ca8b95aa8df840851ef0269f60dc99e381f"
+print = "Blood of the Coven p. 15"
+replacement = '''
+**Infernal Contract**
+
+**Info:** Your power was brokered from a powerful [daemon](ref/family/daemon),
+[demon](ref/family/demon), or [devil](ref/family/devil) to speed the corruption and moral decay of
+mortals. When you die, your soul goes to Abaddon, the Abyss, or Hell, and you can't be raised or
+resurrected except by extraordinary means - though bold service may earn you a favored position in
+damnation.
+
+**Ability:** You gain the [misfortune](ref/hex/misfortune) hex at 1st level.
+
+Your magic requires sacrifice; each day when you prepare spells, you must deal 1d6 points of damage to yourself as part of your infernal ritual, feeding the lost blood to your familiar.
+
+**At 5th level,** you must deal 2d6 damage to yourself to get your spells.
+
+**At 10th level,** you must deal 3d6 damage to yourself to get your spells.
+
+**At 15th level,** you must deal 4d6 damage to yourself to get your spells.
+
+**At 20th level,** you must deal 5d6 damage to yourself to get your spells.
+
+**Spells:** Lesser planar ally (8th)
+
+**Spells:** Planar ally (12th)
+
+**Spells:** Greater planar ally (your bonus spells can be used to summon only the type of outsider
+your patron represents) (16th)
+
+**Available patron themes:** [Enchantment](ref/patron/enchantment), [Strength](ref/patron/strength),
+[Trickery](ref/patron/trickery), [Vengeance](ref/patron/vengeance)
+
+**Patron Spells:** This unique patron grants these alternate spells at the listed witch levels.
+'''
+
+[[resolution]]
 id = "ref/patron/shadowbound"
 name = "Shadowbound"
 occurrence = 1
@@ -3722,6 +5342,141 @@ You take a -2 penalty on saving throws against confusion and emotion effects and
 '''
 
 [[resolution]]
+id = "ref/performance/countersong"
+name = "Countersong (Su)"
+occurrence = 1
+span_sha256 = "acb05221f0f0c3f954054eeb866783337aeef8c58f4ba1fa8f919028b75e9465"
+print = "Core Rulebook p. 36"
+replacement = '''
+**Countersong (Su)**
+
+**Gained:** At 1st Level
+
+**Ability:** A bard learns to counter magic effects that depend on sound (but not spells that have verbal components). Each round of the _countersong_ he makes a [Perform](ref/skill/perform-any) (keyboard, percussion, wind, string, or sing) skill check. Any creature within 30 feet of the bard (including the bard himself) that is affected by a sonic or language-dependent magical attack may use the bard's Perform check result in place of its saving throw if, after the saving throw is rolled, the Perform check result proves to be higher.
+
+If a creature within range of the _countersong_ is already under the effect of a non-instantaneous
+sonic or language-dependent magical attack, it gains another saving throw against the effect each
+round it hears the _countersong,_ but it must use the bard's Perform skill check result for the
+save.
+
+**Special:** _Countersong_ does not work on effects that don't allow saves. _Countersong_ relies on
+audible components.
+'''
+
+[[resolution]]
+id = "ref/performance/deadly-performance"
+name = "Deadly Performance (Su)"
+occurrence = 1
+span_sha256 = "eedd17cc9e18ccd14dd9f88a36aab1f17e7a467653b4e85332823e77580d5433"
+print = "Core Rulebook p. 38"
+replacement = '''
+**Deadly Performance (Su)**
+
+**Gained:** At 20th Level
+
+**Ability:** A bard can use his performance to cause one enemy to die from joy or sorrow. To be affected, the target must be able to see and hear the bard perform for 1 full round and be within 30 feet. The target receives a Will save (DC 10 + 1/2 the bard's level + the bard's Cha modifier) to negate the effect. If a creature's saving throw succeeds, the target is [staggered](ref/misc/staggered) for 1d4 rounds, and the bard cannot use _deadly performance_ on that creature again for 24 hours. If a creature's saving throw fails, it dies.
+
+**Special:** _Deadly performance_ is a mind-affecting death effect that relies on audible and visual
+components.
+'''
+
+[[resolution]]
+id = "ref/performance/dirge-of-doom"
+name = "Dirge of Doom (Su)"
+occurrence = 1
+span_sha256 = "21eeb7925d5833bd2a516170961a0405de9cc779160ec3790de7e79c5f88d894"
+print = "Core Rulebook p. 37"
+replacement = '''
+**Dirge of Doom (Su)**
+
+**Gained:** At 8th Level
+
+**Ability:** A bard can use his performance to foster a sense of growing dread in his enemies, causing them to become [shaken](ref/misc/shaken). To be affected, an enemy must be within 30 feet and able to see and hear the bard's performance. The effect persists for as long as the enemy is within 30 feet and the bard continues his performance.
+
+**Special:** This performance cannot cause a creature to become [frightened](ref/misc/frightened) or
+[panicked](ref/misc/panicked), even if the targets are already shaken from another effect. _Dirge of
+doom_ is a mind-affecting fear effect, and it relies on audible and visual components.
+'''
+
+[[resolution]]
+id = "ref/performance/distraction"
+name = "Distraction (Su)"
+occurrence = 1
+span_sha256 = "a3163993f6ff751221712a567394e303d99c4fd82e3a624e6524234e7ecf9c88"
+print = "Core Rulebook p. 36"
+replacement = '''
+**Distraction (Su)**
+
+**Gained:** At 1st Level
+
+**Ability:** A bard can use his performance to counter magic effects that depend on sight. Each round of the _distraction,_ he makes a [Perform](ref/skill/perform-any) (act, comedy, dance, or oratory) skill check. Any creature within 30 feet of the bard (including the bard himself) that is affected by an illusion (pattern) or illusion (figment) magical attack may use the bard's Perform check result in place of its saving throw if, after the saving throw is rolled, the Perform skill check proves to be higher.
+
+If a creature within range of the _distraction_ is already under the effect of a non-instantaneous
+illusion (pattern) or illusion (figment) magical attack, it gains another saving throw against the
+effect each round it sees the _distraction_, but it must use the bard's Perform skill check result
+for the save.
+
+**Special:** _Distraction_ does not work on effects that don't allow saves. _Distraction_ relies on
+visual components.
+'''
+
+[[resolution]]
+id = "ref/performance/fascinate"
+name = "Fascinate (Su)"
+occurrence = 1
+span_sha256 = "3ac82a9a98ee4752a9bc36de5555e197b42a78c51c6948fa3d8b1361310d4279"
+print = "Core Rulebook p. 37"
+replacement = '''
+**Fascinate (Su)**
+
+**Gained:** At 1st Level
+
+**Ability:** A bard can use his performance to cause one or more creatures to become [fascinated](ref/misc/fascinated) with him. Each creature to be _fascinated_ must be within 90 feet, able to see and hear the bard, and capable of paying attention to him. The bard must also be able to see the creatures affected. The distraction of a nearby combat or other dangers prevents this ability from working.
+
+Each creature within range receives a Will save (DC 10 + 1/2 the bard's level + the bard's Cha
+modifier) to negate the effect. If a creature's saving throw succeeds, the bard cannot attempt to
+_fascinate_ that creature again for 24 hours. If its saving throw fails, the creature sits quietly
+and observes the performance for as long as the bard continues to maintain it. While _fascinated,_ a
+target takes a -4 penalty on all skill checks made as reactions, such as Perception checks. Any
+potential threat to the target allows the target to make a new saving throw against the effect. Any
+obvious threat, such as someone drawing a weapon, casting a spell, or aiming a weapon at the target,
+automatically breaks the effect.
+
+The bard can _fascinate_ one creature.
+
+**At 4th level,** the number of creatures the bard can _fascinate_ increases to 2.
+
+**At 7th level,** the number of creatures the bard can _fascinate_ increases to 3.
+
+**At 10th level,** the number of creatures the bard can _fascinate_ increases to 4.
+
+**At 13th level,** the number of creatures the bard can _fascinate_ increases to 5.
+
+**At 16th level,** the number of creatures the bard can _fascinate_ increases to 6.
+
+**At 19th level,** the number of creatures the bard can _fascinate_ increases to 7.
+
+**Special:** _Fascinate_ is an enchantment (compulsion), mind-affecting ability. _Fascinate_ relies
+on audible and visual components in order to function.
+'''
+
+[[resolution]]
+id = "ref/performance/frightening-tune"
+name = "Frightening Tune (Sp)"
+occurrence = 1
+span_sha256 = "bd4ef535ec9f0de3b31fa82a6646d636b6e950308026ab73076ee1b81097d7c1"
+print = "Core Rulebook p. 38"
+replacement = '''
+**Frightening Tune (Sp)**
+
+**Gained:** At 14th Level
+
+**Ability:** A bard can use his performance to cause fear in his enemies. To be affected, an enemy must be able to hear the bard perform and be within 30 feet. Each enemy within range receives a Will save (DC 10 + 1/2 the bard's level + the bard's Cha modifier) to negate the effect. If the save succeeds, the creature is immune to this ability for 24 hours. If the save fails, the target becomes [frightened](ref/misc/frightened) and flees for as long as the target can hear the bard's performance.
+
+**Special:** _Frightening tune_ relies on audible components.
+'''
+
+[[resolution]]
 id = "ref/performance/inspire-competence"
 name = "Inspire Competence (Su)"
 occurrence = 1
@@ -3748,6 +5503,72 @@ audible components.
 '''
 
 [[resolution]]
+id = "ref/performance/inspire-courage"
+name = "Inspire Courage (Su)"
+occurrence = 1
+span_sha256 = "98e514f04b9e948ab2535a16f1809740a2aba9ec682117eb2049bb383e4ad3b1"
+print = "Core Rulebook p. 37"
+replacement = '''
+**Inspire Courage (Su)**
+
+**Gained:** At 1st Level
+
+**Ability:** A bard can use his performance to _inspire courage_ in his allies (including himself), bolstering them against fear and improving their combat abilities. To be affected, an ally must be able to perceive the bard's performance. An affected ally receives a +1 morale bonus on saving throws against charm and fear effects and a +1 competence bonus on attack and weapon damage rolls.
+
+**At 5th level,** these bonuses increase to +2.
+
+**At 11th level,** these bonuses increase to +3.
+
+**At 17th level,** these bonuses increase to +4.
+
+**Special:** _Inspire courage_ is a mind-affecting ability. _Inspire courage_ can use audible or
+visual components. The bard must choose which component to use when starting his performance.
+'''
+
+[[resolution]]
+id = "ref/performance/inspire-greatness"
+name = "Inspire Greatness (Su)"
+occurrence = 1
+span_sha256 = "e55f559dc0d84166e411430bfff84bc79a48eb6374f13c35fb6115dab0dfa370"
+print = "Core Rulebook p. 37"
+replacement = '''
+**Inspire Greatness (Su)**
+
+**Gained:** At 9th Level
+
+**Ability:** A bard can use his performance to _inspire greatness_ in himself or a single willing ally within 30 feet, granting extra fighting capability. To _inspire greatness,_ all of the targets must be able to see and hear the bard. A creature _inspired with greatness_ gains 2 bonus Hit Dice (d10s), the commensurate number of [temporary hit points](ref/rule/temporary-hit-points) (apply the target's Constitution modifier, if any, to these bonus Hit Dice), a +2 competence bonus on attack rolls, and a +1 competence bonus on Fortitude saves. The bonus Hit Dice count as regular Hit Dice for determining the effect of spells that are Hit Dice dependent.
+
+**At 12th level,** the number of creatures he can target increases to 2.
+
+**At 15th level,** the number of creatures he can target increases to 3.
+
+**At 18th level,** the number of creatures he can target increases to 4.
+
+**Special:** _Inspire greatness_ is a mind-affecting ability and it relies on audible and visual
+components.
+'''
+
+[[resolution]]
+id = "ref/performance/inspire-heroics"
+name = "Inspire Heroics (Su)"
+occurrence = 1
+span_sha256 = "7d36bb5e7250f5e84eeab82f8a620db889be6d2f242cbe0c8f399e9d57182005"
+print = "Core Rulebook p. 38"
+replacement = '''
+**Inspire Heroics (Su)**
+
+**Gained:** At 15th Level
+
+**Ability:** A bard can inspire tremendous heroism in himself or a single ally within 30 feet. Inspired creatures gain a +4 morale bonus on saving throws and a +4 dodge bonus to AC.
+
+**At 18th level,** the number of creatures he can _inspire_ increases to 2.
+
+**Special:** To _inspire heroics,_ all of the targets must be able to see and hear the bard. This
+effect lasts for as long as the targets are able to witness the performance. _Inspire heroics_ is a
+mind-affecting ability that relies on audible and visual components.
+'''
+
+[[resolution]]
 id = "ref/performance/mass-suggestion"
 name = "Mass Suggestion (Sp)"
 occurrence = 1
@@ -3762,6 +5583,96 @@ replacement = '''
 
 **Special:** _Mass suggestion_ is an enchantment (compulsion), mind-affecting, language-dependent
 ability that relies on audible components.
+'''
+
+[[resolution]]
+id = "ref/performance/soothing-performance"
+name = "Soothing Performance (Su)"
+occurrence = 1
+span_sha256 = "ac1597d94c340d42de62b437fc0f45bb7f91be2141b1419ba2720903284cd1f2"
+print = "Core Rulebook p. 38"
+replacement = '''
+**Soothing Performance (Su)**
+
+**Gained:** At 12th Level
+
+**Ability:** A bard can use his performance to create an effect equivalent to a [mass cure serious wounds](ref/spell/cure-serious-wounds-mass), using the bard's level as the caster level. In addition, this performance removes the fatigued, sickened, and shaken conditions from all those affected.
+
+**Special:** Using this ability requires 4 rounds of continuous performance, and the targets must be
+able to see and hear the bard throughout the performance. _Soothing performance_ affects all targets
+that remain within 30 feet throughout the performance. _Soothing performance_ relies on audible and
+visual components.
+'''
+
+[[resolution]]
+id = "ref/performance/suggestion"
+name = "Suggestion (Sp)"
+occurrence = 1
+span_sha256 = "b190136bdfce8d6a938cd7044dedf573aa9fe4f9c429e14249f938146149f361"
+print = "Core Rulebook p. 37"
+replacement = '''
+**Suggestion (Sp)**
+
+**Gained:** At 6th Level
+
+**Ability:** A bard can use his performance to make a [suggestion](ref/spell/suggestion) (as per the spell) to a creature he has already [fascinated](ref/performance/fascinate). Using this ability does not disrupt the _fascinate_ effect, but it does require a **standard action** to activate (in addition to the **free action** to continue the _fascinate_ effect). A bard can use this ability more than once against an individual creature during an individual performance.
+
+**Special:** Making a _suggestion_ does not count against a bard's daily use of bardic performance.
+A Will saving throw (DC 10 + 1/2 the bard's level + the bard's Cha modifier) negates the effect.
+This ability affects only a single creature. _Suggestion_ is an enchantment (compulsion), mind
+affecting, language-dependent ability and relies on audible components.
+'''
+
+[[resolution]]
+id = "ref/phrenicamp/mimic-metamagic"
+name = "Mimic Metamagic (Ex)"
+occurrence = 1
+span_sha256 = "39d436b8f9200533b6ef73b9dfc6a2a0f7f7d861ab76a7bc80e7b3908f967d9e"
+print = "Occult Adventures p. 63"
+replacement = '''
+**Mimic Metamagic (Ex)**
+
+**Choice:** When the psychic gains this amplification, she chooses two metamagic feats; she need not
+have these feats to select them.
+
+**Info:** The psychic can still apply metamagic feats she knows to the spell while using this
+amplification, increasing the casting time and spell level as normal.
+
+**Ability:** When she casts a spell, she can spend points from her phrenic pool to apply one of the
+chosen feats to the linked spell without increasing the spell's level or casting time. She must
+spend a number of points equal to double the number of levels by which the feat normally increases a
+spell's level (minimum 2 points). If the metamagic feat alters the spell's casting time in a
+different way than the [standard rules](ref/rule/feats-basic) for a spontaneous caster using a
+metamagic feat (as in the case of [Quicken Spell](ref/feat/quicken-spell)), it changes the casting
+time accordingly.
+
+This amplification can be applied only to a spell that the chosen metamagic feat could normally
+affect, and only if the spellcaster can cast spells of a high enough level that she would be able to
+apply the metamagic feat in question to the linked spell. For example, an 11th-level psychic could
+spend 8 points to _quicken_ a 1st-level spell, but couldn't _quicken_ a 2nd-level spell because
+she's unable to cast 6th-level spells. This ability doesn't require her to have any free spell slots
+in the relevant level, however, so the psychic in the example could _quicken_ a 1st-level spell even
+if she had cast all her 5th-level spells for the day.
+
+**Special:** A psychic can select this amplification multiple times, adding two additional options
+to the list of metamagic feats she can apply using this amplification each time.
+'''
+
+[[resolution]]
+id = "ref/ragepower/greater-ancestor-totem"
+name = "Greater Ancestor Totem (Su)"
+occurrence = 1
+span_sha256 = "3251977b26011c0c1935ea8940531db66110e2b495e8c6d1041487a38b7d300e"
+print = "Wilderness Origins p. 24"
+replacement = '''
+**Greater Ancestor Totem (Su)**
+
+**Passive:** The barbarian's insight bonus to her chosen skill increases to +6.
+
+**Immediate:** Once per _rage,_ she can spend one round of _rage_ to reroll a skill check in the
+chosen skill. She must take the result of the second roll, even if it is lower.
+
+**Prereq:** [Ancestor totem](ref/ragepower/ancestor-totem), 10th-level barbarian
 '''
 
 [[resolution]]
@@ -3839,6 +5750,24 @@ Once per day, when a barbarian with ability penalties or damage ends her _rage,_
 '''
 
 [[resolution]]
+id = "ref/ragepower/savage-dirty-trick"
+name = "Savage Dirty Trick (Ex)"
+occurrence = 1
+span_sha256 = "d68f1c131dca7b58519f520c693834977f351e6c4950cf3a9fc71a1e2906a5c9"
+print = "Champions of Balance p. 23"
+replacement = '''
+**Savage Dirty Trick (Ex)**
+
+**Ability:** Once per round while _raging,_ the barbarian can attempt a [dirty trick](ref/rule/dirty-trick) combat maneuver in place of a melee attack. If successful, the target takes an amount of damage equal to the barbarian's Strength modifier and must succeed at a Fortitude save (DC 10 + 1/2 the barbarian's level + the barbarian's Strength modifier) or take an additional penalty from the dirty trick based on the type of dirty trick performed and the following table.
+
+**Usage:** Once per opponent per _rage_
+
+**Prereq:** 6th-level barbarian
+
+**Provokes attack of opportunity:** No
+'''
+
+[[resolution]]
 id = "ref/shamanspirit/ancestors"
 name = "Manifestation"
 occurrence = 1
@@ -3894,6 +5823,25 @@ replacement = '''
 **Ability:** Whenever she scores a critical hit, the attack ignores [damage reduction](ref/rule/damage-reduction).
 
 She gains a +4 insight bonus to AC for the purposes of confirming critical hits against her. If she is reduced to below 0 hit points, she does not die until her negative hit point total exceeds double her Constitution score.
+'''
+
+[[resolution]]
+id = "ref/shamanspirit/bones"
+name = "Deathly Being (Su)"
+occurrence = 1
+span_sha256 = "0a67cc3ff5b219e3c63134c2ff31c2901959f3090402decd0f05f67675cbee2e"
+print = "Advanced Class Guide p. 39"
+replacement = '''
+**Deathly Being (Su)**
+
+**Passive:** If the shaman is a living creature, she reacts to positive and negative energy as if
+she were undead - positive energy harms her, while negative energy heals her. If she's an undead
+creature or a creature with the [negative energy affinity](ref/umr/negative-energy-affinity)
+ability, she gains a +1 bonus to her [channel resistance](ref/umr/channel-resistance).
+
+**At 8th level,** if she's a living creature she gains a +4 bonus on saves against death effects and effects that [drain energy](ref/rule/energy-drain-and-negative-levels), or if she's an undead creature her bonus to [channel resistance](ref/rule/channel-resistance) increases to +2.
+
+**At 16th level,** if the shaman is a living creature, she takes no penalties from energy drain effects, though she can still be killed if she accrues more negative levels than she has Hit Dice. Furthermore, after 24 hours any negative levels the shaman has are removed without requiring her to succeed at an additional saving throw. If the shaman is an undead creature, her bonus to [channel resistance](ref/rule/channel-resistance) increases to +4.
 '''
 
 [[resolution]]
@@ -4151,6 +6099,21 @@ She can also apply any one of the following feats to any air or electricity spel
 '''
 
 [[resolution]]
+id = "ref/shamanspirit/wind"
+name = "Wind Sight (Su)"
+occurrence = 1
+span_sha256 = "e489c0d8bce369a695dd52da76bd23a0baed5702b037c05cde46949472b1909b"
+print = "Advanced Class Guide p. 47"
+replacement = '''
+**Wind Sight (Su)**
+
+**Passive:** The shaman ignores the penalties on [Perception](ref/skill/perception) checks caused by
+wind and the first 100 feet of distance.
+
+**At 7th level,** she can, as a **standard action**, hear or see into any area - as [clairaudience/clairvoyance](ref/spell/clairaudience-clairvoyance), using that spell's range - provided that there's an unobstructed path for air to travel between the shaman and the target area. This doesn't require line of effect, meaning the path can turn corners and go through spaces as narrow as 1 inch in diameter. The shaman can use this ability a number of rounds per day equal to her shaman level, but these rounds do not need to be consecutive.
+'''
+
+[[resolution]]
 id = "ref/shamanspirit/wood"
 name = "Manifestation"
 occurrence = 1
@@ -4166,6 +6129,34 @@ replacement = '''
 **Passive:** She is forevermore treated as a [plant creature](ref/type/plant) rather than her original creature type for the purposes of spells and magical effects. Her skin takes on the appearance of polished wood grain, and she gains a +4 natural armor bonus to her Armor Class and [damage reduction](ref/rule/damage-reduction) 10/- against wooden weapons and the natural attacks of wooden and wood-like creatures. She gains immunity to paralysis, poison, polymorph, sleep, and stun.
 
 At will, the shaman can meld with any tree or single block of wood (as per [meld into stone](ref/spell/meld-into-stone), except she can meld only with wood and has no limit on how long she can remain in the wood).
+'''
+
+[[resolution]]
+id = "ref/slayertalent/rogue-and-ninja-advanced-talents"
+name = "Rogue and Ninja Advanced Talents"
+occurrence = 1
+span_sha256 = "4979a50eb145bcc8e7a2d7956ee8ca9d4664535440b96a29484f95d1e3e65cbb"
+print = "Advanced Class Guide p. 55"
+replacement = '''
+**Rogue and Ninja Advanced Talents**
+
+**Ability:** A slayer can select one of the following rogue _advanced talents_ or ninja _master tricks_ in place of a slayer advanced talent.
+
+**Advanced rogue talents:** [aligned disguise](ref/talent/aligned-disguise),
+[blinding strike](ref/talent/blinding-strike),
+[dance of disorienting shadows](ref/talent/dance-of-disorienting-shadows),
+[deadly sneak](ref/talent/deadly-sneak), [feat](ref/talent/feat),
+[hunter's surprise](ref/talent/hunters-surprise),
+[improved shadow's chill](ref/talent/improved-shadows-chill),
+[knock-out blow](ref/talent/knock-out-blow), [master of disguise](ref/talent/master-of-disguise),
+[opportunist](ref/talent/opportunist),
+[reflexive shadow shield](ref/talent/reflexive-shadow-shield),
+[see in darkness](ref/talent/see-in-darkness), [stealthy sniper](ref/talent/stealthy-sniper).
+
+**Master Tricks:** [evasion](ref/ninjatrick/evasion), [feat](ref/ninjatrick/feat).
+
+**Special:** A slayer can select multiple rogue advanced talents or ninja master tricks by taking
+this slayer advanced talent multiple times, but can't select the same one more than once.
 '''
 
 [[resolution]]
@@ -4209,6 +6200,32 @@ While in this identity, he receives a +20 circumstance bonus on Disguise checks 
 at his disposal. While he can use magic (such as a
 [hat of disguise](ref/magic-wondrous/hat-of-disguise)), his mundane identity can never be anything
 other than an ordinary member of a society or large group (subject to GM discretion).
+'''
+
+[[resolution]]
+id = "ref/soctalent/renown"
+name = "Renown (Ex)"
+occurrence = 1
+span_sha256 = "7edbcdaf5267e67d5ff4b2bea55744d0cc9e7a0fe2f62b008f4dfe3e707567ae"
+print = "Ultimate Intrigue p. 12"
+replacement = '''
+**Renown (Ex)**
+
+**Flavor:** The vigilante becomes known for deeds and abilities regardless of his current identity.
+This _renown_ grants him favorable treatment in civilized company and lends him an air of menace
+while facing down his enemies.
+
+**Ability:** While he is in his social identity, a vigilante can spend 1 week gaining _renown_ among the locals of any community of no more than about 200 individuals ([a village](ref/rule/the-shape-of-civilization)). This could be the entire community or a smaller neighborhood in a larger settlement. He must spend at least 4 hours each day socializing and making contacts. After spending 1 week doing this, whenever he is in his social identity, all NPCs in the community have a starting attitude toward him that is one category better, as long as each person's [initial attitude](ref/skill/diplomacy) would have at least been indifferent. While he gains _renown_ in an area using his social identity, he also spreads rumors and tales about his vigilante identity.
+
+Once he has gained _renown_ in a community, he gains a +4 circumstance bonus on Intimidate checks
+whenever he is in his vigilante identity. This bonus applies only while he is near the community in
+which he has gained _renown;_ he must be within a number of miles equal to his vigilante level.
+
+**Special:** A vigilante can hold _renown_ in a limited number of communities (normally one, with
+other social talents allowing two). If he gains _renown_ in a new community, he must decide which
+one of his previous communities to lose. These effects are subject to GM approval. For example, the
+GM might rule that an NPC or monster has not heard any tales about the vigilante. Or, a foe may have
+a starting attitude toward him that's one category worse, rather than one category better.
 '''
 
 [[resolution]]
@@ -4275,6 +6292,25 @@ replacement = '''
 **Ability:** You gain an _arcane bond,_ as a [wizard](ref/class/wizard) equal to your sorcerer level. Your sorcerer levels stack with any wizard levels you possess when determining the powers of your familiar or bonded object. This ability does not allow you to have both a familiar and a bonded item.
 
 Once per day, your _bonded item_ allows you to cast any one of your spells known (unlike a wizard's bonded item, which allows him to cast any one spell in his spellbook).
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/arcane"
+name = "Replacement Bloodline Arcana"
+occurrence = 1
+span_sha256 = "7984868f01b36e421f1bf0e29e0d9b9348b9a779c7067230f9ccd54931c13d89"
+print = "Ultimate Magic p. 72"
+replacement = '''
+**Replacement Bloodline Arcana**
+
+**Flavor:** Unlike most sorcerers, whose innate magic is powered by force of personality, you use
+your intellect to understand and master your mystic powers.
+
+**Ability:** You use your Intelligence, rather than your Charisma, to determine all class features
+and effects relating to your sorcerer class, such as bonus spells per day, the maximum spell level
+you can cast, the save DCs of your spells, and the number of daily uses of your bloodline powers.
+
+You gain a +2 bonus on all Knowledge (arcana) and Spellcraft checks.
 '''
 
 [[resolution]]
@@ -4428,6 +6464,120 @@ Once per day, you can cast [shadow walk](ref/spell/shadow-walk) as a [spell-like
 '''
 
 [[resolution]]
+id = "ref/sorcbloodline/ghoul"
+name = "Ghoulish Claws (Su)"
+occurrence = 1
+span_sha256 = "b5d1dbd65a2120ede59420b264b296b35049fb9a408fcd07fb8436663ca642c9"
+print = "Monster Codex p. 80"
+replacement = '''
+**Ghoulish Claws (Su)**
+
+**Gained:** At 1st Level
+
+**Free:** You can grow claws. These claws are treated as [natural weapons](ref/umr/natural-attacks),
+allowing you to make two claw attacks as a full attack using your full base attack bonus. Each of
+these attacks deals 1d4 points of damage + your Strength modifier (1d3 if you are Small).
+
+**Usage:** 3 + Charisma modifier rounds/day
+
+**At 5th level,** creatures damaged with your claw attack are [paralyzed](ref/rule/paralyzed) for 1 round, as the ghoul ability (Fortitude negates).
+
+**At 7th level,** the duration of the paralysis increases to 1d4+1 rounds, and the claws are considered magic weapons for the purpose of overcoming DR.
+
+**Special:** Per the [paralysis](ref/umr/paralysis) ability, the DC is 10 +
+[half](ref/misc/fractions-and-rounding) your level (or Hit Dice) + your Constitution modifier. Per
+the [ghoul](ref/monster/ghoul) entry, elves are immune to this effect.
+
+If you're a ghoul with this bloodline, instead of gaining this ability, your levels in sorcerer
+stack with your racial Hit Dice when determining the DC of your _[paralysis](ref/rule/paralysis)_
+and _[disease](ref/carried/bestiary/rules/universal-monster-rules/disease)_ special abilities.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/harrow"
+name = "Kin to the Old Tales (Su)"
+occurrence = 1
+span_sha256 = "d8d2f56995826d34686be891bc19914ccc3cf8f50d24920a254c0e45f0ac693c"
+print = "The Harrow Handbook p. 29"
+replacement = '''
+**Kin to the Old Tales (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** Your soul becomes host to the otherworldly energies of the harrow.
+
+**Passive:** You gain DR 10/cold iron and immunity to curses, paralysis, and sleep. You can always
+act in the surprise round of combat, and you cannot be caught flat-footed.
+
+You gain unlimited use of your _invoke the harrow_ ability.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/harrow"
+name = "See It Coming (Su)"
+occurrence = 1
+span_sha256 = "26cfd825459c43c87abdc01ac95e2d060a4bc3561ca4189437bded06c98f4e7b"
+print = "The Harrow Handbook p. 29"
+replacement = '''
+**See It Coming (Su)**
+
+**Gained:** At 3rd Level
+
+**Passive:** You gain a +1 luck bonus on the saving throw type of your choice (Fortitude, Reflex, or
+Will).
+
+**Full-round:** You can change which saving throw your luck bonus applies to.
+
+**At 7th level,** the bonus increases to +2.
+
+**At 11th level,** the bonus increases to +3.
+
+**At 15th level,** the bonus increases to +4.
+
+**At 19th level,** the bonus increases to +5.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/imperious"
+name = "Heroic Echo (Su)"
+occurrence = 1
+span_sha256 = "fc2297630989d11679e4c7ca0a0459916af61848946f18ecf4b75be026e5b872"
+print = "Advanced Race Guide p. 75"
+replacement = '''
+**Heroic Echo (Su)**
+
+**Gained:** At 3rd Level
+
+**Passive:** When you receive a morale bonus from any spell,
+[spell-like ability](ref/umr/spell-like-abilities), or magic item, including those you cast on
+yourself, that bonus increases by +1.
+
+**Immediate:** If you receive a morale effect that affects an area or multiple targets, you can
+share your increased bonus with all other recipients. This increase to other participants lasts a
+number of rounds equal to your Charisma bonus.
+
+**Usage:** 1 time/day per 3 sorcerer levels
+
+**At 9th level,** these abilities also apply to competence bonuses.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/impossible"
+name = "Spontaneous Generation"
+occurrence = 1
+span_sha256 = "1b66cf80b4e34787a71c766332c62ef3988551810ace3c3d2560b4a5958b4adf"
+print = "Champions of Balance p. 21"
+replacement = '''
+**Spontaneous Generation**
+
+**Gained:** At 3rd Level
+
+**Ability:** You gain [Craft Wondrous Item](ref/feat/craft-wondrous-item) as a bonus feat.
+
+In addition, when you craft a magic item (except a potion, a spell-trigger item, or a spell completion item), you may ignore one spell prerequisite without increasing the creation DC.
+'''
+
+[[resolution]]
 id = "ref/sorcbloodline/kobold-sorcerer"
 name = "Nimble Walker (Su)"
 occurrence = 1
@@ -4498,6 +6648,29 @@ You can use _[plane shift](ref/spell/plane-shift)_ once per day to travel to or 
 '''
 
 [[resolution]]
+id = "ref/sorcbloodline/martyred"
+name = "Sacrificial Exchange (Su)"
+occurrence = 1
+span_sha256 = "b2ebfcacd777153081d60c724d9da54169a1c7f849e4f9893bac9aaf54f299eb"
+print = "Blood of Angels p. 29"
+replacement = '''
+**Sacrificial Exchange (Su)**
+
+**Gained:** At 15th Level
+
+**Swift:** Once per day, you can take 2 points of temporary ability damage to one of your ability
+scores and add a temporary +2 inherent bonus to any other ability score.
+
+This bonus lasts for a maximum of 1 hour per sorcerer level or until you choose to prematurely
+dismiss it (a **free action**), during which time the temporary ability damage cannot be healed by
+any means.
+
+After this effect ends, you can heal the ability damage normally.
+
+**At 20th level,** you can use this ability twice per day.
+'''
+
+[[resolution]]
 id = "ref/sorcbloodline/naga"
 name = "Power of the Naga (Su)"
 occurrence = 1
@@ -4513,6 +6686,48 @@ replacement = '''
 **Passive:** You gain immunity to charm effects, mind-reading effects, and poison.
 
 In addition, you can also assume the shape of a naga at will as if using [naga shape III](ref/spell/naga-shape-3).
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/nanite"
+name = "Living Swarm (Su)"
+occurrence = 1
+span_sha256 = "f7793f66fb451fe7cbaf5c537ea07ce11c4ec687c6d238243b5d782cc042f9c4"
+print = "People of the River p. 19"
+replacement = '''
+**Living Swarm (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** You and the machines within you become one.
+
+**Passive:** Your nanites consume and replicate your body, allowing swift and radical physical
+alterations with little more than a thought. You become immune to bleed effects, diseases, and
+poisons, and gain DR 5/-.
+
+At will, you can break down your body and move in a shimmering stream of flying nanites, as if affected by _[gaseous form](ref/spell/gaseous-form)._
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/nanite"
+name = "Nanite Strike (Ex)"
+occurrence = 1
+span_sha256 = "53d2aef137a6dceca28a3950226de3615a356f723939df72eaeda6990a3f79ec"
+print = "People of the River p. 19"
+replacement = '''
+**Nanite Strike (Ex)**
+
+**Gained:** At 1st Level
+
+**Free:** You can cause nanites to flow from your body and coat the striking end of any manufactured melee weapon you wield. When you hit with a melee attack using this weapon, some of the nanites infect the blood of the victim.
+
+**Usage:** 3 + Charisma modifier rounds/day
+
+**At 5th level,** weapons you use with this ability are treated as magical for the purposes of overcoming DR, and the poison also deals 1 point of [Constitution damage](ref/rule/ability-damage-drain).
+
+**At 7th level,** the damage increases to 1d2 points of Constitution damage and 1d2 points of Strength damage.
+
+**At 11th level,** the cure becomes two successful saves.
 '''
 
 [[resolution]]
@@ -4566,6 +6781,24 @@ Once per day, you can cast _[transformation](ref/spell/transformation)_ as a [sp
 '''
 
 [[resolution]]
+id = "ref/sorcbloodline/phoenix"
+name = "The Unseen World (Su)"
+occurrence = 1
+span_sha256 = "cfca6d35f812628307e5db8045525445502f1e0697dd3b877c2810b2b4bee364"
+print = "Heroes of Golarion p. 24"
+replacement = '''
+**The Unseen World (Su)**
+
+**Gained:** At 1st Level
+
+**Flavor:** The phoenix's blood drives you to find and save lost knowledge and magical items.
+
+**Ability:** You gain [detect magic](ref/spell/detect-magic) and [read magic](ref/spell/read-magic) as spells known.
+
+**At 5th level,** as a **swift action**, you can automatically identify the properties of a non-cursed magic item you hold; you must still identify a cursed item as normal to correctly identify it as cursed. You can use this ability a number of times equal to your Charisma modifier per day.
+'''
+
+[[resolution]]
 id = "ref/sorcbloodline/rakshasa"
 name = "Outsider (Su)"
 occurrence = 1
@@ -4583,6 +6816,45 @@ your original type was) for the purpose of spells and other magical effects. Unl
 you can still be brought back from the dead as if you were a member of your previous creature type.
 
 You gain DR 10/piercing.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/scorpion"
+name = "Progenitor's Sting (Sp)"
+occurrence = 1
+span_sha256 = "6d0d74fd1e2eee7e0cdf564f649adc3c95ecac2a645879368de5bf2e5d494137"
+print = "Potions and Poisons p. 7"
+replacement = '''
+**Progenitor's Sting (Sp)**
+
+**Gained:** At 1st Level
+
+**Standard:** You can magically apply your toxic essence onto your weapon or onto the weapon of a willing ally within 30 feet.
+
+**Usage:** 3 + Charisma modifier times/day
+
+**At 5th level,** the ability damage of your poison increases to 1d3.
+
+**At 7th level,** each time you apply your _progenitor's sting,_ you can choose two ability scores for your bloodline poison to affect.
+
+**At 11th level,** whenever you apply your _progenitor's sting_ to a weapon, you can magically apply it onto all willing allies' weapons within 20 feet as well. This counts as one use of your bloodline ability.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/scorpion"
+name = "Sudden Sting (Ex, Sp)"
+occurrence = 1
+span_sha256 = "77f31743a2c080b71131541982f9d80651158455b734bf88b6ddabf28fd43056"
+print = "Potions and Poisons p. 7"
+replacement = '''
+**Sudden Sting (Ex, Sp)**
+
+**Gained:** At 9th Level
+
+**Ability:** When you are able to act in the surprise round, you can take a full round's worth of
+actions rather than just a single standard action.
+
+You can also cast [accelerate poison](ref/spell/accelerate-poison) and [delay poison](ref/spell/delay-poison) as [spell-like abilities](ref/umr/spell-like-abilities) a total of three times per day.
 '''
 
 [[resolution]]
@@ -4717,6 +6989,31 @@ shapechanging magic.
 **Ability:** You are immune to polymorph effects unless you are a willing target.
 
 Once per day when you cast a polymorph spell on yourself, in addition to the normal effects of the spell, you can choose to gain a fly speed of 60 feet (average maneuverability), a swim speed of 60 feet, or an increase to your base land speed of 30 feet.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/shapechanger"
+name = "Vortex of Flesh (Su)"
+occurrence = 1
+span_sha256 = "a166327eebfc7eb564975053fcbcafac37bdf4b1742fd88e5d77737f8b655abe"
+print = "Legacy of the First World p. 21"
+replacement = '''
+**Vortex of Flesh (Su)**
+
+**Gained:** At 9th Level
+
+**Standard:** Once per day, you can momentarily change into an amalgam of erratic geometric shapes
+once per day, lashing out at every creature in a 20-foot-radius [spread](ref/misc/spread) around
+you. This attack deals 1d6 points of bludgeoning, piercing, and slashing damage per sorcerer level.
+
+If you benefit from a spell or effect that allows you to overcome damage resistance with your
+natural attacks (such as magic fang), this attack ignores DR of the same type. Those caught in the
+area can attempt a Reflex saving throw (DC = 10 + half your sorcerer level + your Charisma modifier)
+for half damage.
+
+**At 17th level,** you can use this ability twice per day.
+
+**At 20th level,** you can use this ability three times a day.
 '''
 
 [[resolution]]
@@ -4952,6 +7249,23 @@ Add [paladin's sacrifice](ref/spell/paladins-sacrifice) to your medium spells kn
 '''
 
 [[resolution]]
+id = "ref/spirit/hierophant"
+name = "Overflowing Grace (Su)"
+occurrence = 1
+span_sha256 = "62b3693907be3c415cbeeceb8c6fddeac62c19979716600136b29d33b62fe4c5"
+print = "Occult Adventures p. 35"
+replacement = '''
+**Overflowing Grace (Su)**
+
+**Ability:** When you heal a creature to full hit points or a creature already at full hit points
+with your positive or negative energy, that creature gains a +1 sacred bonus on attack rolls, skill
+checks, ability checks, and saving throws for 1 round. The bonus is sacred if you use positive
+energy and profane if you use negative energy.
+
+If you destroy or kill one or more creatures with positive or negative energy, you gain a +1 bonus of the same type on attack rolls, skill checks, ability checks, and saving throws for 1 round.
+'''
+
+[[resolution]]
 id = "ref/spirit/nex"
 name = "Personal Spire (Su)"
 occurrence = 1
@@ -5026,6 +7340,53 @@ replacement = '''
 bonus feat.
 
 **At 6th level,** she is treated as if she met all the prerequisites for [Greater Steal](ref/feat/greater-steal) (although she must take the feat as normal).
+'''
+
+[[resolution]]
+id = "ref/talent/bomber"
+name = "Bomb (Su)"
+occurrence = 1
+span_sha256 = "14f59ea1fb8b400d22e33f822ca741f2d60e8f2c18e4f37382be40418c6c5702"
+print = "Advanced Player's Guide p. 28"
+replacement = '''
+**Bomb (Su)**
+
+**Gained:** At 1st Level
+
+**Flavor:** Relevant text from the alchemist class ability.
+
+**Standard:** You can make and throw bombs. Drawing the components of, creating, and throwing a bomb
+is a single action. Thrown bombs have a range of 20 feet and use the
+[Throw Splash Weapon special attack](ref/rule/throw-splash-weapon). On a direct hit, your bomb
+inflicts 1d6 points of fire damage.
+
+In addition to magical extracts, alchemists are adept at swiftly mixing various volatile chemicals
+and infusing them with their magical reserves to create powerful bombs that they can hurl at their
+enemies. Bombs are unstable, and if not used in the round they are created, they degrade and become
+inert - their method of creation prevents large volumes of explosive material from being created and
+stored.
+
+Bombs are considered weapons and can be selected using feats such as
+[Point-Blank Shot](ref/feat/point-blank-shot) and [Weapon Focus](ref/feat/weapon-focus).
+
+**Provokes attack of opportunity:** Yes
+'''
+
+[[resolution]]
+id = "ref/talent/expert-cypher"
+name = "Expert Cypher (Ex)"
+occurrence = 1
+span_sha256 = "ae33a6ee34ac248bce3ed16452f04662f35d6b609174cc654b3a4c7d27e5ebe0"
+print = "Divine Anthology p. 7"
+replacement = '''
+**Expert Cypher (Ex)**
+
+**Ability:** A rogue with this ability can attempt a Linguistics check to decipher a single page of
+text as a **full-round action** instead of taking 1 minute as normal.
+
+When the rogue attempts a [Use Magic Device](ref/skill/use-magic-device) check to cast a spell from a scroll, she is treated as though she had the minimum score in the appropriate ability score to cast that spell.
+
+The rogue can choose to add her Intelligence modifier to her Use Magic Device skill checks instead of her Charisma modifier.
 '''
 
 [[resolution]]
@@ -5112,6 +7473,28 @@ replacement = '''
 She can use this reroll once per chase or once per day during a pursuit.
 
 Additionally, she gains [Run](ref/feat/run) as a bonus feat.
+'''
+
+[[resolution]]
+id = "ref/talent/umbral-gear"
+name = "Umbral Gear (Su)"
+occurrence = 1
+span_sha256 = "5482826208f1212e2fa865b4cfd08098cfb8b00d5b06829899566512243a7967"
+print = "Blood of Shadows p. 8"
+replacement = '''
+**Umbral Gear (Su)**
+
+**Standard:** While in an area of [dim light](ref/rule/vision-and-light) or darkness, a rogue with this talent can coalesce wisps of shadow into a quasi-real, functional item. The rogue must choose whether to make a [crowbar](ref/eq-misc/crowbar), 50 feet of [silk rope](ref/eq-misc/silk-rope-50-ft), a [glass cutter](ref/eq-misc/glass-cutter), a light melee weapon with which she is proficient, a [reversible cloak](ref/eq-misc/reversible-cloak), [thieves' tools](ref/eq-misc/thieves-tools), or a [wire saw](ref/eq-misc/wire-saw-common); the GM may allow other similar items. The rogue can use such items for a number of minutes per day equal to 10 plus her rogue level. This duration does not need to be consecutive, but it must be used in 1-minute increments.
+
+An item created with this ability remains until the rogue is no longer touching it, or until the
+rogue runs out of duration for this talent, at which time it dissolves.
+
+**Special:** A rogue can select this talent more than once, gaining an additional 10 minutes of
+duration each time this talent is selected. If a rogue has selected this talent at least twice, she
+adds 50 feet of silk rope with a [grappling hook](ref/eq-misc/grappling-hook), a
+[masterwork](ref/rule/masterwork-armor) light melee weapon with which she is proficient, and
+[masterwork thieves' tools](ref/eq-misc/thieves-tools-masterwork) to the list of things she can
+create.
 '''
 
 [[resolution]]
@@ -5203,6 +7586,52 @@ a 20-foot increase to its fly speed for each additional point spent.
 '''
 
 [[resolution]]
+id = "ref/unchevolution/large"
+name = "Large (Ex)"
+occurrence = 1
+span_sha256 = "c22504fd908bbbb01e4887a044ac7e94c4d16f5f7be02b7454bea9d392a25cb5"
+print = "Pathfinder Unchained p. 39"
+replacement = '''
+**Large (Ex)**
+
+**Ability:** The eidolon grows in size, becoming Large. The eidolon gains a +4 bonus to Strength, a
++2 bonus to Constitution, and a +2 bonus to its natural armor. It takes a -2 penalty to Dexterity.
+This size change also gives the creature a -1 size penalty to AC and on attack rolls, a +1 bonus on
+combat maneuver checks and to CMD, a -2 penalty on Fly checks, and a -4 penalty on Stealth checks.
+If the eidolon has the biped base form, it also gains a reach of 10 feet. Any
+[reach](ref/unchevolution/reach) evolutions the eidolon possesses are added to this total.
+
+**At 13th level,** if 6 additional evolution points are spent, the eidolon instead becomes Huge. The eidolon gains a +8 bonus to Strength, a +4 bonus to Constitution, and a +5 bonus to its natural armor. It takes a -4 penalty to Dexterity. This size change also gives the creature a -2 size penalty to AC and on attack rolls, a +2 bonus on combat maneuver checks and to CMD, a 10-foot reach, a -4 penalty on Fly checks, and a -8 penalty on Stealth checks. If the eidolon has the biped base form, its reach increases to 15 feet instead of 10 feet. Any _reach_ evolutions the eidolon possesses are added to this total. These bonuses and penalties replace, and do not stack with, those gained from becoming Large.
+
+**Prereq:** 8th-level unchained summoner, Medium size
+
+**Special:** The [ability increase](ref/unchevolution/ability-increase) evolution costs twice as
+much (4 evolution points) when adding to the Strength or Constitution scores of a Large or Huge
+eidolon.
+'''
+
+[[resolution]]
+id = "ref/unchevolution/poison"
+name = "Poison (Ex)"
+occurrence = 1
+span_sha256 = "43f30078ab7c1a5db13d257c7b560bcee55b0d571042a3d6b354423691027227"
+print = "Pathfinder Unchained p. 37"
+replacement = '''
+**Poison (Ex)**
+
+**Flavor:** The eidolon secretes toxic venom, gaining a poison attack.
+
+**Ability:** Select one bite or sting attack. Whenever the selected attack hits, the target is poisoned.
+
+**Prereq:** 7th-level unchained summoner; [daemon](ref/eidolon/daemon), [demon](ref/eidolon/demon),
+[devil](ref/eidolon/devil), [elemental](ref/eidolon/elemental), or [protean](ref/eidolon/protean)
+subtype; [bite](ref/unchevolution/bite) or [sting](ref/unchevolution/sting)
+
+**Special:** For 2 additional evolution points, this poison deals Constitution damage instead. This
+poison can be used no more than once per round.
+'''
+
+[[resolution]]
 id = "ref/unchevolution/web"
 name = "Web (Ex)"
 occurrence = 1
@@ -5267,4 +7696,32 @@ replacement = '''
 **Ability:** The vigilante combines strength and speed into incredibly deadly attacks. He gains [Weapon Finesse](ref/feat/weapon-finesse) as a bonus feat, and if he already has the Weapon Finesse feat, he can immediately swap it for another feat for which he qualified at the level he chose Weapon Finesse.
 
 When using Weapon Finesse to make a melee attack using his Dexterity bonus on attack rolls and his Strength bonus on damage rolls, he also adds half his vigilante level on damage rolls. This bonus damage is not reduced or increased if the vigilante is wielding a weapon two-handed or in an off-hand.
+'''
+
+[[resolution]]
+id = "ref/vigtalent/morphic-weaponry"
+name = "Morphic Weaponry (Ex)"
+occurrence = 2
+span_sha256 = "c65d32c477c6748a21843d4525881283ddc4d3a209475969417b698ed67bd3c1"
+print = "Ultimate Wilderness p. 81"
+replacement = '''
+**Morphic Weaponry (Ex)**
+
+**Flavor:** Text from the oozemorph ability.
+
+**Move:** An oozemorph can form two primary natural attacks that each deal 1d6 points of
+bludgeoning, piercing, or slashing damage, chosen by the oozemorph when she forms them.
+
+As a **swift action**, an oozemorph can change the damage type of any number of her natural weapons.
+
+**At 6th level,** an oozemorph gains an additional primary natural attack.
+
+**At 15th level,** an oozemorph gains an additional primary natural attack.
+
+**Special:** The total number of natural attacks an oozemorph has at any given time includes those
+gained via her current form. For example, an 8th-level oozemorph who has taken the form of a wolf
+with _[beast shape I](ref/spell/beast-shape-1)_ has a bite attack as part of that form; she can
+create only two additional natural attacks via _morphic weaponry,_ for a total of three attacks
+available to her at that level. If the oozemorph later reverts to a humanoid form with no natural
+weapons, she can instead create three _morphic weapons._
 '''
