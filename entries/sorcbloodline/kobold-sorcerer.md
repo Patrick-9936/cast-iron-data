@@ -63,8 +63,6 @@ increases, you discover ever more useful ways to blend your magic with these ins
 
 **Gained:** At 1st Level
 
-**Special:** Each rune lasts for 24 hours or until discharged.
-
 **Standard:** You can sketch a single, nearly invisible magical rune on any 5-foot-square solid
 surface. When you create a rune, pick one of the following energy types: acid, cold, electricity, or
 fire.
@@ -80,25 +78,27 @@ throw to halve the damage.
 
 **Usage:** 3 + Charisma modifier times/day
 
+**Special:** Each rune lasts for 24 hours or until discharged.
+
 **Trap Sense (Ex)**
 
-**Flavor:** You develop a sixth sense that helps you avoid traps.
-
 **Gained:** At 3rd Level
+
+**Flavor:** You develop a sixth sense that helps you avoid traps.
 
 **Passive:** You gain a +2 bonus on Perception checks made to notice traps. You also gain a +1 bonus
 on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks made by traps.
 
+**At 7th level,** the Reflex and dodge bonuses increase to +2.
+
+**At 11th level,** the Reflex and dodge bonuses increase to +3.
+
+**At 15th level,** the Reflex and dodge bonuses increase to +4.
+
+**At 19th level,** the Reflex and dodge bonuses increase to +5.
+
 **Special:** This bonus stacks with that provided by a [rogue's](ref/class/rogue) _trap sense_ and
 similar abilities.
-
-At 7th level: The Reflex and dodge bonuses increase to +2.
-
-At 11th level: The Reflex and dodge bonuses increase to +3.
-
-At 15th level: The Reflex and dodge bonuses increase to +4.
-
-At 19th level: The Reflex and dodge bonuses increase to +5.
 
 **Arcane Ambush (Su)**
 
@@ -115,12 +115,12 @@ feet of you and you must have line of effect to each affected ally.
 
 **Earth Glide (Su)**
 
+**Gained:** At 15th Level
+
 **Ability:** You gain the [earth glide](ref/umr/earth-glide) universal monster ability with a speed
 equal to your base speed. This does not give you the ability to breathe while passing through earth,
 so you must [hold your breath](ref/misc/hold-your-breath) or use some alternate method to breathe
 while using this ability.
-
-**Gained:** At 15th Level
 
 **Nimble Walker (Su)**
 

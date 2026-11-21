@@ -81,30 +81,32 @@ and mind.
 
 **Sight Unseen (Sp)**
 
+**Gained:** At 3rd Level
+
 **Ability:** You gain [darkvision](ref/rule/darkvision) with a range of up to 30 feet. If you
 already have darkvision, its range instead increases by 30 feet.
 
-**Gained:** At 3rd Level
-
-**At 9th Level:** You gain lifesense with a range of 30 feet (lifesense allows you to sense and
+**At 9th level,** you gain lifesense with a range of 30 feet (lifesense allows you to sense and
 locate living creatures as if you had the [blindsight](ref/umr/blindsight) ability).
 
 **Inside Agent (Sp)**
+
+**Gained:** At 9th Level
 
 **Ability:** You can reroll any [Perception](ref/skill/perception) check you just attempted by
 allowing your possessing spirit to take further control. You take a -2 penalty on all other skill
 checks for the following minute as the spirit interferes with your concentration.
 
-**Gained:** At 9th Level
+**At 13th level,** you can reroll any other skill check, but the penalty for using the ability in
+this way increases to -4 for the following 10 minutes.
 
 **Special:** You must reroll the check before you learn the result of your original check, and
 cannot use this power while the skill check penalty associated with _inside agent_ is imposed on
 you.
 
-**At 13th Level:** You can reroll any other skill check, but the penalty for using the ability in
-this way increases to -4 for the following 10 minutes.
-
 **One Body, Two Minds (Sp)**
+
+**Gained:** At 15th Level
 
 **Ability:** Once per day, you can improve the effectiveness of a single spell by having your
 possessing spirit channel that spell. The spell acts as though it were affected by both the
@@ -112,8 +114,6 @@ possessing spirit channel that spell. The spell acts as though it were affected 
 the spell chosen is a mind-affecting spell, it also benefits from the
 [Extend Spell](ref/feat/extend-spell) metamagic feat. This ability does not use up a spell slot
 higher than the level of the base spell, nor does it increase the level of the base spell.
-
-**Gained:** At 15th Level
 
 **Dual Spirit (Su)**
 

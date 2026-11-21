@@ -55,11 +55,9 @@ changed later.
 
 **Usage:** 3 times/day.
 
-**Usage:** 3 times/day.
+**At 8th level,** you can use this ability up to five times per day.
 
-**At 8th Level:** You can use this ability up to five times per day.
-
-**At 20th Level:** All your melee attacks deal this additional damage, and you don't need to
+**At 20th level,** all your melee attacks deal this additional damage, and you don't need to
 activate this ability.
 
 **Martyr's Resistances (Su)**
@@ -69,16 +67,16 @@ activate this ability.
 **Passive:** You gain fire [resistance](ref/umr/resistance) 5 and you gain a +2 bonus on saving
 throws against fear and pain effects.
 
-**At 8th Level:** Your fire resistance increases to 10, and the bonus on saving throws against fear
+**At 8th level,** your fire resistance increases to 10, and the bonus on saving throws against fear
 and pain effects increases to +4.
 
 **Forebear's Reserves (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can reroll a saving throw once during a _bloodrage._ You must decide to use this
 ability after the die is rolled but before the GM reveals the result. You must take the second
 result, even if it's worse.
-
-**Gained:** At 8th Level
 
 **Ancestral Champion (Su)**
 
@@ -98,9 +96,7 @@ penalty from your _bloodrage._) The penalty and bonus last for the duration of y
 
 **Usage:** Once a day.
 
-**Usage:** Once a day.
-
-**At 20th Level:** The penalty this ability imposes changes to -4, and the ally's bonus increases to
+**At 20th level,** the penalty this ability imposes changes to -4, and the ally's bonus increases to
 +6.
 
 **Eternal Martyr (Su)**

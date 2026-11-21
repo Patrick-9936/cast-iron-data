@@ -14,17 +14,17 @@ group = "oracle-curse"
 
 **Hellbound**
 
+**Flavor:** Infernal influence grants you profane insight and weighs on your soul.
+
 **Benefit:** You gain a +2 bonus on all [Bluff](ref/skill/bluff) and
 [Intimidate](ref/skill/intimidate) checks.
 
-**Flavor:** Infernal influence grants you profane insight and weighs on your soul.
+**At 5th level,** you gain a +4 bonus to all saving throws against charm effects.
 
-**At 10th Level:** You gain immunity to fire.
+**At 10th level,** you gain immunity to fire.
 
-**At 15th Level:** Any weapon you wield is treated as lawful and evil for the purposes of overcoming
+**At 15th level,** any weapon you wield is treated as lawful and evil for the purposes of overcoming
 [damage reduction](ref/rule/damage-reduction).
-
-**At 5th Level:** You gain a +4 bonus to all saving throws against charm effects.
 
 **Penalty:** You cannot cast spells with the good or chaotic descriptors, and you can't summon good
 or chaotic creatures. Good and chaotic creatures instinctively distrust you, and you take a -4

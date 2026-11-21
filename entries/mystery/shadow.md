@@ -61,11 +61,11 @@ Summoning as a prerequisite.
 
 **Cloak of Darkness (Su)**
 
-**Ability:** You conjure a cloak of shadowy darkness that grants you a +4 armor bonus and a +2
-circumstance bonus on [Stealth](ref/skill/stealth) checks.
-
 **Flavor:** This ability functions as the [dark tapestry](ref/mystery/dark-tapestry) mystery
 revelation of the same name.
+
+**Ability:** You conjure a cloak of shadowy darkness that grants you a +4 armor bonus and a +2
+circumstance bonus on [Stealth](ref/skill/stealth) checks.
 
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
@@ -87,28 +87,28 @@ these spells for a new appropriate spell on the sorcerer/wizard spell list.
 
 **Living Shadow (Sp)**
 
-**Ability:** This ability functions as [gaseous form](ref/spell/gaseous-form).
-
 **Flavor:** Your body dissolves, and you become a living shadow.
 
-**At 14th Level:** This ability functions as [shadow body](ref/spell/shadow-body) instead, except
+**Ability:** This ability functions as [gaseous form](ref/spell/gaseous-form).
+
+**Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
+in 1-minute increments
+
+**At 14th level,** this ability functions as [shadow body](ref/spell/shadow-body) instead, except
 you also gain DR 10/magic and become immune to poison, sneak attacks, and critical hits as if also
 using _[gaseous form](ref/spell/gaseous-form)._
 
 **Prereq:** 7th-level oracle
 
-**Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
-in 1-minute increments
-
 **Pierce the Shadows (Su)**
-
-**Ability:** You gain [darkvision](ref/rule/darkvision) 60 feet. If you already have darkvision,
-increase your existing darkvision by 60 feet instead.
 
 **Flavor:** The shadows step aside from your baleful gaze, affording you sight in even the deepest
 darkness.
 
-**At 11th Level:** You can see perfectly in darkness of any kind, even in absolute darkness or the
+**Ability:** You gain [darkvision](ref/rule/darkvision) 60 feet. If you already have darkvision,
+increase your existing darkvision by 60 feet instead.
+
+**At 11th level,** you can see perfectly in darkness of any kind, even in absolute darkness or the
 darkness created by a _[deeper darkness](ref/spell/deeper-darkness)_ spell.
 
 **Shadow Armament (Su)**
@@ -122,23 +122,23 @@ only 1 point of damage from the weapon's attacks. The weapon deals only 1 point 
 objects. At 3rd level, and again at 11th level and 19th level, the weapon gains a cumulative +1
 enhancement bonus.
 
-**At 15th Level:** The weapon deals minimum damage (as if it had rolled a 1 on each of its damage
-dice) against targets that succeed at their saves instead of 1 point of damage.
-
-**At 3rd Level:** The weapon gains a +1 enhancement bonus.
-
-**At 7th Level:** The weapon gains either the [frost](ref/magic-enh/frost) or
-[keen](ref/magic-enh/keen) weapon special ability, chosen when the weapon is created. These
-abilities don't function against a target that succeeds at its Will save.
-
-**Special:** The weapon disappears after 1 round if it leaves your grasp.
-
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
-At 11th level: The enhancement bonus increases to +2.
+**At 3rd level,** the weapon gains a +1 enhancement bonus.
 
-At 19th level: The enhancement bonus increases to +3.
+**At 7th level,** the weapon gains either the [frost](ref/magic-enh/frost) or
+[keen](ref/magic-enh/keen) weapon special ability, chosen when the weapon is created. These
+abilities don't function against a target that succeeds at its Will save.
+
+**At 11th level,** the enhancement bonus increases to +2.
+
+**At 15th level,** the weapon deals minimum damage (as if it had rolled a 1 on each of its damage
+dice) against targets that succeed at their saves instead of 1 point of damage.
+
+**At 19th level,** the enhancement bonus increases to +3.
+
+**Special:** The weapon disappears after 1 round if it leaves your grasp.
 
 **Shadow Mastery (Su)**
 
@@ -160,47 +160,47 @@ affected as an outsider). Your shadow's hit points are not replenished between u
 shadow can be healed in the same manner as any other outsider. When this ability isn't in use, any
 healing done to you also heals your shadow for an equal amount.
 
-**Prereq:** 7th-level oracle
-
 **Usage:** 1 hour/day per 2 oracle levels; these hours need not be consecutive, but must be spent in
 1-hour increments
+
+**Prereq:** 7th-level oracle
 
 **Stealth Mastery (Ex)**
 
 **Ability:** You gain [Skill Focus](ref/feat/skill-focus) with the [Stealth](ref/skill/stealth)
 skill.
 
-**At 16th Level:** You gain the _hide in plain sight_ [shadowdancer](ref/pclass/shadowdancer) class
-feature.
-
-**At 8th Level:** You gain [Signature Skill](ref/feat/signature-skill) with the Stealth skill, even
+**At 8th level,** you gain [Signature Skill](ref/feat/signature-skill) with the Stealth skill, even
 if you don't meet the feat's prerequisites.
 
+**At 16th level,** you gain the _hide in plain sight_ [shadowdancer](ref/pclass/shadowdancer) class
+feature.
+
 **Hide in Plain Sight (Su)**
+
+**Flavor:** Text from the shadowdancer class ability.
 
 **Ability:** A shadowdancer can use the Stealth skill even while being observed. As long as she is
 within 10 feet of an area of [dim light](ref/rule/vision-and-light), a shadowdancer can hide herself
 from view in the open without anything to actually hide behind. She cannot, however, hide in her own
 shadow.
 
-**Flavor:** Text from the shadowdancer class ability.
-
 **Wings of Darkness (Su)**
 
 **Flavor:** This ability functions as the [dark tapestry](ref/mystery/dark-tapestry) mystery
 revelation of the same name.
-
-**At 11th Level:** You can use these wings to fly as if with
-[overland flight](ref/spell/overland-flight) once per day. Used in this way, the ability lasts for
-up to 1 hour per level, and counts as your total use of this ability for the day.
-
-**Prereq:** 7th-level oracle
 
 **Swift:** You can manifest a set of translucent, inky wings that grant you a fly speed of 60 feet
 with good maneuverability.
 
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
+
+**At 11th level,** you can use these wings to fly as if with
+[overland flight](ref/spell/overland-flight) once per day. Used in this way, the ability lasts for
+up to 1 hour per level, and counts as your total use of this ability for the day.
+
+**Prereq:** 7th-level oracle
 
 ### Final Revelation
 

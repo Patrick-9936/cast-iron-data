@@ -71,16 +71,16 @@ sorcerer level.
 
 **Passive:** You gain fire [resistance](ref/umr/resistance) 10.
 
-**At 9th Level:** Your fire resistance increases to 20.
+**At 9th level,** your fire resistance increases to 20.
 
 **Efreeti Form (Su)**
+
+**Gained:** At 9th Level
 
 **Ability:** You gain the ability to assume the form of an efreeti once per day. This acts like the
 spell [giant form I](ref/spell/giant-form-1), except you only use it to become an efreeti and its
 duration is 1 round per level. While in this form, you also gain an efreeti's
 _[heat](ref/carried/bestiary/rules/universal-monster-rules/heat)_ ability.
-
-**Gained:** At 9th Level
 
 **Heat**
 

@@ -60,11 +60,11 @@ Your ancestral immersion in primordial chaos begets your curiously warped magica
 
 **Protoplasm (Sp)**
 
+**Gained:** At 1st Level
+
 **Ability:** You can create a ball of entropic protoplasm and hurl it at targets within 30 feet.
 This protoplasm acts as a [tanglefoot bag](ref/eq-weapon/tanglefoot-bag) that also inflicts 1 point
 of acid damage per round to a creature entangled by it. The protoplasm dissolves within 1d3 rounds.
-
-**Gained:** At 1st Level
 
 **Usage:** 3 + Charisma modifier times/day
 
@@ -75,9 +75,11 @@ of acid damage per round to a creature entangled by it. The protoplasm dissolves
 **Passive:** You gain [resist](ref/umr/resistance) acid 5 and a +2 bonus on saving throws against
 polymorph, petrification, and transmutation spells or effects.
 
-**At 9th Level:** You gain resist acid 10 and your save bonus increases to +4.
+**At 9th level,** you gain resist acid 10 and your save bonus increases to +4.
 
 **Reality Wrinkle (Sp)**
+
+**Gained:** At 9th Level
 
 **Ability:** You can surround yourself with a mobile, 10-foot-radius [emanation](ref/misc/emanation)
 of mutable reality. This rippling distortion is similar to [solid fog](ref/spell/solid-fog) but does
@@ -85,26 +87,24 @@ not provide [concealment](ref/rule/concealment) or block line of sight. Your mov
 by this aura. Attacks from outside the aura suffer a 20% miss chance against targets inside the
 aura.
 
-**Gained:** At 9th Level
-
 **Usage:** 1 time/day per sorcerer level
 
 **Spatial Tear (Sp)**
+
+**Gained:** At 15th Level
 
 **Ability:** Once per day, you can unravel the fibers of reality and ride along them as they snap
 back into place. This power functions as [dimension door](ref/spell/dimension-door), while also
 creating a mass of [black tentacles](ref/spell/black-tentacles) centered on your former location.
 Both of these effects use your sorcerer level as the caster level.
 
-**Gained:** At 15th Level
-
-**At 20th Level:** You can use this ability twice per day.
+**At 20th level,** you can use this ability twice per day.
 
 **Avatar of Chaos (Ex)**
 
-**Flavor:** You are infused with the essence of raw chaos.
-
 **Gained:** At 20th Level
+
+**Flavor:** You are infused with the essence of raw chaos.
 
 **Passive:** You gain immunity to acid, petrification, and polymorph effects (except when cast on
 self), as well as a +2 bonus to save DCs and on checks to overcome spell penetration against

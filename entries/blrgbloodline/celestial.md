@@ -56,24 +56,24 @@ effects such as [align weapon](ref/spell/align-weapon) and those granted by a we
 
 **Passive:** You gain [resistance](ref/umr/resistance) 5 to acid and cold.
 
-**At 12th Level:** These resistances increase to 10.
+**At 12th level,** these resistances increase to 10.
 
 **Conviction (Su)**
+
+**Gained:** At 8th Level
 
 **Ability:** Once per _bloodrage_ you can reroll one ability check, skill check, or saving throw you
 just made. You must decide to use this ability after the die is rolled, but before the GM reveals
 the results. You must take the second result, even if it's worse.
 
-**Gained:** At 8th Level
-
 **Wings of Heaven (Su)**
+
+**Gained:** At 12th Level
 
 **Ability:** You can choose to sprout feathery wings and fly with a speed of 60 feet and good
 maneuverability.
 
-**Gained:** At 12th Level
-
-**At 20th Level:** Your fly speed increases to 80 feet.
+**At 20th level,** your fly speed increases to 80 feet.
 
 **Angelic Protection (Su)**
 

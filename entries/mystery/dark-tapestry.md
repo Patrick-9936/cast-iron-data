@@ -49,10 +49,6 @@ An oracle with the Dark Tapestry mystery can choose from any of the following re
 
 **Brain Drain (Su)**
 
-**Special:** The randomly stolen thoughts remain in your mind for a number of rounds equal to your
-Charisma modifier. Treat the knowledge gained as if you had used
-[detect thoughts](ref/spell/detect-thoughts). This is a mind-affecting effect.
-
 **Standard:** You can violently probe the mind of a single intelligent enemy within 100 feet. The
 target receives a Will save to negate the effect and immediately knows the source of this harmful
 mental prying. Those who fail this save are wracked with pain, taking 1d4 points of damage for every
@@ -63,6 +59,10 @@ the jumble of stolen thoughts and memories to make a single [Knowledge](ref/skil
 check using the victim's skill bonus.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
+
+**Special:** The randomly stolen thoughts remain in your mind for a number of rounds equal to your
+Charisma modifier. Treat the knowledge gained as if you had used
+[detect thoughts](ref/spell/detect-thoughts). This is a mind-affecting effect.
 
 **Cloak of Darkness (Su)**
 
@@ -78,7 +78,7 @@ circumstance bonus on [Stealth](ref/skill/stealth) checks.
 terrible otherworldly being. The _dweller in darkness_ behaves in all ways as if you had cast
 [phantasmal killer](ref/spell/phantasmal-killer).
 
-**At 17th Level:** The _dweller in darkness_ can be perceived by more than one creature, as if you
+**At 17th level,** the _dweller in darkness_ can be perceived by more than one creature, as if you
 had cast [weird](ref/spell/weird).
 
 **Prereq:** 11th-level oracle
@@ -89,41 +89,28 @@ had cast [weird](ref/spell/weird).
 within 30 feet to become [confused](ref/misc/confused) for 1 round. A successful Will save negates
 the effect.
 
-**At 7th Level:** The confusion lasts for a number of rounds equal to your oracle level.
+**Usage:** 3 + Charisma modifier times/day
+
+**At 7th level,** the confusion lasts for a number of rounds equal to your oracle level.
 
 **Special:** This is a mind-affecting compulsion effect.
-
-**Usage:** 3 + Charisma modifier times/day
 
 **Interstellar Void (Su)**
 
 **Flavor:** You call upon the frigid depths of outer space to bring a terrible chill to your
 enemies.
 
-**At 10th Level:** You can use this ability twice a day.
-
-**At 15th Level:** A creature that fail its save is [exhausted](ref/misc/exhausted) and
-[stunned](ref/misc/stunned) for 1 round.
-
 **Standard:** One target within 30 feet is cloaked in the void and takes 1d6 points of cold damage
 for every oracle level you possess. A successful Fortitude save halves this damage.
 
 **Usage:** Once per day.
 
-**Usage:** Once per day.
+**At 10th level,** you can use this ability twice a day.
+
+**At 15th level,** a creature that fail its save is [exhausted](ref/misc/exhausted) and
+[stunned](ref/misc/stunned) for 1 round.
 
 **Many Forms (Su)**
-
-**At 11th Level:** You can assume the form of a Small or Medium magical beast, as
-[beast shape III](ref/spell/beast-shape-3).
-
-**At 15th Level:** You can assume a variety of forms, as
-[greater polymorph](ref/spell/polymorph-greater).
-
-**At 7th Level:** You can assume the form of a Small or Medium animal, as
-[beast shape I](ref/spell/beast-shape-1).
-
-**Prereq:** 3rd-level oracle
 
 **Standard:** You can assume the form of a Small or Medium humanoid, as the
 [alter self](ref/spell/alter-self) spell.
@@ -131,14 +118,25 @@ for every oracle level you possess. A successful Fortitude save halves this dama
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
-**Pierce the Veil (Su)**
+**At 7th level,** you can assume the form of a Small or Medium animal, as
+[beast shape I](ref/spell/beast-shape-1).
 
-**Ability:** You gain [darkvision](ref/rule/darkvision) 60 feet.
+**At 11th level,** you can assume the form of a Small or Medium magical beast, as
+[beast shape III](ref/spell/beast-shape-3).
+
+**At 15th level,** you can assume a variety of forms, as
+[greater polymorph](ref/spell/polymorph-greater).
+
+**Prereq:** 3rd-level oracle
+
+**Pierce the Veil (Su)**
 
 **Flavor:** Your bond with the alien denizens of the Dark Tapestry allows you to see in even the
 deepest darkness.
 
-**At 11th Level:** You can see perfectly in darkness of any kind, even in absolute darkness or the
+**Ability:** You gain [darkvision](ref/rule/darkvision) 60 feet.
+
+**At 11th level,** you can see perfectly in darkness of any kind, even in absolute darkness or the
 darkness created by a [deeper darkness](ref/spell/deeper-darkness) spell.
 
 **Read the Tapestry (Sp)**
@@ -151,29 +149,29 @@ functions as the [contact other plane](ref/spell/contact-other-plane) spell.
 
 **Touch of the Void (Su)**
 
-**At 7th Level:** The touched creature must also make a Fortitude saving throw or be
-[fatigued](ref/misc/fatigued) for a number of rounds equal to
-[half](ref/misc/fractions-and-rounding) your oracle level. This has no effect on a creature that is
-already fatigued.
-
 **Standard:** You can perform a melee touch attack that deals an amount of cold damage equal to
 1d6 + [half](ref/misc/fractions-and-rounding) of your oracle level.
 
 **Usage:** 3 + Charisma modifier times/day
 
+**At 7th level,** the touched creature must also make a Fortitude saving throw or be
+[fatigued](ref/misc/fatigued) for a number of rounds equal to
+[half](ref/misc/fractions-and-rounding) your oracle level. This has no effect on a creature that is
+already fatigued.
+
 **Wings of Darkness (Su)**
-
-**At 11th Level:** You can use these wings to fly as if with
-[overland flight](ref/spell/overland-flight) once per day. Used in this way, the ability lasts for
-up to 1 hour per level, and counts as your total use of this ability for the day.
-
-**Prereq:** 7th-level oracle
 
 **Swift:** You can manifest a set of translucent, inky wings that grant you a fly speed of 60 feet
 with good maneuverability.
 
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
+
+**At 11th level,** you can use these wings to fly as if with
+[overland flight](ref/spell/overland-flight) once per day. Used in this way, the ability lasts for
+up to 1 hour per level, and counts as your total use of this ability for the day.
+
+**Prereq:** 7th-level oracle
 
 ### Final Revelation
 

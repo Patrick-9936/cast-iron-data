@@ -41,16 +41,14 @@ Your future greatness grants you the might to strike your enemies with awe.
 
 **Destined Strike (Su)**
 
+**Gained:** At 1st Level
+
 **Free:** You can grant yourself an insight bonus equal to 1/2 your bloodrager level (minimum 1) on
 one melee attack.
 
-**Gained:** At 1st Level
-
 **Usage:** 3 times/day.
 
-**Usage:** 3 times/day.
-
-**At 12th Level:** You can use this five times a day.
+**At 12th level,** you can use this five times a day.
 
 **Fated Bloodrager (Su)**
 
@@ -61,21 +59,19 @@ your bloodrager level.
 
 **Certain Strike (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You may reroll an attack roll once during a _bloodrage._ You must decide to use this
 ability after the die is rolled, but before the GM reveals the results. You must take the second
 result, even if it's worse.
 
-**Gained:** At 8th Level
-
 **Defy Death (Su)**
+
+**Gained:** At 12th Level
 
 **Ability:** When an attack or spell that deals damage would result in your death, you can attempt a
 DC 20 Fortitude save. If you succeed, you are instead reduced to 1 hit point; if you succeed and
 already have less than 1 hit point, you instead take no damage.
-
-**Gained:** At 12th Level
-
-**Usage:** Once a day
 
 **Usage:** Once a day
 

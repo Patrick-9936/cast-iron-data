@@ -89,11 +89,11 @@ within 30 feet.
 
 **Modify Onset (Su)**
 
-**Ability:** You can increase the onset time of poisons you use by up to 1 hour per level.
-
 **Gained:** At 3rd Level
 
-**At 9th Level:** You can alter a poison so that it does not have an onset time, but you can trigger
+**Ability:** You can increase the onset time of poisons you use by up to 1 hour per level.
+
+**At 9th level,** you can alter a poison so that it does not have an onset time, but you can trigger
 it as a **swift action** to take effect at any time, regardless of distance. If you do not trigger
 this poison within 1 week of poisoning a target, the poison dissipates harmlessly. The poison can be
 detected and removed before it is triggered using any normal methods of detecting and removing
@@ -112,12 +112,14 @@ total of three times per day.
 
 **Sandwalker (Ex)**
 
+**Gained:** At 15th Level
+
 **Ability:** You gain you gain a burrow speed of 30 feet and [tremorsense](ref/umr/tremorsense) with
 a range of 60 feet.
 
-**Gained:** At 15th Level
-
 **It Is My Nature (Su)**
+
+**Gained:** At 20th Level
 
 **Flavor:** Your poisoned blood protects you, reflexively conjuring an ethereal stinger to lash out
 at foes who come too close.
@@ -126,8 +128,6 @@ at foes who come too close.
 melee touch attack against the creature. On a hit, the creature must succeed at a Fortitude save (DC
 = 10 + half your sorcerer level + your Charisma modifier) or die. A creature that succeeds at this
 Fortitude save is immune to this effect for 24 hours.
-
-**Gained:** At 20th Level
 
 **Special:** This is a poison and death effect. You can use this ability even when you are surprised
 or flat-footed.

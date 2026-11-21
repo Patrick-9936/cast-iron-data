@@ -14,16 +14,16 @@ group = "oracle-curse"
 
 **Lame**
 
-**Benefit:** Your speed is never reduced due to encumbrance.
-
 **Flavor:** One of your legs is permanently wounded.
 
-**At 10th Level:** Your speed is never reduced by armor.
+**Benefit:** Your speed is never reduced due to encumbrance.
 
-**At 15th Level:** You are immune to the [exhausted](ref/misc/exhausted) condition.
-
-**At 5th Level:** You are immune to the [fatigued](ref/misc/fatigued) condition (but not
+**At 5th level,** you are immune to the [fatigued](ref/misc/fatigued) condition (but not
 exhaustion).
+
+**At 10th level,** your speed is never reduced by armor.
+
+**At 15th level,** you are immune to the [exhausted](ref/misc/exhausted) condition.
 
 **Penalty:** You reduce your base land speed by 10 feet if your base speed is 30 feet or more. If
 your base speed is less than 30 feet, your speed is reduced by 5 feet.

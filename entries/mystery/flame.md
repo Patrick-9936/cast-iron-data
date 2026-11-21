@@ -61,11 +61,11 @@ extinguishes the fire.
 
 **Cinder Dance (Ex)**
 
-**At 10th Level:** You receive [Acrobatic Steps](ref/feat/acrobatic-steps) as a bonus feat.
-
-**At 5th Level:** You receive [Nimble Moves](ref/feat/nimble-moves) as a bonus feat.
-
 **Passive:** Your base speed increases by 10 feet.
+
+**At 5th level,** you receive [Nimble Moves](ref/feat/nimble-moves) as a bonus feat.
+
+**At 10th level,** you receive [Acrobatic Steps](ref/feat/acrobatic-steps) as a bonus feat.
 
 **Prereq:** Cannot have the [lame](ref/oraclecurse/lame) oracle curse.
 
@@ -73,18 +73,16 @@ extinguishes the fire.
 
 **Fire Breath (Su)**
 
-**Special:** The save DC is Charisma-based.
-
 **Standard:** You can unleash a 15-foot cone of flame from your mouth. This flame deals 1d4 points
 of fire damage per level. A Reflex save halves this damage.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
 
+**Special:** The save DC is Charisma-based.
+
 **Firestorm (Su)**
 
 **Flavor:** You can cause fire to erupt around you.
-
-**Prereq:** 11th-level oracle
 
 **Standard:** You can create one 10-foot cube of fire per oracle level. These cubes can be arranged
 in any pattern you desire, but each cube must be adjacent to another and one must be adjacent to
@@ -94,36 +92,34 @@ modifier.
 
 **Usage:** Once per day.
 
-**Usage:** Once per day.
+**Prereq:** 11th-level oracle
 
 **Form of Flame (Su)**
-
-**At 11th Level:** You can assume the form of a Large fire elemental, as
-[elemental body III](ref/spell/elemental-body-3).
-
-**At 13th Level:** You can assume the form of a Huge fire elemental, as
-[elemental body IV](ref/spell/elemental-body-4).
-
-**At 9th Level:** You can assume the form of a Medium fire elemental, as
-[elemental body II](ref/spell/elemental-body-2).
-
-**Prereq:** 7th-level oracle
-
-**Special:** This lasts an hour per oracle level.
 
 **Standard:** You can assume the form of a Small fire elemental, as
 [elemental body I](ref/spell/elemental-body-1).
 
 **Usage:** Once per day.
 
-**Usage:** Once per day.
+**At 9th level,** you can assume the form of a Medium fire elemental, as
+[elemental body II](ref/spell/elemental-body-2).
+
+**At 11th level,** you can assume the form of a Large fire elemental, as
+[elemental body III](ref/spell/elemental-body-3).
+
+**At 13th level,** you can assume the form of a Huge fire elemental, as
+[elemental body IV](ref/spell/elemental-body-4).
+
+**Prereq:** 7th-level oracle
+
+**Special:** This lasts an hour per oracle level.
 
 **Gaze of Flames (Su)**
 
 **Ability:** You can see through fire, fog, and smoke without penalty as long as the light is
 sufficient to allow you to see normally.
 
-**At 7th Level:** You can gaze through any source of flame within 10 feet per oracle level, as if
+**At 7th level,** you can gaze through any source of flame within 10 feet per oracle level, as if
 using [clairvoyance](ref/spell/clairaudience-clairvoyance). You can use this ability for a number of
 rounds per day equal to your oracle level, but these rounds do not need to be consecutive.
 
@@ -138,27 +134,25 @@ damage. In addition, your form wavers and blurs, granting you 20%
 
 **Molten Skin (Ex)**
 
-**At 11th Level:** The resistance becomes 20.
-
-**At 17th Level:** You gain immunity to fire.
-
-**At 5th Level:** This resistance increases to 10.
-
 **Passive:** You gain [resist](ref/umr/resistance) fire 5.
 
-**Touch of Flame (Su)**
+**At 5th level,** this resistance increases to 10.
 
-**At 11th Level:** Any weapon that you wield is treated as a [flaming](ref/magic-enh/flaming)
-weapon.
+**At 11th level,** the resistance becomes 20.
+
+**At 17th level,** you gain immunity to fire.
+
+**Touch of Flame (Su)**
 
 **Standard:** You can perform a melee touch attack that deals 1d6 points of fire damage plus an
 additional amount of points equal to [half](ref/misc/fractions-and-rounding) of your oracle level.
 
 **Usage:** 3 + Charisma modifier times/day
 
-**Wings of Fire (Su)**
+**At 11th level,** any weapon that you wield is treated as a [flaming](ref/magic-enh/flaming)
+weapon.
 
-**Prereq:** 7th-level oracle
+**Wings of Fire (Su)**
 
 **Swift:** You can manifest a pair of fiery wings that grant you a fly speed of 60 feet with average
 maneuverability.
@@ -166,15 +160,17 @@ maneuverability.
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
+**Prereq:** 7th-level oracle
+
 ### Final Revelation
 
 **Final Revelation**
+
+**Gained:** At 20th Level
+
+**Flavor:** You become a master of fire.
 
 **Ability:** You can apply any one of the following feats to any fire spell you cast without
 increasing the level or casting time: [Enlarge Spell](ref/feat/enlarge-spell),
 [Extend Spell](ref/feat/extend-spell), [Silent Spell](ref/feat/silent-spell), or
 [Still Spell](ref/feat/still-spell). You do not need to possess these feats to use this ability.
-
-**Flavor:** You become a master of fire.
-
-**Gained:** At 20th Level

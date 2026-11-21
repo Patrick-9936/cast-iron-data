@@ -50,12 +50,10 @@ _bloodraging._
 
 **Black Blood-Cold (Su)**
 
-**Immediate:** When you take damage from a slashing or piercing attack while _bloodraging,_ you can
-grant your melee attacks the [frost](ref/magic-enh/frost) weapon special ability for 2 rounds.
-
 **Gained:** At 1st Level
 
-**Usage:** 3 times/day
+**Immediate:** When you take damage from a slashing or piercing attack while _bloodraging,_ you can
+grant your melee attacks the [frost](ref/magic-enh/frost) weapon special ability for 2 rounds.
 
 **Usage:** 3 times/day
 
@@ -74,7 +72,7 @@ increases by 5 feet.
 against [ability drain](ref/rule/ability-damage-drain), death effects, disease,
 [energy drain](ref/rule/energy-drain-and-negative-levels), paralysis, and poison.
 
-**At 16th Level:** This resistance increases to 10 and the saving throw bonus increases to +4.
+**At 16th level,** this resistance increases to 10 and the saving throw bonus increases to +4.
 
 **Retributive Spray (Su)**
 

@@ -80,25 +80,25 @@ Neutral creatures are neither harmed nor healed by this effect.
 
 **Passive:** You gain [resist](ref/umr/resistance) acid 5 and resist cold 5.
 
-**At 9th Level:** Your resistances increase to 10.
+**At 9th level,** your resistances increase to 10.
 
 **Wings of Heaven (Su)**
 
-**Ability:** You can sprout feathery wings and fly with a speed of 60 feet and good maneuverability.
-
 **Gained:** At 9th Level
+
+**Ability:** You can sprout feathery wings and fly with a speed of 60 feet and good maneuverability.
 
 **Usage:** 1 minute/day per sorcerer level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
 **Conviction (Su)**
 
+**Gained:** At 15th Level
+
 **Ability:** You can reroll any one ability check, attack roll, skill check, or saving throw you
 just made. You must decide to use this ability after the die is rolled, but before the results are
 revealed by the GM. You must take the second result, even if it is worse. You can use this ability
 once per day.
-
-**Gained:** At 15th Level
 
 **Ascension (Su)**
 
@@ -122,11 +122,11 @@ Your heavenly power derives from insight rather than force of personality.
 **Flavor:** Unlike most sorcerers whose innate magic is powered by force of personality, you use
 pure willpower to master and fuel your magic.
 
+**Passive:** You gain a +2 bonus on all Heal and Knowledge (religion) checks.
+
 **Info:** You use your Wisdom, rather than your Charisma, to determine all class features and
 effects relating to your sorcerer class, such as bonus spells per day, maximum spell level you can
 cast, and the save DCs of your spells.
-
-**Passive:** You gain a +2 bonus on all Heal and Knowledge (religion) checks.
 
 ### Bloodline Powers
 
@@ -134,11 +134,11 @@ Your quasi-divine nature gives you strange powers.
 
 **Sacred Cistern (Su)**
 
-**Ability:** You can [channel energy](ref/ability/channel-energy) once per day as a cleric of your
-sorcerer level - 4.
+**Gained:** At 9th Level
 
 **Flavor:** Your bloodline makes you a natural receptacle of divine energy.
 
-**Gained:** At 9th Level
+**Ability:** You can [channel energy](ref/ability/channel-energy) once per day as a cleric of your
+sorcerer level - 4.
 
 **Replaces:** Wings of heaven

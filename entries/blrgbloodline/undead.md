@@ -42,12 +42,12 @@ your body with foul resistances.
 
 **Frightful Charger (Su)**
 
+**Gained:** At 1st Level
+
 **Ability:** When you hit a creature with a [charge](ref/rule/charge) attack, that creature becomes
 [shaken](ref/misc/shaken) for a number of rounds equal to 1/2 your bloodrager level (minimum 1).
 This effect does not cause an existing shaken or frightened condition (from this ability or another
 source) to turn into frightened or panicked. This is a mind-affecting fear effect.
-
-**Gained:** At 1st Level
 
 **Ghost Strike (Su)**
 
@@ -73,19 +73,15 @@ melee attacks become shaken. Creatures who are already shaken become
 
 **Usage:** Once per _bloodrage._
 
-**Usage:** Once per _bloodrage._
-
-**At 16th Level:** Those who are already frightened become [panicked](ref/misc/panicked).
+**At 16th level,** those who are already frightened become [panicked](ref/misc/panicked).
 
 **Incorporeal Bloodrager (Su)**
+
+**Gained:** At 16th Level
 
 **Ability:** You can choose to become [incorporeal](ref/umr/incorporeal). You take only half damage
 from magic corporeal sources, and you take no damage from non-magic weapons and objects. Your
 attacks deal damage as normal due to your _ghost strike_ bloodrage power.
-
-**Gained:** At 16th Level
-
-**Usage:** Once a day.
 
 **Usage:** Once a day.
 

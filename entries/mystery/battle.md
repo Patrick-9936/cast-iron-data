@@ -50,13 +50,13 @@ An oracle with the Battle mystery can choose from any of the following revelatio
 
 **Battlecry (Ex)**
 
-**At 10th Level:** This bonus increases to +2.
-
 **Standard:** You can unleash an inspiring battlecry. All allies within 100 feet who hear your cry
 gain a +1 morale bonus on attack rolls, skill checks, and saving throws for a number of rounds equal
 to your Charisma modifier.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
+
+**At 10th level,** this bonus increases to +2.
 
 **Battlefield Clarity (Ex)**
 
@@ -64,9 +64,9 @@ to your Charisma modifier.
 frightened, panicked, paralyzed, shaken, or stunned, you may attempt that saving throw again, with a
 +4 insight bonus on the roll. You must take the second result, even if it is worse.
 
-**At 15th Level:** You can use this three times a day.
+**At 7th level,** you can use this ability twice a day.
 
-**At 7th Level:** You can use this ability twice a day.
+**At 15th level,** you can use this three times a day.
 
 **Combat Healer (Su)**
 
@@ -74,9 +74,9 @@ frightened, panicked, paralyzed, shaken, or stunned, you may attempt that saving
 **swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by expending two
 spell slots. This does not increase the level of the spell.
 
-**Prereq:** 7th-level oracle
-
 **Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
+
+**Prereq:** 7th-level oracle
 
 **Iron Skin (Su)**
 
@@ -84,7 +84,7 @@ spell slots. This does not increase the level of the spell.
 10/adamantine. This functions as [stoneskin](ref/spell/stoneskin), using your oracle level as the
 caster level.
 
-**At 15th Level:** You can use this ability twice per day.
+**At 15th level,** you can use this ability twice per day.
 
 **Prereq:** 11th-level oracle
 
@@ -94,23 +94,23 @@ caster level.
 your oracle level as your base attack bonus (plus the BAB from other classes) when determining your
 CMB.
 
-**At 11th Level:** You gain the Greater feat (such as [Greater Trip](ref/feat/greater-trip)) that
+**At 7th level,** you gain the Improved feat (such as [Improved Trip](ref/feat/improved-trip)) that
 grants you a bonus when performing that maneuver.
 
-**At 7th Level:** You gain the Improved feat (such as [Improved Trip](ref/feat/improved-trip)) that
+**At 11th level,** you gain the Greater feat (such as [Greater Trip](ref/feat/greater-trip)) that
 grants you a bonus when performing that maneuver.
 
 **Special:** You do not need to meet the prerequisites to receive these feats.
 
 **Resiliency (Ex)**
 
-**At 11th Level:** You do not lose a hit point when you take a standard action while disabled.
-
-**At 7th Level:** You gain [Diehard](ref/feat/diehard) as a bonus feat. You do not need to meet its
-prerequisites.
-
 **Passive:** You are not [disabled](ref/misc/disabled) and you do not gain the
 [staggered](ref/misc/staggered) condition if you are reduced to exactly 0 hit points.
+
+**At 7th level,** you gain [Diehard](ref/feat/diehard) as a bonus feat. You do not need to meet its
+prerequisites.
+
+**At 11th level,** you do not lose a hit point when you take a standard action while disabled.
 
 **Skill at Arms (Ex)**
 
@@ -120,28 +120,28 @@ prerequisites.
 
 **Immediate:** Once per day, you can move up to your speed.
 
-**At 15th Level:** You can use this ability three times a day.
+**At 7th level,** you can do this twice a day.
 
-**At 7th Level:** You can do this twice a day.
+**At 15th level,** you can use this ability three times a day.
 
 **War Sight (Su)**
 
 **Ability:** Whenever you roll for initiative, you can roll twice and take either result.
 
-**At 11th Level:** You can roll for initiative three times and take any one of the results.
-
-**At 7th Level:** You can always act in the surprise round, but if you fail to notice the ambush,
+**At 7th level,** you can always act in the surprise round, but if you fail to notice the ambush,
 you act last, regardless of your initiative result (you act in the normal order in following
 rounds).
+
+**At 11th level,** you can roll for initiative three times and take any one of the results.
 
 **Weapon Mastery (Ex)**
 
 **Ability:** Select one weapon with which you are proficient. You gain
 [Weapon Focus](ref/feat/weapon-focus) with that weapon.
 
-**At 12th Level:** You gain [Greater Weapon Focus](ref/feat/greater-weapon-focus) with that weapon.
+**At 8th level,** you gain [Improved Critical](ref/feat/improved-critical) with that weapon.
 
-**At 8th Level:** You gain [Improved Critical](ref/feat/improved-critical) with that weapon.
+**At 12th level,** you gain [Greater Weapon Focus](ref/feat/greater-weapon-focus) with that weapon.
 
 **Special:** You do not need to meet the prerequisites to receive these feats.
 

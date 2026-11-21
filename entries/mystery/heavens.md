@@ -59,18 +59,18 @@ number of Hit Dice were equal to its number of Hit Dice minus your Charisma modi
 
 **Ability:** You conjure a coat of starry radiance that grants you a +4 armor bonus.
 
-**At 13th Level:** This armor grants you DR 5/slashing.
-
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: This bonus increases to +6.
+**At 7th level,** this bonus increases to +6.
 
-At 11th level: This bonus increases to +8.
+**At 11th level,** this bonus increases to +8.
 
-At 15th level: This bonus increases to +10.
+**At 13th level,** this armor grants you DR 5/slashing.
 
-At 19th level: This bonus increases to +12.
+**At 15th level,** this bonus increases to +10.
+
+**At 19th level,** this bonus increases to +12.
 
 **Dweller in Darkness (Sp)**
 
@@ -78,7 +78,7 @@ At 19th level: This bonus increases to +12.
 terrible otherworldly being. The _dweller in darkness_ behaves in all ways as if you had cast
 [phantasmal killer](ref/spell/phantasmal-killer).
 
-**At 17th Level:** The _dweller in darkness_ can be perceived by more than one creature, as if you
+**At 17th level,** the _dweller in darkness_ can be perceived by more than one creature, as if you
 had cast [weird](ref/spell/weird).
 
 **Prereq:** 11th-level oracle
@@ -100,17 +100,15 @@ Wisdom modifier on all Wisdom-based checks.
 **Flavor:** You call upon the frigid depths of outer space to bring a terrible chill to your
 enemies.
 
-**At 10th Level:** You can use this ability twice a day.
-
-**At 15th Level:** A creature that fail its save is [exhausted](ref/misc/exhausted) and
-[stunned](ref/misc/stunned) for 1 round.
-
 **Standard:** One target within 30 feet is cloaked in the void and takes 1d6 points of cold damage
 for every oracle level you possess. A successful Fortitude save halves this damage.
 
 **Usage:** Once per day.
 
-**Usage:** Once per day.
+**At 10th level,** you can use this ability twice a day.
+
+**At 15th level,** a creature that fail its save is [exhausted](ref/misc/exhausted) and
+[stunned](ref/misc/stunned) for 1 round.
 
 **Lure of the Heavens (Su)**
 
@@ -145,14 +143,11 @@ at a point adjacent to your position. From this point it can extend in any direc
 oracle level. The path persists until you have crossed over the bridge or for 24 hours, whichever is
 shorter.
 
-**Special:** Should the bridge be attacked, treat it as a [wall of force](ref/spell/wall-of-force).
-
 **Usage:** Charisma modifier times/day
 
-**Spray of Shooting Stars (Su)**
+**Special:** Should the bridge be attacked, treat it as a [wall of force](ref/spell/wall-of-force).
 
-**Special:** You can fire more than one ball at a time, but creatures caught inside more than one
-simultaneous explosions only take damage once.
+**Spray of Shooting Stars (Su)**
 
 **Standard:** You can unleash a ball of energy that explodes in a 5-foot-radius
 [burst](ref/misc/burst) dealing 1d4 points of fire damage per level. A successful Reflex save halves
@@ -160,13 +155,16 @@ this damage. This attack has a range of 60 feet.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
 
-**Star Chart (Ex)**
+**Special:** You can fire more than one ball at a time, but creatures caught inside more than one
+simultaneous explosions only take damage once.
 
-**Ability:** Once per day, you may spend 10 minutes contemplating your star chart to gain the
-benefit of the spell [commune](ref/spell/commune).
+**Star Chart (Ex)**
 
 **Flavor:** Your copious notes contain a working model of the night sky expressed in artistic
 scribbles and arcane mathematical formulae.
+
+**Ability:** Once per day, you may spend 10 minutes contemplating your star chart to gain the
+benefit of the spell [commune](ref/spell/commune).
 
 **Prereq:** 7th-level oracle
 

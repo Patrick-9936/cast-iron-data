@@ -63,12 +63,12 @@ You draw upon ancestors both legendary and forgotten.
 
 **Gained:** At 1st Level
 
+**Passive:** In addition, when using these skills to learn, study, or gather information about
+humans, you add an insight bonus equal to your Charisma bonus on such checks.
+
 **Gained class skills:** [Diplomacy](ref/skill/diplomacy),
 [Knowledge (history)](ref/skill/knowledge-history), [Knowledge (local)](ref/skill/knowledge-local),
 [Knowledge (nobility)](ref/skill/knowledge-nobility), [Linguistics](ref/skill/linguistics)
-
-**Passive Ability:** In addition, when using these skills to learn, study, or gather information
-about humans, you add an insight bonus equal to your Charisma bonus on such checks.
 
 **Heroic Echo (Su)**
 
@@ -88,6 +88,8 @@ yourself, that bonus increases by +1.
 
 **Take Your Best Shot (Su)**
 
+**Gained:** At 9th Level
+
 **Immediate:** If you are targeted by a harmful spell,
 [spell-like ability](ref/umr/spell-like-abilities), or supernatural ability and suffer no harm from
 it, whether because of a successful saving throw, [spell resistance](ref/rule/spell-resistance), the
@@ -95,19 +97,17 @@ attack missing, or some other protection, you can make an Intimidate check to de
 creature that produced the effect, but only if the creature that used the harmful effect is within
 30 feet and can clearly see and hear you.
 
-**Gained:** At 9th Level
-
-**At 13th Level:** You can use this ability after succeeding at a saving throw to reduce the effects
+**At 13th level,** you can use this ability after succeeding at a saving throw to reduce the effects
 of an attack (if no save is allowed, you cannot use this ability).
 
 **Heroic Legends (Su)**
+
+**Gained:** At 15th Level
 
 **Ability:** You may [inspire greatness](ref/performance/inspire-greatness) or
 [inspire heroics](ref/performance/inspire-heroics) as a [bard](ref/class/bard) of your sorcerer
 level by sacrificing a spell slot as a **swift** or **move action**. The effect lasts a number of
 rounds equal to the sacrificed spell's level; this duration is doubled for human recipients.
-
-**Gained:** At 15th Level
 
 **Immortal Legend (Ex)**
 

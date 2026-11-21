@@ -58,7 +58,7 @@ modifier.
 **Passive:** You gain a +2 resistance bonus on saving throws against [gaze](ref/umr/gaze) attacks
 and to resist poison. You also gain a +2 competence bonus on Perception checks.
 
-**At 8th Level:** These bonuses increase to +4.
+**At 8th level,** these bonuses increase to +4.
 
 **Staggering Gaze (Su)**
 

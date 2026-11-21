@@ -71,35 +71,35 @@ ability checks, and saving throws equal to half your sorcerer level (minimum 1) 
 **Passive:** You gain a +1 luck bonus on all of your saving throws and to your AC during surprise
 rounds and when you are otherwise unaware of an attack.
 
-At 7th level: This bonus increases to +2.
+**At 7th level,** this bonus increases to +2.
 
-At 11th level: This bonus increases to +3.
+**At 11th level,** this bonus increases to +3.
 
-At 15th level: This bonus increases to +4.
+**At 15th level,** this bonus increases to +4.
 
-At 19th level: This bonus increases to +5.
+**At 19th level,** this bonus increases to +5.
 
 **It Was Meant To Be (Su)**
+
+**Gained:** At 9th Level
 
 **Ability:** Once per day, you may reroll any one attack roll, critical hit confirmation roll, or
 level check made to overcome [spell resistance](ref/rule/spell-resistance). You must decide to use
 this ability after the first roll is made but before the results are revealed by the GM. You must
 take the second result, even if it is worse.
 
-**Gained:** At 9th Level
-
-**At 17th Level:** You can use this ability twice per day.
+**At 17th level,** you can use this ability twice per day.
 
 **Within Reach (Su)**
+
+**Gained:** At 15th Level
+
+**Flavor:** Your ultimate destiny is drawing near.
 
 **Ability:** Once per day, when an attack or spell that causes damage would result in your death,
 you may attempt a DC 20 Will save. If successful, you are instead reduced to -1 hit points and are
 automatically [stabilized](ref/misc/stable). The bonus from your _fated_ ability applies to this
 save.
-
-**Flavor:** Your ultimate destiny is drawing near.
-
-**Gained:** At 15th Level
 
 **Destiny Realized (Su)**
 
@@ -131,12 +131,12 @@ Your blood responds angrily when you are attacked.
 
 **Fate's Retribution (Su)**
 
+**Gained:** At 1st Level
+
 **Immediate:** When you are hit by a melee attack you can curse the creature that struck you. The
 target takes a -2 penalty on all attack and damage rolls for 1d4 rounds. A Will save (DC 10 + half
 your sorcerer level + your Charisma modifier) negates this effect.
 
-**Gained:** At 1st Level
+**Usage:** 3 + Charisma modifier times/day
 
 **Replaces:** Touch of destiny
-
-**Usage:** 3 + Charisma modifier times/day

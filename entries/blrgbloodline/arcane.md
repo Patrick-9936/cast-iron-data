@@ -53,23 +53,25 @@ within your threatened area. This increase stacks with that granted by the
 
 **Arcane Bloodrage (Sp)**
 
+**Gained:** At 4th Level
+
 **Ability:** When entering a _bloodrage_ you can choose one of the following spells and apply its
 effects to yourself: [blur](ref/spell/blur),
 [protection from arrows](ref/spell/protection-from-arrows), [resist energy](ref/spell/resist-energy)
 (choose one energy type), or [spider climb](ref/spell/spider-climb). These effects last for as long
 as you continue _bloodraging,_ regardless of the spell's normal duration.
 
-**Gained:** At 4th Level
-
 **Greater Arcane Bloodrage (Sp)**
+
+**Gained:** At 8th Level
 
 **Ability:** When entering a _bloodrage,_ you can choose to apply the effects of either
 [displacement](ref/spell/displacement) or [haste](ref/spell/haste) to yourself. This is in addition
 to _arcane bloodrage,_ and otherwise works as that ability.
 
-**Gained:** At 8th Level
-
 **Caster's Scourge (Ex)**
+
+**Gained:** At 12th Level
 
 **Ability:** You gain a number of extra attacks of opportunity equal to your Dexterity modifier
 (minimum 1). You can use these attacks of opportunity only against spellcasters in your threatened
@@ -78,17 +80,15 @@ _caster's bane_ bloodrage power, or some similar effect is still required to mak
 opportunity against spellcasters who are casting defensively. You have this ability constantly, even
 while not _bloodraging._
 
-**Gained:** At 12th Level
-
 **True Arcane Bloodrage (Sp)**
+
+**Gained:** At 16th Level
 
 **Ability:** When entering a _bloodrage_ you can choose one of the following spells and apply its
 effects to yourself: [beast shape IV](ref/spell/beast-shape-4) (choose a creature your size or
 larger only), [form of the dragon I](ref/spell/form-of-the-dragon-1), or
 [transformation](ref/spell/transformation). This is in addition to _arcane bloodrage_ and _greater
 arcane bloodrage,_ and otherwise works as those abilities.
-
-**Gained:** At 16th Level
 
 **Caster's Bane (Ex)**
 

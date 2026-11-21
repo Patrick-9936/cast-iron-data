@@ -14,17 +14,17 @@ group = "oracle-curse"
 
 **Site-Bound**
 
+**Flavor:** You are bound to a particular place.
+
 **Benefit:** When within range of your bonded site, you gain a +1 bonus to your caster level when
 casting oracle spells.
 
-**Flavor:** You are bound to a particular place.
+**At 5th level,** the radius increases from 1,500 feet to 2,250 feet.
 
-**At 10th Level:** The radius increases to 3,000 feet and the bonus to your caster level when
+**At 10th level,** the radius increases to 3,000 feet and the bonus to your caster level when
 casting oracle spells within the boundary increases by 1.
 
-**At 15th Level:** You can move up to 1 mile from your bonded site.
-
-**At 5th Level:** The radius increases from 1,500 feet to 2,250 feet.
+**At 15th level,** you can move up to 1 mile from your bonded site.
 
 **Penalty:** You form a bond with a particular 10-foot square, and must remain within 1,500 feet of
 that site or immediately become [sickened](ref/misc/sickened). You must succeed at a DC 15 Fortitude

@@ -47,19 +47,17 @@ your foes and fill your allies with an unquenchable vigor.
 
 **Dispelling Strikes (Su)**
 
+**Gained:** At 1st Level
+
 **Ability:** When you confirm a critical hit against a target, you can also attempt to dispel the
 target as if you had cast [dispel magic](ref/spell/dispel-magic) as a bloodrager spell and used the
 targeted dispel function. You can dispel only a single magical effect per use of this ability.
 
-**Gained:** At 1st Level
-
 **Usage:** No limits on usage, except a creature can only be targeted once per day.
 
-**Usage:** No limits on usage, except a creature can only be targeted once per day.
+**At 8th level,** you gain a +2 bonus on your dispel check when using this ability.
 
-**At 8th Level:** You gain a +2 bonus on your dispel check when using this ability.
-
-**At 20th Level:** You can attempt to dispel all magical effects on your target when using this
+**At 20th level,** you can attempt to dispel all magical effects on your target when using this
 ability.
 
 **Heart of Fire (Su)**
@@ -69,7 +67,7 @@ ability.
 **Passive:** You gain fire [resistance](ref/umr/resistance) 5. Whenever you are subjected to a
 magical healing effect from a cure spell, you regain 1 additional hit point per die rolled.
 
-**At 8th Level:** Your fire resistance increases to 10, and you regain 2 additional hit points per
+**At 8th level,** your fire resistance increases to 10, and you regain 2 additional hit points per
 die rolled when you are healed by a _cure_ spell.
 
 **Blazing Vitality (Su)**
@@ -84,12 +82,12 @@ temporary hit points last for 1 minute.
 
 **Molten Wings (Su)**
 
+**Gained:** At 12th Level
+
 **Ability:** When entering a _bloodrage_ you can choose to have wings of flame sprout from your
 back, giving you a fly speed of 60 feet with average maneuverability.
 
-**Gained:** At 12th Level
-
-**At 16th Level:** Your fly speed increases to 80 feet with good maneuverability.
+**At 16th level,** your fly speed increases to 80 feet with good maneuverability.
 
 **Self-Resurrection (Su)**
 
@@ -101,7 +99,7 @@ yourself back from death. This functions as a [breath of life](ref/spell/breath-
 upon yourself. Using this ability does not take an action. This ability does not function if your
 body is completely destroyed by an effect such as [disintegrate](ref/spell/disintegrate).
 
-**At 20th Level:** This instead functions as a [heal](ref/spell/heal) spell, except that the healing
+**At 20th level,** this instead functions as a [heal](ref/spell/heal) spell, except that the healing
 can return you to life as per _[breath of life](ref/spell/breath-of-life),_ using your bloodrager
 level as your caster level.
 

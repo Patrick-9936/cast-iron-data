@@ -57,7 +57,7 @@ a successful Will saving throw (DC = 10 + half your bloodrager level + your Char
 
 **Passive:** You become immune to mundane and magical diseases.
 
-**At 8th Level:** You also become immune to poison.
+**At 8th level,** you also become immune to poison.
 
 **Hag Transformation (Su)**
 
@@ -68,7 +68,7 @@ aggression clouds your mind. Your morale bonus to Strength increases by 2, and y
 [low-light vision](ref/rule/low-light-vision) and [darkvision](ref/rule/darkvision) (60 feet), but
 you take a -2 penalty to both Dexterity and Wisdom for the duration of your _bloodrage._
 
-**At 16th Level:** You apply your morale bonus on Will saving throws while _bloodraging_ to
+**At 16th level,** you apply your morale bonus on Will saving throws while _bloodraging_ to
 Fortitude and Reflex saving throws against spells and
 [spell-like abilities](ref/umr/spell-like-abilities).
 
@@ -82,15 +82,11 @@ coven; the coven must contain at least one hag.
 
 **Usage:** 3 times/day.
 
-**Usage:** 3 times/day.
-
 **Curse Conduit (Su)**
-
-**Action:** Ability
 
 **Gained:** At 20th Level
 
-You gain immunity to negative energy damage and all spells with the curse descriptor.
+**Ability:** You gain immunity to negative energy damage and all spells with the curse descriptor.
 
 Whenever you confirm a critical hit with a melee weapon, you can immediately target your opponent
 with a _[bestow curse](ref/spell/bestow-curse)_ spell or

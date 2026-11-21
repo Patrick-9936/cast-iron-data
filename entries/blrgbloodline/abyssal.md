@@ -50,20 +50,20 @@ _bloodrage._
 using your full base attack bonus. These attacks deal 1d6 points of damage each (1d4 if you are
 Small) plus your Strength modifier.
 
-**At 4th Level:** Your claws are considered magic weapons for the purpose of overcoming
+**At 4th level,** your claws are considered magic weapons for the purpose of overcoming
 [damage reduction](ref/rule/damage-reduction).
 
-**At 8th Level:** The base damage your claws deal increases to 1d8 points (1d6 if you are small).
+**At 8th level,** the base damage your claws deal increases to 1d8 points (1d6 if you are small).
 
-**At 12th Level:** Your claws become [flaming](ref/magic-enh/flaming) weapons, which deal an
+**At 12th level,** your claws become [flaming](ref/magic-enh/flaming) weapons, which deal an
 additional 1d6 points of fire damage on a hit.
 
 **Demonic Bulk (Su)**
 
+**Gained:** At 4th Level
+
 **Ability:** When entering a _bloodrage,_ you can choose to grow one size category larger than your
 base size (as [enlarge person](ref/spell/enlarge-person)) even if you aren't humanoid.
-
-**Gained:** At 4th Level
 
 **Demon Resistances (Su)**
 
@@ -79,17 +79,17 @@ these resistances increase to 10.
 **Passive:** The morale bonus to Strength granted by your _bloodrage_ increases by 2, but the
 penalty to AC becomes -4 instead of -2.
 
-**At 16th Level:** The bonus to Strength increases by 4 instead.
+**At 16th level,** the bonus to Strength increases by 4 instead.
 
-**At 20th Level:** The bonus increases by 6 instead.
+**At 20th level,** the bonus increases by 6 instead.
 
 **Demonic Aura (Su)**
+
+**Gained:** At 16th Level
 
 **Ability:** When entering a _bloodrage_ you can choose to exude an aura of fire. The aura is a
 5-foot [burst](ref/misc/burst) centered on you, and deals 2d6 + your Constitution modifier points of
 fire damage to creatures that end their turns within it.
-
-**Gained:** At 16th Level
 
 **Demonic Immunities (Su)**
 

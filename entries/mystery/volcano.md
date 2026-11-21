@@ -49,27 +49,27 @@ An oracle with the Volcano mystery can choose from any of the following revelati
 
 **Ash Cloud (Su)**
 
-**At 7th Level:** Your _ash cloud_ fills with embers. All creatures in the cloud except you take 1d6
-points of fire damage per round and must succeed at Fortitude saves to avoid choking, as though they
-were breathing in [heavy smoke](ref/rule/smoke-effects).
-
 **Standard:** You can surround yourself with a 10-foot-radius cloud of ash, which functions as an
 [obscuring mist](ref/spell/obscuring-mist) spell, except you can see through it clearly. The cloud
 is stationary, and remains for 1 round per oracle level. Using this ability again causes your
 previous cloud to fall to the ground.
 
+**At 7th level,** your _ash cloud_ fills with embers. All creatures in the cloud except you take 1d6
+points of fire damage per round and must succeed at Fortitude saves to avoid choking, as though they
+were breathing in [heavy smoke](ref/rule/smoke-effects).
+
 **Breath of Creation (Ex)**
+
+**Flavor:** Volcanic vapors elevate your mind even as they ravage your body.
 
 **Ability:** When you take [Constitution damage](ref/rule/ability-damage-drain) from
 [volcanic gases](ref/rule/volcanoes), you gain a bonus to your Charisma equal to the damage taken.
 This bonus lasts for 1 hour or until the ability damage is healed. The maximum bonus to your
 Charisma is +2.
 
-**Flavor:** Volcanic vapors elevate your mind even as they ravage your body.
+**At 10th level,** the max bonus increases to +4.
 
-At 10th level: The max bonus increases to +4.
-
-At 15th level: The max bonus increases to +6.
+**At 15th level,** the max bonus increases to +6.
 
 **Burning Magic (Su)**
 
@@ -84,13 +84,13 @@ creature in water extinguishes the fire.
 
 **Cleansing Flames (Su)**
 
-**At 15th Level:** You can do this three times per day.
-
-**At 7th Level:** You can use this ability twice per day.
-
 **Swift:** Once per day, you can take 1d4 points of damage per oracle level to gain a new saving
 throw against a single ongoing effect. The effect must be one for which you already failed a saving
 throw. If you succeed, the effect is removed.
+
+**At 7th level,** you can use this ability twice per day.
+
+**At 15th level,** you can do this three times per day.
 
 **Erupt (Su)**
 
@@ -117,25 +117,12 @@ radiates damage at a distance.
 
 While using _lava walk,_ you never slip or fall from poor or slippery footing.
 
-**Prereq:** 3rd-level oracle
-
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
+**Prereq:** 3rd-level oracle
+
 **Magma Form (Su)**
-
-**At 11th Level:** You can assume the form a Large magma elemental, as
-[elemental body III](ref/spell/elemental-body-3).
-
-**At 13th Level:** You can assume the form of a Huge magma elemental, as
-[elemental body IV](ref/spell/elemental-body-4).
-
-**At 9th Level:** You can assume the form of a Medium magma elemental, as
-[elemental body II](ref/spell/elemental-body-2).
-
-**Prereq:** 7th-level oracle
-
-**Special:** The duration of this form is one hour per oracle level.
 
 **Standard:** Once per day, you can assume the form of a
 [Small magma elemental](ref/monster/magma-elemental), as
@@ -143,9 +130,20 @@ in 1-minute increments
 earth elemental's form, except your _[earth glide](ref/spell/earth-glide)_ functions as the
 _[earth glide](ref/spell/earth-glide)_ ability of a magma elemental.
 
-**Pyroclastic Shove (Su)**
+**At 9th level,** you can assume the form of a Medium magma elemental, as
+[elemental body II](ref/spell/elemental-body-2).
+
+**At 11th level,** you can assume the form a Large magma elemental, as
+[elemental body III](ref/spell/elemental-body-3).
+
+**At 13th level,** you can assume the form of a Huge magma elemental, as
+[elemental body IV](ref/spell/elemental-body-4).
 
 **Prereq:** 7th-level oracle
+
+**Special:** The duration of this form is one hour per oracle level.
+
+**Pyroclastic Shove (Su)**
 
 **Standard:** You conjure a cascade of volcanic ash to [bull rush](ref/rule/bull-rush) a creature
 within 30 feet of you. The CMB of this cascade is equal to your base attack bonus + your Charisma
@@ -154,15 +152,17 @@ points of fire damage per oracle level.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels beyond 7th
 
-**Touch of Flame (Su)**
+**Prereq:** 7th-level oracle
 
-**At 11th Level:** Any weapon that you wield is treated as a [flaming](ref/magic-enh/flaming)
-weapon.
+**Touch of Flame (Su)**
 
 **Standard:** You can perform a melee touch attack that deals 1d6 points of fire damage plus an
 additional amount of points equal to [half](ref/misc/fractions-and-rounding) of your oracle level.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 11th level,** any weapon that you wield is treated as a [flaming](ref/magic-enh/flaming)
+weapon.
 
 ### Final Revelation
 

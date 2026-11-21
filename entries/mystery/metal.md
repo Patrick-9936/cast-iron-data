@@ -48,17 +48,17 @@ An oracle with the Metal mystery can choose from any of the following revelation
 
 **Armor Mastery (Ex)**
 
+**Flavor:** You become more maneuverable while wearing armor.
+
 **Ability:** You can move at your normal speed in medium armor that is made of metal. This does not
 grant proficiency in armor.
 
-**Flavor:** You become more maneuverable while wearing armor.
-
-**At 5th Level:** Whenever you are wearing metal armor, you reduce the armor check penalty by 1 (to
+**At 5th level,** whenever you are wearing metal armor, you reduce the armor check penalty by 1 (to
 a minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 1.
 
-At 10th level: These bonuses increase to 2.
+**At 10th level,** these bonuses increase to 2.
 
-At 15th level: These bonuses increase to 3.
+**At 15th level,** these bonuses increase to 3.
 
 **Dance of the Blades (Ex)**
 
@@ -89,7 +89,7 @@ At 19th level: The bonus on attack rolls increases to +4.
 10/adamantine. This ability functions as [stoneskin](ref/spell/stoneskin), using your oracle level
 as the caster level, except it only affects you.
 
-**At 15th Level:** You can use this ability twice per day.
+**At 15th level,** you can use this ability twice per day.
 
 **Prereq:** 11th-level oracle
 
@@ -101,34 +101,34 @@ if it would normally include non-metal parts, such as a spear's shaft) but funct
 normal weapon of its type. You are considered proficient with this weapon. The weapon disappears
 after 1 round if it leaves your grasp.
 
-**At 11th Level:** The blade is made of adamantine.
-
-**At 3rd Level:** The blade is made of cold iron.
-
-**At 7th Level:** The blade gains a +1 enhancement bonus.
-
 **Usage:** 3 + Charisma modifier times/day
 
-At 15th level: The enhancement bonus increases to +2.
+**At 3rd level,** the blade is made of cold iron.
 
-At 19th level: The enhancement bonus increases to +3.
+**At 7th level,** the blade gains a +1 enhancement bonus.
+
+**At 11th level,** the blade is made of adamantine.
+
+**At 15th level,** the enhancement bonus increases to +2.
+
+**At 19th level,** the enhancement bonus increases to +3.
 
 **Riddle of Steel (Su)**
+
+**Flavor:** Your sacred bond with metal gives you insight into its form and function.
 
 **Ability:** Once per day, you may spend 10 minutes meditating on the structure of a piece of
 unworked metal or ore to gain a +5 insight bonus on your next [Craft](ref/skill/craft-any) check to
 make something using that metal.
 
-**Flavor:** Your sacred bond with metal gives you insight into its form and function.
-
 **Rusting Grasp (Sp)**
-
-**Prereq:** 7th-level oracle
 
 **Standard:** You can perform a melee touch attack that rusts iron, as the
 [rusting grasp](ref/spell/rusting-grasp) spell.
 
 **Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
+
+**Prereq:** 7th-level oracle
 
 **Skill at Arms (Ex)**
 
@@ -155,11 +155,11 @@ You do not threaten an area with this weapon and cannot use it to make attacks o
 **Ability:** You can use any piece of polished metal at least the size of a dagger as a scrying
 device, as if using the spell [scrying](ref/spell/scrying).
 
-**At 15th Level:** This functions like [greater scrying](ref/spell/scrying-greater).
+**Usage:** 1 time/day per oracle level
+
+**At 15th level,** this functions like [greater scrying](ref/spell/scrying-greater).
 
 **Prereq:** 7th-level oracle
-
-**Usage:** 1 time/day per oracle level
 
 ### Final Revelation
 

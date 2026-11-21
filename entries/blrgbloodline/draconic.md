@@ -68,12 +68,12 @@ below.
 allowing you to make two claw attacks as a full attack, using your full base attack bonus. These
 attacks deal 1d6 points of damage each (1d4 if you are Small) plus your Strength modifier.
 
-**At 4th Level:** Your claws are considered magic weapons for the purpose of overcoming
+**At 4th level,** your claws are considered magic weapons for the purpose of overcoming
 [damage reduction](ref/rule/damage-reduction).
 
-**At 8th Level:** The base damage your claws deal increases to 1d8 points (1d6 if you are small).
+**At 8th level,** the base damage your claws deal increases to 1d8 points (1d6 if you are small).
 
-**At 12th Level:** Your claws deal an additional 1d6 points of damage of your energy type on a hit.
+**At 12th level,** your claws deal an additional 1d6 points of damage of your energy type on a hit.
 
 **Draconic Resistance (Ex)**
 
@@ -82,9 +82,9 @@ attacks deal 1d6 points of damage each (1d4 if you are Small) plus your Strength
 **Passive:** You gain [resistance](ref/umr/resistance) 5 against your energy type and a +1 natural
 armor bonus to AC.
 
-**At 8th Level:** The energy resistance increases to 10 and your natural armor bonus becomes +2.
+**At 8th level,** the energy resistance increases to 10 and your natural armor bonus becomes +2.
 
-**At 16th Level:** Your natural armor bonus becomes +4.
+**At 16th level,** your natural armor bonus becomes +4.
 
 **Breath Weapon (Su)**
 
@@ -96,26 +96,26 @@ the area of the breath can attempt a Reflex saving throw for half damage. The DC
 equal to 10 + 1/2 your bloodrager level + your Constitution modifier. The shape of the breath weapon
 depends on your dragon type (as indicated on the above table).
 
-**At 16th Level:** You can use this ability twice a day.
+**At 16th level,** you can use this ability twice a day.
 
-**At 20th Level:** You can use this ability three times a day.
+**At 20th level,** you can use this ability three times a day.
 
 **Dragon Wings (Su)**
+
+**Gained:** At 12th Level
 
 **Ability:** When entering a _bloodrage,_ you can choose to have leathery wings grow from your back,
 giving you a fly speed of 60 feet with average maneuverability.
 
-**Gained:** At 12th Level
-
-**At 16th Level:** Your fly speed increases to 80 feet with good maneuverability.
+**At 16th level,** your fly speed increases to 80 feet with good maneuverability.
 
 **Dragon Form (Su)**
+
+**Gained:** At 16th Level
 
 **Ability:** When entering a _bloodrage,_ you can choose to take the form of your chosen dragon type
 (as [form of the dragon II](ref/spell/form-of-the-dragon-2), but with average or good
 maneuverability, as you would gain from the dragon wings bloodrage power above).
-
-**Gained:** At 16th Level
 
 **Power of Wyrms (Su)**
 

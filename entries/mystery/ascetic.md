@@ -52,7 +52,7 @@ An oracle with the Ascetic mystery can choose from any of the following revelati
 Additionally, each time you [hold your breath](ref/misc/hold-your-breath), you can do so for an
 additional number of rounds equal to your oracle level.
 
-**At 15th Level:** You no longer need to eat or drink and can hold your breath for 10 times as long
+**At 15th level,** you no longer need to eat or drink and can hold your breath for 10 times as long
 (2 minutes per point of Constitution, plus 1 additional minute per oracle level).
 
 **Absence of Form (Sp)**
@@ -60,17 +60,15 @@ additional number of rounds equal to your oracle level.
 **Ability:** You gain [feather fall](ref/spell/feather-fall) as a
 [spell-like ability](ref/umr/spell-like-abilities).
 
-**At 10th Level:** You can also apply your daily rounds of this ability to use
+**Usage:** 1 round/day per oracle level
+
+**At 10th level,** you can also apply your daily rounds of this ability to use
 [air walk](ref/spell/air-walk).
 
 **Special:** If you are in mid fall when this ability's duration expires, you take falling damage as
 if you fell from the altitude you were at when the spell ended.
 
-**Usage:** 1 round/day per oracle level
-
 **Ascetic Armor (Su)**
-
-**At 13th Level:** The techniques also grant DR 5/unarmed strikes or natural attacks.
 
 **Passive:** You can use meditative techniques that temporarily cause attacks to bounce off your
 skin, as long as you aren't wearing armor or carrying a medium or heavy load. These techniques grant
@@ -79,36 +77,38 @@ you a +4 armor bonus to AC.
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: This bonus increases to +6.
+**At 7th level,** this bonus increases to +6.
 
-At 11th level: This bonus increases to +8.
+**At 11th level,** this bonus increases to +8.
 
-At 15th level: This bonus increases to +10.
+**At 13th level,** the techniques also grant DR 5/unarmed strikes or natural attacks.
 
-At 19th level: This bonus increases to +12.
+**At 15th level,** this bonus increases to +10.
+
+**At 19th level,** this bonus increases to +12.
 
 **Fleet (Ex)**
 
 **Ability:** You gain a +10-foot enhancement bonus to your base land speed. You lose this extra
 speed if you wear any armor or carry a medium or heavy load.
 
+**At 7th level,** this bonus increases to +20 feet.
+
+**At 13th level,** this bonus increases to +30 feet.
+
+**At 19th level,** this bonus increases to +40 feet.
+
 **Prereq:** Cannot have the [lame](ref/oraclecurse/lame) oracle curse
 
-At 7th level: This bonus increases to +20 feet.
-
-At 13th level: This bonus increases to +30 feet.
-
-At 19th level: This bonus increases to +40 feet.
-
 **Martial Disciple (Su)**
+
+**Flavor:** Through meditation and study of monastic forms of combat, you have learned a lethal form
+of unarmed combat.
 
 **Ability:** You gain [Improved Unarmed Strike](ref/feat/improved-unarmed-strike) as a bonus feat,
 even if you do not meet the prerequisites. You gain the unarmed strike damage of a
 [monk](ref/class/monk) of your oracle level. If you also have monk levels, those levels stack for
 the purpose of determining your unarmed strike damage.
-
-**Flavor:** Through meditation and study of monastic forms of combat, you have learned a lethal form
-of unarmed combat.
 
 **Oracular Spellstrike (Su)**
 
@@ -122,6 +122,8 @@ magus spell list.
 
 **Spellstrike (Su)**
 
+**Flavor:** Text from the magus class ability.
+
 **Ability:** Whenever you cast a spell with a range of "touch" from the magus spell list, you can
 deliver the spell through any weapon you are wielding as part of a melee attack. Instead of the free
 melee touch attack normally allowed to deliver the spell, you can make one free melee attack with
@@ -129,8 +131,6 @@ your weapon (at your highest base attack bonus) as part of casting this spell. I
 melee attack deals its normal damage as well as the effects of the spell. If you make this attack in
 concert with _spell combat,_ this melee attack takes all the penalties accrued by spell combat melee
 attacks.
-
-**Flavor:** Text from the magus class ability.
 
 **Special:** This attack uses the weapon's critical range (20, 19-20, or 18-20 and modified by the
 _keen_ weapon property or similar effects), but the spell effect only deals ×2 damage on a
@@ -151,7 +151,7 @@ cast on you or an adjacent ally that requires a ranged touch attack (such as a r
 successfully counter the spell, you must make an unarmed attack roll. If the result of this attack
 roll is higher than 20 + the spell's caster level, the spell is negated with no effect.
 
-**At 17th Level:** Any spell you successfully negate is reflected back at the caster with the same
+**At 17th level,** any spell you successfully negate is reflected back at the caster with the same
 ranged touch attack result.
 
 **Prereq:** 11th-level oracle
@@ -160,9 +160,9 @@ ranged touch attack result.
 
 **Final Revelation**
 
-**Flavor:** You become a magical creature.
-
 **Gained:** At 20th Level
+
+**Flavor:** You become a magical creature.
 
 **Passive:** You are forevermore treated as an outsider rather than as a humanoid (or whatever your
 creature type was) for the purpose of spells and magical effects. Additionally, you gain

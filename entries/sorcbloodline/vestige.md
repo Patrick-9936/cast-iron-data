@@ -58,28 +58,26 @@ Your connection to your past allows you to tap into ancient secrets and power.
 
 **Bonded Object (Sp)**
 
+**Gained:** At 1st Level
+
 **Ability:** You gain an _arcane bond,_ per a [wizard](ref/class/wizard) equal to your sorcerer
 level, with an object constructed by a long-lost civilization. Your sorcerer levels stack with any
 wizard levels you have when determining the powers of your _bonded object._ This ability does not
 allow you to have both a familiar and a _bonded object._ Once per day, your _bonded object_ allows
 you to cast any one of your spells known and increase the save DC of that spell by 1.
 
-**Gained:** At 1st Level
-
 **Bonded Object**
-
-**Action:** Ability
 
 **Flavor:** Relevant text from the wizard class ability.
 
-You begin play with a _bonded object_ at no cost. Objects that are the subject of an arcane bond
-must fall into one of the following categories: amulet, ring, staff, wand, or weapon. These objects
-are always masterwork quality. Weapons acquired at 1st level are not made of any special material.
-If the object is an amulet or ring, it must be worn to have effect, while staves, wands, and weapons
-must be wielded. If you attempt to cast a spell without your bonded object worn or in hand, you must
-make a [concentration](ref/rule/concentration) check or lose the spell. The DC for this check is
-equal to 20 + the spell's level. If the object is a ring or amulet, it occupies the
-[ring or neck slot](ref/rule/magic-items-on-the-body) accordingly.
+**Ability:** You begin play with a _bonded object_ at no cost. Objects that are the subject of an
+arcane bond must fall into one of the following categories: amulet, ring, staff, wand, or weapon.
+These objects are always masterwork quality. Weapons acquired at 1st level are not made of any
+special material. If the object is an amulet or ring, it must be worn to have effect, while staves,
+wands, and weapons must be wielded. If you attempt to cast a spell without your bonded object worn
+or in hand, you must make a [concentration](ref/rule/concentration) check or lose the spell. The DC
+for this check is equal to 20 + the spell's level. If the object is a ring or amulet, it occupies
+the [ring or neck slot](ref/rule/magic-items-on-the-body) accordingly.
 
 You can add additional magic abilities to your bonded object as if you have the required item
 creation feats and if you meet the level prerequisites of the feat. For example, a wizard with a
@@ -141,6 +139,10 @@ under your control, but it cannot attack or take hostile actions.
 
 **Eternal Past (Su)**
 
+**Gained:** At 15th Level
+
+**Flavor:** You gain an immersive mindscape.
+
 **Ability:** This functions as a permanent
 [greater create mindscape](ref/spell/create-mindscape-greater) spell, except it must appear as a
 lost civilization, and you do not target any other creatures when the mindscape is created. You can
@@ -153,19 +155,15 @@ valuable secrets. The mindscape functions as a [library](ref/rule/research) for 
 skills; while within your mindscape, you can spend 1d4 hours researching to use a
 [Knowledge (history)](ref/skill/knowledge-history) check in place of any other Knowledge check.
 
-**Flavor:** You gain an immersive mindscape.
-
-**Gained:** At 15th Level
-
 **Manifest Memory (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** You can overlay portions of your mindscape onto the world around you.
 
 **Ability:** This functions as the [mirage arcana](ref/spell/mirage-arcana) spell, except all
 structures and terrain created must be places appearing within your mindscape. You can use this
 ability at will, but you can maintain only a single _manifest memory_ at any one time.
-
-**Flavor:** You can overlay portions of your mindscape onto the world around you.
-
-**Gained:** At 20th Level
 
 **Special:** You can allow any creature you can see who has previously entered your mindscape to
 automatically disbelieve the illusion as a **free action**.

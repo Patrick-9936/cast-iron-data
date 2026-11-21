@@ -57,29 +57,26 @@ to undead) and the DC.
 
 **Combat Healer (Su)**
 
+**Flavor:** This is the same as the [battle](ref/mystery/battle) mystery revelation.
+
 **Ability:** Whenever you cast a cure spell (a spell with "cure" in its name), you can cast it as a
 **swift action**, as if using the [Quicken Spell](ref/feat/quicken-spell) feat, by expending two
 spell slots. This does not increase the level of the spell.
 
-**Flavor:** This is the same as the [battle](ref/mystery/battle) mystery revelation.
+**Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
 
 **Prereq:** 7th-level oracle
-
-**Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
 
 **Delay Affliction (Su)**
 
 **Immediate:** Once per day, whenever you fail a saving throw against a disease or poison, you may
 ignore its effects for 1 hour per level.
 
-**At 15th Level:** You can use this ability three times per day.
+**At 7th level,** you can do this twice a day.
 
-**At 7th Level:** You can do this twice a day.
+**At 15th level,** you can use this ability three times per day.
 
 **Energy Body (Su)**
-
-**Special:** You may remain in energy body form for a number of rounds per day equal to your oracle
-level.
 
 **Standard:** You can transform your body into pure life energy, resembling a golden-white
 [fire elemental](ref/monster/fire-elemental). In this form, you gain the elemental subtype and give
@@ -99,6 +96,9 @@ as a **move action**. You choose whether or not to heal a creature when it passe
 space.
 
 You may return to your normal form as a **free action**.
+
+**Special:** You may remain in energy body form for a number of rounds per day equal to your oracle
+level.
 
 **Enhanced Cures (Su)**
 
@@ -150,9 +150,9 @@ a maximum number of temporary hit points equal to your oracle level).
 
 **Final Revelation**
 
-**Flavor:** You become a perfect channel for life energy.
-
 **Gained:** At 20th Level
+
+**Flavor:** You become a perfect channel for life energy.
 
 **Passive:** You become immune to bleed, death attacks, exhaustion, fatigue, nausea effects,
 negative levels, and sickened effects. Ability damage and drain cannot reduce you below 1 in any

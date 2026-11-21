@@ -14,15 +14,15 @@ group = "oracle-curse"
 
 **Shattered Psyche**
 
-**Benefit:** You gain a +4 competence bonus on saving throws made against mind-affecting effects.
-
 **Flavor:** Your mind is crowded with dozens of voices, fragmented snippets of your past lives.
 
-**At 10th Level:** You're immune to compulsion effects.
+**Benefit:** You gain a +4 competence bonus on saving throws made against mind-affecting effects.
 
-**At 15th Level:** You're immune to all mind-affecting effects.
+**At 5th level,** you're [immune](ref/umr/immunity) to charm effects.
 
-**At 5th Level:** You're [immune](ref/umr/immunity) to charm effects.
+**At 10th level,** you're immune to compulsion effects.
+
+**At 15th level,** you're immune to all mind-affecting effects.
 
 **Penalty:** You take a -2 penalty on all Intelligence-based skill checks, Wisdom-based skill
 checks, and [concentration](ref/rule/concentration) checks.

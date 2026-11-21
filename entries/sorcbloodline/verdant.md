@@ -69,29 +69,29 @@ your Charisma modifier in place of your normal CMB.
 
 **Photosynthesis (Ex)**
 
-**Flavor:** You feed upon nature's raw essence.
-
 **Gained:** At 3rd Level
+
+**Flavor:** You feed upon nature's raw essence.
 
 **Passive:** Your need to eat and sleep is reduced as if wearing a
 [ring of sustenance](ref/magic-ring/ring-of-sustenance), and you gain a +2 racial bonus on saving
 throws made against poison and sleep effects.
 
-**At 9th Level:** These bonuses increase to +4.
+**At 9th level,** these bonuses increase to +4.
 
 **Massmorph (Sp)**
 
-**Fullround:** You can alter the size and health of plant life, as if using
+**Gained:** At 9th Level
+
+**Full-round:** You can alter the size and health of plant life, as if using
 [plant growth](ref/spell/plant-growth) or [diminish plants](ref/spell/diminish-plants).
 
 Alternatively, you can transform one willing non-plant creature per sorcerer level (no two of which
 can be more than 30 feet apart) as [tree shape](ref/spell/tree-shape).
 
-**At 15th Level:** You may transform creatures as [plant shape I](ref/spell/plant-shape-1).
+**At 15th level,** you may transform creatures as [plant shape I](ref/spell/plant-shape-1).
 
-**At 20th Level:** You can transform creatures as [plant shape II](ref/spell/plant-shape-2).
-
-**Gained:** At 9th Level
+**At 20th level,** you can transform creatures as [plant shape II](ref/spell/plant-shape-2).
 
 **Special:** You can transform non-plant creatures using this power once per day.
 
@@ -135,10 +135,10 @@ Your nature powers create tough, resilient minions.
 
 **Lush Summoning (Su)**
 
+**Gained:** At 3rd Level
+
 **Ability:** Whenever you summon creatures with a conjuration (summoning) spell, you can decide that
 they appear green and leafy. The natural armor bonus of such creatures is increased by +2, and they
 gain a +4 bonus on saves against paralysis, poison, polymorph, sleep, and stunning.
-
-**Gained:** At 3rd Level
 
 **Replaces:** Photosynthesis
