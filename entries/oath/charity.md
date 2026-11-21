@@ -27,20 +27,20 @@ or community.
 
 **Charitable Hands (Su)**
 
+**Gained:** At 2nd Level
+
 **Ability:** A paladin with this oath heals 50% less when she uses _lay on hands_ on herself, but
 50% more than the normal amount when she uses it to heal others. Using _lay on hands_ to harm undead
 deals the normal amount of damage. This ability otherwise works like and replaces _lay on hands._
 
-**Gained:** At 2nd Level
-
 **Charitable Mercy (Su)**
 
-**Ability:** At the start of each day, a paladin with this oath can select her mercies anew from the
-list of available mercies.
+**Gained:** At 5th Level
 
 **Flavor:** A paladin with this oath is more flexible with her mercies than other paladins.
 
-**Gained:** At 5th Level
+**Ability:** At the start of each day, a paladin with this oath can select her mercies anew from the
+list of available mercies.
 
 **Replaces:** Divine bond
 

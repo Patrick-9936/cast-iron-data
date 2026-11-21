@@ -77,7 +77,11 @@ level equal to your character level.
 
 **2: Tireless Judgment (Su)**
 
-**At 20th Level:** You can use this ability four times per day, and the bonuses increase to +4 and
+**Swift:** Three times per day, you can gain a +3 sacred bonus on attack rolls, and a +6 sacred
+bonus to confirm critical hits. Otherwise, this functions as the
+[inquisitor's](ref/class/inquisitor) _justice_ judgment.
+
+**At 20th level,** you can use this ability four times per day, and the bonuses increase to +4 and
 +8.
 
 **Special:** If you already have access to [judgments](ref/ability/judgments), you can use the
@@ -85,15 +89,7 @@ _justice_ judgment three times per day (four times at 20th level) without it cou
 daily uses, or you can add the _justice_ judgment's effects to another judgment without it counting
 as a second or third judgment.
 
-**Swift:** Three times per day, you can gain a +3 sacred bonus on attack rolls, and a +6 sacred
-bonus to confirm critical hits. Otherwise, this functions as the
-[inquisitor's](ref/class/inquisitor) _justice_ judgment.
-
 **3: Blessing of the Five (Su)**
-
-**Special:** This ability can only revive one creature per use, and a revived creature gains a
-temporary [negative level](ref/rule/energy-drain-and-negative-levels) that lasts for 1 day. This
-ability cannot be modified using any feats or other abilities that affect channeled energy.
 
 **Standard:** Once per day, you can brandish a holy symbol to heal all living creatures in a
 30-foot-radius [burst](ref/misc/burst) centered on you. Creatures in the area heal 10d6 points of
@@ -101,3 +97,7 @@ damage. You can choose up to three creatures in the area that are not healed. Ad
 creature in the area has died within 1 round and this brings its hit point total to a negative
 amount less than its Constitution score, the creature returns to life and
 [stabilizes](ref/misc/stable).
+
+**Special:** This ability can only revive one creature per use, and a revived creature gains a
+temporary [negative level](ref/rule/energy-drain-and-negative-levels) that lasts for 1 day. This
+ability cannot be modified using any feats or other abilities that affect channeled energy.

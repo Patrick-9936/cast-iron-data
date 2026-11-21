@@ -74,13 +74,11 @@ throws to avoid becoming addicted to a drug or to overcome being addicted.
 
 **Cognatogen (Su)**
 
-**Action:** Ability
-
-Once per day, you can create a [cognatogen](ref/discovery/cognatogen), a mutagen-like mixture that
-heightens one mental ability score at the expense of a physical ability score. When you imbibe a
-cognatogen, you gain a +2 natural armor bonus and a +4 alchemical bonus to the selected ability
-score for 1 minute per psychic level. In addition, while the cognatogen is in effect, you take a -2
-penalty to one of your physical ability scores.
+**Ability:** Once per day, you can create a [cognatogen](ref/discovery/cognatogen), a mutagen-like
+mixture that heightens one mental ability score at the expense of a physical ability score. When you
+imbibe a cognatogen, you gain a +2 natural armor bonus and a +4 alchemical bonus to the selected
+ability score for 1 minute per psychic level. In addition, while the cognatogen is in effect, you
+take a -2 penalty to one of your physical ability scores.
 
 If the cognatogen enhances your Intelligence, it applies a penalty to your Strength. If it enhances
 your Wisdom, it applies a penalty to your Dexterity. If it enhances your Charisma, it applies a

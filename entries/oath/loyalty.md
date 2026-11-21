@@ -43,11 +43,11 @@ _loyal oath_ lasts 1 minute, or until the paladin dismisses it (a **free action*
 
 **Loyal Guardian (Su)**
 
+**Gained:** At 8th Level
+
 **Immediate:** Whenever the target of the paladin's _loyal oath_ is hit with a melee or ranged
 attack, if the paladin is adjacent to the target, she can have the attack automatically hit her
 instead of the intended target. This ends the _loyal oath._
-
-**Gained:** At 8th Level
 
 **Code of Conduct**
 

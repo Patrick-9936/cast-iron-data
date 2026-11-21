@@ -82,10 +82,10 @@ related to doing so.
 
 **2: Pierce Disguise (Sp)**
 
+**Flavor:** You are suspicious of everyone, and your wariness grants you senses others do not have.
+
 **Ability:** You can use [true seeing](ref/spell/true-seeing) as a
 [spell-like ability](ref/umr/spell-like-abilities).
-
-**Flavor:** You are suspicious of everyone, and your wariness grants you senses others do not have.
 
 **Usage:** 1 minute/day per 2 character levels; these minutes need not be consecutive, but must be
 spent in 1-minute increments

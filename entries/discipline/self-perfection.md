@@ -75,16 +75,16 @@ medium or heavy load.
 
 **Physical Push (Su)**
 
-**Ability:** When you attempt a Strength-, Dexterity-, or Constitution-based ability check or skill
-check, you can gain a bonus on the check equal to your Wisdom bonus.
-
 **Flavor:** By channeling your psychic energy, you can make your body capable of greater physical
 feats.
 
-**Special:** Using this ability is part of the action used to attempt the skill check (if any). If
-you succeed at the check, you regain 1 point in your phrenic pool.
+**Ability:** When you attempt a Strength-, Dexterity-, or Constitution-based ability check or skill
+check, you can gain a bonus on the check equal to your Wisdom bonus.
 
 **Usage:** Wisdom modifier times/day
+
+**Special:** Using this ability is part of the action used to attempt the skill check (if any). If
+you succeed at the check, you regain 1 point in your phrenic pool.
 
 **Bodily Purge (Su)**
 

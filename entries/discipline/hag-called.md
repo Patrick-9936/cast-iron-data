@@ -71,28 +71,25 @@ you exceptional abilities that might one day exceed the hag's own.
 
 **Threefold Casting (Ex)**
 
+**Flavor:** While you cannot join a true witch's coven, you are nonetheless skilled at casting magic
+in conjunction with others.
+
 **Ability:** You gain a +2 insight bonus on skill checks for [ritual magic](ref/rule/occult-rituals)
 in which you have at least two secondary casters. In addition, whenever you are within 30 feet of
 another hag, psychic, or [witch](ref/class/witch), you can use the
 [aid another](ref/rule/aid-another) action to grant a +1 bonus to the other spellcaster's caster
 level for 1 round.
 
-**Flavor:** While you cannot join a true witch's coven, you are nonetheless skilled at casting magic
-in conjunction with others.
-
 **Mother's Embrace (Su)**
+
+**Flavor:** The hag's call grows stronger as you grow more desperate, promising protection and
+release if only you would succumb.
 
 **Ability:** When you would fail a Will save, you can add 1d4 to your result; whether or not this
 causes you to succeed at the saving throw, you take 2 points of
 [Wisdom damage](ref/rule/ability-damage-drain).
 
 When you perform an act of cruelty, you regain 1 phrenic pool point.
-
-**Flavor:** The hag's call grows stronger as you grow more desperate, promising protection and
-release if only you would succumb.
-
-**Usage:** You can use each aspect of this ability a number of times per day equal to your Charisma
-modifier.
 
 **Usage:** You can use each aspect of this ability a number of times per day equal to your Charisma
 modifier.

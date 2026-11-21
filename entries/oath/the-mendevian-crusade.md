@@ -32,12 +32,12 @@ across the world stand firm against it. This oath is identical to the
 
 **Divine Bond (Su)**
 
+**Gained:** At 5th Level
+
 **Ability:** The paladin adds evil outsider [bane](ref/magic-enh/bane) to the list of weapon special
 abilities that can be added to her weapon and removes _flaming_ from the list.
 
 **Alters:** Divine bond
-
-**Gained:** At 5th Level
 
 **Anchoring Aura (Su)**
 
@@ -61,14 +61,14 @@ unconscious or dead.
 
 **Holy Vessel (Su)**
 
+**Gained:** At 9th Level
+
 **Ability:** A paladin whose _divine bond_ is with a weapon can also use her _divine bond_ to
 augment her armor or shield with enhancement bonuses, or add any of the following armor or shield
 properties: [bashing](ref/magic-enh/bashing), [fortification](ref/magic-enh/fortification), and
 [spell resistance](ref/magic-enh/spell-resistance). Adding these properties consumes an amount of
 bonus equal to the property's cost (see the
 [armor special abilities and shield special abilities tables](ref/rule/magic-armor)).
-
-**Gained:** At 9th Level
 
 **Replaces:** 9th-level mercy
 
@@ -78,9 +78,9 @@ mount.
 
 **Mercy (Su)**
 
-**Ability:** The paladin can choose the following mercy.
-
 **Gained:** At 12th Level
+
+**Ability:** The paladin can choose the following mercy.
 
 **Possessed**
 
