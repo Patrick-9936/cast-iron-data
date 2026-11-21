@@ -80,10 +80,10 @@ debilitating effects of disease (but you can still be a carrier of diseases).
 
 **Shroud of Vermin (Su)**
 
+**Gained:** At 9th Level
+
 **Flavor:** Swarms no longer see you as prey. You can walk among swarms without fear of being harmed
 by them at all.
-
-**Gained:** At 9th Level
 
 **Passive:** Even when you aren't standing amid a swarm, your body crawls with vermin, and their
 chitinous bodies increase your natural armor bonus by +1.
@@ -91,9 +91,9 @@ chitinous bodies increase your natural armor bonus by +1.
 **Standard:** You can mentally command a swarm in which you stand. You can direct that swarm's
 attacks and movements as long as you have more Hit Dice than the swarm.
 
-At 11th level: This bonus increases to +2.
+**At 11th level,** this bonus increases to +2.
 
-At 17th level: This bonus increases to +3.
+**At 17th level,** this bonus increases to +3.
 
 **Pestilential Breath (Su)**
 

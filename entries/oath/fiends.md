@@ -27,6 +27,8 @@ possession.
 
 **Anchoring Aura (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** A paladin's aura hampers extradimensional travel by evil outsiders. The aura extends 20
 feet from the paladin. Evil outsiders attempting to use abilities such as
 [dimension door](ref/spell/dimension-door), [plane shift](ref/spell/plane-shift), or
@@ -40,8 +42,6 @@ The aura functions only while the paladin is conscious, not if she is unconsciou
 an evil outsider within 30 feet with _[dimensional anchor](ref/spell/dimensional-anchor)._ A
 targeted _[dimensional anchor](ref/spell/dimensional-anchor)_ persists even if the paladin is
 unconscious or dead.
-
-**Gained:** At 8th Level
 
 **Replaces:** Aura of resolve
 

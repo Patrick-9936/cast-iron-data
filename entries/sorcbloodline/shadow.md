@@ -82,24 +82,24 @@ these amounts.
 
 **Shadow Well (Sp)**
 
-**Ability:** Once per day, you can use the Stealth skill even while being observed and without cover
-or concealment, as long as you are within 10 feet of a shadow other than your own.
-
 **Gained:** At 9th Level
 
-**Special:** Unless otherwise noted, the swapping ability is identical to
-[dimension door](ref/spell/dimension-door).
+**Ability:** Once per day, you can use the Stealth skill even while being observed and without cover
+or concealment, as long as you are within 10 feet of a shadow other than your own.
 
 **Standard:** When within an area of darkness or [dim light](ref/rule/vision-and-light), you may
 choose to switch places with a willing ally within 60 feet, who must also be in darkness or dim
 light.
 
-**At 13th Level:** You can instead switch the positions of two willing allies, each of whom must be
+**At 13th level,** you can instead switch the positions of two willing allies, each of whom must be
 within 60 feet of you.
 
-**At 17th Level:** You can use this ability twice per day.
+**At 17th level,** you can use this ability twice per day.
 
-**At 20th Level:** You can use this ability three times a day.
+**At 20th level,** you can use this ability three times a day.
+
+**Special:** Unless otherwise noted, the swapping ability is identical to
+[dimension door](ref/spell/dimension-door).
 
 **Enveloping Darkness (Sp)**
 

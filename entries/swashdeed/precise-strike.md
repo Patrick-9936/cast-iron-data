@@ -27,9 +27,9 @@ that is immune to sneak attacks is immune to the additional damage granted by _p
 any item or ability that protects a creature from critical hits also protects a creature from the
 additional damage of a _precise strike._
 
-**Prereq:** 3rd-level swashbuckler
-
 **Swift:** A swashbuckler can spend 1 panache point to double her _precise strike's_ damage bonus on
 the next attack. This benefit must be used before the end of her turn, or it is lost. This deed's
 cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed
 costs (such as the [Signature Deed](ref/feat/signature-deed) feat).
+
+**Prereq:** 3rd-level swashbuckler

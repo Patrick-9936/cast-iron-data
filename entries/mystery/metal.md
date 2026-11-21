@@ -165,17 +165,17 @@ device, as if using the spell [scrying](ref/spell/scrying).
 
 **Final Revelation**
 
+**Gained:** At 20th Level
+
+**Flavor:** You become a master of iron and steel.
+
 **Ability:** You gain the benefits of [Weapon Focus](ref/feat/weapon-focus),
 [Greater Weapon Focus](ref/feat/greater-weapon-focus), and
 [Improved Critical](ref/feat/improved-critical) with any one metal weapon that you are proficient
 with.
 
-**Flavor:** You become a master of iron and steel.
-
-**Gained:** At 20th Level
-
-**Passive:** Your armor is like a second skin to you - while wearing metal armor you are proficient
-with, the armor's maximum Dexterity bonus increases by +5 and you take no armor check penalty.
+Your armor is like a second skin to you - while wearing metal armor you are proficient with, the
+armor's maximum Dexterity bonus increases by +5 and you take no armor check penalty.
 
 **Special:** In addition, any metal you create with your magic (such as
 _[wall of iron](ref/spell/wall-of-iron)_) has its [hardness](ref/umr/hardness) increased by +10.

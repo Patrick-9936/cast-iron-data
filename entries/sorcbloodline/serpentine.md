@@ -62,21 +62,19 @@ sinuous and seductive grace.
 
 **Serpent's Fang (Ex)**
 
-**Action:** Free Action=
-
 **Gained:** At 1st Level
+
+**Free:** You can grow fangs. These fangs are treated as a [natural weapon](ref/umr/natural-attacks)
+inflicting 1d4 points of damage plus your Strength modifier (1d3 if you are Small) plus poison.
 
 **Usage:** 3 + Charisma modifier rounds/day
 
-**At 5th Level:** These fangs are considered magical for the purpose of overcoming DR and the poison
+**At 5th level,** these fangs are considered magical for the purpose of overcoming DR and the poison
 damage increases to 1d2 Con.
 
-**At 7th Level:** Your poison requires 2 successful saves to cure.
+**At 7th level,** your poison requires 2 successful saves to cure.
 
-**At 11th Level:** Your poison damage increases to 1d4 Con.
-
-You can grow fangs. These fangs are treated as a [natural weapon](ref/umr/natural-attacks)
-inflicting 1d4 points of damage plus your Strength modifier (1d3 if you are Small) plus poison.
+**At 11th level,** your poison damage increases to 1d4 Con.
 
 **Serpent's Fang Poison**
 

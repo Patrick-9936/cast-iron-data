@@ -14,7 +14,7 @@ group = "ninja-trick"
 
 **Deadly Shuriken (Ex)**
 
-**Fullround:** A ninja with this master trick can take careful aim and pool all of her attack
+**Full-round:** A ninja with this master trick can take careful aim and pool all of her attack
 potential into a single, deadly [shuriken](ref/eq-weapon/shuriken) throw. When she does this, she
 throws a single shuriken at a single target, but makes as many attack rolls as she can, based on her
 base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were

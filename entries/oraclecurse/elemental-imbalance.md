@@ -14,15 +14,13 @@ group = "oracle-curse"
 
 **Elemental Imbalance**
 
-**Action:** Benefit
-
 **Flavor:** You wield an element's might, but you are vulnerable to its opposite.
 
-**Penalty:** Choose air, earth, fire, or water.
+**Choice:** Choose air, earth, fire, or water.
 
-If you select air, you gain [vulnerability](ref/umr/vulnerabilities) to acid, cannot benefit from
-any acid [resistance](ref/umr/resistance) or [immunity](ref/umr/immunity), and cannot cast spells
-with the acid or earth descriptors.
+**Ability:** If you select air, you gain [vulnerability](ref/umr/vulnerabilities) to acid, cannot
+benefit from any acid [resistance](ref/umr/resistance) or [immunity](ref/umr/immunity), and cannot
+cast spells with the acid or earth descriptors.
 
 If you select earth, you gain vulnerability to electricity, cannot benefit from any electricity
 resistance or immunity, and cannot cast spells with the air or electricity descriptors.

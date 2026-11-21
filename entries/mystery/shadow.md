@@ -72,12 +72,12 @@ circumstance bonus on [Stealth](ref/skill/stealth) checks.
 
 **Dark Secrets (Su)**
 
+**Flavor:** You learn the hidden secrets surrounding the casting of shadow spells.
+
 **Ability:** You can add a number of spells from the sorcerer/wizard spell list equal to your
 Charisma modifier (minimum 1, maximum equal to half your oracle level) to your spell list and your
 list of spells known as divine spells. These have a spell level equal to their sorcerer/wizard spell
 level.
-
-**Flavor:** You learn the hidden secrets surrounding the casting of shadow spells.
 
 **Special:** You can add only illusion spells from the shadow subschool or spells with the darkness
 descriptor to your list of spells known in this manner.

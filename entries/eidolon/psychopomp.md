@@ -32,24 +32,22 @@ serpentine (bite, [pull](ref/unchevolution/pull) \[bite\], [reach](ref/unchevolu
 
 **Base Evolutions**
 
-**Gained:** At 1st Level
+**At 1st Level:** Psychopomp eidolons gain immunity to death effects, disease, and poison.
 
-**Ability:** Psychopomp eidolons gain immunity to death effects, disease, and poison.
-
-**At 4th level,** psychopomp eidolons gain cold [resistance](ref/unchevolution/resistance) 10 and
-electricity _resistance_ 10.
-
-**At 8th level,** psychopomp eidolons gain the _spirit touch_ ability (see the
-[psychopomp creature subtype](ref/subtype/psychopomp)) and add 1 point to their evolution pools.
-
-**At 12th level,** psychopomp eidolons gain DR 5/adamantine. They also gain the _spiritsense_
+**At 12th Level:** Psychopomp eidolons gain DR 5/adamantine. They also gain the _spiritsense_
 ability (see the psychopomp creature subtype).
 
-**At 16th level,** psychopomp eidolons gain the
+**At 16th Level:** Psychopomp eidolons gain the
 [ability increase](ref/unchevolution/ability-increase) evolution, applied to an ability score of the
 summoner's choice. They also gain the ability to cast [invisibility](ref/spell/invisibility) (self
 only) as a [spell-like ability](ref/umr/spell-like-abilities) at will.
 
-**At 20th level,** psychopomp eidolons increase their [damage reduction](ref/rule/damage-reduction)
+**At 20th Level:** Psychopomp eidolons increase their [damage reduction](ref/rule/damage-reduction)
 to 10/adamantine and gain the [immunity](ref/unchevolution/immunity) (cold) and
 _[immunity](ref/carried/bestiary/rules/universal-monster-rules/immunity)_ (electricity) evolutions.
+
+**At 4th Level:** Psychopomp eidolons gain cold [resistance](ref/unchevolution/resistance) 10 and
+electricity _resistance_ 10.
+
+**At 8th Level:** Psychopomp eidolons gain the _spirit touch_ ability (see the
+[psychopomp creature subtype](ref/subtype/psychopomp)) and add 1 point to their evolution pools.

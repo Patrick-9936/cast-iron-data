@@ -14,6 +14,10 @@ group = "social-talent"
 
 **Kalistocrat's Acumen (Ex)**
 
+**Info:** A vigilante with this talent must follow the dietary and sexual prohibitions of
+[the Prophecies of Kalistrade](ref/eq-misc/the-prophecies-of-kalistrade) in his social identity or
+he loses the talent's benefit until he [atones](ref/spell/atonement).
+
 **Passive:** He can treat [settlements](ref/rule/the-settlement-stat-block) as one size category
 larger when determining their base values and purchase limits.
 
@@ -22,7 +26,3 @@ purposes.
 
 **At 15th level,** the vigilante can treat settlements as four size categories larger for the above
 purposes.
-
-**Info:** A vigilante with this talent must follow the dietary and sexual prohibitions of
-[the Prophecies of Kalistrade](ref/eq-misc/the-prophecies-of-kalistrade) in his social identity or
-he loses the talent's benefit until he [atones](ref/spell/atonement).

@@ -19,11 +19,11 @@ as a ranged touch attack at any creature within 10 feet. This does not provoke a
 opportunity. On a successful hit, the struck creature is exposed to the poison as if it were a
 contact poison.
 
-**Special:** The rogue can maintain only a single suspended poison at a time. If she suspends a new
-poison, any older suspended poison immediately affects her as normal.
-
 **Standard:** A rogue with this talent can drink a non-inhaled poison and suspend it within her
 body. She is not affected by the poison while it is suspended within her, and she doesn't need to
 attempt saving throws against it. She can suspend a poison within herself in this way for a number
 of hours equal to her Constitution modifier (minimum 1), after which she must immediately expel the
 poison or be affected by it as normal.
+
+**Special:** The rogue can maintain only a single suspended poison at a time. If she suspends a new
+poison, any older suspended poison immediately affects her as normal.

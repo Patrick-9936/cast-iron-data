@@ -14,9 +14,9 @@ group = "rage-power"
 
 **Draconic Blood (Su)**
 
+**Choice:** Choose an energy type from the following: acid, cold, fire, or electricity.
+
 **Passive:** While _raging,_ the barbarian gains [resistance](ref/umr/resistance) 5 against the
 chosen energy type and a +1 natural armor bonus.
 
 **Prereq:** 6th-level barbarian, [lesser draconic blood](ref/ragepower/lesser-draconic-blood)
-
-**Choice:** Choose an energy type from the following: acid, cold, fire, or electricity.

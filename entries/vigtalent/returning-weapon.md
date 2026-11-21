@@ -16,6 +16,8 @@ group = "vigilante-talent"
 
 **Flavor:** The vigilante has a signature type of thrown weapon that returns to him.
 
+**Choice:** Choose a type of thrown weapon, such as throwing axes.
+
 **Ability:** Whenever the vigilante uses the chosen type of weapon, it automatically returns as if
 it had the [returning](ref/magic-enh/returning) property.
 
@@ -25,5 +27,3 @@ automatically replenishes them at no cost and never runs out. If he chose a non-
 weapon instead, he can apply the magical properties of the first weapon he throws in a round to any
 nonmagical thrown weapons of that type he throws that round. This allows him to make a full attack
 with the benefits of his magical thrown weapon, even though it only returns next round.
-
-**Choice:** Choose a type of thrown weapon, such as throwing axes.

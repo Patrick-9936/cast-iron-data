@@ -72,13 +72,13 @@ At 18th level: This bonus increases to +5.
 
 **Gained:** At 8th Level
 
-**Swift:** The cavalier can grant himself a competence bonus equal to his Charisma modifier on all
-attack rolls, weapon damage rolls, and opposed checks against the oathbreaking creature. These
-bonuses last for 1 round per level.
-
 **Info:** Once per day after receiving a request for aid from a legal authority or an aggrieved
 party regarding the breaking of an oath, whenever the cavalier encounters the oath-breaking
 creature, he can choose to vehemently exact retribution.
+
+**Swift:** The cavalier can grant himself a competence bonus equal to his Charisma modifier on all
+attack rolls, weapon damage rolls, and opposed checks against the oathbreaking creature. These
+bonuses last for 1 round per level.
 
 **Sworn Oathkeeper (Ex)**
 

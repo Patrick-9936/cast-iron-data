@@ -44,15 +44,15 @@ that is unable to protect itself.
 
 **Slip the Surly Bonds (Sp)**
 
-**Ability:** For a number of rounds per day equal to your medium level, you can move normally
-regardless of magical effects that impede movement, as if you were affected by
-[freedom of movement](ref/spell/freedom-of-movement).
+**Flavor:** You can ignore impediments to your mobility.
 
-**Ability2:** You can cast [liberating command](ref/spell/liberating-command) as a
+**Ability:** You can cast [liberating command](ref/spell/liberating-command) as a
 [spell-like ability](ref/umr/spell-like-abilities) a number of times per day equal to your Charisma
 modifier, using your medium level as the spell's caster level.
 
-**Flavor:** You can ignore impediments to your mobility.
+For a number of rounds per day equal to your medium level, you can move normally regardless of
+magical effects that impede movement, as if you were affected by
+[freedom of movement](ref/spell/freedom-of-movement).
 
 ### Gift
 

@@ -148,23 +148,23 @@ fury creates physical wounds on creatures in the area. The _storm_ has a range o
 damage. Undead creatures in the area take 1d8 points of damage for every oracle level you possess. A
 successful Fortitude save reduces the damage to half.
 
-**Prereq:** 7th-level oracle
-
 **Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
 
-At 8th level: Objects and non-undead creatures now take 4d6 damage.
+**At 8th level,** objects and non-undead creatures now take 4d6 damage.
 
-At 10th level: Objects and non-undead creatures now take 5d6 damage.
+**At 10th level,** objects and non-undead creatures now take 5d6 damage.
 
-At 12th level: Objects and non-undead creatures now take 6d6 damage.
+**At 12th level,** objects and non-undead creatures now take 6d6 damage.
 
-At 14th level: Objects and non-undead creatures now take 7d6 damage.
+**At 14th level,** objects and non-undead creatures now take 7d6 damage.
 
-At 16th level: Objects and non-undead creatures now take 8d6 damage.
+**At 16th level,** objects and non-undead creatures now take 8d6 damage.
 
-At 18th level: Objects and non-undead creatures now take 9d6 damage.
+**At 18th level,** objects and non-undead creatures now take 9d6 damage.
 
-At 20th level: Objects and non-undead creatures now take 10d6 damage.
+**At 20th level,** objects and non-undead creatures now take 10d6 damage.
+
+**Prereq:** 7th-level oracle
 
 **Voice of the Grave (Su)**
 

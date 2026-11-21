@@ -45,5 +45,7 @@ Liberation blessing.
 
 **Greater Liberation (major)**
 
-**At 10th Level:** When you use the _liberation_ ability of the Liberation blessing, its effects
-last for 1 minute.
+**Gained:** At 10th Level
+
+**Ability:** When you use the _liberation_ ability of the Liberation blessing, its effects last for
+1 minute.

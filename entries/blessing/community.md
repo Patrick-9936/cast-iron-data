@@ -52,9 +52,11 @@ Community blessing.
 
 **Team Effort (minor)**
 
+**Gained:** At 1st Level
+
 **Flavor:** You can touch an ally and grant it the blessing of cooperation.
 
-**At 1st Level:** Choose one teamwork feat that you have. The touched ally gains the benefit of the
+**Ability:** Choose one teamwork feat that you have. The touched ally gains the benefit of the
 chosen teamwork feat for a number of rounds equal to 1/2 your warpriest level (minimum 1).
 Alternatively, you can choose one teamwork feat that a touched ally has and gain the benefit of the
 chosen feat for a number of rounds equal to 1/2 your warpriest level (minimum 1).

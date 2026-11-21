@@ -45,11 +45,13 @@ Nobility blessing.
 
 **Martyr's Sacrifice (major)**
 
+**Gained:** At 10th Level
+
 **Flavor:** Your body can accept wounds meant for others you deem worthy.
 
-**At 10th Level:** You can shoulder the wounds of an ally within 50 feet for 1 minute, and during
-this time, the ally is affected as if you had cast [shield other](ref/spell/shield-other) on her
-(except with a range of 50 feet).
+**Ability:** You can shoulder the wounds of an ally within 50 feet for 1 minute, and during this
+time, the ally is affected as if you had cast [shield other](ref/spell/shield-other) on her (except
+with a range of 50 feet).
 
 **Special:** You can have only one use of this ability active at a time; if you use this major
 blessing again, the previous use immediately expires.

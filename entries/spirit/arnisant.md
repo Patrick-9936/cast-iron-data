@@ -48,10 +48,10 @@ and others).
 enhancement bonus by 1 (or add a shield special ability) with a +1 bonus base price modifier if the
 shield's enhancement bonus is already +5).
 
-**Ability2:** When you would be slain, turned to stone, or otherwise incapacitated, you can allow
-Arnisant's spirit to sacrifice himself to protect you from the effect. This negates any single
-non-damaging effect, and for a damaging effect, it leaves you with 0 hit points or your hit point
-total just before the deathblow, whichever is lower.
+When you would be slain, turned to stone, or otherwise incapacitated, you can allow Arnisant's
+spirit to sacrifice himself to protect you from the effect. This negates any single non-damaging
+effect, and for a damaging effect, it leaves you with 0 hit points or your hit point total just
+before the deathblow, whichever is lower.
 
 In exchange, you lose contact with Arnisant and have no spirit abilities until your next day's
 _seance._ Furthermore, you can't contact Arnisant for 24 hours, and when you next contact Arnisant,

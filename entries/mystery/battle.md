@@ -149,12 +149,12 @@ rounds).
 
 **Final Revelation**
 
+**Gained:** At 20th Level
+
 **Flavor:** You become an avatar of battle.
 
-**Fullround:** You can take a full-attack action and move up to your speed (you can move before or
+**Full-round:** You can take a full-attack action and move up to your speed (you can move before or
 after the attacks).
-
-**Gained:** At 20th Level
 
 **Passive:** Whenever you score a critical hit, you can ignore any DR the target might possess. You
 gain a +4 insight bonus to your AC for the purpose of confirming critical hits against you.

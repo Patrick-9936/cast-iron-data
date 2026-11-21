@@ -117,11 +117,11 @@ Class instead causes you to lose your Charisma modifier to your Armor Class.
 
 **Speak with Animals (Ex)**
 
-**Ability:** You gain the ability to converse with those types of animal as if you were under the
-effects of [speak with animals](ref/spell/speak-with-animals).
-
 **Choice:** Choose a number of specific kinds of animal (eagle, fox, dog, and so on) equal to 1 +
 [one-third](ref/misc/fractions-and-rounding) of your oracle level.
+
+**Ability:** You gain the ability to converse with those types of animal as if you were under the
+effects of [speak with animals](ref/spell/speak-with-animals).
 
 **Special:** As you gain levels, you choose new kinds of animals. (You are not locked into the
 number you gained when you first selected this revelation.)

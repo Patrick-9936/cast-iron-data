@@ -67,17 +67,17 @@ your subconscious, enhancing your senses and physical capabilities.
 
 **Enhanced Senses (Ex)**
 
-**Ability:** You gain [scent](ref/umr/scent) as per the universal monster rule.
-
 **Flavor:** Your mind can process sensory stimuli with exceptional efficiency, awakening you to a
 world most humanoids cannot comprehend.
 
-**At 11th Level:** Your [blindsense](ref/rule/blindsight-and-blindsense) is continuously active, and
-you can spend 1 point from your phrenic pool as a **standard action** to gain
-[blindsight](ref/umr/blindsight) with a range of 30 feet for 1 minute.
+**Ability:** You gain [scent](ref/umr/scent) as per the universal monster rule.
 
 **Standard:** You can spend 1 point from your phrenic pool to amplify your sense of smell, gaining
 [blindsense](ref/umr/blindsense) with a range of 30 feet for 1 minute.
+
+**At 11th level,** your [blindsense](ref/rule/blindsight-and-blindsense) is continuously active, and
+you can spend 1 point from your phrenic pool as a **standard action** to gain
+[blindsight](ref/umr/blindsight) with a range of 30 feet for 1 minute.
 
 **Survival Instinct (Ex)**
 

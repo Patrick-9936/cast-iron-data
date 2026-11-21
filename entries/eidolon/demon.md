@@ -33,23 +33,21 @@ serpentine (bite, [improved damage](ref/unchevolution/improved-damage) \[bite\],
 
 **Base Evolutions**
 
-**Gained:** At 1st Level
+**At 1st Level:** Demon eidolons gain the [resistance](ref/unchevolution/resistance) (electricity)
+and _resistance_ (fire) evolutions as well as a +4 bonus on saving throws against poison.
 
-**Ability:** Demon eidolons gain the [resistance](ref/unchevolution/resistance) (electricity) and
-_resistance_ (fire) evolutions as well as a +4 bonus on saving throws against poison.
-
-**At 4th level,** demon eidolons gain acid _resistance_ 10 and cold _resistance_ 10.
-
-**At 8th level,** demon eidolons lose the +4 bonus on saving throws against poison and gain immunity
-to poison. They also add 1 point to their evolution pools.
-
-**At 12th level,** demon eidolons gain DR 5/good. They also gain the
+**At 12th Level:** Demon eidolons gain DR 5/good. They also gain the
 [ability increase](ref/unchevolution/ability-increase) evolution in an ability score of the
 summoner's choice.
 
-**At 16th level,** demon eidolons lose the _resistance_ (electricity) evolution, and instead gain
+**At 16th Level:** Demon eidolons lose the _resistance_ (electricity) evolution, and instead gain
 the [immunity](ref/unchevolution/immunity) (electricity) evolution. They also gain
 [telepathy](ref/umr/telepathy).
 
-**At 20th level,** demon eidolons gain [true seeing](ref/spell/true-seeing) as a constant
+**At 20th Level:** Demon eidolons gain [true seeing](ref/spell/true-seeing) as a constant
 [spell-like ability](ref/umr/spell-like-abilities).
+
+**At 4th Level:** Demon eidolons gain acid _resistance_ 10 and cold _resistance_ 10.
+
+**At 8th Level:** Demon eidolons lose the +4 bonus on saving throws against poison and gain immunity
+to poison. They also add 1 point to their evolution pools.

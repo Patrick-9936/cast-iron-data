@@ -2,6 +2,53 @@
 # Each applies only to the exact original span (span_sha256); see scripts/rewrite-class-option-powers.py.
 
 [[resolution]]
+id = "ref/arcana/pool-ray"
+name = "Pool Ray:"
+occurrence = 1
+span_sha256 = "9ad7ccf37c4475283ab5da74932c63ef5f9a17b0d767d34351b2ba02fedfc79a"
+print = "Ranged Tactics Toolbox p. 14"
+replacement = '''
+**Pool Ray**
+
+**Standard:** The magus can expend 1 point from his arcane pool to infuse a ranged weapon with elemental power.
+
+As a free action while making an attack roll with the infused ranged weapon, after the attack roll has been made but before the results are revealed by the GM, the magus can release the charge and cause his attack to deal 1d6 points of energy damage (acid, cold, electricity, or fire, chosen when he spends the arcane pool point to activate this ability). If he misses with this attack, the charge is lost and the effect is wasted.
+
+**At 6th level,** the damage increases to 2d6.
+
+**At 9th level,** the damage increases to 3d6.
+
+**At 12th level,** the damage increases to 4d6.
+
+**At 15th level,** the damage increases to 5d6.
+
+**At 18th level,** the damage increases to 6d6.
+
+**Special:** If the magus has the _ranged spellstrike_ class feature (such as through the [Myrmidarch](ref/arc-magus/myrmidarch) archetype), he can use this ability with _ranged spellstrike_ to treat it as its own ranged touch attack.
+'''
+
+[[resolution]]
+id = "ref/arcaneschool/divination"
+name = "Foretell (Su)"
+occurrence = 1
+span_sha256 = "c80491dd677d16b1f863673c74169fea03f3ac0d54ddacd2deec654f8089f3c3"
+print = "Advanced Player's Guide p. 146"
+replacement = '''
+**Foretell (Su)**
+
+**Gained:** At 8th Level
+
+**Standard:** You can utter a prediction of the immediate future. While your foretelling is in effect, you emit a 30-foot aura of fortune that aids your allies or hinders your enemies, as chosen by you at the time of prediction.
+
+If you choose to aid, you and your allies gain a +2 luck bonus on ability checks, attack rolls,
+caster level checks, saving throws, and skill checks.
+
+If you choose to hinder, your enemies take a -2 penalty on those rolls instead.
+
+**Usage:** A number of rounds per day equal to your wizard level. These rounds do not need to be consecutive.
+'''
+
+[[resolution]]
 id = "ref/arcaneschool/divination"
 name = "Forewarned (Su)"
 occurrence = 1
@@ -38,6 +85,25 @@ In addition, you gain a +1 insight bonus on melee attack and damage rolls whenev
 foe are touching the ground.
 
 **At 20th level,** earth and stone do not block the line of effect of your spells, although they do still block your line of sight.
+'''
+
+[[resolution]]
+id = "ref/arcaneschool/enchantment"
+name = "Force of Will (Su)"
+occurrence = 1
+span_sha256 = "2060ae1f17c9dea560f66fb321b27d6c95f7fbe96ff498f127fa7abaa10ba0ff"
+print = "Advanced Player's Guide p. 144"
+replacement = '''
+**Force of Will (Su)**
+
+**Gained:** At 1st Level
+
+**Passive:** You can send thoughts and instructions telepathically to any creature within 60 feet
+that you have charmed or dominated as though you shared a common language.
+
+**At 11th level,** affected creatures can communicate back to you via the telepathic link as well.
+
+**At 20th level,** any creature that succeeds at a saving throw against an enchantment spell you have just cast is still affected for 1 round if the spell has a duration greater than 1 round.
 '''
 
 [[resolution]]
@@ -87,22 +153,6 @@ a tail attack (a secondary natural touch attack that deals 1d6 points of electri
 
 [[resolution]]
 id = "ref/blessing/air"
-name = "Zephyr's Gift (minor)"
-occurrence = 1
-span_sha256 = "87e390f7de06e226ed4b0e7b20992d9c52f8243fd6fa85e37dee2352e9018cdb"
-print = "Advanced Class Guide p. 63"
-replacement = '''
-**Zephyr's Gift (minor)**
-
-**Gained:** At 1st Level
-
-**Flavor:** You can touch any one ranged weapon and enhance it with the quality of air.
-
-**Ability:** For 1 minute, any attacks made with the weapon take no penalties due to range. In addition, making a ranged attack with this weapon doesn't provoke an attack of opportunity.
-'''
-
-[[resolution]]
-id = "ref/blessing/air"
 name = "Soaring Assault (major)"
 occurrence = 1
 span_sha256 = "c5161929d0eec161434f552470d9cf82c9e13f3035fb314b6829c4e095d227d7"
@@ -116,6 +166,22 @@ replacement = '''
 [fly](ref/spell/fly)).
 
 **Ability:** The ally gains a fly speed of 60 feet with average maneuverability. She gains a bonus on Fly skill checks equal to your level. Whenever the ally succeeds at a [charge](ref/rule/charge) attack while flying, that attack deals an amount of additional electricity damage equal to your level.
+'''
+
+[[resolution]]
+id = "ref/blessing/air"
+name = "Zephyr's Gift (minor)"
+occurrence = 1
+span_sha256 = "87e390f7de06e226ed4b0e7b20992d9c52f8243fd6fa85e37dee2352e9018cdb"
+print = "Advanced Class Guide p. 63"
+replacement = '''
+**Zephyr's Gift (minor)**
+
+**Gained:** At 1st Level
+
+**Flavor:** You can touch any one ranged weapon and enhance it with the quality of air.
+
+**Ability:** For 1 minute, any attacks made with the weapon take no penalties due to range. In addition, making a ranged attack with this weapon doesn't provoke an attack of opportunity.
 '''
 
 [[resolution]]
@@ -236,19 +302,19 @@ turn.
 '''
 
 [[resolution]]
-id = "ref/blessing/darkness"
-name = "Enshrouding Darkness (minor)"
+id = "ref/blessing/community"
+name = "Team Effort (minor)"
 occurrence = 1
-span_sha256 = "817410758a1b2ec921f276fde4cdac64808f1274e6405bcd988eb1b1504faa90"
-print = "Advanced Class Guide p. 65"
+span_sha256 = "bb28527ef650f0bb672ceaf7be5c476b46ba03fe40ba1c0f771e5c5f00a5570a"
+print = "Healer's Handbook p. 13"
 replacement = '''
-**Enshrouding Darkness (minor)**
+**Team Effort (minor)**
 
 **Gained:** At 1st Level
 
-**Flavor:** You can touch an ally and bestow a darkness blessing.
+**Flavor:** You can touch an ally and grant it the blessing of cooperation.
 
-**Ability:** For 1 minute, the ally becomes enshrouded in shadows while in combat, granting it [concealment](ref/rule/concealment) (20%). Creatures that are normally able to see in supernatural darkness ignore this concealment.
+**Ability:** Choose one teamwork feat that you have. The touched ally gains the benefit of the chosen teamwork feat for a number of rounds equal to 1/2 your warpriest level (minimum 1). Alternatively, you can choose one teamwork feat that a touched ally has and gain the benefit of the chosen feat for a number of rounds equal to 1/2 your warpriest level (minimum 1).
 '''
 
 [[resolution]]
@@ -266,20 +332,19 @@ replacement = '''
 '''
 
 [[resolution]]
-id = "ref/blessing/death"
-name = "From the Grave (minor)"
+id = "ref/blessing/darkness"
+name = "Enshrouding Darkness (minor)"
 occurrence = 1
-span_sha256 = "d3ca73c809d3830cf67957c5f76fb6d05dd4fb83f93a39416d58438a95ae9085"
+span_sha256 = "817410758a1b2ec921f276fde4cdac64808f1274e6405bcd988eb1b1504faa90"
 print = "Advanced Class Guide p. 65"
 replacement = '''
-**From the Grave (minor)**
+**Enshrouding Darkness (minor)**
 
 **Gained:** At 1st Level
 
-**Flavor:** You can take on a corpse-like visage for 1 minute, making you more intimidating and
-giving you undead-like protection from harm.
+**Flavor:** You can touch an ally and bestow a darkness blessing.
 
-**Ability:** You gain a +4 bonus on Disguise checks to resemble an undead creature and on Intimidate checks, as well as a +2 profane bonus on saving throws against disease, mind-affecting effects, paralysis, poison, and stun.
+**Ability:** For 1 minute, the ally becomes enshrouded in shadows while in combat, granting it [concealment](ref/rule/concealment) (20%). Creatures that are normally able to see in supernatural darkness ignore this concealment.
 '''
 
 [[resolution]]
@@ -297,6 +362,23 @@ replacement = '''
 
 **Special:** These temporary negative levels stack. You gain no benefit from imposing these negative
 levels (such as the temporary hit points undead gain from [enervation](ref/spell/enervation)).
+'''
+
+[[resolution]]
+id = "ref/blessing/death"
+name = "From the Grave (minor)"
+occurrence = 1
+span_sha256 = "d3ca73c809d3830cf67957c5f76fb6d05dd4fb83f93a39416d58438a95ae9085"
+print = "Advanced Class Guide p. 65"
+replacement = '''
+**From the Grave (minor)**
+
+**Gained:** At 1st Level
+
+**Flavor:** You can take on a corpse-like visage for 1 minute, making you more intimidating and
+giving you undead-like protection from harm.
+
+**Ability:** You gain a +4 bonus on Disguise checks to resemble an undead creature and on Intimidate checks, as well as a +2 profane bonus on saving throws against disease, mind-affecting effects, paralysis, poison, and stun.
 '''
 
 [[resolution]]
@@ -379,6 +461,20 @@ replacement = '''
 
 [[resolution]]
 id = "ref/blessing/fire"
+name = "Armor of Flame (major)"
+occurrence = 1
+span_sha256 = "d604042dd4953dc785a2e92273b5bfbe0b2233ad48ef3e0117bc6b470293ef9d"
+print = "Advanced Class Guide p. 65"
+replacement = '''
+**Armor of Flame (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** You can touch an ally to wreath it in flames. This works as [fire shield](ref/spell/fire-shield) (warm shield only) with a duration of 1 minute.
+'''
+
+[[resolution]]
+id = "ref/blessing/fire"
 name = "Fire Strike (minor)"
 occurrence = 1
 span_sha256 = "8b06e157bfcdb9ca7508466f8515f792e4299f05493bf0f1ff6667bec6bfda39"
@@ -391,20 +487,6 @@ replacement = '''
 **Flavor:** You can touch one weapon and enhance it with the grandeur of fire.
 
 **Ability:** For 1 minute, this weapon glows red-hot and deals an additional 1d4 points of fire damage with each hit. This additional damage doesn't stack with the additional damage from the [flaming](ref/magic-enh/flaming) or [flaming burst](ref/magic-enh/flaming-burst) weapon special abilities.
-'''
-
-[[resolution]]
-id = "ref/blessing/fire"
-name = "Armor of Flame (major)"
-occurrence = 1
-span_sha256 = "d604042dd4953dc785a2e92273b5bfbe0b2233ad48ef3e0117bc6b470293ef9d"
-print = "Advanced Class Guide p. 65"
-replacement = '''
-**Armor of Flame (major)**
-
-**Gained:** At 10th Level
-
-**Ability:** You can touch an ally to wreath it in flames. This works as [fire shield](ref/spell/fire-shield) (warm shield only) with a duration of 1 minute.
 '''
 
 [[resolution]]
@@ -423,6 +505,20 @@ replacement = '''
 
 [[resolution]]
 id = "ref/blessing/glory"
+name = "Demoralizing Glory (major)"
+occurrence = 1
+span_sha256 = "b120b40e26ab64b4660d37246a5839083eb22f594477fb7ed9a4fd1e47e7ccd9"
+print = "Advanced Class Guide p. 66"
+replacement = '''
+**Demoralizing Glory (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** When you successfully damage an opponent with a melee attack or attack spell, as a **swift action** you can attempt to demoralize that opponent with the [Intimidate](ref/skill/intimidate) skill using your ranks in Intimidate or your warpriest level, whichever is higher.
+'''
+
+[[resolution]]
+id = "ref/blessing/glory"
 name = "Glorious Presence (minor)"
 occurrence = 1
 span_sha256 = "9ee186099fb3c04d0180496c62f75faeed2c76a925a8773fd6e9dff487db53ec"
@@ -435,20 +531,6 @@ replacement = '''
 **Flavor:** You can touch an ally and grant it a glorious blessing.
 
 **Ability:** For 1 minute, the ally becomes mesmerizing to her foes. This functions as [sanctuary](ref/spell/sanctuary), except if the ally attacks an opponent, this effect ends with respect to only that opponent. This is a mind-affecting effect.
-'''
-
-[[resolution]]
-id = "ref/blessing/glory"
-name = "Demoralizing Glory (major)"
-occurrence = 1
-span_sha256 = "b120b40e26ab64b4660d37246a5839083eb22f594477fb7ed9a4fd1e47e7ccd9"
-print = "Advanced Class Guide p. 66"
-replacement = '''
-**Demoralizing Glory (major)**
-
-**Gained:** At 10th Level
-
-**Ability:** When you successfully damage an opponent with a melee attack or attack spell, as a **swift action** you can attempt to demoralize that opponent with the [Intimidate](ref/skill/intimidate) skill using your ranks in Intimidate or your warpriest level, whichever is higher.
 '''
 
 [[resolution]]
@@ -483,6 +565,38 @@ replacement = '''
 
 [[resolution]]
 id = "ref/blessing/healing"
+name = "Ameliorating Touch (minor)"
+occurrence = 1
+span_sha256 = "5dd7ddec1c34aee5701110e60824f1b6feb820295116335d7feb83f08e1f92ea"
+print = "Healer's Handbook p. 13"
+replacement = '''
+**Ameliorating Touch (minor)**
+
+**Gained:** At 1st Level
+
+**Flavor:** Your touch is a balm to your suffering allies.
+
+**Ability:** You can touch an ally as a **swift action** to temporarily relieve that ally of the [fatigued](ref/misc/fatigued), [shaken](ref/misc/shaken), or [sickened](ref/misc/sickened) condition. This blessing suppresses those conditions for 1 minute.
+
+**At 2nd level,** you can spend two uses of your blessing ability whenever you heal yourself or an ally with your _fervor_ class ability to use this minor blessing as a **free action** instead of a swift action.
+'''
+
+[[resolution]]
+id = "ref/blessing/healing"
+name = "Fast Healing (major)"
+occurrence = 1
+span_sha256 = "925ce156fa1758b68e6c17f8e4c8207059ee3c0bcb6b2bf028e029ef558d0d1e"
+print = "Advanced Class Guide p. 66"
+replacement = '''
+**Fast Healing (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** You can touch an ally and grant it [fast healing](ref/umr/fast-healing) 3 for 1 minute.
+'''
+
+[[resolution]]
+id = "ref/blessing/healing"
 name = "Powerful Healer (minor)"
 occurrence = 1
 span_sha256 = "8cbc5788b28751c5c4eeecd065a795ce39baf20b29924b9a1bd4d9bf797eb393"
@@ -499,16 +613,18 @@ replacement = '''
 
 [[resolution]]
 id = "ref/blessing/healing"
-name = "Fast Healing (major)"
+name = "Return of the Fallen (major)"
 occurrence = 1
-span_sha256 = "925ce156fa1758b68e6c17f8e4c8207059ee3c0bcb6b2bf028e029ef558d0d1e"
-print = "Advanced Class Guide p. 66"
+span_sha256 = "98fe70d4c30266a8add9cfee2ac6e7d7c69d729e8cf3a8c73150fc67efda953d"
+print = "Healer's Handbook p. 13"
 replacement = '''
-**Fast Healing (major)**
+**Return of the Fallen (major)**
 
 **Gained:** At 10th Level
 
-**Ability:** You can touch an ally and grant it [fast healing](ref/umr/fast-healing) 3 for 1 minute.
+**Flavor:** Your touch can defy the cold claws of death itself.
+
+**Ability:** You can temporarily revive a touched ally to continue fighting, as if you had cast [raise dead](ref/spell/raise-dead) on her. The revived ally is also [staggered](ref/misc/staggered) for a number of rounds equal to 1/2 your warpriest level, after which she immediately dies. The ally is free to act as she sees fit during this time, and you are granted no control over her.
 '''
 
 [[resolution]]
@@ -559,20 +675,6 @@ replacement = '''
 
 [[resolution]]
 id = "ref/blessing/liberation"
-name = "Liberation (minor)"
-occurrence = 1
-span_sha256 = "bb3127ad0da2d56c3281ed729f911b882c5a45b8f71541376aa8b7ce1b4eefaa"
-print = "Advanced Class Guide p. 66"
-replacement = '''
-**Liberation (minor)**
-
-**Gained:** At 1st Level
-
-**Ability:** For 1 round as a **swift action**, you can ignore impediments to your mobility and effects that cause [paralysis](ref/rule/paralysis) (as [freedom of movement](ref/spell/freedom-of-movement)). You can activate this blessing even if you're otherwise unable to take actions, but not if you're unconscious.
-'''
-
-[[resolution]]
-id = "ref/blessing/liberation"
 name = "Freedom's Shout (major)"
 occurrence = 1
 span_sha256 = "a9578cece5b19dec9012e59eb74da9883b30f995876c406757971444a5824af3"
@@ -583,6 +685,34 @@ replacement = '''
 **Gained:** At 10th Level
 
 **Ability:** As a **swift action** you can emit a 30-foot aura that affects all allies with the _liberation_ blessing described above. This effect lasts for 1 round.
+'''
+
+[[resolution]]
+id = "ref/blessing/liberation"
+name = "Greater Liberation (major)"
+occurrence = 1
+span_sha256 = "5d2c97dc368cf624d3e425f6b7dadd9ee63be59632c6c55db43d3278ef875598"
+print = "Healer's Handbook p. 13"
+replacement = '''
+**Greater Liberation (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** When you use the _liberation_ ability of the Liberation blessing, its effects last for 1 minute.
+'''
+
+[[resolution]]
+id = "ref/blessing/liberation"
+name = "Liberation (minor)"
+occurrence = 1
+span_sha256 = "bb3127ad0da2d56c3281ed729f911b882c5a45b8f71541376aa8b7ce1b4eefaa"
+print = "Advanced Class Guide p. 66"
+replacement = '''
+**Liberation (minor)**
+
+**Gained:** At 1st Level
+
+**Ability:** For 1 round as a **swift action**, you can ignore impediments to your mobility and effects that cause [paralysis](ref/rule/paralysis) (as [freedom of movement](ref/spell/freedom-of-movement)). You can activate this blessing even if you're otherwise unable to take actions, but not if you're unconscious.
 '''
 
 [[resolution]]
@@ -617,20 +747,6 @@ replacement = '''
 
 [[resolution]]
 id = "ref/blessing/madness"
-name = "Madness Supremacy (minor)"
-occurrence = 1
-span_sha256 = "9840447d40ea6a0f416eb4e905edd43186677fb660c6879739b41960abadd80d"
-print = "Advanced Class Guide p. 66"
-replacement = '''
-**Madness Supremacy (minor)**
-
-**Gained:** At 1st Level
-
-**Ability:** As a **swift action** you can target a creature within 30 feet that has the [cowering](ref/misc/cowering), [frightened](ref/misc/frightened), [panicked](ref/misc/panicked), or [paralyzed](ref/rule/paralyzed) condition. That condition is suspended for 1 round, and the chosen creature gains the [confused](ref/misc/confused) condition instead. The confused creature rerolls any result other than "attack self" or "attack nearest creature." The round spent confused counts toward the duration of the suspended effect. At the end of the confused round, the suspended condition resumes.
-'''
-
-[[resolution]]
-id = "ref/blessing/madness"
 name = "Control Madness (major)"
 occurrence = 1
 span_sha256 = "dbcbb67ba3f0eeef291b302556f71b4d266e2de02fd4c8679acc5882f2272006"
@@ -644,17 +760,17 @@ replacement = '''
 '''
 
 [[resolution]]
-id = "ref/blessing/magic"
-name = "Hand of the Acolyte (minor)"
+id = "ref/blessing/madness"
+name = "Madness Supremacy (minor)"
 occurrence = 1
-span_sha256 = "6cf804e900ba3b9bcd75bfc76579c0e704a9c8260d326fc034bbd68666874e15"
-print = "Advanced Class Guide p. 67"
+span_sha256 = "9840447d40ea6a0f416eb4e905edd43186677fb660c6879739b41960abadd80d"
+print = "Advanced Class Guide p. 66"
 replacement = '''
-**Hand of the Acolyte (minor)**
+**Madness Supremacy (minor)**
 
 **Gained:** At 1st Level
 
-**Ability:** You can cause your melee weapon to fly from your grasp and strike an opponent, then instantly return to you. You can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Wisdom modifier to the attack roll instead of your Dexterity modifier (you still add your Strength modifier to the damage roll as normal). This ability cannot be used to perform a combat maneuver.
+**Ability:** As a **swift action** you can target a creature within 30 feet that has the [cowering](ref/misc/cowering), [frightened](ref/misc/frightened), [panicked](ref/misc/panicked), or [paralyzed](ref/rule/paralyzed) condition. That condition is suspended for 1 round, and the chosen creature gains the [confused](ref/misc/confused) condition instead. The confused creature rerolls any result other than "attack self" or "attack nearest creature." The round spent confused counts toward the duration of the suspended effect. At the end of the confused round, the suspended condition resumes.
 '''
 
 [[resolution]]
@@ -669,6 +785,20 @@ replacement = '''
 **Gained:** At 10th Level
 
 **Ability:** You can cast a prepared warpriest spell without expending its spell slot. The spell must have a casting time of 1 standard action and must use a spell slot that is at least 3 spell levels lower than the highest warpriest spell level you can cast. In addition, the spell must be one that damages a creature or causes a creature to take penalties (such as [inflict light wounds](ref/spell/inflict-light-wounds) or [bane](ref/spell/bane)). For example, if you are 10th level and can cast 4th-level warpriest spells, you could use this blessing to cast a 1st-level warpriest spell without expending its spell slot.
+'''
+
+[[resolution]]
+id = "ref/blessing/magic"
+name = "Hand of the Acolyte (minor)"
+occurrence = 1
+span_sha256 = "6cf804e900ba3b9bcd75bfc76579c0e704a9c8260d326fc034bbd68666874e15"
+print = "Advanced Class Guide p. 67"
+replacement = '''
+**Hand of the Acolyte (minor)**
+
+**Gained:** At 1st Level
+
+**Ability:** You can cause your melee weapon to fly from your grasp and strike an opponent, then instantly return to you. You can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Wisdom modifier to the attack roll instead of your Dexterity modifier (you still add your Strength modifier to the damage roll as normal). This ability cannot be used to perform a combat maneuver.
 '''
 
 [[resolution]]
@@ -700,6 +830,25 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/blessing/nobility"
+name = "Martyr's Sacrifice (major)"
+occurrence = 1
+span_sha256 = "5629d686b1690773d7486654411e3dd43f2ed1f9d5bd1a6fc1bb0072e9021679"
+print = "Healer's Handbook p. 13"
+replacement = '''
+**Martyr's Sacrifice (major)**
+
+**Gained:** At 10th Level
+
+**Flavor:** Your body can accept wounds meant for others you deem worthy.
+
+**Ability:** You can shoulder the wounds of an ally within 50 feet for 1 minute, and during this time, the ally is affected as if you had cast [shield other](ref/spell/shield-other) on her (except with a range of 50 feet).
+
+**Special:** You can have only one use of this ability active at a time; if you use this major
+blessing again, the previous use immediately expires.
+'''
+
+[[resolution]]
 id = "ref/blessing/plant"
 name = "Creeping Vines (minor)"
 occurrence = 1
@@ -711,6 +860,22 @@ replacement = '''
 **Gained:** At 1st Level
 
 **Ability:** Upon hitting with a melee attack, as a **swift action** you cause the creature you hit to sprout entangling vines that attempt to hold it in place, [entangling](ref/rule/entangled) it for 1 round (Reflex negates).
+'''
+
+[[resolution]]
+id = "ref/blessing/protection"
+name = "Aura of Protection (major)"
+occurrence = 1
+span_sha256 = "da149fd72839457c07dde5c604fb0ac44436fecd43b0d12f939dd67c1375ad54"
+print = "Advanced Class Guide p. 67"
+replacement = '''
+**Aura of Protection (major)**
+
+**Gained:** At 10th Level
+
+**Ability:** You can emit a 30-foot aura of protection for 1 minute. You and your allies within this aura gain [resistance](ref/umr/resistance) 10 against acid, cold, electricity, fire, and sonic.
+
+**At 15th level,** the energy resistance increases to 20.
 '''
 
 [[resolution]]
@@ -732,19 +897,17 @@ replacement = '''
 '''
 
 [[resolution]]
-id = "ref/blessing/protection"
-name = "Aura of Protection (major)"
+id = "ref/blessing/repose"
+name = "Back to the Grave (major)"
 occurrence = 1
-span_sha256 = "da149fd72839457c07dde5c604fb0ac44436fecd43b0d12f939dd67c1375ad54"
+span_sha256 = "177bd8dd6aa25a5d3c30ca15c6a7c9dec1150dd5c5c79549468d3be3c3ef449b"
 print = "Advanced Class Guide p. 67"
 replacement = '''
-**Aura of Protection (major)**
+**Back to the Grave (major)**
 
 **Gained:** At 10th Level
 
-**Ability:** You can emit a 30-foot aura of protection for 1 minute. You and your allies within this aura gain [resistance](ref/umr/resistance) 10 against acid, cold, electricity, fire, and sonic.
-
-**At 15th level,** the energy resistance increases to 20.
+**Ability:** When using [channel energy](ref/ability/channel-energy) to heal living creatures, you can take a **swift action** on that same turn to also deal damage to undead creatures (as your _channel energy_ ability). Undead take an amount of damage equal to half the amount healed, and can attempt the normal saving throw to halve this damage.
 '''
 
 [[resolution]]
@@ -759,20 +922,6 @@ replacement = '''
 **Gained:** At 1st Level
 
 **Ability:** You can fill a living creature with lethargy by hitting it with a melee touch attack, causing it to become [staggered](ref/misc/staggered) for 1 round. If the target is already staggered, it falls asleep for 1 round instead. An undead creature that's touched is staggered for a number of rounds equal to your Wisdom modifier (minimum 1).
-'''
-
-[[resolution]]
-id = "ref/blessing/repose"
-name = "Back to the Grave (major)"
-occurrence = 1
-span_sha256 = "177bd8dd6aa25a5d3c30ca15c6a7c9dec1150dd5c5c79549468d3be3c3ef449b"
-print = "Advanced Class Guide p. 67"
-replacement = '''
-**Back to the Grave (major)**
-
-**Gained:** At 10th Level
-
-**Ability:** When using [channel energy](ref/ability/channel-energy) to heal living creatures, you can take a **swift action** on that same turn to also deal damage to undead creatures (as your _channel energy_ ability). Undead take an amount of damage equal to half the amount healed, and can attempt the normal saving throw to halve this damage.
 '''
 
 [[resolution]]
@@ -987,6 +1136,22 @@ replacement = '''
 
 [[resolution]]
 id = "ref/blessing/war"
+name = "Battle Lust (major)"
+occurrence = 1
+span_sha256 = "4b0b18081ef2a92c6ca9706148b54d6881dfc492adf0792e1cfd7f86ef355924"
+print = "Advanced Class Guide p. 68"
+replacement = '''
+**Battle Lust (major)**
+
+**Gained:** At 10th Level
+
+**Flavor:** You can touch an ally and grant it a thirst for battle.
+
+**Ability:** All of the ally's melee attacks are treated as if they had the [vicious](ref/magic-enh/vicious) weapon special ability, but the additional damage dealt to the ally from that special ability is nonlethal. In addition, the ally receives a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute.
+'''
+
+[[resolution]]
+id = "ref/blessing/war"
 name = "War Mind (minor)"
 occurrence = 1
 span_sha256 = "f59a77273c6345929ca86450237d23d7ba4ee009b831852bffb24b2bca9eb038"
@@ -1000,19 +1165,17 @@ replacement = '''
 '''
 
 [[resolution]]
-id = "ref/blessing/war"
-name = "Battle Lust (major)"
+id = "ref/blessing/water"
+name = "Armor of Ice (major)"
 occurrence = 1
-span_sha256 = "4b0b18081ef2a92c6ca9706148b54d6881dfc492adf0792e1cfd7f86ef355924"
+span_sha256 = "ad0095757cdd4ed48ddc29e590c35e16a3a9f22c05e3e6ccd8c3b3032370aef7"
 print = "Advanced Class Guide p. 68"
 replacement = '''
-**Battle Lust (major)**
+**Armor of Ice (major)**
 
 **Gained:** At 10th Level
 
-**Flavor:** You can touch an ally and grant it a thirst for battle.
-
-**Ability:** All of the ally's melee attacks are treated as if they had the [vicious](ref/magic-enh/vicious) weapon special ability, but the additional damage dealt to the ally from that special ability is nonlethal. In addition, the ally receives a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute.
+**Ability:** You can touch any one ally and wreath it in freezing mist. This works as [fire shield](ref/spell/fire-shield) (chill shield only) with a duration 1 minute.
 '''
 
 [[resolution]]
@@ -1029,20 +1192,6 @@ replacement = '''
 **Flavor:** You can touch one weapon and enhance it with the power of water.
 
 **Ability:** For 1 minute, this weapon glows with a blue-white chill and deals an additional 1d4 points of cold damage with each strike. This additional damage doesn't stack with the additional damage from the [frost](ref/magic-enh/frost) or [icy burst](ref/magic-enh/icy-burst) weapon special abilities.
-'''
-
-[[resolution]]
-id = "ref/blessing/water"
-name = "Armor of Ice (major)"
-occurrence = 1
-span_sha256 = "ad0095757cdd4ed48ddc29e590c35e16a3a9f22c05e3e6ccd8c3b3032370aef7"
-print = "Advanced Class Guide p. 68"
-replacement = '''
-**Armor of Ice (major)**
-
-**Gained:** At 10th Level
-
-**Ability:** You can touch any one ally and wreath it in freezing mist. This works as [fire shield](ref/spell/fire-shield) (chill shield only) with a duration 1 minute.
 '''
 
 [[resolution]]
@@ -1106,6 +1255,46 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/blrgbloodline/fey"
+name = "One with Nature (Su)"
+occurrence = 1
+span_sha256 = "c2974da769f009c8f21794e348a15ff08d3a92d71fe3c21cabe28f4cbb09afb5"
+print = "Advanced Class Guide p. 21"
+replacement = '''
+**One with Nature (Su)**
+
+**Gained:** At 16th Level
+
+**Passive:** Creatures of the animal or plant types don't attack you unless compelled to do so by magic or you attack them first.
+
+**Move:** You can transport yourself from one tree to another tree, as [tree stride](ref/spell/tree-stride) with half the transport range.
+
+You gain these abilities even while not _bloodraging._
+
+**Usage:** Three times a day.
+'''
+
+[[resolution]]
+id = "ref/deed/utility-shot"
+name = "Utility Shot (Ex)"
+occurrence = 1
+span_sha256 = "400f98874be59af4db0bfab6461b1835380917eada645794248027faee1cb5c7"
+print = "Ultimate Combat p. 11"
+replacement = '''
+**Utility Shot (Ex)**
+
+**Ability:** If the gunslinger has at least 1 grit point, she can perform all of the following
+utility shots. Each utility shot can be applied to any single attack with a firearm, but the
+gunslinger must declare the utility shot she is using before firing the shot.
+
+**Prereq:** 3rd-level gunslinger
+
+- **Blast Lock:** The gunslinger makes an attack roll against a lock within the first range increment of her firearm. A Diminutive lock usually has AC 7, and larger locks have a lower AC. The lock gains a bonus to its AC against this attack based on its quality. A simple lock has a +10 bonus to AC, an average lock has a +15 bonus to AC, a good lock has a +20 bonus to AC, and a superior lock has a +30 bonus to AC. [Arcane lock](ref/spell/arcane-lock) grants a +10 bonus to the AC of a lock against this attack. On a hit, the lock is destroyed, and the object can be opened as if it were unlocked. On a miss, the lock is destroyed, but the object is jammed and still considered locked. It can still be unlocked by successfully performing this deed, by using the Disable Device skill, or with the break DC, though the DC for either break or Disable Device or the AC increases by 10. A key, combination, or similar mechanical method of unlocking the lock no longer works, though [knock](ref/spell/knock) can still be employed to bypass the lock, and the creator of an _[arcane lock](ref/spell/arcane-lock)_ can still bypass the wards of that spell.
+- **Scoot Unattended Object:** The gunslinger makes an attack roll against a Tiny or smaller unattended object within the first range increment of her firearm. A Tiny unattended object has an AC of 5, a Diminutive unattended object has an AC of 7, and a Fine unattended object has an AC of 11. On a hit, the gunslinger does not damage the object with the shot, but can move it up to 15 feet farther away from the shot's origin. On a miss, she damages the object normally.
+- **Stop Bleeding:** The gunslinger makes a firearm attack and then presses the hot barrel against herself or an adjacent creature to staunch a bleeding wound. Instead of dealing damage, the shot ends a single [bleed](ref/rule/bleed) condition affecting the creature. The gunslinger does not have to make an attack roll when performing the deed in this way; she can instead shoot the firearm into the air, but that shot still uses up ammunition normally.
+'''
+
+[[resolution]]
 id = "ref/discipline/abomination"
 name = "Psychic Safeguard (Su)"
 occurrence = 1
@@ -1155,22 +1344,6 @@ replacement = '''
 
 [[resolution]]
 id = "ref/discipline/enlightenment"
-name = "Focused Trance (Ex)"
-occurrence = 1
-span_sha256 = "47e9339352671ec8188f68d9996ce3bbcb9ac2658d56b0158d11b5ef5f7e1fda"
-print = "Occult Origins p. 17"
-replacement = '''
-**Focused Trance (Ex)**
-
-**Gained:** At 5th Level
-
-**Ability:** You can enter a deep meditation, allowing you to concentrate on a single problem, philosophical issue, or memory. This trance lasts 1d6 rounds, during which time you can take only move actions and gain a bonus equal to your psychic level on all saves against sonic effects and [gaze](ref/umr/gaze) attacks. When you come out of your trance, you can attempt a single [Appraise](ref/skill/appraise), Knowledge, or [Spellcraft](ref/skill/spellcraft) check with a +20 circumstance bonus.
-
-**Usage:** Wisdom modifier times/day
-'''
-
-[[resolution]]
-id = "ref/discipline/enlightenment"
 name = "Empty Mind (Su)"
 occurrence = 1
 span_sha256 = "3886548468793e7ecc032d166d2a837245ad15fe8e69aa56cf77e0aea2965a0a"
@@ -1187,19 +1360,19 @@ and discomfort.
 '''
 
 [[resolution]]
-id = "ref/discipline/faith"
-name = "Discipline Powers"
+id = "ref/discipline/enlightenment"
+name = "Focused Trance (Ex)"
 occurrence = 1
-span_sha256 = "cd8a06b72dcbf1c65921b41266783c041a7fdd8c8caa89189de3baa4b1af8856"
-print = "Occult Adventures p. 65"
+span_sha256 = "47e9339352671ec8188f68d9996ce3bbcb9ac2658d56b0158d11b5ef5f7e1fda"
+print = "Occult Origins p. 17"
 replacement = '''
-**Discipline Powers**
+**Focused Trance (Ex)**
 
-**Gained:** At 1st Level
+**Gained:** At 5th Level
 
-**Ability:** Choose a deity to worship. Your alignment must remain within one step of your deity's or you lose access to all this discipline's bonus spells and discipline powers.
+**Ability:** You can enter a deep meditation, allowing you to concentrate on a single problem, philosophical issue, or memory. This trance lasts 1d6 rounds, during which time you can take only move actions and gain a bonus equal to your psychic level on all saves against sonic effects and [gaze](ref/umr/gaze) attacks. When you come out of your trance, you can attempt a single [Appraise](ref/skill/appraise), Knowledge, or [Spellcraft](ref/skill/spellcraft) check with a +20 circumstance bonus.
 
-**Description:** Your powers serve to protect or cure you and your allies.
+**Usage:** Wisdom modifier times/day
 '''
 
 [[resolution]]
@@ -1250,22 +1423,6 @@ replacement = '''
 
 [[resolution]]
 id = "ref/discipline/hag-called"
-name = "Deceptive Shapes (Su)"
-occurrence = 1
-span_sha256 = "12d11a90488067ea9ecf9cf90f9889fa6ff549c0cdbba2abc8321a6d61ac0588"
-print = "Blood of the Coven p. 23"
-replacement = '''
-**Deceptive Shapes (Su)**
-
-**Gained:** At 5th Level
-
-**Flavor:** You learn the hag's art of concealing your true face to get what you want.
-
-**Ability:** You can change into any Small or Medium humanoid at will as [alter self](ref/spell/alter-self), though you don't gain any special abilities or ability score adjustments. You can't replicate a specific person using this ability.
-'''
-
-[[resolution]]
-id = "ref/discipline/hag-called"
 name = "Curse Mastery (Sp)"
 occurrence = 1
 span_sha256 = "fab39296ca1e94c3d894a6167ba7d221a9781551f30df391d638a5a740808651"
@@ -1281,20 +1438,19 @@ replacement = '''
 '''
 
 [[resolution]]
-id = "ref/discipline/haunted"
-name = "Spiritual Bulwark (Su)"
+id = "ref/discipline/hag-called"
+name = "Deceptive Shapes (Su)"
 occurrence = 1
-span_sha256 = "fa979c6c1c524b54c8dee8b4ad187fee4f7ab4055335e823333c890e16ebdb33"
-print = "Haunted Heroes Handbook p. 19"
+span_sha256 = "12d11a90488067ea9ecf9cf90f9889fa6ff549c0cdbba2abc8321a6d61ac0588"
+print = "Blood of the Coven p. 23"
 replacement = '''
-**Spiritual Bulwark (Su)**
+**Deceptive Shapes (Su)**
 
 **Gained:** At 5th Level
 
-**Flavor:** You develop a deeper attachment to your lingering spirits, and learn to rely on their
-presence as protection from external spiritual attacks.
+**Flavor:** You learn the hag's art of concealing your true face to get what you want.
 
-**Ability:** You gain a bonus equal to your Charisma modifier on saving throws against effects generated by haunts, incorporeal undead, incorporeal outsiders, and on saving throws against possession attempts.
+**Ability:** You can change into any Small or Medium humanoid at will as [alter self](ref/spell/alter-self), though you don't gain any special abilities or ability score adjustments. You can't replicate a specific person using this ability.
 '''
 
 [[resolution]]
@@ -1315,6 +1471,23 @@ creatures.
 
 **Special:** When you use a mind-affecting effect that deals damage against a possessed creature,
 the possessing entity takes a -4 penalty on the saving throw against the mind-affecting attack.
+'''
+
+[[resolution]]
+id = "ref/discipline/haunted"
+name = "Spiritual Bulwark (Su)"
+occurrence = 1
+span_sha256 = "fa979c6c1c524b54c8dee8b4ad187fee4f7ab4055335e823333c890e16ebdb33"
+print = "Haunted Heroes Handbook p. 19"
+replacement = '''
+**Spiritual Bulwark (Su)**
+
+**Gained:** At 5th Level
+
+**Flavor:** You develop a deeper attachment to your lingering spirits, and learn to rely on their
+presence as protection from external spiritual attacks.
+
+**Ability:** You gain a bonus equal to your Charisma modifier on saving throws against effects generated by haunts, incorporeal undead, incorporeal outsiders, and on saving throws against possession attempts.
 '''
 
 [[resolution]]
@@ -1402,20 +1575,6 @@ replacement = '''
 
 [[resolution]]
 id = "ref/discipline/pain"
-name = "Live On (Sp)"
-occurrence = 1
-span_sha256 = "16bde0b3c5b13bd9bd28e7cc616fec425fc326e7fe75425d9794c6939c558113"
-print = "Occult Adventures p. 67"
-replacement = '''
-**Live On (Sp)**
-
-**Gained:** At 5th Level
-
-**Ability:** You can use [lay on hands](ref/ability/lay-on-hands) as though you were a [paladin](ref/class/paladin) of 3 levels lower than your psychic level. You also gain access to mercies as though you were a paladin of 3 levels lower than your psychic level. You can target only yourself with _lay on hands_ or _mercies_ gained from this discipline. This stacks with _lay on hands_ abilities gained from other sources.
-'''
-
-[[resolution]]
-id = "ref/discipline/pain"
 name = "Agonizing Wound (Su)"
 occurrence = 1
 span_sha256 = "10296fa525fa7a23a9b90b0dce5330cd8638833517edce59ca1f2ca99364e4fb"
@@ -1433,19 +1592,17 @@ replacement = '''
 '''
 
 [[resolution]]
-id = "ref/discipline/psychedelia"
-name = "Warped Brain (Su)"
+id = "ref/discipline/pain"
+name = "Live On (Sp)"
 occurrence = 1
-span_sha256 = "1151d8a9c358f0529ed49c45e7188bc9cb3f1967063649838efd0b7a3fb7b2dd"
-print = "Occult Adventures p. 68"
+span_sha256 = "16bde0b3c5b13bd9bd28e7cc616fec425fc326e7fe75425d9794c6939c558113"
+print = "Occult Adventures p. 67"
 replacement = '''
-**Warped Brain (Su)**
+**Live On (Sp)**
 
 **Gained:** At 5th Level
 
-**Flavor:** Your mind becomes difficult to comprehend.
-
-**Ability:** When another creature uses a mind-affecting spell or ability against you, that creature must attempt a Will save. If it fails, it becomes [nauseated](ref/misc/nauseated) for 1 round. This ability triggers even if you succeed at your save (or are otherwise unaffected by the spell or ability), but doesn't apply if you're a willing subject of the spell. This is a mind-affecting effect.
+**Ability:** You can use [lay on hands](ref/ability/lay-on-hands) as though you were a [paladin](ref/class/paladin) of 3 levels lower than your psychic level. You also gain access to mercies as though you were a paladin of 3 levels lower than your psychic level. You can target only yourself with _lay on hands_ or _mercies_ gained from this discipline. This stacks with _lay on hands_ abilities gained from other sources.
 '''
 
 [[resolution]]
@@ -1469,6 +1626,22 @@ effects last for 1 month.
 '''
 
 [[resolution]]
+id = "ref/discipline/psychedelia"
+name = "Warped Brain (Su)"
+occurrence = 1
+span_sha256 = "1151d8a9c358f0529ed49c45e7188bc9cb3f1967063649838efd0b7a3fb7b2dd"
+print = "Occult Adventures p. 68"
+replacement = '''
+**Warped Brain (Su)**
+
+**Gained:** At 5th Level
+
+**Flavor:** Your mind becomes difficult to comprehend.
+
+**Ability:** When another creature uses a mind-affecting spell or ability against you, that creature must attempt a Will save. If it fails, it becomes [nauseated](ref/misc/nauseated) for 1 round. This ability triggers even if you succeed at your save (or are otherwise unaffected by the spell or ability), but doesn't apply if you're a willing subject of the spell. This is a mind-affecting effect.
+'''
+
+[[resolution]]
 id = "ref/discipline/rapport"
 name = "Share Memory (Sp)"
 occurrence = 1
@@ -1480,22 +1653,6 @@ replacement = '''
 **Gained:** At 5th Level
 
 **Ability:** You can use [share memory](ref/spell/share-memory) at will, but only with a willing target.
-'''
-
-[[resolution]]
-id = "ref/discipline/rapport"
-name = "Team Player (Ex)"
-occurrence = 1
-span_sha256 = "48e4acdee6343816ee660e289caeb3767245d46c7d7d95e3de45c05b759149ba"
-print = "Occult Adventures p. 68"
-replacement = '''
-**Team Player (Ex)**
-
-**Gained:** At 5th Level
-
-**Ability:** You gain a bonus teamwork feat.
-
-**At 13th level,** you gain another bonus teamwork feat.
 '''
 
 [[resolution]]
@@ -1520,6 +1677,36 @@ unless modified by an archetype.
 '''
 
 [[resolution]]
+id = "ref/discipline/rapport"
+name = "Team Player (Ex)"
+occurrence = 1
+span_sha256 = "48e4acdee6343816ee660e289caeb3767245d46c7d7d95e3de45c05b759149ba"
+print = "Occult Adventures p. 68"
+replacement = '''
+**Team Player (Ex)**
+
+**Gained:** At 5th Level
+
+**Ability:** You gain a bonus teamwork feat.
+
+**At 13th level,** you gain another bonus teamwork feat.
+'''
+
+[[resolution]]
+id = "ref/discipline/rebirth"
+name = "Physical Regression (Sp)"
+occurrence = 1
+span_sha256 = "1ea987c448da01264a124a1234ebb715e50630967873ca9af5984172cabdbc25"
+print = "Occult Origins p. 17"
+replacement = '''
+**Physical Regression (Sp)**
+
+**Gained:** At 13th Level
+
+**Ability:** You can spend 2 points from your phrenic pool as a **standard action** once per day to take on the form of one of your previous incarnations. This ability functions as the [polymorph](ref/spell/polymorph) spell, but its range is personal and its duration becomes 10 minutes per caster level.
+'''
+
+[[resolution]]
 id = "ref/discipline/rebirth"
 name = "Resurgence (Su)"
 occurrence = 1
@@ -1541,17 +1728,17 @@ taken, you erupt with positive energy and heal all allies within 30-foot-radius
 '''
 
 [[resolution]]
-id = "ref/discipline/rebirth"
-name = "Physical Regression (Sp)"
+id = "ref/discipline/rivethun"
+name = "Greater Spirit Channeling (Su)"
 occurrence = 1
-span_sha256 = "1ea987c448da01264a124a1234ebb715e50630967873ca9af5984172cabdbc25"
-print = "Occult Origins p. 17"
+span_sha256 = "d74598eb8587d4b7f93b94abcee578214a364f5315f0762885f05131b8c02527"
+print = "Adventurer's Guide p. 168"
 replacement = '''
-**Physical Regression (Sp)**
+**Greater Spirit Channeling (Su)**
 
 **Gained:** At 13th Level
 
-**Ability:** You can spend 2 points from your phrenic pool as a **standard action** once per day to take on the form of one of your previous incarnations. This ability functions as the [polymorph](ref/spell/polymorph) spell, but its range is personal and its duration becomes 10 minutes per caster level.
+**Ability:** When you open your body to a wandering spirit, you also gain that wandering spirit's _greater spirit ability_ as long as you are in a metamorphosed form.
 '''
 
 [[resolution]]
@@ -1572,20 +1759,6 @@ around you.
 '''
 
 [[resolution]]
-id = "ref/discipline/rivethun"
-name = "Greater Spirit Channeling (Su)"
-occurrence = 1
-span_sha256 = "d74598eb8587d4b7f93b94abcee578214a364f5315f0762885f05131b8c02527"
-print = "Adventurer's Guide p. 168"
-replacement = '''
-**Greater Spirit Channeling (Su)**
-
-**Gained:** At 13th Level
-
-**Ability:** When you open your body to a wandering spirit, you also gain that wandering spirit's _greater spirit ability_ as long as you are in a metamorphosed form.
-'''
-
-[[resolution]]
 id = "ref/discipline/self-perfection"
 name = "Pure Body (Ex)"
 occurrence = 1
@@ -1597,6 +1770,22 @@ replacement = '''
 **Gained:** At 13th Level
 
 **Ability:** You gain immunity to diseases and poisons.
+'''
+
+[[resolution]]
+id = "ref/discipline/shadow"
+name = "Adumbration (Su)"
+occurrence = 1
+span_sha256 = "90138d14ecf44071a63d543dd6481c75f4f1bc50a58cefd900a585784d28b5d8"
+print = "Blood of Shadows p. 17"
+replacement = '''
+**Adumbration (Su)**
+
+**Gained:** At 13th Level
+
+**Flavor:** Shadows move to conceal you.
+
+**Ability:** You gain a bonus on [Stealth](ref/skill/stealth) checks equal to half your level. In addition, you can use the Stealth skill even while being observed and without [cover](ref/rule/cover) or concealment, as long as you are within 10 feet of a shadow other than your own. You gain no benefit from adumbration in areas of [bright light](ref/rule/vision-and-light).
 '''
 
 [[resolution]]
@@ -1617,19 +1806,21 @@ enemies.
 '''
 
 [[resolution]]
-id = "ref/discipline/shadow"
-name = "Adumbration (Su)"
+id = "ref/discipline/sorrow"
+name = "Fortress of Sorrow (Sp)"
 occurrence = 1
-span_sha256 = "90138d14ecf44071a63d543dd6481c75f4f1bc50a58cefd900a585784d28b5d8"
-print = "Blood of Shadows p. 17"
+span_sha256 = "0887e9de4ea05bfa3fe36a7d02302c384a24f00c2085a3eeff00b34b5a655888"
+print = "Legacy of the First World p. 22"
 replacement = '''
-**Adumbration (Su)**
+**Fortress of Sorrow (Sp)**
 
 **Gained:** At 13th Level
 
-**Flavor:** Shadows move to conceal you.
+**Ability:** You can mentally construct an extraplanar retreat on the [Astral Plane](ref/rule/astral-plane). This ability functions as [lesser create demiplane](ref/spell/create-demiplane-lesser) with a caster level equal to your psychic level, with the following adjustments: you need no focus to create the _fortress of sorrow;_ the demiplane is permanent until dismissed by you; you cannot create more than one demiplane with this ability or add to the plane's area by casting the spell again; the light level on the demiplane is dim, though light sources affect it normally; and you cannot bring other creatures to your demiplane.
 
-**Ability:** You gain a bonus on [Stealth](ref/skill/stealth) checks equal to half your level. In addition, you can use the Stealth skill even while being observed and without [cover](ref/rule/cover) or concealment, as long as you are within 10 feet of a shadow other than your own. You gain no benefit from adumbration in areas of [bright light](ref/rule/vision-and-light).
+**Usage:** Once per day, you can enter your demiplane (as [plane shift](ref/spell/plane-shift)), and
+once per day, you can return in a similar manner, arriving at the same spot you left from (or the
+nearest available space).
 '''
 
 [[resolution]]
@@ -1646,24 +1837,6 @@ replacement = '''
 **Ability:** By expending 1 use of your _despair_ ability as a **standard action**, you can project a strong feeling of dejection. All creatures within 30 feet of you must succeed at a Will save or take a penalty on attack rolls, saves against fear effects, and skill checks for 1d4 minutes. The penalty is equal to (but doesn't stack with) the penalty provided by your _despair_ ability. The DC of the saving throw equals 10 + half your psychic level + your Charisma modifier.
 
 **Special:** You're immune to your own _wave of gloom._ This is a mind-affecting emotion effect.
-'''
-
-[[resolution]]
-id = "ref/discipline/sorrow"
-name = "Fortress of Sorrow (Sp)"
-occurrence = 1
-span_sha256 = "0887e9de4ea05bfa3fe36a7d02302c384a24f00c2085a3eeff00b34b5a655888"
-print = "Legacy of the First World p. 22"
-replacement = '''
-**Fortress of Sorrow (Sp)**
-
-**Gained:** At 13th Level
-
-**Ability:** You can mentally construct an extraplanar retreat on the [Astral Plane](ref/rule/astral-plane). This ability functions as [lesser create demiplane](ref/spell/create-demiplane-lesser) with a caster level equal to your psychic level, with the following adjustments: you need no focus to create the _fortress of sorrow;_ the demiplane is permanent until dismissed by you; you cannot create more than one demiplane with this ability or add to the plane's area by casting the spell again; the light level on the demiplane is dim, though light sources affect it normally; and you cannot bring other creatures to your demiplane.
-
-**Usage:** Once per day, you can enter your demiplane (as [plane shift](ref/spell/plane-shift)), and
-once per day, you can return in a similar manner, arriving at the same spot you left from (or the
-nearest available space).
 '''
 
 [[resolution]]
@@ -1719,6 +1892,81 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/discipline/warp"
+name = "Sidestep (Su)"
+occurrence = 1
+span_sha256 = "84c3ae3ab81302d8957cf2d946b18f1e85f2346863042ec0b9fb04f7584ef164"
+print = "Blood of the Beast p. 23"
+replacement = '''
+**Sidestep (Su)**
+
+**Gained:** At 13th Level
+
+**Flavor:** You can push your way through holes in reality, crossing vast distances in a single
+stride.
+
+**Ability:** You can teleport up to 10 feet per psychic level per day as a **move action**. This teleportation must be used in 5-foot increments and such movement does not provoke attacks of opportunity. You must have line of sight to your destination to use this ability. You can bring other willing creatures with you, but you must expend an equal amount of distance for each creature transported.
+'''
+
+[[resolution]]
+id = "ref/discipline/warp"
+name = "Turn Aside (Su)"
+occurrence = 1
+span_sha256 = "f6e3b2774d17aa656260f988e22eded735378cab74b73894d8d93914b33a554a"
+print = "Blood of the Beast p. 23"
+replacement = '''
+**Turn Aside (Su)**
+
+**Gained:** At 5th Level
+
+**Flavor:** You can compress or inflate enough space around you to turn aside ranged attacks.
+
+**Ability:** You gain [Deflect Arrows](ref/feat/deflect-arrows) as a bonus feat. You can expend 1 point from your phrenic pool as an **immediate action** to gain a +4 deflection bonus against a single ranged attack.
+'''
+
+[[resolution]]
+id = "ref/discovery/parasitic-twin"
+name = "Parasitic Twin"
+occurrence = 1
+span_sha256 = "a41540a0793b8226b75b29bfc020f68409bc27f08fadcd9f4f248227c9cef989"
+print = "Ultimate Magic p. 16"
+replacement = '''
+**Parasitic Twin**
+
+**Ability:** The alchemist's vestigial limbs are part of a _parasitic twin_ on his torso, consisting of a head, a torso, and two arms (from the _vestigial arm_ discovery).
+
+Normally, the twin is mostly recessed within the alchemist's body, with the visible arms acting like
+the _vestigial arm_ discovery, though the alchemist can manifest or hide the twin as a **standard
+action**. The twin is helpless, fully subservient to the alchemist, and cannot be targeted or
+harmed.
+
+Once per day, if the alchemist succumbs to a mental effect that would make him unconscious, helpless, or not in control of his own actions (such as [charm person](ref/spell/charm-person), [feeblemind](ref/spell/feeblemind), or [hold person](ref/spell/hold-person)), he can reroll his saving throw; success means the twin absorbs the effect and the alchemist can ignore it. Using this ability [sickens](ref/misc/sickened) the alchemist for the duration of the absorbed effect (removing the effect from the twin ends the sickened condition), and he cannot use the twin's limbs during that time, though passive effects (such as from rings worn on the vestigial limbs) continue normally.
+
+**Prereq:** Taken the [vestigial arm](ref/discovery/vestigial-arm) discovery twice
+'''
+
+[[resolution]]
+id = "ref/domain/charm"
+name = "Entrancing Aura (Su)"
+occurrence = 1
+span_sha256 = "29d12fe1ba81a4a9465418afe1d773255104822044401a154c92b9063e3d4a1e"
+print = "Divine Anthology p. 23"
+replacement = '''
+**Entrancing Aura (Su)**
+
+**Standard:** You can emit an imperceptible 30-foot aura of distraction. Enemies within this aura
+take a -5 penalty on Perception checks and are treated as though they had 2 fewer Hit Dice (minimum
+1 Hit Die) for the purpose of your effects that would give them the
+[fascinated](ref/misc/fascinated) condition.
+
+**Usage:** 1 time/day per cleric level
+
+**At 16th level,** enemies are instead treated as if they had 3 fewer Hit Dice for such effects.
+
+**Replaces:** The charming smile power of the Charm domain
+'''
+
+[[resolution]]
 id = "ref/domain/earth"
 name = "Acid Resistance (Ex)"
 occurrence = 1
@@ -1752,6 +2000,60 @@ replacement = '''
 **At 12th level,** your resistance increases to 20.
 
 **At 20th level,** you gain [immunity](ref/umr/immunity) to fire.
+'''
+
+[[resolution]]
+id = "ref/domain/liberation"
+name = "Perfected Form (Su)"
+occurrence = 1
+span_sha256 = "7dcaea346eeede02c89fbd4be88bcb60b0158e77321f8e9d98ea73c3a0060dd1"
+print = "Divine Anthology p. 26"
+replacement = '''
+**Perfected Form (Su)**
+
+**Flavor:** You maintain an unshakable sense of who you are, and no force can compel you to be anything else.
+
+**Passive:** You gain a +1 sacred (if your patron is good or neutral) or profane (if your patron is evil) bonus on saving throws against polymorph, petrification, and transmutation effects. This bonus increases by 1 for every 5 cleric levels you have (maximum +5).
+
+**Immediate:** Once per day when you succeed at a saving throw against such an effect, you can gain a surge of self-confidence that grants you a number of [temporary hit points](ref/rule/temporary-hit-points) equal to your cleric level and a +2 morale bonus on attack rolls, skill checks, and saving throws; both effects last for 1 minute.
+
+**Replaces:** The liberation power of the Liberation domain
+'''
+
+[[resolution]]
+id = "ref/domain/nobility"
+name = "Noble Visage (Su)"
+occurrence = 1
+span_sha256 = "423d40e073abb7b7c71be43b2a9afcfaf89df2a499c3f1b4a5393d7e76cc27f0"
+print = "Champions of Balance p. 16"
+replacement = '''
+**Noble Visage (Su)**
+
+**Passive:** You gain a +1 bonus on Charisma checks and Charisma-based skill checks against creatures that share your creature type (and subtype, if you are a humanoid). This bonus increases by 1 for every 5 levels you possess.
+
+**Standard:** You can touch an ally to grant her your noble visage bonus against creatures that share her creature type (or subtype) for 1 minute. When you use this ability, you lose your noble visage bonus for 1 minute.
+
+**Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The inspiring word ability of the Nobility domain
+'''
+
+[[resolution]]
+id = "ref/domain/strength"
+name = "Perfected Form (Su)"
+occurrence = 1
+span_sha256 = "76fe865cf79999374a2e6b21c01f5259ec5a8cb50ecb0a98807697148eeba743"
+print = "Divine Anthology p. 26"
+replacement = '''
+**Perfected Form (Su)**
+
+**Flavor:** You maintain an unshakable sense of who you are, and no force can compel you to be anything else.
+
+**Passive:** You gain a +1 sacred (if your patron is good or neutral) or profane (if your patron is evil) bonus on saving throws against polymorph, petrification, and transmutation effects. This bonus increases by 1 for every 5 cleric levels you have (maximum +5).
+
+**Immediate:** Once per day when you succeed at a saving throw against such an effect, you can gain a surge of self-confidence that grants you a number of [temporary hit points](ref/rule/temporary-hit-points) equal to your cleric level and a +2 morale bonus on attack rolls, skill checks, and saving throws; both effects last for 1 minute.
+
+**Replaces:** The strength surge ability of the Strength domain
 '''
 
 [[resolution]]
@@ -1892,539 +2194,6 @@ replacement = '''
 '''
 
 [[resolution]]
-id = "ref/eidolon/aberrant"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "d76ad56d67533829133855266dfd8623b9b77fb3399421a3895308940f35085b"
-print = "Horror Realms p. 18"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Aberrant eidolons gain the following class skills in place of those normally gained by eidolons: [Escape Artist](ref/skill/escape-artist); [Intimidate](ref/skill/intimidate); [Knowledge](ref/skill/knowledge-all) (pick one); [Perception](ref/skill/perception); [Stealth](ref/skill/stealth); and [Climb](ref/skill/climb), [Fly](ref/skill/fly), or [Swim](ref/skill/swim) (pick one). The summoner can choose four additional skills to be class skills for his eidolon. Aberrant eidolons count as both aberrations and outsiders for spells and effects. They gain a +4 racial bonus on saving throws against mind-affecting effects.
-
-**At 4th level,** aberrant eidolons add 1 point to their evolution pools.
-
-**At 8th level,** aberrant eidolons gain immunity to mind-affecting effects (including morale bonuses).
-
-**At 12th level,** aberrant eidolons gain DR 5/slashing. They also gain the [blindsense](ref/unchevolution/blindsense) evolution as a bonus evolution.
-
-**At 16th level,** aberrant eidolons gain the [blindsight](ref/unchevolution/blindsight) evolution. They also gain [telepathy](ref/umr/telepathy) with a range of up to 100 feet.
-
-**At 20th level,** aberrant eidolons gain the ability to use [transmogrify](ref/spell/transmogrify) as a [quickened spell-like ability](ref/feat/quicken-spell-like-ability) once per day. These eidolons can gain the benefit of a _[transmogrify](ref/spell/transmogrify)_ spell any number of times per day.
-'''
-
-[[resolution]]
-id = "ref/eidolon/agathion"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "ac0c56c2208953cf3baf3f7e60a31d548a643b0fc68640f4b2298e8a9b743298"
-print = "Pathfinder Unchained p. 29"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Agathion eidolons gain the [resistance](ref/unchevolution/resistance) (electricity) evolution. They also gain a +4 bonus on saving throws against poison and petrification.
-
-**At 4th level,** agathion eidolons gain cold _resistance_ 10 and sonic _resistance_ 10.
-
-**At 8th level,** agathion eidolons gain [lay on hands](ref/ability/lay-on-hands) as paladins with levels equal to their Hit Dice.
-
-**At 12th level,** agathion eidolons gain DR 5/evil. They also gain immunity to petrification and the _truespeech_ ability (see the [agathion creature subtype](ref/subtype/agathion)).
-
-**At 16th level,** agathion eidolons lose the _resistance_ (electricity) evolution, and instead gain the [immunity](ref/unchevolution/immunity) (electricity) evolution. They also gain the agathion's _[speak with animals](ref/spell/speak-with-animals)_ ability (see the agathion creature subtype).
-
-**At 20th level,** agathion eidolons gain [detect thoughts](ref/spell/detect-thoughts) as a [spell-like ability](ref/umr/spell-like-abilities) at will and also increase their [damage reduction](ref/rule/damage-reduction) to DR 10/evil.
-'''
-
-[[resolution]]
-id = "ref/eidolon/angel"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "c49eb4a79562aeb074e9e1634024267745d83285bb883c24befd00bf0aa3ae78"
-print = "Pathfinder Unchained p. 29"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Angel eidolons gain the [resistance](ref/unchevolution/resistance) (acid) and _resistance_ (cold) evolutions. They also gain a +4 bonus on saving throws against poison.
-
-**At 4th level,** angel eidolons gain electricity _resistance_ 10 and fire _resistance_ 10.
-
-**At 8th level,** angel eidolons grow large, feathery wings, gaining the [flight](ref/unchevolution/flight) evolution.
-
-**At 12th level,** angel eidolons gain DR 5/evil. They also gain immunity to petrification and the _truespeech_ ability (see the [angel creature subtype](ref/subtype/angel)).
-
-**At 16th level,** angel eidolons lose the _resistance_ (acid) and _resistance_ (cold) evolutions, and instead gain the [immunity](ref/unchevolution/immunity) (acid) and _[immunity](ref/carried/bestiary/rules/universal-monster-rules/immunity)_ (cold) evolutions.
-
-**At 20th level,** angel eidolons gain the _protective aura_ ability (see the angel creature subtype).
-'''
-
-[[resolution]]
-id = "ref/eidolon/archon"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "21fe7d5ffdc2ead20625ddbbacf30248b5922538c0f9d0a26d0bd9f39a589e01"
-print = "Pathfinder Unchained p. 29"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Archon eidolons gain the [resistance](ref/unchevolution/resistance) (electricity) evolution and the [skilled](ref/unchevolution/skilled) (Intimidate) evolution. They also gain a +4 bonus on saving throws against poison.
-
-**At 4th level,** archon eidolons add 1 point to their evolution pools.
-
-**At 8th level,** archon eidolons gain the [ability increase](ref/unchevolution/ability-increase) evolution, applied to an ability score the summoner chooses.
-
-**At 12th level,** archon eidolons gain DR 5/evil. They also gain immunity to petrification and the _truespeech_ ability (see the [archon creature subtype](ref/subtype/archon)).
-
-**At 16th level,** archon eidolons lose the _resistance_ (electricity) evolution and skilled (Intimidate) evolution, and instead gain the [immunity](ref/unchevolution/immunity) (electricity) evolution. In addition, they gain the _aura of menace_ ability (see the archon creature subtype).
-
-**At 20th level,** archon eidolons gain the ability to use [greater teleport](ref/spell/teleport-greater) at will, as the spell (caster level 14th), except they can teleport only themselves and up to 50 pounds of carried objects.
-'''
-
-[[resolution]]
-id = "ref/eidolon/azata"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "16de32c4541e22886b198d0effd4e72f9910d6706bff860fedd68e98155caefd"
-print = "Pathfinder Unchained p. 29"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Azata eidolons gain the [resistance](ref/unchevolution/resistance) (electricity) evolution and the 4-point [weapon training](ref/unchevolution/weapon-training) evolution (proficiency in martial weapons).
-
-**At 4th level,** azata eidolons gain cold _resistance_ 10 and fire _resistance_ 10.
-
-**At 8th level,** azata eidolons grow large, feathery wings, gaining the [flight](ref/unchevolution/flight) evolution.
-
-**At 12th level,** azata eidolons gain DR 5/evil. They also gain immunity to petrification and the _truespeech_ ability (see the [azata creature subtype](ref/subtype/azata)).
-
-**At 16th level,** azata eidolons lose the _resistance_ (electricity) evolution, and instead gain the [immunity](ref/unchevolution/immunity) (electricity) evolution. They also gain the [ability increase](ref/unchevolution/ability-increase) evolution, applied to an ability score of the summoner's choice.
-
-**At 20th level,** an azata eidolon gains the ability to switch between its normal form and an energy form as a **standard action**. In its energy form, an azata eidolon is incorporeal and doubles its fly speed, but it can't make natural or manufactured weapon attacks; it can, however, activate any _[spell-like ability](ref/umr/spell-like-abilities)_ evolutions it possesses.
-'''
-
-[[resolution]]
-id = "ref/eidolon/daemon"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "fff28e0f0b9ccb306be53207a695276d812629a318c3133d015fd8728d7accda"
-print = "Pathfinder Unchained p. 30"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Daemon eidolons gain the [resistance](ref/unchevolution/resistance) (acid) evolution as well as a +4 bonus on saving throws against death effects, disease, and poison.
-
-**At 4th level,** daemon eidolons gain cold _resistance_ 10, electricity _resistance_ 10, and fire _resistance_ 10.
-
-**At 8th level,** daemon eidolons add 1 point to their evolution pools.
-
-**At 12th level,** daemon eidolons gain DR 5/good. They also gain immunity to death effects, disease, and poison.
-
-**At 16th level,** daemon eidolons lose the _resistance_ (acid) evolution, and instead gain the [immunity](ref/unchevolution/immunity) (acid) evolution. They also gain [telepathy](ref/umr/telepathy).
-
-**At 20th level,** as a **standard action**, a daemon eidolon can devour a portion of the soul of a dying creature or a creature that died no earlier than 1 round ago. This kills the creature and provides the daemon eidolon a profane bonus on attack rolls, saving throws, and skill checks for 24 hours. The bonus is equal to +1 per 5 Hit Dice the slain creature possessed. A creature whose soul was devoured in this way requires [resurrection](ref/spell/resurrection) or more powerful magic to return from the dead.
-'''
-
-[[resolution]]
-id = "ref/eidolon/deepwater"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "d9407844ff07e53b0da902765079b743dae717a1e613b67496811c7bf6e58c39"
-print = "Blood of the Sea p. 23"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Deepwater eidolons gain the [gills](ref/unchevolution/gills), [resistance](ref/unchevolution/resistance) (cold), and [swim](ref/unchevolution/swim) evolutions.
-
-**At 4th level,** deepwater eidolons gain the [jet](ref/umr/jet) ability at a speed of 200 feet and increase the range of their [darkvision](ref/rule/darkvision) to 120 feet.
-
-**At 8th level,** deepwater eidolons gain the [poison](ref/unchevolution/poison) evolution for all tail slap and tentacle attacks, although the poison can be used only once per round. The summoner can spend 2 evolution points to make this poison deal [Constitution damage](ref/rule/ability-damage-drain) instead of Strength damage, as normal for the poison evolution.
-
-**At 12th level,** deepwater eidolons gain DR 5/magic. They also gain the [rend](ref/unchevolution/rend) evolution for tentacle attacks rather than claw attacks.
-
-**At 16th level,** deepwater eidolons lose the _resistance_ (cold) evolution and instead gain the [immunity](ref/unchevolution/immunity) (cold) evolution.
-
-**At 20th level,** deepwater eidolons gain constant [freedom of movement](ref/spell/freedom-of-movement) and [fast healing](ref/umr/fast-healing) 5.
-'''
-
-[[resolution]]
-id = "ref/eidolon/demon"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "efdf4cad6e68b9af894c13df5d3fee3d30bb698596d310fe49d294a09290a4e3"
-print = "Pathfinder Unchained p. 31"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Demon eidolons gain the [resistance](ref/unchevolution/resistance) (electricity) and _resistance_ (fire) evolutions as well as a +4 bonus on saving throws against poison.
-
-**At 4th level,** demon eidolons gain acid _resistance_ 10 and cold _resistance_ 10.
-
-**At 8th level,** demon eidolons lose the +4 bonus on saving throws against poison and gain immunity to poison. They also add 1 point to their evolution pools.
-
-**At 12th level,** demon eidolons gain DR 5/good. They also gain the [ability increase](ref/unchevolution/ability-increase) evolution in an ability score of the summoner's choice.
-
-**At 16th level,** demon eidolons lose the _resistance_ (electricity) evolution, and instead gain the [immunity](ref/unchevolution/immunity) (electricity) evolution. They also gain [telepathy](ref/umr/telepathy).
-
-**At 20th level,** demon eidolons gain [true seeing](ref/spell/true-seeing) as a constant [spell-like ability](ref/umr/spell-like-abilities).
-'''
-
-[[resolution]]
-id = "ref/eidolon/devil"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "771e539bb1016b9ad9302abda8ed6f23f62783701268d6a8bfaba61520a33668"
-print = "Pathfinder Unchained p. 31"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Devil eidolons gain the [resistance](ref/unchevolution/resistance) (fire) evolution and the [skilled](ref/unchevolution/skilled) (Bluff) evolution. They also gain a +4 bonus on saving throws against poison.
-
-**At 4th level,** devil eidolons gain acid _resistance_ 10 and cold _resistance_ 10.
-
-**At 8th level,** devil eidolons gain the _skilled_ (Diplomacy) evolution and gain immunity to poison.
-
-**At 12th level,** devil eidolons gain DR 5/good. They also gain _[see in darkness](ref/carried/bestiary/rules/universal-monster-rules/see-in-darkness)_ (see the [devil creature subtype](ref/subtype/devil)).
-
-**At 16th level,** devil eidolons lose the _resistance_ (fire) evolution, and instead gain the [immunity](ref/unchevolution/immunity) (fire) evolution. They also gain [telepathy](ref/umr/telepathy).
-
-**At 20th level,** devil eidolons gain regeneration 5 (good weapons, good spells). They are still banished to Hell as normal for eidolons if they take enough damage.
-'''
-
-[[resolution]]
-id = "ref/eidolon/div"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "b581b2f423e0e0b9abd7e6e78793c00c79cbea0be1a164f57df7db4d36f11144"
-print = "Pathfinder Unchained p. 32"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Div eidolons gain the [resistance](ref/unchevolution/resistance) (fire) evolution. They also gain a +4 bonus on saving throws against poison.
-
-**At 4th level,** div eidolons gain acid _resistance_ 10 and electricity _resistance_ 10.
-
-**At 8th level,** div eidolons add 1 point to their evolution pools and immunity to poison.
-
-**At 12th level,** div eidolons gain DR 5/good. They also gain _[see in darkness](ref/carried/bestiary/rules/universal-monster-rules/see-in-darkness)_ (see the [div creature subtype](ref/subtype/div)).
-
-**At 16th level,** div eidolons lose the _resistance_ (fire) evolution, and instead gain the [immunity](ref/unchevolution/immunity) (fire) evolution. They also gain [telepathy](ref/umr/telepathy).
-
-**At 20th level,** div eidolons gain the ability to use [greater teleport](ref/spell/teleport-greater) at will, as per the spell (caster level 14th), except they can teleport only themselves and up to 50 pounds of carried objects.
-'''
-
-[[resolution]]
-id = "ref/eidolon/elemental"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "035c9d5ad43268cefb8408f4ac31e410e0f5d04b9ab5b3f7414cfce4d073999e"
-print = "Pathfinder Unchained p. 32"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** All elemental eidolons gain immunity to paralysis and sleep. In addition, air elemental eidolons gain the [immunity](ref/unchevolution/immunity) (electricity) evolution. Earth elemental eidolons gain the _[immunity](ref/carried/bestiary/rules/universal-monster-rules/immunity)_ (acid) evolution. Fire elemental eidolons gain the _[immunity](ref/carried/bestiary/rules/universal-monster-rules/immunity)_ (fire) evolution. Water elemental eidolons gain the _[immunity](ref/carried/bestiary/rules/universal-monster-rules/immunity)_ (cold) evolution.
-
-**At 4th level,** all elemental eidolons add 1 point to their evolution pools.
-
-**At 8th level,** air elemental eidolons gain the [flight](ref/unchevolution/flight) evolution (using magic) with a speed equal to their base speed. Earth elemental eidolons gain the [burrow](ref/unchevolution/burrow) evolution. Fire elemental eidolons increase their base speed by 20 feet. Water elemental eidolons gain the [swim](ref/unchevolution/swim) evolution twice, gaining a swim speed equal to their base speed + 20 feet. They also gain the [gills](ref/unchevolution/gills) evolution, which allows them to breathe underwater.
-
-**At 12th level,** all elemental eidolons gain immunity to bleed, poison, and stun. In addition, they can no longer be [flanked](ref/rule/flanking).
-
-**At 16th level,** all elemental eidolons gain immunity to critical hits and do not take additional damage from precision-based attacks, such as sneak attack.
-
-**At 20th level,** an air elemental eidolon gains the [whirlwind](ref/umr/whirlwind) ability, with a maximum height of 15 feet (30 feet for a Large air elemental) and dealing 1d6 points of damage (1d8 for a Large air elemental). Earth elemental eidolons gain the _earth mastery_ ability of an [earth elemental](ref/monster/earth-elemental) and DR 5/-. Fire elemental eidolons gain the [energy attacks](ref/unchevolution/energy-attacks) (fire) evolution and the [burn](ref/umr/burn) ability. Water elemental eidolons gain the _drench_ and _[vortex](ref/spell/vortex)_ abilities of a [water elemental](ref/monster/water-elemental). The _[vortex](ref/spell/vortex)_ ability works as the air elemental eidolon's _[whirlwind](ref/spell/whirlwind)_ ability (except as noted in the _[vortex](ref/spell/vortex)_ ability's description).
-
-**Choice:** The base evolutions of an elemental eidolon depend entirely on its chosen element. When
-first summoning an elemental eidolon, the summoner must select air, earth, fire, or water. Once
-made, this choice cannot be changed. The eidolon gains the following evolutions and abilities, which
-can vary depending on its element.
-'''
-
-[[resolution]]
-id = "ref/eidolon/genie"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "9d2814239406bdedf3e514dcd114207795bf6d4c76130328a69f0316dceb87ce"
-print = "Elemental Master's Handbook p. 27"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Genie eidolons gain the 4-point [weapon training](ref/unchevolution/weapon-training) evolution as well as the [resistance](ref/unchevolution/resistance) evolution for any one energy type.
-
-**At 4th level,** genie eidolons gain the ability to grow in size twice per day as a **full-round action**. This grants them the [large](ref/unchevolution/large) evolution for 1 round per Hit Die they have, increases the size of their equipment for the duration, and does not stack with other size-changing effects. Genie eidolons who later purchase the _large_ evolution lose this ability, but they add 1 point to their evolution pools.
-
-**At 8th level,** genie eidolons gain either the [flight](ref/unchevolution/flight) evolution (using magic) with a speed equal to their base speed; the [burrow](ref/unchevolution/burrow) evolution; or the [gills](ref/unchevolution/gills) evolution, plus the [swim](ref/unchevolution/swim) evolution twice, gaining a swim speed equal to their base speed + 20 feet.
-
-**At 12th level,** genie eidolons lose the resistance evolution gained at 1st level and instead gain the [immunity](ref/unchevolution/immunity) evolution to the selected energy type. They can also cast [plane shift](ref/spell/plane-shift) as a [spell-like ability](ref/umr/spell-like-abilities) once per day (CL 12th), but only to transport willing targets to the Astral Plane, Elemental Planes, or Material Plane.
-
-**At 16th level,** once per day as a **standard action**, genie eidolons can cast [cleanse](ref/spell/cleanse) or [greater evolution surge](ref/spell/evolution-surge-greater) (CL 16th) on themselves as a [spell-like ability](ref/umr/spell-like-abilities), but only in response to their masters' spoken wish (such as "I wish you were stronger"). The master can make such a wish as a **free action**.
-
-**At 20th level,** genie eidolons gain the 20th-level base evolutions of an [elemental](ref/eidolon/elemental) eidolon of any one element.
-'''
-
-[[resolution]]
-id = "ref/eidolon/inevitable"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "1e40f93d3110632ab68ee566e45f10971e5e280b2dd294421c262a247fbae5e7"
-print = "Pathfinder Unchained p. 32"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Inevitable eidolons count as both constructs and outsiders for the purpose of effects such as the [bane](ref/magic-enh/bane) weapon special ability and the [favored enemy](ref/ability/favored-enemy) class feature. They gain a +4 bonus on saving throws against death effects, disease, necromancy effects, paralysis, poison, sleep, and stun.
-
-**At 4th level,** inevitable eidolons gain a +4 bonus on saving throws against mind-affecting effects and immunity to nonlethal damage, fatigue, and exhaustion.
-
-**At 8th level,** inevitable eidolons gain immunity to death effects, disease, and poison.
-
-**At 12th level,** inevitable eidolons gain DR 5/chaotic. They also gain immunity to sleep, as well as the _truespeech_ ability (see the [inevitable creature subtype](ref/subtype/inevitable)).
-
-**At 16th level,** inevitable eidolons lose the +4 bonus on saving throws against necromancy effects and gain immunity to ability damage, ability drain, energy drain, and necromancy effects.
-
-**At 20th level,** inevitable eidolons gain immunity to paralysis, sleep, stun, and any effect that requires a Fortitude save (unless the effect also works on objects).
-'''
-
-[[resolution]]
-id = "ref/eidolon/kami"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "98637cf860f2e06564a7747f99edbd9d3e958a3a273ab5aa42194ce5eb9c0b73"
-print = "Wilderness Origins p. 18"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** A kami eidolon gains the [resistance](ref/unchevolution/resistance) (fire) evolution and the 4-point [weapon training](ref/unchevolution/weapon-training) evolution (proficiency in martial weapons).
-
-**At 4th level,** a kami eidolon gains acid _resistance_ 10 and cold _resistance_ 10.
-
-**At 8th level,** a kami eidolon can declare a _ward_ once per day as a **standard action**. Its _ward_ must be an object, a plant, or a creature with an Intelligence score of 2 or less, and the _ward_ maintains the designation for 1 hour. So long as a kami eidolon is within 60 feet of its _ward,_ it and its _ward_ gain a +2 sacred bonus on saving throws.
-
-**At 12th level,** a kami eidolon gains the 4-point version of the [fast healing](ref/unchevolution/fast-healing) evolution and the _merge with ward_ ability (see the [kami subtype](ref/subtype/kami). A kami eidolon automatically emerges from its _ward_ if they are merged when that object or creature ceases to be the eidolon's _ward._
-
-**At 16th level,** kami eidolons are immune to bleed, mind-affecting, petrification, and polymorph effects.
-
-**At 20th level,** a kami eidolon increases the _[fast healing](ref/umr/fast-healing)_ from its _[fast healing](ref/umr/fast-healing)_ evolution by 2 points whenever it is within 30 feet of its _ward;_ while the kami is merged with its _ward,_ the _ward_ gains the same amount of _[fast healing](ref/umr/fast-healing)._
-'''
-
-[[resolution]]
-id = "ref/eidolon/plant"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "33dbfb4868ab7e2eb16bbc2453117d0ab3a084960ae53db3f7d16be930a6664b"
-print = "Ultimate Wilderness p. 95"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Plant eidolons gain [low-light vision](ref/rule/low-light-vision) as well as the [resistance](ref/unchevolution/resistance) (electricity) and _resistance_ (sonic) evolutions.
-
-**At 4th level,** plant eidolons gain constant [pass without trace](ref/spell/pass-without-trace) and they can change shape into plants of the size category corresponding to their base form with results similar to [tree shape](ref/spell/tree-shape).
-
-**At 8th level,** plant eidolons gain the ability to use [speak with plants](ref/spell/speak-with-plants) for 1 minute per Hit Die per day with any plants related to the eidolon's base form. These minutes need not be consecutive.
-
-**At 12th level,** plant eidolons gain immunity to paralysis, poison, sleep, and stun.
-
-**At 16th level,** plant eidolons gain the ability to use [commune with nature](ref/spell/commune-with-nature) once per day and can use their _[speak with plants](ref/spell/speak-with-plants)_ ability at will.
-
-**At 20th level,** plant eidolons gain a +8 resistance bonus on saving throws against mind-affecting effects. They lose their _resistance_ (electricity) and _resistance_ (sonic) evolutions and instead gain the [immunity](ref/unchevolution/immunity) (electricity) and _[immunity](ref/carried/bestiary/rules/universal-monster-rules/immunity)_ (sonic) evolutions.
-'''
-
-[[resolution]]
-id = "ref/eidolon/protean"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "cf5984cf24803acacb41a19f50d84e997661f41061f3f0b5813456f1151a8c75"
-print = "Pathfinder Unchained p. 33"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Protean eidolons gain the [resistance](ref/unchevolution/resistance) (acid) evolution as well as the _[grab](ref/carried/bestiary/rules/universal-monster-rules/grab)_ evolution, tied to an attack type of the summoner's choice. Whenever the summoner changes the protean eidolon's evolutions, he can also change the attack type for _[grab](ref/carried/bestiary/rules/universal-monster-rules/grab)._
-
-**At 4th level,** protean eidolons gain electricity _resistance_ 10 and sonic _resistance_ 10.
-
-**At 8th level,** protean eidolons gain the [constrict](ref/unchevolution/constrict) evolution.
-
-**At 12th level,** protean eidolons gain DR 5/lawful. They also gain the [blindsense](ref/unchevolution/blindsense) evolution and the ability to fly without wings with perfect maneuverability, as the [flight](ref/unchevolution/flight) evolution with 4 points spent.
-
-**At 16th level,** protean eidolons lose the _resistance_ (acid) evolution and instead gain the [immunity](ref/unchevolution/immunity) (acid) evolution. They also gain the amorphous anatomy ability (see the [protean creature subtype](ref/subtype/protean)).
-
-**At 20th level,** protean eidolons gain constant [freedom of movement](ref/spell/freedom-of-movement) and the protean version of the change shape (greater polymorph) ability (see the protean creature subtype).
-'''
-
-[[resolution]]
-id = "ref/eidolon/psychopomp"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "0d8ffd97b32444b6956110c85cdaa75360b1011d312a7b777dbb8afb45e80ca5"
-print = "Pathfinder Unchained p. 33"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Psychopomp eidolons gain immunity to death effects, disease, and poison.
-
-**At 4th level,** psychopomp eidolons gain cold [resistance](ref/unchevolution/resistance) 10 and electricity _resistance_ 10.
-
-**At 8th level,** psychopomp eidolons gain the _spirit touch_ ability (see the [psychopomp creature subtype](ref/subtype/psychopomp)) and add 1 point to their evolution pools.
-
-**At 12th level,** psychopomp eidolons gain DR 5/adamantine. They also gain the _spiritsense_ ability (see the psychopomp creature subtype).
-
-**At 16th level,** psychopomp eidolons gain the [ability increase](ref/unchevolution/ability-increase) evolution, applied to an ability score of the summoner's choice. They also gain the ability to cast [invisibility](ref/spell/invisibility) (self only) as a [spell-like ability](ref/umr/spell-like-abilities) at will.
-
-**At 20th level,** psychopomp eidolons increase their [damage reduction](ref/rule/damage-reduction) to 10/adamantine and gain the [immunity](ref/unchevolution/immunity) (cold) and _[immunity](ref/carried/bestiary/rules/universal-monster-rules/immunity)_ (electricity) evolutions.
-'''
-
-[[resolution]]
-id = "ref/eidolon/radiant"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "d136aeaac0292f4dd7500e955241cb161c0dac5a0fb213eed3ae4ddbc0cb3cac"
-print = "Plane-Hopper's Handbook p. 24"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Radiant eidolons are immune to death effects and energy drain. They can exist comfortably on the Positive Energy Plane and do not benefit or suffer from the [positive-dominant planar trait](ref/rule/elemental-and-energy-traits). Whenever radiant eidolons are subjected to a magical healing effect, they regain 1 additional hit point per die rolled.
-
-**At 4th level,** radiant eidolons' natural attacks can strike incorporeal targets as though they were [ghost touch](ref/magic-enh/ghost-touch-weapon) weapons. Radiant eidolons glow as [light](ref/spell/light) with an effective spell level equal to half their Hit Dice (round down); they can suppress or resume this effect as a **standard action**.
-
-**At 8th level,** radiant eidolons grow feathery wings, gaining the [flight](ref/unchevolution/flight) evolution.
-
-**At 12th level,** radiant eidolons gain the [fast healing](ref/unchevolution/fast-healing) evolution.
-
-**At 16th level,** radiant eidolons gain the ability to cast [cure serious wounds](ref/spell/cure-serious-wounds) three times per day. When a radiant eidolon's summoner dies or falls unconscious within 60 feet as a result of hit point loss, the eidolon can die as an **immediate action** to grant the summoner the benefits of [breath of life](ref/spell/breath-of-life). The caster level for both abilities equals the eidolon's Hit Dice.
-
-**At 20th level,** radiant eidolons deal an additional 2 points of damage per die rolled against undead creatures when attacking with the [energy attacks](ref/unchevolution/energy-attacks) or [breath weapon](ref/unchevolution/breath-weapon) evolutions. Whenever radiant eidolons are subjected to a magical healing effect, the effect functions at its full potential, as if enhanced by [Maximize Spell](ref/feat/maximize-spell).
-'''
-
-[[resolution]]
-id = "ref/eidolon/shadow"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "4e8b2bb1e32f20a31729646d7c20cbe28cd2c42ae710cf160eaa5828ab686f33"
-print = "Blood of Shadows p. 11"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Shadow eidolons gain the [resistance](ref/unchevolution/resistance) (cold) and _resistance_ (electricity) evolutions. They also gain the ability to cast [darkness](ref/spell/darkness) as a [spell-like ability](ref/umr/spell-like-abilities) three times per day. The caster level for this spell-like ability is equal to the eidolon's Hit Dice.
-
-**At 4th level,** shadow eidolons effortlessly blend into the shadows, giving them [concealment](ref/rule/concealment) (20% miss chance) in any illumination other than bright light. In [dim light](ref/rule/vision-and-light) or darkness, shadow eidolons have a 50% miss chance instead of the normal 20% miss chance; this doesn't grant the eidolons total concealment. A shadow eidolon can suspend or resume this ability as a **free action**.
-
-**At 8th level,** shadow eidolons gain DR 5/magic and increase the range of their [darkvision](ref/rule/darkvision) to 90 feet. In addition, they add 1 point to their evolution pools.
-
-**At 12th level,** shadow eidolons lose the ability to cast _[darkness](ref/spell/darkness)_ as a [spell-like ability](ref/umr/spell-like-abilities) and instead gain the ability to cast [deeper darkness](ref/spell/deeper-darkness) as a spell-like ability three times per day. In addition, they gain the [see in darkness](ref/umr/see-in-darkness) universal monster ability.
-
-**At 16th level,** shadow eidolons' [damage reduction](ref/rule/damage-reduction) increases to DR 10/magic and they gain the [spell resistance](ref/unchevolution/spell-resistance) evolution.
-
-**At 20th level,** shadow eidolons increase the range of their [darkvision](ref/rule/darkvision) to 120 feet and gain the ability to cast [shadow step](ref/spell/shadow-step) as a [spell-like ability](ref/umr/spell-like-abilities) at will. Three times per day, a shadow eidolon can quicken this spell-like ability, functioning as the [Quicken Spell-Like Ability](ref/feat/quicken-spell-like-ability) feat.
-'''
-
-[[resolution]]
-id = "ref/eidolon/storykin"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "298b07dcc23750a6b96300e88a27b056601dcbcad0af98a52c984e38febabcf5"
-print = "Plane-Hopper's Handbook p. 31"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** A storykin eidolon gains the [resistance](ref/unchevolution/resistance) (sonic) evolution. In addition, storykin eidolons of the suit of hammers and suit of shields gain a +2 bonus on Fortitude saving throws. Storykin eidolons of the suit of books and suit of keys gain a +2 bonus on Reflex saving throws. Storykin eidolons of the suit of crowns and suit of stars gain a +2 bonus on Will saving throws.
-
-**At 4th level,** a storykin eidolon gains cold _resistance_ 10 and electricity _resistance_ 10.
-
-**At 8th level,** a storykin eidolon gains the [ability increase](ref/unchevolution/ability-increase) evolution, applied to the ability score corresponding to its harrow suit.
-
-**At 12th level,** a storykin eidolon gains immunity to bleed, poison, and stun. It also gains DR 5/adamantine.
-
-**At 16th level,** a storykin eidolon loses the _resistance_ (sonic) evolution and instead gains the [immunity](ref/unchevolution/immunity) (sonic) evolution. It also gains immunity to mind-affecting effects.
-
-**At 20th level,** a storykin eidolon gains immunity to all types of [ability damage and ability drain](ref/rule/ability-damage-drain) against the ability score corresponding to its harrow suit and immunity to [energy drain](ref/rule/energy-drain-and-negative-levels). It also gains the _ability increase_ evolution again, applied to the same ability score that was increased at 8th level.
-'''
-
-[[resolution]]
-id = "ref/eidolon/twinned"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "2ee45d44b627c794f601d5f9cba1423935eb73edee06876bb5a0cbe5a3d40e3f"
-print = "Legacy of the First World p. 19"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** A twinned eidolon gains the [weapon training](ref/unchevolution/weapon-training) evolution. The twinned eidolon also gains the [skilled](ref/unchevolution/skilled) (Disguise) evolution. The racial bonus provided by this evolution is doubled when the eidolon is impersonating the twinned summoner.
-
-**At 4th level,** a twinned eidolon can cast a summoner spell once per day as a [spell-like ability](ref/umr/spell-like-abilities). The spell must be one known by the eidolon's summoner and must be at least 1 level lower than the highest-level spell the summoner can cast. The eidolon must have a Charisma score of at least 10 + the spell level. The caster level for this spell-like ability is equal to the eidolon's Hit Dice minus 2. The save DC is 10 + half the eidolon's HD + the eidolon's Charisma modifier.
-
-**At 8th level,** a twinned eidolon gains the [shared slot](ref/unchevolution/shared-slot) evolution.
-
-**At 12th level,** a twinned eidolon gains DR 5/magic. The eidolon also gains the [extra feat](ref/unchevolution/extra-feat) evolution.
-
-**At 16th level,** a twinned eidolon gains the _skilled_ evolution and the [ability increase](ref/unchevolution/ability-increase) evolution, applied to a skill and an ability score of the summoner's choice.
-
-**At 20th level,** a twinned eidolon gains [fast healing](ref/umr/fast-healing) 5.
-'''
-
-[[resolution]]
-id = "ref/eidolon/void"
-name = "Base Evolutions"
-occurrence = 1
-span_sha256 = "42c692af680a0a9ce79deb7fcebca07b8fcb0d6cf911f679182d7f81af93da05"
-print = "Plane-Hopper's Handbook p. 24"
-replacement = '''
-**Base Evolutions**
-
-**Gained:** At 1st Level
-
-**Ability:** Void eidolons have [negative energy affinity](ref/umr/negative-energy-affinity) and are immune to death effects, disease, energy drain, and poison.
-
-**At 4th level,** void eidolons gain the [resistance](ref/unchevolution/resistance) (cold) evolution. Their natural attacks can strike incorporeal targets as though they were [ghost touch](ref/magic-enh/ghost-touch-weapon) weapons.
-
-**At 8th level,** void eidolons can use their wings to fly, gaining the [flight](ref/unchevolution/flight) evolution. When selecting the [energy attacks](ref/unchevolution/energy-attacks) evolution, void eidolons can instead choose to deal 1d6 points of negative energy damage on a successful hit; this damage does not heal creatures.
-
-**At 12th level,** void eidolons gain the [lifesense](ref/umr/lifesense) ability. They also gain the [energy drain](ref/umr/energy-drain) ability (1 negative level) with their bite attacks, though they can drain only a total number of levels per day equal to half their Hit Dice (rounded down).
-
-**At 16th level,** void eidolons lose the _resistance_ (cold) evolution and instead gain the [immunity](ref/unchevolution/immunity) (cold) evolution. They also gain DR 5/adamantine.
-
-**At 20th level,** void eidolons can bestow up to 2 negative levels with a successful bite attack, and the number of negative levels they can bestow per day increases by their Constitution modifier. Their [damage reduction](ref/rule/damage-reduction) increases to DR 10/adamantine.
-'''
-
-[[resolution]]
 id = "ref/exploit/first-world-illusion-catcher"
 name = "First-World Illusion Catcher (Su)"
 occurrence = 1
@@ -2465,16 +2234,16 @@ print = "Arcane Anthology p. 17"
 replacement = '''
 **Primal Magic (Sp)**
 
-**Ability:** The arcanist can expend 1 or more points from her arcane reservoir to create an uncontrolled primal effect. This creates an effect from the [Sample Primal Magic Events](ref/rule/primal-magic) table. The CR of this effect is equal to the arcanist's caster level, to a maximum caster level of 5 per point spent from her arcane reserve. In this case, the effect is treated as a spell with a spell level equal to half its CR (maximum spell level 9).
-
-Alternatively, the arcanist can expend 1 point from her arcane reservoir and expend a spell slot of at least 3rd level to create an effect as if she has used a [rod of wonder](ref/magic-rod/rod-of-wonder). Any spell created by the _rod of wonder_ effect uses the arcanist's spell level, rather than the spell level set by the _rod of wonder_ table (for example a [fireball](ref/spell/fireball) created by an 8th level arcanist rolling on the _rod of wonder_ table would deal 8d6, rather than the listed 6d6). In this case, the effect is treated as a spell with a spell level equal to the spell slot expended.
-
 **Info:** In seeking to restore formal training in magic to the world, Old-Mage Jatembe also
 discovered a few methods of creating magic effects that did not follow consistent or logical rules.
 While his only known remaining notes on these more chaotic forms of magic are closely guarded within
 the [Magaambya](ref/rule/aff-i-school), some arcanists have either recreated his theories from vague
 comments on other topics or independently rediscovered the methods Jatembe first detailed. This
 "primal magic" can be accessed one of two ways.
+
+**Ability:** The arcanist can expend 1 or more points from her arcane reservoir to create an uncontrolled primal effect. This creates an effect from the [Sample Primal Magic Events](ref/rule/primal-magic) table. The CR of this effect is equal to the arcanist's caster level, to a maximum caster level of 5 per point spent from her arcane reserve. In this case, the effect is treated as a spell with a spell level equal to half its CR (maximum spell level 9).
+
+Alternatively, the arcanist can expend 1 point from her arcane reservoir and expend a spell slot of at least 3rd level to create an effect as if she has used a [rod of wonder](ref/magic-rod/rod-of-wonder). Any spell created by the _rod of wonder_ effect uses the arcanist's spell level, rather than the spell level set by the _rod of wonder_ table (for example a [fireball](ref/spell/fireball) created by an 8th level arcanist rolling on the _rod of wonder_ table would deal 8d6, rather than the listed 6d6). In this case, the effect is treated as a spell with a spell level equal to the spell slot expended.
 '''
 
 [[resolution]]
@@ -2531,6 +2300,28 @@ replacement = '''
 '''
 
 [[resolution]]
+id = "ref/hex/scar"
+name = "Scar (Su)"
+occurrence = 1
+span_sha256 = "6d46d16886fd9aa0d27ed429f01be2da63519645a0657590c57339e007f8217b"
+print = "Ultimate Magic p. 81"
+replacement = '''
+**Scar (Su)**
+
+**Ability:** This hex curses a single target touched with horrible scars of the witch's choosing, whether something as simple as a single letter on the target's forehead or blotchy, burn-like scars on his body. The target may make a Will save to resist this hex.
+
+These _scars_ do not interfere with the target's senses or prevent it from using abilities, but may
+affect social interactions. They persist through disguises and shapechanging.
+
+The witch can user her hexes on the scarred target at a range of up to 1 mile, and she is considered to have a body part from the target for the purpose of [scrying](ref/spell/scrying) and similar divination spells.
+
+**Special:** The witch can withdraw this hex from a target as a **move action** at any range. The
+number of supernatural _scars_ the witch can maintain at once is equal to her Intelligence bonus;
+once she reaches this limit, she must remove the _scar_ from a current victim in order to mark
+another. Effects that remove curses can remove the _scar._
+'''
+
+[[resolution]]
 id = "ref/hex/witchs-hut"
 name = "Witch's Hut (Su)"
 occurrence = 1
@@ -2545,6 +2336,46 @@ The witch can give the hut the following commands: **guard** (the hut watches fo
 
 **Special:** The hut remains animate for 24 hours, until she dismisses it or she animates another,
 at which time the hut stops where it is and reverts to its nonmagical state.
+'''
+
+[[resolution]]
+id = "ref/invtalent/empathy"
+name = "Empathy (Ex, Su)"
+occurrence = 1
+span_sha256 = "28ba1969074148c8ed5693a0c0b9a50e7d5b6840071c5fed6c0dca79b4a415aa"
+print = "Advanced Class Guide p. 32"
+replacement = '''
+**Empathy (Ex, Su)**
+
+**Ability:** When attempting a [Sense Motive](ref/rule/sense-motive) check, the investigator makes two d20 rolls and takes the higher result.
+
+If an investigator uses _inspiration_ on a Sense Motive check, he rolls the _inspiration_ dice twice
+and takes the higher result.
+
+Once per day, the investigator can expend one use of _inspiration_ to target a single creature that he can see and hear within 30 feet. Upon doing so, the investigator detects the surface thoughts of the target's mind, as if he concentrated for 3 rounds while using the [detect thoughts](ref/spell/detect-thoughts) spell, unless the creature succeeds a Will saving throw. The DC of this save is 10 + 1/2 the investigator's level + his Intelligence modifier.
+
+If the target fails, the investigator can continue to detect the surface thoughts of the target
+creature for a number of rounds equal to 1/2 his investigator level.
+
+**Prereq:** 5th-level investigator
+'''
+
+[[resolution]]
+id = "ref/kipower/ki-metabolism"
+name = "Ki Metabolism (Su)"
+occurrence = 1
+span_sha256 = "d065fe99f9bb7404ce60cc5c089e7fa486772c08372150ca75c801bc0987e64c"
+print = "Pathfinder Unchained p. 17"
+replacement = '''
+**Ki Metabolism (Su)**
+
+**Flavor:** A monk with this ability uses his ki to control his metabolism.
+
+**Passive:** As long as he has at least 1 point remaining in his ki pool, the monk needs to eat and drink only 1/4 as often as normal, needs only 2 hours of sleep each night (including to replenish his ki pool), and can [hold his breath](ref/misc/hold-your-breath) for up to 1 hour per point of Constitution.
+
+**Move:** He can spend 1 ki point to enter a state of suspended animation, falling unconscious and
+appearing dead to all senses. At the time he enters this state, he indicates a preset period of time
+or a triggering condition, after which he awakens.
 '''
 
 [[resolution]]
@@ -2566,6 +2397,106 @@ You can cast _[astral projection](ref/spell/astral-projection)_ as a [spell-like
 '''
 
 [[resolution]]
+id = "ref/mystery/ancestor"
+name = "Storm of Souls (Su)"
+occurrence = 1
+span_sha256 = "e595690e47175b9b09f2efe3ef69e384a3faacb0dd93c83eecdf96c5f520c885"
+print = "Ultimate Magic p. 54"
+replacement = '''
+**Storm of Souls (Su)**
+
+**Ability:** You can summon the spirits of your ancestors to attack in a ghostly barrage - their
+fury creates physical wounds on creatures in the area. The _storm_ has a range of 100 feet and is a
+20-foot-radius [burst](ref/misc/burst). Objects and creatures in the area take 3d8 hit points of
+damage. Undead creatures in the area take 1d8 points of damage for every oracle level you possess. A
+successful Fortitude save reduces the damage to half.
+
+**Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
+
+**At 8th level,** objects and non-undead creatures now take 4d6 damage.
+
+**At 10th level,** objects and non-undead creatures now take 5d6 damage.
+
+**At 12th level,** objects and non-undead creatures now take 6d6 damage.
+
+**At 14th level,** objects and non-undead creatures now take 7d6 damage.
+
+**At 16th level,** objects and non-undead creatures now take 8d6 damage.
+
+**At 18th level,** objects and non-undead creatures now take 9d6 damage.
+
+**At 20th level,** objects and non-undead creatures now take 10d6 damage.
+
+**Prereq:** 7th-level oracle
+'''
+
+[[resolution]]
+id = "ref/mystery/apocalypse"
+name = "Doomsayer (Su)"
+occurrence = 1
+span_sha256 = "9292bc755b13e58ad83387a05e8ebfe75809c60f93b196fecb8b2124b81e71b0"
+print = "Monster Codex p. 56"
+replacement = '''
+**Doomsayer (Su)**
+
+**Standard:** You can utter a dire prophecy that strikes fear in your enemies and causes them to
+become [shaken](ref/misc/shaken). To be affected, an enemy must be within 30 feet and able to hear
+you. This effect persists as long as the enemy is within 30 feet and you use a **move action** each
+round to continue your _doomsaying._
+
+**At 15th level,** continuing your _doomsaying_ each round is a **swift action** instead.
+
+**Prereq:** 7th-level oracle
+
+**Special:** This ability cannot cause a creature to become frightened or panicked, even if the
+target was already shaken from another effect. This is a mind-affecting fear effect that relies on
+audible components.
+'''
+
+[[resolution]]
+id = "ref/mystery/battle"
+name = "Final Revelation"
+occurrence = 1
+span_sha256 = "9aff6469023427add0e2aa95906894b0c7696ae8ea4fac6756b7e23a6f6163c8"
+print = "Advanced Player's Guide p. 45"
+replacement = '''
+**Final Revelation**
+
+**Gained:** At 20th Level
+
+**Flavor:** You become an avatar of battle.
+
+**Full-round:** You can take a full-attack action and move up to your speed (you can move before or after the attacks).
+
+**Passive:** Whenever you score a critical hit, you can ignore any DR the target might possess. You gain a +4 insight bonus to your AC for the purpose of confirming critical hits against you.
+
+When you are below 0 hit points, you do not die until your negative total is in excess of twice your
+Constitution score.
+'''
+
+[[resolution]]
+id = "ref/mystery/bones"
+name = "Final Revelation"
+occurrence = 1
+span_sha256 = "51f1fd99c9f9375537650b487cadd177ad089e3ed51a030f0baeb57c7d909c5d"
+print = "Advanced Player's Guide p. 46"
+replacement = '''
+**Final Revelation**
+
+**Gained:** At 20th Level
+
+**Flavor:** You become a master of death.
+
+**Ability:** Once per day, you can cast [power word kill](ref/spell/power-word-kill), but the spell can target a creature with 150 hit points or less.
+
+If you are brought to below 0 hit points, you automatically stabilize.
+
+You can cast _[animate dead](ref/spell/animate-dead)_ at will without paying a material component cost (although you are still subject to the usual Hit Die control limit).
+
+**Free:** Once per round, you can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
+'''
+
+[[resolution]]
 id = "ref/mystery/dark-tapestry"
 name = "Final Revelation"
 occurrence = 1
@@ -2581,6 +2512,35 @@ replacement = '''
 **Ability:** Once per day, you can cast [shapechange](ref/spell/shapechange) as a [spell-like ability](ref/umr/spell-like-abilities) without requiring a material component.
 
 You gain [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid, critical hits, and sneak attacks.
+'''
+
+[[resolution]]
+id = "ref/mystery/elemental"
+name = "Elemental Aegis (Su)"
+occurrence = 1
+span_sha256 = "6518d9080b532c623996f53701d99b2bcd4db9217479f5e50c6a9cbf3fe9a560"
+print = "Elemental Master's Handbook p. 28"
+replacement = '''
+**Elemental Aegis (Su)**
+
+**Choice:** When you take this revelation, choose one element: air, earth, fire, or water.
+
+**Ability:** You can conjure an enveloping, protective force made of this element that grants you a
++4 armor bonus to AC (this manifests as a solid rush of air over your body, rocky plates covering
+your skin, and the like).
+
+**Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
+1-hour increments
+
+**At 7th level,** the AC bonus increases to +6.
+
+**At 11th level,** the AC bonus increases to +8.
+
+**At 13th level,** you receive an additional boon depending on the element you chose. If you chose air, you gain a +2 bonus on Reflex saving throws. If you chose earth, you gain a +2 bonus to CMD. If you chose fire, you gain fire [resistance](ref/umr/resistance) 2 (this stacks with any other fire resistance you have). If you chose water, you gain a +4 bonus on [Swim](ref/skill/swim) checks.
+
+**At 15th level,** the AC bonus increases to +10.
+
+**At 19th level,** the AC bonus increases to +12.
 '''
 
 [[resolution]]
@@ -2617,6 +2577,22 @@ replacement = '''
 **At 5th level,** you can hover up to 6 inches above the ground or even above liquid surfaces, as if [levitating](ref/spell/levitate).
 
 **At 10th level,** you gain the ability to [fly](ref/spell/fly), as per the spell, for a number of minutes per day equal to your oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments.
+'''
+
+[[resolution]]
+id = "ref/mystery/heavens"
+name = "Mantle of Moonlight (Su)"
+occurrence = 1
+span_sha256 = "794d2424b74dc2203964a46f7a2c8c7d1c8bff98039137c10fdd5c78fb3db25c"
+print = "Advanced Player's Guide p. 48"
+replacement = '''
+**Mantle of Moonlight (Su)**
+
+**Passive:** Your innate understanding of the moon renders you immune to [lycanthropy](ref/rule/lycanthropy).
+
+As a melee touch attack, you may disrupt a [lycanthrope's](ref/template/lycanthrope) connection to the moon. This action automatically forces the lycanthrope into its humanoid form, which it must remain in for a number of rounds equal to your oracle level.
+
+**At 5th level,** you can use this ability to force others into a [rage](ref/spell/rage), as per the spell, but only a number of times per day equal to [one-fifth](ref/misc/fractions-and-rounding) of your oracle level. It's still a melee touch attack.
 '''
 
 [[resolution]]
@@ -2667,6 +2643,27 @@ replacement = '''
 **Ability:** You gain the ability to take 20 on all Knowledge skill checks.
 
 Your understanding of the fundamental underpinnings of reality has also become so advanced that once per day, you can cast [wish](ref/spell/wish). This ability does not require a material component, but the wish cannot be used to grant ability score bonuses, nor can it be used to replicate spells with expensive material components.
+'''
+
+[[resolution]]
+id = "ref/mystery/metal"
+name = "Final Revelation"
+occurrence = 1
+span_sha256 = "d5e62f9d0a60d4f5e3dc79136c4343204f55bd00e0db9e3e54780e9081c84258"
+print = "Ultimate Magic p. 55"
+replacement = '''
+**Final Revelation**
+
+**Gained:** At 20th Level
+
+**Flavor:** You become a master of iron and steel.
+
+**Ability:** You gain the benefits of [Weapon Focus](ref/feat/weapon-focus), [Greater Weapon Focus](ref/feat/greater-weapon-focus), and [Improved Critical](ref/feat/improved-critical) with any one metal weapon that you are proficient with.
+
+Your armor is like a second skin to you - while wearing metal armor you are proficient with, the armor's maximum Dexterity bonus increases by +5 and you take no armor check penalty.
+
+**Special:** In addition, any metal you create with your magic (such as
+_[wall of iron](ref/spell/wall-of-iron)_) has its [hardness](ref/umr/hardness) increased by +10.
 '''
 
 [[resolution]]
@@ -2764,17 +2761,29 @@ Any spells you cast of the shadow subschool or with the darkness descriptor are 
 '''
 
 [[resolution]]
-id = "ref/mystery/spellscar"
-name = "Primal Mastery (Su)"
+id = "ref/mystery/solar"
+name = "Luminous Form (Su)"
 occurrence = 1
-span_sha256 = "7a7474c6fb25d2140a024f6748b29ad555798d8c55852706fba3c706c609209c"
-print = "Inner Sea Magic p. 30"
+span_sha256 = "81d3c9f72afeeeffa6b4947ed2cc41eaa3ec675c79b5c3e62c1451112a5b8c9b"
+print = "The Harrow Handbook p. 26"
 replacement = '''
-**Primal Mastery (Su)**
+**Luminous Form (Su)**
 
-**Passive:** You gain a +2 bonus on all saving throws made to resist primal magic events or magical effects caused by a rod of wonder.
+**Ability:** You can transform your body into churning light, granting you the effects of
+[blur](ref/spell/blur) and causing your body to shed light as a [sunrod](ref/eq-misc/sunrod).
 
-Whenever a spell you cast triggers a primal magic event, or whenever you use a [rod of wonder](ref/magic-rod/rod-of-wonder), roll d% twice when generating the result. You may pick which of the two results actually occurs.
+**Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
+in 1-minute increments
+
+**At 7th level,** creatures that end their turn adjacent to your _luminous form_ become [blinded](ref/misc/blinded) for 1 round (Fortitude negates).
+
+**At 13th level,** creatures that end their turn adjacent to your _luminous form_ are blinded for 1d4 rounds (Fortitude reduces to 1 round).
+
+**At 18th level,** your luminescence is as bright as natural sunlight, and creatures affected by natural sunlight are so affected if they end their turn adjacent to your _luminous form._
+
+**Special:** You can forgo the _[blur](ref/spell/blur)_ and blinding aspects of this ability to
+instead simply shed light as a [torch](ref/eq-misc/torch), though this still counts against the
+ability's duration for the day.
 '''
 
 [[resolution]]
@@ -2793,6 +2802,20 @@ replacement = '''
 **Ability:** Whenever you cast a spell, you can choose to trigger a primal magic event in addition to casting the spell itself - you can use this ability once per minute.
 
 If your spellcasting causes a primal magic event to occur, your spell effect is not replaced by the primal magic event - it takes place normally, along with the event itself.
+'''
+
+[[resolution]]
+id = "ref/mystery/spellscar"
+name = "Primal Mastery (Su)"
+occurrence = 1
+span_sha256 = "7a7474c6fb25d2140a024f6748b29ad555798d8c55852706fba3c706c609209c"
+print = "Inner Sea Magic p. 30"
+replacement = '''
+**Primal Mastery (Su)**
+
+**Passive:** You gain a +2 bonus on all saving throws made to resist primal magic events or magical effects caused by a rod of wonder.
+
+Whenever a spell you cast triggers a primal magic event, or whenever you use a [rod of wonder](ref/magic-rod/rod-of-wonder), roll d% twice when generating the result. You may pick which of the two results actually occurs.
 '''
 
 [[resolution]]
@@ -2859,6 +2882,43 @@ replacement = '''
 **Ability:** A ninja with this ability gains [In Harm's Way](ref/feat/in-harms-way) as a bonus feat, even if she doesn't meet the prerequisites.
 
 When the ninja intercepts an attack using this feat, she can spend 1 ki point to impose a _blood debt_ on the aided ally. The ninja's ki pool is reduced by 1 until she ends this effect, which she may do as an **immediate action**. If the ninja ends the _blood debt_ in response to a successful attack against her by a creature the indebted ally threatens, the ally (who must be willing) takes full damage from that attack and any associated effects instead of the ninja.
+'''
+
+[[resolution]]
+id = "ref/ninjatrick/master-disguise"
+name = "Master Disguise (Su)"
+occurrence = 1
+span_sha256 = "9f897245774caeb1c75c1340b6d5fa08c79811656988f5ce50e20ead656df8c1"
+print = "Ultimate Combat p. 17"
+replacement = '''
+**Master Disguise (Su)**
+
+**Flavor:** A ninja with this trick can take on the appearance of other creatures and individuals.
+
+**Ability:** Whenever the ninja uses the _sudden disguise_ ninja trick, the duration increases to 10 minutes per level.
+
+Alternatively, the ninja can use the _sudden disguise_ ninja trick to take on the appearance of a specific individual that the ninja has seen before for 1 minute per level. Creatures that are familiar with the individual receive a Will saving throw to see through the illusion. The DC of this saving throw is 10 + 1/2 the ninja's level + the ninja's Charisma modifier.
+
+This illusion also changes the ninja's speech, if she has heard the individual talk and can speak
+his language.
+
+**Prereq:** [Sudden disguise](ref/ninjatrick/sudden-disguise)
+'''
+
+[[resolution]]
+id = "ref/ninjatrick/slow-metabolism"
+name = "Slow Metabolism (Ex)"
+occurrence = 1
+span_sha256 = "e1d2e6bea1bf9a45cb0ad7bf8b6e6aa465b4d2ad92087957068298674828b955"
+print = "Ultimate Combat p. 15"
+replacement = '''
+**Slow Metabolism (Ex)**
+
+**Flavor:** The ninja has a slower-than-normal metabolism.
+
+**Ability:** She can [hold her breath](ref/misc/hold-your-breath) for twice as long as normal before needing to make Constitution checks (four times her Constitution score).
+
+In addition, whenever the ninja is poisoned, the time between saving throws (the poison's frequency) is doubled. Thus, a poison that has a frequency of _1/round for 6 rounds_ would instead be _1/2 rounds for 12 rounds._
 '''
 
 [[resolution]]
@@ -2940,6 +3000,28 @@ In addition, whenever the oathbound paladin channels positive energy or uses _la
 '''
 
 [[resolution]]
+id = "ref/oath/the-wyrm"
+name = "Dragon-Slaying Strike (Su)"
+occurrence = 1
+span_sha256 = "ffbf915e208d770bcfbf6fae4e2ff4d10733415457b42a61e39cccb8e0e1b50a"
+print = "Ultimate Magic p. 62"
+replacement = '''
+**Dragon-Slaying Strike (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** An oathbound paladin becomes a conduit of holy power.
+
+**Passive:** Her DR increases to 10/evil.
+
+Whenever she uses _smite evil_ and successfully strikes a dragon, the dragon is also subject to a single-target [holy word](ref/spell/holy-word), using her paladin level +10 as the caster level. After the banishment effect and the damage from the attack are resolved, the _smite_ immediately ends.
+
+In addition, whenever she channels positive energy or uses _lay on hands_ to heal a creature, she heals the maximum possible amount.
+
+**Replaces:** Holy champion
+'''
+
+[[resolution]]
 id = "ref/oath/undeath"
 name = "Ghost Touch Aura (Su)"
 occurrence = 1
@@ -3004,6 +3086,30 @@ such a saving throw, you are [staggered](ref/misc/staggered) for 1 round.
 '''
 
 [[resolution]]
+id = "ref/oraclecurse/elemental-imbalance"
+name = "Elemental Imbalance"
+occurrence = 1
+span_sha256 = "f9c96fefb0729d40ee807112df8c160b7087a3589cb4d07748a84ec5ac86824e"
+print = "Elemental Master's Handbook p. 29"
+replacement = '''
+**Elemental Imbalance**
+
+**Flavor:** You wield an element's might, but you are vulnerable to its opposite.
+
+**Choice:** Choose air, earth, fire, or water.
+
+**Ability:** If you select air, you gain [vulnerability](ref/umr/vulnerabilities) to acid, cannot benefit from any acid [resistance](ref/umr/resistance) or [immunity](ref/umr/immunity), and cannot cast spells with the acid or earth descriptors.
+
+If you select earth, you gain vulnerability to electricity, cannot benefit from any electricity resistance or immunity, and cannot cast spells with the air or electricity descriptors.
+
+If you select fire, you gain vulnerability to cold, cannot benefit from any cold resistance or immunity, and cannot cast spells with the cold or water descriptors.
+
+If you select water, you gain vulnerability to fire, cannot benefit from any fire resistance or immunity, and cannot cast spells with the fire descriptor.
+
+As you advance in level, add the following spells to your oracle spells known based on your chosen element.
+'''
+
+[[resolution]]
 id = "ref/oraclecurse/god-meddled"
 name = "God-Meddled"
 occurrence = 1
@@ -3012,23 +3118,15 @@ print = "Heroes of Golarion p. 14"
 replacement = '''
 **God-Meddled**
 
-**Gained:** At 5th Level
+**Flavor:** The isle of Iblydos is populated and watched over by hero-gods, some of whom are known for entangling mortals in their own affairs. The gods' interference in your life has left you with strange, unpredictable powers dependent on divine whim. Bizarre side effects occur whenever you are affected by a spell from a divine caster - for better or for worse.
 
-**Flavor:** The isle of Iblydos is populated and watched over by hero-gods, some of whom are known
-for entangling mortals in their own affairs. The gods' interference in your life has left you with
-strange, unpredictable powers dependent on divine whim. Bizarre side effects occur whenever you are
-affected by a spell from a divine caster - for better or for worse.
+**Ability:** Once per round, when a creature casts a divine spell including you as a target, roll 1d20 and consult the God-Meddled Effects table below. The effect resulting from this roll begins at the end of that enemy's turn. This effect targets only you, even if other creatures were included as targets of the triggering spell.
 
-**Ability:** You gain a +2 competence bonus on saving throws to resist divine spells.
+**At 5th level,** you gain a +2 competence bonus on saving throws to resist divine spells.
 
 **At 10th level,** you become immune to the [confused](ref/misc/confused) condition.
 
 **At 15th level,** you gain a +4 competence bonus on saving throws to resist mind-affecting effects.
-
-**Effects:** Once per round, when a creature casts a divine spell including you as a target, roll
-1d20 and consult the God-Meddled Effects table below. The effect resulting from this roll begins at
-the end of that enemy's turn. This effect targets only you, even if other creatures were included as
-targets of the triggering spell.
 '''
 
 [[resolution]]
@@ -3040,25 +3138,17 @@ print = "Horror Realms p. 14"
 replacement = '''
 **Lich**
 
-**Gained:** At 5th Level
+**Flavor:** You have (unknowingly) fulfilled most (but not all) of the ritualistic components to achieve lichdom. You have yet to turn into an undead creature, but you are close.
 
-**Flavor:** You have (unknowingly) fulfilled most (but not all) of the ritualistic components to
-achieve lichdom. You have yet to turn into an undead creature, but you are close.
+**Info:** Every living spellcaster hides a secret in their flesh - a unique, personalized set of conditions that, when all are fulfilled in the correct order, can trigger the transformation into a [lich](ref/template/lich). Normally, one must expend years and tens of thousands of gold pieces to research this deeply personalized method of attaining immortality. Yet, in a rare few cases, chance and ill fortune can conspire against an unsuspecting spellcaster.
 
-**Ability:** Add [control undead](ref/spell/control-undead) to your list of 2nd-level oracle spells known.
+**Ability:** You take damage from positive energy and heal from negative energy as if you were undead.
+
+**At 5th level,** add [control undead](ref/spell/control-undead) to your list of 2nd-level oracle spells known.
 
 **At 10th level,** add [undead anatomy I](ref/spell/undead-anatomy-1) to your list of 3rd-level oracle spells known and [undead anatomy II](ref/spell/undead-anatomy-2) to your list of 5th-level oracle spells known.
 
 **At 15th level,** you are immune to death effects.
-
-**Effects:** You take damage from positive energy and heal from negative energy as if you were
-undead.
-
-**Info:** Every living spellcaster hides a secret in their flesh - a unique, personalized set of
-conditions that, when all are fulfilled in the correct order, can trigger the transformation into a
-[lich](ref/template/lich). Normally, one must expend years and tens of thousands of gold pieces to
-research this deeply personalized method of attaining immortality. Yet, in a rare few cases, chance
-and ill fortune can conspire against an unsuspecting spellcaster.
 '''
 
 [[resolution]]
@@ -3118,34 +3208,35 @@ print = "Horror Realms p. 15"
 replacement = '''
 **Vampirism**
 
-**Gained:** At 5th Level
-
 **Flavor:** You crave the taste of fresh, warm blood.
 
-**Ability:** You gain [channel resistance](ref/umr/channel-resistance) +4.
+**Ability:** You take damage from positive energy and heal from negative energy as if you were undead.
+
+**At 5th level,** you gain [channel resistance](ref/umr/channel-resistance) +4.
 
 **At 10th level,** you add [vampiric touch](ref/spell/vampiric-touch) to your list of 3rd-level oracle spells known and [undead anatomy II](ref/spell/undead-anatomy-2) to your list of 5th-level oracle spells known.
 
 **At 15th level,** you gain [damage reduction](ref/rule/damage-reduction) 5/magic.
-
-**Effects:** You take damage from positive energy and heal from negative energy as if you were
-undead.
 '''
 
 [[resolution]]
-id = "ref/order/order-of-the-beast-isc"
-name = "Vandal (Ex)"
+id = "ref/order/order-of-the-asp"
+name = "Indiscriminate (Ex)"
 occurrence = 1
-span_sha256 = "9ea688b621b73d3bac27d1e07e4ecc7bfe37b4b3725b9dfb24a5da74241274e1"
-print = "Inner Sea Combat p. 30"
+span_sha256 = "2afdaaac2395a9455497bd011ebd1f881543e317dc54e6037247035229a1a4cb"
+print = "Adventurer's Guide p. 34"
 replacement = '''
-**Vandal (Ex)**
+**Indiscriminate (Ex)**
 
 **Gained:** At 2nd Level
 
-**Ability:** The cavalier gains [Improved Sunder](ref/feat/improved-sunder) as a bonus feat. In addition, when dealing damage to objects (including when using the [sunder](ref/rule/sunder) combat maneuver), he adds half his cavalier level to the damage roll.
+**Free:** Whenever the order of the asp cavalier uses [Intimidate](ref/skill/intimidate) to
+demoralize one or more creatures, she can attempt to demoralize an equal number of allies within 30
+feet.
 
-If an order of the beast cavalier successfully breaks an object, he receives a +2 morale bonus on all attack rolls until the end of his next turn.
+**Passive:** While within 30 feet of an ally with the [shaken](ref/misc/shaken) condition, the cavalier gains a morale bonus on saving throws. This bonus is equal to 1 + one-sixth of his cavalier level.
+
+The cavalier can perform a [dirty trick](ref/rule/dirty-trick) combat maneuver against creatures with the shaken condition without provoking an attack of opportunity.
 '''
 
 [[resolution]]
@@ -3162,6 +3253,22 @@ replacement = '''
 **Ability:** The cavalier's mount gains the [trample](ref/umr/trample) monster special ability. If the cavalier's mount has trample from another source, damage from the mount's trample attack instead increases as though the mount were one size category larger (see [Natural Attacks](ref/rule/natural-attacks)); this does not alter the damage dealt by the mount's slam attack.
 
 A creature that attempts a Reflex saving throw to avoid damage from the mount's trample attack provokes an attack of opportunity from the cavalier.
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-beast-isc"
+name = "Vandal (Ex)"
+occurrence = 1
+span_sha256 = "9ea688b621b73d3bac27d1e07e4ecc7bfe37b4b3725b9dfb24a5da74241274e1"
+print = "Inner Sea Combat p. 30"
+replacement = '''
+**Vandal (Ex)**
+
+**Gained:** At 2nd Level
+
+**Ability:** The cavalier gains [Improved Sunder](ref/feat/improved-sunder) as a bonus feat. In addition, when dealing damage to objects (including when using the [sunder](ref/rule/sunder) combat maneuver), he adds half his cavalier level to the damage roll.
+
+If an order of the beast cavalier successfully breaks an object, he receives a +2 morale bonus on all attack rolls until the end of his next turn.
 '''
 
 [[resolution]]
@@ -3183,6 +3290,28 @@ In addition, whenever he confirms a critical hit against a target under an encha
 '''
 
 [[resolution]]
+id = "ref/order/order-of-the-lion"
+name = "Shield of the Liege (Ex)"
+occurrence = 1
+span_sha256 = "39f4094f7b631287c913afaaaa9c137441135159d88b50bd072dfb6d1b0ceeca"
+print = "Advanced Player's Guide p. 36"
+replacement = '''
+**Shield of the Liege (Ex)**
+
+**Gained:** At 15th Level
+
+**Flavor:** An order of the lion cavalier can protect those around him.
+
+**Passive:** Allies that are adjacent to the cavalier receive a +2 shield bonus to their AC.
+
+**Immediate:** The cavalier can redirect an attack made at a creature adjacent to himself, as long
+as the creature making the attack is within the cavalier's reach. This ability must be declared
+before the attack roll is made. The attack is made against the cavalier's AC and defenses, even if
+the creature could not normally reach or attack the cavalier. The cavalier loses any cover or
+concealment bonuses when subject to the redirected attack.
+'''
+
+[[resolution]]
 id = "ref/order/order-of-the-sword"
 name = "Mounted Mastery (Ex)"
 occurrence = 1
@@ -3201,19 +3330,51 @@ He also receives a bonus feat, chosen from the following list: [Mounted Combat](
 '''
 
 [[resolution]]
-id = "ref/order/order-of-the-waves"
-name = "Waverider (Ex)"
+id = "ref/order/order-of-the-tome"
+name = "Defensive Knowledge (Ex)"
 occurrence = 1
-span_sha256 = "3cd341d0610782b0335ac3444b632852a10f9b082464adfa5cc765d01d5fb961"
-print = "Aquatic Adventures p. 53"
+span_sha256 = "75d0e72e69834f004ecbc2edfec7baba4833d6db24a07c0a934ca6195e6b7375"
+print = "Ultimate Combat p. 35"
 replacement = '''
-**Waverider (Ex)**
+**Defensive Knowledge (Ex)**
 
-**Gained:** At 2nd Level
+**Gained:** At 15th Level
 
-**Ability:** The cavalier gains a swim speed equal to his unmodified base land speed. If he already has a swim speed, his swim speed increases by 10 feet, and if he and his mount both have a swim speed, the mount's swim speed also increases by 10 feet.
+**Flavor:** An order of the tome cavalier can grant nearby allies some of the boons of his cavalier
+_challenge._
 
-He gains a +1 morale bonus on damage rolls when underwater.
+**Passive:** While allies are adjacent to the cavalier, they gain a +2 bonus on all saving throws against spells or [spell-like abilities](ref/umr/spell-like-abilities) cast by the subject of the cavalier's _challenge._
+
+**Immediate:** In addition, a number of times per day equal to the cavalier's Intelligence modifier
+(minimum 1) or Wisdom modifier (minimum 1), the cavalier can allow an ally adjacent to him to reroll
+a single failed saving throw against a spell or [spell-like ability](ref/umr/spell-like-abilities)
+from the target of his _challenge._ The ally must be able to see and hear the cavalier in order to
+gain this reroll.
+
+The ability score that determines how many times per day a cavalier can use this ability depends on
+which Knowledge skill the cavalier picked for _specialized knowledge._ If the cavalier picked
+Knowledge (arcana), the number of times per day this ability can be used is based on Intelligence.
+If he picked Knowledge (religion) it is based on Wisdom.
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-tome"
+name = "Powerful Knowledge (Ex)"
+occurrence = 1
+span_sha256 = "60b2b2d675c30490a7a583b29d1c2eea3410de0382fda98d09c261a1957faaf5"
+print = "Ultimate Combat p. 35"
+replacement = '''
+**Powerful Knowledge (Ex)**
+
+**Gained:** At 8th Level
+
+**Ability:** The cavalier gains the ability to read scrolls and cast arcane or divine spells from a scroll as if he had a caster level of his cavalier level - 4. He can decipher all scrolls, using his Linguistics skill in place of [Spellcraft](ref/skill/spellcraft), and does not need to cast [read magic](ref/spell/read-magic) in order to decipher a scroll.
+
+Which type of spell the cavalier can cast is based on the Knowledge skill he chose for _specialized
+knowledge._ If he chose Knowledge (arcana), he can cast any arcane spells from a scroll. If he chose
+Knowledge (religion), he can cast any divine spells from a scroll.
+
+Furthermore, he gains a bonus equal to [one-fifth](ref/misc/fractions-and-rounding) of his cavalier level to an ability score for purposes of determining the level of spells he can cast from a scroll. The ability score that gains the bonus is dependent on which skill the cavalier picked for his _specialized knowledge_ ability. If the cavalier picked Knowledge (arcana), he gains the bonus to Intelligence. If he picked Knowledge (religion), he gains the bonus to Wisdom.
 '''
 
 [[resolution]]
@@ -3230,6 +3391,22 @@ replacement = '''
 **Ability:** The cavalier gains [Pressure Adept](ref/feat/pressure-adept) as a bonus feat and adds two oceanic zones to his native range instead of one.
 
 When exploring a new location underwater, he gains a +2 morale bonus on initiative checks and Perception checks, and can always act in the surprise round.
+'''
+
+[[resolution]]
+id = "ref/order/order-of-the-waves"
+name = "Waverider (Ex)"
+occurrence = 1
+span_sha256 = "3cd341d0610782b0335ac3444b632852a10f9b082464adfa5cc765d01d5fb961"
+print = "Aquatic Adventures p. 53"
+replacement = '''
+**Waverider (Ex)**
+
+**Gained:** At 2nd Level
+
+**Ability:** The cavalier gains a swim speed equal to his unmodified base land speed. If he already has a swim speed, his swim speed increases by 10 feet, and if he and his mount both have a swim speed, the mount's swim speed also increases by 10 feet.
+
+He gains a +1 morale bonus on damage rolls when underwater.
 '''
 
 [[resolution]]
@@ -3275,14 +3452,14 @@ print = "Blood of the Coven p. 15"
 replacement = '''
 **Celestial Agenda**
 
-**Ability:** You gain the [ward](ref/hex/ward) hex at 1st level.
-
-Your patron holds you to a higher standard: you must be of good alignment, and you take a -2 penalty on Bluff, Intimidate, Sleight of Hand, and other skill checks to deceive or threaten others.
-
 **Info:** While good deities and empyreal lords have organized faiths to carry out their wills,
 powerfully ranked [agathions](ref/family/agathion), [angels](ref/family/angel), and
 [archons](ref/family/archon) - and occasional intersectional councils of good outsiders - sometimes
 invest white witches with celestial might to defend the weak and heal the sick.
+
+**Ability:** You gain the [ward](ref/hex/ward) hex at 1st level.
+
+Your patron holds you to a higher standard: you must be of good alignment, and you take a -2 penalty on Bluff, Intimidate, Sleight of Hand, and other skill checks to deceive or threaten others.
 
 **Spells:** Castigate (4th)
 
@@ -3305,12 +3482,12 @@ print = "Blood of the Coven p. 15"
 replacement = '''
 **Empath**
 
+**Info:** Your patron is a manifestation of the collective living experience - mortal desire and
+purpose given direction by the beliefs of countless minds and hearts.
+
 **Ability:** You gain the [tongues](ref/hex/tongues) hex at 1st level
 
 You cannot help but feel the despair, pain, and other negative emotions in those around you, taking a -5 penalty on saving throws against emotion effects.
-
-**Info:** Your patron is a manifestation of the collective living experience - mortal desire and
-purpose given direction by the beliefs of countless minds and hearts.
 
 **Spells:** Burst of insight (2nd)
 
@@ -3333,13 +3510,13 @@ print = "Blood of the Coven p. 15"
 replacement = '''
 **Fey Gifts**
 
-**Ability:** You gain the [charm](ref/hex/charm) hex at 1st level.
-
-Your fey patron delights in your failure and injury and frequently jinxes you; once each day, the GM can demand you reroll a single ability check, attack roll, saving throw, or skill check and use the worse result.
-
 **Info:** A powerful fey or other entity from the First World has offered you magic. You serve as an
 anchor and scrying focus in the Material Plane for your patron, but you also provide frequent
 amusement.
+
+**Ability:** You gain the [charm](ref/hex/charm) hex at 1st level.
+
+Your fey patron delights in your failure and injury and frequently jinxes you; once each day, the GM can demand you reroll a single ability check, attack roll, saving throw, or skill check and use the worse result.
 
 **Spells:** Disguise self (2nd)
 
@@ -3362,13 +3539,13 @@ print = "Blood of the Coven p. 15"
 replacement = '''
 **Green Whispers**
 
-**Ability:** You gain the [feral speech](ref/hex/feral-speech) hex at 1st level.
-
-You cannot abide the touch of iron or steel; contact with either metal deals 1d3 points of damage each round, and wearing metal armor prevents you from casting spells until it is removed.
-
 **Info:** Your witch powers are a manifestation of the [Green Faith](ref/faith/green-faith) or
 bestowed by a representative of natural forces, such as an ancient [treant](ref/monster/treant) or
 nature spirit, who expects you to wield such gifts on its behalf.
+
+**Ability:** You gain the [feral speech](ref/hex/feral-speech) hex at 1st level.
+
+You cannot abide the touch of iron or steel; contact with either metal deals 1d3 points of damage each round, and wearing metal armor prevents you from casting spells until it is removed.
 
 **Spells:** Entangle (2nd)
 
@@ -3391,15 +3568,15 @@ print = "Blood of the Coven p. 15"
 replacement = '''
 **Hag's Calling**
 
-**Ability:** You gain the [coven](ref/hex/coven) hex at 1st level.
-
-You can neither use the [aid another](ref/rule/aid-another) action nor receive benefits from others' aid another actions.
-
 **Info:** Hags of exceptional power - most often [mute hags](ref/monster/hag-mute-hag) and
 [dreamthief hags](ref/monster/hag-dreamthief-hag) - sometimes invest mortal agents with the same
 well of ancient power they have mastered. Hags most often invest their
 [changeling](ref/race/changeling) daughters with such power, either once they have proven loyal or
 else to tempt them into wickedness.
+
+**Ability:** You gain the [coven](ref/hex/coven) hex at 1st level.
+
+You can neither use the [aid another](ref/rule/aid-another) action nor receive benefits from others' aid another actions.
 
 **Spells:** Disguise self (2nd)
 
@@ -3422,13 +3599,13 @@ print = "Blood of the Coven p. 15"
 replacement = '''
 **Shadowbound**
 
-**Ability:** You gain the [disguise](ref/hex/disguise) hex at 1st level.
-
-You also gain [light blindness](ref/umr/light-blindness).
-
 **Info:** Deep exposure to entities from the Plane of Shadow - [kytons](ref/family/kyton),
 [nightshades](ref/family/nightshade), [owbs](ref/monster/owb), and similar ethereal forces - has
 infused you with shadow.
+
+**Ability:** You gain the [disguise](ref/hex/disguise) hex at 1st level.
+
+You also gain [light blindness](ref/umr/light-blindness).
 
 **Spells:** Shadow conjuration (8th)
 
@@ -3443,6 +3620,34 @@ infused you with shadow.
 '''
 
 [[resolution]]
+id = "ref/patron/the-condition-of-all"
+name = "The Condition of All"
+occurrence = 1
+span_sha256 = "9d4d2d9751b02995cfebed1d8491302bd476cbb1340a59d36205c5b750c59193"
+print = "Blood of the Coven p. 15"
+replacement = '''
+**The Condition of All**
+
+**Info:** [Aeons](ref/family/aeon) are often patrons to witches, seeking out mortals who share their
+vested interest in some agenda that helps them promote the cosmic balance.
+
+**Ability:** You gain the [scar](ref/hex/scar) hex at 1st level.
+
+Your patron requires unwavering commitment to their cause, and you lose your spellcasting and hexes (but not your familiar) if your alignment changes after taking your first witch level; you regain your spellcasting and hexes once you revert to your original alignment.
+
+**Spells:** Forbid action (2nd)
+
+**Spells:** Dismissal (8th)
+
+**Spells:** Geas/quest (12th)
+
+**Available patron themes:** [Elements](ref/patron/elements), [Time](ref/patron/time),
+[Transformation](ref/patron/transformation), [Wisdom](ref/patron/wisdom)
+
+**Patron Spells:** This unique patron grants these alternate spells at the listed witch levels.
+'''
+
+[[resolution]]
 id = "ref/patron/touched-by-the-outer-gods"
 name = "Touched by the Outer Gods"
 occurrence = 1
@@ -3451,12 +3656,12 @@ print = "Blood of the Coven p. 15"
 replacement = '''
 **Touched by the Outer Gods**
 
+**Info:** Your powers hail from an incomprehensible being from beyond the stars, whose motivations
+and needs erode your psyche.
+
 **Passive:** You take a -2 penalty on saving throws against confusion and emotion effects and are affected by such effects for at least 1 round even on a successful saving throw.
 
 You gain the [unnerve beasts](ref/hex/unnerve-beasts) hex at 1st level.
-
-**Info:** Your powers hail from an incomprehensible being from beyond the stars, whose motivations
-and needs erode your psyche.
 
 **Spells:** Lesser confusion (2nd)
 
@@ -3588,24 +3793,107 @@ Once per day, when a barbarian with ability penalties or damage ends her _rage,_
 '''
 
 [[resolution]]
+id = "ref/shamanspirit/ancestors"
+name = "Manifestation"
+occurrence = 1
+span_sha256 = "ac9bf9636316231ed440153031fc2c48342078bf4377821d58e5e165a2a8dbb6"
+print = "Cohorts and Companions p. 19"
+replacement = '''
+**Manifestation**
+
+**Gained:** At 20th Level
+
+**Flavor:** The shaman becomes one with the spirits of her ancestors.
+
+**Passive:** She gains a bonus on Will saving throws equal to her Charisma modifier and a +4 bonus to her caster level for all divination spells.
+
+She gains [blindsense](ref/umr/blindsense) out to a range of 60 feet.
+
+She can cast [astral projection](ref/spell/astral-projection) as a [spell-like ability](ref/umr/spell-like-abilities) once per day without requiring material components.
+'''
+
+[[resolution]]
 id = "ref/shamanspirit/battle"
 name = "Battle Spirit (Su)"
 occurrence = 1
 span_sha256 = "b22f7e7c1d1be59350e82368716504a7322c6b98e79599bcb10bf13c78c6b114"
-print = "Advanced Class Guide p. 37"
+print = "Advanced Class Guide p. 38"
 replacement = '''
 **Battle Spirit (Su)**
 
-**Gained:** At 8th Level
-
-**Flavor:** A shaman surrounds herself with the spirit of battle. Allies within 30 feet of the
-shaman (including the shaman) receive a +1 morale bonus on attack rolls and weapon damage rolls.
-
-**Ability:** This bonus increases to +2.
+**Ability:** A shaman surrounds herself with the spirit of battle. Allies within 30 feet of the shaman (including the shaman) receive a +1 morale bonus on attack rolls and weapon damage rolls.
 
 **Usage:** 3 + Charisma modifier rounds/day
 
+**At 8th level,** this bonus increases to +2.
+
 **At 16th level,** this bonus increases to +3.
+'''
+
+[[resolution]]
+id = "ref/shamanspirit/battle"
+name = "Manifestation"
+occurrence = 1
+span_sha256 = "bea8987222d5f588a34a4e9de6251428fe29f7718fb4676c261850e5b49cbe3c"
+print = "Advanced Class Guide p. 37"
+replacement = '''
+**Manifestation**
+
+**Gained:** At 20th Level
+
+**Flavor:** The shaman becomes a spirit of battle.
+
+**Full-round:** She can make a full attack and move up to her speed (either before or after the attacks).
+
+**Ability:** Whenever she scores a critical hit, the attack ignores [damage reduction](ref/rule/damage-reduction).
+
+She gains a +4 insight bonus to AC for the purposes of confirming critical hits against her. If she is reduced to below 0 hit points, she does not die until her negative hit point total exceeds double her Constitution score.
+'''
+
+[[resolution]]
+id = "ref/shamanspirit/bones"
+name = "Manifestation"
+occurrence = 1
+span_sha256 = "01ec3ce00864c5af4673ad6a8d491e8f034cb6382113be3d37f7caf7af97b36e"
+print = "Advanced Class Guide p. 38"
+replacement = '''
+**Manifestation**
+
+**Gained:** At 20th Level
+
+**Flavor:** The shaman becomes a spirit of death.
+
+**Passive:** If she is reduced to below 0 hit points, she automatically stabilizes.
+
+She can cast [animate dead](ref/spell/animate-dead) at will without paying a material component cost, although she is still subject to the usual Hit Dice control limit.
+
+Once per day, she can cast [power word kill](ref/spell/power-word-kill), but the spell can target a creature with 150 hit points or fewer.
+
+**Free:** Once per round, she can cast [bleed](ref/spell/bleed) or [stabilize](ref/spell/stabilize).
+'''
+
+[[resolution]]
+id = "ref/shamanspirit/dark-tapestry"
+name = "Horrific Glimpse (Sp)"
+occurrence = 1
+span_sha256 = "5e90c90d283f14805d663c5b841344ceac44987906b525e8e10995be955f263f"
+print = "Horror Realms p. 17"
+replacement = '''
+**Horrific Glimpse (Sp)**
+
+**Ability:** Once per day, the shaman can gain the effects of [contact other plane](ref/spell/contact-other-plane) after 1 hour of meditation. No components are required in order to use this ability, but the shaman does not get to select which plane she contacts. Instead, this version of the spell contacts an alien mind from somewhere in the Dark Tapestry, be it a hive mind of alien monstrosities, the disembodied sentience of a dead planet, or even the slumbering and insane mind of a Great Old One or Outer God.
+
+The shaman must succeed at a DC 16 Wisdom check rather than an Intelligence check to avoid a
+decrease in Intelligence or Charisma when using this ability. If she fails the check, her
+Intelligence and Charisma scores each fall to 8 for 5 weeks, as the alien minds thus contacted prove
+as destructive to mortal thoughts as direct contact with the most powerful of deities.
+
+The types of answers provided by the horrific glimpse, be they true answers, ignorance, lies, or
+random answers, are considered equal to those of a greater deity if the questions being asked
+concern the Material Plane, but they are equal to those of a demigod if the questions posed concern
+any other plane.
+
+Also once per day (but only after first using this ability as per _[contact other plane](ref/spell/contact-other-plane)_), the shaman can reveal a fragment of this horrific vision to another creature, as per [phantasmal killer](ref/spell/phantasmal-killer), except that the target takes 1d4+1 points of [Wisdom damage](ref/rule/ability-damage-drain) regardless of the results of any of its saving throws. The body of a creature slain by this effect is always hideously mutilated and savaged, making spells like [speak with dead](ref/spell/speak-with-dead) useless.
 '''
 
 [[resolution]]
@@ -3627,6 +3915,24 @@ legs might bend backward at the knees.
 **Ability:** Once per day, the shaman can cast [shapechange](ref/spell/shapechange) as a [spell-like ability](ref/umr/spell-like-abilities) without requiring a material component, but the form the shaman assumes via this spell-like ability is never something that looks of natural origin to the shaman's home world.
 
 She gains [damage reduction](ref/rule/damage-reduction) 5/- and immunity to acid, critical hits, and sneak attacks.
+'''
+
+[[resolution]]
+id = "ref/shamanspirit/flame"
+name = "Manifestation"
+occurrence = 1
+span_sha256 = "c8c3fd0bfd21421f89cf173369c16e0796540845813418febadf45a878e72965"
+print = "Advanced Class Guide p. 39"
+replacement = '''
+**Manifestation**
+
+**Gained:** At 20th Level
+
+**Flavor:** The shaman becomes a spirit of flame.
+
+**Passive:** The shaman gains fire resistance 30.
+
+She can apply any one of the following feats to any fire spell she casts without increasing the spell's level or casting time: [Enlarge Spell](ref/feat/enlarge-spell), [Extend Spell](ref/feat/extend-spell), [Silent Spell](ref/feat/silent-spell), or [Still Spell](ref/feat/still-spell). She doesn't need to possess these feats to use this ability.
 '''
 
 [[resolution]]
@@ -3781,6 +4087,24 @@ The shaman gains cold resistance 30.
 '''
 
 [[resolution]]
+id = "ref/shamanspirit/wind"
+name = "Manifestation"
+occurrence = 1
+span_sha256 = "b2fd0d4bfcb1103bd307019ad764324f3c8ec5a2379965b948607384b72b8133"
+print = "Advanced Class Guide p. 45"
+replacement = '''
+**Manifestation**
+
+**Gained:** At 20th Level
+
+**Flavor:** The shaman becomes a being of air and electricity.
+
+**Passive:** The shaman gains electricity resistance 30.
+
+She can also apply any one of the following feats to any air or electricity spell she casts without increasing the spell's level or casting time: [Enlarge Spell](ref/feat/enlarge-spell), [Extend Spell](ref/feat/extend-spell), [Silent Spell](ref/feat/silent-spell), or [Still Spell](ref/feat/still-spell). She doesn't need to possess these feats to use this ability.
+'''
+
+[[resolution]]
 id = "ref/shamanspirit/wood"
 name = "Manifestation"
 occurrence = 1
@@ -3823,22 +4147,40 @@ print = "Ultimate Intrigue p. 11"
 replacement = '''
 **Many Guises (Ex)**
 
-**Ability:** The vigilante can take on any number of mundane guises. Whenever he changes his identity, he has a third option (instead of social or vigilante): he can become mundane.
-
-While in this identity, he receives a +20 circumstance bonus on Disguise checks to appear like an ordinary member of his race. Spells and abilities that are looking for the vigilante in either of his other identities fail while he is in his mundane identity.
-
-**Prereq:** 5th-level vigilante
-
 **Info:** The mundane identity is not a specific individual. Each one is created at the moment it is
 assumed, and quickly forgotten as soon as it is removed. While in a mundane identity, the vigilante
 does not gain the benefit of either his social or vigilante identity, but instead appears as a
 member of his race, usually a common laborer, farmer, or peasant of any gender. His alignment is
 treated as neutral when he is in his mundane identity.
 
+**Ability:** The vigilante can take on any number of mundane guises. Whenever he changes his identity, he has a third option (instead of social or vigilante): he can become mundane.
+
+While in this identity, he receives a +20 circumstance bonus on Disguise checks to appear like an ordinary member of his race. Spells and abilities that are looking for the vigilante in either of his other identities fail while he is in his mundane identity.
+
+**Prereq:** 5th-level vigilante
+
 **Special:** He must build the appearance for this identity using whatever clothing and tools he has
 at his disposal. While he can use magic (such as a
 [hat of disguise](ref/magic-wondrous/hat-of-disguise)), his mundane identity can never be anything
 other than an ordinary member of a society or large group (subject to GM discretion).
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/abyssal"
+name = "Demonic Might (Su)"
+occurrence = 1
+span_sha256 = "5c6e8ab090db80c6ca8bd76dd327b490f1eb241463cef8ef630eeb499e6deb0d"
+print = "Core Rulebook p. 73"
+replacement = '''
+**Demonic Might (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** The power of the Abyss flows through you.
+
+**Passive:** You gain immunity to electricity and poison and resistance to acid 10, cold 10, and fire 10.
+
+You also gain [telepathy](ref/umr/telepathy) with a range of 60 feet (allowing you to communicate with any creature that can speak a language).
 '''
 
 [[resolution]]
@@ -3857,22 +4199,6 @@ In addition, whenever you are within 30 feet of another sorcerer with this blood
 
 [[resolution]]
 id = "ref/sorcbloodline/arcane"
-name = "Arcane Bond (Su)"
-occurrence = 1
-span_sha256 = "6ba465ecef4668df363f9f4934939d5ba6469063f00737ae1783d343f1b8c0ad"
-print = "Core Rulebook p. 73"
-replacement = '''
-**Arcane Bond (Su)**
-
-**Gained:** At 1st Level
-
-**Ability:** You gain an _arcane bond,_ as a [wizard](ref/class/wizard) equal to your sorcerer level. Your sorcerer levels stack with any wizard levels you possess when determining the powers of your familiar or bonded object. This ability does not allow you to have both a familiar and a bonded item.
-
-Once per day, your _bonded item_ allows you to cast any one of your spells known (unlike a wizard's bonded item, which allows him to cast any one spell in his spellbook).
-'''
-
-[[resolution]]
-id = "ref/sorcbloodline/arcane"
 name = "Arcane Apotheosis (Ex)"
 occurrence = 1
 span_sha256 = "8ffc72ad5fc42fadb5c1740fbfcf9d1dd7f91848dd2ce77b86e936904cf9f88c"
@@ -3887,6 +4213,22 @@ replacement = '''
 **Ability:** You can add any metamagic feats that you know to your spells without increasing their casting time, although you must still expend higher-level spell slots.
 
 Whenever you use magic items that require charges, you can instead expend spell slots to power the item. For every three levels of spell slots that you expend, you consume one less charge when using a magic item that expends charges.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/arcane"
+name = "Arcane Bond (Su)"
+occurrence = 1
+span_sha256 = "6ba465ecef4668df363f9f4934939d5ba6469063f00737ae1783d343f1b8c0ad"
+print = "Core Rulebook p. 73"
+replacement = '''
+**Arcane Bond (Su)**
+
+**Gained:** At 1st Level
+
+**Ability:** You gain an _arcane bond,_ as a [wizard](ref/class/wizard) equal to your sorcerer level. Your sorcerer levels stack with any wizard levels you possess when determining the powers of your familiar or bonded object. This ability does not allow you to have both a familiar and a bonded item.
+
+Once per day, your _bonded item_ allows you to cast any one of your spells known (unlike a wizard's bonded item, which allows him to cast any one spell in his spellbook).
 '''
 
 [[resolution]]
@@ -3928,6 +4270,24 @@ Once per day, you can surround yourself with a cloak of swirling snow for a numb
 '''
 
 [[resolution]]
+id = "ref/sorcbloodline/celestial"
+name = "Ascension (Su)"
+occurrence = 1
+span_sha256 = "3a1b458374e266c92c126b0c9d68d9b4382d13f598a708cf52dacd84aeb355bc"
+print = "Core Rulebook p. 74"
+replacement = '''
+**Ascension (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** You become infused with the power of the heavens.
+
+**Passive:** You gain immunity to acid, cold, and petrification. You also gain resist electricity 10, resist fire 10, and a +4 racial bonus on saves against poison.
+
+You gain unlimited use of the _wings of heaven_ ability. You also gain the ability to speak with any creature that has a language (as per the [tongues](ref/spell/tongues) spell).
+'''
+
+[[resolution]]
 id = "ref/sorcbloodline/destined"
 name = "Destiny Realized (Su)"
 occurrence = 1
@@ -3946,6 +4306,26 @@ Once per day, you can automatically succeed at one caster level check made to ov
 '''
 
 [[resolution]]
+id = "ref/sorcbloodline/djinni"
+name = "Power of the Djinn (Su)"
+occurrence = 1
+span_sha256 = "0bf813866460620e93a20a0fba5e9f52f1315057e445c902cfa0a97880e9c9fa"
+print = "Ultimate Magic p. 67"
+replacement = '''
+**Power of the Djinn (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** You gain the power of genies to grant wishes.
+
+**Ability:** Once per day, you can cast [limited wish](ref/spell/limited-wish) as a [spell-like ability](ref/umr/spell-like-abilities). Such wishes must begin with the words "I wish," and cannot duplicate a wish you have granted within the past 24 hours. If you use this ability to duplicate a spell with a costly material component, you must provide that component.
+
+You also become immune to electricity damage.
+
+You can use _[plane shift](ref/spell/plane-shift)_ once per day to travel to or from the Plane of Air.
+'''
+
+[[resolution]]
 id = "ref/sorcbloodline/draconic"
 name = "Power of Wyrms (Su)"
 occurrence = 1
@@ -3961,6 +4341,26 @@ replacement = '''
 **Passive:** You gain immunity to paralysis, sleep, and damage of your energy type.
 
 You also gain [blindsense](ref/rule/blindsight-and-blindsense) 60 feet.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/efreeti"
+name = "Power of the Efreet (Su)"
+occurrence = 1
+span_sha256 = "9ceb2280135823fbf17d6bac202306e5d123c41443f17c037a169f2307b82565"
+print = "Ultimate Magic p. 67"
+replacement = '''
+**Power of the Efreet (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** You gain the power of genies to grant wishes.
+
+**Ability:** Once per day, you can cast [limited wish](ref/spell/limited-wish) as a [spell-like ability](ref/umr/spell-like-abilities). Such wishes must begin with the words "I wish," and cannot duplicate a wish you have granted within the past 24 hours. If you use this ability to duplicate a spell with a costly material component, you must provide that component.
+
+You also become immune to fire damage.
+
+You can use _[plane shift](ref/spell/plane-shift)_ once per day to travel to or from the Plane of Fire.
 '''
 
 [[resolution]]
@@ -3999,6 +4399,24 @@ You also gain the ability to breathe while passing through earth using your _[ea
 
 [[resolution]]
 id = "ref/sorcbloodline/maestro"
+name = "Grand Maestro (Su)"
+occurrence = 1
+span_sha256 = "48cf56c19edcc4d9f058f87a00856e8b9139bb760b46ff58f2daff50f3f6edee"
+print = "Ultimate Magic p. 68"
+replacement = '''
+**Grand Maestro (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** The power of pure magic music flows through you.
+
+**Ability:** You cast any spell with a verbal component as if it had the [Still Spell](ref/feat/still-spell) metamagic feat applied to it, with no increase to the casting time or spell slot required to cast it.
+
+You gain immunity to sonic damage and language-dependent spells.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/maestro"
 name = "Perfect Voice (Su)"
 occurrence = 1
 span_sha256 = "3b8afc5c60602031a7db66662f50712286c3f7f1b6cd7aba4a15229e6572c6a5"
@@ -4014,21 +4432,41 @@ The save DCs of language-dependent spells you cast increase by +1.
 '''
 
 [[resolution]]
-id = "ref/sorcbloodline/maestro"
-name = "Grand Maestro (Su)"
+id = "ref/sorcbloodline/marid"
+name = "Power of the Marid (Su)"
 occurrence = 1
-span_sha256 = "48cf56c19edcc4d9f058f87a00856e8b9139bb760b46ff58f2daff50f3f6edee"
+span_sha256 = "11d01c841e0ceed27bdbb91bde8327815274e9be049e422b71ae7689216a2348"
 print = "Ultimate Magic p. 68"
 replacement = '''
-**Grand Maestro (Su)**
+**Power of the Marid (Su)**
 
 **Gained:** At 20th Level
 
-**Flavor:** The power of pure magic music flows through you.
+**Flavor:** You gain the power of genies to grant wishes.
 
-**Ability:** You cast any spell with a verbal component as if it had the [Still Spell](ref/feat/still-spell) metamagic feat applied to it, with no increase to the casting time or spell slot required to cast it.
+**Ability:** Once per day, you can cast [limited wish](ref/spell/limited-wish) as a [spell-like ability](ref/umr/spell-like-abilities). Such wishes must begin with the words "I wish," and cannot duplicate a wish you have granted within the past 24 hours. If you use this ability to duplicate a spell with a costly material component, you must provide that component.
 
-You gain immunity to sonic damage and language-dependent spells.
+You also become immune to cold damage.
+
+You can use _[plane shift](ref/spell/plane-shift)_ once per day to travel to or from the Plane of Water.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/naga"
+name = "Power of the Naga (Su)"
+occurrence = 1
+span_sha256 = "aba70a517511ee959d24fdaf15930ade120f737ab9ae929b8075c22bab30ab9b"
+print = "Blood of the Beast p. 17"
+replacement = '''
+**Power of the Naga (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** Your form becomes enhanced by the power of the naga.
+
+**Passive:** You gain immunity to charm effects, mind-reading effects, and poison.
+
+In addition, you can also assume the shape of a naga at will as if using [naga shape III](ref/spell/naga-shape-3).
 '''
 
 [[resolution]]
@@ -4082,19 +4520,23 @@ Once per day, you can cast _[transformation](ref/spell/transformation)_ as a [sp
 '''
 
 [[resolution]]
-id = "ref/sorcbloodline/serpentine"
-name = "Serpentfriend (Ex)"
+id = "ref/sorcbloodline/rakshasa"
+name = "Outsider (Su)"
 occurrence = 1
-span_sha256 = "eb8b60362c621ab9e1e1d467c5f831130972b654b7cff0763dda5c3178eb82f4"
-print = "Advanced Player's Guide p. 139"
+span_sha256 = "2255dee9f32e2f40278a6c53f0b97c874e279533d55d22bcd6d7712e79425d69"
+print = "Ultimate Magic p. 68"
 replacement = '''
-**Serpentfriend (Ex)**
+**Outsider (Su)**
 
-**Gained:** At 3rd Level
+**Gained:** At 20th Level
 
-**Ability:** You can use [speak with animals](ref/spell/speak-with-animals) at will with reptilian animals (including various forms of dinosaurs, lizards, and other cold-blooded creatures).
+**Ability:** Your natural form becomes an animal-headed humanoid, like a true rakshasa. This does not affect your ability to speak or cast spells. You can use your _[alter self](ref/spell/alter-self)_ or other disguise and polymorph abilities to assume your original form or other forms when it suits you.
 
-You gain a [viper](ref/monster/familiar-viper) [familiar](ref/ability/familiars) using your sorcerer level - 2 as your effective wizard level.
+You gain DR 10/piercing.
+
+**Special:** You are forevermore treated as a native outsider rather than as a humanoid (or whatever
+your original type was) for the purpose of spells and other magical effects. Unlike other outsiders,
+you can still be brought back from the dead as if you were a member of your previous creature type.
 '''
 
 [[resolution]]
@@ -4116,6 +4558,44 @@ You may use _serpent's fang_ as often as desired, and you may choose to inflict 
 '''
 
 [[resolution]]
+id = "ref/sorcbloodline/serpentine"
+name = "Serpent's Fang (Ex)"
+occurrence = 1
+span_sha256 = "56b6293f365702a12e3104ef5909eb5017a3cdd474d8d8a7a0d2127307c71dd0"
+print = "Advanced Player's Guide p. 139"
+replacement = '''
+**Serpent's Fang (Ex)**
+
+**Gained:** At 1st Level
+
+**Free:** You can grow fangs. These fangs are treated as a [natural weapon](ref/umr/natural-attacks) inflicting 1d4 points of damage plus your Strength modifier (1d3 if you are Small) plus poison.
+
+**Usage:** 3 + Charisma modifier rounds/day
+
+**At 5th level,** these fangs are considered magical for the purpose of overcoming DR and the poison damage increases to 1d2 Con.
+
+**At 7th level,** your poison requires 2 successful saves to cure.
+
+**At 11th level,** your poison damage increases to 1d4 Con.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/serpentine"
+name = "Serpentfriend (Ex)"
+occurrence = 1
+span_sha256 = "eb8b60362c621ab9e1e1d467c5f831130972b654b7cff0763dda5c3178eb82f4"
+print = "Advanced Player's Guide p. 139"
+replacement = '''
+**Serpentfriend (Ex)**
+
+**Gained:** At 3rd Level
+
+**Ability:** You can use [speak with animals](ref/spell/speak-with-animals) at will with reptilian animals (including various forms of dinosaurs, lizards, and other cold-blooded creatures).
+
+You gain a [viper](ref/monster/familiar-viper) [familiar](ref/ability/familiars) using your sorcerer level - 2 as your effective wizard level.
+'''
+
+[[resolution]]
 id = "ref/sorcbloodline/shadow"
 name = "Shadow Master (Su)"
 occurrence = 1
@@ -4132,22 +4612,23 @@ When you use _[shadow conjuration](ref/spell/shadow-conjuration)_ or _[shadow ev
 '''
 
 [[resolution]]
-id = "ref/sorcbloodline/shapechanger"
-name = "Superior Transformation (Su)"
+id = "ref/sorcbloodline/shaitan"
+name = "Power of the Shaitan (Su)"
 occurrence = 1
-span_sha256 = "7f84aa34577a50a55ddc0409e8969f5529d07bd5c67f11571630b17f9dbeb237"
-print = "Legacy of the First World p. 21"
+span_sha256 = "fe29ee7c453e780d863de7b24bd46e98ca5508f891efaeec77b7c050647d6d37"
+print = "Ultimate Magic p. 69"
 replacement = '''
-**Superior Transformation (Su)**
+**Power of the Shaitan (Su)**
 
-**Gained:** At 15th Level
+**Gained:** At 20th Level
 
-**Flavor:** You become master of your own shape and you fully understand the intricacies of all
-shapechanging magic.
+**Flavor:** You gain the power of genies to grant wishes.
 
-**Ability:** Once per day when you cast a polymorph spell on yourself, in addition to the normal effects of the spell, you can choose to gain a fly speed of 60 feet (average maneuverability), a swim speed of 60 feet, or an increase to your base land speed of 30 feet.
+**Ability:** Once per day, you can cast [limited wish](ref/spell/limited-wish) as a [spell-like ability](ref/umr/spell-like-abilities). Such wishes must begin with the words "I wish," and cannot duplicate a wish you have granted within the past 24 hours. If you use this ability to duplicate a spell with a costly material component, you must provide that component.
 
-You are immune to polymorph effects unless you are a willing target.
+You also become immune to acid damage.
+
+You can use _[plane shift](ref/spell/plane-shift)_ once per day to travel to or from the Plane of Earth.
 '''
 
 [[resolution]]
@@ -4171,6 +4652,25 @@ You gain [blindsight](ref/umr/blindsight) with a range of 60 feet.
 **Special:** You automatically recover from physical [blindness](ref/misc/blinded) or
 [deafness](ref/misc/deafened) after 1 round by growing new sensory organs to replace the compromised
 ones; you cannot otherwise regenerate lost body parts.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/shapechanger"
+name = "Superior Transformation (Su)"
+occurrence = 1
+span_sha256 = "7f84aa34577a50a55ddc0409e8969f5529d07bd5c67f11571630b17f9dbeb237"
+print = "Legacy of the First World p. 21"
+replacement = '''
+**Superior Transformation (Su)**
+
+**Gained:** At 15th Level
+
+**Flavor:** You become master of your own shape and you fully understand the intricacies of all
+shapechanging magic.
+
+**Ability:** Once per day when you cast a polymorph spell on yourself, in addition to the normal effects of the spell, you can choose to gain a fly speed of 60 feet (average maneuverability), a swim speed of 60 feet, or an increase to your base land speed of 30 feet.
+
+You are immune to polymorph effects unless you are a willing target.
 '''
 
 [[resolution]]
@@ -4208,6 +4708,22 @@ Once per day, when attacked with an electricity or sonic effect, you may forgo y
 '''
 
 [[resolution]]
+id = "ref/sorcbloodline/unicorn"
+name = "Blessing (Su)"
+occurrence = 1
+span_sha256 = "84d44e60597ad509edc6dc69c5713ed5039be6a67ac9146e743526763997daeb"
+print = "Heroes of Golarion p. 10"
+replacement = '''
+**Blessing (Su)**
+
+**Gained:** At 20th Level
+
+**Passive:** You gain immunity to poison, to charm effects, and to spells and weapons with the evil descriptor.
+
+You can cast [magic circle against evil](ref/spell/magic-circle-against-evil) at will with a caster level equal to your sorcerer level.
+'''
+
+[[resolution]]
 id = "ref/sorcbloodline/verdant"
 name = "Shepherd of the Trees (Su)"
 occurrence = 1
@@ -4223,30 +4739,6 @@ replacement = '''
 **Passive:** You gain a +4 natural armor bonus. You gain immunity to paralysis, poison, polymorph, sleep, and stunning.
 
 You gain [tremorsense](ref/umr/tremorsense) 30 feet even when not rooted.
-'''
-
-[[resolution]]
-id = "ref/sorcbloodline/vestige"
-name = "Restored Glory (Su)"
-occurrence = 1
-span_sha256 = "6fc6c01dda71b71c28f4ffc8d89b7ef6a4b009850d12834788cc6bbdfc8840b6"
-print = "Blood of the Ancients p. 6"
-replacement = '''
-**Restored Glory (Su)**
-
-**Gained:** At 3rd Level
-
-**Passive:** Objects in your possession with the [broken](ref/misc/broken) condition function as if
-they did not have the broken condition, though if they reach 0 hit points they are destroyed as
-normal.
-
-**At 9th level,** destroyed objects (objects with 0 hit points) in your possession function and appear as if they had only the broken condition, though if they reach a number of negative hit points equal to your level, they become fully destroyed and don't function at all, even in your possession.
-
-**At 15th level,** destroyed objects in your possession function and appear as if fully repaired, though they can become fully destroyed as described above.
-
-**Special:** Destroyed objects must have physical pieces left to be affected by this ability.
-Objects that leave your possession are affected normally by these conditions. This ability does not
-affect artifacts.
 '''
 
 [[resolution]]
@@ -4275,6 +4767,30 @@ under your control, but it cannot attack or take hostile actions.
 **At 20th level,** you can use this ability three times a day.
 
 **Special:** You cannot have more than one ancestor simulacrum active at any one time.
+'''
+
+[[resolution]]
+id = "ref/sorcbloodline/vestige"
+name = "Restored Glory (Su)"
+occurrence = 1
+span_sha256 = "6fc6c01dda71b71c28f4ffc8d89b7ef6a4b009850d12834788cc6bbdfc8840b6"
+print = "Blood of the Ancients p. 6"
+replacement = '''
+**Restored Glory (Su)**
+
+**Gained:** At 3rd Level
+
+**Passive:** Objects in your possession with the [broken](ref/misc/broken) condition function as if
+they did not have the broken condition, though if they reach 0 hit points they are destroyed as
+normal.
+
+**At 9th level,** destroyed objects (objects with 0 hit points) in your possession function and appear as if they had only the broken condition, though if they reach a number of negative hit points equal to your level, they become fully destroyed and don't function at all, even in your possession.
+
+**At 15th level,** destroyed objects in your possession function and appear as if fully repaired, though they can become fully destroyed as described above.
+
+**Special:** Destroyed objects must have physical pieces left to be affected by this ability.
+Objects that leave your possession are affected normally by these conditions. This ability does not
+affect artifacts.
 '''
 
 [[resolution]]
@@ -4312,6 +4828,42 @@ You can cast _[dimension door](ref/spell/dimension-door)_ as a [spell-like abili
 '''
 
 [[resolution]]
+id = "ref/spirit/arnisant"
+name = "Arnisant's Shield (Su)"
+occurrence = 1
+span_sha256 = "9e0ad1cb670e0213f65f17745d3af70b617bc59d368b077a321a075594a93f56"
+print = "Occult Realms p. 10"
+replacement = '''
+**Arnisant's Shield (Su)**
+
+**Ability:** Arnisant grants his power to a single shield you wear, allowing you to increase its enhancement bonus by 1 (or add a shield special ability) with a +1 bonus base price modifier if the shield's enhancement bonus is already +5).
+
+When you would be slain, turned to stone, or otherwise incapacitated, you can allow Arnisant's spirit to sacrifice himself to protect you from the effect. This negates any single non-damaging effect, and for a damaging effect, it leaves you with 0 hit points or your hit point total just before the deathblow, whichever is lower.
+
+In exchange, you lose contact with Arnisant and have no spirit abilities until your next day's
+_seance._ Furthermore, you can't contact Arnisant for 24 hours, and when you next contact Arnisant,
+he starts with 1 more point of influence over you than normal.
+
+**Replaces:** Absorb blow
+'''
+
+[[resolution]]
+id = "ref/spirit/azata"
+name = "Slip the Surly Bonds (Sp)"
+occurrence = 1
+span_sha256 = "d7d3aa27ff11b17ed4e046aa124cbdc426da2c38e7da6f3e186135112d094ed0"
+print = "Psychic Anthology p. 14"
+replacement = '''
+**Slip the Surly Bonds (Sp)**
+
+**Flavor:** You can ignore impediments to your mobility.
+
+**Ability:** You can cast [liberating command](ref/spell/liberating-command) as a [spell-like ability](ref/umr/spell-like-abilities) a number of times per day equal to your Charisma modifier, using your medium level as the spell's caster level.
+
+For a number of rounds per day equal to your medium level, you can move normally regardless of magical effects that impede movement, as if you were affected by [freedom of movement](ref/spell/freedom-of-movement).
+'''
+
+[[resolution]]
 id = "ref/spirit/deceiver"
 name = "Shift Blame (Ex)"
 occurrence = 1
@@ -4340,6 +4892,20 @@ In addition, when an ally affected by your song would be reduced to fewer than 0
 '''
 
 [[resolution]]
+id = "ref/spirit/guardian"
+name = "Absorb Blow (Su)"
+occurrence = 1
+span_sha256 = "59d1dcf945d42219e989d76f637ac92997a72b8c013578fafa0184d859a76264"
+print = "Occult Adventures p. 35"
+replacement = '''
+**Absorb Blow (Su)**
+
+**Passive:** You gain DR/- and resistance to acid, cold, electricity, fire, and sonic equal to [half](ref/misc/fractions-and-rounding) of your medium level.
+
+Add [paladin's sacrifice](ref/spell/paladins-sacrifice) to your medium spells known as a 2nd-level spell.
+'''
+
+[[resolution]]
 id = "ref/spirit/nex"
 name = "Personal Spire (Su)"
 occurrence = 1
@@ -4353,6 +4919,24 @@ replacement = '''
 Nex's legendary spirit grants you access to a personal demiplane that you create (as per one created by [greater create demiplane](ref/spell/create-demiplane-greater)). As long as you channel Nex each day, your demiplane remains, but if you ever channel a spirit from a different legend, the demiplane disappears, dumping its inhabitants onto the Astral Plane.
 
 You can use _project servitor_ to summon a shadowy projection of any creature currently within your demiplane, as long as its CR matches the summon spell (CR 1/2 or lower for [summon monster I](ref/spell/summon-monster-1), CR 1 for [summon monster II](ref/spell/summon-monster-2), CR 2 for [summon monster III](ref/spell/summon-monster-3), CR 3 or 4 for [summon monster IV](ref/spell/summon-monster-4), CR 5 or 6 for [summon monster V](ref/spell/summon-monster-5), CR 7 or 8 for [summon monster VI](ref/spell/summon-monster-6), or CR 9 or 10 for [summon monster VII](ref/spell/summon-monster-7)).
+'''
+
+[[resolution]]
+id = "ref/spirit/sulesh-the-great"
+name = "Master Summoner (Su)"
+occurrence = 1
+span_sha256 = "917ceba85b9f09ae0dc341243bd2fe7694bed2170f32fbdd270e0aa852f3eb9a"
+print = "Occult Realms p. 11"
+replacement = '''
+**Master Summoner (Su)**
+
+**Ability:** You can cast any _[summon monster](ref/spell/summon-monster)_ spell as a **standard action** instead of a full-round action.
+
+Additionally, you can allow Sulesh to gain 1 point of influence over you and expend one of your highest-level spell slots to summon a monster that can be summoned with a _[summon monster](ref/spell/summon-monster)_ spell 1 level higher than the highest one you can cast.
+
+**Usage:** 1 time/day per 2 medium levels
+
+**Replaces:** Arcane surge
 '''
 
 [[resolution]]
@@ -4415,6 +4999,26 @@ She can spend a ki point to gain a +10-foot bonus to movement until the end of h
 '''
 
 [[resolution]]
+id = "ref/talent/occult-dungeoneer"
+name = "Occult Dungeoneer (Su)"
+occurrence = 1
+span_sha256 = "e2761d23b309b1286862ea56c3f68538c4a01f4f45c42fb2635c5d7476968244"
+print = "Magic Tactics Toolbox p. 7"
+replacement = '''
+**Occult Dungeoneer (Su)**
+
+**Flavor:** Street thieves in Absalom expect wares to be securely locked, and sometimes it takes
+high-quality tools and magic training to ensure there's a meal at the end of the day.
+
+**Ability:** A rogue with this ability can use [spell trigger](ref/misc/spell-trigger) and [spell completion](ref/misc/spell-completion) items as if the following spells were on a spell list to which he has access: [detect secret doors](ref/spell/detect-secret-doors), [detect snares and pits](ref/spell/detect-snares-and-pits), [knock](ref/spell/knock), [locate object](ref/spell/locate-object), and [obscure object](ref/spell/obscure-object).
+
+If the spell-trigger device allows a wielder to apply his own caster level (such as with a staff),
+the rogue may use his class level as his caster level.
+
+The rogue may also use _[knock](ref/spell/knock)_ as a supernatural ability once per day, using his rogue level as his caster level.
+'''
+
+[[resolution]]
 id = "ref/talent/shrinewalk"
 name = "Shrinewalk (Sp)"
 occurrence = 1
@@ -4429,6 +5033,24 @@ Council agents can walk the mystic paths between Westcrown's shrines. A rogue wi
 
 **Special:** A rogue can maintain one shrine at a time; if a new marking is created in a new
 location, the previous shrine becomes inactive.
+'''
+
+[[resolution]]
+id = "ref/talent/thrill-of-the-chase"
+name = "Thrill of the Chase (Ex)"
+occurrence = 1
+span_sha256 = "c471f28ad5ad0c166ae1168204e4e07f76fc022d521d64e9593aa2547d61775f"
+print = "Inner Sea Intrigue p. 32"
+replacement = '''
+**Thrill of the Chase (Ex)**
+
+**Flavor:** The rogue revels in the thrill and adrenaline rush of a challenging chase.
+
+**Ability:** When engaged in [a chase](ref/rule/chases) or [pursuit](ref/rule/pursuit), the rogue gains one d20 reroll which she can use at any time after the original roll is made but before the results of the roll are revealed; she must take the second result, even if it is lower.
+
+She can use this reroll once per chase or once per day during a pursuit.
+
+Additionally, she gains [Run](ref/feat/run) as a bonus feat.
 '''
 
 [[resolution]]
@@ -4520,6 +5142,31 @@ a 20-foot increase to its fly speed for each additional point spent.
 '''
 
 [[resolution]]
+id = "ref/unchevolution/web"
+name = "Web (Ex)"
+occurrence = 1
+span_sha256 = "9bfd3681d27fbaf7dccbec892d074b66adaecc7d6b5430de95737c708d4a05ed"
+print = "Pathfinder Unchained p. 38"
+replacement = '''
+**Web (Ex)**
+
+**Ability:** The eidolon gains a pair of spinnerets, giving it the ability to spin webs. The eidolon can use these webs to support itself plus one creature of up to the same size.
+
+It can throw webbing as a ranged touch attack up to eight times per day, entangling a creature up to one size larger than the eidolon. The webbing has a range of 50 feet and a 10-foot range increment.
+
+Creatures [entangled](ref/rule/entangled) by the web can escape with a successful Escape Artist
+check, or with a Strength check at a -4 penalty. The DC of these checks is equal to 10 + 1/2 the
+eidolon's Hit Dice + the eidolon's Constitution modifier. The webs have a
+[hardness](ref/umr/hardness) of 0 and a number of hits points equal to the eidolon's total Hit Dice.
+
+**Prereq:** 7th-level unchained summoner; [daemon](ref/eidolon/daemon), [demon](ref/eidolon/demon),
+or [protean](ref/eidolon/protean) subtype; [climb](ref/unchevolution/climb)
+
+**Special:** The eidolon can climb its own webs at its climb speed and can pinpoint the location of
+any creature touching its webs.
+'''
+
+[[resolution]]
 id = "ref/vigtalent/combat-expertise"
 name = "Combat Expertise (Ex)"
 occurrence = 1
@@ -4559,45 +5206,4 @@ replacement = '''
 **Ability:** The vigilante combines strength and speed into incredibly deadly attacks. He gains [Weapon Finesse](ref/feat/weapon-finesse) as a bonus feat, and if he already has the Weapon Finesse feat, he can immediately swap it for another feat for which he qualified at the level he chose Weapon Finesse.
 
 When using Weapon Finesse to make a melee attack using his Dexterity bonus on attack rolls and his Strength bonus on damage rolls, he also adds half his vigilante level on damage rolls. This bonus damage is not reduced or increased if the vigilante is wielding a weapon two-handed or in an off-hand.
-'''
-
-[[resolution]]
-id = "ref/arcaneschool/divination"
-name = "Foretell (Su)"
-occurrence = 1
-span_sha256 = "c80491dd677d16b1f863673c74169fea03f3ac0d54ddacd2deec654f8089f3c3"
-print = "Advanced Player's Guide p. 146"
-replacement = '''
-**Foretell (Su)**
-
-**Gained:** At 8th Level
-
-**Standard:** You can utter a prediction of the immediate future. While your foretelling is in effect, you emit a 30-foot aura of fortune that aids your allies or hinders your enemies, as chosen by you at the time of prediction.
-
-If you choose to aid, you and your allies gain a +2 luck bonus on ability checks, attack rolls,
-caster level checks, saving throws, and skill checks.
-
-If you choose to hinder, your enemies take a -2 penalty on those rolls instead.
-
-**Usage:** A number of rounds per day equal to your wizard level. These rounds do not need to be consecutive.
-'''
-
-[[resolution]]
-id = "ref/deed/utility-shot"
-name = "Utility Shot (Ex)"
-occurrence = 1
-span_sha256 = "400f98874be59af4db0bfab6461b1835380917eada645794248027faee1cb5c7"
-print = "Ultimate Combat p. 11"
-replacement = '''
-**Utility Shot (Ex)**
-
-**Ability:** If the gunslinger has at least 1 grit point, she can perform all of the following
-utility shots. Each utility shot can be applied to any single attack with a firearm, but the
-gunslinger must declare the utility shot she is using before firing the shot.
-
-**Prereq:** 3rd-level gunslinger
-
-- **Blast Lock:** The gunslinger makes an attack roll against a lock within the first range increment of her firearm. A Diminutive lock usually has AC 7, and larger locks have a lower AC. The lock gains a bonus to its AC against this attack based on its quality. A simple lock has a +10 bonus to AC, an average lock has a +15 bonus to AC, a good lock has a +20 bonus to AC, and a superior lock has a +30 bonus to AC. [Arcane lock](ref/spell/arcane-lock) grants a +10 bonus to the AC of a lock against this attack. On a hit, the lock is destroyed, and the object can be opened as if it were unlocked. On a miss, the lock is destroyed, but the object is jammed and still considered locked. It can still be unlocked by successfully performing this deed, by using the Disable Device skill, or with the break DC, though the DC for either break or Disable Device or the AC increases by 10. A key, combination, or similar mechanical method of unlocking the lock no longer works, though [knock](ref/spell/knock) can still be employed to bypass the lock, and the creator of an _[arcane lock](ref/spell/arcane-lock)_ can still bypass the wards of that spell.
-- **Scoot Unattended Object:** The gunslinger makes an attack roll against a Tiny or smaller unattended object within the first range increment of her firearm. A Tiny unattended object has an AC of 5, a Diminutive unattended object has an AC of 7, and a Fine unattended object has an AC of 11. On a hit, the gunslinger does not damage the object with the shot, but can move it up to 15 feet farther away from the shot's origin. On a miss, she damages the object normally.
-- **Stop Bleeding:** The gunslinger makes a firearm attack and then presses the hot barrel against herself or an adjacent creature to staunch a bleeding wound. Instead of dealing damage, the shot ends a single [bleed](ref/rule/bleed) condition affecting the creature. The gunslinger does not have to make an attack roll when performing the deed in this way; she can instead shoot the firearm into the air, but that shot still uses up ammunition normally.
 '''

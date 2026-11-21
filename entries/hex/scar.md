@@ -21,9 +21,9 @@ on his body. The target may make a Will save to resist this hex.
 These _scars_ do not interfere with the target's senses or prevent it from using abilities, but may
 affect social interactions. They persist through disguises and shapechanging.
 
-**Ability2:** The witch can user her hexes on the scarred target at a range of up to 1 mile, and she
-is considered to have a body part from the target for the purpose of [scrying](ref/spell/scrying)
-and similar divination spells.
+The witch can user her hexes on the scarred target at a range of up to 1 mile, and she is considered
+to have a body part from the target for the purpose of [scrying](ref/spell/scrying) and similar
+divination spells.
 
 **Special:** The witch can withdraw this hex from a target as a **move action** at any range. The
 number of supernatural _scars_ the witch can maintain at once is equal to her Intelligence bonus;

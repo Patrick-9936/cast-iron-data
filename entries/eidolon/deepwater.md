@@ -32,25 +32,23 @@ slap\], [reach](ref/unchevolution/reach) \[tail slap\], [tail](ref/unchevolution
 
 **Base Evolutions**
 
-**Gained:** At 1st Level
-
-**Ability:** Deepwater eidolons gain the [gills](ref/unchevolution/gills),
+**At 1st Level:** Deepwater eidolons gain the [gills](ref/unchevolution/gills),
 [resistance](ref/unchevolution/resistance) (cold), and [swim](ref/unchevolution/swim) evolutions.
 
-**At 4th level,** deepwater eidolons gain the [jet](ref/umr/jet) ability at a speed of 200 feet and
+**At 12th Level:** Deepwater eidolons gain DR 5/magic. They also gain the
+[rend](ref/unchevolution/rend) evolution for tentacle attacks rather than claw attacks.
+
+**At 16th Level:** Deepwater eidolons lose the _resistance_ (cold) evolution and instead gain the
+[immunity](ref/unchevolution/immunity) (cold) evolution.
+
+**At 20th Level:** Deepwater eidolons gain constant
+[freedom of movement](ref/spell/freedom-of-movement) and [fast healing](ref/umr/fast-healing) 5.
+
+**At 4th Level:** Deepwater eidolons gain the [jet](ref/umr/jet) ability at a speed of 200 feet and
 increase the range of their [darkvision](ref/rule/darkvision) to 120 feet.
 
-**At 8th level,** deepwater eidolons gain the [poison](ref/unchevolution/poison) evolution for all
+**At 8th Level:** Deepwater eidolons gain the [poison](ref/unchevolution/poison) evolution for all
 tail slap and tentacle attacks, although the poison can be used only once per round. The summoner
 can spend 2 evolution points to make this poison deal
 [Constitution damage](ref/rule/ability-damage-drain) instead of Strength damage, as normal for the
 poison evolution.
-
-**At 12th level,** deepwater eidolons gain DR 5/magic. They also gain the
-[rend](ref/unchevolution/rend) evolution for tentacle attacks rather than claw attacks.
-
-**At 16th level,** deepwater eidolons lose the _resistance_ (cold) evolution and instead gain the
-[immunity](ref/unchevolution/immunity) (cold) evolution.
-
-**At 20th level,** deepwater eidolons gain constant
-[freedom of movement](ref/spell/freedom-of-movement) and [fast healing](ref/umr/fast-healing) 5.

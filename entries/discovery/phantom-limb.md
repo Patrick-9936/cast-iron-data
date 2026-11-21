@@ -18,14 +18,14 @@ group = "alchemist-discovery"
 This _phantom limb_ does not grant the alchemist any extra attacks or actions per round, and it
 cannot hold or grab anything (including incorporeal objects).
 
-**Prereq:** 8th-level alchemist
-
-**Special:** The alchemist may suppress or activate this ability as a **free action**, and can use
-his _phantom limb_ for a number of rounds per day equal to 3 + his Intelligence modifier (these
-rounds need not be consecutive).
-
 **Standard:** The alchemist may use his _phantom limb_ to make a touch attack against a foe,
 scraping away at the very fibers of the victim's soul. This attack deals 1d4 points of damage per
 alchemist level (Fortitude half). Creatures that are immune to incorporeal attacks are immune to
 this damage, but otherwise the damage bypasses all forms of
 [damage reduction](ref/rule/damage-reduction) except DR/epic.
+
+**Prereq:** 8th-level alchemist
+
+**Special:** The alchemist may suppress or activate this ability as a **free action**, and can use
+his _phantom limb_ for a number of rounds per day equal to 3 + his Intelligence modifier (these
+rounds need not be consecutive).

@@ -14,17 +14,15 @@ group = "oracle-curse"
 
 **Vampirism**
 
-**Gained:** At 5th Level
-
 **Flavor:** You crave the taste of fresh, warm blood.
 
-**Ability:** You gain [channel resistance](ref/umr/channel-resistance) +4.
+**Ability:** You take damage from positive energy and heal from negative energy as if you were
+undead.
+
+**At 5th level,** you gain [channel resistance](ref/umr/channel-resistance) +4.
 
 **At 10th level,** you add [vampiric touch](ref/spell/vampiric-touch) to your list of 3rd-level
 oracle spells known and [undead anatomy II](ref/spell/undead-anatomy-2) to your list of 5th-level
 oracle spells known.
 
 **At 15th level,** you gain [damage reduction](ref/rule/damage-reduction) 5/magic.
-
-**Effects:** You take damage from positive energy and heal from negative energy as if you were
-undead.

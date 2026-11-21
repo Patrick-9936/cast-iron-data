@@ -80,13 +80,13 @@ hit point damage in this fashion.
 
 **Shield of Blades (Ex)**
 
-**Ability:** When taking the [total defense](ref/misc/total-defense) action, the cavalier can extend
-his protection to those around him, granting a +2 circumstance bonus to AC to all adjacent allies.
+**Gained:** At 15th Level
 
 **Flavor:** The cavalier gains an expert sense of impending violence around him.
+
+**Ability:** When taking the [total defense](ref/misc/total-defense) action, the cavalier can extend
+his protection to those around him, granting a +2 circumstance bonus to AC to all adjacent allies.
 
 **Immediate:** In addition, while taking the total defense action, the cavalier can attempt to
 deflect an attack by making an attack roll opposed by the attacker's original attack roll. If
 successful, the attack is deflected and deals no damage.
-
-**Gained:** At 15th Level

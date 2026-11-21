@@ -17,7 +17,7 @@ group = "alchemist-discovery"
 **Ability:** The alchemist learns how to create a [simulacrum](ref/spell/simulacrum), a soulless
 duplicate, into which he can project his consciousness.
 
-**Fullround:** He may shift his consciousness from his current body to any one of his available
+**Full-round:** He may shift his consciousness from his current body to any one of his available
 doppelganger simulacra, which must be on the same plane as the alchemist.
 
 **Prereq:** 10th-level alchemist, [alchemical simulacrum](ref/discovery/alchemical-simulacrum)

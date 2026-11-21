@@ -93,11 +93,11 @@ from your armor (if any), and you can't use this ability if you are pinned or im
 
 **Power of the Naga (Su)**
 
-**Ability:** In addition, you can also assume the shape of a naga at will as if using
-[naga shape III](ref/spell/naga-shape-3).
+**Gained:** At 20th Level
 
 **Flavor:** Your form becomes enhanced by the power of the naga.
 
-**Gained:** At 20th Level
-
 **Passive:** You gain immunity to charm effects, mind-reading effects, and poison.
+
+In addition, you can also assume the shape of a naga at will as if using
+[naga shape III](ref/spell/naga-shape-3).

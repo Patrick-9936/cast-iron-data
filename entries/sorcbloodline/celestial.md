@@ -102,15 +102,15 @@ once per day.
 
 **Ascension (Su)**
 
-**Ability:** You gain unlimited use of the _wings of heaven_ ability. You also gain the ability to
-speak with any creature that has a language (as per the [tongues](ref/spell/tongues) spell).
+**Gained:** At 20th Level
 
 **Flavor:** You become infused with the power of the heavens.
 
-**Gained:** At 20th Level
-
 **Passive:** You gain immunity to acid, cold, and petrification. You also gain resist electricity
 10, resist fire 10, and a +4 racial bonus on saves against poison.
+
+You gain unlimited use of the _wings of heaven_ ability. You also gain the ability to speak with any
+creature that has a language (as per the [tongues](ref/spell/tongues) spell).
 
 ### Empyreal (Wildblooded Mutation)
 
@@ -122,11 +122,11 @@ Your heavenly power derives from insight rather than force of personality.
 **Flavor:** Unlike most sorcerers whose innate magic is powered by force of personality, you use
 pure willpower to master and fuel your magic.
 
-**Passive:** You gain a +2 bonus on all Heal and Knowledge (religion) checks.
-
 **Info:** You use your Wisdom, rather than your Charisma, to determine all class features and
 effects relating to your sorcerer class, such as bonus spells per day, maximum spell level you can
 cast, and the save DCs of your spells.
+
+**Passive:** You gain a +2 bonus on all Heal and Knowledge (religion) checks.
 
 ### Bloodline Powers
 

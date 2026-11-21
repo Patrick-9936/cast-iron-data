@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Natural Spell Combat (Ex):**
+**Natural Spell Combat (Ex)**
 
 **Ability:** The magus can use his _spell combat_ class feature with a
 [natural attack](ref/rule/natural-attacks) of his choice. If he does, he gains a +2 bonus on

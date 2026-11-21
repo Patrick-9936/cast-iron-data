@@ -57,11 +57,11 @@ sonic descriptor, and you break this _taboo_ if you become [enraged](ref/spell/r
 
 **Absorb Blow (Su)**
 
-**Ability:** Add [paladin's sacrifice](ref/spell/paladins-sacrifice) to your medium spells known as
-a 2nd-level spell.
-
 **Passive:** You gain DR/- and resistance to acid, cold, electricity, fire, and sonic equal to
 [half](ref/misc/fractions-and-rounding) of your medium level.
+
+Add [paladin's sacrifice](ref/spell/paladins-sacrifice) to your medium spells known as a 2nd-level
+spell.
 
 ### Greater Spirit Power
 

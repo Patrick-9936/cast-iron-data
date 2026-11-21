@@ -63,10 +63,8 @@ ways, you resemble a divine caster, and prayers often factor into your casting o
 
 **Discipline Powers**
 
-**Gained:** At 1st Level
-
-**Ability:** Choose a deity to worship. Your alignment must remain within one step of your deity's
-or you lose access to all this discipline's bonus spells and discipline powers.
+**At 1st Level:** Choose a deity to worship. Your alignment must remain within one step of your
+deity's or you lose access to all this discipline's bonus spells and discipline powers.
 
 **Description:** Your powers serve to protect or cure you and your allies.
 

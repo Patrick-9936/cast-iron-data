@@ -76,13 +76,6 @@ back from the brink.
 a [concentration](ref/rule/concentration) check with a DC equal to 10 + your caster level. If you
 fail, you continue to manifest your dark half and can't attempt to change back for 1 round.
 
-**At 13th Level:** The bleed damage becomes 1d6 points.
-
-**At 5th Level:** The bleed damage increases to 2 points.
-
-**Special:** When your _dark half_ rounds are expended, you return to your normal self without
-requiring a concentration check.
-
 **Swift:** By allowing the dark forces to overcome you, you can enter a state of instinctual
 cruelty. While you're manifesting your dark half, you increase the DCs of your psychic spells by 1,
 gain a +2 morale bonus on Will saves, and become immune to fear effects.
@@ -95,6 +88,13 @@ concentration other than casting spells using psychic magic, using phrenic ampli
 attempting to return to normal.
 
 **Usage:** ½ your Psychic level + 3 + Charisma modifier times/day
+
+**At 5th level,** the bleed damage increases to 2 points.
+
+**At 13th level,** the bleed damage becomes 1d6 points.
+
+**Special:** When your _dark half_ rounds are expended, you return to your normal self without
+requiring a concentration check.
 
 **Morphic Form (Ex)**
 

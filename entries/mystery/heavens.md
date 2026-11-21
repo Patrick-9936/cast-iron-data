@@ -127,16 +127,16 @@ must be spent in 1-minute increments.
 
 **Mantle of Moonlight (Su)**
 
-**Ability:** As a melee touch attack, you may disrupt a [lycanthrope's](ref/template/lycanthrope)
-connection to the moon. This action automatically forces the lycanthrope into its humanoid form,
-which it must remain in for a number of rounds equal to your oracle level.
-
-**At 5th Level:** You can use this ability to force others into a [rage](ref/spell/rage), as per the
-spell, but only a number of times per day equal to [one-fifth](ref/misc/fractions-and-rounding) of
-your oracle level. It's still a melee touch attack.
-
 **Passive:** Your innate understanding of the moon renders you immune to
 [lycanthropy](ref/rule/lycanthropy).
+
+As a melee touch attack, you may disrupt a [lycanthrope's](ref/template/lycanthrope) connection to
+the moon. This action automatically forces the lycanthrope into its humanoid form, which it must
+remain in for a number of rounds equal to your oracle level.
+
+**At 5th level,** you can use this ability to force others into a [rage](ref/spell/rage), as per the
+spell, but only a number of times per day equal to [one-fifth](ref/misc/fractions-and-rounding) of
+your oracle level. It's still a melee touch attack.
 
 **Moonlight Bridge (Su)**
 
@@ -174,9 +174,9 @@ benefit of the spell [commune](ref/spell/commune).
 
 **Final Revelation**
 
-**Flavor:** Your rapport with the heavens grants you perfect harmony with the universe.
-
 **Gained:** At 20th Level
+
+**Flavor:** Your rapport with the heavens grants you perfect harmony with the universe.
 
 **Passive:** You receive a bonus on all saving throws equal to your Charisma modifier. You
 automatically stabilize if you are below 0 hit points, are immune to fear effects, and automatically

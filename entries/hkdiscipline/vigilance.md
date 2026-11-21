@@ -17,8 +17,8 @@ group = "hellknight-discipline"
 **Ability:** The Hellknight gains [low-light vision](ref/rule/low-light-vision) (this effect is
 constant).
 
-**Fullround:** The Hellknight can see through up to 5 feet of stone, wood, or similar barriers as if
-they didn't exist. Metal or denser barriers block this effect. Each use of this ability lasts as
+**Full-round:** The Hellknight can see through up to 5 feet of stone, wood, or similar barriers as
+if they didn't exist. Metal or denser barriers block this effect. Each use of this ability lasts as
 long as the Hellknight concentrates, up to a number of rounds equal to the Hellknight's level.
 
 **Order:** [Order of the Scourge](ref/hkorder/order-of-the-scourge)

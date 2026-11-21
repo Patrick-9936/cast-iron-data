@@ -29,24 +29,22 @@ limbs \[legs\]).
 
 **Base Evolutions**
 
-**Gained:** At 1st Level
+**At 1st Level:** Devil eidolons gain the [resistance](ref/unchevolution/resistance) (fire)
+evolution and the [skilled](ref/unchevolution/skilled) (Bluff) evolution. They also gain a +4 bonus
+on saving throws against poison.
 
-**Ability:** Devil eidolons gain the [resistance](ref/unchevolution/resistance) (fire) evolution and
-the [skilled](ref/unchevolution/skilled) (Bluff) evolution. They also gain a +4 bonus on saving
-throws against poison.
-
-**At 4th level,** devil eidolons gain acid _resistance_ 10 and cold _resistance_ 10.
-
-**At 8th level,** devil eidolons gain the _skilled_ (Diplomacy) evolution and gain immunity to
-poison.
-
-**At 12th level,** devil eidolons gain DR 5/good. They also gain
+**At 12th Level:** Devil eidolons gain DR 5/good. They also gain
 _[see in darkness](ref/carried/bestiary/rules/universal-monster-rules/see-in-darkness)_ (see the
 [devil creature subtype](ref/subtype/devil)).
 
-**At 16th level,** devil eidolons lose the _resistance_ (fire) evolution, and instead gain the
+**At 16th Level:** Devil eidolons lose the _resistance_ (fire) evolution, and instead gain the
 [immunity](ref/unchevolution/immunity) (fire) evolution. They also gain
 [telepathy](ref/umr/telepathy).
 
-**At 20th level,** devil eidolons gain regeneration 5 (good weapons, good spells). They are still
+**At 20th Level:** Devil eidolons gain regeneration 5 (good weapons, good spells). They are still
 banished to Hell as normal for eidolons if they take enough damage.
+
+**At 4th Level:** Devil eidolons gain acid _resistance_ 10 and cold _resistance_ 10.
+
+**At 8th Level:** Devil eidolons gain the _skilled_ (Diplomacy) evolution and gain immunity to
+poison.

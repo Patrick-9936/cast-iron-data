@@ -59,6 +59,8 @@ involves a book, tome, scroll, or any other form of written knowledge.
 
 **Powerful Knowledge (Ex)**
 
+**Gained:** At 8th Level
+
 **Ability:** The cavalier gains the ability to read scrolls and cast arcane or divine spells from a
 scroll as if he had a caster level of his cavalier level - 4. He can decipher all scrolls, using his
 Linguistics skill in place of [Spellcraft](ref/skill/spellcraft), and does not need to cast
@@ -68,18 +70,22 @@ Which type of spell the cavalier can cast is based on the Knowledge skill he cho
 knowledge._ If he chose Knowledge (arcana), he can cast any arcane spells from a scroll. If he chose
 Knowledge (religion), he can cast any divine spells from a scroll.
 
-**Gained:** At 8th Level
-
-**Passive:** Furthermore, he gains a bonus equal to [one-fifth](ref/misc/fractions-and-rounding) of
-his cavalier level to an ability score for purposes of determining the level of spells he can cast
-from a scroll. The ability score that gains the bonus is dependent on which skill the cavalier
-picked for his _specialized knowledge_ ability. If the cavalier picked Knowledge (arcana), he gains
-the bonus to Intelligence. If he picked Knowledge (religion), he gains the bonus to Wisdom.
+Furthermore, he gains a bonus equal to [one-fifth](ref/misc/fractions-and-rounding) of his cavalier
+level to an ability score for purposes of determining the level of spells he can cast from a scroll.
+The ability score that gains the bonus is dependent on which skill the cavalier picked for his
+_specialized knowledge_ ability. If the cavalier picked Knowledge (arcana), he gains the bonus to
+Intelligence. If he picked Knowledge (religion), he gains the bonus to Wisdom.
 
 **Defensive Knowledge (Ex)**
 
+**Gained:** At 15th Level
+
 **Flavor:** An order of the tome cavalier can grant nearby allies some of the boons of his cavalier
 _challenge._
+
+**Passive:** While allies are adjacent to the cavalier, they gain a +2 bonus on all saving throws
+against spells or [spell-like abilities](ref/umr/spell-like-abilities) cast by the subject of the
+cavalier's _challenge._
 
 **Immediate:** In addition, a number of times per day equal to the cavalier's Intelligence modifier
 (minimum 1) or Wisdom modifier (minimum 1), the cavalier can allow an ally adjacent to him to reroll
@@ -91,9 +97,3 @@ The ability score that determines how many times per day a cavalier can use this
 which Knowledge skill the cavalier picked for _specialized knowledge._ If the cavalier picked
 Knowledge (arcana), the number of times per day this ability can be used is based on Intelligence.
 If he picked Knowledge (religion) it is based on Wisdom.
-
-**Gained:** At 15th Level
-
-**Passive:** While allies are adjacent to the cavalier, they gain a +2 bonus on all saving throws
-against spells or [spell-like abilities](ref/umr/spell-like-abilities) cast by the subject of the
-cavalier's _challenge._

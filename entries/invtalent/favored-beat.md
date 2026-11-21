@@ -14,12 +14,12 @@ group = "investigator-talent"
 
 **Favored Beat (Ex)**
 
+**Flavor:** The investigator is familiar with a specific community in which she gains the benefits
+of _renown._
+
 **Ability:** She gains the [renown](ref/soctalent/renown) vigilante social talent. This community
 can be an entire settlement or portions of a settlement (such as a particular district or
 neighborhood) depending on the population, as allowed by the _renown_ social talent.
-
-**Flavor:** The investigator is familiar with a specific community in which she gains the benefits
-of _renown._
 
 **Special:** Anytime she could select another investigator talent, the investigator can also select
 from the following list of vigilante social talents, using her investigator level as her vigilante

@@ -22,6 +22,8 @@ feat with another choice.
 If a feat temporarily gained in this way has a daily use limitation, any uses of that feat while
 using this ability count toward that feat's daily limit.
 
+**Usage:** 3 + half his vigilante level times/day (minimum 4)
+
 **Special:** This vigilante talent can be selected multiple times. Each time it is selected after
 the first, the vigilante can use this ability to gain the benefits of one additional racial feat at
 the same time, or to reduce the action required to activate this talent by one step (a move action
@@ -33,7 +35,3 @@ same racial prerequisite. He can use one of these feats to meet a prerequisite o
 doing so means he cannot replace a feat currently fulfilling another's prerequisite without also
 replacing those feats that require it. Each individual feat selected counts toward his daily uses of
 this ability.
-
-**Usage:** 3 + half his vigilante level times/day (minimum 4)
-
-**Usage:** 3 + half his vigilante level times/day (minimum 4)

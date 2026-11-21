@@ -56,10 +56,10 @@ cantrip [detect magic](ref/spell/detect-magic).
 **Ability:** You can cast any _[summon monster](ref/spell/summon-monster)_ spell as a **standard
 action** instead of a full-round action.
 
-**Ability2:** Additionally, you can allow Sulesh to gain 1 point of influence over you and expend
-one of your highest-level spell slots to summon a monster that can be summoned with a
+Additionally, you can allow Sulesh to gain 1 point of influence over you and expend one of your
+highest-level spell slots to summon a monster that can be summoned with a
 _[summon monster](ref/spell/summon-monster)_ spell 1 level higher than the highest one you can cast.
 
-**Replaces:** Arcane surge
-
 **Usage:** 1 time/day per 2 medium levels
+
+**Replaces:** Arcane surge

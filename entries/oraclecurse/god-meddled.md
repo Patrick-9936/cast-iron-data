@@ -14,23 +14,21 @@ group = "oracle-curse"
 
 **God-Meddled**
 
-**Gained:** At 5th Level
-
 **Flavor:** The isle of Iblydos is populated and watched over by hero-gods, some of whom are known
 for entangling mortals in their own affairs. The gods' interference in your life has left you with
 strange, unpredictable powers dependent on divine whim. Bizarre side effects occur whenever you are
 affected by a spell from a divine caster - for better or for worse.
 
-**Ability:** You gain a +2 competence bonus on saving throws to resist divine spells.
+**Ability:** Once per round, when a creature casts a divine spell including you as a target, roll
+1d20 and consult the God-Meddled Effects table below. The effect resulting from this roll begins at
+the end of that enemy's turn. This effect targets only you, even if other creatures were included as
+targets of the triggering spell.
+
+**At 5th level,** you gain a +2 competence bonus on saving throws to resist divine spells.
 
 **At 10th level,** you become immune to the [confused](ref/misc/confused) condition.
 
 **At 15th level,** you gain a +4 competence bonus on saving throws to resist mind-affecting effects.
-
-**Effects:** Once per round, when a creature casts a divine spell including you as a target, roll
-1d20 and consult the God-Meddled Effects table below. The effect resulting from this roll begins at
-the end of that enemy's turn. This effect targets only you, even if other creatures were included as
-targets of the triggering spell.
 
 ### God-Meddled Effects
 

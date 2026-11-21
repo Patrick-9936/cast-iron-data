@@ -49,29 +49,27 @@ still must be within one step of the summoner's alignment.
 
 **Base Evolutions**
 
-**Gained:** At 1st Level
-
-**Ability:** A storykin eidolon gains the [resistance](ref/unchevolution/resistance) (sonic)
+**At 1st Level:** A storykin eidolon gains the [resistance](ref/unchevolution/resistance) (sonic)
 evolution. In addition, storykin eidolons of the suit of hammers and suit of shields gain a +2 bonus
 on Fortitude saving throws. Storykin eidolons of the suit of books and suit of keys gain a +2 bonus
 on Reflex saving throws. Storykin eidolons of the suit of crowns and suit of stars gain a +2 bonus
 on Will saving throws.
 
-**At 4th level,** a storykin eidolon gains cold _resistance_ 10 and electricity _resistance_ 10.
-
-**At 8th level,** a storykin eidolon gains the
-[ability increase](ref/unchevolution/ability-increase) evolution, applied to the ability score
-corresponding to its harrow suit.
-
-**At 12th level,** a storykin eidolon gains immunity to bleed, poison, and stun. It also gains DR
+**At 12th Level:** A storykin eidolon gains immunity to bleed, poison, and stun. It also gains DR
 5/adamantine.
 
-**At 16th level,** a storykin eidolon loses the _resistance_ (sonic) evolution and instead gains the
+**At 16th Level:** A storykin eidolon loses the _resistance_ (sonic) evolution and instead gains the
 [immunity](ref/unchevolution/immunity) (sonic) evolution. It also gains immunity to mind-affecting
 effects.
 
-**At 20th level,** a storykin eidolon gains immunity to all types of
+**At 20th Level:** A storykin eidolon gains immunity to all types of
 [ability damage and ability drain](ref/rule/ability-damage-drain) against the ability score
 corresponding to its harrow suit and immunity to
 [energy drain](ref/rule/energy-drain-and-negative-levels). It also gains the _ability increase_
 evolution again, applied to the same ability score that was increased at 8th level.
+
+**At 4th Level:** A storykin eidolon gains cold _resistance_ 10 and electricity _resistance_ 10.
+
+**At 8th Level:** A storykin eidolon gains the
+[ability increase](ref/unchevolution/ability-increase) evolution, applied to the ability score
+corresponding to its harrow suit.

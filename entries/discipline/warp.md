@@ -95,19 +95,23 @@ does not apply to [disarm](ref/rule/disarm) combat maneuver checks.
 
 **Turn Aside (Su)**
 
+**Gained:** At 5th Level
+
 **Flavor:** You can compress or inflate enough space around you to turn aside ranged attacks.
 
-**At 5th Level:** You gain [Deflect Arrows](ref/feat/deflect-arrows) as a bonus feat. You can expend
-1 point from your phrenic pool as an **immediate action** to gain a +4 deflection bonus against a
+**Ability:** You gain [Deflect Arrows](ref/feat/deflect-arrows) as a bonus feat. You can expend 1
+point from your phrenic pool as an **immediate action** to gain a +4 deflection bonus against a
 single ranged attack.
 
 **Sidestep (Su)**
 
+**Gained:** At 13th Level
+
 **Flavor:** You can push your way through holes in reality, crossing vast distances in a single
 stride.
 
-**At 13th Level:** You can teleport up to 10 feet per psychic level per day as a **move action**.
-This teleportation must be used in 5-foot increments and such movement does not provoke attacks of
+**Ability:** You can teleport up to 10 feet per psychic level per day as a **move action**. This
+teleportation must be used in 5-foot increments and such movement does not provoke attacks of
 opportunity. You must have line of sight to your destination to use this ability. You can bring
 other willing creatures with you, but you must expend an equal amount of distance for each creature
 transported.

@@ -178,7 +178,7 @@ random answers, are considered equal to those of a greater deity if the question
 concern the Material Plane, but they are equal to those of a demigod if the questions posed concern
 any other plane.
 
-**Ability2:** Also once per day (but only after first using this ability as per
+Also once per day (but only after first using this ability as per
 _[contact other plane](ref/spell/contact-other-plane)_), the shaman can reveal a fragment of this
 horrific vision to another creature, as per [phantasmal killer](ref/spell/phantasmal-killer), except
 that the target takes 1d4+1 points of [Wisdom damage](ref/rule/ability-damage-drain) regardless of

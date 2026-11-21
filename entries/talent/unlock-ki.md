@@ -18,8 +18,8 @@ group = "rogue-talent"
 she gains from the [ki pool](ref/talent/ki-pool) rogue talent to be equal to 1/2 her rogue level +
 her highest mental ability score modifier (Intelligence, Wisdom, or Charisma).
 
-**Prereq:** Has a ki pool
-
 **Swift:** In addition, she can spend 2 points from her ki pool to gain the skill unlocks for one
 skill of her choice as appropriate for her number of ranks in that skill. This benefit lasts for 1
 minute.
+
+**Prereq:** Has a ki pool

@@ -52,19 +52,19 @@ her _aura_ does not affect allies.
 
 **Dragon-Slaying Strike (Su)**
 
-**Ability:** Whenever she uses _smite evil_ and successfully strikes a dragon, the dragon is also
-subject to a single-target [holy word](ref/spell/holy-word), using her paladin level +10 as the
-caster level. After the banishment effect and the damage from the attack are resolved, the _smite_
-immediately ends.
-
-**Ability2:** In addition, whenever she channels positive energy or uses _lay on hands_ to heal a
-creature, she heals the maximum possible amount.
+**Gained:** At 20th Level
 
 **Flavor:** An oathbound paladin becomes a conduit of holy power.
 
-**Gained:** At 20th Level
-
 **Passive:** Her DR increases to 10/evil.
+
+Whenever she uses _smite evil_ and successfully strikes a dragon, the dragon is also subject to a
+single-target [holy word](ref/spell/holy-word), using her paladin level +10 as the caster level.
+After the banishment effect and the damage from the attack are resolved, the _smite_ immediately
+ends.
+
+In addition, whenever she channels positive energy or uses _lay on hands_ to heal a creature, she
+heals the maximum possible amount.
 
 **Replaces:** Holy champion
 

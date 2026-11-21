@@ -19,10 +19,10 @@ group = "magus-arcana"
 
 **Flavor:** The magus has mastered one [combat maneuver](ref/rule/combat-maneuvers).
 
+**Choice:** He selects one maneuver when selecting this arcana.
+
 **Passive:** Whenever he is attempting the selected maneuver, he uses his magus level in place of
 his base attack bonus (in addition to any base attack bonus gained from other classes).
-
-**Choice:** He selects one maneuver when selecting this arcana.
 
 **Special:** A magus can select this magus arcana more than once. Its effects do not stack. Each
 time he selects this arcana, he selects another combat maneuver.

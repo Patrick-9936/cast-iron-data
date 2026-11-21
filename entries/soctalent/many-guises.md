@@ -14,6 +14,12 @@ group = "social-talent"
 
 **Many Guises (Ex)**
 
+**Info:** The mundane identity is not a specific individual. Each one is created at the moment it is
+assumed, and quickly forgotten as soon as it is removed. While in a mundane identity, the vigilante
+does not gain the benefit of either his social or vigilante identity, but instead appears as a
+member of his race, usually a common laborer, farmer, or peasant of any gender. His alignment is
+treated as neutral when he is in his mundane identity.
+
 **Ability:** The vigilante can take on any number of mundane guises. Whenever he changes his
 identity, he has a third option (instead of social or vigilante): he can become mundane.
 
@@ -22,12 +28,6 @@ ordinary member of his race. Spells and abilities that are looking for the vigil
 his other identities fail while he is in his mundane identity.
 
 **Prereq:** 5th-level vigilante
-
-**Info:** The mundane identity is not a specific individual. Each one is created at the moment it is
-assumed, and quickly forgotten as soon as it is removed. While in a mundane identity, the vigilante
-does not gain the benefit of either his social or vigilante identity, but instead appears as a
-member of his race, usually a common laborer, farmer, or peasant of any gender. His alignment is
-treated as neutral when he is in his mundane identity.
 
 **Special:** He must build the appearance for this identity using whatever clothing and tools he has
 at his disposal. While he can use magic (such as a

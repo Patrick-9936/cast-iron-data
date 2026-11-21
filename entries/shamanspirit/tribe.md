@@ -153,9 +153,9 @@ as [status](ref/spell/status).
 
 **Manifestation**
 
-**Flavor:** The shaman embodies the strength and unity of her tribe.
-
 **Gained:** At 20th Level
+
+**Flavor:** The shaman embodies the strength and unity of her tribe.
 
 **Passive:** She gains a bonus on all of her saving throws equal to her Charisma modifier and
 becomes immune to [compulsion](ref/spelldef/compulsion) spells and

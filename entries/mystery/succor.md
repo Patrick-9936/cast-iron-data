@@ -193,11 +193,11 @@ a maximum number of temporary hit points equal to your oracle level).
 
 **Teamwork Mastery (Ex, Sp)**
 
-**Ability:** This revelation grants you a bonus teamwork feat. You must meet the teamwork feat's
-prerequisites, if any.
-
 **Flavor:** You are an immaculate team player and can distribute your team-based insights to your
 allies with a touch.
+
+**Ability:** This revelation grants you a bonus teamwork feat. You must meet the teamwork feat's
+prerequisites, if any.
 
 **Standard:** You can touch an ally to confer upon it the benefits of any one teamwork feat that you
 have. This effect persists for a number of rounds equal to [half](ref/misc/fractions-and-rounding)

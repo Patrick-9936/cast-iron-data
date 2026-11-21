@@ -28,28 +28,26 @@ restricted to [twinned summoners](ref/arc-unchained-summoner/twinned-summoner).
 
 **Base Evolutions**
 
-**Gained:** At 1st Level
-
-**Ability:** A twinned eidolon gains the [weapon training](ref/unchevolution/weapon-training)
+**At 1st Level:** A twinned eidolon gains the [weapon training](ref/unchevolution/weapon-training)
 evolution. The twinned eidolon also gains the [skilled](ref/unchevolution/skilled) (Disguise)
 evolution. The racial bonus provided by this evolution is doubled when the eidolon is impersonating
 the twinned summoner.
 
-**At 4th level,** a twinned eidolon can cast a summoner spell once per day as a
+**At 12th Level:** A twinned eidolon gains DR 5/magic. The eidolon also gains the
+[extra feat](ref/unchevolution/extra-feat) evolution.
+
+**At 16th Level:** A twinned eidolon gains the _skilled_ evolution and the
+[ability increase](ref/unchevolution/ability-increase) evolution, applied to a skill and an ability
+score of the summoner's choice.
+
+**At 20th Level:** A twinned eidolon gains [fast healing](ref/umr/fast-healing) 5.
+
+**At 4th Level:** A twinned eidolon can cast a summoner spell once per day as a
 [spell-like ability](ref/umr/spell-like-abilities). The spell must be one known by the eidolon's
 summoner and must be at least 1 level lower than the highest-level spell the summoner can cast. The
 eidolon must have a Charisma score of at least 10 + the spell level. The caster level for this
 spell-like ability is equal to the eidolon's Hit Dice minus 2. The save DC is 10 + half the
 eidolon's HD + the eidolon's Charisma modifier.
 
-**At 8th level,** a twinned eidolon gains the [shared slot](ref/unchevolution/shared-slot)
+**At 8th Level:** A twinned eidolon gains the [shared slot](ref/unchevolution/shared-slot)
 evolution.
-
-**At 12th level,** a twinned eidolon gains DR 5/magic. The eidolon also gains the
-[extra feat](ref/unchevolution/extra-feat) evolution.
-
-**At 16th level,** a twinned eidolon gains the _skilled_ evolution and the
-[ability increase](ref/unchevolution/ability-increase) evolution, applied to a skill and an ability
-score of the summoner's choice.
-
-**At 20th level,** a twinned eidolon gains [fast healing](ref/umr/fast-healing) 5.

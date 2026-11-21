@@ -85,21 +85,21 @@ for 1d6 points of fire damage per oracle level.
 **Ability:** You can transform your body into churning light, granting you the effects of
 [blur](ref/spell/blur) and causing your body to shed light as a [sunrod](ref/eq-misc/sunrod).
 
-**At 13th Level:** Creatures that end their turn adjacent to your _luminous form_ are blinded for
+**Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
+in 1-minute increments
+
+**At 7th level,** creatures that end their turn adjacent to your _luminous form_ become
+[blinded](ref/misc/blinded) for 1 round (Fortitude negates).
+
+**At 13th level,** creatures that end their turn adjacent to your _luminous form_ are blinded for
 1d4 rounds (Fortitude reduces to 1 round).
 
-**At 18th Level:** Your luminescence is as bright as natural sunlight, and creatures affected by
+**At 18th level,** your luminescence is as bright as natural sunlight, and creatures affected by
 natural sunlight are so affected if they end their turn adjacent to your _luminous form._
-
-**At 7th Level:** Creatures that end their turn adjacent to your _luminous form_ become
-[blinded](ref/misc/blinded) for 1 round (Fortitude negates).
 
 **Special:** You can forgo the _[blur](ref/spell/blur)_ and blinding aspects of this ability to
 instead simply shed light as a [torch](ref/eq-misc/torch), though this still counts against the
 ability's duration for the day.
-
-**Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
-in 1-minute increments
 
 **Many Roads (Su)**
 

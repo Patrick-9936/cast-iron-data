@@ -47,18 +47,18 @@ An order of the asp cavalier gains the following abilities.
 
 **Indiscriminate (Ex)**
 
-**Ability:** The cavalier can perform a [dirty trick](ref/rule/dirty-trick) combat maneuver against
-creatures with the shaken condition without provoking an attack of opportunity.
+**Gained:** At 2nd Level
 
 **Free:** Whenever the order of the asp cavalier uses [Intimidate](ref/skill/intimidate) to
 demoralize one or more creatures, she can attempt to demoralize an equal number of allies within 30
 feet.
 
-**Gained:** At 2nd Level
-
 **Passive:** While within 30 feet of an ally with the [shaken](ref/misc/shaken) condition, the
 cavalier gains a morale bonus on saving throws. This bonus is equal to 1 + one-sixth of his cavalier
 level.
+
+The cavalier can perform a [dirty trick](ref/rule/dirty-trick) combat maneuver against creatures
+with the shaken condition without provoking an attack of opportunity.
 
 **Command the Meek (Ex)**
 
