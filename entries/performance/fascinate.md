@@ -33,17 +33,17 @@ automatically breaks the effect.
 
 The bard can _fascinate_ one creature.
 
-**At 4th level,** the number of creatures the bard can _fascinate_ 2.
+**At 4th level,** the number of creatures the bard can _fascinate_ increases to 2.
 
-**At 7th level,** the number of creatures the bard can _fascinate_ 3.
+**At 7th level,** the number of creatures the bard can _fascinate_ increases to 3.
 
-**At 10th level,** the number of creatures the bard can _fascinate_ 4.
+**At 10th level,** the number of creatures the bard can _fascinate_ increases to 4.
 
-**At 13th level,** the number of creatures the bard can _fascinate_ 5.
+**At 13th level,** the number of creatures the bard can _fascinate_ increases to 5.
 
-**At 16th level,** the number of creatures the bard can _fascinate_ 6.
+**At 16th level,** the number of creatures the bard can _fascinate_ increases to 6.
 
-**At 19th level,** the number of creatures the bard can _fascinate_ 7.
+**At 19th level,** the number of creatures the bard can _fascinate_ increases to 7.
 
 **Special:** _Fascinate_ is an enchantment (compulsion), mind-affecting ability. _Fascinate_ relies
 on audible and visual components in order to function.

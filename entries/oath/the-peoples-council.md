@@ -48,19 +48,19 @@ normally be.
 The paladin gains the following performances at the indicated levels:
 [inspire courage](ref/performance/inspire-courage) (1st).
 
-**At 4th level,** [Fascinate](ref/performance/fascinate)
+**At 4th level,** [fascinate](ref/performance/fascinate)
 
-**At 5th level,** [Inspire competence](ref/performance/inspire-competence)
+**At 5th level,** [inspire competence](ref/performance/inspire-competence)
 
-**At 7th level,** [Suggestion](ref/performance/suggestion)
+**At 7th level,** [suggestion](ref/performance/suggestion)
 
-**At 10th level,** [Dirge of doom](ref/performance/dirge-of-doom)
+**At 10th level,** [dirge of doom](ref/performance/dirge-of-doom)
 
-**At 13th level,** [Inspire greatness](ref/performance/inspire-greatness)
+**At 13th level,** [inspire greatness](ref/performance/inspire-greatness)
 
-**At 16th level,** [Frightening tune](ref/performance/frightening-tune)
+**At 16th level,** [frightening tune](ref/performance/frightening-tune)
 
-**At 19th level,** [Mass suggestion](ref/performance/mass-suggestion)
+**At 19th level,** [mass suggestion](ref/performance/mass-suggestion)
 
 **Replaces:** Smite evil
 
