@@ -50,21 +50,25 @@ displays knife-like talons._
 
 **Experience points:** 12,800
 
-**Armor class:** 27/9/26
+**Armor class:** 27
 
-**Dr:** 15/slashing
+**Touch:** 9
 
-**Fort:** +14
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +18 natural, -2 size
 
 **Hit points:** 147 (14d10+70)
 
-**Mod:** +1 Dex, +18 natural, -2 size
+**Fort:** +14
 
 **Ref:** +10
 
-**Weaknesses:** landbound
-
 **Will:** +9
+
+**Dr:** 15/slashing
+
+**Weaknesses:** landbound
 
 **Offense**
 

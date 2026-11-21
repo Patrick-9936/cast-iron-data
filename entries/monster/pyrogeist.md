@@ -51,25 +51,29 @@ writhe within the flames._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/23/16
+**Armor class:** 23
+
+**Touch:** 23
+
+**Flat-footed:** 16
+
+**AC modifiers:** +7 deflection, +6 Dex, +1 dodge, -1 size
+
+**Hit points:** 126 (11d8+77)
+
+**Fort:** +10
+
+**Ref:** +9
+
+**Will:** +12
 
 **Chan Res:** +4
 
 **Defensive abilities:** rejuvenation
 
-**Fort:** +10
-
-**Hit points:** 126 (11d8+77)
-
 **Immune:** fire, [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
-
-**Mod:** +7 deflection, +6 Dex, +1 dodge, -1 size
-
-**Ref:** +9
-
-**Will:** +12
 
 **Offense**
 

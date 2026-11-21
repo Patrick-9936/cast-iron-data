@@ -46,21 +46,25 @@ _A sharp-featured humanoid head crowns the powerful, sinuous body of this snake-
 
 **Experience points:** 4,800
 
-**Armor class:** 22/15/16
+**Armor class:** 22
 
-**Defensive abilities:** guarded thoughts
+**Touch:** 15
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +5 Dex, +1 dodge, +7 natural, -1 size
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** poison
-
-**Mod:** +5 Dex, +1 dodge, +7 natural, -1 size
+**Fort:** +7
 
 **Ref:** +10
 
 **Will:** +9 (+11 vs. charm effects)
+
+**Defensive abilities:** guarded thoughts
+
+**Immune:** poison
 
 **Offense**
 

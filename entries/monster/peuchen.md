@@ -50,13 +50,17 @@ _This enormous snake has glowing green eyes, large fangs, and wide, membranous w
 
 **Experience points:** 9,600
 
-**Armor class:** 24/16/18
+**Armor class:** 24
 
-**Fort:** +13
+**Touch:** 16
+
+**Flat-footed:** 18
+
+**AC modifiers:** +6 Dex, +8 natural
 
 **Hit points:** 136 (13d10+65)
 
-**Mod:** +6 Dex, +8 natural
+**Fort:** +13
 
 **Ref:** +14
 

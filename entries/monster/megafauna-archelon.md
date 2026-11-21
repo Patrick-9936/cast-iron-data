@@ -47,13 +47,17 @@ hooked beak._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/9/18
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 9
+
+**Flat-footed:** 18
+
+**AC modifiers:** +10 armor, +1 Dex, -2 size
 
 **Hit points:** 59 (7d8+28)
 
-**Mod:** +10 armor, +1 Dex, -2 size
+**Fort:** +9
 
 **Ref:** +6
 

@@ -47,13 +47,17 @@ ursine claws in anger._
 
 **Experience points:** 1,200
 
-**Armor class:** 15/10/14
+**Armor class:** 15
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +5 natural, -1 size
 
 **Hit points:** 47 (5d10+20)
 
-**Mod:** +1 Dex, +5 natural, -1 size
+**Fort:** +10
 
 **Ref:** +5
 

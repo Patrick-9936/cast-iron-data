@@ -52,21 +52,25 @@ wings._
 
 **Experience points:** 25,600
 
-**Armor class:** 29/7/29
+**Armor class:** 29
 
-**Fort:** +16
+**Touch:** 7
+
+**Flat-footed:** 29
+
+**AC modifiers:** -2 Dex, +22 natural, -1 size
 
 **Hit points:** 184 (16d10+96)
 
-**Immune:** sleep
-
-**Mod:** -2 Dex, +22 natural, -1 size
+**Fort:** +16
 
 **Ref:** +8
 
-**Weaknesses:** distracted by beauty
-
 **Will:** +8
+
+**Immune:** sleep
+
+**Weaknesses:** distracted by beauty
 
 **Offense**
 

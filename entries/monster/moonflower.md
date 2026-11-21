@@ -52,27 +52,31 @@ whole._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/8/21
+**Armor class:** 21
+
+**Touch:** 8
+
+**Flat-footed:** 21
+
+**AC modifiers:** +13 natural, -2 size
+
+**Hit points:** 104 (11d8+55)
+
+**Fort:** +12
+
+**Ref:** +3
+
+**Will:** +4
 
 **Dr:** 10/slashing
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 104 (11d8+55)
-
 **Immune:** electricity, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +13 natural, -2 size
-
-**Ref:** +3
 
 **Resist:** cold 10
 
 **Vulner:** fire
-
-**Will:** +4
 
 **Offense**
 

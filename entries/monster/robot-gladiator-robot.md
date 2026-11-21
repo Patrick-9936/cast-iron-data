@@ -55,28 +55,32 @@ ends in a spinning circular blade. Its final two arms grasp a massive chainsaw._
 
 **Experience points:** 102,400
 
-**Armor class:** 33/15/28
+**Armor class:** 33
+
+**Touch:** 15
+
+**Flat-footed:** 28
+
+**AC modifiers:** +5 Dex, +18 natural
+
+**Hit points:** 161 (22d10+40)
+
+**Fort:** +14
+
+**Ref:** +17
+
+**Will:** +14
 
 **Defensive abilities:** adaptive defense programming, dense structure, [hardness](ref/umr/hardness)
 15, resilient
 
-**Fort:** +14
-
-**Hit points:** 161 (22d10+40)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +5 Dex, +18 natural
-
-**Ref:** +17
 
 **Resist:** electricity 30, fire 30
 
 **Vulner:** electricity
 
 **Weaknesses:** overclocked targeting, vulnerable to critical hits
-
-**Will:** +14
 
 **Offense**
 

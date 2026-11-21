@@ -54,13 +54,17 @@ countless sharp fangs._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/9/22
+**Armor class:** 23
 
-**Fort:** +13
+**Touch:** 9
+
+**Flat-footed:** 22
+
+**AC modifiers:** +1 Dex, +14 natural, -2 size
 
 **Hit points:** 119 (14d8+56)
 
-**Mod:** +1 Dex, +14 natural, -2 size
+**Fort:** +13
 
 **Ref:** +12
 

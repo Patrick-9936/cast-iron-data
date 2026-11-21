@@ -51,21 +51,25 @@ incandescence._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/16/20
+**Armor class:** 25
 
-**Fort:** +15
+**Touch:** 16
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 armor, +4 Dex, +1 dodge, +5 natural, +1 size
 
 **Hit points:** 142 (15d8+75)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +4 armor, +4 Dex, +1 dodge, +5 natural, +1 size
+**Fort:** +15
 
 **Ref:** +11
 
-**Sr:** 22
-
 **Will:** +12
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Sr:** 22
 
 **Offense**
 

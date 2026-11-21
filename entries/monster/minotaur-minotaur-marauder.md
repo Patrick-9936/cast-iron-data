@@ -52,19 +52,23 @@ seasoned combatant._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Defensive abilities:** natural cunning
+**Touch:** 11
 
-**Fort:** +6
+**Flat-footed:** 17
+
+**AC modifiers:** +3 armor, +2 Dex, +5 natural, -1 size
 
 **Hit points:** 62 (6d10+2d10+18\~8)
 
-**Mod:** +3 armor, +2 Dex, +5 natural, -1 size
+**Fort:** +6
 
 **Ref:** +10
 
 **Will:** +6
+
+**Defensive abilities:** natural cunning
 
 **Offense**
 

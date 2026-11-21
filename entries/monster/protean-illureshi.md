@@ -53,27 +53,31 @@ _This anemic protean wears a wizard's robe and garish jewelry._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/14/19
+**Armor class:** 23
+
+**Touch:** 14
+
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +9 natural
+
+**Hit points:** 114 (12d10+48)
+
+**Fort:** +8
+
+**Ref:** +12
+
+**Will:** +13
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 10/lawful
 
-**Fort:** +8
-
-**Hit points:** 114 (12d10+48)
-
 **Immune:** acid, polymorph
-
-**Mod:** +4 Dex, +9 natural
-
-**Ref:** +12
 
 **Resist:** electricity 10, sonic 10
 
 **Sr:** 20
-
-**Will:** +13
 
 **Offense**
 

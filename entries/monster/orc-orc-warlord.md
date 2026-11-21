@@ -52,27 +52,31 @@ abilities = ["23", "14", "18", "8", "6", "10"]
 
 **Experience points:** 2,400
 
-**Armor class:** 15/11/13
+**Armor class:** 15
+
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 armor, +1 deflection, +2 Dex, -2 rage
+
+**Hit points:** 86 (7d12+35)
+
+**Fort:** +9
+
+**Ref:** +4
+
+**Will:** +2
 
 **Dr:** 1/-
 
 **Ferocity:** present
 
-**Fort:** +9
-
-**Hit points:** 86 (7d12+35)
-
 **Improved uncanny dodge:** present
-
-**Mod:** +4 armor, +1 deflection, +2 Dex, -2 rage
-
-**Ref:** +4
 
 **Trap S:** +2
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +2
 
 **Offense**
 

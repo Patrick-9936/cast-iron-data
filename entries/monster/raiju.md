@@ -53,19 +53,23 @@ seemingly ready to bolt._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/15/15
+**Armor class:** 19
 
-**Fort:** +8
+**Touch:** 15
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +4 natural, +1 size
 
 **Hit points:** 51 (6d10+18)
 
-**Immune:** electricity
-
-**Mod:** +4 Dex, +4 natural, +1 size
+**Fort:** +8
 
 **Ref:** +11
 
 **Will:** +2
+
+**Immune:** electricity
 
 **Offense**
 

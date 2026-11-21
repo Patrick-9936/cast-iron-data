@@ -54,13 +54,17 @@ mouth filled with sharp teeth._
 
 **Experience points:** 200
 
-**Armor class:** 11/10/11
+**Armor class:** 11
 
-**Fort:** +1
+**Touch:** 10
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 natural
 
 **Hit points:** 7 (1d8-1)
 
-**Mod:** +1 natural
+**Fort:** +1
 
 **Ref:** +2
 

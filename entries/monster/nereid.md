@@ -55,27 +55,31 @@ diaphanous, wet shawl._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/25/15
+**Armor class:** 25
+
+**Touch:** 25
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 deflection, +9 Dex, +1 dodge
+
+**Hit points:** 126 (12d6+84)
+
+**Fort:** +11
+
+**Ref:** +17
+
+**Will:** +14
 
 **Defensive abilities:** transparency
 
 **Dr:** 10/cold iron
 
-**Fort:** +11
-
-**Hit points:** 126 (12d6+84)
-
 **Immune:** cold, poison
-
-**Mod:** +5 deflection, +9 Dex, +1 dodge
-
-**Ref:** +17
 
 **Sr:** 21
 
 **Weaknesses:** shawl
-
-**Will:** +14
 
 **Offense**
 

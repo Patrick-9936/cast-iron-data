@@ -51,19 +51,23 @@ as the snarling miniature mummy drags its shriveled corpse forward._
 
 **Experience points:** 400
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +2 natural, +1 size
 
 **Hit points:** 15 (2d8+6)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +2 natural, +1 size
+**Fort:** +3
 
 **Ref:** +1
 
 **Will:** +5
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

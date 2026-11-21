@@ -47,13 +47,17 @@ horse._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/8/20
+**Armor class:** 22
 
-**Fort:** +13
+**Touch:** 8
+
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +14 natural, -4 size
 
 **Hit points:** 120 (16d8+48)
 
-**Mod:** +2 Dex, +14 natural, -4 size
+**Fort:** +13
 
 **Ref:** +14
 

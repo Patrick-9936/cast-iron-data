@@ -52,25 +52,29 @@ sphere._
 
 **Experience points:** 4,800
 
-**Armor class:** 23/17/17
+**Armor class:** 23
 
-**Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 10
+**Touch:** 17
 
-**Fort:** +3
+**Flat-footed:** 17
+
+**AC modifiers:** +5 Dex, +1 dodge, +6 natural, +1 size
 
 **Hit points:** 105 (10d10+10 plus 40-hp force field)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +5 Dex, +1 dodge, +6 natural, +1 size
+**Fort:** +3
 
 **Ref:** +8
+
+**Will:** +5
+
+**Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Vulner:** electricity
 
 **Weaknesses:** vulnerable to critical hits
-
-**Will:** +5
 
 **Offense**
 

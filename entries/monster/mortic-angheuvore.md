@@ -52,21 +52,25 @@ blood._
 
 **Experience points:** 600
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Defensive abilities:** death gasp, flesh consumption, negative energy affinity
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +2 Dex, +1 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +2 armor, +2 Dex, +1 natural
+**Fort:** +5
 
 **Ref:** +3
 
-**Vulner:** _consecration_
-
 **Will:** +2; +4 vs. mind-affecting effects
+
+**Defensive abilities:** death gasp, flesh consumption, negative energy affinity
+
+**Vulner:** _consecration_
 
 **Offense**
 

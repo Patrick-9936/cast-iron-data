@@ -52,19 +52,23 @@ _A merging of an emaciated man and a porcupine, this sinister creature smells of
 
 **Experience points:** 3,200
 
-**Armor class:** 20/16/15
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 16
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +1 dodge, +4 natural, +1 size
 
 **Hit points:** 85 (9d10+36)
 
-**Immune:** poison
-
-**Mod:** +4 Dex, +1 dodge, +4 natural, +1 size
+**Fort:** +7
 
 **Ref:** +10
 
 **Will:** +10
+
+**Immune:** poison
 
 **Offense**
 

@@ -50,21 +50,25 @@ its base._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/15
+**Armor class:** 17
 
-**Dr:** 5/slashing
+**Touch:** 11
 
-**Fort:** +8
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +6 natural, -1 size
 
 **Hit points:** 42 (5d8+20)
 
-**Immune:** [plant traits](ref/umr/plant-traits), sonic
-
-**Mod:** +2 Dex, +6 natural, -1 size
+**Fort:** +8
 
 **Ref:** +3
 
 **Will:** +0
+
+**Dr:** 5/slashing
+
+**Immune:** [plant traits](ref/umr/plant-traits), sonic
 
 **Offense**
 

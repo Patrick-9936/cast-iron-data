@@ -57,7 +57,21 @@ deities._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/23/26
+**Armor class:** 31
+
+**Touch:** 23
+
+**Flat-footed:** 26
+
+**AC modifiers:** +4 Dex, +1 dodge, +8 natural, +8 size
+
+**Hit points:** 216 (21d10+101)
+
+**Fort:** +15
+
+**Ref:** +18
+
+**Will:** +13; second save
 
 **Defensive abilities:** reform, swarm traits
 
@@ -65,19 +79,9 @@ deities._
 
 **Fh:** 5
 
-**Fort:** +15
-
-**Hit points:** 216 (21d10+101)
-
 **Immune:** mind-affecting effects, weapon damage
 
-**Mod:** +4 Dex, +1 dodge, +8 natural, +8 size
-
-**Ref:** +18
-
 **Unstop:** present
-
-**Will:** +13; second save
 
 **Offense**
 

@@ -52,25 +52,29 @@ magnificent mask of painted wood and feathers. Bruises and sores cover her skin.
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
+
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 armor, +3 Dex, +3 natural
+
+**Hit points:** 76 (9d8+36)
+
+**Fort:** +10
+
+**Ref:** +6
+
+**Will:** +5
 
 **Defensive abilities:** death gasp, negative energy affinity
 
 **Fh:** 5
 
-**Fort:** +10
-
-**Hit points:** 76 (9d8+36)
-
 **Immune:** pain
 
-**Mod:** +3 armor, +3 Dex, +3 natural
-
-**Ref:** +6
-
 **Weaknesses:** rotting flesh, vulnerable to _consecration_
-
-**Will:** +5
 
 **Offense**
 

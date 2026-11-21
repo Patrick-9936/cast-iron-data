@@ -51,28 +51,32 @@ form and dissolve over this monster's surface._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/17/18
+**Armor class:** 25
+
+**Touch:** 17
+
+**Flat-footed:** 18
+
+**AC modifiers:** +7 Dex, +8 natural
+
+**Hit points:** 138 (12d8+84)
+
+**Fort:** +13
+
+**Ref:** +11
+
+**Will:** +9
 
 **Dr:** 5/-
 
 **Fh:** 5
 
-**Fort:** +13
-
-**Hit points:** 138 (12d8+84)
-
 **Immune:** blindness, cold, deafness, disease, infestation, mind-affecting effects,
 [ooze traits](ref/umr/ooze-traits), sonic
-
-**Mod:** +7 Dex, +8 natural
-
-**Ref:** +11
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 22
-
-**Will:** +9
 
 **Offense**
 

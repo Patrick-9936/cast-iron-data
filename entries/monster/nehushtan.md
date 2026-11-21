@@ -49,19 +49,23 @@ unseen light._
 
 **Experience points:** 600
 
-**Armor class:** 18/16/14
+**Armor class:** 18
 
-**Fort:** +4
+**Touch:** 16
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +2 natural, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** disease, poison
-
-**Mod:** +3 Dex, +1 dodge, +2 natural, +2 size
+**Fort:** +4
 
 **Ref:** +6
 
 **Will:** +3
+
+**Immune:** disease, poison
 
 **Offense**
 

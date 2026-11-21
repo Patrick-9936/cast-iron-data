@@ -53,23 +53,27 @@ machinery._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Fort:** +0
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 natural
 
 **Hit points:** 31 (2d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +2 natural
+**Fort:** +0
 
 **Ref:** +2
+
+**Will:** +0
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Vulner:** electricity
 
 **Weaknesses:** vulnerable to critical hits
-
-**Will:** +0
 
 **Offense**
 

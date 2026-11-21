@@ -49,23 +49,27 @@ like any other ragged oak tree._
 
 **Experience points:** 4,800
 
-**Armor class:** 19/7/19
+**Armor class:** 19
 
-**Defensive abilities:** spell absorption
+**Touch:** 7
 
-**Fort:** +12
+**Flat-footed:** 19
+
+**AC modifiers:** -1 Dex, +12 natural, -2 size
 
 **Hit points:** 95 (10d8+50)
 
-**Immune:** electricity, fire, [plant traits](ref/umr/plant-traits)
-
-**Mod:** -1 Dex, +12 natural, -2 size
+**Fort:** +12
 
 **Ref:** +2
 
-**Sr:** 19 (see spell absorption)
-
 **Will:** +5
+
+**Defensive abilities:** spell absorption
+
+**Immune:** electricity, fire, [plant traits](ref/umr/plant-traits)
+
+**Sr:** 19 (see spell absorption)
 
 **Offense**
 

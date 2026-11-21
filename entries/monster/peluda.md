@@ -51,7 +51,21 @@ quills._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/10/23
+**Armor class:** 24
+
+**Touch:** 10
+
+**Flat-footed:** 23
+
+**AC modifiers:** +1 Dex, +14 natural, -1 size
+
+**Hit points:** 126 (11d12+55)
+
+**Fort:** +14
+
+**Ref:** +8
+
+**Will:** +11
 
 **Defensive abilities:** quills
 
@@ -59,21 +73,11 @@ quills._
 
 **Ferocity:** present
 
-**Fort:** +14
-
-**Hit points:** 126 (11d12+55)
-
 **Immune:** fire, paralysis, sleep
-
-**Mod:** +1 Dex, +14 natural, -1 size
-
-**Ref:** +8
 
 **Sr:** 21
 
 **Weaknesses:** vulnerable tail
-
-**Will:** +11
 
 **Offense**
 

@@ -53,27 +53,31 @@ its back._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/18/20
+**Armor class:** 28
+
+**Touch:** 18
+
+**Flat-footed:** 20
+
+**AC modifiers:** +7 Dex, +1 dodge, +10 natural
+
+**Hit points:** 195 (17d10+102)
+
+**Fort:** +13
+
+**Ref:** +19
+
+**Will:** +16
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 10/lawful
 
-**Fort:** +13
-
-**Hit points:** 195 (17d10+102)
-
 **Immune:** acid, polymorph effects
-
-**Mod:** +7 Dex, +1 dodge, +10 natural
-
-**Ref:** +19
 
 **Resist:** electricity 10, sonic 10
 
 **Sr:** 24
-
-**Will:** +16
 
 **Offense**
 

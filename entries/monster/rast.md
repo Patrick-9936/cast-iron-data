@@ -51,21 +51,25 @@ filled with sharp fangs._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/11/17
+**Armor class:** 18
 
-**Fort:** +8
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +7 natural
 
 **Hit points:** 51 (6d10+18)
 
-**Immune:** fire
-
-**Mod:** +1 Dex, +7 natural
+**Fort:** +8
 
 **Ref:** +6
 
-**Vulner:** cold
-
 **Will:** +3
+
+**Immune:** fire
+
+**Vulner:** cold
 
 **Offense**
 

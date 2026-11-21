@@ -54,23 +54,27 @@ radiates an aura of calm._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/10/15
+**Armor class:** 16
 
-**Dr:** 5/chaotic
+**Touch:** 10
 
-**Fort:** +6
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +6 natural, -1 size
 
 **Hit points:** 37 (5d10+10)
 
-**Immune:** fear
-
-**Mod:** +1 Dex, +6 natural, -1 size
+**Fort:** +6
 
 **Ref:** +4
 
-**Sr:** 15
-
 **Will:** +7
+
+**Dr:** 5/chaotic
+
+**Immune:** fear
+
+**Sr:** 15
 
 **Offense**
 

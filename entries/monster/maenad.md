@@ -49,23 +49,27 @@ eyes suggest insanity._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/15/15
+**Armor class:** 20
 
-**Fort:** +8
+**Touch:** 15
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +1 dodge, +5 natural
 
 **Hit points:** 94 (9d10+45)
 
-**Immune:** calm emotions
-
-**Mod:** +4 Dex, +1 dodge, +5 natural
+**Fort:** +8
 
 **Ref:** +10
+
+**Will:** +9; +4 vs. mind-affecting effects
+
+**Immune:** calm emotions
 
 **Resist:** fire 10
 
 **Sr:** 19
-
-**Will:** +9; +4 vs. mind-affecting effects
 
 **Offense**
 

@@ -56,27 +56,31 @@ vicious maw in its reptilian face._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/12/17
+**Armor class:** 20
+
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +8 natural, -1 size
+
+**Hit points:** 94 (9d10+45)
+
+**Fort:** +11
+
+**Ref:** +11
+
+**Will:** +6
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 5/lawful
 
-**Fort:** +11
-
-**Hit points:** 94 (9d10+45)
-
 **Immune:** acid, polymorph
-
-**Mod:** +3 Dex, +8 natural, -1 size
-
-**Ref:** +11
 
 **Resist:** electricity 10, sonic 10
 
 **Sr:** 18
-
-**Will:** +6
 
 **Offense**
 

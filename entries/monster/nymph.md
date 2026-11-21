@@ -51,19 +51,23 @@ painful in its perfection._
 
 **Experience points:** 3,200
 
-**Armor class:** 23/23/17
+**Armor class:** 23
 
-**Dr:** 10/cold iron
+**Touch:** 23
 
-**Fort:** +13
+**Flat-footed:** 17
+
+**AC modifiers:** +7 deflection, +5 Dex, +1 dodge
 
 **Hit points:** 60 (8d6+32)
 
-**Mod:** +7 deflection, +5 Dex, +1 dodge
+**Fort:** +13
 
 **Ref:** +18
 
 **Will:** +16
+
+**Dr:** 10/cold iron
 
 **Offense**
 

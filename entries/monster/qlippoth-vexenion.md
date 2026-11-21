@@ -51,7 +51,21 @@ amorphous form, its body pulsating with a horrid vitality._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/15
+**Armor class:** 19
+
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +6 natural, -1 size
+
+**Hit points:** 76 (8d10+32)
+
+**Fort:** +10
+
+**Ref:** +6
+
+**Will:** +9
 
 **Amorph:** present
 
@@ -59,21 +73,11 @@ amorphous form, its body pulsating with a horrid vitality._
 
 **Dr:** 5/cold iron or lawful
 
-**Fort:** +10
-
-**Hit points:** 76 (8d10+32)
-
 **Immune:** acid, cold, mind-affecting effects, poison
-
-**Mod:** +4 Dex, +6 natural, -1 size
-
-**Ref:** +6
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 17
-
-**Will:** +9
 
 **Offense**
 

@@ -54,27 +54,31 @@ mud._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
+
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
+
+**Hit points:** 67 (9d10+18)
+
+**Fort:** +8
+
+**Ref:** +9
+
+**Will:** +4
 
 **Amorph:** present
 
 **Dr:** 10/magic
 
-**Fort:** +8
-
-**Hit points:** 67 (9d10+18)
-
 **Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +3 Dex, +6 natural
-
-**Ref:** +9
 
 **Sr:** 17
 
 **Weaknesses:** vulnerable to magic
-
-**Will:** +4
 
 **Offense**
 

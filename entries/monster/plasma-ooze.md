@@ -51,26 +51,30 @@ lashes out with tendrils of blue light._
 
 **Experience points:** 76,800
 
-**Armor class:** 6/6/6
+**Armor class:** 6
 
-**Dr:** 15/-
+**Touch:** 6
+
+**Flat-footed:** 6
+
+**AC modifiers:** -4 size
+
+**Hit points:** 241 (21d8+147)
 
 **Fort:** +14
 
-**Hit points:** 241 (21d8+147)
+**Ref:** +7
+
+**Will:** +2
+
+**Dr:** 15/-
 
 **Immune:** acid, electricity, fire, bludgeoning and piercing damage,
 [ooze traits](ref/umr/ooze-traits)
 
-**Mod:** -4 size
-
-**Ref:** +7
-
 **Resist:** cold 30
 
 **Split:** slashing or sonic, 46 hp
-
-**Will:** +2
 
 **Offense**
 

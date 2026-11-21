@@ -54,27 +54,31 @@ layer of crimson slime glistens on its flesh, dripping over its armor in red riv
 
 **Experience points:** 76,800
 
-**Armor class:** 31/15/27
+**Armor class:** 31
+
+**Touch:** 15
+
+**Flat-footed:** 27
+
+**AC modifiers:** +8 armor, +3 Dex, +1 dodge, +1 insight, +8 natural
+
+**Hit points:** 236 (7d10+10d8+153\~17)
+
+**Fort:** +16
+
+**Ref:** +14
+
+**Will:** +8; +5 vs. poison
 
 **Defensive abilities:** protective slime
 
 **Dr:** 10/cold iron or good
 
-**Fort:** +16
-
-**Hit points:** 236 (7d10+10d8+153\~17)
-
 **Immune:** electricity, poison
-
-**Mod:** +8 armor, +3 Dex, +1 dodge, +1 insight, +8 natural
-
-**Ref:** +14
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 17
-
-**Will:** +8; +5 vs. poison
 
 **Offense**
 

@@ -52,23 +52,27 @@ from its hands and arms._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/15/14
+**Armor class:** 18
+
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 armor, +4 Dex, +1 natural, +1 size
+
+**Hit points:** 39 (6d8+12)
+
+**Fort:** +7
+
+**Ref:** +6
+
+**Will:** +4; +4 vs. mind-affecting effects
 
 **Defensive abilities:** death gasp, negative energy affinity
 
 **Dr:** 5/piercing or slashing
 
-**Fort:** +7
-
-**Hit points:** 39 (6d8+12)
-
-**Mod:** +2 armor, +4 Dex, +1 natural, +1 size
-
-**Ref:** +6
-
 **Vulner:** _consecration_
-
-**Will:** +4; +4 vs. mind-affecting effects
 
 **Offense**
 

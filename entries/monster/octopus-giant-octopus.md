@@ -50,19 +50,23 @@ body of this gigantic octopus._
 
 **Experience points:** 4,800
 
-**Armor class:** 18/11/16
+**Armor class:** 18
 
-**Fort:** +11
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +7 natural, -1 size
 
 **Hit points:** 90 (12d8+36)
 
-**Ink:** 30
-
-**Mod:** +2 Dex, +7 natural, -1 size
+**Fort:** +11
 
 **Ref:** +12
 
 **Will:** +7
+
+**Ink:** 30
 
 **Offense**
 

@@ -47,22 +47,26 @@ slow approach._
 
 **Experience points:** 1,600
 
-**Armor class:** 4/4/4
+**Armor class:** 4
 
-**Defensive abilities:** split
+**Touch:** 4
 
-**Fort:** +8
+**Flat-footed:** 4
+
+**AC modifiers:** -5 Dex, -1 size
 
 **Hit points:** 63 (6d8+36)
 
-**Immune:** electricity, mind-affecting effects, [ooze traits](ref/umr/ooze-traits), slashing and
-piercing damage
-
-**Mod:** -5 Dex, -1 size
+**Fort:** +8
 
 **Ref:** -3
 
 **Will:** -3
+
+**Defensive abilities:** split
+
+**Immune:** electricity, mind-affecting effects, [ooze traits](ref/umr/ooze-traits), slashing and
+piercing damage
 
 **Offense**
 

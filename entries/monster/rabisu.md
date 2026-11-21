@@ -48,25 +48,29 @@ and a fang-filled mouth._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/18/17
+**Armor class:** 25
 
-**Dr:** 10/cold iron and magic
+**Touch:** 18
 
-**Fort:** +11
+**Flat-footed:** 17
+
+**AC modifiers:** +8 Dex, +1 Dodge, +7 natural
 
 **Hit points:** 147 (14d6+98)
 
-**Immune:** fire, bleed, fear
-
-**Mod:** +8 Dex, +1 Dodge, +7 natural
+**Fort:** +11
 
 **Ref:** +16
+
+**Will:** +14
+
+**Dr:** 10/cold iron and magic
+
+**Immune:** fire, bleed, fear
 
 **Resist:** cold 10, electricity 10
 
 **Weaknesses:** susceptible to salt
-
-**Will:** +14
 
 **Offense**
 

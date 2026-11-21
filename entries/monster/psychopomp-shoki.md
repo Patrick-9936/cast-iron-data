@@ -55,25 +55,29 @@ Low-light vision, Spirit-sense
 
 **Experience points:** 6,400
 
-**Armor class:** 25/15/20
+**Armor class:** 25
 
-**Dr:** 10/adamantine
+**Touch:** 15
 
-**Fort:** +9
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +1 dodge, +10 natural
 
 **Hit points:** 115 (10d10+60)
 
-**Immune:** acid, charm, cold, death effects, disease, fear, poison, sleep
-
-**Mod:** +4 Dex, +1 dodge, +10 natural
+**Fort:** +9
 
 **Ref:** +11
+
+**Will:** +14
+
+**Dr:** 10/adamantine
+
+**Immune:** acid, charm, cold, death effects, disease, fear, poison, sleep
 
 **Resist:** electricity 10
 
 **Sr:** 20
-
-**Will:** +14
 
 **Offense**
 

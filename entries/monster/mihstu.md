@@ -52,27 +52,31 @@ talons and claws._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/17/15
+**Armor class:** 22
+
+**Touch:** 17
+
+**Flat-footed:** 15
+
+**AC modifiers:** +6 Dex, +1 dodge, +5 natural
+
+**Hit points:** 92 (8d10+48)
+
+**Fort:** +12
+
+**Ref:** +12
+
+**Will:** +4
 
 **Defensive abilities:** wind defense
 
 **Dr:** 10/magic
 
-**Fort:** +12
-
-**Hit points:** 92 (8d10+48)
-
 **Immune:** electricity, [elemental](ref/subtype/elemental) traits
-
-**Mod:** +6 Dex, +1 dodge, +5 natural
-
-**Ref:** +12
 
 **Sr:** 19
 
 **Weaknesses:** susceptible to cold
-
-**Will:** +4
 
 **Offense**
 

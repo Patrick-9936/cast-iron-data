@@ -47,19 +47,23 @@ deeper into and escape from its fleshy husk._
 
 **Experience points:** 6,400
 
-**Armor class:** 21/17/16
+**Armor class:** 21
 
-**Fort:** +12
+**Touch:** 17
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +1 dodge, +6 natural
 
 **Hit points:** 115 (10d8+70)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +6 Dex, +1 dodge, +6 natural
+**Fort:** +12
 
 **Ref:** +11
 
 **Will:** +9
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

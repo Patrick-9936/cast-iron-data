@@ -55,25 +55,29 @@ from between its jagged teeth._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/11/20
+**Armor class:** 22
 
-**Dr:** 5/adamantine
+**Touch:** 11
 
-**Fort:** +11
+**Flat-footed:** 20
+
+**AC modifiers:** +11 armor, +2 Dex, -1 size
 
 **Hit points:** 105 (10d10+50)
 
-**Immune:** fire
-
-**Mod:** +11 armor, +2 Dex, -1 size
+**Fort:** +11
 
 **Ref:** +9
+
+**Will:** +5
+
+**Dr:** 5/adamantine
+
+**Immune:** fire
 
 **Vulner:** cold
 
 **Weaknesses:** lava dependency
-
-**Will:** +5
 
 **Offense**
 

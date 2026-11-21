@@ -55,23 +55,27 @@ decorations._
 
 **Experience points:** 1,228,800
 
-**Armor class:** 32/19/29
+**Armor class:** 32
+
+**Touch:** 19
+
+**Flat-footed:** 29
+
+**AC modifiers:** +8 armor, +5 deflection, +3 Dex, +1 insight, +5 natural
+
+**Hit points:** 210 (20d6+138)
+
+**Fort:** +16
+
+**Ref:** +15
+
+**Will:** +25; +8 vs. mind-affecting
 
 **Defensive abilities:** hard to kill, _[mind blank](ref/spell/mind-blank)_, mythic saving throws
 
 **Dr:** 10/epic
 
-**Fort:** +16
-
-**Hit points:** 210 (20d6+138)
-
-**Mod:** +8 armor, +5 deflection, +3 Dex, +1 insight, +5 natural
-
-**Ref:** +15
-
 **Regen:** 1
-
-**Will:** +25; +8 vs. mind-affecting
 
 **Offense**
 

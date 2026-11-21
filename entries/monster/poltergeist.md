@@ -51,23 +51,27 @@ loose objects._
 
 **Experience points:** 600
 
-**Armor class:** 12/12/11
+**Armor class:** 12
 
-**Defensive abilities:** natural invisibility, rejuvenation
+**Touch:** 12
 
-**Fort:** +2
+**Flat-footed:** 11
+
+**AC modifiers:** +1 deflection, +1 Dex
 
 **Hit points:** 16 (3d8+3)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +1 deflection, +1 Dex
+**Fort:** +2
 
 **Ref:** +2
 
 **Will:** +4
+
+**Defensive abilities:** natural invisibility, rejuvenation
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

@@ -52,27 +52,31 @@ eyes gazes from a horned head that ends in an elongated, toothy snout._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/15
+**Armor class:** 18
+
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +6 natural, -1 size
+
+**Hit points:** 57 (6d10+24)
+
+**Fort:** +9
+
+**Ref:** +8
+
+**Will:** +4
 
 **Defensive abilities:** natural invisibility, reflective skin
 
 **Dr:** 5/magic
-
-**Fort:** +9
-
-**Hit points:** 57 (6d10+24)
-
-**Mod:** +3 Dex, +6 natural, -1 size
-
-**Ref:** +8
 
 **Resist:** cold 5, electricity 5
 
 **Sr:** 16
 
 **Vulner:** sonic
-
-**Will:** +4
 
 **Offense**
 

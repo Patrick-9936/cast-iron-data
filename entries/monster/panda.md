@@ -48,13 +48,17 @@ rounder._
 
 **Experience points:** 600
 
-**Armor class:** 13/10/13
+**Armor class:** 13
 
-**Fort:** +5
+**Touch:** 10
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +3 natural
+**Fort:** +5
 
 **Ref:** +3
 

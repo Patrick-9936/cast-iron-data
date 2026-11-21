@@ -48,25 +48,29 @@ _A mass of shell-like fungus grows so thick it obscures the mass of plant matter
 
 **Experience points:** 3,200
 
-**Armor class:** 20/13/17
+**Armor class:** 20
+
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +7 natural
+
+**Hit points:** 85 (10d8+40)
+
+**Fort:** +10
+
+**Ref:** +6
+
+**Will:** +6
 
 **Defensive abilities:** psychotic musk
 
 **Dr:** 5/slashing
 
-**Fort:** +10
-
-**Hit points:** 85 (10d8+40)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
 
-**Mod:** +3 Dex, +7 natural
-
-**Ref:** +6
-
 **Resist:** fire 10
-
-**Will:** +6
 
 **Offense**
 

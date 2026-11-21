@@ -52,23 +52,27 @@ webs of flesh._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/7/29
+**Armor class:** 29
 
-**Dr:** 10/lawful
+**Touch:** 7
 
-**Fort:** +18
+**Flat-footed:** 29
+
+**AC modifiers:** -1 Dex, +22 natural, -2 size
 
 **Hit points:** 203 (14d10+126)
 
-**Immune:** cold, poison, mind-affecting effects
-
-**Mod:** -1 Dex, +22 natural, -2 size
+**Fort:** +18
 
 **Ref:** +10
 
-**Resist:** acid 10, electricity 10, fire 10
-
 **Will:** +9
+
+**Dr:** 10/lawful
+
+**Immune:** cold, poison, mind-affecting effects
+
+**Resist:** acid 10, electricity 10, fire 10
 
 **Offense**
 

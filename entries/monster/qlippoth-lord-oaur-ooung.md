@@ -53,29 +53,33 @@ pulsing blisters._
 
 **Experience points:** 819,200
 
-**Armor class:** 40/14/32
+**Armor class:** 40
+
+**Touch:** 14
+
+**Flat-footed:** 32
+
+**AC modifiers:** +4 deflection, +8 Dex, +26 natural, -8 size
+
+**Hit points:** 481 (26d10+338)
+
+**Fort:** +32
+
+**Ref:** +27
+
+**Will:** +18
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, reactive swarms
 
 **Dr:** 15/cold iron and lawful
 
-**Fort:** +32
-
-**Hit points:** 481 (26d10+338)
-
 **Immune:** cold, death effects, mind-affecting effects, poison
-
-**Mod:** +4 deflection, +8 Dex, +26 natural, -8 size
-
-**Ref:** +27
 
 **Regen:** 15 (lawful)
 
 **Resist:** cid 30, electricity 30, fire 30
 
 **Sr:** 34
-
-**Will:** +18
 
 **Offense**
 

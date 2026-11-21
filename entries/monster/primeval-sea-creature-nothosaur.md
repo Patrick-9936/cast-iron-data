@@ -47,13 +47,17 @@ long and slender tail behind it as it gnashes its sharp, needle-like teeth._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/10/17
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +8 natural, -1 size
 
 **Hit points:** 57 (6d8+30)
 
-**Mod:** +1 Dex, +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +6
 

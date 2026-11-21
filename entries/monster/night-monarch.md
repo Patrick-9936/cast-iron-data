@@ -54,25 +54,29 @@ drifts from its gigantic wings._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/15/24
+**Armor class:** 31
+
+**Touch:** 15
+
+**Flat-footed:** 24
+
+**AC modifiers:** +6 Dex, +1 dodge, +16 natural, -2 size
+
+**Hit points:** 207 (18d10+108)
+
+**Fort:** +17
+
+**Ref:** +14
+
+**Will:** +15
 
 **Defensive abilities:** poison flesh
 
 **Dr:** 15/evil
 
-**Fort:** +17
-
-**Hit points:** 207 (18d10+108)
-
 **Immune:** cold (itself and riders), electricity, sleep
 
-**Mod:** +6 Dex, +1 dodge, +16 natural, -2 size
-
-**Ref:** +14
-
 **Sr:** 26
-
-**Will:** +15
 
 **Offense**
 

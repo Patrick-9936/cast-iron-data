@@ -55,21 +55,27 @@ gaping, sludge-dripping mouth._
 
 **Experience points:** 409,600
 
-**Armor class:** 37/21/26
+**Armor class:** 37
+
+**Touch:** 21
+
+**Flat-footed:** 26
+
+**AC modifiers:** +4 deflection, +10 Dex, +1 dodge, +16 natural, -4 size
+
+**Hit points:** 396 (24d10+264)
+
+**Fort:** +23
+
+**Ref:** +28
+
+**Will:** +27
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 15/cold iron and lawful
 
-**Fort:** +23
-
-**Hit points:** 396 (24d10+264)
-
 **Immune:** acid, cold, death effects, mind-affecting effects, poison
-
-**Mod:** +4 deflection, +10 Dex, +1 dodge, +16 natural, -4 size
-
-**Ref:** +28
 
 **Regen:** 15 (lawful)
 
@@ -78,8 +84,6 @@ gaping, sludge-dripping mouth._
 **Sr:** 32
 
 **Weaknesses:** nearly mindless
-
-**Will:** +27
 
 **Offense**
 

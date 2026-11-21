@@ -51,25 +51,29 @@ coils also end in toothy maws._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/15/19
+**Armor class:** 24
+
+**Touch:** 15
+
+**Flat-footed:** 19
+
+**AC modifiers:** +5 Dex, +9 natural
+
+**Hit points:** 125 (10d10+70)
+
+**Fort:** +14
+
+**Ref:** +12
+
+**Will:** +7
 
 **Defensive abilities:** acid spray
 
 **Dr:** 10/lawful
 
-**Fort:** +14
-
-**Hit points:** 125 (10d10+70)
-
 **Immune:** acid, cold, poison, mind-affecting effects
 
-**Mod:** +5 Dex, +9 natural
-
-**Ref:** +12
-
 **Resist:** electricity 10, fire 10
-
-**Will:** +7
 
 **Offense**
 

@@ -55,23 +55,27 @@ white light._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/21/18
+**Armor class:** 25
 
-**Chan Res:** +4
+**Touch:** 21
 
-**Fort:** +10
+**Flat-footed:** 18
+
+**AC modifiers:** +5 deflection, +7 Dex, +4 shield, -1 size
 
 **Hit points:** 142 (15d8+75)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +5 deflection, +7 Dex, +4 shield, -1 size
+**Fort:** +10
 
 **Ref:** +12
 
 **Will:** +12
+
+**Chan Res:** +4
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

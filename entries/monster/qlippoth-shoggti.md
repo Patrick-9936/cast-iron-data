@@ -50,25 +50,29 @@ between two staring eyes._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/12/18
+**Armor class:** 21
 
-**Dr:** 10/cold iron or lawful
+**Touch:** 12
 
-**Fort:** +11
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +9 natural, -1 size
 
 **Hit points:** 80 (7d10+42)
 
-**Immune:** cold, poison, mind-affecting effects
-
-**Mod:** +3 Dex, +9 natural, -1 size
+**Fort:** +11
 
 **Ref:** +5
+
+**Will:** +9
+
+**Dr:** 10/cold iron or lawful
+
+**Immune:** cold, poison, mind-affecting effects
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Uncanny dodge:** present
-
-**Will:** +9
 
 **Offense**
 

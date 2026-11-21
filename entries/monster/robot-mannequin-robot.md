@@ -50,25 +50,29 @@ _This impassive humanoid has shiny, pale skin and an eerily expressionless face.
 
 **Experience points:** 600
 
-**Armor class:** 13/11/12
+**Armor class:** 13
 
-**Fort:** +0
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 natural
 
 **Hit points:** 31 (2d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +2 natural
+**Fort:** +0
 
 **Ref:** +1
+
+**Will:** +0
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** electricity 5, fire 5
 
 **Vulner:** electricity
 
 **Weaknesses:** vulnerable to critical hits
-
-**Will:** +0
 
 **Offense**
 

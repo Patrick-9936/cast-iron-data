@@ -52,25 +52,29 @@ intent._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Dr:** 5/slashing
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 76 (9d8+36)
 
-**Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +7
 
 **Ref:** +6
+
+**Will:** +7
+
+**Dr:** 5/slashing
+
+**Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Sr:** 17
 
 **Weaknesses:** self-loathing
-
-**Will:** +7
 
 **Offense**
 

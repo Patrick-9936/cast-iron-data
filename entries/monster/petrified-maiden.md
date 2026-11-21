@@ -48,21 +48,25 @@ warrior woman._
 
 **Experience points:** 2,400
 
-**Armor class:** 21/11/20
+**Armor class:** 21
 
-**Chan Res:** +2
+**Touch:** 11
 
-**Defensive abilities:** petrified body
+**Flat-footed:** 20
 
-**Fort:** +6
+**AC modifiers:** +1 Dex, +10 natural
 
 **Hit points:** 67 (9d8+27)
 
-**Mod:** +1 Dex, +10 natural
+**Fort:** +6
 
 **Ref:** +4
 
 **Will:** +6
+
+**Chan Res:** +2
+
+**Defensive abilities:** petrified body
 
 **Offense**
 

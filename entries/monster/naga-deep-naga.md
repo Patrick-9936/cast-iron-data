@@ -47,23 +47,27 @@ wide mouth filled with fangs._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/13/22
+**Armor class:** 27
 
-**Defensive abilities:** spell siphon
+**Touch:** 13
 
-**Fort:** +10
+**Flat-footed:** 22
+
+**AC modifiers:** +5 Dex, +14 natural, -2 size
 
 **Hit points:** 161 (17d8+85)
 
-**Mod:** +5 Dex, +14 natural, -2 size
+**Fort:** +10
 
 **Ref:** +10
+
+**Will:** +15
+
+**Defensive abilities:** spell siphon
 
 **Sr:** 23
 
 **Weaknesses:** ley-line dependent
-
-**Will:** +15
 
 **Offense**
 

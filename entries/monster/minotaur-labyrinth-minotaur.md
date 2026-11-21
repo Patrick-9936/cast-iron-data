@@ -52,21 +52,25 @@ mask that covers most of its face._
 
 **Experience points:** 76,800
 
-**Armor class:** 29/13/29
+**Armor class:** 29
 
-**Defensive abilities:** natural cunning
+**Touch:** 13
 
-**Fort:** +19
+**Flat-footed:** 29
+
+**AC modifiers:** +4 Dex, +16 natural, -1 size
 
 **Hit points:** 232 (15d10+150)
 
-**Mod:** +4 Dex, +16 natural, -1 size
+**Fort:** +19
 
 **Ref:** +9
 
-**Resist:** fire 20
-
 **Will:** +17
+
+**Defensive abilities:** natural cunning
+
+**Resist:** fire 20
 
 **Offense**
 

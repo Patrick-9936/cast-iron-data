@@ -52,27 +52,31 @@ around it._
 
 **Experience points:** 307,200
 
-**Armor class:** 32/20/30
+**Armor class:** 32
+
+**Touch:** 20
+
+**Flat-footed:** 30
+
+**AC modifiers:** +9 deflection, +2 Dex, +12 natural, -1 size
+
+**Hit points:** 378 (28d8+252)
+
+**Fort:** +18
+
+**Ref:** +11
+
+**Will:** +20
 
 **Chan Res:** +4
 
 **Dr:** 15/cold iron and good
 
-**Fort:** +18
-
-**Hit points:** 378 (28d8+252)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +9 deflection, +2 Dex, +12 natural, -1 size
-
-**Ref:** +11
-
 **Sr:** 31
-
-**Will:** +20
 
 **Offense**
 

@@ -49,19 +49,23 @@ brown skin. His hair is unkempt and his flesh is weathered, but his large eyes g
 
 **Experience points:** 1,200
 
-**Armor class:** 17/14/14
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +3 natural, +1 size
 
 **Hit points:** 33 (6d6+12)
 
-**Mod:** +3 Dex, +3 natural, +1 size
+**Fort:** +4
 
 **Ref:** +8
 
 **Will:** +8
+
+**Dr:** 5/cold iron
 
 **Offense**
 

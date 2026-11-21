@@ -57,25 +57,29 @@ starscape that whirls in mad patterns._
 
 **Experience points:** 76,800
 
-**Armor class:** 35/9/34
+**Armor class:** 35
+
+**Touch:** 9
+
+**Flat-footed:** 34
+
+**AC modifiers:** +1 Dex, +26 natural, -2 size
+
+**Hit points:** 260 (16d12+156)
+
+**Fort:** +16
+
+**Ref:** +11
+
+**Will:** +15
 
 **Defensive abilities:** dragon blood (1d8 cold)
 
 **Dr:** 10/epic and magic
 
-**Fort:** +16
-
-**Hit points:** 260 (16d12+156)
-
 **Immune:** cold, confusion, dragon traits, insanity effects, paralysis, sleep
 
-**Mod:** +1 Dex, +26 natural, -2 size
-
-**Ref:** +11
-
 **Sr:** 30
-
-**Will:** +15
 
 **Offense**
 

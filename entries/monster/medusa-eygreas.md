@@ -51,21 +51,25 @@ body of an enormous serpent._
 
 **Experience points:** 25,600
 
-**Armor class:** 29/14/24
+**Armor class:** 29
 
-**Dr:** 5/adamantine and magic
+**Touch:** 14
 
-**Fort:** +11
+**Flat-footed:** 24
+
+**AC modifiers:** +6 armor, +4 Dex, +1 dodge, +9 natural, -1 size
 
 **Hit points:** 141 (8d10+5d10+70\~13)
 
-**Immune:** poison
-
-**Mod:** +6 armor, +4 Dex, +1 dodge, +9 natural, -1 size
+**Fort:** +11
 
 **Ref:** +16
 
 **Will:** +8
+
+**Dr:** 5/adamantine and magic
+
+**Immune:** poison
 
 **Offense**
 

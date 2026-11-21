@@ -54,25 +54,29 @@ _The strength and stature of this giant-sized human is matched only by the nobil
 
 **Experience points:** 4,800
 
-**Armor class:** 22/11/20
+**Armor class:** 22
+
+**Touch:** 11
+
+**Flat-footed:** 20
+
+**AC modifiers:** +6 armor, +2 Dex, +5 natural, -1 size
+
+**Hit points:** 104 (11d10+44)
+
+**Fort:** +13
+
+**Ref:** +7
+
+**Will:** +10; +2 vs. fear and sorrow effects
 
 **Defensive abilities:** soul of sorrow
 
 **Dr:** 10/magic
 
-**Fort:** +13
-
-**Hit points:** 104 (11d10+44)
-
-**Mod:** +6 armor, +2 Dex, +5 natural, -1 size
-
-**Ref:** +7
-
 **Resist:** cold 10, fire 10
 
 **Sr:** 19
-
-**Will:** +10; +2 vs. fear and sorrow effects
 
 **Offense**
 

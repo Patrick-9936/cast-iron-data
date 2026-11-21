@@ -54,25 +54,29 @@ upper torso of a deformed man._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/5/30
+**Armor class:** 30
 
-**Dr:** 10/magic and slashing
+**Touch:** 5
 
-**Fort:** +15
+**Flat-footed:** 30
+
+**AC modifiers:** -1 Dex, +25 natural, -4 size
 
 **Hit points:** 232 (16d8+160)
 
-**Immune:** acid, death effects, mind-affecting effects, pain, paralysis, poison
-
-**Mod:** -1 Dex, +25 natural, -4 size
+**Fort:** +15
 
 **Ref:** +6
+
+**Will:** +10
+
+**Dr:** 10/magic and slashing
+
+**Immune:** acid, death effects, mind-affecting effects, pain, paralysis, poison
 
 **Resist:** cold 10
 
 **Sr:** 26
-
-**Will:** +10
 
 **Offense**
 

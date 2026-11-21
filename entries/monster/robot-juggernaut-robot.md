@@ -52,25 +52,29 @@ crackle with electricity._
 
 **Experience points:** 51,200
 
-**Armor class:** 26/6/26
+**Armor class:** 26
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 10
+**Touch:** 6
 
-**Fort:** +6
+**Flat-footed:** 26
+
+**AC modifiers:** +20 natural, -4 size
 
 **Hit points:** 245 (20d10+60\~\~75)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +20 natural, -4 size
+**Fort:** +6
 
 **Ref:** +6
+
+**Will:** +7
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** cold 20, electricity 20, fire 20
 
 **Vulner:** critical hits and electricity
-
-**Will:** +7
 
 **Offense**
 

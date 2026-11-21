@@ -48,13 +48,17 @@ wide, fluked tail. Razor-sharp teeth fill its almost reptilian mouth._
 
 **Experience points:** 6,400
 
-**Armor class:** 25/11/20
+**Armor class:** 25
 
-**Fort:** +13
+**Touch:** 11
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +1 dodge, +14 natural, -4 size
 
 **Hit points:** 115 (11d8+66)
 
-**Mod:** +4 Dex, +1 dodge, +14 natural, -4 size
+**Fort:** +13
 
 **Ref:** +11
 

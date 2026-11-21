@@ -48,13 +48,17 @@ head and neck to just above his ankles._
 
 **Experience points:** 600
 
-**Armor class:** 16/12/14
+**Armor class:** 16
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 armor, +1 Dex, +1 dodge, +2 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +2 armor, +1 Dex, +1 dodge, +2 natural
+**Fort:** +5
 
 **Ref:** +2
 

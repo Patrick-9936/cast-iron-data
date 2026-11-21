@@ -58,7 +58,21 @@ thing's reptilian head._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/14/27
+**Armor class:** 32
+
+**Touch:** 14
+
+**Flat-footed:** 27
+
+**AC modifiers:** +5 Dex, +18 natural, -1 size
+
+**Hit points:** 287 (23d10+161)
+
+**Fort:** +22
+
+**Ref:** +14
+
+**Will:** +22
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -66,21 +80,11 @@ thing's reptilian head._
 
 **Fh:** 10
 
-**Fort:** +22
-
-**Hit points:** 287 (23d10+161)
-
 **Immune:** acid, polymorph
-
-**Mod:** +5 Dex, +18 natural, -1 size
-
-**Ref:** +14
 
 **Resist:** electricity 10, sonic 10
 
 **Sr:** 28
-
-**Will:** +22
 
 **Offense**
 

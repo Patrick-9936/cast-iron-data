@@ -51,21 +51,25 @@ and tattoos decorating its forehead._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/10/24
+**Armor class:** 25
 
-**Fort:** +14
+**Touch:** 10
+
+**Flat-footed:** 24
+
+**AC modifiers:** +7 armor, +1 Dex, +8 natural, -1 size
 
 **Hit points:** 147 (14d10+70)
 
-**Mod:** +7 armor, +1 Dex, +8 natural, -1 size
+**Fort:** +14
 
 **Ref:** +5
+
+**Will:** +12
 
 **Regen:** 5 (acid or fire)
 
 **Sr:** 22
-
-**Will:** +12
 
 **Offense**
 

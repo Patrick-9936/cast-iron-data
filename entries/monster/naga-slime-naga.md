@@ -52,19 +52,23 @@ _This slime-covered serpentine creature has a humanoid head resembling that of a
 
 **Experience points:** 6,400
 
-**Armor class:** 24/14/19
+**Armor class:** 24
 
-**Fort:** +9
+**Touch:** 14
+
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +1 dodge, +10 natural, -1 size
 
 **Hit points:** 115 (11d8+66)
 
-**Mod:** +4 Dex, +1 dodge, +10 natural, -1 size
+**Fort:** +9
 
 **Ref:** +9
 
-**Resist:** acid 10
-
 **Will:** +11
+
+**Resist:** acid 10
 
 **Offense**
 

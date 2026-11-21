@@ -53,7 +53,21 @@ eyes, and three whipping stingers._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/25/21
+**Armor class:** 33
+
+**Touch:** 25
+
+**Flat-footed:** 21
+
+**AC modifiers:** +4 deflection, +12 Dex, +8 natural, -1 size
+
+**Hit points:** 290 (20d10+180)
+
+**Fort:** +25
+
+**Ref:** +30
+
+**Will:** +18
 
 **Defensive abilities:** displacement, _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -63,21 +77,11 @@ eyes, and three whipping stingers._
 
 **Fh:** 10
 
-**Fort:** +25
-
-**Hit points:** 290 (20d10+180)
-
 **Immune:** acid, cold, poison, mind-affecting effects
-
-**Mod:** +4 deflection, +12 Dex, +8 natural, -1 size
-
-**Ref:** +30
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 25 vs. lawful spells and creatures
-
-**Will:** +18
 
 **Offense**
 

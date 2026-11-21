@@ -48,13 +48,17 @@ hypnotically._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/14/15
+**Armor class:** 20
 
-**Fort:** +6
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +1 dodge, +6 natural, -1 size
 
 **Hit points:** 68 (8d8+32)
 
-**Mod:** +4 Dex, +1 dodge, +6 natural, -1 size
+**Fort:** +6
 
 **Ref:** +8
 

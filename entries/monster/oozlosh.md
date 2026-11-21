@@ -54,21 +54,25 @@ it isn't bedecked in gaudy jewelry._
 
 **Experience points:** 38,400
 
-**Armor class:** 28/15/24
+**Armor class:** 28
 
-**Fort:** +21
+**Touch:** 15
+
+**Flat-footed:** 24
+
+**AC modifiers:** +3 armor, +2 deflection, +4 Dex, +10 natural, -1 size
 
 **Hit points:** 209 (12d8+10d8+110\~22)
 
-**Mod:** +3 armor, +2 deflection, +4 Dex, +10 natural, -1 size
+**Fort:** +21
 
 **Ref:** +12
+
+**Will:** +18
 
 **Resist:** cold 10
 
 **Rock Ct:** present
-
-**Will:** +18
 
 **Offense**
 

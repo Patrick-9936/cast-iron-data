@@ -51,21 +51,25 @@ _With wings and an unearthly glow, this mechanical being could easily be mistake
 
 **Experience points:** 19,200
 
-**Armor class:** 27/15/22
+**Armor class:** 27
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 10
+**Touch:** 15
 
-**Fort:** +5
+**Flat-footed:** 22
+
+**AC modifiers:** +5 Dex, +12 natural
 
 **Hit points:** 158 (16d10+20\~\~50)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +5 Dex, +12 natural
+**Fort:** +5
 
 **Ref:** +10
 
 **Will:** +10
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

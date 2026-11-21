@@ -52,23 +52,27 @@ its face seems preternaturally wise._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/20
+**Armor class:** 23
 
-**Dr:** 10/evil
+**Touch:** 13
 
-**Fort:** +12
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +1 dodge, +10 natural
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** fear
-
-**Mod:** +2 Dex, +1 dodge, +10 natural
+**Fort:** +12
 
 **Ref:** +10
 
-**Sr:** 20
-
 **Will:** +9
+
+**Dr:** 10/evil
+
+**Immune:** fear
+
+**Sr:** 20
 
 **Offense**
 

@@ -54,21 +54,25 @@ red-eyed serpent._
 
 **Experience points:** 600
 
-**Armor class:** 17/15/14
+**Armor class:** 17
 
-**Dr:** 5/good or piercing
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +2 natural, +2 size
 
 **Hit points:** 22 (3d10+6)
 
-**Mod:** +3 Dex, +2 natural, +2 size
+**Fort:** +3
 
 **Ref:** +6
 
-**Sr:** 17
-
 **Will:** +4
+
+**Dr:** 5/good or piercing
+
+**Sr:** 17
 
 **Offense**
 

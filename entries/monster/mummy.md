@@ -52,23 +52,27 @@ gait._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/10/20
+**Armor class:** 20
 
-**Dr:** 5/-
+**Touch:** 10
 
-**Fort:** +4
+**Flat-footed:** 20
+
+**AC modifiers:** +10 natural
 
 **Hit points:** 60 (8d8+24)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +10 natural
+**Fort:** +4
 
 **Ref:** +2
 
-**Vulner:** fire
-
 **Will:** +8
+
+**Dr:** 5/-
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Vulner:** fire
 
 **Offense**
 

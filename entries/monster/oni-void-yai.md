@@ -52,23 +52,27 @@ champion of countless wars._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/9/35
+**Armor class:** 36
 
-**Fort:** +24
+**Touch:** 9
+
+**Flat-footed:** 35
+
+**AC modifiers:** +9 armor, +1 Dex, +18 natural, -2 size
 
 **Hit points:** 379 (23d10+253)
 
-**Immune:** cold
-
-**Mod:** +9 armor, +1 Dex, +18 natural, -2 size
+**Fort:** +24
 
 **Ref:** +9
+
+**Will:** +21
+
+**Immune:** cold
 
 **Regen:** 15 (fire or good spells)
 
 **Sr:** 31
-
-**Will:** +21
 
 **Offense**
 

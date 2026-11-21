@@ -49,19 +49,23 @@ _Vicious shadows wrap around the form of this pudgy, white-eyed child._
 
 **Experience points:** 600
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Fort:** +3
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +2 natural, +1 size
 
 **Hit points:** 16 (3d6+6)
 
-**Mod:** +4 Dex, +2 natural, +1 size
+**Fort:** +3
 
 **Ref:** +7
 
-**Weaknesses:** situational blindness
-
 **Will:** +2
+
+**Weaknesses:** situational blindness
 
 **Offense**
 

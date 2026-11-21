@@ -53,25 +53,29 @@ shape._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/16/16
+**Armor class:** 22
 
-**Dr:** 10/adamantine
+**Touch:** 16
 
-**Fort:** +11
+**Flat-footed:** 16
+
+**AC modifiers:** +5 Dex, +1 dodge, +6 natural
 
 **Hit points:** 104 (11d8+55)
 
-**Immune:** charm, death effects, disease, fire, poison, spells with the light descriptor
-
-**Mod:** +5 Dex, +1 dodge, +6 natural
+**Fort:** +11
 
 **Ref:** +8
+
+**Will:** +12
+
+**Dr:** 10/adamantine
+
+**Immune:** charm, death effects, disease, fire, poison, spells with the light descriptor
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 19
-
-**Will:** +12
 
 **Offense**
 

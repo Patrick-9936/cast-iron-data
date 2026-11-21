@@ -54,33 +54,37 @@ Detect undead, Low-light vision, Spiritsense, True seeing
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/26/35
+**Armor class:** 46
+
+**Touch:** 26
+
+**Flat-footed:** 35
+
+**AC modifiers:** +4 armor, +5 deflection, +10 Dex, +1 dodge, +16 natural
+
+**Hit points:** 676 (33d10+495)
+
+**Fort:** +33
+
+**Ref:** +23
+
+**Will:** +31
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, ominous bird of
 yore, uncertain rustling, [usher traits](ref/umr/psychopomp-usher-traits), walk with death
 
 **Dr:** 20/adamantine and epic
 
-**Fort:** +33
-
-**Hit points:** 676 (33d10+495)
-
 **Immune:** ability damage, ability drain, acid, charm, compulsion, death effects, disease, energy
 drain, necromancy effects, petrification, poison
 
 **Improved evasion:** present
-
-**Mod:** +4 armor, +5 deflection, +10 Dex, +1 dodge, +16 natural
-
-**Ref:** +23
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** cold 30, electricity 30
 
 **Sr:** 39
-
-**Will:** +31
 
 **Offense**
 

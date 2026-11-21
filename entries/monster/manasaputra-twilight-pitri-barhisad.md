@@ -53,25 +53,29 @@ _Cerulean light surrounds this towering four-armed figure in a vibrant corona._
 
 **Experience points:** 153,600
 
-**Armor class:** 36/32/27
+**Armor class:** 36
 
-**Defensive abilities:** cerulean nimbus
+**Touch:** 32
 
-**Fort:** +15
+**Flat-footed:** 27
+
+**AC modifiers:** +8 Dex, +1 dodge, +4 shield, -1 size, +14 Wis
 
 **Hit points:** 300 (24d10+168)
 
-**Immune:** calling, disease, poison
-
-**Mod:** +8 Dex, +1 dodge, +4 shield, -1 size, +14 Wis
+**Fort:** +15
 
 **Ref:** +22
+
+**Will:** +22; +2 vs. enchantment
+
+**Defensive abilities:** cerulean nimbus
+
+**Immune:** calling, disease, poison
 
 **Resist:** adaptive 15
 
 **Sr:** 29
-
-**Will:** +22; +2 vs. enchantment
 
 **Offense**
 

@@ -52,27 +52,31 @@ fangs._
 
 **Experience points:** 600
 
-**Armor class:** 16/15/13
+**Armor class:** 16
+
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 natural, +2 size
+
+**Hit points:** 22 (3d12+3)
+
+**Fort:** +4
+
+**Ref:** +6
+
+**Will:** +3
 
 **Dr:** 5/cold iron
 
 **Ferocity:** present
 
-**Fort:** +4
-
-**Hit points:** 22 (3d12+3)
-
 **Immune:** paralysis, sleep
-
-**Mod:** +3 Dex, +1 natural, +2 size
-
-**Ref:** +6
 
 **Regen:** 1 (cold iron)
 
 **Resist:** acid 5
-
-**Will:** +3
 
 **Offense**
 

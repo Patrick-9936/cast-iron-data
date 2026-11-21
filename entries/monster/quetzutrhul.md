@@ -54,7 +54,21 @@ proboscis clutching a dagger._
 
 **Experience points:** 12,800
 
-**Armor class:** 28/23/16
+**Armor class:** 28
+
+**Touch:** 23
+
+**Flat-footed:** 16
+
+**AC modifiers:** +11 Dex, +1 dodge, +5 natural, +1 size
+
+**Hit points:** 107 (9d8+63)
+
+**Fort:** +9
+
+**Ref:** +14
+
+**Will:** +8
 
 **Dr:** 10/adamantine, 10/magic
 
@@ -62,15 +76,7 @@ proboscis clutching a dagger._
 
 **Fh:** 5
 
-**Fort:** +9
-
-**Hit points:** 107 (9d8+63)
-
 **Immune:** fire, mind-affecting effects
-
-**Mod:** +11 Dex, +1 dodge, +5 natural, +1 size
-
-**Ref:** +14
 
 **Resist:** cold 20, electricity 20, sonic 20
 
@@ -79,8 +85,6 @@ proboscis clutching a dagger._
 **Uncanny dodge:** present
 
 **Vulner:** [protection from evil](ref/spell/protection-from-evil)
-
-**Will:** +8
 
 **Offense**
 

@@ -50,13 +50,17 @@ downward-curving tusks._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/7/19
+**Armor class:** 19
 
-**Fort:** +12
+**Touch:** 7
+
+**Flat-footed:** 19
+
+**AC modifiers:** -1 Dex, +12 natural, -2 size
 
 **Hit points:** 84 (8d8+48)
 
-**Mod:** -1 Dex, +12 natural, -2 size
+**Fort:** +12
 
 **Ref:** +5
 

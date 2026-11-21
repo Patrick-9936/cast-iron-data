@@ -55,25 +55,29 @@ its face should be._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/13/17
+**Armor class:** 20
 
-**Dr:** 10/adamantine
+**Touch:** 13
 
-**Fort:** +11
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +7 natural
 
 **Hit points:** 76 (9d10+27)
 
-**Immune:** death effects, disease, poison
-
-**Mod:** +3 Dex, +7 natural
+**Fort:** +11
 
 **Ref:** +6
+
+**Will:** +10
+
+**Dr:** 10/adamantine
+
+**Immune:** death effects, disease, poison
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 18
-
-**Will:** +10
 
 **Offense**
 

@@ -51,25 +51,29 @@ arms ends in a spinning blade._
 
 **Experience points:** 800
 
-**Armor class:** 14/9/14
+**Armor class:** 14
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 5
+**Touch:** 9
 
-**Fort:** +1
+**Flat-footed:** 14
+
+**AC modifiers:** -1 Dex, +5 natural
 
 **Hit points:** 42 (4d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** -1 Dex, +5 natural
+**Fort:** +1
 
 **Ref:** +0
+
+**Will:** +1
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 5
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Vulner:** electricity
 
 **Weaknesses:** fall to pieces, vulnerable to critical hits
-
-**Will:** +1
 
 **Offense**
 

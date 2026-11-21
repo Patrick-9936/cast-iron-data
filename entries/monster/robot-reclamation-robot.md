@@ -53,25 +53,29 @@ four legs and has a strange bell-shaped head._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/16/20
+**Armor class:** 27
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 10
+**Touch:** 16
 
-**Fort:** +7
+**Flat-footed:** 20
+
+**AC modifiers:** +7 Dex, +11 natural, -1 size
 
 **Hit points:** 168 (16d10+30\~\~50)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +7 Dex, +11 natural, -1 size
+**Fort:** +7
 
 **Ref:** +12
+
+**Will:** +7
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** cold 15, fire 15
 
 **Vulner:** critical hits and electricity
-
-**Will:** +7
 
 **Offense**
 

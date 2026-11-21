@@ -54,13 +54,17 @@ tail._
 
 **Experience points:** 135
 
-**Armor class:** 15/13/13
+**Armor class:** 15
 
-**Fort:** +0
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +2 Dex, +1 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +2 armor, +2 Dex, +1 size
+**Fort:** +0
 
 **Ref:** +2
 

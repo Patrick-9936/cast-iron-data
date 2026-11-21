@@ -56,24 +56,28 @@ air in search of prey._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/14/22
+**Armor class:** 30
+
+**Touch:** 14
+
+**Flat-footed:** 22
+
+**AC modifiers:** +8 Dex, +16 natural, -4 size
+
+**Hit points:** 217 (15d8+150)
+
+**Fort:** +15
+
+**Ref:** +13
+
+**Will:** +8
 
 **Defensive abilities:** adaptive defenses
 
 **Fh:** 10
 
-**Fort:** +15
-
-**Hit points:** 217 (15d8+150)
-
 **Immune:** ability damage, ability drain, acid, exhaustion, fatigue,
 [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +8 Dex, +16 natural, -4 size
-
-**Ref:** +13
-
-**Will:** +8
 
 **Offense**
 

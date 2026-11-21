@@ -55,25 +55,29 @@ _This massive, red-skinned creature surges with roiling waves of brilliant fire.
 
 **Experience points:** 614,400
 
-**Armor class:** 41/41/32
+**Armor class:** 41
 
-**Dr:** 10/epic
+**Touch:** 41
 
-**Fort:** +16
+**Flat-footed:** 32
+
+**AC modifiers:** +8 deflection, +7 Dex, +2 dodge, -1 size, +15 soul armor
 
 **Hit points:** 404 (24d10+272)
 
-**Immune:** calling, disease, poison
-
-**Mod:** +8 deflection, +7 Dex, +2 dodge, -1 size, +15 soul armor
+**Fort:** +16
 
 **Ref:** +21
+
+**Will:** +23; +2 vs. enchantment
+
+**Dr:** 10/epic
+
+**Immune:** calling, disease, poison
 
 **Resist:** adaptive 30
 
 **Sr:** 33
-
-**Will:** +23; +2 vs. enchantment
 
 **Offense**
 

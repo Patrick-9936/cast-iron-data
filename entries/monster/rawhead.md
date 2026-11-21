@@ -51,26 +51,30 @@ oversized, boneless index finger._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/17/22
+**Armor class:** 29
+
+**Touch:** 17
+
+**Flat-footed:** 22
+
+**AC modifiers:** +4 armor, +6 Dex, +1 dodge, +8 natural
+
+**Hit points:** 200 (16d10+112)
+
+**Fort:** +12
+
+**Ref:** +16
+
+**Will:** +15
 
 **Defensive abilities:** _[blur](ref/spell/blur)_,
 _[freedom of movement](ref/spell/freedom-of-movement)_, negative energy affinity
 
 **Dr:** 15/good and silver
 
-**Fort:** +12
-
-**Hit points:** 200 (16d10+112)
-
 **Immune:** bleed, fear
 
-**Mod:** +4 armor, +6 Dex, +1 dodge, +8 natural
-
-**Ref:** +16
-
 **Sr:** 25
-
-**Will:** +15
 
 **Offense**
 

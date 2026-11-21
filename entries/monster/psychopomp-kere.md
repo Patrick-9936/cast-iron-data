@@ -51,25 +51,29 @@ a lengthy black veil._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/15/17
+**Armor class:** 22
 
-**Dr:** 10/adamantine
+**Touch:** 15
 
-**Fort:** +8
+**Flat-footed:** 17
+
+**AC modifiers:** +5 Dex, +7 natural
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** death effects, disease, poison
-
-**Mod:** +5 Dex, +7 natural
+**Fort:** +8
 
 **Ref:** +15
+
+**Will:** +13
+
+**Dr:** 10/adamantine
+
+**Immune:** death effects, disease, poison
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 21
-
-**Will:** +13
 
 **Offense**
 

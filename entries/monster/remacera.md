@@ -47,21 +47,25 @@ _This enormous, fleshy green caterpillar has the face of a serene human woman._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/11/15
+**Armor class:** 18
 
-**Dr:** 10/cold iron
+**Touch:** 11
 
-**Fort:** +8
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +1 dodge, +7 natural, -1 size
 
 **Hit points:** 85 (10d6+50)
 
-**Mod:** +1 Dex, +1 dodge, +7 natural, -1 size
+**Fort:** +8
 
 **Ref:** +8
 
-**Resist:** acid 10, cold 10, fire 10
-
 **Will:** +8
+
+**Dr:** 10/cold iron
+
+**Resist:** acid 10, cold 10, fire 10
 
 **Offense**
 

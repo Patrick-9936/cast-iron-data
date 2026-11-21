@@ -51,21 +51,25 @@ three tendrils, two of which wield weapons._
 
 **Experience points:** 800
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Fort:** +7
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 natural
 
 **Hit points:** 34 (4d10+12)
 
-**Immune:** cold, mind-affecting effects, poison
-
-**Mod:** +5 natural
+**Fort:** +7
 
 **Ref:** +4
 
-**Resist:** acid 10, electricity 10, fire 10
-
 **Will:** +4
+
+**Immune:** cold, mind-affecting effects, poison
+
+**Resist:** acid 10, electricity 10, fire 10
 
 **Offense**
 

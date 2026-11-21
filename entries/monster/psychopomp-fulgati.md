@@ -54,29 +54,33 @@ legs._
 
 **Experience points:** 153,600
 
-**Armor class:** 32/5/29
+**Armor class:** 32
+
+**Touch:** 5
+
+**Flat-footed:** 29
+
+**AC modifiers:** +3 Dex, +27 natural, -8 size
+
+**Hit points:** 312 (25d10+175)
+
+**Fort:** +21
+
+**Ref:** +11
+
+**Will:** +20
 
 **Defensive abilities:** poisonous blood
 
 **Dr:** 10/adamantine
 
-**Fort:** +21
-
-**Hit points:** 312 (25d10+175)
-
 **Immune:** cold, death effects, disease, electricity, poison
-
-**Mod:** +3 Dex, +27 natural, -8 size
-
-**Ref:** +11
 
 **Regen:** 10 (artifacts, epic, or mythic)
 
 **Resist:** fire 15, sonic 15
 
 **Sr:** 29
-
-**Will:** +20
 
 **Offense**
 

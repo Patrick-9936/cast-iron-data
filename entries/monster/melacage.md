@@ -53,23 +53,27 @@ faces' eyes, but the drops fade to nothing before they reach the ground._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/18/13
+**Armor class:** 18
 
-**Defensive abilities:** rejuvenation
+**Touch:** 18
 
-**Fort:** +5
+**Flat-footed:** 13
+
+**AC modifiers:** +3 deflection, +5 Dex
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +3 deflection, +5 Dex
+**Fort:** +5
 
 **Ref:** +7
 
 **Will:** +6
+
+**Defensive abilities:** rejuvenation
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

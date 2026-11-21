@@ -55,27 +55,31 @@ black-winged woman._
 
 **Experience points:** 51,200
 
-**Armor class:** 32/19/23
+**Armor class:** 32
+
+**Touch:** 19
+
+**Flat-footed:** 23
+
+**AC modifiers:** +9 Dex, +13 natural
+
+**Hit points:** 216 (16d10+128)
+
+**Fort:** +13
+
+**Ref:** +19
+
+**Will:** +15
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 10/adamantine
 
-**Fort:** +13
-
-**Hit points:** 216 (16d10+128)
-
 **Immune:** acid, death effects, disease
-
-**Mod:** +9 Dex, +13 natural
-
-**Ref:** +19
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 26
-
-**Will:** +15
 
 **Offense**
 

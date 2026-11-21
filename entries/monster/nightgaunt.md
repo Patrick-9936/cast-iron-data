@@ -56,21 +56,25 @@ _This lanky ebon humanoid has bat-like wings, horns, and a long prehensile tail,
 
 **Experience points:** 1,200
 
-**Armor class:** 18/13/15
+**Armor class:** 18
 
-**Defensive abilities:** faceless
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +1 dodge, +5 natural
 
 **Hit points:** 37 (5d10+10)
 
-**Immune:** cold, gaze attacks, inhaled poison, scent-based attacks
-
-**Mod:** +2 Dex, +1 dodge, +5 natural
+**Fort:** +3
 
 **Ref:** +8
 
 **Will:** +6
+
+**Defensive abilities:** faceless
+
+**Immune:** cold, gaze attacks, inhaled poison, scent-based attacks
 
 **Offense**
 

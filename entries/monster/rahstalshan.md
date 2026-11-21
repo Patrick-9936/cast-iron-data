@@ -56,19 +56,23 @@ with crystals._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/15/24
+**Armor class:** 29
 
-**Defensive abilities:** improved rock catching
+**Touch:** 15
 
-**Fort:** +19
+**Flat-footed:** 24
+
+**AC modifiers:** +2 armor, +1 deflection, +4 Dex, +1 dodge, +12 natural, -1 size
 
 **Hit points:** 226 (12d8+10d6+137\~22)
 
-**Mod:** +2 armor, +1 deflection, +4 Dex, +1 dodge, +12 natural, -1 size
+**Fort:** +19
 
 **Ref:** +13
 
 **Will:** +17
+
+**Defensive abilities:** improved rock catching
 
 **Offense**
 

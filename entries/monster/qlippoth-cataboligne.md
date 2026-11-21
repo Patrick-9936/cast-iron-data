@@ -52,27 +52,31 @@ and a mouth yawns in its belly._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/31/26
+**Armor class:** 31
+
+**Touch:** 31
+
+**Flat-footed:** 26
+
+**AC modifiers:** +5 Dex, +20 natural, -4 size
+
+**Hit points:** 241 (21d10+126)
+
+**Fort:** +18
+
+**Ref:** +17
+
+**Will:** +11
 
 **Defensive abilities:** deflective carapace
 
 **Dr:** 15/cold iron and lawful
 
-**Fort:** +18
-
-**Hit points:** 241 (21d10+126)
-
 **Immune:** cold, mind-affecting effects, poison
-
-**Mod:** +5 Dex, +20 natural, -4 size
-
-**Ref:** +17
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 27
-
-**Will:** +11
 
 **Offense**
 

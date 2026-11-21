@@ -59,23 +59,27 @@ visible through bone._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/20/16
+**Armor class:** 20
 
-**Chan Res:** +2
+**Touch:** 20
 
-**Fort:** +8
+**Flat-footed:** 16
+
+**AC modifiers:** +6 deflection, +4 Dex
 
 **Hit points:** 84 (8d8+48)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +6 deflection, +4 Dex
+**Fort:** +8
 
 **Ref:** +6
 
 **Will:** +8
+
+**Chan Res:** +2
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

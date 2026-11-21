@@ -54,13 +54,17 @@ aquatic snake._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/15/14
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +6 Dex, +5 natural, -1 size
 
 **Hit points:** 76 (8d8+40)
 
-**Mod:** +6 Dex, +5 natural, -1 size
+**Fort:** +7
 
 **Ref:** +10
 

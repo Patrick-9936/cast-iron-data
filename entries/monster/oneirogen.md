@@ -51,21 +51,25 @@ _This vague, humanoid figure seems to be the source of a bank of unnaturally col
 
 **Experience points:** 600
 
-**Armor class:** 12/12/10
+**Armor class:** 12
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex
 
 **Hit points:** 25 (3d10+9)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex
+**Fort:** +8
 
 **Ref:** +5
 
-**Weaknesses:** planar split
-
 **Will:** +2
+
+**Immune:** mind-affecting effects
+
+**Weaknesses:** planar split
 
 **Offense**
 

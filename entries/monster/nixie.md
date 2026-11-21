@@ -55,21 +55,25 @@ decorated with shells._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/11
+**Armor class:** 14
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +1
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
 
 **Hit points:** 9 (2d6+2)
 
-**Mod:** +3 Dex, +1 size
+**Fort:** +1
 
 **Ref:** +6
 
-**Sr:** 12
-
 **Will:** +4
+
+**Dr:** 5/cold iron
+
+**Sr:** 12
 
 **Offense**
 

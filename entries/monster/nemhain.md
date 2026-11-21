@@ -54,25 +54,29 @@ _A cloud of translucent humanoid spirits whirls around this ghostly desiccated c
 
 **Experience points:** 51,200
 
-**Armor class:** 26/26/17
+**Armor class:** 26
 
-**Chan Res:** +4
+**Touch:** 26
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 deflection, +8 Dex, +1 dodge
+
+**Hit points:** 225 (18d8+144); profane regeneration 5 (electricity or good)
 
 **Fort:** +13
 
-**Hit points:** 225 (18d8+144); profane regeneration 5 (electricity or good)
+**Ref:** +16
+
+**Will:** +20
+
+**Chan Res:** +4
 
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +7 deflection, +8 Dex, +1 dodge
-
-**Ref:** +16
-
 **Resist:** acid 10, fire 10
-
-**Will:** +20
 
 **Offense**
 

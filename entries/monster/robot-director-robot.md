@@ -53,25 +53,29 @@ mechanical tentacles churn and writhe below its bulk._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/13/19
+**Armor class:** 23
 
-**Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 10
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +1 dodge, +10 natural, -1 size
 
 **Hit points:** 121 (14d10+44)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +1 dodge, +10 natural, -1 size
+**Fort:** +7
 
 **Ref:** +10
+
+**Will:** +9
+
+**Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** cold 10, fire 10
 
 **Vulner:** critical hits and electricity
-
-**Will:** +9
 
 **Offense**
 

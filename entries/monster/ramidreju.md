@@ -48,13 +48,17 @@ with soft, green fur._
 
 **Experience points:** 200
 
-**Armor class:** 12/12/10
+**Armor class:** 12
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex
 
 **Hit points:** 11 (2d10)
 
-**Mod:** +2 Dex
+**Fort:** +3
 
 **Ref:** +5
 

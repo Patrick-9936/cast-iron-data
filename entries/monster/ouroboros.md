@@ -56,27 +56,31 @@ serpents with countless hissing jaws._
 
 **Experience points:** 409,600
 
-**Armor class:** 38/11/29
+**Armor class:** 38
+
+**Touch:** 11
+
+**Flat-footed:** 29
+
+**AC modifiers:** +8 Dex, +1 dodge, +27 natural, -8 size
+
+**Hit points:** 396 (24d10+264)
+
+**Fort:** +25
+
+**Ref:** +22
+
+**Will:** +18
 
 **Defensive abilities:** perpetual renewal
 
 **Dr:** 15/magic and slashing
 
-**Fort:** +25
-
-**Hit points:** 396 (24d10+264)
-
 **Immune:** acid, aging, mind-affecting effects, negative energy, paralysis
-
-**Mod:** +8 Dex, +1 dodge, +27 natural, -8 size
-
-**Ref:** +22
 
 **Regen:** 50 (mythic weapons or spells)
 
 **Sr:** 32
-
-**Will:** +18
 
 **Offense**
 

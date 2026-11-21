@@ -50,19 +50,23 @@ this large-eyed creature._
 
 **Experience points:** 400
 
-**Armor class:** 15/14/12
+**Armor class:** 15
 
-**Defensive abilities:** ink cloud (10-ft. radius)
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +1 natural, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +3 Dex, +1 natural, +1 size
+**Fort:** +5
 
 **Ref:** +6
 
 **Will:** +1
+
+**Defensive abilities:** ink cloud (10-ft. radius)
 
 **Offense**
 

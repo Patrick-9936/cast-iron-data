@@ -50,7 +50,21 @@ cavern._
 
 **Experience points:** 409,600
 
-**Armor class:** 37/1/37
+**Armor class:** 37
+
+**Touch:** 1
+
+**Flat-footed:** 37
+
+**AC modifiers:** -1 Dex, +36 natural, -8 size
+
+**Hit points:** 418 (31d8+279)
+
+**Fort:** +26
+
+**Ref:** +11
+
+**Will:** +19
 
 **Defensive abilities:** grasping tendrils
 
@@ -58,19 +72,9 @@ cavern._
 
 **Fh:** 10
 
-**Fort:** +26
-
-**Hit points:** 418 (31d8+279)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
 
-**Mod:** -1 Dex, +36 natural, -8 size
-
-**Ref:** +11
-
 **Resist:** acid 30
-
-**Will:** +19
 
 **Offense**
 

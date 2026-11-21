@@ -53,27 +53,31 @@ _This serpentine monster has six arms and is crowned by a halo of ever-changing 
 
 **Experience points:** 307,200
 
-**Armor class:** 36/24/26
+**Armor class:** 36
+
+**Touch:** 24
+
+**Flat-footed:** 26
+
+**AC modifiers:** +10 Dex, +4 deflection, +12 natural
+
+**Hit points:** 362 (25d10+225)
+
+**Fort:** +27
+
+**Ref:** +22
+
+**Will:** +26
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 15/lawful
 
-**Fort:** +27
-
-**Hit points:** 362 (25d10+225)
-
 **Immune:** acid, polymorph effects
-
-**Mod:** +10 Dex, +4 deflection, +12 natural
-
-**Ref:** +22
 
 **Resist:** electricity 10, sonic 10
 
 **Sr:** 31
-
-**Will:** +26
 
 **Offense**
 

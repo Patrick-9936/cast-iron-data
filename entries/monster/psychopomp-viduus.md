@@ -53,25 +53,29 @@ _This dour being has a mostly humanoid form with its lower body wrapped in a coc
 
 **Experience points:** 1,200
 
-**Armor class:** 16/10/16
+**Armor class:** 16
 
-**Dr:** 5/adamantine
+**Touch:** 10
 
-**Fort:** +5
+**Flat-footed:** 16
+
+**AC modifiers:** +6 natural
 
 **Hit points:** 47 (5d10+20)
 
-**Immune:** death effects, disease, mind-affecting effects, poison
-
-**Mod:** +6 natural
+**Fort:** +5
 
 **Ref:** +4
+
+**Will:** +10
+
+**Dr:** 5/adamantine
+
+**Immune:** death effects, disease, mind-affecting effects, poison
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 15
-
-**Will:** +10
 
 **Offense**
 

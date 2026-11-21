@@ -49,13 +49,17 @@ stretch over ten feet across._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/11/14
+**Armor class:** 16
 
-**Fort:** +8
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +5 natural, -1 size
 
 **Hit points:** 34 (4d8+16)
 
-**Mod:** +2 Dex, +5 natural, -1 size
+**Fort:** +8
 
 **Ref:** +8
 

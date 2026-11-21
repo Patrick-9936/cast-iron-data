@@ -54,19 +54,23 @@ lightning-infused spear._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/13/29
+**Armor class:** 33
 
-**Fort:** +23
+**Touch:** 13
+
+**Flat-footed:** 29
+
+**AC modifiers:** +7 armor, +1 deflection, +3 Dex, +1 dodge, +13 natural, -2 size
 
 **Hit points:** 294 (16d8+12d8+168\~28)
 
-**Mod:** +7 armor, +1 deflection, +3 Dex, +1 dodge, +13 natural, -2 size
+**Fort:** +23
 
 **Ref:** +17
 
-**Rock Ct:** present
-
 **Will:** +22
+
+**Rock Ct:** present
 
 **Offense**
 

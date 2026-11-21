@@ -56,27 +56,31 @@ _The tip of this towering, scorpion-like construct's tail thrums with otherworld
 
 **Experience points:** 76,800
 
-**Armor class:** 31/9/28
+**Armor class:** 31
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 10
+**Touch:** 9
 
-**Fort:** +8
+**Flat-footed:** 28
+
+**AC modifiers:** +2 Dex, +1 dodge, +22 natural, -4 size
 
 **Hit points:** 170 (20d10+60); force field (80 hp, [fast healing](ref/umr/fast-healing) 16)
 
-**Immune:** cold, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +1 dodge, +22 natural, -4 size
+**Fort:** +8
 
 **Ref:** +8
+
+**Will:** +7
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 10
+
+**Immune:** cold, [construct traits](ref/umr/construct-traits)
 
 **Resist:** electricity 30, fire 30
 
 **Vulner:** electricity
 
 **Weaknesses:** vulnerable to critical hits
-
-**Will:** +7
 
 **Offense**
 

@@ -55,23 +55,27 @@ tail._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/15/15
+**Armor class:** 19
 
-**Evasion:** present
+**Touch:** 15
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +4 armor, +4 Dex, +1 Size
 
 **Hit points:** 42 (6d8+12)
 
-**Mod:** +4 armor, +4 Dex, +1 Size
+**Fort:** +5
 
 **Ref:** +10
+
+**Will:** +4
+
+**Evasion:** present
 
 **Trap S:** +2
 
 **Uncanny dodge:** present
-
-**Will:** +4
 
 **Offense**
 

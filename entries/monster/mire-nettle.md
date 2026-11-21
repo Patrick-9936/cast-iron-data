@@ -49,21 +49,25 @@ needle-like spines._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Dr:** 5/slashing or bludgeoning
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +2 natural, +1 size
 
 **Hit points:** 22 (4d8+4)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +2 natural, +1 size
+**Fort:** +5
 
 **Ref:** +2
 
 **Will:** +1
+
+**Dr:** 5/slashing or bludgeoning
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

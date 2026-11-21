@@ -51,23 +51,27 @@ scaly hide, and tail of a crocodile._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/10/20
+**Armor class:** 22
 
-**Dr:** 10/magic
+**Touch:** 10
 
-**Fort:** +15
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +12 natural, -2 size
 
 **Hit points:** 115 (11d8+66)
 
-**Mod:** +2 Dex, +12 natural, -2 size
+**Fort:** +15
 
 **Ref:** +9
+
+**Will:** +7; +4 on **Will** saves vs. enchantment
+
+**Dr:** 10/magic
 
 **Resist:** acid 10, cold 10, electricity 10, fire 10
 
 **Sr:** 20
-
-**Will:** +7; +4 on **Will** saves vs. enchantment
 
 **Offense**
 

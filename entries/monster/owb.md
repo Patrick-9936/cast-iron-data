@@ -52,23 +52,27 @@ clearly revealing its shape._
 
 **Experience points:** 2,400
 
-**Armor class:** 17/17/10
+**Armor class:** 17
 
-**Fh:** 2
+**Touch:** 17
 
-**Fort:** +10
+**Flat-footed:** 10
+
+**AC modifiers:** +6 Dex, +1 dodge
 
 **Hit points:** 76 (8d10+32)
 
-**Immune:** cold
-
-**Mod:** +6 Dex, +1 dodge
+**Fort:** +10
 
 **Ref:** +8
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +8
+
+**Fh:** 2
+
+**Immune:** cold
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 
