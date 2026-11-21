@@ -49,21 +49,25 @@ _This creature has the head, legs, and tail of a tyrannosaurus, but humanoid che
 
 **Experience points:** 76,800
 
-**Armor class:** 32/13/27
+**Armor class:** 32
 
-**Defensive abilities:** _[death ward](ref/spell/death-ward)_
+**Touch:** 13
 
-**Fort:** +15
+**Flat-footed:** 27
+
+**AC modifiers:** +5 armor, +4 Dex, +1 dodge, +11 natural, +3 shield, -2 size
 
 **Hit points:** 241 (21d10+126)
 
-**Mod:** +5 armor, +4 Dex, +1 dodge, +11 natural, +3 shield, -2 size
+**Fort:** +15
 
 **Ref:** +16
 
-**Resist:** fire 20
-
 **Will:** +19
+
+**Defensive abilities:** _[death ward](ref/spell/death-ward)_
+
+**Resist:** fire 20
 
 **Offense**
 

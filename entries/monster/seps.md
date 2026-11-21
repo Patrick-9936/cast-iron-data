@@ -49,21 +49,25 @@ ground._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/10/24
+**Armor class:** 26
 
-**Defensive abilities:** acid blood
+**Touch:** 10
 
-**Fort:** +14
+**Flat-footed:** 24
+
+**AC modifiers:** +2 Dex, +16 natural, -2 size
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** acid, poison
-
-**Mod:** +2 Dex, +16 natural, -2 size
+**Fort:** +14
 
 **Ref:** +11
 
 **Will:** +6
+
+**Defensive abilities:** acid blood
+
+**Immune:** acid, poison
 
 **Offense**
 

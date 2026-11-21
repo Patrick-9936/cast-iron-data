@@ -54,26 +54,30 @@ in the wind._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/17/20
+**Armor class:** 25
+
+**Touch:** 17
+
+**Flat-footed:** 20
+
+**AC modifiers:** +3 deflection, +4 Dex, +1 dodge, +8 natural, -1 size
+
+**Hit points:** 142 (19d6+76)
+
+**Fort:** +12
+
+**Ref:** +15
+
+**Will:** +12
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, instinctive
 cooperation, wild grace
 
 **Dr:** 10/cold iron
 
-**Fort:** +12
-
-**Hit points:** 142 (19d6+76)
-
 **Immune:** cold
 
-**Mod:** +3 deflection, +4 Dex, +1 dodge, +8 natural, -1 size
-
-**Ref:** +15
-
 **Resist:** electricity 10, fire 10
-
-**Will:** +12
 
 **Offense**
 

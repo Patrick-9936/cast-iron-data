@@ -52,21 +52,25 @@ body._
 
 **Experience points:** 4,800
 
-**Armor class:** 19/19/14
+**Armor class:** 19
 
-**Fort:** +7
+**Touch:** 19
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 deflection, +4 Dex, +1 dodge
 
 **Hit points:** 105 (10d10+50)
 
-**Incorporeal:** present
-
-**Mod:** +4 deflection, +4 Dex, +1 dodge
+**Fort:** +7
 
 **Ref:** +11
 
-**Sr:** 19
-
 **Will:** +11
+
+**Incorporeal:** present
+
+**Sr:** 19
 
 **Offense**
 

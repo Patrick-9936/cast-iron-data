@@ -46,19 +46,23 @@ _A jackal's head draped in a tattered headdress extends from a winged, leonine b
 
 **Experience points:** 2,400
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
 
 **Hit points:** 76 (9d10+27)
 
-**Immune:** disease
-
-**Mod:** +1 Dex, +10 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
 
 **Will:** +5
+
+**Immune:** disease
 
 **Offense**
 

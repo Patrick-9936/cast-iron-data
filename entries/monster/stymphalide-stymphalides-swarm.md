@@ -52,25 +52,29 @@ metallic gleam, reflecting even the dimmest light back a hundredfold through a d
 
 **Experience points:** 2,400
 
-**Armor class:** 23/17/18
+**Armor class:** 23
+
+**Touch:** 17
+
+**Flat-footed:** 18
+
+**AC modifiers:** +4 Dex, +1 dodge, +6 natural, +2 size
+
+**Hit points:** 52 (7d10+14)
+
+**Fort:** +7
+
+**Ref:** +9
+
+**Will:** +3
 
 **Defensive abilities:** half damage from slashing and piercing weapons, swarm traits
 
 **Dr:** 5/magic
 
-**Fort:** +7
-
-**Hit points:** 52 (7d10+14)
-
 **Immune:** fire
 
-**Mod:** +4 Dex, +1 dodge, +6 natural, +2 size
-
-**Ref:** +9
-
 **Weaknesses:** sonic
-
-**Will:** +3
 
 **Offense**
 

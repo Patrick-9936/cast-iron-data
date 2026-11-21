@@ -46,13 +46,17 @@ _A chilling chorus of howls echoes through the air as a massive, white-furred wo
 
 **Experience points:** 600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Fort:** +7
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
 
 **Hit points:** 17 (2d8+8)
 
-**Mod:** +4 Dex, +4 natural
+**Fort:** +7
 
 **Ref:** +7
 

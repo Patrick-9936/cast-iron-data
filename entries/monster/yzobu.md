@@ -50,13 +50,17 @@ long-haired yak._
 
 **Experience points:** 400
 
-**Armor class:** 13/10/12
+**Armor class:** 13
 
-**Fort:** +5
+**Touch:** 10
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +3 natural, -1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +1 Dex, +3 natural, -1 size
+**Fort:** +5
 
 **Ref:** +4
 

@@ -52,21 +52,25 @@ darts from the center._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/10/19
+**Armor class:** 23
 
-**Amorph:** present
+**Touch:** 10
 
-**Fort:** +13
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +13 natural, -4 size
 
 **Hit points:** 119 (14d8+56)
 
-**Immune:** gaze attacks, mind-affecting effects, poison, sonic, vision-based attacks
-
-**Mod:** +4 Dex, +13 natural, -4 size
+**Fort:** +13
 
 **Ref:** +8
 
 **Will:** +5
+
+**Amorph:** present
+
+**Immune:** gaze attacks, mind-affecting effects, poison, sonic, vision-based attacks
 
 **Offense**
 

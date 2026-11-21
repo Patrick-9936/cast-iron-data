@@ -51,13 +51,17 @@ flippers rather than feet._
 
 **Experience points:** 600
 
-**Armor class:** 14/10/14
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 10
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 natural
 
 **Hit points:** 19 (3d10+3)
 
-**Mod:** +4 natural
+**Fort:** +4
 
 **Ref:** +1
 

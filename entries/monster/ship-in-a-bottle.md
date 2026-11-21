@@ -49,21 +49,25 @@ aim._
 
 **Experience points:** 600
 
-**Armor class:** 15/14/13
+**Armor class:** 15
 
-**Dr:** 5/bludgeoning
+**Touch:** 14
 
-**Fort:** +1
+**Flat-footed:** 13
+
+**AC modifiers:** +1 armor, +2 Dex, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 armor, +2 Dex, +2 size
+**Fort:** +1
 
 **Ref:** +3
 
 **Will:** +1
+
+**Dr:** 5/bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

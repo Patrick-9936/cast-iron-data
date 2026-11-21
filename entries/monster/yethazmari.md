@@ -52,25 +52,29 @@ and smoking eye sockets._
 
 **Experience points:** 51,200
 
-**Armor class:** 32/14/27
+**Armor class:** 32
+
+**Touch:** 14
+
+**Flat-footed:** 27
+
+**AC modifiers:** +5 Dex, +18 natural, -1 size
+
+**Hit points:** 207 (18d10+108)
+
+**Fort:** +17
+
+**Ref:** +11
+
+**Will:** +17
 
 **Defensive abilities:** soul scream
 
 **Dr:** 15/good
 
-**Fort:** +17
-
-**Hit points:** 207 (18d10+108)
-
 **Immune:** fire
 
-**Mod:** +5 Dex, +18 natural, -1 size
-
-**Ref:** +11
-
 **Sr:** 26
-
-**Will:** +17
 
 **Offense**
 

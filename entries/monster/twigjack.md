@@ -49,19 +49,23 @@ thorny vines._
 
 **Experience points:** 800
 
-**Armor class:** 17/15/14
+**Armor class:** 17
 
-**Fort:** +3
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +2 natural, +2 size
 
 **Hit points:** 27 (5d6+10)
 
-**Mod:** +3 Dex, +2 natural, +2 size
+**Fort:** +3
 
 **Ref:** +7
 
-**Vulner:** fire
-
 **Will:** +6
+
+**Vulner:** fire
 
 **Offense**
 

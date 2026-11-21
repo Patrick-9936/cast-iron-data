@@ -52,19 +52,23 @@ _The pale-blue skin of this dark-haired humanoid seems to subtly change hue from
 
 **Experience points:** 200
 
-**Armor class:** 12/9/12
+**Armor class:** 12
 
-**Fort:** +3
+**Touch:** 9
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 armor, -1 Dex
 
 **Hit points:** 10 (1d8+2)
 
-**Mod:** +3 armor, -1 Dex
+**Fort:** +3
 
 **Ref:** +1
 
-**Weaknesses:** aura transparency
-
 **Will:** +4
+
+**Weaknesses:** aura transparency
 
 **Offense**
 

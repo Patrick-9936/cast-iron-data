@@ -51,7 +51,21 @@ and bone._
 
 **Experience points:** 307,200
 
-**Armor class:** 37/17/28
+**Armor class:** 37
+
+**Touch:** 17
+
+**Flat-footed:** 28
+
+**AC modifiers:** +9 Dex, +20 natural, -2 size
+
+**Hit points:** 362 (25d10+225)
+
+**Fort:** +23
+
+**Ref:** +17
+
+**Will:** +23; +8 vs. mind-affecting effects
 
 **Defensive abilities:** all-around vision, _[mind blank](ref/spell/mind-blank)_
 
@@ -59,21 +73,11 @@ and bone._
 
 **Fh:** 20
 
-**Fort:** +23
-
-**Hit points:** 362 (25d10+225)
-
 **Immune:** death effects, disease, fear effects, poison
-
-**Mod:** +9 Dex, +20 natural, -2 size
-
-**Ref:** +17
 
 **Resist:** cold 20, electricity 20, sonic 20
 
 **Sr:** 31
-
-**Will:** +23; +8 vs. mind-affecting effects
 
 **Offense**
 

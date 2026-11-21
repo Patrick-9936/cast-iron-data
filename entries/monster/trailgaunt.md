@@ -51,25 +51,29 @@ limbs._
 
 **Experience points:** 800
 
-**Armor class:** 15/8/15
+**Armor class:** 15
+
+**Touch:** 8
+
+**Flat-footed:** 15
+
+**AC modifiers:** -2 Dex, +7 natural
+
+**Hit points:** 25 (3d8+12)
+
+**Fort:** +5
+
+**Ref:** -1
+
+**Will:** +5
 
 **Chan Res:** +2
 
 **Dr:** 5/slashing
 
-**Fort:** +5
-
-**Hit points:** 25 (3d8+12)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** -2 Dex, +7 natural
-
-**Ref:** -1
-
 **Weaknesses:** loathing
-
-**Will:** +5
 
 **Offense**
 

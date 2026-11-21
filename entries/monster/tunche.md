@@ -49,19 +49,23 @@ one deadly predator._
 
 **Experience points:** 102,400
 
-**Armor class:** 31/13/26
+**Armor class:** 31
 
-**Dr:** 15/cold iron and slashing
+**Touch:** 13
 
-**Fort:** +15
+**Flat-footed:** 26
+
+**AC modifiers:** +5 Dex, +18 natural, -2 size
 
 **Hit points:** 262 (25d6+175)
 
-**Mod:** +5 Dex, +18 natural, -2 size
+**Fort:** +15
 
 **Ref:** +19
 
 **Will:** +19
+
+**Dr:** 15/cold iron and slashing
 
 **Offense**
 

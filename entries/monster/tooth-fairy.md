@@ -51,19 +51,23 @@ carries an oversized pair of pliers._
 
 **Experience points:** 100
 
-**Armor class:** 16/16/14
+**Armor class:** 16
 
-**Dr:** 2/cold iron
+**Touch:** 16
 
-**Fort:** -1
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 size
 
 **Hit points:** 5 (2d6-2)
 
-**Mod:** +2 Dex, +4 size
+**Fort:** -1
 
 **Ref:** +5
 
 **Will:** +5
+
+**Dr:** 2/cold iron
 
 **Offense**
 

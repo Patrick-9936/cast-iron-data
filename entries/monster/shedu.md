@@ -47,7 +47,21 @@ wise-looking human._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/16/23
+**Armor class:** 24
+
+**Touch:** 16
+
+**Flat-footed:** 23
+
+**AC modifiers:** +1 Dex, +6 insight, +8 natural, -1 size
+
+**Hit points:** 115 (11d10+55)
+
+**Fort:** +12
+
+**Ref:** +14
+
+**Will:** +11
 
 **Defensive abilities:** prescience
 
@@ -55,19 +69,9 @@ wise-looking human._
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 115 (11d10+55)
-
-**Mod:** +1 Dex, +6 insight, +8 natural, -1 size
-
-**Ref:** +14
-
 **Resist:** electricity 10, fire 10
 
 **Sr:** 20
-
-**Will:** +11
 
 **Offense**
 

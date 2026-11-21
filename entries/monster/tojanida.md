@@ -54,19 +54,23 @@ snapping beak, and two pincers._
 
 **Experience points:** 1,600
 
-**Armor class:** 21/12/19
+**Armor class:** 21
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +1 dodge, +9 natural
 
 **Hit points:** 51 (6d10+18)
 
-**Mod:** +1 Dex, +1 dodge, +9 natural
+**Fort:** +8
 
 **Ref:** +6
 
-**Resist:** electricity 10, fire 10
-
 **Will:** +3
+
+**Resist:** electricity 10, fire 10
 
 **Offense**
 

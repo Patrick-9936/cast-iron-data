@@ -50,19 +50,23 @@ vaguely canine beast._
 
 **Experience points:** 800
 
-**Armor class:** 15/11/14
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Mod:** +1 Dex, +4 natural
+**Fort:** +6
 
 **Ref:** +5
 
-**Regen:** 3 (acid or fire)
-
 **Will:** +1
+
+**Regen:** 3 (acid or fire)
 
 **Offense**
 

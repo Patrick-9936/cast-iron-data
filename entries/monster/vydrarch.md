@@ -49,21 +49,25 @@ at the ends of its swaying necks._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/9/26
+**Armor class:** 29
 
-**Dr:** 10/magic
+**Touch:** 9
 
-**Fort:** +16
+**Flat-footed:** 26
+
+**AC modifiers:** +3 Dex, +20 natural, -4 size
 
 **Hit points:** 199 (19d10+95)
 
-**Immune:** poison, sleep
-
-**Mod:** +3 Dex, +20 natural, -4 size
+**Fort:** +16
 
 **Ref:** +14
 
 **Will:** +12
+
+**Dr:** 10/magic
+
+**Immune:** poison, sleep
 
 **Offense**
 

@@ -47,13 +47,17 @@ _This large, four-legged reptile has a brown scaled hide and a long, powerful ta
 
 **Experience points:** 600
 
-**Armor class:** 15/12/12
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +3 natural, -1 size
 
 **Hit points:** 25 (3d10+9)
 
-**Mod:** +3 Dex, +3 natural, -1 size
+**Fort:** +6
 
 **Ref:** +6
 

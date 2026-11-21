@@ -51,23 +51,27 @@ their midst._
 
 **Experience points:** 200
 
-**Armor class:** 15/13/14
+**Armor class:** 15
 
-**Defensive abilities:** stability
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +2 natural, +2 size
 
 **Hit points:** 5 (1d10)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +2 natural, +2 size
+**Fort:** +2
 
 **Ref:** +3
 
-**Resist:** cold 5
-
 **Will:** +0
+
+**Defensive abilities:** stability
+
+**Immune:** mind-affecting effects
+
+**Resist:** cold 5
 
 **Offense**
 

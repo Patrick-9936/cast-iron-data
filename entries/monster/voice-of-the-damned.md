@@ -54,30 +54,34 @@ vortex of otherworldly flame._
 
 **Experience points:** 1,638,400
 
-**Armor class:** 43/35/31
+**Armor class:** 43
+
+**Touch:** 35
+
+**Flat-footed:** 31
+
+**AC modifiers:** +12 Dex, +8 natural, +14 profane, -1 size
+
+**Hit points:** 565 (29d10+406)
+
+**Fort:** +23
+
+**Ref:** +28
+
+**Will:** +28
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +23
-
-**Hit points:** 565 (29d10+406)
-
 **Immune:** ability damage, ability drain, charm effects, cold, compulsion effects, death effects,
 disease, energy drain, mind-affecting effects, petrification, poison, sonic
-
-**Mod:** +12 Dex, +8 natural, +14 profane, -1 size
-
-**Ref:** +28
 
 **Regen:** 25 (deific or mythic)
 
 **Resist:** acid 25, electricity 25, fire 25
 
 **Sr:** 36
-
-**Will:** +28
 
 **Offense**
 

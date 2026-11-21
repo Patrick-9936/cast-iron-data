@@ -51,19 +51,23 @@ abilities = ["4", "14", "-", "-", "11", "1"]
 
 **Experience points:** 1,200
 
-**Armor class:** 21/20/19
+**Armor class:** 21
 
-**Fort:** +1
+**Touch:** 20
+
+**Flat-footed:** 19
+
+**AC modifiers:** +2 Dex, +1 natural, +8 size
 
 **Hit points:** 27 (5d10)
 
-**Immune:** [construct traits](ref/umr/construct-traits), weapon damage, swarm traits
-
-**Mod:** +2 Dex, +1 natural, +8 size
+**Fort:** +1
 
 **Ref:** +3
 
 **Will:** +1
+
+**Immune:** [construct traits](ref/umr/construct-traits), weapon damage, swarm traits
 
 **Offense**
 

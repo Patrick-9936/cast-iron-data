@@ -48,19 +48,23 @@ appendages lined with spines._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/9/24
+**Armor class:** 31
 
-**Fort:** +20
+**Touch:** 9
+
+**Flat-footed:** 24
+
+**AC modifiers:** +7 Dex, +22 natural, -8 size
 
 **Hit points:** 250 (20d8+160)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +7 Dex, +22 natural, -8 size
+**Fort:** +20
 
 **Ref:** +13
 
 **Will:** +6
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

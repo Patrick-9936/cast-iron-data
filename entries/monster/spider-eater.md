@@ -48,19 +48,23 @@ appendages ending in pincers._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/15
+**Armor class:** 18
 
-**Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
+**Touch:** 12
 
-**Fort:** +9
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +1 dodge, +6 natural, -1 size
 
 **Hit points:** 52 (5d10+25)
 
-**Mod:** +2 Dex, +1 dodge, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +6
 
 **Will:** +2
+
+**Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Offense**
 

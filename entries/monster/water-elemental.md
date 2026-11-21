@@ -48,19 +48,23 @@ _This translucent creature's shape shifts between a spinning column of water and
 
 **Experience points:** 400
 
-**Armor class:** 17/11/17
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +6 natural, +1 size
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** elemental traits
-
-**Mod:** +6 natural, +1 size
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +0
+
+**Immune:** elemental traits
 
 **Offense**
 
@@ -151,19 +155,23 @@ out of water.
 
 **Experience points:** 800
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +6 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** elemental traits
-
-**Mod:** +1 Dex, +6 natural
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +1
+
+**Immune:** elemental traits
 
 **Offense**
 
@@ -209,21 +217,25 @@ out of water.
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/15
+**Armor class:** 18
 
-**Dr:** 5/-
+**Touch:** 12
 
-**Fort:** +9
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +1 dodge, +6 natural, -1 size
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** elemental traits
-
-**Mod:** +2 Dex, +1 dodge, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +8
 
 **Will:** +2
+
+**Dr:** 5/-
+
+**Immune:** elemental traits
 
 **Offense**
 
@@ -273,21 +285,25 @@ out of water.
 
 **Experience points:** 3,200
 
-**Armor class:** 21/13/16
+**Armor class:** 21
 
-**Dr:** 5/-
+**Touch:** 13
 
-**Fort:** +11
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +1 dodge, +8 natural, -2 size
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** elemental traits
-
-**Mod:** +4 Dex, +1 dodge, +8 natural, -2 size
+**Fort:** +11
 
 **Ref:** +11
 
 **Will:** +3
+
+**Dr:** 5/-
+
+**Immune:** elemental traits
 
 **Offense**
 
@@ -337,21 +353,25 @@ Swim +26
 
 **Experience points:** 6,400
 
-**Armor class:** 23/14/17
+**Armor class:** 23
 
-**Dr:** 10/-
+**Touch:** 14
 
-**Fort:** +12
+**Flat-footed:** 17
+
+**AC modifiers:** +5 Dex, +1 dodge, +9 natural, -2 size
 
 **Hit points:** 123 (13d10+52)
 
-**Immune:** elemental traits
-
-**Mod:** +5 Dex, +1 dodge, +9 natural, -2 size
+**Fort:** +12
 
 **Ref:** +15
 
 **Will:** +4
+
+**Dr:** 10/-
+
+**Immune:** elemental traits
 
 **Offense**
 
@@ -402,21 +422,25 @@ Swim +30
 
 **Experience points:** 12,800
 
-**Armor class:** 24/15/17
+**Armor class:** 24
 
-**Dr:** 10/-
+**Touch:** 15
 
-**Fort:** +14
+**Flat-footed:** 17
+
+**AC modifiers:** +6 Dex, +1 dodge, +9 natural, -2 size
 
 **Hit points:** 152 (16d10+64)
 
-**Immune:** elemental traits
-
-**Mod:** +6 Dex, +1 dodge, +9 natural, -2 size
+**Fort:** +14
 
 **Ref:** +18
 
 **Will:** +5
+
+**Dr:** 10/-
+
+**Immune:** elemental traits
 
 **Offense**
 

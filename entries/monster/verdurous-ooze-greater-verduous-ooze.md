@@ -53,22 +53,26 @@ forward with an ameboid life._
 
 **Experience points:** 12,800
 
-**Armor class:** 6/4/6
+**Armor class:** 6
 
-**Defensive abilities:** split
+**Touch:** 4
 
-**Fort:** +13
+**Flat-footed:** 6
+
+**AC modifiers:** -5 Dex, +2 natural, -1 size
 
 **Hit points:** 175 (15d8+54)
 
-**Immune:** acid, fire, mind-affecting effects, [ooze traits](ref/umr/ooze-traits), slashing and
-piercing damage
-
-**Mod:** -5 Dex, +2 natural, -1 size
+**Fort:** +13
 
 **Ref:** +0
 
 **Will:** +0
+
+**Defensive abilities:** split
+
+**Immune:** acid, fire, mind-affecting effects, [ooze traits](ref/umr/ooze-traits), slashing and
+piercing damage
 
 **Offense**
 

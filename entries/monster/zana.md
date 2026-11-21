@@ -51,21 +51,25 @@ pearlescent breastplate and wields a shimmering longspear._
 
 **Experience points:** 38,400
 
-**Armor class:** 26/18/23
+**Armor class:** 26
 
-**Defensive abilities:** unearthly grace
+**Touch:** 18
 
-**Fort:** +15
+**Flat-footed:** 23
+
+**AC modifiers:** +8 armor, +5 deflection, +3 Dex
 
 **Hit points:** 170 (20d6+100)
 
-**Immune:** charm, fear
-
-**Mod:** +8 armor, +5 deflection, +3 Dex
+**Fort:** +15
 
 **Ref:** +20
 
 **Will:** +20
+
+**Defensive abilities:** unearthly grace
+
+**Immune:** charm, fear
 
 **Offense**
 

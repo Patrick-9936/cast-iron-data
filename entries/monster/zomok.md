@@ -55,21 +55,25 @@ soil, and it exhales clouds of dirt._
 
 **Experience points:** 76,800
 
-**Armor class:** 33/6/33
+**Armor class:** 33
 
-**Fort:** +20
+**Touch:** 6
+
+**Flat-footed:** 33
+
+**AC modifiers:** +27 natural, -4 size
 
 **Hit points:** 246 (17d8+170)
 
-**Immune:** sonic, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +27 natural, -4 size
+**Fort:** +20
 
 **Ref:** +7
 
-**Vulner:** fire
-
 **Will:** +13
+
+**Immune:** sonic, [plant traits](ref/umr/plant-traits)
+
+**Vulner:** fire
 
 **Offense**
 

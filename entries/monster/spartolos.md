@@ -51,25 +51,29 @@ shadowed eye sockets._
 
 **Experience points:** 2,400
 
-**Armor class:** 21/12/19
+**Armor class:** 21
+
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +6 armor, +2 Dex, +2 natural, +1 shield
+
+**Hit points:** 76 (8d8+40)
+
+**Fort:** +6
+
+**Ref:** +4
+
+**Will:** +8
 
 **Defensive abilities:** united resistance
 
 **Dr:** 10/bludgeoning
 
-**Fort:** +6
-
-**Hit points:** 76 (8d8+40)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
 
-**Mod:** +6 armor, +2 Dex, +2 natural, +1 shield
-
-**Ref:** +4
-
 **Sr:** 17
-
-**Will:** +8
 
 **Offense**
 

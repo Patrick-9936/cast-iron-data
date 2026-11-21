@@ -53,19 +53,23 @@ long fingers and nails._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/18/14
+**Armor class:** 21
 
-**Dr:** 5/cold iron
+**Touch:** 18
 
-**Fort:** +7
+**Flat-footed:** 14
+
+**AC modifiers:** +6 Dex, +1 dodge, +3 natural, +1 size
 
 **Hit points:** 82 (11d6+44)
 
-**Mod:** +6 Dex, +1 dodge, +3 natural, +1 size
+**Fort:** +7
 
 **Ref:** +13
 
 **Will:** +8
+
+**Dr:** 5/cold iron
 
 **Offense**
 

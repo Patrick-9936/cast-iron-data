@@ -48,19 +48,23 @@ what appear to be the shadowy silhouettes of scissors and a sewing needle._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/16/16
+**Armor class:** 22
 
-**Dr:** 5/cold iron and piercing
+**Touch:** 16
 
-**Fort:** +8
+**Flat-footed:** 16
+
+**AC modifiers:** +5 Dex, +1 dodge, +6 natural
 
 **Hit points:** 90 (12d6+48)
 
-**Mod:** +5 Dex, +1 dodge, +6 natural
+**Fort:** +8
 
 **Ref:** +13
 
 **Will:** +10
+
+**Dr:** 5/cold iron and piercing
 
 **Offense**
 

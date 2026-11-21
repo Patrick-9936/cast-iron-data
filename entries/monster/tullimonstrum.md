@@ -49,19 +49,23 @@ _This small cylindrical creature has two eyestalks extending straight off to eac
 
 **Experience points:** 400
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Defensive abilities:** all-around vision
+**Touch:** 15
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 11 (2d8+2)
 
-**Mod:** +3 Dex, +2 size
+**Fort:** +4
 
 **Ref:** +6
 
 **Will:** +0
+
+**Defensive abilities:** all-around vision
 
 **Offense**
 

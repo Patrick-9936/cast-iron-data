@@ -52,27 +52,31 @@ still-beating heart glows brightly around a dagger thrust through its chest._
 
 **Experience points:** 102,400
 
-**Armor class:** 31/31/18
+**Armor class:** 31
+
+**Touch:** 31
+
+**Flat-footed:** 18
+
+**AC modifiers:** +8 deflection, +12 Dex, +1 dodge
+
+**Hit points:** 275 (22d8+176)
+
+**Fort:** +15
+
+**Ref:** +19
+
+**Will:** +19
 
 **Chan Res:** +6
 
 **Defensive abilities:** rejuvenation
 
-**Fort:** +15
-
-**Hit points:** 275 (22d8+176)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +8 deflection, +12 Dex, +1 dodge
-
-**Ref:** +19
-
 **Sr:** 28
-
-**Will:** +19
 
 **Offense**
 

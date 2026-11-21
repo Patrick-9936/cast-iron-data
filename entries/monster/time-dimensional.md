@@ -53,27 +53,31 @@ present, or a possible future._
 
 **Experience points:** 38,400
 
-**Armor class:** 30/20/24
+**Armor class:** 30
+
+**Touch:** 20
+
+**Flat-footed:** 24
+
+**AC modifiers:** +5 Dex, +1 dodge, +5 insight, +10 natural, -1 size
+
+**Hit points:** 199 (19d10+95)
+
+**Fort:** +13
+
+**Ref:** +18
+
+**Will:** +17
 
 **Defensive abilities:** all-around vision, time mastery, timestream knowledge
 
 **Dr:** 10/-
 
-**Fort:** +13
-
-**Hit points:** 199 (19d10+95)
-
 **Immune:** aging, bleed, critical hits, paralysis, poison, sleep, stunning
-
-**Mod:** +5 Dex, +1 dodge, +5 insight, +10 natural, -1 size
-
-**Ref:** +18
 
 **Resist:** acid 10, cold 10, electricity 10, fire 10, sonic 10
 
 **Sr:** 25
-
-**Will:** +17
 
 **Offense**
 

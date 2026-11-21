@@ -51,19 +51,23 @@ jagged teeth._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Defensive abilities:** troop traits
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +3 Dex, +1 dodge, +1 size
 
 **Hit points:** 52 (8d8+16)
 
-**Mod:** +2 armor, +3 Dex, +1 dodge, +1 size
+**Fort:** +6
 
 **Ref:** +9
 
 **Will:** +4
+
+**Defensive abilities:** troop traits
 
 **Offense**
 

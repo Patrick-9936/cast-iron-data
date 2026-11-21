@@ -46,13 +46,17 @@ segmented plates._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/12/24
+**Armor class:** 28
 
-**Fort:** +17
+**Touch:** 12
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 Dex, +16 natural, -2 size
 
 **Hit points:** 184 (16d8+112)
 
-**Mod:** +4 Dex, +16 natural, -2 size
+**Fort:** +17
 
 **Ref:** +14
 

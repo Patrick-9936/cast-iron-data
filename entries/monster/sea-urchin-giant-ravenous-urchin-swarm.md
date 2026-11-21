@@ -50,21 +50,25 @@ _A wave of swift-moving spines rushes forward - a roiling tide of dangerously fa
 
 **Experience points:** 600
 
-**Armor class:** 15/13/14
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +2 natural, +2 size
 
 **Hit points:** 18 (4d8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +2 natural, +2 size
+**Fort:** +4
 
 **Ref:** +2
 
-**Resist:** cold 5
-
 **Will:** +2
+
+**Immune:** mind-affecting effects
+
+**Resist:** cold 5
 
 **Offense**
 

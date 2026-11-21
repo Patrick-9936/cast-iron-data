@@ -52,25 +52,29 @@ searing mirage._
 
 **Experience points:** 2,400
 
-**Armor class:** 6/6/6
+**Armor class:** 6
 
-**Dr:** 5/-
+**Touch:** 6
 
-**Fort:** +8
+**Flat-footed:** 6
+
+**AC modifiers:** -5 Dex, +1 size
 
 **Hit points:** 62 (5d8+40)
 
-**Immune:** fire, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, +1 size
+**Fort:** +8
 
 **Ref:** -4
+
+**Will:** -2
+
+**Dr:** 5/-
+
+**Immune:** fire, [ooze traits](ref/umr/ooze-traits)
 
 **Sr:** 17
 
 **Vulner:** cold
-
-**Will:** -2
 
 **Offense**
 

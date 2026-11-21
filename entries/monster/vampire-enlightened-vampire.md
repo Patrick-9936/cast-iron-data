@@ -51,7 +51,21 @@ abilities = ["22", "20", "-", "14", "18", "16"]
 
 **Experience points:** 19,200
 
-**Armor class:** 34/25/28
+**Armor class:** 34
+
+**Touch:** 25
+
+**Flat-footed:** 28
+
+**AC modifiers:** +2 armor, +1 deflection, +5 Dex, +1 dodge, +4 monk, +4 Wis, +7 natural
+
+**Hit points:** 108 (11d8+55)
+
+**Fort:** +10
+
+**Ref:** +14
+
+**Will:** +11; +2 vs. enchantments
 
 **Chan Res:** +4
 
@@ -59,23 +73,13 @@ abilities = ["22", "20", "-", "14", "18", "16"]
 
 **Fh:** 5
 
-**Fort:** +10
-
-**Hit points:** 108 (11d8+55)
-
 **Immune:** disease, poison, [undead traits](ref/umr/undead-traits)
 
 **Improved evasion:** present
 
-**Mod:** +2 armor, +1 deflection, +5 Dex, +1 dodge, +4 monk, +4 Wis, +7 natural
-
-**Ref:** +14
-
 **Resist:** cold 10, electricity 10
 
 **Weaknesses:** vampire weaknesses
-
-**Will:** +11; +2 vs. enchantments
 
 **Offense**
 

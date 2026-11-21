@@ -50,23 +50,27 @@ _A cloud of crimson vapor reeking of fresh blood hangs in the air, reaching out 
 
 **Experience points:** 800
 
-**Armor class:** 14/14/10
+**Armor class:** 14
+
+**Touch:** 14
+
+**Flat-footed:** 10
+
+**AC modifiers:** +4 Dex
+
+**Hit points:** 30 (4d8+12)
+
+**Fort:** +4
+
+**Ref:** +5
+
+**Will:** +5
 
 **Amorph:** present
 
 **Dr:** 5/magic
 
-**Fort:** +4
-
-**Hit points:** 30 (4d8+12)
-
-**Mod:** +4 Dex
-
-**Ref:** +5
-
 **Vulner:** fire
-
-**Will:** +5
 
 **Offense**
 

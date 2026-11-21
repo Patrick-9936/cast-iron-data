@@ -55,19 +55,23 @@ full of pointed teeth._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/13/15
+**Armor class:** 18
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +5 natural
 
 **Hit points:** 45 (6d10+12)
 
-**Mod:** +3 Dex, +5 natural
+**Fort:** +4
 
 **Ref:** +8
 
-**Resist:** cold 10
-
 **Will:** +5
+
+**Resist:** cold 10
 
 **Offense**
 

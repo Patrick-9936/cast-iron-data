@@ -49,19 +49,23 @@ raw power._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/7/29
+**Armor class:** 29
 
-**Dr:** 5/-
+**Touch:** 7
 
-**Fort:** +21
+**Flat-footed:** 29
+
+**AC modifiers:** -1 Dex, +22 natural, -2 size
 
 **Hit points:** 253 (22d10+132)
 
-**Mod:** -1 Dex, +22 natural, -2 size
+**Fort:** +21
 
 **Ref:** +12
 
 **Will:** +9; +6 vs. charms and compulsions
+
+**Dr:** 5/-
 
 **Offense**
 

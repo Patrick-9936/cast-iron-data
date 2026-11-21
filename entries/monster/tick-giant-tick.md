@@ -46,19 +46,23 @@ _This dog-sized tick has a grotesquely bulbous body and a thin head equipped wit
 
 **Experience points:** 400
 
-**Armor class:** 16/11/16
+**Armor class:** 16
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +5 natural, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +5 natural, +1 size
+**Fort:** +5
 
 **Ref:** +0
 
 **Will:** +0
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

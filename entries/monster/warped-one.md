@@ -53,27 +53,31 @@ too eager to wreak havoc._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/14/17
+**Armor class:** 21
+
+**Touch:** 14
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 Dex, +7 natural
+
+**Hit points:** 105 (10d10+50)
+
+**Fort:** +12
+
+**Ref:** +9
+
+**Will:** +9
 
 **Amorph:** present
 
 **Defensive abilities:** insane
 
-**Fort:** +12
-
-**Hit points:** 105 (10d10+50)
-
 **Immune:** mind-affecting effects, petrification, polymorph effects
-
-**Mod:** +4 Dex, +7 natural
-
-**Ref:** +9
 
 **Resist:** electricity 10
 
 **Sr:** 19
-
-**Will:** +9
 
 **Offense**
 

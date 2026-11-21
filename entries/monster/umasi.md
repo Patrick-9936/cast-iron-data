@@ -49,21 +49,25 @@ patchwork of hair, skin, scales, and strange limbs stitched together with thick,
 
 **Experience points:** 1,200
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +4 natural, +2 shield
 
 **Hit points:** 42 (5d10+15)
 
-**Immune:** disease
-
-**Mod:** +2 Dex, +4 natural, +2 shield
+**Fort:** +6
 
 **Ref:** +6
 
-**Weaknesses:** immune to healing
-
 **Will:** +5; +2 vs. poison
+
+**Immune:** disease
+
+**Weaknesses:** immune to healing
 
 **Offense**
 

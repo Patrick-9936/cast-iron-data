@@ -51,25 +51,29 @@ needle-like tips of its long, hooked arms._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/15/20
+**Armor class:** 25
 
-**Dr:** 10/good
+**Touch:** 15
 
-**Fort:** +14
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +1 dodge, +10 natural
 
 **Hit points:** 138 (12d10+72)
 
-**Immune:** death effects, disease, fear effects, poison
-
-**Mod:** +4 Dex, +1 dodge, +10 natural
+**Fort:** +14
 
 **Ref:** +8
+
+**Will:** +14
+
+**Dr:** 10/good
+
+**Immune:** death effects, disease, fear effects, poison
 
 **Resist:** cold 10, electricity 10, sonic 10
 
 **Sr:** 21
-
-**Will:** +14
 
 **Offense**
 

@@ -50,21 +50,25 @@ underbite holds large, crystalline teeth._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/10/18
+**Armor class:** 19
 
-**Fort:** +12
+**Touch:** 10
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
 
 **Hit points:** 80 (7d8+49)
 
-**Mod:** +1 Dex, +9 natural, -1 size
+**Fort:** +12
 
 **Ref:** +3
+
+**Will:** +3
 
 **Regen:** 5 (acid or sonic)
 
 **Weaknesses:** sunlight petrification
-
-**Will:** +3
 
 **Offense**
 

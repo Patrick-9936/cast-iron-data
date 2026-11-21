@@ -54,21 +54,25 @@ emaciated child with clawed hands._
 
 **Experience points:** 19,200
 
-**Armor class:** 28/21/24
+**Armor class:** 28
 
-**Fort:** +14
+**Touch:** 21
+
+**Flat-footed:** 24
+
+**AC modifiers:** +7 deflection, +3 Dex, +1 dodge, +7 natural
 
 **Hit points:** 152 (16d10+64)
 
-**Immune:** blindness, fire, poison
-
-**Mod:** +7 deflection, +3 Dex, +1 dodge, +7 natural
+**Fort:** +14
 
 **Ref:** +10
 
-**Resist:** cold 10, sonic 10
-
 **Will:** +10
+
+**Immune:** blindness, fire, poison
+
+**Resist:** cold 10, sonic 10
 
 **Offense**
 

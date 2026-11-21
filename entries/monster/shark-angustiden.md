@@ -52,13 +52,17 @@ enough for a human to stand in, and its body stretches back more than 20 feet._
 
 **Experience points:** 3,200
 
-**Armor class:** 16/7/15
+**Armor class:** 16
 
-**Fort:** +15
+**Touch:** 7
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +9 natural, -4 size
 
 **Hit points:** 105 (10d8+60)
 
-**Mod:** +1 Dex, +9 natural, -4 size
+**Fort:** +15
 
 **Ref:** +8
 

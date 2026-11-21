@@ -55,23 +55,27 @@ off the ground._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/24/17
+**Armor class:** 24
 
-**Defensive abilities:** witchflame
+**Touch:** 24
 
-**Fort:** +10
+**Flat-footed:** 17
+
+**AC modifiers:** +7 deflection, +6 Dex, +1 dodge
 
 **Hit points:** 115 (10d8+70)
 
-**Immune:** fire, [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +7 deflection, +6 Dex, +1 dodge
+**Fort:** +10
 
 **Ref:** +11
 
 **Will:** +10
+
+**Defensive abilities:** witchflame
+
+**Immune:** fire, [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

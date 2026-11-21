@@ -51,21 +51,25 @@ shadow seems strangely mobile._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/13/18
+**Armor class:** 21
 
-**Defensive abilities:** bristles
+**Touch:** 13
 
-**Fort:** +14
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +8 natural
 
 **Hit points:** 105 (10d10+50)
 
-**Immune:** acid
-
-**Mod:** +3 Dex, +8 natural
+**Fort:** +14
 
 **Ref:** +6
 
 **Will:** +8
+
+**Defensive abilities:** bristles
+
+**Immune:** acid
 
 **Offense**
 

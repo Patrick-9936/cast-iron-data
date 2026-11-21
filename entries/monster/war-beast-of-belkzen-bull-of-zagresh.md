@@ -46,13 +46,17 @@ fifteen feet across._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/9/18
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 9
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +11 natural, -2 size
 
 **Hit points:** 85 (9d8+45)
 
-**Mod:** +1 Dex, +11 natural, -2 size
+**Fort:** +10
 
 **Ref:** +7
 

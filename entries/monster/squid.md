@@ -50,19 +50,23 @@ creature's tentacles._
 
 **Experience points:** 400
 
-**Armor class:** 13/12/11
+**Armor class:** 13
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 natural
 
 **Hit points:** 13 (3d8)
 
-**Ink:** 5
-
-**Mod:** +2 Dex, +1 natural
+**Fort:** +3
 
 **Ref:** +7
 
 **Will:** +2
+
+**Ink:** 5
 
 **Offense**
 

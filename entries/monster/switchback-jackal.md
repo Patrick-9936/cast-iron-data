@@ -48,13 +48,17 @@ hunger._
 
 **Experience points:** 200
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 natural, +1 size
 
 **Hit points:** 7 (1d8+3)
 
-**Mod:** +2 Dex, +1 natural, +1 size
+**Fort:** +5
 
 **Ref:** +4
 

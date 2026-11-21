@@ -55,13 +55,17 @@ _Monstrous black-feathered wings cloak this leanly muscled, onyx-skinned humanoi
 **Subtype:** Strix\
 **Experience points:** 135
 
-**Armor class:** 12/12/10
+**Armor class:** 12
 
-**Fort:** +2
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex
 
 **Hit points:** 5 (1d10)
 
-**Mod:** +2 Dex
+**Fort:** +2
 
 **Ref:** +2
 

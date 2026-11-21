@@ -51,7 +51,21 @@ abilities = ["18", "18", "-", "15", "12", "22"]
 
 **Experience points:** 2,400
 
-**Armor class:** 25/15/20
+**Armor class:** 25
+
+**Touch:** 15
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 armor, +4 Dex, +1 dodge, +6 natural
+
+**Hit points:** 61 (5d8+35)
+
+**Fort:** +7
+
+**Ref:** +10
+
+**Will:** +5; +4 vs. bardic performance, language-dependent, and sonic
 
 **Chan Res:** +4
 
@@ -59,21 +73,11 @@ abilities = ["18", "18", "-", "15", "12", "22"]
 
 **Fh:** 5
 
-**Fort:** +7
-
-**Hit points:** 61 (5d8+35)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 armor, +4 Dex, +1 dodge, +6 natural
-
-**Ref:** +10
 
 **Resist:** cold 10, electricity 10
 
 **Weaknesses:** vampire weaknesses
-
-**Will:** +5; +4 vs. bardic performance, language-dependent, and sonic
 
 **Offense**
 

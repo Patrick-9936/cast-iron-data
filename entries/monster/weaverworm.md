@@ -52,13 +52,17 @@ cords of thick webbing between them._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/12/16
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +8 natural, -2 size
 
 **Hit points:** 95 (10d8+50)
 
-**Mod:** +6 Dex, +8 natural, -2 size
+**Fort:** +7
 
 **Ref:** +7
 

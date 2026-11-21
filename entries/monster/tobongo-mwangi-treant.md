@@ -50,23 +50,27 @@ into arms ending in massive claws._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/5/27
+**Armor class:** 27
 
-**Dr:** 10/slashing
+**Touch:** 5
 
-**Fort:** +17
+**Flat-footed:** 27
+
+**AC modifiers:** -1 Dex, +22 natural, -4 size
 
 **Hit points:** 175 (14d8+112)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** -1 Dex, +22 natural, -4 size
+**Fort:** +17
 
 **Ref:** +3
 
-**Vulner:** fire
-
 **Will:** +9
+
+**Dr:** 10/slashing
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Vulner:** fire
 
 **Offense**
 

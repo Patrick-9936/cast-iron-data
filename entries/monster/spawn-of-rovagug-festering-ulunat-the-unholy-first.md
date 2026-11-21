@@ -49,28 +49,32 @@ abilities = ["38", "21", "35", "3", "30", "20"]
 
 **Experience points:** 1,228,800
 
-**Armor class:** 42/7/37
+**Armor class:** 42
+
+**Touch:** 7
+
+**Flat-footed:** 37
+
+**AC modifiers:** +5 Dex, +35 natural, -8 size
+
+**Hit points:** 525 (30d10+360)
+
+**Fort:** +29
+
+**Ref:** +24
+
+**Will:** +22
 
 **Defensive abilities:** regeneration
 
 **Dr:** 15/epic
 
-**Fort:** +29
-
-**Hit points:** 525 (30d10+360)
-
 **Immune:** ability damage, bleed, disease, energy drain, fire, mind-affecting effects, paralysis,
 permanent wounds, petrification, poison, polymorph, sonic
-
-**Mod:** +5 Dex, +35 natural, -8 size
-
-**Ref:** +24
 
 **Regen:** 30
 
 **Sr:** 35
-
-**Will:** +22
 
 **Offense**
 

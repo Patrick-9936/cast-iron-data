@@ -51,23 +51,27 @@ between the shell halves._
 
 **Experience points:** 2,400
 
-**Armor class:** 23/11/21
+**Armor class:** 23
+
+**Touch:** 11
+
+**Flat-footed:** 21
+
+**AC modifiers:** +4 armor, +2 Dex, +8 natural, -1 size
+
+**Hit points:** 60 (8d8+24)
+
+**Fort:** +9
+
+**Ref:** +4
+
+**Will:** +4
 
 **Defensive abilities:** sticky shell
 
 **Dr:** 5/adamantine
 
-**Fort:** +9
-
-**Hit points:** 60 (8d8+24)
-
 **Immune:** mind-affecting effects
-
-**Mod:** +4 armor, +2 Dex, +8 natural, -1 size
-
-**Ref:** +4
-
-**Will:** +4
 
 **Offense**
 

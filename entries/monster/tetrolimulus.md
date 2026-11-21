@@ -53,19 +53,23 @@ rapier-like tail stinger._
 
 **Experience points:** 12,800
 
-**Armor class:** 27/13/23
+**Armor class:** 27
 
-**Fort:** +16
+**Touch:** 13
+
+**Flat-footed:** 23
+
+**AC modifiers:** +4 Dex, +14 natural, -1 size
 
 **Hit points:** 147 (14d10+70)
 
-**Mod:** +4 Dex, +14 natural, -1 size
+**Fort:** +16
 
 **Ref:** +13
 
-**Resist:** cold 10
-
 **Will:** +7
+
+**Resist:** cold 10
 
 **Offense**
 

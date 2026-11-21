@@ -47,21 +47,25 @@ arms, midsection, and legs._
 
 **Experience points:** 200
 
-**Armor class:** 16/13/14
+**Armor class:** 16
 
-**Dr:** 5/slashing or bludgeoning
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +3 natural, +1 size
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +3 natural, +1 size
+**Fort:** +3
 
 **Ref:** +2
 
 **Will:** +0
+
+**Dr:** 5/slashing or bludgeoning
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

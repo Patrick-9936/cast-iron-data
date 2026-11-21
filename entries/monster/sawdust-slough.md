@@ -52,25 +52,29 @@ shavings._
 
 **Experience points:** 1,200
 
-**Armor class:** 12/8/12
+**Armor class:** 12
+
+**Touch:** 8
+
+**Flat-footed:** 12
+
+**AC modifiers:** -1 Dex, +4 natural, -1 size
+
+**Hit points:** 57 (6d8+30)
+
+**Fort:** +10
+
+**Ref:** +1
+
+**Will:** -3
 
 **Amorph:** present
 
 **Dr:** 5/-
 
-**Fort:** +10
-
-**Hit points:** 57 (6d8+30)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
 
-**Mod:** -1 Dex, +4 natural, -1 size
-
-**Ref:** +1
-
 **Vulner:** fire
-
-**Will:** -3
 
 **Offense**
 

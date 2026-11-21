@@ -49,13 +49,17 @@ flipper-like tail to aid it as it swims._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/10/18
+**Armor class:** 20
 
-**Fort:** +11
+**Touch:** 10
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +10 natural, -2 size
 
 **Hit points:** 85 (9d8+45)
 
-**Mod:** +2 Dex, +10 natural, -2 size
+**Fort:** +11
 
 **Ref:** +10
 

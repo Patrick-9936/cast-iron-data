@@ -48,23 +48,27 @@ staff._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/15/20
+**Armor class:** 25
 
-**Fort:** +8
+**Touch:** 15
+
+**Flat-footed:** 20
+
+**AC modifiers:** +5 Dex, +10 natural
 
 **Hit points:** 133 (14d10+56)
 
-**Immune:** poison, sonic
-
-**Mod:** +5 Dex, +10 natural
+**Fort:** +8
 
 **Ref:** +16
+
+**Will:** +15
+
+**Immune:** poison, sonic
 
 **Resist:** acid 10
 
 **Sr:** 22
-
-**Will:** +15
 
 **Offense**
 

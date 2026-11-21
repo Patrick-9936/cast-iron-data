@@ -48,13 +48,17 @@ _The sound of flapping wings and an angry hiss accompany the appearance of this 
 
 **Experience points:** 800
 
-**Armor class:** 15/14/12
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 dodge, +1 natural, +1 size
 
 **Hit points:** 22 (3d10+6)
 
-**Mod:** +2 Dex, +1 dodge, +1 natural, +1 size
+**Fort:** +5
 
 **Ref:** +5
 

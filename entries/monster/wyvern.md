@@ -47,19 +47,23 @@ taloned feet and roars a challenge._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/10/18
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
 
 **Hit points:** 73 (7d12+28)
 
-**Immune:** sleep, paralysis
-
-**Mod:** +1 Dex, +9 natural, -1 size
+**Fort:** +9
 
 **Ref:** +6
 
 **Will:** +8
+
+**Immune:** sleep, paralysis
 
 **Offense**
 

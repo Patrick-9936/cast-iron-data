@@ -50,23 +50,27 @@ hisses a challenge._
 
 **Experience points:** 19,200
 
-**Armor class:** 25/8/23
+**Armor class:** 25
 
-**Defensive abilities:** elusive
+**Touch:** 8
 
-**Fort:** +16
+**Flat-footed:** 23
+
+**AC modifiers:** +2 Dex, +17 natural, -4 size
 
 **Hit points:** 187 (15d10+105)
 
-**Immune:** cold
-
-**Mod:** +2 Dex, +17 natural, -4 size
+**Fort:** +16
 
 **Ref:** +13
 
-**Resist:** fire 30
-
 **Will:** +7
+
+**Defensive abilities:** elusive
+
+**Immune:** cold
+
+**Resist:** fire 30
 
 **Offense**
 

@@ -54,25 +54,29 @@ _This tangled mass of thick reeds extends from a bulbous pod split by a wide, th
 
 **Experience points:** 6,400
 
-**Armor class:** 23/14/18
+**Armor class:** 23
+
+**Touch:** 14
+
+**Flat-footed:** 18
+
+**AC modifiers:** +5 Dex, +9 natural, -1 size
+
+**Hit points:** 114 (12d8+60)
+
+**Fort:** +13
+
+**Ref:** +11
+
+**Will:** +5
 
 **Defensive abilities:** all-around vision
 
 **Dr:** 5/slashing
 
-**Fort:** +13
-
-**Hit points:** 114 (12d8+60)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
 
-**Mod:** +5 Dex, +9 natural, -1 size
-
-**Ref:** +11
-
 **Vulner:** fire
-
-**Will:** +5
 
 **Offense**
 

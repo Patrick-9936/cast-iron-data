@@ -51,23 +51,27 @@ _Flickers of light and energy radiate from this awe-inspiring, bird-like creatur
 
 **Experience points:** 204,800
 
-**Armor class:** 34/10/30
+**Armor class:** 34
 
-**Fh:** 15
+**Touch:** 10
 
-**Fort:** +23
+**Flat-footed:** 30
+
+**AC modifiers:** +3 Dex, +1 dodge, +24 natural, -4 size
 
 **Hit points:** 350 (28d10+196)
 
-**Immune:** death attacks, disease, energy drain, fire, poison
-
-**Mod:** +3 Dex, +1 dodge, +24 natural, -4 size
+**Fort:** +23
 
 **Ref:** +12
 
-**Sr:** 30
-
 **Will:** +22
+
+**Fh:** 15
+
+**Immune:** death attacks, disease, energy drain, fire, poison
+
+**Sr:** 30
 
 **Offense**
 

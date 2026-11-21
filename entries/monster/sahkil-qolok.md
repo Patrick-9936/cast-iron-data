@@ -51,27 +51,31 @@ from another orifice._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/13/27
+**Armor class:** 31
+
+**Touch:** 13
+
+**Flat-footed:** 27
+
+**AC modifiers:** +4 Dex, +18 natural, -1 size
+
+**Hit points:** 243 (18d10+144)
+
+**Fort:** +16
+
+**Ref:** +17
+
+**Will:** +17; +8 vs. mind-affecting effects
 
 **Dr:** 10/good
 
 **Fh:** 5
 
-**Fort:** +16
-
-**Hit points:** 243 (18d10+144)
-
 **Immune:** death effects, disease, divinations, fear effects, poison
-
-**Mod:** +4 Dex, +18 natural, -1 size
-
-**Ref:** +17
 
 **Resist:** cold 10, electricity 10, sonic 10
 
 **Sr:** 27
-
-**Will:** +17; +8 vs. mind-affecting effects
 
 **Offense**
 

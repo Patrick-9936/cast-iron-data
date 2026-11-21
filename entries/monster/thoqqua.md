@@ -54,21 +54,25 @@ rises from its red-hot scales._
 
 **Experience points:** 600
 
-**Armor class:** 15/11/14
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 natural
 
 **Hit points:** 22 (3d10+6)
 
-**Immune:** fire, elemental
-
-**Mod:** +1 Dex, +4 natural
+**Fort:** +5
 
 **Ref:** +4
 
-**Vulner:** cold
-
 **Will:** +2
+
+**Immune:** fire, elemental
+
+**Vulner:** cold
 
 **Offense**
 

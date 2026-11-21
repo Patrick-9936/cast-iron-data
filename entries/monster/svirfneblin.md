@@ -55,19 +55,23 @@ expressive._
 
 **Experience points:** 400
 
-**Armor class:** 15/15/11
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 15
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +2 dodge, +1 size
 
 **Hit points:** 15 (1d10+5)
 
-**Mod:** +2 Dex, +2 dodge, +1 size
+**Fort:** +6
 
 **Ref:** +6
 
-**Sr:** 12
-
 **Will:** +2
+
+**Sr:** 12
 
 **Offense**
 

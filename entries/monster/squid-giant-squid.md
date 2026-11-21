@@ -50,19 +50,23 @@ beast's eyes are as big as shields._
 
 **Experience points:** 6,400
 
-**Armor class:** 20/11/17
+**Armor class:** 20
 
-**Fort:** +14
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +9 natural, -2 size
 
 **Hit points:** 102 (12d8+48)
 
-**Ink:** 20
-
-**Mod:** +3 Dex, +9 natural, -2 size
+**Fort:** +14
 
 **Ref:** +13
 
 **Will:** +5
+
+**Ink:** 20
 
 **Offense**
 

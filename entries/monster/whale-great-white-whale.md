@@ -51,13 +51,17 @@ hide is laced with scars._
 
 **Experience points:** 38,400
 
-**Armor class:** 28/0/28
+**Armor class:** 28
 
-**Fort:** +21
+**Touch:** 0
+
+**Flat-footed:** 28
+
+**AC modifiers:** -2 Dex, +28 natural, -8 size
 
 **Hit points:** 225 (18d8+144)
 
-**Mod:** -2 Dex, +28 natural, -8 size
+**Fort:** +21
 
 **Ref:** +9
 

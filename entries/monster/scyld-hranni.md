@@ -55,21 +55,25 @@ and a coral-encrusted shield._
 
 **Experience points:** 307,200
 
-**Armor class:** 37/12/33
+**Armor class:** 37
 
-**Fort:** +26
+**Touch:** 12
+
+**Flat-footed:** 33
+
+**AC modifiers:** +8 armor, +4 Dex, +12 natural, +5 shield, -2 size
 
 **Hit points:** 380 (19d8+13d8+237\~32)
 
-**Immune:** electricity
-
-**Mod:** +8 armor, +4 Dex, +12 natural, +5 shield, -2 size
+**Fort:** +26
 
 **Ref:** +14
 
-**Rock Ct:** present
-
 **Will:** +24
+
+**Immune:** electricity
+
+**Rock Ct:** present
 
 **Offense**
 

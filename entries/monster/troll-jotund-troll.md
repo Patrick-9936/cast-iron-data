@@ -52,23 +52,27 @@ with jutting teeth and tusks._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/7/30
+**Armor class:** 30
 
-**Defensive abilities:** multiple minds
+**Touch:** 7
 
-**Fort:** +16
+**Flat-footed:** 30
+
+**AC modifiers:** -1 Dex, +23 natural, -2 size
 
 **Hit points:** 216 (16d8+144)
 
-**Immune:** confusion and insanity effects
-
-**Mod:** -1 Dex, +23 natural, -2 size
+**Fort:** +16
 
 **Ref:** +6
 
-**Regen:** 10 (acid or fire)
-
 **Will:** +13 (+17 vs. mind-affecting effects)
+
+**Defensive abilities:** multiple minds
+
+**Immune:** confusion and insanity effects
+
+**Regen:** 10 (acid or fire)
 
 **Offense**
 

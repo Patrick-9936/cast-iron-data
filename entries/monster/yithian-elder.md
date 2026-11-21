@@ -53,23 +53,27 @@ eyes that glow with ancient, forbidden power._
 
 **Experience points:** 25,600
 
-**Armor class:** 27/12/24
+**Armor class:** 27
+
+**Touch:** 12
+
+**Flat-footed:** 24
+
+**AC modifiers:** +3 Dex, +15 natural, -1 size
+
+**Hit points:** 180 (19d8+95)
+
+**Fort:** +13
+
+**Ref:** +9
+
+**Will:** +19
 
 **Dr:** 10/magic
 
 **Fh:** 5
 
-**Fort:** +13
-
-**Hit points:** 180 (19d8+95)
-
-**Mod:** +3 Dex, +15 natural, -1 size
-
-**Ref:** +9
-
 **Resist:** acid 10, cold 10, fire 10
-
-**Will:** +19
 
 **Offense**
 

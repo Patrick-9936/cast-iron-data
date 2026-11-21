@@ -56,21 +56,25 @@ studded with dragon's teeth._
 
 **Experience points:** 25,600
 
-**Armor class:** 27/8/26
+**Armor class:** 27
 
-**Defensive abilities:** improved tolerance, scarification, tolerance
+**Touch:** 8
 
-**Fort:** +21
+**Flat-footed:** 26
+
+**AC modifiers:** +9 armor, +1 Dex, +10 natural, -2 rage, -1 size
 
 **Hit points:** 218 (10d8+6d12+134\~16)
 
-**Mod:** +9 armor, +1 Dex, +10 natural, -2 rage, -1 size
+**Fort:** +21
 
 **Ref:** +7
 
-**Rock Ct:** present
-
 **Will:** +11
+
+**Defensive abilities:** improved tolerance, scarification, tolerance
+
+**Rock Ct:** present
 
 **Offense**
 

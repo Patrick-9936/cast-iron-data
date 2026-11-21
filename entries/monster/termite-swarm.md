@@ -52,25 +52,29 @@ _The ground teems with crawling termites, biting and stinging as they come._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/20/18
+**Armor class:** 20
 
-**Defensive abilities:** swarm traits
+**Touch:** 20
 
-**Fort:** +10
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 size
 
 **Hit points:** 75 (10d8+30)
 
-**Immune:** disease, mind-affecting effects, visual effects, weapon damage
-
-**Mod:** +2 Dex, +8 size
+**Fort:** +10
 
 **Ref:** +5
+
+**Will:** +4
+
+**Defensive abilities:** swarm traits
+
+**Immune:** disease, mind-affecting effects, visual effects, weapon damage
 
 **Resist:** acid 5
 
 **Weaknesses:** blind
-
-**Will:** +4
 
 **Offense**
 

@@ -46,13 +46,17 @@ _This creature appears to be a large hare with long fangs, feathered wings, and 
 
 **Experience points:** 400
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 15 (2d10+4)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +5
 
 **Ref:** +5
 

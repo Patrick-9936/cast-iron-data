@@ -51,25 +51,29 @@ creature's head._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Dr:** 10/good
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +1 dodge, +6 natural
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** death effects, disease, fear effects, poison
-
-**Mod:** +3 Dex, +1 dodge, +6 natural
+**Fort:** +5
 
 **Ref:** +9
+
+**Will:** +7
+
+**Dr:** 10/good
+
+**Immune:** death effects, disease, fear effects, poison
 
 **Resist:** cold 10, electricity 10, sonic 10
 
 **Sr:** 17
-
-**Will:** +7
 
 **Offense**
 

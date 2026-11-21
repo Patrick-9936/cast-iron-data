@@ -51,21 +51,25 @@ storm._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/10/16
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 10
 
-**Fort:** +5
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +7 natural, -1 size
 
 **Hit points:** 33 (6d10)
 
-**Mod:** +1 Dex, +7 natural, -1 size
+**Fort:** +5
 
 **Ref:** +5
 
-**Sr:** 15
-
 **Will:** +5
+
+**Dr:** 5/cold iron
+
+**Sr:** 15
 
 **Offense**
 

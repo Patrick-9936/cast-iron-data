@@ -47,13 +47,17 @@ _This fluffy squirrel has a round body with long tufts atop its ears._
 
 **Experience points:** 65
 
-**Armor class:** 17/17/14
+**Armor class:** 17
 
-**Fort:** +1
+**Touch:** 17
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 size
 
 **Hit points:** 3 (1d8-1)
 
-**Mod:** +3 Dex, +4 size
+**Fort:** +1
 
 **Ref:** +5
 

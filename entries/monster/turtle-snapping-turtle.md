@@ -48,13 +48,17 @@ with powerful jaws emerge._
 
 **Experience points:** 135
 
-**Armor class:** 12/11/12
+**Armor class:** 12
 
-**Fort:** +3
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** -1 Dex, +1 natural, +2 size
 
 **Hit points:** 5 (1d8+1)
 
-**Mod:** -1 Dex, +1 natural, +2 size
+**Fort:** +3
 
 **Ref:** +1
 

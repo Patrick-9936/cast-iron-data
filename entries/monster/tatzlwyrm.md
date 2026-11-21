@@ -54,19 +54,23 @@ end in tiny claws._
 
 **Experience points:** 600
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +3 natural
 
 **Hit points:** 22 (3d12+3)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +2 Dex, +3 natural
+**Fort:** +4
 
 **Ref:** +5
 
 **Will:** +5
+
+**Immune:** paralysis, sleep
 
 **Offense**
 

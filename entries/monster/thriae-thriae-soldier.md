@@ -49,19 +49,23 @@ uncanny skill._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 armor, +3 Dex
 
 **Hit points:** 42 (5d10+15)
 
-**Immune:** poison, sonic
-
-**Mod:** +4 armor, +3 Dex
+**Fort:** +4
 
 **Ref:** +7
 
 **Will:** +5
+
+**Immune:** poison, sonic
 
 **Offense**
 

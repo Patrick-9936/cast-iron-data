@@ -48,13 +48,17 @@ stripped of its skin, its pulsing muscles completely exposed._
 
 **Experience points:** 600
 
-**Armor class:** 15/13/12
+**Armor class:** 15
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 natural
 
 **Hit points:** 18 (4d6+4)
 
-**Mod:** +3 Dex, +2 natural
+**Fort:** +2
 
 **Ref:** +7
 

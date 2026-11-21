@@ -49,21 +49,25 @@ almost white in color._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/10/16
+**Armor class:** 17
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +7 natural, -1 size
 
 **Hit points:** 57 (6d10+24)
 
-**Immune:** cold
-
-**Mod:** +1 Dex, +7 natural, -1 size
+**Fort:** +9
 
 **Ref:** +6
 
-**Vulner:** fire
-
 **Will:** +3
+
+**Immune:** cold
+
+**Vulner:** fire
 
 **Offense**
 

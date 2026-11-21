@@ -49,21 +49,25 @@ _This serpentine humanoid has bright scaly skin, a long sinuous tail, and a fang
 
 **Experience points:** 1,200
 
-**Armor class:** 18/15/13
+**Armor class:** 18
 
-**Fort:** +6
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +5 Dex, +3 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Immune:** mind-affecting effects, paralysis, poison
-
-**Mod:** +5 Dex, +3 natural
+**Fort:** +6
 
 **Ref:** +9
 
-**Sr:** 15
-
 **Will:** +6
+
+**Immune:** mind-affecting effects, paralysis, poison
+
+**Sr:** 15
 
 **Offense**
 

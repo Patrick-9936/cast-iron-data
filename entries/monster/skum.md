@@ -52,19 +52,23 @@ of a toothy fish._
 
 **Experience points:** 600
 
-**Armor class:** 13/11/12
+**Armor class:** 13
 
-**Fort:** +3
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 natural
 
 **Hit points:** 20 (2d10+9)
 
-**Mod:** +1 Dex, +2 natural
+**Fort:** +3
 
 **Ref:** +4
 
-**Resist:** cold 10
-
 **Will:** +3
+
+**Resist:** cold 10
 
 **Offense**
 

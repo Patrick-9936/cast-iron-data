@@ -50,21 +50,25 @@ abilities = ["3", "15", "10", "3", "14", "2"]
 
 **Experience points:** 600
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Fort:** +3
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 dodge, +2 size
 
 **Hit points:** 13 (3d8)
 
-**Immune:** acid, swarm traits, weapon damage
-
-**Mod:** +2 Dex, +1 dodge, +2 size
+**Fort:** +3
 
 **Ref:** +3
 
-**Weaknesses:** ooze-vermin hybrid
-
 **Will:** +3
+
+**Immune:** acid, swarm traits, weapon damage
+
+**Weaknesses:** ooze-vermin hybrid
 
 **Offense**
 

@@ -47,13 +47,17 @@ carrion._
 
 **Experience points:** 200
 
-**Armor class:** 13/12/12
+**Armor class:** 13
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +1 natural, +1 size
 
 **Hit points:** 6 (1d8+2)
 
-**Mod:** +1 Dex, +1 natural, +1 size
+**Fort:** +6
 
 **Ref:** +3
 

@@ -51,29 +51,33 @@ amalgamation of darkness and menace._
 
 **Experience points:** 25,600
 
-**Armor class:** 27/10/26
+**Armor class:** 27
+
+**Touch:** 10
+
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +17 natural, -1 size
+
+**Hit points:** 162 (12d8+108)
+
+**Fort:** +13
+
+**Ref:** +5
+
+**Will:** +13
 
 **Defensive abilities:** shadow blend
 
 **Dr:** 10/magic
 
-**Fort:** +13
-
-**Hit points:** 162 (12d8+108)
-
 **Immune:** electricity
-
-**Mod:** +1 Dex, +17 natural, -1 size
-
-**Ref:** +5
 
 **Resist:** cold 15
 
 **Sr:** 27
 
 **Vulner:** fire
-
-**Will:** +13
 
 **Offense**
 

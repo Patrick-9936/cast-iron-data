@@ -52,13 +52,17 @@ swallowing a horse whole._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/8/21
+**Armor class:** 23
 
-**Fort:** +14
+**Touch:** 8
+
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +15 natural, -4 size
 
 **Hit points:** 112 (15d8+45)
 
-**Mod:** +2 Dex, +15 natural, -4 size
+**Fort:** +14
 
 **Ref:** +13
 

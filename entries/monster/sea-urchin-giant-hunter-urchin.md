@@ -56,21 +56,25 @@ two-foot-long bright purple spines that darken to ominous black tips._
 
 **Experience points:** 400
 
-**Armor class:** 12/6/12
+**Armor class:** 12
 
-**Defensive abilities:** stability
+**Touch:** 6
 
-**Fort:** +5
+**Flat-footed:** 12
+
+**AC modifiers:** -4 Dex, +6 natural
 
 **Hit points:** 13 (2d8+4)
 
-**Immune:** mind-affecting effects
-
-**Mod:** -4 Dex, +6 natural
+**Fort:** +5
 
 **Ref:** -4
 
 **Will:** +0
+
+**Defensive abilities:** stability
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

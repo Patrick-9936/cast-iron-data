@@ -55,25 +55,29 @@ spiky, manyjointed legs bend in unsettling ways._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/14/17
+**Armor class:** 22
+
+**Touch:** 14
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 Dex, +1 dodge, +8 natural, -1 size
+
+**Hit points:** 114 (12d10+48)
+
+**Fort:** +8
+
+**Ref:** +12
+
+**Will:** +10
 
 **Defensive abilities:** negative energy affinity
 
 **Dr:** 10/adamantine or good
 
-**Fort:** +8
-
-**Hit points:** 114 (12d10+48)
-
 **Immune:** cold, death effects, disease, energy drain, poison
 
-**Mod:** +4 Dex, +1 dodge, +8 natural, -1 size
-
-**Ref:** +12
-
 **Resist:** acid 10, electricity 10, sonic 10
-
-**Will:** +10
 
 **Offense**
 

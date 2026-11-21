@@ -48,19 +48,23 @@ whitened bone._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/17/15
+**Armor class:** 21
 
-**Fort:** +3
+**Touch:** 17
+
+**Flat-footed:** 15
+
+**AC modifiers:** +6 Dex, +4 natural, +1 size
 
 **Hit points:** 75 (10d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits), electricity, magic
-
-**Mod:** +6 Dex, +4 natural, +1 size
+**Fort:** +3
 
 **Ref:** +9
 
 **Will:** +3
+
+**Immune:** [construct traits](ref/umr/construct-traits), electricity, magic
 
 **Offense**
 

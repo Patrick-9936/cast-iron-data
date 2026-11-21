@@ -51,23 +51,27 @@ a tentacled, spherical head._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/10/22
+**Armor class:** 23
+
+**Touch:** 10
+
+**Flat-footed:** 22
+
+**AC modifiers:** +1 Dex, +13 natural, -1 size
+
+**Hit points:** 105 (14d8+42)
+
+**Fort:** +9
+
+**Ref:** +5
+
+**Will:** +15
 
 **Dr:** 10/magic
 
 **Fh:** 5
 
-**Fort:** +9
-
-**Hit points:** 105 (14d8+42)
-
-**Mod:** +1 Dex, +13 natural, -1 size
-
-**Ref:** +5
-
 **Resist:** acid 10, cold 10, fire 10
-
-**Will:** +15
 
 **Offense**
 

@@ -50,23 +50,27 @@ tusked jaw juts forth in a long underbite._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/13
+**Armor class:** 17
 
-**Fort:** +8
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +4 natural, -1 size
 
 **Hit points:** 45 (6d8+18)
 
-**Immune:** cold
-
-**Mod:** +4 Dex, +4 natural, -1 size
+**Fort:** +8
 
 **Ref:** +8
+
+**Will:** +2
+
+**Immune:** cold
 
 **Regen:** 5 (acid or fire)
 
 **Vulner:** fire
-
-**Will:** +2
 
 **Offense**
 

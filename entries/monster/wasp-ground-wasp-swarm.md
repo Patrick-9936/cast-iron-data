@@ -52,21 +52,25 @@ stings._
 
 **Experience points:** 600
 
-**Armor class:** 19/19/18
+**Armor class:** 19
 
-**Defensive abilities:** swarm traits
+**Touch:** 19
 
-**Fort:** +3
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +8 size
 
 **Hit points:** 13 (3d8)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** +1 Dex, +8 size
+**Fort:** +3
 
 **Ref:** +2
 
 **Will:** +1
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
 
 **Offense**
 

@@ -53,23 +53,27 @@ primordial nature, and the abundant plant growth covering its body suggests both
 
 **Experience points:** 19,200
 
-**Armor class:** 26/12/22
+**Armor class:** 26
 
-**Defensive abilities:** elusive
+**Touch:** 12
 
-**Fort:** +14
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +14 natural, -2 size
 
 **Hit points:** 157 (15d10+75); swamp healing 5
 
-**Immune:** cold, poison
-
-**Mod:** +4 Dex, +14 natural, -2 size
+**Fort:** +14
 
 **Ref:** +13
 
-**Resist:** electricity 20, fire 20
-
 **Will:** +8
+
+**Defensive abilities:** elusive
+
+**Immune:** cold, poison
+
+**Resist:** electricity 20, fire 20
 
 **Offense**
 

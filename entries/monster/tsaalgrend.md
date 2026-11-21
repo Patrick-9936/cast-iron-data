@@ -51,25 +51,29 @@ through the air._
 
 **Experience points:** 600
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 natural, +1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +1 natural, +1 size
+**Fort:** +5
 
 **Ref:** +3
+
+**Will:** +1
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Resist:** acid 5, electricity 5
 
 **Vulner:** fire
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +1
 
 **Offense**
 

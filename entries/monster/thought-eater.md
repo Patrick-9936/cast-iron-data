@@ -51,19 +51,23 @@ beak._
 
 **Experience points:** 600
 
-**Armor class:** 16/16/12
+**Armor class:** 16
 
-**Defensive abilities:** ethereal body
+**Touch:** 16
 
-**Fort:** +1
+**Flat-footed:** 12
+
+**AC modifiers:** +4 Dex, +2 size
 
 **Hit points:** 18 (4d8)
 
-**Mod:** +4 Dex, +2 size
+**Fort:** +1
 
 **Ref:** +5
 
 **Will:** +5
+
+**Defensive abilities:** ethereal body
 
 **Offense**
 

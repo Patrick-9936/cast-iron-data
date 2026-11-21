@@ -53,19 +53,23 @@ _Seemingly human at first glance, this feathered woman conceals wings beneath a 
 **Subtype:** Strix\
 **Experience points:** 800
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Fort:** +1
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 armor, +3 Dex
 
 **Hit points:** 22 (4d8+4)
 
-**Mod:** +4 armor, +3 Dex
+**Fort:** +1
 
 **Ref:** +7
 
-**Trap S:** +1
-
 **Will:** +3; +2 bonus vs. poison, +2 bonus vs. illusion spells or effects
+
+**Trap S:** +1
 
 **Offense**
 

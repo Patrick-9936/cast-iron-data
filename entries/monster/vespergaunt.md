@@ -55,7 +55,21 @@ vapor._
 
 **Experience points:** 19,200
 
-**Armor class:** 24/16/18
+**Armor class:** 24
+
+**Touch:** 16
+
+**Flat-footed:** 18
+
+**AC modifiers:** +5 Dex, +1 dodge, +8 natural
+
+**Hit points:** 195 (17d8+119)
+
+**Fort:** +14
+
+**Ref:** +12
+
+**Will:** +9
 
 **Amorph:** present
 
@@ -63,19 +77,9 @@ vapor._
 
 **Dr:** 10/aligned
 
-**Fort:** +14
-
-**Hit points:** 195 (17d8+119)
-
 **Immune:** cold, [ooze traits](ref/umr/ooze-traits)
 
-**Mod:** +5 Dex, +1 dodge, +8 natural
-
-**Ref:** +12
-
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +9
 
 **Offense**
 

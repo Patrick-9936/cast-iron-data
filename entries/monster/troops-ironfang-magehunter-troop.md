@@ -50,19 +50,23 @@ _This grim band of hobgoblin hunters is equipped with sturdy armor and well-used
 
 **Experience points:** 38,400
 
-**Armor class:** 28/15/23
+**Armor class:** 28
 
-**Defensive abilities:** stalwart, troop traits
+**Touch:** 15
 
-**Fort:** +16
+**Flat-footed:** 23
+
+**AC modifiers:** +5 armor, +5 Dex, +8 natural
 
 **Hit points:** 199 (19d8+114)
 
-**Mod:** +5 armor, +5 Dex, +8 natural
+**Fort:** +16
 
 **Ref:** +13
 
 **Will:** +11
+
+**Defensive abilities:** stalwart, troop traits
 
 **Offense**
 

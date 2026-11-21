@@ -51,25 +51,29 @@ some deranged beast._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/13/13
+**Armor class:** 16
+
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +3 natural
+
+**Hit points:** 39 (6d8+12)
+
+**Fort:** +4
+
+**Ref:** +5
+
+**Will:** +6
 
 **Defensive abilities:** daylight invisibility
 
 **Dr:** 5/magic
 
-**Fort:** +4
-
-**Hit points:** 39 (6d8+12)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +3 Dex, +3 natural
-
-**Ref:** +5
-
 **Weaknesses:** vulnerable to sunlight
-
-**Will:** +6
 
 **Offense**
 

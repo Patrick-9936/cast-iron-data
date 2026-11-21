@@ -55,27 +55,31 @@ DC 30, 10 rounds), quell the profane
 
 **Experience points:** 819,200
 
-**Armor class:** 40/22/27
+**Armor class:** 40
+
+**Touch:** 22
+
+**Flat-footed:** 27
+
+**AC modifiers:** +13 Dex, +18 natural, -1 size
+
+**Hit points:** 472 (27d10+324)
+
+**Fort:** +27
+
+**Ref:** +22
+
+**Will:** +21; +4 vs. poison
 
 **Dr:** 15/silver and evil
 
 **Evasion:** present
 
-**Fort:** +27
-
-**Hit points:** 472 (27d10+324)
-
 **Immune:** electricity, petrification
-
-**Mod:** +13 Dex, +18 natural, -1 size
-
-**Ref:** +22
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 34
-
-**Will:** +21; +4 vs. poison
 
 **Offense**
 

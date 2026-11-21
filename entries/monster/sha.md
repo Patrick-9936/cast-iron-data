@@ -51,13 +51,17 @@ unnatural origins of this black canine._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/14/13
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +3 natural
 
 **Hit points:** 45 (6d10+12)
 
-**Mod:** +4 Dex, +3 natural
+**Fort:** +7
 
 **Ref:** +9
 

@@ -49,27 +49,31 @@ wings sprouts from its hunched back._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
+
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
+
+**Hit points:** 39 (6d8+12)
+
+**Fort:** +4
+
+**Ref:** +5
+
+**Will:** +7
 
 **Chan Res:** +2
 
 **Defensive abilities:** cursed land, rejuvenation
 
-**Fort:** +4
-
-**Hit points:** 39 (6d8+12)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +4 natural
-
-**Ref:** +5
 
 **Resist:** cold 5, fire 5
 
 **Weaknesses:** sunlight powerlessness
-
-**Will:** +7
 
 **Offense**
 

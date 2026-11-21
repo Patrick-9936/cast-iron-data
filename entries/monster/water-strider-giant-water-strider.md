@@ -50,19 +50,23 @@ solid ground._
 
 **Experience points:** 400
 
-**Armor class:** 12/10/11
+**Armor class:** 12
 
-**Fort:** +5
+**Touch:** 10
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +2 natural, -1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +2 natural, -1 size
+**Fort:** +5
 
 **Ref:** +2
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

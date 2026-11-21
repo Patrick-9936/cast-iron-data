@@ -47,13 +47,17 @@ stripes._
 
 **Experience points:** 1,200
 
-**Armor class:** 14/11/12
+**Armor class:** 14
 
-**Fort:** +8
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +3 natural, -1 size
 
 **Hit points:** 45 (6d8+18)
 
-**Mod:** +2 Dex, +3 natural, -1 size
+**Fort:** +8
 
 **Ref:** +7
 

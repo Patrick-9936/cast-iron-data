@@ -49,21 +49,25 @@ abilities = ["17", "21", "16", "5", "14", "6"]
 
 **Experience points:** 3,200
 
-**Armor class:** 18/16/12
+**Armor class:** 18
 
-**Defensive abilities:** troop traits
+**Touch:** 16
 
-**Fort:** +6
+**Flat-footed:** 12
+
+**AC modifiers:** +5 Dex, +1 dodge, +2 natural
 
 **Hit points:** 85 (9d10+36)
 
-**Mod:** +5 Dex, +1 dodge, +2 natural
+**Fort:** +6
 
 **Ref:** +11
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +10
+
+**Defensive abilities:** troop traits
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

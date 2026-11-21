@@ -53,25 +53,29 @@ transparent flesh._
 
 **Experience points:** 19,200
 
-**Armor class:** 21/15/18
+**Armor class:** 21
 
-**Dr:** 5/good or silver
+**Touch:** 15
 
-**Fort:** +13
+**Flat-footed:** 18
+
+**AC modifiers:** +4 armor, +2 deflection, +3 Dex, +2 natural
 
 **Hit points:** 108 (11d6+3d10+53\~14)
 
-**Immune:** death effects, disease, fear, level drain
-
-**Mod:** +4 armor, +2 deflection, +3 Dex, +2 natural
+**Fort:** +13
 
 **Ref:** +11
+
+**Will:** +14
+
+**Dr:** 5/good or silver
+
+**Immune:** death effects, disease, fear, level drain
 
 **Resist:** acid 10
 
 **Sr:** 23
-
-**Will:** +14
 
 **Offense**
 

@@ -51,23 +51,27 @@ eel-like creature._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/12/24
+**Armor class:** 28
 
-**Defensive abilities:** absorb lightning, elusive
+**Touch:** 12
 
-**Fort:** +15
+**Flat-footed:** 24
+
+**AC modifiers:** +4 Dex, +16 natural, -2 size
 
 **Hit points:** 178 (17d10+85)
 
-**Immune:** cold, electricity
-
-**Mod:** +4 Dex, +16 natural, -2 size
+**Fort:** +15
 
 **Ref:** +14
 
-**Resist:** fire 20
-
 **Will:** +13
+
+**Defensive abilities:** absorb lightning, elusive
+
+**Immune:** cold, electricity
+
+**Resist:** fire 20
 
 **Offense**
 

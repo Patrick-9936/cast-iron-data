@@ -52,19 +52,23 @@ much more muscular and carries itself with a strange posture._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/12
+**Armor class:** 17
 
-**Defensive abilities:** mixed mind
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 12
+
+**AC modifiers:** +4 Dex, +1 dodge, +2 natural
 
 **Hit points:** 37 (5d10+10)
 
-**Mod:** +4 Dex, +1 dodge, +2 natural
+**Fort:** +6
 
 **Ref:** +8
 
 **Will:** +4
+
+**Defensive abilities:** mixed mind
 
 **Offense**
 

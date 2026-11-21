@@ -49,19 +49,23 @@ with a single sharp fingernail._
 
 **Experience points:** 200
 
-**Armor class:** 11/11/11
+**Armor class:** 11
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 11
+
+**AC modifiers:** -1 Dex, +2 size
 
 **Hit points:** 9 (1d8+5)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -1 Dex, +2 size
+**Fort:** +5
 
 **Ref:** -1
 
 **Will:** -5
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

@@ -51,21 +51,25 @@ of thick white fur._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/10/16
+**Armor class:** 17
 
-**Fort:** +6
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +7 natural, -1 size
 
 **Hit points:** 45 (6d10+12)
 
-**Immune:** cold
-
-**Mod:** +1 Dex, +7 natural, -1 size
+**Fort:** +6
 
 **Ref:** +6
 
-**Vulner:** fire
-
 **Will:** +6
+
+**Immune:** cold
+
+**Vulner:** fire
 
 **Offense**
 

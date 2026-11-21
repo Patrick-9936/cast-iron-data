@@ -55,25 +55,29 @@ together into one body._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/12/25
+**Armor class:** 31
 
-**Dr:** 10/good
+**Touch:** 12
 
-**Fort:** +17
+**Flat-footed:** 25
+
+**AC modifiers:** +5 Dex, +1 dodge, +19 natural, -4 size
 
 **Hit points:** 210 (20d10+100)
 
-**Immune:** electricity, poison
-
-**Mod:** +5 Dex, +1 dodge, +19 natural, -4 size
+**Fort:** +17
 
 **Ref:** +13
+
+**Will:** +20
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 26
-
-**Will:** +20
 
 **Offense**
 

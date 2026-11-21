@@ -48,13 +48,17 @@ placid eyes._
 
 **Experience points:** 4,800
 
-**Armor class:** 25/0/25
+**Armor class:** 25
 
-**Fort:** +16
+**Touch:** 0
+
+**Flat-footed:** 25
+
+**AC modifiers:** -2 Dex, +25 natural, -8 size
 
 **Hit points:** 126 (11d8+77)
 
-**Mod:** -2 Dex, +25 natural, -8 size
+**Fort:** +16
 
 **Ref:** +5
 

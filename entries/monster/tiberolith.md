@@ -51,27 +51,31 @@ down its shuddering body._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/8/24
+**Armor class:** 24
+
+**Touch:** 8
+
+**Flat-footed:** 24
+
+**AC modifiers:** +16 natural, -2 size
+
+**Hit points:** 111 (13d10+40)
+
+**Fort:** +4
+
+**Ref:** +4
+
+**Will:** +4
 
 **Defensive abilities:** spell trap
 
 **Dr:** 10/adamantine and bludgeoning
 
-**Fort:** +4
-
-**Hit points:** 111 (13d10+40)
-
 **Immune:** acid, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +16 natural, -2 size
-
-**Ref:** +4
 
 **Resist:** electricity 30
 
 **Sr:** 24
-
-**Will:** +4
 
 **Offense**
 

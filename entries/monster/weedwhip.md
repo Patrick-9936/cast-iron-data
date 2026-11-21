@@ -53,23 +53,27 @@ heads._
 
 **Experience points:** 600
 
-**Armor class:** 14/13/11
+**Armor class:** 14
 
-**Defensive abilities:** dig in, poisonous
+**Touch:** 13
 
-**Fort:** +4
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 natural
 
 **Hit points:** 16 (3d8+3)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex, +1 natural
+**Fort:** +4
 
 **Ref:** +4
 
-**Weaknesses:** languid whips
-
 **Will:** +2
+
+**Defensive abilities:** dig in, poisonous
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Weaknesses:** languid whips
 
 **Offense**
 

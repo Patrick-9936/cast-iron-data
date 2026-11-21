@@ -50,23 +50,27 @@ _This doll's glass eyes glisten with unmistakable curiosity as it comes to life 
 
 **Experience points:** 600
 
-**Armor class:** 15/14/13
+**Armor class:** 15
 
-**Dr:** 2/magic
+**Touch:** 14
 
-**Fort:** +1
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 natural, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +1 natural, +2 size
+**Fort:** +1
 
 **Ref:** +3
 
-**Weaknesses:** susceptible to mind-affecting effects
-
 **Will:** +1
+
+**Dr:** 2/magic
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Weaknesses:** susceptible to mind-affecting effects
 
 **Offense**
 

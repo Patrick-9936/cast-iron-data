@@ -52,26 +52,30 @@ dozen different wings._
 
 **Experience points:** 614,400
 
-**Armor class:** 39/9/32
+**Armor class:** 39
 
-**Dr:** 15/epic
+**Touch:** 9
+
+**Flat-footed:** 32
+
+**AC modifiers:** +6 Dex, +1 dodge, +30 natural, -8 size
+
+**Hit points:** 437 (25d10+300)
 
 **Fort:** +26
 
-**Hit points:** 437 (25d10+300)
+**Ref:** +20
+
+**Will:** +12
+
+**Dr:** 15/epic
 
 **Immune:** ability damage, acid, bleed, disease, electricity, energy drain, mind-affecting effects,
 paralysis, permanent wounds, petrification, poison, polymorph
 
-**Mod:** +6 Dex, +1 dodge, +30 natural, -8 size
-
-**Ref:** +20
-
 **Regen:** 30
 
 **Sr:** 33
-
-**Will:** +12
 
 **Offense**
 

@@ -52,25 +52,29 @@ _This humanoid-shaped colossus is a towering fury of burning wicker and wood._
 
 **Experience points:** 25,600
 
-**Armor class:** 20/5/17
+**Armor class:** 20
+
+**Touch:** 5
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +15 natural, -8 size
+
+**Hit points:** 157 (14d10+80)
+
+**Fort:** +4
+
+**Ref:** +7
+
+**Will:** +4
 
 **Defensive abilities:** fire healing, [hardness](ref/umr/hardness) 5
 
 **Fh:** 1
 
-**Fort:** +4
-
-**Hit points:** 157 (14d10+80)
-
 **Immune:** [construct traits](ref/umr/construct-traits), fire
 
-**Mod:** +3 Dex, +15 natural, -8 size
-
-**Ref:** +7
-
 **Vulner:** cold
-
-**Will:** +4
 
 **Offense**
 

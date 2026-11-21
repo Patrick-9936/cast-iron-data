@@ -55,19 +55,23 @@ _Light shimmers across this humanoid figure's bare golden skin, illuminating reg
 
 **Experience points:** 200
 
-**Armor class:** 11/11/10
+**Armor class:** 11
 
-**Defensive abilities:** immune to undeath, resist level drain
+**Touch:** 11
 
-**Fort:** +3
+**Flat-footed:** 10
+
+**AC modifiers:** +1 Dex
 
 **Hit points:** 12 (1d8+4)
 
-**Mod:** +1 Dex
+**Fort:** +3
 
 **Ref:** +1
 
 **Will:** +1
+
+**Defensive abilities:** immune to undeath, resist level drain
 
 **Offense**
 

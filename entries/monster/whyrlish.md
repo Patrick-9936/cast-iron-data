@@ -52,23 +52,27 @@ sports a nest of sting-tipped tendrils._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/16/23
+**Armor class:** 31
+
+**Touch:** 16
+
+**Flat-footed:** 23
+
+**AC modifiers:** +7 Dex, +1 dodge, +15 natural, -2 size
+
+**Hit points:** 210 (20d8+120)
+
+**Fort:** +12
+
+**Ref:** +15
+
+**Will:** +18
 
 **Amorph:** present
 
 **Defensive abilities:** all-around vision
 
-**Fort:** +12
-
-**Hit points:** 210 (20d8+120)
-
 **Immune:** ability drain, death effects, electricity, energy drain, fear, negative energy effects
-
-**Mod:** +7 Dex, +1 dodge, +15 natural, -2 size
-
-**Ref:** +15
-
-**Will:** +18
 
 **Offense**
 

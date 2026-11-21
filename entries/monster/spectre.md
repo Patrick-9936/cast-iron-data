@@ -56,23 +56,27 @@ into a hideous mask._
 
 **Experience points:** 3,200
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Chan Res:** +2
+**Touch:** 15
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +2 deflection, +3 Dex
 
 **Hit points:** 52 (8d8+16)
 
-**Incorporeal:** present
-
-**Mod:** +2 deflection, +3 Dex
+**Fort:** +4
 
 **Ref:** +5
 
-**Weaknesses:** resurrection vulnerability, sunlight powerlessness
-
 **Will:** +9
+
+**Chan Res:** +2
+
+**Incorporeal:** present
+
+**Weaknesses:** resurrection vulnerability, sunlight powerlessness
 
 **Offense**
 

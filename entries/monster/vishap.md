@@ -53,27 +53,31 @@ _This slender dragon is covered in vivid cerulean scales with four powerful wing
 
 **Experience points:** 204,800
 
-**Armor class:** 35/4/33
+**Armor class:** 35
+
+**Touch:** 4
+
+**Flat-footed:** 33
+
+**AC modifiers:** +2 Dex, +31 natural, -8 size
+
+**Hit points:** 362 (25d12+200)
+
+**Fort:** +22
+
+**Ref:** +16
+
+**Will:** +16
 
 **Defensive abilities:** poisoned blood
 
 **Dr:** 15/magic
 
-**Fort:** +22
-
-**Hit points:** 362 (25d12+200)
-
 **Immune:** poison, paralysis, sleep
-
-**Mod:** +2 Dex, +31 natural, -8 size
-
-**Ref:** +16
 
 **Resist:** cold 15, cold 15, electricity 15, fire 15
 
 **Sr:** 30
-
-**Will:** +16
 
 **Offense**
 

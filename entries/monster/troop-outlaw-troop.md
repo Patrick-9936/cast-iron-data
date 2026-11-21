@@ -49,21 +49,25 @@ swords menacingly._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/15/14
+**Armor class:** 19
 
-**Defensive abilities:** troop traits
+**Touch:** 15
 
-**Evasion:** present
+**Flat-footed:** 14
 
-**Fort:** +6
+**AC modifiers:** +4 armor, +4 Dex, +1 dodge
 
 **Hit points:** 82 (11d8+33)
 
-**Mod:** +4 armor, +4 Dex, +1 dodge
+**Fort:** +6
 
 **Ref:** +13
 
 **Will:** +6
+
+**Defensive abilities:** troop traits
+
+**Evasion:** present
 
 **Offense**
 

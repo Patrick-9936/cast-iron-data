@@ -54,25 +54,29 @@ reminiscent of sickle blades._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/10/18
+**Armor class:** 19
 
-**Dr:** 10/cold iron or good
+**Touch:** 10
 
-**Fort:** +9
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** acid, poison
-
-**Mod:** +1 Dex, +9 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
+
+**Will:** +5
+
+**Dr:** 10/cold iron or good
+
+**Immune:** acid, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Weaknesses:** sunlight powerlessness
-
-**Will:** +5
 
 **Offense**
 

@@ -52,13 +52,17 @@ intoxicated._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +3 natural, +1 shield
 
 **Hit points:** 47 (5d10+20)
 
-**Mod:** +3 Dex, +3 natural, +1 shield
+**Fort:** +5
 
 **Ref:** +7
 

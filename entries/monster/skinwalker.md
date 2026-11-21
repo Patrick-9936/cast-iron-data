@@ -53,13 +53,17 @@ _This man seems human at first, but a closer look reveals he has claws and sharp
 
 **Experience points:** 200
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 armor, +2 Dex
 
 **Hit points:** 12 (1d10+2)
 
-**Mod:** +3 armor, +2 Dex
+**Fort:** +3
 
 **Ref:** +4
 

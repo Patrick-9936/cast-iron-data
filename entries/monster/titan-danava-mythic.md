@@ -53,29 +53,33 @@ mace._
 
 **Experience points:** 1,228,800
 
-**Armor class:** 48/24/35
+**Armor class:** 48
+
+**Touch:** 24
+
+**Flat-footed:** 35
+
+**AC modifiers:** +9 deflection, +12 Dex, +1 dodge, +24 natural, -8 size
+
+**Hit points:** 545 (26d10+402)
+
+**Fort:** +27
+
+**Ref:** +21
+
+**Will:** +24; +8 vs. mind-affecting, second save
 
 **Defensive abilities:** iron resilience
 
 **Dr:** 20/epic
 
-**Fort:** +27
-
 **Fortif:** 50
 
-**Hit points:** 545 (26d10+402)
-
 **Immune:** aging, daze, death effects, disease, divinations, stagger, stun
-
-**Mod:** +9 deflection, +12 Dex, +1 dodge, +24 natural, -8 size
-
-**Ref:** +21
 
 **Sr:** 39
 
 **Unstop:** present
-
-**Will:** +24; +8 vs. mind-affecting, second save
 
 **Offense**
 

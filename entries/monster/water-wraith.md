@@ -51,13 +51,17 @@ change color to match its surroundings._
 
 **Experience points:** 600
 
-**Armor class:** 16/11/14
+**Armor class:** 16
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +1 dodge, +5 natural, -1 size
 
 **Hit points:** 19 (3d10+3)
 
-**Mod:** +1 Dex, +1 dodge, +5 natural, -1 size
+**Fort:** +4
 
 **Ref:** +4
 

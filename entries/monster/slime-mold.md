@@ -46,21 +46,25 @@ with a reek of decay._
 
 **Experience points:** 600
 
-**Armor class:** 8/8/8
+**Armor class:** 8
 
-**Fort:** +6
+**Touch:** 8
+
+**Flat-footed:** 8
+
+**AC modifiers:** -1 Dex, -1 size
 
 **Hit points:** 28 (3d8+15)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -1 Dex, -1 size
+**Fort:** +6
 
 **Ref:** +0
 
-**Resist:** fire 10
-
 **Will:** -4
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
+
+**Resist:** fire 10
 
 **Offense**
 

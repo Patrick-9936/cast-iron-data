@@ -48,13 +48,17 @@ wings hold it aloft._
 
 **Experience points:** 100
 
-**Armor class:** 15/15/14
+**Armor class:** 15
 
-**Fort:** +1
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 size
 
 **Hit points:** 3 (1d8-1)
 
-**Mod:** +1 Dex, +4 size
+**Fort:** +1
 
 **Ref:** +3
 

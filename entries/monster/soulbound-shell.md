@@ -47,25 +47,29 @@ _This white statue of a bald human is marbled with glowing green veins of energy
 
 **Experience points:** 19,200
 
-**Armor class:** 26/11/25
+**Armor class:** 26
 
-**Dr:** 10/adamantine and magic
+**Touch:** 11
 
-**Fort:** +5
+**Flat-footed:** 25
+
+**AC modifiers:** +4 armor, +1 Dex, +11 natural
 
 **Hit points:** 132 (15d10+50)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +4 armor, +1 Dex, +11 natural
+**Fort:** +5
 
 **Ref:** +6
+
+**Will:** +7
+
+**Dr:** 10/adamantine and magic
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Sr:** 23
 
 **Weaknesses:** cemented mind, susceptible to mind-affecting effects
-
-**Will:** +7
 
 **Offense**
 

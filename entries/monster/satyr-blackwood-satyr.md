@@ -50,19 +50,23 @@ _No flavor text._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/16/14
+**Armor class:** 20
 
-**Dr:** 10/cold iron
+**Touch:** 16
 
-**Fort:** +6
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +1 dodge, +4 natural
 
 **Hit points:** 83 (9d6+52)
 
-**Mod:** +5 Dex, +1 dodge, +4 natural
+**Fort:** +6
 
 **Ref:** +11
 
 **Will:** +9
+
+**Dr:** 10/cold iron
 
 **Offense**
 

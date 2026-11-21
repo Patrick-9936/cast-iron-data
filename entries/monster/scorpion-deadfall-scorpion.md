@@ -50,19 +50,23 @@ scorpion._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/10/19
+**Armor class:** 21
 
-**Fort:** +12
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +2 Dex, +11 natural, -2 size
 
 **Hit points:** 95 (10d8+50)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +11 natural, -2 size
+**Fort:** +12
 
 **Ref:** +5
 
 **Will:** +5
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

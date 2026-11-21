@@ -51,19 +51,23 @@ for eyes; and large, powerful hands that end in wicked claws._
 
 **Experience points:** 600
 
-**Armor class:** 14/14/10
+**Armor class:** 14
 
-**Defensive abilities:** absorbent hide
+**Touch:** 14
 
-**Fort:** +6
+**Flat-footed:** 10
+
+**AC modifiers:** +4 Dex
 
 **Hit points:** 22 (3d8+9); rain regeneration 5 (acid or fire)
 
-**Mod:** +4 Dex
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +1
+
+**Defensive abilities:** absorbent hide
 
 **Offense**
 

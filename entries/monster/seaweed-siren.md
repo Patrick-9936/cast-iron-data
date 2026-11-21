@@ -58,21 +58,25 @@ split by a wide, toothy mouth._
 
 **Experience points:** 25,600
 
-**Armor class:** 26/11/24
+**Armor class:** 26
 
-**Fort:** +16
+**Touch:** 11
+
+**Flat-footed:** 24
+
+**AC modifiers:** +2 Dex, +15 natural, -1 size
 
 **Hit points:** 184 (16d10+96)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +15 natural, -1 size
+**Fort:** +16
 
 **Ref:** +12
 
-**Resist:** fire 10, sonic 10
-
 **Will:** +8
+
+**Immune:** mind-affecting effects
+
+**Resist:** fire 10, sonic 10
 
 **Offense**
 

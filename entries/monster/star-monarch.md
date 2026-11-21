@@ -51,23 +51,27 @@ trails behind the creature._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/15/15
+**Armor class:** 22
 
-**Dr:** 5/silver
+**Touch:** 15
 
-**Fort:** +12
+**Flat-footed:** 15
+
+**AC modifiers:** +6 Dex, +1 dodge, +7 natural, -2 size
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** cold
-
-**Mod:** +6 Dex, +1 dodge, +7 natural, -2 size
+**Fort:** +12
 
 **Ref:** +14
 
-**Sr:** 20
-
 **Will:** +9
+
+**Dr:** 5/silver
+
+**Immune:** cold
+
+**Sr:** 20
 
 **Offense**
 

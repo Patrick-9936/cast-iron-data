@@ -52,27 +52,31 @@ spiraling maw ringed with thousands of teeth._
 
 **Experience points:** 819,200
 
-**Armor class:** 41/25/29
+**Armor class:** 41
+
+**Touch:** 25
+
+**Flat-footed:** 29
+
+**AC modifiers:** +12 Dex, +11 insight, +16 natural, -8 size
+
+**Hit points:** 495 (22d8+396)
+
+**Fort:** +25
+
+**Ref:** +19
+
+**Will:** +25; +4 vs. psychic spells and effects
 
 **Defensive abilities:** all-around vision, [psychic resilience](ref/umr/psychic-resilience)
 
 **Dr:** 10/adamantine and good
 
-**Fort:** +25
-
-**Hit points:** 495 (22d8+396)
-
 **Immune:** cold, disease, poison
-
-**Mod:** +12 Dex, +11 insight, +16 natural, -8 size
-
-**Ref:** +19
 
 **Resist:** fire 20
 
 **Sr:** 34
-
-**Will:** +25; +4 vs. psychic spells and effects
 
 **Offense**
 

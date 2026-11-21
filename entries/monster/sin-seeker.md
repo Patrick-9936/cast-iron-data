@@ -51,19 +51,23 @@ features of a pig. Its porcine face is eyeless and its nose never stops sniffing
 
 **Experience points:** 600
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 16 (3d10)
 
-**Immune:** gaze attacks, visual effects and illusions, attacks that rely on sight
-
-**Mod:** +2 Dex, +2 size
+**Fort:** +3
 
 **Ref:** +5
 
 **Will:** +3
+
+**Immune:** gaze attacks, visual effects and illusions, attacks that rely on sight
 
 **Offense**
 

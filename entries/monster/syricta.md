@@ -48,23 +48,27 @@ while the other is two snake heads._
 
 **Experience points:** 19,200
 
-**Armor class:** 29/11/27
+**Armor class:** 29
 
-**Fort:** +11
+**Touch:** 11
+
+**Flat-footed:** 27
+
+**AC modifiers:** +2 Dex, +18 natural, -1 size
 
 **Hit points:** 178 (17d8+102)
 
-**Immune:** mind-affecting effects, paralysis, poison
-
-**Mod:** +2 Dex, +18 natural, -1 size
+**Fort:** +11
 
 **Ref:** +9
+
+**Will:** +12
+
+**Immune:** mind-affecting effects, paralysis, poison
 
 **Sr:** 23
 
 **Weaknesses:** serpentfolk pawn
-
-**Will:** +12
 
 **Offense**
 

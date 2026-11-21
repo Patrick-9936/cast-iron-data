@@ -53,7 +53,21 @@ _This mob of undead is draped in soggy seaweed._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/20
+**Armor class:** 23
+
+**Touch:** 13
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 armor, +2 Dex, +1 dodge, +6 natural
+
+**Hit points:** 93 (11d8+44)
+
+**Fort:** +6
+
+**Ref:** +7
+
+**Will:** +9
 
 **Defensive abilities:** troop traits
 
@@ -61,19 +75,9 @@ _This mob of undead is draped in soggy seaweed._
 
 **Evasion:** present
 
-**Fort:** +6
-
-**Hit points:** 93 (11d8+44)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +4 armor, +2 Dex, +1 dodge, +6 natural
-
-**Ref:** +7
-
 **Resist:** fire 10
-
-**Will:** +9
 
 **Offense**
 

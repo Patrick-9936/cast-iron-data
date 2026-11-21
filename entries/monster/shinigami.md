@@ -53,28 +53,32 @@ protrude from its shoulders._
 
 **Experience points:** 102,400
 
-**Armor class:** 31/15/25
+**Armor class:** 31
+
+**Touch:** 15
+
+**Flat-footed:** 25
+
+**AC modifiers:** +5 Dex, +1 dodge, +16 natural, -1 size
+
+**Hit points:** 275 (22d10+154)
+
+**Fort:** +20
+
+**Ref:** +12
+
+**Will:** +19
 
 **Dr:** 10/chaotic and silver
 
 **Fh:** 10
 
-**Fort:** +20
-
-**Hit points:** 275 (22d10+154)
-
 **Immune:** ability damage, ability drain, cold, death effects, disease, energy drain, negative
 energy, poison
-
-**Mod:** +5 Dex, +1 dodge, +16 natural, -1 size
-
-**Ref:** +12
 
 **Resist:** acid 10, fire 10
 
 **Sr:** 28
-
-**Will:** +19
 
 **Offense**
 

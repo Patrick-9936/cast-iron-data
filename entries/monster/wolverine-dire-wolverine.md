@@ -48,13 +48,17 @@ dark and filled with rage._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/12/13
+**Armor class:** 16
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +4 natural, -1 size
 
 **Hit points:** 42 (5d8+20)
 
-**Mod:** +3 Dex, +4 natural, -1 size
+**Fort:** +7
 
 **Ref:** +7
 

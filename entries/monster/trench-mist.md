@@ -57,7 +57,21 @@ dead soldiers._
 
 **Experience points:** 9,600
 
-**Armor class:** 12/12/6
+**Armor class:** 12
+
+**Touch:** 12
+
+**Flat-footed:** 6
+
+**AC modifiers:** +5 Dex, +1 dodge, -4 size
+
+**Hit points:** 127 (15d8+60)
+
+**Fort:** +8
+
+**Ref:** +10
+
+**Will:** +10
 
 **Amorph:** present
 
@@ -67,17 +81,7 @@ dead soldiers._
 
 **Fh:** 5
 
-**Fort:** +8
-
-**Hit points:** 127 (15d8+60)
-
 **Immune:** acid, electricity, sonic
-
-**Mod:** +5 Dex, +1 dodge, -4 size
-
-**Ref:** +10
-
-**Will:** +10
 
 **Offense**
 

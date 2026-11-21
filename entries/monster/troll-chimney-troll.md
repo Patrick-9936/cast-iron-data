@@ -53,21 +53,25 @@ with desperate hunger._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/11
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +2 natural, -1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +3 Dex, +2 natural, -1 size
+**Fort:** +5
 
 **Ref:** +4
+
+**Will:** +1
 
 **Resist:** fire 10
 
 **Weaknesses:** wicked blood
-
-**Will:** +1
 
 **Offense**
 

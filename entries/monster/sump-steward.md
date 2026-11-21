@@ -49,21 +49,25 @@ woven grass._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/11/21
+**Armor class:** 23
 
-**Fort:** +12
+**Touch:** 11
+
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +12 natural, -1 size
 
 **Hit points:** 105 (14d8+42)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +12 natural, -1 size
+**Fort:** +12
 
 **Ref:** +8
 
-**Regen:** 10 (acid or fire)
-
 **Will:** +8
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Regen:** 10 (acid or fire)
 
 **Offense**
 

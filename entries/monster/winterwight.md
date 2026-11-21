@@ -52,7 +52,21 @@ in jagged sheets of ice._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/16/26
+**Armor class:** 32
+
+**Touch:** 16
+
+**Flat-footed:** 26
+
+**AC modifiers:** +6 Dex, +16 natural
+
+**Hit points:** 270 (20d8+180)
+
+**Fort:** +15
+
+**Ref:** +14
+
+**Will:** +16
 
 **Chan Res:** +4
 
@@ -60,21 +74,11 @@ in jagged sheets of ice._
 
 **Fh:** 10
 
-**Fort:** +15
-
-**Hit points:** 270 (20d8+180)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +6 Dex, +16 natural
-
-**Ref:** +14
 
 **Sr:** 28
 
 **Vulner:** fire
-
-**Will:** +16
 
 **Offense**
 

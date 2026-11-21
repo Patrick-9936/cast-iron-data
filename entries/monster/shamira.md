@@ -54,21 +54,27 @@ _This crimson-haired demonic woman has wings of fire. She carries a slender bow 
 
 **Experience points:** 1,638,400
 
-**Armor class:** 42/35/31
+**Armor class:** 42
+
+**Touch:** 35
+
+**Flat-footed:** 31
+
+**AC modifiers:** +4 deflection, +11 Dex, +7 natural, +10 profane
+
+**Hit points:** 553 (27d10+405)
+
+**Fort:** +28
+
+**Ref:** +30
+
+**Will:** +26
 
 **Defensive abilities:** fire shield, _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 15/cold iron and good
 
-**Fort:** +28
-
-**Hit points:** 553 (27d10+405)
-
 **Immune:** charm and compulsion effects, death effects, disease, fire, electricity, poison
-
-**Mod:** +4 deflection, +11 Dex, +7 natural, +10 profane
-
-**Ref:** +30
 
 **Regen:** 15 (good)
 
@@ -77,8 +83,6 @@ _This crimson-haired demonic woman has wings of fire. She carries a slender bow 
 **Sr:** 36
 
 **Vulner:** cold
-
-**Will:** +26
 
 **Offense**
 

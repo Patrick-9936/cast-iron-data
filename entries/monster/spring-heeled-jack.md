@@ -51,13 +51,17 @@ bloody knife and a wicked grin._
 
 **Experience points:** 800
 
-**Armor class:** 16/16/11
+**Armor class:** 16
 
-**Fort:** +3
+**Touch:** 16
+
+**Flat-footed:** 11
+
+**AC modifiers:** +5 Dex, +1 size
 
 **Hit points:** 26 (4d6+12)
 
-**Mod:** +5 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +9
 

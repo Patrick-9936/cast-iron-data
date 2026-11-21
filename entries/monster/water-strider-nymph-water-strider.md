@@ -49,19 +49,23 @@ _These small, immature water insects are easily supported by the water's surface
 
 **Experience points:** 100
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 4 (1d8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +1 size
+**Fort:** +2
 
 **Ref:** +2
 
 **Will:** +0
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

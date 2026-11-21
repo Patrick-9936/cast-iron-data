@@ -50,19 +50,23 @@ _This creature has the body of a hawk and the head of a beautiful woman with lon
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Fort:** +7
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural
 
 **Hit points:** 52 (8d10+8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +1 dodge, +4 natural
+**Fort:** +7
 
 **Ref:** +11
 
 **Will:** +6
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

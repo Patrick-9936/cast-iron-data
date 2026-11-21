@@ -50,25 +50,29 @@ glowing eyes._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Ferocity:** present
+**Touch:** 12
 
-**Fort:** +9
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +8 natural, -1 size
 
 **Hit points:** 104 (11d8+55)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +6
+
+**Will:** +10
+
+**Ferocity:** present
+
+**Immune:** mind-affecting effects
 
 **Regen:** 5 (fire)
 
 **Vulner:** fire
-
-**Will:** +10
 
 **Offense**
 

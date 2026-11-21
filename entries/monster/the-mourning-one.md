@@ -55,23 +55,27 @@ flesh, and a terrible sickening flow of black blood oozes from each break and so
 
 **Experience points:** 204,800
 
-**Armor class:** 29/5/26
+**Armor class:** 29
 
-**Defensive abilities:** elusive
+**Touch:** 5
 
-**Fort:** +23
+**Flat-footed:** 26
+
+**AC modifiers:** +3 Dex, +24 natural, -8 size
 
 **Hit points:** 387 (25d10+250)
 
-**Immune:** ability drain, cold, energy drain, poison
-
-**Mod:** +3 Dex, +24 natural, -8 size
+**Fort:** +23
 
 **Ref:** +19
 
-**Resist:** fire 30
-
 **Will:** +10
+
+**Defensive abilities:** elusive
+
+**Immune:** ability drain, cold, energy drain, poison
+
+**Resist:** fire 30
 
 **Offense**
 

@@ -51,21 +51,25 @@ _An awful, scuttling mass of legs and mandibles scrambles forward out of the dar
 
 **Experience points:** 400
 
-**Armor class:** 17/17/14
+**Armor class:** 17
 
-**Defensive abilities:** swarm traits
+**Touch:** 17
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 size
 
 **Hit points:** 9 (2d8)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** +3 Dex, +4 size
+**Fort:** +3
 
 **Ref:** +3
 
 **Will:** +0
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
 
 **Offense**
 

@@ -49,19 +49,23 @@ from his temples._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/13/15
+**Armor class:** 18
 
-**Dr:** 5/cold iron
+**Touch:** 13
 
-**Fort:** +4
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +1 dodge, +5 natural
 
 **Hit points:** 44 (8d6+16)
 
-**Mod:** +2 Dex, +1 dodge, +5 natural
+**Fort:** +4
 
 **Ref:** +8
 
 **Will:** +8
+
+**Dr:** 5/cold iron
 
 **Offense**
 

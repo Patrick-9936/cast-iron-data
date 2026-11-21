@@ -53,21 +53,25 @@ _This armored humanoid has skin resembling white bone, carved with images of wea
 
 **Experience points:** 1,200
 
-**Armor class:** 22/11/21
+**Armor class:** 22
 
-**Fh:** 1
+**Touch:** 11
 
-**Fort:** +7
+**Flat-footed:** 21
+
+**AC modifiers:** +7 armor, +1 Dex, +1 natural, +3 shield
 
 **Hit points:** 38 (4d8+20)
 
-**Mod:** +7 armor, +1 Dex, +1 natural, +3 shield
+**Fort:** +7
 
 **Ref:** +2
 
-**Resist:** fire 30 (see energy resistance below)
-
 **Will:** +2
+
+**Fh:** 1
+
+**Resist:** fire 30 (see energy resistance below)
 
 **Offense**
 

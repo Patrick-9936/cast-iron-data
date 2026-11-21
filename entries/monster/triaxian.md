@@ -54,13 +54,17 @@ fur._
 
 **Experience points:** 200
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 armor, +2 Dex
 
 **Hit points:** 13 (1d10+3)
 
-**Mod:** +6 armor, +2 Dex
+**Fort:** +4
 
 **Ref:** +4
 

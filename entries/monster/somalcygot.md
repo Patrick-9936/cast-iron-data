@@ -54,25 +54,29 @@ chitinous body emerge four tentacles._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/13/23
+**Armor class:** 27
+
+**Touch:** 13
+
+**Flat-footed:** 23
+
+**AC modifiers:** +3 Dex, +1 dodge, +14 natural, -1 size
+
+**Hit points:** 189 (14d8+126)
+
+**Fort:** +15
+
+**Ref:** +11
+
+**Will:** +14
 
 **Defensive abilities:** resistant evolution
 
 **Dr:** 10/slashing
 
-**Fort:** +15
-
-**Hit points:** 189 (14d8+126)
-
 **Immune:** acid, cold
 
-**Mod:** +3 Dex, +1 dodge, +14 natural, -1 size
-
-**Ref:** +11
-
 **Vulner:** sonic
-
-**Will:** +14
 
 **Offense**
 
