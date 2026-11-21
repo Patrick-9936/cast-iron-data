@@ -10,6 +10,10 @@ It exists to prove, with the real compiler, what the fixes do before they are ma
   group b: remove the placement (the node keeps its title and children, and loses `entry`)
   group c: delete the phantom book
   group d: left alone (needs a print decision)
+
+Historical: this script reads the single `books.toml` of corpus formats 1 and 2, which format 3
+removed (phynics/cast-iron#425). Run it on a checkout of commit c8aa0bc33 (tag v0.1.35), the
+last format 2 commit.
 """
 from __future__ import annotations
 

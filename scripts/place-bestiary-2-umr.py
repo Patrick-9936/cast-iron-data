@@ -14,6 +14,10 @@ Entries on one page keep the printed alphabetical order. No entry id or file cha
 The pages come from the printed Bestiary 2 (the PDF page number is the printed number plus one);
 each rule's name and format line was found on the page given. The script is idempotent: a second
 run changes nothing.
+
+Historical: this script reads the single `books.toml` of corpus formats 1 and 2, which format 3
+removed (phynics/cast-iron#425). Run it on a checkout of commit c8aa0bc33 (tag v0.1.35), the
+last format 2 commit.
 """
 from __future__ import annotations
 

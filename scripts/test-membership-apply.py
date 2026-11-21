@@ -8,7 +8,8 @@ entry with a body `**Source:**` line as well is refused and left byte for byte u
 body line alone is refused; a row without an audit row is refused; a released row with a
 wrong page is refused. Each refusal must happen before anything is written. A format 3 corpus
 (`books/<publication-id>.toml`, curated books only) loses the placement from the curated file;
-a derived book has no file, so only `source_ids` and the row change.
+a derived book has no file, so only `source_ids` and the row change. A placement whose node
+has children is refused, before any file is written.
 
 A row for the entry's first book (`gate = primary`) is applied only when the reviewer cleared it:
 `proposed_primary` is the book that becomes first, `proposed_status` is `printed` or `body`, and
@@ -106,6 +107,18 @@ class ApplyTest(unittest.TestCase):
         self.assertEqual(r.returncode, 0, r.stderr)
         self.assertIn("books/: placements dropped 0", r.stdout)
         self.assertIn('source_ids = ["book-a", "book-c"]', path.read_text())
+
+    def test_format_3_placement_with_a_nested_child_is_refused_before_any_write(self):
+        book = ('[[books]]\nsource = "book-b"\n\n[[books.chapters]]\ntitle = "Spells"\n\n'
+                '[[books.chapters.children]]\ntitle = "Alpha"\nentry = "ref/spell/alpha"\n\n'
+                '[[books.chapters.children]]\ntitle = "Test Spell"\nentry = "ref/spell/test-spell"\n\n'
+                '[[books.chapters.children.children]]\ntitle = "Child"\nentry = "ref/spell/child"\n')
+        text = entry(ROW, "Text.\n")
+        r, path = self.run_apply(text, books={"books/book-b.toml": book})
+        self.assertNotEqual(r.returncode, 0)
+        self.assertIn("has children", r.stderr)
+        self.assertEqual((self.corpus / "books/book-b.toml").read_text(), book)
+        self.assertEqual(path.read_text(), text)
 
     def test_body_line_beside_a_released_row_is_refused(self):
         text = entry(ROW, "Text.\n\n**Source:** Beta Book pg. 12\n")

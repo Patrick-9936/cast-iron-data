@@ -8,6 +8,10 @@ plus one for a chapter. A node's children are the blocks that follow it with a g
 Only single-line `key = "string"` values are read (`title`, `entry`, `anchor`, `source`). Every
 other line is carried through untouched. `parse(text)` then `render(books)` reproduces the file
 byte for byte, which `selftest` proves.
+
+Historical: this script reads the single `books.toml` of corpus formats 1 and 2, which format 3
+removed (phynics/cast-iron#425). Run it on a checkout of commit c8aa0bc33 (tag v0.1.35), the
+last format 2 commit.
 """
 from __future__ import annotations
 

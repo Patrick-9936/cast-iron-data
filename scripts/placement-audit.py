@@ -23,6 +23,10 @@ It reads `publications.toml`, `books.toml` and every `entries/**/*.md`, and repo
 
 A placement is a distinct (book, entry) pair; an entry named twice in one book counts once.
 Output is deterministic: sorted, no timestamps.
+
+Historical: this script reads the single `books.toml` of corpus formats 1 and 2, which format 3
+removed (phynics/cast-iron#425). Run it on a checkout of commit c8aa0bc33 (tag v0.1.35), the
+last format 2 commit.
 """
 from __future__ import annotations
 

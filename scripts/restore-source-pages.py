@@ -48,6 +48,10 @@ Then format and check the corpus with the cast-iron tool:
 
     cargo xtask corpus-fmt --check <dir>
     cargo xtask corpus-check <dir>
+
+Historical: this script reads the single `books.toml` of corpus formats 1 and 2, which format 3
+removed (phynics/cast-iron#425). Run it on a checkout of commit c8aa0bc33 (tag v0.1.35), the
+last format 2 commit.
 """
 
 from __future__ import annotations

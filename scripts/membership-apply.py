@@ -263,19 +263,19 @@ def edit_entry(path: Path, book: str, title: str, write: bool = True,
 HEADER = re.compile(r"^\[\[books((?:\.chapters)(?:\.children)*)?\]\]$")
 
 
-def parse_books(text: str) -> list[list[str]]:
+def parse_books(text: str, name: str = "books.toml") -> list[list[str]]:
     """Split books.toml into blocks: a header line and its lines, up to the blank line.
 
     The file is canonical, so blocks are separated by exactly one blank line."""
     if "\n\n\n" in text or not text.endswith("\n") or text.endswith("\n\n"):
-        raise SystemExit("refused: books.toml is not in canonical block form; run corpus-fmt first")
+        raise SystemExit(f"refused: {name} is not in canonical block form; run corpus-fmt first")
     return [b.split("\n") for b in text[:-1].split("\n\n")]
 
 
-def apply_books(text: str, removals: dict[str, set[str]]) -> tuple[str, dict[str, int], int]:
+def apply_books(text: str, removals: dict[str, set[str]], name: str = "books.toml") -> tuple[str, dict[str, int], int]:
     """Drop the node of each (book -> entry ids) removal. Returns the new text, counts per book,
     and the number of title-only groups dropped because their children all went."""
-    blocks = parse_books(text)
+    blocks = parse_books(text, name)
     # Walk blocks in order, tracking the current book and a stack of (depth, block index).
     book = None
     stack: list[tuple[int, int]] = []
@@ -302,6 +302,11 @@ def apply_books(text: str, removals: dict[str, set[str]]) -> tuple[str, dict[str
         if em and book in removals and em.group(1) in removals[book]:
             drop.add(idx)
             counts[book] += 1
+    # Dropping a node block that has children would leave the child blocks behind, and TOML would
+    # attach them to the previous sibling. Refuse unless every child goes too.
+    for idx in sorted(drop):
+        if any(k not in drop for k in children.get(idx, [])):
+            raise SystemExit(f"refused: a placement of {blocks[idx][0]} in {name} has children; decide it by hand")
     # A title-only group (no `entry`, no `anchor`) whose children all went is dropped as well.
     dropped_groups = 0
     changed = True
@@ -327,7 +332,7 @@ def apply_layout(root: Path, removals: dict[str, set[str]], dry_run: bool) -> tu
     Returns the layout's name, the nodes dropped per book, and the title-only groups dropped."""
     legacy = root / "books.toml"
     if legacy.is_file():
-        new_text, counts, groups = apply_books(legacy.read_text(encoding="utf-8"), removals)
+        new_text, counts, groups = apply_books(legacy.read_text(encoding="utf-8"), removals, "books.toml")
         if not dry_run:
             legacy.write_text(new_text, encoding="utf-8")
         return "books.toml", counts, groups
@@ -337,7 +342,7 @@ def apply_layout(root: Path, removals: dict[str, set[str]], dry_run: bool) -> tu
         path = root / "books" / f"{book}.toml"
         if not path.is_file():
             continue
-        new_text, one, dropped = apply_books(path.read_text(encoding="utf-8"), {book: removals[book]})
+        new_text, one, dropped = apply_books(path.read_text(encoding="utf-8"), {book: removals[book]}, f"books/{book}.toml")
         if not dry_run:
             path.write_text(new_text, encoding="utf-8")
         counts.update(one)
@@ -385,6 +390,11 @@ def main() -> int:
     for path, r in todo:
         edit_entry(path, r["book"], titles[r["book"]], write=False, entry=r["entry"], root=root, audit=audit,
                    primary_to=r["proposed_primary"] if r["gate"] else "", print_page=r["print_page"])
+    # The book files are checked before anything is written as well.
+    planned: dict[str, set[str]] = defaultdict(set)
+    for _, r in todo:
+        planned[r["book"]].add(r["entry"])
+    apply_layout(root, planned, dry_run=True)
     removed = absent = 0
     for path, r in todo:
         state = edit_entry(path, r["book"], titles[r["book"]], write=not args.dry_run, entry=r["entry"], root=root,
