@@ -1,0 +1,6027 @@
+[[books]]
+source = "advanced-players-guide"
+title = "Advanced Player's Guide"
+basis = "The main chapter titles, their order, and their first pages are checked against the printed contents page of the Advanced Player's Guide. See docs/research/book-order-evidence.md. Canonical ids were substituted through the reviewed alias map; chapters and order are unchanged."
+review = ["Base Classes and Core Classes are dataset splits kept as sub-groups inside the printed Classes chapter.", "Canonical ids were substituted through sources/canonical/id-map.toml. A legacy entry with no installed target is omitted and listed in coverage."]
+
+[[books.chapters]]
+title = "Races"
+
+[[books.chapters.children]]
+title = "Races"
+entry = "ref/rule/races"
+
+[[books.chapters.children]]
+title = "Racial Attitudes"
+entry = "ref/carried/advanced-players-guide/rules/races/racial-attitudes"
+
+[[books.chapters.children]]
+title = "Racial Traits"
+entry = "ref/rule/racial-traits"
+
+[[books.chapters.children]]
+title = "Racial Favored Classes"
+entry = "ref/carried/advanced-players-guide/rules/races/racial-favored-classes"
+
+[[books.chapters.children]]
+title = "Favored Class"
+entry = "ref/rule/favored-class"
+
+[[books.chapters.children]]
+title = "Dwarves"
+entry = "ref/carried/advanced-players-guide/rules/races/dwarves"
+
+[[books.chapters.children.children]]
+title = "Alternate Racial Traits"
+anchor = "alternate-racial-traits"
+
+[[books.chapters.children.children.children]]
+title = "Ancient Enmity"
+entry = "ref/carried/advanced-players-guide/rules/races/dwarves/alternate-racial-traits/ancient-enmity"
+
+[[books.chapters.children.children.children]]
+title = "Craftsman"
+entry = "ref/carried/advanced-players-guide/rules/races/dwarves/alternate-racial-traits/craftsman"
+
+[[books.chapters.children.children.children]]
+title = "Deep Warrior"
+entry = "ref/carried/advanced-players-guide/rules/races/dwarves/alternate-racial-traits/deep-warrior"
+
+[[books.chapters.children.children.children]]
+title = "Lorekeeper"
+entry = "ref/carried/advanced-players-guide/rules/races/dwarves/alternate-racial-traits/lorekeeper"
+
+[[books.chapters.children.children.children]]
+title = "Magic Resistant"
+entry = "ref/carried/advanced-players-guide/rules/races/dwarves/alternate-racial-traits/magic-resistant"
+
+[[books.chapters.children.children.children]]
+title = "Relentless"
+entry = "ref/carried/advanced-players-guide/rules/races/dwarves/alternate-racial-traits/relentless"
+
+[[books.chapters.children.children.children]]
+title = "Stonesinger"
+entry = "ref/carried/advanced-players-guide/rules/races/dwarves/alternate-racial-traits/stonesinger"
+
+[[books.chapters.children.children.children]]
+title = "Stubborn"
+entry = "ref/carried/advanced-players-guide/rules/races/dwarves/alternate-racial-traits/stubborn"
+
+[[books.chapters.children]]
+title = "Elves"
+entry = "ref/carried/advanced-players-guide/rules/races/elves"
+
+[[books.chapters.children.children]]
+title = "Alternate Racial Traits"
+anchor = "alternate-racial-traits"
+
+[[books.chapters.children.children.children]]
+title = "Desert Runner"
+entry = "ref/carried/advanced-players-guide/rules/races/elves/alternate-racial-traits/desert-runner"
+
+[[books.chapters.children.children.children]]
+title = "Dreamspeaker"
+entry = "ref/carried/advanced-players-guide/rules/races/elves/alternate-racial-traits/dreamspeaker"
+
+[[books.chapters.children.children.children]]
+title = "Eternal Grudge"
+entry = "ref/carried/advanced-players-guide/rules/races/elves/alternate-racial-traits/eternal-grudge"
+
+[[books.chapters.children.children.children]]
+title = "Lightbringer"
+entry = "ref/carried/advanced-players-guide/rules/races/elves/alternate-racial-traits/lightbringer"
+
+[[books.chapters.children.children.children]]
+title = "Silent Hunter"
+entry = "ref/carried/advanced-players-guide/rules/races/elves/alternate-racial-traits/silent-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Spirit of the Waters"
+entry = "ref/carried/advanced-players-guide/rules/races/elves/alternate-racial-traits/spirit-of-the-waters"
+
+[[books.chapters.children.children.children]]
+title = "Woodcraft"
+entry = "ref/carried/advanced-players-guide/rules/races/elves/alternate-racial-traits/woodcraft"
+
+[[books.chapters.children]]
+title = "Gnomes"
+entry = "ref/carried/advanced-players-guide/rules/races/gnomes"
+
+[[books.chapters.children.children]]
+title = "Alternate Racial Traits"
+anchor = "alternate-racial-traits"
+
+[[books.chapters.children.children.children]]
+title = "Academician"
+entry = "ref/carried/advanced-players-guide/rules/races/gnomes/alternate-racial-traits/academician"
+
+[[books.chapters.children.children.children]]
+title = "Eternal Hope"
+entry = "ref/carried/advanced-players-guide/rules/races/gnomes/alternate-racial-traits/eternal-hope"
+
+[[books.chapters.children.children.children]]
+title = "Gift of Tongues"
+entry = "ref/carried/advanced-players-guide/rules/races/gnomes/alternate-racial-traits/gift-of-tongues"
+
+[[books.chapters.children.children.children]]
+title = "Magical Linguist"
+entry = "ref/carried/advanced-players-guide/rules/races/gnomes/alternate-racial-traits/magical-linguist"
+
+[[books.chapters.children.children.children]]
+title = "Master Tinker"
+entry = "ref/carried/advanced-players-guide/rules/races/gnomes/alternate-racial-traits/master-tinker"
+
+[[books.chapters.children.children.children]]
+title = "Pyromaniac"
+entry = "ref/carried/advanced-players-guide/rules/races/gnomes/alternate-racial-traits/pyromaniac"
+
+[[books.chapters.children.children.children]]
+title = "Warden of Nature"
+entry = "ref/carried/advanced-players-guide/rules/races/gnomes/alternate-racial-traits/warden-of-nature"
+
+[[books.chapters.children]]
+title = "Half-Elves"
+entry = "ref/carried/advanced-players-guide/rules/races/half-elves"
+
+[[books.chapters.children.children]]
+title = "Alternate Racial Traits"
+anchor = "alternate-racial-traits"
+
+[[books.chapters.children.children.children]]
+title = "Ancestral Arms"
+entry = "ref/carried/advanced-players-guide/rules/races/half-elves/alternate-racial-traits/ancestral-arms"
+
+[[books.chapters.children.children.children]]
+title = "Arcane Training"
+entry = "ref/carried/advanced-players-guide/rules/races/half-elves/alternate-racial-traits/arcane-training"
+
+[[books.chapters.children.children.children]]
+title = "Dual Minded"
+entry = "ref/carried/advanced-players-guide/rules/races/half-elves/alternate-racial-traits/dual-minded"
+
+[[books.chapters.children.children.children]]
+title = "Integrated"
+entry = "ref/carried/advanced-players-guide/rules/races/half-elves/alternate-racial-traits/integrated"
+
+[[books.chapters.children.children.children]]
+title = "Sociable"
+entry = "ref/carried/advanced-players-guide/rules/races/half-elves/alternate-racial-traits/sociable"
+
+[[books.chapters.children.children.children]]
+title = "Water Child"
+entry = "ref/carried/advanced-players-guide/rules/races/half-elves/alternate-racial-traits/water-child"
+
+[[books.chapters.children]]
+title = "Half-Orcs"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs"
+
+[[books.chapters.children.children]]
+title = "Alternate Racial Traits"
+anchor = "alternate-racial-traits"
+
+[[books.chapters.children.children.children]]
+title = "Beastmaster"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs/alternate-racial-traits/beastmaster"
+
+[[books.chapters.children.children.children]]
+title = "Bestial"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs/alternate-racial-traits/bestial"
+
+[[books.chapters.children.children.children]]
+title = "Cavewight"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs/alternate-racial-traits/cavewight"
+
+[[books.chapters.children.children.children]]
+title = "Chain Fighter"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs/alternate-racial-traits/chain-fighter"
+
+[[books.chapters.children.children.children]]
+title = "Gatecrasher"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs/alternate-racial-traits/gatecrasher"
+
+[[books.chapters.children.children.children]]
+title = "Plagueborn"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs/alternate-racial-traits/plagueborn"
+
+[[books.chapters.children.children.children]]
+title = "Rock Climber"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs/alternate-racial-traits/rock-climber"
+
+[[books.chapters.children.children.children]]
+title = "Sacred Tattoo"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs/alternate-racial-traits/sacred-tattoo"
+
+[[books.chapters.children.children.children]]
+title = "Scavenger"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs/alternate-racial-traits/scavenger"
+
+[[books.chapters.children.children.children]]
+title = "Toothy"
+entry = "ref/carried/advanced-players-guide/rules/races/half-orcs/alternate-racial-traits/toothy"
+
+[[books.chapters.children]]
+title = "Halflings"
+entry = "ref/carried/advanced-players-guide/rules/races/halflings"
+
+[[books.chapters.children.children]]
+title = "Alternate Racial Traits"
+anchor = "alternate-racial-traits"
+
+[[books.chapters.children.children.children]]
+title = "Craven"
+entry = "ref/carried/advanced-players-guide/rules/races/halflings/alternate-racial-traits/craven"
+
+[[books.chapters.children.children.children]]
+title = "Low Blow"
+entry = "ref/carried/advanced-players-guide/rules/races/halflings/alternate-racial-traits/low-blow"
+
+[[books.chapters.children.children.children]]
+title = "Outrider"
+entry = "ref/carried/advanced-players-guide/rules/races/halflings/alternate-racial-traits/outrider"
+
+[[books.chapters.children.children.children]]
+title = "Practicality"
+entry = "ref/carried/advanced-players-guide/rules/races/halflings/alternate-racial-traits/practicality"
+
+[[books.chapters.children.children.children]]
+title = "Swift as Shadows"
+entry = "ref/carried/advanced-players-guide/rules/races/halflings/alternate-racial-traits/swift-as-shadows"
+
+[[books.chapters.children.children.children]]
+title = "Underfoot"
+entry = "ref/carried/advanced-players-guide/rules/races/halflings/alternate-racial-traits/underfoot"
+
+[[books.chapters.children.children.children]]
+title = "Wanderlust"
+entry = "ref/carried/advanced-players-guide/rules/races/halflings/alternate-racial-traits/wanderlust"
+
+[[books.chapters.children.children.children]]
+title = "Warslinger"
+entry = "ref/carried/advanced-players-guide/rules/races/halflings/alternate-racial-traits/warslinger"
+
+[[books.chapters.children]]
+title = "Humans"
+entry = "ref/carried/advanced-players-guide/rules/races/humans"
+
+[[books.chapters.children.children]]
+title = "Alternate Racial Traits"
+anchor = "alternate-racial-traits"
+
+[[books.chapters.children.children.children]]
+title = "Eye for Talent"
+entry = "ref/carried/advanced-players-guide/rules/races/humans/alternate-racial-traits/eye-for-talent"
+
+[[books.chapters.children.children.children]]
+title = "Heart of the Fields"
+entry = "ref/carried/advanced-players-guide/rules/races/humans/alternate-racial-traits/heart-of-the-fields"
+
+[[books.chapters.children.children.children]]
+title = "Heart of the Streets"
+entry = "ref/carried/advanced-players-guide/rules/races/humans/alternate-racial-traits/heart-of-the-streets"
+
+[[books.chapters.children.children.children]]
+title = "Heart of the Wilderness"
+entry = "ref/carried/advanced-players-guide/rules/races/humans/alternate-racial-traits/heart-of-the-wilderness"
+
+[[books.chapters]]
+title = "Classes"
+
+[[books.chapters.children]]
+title = "Base Classes"
+
+[[books.chapters.children.children]]
+title = "Base Classes"
+entry = "ref/rule/base-classes"
+
+[[books.chapters.children.children]]
+title = "Alchemist"
+entry = "ref/class/alchemist"
+
+[[books.chapters.children.children.children]]
+title = "Poison Use"
+entry = "ref/ability/poison-use"
+
+[[books.chapters.children.children.children]]
+title = "Discoveries"
+
+[[books.chapters.children.children.children.children]]
+title = "Acid Bomb"
+entry = "ref/discovery/acid-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Awakened Intellect"
+entry = "ref/discovery/awakened-intellect"
+
+[[books.chapters.children.children.children.children]]
+title = "Combine Extracts"
+entry = "ref/discovery/combine-extracts"
+
+[[books.chapters.children.children.children.children]]
+title = "Concentrate Poison"
+entry = "ref/discovery/concentrate-poison"
+
+[[books.chapters.children.children.children.children]]
+title = "Concussive Bomb"
+entry = "ref/discovery/concussive-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Delayed Bomb"
+entry = "ref/discovery/delayed-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Dilution"
+entry = "ref/discovery/dilution"
+
+[[books.chapters.children.children.children.children]]
+title = "Dispelling Bomb"
+entry = "ref/discovery/dispelling-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Elixir of Life"
+entry = "ref/discovery/elixir-of-life"
+
+[[books.chapters.children.children.children.children]]
+title = "Enhance Potion"
+entry = "ref/discovery/enhance-potion"
+
+[[books.chapters.children.children.children.children]]
+title = "Eternal Potion"
+entry = "ref/discovery/eternal-potion"
+
+[[books.chapters.children.children.children.children]]
+title = "Eternal Youth"
+entry = "ref/discovery/eternal-youth"
+
+[[books.chapters.children.children.children.children]]
+title = "Explosive Bomb"
+entry = "ref/discovery/explosive-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Extend Potion"
+entry = "ref/discovery/extend-potion"
+
+[[books.chapters.children.children.children.children]]
+title = "Fast Bombs"
+entry = "ref/discovery/fast-bombs"
+
+[[books.chapters.children.children.children.children]]
+title = "Fast Healing"
+entry = "ref/discovery/fast-healing"
+
+[[books.chapters.children.children.children.children]]
+title = "Feral Mutagen"
+entry = "ref/discovery/feral-mutagen"
+
+[[books.chapters.children.children.children.children]]
+title = "Force Bomb"
+entry = "ref/discovery/force-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Frost Bomb"
+entry = "ref/discovery/frost-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Grand Mutagen"
+entry = "ref/discovery/grand-mutagen"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Mutagen"
+entry = "ref/discovery/greater-mutagen"
+
+[[books.chapters.children.children.children.children]]
+title = "Inferno Bomb"
+entry = "ref/discovery/inferno-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Infuse Mutagen"
+entry = "ref/discovery/infuse-mutagen"
+
+[[books.chapters.children.children.children.children]]
+title = "Infusion"
+entry = "ref/discovery/infusion"
+
+[[books.chapters.children.children.children.children]]
+title = "Madness Bomb"
+entry = "ref/discovery/madness-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Philosopher's Stone"
+entry = "ref/discovery/philosophers-stone"
+
+[[books.chapters.children.children.children.children]]
+title = "Poison Bomb"
+entry = "ref/discovery/poison-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Poison Touch"
+entry = "ref/discovery/poison-touch"
+
+[[books.chapters.children.children.children.children]]
+title = "Precise Bombs"
+entry = "ref/discovery/precise-bombs"
+
+[[books.chapters.children.children.children.children]]
+title = "Shock Bomb"
+entry = "ref/discovery/shock-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Smoke Bomb"
+entry = "ref/discovery/smoke-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Sticky Bomb"
+entry = "ref/discovery/sticky-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "Sticky Poison"
+entry = "ref/discovery/sticky-poison"
+
+[[books.chapters.children.children.children.children]]
+title = "Stink Bomb"
+entry = "ref/discovery/stink-bomb"
+
+[[books.chapters.children.children.children.children]]
+title = "True Mutagen"
+entry = "ref/discovery/true-mutagen"
+
+[[books.chapters.children.children]]
+title = "Cavalier"
+entry = "ref/class/cavalier"
+
+[[books.chapters.children.children.children]]
+title = "Cavalier Orders"
+
+[[books.chapters.children.children.children.children]]
+title = "Cavalier/Samurai Orders"
+entry = "ref/ability/orders"
+
+[[books.chapters.children.children.children.children]]
+title = "Order of the Cockatrice"
+entry = "ref/order/order-of-the-cockatrice"
+
+[[books.chapters.children.children.children.children]]
+title = "Order of the Dragon"
+entry = "ref/order/order-of-the-dragon"
+
+[[books.chapters.children.children.children.children]]
+title = "Order of the Lion"
+entry = "ref/order/order-of-the-lion"
+
+[[books.chapters.children.children.children.children]]
+title = "Order of the Shield"
+entry = "ref/order/order-of-the-shield"
+
+[[books.chapters.children.children.children.children]]
+title = "Order of the Star"
+entry = "ref/order/order-of-the-star"
+
+[[books.chapters.children.children.children.children]]
+title = "Order of the Sword"
+entry = "ref/order/order-of-the-sword"
+
+[[books.chapters.children.children]]
+title = "Inquisitor"
+entry = "ref/class/inquisitor"
+
+[[books.chapters.children.children.children]]
+title = "Judgments"
+
+[[books.chapters.children.children.children.children]]
+title = "Inquisitor Judgments"
+entry = "ref/ability/judgments"
+
+[[books.chapters.children.children]]
+title = "Oracle"
+entry = "ref/class/oracle"
+
+[[books.chapters.children.children.children]]
+title = "Curses"
+
+[[books.chapters.children.children.children.children]]
+title = "Clouded Vision"
+entry = "ref/oraclecurse/clouded-vision"
+
+[[books.chapters.children.children.children.children]]
+title = "Deaf"
+entry = "ref/oraclecurse/deaf"
+
+[[books.chapters.children.children.children.children]]
+title = "Haunted"
+entry = "ref/oraclecurse/haunted"
+
+[[books.chapters.children.children.children.children]]
+title = "Lame"
+entry = "ref/oraclecurse/lame"
+
+[[books.chapters.children.children.children.children]]
+title = "Tongues"
+entry = "ref/oraclecurse/tongues"
+
+[[books.chapters.children.children.children.children]]
+title = "Wasting"
+entry = "ref/oraclecurse/wasting"
+
+[[books.chapters.children.children.children]]
+title = "Mysteries"
+
+[[books.chapters.children.children.children.children]]
+title = "Oracle Mysteries"
+entry = "ref/ability/mysteries"
+
+[[books.chapters.children.children.children.children]]
+title = "Battle"
+entry = "ref/mystery/battle"
+
+[[books.chapters.children.children.children.children]]
+title = "Bones"
+entry = "ref/mystery/bones"
+
+[[books.chapters.children.children.children.children]]
+title = "Flame"
+entry = "ref/mystery/flame"
+
+[[books.chapters.children.children.children.children]]
+title = "Heavens"
+entry = "ref/mystery/heavens"
+
+[[books.chapters.children.children.children.children]]
+title = "Life"
+entry = "ref/mystery/life"
+
+[[books.chapters.children.children.children.children]]
+title = "Lore"
+entry = "ref/mystery/lore"
+
+[[books.chapters.children.children.children.children]]
+title = "Nature"
+entry = "ref/mystery/nature"
+
+[[books.chapters.children.children.children.children]]
+title = "Stone"
+entry = "ref/mystery/stone"
+
+[[books.chapters.children.children.children.children]]
+title = "Waves"
+entry = "ref/mystery/waves"
+
+[[books.chapters.children.children.children.children]]
+title = "Wind"
+entry = "ref/mystery/wind"
+
+[[books.chapters.children.children]]
+title = "Summoner"
+entry = "ref/class/summoner"
+
+[[books.chapters.children.children.children]]
+title = "Eidolons"
+
+[[books.chapters.children.children.children.children]]
+title = "Eidolon"
+entry = "ref/sidekick/eidolon"
+
+[[books.chapters.children.children.children]]
+title = "Evolutions"
+
+[[books.chapters.children.children.children.children]]
+title = "Ability Increase"
+entry = "ref/evolution/ability-increase"
+
+[[books.chapters.children.children.children.children]]
+title = "Bite"
+entry = "ref/evolution/bite"
+
+[[books.chapters.children.children.children.children]]
+title = "Blindsense"
+entry = "ref/evolution/blindsense"
+
+[[books.chapters.children.children.children.children]]
+title = "Blindsight"
+entry = "ref/evolution/blindsight"
+
+[[books.chapters.children.children.children.children]]
+title = "Breath Weapon"
+entry = "ref/evolution/breath-weapon"
+
+[[books.chapters.children.children.children.children]]
+title = "Burrow"
+entry = "ref/evolution/burrow"
+
+[[books.chapters.children.children.children.children]]
+title = "Claws"
+entry = "ref/evolution/claws"
+
+[[books.chapters.children.children.children.children]]
+title = "Climb"
+entry = "ref/evolution/climb"
+
+[[books.chapters.children.children.children.children]]
+title = "Constrict"
+entry = "ref/evolution/constrict"
+
+[[books.chapters.children.children.children.children]]
+title = "Damage Reduction"
+entry = "ref/evolution/damage-reduction"
+
+[[books.chapters.children.children.children.children]]
+title = "Energy Attacks"
+entry = "ref/evolution/energy-attacks"
+
+[[books.chapters.children.children.children.children]]
+title = "Fast Healing"
+entry = "ref/evolution/fast-healing"
+
+[[books.chapters.children.children.children.children]]
+title = "Flight"
+entry = "ref/evolution/flight"
+
+[[books.chapters.children.children.children.children]]
+title = "Frightful Presence"
+entry = "ref/evolution/frightful-presence"
+
+[[books.chapters.children.children.children.children]]
+title = "Gills"
+entry = "ref/evolution/gills"
+
+[[books.chapters.children.children.children.children]]
+title = "Gore"
+entry = "ref/evolution/gore"
+
+[[books.chapters.children.children.children.children]]
+title = "Grab"
+entry = "ref/evolution/grab"
+
+[[books.chapters.children.children.children.children]]
+title = "Immunity"
+entry = "ref/evolution/immunity"
+
+[[books.chapters.children.children.children.children]]
+title = "Improved Damage"
+entry = "ref/evolution/improved-damage"
+
+[[books.chapters.children.children.children.children]]
+title = "Improved Natural Armor"
+entry = "ref/evolution/improved-natural-armor"
+
+[[books.chapters.children.children.children.children]]
+title = "Large"
+entry = "ref/evolution/large"
+
+[[books.chapters.children.children.children.children]]
+title = "Limbs"
+entry = "ref/evolution/limbs"
+
+[[books.chapters.children.children.children.children]]
+title = "Magic Attacks"
+entry = "ref/evolution/magic-attacks"
+
+[[books.chapters.children.children.children.children]]
+title = "Mount"
+entry = "ref/evolution/mount"
+
+[[books.chapters.children.children.children.children]]
+title = "Pincers"
+entry = "ref/evolution/pincers"
+
+[[books.chapters.children.children.children.children]]
+title = "Poison"
+entry = "ref/evolution/poison"
+
+[[books.chapters.children.children.children.children]]
+title = "Pounce"
+entry = "ref/evolution/pounce"
+
+[[books.chapters.children.children.children.children]]
+title = "Pull"
+entry = "ref/evolution/pull"
+
+[[books.chapters.children.children.children.children]]
+title = "Push"
+entry = "ref/evolution/push"
+
+[[books.chapters.children.children.children.children]]
+title = "Rake"
+entry = "ref/evolution/rake"
+
+[[books.chapters.children.children.children.children]]
+title = "Reach"
+entry = "ref/evolution/reach"
+
+[[books.chapters.children.children.children.children]]
+title = "Rend"
+entry = "ref/evolution/rend"
+
+[[books.chapters.children.children.children.children]]
+title = "Resistance"
+entry = "ref/evolution/resistance"
+
+[[books.chapters.children.children.children.children]]
+title = "Scent"
+entry = "ref/evolution/scent"
+
+[[books.chapters.children.children.children.children]]
+title = "Skilled"
+entry = "ref/evolution/skilled"
+
+[[books.chapters.children.children.children.children]]
+title = "Slam"
+entry = "ref/evolution/slam"
+
+[[books.chapters.children.children.children.children]]
+title = "Spell Resistance"
+entry = "ref/evolution/spell-resistance"
+
+[[books.chapters.children.children.children.children]]
+title = "Sting"
+entry = "ref/evolution/sting"
+
+[[books.chapters.children.children.children.children]]
+title = "Swallow Whole"
+entry = "ref/evolution/swallow-whole"
+
+[[books.chapters.children.children.children.children]]
+title = "Swim"
+entry = "ref/evolution/swim"
+
+[[books.chapters.children.children.children.children]]
+title = "Tail"
+entry = "ref/evolution/tail"
+
+[[books.chapters.children.children.children.children]]
+title = "Tail Slap"
+entry = "ref/evolution/tail-slap"
+
+[[books.chapters.children.children.children.children]]
+title = "Tentacle"
+entry = "ref/evolution/tentacle"
+
+[[books.chapters.children.children.children.children]]
+title = "Trample"
+entry = "ref/evolution/trample"
+
+[[books.chapters.children.children.children.children]]
+title = "Tremorsense"
+entry = "ref/evolution/tremorsense"
+
+[[books.chapters.children.children.children.children]]
+title = "Trip"
+entry = "ref/evolution/trip"
+
+[[books.chapters.children.children.children.children]]
+title = "Weapon Training"
+entry = "ref/evolution/weapon-training"
+
+[[books.chapters.children.children.children.children]]
+title = "Web"
+entry = "ref/evolution/web"
+
+[[books.chapters.children.children.children.children]]
+title = "Wing Buffet"
+entry = "ref/evolution/wing-buffet"
+
+[[books.chapters.children.children]]
+title = "Witch"
+entry = "ref/class/witch"
+
+[[books.chapters.children.children.children]]
+title = "Hexes"
+
+[[books.chapters.children.children.children.children]]
+title = "Agony"
+entry = "ref/hex/agony"
+
+[[books.chapters.children.children.children.children]]
+title = "Blight"
+entry = "ref/hex/blight"
+
+[[books.chapters.children.children.children.children]]
+title = "Cackle"
+entry = "ref/hex/cackle"
+
+[[books.chapters.children.children.children.children]]
+title = "Cauldron"
+entry = "ref/hex/cauldron"
+
+[[books.chapters.children.children.children.children]]
+title = "Charm"
+entry = "ref/hex/charm"
+
+[[books.chapters.children.children.children.children]]
+title = "Coven"
+entry = "ref/hex/coven"
+
+[[books.chapters.children.children.children.children]]
+title = "Death Curse"
+entry = "ref/hex/death-curse"
+
+[[books.chapters.children.children.children.children]]
+title = "Disguise"
+entry = "ref/hex/disguise"
+
+[[books.chapters.children.children.children.children]]
+title = "Eternal Slumber"
+entry = "ref/hex/eternal-slumber"
+
+[[books.chapters.children.children.children.children]]
+title = "Evil Eye"
+entry = "ref/hex/evil-eye"
+
+[[books.chapters.children.children.children.children]]
+title = "Flight"
+entry = "ref/hex/flight"
+
+[[books.chapters.children.children.children.children]]
+title = "Forced Reincarnation"
+entry = "ref/hex/forced-reincarnation"
+
+[[books.chapters.children.children.children.children]]
+title = "Fortune"
+entry = "ref/hex/fortune"
+
+[[books.chapters.children.children.children.children]]
+title = "Hag's Eye"
+entry = "ref/hex/hags-eye"
+
+[[books.chapters.children.children.children.children]]
+title = "Healing"
+entry = "ref/hex/healing"
+
+[[books.chapters.children.children.children.children]]
+title = "Life Giver"
+entry = "ref/hex/life-giver"
+
+[[books.chapters.children.children.children.children]]
+title = "Major Healing"
+entry = "ref/hex/major-healing"
+
+[[books.chapters.children.children.children.children]]
+title = "Misfortune"
+entry = "ref/hex/misfortune"
+
+[[books.chapters.children.children.children.children]]
+title = "Natural Disaster"
+entry = "ref/hex/natural-disaster"
+
+[[books.chapters.children.children.children.children]]
+title = "Nightmares"
+entry = "ref/hex/nightmares"
+
+[[books.chapters.children.children.children.children]]
+title = "Retribution"
+entry = "ref/hex/retribution"
+
+[[books.chapters.children.children.children.children]]
+title = "Slumber"
+entry = "ref/hex/slumber"
+
+[[books.chapters.children.children.children.children]]
+title = "Tongues"
+entry = "ref/hex/tongues"
+
+[[books.chapters.children.children.children.children]]
+title = "Vision"
+entry = "ref/hex/vision"
+
+[[books.chapters.children.children.children.children]]
+title = "Ward"
+entry = "ref/hex/ward"
+
+[[books.chapters.children.children.children.children]]
+title = "Waxen Image"
+entry = "ref/hex/waxen-image"
+
+[[books.chapters.children.children.children.children]]
+title = "Weather Control"
+entry = "ref/hex/weather-control"
+
+[[books.chapters.children.children.children]]
+title = "Patron Spells"
+
+[[books.chapters.children.children.children.children]]
+title = "Agility"
+entry = "ref/patron/agility"
+
+[[books.chapters.children.children.children.children]]
+title = "Animals"
+entry = "ref/patron/animals"
+
+[[books.chapters.children.children.children.children]]
+title = "Deception"
+entry = "ref/patron/deception"
+
+[[books.chapters.children.children.children.children]]
+title = "Elements"
+entry = "ref/patron/elements"
+
+[[books.chapters.children.children.children.children]]
+title = "Endurance"
+entry = "ref/patron/endurance"
+
+[[books.chapters.children.children.children.children]]
+title = "Plague"
+entry = "ref/patron/plague"
+
+[[books.chapters.children.children.children.children]]
+title = "Shadow"
+entry = "ref/patron/shadow"
+
+[[books.chapters.children.children.children.children]]
+title = "Strength"
+entry = "ref/patron/strength"
+
+[[books.chapters.children.children.children.children]]
+title = "Transformation"
+entry = "ref/patron/transformation"
+
+[[books.chapters.children.children.children.children]]
+title = "Trickery"
+entry = "ref/patron/trickery"
+
+[[books.chapters.children.children.children.children]]
+title = "Water"
+entry = "ref/patron/water"
+
+[[books.chapters.children.children.children.children]]
+title = "Wisdom"
+entry = "ref/patron/wisdom"
+
+[[books.chapters.children]]
+title = "Core Classes"
+entry = "ref/carried/advanced-players-guide/rules/core-classes"
+
+[[books.chapters.children.children]]
+title = "Core Classes"
+entry = "ref/carried/advanced-players-guide/rules/core-classes/core-classes"
+
+[[books.chapters.children.children]]
+title = "Archetypes"
+entry = "ref/rule/archetypes"
+
+[[books.chapters.children.children]]
+title = "Barbarian"
+entry = "ref/rule/class-barbarian/barbarian"
+
+[[books.chapters.children.children.children]]
+title = "Rage Powers"
+
+[[books.chapters.children.children.children.children]]
+title = "Beast Totem"
+entry = "ref/ragepower/beast-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Boasting Taunt"
+entry = "ref/ragepower/boasting-taunt"
+
+[[books.chapters.children.children.children.children]]
+title = "Brawler"
+entry = "ref/ragepower/brawler"
+
+[[books.chapters.children.children.children.children]]
+title = "Chaos Totem"
+entry = "ref/ragepower/chaos-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Come and Get Me"
+entry = "ref/ragepower/come-and-get-me"
+
+[[books.chapters.children.children.children.children]]
+title = "Disruptive"
+entry = "ref/ragepower/disruptive"
+
+[[books.chapters.children.children.children.children]]
+title = "Elemental Rage"
+entry = "ref/ragepower/elemental-rage"
+
+[[books.chapters.children.children.children.children]]
+title = "Energy Absorption"
+entry = "ref/ragepower/energy-absorption"
+
+[[books.chapters.children.children.children.children]]
+title = "Energy Eruption"
+entry = "ref/ragepower/energy-eruption"
+
+[[books.chapters.children.children.children.children]]
+title = "Energy Resistance"
+entry = "ref/ragepower/energy-resistance"
+
+[[books.chapters.children.children.children.children]]
+title = "Ferocious Mount"
+entry = "ref/ragepower/ferocious-mount"
+
+[[books.chapters.children.children.children.children]]
+title = "Ferocious Trample"
+entry = "ref/ragepower/ferocious-trample"
+
+[[books.chapters.children.children.children.children]]
+title = "Fiend Totem"
+entry = "ref/ragepower/fiend-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Flesh Wound"
+entry = "ref/ragepower/flesh-wound"
+
+[[books.chapters.children.children.children.children]]
+title = "Good for What Ails You"
+entry = "ref/ragepower/good-for-what-ails-you"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Beast Totem"
+entry = "ref/ragepower/greater-beast-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Brawler"
+entry = "ref/ragepower/greater-brawler"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Chaos Totem"
+entry = "ref/ragepower/greater-chaos-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Elemental Rage"
+entry = "ref/ragepower/greater-elemental-rage"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Energy Resistance"
+entry = "ref/ragepower/greater-energy-resistance"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Ferocious Mount"
+entry = "ref/ragepower/greater-ferocious-mount"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Ferocious Trample"
+entry = "ref/ragepower/greater-ferocious-trample"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Fiend Totem"
+entry = "ref/ragepower/greater-fiend-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Hurling"
+entry = "ref/ragepower/greater-hurling"
+
+[[books.chapters.children.children.children.children]]
+title = "Greater Spirit Totem"
+entry = "ref/ragepower/greater-spirit-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Ground Breaker"
+entry = "ref/ragepower/ground-breaker"
+
+[[books.chapters.children.children.children.children]]
+title = "Guarded Life"
+entry = "ref/ragepower/guarded-life"
+
+[[books.chapters.children.children.children.children]]
+title = "Hurling"
+entry = "ref/ragepower/hurling"
+
+[[books.chapters.children.children.children.children]]
+title = "Hurling Charge"
+entry = "ref/ragepower/hurling-charge"
+
+[[books.chapters.children.children.children.children]]
+title = "Inspire Ferocity"
+entry = "ref/ragepower/inspire-ferocity"
+
+[[books.chapters.children.children.children.children]]
+title = "Knockdown"
+entry = "ref/ragepower/knockdown"
+
+[[books.chapters.children.children.children.children]]
+title = "Lesser Beast Totem"
+entry = "ref/ragepower/lesser-beast-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Lesser Chaos Totem"
+entry = "ref/ragepower/lesser-chaos-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Lesser Elemental Rage"
+entry = "ref/ragepower/lesser-elemental-rage"
+
+[[books.chapters.children.children.children.children]]
+title = "Lesser Fiend Totem"
+entry = "ref/ragepower/lesser-fiend-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Lesser Hurling"
+entry = "ref/ragepower/lesser-hurling"
+
+[[books.chapters.children.children.children.children]]
+title = "Lesser Spirit Totem"
+entry = "ref/ragepower/lesser-spirit-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Liquid Courage"
+entry = "ref/ragepower/liquid-courage"
+
+[[books.chapters.children.children.children.children]]
+title = "Overbearing Advance"
+entry = "ref/ragepower/overbearing-advance"
+
+[[books.chapters.children.children.children.children]]
+title = "Overbearing Onslaught"
+entry = "ref/ragepower/overbearing-onslaught"
+
+[[books.chapters.children.children.children.children]]
+title = "Reckless Abandon"
+entry = "ref/ragepower/reckless-abandon"
+
+[[books.chapters.children.children.children.children]]
+title = "Roaring Drunk"
+entry = "ref/ragepower/roaring-drunk"
+
+[[books.chapters.children.children.children.children]]
+title = "Smasher"
+entry = "ref/ragepower/smasher"
+
+[[books.chapters.children.children.children.children]]
+title = "Spellbreaker"
+entry = "ref/ragepower/spellbreaker"
+
+[[books.chapters.children.children.children.children]]
+title = "Spirit Steed"
+entry = "ref/ragepower/spirit-steed"
+
+[[books.chapters.children.children.children.children]]
+title = "Spirit Totem"
+entry = "ref/ragepower/spirit-totem"
+
+[[books.chapters.children.children.children.children]]
+title = "Staggering Drunk"
+entry = "ref/ragepower/staggering-drunk"
+
+[[books.chapters.children.children.children.children]]
+title = "Witch Hunter"
+entry = "ref/ragepower/witch-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Barbarian Archetypes"
+anchor = "barbarian-archetypes"
+
+[[books.chapters.children.children.children.children]]
+title = "Breaker"
+entry = "ref/arc-barbarian/breaker"
+
+[[books.chapters.children.children.children.children]]
+title = "Brutal Pugilist"
+entry = "ref/arc-barbarian/brutal-pugilist"
+
+[[books.chapters.children.children.children.children]]
+title = "Drunken Brute"
+entry = "ref/arc-barbarian/drunken-brute"
+
+[[books.chapters.children.children.children.children]]
+title = "Elemental Kin"
+entry = "ref/arc-barbarian/elemental-kin"
+
+[[books.chapters.children.children.children.children]]
+title = "Hurler"
+entry = "ref/arc-barbarian/hurler"
+
+[[books.chapters.children.children.children.children]]
+title = "Invulnerable Rager"
+entry = "ref/arc-barbarian/invulnerable-rager"
+
+[[books.chapters.children.children.children.children]]
+title = "Mounted Fury"
+entry = "ref/arc-barbarian/mounted-fury"
+
+[[books.chapters.children.children.children.children]]
+title = "Savage Barbarian"
+entry = "ref/arc-barbarian/savage-barbarian"
+
+[[books.chapters.children.children.children.children]]
+title = "Superstitious"
+entry = "ref/arc-barbarian/superstitious"
+
+[[books.chapters.children.children.children.children]]
+title = "Totem Warrior"
+entry = "ref/carried/advanced-players-guide/rules/core-classes/barbarian/barbarian-archetypes/totem-warrior"
+
+[[books.chapters.children.children]]
+title = "Bard"
+entry = "ref/rule/class-bard/bard"
+
+[[books.chapters.children.children.children]]
+title = "Bard Archetypes"
+anchor = "bard-archetypes"
+
+[[books.chapters.children.children.children.children]]
+title = "Arcane Duelist"
+entry = "ref/arc-bard/arcane-duelist"
+
+[[books.chapters.children.children.children.children]]
+title = "Archivist"
+entry = "ref/arc-bard/archivist"
+
+[[books.chapters.children.children.children.children]]
+title = "Court Bard"
+entry = "ref/arc-bard/court-bard"
+
+[[books.chapters.children.children.children.children]]
+title = "Detective"
+entry = "ref/arc-bard/detective"
+
+[[books.chapters.children.children.children.children]]
+title = "Magician"
+entry = "ref/arc-bard/magician"
+
+[[books.chapters.children.children.children.children]]
+title = "Sandman"
+entry = "ref/arc-bard/sandman"
+
+[[books.chapters.children.children.children.children]]
+title = "Savage Skald"
+entry = "ref/arc-bard/savage-skald"
+
+[[books.chapters.children.children.children.children]]
+title = "Sea Singer"
+entry = "ref/arc-bard/sea-singer"
+
+[[books.chapters.children.children.children.children]]
+title = "Street Performer"
+entry = "ref/arc-bard/street-performer"
+
+[[books.chapters.children.children]]
+title = "Cleric"
+entry = "ref/rule/class-cleric/cleric"
+
+[[books.chapters.children.children.children]]
+title = "Domains"
+
+[[books.chapters.children.children.children.children]]
+title = "Domains"
+entry = "ref/ability/domains"
+
+[[books.chapters.children.children.children.children]]
+title = "Fire"
+entry = "ref/domain/fire"
+
+[[books.chapters.children.children.children.children]]
+title = "Destruction"
+entry = "ref/domain/destruction"
+
+[[books.chapters.children.children.children.children]]
+title = "Earth"
+entry = "ref/domain/earth"
+
+[[books.chapters.children.children.children.children]]
+title = "War"
+entry = "ref/domain/war"
+
+[[books.chapters.children.children.children.children]]
+title = "Air"
+entry = "ref/domain/air"
+
+[[books.chapters.children.children.children.children]]
+title = "Luck"
+entry = "ref/domain/luck"
+
+[[books.chapters.children.children.children.children]]
+title = "Plant"
+entry = "ref/domain/plant"
+
+[[books.chapters.children.children.children.children]]
+title = "Sun"
+entry = "ref/domain/sun"
+
+[[books.chapters.children.children.children.children]]
+title = "Protection"
+entry = "ref/domain/protection"
+
+[[books.chapters.children.children.children.children]]
+title = "Animal"
+entry = "ref/domain/animal"
+
+[[books.chapters.children.children.children.children]]
+title = "Travel"
+entry = "ref/domain/travel"
+
+[[books.chapters.children.children.children.children]]
+title = "Madness"
+entry = "ref/domain/madness"
+
+[[books.chapters.children.children.children.children]]
+title = "Water"
+entry = "ref/domain/water"
+
+[[books.chapters.children.children.children.children]]
+title = "Charm"
+entry = "ref/domain/charm"
+
+[[books.chapters.children.children.children.children]]
+title = "Healing"
+entry = "ref/domain/healing"
+
+[[books.chapters.children.children.children.children]]
+title = "Weather"
+entry = "ref/domain/weather"
+
+[[books.chapters.children.children]]
+title = "Druid"
+entry = "ref/rule/class-druid/druid"
+
+[[books.chapters.children.children.children]]
+title = "Druid Archetypes"
+anchor = "druid-archetypes"
+
+[[books.chapters.children.children.children.children]]
+title = "Aquatic Druid"
+entry = "ref/arc-druid/aquatic-druid"
+
+[[books.chapters.children.children.children.children]]
+title = "Arctic Druid"
+entry = "ref/arc-druid/arctic-druid"
+
+[[books.chapters.children.children.children.children]]
+title = "Blight Druid"
+entry = "ref/arc-druid/blight-druid"
+
+[[books.chapters.children.children.children.children]]
+title = "Cave Druid"
+entry = "ref/arc-druid/cave-druid"
+
+[[books.chapters.children.children.children.children]]
+title = "Desert Druid"
+entry = "ref/arc-druid/desert-druid"
+
+[[books.chapters.children.children.children.children]]
+title = "Jungle Druid"
+entry = "ref/arc-druid/jungle-druid"
+
+[[books.chapters.children.children.children.children]]
+title = "Mountain Druid"
+entry = "ref/arc-druid/mountain-druid"
+
+[[books.chapters.children.children.children.children]]
+title = "Plains Druid"
+entry = "ref/arc-druid/plains-druid"
+
+[[books.chapters.children.children.children.children]]
+title = "Swamp Druid"
+entry = "ref/arc-druid/swamp-druid"
+
+[[books.chapters.children.children.children.children]]
+title = "Urban Druid"
+entry = "ref/arc-druid/urban-druid"
+
+[[books.chapters.children.children.children.children]]
+title = "Animal Shamans"
+entry = "ref/carried/advanced-players-guide/rules/core-classes/druid/druid-archetypes/animal-shamans"
+
+[[books.chapters.children.children.children.children.children]]
+title = "Bear Shaman"
+entry = "ref/arc-druid/bear-shaman"
+
+[[books.chapters.children.children.children.children.children]]
+title = "Eagle Shaman"
+entry = "ref/arc-druid/eagle-shaman"
+
+[[books.chapters.children.children.children.children.children]]
+title = "Lion Shaman"
+entry = "ref/arc-druid/lion-shaman"
+
+[[books.chapters.children.children.children.children.children]]
+title = "Serpent Shaman"
+entry = "ref/arc-druid/serpent-shaman"
+
+[[books.chapters.children.children.children.children.children]]
+title = "Wolf Shaman"
+entry = "ref/arc-druid/wolf-shaman"
+
+[[books.chapters.children.children]]
+title = "Fighter"
+entry = "ref/rule/class-fighter/fighter"
+
+[[books.chapters.children.children.children]]
+title = "Fighter Archetypes"
+anchor = "fighter-archetypes"
+
+[[books.chapters.children.children.children.children]]
+title = "Archer"
+entry = "ref/arc-fighter/archer"
+
+[[books.chapters.children.children.children.children]]
+title = "Crossbowman"
+entry = "ref/arc-fighter/crossbowman"
+
+[[books.chapters.children.children.children.children]]
+title = "Free Hand Fighter"
+entry = "ref/arc-fighter/free-hand-fighter"
+
+[[books.chapters.children.children.children.children]]
+title = "Mobile Fighter"
+entry = "ref/arc-fighter/mobile-fighter"
+
+[[books.chapters.children.children.children.children]]
+title = "Phalanx Soldier"
+entry = "ref/arc-fighter/phalanx-soldier"
+
+[[books.chapters.children.children.children.children]]
+title = "Polearm Master"
+entry = "ref/arc-fighter/polearm-master"
+
+[[books.chapters.children.children.children.children]]
+title = "Roughrider"
+entry = "ref/arc-fighter/roughrider"
+
+[[books.chapters.children.children.children.children]]
+title = "Savage Warrior"
+entry = "ref/arc-fighter/savage-warrior"
+
+[[books.chapters.children.children.children.children]]
+title = "Shielded Fighter"
+entry = "ref/arc-fighter/shielded-fighter"
+
+[[books.chapters.children.children.children.children]]
+title = "Two-Handed Fighter"
+entry = "ref/arc-fighter/two-handed-fighter"
+
+[[books.chapters.children.children.children.children]]
+title = "Two-Weapon Warrior"
+entry = "ref/arc-fighter/two-weapon-warrior"
+
+[[books.chapters.children.children.children.children]]
+title = "Weapon Master"
+entry = "ref/arc-fighter/weapon-master"
+
+[[books.chapters.children.children]]
+title = "Monk"
+entry = "ref/rule/class-monk/monk"
+
+[[books.chapters.children.children.children]]
+title = "Monk Archetypes"
+anchor = "monk-archetypes"
+
+[[books.chapters.children.children.children.children]]
+title = "Drunken Master"
+entry = "ref/arc-monk/drunken-master"
+
+[[books.chapters.children.children.children.children]]
+title = "Hungry Ghost Monk"
+entry = "ref/arc-monk/hungry-ghost-monk"
+
+[[books.chapters.children.children.children.children]]
+title = "Ki Mystic"
+entry = "ref/arc-monk/ki-mystic"
+
+[[books.chapters.children.children.children.children]]
+title = "Monk of the Empty Hand"
+entry = "ref/arc-monk/monk-of-the-empty-hand"
+
+[[books.chapters.children.children.children.children]]
+title = "Monk of the Four Winds"
+entry = "ref/arc-monk/monk-of-the-four-winds"
+
+[[books.chapters.children.children.children.children]]
+title = "Monk of the Healing Hand"
+entry = "ref/arc-monk/monk-of-the-healing-hand"
+
+[[books.chapters.children.children.children.children]]
+title = "Monk of the Lotus"
+entry = "ref/arc-monk/monk-of-the-lotus"
+
+[[books.chapters.children.children.children.children]]
+title = "Monk of the Sacred Mountain"
+entry = "ref/arc-monk/monk-of-the-sacred-mountain"
+
+[[books.chapters.children.children.children.children]]
+title = "Weapon Adept"
+entry = "ref/arc-monk/weapon-adept"
+
+[[books.chapters.children.children.children.children]]
+title = "Zen Archer"
+entry = "ref/arc-monk/zen-archer"
+
+[[books.chapters.children.children]]
+title = "Paladin"
+entry = "ref/rule/class-paladin/paladin"
+
+[[books.chapters.children.children.children]]
+title = "Paladin Archetypes"
+anchor = "paladin-archetypes"
+
+[[books.chapters.children.children.children.children]]
+title = "Divine Defender"
+entry = "ref/arc-paladin/divine-defender"
+
+[[books.chapters.children.children.children.children]]
+title = "Hospitaler"
+entry = "ref/arc-paladin/hospitaler"
+
+[[books.chapters.children.children.children.children]]
+title = "Sacred Servant"
+entry = "ref/arc-paladin/sacred-servant"
+
+[[books.chapters.children.children.children.children]]
+title = "Shining Knight"
+entry = "ref/arc-paladin/shining-knight"
+
+[[books.chapters.children.children.children.children]]
+title = "Undead Scourge"
+entry = "ref/arc-paladin/undead-scourge"
+
+[[books.chapters.children.children.children.children]]
+title = "Warrior of the Holy Light"
+entry = "ref/arc-paladin/warrior-of-the-holy-light"
+
+[[books.chapters.children.children]]
+title = "Antipaladin"
+entry = "ref/class/antipaladin"
+
+[[books.chapters.children.children]]
+title = "Ranger"
+entry = "ref/rule/class-ranger/ranger"
+
+[[books.chapters.children.children.children]]
+title = "Ranger Archetypes"
+anchor = "ranger-archetypes"
+
+[[books.chapters.children.children.children.children]]
+title = "Beast Master"
+entry = "ref/arc-ranger/beast-master"
+
+[[books.chapters.children.children.children.children]]
+title = "Guide"
+entry = "ref/arc-ranger/guide"
+
+[[books.chapters.children.children.children.children]]
+title = "Horse Lord"
+entry = "ref/arc-ranger/horse-lord"
+
+[[books.chapters.children.children.children.children]]
+title = "Infiltrator"
+entry = "ref/arc-ranger/infiltrator"
+
+[[books.chapters.children.children.children.children]]
+title = "Shapeshifter"
+entry = "ref/arc-ranger/shapeshifter"
+
+[[books.chapters.children.children.children.children]]
+title = "Skirmisher"
+entry = "ref/arc-ranger/skirmisher"
+
+[[books.chapters.children.children.children.children]]
+title = "Spirit Ranger"
+entry = "ref/arc-ranger/spirit-ranger"
+
+[[books.chapters.children.children.children.children]]
+title = "Urban Ranger"
+entry = "ref/arc-ranger/urban-ranger"
+
+[[books.chapters.children.children]]
+title = "Rogue"
+entry = "ref/rule/class-rogue/rogue"
+
+[[books.chapters.children.children.children]]
+title = "Rogue Talents"
+
+[[books.chapters.children.children.children.children]]
+title = "Another Day"
+entry = "ref/talent/another-day"
+
+[[books.chapters.children.children.children.children]]
+title = "Assault Leader"
+entry = "ref/talent/assault-leader"
+
+[[books.chapters.children.children.children.children]]
+title = "Befuddling Strike"
+entry = "ref/talent/befuddling-strike"
+
+[[books.chapters.children.children.children.children]]
+title = "Camouflage"
+entry = "ref/talent/camouflage"
+
+[[books.chapters.children.children.children.children]]
+title = "Canny Observer"
+entry = "ref/talent/canny-observer"
+
+[[books.chapters.children.children.children.children]]
+title = "Charmer"
+entry = "ref/talent/charmer"
+
+[[books.chapters.children.children.children.children]]
+title = "Coax Information"
+entry = "ref/talent/coax-information"
+
+[[books.chapters.children.children.children.children]]
+title = "Combat Swipe"
+entry = "ref/talent/combat-swipe"
+
+[[books.chapters.children.children.children.children]]
+title = "Cunning Trigger"
+entry = "ref/talent/cunning-trigger"
+
+[[books.chapters.children.children.children.children]]
+title = "Deadly Cocktail"
+entry = "ref/talent/deadly-cocktail"
+
+[[books.chapters.children.children.children.children]]
+title = "Deadly Sneak"
+entry = "ref/talent/deadly-sneak"
+
+[[books.chapters.children.children.children.children]]
+title = "Distracting Attack"
+entry = "ref/talent/distracting-attack"
+
+[[books.chapters.children.children.children.children]]
+title = "Entanglement of Blades"
+entry = "ref/talent/entanglement-of-blades"
+
+[[books.chapters.children.children.children.children]]
+title = "Expert Leaper"
+entry = "ref/talent/expert-leaper"
+
+[[books.chapters.children.children.children.children]]
+title = "Fast Fingers"
+entry = "ref/talent/fast-fingers"
+
+[[books.chapters.children.children.children.children]]
+title = "Fast Getaway"
+entry = "ref/talent/fast-getaway"
+
+[[books.chapters.children.children.children.children]]
+title = "Fast Picks"
+entry = "ref/talent/fast-picks"
+
+[[books.chapters.children.children.children.children]]
+title = "Fast Tumble"
+entry = "ref/talent/fast-tumble"
+
+[[books.chapters.children.children.children.children]]
+title = "Follow Clues"
+entry = "ref/talent/follow-clues"
+
+[[books.chapters.children.children.children.children]]
+title = "Frugal Trapsmith"
+entry = "ref/talent/frugal-trapsmith"
+
+[[books.chapters.children.children.children.children]]
+title = "Guileful Polyglot"
+entry = "ref/talent/guileful-polyglot"
+
+[[books.chapters.children.children.children.children]]
+title = "Hard to Fool"
+entry = "ref/talent/hard-to-fool"
+
+[[books.chapters.children.children.children.children]]
+title = "Honeyed Words"
+entry = "ref/talent/honeyed-words"
+
+[[books.chapters.children.children.children.children]]
+title = "Hunter's Surprise"
+entry = "ref/talent/hunters-surprise"
+
+[[books.chapters.children.children.children.children]]
+title = "Knock-Out Blow"
+entry = "ref/talent/knock-out-blow"
+
+[[books.chapters.children.children.children.children]]
+title = "Lasting Poison"
+entry = "ref/talent/lasting-poison"
+
+[[books.chapters.children.children.children.children]]
+title = "Master of Disguise"
+entry = "ref/talent/master-of-disguise"
+
+[[books.chapters.children.children.children.children]]
+title = "Offensive Defense"
+entry = "ref/talent/offensive-defense"
+
+[[books.chapters.children.children.children.children]]
+title = "Peerless Maneuver"
+entry = "ref/talent/peerless-maneuver"
+
+[[books.chapters.children.children.children.children]]
+title = "Positioning Attack"
+entry = "ref/talent/positioning-attack"
+
+[[books.chapters.children.children.children.children]]
+title = "Powerful Sneak"
+entry = "ref/talent/powerful-sneak"
+
+[[books.chapters.children.children.children.children]]
+title = "Quick Disguise"
+entry = "ref/talent/quick-disguise"
+
+[[books.chapters.children.children.children.children]]
+title = "Quick Trapsmith"
+entry = "ref/talent/quick-trapsmith"
+
+[[books.chapters.children.children.children.children]]
+title = "Redirect Attack"
+entry = "ref/talent/redirect-attack"
+
+[[books.chapters.children.children.children.children]]
+title = "Snap Shot"
+entry = "ref/talent/snap-shot"
+
+[[books.chapters.children.children.children.children]]
+title = "Sniper's Eye"
+entry = "ref/talent/snipers-eye"
+
+[[books.chapters.children.children.children.children]]
+title = "Stealthy Sniper"
+entry = "ref/talent/stealthy-sniper"
+
+[[books.chapters.children.children.children.children]]
+title = "Strong Impression"
+entry = "ref/talent/strong-impression"
+
+[[books.chapters.children.children.children.children]]
+title = "Survivalist"
+entry = "ref/talent/survivalist"
+
+[[books.chapters.children.children.children.children]]
+title = "Swift Poison"
+entry = "ref/talent/swift-poison"
+
+[[books.chapters.children.children.children.children]]
+title = "Thoughtful Reexamining"
+entry = "ref/talent/thoughtful-reexamining"
+
+[[books.chapters.children.children.children]]
+title = "Rogue Archetypes"
+anchor = "rogue-archetypes"
+
+[[books.chapters.children.children.children.children]]
+title = "Acrobat"
+entry = "ref/arc-rogue/acrobat"
+
+[[books.chapters.children.children.children.children]]
+title = "Burglar"
+entry = "ref/arc-rogue/burglar"
+
+[[books.chapters.children.children.children.children]]
+title = "Cutpurse"
+entry = "ref/arc-rogue/cutpurse"
+
+[[books.chapters.children.children.children.children]]
+title = "Investigator"
+entry = "ref/arc-rogue/investigator"
+
+[[books.chapters.children.children.children.children]]
+title = "Poisoner"
+entry = "ref/arc-rogue/poisoner"
+
+[[books.chapters.children.children.children.children]]
+title = "Rake"
+entry = "ref/arc-rogue/rake"
+
+[[books.chapters.children.children.children.children]]
+title = "Scout"
+entry = "ref/arc-rogue/scout"
+
+[[books.chapters.children.children.children.children]]
+title = "Sniper"
+entry = "ref/arc-rogue/sniper"
+
+[[books.chapters.children.children.children.children]]
+title = "Spy"
+entry = "ref/arc-rogue/spy"
+
+[[books.chapters.children.children.children.children]]
+title = "Swashbuckler"
+entry = "ref/arc-rogue/swashbuckler"
+
+[[books.chapters.children.children.children.children]]
+title = "Thug"
+entry = "ref/arc-rogue/thug"
+
+[[books.chapters.children.children.children.children]]
+title = "Trapsmith"
+entry = "ref/arc-rogue/trapsmith"
+
+[[books.chapters.children.children]]
+title = "Sorcerer"
+entry = "ref/rule/class-sorcerer/sorcerer"
+
+[[books.chapters.children.children.children]]
+title = "Bloodlines"
+
+[[books.chapters.children.children.children.children]]
+title = "Aquatic"
+entry = "ref/sorcbloodline/aquatic"
+
+[[books.chapters.children.children.children.children]]
+title = "Boreal"
+entry = "ref/sorcbloodline/boreal"
+
+[[books.chapters.children.children.children.children]]
+title = "Deep Earth"
+entry = "ref/sorcbloodline/deep-earth"
+
+[[books.chapters.children.children.children.children]]
+title = "Dreamspun"
+entry = "ref/sorcbloodline/dreamspun"
+
+[[books.chapters.children.children.children.children]]
+title = "Protean"
+entry = "ref/sorcbloodline/protean"
+
+[[books.chapters.children.children.children.children]]
+title = "Serpentine"
+entry = "ref/sorcbloodline/serpentine"
+
+[[books.chapters.children.children.children.children]]
+title = "Shadow"
+entry = "ref/sorcbloodline/shadow"
+
+[[books.chapters.children.children.children.children]]
+title = "Starsoul"
+entry = "ref/sorcbloodline/starsoul"
+
+[[books.chapters.children.children.children.children]]
+title = "Stormborn"
+entry = "ref/sorcbloodline/stormborn"
+
+[[books.chapters.children.children.children.children]]
+title = "Verdant"
+entry = "ref/sorcbloodline/verdant"
+
+[[books.chapters.children.children]]
+title = "Wizard"
+entry = "ref/rule/class-wizard/wizard"
+
+[[books.chapters.children.children.children]]
+title = "Arcane Schools"
+
+[[books.chapters.children.children.children.children]]
+title = "Arcane Schools"
+entry = "ref/ability/arcane-schools"
+
+[[books.chapters.children.children.children.children]]
+title = "Air"
+entry = "ref/arcaneschool/air"
+
+[[books.chapters.children.children.children.children]]
+title = "Earth"
+entry = "ref/arcaneschool/earth"
+
+[[books.chapters.children.children.children.children]]
+title = "Fire"
+entry = "ref/arcaneschool/fire"
+
+[[books.chapters.children.children.children.children]]
+title = "Evocation"
+entry = "ref/arcaneschool/evocation"
+
+[[books.chapters.children.children.children.children]]
+title = "Water"
+entry = "ref/arcaneschool/water"
+
+[[books.chapters.children.children.children.children]]
+title = "Abjuration"
+entry = "ref/arcaneschool/abjuration"
+
+[[books.chapters.children.children.children.children]]
+title = "Conjuration"
+entry = "ref/arcaneschool/conjuration"
+
+[[books.chapters.children.children.children.children]]
+title = "Enchantment"
+entry = "ref/arcaneschool/enchantment"
+
+[[books.chapters.children.children.children.children]]
+title = "Divination"
+entry = "ref/arcaneschool/divination"
+
+[[books.chapters.children.children.children.children]]
+title = "Transmutation"
+entry = "ref/arcaneschool/transmutation"
+
+[[books.chapters.children.children.children.children]]
+title = "Illusion"
+entry = "ref/arcaneschool/illusion"
+
+[[books.chapters.children.children.children.children]]
+title = "Necromancy"
+entry = "ref/arcaneschool/necromancy"
+
+[[books.chapters]]
+title = "Feats"
+
+[[books.chapters.children]]
+title = "Feats"
+entry = "ref/carried/advanced-players-guide/rules/feats"
+
+[[books.chapters.children.children]]
+title = "Types of Feats"
+entry = "ref/carried/advanced-players-guide/rules/feats/types-of-feats"
+
+[[books.chapters.children.children.children]]
+title = "Multiperson Feats"
+entry = "ref/rule/feats-multiperson"
+
+[[books.chapters.children.children]]
+title = "Feat Descriptions"
+entry = "ref/carried/advanced-players-guide/rules/feats/feat-descriptions"
+
+[[books.chapters.children]]
+title = "Additional Traits"
+entry = "ref/feat/additional-traits"
+
+[[books.chapters.children]]
+title = "Allied Spellcaster"
+entry = "ref/feat/allied-spellcaster"
+
+[[books.chapters.children]]
+title = "Arcane Blast"
+entry = "ref/feat/arcane-blast"
+
+[[books.chapters.children]]
+title = "Arcane Shield"
+entry = "ref/feat/arcane-shield"
+
+[[books.chapters.children]]
+title = "Arcane Talent"
+entry = "ref/feat/arcane-talent"
+
+[[books.chapters.children]]
+title = "Aspect of the Beast"
+entry = "ref/feat/aspect-of-the-beast"
+
+[[books.chapters.children]]
+title = "Bashing Finish"
+entry = "ref/feat/bashing-finish"
+
+[[books.chapters.children]]
+title = "Bloody Assault"
+entry = "ref/feat/bloody-assault"
+
+[[books.chapters.children]]
+title = "Bodyguard"
+entry = "ref/feat/bodyguard"
+
+[[books.chapters.children]]
+title = "Bouncing Spell"
+entry = "ref/feat/bouncing-spell"
+
+[[books.chapters.children]]
+title = "Breadth of Experience"
+entry = "ref/feat/breadth-of-experience"
+
+[[books.chapters.children]]
+title = "Bull Rush Strike"
+entry = "ref/feat/bull-rush-strike"
+
+[[books.chapters.children]]
+title = "Charge Through"
+entry = "ref/feat/charge-through"
+
+[[books.chapters.children]]
+title = "Childlike"
+entry = "ref/feat/childlike"
+
+[[books.chapters.children]]
+title = "Cloud Step"
+entry = "ref/feat/cloud-step"
+
+[[books.chapters.children]]
+title = "Cockatrice Strike"
+entry = "ref/feat/cockatrice-strike"
+
+[[books.chapters.children]]
+title = "Combat Patrol"
+entry = "ref/feat/combat-patrol"
+
+[[books.chapters.children]]
+title = "Cooperative Crafting"
+entry = "ref/feat/cooperative-crafting"
+
+[[books.chapters.children]]
+title = "Coordinated Defense"
+entry = "ref/feat/coordinated-defense"
+
+[[books.chapters.children]]
+title = "Coordinated Maneuvers"
+entry = "ref/feat/coordinated-maneuvers"
+
+[[books.chapters.children]]
+title = "Cosmopolitan"
+entry = "ref/feat/cosmopolitan"
+
+[[books.chapters.children]]
+title = "Covering Defense"
+entry = "ref/feat/covering-defense"
+
+[[books.chapters.children]]
+title = "Crippling Critical"
+entry = "ref/feat/crippling-critical"
+
+[[books.chapters.children]]
+title = "Crossbow Mastery"
+entry = "ref/feat/crossbow-mastery"
+
+[[books.chapters.children]]
+title = "Dastardly Finish"
+entry = "ref/feat/dastardly-finish"
+
+[[books.chapters.children]]
+title = "Dazing Assault"
+entry = "ref/feat/dazing-assault"
+
+[[books.chapters.children]]
+title = "Dazing Spell"
+entry = "ref/feat/dazing-spell"
+
+[[books.chapters.children]]
+title = "Deep Drinker"
+entry = "ref/feat/deep-drinker"
+
+[[books.chapters.children]]
+title = "Deepsight"
+entry = "ref/feat/deepsight"
+
+[[books.chapters.children]]
+title = "Disarming Strike"
+entry = "ref/feat/disarming-strike"
+
+[[books.chapters.children]]
+title = "Disrupting Shot"
+entry = "ref/feat/disrupting-shot"
+
+[[books.chapters.children]]
+title = "Disruptive Spell"
+entry = "ref/feat/disruptive-spell"
+
+[[books.chapters.children]]
+title = "Diviner's Delving"
+entry = "ref/feat/diviners-delving"
+
+[[books.chapters.children]]
+title = "Dreadful Carnage"
+entry = "ref/feat/dreadful-carnage"
+
+[[books.chapters.children]]
+title = "Duck and Cover"
+entry = "ref/feat/duck-and-cover"
+
+[[books.chapters.children]]
+title = "Eagle Eyes"
+entry = "ref/feat/eagle-eyes"
+
+[[books.chapters.children]]
+title = "Eclectic"
+entry = "ref/feat/eclectic"
+
+[[books.chapters.children]]
+title = "Ectoplasmic Spell"
+entry = "ref/feat/ectoplasmic-spell"
+
+[[books.chapters.children]]
+title = "Eldritch Claws"
+entry = "ref/feat/eldritch-claws"
+
+[[books.chapters.children]]
+title = "Elemental Fist"
+entry = "ref/feat/elemental-fist"
+
+[[books.chapters.children]]
+title = "Elemental Focus"
+entry = "ref/feat/elemental-focus"
+
+[[books.chapters.children]]
+title = "Elemental Spell"
+entry = "ref/feat/elemental-spell"
+
+[[books.chapters.children]]
+title = "Elven Accuracy"
+entry = "ref/feat/elven-accuracy"
+
+[[books.chapters.children]]
+title = "Enforcer"
+entry = "ref/feat/enforcer"
+
+[[books.chapters.children]]
+title = "Expanded Arcana"
+entry = "ref/feat/expanded-arcana"
+
+[[books.chapters.children]]
+title = "Extra Bombs"
+entry = "ref/feat/extra-bombs"
+
+[[books.chapters.children]]
+title = "Extra Discovery"
+entry = "ref/feat/extra-discovery"
+
+[[books.chapters.children]]
+title = "Extra Hex"
+entry = "ref/feat/extra-hex"
+
+[[books.chapters.children]]
+title = "Extra Rage Power"
+entry = "ref/feat/extra-rage-power"
+
+[[books.chapters.children]]
+title = "Extra Revelation"
+entry = "ref/feat/extra-revelation"
+
+[[books.chapters.children]]
+title = "Extra Rogue Talent"
+entry = "ref/feat/extra-rogue-talent"
+
+[[books.chapters.children]]
+title = "Fast Drinker"
+entry = "ref/feat/fast-drinker"
+
+[[books.chapters.children]]
+title = "Fast Healer"
+entry = "ref/feat/fast-healer"
+
+[[books.chapters.children]]
+title = "Favored Defense"
+entry = "ref/feat/favored-defense"
+
+[[books.chapters.children]]
+title = "Fight On"
+entry = "ref/feat/fight-on"
+
+[[books.chapters.children]]
+title = "Focused Shot"
+entry = "ref/feat/focused-shot"
+
+[[books.chapters.children]]
+title = "Focused Spell"
+entry = "ref/feat/focused-spell"
+
+[[books.chapters.children]]
+title = "Following Step"
+entry = "ref/feat/following-step"
+
+[[books.chapters.children]]
+title = "Furious Focus"
+entry = "ref/feat/furious-focus"
+
+[[books.chapters.children]]
+title = "Gang Up"
+entry = "ref/feat/gang-up"
+
+[[books.chapters.children]]
+title = "Gnome Trickster"
+entry = "ref/feat/gnome-trickster"
+
+[[books.chapters.children]]
+title = "Go Unnoticed"
+entry = "ref/feat/go-unnoticed"
+
+[[books.chapters.children]]
+title = "Greater Blind-Fight"
+entry = "ref/feat/greater-blind-fight"
+
+[[books.chapters.children]]
+title = "Greater Dirty Trick"
+entry = "ref/feat/greater-dirty-trick"
+
+[[books.chapters.children]]
+title = "Greater Drag"
+entry = "ref/feat/greater-drag"
+
+[[books.chapters.children]]
+title = "Greater Elemental Focus"
+entry = "ref/feat/greater-elemental-focus"
+
+[[books.chapters.children]]
+title = "Greater Reposition"
+entry = "ref/feat/greater-reposition"
+
+[[books.chapters.children]]
+title = "Greater Shield Specialization"
+entry = "ref/feat/greater-shield-specialization"
+
+[[books.chapters.children]]
+title = "Greater Steal"
+entry = "ref/feat/greater-steal"
+
+[[books.chapters.children]]
+title = "Groundling"
+entry = "ref/feat/groundling"
+
+[[books.chapters.children]]
+title = "Heroic Defiance"
+entry = "ref/feat/heroic-defiance"
+
+[[books.chapters.children]]
+title = "Heroic Recovery"
+entry = "ref/feat/heroic-recovery"
+
+[[books.chapters.children]]
+title = "Improved Blind-Fight"
+entry = "ref/feat/improved-blind-fight"
+
+[[books.chapters.children]]
+title = "Improved Dirty Trick"
+entry = "ref/feat/improved-dirty-trick"
+
+[[books.chapters.children]]
+title = "Improved Drag"
+entry = "ref/feat/improved-drag"
+
+[[books.chapters.children]]
+title = "Improved Ki Throw"
+entry = "ref/feat/improved-ki-throw"
+
+[[books.chapters.children]]
+title = "Improved Reposition"
+entry = "ref/feat/improved-reposition"
+
+[[books.chapters.children]]
+title = "Improved Second Chance"
+entry = "ref/feat/improved-second-chance"
+
+[[books.chapters.children]]
+title = "Improved Share Spells"
+entry = "ref/feat/improved-share-spells"
+
+[[books.chapters.children]]
+title = "Improved Sidestep"
+entry = "ref/feat/improved-sidestep"
+
+[[books.chapters.children]]
+title = "Improved Steal"
+entry = "ref/feat/improved-steal"
+
+[[books.chapters.children]]
+title = "Improved Stonecunning"
+entry = "ref/feat/improved-stonecunning"
+
+[[books.chapters.children]]
+title = "In Harm's Way"
+entry = "ref/feat/in-harms-way"
+
+[[books.chapters.children]]
+title = "Intensified Spell"
+entry = "ref/feat/intensified-spell"
+
+[[books.chapters.children]]
+title = "Ironguts"
+entry = "ref/feat/ironguts"
+
+[[books.chapters.children]]
+title = "Ironhide"
+entry = "ref/feat/ironhide"
+
+[[books.chapters.children]]
+title = "Keen Scent"
+entry = "ref/feat/keen-scent"
+
+[[books.chapters.children]]
+title = "Ki Throw"
+entry = "ref/feat/ki-throw"
+
+[[books.chapters.children]]
+title = "Leaf Singer"
+entry = "ref/feat/leaf-singer"
+
+[[books.chapters.children]]
+title = "Light Step"
+entry = "ref/feat/light-step"
+
+[[books.chapters.children]]
+title = "Lingering Performance"
+entry = "ref/feat/lingering-performance"
+
+[[books.chapters.children]]
+title = "Lingering Spell"
+entry = "ref/feat/lingering-spell"
+
+[[books.chapters.children]]
+title = "Lookout"
+entry = "ref/feat/lookout"
+
+[[books.chapters.children]]
+title = "Low Profile"
+entry = "ref/feat/low-profile"
+
+[[books.chapters.children]]
+title = "Lucky Halfling"
+entry = "ref/feat/lucky-halfling"
+
+[[books.chapters.children]]
+title = "Major Spell Expertise"
+entry = "ref/feat/major-spell-expertise"
+
+[[books.chapters.children]]
+title = "Master Alchemist"
+entry = "ref/feat/master-alchemist"
+
+[[books.chapters.children]]
+title = "Merciful Spell"
+entry = "ref/feat/merciful-spell"
+
+[[books.chapters.children]]
+title = "Minor Spell Expertise"
+entry = "ref/feat/minor-spell-expertise"
+
+[[books.chapters.children]]
+title = "Missile Shield"
+entry = "ref/feat/missile-shield"
+
+[[books.chapters.children]]
+title = "Mounted Shield"
+entry = "ref/feat/mounted-shield"
+
+[[books.chapters.children]]
+title = "Mounted Skirmisher"
+entry = "ref/feat/mounted-skirmisher"
+
+[[books.chapters.children]]
+title = "Outflank"
+entry = "ref/feat/outflank"
+
+[[books.chapters.children]]
+title = "Paired Opportunists"
+entry = "ref/feat/paired-opportunists"
+
+[[books.chapters.children]]
+title = "Parry Spell"
+entry = "ref/feat/parry-spell"
+
+[[books.chapters.children]]
+title = "Parting Shot"
+entry = "ref/feat/parting-shot"
+
+[[books.chapters.children]]
+title = "Pass For Human"
+entry = "ref/feat/pass-for-human"
+
+[[books.chapters.children]]
+title = "Perfect Strike"
+entry = "ref/feat/perfect-strike"
+
+[[books.chapters.children]]
+title = "Persistent Spell"
+entry = "ref/feat/persistent-spell"
+
+[[books.chapters.children]]
+title = "Point Blank Master"
+entry = "ref/feat/point-blank-master"
+
+[[books.chapters.children]]
+title = "Practiced Tactician"
+entry = "ref/feat/practiced-tactician"
+
+[[books.chapters.children]]
+title = "Precise Strike"
+entry = "ref/feat/precise-strike"
+
+[[books.chapters.children]]
+title = "Preferred Spell"
+entry = "ref/feat/preferred-spell"
+
+[[books.chapters.children]]
+title = "Punishing Kick"
+entry = "ref/feat/punishing-kick"
+
+[[books.chapters.children]]
+title = "Pushing Assault"
+entry = "ref/feat/pushing-assault"
+
+[[books.chapters.children]]
+title = "Racial Heritage"
+entry = "ref/feat/racial-heritage"
+
+[[books.chapters.children]]
+title = "Raging Vitality"
+entry = "ref/feat/raging-vitality"
+
+[[books.chapters.children]]
+title = "Ray Shield"
+entry = "ref/feat/ray-shield"
+
+[[books.chapters.children]]
+title = "Razortusk"
+entry = "ref/feat/razortusk"
+
+[[books.chapters.children]]
+title = "Reach Spell"
+entry = "ref/feat/reach-spell"
+
+[[books.chapters.children]]
+title = "Rending Claws"
+entry = "ref/feat/rending-claws"
+
+[[books.chapters.children]]
+title = "Repositioning Strike"
+entry = "ref/feat/repositioning-strike"
+
+[[books.chapters.children]]
+title = "Saving Shield"
+entry = "ref/feat/saving-shield"
+
+[[books.chapters.children]]
+title = "Second Chance"
+entry = "ref/feat/second-chance"
+
+[[books.chapters.children]]
+title = "Selective Spell"
+entry = "ref/feat/selective-spell"
+
+[[books.chapters.children]]
+title = "Shadow Strike"
+entry = "ref/feat/shadow-strike"
+
+[[books.chapters.children]]
+title = "Shared Insight"
+entry = "ref/feat/shared-insight"
+
+[[books.chapters.children]]
+title = "Sharp Senses"
+entry = "ref/feat/sharp-senses"
+
+[[books.chapters.children]]
+title = "Shield of Swings"
+entry = "ref/feat/shield-of-swings"
+
+[[books.chapters.children]]
+title = "Shield Specialization"
+entry = "ref/feat/shield-specialization"
+
+[[books.chapters.children]]
+title = "Shield Wall"
+entry = "ref/feat/shield-wall"
+
+[[books.chapters.children]]
+title = "Shielded Caster"
+entry = "ref/feat/shielded-caster"
+
+[[books.chapters.children]]
+title = "Sickening Spell"
+entry = "ref/feat/sickening-spell"
+
+[[books.chapters.children]]
+title = "Sidestep"
+entry = "ref/feat/sidestep"
+
+[[books.chapters.children]]
+title = "Smash"
+entry = "ref/feat/smash"
+
+[[books.chapters.children]]
+title = "Smell Fear"
+entry = "ref/feat/smell-fear"
+
+[[books.chapters.children]]
+title = "Sociable"
+entry = "ref/feat/sociable"
+
+[[books.chapters.children]]
+title = "Spell Perfection"
+entry = "ref/feat/spell-perfection"
+
+[[books.chapters.children]]
+title = "Spider Step"
+entry = "ref/feat/spider-step"
+
+[[books.chapters.children]]
+title = "Stabbing Shot"
+entry = "ref/feat/stabbing-shot"
+
+[[books.chapters.children]]
+title = "Steel Soul"
+entry = "ref/feat/steel-soul"
+
+[[books.chapters.children]]
+title = "Step Up and Strike"
+entry = "ref/feat/step-up-and-strike"
+
+[[books.chapters.children]]
+title = "Stone-Faced"
+entry = "ref/feat/stone-faced"
+
+[[books.chapters.children]]
+title = "Stone Sense"
+entry = "ref/feat/stone-sense"
+
+[[books.chapters.children]]
+title = "Stone Singer"
+entry = "ref/feat/stone-singer"
+
+[[books.chapters.children]]
+title = "Stunning Assault"
+entry = "ref/feat/stunning-assault"
+
+[[books.chapters.children]]
+title = "Summoner's Call"
+entry = "ref/feat/summoners-call"
+
+[[books.chapters.children]]
+title = "Sundering Strike"
+entry = "ref/feat/sundering-strike"
+
+[[books.chapters.children]]
+title = "Swap Places"
+entry = "ref/feat/swap-places"
+
+[[books.chapters.children]]
+title = "Swift Aid"
+entry = "ref/feat/swift-aid"
+
+[[books.chapters.children]]
+title = "Taunt"
+entry = "ref/feat/taunt"
+
+[[books.chapters.children]]
+title = "Team Up"
+entry = "ref/feat/team-up"
+
+[[books.chapters.children]]
+title = "Teleport Tactician"
+entry = "ref/feat/teleport-tactician"
+
+[[books.chapters.children]]
+title = "Tenacious Transmutation"
+entry = "ref/feat/tenacious-transmutation"
+
+[[books.chapters.children]]
+title = "Thundering Spell"
+entry = "ref/feat/thundering-spell"
+
+[[books.chapters.children]]
+title = "Touch of Serenity"
+entry = "ref/feat/touch-of-serenity"
+
+[[books.chapters.children]]
+title = "Trick Riding"
+entry = "ref/feat/trick-riding"
+
+[[books.chapters.children]]
+title = "Tripping Strike"
+entry = "ref/feat/tripping-strike"
+
+[[books.chapters.children]]
+title = "Under and Over"
+entry = "ref/feat/under-and-over"
+
+[[books.chapters.children]]
+title = "Underfoot"
+entry = "ref/feat/underfoot"
+
+[[books.chapters.children]]
+title = "Vermin Heart"
+entry = "ref/feat/vermin-heart"
+
+[[books.chapters.children]]
+title = "War Singer"
+entry = "ref/feat/war-singer"
+
+[[books.chapters.children]]
+title = "Well-Prepared"
+entry = "ref/feat/well-prepared"
+
+[[books.chapters]]
+title = "Equipment"
+entry = "ref/carried/advanced-players-guide/rules/gear"
+
+[[books.chapters.children]]
+title = "Equipment"
+entry = "ref/carried/advanced-players-guide/rules/gear/equipment"
+
+[[books.chapters.children]]
+title = "Weapons"
+entry = "ref/carried/advanced-players-guide/rules/gear/weapons"
+
+[[books.chapters.children.children]]
+title = "Arrow, Blunt"
+entry = "ref/carried/advanced-players-guide/rules/gear/weapons/arrow/blunt"
+
+[[books.chapters.children.children.children]]
+title = "Blunt arrows"
+entry = "ref/eq-weapon/blunt-arrows"
+
+[[books.chapters.children.children]]
+title = "Arrow, Flight"
+entry = "ref/carried/advanced-players-guide/rules/gear/weapons/arrow/flight"
+
+[[books.chapters.children.children.children]]
+title = "Flight arrows"
+entry = "ref/eq-weapon/flight-arrows"
+
+[[books.chapters.children.children]]
+title = "Arrow, Smoke"
+entry = "ref/eq-weapon/smoke-arrow"
+
+[[books.chapters.children.children]]
+title = "Bardiche"
+entry = "ref/eq-weapon/bardiche"
+
+[[books.chapters.children.children]]
+title = "Battle Aspergillum"
+entry = "ref/eq-weapon/battle-aspergillum"
+
+[[books.chapters.children.children]]
+title = "Bayonet"
+entry = "ref/eq-weapon/bayonet"
+
+[[books.chapters.children.children]]
+title = "Bec de Corbin"
+entry = "ref/eq-weapon/bec-de-corbin"
+
+[[books.chapters.children.children]]
+title = "Bill"
+entry = "ref/eq-weapon/bill"
+
+[[books.chapters.children.children]]
+title = "Boar Spear"
+entry = "ref/eq-weapon/boar-spear"
+
+[[books.chapters.children.children]]
+title = "Boomerang"
+entry = "ref/eq-weapon/boomerang"
+
+[[books.chapters.children.children]]
+title = "Brass Knuckles"
+entry = "ref/eq-weapon/brass-knuckles"
+
+[[books.chapters.children.children]]
+title = "Cestus"
+entry = "ref/eq-weapon/cestus"
+
+[[books.chapters.children.children]]
+title = "Chain Spear"
+entry = "ref/eq-weapon/chain-spear"
+
+[[books.chapters.children.children]]
+title = "Chakram"
+entry = "ref/eq-weapon/chakram"
+
+[[books.chapters.children.children]]
+title = "Double Crossbow"
+entry = "ref/eq-weapon/double-crossbow"
+
+[[books.chapters.children.children]]
+title = "Falcata"
+entry = "ref/eq-weapon/falcata"
+
+[[books.chapters.children.children]]
+title = "Glaive-Guisarme"
+entry = "ref/eq-weapon/glaive-guisarme"
+
+[[books.chapters.children.children]]
+title = "Khopesh"
+entry = "ref/eq-weapon/khopesh"
+
+[[books.chapters.children.children]]
+title = "Lasso"
+entry = "ref/eq-weapon/lasso"
+
+[[books.chapters.children.children]]
+title = "Lucerne Hammer"
+entry = "ref/eq-weapon/lucerne-hammer"
+
+[[books.chapters.children.children]]
+title = "Mancatcher"
+entry = "ref/eq-weapon/mancatcher"
+
+[[books.chapters.children.children]]
+title = "Pilum"
+entry = "ref/eq-weapon/pilum"
+
+[[books.chapters.children.children]]
+title = "Sword Cane"
+entry = "ref/eq-weapon/sword-cane"
+
+[[books.chapters.children.children]]
+title = "Swordbreaker Dagger"
+entry = "ref/eq-weapon/swordbreaker-dagger"
+
+[[books.chapters.children.children]]
+title = "Temple Sword"
+entry = "ref/eq-weapon/temple-sword"
+
+[[books.chapters.children.children]]
+title = "Wooden Stake"
+entry = "ref/eq-weapon/wooden-stake"
+
+[[books.chapters.children]]
+title = "Armor"
+entry = "ref/carried/advanced-players-guide/rules/gear/armor"
+
+[[books.chapters.children.children]]
+title = "Agile Breastplate"
+entry = "ref/eq-armor/agile-breastplate"
+
+[[books.chapters.children.children]]
+title = "Agile Half-Plate"
+entry = "ref/eq-armor/agile-half-plate"
+
+[[books.chapters.children.children]]
+title = "Armored Coat"
+entry = "ref/eq-armor/armored-coat"
+
+[[books.chapters.children.children]]
+title = "Quickdraw Shield, Light Wooden or Steel"
+entry = "ref/carried/advanced-players-guide/rules/gear/armor/quickdraw-shield/light-wooden-or-steel"
+
+[[books.chapters.children.children.children]]
+title = "Light steel quickdraw shield"
+entry = "ref/eq-armor/light-steel-quickdraw-shield"
+
+[[books.chapters.children.children.children]]
+title = "Light wooden quickdraw shield"
+entry = "ref/eq-armor/light-wooden-quickdraw-shield"
+
+[[books.chapters.children.children]]
+title = "Quilted Cloth"
+entry = "ref/eq-armor/quilted-cloth"
+
+[[books.chapters.children.children]]
+title = "Wooden Armor"
+entry = "ref/carried/advanced-players-guide/rules/gear/armor/wooden-armor"
+
+[[books.chapters.children.children.children]]
+title = "Wooden"
+entry = "ref/eq-armor/wooden"
+
+[[books.chapters.children]]
+title = "Goods and Services"
+entry = "ref/carried/advanced-players-guide/rules/gear/goods-and-services"
+
+[[books.chapters.children.children]]
+title = "Adventuring Gear"
+anchor = "adventuring-gear"
+
+[[books.chapters.children.children.children]]
+title = "Backpack, Masterwork"
+entry = "ref/carried/advanced-players-guide/rules/gear/goods-and-services/adventuring-gear/backpack/masterwork"
+
+[[books.chapters.children.children.children]]
+title = "Barbed Vest"
+entry = "ref/eq-misc/barbed-vest"
+
+[[books.chapters.children.children.children]]
+title = "Blanket"
+entry = "ref/eq-misc/blanket"
+
+[[books.chapters.children.children.children]]
+title = "Buoy"
+entry = "ref/eq-misc/buoy"
+
+[[books.chapters.children.children.children]]
+title = "Buoy, Common"
+entry = "ref/eq-misc/buoy-common"
+
+[[books.chapters.children.children.children]]
+title = "Buoy, Superior"
+entry = "ref/eq-misc/buoy-superior"
+
+[[books.chapters.children.children.children]]
+title = "Butterfly Net"
+entry = "ref/eq-misc/butterfly-net"
+
+[[books.chapters.children.children.children]]
+title = "Chalkboard"
+entry = "ref/eq-misc/chalkboard"
+
+[[books.chapters.children.children.children]]
+title = "Chest"
+entry = "ref/eq-misc/chest"
+
+[[books.chapters.children.children.children.children]]
+title = "Chest (huge)"
+entry = "ref/eq-misc/chest-huge"
+
+[[books.chapters.children.children.children.children]]
+title = "Chest (large)"
+entry = "ref/eq-misc/chest-large"
+
+[[books.chapters.children.children.children.children]]
+title = "Chest (medium)"
+entry = "ref/eq-misc/chest-medium"
+
+[[books.chapters.children.children.children.children]]
+title = "Chest (small)"
+entry = "ref/eq-misc/chest-small"
+
+[[books.chapters.children.children.children]]
+title = "Earplugs"
+entry = "ref/eq-misc/earplugs"
+
+[[books.chapters.children.children.children]]
+title = "Hourglass"
+entry = "ref/eq-misc/hourglass-1-hour"
+
+[[books.chapters.children.children.children.children]]
+title = "Hourglass (1 minute)"
+entry = "ref/eq-misc/hourglass-1-minute"
+
+[[books.chapters.children.children.children.children]]
+title = "Hourglass (6 seconds)"
+entry = "ref/eq-misc/hourglass-6-seconds"
+
+[[books.chapters.children.children.children]]
+title = "Iron Spike"
+entry = "ref/eq-misc/iron-spike"
+
+[[books.chapters.children.children.children]]
+title = "Magnet"
+entry = "ref/eq-misc/magnet"
+
+[[books.chapters.children.children.children]]
+title = "Marbles"
+entry = "ref/eq-misc/marbles"
+
+[[books.chapters.children.children.children]]
+title = "Paper"
+entry = "ref/eq-misc/paper-sheet"
+
+[[books.chapters.children.children.children]]
+title = "Periscope"
+entry = "ref/eq-misc/periscope"
+
+[[books.chapters.children.children.children]]
+title = "Poison Pill Ring"
+entry = "ref/carried/advanced-players-guide/rules/gear/goods-and-services/adventuring-gear/poison-pill-ring"
+
+[[books.chapters.children.children.children.children]]
+title = "Poison pill signet ring"
+entry = "ref/eq-misc/poison-pill-signet-ring"
+
+[[books.chapters.children.children.children]]
+title = "Powder"
+entry = "ref/eq-misc/powder"
+
+[[books.chapters.children.children.children]]
+title = "Rice Paper"
+entry = "ref/eq-misc/rice-paper-sheet"
+
+[[books.chapters.children.children.children]]
+title = "Rope, Spider's Silk"
+entry = "ref/eq-misc/spiders-silk-rope-50-ft"
+
+[[books.chapters.children.children.children]]
+title = "Scroll Case"
+entry = "ref/eq-misc/scroll-case"
+
+[[books.chapters.children.children.children]]
+title = "Signal Horn"
+entry = "ref/eq-misc/signal-horn"
+
+[[books.chapters.children.children.children]]
+title = "Smoked Goggles"
+entry = "ref/eq-misc/smoked-goggles"
+
+[[books.chapters.children.children.children]]
+title = "String or Twine"
+entry = "ref/eq-misc/string-or-twine-50-ft"
+
+[[books.chapters.children.children.children]]
+title = "Swarmsuit"
+entry = "ref/eq-misc/swarmsuit"
+
+[[books.chapters.children.children.children]]
+title = "Tattoo"
+entry = "ref/eq-misc/tattoo"
+
+[[books.chapters.children.children.children]]
+title = "Tent"
+entry = "ref/carried/advanced-players-guide/rules/gear/goods-and-services/adventuring-gear/tent"
+
+[[books.chapters.children.children.children.children]]
+title = "Tent (large)"
+entry = "ref/eq-misc/tent-large"
+
+[[books.chapters.children.children.children.children]]
+title = "Tent (medium)"
+entry = "ref/eq-misc/tent-medium"
+
+[[books.chapters.children.children.children.children]]
+title = "Tent (pavilion)"
+entry = "ref/eq-misc/tent-pavilion"
+
+[[books.chapters.children.children.children.children]]
+title = "Tent (small)"
+entry = "ref/eq-misc/tent-small"
+
+[[books.chapters.children.children.children]]
+title = "Weapon Cord"
+entry = "ref/eq-misc/weapon-cord"
+
+[[books.chapters.children.children.children]]
+title = "Whistle, Signal"
+entry = "ref/eq-misc/whistle-signal"
+
+[[books.chapters.children.children.children]]
+title = "Whistle (silent)"
+entry = "ref/eq-misc/silent-whistle"
+
+[[books.chapters.children.children]]
+title = "Special Substances and Items"
+anchor = "special-substances-and-items"
+
+[[books.chapters.children.children.children]]
+title = "Alchemical Grease"
+entry = "ref/eq-misc/alchemical-grease"
+
+[[books.chapters.children.children.children]]
+title = "Alchemical Solvent"
+entry = "ref/eq-misc/alchemical-solvent"
+
+[[books.chapters.children.children.children]]
+title = "Alchemist's Kindness"
+entry = "ref/eq-misc/alchemists-kindness"
+
+[[books.chapters.children.children.children]]
+title = "Alkali Flask"
+entry = "ref/eq-weapon/alkali-flask"
+
+[[books.chapters.children.children.children]]
+title = "Antiplague"
+entry = "ref/eq-misc/antiplague"
+
+[[books.chapters.children.children.children]]
+title = "Bladeguard"
+entry = "ref/eq-misc/bladeguard"
+
+[[books.chapters.children.children.children]]
+title = "Bloodblock"
+entry = "ref/eq-misc/bloodblock"
+
+[[books.chapters.children.children.children]]
+title = "Casting Plaster"
+entry = "ref/eq-misc/casting-plaster"
+
+[[books.chapters.children.children.children]]
+title = "Flash Powder"
+entry = "ref/eq-weapon/flash-powder"
+
+[[books.chapters.children.children.children]]
+title = "Light Detector"
+entry = "ref/eq-misc/light-detector"
+
+[[books.chapters.children.children.children]]
+title = "Liquid Ice"
+entry = "ref/eq-weapon/liquid-ice"
+
+[[books.chapters.children.children.children]]
+title = "Nushadir"
+entry = "ref/eq-misc/nushadir"
+
+[[books.chapters.children.children.children]]
+title = "Smelling Salts"
+entry = "ref/eq-misc/smelling-salts"
+
+[[books.chapters.children.children.children]]
+title = "Smoke Pellet"
+entry = "ref/eq-misc/smoke-pellet"
+
+[[books.chapters.children.children.children]]
+title = "Sneezing Powder"
+entry = "ref/eq-weapon/sneezing-powder"
+
+[[books.chapters.children.children.children]]
+title = "Soothe Syrup"
+entry = "ref/eq-misc/soothe-syrup"
+
+[[books.chapters.children.children.children]]
+title = "Weapon Blanch"
+entry = "ref/carried/advanced-players-guide/rules/gear/goods-and-services/special-substances-and-items/weapon-blanch"
+
+[[books.chapters.children.children.children.children]]
+title = "Weapon blanch (adamantine)"
+entry = "ref/eq-misc/weapon-blanch-adamantine"
+
+[[books.chapters.children.children.children.children]]
+title = "Weapon blanch (cold iron)"
+entry = "ref/eq-misc/weapon-blanch-cold-iron"
+
+[[books.chapters.children.children.children.children]]
+title = "Weapon blanch (silver)"
+entry = "ref/eq-misc/weapon-blanch-silver"
+
+[[books.chapters.children.children]]
+title = "Tools and Skill Kits"
+anchor = "tools-and-skill-kits"
+
+[[books.chapters.children.children.children]]
+title = "Abacus"
+entry = "ref/eq-misc/abacus"
+
+[[books.chapters.children.children.children]]
+title = "Alchemist's Kit"
+entry = "ref/eq-misc/alchemists-kit"
+
+[[books.chapters.children.children.children]]
+title = "Alchemist's Lab, Portable"
+entry = "ref/eq-misc/portable-alchemists-lab"
+
+[[books.chapters.children.children.children]]
+title = "Anvil"
+entry = "ref/eq-misc/anvil"
+
+[[books.chapters.children.children.children]]
+title = "Astrolabe"
+entry = "ref/eq-misc/astrolabe"
+
+[[books.chapters.children.children.children]]
+title = "Balancing Pole"
+entry = "ref/eq-misc/balancing-pole"
+
+[[books.chapters.children.children.children]]
+title = "Bear Trap"
+entry = "ref/eq-misc/bear-trap"
+
+[[books.chapters.children.children.children.children]]
+title = "Bear Trap"
+entry = "ref/carried/advanced-players-guide/rules/gear/goods-and-services/tools-and-skill-kits/bear-trap/bear-trap"
+
+[[books.chapters.children.children.children.children]]
+title = "Bear Trap"
+entry = "ref/trap/bear-trap"
+
+[[books.chapters.children.children.children]]
+title = "Bellows"
+entry = "ref/eq-misc/bellows"
+
+[[books.chapters.children.children.children]]
+title = "Block and tackle"
+entry = "ref/eq-misc/block-and-tackle"
+
+[[books.chapters.children.children.children]]
+title = "Cauldron"
+entry = "ref/carried/advanced-players-guide/rules/gear/goods-and-services/tools-and-skill-kits/cauldron"
+
+[[books.chapters.children.children.children]]
+title = "Compass"
+entry = "ref/eq-misc/compass"
+
+[[books.chapters.children.children.children]]
+title = "Drill"
+entry = "ref/eq-misc/drill"
+
+[[books.chapters.children.children.children]]
+title = "Footprint Book"
+entry = "ref/eq-misc/footprint-book"
+
+[[books.chapters.children.children.children]]
+title = "Fortune-Teller's Deck"
+entry = "ref/eq-misc/fortune-telling-deck"
+
+[[books.chapters.children.children.children.children]]
+title = "Fortune-teller's deck (common)"
+entry = "ref/eq-misc/fortune-tellers-deck-common"
+
+[[books.chapters.children.children.children.children]]
+title = "Fortune-teller's deck (masterwork)"
+entry = "ref/eq-misc/fortune-tellers-deck-masterwork"
+
+[[books.chapters.children.children.children.children]]
+title = "Fortune-teller's deck (quality)"
+entry = "ref/eq-misc/fortune-tellers-deck-quality"
+
+[[books.chapters.children.children.children]]
+title = "Leeching Kit"
+entry = "ref/eq-misc/leeching-kit"
+
+[[books.chapters.children.children.children]]
+title = "Map Maker's Kit"
+entry = "ref/carried/advanced-players-guide/rules/gear/goods-and-services/tools-and-skill-kits/map-makers-kit"
+
+[[books.chapters.children.children.children.children]]
+title = "Mapmaker's kit"
+entry = "ref/eq-misc/mapmakers-kit"
+
+[[books.chapters.children.children.children]]
+title = "Portrait Book"
+entry = "ref/eq-misc/portrait-book"
+
+[[books.chapters.children.children.children]]
+title = "Pulley"
+entry = "ref/carried/advanced-players-guide/rules/gear/goods-and-services/tools-and-skill-kits/pulley"
+
+[[books.chapters.children.children.children]]
+title = "Saw"
+entry = "ref/eq-misc/saw"
+
+[[books.chapters.children.children.children]]
+title = "Sextant"
+entry = "ref/eq-misc/sextant"
+
+[[books.chapters.children.children.children]]
+title = "Symptom Kit"
+entry = "ref/eq-misc/symptom-kit"
+
+[[books.chapters.children.children.children]]
+title = "Traveling Spellbook"
+entry = "ref/eq-misc/traveling-spellbook"
+
+[[books.chapters.children.children]]
+title = "Clothing"
+anchor = "clothing"
+
+[[books.chapters.children.children.children]]
+title = "Cleats"
+entry = "ref/eq-misc/cleats"
+
+[[books.chapters.children.children.children]]
+title = "Furs"
+entry = "ref/eq-misc/furs"
+
+[[books.chapters.children.children.children]]
+title = "Hot Weather Outfit"
+entry = "ref/eq-misc/hot-weather-outfit"
+
+[[books.chapters.children.children.children]]
+title = "Snowshoes"
+entry = "ref/eq-misc/snowshoes"
+
+[[books.chapters.children.children.children]]
+title = "Tear-away hot weather outfit"
+entry = "ref/eq-misc/tear-away-hot-weather-outfit"
+
+[[books.chapters.children.children]]
+title = "Animal-Related Gear"
+anchor = "animal-related-gear"
+
+[[books.chapters.children.children.children]]
+title = "Animal Harness"
+entry = "ref/eq-misc/animal-harness"
+
+[[books.chapters.children.children.children]]
+title = "Cage"
+entry = "ref/eq-misc/cage"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (aquatic)"
+entry = "ref/eq-misc/cage-aquatic"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (diminutive or fine)"
+entry = "ref/eq-misc/cage-diminutive-or-fine"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (diminutive or fine, aquatic)"
+entry = "ref/eq-misc/cage-diminutive-or-fine-aquatic"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (huge)"
+entry = "ref/eq-misc/cage-huge"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (huge, aquatic)"
+entry = "ref/eq-misc/cage-huge-aquatic"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (large)"
+entry = "ref/eq-misc/cage-large"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (large, aquatic)"
+entry = "ref/eq-misc/cage-large-aquatic"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (small or medium)"
+entry = "ref/eq-misc/cage-small-or-medium"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (small or medium, aquatic)"
+entry = "ref/eq-misc/cage-small-or-medium-aquatic"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (tiny)"
+entry = "ref/eq-misc/cage-tiny"
+
+[[books.chapters.children.children.children.children]]
+title = "Cage (tiny, aquatic)"
+entry = "ref/eq-misc/cage-tiny-aquatic"
+
+[[books.chapters.children.children.children]]
+title = "Dog Sled"
+entry = "ref/eq-misc/dog-sled"
+
+[[books.chapters.children.children.children.children]]
+title = "Dog sled (travel, per mile)"
+entry = "ref/eq-misc/dog-sled-travel-per-mile"
+
+[[books.chapters.children.children]]
+title = "Entertainment Items"
+anchor = "entertainment-items"
+
+[[books.chapters.children.children.children]]
+title = "Loaded Dice"
+entry = "ref/carried/advanced-players-guide/rules/gear/goods-and-services/entertainment-items/loaded-dice"
+
+[[books.chapters.children.children.children.children]]
+title = "Loaded dice (average)"
+entry = "ref/eq-misc/loaded-dice-average"
+
+[[books.chapters.children.children.children.children]]
+title = "Loaded dice (superior)"
+entry = "ref/eq-misc/loaded-dice-superior"
+
+[[books.chapters.children.children.children]]
+title = "Marked Cards"
+entry = "ref/eq-misc/marked-cards"
+
+[[books.chapters]]
+title = "Spells"
+
+[[books.chapters.children]]
+title = "Spell Lists"
+entry = "ref/carried/advanced-players-guide/rules/spell-lists"
+
+[[books.chapters.children.children]]
+title = "Full Spell Lists"
+entry = "ref/carried/advanced-players-guide/rules/spell-lists/full-spell-lists"
+
+[[books.chapters.children.children]]
+title = "Order of Presentation"
+entry = "ref/carried/advanced-players-guide/rules/spell-lists/order-of-presentation"
+
+[[books.chapters.children.children]]
+title = "Hit Dice"
+entry = "ref/carried/advanced-players-guide/rules/spell-lists/hit-dice"
+
+[[books.chapters.children.children]]
+title = "Caster Level"
+entry = "ref/carried/advanced-players-guide/rules/spell-lists/caster-level"
+
+[[books.chapters.children.children]]
+title = "Creatures and Characters"
+entry = "ref/carried/advanced-players-guide/rules/spell-lists/creatures-and-characters"
+
+[[books.chapters.children]]
+title = "Absorbing Touch"
+entry = "ref/spell/absorbing-touch"
+
+[[books.chapters.children]]
+title = "Accelerate Poison"
+entry = "ref/spell/accelerate-poison"
+
+[[books.chapters.children]]
+title = "Acid Pit"
+entry = "ref/spell/acid-pit"
+
+[[books.chapters.children]]
+title = "Alchemical Allocation"
+entry = "ref/spell/alchemical-allocation"
+
+[[books.chapters.children]]
+title = "Allfood"
+entry = "ref/spell/allfood"
+
+[[books.chapters.children]]
+title = "Alter Winds"
+entry = "ref/spell/alter-winds"
+
+[[books.chapters.children]]
+title = "Amplify Elixir"
+entry = "ref/spell/amplify-elixir"
+
+[[books.chapters.children]]
+title = "Ant Haul"
+entry = "ref/spell/ant-haul"
+
+[[books.chapters.children]]
+title = "Aqueous Orb"
+entry = "ref/spell/aqueous-orb"
+
+[[books.chapters.children]]
+title = "Arcane Concordance"
+entry = "ref/spell/arcane-concordance"
+
+[[books.chapters.children]]
+title = "Arrow Eruption"
+entry = "ref/spell/arrow-eruption"
+
+[[books.chapters.children]]
+title = "Aspect Of The Bear"
+entry = "ref/spell/aspect-of-the-bear"
+
+[[books.chapters.children]]
+title = "Aspect Of The Falcon"
+entry = "ref/spell/aspect-of-the-falcon"
+
+[[books.chapters.children]]
+title = "Aspect Of The Stag"
+entry = "ref/spell/aspect-of-the-stag"
+
+[[books.chapters.children]]
+title = "Aspect Of The Wolf"
+entry = "ref/spell/aspect-of-the-wolf"
+
+[[books.chapters.children]]
+title = "Aura Of Greater Courage"
+entry = "ref/spell/aura-of-greater-courage"
+
+[[books.chapters.children]]
+title = "Ball Lightning"
+entry = "ref/spell/ball-lightning"
+
+[[books.chapters.children]]
+title = "Banish Seeming"
+entry = "ref/spell/banish-seeming"
+
+[[books.chapters.children]]
+title = "Bard's Escape"
+entry = "ref/spell/bards-escape"
+
+[[books.chapters.children]]
+title = "Beguiling Gift"
+entry = "ref/spell/beguiling-gift"
+
+[[books.chapters.children]]
+title = "Bestow Grace"
+entry = "ref/spell/bestow-grace"
+
+[[books.chapters.children]]
+title = "Blaze Of Glory"
+entry = "ref/spell/blaze-of-glory"
+
+[[books.chapters.children]]
+title = "Blessing Of Courage And Life"
+entry = "ref/spell/blessing-of-courage-and-life"
+
+[[books.chapters.children]]
+title = "Blessing Of Fervor"
+entry = "ref/spell/blessing-of-fervor"
+
+[[books.chapters.children]]
+title = "Blessing Of The Salamander"
+entry = "ref/spell/blessing-of-the-salamander"
+
+[[books.chapters.children]]
+title = "Blood Biography"
+entry = "ref/spell/blood-biography"
+
+[[books.chapters.children]]
+title = "Bloodhound"
+entry = "ref/spell/bloodhound"
+
+[[books.chapters.children]]
+title = "Bloody Claws"
+entry = "ref/spell/bloody-claws"
+
+[[books.chapters.children]]
+title = "Bomber's Eye"
+entry = "ref/spell/bombers-eye"
+
+[[books.chapters.children]]
+title = "Borrow Fortune"
+entry = "ref/spell/borrow-fortune"
+
+[[books.chapters.children]]
+title = "Borrow Skill"
+entry = "ref/spell/borrow-skill"
+
+[[books.chapters.children]]
+title = "Bow Spirit"
+entry = "ref/spell/bow-spirit"
+
+[[books.chapters.children]]
+title = "Brand"
+entry = "ref/spell/brand"
+
+[[books.chapters.children]]
+title = "Brand, Greater"
+entry = "ref/carried/advanced-players-guide/spells/brand/greater"
+
+[[books.chapters.children]]
+title = "Break"
+entry = "ref/spell/break"
+
+[[books.chapters.children]]
+title = "Brilliant Inspiration"
+entry = "ref/spell/brilliant-inspiration"
+
+[[books.chapters.children]]
+title = "Bristle"
+entry = "ref/spell/bristle"
+
+[[books.chapters.children]]
+title = "Burning Gaze"
+entry = "ref/spell/burning-gaze"
+
+[[books.chapters.children]]
+title = "Burst Bonds"
+entry = "ref/spell/burst-bonds"
+
+[[books.chapters.children]]
+title = "Cacophonous Call"
+entry = "ref/spell/cacophonous-call"
+
+[[books.chapters.children]]
+title = "Cacophonous Call, Mass"
+entry = "ref/carried/advanced-players-guide/spells/cacophonous-call/mass"
+
+[[books.chapters.children]]
+title = "Calcific Touch"
+entry = "ref/spell/calcific-touch"
+
+[[books.chapters.children]]
+title = "Call Animal"
+entry = "ref/spell/call-animal"
+
+[[books.chapters.children]]
+title = "Campfire Wall"
+entry = "ref/spell/campfire-wall"
+
+[[books.chapters.children]]
+title = "Cast Out"
+entry = "ref/spell/cast-out"
+
+[[books.chapters.children]]
+title = "Castigate"
+entry = "ref/spell/castigate"
+
+[[books.chapters.children]]
+title = "Castigate, Mass"
+entry = "ref/carried/advanced-players-guide/spells/castigate/mass"
+
+[[books.chapters.children]]
+title = "Challenge Evil"
+entry = "ref/spell/challenge-evil"
+
+[[books.chapters.children]]
+title = "Chameleon Stride"
+entry = "ref/spell/chameleon-stride"
+
+[[books.chapters.children]]
+title = "Clashing Rocks"
+entry = "ref/spell/clashing-rocks"
+
+[[books.chapters.children]]
+title = "Cleanse"
+entry = "ref/spell/cleanse"
+
+[[books.chapters.children]]
+title = "Cloak Of Dreams"
+entry = "ref/spell/cloak-of-dreams"
+
+[[books.chapters.children]]
+title = "Cloak Of Shade"
+entry = "ref/spell/cloak-of-shade"
+
+[[books.chapters.children]]
+title = "Cloak Of Winds"
+entry = "ref/spell/cloak-of-winds"
+
+[[books.chapters.children]]
+title = "Compel Tongue"
+entry = "ref/spell/compel-tongue"
+
+[[books.chapters.children]]
+title = "Confess"
+entry = "ref/spell/confess"
+
+[[books.chapters.children]]
+title = "Contagious Flame"
+entry = "ref/spell/contagious-flame"
+
+[[books.chapters.children]]
+title = "Coordinated Effort"
+entry = "ref/spell/coordinated-effort"
+
+[[books.chapters.children]]
+title = "Corruption Resistance"
+entry = "ref/spell/corruption-resistance"
+
+[[books.chapters.children]]
+title = "Coward's Lament"
+entry = "ref/spell/cowards-lament"
+
+[[books.chapters.children]]
+title = "Crafter's Curse"
+entry = "ref/spell/crafters-curse"
+
+[[books.chapters.children]]
+title = "Crafter's Fortune"
+entry = "ref/spell/crafters-fortune"
+
+[[books.chapters.children]]
+title = "Create Pit"
+entry = "ref/spell/create-pit"
+
+[[books.chapters.children]]
+title = "Create Treasure Map"
+entry = "ref/spell/create-treasure-map"
+
+[[books.chapters.children]]
+title = "Cup Of Dust"
+entry = "ref/spell/cup-of-dust"
+
+[[books.chapters.children]]
+title = "Dancing Lantern"
+entry = "ref/spell/dancing-lantern"
+
+[[books.chapters.children]]
+title = "Deadly Finale"
+entry = "ref/spell/deadly-finale"
+
+[[books.chapters.children]]
+title = "Deafening Song Bolt"
+entry = "ref/spell/deafening-song-bolt"
+
+[[books.chapters.children]]
+title = "Defile Armor"
+entry = "ref/spell/defile-armor"
+
+[[books.chapters.children]]
+title = "Deflection"
+entry = "ref/spell/deflection"
+
+[[books.chapters.children]]
+title = "Delayed Consumption"
+entry = "ref/spell/delayed-consumption"
+
+[[books.chapters.children]]
+title = "Denounce"
+entry = "ref/spell/denounce"
+
+[[books.chapters.children]]
+title = "Detect Aberration"
+entry = "ref/spell/detect-aberration"
+
+[[books.chapters.children]]
+title = "Detect Animals or Plants"
+entry = "ref/spell/detect-animals-or-plants"
+
+[[books.chapters.children]]
+title = "Detonate"
+entry = "ref/spell/detonate"
+
+[[books.chapters.children]]
+title = "Devolution"
+entry = "ref/spell/devolution"
+
+[[books.chapters.children]]
+title = "Discordant Blast"
+entry = "ref/spell/discordant-blast"
+
+[[books.chapters.children]]
+title = "Divine Transfer"
+entry = "ref/spell/divine-transfer"
+
+[[books.chapters.children]]
+title = "Divine Vessel"
+entry = "ref/spell/divine-vessel"
+
+[[books.chapters.children]]
+title = "Draconic Reservoir"
+entry = "ref/spell/draconic-reservoir"
+
+[[books.chapters.children]]
+title = "Dragon's Breath"
+entry = "ref/spell/dragons-breath"
+
+[[books.chapters.children]]
+title = "Dust Of Twilight"
+entry = "ref/spell/dust-of-twilight"
+
+[[books.chapters.children]]
+title = "Eagle Eye"
+entry = "ref/spell/eagle-eye"
+
+[[books.chapters.children]]
+title = "Elemental Aura"
+entry = "ref/spell/elemental-aura"
+
+[[books.chapters.children]]
+title = "Elemental Speech"
+entry = "ref/spell/elemental-speech"
+
+[[books.chapters.children]]
+title = "Elemental Touch"
+entry = "ref/spell/elemental-touch"
+
+[[books.chapters.children]]
+title = "Elude Time"
+entry = "ref/spell/elude-time"
+
+[[books.chapters.children]]
+title = "Enemy Hammer"
+entry = "ref/spell/enemy-hammer"
+
+[[books.chapters.children]]
+title = "Enter Image"
+entry = "ref/spell/enter-image"
+
+[[books.chapters.children]]
+title = "Euphoric Tranquility"
+entry = "ref/spell/euphoric-tranquility"
+
+[[books.chapters.children]]
+title = "Evolution Surge"
+entry = "ref/spell/evolution-surge"
+
+[[books.chapters.children]]
+title = "Evolution Surge, Greater"
+entry = "ref/carried/advanced-players-guide/spells/evolution-surge/greater"
+
+[[books.chapters.children]]
+title = "Evolution Surge, Lesser"
+entry = "ref/spell/evolution-surge-lesser"
+
+[[books.chapters.children]]
+title = "Expeditious Excavation"
+entry = "ref/spell/expeditious-excavation"
+
+[[books.chapters.children]]
+title = "Expend"
+entry = "ref/spell/expend"
+
+[[books.chapters.children]]
+title = "Feast Of Ashes"
+entry = "ref/spell/feast-of-ashes"
+
+[[books.chapters.children]]
+title = "Feather Step"
+entry = "ref/spell/feather-step"
+
+[[books.chapters.children]]
+title = "Feather Step, Mass"
+entry = "ref/carried/advanced-players-guide/spells/feather-step/mass"
+
+[[books.chapters.children]]
+title = "Fester"
+entry = "ref/spell/fester"
+
+[[books.chapters.children]]
+title = "Fester, Mass"
+entry = "ref/carried/advanced-players-guide/spells/fester/mass"
+
+[[books.chapters.children]]
+title = "Fiery Body"
+entry = "ref/spell/fiery-body"
+
+[[books.chapters.children]]
+title = "Fire Breath"
+entry = "ref/spell/fire-breath"
+
+[[books.chapters.children]]
+title = "Fire Of Entanglement"
+entry = "ref/spell/fire-of-entanglement"
+
+[[books.chapters.children]]
+title = "Fire Of Judgment"
+entry = "ref/spell/fire-of-judgment"
+
+[[books.chapters.children]]
+title = "Fire Of Vengeance"
+entry = "ref/spell/fire-of-vengeance"
+
+[[books.chapters.children]]
+title = "Fire Snake"
+entry = "ref/spell/fire-snake"
+
+[[books.chapters.children]]
+title = "Firebrand"
+entry = "ref/spell/firebrand"
+
+[[books.chapters.children]]
+title = "Firefall"
+entry = "ref/spell/firefall"
+
+[[books.chapters.children]]
+title = "Flames Of The Faithful"
+entry = "ref/spell/flames-of-the-faithful"
+
+[[books.chapters.children]]
+title = "Flare"
+entry = "ref/spell/flare"
+
+[[books.chapters.children]]
+title = "Flare Burst"
+entry = "ref/spell/flare-burst"
+
+[[books.chapters.children]]
+title = "Fluid Form"
+entry = "ref/spell/fluid-form"
+
+[[books.chapters.children]]
+title = "Fly"
+entry = "ref/spell/fly"
+
+[[books.chapters.children]]
+title = "Fly, Mass"
+entry = "ref/carried/advanced-players-guide/spells/fly/mass"
+
+[[books.chapters.children]]
+title = "Foe To Friend"
+entry = "ref/spell/foe-to-friend"
+
+[[books.chapters.children]]
+title = "Follow Aura"
+entry = "ref/spell/follow-aura"
+
+[[books.chapters.children]]
+title = "Fool's Forbiddance"
+entry = "ref/spell/fools-forbiddance"
+
+[[books.chapters.children]]
+title = "Forced Repentance"
+entry = "ref/spell/forced-repentance"
+
+[[books.chapters.children]]
+title = "Frozen Note"
+entry = "ref/spell/frozen-note"
+
+[[books.chapters.children]]
+title = "Gallant Inspiration"
+entry = "ref/spell/gallant-inspiration"
+
+[[books.chapters.children]]
+title = "Getaway"
+entry = "ref/spell/getaway"
+
+[[books.chapters.children]]
+title = "Geyser"
+entry = "ref/spell/geyser"
+
+[[books.chapters.children]]
+title = "Ghostbane Dirge"
+entry = "ref/spell/ghostbane-dirge"
+
+[[books.chapters.children]]
+title = "Ghostbane Dirge, Mass"
+entry = "ref/carried/advanced-players-guide/spells/ghostbane-dirge/mass"
+
+[[books.chapters.children]]
+title = "Glide"
+entry = "ref/spell/glide"
+
+[[books.chapters.children]]
+title = "Grace"
+entry = "ref/spell/grace"
+
+[[books.chapters.children]]
+title = "Gravity Bow"
+entry = "ref/spell/gravity-bow"
+
+[[books.chapters.children]]
+title = "Greater Brand"
+entry = "ref/spell/brand-greater"
+
+[[books.chapters.children]]
+title = "Greater Evolution Surge"
+entry = "ref/spell/evolution-surge-greater"
+
+[[books.chapters.children]]
+title = "Greater Rejuvenate Eidolon"
+entry = "ref/spell/rejuvenate-eidolon-greater"
+
+[[books.chapters.children]]
+title = "Grove Of Respite"
+entry = "ref/spell/grove-of-respite"
+
+[[books.chapters.children]]
+title = "Guiding Star"
+entry = "ref/spell/guiding-star"
+
+[[books.chapters.children]]
+title = "Hero's Defiance"
+entry = "ref/spell/heros-defiance"
+
+[[books.chapters.children]]
+title = "Heroic Finale"
+entry = "ref/spell/heroic-finale"
+
+[[books.chapters.children]]
+title = "Hidden Speech"
+entry = "ref/spell/hidden-speech"
+
+[[books.chapters.children]]
+title = "Hide Campsite"
+entry = "ref/spell/hide-campsite"
+
+[[books.chapters.children]]
+title = "Holy Whisper"
+entry = "ref/spell/holy-whisper"
+
+[[books.chapters.children]]
+title = "Honeyed Tongue"
+entry = "ref/spell/honeyed-tongue"
+
+[[books.chapters.children]]
+title = "Hungry Pit"
+entry = "ref/spell/hungry-pit"
+
+[[books.chapters.children]]
+title = "Hunter's Eye"
+entry = "ref/spell/hunters-eye"
+
+[[books.chapters.children]]
+title = "Hunter's Howl"
+entry = "ref/spell/hunters-howl"
+
+[[books.chapters.children]]
+title = "Hydraulic Push"
+entry = "ref/spell/hydraulic-push"
+
+[[books.chapters.children]]
+title = "Hydraulic Torrent"
+entry = "ref/spell/hydraulic-torrent"
+
+[[books.chapters.children]]
+title = "Ill Omen"
+entry = "ref/spell/ill-omen"
+
+[[books.chapters.children]]
+title = "Innocence"
+entry = "ref/spell/innocence"
+
+[[books.chapters.children]]
+title = "Instant Armor"
+entry = "ref/spell/instant-armor"
+
+[[books.chapters.children]]
+title = "Instant Enemy"
+entry = "ref/spell/instant-enemy"
+
+[[books.chapters.children]]
+title = "Invigorate"
+entry = "ref/spell/invigorate"
+
+[[books.chapters.children]]
+title = "Invigorate, Mass"
+entry = "ref/carried/advanced-players-guide/spells/invigorate/mass"
+
+[[books.chapters.children]]
+title = "Jester's Jaunt"
+entry = "ref/spell/jesters-jaunt"
+
+[[books.chapters.children]]
+title = "Keen Senses"
+entry = "ref/spell/keen-senses"
+
+[[books.chapters.children]]
+title = "King's Castle"
+entry = "ref/spell/kings-castle"
+
+[[books.chapters.children]]
+title = "Knight's Calling"
+entry = "ref/spell/knights-calling"
+
+[[books.chapters.children]]
+title = "Lead Blades"
+entry = "ref/spell/lead-blades"
+
+[[books.chapters.children]]
+title = "Life Bubble"
+entry = "ref/spell/life-bubble"
+
+[[books.chapters.children]]
+title = "Light Lance"
+entry = "ref/spell/light-lance"
+
+[[books.chapters.children]]
+title = "Lily Pad Stride"
+entry = "ref/spell/lily-pad-stride"
+
+[[books.chapters.children]]
+title = "Lockjaw"
+entry = "ref/spell/lockjaw"
+
+[[books.chapters.children]]
+title = "Marks Of Forbiddance"
+entry = "ref/spell/marks-of-forbiddance"
+
+[[books.chapters.children]]
+title = "Mask Dweomer"
+entry = "ref/spell/mask-dweomer"
+
+[[books.chapters.children]]
+title = "Mass Cacophonous Call"
+entry = "ref/spell/cacophonous-call-mass"
+
+[[books.chapters.children]]
+title = "Mass Castigate"
+entry = "ref/spell/castigate-mass"
+
+[[books.chapters.children]]
+title = "Mass Feather Step"
+entry = "ref/spell/feather-step-mass"
+
+[[books.chapters.children]]
+title = "Mass Fester"
+entry = "ref/spell/fester-mass"
+
+[[books.chapters.children]]
+title = "Mass Fly"
+entry = "ref/spell/fly-mass"
+
+[[books.chapters.children]]
+title = "Mass Ghostbane Dirge"
+entry = "ref/spell/ghostbane-dirge-mass"
+
+[[books.chapters.children]]
+title = "Mass Invigorate"
+entry = "ref/spell/invigorate-mass"
+
+[[books.chapters.children]]
+title = "Mass Pain Strike"
+entry = "ref/spell/pain-strike-mass"
+
+[[books.chapters.children]]
+title = "Mass Planar Adaptation"
+entry = "ref/spell/planar-adaptation-mass"
+
+[[books.chapters.children]]
+title = "Mass Suffocation"
+entry = "ref/spell/suffocation-mass"
+
+[[books.chapters.children]]
+title = "Memory Lapse"
+entry = "ref/spell/memory-lapse"
+
+[[books.chapters.children]]
+title = "Moonstruck"
+entry = "ref/spell/moonstruck"
+
+[[books.chapters.children]]
+title = "Nap Stack"
+entry = "ref/spell/nap-stack"
+
+[[books.chapters.children]]
+title = "Natural Rhythm"
+entry = "ref/spell/natural-rhythm"
+
+[[books.chapters.children]]
+title = "Nature's Exile"
+entry = "ref/spell/natures-exile"
+
+[[books.chapters.children]]
+title = "Negate Aroma"
+entry = "ref/spell/negate-aroma"
+
+[[books.chapters.children]]
+title = "Oath Of Peace"
+entry = "ref/spell/oath-of-peace"
+
+[[books.chapters.children]]
+title = "Oracle's Burden"
+entry = "ref/spell/oracles-burden"
+
+[[books.chapters.children]]
+title = "Pain Strike"
+entry = "ref/spell/pain-strike"
+
+[[books.chapters.children]]
+title = "Pain Strike, Mass"
+entry = "ref/carried/advanced-players-guide/spells/pain-strike/mass"
+
+[[books.chapters.children]]
+title = "Paladin's Sacrifice"
+entry = "ref/spell/paladins-sacrifice"
+
+[[books.chapters.children]]
+title = "Perceive Cues"
+entry = "ref/spell/perceive-cues"
+
+[[books.chapters.children]]
+title = "Phantasmal Revenge"
+entry = "ref/spell/phantasmal-revenge"
+
+[[books.chapters.children]]
+title = "Phantasmal Web"
+entry = "ref/spell/phantasmal-web"
+
+[[books.chapters.children]]
+title = "Pied Piping"
+entry = "ref/spell/pied-piping"
+
+[[books.chapters.children]]
+title = "Pillar Of Life"
+entry = "ref/spell/pillar-of-life"
+
+[[books.chapters.children]]
+title = "Planar Adaptation"
+entry = "ref/spell/planar-adaptation"
+
+[[books.chapters.children]]
+title = "Planar Adaptation, Mass"
+entry = "ref/carried/advanced-players-guide/spells/planar-adaptation/mass"
+
+[[books.chapters.children]]
+title = "Pox Pustules"
+entry = "ref/spell/pox-pustules"
+
+[[books.chapters.children]]
+title = "Protective Spirit"
+entry = "ref/spell/protective-spirit"
+
+[[books.chapters.children]]
+title = "Purging Finale"
+entry = "ref/spell/purging-finale"
+
+[[books.chapters.children]]
+title = "Purified Calling"
+entry = "ref/spell/purified-calling"
+
+[[books.chapters.children]]
+title = "Putrefy Food And Drink"
+entry = "ref/spell/putrefy-food-and-drink"
+
+[[books.chapters.children]]
+title = "Rally Point"
+entry = "ref/spell/rally-point"
+
+[[books.chapters.children]]
+title = "Rampart"
+entry = "ref/spell/rampart"
+
+[[books.chapters.children]]
+title = "Rebuke"
+entry = "ref/spell/rebuke"
+
+[[books.chapters.children]]
+title = "Rejuvenate Eidolon"
+entry = "ref/spell/rejuvenate-eidolon"
+
+[[books.chapters.children]]
+title = "Rejuvenate Eidolon, Greater"
+entry = "ref/carried/advanced-players-guide/spells/rejuvenate-eidolon/greater"
+
+[[books.chapters.children]]
+title = "Rejuvenate Eidolon, Lesser"
+entry = "ref/spell/rejuvenate-eidolon-lesser"
+
+[[books.chapters.children]]
+title = "Residual Tracking"
+entry = "ref/spell/residual-tracking"
+
+[[books.chapters.children]]
+title = "Resounding Blow"
+entry = "ref/spell/resounding-blow"
+
+[[books.chapters.children]]
+title = "Rest Eternal"
+entry = "ref/spell/rest-eternal"
+
+[[books.chapters.children]]
+title = "Restful Sleep"
+entry = "ref/spell/restful-sleep"
+
+[[books.chapters.children]]
+title = "Resurgent Transformation"
+entry = "ref/spell/resurgent-transformation"
+
+[[books.chapters.children]]
+title = "Retribution"
+entry = "ref/spell/retribution"
+
+[[books.chapters.children]]
+title = "Reviving Finale"
+entry = "ref/spell/reviving-finale"
+
+[[books.chapters.children]]
+title = "Righteous Vigor"
+entry = "ref/spell/righteous-vigor"
+
+[[books.chapters.children]]
+title = "River Of Wind"
+entry = "ref/spell/river-of-wind"
+
+[[books.chapters.children]]
+title = "Sacred Bond"
+entry = "ref/spell/sacred-bond"
+
+[[books.chapters.children]]
+title = "Sacrificial Oath"
+entry = "ref/spell/sacrificial-oath"
+
+[[books.chapters.children]]
+title = "Saddle Surge"
+entry = "ref/spell/saddle-surge"
+
+[[books.chapters.children]]
+title = "Sanctify Armor"
+entry = "ref/spell/sanctify-armor"
+
+[[books.chapters.children]]
+title = "Saving Finale"
+entry = "ref/spell/saving-finale"
+
+[[books.chapters.children]]
+title = "Scent Trail"
+entry = "ref/spell/scent-trail"
+
+[[books.chapters.children]]
+title = "Screech"
+entry = "ref/spell/screech"
+
+[[books.chapters.children]]
+title = "Sculpt Corpse"
+entry = "ref/spell/sculpt-corpse"
+
+[[books.chapters.children]]
+title = "Seamantle"
+entry = "ref/spell/seamantle"
+
+[[books.chapters.children]]
+title = "Seek Thoughts"
+entry = "ref/spell/seek-thoughts"
+
+[[books.chapters.children]]
+title = "Shadow Projection"
+entry = "ref/spell/shadow-projection"
+
+[[books.chapters.children]]
+title = "Share Language"
+entry = "ref/spell/share-language"
+
+[[books.chapters.children]]
+title = "Share Senses"
+entry = "ref/spell/share-senses"
+
+[[books.chapters.children]]
+title = "Shared Wrath"
+entry = "ref/carried/advanced-players-guide/spells/shared-wrath"
+
+[[books.chapters.children]]
+title = "Shared Wrath"
+entry = "ref/spell/shared-wrath"
+
+[[books.chapters.children]]
+title = "Shifting Sand"
+entry = "ref/spell/shifting-sand"
+
+[[books.chapters.children]]
+title = "Sift"
+entry = "ref/spell/sift"
+
+[[books.chapters.children]]
+title = "Sirocco"
+entry = "ref/spell/sirocco"
+
+[[books.chapters.children]]
+title = "Sleepwalk"
+entry = "ref/spell/sleepwalk"
+
+[[books.chapters.children]]
+title = "Slipstream"
+entry = "ref/spell/slipstream"
+
+[[books.chapters.children]]
+title = "Snake Staff"
+entry = "ref/spell/snake-staff"
+
+[[books.chapters.children]]
+title = "Solid Note"
+entry = "ref/spell/solid-note"
+
+[[books.chapters.children]]
+title = "Spark"
+entry = "ref/spell/spark"
+
+[[books.chapters.children]]
+title = "Spiked Pit"
+entry = "ref/spell/spiked-pit"
+
+[[books.chapters.children]]
+title = "Spiritual Ally"
+entry = "ref/spell/spiritual-ally"
+
+[[books.chapters.children]]
+title = "Spite"
+entry = "ref/spell/spite"
+
+[[books.chapters.children]]
+title = "Stay The Hand"
+entry = "ref/spell/stay-the-hand"
+
+[[books.chapters.children]]
+title = "Stone Call"
+entry = "ref/spell/stone-call"
+
+[[books.chapters.children]]
+title = "Stone Fist"
+entry = "ref/spell/stone-fist"
+
+[[books.chapters.children]]
+title = "Stormbolts"
+entry = "ref/spell/stormbolts"
+
+[[books.chapters.children]]
+title = "Strong Jaw"
+entry = "ref/spell/strong-jaw"
+
+[[books.chapters.children]]
+title = "Stumble Gap"
+entry = "ref/spell/stumble-gap"
+
+[[books.chapters.children]]
+title = "Stunning Finale"
+entry = "ref/spell/stunning-finale"
+
+[[books.chapters.children]]
+title = "Suffocation"
+entry = "ref/spell/suffocation"
+
+[[books.chapters.children]]
+title = "Suffocation, Mass"
+entry = "ref/carried/advanced-players-guide/spells/suffocation/mass"
+
+[[books.chapters.children]]
+title = "Summon Eidolon"
+entry = "ref/spell/summon-eidolon"
+
+[[books.chapters.children]]
+title = "Swarm Skin"
+entry = "ref/spell/swarm-skin"
+
+[[books.chapters.children]]
+title = "Thorn Body"
+entry = "ref/spell/thorn-body"
+
+[[books.chapters.children]]
+title = "Threefold Aspect"
+entry = "ref/spell/threefold-aspect"
+
+[[books.chapters.children]]
+title = "Thundering Drums"
+entry = "ref/spell/thundering-drums"
+
+[[books.chapters.children]]
+title = "Timely Inspiration"
+entry = "ref/spell/timely-inspiration"
+
+[[books.chapters.children]]
+title = "Tireless Pursuers"
+entry = "ref/carried/advanced-players-guide/spells/tireless-pursuers"
+
+[[books.chapters.children]]
+title = "Tireless Pursuers"
+entry = "ref/spell/tireless-pursuers"
+
+[[books.chapters.children]]
+title = "Tireless Pursuit"
+entry = "ref/spell/tireless-pursuit"
+
+[[books.chapters.children]]
+title = "Touch Of Gracelessness"
+entry = "ref/spell/touch-of-gracelessness"
+
+[[books.chapters.children]]
+title = "Touch Of The Sea"
+entry = "ref/spell/touch-of-the-sea"
+
+[[books.chapters.children]]
+title = "Transmogrify"
+entry = "ref/spell/transmogrify"
+
+[[books.chapters.children]]
+title = "Transmute Potion To Poison"
+entry = "ref/spell/transmute-potion-to-poison"
+
+[[books.chapters.children.children]]
+title = "Transmuted Poisons"
+anchor = "transmuted-poisons"
+
+[[books.chapters.children.children.children]]
+title = "0-Level Potion Poison"
+entry = "ref/carried/advanced-players-guide/spells/transmute-potion-to-poison/transmuted-poisons/0-level-potion-poison"
+
+[[books.chapters.children.children.children]]
+title = "1st-Level Potion Poison"
+entry = "ref/carried/advanced-players-guide/spells/transmute-potion-to-poison/transmuted-poisons/1st-level-potion-poison"
+
+[[books.chapters.children.children.children]]
+title = "2nd-Level Potion Poison"
+entry = "ref/carried/advanced-players-guide/spells/transmute-potion-to-poison/transmuted-poisons/2nd-level-potion-poison"
+
+[[books.chapters.children.children.children]]
+title = "3rd-Level Potion Poison"
+entry = "ref/carried/advanced-players-guide/spells/transmute-potion-to-poison/transmuted-poisons/3rd-level-potion-poison"
+
+[[books.chapters.children]]
+title = "Treasure Stitching"
+entry = "ref/spell/treasure-stitching"
+
+[[books.chapters.children]]
+title = "True Form"
+entry = "ref/spell/true-form"
+
+[[books.chapters.children]]
+title = "Tsunami"
+entry = "ref/spell/tsunami"
+
+[[books.chapters.children]]
+title = "Twilight Knife"
+entry = "ref/spell/twilight-knife"
+
+[[books.chapters.children]]
+title = "Twin Form"
+entry = "ref/spell/twin-form"
+
+[[books.chapters.children]]
+title = "Unfetter"
+entry = "ref/spell/unfetter"
+
+[[books.chapters.children]]
+title = "Universal Formula"
+entry = "ref/spell/universal-formula"
+
+[[books.chapters.children]]
+title = "Unwilling Shield"
+entry = "ref/spell/unwilling-shield"
+
+[[books.chapters.children]]
+title = "Unwitting Ally"
+entry = "ref/spell/unwitting-ally"
+
+[[books.chapters.children]]
+title = "Vanish"
+entry = "ref/spell/vanish"
+
+[[books.chapters.children]]
+title = "Veil Of Positive Energy"
+entry = "ref/spell/veil-of-positive-energy"
+
+[[books.chapters.children]]
+title = "Venomous Bolt"
+entry = "ref/spell/venomous-bolt"
+
+[[books.chapters.children]]
+title = "Versatile Weapon"
+entry = "ref/spell/versatile-weapon"
+
+[[books.chapters.children]]
+title = "Vomit Swarm"
+entry = "ref/spell/vomit-swarm"
+
+[[books.chapters.children]]
+title = "Vortex"
+entry = "ref/spell/vortex"
+
+[[books.chapters.children]]
+title = "Wake Of Light"
+entry = "ref/spell/wake-of-light"
+
+[[books.chapters.children]]
+title = "Wall Of Lava"
+entry = "ref/spell/wall-of-lava"
+
+[[books.chapters.children]]
+title = "Wall Of Suppression"
+entry = "ref/spell/wall-of-suppression"
+
+[[books.chapters.children]]
+title = "Wandering Star Motes"
+entry = "ref/spell/wandering-star-motes"
+
+[[books.chapters.children]]
+title = "Ward The Faithful"
+entry = "ref/spell/ward-the-faithful"
+
+[[books.chapters.children]]
+title = "Weapon Of Awe"
+entry = "ref/spell/weapon-of-awe"
+
+[[books.chapters.children]]
+title = "Winds Of Vengeance"
+entry = "ref/spell/winds-of-vengeance"
+
+[[books.chapters.children]]
+title = "World Wave"
+entry = "ref/spell/world-wave"
+
+[[books.chapters.children]]
+title = "Wrath"
+entry = "ref/spell/wrath"
+
+[[books.chapters.children]]
+title = "Wrathful Mantle"
+entry = "ref/spell/wrathful-mantle"
+
+[[books.chapters]]
+title = "Prestige Classes"
+
+[[books.chapters.children]]
+title = "Prestige Classes"
+entry = "ref/carried/advanced-players-guide/rules/prestige-classes"
+
+[[books.chapters.children.children]]
+title = "Prestige Classes"
+entry = "ref/carried/advanced-players-guide/rules/prestige-classes/prestige-classes"
+
+[[books.chapters.children.children]]
+title = "Definition of Terms"
+entry = "ref/carried/advanced-players-guide/rules/prestige-classes/definition-of-terms"
+
+[[books.chapters.children]]
+title = "Battle Herald"
+entry = "ref/pclass/battle-herald"
+
+[[books.chapters.children]]
+title = "Holy Vindicator"
+entry = "ref/pclass/holy-vindicator"
+
+[[books.chapters.children]]
+title = "Horizon Walker"
+entry = "ref/pclass/horizon-walker"
+
+[[books.chapters.children]]
+title = "Master Chymist"
+entry = "ref/pclass/master-chymist"
+
+[[books.chapters.children]]
+title = "Master Spy"
+entry = "ref/pclass/master-spy"
+
+[[books.chapters.children]]
+title = "Nature Warden"
+entry = "ref/pclass/nature-warden"
+
+[[books.chapters.children]]
+title = "Rage Prophet"
+entry = "ref/pclass/rage-prophet"
+
+[[books.chapters.children]]
+title = "Stalwart Defender"
+entry = "ref/pclass/stalwart-defender"
+
+[[books.chapters]]
+title = "Magic Items"
+entry = "ref/carried/advanced-players-guide/rules/magic-items"
+
+[[books.chapters.children]]
+title = "Magic Items"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/magic-items"
+
+[[books.chapters.children]]
+title = "Armor"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/armor"
+
+[[books.chapters.children.children]]
+title = "Armor Special Abilities"
+
+[[books.chapters.children.children.children]]
+title = "Champion"
+entry = "ref/magic-enh/champion"
+
+[[books.chapters.children.children.children]]
+title = "Dastard"
+entry = "ref/magic-enh/dastard"
+
+[[books.chapters.children.children.children]]
+title = "Determination"
+entry = "ref/magic-enh/determination"
+
+[[books.chapters.children.children.children]]
+title = "Jousting"
+entry = "ref/magic-enh/jousting"
+
+[[books.chapters.children.children.children]]
+title = "Righteous"
+entry = "ref/magic-enh/righteous"
+
+[[books.chapters.children.children.children]]
+title = "Unbound"
+entry = "ref/magic-enh/unbound"
+
+[[books.chapters.children.children.children]]
+title = "Unrighteous"
+entry = "ref/magic-enh/unrighteous"
+
+[[books.chapters.children.children.children]]
+title = "Vigilant"
+entry = "ref/magic-enh/vigilant"
+
+[[books.chapters.children.children]]
+title = "Specific Armors"
+anchor = "specific-armors"
+
+[[books.chapters.children.children.children]]
+title = "Armor Of Insults"
+entry = "ref/magic-armor/armor-of-insults"
+
+[[books.chapters.children.children.children]]
+title = "Boneless Leather"
+entry = "ref/magic-armor/boneless-leather"
+
+[[books.chapters.children.children.children]]
+title = "Buccaneer's Breastplate"
+entry = "ref/magic-armor/buccaneers-breastplate"
+
+[[books.chapters.children.children.children]]
+title = "Daystar Half-Plate"
+entry = "ref/magic-armor/daystar-half-plate"
+
+[[books.chapters.children.children.children]]
+title = "Folding Plate"
+entry = "ref/magic-armor/folding-plate"
+
+[[books.chapters.children.children.children]]
+title = "Forsaken Banded Mail"
+entry = "ref/magic-armor/forsaken-banded-mail"
+
+[[books.chapters.children.children.children]]
+title = "Giant-Hide Armor"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/armor/specific-armors/giant-hide-armor"
+
+[[books.chapters.children.children.children.children]]
+title = "Giant-Hide Armor (cloud giant)"
+entry = "ref/magic-armor/giant-hide-armor-cloud-giant"
+
+[[books.chapters.children.children.children.children]]
+title = "Giant-Hide Armor (hill giant)"
+entry = "ref/magic-armor/giant-hide-armor-hill-giant"
+
+[[books.chapters.children.children.children.children]]
+title = "Giant-Hide Armor (ogre)"
+entry = "ref/magic-armor/giant-hide-armor-ogre"
+
+[[books.chapters.children.children.children.children]]
+title = "Giant-Hide Armor (stone, fire, or frost giant)"
+entry = "ref/magic-armor/giant-hide-armor-stone-fire-or-frost-giant"
+
+[[books.chapters.children.children.children.children]]
+title = "Giant-Hide Armor (storm giant)"
+entry = "ref/magic-armor/giant-hide-armor-storm-giant"
+
+[[books.chapters.children.children.children.children]]
+title = "Giant-Hide Armor (troll)"
+entry = "ref/magic-armor/giant-hide-armor-troll"
+
+[[books.chapters.children.children.children]]
+title = "Mistmail"
+entry = "ref/magic-armor/mistmail"
+
+[[books.chapters.children.children.children]]
+title = "Murderer's Blackcloth"
+entry = "ref/magic-armor/murderers-blackcloth"
+
+[[books.chapters.children.children.children]]
+title = "Soothsayer's Raiment"
+entry = "ref/magic-armor/soothsayers-raiment"
+
+[[books.chapters.children.children]]
+title = "Specific Shields"
+anchor = "specific-shields"
+
+[[books.chapters.children.children.children]]
+title = "Battlement Shield"
+entry = "ref/magic-armor/battlement-shield"
+
+[[books.chapters.children.children.children]]
+title = "Fortress Shield"
+entry = "ref/magic-armor/fortress-shield"
+
+[[books.chapters.children]]
+title = "Weapons"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/weapons"
+
+[[books.chapters.children.children]]
+title = "Weapon Special Abilities"
+
+[[books.chapters.children.children.children]]
+title = "Allying"
+entry = "ref/magic-enh/allying"
+
+[[books.chapters.children.children.children]]
+title = "Conductive"
+entry = "ref/magic-enh/conductive"
+
+[[books.chapters.children.children.children]]
+title = "Corrosive"
+entry = "ref/magic-enh/corrosive"
+
+[[books.chapters.children.children.children]]
+title = "Corrosive Burst"
+entry = "ref/magic-enh/corrosive-burst"
+
+[[books.chapters.children.children.children]]
+title = "Cunning"
+entry = "ref/magic-enh/cunning"
+
+[[books.chapters.children.children.children]]
+title = "Dueling"
+entry = "ref/magic-enh/dueling"
+
+[[books.chapters.children.children.children]]
+title = "Furious"
+entry = "ref/magic-enh/furious"
+
+[[books.chapters.children.children.children]]
+title = "Grayflame"
+entry = "ref/magic-enh/grayflame"
+
+[[books.chapters.children.children.children]]
+title = "Huntsman"
+entry = "ref/magic-enh/huntsman"
+
+[[books.chapters.children.children.children]]
+title = "Jurist"
+entry = "ref/magic-enh/jurist"
+
+[[books.chapters.children.children.children]]
+title = "Menacing"
+entry = "ref/magic-enh/menacing"
+
+[[books.chapters.children.children.children]]
+title = "Transformative"
+entry = "ref/magic-enh/transformative"
+
+[[books.chapters.children.children]]
+title = "Specific Weapons"
+anchor = "specific-weapons"
+
+[[books.chapters.children.children.children]]
+title = "Beaststrike Club"
+entry = "ref/magic-weapon/beaststrike-club"
+
+[[books.chapters.children.children.children]]
+title = "Blade of Binding"
+entry = "ref/magic-weapon/blade-of-binding"
+
+[[books.chapters.children.children.children]]
+title = "Boulderhead Mace"
+entry = "ref/magic-weapon/boulderhead-mace"
+
+[[books.chapters.children.children.children]]
+title = "Dustburst Bullet"
+entry = "ref/magic-weapon/dustburst-bullet"
+
+[[books.chapters.children.children.children]]
+title = "Guarding Blade"
+entry = "ref/magic-weapon/guarding-blade"
+
+[[books.chapters.children.children.children]]
+title = "Lance of Jousting"
+entry = "ref/magic-weapon/lance-of-jousting"
+
+[[books.chapters.children.children.children]]
+title = "Ricochet Hammer"
+entry = "ref/magic-weapon/ricochet-hammer"
+
+[[books.chapters.children.children.children]]
+title = "Searing Arrow"
+entry = "ref/magic-weapon/searing-arrow"
+
+[[books.chapters.children.children.children]]
+title = "Shieldsplitter Lance"
+entry = "ref/magic-weapon/shieldsplitter-lance"
+
+[[books.chapters.children.children.children]]
+title = "Sizzling Arrow"
+entry = "ref/magic-weapon/sizzling-arrow"
+
+[[books.chapters.children.children.children]]
+title = "Sparkwake Starknife"
+entry = "ref/magic-weapon/sparkwake-starknife"
+
+[[books.chapters.children.children.children]]
+title = "Spirit Blade"
+entry = "ref/magic-weapon/spirit-blade"
+
+[[books.chapters.children.children.children]]
+title = "Tangle Bolt"
+entry = "ref/magic-weapon/tangle-bolt"
+
+[[books.chapters.children.children.children]]
+title = "Trident of Stability"
+entry = "ref/magic-weapon/trident-of-stability"
+
+[[books.chapters.children.children.children]]
+title = "Undercutting Axe"
+entry = "ref/magic-weapon/undercutting-axe"
+
+[[books.chapters.children]]
+title = "Rings"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rings"
+
+[[books.chapters.children.children]]
+title = "Dungeon Ring"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rings/dungeon-ring"
+
+[[books.chapters.children.children.children]]
+title = "Dungeon Ring (jailer's)"
+entry = "ref/magic-ring/dungeon-ring-jailers"
+
+[[books.chapters.children.children.children]]
+title = "Dungeon Ring (prisoner's)"
+entry = "ref/magic-ring/dungeon-ring-prisoners"
+
+[[books.chapters.children.children]]
+title = "Ring of Arcane Signets"
+entry = "ref/magic-ring/ring-of-arcane-signets"
+
+[[books.chapters.children.children]]
+title = "Ring of Delayed Doom"
+entry = "ref/magic-ring/ring-of-delayed-doom"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Delayed Doom (1 stone)"
+entry = "ref/magic-ring/ring-of-delayed-doom-1-stone"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Delayed Doom (2 stones)"
+entry = "ref/magic-ring/ring-of-delayed-doom-2-stones"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Delayed Doom (3 stones)"
+entry = "ref/magic-ring/ring-of-delayed-doom-3-stones"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Delayed Doom (4 stones)"
+entry = "ref/magic-ring/ring-of-delayed-doom-4-stones"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Delayed Doom (5 stones)"
+entry = "ref/magic-ring/ring-of-delayed-doom-5-stones"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Delayed Doom (6 stones)"
+entry = "ref/magic-ring/ring-of-delayed-doom-6-stones"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Delayed Doom (7 stones)"
+entry = "ref/magic-ring/ring-of-delayed-doom-7-stones"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Delayed Doom (8 stones)"
+entry = "ref/magic-ring/ring-of-delayed-doom-8-stones"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Delayed Doom (9 stones)"
+entry = "ref/magic-ring/ring-of-delayed-doom-9-stones"
+
+[[books.chapters.children.children]]
+title = "Ring of Forcefangs"
+entry = "ref/magic-ring/ring-of-forcefangs"
+
+[[books.chapters.children.children]]
+title = "Ring of Maniacal Devices"
+entry = "ref/magic-ring/ring-of-maniacal-devices"
+
+[[books.chapters.children.children]]
+title = "Ring of Retribution"
+entry = "ref/magic-ring/ring-of-retribution"
+
+[[books.chapters.children.children]]
+title = "Ring of Revelation"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rings/ring-of-revelation"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Revelation (greater)"
+entry = "ref/magic-ring/ring-of-revelation-greater"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Revelation (lesser)"
+entry = "ref/magic-ring/ring-of-revelation-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Revelation (superior)"
+entry = "ref/magic-ring/ring-of-revelation-superior"
+
+[[books.chapters.children]]
+title = "Rods"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Bouncing"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/bouncing"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Bouncing"
+entry = "ref/magic-rod/bouncing"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Bouncing (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-bouncing-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Bouncing (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-bouncing-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Bouncing (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-bouncing-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Dazing"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/dazing"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Dazing"
+entry = "ref/magic-rod/dazing"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Dazing (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-dazing-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Dazing (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-dazing-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Dazing (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-dazing-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Disruptive"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/disruptive"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Disruptive"
+entry = "ref/magic-rod/disruptive"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Disruptive (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-disruptive-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Disruptive (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-disruptive-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Disruptive (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-disruptive-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Ectoplasmic"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/ectoplasmic"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Ectoplasmic"
+entry = "ref/magic-rod/ectoplasmic"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Ectoplasmic (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-ectoplasmic-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Ectoplasmic (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-ectoplasmic-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Ectoplasmic (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-ectoplasmic-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Elemental"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/elemental"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Elemental"
+entry = "ref/magic-rod/elemental"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Elemental (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-elemental-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Elemental (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-elemental-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Elemental (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-elemental-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Focused"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/focused"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Focused"
+entry = "ref/magic-rod/focused"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Focused (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-focused-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Focused (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-focused-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Focused (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-focused-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Intensified"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/intensified"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Intensified"
+entry = "ref/magic-rod/intensified"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Intensified (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-intensified-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Intensified (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-intensified-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Intensified (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-intensified-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Lingering"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/lingering"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Lingering"
+entry = "ref/magic-rod/lingering"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Lingering (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-lingering-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Lingering (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-lingering-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Lingering (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-lingering-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Merciful"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/merciful"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Merciful"
+entry = "ref/magic-rod/merciful"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Merciful (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-merciful-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Merciful (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-merciful-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Merciful (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-merciful-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Persistent"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/persistent"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Persistent"
+entry = "ref/magic-rod/persistent"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Persistent (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-persistent-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Persistent (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-persistent-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Persistent (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-persistent-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Reach"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/reach"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Reach"
+entry = "ref/magic-rod/reach"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Reach (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-reach-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Reach (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-reach-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Reach (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-reach-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Selective"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/selective"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Selective"
+entry = "ref/magic-rod/selective"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Selective (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-selective-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Selective (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-selective-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Selective (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-selective-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Sickening"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/sickening"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Sickening"
+entry = "ref/magic-rod/sickening"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Sickening (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-sickening-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Sickening (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-sickening-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Sickening (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-sickening-normal"
+
+[[books.chapters.children.children]]
+title = "Metamagic, Thundering"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/rods/metamagic/thundering"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Thundering"
+entry = "ref/magic-rod/thundering"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Thundering (greater)"
+entry = "ref/magic-rod/rod-of-metamagic-thundering-greater"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Thundering (lesser)"
+entry = "ref/magic-rod/rod-of-metamagic-thundering-lesser"
+
+[[books.chapters.children.children.children]]
+title = "Rod of Metamagic, Thundering (normal)"
+entry = "ref/magic-rod/rod-of-metamagic-thundering-normal"
+
+[[books.chapters.children]]
+title = "Staves"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/staves"
+
+[[books.chapters.children.children]]
+title = "Staff of Bolstering"
+entry = "ref/magic-staff/staff-of-bolstering"
+
+[[books.chapters.children.children]]
+title = "Staff of Cackling Wrath"
+entry = "ref/magic-staff/staff-of-cackling-wrath"
+
+[[books.chapters.children.children]]
+title = "Staff of Hoarding"
+entry = "ref/magic-staff/staff-of-hoarding"
+
+[[books.chapters.children.children]]
+title = "Staff of Journeys"
+entry = "ref/magic-staff/staff-of-journeys"
+
+[[books.chapters.children.children]]
+title = "Staff of Many Rays"
+entry = "ref/magic-staff/staff-of-many-rays"
+
+[[books.chapters.children.children]]
+title = "Staff of Obstacles"
+entry = "ref/magic-staff/staff-of-obstacles"
+
+[[books.chapters.children.children]]
+title = "Staff of Performance"
+entry = "ref/magic-staff/staff-of-performance"
+
+[[books.chapters.children.children]]
+title = "Staff of Revelations"
+entry = "ref/magic-staff/staff-of-revelations"
+
+[[books.chapters.children.children]]
+title = "Staff of Rigor"
+entry = "ref/magic-staff/staff-of-rigor"
+
+[[books.chapters.children.children]]
+title = "Staff of Shrieking"
+entry = "ref/magic-staff/staff-of-shrieking"
+
+[[books.chapters.children.children]]
+title = "Staff of Slumber"
+entry = "ref/magic-staff/staff-of-slumber"
+
+[[books.chapters.children.children]]
+title = "Staff of Souls"
+entry = "ref/magic-staff/staff-of-souls"
+
+[[books.chapters.children.children]]
+title = "Staff of Stealth"
+entry = "ref/magic-staff/staff-of-stealth"
+
+[[books.chapters.children.children]]
+title = "Staff of Toxins"
+entry = "ref/magic-staff/staff-of-toxins"
+
+[[books.chapters.children.children]]
+title = "Staff of Traps"
+entry = "ref/magic-staff/staff-of-traps"
+
+[[books.chapters.children.children]]
+title = "Staff of Vision"
+entry = "ref/magic-staff/staff-of-vision"
+
+[[books.chapters.children.children]]
+title = "Staff of Weather"
+entry = "ref/magic-staff/staff-of-weather"
+
+[[books.chapters.children]]
+title = "Wondrous Items"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/wondrous-items"
+
+[[books.chapters.children.children]]
+title = "All Tools Vest"
+entry = "ref/magic-wondrous/all-tools-vest"
+
+[[books.chapters.children.children]]
+title = "Amulet of Magecraft"
+entry = "ref/magic-wondrous/amulet-of-magecraft"
+
+[[books.chapters.children.children]]
+title = "Amulet of Spell Cunning"
+entry = "ref/magic-wondrous/amulet-of-spell-cunning"
+
+[[books.chapters.children.children]]
+title = "Annihilation Spectacles"
+entry = "ref/magic-wondrous/annihilation-spectacles"
+
+[[books.chapters.children.children]]
+title = "Apple of Eternal Sleep"
+entry = "ref/magic-wondrous/apple-of-eternal-sleep"
+
+[[books.chapters.children.children]]
+title = "Assisting Glove"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/wondrous-items/assisting-glove"
+
+[[books.chapters.children.children.children]]
+title = "Assisting Gloves"
+entry = "ref/magic-wondrous/assisting-gloves"
+
+[[books.chapters.children.children]]
+title = "Bandages of Rapid Recovery"
+entry = "ref/magic-wondrous/bandages-of-rapid-recovery"
+
+[[books.chapters.children.children]]
+title = "Book of the Loremaster"
+entry = "ref/magic-wondrous/book-of-the-loremaster"
+
+[[books.chapters.children.children]]
+title = "Boots of Friendly Terrain"
+entry = "ref/magic-wondrous/boots-of-friendly-terrain"
+
+[[books.chapters.children.children]]
+title = "Bottle of Messages"
+entry = "ref/magic-wondrous/bottle-of-messages"
+
+[[books.chapters.children.children]]
+title = "Bracelet of Mercy"
+entry = "ref/magic-wondrous/bracelet-of-mercy"
+
+[[books.chapters.children.children]]
+title = "Campfire Bead"
+entry = "ref/magic-wondrous/campfire-bead"
+
+[[books.chapters.children.children]]
+title = "Catching Cape"
+entry = "ref/magic-wondrous/catching-cape"
+
+[[books.chapters.children.children]]
+title = "Cauldron of Brewing"
+entry = "ref/magic-wondrous/cauldron-of-brewing"
+
+[[books.chapters.children.children]]
+title = "Cauldron of Flying"
+entry = "ref/magic-wondrous/cauldron-of-flying"
+
+[[books.chapters.children.children]]
+title = "Cauldron of Plenty"
+entry = "ref/magic-wondrous/cauldron-of-plenty"
+
+[[books.chapters.children.children]]
+title = "Cauldron of Resurrection"
+entry = "ref/magic-wondrous/cauldron-of-resurrection"
+
+[[books.chapters.children.children]]
+title = "Cauldron of Seeing"
+entry = "ref/magic-wondrous/cauldron-of-seeing"
+
+[[books.chapters.children.children]]
+title = "Cauldron of the Dead"
+entry = "ref/magic-wondrous/cauldron-of-the-dead"
+
+[[books.chapters.children.children]]
+title = "Clamor Box"
+entry = "ref/magic-wondrous/clamor-box"
+
+[[books.chapters.children.children]]
+title = "Construct Channel Brick"
+entry = "ref/magic-wondrous/construct-channel-brick"
+
+[[books.chapters.children.children]]
+title = "Cowardly Crouching Cloak"
+entry = "ref/magic-wondrous/cowardly-crouching-cloak"
+
+[[books.chapters.children.children]]
+title = "Crystal of Healing Hands"
+entry = "ref/magic-wondrous/crystal-of-healing-hands"
+
+[[books.chapters.children.children]]
+title = "Defoliant Polish"
+entry = "ref/magic-wondrous/defoliant-polish"
+
+[[books.chapters.children.children]]
+title = "Doomharp"
+entry = "ref/magic-wondrous/doomharp"
+
+[[books.chapters.children.children]]
+title = "Dust of Emulation"
+entry = "ref/magic-wondrous/dust-of-emulation"
+
+[[books.chapters.children.children]]
+title = "Flying Ointment"
+entry = "ref/magic-wondrous/flying-ointment"
+
+[[books.chapters.children.children]]
+title = "Gloves of Dueling"
+entry = "ref/magic-wondrous/gloves-of-dueling"
+
+[[books.chapters.children.children]]
+title = "Glowing Glove"
+entry = "ref/magic-wondrous/glowing-glove"
+
+[[books.chapters.children.children]]
+title = "Grappler's Mask"
+entry = "ref/magic-wondrous/grapplers-mask"
+
+[[books.chapters.children.children]]
+title = "Helm of Fearsome Mien"
+entry = "ref/magic-wondrous/helm-of-fearsome-mien"
+
+[[books.chapters.children.children]]
+title = "Horn of Antagonism"
+entry = "ref/magic-wondrous/horn-of-antagonism"
+
+[[books.chapters.children.children]]
+title = "Horn of the Huntmaster"
+entry = "ref/magic-wondrous/horn-of-the-huntmaster"
+
+[[books.chapters.children.children]]
+title = "Ioun Torch"
+entry = "ref/magic-wondrous/ioun-torch"
+
+[[books.chapters.children.children]]
+title = "Key of Lock Jamming"
+entry = "ref/magic-wondrous/key-of-lock-jamming"
+
+[[books.chapters.children.children]]
+title = "Ki Mat"
+entry = "ref/magic-wondrous/ki-mat"
+
+[[books.chapters.children.children]]
+title = "Knight's Pennon"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/wondrous-items/knights-pennon"
+
+[[books.chapters.children.children.children]]
+title = "Knight's Pennon (Battle)"
+entry = "ref/magic-wondrous/knights-pennon-battle"
+
+[[books.chapters.children.children.children]]
+title = "Knight's Pennon (Honor)"
+entry = "ref/magic-wondrous/knights-pennon-honor"
+
+[[books.chapters.children.children.children]]
+title = "Knight's Pennon (Parley)"
+entry = "ref/magic-wondrous/knights-pennon-parley"
+
+[[books.chapters.children.children]]
+title = "Lord's Banner"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/wondrous-items/lords-banner"
+
+[[books.chapters.children.children.children]]
+title = "Lord's Banner (Crusades)"
+entry = "ref/magic-wondrous/lords-banner-crusades"
+
+[[books.chapters.children.children.children]]
+title = "Lord's Banner (Swiftness)"
+entry = "ref/magic-wondrous/lords-banner-swiftness"
+
+[[books.chapters.children.children.children]]
+title = "Lord's Banner (Terror)"
+entry = "ref/magic-wondrous/lords-banner-terror"
+
+[[books.chapters.children.children.children]]
+title = "Lord's Banner (Victory)"
+entry = "ref/magic-wondrous/lords-banner-victory"
+
+[[books.chapters.children.children]]
+title = "Manacles of Cooperation"
+entry = "ref/magic-wondrous/manacles-of-cooperation"
+
+[[books.chapters.children.children]]
+title = "Mask of Giants"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/wondrous-items/mask-of-giants"
+
+[[books.chapters.children.children.children]]
+title = "Mask of Giants (Greater)"
+entry = "ref/magic-wondrous/mask-of-giants-greater"
+
+[[books.chapters.children.children.children]]
+title = "Mask of Giants (Lesser)"
+entry = "ref/magic-wondrous/mask-of-giants-lesser"
+
+[[books.chapters.children.children]]
+title = "Moon Circlet"
+entry = "ref/magic-wondrous/moon-circlet"
+
+[[books.chapters.children.children]]
+title = "Muleback Cords"
+entry = "ref/magic-wondrous/muleback-cords"
+
+[[books.chapters.children.children]]
+title = "Necklace of Ki Serenity"
+entry = "ref/magic-wondrous/necklace-of-ki-serenity"
+
+[[books.chapters.children.children]]
+title = "Necromancer's Athame"
+entry = "ref/magic-wondrous/necromancers-athame"
+
+[[books.chapters.children.children]]
+title = "Philter of Love"
+entry = "ref/magic-wondrous/philter-of-love"
+
+[[books.chapters.children.children]]
+title = "Robes of Arcane Heritage"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/wondrous-items/robes-of-arcane-heritage"
+
+[[books.chapters.children.children.children]]
+title = "Robe of Arcane Heritage"
+entry = "ref/magic-wondrous/robe-of-arcane-heritage"
+
+[[books.chapters.children.children]]
+title = "Sash of the War Champion"
+entry = "ref/magic-wondrous/sash-of-the-war-champion"
+
+[[books.chapters.children.children]]
+title = "Scabbard of Stanching"
+entry = "ref/magic-wondrous/scabbard-of-stanching"
+
+[[books.chapters.children.children]]
+title = "Scabbard of Vigor"
+entry = "ref/magic-wondrous/scabbard-of-vigor"
+
+[[books.chapters.children.children]]
+title = "Sheath of Bladestealth"
+entry = "ref/magic-wondrous/sheath-of-bladestealth"
+
+[[books.chapters.children.children]]
+title = "Silver Smite Bracelet"
+entry = "ref/magic-wondrous/silver-smite-bracelet"
+
+[[books.chapters.children.children]]
+title = "Sniper Goggles"
+entry = "ref/magic-wondrous/sniper-goggles"
+
+[[books.chapters.children.children.children]]
+title = "Sniper Goggles (Greater)"
+entry = "ref/magic-wondrous/sniper-goggles-greater"
+
+[[books.chapters.children.children]]
+title = "Soul Soap"
+entry = "ref/magic-wondrous/soul-soap"
+
+[[books.chapters.children.children]]
+title = "Torc of Lionheart Fury"
+entry = "ref/magic-wondrous/torc-of-lionheart-fury"
+
+[[books.chapters.children.children]]
+title = "Vest of the Cockroach"
+entry = "ref/magic-wondrous/vest-of-the-cockroach"
+
+[[books.chapters.children.children]]
+title = "War Paint of the Terrible Visage"
+entry = "ref/magic-wondrous/war-paint-of-the-terrible-visage"
+
+[[books.chapters.children]]
+title = "Cursed Items"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/cursed-items"
+
+[[books.chapters.children.children]]
+title = "Buffoon's Sword"
+entry = "ref/magic-weapon/buffoons-sword"
+
+[[books.chapters.children.children]]
+title = "Cannibal Ring"
+entry = "ref/magic-ring/cannibal-ring"
+
+[[books.chapters.children.children]]
+title = "Cloak of Immolation"
+entry = "ref/magic-wondrous/cloak-of-immolation"
+
+[[books.chapters.children.children]]
+title = "Crown of Blindness"
+entry = "ref/magic-wondrous/crown-of-blindness"
+
+[[books.chapters.children.children]]
+title = "Girdle of Opposite Gender"
+entry = "ref/magic-wondrous/girdle-of-opposite-gender"
+
+[[books.chapters.children.children]]
+title = "Gravesoul Armor"
+entry = "ref/magic-armor/gravesoul-armor"
+
+[[books.chapters.children.children]]
+title = "Hat of Hatreds"
+entry = "ref/magic-wondrous/hat-of-hatreds"
+
+[[books.chapters.children.children]]
+title = "One-Way Window"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/cursed-items/one-way-window"
+
+[[books.chapters.children.children.children]]
+title = "One-Way Window (cursed)"
+entry = "ref/magic-wondrous/one-way-window-cursed"
+
+[[books.chapters.children.children]]
+title = "Planar Invasion Shield"
+entry = "ref/magic-armor/planar-invasion-shield"
+
+[[books.chapters.children.children]]
+title = "Ring of Truth"
+entry = "ref/magic-ring/ring-of-truth"
+
+[[books.chapters.children.children]]
+title = "Riot Pipes"
+entry = "ref/magic-wondrous/riot-pipes"
+
+[[books.chapters.children.children]]
+title = "Rod of Arson"
+entry = "ref/magic-rod/rod-of-arson"
+
+[[books.chapters.children]]
+title = "Minor Artifacts"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/minor-artifacts"
+
+[[books.chapters.children.children]]
+title = "Beacon of True Faith"
+entry = "ref/magic-artifact/beacon-of-true-faith"
+
+[[books.chapters.children.children]]
+title = "Hammer of Thunderbolts"
+entry = "ref/magic-artifact/hammer-of-thunderbolts"
+
+[[books.chapters.children.children]]
+title = "Knucklebone of Fickle Fortune"
+entry = "ref/magic-artifact/knucklebone-of-fickle-fortune"
+
+[[books.chapters.children.children]]
+title = "Perfect Golden Lute"
+entry = "ref/magic-artifact/perfect-golden-lute"
+
+[[books.chapters.children.children]]
+title = "Spindle of Perfect Knowledge"
+entry = "ref/magic-artifact/spindle-of-perfect-knowledge"
+
+[[books.chapters.children.children]]
+title = "Talisman of Reluctant Wishes"
+entry = "ref/magic-artifact/talisman-of-reluctant-wishes"
+
+[[books.chapters.children]]
+title = "Major Artifacts"
+entry = "ref/carried/advanced-players-guide/rules/magic-items/major-artifacts"
+
+[[books.chapters.children.children]]
+title = "Bottle of the Bound"
+entry = "ref/magic-artifact/bottle-of-the-bound"
+
+[[books.chapters.children.children]]
+title = "Cloud Castle Of The Storm King"
+entry = "ref/magic-artifact/cloud-castle-of-the-storm-king"
+
+[[books.chapters.children.children]]
+title = "Fork of the Forgotten One"
+entry = "ref/magic-artifact/fork-of-the-forgotten-one"
+
+[[books.chapters.children.children]]
+title = "The Moaning Diamond"
+entry = "ref/magic-artifact/the-moaning-diamond"
+
+[[books.chapters.children.children]]
+title = "The Shield of the Sun"
+entry = "ref/magic-artifact/the-shield-of-the-sun"
+
+[[books.chapters]]
+title = "New Rules"
+entry = "ref/carried/advanced-players-guide/rules/new-rules"
+
+[[books.chapters.children]]
+title = "Combat Maneuvers"
+entry = "ref/carried/advanced-players-guide/rules/new-rules/combat-maneuvers"
+
+[[books.chapters.children.children]]
+title = "Dirty Trick"
+entry = "ref/rule/dirty-trick"
+
+[[books.chapters.children.children]]
+title = "Drag"
+entry = "ref/rule/drag"
+
+[[books.chapters.children.children]]
+title = "Reposition"
+entry = "ref/rule/reposition"
+
+[[books.chapters.children.children]]
+title = "Steal"
+entry = "ref/rule/steal"
+
+[[books.chapters.children]]
+title = "Hero Points"
+entry = "ref/rule/hero-points"
+
+[[books.chapters.children.children]]
+title = "Awarding Hero Points"
+entry = "ref/rule/awarding-hero-points"
+
+[[books.chapters.children.children]]
+title = "Using Hero Points"
+entry = "ref/rule/using-hero-points"
+
+[[books.chapters.children.children]]
+title = "Antiheroes"
+entry = "ref/rule/antiheroes"
+
+[[books.chapters.children.children]]
+title = "Hero Points for GMs"
+entry = "ref/rule/hero-points-for-gms"
+
+[[books.chapters.children.children]]
+title = "Hero Point Feats"
+anchor = "hero-point-feats"
+
+[[books.chapters.children.children.children]]
+title = "Blood of Heroes"
+entry = "ref/feat/blood-of-heroes"
+
+[[books.chapters.children.children.children]]
+title = "Hero's Fortune"
+entry = "ref/feat/heros-fortune"
+
+[[books.chapters.children.children.children]]
+title = "Luck of Heroes"
+entry = "ref/feat/luck-of-heroes"
+
+[[books.chapters.children.children]]
+title = "Hero Point Spells"
+anchor = "hero-point-spells"
+
+[[books.chapters.children.children.children]]
+title = "Heroic Fortune"
+entry = "ref/spell/heroic-fortune"
+
+[[books.chapters.children.children.children]]
+title = "Heroic Fortune, Mass"
+entry = "ref/carried/advanced-players-guide/rules/new-rules/hero-points/hero-point-spells/heroic-fortune/mass"
+
+[[books.chapters.children.children.children]]
+title = "Malediction"
+entry = "ref/carried/advanced-players-guide/rules/new-rules/hero-points/hero-point-spells/malediction"
+
+[[books.chapters.children.children.children]]
+title = "Malediction (Hero Points)"
+entry = "ref/spell/malediction-hero-points"
+
+[[books.chapters.children.children.children]]
+title = "Mass Heroic Fortune"
+entry = "ref/spell/heroic-fortune-mass"
+
+[[books.chapters.children.children.children]]
+title = "Severed Fate"
+entry = "ref/spell/severed-fate"
+
+[[books.chapters.children.children.children]]
+title = "Unravel Destiny"
+entry = "ref/spell/unravel-destiny"
+
+[[books.chapters.children.children]]
+title = "Hero Point Magic Items"
+anchor = "hero-point-magic-items"
+
+[[books.chapters.children.children.children]]
+title = "Elixir of Luck"
+entry = "ref/magic-wondrous/elixir-of-luck"
+
+[[books.chapters.children.children.children]]
+title = "Hero's Blade"
+entry = "ref/magic-weapon/heros-blade"
+
+[[books.chapters.children.children.children]]
+title = "Reaver's Scythe"
+entry = "ref/magic-weapon/reavers-scythe"
+
+[[books.chapters.children.children.children]]
+title = "Ring of Heroes"
+entry = "ref/magic-ring/ring-of-heroes"
+
+[[books.chapters.children.children.children]]
+title = "Staff of Fortune"
+entry = "ref/magic-staff/staff-of-fortune"
+
+[[books.chapters.children]]
+title = "Traits"
+entry = "ref/rule/traits"
+
+[[books.chapters.children.children]]
+title = "Gaining Traits"
+entry = "ref/rule/gaining-traits"
+
+[[books.chapters.children.children]]
+title = "Restrictions on Trait Selection"
+entry = "ref/rule/restrictions-on-trait-selection"
+
+[[books.chapters.children.children]]
+title = "Types of Traits"
+entry = "ref/rule/types-of-traits"
+
+[[books.chapters.children.children]]
+title = "Basic Traits"
+anchor = "basic-traits-2"
+
+[[books.chapters.children.children.children]]
+title = "Combat Traits"
+anchor = "combat-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Anatomist"
+entry = "ref/trait/anatomist"
+
+[[books.chapters.children.children.children.children]]
+title = "Armor Expert"
+entry = "ref/trait/armor-expert"
+
+[[books.chapters.children.children.children.children]]
+title = "Bullied"
+entry = "ref/trait/bullied"
+
+[[books.chapters.children.children.children.children]]
+title = "Courageous"
+entry = "ref/trait/courageous"
+
+[[books.chapters.children.children.children.children]]
+title = "Deft Dodger"
+entry = "ref/trait/deft-dodger"
+
+[[books.chapters.children.children.children.children]]
+title = "Dirty Fighter"
+entry = "ref/trait/dirty-fighter-apg"
+
+[[books.chapters.children.children.children.children]]
+title = "Fencer"
+entry = "ref/trait/fencer"
+
+[[books.chapters.children.children.children.children]]
+title = "Killer"
+entry = "ref/trait/killer"
+
+[[books.chapters.children.children.children.children]]
+title = "Reactionary"
+entry = "ref/trait/reactionary"
+
+[[books.chapters.children.children.children.children]]
+title = "Resilient"
+entry = "ref/trait/resilient"
+
+[[books.chapters.children.children.children]]
+title = "Faith Traits"
+anchor = "faith-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Birthmark"
+entry = "ref/trait/birthmark"
+
+[[books.chapters.children.children.children.children]]
+title = "Caretaker"
+entry = "ref/trait/caretaker"
+
+[[books.chapters.children.children.children.children]]
+title = "Child of the Temple"
+entry = "ref/trait/child-of-the-temple"
+
+[[books.chapters.children.children.children.children]]
+title = "Devotee of the Green"
+entry = "ref/trait/devotee-of-the-green"
+
+[[books.chapters.children.children.children.children]]
+title = "Ease of Faith"
+entry = "ref/trait/ease-of-faith"
+
+[[books.chapters.children.children.children.children]]
+title = "History of Heresy"
+entry = "ref/trait/history-of-heresy"
+
+[[books.chapters.children.children.children.children]]
+title = "Indomitable Faith"
+entry = "ref/trait/indomitable-faith"
+
+[[books.chapters.children.children.children.children]]
+title = "Sacred Conduit"
+entry = "ref/trait/sacred-conduit"
+
+[[books.chapters.children.children.children.children]]
+title = "Sacred Touch"
+entry = "ref/trait/sacred-touch"
+
+[[books.chapters.children.children.children.children]]
+title = "Scholar of the Great Beyond"
+entry = "ref/trait/scholar-of-the-great-beyond"
+
+[[books.chapters.children.children.children]]
+title = "Magic Traits"
+anchor = "magic-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Classically Schooled"
+entry = "ref/trait/classically-schooled"
+
+[[books.chapters.children.children.children.children]]
+title = "Dangerously Curious"
+entry = "ref/trait/dangerously-curious"
+
+[[books.chapters.children.children.children.children]]
+title = "Focused Mind"
+entry = "ref/trait/focused-mind"
+
+[[books.chapters.children.children.children.children]]
+title = "Gifted Adept"
+entry = "ref/trait/gifted-adept"
+
+[[books.chapters.children.children.children.children]]
+title = "Hedge Magician"
+entry = "ref/trait/hedge-magician"
+
+[[books.chapters.children.children.children.children]]
+title = "Magical Knack"
+entry = "ref/trait/magical-knack"
+
+[[books.chapters.children.children.children.children]]
+title = "Magical Lineage"
+entry = "ref/trait/magical-lineage"
+
+[[books.chapters.children.children.children.children]]
+title = "Magical Talent"
+entry = "ref/trait/magical-talent"
+
+[[books.chapters.children.children.children.children]]
+title = "Mathematical Prodigy"
+entry = "ref/trait/mathematical-prodigy"
+
+[[books.chapters.children.children.children.children]]
+title = "Skeptic"
+entry = "ref/trait/skeptic"
+
+[[books.chapters.children.children.children]]
+title = "Social Traits"
+anchor = "social-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Adopted"
+entry = "ref/trait/adopted"
+
+[[books.chapters.children.children.children.children]]
+title = "Bully"
+entry = "ref/trait/bully"
+
+[[books.chapters.children.children.children.children]]
+title = "Canter"
+entry = "ref/trait/canter"
+
+[[books.chapters.children.children.children.children]]
+title = "Charming"
+entry = "ref/trait/charming"
+
+[[books.chapters.children.children.children.children]]
+title = "Child of the Streets"
+entry = "ref/trait/child-of-the-streets"
+
+[[books.chapters.children.children.children.children]]
+title = "Fast-Talker"
+entry = "ref/trait/fast-talker"
+
+[[books.chapters.children.children.children.children]]
+title = "Natural-Born Leader"
+entry = "ref/trait/natural-born-leader-social"
+
+[[books.chapters.children.children.children.children]]
+title = "Poverty-Stricken"
+entry = "ref/trait/poverty-stricken"
+
+[[books.chapters.children.children.children.children]]
+title = "Rich Parents"
+entry = "ref/trait/rich-parents"
+
+[[books.chapters.children.children.children.children]]
+title = "Suspicious"
+entry = "ref/trait/suspicious"
+
+[[books.chapters.children.children]]
+title = "Campaign Traits"
+anchor = "campaign-traits-2"
+
+[[books.chapters.children.children.children]]
+title = "Black Sheep"
+entry = "ref/trait/black-sheep"
+
+[[books.chapters.children.children.children]]
+title = "Favored Son/Daughter"
+entry = "ref/carried/advanced-players-guide/rules/new-rules/traits/campaign-traits/favored-son-daughter"
+
+[[books.chapters.children.children.children]]
+title = "Favored Son or Daughter"
+entry = "ref/trait/favored-son-or-daughter"
+
+[[books.chapters.children.children.children]]
+title = "Outlander"
+entry = "ref/trait/outlander"
+
+[[books.chapters.children.children]]
+title = "Race Traits"
+anchor = "race-traits-2"
+
+[[books.chapters.children.children.children]]
+title = "Dwarf Race Traits"
+anchor = "dwarf-race-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Goldsniffer"
+entry = "ref/trait/goldsniffer"
+
+[[books.chapters.children.children.children.children]]
+title = "Tunnel Fighter"
+entry = "ref/trait/tunnel-fighter"
+
+[[books.chapters.children.children.children]]
+title = "Elf Race Traits"
+anchor = "elf-race-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Forlorn"
+entry = "ref/trait/forlorn"
+
+[[books.chapters.children.children.children.children]]
+title = "Warrior of Old"
+entry = "ref/trait/warrior-of-old"
+
+[[books.chapters.children.children.children]]
+title = "Gnome Race Traits"
+anchor = "gnome-race-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Animal Friend"
+entry = "ref/trait/animal-friend"
+
+[[books.chapters.children.children.children.children]]
+title = "Rapscallion"
+entry = "ref/trait/rapscallion"
+
+[[books.chapters.children.children.children]]
+title = "Half-Elf Race Traits"
+anchor = "half-elf-race-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Elven Reflexes"
+entry = "ref/trait/elven-reflexes"
+
+[[books.chapters.children.children.children.children]]
+title = "Failed Apprentice"
+entry = "ref/trait/failed-apprentice"
+
+[[books.chapters.children.children.children]]
+title = "Half-Orc Race Traits"
+anchor = "half-orc-race-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Brute"
+entry = "ref/trait/brute-apg"
+
+[[books.chapters.children.children.children.children]]
+title = "Outcast"
+entry = "ref/trait/outcast"
+
+[[books.chapters.children.children.children]]
+title = "Halfling Race Traits"
+anchor = "halfling-race-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Freedom Fighter"
+entry = "ref/trait/freedom-fighter-halfling"
+
+[[books.chapters.children.children.children.children]]
+title = "Well-Informed"
+entry = "ref/trait/well-informed"
+
+[[books.chapters.children.children.children]]
+title = "Human Race Traits"
+anchor = "human-race-traits"
+
+[[books.chapters.children.children.children.children]]
+title = "Scholar of Ruins"
+entry = "ref/trait/scholar-of-ruins"
+
+[[books.chapters.children.children.children.children]]
+title = "World Traveler"
+entry = "ref/trait/world-traveler"
+
+[[books.chapters.children.children]]
+title = "Regional Traits"
+anchor = "regional-traits-2"
+
+[[books.chapters.children.children.children]]
+title = "Desert Child"
+entry = "ref/trait/desert-child"
+
+[[books.chapters.children.children.children]]
+title = "Highlander"
+entry = "ref/trait/highlander"
+
+[[books.chapters.children.children.children]]
+title = "Log Roller"
+entry = "ref/trait/log-roller"
+
+[[books.chapters.children.children.children]]
+title = "Militia Veteran"
+entry = "ref/trait/militia-veteran"
+
+[[books.chapters.children.children.children]]
+title = "River Rat"
+entry = "ref/trait/river-rat"
+
+[[books.chapters.children.children.children]]
+title = "Savanna Child"
+entry = "ref/trait/savanna-child"
+
+[[books.chapters.children.children.children]]
+title = "Vagabond Child"
+entry = "ref/trait/vagabond-child"
+
+[[books.chapters.children.children]]
+title = "Religion Traits"
+anchor = "religion-traits-2"
+
+[[books.chapters.children.children.children]]
+title = "Calistrian Courtesan"
+entry = "ref/trait/calistrian-courtesan"
+
+[[books.chapters.children.children.children]]
+title = "Child of Nature"
+entry = "ref/trait/child-of-nature"
+
+[[books.chapters.children.children.children]]
+title = "Demon Hunter"
+entry = "ref/trait/demon-hunter"
+
+[[books.chapters.children.children.children]]
+title = "Divine Courtesan"
+entry = "ref/carried/advanced-players-guide/rules/new-rules/traits/religion-traits/divine-courtesan"
+
+[[books.chapters.children.children.children]]
+title = "Divine Warrior"
+entry = "ref/trait/divine-warrior"
+
+[[books.chapters.children.children.children]]
+title = "Ear for Music"
+entry = "ref/trait/ear-for-music"
+
+[[books.chapters.children.children.children]]
+title = "Eyes and Ears of the City"
+entry = "ref/trait/eyes-and-ears-of-the-city"
+
+[[books.chapters.children.children.children]]
+title = "Flame of the Dawnflower"
+entry = "ref/trait/flame-of-the-dawnflower"
+
+[[books.chapters.children.children.children]]
+title = "Fortified Drinker"
+entry = "ref/trait/fortified-drinker"
+
+[[books.chapters.children.children.children]]
+title = "Guardian of the Forge"
+entry = "ref/trait/guardian-of-the-forge"
+
+[[books.chapters.children.children.children]]
+title = "Magic is Life"
+entry = "ref/trait/magic-is-life"
+
+[[books.chapters.children.children.children]]
+title = "Patient Optimist"
+entry = "ref/trait/patient-optimist"
+
+[[books.chapters.children.children.children]]
+title = "Starchild"
+entry = "ref/trait/starchild"
+
+[[books.chapters.children.children.children]]
+title = "Undead Slayer"
+entry = "ref/trait/undead-slayer-pharasma"
+
+[[books.chapters.children.children.children]]
+title = "Veteran of Battle"
+entry = "ref/trait/veteran-of-battle"
+
+[[books.chapters.children.children.children]]
+title = "Wisdom in the Flesh"
+entry = "ref/trait/wisdom-in-the-flesh"

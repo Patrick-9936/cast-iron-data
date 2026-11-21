@@ -170,6 +170,10 @@ A stat appears in the typed front matter (search and filters read it) and in the
 5. Write the body. Link other entries with `[text](ref/...)`.
 6. Run `cast-iron-corpus fmt .`, then `cast-iron-corpus check .`.
 
+An entry joins a book through `source_ids`, and its `page` in the `[[sources]]` row of that book
+puts it in the book's page order. Do not edit a book file for that: only the 16 books in `books/`
+have a stored chapter order, and the compiler builds every other book from the pages.
+
 A feat's prerequisites are `prerequisites = "..."` (the words) and `prerequisite_feats = [...]`
 (the ids of the feats it names). The prerequisite relations are derived from that list; do not
 write them in `relations`.

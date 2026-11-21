@@ -6,7 +6,7 @@ license covers all of it. Each part is covered by the license listed here.
 | Part | License | Where |
 |---|---|---|
 | The corpus format, the contributor kit, the examples, the workflow, and the repository structure | MIT | [LICENSES/MIT.txt](LICENSES/MIT.txt) |
-| Open Game Content in the entries (`entries/`, `books.toml`, `publications.toml`, `aliases.toml`, and the other corpus files to the extent they carry Open Game Content) | Open Game License v1.0a | [LICENSES/OGL-1.0a.md](LICENSES/OGL-1.0a.md) |
+| Open Game Content in the entries (`entries/`, `books/`, `publications.toml`, `aliases.toml`, and the other corpus files to the extent they carry Open Game Content) | Open Game License v1.0a | [LICENSES/OGL-1.0a.md](LICENSES/OGL-1.0a.md) |
 | Section 15 copyright notices | OGL 1.0a Section 15 | [LICENSES/OGL-1.0a.md](LICENSES/OGL-1.0a.md) and `legal.toml` |
 | Paizo Product Identity (names, deities, places, characters, and similar setting content) | Paizo's Community Use Policy | [LICENSES/community-use.md](LICENSES/community-use.md) |
 
