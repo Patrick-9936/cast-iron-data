@@ -22,9 +22,9 @@ aspect gain profound insight as well as remarkable resilience.
 
 **Passive:** You gain a +2 enhancement bonus to Wisdom.
 
-At 8th level: The bonus increases to +4.
+**At 8th level,** the bonus increases to +4.
 
-At 15th level: The bonus increases to +6.
+**At 15th level,** the bonus increases to +6.
 
 **Major Form**
 
@@ -33,11 +33,11 @@ At 15th level: The bonus increases to +6.
 [low-light vision](ref/rule/low-light-vision), [scent](ref/umr/scent) (30 feet), a swim speed of 20
 feet, and a [bite attack](ref/umr/natural-attacks) (1d8 + 1-1/2 your Strength modifier damage).
 
-**At 15th Level:** You gain DR 5/silver.
-
-**At 8th Level:** You gain an insight bonus equal to your Wisdom modifier to your CMD against
+**At 8th level,** you gain an insight bonus equal to your Wisdom modifier to your CMD against
 [bull rush](ref/rule/bull-rush), [drag](ref/rule/drag), [overrun](ref/rule/overrun),
 [reposition](ref/rule/reposition), and [trip](ref/rule/trip) attempts.
+
+**At 15th level,** you gain DR 5/silver.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

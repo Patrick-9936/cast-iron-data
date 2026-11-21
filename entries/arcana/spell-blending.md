@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Spell Blending (Ex):**
+**Spell Blending (Ex)**
 
 **Ability:** When a magus selects this arcana, he must select one spell from the wizard spell list
 that is of a magus spell level he can cast. He adds this spell to his spellbook and list of magus

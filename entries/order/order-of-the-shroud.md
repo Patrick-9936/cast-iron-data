@@ -45,29 +45,29 @@ level.
 
 **Spiritual Shield (Su)**
 
+**Gained:** At 2nd Level
+
 **Flavor:** The cavalier can call upon the spirits of the fallen for protection.
 
 **Immediate:** Once per day when attacked by an undead target of his _challenge,_ the cavalier can
 gain a deflection bonus equal to his Charisma modifier to his AC against that attack. The cavalier
 must decide to use this ability before the attack roll.
 
-**Gained:** At 2nd Level
-
 **Destroyer of the Undead (Su)**
+
+**Gained:** At 8th Level
 
 **Ability:** The cavalier's weapons are treated as having the cavalier's alignment for the purpose
 of overcoming the [damage reduction](ref/rule/damage-reduction) of undead creatures. Against an
 undead target of his _challenge,_ the cavalier automatically overcomes all damage reduction that
 undead possesses.
 
-**Gained:** At 8th Level
-
 **Stand Against Darkness (Ex or Su)**
+
+**Gained:** At 15th Level
 
 **Flavor:** The cavalier can take revenge on undead that dare strike him or those he seeks to
 protect.
-
-**Gained:** At 15th Level
 
 **Passive:** Whenever an undead creature that is the subject of his _challenge_ hits the cavalier or
 an adjacent ally with a melee attack, the creature provokes an attack of opportunity from the

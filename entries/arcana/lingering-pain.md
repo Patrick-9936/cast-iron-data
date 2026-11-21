@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Lingering Pain (Su):**
+**Lingering Pain (Su)**
 
 **Immediate:** The magus can expend 1 point from his arcane pool after hitting a target with a
 weapon attack. All damage from that attack (including damage from a spell cast using the spellstrike

@@ -33,11 +33,11 @@ attack, you may add +4 to the confirmation roll. This does not stack with the
 
 **Chains of Justice (Su)**
 
+**Gained:** At 6th Level
+
 **Ability:** Once per day, you can bind an opponent within 60 feet to you with spectral chains (Will
 negates). When you take damage from an enemy, the bound target takes this damage as well. Whenever
 the bound target takes damage from you or one of your allies, you take this damage as well. You and
 the target are not physically bound to each other, and either can end the connection by breaking the
 line of effect or exceeding the ability's range. You may dismiss the chains as a **standard
 action**.
-
-**Gained:** At 6th Level

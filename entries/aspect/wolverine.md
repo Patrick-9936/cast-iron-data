@@ -21,13 +21,13 @@ expect.
 
 **Minor Form**
 
-**At 15th Level:** You treat your Constitution as being 8 points higher for the purpose of
-determining when you die at negative hit points.
-
-**At 8th Level:** You gain [Diehard](ref/feat/diehard) as a bonus feat.
-
 **Passive:** You gain 1 additional hit point per Hit Die you have, and treat your Constitution score
 as 4 points higher than it is for the purpose of determining when you die at negative hit points.
+
+**At 8th level,** you gain [Diehard](ref/feat/diehard) as a bonus feat.
+
+**At 15th level,** you treat your Constitution as being 8 points higher for the purpose of
+determining when you die at negative hit points.
 
 **Major Form**
 
@@ -41,10 +41,10 @@ activate this rage only in a round after you've taken damage. You can _rage_ for
 each day equal to your shifter level. This ability otherwise functions the same as the barbarian
 _rage_ ability (unlike a dire wolverine, you can choose to end this rage voluntarily).
 
-**At 15th Level:** You are no longer [fatigued](ref/misc/fatigued) at the end of your rage.
-
-**At 8th Level:** You can choose two barbarian rage powers, treating your shifter level as your
+**At 8th level,** you can choose two barbarian rage powers, treating your shifter level as your
 effective barbarian level for the purposes of meeting prerequisites.
+
+**At 15th level,** you are no longer [fatigued](ref/misc/fatigued) at the end of your rage.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

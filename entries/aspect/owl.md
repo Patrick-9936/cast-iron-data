@@ -22,9 +22,9 @@ stealthy attacks.
 
 **Passive:** You gain a +4 competence bonus on Stealth checks.
 
-At 8th level: The bonus increases to +6.
+**At 8th level,** the bonus increases to +6.
 
-At 15th level: The bonus increases to +8.
+**At 15th level,** the bonus increases to +8.
 
 **Major Form**
 
@@ -33,13 +33,13 @@ form, you gain a base speed of 30 feet, a fly speed of 60 feet (average), two ta
 damage), [darkvision](ref/rule/darkvision) with a range of 60 feet, and a +2 racial bonus on Stealth
 checks.
 
-**At 15th Level:** You can take the form of a Large owl and gain the benefits of the
+**At 8th level,** you gain [Flyby Attack](ref/feat/flyby-attack) as a bonus feat, and the range of
+your [darkvision](ref/rule/darkvision) increases to 120 feet.
+
+**At 15th level,** you can take the form of a Large owl and gain the benefits of the
 [Snatch](ref/feat/snatch) feat, but you can use it only to grab a creature at least one size
 category smaller than yourself, and you can squeeze a creature grappled with this ability no matter
 what size it is.
-
-**At 8th Level:** You gain [Flyby Attack](ref/feat/flyby-attack) as a bonus feat, and the range of
-your [darkvision](ref/rule/darkvision) increases to 120 feet.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

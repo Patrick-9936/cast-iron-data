@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Arcane Edge (Su):**
+**Arcane Edge (Su)**
 
 **Immediate:** The magus can expend 1 point from his arcane pool after hitting a target with a
 slashing or piercing weapon in order to deal an amount of [bleed](ref/rule/bleed) damage equal to

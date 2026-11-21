@@ -76,6 +76,8 @@ the shaken condition when she activates the ability.
 
 **Better You Than Me (Ex)**
 
+**Gained:** At 15th Level
+
 **Immediate:** The cavalier can interpose an adjacent ally in the way of an incoming attack, gaining
 [cover](ref/rule/cover) against the attack. The attack must target only the cavalier, and she must
 choose to use this ability before seeing the result of the attack roll. The ally must have the
@@ -86,5 +88,3 @@ her Strength modifier or Charisma modifier).
 If the attack hits, the damage is split evenly between the cavalier and the ally. If the ally's save
 was a natural 1, the ally takes all of the damage, including any associated effects (bleed, poison,
 etc.). An ally can purposefully fail this saving throw, but cannot purposefully roll a natural 1.
-
-**Gained:** At 15th Level

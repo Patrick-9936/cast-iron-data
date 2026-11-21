@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Clinging Pool Strike (Su):**
+**Clinging Pool Strike (Su)**
 
 **Ability:** The magus can expend 1 additional point from his arcane pool when making a
 [pool strike](ref/arcana/pool-strike). A single target of his pool strike takes energy damage as

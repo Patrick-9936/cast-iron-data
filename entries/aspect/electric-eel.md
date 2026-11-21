@@ -22,9 +22,9 @@ effortlessly out of danger.
 
 **Ability:** Your attacks deal 1 point of electricity damage in addition to their normal damage.
 
-**At 15th Level:** The extra damage increases to 1d6.
+**At 8th level,** the extra damage becomes 1d3.
 
-**At 8th Level:** The extra damage becomes 1d3.
+**At 15th level,** the extra damage increases to 1d6.
 
 **Major Form**
 

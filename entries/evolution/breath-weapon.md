@@ -14,16 +14,16 @@ group = "summoner-evolution"
 
 **Breath Weapon (Su)**
 
+**Flavor:** An eidolon learns to exhale a cone or line of magical energy, gaining a breath weapon.
+
 **Ability:** The eidolon can breathe a 30-foot cone (or 60-foot line) that deals 1d6 points of
 damage of the selected type per HD it possesses. Those caught in the breath weapon can attempt a
 Reflex save for half damage. The DC is equal to 10 + 1/2 the eidolon's HD + the eidolon's
 Constitution modifier.
 
-**Choice:** Select either acid, cold, electricity, or fire.
-
-**Flavor:** An eidolon learns to exhale a cone or line of magical energy, gaining a breath weapon.
-
 **Prereq:** 9th-level summoner
+
+**Choice:** Select either acid, cold, electricity, or fire.
 
 **Special:** The eidolon can use this ability once per day. The eidolon can use this ability 1
 additional time per day by spending an additional 1 evolution point (maximum 3/day).

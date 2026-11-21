@@ -59,6 +59,8 @@ A cavalier of the order of the flame gains the following abilities as he increas
 
 **Foolhardy Rush (Ex)**
 
+**Gained:** At 2nd Level
+
 **Flavor:** The cavalier can charge across the battlefield at a moment's notice.
 
 **Immediate:** Whenever the cavalier attempts an initiative check, as long as he rolls an 11 or
@@ -66,15 +68,13 @@ higher on the die, he can move up to his base speed and he is not considered
 [flat-footed](ref/rule/flat-footed). If the cavalier takes an action to move during his next turn,
 he subtracts the number of feet moved during the initiative check from his total movement.
 
-**Gained:** At 2nd Level
-
 **Daunting Success (Ex)**
+
+**Gained:** At 8th Level
 
 **Immediate:** Whenever the cavalier confirms a critical hit with a melee weapon, he can attempt an
 Intimidate check to demoralize all foes within 15 feet who can see him. This ability can be used
 only once per combat.
-
-**Gained:** At 8th Level
 
 **Blaze of Glory (Ex)**
 

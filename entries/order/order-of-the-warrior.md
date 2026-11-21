@@ -47,34 +47,34 @@ level.
 
 **Honor in All Things (Ex)**
 
+**Gained:** At 2nd Level
+
 **Flavor:** The order of the warrior samurai draws strength from his sense of honor.
 
 **Free:** Whenever the samurai makes a skill check or saving throw, he can call upon his honor to
 grant him a +4 morale bonus on the roll.
 
-**Gained:** At 2nd Level
-
 **Usage:** 1 time/day + 1 per 4 cavalier levels beyond 2nd
 
 **Way of the Samurai (Ex)**
 
-**Flavor:** The order of the warrior samurai's sense of honor and loyalty drives him to accomplish
-seemingly impossible tasks.
-
 **Gained:** At 8th Level
 
-**Special:** Using this ability expends one daily use of his _resolve._
+**Flavor:** The order of the warrior samurai's sense of honor and loyalty drives him to accomplish
+seemingly impossible tasks.
 
 **Standard:** The samurai can focus his mind and will. Once during the next minute, he can choose to
 roll an attack roll, skill check, or saving throw three times and take the best result. He must
 decide to use this ability before the roll is made.
 
+**Special:** Using this ability expends one daily use of his _resolve._
+
 **Strike True (Ex)**
+
+**Gained:** At 15th Level
 
 **Flavor:** The order of the warrior samurai can use his years of training and focus to make the
 perfect strike.
-
-**Gained:** At 15th Level
 
 **Standard:** When he uses this ability, the samurai makes an attack as normal. If the attack hits,
 it is a critical threat. The samurai must roll to confirm the critical as normal.
@@ -85,7 +85,5 @@ normally. The damage from this attack ignores any [damage reduction](ref/rule/da
 target might have and also causes the target to become [blinded](ref/misc/blinded),
 [deafened](ref/misc/deafened), [sickened](ref/misc/sickened), or [staggered](ref/misc/staggered) for
 1d4 rounds (the samurai's choice).
-
-**Usage:** Once per day
 
 **Usage:** Once per day

@@ -41,9 +41,9 @@ ability. The weapon immediately reverts to its original abilities when you cease
 
 **Second Chance (Sp)**
 
-**Flavor:** You can give an enemy a second chance to correct the error of its ways.
-
 **Gained:** At 8th Level
+
+**Flavor:** You can give an enemy a second chance to correct the error of its ways.
 
 **Standard:** Once per day, you can cast [atonement](ref/spell/atonement) as a
 [spell-like ability](ref/umr/spell-like-abilities), targeting a creature that has violated the

@@ -46,9 +46,9 @@ level.
 
 **Lion's Call (Ex)**
 
-**Flavor:** An order of the lion cavalier gains the ability to rally his allies.
-
 **Gained:** At 2nd Level
+
+**Flavor:** An order of the lion cavalier gains the ability to rally his allies.
 
 **Standard:** The cavalier can give an encouraging speech which grants all allies within 60 feet a
 competence bonus on their saving throws against fear equal to his Charisma modifier and a +1
@@ -59,9 +59,9 @@ or panicked, he can immediately make another saving throw to resist the effect (
 
 **For the King (Ex)**
 
-**Flavor:** An order of the lion cavalier can call out to his allies, inspiring them to greatness.
-
 **Gained:** At 8th Level
+
+**Flavor:** An order of the lion cavalier can call out to his allies, inspiring them to greatness.
 
 **Swift:** The cavalier can grant a competence bonus equal to his Charisma modifier on all attack
 and damage rolls to all allies within 30 feet. This bonus lasts for 1 round. This ability can be

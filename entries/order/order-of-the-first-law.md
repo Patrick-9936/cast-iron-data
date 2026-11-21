@@ -47,9 +47,9 @@ level.
 
 **Rejection of Faith (Ex)**
 
-**Flavor:** The cavalier must refuse all divine magic, including helpful effects or spells.
-
 **Gained:** At 2nd Level
+
+**Flavor:** The cavalier must refuse all divine magic, including helpful effects or spells.
 
 **Passive:** As long as he has not benefited from divine magic in the past 24 hours, he receives a
 +2 morale bonus on one saving throw of his choice. Each day he can change the saving throw to which

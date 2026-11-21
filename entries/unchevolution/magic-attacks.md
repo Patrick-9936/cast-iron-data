@@ -14,8 +14,8 @@ group = "unchained-summoner-evolution"
 
 **Magic Attacks (Su)**
 
-**At 10th Level:** All of the eidolon's natural attacks are treated as the alignment of the eidolon
-for the purpose of overcoming [damage reduction](ref/rule/damage-reduction).
-
 **Passive:** The eidolon is infused with magic, allowing it to treat all of its natural attacks as
 if they were magic for the purpose of overcoming [damage reduction](ref/rule/damage-reduction).
+
+**At 10th level,** all of the eidolon's natural attacks are treated as the alignment of the eidolon
+for the purpose of overcoming [damage reduction](ref/rule/damage-reduction).

@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Maximized Magic (Su):**
+**Maximized Magic (Su)**
 
 **Ability:** The magus can cast one spell per day as if it were modified by the
 [Maximize Spell](ref/feat/maximize-spell) feat. This does not increase the casting time or the level

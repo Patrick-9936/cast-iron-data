@@ -33,11 +33,11 @@ caster level. The maximum damage for each spell remains unchanged.
 
 **Hallowed Rite (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You gain the ability to conduct a sacred funeral rite. This rite takes 1 day, during
 which you perform the necessary chants and prayers and burn incense. At the end of the rite you must
 oversee the burial of the corpse. The burial must take place within 24 hours of the preparation or
 the ritual fails. Once the body is interred, it cannot be turned into an undead creature, as if it
 were under the effect of a [hallow](ref/spell/hallow) spell (caster level equal to your inquisitor
 level).
-
-**Gained:** At 8th Level

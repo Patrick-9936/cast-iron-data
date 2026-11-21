@@ -43,11 +43,11 @@ and take the more favorable result.
 
 **Awaken Discontent (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can deliver a stirring speech condemning the mistakes of those in power and calling
 for reform, causing the target of your rhetoric to be affected by
 [charm person](ref/spell/charm-person) with a caster level equal to your inquisitor level and a save
 DC of 10 + 1/2 your inquisitor level + your Wisdom modifier.
-
-**Gained:** At 8th Level
 
 **Usage:** Wisdom modifier times/day

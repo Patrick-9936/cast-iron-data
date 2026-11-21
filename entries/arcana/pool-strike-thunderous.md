@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Thunderous Pool Strike (Su):**
+**Thunderous Pool Strike (Su)**
 
 **Ability:** The magus can expend 1 additional point from his arcane pool when making a
 [pool strike](ref/arcana/pool-strike). His pool strike deals sonic damage and

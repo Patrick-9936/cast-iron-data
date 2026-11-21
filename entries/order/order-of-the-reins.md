@@ -50,6 +50,10 @@ level.
 
 **Control the Herd (Ex)**
 
+**Gained:** At 2nd Level
+
+**Flavor:** The cavalier can direct multiple animals with one forceful command.
+
 **Ability:** The cavalier can handle a number of non-hostile, riderless animals equal to his
 cavalier level with a single use of the [Handle Animal](ref/skill/handle-animal) skill, so long as
 the commanded animals can see or hear the cavalier. The handled animals must all be ordered to
@@ -59,21 +63,17 @@ them to perform, the cavalier is considered to be pushing that animal.
 Using this ability requires a **move action**, though if the cavalier is pushing any animal as
 described above, it requires a **full-round action**.
 
-**Flavor:** The cavalier can direct multiple animals with one forceful command.
-
-**Gained:** At 2nd Level
-
 **Special:** The cavalier cannot use this ability on animals more than two size categories smaller
 than he is.
 
 **Teamwork Tricks (Ex)**
 
+**Gained:** At 8th Level
+
 **Free:** The cavalier can use _control the herd_ to handle allied and riderless animals and animal
 companions. Friendly and helpful animals that the cavalier commands with Handle Animal or his
 _control the herd_ ability are considered to know any tasks or tricks the cavalier's mount knows, in
 addition to any tasks or tricks they already know.
-
-**Gained:** At 8th Level
 
 **Stampede (Ex)**
 

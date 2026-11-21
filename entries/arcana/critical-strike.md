@@ -15,14 +15,12 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Critical Strike (Su):**
+**Critical Strike (Su)**
 
 **Ability:** Whenever the magus scores a critical hit with a melee weapon, he may cast a spell with
 a range of touch as a **swift action**, then make a touch attack with that spell against the target
 of the critical hit as a **free action**.
 
+**Usage:** Once per day
+
 **Prereq:** 12th-level magus
-
-**Usage:** Once per day
-
-**Usage:** Once per day

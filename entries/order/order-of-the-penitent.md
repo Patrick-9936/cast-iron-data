@@ -45,27 +45,27 @@ An order of the penitent cavalier gains the following abilities as he increases 
 
 **Expert Captor (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** As long as he has rope, the cavalier can tie up a
 [grappled](ref/rule/grapple-conditions) opponent, even if the opponent is not pinned, otherwise
 restrained, or unconscious, and he does not take the usual -10 penalty on his combat maneuver check
 to do so. When determining the DC to escape bonds secured by the cavalier, the cavalier's Combat
 Maneuver Bonus increases by 1/2 his cavalier level.
 
-**Gained:** At 2nd Level
-
 **Adept Disarmer (Ex)**
+
+**Gained:** At 8th Level
 
 **Ability:** The cavalier gains [Improved Disarm](ref/feat/improved-disarm) as a bonus feat. In
 addition, whenever he makes a successful [disarm](ref/rule/disarm) check, as long as he has at least
 one hand free and the dropped item can be held in one hand, he can automatically pick up the dropped
 item in his free hand.
 
-**Gained:** At 8th Level
-
 **Saving Grace (Ex)**
+
+**Gained:** At 15th Level
 
 **Free:** Whenever he would strike a creature with a melee attack that deals lethal damage and would
 bring the creature's hit points below 0, the cavalier can change the type of damage dealt to
 nonlethal damage. The cavalier can use this ability once per round.
-
-**Gained:** At 15th Level

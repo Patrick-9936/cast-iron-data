@@ -26,18 +26,18 @@ for their crimes or to torture them for information.
 
 **Caging Strike (Su)**
 
+**Flavor:** With a devastating weapon strike, spectral chains wrap around your target for a short
+period of time.
+
 **Ability:** Whenever you confirm a critical hit with a melee or ranged weapon attack (including
 spells that require attack rolls), you can choose to also [entangle](ref/rule/entangled) that target
 for 1d4 rounds (Fortitude negates).
-
-**Flavor:** With a devastating weapon strike, spectral chains wrap around your target for a short
-period of time.
 
 **Usage:** 3 + Wisdom modifier times/day
 
 **Divine Prison**
 
+**Gained:** At 8th Level
+
 **Ability:** Once per day upon making a successful melee attack, you can affect your target with
 [hold monster](ref/spell/hold-monster) (Will negates).
-
-**Gained:** At 8th Level

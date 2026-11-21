@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Arcane Redoubt (Su):**
+**Arcane Redoubt (Su)**
 
 **Swift:** The magus can expend 1 point from his arcane pool to treat his shield bonus to AC
 (including any enhancement bonus) as a bonus to touch AC until the beginning of his next turn.

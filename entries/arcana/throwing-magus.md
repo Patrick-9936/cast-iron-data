@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Throwing Magus:**
+**Throwing Magus**
 
 **Ability:** Whenever the magus enhances his weapon using his arcane pool, he can spend 1 additional
 point from his arcane pool to add the [returning](ref/magic-enh/returning) and

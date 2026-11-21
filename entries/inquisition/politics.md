@@ -32,10 +32,10 @@ other creatures.
 
 **Heart's Desire (Sp)**
 
-**Ability:** Once per day, you can use [commune](ref/spell/commune) as a
-[spell-like ability](ref/umr/spell-like-abilities) using your inquisitor level as your caster level,
-but only to ask questions about others' goals.
+**Gained:** At 8th Level
 
 **Flavor:** You receive divine guidance on the goals of your political allies and rivals.
 
-**Gained:** At 8th Level
+**Ability:** Once per day, you can use [commune](ref/spell/commune) as a
+[spell-like ability](ref/umr/spell-like-abilities) using your inquisitor level as your caster level,
+but only to ask questions about others' goals.

@@ -56,9 +56,9 @@ alignment is three or more steps away from his settlement's alignment, the bonus
 
 **Protector of the People (Ex)**
 
-**Flavor:** The cavalier can inspire the people around him.
-
 **Gained:** At 8th Level
+
+**Flavor:** The cavalier can inspire the people around him.
 
 **Swift:** Each creature within 30 feet that is either a resident of his chosen settlement or whose
 alignment is within one step of the cavalier's settlement gains a morale bonus on saving throws
@@ -69,9 +69,9 @@ requirements.
 
 **Bastion of the Monument (Ex)**
 
-**Flavor:** The cavalier defends his homeland with unmatched ferocity.
-
 **Gained:** At 15th Level
+
+**Flavor:** The cavalier defends his homeland with unmatched ferocity.
 
 **Swift:** The cavalier can declare an opponent an enemy of his settlement. This grants the cavalier
 and his allies a +4 bonus on attack rolls, damage rolls, and ability and skill checks against the

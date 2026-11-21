@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Prescient Attack (Su):**
+**Prescient Attack (Su)**
 
 **Immediate:** The magus can expend 1 point from his arcane pool after hitting a target with a
 weapon attack, allowing him to anticipate his opponent's defenses. The target is denied its

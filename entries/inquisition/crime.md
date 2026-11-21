@@ -35,8 +35,8 @@ the effects of your _criminal minds_ ability for 24 hours.
 
 **Thief's Soul (Ex)**
 
+**Gained:** At 8th Level
+
 **Ability:** You gain [Improved Steal](ref/feat/improved-steal),
 [Greater Steal](ref/feat/greater-steal), and [Quick Steal](ref/feat/quick-steal) as bonus feats,
 even if you don't meet the prerequisites.
-
-**Gained:** At 8th Level

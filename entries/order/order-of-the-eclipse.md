@@ -54,13 +54,13 @@ level.
 
 **Dark Rider (Su)**
 
+**Gained:** At 2nd Level
+
 **Ability:** Whenever the samurai is on his mount, both he and his mount share any of the following
 senses if either of them possesses it: [darkvision](ref/rule/darkvision),
 [low-light vision](ref/rule/low-light-vision), [scent](ref/umr/scent), and
 [see in darkness](ref/umr/see-in-darkness). This applies regardless of the source of the sense
 (including senses gained from spells or magic items), but only while the samurai is mounted.
-
-**Gained:** At 2nd Level
 
 **Special:** If the samurai and mount both have a sense but one has an improved version (such as a
 samurai with [darkvision](ref/rule/darkvision) with a range of 60 feet riding a mount that has
@@ -68,17 +68,17 @@ darkvision with a range of 90 feet), both receive the improved version of the se
 
 **Eclipsing Blade (Sp)**
 
+**Gained:** At 8th Level
+
 **Ability:** The samurai can cast [darkness](ref/spell/darkness) on a weapon he is holding. The
 _[darkness](ref/spell/darkness)_ does not affect the vision of any order of the eclipse samurai, or
 that of their mounts. The spell immediately ends if the weapon leaves the samurai's hand.
-
-**Gained:** At 8th Level
 
 **Usage:** 1 time/day + 1 per 4 samurai levels beyond 8th
 
 **See in Darkness (Ex)**
 
+**Gained:** At 15th Level
+
 **Ability:** The samurai can see perfectly in darkness, even magical darkness, as the
 [universal monster ability](ref/umr/see-in-darkness) of the same name.
-
-**Gained:** At 15th Level

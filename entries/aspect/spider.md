@@ -22,9 +22,9 @@ The spider is a patient hunter, sensing foes that struggle in its webs.
 **Passive:** You gain a +2 competence bonus on Climb checks, Stealth checks, saving throws against
 [web](ref/spell/web) effects (magical or otherwise), and checks to break free of webs.
 
-At 8th level: This bonus increases to +4.
+**At 8th level,** this bonus increases to +4.
 
-At 15th level: This bonus increases to +6.
+**At 15th level,** this bonus increases to +6.
 
 **Major Form**
 
@@ -33,11 +33,11 @@ in this form, you gain [darkvision](ref/rule/darkvision) with a range of 60 feet
 [tremorsense](ref/umr/tremorsense) with a range of 10 feet, a climb speed of 30 feet, the
 [web](ref/umr/web) special attack, and a [bite attack](ref/umr/natural-attacks) (1d6).
 
-**At 15th Level:** You gain [Improved Natural Attack](ref/feat/improved-natural-attack) (bite), and
-the range of your [tremorsense](ref/umr/tremorsense) increases to 30 feet.
-
-**At 8th Level:** You gain a +4 racial bonus on Perception checks, and the range of your
+**At 8th level,** you gain a +4 racial bonus on Perception checks, and the range of your
 [tremorsense](ref/umr/tremorsense) increases to 20 feet.
+
+**At 15th level,** you gain [Improved Natural Attack](ref/feat/improved-natural-attack) (bite), and
+the range of your [tremorsense](ref/umr/tremorsense) increases to 30 feet.
 
 **Functions As:** [Vermin Shape II](ref/spell/vermin-shape-2)
 

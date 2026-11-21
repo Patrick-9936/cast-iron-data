@@ -32,17 +32,14 @@ you've already attacked in the round.
 
 **Divine Anger (Ex)**
 
+**Gained:** At 6th Level
+
 **Ability:** You gain the ability to _rage_ like a [barbarian](ref/class/barbarian). Your effective
 barbarian level for this ability is your inquisitor level - 3. If you have levels in barbarian,
 these levels stack when determining the effect of your _rage._
 
 You do not gain any rage powers from this granted power, though if you have rage powers from another
 class, you may use them with these rages.
-
-**Gained:** At 6th Level
-
-**Usage:** You can _rage_ a number of rounds per day equal to your Wisdom bonus, plus 1 round for
-every inquisitor level above 4th.
 
 **Usage:** You can _rage_ a number of rounds per day equal to your Wisdom bonus, plus 1 round for
 every inquisitor level above 4th.

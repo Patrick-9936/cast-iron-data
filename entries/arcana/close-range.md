@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Close Range (Ex):**
+**Close Range (Ex)**
 
 **Ability:** The magus can deliver ray spells that feature a ranged touch attack as melee touch
 spells. He can use a ranged touch attack spell that targets more than one creature (such as

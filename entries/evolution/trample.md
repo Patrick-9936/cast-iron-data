@@ -14,7 +14,7 @@ group = "summoner-evolution"
 
 **Trample (Ex)**
 
-**Fullround:** An eidolon gains the ability to crush its foes underfoot, gaining the
+**Full-round:** An eidolon gains the ability to crush its foes underfoot, gaining the
 [trample](ref/umr/trample) ability. The eidolon can overrun any creature that is at least one size
 smaller than itself. This works like the [overrun](ref/rule/overrun) combat maneuver, but the
 eidolon does not need to make a check, it merely has to move over opponents in its path. The

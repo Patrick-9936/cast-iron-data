@@ -37,10 +37,10 @@ chooses to apply the bonus to a roll.
 
 **Aura of Enlightenment (Su)**
 
+**Gained:** At 4th Level
+
 **Ability:** You can create a 30-foot-radius aura of normal light. Allies in this _aura_ gain a +2
 insight bonus on skill checks. This counts as a 2nd-level [light](ref/spelldef/light) effect for the
 purpose of countering or dispelling darkness effects.
-
-**Gained:** At 4th Level
 
 **Usage:** 1 time/day per inquisitor level

@@ -28,19 +28,17 @@ wrath), and twist their dark desires to suit your own purposes.
 
 **Sin Sense (Su)**
 
-**Fullround:** You can determine which sin most strongly influences a target by quickly reading its
+**Full-round:** You can determine which sin most strongly influences a target by quickly reading its
 mind. Once you learn this fact, you gain a +4 bonus on your next Charisma-based skill check made
 against the target as long as it somehow incorporates a temptation that relates to that sin.
 
-**Special:** This is a mind-affecting effect.
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Special:** This is a mind-affecting effect.
 
 **Indulge (Su)**
 
 **Gained:** At 8th Level
-
-**Special:** This is a mind-affecting effect.
 
 **Standard:** Once per day you can awaken a creature's vice and overwhelm its senses with urgency.
 You must decide to use this ability before using your _sin sense_ ability on a creature, and the
@@ -49,3 +47,5 @@ target receives a Will save to negate the effect.
 If the creature fails its saving throw, for the next 24 hours, whenever the affected creature is
 given an opportunity to indulge in its favored sin, that creature must yield to the impulse or make
 a second Will saving throw to avoid becoming [sickened](ref/misc/sickened) for 1 minute.
+
+**Special:** This is a mind-affecting effect.

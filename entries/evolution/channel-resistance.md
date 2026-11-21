@@ -17,10 +17,10 @@ group = "summoner-evolution"
 **Flavor:** An eidolon becomes less easily affected by the
 [channel energy](ref/ability/channel-energy) ability of clerics or paladins.
 
-**At 7th Level:** This bonus can be increased to +4 by spending 2 additional evolution points.
-
 **Passive:** The eidolon gains a +2 bonus on any saves that are made to resist the effects of
 channel energy, including effects that rely on the use of channel energy (such as the
 [Command Undead](ref/feat/command-undead) feat).
+
+**At 7th level,** this bonus can be increased to +4 by spending 2 additional evolution points.
 
 **Prereq:** [Undead appearance](ref/evolution/undead-appearance)

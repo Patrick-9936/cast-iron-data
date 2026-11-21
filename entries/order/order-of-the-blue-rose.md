@@ -53,10 +53,10 @@ level.
 
 **Flat of the Blade (Ex)**
 
+**Gained:** At 2nd Level
+
 **Flavor:** The cavalier of the order of the blue rose gains the ability to moderate his attacks in
 order to take an enemy alive.
-
-**Gained:** At 2nd Level
 
 **Passive:** The cavalier no longer takes a -4 penalty when attacking with a lethal weapon to deal
 nonlethal damage. When dealing nonlethal damage, the cavalier receives a +2 bonus on damage rolls.
@@ -67,14 +67,14 @@ the target, is considered a violation of his edicts.
 
 **Inner Peace (Ex)**
 
+**Gained:** At 8th Level
+
 **Flavor:** The cavalier has learned that while not all things in the world will go as he wishes, he
 must remain calm and centered.
 
 **Immediate:** Once per day, the cavalier may ignore an amount of damage from a single source (one
 attack, spell, or effect) equal to his cavalier level plus his Charisma modifier. He can only ignore
 hit point damage in this fashion.
-
-**Gained:** At 8th Level
 
 **Usage:** 1 time/day + 1 per 4 cavalier levels beyond 8th
 

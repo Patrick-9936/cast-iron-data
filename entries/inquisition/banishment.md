@@ -35,9 +35,9 @@ a Will save (DC 10 + 1/2 your inquisitor level + your Wisdom modifier) or become
 
 **Dismissive Touch (Sp)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can cast [dismissal](ref/spell/dismissal) once per day as a
 [spell-like ability](ref/umr/spell-like-abilities) (caster level equal to your inquisitor level)
 upon making a successful unarmed touch attack against an evil outsider. The DC to save against this
 ability increases by 2.
-
-**Gained:** At 8th Level

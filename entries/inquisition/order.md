@@ -34,9 +34,9 @@ spent in 1-minute increments
 
 **Commanding Order (Sp)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can use [greater command](ref/spell/command-greater), except it only affects a
 single target.
-
-**Gained:** At 8th Level
 
 **Usage:** 3 + Wisdom modifier times/day

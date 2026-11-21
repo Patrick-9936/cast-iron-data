@@ -22,9 +22,9 @@ this aspect are known for surviving severe wounds and delivering punishing blows
 
 **Passive:** You gain a +2 enhancement bonus to your Constitution score.
 
-At 8th level: The bonus increases to +4.
+**At 8th level,** the bonus increases to +4.
 
-At 15th level: The bonus increases to +6.
+**At 15th level,** the bonus increases to +6.
 
 **Major Form**
 
@@ -33,11 +33,11 @@ While in this form, you gain a base speed of 40 feet, [low-light vision](ref/rul
 [scent](ref/umr/scent) (30 feet), a [bite attack](ref/umr/natural-attacks) (1d8 damage), and two
 claw attacks (1d6 damage) with the [grab](ref/umr/grab) ability.
 
-**At 15th Level:** The critical multiplier of your claw attack increases by 1 (×2 becomes ×3) to a
-maximum of ×4, and you gain the [Awesome Blow](ref/feat/awesome-blow) feat.
-
-**At 8th Level:** You gain [Improved Natural Attack](ref/feat/improved-natural-attack) with your
+**At 8th level,** you gain [Improved Natural Attack](ref/feat/improved-natural-attack) with your
 claws.
+
+**At 15th level,** the critical multiplier of your claw attack increases by 1 (×2 becomes ×3) to a
+maximum of ×4, and you gain the [Awesome Blow](ref/feat/awesome-blow) feat.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

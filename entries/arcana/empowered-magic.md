@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Empowered Magic (Su):**
+**Empowered Magic (Su)**
 
 **Ability:** The magus can cast one spell per day as if it were modified by the
 [Empower Spell](ref/feat/empower-spell) feat. This does not increase the casting time or the level

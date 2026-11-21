@@ -19,12 +19,12 @@ The aspect of the dragonfly offers the ability to make quick, darting attacks at
 
 **Minor Form**
 
-**At 15th Level:** The bonus becomes +30 feet.
-
-**At 8th Level:** This bonus increases to +20 feet.
-
 **Passive:** You gain an enhancement bonus of +10 feet to your base speed when
 [charging](ref/rule/charge).
+
+**At 8th level,** this bonus increases to +20 feet.
+
+**At 15th level,** the bonus becomes +30 feet.
 
 **Major Form**
 
@@ -33,12 +33,12 @@ in this form, you gain a fly speed of 60 feet (average), [darkvision](ref/rule/d
 range of 60 feet, and a [bite attack](ref/umr/natural-attacks) (2d6) with the [grab](ref/umr/grab)
 ability.
 
-**At 15th Level:** Your fly speed increases to 80 feet (perfect), and if you
+**At 8th level,** you gain [Flyby Attack](ref/feat/flyby-attack) as a bonus feat, and your fly speed
+improves to 60 feet (good).
+
+**At 15th level,** your fly speed increases to 80 feet (perfect), and if you
 [charge](ref/rule/charge) while flying, you gain a +4 bonus on [grapple](ref/rule/grapple) combat
 maneuver checks for 1 round.
-
-**At 8th Level:** You gain [Flyby Attack](ref/feat/flyby-attack) as a bonus feat, and your fly speed
-improves to 60 feet (good).
 
 **Functions As:** [Vermin Shape II](ref/spell/vermin-shape-2)
 

@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Spell-Scars (Ex):**
+**Spell-Scars (Ex)**
 
 **Ability:** The magus can use special scar-based tattoos called spell-scars on his skin to cast or
 prepare spells, much like scrolls. He can cast a spell from a spell-scar exactly like casting from a

@@ -14,10 +14,10 @@ group = "unchained-summoner-evolution"
 
 **Improved Damage (Ex)**
 
+**Flavor:** One of the eidolon's natural attacks is particularly deadly.
+
 **Ability:** Select one natural attack form and
 [increase the damage die](ref/misc/damage-die-adjustments) by one step.
-
-**Flavor:** One of the eidolon's natural attacks is particularly deadly.
 
 **Special:** This evolution can be selected more than once. Its effects do not stack. Each time the
 eidolon selects this evolution, it applies to a different natural attack.

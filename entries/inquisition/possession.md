@@ -45,6 +45,8 @@ of character, the effect immediately ends and you return to your own body.
 
 **Body Snatch (Sp)**
 
+**Gained:** At 10th Level
+
 **Immediate:** Once per day upon falling unconscious because of dropping below 0 hit points, you can
 cast your soul from your body and attempt to occupy the body of another creature within 30 feet.
 This ability otherwise functions identically to [magic jar](ref/spell/magic-jar) except that your
@@ -54,5 +56,3 @@ casting it out.
 Your body continues to [bleed as normal](ref/misc/dying) unless it is somehow stabilized, and if its
 hit points drop to a negative number equal to your Constitution score, the
 _[magic jar](ref/spell/magic-jar)_ effect prematurely ends and you die as normal.
-
-**Gained:** At 10th Level

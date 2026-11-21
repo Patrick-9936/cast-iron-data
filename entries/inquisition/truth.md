@@ -34,12 +34,12 @@ level (minimum 1) and lasts for 1 round.
 
 **Grasp of Honesty (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** Any creature you are grappling or pinning is affected by
 [zone of truth](ref/spell/zone-of-truth) (Will negates). Outside of combat, you may use this ability
 by touching a target with both hands.
 
-**Gained:** At 8th Level
+**Usage:** 1 time/day per inquisitor level
 
 **Special:** The effect ends if you stop grappling, pinning, or touching the target.
-
-**Usage:** 1 time/day per inquisitor level
