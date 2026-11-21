@@ -52,10 +52,10 @@ replaces the row in the baseline and the queue by one row for each part (reason 
 the later trades of the entry in the queue, the baseline and the two adjustment logs. This is the one
 command that edits the baseline; the rows of the parts are the only rows that it adds. It decides what to do
 from the entry alone: a trade that is no longer in the entry is a split that is done, so a second run changes
-no byte. A split that the entry holds but a file does not (an interrupted run) is not repaired: `git checkout`
-the corpus and run it again. A composite that print shows to be one feature is resolved by an ordinary
-decision, and one that a split would make print differently (`and` with no comma between the features) is an
-exception with the code `split-blocked`.
+no byte. It computes every new file first and writes only when no check failed, and it replaces each file
+atomically; a run that is killed between two files is not repaired: `git checkout` the corpus and run it again. A composite that print shows to be one feature is resolved by an ordinary
+decision. A line that prints the features with `and` and no comma has its separator changed to a comma by the
+owner's decision of 2026-11-21 (#134); the splits file then names the text that the parts join to in `reads_as`.
 
 Steps. A progression step (`Armor training 2`, `Trap sense +3`, `Judgment 1/day`, `Spirit power (lesser)`)
 is identified by the BASE-CLASS GRANT LEVELS in `levels`, read from the class table of the base class;
@@ -63,7 +63,9 @@ is identified by the BASE-CLASS GRANT LEVELS in `levels`, read from the class ta
 is not enough. A step is never a `power`.
 """
 import csv
+import io
 import json
+import os
 import re
 import sys
 import tomllib
@@ -78,13 +80,14 @@ ADJUSTMENTS = ROOT / "scripts/trade-adjustments-452.tsv"
 MANUAL = ROOT / "scripts/trade-adjustments-manual-452.tsv"
 EVIDENCE = ROOT / "scripts/trade-evidence-452.tsv"
 SPLITS = ROOT / "scripts/trade-splits-452.tsv"
-SPLIT_COLUMNS = ["id", "op", "composite", "part", "feature", "class", "levels", "power", "note"]
+SPLIT_COLUMNS = ["id", "op", "composite", "part", "feature", "class", "levels", "power", "note", "reads_as"]
 BASE_COLUMNS = ["id", "kind", "trade", "op", "printed", "reason", "candidates", "unclaimed_old_anchors", "subsection"]
 COLUMNS = BASE_COLUMNS + [
     "disposition", "decision", "feature", "class", "levels", "power", "book", "page", "page_reason", "print",
     "class_hit", "class_book", "class_page", "evidence", "evidence_note",
 ]
 ADJUST_COLUMNS = ["id", "trade", "op", "printed", "before", "after", "rule"]
+MANUAL_COLUMNS = ["id", "trade", "op", "printed", "after", "rule"]
 
 
 def read_tsv(path):
@@ -92,14 +95,23 @@ def read_tsv(path):
         return list(csv.DictReader(handle, delimiter="\t", quoting=csv.QUOTE_NONE))
 
 
+def write_atomic(path, text):
+    """Write `text` to a temp file next to `path`, then replace `path` with it: a crash leaves either file whole."""
+    path = Path(path)
+    temp = path.with_name(path.name + ".tmp")
+    temp.write_text(text, encoding="utf-8", newline="")
+    os.replace(temp, path)
+
+
 def write_tsv(path, columns, rows):
-    with open(path, "w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(
-            handle, columns, delimiter="\t", lineterminator="\n", quoting=csv.QUOTE_NONE, escapechar="\\"
-        )
-        writer.writeheader()
-        for row in rows:
-            writer.writerow({column: row.get(column, "") for column in columns})
+    handle = io.StringIO(newline="")
+    writer = csv.DictWriter(
+        handle, columns, delimiter="\t", lineterminator="\n", quoting=csv.QUOTE_NONE, escapechar="\\"
+    )
+    writer.writeheader()
+    for row in rows:
+        writer.writerow({column: row.get(column, "") for column in columns})
+    write_atomic(path, handle.getvalue())
 
 
 def write_queue(rows):
@@ -632,8 +644,9 @@ def split_groups():
         for r in read_tsv(SPLITS):
             groups.setdefault((r["id"], r["op"], r["composite"]), []).append(r)
     for (entry_id, op, composite), parts in groups.items():
-        if len(parts) < 2 or ", ".join(p["part"] for p in parts) != composite:
-            raise SystemExit(f"{entry_id}: the parts of {composite!r} do not join with ', ' to the composite")
+        reads_as = parts[0].get("reads_as") or composite
+        if len(parts) < 2 or ", ".join(p["part"] for p in parts) != reads_as:
+            raise SystemExit(f"{entry_id}: the parts of {composite!r} do not join with ', ' to {reads_as!r}")
     return groups
 
 
@@ -660,8 +673,8 @@ def trade_line(op, printed, keys):
 
 def split_trades_of_entry(entry_id, groups):
     """Replace the composite trades of one entry by their parts. `groups` is [(op, composite, parts)].
-    Returns [(position, composite, parts)] for the splits that this call made, in the order made (a position
-    counts the trades of the entry as they stand after the earlier splits); writes nothing."""
+    Returns ([(position, composite, parts)], (path, new text)) for the splits that this call made, in the order
+    made (a position counts the trades of the entry as they stand after the earlier splits); writes nothing."""
     path = entry_path(entry_id)
     head, front, body = path.read_text(encoding="utf-8").split("+++\n", 2)
     lines, first, end = trade_lines(front)
@@ -679,10 +692,11 @@ def split_trades_of_entry(entry_id, groups):
         lines[found:found + 1] = new
         end += len(new) - 1
         done.append((found - first + 1, composite, parts))
-    return done, (path, head, lines, body)
+    return done, (path, head + "+++\n" + "\n".join(lines) + "+++\n" + body)
 
 
 def cmd_split(args):
+    """Two passes: the first computes every new file and raises on any problem, the second writes them."""
     groups = split_groups()
     by_entry = {}
     for (entry_id, op, composite), parts in groups.items():
@@ -690,9 +704,10 @@ def cmd_split(args):
     have_queue = QUEUE.exists()  # `fill` builds the queue from the baseline when there is none
     baseline, queue = read_tsv(BASELINE), read_tsv(QUEUE) if have_queue else []
     logs = {path: read_tsv(path) for path in (ADJUSTMENTS, MANUAL) if path.exists()}
-    entries = split_count = 0
+    log_columns = {ADJUSTMENTS: ADJUST_COLUMNS, MANUAL: MANUAL_COLUMNS}
+    writes, split_count = [], 0
     for entry_id in sorted(by_entry):
-        done, (path, head, lines, body) = split_trades_of_entry(entry_id, by_entry[entry_id])
+        done, written = split_trades_of_entry(entry_id, by_entry[entry_id])
         if not done:
             continue
         for position, composite, parts in done:
@@ -719,22 +734,26 @@ def cmd_split(args):
                         row["disposition"] = "open"
                     new_rows.append(row)
                 rows[at[0]:at[0] + 1] = new_rows
-            for path_of_log, rows in logs.items():
+            for rows in logs.values():
                 for r in rows:
                     if r["id"] == entry_id and int(r["trade"]) == position:
                         raise SystemExit(f"{entry_id} trade {position}: the composite has an adjustment-log row")
                     if r["id"] == entry_id and int(r["trade"]) > position:
                         r["trade"] = str(int(r["trade"]) + k - 1)
             split_count += 1
-        path.write_text(head + "+++\n" + "\n".join(lines) + "+++\n" + body, encoding="utf-8")
-        entries += 1
-    if entries:
-        write_tsv(BASELINE, BASE_COLUMNS, baseline)
-        if have_queue:
-            write_queue(queue)
-        for path_of_log, rows in logs.items():
-            write_tsv(path_of_log, ADJUST_COLUMNS if path_of_log == ADJUSTMENTS else list(rows[0]), rows)
-    print(f"split: {split_count} trades split in {entries} entries")
+        writes.append(written)
+    if not writes:
+        print("split: 0 trades split in 0 entries")
+        return
+    # Second pass: nothing above has written a byte.
+    for path, text in writes:
+        write_atomic(path, text)
+    write_tsv(BASELINE, BASE_COLUMNS, baseline)
+    if have_queue:
+        write_queue(queue)
+    for path, rows in logs.items():
+        write_tsv(path, log_columns[path], rows)
+    print(f"split: {split_count} trades split in {len(writes)} entries")
 
 
 def cmd_normalize(args):

@@ -3,9 +3,10 @@
 
     python3 scripts/test-trade-review-452.py
 
-Cases: `split`, `fill`, `apply` and `check` turn a composite trade into its parts, renumber the later trades
-of the entry in the baseline and the queue, and leave the queue consistent; a second run of every command
-changes no byte; parts that do not join with `, ` to the composite are refused before anything is written.
+Cases: `split`, `fill`, `apply` and `check` turn two composite trades of one entry into their parts, which end
+up next to each other, renumber the later trades of the entry in the baseline, the queue and an adjustment log,
+and leave the queue consistent; a second run of every command changes no byte; parts that do not join with `, `
+to the composite, and a queue row that is missing, are refused before anything is written.
 """
 import shutil
 import subprocess
@@ -18,6 +19,7 @@ HERE = Path(__file__).resolve().parent
 TOOL = HERE / "trade-review-452.py"
 ENTRY = "ref/arc-wiz/adept"
 COMPOSITE = "Scribe scroll, 5th- and 10th-level bonus feats"
+SECOND = "Familiar, 1st- and 8th-level hexes"
 FILES = {
     "publications.toml": '[[publication]]\nid = "book-a"\ntitle = "Book A"\n',
     "entries/class/wiz.md": (
@@ -29,12 +31,18 @@ FILES = {
         'relations = [\n  { kind = "archetype", target = "ref/class/wiz" },\n]\n'
         '[[sources]]\npublication = "book-a"\npage = "8"\n\n[fields]\nkind = "archetype"\ntrades = [\n'
         f'  {{ replaces = "{COMPOSITE}" }},\n  {{ alters = "Arcane bond", feature = "arcane-bond" }},\n'
-        '  { replaces = "Poison use" },\n]\n+++\n\nBody.\n'
+        f'  {{ replaces = "{SECOND}" }},\n  {{ replaces = "Poison use" }},\n'
+        '  { replaces = "Armor training 3", feature = "armor-training", levels = [11] },\n]\n+++\n\nBody.\n'
     ),
     "scripts/trade-review-452-baseline.tsv": (
         "id\tkind\ttrade\top\tprinted\treason\tcandidates\tunclaimed_old_anchors\tsubsection\n"
         f"{ENTRY}\tarchetype\t1\treplaces\t{COMPOSITE}\tno-heading\t\t\t\n"
-        f"{ENTRY}\tarchetype\t3\treplaces\tPoison use\tno-heading\t\t\t\n"
+        f"{ENTRY}\tarchetype\t3\treplaces\t{SECOND}\tno-heading\t\t\t\n"
+        f"{ENTRY}\tarchetype\t4\treplaces\tPoison use\tno-heading\t\t\t\n"
+    ),
+    "scripts/trade-adjustments-452.tsv": (
+        "id\ttrade\top\tprinted\tbefore\tafter\trule\n"
+        f"{ENTRY}\t5\treplaces\tArmor training 3\tfeature=armor-training | power=3\tfeature=armor-training | levels=11\tstep\n"
     ),
     "scripts/trade-review-452-decisions.tsv": (
         "scope\tprinted\tdisposition\tcode\tfeature\tclass\tlevels\tpower\tnote\n"
@@ -44,6 +52,8 @@ FILES = {
         "id\tprinted\tsubsection\tbook\tpage\tnote\n"
         f"{ENTRY}\tScribe scroll\t\tBook A\t8\tprint: parts\n"
         f"{ENTRY}\t5th- and 10th-level bonus feats\t\tBook A\t8\tprint: parts\n"
+        f"{ENTRY}\tFamiliar\t\tBook A\t8\tprint: parts\n"
+        f"{ENTRY}\t1st- and 8th-level hexes\t\tBook A\t8\tprint: parts\n"
         f"{ENTRY}\tPoison use\t\tBook A\t8\tprint: line\n"
     ),
 }
@@ -51,6 +61,8 @@ SPLITS_HEAD = "id\top\tcomposite\tpart\tfeature\tclass\tlevels\tpower\tnote\n"
 GOOD = (
     f"{ENTRY}\treplaces\t{COMPOSITE}\tScribe scroll\tscribe-scroll\t\t\t\tpart 1\n"
     f"{ENTRY}\treplaces\t{COMPOSITE}\t5th- and 10th-level bonus feats\tbonus-feats\t\t5,10\t\tpart 2\n"
+    f"{ENTRY}\treplaces\t{SECOND}\tFamiliar\twitch-s-familiar\t\t\t\tpart 1\n"
+    f"{ENTRY}\treplaces\t{SECOND}\t1st- and 8th-level hexes\thex\t\t1,8\t\tpart 2\n"
 )
 BAD = GOOD.replace("Scribe scroll\tscribe-scroll", "Scribe scrolls\tscribe-scroll")
 
@@ -85,18 +97,27 @@ class SplitTest(unittest.TestCase):
         entry = (root / "entries/arc-wiz/adept.md").read_text(encoding="utf-8")
         self.assertIn('{ replaces = "Scribe scroll", feature = "scribe-scroll" },\n'
                       '  { replaces = "5th- and 10th-level bonus feats", feature = "bonus-feats", levels = [5, 10] },\n'
-                      '  { alters = "Arcane bond", feature = "arcane-bond" },\n  { replaces = "Poison use" },', entry)
+                      '  { alters = "Arcane bond", feature = "arcane-bond" },\n'
+                      '  { replaces = "Familiar", feature = "witch-s-familiar" },\n'
+                      '  { replaces = "1st- and 8th-level hexes", feature = "hex", levels = [1, 8] },\n'
+                      '  { replaces = "Poison use" },\n'
+                      '  { replaces = "Armor training 3", feature = "armor-training", levels = [11] },', entry)
         baseline = (root / "scripts/trade-review-452-baseline.tsv").read_text(encoding="utf-8").splitlines()
         self.assertEqual([line.split("\t")[2:5] for line in baseline[1:]],
                          [["1", "replaces", "Scribe scroll"], ["2", "replaces", "5th- and 10th-level bonus feats"],
-                          ["4", "replaces", "Poison use"]])
+                          ["4", "replaces", "Familiar"], ["5", "replaces", "1st- and 8th-level hexes"],
+                          ["6", "replaces", "Poison use"]])
         queue = (root / "scripts/trade-review-452.tsv").read_text(encoding="utf-8").splitlines()
-        self.assertEqual(len(queue), 4)
-        self.assertEqual([line.split("\t")[9] for line in queue[1:]], ["resolved", "resolved", "exception"])
+        self.assertEqual(len(queue), 6)
+        self.assertEqual([line.split("\t")[9] for line in queue[1:]],
+                         ["resolved", "resolved", "resolved", "resolved", "exception"])
+        log = (root / "scripts/trade-adjustments-452.tsv").read_text(encoding="utf-8").splitlines()
+        self.assertEqual(log[1].split("\t")[:4], [ENTRY, "7", "replaces", "Armor training 3"])
         before = snapshot(root)
         for command in ("split", "fill", "apply", "check"):
             self.assertEqual(run(root, command).returncode, 0)
         self.assertEqual(snapshot(root), before)
+        self.assertEqual([name for name in before if name.endswith(".tmp")], [])
 
     def test_a_composite_that_returns_fails_the_check(self):
         root = self.corpus(GOOD)
@@ -108,6 +129,30 @@ class SplitTest(unittest.TestCase):
         done = run(root, "check")
         self.assertNotEqual(done.returncode, 0)
         self.assertIn("still a trade", done.stdout)
+
+    def test_a_missing_queue_row_fails_before_any_file_is_written(self):
+        # A second entry, sorted after the first: the first is fine, the second has no queue row. Nothing may be
+        # written for the first either.
+        other = "ref/arc-wiz/zealot"
+        root = self.corpus(GOOD + GOOD.replace(ENTRY, other).split("\n")[0] + "\n"
+                           + GOOD.replace(ENTRY, other).split("\n")[1] + "\n")
+        text = (root / "entries/arc-wiz/adept.md").read_text(encoding="utf-8")
+        (root / "entries/arc-wiz/zealot.md").write_text(
+            text.replace(ENTRY, other).replace(f'  {{ replaces = "{SECOND}" }},\n', ""), encoding="utf-8")
+        with open(root / "scripts/trade-review-452-baseline.tsv", "a", encoding="utf-8") as handle:
+            handle.write(f"{other}\tarchetype\t1\treplaces\t{COMPOSITE}\tno-heading\t\t\t\n")
+        with open(root / "scripts/trade-evidence-452.tsv", "a", encoding="utf-8") as handle:
+            handle.write(f"{other}\tScribe scroll\t\tBook A\t8\tprint: parts\n")
+            handle.write(f"{other}\t5th- and 10th-level bonus feats\t\tBook A\t8\tprint: parts\n")
+        self.assertEqual(run(root, "fill").returncode, 0)
+        queue = root / "scripts/trade-review-452.tsv"
+        lines = queue.read_text(encoding="utf-8").splitlines(keepends=True)
+        queue.write_text("".join(line for line in lines if not line.startswith(other)), encoding="utf-8")
+        before = snapshot(root)
+        done = run(root, "split")
+        self.assertNotEqual(done.returncode, 0)
+        self.assertIn("the queue has no row", done.stderr)
+        self.assertEqual(snapshot(root), before)
 
     def test_parts_that_do_not_join_are_refused_before_anything_is_written(self):
         root = self.corpus(BAD)

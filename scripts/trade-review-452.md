@@ -41,8 +41,8 @@ trade per feature when the entry's own line lets it: the printed names of the tr
 compared with the `**Replaces:**` and `**Alters:**` lines (the drift check), so the parts must join with `, ` to
 the item as the line prints it. `trade-splits-452.tsv` lists the parts: `id`, `op`, `composite` (the item), then
 for each part, in print order, `part` (its printed text) and its `feature`, `class`, `levels`, `power`, and a
-`note`. `split` rewrites the entry, the baseline, the queue and the two adjustment logs together; it decides
-from the entry alone, so a second run changes no byte (an interrupted run is repaired with `git checkout`).
+`note`, and `reads_as` when the parts join to other text than the composite. `split` rewrites the entry, the baseline, the queue and the two adjustment logs together; it decides
+from the entry alone, so a second run changes no byte. It checks every row and computes every new file before it writes any, and it replaces each file atomically (a run that is killed between two files is repaired with `git checkout`).
 `fill` gives each part row the decision `split-part` from this file, and `check` fails while a composite is
 still a trade or its parts are not next to each other.
 
@@ -54,13 +54,12 @@ trades of the same key must not share a level with a part: `hallucinist` names t
 the 3rd as `[6, 9, 12, 15, 18]` for that reason.
 
 An item that print shows to be one feature is not split but resolved (`Alchemy and replaces` is Alchemy;
-`7th- and 10th-level ki pool abilities` is Ki Pool at `[7, 10]`). An item that the line prints with `and` and no
-comma between its features (`Proficiency with heavy armor and tower shields`, `justice and destruction
-judgments`), or as one name for several (`Armor proficiencies`), cannot be split without a different line: the
-joined parts would read `heavy armor, tower shields`. Those rows are exceptions with the code `split-blocked`,
-and each names the split that it waits for. A drift check that ignores that comma would let the parts be
-written as the first trade `Proficiency with heavy armor` and the second `and tower shields`, as the Lore
-Warden's `Proficiency with medium armor, heavy armor, and shields` already is.
+`7th- and 10th-level ki pool abilities` is Ki Pool at `[7, 10]`). An item that the line prints with `and` and no comma between its features (`Proficiency with heavy armor and tower
+shields`) cannot split as printed, because the joined parts would read `heavy armor, tower shields`. By the owner's
+decision of 2026-11-21 (#134) the separator of such a line is changed from ` and ` to `, ` and nothing else (the
+Tactician's line, which named only the section, names the two features that print names). The splits file then
+carries `reads_as`, the text that the parts join to, and the evidence row of each part says that the body
+separator was changed by that decision, with the book and the page. The ten items of #134 were handled so.
 
 ## Codes of `resolved` rows
 
@@ -87,7 +86,6 @@ Warden's `Proficiency with medium armor, heavy armor, and shields` already is.
 | `conditional-replacement` | The archetype replaces the feature only if a choice is made; format 2 has no condition field. |
 | `class-statistic` | Class skills, alignment, skill ranks, saves: printed in the class statistics, not as a feature. |
 | `single-slot-loss` | The archetype gives up one slot of the Spells feature (one 4th-level spell slot); the whole feature would overstate it and no component names a slot. |
-| `split-blocked` | The printed item names several features, but the line holds them as one name (`and` with no comma, or one name for the group), so a split would change what the entry prints (see Splits). The note names the split that the row waits for. |
 | `free-text-part` | The item describes a part of a feature in words, with no stable name to compare by exact text. |
 | `no-class-heading` | The class entry has no heading or text for it (the code of conduct, an ability of the phantom). |
 | `not-a-class-feature` | A racial trait, or a feature of another class (the unchained rogue). |
