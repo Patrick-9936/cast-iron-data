@@ -14,7 +14,7 @@ group = "slayer-talent"
 
 **Armored Marauder (Ex)**
 
+**Flavor:** Some elite slayers exchange leather and chain for plate when stalking prey.
+
 **Ability:** A slayer with this talent gains proficiency with heavy armor. In addition, the armor
 check penalty of any heavy armor the slayer wears is reduced by 1 for every 6 class levels he has.
-
-**Flavor:** Some elite slayers exchange leather and chain for plate when stalking prey.

@@ -17,8 +17,8 @@ group = "rogue-talent"
 **Ability:** A rogue with this talent can select a single
 [favored terrain](ref/ability/favored-terrain). Her bonuses in that terrain increase to +4.
 
+**At 13th level,** her bonuses increase to +6.
+
+**At 18th level,** her bonuses increase to +8.
+
 **Prereq:** [Terrain mastery](ref/talent/terrain-mastery)
-
-At 13th level: Her bonuses increase to +6.
-
-At 18th level: Her bonuses increase to +8.

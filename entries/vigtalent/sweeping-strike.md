@@ -16,9 +16,9 @@ group = "vigilante-talent"
 
 **Ability:** The vigilante gains [Cleave](ref/feat/cleave) as a bonus feat.
 
-**At 12th Level:** While using Great Cleave, he no longer has to hit a target in order to make an
-additional attack against a foe that is adjacent to that target.
+**At 6th level,** he gains [Great Cleave](ref/feat/great-cleave) as a bonus feat.
 
-**At 6th Level:** He gains [Great Cleave](ref/feat/great-cleave) as a bonus feat.
+**At 12th level,** while using Great Cleave, he no longer has to hit a target in order to make an
+additional attack against a foe that is adjacent to that target.
 
 **Special:** He does not need to meet the prerequisites for these bonus feats.

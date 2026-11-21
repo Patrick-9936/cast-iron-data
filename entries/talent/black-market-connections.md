@@ -14,13 +14,12 @@ group = "rogue-talent"
 
 **Black Market Connection (Ex)**
 
-**Action:** Ability
-
-A rogue with this talent gains better access to magic items from black market connections. She
-treats every [settlement](ref/rule/settlements-and-districts) as one size greater for the purpose of
-determining the gp limit of the base value of items for sale, as well as the number of minor,
-medium, and major magic items for sale in the settlement. If the settlement is already a metropolis,
-all minor and medium magic items are for sale, as well as 3d8 major magic items.
+**Ability:** A rogue with this talent gains better access to magic items from black market
+connections. She treats every [settlement](ref/rule/settlements-and-districts) as one size greater
+for the purpose of determining the gp limit of the base value of items for sale, as well as the
+number of minor, medium, and major magic items for sale in the settlement. If the settlement is
+already a metropolis, all minor and medium magic items are for sale, as well as 3d8 major magic
+items.
 
 With a successful Diplomacy check, the rogue can treat the settlement as two sizes larger. If the
 settlement is already a metropolis and she succeeds at the check, all magic items are for sale. If

@@ -18,5 +18,3 @@ group = "rage-power"
 one-fourth of her barbarian level. This power is used before the roll to hit is made.
 
 **Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

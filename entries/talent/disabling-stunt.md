@@ -14,13 +14,13 @@ group = "rogue-talent"
 
 **Disabling Stunt (Ex)**
 
+**Standard:** A rogue with this talent can attempt a Disable Device check against a construct's CMD.
+If the check is successful, the rogue can ignore the construct's
+[damage reduction](ref/rule/damage-reduction) when dealing sneak attack damage for 1 minute.
+
 **Prereq:** Trained in [Disable Device](ref/skill/disable-device)
 
 **Provokes attack of opportunity:** No
 
 **Special:** The normal penalties apply to this check if the rogue attempts it without using
 [thieves' tools](ref/eq-misc/thieves-tools).
-
-**Standard:** A rogue with this talent can attempt a Disable Device check against a construct's CMD.
-If the check is successful, the rogue can ignore the construct's
-[damage reduction](ref/rule/damage-reduction) when dealing sneak attack damage for 1 minute.

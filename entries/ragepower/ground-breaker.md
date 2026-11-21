@@ -14,8 +14,6 @@ group = "rage-power"
 
 **Ground Breaker (Ex)**
 
-**Prereq:** 6th-level barbarian
-
 **Standard:** The barbarian can attack the floor around her. This attack automatically hits and
 deals damage normally. If the barbarian manages to deal more damage than the floor's
 [hardness](ref/umr/hardness), the space she occupies and all of the squares adjacent to her become
@@ -24,4 +22,4 @@ barbarian, must make a DC 15 Reflex save or be knocked [prone](ref/rule/prone).
 
 **Usage:** Once per _rage_
 
-**Usage:** Once per _rage_
+**Prereq:** 6th-level barbarian

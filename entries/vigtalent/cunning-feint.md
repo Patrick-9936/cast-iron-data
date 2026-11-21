@@ -17,5 +17,5 @@ group = "vigilante-talent"
 **Ability:** The vigilante can [feint](ref/rule/feint) as a **move action** or in place of his first
 attack during a full attack.
 
-**At 8th Level:** When the vigilante successfully feints, the opponent is denied its Dexterity bonus
+**At 8th level,** when the vigilante successfully feints, the opponent is denied its Dexterity bonus
 to AC against all attacks until the vigilante's next turn.

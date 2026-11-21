@@ -14,12 +14,12 @@ group = "social-talent"
 
 **Great Renown (Ex)**
 
+**Flavor:** The vigilante is known on a broader scale.
+
 **Ability:** He can gain _renown_ in a single community of up to 5,000 individuals (a
 [large town](ref/rule/the-shape-of-civilization)) or up to two communities of no more than 2,000
 individuals each (two small towns). The bonus while he is in his social identity remains unchanged,
 but the circumstance bonus on [Intimidate](ref/skill/intimidate) checks from his _renown_ social
 talent while he is in his vigilante identity increases to +6.
-
-**Flavor:** The vigilante is known on a broader scale.
 
 **Prereq:** 7th-level vigilante, [renown](ref/soctalent/renown)

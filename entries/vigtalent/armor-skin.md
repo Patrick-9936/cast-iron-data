@@ -18,4 +18,4 @@ group = "vigilante-talent"
 for light and medium armor on Acrobatics, Escape Artist, or Stealth checks. This penalty applies on
 other skill checks as normal.
 
-**At 8th Level:** He can move at full speed in medium armor.
+**At 8th level,** he can move at full speed in medium armor.

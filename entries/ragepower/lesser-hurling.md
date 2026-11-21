@@ -14,7 +14,7 @@ group = "rage-power"
 
 **Lesser Hurling (Ex)**
 
-**Fullround:** While _raging,_ the barbarian can lift and hurl an object up to one size category
+**Full-round:** While _raging,_ the barbarian can lift and hurl an object up to one size category
 smaller than herself with both hands or two size categories smaller with one hand as an
 [improvised weapon](ref/misc/improvised-weapons) with a range increment of 10 feet. This inflicts
 damage as a [falling object](ref/rule/falling-objects) plus the barbarian's Strength bonus. This

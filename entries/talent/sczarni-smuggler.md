@@ -14,6 +14,9 @@ group = "rogue-talent"
 
 **Sczarni Smuggler (Ex)**
 
+**Flavor:** The rogue has picked up Sczarni tricks for making masterful forgeries and using bribery
+to evade trade rules.
+
 **Ability:** The rogue needs to learn only the approximate appearance of a document that doesn't
 require a particular person's signature to accurately forge the document with
 [Linguistics](ref/skill/linguistics) (gaining a +8 bonus on the check to create the forgery, as if
@@ -23,6 +26,3 @@ handwriting to make a convincing forgery of great length in that person's handwr
 The rogue can always take 10 on [Diplomacy](ref/skill/diplomacy) checks to offer bribes. In
 addition, the rogue automatically gains an extra advantage at the start of a
 [pursuit](ref/rule/pursuit) in an urban environment.
-
-**Flavor:** The rogue has picked up Sczarni tricks for making masterful forgeries and using bribery
-to evade trade rules.

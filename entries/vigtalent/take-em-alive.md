@@ -19,10 +19,10 @@ damage with weapons that normally deal lethal damage. In addition, the vigilante
 all attack and damage rolls for attacks that deal only nonlethal damage and have no secondary
 effects (such as poison).
 
-At 5th level: This bonus increases to +2.
+**At 5th level,** this bonus increases to +2.
 
-At 8th level: This bonus increases to +3.
+**At 8th level,** this bonus increases to +3.
 
-At 11th level: This bonus increases to +4.
+**At 11th level,** this bonus increases to +4.
 
-At 14th level: This bonus increases to +5.
+**At 14th level,** this bonus increases to +5.

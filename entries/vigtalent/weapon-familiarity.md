@@ -17,5 +17,5 @@ group = "vigilante-talent"
 **Ability:** The vigilante selects either two simple or martial weapons or one exotic weapon when he
 gains this talent. He gains proficiency with his chosen weapon or weapons.
 
-**At 8th Level:** He also gains [Weapon Focus](ref/feat/weapon-focus) as a bonus feat for his
+**At 8th level,** he also gains [Weapon Focus](ref/feat/weapon-focus) as a bonus feat for his
 selected weapon or weapons.

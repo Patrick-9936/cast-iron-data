@@ -14,9 +14,6 @@ group = "rage-power"
 
 **Dragon Totem (Su)**
 
-**Choice:** The barbarian must select a single color of dragon (black, blue, brass, bronze, copper,
-gold, green, red, silver, or white) as her totem.
-
 **Passive:** While _raging,_ she gains a +1 bonus on Perception checks and a +1 morale bonus on
 saving throws against fear, paralysis, and sleep effects. This bonus increases by +1 for each
 additional dragon totem rage power (such as
@@ -25,3 +22,6 @@ additional dragon totem rage power (such as
 
 **Prereq:** [Animal fury](ref/ragepower/animal-fury),
 [intimidating glare](ref/ragepower/intimidating-glare), 6th-level barbarian
+
+**Choice:** The barbarian must select a single color of dragon (black, blue, brass, bronze, copper,
+gold, green, red, silver, or white) as her totem.

@@ -17,4 +17,4 @@ group = "vigilante-talent"
 **Ability:** The vigilante is hard to catch with area attacks. He gains the
 [evasion](ref/ability/evasion) ability.
 
-**At 12th Level:** He gains the [improved evasion](ref/talent/improved-evasion) ability
+**At 12th level,** he gains the [improved evasion](ref/talent/improved-evasion) ability

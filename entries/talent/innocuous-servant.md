@@ -17,8 +17,6 @@ group = "rogue-talent"
 **Flavor:** The rogue is an expert at appearing to be an unimportant servant, be it an attaché,
 bodyguard, driver, maid, kitchen assistant, or similar staff member.
 
-**At 8th Level:** The bonuses granted by this talent increase to +4.
-
 **Passive:** The rogue gains a +2 bonus on [Disguise](ref/skill/disguise) checks to appear to be a
 servant, but not to impersonate a particular servant. She also gains a +2 bonus on
 [Bluff](ref/skill/bluff) checks to lie to maintain this guise.
@@ -28,3 +26,5 @@ gather information among servants. Because she is easily overlooked as a servant
 information from those she serves without asking them questions directly or alerting them to her
 interest. Doing so takes 1d4 days and requires a successful Bluff check instead of a Diplomacy
 check.
+
+**At 8th level,** the bonuses granted by this talent increase to +4.

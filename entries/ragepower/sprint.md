@@ -14,11 +14,9 @@ group = "rage-power"
 
 **Sprint (Ex)**
 
-**Fullround:** The barbarian can move up to 6 times her speed or a single full-round
+**Full-round:** The barbarian can move up to 6 times her speed or a single full-round
 [charge](ref/rule/charge) action to move up to 3 times her speed.
 
+**Usage:** Once per _rage_
+
 **Prereq:** 4th-level barbarian, [swift foot](ref/ragepower/swift-foot)
-
-**Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

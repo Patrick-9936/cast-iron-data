@@ -14,15 +14,11 @@ group = "rage-power"
 
 **Hissing Rage (Su)**
 
-**Action:** Standard Action
+**Standard:** Once per hour, the barbarian can spit venom at an adjacent enemy. She must make a
+touch attack to successfully spit on a foe in this way, but she can also apply this poison as a
+**swift action** when she hits with a bite attack.
 
 **Usage:** Once per hour
-
-**Usage:** Once per hour
-
-Once per hour, the barbarian can spit venom at an adjacent enemy. She must make a touch attack to
-successfully spit on a foe in this way, but she can also apply this poison as a **swift action**
-when she hits with a bite attack.
 
 **Hissing Rage Poison**
 

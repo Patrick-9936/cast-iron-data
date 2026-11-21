@@ -16,10 +16,10 @@ group = "rogue-talent"
 
 **Flavor:** Particularly deft rogues can strike two foes with one well-placed shot.
 
-**Prereq:** [Drow](ref/race/drow)
-
 **Standard:** A rogue with this talent can fire a [hand crossbow](ref/eq-weapon/hand-crossbow) at an
 enemy who is granted [cover](ref/rule/cover) by another opponent. Make one ranged attack roll and
 compare the result to each opponent's AC. Each hit deals 1 point of damage. Any special weapon
 properties or precision damage apply to only a single target, but any poison applied to the bolt
 affects all targets struck.
+
+**Prereq:** [Drow](ref/race/drow)

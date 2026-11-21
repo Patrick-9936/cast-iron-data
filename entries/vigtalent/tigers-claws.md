@@ -19,4 +19,4 @@ group = "vigilante-talent"
 be extended at will and deal 1d4 points of piercing and slashing damage (1d3 if the vigilante is
 Small).
 
-**At 11th Level:** The damage increases to 1d6 (1d4 if Small).
+**At 11th level,** the damage increases to 1d6 (1d4 if Small).

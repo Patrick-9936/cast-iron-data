@@ -14,8 +14,8 @@ group = "investigator-talent"
 
 **Inspirational Expertise (Ex)**
 
-**Prereq:** 7th-level investigator
-
 **Swift:** When an investigator succeeds at a Knowledge check to identify a monster's special powers
 or vulnerabilities, he can expend one use of _inspiration_ to grant allies within 30 feet that can
 hear him a +4 insight bonus on attack rolls against that monster or type of monster for 1 round.
+
+**Prereq:** 7th-level investigator

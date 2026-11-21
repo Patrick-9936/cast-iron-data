@@ -16,7 +16,7 @@ group = "vigilante-talent"
 
 **Ability:** The vigilante gains the alchemist's [poison use](ref/ability/poison-use) class feature.
 
-**At 6th Level:** When he has 5 doses of a single kind of poison, he can synthesize a dose of that
+**At 6th level,** when he has 5 doses of a single kind of poison, he can synthesize a dose of that
 poison once per day at no cost. This process takes 1 minute. It doesn't expend the 5 doses of
 poison, but the doses must be in the vigilante's possession to perform the synthesis. The poison
 produced requires careful storage and special skill to use. It becomes inert if it leaves the

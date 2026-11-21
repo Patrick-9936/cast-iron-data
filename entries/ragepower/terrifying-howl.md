@@ -14,11 +14,11 @@ group = "rage-power"
 
 **Terrifying Howl (Ex)**
 
+**Standard:** The barbarian unleashes a terrifying howl. All [shaken](ref/misc/shaken) enemies
+within 30 feet must make a Will save (DC equal to 10 + 1/2 the barbarian's level + the barbarian's
+Strength modifier) or be [panicked](ref/misc/panicked) for 1d4+1 rounds.
+
 **Prereq:** [Intimidating glare](ref/ragepower/intimidating-glare), 8th-level barbarian
 
 **Special:** Once an enemy has made a save versus _terrifying howl_ (successful or not), it is
 immune to this power for 24 hours.
-
-**Standard:** The barbarian unleashes a terrifying howl. All [shaken](ref/misc/shaken) enemies
-within 30 feet must make a Will save (DC equal to 10 + 1/2 the barbarian's level + the barbarian's
-Strength modifier) or be [panicked](ref/misc/panicked) for 1d4+1 rounds.

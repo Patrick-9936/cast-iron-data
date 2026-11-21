@@ -14,11 +14,11 @@ group = "social-talent"
 
 **Celebrity Discount (Ex)**
 
-**Ability:** Whenever he buys an item in his area of _renown_ that costs 500 gp or less, he can buy
-it at 90% of the market price, rather than the full price.
-
 **Flavor:** The vigilante's social identity is popular enough to receive discounts in his area of
 renown.
+
+**Ability:** Whenever he buys an item in his area of _renown_ that costs 500 gp or less, he can buy
+it at 90% of the market price, rather than the full price.
 
 **Prereq:** 3rd-level vigilante, [renown](ref/soctalent/renown)
 

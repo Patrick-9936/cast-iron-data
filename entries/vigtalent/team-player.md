@@ -18,6 +18,6 @@ group = "vigilante-talent"
 prerequisites. Additionally, the vigilante can use the feat as a **standard action**, in which case
 it applies to every ally adjacent to the vigilante.
 
-**At 10th Level:** The vigilante can increase the bonus provided to one ally by this feat to +2 by
+**At 10th level,** the vigilante can increase the bonus provided to one ally by this feat to +2 by
 using the [aid another](ref/rule/aid-another-2) action as a **move action** rather than as a swift
 action.

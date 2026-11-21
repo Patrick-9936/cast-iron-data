@@ -18,7 +18,7 @@ group = "rogue-talent"
 [Improved Dirty Trick](ref/feat/improved-dirty-trick) as a bonus feat, even if she does not meet the
 prerequisites.
 
-**At 6th Level:** She is treated as if she meets all the prerequisites for
+**At 6th level,** she is treated as if she meets all the prerequisites for
 [Greater Dirty Trick](ref/feat/greater-dirty-trick) (although she must take the feat as normal).
 
 **Special:** If she succeeds in giving her target the [blinded](ref/misc/blinded) condition, the

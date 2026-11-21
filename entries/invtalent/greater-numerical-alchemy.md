@@ -14,9 +14,9 @@ group = "investigator-talent"
 
 **Greater Numerical Alchemy (Su)**
 
-**Ability:** He can expend a use of _inspiration_ to mix an extract as a **standard action**.
-
 **Flavor:** The investigator can calculate his movements and account for his reactions to danger or
 unexpected situations with lightning speed.
+
+**Ability:** He can expend a use of _inspiration_ to mix an extract as a **standard action**.
 
 **Prereq:** [Numerical alchemy](ref/invtalent/numerical-alchemy), 11th-level investigator

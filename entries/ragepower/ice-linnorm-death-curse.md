@@ -14,13 +14,11 @@ group = "rage-power"
 
 **Ice Linnorm Death Curse (Su)**
 
-**Action:** Ability
+**Ability:** The character channels the power of an [ice linnorm](ref/monster/linnorm-ice-linnorm).
+The character's melee attacks deal an additional 1 point of cold damage. If the character is knocked
+unconscious or killed, the attacker suffers the _curse of frost._
 
 **Prereq:** 4th-level barbarian
-
-The character channels the power of an [ice linnorm](ref/monster/linnorm-ice-linnorm). The
-character's melee attacks deal an additional 1 point of cold damage. If the character is knocked
-unconscious or killed, the attacker suffers the _curse of frost._
 
 **Curse of Frost**
 
