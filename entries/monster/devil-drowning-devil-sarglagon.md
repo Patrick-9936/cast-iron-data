@@ -56,25 +56,29 @@ tentacles._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/17/13
+**Armor class:** 21
 
-**Dr:** 5/good
+**Touch:** 17
 
-**Fort:** +12
+**Flat-footed:** 13
+
+**AC modifiers:** +7 Dex, +1 dodge, +4 natural, -1 size
 
 **Hit points:** 103 (9d10+54)
 
-**Immune:** fire, poison
-
-**Mod:** +7 Dex, +1 dodge, +4 natural, -1 size
+**Fort:** +12
 
 **Ref:** +10
+
+**Will:** +11
+
+**Dr:** 5/good
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 19
-
-**Will:** +11
 
 **Offense**
 

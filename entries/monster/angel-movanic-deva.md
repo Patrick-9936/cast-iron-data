@@ -51,25 +51,29 @@ greatsword._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/13/21
+**Armor class:** 24
+
+**Touch:** 13
+
+**Flat-footed:** 21
+
+**AC modifiers:** +3 Dex, +11 natural; +4 deflection vs. evil
+
+**Hit points:** 126 (12d10+60)
+
+**Fort:** +12
+
+**Ref:** +11
+
+**Will:** +9; +4 vs. poison, +4 resistance vs. evil
 
 **Defensive abilities:** nature's pacifism, protected life force
 
 **Dr:** 10/evil
 
-**Fort:** +12
-
-**Hit points:** 126 (12d10+60)
-
 **Immune:** acid, cold, electricity, fire, death effects, energy drain, petrification
 
-**Mod:** +3 Dex, +11 natural; +4 deflection vs. evil
-
-**Ref:** +11
-
 **Sr:** 21
-
-**Will:** +9; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

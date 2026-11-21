@@ -49,23 +49,27 @@ clinging to its back._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/15/16
+**Armor class:** 21
 
-**Dr:** 10/magic
+**Touch:** 15
 
-**Fort:** +11
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +1 dodge, +6 natural
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** disease
-
-**Improved evasion:** present
-
-**Mod:** +4 Dex, +1 dodge, +6 natural
+**Fort:** +11
 
 **Ref:** +12
 
 **Will:** +6
+
+**Dr:** 10/magic
+
+**Immune:** disease
+
+**Improved evasion:** present
 
 **Offense**
 

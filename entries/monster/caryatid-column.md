@@ -51,23 +51,27 @@ rises up to support the ceiling._
 
 **Experience points:** 800
 
-**Armor class:** 14/9/14
+**Armor class:** 14
+
+**Touch:** 9
+
+**Flat-footed:** 14
+
+**AC modifiers:** -1 Dex, +5 natural
+
+**Hit points:** 36 (3d10+20)
+
+**Fort:** +1
+
+**Ref:** +0
+
+**Will:** +1
 
 **Defensive abilities:** shatter weapons
 
 **Dr:** 5/-
 
-**Fort:** +1
-
-**Hit points:** 36 (3d10+20)
-
 **Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +5 natural
-
-**Ref:** +0
-
-**Will:** +1
 
 **Offense**
 

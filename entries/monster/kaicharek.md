@@ -52,13 +52,17 @@ tentacles sporting razor-edged ridges protrudes from the sides of its mouth._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +5 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Mod:** +2 Dex, +5 natural
+**Fort:** +7
 
 **Ref:** +6
 

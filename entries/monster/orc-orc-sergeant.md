@@ -51,23 +51,27 @@ abilities = ["23", "8", "14", "8", "11", "10"]
 
 **Experience points:** 600
 
-**Armor class:** 13/9/13
+**Armor class:** 13
+
+**Touch:** 9
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 armor, -1 Dex
+
+**Hit points:** 30 (3d10+9)
+
+**Fort:** +5
+
+**Ref:** +0
+
+**Will:** +1 (+1 vs. fear)
 
 **Defensive abilities:** bravery +1
 
 **Ferocity:** present
 
-**Fort:** +5
-
-**Hit points:** 30 (3d10+9)
-
-**Mod:** +4 armor, -1 Dex
-
-**Ref:** +0
-
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +1 (+1 vs. fear)
 
 **Offense**
 

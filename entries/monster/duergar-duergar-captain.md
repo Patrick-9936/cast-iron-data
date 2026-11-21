@@ -52,23 +52,27 @@ abilities = ["19", "10", "16", "10", "15", "4"]
 
 **Experience points:** 4,800
 
-**Armor class:** 22/10/20
+**Armor class:** 22
 
-**Defensive abilities:** bravery +2
+**Touch:** 10
 
-**Fort:** +10
+**Flat-footed:** 20
+
+**AC modifiers:** +10 armor, +1 deflection, +1 natural, -1 size
 
 **Hit points:** 90 (9d10+36)
 
-**Immune:** paralysis, phantasms, poison
-
-**Mod:** +10 armor, +1 deflection, +1 natural, -1 size
+**Fort:** +10
 
 **Ref:** +4
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +6 (+2 vs. fear); +2 vs. spells
+
+**Defensive abilities:** bravery +2
+
+**Immune:** paralysis, phantasms, poison
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

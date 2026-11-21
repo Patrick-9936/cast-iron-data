@@ -20,11 +20,9 @@ group = "rage-power"
 can also discern the exact locations of creatures with [concealment](ref/rule/concealment). This
 lasts for 1 round.
 
+**Usage:** Once per _rage_
+
 **Prereq:** 6th-level barbarian, [moment of clarity](ref/ragepower/moment-of-clarity),
 [perfect clarity](ref/ragepower/perfect-clarity)
 
 **Special:** The character does not need to be using _moment of clarity_ to use this rage power.
-
-**Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

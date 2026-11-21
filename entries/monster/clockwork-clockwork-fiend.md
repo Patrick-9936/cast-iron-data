@@ -51,23 +51,27 @@ _Resembling a metallic horned devil, this apparatus whirs with the sound of inte
 
 **Experience points:** 102,400
 
-**Armor class:** 32/20/22
+**Armor class:** 32
 
-**Dr:** 15/adamantine
+**Touch:** 20
 
-**Fort:** +7
+**Flat-footed:** 22
+
+**AC modifiers:** +8 Dex, +2 dodge, +12 natural
 
 **Hit points:** 146 (23d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits), fire
-
-**Mod:** +8 Dex, +2 dodge, +12 natural
+**Fort:** +7
 
 **Ref:** +17
 
-**Vulner:** electricity
-
 **Will:** +7
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), fire
+
+**Vulner:** electricity
 
 **Offense**
 

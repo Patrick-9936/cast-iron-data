@@ -51,19 +51,23 @@ _This vaguely humanoid-shaped roil of mist appears to be improbably solid._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 deflection, +2 Dex
 
 **Hit points:** 13 (2d10+2)
 
-**Incorporeal:** present
-
-**Mod:** +2 deflection, +2 Dex
+**Fort:** +4
 
 **Ref:** +2
 
 **Will:** +3
+
+**Incorporeal:** present
 
 **Offense**
 

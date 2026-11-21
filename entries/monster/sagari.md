@@ -49,13 +49,17 @@ than a writhing tentacle._
 
 **Experience points:** 200
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 7 (1d8+3)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +3
 
 **Ref:** +4
 

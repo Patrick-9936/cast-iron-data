@@ -71,9 +71,6 @@ or precision damage (such as that granted by [sneak attack](ref/ability/sneak-at
 
 **Brain Drain (Su)**
 
-**Special:** This ability does not give access to memories or other personal information known by
-the victim. _Brain drain_ is a mind-affecting effect.
-
 **Standard:** The shaman can violently probe the mind of a single intelligent creature within 60
 feet. The target can attempt a Will save to negate the effect and immediately know the source of
 this harmful mental prying. Creatures that fail their saving throws are racked with pain, taking 1d6
@@ -89,6 +86,9 @@ modifier, and the shaman can attempt one Knowledge check per round using these d
 
 **Usage:** 1 time/day + 1 per 5 shaman levels
 
+**Special:** This ability does not give access to memories or other personal information known by
+the victim. _Brain drain_ is a mind-affecting effect.
+
 **Cloak of Darkness (Su)**
 
 **Ability:** The shaman conjures a cloak of semi-solid shadowy darkness that grants her a +4 armor
@@ -97,18 +97,15 @@ bonus.
 **Usage:** 1 hour/day per shaman level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: This bonus increases to +6.
+**At 7th level,** this bonus increases to +6.
 
-At 11th level: This bonus increases to +8.
+**At 11th level,** this bonus increases to +8.
 
-At 15th level: This bonus increases to +10.
+**At 15th level,** this bonus increases to +10.
 
-At 19th level: This bonus increases to +12.
+**At 19th level,** this bonus increases to +12.
 
 **Maddening Whispers (Su)**
-
-**Special:** Whether or not the save is successful, the shaman cannot target that creature with this
-hex again for 24 hours. This is a mind-affecting effect.
 
 **Standard:** At will, the shaman can invoke whispers from spirits of the Dark Tapestry to speak
 directly into the mind of a single target within 30 feet. These whispers utilize no known language,
@@ -116,12 +113,15 @@ yet the victim nevertheless feels convinced that, somehow, it was almost able to
 message. The target must succeed at a Will saving throw or be [confused](ref/misc/confused) for a
 number of rounds equal to 1 + [one-eighth](ref/misc/fractions-and-rounding) of her shaman level.
 
+**Special:** Whether or not the save is successful, the shaman cannot target that creature with this
+hex again for 24 hours. This is a mind-affecting effect.
+
 **Pierce the Veil (Su)**
 
 **Ability:** The shaman gains [darkvision](ref/rule/darkvision) to a range of up to 30 feet. If the
 shaman already has darkvision, its range increases by 30 feet.
 
-**At 8th Level:** This ability becomes enhanced, allowing the shaman to
+**At 8th level,** this ability becomes enhanced, allowing the shaman to
 [see perfectly in darkness](ref/umr/see-in-darkness) of any kind, even that created by
 [deeper darkness](ref/spell/deeper-darkness).
 
@@ -129,14 +129,14 @@ shaman already has darkvision, its range increases by 30 feet.
 
 **Spirit Animal**
 
+**Flavor:** The shaman's spirit animal has an alien physiology, including twitching tentacles,
+additional but blind eyes, or strangely deformed limbs.
+
 **Ability:** The spirit animal gains the shaman's choice of a swim speed or a climb speed equal to
 its highest speed, and one of its natural weapons increases in reach by 5 feet. If it did not have a
 natural weapon, it gains a tentacle attack as a secondary [natural weapon](ref/umr/natural-attacks)
 with 5-foot reach. Damage for this tentacle is standard for a creature of the spirit animal's size
 (1d2 for a Tiny spirit animal, or 1d3 for a Small one).
-
-**Flavor:** The shaman's spirit animal has an alien physiology, including twitching tentacles,
-additional but blind eyes, or strangely deformed limbs.
 
 ### Spirit Ability
 
@@ -145,14 +145,14 @@ following ability.
 
 **Touch of the Void (Su)**
 
-**At 10th Level:** Any creature the shaman strikes with this touch or with a melee weapon must
-succeed at a Fortitude saving throw or be [fatigued](ref/misc/fatigued) for a number of rounds equal
-to half the shaman's level. This has no effect on creatures that are already fatigued.
-
 **Standard:** The shaman is able to perform a melee touch attack that deals an amount of cold damage
 equal to 1d6 + [half](ref/misc/fractions-and-rounding) her shaman level.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 10th level,** any creature the shaman strikes with this touch or with a melee weapon must
+succeed at a Fortitude saving throw or be [fatigued](ref/misc/fatigued) for a number of rounds equal
+to half the shaman's level. This has no effect on creatures that are already fatigued.
 
 ### Greater Spirit Ability
 
@@ -197,12 +197,12 @@ following ability upon having access to the true version of that spirit.
 [greater polymorph](ref/spell/polymorph-greater), for 1 minute per day per shaman level. The minutes
 need not be consecutive, but they must be spent in 1-minute increments.
 
+**Usage:** 1 minute/day per shaman level; these minutes need not be consecutive, but must be spent
+in 1-minute increments
+
 **Special:** When she assumes these forms, some element of the new shape always sets it apart from a
 typical specimen, such as strangely colored eyes, limbs that bend in unusual ways, or a slimy
 coating of mucus over the flesh.
-
-**Usage:** 1 minute/day per shaman level; these minutes need not be consecutive, but must be spent
-in 1-minute increments
 
 ### Manifestation
 

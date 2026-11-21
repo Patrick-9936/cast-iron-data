@@ -47,21 +47,25 @@ back, covering it like a cloak._
 
 **Experience points:** 600
 
-**Armor class:** 18/15/14
+**Armor class:** 18
 
-**Dr:** 5/cold iron
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +3 natural, +1 size
 
 **Hit points:** 19 (3d6+9)
 
-**Mod:** +4 Dex, +3 natural, +1 size
+**Fort:** +3
 
 **Ref:** +7
 
-**Sr:** 13
-
 **Will:** +2
+
+**Dr:** 5/cold iron
+
+**Sr:** 13
 
 **Offense**
 

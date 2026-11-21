@@ -49,19 +49,23 @@ _This round, dust-colored creature's snout pokes out of its bony armor shell._
 
 **Experience points:** 100
 
-**Armor class:** 16/14/14
+**Armor class:** 16
 
-**Defensive abilities:** protective ball
+**Touch:** 14
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +2 natural, +2 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +2 Dex, +2 natural, +2 size
+**Fort:** +2
 
 **Ref:** +4
 
 **Will:** +1
+
+**Defensive abilities:** protective ball
 
 **Offense**
 

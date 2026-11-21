@@ -50,23 +50,27 @@ parody of the human form._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/9/18
+**Armor class:** 18
 
-**Defensive abilities:** meant to live, rise again
+**Touch:** 9
 
-**Fort:** +5
+**Flat-footed:** 18
+
+**AC modifiers:** -1 Dex, +9 natural
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** -1 Dex, +9 natural
+**Fort:** +5
 
 **Ref:** +3
 
-**Weaknesses:** resurrection vulnerability
-
 **Will:** +8
+
+**Defensive abilities:** meant to live, rise again
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Weaknesses:** resurrection vulnerability
 
 **Offense**
 

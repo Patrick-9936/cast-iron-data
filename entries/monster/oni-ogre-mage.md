@@ -51,21 +51,25 @@ afire with murderous intent._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/12/18
+**Armor class:** 21
 
-**Fort:** +12
+**Touch:** 12
+
+**Flat-footed:** 18
+
+**AC modifiers:** +4 armor, +3 Dex, +5 natural, -1 size
 
 **Hit points:** 92 (8d10+48)
 
-**Mod:** +4 armor, +3 Dex, +5 natural, -1 size
+**Fort:** +12
 
 **Ref:** +5
+
+**Will:** +10
 
 **Regen:** 5 (fire or acid)
 
 **Sr:** 19
-
-**Will:** +10
 
 **Offense**
 

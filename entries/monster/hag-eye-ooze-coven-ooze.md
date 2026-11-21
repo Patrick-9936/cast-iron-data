@@ -48,23 +48,27 @@ mass, seemingly scanning back and forth with each surge of movement._
 
 **Experience points:** 6,400
 
-**Armor class:** 4/4/4
+**Armor class:** 4
 
-**Defensive abilities:** split
+**Touch:** 4
 
-**Fort:** +9
+**Flat-footed:** 4
+
+**AC modifiers:** -5 Dex, -1 size
 
 **Hit points:** 115 (11d8+66)
 
-**Immune:** acid, cold, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, -1 size
+**Fort:** +9
 
 **Ref:** -2
 
-**Resist:** fire 10
-
 **Will:** -1
+
+**Defensive abilities:** split
+
+**Immune:** acid, cold, [ooze traits](ref/umr/ooze-traits)
+
+**Resist:** fire 10
 
 **Offense**
 

@@ -52,23 +52,27 @@ three eyes, and one huge mouth._
 
 **Experience points:** 2,400
 
-**Armor class:** 21/10/21
+**Armor class:** 21
 
-**Dr:** 5/bludgeoning
+**Touch:** 10
 
-**Fort:** +8
+**Flat-footed:** 21
+
+**AC modifiers:** +11 natural
 
 **Hit points:** 66 (7d10+28)
 
-**Immune:** cold, fire, [flanking](ref/rule/flanking)
-
-**Mod:** +11 natural
+**Fort:** +8
 
 **Ref:** +2
 
-**Resist:** electricity 10
-
 **Will:** +5
+
+**Dr:** 5/bludgeoning
+
+**Immune:** cold, fire, [flanking](ref/rule/flanking)
+
+**Resist:** electricity 10
 
 **Offense**
 

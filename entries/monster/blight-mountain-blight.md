@@ -52,25 +52,29 @@ with a stony club._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/14/25
+**Armor class:** 29
+
+**Touch:** 14
+
+**Flat-footed:** 25
+
+**AC modifiers:** +4 Dex, +15 natural
+
+**Hit points:** 200 (16d8+128)
+
+**Fort:** +15
+
+**Ref:** +9
+
+**Will:** +11
 
 **Defensive abilities:** rejuvenation
 
 **Fh:** 10
 
-**Fort:** +15
-
-**Hit points:** 200 (16d8+128)
-
 **Immune:** acid, electricity, [ooze traits](ref/umr/ooze-traits)
 
-**Mod:** +4 Dex, +15 natural
-
-**Ref:** +9
-
 **Resist:** cold 10
-
-**Will:** +11
 
 **Offense**
 

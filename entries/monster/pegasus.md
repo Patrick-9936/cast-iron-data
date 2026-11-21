@@ -47,13 +47,17 @@ grace._
 
 **Experience points:** 800
 
-**Armor class:** 14/11/12
+**Armor class:** 14
 
-**Fort:** +7
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +3 natural, -1 size
 
 **Hit points:** 34 (4d10+12)
 
-**Mod:** +2 Dex, +3 natural, -1 size
+**Fort:** +7
 
 **Ref:** +6
 

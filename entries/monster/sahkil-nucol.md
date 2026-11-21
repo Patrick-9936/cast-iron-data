@@ -51,25 +51,29 @@ flies._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Dr:** 5/good
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Immune:** death effects, disease, fear, poison
-
-**Mod:** +3 Dex, +4 natural
+**Fort:** +7
 
 **Ref:** +7
+
+**Will:** +2
+
+**Dr:** 5/good
+
+**Immune:** death effects, disease, fear, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 15
-
-**Will:** +2
 
 **Offense**
 

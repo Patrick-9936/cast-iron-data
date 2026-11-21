@@ -51,7 +51,21 @@ hairy, wriggling legs._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/9/16
+**Armor class:** 16
+
+**Touch:** 9
+
+**Flat-footed:** 16
+
+**AC modifiers:** -1 Dex, +7 natural
+
+**Hit points:** 37 (5d10+10)
+
+**Fort:** +6
+
+**Ref:** +0
+
+**Will:** +5
 
 **Amorph:** present
 
@@ -59,21 +73,11 @@ hairy, wriggling legs._
 
 **Dr:** 5/cold iron or lawful
 
-**Fort:** +6
-
-**Hit points:** 37 (5d10+10)
-
 **Immune:** cold, mind-affecting effects, poison
-
-**Mod:** -1 Dex, +7 natural
-
-**Ref:** +0
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 15
-
-**Will:** +5
 
 **Offense**
 

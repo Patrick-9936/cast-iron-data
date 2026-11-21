@@ -14,6 +14,9 @@ group = "alchemist-discovery"
 
 **Spell Knowledge**
 
+**Flavor:** Your studies into how all things are interconnected have taught you to cast a very
+limited number of spells.
+
 **Ability:** Select a single spell from the sorcerer/wizard spell list that is at least 2 levels
 lower than your highest-level extract known. You can prepare and cast this spell as an arcane spell.
 
@@ -22,9 +25,6 @@ is equal to your alchemist level, and your save DCs and [concentration](ref/rule
 checks are Intelligence-based. You're considered to have this spell on your spell list for purposes
 of prerequisites, [spell completion](ref/misc/spell-completion) items, and
 [spell trigger](ref/misc/spell-trigger) items.
-
-**Flavor:** Your studies into how all things are interconnected have taught you to cast a very
-limited number of spells.
 
 **Special:** You may select this discovery more than once. Each time, it grants you access to
 another spell from the sorcerer/wizard spell list.

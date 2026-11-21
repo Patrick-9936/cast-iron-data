@@ -52,21 +52,25 @@ _This towering collection of sun-bleached bones is assembled in a humanoid form.
 
 **Experience points:** 19,200
 
-**Armor class:** 27/12/24
+**Armor class:** 27
 
-**Dr:** 10/magic
+**Touch:** 12
 
-**Fort:** +10
+**Flat-footed:** 24
+
+**AC modifiers:** +3 Dex, +15 natural, -1 size
 
 **Hit points:** 161 (17d8+85)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +15 natural, -1 size
+**Fort:** +10
 
 **Ref:** +8
 
 **Will:** +12
+
+**Dr:** 10/magic
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

@@ -53,23 +53,27 @@ over everything in its path._
 
 **Experience points:** 600
 
-**Armor class:** 16/16/14
+**Armor class:** 16
 
-**Defensive abilities:** swarm traits
+**Touch:** 16
 
-**Fort:** +6
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 size
 
 **Hit points:** 26 (4d8+8)
 
-**Immune:** weapon damage
-
-**Mod:** +2 Dex, +4 size
+**Fort:** +6
 
 **Ref:** +3
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), swarm traits
-
 **Will:** +1
+
+**Defensive abilities:** swarm traits
+
+**Immune:** weapon damage
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), swarm traits
 
 **Offense**
 

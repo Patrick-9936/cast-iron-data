@@ -50,14 +50,14 @@ without penalty, but those that enter the cloud are affected.
 
 **Earth Glide (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You gain the ability to move through earth, dirt, and stone. You cannot move through
 worked earth or stone; only natural substances can be traversed. If your total duration expires
 before you exit the earth, you are flung back to the point where you entered the stone, take 4d6
 points of damage, and are [stunned](ref/misc/stunned) for 1 round. Your burrowing does not leave a
 hole, nor does it give any sign of your presence (although you can be detected by creatures with
 [tremorsense](ref/umr/tremorsense)).
-
-**Gained:** At 8th Level
 
 **Usage:** 1 time/day per wizard level
 

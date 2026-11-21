@@ -51,19 +51,23 @@ rack of sharp antlers on its brow._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Dr:** 5/magic
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Mod:** +3 Dex, +4 natural
+**Fort:** +7
 
 **Ref:** +7
 
 **Will:** +3
+
+**Dr:** 5/magic
 
 **Offense**
 

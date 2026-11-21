@@ -50,25 +50,29 @@ _Dressed in noble regalia, this humanoid creature of metal and wood has a pierci
 
 **Experience points:** 9,600
 
-**Armor class:** 24/12/22
+**Armor class:** 24
+
+**Touch:** 12
+
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +12 natural
+
+**Hit points:** 134 (12d10+68)
+
+**Fort:** +12
+
+**Ref:** +8
+
+**Will:** +12
 
 **Defensive abilities:** constructed
 
 **Dr:** 10/chaotic
 
-**Fort:** +12
-
-**Hit points:** 134 (12d10+68)
-
-**Mod:** +2 Dex, +12 natural
-
-**Ref:** +8
-
 **Regen:** 5 (chaotic)
 
 **Sr:** 21
-
-**Will:** +12
 
 **Offense**
 

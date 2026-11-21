@@ -53,19 +53,23 @@ stones as it stalks forth._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/10/21
+**Armor class:** 22
 
-**Fort:** +11
+**Touch:** 10
+
+**Flat-footed:** 21
+
+**AC modifiers:** +1 Dex, +12 natural, -1 size
 
 **Hit points:** 126 (11d12+55)
 
-**Immune:** paralysis, poison, sleep
-
-**Mod:** +1 Dex, +12 natural, -1 size
+**Fort:** +11
 
 **Ref:** +8
 
 **Will:** +8
+
+**Immune:** paralysis, poison, sleep
 
 **Offense**
 

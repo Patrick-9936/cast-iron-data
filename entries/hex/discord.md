@@ -19,7 +19,7 @@ within line of sight. The target's [attitude](ref/skill/diplomacy) toward the ot
 decreases by one step. A successful Will save negates this effect. The effect lasts for a number of
 rounds equal to the witch's Intelligence modifier.
 
-**At 8th Level:** This effect decreases the attitude of the target creature by two steps.
+**At 8th level,** this effect decreases the attitude of the target creature by two steps.
 
 **Special:** Whether or not the save is successful, a creature cannot be the target of this hex
 again for 1 day. This is a mind-affecting charm effect.

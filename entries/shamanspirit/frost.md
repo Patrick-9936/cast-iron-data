@@ -63,12 +63,12 @@ this hex again for 24 hours.
 a Fortitude saving throw. On a failed save, the target is [fatigued](ref/misc/fatigued) for 2
 rounds.
 
+**At 8th level,** the duration increases to 3 rounds.
+
+**At 16th level,** the duration increases to 4 rounds.
+
 **Special:** Whether or not the save is successful, the creature cannot be the target of this hex
 again for 24 hours.
-
-At 8th level: The duration increases to 3 rounds.
-
-At 16th level: The duration increases to 4 rounds.
 
 **Sluggish (Su)**
 
@@ -86,11 +86,11 @@ again for 24 hours.
 1). This resistance does not stack with any other cold resistance, such as from special abilities or
 magical items.
 
+**At 8th level,** the duration of this hex is extended by 1 round.
+
+**At 16th level,** the duration of this hex is extended by another 1 round.
+
 **Special:** A creature targeted by this hex cannot be affected by it again for 24 hours.
-
-At 8th level: The duration of this hex is extended by 1 round.
-
-At 16th level: The duration of this hex is extended by another 1 round.
 
 **Wilds-Attuned (Ex)**
 
@@ -113,14 +113,14 @@ ability.
 
 **Ice Splinter (Su)**
 
-**At 11th Level:** Any weapon she wields is treated as a [frost](ref/magic-enh/frost) weapon.
-
 **Standard:** The shaman can shoot razor-sharp icicles at an enemy within 30 feet as a ranged touch
 attack. This barrage deals an amount of piercing damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) her shaman level. The shaman can use this ability a number
 of times per day equal to 3 + her Charisma modifier.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 11th level,** any weapon she wields is treated as a [frost](ref/magic-enh/frost) weapon.
 
 ### Greater Spirit Ability
 

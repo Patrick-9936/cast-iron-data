@@ -56,29 +56,33 @@ Mistsight, See in darkness, True seeing
 
 **Experience points:** 25,600
 
-**Armor class:** 30/12/28
+**Armor class:** 30
+
+**Touch:** 12
+
+**Flat-footed:** 28
+
+**AC modifiers:** +2 Dex, +4 insight, +18 natural, -4 size
+
+**Hit points:** 184 (13d8+126)
+
+**Fort:** +10
+
+**Ref:** +6
+
+**Will:** +9
 
 **Defensive abilities:** absolute readiness
 
 **Dr:** 10/epic
 
-**Fort:** +10
-
-**Hit points:** 184 (13d8+126)
-
 **Immune:** blindness, dazzled
-
-**Mod:** +2 Dex, +4 insight, +18 natural, -4 size
-
-**Ref:** +6
 
 **Resist:** cold 30, fire 30
 
 **Rock Ct:** present
 
 **Vulner:** fascination and _[sleep](ref/spell/sleep)_
-
-**Will:** +9
 
 **Offense**
 

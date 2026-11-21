@@ -51,13 +51,17 @@ glistens with thick, clear slime._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/9/19
+**Armor class:** 20
 
-**Fort:** +8
+**Touch:** 9
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +11 natural, -2 size
 
 **Hit points:** 84 (8d8+48)
 
-**Mod:** +1 Dex, +11 natural, -2 size
+**Fort:** +8
 
 **Ref:** +5
 

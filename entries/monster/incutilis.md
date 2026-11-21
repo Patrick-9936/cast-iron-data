@@ -55,13 +55,17 @@ textured like the surface a brain._
 
 **Experience points:** 600
 
-**Armor class:** 17/14/15
+**Armor class:** 17
 
-**Fort:** +1
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +3 natural, +2 size
 
 **Hit points:** 18 (4d8)
 
-**Mod:** +2 Dex, +3 natural, +2 size
+**Fort:** +1
 
 **Ref:** +3
 

@@ -52,19 +52,23 @@ abilities = ["16", "10", "16", "12", "10", "15"]
 
 **Experience points:** 19,200
 
-**Armor class:** 24/11/24
+**Armor class:** 24
 
-**Defensive abilities:** greater resolve, honorable stand 1/day, resolve 7/day
+**Touch:** 11
 
-**Fort:** +13
+**Flat-footed:** 24
+
+**AC modifiers:** +9 armor, +1 deflection, +1 natural, +3 shield
 
 **Hit points:** 141 (13d10+65)
 
-**Mod:** +9 armor, +1 deflection, +1 natural, +3 shield
+**Fort:** +13
 
 **Ref:** +6
 
 **Will:** +8
+
+**Defensive abilities:** greater resolve, honorable stand 1/day, resolve 7/day
 
 **Offense**
 

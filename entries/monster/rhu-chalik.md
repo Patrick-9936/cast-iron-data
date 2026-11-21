@@ -52,23 +52,27 @@ bulging, lidless eye._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/14/15
+**Armor class:** 18
+
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 armor, +3 Dex, +1 size
+
+**Hit points:** 68 (8d8+32)
+
+**Fort:** +6
+
+**Ref:** +5
+
+**Will:** +8
 
 **Defensive abilities:** all-around vision
 
 **Fh:** 2
 
-**Fort:** +6
-
-**Hit points:** 68 (8d8+32)
-
 **Immune:** cold, disease
-
-**Mod:** +4 armor, +3 Dex, +1 size
-
-**Ref:** +5
-
-**Will:** +8
 
 **Offense**
 

@@ -50,21 +50,25 @@ _The half-formed shape a snarling dog rises out of this pile of grayish foam._
 
 **Experience points:** 1,600
 
-**Armor class:** 14/14/10
+**Armor class:** 14
 
-**Fh:** 2
+**Touch:** 14
 
-**Fort:** +8
+**Flat-footed:** 10
+
+**AC modifiers:** +4 Dex
 
 **Hit points:** 73 (7d8+42)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +4 Dex
+**Fort:** +8
 
 **Ref:** +6
 
 **Will:** +4
+
+**Fh:** 2
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

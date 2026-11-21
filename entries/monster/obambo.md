@@ -54,25 +54,29 @@ ghostly body, which appears stuffed with decaying leaves and other plant matter.
 
 **Experience points:** 25,600
 
-**Armor class:** 21/21/17
+**Armor class:** 21
+
+**Touch:** 21
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 deflection, +4 Dex
+
+**Hit points:** 175 (14d8+112)
+
+**Fort:** +11
+
+**Ref:** +10
+
+**Will:** +15
 
 **Chan Res:** +4
 
 **Defensive abilities:** rejuvenation
 
-**Fort:** +11
-
-**Hit points:** 175 (14d8+112)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
-
-**Mod:** +7 deflection, +4 Dex
-
-**Ref:** +10
-
-**Will:** +15
 
 **Offense**
 

@@ -53,19 +53,23 @@ nauseating vitality, like sentient oily bubbles threatening to burst._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/14/15
+**Armor class:** 19
 
-**Fort:** +5
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +5 natural
 
 **Hit points:** 47 (5d8+25)
 
-**Mod:** +4 Dex, +5 natural
+**Fort:** +5
 
 **Ref:** +5
 
-**Resist:** acid 5, cold 5
-
 **Will:** +1
+
+**Resist:** acid 5, cold 5
 
 **Offense**
 

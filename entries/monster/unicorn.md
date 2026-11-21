@@ -50,19 +50,23 @@ horn on its brow._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/12
+**Armor class:** 15
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +3 natural, -1 size; +2 deflection vs. evil
 
 **Hit points:** 34 (4d10+12)
 
-**Immune:** charm, compulsion, poison
-
-**Mod:** +3 Dex, +3 natural, -1 size; +2 deflection vs. evil
+**Fort:** +7
 
 **Ref:** +7
 
 **Will:** +6; +2 resistance vs. evil
+
+**Immune:** charm, compulsion, poison
 
 **Offense**
 

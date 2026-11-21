@@ -55,25 +55,29 @@ disturbed earth and rock follows behind them._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/14/32
+**Armor class:** 34
 
-**Dr:** 10/-
+**Touch:** 14
 
-**Fort:** +22
+**Flat-footed:** 32
+
+**AC modifiers:** +1 Dex, +1 dodge, +20 natural, +2 size
 
 **Hit points:** 324 (24d10+192)
 
-**Immune:** electricity, elemental traits, swarm traits
-
-**Mod:** +1 Dex, +1 dodge, +20 natural, +2 size
+**Fort:** +22
 
 **Ref:** +17
+
+**Will:** +16
+
+**Dr:** 10/-
+
+**Immune:** electricity, elemental traits, swarm traits
 
 **Resist:** cold 30, fire 30
 
 **Sr:** 30
-
-**Will:** +16
 
 **Offense**
 

@@ -53,19 +53,23 @@ insect._
 
 **Experience points:** 800
 
-**Armor class:** 15/10/14
+**Armor class:** 15
 
-**Fort:** +7
+**Touch:** 10
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +5 natural, -1 size
 
 **Hit points:** 30 (4d8+12)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +5 natural, -1 size
+**Fort:** +7
 
 **Ref:** +2
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

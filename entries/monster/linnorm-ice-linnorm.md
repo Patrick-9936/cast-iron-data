@@ -48,27 +48,31 @@ from its coiling flanks._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/8/26
+**Armor class:** 32
+
+**Touch:** 8
+
+**Flat-footed:** 26
+
+**AC modifiers:** +6 Dex, +24 natural, -8 size
+
+**Hit points:** 279 (18d12+162)
+
+**Fort:** +20
+
+**Ref:** +19
+
+**Will:** +16
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 15/cold iron
 
-**Fort:** +20
-
-**Hit points:** 279 (18d12+162)
-
 **Immune:** cold, curse effects, mind-affecting effects, paralysis, poison, sleep
-
-**Mod:** +6 Dex, +24 natural, -8 size
-
-**Ref:** +19
 
 **Regen:** 10 (cold iron)
 
 **Sr:** 28
-
-**Will:** +16
 
 **Offense**
 

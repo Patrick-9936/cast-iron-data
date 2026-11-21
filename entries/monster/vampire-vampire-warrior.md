@@ -54,7 +54,21 @@ abilities = ["20", "20", "-", "10", "15", "18"]
 
 **Experience points:** 4,800
 
-**Armor class:** 25/15/20
+**Armor class:** 25
+
+**Touch:** 15
+
+**Flat-footed:** 20
+
+**AC modifiers:** +8 armor, +4 Dex, +1 dodge, +2 natural
+
+**Hit points:** 78 (7d10+35)
+
+**Fort:** +9
+
+**Ref:** +7
+
+**Will:** +4 (+2 vs. fear); +2 vs. poison
 
 **Chan Res:** +4
 
@@ -64,21 +78,11 @@ abilities = ["20", "20", "-", "10", "15", "18"]
 
 **Fh:** 5
 
-**Fort:** +9
-
-**Hit points:** 78 (7d10+35)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +8 armor, +4 Dex, +1 dodge, +2 natural
-
-**Ref:** +7
 
 **Resist:** cold 20
 
 **Weaknesses:** jiang-shi weaknesses
-
-**Will:** +4 (+2 vs. fear); +2 vs. poison
 
 **Offense**
 

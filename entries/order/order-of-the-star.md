@@ -48,10 +48,6 @@ An order of the star cavalier gains the following abilities as he increases in l
 
 **Gained:** At 2nd Level
 
-**Special:** In addition, the cavalier adds [half](ref/misc/fractions-and-rounding) his cavalier
-level to any levels of paladin or cleric he might possess for the purposes of determining the
-effects of [channel energy](ref/ability/channel-energy) or [lay on hands](ref/ability/lay-on-hands).
-
 **Standard:** The cavalier can make a short prayer, filling him with confidence in his abilities. At
 any point in the next minute, he can receive a competence bonus on an ability check, attack roll,
 saving throw, or skill check equal to his Charisma modifier. He must declare that he is using this
@@ -59,7 +55,13 @@ bonus before the roll is made.
 
 He can use this ability up to four times per day, once for each type of check or roll.
 
+**Special:** In addition, the cavalier adds [half](ref/misc/fractions-and-rounding) his cavalier
+level to any levels of paladin or cleric he might possess for the purposes of determining the
+effects of [channel energy](ref/ability/channel-energy) or [lay on hands](ref/ability/lay-on-hands).
+
 **For the Faith (Ex)**
+
+**Gained:** At 8th Level
 
 **Flavor:** The cavalier can call upon his faith to bolster himself in combat.
 
@@ -67,11 +69,13 @@ He can use this ability up to four times per day, once for each type of check or
 rolls equal to his Charisma modifier for 1 round. In addition, any allies within 30 feet that share
 his faith also receive half this bonus (minimum +1).
 
-**Gained:** At 8th Level
-
 **Usage:** 1 time/day + 1 per 4 cavalier levels beyond 8th
 
 **Retribution (Ex)**
+
+**Gained:** At 15th Level
+
+**Flavor:** The cavalier can take retribution on those who dare to strike an agent of his faith.
 
 **Ability:** Whenever an enemy makes a successful melee attack against the cavalier or an adjacent
 ally devoted to the same faith as the cavalier, the enemy provokes an attack of opportunity from the
@@ -81,7 +85,3 @@ If the attack made by the enemy was a critical hit, the cavalier may treat the e
 of his _challenge_ for the attack of opportunity.
 
 The cavalier can use this ability once per round.
-
-**Flavor:** The cavalier can take retribution on those who dare to strike an agent of his faith.
-
-**Gained:** At 15th Level

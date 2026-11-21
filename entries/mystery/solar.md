@@ -54,7 +54,7 @@ An oracle with the Solar mystery can choose from any of the following revelation
 
 **Astral Caravan (Su)**
 
-**Fullround:** You can step into the planar border where the Astral Plane abuts the Material Plane,
+**Full-round:** You can step into the planar border where the Astral Plane abuts the Material Plane,
 pulling up to one additional person per class level with you. You can't travel fully into the Astral
 Plane or any of the other planes it borders, but while using this ability you can cover incredible
 distances, traversing 50 miles per hour, as per the [shadow walk](ref/spell/shadow-walk) spell.
@@ -64,21 +64,21 @@ distances, traversing 50 miles per hour, as per the [shadow walk](ref/spell/shad
 
 **Blistered Caress (Su)**
 
+**Flavor:** You can channel the hostile, unforgiving heat of the sun into your touch.
+
 **Ability:** You make a melee touch attack that deals 1d8 points of fire damage per 2 oracle levels
 (Fortitude half). Against a plant creature, this touch heals or damages the creature (your choice)
 for 1d6 points of fire damage per oracle level.
 
-**Flavor:** You can channel the hostile, unforgiving heat of the sun into your touch.
+**At 1st level,** you can use this attack once a day.
 
-**At 1st Level:** You can use this attack once a day.
-
-**At 10th Level:** You can use this twice a day.
-
-**At 15th Level:** Your touch is so intense that a creature that fails its save is also
-[staggered](ref/misc/staggered) for 1d6 rounds.
-
-**At 7th Level:** A creature that fails its save against this revelation becomes
+**At 7th level,** a creature that fails its save against this revelation becomes
 [sickened](ref/misc/sickened) for 1d4 hours in addition to taking fire damage.
+
+**At 10th level,** you can use this twice a day.
+
+**At 15th level,** your touch is so intense that a creature that fails its save is also
+[staggered](ref/misc/staggered) for 1d6 rounds.
 
 **Luminous Form (Su)**
 
@@ -111,16 +111,16 @@ checks equal to 1/2 your oracle level.
 
 **Serpent in the Sun (Su)**
 
-**At 10th Level:** You become immune to magical diseases, gain a +2 bonus on saving throws against
-poisons, and only need to sleep half as long to rest or recover from fatigue or exhaustion.
-
-**At 15th Level:** You become immune to poison and fatigue.
-
-**At 5th Level:** You become immune to nonmagical diseases and no longer need to drink water to
-survive.
-
 **Passive:** So long as you are exposed to at least 4 hours of sunlight per day, you no longer need
 to eat to survive and you gain +2 bonus on saves against diseases.
+
+**At 5th level,** you become immune to nonmagical diseases and no longer need to drink water to
+survive.
+
+**At 10th level,** you become immune to magical diseases, gain a +2 bonus on saving throws against
+poisons, and only need to sleep half as long to rest or recover from fatigue or exhaustion.
+
+**At 15th level,** you become immune to poison and fatigue.
 
 **Special:** You lose these benefits if you fail to spend at least 4 hours in sunlight in a 24-hour
 period.
@@ -131,19 +131,19 @@ period.
 touch attack with no range increment. Your _solar wind_ deals fire damage equal to 1d6 +
 [half](ref/misc/fractions-and-rounding) of your oracle level.
 
-**At 7th Level:** You can also knock an opponent back, treating the blast as a
+**Usage:** 3 + Charisma modifier times/day
+
+**At 7th level,** you can also knock an opponent back, treating the blast as a
 [bull rush](ref/rule/bull-rush) combat maneuver that uses your caster level + your Charisma modifier
 in place of your CMB.
-
-**Usage:** 3 + Charisma modifier times/day
 
 **Starlight Agility**
 
 **Ability:** You gain [Dodge](ref/feat/dodge) as a bonus feat.
 
-**At 15th Level:** You gain [Lightning Stance](ref/feat/lightning-stance) as a bonus feat.
+**At 8th level,** you gain [Wind Stance](ref/feat/wind-stance) as a bonus feat.
 
-**At 8th Level:** You gain [Wind Stance](ref/feat/wind-stance) as a bonus feat.
+**At 15th level,** you gain [Lightning Stance](ref/feat/lightning-stance) as a bonus feat.
 
 **Special:** You do not need to meet the prerequisites to receive these feats.
 
@@ -156,11 +156,11 @@ than bright light, though it does work within the area of a _[daylight](ref/spel
 You can _sun stride_ up to 40 feet per day; this can be a single _stride_ of 40 feet or four strides
 of 10 feet each.
 
-**At 13th Level:** You can _sun stride_ 160 feet per day.
+**At 9th level,** you can _sun stride_ 80 feet per day.
 
-**At 17th Level:** You can _sun stride_ 320 feet per day.
+**At 13th level,** you can _sun stride_ 160 feet per day.
 
-**At 9th Level:** You can _sun stride_ 80 feet per day.
+**At 17th level,** you can _sun stride_ 320 feet per day.
 
 **Prereq:** 5th-level oracle
 
@@ -169,33 +169,33 @@ counts as a 10-foot increment.
 
 **Sungazer (Sp)**
 
+**Flavor:** You can study the sun and gaze upon any place its light touches.
+
 **Ability:** You can use [clairaudience/clairvoyance](ref/spell/clairaudience-clairvoyance) as a
 [spell-like ability](ref/umr/spell-like-abilities), but only for visual observation and you can only
 place your sensor in places currently being touched by sunlight.
 
-**Flavor:** You can study the sun and gaze upon any place its light touches.
-
-**At 10th Level:** You can instead use [scrying](ref/spell/scrying) to observe any area touched by
-sunlight.
-
-**At 15th Level:** You can use [greater scrying](ref/spell/scrying-greater) instead.
-
-**Prereq:** 5th-level oracle
-
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
+**At 10th level,** you can instead use [scrying](ref/spell/scrying) to observe any area touched by
+sunlight.
+
+**At 15th level,** you can use [greater scrying](ref/spell/scrying-greater) instead.
+
+**Prereq:** 5th-level oracle
+
 **Torch Touch (Su)**
-
-**At 1st Level:** You can affect light sources up to the size of a torch.
-
-**At 14th Level:** You can affect Large or smaller nonmagical light sources (such as bonfires) and
-magical light sources up to the size of an [everburning torch](ref/eq-misc/everburning-torch).
-
-**At 7th Level:** You can affect any Medium or smaller nonmagical light source (such as a campfire).
 
 **Move:** You can alter the amount of light shed by any nonmagical light source within 60 feet so
 that its light radius is either halved or doubled.
+
+**At 1st level,** you can affect light sources up to the size of a torch.
+
+**At 7th level,** you can affect any Medium or smaller nonmagical light source (such as a campfire).
+
+**At 14th level,** you can affect Large or smaller nonmagical light sources (such as bonfires) and
+magical light sources up to the size of an [everburning torch](ref/eq-misc/everburning-torch).
 
 **Special:** If a creature is holding the light source you are trying to affect, the creature can
 attempt a Reflex save to avoid the effect.
@@ -204,9 +204,9 @@ attempt a Reflex save to avoid the effect.
 
 **Final Revelation**
 
-**Flavor:** Yours becomes a journey without end.
-
 **Gained:** At 20th Level
+
+**Flavor:** Yours becomes a journey without end.
 
 **Passive:** You cease aging, no longer suffer [age-related penalties](ref/rule/age) to ability
 scores, and cannot be magically aged. Any spells you cast of the conjuration (teleport) subschool or

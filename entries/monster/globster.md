@@ -52,21 +52,25 @@ filled with teeth._
 
 **Experience points:** 1,600
 
-**Armor class:** 16/4/16
+**Armor class:** 16
 
-**Fort:** +7
+**Touch:** 4
+
+**Flat-footed:** 16
+
+**AC modifiers:** -5 Dex, +12 natural, -1 size
 
 **Hit points:** 57 (6d8+30)
 
-**Immune:** acid, bludgeoning and piercing damage, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, +12 natural, -1 size
+**Fort:** +7
 
 **Ref:** -3
 
-**Resist:** cold 10, electricity 10
-
 **Will:** -3
+
+**Immune:** acid, bludgeoning and piercing damage, [ooze traits](ref/umr/ooze-traits)
+
+**Resist:** cold 10, electricity 10
 
 **Offense**
 

@@ -48,13 +48,17 @@ extends around its neck._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/10/17
+**Armor class:** 18
 
-**Fort:** +11
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +8 natural, -1 size
 
 **Hit points:** 59 (7d8+28)
 
-**Mod:** +1 Dex, +8 natural, -1 size
+**Fort:** +11
 
 **Ref:** +8
 

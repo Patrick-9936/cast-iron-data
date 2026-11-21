@@ -52,7 +52,21 @@ _One bleached-bone hand of this robed, skeletal figure grasps a massive, curved 
 
 **Experience points:** 614,400
 
-**Armor class:** 39/29/28
+**Armor class:** 39
+
+**Touch:** 29
+
+**Flat-footed:** 28
+
+**AC modifiers:** +10 Dex, +1 dodge, +10 natural, +8 profane
+
+**Hit points:** 400 (32d8+256)
+
+**Fort:** +26
+
+**Ref:** +29
+
+**Will:** +32
 
 **Chan Res:** +4
 
@@ -60,19 +74,9 @@ _One bleached-bone hand of this robed, skeletal figure grasps a massive, curved 
 
 **Dr:** 10/-
 
-**Fort:** +26
-
-**Hit points:** 400 (32d8+256)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +10 Dex, +1 dodge, +10 natural, +8 profane
-
-**Ref:** +29
-
 **Sr:** 33
-
-**Will:** +32
 
 **Offense**
 

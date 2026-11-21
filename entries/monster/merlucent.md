@@ -52,19 +52,23 @@ supports its faintly glowing flesh._
 
 **Experience points:** 800
 
-**Armor class:** 16/13/13
+**Armor class:** 16
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +3 natural
 
 **Hit points:** 26 (4d8+8)
 
-**Mod:** +3 Dex, +3 natural
+**Fort:** +3
 
 **Ref:** +4
 
-**Resist:** cold 5
-
 **Will:** +6
+
+**Resist:** cold 5
 
 **Offense**
 

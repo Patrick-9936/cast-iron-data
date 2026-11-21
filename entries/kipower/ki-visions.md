@@ -14,11 +14,11 @@ group = "ki-power"
 
 **Ki Visions (Su)**
 
+**Flavor:** A monk with this ability often sees visions of spirits or hears the voice of his
+departed mentor in his dreams.
+
 **Ability:** On any given night during which the monk dreams, he can use this ability to gain the
 benefits of a [divination](ref/spell/divination). If he does, he spends 2 ki points from the next
 day's total.
-
-**Flavor:** A monk with this ability often sees visions of spirits or hears the voice of his
-departed mentor in his dreams.
 
 **Prereq:** 10th-level monk

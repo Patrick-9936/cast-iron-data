@@ -46,19 +46,23 @@ _This small-eyed rodent has a rounded body with numerous quills running all over
 
 **Experience points:** 100
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Defensive abilities:** quills
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 5 (1d8+1)
 
-**Mod:** +1 Dex, +2 size
+**Fort:** +3
 
 **Ref:** +5
 
 **Will:** -1
+
+**Defensive abilities:** quills
 
 **Offense**
 

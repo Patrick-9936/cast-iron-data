@@ -18,7 +18,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Dark Shifter (Su):**
+**Dark Shifter (Su)**
 
 **Move:** The magus can expend 1 point from his arcane pool to change the target of an ongoing spell
 effect with the darkness descriptor. The new target must be within the spell's original range, and

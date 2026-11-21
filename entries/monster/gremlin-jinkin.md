@@ -50,21 +50,25 @@ teeth and glowing, orange eyes._
 
 **Experience points:** 400
 
-**Armor class:** 18/17/13
+**Armor class:** 18
 
-**Dr:** 5/cold iron
+**Touch:** 17
 
-**Fort:** +0
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +1 dodge, +1 natural, +2 size
 
 **Hit points:** 6 (1d6+3)
 
-**Mod:** +4 Dex, +1 dodge, +1 natural, +2 size
+**Fort:** +0
 
 **Ref:** +6
 
-**Sr:** 12
-
 **Will:** +4
+
+**Dr:** 5/cold iron
+
+**Sr:** 12
 
 **Offense**
 

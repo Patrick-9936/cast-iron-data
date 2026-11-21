@@ -53,13 +53,17 @@ plates._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/10/17
+**Armor class:** 19
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +9 natural, -2 size
 
 **Hit points:** 75 (10d8+30)
 
-**Mod:** +2 Dex, +9 natural, -2 size
+**Fort:** +10
 
 **Ref:** +9
 

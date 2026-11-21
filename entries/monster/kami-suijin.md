@@ -51,27 +51,31 @@ the sunlight and glossy eyes bright with good-natured intelligence._
 
 **Experience points:** 38,400
 
-**Armor class:** 30/12/27
+**Armor class:** 30
+
+**Touch:** 12
+
+**Flat-footed:** 27
+
+**AC modifiers:** +2 Dex, +1 dodge, +18 natural, -1 size
+
+**Hit points:** 207 (18d10+108)
+
+**Fort:** +17
+
+**Ref:** +15
+
+**Will:** +12
 
 **Dr:** 10/cold iron and evil
 
 **Fh:** 7
 
-**Fort:** +17
-
-**Hit points:** 207 (18d10+108)
-
 **Immune:** bleed, mind-affecting effects, petrification, polymorph effects
-
-**Mod:** +2 Dex, +1 dodge, +18 natural, -1 size
-
-**Ref:** +15
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 25
-
-**Will:** +12
 
 **Offense**
 

@@ -52,23 +52,27 @@ limbs._
 
 **Experience points:** 19,200
 
-**Armor class:** 28/14/22
+**Armor class:** 28
 
-**Dr:** 10/adamantine
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +2 dodge, +14 natural, -2 size
 
 **Hit points:** 128 (16d10+40)
 
-**Immune:** fire, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +4 Dex, +2 dodge, +14 natural, -2 size
+**Fort:** +5
 
 **Ref:** +11
 
-**Vulner:** electricity
-
 **Will:** +5
+
+**Dr:** 10/adamantine
+
+**Immune:** fire, [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

@@ -46,13 +46,17 @@ sickle-shaped claw._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +3 natural
 
 **Hit points:** 34 (4d8+16)
 
-**Mod:** +2 Dex, +3 natural
+**Fort:** +8
 
 **Ref:** +6
 

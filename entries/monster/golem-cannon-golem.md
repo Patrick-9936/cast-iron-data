@@ -50,21 +50,25 @@ movement with mechanical precision._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/16/24
+**Armor class:** 31
 
-**Dr:** 15/adamantine
+**Touch:** 16
 
-**Fort:** +6
+**Flat-footed:** 24
+
+**AC modifiers:** +7 Dex, +15 natural, -1 size
 
 **Hit points:** 140 (20d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +7 Dex, +15 natural, -1 size
+**Fort:** +6
 
 **Ref:** +13
 
 **Will:** +8
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

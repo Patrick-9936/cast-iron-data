@@ -53,23 +53,27 @@ tentacles._
 
 **Experience points:** 307,200
 
-**Armor class:** 34/6/34
+**Armor class:** 34
+
+**Touch:** 6
+
+**Flat-footed:** 34
+
+**AC modifiers:** +28 natural, -4 size
+
+**Hit points:** 400 (32d8+256)
+
+**Fort:** +20
+
+**Ref:** +12
+
+**Will:** +24; +4 vs. psychic spells
 
 **Defensive abilities:** psychic resilience
 
 **Dr:** 15/cold iron
 
-**Fort:** +20
-
-**Hit points:** 400 (32d8+256)
-
-**Mod:** +28 natural, -4 size
-
-**Ref:** +12
-
 **Sr:** 31
-
-**Will:** +24; +4 vs. psychic spells
 
 **Offense**
 

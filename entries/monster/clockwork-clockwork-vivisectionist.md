@@ -53,23 +53,27 @@ intentions clear._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/14/20
+**Armor class:** 24
 
-**Dr:** 10/bludgeoning
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +2 dodge, +10 natural
 
 **Hit points:** 91 (13d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +2 dodge, +10 natural
+**Fort:** +4
 
 **Ref:** +8
 
-**Vulner:** electricity
-
 **Will:** +3
+
+**Dr:** 10/bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

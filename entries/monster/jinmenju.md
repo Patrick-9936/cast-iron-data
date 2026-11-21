@@ -55,19 +55,23 @@ look vaguely like human heads._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/7/25
+**Armor class:** 25
 
-**Fort:** +14
+**Touch:** 7
+
+**Flat-footed:** 25
+
+**AC modifiers:** -1 Dex, +18 natural, -2 size
 
 **Hit points:** 149 (13d8+91)
 
-**Immune:** [plant traits](ref/umr/plant-traits), poison
-
-**Mod:** -1 Dex, +18 natural, -2 size
+**Fort:** +14
 
 **Ref:** +5
 
 **Will:** +5
+
+**Immune:** [plant traits](ref/umr/plant-traits), poison
 
 **Offense**
 

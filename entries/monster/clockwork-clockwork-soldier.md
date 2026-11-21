@@ -52,23 +52,27 @@ stands ready at attention._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Dr:** 5/adamantine
+**Touch:** 14
 
-**Fort:** +2
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +2 dodge, +6 natural
 
 **Hit points:** 64 (8d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +2 dodge, +6 natural
+**Fort:** +2
 
 **Ref:** +6
 
-**Vulner:** electricity
-
 **Will:** +2
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

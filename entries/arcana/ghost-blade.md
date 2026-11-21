@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Ghost Blade (Su):**
+**Ghost Blade (Su)**
 
 **Ability:** Whenever the magus enchants his weapon using his arcane pool, he may spend 1 additional
 point from his arcane pool to add the [brilliant energy](ref/magic-enh/brilliant-energy) and

@@ -47,23 +47,27 @@ abilities = ["14", "1", "18", "-", "1", "1"]
 
 **Experience points:** 400
 
-**Armor class:** 7/7/7
+**Armor class:** 7
 
-**Fort:** +4
+**Touch:** 7
+
+**Flat-footed:** 7
+
+**AC modifiers:** -5 Dex, +2 size
 
 **Hit points:** 17 (2d8+8)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits), swarm traits
-
-**Mod:** -5 Dex, +2 size
+**Fort:** +4
 
 **Ref:** -5
+
+**Will:** -5
+
+**Immune:** [ooze traits](ref/umr/ooze-traits), swarm traits
 
 **Resist:** electricity 5
 
 **Vulner:** acid
-
-**Will:** -5
 
 **Offense**
 

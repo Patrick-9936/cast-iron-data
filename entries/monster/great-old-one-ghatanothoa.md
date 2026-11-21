@@ -55,7 +55,21 @@ mountain of madness come to life._
 
 **Experience points:** 6,553,600
 
-**Armor class:** 47/24/35
+**Armor class:** 47
+
+**Touch:** 24
+
+**Flat-footed:** 35
+
+**AC modifiers:** +11 Dex, +1 dodge, +10 insight, +23 natural, -8 size
+
+**Hit points:** 717 (35d8+560)
+
+**Fort:** +29
+
+**Ref:** +24
+
+**Will:** +30
 
 **Amorph:** present
 
@@ -66,22 +80,12 @@ immortality, insanity (DC 37)
 
 **Fh:** 25
 
-**Fort:** +29
-
-**Hit points:** 717 (35d8+560)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, electricity, energy
 drain, mind-affecting effects, negative energy, paralysis, and petrification
-
-**Mod:** +11 Dex, +1 dodge, +10 insight, +23 natural, -8 size
-
-**Ref:** +24
 
 **Resist:** fire 30
 
 **Sr:** 40
-
-**Will:** +30
 
 **Offense**
 

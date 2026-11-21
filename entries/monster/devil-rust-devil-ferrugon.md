@@ -53,19 +53,25 @@ covered with rusty metallic feathers, each resembling a weathered dagger._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/15/22
+**Armor class:** 27
 
-**Dr:** 10/good
+**Touch:** 15
 
-**Fort:** +15
+**Flat-footed:** 22
+
+**AC modifiers:** +5 Dex, +12 natural
 
 **Hit points:** 162 (13d10+91)
 
-**Immune:** fire, poison
-
-**Mod:** +5 Dex, +12 natural
+**Fort:** +15
 
 **Ref:** +13
+
+**Will:** +10
+
+**Dr:** 10/good
+
+**Immune:** fire, poison
 
 **Regen:** 5 (good weapons, good spells, rust)
 
@@ -74,8 +80,6 @@ covered with rusty metallic feathers, each resembling a weathered dagger._
 **Sr:** 23
 
 **Weaknesses:** metallic
-
-**Will:** +10
 
 **Offense**
 

@@ -54,23 +54,27 @@ over its emaciated form._
 
 **Experience points:** 409,600
 
-**Armor class:** 40/5/40
+**Armor class:** 40
+
+**Touch:** 5
+
+**Flat-footed:** 40
+
+**AC modifiers:** -1 Dex, +35 natural, -4 size
+
+**Hit points:** 406 (28d12+224)
+
+**Fort:** +24
+
+**Ref:** +17
+
+**Will:** +25
 
 **Defensive abilities:** grave endurance
 
 **Dr:** 15/adamantine
 
-**Fort:** +24
-
-**Hit points:** 406 (28d12+224)
-
-**Mod:** -1 Dex, +35 natural, -4 size
-
-**Ref:** +17
-
 **Sr:** 32
-
-**Will:** +25
 
 **Offense**
 

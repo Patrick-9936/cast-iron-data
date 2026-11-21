@@ -54,17 +54,23 @@ crossbow and blood-stained manacles enhance his aura of quiet menace._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/15/19
+**Armor class:** 23
 
-**Evasion:** present
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 19
+
+**AC modifiers:** +5 armor, +4 Dex, +3 natural, +1 size
 
 **Hit points:** 82 (3d8+7d8+37\~10)
 
-**Mod:** +5 armor, +4 Dex, +3 natural, +1 size
+**Fort:** +6
 
 **Ref:** +10
+
+**Will:** +9
+
+**Evasion:** present
 
 **Sr:** 21
 
@@ -73,8 +79,6 @@ crossbow and blood-stained manacles enhance his aura of quiet menace._
 **Uncanny dodge:** present
 
 **Weaknesses:** vulnerability to sunlight
-
-**Will:** +9
 
 **Offense**
 

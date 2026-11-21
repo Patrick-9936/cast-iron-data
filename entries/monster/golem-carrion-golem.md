@@ -55,21 +55,25 @@ of death and decay._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Dr:** 5/bludgeoning or slashing
+**Touch:** 11
 
-**Fort:** +1
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +6 natural
 
 **Hit points:** 42 (4d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +1 Dex, +6 natural
+**Fort:** +1
 
 **Ref:** +2
 
 **Will:** +1
+
+**Dr:** 5/bludgeoning or slashing
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

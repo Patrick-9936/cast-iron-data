@@ -53,29 +53,33 @@ mace._
 
 **Experience points:** 614,400
 
-**Armor class:** 41/3/40
+**Armor class:** 41
 
-**Dr:** 15/epic and lawful
+**Touch:** 3
 
-**Fort:** +24
+**Flat-footed:** 40
 
-**Fortif:** 50
+**AC modifiers:** +14 armor, +1 Dex, +24 natural, -8 size; +4 deflection vs. divine
 
 **Hit points:** 413 (18d10+314)
 
-**Immune:** aging, death effects, disease
-
-**Mod:** +14 armor, +1 Dex, +24 natural, -8 size; +4 deflection vs. divine
+**Fort:** +24
 
 **Ref:** +9
+
+**Will:** +18; +8 vs. mind-affecting, +4 vs. divine
+
+**Dr:** 15/epic and lawful
+
+**Fortif:** 50
+
+**Immune:** aging, death effects, disease
 
 **Regen:** 15 (good artifacts, effects, and spells)
 
 **Resist:** electricity 30, fire 30
 
 **Sr:** 33
-
-**Will:** +18; +8 vs. mind-affecting, +4 vs. divine
 
 **Offense**
 

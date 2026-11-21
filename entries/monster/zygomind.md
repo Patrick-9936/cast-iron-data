@@ -53,7 +53,21 @@ _This enormous fungus looks like a cage, and a strange glow emanates from within
 
 **Experience points:** 153,600
 
-**Armor class:** 24/9/17
+**Armor class:** 24
+
+**Touch:** 9
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 Dex, +15 natural, -8 size
+
+**Hit points:** 266 (28d8+140)
+
+**Fort:** +21
+
+**Ref:** +16
+
+**Will:** +16
 
 **Defensive abilities:** all-around vision
 
@@ -61,19 +75,9 @@ _This enormous fungus looks like a cage, and a strange glow emanates from within
 
 **Fh:** 20
 
-**Fort:** +21
-
-**Hit points:** 266 (28d8+140)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
 
-**Mod:** +7 Dex, +15 natural, -8 size
-
-**Ref:** +16
-
 **Sr:** 29
-
-**Will:** +16
 
 **Offense**
 

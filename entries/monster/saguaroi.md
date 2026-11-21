@@ -49,23 +49,27 @@ sprout from its flesh._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Defensive abilities:** needle hide
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
 
 **Hit points:** 59 (7d8+28)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +4 Dex, +4 natural
+**Fort:** +9
 
 **Ref:** +8
 
-**Regen:** 5 (fire)
-
 **Will:** +4
+
+**Defensive abilities:** needle hide
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Regen:** 5 (fire)
 
 **Offense**
 

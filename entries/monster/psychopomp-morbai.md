@@ -50,27 +50,31 @@ opposite sides of her head._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/15/16
+**Armor class:** 20
+
+**Touch:** 15
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +5 natural, +1 size
+
+**Hit points:** 68 (8d10+40)
+
+**Fort:** +13
+
+**Ref:** +6
+
+**Will:** +9
 
 **Defensive abilities:** all-around vision
 
 **Dr:** 5/adamantine
 
-**Fort:** +13
-
-**Hit points:** 68 (8d10+40)
-
 **Immune:** death effects, disease, poison
-
-**Mod:** +4 Dex, +5 natural, +1 size
-
-**Ref:** +6
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 17
-
-**Will:** +9
 
 **Offense**
 

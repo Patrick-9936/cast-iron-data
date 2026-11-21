@@ -69,9 +69,9 @@ He also receives a bonus feat, chosen from the following list:
 
 **Knight's Challenge (Ex)**
 
+**Gained:** At 15th Level
+
 **Ability:** The cavalier can make a _knight's challenge_ once per day. This functions like a normal
 _challenge,_ but the cavalier adds his Charisma bonus on all attack rolls and damage rolls made
 against the target of his _challenge._ In addition, he receives a +4 circumstance bonus on attack
 rolls made to confirm critical hits against the target of his _knight's challenge._
-
-**Gained:** At 15th Level

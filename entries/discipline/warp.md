@@ -77,10 +77,6 @@ insight bonus on [Spellcraft](ref/skill/spellcraft) checks to identify such effe
 
 **Rift Reach (Su)**
 
-**At 11th Level:** The range of your _rift reach_ increases to 20 feet.
-
-**At 15th Level:** Your range increases to 30 feet.
-
 **Move:** You can tear open a small rent in reality just large enough to reach an arm through. The
 far end of this portal must be within 10 feet of you, but otherwise allows you to manipulate
 objects, perform melee attacks requiring a single hand, or even cast spells. If you cannot see your
@@ -92,6 +88,10 @@ Your disembodied hand uses your AC with a +4 size bonus, should opponents target
 does not apply to [disarm](ref/rule/disarm) combat maneuver checks.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 11th level,** the range of your _rift reach_ increases to 20 feet.
+
+**At 15th level,** your range increases to 30 feet.
 
 **Turn Aside (Su)**
 

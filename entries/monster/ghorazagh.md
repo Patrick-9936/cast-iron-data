@@ -51,19 +51,23 @@ truly hideous._
 
 **Experience points:** 25,600
 
-**Armor class:** 26/12/23
+**Armor class:** 26
 
-**Fort:** +15
+**Touch:** 12
+
+**Flat-footed:** 23
+
+**AC modifiers:** +3 Dex, +14 natural, -1 size
 
 **Hit points:** 187 (15d8+120)
 
-**Mod:** +3 Dex, +14 natural, -1 size
+**Fort:** +15
 
 **Ref:** +10
 
-**Vulner:** sonic
-
 **Will:** +12
+
+**Vulner:** sonic
 
 **Offense**
 

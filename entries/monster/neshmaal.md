@@ -54,27 +54,31 @@ air, giving off an aura of dark, alien menace._
 
 **Experience points:** 19,200
 
-**Armor class:** 24/24/16
+**Armor class:** 24
+
+**Touch:** 24
+
+**Flat-footed:** 16
+
+**AC modifiers:** +7 deflection, +7 Dex, +1 dodge, -1 size
+
+**Hit points:** 149 (13d10+78)
 
 **Fort:** +14
 
-**Hit points:** 149 (13d10+78)
+**Ref:** +11
+
+**Will:** +12
 
 **Immune:** cold
 
 **Incorporeal:** present
-
-**Mod:** +7 deflection, +7 Dex, +1 dodge, -1 size
-
-**Ref:** +11
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 23
 
 **Vulner:** sonic
-
-**Will:** +12
 
 **Offense**
 

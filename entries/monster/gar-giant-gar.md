@@ -49,13 +49,17 @@ _This fish is enormous - a sleek predator with bony scales and a long set of too
 
 **Experience points:** 2,400
 
-**Armor class:** 19/8/19
+**Armor class:** 19
 
-**Fort:** +11
+**Touch:** 8
+
+**Flat-footed:** 19
+
+**AC modifiers:** +11 natural, -2 size
 
 **Hit points:** 73 (7d8+42)
 
-**Mod:** +11 natural, -2 size
+**Fort:** +11
 
 **Ref:** +7
 

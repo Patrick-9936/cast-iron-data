@@ -51,19 +51,23 @@ a saddle between its wings._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/11/21
+**Armor class:** 23
 
-**Fort:** +12
+**Touch:** 11
+
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +12 natural, -1 size
 
 **Hit points:** 115 (10d12+50)
 
-**Immune:** fire, paralysis, sleep
-
-**Mod:** +2 Dex, +12 natural, -1 size
+**Fort:** +12
 
 **Ref:** +9
 
 **Will:** +8
+
+**Immune:** fire, paralysis, sleep
 
 **Offense**
 

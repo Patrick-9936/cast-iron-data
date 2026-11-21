@@ -18,11 +18,11 @@ group = "hellknight-discipline"
 [spell-like ability](ref/umr/spell-like-abilities) to summon 1
 [bearded devil](ref/monster/devil-bearded-devil-barbazu).
 
-**At 6th Level:** This [spell-like ability](ref/umr/spell-like-abilities) is replaced by
+**At 6th level,** this [spell-like ability](ref/umr/spell-like-abilities) is replaced by
 [summon monster VI](ref/spell/summon-monster-6), allowing him to summon 1d3 bearded devils, or 1
 [erinyes](ref/monster/devil-erinyes).
 
-**At 9th Level:** This [spell-like ability](ref/umr/spell-like-abilities) is replaced by
+**At 9th level,** this [spell-like ability](ref/umr/spell-like-abilities) is replaced by
 [summon monster VII](ref/spell/summon-monster-7), allowing him to summon 1d4+1 bearded devils, 1d3
 erinyes, or 1 [bone devil](ref/monster/devil-bone-devil-osyluth).
 

@@ -52,25 +52,29 @@ creature's body, leaking a steady stream of putrescent slime._
 
 **Experience points:** 3,200
 
-**Armor class:** 18/8/18
+**Armor class:** 18
+
+**Touch:** 8
+
+**Flat-footed:** 18
+
+**AC modifiers:** -1 Dex, +10 natural, -1 size
+
+**Hit points:** 52 (4d10+30)
+
+**Fort:** +1
+
+**Ref:** +0
+
+**Will:** -3
 
 **Defensive abilities:** clay shell
 
 **Dr:** 5/adamantine and bludgeoning
 
-**Fort:** +1
-
-**Hit points:** 52 (4d10+30)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
 
-**Mod:** -1 Dex, +10 natural, -1 size
-
-**Ref:** +0
-
 **Sr:** 15
-
-**Will:** -3
 
 **Offense**
 
@@ -221,19 +225,23 @@ stories go on to describe guardians with powerful abilities.
 
 **Experience points:** 3,200
 
-**Armor class:** 7/7/7
+**Armor class:** 7
 
-**Fort:** +8
+**Touch:** 7
+
+**Flat-footed:** 7
+
+**AC modifiers:** -2 Dex, -1 size
 
 **Hit points:** 84 (8d8+48)
 
-**Immune:** disease, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -2 Dex, -1 size
+**Fort:** +8
 
 **Ref:** +0
 
 **Will:** -2
+
+**Immune:** disease, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

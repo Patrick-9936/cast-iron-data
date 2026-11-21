@@ -55,31 +55,35 @@ daggers in his dripping hands._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/38/32
+**Armor class:** 46
+
+**Touch:** 38
+
+**Flat-footed:** 32
+
+**AC modifiers:** +14 Dex, +8 natural, +14 profane
+
+**Hit points:** 676 (33d10+495)
+
+**Fort:** +26
+
+**Ref:** +32
+
+**Will:** +28
 
 **Defensive abilities:** absorb blood, Abyssal resurrection,
 _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/cold iron, epic, and good
 
-**Fort:** +26
-
-**Hit points:** 676 (33d10+495)
-
 **Immune:** ability damage and drain, bleed, charm and compulsion effects, death effects,
 electricity, energy drain, poison, petrification
-
-**Mod:** +14 Dex, +8 natural, +14 profane
-
-**Ref:** +32
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, cold 30, fire 30
 
 **Sr:** 39
-
-**Will:** +28
 
 **Offense**
 

@@ -19,7 +19,7 @@ group = "witch-hex"
 [bestow curse](ref/spell/bestow-curse) using the witch's caster level, except that the witch can
 decrease only the ability score that corresponds to the suit of the card drawn.
 
-**At 15th Level:** This hex acts as a [major curse](ref/spell/curse-major) spell.
+**At 15th level,** this hex acts as a [major curse](ref/spell/curse-major) spell.
 
 **Special:** Whether or not the save is successful, a creature cannot be targeted by this hex more
 than once in 24 hours. A witch with the [cartomancer](ref/arc-witch/cartomancer) archetype can

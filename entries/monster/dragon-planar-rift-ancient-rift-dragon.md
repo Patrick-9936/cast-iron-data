@@ -53,23 +53,27 @@ _This dark-scaled dragon has massive claws, and foul-smelling acid drips from it
 
 **Experience points:** 409,600
 
-**Armor class:** 40/5/40
+**Armor class:** 40
 
-**Dr:** 15/good
+**Touch:** 5
 
-**Fort:** +25
+**Flat-footed:** 40
+
+**AC modifiers:** -1 Dex, +35 natural, -4 size
 
 **Hit points:** 434 (28d12+252)
 
-**Immune:** acid, disease, nausea, paralysis, poison, sleep, stun
-
-**Mod:** -1 Dex, +35 natural, -4 size
+**Fort:** +25
 
 **Ref:** +19
 
-**Sr:** 32
-
 **Will:** +23
+
+**Dr:** 15/good
+
+**Immune:** acid, disease, nausea, paralysis, poison, sleep, stun
+
+**Sr:** 32
 
 **Offense**
 

@@ -51,19 +51,23 @@ a mane of lank hair._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/16/11
+**Armor class:** 16
 
-**Dr:** 5/cold iron
+**Touch:** 16
 
-**Fort:** +3
+**Flat-footed:** 11
+
+**AC modifiers:** +5 Dex, +1 size
 
 **Hit points:** 31 (7d6+7)
 
-**Mod:** +5 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +10
 
 **Will:** +5
+
+**Dr:** 5/cold iron
 
 **Offense**
 

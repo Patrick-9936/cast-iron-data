@@ -50,21 +50,25 @@ of a mountain goat._
 
 **Experience points:** 400
 
-**Armor class:** 12/12/11
+**Armor class:** 12
 
-**Dr:** 2/cold iron
+**Touch:** 12
 
-**Fort:** +3
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 size
 
 **Hit points:** 16 (3d6+6)
 
-**Mod:** +1 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +4
 
-**Resist:** cold 5
-
 **Will:** +4
+
+**Dr:** 2/cold iron
+
+**Resist:** cold 5
 
 **Offense**
 

@@ -53,21 +53,25 @@ ridged hide._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/10/20
+**Armor class:** 21
 
-**Defensive abilities:** slow regeneration
+**Touch:** 10
 
-**Fort:** +12
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +11 natural, -1 size
 
 **Hit points:** 104 (11d8+55)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +11 natural, -1 size
+**Fort:** +12
 
 **Ref:** +4
 
 **Will:** +3
+
+**Defensive abilities:** slow regeneration
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

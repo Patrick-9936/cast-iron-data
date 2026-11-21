@@ -50,21 +50,25 @@ _This brightly colored crustacean looks like a large lobster with cruel pincers 
 
 **Experience points:** 6,400
 
-**Armor class:** 26/17/19
+**Armor class:** 26
 
-**Fort:** +12
+**Touch:** 17
+
+**Flat-footed:** 19
+
+**AC modifiers:** +7 Dex, +9 natural
 
 **Hit points:** 105 (14d8+42)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +7 Dex, +9 natural
+**Fort:** +12
 
 **Ref:** +11
 
-**Resist:** sonic 10
-
 **Will:** +5
+
+**Immune:** mind-affecting effects
+
+**Resist:** sonic 10
 
 **Offense**
 

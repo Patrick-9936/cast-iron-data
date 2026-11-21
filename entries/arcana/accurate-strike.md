@@ -15,9 +15,9 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Accurate Strike (Ex):**
-
-**Prereq:** 9th-level magus
+**Accurate Strike (Ex)**
 
 **Swift:** The magus can expend 2 points from his arcane pool to resolve all of his melee weapon
 attacks until the end of his turn as melee touch attacks.
+
+**Prereq:** 9th-level magus

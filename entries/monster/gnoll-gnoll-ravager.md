@@ -52,19 +52,23 @@ abilities = ["23", "10", "18", "6", "12", "13"]
 **Subtype:** Gnoll\
 **Experience points:** 12,800
 
-**Armor class:** 21/10/21
+**Armor class:** 21
 
-**Fort:** +16
+**Touch:** 10
+
+**Flat-footed:** 21
+
+**AC modifiers:** +10 armor, +1 natural
 
 **Hit points:** 122 (2d8+10d10+46\~12)
 
-**Immune:** disease
-
-**Mod:** +10 armor, +1 natural
+**Fort:** +16
 
 **Ref:** +5
 
 **Will:** +12
+
+**Immune:** disease
 
 **Offense**
 

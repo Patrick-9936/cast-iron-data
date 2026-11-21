@@ -57,23 +57,27 @@ surrounded by greasy black smoke._
 
 **Experience points:** 800
 
-**Armor class:** 15/11/14
+**Armor class:** 15
 
-**Fort:** +2
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 natural
 
 **Hit points:** 32 (5d8+10)
 
-**Immune:** fire, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +4 natural
+**Fort:** +2
 
 **Ref:** +4
+
+**Will:** +5
+
+**Immune:** fire, [undead traits](ref/umr/undead-traits)
 
 **Vulner:** cold
 
 **Weaknesses:** susceptible to water
-
-**Will:** +5
 
 **Offense**
 

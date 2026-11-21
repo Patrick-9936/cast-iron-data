@@ -51,21 +51,25 @@ terrifying malignance, and the thing has a fanged maw where its beak should be._
 
 **Experience points:** 51,200
 
-**Armor class:** 28/6/24
+**Armor class:** 28
 
-**Dr:** 10/cold iron
+**Touch:** 6
 
-**Fort:** +18
+**Flat-footed:** 24
+
+**AC modifiers:** +4 Dex, +22 natural, -8 size
 
 **Hit points:** 229 (17d10+136)
 
-**Mod:** +4 Dex, +22 natural, -8 size
+**Fort:** +18
 
 **Ref:** +14
 
-**Resist:** acid 10, cold 10
-
 **Will:** +10
+
+**Dr:** 10/cold iron
+
+**Resist:** acid 10, cold 10
 
 **Offense**
 

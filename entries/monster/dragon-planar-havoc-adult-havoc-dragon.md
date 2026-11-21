@@ -54,23 +54,27 @@ stirred by an unseen breeze._
 
 **Experience points:** 76,800
 
-**Armor class:** 32/10/30
+**Armor class:** 32
 
-**Dr:** 5/lawful
+**Touch:** 10
 
-**Fort:** +17
+**Flat-footed:** 30
+
+**AC modifiers:** +2 Dex, +22 natural, -2 size
 
 **Hit points:** 230 (20d12+100)
 
-**Immune:** confused, nauseated, paralysis, sickened, sleep, sonic
-
-**Mod:** +2 Dex, +22 natural, -2 size
+**Fort:** +17
 
 **Ref:** +16
 
-**Sr:** 27
-
 **Will:** +16
+
+**Dr:** 5/lawful
+
+**Immune:** confused, nauseated, paralysis, sickened, sleep, sonic
+
+**Sr:** 27
 
 **Offense**
 

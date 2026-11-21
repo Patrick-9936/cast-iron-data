@@ -49,19 +49,23 @@ pouches._
 
 **Experience points:** 400
 
-**Armor class:** 16/13/15
+**Armor class:** 16
 
-**Dr:** 5/cold iron
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +3 natural, +2 size
 
 **Hit points:** 7 (1d6+4)
 
-**Mod:** +1 Dex, +3 natural, +2 size
+**Fort:** +1
 
 **Ref:** +3
 
 **Will:** +2
+
+**Dr:** 5/cold iron
 
 **Offense**
 

@@ -60,11 +60,11 @@ adept_ powers of the divination school.
 
 **Prescience (Su)**
 
+**Gained:** At 1st Level
+
 **Free:** At the beginning of your turn, you may roll a single d20. At any point before your next
 turn, you may use the result of this roll as the result of any d20 roll you are required to make. If
 you do not use the d20 result before your next turn, it is lost.
-
-**Gained:** At 1st Level
 
 **Usage:** 3 + Intelligence modifier times/day
 
@@ -107,10 +107,6 @@ roll, saving throw, or skill check.
 
 **In Accordance with the Prophecy (Su)**
 
-**At 12th Level:** The chance that the spell fizzles is reduced to 15% (1-15 on a d%).
-
-**At 16th Level:** The chance is reduced to 10% (1-10 on a d%).
-
 **Gained:** At 1st Level
 
 **Standard:** You can publicly declare that your next spell is guided by prophecy. When you do, the
@@ -119,6 +115,10 @@ the spell as if it had been modified by the [Empower Spell](ref/feat/empower-spe
 you do not have that feat.
 
 **Usage:** Int modifier times/day
+
+**At 12th level,** the chance that the spell fizzles is reduced to 15% (1-15 on a d%).
+
+**At 16th level,** the chance is reduced to 10% (1-10 on a d%).
 
 ### Scryer School
 

@@ -16,9 +16,9 @@ group = "witch-hex"
 
 **Flavor:** The witch's presence makes death more likely for wounded foes.
 
-**At 16th Level:** It changes to -3.
-
-**At 8th Level:** This penalty changes to -2.
-
 **Passive:** Creatures within 120 feet of the witch take a -1 penalty on checks to stabilize when
 [dying](ref/misc/dying).
+
+**At 8th level,** this penalty changes to -2.
+
+**At 16th level,** it changes to -3.

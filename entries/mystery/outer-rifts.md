@@ -66,18 +66,18 @@ rounds and [stunned](ref/misc/stunned) for 1 round.
 
 **Ability:** You alter your flesh to be as tough as a demon's hide, granting you a +4 armor bonus.
 
-**At 13th Level:** This armor also grants you DR 5/cold iron.
-
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The armor bonus increases to +6.
+**At 7th level,** the armor bonus increases to +6.
 
-At 11th level: The armor bonus increases to +8.
+**At 11th level,** the armor bonus increases to +8.
 
-At 15th level: The armor bonus increases to +10.
+**At 13th level,** this armor also grants you DR 5/cold iron.
 
-At 19th level: The armor bonus increases to +12.
+**At 15th level,** the armor bonus increases to +10.
+
+**At 19th level,** the armor bonus increases to +12.
 
 **Dread Resilience (Ex)**
 
@@ -93,19 +93,26 @@ for every four oracle levels gained thereafter.
 
 **Flavor:** You can fill an area with the smoky miasma of the Outer Rifts.
 
-**At 10th Level:** The haze functions as [fog cloud](ref/spell/fog-cloud).
-
-**At 14th Level:** You can use this ability three times a day.
-
-**At 7th Level:** You can do this twice a day.
-
 **Swift:** Once per day when you cast a spell that has an area, you may also fill that area with a
 thick haze that acts as [obscuring mist](ref/spell/obscuring-mist), except it originates at the
 center of your spell effect and cannot expand beyond the spell's area.
 
+**At 7th level,** you can do this twice a day.
+
+**At 10th level,** the haze functions as [fog cloud](ref/spell/fog-cloud).
+
+**At 14th level,** you can use this ability three times a day.
+
 **Planar Infusion (Su)**
 
-**At 11th Level:** The infusion makes the area strongly aligned, which causes the -2 circumstance
+**Standard:** Once per day, you can cause a 20-foot-[spread](ref/misc/spread) to gain either the
+mildly chaotic-aligned or mildly evil-aligned [planar trait](ref/rule/planar-traits) for a number of
+rounds equal to your oracle level.
+
+Lawful creatures in a chaotic-aligned area take a -2 circumstance penalty on all Charisma-based
+checks, as do good creatures in an evil-aligned area.
+
+**At 11th level,** the infusion makes the area strongly aligned, which causes the -2 circumstance
 penalty to apply on all Intelligence-, Wisdom-, and Charisma-based checks made by any creature that
 lacks the matching alignment component (these penalties stack with those from the lower-level
 effect).
@@ -114,13 +121,6 @@ effect).
 
 **Special:** You can only infuse an area with an alignment that matches a component of your own
 alignment.
-
-**Standard:** Once per day, you can cause a 20-foot-[spread](ref/misc/spread) to gain either the
-mildly chaotic-aligned or mildly evil-aligned [planar trait](ref/rule/planar-traits) for a number of
-rounds equal to your oracle level.
-
-Lawful creatures in a chaotic-aligned area take a -2 circumstance penalty on all Charisma-based
-checks, as do good creatures in an evil-aligned area.
 
 **Rift Magic (Su)**
 
@@ -132,12 +132,12 @@ checks, as do good creatures in an evil-aligned area.
 **Flavor:** Your understanding of the powers that move through the Outer Rifts allows you to imbue
 weapons with the ability to penetrate the defenses of creatures native to other planes.
 
-**At 9th Level:** You can also grant the additional ability to bypass either DR/good and DR/law.
-
 **Standard:** Once per day, you can touch one weapon (or a group of up to 20 similar pieces of
 ammunition) and give it the ability to penetrate DR/cold iron for 1 minute per caster level.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
+
+**At 9th level,** you can also grant the additional ability to bypass either DR/good and DR/law.
 
 **Telepathy (Su)**
 
@@ -161,22 +161,22 @@ outer planes.
 **Ability:** You can manifest a pair of enormous, bat-like demon wings that grant you a fly speed of
 60 feet with average maneuverability and a +4 bonus on [Intimidate](ref/skill/intimidate) checks.
 
-**At 10th Level:** Your speed increases to 90 feet, your maneuverability increases to good, and the
+**Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
+in 1-minute increments
+
+**At 10th level,** your speed increases to 90 feet, your maneuverability increases to good, and the
 bonus increases to +8 on Intimidate checks.
 
 **Prereq:** 7th-level oracle
-
-**Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
-in 1-minute increments
 
 ### Final Revelation
 
 **Final Revelation**
 
+**Gained:** At 20th Level
+
 **Ability:** You gain the ability to open rifts between planes. This allows you to use
 [gate](ref/spell/gate) as a [spell-like ability](ref/umr/spell-like-abilities) once per day.
-
-**Gained:** At 20th Level
 
 **Special:** If you use this ability to call creatures, you still need to provide 10,000 gp in
 offerings to secure the creature's aid.

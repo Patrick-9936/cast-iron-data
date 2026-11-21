@@ -54,21 +54,25 @@ burn like embers._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/10/22
+**Armor class:** 24
 
-**Dr:** 10/slashing
+**Touch:** 10
 
-**Fort:** +12
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +14 natural, -2 size
 
 **Hit points:** 127 (15d8+60)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +14 natural, -2 size
+**Fort:** +12
 
 **Ref:** +9
 
 **Will:** +9
+
+**Dr:** 10/slashing
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

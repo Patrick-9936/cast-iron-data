@@ -50,19 +50,23 @@ _The killing blade of this horrific trap drips with an animated sheen of foul br
 
 **Experience points:** 4,800
 
-**Armor class:** 10/5/10
+**Armor class:** 10
 
-**Fort:** +10
+**Touch:** 5
+
+**Flat-footed:** 10
+
+**AC modifiers:** -4 Dex, +5 natural, -1 size
 
 **Hit points:** 126 (12d8+72)
 
-**Immune:** acid, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -4 Dex, +5 natural, -1 size
+**Fort:** +10
 
 **Ref:** +0
 
 **Will:** -1
+
+**Immune:** acid, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

@@ -54,23 +54,27 @@ dragon._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/10/26
+**Armor class:** 27
 
-**Defensive abilities:** unwavering mind
+**Touch:** 10
 
-**Fort:** +9
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +17 natural, -1 size
 
 **Hit points:** 152 (16d10+64)
 
-**Immune:** cold
-
-**Mod:** +1 Dex, +17 natural, -1 size
+**Fort:** +9
 
 **Ref:** +11
 
-**Resist:** fire 10, sonic 10
-
 **Will:** +14; +4 vs. mind-affecting effects
+
+**Defensive abilities:** unwavering mind
+
+**Immune:** cold
+
+**Resist:** fire 10, sonic 10
 
 **Offense**
 

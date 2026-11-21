@@ -52,13 +52,17 @@ pointed ears twitch at every sound._
 
 **Experience points:** 800
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Fort:** +5
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +4 Dex, +1 size
 
 **Hit points:** 22 (4d8+4)
 
-**Mod:** +2 armor, +4 Dex, +1 size
+**Fort:** +5
 
 **Ref:** +5
 

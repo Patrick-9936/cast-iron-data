@@ -56,25 +56,29 @@ its twin tentacle tails._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/14/14
+**Armor class:** 19
+
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 armor, +5 Dex, +1 natural, -1 size
+
+**Hit points:** 67 (9d8+27)
+
+**Fort:** +6
+
+**Ref:** +8
+
+**Will:** +9
 
 **Dr:** 10/slashing or piercing
 
 **Fh:** 5
 
-**Fort:** +6
-
-**Hit points:** 67 (9d8+27)
-
 **Immune:** mind-affecting effects, poison
 
-**Mod:** +4 armor, +5 Dex, +1 natural, -1 size
-
-**Ref:** +8
-
 **Sr:** 17
-
-**Will:** +9
 
 **Offense**
 

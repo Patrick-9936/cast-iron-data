@@ -55,30 +55,34 @@ five spidery legs._
 
 **Experience points:** 614,400
 
-**Armor class:** 39/14/31
+**Armor class:** 39
+
+**Touch:** 14
+
+**Flat-footed:** 31
+
+**AC modifiers:** +4 deflection, +7 Dex, +1 dodge, +25 natural, -8 size
+
+**Hit points:** 437 (25d10+300)
+
+**Fort:** +24
+
+**Ref:** +25
+
+**Will:** +24
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, rejuvenation,
 searing flesh
 
 **Dr:** 15/cold iron and lawful
 
-**Fort:** +24
-
-**Hit points:** 437 (25d10+300)
-
 **Immune:** cold, death effects, fire, mind-affecting effects, poison
-
-**Mod:** +4 deflection, +7 Dex, +1 dodge, +25 natural, -8 size
-
-**Ref:** +25
 
 **Regen:** 15 (lawful)
 
 **Resist:** acid 30, electricity 30, fire 30
 
 **Sr:** 33
-
-**Will:** +24
 
 **Offense**
 

@@ -53,19 +53,23 @@ been filed down to points._
 **Subtype:** Kuru\
 **Experience points:** 200
 
-**Armor class:** 12/8/12
+**Armor class:** 12
 
-**Fort:** +5
+**Touch:** 8
+
+**Flat-footed:** 12
+
+**AC modifiers:** +4 armor, -2 rage
 
 **Hit points:** 16 (1d12+4)
 
-**Mod:** +4 armor, -2 rage
+**Fort:** +5
 
 **Ref:** +2
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +4
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

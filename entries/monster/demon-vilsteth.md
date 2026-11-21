@@ -51,25 +51,29 @@ Its eyes glow an eerie yellow, and horns curl from its eerie, mouthless head._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/14/26
+**Armor class:** 30
 
-**Dr:** 10/cold iron and good
+**Touch:** 14
 
-**Fort:** +18
+**Flat-footed:** 26
+
+**AC modifiers:** +4 Dex, +16 natural
 
 **Hit points:** 225 (18d10+126)
 
-**Immune:** electricity, mind-affecting effects, poison
-
-**Mod:** +4 Dex, +16 natural
+**Fort:** +18
 
 **Ref:** +10
+
+**Will:** +14
+
+**Dr:** 10/cold iron and good
+
+**Immune:** electricity, mind-affecting effects, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 27
-
-**Will:** +14
 
 **Offense**
 

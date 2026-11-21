@@ -48,19 +48,23 @@ _A spider the size of a man crawls silently from the depths of its funnel-shaped
 
 **Experience points:** 400
 
-**Armor class:** 14/13/11
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 natural
 
 **Hit points:** 16 (3d8+3)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +1 natural
+**Fort:** +4
 
 **Ref:** +4
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

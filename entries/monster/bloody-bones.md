@@ -51,23 +51,27 @@ of fresh gore._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/19/20
+**Armor class:** 24
+
+**Touch:** 19
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +5 natural, +5 profane
+
+**Hit points:** 133 (14d8+70)
+
+**Fort:** +9
+
+**Ref:** +13
+
+**Will:** +12
 
 **Chan Res:** +2
 
 **Dr:** 10/bludgeoning
 
-**Fort:** +9
-
-**Hit points:** 133 (14d8+70)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +5 natural, +5 profane
-
-**Ref:** +13
-
-**Will:** +12
 
 **Offense**
 

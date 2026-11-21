@@ -51,21 +51,25 @@ mold-streaked body. His beady eyes burn with paranoia and malice._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +2 natural, +1 size
 
 **Hit points:** 60 (8d6+32)
 
-**Immune:** disease, nausea, poison, sickened condition
-
-**Mod:** +4 Dex, +2 natural, +1 size
+**Fort:** +6
 
 **Ref:** +10
 
 **Will:** +7
+
+**Dr:** 5/cold iron
+
+**Immune:** disease, nausea, poison, sickened condition
 
 **Offense**
 

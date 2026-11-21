@@ -14,11 +14,9 @@ group = "rage-power"
 
 **Lesser Elemental Rage (Su)**
 
-**Prereq:** 4th-level barbarian
-
 **Swift:** The barbarian can cause her melee attacks to deal an additional 1d6 points of energy
 damage (acid, cold, electricity, or fire) for 1 round.
 
 **Usage:** Once per _rage_
 
-**Usage:** Once per _rage_
+**Prereq:** 4th-level barbarian

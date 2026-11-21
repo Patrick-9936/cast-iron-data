@@ -50,21 +50,25 @@ bell-shaped cap filled with spores._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/11/17
+**Armor class:** 18
 
-**Fort:** +8
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +7 natural
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** cold, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +7 natural
+**Fort:** +8
 
 **Ref:** +3
 
-**Weaknesses:** cold lethargy
-
 **Will:** +2
+
+**Immune:** cold, [plant traits](ref/umr/plant-traits)
+
+**Weaknesses:** cold lethargy
 
 **Offense**
 

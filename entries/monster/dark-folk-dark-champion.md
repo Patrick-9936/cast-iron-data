@@ -52,21 +52,25 @@ pale skin and shallow, fleshy hollows where its eyes should be._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/11/19
+**Armor class:** 20
 
-**Fort:** +9
+**Touch:** 11
+
+**Flat-footed:** 19
+
+**AC modifiers:** +9 armor, +1 Dex
 
 **Hit points:** 59 (7d8+28)
 
-**Immune:** gaze attacks, sight-based attacks, visual effects
-
-**Mod:** +9 armor, +1 Dex
+**Fort:** +9
 
 **Ref:** +3
 
-**Vulner:** sonic
-
 **Will:** +4
+
+**Immune:** gaze attacks, sight-based attacks, visual effects
+
+**Vulner:** sonic
 
 **Offense**
 

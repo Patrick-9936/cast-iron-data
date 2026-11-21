@@ -55,25 +55,29 @@ masts crafted from gigantic spines._
 
 **Experience points:** 153,600
 
-**Armor class:** 36/6/32
+**Armor class:** 36
+
+**Touch:** 6
+
+**Flat-footed:** 32
+
+**AC modifiers:** +3 Dex, +30 natural, -8 size
+
+**Hit points:** 299 (26d8+182)
+
+**Fort:** +17
+
+**Ref:** +14
+
+**Will:** +20
 
 **Chan Res:** +4
 
 **Defensive abilities:** all-around vision, bound souls
 
-**Fort:** +17
-
-**Hit points:** 299 (26d8+182)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +3 Dex, +30 natural, -8 size
-
-**Ref:** +14
-
 **Sr:** 29
-
-**Will:** +20
 
 **Offense**
 

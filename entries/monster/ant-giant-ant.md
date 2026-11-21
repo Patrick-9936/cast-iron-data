@@ -47,19 +47,23 @@ stinger dripping with venom._
 
 **Experience points:** 600
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 natural
 
 **Hit points:** 18 (2d8+9)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +5 natural
+**Fort:** +6
 
 **Ref:** +0
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

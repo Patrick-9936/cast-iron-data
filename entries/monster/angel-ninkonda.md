@@ -56,27 +56,31 @@ shoulders._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/14/27
+**Armor class:** 32
+
+**Touch:** 14
+
+**Flat-footed:** 27
+
+**AC modifiers:** +4 Dex, +1 dodge, +18 natural, -1 size
+
+**Hit points:** 270 (20d10+160)
+
+**Fort:** +20
+
+**Ref:** +12
+
+**Will:** +16; +4 vs. evil
 
 **Defensive abilities:** reflect rays
 
 **Dr:** 10/evil
 
-**Fort:** +20
-
-**Hit points:** 270 (20d10+160)
-
 **Immune:** acid, cold, petrification, poison
-
-**Mod:** +4 Dex, +1 dodge, +18 natural, -1 size
-
-**Ref:** +12
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 28
-
-**Will:** +16; +4 vs. evil
 
 **Offense**
 

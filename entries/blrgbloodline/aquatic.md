@@ -50,9 +50,9 @@ penalties.
 
 **Passive:** You gain a swim speed of 30 feet and the ability to breathe both underwater and in air.
 
-**At 8th Level:** You gain cold [resistance](ref/umr/resistance) 5.
+**At 8th level,** you gain cold [resistance](ref/umr/resistance) 5.
 
-**At 12th Level:** Your swim speed increases to 60 feet, and you have the 4th-level benefits of
+**At 12th level,** your swim speed increases to 60 feet, and you have the 4th-level benefits of
 aquatic adaptation constantly, even when not in _bloodrage_ (but not the 8th- and 12th-level
 benefits).
 
@@ -79,8 +79,6 @@ your reach increases by 5 feet and you gain the effects of [haste](ref/spell/has
 **Swift:** When underwater, at the start of your turn you can call up a
 [current](ref/rule/currents-and-running-water) with a speed up to 20 feet in the direction of your
 choice in your space (moving with you) that lasts until the end of your turn.
-
-**Usage:** 3 times/day
 
 **Usage:** 3 times/day
 

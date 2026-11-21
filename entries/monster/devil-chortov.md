@@ -51,23 +51,27 @@ clutching a wicked military fork, the terrible giant rumbles as if preparing to 
 
 **Experience points:** 6,400
 
-**Armor class:** 21/6/21
+**Armor class:** 21
 
-**Dr:** 5/good and piercing
+**Touch:** 6
 
-**Fort:** +14
+**Flat-footed:** 21
+
+**AC modifiers:** +9 armor, -2 Dex, +6 natural, -2 size
 
 **Hit points:** 125 (10d10+70)
 
-**Immune:** fire, poison
-
-**Mod:** +9 armor, -2 Dex, +6 natural, -2 size
+**Fort:** +14
 
 **Ref:** +5
 
-**Resist:** acid 10, cold 10
-
 **Will:** +2
+
+**Dr:** 5/good and piercing
+
+**Immune:** fire, poison
+
+**Resist:** acid 10, cold 10
 
 **Offense**
 

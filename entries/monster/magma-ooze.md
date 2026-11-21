@@ -50,23 +50,27 @@ _This seething mass of bubbling molten rock churns and moves of its own hungry a
 
 **Experience points:** 3,200
 
-**Armor class:** 4/4/4
+**Armor class:** 4
 
-**Fort:** +8
+**Touch:** 4
+
+**Flat-footed:** 4
+
+**AC modifiers:** -5 Dex, -1 size
 
 **Hit points:** 85 (9d8+45)
 
-**Immune:** fire, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, -1 size
+**Fort:** +8
 
 **Ref:** -2
+
+**Will:** -2
+
+**Immune:** fire, [ooze traits](ref/umr/ooze-traits)
 
 **Split:** cold and slashing, 8 hp
 
 **Weaknesses:** vulnerability to cold, vulnerability to water
-
-**Will:** -2
 
 **Offense**
 

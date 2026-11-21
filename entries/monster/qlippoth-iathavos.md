@@ -52,7 +52,21 @@ and two huge claws dangle below._
 
 **Experience points:** 307,200
 
-**Armor class:** 37/7/37
+**Armor class:** 37
+
+**Touch:** 7
+
+**Flat-footed:** 37
+
+**AC modifiers:** +4 deflection, -1 Dex, +2 insight, +30 natural, -8 size
+
+**Hit points:** 372 (24d10+240)
+
+**Fort:** +28
+
+**Ref:** +15
+
+**Will:** +28
 
 **Defensive abilities:** ichor, never surprised or flat-footed
 
@@ -60,21 +74,11 @@ and two huge claws dangle below._
 
 **Fh:** 15
 
-**Fort:** +28
-
-**Hit points:** 372 (24d10+240)
-
 **Immune:** cold, poison, mind-affecting effects
-
-**Mod:** +4 deflection, -1 Dex, +2 insight, +30 natural, -8 size
-
-**Ref:** +15
 
 **Resist:** acid 30, electricity 10, fire 10
 
 **Sr:** 31
-
-**Will:** +28
 
 **Offense**
 

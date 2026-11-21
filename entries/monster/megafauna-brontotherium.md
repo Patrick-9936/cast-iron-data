@@ -45,13 +45,17 @@ _This stocky quadruped's lowered head puts its intimidating Y-shaped horn on ful
 
 **Experience points:** 4,800
 
-**Armor class:** 21/8/21
+**Armor class:** 21
 
-**Fort:** +13
+**Touch:** 8
+
+**Flat-footed:** 21
+
+**AC modifiers:** +13 natural, -2 size
 
 **Hit points:** 105 (10d8+60)
 
-**Mod:** +13 natural, -2 size
+**Fort:** +13
 
 **Ref:** +7
 

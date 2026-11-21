@@ -49,27 +49,31 @@ slimy leather._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/18
+**Armor class:** 19
+
+**Touch:** 11
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +8 natural
+
+**Hit points:** 73 (7d10+35)
+
+**Fort:** +10
+
+**Ref:** +6
+
+**Will:** +5
 
 **Defensive abilities:** protective slime
 
 **Dr:** 10/cold iron or good
 
-**Fort:** +10
-
-**Hit points:** 73 (7d10+35)
-
 **Immune:** electricity, poison
-
-**Mod:** +1 Dex, +8 natural
-
-**Ref:** +6
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 17
-
-**Will:** +5
 
 **Offense**
 

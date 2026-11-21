@@ -51,21 +51,25 @@ waist. She's adorned in trinkets made from a great white pine's needles and cone
 
 **Experience points:** 2,400
 
-**Armor class:** 19/16/14
+**Armor class:** 19
 
-**Dr:** 5/cold iron
+**Touch:** 16
 
-**Fort:** +10
+**Flat-footed:** 14
+
+**AC modifiers:** +1 deflection, +5 Dex, +3 natural
 
 **Hit points:** 73 (6d6+3d8+39\~9)
 
-**Mod:** +1 deflection, +5 Dex, +3 natural
+**Fort:** +10
 
 **Ref:** +11
 
-**Weaknesses:** tree dependent
-
 **Will:** +12
+
+**Dr:** 5/cold iron
+
+**Weaknesses:** tree dependent
 
 **Offense**
 

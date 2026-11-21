@@ -18,5 +18,5 @@ group = "witch-hex"
 day equal to her level, as [comprehend languages](ref/spell/comprehend-languages). This duration
 does not need to be consecutive, but it must be spent in 1-minute increments.
 
-**At 5th Level:** A witch can use this ability to speak any language, as per
+**At 5th level,** a witch can use this ability to speak any language, as per
 [tongues](ref/spell/tongues).

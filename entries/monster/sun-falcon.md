@@ -54,21 +54,25 @@ shimmers with heat._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/14
+**Armor class:** 17
 
-**Fort:** +6
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +2 natural, +2 size
 
 **Hit points:** 39 (6d10+6)
 
-**Immune:** fire
-
-**Mod:** +3 Dex, +2 natural, +2 size
+**Fort:** +6
 
 **Ref:** +8
 
-**Vulner:** cold
-
 **Will:** +6
+
+**Immune:** fire
+
+**Vulner:** cold
 
 **Offense**
 

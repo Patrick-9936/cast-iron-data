@@ -35,24 +35,24 @@ Additionally, you gain a bonus equal to one half your druid level (minimum 1) on
 
 **Wasteland Stride (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** You may move through light or dense rubble, as well as up or down steep slopes, at your
 normal speed without suffering any impairment. Areas that have been magically manipulated to impede
 motion still affect you, however.
-
-**Gained:** At 2nd Level
 
 **Replaces:** Woodland stride
 
 **Badlands Spirit (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** Whenever you use _wild shape_ to take on the form of an earth elemental, you also gain
 [geyser](ref/spell/geyser) as a [spell-like ability](ref/umr/spell-like-abilities).
 
-**At 12th Level:** You also gain [sirocco](ref/spell/sirocco).
+**At 12th level,** you also gain [sirocco](ref/spell/sirocco).
 
-**At 15th Level:** You also gain [scouring winds](ref/spell/scouring-winds).
-
-**Gained:** At 8th Level
+**At 15th level,** you also gain [scouring winds](ref/spell/scouring-winds).
 
 **Special:** Each [spell-like ability](ref/umr/spell-like-abilities) is usable once per day.
 

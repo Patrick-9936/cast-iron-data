@@ -49,23 +49,27 @@ aggressively._
 
 **Experience points:** 2,400
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Defensive abilities:** barbed carapace
+**Touch:** 11
 
-**Fort:** +9
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +6 natural
 
 **Hit points:** 76 (9d8+36)
 
-**Immune:** cold, poison
-
-**Mod:** +1 Dex, +6 natural
+**Fort:** +9
 
 **Ref:** +4
 
-**Resist:** electricity 5, fire 5
-
 **Will:** +9
+
+**Defensive abilities:** barbed carapace
+
+**Immune:** cold, poison
+
+**Resist:** electricity 5, fire 5
 
 **Offense**
 

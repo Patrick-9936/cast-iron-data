@@ -18,8 +18,6 @@ group = "rage-power"
 square threatened by the barbarian, regardless of whether or not that movement would normally
 provoke an attack of opportunity.
 
+**Usage:** Once per _rage_
+
 **Prereq:** 8th-level barbarian
-
-**Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

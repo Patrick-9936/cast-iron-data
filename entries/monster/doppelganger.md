@@ -51,19 +51,23 @@ sinister, noseless face._
 
 **Experience points:** 800
 
-**Armor class:** 16/12/14
+**Armor class:** 16
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +1 dodge, +4 natural
 
 **Hit points:** 26 (4d10+4)
 
-**Immune:** charm, sleep
-
-**Mod:** +1 Dex, +1 dodge, +4 natural
+**Fort:** +4
 
 **Ref:** +5
 
 **Will:** +6
+
+**Immune:** charm, sleep
 
 **Offense**
 

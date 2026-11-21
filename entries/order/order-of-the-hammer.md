@@ -83,17 +83,17 @@ ability.
 
 **Crushing Grapple (Ex)**
 
+**Gained:** At 8th Level
+
 **Ability:** The cavalier gains [Chokehold](ref/feat/chokehold) as a bonus feat, even if she does
 not meet the prerequisites. She does not take the -5 penalty on [grapple](ref/rule/grapple) checks
 to put an opponent in a chokehold.
 
-**Gained:** At 8th Level
-
 **Inspiring Flex (Ex)**
 
-**Flavor:** The cavalier can display her own brawn to inspire greater strength in his allies.
-
 **Gained:** At 15th Level
+
+**Flavor:** The cavalier can display her own brawn to inspire greater strength in his allies.
 
 **Standard:** She can grant herself and any allies within 30 feet a +4 morale bonus on melee attack
 rolls, combat maneuver checks, Fortitude saves, and Strength checks. The cavalier can maintain her

@@ -49,7 +49,21 @@ allow the creature to fly._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/11/24
+**Armor class:** 29
+
+**Touch:** 11
+
+**Flat-footed:** 24
+
+**AC modifiers:** +5 Dex, +18 natural, -4 size
+
+**Hit points:** 202 (15d10+120)
+
+**Fort:** +17
+
+**Ref:** +14
+
+**Will:** +11
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, no breath
 
@@ -57,21 +71,11 @@ allow the creature to fly._
 
 **Fh:** 10
 
-**Fort:** +17
-
-**Hit points:** 202 (15d10+120)
-
 **Immune:** acid, cold
-
-**Mod:** +5 Dex, +18 natural, -4 size
-
-**Ref:** +14
 
 **Sr:** 25
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity), susceptible to sunlight
-
-**Will:** +11
 
 **Offense**
 

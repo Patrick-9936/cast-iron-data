@@ -90,14 +90,14 @@ Tresmalvos, Urazra, Uskyeria, Vibhishah, Zabha, Zarongel
 
 **Predator's Grace (Su)**
 
-**Replaces:** The speak with animals power of the Animal domain
-
 **Swift:** Grant yourself a +10-foot bonus to your base speed for 1 round. This bonus increases by 5
 feet for every 5 cleric levels you possess. In addition, you gain
 [low-light vision](ref/rule/low-light-vision) for 1 round. If you already possess low-light vision,
 the range of your sight becomes three times that of a human in dim light for 1 round.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The speak with animals power of the Animal domain
 
 **Replacement Domain Spells**
 
@@ -121,8 +121,6 @@ Fortitude save at the same DC.
 
 **Exoskeleton (Su)**
 
-**Replaces:** The speak with animals power of the Animal domain
-
 **Swift:** Grow an exoskeleton that grants you an enhancement bonus to your natural armor and an
 amount of [temporary hit points](ref/rule/temporary-hit-points). The enhancement bonus is equal to
 1 + [one-fifth](ref/misc/fractions-and-rounding) of your cleric level, and the tempoerary hit points
@@ -130,6 +128,8 @@ are equal to 1d4 + half of your cleric level. The exoskeleton retracts after 1 r
 benefits.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The speak with animals power of the Animal domain
 
 **Replacement Domain Spells**
 

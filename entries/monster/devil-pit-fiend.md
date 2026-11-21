@@ -52,27 +52,31 @@ truly horrific appearance._
 
 **Experience points:** 307,200
 
-**Armor class:** 38/18/29
+**Armor class:** 38
 
-**Dr:** 15/good and silver
+**Touch:** 18
 
-**Fort:** +24
+**Flat-footed:** 29
+
+**AC modifiers:** +9 Dex, +20 natural, -1 size
 
 **Hit points:** 350 (20d10+240)
 
-**Immune:** fire, poison
-
-**Mod:** +9 Dex, +20 natural, -1 size
+**Fort:** +24
 
 **Ref:** +21
+
+**Will:** +18
+
+**Dr:** 15/good and silver
+
+**Immune:** fire, poison
 
 **Regen:** 5 (good weapons, good spells)
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 31
-
-**Will:** +18
 
 **Offense**
 

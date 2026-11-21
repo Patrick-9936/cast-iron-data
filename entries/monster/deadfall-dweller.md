@@ -50,21 +50,25 @@ shambles like a spider._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/10/17
+**Armor class:** 18
 
-**Fort:** +8
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +8 natural, -1 size
 
 **Hit points:** 57 (6d10+24)
 
-**Immune:** acid
-
-**Mod:** +1 Dex, +8 natural, -1 size
+**Fort:** +8
 
 **Ref:** +6
 
-**Vulner:** electricity
-
 **Will:** +3
+
+**Immune:** acid
+
+**Vulner:** electricity
 
 **Offense**
 

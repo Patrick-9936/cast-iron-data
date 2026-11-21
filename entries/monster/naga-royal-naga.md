@@ -54,13 +54,17 @@ _This snake-bodied creature has five necks, each with a regal, humanoid face in 
 
 **Experience points:** 12,800
 
-**Armor class:** 26/11/23
+**Armor class:** 26
 
-**Fort:** +9
+**Touch:** 11
+
+**Flat-footed:** 23
+
+**AC modifiers:** +3 Dex, +15 natural, -2 size
 
 **Hit points:** 133 (14d8+70)
 
-**Mod:** +3 Dex, +15 natural, -2 size
+**Fort:** +9
 
 **Ref:** +9
 

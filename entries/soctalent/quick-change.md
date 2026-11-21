@@ -14,10 +14,10 @@ group = "social-talent"
 
 **Quick Change (Ex)**
 
+**Flavor:** The vigilante learns to shift between his identities with ease.
+
 **Ability:** Instead of needing 1 minute to change his identity, he can now do so as a **full-round
 action**.
-
-**Flavor:** The vigilante learns to shift between his identities with ease.
 
 **Prereq:** 7th-level vigilante
 

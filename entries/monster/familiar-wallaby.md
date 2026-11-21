@@ -49,13 +49,17 @@ hopping gait._
 
 **Experience points:** 135
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +2 Dex, +1 size
+**Fort:** +2
 
 **Ref:** +4
 

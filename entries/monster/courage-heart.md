@@ -56,25 +56,29 @@ trickles down her arm._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/13/27
+**Armor class:** 30
+
+**Touch:** 13
+
+**Flat-footed:** 27
+
+**AC modifiers:** +10 armor, +3 Dex, +7 natural
+
+**Hit points:** 195 (17d10+102)
+
+**Fort:** +18
+
+**Ref:** +18
+
+**Will:** +14
 
 **Dr:** 10/lawful
 
 **Fh:** 10
 
-**Fort:** +18
-
-**Hit points:** 195 (17d10+102)
-
 **Immune:** fear
 
-**Mod:** +10 armor, +3 Dex, +7 natural
-
-**Ref:** +18
-
 **Resist:** acid 20, cold 20, electricity 20, fire 20
-
-**Will:** +14
 
 **Offense**
 

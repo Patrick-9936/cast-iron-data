@@ -51,22 +51,26 @@ _This oversized house cat has two twitching tails and a malevolent gleam in its 
 
 **Experience points:** 2,400
 
-**Armor class:** 19/14/15
+**Armor class:** 19
 
-**Fh:** 5
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +5 natural
 
 **Hit points:** 68 (8d10+24)
 
-**Immune:** ability damage, ability drain, death effects, disease, energy drain, fear, negative
-energy
-
-**Mod:** +4 Dex, +5 natural
+**Fort:** +9
 
 **Ref:** +10
 
 **Will:** +7
+
+**Fh:** 5
+
+**Immune:** ability damage, ability drain, death effects, disease, energy drain, fear, negative
+energy
 
 **Offense**
 

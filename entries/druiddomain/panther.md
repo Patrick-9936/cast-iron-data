@@ -40,11 +40,11 @@ a **free action**.
 **Passive:** In areas of normal or magical darkness, you gain a +4 bonus on Stealth skill checks and
 initiative checks.
 
-At 12th level: This bonus increases to +6.
+**At 12th level,** this bonus increases to +6.
 
-At 16th level: This bonus increases to +8.
+**At 16th level,** this bonus increases to +8.
 
-At 20th level: This bonus increases to +10.
+**At 20th level,** this bonus increases to +10.
 
 **Domain Spells**
 

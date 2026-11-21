@@ -19,6 +19,6 @@ within 30 feet of you, you may attempt to block the effect. Make an opposed cast
 (1d20 + caster level). If the check succeeds, the spell or effect fails and is wasted; otherwise, it
 is unaffected.
 
-**Prereq:** 9th-level wizard
-
 **Usage:** 1 time/day + 1 per 5 wizard levels beyond 10th
+
+**Prereq:** 9th-level wizard

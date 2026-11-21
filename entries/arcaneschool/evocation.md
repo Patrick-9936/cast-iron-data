@@ -19,9 +19,6 @@ Evokers revel in the raw power of magic, and can use it to create and destroy wi
 
 **Intense Spells (Su)**
 
-**At 20th Level:** Whenever you cast an evocation spell you can roll twice to penetrate a creature's
-[spell resistance](ref/rule/spell-resistance) and take the better result.
-
 **Gained:** At 1st Level
 
 **Passive:** Whenever you cast an evocation spell that deals hit point damage, add 1/2 your wizard
@@ -29,6 +26,9 @@ level to the damage (minimum +1). This bonus only applies once to a spell, not o
 ray, and cannot be split between multiple missiles or rays. This bonus damage is not increased by
 [Empower Spell](ref/feat/empower-spell) or similar effects. This damage is of the same type as the
 spell.
+
+**At 20th level,** whenever you cast an evocation spell you can roll twice to penetrate a creature's
+[spell resistance](ref/rule/spell-resistance) and take the better result.
 
 **Force Missile (Sp)**
 
@@ -60,14 +60,14 @@ powers of the evocation school.
 
 **Versatile Evocation (Su)**
 
+**Gained:** At 1st Level
+
 **Ability:** When you cast an evocation spell that does acid, cold, electricity, or fire damage, you
 may change the damage dealt to one of the other four energy types. This changes the descriptor of
 the spell to match the new energy type. Any non-damaging effects remain unchanged unless the new
 energy type invalidates them (an [ice storm](ref/spell/ice-storm) that deals fire damage might still
 provide a penalty on Perception checks due to smoke, but it would not create difficult terrain).
 Such effects are subject to GM discretion.
-
-**Gained:** At 1st Level
 
 **Usage:** 3 + Intelligence modifier times/day
 
@@ -96,13 +96,13 @@ powers of the evocation school.
 
 **Lingering Evocations (Su)**
 
-**At 20th Level:** Any dispel checks made against your evocation spells must be rolled twice, and
-your opponent must use the less favorable result.
-
 **Gained:** At 1st Level
 
 **Passive:** Any evocation spell you cast with a duration greater than instantaneous lasts an
 additional number of rounds equal to 1/2 your wizard level (minimum +1).
+
+**At 20th level,** any dispel checks made against your evocation spells must be rolled twice, and
+your opponent must use the less favorable result.
 
 **Wind Servant (Sp)**
 

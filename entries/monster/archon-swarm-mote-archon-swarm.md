@@ -54,27 +54,31 @@ cloud is a glowing rune no bigger than a thumbnail._
 
 **Experience points:** 51,200
 
-**Armor class:** 28/28/18
+**Armor class:** 28
+
+**Touch:** 28
+
+**Flat-footed:** 18
+
+**AC modifiers:** +9 Dex, +1 dodge, +8 size
+
+**Hit points:** 189 (18d10+90)
+
+**Fort:** +18
+
+**Ref:** +15
+
+**Will:** +16; +4 vs. poison, +2 resistance vs. evil
 
 **Defensive abilities:** swarm traits
 
 **Dr:** 10/evil
 
-**Fort:** +18
-
-**Hit points:** 189 (18d10+90)
-
 **Immune:** disease, electricity, petrification, weapon damage
-
-**Mod:** +9 Dex, +1 dodge, +8 size
-
-**Ref:** +15
 
 **Resist:** fire 20
 
 **Sr:** 26
-
-**Will:** +16; +4 vs. poison, +2 resistance vs. evil
 
 **Offense**
 

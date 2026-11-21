@@ -56,24 +56,28 @@ legs._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/19
+**Armor class:** 23
+
+**Touch:** 13
+
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +10 natural, -1 size
+
+**Hit points:** 112 (15d10+30)
+
+**Fort:** +8
+
+**Ref:** +12
+
+**Will:** +10
 
 **Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 10, reactive armor,
 resilient
 
-**Fort:** +8
-
-**Hit points:** 112 (15d10+30)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
 
-**Mod:** +4 Dex, +10 natural, -1 size
-
-**Ref:** +12
-
 **Vulner:** critical hits and electricity
-
-**Will:** +10
 
 **Offense**
 

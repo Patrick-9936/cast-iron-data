@@ -53,27 +53,31 @@ her lean form._
 
 **Experience points:** 51,200
 
-**Armor class:** 23/12/21
+**Armor class:** 23
+
+**Touch:** 12
+
+**Flat-footed:** 21
+
+**AC modifiers:** +8 armor, +2 Dex, +3 natural
+
+**Hit points:** 157 (12d8+3d10+87\~15)
+
+**Fort:** +15
+
+**Ref:** +12
+
+**Will:** +16
 
 **Defensive abilities:** sacred armor (+2; 12 minutes/day)
 
 **Dr:** 10/magic, 5/good or silver
 
-**Fort:** +15
-
-**Hit points:** 157 (12d8+3d10+87\~15)
-
 **Immune:** death effects, disease, fear, level drain, poison
-
-**Mod:** +8 armor, +2 Dex, +3 natural
-
-**Ref:** +12
 
 **Resist:** acid 10, cold 10, electricity 10, fire 10
 
 **Sr:** 26
-
-**Will:** +16
 
 **Offense**
 

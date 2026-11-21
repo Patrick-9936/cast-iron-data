@@ -48,13 +48,17 @@ holding squirming young cover the creature's abdomen._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/14/17
+**Armor class:** 22
 
-**Fort:** +9
+**Touch:** 14
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 114 (12d8+60)
 
-**Mod:** +4 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +8
 

@@ -54,21 +54,25 @@ humanoid._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/14/17
+**Armor class:** 21
 
-**Fort:** +8
+**Touch:** 14
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +1 dodge, +7 natural
 
 **Hit points:** 102 (12d8+48)
 
-**Immune:** disease
-
-**Mod:** +3 Dex, +1 dodge, +7 natural
+**Fort:** +8
 
 **Ref:** +9
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +11
+
+**Immune:** disease
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

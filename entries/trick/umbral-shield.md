@@ -14,8 +14,8 @@ group = "mesmerist-trick"
 
 **Umbral Shield**
 
+**Flavor:** The subject ignores any harmful effects of bright light or sunlight for 1 minute.
+
 **Ability:** The mesmerist can trigger this trick whenever the subject would be exposed to harmful
 bright light (such as sunlight is to a [vampire](ref/template/vampire)). The subject is immune to
 the [dazzled](ref/misc/dazzled) condition while this trick is in effect.
-
-**Flavor:** The subject ignores any harmful effects of bright light or sunlight for 1 minute.

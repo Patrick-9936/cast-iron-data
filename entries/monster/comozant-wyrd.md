@@ -55,23 +55,27 @@ and plays within its shifting mass._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/18/15
+**Armor class:** 18
 
-**Defensive abilities:** plasma form
+**Touch:** 18
 
-**Fort:** +1
+**Flat-footed:** 15
+
+**AC modifiers:** +4 deflection, +3 Dex, +1 size
 
 **Hit points:** 27 (5d10)
 
-**Immune:** cold, electricity, [elemental](ref/subtype/elemental) traits
-
-**Incorporeal:** present
-
-**Mod:** +4 deflection, +3 Dex, +1 size
+**Fort:** +1
 
 **Ref:** +9
 
 **Will:** +7
+
+**Defensive abilities:** plasma form
+
+**Immune:** cold, electricity, [elemental](ref/subtype/elemental) traits
+
+**Incorporeal:** present
 
 **Offense**
 

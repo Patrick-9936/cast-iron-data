@@ -48,19 +48,23 @@ held out menacingly before it._
 
 **Experience points:** 600
 
-**Armor class:** 15/11/14
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 natural
 
 **Hit points:** 22 (3d8+9)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +4 natural
+**Fort:** +6
 
 **Ref:** +2
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

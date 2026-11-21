@@ -51,19 +51,23 @@ _This striking, blue-eyed man with luminous skin and flowing white hair holds an
 
 **Experience points:** 1,200
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Dr:** 5/cold iron
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural
 
 **Hit points:** 41 (9d6+19)
 
-**Mod:** +3 Dex, +1 dodge, +4 natural
+**Fort:** +5
 
 **Ref:** +9
 
 **Will:** +8
+
+**Dr:** 5/cold iron
 
 **Offense**
 

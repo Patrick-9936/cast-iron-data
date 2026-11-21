@@ -50,19 +50,23 @@ seem to bear tiny faces._
 
 **Experience points:** 200
 
-**Armor class:** 12/12/10
+**Armor class:** 12
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +1 Dex, +1 size
 
 **Hit points:** 8 (1d8+4)
 
-**Immune:** acid, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +1 size
+**Fort:** +6
 
 **Ref:** +1
 
 **Will:** +1
+
+**Immune:** acid, [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

@@ -51,27 +51,31 @@ shields._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/11/17
+**Armor class:** 18
+
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +3 natural, +4 shield
+
+**Hit points:** 45 (6d10+12)
+
+**Fort:** +9
+
+**Ref:** +3
+
+**Will:** +8
 
 **Defensive abilities:** animated shield
 
 **Dr:** 5/adamantine
 
-**Fort:** +9
-
-**Hit points:** 45 (6d10+12)
-
 **Immune:** death effects, disease, poison
-
-**Mod:** +1 Dex, +3 natural, +4 shield
-
-**Ref:** +3
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 15
-
-**Will:** +8
 
 **Offense**
 

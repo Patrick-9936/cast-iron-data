@@ -14,6 +14,9 @@ group = "witch-hex"
 
 **Greater Gift of Consumption (Su)**
 
+**Flavor:** The witch can more effectively redirect effects to her proxy chosen by the _gift of
+consumption_ hex.
+
 **Ability:** When the witch succeeds at her Fortitude save against an effect that she has redirected
 to a proxy, the hexed creature takes a -4 penalty on its Fortitude save against the redirected
 effect.
@@ -24,8 +27,5 @@ hexed creature, though the hexed creature can still attempt a saving throw to re
 
 Once she has redirected an effect to another creature in this way, that creature cannot be affected
 by the _gift of consumption_ hex again for 24 hours.
-
-**Flavor:** The witch can more effectively redirect effects to her proxy chosen by the _gift of
-consumption_ hex.
 
 **Prereq:** [Gift of consumption](ref/hex/gift-of-consumption)

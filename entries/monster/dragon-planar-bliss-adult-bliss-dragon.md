@@ -53,23 +53,27 @@ _This serene dragon's feathered form emits a comforting warmth._
 
 **Experience points:** 76,800
 
-**Armor class:** 32/8/32
+**Armor class:** 32
 
-**Dr:** 5/evil
+**Touch:** 8
 
-**Fort:** +19
+**Flat-footed:** 32
+
+**AC modifiers:** +24 natural, -2 size
 
 **Hit points:** 270 (20d12+140)
 
-**Immune:** ability damage, ability drain, electricity, paralysis, petrification, sleep
-
-**Mod:** +24 natural, -2 size
+**Fort:** +19
 
 **Ref:** +12
 
-**Sr:** 27
-
 **Will:** +17
+
+**Dr:** 5/evil
+
+**Immune:** ability damage, ability drain, electricity, paralysis, petrification, sleep
+
+**Sr:** 27
 
 **Offense**
 

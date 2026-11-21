@@ -54,25 +54,29 @@ of the rotting, flapping undead monstrosity he rides._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/13/19
+**Armor class:** 22
 
-**Dr:** 5/good or silver
+**Touch:** 13
 
-**Fort:** +12
+**Flat-footed:** 19
+
+**AC modifiers:** +5 armor, +3 Dex, +3 natural, +1 shield
 
 **Hit points:** 92 (3d10+7d10+37\~10)
 
-**Immune:** death effects, disease, fear, level drain
-
-**Mod:** +5 armor, +3 Dex, +3 natural, +1 shield
+**Fort:** +12
 
 **Ref:** +9
+
+**Will:** +6
+
+**Dr:** 5/good or silver
+
+**Immune:** death effects, disease, fear, level drain
 
 **Resist:** acid 10
 
 **Sr:** 21
-
-**Will:** +6
 
 **Offense**
 

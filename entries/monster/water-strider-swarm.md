@@ -53,23 +53,27 @@ skimming over it in a wave of twitching bodies._
 
 **Experience points:** 400
 
-**Armor class:** 18/18/14
+**Armor class:** 18
 
-**Defensive abilities:** swarm traits
+**Touch:** 18
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 size
 
 **Hit points:** 9 (2d8)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** +4 Dex, +4 size
+**Fort:** +3
 
 **Ref:** +4
 
-**Weaknesses:** swarm traits
-
 **Will:** +0
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
+
+**Weaknesses:** swarm traits
 
 **Offense**
 

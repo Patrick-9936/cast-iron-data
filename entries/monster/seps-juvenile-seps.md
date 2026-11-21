@@ -48,13 +48,17 @@ _This venomous snake is heavily armored and has unusually large fangs._
 
 **Experience points:** 600
 
-**Armor class:** 16/11/15
+**Armor class:** 16
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +5 natural
 
 **Hit points:** 22 (3d10+6)
 
-**Mod:** +1 Dex, +5 natural
+**Fort:** +5
 
 **Ref:** +4
 

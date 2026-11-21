@@ -54,27 +54,31 @@ Slender surgical lancets pierce her body in numerous locations, yet these wounds
 
 **Experience points:** 3,200
 
-**Armor class:** 19/16/14
+**Armor class:** 19
 
-**Dr:** 5/silver or good
+**Touch:** 16
 
-**Fort:** +10
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +1 dodge, +3 natural
 
 **Hit points:** 85 (9d10+36)
 
-**Immune:** cold, poison
-
-**Mod:** +5 Dex, +1 dodge, +3 natural
+**Fort:** +10
 
 **Ref:** +8
+
+**Will:** +6
+
+**Dr:** 5/silver or good
+
+**Immune:** cold, poison
 
 **Regen:** 3 (good spells, good weapons, silver weapons)
 
 **Sr:** 18
 
 **Vulner:** electricity
-
-**Will:** +6
 
 **Offense**
 

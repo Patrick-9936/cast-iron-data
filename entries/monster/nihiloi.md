@@ -55,23 +55,27 @@ strange, wriggling wings._
 
 **Experience points:** 12,800
 
-**Armor class:** 23/18/15
+**Armor class:** 23
+
+**Touch:** 18
+
+**Flat-footed:** 15
+
+**AC modifiers:** +7 Dex, +1 dodge, +5 natural
+
+**Hit points:** 135 (10d10+80)
+
+**Fort:** +11
+
+**Ref:** +16
+
+**Will:** +12
 
 **Defensive abilities:** malleable
 
 **Fh:** 5 (only in shadows)
 
-**Fort:** +11
-
-**Hit points:** 135 (10d10+80)
-
 **Immune:** cold
-
-**Mod:** +7 Dex, +1 dodge, +5 natural
-
-**Ref:** +16
-
-**Will:** +12
 
 **Offense**
 

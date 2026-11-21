@@ -52,19 +52,23 @@ appearance truly bizarre._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/9/25
+**Armor class:** 26
 
-**Fort:** +16
+**Touch:** 9
+
+**Flat-footed:** 25
+
+**AC modifiers:** +2 armor, +1 Dex, +15 natural, -2 size
 
 **Hit points:** 161 (14d8+98)
 
-**Mod:** +2 armor, +1 Dex, +15 natural, -2 size
+**Fort:** +16
 
 **Ref:** +5
 
-**Resist:** cold 10
-
 **Will:** +7
+
+**Resist:** cold 10
 
 **Offense**
 

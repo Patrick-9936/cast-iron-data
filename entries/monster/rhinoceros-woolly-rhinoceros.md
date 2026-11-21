@@ -47,13 +47,17 @@ and brow._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/9/19
+**Armor class:** 19
 
-**Fort:** +13
+**Touch:** 9
+
+**Flat-footed:** 19
+
+**AC modifiers:** +10 natural, -1 size
 
 **Hit points:** 76 (8d8+40)
 
-**Mod:** +10 natural, -1 size
+**Fort:** +13
 
 **Ref:** +6
 

@@ -14,11 +14,11 @@ group = "phrenic-amplification"
 
 **Mind's Eye (Su)**
 
-**Ability:** While casting a spell that requires a ranged attack roll, the psychic can spend 2
-points from her phrenic pool and gain a +4 insight bonus on the attack roll.
-
 **Flavor:** Some psychics train their visual and psychic senses, binding them together into a
 unified focus to better guide their ranged spells and place them with uncanny precision.
+
+**Ability:** While casting a spell that requires a ranged attack roll, the psychic can spend 2
+points from her phrenic pool and gain a +4 insight bonus on the attack roll.
 
 **Special:** The psychic can spend 1 additional point to ignore penalties from
 [cover](ref/rule/cover) (but not total cover).

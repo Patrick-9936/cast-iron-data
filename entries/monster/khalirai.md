@@ -52,20 +52,24 @@ _This slender, seductive woman has bone-white skin and an otherworldly beauty._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/28/21
+**Armor class:** 29
 
-**Dr:** 10/cold iron
+**Touch:** 28
 
-**Fort:** +18
+**Flat-footed:** 21
+
+**AC modifiers:** +10 deflection, +7 Dex, +1 dodge, +1 natural
 
 **Hit points:** 152 (8d6+8d8+88\~16)
 
-**Mod:** +10 deflection, +7 Dex, +1 dodge, +1 natural
+**Fort:** +18
 
 **Ref:** +25
 
 **Will:** +27; +2 vs. death effects, disease, mind-affecting effects, poison, sleep effects, and
 stunning
+
+**Dr:** 10/cold iron
 
 **Offense**
 

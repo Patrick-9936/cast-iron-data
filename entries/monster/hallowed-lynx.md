@@ -51,19 +51,23 @@ tufted ears, a short tail, and keen, piercing eyes._
 
 **Experience points:** 102,400
 
-**Armor class:** 29/17/23
+**Armor class:** 29
 
-**Fort:** +17
+**Touch:** 17
+
+**Flat-footed:** 23
+
+**AC modifiers:** +5 Dex, +1 dodge, +12 natural, +1 size
 
 **Hit points:** 241 (23d10+115)
 
-**Immune:** blindness, fire, light effects
-
-**Mod:** +5 Dex, +1 dodge, +12 natural, +1 size
+**Fort:** +17
 
 **Ref:** +20
 
 **Will:** +14
+
+**Immune:** blindness, fire, light effects
 
 **Offense**
 

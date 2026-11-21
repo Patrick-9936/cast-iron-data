@@ -17,8 +17,8 @@ group = "arcane-discovery"
 **Flavor:** Your studies in transmogrification have increased your control over shapechanging
 spells.
 
-**Prereq:** 5th-level wizard
-
 **Standard:** When you cast a spell of the polymorph subschool on yourself, you may expend 1 minute
 of the spell's duration to assume another form allowed by the spell. You can do this as often as you
 like, subject to the duration of the spell.
+
+**Prereq:** 5th-level wizard

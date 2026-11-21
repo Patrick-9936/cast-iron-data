@@ -45,13 +45,17 @@ _A cold-eyed falcon's head and great wings adorn the body of this otherwise leon
 
 **Experience points:** 1,600
 
-**Armor class:** 17/11/15
+**Armor class:** 17
 
-**Fort:** +8
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +6 natural, -1 size
 
 **Hit points:** 60 (8d10+16)
 
-**Mod:** +2 Dex, +6 natural, -1 size
+**Fort:** +8
 
 **Ref:** +8
 

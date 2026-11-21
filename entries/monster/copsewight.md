@@ -50,29 +50,33 @@ and covered in splotches of black rot._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/12/26
+**Armor class:** 26
+
+**Touch:** 12
+
+**Flat-footed:** 26
+
+**AC modifiers:** +14 natural, +4 profane, -2 size
+
+**Hit points:** 136 (16d8+64)
+
+**Fort:** +9
+
+**Ref:** +7
+
+**Will:** +13
 
 **Chan Res:** +4
 
 **Defensive abilities:** all-around vision
 
-**Fort:** +9
-
-**Hit points:** 136 (16d8+64)
-
 **Immune:** polymorph, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +14 natural, +4 profane, -2 size
-
-**Ref:** +7
 
 **Regen:** 5 (fire or positive energy)
 
 **Resist:** cold 10
 
 **Vulner:** fire
-
-**Will:** +13
 
 **Offense**
 

@@ -74,8 +74,6 @@ Ushitora, Venkelvore, Xsistaid, Yabu, Ymeri, Zagresh, Zon-Kuthon, Zurapadyn, Zyp
 
 **Gained:** At 8th Level
 
-**Replaces:** The destructive aura power of the Destruction domain
-
 **Standard:** You can unleash a furious call to the heavens, summoning forth an ever-changing storm
 of destruction. This storm has a radius of 5 feet per cleric level. Each round, the storm has one of
 the following effects: driving rain (-4 on all Perception checks and ranged attack rolls), howling
@@ -85,6 +83,8 @@ depending on the weather might also apply (at the GM's discretion). You choose w
 place each round, but no effect may be repeated on the following round.
 
 **Usage:** 1 time/day per cleric level
+
+**Replaces:** The destructive aura power of the Destruction domain
 
 **Replacement Domain Spells**
 
@@ -104,8 +104,6 @@ place each round, but no effect may be repeated on the following round.
 
 **Gained:** At 8th Level
 
-**Replaces:** The destructive aura ability of the Destruction domain
-
 **Standard:** You can emit a 30-foot aura of hatred. Enemies within this aura must attempt a Will
 save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). Characters who fail their save are
 filled with hatred, and cannot consider other characters allies for the purpose of any actions or
@@ -113,6 +111,8 @@ use any teamwork feats. The effect ends immediately if the creature leaves the a
 aura as a free action, or you expend all rounds of this ability.
 
 **Usage:** 1 time/day per cleric level
+
+**Replaces:** The destructive aura ability of the Destruction domain
 
 **Replacement Domain Spells**
 
@@ -131,21 +131,21 @@ Treerazer, Ushitora, Vildeis, Xiquiripat, Zurapadyn
 
 **Rage (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You can enter a fearsome rage, like a [barbarian](ref/class/barbarian).
 
-**At 12th Level:** You can select one rage power.
+**Usage:** 1 time/day per cleric level
 
-**At 16th Level:** You can select one rage power.
+**At 12th level,** you can select one rage power.
 
-**Gained:** At 8th Level
+**At 16th level,** you can select one rage power.
 
 **Replaces:** The destructive aura power of the Destruction domain
 
 **Special:** You cannot select any rage power that possesses a level requirement, but otherwise your
 barbarian level is equal to 1/2 your cleric level. These rounds of rage stack with any rounds of
 rage you might have from levels of barbarian.
-
-**Usage:** 1 time/day per cleric level
 
 **Replacement Domain Spells**
 
@@ -167,9 +167,9 @@ strike into nonlethal damage, adding your Wisdom modifier to the damage. If your
 free action you can attempt an Intimidate check to demoralize the target. You gain a bonus on this
 Intimidate check equal to the amount of nonlethal damage dealt by the painful smite.
 
-**Replaces:** The destructive smite power of the Destruction domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The destructive smite power of the Destruction domain
 
 **Replacement Domain Spells**
 

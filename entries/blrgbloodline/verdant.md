@@ -50,17 +50,17 @@ bloodrager class feature that also grants you fast healing (such as the
 of your fast healing from such abilities with the fast healing gained from this ability, but you
 cannot do so by an amount that exceeds your Charisma bonus (minimum 0).
 
-**At 4th Level:** You instead gain [fast healing](ref/umr/fast-healing) 2.
+**At 4th level,** you instead gain [fast healing](ref/umr/fast-healing) 2.
 
-**At 7th Level:** You instead gain [fast healing](ref/umr/fast-healing) 3.
+**At 7th level,** you instead gain [fast healing](ref/umr/fast-healing) 3.
 
-**At 10th Level:** You instead gain [fast healing](ref/umr/fast-healing) 4.
+**At 10th level,** you instead gain [fast healing](ref/umr/fast-healing) 4.
 
-**At 13th Level:** You instead gain [fast healing](ref/umr/fast-healing) 5.
+**At 13th level,** you instead gain [fast healing](ref/umr/fast-healing) 5.
 
-**At 16th Level:** You instead gain [fast healing](ref/umr/fast-healing) 6.
+**At 16th level,** you instead gain [fast healing](ref/umr/fast-healing) 6.
 
-**At 19th Level:** You instead gain [fast healing](ref/umr/fast-healing) 7.
+**At 19th level,** you instead gain [fast healing](ref/umr/fast-healing) 7.
 
 **Oaken Skin (Ex)**
 
@@ -69,13 +69,13 @@ cannot do so by an amount that exceeds your Charisma bonus (minimum 0).
 **Passive:** When entering a _bloodrage,_ your skin thickens like bark and you gain a +2 enhancement
 bonus to your natural armor.
 
-**At 8th Level:** The bonus becomes +3.
+**At 8th level,** the bonus becomes +3.
 
-**At 12th Level:** The bonus becomes +4.
+**At 12th level,** the bonus becomes +4.
 
-**At 16th Level:** The bonus becomes +5.
+**At 16th level,** the bonus becomes +5.
 
-**At 20th Level:** The bonus becomes +6.
+**At 20th level,** the bonus becomes +6.
 
 **Botanical Plasticity (Su)**
 

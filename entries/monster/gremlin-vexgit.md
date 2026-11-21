@@ -50,21 +50,25 @@ a tiny but solid-looking hammer._
 
 **Experience points:** 400
 
-**Armor class:** 15/13/14
+**Armor class:** 15
 
-**Dr:** 5/cold iron
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +2 natural, +2 size
 
 **Hit points:** 8 (1d6+5)
 
-**Mod:** +1 Dex, +2 natural, +2 size
+**Fort:** +2
 
 **Ref:** +3
 
-**Sr:** 12
-
 **Will:** +3
+
+**Dr:** 5/cold iron
+
+**Sr:** 12
 
 **Offense**
 

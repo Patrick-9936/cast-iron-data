@@ -17,5 +17,5 @@ group = "vigilante-talent"
 **Ability:** The vigilante can move at full speed while using the Stealth and Acrobatics skills
 without penalty.
 
-**At 8th Level:** He can move at full speed across
+**At 8th level,** he can move at full speed across
 [difficult terrain](ref/rule/terrain-and-obstacles).

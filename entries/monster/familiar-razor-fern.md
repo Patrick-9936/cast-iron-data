@@ -47,21 +47,25 @@ _This vaguely human-shaped plant slashes out with dangerous-looking barbed frond
 
 **Experience points:** 100
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Defensive abilities:** shielding frond
+**Touch:** 14
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 4 (1d8)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +2
 
 **Will:** +0
+
+**Defensive abilities:** shielding frond
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

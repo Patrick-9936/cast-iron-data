@@ -54,19 +54,23 @@ unpredictable wildness._
 
 **Experience points:** 200
 
-**Armor class:** 14/11/13
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +1 Dex, +1 shield
 
 **Hit points:** 12 (1d8+4)
 
-**Mod:** +2 armor, +1 Dex, +1 shield
+**Fort:** +3
 
 **Ref:** +3
 
-**Resist:** acid 5, electricity 5, sonic 5
-
 **Will:** +1; +2 vs. polymorph effects
+
+**Resist:** acid 5, electricity 5, sonic 5
 
 **Offense**
 

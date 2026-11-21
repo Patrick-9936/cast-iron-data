@@ -49,19 +49,23 @@ cube of slime._
 
 **Experience points:** 800
 
-**Armor class:** 4/4/4
+**Armor class:** 4
 
-**Fort:** +9
+**Touch:** 4
+
+**Flat-footed:** 4
+
+**AC modifiers:** -5 Dex, -1 size
 
 **Hit points:** 50 (4d8+32)
 
-**Immune:** electricity, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, -1 size
+**Fort:** +9
 
 **Ref:** -4
 
 **Will:** -4
+
+**Immune:** electricity, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

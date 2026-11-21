@@ -47,14 +47,14 @@ unconscious or dead.
 
 **Holy Vessel (Su)**
 
+**Gained:** At 9th Level
+
 **Ability:** A paladin whose _divine bond_ is with a weapon can also use her _divine bond_ to
 augment her armor or shield with enhancement bonuses, or add any of the following armor or shield
 properties: [bashing](ref/magic-enh/bashing), [fortification](ref/magic-enh/fortification), and
 [spell resistance](ref/magic-enh/spell-resistance). Adding these properties consumes an amount of
 bonus equal to the property's cost (see the
 [armor special abilities and shield special abilities tables](ref/rule/magic-armor)).
-
-**Gained:** At 9th Level
 
 **Replaces:** 9th-level mercy
 

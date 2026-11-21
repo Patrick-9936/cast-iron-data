@@ -37,8 +37,8 @@ with your _focus_ in its possession.
 
 **Locate Focus (Sp)**
 
+**Gained:** At 8th Level
+
 **Ability:** Once per day you may use either [locate creature](ref/spell/locate-creature) or
 [locate object](ref/spell/locate-object) as a [spell-like ability](ref/umr/spell-like-abilities)
 using your current _focus_ as the target. The range of this effect is 1 mile per level.
-
-**Gained:** At 8th Level

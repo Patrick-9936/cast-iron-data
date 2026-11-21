@@ -53,13 +53,17 @@ _This large, flying serpent has a humanoid head outlined by a colorful, frilled 
 
 **Experience points:** 6,400
 
-**Armor class:** 23/15/17
+**Armor class:** 23
 
-**Fort:** +9
+**Touch:** 15
+
+**Flat-footed:** 17
+
+**AC modifiers:** +6 Dex, +8 natural, -1 size
 
 **Hit points:** 123 (13d8+65)
 
-**Mod:** +6 Dex, +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +12
 

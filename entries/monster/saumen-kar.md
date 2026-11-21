@@ -48,23 +48,27 @@ frostbite stretches taught over a misshapen skull crowned with a pair of ivory h
 
 **Experience points:** 9,600
 
-**Armor class:** 24/11/22
+**Armor class:** 24
 
-**Defensive abilities:** frostbite brands
+**Touch:** 11
 
-**Fort:** +11
+**Flat-footed:** 22
+
+**AC modifiers:** +4 deflection, +2 Dex, +9 natural, -1 size
 
 **Hit points:** 136 (13d10+65)
 
-**Immune:** cold
-
-**Mod:** +4 deflection, +2 Dex, +9 natural, -1 size
+**Fort:** +11
 
 **Ref:** +10
 
-**Resist:** fire 20
-
 **Will:** +9
+
+**Defensive abilities:** frostbite brands
+
+**Immune:** cold
+
+**Resist:** fire 20
 
 **Offense**
 

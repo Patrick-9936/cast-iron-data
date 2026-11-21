@@ -51,23 +51,27 @@ _No flavor text._
 
 **Experience points:** 800
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Dr:** 5/bludgeoning or slashing
+**Touch:** 12
 
-**Fort:** +2
+**Flat-footed:** 16
+
+**AC modifiers:** +3 armor, +2 Dex, +2 natural, +1 shield
 
 **Hit points:** 22 (3d8+1d8+5\~4)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 armor, +2 Dex, +2 natural, +1 shield
+**Fort:** +2
 
 **Ref:** +5
 
-**Resist:** fire 10
-
 **Will:** +4
+
+**Dr:** 5/bludgeoning or slashing
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Resist:** fire 10
 
 **Offense**
 

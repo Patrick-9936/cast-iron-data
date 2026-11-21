@@ -50,27 +50,31 @@ and mouthless._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/19/23
+**Armor class:** 33
+
+**Touch:** 19
+
+**Flat-footed:** 23
+
+**AC modifiers:** +9 Dex, +1 dodge, +14 natural, -1 size
+
+**Hit points:** 312 (25d8+200)
+
+**Fort:** +22
+
+**Ref:** +17
+
+**Will:** +17
 
 **Defensive abilities:** perennial
 
 **Dr:** 15/magic and slashing
 
-**Fort:** +22
-
-**Hit points:** 312 (25d8+200)
-
 **Immune:** fire, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +9 Dex, +1 dodge, +14 natural, -1 size
-
-**Ref:** +17
 
 **Regen:** 10 (cold)
 
 **Resist:** electricity 30
-
-**Will:** +17
 
 **Offense**
 

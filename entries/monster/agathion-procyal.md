@@ -50,21 +50,25 @@ darting eyes._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/16/18
+**Armor class:** 20
 
-**Fort:** +11
+**Touch:** 16
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 natural
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** electricity, petrification
-
-**Mod:** +2 Dex, +8 natural
+**Fort:** +11
 
 **Ref:** +9
 
-**Resist:** cold 10, sonic 10
-
 **Will:** +6; +4 vs. poison
+
+**Immune:** electricity, petrification
+
+**Resist:** cold 10, sonic 10
 
 **Offense**
 

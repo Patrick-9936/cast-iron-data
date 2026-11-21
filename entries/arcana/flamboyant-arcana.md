@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Flamboyant Arcana:**
+**Flamboyant Arcana**
 
 **Ability:** A magus gains the [derring-do](ref/swashdeed/derring-do) and
 [opportune parry and riposte](ref/swashdeed/opportune-parry-and-riposte) deeds from the

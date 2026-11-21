@@ -48,7 +48,21 @@ an enormous pair of knobby legs._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/11/18
+**Armor class:** 21
+
+**Touch:** 11
+
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +10 natural, -2 size
+
+**Hit points:** 95 (10d10+40)
+
+**Fort:** +3
+
+**Ref:** +6
+
+**Will:** +3
 
 **Defensive abilities:** dancing
 
@@ -56,17 +70,7 @@ an enormous pair of knobby legs._
 
 **Evasion:** present
 
-**Fort:** +3
-
-**Hit points:** 95 (10d10+40)
-
 **Immune:** acid, cold, [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +3 Dex, +10 natural, -2 size
-
-**Ref:** +6
-
-**Will:** +3
 
 **Offense**
 

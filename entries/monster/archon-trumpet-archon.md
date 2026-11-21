@@ -53,23 +53,27 @@ and radiates a sense of serenity._
 
 **Experience points:** 38,400
 
-**Armor class:** 27/13/24
+**Armor class:** 27
 
-**Dr:** 10/evil
+**Touch:** 13
 
-**Fort:** +16
+**Flat-footed:** 24
+
+**AC modifiers:** +3 Dex, +14 natural; +2 deflection vs. evil
 
 **Hit points:** 175 (14d10+98)
 
-**Immune:** electricity, petrification
-
-**Mod:** +3 Dex, +14 natural; +2 deflection vs. evil
+**Fort:** +16
 
 **Ref:** +9
 
-**Sr:** 25
-
 **Will:** +14; +4 vs. poison, +2 resistance vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** electricity, petrification
+
+**Sr:** 25
 
 **Offense**
 

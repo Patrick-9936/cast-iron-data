@@ -64,19 +64,19 @@ and toughness of a hag - though doing so won't help you make friends.
 
 **Horrific Visage (Su)**
 
-**Flavor:** You can draw upon your hag ancestor to cause one target to perceive you as having a
-horrifying appearance.
-
 **Gained:** At 1st Level
 
-**Special:** This is a mind-affecting, fear-based ability. This fear does not stack with other fear
-effects.
+**Flavor:** You can draw upon your hag ancestor to cause one target to perceive you as having a
+horrifying appearance.
 
 **Standard:** You can force one target within 30 feet to make a Will save (DC 10 + half your
 sorcerer level + your Charisma modifier) or be [shaken](ref/misc/shaken) for a number of rounds
 equal to [half](ref/misc/fractions-and-rounding) of your sorcerer level (minimum 1 round).
 
 **Usage:** 3 + Charisma modifier times/day
+
+**Special:** This is a mind-affecting, fear-based ability. This fear does not stack with other fear
+effects.
 
 **Wretched Endurance (Ex)**
 
@@ -85,23 +85,25 @@ equal to [half](ref/misc/fractions-and-rounding) of your sorcerer level (minimum
 **Passive:** You gain a +2 bonus on all saving throws against charm, cold, fear, fire, and sleep
 effects.
 
-**At 9th Level:** These bonuses increase to +4.
+**At 9th level,** these bonuses increase to +4.
 
 **Dread Gaze (Su)**
 
-**Flavor:** You gain a form of the [green hag's](ref/monster/hag-green-hag) _evil eye_ power.
-
 **Gained:** At 9th Level
+
+**Flavor:** You gain a form of the [green hag's](ref/monster/hag-green-hag) _evil eye_ power.
 
 **Standard:** Once per day, you may fix your gaze on any one creature within 60 feet. The target
 must make a Will save (DC 10 + half your sorcerer level + your Charisma modifier) or be
 [staggered](ref/misc/staggered) for a number of rounds equal to half of your sorcerer level.
 
-**At 17th Level:** You can use this ability twice per day.
+**At 17th level,** you can use this ability twice per day.
 
-**At 20th Level:** You may use this ability three times per day.
+**At 20th level,** you may use this ability three times per day.
 
 **Dream Walking (Sp)**
+
+**Gained:** At 15th Level
 
 **Ability:** You can enter the ethereal plane. This functions like
 [ethereal jaunt](ref/spell/ethereal-jaunt), but with a duration of a number of minutes equal to
@@ -110,12 +112,10 @@ must make a Will save (DC 10 + half your sorcerer level + your Charisma modifier
 creature you see on the Material Plane. (This is an exception to the normal rule that ethereal
 creatures cannot affect targets on the Material Plane).
 
-**Gained:** At 15th Level
-
 **Fearsome Survival (Su)**
 
-**Flavor:** Your hag-blood gives you considerable resilience.
-
 **Gained:** At 20th Level
+
+**Flavor:** Your hag-blood gives you considerable resilience.
 
 **Passive:** You gain DR 10/cold iron, and gain SR equal to 6 + your sorcerer level.

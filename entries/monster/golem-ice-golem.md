@@ -51,23 +51,27 @@ shards of ice adorn its limbs._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Dr:** 5/adamantine
+**Touch:** 9
 
-**Fort:** +2
+**Flat-footed:** 17
+
+**AC modifiers:** -1 Dex, +8 natural
 
 **Hit points:** 53 (6d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits), cold, magic
-
-**Mod:** -1 Dex, +8 natural
+**Fort:** +2
 
 **Ref:** +1
 
-**Vulner:** fire
-
 **Will:** +2
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), cold, magic
+
+**Vulner:** fire
 
 **Offense**
 

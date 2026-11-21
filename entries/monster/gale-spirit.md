@@ -55,23 +55,27 @@ scowl._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/20/16
+**Armor class:** 20
+
+**Touch:** 20
+
+**Flat-footed:** 16
+
+**AC modifiers:** +5 deflection, +4 Dex, +1 size
+
+**Hit points:** 57 (6d8+30)
 
 **Fort:** +7
 
-**Hit points:** 57 (6d8+30)
+**Ref:** +8
+
+**Will:** +5
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +5 deflection, +4 Dex, +1 size
-
-**Ref:** +8
-
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +5
 
 **Offense**
 

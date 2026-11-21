@@ -50,23 +50,27 @@ musculature. Its eyes burn with a red glow._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/16/19
+**Armor class:** 24
 
-**Dr:** 10/silver
+**Touch:** 16
 
-**Fort:** +12
+**Flat-footed:** 19
+
+**AC modifiers:** +5 Dex, +8 natural, +1 size
 
 **Hit points:** 105 (10d10+50)
 
-**Immune:** cold
-
-**Mod:** +5 Dex, +8 natural, +1 size
+**Fort:** +12
 
 **Ref:** +10
 
-**Regen:** 5 (good spells and weapons, silver weapons)
-
 **Will:** +12
+
+**Dr:** 10/silver
+
+**Immune:** cold
+
+**Regen:** 5 (good spells and weapons, silver weapons)
 
 **Offense**
 

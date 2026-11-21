@@ -52,27 +52,31 @@ heavy shell covering its back._
 
 **Experience points:** 3,200
 
-**Armor class:** 22/22/20
+**Armor class:** 22
+
+**Touch:** 22
+
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +10 natural
+
+**Hit points:** 85 (9d10+36)
+
+**Fort:** +10
+
+**Ref:** +7
+
+**Will:** +10; +4 vs. movement effects and poison
 
 **Defensive abilities:** protective shell, underwater movility
 
 **Dr:** 10/evil and silver
 
-**Fort:** +10
-
-**Hit points:** 85 (9d10+36)
-
 **Immune:** cold, electricity, petrification
-
-**Mod:** +2 Dex, +10 natural
-
-**Ref:** +7
 
 **Resist:** sonic 10
 
 **Sr:** 18
-
-**Will:** +10; +4 vs. movement effects and poison
 
 **Offense**
 

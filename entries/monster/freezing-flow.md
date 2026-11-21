@@ -51,21 +51,25 @@ _This transparent blue formation of ice is as forbidding as the serpent it resem
 
 **Experience points:** 1,200
 
-**Armor class:** 16/12/13
+**Armor class:** 16
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +4 natural, -1 size
 
 **Hit points:** 47 (5d8+25)
 
-**Immune:** cold, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +3 Dex, +4 natural, -1 size
+**Fort:** +6
 
 **Ref:** +3
 
-**Vulner:** fire
-
 **Will:** -4
+
+**Immune:** cold, [ooze traits](ref/umr/ooze-traits)
+
+**Vulner:** fire
 
 **Offense**
 

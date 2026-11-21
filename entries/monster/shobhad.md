@@ -51,21 +51,25 @@ leather chest harness._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/10/17
+**Armor class:** 18
 
-**Ferocity:** present
+**Touch:** 10
 
-**Fort:** +5
+**Flat-footed:** 17
+
+**AC modifiers:** +4 armor, +1 Dex, +4 natural, -1 size
 
 **Hit points:** 47 (5d10+20)
 
-**Mod:** +4 armor, +1 Dex, +4 natural, -1 size
+**Fort:** +5
 
 **Ref:** +5
 
-**Resist:** cold 5
-
 **Will:** +4
+
+**Ferocity:** present
+
+**Resist:** cold 5
 
 **Offense**
 

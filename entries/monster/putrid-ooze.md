@@ -51,23 +51,27 @@ _Masses of carrion and debris break the inky surface of this enormous, undulatin
 
 **Experience points:** 12,800
 
-**Armor class:** 7/7/7
+**Armor class:** 7
 
-**Dr:** 10/-
+**Touch:** 7
 
-**Fort:** +12
+**Flat-footed:** 7
+
+**AC modifiers:** -1 Dex, -2 size
 
 **Hit points:** 172 (15d8+105)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -1 Dex, -2 size
+**Fort:** +12
 
 **Ref:** +14
 
-**Resist:** electricity 20, fire 20
-
 **Will:** +0
+
+**Dr:** 10/-
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
+
+**Resist:** electricity 20, fire 20
 
 **Offense**
 

@@ -48,21 +48,25 @@ speed._
 
 **Experience points:** 76,800
 
-**Armor class:** 32/16/24
+**Armor class:** 32
 
-**Dr:** 15/adamantine, evasion
+**Touch:** 16
 
-**Fort:** +8
+**Flat-footed:** 24
+
+**AC modifiers:** +7 Dex, +1 dodge, +16 natural, -2 size
 
 **Hit points:** 172 (24d10+40)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +7 Dex, +1 dodge, +16 natural, -2 size
+**Fort:** +8
 
 **Ref:** +15
 
 **Will:** +8
+
+**Dr:** 15/adamantine, evasion
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

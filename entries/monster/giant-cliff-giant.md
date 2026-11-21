@@ -54,21 +54,25 @@ with streaks of shimmering color._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/10/22
+**Armor class:** 23
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 22
+
+**AC modifiers:** +4 armor, +1 Dex, +9 natural, -1 size
 
 **Hit points:** 133 (14d8+70)
 
-**Mod:** +4 armor, +1 Dex, +9 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
+
+**Will:** +11
 
 **Resist:** acid 10, fire 10
 
 **Rock Ct:** present
-
-**Will:** +11
 
 **Offense**
 

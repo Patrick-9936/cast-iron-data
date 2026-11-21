@@ -53,23 +53,27 @@ hungrily from the center of a whirlpool._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/5/28
+**Armor class:** 28
 
-**Fh:** 10
+**Touch:** 5
 
-**Fort:** +12
+**Flat-footed:** 28
+
+**AC modifiers:** -1 Dex, +23 natural, -4 size
 
 **Hit points:** 184 (16d8+112)
 
-**Immune:** acid
-
-**Mod:** -1 Dex, +23 natural, -4 size
+**Fort:** +12
 
 **Ref:** +6
 
-**Resist:** cold 20
-
 **Will:** +14
+
+**Fh:** 10
+
+**Immune:** acid
+
+**Resist:** cold 20
 
 **Offense**
 

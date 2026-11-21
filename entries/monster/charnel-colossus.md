@@ -49,7 +49,21 @@ amalgamated whole._
 
 **Experience points:** 204,800
 
-**Armor class:** 29/1/29
+**Armor class:** 29
+
+**Touch:** 1
+
+**Flat-footed:** 29
+
+**AC modifiers:** -1 Dex, +28 natural, -8 size
+
+**Hit points:** 345 (30d8+210)
+
+**Fort:** +19
+
+**Ref:** +11
+
+**Will:** +32
 
 **Amorph:** present
 
@@ -57,20 +71,10 @@ amalgamated whole._
 
 **Dr:** 15/magic and slashing
 
-**Fort:** +19
-
-**Hit points:** 345 (30d8+210)
-
 **Immune:** critical hits, precision damage, [turning](ref/feat/turn-undead),
 [undead traits](ref/umr/undead-traits)
 
-**Mod:** -1 Dex, +28 natural, -8 size
-
-**Ref:** +11
-
 **Sr:** 30
-
-**Will:** +32
 
 **Offense**
 

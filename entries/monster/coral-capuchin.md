@@ -55,19 +55,23 @@ fish and large, fin-like wings._
 
 **Experience points:** 400
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 13 (2d10+2)
 
-**Mod:** +3 Dex, +2 size
+**Fort:** +4
 
 **Ref:** +6
 
-**Weaknesses:** moisture dependency
-
 **Will:** +1
+
+**Weaknesses:** moisture dependency
 
 **Offense**
 

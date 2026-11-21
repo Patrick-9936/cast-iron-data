@@ -46,13 +46,17 @@ height of a man._
 
 **Experience points:** 600
 
-**Armor class:** 15/12/12
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +3 natural, -1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +3 Dex, +3 natural, -1 size
+**Fort:** +5
 
 **Ref:** +6
 

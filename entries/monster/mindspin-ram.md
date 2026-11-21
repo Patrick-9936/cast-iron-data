@@ -47,13 +47,17 @@ surface._
 
 **Experience points:** 600
 
-**Armor class:** 14/13/11
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 natural
 
 **Hit points:** 22 (4d8+4)
 
-**Mod:** +3 Dex, +1 natural
+**Fort:** +5
 
 **Ref:** +7
 

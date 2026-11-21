@@ -23,12 +23,12 @@ that spell is discharged harmlessly when she uses this hex.
 While the witch is in mud form, her speed becomes 10 feet and she gains a swim speed of 20 feet. The
 witch gains DR 10/slashing and cold resistance 10.
 
-**At 10th Level:** While the witch is in mud form, her speed increases to 20 feet and her swim speed
+**Usage:** 1 minute/day per witch level; these minutes need not be consecutive, but must be spent in
+1-minute increments
+
+**At 10th level,** while the witch is in mud form, her speed increases to 20 feet and her swim speed
 increases to 40 feet.
 
 **Prereq:** [Swamp hag](ref/hex/swamp-hag)
 
 **Special:** This hex affects only the witch.
-
-**Usage:** 1 minute/day per witch level; these minutes need not be consecutive, but must be spent in
-1-minute increments

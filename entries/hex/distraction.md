@@ -20,9 +20,9 @@ round. Anytime the creature attempts to do so, it must succeed at a
 [concentration](ref/rule/concentration) check (DC = 15 + twice the spell level) or lose the spell. A
 successful Will saving throw negates this hex.
 
-**At 16th Level:** The duration increases to 3 rounds.
+**At 8th level,** the duration becoems 2 rounds.
 
-**At 8th Level:** The duration becoems 2 rounds.
+**At 16th level,** the duration increases to 3 rounds.
 
 **Special:** Whether or not the save is successful, a creature cannot be the target of this hex
 again for 1 day. Hexes that affect the [misfortune](ref/hex/misfortune) hex, such as

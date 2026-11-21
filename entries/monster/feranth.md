@@ -50,23 +50,27 @@ beneath its mottled black hide._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/6/29
+**Armor class:** 29
+
+**Touch:** 6
+
+**Flat-footed:** 29
+
+**AC modifiers:** -2 Dex, +23 natural, -2 size
+
+**Hit points:** 218 (19d10+114)
+
+**Fort:** +16
+
+**Ref:** +9
+
+**Will:** +11
 
 **Defensive abilities:** hardened body
 
 **Dr:** 5/adamantine
 
 **Ferocity:** present
-
-**Fort:** +16
-
-**Hit points:** 218 (19d10+114)
-
-**Mod:** -2 Dex, +23 natural, -2 size
-
-**Ref:** +9
-
-**Will:** +11
 
 **Offense**
 

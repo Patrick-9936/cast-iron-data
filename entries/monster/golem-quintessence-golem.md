@@ -55,23 +55,27 @@ swirl within its immense body._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/18/26
+**Armor class:** 36
+
+**Touch:** 18
+
+**Flat-footed:** 26
+
+**AC modifiers:** +10 Dex, +18 natural, -2 size
+
+**Hit points:** 376 (32d10+200)
+
+**Fort:** +10
+
+**Ref:** +20
+
+**Will:** +10
 
 **Dr:** 15/epic
 
 **Fh:** 20
 
-**Fort:** +10
-
-**Hit points:** 376 (32d10+200)
-
 **Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +10 Dex, +18 natural, -2 size
-
-**Ref:** +20
-
-**Will:** +10
 
 **Offense**
 

@@ -64,13 +64,13 @@ by 1 per level of the spell slot expended until the beginning of your next turn.
 
 **Legacy Style (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** Select any one style feat. You can use this style feat while _bloodraging;_ however, if
 you do not meet all of the style feat's prerequisites, you must expend a spell slot when entering
 the style's stance, and the benefits last for only 1 round per level of the spell slot expended or
 for the duration of your _bloodrage,_ whichever is shorter. If you already have this style feat, you
 can enter the style's stance as part of the free action to _bloodrage._
-
-**Gained:** At 8th Level
 
 **War's Memory (Sp)**
 
@@ -87,12 +87,12 @@ leaves the area of effect. This is an illusion (glamer) and fear effect.
 
 **Legacy Conduit (Su)**
 
+**Gained:** At 16th Level
+
 **Ability:** When using the _legacy style_ bloodline power, you can expend a spell slot as a swift
 action to share the benefits of the selected style feat with all allies within 30 feet. The benefits
 last for 1 round per level of the spell slot expended. Allies must still enter the style's stance as
 a swift action.
-
-**Gained:** At 16th Level
 
 **Call to Arms (Su)**
 
@@ -104,7 +104,5 @@ it summons a number of allies equal to your Constitution modifier, and the allie
 modifier for attack rolls. You can direct all of these allies with a single swift action. Each ally
 can attack a different target or the same target, as you direct. The allies remain until the spell's
 duration ends or your _bloodrage_ ends, whichever comes first.
-
-**Usage:** Once per day.
 
 **Usage:** Once per day.

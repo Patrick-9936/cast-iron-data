@@ -49,19 +49,23 @@ to be remarkably sharp._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 9
+
+**Flat-footed:** 17
+
+**AC modifiers:** +8 natural, -1 size
 
 **Hit points:** 39 (6d8+12)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +8 natural, -1 size
+**Fort:** +7
 
 **Ref:** +2
 
 **Will:** +2
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

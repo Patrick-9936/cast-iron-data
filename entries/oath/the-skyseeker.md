@@ -46,23 +46,23 @@ than to other evil creatures.
 
 **Divine Bond (Su)**
 
+**Gained:** At 5th Level
+
 **Ability:** The paladin adds [mighty cleaving](ref/magic-enh/mighty-cleaving) to the list of weapon
 special abilities that can be added to her weapon and removes _flaming_ from the list.
 
 **Alters:** Divine bond
 
-**Gained:** At 5th Level
-
 **Mercy for the Lost (Sp)**
+
+**Gained:** At 11th Level
+
+**Flavor:** The paladin can use the Sky Citadels as a beacon leading her on the path to her deity.
 
 **Ability:** If she is on the Material Plane, the paladin can use
 [find the path](ref/spell/find-the-path) once per day at her paladin level, but only to find her way
 to a known Sky Citadel. If she is not on the Material Plane, she can instead use this ability to use
 [plane shift](ref/spell/plane-shift) as per the spell to travel to a known Sky Citadel.
-
-**Flavor:** The paladin can use the Sky Citadels as a beacon leading her on the path to her deity.
-
-**Gained:** At 11th Level
 
 **Replaces:** Aura of justice
 
@@ -71,9 +71,9 @@ _[plane shift](ref/spell/plane-shift)_ to travel to the realm of her deity.
 
 **Stalwart (Ex)**
 
-**Flavor:** The paladin's quest has strengthened her body and mind.
-
 **Gained:** At 14th Level
+
+**Flavor:** The paladin's quest has strengthened her body and mind.
 
 **Passive:** If she succeeds at a Fortitude or Will saving throw against an effect that has a
 reduced effect on a successful save, she instead avoids the effect entirely.

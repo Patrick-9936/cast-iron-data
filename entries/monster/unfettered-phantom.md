@@ -51,21 +51,25 @@ _This strange ghostly creature seems to writhe in the throes of some uncontrolla
 
 **Experience points:** 1,200
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Dr:** 5/slashing
+**Touch:** 14
 
-**Fort:** +7
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +1 dodge, +4 natural
+**Fort:** +7
 
 **Ref:** +4
 
 **Will:** +4
+
+**Dr:** 5/slashing
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

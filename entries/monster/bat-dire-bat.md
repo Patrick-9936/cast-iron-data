@@ -47,13 +47,17 @@ two men with arms outstretched._
 
 **Experience points:** 600
 
-**Armor class:** 14/11/12
+**Armor class:** 14
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +3 natural, -1 size
 
 **Hit points:** 22 (4d8+4)
 
-**Mod:** +2 Dex, +3 natural, -1 size
+**Fort:** +5
 
 **Ref:** +6
 

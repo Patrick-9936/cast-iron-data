@@ -54,25 +54,29 @@ buccaneer._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/13/15
+**Armor class:** 18
 
-**Dr:** 5/good or silver
+**Touch:** 13
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +3 armor, +3 Dex, +2 natural
 
 **Hit points:** 31 (3d10+1d10+9\~4)
 
-**Immune:** death effects, disease, fear, level drain
-
-**Mod:** +3 armor, +3 Dex, +2 natural
+**Fort:** +5
 
 **Ref:** +8
+
+**Will:** +3
+
+**Dr:** 5/good or silver
+
+**Immune:** death effects, disease, fear, level drain
 
 **Resist:** acid 10
 
 **Sr:** 15
-
-**Will:** +3
 
 **Offense**
 

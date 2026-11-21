@@ -51,19 +51,23 @@ hands than a wolf's paws._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/11/18
+**Armor class:** 20
 
-**Dr:** 10/magic
+**Touch:** 11
 
-**Fort:** +9
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +9 natural, -1 size
 
 **Hit points:** 85 (9d10+36)
 
-**Mod:** +2 Dex, +9 natural, -1 size
+**Fort:** +9
 
 **Ref:** +10
 
 **Will:** +10
+
+**Dr:** 10/magic
 
 **Offense**
 

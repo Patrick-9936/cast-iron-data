@@ -48,25 +48,29 @@ abilities = ["13", "22", "-", "15", "16", "22"]
 
 **Experience points:** 19,200
 
-**Armor class:** 23/17/17
+**Armor class:** 23
+
+**Touch:** 17
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 armor, +1 deflection, +6 Dex, +2 natural
+
+**Hit points:** 176 (2d8+12d6+125\~14)
+
+**Fort:** +10
+
+**Ref:** +12
+
+**Will:** +14
 
 **Chan Res:** +2
 
 **Defensive abilities:** _[nondetection](ref/spell/nondetection)_
 
-**Fort:** +10
-
-**Hit points:** 176 (2d8+12d6+125\~14)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +4 armor, +1 deflection, +6 Dex, +2 natural
-
-**Ref:** +12
-
 **Resist:** cold 10
-
-**Will:** +14
 
 **Offense**
 

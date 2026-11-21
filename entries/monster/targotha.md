@@ -55,23 +55,27 @@ deep-purple body._
 
 **Experience points:** 51,200
 
-**Armor class:** 28/10/26
+**Armor class:** 28
 
-**Defensive abilities:** all-around vision, slippery
+**Touch:** 10
 
-**Fort:** +16
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +1 dodge, +18 natural, -2 size
 
 **Hit points:** 253 (22d8+154)
 
-**Immune:** electricity, fire, poison
-
-**Mod:** +1 Dex, +1 dodge, +18 natural, -2 size
+**Fort:** +16
 
 **Ref:** +10
 
-**Resist:** acid 20, cold 20
-
 **Will:** +15
+
+**Defensive abilities:** all-around vision, slippery
+
+**Immune:** electricity, fire, poison
+
+**Resist:** acid 20, cold 20
 
 **Offense**
 

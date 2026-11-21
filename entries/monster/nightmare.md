@@ -51,13 +51,17 @@ and its hooves spray sparks._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Fort:** +8
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +8 natural, -1 size
 
 **Hit points:** 51 (6d10+18)
 
-**Mod:** +2 Dex, +8 natural, -1 size
+**Fort:** +8
 
 **Ref:** +7
 

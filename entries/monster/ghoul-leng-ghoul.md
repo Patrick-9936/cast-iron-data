@@ -51,21 +51,25 @@ gleam of intelligence._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/17/18
+**Armor class:** 25
 
-**Chan Res:** +4
+**Touch:** 17
 
-**Fort:** +10
+**Flat-footed:** 18
+
+**AC modifiers:** +7 Dex, +8 natural
 
 **Hit points:** 126 (12d8+72)
 
-**Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +7 Dex, +8 natural
+**Fort:** +10
 
 **Ref:** +11
 
 **Will:** +13
+
+**Chan Res:** +4
+
+**Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

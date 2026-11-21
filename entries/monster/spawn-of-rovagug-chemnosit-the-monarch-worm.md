@@ -53,26 +53,30 @@ center of its maw rests a glowing evil eye._
 
 **Experience points:** 819,200
 
-**Armor class:** 39/3/38
+**Armor class:** 39
 
-**Dr:** 15/epic
+**Touch:** 3
+
+**Flat-footed:** 38
+
+**AC modifiers:** +1 Dex, +36 natural, -8 size
+
+**Hit points:** 472 (27d10+324)
 
 **Fort:** +29
 
-**Hit points:** 472 (27d10+324)
+**Ref:** +18
+
+**Will:** +13
+
+**Dr:** 15/epic
 
 **Immune:** ability damage, acid, bleed, cold, disease, energy drain, mind-affecting effects,
 paralysis, permanent wounds, petrification, poison, polymorph
 
-**Mod:** +1 Dex, +36 natural, -8 size
-
-**Ref:** +18
-
 **Regen:** 30
 
 **Sr:** 34
-
-**Will:** +13
 
 **Offense**
 

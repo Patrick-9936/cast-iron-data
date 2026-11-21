@@ -52,23 +52,27 @@ through the air on feathered wings._
 
 **Experience points:** 600
 
-**Armor class:** 14/11/14
+**Armor class:** 14
 
-**Dr:** 5/cold iron or evil
+**Touch:** 11
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +3 natural, +1 size
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** acid, cold, petrification
-
-**Mod:** +3 natural, +1 size
+**Fort:** +4
 
 **Ref:** +3
 
-**Resist:** electricity 10, fire 10
-
 **Will:** +2; +4 vs. poison
+
+**Dr:** 5/cold iron or evil
+
+**Immune:** acid, cold, petrification
+
+**Resist:** electricity 10, fire 10
 
 **Offense**
 

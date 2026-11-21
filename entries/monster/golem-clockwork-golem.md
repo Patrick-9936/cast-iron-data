@@ -48,21 +48,25 @@ of hundreds of gears._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/10/25
+**Armor class:** 26
 
-**Dr:** 10/adamantine
+**Touch:** 10
 
-**Fort:** +5
+**Flat-footed:** 25
+
+**AC modifiers:** +1 Dex, +16 natural, -1 size
 
 **Hit points:** 118 (16d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +1 Dex, +16 natural, -1 size
+**Fort:** +5
 
 **Ref:** +6
 
 **Will:** +5
+
+**Dr:** 10/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

@@ -51,23 +51,27 @@ a massive set of hooked jaws._
 
 **Experience points:** 102,400
 
-**Armor class:** 33/1/33
+**Armor class:** 33
 
-**Dr:** 10/-
+**Touch:** 1
 
-**Fort:** +21
+**Flat-footed:** 33
+
+**AC modifiers:** -1 Dex, +32 natural, -8 size
 
 **Hit points:** 290 (20d10+180)
 
-**Immune:** acid, fire, disease, magical control, paralysis, poison, sleep, stun
-
-**Mod:** -1 Dex, +32 natural, -8 size
+**Fort:** +21
 
 **Ref:** +13
 
-**Sr:** 28
-
 **Will:** +11
+
+**Dr:** 10/-
+
+**Immune:** acid, fire, disease, magical control, paralysis, poison, sleep, stun
+
+**Sr:** 28
 
 **Offense**
 

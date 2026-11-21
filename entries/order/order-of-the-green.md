@@ -62,22 +62,22 @@ feature of the same name.
 
 **Cut the Corruption (Su)**
 
+**Gained:** At 8th Level
+
 **Free:** An order of the Green cavalier can touch a weapon and enhance it once per day. For 1
 minute, the weapon glows with a deep-green light and deals an additional 1d6 points of damage
 against aberrations and undead. This damage does not stack with the additional damage granted by the
 [bane](ref/magic-enh/bane) weapon special ability.
 
-**At 16th Level:** He can do this twice a day.
-
-**Gained:** At 8th Level
+**At 16th level,** he can do this twice a day.
 
 **End of the Cycle (Su)**
+
+**Gained:** At 15th Level
+
+**Flavor:** Things killed by an order of the Green cavalier tends to stay dead.
 
 **Ability:** When the cavalier kills a creature, it is treated as if it were killed by a death
 effect for the purposes of magic that can restore it to life. In addition, it's placed under the
 effects of a permanent [sanctify corpse](ref/spell/sanctify-corpse) effect (using the cavalier's
 level as the spell's caster level).
-
-**Flavor:** Things killed by an order of the Green cavalier tends to stay dead.
-
-**Gained:** At 15th Level

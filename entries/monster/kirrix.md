@@ -50,19 +50,23 @@ _This sleek, weasel-like rodent has exaggerated whiskers and six short but stout
 
 **Experience points:** 800
 
-**Armor class:** 14/11/12
+**Armor class:** 14
 
-**Fort:** +7
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +3 natural, -1 size
 
 **Hit points:** 34 (4d10+12)
 
-**Immune:** disease
-
-**Mod:** +2 Dex, +3 natural, -1 size
+**Fort:** +7
 
 **Ref:** +6
 
 **Will:** +2
+
+**Immune:** disease
 
 **Offense**
 

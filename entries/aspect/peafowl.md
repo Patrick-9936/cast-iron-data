@@ -22,9 +22,9 @@ royalty or the divine.
 
 **Passive:** You gain a +2 enhancement bonus to your Charisma score.
 
-At 8th level: The bonus increases to +4.
+**At 8th level,** the bonus increases to +4.
 
-At 15th level: The bonus increases to +6.
+**At 15th level,** the bonus increases to +6.
 
 **Major Form**
 
@@ -39,9 +39,9 @@ A peafowl can perform a captivating dance targeting all creatures within a 15-fo
 creature in the cone that can see your dance must succeed at a Will save (DC = 10 + half your
 shifter level + your Charisma modifier) or be [stunned](ref/misc/stunned) for 1 round.
 
-**At 15th Level:** The duration increases to 4 rounds.
+**At 8th level,** the stunned effect lasts for 2 rounds.
 
-**At 8th Level:** The stunned effect lasts for 2 rounds.
+**At 15th level,** the duration increases to 4 rounds.
 
 **Special:** Whether or not a creature succeeds at the initial save vs your dance, a creature cannot
 be affected by it again for 24 hours.

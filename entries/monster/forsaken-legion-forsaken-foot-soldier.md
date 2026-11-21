@@ -48,21 +48,25 @@ arm._
 
 **Experience points:** 600
 
-**Armor class:** 16/10/16
+**Armor class:** 16
 
-**Dr:** 5/bludgeoning and slashing
+**Touch:** 10
 
-**Fort:** +1
+**Flat-footed:** 16
+
+**AC modifiers:** +5 armor, +1 shield
 
 **Hit points:** 18 (4d8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 armor, +1 shield
+**Fort:** +1
 
 **Ref:** +1
 
 **Will:** +5
+
+**Dr:** 5/bludgeoning and slashing
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

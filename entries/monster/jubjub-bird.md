@@ -49,25 +49,29 @@ rest of its body is bare and scaly._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/11/28
+**Armor class:** 31
+
+**Touch:** 11
+
+**Flat-footed:** 28
+
+**AC modifiers:** +2 Dex, +1 dodge, +20 natural, -2 size
+
+**Hit points:** 230 (20d10+120)
+
+**Fort:** +18
+
+**Ref:** +14
+
+**Will:** +11
 
 **Defensive abilities:** adaptive defense
 
 **Fh:** 10
 
-**Fort:** +18
-
-**Hit points:** 230 (20d10+120)
-
 **Immune:** acid
 
-**Mod:** +2 Dex, +1 dodge, +20 natural, -2 size
-
-**Ref:** +14
-
 **Sr:** 26
-
-**Will:** +11
 
 **Offense**
 

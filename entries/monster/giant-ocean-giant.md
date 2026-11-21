@@ -52,19 +52,23 @@ _This blue-skinned giant's clothing and beard whip about like sails caught in a 
 
 **Experience points:** 38,400
 
-**Armor class:** 28/8/28
+**Armor class:** 28
 
-**Fort:** +18
+**Touch:** 8
+
+**Flat-footed:** 28
+
+**AC modifiers:** +20 natural, -2 size
 
 **Hit points:** 218 (19d8+133)
 
-**Mod:** +20 natural, -2 size
+**Fort:** +18
 
 **Ref:** +8
 
-**Resist:** cold 30, electricity 30
-
 **Will:** +10
+
+**Resist:** cold 30, electricity 30
 
 **Offense**
 

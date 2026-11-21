@@ -50,25 +50,29 @@ sprout from its back._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/12/27
+**Armor class:** 30
 
-**Dr:** 10/cold iron and good
+**Touch:** 12
 
-**Fort:** +17
+**Flat-footed:** 27
+
+**AC modifiers:** +3 Dex, +18 natural, -1 size
 
 **Hit points:** 218 (19d10+114)
 
-**Immune:** electricity, fire, mind-affecting effects, poison
-
-**Mod:** +3 Dex, +18 natural, -1 size
+**Fort:** +17
 
 **Ref:** +11
+
+**Will:** +18
+
+**Dr:** 10/cold iron and good
+
+**Immune:** electricity, fire, mind-affecting effects, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 26
-
-**Will:** +18
 
 **Offense**
 

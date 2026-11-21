@@ -22,9 +22,9 @@ alternate attack is bite (B, P, S).
 
 **Passive:** You gain a +4 competence bonus on Intimidate checks.
 
-At 8th level: The bonus increases to +6.
+**At 8th level,** the bonus increases to +6.
 
-At 15th level: The bonus increases to +8.
+**At 15th level,** the bonus increases to +8.
 
 **Major Form**
 
@@ -36,15 +36,15 @@ you to attempt an [Intimidate](ref/skill/intimidate) check with a +5 circumstanc
 demoralize enemies within 30 feet. Allies gain a +1 morale bonus on attack and damage rolls against
 creatures affected by this ability.
 
-**At 15th Level:** You provide a [flanking](ref/rule/flanking) bonus to any ally who threatens the
-same opponent as you do, and you can change places with an adjacent ally as a **move action** that
-does not provoke an attack of opportunity, as if using the [Swap Places](ref/feat/swap-places) feat.
-
-**At 8th Level:** You gain one of the following teamwork feats as a bonus feat:
+**At 8th level,** you gain one of the following teamwork feats as a bonus feat:
 [Outflank](ref/feat/outflank), [Pack Attack](ref/feat/pack-attack),
 [Paired Opportunists](ref/feat/paired-opportunists), or [Shake It Off](ref/feat/shake-it-off). You
 can grant allies within 30 feet the benefits of this feat as a **swift action** for a number of
 rounds equal to 3 + your Wisdom modifier.
+
+**At 15th level,** you provide a [flanking](ref/rule/flanking) bonus to any ally who threatens the
+same opponent as you do, and you can change places with an adjacent ally as a **move action** that
+does not provoke an attack of opportunity, as if using the [Swap Places](ref/feat/swap-places) feat.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

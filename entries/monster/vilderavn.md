@@ -54,25 +54,29 @@ gauntlets fit for oversized talons._
 
 **Experience points:** 76,800
 
-**Armor class:** 34/24/26
+**Armor class:** 34
+
+**Touch:** 24
+
+**Flat-footed:** 26
+
+**AC modifiers:** +7 Dex, +2 dodge, +5 insight, +10 natural
+
+**Hit points:** 253 (22d6+176)
+
+**Fort:** +17
+
+**Ref:** +21
+
+**Will:** +18
 
 **Defensive abilities:** fate warden
 
 **Dr:** 15/cold iron and good
 
-**Fort:** +17
-
-**Hit points:** 253 (22d6+176)
-
 **Immune:** curses, death effects, energy drain, fear
 
-**Mod:** +7 Dex, +2 dodge, +5 insight, +10 natural
-
-**Ref:** +21
-
 **Sr:** 27
-
-**Will:** +18
 
 **Offense**
 

@@ -50,25 +50,29 @@ _This tiny, crudely carved statue of a robed man has glowing runes running acros
 
 **Experience points:** 600
 
-**Armor class:** 15/13/14
+**Armor class:** 15
+
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +2 natural, +2 size
+
+**Hit points:** 19 (3d10+3)
+
+**Fort:** +4
+
+**Ref:** +2
+
+**Will:** +8
 
 **Dr:** 5/cold iron
 
 **Fh:** 2
 
-**Fort:** +4
-
-**Hit points:** 19 (3d10+3)
-
 **Immune:** bleed, mind-affecting effects, petrification, polymorph
 
-**Mod:** +1 Dex, +2 natural, +2 size
-
-**Ref:** +2
-
 **Resist:** acid 10, electricity 10, fire 10
-
-**Will:** +8
 
 **Offense**
 

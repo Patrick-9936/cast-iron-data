@@ -56,23 +56,27 @@ of its eye sockets._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/2/32
+**Armor class:** 32
+
+**Touch:** 2
+
+**Flat-footed:** 32
+
+**AC modifiers:** +30 natural, -8 size
+
+**Hit points:** 262 (25d8+150)
+
+**Fort:** +14
+
+**Ref:** +10
+
+**Will:** +14
 
 **Chan Res:** +4
 
 **Dr:** 15/bludgeoning
 
-**Fort:** +14
-
-**Hit points:** 262 (25d8+150)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +30 natural, -8 size
-
-**Ref:** +10
-
-**Will:** +14
 
 **Offense**
 

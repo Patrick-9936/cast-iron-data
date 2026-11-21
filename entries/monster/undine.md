@@ -54,19 +54,23 @@ and feet are webbed._
 
 **Experience points:** 200
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Fort:** +1
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 armor, +2 Dex
 
 **Hit points:** 8 (1d8)
 
-**Mod:** +5 armor, +2 Dex
+**Fort:** +1
 
 **Ref:** +3
 
-**Resist:** cold 5
-
 **Will:** +5
+
+**Resist:** cold 5
 
 **Offense**
 

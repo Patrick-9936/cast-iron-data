@@ -53,13 +53,17 @@ _This muscular, wolf-headed humanoid is covered in brown and gray fur._
 
 **Experience points:** 200
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 armor, +2 Dex
 
 **Hit points:** 12 (1d10+2)
 
-**Mod:** +2 armor, +2 Dex
+**Fort:** +3
 
 **Ref:** +4
 

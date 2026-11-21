@@ -51,13 +51,17 @@ from under its rib cage._
 
 **Experience points:** 600
 
-**Armor class:** 10/8/9
+**Armor class:** 10
 
-**Fort:** +6
+**Touch:** 8
+
+**Flat-footed:** 9
+
+**AC modifiers:** +2 armor, +1 Dex, -2 rage, -1 size
 
 **Hit points:** 17 (1d12+5)
 
-**Mod:** +2 armor, +1 Dex, -2 rage, -1 size
+**Fort:** +6
 
 **Ref:** +1
 

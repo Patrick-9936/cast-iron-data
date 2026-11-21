@@ -54,23 +54,27 @@ writhes with unholy life._
 
 **Experience points:** 800
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Chan Res:** +2
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 12
+
+**AC modifiers:** +2 deflection, +2 Dex, +1 dodge
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +2 deflection, +2 Dex, +1 dodge
+**Fort:** +3
 
 **Ref:** +3
 
 **Will:** +4
+
+**Chan Res:** +2
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

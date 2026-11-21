@@ -57,25 +57,29 @@ _Green smoke billows from the bared teeth and flared nostrils of this muscular, 
 
 **Experience points:** 9,600
 
-**Armor class:** 24/17/20
+**Armor class:** 24
+
+**Touch:** 17
+
+**Flat-footed:** 20
+
+**AC modifiers:** +3 deflection, +4 Dex, +7 natural
+
+**Hit points:** 133 (14d6+84)
+
+**Fort:** +12
+
+**Ref:** +13
+
+**Will:** +14
 
 **Defensive abilities:** instinctive cooperation, wild grace
 
 **Dr:** 10/cold iron
 
-**Fort:** +12
-
-**Hit points:** 133 (14d6+84)
-
 **Immune:** cold
 
-**Mod:** +3 deflection, +4 Dex, +7 natural
-
-**Ref:** +13
-
 **Resist:** electricity 10, fire 10
-
-**Will:** +14
 
 **Offense**
 

@@ -54,23 +54,27 @@ spidery legs._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/19
+**Armor class:** 23
 
-**Dr:** 10/slashing or piercing
+**Touch:** 13
 
-**Fort:** +9
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +10 natural, -1 size
 
 **Hit points:** 115 (11d8+66)
 
-**Immune:** cold, fear, mind-affecting effects
-
-**Mod:** +4 Dex, +10 natural, -1 size
+**Fort:** +9
 
 **Ref:** +9
 
-**Sr:** 20
-
 **Will:** +12
+
+**Dr:** 10/slashing or piercing
+
+**Immune:** cold, fear, mind-affecting effects
+
+**Sr:** 20
 
 **Offense**
 

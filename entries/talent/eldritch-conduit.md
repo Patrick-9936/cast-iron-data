@@ -18,8 +18,8 @@ group = "rogue-talent"
 locating sufficient magical equipment, which sometimes involves stealing power from a wand or scroll
 to power a more necessary one.
 
-**Fullround:** A rogue with this talent can use two potions, two wands, or two scrolls. Each item is
-expended or loses a charge as if used normally. The rogue chooses to gain the magical effect of one,
-but calculates its effects using the caster level of the other. The rogue must still succeed at a
-[Use Magic Device](ref/skill/use-magic-device) check to operate scrolls or wands unless some other
+**Full-round:** A rogue with this talent can use two potions, two wands, or two scrolls. Each item
+is expended or loses a charge as if used normally. The rogue chooses to gain the magical effect of
+one, but calculates its effects using the caster level of the other. The rogue must still succeed at
+a [Use Magic Device](ref/skill/use-magic-device) check to operate scrolls or wands unless some other
 ability allows him to do so, but makes only one skill check to operate both items.

@@ -46,19 +46,23 @@ _A wide rack of ivory-white antlers crowns the head of this majestic tawny stag.
 
 **Experience points:** 800
 
-**Armor class:** 15/14/11
+**Armor class:** 15
 
-**Defensive abilities:** wary reaction
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 natural
 
 **Hit points:** 38 (4d8+20)
 
-**Mod:** +4 Dex, +1 natural
+**Fort:** +9
 
 **Ref:** +8
 
 **Will:** +3
+
+**Defensive abilities:** wary reaction
 
 **Offense**
 

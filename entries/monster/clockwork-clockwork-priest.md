@@ -52,21 +52,25 @@ into its chest._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/18/17
+**Armor class:** 25
 
-**Fort:** +6
+**Touch:** 18
+
+**Flat-footed:** 17
+
+**AC modifiers:** +6 Dex, +2 dodge, +7 natural
 
 **Hit points:** 119 (18d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +6 Dex, +2 dodge, +7 natural
+**Fort:** +6
 
 **Ref:** +14
 
-**Vulner:** electricity
-
 **Will:** +10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

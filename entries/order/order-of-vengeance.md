@@ -52,21 +52,26 @@ level.
 [Intimidate](ref/skill/intimidate), the cavalier gains a bonus on her Intimidate check equal to
 [half](ref/misc/fractions-and-rounding) her cavalier level.
 
-At 8th level: The penalties a cavalier's target takes for being demoralized increase by 1.
+**At 8th level,** the penalties a cavalier's target takes for being demoralized increase by 1.
 
-At 14th level: The penalties a cavalier's target takes for being demoralized increase by 2.
+**At 14th level,** the penalties a cavalier's target takes for being demoralized increase by 2.
 
-At 20th level: The penalties a cavalier's target takes for being demoralized increase by 3.
+**At 20th level,** the penalties a cavalier's target takes for being demoralized increase by 3.
 
 **Eye for an Eye (Ex)**
+
+**Gained:** At 8th Level
 
 **Ability:** The cavalier gains [Critical Focus](ref/feat/critical-focus) as a bonus feat. The
 cavalier can grant a critical feat (in place of a teamwork feat) to her allies using the _tactician_
 ability.
 
-**Gained:** At 8th Level
-
 **Retribution (Ex)**
+
+**Gained:** At 15th Level
+
+**Flavor:** This is the same as the [order of the star](ref/order/order-of-the-star) ability of the
+same name: The cavalier can take retribution on those who dare to strike an agent of his faith.
 
 **Ability:** Whenever an enemy makes a successful melee attack against the cavalier or an adjacent
 ally devoted to the same faith as the cavalier, the enemy provokes an attack of opportunity from the
@@ -76,8 +81,3 @@ If the attack made by the enemy was a critical hit, the cavalier may treat the e
 of his _challenge_ for the attack of opportunity.
 
 The cavalier can use this ability once per round.
-
-**Flavor:** This is the same as the [order of the star](ref/order/order-of-the-star) ability of the
-same name: The cavalier can take retribution on those who dare to strike an agent of his faith.
-
-**Gained:** At 15th Level

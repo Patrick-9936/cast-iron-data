@@ -50,23 +50,27 @@ _This elderly figure looks out with heavy-lidded eyes, and seems lost in its own
 
 **Experience points:** 76,800
 
-**Armor class:** 31/31/24
+**Armor class:** 31
 
-**Fort:** +13
+**Touch:** 31
+
+**Flat-footed:** 24
+
+**AC modifiers:** +6 Dex, +4 deflection, +1 dodge, +10 soul armor
 
 **Hit points:** 237 (19d10+133)
 
-**Immune:** calling, disease, poison
-
-**Mod:** +6 Dex, +4 deflection, +1 dodge, +10 soul armor
+**Fort:** +13
 
 **Ref:** +17
+
+**Will:** +17; +4 vs. dismissal, +2 vs. enchantment
+
+**Immune:** calling, disease, poison
 
 **Resist:** adaptive 10
 
 **Sr:** 27
-
-**Will:** +17; +4 vs. dismissal, +2 vs. enchantment
 
 **Offense**
 

@@ -51,13 +51,17 @@ _Clothed in loose robes and wearing jewelry, this one-eyed giant appears to hold
 
 **Experience points:** 3,200
 
-**Armor class:** 21/14/20
+**Armor class:** 21
 
-**Fort:** +11
+**Touch:** 14
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +4 insight, +7 natural, -1 size
 
 **Hit points:** 91 (14d8+28)
 
-**Mod:** +1 Dex, +4 insight, +7 natural, -1 size
+**Fort:** +11
 
 **Ref:** +5
 

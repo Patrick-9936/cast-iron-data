@@ -48,21 +48,25 @@ _This brightly colored, star-shaped creature has many spines growing from its fi
 
 **Experience points:** 65
 
-**Armor class:** 15/13/14
+**Armor class:** 15
 
-**Defensive abilities:** rapid healing
+**Touch:** 13
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +2 natural, +2 size
 
 **Hit points:** 6 (1d8+2)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +2 natural, +2 size
+**Fort:** +4
 
 **Ref:** +1
 
 **Will:** +0
+
+**Defensive abilities:** rapid healing
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

@@ -55,19 +55,23 @@ bulbous eyes._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/10/22
+**Armor class:** 24
 
-**Fort:** +13
+**Touch:** 10
+
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +14 natural, -2 size
 
 **Hit points:** 136 (13d10+65)
 
-**Mod:** +2 Dex, +14 natural, -2 size
+**Fort:** +13
 
 **Ref:** +10
 
-**Regen:** 5 (acid, cold, or fire)
-
 **Will:** +8
+
+**Regen:** 5 (acid, cold, or fire)
 
 **Offense**
 

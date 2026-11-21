@@ -53,13 +53,17 @@ against the leather of his armor._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/10/21
+**Armor class:** 24
 
-**Fort:** +15
+**Touch:** 10
+
+**Flat-footed:** 21
+
+**AC modifiers:** +5 armor, +3 Dex, +9 natural, -2 rage, -1 size
 
 **Hit points:** 171 (10d10+1d12+110\~11)
 
-**Mod:** +5 armor, +3 Dex, +9 natural, -2 rage, -1 size
+**Fort:** +15
 
 **Ref:** +11
 

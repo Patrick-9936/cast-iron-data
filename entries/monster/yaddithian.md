@@ -52,19 +52,23 @@ vaguely humanoid shape._
 
 **Experience points:** 4,800
 
-**Armor class:** 15/13/13
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 deflection, +2 Dex, +2 natural
 
 **Hit points:** 61 (9d6+27)
 
-**Mod:** +1 deflection, +2 Dex, +2 natural
+**Fort:** +5
 
 **Ref:** +5
 
-**Resist:** cold 5
-
 **Will:** +5
+
+**Resist:** cold 5
 
 **Offense**
 

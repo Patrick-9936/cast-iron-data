@@ -47,13 +47,17 @@ _Yellowed, venom-dripping fangs fill the human-like mouth of this sinister serpe
 
 **Experience points:** 6,400
 
-**Armor class:** 23/14/18
+**Armor class:** 23
 
-**Fort:** +8
+**Touch:** 14
+
+**Flat-footed:** 18
+
+**AC modifiers:** +5 Dex, +9 natural, -1 size
 
 **Hit points:** 95 (10d8+50)
 
-**Mod:** +5 Dex, +9 natural, -1 size
+**Fort:** +8
 
 **Ref:** +10
 

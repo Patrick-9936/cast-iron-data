@@ -53,13 +53,17 @@ ungainly head._
 
 **Experience points:** 135
 
-**Armor class:** 16/13/14
+**Armor class:** 16
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 armor, +2 Dex, +1 shield, +1 size
 
 **Hit points:** 6 (1d10+1)
 
-**Mod:** +2 armor, +2 Dex, +1 shield, +1 size
+**Fort:** +3
 
 **Ref:** +2
 

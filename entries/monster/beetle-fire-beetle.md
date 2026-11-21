@@ -48,19 +48,23 @@ its carapace._
 
 **Experience points:** 135
 
-**Armor class:** 12/11/12
+**Armor class:** 12
 
-**Fort:** +2
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 natural, +1 size
 
 **Hit points:** 4 (1d8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 natural, +1 size
+**Fort:** +2
 
 **Ref:** +0
 
 **Will:** +0
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

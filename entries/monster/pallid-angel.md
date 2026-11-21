@@ -54,27 +54,31 @@ soaked and splattered with blood, wine, and other fluids._
 
 **Experience points:** 19,200
 
-**Armor class:** 25/13/22
+**Armor class:** 25
+
+**Touch:** 13
+
+**Flat-footed:** 22
+
+**AC modifiers:** +3 Dex, +12 natural
+
+**Hit points:** 150 (12d10+84)
+
+**Fort:** +15
+
+**Ref:** +7
+
+**Will:** +11; +4 vs. poison
 
 **Defensive abilities:** profane ward
 
 **Dr:** 10/adamantine or good
 
-**Fort:** +15
-
-**Hit points:** 150 (12d10+84)
-
 **Immune:** acid, cold, death effects, disease, energy drain, mind-affecting effects, petrification
-
-**Mod:** +3 Dex, +12 natural
-
-**Ref:** +7
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 23
-
-**Will:** +11; +4 vs. poison
 
 **Offense**
 

@@ -52,23 +52,27 @@ flesh together._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/8/23
+**Armor class:** 23
+
+**Touch:** 8
+
+**Flat-footed:** 23
+
+**AC modifiers:** -1 Dex, +15 natural, -1 size
+
+**Hit points:** 145 (10d10+90)
+
+**Fort:** +3
+
+**Ref:** +2
+
+**Will:** +3
 
 **Dr:** 5/adamantine and epic
 
 **Fh:** 5
 
-**Fort:** +3
-
-**Hit points:** 145 (10d10+90)
-
 **Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +15 natural, -1 size
-
-**Ref:** +2
-
-**Will:** +3
 
 **Offense**
 

@@ -50,19 +50,23 @@ _The size of a human child, this shimmering spider has a blue-and-purple-striped
 
 **Experience points:** 200
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +2
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

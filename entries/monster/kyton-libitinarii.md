@@ -51,27 +51,31 @@ lengths of razor-sharp, bloodstained icicles._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/17/21
+**Armor class:** 28
+
+**Touch:** 17
+
+**Flat-footed:** 21
+
+**AC modifiers:** +7 Dex, +11 natural
+
+**Hit points:** 184 (16d10+96)
+
+**Fort:** +16
+
+**Ref:** +17
+
+**Will:** +13
 
 **Defensive abilities:** icy fiend
 
 **Dr:** 10/good or silver
 
-**Fort:** +16
-
-**Hit points:** 184 (16d10+96)
-
 **Immune:** cold
-
-**Mod:** +7 Dex, +11 natural
-
-**Ref:** +17
 
 **Regen:** 5 (good weapons and spells, silver weapons)
 
 **Sr:** 24
-
-**Will:** +13
 
 **Offense**
 

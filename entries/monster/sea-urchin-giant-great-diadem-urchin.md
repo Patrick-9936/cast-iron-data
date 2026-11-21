@@ -53,23 +53,27 @@ large golden sea urchin._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/6/20
+**Armor class:** 20
 
-**Defensive abilities:** stability
+**Touch:** 6
 
-**Fort:** +10
+**Flat-footed:** 20
+
+**AC modifiers:** -4 Dex, +14 natural
 
 **Hit points:** 57 (6d8+30)
 
-**Immune:** mind-affecting effects
-
-**Mod:** -4 Dex, +14 natural
+**Fort:** +10
 
 **Ref:** -2
 
-**Regen:** 3 (fire, acid)
-
 **Will:** +3
+
+**Defensive abilities:** stability
+
+**Immune:** mind-affecting effects
+
+**Regen:** 3 (fire, acid)
 
 **Offense**
 

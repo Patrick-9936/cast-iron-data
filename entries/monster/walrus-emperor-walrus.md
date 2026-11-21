@@ -48,13 +48,17 @@ from its whiskered face._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/5/20
+**Armor class:** 20
 
-**Fort:** +14
+**Touch:** 5
+
+**Flat-footed:** 20
+
+**AC modifiers:** -1 Dex, +15 natural, -4 size
 
 **Hit points:** 126 (12d8+72)
 
-**Mod:** -1 Dex, +15 natural, -4 size
+**Fort:** +14
 
 **Ref:** +7
 

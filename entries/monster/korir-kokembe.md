@@ -50,19 +50,23 @@ bulges in its throat._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/10/22
+**Armor class:** 24
 
-**Fort:** +12
+**Touch:** 10
+
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +14 natural, -2 size
 
 **Hit points:** 136 (13d12+52)
 
-**Immune:** disease, dragon traits, magic paralysis and sleep
-
-**Mod:** +2 Dex, +14 natural, -2 size
+**Fort:** +12
 
 **Ref:** +12
 
 **Will:** +10
+
+**Immune:** disease, dragon traits, magic paralysis and sleep
 
 **Offense**
 

@@ -51,21 +51,25 @@ beautiful black-haired woman._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/15/22
+**Armor class:** 27
 
-**Dr:** 10/cold iron and magic
+**Touch:** 15
 
-**Fort:** +10
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +1 dodge, +12 natural
 
 **Hit points:** 161 (14d10+84)
 
-**Immune:** poison
-
-**Mod:** +4 Dex, +1 dodge, +12 natural
+**Fort:** +10
 
 **Ref:** +13
 
 **Will:** +14
+
+**Dr:** 10/cold iron and magic
+
+**Immune:** poison
 
 **Offense**
 

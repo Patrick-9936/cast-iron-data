@@ -51,19 +51,23 @@ _This graceful creature combines the features of a human and a river dolphin._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/20/16
+**Armor class:** 21
 
-**Dr:** 10/cold iron
+**Touch:** 20
 
-**Fort:** +13
+**Flat-footed:** 16
+
+**AC modifiers:** +5 deflection, +5 Dex, +1 natural
 
 **Hit points:** 95 (10d6+60)
 
-**Mod:** +5 deflection, +5 Dex, +1 natural
+**Fort:** +13
 
 **Ref:** +17
 
 **Will:** +16
+
+**Dr:** 10/cold iron
 
 **Offense**
 

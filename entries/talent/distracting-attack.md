@@ -14,13 +14,13 @@ group = "rogue-talent"
 
 **Distracting Attack (Ex)**
 
+**Flavor:** A rogue with this talent can make sneak attacks with subtle flourishes that disorient
+and distract her enemy.
+
 **Ability:** When she hits a creature with a melee attack that deals sneak attack damage, she can
 forgo the additional damage to cause the creature to become [flat-footed](ref/rule/flat-footed)
 against one target of her choosing until the beginning of her next turn. The rogue cannot designate
 herself as the creature gaining the benefit of this talent.
-
-**Flavor:** A rogue with this talent can make sneak attacks with subtle flourishes that disorient
-and distract her enemy.
 
 **Special:** Creatures with [uncanny dodge](ref/ability/uncanny-dodge) are immune to distracting
 attack.

@@ -14,10 +14,10 @@ group = "ki-power"
 
 **Breaking-Down Koan (Su)**
 
-**Prereq:** 8th-level monk
-
-**Special:** This is a mind-affecting, language-dependent effect.
-
 **Swift:** A monk with this ability can spend 1 ki point to present a paradox, riddle, or
 complicated question to a creature within 30 feet. The creature must succeed at a Will save (DC =
 10 + 1/2 the monk's level + his Wisdom modifier) or be [confused](ref/misc/confused) for 1 round.
+
+**Prereq:** 8th-level monk
+
+**Special:** This is a mind-affecting, language-dependent effect.

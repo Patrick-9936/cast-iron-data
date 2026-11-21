@@ -48,23 +48,27 @@ _This jungle cat has a dark coat of striped fur, glossy black teeth and claws, a
 
 **Experience points:** 3,200
 
-**Armor class:** 20/13/16
+**Armor class:** 20
 
-**Dr:** 10/magic
+**Touch:** 13
 
-**Fort:** +10
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +7 natural, -1 size
 
 **Hit points:** 85 (9d10+36)
 
-**Immune:** disease, poison
-
-**Mod:** +4 Dex, +7 natural, -1 size
+**Fort:** +10
 
 **Ref:** +10
 
-**Weaknesses:** sunlight powerlessness (affected by daylight)
-
 **Will:** +6
+
+**Dr:** 10/magic
+
+**Immune:** disease, poison
+
+**Weaknesses:** sunlight powerlessness (affected by daylight)
 
 **Offense**
 

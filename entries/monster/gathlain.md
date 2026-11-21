@@ -49,13 +49,17 @@ _Wings composed of wood and vines grow out of the body of this lithesome fey._
 
 **Experience points:** 200
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Fort:** +0
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +2 natural, +1 size
 
 **Hit points:** 7 (1d6+1)
 
-**Mod:** +3 Dex, +1 dodge, +2 natural, +1 size
+**Fort:** +0
 
 **Ref:** +3
 

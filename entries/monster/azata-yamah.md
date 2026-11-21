@@ -55,23 +55,27 @@ sky._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/15/14
+**Armor class:** 19
 
-**Dr:** 5/cold iron or evil
+**Touch:** 15
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +4 natural
 
 **Hit points:** 52 (7d10+14)
 
-**Immune:** electricity, petrification
-
-**Mod:** +5 Dex, +4 natural
+**Fort:** +4
 
 **Ref:** +10
 
-**Resist:** cold 10, fire 10
-
 **Will:** +7
+
+**Dr:** 5/cold iron or evil
+
+**Immune:** electricity, petrification
+
+**Resist:** cold 10, fire 10
 
 **Offense**
 

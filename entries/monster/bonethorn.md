@@ -50,23 +50,27 @@ the fungus has formed thorny growths._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/17/20
+**Armor class:** 27
+
+**Touch:** 17
+
+**Flat-footed:** 20
+
+**AC modifiers:** +6 Dex, +1 dodge, +10 natural
+
+**Hit points:** 150 (20d8+60)
+
+**Fort:** +15
+
+**Ref:** +14
+
+**Will:** +11
 
 **Defensive abilities:** positive energy absorption
 
 **Dr:** 10/bludgeoning
 
-**Fort:** +15
-
-**Hit points:** 150 (20d8+60)
-
 **Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +6 Dex, +1 dodge, +10 natural
-
-**Ref:** +14
-
-**Will:** +11
 
 **Offense**
 

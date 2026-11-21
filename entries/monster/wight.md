@@ -52,21 +52,25 @@ sockets glowing with red light._
 
 **Experience points:** 800
 
-**Armor class:** 15/11/14
+**Armor class:** 15
 
-**Fort:** +3
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 natural
 
 **Hit points:** 26 (4d8+8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +4 natural
+**Fort:** +3
 
 **Ref:** +2
 
-**Weaknesses:** resurrection vulnerability
-
 **Will:** +5
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Weaknesses:** resurrection vulnerability
 
 **Offense**
 

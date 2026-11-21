@@ -53,25 +53,29 @@ of pale blue mist._
 
 **Experience points:** 12,800
 
-**Armor class:** 24/24/14
+**Armor class:** 24
 
-**Defensive abilities:** swarm traits
+**Touch:** 24
 
-**Fort:** +12
+**Flat-footed:** 14
+
+**AC modifiers:** +10 Dex, +4 size
 
 **Hit points:** 149 (13d10+78)
 
-**Immune:** death effects, disease, poison, weapon damage
-
-**Mod:** +10 Dex, +4 size
+**Fort:** +12
 
 **Ref:** +20
+
+**Will:** +16
+
+**Defensive abilities:** swarm traits
+
+**Immune:** death effects, disease, poison, weapon damage
 
 **Resist:** acid 10, cold 10, electricity 10, fire 10, sonic 10
 
 **Sr:** 22
-
-**Will:** +16
 
 **Offense**
 

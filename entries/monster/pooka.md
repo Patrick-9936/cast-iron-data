@@ -49,23 +49,27 @@ grin gleams on her face._
 
 **Experience points:** 600
 
-**Armor class:** 16/15/13
+**Armor class:** 16
+
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 natural, +2 size
+
+**Hit points:** 18 (4d6+4)
+
+**Fort:** +2
+
+**Ref:** +7
+
+**Will:** +5
 
 **Dr:** 5/cold iron or silver
 
 **Fh:** 2
 
-**Fort:** +2
-
-**Hit points:** 18 (4d6+4)
-
-**Mod:** +3 Dex, +1 natural, +2 size
-
-**Ref:** +7
-
 **Sr:** 13
-
-**Will:** +5
 
 **Offense**
 

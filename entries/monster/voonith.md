@@ -52,13 +52,17 @@ running down its spine._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/14/14
+**Armor class:** 17
 
-**Fort:** +6
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +3 natural, +1 size
 
 **Hit points:** 37 (5d10+10)
 
-**Mod:** +3 Dex, +3 natural, +1 size
+**Fort:** +6
 
 **Ref:** +7
 

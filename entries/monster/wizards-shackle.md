@@ -53,23 +53,27 @@ _This eel-like creature has a thick, greasy body and a large, circular mouth ful
 
 **Experience points:** 200
 
-**Armor class:** 12/12/12
+**Armor class:** 12
 
-**Defensive abilities:** host buffer
+**Touch:** 12
 
-**Fort:** +0
+**Flat-footed:** 12
+
+**AC modifiers:** +2 size
 
 **Hit points:** 9 (2d8)
 
-**Immune:** disease, mind-affecting effects, poison
-
-**Mod:** +2 size
+**Fort:** +0
 
 **Ref:** +0
 
-**Sr:** 11
-
 **Will:** +4
+
+**Defensive abilities:** host buffer
+
+**Immune:** disease, mind-affecting effects, poison
+
+**Sr:** 11
 
 **Offense**
 

@@ -50,19 +50,23 @@ gracefully curled tail._
 
 **Experience points:** 800
 
-**Armor class:** 15/11/13
+**Armor class:** 15
 
-**Defensive abilities:** anchor
+**Touch:** 11
 
-**Fort:** +7
+**Flat-footed:** 13
+
+**AC modifiers:** +4 armor, +2 Dex, -1 size
 
 **Hit points:** 30 (4d8+12)
 
-**Mod:** +4 armor, +2 Dex, -1 size
+**Fort:** +7
 
 **Ref:** +6
 
 **Will:** +2
+
+**Defensive abilities:** anchor
 
 **Offense**
 

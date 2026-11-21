@@ -52,25 +52,29 @@ and smoldering ash._
 
 **Experience points:** 9,600
 
-**Armor class:** 17/15/13
+**Armor class:** 17
+
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +2 natural, +1 size
+
+**Hit points:** 150 (15d8+75)
+
+**Fort:** +9
+
+**Ref:** +12
+
+**Will:** +11
 
 **Chan Res:** +4
 
 **Defensive abilities:** final embrace
 
-**Fort:** +9
-
-**Hit points:** 150 (15d8+75)
-
 **Immune:** fire, [undead traits](ref/umr/undead-traits)
 
-**Mod:** +3 Dex, +1 dodge, +2 natural, +1 size
-
-**Ref:** +12
-
 **Vulner:** cold
-
-**Will:** +11
 
 **Offense**
 

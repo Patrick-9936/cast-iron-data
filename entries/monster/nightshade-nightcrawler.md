@@ -53,25 +53,29 @@ a cave._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/6/33
+**Armor class:** 33
 
-**Dr:** 15/good and silver
+**Touch:** 6
 
-**Fort:** +16
+**Flat-footed:** 33
+
+**AC modifiers:** +27 natural, -4 size
 
 **Hit points:** 312 (25d8+200)
 
-**Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +27 natural, -4 size
+**Fort:** +16
 
 **Ref:** +10
+
+**Will:** +23
+
+**Dr:** 15/good and silver
+
+**Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Sr:** 29
 
 **Weaknesses:** light aversion
-
-**Will:** +23
 
 **Offense**
 

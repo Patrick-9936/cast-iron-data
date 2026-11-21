@@ -47,21 +47,25 @@ with a sinister expression._
 
 **Experience points:** 600
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Dr:** 5/cold iron
+**Touch:** 12
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +3 natural
 
 **Hit points:** 18 (4d6+4)
 
-**Mod:** +2 Dex, +3 natural
+**Fort:** +2
 
 **Ref:** +6
 
-**Weaknesses:** remorse
-
 **Will:** +5
+
+**Dr:** 5/cold iron
+
+**Weaknesses:** remorse
 
 **Offense**
 

@@ -51,21 +51,25 @@ venom drips from its mandibles._
 
 **Experience points:** 2,400
 
-**Armor class:** 21/10/20
+**Armor class:** 21
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +11 natural, -1 size
 
 **Hit points:** 76 (8d10+32)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +11 natural, -1 size
+**Fort:** +10
 
 **Ref:** +7
 
-**Sr:** 17
-
 **Will:** +2
+
+**Immune:** mind-affecting effects
+
+**Sr:** 17
 
 **Offense**
 

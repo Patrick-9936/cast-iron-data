@@ -51,25 +51,29 @@ large shield-like sheet of metal._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/14/18
+**Armor class:** 22
+
+**Touch:** 14
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +2 dodge, +6 natural, +2 shield
+
+**Hit points:** 85 (10d10+30)
+
+**Fort:** +3
+
+**Ref:** +7
+
+**Will:** +3
 
 **Defensive abilities:** barrier
 
 **Dr:** 5/adamantine
 
-**Fort:** +3
-
-**Hit points:** 85 (10d10+30)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
 
-**Mod:** +2 Dex, +2 dodge, +6 natural, +2 shield
-
-**Ref:** +7
-
 **Vulner:** electricity
-
-**Will:** +3
 
 **Offense**
 

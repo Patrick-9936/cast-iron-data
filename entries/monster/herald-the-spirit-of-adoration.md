@@ -54,27 +54,31 @@ trails brilliant colors._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/20/25
+**Armor class:** 30
+
+**Touch:** 20
+
+**Flat-footed:** 25
+
+**AC modifiers:** +6 deflection, +4 Dex, +1 dodge, +10 natural, -1 size
+
+**Hit points:** 184 (16d10+96)
+
+**Fort:** +17
+
+**Ref:** +20
+
+**Will:** +24
 
 **Dr:** 10/evil
 
 **Fh:** 5
 
-**Fort:** +17
-
-**Hit points:** 184 (16d10+96)
-
 **Immune:** fire, sonic
-
-**Mod:** +6 deflection, +4 Dex, +1 dodge, +10 natural, -1 size
-
-**Ref:** +20
 
 **Resist:** acid 30, electricity 30
 
 **Sr:** 26
-
-**Will:** +24
 
 **Offense**
 

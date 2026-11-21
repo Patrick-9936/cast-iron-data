@@ -46,21 +46,25 @@ _This undead soldier carries a heavy-looking pickaxe in one hand and a short swo
 
 **Experience points:** 1,200
 
-**Armor class:** 16/12/14
+**Armor class:** 16
 
-**Dr:** 5/slashing
+**Touch:** 12
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +4 armor, +2 Dex
 
 **Hit points:** 31 (7d8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 armor, +2 Dex
+**Fort:** +2
 
 **Ref:** +6
 
 **Will:** +7
+
+**Dr:** 5/slashing
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

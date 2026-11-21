@@ -52,27 +52,31 @@ maw for a belly._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/13/23
+**Armor class:** 27
 
-**Dr:** 10/lawful
+**Touch:** 13
 
-**Fort:** +15
+**Flat-footed:** 23
+
+**AC modifiers:** +4 Dex, +14 natural, -1 size
 
 **Hit points:** 150 (12d10+84)
 
-**Immune:** cold, poison, mind-affecting effects
-
-**Mod:** +4 Dex, +14 natural, -1 size
+**Fort:** +15
 
 **Ref:** +10
+
+**Will:** +11
+
+**Dr:** 10/lawful
+
+**Immune:** cold, poison, mind-affecting effects
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 23
 
 **Weaknesses:** light vulnerability
-
-**Will:** +11
 
 **Offense**
 

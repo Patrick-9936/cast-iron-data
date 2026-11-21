@@ -48,19 +48,23 @@ large, serrated, bright red fangs._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/13/20
+**Armor class:** 25
 
-**Fort:** +15
+**Touch:** 13
+
+**Flat-footed:** 20
+
+**AC modifiers:** +5 Dex, +12 natural, -2 size
 
 **Hit points:** 149 (13d8+91)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +5 Dex, +12 natural, -2 size
+**Fort:** +15
 
 **Ref:** +9
 
 **Will:** +4
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

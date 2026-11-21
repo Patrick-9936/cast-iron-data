@@ -58,25 +58,29 @@ gently swaying vines._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/21/28
+**Armor class:** 36
 
-**Dr:** 15/cold iron and evil
+**Touch:** 21
 
-**Fort:** +28
+**Flat-footed:** 28
+
+**AC modifiers:** +4 deflection, +8 Dex, +15 natural, -1 size
 
 **Hit points:** 372 (24d10+240)
 
-**Immune:** electricity, petrification
-
-**Mod:** +4 deflection, +8 Dex, +15 natural, -1 size
+**Fort:** +28
 
 **Ref:** +20
+
+**Will:** +26
+
+**Dr:** 15/cold iron and evil
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 31
-
-**Will:** +26
 
 **Offense**
 

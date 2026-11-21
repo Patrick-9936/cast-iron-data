@@ -54,27 +54,31 @@ _A hideous, pale, worm-like head pushes violently up and out of a corpulent man'
 
 **Experience points:** 800
 
-**Armor class:** 15/9/15
+**Armor class:** 15
+
+**Touch:** 9
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 armor, -1 Dex, +3 natural
+
+**Hit points:** 30 (4d10+8)
+
+**Fort:** +8
+
+**Ref:** +0
+
+**Will:** +5
 
 **Defensive abilities:** abandon flesh, flesh armor, negative energy affinity
 
 **Dr:** 5/cold iron or good
 
-**Fort:** +8
-
-**Hit points:** 30 (4d10+8)
-
 **Immune:** electricity, poison
-
-**Mod:** +3 armor, -1 Dex, +3 natural
-
-**Ref:** +0
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 14
-
-**Will:** +5
 
 **Offense**
 

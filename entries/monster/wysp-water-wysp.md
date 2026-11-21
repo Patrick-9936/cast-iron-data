@@ -53,19 +53,23 @@ _This sphere of elemental matter emits a strange hum that resonates with element
 
 **Experience points:** 600
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 22 (3d10+6)
 
-**Immune:** elemental traits
-
-**Mod:** +1 Dex, +2 size
+**Fort:** +5
 
 **Ref:** +4
 
 **Will:** +2
+
+**Immune:** elemental traits
 
 **Offense**
 

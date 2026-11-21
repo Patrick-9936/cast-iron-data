@@ -14,18 +14,18 @@ group = "oracle-curse"
 
 **Putrid**
 
-**Benefit:** None.
-
 **Flavor:** Your presence causes liquids to spoil.
 
-**At 10th Level:** Your body is covered in noxious slime, and each creature adjacent to you at the
+**Benefit:** None.
+
+**At 5th level,** you become immune to the nauseated effects created by liquids your presence has
+befouled.
+
+**At 10th level,** your body is covered in noxious slime, and each creature adjacent to you at the
 beginning of its turn must succeed at a Fortitude save (DC = 10 + half your oracle level + your
 Charisma modifier) or become [sickened](ref/misc/sickened) for 1 round.
 
-**At 15th Level:** Your slime coating grants you DR 10/-.
-
-**At 5th Level:** You become immune to the nauseated effects created by liquids your presence has
-befouled.
+**At 15th level,** your slime coating grants you DR 10/-.
 
 **Penalty:** Your presence stagnates water and befouls all liquids carried on your person, including
 magical items such as potions, and unattended sources of still water within 10 feet. Creatures who

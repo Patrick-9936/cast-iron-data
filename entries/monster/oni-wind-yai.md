@@ -52,23 +52,27 @@ darkness of a starry night that swirls continuously about her._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/11/28
+**Armor class:** 31
 
-**Fort:** +20
+**Touch:** 11
+
+**Flat-footed:** 28
+
+**AC modifiers:** +4 armor, +3 Dex, +16 natural, -2 size
 
 **Hit points:** 230 (20d10+120)
 
-**Mod:** +4 armor, +3 Dex, +16 natural, -2 size
+**Fort:** +20
 
 **Ref:** +9
+
+**Will:** +17
 
 **Regen:** 5 (acid or fire)
 
 **Resist:** sonic 5
 
 **Sr:** 27
-
-**Will:** +17
 
 **Offense**
 

@@ -82,10 +82,13 @@ tell whether a subject is unconscious. If a subject dies or moves to a different
 your bond with that creature is severed. The distance between you and the subjects doesn't affect
 the bond as long as you're on the same plane of existence.
 
-**At 4th Level:** The bond also gives you the benefits of the [status](ref/spell/status) spell with
+**At 4th level,** the bond also gives you the benefits of the [status](ref/spell/status) spell with
 all subjects of the emotional bond.
 
 **Emotional Push (Su)**
+
+**Flavor:** You can draw upon the intense power of your own emotions in desperate situations, and
+your allies can call upon you through your emotional link to protect themselves.
 
 **Ability:** When you or a subject of your _emotional bond_ must attempt a saving throw, the person
 attempting the save can gain a bonus equal to your Charisma bonus on the save as an **immediate
@@ -94,9 +97,6 @@ action**.
 Allies using this ability don't need your permission, since the emotional connection is so direct,
 though you know when one of the uses has been expended. If the ally's saving throw is successful,
 you regain 1 point in your phrenic pool.
-
-**Flavor:** You can draw upon the intense power of your own emotions in desperate situations, and
-your allies can call upon you through your emotional link to protect themselves.
 
 **Usage:** 1 time/day + 1 per 4 psychic levels
 

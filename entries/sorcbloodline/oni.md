@@ -71,30 +71,30 @@ The target takes 1d4 points of nonlethal damage each round for a number of round
 
 **Altered Form (Sp)**
 
+**Gained:** At 3rd Level
+
 **Ability:** You gain the ability to change shape (as the spell [alter self](ref/spell/alter-self))
 for a number of minutes per day equal to your sorcerer level. These rounds need not be consecutive.
 
-**Gained:** At 3rd Level
-
-**At 17th Level:** The duration of this effect is no longer limited, and you may remain in your
+**At 17th level,** the duration of this effect is no longer limited, and you may remain in your
 chosen form as long as you want.
 
 **Windborne (Sp)**
 
+**Gained:** At 9th Level
+
 **Ability:** You can turn gaseous (as the spell [gaseous form](ref/spell/gaseous-form)) for a number
 of rounds per day equal to your sorcerer level. These rounds need not be consecutive.
 
-**Gained:** At 9th Level
+**At 11th level,** your speed while gaseous increases by +10 feet.
 
-At 11th level: Your speed while gaseous increases by +10 feet.
+**At 13th level,** your speed while gaseous increases by +20 feet.
 
-At 13th level: Your speed while gaseous increases by +20 feet.
+**At 15th level,** your speed while gaseous increases by +30 feet.
 
-At 15th level: Your speed while gaseous increases by +30 feet.
+**At 17th level,** your speed while gaseous increases by +40 feet.
 
-At 17th level: Your speed while gaseous increases by +40 feet.
-
-At 19th level: Your speed while gaseous increases by +50 feet.
+**At 19th level,** your speed while gaseous increases by +50 feet.
 
 **Oni Healing (Su)**
 

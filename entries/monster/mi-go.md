@@ -54,23 +54,27 @@ and a tangle of spiky, clawed legs._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/16/14
+**Armor class:** 20
 
-**Dr:** 5/slashing
+**Touch:** 16
 
-**Fort:** +10
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +1 dodge, +4 natural
 
 **Hit points:** 66 (7d8+35)
 
-**Immune:** cold, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +5 Dex, +1 dodge, +4 natural
+**Fort:** +10
 
 **Ref:** +7
 
-**Resist:** electricity 10, fire 10
-
 **Will:** +4
+
+**Dr:** 5/slashing
+
+**Immune:** cold, [plant traits](ref/umr/plant-traits)
+
+**Resist:** electricity 10, fire 10
 
 **Offense**
 

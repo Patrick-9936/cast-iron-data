@@ -48,13 +48,17 @@ with dark brown eyes._
 
 **Experience points:** 200
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 natural, +1 size
 
 **Hit points:** 9 (1d8+5)
 
-**Mod:** +2 Dex, +1 natural, +1 size
+**Fort:** +4
 
 **Ref:** +4
 

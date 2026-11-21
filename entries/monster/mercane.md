@@ -51,19 +51,23 @@ and its hands have too few fingers._
 
 **Experience points:** 1,600
 
-**Armor class:** 16/12/13
+**Armor class:** 16
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 dodge, +4 natural, -1 size
 
 **Hit points:** 51 (6d10+18)
 
-**Mod:** +2 Dex, +1 dodge, +4 natural, -1 size
+**Fort:** +8
 
 **Ref:** +4
 
-**Sr:** 20
-
 **Will:** +8
+
+**Sr:** 20
 
 **Offense**
 

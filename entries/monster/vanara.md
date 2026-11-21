@@ -54,13 +54,17 @@ prehensile tail._
 
 **Experience points:** 200
 
-**Armor class:** 17/17/13
+**Armor class:** 17
 
-**Fort:** +2
+**Touch:** 17
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +3 Wis
 
 **Hit points:** 9 (1d8+1)
 
-**Mod:** +3 Dex, +1 dodge, +3 Wis
+**Fort:** +2
 
 **Ref:** +5
 

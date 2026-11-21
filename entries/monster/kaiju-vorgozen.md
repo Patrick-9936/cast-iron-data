@@ -55,7 +55,21 @@ core to reveal a single red eye._
 
 **Experience points:** 6,553,600
 
-**Armor class:** 47/13/36
+**Armor class:** 47
+
+**Touch:** 13
+
+**Flat-footed:** 36
+
+**AC modifiers:** +10 Dex, +1 dodge, +34 natural, -8 size
+
+**Hit points:** 717 (35d8+560)
+
+**Fort:** +27
+
+**Ref:** +23
+
+**Will:** +24
 
 **Defensive abilities:** absorb magic, recovery
 
@@ -65,22 +79,12 @@ core to reveal a single red eye._
 
 **Fh:** 30
 
-**Fort:** +27
-
-**Hit points:** 717 (35d8+560)
-
 **Immune:** ability damage, ability drain, acid, death effects, disease, energy drain, fear, poison,
 [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +10 Dex, +1 dodge, +34 natural, -8 size
-
-**Ref:** +23
 
 **Resist:** acid 30, cold 30, electricity 30, fire 30, sonic 30, negative energy 30
 
 **Sr:** 40
-
-**Will:** +24
 
 **Offense**
 

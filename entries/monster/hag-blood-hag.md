@@ -52,23 +52,27 @@ skin._
 
 **Experience points:** 4,800
 
-**Armor class:** 23/17/16
+**Armor class:** 23
 
-**Dr:** 5/cold iron and magic
+**Touch:** 17
 
-**Fort:** +6
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +1 dodge, +6 natural
 
 **Hit points:** 90 (12d10+24)
 
-**Immune:** charm, disease, fear, fire, sleep
-
-**Mod:** +6 Dex, +1 dodge, +6 natural
+**Fort:** +6
 
 **Ref:** +14
 
-**Sr:** 19
-
 **Will:** +11
+
+**Dr:** 5/cold iron and magic
+
+**Immune:** charm, disease, fear, fire, sleep
+
+**Sr:** 19
 
 **Offense**
 

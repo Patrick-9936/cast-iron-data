@@ -48,13 +48,17 @@ look about her._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/13/13
+**Armor class:** 16
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +2 Dex, +1 dodge, +1 natural
 
 **Hit points:** 38 (7d10)
 
-**Mod:** +2 armor, +2 Dex, +1 dodge, +1 natural
+**Fort:** +4
 
 **Ref:** +7
 

@@ -54,26 +54,30 @@ articulated arms._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/8/22
+**Armor class:** 22
 
-**Dr:** 5/adamantine and good
+**Touch:** 8
+
+**Flat-footed:** 22
+
+**AC modifiers:** +14 natural, -2 size
+
+**Hit points:** 100 (11d10+40)
 
 **Fort:** +5
 
-**Hit points:** 100 (11d10+40)
+**Ref:** +5
+
+**Will:** +5
+
+**Dr:** 5/adamantine and good
 
 **Immune:** gaze attacks, visual effects and illusions, sight-based attacks,
 [construct traits](ref/umr/construct-traits)
 
-**Mod:** +14 natural, -2 size
-
-**Ref:** +5
-
 **Sr:** 19
 
 **Weaknesses:** exposed mechanisms, living trap
-
-**Will:** +5
 
 **Offense**
 

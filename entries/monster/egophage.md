@@ -47,27 +47,31 @@ _Eight tentacles ending in claws grow from the base of this glistening and grues
 
 **Experience points:** 9,600
 
-**Armor class:** 25/19/17
+**Armor class:** 25
 
-**Dr:** 10/adamantine and magic
+**Touch:** 19
 
-**Fort:** +9
+**Flat-footed:** 17
+
+**AC modifiers:** +7 Dex, +1 dodge, +6 natural, +1 size
 
 **Hit points:** 123 (13d8+65)
 
-**Immune:** fire, mind-affecting effects
-
-**Mod:** +7 Dex, +1 dodge, +6 natural, +1 size
+**Fort:** +9
 
 **Ref:** +11
+
+**Will:** +12
+
+**Dr:** 10/adamantine and magic
+
+**Immune:** fire, mind-affecting effects
 
 **Resist:** cold 20, electricity 20, sonic 20
 
 **Sr:** 25
 
 **Weaknesses:** vulnerable to _[protection from evil](ref/spell/protection-from-evil)_
-
-**Will:** +12
 
 **Offense**
 

@@ -18,8 +18,8 @@ group = "slayer-talent"
 or two-weapon combat) and gains a combat feat from the first feat list of that style. He can choose
 feats from his selected combat style, even if he does not have the normal prerequisites.
 
-**At 10th Level:** He may select this talent again and add the 10th-level ranger combat feats from
-his chosen style to the list.
-
-**At 6th Level:** He may select this talent again and add the 6th-level ranger combat feats from his
+**At 6th level,** he may select this talent again and add the 6th-level ranger combat feats from his
 chosen style to the list.
+
+**At 10th level,** he may select this talent again and add the 10th-level ranger combat feats from
+his chosen style to the list.

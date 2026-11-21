@@ -52,7 +52,21 @@ glowing with red energy._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 47/7/42
+**Armor class:** 47
+
+**Touch:** 7
+
+**Flat-footed:** 42
+
+**AC modifiers:** +5 Dex, +40 natural, -8 size
+
+**Hit points:** 697 (34d10+510)
+
+**Fort:** +34
+
+**Ref:** +24
+
+**Will:** +23
 
 **Defensive abilities:** absorb energy, recovery
 
@@ -62,21 +76,11 @@ glowing with red energy._
 
 **Fh:** 30
 
-**Fort:** +34
-
-**Hit points:** 697 (34d10+510)
-
 **Immune:** ability damage, ability drain, death effects, disease, energy drain, fire, and fear
-
-**Mod:** +5 Dex, +40 natural, -8 size
-
-**Ref:** +24
 
 **Resist:** acid 30, cold 30, electricity 30, negative energy 30, sonic 30
 
 **Weaknesses:** susceptible to song
-
-**Will:** +23
 
 **Offense**
 

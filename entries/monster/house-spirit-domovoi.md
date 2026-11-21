@@ -50,21 +50,25 @@ _Barely knee-high, this small creature looks like a hairy old man with more bear
 
 **Experience points:** 800
 
-**Armor class:** 17/15/14
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +1 dodge, +2 natural, +2 size
 
 **Hit points:** 27 (5d6+10)
 
-**Mod:** +2 Dex, +1 dodge, +2 natural, +2 size
+**Fort:** +3
 
 **Ref:** +6
 
-**Sr:** 14
-
 **Will:** +5
+
+**Dr:** 5/cold iron
+
+**Sr:** 14
 
 **Offense**
 

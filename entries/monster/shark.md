@@ -52,13 +52,17 @@ countless teeth._
 
 **Experience points:** 600
 
-**Armor class:** 14/10/13
+**Armor class:** 14
 
-**Fort:** +7
+**Touch:** 10
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +4 natural, -1 size
 
 **Hit points:** 22 (4d8+4)
 
-**Mod:** +1 Dex, +4 natural, -1 size
+**Fort:** +7
 
 **Ref:** +5
 

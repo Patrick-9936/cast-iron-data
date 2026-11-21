@@ -52,21 +52,25 @@ _These hobgoblin knights ride atop brutish stinking yaks that paw the ground ang
 
 **Experience points:** 153,600
 
-**Armor class:** 32/11/31
+**Armor class:** 32
 
-**Defensive abilities:** troop traits
+**Touch:** 11
 
-**Fort:** +22
+**Flat-footed:** 31
+
+**AC modifiers:** +10 armor, +1 Dex, +8 natural, +3 shield
 
 **Hit points:** 300 (24d8+192)
 
-**Immune:** fear
-
-**Mod:** +10 armor, +1 Dex, +8 natural, +3 shield
+**Fort:** +22
 
 **Ref:** +15
 
 **Will:** +10
+
+**Defensive abilities:** troop traits
+
+**Immune:** fear
 
 **Offense**
 

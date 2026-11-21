@@ -56,25 +56,29 @@ comparison to the danger of its mighty jaws._
 
 **Experience points:** 153,600
 
-**Armor class:** 34/14/28
+**Armor class:** 34
 
-**Dr:** 15/good and slashing
+**Touch:** 14
 
-**Fort:** +21
+**Flat-footed:** 28
+
+**AC modifiers:** +6 Dex, +20 natural, -2 size
 
 **Hit points:** 290 (20d10+180)
 
-**Immune:** disease, exhaustion, fatigue, fire, poison
-
-**Mod:** +6 Dex, +20 natural, -2 size
+**Fort:** +21
 
 **Ref:** +20
+
+**Will:** +13
+
+**Dr:** 15/good and slashing
+
+**Immune:** disease, exhaustion, fatigue, fire, poison
 
 **Resist:** acid 10, cold 10, electricity 10
 
 **Sr:** 29
-
-**Will:** +13
 
 **Offense**
 

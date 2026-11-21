@@ -50,23 +50,27 @@ deep in its eye sockets._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/13/16
+**Armor class:** 19
+
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +1 dodge, +6 natural
+
+**Hit points:** 52 (8d8+16)
+
+**Fort:** +4
+
+**Ref:** +6
+
+**Will:** +8
 
 **Chan Res:** +2
 
 **Dr:** 10/bludgeoning or magic
 
-**Fort:** +4
-
-**Hit points:** 52 (8d8+16)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +1 dodge, +6 natural
-
-**Ref:** +6
-
-**Will:** +8
 
 **Offense**
 

@@ -14,15 +14,13 @@ group = "rogue-talent"
 
 **The Whole Time (Su)**
 
-**Action:** Ability
-
 **Flavor:** Mercenaries in the employ of the [Aspis Consortium](ref/rule/aff-profiteers) often use
 _wands of invisibility_ to attack protected targets, then blend into the crowd to escape or disguise
 the source of the next attack.
 
-A rogue with this ability is practiced at attacking from magical concealment. He can use
-[spell trigger](ref/misc/spell-trigger) and [spell completion](ref/misc/spell-completion) items as
-if the following spells were on a spell list to which he has access:
+**Ability:** A rogue with this ability is practiced at attacking from magical concealment. He can
+use [spell trigger](ref/misc/spell-trigger) and [spell completion](ref/misc/spell-completion) items
+as if the following spells were on a spell list to which he has access:
 [greater invisibility](ref/spell/invisibility-greater), [invisibility](ref/spell/invisibility), and
 [vanish](ref/spell/vanish).
 

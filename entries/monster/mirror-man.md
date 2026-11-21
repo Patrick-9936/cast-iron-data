@@ -51,26 +51,30 @@ revealed - nothing but a featureless mirror, reflecting a hard, cold world._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/17/11
+**Armor class:** 18
+
+**Touch:** 17
+
+**Flat-footed:** 11
+
+**AC modifiers:** +6 Dex, +1 dodge, +1 natural
+
+**Hit points:** 53 (6d10+20)
+
+**Fort:** +2
+
+**Ref:** +8
+
+**Will:** +4
 
 **Dr:** 5/bludgeoning
 
 **Fh:** 2
 
-**Fort:** +2
-
-**Hit points:** 53 (6d10+20)
-
 **Immune:** blindness, gaze attacks, illusions of the pattern subschool,
 [construct traits](ref/umr/construct-traits)
 
-**Mod:** +6 Dex, +1 dodge, +1 natural
-
-**Ref:** +8
-
 **Weaknesses:** susceptible to mind-affecting effects
-
-**Will:** +4
 
 **Offense**
 

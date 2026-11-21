@@ -52,23 +52,27 @@ sizzling acid._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/6/24
+**Armor class:** 24
+
+**Touch:** 6
+
+**Flat-footed:** 24
+
+**AC modifiers:** -2 Dex, +18 natural, -2 size
+
+**Hit points:** 135 (10d10+80)
+
+**Fort:** +12
+
+**Ref:** +7
+
+**Will:** +4
 
 **Dr:** 5/epic
 
 **Ferocity:** present
 
-**Fort:** +12
-
-**Hit points:** 135 (10d10+80)
-
 **Immune:** acid
-
-**Mod:** -2 Dex, +18 natural, -2 size
-
-**Ref:** +7
-
-**Will:** +4
 
 **Offense**
 

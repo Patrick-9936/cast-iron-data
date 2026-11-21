@@ -49,13 +49,17 @@ in one tremendous bite._
 
 **Experience points:** 6,400
 
-**Armor class:** 21/6/21
+**Armor class:** 21
 
-**Fort:** +15
+**Touch:** 6
+
+**Flat-footed:** 21
+
+**AC modifiers:** +15 natural, -4 size
 
 **Hit points:** 138 (12d8+84)
 
-**Mod:** +15 natural, -4 size
+**Fort:** +15
 
 **Ref:** +8
 

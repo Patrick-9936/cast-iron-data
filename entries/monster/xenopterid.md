@@ -51,21 +51,25 @@ merely patterns on its head._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/13/18
+**Armor class:** 21
 
-**Ferocity:** present
+**Touch:** 13
 
-**Fort:** +11
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +8 natural
 
 **Hit points:** 93 (11d8+44)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +8 natural
+**Fort:** +11
 
 **Ref:** +6
 
 **Will:** +4
+
+**Ferocity:** present
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

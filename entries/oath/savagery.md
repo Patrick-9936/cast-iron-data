@@ -27,21 +27,21 @@ these numbers.
 
 **Holy Reach (Su)**
 
+**Gained:** At 2nd Level
+
 **Ability:** An oathbound paladin can expend one use of her _smite evil_ ability to extend her
 natural reach by 5 feet for 1 minute. This does not stack with the [Lunge](ref/feat/lunge) feat.
-
-**Gained:** At 2nd Level
 
 **Replaces:** Divine grace
 
 **Hordebreaker (Su)**
 
+**Gained:** At 11th Level
+
 **Ability:** When the paladin hits an evil humanoid with an attack of opportunity, she deals an
 additional 1d6 points of damage. When using _holy reach,_ the paladin may make a number of
 additional attacks of opportunity per round equal to her Charisma bonus. This increase stacks with
 similar increases from other sources such as [Combat Reflexes](ref/feat/combat-reflexes).
-
-**Gained:** At 11th Level
 
 **Replaces:** Aura of justice
 

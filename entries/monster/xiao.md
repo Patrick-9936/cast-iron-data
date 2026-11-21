@@ -46,13 +46,17 @@ _This snarling blue-white monkey flies through the air on a pair of bird-like wi
 
 **Experience points:** 600
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 22 (3d10+6)
 
-**Mod:** +3 Dex, +2 size
+**Fort:** +5
 
 **Ref:** +6
 

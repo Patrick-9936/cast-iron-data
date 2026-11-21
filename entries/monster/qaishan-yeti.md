@@ -54,23 +54,27 @@ face is streaked with gray._
 
 **Experience points:** 3,200
 
-**Armor class:** 22/15/20
+**Armor class:** 22
 
-**Evasion:** present
+**Touch:** 15
 
-**Fort:** +11
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +1 monk, +3 Wis, +7 natural, -1 size
 
 **Hit points:** 93 (6d10+5d8+38\~11)
 
-**Immune:** cold, disease
-
-**Mod:** +2 Dex, +1 monk, +3 Wis, +7 natural, -1 size
+**Fort:** +11
 
 **Ref:** +11
 
-**Vulner:** fire
-
 **Will:** +12; +2 vs. enchantments
+
+**Evasion:** present
+
+**Immune:** cold, disease
+
+**Vulner:** fire
 
 **Offense**
 

@@ -53,21 +53,25 @@ instead of a face, it has a singular massive maw filled with rows of ravenous te
 
 **Experience points:** 12,800
 
-**Armor class:** 26/8/26
+**Armor class:** 26
 
-**Dr:** 10/magic and slashing
+**Touch:** 8
 
-**Fort:** +14
+**Flat-footed:** 26
+
+**AC modifiers:** +18 natural, -2 size
 
 **Hit points:** 149 (13d10+78)
 
-**Immune:** disease, poison
-
-**Mod:** +18 natural, -2 size
+**Fort:** +14
 
 **Ref:** +10
 
 **Will:** +8
+
+**Dr:** 10/magic and slashing
+
+**Immune:** disease, poison
 
 **Offense**
 

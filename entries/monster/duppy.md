@@ -56,25 +56,29 @@ the creature's legs._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/20/14
+**Armor class:** 20
 
-**Chan Res:** +2
+**Touch:** 20
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 deflection, +6 Dex
+
+**Hit points:** 76 (9d8+36)
 
 **Fort:** +7
 
-**Hit points:** 76 (9d8+36)
+**Ref:** +11
+
+**Will:** +8
+
+**Chan Res:** +2
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +4 deflection, +6 Dex
-
-**Ref:** +11
-
 **Weaknesses:** resurrection vulnerability, sunlight powerlessness
-
-**Will:** +8
 
 **Offense**
 

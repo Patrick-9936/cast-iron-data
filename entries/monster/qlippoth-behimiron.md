@@ -50,27 +50,31 @@ spiny carapace._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/13/23
+**Armor class:** 28
+
+**Touch:** 13
+
+**Flat-footed:** 23
+
+**AC modifiers:** +5 Dex, +15 natural, -2 size
+
+**Hit points:** 189 (14d10+112)
+
+**Fort:** +17
+
+**Ref:** +11
+
+**Will:** +15
 
 **Defensive abilities:** spines
 
 **Dr:** 10/lawful
 
-**Fort:** +17
-
-**Hit points:** 189 (14d10+112)
-
 **Immune:** cold, mind-affecting effects, negative energy, poison
-
-**Mod:** +5 Dex, +15 natural, -2 size
-
-**Ref:** +11
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 24
-
-**Will:** +15
 
 **Offense**
 

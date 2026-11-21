@@ -14,10 +14,10 @@ group = "ki-power"
 
 **Diamond Mind (Su)**
 
+**Swift:** By spending 1 ki point, a monk with this power can suppress a fear effect affecting him
+as if using [remove fear](ref/spell/remove-fear), using his monk level as his caster level.
+
 **Prereq:** 6th-level monk
 
 **Special:** He can spend 2 ki points to activate this ability even when
 [frightened](ref/misc/frightened) or [panicked](ref/misc/panicked).
-
-**Swift:** By spending 1 ki point, a monk with this power can suppress a fear effect affecting him
-as if using [remove fear](ref/spell/remove-fear), using his monk level as his caster level.

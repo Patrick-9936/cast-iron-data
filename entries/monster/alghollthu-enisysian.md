@@ -53,21 +53,25 @@ about using squirming tentacles, each moving independently in a mesmerizing moti
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Fort:** +3
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +2 natural, +1 size
 
 **Hit points:** 37 (5d8+15)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +1 dodge, +2 natural, +1 size
+**Fort:** +3
 
 **Ref:** +4
 
-**Sr:** 15
-
 **Will:** +7
+
+**Immune:** mind-affecting effects
+
+**Sr:** 15
 
 **Offense**
 

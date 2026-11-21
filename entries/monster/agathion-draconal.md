@@ -54,27 +54,31 @@ a crown of horns._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/18/33
+**Armor class:** 36
 
-**Dr:** 15/evil and silver
+**Touch:** 18
 
-**Fort:** +22
+**Flat-footed:** 33
+
+**AC modifiers:** +2 Dex, +1 dodge, +6 insight, +18 natural, -1 size
 
 **Hit points:** 324 (24d10+192)
 
-**Immune:** one energy type (see Celestial Focus), electricity, petrification
-
-**Mod:** +2 Dex, +1 dodge, +6 insight, +18 natural, -1 size
+**Fort:** +22
 
 **Ref:** +16
+
+**Will:** +17; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 15/evil and silver
+
+**Immune:** one energy type (see Celestial Focus), electricity, petrification
 
 **Regen:** 10 (evil weapons and spells)
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 31
-
-**Will:** +17; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

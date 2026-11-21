@@ -48,23 +48,27 @@ and a sword clenched in each hand._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Dr:** 5/bludgeoning
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 64 (8d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits), fire
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +2
 
 **Ref:** +5
 
-**Sr:** 17
-
 **Will:** +2
+
+**Dr:** 5/bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits), fire
+
+**Sr:** 17
 
 **Offense**
 

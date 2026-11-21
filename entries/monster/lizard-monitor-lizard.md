@@ -47,13 +47,17 @@ of drool hang from its toothy maw._
 
 **Experience points:** 600
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +3 natural
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +2 Dex, +3 natural
+**Fort:** +8
 
 **Ref:** +5
 

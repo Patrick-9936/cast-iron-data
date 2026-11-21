@@ -51,25 +51,29 @@ _This massive, three-headed clockwork snake is crafted of brass and strange, dar
 
 **Experience points:** 25,600
 
-**Armor class:** 30/11/27
+**Armor class:** 30
 
-**Dr:** 10/-
+**Touch:** 11
 
-**Fort:** +6
+**Flat-footed:** 27
+
+**AC modifiers:** +3 Dex, +19 natural, -2 size
 
 **Hit points:** 139 (18d10+40)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +19 natural, -2 size
+**Fort:** +6
 
 **Ref:** +9
+
+**Will:** +10
+
+**Dr:** 10/-
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** acid 10, cold 10, electricity 10, fire 10
 
 **Sr:** 24
-
-**Will:** +10
 
 **Offense**
 

@@ -49,13 +49,17 @@ mouth is the size of an ox._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/4/26
+**Armor class:** 26
 
-**Fort:** +17
+**Touch:** 4
+
+**Flat-footed:** 26
+
+**AC modifiers:** -2 Dex, +22 natural, -4 size
 
 **Hit points:** 200 (16d10+112)
 
-**Mod:** -2 Dex, +22 natural, -4 size
+**Fort:** +17
 
 **Ref:** +8
 

@@ -51,11 +51,9 @@ A cavalier belonging to the order of the paw gains the following abilities as he
 
 **Danger Ward (Ex)**
 
-**Flavor:** The cavalier can ready his allies for impending danger.
-
 **Gained:** At 2nd Level
 
-**Special:** He can use this ability up to three times per day, once for each type of saving throw.
+**Flavor:** The cavalier can ready his allies for impending danger.
 
 **Standard:** The cavalier can ready all allies within 30 feet of the danger ahead, granting a bonus
 on a single type of saving throw (Fortitude, Reflex or Will) that he chooses when he grants this
@@ -65,7 +63,11 @@ At any point in the next minute, when these allies fail a saving throw of that t
 to reroll the saving throw with a +4 competence bonus as an **immediate action**, but must take the
 results of the reroll even if it is worse.
 
+**Special:** He can use this ability up to three times per day, once for each type of saving throw.
+
 **Canine Ferocity (Ex)**
+
+**Gained:** At 8th Level
 
 **Ability:** When the cavalier uses his wolf or dog mount to perform a
 [bull rush](ref/rule/bull-rush) or [overrun](ref/rule/overrun) maneuver, the mount is considered to
@@ -75,8 +77,6 @@ against and the mount's CMB. He also receives a bonus feat, chosen from the foll
 [Skill Focus](ref/feat/skill-focus) (Ride), [Spirited Charge](ref/feat/spirited-charge),
 [Trample](ref/feat/trample) (the mount can make a bite attack in place of a hoof attack), or
 [Unseat](ref/feat/unseat). He must qualify for the feat selected.
-
-**Gained:** At 8th Level
 
 **Giant Slayer (Ex)**
 

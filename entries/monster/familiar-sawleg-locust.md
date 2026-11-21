@@ -47,19 +47,23 @@ _The cat-sized insect has a long, cigar-shaped body. Its spiny back legs are lon
 
 **Experience points:** 100
 
-**Armor class:** 14/13/13
+**Armor class:** 14
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +1 natural, +2 size
 
 **Hit points:** 4 (1d8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +1 natural, +2 size
+**Fort:** +2
 
 **Ref:** +1
 
 **Will:** +0
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

@@ -51,21 +51,25 @@ _This muscular two-legged dragon is covered with scales of thick volcanic stone.
 
 **Experience points:** 6,400
 
-**Armor class:** 22/12/19
+**Armor class:** 22
 
-**Fort:** +11
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +10 natural, -1 size
 
 **Hit points:** 115 (11d12+44)
 
-**Immune:** fire, paralysis, sleep
-
-**Mod:** +3 Dex, +10 natural, -1 size
+**Fort:** +11
 
 **Ref:** +10
 
-**Vulner:** cold
-
 **Will:** +8
+
+**Immune:** fire, paralysis, sleep
+
+**Vulner:** cold
 
 **Offense**
 

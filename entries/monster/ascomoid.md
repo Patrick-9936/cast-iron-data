@@ -51,23 +51,27 @@ foul spores as it advances._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/10/16
+**Armor class:** 17
 
-**Dr:** 10/piercing
+**Touch:** 10
 
-**Fort:** +8
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +7 natural, -1 size
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +7 natural, -1 size
+**Fort:** +8
 
 **Ref:** +3
 
-**Resist:** electricity 10, fire 10
-
 **Will:** +2
+
+**Dr:** 10/piercing
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Resist:** electricity 10, fire 10
 
 **Offense**
 

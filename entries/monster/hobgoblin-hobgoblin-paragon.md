@@ -55,21 +55,25 @@ eyes._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/20/17
+**Armor class:** 22
 
-**Fort:** +13
+**Touch:** 20
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 armor, +1 deflection, +4 Dex, +1 dodge, +2 monk, +2 Wis
 
 **Hit points:** 119 (11d8+66)
 
-**Immune:** disease, poison
-
-**Improved evasion:** present
-
-**Mod:** +2 armor, +1 deflection, +4 Dex, +1 dodge, +2 monk, +2 Wis
+**Fort:** +13
 
 **Ref:** +13
 
 **Will:** +11; +2 vs. enchantments
+
+**Immune:** disease, poison
+
+**Improved evasion:** present
 
 **Offense**
 

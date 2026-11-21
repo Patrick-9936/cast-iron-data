@@ -18,5 +18,3 @@ group = "rage-power"
 check, or to her Combat Maneuver Defense when an opponent attempts a maneuver against her.
 
 **Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

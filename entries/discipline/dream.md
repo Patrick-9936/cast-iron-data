@@ -67,9 +67,6 @@ landscapes of unconsciousness or regions of nightmare and horror.
 
 **Dream Leech (Su)**
 
-**Special:** You can use this ability no more than once per hour and no more than once per creature
-per day.
-
 **Swift:** While adjacent to a sleeping or unconscious creature, you can siphon that creature's
 dreams, thereby learning new things about your own mind. The creature can attempt a Will save to
 negate this effect; such creatures are never considered willing. Creatures that don't dream are
@@ -80,9 +77,10 @@ check against the subject within the next 24 hours, and you regain 1 point in yo
 
 **Usage:** Charisma modifier times/day
 
-**Oneiromancy (Su)**
+**Special:** You can use this ability no more than once per hour and no more than once per creature
+per day.
 
-**Special:** Creatures that don't dream are immune to this effect.
+**Oneiromancy (Su)**
 
 **Standard:** You can tamper with the minds of sleeping creatures. You plant a subconscious thought
 in a sleeping creature's mind by attempting a [Diplomacy](ref/skill/diplomacy) or
@@ -98,6 +96,8 @@ Alternatively, you can use this ability as part of the casting of [dream](ref/sp
 _oneiromancy_ effect takes place when the spell is cast.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**Special:** Creatures that don't dream are immune to this effect.
 
 **Mind Heist (Sp)**
 
@@ -118,8 +118,6 @@ information from the dream. A successful Will save negates _mind heist._
 
 **Gained:** At 13th Level
 
-**Special:** Creatures that don't dream are immune to this effect.
-
 **Standard:** You can take control of the body of a sleeping creature within 30 feet for 1 hour per
 level. This ability functions like [magic jar](ref/spell/magic-jar), except that your soul travels
 directly into the sleeping target with no receptacle necessary and the target creature's
@@ -128,3 +126,5 @@ host body is destroyed, you immediately wake up in your body regardless of the d
 host body, provided your body hasn't been destroyed.
 
 **Usage:** Charisma modifier times/day
+
+**Special:** Creatures that don't dream are immune to this effect.

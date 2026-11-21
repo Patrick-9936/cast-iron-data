@@ -14,13 +14,13 @@ group = "vigilante-talent"
 
 **Inspired Vigilante (Ex)**
 
+**Flavor:** The vigilante's powers of deduction are far beyond the norm.
+
 **Ability:** This ability functions similarly to the [investigator's](ref/class/investigator)
 _inspiration_ ability, but the vigilante's _inspiration pool_ is equal to his class level (do not
 add his Intelligence modifier), the vigilante can never use this ability without expending a use of
 _inspiration,_ and it doesn't count as _inspiration_ for any effects that interact with or require
 the _inspiration_ class feature.
-
-**Flavor:** The vigilante's powers of deduction are far beyond the norm.
 
 **Inspiration (Ex)**
 

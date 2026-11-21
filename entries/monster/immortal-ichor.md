@@ -51,7 +51,21 @@ light._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/32/28
+**Armor class:** 32
+
+**Touch:** 32
+
+**Flat-footed:** 28
+
+**AC modifiers:** +3 Dex, +1 dodge, +28 profane
+
+**Hit points:** 270 (20d8+180)
+
+**Fort:** +16
+
+**Ref:** +9
+
+**Will:** +11
 
 **Amorph:** present
 
@@ -59,22 +73,12 @@ light._
 
 **Dr:** 15/-
 
-**Fort:** +16
-
-**Hit points:** 270 (20d8+180)
-
 **Immune:** acid, bludgeoning damage, electricity, mind-affecting effects,
 [ooze traits](ref/umr/ooze-traits), piercing damage
-
-**Mod:** +3 Dex, +1 dodge, +28 profane
-
-**Ref:** +9
 
 **Regen:** 10 (good spells, good weapons)
 
 **Resist:** cold 30
-
-**Will:** +11
 
 **Offense**
 

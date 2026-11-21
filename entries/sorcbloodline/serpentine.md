@@ -50,10 +50,10 @@ birthright, you may struggle for truth in spite of your heritage.
 
 **Bloodline Arcana**
 
+**Flavor:** Your powers of compulsion can affect even bestial creatures.
+
 **Ability:** Whenever you cast a mind-affecting or language-dependent spell, it affects animals,
 magical beasts, and monstrous humanoids as if they were humanoids who understood your language.
-
-**Flavor:** Your powers of compulsion can affect even bestial creatures.
 
 ### Bloodline Powers
 
@@ -109,11 +109,11 @@ level - 2 as your effective wizard level.
 
 **Den of Vipers (Sp)**
 
+**Gained:** At 15th Level
+
 **Ability:** You may summon a host of writhing serpents. This power acts as
 [creeping doom](ref/spell/creeping-doom), but the swarms' poison inflicts Constitution damage and
 any creature other than you sharing a space with a swarm is [entangled](ref/rule/entangled).
-
-**Gained:** At 15th Level
 
 **Scaled Soul (Su)**
 
@@ -147,13 +147,13 @@ The stink of poison taints your magic.
 
 **Gained:** At 3rd Level
 
-**Replaces:** Serpentfriend
-
-**Special:** The poison cannot be removed or stored, and the weapon loses the benefit of the poison
-after the first successful attack or 1 hour has passed.
-
 **Swift:** You can lick or bite a melee weapon to imbue it with 1 dose of
 [black adder venom](ref/eq-poison/black-adder-venom). The poison's DC is equal to 10 + half your
 sorcerer level + your Charisma modifier.
 
 **Usage:** 1 time/day per 3 sorcerer levels
+
+**Replaces:** Serpentfriend
+
+**Special:** The poison cannot be removed or stored, and the weapon loses the benefit of the poison
+after the first successful attack or 1 hour has passed.

@@ -51,27 +51,31 @@ this feral-looking man._
 
 **Experience points:** 800
 
-**Armor class:** 15/15/11
+**Armor class:** 15
+
+**Touch:** 15
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 dodge, +1 size
+
+**Hit points:** 30 (4d8+12)
+
+**Fort:** +7
+
+**Ref:** +4
+
+**Will:** +2
 
 **Defensive abilities:** avoidance
 
 **Fh:** 2
 
-**Fort:** +7
-
-**Hit points:** 30 (4d8+12)
-
 **Immune:** cold, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex, +1 dodge, +1 size
-
-**Ref:** +4
 
 **Resist:** acid 10
 
 **Sr:** 14
-
-**Will:** +2
 
 **Offense**
 

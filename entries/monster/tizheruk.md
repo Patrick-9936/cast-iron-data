@@ -51,13 +51,17 @@ revealing its red-and-brown organs._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/15
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +6 natural, -1 size
 
 **Hit points:** 52 (5d10+25)
 
-**Mod:** +3 Dex, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
 

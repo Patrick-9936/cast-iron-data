@@ -25,16 +25,16 @@ The conjurer focuses on the study of summoning monsters and magic alike to bend 
 
 **Summoner's Charm (Su)**
 
-**At 20th Level:** You can change the duration of all _[summon monster](ref/spell/summon-monster)_
-spells to permanent. You can have no more than one [summon monster](ref/spell/summon-monster) spell
-made permanent in this way at one time. If you designate another
-_[summon monster](ref/spell/summon-monster)_ spell as permanent, the previous spell immediately
-ends. This increase is not doubled by [Extend Spell](ref/feat/extend-spell).
-
 **Gained:** At 1st Level
 
 **Passive:** Whenever you cast a conjuration (summoning) spell, increase the duration by a number of
 rounds equal to 1/2 your wizard level (minimum 1).
+
+**At 20th level,** you can change the duration of all _[summon monster](ref/spell/summon-monster)_
+spells to permanent. You can have no more than one [summon monster](ref/spell/summon-monster) spell
+made permanent in this way at one time. If you designate another
+_[summon monster](ref/spell/summon-monster)_ spell as permanent, the previous spell immediately
+ends. This increase is not doubled by [Extend Spell](ref/feat/extend-spell).
 
 **Acid Dart (Sp)**
 
@@ -50,8 +50,6 @@ attack. The acid dart deals an amount of acid damage equal to 1d6 +
 
 **Gained:** At 8th Level
 
-**Provokes attack of opportunity:** No
-
 **Standard:** You can use this ability to teleport from one place to another. You can bring other
 willing creatures with you, but you must expend an equal amount of distance for each additional
 creature brought with you.
@@ -59,8 +57,7 @@ creature brought with you.
 **Usage:** You can travel up to 30 feet per wizard level per day. This teleportation must be used in
 5-foot increments.
 
-**Usage:** You can travel up to 30 feet per wizard level per day. This teleportation must be used in
-5-foot increments.
+**Provokes attack of opportunity:** No
 
 ### Cheliax: Egorian Academy Infernal Binder School
 
@@ -93,9 +90,6 @@ powers of the conjuration school.
 
 **Assume Control (Su)**
 
-**At 9th Level:** You can use this ability to bargain with called creatures as if you were the
-caster who conjured them.
-
 **Gained:** At 1st Level
 
 **Standard:** You can attempt to gain control over a summoned creature by disrupting the bond
@@ -109,6 +103,9 @@ check against your caster level + 10. When your control ends, the creature rever
 its summoner.
 
 **Usage:** 3 + Intelligence modifier times/day
+
+**At 9th level,** you can use this ability to bargain with called creatures as if you were the
+caster who conjured them.
 
 **Imp Familiar (Ex)**
 
@@ -141,8 +138,6 @@ could use this ability to create a [dagger](ref/eq-weapon/dagger), but not a via
 
 **Creator's Will (Sp)**
 
-**At 12th Level:** This ability improves to [major creation](ref/spell/major-creation).
-
 **Gained:** At 8th Level
 
 **Standard:** You can cast [minor creation](ref/spell/minor-creation) as a
@@ -150,6 +145,8 @@ could use this ability to create a [dagger](ref/eq-weapon/dagger), but not a via
 active at a time. If you cast the spell again, the previous casting immediately ends.
 
 **Usage:** 1 time/day per 2 wizard levels
+
+**At 12th level,** this ability improves to [major creation](ref/spell/major-creation).
 
 ### Extradimension School
 
@@ -161,15 +158,15 @@ conjuration school.
 
 **Reshape Space (Su)**
 
-**At 20th Level:** You can make one spell that creates an extradimensional space or demiplane
-permanent. You can have no more than one such spell made permanent in this way at a time. If you
-designate another spell as permanent, the previous permanent spell ends.
-
 **Gained:** At 1st Level
 
 **Passive:** Whenever you cast a spell that creates an extradimensional space or demiplane, increase
 the duration by a number of units (rounds, minutes, hours, etc.) equal to 1/2 your wizard level
 (minimum 1).
+
+**At 20th level,** you can make one spell that creates an extradimensional space or demiplane
+permanent. You can have no more than one such spell made permanent in this way at a time. If you
+designate another spell as permanent, the previous permanent spell ends.
 
 ### Teleportation School
 
@@ -183,11 +180,11 @@ school.
 
 **Gained:** At 1st Level
 
-**Provokes attack of opportunity:** No
-
 **Swift:** You can teleport to a nearby space as if using
 [dimension door](ref/spell/dimension-door). You must be able to see the space that you are moving
 into. You cannot take other creatures with you when you use this ability (except for familiars). You
 can move 5 feet for every two wizard levels you possess (minimum 5 feet).
 
 **Usage:** 3 + Intelligence modifier times/day
+
+**Provokes attack of opportunity:** No

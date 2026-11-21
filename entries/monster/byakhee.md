@@ -49,19 +49,23 @@ decomposing human in a most hideous manner._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
 
 **Hit points:** 42 (5d8+20)
 
-**Immune:** cold, confusion and insanity effects, critical hits, hunger, sneak attacks, thirst
-
-**Mod:** +3 Dex, +4 natural
+**Fort:** +5
 
 **Ref:** +4
 
 **Will:** +7
+
+**Immune:** cold, confusion and insanity effects, critical hits, hunger, sneak attacks, thirst
 
 **Offense**
 

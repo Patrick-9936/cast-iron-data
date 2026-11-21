@@ -51,19 +51,23 @@ both surprised and perplexed._
 
 **Experience points:** 400
 
-**Armor class:** 12/10/12
+**Armor class:** 12
 
-**Fort:** +4
+**Touch:** 10
+
+**Flat-footed:** 12
+
+**AC modifiers:** -2 Dex, +2 natural, +2 size
 
 **Hit points:** 13 (2d10+2)
 
-**Mod:** -2 Dex, +2 natural, +2 size
+**Fort:** +4
 
 **Ref:** +1
 
-**Vulner:** _[suggestion](ref/spell/suggestion)_
-
 **Will:** +3
+
+**Vulner:** _[suggestion](ref/spell/suggestion)_
 
 **Offense**
 

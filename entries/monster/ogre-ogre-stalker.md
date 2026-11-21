@@ -54,21 +54,25 @@ mouth with ill-fitting teeth._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/10/18
+**Armor class:** 19
 
-**Evasion:** present
+**Touch:** 10
 
-**Fort:** +8
+**Flat-footed:** 18
+
+**AC modifiers:** +4 armor, +1 Dex, +5 natural, -1 size
 
 **Hit points:** 52 (7d8+21)
 
-**Mod:** +4 armor, +1 Dex, +5 natural, -1 size
+**Fort:** +8
 
 **Ref:** +5
 
-**Trap S:** +1
-
 **Will:** +2
+
+**Evasion:** present
+
+**Trap S:** +1
 
 **Offense**
 

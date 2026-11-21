@@ -52,23 +52,27 @@ eyes glow with a blue light._
 
 **Experience points:** 102,400
 
-**Armor class:** 33/13/26
+**Armor class:** 33
+
+**Touch:** 13
+
+**Flat-footed:** 26
+
+**AC modifiers:** +7 Dex, +20 natural, -4 size
+
+**Hit points:** 310 (23d10+184)
+
+**Fort:** +21
+
+**Ref:** +20
+
+**Will:** +11
 
 **Defensive abilities:** quick recovery, quill defense
 
 **Fh:** 10
 
-**Fort:** +21
-
-**Hit points:** 310 (23d10+184)
-
 **Immune:** fear, paralysis, poison, sleep
-
-**Mod:** +7 Dex, +20 natural, -4 size
-
-**Ref:** +20
-
-**Will:** +11
 
 **Offense**
 

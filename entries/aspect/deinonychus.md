@@ -22,9 +22,9 @@ aspect infuses the shifter with an enhanced ability to surprise foes and strike 
 
 **Passive:** You gain a +2 bonus on Initiative checks.
 
-At 8th level: This bonus increases to +4.
+**At 8th level,** this bonus increases to +4.
 
-At 15th level: This bonus increases to +6.
+**At 15th level,** this bonus increases to +6.
 
 **Major Form**
 
@@ -34,11 +34,11 @@ in this form, you gain a base speed of 60 feet, [low-light vision](ref/rule/low-
 talon attacks (1d8 damage; your talon attacks can use your _shifter claws_ damage), and
 [pounce](ref/umr/pounce).
 
-**At 15th Level:** You gain a +1 dodge bonus to AC and [Spring Attack](ref/feat/spring-attack) as a
-bonus feat.
-
-**At 8th Level:** You gain two foreclaw attacks (1d4 damage; these attacks cannot use your _shifter
+**At 8th level,** you gain two foreclaw attacks (1d4 damage; these attacks cannot use your _shifter
 claws_ damage) and a +4 racial bonus on Acrobatics checks.
+
+**At 15th level,** you gain a +1 dodge bonus to AC and [Spring Attack](ref/feat/spring-attack) as a
+bonus feat.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

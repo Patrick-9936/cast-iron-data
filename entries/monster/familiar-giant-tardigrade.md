@@ -50,23 +50,27 @@ water._
 
 **Experience points:** 50
 
-**Armor class:** 16/15/15
+**Armor class:** 16
 
-**Defensive abilities:** hardy
+**Touch:** 15
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +1 natural, +4 size
 
 **Hit points:** 7 (1d8+3)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +1 natural, +4 size
+**Fort:** +5
 
 **Ref:** +1
 
-**Resist:** acid 2, cold 2, fire 2
-
 **Will:** +0
+
+**Defensive abilities:** hardy
+
+**Immune:** mind-affecting effects
+
+**Resist:** acid 2, cold 2, fire 2
 
 **Offense**
 

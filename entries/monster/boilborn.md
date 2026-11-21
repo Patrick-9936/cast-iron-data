@@ -47,21 +47,25 @@ _Like some taut pustule ready to burst, this mobile wound scuttles on a bristle 
 
 **Experience points:** 400
 
-**Armor class:** 7/7/7
+**Armor class:** 7
 
-**Fort:** +3
+**Touch:** 7
+
+**Flat-footed:** 7
+
+**AC modifiers:** -5 Dex, +2 size
 
 **Hit points:** 15 (2d8+6)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, +2 size
+**Fort:** +3
 
 **Ref:** -5
 
-**Resist:** acid 10
-
 **Will:** -4
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
+
+**Resist:** acid 10
 
 **Offense**
 

@@ -55,30 +55,34 @@ appear to be made of solid sunlight._
 
 **Experience points:** 409,600
 
-**Armor class:** 38/38/31
+**Armor class:** 38
+
+**Touch:** 38
+
+**Flat-footed:** 31
+
+**AC modifiers:** +6 Dex, +1 dodge, +25 natural, -4 size
+
+**Hit points:** 406 (28d12+224)
+
+**Fort:** +24
+
+**Ref:** +22
+
+**Will:** +23
 
 **Defensive abilities:** luminous scales
 
 **Dr:** 10/epic
 
-**Fort:** +24
-
-**Hit points:** 406 (28d12+224)
-
 **Immune:** ability damage, ability drain, blindness, dazzled, energy drain, fire, mind-affecting
 effects, negative energy, paralysis, sleep
-
-**Mod:** +6 Dex, +1 dodge, +25 natural, -4 size
-
-**Ref:** +22
 
 **Regen:** 20 (evil spells or effects)
 
 **Resist:** acid 20, cold 20, electricity 20
 
 **Sr:** 32
-
-**Will:** +23
 
 **Offense**
 

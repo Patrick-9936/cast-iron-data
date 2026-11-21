@@ -49,19 +49,23 @@ a deformed spider._
 
 **Experience points:** 200
 
-**Armor class:** 14/14/14
+**Armor class:** 14
 
-**Fort:** +2
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 size
 
 **Hit points:** 9 (1d8+5)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 size
+**Fort:** +2
 
 **Ref:** +0
 
 **Will:** +2
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

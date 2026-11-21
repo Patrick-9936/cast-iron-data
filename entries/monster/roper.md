@@ -49,25 +49,29 @@ fibrous material whip from its sides._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/10/26
+**Armor class:** 27
 
-**Fort:** +13
+**Touch:** 10
+
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +17 natural, -1 size
 
 **Hit points:** 162 (12d8+108)
 
-**Immune:** electricity
-
-**Mod:** +1 Dex, +17 natural, -1 size
+**Fort:** +13
 
 **Ref:** +5
+
+**Will:** +13
+
+**Immune:** electricity
 
 **Resist:** cold 10
 
 **Sr:** 27
 
 **Vulner:** fire
-
-**Will:** +13
 
 **Offense**
 

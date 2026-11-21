@@ -54,27 +54,31 @@ open in its body and tail._
 
 **Experience points:** 409,600
 
-**Armor class:** 37/13/30
+**Armor class:** 37
 
-**Dr:** 15/cold iron and lawful
+**Touch:** 13
 
-**Fort:** +25
+**Flat-footed:** 30
+
+**AC modifiers:** +6 Dex, +1 dodge, +24 natural, -4 size
 
 **Hit points:** 402 (23d10+276)
 
-**Immune:** disease, nonlethal damage, poison
-
-**Mod:** +6 Dex, +1 dodge, +24 natural, -4 size
+**Fort:** +25
 
 **Ref:** +19
+
+**Will:** +18; +8 vs. mind-affecting effects
+
+**Dr:** 15/cold iron and lawful
+
+**Immune:** disease, nonlethal damage, poison
 
 **Regen:** 20 (special)
 
 **Resist:** acid 20, cold 20, electricity 20, fire 20
 
 **Sr:** 32
-
-**Will:** +18; +8 vs. mind-affecting effects
 
 **Offense**
 

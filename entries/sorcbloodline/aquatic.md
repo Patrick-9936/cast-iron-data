@@ -70,41 +70,43 @@ Oozes, plants, and creatures with the aquatic or water subtypes suffer lethal da
 
 **Aquatic Adaptation (Ex)**
 
-**Ability:** You gain a swim speed of 30 feet.
-
 **Gained:** At 3rd Level
 
-**At 9th Level:** You gain the [amphibious](ref/umr/amphibious) special quality and develop a fat
+**Ability:** You gain a swim speed of 30 feet.
+
+**At 9th level,** you gain the [amphibious](ref/umr/amphibious) special quality and develop a fat
 layer that grants a +1 natural armor bonus and [resist](ref/umr/resistance) cold 5. When immersed in
 water, you gain [blindsense](ref/umr/blindsense) 30 feet.
 
-**At 15th Level:** You gain a swim speed of 60 feet and
+**At 15th level,** you gain a swim speed of 60 feet and
 [blindsense](ref/rule/blindsight-and-blindsense) of 60 feet in water.
 
 **Aquatic Telepathy (Su)**
+
+**Gained:** At 9th Level
 
 **Ability:** You gain [telepathy](ref/umr/telepathy) (100 feet) and can communicate with creatures
 with a swim speed or the aquatic or water types regardless of intelligence. You may cast
 [suggestion](ref/spell/suggestion) on such creatures a number of times per day equal to your
 Charisma modifier. This ability is telepathic and does not require audible or visual components.
 
-**Gained:** At 9th Level
-
-**At 15th Level:** Once per day you can telepathically call and request a service from an aquatic,
+**At 15th level,** once per day you can telepathically call and request a service from an aquatic,
 water, or swimming creature as if using [demand](ref/spell/demand) or
 [greater planar ally](ref/spell/planar-ally-greater).
 
 **Raise the Deep (Sp)**
 
+**Gained:** At 15th Level
+
 **Ability:** Once per day, you can raise water as per _[control water](ref/spell/control-water),_
 but no water need be present. This created water is stationary and does not flow out of the area
 where you create it; it lasts 1 round per sorcerer level and then disappears.
 
-**Gained:** At 15th Level
-
-**At 20th Level:** The dimensions of the effect are doubled.
+**At 20th level,** the dimensions of the effect are doubled.
 
 **Deep One (Ex)**
+
+**Gained:** At 20th Level
 
 **Ability:** You gain [blindsense](ref/rule/blindsight-and-blindsense) 60 feet and your body is
 covered with fine, slippery scales granting DR 10/piercing, resist cold 20, and continuous
@@ -112,8 +114,6 @@ covered with fine, slippery scales granting DR 10/piercing, resist cold 20, and 
 
 Underwater, you gain evasion and [blindsight](ref/umr/blindsight) 120 feet, and you are immune to
 [pressure damage](ref/rule/water-dangers) from deep water.
-
-**Gained:** At 20th Level
 
 ### Seaborn (Wildblooded Mutation)
 
@@ -133,10 +133,10 @@ You prefer to attack with water rather than to leech it away.
 
 **Gained:** At 1st Level
 
-**Replaces:** Dehydrating touch
-
 **Standard:** You can fire a bolt of water at a foe within 30 feet as a ranged touch attack. The foe
 is knocked [prone](ref/rule/prone), and at your option may be pushed 5 feet directly away from you.
 A reflex save (DC 10 +half your sorcerer level + your Charisma modifier) negates this effect.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**Replaces:** Dehydrating touch

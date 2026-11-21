@@ -50,21 +50,25 @@ its puffy blue face is._
 
 **Experience points:** 100
 
-**Armor class:** 12/12/11
+**Armor class:** 12
 
-**Dr:** 2/cold iron
+**Touch:** 12
 
-**Fort:** +0
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 size
 
 **Hit points:** 3 (1d6)
 
-**Mod:** +1 Dex, +1 size
+**Fort:** +0
 
 **Ref:** +3
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +3
+
+**Dr:** 2/cold iron
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

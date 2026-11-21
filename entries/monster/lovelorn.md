@@ -51,21 +51,25 @@ spider. Blood oozes from the glistening organ._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/16/14
+**Armor class:** 18
 
-**Chan Res:** +2
+**Touch:** 16
 
-**Fort:** +4
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +2 natural, +2 size
 
 **Hit points:** 37 (5d8+15)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +2 natural, +2 size
+**Fort:** +4
 
 **Ref:** +7
 
 **Will:** +6
+
+**Chan Res:** +2
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

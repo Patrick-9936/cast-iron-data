@@ -51,14 +51,14 @@ An oracle with the Intrigue mystery can choose from any of the following revelat
 **Ability:** You can change your appearance at will, as [disguise self](ref/spell/disguise-self)
 with a caster level equal to your oracle level.
 
-**At 11th Level:** The ability lasts until you dismiss it or use it again, allowing you to even keep
+**At 7th level,** you can choose to actually transform, which works the same way but counts as a
+polymorph effect instead of an illusion and doesn't allow a Will save to disbelieve.
+
+**At 11th level,** the ability lasts until you dismiss it or use it again, allowing you to even keep
 it active while you sleep.
 
-**At 15th Level:** When you use this ability as a polymorph effect, you can gain the size bonus to
+**At 15th level,** when you use this ability as a polymorph effect, you can gain the size bonus to
 your ability scores and additional racial abilities as if using [alter self](ref/spell/alter-self).
-
-**At 7th Level:** You can choose to actually transform, which works the same way but counts as a
-polymorph effect instead of an illusion and doesn't allow a Will save to disbelieve.
 
 **Desire Sight (Sp)**
 
@@ -75,7 +75,7 @@ effect.
 minute per oracle level, including forgetting all actions you took during that time, unless it
 succeeds at a Will save (DC 10 + 1/2 your oracle level + your Charisma modifier).
 
-**At 15th Level:** You can use this ability twice per day.
+**At 15th level,** you can use this ability twice per day.
 
 **Prereq:** 7th-level oracle
 
@@ -83,16 +83,16 @@ succeeds at a Will save (DC 10 + 1/2 your oracle level + your Charisma modifier)
 
 **Gossip Guru (Sp)**
 
+**Flavor:** You sit in a web of intrigue like a spider, subtly tracing the course of rumors and
+gossip in order to understand the ties that bind those around you.
+
 **Ability:** You can use the [rumormonger](ref/spell/rumormonger) spell once per day as a
 [spell-like ability](ref/umr/spell-like-abilities), using your oracle level as your caster level.
 Each time you do so, it ends the duration of any previous activation.
 
-**Flavor:** You sit in a web of intrigue like a spider, subtly tracing the course of rumors and
-gossip in order to understand the ties that bind those around you.
+**At 11th level,** you can use this ability three times per day.
 
-**At 11th Level:** You can use this ability three times per day.
-
-**At 15th Level:** You can use it at will.
+**At 15th level,** you can use it at will.
 
 **Prereq:** 7th-level oracle
 
@@ -103,17 +103,17 @@ gossip in order to understand the ties that bind those around you.
 **Ability:** You gain the [Conceal Spell](ref/feat/conceal-spell) feat as a bonus feat without
 needing to meet the prerequisites.
 
-**At 11th Level:** You can even hide the use of [spell completion](ref/misc/spell-completion) items
-using the Conceal Spell feat, though in this case, onlookers receive a +5 bonus on their skill
-checks to pierce your subterfuge.
-
-**At 7th Level:** You can also hide your use of [spell trigger](ref/misc/spell-trigger) items using
+**At 7th level,** you can also hide your use of [spell trigger](ref/misc/spell-trigger) items using
 the Conceal Spell feat, though onlookers receive a +2 bonus on their skill checks to pierce your
 subterfuge.
 
+**At 11th level,** you can even hide the use of [spell completion](ref/misc/spell-completion) items
+using the Conceal Spell feat, though in this case, onlookers receive a +5 bonus on their skill
+checks to pierce your subterfuge.
+
 **Mirrored Retreat (Su)**
 
-**Fullround:** Once per day, your form ripples and releases seven illusory duplicates, as
+**Full-round:** Once per day, your form ripples and releases seven illusory duplicates, as
 [mirror image](ref/spell/mirror-image), and then you can move up to your speed in any direction,
 while the duplicates move in seven other directions. The duplicates continue to retreat in their
 chosen direction, avoiding walls and other barriers but unable to open doors or interact with
@@ -123,11 +123,11 @@ The duplicates last for 1 minute per oracle level or until they take damage (the
 as your touch AC and the same Reflex save as you, and they are immune to effects that allow a
 Fortitude or Will save).
 
+**Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
+
 **Prereq:** 7th-level oracle
 
 **Special:** This is a figment effect.
-
-**Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
 
 **Poetic Vengeance (Su)**
 
@@ -142,16 +142,16 @@ Any damage from the attack is halved, and non-damaging effects have a 50% chance
 non-damaging effect has a DC, the enemy receives a saving throw against it, at either the DC of the
 original effect or the DC of this ability, whichever is lower.
 
-**At 10th Level:** You can use this ability twice per day.
+**At 10th level,** you can use this ability twice per day.
 
-**At 20th Level:** You can use it three times per day.
+**At 20th level,** you can use it three times per day.
 
 **Tracer Touch (Sp)**
 
 **Ability:** Once per day, you can touch a creature or object and plant a scrying sensor on it, as
 if you had cast [vicarious view](ref/spell/vicarious-view).
 
-**At 15th Level:** You can use this ability twice per day.
+**At 15th level,** you can use this ability twice per day.
 
 **Prereq:** 11th-level oracle
 
@@ -159,11 +159,11 @@ if you had cast [vicarious view](ref/spell/vicarious-view).
 
 **Flavor:** The powers of intrigue veil your poisons and magic items from magical scrutiny.
 
-**Special:** You can use this ability at will, but each time you do, the effects of any previous use
-end.
-
 **Standard:** You can touch an object, granting it the benefits of the spells
 [magic aura](ref/spell/magic-aura) and [obscure poison](ref/spell/obscure-poison).
+
+**Special:** You can use this ability at will, but each time you do, the effects of any previous use
+end.
 
 **Whispered Glimpses (Su)**
 
@@ -177,10 +177,10 @@ motives, granting you greater awareness than your own senses could manage.
 
 **Final Revelation**
 
-**Ability:** You can apply [Silent Spell](ref/feat/silent-spell) or
-[Still Spell](ref/feat/still-spell) to any spell you cast without increasing the level or casting
-time. You do not need to possess these feats to use this ability.
+**Gained:** At 20th Level
 
 **Flavor:** You become a master of intrigue.
 
-**Gained:** At 20th Level
+**Ability:** You can apply [Silent Spell](ref/feat/silent-spell) or
+[Still Spell](ref/feat/still-spell) to any spell you cast without increasing the level or casting
+time. You do not need to possess these feats to use this ability.

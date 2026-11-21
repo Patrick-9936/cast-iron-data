@@ -53,23 +53,27 @@ brain._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/4/23
+**Armor class:** 23
+
+**Touch:** 4
+
+**Flat-footed:** 23
+
+**AC modifiers:** -5 Dex, +29 natural, -1 size
+
+**Hit points:** 129 (10d8+84)
+
+**Fort:** +11
+
+**Ref:** -2
+
+**Will:** +6
 
 **Dr:** 5/epic
 
 **Fh:** 5
 
-**Fort:** +11
-
-**Hit points:** 129 (10d8+84)
-
 **Immune:** electricity, [ooze traits](ref/umr/ooze-traits), piercing damage, slashing damage
-
-**Mod:** -5 Dex, +29 natural, -1 size
-
-**Ref:** -2
-
-**Will:** +6
 
 **Offense**
 

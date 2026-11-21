@@ -66,10 +66,6 @@ surroundings, allowing you to study and manipulate the world around you.
 
 **Animal Mastery (Su)**
 
-**At 7th Level:** The mental link becomes stronger. Whenever you share an animal's senses, you can
-control it, as per _[dominate animal](ref/spell/dominate-animal),_ except the duration, Hit Dice
-limit, range, and other conditions listed above apply.
-
 **Standard:** You can project your mind into the mind of an animal you can see, establishing a
 mental link that allows you to share the animal's senses - hearing, seeing, smelling, tasting, and
 touching everything the animal does. You cannot use this ability on an animal if its Hit Dice exceed
@@ -82,6 +78,10 @@ link is immediately severed if the animal moves beyond a range of 1 mile per psy
 
 **Usage:** 3 + Charisma modifier times/day
 
+**At 7th level,** the mental link becomes stronger. Whenever you share an animal's senses, you can
+control it, as per _[dominate animal](ref/spell/dominate-animal),_ except the duration, Hit Dice
+limit, range, and other conditions listed above apply.
+
 **One with Nature (Sp, Su)**
 
 **Ability:** You can cast [detect animals or plants](ref/spell/detect-animals-or-plants) as a
@@ -89,7 +89,7 @@ link is immediately severed if the animal moves beyond a range of 1 mile per psy
 (nature) checks, and while using _[detect animals or plants](ref/spell/detect-animals-or-plants),_
 the bonus increases to +4 to identify a matching animal or plant creature within the area of effect.
 
-**At 7th Level:** You can speak with any animal you successfully identify, as per
+**At 7th level,** you can speak with any animal you successfully identify, as per
 [speak with animals](ref/spell/speak-with-animals), but this ability doesn't make the creature any
 friendlier than normal.
 

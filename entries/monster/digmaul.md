@@ -47,13 +47,17 @@ _This muscular, cougar-like cat has fearsome teeth and a thick tail ending in a 
 
 **Experience points:** 800
 
-**Armor class:** 16/15/11
+**Armor class:** 16
 
-**Fort:** +6
+**Touch:** 15
+
+**Flat-footed:** 11
+
+**AC modifiers:** +5 Dex, +1 natural
 
 **Hit points:** 32 (5d8+10)
 
-**Mod:** +5 Dex, +1 natural
+**Fort:** +6
 
 **Ref:** +9
 

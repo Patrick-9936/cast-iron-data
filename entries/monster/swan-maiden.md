@@ -52,23 +52,27 @@ with a winged helm._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/15/15
+**Armor class:** 20
 
-**Dr:** 5/cold iron
+**Touch:** 15
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +4 armor, +4 Dex, +1 dodge, +1 natural
 
 **Hit points:** 55 (10d6+20)
 
-**Mod:** +4 armor, +4 Dex, +1 dodge, +1 natural
+**Fort:** +5
 
 **Ref:** +12
+
+**Will:** +8
+
+**Dr:** 5/cold iron
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 17
-
-**Will:** +8
 
 **Offense**
 

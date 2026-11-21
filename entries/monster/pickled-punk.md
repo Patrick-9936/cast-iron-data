@@ -48,21 +48,25 @@ _Barely contained in thick glass, this deformed humanoid creature wriggles in it
 
 **Experience points:** 400
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Dr:** 5/bludgeoning
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 11 (2d8+2)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +2 size
+**Fort:** +1
 
 **Ref:** +1
 
 **Will:** +4
+
+**Dr:** 5/bludgeoning
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

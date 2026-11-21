@@ -48,27 +48,31 @@ scales and vicious black barbs._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/9/27
+**Armor class:** 34
+
+**Touch:** 9
+
+**Flat-footed:** 27
+
+**AC modifiers:** +7 Dex, +25 natural, -8 size
+
+**Hit points:** 346 (21d12+210)
+
+**Fort:** +22
+
+**Ref:** +21
+
+**Will:** +18
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, spines
 
 **Dr:** 15/cold iron
 
-**Fort:** +22
-
-**Hit points:** 346 (21d12+210)
-
 **Immune:** curse effects, electricity, mind-affecting effects, paralysis, poison, sleep
-
-**Mod:** +7 Dex, +25 natural, -8 size
-
-**Ref:** +21
 
 **Regen:** 15 (cold iron)
 
 **Sr:** 30
-
-**Will:** +18
 
 **Offense**
 

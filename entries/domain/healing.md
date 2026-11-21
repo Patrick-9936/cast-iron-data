@@ -64,16 +64,16 @@ does not stack with the [Empower Spell](ref/feat/empower-spell) metamagic feat.
 
 **Blessed Surgery (Su)**
 
+**Flavor:** Your divine patron guides your healing hands, allowing you to perform minor miracles
+with mundane cures.
+
 **Ability:** You can use this ability when using the Heal skill in order to roll the check twice and
 take the higher result. When you're using this ability, any use of the Heal skill requiring 1 hour
 instead takes at most 1 minute.
 
-**Flavor:** Your divine patron guides your healing hands, allowing you to perform minor miracles
-with mundane cures.
+**Usage:** 3 + Wisdom modifier times/day
 
 **Replaces:** The rebuke death power of the Healing domain
-
-**Usage:** 3 + Wisdom modifier times/day
 
 **Replacement Domain Spells**
 
@@ -94,13 +94,13 @@ Sekhmet, Selket
 **Flavor:** You can touch a creature, letting the healing power of your deity flow through you to
 relieve the creature of a minor condition.
 
-**Replaces:** The rebuke death power of the Healing domain
-
 **Standard:** Your touch can remove the [dazed](ref/misc/dazed), [fatigued](ref/misc/fatigued),
 [shaken](ref/misc/shaken), [sickened](ref/misc/sickened), or [staggered](ref/misc/staggered)
 condition. You choose which condition is removed.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The rebuke death power of the Healing domain
 
 **Replacement Domain Spells**
 
@@ -121,8 +121,6 @@ Osiris, Osolmyr, Pharasma, Qi Zhong, Sarenrae, Shei, Vildeis
 
 **Gained:** At 8th Level
 
-**Replaces:** The healer's blessing power of the Healing domain
-
 **Standard:** You can touch a creature that has died within the past minute to grant it a few
 moments of life. The dead creature returns to life for a number of rounds equal to your cleric
 level. Creatures returned to life in this way have a number of hit points equal to half your cleric
@@ -131,6 +129,8 @@ the time of their death. At the end of this time, the creature dies again. The c
 act as it sees fit during this time. You are granted no control over it.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The healer's blessing power of the Healing domain
 
 **Replacement Domain Spells**
 
@@ -162,12 +162,12 @@ Irori as being stains on the delicate fabric of the world.
 
 **Exorcise Haunt (Sp)**
 
-**Replaces:** The rebuke death domain power of the Healing domain
-
 **Standard:** You can emit a [burst](ref/misc/burst) of positive energy. Any haunt within 15 feet of
 you takes damage equal to 1d8 + [half](ref/misc/fractions-and-rounding) of your cleric level.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The rebuke death domain power of the Healing domain
 
 ### Deities
 

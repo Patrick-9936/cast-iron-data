@@ -54,13 +54,17 @@ primitive club._
 
 **Experience points:** 1,600
 
-**Armor class:** 16/8/16
+**Armor class:** 16
 
-**Fort:** +7
+**Touch:** 8
+
+**Flat-footed:** 16
+
+**AC modifiers:** -1 Dex, +8 natural, -1 size
 
 **Hit points:** 57 (6d8+30)
 
-**Mod:** -1 Dex, +8 natural, -1 size
+**Fort:** +7
 
 **Ref:** +1
 

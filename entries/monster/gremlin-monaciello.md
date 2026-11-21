@@ -49,21 +49,25 @@ flips a gold coin in its hand._
 
 **Experience points:** 400
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Dr:** 5/cold iron
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 14 (2d6+7)
 
-**Mod:** +2 Dex, +1 size
+**Fort:** +2
 
 **Ref:** +5
 
-**Sr:** 12
-
 **Will:** +4; +4 vs. divine magic
+
+**Dr:** 5/cold iron
+
+**Sr:** 12
 
 **Offense**
 

@@ -55,21 +55,25 @@ eyes twinkle with madness._
 
 **Experience points:** 1,600
 
-**Armor class:** 22/16/17
+**Armor class:** 22
 
-**Fort:** +4
+**Touch:** 16
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 armor, +4 Dex, +1 dodge, +2 natural, +1 size
 
 **Hit points:** 39 (3d8+2d8+17\~5)
 
-**Mod:** +4 armor, +4 Dex, +1 dodge, +2 natural, +1 size
+**Fort:** +4
 
 **Ref:** +8
+
+**Will:** +10
 
 **Sr:** 16
 
 **Weaknesses:** vulnerability to sunlight
-
-**Will:** +10
 
 **Offense**
 

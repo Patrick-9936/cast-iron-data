@@ -54,25 +54,29 @@ _This octopus-like robot has eight tentacles that it uses to repair multiple mac
 
 **Experience points:** 25,600
 
-**Armor class:** 24/14/20
+**Armor class:** 24
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 10
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 20
+
+**AC modifiers:** +3 Dex, +1 dodge, +10 natural
 
 **Hit points:** 124 (16d10+36); force field (65 hp, [fast healing](ref/umr/fast-healing) 13)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +1 dodge, +10 natural
+**Fort:** +5
 
 **Ref:** +10
+
+**Will:** +2
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Vulner:** electricity
 
 **Weaknesses:** vulnerable to critical hits
-
-**Will:** +2
 
 **Offense**
 

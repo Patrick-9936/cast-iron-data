@@ -48,19 +48,23 @@ attack._
 
 **Experience points:** 1,200
 
-**Armor class:** 15/15/11
+**Armor class:** 15
 
-**Fort:** +7
+**Touch:** 15
+
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 size
 
 **Hit points:** 42 (4d8+24)
 
-**Immune:** mind-affecting effects, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +4 Dex, +1 size
+**Fort:** +7
 
 **Ref:** +5
 
 **Will:** +1
+
+**Immune:** mind-affecting effects, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

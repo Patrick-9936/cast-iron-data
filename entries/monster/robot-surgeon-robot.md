@@ -54,23 +54,27 @@ from its body._
 
 **Experience points:** 38,400
 
-**Armor class:** 27/17/20
+**Armor class:** 27
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 10
+**Touch:** 17
 
-**Fort:** +6
+**Flat-footed:** 20
+
+**AC modifiers:** +7 Dex, +10 natural
 
 **Hit points:** 254 (18d10+80\~\~75)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +7 Dex, +10 natural
+**Fort:** +6
 
 **Ref:** +13
 
-**Vulner:** critical hits and electricity
-
 **Will:** +7
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** critical hits and electricity
 
 **Offense**
 

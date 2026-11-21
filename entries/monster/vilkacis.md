@@ -53,7 +53,21 @@ smoldering malevolence._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/19/13
+**Armor class:** 19
+
+**Touch:** 19
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 deflection, +6 Dex
+
+**Hit points:** 85 (10d8+4)
+
+**Fort:** +6
+
+**Ref:** +11
+
+**Will:** +9
 
 **Chan Res:** +2
 
@@ -61,21 +75,11 @@ smoldering malevolence._
 
 **Dr:** 10/silver
 
-**Fort:** +6
-
-**Hit points:** 85 (10d8+4)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +3 deflection, +6 Dex
-
-**Ref:** +11
-
 **Weaknesses:** vulnerability to silver
-
-**Will:** +9
 
 **Offense**
 

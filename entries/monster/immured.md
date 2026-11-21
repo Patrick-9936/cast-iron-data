@@ -50,21 +50,25 @@ breathe._
 
 **Experience points:** 800
 
-**Armor class:** 16/10/16
+**Armor class:** 16
 
-**Fort:** +3
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 natural
 
 **Hit points:** 26 (4d8+8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +6 natural
+**Fort:** +3
 
 **Ref:** +1
 
-**Weaknesses:** bound
-
 **Will:** +5
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Weaknesses:** bound
 
 **Offense**
 

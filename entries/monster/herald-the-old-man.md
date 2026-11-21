@@ -57,29 +57,33 @@ adorned with metal rings._
 
 **Experience points:** 51,200
 
-**Armor class:** 37/35/26
+**Armor class:** 37
 
-**Dr:** 10/chaotic
+**Touch:** 35
+
+**Flat-footed:** 26
+
+**AC modifiers:** +10 Dex, +1 dodge, +4 monk, +10 Wis, +2 natural
+
+**Hit points:** 178 (17d10+85)
 
 **Fort:** +10
 
-**Hit points:** 178 (17d10+85)
+**Ref:** +20
+
+**Will:** +20
+
+**Dr:** 10/chaotic
 
 **Immune:** disease, poison
 
 **Improved evasion:** present
-
-**Mod:** +10 Dex, +1 dodge, +4 monk, +10 Wis, +2 natural
-
-**Ref:** +20
 
 **Regen:** 15 (chaotic)
 
 **Resist:** acid 30, cold 30, electricity 30, fire 30, sonic 30
 
 **Sr:** 26
-
-**Will:** +20
 
 **Offense**
 

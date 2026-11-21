@@ -51,27 +51,31 @@ fanged mouth running vertically across its torso._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/15/16
+**Armor class:** 21
+
+**Touch:** 15
+
+**Flat-footed:** 16
+
+**AC modifiers:** +5 Dex, +6 natural
+
+**Hit points:** 84 (8d10+40)
+
+**Fort:** +11
+
+**Ref:** +11
+
+**Will:** +4
 
 **Defensive abilities:** caustic blood
 
 **Dr:** 5/good
 
-**Fort:** +11
-
-**Hit points:** 84 (8d10+40)
-
 **Immune:** fire, poison
-
-**Mod:** +5 Dex, +6 natural
-
-**Ref:** +11
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 18
-
-**Will:** +4
 
 **Offense**
 

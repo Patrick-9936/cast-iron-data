@@ -50,25 +50,29 @@ _This iguana-headed scholar wears a robe of frills and scales covered in baubles
 
 **Experience points:** 1,200
 
-**Armor class:** 19/15/15
+**Armor class:** 19
 
-**Dr:** 5/evil or silver
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural, +1 size
 
 **Hit points:** 37 (5d10+10)
 
-**Immune:** electricity, petrification
-
-**Mod:** +3 Dex, +1 dodge, +4 natural, +1 size
+**Fort:** +3
 
 **Ref:** +7
+
+**Will:** +7; +4 vs. poison
+
+**Dr:** 5/evil or silver
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 15
-
-**Will:** +7; +4 vs. poison
 
 **Offense**
 

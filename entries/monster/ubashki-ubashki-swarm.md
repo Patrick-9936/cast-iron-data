@@ -47,21 +47,25 @@ abilities = ["5", "17", "-", "2", "10", "15"]
 
 **Experience points:** 600
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Defensive abilities:** half damage from weapons, swarm traits
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +2 size
+**Fort:** +3
 
 **Ref:** +6
 
 **Will:** +3
+
+**Defensive abilities:** half damage from weapons, swarm traits
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

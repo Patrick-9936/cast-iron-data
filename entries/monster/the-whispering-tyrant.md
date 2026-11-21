@@ -57,7 +57,21 @@ by a palpable aura of death._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 46/19/42
+**Armor class:** 46
+
+**Touch:** 19
+
+**Flat-footed:** 42
+
+**AC modifiers:** +8 armor, +5 deflection, +4 Dex, +19 natural
+
+**Hit points:** 392 (20d6+320)
+
+**Fort:** +21
+
+**Ref:** +16
+
+**Will:** +22
 
 **Chan Res:** +12
 
@@ -65,22 +79,12 @@ by a palpable aura of death._
 
 **Dr:** 15/bludgeoning and magic
 
-**Fort:** +21
-
-**Hit points:** 392 (20d6+320)
-
 **Immune:** acid, [channel energy](ref/ability/channel-energy) from non-mythic sources, cold,
 electricity, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +8 armor, +5 deflection, +4 Dex, +19 natural
-
-**Ref:** +16
 
 **Resist:** half damage from positive energy
 
 **Sr:** 42
-
-**Will:** +22
 
 **Offense**
 

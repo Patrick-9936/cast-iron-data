@@ -20,11 +20,11 @@ and swift speed.
 
 **Minor Form**
 
-**At 15th Level:** The bonus becomes +20 feet.
-
-**At 8th Level:** This bonus increases to +10 feet.
-
 **Passive:** You gain an enhancement bonus of +5 feet to your base speed.
+
+**At 8th level,** this bonus increases to +10 feet.
+
+**At 15th level,** the bonus becomes +20 feet.
 
 **Major Form**
 
@@ -33,11 +33,11 @@ space changes to 10 feet. While in this form, you gain a base speed of 50 feet,
 [low-light vision](ref/rule/low-light-vision), [scent](ref/umr/scent) (30 feet), a
 [gore attack](ref/umr/natural-attacks) (1d6 damage), and two hoove attacks (1d4 damage).
 
-**At 15th Level:** You gain the [Awesome Blow](ref/feat/awesome-blow) and
+**At 8th level,** you gain a +4 racial bonus on Acrobatics checks when jumping.
+
+**At 15th level,** you gain the [Awesome Blow](ref/feat/awesome-blow) and
 [Improved Natural Attack](ref/feat/improved-natural-attack) feats for gore attacks, and you can use
 Awesome Blow against a creature of your size or smaller.
-
-**At 8th Level:** You gain a +4 racial bonus on Acrobatics checks when jumping.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

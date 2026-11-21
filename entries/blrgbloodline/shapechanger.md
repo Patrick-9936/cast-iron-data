@@ -43,11 +43,11 @@ Transformative powers in your blood emerge when you _bloodrage._
 
 **Shifting Aspect (Su)**
 
+**Gained:** At 1st Level
+
 **Ability:** You gain the benefit of the [Aspect of the Beast](ref/feat/aspect-of-the-beast) feat
 while _bloodraging._ As part of the action to enter a _bloodrage,_ you can choose any one of the
 four manifestations to affect you for the duration of your _bloodrage._
-
-**Gained:** At 1st Level
 
 **Spontaneous Change (Sp)**
 
@@ -60,30 +60,30 @@ to cast bloodrager spells you know.
 
 **Evolving Aspect (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** You gain _Aspect of the Beast_ as a bonus feat even if you don't meet the
 prerequisites. As normal for the feat, you must choose one of the manifestations, and you gain its
 benefits even while not _bloodraging._ When you enter a _bloodrage,_ you can choose a second
 manifestation to affect you simultaneously for the duration of your _bloodrage._
 
-**Gained:** At 8th Level
-
 **Beastskin (Su)**
+
+**Gained:** At 12th Level
 
 **Ability:** When entering a _bloodrage,_ you can cause your skin to grow thicker and more bestial.
 Your [damage reduction](ref/rule/damage-reduction) from your bloodrager levels increases by 2, but
 it can be bypassed with silver weapons. Your natural attacks (including unarmed strikes) are then
 treated as silver for the purpose of overcoming damage reduction.
 
-**Gained:** At 12th Level
-
 **Shed Skin (Su)**
+
+**Gained:** At 16th Level
 
 **Immediate:** When your _bloodrage_ ends, you can choose one spell or
 [spell-like ability](ref/umr/spell-like-abilities) affecting you and attempt to shake it off.
 Attempt a dispel check (1d20 + your bloodrager level) as if you were casting
 [dispel magic](ref/spell/dispel-magic). If you succeed, the effect is dispelled.
-
-**Gained:** At 16th Level
 
 **True Shapechanger (Su)**
 

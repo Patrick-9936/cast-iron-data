@@ -51,21 +51,25 @@ _This improbably large toad has pale blue flesh and a body covered with jagged, 
 
 **Experience points:** 2,400
 
-**Armor class:** 19/10/18
+**Armor class:** 19
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
 
 **Hit points:** 73 (7d10+35)
 
-**Immune:** cold
-
-**Mod:** +1 Dex, +9 natural, -1 size
+**Fort:** +10
 
 **Ref:** +8
 
-**Vulner:** fire
-
 **Will:** +3
+
+**Immune:** cold
+
+**Vulner:** fire
 
 **Offense**
 

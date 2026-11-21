@@ -29,11 +29,11 @@ whisper in your heart.
 
 **Trap Sense (Ex)**
 
+**Gained:** At 3rd Level
+
 **Ability:** You gain the [trap sense](ref/ability/trap-sense) ability. This is identical to the
 rogue class ability. Your effective rogue level is equal to your druid level for the purpose of
 determining your trap sense bonus. Trap sense bonuses gained from multiple classes stack.
-
-**Gained:** At 3rd Level
 
 **Domain Spells**
 

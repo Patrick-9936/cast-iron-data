@@ -55,29 +55,33 @@ wields a massive, ice-encrusted battleaxe._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/11/31
+**Armor class:** 33
 
-**Dr:** 3/-
+**Touch:** 11
+
+**Flat-footed:** 31
+
+**AC modifiers:** +11 armor, +2 deflection, +2 Dex, +11 natural, -2 rage, -1 size
+
+**Hit points:** 305 (14d8+9d12+184\~23)
 
 **Fort:** +23
 
-**Hit points:** 305 (14d8+9d12+184\~23)
+**Ref:** +9
+
+**Will:** +11
+
+**Dr:** 3/-
 
 **Immune:** cold
 
 **Improved uncanny dodge:** present
-
-**Mod:** +11 armor, +2 deflection, +2 Dex, +11 natural, -2 rage, -1 size
-
-**Ref:** +9
 
 **Rock Ct:** present
 
 **Trap S:** +3
 
 **Vulner:** fire
-
-**Will:** +11
 
 **Offense**
 

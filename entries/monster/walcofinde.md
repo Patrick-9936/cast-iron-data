@@ -48,19 +48,23 @@ patterned with the texture of the structure around it._
 
 **Experience points:** 600
 
-**Armor class:** 14/11/13
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +3 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +3 natural
+**Fort:** +3
 
 **Ref:** +2
 
 **Will:** +4
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

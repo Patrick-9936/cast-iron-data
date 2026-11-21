@@ -48,21 +48,25 @@ _This monstrous caterpillar's dark-scarlet bristles drip with thick, dangerous-l
 
 **Experience points:** 400
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Defensive abilities:** bristles
+**Touch:** 12
 
-**Fort:** +4
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +2 natural, +1 size
 
 **Hit points:** 16 (3d8+3)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +2 natural, +1 size
+**Fort:** +4
 
 **Ref:** +2
 
 **Will:** +1
+
+**Defensive abilities:** bristles
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

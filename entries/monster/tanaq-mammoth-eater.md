@@ -55,21 +55,25 @@ and blackened stone._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/17/27
+**Armor class:** 32
 
-**Fort:** +26
+**Touch:** 17
+
+**Flat-footed:** 27
+
+**AC modifiers:** +5 armor, +4 deflection, +4 Dex, +1 dodge, +10 natural, -2 size
 
 **Hit points:** 312 (15d8+10d8+200\~25)
 
-**Immune:** enchantment and illusion spells, petrification
-
-**Mod:** +5 armor, +4 deflection, +4 Dex, +1 dodge, +10 natural, -2 size
+**Fort:** +26
 
 **Ref:** +16
 
-**Rock Ct:** present
-
 **Will:** +19; +4 vs. movement effects
+
+**Immune:** enchantment and illusion spells, petrification
+
+**Rock Ct:** present
 
 **Offense**
 

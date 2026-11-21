@@ -52,23 +52,27 @@ _This winged, humanoid ascetic's face is bright red and boasts a prodigiously lo
 
 **Experience points:** 9,600
 
-**Armor class:** 26/24/21
+**Armor class:** 26
 
-**Evasion:** present
+**Touch:** 24
 
-**Fort:** +9
+**Flat-footed:** 21
+
+**AC modifiers:** +5 Dex, +3 monk, +2 natural, +6 Wis
 
 **Hit points:** 126 (12d10+60)
 
-**Immune:** disease, mind-affecting effects
-
-**Mod:** +5 Dex, +3 monk, +2 natural, +6 Wis
+**Fort:** +9
 
 **Ref:** +13
 
-**Sr:** 21
-
 **Will:** +14
+
+**Evasion:** present
+
+**Immune:** disease, mind-affecting effects
+
+**Sr:** 21
 
 **Offense**
 

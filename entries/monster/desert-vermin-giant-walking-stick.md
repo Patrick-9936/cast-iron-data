@@ -47,19 +47,23 @@ antenna twitching in the air._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/11/15
+**Armor class:** 17
 
-**Fort:** +9
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +6 natural, -1 size
 
 **Hit points:** 60 (8d8+24)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +4
 
 **Will:** +2
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

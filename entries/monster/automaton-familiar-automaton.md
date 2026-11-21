@@ -51,27 +51,31 @@ glows with a warm light._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/12
+**Armor class:** 14
+
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 natural
+
+**Hit points:** 15 (3d10)
+
+**Fort:** +1
+
+**Ref:** +3
+
+**Will:** +1
 
 **Dr:** 5/adamantine
 
 **Fh:** 2
 
-**Fort:** +1
-
-**Hit points:** 15 (3d10)
-
 **Immune:** [construct traits](ref/umr/construct-traits), electricity
-
-**Mod:** +2 Dex, +2 natural
-
-**Ref:** +3
 
 **Resist:** cold 10, sonic 10
 
 **Weaknesses:** vulnerable mind
-
-**Will:** +1
 
 **Offense**
 

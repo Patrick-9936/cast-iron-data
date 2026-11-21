@@ -52,23 +52,27 @@ piercing blue eyes._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/17
+**Armor class:** 19
+
+**Touch:** 11
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +8 natural, -1 size
+
+**Hit points:** 68 (8d10+24)
+
+**Fort:** +9
+
+**Ref:** +8
+
+**Will:** +7
 
 **Dr:** 5/magic
 
 **Fh:** 5
 
-**Fort:** +9
-
-**Hit points:** 68 (8d10+24)
-
-**Mod:** +2 Dex, +8 natural, -1 size
-
-**Ref:** +8
-
 **Sr:** 17
-
-**Will:** +7
 
 **Offense**
 

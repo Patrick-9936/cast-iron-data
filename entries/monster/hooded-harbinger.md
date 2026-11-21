@@ -52,25 +52,29 @@ dislocated and hanging freely. A hood of the same jaundiced fabric obscures its 
 
 **Experience points:** 19,200
 
-**Armor class:** 27/17/23
+**Armor class:** 27
 
-**Dr:** 10/lawful and slashing
+**Touch:** 17
 
-**Fort:** +12
+**Flat-footed:** 23
+
+**AC modifiers:** +4 Dex, +10 natural, +3 profane
 
 **Hit points:** 161 (17d8+85)
 
-**Immune:** death effects, mind-affecting effects, poison
-
-**Mod:** +4 Dex, +10 natural, +3 profane
+**Fort:** +12
 
 **Ref:** +11
+
+**Will:** +13
+
+**Dr:** 10/lawful and slashing
+
+**Immune:** death effects, mind-affecting effects, poison
 
 **Resist:** cold 10
 
 **Sr:** 23
-
-**Will:** +13
 
 **Offense**
 

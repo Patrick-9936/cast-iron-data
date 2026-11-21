@@ -59,7 +59,21 @@ and its eyes are polished white orbs._
 
 **Experience points:** 51,200
 
-**Armor class:** 27/11/27
+**Armor class:** 27
+
+**Touch:** 11
+
+**Flat-footed:** 27
+
+**AC modifiers:** +6 armor, +2 deflection, -1 Dex, +10 natural
+
+**Hit points:** 178 (14d8+112)
+
+**Fort:** +15
+
+**Ref:** +5
+
+**Will:** +16; +4 vs. fey and plant-targeted effects
 
 **Chan Res:** +4
 
@@ -67,19 +81,9 @@ and its eyes are polished white orbs._
 
 **Dr:** 10/adamantine and bludgeoning
 
-**Fort:** +15
-
-**Hit points:** 178 (14d8+112)
-
 **Immune:** fire, poison, [undead traits](ref/umr/undead-traits)
 
-**Mod:** +6 armor, +2 deflection, -1 Dex, +10 natural
-
-**Ref:** +5
-
 **Resist:** acid 20
-
-**Will:** +16; +4 vs. fey and plant-targeted effects
 
 **Offense**
 

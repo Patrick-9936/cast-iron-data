@@ -18,9 +18,9 @@ group = "witch-hex"
 Anytime the creature makes an ability check, attack roll, saving throw, or skill check, it must roll
 twice and take the worse result.
 
-**At 16th Level:** This hex now lasts for 3 rounds.
+**At 8th level,** the duration becomes 2 rounds.
 
-**At 8th Level:** The duration becomes 2 rounds.
+**At 16th level,** this hex now lasts for 3 rounds.
 
 **Special:** This hex affects all rolls the target must make while it lasts. A Will save negates
 this hex. Whether or not the save is successful, a creature cannot be the target of this hex again

@@ -54,23 +54,27 @@ complete its vile appearance._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/13/18
+**Armor class:** 22
 
-**Dr:** 5/cold iron
+**Touch:** 13
 
-**Fort:** +12
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +1 dodge, +9 natural, -1 size
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** fire, fear effects
-
-**Mod:** +3 Dex, +1 dodge, +9 natural, -1 size
+**Fort:** +12
 
 **Ref:** +7
 
-**Sr:** 19
-
 **Will:** +11
+
+**Dr:** 5/cold iron
+
+**Immune:** fire, fear effects
+
+**Sr:** 19
 
 **Offense**
 

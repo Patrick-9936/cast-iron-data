@@ -52,21 +52,25 @@ club._
 
 **Experience points:** 800
 
-**Armor class:** 17/13/15
+**Armor class:** 17
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 armor, +2 Dex, +2 natural, +1 size
 
 **Hit points:** 25 (3d8+12)
 
-**Mod:** +2 armor, +2 Dex, +2 natural, +1 size
+**Fort:** +5
 
 **Ref:** +3
+
+**Will:** +6
 
 **Sr:** 14
 
 **Weaknesses:** vulnerability to sunlight
-
-**Will:** +6
 
 **Offense**
 

@@ -50,25 +50,29 @@ _This black cat has gray stripes, violet eyes, and an unusual white blaze on its
 
 **Experience points:** 600
 
-**Armor class:** 15/14/13
+**Armor class:** 15
 
-**Dr:** 5/evil or silver
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 natural, +2 size
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** electricity, petrification
-
-**Mod:** +2 Dex, +1 natural, +2 size
+**Fort:** +5
 
 **Ref:** +6
+
+**Will:** +2; +4 vs. poison
+
+**Dr:** 5/evil or silver
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 13
-
-**Will:** +2; +4 vs. poison
 
 **Offense**
 

@@ -14,7 +14,7 @@ group = "rogue-talent"
 
 **Eerie Disappearance (Ex)**
 
-**Fullround:** The rogue can move up to her speed. If she successfully reaches a location that
+**Full-round:** The rogue can move up to her speed. If she successfully reaches a location that
 offers her [cover](ref/rule/cover) or [concealment](ref/rule/concealment), any creature observing
 her must attempt a Perception check opposed by the rogue's Stealth check. On a failed check, the
 observer loses track of the rogue and fails to note where she moved to. The rogue does not take a

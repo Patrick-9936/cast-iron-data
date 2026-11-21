@@ -14,17 +14,17 @@ group = "oracle-curse"
 
 **Powerless Prophecy**
 
-**Benefit:** You gain [uncanny dodge](ref/ability/uncanny-dodge), as the rogue class feature.
-
 **Flavor:** You are forewarned of danger but can't act to prevent it.
 
-**At 10th Level:** You gain [improved uncanny dodge](ref/ability/improved-uncanny-dodge) as the
+**Benefit:** You gain [uncanny dodge](ref/ability/uncanny-dodge), as the rogue class feature.
+
+**At 5th level,** you gain a +4 insight bonus on initiative checks.
+
+**At 10th level,** you gain [improved uncanny dodge](ref/ability/improved-uncanny-dodge) as the
 rogue ability, using your oracle level as your rogue level.
 
-**At 15th Level:** You gain a +4 insight bonus on all your saving throws and to your AC during
+**At 15th level,** you gain a +4 insight bonus on all your saving throws and to your AC during
 surprise rounds and when you are otherwise unaware of an attack.
-
-**At 5th Level:** You gain a +4 insight bonus on initiative checks.
 
 **Penalty:** You can't take any actions in a surprise round, including free actions, except for
 [flash of insight](ref/arc-oracle/cyclopean-seer). In the absence of a surprise round, you are

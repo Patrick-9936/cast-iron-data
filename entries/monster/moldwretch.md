@@ -51,21 +51,25 @@ back that spews clouds of spores._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/17/14
+**Armor class:** 20
 
-**Fh:** 5
+**Touch:** 17
 
-**Fort:** +11
+**Flat-footed:** 14
+
+**AC modifiers:** +6 Dex, +3 natural, +1 size
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +6 Dex, +3 natural, +1 size
+**Fort:** +11
 
 **Ref:** +9
 
 **Will:** +8
+
+**Fh:** 5
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

@@ -50,19 +50,23 @@ snarl._
 
 **Experience points:** 200
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 armor, +2 Dex
 
 **Hit points:** 10 (1d8+2)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +5 armor, +2 Dex
+**Fort:** +3
 
 **Ref:** +2
 
 **Will:** +5
+
+**Immune:** paralysis, sleep
 
 **Offense**
 

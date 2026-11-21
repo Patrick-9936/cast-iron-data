@@ -60,13 +60,13 @@ power does not come without a price.
 
 **Corrupting Touch (Sp)**
 
+**Gained:** At 1st Level
+
 **Ability:** You can cause a creature to become [shaken](ref/misc/shaken) as a melee touch attack.
 This effect persists for a number of rounds equal to half your sorcerer level (minimum 1). Creatures
 shaken by this ability radiate an aura of evil, as if they were an evil outsider (see
 [detect evil](ref/spell/detect-evil)). Multiple touches do not stack, but they do add to the
 duration.
-
-**Gained:** At 1st Level
 
 **Usage:** 3 + Charisma modifier times/day
 
@@ -77,10 +77,12 @@ duration.
 **Passive:** You gain [resist](ref/umr/resistance) fire 5 and a +2 bonus on saving throws made
 against poison.
 
-**At 9th Level:** Your resistance to fire increases to 10 and your bonus on poison saving throws
+**At 9th level,** your resistance to fire increases to 10 and your bonus on poison saving throws
 increases to +4.
 
 **Hellfire (Sp)**
+
+**Gained:** At 9th Level
 
 **Ability:** Once per day, you can call down a column of hellfire. This 10-foot-radius
 [burst](ref/misc/burst) does 1d6 points of fire damage per sorcerer level. Those caught in the area
@@ -88,11 +90,9 @@ of your blast receive a Reflex save for half damage. Good creatures that fail th
 for a number of rounds equal to your sorcerer level. The DC of this save is equal to 10 + half your
 sorcerer level + your Charisma modifier. This power has a range of 60 feet.
 
-**Gained:** At 9th Level
+**At 17th level,** you can use this ability twice per day.
 
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times a day.
+**At 20th level,** you can use this ability three times a day.
 
 **On Dark Wings (Su)**
 
@@ -103,9 +103,9 @@ maneuverability. The wings can be dismissed as a **free action**.
 
 **Power of the Pit (Su)**
 
-**Flavor:** Your form becomes infused with vile power.
-
 **Gained:** At 20th Level
+
+**Flavor:** Your form becomes infused with vile power.
 
 **Passive:** You gain immunity to fire and poison. You also gain resistance to acid 10 and cold 10,
 and the ability to see perfectly in darkness of any kind to a range of 60 feet.
@@ -130,8 +130,8 @@ The crushing weight of evil has given you the strength to endure.
 
 **Passive:** You gain a +2 inherent bonus to your Constitution.
 
+**At 13th level,** this bonus increases to +4.
+
+**At 17th level,** this bonus increases to +6.
+
 **Replaces:** Hellfire
-
-At 13th level: This bonus increases to +4.
-
-At 17th level: This bonus increases to +6.

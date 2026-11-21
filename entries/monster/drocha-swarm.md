@@ -52,21 +52,25 @@ _Hundreds of twisted, distorted faces roil in a miserable cloud, screaming of th
 
 **Experience points:** 3,200
 
-**Armor class:** 20/20/16
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 20
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 deflection, +4 Dex, +2 size
 
 **Hit points:** 76 (9d8+36)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +4 deflection, +4 Dex, +2 size
+**Fort:** +7
 
 **Ref:** +7
 
 **Will:** +8
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

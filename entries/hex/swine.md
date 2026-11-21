@@ -19,5 +19,5 @@ transformation are mostly cosmetic and do not change the creature's size categor
 but the affected creature takes a -2 penalty on Will saving throws for a number of rounds equal to
 the witch's Intelligence modifier (Will negates).
 
-**At 8th Level:** The affected creature's hands (or paws) turn into hooves, preventing it from using
+**At 8th level,** the affected creature's hands (or paws) turn into hooves, preventing it from using
 claw attacks or taking any action that would require the creature to use its fingers.

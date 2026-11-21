@@ -46,13 +46,17 @@ _This regal, bird-winged lion has a human's head, clad in the golden raiment of 
 
 **Experience points:** 6,400
 
-**Armor class:** 23/9/23
+**Armor class:** 23
 
-**Fort:** +12
+**Touch:** 9
+
+**Flat-footed:** 23
+
+**AC modifiers:** +14 natural, -1 size
 
 **Hit points:** 123 (13d10+52)
 
-**Mod:** +14 natural, -1 size
+**Fort:** +12
 
 **Ref:** +8
 

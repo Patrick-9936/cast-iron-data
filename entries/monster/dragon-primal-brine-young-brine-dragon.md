@@ -51,19 +51,23 @@ and fin-like crests._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/11/19
+**Armor class:** 20
 
-**Fort:** +8
+**Touch:** 11
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +9 natural
 
 **Hit points:** 68 (8d12+16)
 
-**Immune:** acid, paralysis, sleep
-
-**Mod:** +1 Dex, +9 natural
+**Fort:** +8
 
 **Ref:** +7
 
 **Will:** +7
+
+**Immune:** acid, paralysis, sleep
 
 **Offense**
 

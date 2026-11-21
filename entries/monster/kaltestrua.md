@@ -56,27 +56,31 @@ flesh, and the skulladorned flails she wields drip black liquid._
 
 **Experience points:** 409,600
 
-**Armor class:** 38/19/32
+**Armor class:** 38
+
+**Touch:** 19
+
+**Flat-footed:** 32
+
+**AC modifiers:** +4 armor, +4 deflection, +6 Dex, +15 natural, -1 size
+
+**Hit points:** 430 (16d10+7d6+318\~23)
+
+**Fort:** +28
+
+**Ref:** +22
+
+**Will:** +19
 
 **Dr:** 10/cold iron and good
 
 **Evasion:** present
 
-**Fort:** +28
-
-**Hit points:** 430 (16d10+7d6+318\~23)
-
 **Immune:** electricity, poison
-
-**Mod:** +4 armor, +4 deflection, +6 Dex, +15 natural, -1 size
-
-**Ref:** +22
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 28
-
-**Will:** +19
 
 **Offense**
 

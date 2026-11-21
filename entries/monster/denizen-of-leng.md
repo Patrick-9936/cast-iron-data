@@ -53,25 +53,29 @@ one studies its twitching visage._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/15/16
+**Armor class:** 21
 
-**Defensive abilities:** no breath, unusual anatomy
+**Touch:** 15
 
-**Fort:** +11
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +1 dodge, +6 natural
 
 **Hit points:** 95 (10d10+40); planar [fast healing](ref/umr/fast-healing) 5
 
-**Immune:** poison
-
-**Mod:** +4 Dex, +1 dodge, +6 natural
+**Fort:** +11
 
 **Ref:** +11
+
+**Will:** +6
+
+**Defensive abilities:** no breath, unusual anatomy
+
+**Immune:** poison
 
 **Resist:** cold 30, electricity 30
 
 **Sr:** 19
-
-**Will:** +6
 
 **Offense**
 

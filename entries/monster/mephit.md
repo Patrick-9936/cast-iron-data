@@ -48,21 +48,25 @@ _This small humanoid creature has thin, leathery wings, small horns, and a misch
 **Subtype:** Varies\
 **Experience points:** 800
 
-**Armor class:** 17/14/14
+**Armor class:** 17
 
-**Dr:** 5/magic
+**Touch:** 14
 
-**Fh:** 2
+**Flat-footed:** 14
 
-**Fort:** +2
+**AC modifiers:** +2 Dex, +1 dodge, +3 natural, +1 size
 
 **Hit points:** 19 (3d10+3)
 
-**Mod:** +2 Dex, +1 dodge, +3 natural, +1 size
+**Fort:** +2
 
 **Ref:** +5
 
 **Will:** +3
+
+**Dr:** 5/magic
+
+**Fh:** 2
 
 **Offense**
 

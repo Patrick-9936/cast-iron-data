@@ -61,11 +61,11 @@ You draw upon the power of your ancestor's self-sacrifice.
 
 **Sacrificial Boon (Su)**
 
+**Gained:** At 1st Level
+
 **Immediate:** You can sacrifice 1 hit point in exchange for a +1 sacred bonus on the next damage
 roll, saving throw, or skill check you make. This bonus only applies as long as you use it by or
 during your next turn - otherwise both your sacrificed hit point and the bonus are wasted.
-
-**Gained:** At 1st Level
 
 **Usage:** 3 + Charisma modifier times/day
 
@@ -78,27 +78,27 @@ ancestor. You and any allies within 30 feet who can hear you gain a +1 morale bo
 damage rolls for a number of rounds equal to [half](ref/misc/fractions-and-rounding) your sorcerer
 level (minimum 1).
 
-At 7th level: This bonus increases to +2.
+**At 7th level,** this bonus increases to +2.
 
-At 11th level: This bonus increases to +3.
+**At 11th level,** this bonus increases to +3.
 
-At 15th level: This bonus increases to +4.
+**At 15th level,** this bonus increases to +4.
 
-At 19th level: This bonus increases to +5.
+**At 19th level,** this bonus increases to +5.
 
 **Gift of Blood (Su)**
 
 **Gained:** At 9th Level
-
-**Special:** You cannot heal your sacrificed hit points until your target has lost its temporary hit
-points.
 
 **Standard:** Once per day, you can choose to sacrifice some of your hit points to grant an ally
 double that number in [temporary hit points](ref/rule/temporary-hit-points). You can sacrifice up to
 your character level in hit points when using this ability. These temporary hit points last up to 1
 minute per sorcerer level.
 
-**At 17th Level:** You can use this ability twice per day.
+**At 17th level,** you can use this ability twice per day.
+
+**Special:** You cannot heal your sacrificed hit points until your target has lost its temporary hit
+points.
 
 **Sacrificial Exchange (Su)**
 
@@ -117,9 +117,9 @@ After this effect ends, you can heal the ability damage normally.
 
 **Eternal Martyr (Su)**
 
-**Flavor:** Your ancestor's act of martyrdom infuses your spirit.
-
 **Gained:** At 20th Level
+
+**Flavor:** Your ancestor's act of martyrdom infuses your spirit.
 
 **Passive:** You become immune to death effects. Material components for spells and effects to bring
 you back to life (such as [raise dead](ref/spell/raise-dead) or
@@ -145,11 +145,11 @@ You never forgive those who wrong you.
 
 **Vengeful Strike (Su)**
 
+**Gained:** At 9th Level
+
 **Immediate:** Once per day, after a foe has damaged you in melee, you can deal the same amount and
 type of damage to your foe (maximum amount of damage equal to double your character level).
 
-**Gained:** At 9th Level
+**At 17th level,** you can use this ability twice per day.
 
 **Replaces:** Gift of Blood
-
-**At 17th Level:** You can use this ability twice per day.

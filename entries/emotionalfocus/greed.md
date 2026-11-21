@@ -43,18 +43,18 @@ grants the spiritualist this bonus on [Spellcraft](ref/skill/spellcraft) check.
 **Ability:** A phantom with this focus threatens a critical hit with its slam attacks on a result of
 19-20.
 
-**At 11th Level:** Its critical multiplier with slam attacks increases to ×3.
+**At 11th level,** its critical multiplier with slam attacks increases to ×3.
 
 **Assume Effect (Su)**
+
+**Gained:** At 7th Level
 
 **Ability:** When the spiritualist casts a spell on herself with a range other than personal, the
 spell can also affect her phantom. The phantom can benefit from this ability once per day.
 
-**At 12th Level:** The phantom can benefit from this twice a day.
+**At 12th level,** the phantom can benefit from this twice a day.
 
-**At 19th Level:** The phantom can benefit from this three times a day.
-
-**Gained:** At 7th Level
+**At 19th level,** the phantom can benefit from this three times a day.
 
 **Covetous Aura (Su)**
 
@@ -70,9 +70,9 @@ spell as if the spell had also targeted it. The intended target still gains the 
 
 **Take It with You (Su)**
 
+**Gained:** At 17th Level
+
 **Ability:** Whenever the phantom is reduced to 0 hit points, a number of harmless spells affecting
 the phantom equal to the phantom's Charisma modifier are immediately transferred to the spiritualist
 for the remainder of their duration. If desired, the spiritualist can transfer only some (or none)
 of the spells affecting the phantom.
-
-**Gained:** At 17th Level

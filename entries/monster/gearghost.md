@@ -48,7 +48,21 @@ above the clanging mess._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/15/17
+**Armor class:** 18
+
+**Touch:** 15
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +3 natural, +2 size
+
+**Hit points:** 52 (7d8+21)
+
+**Fort:** +5
+
+**Ref:** +7
+
+**Will:** +7
 
 **Chan Res:** +4
 
@@ -56,17 +70,7 @@ above the clanging mess._
 
 **Dr:** 5/-
 
-**Fort:** +5
-
-**Hit points:** 52 (7d8+21)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +3 natural, +2 size
-
-**Ref:** +7
-
-**Will:** +7
 
 **Offense**
 

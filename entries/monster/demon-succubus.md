@@ -50,25 +50,29 @@ _Tiny horns, bat-like wings, and a sinuous tail betray the demonic nature of thi
 
 **Experience points:** 3,200
 
-**Armor class:** 20/13/17
+**Armor class:** 20
 
-**Dr:** 10/cold iron or good
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +7 natural
 
 **Hit points:** 84 (8d10+40)
 
-**Immune:** electricity, fire, poison
-
-**Mod:** +3 Dex, +7 natural
+**Fort:** +7
 
 **Ref:** +9
+
+**Will:** +10
+
+**Dr:** 10/cold iron or good
+
+**Immune:** electricity, fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 18
-
-**Will:** +10
 
 **Offense**
 

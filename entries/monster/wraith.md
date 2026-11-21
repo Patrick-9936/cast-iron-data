@@ -57,25 +57,29 @@ its eyes should be._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/18/14
+**Armor class:** 18
 
-**Chan Res:** +2
+**Touch:** 18
+
+**Flat-footed:** 14
+
+**AC modifiers:** +5 deflection, +3 Dex
+
+**Hit points:** 47 (5d8+25)
 
 **Fort:** +6
 
-**Hit points:** 47 (5d8+25)
+**Ref:** +4
+
+**Will:** +6
+
+**Chan Res:** +2
 
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +5 deflection, +3 Dex
-
-**Ref:** +4
-
 **Weaknesses:** sunlight powerlessness
-
-**Will:** +6
 
 **Offense**
 

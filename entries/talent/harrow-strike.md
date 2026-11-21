@@ -20,6 +20,6 @@ attack damage as normal, you deal a number of points of ability damage equal to 
 attack dice. The ability score damaged is the score affiliated with the suit of the harrow card
 drawn.
 
-At 15th level: You can use this 2 times/day.
+**At 15th level,** you can use this 2 times/day.
 
-At 20th level: You can use this 3 times/day.
+**At 20th level,** you can use this 3 times/day.

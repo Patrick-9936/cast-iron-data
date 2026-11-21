@@ -53,32 +53,36 @@ strange shapes twitch._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 44/36/34
+**Armor class:** 44
+
+**Touch:** 36
+
+**Flat-footed:** 34
+
+**AC modifiers:** +4 deflection, +9 Dex, +1 dodge, +8 natural, +12 profane
+
+**Hit points:** 604 (31d10+434)
+
+**Fort:** +28
+
+**Ref:** +32
+
+**Will:** +31; +8 vs. mind-affecting effects
 
 **Defensive abilities:** infernal resurrection, _[mind blank](ref/spell/mind-blank)_
 
 **Dr:** 20/epic, good, and silver
-
-**Fort:** +28
-
-**Hit points:** 604 (31d10+434)
 
 **Immune:** ability damage, ability drain, charm, compulsion, death effects, energy drain, fire,
 petrification, poison
 
 **Improved evasion:** present
 
-**Mod:** +4 deflection, +9 Dex, +1 dodge, +8 natural, +12 profane
-
-**Ref:** +32
-
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, cold 30
 
 **Sr:** 37
-
-**Will:** +31; +8 vs. mind-affecting effects
 
 **Offense**
 

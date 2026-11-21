@@ -54,30 +54,34 @@ diabolic nature._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/39/33
+**Armor class:** 46
+
+**Touch:** 39
+
+**Flat-footed:** 33
+
+**AC modifiers:** +4 deflection, +12 Dex, +1 dodge, +7 natural, +12 profane
+
+**Hit points:** 676 (33d10+495)
+
+**Fort:** +30
+
+**Ref:** +34
+
+**Will:** +34; +8 vs. mind-affecting effects
 
 **Defensive abilities:** gleaming glory, infernal resurrection, _[mind blank](ref/spell/mind-blank)_
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +30
-
-**Hit points:** 676 (33d10+495)
-
 **Immune:** ability damage, ability drain, bleed, charm, compulsion, death effects, disease, energy
 drain, fire, necromancy effects, paralysis, petrification, poison, sleep effects, stunning
-
-**Mod:** +4 deflection, +12 Dex, +1 dodge, +7 natural, +12 profane
-
-**Ref:** +34
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, cold 30
 
 **Sr:** 39
-
-**Will:** +34; +8 vs. mind-affecting effects
 
 **Offense**
 

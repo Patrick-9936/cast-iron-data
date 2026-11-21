@@ -54,27 +54,31 @@ visage. Huge black wings fan behind its back, and flickering black blades burn i
 
 **Experience points:** 819,200
 
-**Armor class:** 42/13/38
+**Armor class:** 42
+
+**Touch:** 13
+
+**Flat-footed:** 38
+
+**AC modifiers:** +10 armor, +3 Dex, +1 dodge, +19 natural, -1 size
+
+**Hit points:** 489 (19d10+9d8+345\~28)
+
+**Fort:** +24
+
+**Ref:** +22
+
+**Will:** +26
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 15/cold iron and good
 
-**Fort:** +24
-
-**Hit points:** 489 (19d10+9d8+345\~28)
-
 **Immune:** death effects, electricity, poison
-
-**Mod:** +10 armor, +3 Dex, +1 dodge, +19 natural, -1 size
-
-**Ref:** +22
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 30
-
-**Will:** +26
 
 **Offense**
 

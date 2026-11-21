@@ -14,7 +14,7 @@ group = "rogue-talent"
 
 **Maneuvering Dodge (Ex)**
 
-**At 8th Level:** This bonus increases to +4.
-
 **Passive:** Whenever a foe of the rogue's size or larger misses the rogue with a melee attack, the
 rogue gains a +2 bonus on any Acrobatics, Climb, Fly, and Swim checks she attempts for 1 round.
+
+**At 8th level,** this bonus increases to +4.

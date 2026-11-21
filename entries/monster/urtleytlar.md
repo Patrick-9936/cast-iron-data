@@ -59,7 +59,21 @@ welcoming._
 
 **Experience points:** 307,200
 
-**Armor class:** 38/28/23
+**Armor class:** 38
+
+**Touch:** 28
+
+**Flat-footed:** 23
+
+**AC modifiers:** +5 deflection, +14 Dex, +1 dodge, +10 natural, -2 size
+
+**Hit points:** 406 (20d8+8d8+280\~28)
+
+**Fort:** +22
+
+**Ref:** +22
+
+**Will:** +27
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -67,23 +81,13 @@ welcoming._
 
 **Fh:** 10
 
-**Fort:** +22
-
-**Hit points:** 406 (20d8+8d8+280\~28)
-
 **Immune:** charm effects, cold, confusion and insanity effects
 
 **Improved evasion:** present
 
-**Mod:** +5 deflection, +14 Dex, +1 dodge, +10 natural, -2 size
-
-**Ref:** +22
-
 **Resist:** acid 20, fire 20
 
 **Sr:** 31
-
-**Will:** +27
 
 **Offense**
 

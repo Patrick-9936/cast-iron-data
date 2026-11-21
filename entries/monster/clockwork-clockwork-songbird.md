@@ -50,21 +50,25 @@ _This gilded mechanical bird produces melodious songs from its complex clockwork
 
 **Experience points:** 200
 
-**Armor class:** 17/17/12
+**Armor class:** 17
 
-**Fort:** +0
+**Touch:** 17
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 dodge, +2 size
 
 **Hit points:** 5 (1d10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +2 dodge, +2 size
+**Fort:** +0
 
 **Ref:** +5
 
-**Vulner:** electricity
-
 **Will:** +0
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

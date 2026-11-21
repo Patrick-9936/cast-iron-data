@@ -14,6 +14,9 @@ group = "alchemist-discovery"
 
 **Substantiating Bomb**
 
+**Flavor:** Your bombs are infused with ectoplasm and a longing for life, lending ethereal creatures
+a measure of substance.
+
 **Ability:** You can throw a bomb that inflicts no damage but instead creates a 10-foot-radius cloud
 of fog that functions as [fog cloud](ref/spell/fog-cloud) and lasts for 1 round per alchemist level.
 Incorporeal creatures that pass through this cloud become partially solid, taking half damage from
@@ -23,8 +26,5 @@ smoke cloud, even if the incorporeal creature moves outside the cloud's area.
 
 A creature affected by the cloud can attempt a Will saving throw to negate the substantiating
 effects of this bomb.
-
-**Flavor:** Your bombs are infused with ectoplasm and a longing for life, lending ethereal creatures
-a measure of substance.
 
 **Prereq:** 10th-level alchemist

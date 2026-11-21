@@ -47,13 +47,17 @@ its victims._
 
 **Experience points:** 1,600
 
-**Armor class:** 15/11/13
+**Armor class:** 15
 
-**Fort:** +9
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +4 natural, -1 size
 
 **Hit points:** 60 (8d8+24)
 
-**Mod:** +2 Dex, +4 natural, -1 size
+**Fort:** +9
 
 **Ref:** +8
 

@@ -22,9 +22,9 @@ giant wasp's alternate attack is sting (P).
 
 **Passive:** You gain a +4 bonus on Will saves against mind-affecting affects.
 
-At 8th level: The bonus increases to +6.
+**At 8th level,** the bonus increases to +6.
 
-At 15th level: The bonus increases to +8.
+**At 15th level,** the bonus increases to +8.
 
 **Major Form**
 

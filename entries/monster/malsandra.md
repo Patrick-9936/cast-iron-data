@@ -56,29 +56,33 @@ with arcane energy._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/23/21
+**Armor class:** 31
+
+**Touch:** 23
+
+**Flat-footed:** 21
+
+**AC modifiers:** +3 deflection, +9 Dex, +1 dodge, +8 natural
+
+**Hit points:** 212 (20d6+4d8+124\~24)
+
+**Fort:** +14
+
+**Ref:** +25
+
+**Will:** +15
 
 **Dr:** 15/cold iron
 
 **Evasion:** present
 
-**Fort:** +14
-
-**Hit points:** 212 (20d6+4d8+124\~24)
-
 **Immune:** fire
-
-**Mod:** +3 deflection, +9 Dex, +1 dodge, +8 natural
-
-**Ref:** +25
 
 **Sr:** 27
 
 **Trap S:** +1
 
 **Uncanny dodge:** present
-
-**Will:** +15
 
 **Offense**
 

@@ -58,26 +58,30 @@ form._
 
 **Experience points:** 51,200
 
-**Armor class:** 27/27/18
+**Armor class:** 27
+
+**Touch:** 27
+
+**Flat-footed:** 18
+
+**AC modifiers:** +8 deflection, +8 Dex, +1 dodge
+
+**Hit points:** 195 (17d10+102)
 
 **Fort:** +18
 
-**Hit points:** 195 (17d10+102)
+**Ref:** +13
+
+**Will:** +17; +2 vs. chaos/evil/good/law
 
 **Immune:** poison
 
 **Incorporeal:** present
 
-**Mod:** +8 deflection, +8 Dex, +1 dodge
-
-**Ref:** +13
-
 **Resist:** acid 30, cold 30, divine power 30 (such as from
 _[flame strike](ref/spell/flame-strike)_), electricity 30, fire 30, sonic 30
 
 **Sr:** 31
-
-**Will:** +17; +2 vs. chaos/evil/good/law
 
 **Offense**
 

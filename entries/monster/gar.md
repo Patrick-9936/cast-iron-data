@@ -49,13 +49,17 @@ _This long, lean fish has a muscular body and a head with long jaws filled with 
 
 **Experience points:** 400
 
-**Armor class:** 12/12/11
+**Armor class:** 12
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 natural
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +2 Dex, +1 natural
+**Fort:** +5
 
 **Ref:** +5
 

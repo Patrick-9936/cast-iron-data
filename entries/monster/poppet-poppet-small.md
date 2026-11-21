@@ -44,21 +44,25 @@ abilities = ["12", "12", "-", "-", "5", "1"]
 
 **Experience points:** 200
 
-**Armor class:** 12/12/11
+**Armor class:** 12
 
-**Fort:** +0
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 size
 
 **Hit points:** 15 (1d10+10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +1 size
+**Fort:** +0
 
 **Ref:** +1
 
-**Vulner:** fire
-
 **Will:** -3
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** fire
 
 **Offense**
 

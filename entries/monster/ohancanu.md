@@ -48,21 +48,25 @@ of shaggy hair, and the lower half of his face is obscured by a bristly, dark be
 
 **Experience points:** 1,600
 
-**Armor class:** 17/11/15
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 11
 
-**Fort:** +6
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +6 natural, -1 size
 
 **Hit points:** 52 (7d6+28)
 
-**Mod:** +2 Dex, +6 natural, -1 size
+**Fort:** +6
 
 **Ref:** +7
 
-**Weaknesses:** white hairs
-
 **Will:** +7
+
+**Dr:** 5/cold iron
+
+**Weaknesses:** white hairs
 
 **Offense**
 

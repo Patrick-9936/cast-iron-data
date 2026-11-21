@@ -48,13 +48,17 @@ come apart at the edges._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/14
+**Armor class:** 15
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +3 natural, +1 size
 
 **Hit points:** 30 (4d10+8)
 
-**Mod:** +1 Dex, +3 natural, +1 size
+**Fort:** +3
 
 **Ref:** +5
 

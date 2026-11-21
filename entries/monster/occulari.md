@@ -52,23 +52,27 @@ from each eyelid, forming makeshift fanged maws._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/20/14
+**Armor class:** 20
 
-**Defensive abilities:** swarm traits
+**Touch:** 20
 
-**Fort:** +8
+**Flat-footed:** 14
+
+**AC modifiers:** +5 Dex, +1 dodge, +4 size
 
 **Hit points:** 82 (11d8+33)
 
-**Immune:** weapon damage
-
-**Mod:** +5 Dex, +1 dodge, +4 size
+**Fort:** +8
 
 **Ref:** +10
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +10
+
+**Defensive abilities:** swarm traits
+
+**Immune:** weapon damage
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

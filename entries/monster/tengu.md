@@ -52,13 +52,17 @@ _Black feathers cover this crow-headed humanoid, and its hands and legs end in p
 **Subtype:** Tengu\
 **Experience points:** 200
 
-**Armor class:** 15/13/12
+**Armor class:** 15
 
-**Fort:** +1
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 armor, +3 Dex
 
 **Hit points:** 9 (1d8+1)
 
-**Mod:** +2 armor, +3 Dex
+**Fort:** +1
 
 **Ref:** +5
 

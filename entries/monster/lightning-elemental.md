@@ -49,19 +49,23 @@ charged with bolts of lightning._
 
 **Experience points:** 400
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 natural, +1 size
 
 **Hit points:** 11 (2d10)
 
-**Immune:** electricity, elemental traits
-
-**Mod:** +2 Dex, +1 natural, +1 size
+**Fort:** +3
 
 **Ref:** +5
 
 **Will:** +0
+
+**Immune:** electricity, elemental traits
 
 **Offense**
 
@@ -146,19 +150,23 @@ stink of ozone.
 
 **Experience points:** 800
 
-**Armor class:** 16/15/11
+**Armor class:** 16
 
-**Fort:** +5
+**Touch:** 15
+
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 dodge, +1 natural
 
 **Hit points:** 26 (4d10+4)
 
-**Immune:** electricity, elemental traits
-
-**Mod:** +4 Dex, +1 dodge, +1 natural
+**Fort:** +5
 
 **Ref:** +8
 
 **Will:** +1
+
+**Immune:** electricity, elemental traits
 
 **Offense**
 
@@ -207,21 +215,25 @@ Bonus feat.
 
 **Experience points:** 1,600
 
-**Armor class:** 18/16/11
+**Armor class:** 18
 
-**Dr:** 5/-
+**Touch:** 16
 
-**Fort:** +8
+**Flat-footed:** 11
+
+**AC modifiers:** +6 Dex, +1 dodge, +2 natural, -1 size
 
 **Hit points:** 60 (8d10+16)
 
-**Immune:** electricity, elemental traits
-
-**Mod:** +6 Dex, +1 dodge, +2 natural, -1 size
+**Fort:** +8
 
 **Ref:** +12
 
 **Will:** +2
+
+**Dr:** 5/-
+
+**Immune:** electricity, elemental traits
 
 **Offense**
 
@@ -274,21 +286,25 @@ Bonus feat.
 
 **Experience points:** 3,200
 
-**Armor class:** 19/17/10
+**Armor class:** 19
 
-**Dr:** 5/-
+**Touch:** 17
 
-**Fort:** +10
+**Flat-footed:** 10
+
+**AC modifiers:** +8 Dex, +1 dodge, +2 natural, -2 size
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** electricity, elemental traits
-
-**Mod:** +8 Dex, +1 dodge, +2 natural, -2 size
+**Fort:** +10
 
 **Ref:** +15
 
 **Will:** +5
+
+**Dr:** 5/-
+
+**Immune:** electricity, elemental traits
 
 **Offense**
 
@@ -341,21 +357,25 @@ Bonus feat.
 
 **Experience points:** 6,400
 
-**Armor class:** 22/18/12
+**Armor class:** 22
 
-**Dr:** 10/-
+**Touch:** 18
 
-**Fort:** +11
+**Flat-footed:** 12
+
+**AC modifiers:** +9 Dex, +1 dodge, +4 natural, -2 size
 
 **Hit points:** 110 (13d10+39)
 
-**Immune:** electricity, elemental traits
-
-**Mod:** +9 Dex, +1 dodge, +4 natural, -2 size
+**Fort:** +11
 
 **Ref:** +17
 
 **Will:** +6
+
+**Dr:** 10/-
+
+**Immune:** electricity, elemental traits
 
 **Offense**
 
@@ -410,21 +430,25 @@ Bonus feat.
 
 **Experience points:** 12,800
 
-**Armor class:** 25/19/14
+**Armor class:** 25
 
-**Dr:** 10/-
+**Touch:** 19
 
-**Fort:** +13
+**Flat-footed:** 14
+
+**AC modifiers:** +10 Dex, +1 dodge, +6 natural, -2 size
 
 **Hit points:** 136 (16d10+48)
 
-**Immune:** electricity, elemental traits
-
-**Mod:** +10 Dex, +1 dodge, +6 natural, -2 size
+**Fort:** +13
 
 **Ref:** +20
 
 **Will:** +7
+
+**Dr:** 10/-
+
+**Immune:** electricity, elemental traits
 
 **Offense**
 

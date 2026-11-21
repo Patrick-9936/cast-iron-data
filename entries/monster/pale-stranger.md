@@ -51,25 +51,29 @@ smells of old decay._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/19/19
+**Armor class:** 25
+
+**Touch:** 19
+
+**Flat-footed:** 19
+
+**AC modifiers:** +2 armor, +5 Dex, +1 dodge, +3 luck, +4 natural
+
+**Hit points:** 127 (15d8+60)
+
+**Fort:** +9
+
+**Ref:** +10
+
+**Will:** +13
 
 **Chan Res:** +4
 
 **Dr:** 10/bludgeoning and magic
 
-**Fort:** +9
-
-**Hit points:** 127 (15d8+60)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +2 armor, +5 Dex, +1 dodge, +3 luck, +4 natural
-
-**Ref:** +10
-
 **Sr:** 21
-
-**Will:** +13
 
 **Offense**
 

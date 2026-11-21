@@ -49,25 +49,29 @@ _This muscular, violet demon walks upon elephantine feet. Large, razor-sharp hor
 
 **Experience points:** 9,600
 
-**Armor class:** 25/11/24
+**Armor class:** 25
 
-**Dr:** 10/good
+**Touch:** 11
 
-**Fort:** +10
+**Flat-footed:** 24
+
+**AC modifiers:** +1 Dex, +14 natural
 
 **Hit points:** 125 (10d10+70)
 
-**Immune:** electricity, poison
-
-**Mod:** +1 Dex, +14 natural
+**Fort:** +10
 
 **Ref:** +8
+
+**Will:** +10
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 21
-
-**Will:** +10
 
 **Offense**
 

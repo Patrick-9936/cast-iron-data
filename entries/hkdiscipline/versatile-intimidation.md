@@ -19,7 +19,7 @@ skill. Choose one of the following: Bluff, Diplomacy, Handle Animal, or Perform 
 the Hellknight wishes to use that skill, she can attempt an Intimidate check and treat it as if it
 were a check of the desired type.
 
-**At 9th Level:** The Hellknight can choose an additional skill from the list above and use
+**At 9th level,** the Hellknight can choose an additional skill from the list above and use
 Intimidate to reproduce its effects.
 
 **Order:** Any order

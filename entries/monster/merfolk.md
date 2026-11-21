@@ -57,13 +57,17 @@ slender fish._
 
 **Experience points:** 135
 
-**Armor class:** 13/11/12
+**Armor class:** 13
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 natural
 
 **Hit points:** 7 (1d10+2)
 
-**Mod:** +1 Dex, +2 natural
+**Fort:** +4
 
 **Ref:** +1
 

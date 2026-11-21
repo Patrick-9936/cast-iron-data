@@ -55,25 +55,29 @@ as scattered pieces of armor. She wields a wicked two-pronged blade._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/13/19
+**Armor class:** 22
 
-**Dr:** 5/good or silver
+**Touch:** 13
 
-**Fort:** +13
+**Flat-footed:** 19
+
+**AC modifiers:** +7 armor, +2 Dex, +1 dodge, +2 natural
 
 **Hit points:** 104 (7d8+3d10+57\~10)
 
-**Immune:** death effects, disease, fear, level drain
-
-**Mod:** +7 armor, +2 Dex, +1 dodge, +2 natural
+**Fort:** +13
 
 **Ref:** +8
+
+**Will:** +9
+
+**Dr:** 5/good or silver
+
+**Immune:** death effects, disease, fear, level drain
 
 **Resist:** acid 10
 
 **Sr:** 14
-
-**Will:** +9
 
 **Offense**
 

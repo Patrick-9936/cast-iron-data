@@ -49,21 +49,25 @@ head of a long-snouted canine. Ruby gems sparkle in its eye sockets._
 
 **Experience points:** 25,600
 
-**Armor class:** 29/9/27
+**Armor class:** 29
 
-**Dr:** 15/adamantine
+**Touch:** 9
 
-**Fort:** +7
+**Flat-footed:** 27
+
+**AC modifiers:** +1 Dex, +19 natural, -1 size
 
 **Hit points:** 151 (22d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), fire
-
-**Mod:** +1 Dex, +19 natural, -1 size
+**Fort:** +7
 
 **Ref:** +8
 
 **Will:** +10
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), fire
 
 **Offense**
 

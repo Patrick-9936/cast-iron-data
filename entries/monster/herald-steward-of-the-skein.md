@@ -58,27 +58,31 @@ glowing eyes._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/23/27
+**Armor class:** 31
+
+**Touch:** 23
+
+**Flat-footed:** 27
+
+**AC modifiers:** +4 deflection, +3 Dex, +1 dodge, +5 insight, +8 natural
+
+**Hit points:** 199 (19d10+95)
+
+**Fort:** +15
+
+**Ref:** +20
+
+**Will:** +22
 
 **Dr:** 10/adamantine
 
 **Fh:** 5
 
-**Fort:** +15
-
-**Hit points:** 199 (19d10+95)
-
 **Immune:** death effects, disease, electricity, mental control, poison, possession
-
-**Mod:** +4 deflection, +3 Dex, +1 dodge, +5 insight, +8 natural
-
-**Ref:** +20
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 26
-
-**Will:** +22
 
 **Offense**
 

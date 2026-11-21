@@ -50,19 +50,23 @@ its is expression lost and forlorn._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +5 natural
 
 **Hit points:** 37 (5d8+15)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +5 natural
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +7
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

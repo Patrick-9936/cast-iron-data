@@ -14,7 +14,7 @@ group = "vigilante-talent"
 
 **Swamp Concoctions (Ex)**
 
-**Fullround:** Twice per day, the vigilante can use the _environmental weapon_ vigilante talent to
+**Full-round:** Twice per day, the vigilante can use the _environmental weapon_ vigilante talent to
 improvise an alchemical weapon worth no more than 15 gp per vigilante level. This improvised weapon
 cannot be sold and must be used within 3 rounds before it becomes inert.
 

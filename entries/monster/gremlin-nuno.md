@@ -48,21 +48,25 @@ frames his toothless grin._
 
 **Experience points:** 200
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Defensive abilities:** ant affinity
+**Touch:** 14
 
-**Dr:** 2/cold iron
+**Flat-footed:** 12
 
-**Fort:** +0
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 3 (1d6)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +0
 
 **Ref:** +4
 
 **Will:** +4
+
+**Defensive abilities:** ant affinity
+
+**Dr:** 2/cold iron
 
 **Offense**
 

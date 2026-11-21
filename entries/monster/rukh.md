@@ -49,13 +49,17 @@ _This gigantic two-headed vulture has greasy, night-black wings and sharp talons
 
 **Experience points:** 9,600
 
-**Armor class:** 23/8/21
+**Armor class:** 23
 
-**Fort:** +14
+**Touch:** 8
+
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +15 natural, -4 size
 
 **Hit points:** 147 (14d10+70)
 
-**Mod:** +2 Dex, +15 natural, -4 size
+**Fort:** +14
 
 **Ref:** +11
 

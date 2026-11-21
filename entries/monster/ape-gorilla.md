@@ -46,13 +46,17 @@ legs and knuckles._
 
 **Experience points:** 600
 
-**Armor class:** 14/11/12
+**Armor class:** 14
 
-**Fort:** +7
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +3 natural, -1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +2 Dex, +3 natural, -1 size
+**Fort:** +7
 
 **Ref:** +5
 

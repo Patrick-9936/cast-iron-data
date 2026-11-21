@@ -55,23 +55,27 @@ figure._
 
 **Experience points:** 800
 
-**Armor class:** 15/11/14
+**Armor class:** 15
+
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 natural
+
+**Hit points:** 30 (4d10+8)
+
+**Fort:** +6
+
+**Ref:** +5
+
+**Will:** +3
 
 **Amorph:** present
 
 **Dr:** 10/bludgeoning
 
-**Fort:** +6
-
-**Hit points:** 30 (4d10+8)
-
 **Immune:** [elemental](ref/subtype/elemental) traits
-
-**Mod:** +1 Dex, +4 natural
-
-**Ref:** +5
-
-**Will:** +3
 
 **Offense**
 

@@ -14,7 +14,7 @@ group = "vigilante-talent"
 
 **Vortex Splash (Ex)**
 
-**Fullround:** When in rain or waist deep in water, the vigilante can make a whirling splash,
+**Full-round:** When in rain or waist deep in water, the vigilante can make a whirling splash,
 allowing him to attempt a single [dirty trick](ref/rule/dirty-trick) combat maneuver or
 [feint](ref/rule/feint) against each adjacent foe. The vigilante can make a separate choice for each
 target.

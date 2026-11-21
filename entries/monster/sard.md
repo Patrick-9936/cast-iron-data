@@ -53,7 +53,21 @@ dance in the cracks of its bark._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/10/26
+**Armor class:** 34
+
+**Touch:** 10
+
+**Flat-footed:** 26
+
+**AC modifiers:** +8 Dex, +24 natural, -8 size
+
+**Hit points:** 333 (23d8+230)
+
+**Fort:** +23
+
+**Ref:** +17
+
+**Will:** +13
 
 **Defensive abilities:** death throes, electrical jolt
 
@@ -61,23 +75,13 @@ dance in the cracks of its bark._
 
 **Fh:** 10
 
-**Fort:** +23
-
-**Hit points:** 333 (23d8+230)
-
 **Immune:** electricity, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +8 Dex, +24 natural, -8 size
-
-**Ref:** +17
 
 **Resist:** cold 30, fire 30
 
 **Sr:** 30
 
 **Vulner:** sonic
-
-**Will:** +13
 
 **Offense**
 

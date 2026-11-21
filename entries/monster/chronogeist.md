@@ -53,23 +53,27 @@ a twisted mask of confusion and terror and its vestments surround it like a ghos
 
 **Experience points:** 38,400
 
-**Armor class:** 29/29/17
+**Armor class:** 29
 
-**Chan Res:** +4
+**Touch:** 29
 
-**Fort:** +13
+**Flat-footed:** 17
+
+**AC modifiers:** +7 deflection, +11 Dex, +1 dodge
 
 **Hit points:** 207 (18d8+126)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +7 deflection, +11 Dex, +1 dodge
+**Fort:** +13
 
 **Ref:** +17
 
 **Will:** +17
+
+**Chan Res:** +4
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

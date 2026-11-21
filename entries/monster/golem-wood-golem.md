@@ -47,23 +47,27 @@ _This human-sized automaton resembles a crude humanoid figure made of cast-off p
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Dr:** 5/adamantine
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 64 (8d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +2
 
 **Ref:** +5
 
-**Vulner:** fire
-
 **Will:** +5
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
+
+**Vulner:** fire
 
 **Offense**
 

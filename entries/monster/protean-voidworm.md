@@ -52,25 +52,29 @@ heat._
 
 **Experience points:** 600
 
-**Armor class:** 15/15/12
+**Armor class:** 15
+
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
+
+**Hit points:** 16 (3d10)
+
+**Fort:** +1
+
+**Ref:** +6
+
+**Will:** +2
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Fh:** 2
 
-**Fort:** +1
-
-**Hit points:** 16 (3d10)
-
 **Immune:** acid
 
-**Mod:** +3 Dex, +2 size
-
-**Ref:** +6
-
 **Resist:** electricity 10, sonic 10
-
-**Will:** +2
 
 **Offense**
 

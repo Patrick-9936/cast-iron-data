@@ -51,21 +51,25 @@ _A prickly cactus's arms are covered in vicious spines._
 
 **Experience points:** 600
 
-**Armor class:** 14/13/12
+**Armor class:** 14
 
-**Defensive abilities:** needly skin
+**Touch:** 13
 
-**Fort:** +5
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 natural, +1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
-
-**Mod:** +2 Dex, +1 natural, +1 size
+**Fort:** +5
 
 **Ref:** +3
 
 **Will:** +3
+
+**Defensive abilities:** needly skin
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
 
 **Offense**
 

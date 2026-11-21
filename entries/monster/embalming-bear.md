@@ -47,21 +47,25 @@ pungent chemical fluid._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/8/20
+**Armor class:** 20
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 5
+**Touch:** 8
 
-**Fort:** +2
+**Flat-footed:** 20
+
+**AC modifiers:** -1 Dex, +12 natural, -1 size
 
 **Hit points:** 74 (8d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** -1 Dex, +12 natural, -1 size
+**Fort:** +2
 
 **Ref:** +1
 
 **Will:** +2
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 5
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

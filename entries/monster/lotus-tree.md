@@ -54,25 +54,29 @@ scent._
 
 **Experience points:** 307,200
 
-**Armor class:** 39/12/33
+**Armor class:** 39
+
+**Touch:** 12
+
+**Flat-footed:** 33
+
+**AC modifiers:** +6 Dex, +27 natural, -4 size
+
+**Hit points:** 356 (23d8+253)
+
+**Fort:** +23
+
+**Ref:** +15
+
+**Will:** +19
 
 **Dr:** 15/cold iron and slashing
 
 **Fh:** 15
 
-**Fort:** +23
-
-**Hit points:** 356 (23d8+253)
-
 **Immune:** daze, [plant traits](ref/umr/plant-traits)
 
-**Mod:** +6 Dex, +27 natural, -4 size
-
-**Ref:** +15
-
 **Resist:** cold 30, electricity 30, fire 30
-
-**Will:** +19
 
 **Offense**
 

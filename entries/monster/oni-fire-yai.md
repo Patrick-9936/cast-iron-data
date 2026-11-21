@@ -52,25 +52,29 @@ ember._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/10/28
+**Armor class:** 29
 
-**Fort:** +18
+**Touch:** 10
+
+**Flat-footed:** 28
+
+**AC modifiers:** +8 armor, +1 Dex, +11 natural, -1 size
 
 **Hit points:** 229 (17d10+136)
 
-**Immune:** fire
-
-**Mod:** +8 armor, +1 Dex, +11 natural, -1 size
+**Fort:** +18
 
 **Ref:** +10
+
+**Will:** +15
+
+**Immune:** fire
 
 **Regen:** 5 (acid or cold)
 
 **Sr:** 26
 
 **Vulner:** cold
-
-**Will:** +15
 
 **Offense**
 

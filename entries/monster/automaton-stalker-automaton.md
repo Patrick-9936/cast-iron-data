@@ -51,29 +51,33 @@ head constantly shift in color._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/13/15
+**Armor class:** 18
+
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +5 natural
+
+**Hit points:** 53 (6d10+20)
+
+**Fort:** +1
+
+**Ref:** +4
+
+**Will:** +3
 
 **Dr:** 5/magic
 
 **Fh:** 5
 
-**Fort:** +1
-
-**Hit points:** 53 (6d10+20)
-
 **Immune:** [construct traits](ref/umr/construct-traits), electricity
-
-**Mod:** +3 Dex, +5 natural
-
-**Ref:** +4
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 16
 
 **Weaknesses:** vulnerable mind
-
-**Will:** +3
 
 **Offense**
 

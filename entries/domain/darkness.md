@@ -45,10 +45,10 @@ lasts for a number of rounds equal to 1/2 your cleric level (minimum 1).
 
 **Eyes of Darkness (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** Your vision is not impaired by lighting conditions, even in absolute darkness and magic
 darkness.
-
-**Gained:** At 8th Level
 
 **Usage:** 1/2 cleric level rounds/day; these rounds need not be consecutive
 
@@ -76,8 +76,6 @@ the Dark), Rahu, Reymenda, Set, Shawnari, Shivaska, Sifkesh, Slandrais, Tresmalv
 
 **Gained:** At 8th Level
 
-**Replaces:** The eyes of darkness power of the Darkness domain
-
 **Standard:** You can emit a 30-foot aura of forgetfulness. Creatures you target in this area must
 make a Will save or have no memory of any time spent inside the area. In addition, spellcasters in
 the area lose one prepared spell or available spell slot per round spent in the area, starting with
@@ -85,6 +83,8 @@ the area lose one prepared spell or available spell slot per round spent in the 
 round to negate this loss (this save is separate from the memory loss save).
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The eyes of darkness power of the Darkness domain
 
 **Replacement Domain Spells**
 
@@ -106,14 +106,14 @@ Nocticula (Redeemed), Tanagaar, Thoth, Tsukiyo, Yan-gant-y-tan
 
 **Gained:** At 8th Level
 
-**Replaces:** The eyes of darkness power of the Darkness domain
-
 **Standard:** You can shoot a blast of divine moonlight from your eyes as a ranged touch attack
 against a single target within 30 feet. Moonfire deals 1d8 points of damage per 2 class levels you
 have, and the target is [dazzled](ref/misc/dazzled) for 1 round per class level you have. Moonfire
 deals 1d10 points of damage per class level you have against lycanthropes.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The eyes of darkness power of the Darkness domain
 
 **Replacement Domain Spells**
 
@@ -134,14 +134,14 @@ Yog-Sothoth, Zon-Kuthon
 
 **Night Hunter (Su)**
 
-**Replaces:** The touch of darkness power of the Darkness domain
-
 **Standard:** You can blend into the shadows of the night, becoming nearly invisible. As long as you
 are in an area of dim light or darkness, you are invisible (as per
 [invisibility](ref/spell/invisibility)) to creatures without darkvision. This ability lasts for a
 number of rounds equal to 1/2 your cleric level (minimum 1).
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of darkness power of the Darkness domain
 
 **Replacement Domain Spells**
 
@@ -165,9 +165,9 @@ distracting your enemies. You force a target within 30 feet to reroll a miss cha
 target of this ability must keep the result of the second roll, even if it is worse than the
 original roll.
 
-**Replaces:** The touch of darkness ability of the Darkness domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of darkness ability of the Darkness domain
 
 **Replacement Domain Spells**
 

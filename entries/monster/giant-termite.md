@@ -49,21 +49,25 @@ _This pony-sized insect has long black mandibles and a banded abdomen of white._
 
 **Experience points:** 800
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 natural
 
 **Hit points:** 32 (5d8+10)
 
-**Immune:** disease, mind-affecting effects
-
-**Mod:** +5 natural
+**Fort:** +6
 
 **Ref:** +1
 
-**Resist:** acid 5
-
 **Will:** +2
+
+**Immune:** disease, mind-affecting effects
+
+**Resist:** acid 5
 
 **Offense**
 

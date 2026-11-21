@@ -58,6 +58,8 @@ An order of the guard cavalier gains the following abilities as he increases in 
 
 **Prepared for the Journey (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** The cavalier can prepare for the terrain through which he will be traveling with 48
 hours of study and customization of his equipment. He can select any terrain type from the list
 available to a ranger for his [favored terrain](ref/ability/favored-terrain) class feature. While in
@@ -71,13 +73,11 @@ and terrain with a road or trail as though it were a highway. If traveling along
 cavalier and his mount can travel for 10 hours before needing to attempt Constitution checks for a
 forced march.
 
-**Gained:** At 2nd Level
+**At 8th level,** the bonus increases to +3.
 
-At 8th level: The bonus increases to +3.
+**At 14th level,** the bonus increases to +4.
 
-At 14th level: The bonus increases to +4.
-
-At 20th level: The bonus increases to +5.
+**At 20th level,** the bonus increases to +5.
 
 **Close at Hand (Ex)**
 
@@ -94,9 +94,9 @@ cavalier and his mount increase their speed by 10 feet.
 
 **Quick Retort (Ex)**
 
-**Flavor:** The cavalier can strike out at those who mean his _ward_ harm.
-
 **Gained:** At 15th Level
+
+**Flavor:** The cavalier can strike out at those who mean his _ward_ harm.
 
 **Passive:** Whenever a creature attacks the cavalier's _ward,_ or attempts to steal, sunder, or
 otherwise wrest control of it from the cavalier or his allies, the attacking creature provokes an

@@ -72,14 +72,14 @@ lifetimes into raw psychic power.
 
 **Mnemonic Esoterica (Ex)**
 
+**Flavor:** By reaching into the recesses of your past lives, you gain knowledge beyond that of most
+psychics.
+
 **Ability:** Once per day when you prepare your spells, you can add one spell from the chosen
 class's spell list to your spells known and class spell list for 24 hours. This spell must be 1
 level lower than the highest-level spell you can cast, and you cast it as if it were psychic magic.
 
 **Choice:** Select a single additional spellcasting class.
-
-**Flavor:** By reaching into the recesses of your past lives, you gain knowledge beyond that of most
-psychics.
 
 **Special:** You can decide to change the spellcasting class from which you draw this spell each
 time you gain a new level.

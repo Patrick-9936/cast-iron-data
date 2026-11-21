@@ -52,23 +52,27 @@ with ruinous power._
 
 **Experience points:** 614,400
 
-**Armor class:** 38/2/38
+**Armor class:** 38
 
-**Dr:** 15/lawful and epic
+**Touch:** 2
 
-**Fort:** +22
+**Flat-footed:** 38
+
+**AC modifiers:** +12 armor, +24 natural, -8 size
 
 **Hit points:** 471 (23d10+345)
 
-**Immune:** aging, death effects, disease
-
-**Mod:** +12 armor, +24 natural, -8 size
+**Fort:** +22
 
 **Ref:** +15
 
-**Sr:** 33
-
 **Will:** +20; +8 resistance vs. mind-affecting
+
+**Dr:** 15/lawful and epic
+
+**Immune:** aging, death effects, disease
+
+**Sr:** 33
 
 **Offense**
 

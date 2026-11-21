@@ -48,29 +48,33 @@ ape legs, and a furred tentacle arm._
 
 **Experience points:** 3,200
 
-**Armor class:** 18/8/18
+**Armor class:** 18
+
+**Touch:** 8
+
+**Flat-footed:** 18
+
+**AC modifiers:** +10 natural, -2 size
+
+**Hit points:** 84 (8d10+40)
+
+**Fort:** +11
+
+**Ref:** +6
+
+**Will:** +4; +4 vs. mind-affecting effects
 
 **Dr:** 5/-
 
 **Fh:** 5
 
-**Fort:** +11
-
 **Fortif:** 50
 
-**Hit points:** 84 (8d10+40)
-
 **Immune:** nauseated, sickened
-
-**Mod:** +10 natural, -2 size
-
-**Ref:** +6
 
 **Sr:** 18
 
 **Weaknesses:** polymorph susceptibility
-
-**Will:** +4; +4 vs. mind-affecting effects
 
 **Offense**
 

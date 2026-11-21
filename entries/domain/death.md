@@ -86,9 +86,9 @@ Urgathoa, Uzumae, Xhamen-Dor, Yaezhing, Yhidothrus, Zagresh, Zon-Kuthon, Zura, Z
 hit with a melee or ranged weapon, your attack deals an additional amount of [bleed](ref/rule/bleed)
 damage equal to half your cleric level.
 
-**Replaces:** The death's embrace power of the Death domain
-
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The death's embrace power of the Death domain
 
 **Replacement Domain Spells**
 
@@ -110,14 +110,14 @@ damage equal to half your cleric level.
 
 **Gained:** At 8th Level
 
-**Replaces:** The death's embrace power of the Death domain
-
 **Standard:** You can touch a diseased creature and exacerbate its condition. If it fails a
 Fortitude save (DC = 10 + 1/2 your cleric level + your Wisdom modifier), the creature takes damage
 as though it had failed its Fortitude save against the disease and any remaining onset time for the
 disease ends.
 
 **Usage:** 1 time/day + 1 per 6 cleric levels beyond 8th
+
+**Replaces:** The death's embrace power of the Death domain
 
 **Replacement Domain Spells**
 
@@ -143,12 +143,12 @@ disease ends.
 
 **Gained:** At 6th Level
 
-**Replaces:** The death's embrace ability of the Death domain
-
 **Swift:** You can give your natural weapons or any weapons you wield the
 [ghost touch](ref/magic-enh/ghost-touch-weapon) weapon special ability.
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The death's embrace ability of the Death domain
 
 **Replacement Domain Spells**
 
@@ -174,9 +174,9 @@ distracting your enemies. You force a target within 30 feet to reroll a miss cha
 target of this ability must keep the result of the second roll, even if it is worse than the
 original roll.
 
-**Replaces:** The bleeding touch ability of the Death domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The bleeding touch ability of the Death domain
 
 **Replacement Domain Spells**
 
@@ -203,9 +203,9 @@ damage based on positive and negative energy. This effect lasts for a number of 
 your cleric level (minimum 1). It does not apply to the [Turn Undead](ref/feat/turn-undead) or
 [Command Undead](ref/feat/command-undead) feats.
 
-**Replaces:** The bleeding touch power of the Death domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The bleeding touch power of the Death domain
 
 **Replacement Domain Spells**
 
@@ -238,13 +238,13 @@ a deceased spirit as a blessing.
 
 **Necrotic Tending (Sp)**
 
-**Replaces:** The bleeding touch domain power of the Death domain
-
 **Standard:** You can touch an undead creature or area affected by a haunt, restoring an amount of
 hit points equal to 1d8 + [half](ref/misc/fractions-and-rounding) of your cleric level. This ability
 has no effect on other creatures.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The bleeding touch domain power of the Death domain
 
 ### Deities
 

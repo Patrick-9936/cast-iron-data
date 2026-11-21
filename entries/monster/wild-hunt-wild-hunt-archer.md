@@ -55,25 +55,29 @@ slender hand._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/24/19
+**Armor class:** 28
+
+**Touch:** 24
+
+**Flat-footed:** 19
+
+**AC modifiers:** +5 deflection, +9 Dex, +4 natural
+
+**Hit points:** 187 (22d6+110)
+
+**Fort:** +12
+
+**Ref:** +22
+
+**Will:** +19
 
 **Defensive abilities:** instinctive cooperation, wild grace
 
 **Dr:** 10/cold iron
 
-**Fort:** +12
-
-**Hit points:** 187 (22d6+110)
-
 **Immune:** cold
 
-**Mod:** +5 deflection, +9 Dex, +4 natural
-
-**Ref:** +22
-
 **Resist:** electricity 10, fire 10
-
-**Will:** +19
 
 **Offense**
 

@@ -67,10 +67,10 @@ or dead.
 
 **Superior Channeler (Su)**
 
+**Gained:** At 11th Level
+
 **Ability:** A paladin can channel positive energy to harm undead by expending a single usage of her
 _lay on hands_ ability instead of two.
-
-**Gained:** At 11th Level
 
 **Replaces:** Aura of justice
 

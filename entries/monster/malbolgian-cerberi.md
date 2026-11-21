@@ -52,13 +52,17 @@ fanged mouths leap tongues of flame, and crimson saliva leaks from the terror's 
 
 **Experience points:** 19,200
 
-**Armor class:** 26/10/25
+**Armor class:** 26
 
-**Fort:** +15
+**Touch:** 10
+
+**Flat-footed:** 25
+
+**AC modifiers:** +1 Dex, +16 natural, -1 size
 
 **Hit points:** 161 (14d10+84)
 
-**Mod:** +1 Dex, +16 natural, -1 size
+**Fort:** +15
 
 **Ref:** +10
 

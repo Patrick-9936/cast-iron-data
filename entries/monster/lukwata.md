@@ -53,23 +53,27 @@ _A long, spiny fin runs down the length of the dolphin-like body of this eel-hea
 
 **Experience points:** 12,800
 
-**Armor class:** 25/12/21
+**Armor class:** 25
 
-**Dr:** 10/nonmagical weapons
+**Touch:** 12
 
-**Fort:** +14
+**Flat-footed:** 21
+
+**AC modifiers:** +4 Dex, +13 natural, -2 size
 
 **Hit points:** 147 (14d10+70)
 
-**Mod:** +4 Dex, +13 natural, -2 size
+**Fort:** +14
 
 **Ref:** +13
+
+**Will:** +8
+
+**Dr:** 10/nonmagical weapons
 
 **Sr:** 27
 
 **Weaknesses:** eldritch encrustation
-
-**Will:** +8
 
 **Offense**
 

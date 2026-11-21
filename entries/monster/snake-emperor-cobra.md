@@ -46,13 +46,17 @@ flaring in an unmistakable warning._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/11/16
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +7 natural, -1 size
 
 **Hit points:** 51 (6d8+24)
 
-**Mod:** +2 Dex, +7 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
 

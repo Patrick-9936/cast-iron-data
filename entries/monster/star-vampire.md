@@ -49,7 +49,21 @@ tentacles, all as red as freshly spilled blood._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/8/19
+**Armor class:** 19
+
+**Touch:** 8
+
+**Flat-footed:** 19
+
+**AC modifiers:** -1 Dex, +11 natural, -1 size
+
+**Hit points:** 67 (9d8+27)
+
+**Fort:** +6
+
+**Ref:** +4
+
+**Will:** +11
 
 **Amorph:** present
 
@@ -57,17 +71,7 @@ tentacles, all as red as freshly spilled blood._
 
 **Dr:** 5/slashing
 
-**Fort:** +6
-
-**Hit points:** 67 (9d8+27)
-
-**Mod:** -1 Dex, +11 natural, -1 size
-
-**Ref:** +4
-
 **Weaknesses:** bleed effects
-
-**Will:** +11
 
 **Offense**
 

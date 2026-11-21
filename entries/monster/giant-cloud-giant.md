@@ -52,19 +52,23 @@ hair flutters as if in a breeze._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/9/24
+**Armor class:** 25
 
-**Fort:** +16
+**Touch:** 9
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 armor, +1 Dex, +12 natural, -2 size
 
 **Hit points:** 168 (16d8+96)
 
-**Mod:** +4 armor, +1 Dex, +12 natural, -2 size
+**Fort:** +16
 
 **Ref:** +6
 
-**Rock Ct:** present
-
 **Will:** +10
+
+**Rock Ct:** present
 
 **Offense**
 

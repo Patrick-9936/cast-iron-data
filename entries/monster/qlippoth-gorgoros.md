@@ -50,27 +50,31 @@ yellow._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/19
+**Armor class:** 23
+
+**Touch:** 13
+
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +10 natural, -1 size
+
+**Hit points:** 114 (12d10+48)
+
+**Fort:** +12
+
+**Ref:** +12
+
+**Will:** +11
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 10/cold iron or lawful
 
-**Fort:** +12
-
-**Hit points:** 114 (12d10+48)
-
 **Immune:** cold, mind-affecting effects, poison
-
-**Mod:** +4 Dex, +10 natural, -1 size
-
-**Ref:** +12
 
 **Resist:** acid 10, electricity 10, fire 10
 
 **Sr:** 20
-
-**Will:** +11
 
 **Offense**
 

@@ -49,19 +49,23 @@ internal organs._
 
 **Experience points:** 200
 
-**Armor class:** 12/11/12
+**Armor class:** 12
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 natural, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 natural, +1 size
+**Fort:** +5
 
 **Ref:** +0
 
 **Will:** +0
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

@@ -54,21 +54,25 @@ backward-facing hands._
 
 **Experience points:** 307,200
 
-**Armor class:** 37/24/27
+**Armor class:** 37
 
-**Dr:** 20/good and piercing
+**Touch:** 24
 
-**Fort:** +16
+**Flat-footed:** 27
+
+**AC modifiers:** +4 deflection, +9 Dex, +1 dodge, +13 natural
 
 **Hit points:** 310 (20d10+200)
 
-**Mod:** +4 deflection, +9 Dex, +1 dodge, +13 natural
+**Fort:** +16
 
 **Ref:** +21
 
-**Sr:** 35
-
 **Will:** +18
+
+**Dr:** 20/good and piercing
+
+**Sr:** 35
 
 **Offense**
 

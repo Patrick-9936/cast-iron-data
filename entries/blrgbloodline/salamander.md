@@ -50,12 +50,12 @@ your body and is non-functional unless it provides a constant bonus and does not
 activated. You also gain a tail slap [natural attack](ref/umr/natural-attacks) that deals 1d6 points
 of damage (1d4 if you are Small) + your Strength modifier.
 
-**At 4th Level:** Your speed is no longer reduced by 10 feet.
+**At 4th level,** your speed is no longer reduced by 10 feet.
 
-**At 8th Level:** Your tail slap's damage increases to 1d8 (1d6 if you are Small) + your Strength
+**At 8th level,** your tail slap's damage increases to 1d8 (1d6 if you are Small) + your Strength
 modifier.
 
-**At 12th Level:** Your reach with your tail slap increases by 5 feet.
+**At 12th level,** your reach with your tail slap increases by 5 feet.
 
 **Salamander Scales (Ex)**
 
@@ -63,12 +63,14 @@ modifier.
 
 **Passive:** You gain fire [resistance](ref/umr/resistance) 5 and a +1 natural armor bonus to AC.
 
-**At 8th Level:** Your fire resistance increases to 10 and your natural armor bonus increases to +2.
+**At 8th level,** your fire resistance increases to 10 and your natural armor bonus increases to +2.
 
-**At 16th Level:** Your fire resistance increases to 20 and your natural armor bonus increases to
+**At 16th level,** your fire resistance increases to 20 and your natural armor bonus increases to
 +3.
 
 **Bloodsmith (Su)**
+
+**Gained:** At 8th Level
 
 **Ability:** When entering a _bloodrage,_ you can choose one manufactured weapon you wield, shield
 you wield, or piece of armor you wear to gain the benefit of
@@ -76,8 +78,6 @@ you wield, or piece of armor you wear to gain the benefit of
 [magic vestment](ref/spell/magic-vestment) (shield or armor). The caster level of this effect is
 equal to your bloodrager level, and its effects end when your _bloodrage_ ends or when you no longer
 wear or wield the weapon, shield, or armor.
-
-**Gained:** At 8th Level
 
 **Scorching Heat (Su)**
 
@@ -89,11 +89,11 @@ to any creature you [grapple](ref/rule/grapple). This does not damage your equip
 
 **Master Bloodsmith (Su)**
 
-**Ability:** You can affect up to two items simultaneously with your _bloodsmith_ bloodline power.
-
 **Gained:** At 16th Level
 
-**At 20th Level:** You can affect up to three items.
+**Ability:** You can affect up to two items simultaneously with your _bloodsmith_ bloodline power.
+
+**At 20th level,** you can affect up to three items.
 
 **Essence of Fire (Ex)**
 

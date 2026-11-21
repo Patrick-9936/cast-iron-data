@@ -57,7 +57,7 @@ cast a spell.
 **Passive:** Chains cover your body and extend from your arms, grasping at the air around you and
 granting you a +4 bonus on Climb skill checks.
 
-**At 9th Level:** The bonus increases to +8 and you gain a Climb speed equal to 1/2 your base speed.
+**At 9th level,** the bonus increases to +8 and you gain a Climb speed equal to 1/2 your base speed.
 
 **Armor of Chains (Su)**
 
@@ -67,7 +67,7 @@ granting you a +4 bonus on Climb skill checks.
 provide a +4 armor bonus to AC with no armor check penalty, maximum Dexterity bonus, or additional
 weight.
 
-**At 16th Level:** The resistance increases to 10 and the armor bonus increases to +8.
+**At 16th level,** the resistance increases to 10 and the armor bonus increases to +8.
 
 **Agony's Embrace (Su)**
 
@@ -76,9 +76,9 @@ weight.
 **Passive:** Whenever you're hit by a critical hit, your morale bonus to Strength from your
 _bloodrage_ increases by 2 for 1d6 rounds or until your _rage_ ends.
 
-**At 16th Level:** The bonus to Strength instead increases by 4.
+**At 16th level,** the bonus to Strength instead increases by 4.
 
-**At 20th Level:** The bonus to Strength instead increases by +6.
+**At 20th level,** the bonus to Strength instead increases by +6.
 
 **Unnerving Gaze (Su)**
 

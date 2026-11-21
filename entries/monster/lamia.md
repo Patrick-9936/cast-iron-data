@@ -49,13 +49,17 @@ lower body is that of a lion._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/13/16
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +1 dodge, +7 natural, -1 size
 
 **Hit points:** 67 (9d10+18)
 
-**Mod:** +3 Dex, +1 dodge, +7 natural, -1 size
+**Fort:** +7
 
 **Ref:** +9
 

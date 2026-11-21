@@ -71,14 +71,14 @@ sorcerer level.
 
 **Long Limbs (Ex)**
 
+**Gained:** At 3rd Level
+
 **Ability:** Your reach increases by 5 feet whenever you are making a melee touch attack. This
 ability does not otherwise increase your threatened area.
 
-**Gained:** At 3rd Level
+**At 11th level,** this bonus to your reach increases to 10 feet.
 
-**At 11th Level:** This bonus to your reach increases to 10 feet.
-
-**At 17th Level:** This bonus to your reach increases to 15 feet.
+**At 17th level,** this bonus to your reach increases to 15 feet.
 
 **Unusual Anatomy (Ex)**
 
@@ -87,7 +87,7 @@ ability does not otherwise increase your threatened area.
 **Passive:** Your anatomy changes, giving you a 25% chance to ignore any critical hit or sneak
 attack scored against you.
 
-**At 13th Level:** This chance increases to 50%.
+**At 13th level,** this chance increases to 50%.
 
 **Alien Resistance (Su)**
 
@@ -98,9 +98,9 @@ level + 10.
 
 **Aberrant Form (Ex)**
 
-**Flavor:** Your body becomes truly unnatural.
-
 **Gained:** At 20th Level
+
+**Flavor:** Your body becomes truly unnatural.
 
 **Passive:** You are immune to critical hits and sneak attacks. In addition, you gain
 [blindsight](ref/umr/blindsight) with a range of 60 feet and
@@ -123,15 +123,15 @@ Your strange blood brings out the worst in people.
 
 **Warp Touch (Sp)**
 
+**Gained:** At 1st Level
+
 **Ability:** You create brief, disorienting changes in a creature's physical form. This ability
 affects one creature within 30 feet, which is [dazed](ref/misc/dazed) for 1 round (Fortitude
 negates; DC 10 + half your sorcerer level + your Charisma modifier).
 
-**Gained:** At 1st Level
+**Usage:** 3 + Charisma modifier times/day
 
 **Replaces:** Acidic ray
-
-**Usage:** 3 + Charisma modifier times/day
 
 |d12|Effect|
 | --- | --- |

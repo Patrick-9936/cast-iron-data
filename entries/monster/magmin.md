@@ -53,23 +53,27 @@ shimmer._
 
 **Experience points:** 800
 
-**Armor class:** 17/11/17
+**Armor class:** 17
 
-**Dr:** 5/magic
+**Touch:** 11
 
-**Fort:** +6
+**Flat-footed:** 17
+
+**AC modifiers:** +6 natural, +1 size
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** elemental traits, fire
-
-**Mod:** +6 natural, +1 size
+**Fort:** +6
 
 **Ref:** +4
 
-**Vulner:** cold
-
 **Will:** +3
+
+**Dr:** 5/magic
+
+**Immune:** elemental traits, fire
+
+**Vulner:** cold
 
 **Offense**
 

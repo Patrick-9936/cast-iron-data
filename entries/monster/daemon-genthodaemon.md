@@ -52,25 +52,29 @@ _Jagged bits of metal, armor, and sharp pieces of wire embed the flesh of this t
 
 **Experience points:** 1,600
 
-**Armor class:** 18/9/18
+**Armor class:** 18
+
+**Touch:** 9
+
+**Flat-footed:** 18
+
+**AC modifiers:** +9 natural, -1 size
+
+**Hit points:** 51 (6d10+18)
+
+**Fort:** +8
+
+**Ref:** +5
+
+**Will:** +3
 
 **Defensive abilities:** barbed defense
 
 **Dr:** 5/good or silver
 
-**Fort:** +8
-
-**Hit points:** 51 (6d10+18)
-
 **Immune:** acid, death effects, disease, poison
 
-**Mod:** +9 natural, -1 size
-
-**Ref:** +5
-
 **Resist:** cold 10, electricity 10, fire 10
-
-**Will:** +3
 
 **Offense**
 

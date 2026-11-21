@@ -54,21 +54,25 @@ with three-fingered hands._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +1 dodge, +2 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +1 dodge, +2 natural
+**Fort:** +3
 
 **Ref:** +2
 
-**Sr:** 13
-
 **Will:** +4
+
+**Immune:** mind-affecting effects
+
+**Sr:** 13
 
 **Offense**
 

@@ -49,21 +49,25 @@ it comes to jerky life._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/10/16
+**Armor class:** 16
 
-**Fort:** +1
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 natural
 
 **Hit points:** 47 (5d10+20)
 
-**Immune:** cold, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +6 natural
+**Fort:** +1
 
 **Ref:** +1
 
-**Vulner:** fire
-
 **Will:** +1
+
+**Immune:** cold, [construct traits](ref/umr/construct-traits)
+
+**Vulner:** fire
 
 **Offense**
 

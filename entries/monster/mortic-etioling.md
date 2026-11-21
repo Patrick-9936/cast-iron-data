@@ -51,19 +51,23 @@ her rictus grin._
 
 **Experience points:** 9,600
 
-**Armor class:** 27/23/22
+**Armor class:** 27
 
-**Defensive abilities:** ectoplasmic shield, negative energy affinity
+**Touch:** 23
 
-**Fort:** +12
+**Flat-footed:** 22
+
+**AC modifiers:** +4 armor, +7 deflection, +4 Dex, +1 dodge, +1 size
 
 **Hit points:** 112 (15d8+45)
 
-**Mod:** +4 armor, +7 deflection, +4 Dex, +1 dodge, +1 size
+**Fort:** +12
 
 **Ref:** +10
 
 **Will:** +9
+
+**Defensive abilities:** ectoplasmic shield, negative energy affinity
 
 **Offense**
 

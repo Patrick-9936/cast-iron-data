@@ -47,23 +47,27 @@ any kind, its bulk is covered in jagged thorns protruding from its fungal surfac
 
 **Experience points:** 800
 
-**Armor class:** 16/13/13
+**Armor class:** 16
+
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +3 natural
+
+**Hit points:** 26 (4d8+8)
+
+**Fort:** +6
+
+**Ref:** +4
+
+**Will:** +0
 
 **Defensive abilities:** thorny hide
 
 **Dr:** 5/slashing or bludgeoning
 
-**Fort:** +6
-
-**Hit points:** 26 (4d8+8)
-
 **Immune:** electricity, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +3 Dex, +3 natural
-
-**Ref:** +4
-
-**Will:** +0
 
 **Offense**
 

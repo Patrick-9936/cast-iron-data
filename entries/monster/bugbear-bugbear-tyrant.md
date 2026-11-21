@@ -58,19 +58,23 @@ the thrill of the coming kill._
 
 **Experience points:** 25,600
 
-**Armor class:** 27/12/26
+**Armor class:** 27
 
-**Fort:** +15
+**Touch:** 12
+
+**Flat-footed:** 26
+
+**AC modifiers:** +11 armor, +1 deflection, +1 Dex, +4 natural
 
 **Hit points:** 136 (3d8+12d10+57\~15)
 
-**Immune:** disease
-
-**Mod:** +11 armor, +1 deflection, +1 Dex, +4 natural
+**Fort:** +15
 
 **Ref:** +11
 
 **Will:** +11
+
+**Immune:** disease
 
 **Offense**
 

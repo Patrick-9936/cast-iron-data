@@ -50,25 +50,29 @@ _This beautiful albino woman is wreathed in wings of brilliant flame._
 
 **Experience points:** 38,400
 
-**Armor class:** 30/18/22
+**Armor class:** 30
 
-**Dr:** 10/cold iron and evil
+**Touch:** 18
 
-**Fort:** +12
+**Flat-footed:** 22
+
+**AC modifiers:** +7 Dex, +1 dodge, +12 natural
 
 **Hit points:** 180 (19d10+76)
 
-**Immune:** electricity, fire
-
-**Mod:** +7 Dex, +1 dodge, +12 natural
+**Fort:** +12
 
 **Ref:** +18
+
+**Will:** +17
+
+**Dr:** 10/cold iron and evil
+
+**Immune:** electricity, fire
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 25
-
-**Will:** +17
 
 **Offense**
 

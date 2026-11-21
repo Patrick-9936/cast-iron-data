@@ -52,25 +52,29 @@ maws protruding from its back._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/15/20
+**Armor class:** 25
+
+**Touch:** 15
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +1 dodge, +10 natural
+
+**Hit points:** 147 (14d8+84)
+
+**Fort:** +11
+
+**Ref:** +8
+
+**Will:** +12
 
 **Chan Res:** +4
 
 **Defensive abilities:** deep dweller
 
-**Fort:** +11
-
-**Hit points:** 147 (14d8+84)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +4 Dex, +1 dodge, +10 natural
-
-**Ref:** +8
-
 **Resist:** cold 20
-
-**Will:** +12
 
 **Offense**
 

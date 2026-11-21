@@ -21,9 +21,9 @@ The monkey is a climbing trickster who specializes in mobility and manual agilit
 
 **Passive:** You gain a +4 competence bonus on Climb checks.
 
-At 8th level: The bonus increases to +6.
+**At 8th level,** the bonus increases to +6.
 
-At 15th level: The bonus increases to +8.
+**At 15th level,** the bonus increases to +8.
 
 **Major Form**
 
@@ -34,12 +34,12 @@ At 15th level: The bonus increases to +8.
 claw attacks (1d6 damage), and you can still use your hands to wield weapons, hold objects, and
 manipulate objects normally.
 
-**At 15th Level:** You gain a [rend](ref/umr/rend) attack that deals extra damage equal to that of
+**At 8th level,** your climb speed increases to 50 feet, and you can use your tail to hold and
+manipulate objects as if you had a third hand, but you cannot use it to wield weapons or shields.
+
+**At 15th level,** you gain a [rend](ref/umr/rend) attack that deals extra damage equal to that of
 your _shifter claws_ attack plus 1-1/2 times your Strength bonus when you hit with two of your
 normal _shifter claws_ attacks.
-
-**At 8th Level:** Your climb speed increases to 50 feet, and you can use your tail to hold and
-manipulate objects as if you had a third hand, but you cannot use it to wield weapons or shields.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

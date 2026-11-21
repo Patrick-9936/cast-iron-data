@@ -51,21 +51,25 @@ abilities = ["17", "8", "12", "8", "13", "12"]
 
 **Experience points:** 600
 
-**Armor class:** 15/9/15
+**Armor class:** 15
 
-**Ferocity:** present
+**Touch:** 9
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +6 armor, -1 Dex
 
 **Hit points:** 20 (3d8+3)
 
-**Mod:** +6 armor, -1 Dex
+**Fort:** +5
 
 **Ref:** +1
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +5
+
+**Ferocity:** present
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

@@ -50,23 +50,27 @@ by a rapidly lashing tendril._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/19/18
+**Armor class:** 19
 
-**Defensive abilities:** swarm traits
+**Touch:** 19
 
-**Fort:** +9
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +8 size
 
 **Hit points:** 51 (7d8+35)
 
-**Immune:** [plant traits](ref/umr/plant-traits), weapon damage
-
-**Mod:** +1 Dex, +8 size
+**Fort:** +9
 
 **Ref:** +3
 
-**Vulner:** fire
-
 **Will:** +2
+
+**Defensive abilities:** swarm traits
+
+**Immune:** [plant traits](ref/umr/plant-traits), weapon damage
+
+**Vulner:** fire
 
 **Offense**
 

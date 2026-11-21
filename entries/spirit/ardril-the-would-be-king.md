@@ -48,15 +48,15 @@ your target has. In addition, you gain a +2 bonus on saving throws until the _ch
 
 **Flavor:** Relevant text from the cavalier class ability.
 
-**Special:** The challenge remains in effect until the target is dead or unconscious or until the
-combat ends.
-
 **Swift:** You challenge a foe to combat, choosing one target within sight to challenge. Your melee
 attacks deal extra damage whenever the attacks are made against the target of your challenge. This
 extra damage is equal to your level. Challenging a foe requires much of your concentration. You take
 a -2 penalty to your Armor Class, except against attacks made by the target of your challenge.
 
 **Usage:** 1 time/day + 1 per 3 cavalier levels beyond 1st
+
+**Special:** The challenge remains in effect until the target is dead or unconscious or until the
+combat ends.
 
 ### Supreme Spirit Power
 

@@ -51,19 +51,23 @@ with rows of razor-sharp teeth._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/16/14
+**Armor class:** 20
 
-**Fort:** +8
+**Touch:** 16
+
+**Flat-footed:** 14
+
+**AC modifiers:** +6 Dex, +4 natural
 
 **Hit points:** 102 (12d8+48)
 
-**Immune:** fire
-
-**Mod:** +6 Dex, +4 natural
+**Fort:** +8
 
 **Ref:** +10
 
 **Will:** +8
+
+**Immune:** fire
 
 **Offense**
 

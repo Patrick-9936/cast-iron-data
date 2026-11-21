@@ -52,27 +52,31 @@ _This muscular giant has two ferocious lion heads, each with a long, black, lash
 
 **Experience points:** 38,400
 
-**Armor class:** 29/17/21
+**Armor class:** 29
 
-**Dr:** 10/good
+**Touch:** 17
 
-**Fort:** +14
+**Flat-footed:** 21
+
+**AC modifiers:** +7 Dex, +1 dodge, +12 natural, -1 size
 
 **Hit points:** 200 (16d10+112)
 
-**Immune:** curses, disease, poison
-
-**Mod:** +7 Dex, +1 dodge, +12 natural, -1 size
+**Fort:** +14
 
 **Ref:** +17
+
+**Will:** +17; +2 vs. enchant.
+
+**Dr:** 10/good
+
+**Immune:** curses, disease, poison
 
 **Regen:** 10 (good)
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 25
-
-**Will:** +17; +2 vs. enchant.
 
 **Offense**
 

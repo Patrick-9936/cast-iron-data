@@ -47,21 +47,25 @@ to mist._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/13/21
+**Armor class:** 25
 
-**Fort:** +14
+**Touch:** 13
+
+**Flat-footed:** 21
+
+**AC modifiers:** +4 Dex, +12 natural, -1 size
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** electricity
-
-**Mod:** +4 Dex, +12 natural, -1 size
+**Fort:** +14
 
 **Ref:** +15
 
-**Resist:** cold 10
-
 **Will:** +9
+
+**Immune:** electricity
+
+**Resist:** cold 10
 
 **Offense**
 

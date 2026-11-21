@@ -47,13 +47,17 @@ pair of feathered wings._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/15
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +6 natural, -1 size
 
 **Hit points:** 42 (5d10+15)
 
-**Mod:** +2 Dex, +6 natural, -1 size
+**Fort:** +7
 
 **Ref:** +6
 

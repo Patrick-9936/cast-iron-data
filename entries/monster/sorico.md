@@ -48,13 +48,17 @@ creature's fur._
 
 **Experience points:** 400
 
-**Armor class:** 12/12/11
+**Armor class:** 12
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +1 Dex, +1 size
+**Fort:** +7
 
 **Ref:** +4
 

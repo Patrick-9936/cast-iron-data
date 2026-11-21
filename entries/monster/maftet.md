@@ -52,13 +52,17 @@ of a tawny, bipedal lion._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/13/17
+**Armor class:** 20
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 armor, +3 Dex, +3 natural
 
 **Hit points:** 68 (8d10+24)
 
-**Mod:** +4 armor, +3 Dex, +3 natural
+**Fort:** +5
 
 **Ref:** +9
 

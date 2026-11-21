@@ -56,21 +56,25 @@ frost giant._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/11/23
+**Armor class:** 26
 
-**Fort:** +11
+**Touch:** 11
+
+**Flat-footed:** 23
+
+**AC modifiers:** +4 armor, +3 Dex, +10 natural, +1 shield, -2 size
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** cold
-
-**Mod:** +4 armor, +3 Dex, +10 natural, +1 shield, -2 size
+**Fort:** +11
 
 **Ref:** +12
 
-**Vulner:** fire
-
 **Will:** +11
+
+**Immune:** cold
+
+**Vulner:** fire
 
 **Offense**
 

@@ -15,12 +15,10 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Book-Bound (Su):**
+**Book-Bound (Su)**
 
 **Immediate:** As long as he wields his spellbook in his off hand, the magus can gain a +4 bonus on
 a [concentration](ref/rule/concentration) check he attempts within the next round. This bonus stacks
 with other bonuses, including the bonus from the [concentrate](ref/arcana/concentrate) arcana.
-
-**Usage:** 3 times/day
 
 **Usage:** 3 times/day

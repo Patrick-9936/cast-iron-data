@@ -47,7 +47,21 @@ dust and shimmering magic._
 
 **Experience points:** 38,400
 
-**Armor class:** 25/21/21
+**Armor class:** 25
+
+**Touch:** 21
+
+**Flat-footed:** 21
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 natural, +5 profane, +2 size
+
+**Hit points:** 142 (15d8+75)
+
+**Fort:** +15
+
+**Ref:** +15
+
+**Will:** +21
 
 **Chan Res:** +5
 
@@ -55,19 +69,9 @@ dust and shimmering magic._
 
 **Dr:** 20/-
 
-**Fort:** +15
-
-**Hit points:** 142 (15d8+75)
-
 **Immune:** acid, cold, electricity, magic, polymorph, [undead traits](ref/umr/undead-traits)
 
-**Mod:** +3 Dex, +1 dodge, +4 natural, +5 profane, +2 size
-
-**Ref:** +15
-
 **Weaknesses:** torpor, vorpal susceptibility
-
-**Will:** +21
 
 **Offense**
 

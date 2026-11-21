@@ -46,13 +46,17 @@ maw._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/8/18
+**Armor class:** 20
 
-**Fort:** +15
+**Touch:** 8
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +1 dodge, +12 natural, -4 size
 
 **Hit points:** 105 (10d8+60)
 
-**Mod:** +1 Dex, +1 dodge, +12 natural, -4 size
+**Fort:** +15
 
 **Ref:** +8
 

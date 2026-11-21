@@ -46,13 +46,17 @@ _This massive, squat crocodilian has forward facing eyes, jutting teeth, and a p
 
 **Experience points:** 1,600
 
-**Armor class:** 19/9/18
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 9
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +10 natural, -2 size
 
 **Hit points:** 59 (7d8+28)
 
-**Mod:** +1 Dex, +10 natural, -2 size
+**Fort:** +9
 
 **Ref:** +6
 

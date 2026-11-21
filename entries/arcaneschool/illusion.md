@@ -26,15 +26,15 @@ foes.
 
 **Extended Illusions (Su)**
 
+**Gained:** At 1st Level
+
 **Ability:** Any illusion spell you cast with a duration of "concentration" lasts a number of
 additional rounds equal to 1/2 your wizard level after you stop maintaining concentration (minimum
 +1 round).
 
-**At 20th Level:** You can make one illusion spell with a duration of "concentration" become
+**At 20th level,** you can make one illusion spell with a duration of "concentration" become
 permanent. You can have no more than one illusion made permanent in this way at one time. If you
 designate another illusion as permanent, the previous permanent illusion ends.
-
-**Gained:** At 1st Level
 
 **Blinding Ray (Sp)**
 
@@ -65,16 +65,16 @@ _[blinding ray](ref/spell/blinding-ray)_ and _extended illusions_ powers of the 
 
 **Deceptive Flourish-Bonus (Su)**
 
-**At 20th Level:** You gain the benefits of [misdirection](ref/spell/misdirection) (Will DC = 20 +
-your Intelligence modifier) or [nondetection](ref/spell/nondetection) permanently. At will as a
-**standard action**, you can change which of the two spells is active, and each time you activate
-_[misdirection](ref/spell/misdirection),_ you can choose a new creature or object as the secondary
-object.
-
 **Gained:** At 1st Level
 
 **Passive:** You gain an enhancement bonus on Bluff and Disguise skill checks. This bonus is equal
 to 2 + one-fifth of your wizard level.
+
+**At 20th level,** you gain the benefits of [misdirection](ref/spell/misdirection) (Will DC = 20 +
+your Intelligence modifier) or [nondetection](ref/spell/nondetection) permanently. At will as a
+**standard action**, you can change which of the two spells is active, and each time you activate
+_[misdirection](ref/spell/misdirection),_ you can choose a new creature or object as the secondary
+object.
 
 **Subtle Misdirection (Sp)**
 
@@ -142,20 +142,15 @@ _[blinding ray](ref/spell/blinding-ray)_ and _invisibility field_ powers of the 
 
 **Face in the Crowd (Sp)**
 
-**Action:** Standard Action
-
 **Gained:** At 1st Level
 
-**Usage:** 1 minute/day per wizard level; these minutes need not be consecutive, but must be spent
-in 1-minute increments
-
-You can cause yourself to appear so normal, mundane, and unexceptional that you blend in to your
-surroundings. All creatures within 30 feet treat you as if you belonged there, effectively ignoring
-you. Creatures outside of this area may notice that you appear out of place, but as soon as they
-approach within 30 feet they are affected by the magic and no longer think something is amiss. If
-you interact with an affected creature in any way, it gains a Will save (DC 10 + 1/2 your wizard
-level + your Intelligence modifier) to disbelieve the illusion and notice you. This is a
-mind-affecting phantasm effect.
+**Standard:** You can cause yourself to appear so normal, mundane, and unexceptional that you blend
+in to your surroundings. All creatures within 30 feet treat you as if you belonged there,
+effectively ignoring you. Creatures outside of this area may notice that you appear out of place,
+but as soon as they approach within 30 feet they are affected by the magic and no longer think
+something is amiss. If you interact with an affected creature in any way, it gains a Will save (DC
+10 + 1/2 your wizard level + your Intelligence modifier) to disbelieve the illusion and notice you.
+This is a mind-affecting phantasm effect.
 
 This ability does not turn you invisible and opponents are not considered
 [flat-footed](ref/rule/flat-footed). It does not allow you to disguise yourself as a specific
@@ -165,6 +160,9 @@ guards or appear as a member of an individual's family, and a human cannot blend
 such as a crowd of courtiers in a king's throne room, and you can disguise yourself (either through
 magic or more mundane means) to appear as a specific type of person or another race (such as a
 uniformed guard or a gnoll) before using this ability.
+
+**Usage:** 1 minute/day per wizard level; these minutes need not be consecutive, but must be spent
+in 1-minute increments
 
 **Master of the Veil (Sp)**
 
@@ -200,8 +198,6 @@ ability to see in darkness, and other creatures likewise have concealment relati
 
 **Gained:** At 8th Level
 
-**Provokes attack of opportunity:** No
-
 **Standard:** You can use this ability to walk through the [Shadow Plane](ref/rule/shadow-plane) and
 reappear. You can travel either in a single round or broken up across multiple shadow steps. Travel
 through the Shadow Plane is imprecise; when you arrive, you re-enter 1 square off target, as per the
@@ -215,5 +211,4 @@ are cloaked in shadow for 1 round.
 **Usage:** You have 30 feet of travel per wizard level you can use per day. This movement must be
 used in 5-foot increments.
 
-**Usage:** You have 30 feet of travel per wizard level you can use per day. This movement must be
-used in 5-foot increments.
+**Provokes attack of opportunity:** No

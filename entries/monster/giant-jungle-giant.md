@@ -52,23 +52,27 @@ numerous intricate tattoos._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/16/20
+**Armor class:** 24
 
-**Defensive abilities:** spell storing, warding tattoos
+**Touch:** 16
 
-**Fort:** +9
+**Flat-footed:** 20
+
+**AC modifiers:** +4 deflection, +4 Dex, +8 natural, -2 size
 
 **Hit points:** 127 (15d8+60)
 
-**Immune:** disease, poison
-
-**Mod:** +4 deflection, +4 Dex, +8 natural, -2 size
+**Fort:** +9
 
 **Ref:** +13
 
-**Rock Ct:** present
-
 **Will:** +7
+
+**Defensive abilities:** spell storing, warding tattoos
+
+**Immune:** disease, poison
+
+**Rock Ct:** present
 
 **Offense**
 

@@ -58,27 +58,31 @@ flesh._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/17/25
+**Armor class:** 34
 
-**Dr:** 15/cold iron and magic
+**Touch:** 17
 
-**Fort:** +18
+**Flat-footed:** 25
+
+**AC modifiers:** +8 Dex, +1 dodge, +17 natural, -2 size
 
 **Hit points:** 350 (20d10+240)
 
-**Immune:** fire, fear
-
-**Mod:** +8 Dex, +1 dodge, +17 natural, -2 size
+**Fort:** +18
 
 **Ref:** +20
+
+**Will:** +20
+
+**Dr:** 15/cold iron and magic
+
+**Immune:** fire, fear
 
 **Regen:** 15 (cold)
 
 **Sr:** 30
 
 **Vulner:** cold
-
-**Will:** +20
 
 **Offense**
 

@@ -49,21 +49,25 @@ this figure's glass skull._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/19
+**Armor class:** 23
 
-**Dr:** 10/adamantine or bludgeoning
+**Touch:** 13
 
-**Fort:** +4
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +10 natural, -1 size
 
 **Hit points:** 96 (12d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +4 Dex, +10 natural, -1 size
+**Fort:** +4
 
 **Ref:** +8
 
 **Will:** +4
+
+**Dr:** 10/adamantine or bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

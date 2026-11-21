@@ -54,7 +54,21 @@ all the more horrifying by the all-too-human appearance of its baleful visage._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/32/32
+**Armor class:** 46
+
+**Touch:** 32
+
+**Flat-footed:** 32
+
+**AC modifiers:** +13 Dex, +1 dodge, +10 insight, +14 natural, -2 size
+
+**Hit points:** 688 (32d8+544)
+
+**Fort:** +27
+
+**Ref:** +23
+
+**Will:** +29
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_, immortality,
 insanity (DC 35)
@@ -63,22 +77,12 @@ insanity (DC 35)
 
 **Fh:** 25
 
-**Fort:** +27
-
-**Hit points:** 688 (32d8+544)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain,
 mind-affecting effects, paralysis, petrification, poison
-
-**Mod:** +13 Dex, +1 dodge, +10 insight, +14 natural, -2 size
-
-**Ref:** +23
 
 **Resist:** fire 30, sonic 30
 
 **Sr:** 39
-
-**Will:** +29
 
 **Offense**
 

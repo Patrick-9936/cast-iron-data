@@ -51,21 +51,25 @@ covers most of her face._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 60 (8d10+16)
 
-**Immune:** poison, sonic
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +6
 
 **Ref:** +9
 
-**Resist:** acid 10
-
 **Will:** +7; +4 vs. mind-affecting effects
+
+**Immune:** poison, sonic
+
+**Resist:** acid 10
 
 **Offense**
 

@@ -52,23 +52,27 @@ hump of its back bears a ring of standing stones that crackle faintly with energ
 
 **Experience points:** 204,800
 
-**Armor class:** 34/2/34
+**Armor class:** 34
 
-**Dr:** 15/-
+**Touch:** 2
 
-**Fort:** +18
+**Flat-footed:** 34
+
+**AC modifiers:** +32 natural, -8 size
 
 **Hit points:** 350 (28d10+196)
 
-**Immune:** acid, elemental traits
-
-**Mod:** +32 natural, -8 size
+**Fort:** +18
 
 **Ref:** +16
 
-**Sr:** 30
-
 **Will:** +18
+
+**Dr:** 15/-
+
+**Immune:** acid, elemental traits
+
+**Sr:** 30
 
 **Offense**
 

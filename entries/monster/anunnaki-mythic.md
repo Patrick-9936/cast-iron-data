@@ -55,29 +55,33 @@ back._
 
 **Experience points:** 153,600
 
-**Armor class:** 35/22/30
+**Armor class:** 35
+
+**Touch:** 22
+
+**Flat-footed:** 30
+
+**AC modifiers:** +8 deflection, +5 Dex, +13 natural, -1 size
+
+**Hit points:** 320 (20d10+210)
+
+**Fort:** +15
+
+**Ref:** +17
+
+**Will:** +20; +8 vs. mind-affecting effects
 
 **Defensive abilities:** morphic anatomy, psychic warding
 
 **Dr:** 20/epic
 
-**Fort:** +15
-
-**Hit points:** 320 (20d10+210)
-
 **Immune:** poison
-
-**Mod:** +8 deflection, +5 Dex, +13 natural, -1 size
-
-**Ref:** +17
 
 **Regen:** 10 (epic weapons)
 
 **Resist:** acid 20, cold 20, electricity 20, sonic 20
 
 **Unstop:** present
-
-**Will:** +20; +8 vs. mind-affecting effects
 
 **Offense**
 

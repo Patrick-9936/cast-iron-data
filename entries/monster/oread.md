@@ -54,19 +54,23 @@ almost like a statue brought to life._
 
 **Experience points:** 200
 
-**Armor class:** 14/12/12
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 armor, +2 Dex
 
 **Hit points:** 12 (1d10+2)
 
-**Mod:** +2 armor, +2 Dex
+**Fort:** +4
 
 **Ref:** +2
 
-**Resist:** acid 5
-
 **Will:** +4
+
+**Resist:** acid 5
 
 **Offense**
 

@@ -44,13 +44,17 @@ abilities = ["3", "6", "8", "2", "12", "3"]
 
 **Experience points:** 65
 
-**Armor class:** 16/10/16
+**Armor class:** 16
 
-**Fort:** +1
+**Touch:** 10
+
+**Flat-footed:** 16
+
+**AC modifiers:** -2 Dex, +6 natural, +2 size
 
 **Hit points:** 3 (1d8-1)
 
-**Mod:** -2 Dex, +6 natural, +2 size
+**Fort:** +1
 
 **Ref:** +0
 

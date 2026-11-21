@@ -52,7 +52,21 @@ creature, and its face is marked only by a pair of glowing, crimson eyes._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/15/25
+**Armor class:** 31
+
+**Touch:** 15
+
+**Flat-footed:** 25
+
+**AC modifiers:** +6 Dex, +16 natural, -1 size
+
+**Hit points:** 252 (24d8+144)
+
+**Fort:** +20
+
+**Ref:** +14
+
+**Will:** +15
 
 **Amorph:** present
 
@@ -60,21 +74,11 @@ creature, and its face is marked only by a pair of glowing, crimson eyes._
 
 **Fh:** 15
 
-**Fort:** +20
-
-**Hit points:** 252 (24d8+144)
-
 **Immune:** death effects, energy drain, negative energy, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +6 Dex, +16 natural, -1 size
-
-**Ref:** +14
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 27
-
-**Will:** +15
 
 **Offense**
 

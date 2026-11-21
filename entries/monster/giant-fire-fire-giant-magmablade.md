@@ -52,25 +52,29 @@ abilities = ["36", "11", "19", "20", "16", "10"]
 
 **Experience points:** 102,400
 
-**Armor class:** 35/10/35
+**Armor class:** 35
 
-**Dr:** 10/adamantine (140 points)
+**Touch:** 10
 
-**Fort:** +23
+**Flat-footed:** 35
+
+**AC modifiers:** +11 armor, +1 deflection, +10 natural, +4 shield, -1 size
 
 **Hit points:** 253 (29d8+123)
 
-**Immune:** fire, magic missile
-
-**Mod:** +11 armor, +1 deflection, +10 natural, +4 shield, -1 size
+**Fort:** +23
 
 **Ref:** +10
+
+**Will:** +20
+
+**Dr:** 10/adamantine (140 points)
+
+**Immune:** fire, magic missile
 
 **Rock Ct:** present
 
 **Vulner:** cold
-
-**Will:** +20
 
 **Offense**
 

@@ -54,19 +54,23 @@ _This giant's skin is black and pitted, like roughly cast iron, and etched with 
 
 **Experience points:** 102,400
 
-**Armor class:** 30/6/30
+**Armor class:** 30
 
-**Fort:** +15
+**Touch:** 6
+
+**Flat-footed:** 30
+
+**AC modifiers:** +9 armor, +15 natural, -4 size
 
 **Hit points:** 270 (20d8+180)
 
-**Immune:** cold, electricity, fire
-
-**Mod:** +9 armor, +15 natural, -4 size
+**Fort:** +15
 
 **Ref:** +6
 
 **Will:** +20
+
+**Immune:** cold, electricity, fire
 
 **Offense**
 

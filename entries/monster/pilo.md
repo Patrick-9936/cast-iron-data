@@ -48,19 +48,23 @@ air around it._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Defensive abilities:** roll up
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +2 natural, +1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +1 Dex, +2 natural, +1 size
+**Fort:** +5
 
 **Ref:** +4
 
 **Will:** +3
+
+**Defensive abilities:** roll up
 
 **Offense**
 

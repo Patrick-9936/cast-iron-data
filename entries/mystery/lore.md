@@ -48,12 +48,12 @@ An oracle with the Lore mystery can choose from any of the following revelations
 
 **Arcane Archivist (Su)**
 
+**Flavor:** Your experience with lore-filled tomes has granted you the ability to cast arcane spells
+as if they were on your spell list.
+
 **Ability:** Once per day, you can cast a spell from the wizard/sorcerer spell list as if it were on
 your list of spells known. The spell consumes a spell slot one level higher than the level of the
 spell.
-
-**Flavor:** Your experience with lore-filled tomes has granted you the ability to cast arcane spells
-as if they were on your spell list.
 
 **Prereq:** 11th-level oracle
 
@@ -65,20 +65,16 @@ erased when you complete the casting.
 **Ability:** Once per day, you can spend a full hour in uninterrupted meditation. During this
 period, your hands produce mysterious writing that pertains to the future.
 
-**At 1st Level:** The prophetic writing manifests as an [augury](ref/spell/augury) spell with 90%
+**At 1st level,** the prophetic writing manifests as an [augury](ref/spell/augury) spell with 90%
 effectiveness.
 
-**At 5th Level:** The writing takes the form of a [divination](ref/spell/divination) spell with 90%
+**At 5th level,** the writing takes the form of a [divination](ref/spell/divination) spell with 90%
 effectiveness.
 
-**At 8th Level:** The writing manifests as a casting of [commune](ref/spell/commune) with no
+**At 8th level,** the writing manifests as a casting of [commune](ref/spell/commune) with no
 material component required.
 
 **Brain Drain (Su)**
-
-**Special:** The randomly stolen thoughts remain in your mind for a number of rounds equal to your
-Charisma modifier. Treat the knowledge gained as if you had used
-[detect thoughts](ref/spell/detect-thoughts). This is a mind-affecting effect.
 
 **Standard:** You can violently probe the mind of a single intelligent enemy within 100 feet. The
 target receives a Will save to negate the effect and immediately knows the source of this harmful
@@ -90,6 +86,10 @@ the jumble of stolen thoughts and memories to make a single [Knowledge](ref/skil
 check using the victim's skill bonus.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
+
+**Special:** The randomly stolen thoughts remain in your mind for a number of rounds equal to your
+Charisma modifier. Treat the knowledge gained as if you had used
+[detect thoughts](ref/spell/detect-thoughts). This is a mind-affecting effect.
 
 **Focused Trance (Ex)**
 
@@ -130,12 +130,12 @@ your Dexterity.
 
 **Spontaneous Symbology**
 
+**Flavor:** Your knowledge of the secret history of the world has unveiled the mysterious symbols
+that govern reality.
+
 **Ability:** You can cast any "symbol" spell using a spell slot of the appropriate level, even if
 the spell is not on your list of spells known. A symbol spell is any spell with the word "symbol" in
 its name.
-
-**Flavor:** Your knowledge of the secret history of the world has unveiled the mysterious symbols
-that govern reality.
 
 **Prereq:** 11th-level oracle
 
@@ -149,13 +149,13 @@ On this attempt, add a +10 competence bonus on the check.
 **Ability:** You can quickly browse through a magical tome or manual, gaining its benefits with only
 a single 8-hour study session (rather than the usual 48 hours over a period of 6 days).
 
-**At 15th Level:** You may share your _whirlwind lesson_ with a number of characters equal to your
+**At 7th level,** you may allow another character to join in your study; both of you gain the full
+benefit of having read the book.
+
+**At 15th level,** you may share your _whirlwind lesson_ with a number of characters equal to your
 oracle level. The benefits to you are permanent, whereas your students gain the tome or manual's
 benefits for a number of days equal to your Charisma modifier but then forget what they have
 learned.
-
-**At 7th Level:** You may allow another character to join in your study; both of you gain the full
-benefit of having read the book.
 
 ### Final Revelation
 

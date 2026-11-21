@@ -51,26 +51,30 @@ forms, and long branches made of bones and fibrous fronds._
 
 **Experience points:** 800
 
-**Armor class:** 15/9/15
+**Armor class:** 15
+
+**Touch:** 9
+
+**Flat-footed:** 15
+
+**AC modifiers:** +6 natural, -1 size
+
+**Hit points:** 32 (5d8+10)
+
+**Fort:** +6
+
+**Ref:** +1
+
+**Will:** +2
 
 **Defensive abilities:** negative energy affinity
 
 **Dr:** 5/bludgeoning
 
-**Fort:** +6
-
-**Hit points:** 32 (5d8+10)
-
 **Immune:** death effects, disease, energy drain, exhaustion, fatigue, nonlethal damage,
 [plant traits](ref/umr/plant-traits)
 
-**Mod:** +6 natural, -1 size
-
-**Ref:** +1
-
 **Resist:** cold 10, electricity 10
-
-**Will:** +2
 
 **Offense**
 

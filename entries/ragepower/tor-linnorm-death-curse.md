@@ -14,14 +14,12 @@ group = "rage-power"
 
 **Tor Linnorm Death Curse (Su)**
 
-**Action:** Ability
-
-**Prereq:** 8th-level barbarian
-
-The character channels the power of a [tor linnorm](ref/monster/linnorm-tor-linnorm). The
-character's melee attacks deal an additional 1 point of fire damage. If the character is knocked
+**Ability:** The character channels the power of a [tor linnorm](ref/monster/linnorm-tor-linnorm).
+The character's melee attacks deal an additional 1 point of fire damage. If the character is knocked
 unconscious or killed by an attack or spell, the attacker suffers the _curse of boiling blood_ (Will
 negates).
+
+**Prereq:** 8th-level barbarian
 
 **Curse of Boiling Blood**
 

@@ -50,19 +50,23 @@ _This elephant-sized sea creature resembles a horse crossed with a fish, with cr
 
 **Experience points:** 1,600
 
-**Armor class:** 17/9/16
+**Armor class:** 17
 
-**Defensive abilities:** anchor (see [giant seahorse](ref/monster/seahorse-giant-seahorse))
+**Touch:** 9
 
-**Fort:** +10
+**Flat-footed:** 16
+
+**AC modifiers:** +8 armor, +1 Dex, -2 size
 
 **Hit points:** 63 (6d8+36)
 
-**Mod:** +8 armor, +1 Dex, -2 size
+**Fort:** +10
 
 **Ref:** +6
 
 **Will:** +3
+
+**Defensive abilities:** anchor (see [giant seahorse](ref/monster/seahorse-giant-seahorse))
 
 **Offense**
 

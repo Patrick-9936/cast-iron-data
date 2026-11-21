@@ -50,19 +50,23 @@ each with fingers like long blades, and leaves circle its head like a crown._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/15/15
+**Armor class:** 19
 
-**Defensive abilities:** plant form
+**Touch:** 15
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +4 natural, +1 size
 
 **Hit points:** 65 (10d6+30)
 
-**Mod:** +4 Dex, +4 natural, +1 size
+**Fort:** +5
 
 **Ref:** +11
 
 **Will:** +8
+
+**Defensive abilities:** plant form
 
 **Offense**
 

@@ -49,21 +49,25 @@ darkly before surging forward._
 
 **Experience points:** 3,200
 
-**Armor class:** 3/3/3
+**Armor class:** 3
 
-**Defensive abilities:** split
+**Touch:** 3
 
-**Fort:** +9
+**Flat-footed:** 3
+
+**AC modifiers:** -2 size, -5 Dex
 
 **Hit points:** 105 (10d8+60)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -2 size, -5 Dex
+**Fort:** +9
 
 **Ref:** -2
 
 **Will:** -2
+
+**Defensive abilities:** split
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

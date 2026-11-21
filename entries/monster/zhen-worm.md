@@ -47,23 +47,27 @@ _Barely thicker than hempen rope, this orange-banded worm stretches many feet in
 
 **Experience points:** 200
 
-**Armor class:** 9/9/9
+**Armor class:** 9
 
-**Defensive abilities:** protective mucus
+**Touch:** 9
 
-**Fort:** +3
+**Flat-footed:** 9
+
+**AC modifiers:** -1 Dex
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** gaze attacks, mind-affecting effects, sight-based attacks, and visual effects
-
-**Mod:** -1 Dex
+**Fort:** +3
 
 **Ref:** -1
 
-**Weaknesses:** blindness
-
 **Will:** +0
+
+**Defensive abilities:** protective mucus
+
+**Immune:** gaze attacks, mind-affecting effects, sight-based attacks, and visual effects
+
+**Weaknesses:** blindness
 
 **Offense**
 

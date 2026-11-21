@@ -46,21 +46,25 @@ _This giant bee is as large as a horse and unusually fat, with light brown strip
 
 **Experience points:** 1,600
 
-**Armor class:** 17/9/17
+**Armor class:** 17
 
-**Fort:** +9
+**Touch:** 9
+
+**Flat-footed:** 17
+
+**AC modifiers:** +8 natural, -1 size
 
 **Hit points:** 59 (7d8+28)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +8 natural, -1 size
+**Fort:** +9
 
 **Ref:** +2
 
-**Weaknesses:** vulnerable to smoke
-
 **Will:** +3
+
+**Immune:** mind-affecting effects
+
+**Weaknesses:** vulnerable to smoke
 
 **Offense**
 

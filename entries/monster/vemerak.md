@@ -55,25 +55,29 @@ three tentacular tails._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/11/26
+**Armor class:** 29
 
-**Dr:** 5/-
+**Touch:** 11
 
-**Fort:** +13
+**Flat-footed:** 26
+
+**AC modifiers:** +3 Dex, +18 natural, -2 size
 
 **Hit points:** 195 (17d8+119)
 
-**Immune:** acid, electricity, disease, mind-affecting, poison
-
-**Mod:** +3 Dex, +18 natural, -2 size
+**Fort:** +13
 
 **Ref:** +8
+
+**Will:** +13
+
+**Dr:** 5/-
+
+**Immune:** acid, electricity, disease, mind-affecting, poison
 
 **Resist:** sonic 20
 
 **Sr:** 25
-
-**Will:** +13
 
 **Offense**
 

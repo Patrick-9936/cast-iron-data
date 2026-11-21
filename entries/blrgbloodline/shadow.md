@@ -47,7 +47,7 @@ Your bloodline gives you powers over light and darkness.
 don't already have it. If you already have low-light vision, you gain
 [darkvision](ref/rule/darkvision) to a distance of 30 feet.
 
-**At 10th Level:** You gain [darkvision](ref/rule/darkvision) with a range of 30 feet, or add 30
+**At 10th level,** you gain [darkvision](ref/rule/darkvision) with a range of 30 feet, or add 30
 feet to the range of your darkvision if you already have it.
 
 **Shades of Rage (Su)**
@@ -66,28 +66,28 @@ equal to 10 + your class level.
 **Passive:** You gain cold [resistance](ref/umr/resistance) 10. Your melee attacks deal additional
 cold damage equal to the critical multiplier of the weapon you use.
 
-**At 13th Level:** Your cold resistance increases to 20.
+**At 13th level,** your cold resistance increases to 20.
 
-**At 18th Level:** You become [immune](ref/umr/immunity) to cold damage.
+**At 18th level,** you become [immune](ref/umr/immunity) to cold damage.
 
 **Strike Through Shadow (Su)**
+
+**Gained:** At 12th Level
 
 **Ability:** You can declare a single melee attack as a strike through shadow. This attack moves
 through its target's shadow and strikes from below or inside its armor. You make this attack against
 the target's touch AC.
 
-**Gained:** At 12th Level
-
 **Usage:** 1 time/day + 1 per 3 bloodrager levels beyond 12th
 
 **Shadow Door (Su)**
+
+**Gained:** At 16th Level
 
 **Ability:** You can take any part of your movement through shadows, teleporting to another location
 within 60 feet. This ability functions as [dimension door](ref/spell/dimension-door), except you
 can't use shadow door in brightly lit areas. You can teleport in this manner a total of 10 feet per
 class level each day.
-
-**Gained:** At 16th Level
 
 **Shadow Warrior (Su)**
 

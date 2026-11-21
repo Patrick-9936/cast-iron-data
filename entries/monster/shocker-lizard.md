@@ -48,19 +48,23 @@ with sparks of lightning._
 
 **Experience points:** 600
 
-**Armor class:** 16/13/14
+**Armor class:** 16
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +3 natural, +1 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** electricity
-
-**Mod:** +2 Dex, +3 natural, +1 size
+**Fort:** +4
 
 **Ref:** +5
 
 **Will:** +2
+
+**Immune:** electricity
 
 **Offense**
 

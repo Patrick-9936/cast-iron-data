@@ -48,21 +48,25 @@ that shimmers radiantly in the light._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/14/19
+**Armor class:** 24
 
-**Dr:** 15/slashing or piercing
+**Touch:** 14
 
-**Fort:** +13
+**Flat-footed:** 19
+
+**AC modifiers:** +5 Dex, +10 natural, -1 size
 
 **Hit points:** 136 (13d10+65)
 
-**Immune:** blindness
-
-**Mod:** +5 Dex, +10 natural, -1 size
+**Fort:** +13
 
 **Ref:** +13
 
 **Will:** +10
+
+**Dr:** 15/slashing or piercing
+
+**Immune:** blindness
 
 **Offense**
 

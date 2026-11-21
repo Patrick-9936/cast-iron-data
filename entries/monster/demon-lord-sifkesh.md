@@ -54,31 +54,35 @@ that float nearby as if they were still attached._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 49/43/36
+**Armor class:** 49
+
+**Touch:** 43
+
+**Flat-footed:** 36
+
+**AC modifiers:** +4 deflection, +12 Dex, +1 dodge, +6 natural, +16 profane
+
+**Hit points:** 666 (31d10+496)
+
+**Fort:** +30
+
+**Ref:** +33
+
+**Will:** +30
 
 **Defensive abilities:** critical healing, _[freedom of movement](ref/spell/freedom-of-movement)_,
 heretical
 
 **Dr:** 20/cold iron, epic, and good
 
-**Fort:** +30
-
-**Hit points:** 666 (31d10+496)
-
 **Immune:** ability damage and drain, bleed, charm and compulsion effects, death effects,
 electricity, energy drain, petrification, poison, slashing weapons
-
-**Mod:** +4 deflection, +12 Dex, +1 dodge, +6 natural, +16 profane
-
-**Ref:** +33
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, cold 30, fire 30
 
 **Sr:** 39
-
-**Will:** +30
 
 **Offense**
 

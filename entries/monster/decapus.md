@@ -48,13 +48,17 @@ eyes on its bulbous body._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/11/15
+**Armor class:** 16
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +5 natural
 
 **Hit points:** 45 (6d8+18)
 
-**Mod:** +1 Dex, +5 natural
+**Fort:** +4
 
 **Ref:** +3
 

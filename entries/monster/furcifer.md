@@ -52,27 +52,31 @@ sickly-sweet scent fills the swirling air around it._
 
 **Experience points:** 25,600
 
-**Armor class:** 27/13/22
+**Armor class:** 27
+
+**Touch:** 13
+
+**Flat-footed:** 22
+
+**AC modifiers:** +5 Dex, +14 natural, -2 size
+
+**Hit points:** 171 (18d10+72)
+
+**Fort:** +15
+
+**Ref:** +16
+
+**Will:** +12
 
 **Defensive abilities:** all-around vision, displacement
 
 **Evasion:** present
 
-**Fort:** +15
-
-**Hit points:** 171 (18d10+72)
-
 **Immune:** illusions
-
-**Mod:** +5 Dex, +14 natural, -2 size
-
-**Ref:** +16
 
 **Uncanny dodge:** present
 
 **Vulner:** cold
-
-**Will:** +12
 
 **Offense**
 

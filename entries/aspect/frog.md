@@ -22,9 +22,9 @@ well surprising tactics in combat.
 
 **Passive:** You gain a +4 competence bonus on Acrobatics checks when jumping and on Swim checks.
 
-At 8th level: These bonuses increase to +6.
+**At 8th level,** these bonuses increase to +6.
 
-At 15th level: These bonuses increase to +8.
+**At 15th level,** these bonuses increase to +8.
 
 **Major Form**
 
@@ -35,13 +35,13 @@ a base speed of 30 feet, a swim speed of 30 feet, [low-light vision](ref/rule/lo
 [grab](ref/umr/grab) ability, and the ability to treat all [jumps](ref/skill/acrobatics) as if you
 had a running start.
 
-**At 15th Level:** Your swim speed increases to 60 feet. In addition, the reach of your tongue
-attack increases to 30 feet, and your tongue attack deals bludgeoning damage equal to the damage
-dealt by your _shifter claws._
-
-**At 8th Level:** You gain a tongue attack. Your tongue is a primary natural attack with a reach of
+**At 8th level,** you gain a tongue attack. Your tongue is a primary natural attack with a reach of
 15 feet. Your tongue deals no damage on a hit, but can be used to grab. You do not gain the
 [grappled](ref/rule/grapple-conditions) condition while using your tongue in this manner.
+
+**At 15th level,** your swim speed increases to 60 feet. In addition, the reach of your tongue
+attack increases to 30 feet, and your tongue attack deals bludgeoning damage equal to the damage
+dealt by your _shifter claws._
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

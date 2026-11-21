@@ -47,21 +47,25 @@ _This small, blue-gray humanoid has glowing eyes and huge ears on its round, ove
 
 **Experience points:** 200
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Defensive abilities:** out of phase
+**Touch:** 13
 
-**Dr:** 5/cold iron
+**Flat-footed:** 11
 
-**Fort:** +1
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 9 (2d6+2)
 
-**Mod:** +2 Dex, +1 size
+**Fort:** +1
 
 **Ref:** +5
 
 **Will:** +4
+
+**Defensive abilities:** out of phase
+
+**Dr:** 5/cold iron
 
 **Offense**
 

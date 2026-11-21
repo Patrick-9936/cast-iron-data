@@ -48,19 +48,23 @@ gnarled roots grow, and tangles of vines hang from its moldering chest like spil
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/20
+**Armor class:** 23
 
-**Fort:** +12
+**Touch:** 13
+
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +1 dodge, +10 natural
 
 **Hit points:** 105 (14d8+42)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +1 dodge, +10 natural
+**Fort:** +12
 
 **Ref:** +6
 
 **Will:** +7
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

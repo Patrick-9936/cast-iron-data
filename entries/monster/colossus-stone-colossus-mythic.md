@@ -55,21 +55,25 @@ _This immense stone figure appears to be a keep that uprooted itself and went fo
 
 **Experience points:** 204,800
 
-**Armor class:** 31/2/31
+**Armor class:** 31
 
-**Dr:** 10/epic
+**Touch:** 2
 
-**Fort:** +7
+**Flat-footed:** 31
+
+**AC modifiers:** +29 natural, -8 size
 
 **Hit points:** 265 (21d10+150)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +29 natural, -8 size
+**Fort:** +7
 
 **Ref:** +7
 
 **Will:** +7
+
+**Dr:** 10/epic
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

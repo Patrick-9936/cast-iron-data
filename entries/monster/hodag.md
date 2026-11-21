@@ -52,19 +52,23 @@ teeth and glowing red eyes._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/11/17
+**Armor class:** 19
 
-**Ferocity:** present
+**Touch:** 11
 
-**Fort:** +8
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +8 natural, -1 size
 
 **Hit points:** 60 (8d10+16)
 
-**Mod:** +2 Dex, +8 natural, -1 size
+**Fort:** +8
 
 **Ref:** +8
 
 **Will:** +5
+
+**Ferocity:** present
 
 **Offense**
 

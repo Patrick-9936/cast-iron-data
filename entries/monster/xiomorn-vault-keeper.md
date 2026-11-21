@@ -56,25 +56,29 @@ with a fluid grace._
 
 **Experience points:** 38,400
 
-**Armor class:** 28/19/19
+**Armor class:** 28
+
+**Touch:** 19
+
+**Flat-footed:** 19
+
+**AC modifiers:** +8 Dex, +1 dodge, +9 natural
+
+**Hit points:** 200 (16d10+112)
+
+**Fort:** +12
+
+**Ref:** +18
+
+**Will:** +14
 
 **Dr:** 10/adamantine and bludgeoning
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 200 (16d10+112)
-
 **Immune:** elemental traits
 
-**Mod:** +8 Dex, +1 dodge, +9 natural
-
-**Ref:** +18
-
 **Sr:** 25
-
-**Will:** +14
 
 **Offense**
 

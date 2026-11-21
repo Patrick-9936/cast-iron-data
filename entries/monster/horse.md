@@ -48,13 +48,17 @@ loose-fitting barding._
 
 **Experience points:** 400
 
-**Armor class:** 11/11/9
+**Armor class:** 11
 
-**Fort:** +6
+**Touch:** 11
+
+**Flat-footed:** 9
+
+**AC modifiers:** +2 Dex, -1 size
 
 **Hit points:** 15 (2d8+6)
 
-**Mod:** +2 Dex, -1 size
+**Fort:** +6
 
 **Ref:** +5
 

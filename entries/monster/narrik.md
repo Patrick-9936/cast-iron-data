@@ -52,19 +52,23 @@ its chest._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/15/15
+**Armor class:** 21
 
-**Defensive abilities:** alien anatomy
+**Touch:** 15
 
-**Fort:** +7
+**Flat-footed:** 15
+
+**AC modifiers:** +4 Dex, +1 dodge, +6 natural
 
 **Hit points:** 75 (10d8+30)
 
-**Mod:** +4 Dex, +1 dodge, +6 natural
+**Fort:** +7
 
 **Ref:** +7
 
 **Will:** +9
+
+**Defensive abilities:** alien anatomy
 
 **Offense**
 

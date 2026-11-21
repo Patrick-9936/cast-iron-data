@@ -61,11 +61,11 @@ You see the world differently from others, and can mold it to suit your needs.
 
 **Disorienting Touch (Sp)**
 
+**Gained:** At 1st Level
+
 **Ability:** As a melee touch attack, you can cause a creature to doubt its sense of depth and
 direction. The target is [sickened](ref/misc/sickened) for a number of rounds equal to half your
 sorcerer level (minimum 1). Multiple touches do not stack, but they do add to the duration.
-
-**Gained:** At 1st Level
 
 **Usage:** 3 + Charisma modifier times/day
 
@@ -80,33 +80,33 @@ spell completion item), you may ignore one spell prerequisite without increasing
 
 **Distracting Pattern (Su)**
 
+**Gained:** At 9th Level
+
 **Ability:** Once per day, you can distort the scenery around you for a number of rounds equal to
 your sorcerer level. This ability provides a 20% miss chance on ranged attacks made against you and
 grants you a bonus on [Stealth](ref/skill/stealth) checks equal to half your sorcerer level.
 
-**Gained:** At 9th Level
+**At 17th level,** you can use this ability twice per day.
 
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times a day.
+**At 20th level,** you can use this ability three times a day.
 
 **Relativity (Su)**
+
+**Gained:** At 15th Level
+
+**Flavor:** You can traverse vertical surfaces as easily as you walk on the ground.
 
 **Ability:** When climbing, you move at your normal land speed and take none of the penalties
 associated with climbing. The surface must be able to support your weight, and
 [difficult terrain](ref/rule/terrain-and-obstacles) affects your speed as normal. You are also
 immune to [reverse gravity](ref/spell/reverse-gravity) and similar effects.
 
-**Flavor:** You can traverse vertical surfaces as easily as you walk on the ground.
-
-**Gained:** At 15th Level
-
 **Living Paradox (Ex)**
+
+**Gained:** At 20th Level
 
 **Flavor:** Your outward appearance remains the same, but beneath your skin lies not flesh and blood
 but clockwork gears, miniature galaxies, or something equally uncanny.
-
-**Gained:** At 20th Level
 
 **Passive:** You gain immunity to disease and poison. You take no additional damage from bleed
 effects, critical hits, and sneak attacks.

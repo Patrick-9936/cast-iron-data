@@ -47,19 +47,23 @@ emits from the creature's body._
 
 **Experience points:** 600
 
-**Armor class:** 15/13/13
+**Armor class:** 15
 
-**Fort:** +7
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +2 natural, +1 size
 
 **Hit points:** 17 (2d8+8)
 
-**Mod:** +2 Dex, +2 natural, +1 size
+**Fort:** +7
 
 **Ref:** +5
 
-**Resist:** electricity 10
-
 **Will:** +0
+
+**Resist:** electricity 10
 
 **Offense**
 

@@ -50,21 +50,25 @@ which bears humanoid arms, legs, eyes, or even faces._
 
 **Experience points:** 200
 
-**Armor class:** 13/13/13
+**Armor class:** 13
 
-**Defensive abilities:** sickening crunch, swarm traits
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 13
+
+**AC modifiers:** -1 Dex, +4 size
 
 **Hit points:** 9 (2d8)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** -1 Dex, +4 size
+**Fort:** +3
 
 **Ref:** -1
 
 **Will:** +1
+
+**Defensive abilities:** sickening crunch, swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
 
 **Offense**
 

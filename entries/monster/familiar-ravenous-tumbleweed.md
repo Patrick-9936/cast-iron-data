@@ -47,19 +47,23 @@ _This tangle of dry-looking vegetation has grown into a spherical ball of thorny
 
 **Experience points:** 135
 
-**Armor class:** 14/13/13
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +1 natural, +2 size
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +1 natural, +2 size
+**Fort:** +3
 
 **Ref:** +1
 
 **Will:** +0
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

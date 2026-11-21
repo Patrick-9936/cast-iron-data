@@ -51,21 +51,25 @@ of goodwill._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Dr:** 10/cold iron
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +2 natural, +1 size
 
 **Hit points:** 38 (7d6+14)
 
-**Mod:** +3 Dex, +1 dodge, +2 natural, +1 size
+**Fort:** +3
 
 **Ref:** +8
 
-**Sr:** 15
-
 **Will:** +8
+
+**Dr:** 10/cold iron
+
+**Sr:** 15
 
 **Offense**
 

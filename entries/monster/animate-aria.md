@@ -51,27 +51,31 @@ ground. Stirring crescendos and moving fanfares can be heard throughout its melo
 
 **Experience points:** 6,400
 
-**Armor class:** 23/13/19
+**Armor class:** 23
+
+**Touch:** 13
+
+**Flat-footed:** 19
+
+**AC modifiers:** +4 Dex, +10 natural, -1 size
+
+**Hit points:** 107 (14d10+30)
+
+**Fort:** +4
+
+**Ref:** +8
+
+**Will:** +4
 
 **Amorph:** present
 
 **Defensive abilities:** natural invisibility
 
-**Fort:** +4
-
-**Hit points:** 107 (14d10+30)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +4 Dex, +10 natural, -1 size
-
-**Ref:** +8
 
 **Vulner:** sonic
 
 **Weaknesses:** dissonance
-
-**Will:** +4
 
 **Offense**
 

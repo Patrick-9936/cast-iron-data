@@ -50,29 +50,33 @@ rest is lost in darkness._
 
 **Experience points:** 3,200
 
-**Armor class:** 18/18/14
+**Armor class:** 18
 
-**Dr:** 10/cold iron or good
+**Touch:** 18
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 deflection, +4 Dex
+
+**Hit points:** 59 (7d10+21)
 
 **Fort:** +5
 
-**Hit points:** 59 (7d10+21)
+**Ref:** +11
+
+**Will:** +7
+
+**Dr:** 10/cold iron or good
 
 **Immune:** cold, electricity, poison
 
 **Incorporeal:** present
-
-**Mod:** +4 deflection, +4 Dex
-
-**Ref:** +11
 
 **Resist:** acid 10, fire 10
 
 **Sr:** 17
 
 **Weaknesses:** sunlight powerlessness
-
-**Will:** +7
 
 **Offense**
 

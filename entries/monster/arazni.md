@@ -58,7 +58,21 @@ middle of her chest._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 44/22/38
+**Armor class:** 44
+
+**Touch:** 22
+
+**Flat-footed:** 38
+
+**AC modifiers:** +6 armor, +5 deflection, +6 Dex, +1 insight, +10 natural, +6 shield
+
+**Hit points:** 379 (20d6+307)
+
+**Fort:** +23
+
+**Ref:** +21
+
+**Will:** +25
 
 **Chan Res:** +4
 
@@ -67,23 +81,13 @@ mythic saving throws, rejuvenation
 
 **Dr:** 15/bludgeoning and magic
 
-**Fort:** +23
-
 **Fortif:** 50
 
-**Hit points:** 379 (20d6+307)
-
 **Immune:** cold, electricity, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +6 armor, +5 deflection, +6 Dex, +1 insight, +10 natural, +6 shield
-
-**Ref:** +21
 
 **Sr:** 23
 
 **Unstop:** present
-
-**Will:** +25
 
 **Offense**
 

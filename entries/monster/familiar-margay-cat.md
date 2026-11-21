@@ -46,13 +46,17 @@ _Black rosettes and streaks mark the brown fur of this slender feline._
 
 **Experience points:** 100
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** +2
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +4
 

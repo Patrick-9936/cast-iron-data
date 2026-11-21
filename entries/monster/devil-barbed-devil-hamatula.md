@@ -51,27 +51,31 @@ fiery-eyed sentinel bristles with barbs._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/16/20
+**Armor class:** 26
+
+**Touch:** 16
+
+**Flat-footed:** 20
+
+**AC modifiers:** +6 Dex, +10 natural
+
+**Hit points:** 138 (12d10+72)
+
+**Fort:** +14
+
+**Ref:** +14
+
+**Will:** +8
 
 **Defensive abilities:** barbed defense
 
 **Dr:** 10/good
 
-**Fort:** +14
-
-**Hit points:** 138 (12d10+72)
-
 **Immune:** fire, poison
-
-**Mod:** +6 Dex, +10 natural
-
-**Ref:** +14
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 22
-
-**Will:** +8
 
 **Offense**
 

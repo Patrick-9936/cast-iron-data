@@ -53,25 +53,29 @@ its stately mouth, and its human-like hands and feet end in stubby but sharp cla
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Dr:** 5/evil or silver
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
 
 **Hit points:** 38 (7d10)
 
-**Immune:** electricity, petrification
-
-**Mod:** +3 Dex, +4 natural
+**Fort:** +2
 
 **Ref:** +8
+
+**Will:** +8; +4 vs. poison
+
+**Dr:** 5/evil or silver
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 15
-
-**Will:** +8; +4 vs. poison
 
 **Offense**
 

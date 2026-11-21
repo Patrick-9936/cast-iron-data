@@ -20,10 +20,10 @@ many attacks and effects.
 
 **Minor Form**
 
-**At 12th Level:** This benefit becomes [improved evasion](ref/talent/improved-evasion), as per the
-rogue advanced talent.
-
 **Passive:** You gain [evasion](ref/ability/evasion), as per the rogue class feature.
+
+**At 12th level,** this benefit becomes [improved evasion](ref/talent/improved-evasion), as per the
+rogue advanced talent.
 
 **Major Form**
 
@@ -34,10 +34,10 @@ in this form, you gain a base speed of 30 feet, a climb speed of 20 feet, a swim
 [bite attack](ref/umr/natural-attacks) (1d4 damage), and you use your Dexterity modifier instead of
 your Strength modifier on Climb and Swim checks.
 
-**At 15th Level:** You do not provoke attacks of opportunity while moving through or out of a
-creature's threatened area or moving into its space, but you do when you leave its space.
+**At 8th level,** your climb and swim speeds both increase to 40 feet.
 
-**At 8th Level:** Your climb and swim speeds both increase to 40 feet.
+**At 15th level,** you do not provoke attacks of opportunity while moving through or out of a
+creature's threatened area or moving into its space, but you do when you leave its space.
 
 **Functions As:** [Beast Shape II](ref/spell/beast-shape-2)
 

@@ -52,13 +52,17 @@ _This elegantly dressed woman has the head and bushy tail of well-groomed fox._
 
 **Experience points:** 200
 
-**Armor class:** 13/13/10
+**Armor class:** 13
 
-**Fort:** -1
+**Touch:** 13
+
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex, +1 dodge
 
 **Hit points:** 5 (1d6-1)
 
-**Mod:** +2 Dex, +1 dodge
+**Fort:** -1
 
 **Ref:** +2
 

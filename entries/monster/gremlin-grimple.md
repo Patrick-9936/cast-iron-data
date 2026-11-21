@@ -52,19 +52,23 @@ opossum._
 
 **Experience points:** 135
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Dr:** 2/cold iron
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 4 (1d6+1)
 
-**Mod:** +1 Dex, +2 size
+**Fort:** +1
 
 **Ref:** +3
 
 **Will:** +2
+
+**Dr:** 2/cold iron
 
 **Offense**
 

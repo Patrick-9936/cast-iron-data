@@ -47,23 +47,27 @@ hands._
 
 **Experience points:** 1,200
 
-**Armor class:** 15/13/12
+**Armor class:** 15
+
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 dodge, +2 natural
+
+**Hit points:** 37 (5d8+15)
+
+**Fort:** +3
+
+**Ref:** +3
+
+**Will:** +6
 
 **Chan Res:** +4
 
 **Dr:** 5/piercing
 
-**Fort:** +3
-
-**Hit points:** 37 (5d8+15)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +1 dodge, +2 natural
-
-**Ref:** +3
-
-**Will:** +6
 
 **Offense**
 

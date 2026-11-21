@@ -46,13 +46,17 @@ on its body._
 
 **Experience points:** 6,400
 
-**Armor class:** 21/9/20
+**Armor class:** 21
 
-**Fort:** +14
+**Touch:** 9
+
+**Flat-footed:** 20
+
+**AC modifiers:** +1 Dex, +12 natural, -2 size
 
 **Hit points:** 133 (14d8+70)
 
-**Mod:** +1 Dex, +12 natural, -2 size
+**Fort:** +14
 
 **Ref:** +10
 

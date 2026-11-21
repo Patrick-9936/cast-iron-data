@@ -53,19 +53,23 @@ glinting in the light._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/14
+**Armor class:** 17
 
-**Defensive abilities:** swarm traits
+**Touch:** 15
 
-**Fort:** +7
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +2 natural, +2 size
 
 **Hit points:** 37 (5d8+15)
 
-**Mod:** +3 Dex, +2 natural, +2 size
+**Fort:** +7
 
 **Ref:** +9
 
 **Will:** +2
+
+**Defensive abilities:** swarm traits
 
 **Offense**
 

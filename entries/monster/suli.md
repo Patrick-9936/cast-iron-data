@@ -58,19 +58,23 @@ blaze of crackling flames._
 
 **Experience points:** 200
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Fort:** +2
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 armor, +1 Dex
 
 **Hit points:** 11 (1d10+1)
 
-**Mod:** +6 armor, +1 Dex
+**Fort:** +2
 
 **Ref:** +3
 
-**Resist:** acid 5, cold 5, electricity 5, fire 5
-
 **Will:** -1
+
+**Resist:** acid 5, cold 5, electricity 5, fire 5
 
 **Offense**
 

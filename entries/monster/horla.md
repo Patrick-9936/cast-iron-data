@@ -51,21 +51,25 @@ against the skin._
 
 **Experience points:** 4,800
 
-**Armor class:** 18/16/13
+**Armor class:** 18
 
-**Dr:** 5/magic and slashing
+**Touch:** 16
 
-**Fort:** +8
+**Flat-footed:** 13
+
+**AC modifiers:** +5 Dex, +2 natural, +1 size
 
 **Hit points:** 104 (11d8+55)
 
-**Immune:** fear, fire, poison, sleep
-
-**Mod:** +5 Dex, +2 natural, +1 size
+**Fort:** +8
 
 **Ref:** +8
 
 **Will:** +11
+
+**Dr:** 5/magic and slashing
+
+**Immune:** fear, fire, poison, sleep
 
 **Offense**
 

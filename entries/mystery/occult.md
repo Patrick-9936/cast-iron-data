@@ -57,20 +57,16 @@ An oracle with the Occult mystery can choose from any of the following revelatio
 **Ability:** Once per day, you can spend a full hour in uninterrupted meditation. During this
 period, your hands produce mysterious writing that pertains to the future.
 
-**At 1st Level:** The prophetic writing manifests as an [augury](ref/spell/augury) spell with 90%
+**At 1st level,** the prophetic writing manifests as an [augury](ref/spell/augury) spell with 90%
 effectiveness.
 
-**At 5th Level:** The writing takes the form of a [divination](ref/spell/divination) spell with 90%
+**At 5th level,** the writing takes the form of a [divination](ref/spell/divination) spell with 90%
 effectiveness.
 
-**At 8th Level:** The writing manifests as a casting of [commune](ref/spell/commune) with no
+**At 8th level,** the writing manifests as a casting of [commune](ref/spell/commune) with no
 material component required.
 
 **Brain Drain (Su)**
-
-**Special:** The randomly stolen thoughts remain in your mind for a number of rounds equal to your
-Charisma modifier. Treat the knowledge gained as if you had used
-[detect thoughts](ref/spell/detect-thoughts). This is a mind-affecting effect.
 
 **Standard:** You can violently probe the mind of a single intelligent enemy within 100 feet. The
 target receives a Will save to negate the effect and immediately knows the source of this harmful
@@ -83,6 +79,10 @@ check using the victim's skill bonus.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
 
+**Special:** The randomly stolen thoughts remain in your mind for a number of rounds equal to your
+Charisma modifier. Treat the knowledge gained as if you had used
+[detect thoughts](ref/spell/detect-thoughts). This is a mind-affecting effect.
+
 **Ectoplasmic Armor (Su)**
 
 **Ability:** You can conjure armor made of ectoplasm that grants you a +4 armor bonus to AC. In
@@ -92,19 +92,15 @@ special ability.
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The armor bonus increases to +6.
+**At 7th level,** the armor bonus increases to +6.
 
-At 11th level: The armor bonus increases to +8.
+**At 11th level,** the armor bonus increases to +8.
 
-At 15th level: The armor bonus increases to +10.
+**At 15th level,** the armor bonus increases to +10.
 
-At 19th level: The armor bonus increases to +12.
+**At 19th level,** the armor bonus increases to +12.
 
 **Phantom Touch (Su)**
-
-**At 5th Level:** The target instead becomes [frightened](ref/misc/frightened).
-
-**At 7th Level:** The target becomes [panicked](ref/misc/panicked).
 
 **Standard:** You can perform a melee touch attack that causes a living creature to become
 [shaken](ref/misc/shaken). This ability lasts for a number of rounds equal to
@@ -112,13 +108,17 @@ At 19th level: The armor bonus increases to +12.
 
 **Usage:** 3 + Charisma modifier times/day
 
+**At 5th level,** the target instead becomes [frightened](ref/misc/frightened).
+
+**At 7th level,** the target becomes [panicked](ref/misc/panicked).
+
 **Project Psyche (Su)**
+
+**Flavor:** You can project your psyche into another vessel.
 
 **Ability:** Once per day, you can possess another creature as if using the
 [magic jar](ref/spell/magic-jar) spell, though this does not require a receptacle. You must be
 adjacent to the target creature, which receives a Will save against the effect.
-
-**Flavor:** You can project your psyche into another vessel.
 
 **Prereq:** 11th-level oracle
 
@@ -130,9 +130,9 @@ takes force damage equal to 1d8 + half of your oracle level.
 
 This effect lasts until the end of your next turn.
 
-**Prereq:** 7th-level oracle
-
 **Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
+
+**Prereq:** 7th-level oracle
 
 **Spectral Spells (Su)**
 
@@ -150,34 +150,34 @@ move in any direction and pass through solid objects. You can take no actions ot
 while in this form. You remain in this form for a number of rounds equal to your oracle level, but
 you can end this effect prematurely as a **standard action**.
 
-**At 15th Level:** You can use this ability twice a day.
+**At 15th level,** you can use this ability twice a day.
 
 **Prereq:** 11th-level oracle
 
 **Sure Soul (Su)**
 
-**At 11th Level:** The bonus increases to +4.
-
-**At 7th Level:** This bonus also applies against death effects and mind-affecting effects.
-
 **Passive:** Because of your experience with possessing spirits, you gain a +2 insight bonus on
 saving throws against possession effects such as _[magic jar](ref/spell/magic-jar),_ a
 [ghost's](ref/template/ghost) _malevolence_ ability, or domination effects.
+
+**At 7th level,** this bonus also applies against death effects and mind-affecting effects.
+
+**At 11th level,** the bonus increases to +4.
 
 **Voice of the Grave (Su)**
 
 **Ability:** You can [speak with dead](ref/spell/speak-with-dead), as per the spell.
 
-**At 5th Level:** The dead creature you question takes -2 penalty on its Will save to resist this
-effect.
-
 **Usage:** 1 time/day per oracle level
 
-At 10th level: The penalty increases to -4.
+**At 5th level,** the dead creature you question takes -2 penalty on its Will save to resist this
+effect.
 
-At 15th level: The penalty increases to -6.
+**At 10th level,** the penalty increases to -4.
 
-At 20th level: The penalty increases to -8.
+**At 15th level,** the penalty increases to -6.
+
+**At 20th level,** the penalty increases to -8.
 
 ### Final Revelation
 

@@ -88,17 +88,17 @@ can end as many as she wants with the same immediate action.
 
 **Life Sight (Ex)**
 
+**Flavor:** The shaman can see the states of life, death, and general health of those around her.
+
 **Ability:** When she uses this ability, she can tell whether or not creatures within 30 feet of her
 that she can see are living, wounded, dying, or dead. She can also tell if those creatures are
 confused, disabled, diseased, nauseated, poisoned, sickened or staggered.
 
-**Flavor:** The shaman can see the states of life, death, and general health of those around her.
+**Usage:** 1 time/day per shaman level
 
-**At 12th Level:** When using _life sight_ she is able to sense all nearby living creatures; this
+**At 12th level,** when using _life sight_ she is able to sense all nearby living creatures; this
 functions similar to [blindsight](ref/umr/blindsight), but only for living creatures within 30 feet
 of her.
-
-**Usage:** 1 time/day per shaman level
 
 ### Spirit Animal
 
@@ -152,9 +152,9 @@ ability upon having access to the true version of that spirit.
 
 **Manifestation**
 
-**Flavor:** The shaman becomes a perfect channel for life energy.
-
 **Gained:** At 20th Level
+
+**Flavor:** The shaman becomes a perfect channel for life energy.
 
 **Passive:** She gains immunity to bleed, death attacks, and negative energy, as well as to the
 exhausted, fatigued, nauseated, and sickened conditions. Ability damage and drain cannot reduce her

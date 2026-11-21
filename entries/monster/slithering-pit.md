@@ -54,21 +54,25 @@ their own accord._
 
 **Experience points:** 600
 
-**Armor class:** 13/13/10
+**Armor class:** 13
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 10
+
+**AC modifiers:** +3 Dex
 
 **Hit points:** 25 (3d8+12)
 
-**Immune:** acid, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +3 Dex
+**Fort:** +5
 
 **Ref:** +4
 
-**Weaknesses:** breach vulnerability
-
 **Will:** -2
+
+**Immune:** acid, [ooze traits](ref/umr/ooze-traits)
+
+**Weaknesses:** breach vulnerability
 
 **Offense**
 

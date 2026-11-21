@@ -17,19 +17,19 @@ group = "summoner-evolution"
 **Flavor:** The eidolon appears as a celestial creature and manifests some of the abilities of a
 celestial.
 
-**At 12th Level:** By spending 2 additional evolution points, this protection is increased to
-immunity against these attacks and the [spell resistance](ref/rule/spell-resistance) is increased to
-11 + its HD (the summoner must pay for the 7th-level upgrade before paying for this 12th-level
-upgrade).
-
-**At 7th Level:** By spending 2 additional evolution points, this bonus on saves is increased to +4
-and the [spell resistance](ref/rule/spell-resistance) is extended to affect any spells and effects
-from evil creatures.
-
 **Passive:** Spells and effects that target creatures with the good subtype or have specific effects
 against such creatures affect the eidolon as if it were a celestial. The eidolon gains a +2 bonus on
 saves against disease, petrification, poison, and electricity spells and effects. It also gains
 [spell resistance](ref/rule/spell-resistance) equal to 5 + its HD against spells with the evil
 descriptor.
+
+**At 7th level,** by spending 2 additional evolution points, this bonus on saves is increased to +4
+and the [spell resistance](ref/rule/spell-resistance) is extended to affect any spells and effects
+from evil creatures.
+
+**At 12th level,** by spending 2 additional evolution points, this protection is increased to
+immunity against these attacks and the [spell resistance](ref/rule/spell-resistance) is increased to
+11 + its HD (the summoner must pay for the 7th-level upgrade before paying for this 12th-level
+upgrade).
 
 **Prereq:** The summoner must be good-aligned

@@ -52,21 +52,25 @@ creature slinks forward carefully._
 
 **Experience points:** 200
 
-**Armor class:** 13/13/12
+**Armor class:** 13
 
-**Dr:** 2/cold iron
+**Touch:** 13
 
-**Fort:** +0
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 size
 
 **Hit points:** 6 (1d6+3)
 
-**Mod:** +1 Dex, +2 size
+**Fort:** +0
 
 **Ref:** +3
 
-**Sr:** 7
-
 **Will:** +4
+
+**Dr:** 2/cold iron
+
+**Sr:** 7
 
 **Offense**
 

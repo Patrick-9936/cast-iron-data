@@ -56,7 +56,21 @@ claws._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/12/22
+**Armor class:** 25
+
+**Touch:** 12
+
+**Flat-footed:** 22
+
+**AC modifiers:** +3 Dex, +13 natural, -1 size
+
+**Hit points:** 123 (13d10+52)
+
+**Fort:** +12
+
+**Ref:** +7
+
+**Will:** +14
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -64,21 +78,11 @@ claws._
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 123 (13d10+52)
-
 **Immune:** acid, polymorph
-
-**Mod:** +3 Dex, +13 natural, -1 size
-
-**Ref:** +7
 
 **Resist:** electricity 10, sonic 10
 
 **Sr:** 21
-
-**Will:** +14
 
 **Offense**
 

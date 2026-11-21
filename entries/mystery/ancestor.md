@@ -51,21 +51,21 @@ An oracle with the Ancestor mystery can choose from any of the following revelat
 **Ability:** You can summon a simple or martial weapon from your family's history that is
 appropriate for your current size. You are considered proficient with this weapon.
 
-**At 11th Level:** The weapon gains the [ghost touch](ref/magic-enh/ghost-touch-weapon) weapon
-property.
-
-**At 3rd Level:** The weapon is considered [masterwork](ref/rule/masterwork-weapons).
-
-**At 7th Level:** The weapon gains a +1 enhancement bonus.
-
-**Special:** The weapon disappears after 1 round if it leaves your grasp.
-
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
-At 15th level: The enhancement bonus increases to +2.
+**At 3rd level,** the weapon is considered [masterwork](ref/rule/masterwork-weapons).
 
-At 19th level: The enhancement bonus increases to +3.
+**At 7th level,** the weapon gains a +1 enhancement bonus.
+
+**At 11th level,** the weapon gains the [ghost touch](ref/magic-enh/ghost-touch-weapon) weapon
+property.
+
+**At 15th level,** the enhancement bonus increases to +2.
+
+**At 19th level,** the enhancement bonus increases to +3.
+
+**Special:** The weapon disappears after 1 round if it leaves your grasp.
 
 **Blood of Heroes (Su)**
 
@@ -76,9 +76,9 @@ a number of rounds equal to your Charisma bonus.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
 
-At 7th level: This bonus increases to +2.
+**At 7th level,** this bonus increases to +2.
 
-At 14th level: This bonus increases to +3.
+**At 14th level,** this bonus increases to +3.
 
 **Phantom Touch (Su)**
 
@@ -97,37 +97,37 @@ any one d20 roll. This effect lasts for 1 round.
 
 **Spirit of the Warrior (Su)**
 
+**Flavor:** You can summon the spirit of a great warrior ancestor and allow it to possess you,
+becoming a mighty warrior yourself.
+
 **Ability:** You gain a +4 enhancement bonus to Strength, Dexterity, and Constitution, and a +4
 natural armor bonus to AC. Your base attack bonus while possessed equals your oracle level (which
 may give you additional attacks), and you gain the [Improved Critical](ref/feat/improved-critical)
 feat with a weapon of your choice.
 
-**Flavor:** You can summon the spirit of a great warrior ancestor and allow it to possess you,
-becoming a mighty warrior yourself.
-
-**Prereq:** 11th-level oracle
-
 **Usage:** 1 round/day per 2 oracle levels; these rounds need not be consecutive, but must be spent
 in 1-round increments
+
+**Prereq:** 11th-level oracle
 
 **Spirit Shield (Su)**
 
 **Ability:** You can call upon the spirits of your ancestors to form a shield around you that blocks
 incoming attacks and grants you a +4 armor bonus.
 
-**At 13th Level:** This shield causes arrows, rays, and other ranged attacks requiring an attack
-roll against you to have a 50% miss chance.
-
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: This bonus increases to +6.
+**At 7th level,** this bonus increases to +6.
 
-At 11th level: This bonus increases to +8.
+**At 11th level,** this bonus increases to +8.
 
-At 15th level: This bonus increases to +10.
+**At 13th level,** this shield causes arrows, rays, and other ranged attacks requiring an attack
+roll against you to have a 50% miss chance.
 
-At 19th level: This bonus increases to +12.
+**At 15th level,** this bonus increases to +10.
+
+**At 19th level,** this bonus increases to +12.
 
 **Spirit Walk (Su)**
 
@@ -136,7 +136,7 @@ move in any direction and pass through solid objects. You can take no action oth
 while in this form. You remain in this form for a number of rounds equal to your oracle level, but
 you can end this effect prematurely as a **standard action**.
 
-**At 15th Level:** You can use this ability twice a day.
+**At 15th level,** you can use this ability twice a day.
 
 **Prereq:** 11th-level oracle
 
@@ -170,16 +170,16 @@ At 20th level: Objects and non-undead creatures now take 10d6 damage.
 
 **Ability:** You can [speak with dead](ref/spell/speak-with-dead), as per the spell.
 
-**At 5th Level:** The dead creature you question takes -2 penalty on its Will save to resist this
-effect.
-
 **Usage:** 1 time/day per oracle level
 
-At 10th level: The penalty increases to -4.
+**At 5th level,** the dead creature you question takes -2 penalty on its Will save to resist this
+effect.
 
-At 15th level: The penalty increases to -6.
+**At 10th level,** the penalty increases to -4.
 
-At 20th level: The penalty increases to -8.
+**At 15th level,** the penalty increases to -6.
+
+**At 20th level,** the penalty increases to -8.
 
 **Wisdom of the Ancestors (Su)**
 
@@ -188,12 +188,12 @@ ancestors. This trance lasts for 10 minutes, which must be uninterrupted and dur
 take no other actions. When you come out of this trance, you have gained mystical insight into the
 future.
 
-**At 1st Level:** This insight acts as an [augury](ref/spell/augury) spell with 80% effectiveness.
+**At 1st level,** this insight acts as an [augury](ref/spell/augury) spell with 80% effectiveness.
 
-**At 5th Level:** The insight takes the form of a [divination](ref/spell/divination) with 90%
+**At 5th level,** the insight takes the form of a [divination](ref/spell/divination) with 90%
 effectiveness.
 
-**At 8th Level:** The knowledge you gain is equivalent to a [commune](ref/spell/commune) spell.
+**At 8th level,** the knowledge you gain is equivalent to a [commune](ref/spell/commune) spell.
 
 **Special:** None of these spell effects require material components.
 

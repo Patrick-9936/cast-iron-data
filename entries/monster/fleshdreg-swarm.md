@@ -51,23 +51,27 @@ and claws._
 
 **Experience points:** 600
 
-**Armor class:** 15/13/14
+**Armor class:** 15
 
-**Defensive abilities:** swarm traits
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +2 natural, +2 size
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +2 natural, +2 size
+**Fort:** +3
 
 **Ref:** +4
 
-**Sr:** 13
-
 **Will:** +3
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects
+
+**Sr:** 13
 
 **Offense**
 

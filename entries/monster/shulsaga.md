@@ -53,13 +53,17 @@ energy._
 
 **Experience points:** 800
 
-**Armor class:** 16/14/12
+**Armor class:** 16
 
-**Fort:** +1
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +4 Dex, +2 natural
 
 **Hit points:** 22 (4d10)
 
-**Mod:** +4 Dex, +2 natural
+**Fort:** +1
 
 **Ref:** +8
 

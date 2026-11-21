@@ -49,21 +49,25 @@ sockets._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/10/16
+**Armor class:** 17
 
-**Dr:** 5/-
+**Touch:** 10
 
-**Fort:** +6
+**Flat-footed:** 16
+
+**AC modifiers:** +6 natural
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +6 natural
+**Fort:** +6
 
 **Ref:** +3
 
 **Will:** +7
+
+**Dr:** 5/-
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

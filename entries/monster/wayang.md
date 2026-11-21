@@ -53,13 +53,17 @@ _Spiralling patterns cover this shadowy humanoid's skin, and its black hair trai
 
 **Experience points:** 200
 
-**Armor class:** 14/14/11
+**Armor class:** 14
 
-**Fort:** +1
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
 
 **Hit points:** 8 (1d6+2)
 
-**Mod:** +3 Dex, +1 size
+**Fort:** +1
 
 **Ref:** +3
 

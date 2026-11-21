@@ -46,19 +46,23 @@ _This glossy blue-black beetle is the size of a cow._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
 
 **Hit points:** 67 (9d8+27)
 
-**Immune:** death effects, disease, mind-affecting effects, paralysis
-
-**Mod:** +1 Dex, +10 natural, -1 size
+**Fort:** +9
 
 **Ref:** +4
 
 **Will:** +3
+
+**Immune:** death effects, disease, mind-affecting effects, paralysis
 
 **Offense**
 

@@ -50,29 +50,33 @@ amorphous pseudopods in all directions._
 
 **Experience points:** 25,600
 
-**Armor class:** 2/2/2
+**Armor class:** 2
+
+**Touch:** 2
+
+**Flat-footed:** 2
+
+**AC modifiers:** -8 size
+
+**Hit points:** 184 (16d8+112)
+
+**Fort:** +12
+
+**Ref:** +5
+
+**Will:** +0
 
 **Defensive abilities:** reactive strike
 
 **Dr:** 10/-
 
-**Fort:** +12
-
-**Hit points:** 184 (16d8+112)
-
 **Immune:** acid, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -8 size
-
-**Ref:** +5
 
 **Resist:** electricity 30, fire 30
 
 **Split:** sonic or slashing, 32 hp
 
 **Vulner:** cold
-
-**Will:** +0
 
 **Offense**
 

@@ -50,25 +50,29 @@ front legs end in clawed hands._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/15/19
+**Armor class:** 25
 
-**Dr:** 10/good
+**Touch:** 15
 
-**Fort:** +13
+**Flat-footed:** 19
+
+**AC modifiers:** +6 Dex, +10 natural, -1 size
 
 **Hit points:** 126 (11d10+66)
 
-**Immune:** electricity, poison
-
-**Mod:** +6 Dex, +10 natural, -1 size
+**Fort:** +13
 
 **Ref:** +13
+
+**Will:** +8
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 21
-
-**Will:** +8
 
 **Offense**
 

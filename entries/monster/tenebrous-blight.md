@@ -53,21 +53,25 @@ around its enormous cap._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/8/20
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 8
+
+**Flat-footed:** 20
+
+**AC modifiers:** +12 natural, -2 size
 
 **Hit points:** 76 (9d8+36)
 
-**Immune:** fire, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +12 natural, -2 size
+**Fort:** +10
 
 **Ref:** +3
 
-**Regen:** 5 (acid)
-
 **Will:** +5
+
+**Immune:** fire, [plant traits](ref/umr/plant-traits)
+
+**Regen:** 5 (acid)
 
 **Offense**
 

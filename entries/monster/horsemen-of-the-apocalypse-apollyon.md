@@ -54,31 +54,35 @@ unholy aura (DC 29)
 
 **Experience points:** 6,553,600
 
-**Armor class:** 47/35/38
+**Armor class:** 47
+
+**Touch:** 35
+
+**Flat-footed:** 38
+
+**AC modifiers:** +4 deflection, +8 Dex, +1 dodge, +12 natural, +12 profane
+
+**Hit points:** 717 (35d10+525)
+
+**Fort:** +38
+
+**Ref:** +23
+
+**Will:** +34
 
 **Defensive abilities:** apocalyptic resurrection,
 _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +38
-
-**Hit points:** 717 (35d10+525)
-
 **Immune:** ability damage, ability drain, acid, charm effects, compulsion effects, death effects,
 disease, energy drain, petrification, poison
-
-**Mod:** +4 deflection, +8 Dex, +1 dodge, +12 natural, +12 profane
-
-**Ref:** +23
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** cold 30, electricity 30, fire 30
 
 **Sr:** 40
-
-**Will:** +34
 
 **Offense**
 

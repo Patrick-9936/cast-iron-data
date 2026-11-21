@@ -55,21 +55,25 @@ its fanged maw._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/13/18
+**Armor class:** 20
 
-**Ferocity:** present
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +7 natural, +1 size
 
 **Hit points:** 85 (9d10+36)
 
-**Immune:** cold, poison
-
-**Mod:** +2 Dex, +7 natural, +1 size
+**Fort:** +7
 
 **Ref:** +10
 
 **Will:** +7
+
+**Ferocity:** present
+
+**Immune:** cold, poison
 
 **Offense**
 

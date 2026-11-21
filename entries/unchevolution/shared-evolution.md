@@ -14,14 +14,14 @@ group = "unchained-summoner-evolution"
 
 **Shared Evolution (Su)**
 
-**Choice:** Select a 1-point or 2-point evolution the eidolon has.
+**Standard:** The eidolon can touch the summoner and transfer the selected evolution to him. This
+functions as the [summoner's aspect](ref/class/unchained-summoner) ability, and the same limitations
+apply.
 
 **Prereq:** [Twinned](ref/eidolon/twinned) eidolon
+
+**Choice:** Select a 1-point or 2-point evolution the eidolon has.
 
 **Special:** The summoner can touch the eidolon as a **standard action** to return the evolution.
 The evolution returns to the eidolon automatically if the eidolon is dismissed by the summoner or
 sent back to its home plane.
-
-**Standard:** The eidolon can touch the summoner and transfer the selected evolution to him. This
-functions as the [summoner's aspect](ref/class/unchained-summoner) ability, and the same limitations
-apply.

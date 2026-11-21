@@ -47,13 +47,17 @@ and two long, feathery antennae._
 
 **Experience points:** 800
 
-**Armor class:** 18/13/15
+**Armor class:** 18
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +5 natural
 
 **Hit points:** 27 (5d8+5)
 
-**Mod:** +3 Dex, +5 natural
+**Fort:** +2
 
 **Ref:** +4
 

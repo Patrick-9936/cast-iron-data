@@ -49,19 +49,23 @@ tail arched over its back._
 
 **Experience points:** 800
 
-**Armor class:** 16/9/16
+**Armor class:** 16
 
-**Fort:** +7
+**Touch:** 9
+
+**Flat-footed:** 16
+
+**AC modifiers:** +7 armor, -1 size
 
 **Hit points:** 37 (5d8+15)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +7 armor, -1 size
+**Fort:** +7
 
 **Ref:** +1
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

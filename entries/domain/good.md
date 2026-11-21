@@ -67,14 +67,14 @@ Mazludeh, Neith, Ondisso, Qi Zhong, Rowdrosh, Sarenrae, Seramaydiel, Shei, Shely
 
 **Gained:** At 8th Level
 
-**Replaces:** The holy lance power of the Good domain
-
 **Standard:** You can emit a 30-foot protective aura. Allies in this aura receive a +2 deflection
 bonus to AC and a +2 resistance bonus on all saving throws. In addition, allies in the area gain the
 benefits of [protection from evil](ref/spell/protection-from-evil) (although the AC bonus and saving
 throw bonus do not stack with those granted by this effect).
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The holy lance power of the Good domain
 
 **Replacement Domain Spells**
 
@@ -101,12 +101,12 @@ Wadjet, Winlas, Zohls
 
 **Gained:** At 8th Level
 
-**Replaces:** The holy lance power of the Good domain
-
 **Standard:** You can emit a 30-foot aura of menace. Enemies in this aura take a -2 penalty to AC
 and on attacks and saves as long as they remain inside the aura.
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The holy lance power of the Good domain
 
 **Replacement Domain Spells**
 
@@ -131,8 +131,6 @@ Skrymir, Thisamet, Tolc, Valani, Yuelral
 
 **Elysium's Call (Su)**
 
-**Replaces:** The touch of good power of the Good domain
-
 **Standard:** With a touch, you can imbue creatures with the spirit of Elysium, lifting their
 spirits and freeing them from bonds. The creatures touched can immediately reroll any failed saving
 throws against spells and spell-like abilities of the enchantment (charm) and enchantment
@@ -143,6 +141,8 @@ bonuses last for a number of rounds equal to 1/2 your cleric level (minimum 1), 
 throw reroll only applies when the creature is touched.
 
 **Usage:** 3 + Wisdom modifier rounds/day
+
+**Replaces:** The touch of good power of the Good domain
 
 **Replacement Domain Spells**
 
@@ -165,9 +165,9 @@ Seramaydiel, Sinashakti, Upion and Warrik
 telepathic link is two-way and lasts for 1 minute. Unlike normal telepathy, this ability requires a
 shared language.
 
-**Replaces:** The touch of good power of the Good domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of good power of the Good domain
 
 **Replacement Domain Spells**
 
@@ -190,9 +190,9 @@ are specifically harmful to good-aligned creatures are inverted so that they no 
 creatures and instead harm evil creatures. Similarly, effects that are specifically beneficial to
 evil creatures instead become beneficial only to good creatures.
 
-**Replaces:** The holy lance ability of the Good domain
-
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The holy lance ability of the Good domain
 
 **Replacement Domain Spells**
 

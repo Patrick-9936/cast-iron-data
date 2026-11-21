@@ -54,31 +54,35 @@ ft., distraction, DC 43), unholy aura (DC 31)
 
 **Experience points:** 9,830,400
 
-**Armor class:** 48/38/39
+**Armor class:** 48
+
+**Touch:** 38
+
+**Flat-footed:** 39
+
+**AC modifiers:** +4 deflection, +9 Dex, +10 natural, +16 profane, -1 size
+
+**Hit points:** 752 (35d10+560)
+
+**Fort:** +31
+
+**Ref:** +32
+
+**Will:** +35
 
 **Defensive abilities:** Abyssal resurrection, avian mastery,
 _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/cold iron, epic, and good
 
-**Fort:** +31
-
-**Hit points:** 752 (35d10+560)
-
 **Immune:** ability damage, ability drain, charm effects, compulsion effects, cold, death effects,
 electricity, energy drain, petrification, and poison
-
-**Mod:** +4 deflection, +9 Dex, +10 natural, +16 profane, -1 size
-
-**Ref:** +32
 
 **Regen:** 30 (deific or mythic)
 
 **Resist:** acid 30, cold 30, fire 30
 
 **Sr:** 41
-
-**Will:** +35
 
 **Offense**
 

@@ -53,27 +53,31 @@ maw with a red eye in its throat._
 
 **Experience points:** 1,228,800
 
-**Armor class:** 43/18/35
+**Armor class:** 43
 
-**Dr:** 15/cold iron and lawful
+**Touch:** 18
 
-**Fort:** +33
+**Flat-footed:** 35
+
+**AC modifiers:** +4 deflection, +7 Dex, +1 dodge, +25 natural, -4 size
 
 **Hit points:** 526 (27d10+378)
 
-**Immune:** cold, death effects, mind-affecting effects, poison
-
-**Mod:** +4 deflection, +7 Dex, +1 dodge, +25 natural, -4 size
+**Fort:** +33
 
 **Ref:** +28
+
+**Will:** +18
+
+**Dr:** 15/cold iron and lawful
+
+**Immune:** cold, death effects, mind-affecting effects, poison
 
 **Regen:** 15 (lawful)
 
 **Resist:** acid 30, electricity 30, fire 30
 
 **Sr:** 35
-
-**Will:** +18
 
 **Offense**
 

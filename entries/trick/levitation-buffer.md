@@ -14,6 +14,8 @@ group = "mesmerist-trick"
 
 **Levitation Buffer**
 
+**Flavor:** A mesmerist's telekinetic assault renders foes around the subject less of a threat.
+
 **Ability:** The mesmerist can trigger this trick when either an enemy moves adjacent to the subject
 or the subject begins her turn with one or more enemies adjacent to her. The mesmerist can either
 lift all enemies adjacent to the subject slightly into the air or push them all away from the
@@ -27,5 +29,3 @@ hostile levitation.
 Pushing enemies away requires the mesmerist to attempt a bull rush combat maneuver check using his
 mesmerist level + his Charisma modifier as his CMB. Any enemy that's successfully pushed moves away
 from the subject of the trick using the normal rules for a bull rush.
-
-**Flavor:** A mesmerist's telekinetic assault renders foes around the subject less of a threat.

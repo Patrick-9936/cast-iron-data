@@ -93,17 +93,17 @@ action**.
 
 **Restoring Flames (Sp)**
 
+**Gained:** At 15th Level
+
 **Ability:** You can cast [greater restoration](ref/spell/restoration-greater) once per day as a
 [spell-like ability](ref/umr/spell-like-abilities).
 
-**Gained:** At 15th Level
-
 **Rebirth (Su)**
+
+**Gained:** At 20th Level
+
+**Flavor:** The full power of a phoenix erupts from within you if you perish.
 
 **Ability:** When you die, you are brought back to life, as
 [true resurrection](ref/spell/true-resurrection), after 1 minute. This ability can be used only once
 every 24 hours, and if you are slain again within this period, your death is permanent.
-
-**Flavor:** The full power of a phoenix erupts from within you if you perish.
-
-**Gained:** At 20th Level

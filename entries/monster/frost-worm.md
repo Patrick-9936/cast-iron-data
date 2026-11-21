@@ -52,21 +52,25 @@ up from between its mandibles._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/11/24
+**Armor class:** 27
 
-**Fort:** +15
+**Touch:** 11
+
+**Flat-footed:** 24
+
+**AC modifiers:** +3 Dex, +16 natural, -2 size
 
 **Hit points:** 168 (16d10+80)
 
-**Immune:** cold
-
-**Mod:** +3 Dex, +16 natural, -2 size
+**Fort:** +15
 
 **Ref:** +13
 
-**Vulner:** fire
-
 **Will:** +10
+
+**Immune:** cold
+
+**Vulner:** fire
 
 **Offense**
 

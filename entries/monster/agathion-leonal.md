@@ -53,25 +53,29 @@ feet._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/14/23
+**Armor class:** 27
 
-**Dr:** 10/evil and silver
+**Touch:** 14
 
-**Fort:** +14
+**Flat-footed:** 23
+
+**AC modifiers:** +3 Dex, +1 dodge, +13 natural
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** electricity, petrification
-
-**Mod:** +3 Dex, +1 dodge, +13 natural
+**Fort:** +14
 
 **Ref:** +12
+
+**Will:** +6; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 10/evil and silver
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 23
-
-**Will:** +6; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

@@ -46,19 +46,23 @@ _Dozens of long, sharp spines line the back and tail of this dark-gray cat._
 
 **Experience points:** 400
 
-**Armor class:** 13/13/11
+**Armor class:** 13
 
-**Defensive abilities:** quill defense
+**Touch:** 13
 
-**Fort:** +4
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 size
 
 **Hit points:** 14 (2d8+5)
 
-**Mod:** +2 Dex, +1 size
+**Fort:** +4
 
 **Ref:** +5
 
 **Will:** +1
+
+**Defensive abilities:** quill defense
 
 **Offense**
 

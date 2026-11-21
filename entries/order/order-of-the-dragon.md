@@ -44,38 +44,38 @@ level.
 
 **Aid Allies (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** Whenever an order of the dragon cavalier uses the [aid another](ref/rule/aid-another-2)
 action to assist one of his allies, the ally receives a +3 bonus to his Armor Class, attack roll,
 saving throw, or skill check.
 
-**Gained:** At 2nd Level
+**At 8th level,** this bonus increases to +4.
 
-At 8th level: This bonus increases to +4.
+**At 14th level,** this bonus increases to +5.
 
-At 14th level: This bonus increases to +5.
-
-At 20th level: This bonus increases to +6.
+**At 20th level,** this bonus increases to +6.
 
 **Strategy (Ex)**
 
 **Gained:** At 8th Level
-
-**Special:** The cavalier can grant a different bonus to each ally within range, but allies can only
-benefit from this ability once per combat.
 
 **Standard:** The cavalier can grant one of a number of bonuses to all allies within 30 feet
 (including himself). The allies must be able to see or hear the cavalier to receive this bonus. The
 cavalier can grant a +2 dodge bonus to AC for 1 round, a +2 morale bonus on all attack rolls for 1
 round, or the ability to move up to their speed as an **immediate action** once.
 
+**Special:** The cavalier can grant a different bonus to each ally within range, but allies can only
+benefit from this ability once per combat.
+
 **Act as One (Ex)**
 
 **Gained:** At 15th Level
-
-**Special:** A cavalier can use this ability once per combat.
 
 **Standard:** The cavalier can move up to his speed and make a melee attack. All allies within 30
 feet can also move up to their speed and make a melee attack as an **immediate action**. This
 movement and attack can be made as a [charge](ref/rule/charge) if the movement qualifies. All
 attacks are made at a +2 bonus (this stacks with the bonus from a charge) and all participants
 receive a +2 dodge bonus to their AC for 1 round.
+
+**Special:** A cavalier can use this ability once per combat.

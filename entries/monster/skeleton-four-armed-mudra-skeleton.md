@@ -46,21 +46,25 @@ _Bones rattle against cracked bones as this ancient, fleshless corpse clatters f
 
 **Experience points:** 200
 
-**Armor class:** 15/13/12
+**Armor class:** 15
 
-**Dr:** 5/bludgeoning
+**Touch:** 13
 
-**Fort:** +0
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 natural
 
 **Hit points:** 4 (1d8)
 
-**Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +2 natural
+**Fort:** +0
 
 **Ref:** +3
 
 **Will:** +2
+
+**Dr:** 5/bludgeoning
+
+**Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

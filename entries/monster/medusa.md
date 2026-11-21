@@ -49,13 +49,17 @@ hair._
 
 **Experience points:** 3,200
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +3 natural
 
 **Hit points:** 76 (8d10+32)
 
-**Mod:** +2 Dex, +3 natural
+**Fort:** +6
 
 **Ref:** +8
 

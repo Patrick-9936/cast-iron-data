@@ -14,10 +14,10 @@ group = "social-talent"
 
 **Instant Recognition (Ex)**
 
+**Flavor:** The vigilante is so well known that his name precedes him, even to other communities.
+
 **Ability:** It only takes 4 hours of effort to get the word out to transfer his _renown_ benefits
 to a new community.
-
-**Flavor:** The vigilante is so well known that his name precedes him, even to other communities.
 
 **Prereq:** 13th-level vigilante, [incredible renown](ref/soctalent/incredible-renown),
 [triumphant return](ref/soctalent/triumphant-return)

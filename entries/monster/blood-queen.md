@@ -55,25 +55,29 @@ arch from its hindquarters._
 
 **Experience points:** 819,200
 
-**Armor class:** 38/6/38
+**Armor class:** 38
 
-**Dr:** 15/epic and lawful
+**Touch:** 6
 
-**Fort:** +28
+**Flat-footed:** 38
+
+**AC modifiers:** +32 natural, -4 size
 
 **Hit points:** 471 (23d10+345)
 
-**Immune:** disease, electricity, mind-affecting effects, poison, sonic
-
-**Mod:** +32 natural, -4 size
+**Fort:** +28
 
 **Ref:** +9
+
+**Will:** +24
+
+**Dr:** 15/epic and lawful
+
+**Immune:** disease, electricity, mind-affecting effects, poison, sonic
 
 **Regen:** 10 (good)
 
 **Sr:** 34
-
-**Will:** +24
 
 **Offense**
 

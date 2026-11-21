@@ -52,19 +52,23 @@ multicolored wings of a parrot._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/17/18
+**Armor class:** 25
 
-**Fort:** +10
+**Touch:** 17
+
+**Flat-footed:** 18
+
+**AC modifiers:** +6 Dex, +1 dodge, +8 natural
 
 **Hit points:** 144 (17d6+85)
 
-**Mod:** +6 Dex, +1 dodge, +8 natural
+**Fort:** +10
 
 **Ref:** +16
 
-**Resist:** cold 10, electricity 10, fire 10
-
 **Will:** +13
+
+**Resist:** cold 10, electricity 10, fire 10
 
 **Offense**
 

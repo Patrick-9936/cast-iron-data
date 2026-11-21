@@ -52,19 +52,23 @@ to serve._
 
 **Experience points:** 200
 
-**Armor class:** 17/14/15
+**Armor class:** 17
 
-**Fort:** +0
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +3 natural, +2 size
 
 **Hit points:** 9 (2d8)
 
-**Mod:** +2 Dex, +3 natural, +2 size
+**Fort:** +0
 
 **Ref:** +4
 
-**Resist:** acid 5, cold 5, electricity 5, and fire 5
-
 **Will:** +4
+
+**Resist:** acid 5, cold 5, electricity 5, and fire 5
 
 **Offense**
 

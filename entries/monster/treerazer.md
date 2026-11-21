@@ -57,29 +57,33 @@ tooth-filled beak._
 
 **Experience points:** 1,638,400
 
-**Armor class:** 42/22/32
+**Armor class:** 42
+
+**Touch:** 22
+
+**Flat-footed:** 32
+
+**AC modifiers:** +4 deflection, +10 Dex, +20 natural, -2 size
+
+**Hit points:** 574 (28d10+420)
+
+**Fort:** +34
+
+**Ref:** +23
+
+**Will:** +27
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 15/cold iron and good
 
-**Fort:** +34
-
-**Hit points:** 574 (28d10+420)
-
 **Immune:** death effects, disease, electricity, mind-affecting effects, poison
-
-**Mod:** +4 deflection, +10 Dex, +20 natural, -2 size
-
-**Ref:** +23
 
 **Regen:** 15 (good)
 
 **Resist:** acid 30, cold 30, fire 30
 
 **Sr:** 36
-
-**Will:** +27
 
 **Offense**
 

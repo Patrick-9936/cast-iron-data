@@ -52,23 +52,27 @@ her as if she were underwater._
 
 **Experience points:** 19,200
 
-**Armor class:** 25/17/18
+**Armor class:** 25
 
-**Dr:** 15/cold iron
+**Touch:** 17
 
-**Fort:** +12
+**Flat-footed:** 18
+
+**AC modifiers:** +6 Dex, +1 dodge, +8 natural
 
 **Hit points:** 150 (20d6+80)
 
-**Immune:** fire
-
-**Mod:** +6 Dex, +1 dodge, +8 natural
+**Fort:** +12
 
 **Ref:** +18
 
-**Sr:** 23
-
 **Will:** +15
+
+**Dr:** 15/cold iron
+
+**Immune:** fire
+
+**Sr:** 23
 
 **Offense**
 

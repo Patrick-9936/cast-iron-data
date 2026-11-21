@@ -14,12 +14,10 @@ group = "summoner-evolution"
 
 **Poison (Ex)**
 
-**Action:** Ability
+**Ability:** An eidolon secretes toxic venom, gaining a poison attack. Pick one bite or sting
+attack. Whenever the selected attack hits, the target is poisoned.
 
 **Prereq:** 7th-level summoner, eidolon has a bite or sting attack
-
-An eidolon secretes toxic venom, gaining a poison attack. Pick one bite or sting attack. Whenever
-the selected attack hits, the target is poisoned.
 
 **Eidolon poison**
 

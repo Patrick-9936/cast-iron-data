@@ -56,23 +56,27 @@ glinting metallic ore._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/13/26
+**Armor class:** 30
+
+**Touch:** 13
+
+**Flat-footed:** 26
+
+**AC modifiers:** +3 Dex, +1 dodge, +17 natural, -1 size
+
+**Hit points:** 216 (16d10+128)
+
+**Fort:** +18
+
+**Ref:** +8
+
+**Will:** +15
 
 **Defensive abilities:** improved rock catching
 
 **Dr:** 10/adamantine
 
-**Fort:** +18
-
-**Hit points:** 216 (16d10+128)
-
 **Immune:** fear
-
-**Mod:** +3 Dex, +1 dodge, +17 natural, -1 size
-
-**Ref:** +8
-
-**Will:** +15
 
 **Offense**
 

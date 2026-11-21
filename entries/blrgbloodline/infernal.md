@@ -49,9 +49,7 @@ When you _bloodrage,_ hellfire infuses your blood with terrifying effects.
 
 **Usage:** 3 times/day.
 
-**Usage:** 3 times/day.
-
-**At 12th Level:** You can use this ability five times per day, and the effect is treated as
+**At 12th level,** you can use this ability five times per day, and the effect is treated as
 [flaming burst](ref/magic-enh/flaming-burst).
 
 **Infernal Resistance (Ex)**
@@ -61,7 +59,7 @@ When you _bloodrage,_ hellfire infuses your blood with terrifying effects.
 **Passive:** You gain fire [resistance](ref/umr/resistance) 5, as well as a +2 bonus on saving
 throws against poison.
 
-**At 8th Level:** Your fire resistance increases to 10, and the bonus on saving throws against
+**At 8th level,** your fire resistance increases to 10, and the bonus on saving throws against
 poison increases to +4.
 
 **Diabolical Arrogance (Su)**
@@ -72,12 +70,12 @@ poison increases to +4.
 
 **Dark Wings (Su)**
 
+**Gained:** At 12th Level
+
 **Ability:** When entering a _bloodrage_ you can choose to have bat-like wings grow from your back,
 giving you a fly speed of 60 feet with average maneuverability.
 
-**Gained:** At 12th Level
-
-**At 16th Level:** Your fly speed increases to 80 feet with good maneuverability.
+**At 16th level,** your fly speed increases to 80 feet with good maneuverability.
 
 **Hellfire Charge (Su)**
 

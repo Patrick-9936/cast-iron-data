@@ -48,21 +48,17 @@ An oracle with the Wood mystery can choose from any of the following revelations
 
 **Bend the Grain (Sp)**
 
-**At 11th Level:** You can use this ability to push wood away from you, as
-[repel wood](ref/spell/repel-wood).
-
-**At 14th Level:** You can use this ability three times a day.
-
-**At 7th Level:** You can use this ability twice a day.
-
 **Standard:** Once per day, you can shape or warp wooden objects. This functions as either
 [wood shape](ref/spell/wood-shape) or [warp wood](ref/spell/warp-wood).
 
+**At 7th level,** you can use this ability twice a day.
+
+**At 11th level,** you can use this ability to push wood away from you, as
+[repel wood](ref/spell/repel-wood).
+
+**At 14th level,** you can use this ability three times a day.
+
 **Lignification (Su)**
-
-**At 15th Level:** You can use this ability twice per day.
-
-**Prereq:** 11th-level oracle
 
 **Standard:** Once per day, you can turn a creature into wood. You direct your gaze against a single
 creature within 30 feet. The targeted creature (along with all its carried gear) must make a
@@ -73,23 +69,24 @@ This ability otherwise functions as a [flesh to stone](ref/spell/flesh-to-stone)
 target turns to wood instead of stone. This can be reversed by any effect that can reverse
 _[flesh to stone](ref/spell/flesh-to-stone)._
 
+**At 15th level,** you can use this ability twice per day.
+
+**Prereq:** 11th-level oracle
+
 **Speak with Wood (Sp)**
+
+**Flavor:** You can talk to wood and learn what it knows.
 
 **Ability:** You spend 1 minute meditating on and communing with the wood. At the end of this time,
 you can speak with the wood. This functions as the [stone tell](ref/spell/stone-tell) spell, except
 with wood instead of stones. You can speak with natural or worked wood.
 
-**Flavor:** You can talk to wood and learn what it knows.
-
-**Prereq:** 11th-level oracle
-
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
 
-**Thorn Burst (Su)**
+**Prereq:** 11th-level oracle
 
-**Special:** In addition, the sharp splinters count as [caltrops](ref/eq-misc/caltrops) in the area
-until your next turn.
+**Thorn Burst (Su)**
 
 **Swift:** You can cause sharp splinters of wood to explode outward from your body. These splinters
 deal 1d6 points of piercing damage per two oracle levels (minimum 1d6) to all creatures within a
@@ -97,44 +94,45 @@ deal 1d6 points of piercing damage per two oracle levels (minimum 1d6) to all cr
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
 
+**Special:** In addition, the sharp splinters count as [caltrops](ref/eq-misc/caltrops) in the area
+until your next turn.
+
 **Tree Form (Sp)**
-
-**At 11th Level:** You can assume the form of a Large plant creature, as
-[plant shape II](ref/spell/plant-shape-2).
-
-**At 13th Level:** You can assume the form of a Huge plant creature, as
-[plant shape III](ref/spell/plant-shape-3).
-
-**At 9th Level:** You can assume the form of a Small or Medium plant creature, as
-[plant shape I](ref/spell/plant-shape-1).
-
-**Prereq:** 3rd-level oracle
 
 **Standard:** You can assume the form of a Large living or dead tree or shrub, as
 [tree shape](ref/spell/tree-shape).
 
 **Usage:** Once per day, for 1 hour per oracle level.
 
-**Usage:** Once per day, for 1 hour per oracle level.
+**At 9th level,** you can assume the form of a Small or Medium plant creature, as
+[plant shape I](ref/spell/plant-shape-1).
+
+**At 11th level,** you can assume the form of a Large plant creature, as
+[plant shape II](ref/spell/plant-shape-2).
+
+**At 13th level,** you can assume the form of a Huge plant creature, as
+[plant shape III](ref/spell/plant-shape-3).
+
+**Prereq:** 3rd-level oracle
 
 **Wood Armor (Su)**
 
 **Ability:** You can conjure wooden armor around yourself, which grants you a +4 armor bonus.
 
-**At 13th Level:** This armor grants you DR 5/slashing.
-
-**Special:** The armor vanishes if you remove it.
-
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The armor bonus increases to +6.
+**At 7th level,** the armor bonus increases to +6.
 
-At 11th level: The armor bonus increases to +8.
+**At 11th level,** the armor bonus increases to +8.
 
-At 15th level: The armor bonus increases to +10.
+**At 13th level,** this armor grants you DR 5/slashing.
 
-At 19th level: The armor bonus increases to +12.
+**At 15th level,** the armor bonus increases to +10.
+
+**At 19th level,** the armor bonus increases to +12.
+
+**Special:** The armor vanishes if you remove it.
 
 **Wood Bond (Ex)**
 
@@ -146,14 +144,14 @@ one-fifth of your oracle level.
 
 **Wood Sight (Su)**
 
-**At 7th Level:** You can use this ability to see through wood or other plant material as easily as
-if it were transparent glass, penetrating a number of feet of wood equal to your oracle level.
-
 **Move:** You can alter your vision to see through underbrush and plant growth that would normally
 grant [concealment](ref/rule/concealment), up to a range of 60 feet (though darkness and other
 obstacles still may block your sight).
 
 **Usage:** 1 time/day per oracle level
+
+**At 7th level,** you can use this ability to see through wood or other plant material as easily as
+if it were transparent glass, penetrating a number of feet of wood equal to your oracle level.
 
 **Wooden Weapon (Su)**
 
@@ -163,12 +161,12 @@ obstacles still may block your sight).
 every oracle level you possess. This weapon is appropriate for your size. You are considered
 proficient with the weapon. The weapon disappears after 1 round if it leaves your grasp.
 
-**At 11th Level:** The weapon gains the [keen](ref/magic-enh/keen) weapon property (or the
-equivalent increase to its critical threat range, if it is a bludgeoning weapon).
-
-**At 3rd Level:** The weapon is considered [masterwork](ref/rule/masterwork-weapons).
-
 **Usage:** 3 + Charisma modifier times/day
+
+**At 3rd level,** the weapon is considered [masterwork](ref/rule/masterwork-weapons).
+
+**At 11th level,** the weapon gains the [keen](ref/magic-enh/keen) weapon property (or the
+equivalent increase to its critical threat range, if it is a bludgeoning weapon).
 
 **Woodland Stride (Ex)**
 

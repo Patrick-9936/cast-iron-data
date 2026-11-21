@@ -51,21 +51,25 @@ of frightful fangs line the maw beneath its sharp beak._
 
 **Experience points:** 12,800
 
-**Armor class:** 23/11/21
+**Armor class:** 23
 
-**Dr:** 5/piercing or slashing
+**Touch:** 11
 
-**Fort:** +14
+**Flat-footed:** 21
+
+**AC modifiers:** +2 Dex, +12 natural, -1 size
 
 **Hit points:** 152 (16d10+64)
 
-**Mod:** +2 Dex, +12 natural, -1 size
+**Fort:** +14
 
 **Ref:** +12
 
-**Resist:** acid 10, cold 10
-
 **Will:** +9
+
+**Dr:** 5/piercing or slashing
+
+**Resist:** acid 10, cold 10
 
 **Offense**
 

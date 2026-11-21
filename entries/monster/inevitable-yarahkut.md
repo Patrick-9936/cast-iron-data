@@ -52,23 +52,27 @@ back, and its head bears three faces._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/15/23
+**Armor class:** 29
 
-**Defensive abilities:** all-around vision, constructed
+**Touch:** 15
 
-**Fort:** +14
+**Flat-footed:** 23
+
+**AC modifiers:** +6 Dex, +14 natural, -1 size
 
 **Hit points:** 187 (15d10+105)
 
-**Mod:** +6 Dex, +14 natural, -1 size
+**Fort:** +14
 
 **Ref:** +11
+
+**Will:** +14
+
+**Defensive abilities:** all-around vision, constructed
 
 **Regen:** 10 (chaotic)
 
 **Sr:** 25
-
-**Will:** +14
 
 **Offense**
 

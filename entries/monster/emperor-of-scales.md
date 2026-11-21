@@ -58,25 +58,29 @@ DC 25)
 
 **Experience points:** 51,200
 
-**Armor class:** 30/15/23
+**Armor class:** 30
 
-**Dr:** 15/good and silver
+**Touch:** 15
 
-**Fort:** +19
+**Flat-footed:** 23
+
+**AC modifiers:** +7 Dex, +15 natural, -2 size
 
 **Hit points:** 225 (18d10+126)
 
-**Immune:** acid, fire, mind-affecting effects, paralysis, poison, vorpal weapons
-
-**Mod:** +7 Dex, +15 natural, -2 size
+**Fort:** +19
 
 **Ref:** +13
+
+**Will:** +15
+
+**Dr:** 15/good and silver
+
+**Immune:** acid, fire, mind-affecting effects, paralysis, poison, vorpal weapons
 
 **Regen:** 5 (electricity)
 
 **Sr:** 26
-
-**Will:** +15
 
 **Offense**
 

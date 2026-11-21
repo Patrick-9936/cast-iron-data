@@ -52,21 +52,25 @@ pair of serpentine vines._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
 
 **Hit points:** 78 (12d8+24)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +1 Dex, +10 natural, -1 size
+**Fort:** +10
 
 **Ref:** +5
 
-**Resist:** acid 10
-
 **Will:** +5
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Resist:** acid 10
 
 **Offense**
 

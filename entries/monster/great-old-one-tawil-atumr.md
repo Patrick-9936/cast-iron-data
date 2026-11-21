@@ -53,7 +53,21 @@ extending from below._
 
 **Experience points:** 9,830,400
 
-**Armor class:** 49/37/35
+**Armor class:** 49
+
+**Touch:** 37
+
+**Flat-footed:** 35
+
+**AC modifiers:** +4 deflection, +13 Dex, +1 dodge, +10 insight, +12 natural, -1 size
+
+**Hit points:** 752 (35d10+560)
+
+**Fort:** +31
+
+**Ref:** +36
+
+**Will:** +34
 
 **Amorph:** present
 
@@ -62,22 +76,12 @@ _[freedom of movement](ref/spell/freedom-of-movement)_, immortality, insanity (D
 
 **Fh:** 30
 
-**Fort:** +31
-
-**Hit points:** 752 (35d10+560)
-
 **Immune:** ability damage, ability drain, aging, cold, death effects, disease, energy drain,
 mind-affecting effects, paralysis, petrification, sonic
-
-**Mod:** +4 deflection, +13 Dex, +1 dodge, +10 insight, +12 natural, -1 size
-
-**Ref:** +36
 
 **Resist:** acid 30, electricity 30, fire 30
 
 **Sr:** 41
-
-**Will:** +34
 
 **Offense**
 

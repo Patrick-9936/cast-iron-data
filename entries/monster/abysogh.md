@@ -52,27 +52,31 @@ taut as if in perpetual convulsion._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/10/25
+**Armor class:** 29
 
-**Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
+**Touch:** 10
 
-**Fort:** +17
+**Flat-footed:** 25
+
+**AC modifiers:** +4 Dex, +19 natural, -4 size
 
 **Hit points:** 218 (19d8+133)
 
-**Immune:** gaze attacks, mind-affecting effects, sonic, visual effects
-
-**Mod:** +4 Dex, +19 natural, -4 size
+**Fort:** +17
 
 **Ref:** +10
+
+**Will:** +10
+
+**Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
+
+**Immune:** gaze attacks, mind-affecting effects, sonic, visual effects
 
 **Regen:** 15 (electricity)
 
 **Resist:** cold 10, electricity 10
 
 **Weaknesses:** [blind](ref/misc/blinded)
-
-**Will:** +10
 
 **Offense**
 

@@ -46,21 +46,25 @@ _This swift brown insect scampers up walls, its antennae flailing._
 
 **Experience points:** 50
 
-**Armor class:** 16/16/14
+**Armor class:** 16
 
-**Fort:** +4
+**Touch:** 16
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 size
 
 **Hit points:** 6 (1d8+2)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +4 size
+**Fort:** +4
 
 **Ref:** +2
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +0
+
+**Immune:** mind-affecting effects
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

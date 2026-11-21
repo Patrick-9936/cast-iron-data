@@ -51,19 +51,23 @@ teeth._
 
 **Experience points:** 200
 
-**Armor class:** 9/9/9
+**Armor class:** 9
 
-**Fort:** +5
+**Touch:** 9
+
+**Flat-footed:** 9
+
+**AC modifiers:** -1 Dex
 
 **Hit points:** 7 (1d8+3)
 
-**Immune:** disease, mind-affecting effects
-
-**Mod:** -1 Dex
+**Fort:** +5
 
 **Ref:** -1
 
 **Will:** -3
+
+**Immune:** disease, mind-affecting effects
 
 **Offense**
 

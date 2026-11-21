@@ -50,13 +50,17 @@ from its hunched shoulders._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Fort:** +10
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +1 dodge, +6 natural
 
 **Hit points:** 93 (11d10+33)
 
-**Mod:** +2 Dex, +1 dodge, +6 natural
+**Fort:** +10
 
 **Ref:** +9
 

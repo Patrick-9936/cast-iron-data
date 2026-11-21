@@ -52,21 +52,25 @@ appear to have burst forth from rugged stone._
 
 **Experience points:** 25,600
 
-**Armor class:** 29/15/23
+**Armor class:** 29
 
-**Fort:** +16
+**Touch:** 15
+
+**Flat-footed:** 23
+
+**AC modifiers:** +6 Dex, +14 natural, -1 size
 
 **Hit points:** 184 (16d10+96)
 
-**Mod:** +6 Dex, +14 natural, -1 size
+**Fort:** +16
 
 **Ref:** +11
+
+**Will:** +14
 
 **Regen:** 5 (acid or fire)
 
 **Sr:** 24
-
-**Will:** +14
 
 **Offense**
 

@@ -48,19 +48,23 @@ predator._
 
 **Experience points:** 800
 
-**Armor class:** 15/11/14
+**Armor class:** 15
 
-**Fort:** +2
+**Touch:** 11
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +4 natural
 
 **Hit points:** 26 (4d8+8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +4 natural
+**Fort:** +2
 
 **Ref:** +2
 
 **Will:** +4
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

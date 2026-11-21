@@ -51,21 +51,25 @@ shine in the membranes of its wings._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/12/20
+**Armor class:** 22
 
-**Fort:** +11
+**Touch:** 12
+
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +10 natural
 
 **Hit points:** 85 (9d12+27)
 
-**Immune:** fire, paralysis, sleep
-
-**Mod:** +2 Dex, +10 natural
+**Fort:** +11
 
 **Ref:** +8
 
-**Vulner:** cold
-
 **Will:** +10
+
+**Immune:** fire, paralysis, sleep
+
+**Vulner:** cold
 
 **Offense**
 

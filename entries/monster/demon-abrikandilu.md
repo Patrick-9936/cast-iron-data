@@ -54,25 +54,29 @@ taloned hand._
 
 **Experience points:** 800
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Dr:** 5/cold iron
+**Touch:** 10
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +5 natural
 
 **Hit points:** 32 (5d10+5)
 
-**Immune:** electricity, poison
-
-**Mod:** +5 natural
+**Fort:** +5
 
 **Ref:** +4
+
+**Will:** +3
+
+**Dr:** 5/cold iron
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Weaknesses:** hatred of mirrors
-
-**Will:** +3
 
 **Offense**
 

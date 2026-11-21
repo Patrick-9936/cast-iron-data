@@ -57,13 +57,17 @@ different color._
 
 **Experience points:** 200
 
-**Armor class:** 10/9/10
+**Armor class:** 10
 
-**Fort:** +1
+**Touch:** 9
+
+**Flat-footed:** 10
+
+**AC modifiers:** -1 Dex, +1 natural
 
 **Hit points:** 8 (1d6+2)
 
-**Mod:** -1 Dex, +1 natural
+**Fort:** +1
 
 **Ref:** -1
 

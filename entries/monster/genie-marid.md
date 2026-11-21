@@ -51,13 +51,17 @@ eyebrows, and pearlescent teeth._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/14/18
+**Armor class:** 23
 
-**Fort:** +10
+**Touch:** 14
+
+**Flat-footed:** 18
+
+**AC modifiers:** +4 Dex, +1 dodge, +9 natural, -1 size
 
 **Hit points:** 114 (12d10+48)
 
-**Mod:** +4 Dex, +1 dodge, +9 natural, -1 size
+**Fort:** +10
 
 **Ref:** +12
 

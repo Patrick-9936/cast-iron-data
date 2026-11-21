@@ -57,19 +57,25 @@ flaming scimitars and a bow._
 
 **Experience points:** 51,200
 
-**Armor class:** 29/13/25
+**Armor class:** 29
 
-**Dr:** 10/evil
+**Touch:** 13
 
-**Fort:** +18
+**Flat-footed:** 25
+
+**AC modifiers:** +4 Dex, +16 natural, -1 size; +4 deflection vs. evil
 
 **Hit points:** 187 (15d10+105)
 
-**Immune:** acid, cold, fire, petrification
-
-**Mod:** +4 Dex, +16 natural, -1 size; +4 deflection vs. evil
+**Fort:** +18
 
 **Ref:** +13
+
+**Will:** +13; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** acid, cold, fire, petrification
 
 **Regen:** 10 (evil effects or weapons)
 
@@ -78,8 +84,6 @@ flaming scimitars and a bow._
 **Sr:** 26
 
 **Uncanny dodge:** present
-
-**Will:** +13; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

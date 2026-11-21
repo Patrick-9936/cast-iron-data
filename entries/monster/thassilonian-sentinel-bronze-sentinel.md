@@ -48,19 +48,23 @@ legs, its eyes intermittently shining with an orange glow._
 
 **Experience points:** 800
 
-**Armor class:** 18/14/15
+**Armor class:** 18
 
-**Fort:** +1
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +4 natural, +1 size
 
 **Hit points:** 32 (4d10+10)
 
-**Immune:** [construct traits](ref/umr/construct-traits), fire, magic
-
-**Mod:** +3 Dex, +4 natural, +1 size
+**Fort:** +1
 
 **Ref:** +4
 
 **Will:** +1
+
+**Immune:** [construct traits](ref/umr/construct-traits), fire, magic
 
 **Offense**
 

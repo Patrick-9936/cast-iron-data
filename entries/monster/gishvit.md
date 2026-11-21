@@ -52,19 +52,23 @@ bookmark protrudes menacingly from its open pages._
 
 **Experience points:** 200
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Fort:** -1
+**Touch:** 14
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 4 (1d10-1)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** -1
 
 **Ref:** +4
 
-**Weaknesses:** vulnerable to _[erase](ref/spell/erase)_
-
 **Will:** +2
+
+**Weaknesses:** vulnerable to _[erase](ref/spell/erase)_
 
 **Offense**
 

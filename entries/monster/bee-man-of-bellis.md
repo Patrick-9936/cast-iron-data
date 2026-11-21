@@ -47,7 +47,21 @@ _This shabby-cloaked figure is surrounded by hundreds of bees._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/17/16
+**Armor class:** 23
+
+**Touch:** 17
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 Dex, +1 dodge, +6 natural
+
+**Hit points:** 110 (13d8+52)
+
+**Fort:** +8
+
+**Ref:** +10
+
+**Will:** +10
 
 **Amorph:** present
 
@@ -55,17 +69,7 @@ _This shabby-cloaked figure is surrounded by hundreds of bees._
 
 **Fh:** 10
 
-**Fort:** +8
-
-**Hit points:** 110 (13d8+52)
-
 **Immune:** disease, poison, paralysis, sleep, stunning
-
-**Mod:** +6 Dex, +1 dodge, +6 natural
-
-**Ref:** +10
-
-**Will:** +10
 
 **Offense**
 

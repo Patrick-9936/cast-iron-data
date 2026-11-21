@@ -53,19 +53,23 @@ digs into the soft ground._
 
 **Experience points:** 600
 
-**Armor class:** 12/12/10
+**Armor class:** 12
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +1
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

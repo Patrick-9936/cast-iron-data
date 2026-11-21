@@ -50,23 +50,25 @@ subtype. This ability can summon only one creature, regardless of the list used.
 
 **Usage:** 3 + Charisma modifier times/day
 
-At 8th level: The level of the spell increases to _summon monster +3._
+**At 8th level,** the level of the spell increases to _summon monster +3._
 
-At 10th level: The level of the spell increases to _summon monster +4._
+**At 10th level,** the level of the spell increases to _summon monster +4._
 
-At 12th level: The level of the spell increases to _summon monster +5._
+**At 12th level,** the level of the spell increases to _summon monster +5._
 
-At 14th level: The level of the spell increases to _summon monster +6._
+**At 14th level,** the level of the spell increases to _summon monster +6._
 
-At 16th level: The level of the spell increases to _summon monster +7._
+**At 16th level,** the level of the spell increases to _summon monster +7._
 
-At 18th level: The level of the spell increases to _summon monster +8._
+**At 18th level,** the level of the spell increases to _summon monster +8._
 
-At 20th level: The level of the spell increases to _summon monster +9._
+**At 20th level,** the level of the spell increases to _summon monster +9._
 
 ### Gift
 
 **Consume the Soul (Sp)**
+
+**Flavor:** You can consume or imprison the soul of a dying creature.
 
 **Ability:** You gain the ability to cast [death knell](ref/spell/death-knell) as a
 [spell-like ability](ref/umr/spell-like-abilities) using your medium level as the spell's caster
@@ -74,11 +76,7 @@ level. Instead of gaining the normal benefits of this spell when the target fail
 instead lock the target's soul within a [soul gem](ref/spell/create-soul-gem), functioning like the
 _soul lock_ ability of a [cacodaemon](ref/monster/daemon-cacodaemon).
 
-**Flavor:** You can consume or imprison the soul of a dying creature.
+**Usage:** Three times per day
 
 **Special:** You count as an evil outsider for the purpose of determining whether you receive a
 benefit when you ingest a soul gem created by the _soul lock_ ability.
-
-**Usage:** Three times per day
-
-**Usage:** Three times per day

@@ -51,23 +51,27 @@ into an aggressive stance._
 
 **Experience points:** 800
 
-**Armor class:** 17/13/15
+**Armor class:** 17
 
-**Dr:** 5/bludgeoning
+**Touch:** 13
 
-**Fort:** +7
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +4 natural, +1 size
 
 **Hit points:** 26 (4d10+4)
 
-**Immune:** cold, fire
-
-**Mod:** +2 Dex, +4 natural, +1 size
+**Fort:** +7
 
 **Ref:** +8
 
-**Resist:** electricity 10
-
 **Will:** +2
+
+**Dr:** 5/bludgeoning
+
+**Immune:** cold, fire
+
+**Resist:** electricity 10
 
 **Offense**
 

@@ -48,7 +48,21 @@ jerks._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/22/15
+**Armor class:** 27
+
+**Touch:** 22
+
+**Flat-footed:** 15
+
+**AC modifiers:** +7 Dex, +5 dodge, +5 natural
+
+**Hit points:** 157 (15d8+90)
+
+**Fort:** +11
+
+**Ref:** +14
+
+**Will:** +16
 
 **Chan Res:** +2
 
@@ -56,19 +70,9 @@ jerks._
 
 **Evasion:** present
 
-**Fort:** +11
-
-**Hit points:** 157 (15d8+90)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
 
-**Mod:** +7 Dex, +5 dodge, +5 natural
-
-**Ref:** +14
-
 **Sr:** 23
-
-**Will:** +16
 
 **Offense**
 

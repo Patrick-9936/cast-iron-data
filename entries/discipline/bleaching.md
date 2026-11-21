@@ -91,11 +91,9 @@ hours. You regain 1 point in your phrenic pool each time you successfully drain 
 
 **Drain Vibrancy**
 
-**Flavor:** You can drain the color and vitality from the world around you.
-
-**At 17th Level:** A creature that fails its saving throw takes 2 temporary negative levels instead.
-
 **Gained:** At 13th Level
+
+**Flavor:** You can drain the color and vitality from the world around you.
 
 **Standard:** You can drain vibrancy within a 30-foot radius, causing the area and all creatures
 within it to become pale and sallow. Each living creature in the area must succeed at a Fortitude
@@ -104,4 +102,4 @@ save (DC = 10 + half your psychic level + your Wisdom modifier) or take 1 tempor
 
 **Usage:** 3 times a day
 
-**Usage:** 3 times a day
+**At 17th level,** a creature that fails its saving throw takes 2 temporary negative levels instead.

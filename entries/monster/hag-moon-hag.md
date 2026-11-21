@@ -51,25 +51,29 @@ fat in its socket._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/15/19
+**Armor class:** 20
+
+**Touch:** 15
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +4 insight, +5 natural
+
+**Hit points:** 85 (9d10+36)
+
+**Fort:** +9
+
+**Ref:** +7
+
+**Will:** +9
 
 **Defensive abilities:** lunatic insight
 
 **Ferocity:** present
 
-**Fort:** +9
-
-**Hit points:** 85 (9d10+36)
-
 **Immune:** confusion, fear, insanity
 
-**Mod:** +1 Dex, +4 insight, +5 natural
-
-**Ref:** +7
-
 **Sr:** 18
-
-**Will:** +9
 
 **Offense**
 

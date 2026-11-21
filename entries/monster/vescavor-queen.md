@@ -58,25 +58,29 @@ noxious slime._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/13/18
+**Armor class:** 22
 
-**Fh:** 2
+**Touch:** 13
 
-**Fort:** +8
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +1 dodge, +9 natural, -1 size
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** acid, poison
-
-**Mod:** +3 Dex, +1 dodge, +9 natural, -1 size
+**Fort:** +8
 
 **Ref:** +11
+
+**Will:** +10
+
+**Fh:** 2
+
+**Immune:** acid, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 20
-
-**Will:** +10
 
 **Offense**
 

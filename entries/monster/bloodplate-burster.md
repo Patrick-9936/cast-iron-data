@@ -53,19 +53,23 @@ skin._
 
 **Experience points:** 6,400
 
-**Armor class:** 24/10/22
+**Armor class:** 24
 
-**Fort:** +12
+**Touch:** 10
+
+**Flat-footed:** 22
+
+**AC modifiers:** +1 Dex, +1 dodge, +14 natural, -2 size
 
 **Hit points:** 119 (14d8+56)
 
-**Immune:** acid, [plant traits](ref/umr/plant-traits), sight-based effects
-
-**Mod:** +1 Dex, +1 dodge, +14 natural, -2 size
+**Fort:** +12
 
 **Ref:** +7
 
 **Will:** +7
+
+**Immune:** acid, [plant traits](ref/umr/plant-traits), sight-based effects
 
 **Offense**
 

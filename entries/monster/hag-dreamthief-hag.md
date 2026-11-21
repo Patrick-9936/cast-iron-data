@@ -52,23 +52,27 @@ with green light._
 
 **Experience points:** 12,800
 
-**Armor class:** 27/16/21
+**Armor class:** 27
 
-**Dr:** 10/cold iron and magic
+**Touch:** 16
 
-**Fort:** +14
+**Flat-footed:** 21
+
+**AC modifiers:** +6 Dex, +11 natural
 
 **Hit points:** 149 (13d10+78)
 
-**Immune:** cold, fire, mind-affecting effects
-
-**Mod:** +6 Dex, +11 natural
+**Fort:** +14
 
 **Ref:** +10
 
-**Sr:** 26
-
 **Will:** +12
+
+**Dr:** 10/cold iron and magic
+
+**Immune:** cold, fire, mind-affecting effects
+
+**Sr:** 26
 
 **Offense**
 

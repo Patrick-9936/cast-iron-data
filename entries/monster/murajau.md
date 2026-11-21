@@ -52,13 +52,17 @@ shell encasing his back._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/11/18
+**Armor class:** 20
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +9 natural, -1 size
 
 **Hit points:** 47 (5d10+20)
 
-**Mod:** +2 Dex, +9 natural, -1 size
+**Fort:** +5
 
 **Ref:** +6
 

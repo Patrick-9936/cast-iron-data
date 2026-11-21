@@ -55,25 +55,29 @@ lengthy contracts._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/18/17
+**Armor class:** 25
 
-**Dr:** 10/good
+**Touch:** 18
 
-**Fort:** +9
+**Flat-footed:** 17
+
+**AC modifiers:** +7 Dex, +1 dodge, +7 natural
 
 **Hit points:** 136 (13d10+65)
 
-**Immune:** fire, mind-affecting effects, poison
-
-**Mod:** +7 Dex, +1 dodge, +7 natural
+**Fort:** +9
 
 **Ref:** +15
+
+**Will:** +16
+
+**Dr:** 10/good
+
+**Immune:** fire, mind-affecting effects, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 21
-
-**Will:** +16
 
 **Offense**
 

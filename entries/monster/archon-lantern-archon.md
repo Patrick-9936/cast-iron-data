@@ -53,21 +53,25 @@ otherworldly grace._
 
 **Experience points:** 600
 
-**Armor class:** 15/11/15
+**Armor class:** 15
 
-**Dr:** 10/evil
+**Touch:** 11
 
-**Fort:** +4
+**Flat-footed:** 15
+
+**AC modifiers:** +4 natural, +1 size; +2 deflect vs. evil
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** electricity, petrification
-
-**Mod:** +4 natural, +1 size; +2 deflect vs. evil
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +0; +4 vs. poison, +2 resistance vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** electricity, petrification
 
 **Offense**
 

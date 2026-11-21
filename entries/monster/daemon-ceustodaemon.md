@@ -50,24 +50,28 @@ horned ape._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/10/19
+**Armor class:** 20
 
-**Dr:** 10/good or silver
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +1 Dex, +10 natural, -1 size
+
+**Hit points:** 68 (8d10+24)
 
 **Fort:** +9
 
-**Hit points:** 68 (8d10+24)
+**Ref:** +3
+
+**Will:** +8
+
+**Dr:** 10/good or silver
 
 **Immune:** acid, death effects, disease, mind-affecting effects, paralysis, poison, polymorph
 effects, sleep effects
 
-**Mod:** +1 Dex, +10 natural, -1 size
-
-**Ref:** +3
-
 **Resist:** cold 10, electricity 10, fire 10
-
-**Will:** +8
 
 **Offense**
 

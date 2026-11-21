@@ -47,23 +47,27 @@ _This strange construct is shaped like a masked humanoid made of wood and porcel
 
 **Experience points:** 3,200
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Dr:** 5/magic
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +3
 
 **Ref:** +6
 
-**Weaknesses:** susceptible to mind-affecting effects
-
 **Will:** +3
+
+**Dr:** 5/magic
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Weaknesses:** susceptible to mind-affecting effects
 
 **Offense**
 

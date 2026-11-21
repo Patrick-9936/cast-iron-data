@@ -55,21 +55,25 @@ front and an eel in the back._
 
 **Experience points:** 400
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Ferocity:** present
+**Touch:** 12
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +2 natural, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +1 Dex, +2 natural, +1 size
+**Fort:** +2
 
 **Ref:** +1
 
-**Resist:** cold 5
-
 **Will:** +4
+
+**Ferocity:** present
+
+**Resist:** cold 5
 
 **Offense**
 

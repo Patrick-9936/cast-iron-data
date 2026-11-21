@@ -14,14 +14,12 @@ group = "rage-power"
 
 **Fjord Linnorm Death Curse (Su)**
 
-**Action:** Ability
+**Ability:** The character channels the power of a
+[fjord linnorm](ref/monster/linnorm-fjord-linnorm). The character's melee attacks deal an additional
+1 point of cold damage. If the character is knocked unconscious or killed by an attack or spell, the
+attacker suffers the _curse of drowning_ (Will negates).
 
 **Prereq:** 4th-level barbarian
-
-The character channels the power of a [fjord linnorm](ref/monster/linnorm-fjord-linnorm). The
-character's melee attacks deal an additional 1 point of cold damage. If the character is knocked
-unconscious or killed by an attack or spell, the attacker suffers the _curse of drowning_ (Will
-negates).
 
 **Curse of Drowning**
 

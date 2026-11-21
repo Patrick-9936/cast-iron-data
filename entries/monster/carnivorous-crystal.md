@@ -53,27 +53,31 @@ _The facets of this crystalline formation shift and vibrate, as though in antici
 
 **Experience points:** 12,800
 
-**Armor class:** 17/5/17
+**Armor class:** 17
 
-**Dr:** 10/-
+**Touch:** 5
 
-**Fort:** +9
+**Flat-footed:** 17
+
+**AC modifiers:** -5 Dex, +12 natural
 
 **Hit points:** 136 (16d8+64)
 
-**Immune:** cold, electricity, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, +12 natural
+**Fort:** +9
 
 **Ref:** +0
+
+**Will:** +0
+
+**Dr:** 10/-
+
+**Immune:** cold, electricity, [ooze traits](ref/umr/ooze-traits)
 
 **Resist:** fire 20
 
 **Vulner:** sonic
 
 **Weaknesses:** brittle
-
-**Will:** +0
 
 **Offense**
 

@@ -60,13 +60,13 @@ modifier and once using the phantom's - and take the better result.
 
 **Aura of Ecstasy (Su)**
 
+**Gained:** At 12th Level
+
 **Ability:** The lust phantom emanates an aura of ecstasy. All creatures adjacent to the phantom
 must succeed at a Will save (DC = 10 + 1/2 the phantom's Hit Dice + the phantom's Charisma modifier)
 or be [shaken](ref/misc/shaken) and [staggered](ref/misc/staggered) each round that they remain
 within the _aura of ecstasy._ Creatures that succeed at this save are immune to this phantom's _aura
 of ecstasy_ for 24 hours.
-
-**Gained:** At 12th Level
 
 **Sinful Command (Su)**
 

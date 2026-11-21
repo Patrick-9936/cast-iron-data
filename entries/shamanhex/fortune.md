@@ -19,9 +19,9 @@ can call upon this good luck once per round, allowing it to reroll any ability c
 saving throw, or skill check, taking the better result. The target creature must to decide to use
 this ability before the first roll is made.
 
+**At 8th level,** the duration of this hex increases to 2 rounds.
+
+**At 16th level,** the duration of this hex increases to 3 rounds.
+
 **Special:** Once a creature has benefited from the _fortune_ hex, it cannot benefit from it again
 for 24 hours.
-
-At 8th level: The duration of this hex increases to 2 rounds.
-
-At 16th level: The duration of this hex increases to 3 rounds.

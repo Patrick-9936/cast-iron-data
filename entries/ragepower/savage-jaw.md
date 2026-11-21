@@ -20,8 +20,6 @@ opponent.
 **Free:** While using the _animal fury_ power, the barbarian can activate this power and gain the
 [grab](ref/umr/grab) ability with her bite attack until the start of her next turn.
 
+**Usage:** Once per _rage_
+
 **Prereq:** [Animal fury](ref/ragepower/animal-fury)
-
-**Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

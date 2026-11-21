@@ -48,19 +48,23 @@ _Three spears of obsidian energy skewer this cadaverous figure._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/14/16
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 14
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +1 dodge, +6 natural
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +1 dodge, +6 natural
+**Fort:** +7
 
 **Ref:** +8
 
 **Will:** +9
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

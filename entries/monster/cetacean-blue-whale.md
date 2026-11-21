@@ -50,13 +50,17 @@ with layers of baleen._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/1/26
+**Armor class:** 26
 
-**Fort:** +17
+**Touch:** 1
+
+**Flat-footed:** 26
+
+**AC modifiers:** -1 Dex, +25 natural, -8 size
 
 **Hit points:** 184 (16d8+112)
 
-**Mod:** -1 Dex, +25 natural, -8 size
+**Fort:** +17
 
 **Ref:** +9
 

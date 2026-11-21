@@ -54,25 +54,29 @@ above its grotesque, misshapen head and its mouth is open in a silent scream._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/15/22
+**Armor class:** 27
+
+**Touch:** 15
+
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +1 dodge, +12 natural
+
+**Hit points:** 152 (16d8+80)
+
+**Fort:** +10
+
+**Ref:** +9
+
+**Will:** +15; +9 vs. mind-affecting effects
 
 **Defensive abilities:** _[mind blank](ref/spell/mind-blank)_
 
 **Dr:** 15/magic
 
-**Fort:** +10
-
-**Hit points:** 152 (16d8+80)
-
 **Immune:** sonic
 
-**Mod:** +4 Dex, +1 dodge, +12 natural
-
-**Ref:** +9
-
 **Sr:** 23
-
-**Will:** +15; +9 vs. mind-affecting effects
 
 **Offense**
 

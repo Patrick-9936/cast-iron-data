@@ -56,27 +56,31 @@ as large as a human head._
 
 **Experience points:** 6,400
 
-**Armor class:** 15/3/15
+**Armor class:** 15
 
-**Dr:** 10/-
+**Touch:** 3
 
-**Fort:** +8
+**Flat-footed:** 15
+
+**AC modifiers:** -5 Dex, +12 natural, -2 size
 
 **Hit points:** 119 (14d8+56)
 
-**Immune:** acid, cold, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, +12 natural, -2 size
+**Fort:** +8
 
 **Ref:** -1
+
+**Will:** -1
+
+**Dr:** 10/-
+
+**Immune:** acid, cold, [ooze traits](ref/umr/ooze-traits)
 
 **Resist:** electricity 20, fire 20
 
 **Vulner:** sonic
 
 **Weaknesses:** brittle
-
-**Will:** -1
 
 **Offense**
 

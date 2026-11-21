@@ -14,14 +14,14 @@ group = "social-talent"
 
 **Beginner's Luck (Ex)**
 
+**Flavor:** The vigilante appears so harmless and innocent that onlookers dismiss his incredible
+abilities as nothing more than beginner's luck.
+
 **Ability:** When the vigilante uses a vigilante talent while in his social identity, he can add the
 +20 circumstance bonus from _seamless guise_ to his [Disguise](ref/skill/disguise) check to fool
 onlookers, so long as the number of onlookers witnessing him is no greater than his vigilante level.
 The vigilante's PC allies do not count as onlookers (and at the GM's discretion, a closely allied
 NPC might not count as an onlooker, either).
-
-**Flavor:** The vigilante appears so harmless and innocent that onlookers dismiss his incredible
-abilities as nothing more than beginner's luck.
 
 **Special:** He loses this bonus against onlookers who have already witnessed him using a vigilante
 talent in his social identity within the last week.

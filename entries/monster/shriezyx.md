@@ -56,27 +56,31 @@ dripping with green venom._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Ferocity:** present
+**Touch:** 13
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
 
 **Hit points:** 38 (7d8+7)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +4 natural
+**Fort:** +5
 
 **Ref:** +5
+
+**Will:** +6
+
+**Ferocity:** present
+
+**Immune:** mind-affecting effects
 
 **Regen:** 3 (fire)
 
 **Vulner:** fire
 
 **Weaknesses:** fear of fire
-
-**Will:** +6
 
 **Offense**
 

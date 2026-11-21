@@ -35,10 +35,10 @@ inquisitor level were 3 higher.
 
 **Executioner's Strike (Su)**
 
+**Gained:** At 8th Level
+
 **Flavor:** Your precision in combat has become incredible, and you can strike a lethal blow if your
 target cannot defend itself properly.
-
-**Gained:** At 8th Level
 
 **Standard:** Once per day, you can make an attack against your _chosen victim._ If the attack hits
 and the victim is denied its Dexterity bonus to AC against you, any critical threats are

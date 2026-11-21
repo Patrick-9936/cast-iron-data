@@ -50,23 +50,27 @@ antler-like growths on its head._
 
 **Experience points:** 12,800
 
-**Armor class:** 26/14/21
+**Armor class:** 26
 
-**Fort:** +14
+**Touch:** 14
+
+**Flat-footed:** 21
+
+**AC modifiers:** +4 Dex, +1 dodge, +12 natural, -1 size
 
 **Hit points:** 136 (16d8+64)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +4 Dex, +1 dodge, +12 natural, -1 size
+**Fort:** +14
 
 **Ref:** +11
+
+**Will:** +8
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Resist:** cold 10
 
 **Vulner:** fire
-
-**Will:** +8
 
 **Offense**
 

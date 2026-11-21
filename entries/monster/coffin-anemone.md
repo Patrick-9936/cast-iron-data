@@ -51,23 +51,27 @@ surrounding a soft, pale blue center._
 
 **Experience points:** 400
 
-**Armor class:** 12/12/10
+**Armor class:** 12
+
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex
+
+**Hit points:** 16 (3d8+3)
+
+**Fort:** +4
+
+**Ref:** +3
+
+**Will:** +1
 
 **Amorph:** present
 
 **Defensive abilities:** anchored
 
-**Fort:** +4
-
-**Hit points:** 16 (3d8+3)
-
 **Immune:** gaze attacks, mind-affecting effects, poison, vision-based effects
-
-**Mod:** +2 Dex
-
-**Ref:** +3
-
-**Will:** +1
 
 **Offense**
 

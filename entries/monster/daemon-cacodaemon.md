@@ -51,25 +51,29 @@ creature's orb-like body._
 
 **Experience points:** 600
 
-**Armor class:** 16/12/16
+**Armor class:** 16
+
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 natural, +2 size
+
+**Hit points:** 19 (3d10+3)
+
+**Fort:** +2
+
+**Ref:** +5
+
+**Will:** +4
 
 **Dr:** 5/good or silver
 
 **Fh:** 2
 
-**Fort:** +2
-
-**Hit points:** 19 (3d10+3)
-
 **Immune:** acid, death effects, disease, poison
 
-**Mod:** +4 natural, +2 size
-
-**Ref:** +5
-
 **Resist:** cold 10, electricity 10, fire 10
-
-**Will:** +4
 
 **Offense**
 

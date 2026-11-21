@@ -48,13 +48,13 @@ An oracle with the Time mystery can choose from any of the following revelations
 
 **Aging Touch (Su)**
 
+**Flavor:** Your touch ages living creatures and objects.
+
 **Ability:** As a melee touch attack, you can deal an amount of
 [Strength damage](ref/rule/ability-damage-drain) equal to [half](ref/misc/fractions-and-rounding)
 your oracle level. Against objects or constructs, you can deal 1d6 points of damage per oracle
 level. If used against an object in another creature's possession, treat this attack as a
 [sunder](ref/rule/sunder) combat maneuver.
-
-**Flavor:** Your touch ages living creatures and objects.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels
 
@@ -70,14 +70,14 @@ space - in effect, the creature ceases to exist for the duration of this ability
 At the end of the duration, the creature reappears unharmed in the space it last occupied (or the
 nearest possible space, if the original space is now occupied).
 
-**At 11th Level:** You can use this ability twice a day.
+**At 11th level,** you can use this ability twice a day.
 
 **Knowledge of the Ages (Su)**
 
+**Flavor:** You can search through time to recall some bit of forgotten lore or information.
+
 **Ability:** You can retry any Knowledge skill check you have made within the past minute, gaining
 an insight bonus on the check equal to your Charisma modifier.
-
-**Flavor:** You can search through time to recall some bit of forgotten lore or information.
 
 **Usage:** Charisma modifier times/day
 
@@ -95,42 +95,42 @@ your Armor Class until the start of your next turn.
 results of the roll are revealed. You must take the result of the reroll, even if it's worse than
 the original roll.
 
-**Prereq:** 7th-level oracle
-
 **Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
 
-**Speed or Slow Time (Sp)**
-
 **Prereq:** 7th-level oracle
+
+**Speed or Slow Time (Sp)**
 
 **Standard:** You can speed up or slow down time, as either the [haste](ref/spell/haste) or
 [slow](ref/spell/slow) spell.
 
 **Usage:** 1 time/day + 1 per 5 oracle levels beyond 7th
 
+**Prereq:** 7th-level oracle
+
 **Temporal Celerity (Su)**
 
 **Ability:** Whenever you roll for initiative, you can roll twice and take either result.
 
-**At 11th Level:** You can roll for initiative three times and take any one of the results.
-
-**At 7th Level:** You can always act in the surprise round, but if you fail to notice the ambush,
+**At 7th level,** you can always act in the surprise round, but if you fail to notice the ambush,
 you act last, regardless of your initiative result (you act in the normal order in following
 rounds).
 
+**At 11th level,** you can roll for initiative three times and take any one of the results.
+
 **Time Flicker (Su)**
-
-**At 7th Level:** Each time you activate this ability, you can treat it as the
-[blink](ref/spell/blink) spell, though each round spent this way counts as 1 minute of your normal
-_time flicker_ duration.
-
-**Prereq:** 3rd-level oracle
 
 **Standard:** You can flicker in and out of time, gaining [concealment](ref/rule/concealment) (as
 the [blur](ref/spell/blur) spell).
 
 **Usage:** 1 minute/day per oracle level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
+
+**At 7th level,** each time you activate this ability, you can treat it as the
+[blink](ref/spell/blink) spell, though each round spent this way counts as 1 minute of your normal
+_time flicker_ duration.
+
+**Prereq:** 3rd-level oracle
 
 **Time Hop (Su)**
 
@@ -148,13 +148,13 @@ creatures with you, but you must expend an equal amount of distance for each cre
 **Ability:** You can peer through the mists of time to see things as they truly are, as if using the
 [true seeing](ref/spell/true-seeing) spell.
 
-**At 15th Level:** This functions like [moment of prescience](ref/spell/moment-of-prescience).
+**Usage:** 1 minute/day per oracle level
 
-**At 18th Level:** This functions like [foresight](ref/spell/foresight).
+**At 15th level,** this functions like [moment of prescience](ref/spell/moment-of-prescience).
+
+**At 18th level,** this functions like [foresight](ref/spell/foresight).
 
 **Prereq:** 11th-level oracle
-
-**Usage:** 1 minute/day per oracle level
 
 ### Final Revelation
 

@@ -82,11 +82,9 @@ modifier.
 
 **Mnemonic Cache (Su)**
 
-**Action:** Ability
-
-You can memorize a piece of information and later recall it perfectly. Your mnemonic cache can hold
-roughly 10 pages of written information, including images and maps, or 30 minutes' worth of speech
-or music. (Memorizing music doesn't confer the ability to perform it properly.)
+**Ability:** You can memorize a piece of information and later recall it perfectly. Your mnemonic
+cache can hold roughly 10 pages of written information, including images and maps, or 30 minutes'
+worth of speech or music. (Memorizing music doesn't confer the ability to perform it properly.)
 
 The amount you can store increases by 5 pages and 5 minutes at 2nd level, and at every psychic level
 thereafter. You can hold only one piece of information in your mnemonic cache at a time. The

@@ -49,21 +49,25 @@ an invisible frame._
 
 **Experience points:** 9,600
 
-**Armor class:** 26/16/20
+**Armor class:** 26
 
-**Dr:** 10/magic
+**Touch:** 16
 
-**Fort:** +5
+**Flat-footed:** 20
+
+**AC modifiers:** +5 Dex, +1 dodge, +10 natural
 
 **Hit points:** 117 (15d10+35)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +5 Dex, +1 dodge, +10 natural
+**Fort:** +5
 
 **Ref:** +10
 
 **Will:** +5
+
+**Dr:** 10/magic
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

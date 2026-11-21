@@ -48,21 +48,25 @@ things to burn._
 
 **Experience points:** 400
 
-**Armor class:** 16/13/14
+**Armor class:** 16
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +1 dodge, +3 natural, +1 size
 
 **Hit points:** 11 (2d10)
 
-**Immune:** elemental traits, fire
-
-**Mod:** +1 Dex, +1 dodge, +3 natural, +1 size
+**Fort:** +3
 
 **Ref:** +4
 
-**Vulner:** cold
-
 **Will:** +0
+
+**Immune:** elemental traits, fire
+
+**Vulner:** cold
 
 **Offense**
 
@@ -145,21 +149,25 @@ made by darker bits of flame or patches of semi-stable smoke, ash, and cinders.
 
 **Experience points:** 800
 
-**Armor class:** 17/14/13
+**Armor class:** 17
 
-**Fort:** +6
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +3 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** elemental traits, fire
-
-**Mod:** +3 Dex, +1 dodge, +3 natural
+**Fort:** +6
 
 **Ref:** +7
 
-**Vulner:** cold
-
 **Will:** +1
+
+**Immune:** elemental traits, fire
+
+**Vulner:** cold
 
 **Offense**
 
@@ -209,23 +217,27 @@ Bonus feat.
 
 **Experience points:** 1,600
 
-**Armor class:** 19/15/13
+**Armor class:** 19
 
-**Dr:** 5/-
+**Touch:** 15
 
-**Fort:** +8
+**Flat-footed:** 13
+
+**AC modifiers:** +5 Dex, +1 dodge, +4 natural, -1 size
 
 **Hit points:** 60 (8d10+16)
 
-**Immune:** elemental traits, fire
-
-**Mod:** +5 Dex, +1 dodge, +4 natural, -1 size
+**Fort:** +8
 
 **Ref:** +11
 
-**Vulner:** cold
-
 **Will:** +4
+
+**Dr:** 5/-
+
+**Immune:** elemental traits, fire
+
+**Vulner:** cold
 
 **Offense**
 
@@ -279,23 +291,27 @@ Bonus feat.
 
 **Experience points:** 3,200
 
-**Armor class:** 21/16/13
+**Armor class:** 21
 
-**Dr:** 5/-
+**Touch:** 16
 
-**Fort:** +10
+**Flat-footed:** 13
+
+**AC modifiers:** +7 Dex, +1 dodge, +5 natural, -2 size
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** elemental traits, fire
-
-**Mod:** +7 Dex, +1 dodge, +5 natural, -2 size
+**Fort:** +10
 
 **Ref:** +14
 
-**Vulner:** cold
-
 **Will:** +5
+
+**Dr:** 5/-
+
+**Immune:** elemental traits, fire
+
+**Vulner:** cold
 
 **Offense**
 
@@ -350,23 +366,27 @@ Bonus feat.
 
 **Experience points:** 6,400
 
-**Armor class:** 23/17/14
+**Armor class:** 23
 
-**Dr:** 10/-
+**Touch:** 17
 
-**Fort:** +12
+**Flat-footed:** 14
+
+**AC modifiers:** +8 Dex, +1 dodge, +6 natural, -2 size
 
 **Hit points:** 123 (13d10+52)
 
-**Immune:** elemental traits, fire
-
-**Mod:** +8 Dex, +1 dodge, +6 natural, -2 size
+**Fort:** +12
 
 **Ref:** +16
 
-**Vulner:** cold
-
 **Will:** +6
+
+**Dr:** 10/-
+
+**Immune:** elemental traits, fire
+
+**Vulner:** cold
 
 **Offense**
 
@@ -421,23 +441,27 @@ Bonus feat.
 
 **Experience points:** 12,800
 
-**Armor class:** 26/18/16
+**Armor class:** 26
 
-**Dr:** 10/-
+**Touch:** 18
 
-**Fort:** +14
+**Flat-footed:** 16
+
+**AC modifiers:** +9 Dex, +1 dodge, +8 natural, -2 size
 
 **Hit points:** 152 (16d10+64)
 
-**Immune:** elemental traits, fire
-
-**Mod:** +9 Dex, +1 dodge, +8 natural, -2 size
+**Fort:** +14
 
 **Ref:** +19
 
-**Vulner:** cold
-
 **Will:** +7
+
+**Dr:** 10/-
+
+**Immune:** elemental traits, fire
+
+**Vulner:** cold
 
 **Offense**
 

@@ -54,23 +54,27 @@ stinger on the other._
 
 **Experience points:** 9,600
 
-**Armor class:** 23/12/20
+**Armor class:** 23
 
-**Dr:** 10/slashing
+**Touch:** 12
 
-**Fort:** +11
+**Flat-footed:** 20
+
+**AC modifiers:** +2 Dex, +1 dodge, +11 natural, -1 size
 
 **Hit points:** 127 (15d8+60)
 
-**Immune:** acid
-
-**Mod:** +2 Dex, +1 dodge, +11 natural, -1 size
+**Fort:** +11
 
 **Ref:** +7
 
-**Resist:** cold 10
-
 **Will:** +11
+
+**Dr:** 10/slashing
+
+**Immune:** acid
+
+**Resist:** cold 10
 
 **Offense**
 

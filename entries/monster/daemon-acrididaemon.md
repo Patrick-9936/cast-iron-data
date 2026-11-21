@@ -51,23 +51,27 @@ entirely of swarming locusts._
 
 **Experience points:** 38,400
 
-**Armor class:** 28/16/21
+**Armor class:** 28
 
-**Fort:** +17
+**Touch:** 16
+
+**Flat-footed:** 21
+
+**AC modifiers:** +6 Dex, +1 dodge, +12 natural, -1 size
 
 **Hit points:** 200 (16d10+112)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +6 Dex, +1 dodge, +12 natural, -1 size
+**Fort:** +17
 
 **Ref:** +18
+
+**Will:** +11
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 25
-
-**Will:** +11
 
 **Offense**
 

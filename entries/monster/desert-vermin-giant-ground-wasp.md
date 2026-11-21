@@ -47,19 +47,23 @@ stinger._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Fort:** +7
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +2 natural, +1 size
 
 **Hit points:** 39 (6d8+12)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +4 Dex, +2 natural, +1 size
+**Fort:** +7
 
 **Ref:** +6
 
 **Will:** +2
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

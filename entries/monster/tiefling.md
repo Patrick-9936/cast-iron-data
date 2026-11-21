@@ -54,19 +54,23 @@ something more than human._
 
 **Experience points:** 200
 
-**Armor class:** 16/13/13
+**Armor class:** 16
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 armor, +3 Dex
 
 **Hit points:** 10 (1d8+2)
 
-**Mod:** +3 armor, +3 Dex
+**Fort:** +2
 
 **Ref:** +5
 
-**Resist:** cold 5, electricity 5, fire 5
-
 **Will:** +1
+
+**Resist:** cold 5, electricity 5, fire 5
 
 **Offense**
 

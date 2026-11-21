@@ -47,19 +47,23 @@ up from its jaw, guarding its eyes._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/9/18
+**Armor class:** 18
 
-**Ferocity:** present
+**Touch:** 9
 
-**Fort:** +11
+**Flat-footed:** 18
+
+**AC modifiers:** +9 natural, -1 size
 
 **Hit points:** 94 (9d8+54)
 
-**Mod:** +9 natural, -1 size
+**Fort:** +11
 
 **Ref:** +6
 
 **Will:** +6
+
+**Ferocity:** present
 
 **Offense**
 

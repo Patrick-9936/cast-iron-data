@@ -46,19 +46,23 @@ _This eerie-looking squid has red eyes and webbing between its hook-lined tentac
 
 **Experience points:** 200
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Defensive abilities:** pressure adaptation
+**Touch:** 14
 
-**Fort:** +3
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 5 (1d8+1)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +3
 
 **Ref:** +6
 
 **Will:** +1
+
+**Defensive abilities:** pressure adaptation
 
 **Offense**
 

@@ -51,21 +51,25 @@ long, lolling tongue._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Dr:** 5/good or piercing
+**Touch:** 14
 
-**Fort:** +6
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
 
 **Hit points:** 66 (7d10+28)
 
-**Mod:** +4 Dex, +4 natural
+**Fort:** +6
 
 **Ref:** +9
 
-**Sr:** 21
-
 **Will:** +6
+
+**Dr:** 5/good or piercing
+
+**Sr:** 21
 
 **Offense**
 

@@ -48,23 +48,27 @@ ft.)
 
 **Experience points:** 51,200
 
-**Armor class:** 38/8/38
+**Armor class:** 38
 
-**Dr:** 15/magic
+**Touch:** 8
 
-**Fort:** +19
+**Flat-footed:** 38
+
+**AC modifiers:** +30 natural, -2 size
 
 **Hit points:** 270 (20d12+140)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +30 natural, -2 size
+**Fort:** +19
 
 **Ref:** +12
 
-**Sr:** 26
-
 **Will:** +20
+
+**Dr:** 15/magic
+
+**Immune:** paralysis, sleep
+
+**Sr:** 26
 
 **Offense**
 

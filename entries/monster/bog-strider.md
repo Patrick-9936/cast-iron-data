@@ -55,13 +55,17 @@ the reed-thin antennae waving upon its head as if testing the air for the scent 
 
 **Experience points:** 600
 
-**Armor class:** 16/13/13
+**Armor class:** 16
 
-**Fort:** +2
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +1 dodge, +3 natural
 
 **Hit points:** 15 (2d10+4)
 
-**Mod:** +2 Dex, +1 dodge, +3 natural
+**Fort:** +2
 
 **Ref:** +5
 

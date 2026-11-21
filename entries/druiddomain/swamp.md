@@ -26,11 +26,11 @@ but only to heal animals, plants, and vermin. You may reduce the number of dice 
 [ability damage](ref/rule/ability-damage-drain) (your choice) to all affected creatures, curing 1
 point of ability damage for each d6 that the channel energy is reduced.
 
+**Usage:** 3 + Charisma modifier times/day
+
 **Special:** You can take other feats to add to this ability, such as
 [Extra Channel](ref/feat/extra-channel), but not feats that alter this ability, such as
 [Elemental Channel](ref/feat/elemental-channel) and [Alignment Channel](ref/feat/alignment-channel).
-
-**Usage:** 3 + Charisma modifier times/day
 
 **Reed Hunter (Ex)**
 

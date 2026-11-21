@@ -51,13 +51,17 @@ _This bloated spider has a hunchbacked body and a gleam of intelligence in its m
 
 **Experience points:** 1,200
 
-**Armor class:** 20/13/17
+**Armor class:** 20
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +4 armor, +3 Dex, +3 natural
 
 **Hit points:** 37 (5d10+10)
 
-**Mod:** +4 armor, +3 Dex, +3 natural
+**Fort:** +6
 
 **Ref:** +7
 

@@ -51,29 +51,33 @@ glowing moon, and her ebon eyes deeply pensive._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/15/23
+**Armor class:** 24
+
+**Touch:** 15
+
+**Flat-footed:** 23
+
+**AC modifiers:** +6 armor, +1 Dex, +5 insight, +3 natural, -1 size
+
+**Hit points:** 138 (12d6+96)
+
+**Fort:** +14
+
+**Ref:** +11
+
+**Will:** +14
 
 **Defensive abilities:** _[death ward](ref/spell/death-ward)_, fated
 
 **Dr:** 10/cold iron
 
-**Fort:** +14
-
-**Hit points:** 138 (12d6+96)
-
 **Immune:** cold
-
-**Mod:** +6 armor, +1 Dex, +5 insight, +3 natural, -1 size
-
-**Ref:** +11
 
 **Regen:** 5 (cold iron)
 
 **Resist:** acid 15, electricity 15, fire 15
 
 **Sr:** 21
-
-**Will:** +14
 
 **Offense**
 

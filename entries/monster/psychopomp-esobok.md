@@ -53,25 +53,29 @@ _This stout, hunched predator has a ruff of dirty feathers and a crocodilian sku
 
 **Experience points:** 800
 
-**Armor class:** 15/13/12
+**Armor class:** 15
+
+**Touch:** 13
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 natural
+
+**Hit points:** 30 (4d10+8)
+
+**Fort:** +6
+
+**Ref:** +4
+
+**Will:** +6
 
 **Defensive abilities:** eater of the dead
 
 **Dr:** 2/adamantine
 
-**Fort:** +6
-
-**Hit points:** 30 (4d10+8)
-
 **Immune:** death effects, disease, poison
 
-**Mod:** +3 Dex, +2 natural
-
-**Ref:** +4
-
 **Resist:** cold 10, electricity 10
-
-**Will:** +6
 
 **Offense**
 

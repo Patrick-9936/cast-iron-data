@@ -55,21 +55,25 @@ wields a huge, primitive spear._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/14/24
+**Armor class:** 26
 
-**Fort:** +15
+**Touch:** 14
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 armor, +4 deflection, +2 Dex, +8 natural, -2 size
 
 **Hit points:** 157 (15d8+90)
 
-**Immune:** enchantment and illusion spells
-
-**Mod:** +4 armor, +4 deflection, +2 Dex, +8 natural, -2 size
+**Fort:** +15
 
 **Ref:** +9
 
-**Rock Ct:** present
-
 **Will:** +10
+
+**Immune:** enchantment and illusion spells
+
+**Rock Ct:** present
 
 **Offense**
 

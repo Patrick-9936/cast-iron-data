@@ -52,23 +52,27 @@ are tipped with thorny claws._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/22/21
+**Armor class:** 33
+
+**Touch:** 22
+
+**Flat-footed:** 21
+
+**AC modifiers:** +11 Dex, +1 dodge, +11 natural
+
+**Hit points:** 290 (20d8+200)
+
+**Fort:** +18
+
+**Ref:** +19
+
+**Will:** +12
 
 **Defensive abilities:** rejuvenation
 
 **Fh:** 15
 
-**Fort:** +18
-
-**Hit points:** 290 (20d8+200)
-
 **Immune:** acid, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +11 Dex, +1 dodge, +11 natural
-
-**Ref:** +19
-
-**Will:** +12
 
 **Offense**
 

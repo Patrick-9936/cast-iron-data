@@ -50,23 +50,27 @@ with a withered crocodile head._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/14/20
+**Armor class:** 24
 
-**Dr:** 10/-
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +10 natural
 
 **Hit points:** 119 (14d8+56)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +10 natural
+**Fort:** +9
 
 **Ref:** +8
 
-**Vulner:** fire
-
 **Will:** +13
+
+**Dr:** 10/-
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Vulner:** fire
 
 **Offense**
 

@@ -48,23 +48,27 @@ _A droning hum surrounds this gargantuan half-bee, half-woman with insectile win
 
 **Experience points:** 38,400
 
-**Armor class:** 30/6/30
+**Armor class:** 30
 
-**Fort:** +12
+**Touch:** 6
+
+**Flat-footed:** 30
+
+**AC modifiers:** +24 natural, -4 size
 
 **Hit points:** 218 (19d10+114)
 
-**Immune:** mind-affecting effects, poison, sonic
-
-**Mod:** +24 natural, -4 size
+**Fort:** +12
 
 **Ref:** +11
+
+**Will:** +14
+
+**Immune:** mind-affecting effects, poison, sonic
 
 **Resist:** acid 20
 
 **Sr:** 25
-
-**Will:** +14
 
 **Offense**
 

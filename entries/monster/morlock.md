@@ -55,21 +55,25 @@ but its shape is hideously humanoid._
 
 **Experience points:** 600
 
-**Armor class:** 15/14/11
+**Armor class:** 15
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 natural
 
 **Hit points:** 22 (3d10+6)
 
-**Immune:** disease, poison
-
-**Mod:** +4 Dex, +1 natural
+**Fort:** +3
 
 **Ref:** +9
 
-**Weaknesses:** [light blindness](ref/umr/light-blindness)
-
 **Will:** +5
+
+**Immune:** disease, poison
+
+**Weaknesses:** [light blindness](ref/umr/light-blindness)
 
 **Offense**
 

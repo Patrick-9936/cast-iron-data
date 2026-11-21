@@ -47,13 +47,17 @@ attack.
 **Sources:** Pathfinder RPG Bestiary pg 174\
 **Experience points:** 600
 
-**Armor class:** 13/9/13
+**Armor class:** 13
 
-**Fort:** +6
+**Touch:** 9
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 natural, -1 size
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +4 natural, -1 size
+**Fort:** +6
 
 **Ref:** +3
 

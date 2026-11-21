@@ -53,21 +53,25 @@ abilities = ["26", "9", "20", "-", "13", "2"]
 
 **Experience points:** 6,400
 
-**Armor class:** 22/7/22
+**Armor class:** 22
 
-**Defensive abilities:** spiny carapace
+**Touch:** 7
 
-**Fort:** +13
+**Flat-footed:** 22
+
+**AC modifiers:** -1 Dex, +15 natural, -2 size
 
 **Hit points:** 114 (12d8+60)
 
-**Immune:** mind-affecting effects
-
-**Mod:** -1 Dex, +15 natural, -2 size
+**Fort:** +13
 
 **Ref:** +3
 
 **Will:** +5
+
+**Defensive abilities:** spiny carapace
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

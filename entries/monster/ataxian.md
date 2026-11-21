@@ -55,25 +55,29 @@ aura of tiny bubbles._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/13/15
+**Armor class:** 16
 
-**Dr:** 5/evil or lawful
+**Touch:** 13
 
-**Fort:** +6
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +3 natural, +2 size
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** poison, fear
-
-**Mod:** +1 Dex, +3 natural, +2 size
+**Fort:** +6
 
 **Ref:** +2
+
+**Will:** +5
+
+**Dr:** 5/evil or lawful
+
+**Immune:** poison, fear
 
 **Resist:** acid 5, cold 5, fire 5
 
 **Sr:** 15
-
-**Will:** +5
 
 **Offense**
 

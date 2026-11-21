@@ -48,23 +48,27 @@ another in a spike of glass._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/8/21
+**Armor class:** 21
+
+**Touch:** 8
+
+**Flat-footed:** 21
+
+**AC modifiers:** -1 Dex, +13 natural, -1 size
+
+**Hit points:** 96 (12d10+30)
+
+**Fort:** +4
+
+**Ref:** +3
+
+**Will:** +4
 
 **Defensive abilities:** reflect spells
 
 **Dr:** 5/adamantine
 
-**Fort:** +4
-
-**Hit points:** 96 (12d10+30)
-
 **Immune:** magic, [construct traits](ref/umr/construct-traits)
-
-**Mod:** -1 Dex, +13 natural, -1 size
-
-**Ref:** +3
-
-**Will:** +4
 
 **Offense**
 

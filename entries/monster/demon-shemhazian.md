@@ -53,25 +53,29 @@ reptilian humanoid._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/11/26
+**Armor class:** 31
 
-**Dr:** 10/cold iron and good
+**Touch:** 11
 
-**Fort:** +19
+**Flat-footed:** 26
+
+**AC modifiers:** +4 Dex, +1 dodge, +20 natural, -4 size
 
 **Hit points:** 246 (17d10+153)
 
-**Immune:** electricity, poison
-
-**Mod:** +4 Dex, +1 dodge, +20 natural, -4 size
+**Fort:** +19
 
 **Ref:** +11
+
+**Will:** +18
+
+**Dr:** 10/cold iron and good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 27
-
-**Will:** +18
 
 **Offense**
 

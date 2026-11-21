@@ -47,13 +47,17 @@ _A spiral pattern adorns the hood of this cobra-like serpent. Its gaze betrays a
 
 **Experience points:** 600
 
-**Armor class:** 17/15/14
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 15
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +2 natural, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Mod:** +3 Dex, +2 natural, +2 size
+**Fort:** +4
 
 **Ref:** +6
 

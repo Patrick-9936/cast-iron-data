@@ -57,26 +57,30 @@ thrashing spiked tail._
 
 **Experience points:** 1,638,400
 
-**Armor class:** 40/5/37
+**Armor class:** 40
 
-**Dr:** 15/epic
+**Touch:** 5
+
+**Flat-footed:** 37
+
+**AC modifiers:** +3 Dex, +35 natural, -8 size
+
+**Hit points:** 525 (30d10+360)
 
 **Fort:** +31
 
-**Hit points:** 525 (30d10+360)
+**Ref:** +22
+
+**Will:** +12
+
+**Dr:** 15/epic
 
 **Immune:** ability damage, ability drain, acid, bleed, disease, energy drain, fire, mind-affecting
 effects, paralysis, permanent wounds, petrification, poison, polymorph
 
-**Mod:** +3 Dex, +35 natural, -8 size
-
-**Ref:** +22
-
 **Regen:** 40
 
 **Sr:** 36
-
-**Will:** +12
 
 **Offense**
 

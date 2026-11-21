@@ -71,25 +71,25 @@ sorcerer level.
 
 **Passive:** You gain acid [resistance](ref/umr/resistance) 10.
 
-**At 9th Level:** Your acid resistance increases to 20.
+**At 9th level,** your acid resistance increases to 20.
 
 **Avalanche (Su)**
 
 **Gained:** At 9th Level
-
-**Special:** If the target is in contact with earth, stone, or rock, you gain a +4 bonus on your CMB
-check.
 
 **Swift:** Whenever you hit a single target with a spell that deals damage, you may make a
 [bull rush](ref/rule/bull-rush) check. Your CMB for this maneuver is equal to your sorcerer caster
 level + your Charisma bonus. You can make this maneuver even if the target is not in melee range,
 and you do not provoke an attack of opportunity for making this maneuver.
 
+**Special:** If the target is in contact with earth, stone, or rock, you gain a +4 bonus on your CMB
+check.
+
 **Elemental Movement (Su)**
 
-**Ability:** You gain a burrow speed of 30 feet.
-
 **Gained:** At 15th Level
+
+**Ability:** You gain a burrow speed of 30 feet.
 
 **Power of the Shaitan (Su)**
 

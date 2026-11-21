@@ -50,25 +50,29 @@ _Within a towering structure of bone and rotting flesh lurk hundreds of flitteri
 
 **Experience points:** 38,400
 
-**Armor class:** 16/15/9
+**Armor class:** 16
 
-**Defensive abilities:** fleshy shield
+**Touch:** 15
 
-**Fort:** +17
+**Flat-footed:** 9
+
+**AC modifiers:** +6 Dex, +1 dodge, +1 natural, -2 size
 
 **Hit points:** 199 (21d10+84)
 
-**Immune:** poison
-
-**Mod:** +6 Dex, +1 dodge, +1 natural, -2 size
+**Fort:** +17
 
 **Ref:** +20
+
+**Will:** +10
+
+**Defensive abilities:** fleshy shield
+
+**Immune:** poison
 
 **Resist:** acid 10, cold 10, electricity 10, fire 10
 
 **Sr:** 25
-
-**Will:** +10
 
 **Offense**
 

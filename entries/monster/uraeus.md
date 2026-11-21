@@ -51,21 +51,25 @@ serpentine body._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Fort:** +7
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 52 (7d10+14)
 
-**Immune:** disease
-
-**Mod:** +3 Dex, +6 natural
+**Fort:** +7
 
 **Ref:** +8
 
-**Resist:** fire 10
-
 **Will:** +4
+
+**Immune:** disease
+
+**Resist:** fire 10
 
 **Offense**
 

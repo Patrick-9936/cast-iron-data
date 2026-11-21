@@ -14,8 +14,8 @@ group = "phrenic-amplification"
 
 **Perfect Body (Ex)**
 
-**Ability:** When the psychic casts a linked transmutation spell, she can spend 1 point from her
-phrenic pool to gain a +2 bonus on her next Reflex or Fortitude save.
-
 **Flavor:** Some practitioners of psychic techniques extend their training to improve their bodies
 as well as their minds.
+
+**Ability:** When the psychic casts a linked transmutation spell, she can spend 1 point from her
+phrenic pool to gain a +2 bonus on her next Reflex or Fortitude save.

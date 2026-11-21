@@ -65,11 +65,9 @@ deal 1d6 points of additional damage of your energy type.
 
 **Usage:** 3 times/day.
 
-**Usage:** 3 times/day.
+**At 8th level,** you can now use this five times a day.
 
-**At 8th Level:** You can now use this five times a day.
-
-**At 20th Level:** All of your melee attacks deal this damage, and this ability no longer requires a
+**At 20th level,** all of your melee attacks deal this damage, and this ability no longer requires a
 swift action to activate.
 
 **Elemental Resistance (Ex)**
@@ -95,12 +93,10 @@ resistance to that energy type, and still deals half damage to creatures with
 
 **Elemental Form (Su)**
 
-**Ability:** When entering a _bloodrage_ you can take an elemental form as
-[elemental body IV](ref/spell/elemental-body-4).
-
 **Gained:** At 16th Level
 
-**Usage:** Once a day.
+**Ability:** When entering a _bloodrage_ you can take an elemental form as
+[elemental body IV](ref/spell/elemental-body-4).
 
 **Usage:** Once a day.
 

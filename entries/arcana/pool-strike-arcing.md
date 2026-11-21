@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Arcing Pool Strike (Su):**
+**Arcing Pool Strike (Su)**
 
 **Ability:** The magus can expend 1 additional point from his arcane pool when using the
 [pool strike](ref/arcana/pool-strike) arcana. If his attack hits, the magus can target a number of

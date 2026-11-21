@@ -19,5 +19,3 @@ this time, all of her melee attacks gain the [flaming](ref/magic-enh/flaming) ma
 ability.
 
 **Usage:** 3 times/day
-
-**Usage:** 3 times/day

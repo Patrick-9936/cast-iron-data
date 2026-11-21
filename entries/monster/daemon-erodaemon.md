@@ -53,25 +53,29 @@ ends in a hissing viper's head._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/16/19
+**Armor class:** 25
 
-**Dr:** 10/good or silver
+**Touch:** 16
 
-**Fort:** +9
+**Flat-footed:** 19
+
+**AC modifiers:** +5 Dex, +1 dodge, +9 natural
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +5 Dex, +1 dodge, +9 natural
+**Fort:** +9
 
 **Ref:** +14
+
+**Will:** +12
+
+**Dr:** 10/good or silver
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 22
-
-**Will:** +12
 
 **Offense**
 

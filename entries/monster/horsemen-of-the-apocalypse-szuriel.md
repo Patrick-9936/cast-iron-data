@@ -53,31 +53,35 @@ spreads from her shoulders._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/35/37
+**Armor class:** 46
+
+**Touch:** 35
+
+**Flat-footed:** 37
+
+**AC modifiers:** +4 deflection, +9 Dex, +11 natural, +12 profane
+
+**Hit points:** 676 (33d10+495)
+
+**Fort:** +30
+
+**Ref:** +31
+
+**Will:** +32
 
 **Defensive abilities:** apocalyptic resurrection, fire shield (warm shield),
 _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +30
-
-**Hit points:** 676 (33d10+495)
-
 **Immune:** ability damage, ability drain, acid, charm effects, compulsion effects, death effects,
 disease, energy drain, petrification, poison
-
-**Mod:** +4 deflection, +9 Dex, +11 natural, +12 profane
-
-**Ref:** +31
 
 **Regen:** 20 (deific or mythic)
 
 **Resist:** cold 30, electricity 30, fire 30
 
 **Sr:** 39
-
-**Will:** +32
 
 **Offense**
 

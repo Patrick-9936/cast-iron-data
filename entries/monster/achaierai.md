@@ -51,19 +51,23 @@ vapor trail from its hooked beak._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/11/18
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 11
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +1 dodge, +9 natural, -1 size
 
 **Hit points:** 52 (7d10+14)
 
-**Mod:** +1 Dex, +1 dodge, +9 natural, -1 size
+**Fort:** +7
 
 **Ref:** +6
 
-**Sr:** 20
-
 **Will:** +4
+
+**Sr:** 20
 
 **Offense**
 

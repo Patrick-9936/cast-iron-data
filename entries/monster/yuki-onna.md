@@ -53,25 +53,29 @@ snow._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/21/16
+**Armor class:** 21
+
+**Touch:** 21
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 deflection, +4 Dex, +1 dodge
+
+**Hit points:** 94 (9d8+54)
 
 **Fort:** +9
 
-**Hit points:** 94 (9d8+54)
+**Ref:** +7
+
+**Will:** +11
 
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +6 deflection, +4 Dex, +1 dodge
-
-**Ref:** +7
-
 **Vulner:** fire
 
 **Weaknesses:** snow dependency
-
-**Will:** +11
 
 **Offense**
 

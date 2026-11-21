@@ -32,9 +32,9 @@ checks.
 
 **Swaying Word (Sp)**
 
+**Gained:** At 8th Level
+
 **Ability:** Once per day you may speak a word of divinely inspired wisdom that causes a single
 creature to switch its alliance to you. The target must be within line of sight and able to hear
 you. If he fails his Will save, he is affected by [dominate person](ref/spell/dominate-person),
 except the duration is only 1 minute.
-
-**Gained:** At 8th Level

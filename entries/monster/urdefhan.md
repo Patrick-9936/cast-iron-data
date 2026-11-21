@@ -58,27 +58,31 @@ and ivory bones inside its body._
 
 **Experience points:** 800
 
-**Armor class:** 16/11/15
+**Armor class:** 16
+
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 armor, +1 Dex, +2 natural
+
+**Hit points:** 25 (3d10+9)
+
+**Fort:** +6
+
+**Ref:** +4
+
+**Will:** +4
 
 **Defensive abilities:** negative energy affinity
 
 **Dr:** 5/good or silver
 
-**Fort:** +6
-
-**Hit points:** 25 (3d10+9)
-
 **Immune:** death effects (see below), disease, fear, level drain
-
-**Mod:** +3 armor, +1 Dex, +2 natural
-
-**Ref:** +4
 
 **Resist:** acid 10
 
 **Sr:** 14
-
-**Will:** +4
 
 **Offense**
 

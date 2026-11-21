@@ -68,17 +68,17 @@ you.
 
 **Expanded Awareness (Su)**
 
-**At 11th Level:** You can use _expanded awareness_ to gain
-[see in darkness](ref/umr/see-in-darkness) or [thoughtsense](ref/umr/thoughtsense) (20 feet).
-
-**At 15th Level:** You can use it to gain [lifesense](ref/umr/lifesense).
-
 **Move:** You can focus on your senses and gain one of the following sensory abilities:
 [blindsense](ref/umr/blindsense) (10 feet), [darkvision](ref/rule/darkvision) (30 feet),
 [low-light vision](ref/rule/low-light-vision), or [scent](ref/umr/scent). This new sense lasts for 1
 round per psychic level.
 
 **Usage:** Wisdom modifier times/day
+
+**At 11th level,** you can use _expanded awareness_ to gain
+[see in darkness](ref/umr/see-in-darkness) or [thoughtsense](ref/umr/thoughtsense) (20 feet).
+
+**At 15th level,** you can use it to gain [lifesense](ref/umr/lifesense).
 
 **Patient Insight (Ex)**
 

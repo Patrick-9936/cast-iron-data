@@ -53,7 +53,21 @@ fifteen-foot-tall chicken with gigantic talons caked in mud but sharp as razors.
 
 **Experience points:** 102,400
 
-**Armor class:** 34/20/22
+**Armor class:** 34
+
+**Touch:** 20
+
+**Flat-footed:** 22
+
+**AC modifiers:** +12 Dex, +14 natural, -2 size
+
+**Hit points:** 188 (27d10+40)
+
+**Fort:** +9
+
+**Ref:** +21
+
+**Will:** +17
 
 **Defensive abilities:** immortal structure
 
@@ -63,20 +77,10 @@ fifteen-foot-tall chicken with gigantic talons caked in mud but sharp as razors.
 
 **Fh:** 20
 
-**Fort:** +9
-
-**Hit points:** 188 (27d10+40)
-
 **Immune:** [construct traits](ref/umr/construct-traits), gaze attacks, visual effects and
 illusions, sight-based attacks
 
-**Mod:** +12 Dex, +14 natural, -2 size
-
-**Ref:** +21
-
 **Sr:** 28
-
-**Will:** +17
 
 **Offense**
 

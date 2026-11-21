@@ -53,21 +53,25 @@ in a silent scream._
 
 **Experience points:** 600
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Dr:** 5/magic or silver
+**Touch:** 12
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +3 natural
 
 **Hit points:** 16 (3d8+3)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +3 natural
+**Fort:** +2
 
 **Ref:** +3
 
 **Will:** +4
+
+**Dr:** 5/magic or silver
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

@@ -51,19 +51,23 @@ blade he effortlessly wields._
 **Subtype:** Dhampir\
 **Experience points:** 200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Defensive abilities:** negative energy affinity, resist level drain
+**Touch:** 13
 
-**Fort:** +2
+**Flat-footed:** 14
+
+**AC modifiers:** +4 armor, +3 Dex
 
 **Hit points:** 13 (1d10+3)
 
-**Mod:** +4 armor, +3 Dex
+**Fort:** +2
 
 **Ref:** +3
 
 **Will:** -1 (+2 vs. disease and mind-affecting effects)
+
+**Defensive abilities:** negative energy affinity, resist level drain
 
 **Offense**
 

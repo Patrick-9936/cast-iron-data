@@ -50,13 +50,17 @@ glistening teeth._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Fort:** +10
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +8 natural, -1 size
 
 **Hit points:** 52 (5d8+30)
 
-**Mod:** +3 Dex, +8 natural, -1 size
+**Fort:** +10
 
 **Ref:** +7
 

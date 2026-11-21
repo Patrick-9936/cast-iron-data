@@ -46,13 +46,17 @@ foliage._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/8/18
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 8
+
+**Flat-footed:** 18
+
+**AC modifiers:** +10 natural, -2 size
 
 **Hit points:** 59 (7d8+28)
 
-**Mod:** +10 natural, -2 size
+**Fort:** +9
 
 **Ref:** +5
 

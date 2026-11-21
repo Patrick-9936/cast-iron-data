@@ -30,15 +30,15 @@ points equal to your inquisitor level + your Wisdom modifier.
 
 **Scourge of the Enemy (Ex)**
 
+**Gained:** At 8th Level
+
 **Ability:** Select one religion that is a rival or opponent of your religion. You treat members of
 this religion as if they were your [favored enemy](ref/ability/favored-enemy) (as the ranger class
 ability), gaining a +2 bonus on the appropriate rolls.
 
-**At 13th Level:** These bonuses become +4.
+**At 13th level,** these bonuses become +4.
 
-**At 18th Level:** These bonuses increase to +6.
-
-**Gained:** At 8th Level
+**At 18th level,** these bonuses increase to +6.
 
 **Special:** These bonuses do not stack with other favored enemy bonuses (use the highest bonus that
 applies).

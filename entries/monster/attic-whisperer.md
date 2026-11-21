@@ -52,19 +52,23 @@ a head._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/16/14
+**Armor class:** 19
 
-**Fort:** +5
+**Touch:** 16
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +1 dodge, +3 natural, +1 size
 
 **Hit points:** 45 (6d8+18)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +1 dodge, +3 natural, +1 size
+**Fort:** +5
 
 **Ref:** +6
 
 **Will:** +8
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

@@ -55,19 +55,23 @@ that of an octopus._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/6/32
+**Armor class:** 32
 
-**Fort:** +20
+**Touch:** 6
+
+**Flat-footed:** 32
+
+**AC modifiers:** +26 natural, -4 size
 
 **Hit points:** 270 (20d10+160)
 
-**Immune:** electricity, poison
-
-**Mod:** +26 natural, -4 size
+**Fort:** +20
 
 **Ref:** +12
 
 **Will:** +11
+
+**Immune:** electricity, poison
 
 **Offense**
 

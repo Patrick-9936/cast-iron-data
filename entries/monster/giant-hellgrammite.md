@@ -55,19 +55,23 @@ sides._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/11/16
+**Armor class:** 18
 
-**Fort:** +8
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +7 natural, -1 size
 
 **Hit points:** 52 (7d8+21)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +7 natural, -1 size
+**Fort:** +8
 
 **Ref:** +4
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

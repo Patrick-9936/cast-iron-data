@@ -48,13 +48,17 @@ and retie themselves on their own._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/12/17
+**Armor class:** 20
 
-**Fort:** +7
+**Touch:** 12
+
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 75 (10d6+40)
 
-**Mod:** +2 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +7
 
 **Ref:** +9
 

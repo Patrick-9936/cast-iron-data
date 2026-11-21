@@ -51,21 +51,25 @@ protruding._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/14/13
+**Armor class:** 17
 
-**Defensive abilities:** venomous spines
+**Touch:** 14
 
-**Fort:** +7
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +3 natural
 
 **Hit points:** 37 (5d8+15)
 
-**Mod:** +4 Dex, +3 natural
+**Fort:** +7
 
 **Ref:** +8
 
-**Resist:** electricity 10
-
 **Will:** +2
+
+**Defensive abilities:** venomous spines
+
+**Resist:** electricity 10
 
 **Offense**
 

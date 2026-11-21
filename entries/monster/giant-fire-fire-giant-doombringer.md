@@ -52,25 +52,29 @@ abilities = ["31", "15", "23", "10", "16", "22"]
 
 **Experience points:** 153,600
 
-**Armor class:** 32/12/30
+**Armor class:** 32
 
-**Dr:** 2/-
+**Touch:** 12
 
-**Fort:** +20
+**Flat-footed:** 30
+
+**AC modifiers:** +9 armor, +1 deflection, +2 Dex, +8 natural, +3 shield, -1 size
 
 **Hit points:** 341 (31d8+202)
 
-**Immune:** fire
-
-**Mod:** +9 armor, +1 deflection, +2 Dex, +8 natural, +3 shield, -1 size
+**Fort:** +20
 
 **Ref:** +12
+
+**Will:** +20; +4 vs. disease, death effects, mind-affecting effects, poison, sleep, stunning
+
+**Dr:** 2/-
+
+**Immune:** fire
 
 **Rock Ct:** present
 
 **Vulner:** cold
-
-**Will:** +20; +4 vs. disease, death effects, mind-affecting effects, poison, sleep, stunning
 
 **Offense**
 

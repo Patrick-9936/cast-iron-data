@@ -14,7 +14,7 @@ group = "rogue-talent"
 
 **Quick Trapsmith (Ex)**
 
-**Fullround:** A rogue with this talent can set a simple trap with a CR no greater than 1/2 her
+**Full-round:** A rogue with this talent can set a simple trap with a CR no greater than 1/2 her
 rogue level. To do this, she must purchase the components, spend the required time constructing the
 trap in advance, and have its components at hand. The type of trap that can be constructed in this
 way is subject to GM discretion.

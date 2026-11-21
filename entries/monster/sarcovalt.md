@@ -52,27 +52,31 @@ vulture skull._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/15/16
+**Armor class:** 19
+
+**Touch:** 15
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +4 natural, +2 size
+
+**Hit points:** 34 (4d10+12)
+
+**Fort:** +6
+
+**Ref:** +7
+
+**Will:** +5
 
 **Dr:** 5/good or silver
 
 **Ferocity:** present
 
-**Fort:** +6
-
-**Hit points:** 34 (4d10+12)
-
 **Immune:** disease
-
-**Mod:** +3 Dex, +4 natural, +2 size
-
-**Ref:** +7
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 15
-
-**Will:** +5
 
 **Offense**
 

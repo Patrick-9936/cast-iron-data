@@ -52,13 +52,17 @@ and a greasy octopus below._
 
 **Experience points:** 200
 
-**Armor class:** 15/13/13
+**Armor class:** 15
 
-**Fort:** +1
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +2 natural, +1 size
 
 **Hit points:** 5 (1d8+1)
 
-**Mod:** +2 Dex, +2 natural, +1 size
+**Fort:** +1
 
 **Ref:** +2
 

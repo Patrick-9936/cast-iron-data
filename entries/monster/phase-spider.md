@@ -47,19 +47,23 @@ _This large spider-like monster has an eerie, humanoid face surrounded by a shag
 
 **Experience points:** 1,600
 
-**Armor class:** 17/12/14
+**Armor class:** 17
 
-**Defensive abilities:** ethereal jaunt
+**Touch:** 12
 
-**Fort:** +8
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +5 natural, -1 size
 
 **Hit points:** 51 (6d10+18)
 
-**Mod:** +3 Dex, +5 natural, -1 size
+**Fort:** +8
 
 **Ref:** +8
 
 **Will:** +3
+
+**Defensive abilities:** ethereal jaunt
 
 **Offense**
 

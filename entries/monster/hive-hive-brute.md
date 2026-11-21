@@ -56,21 +56,25 @@ from its snapping maw._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/11/19
+**Armor class:** 21
 
-**Defensive abilities:** corrosive blood (1d6 acid), heat adaptability
+**Touch:** 11
 
-**Fort:** +7
+**Flat-footed:** 19
+
+**AC modifiers:** +2 Dex, +10 natural, -1 size
 
 **Hit points:** 102 (12d8+48)
 
-**Immune:** acid
-
-**Mod:** +2 Dex, +10 natural, -1 size
+**Fort:** +7
 
 **Ref:** +8
 
 **Will:** +11
+
+**Defensive abilities:** corrosive blood (1d6 acid), heat adaptability
+
+**Immune:** acid
 
 **Offense**
 

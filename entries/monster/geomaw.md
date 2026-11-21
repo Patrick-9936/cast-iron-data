@@ -51,19 +51,23 @@ sparkling mass of red crystals._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/7/19
+**Armor class:** 19
 
-**Fort:** +10
+**Touch:** 7
+
+**Flat-footed:** 19
+
+**AC modifiers:** -2 Dex, +12 natural, -1 size
 
 **Hit points:** 95 (10d8+50)
 
-**Mod:** -2 Dex, +12 natural, -1 size
+**Fort:** +10
 
 **Ref:** +3
 
-**Weaknesses:** blind, blood gorger
-
 **Will:** +7
+
+**Weaknesses:** blind, blood gorger
 
 **Offense**
 

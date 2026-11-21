@@ -47,19 +47,19 @@ A shaman who chooses the Wind spirit can select from the following hexes.
 
 **Ability:** The shaman creates an invisible shell of air that grants her a +4 armor bonus to AC.
 
-**At 13th Level:** This barrier causes incoming arrows, rays, and other ranged attacks requiring an
-attack roll against her to suffer a 50% miss chance.
-
 **Usage:** 1 hour/day per shaman level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The armor bonus increases to +6.
+**At 7th level,** the armor bonus increases to +6.
 
-At 11th level: The armor bonus increases to +8.
+**At 11th level,** the armor bonus increases to +8.
 
-At 15th level: The armor bonus increases to +10.
+**At 13th level,** this barrier causes incoming arrows, rays, and other ranged attacks requiring an
+attack roll against her to suffer a 50% miss chance.
 
-At 19th level: The armor bonus increases to +12.
+**At 15th level,** the armor bonus increases to +10.
+
+**At 19th level,** the armor bonus increases to +12.
 
 **Sparking Aura (Su)**
 
@@ -80,7 +80,7 @@ affected by it again for 24 hours.
 **Ability:** Whenever the shaman confirms a critical hit against an opponent with a spell, the
 target is [staggered](ref/misc/staggered) for 1 round.
 
-**At 11th Level:** The duration increases to 1d4 rounds.
+**At 11th level,** the duration increases to 1d4 rounds.
 
 **Wind Sight (Su)**
 
@@ -103,9 +103,9 @@ This _ward_ lasts for a number of rounds equal to the shaman's level. When a war
 attacked with an arrow, ray, or other ranged attack that requires an attack roll, that attack
 suffers a 20% miss chance.
 
-**At 16th Level:** The miss chance increases to 50%.
+**At 8th level,** the _ward_ lasts for 1 minute for every level the shaman possesses.
 
-**At 8th Level:** The _ward_ lasts for 1 minute for every level the shaman possesses.
+**At 16th level,** the miss chance increases to 50%.
 
 **Special:** Once affected, the creature cannot be the target of this hex again for 24 hours.
 
@@ -124,12 +124,12 @@ ability.
 
 **Shocking Touch (Su)**
 
-**At 11th Level:** Any weapon she wields is treated as a [shock](ref/magic-enh/shock) weapon.
-
 **Standard:** The shaman can make a melee touch attack that deals an amount of electricity damage
 equal to 1d6 + [half](ref/misc/fractions-and-rounding) her shaman level.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 11th level,** any weapon she wields is treated as a [shock](ref/magic-enh/shock) weapon.
 
 ### Greater Spirit Ability
 

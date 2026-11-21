@@ -14,7 +14,7 @@ group = "alchemist-discovery"
 
 **Penetrating Charge**
 
-**Fullround:** The alchemist can place a _penetrating charge_ on a lock. Instead of dealing damage,
+**Full-round:** The alchemist can place a _penetrating charge_ on a lock. Instead of dealing damage,
 the _penetrating charge_ seeps into the mechanism and eats away at it, granting a +5 circumstance
 bonus on any subsequent Disable Device checks against the mechanism.
 

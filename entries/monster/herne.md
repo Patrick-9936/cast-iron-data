@@ -49,23 +49,27 @@ sports a pair of stag's antlers upon his brow._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/13/17
+**Armor class:** 20
+
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 armor, +3 Dex, +4 natural
+
+**Hit points:** 68 (8d10+24)
+
+**Fort:** +5
+
+**Ref:** +9
+
+**Will:** +9
 
 **Defensive abilities:** defy the gods
 
 **Dr:** 10/magic
 
-**Fort:** +5
-
-**Hit points:** 68 (8d10+24)
-
-**Mod:** +3 armor, +3 Dex, +4 natural
-
-**Ref:** +9
-
 **Resist:** cold 10, electricity 10
-
-**Will:** +9
 
 **Offense**
 

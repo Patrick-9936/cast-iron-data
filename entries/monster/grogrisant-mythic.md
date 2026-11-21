@@ -55,23 +55,27 @@ like the sun._
 
 **Experience points:** 76,800
 
-**Armor class:** 33/33/31
+**Armor class:** 33
 
-**Dr:** 10/epic and piercing
+**Touch:** 33
 
-**Fort:** +20
+**Flat-footed:** 31
+
+**AC modifiers:** +2 Dex, +23 natural, -2 size
 
 **Hit points:** 285 (18d10+186)
 
-**Immune:** disease, fire, light effects, poison
-
-**Mod:** +2 Dex, +23 natural, -2 size
+**Fort:** +20
 
 **Ref:** +13
 
-**Resist:** acid 10, electricity 10
-
 **Will:** +14
+
+**Dr:** 10/epic and piercing
+
+**Immune:** disease, fire, light effects, poison
+
+**Resist:** acid 10, electricity 10
 
 **Offense**
 

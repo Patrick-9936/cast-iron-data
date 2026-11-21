@@ -52,23 +52,27 @@ covered in patches of sleek black fur._
 
 **Experience points:** 9,600
 
-**Armor class:** 21/21/14
+**Armor class:** 21
 
-**Dr:** 10/cold iron
+**Touch:** 21
 
-**Fort:** +11
+**Flat-footed:** 14
+
+**AC modifiers:** +4 deflection, +6 Dex, +1 dodge
 
 **Hit points:** 110 (13d10+39)
 
-**Incorporeal:** present
-
-**Mod:** +4 deflection, +6 Dex, +1 dodge
+**Fort:** +11
 
 **Ref:** +14
 
-**Sr:** 21
-
 **Will:** +7
+
+**Dr:** 10/cold iron
+
+**Incorporeal:** present
+
+**Sr:** 21
 
 **Offense**
 

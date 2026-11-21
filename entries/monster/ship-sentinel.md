@@ -48,23 +48,27 @@ coating her frame encrusted in years' worth of sea salt._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/14/15
+**Armor class:** 20
 
-**Dr:** 5/slashing or piercing
+**Touch:** 14
 
-**Fort:** +2
+**Flat-footed:** 15
+
+**AC modifiers:** +5 Dex, +6 natural, -1 size
 
 **Hit points:** 68 (7d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +5 Dex, +6 natural, -1 size
+**Fort:** +2
 
 **Ref:** +7
 
-**Vulner:** fire
-
 **Will:** +8
+
+**Dr:** 5/slashing or piercing
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** fire
 
 **Offense**
 

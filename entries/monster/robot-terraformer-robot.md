@@ -50,27 +50,31 @@ _This large robot's arms end in an assortment of drills, torches, hammers, and v
 
 **Experience points:** 3,200
 
-**Armor class:** 22/12/19
+**Armor class:** 22
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 10
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +10 natural, -1 size
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +10 natural, -1 size
+**Fort:** +5
 
 **Ref:** +6
+
+**Will:** +3
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 10
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Resist:** acid 5, cold 5, fire 15
 
 **Vulner:** electricity
 
 **Weaknesses:** vulnerable to critical hits
-
-**Will:** +3
 
 **Offense**
 

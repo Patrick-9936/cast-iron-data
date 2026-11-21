@@ -53,23 +53,27 @@ body._
 
 **Experience points:** 600
 
-**Armor class:** 18/14/16
+**Armor class:** 18
 
-**Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 5
+**Touch:** 14
 
-**Fort:** +1
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +4 natural, +2 size
 
 **Hit points:** 16 (3d10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +4 natural, +2 size
+**Fort:** +1
 
 **Ref:** +5
 
-**Vulner:** critical hits and electricity
-
 **Will:** +4
+
+**Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 5
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** critical hits and electricity
 
 **Offense**
 

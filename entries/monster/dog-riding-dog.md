@@ -46,13 +46,17 @@ _This burly dog is fitted with a small saddle. A low, menacing growl rumbles up 
 
 **Experience points:** 400
 
-**Armor class:** 13/12/11
+**Armor class:** 13
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +2 Dex, +1 natural
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +2 Dex, +1 natural
+**Fort:** +5
 
 **Ref:** +5
 

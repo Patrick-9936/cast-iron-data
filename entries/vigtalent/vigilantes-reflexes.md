@@ -18,7 +18,7 @@ group = "vigilante-talent"
 already has the Combat Reflexes feat, he instead gains another feat he qualified for at the level
 when he chose Combat Reflexes.
 
-**At 16th Level:** It increases by 1 again.
-
-**At 8th Level:** The number of additional attacks of opportunity per round the vigilante can make
+**At 8th level,** the number of additional attacks of opportunity per round the vigilante can make
 increases by 1, regardless of the vigilante's Dexterity bonus.
+
+**At 16th level,** it increases by 1 again.

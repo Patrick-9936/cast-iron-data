@@ -53,19 +53,23 @@ abilities = ["10", "11", "12", "-", "13", "2"]
 
 **Experience points:** 400
 
-**Armor class:** 14/10/14
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 10
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 natural
 
 **Hit points:** 11 (2d8+2)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +4 natural
+**Fort:** +4
 
 **Ref:** +0
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

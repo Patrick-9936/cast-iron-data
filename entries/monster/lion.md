@@ -47,13 +47,17 @@ mane of hair._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/12
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +3 natural, -1 size
 
 **Hit points:** 32 (5d8+10)
 
-**Mod:** +3 Dex, +3 natural, -1 size
+**Fort:** +6
 
 **Ref:** +7
 

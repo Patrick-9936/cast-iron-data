@@ -53,21 +53,27 @@ coil and writhe beneath it._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/15/23
+**Armor class:** 36
+
+**Touch:** 15
+
+**Flat-footed:** 23
+
+**AC modifiers:** +13 Dex, +21 natural, -8 size
+
+**Hit points:** 377 (26d8+260)
+
+**Fort:** +20
+
+**Ref:** +23
+
+**Will:** +19
 
 **Defensive abilities:** all-around vision, negative energy affinity
 
 **Dr:** 15/epic and good
 
-**Fort:** +20
-
-**Hit points:** 377 (26d8+260)
-
 **Immune:** annihilation, banishment, electricity, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +13 Dex, +21 natural, -8 size
-
-**Ref:** +23
 
 **Regen:** 15 (positive energy or inspiration)
 
@@ -76,8 +82,6 @@ coil and writhe beneath it._
 **Sr:** 31
 
 **Weaknesses:** susceptible to creation, talisman of the sphere
-
-**Will:** +19
 
 **Offense**
 

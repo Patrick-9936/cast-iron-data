@@ -14,10 +14,10 @@ group = "slayer-talent"
 
 **Armored Swiftness (Ex)**
 
+**Flavor:** In time, the heaviest armor can become like a second skin.
+
 **Ability:** A slayer with this talent can move at full speed in heavy armor. In addition, the
 maximum Dexterity bonus of heavy armor the slayer wears increases by 1 for every 6 class levels he
 has.
-
-**Flavor:** In time, the heaviest armor can become like a second skin.
 
 **Prereq:** [Armored marauder](ref/slayertalent/armored-marauder)

@@ -29,50 +29,46 @@ destroy.
 
 **Intense Focus (Su)**
 
+**Flavor:** The implement channels and enhances the effects of damaging evocations.
+
 **Ability:** A spellcaster who bears the implement can add the implement as an additional focus
 component for any of his damaging evocation spells that have an instantaneous duration or focus
 powers with an instantaneous duration. If he does so, the spell or focus power deals 1 additional
 point of damage of the same type to each creature for every 2 points of mental focus invested in the
 implement, to a maximum of 1 + [half](ref/misc/fractions-and-rounding) of your occultist level.
 
-**Flavor:** The implement channels and enhances the effects of damaging evocations.
-
 ### Base Focus Power
 
 **Energy Ray (Sp)**
-
-**Provokes attack of opportunity:** Yes
 
 **Standard:** You can expend 1 point of mental focus to unleash a ray of pure energy as a ranged
 touch attack. This ray has a range of 30 feet. The ray deals an amount of energy damage equal to 1d6
 points. When you unleash an _energy ray,_ you must decide what type of damage it deals (acid, cold,
 electricity, or fire).
 
-At 3rd level: The damage increases to 2d6.
+**At 3rd level,** the damage increases to 2d6.
 
-At 5th level: The damage increases to 3d6.
+**At 5th level,** the damage increases to 3d6.
 
-At 7th level: The damage increases to 4d6.
+**At 7th level,** the damage increases to 4d6.
 
-At 9th level: The damage increases to 5d6.
+**At 9th level,** the damage increases to 5d6.
 
-At 11th level: The damage increases to 6d6.
+**At 11th level,** the damage increases to 6d6.
 
-At 13th level: The damage increases to 7d6.
+**At 13th level,** the damage increases to 7d6.
 
-At 15th level: The damage increases to 8d6.
+**At 15th level,** the damage increases to 8d6.
 
-At 17th level: The damage increases to 9d6.
+**At 17th level,** the damage increases to 9d6.
 
-At 19th level: The damage increases to 10d6.
+**At 19th level,** the damage increases to 10d6.
+
+**Provokes attack of opportunity:** Yes
 
 ### Focus Powers
 
 **Energy Blast (Sp)**
-
-**Prereq:** 5th-level occultist
-
-**Provokes attack of opportunity:** Yes
 
 **Standard:** You can expend 2 points of mental focus to unleash a blast of energy. This blast has a
 range of 100 feet, and deals 5d6 points of energy damage. The blast deals damage to each creature in
@@ -80,27 +76,25 @@ a 20-foot-radius [burst](ref/misc/burst), but each affected creature can attempt
 halve the damage. When you unleash an _energy blast,_ you must decide what type of damage it deals
 (acid, cold, electricity, or fire).
 
-At 7th level: The damage increases to 6d6.
+**At 7th level,** the damage increases to 6d6.
 
-At 9th level: The damage increases to 7d6.
+**At 9th level,** the damage increases to 7d6.
 
-At 11th level: The damage increases to 8d6.
+**At 11th level,** the damage increases to 8d6.
 
-At 13th level: The damage increases to 9d6.
+**At 13th level,** the damage increases to 9d6.
 
-At 15th level: The damage increases to 10d6.
+**At 15th level,** the damage increases to 10d6.
 
-At 17th level: The damage increases to 11d6.
+**At 17th level,** the damage increases to 11d6.
 
-At 19th level: The damage increases to 12d6.
+**At 19th level,** the damage increases to 12d6.
+
+**Prereq:** 5th-level occultist
+
+**Provokes attack of opportunity:** Yes
 
 **Energy Ward (Sp)**
-
-**At 13th Level:** The resistance becomes 15.
-
-**At 19th Level:** The resistance increases to 20.
-
-**Prereq:** 7th-level occultist
 
 **Standard:** You can expend 1 point of mental focus to surround yourself in a swirling ward of
 energy. When you activate this power, you must select acid, cold, electricity, or fire. You gain
@@ -108,6 +102,12 @@ energy. When you activate this power, you must select acid, cold, electricity, o
 a melee weapon or natural weapon, that creature takes 1d6 points of energy damage of the chosen
 type. Attacks made with melee weapons with reach don't cause the attacker to take this damage. The
 _energy ward_ lasts for 1 round per occultist level.
+
+**At 13th level,** the resistance becomes 15.
+
+**At 19th level,** the resistance increases to 20.
+
+**Prereq:** 7th-level occultist
 
 **Light Matrix (Sp)**
 
@@ -149,8 +149,6 @@ from the area.
 
 **Wall of Power (Sp)**
 
-**Prereq:** 9th-level occultist
-
 **Standard:** By expending 1 point of mental focus, you can create a wall of pure energy with a
 length of up to 5 feet per occultist level you possess. This wall is 10 feet high and 1 foot thick.
 It doesn't block passage, line of sight, or line of effect, but does deal damage to anyone passing
@@ -160,6 +158,8 @@ The wall deals 2d6 points of energy damage + 1 point of energy damage per occult
 possess. You must select acid, cold, electricity, or fire when you create the wall to determine the
 type of damage it deals. The wall must be straight, and can't pass through a creature's space when
 created. The wall lasts for 1 round per occultist level you possess.
+
+**Prereq:** 9th-level occultist
 
 ### Sacred Implement
 

@@ -51,28 +51,32 @@ powerful reptile._
 
 **Experience points:** 4,915,200
 
-**Armor class:** 46/22/33
+**Armor class:** 46
 
-**Dr:** 15/-
+**Touch:** 22
 
-**Fort:** +23
+**Flat-footed:** 33
+
+**AC modifiers:** +12 Dex, +1 dodge, +24 natural, -1 size
 
 **Hit points:** 610 (33d10+429)
 
-**Immune:** ability damage and drain, charm and compulsion effects, death effects, energy drain,
-fire, petrification
-
-**Mod:** +12 Dex, +1 dodge, +24 natural, -1 size
+**Fort:** +23
 
 **Ref:** +30
+
+**Will:** +24
+
+**Dr:** 15/-
+
+**Immune:** ability damage and drain, charm and compulsion effects, death effects, energy drain,
+fire, petrification
 
 **Regen:** 30 (deific or mythic cold)
 
 **Sr:** 39
 
 **Vulner:** cold
-
-**Will:** +24
 
 **Offense**
 

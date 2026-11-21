@@ -50,21 +50,25 @@ threateningly._
 
 **Experience points:** 12,800
 
-**Armor class:** 24/7/23
+**Armor class:** 24
 
-**Ferocity:** present
+**Touch:** 7
 
-**Fort:** +14
+**Flat-footed:** 23
+
+**AC modifiers:** +1 Dex, +17 natural, -4 size
 
 **Hit points:** 142 (15d8+75)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +17 natural, -4 size
+**Fort:** +14
 
 **Ref:** +6
 
 **Will:** +6
+
+**Ferocity:** present
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

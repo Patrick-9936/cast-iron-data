@@ -51,27 +51,31 @@ occasional dart of a forked tongue._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/10/17
+**Armor class:** 17
+
+**Touch:** 10
+
+**Flat-footed:** 17
+
+**AC modifiers:** +7 natural
+
+**Hit points:** 33 (6d10)
+
+**Fort:** +5
+
+**Ref:** +2
+
+**Will:** +8
 
 **Defensive abilities:** all-around vision
 
 **Dr:** 5/good
 
-**Fort:** +5
-
-**Hit points:** 33 (6d10)
-
 **Immune:** fire, poison
-
-**Mod:** +7 natural
-
-**Ref:** +2
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 15
-
-**Will:** +8
 
 **Offense**
 

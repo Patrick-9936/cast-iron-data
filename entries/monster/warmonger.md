@@ -50,21 +50,25 @@ and a huge crossbow._
 
 **Experience points:** 204,800
 
-**Armor class:** 34/14/28
+**Armor class:** 34
 
-**Dr:** 15/adamantine and bludgeoning
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 28
+
+**AC modifiers:** +6 Dex, +20 natural, -2 size
 
 **Hit points:** 344 (28d10+190)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +6 Dex, +20 natural, -2 size
+**Fort:** +9
 
 **Ref:** +15
 
 **Will:** +16
+
+**Dr:** 15/adamantine and bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

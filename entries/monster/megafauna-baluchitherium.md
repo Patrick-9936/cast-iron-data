@@ -46,13 +46,17 @@ neck._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/8/22
+**Armor class:** 22
 
-**Fort:** +15
+**Touch:** 8
+
+**Flat-footed:** 22
+
+**AC modifiers:** +14 natural, -2 size
 
 **Hit points:** 114 (12d8+60)
 
-**Mod:** +14 natural, -2 size
+**Fort:** +15
 
 **Ref:** +8
 

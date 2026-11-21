@@ -52,22 +52,28 @@ tail drips foul-smelling venom and its wide mouth has multiple hinged jaws._
 
 **Experience points:** 76,800
 
-**Armor class:** 30/14/24
+**Armor class:** 30
+
+**Touch:** 14
+
+**Flat-footed:** 24
+
+**AC modifiers:** +5 Dex, +1 dodge, +16 natural, -2 size
+
+**Hit points:** 237 (19d10+133)
+
+**Fort:** +18
+
+**Ref:** +16
+
+**Will:** +12
 
 **Defensive abilities:** barbed defense
 
 **Dr:** 15/bludgeoning or slashing
 
-**Fort:** +18
-
-**Hit points:** 237 (19d10+133)
-
 **Immune:** gaze attacks, mind-affecting effects, paralysis, poison, polymorph, sight-based effects,
 sleep effects, stunning, visual effects and illusions
-
-**Mod:** +5 Dex, +1 dodge, +16 natural, -2 size
-
-**Ref:** +16
 
 **Regen:** 5 (cold)
 
@@ -76,8 +82,6 @@ sleep effects, stunning, visual effects and illusions
 **Sr:** 27
 
 **Vulner:** cold
-
-**Will:** +12
 
 **Offense**
 

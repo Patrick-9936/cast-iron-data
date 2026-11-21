@@ -53,25 +53,29 @@ nearby tomes and pages._
 
 **Experience points:** 800
 
-**Armor class:** 16/14/13
+**Armor class:** 16
+
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +2 natural, +1 size
+
+**Hit points:** 30 (4d10+8)
+
+**Fort:** +3
+
+**Ref:** +7
+
+**Will:** +6
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 5/lawful
 
-**Fort:** +3
-
-**Hit points:** 30 (4d10+8)
-
 **Immune:** acid, polymorph
 
-**Mod:** +3 Dex, +2 natural, +1 size
-
-**Ref:** +7
-
 **Resist:** electricity 10, sonic 10
-
-**Will:** +6
 
 **Offense**
 

@@ -73,7 +73,7 @@ element, as noted below.
 |Fire|Fire|+30 feet base speed|
 |Water|Cold|Swim 60 feet|
 
-**Elemental Ray (Sp):**
+**Elemental Ray (Sp)**
 
 **Gained:** At 1st Level
 
@@ -89,9 +89,11 @@ attack. This ray deals an amount of damage of your energy type equal to 1d6 +
 
 **Passive:** You gain energy [resistance](ref/umr/resistance) 10 against your energy type.
 
-**At 9th Level:** Your energy resistance increases to 20.
+**At 9th level,** your energy resistance increases to 20.
 
 **Elemental Blast (Sp)**
+
+**Gained:** At 9th Level
 
 **Ability:** You can unleash a blast of elemental power once per day. This 20-foot-radius
 [burst](ref/misc/burst) does 1d6 points of damage of your energy type per sorcerer level. Those
@@ -99,24 +101,22 @@ caught in the area of your blast receive a Reflex save for half damage. Creature
 saves gain vulnerability to your energy type until the end of your next turn. The DC of this save is
 equal to 10 + half your sorcerer level + your Charisma modifier. This power has a range of 60 feet.
 
-**Gained:** At 9th Level
+**At 17th level,** you can use this ability twice per day.
 
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times per day.
+**At 20th level,** you can use this ability three times per day.
 
 **Elemental Movement (Su)**
+
+**Gained:** At 15th Level
 
 **Ability:** You gain a special movement type or bonus. This ability is based on your chosen
 element, as indicated on the above chart.
 
-**Gained:** At 15th Level
-
 **Elemental Body (Su)**
 
-**Flavor:** Elemental power surges through your body.
-
 **Gained:** At 20th Level
+
+**Flavor:** Elemental power surges through your body.
 
 **Passive:** You gain immunity to sneak attacks, critical hits, and damage from your energy type.
 
@@ -163,6 +163,8 @@ Your powers are revitalizing rather than destructive.
 
 **Lifewater Stream (Su)**
 
+**Gained:** At 9th Level
+
 **Ability:** Once per day, you can unleash a surge of restorative elemental water that aids your
 allies. This ability affects creatures in a 30-foot line extending from your palm, and you can
 select one of the following conditions to remove from the affected creatures: fatigued, shaken, or
@@ -170,11 +172,9 @@ sickened. Creatures affected by a more extreme version of the chosen condition (
 for fatigued, frightened for shaken, and nauseated for sickened) have their condition reduced to the
 less extreme version.
 
-**Gained:** At 9th Level
-
-**Replaces:** Elemental blast
-
-**At 17th Level:** You can use this ability twice per day, and you can choose from the following
+**At 17th level,** you can use this ability twice per day, and you can choose from the following
 additional conditions: blinded, deafened, dazed, and staggered.
 
-**At 20th Level:** You can use this ability three times per day.
+**At 20th level,** you can use this ability three times per day.
+
+**Replaces:** Elemental blast

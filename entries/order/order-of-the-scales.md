@@ -70,23 +70,23 @@ At 18th level: This bonus increases to +5.
 
 **Seek Retribution (Ex)**
 
-**Info:** Once per day after receiving a request for aid from a legal authority or an aggrieved
-party regarding the breaking of an oath, whenever the cavalier encounters the oath-breaking
-creature, he can choose to vehemently exact retribution.
-
 **Gained:** At 8th Level
 
 **Swift:** The cavalier can grant himself a competence bonus equal to his Charisma modifier on all
 attack rolls, weapon damage rolls, and opposed checks against the oathbreaking creature. These
 bonuses last for 1 round per level.
 
+**Info:** Once per day after receiving a request for aid from a legal authority or an aggrieved
+party regarding the breaking of an oath, whenever the cavalier encounters the oath-breaking
+creature, he can choose to vehemently exact retribution.
+
 **Sworn Oathkeeper (Ex)**
+
+**Gained:** At 15th Level
 
 **Ability:** The cavalier can formally witness an oath or agreement between two creatures. If either
 creature breaks or reneges on the agreement and the cavalier becomes aware of this, he gains the
 bonuses from his _seek retribution_ ability against that creature at all times.
-
-**Gained:** At 15th Level
 
 **Special:** This ability ends when the creature fulfills the conditions of the oath or receives
 just punishment for breaking the oath. The maximum number of witnessed oaths cavalier can have

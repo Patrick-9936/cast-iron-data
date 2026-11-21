@@ -47,13 +47,17 @@ _This reddish-brown canine has a square, athletic build. Its dripping saliva sme
 
 **Experience points:** 600
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +3 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +2 Dex, +3 natural
+**Fort:** +5
 
 **Ref:** +5
 

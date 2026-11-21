@@ -23,17 +23,17 @@ his foes, all while flying through the air with ease.
 
 **Air Supremacy (Su)**
 
-**At 10th Level:** You can cast [fly](ref/spell/fly) on yourself at will.
-
-**At 20th Level:** Whenever you make a Fly skill check, assume the roll resulted in a natural 20.
-
-**At 5th Level:** You can cast [levitate](ref/spell/levitate) on yourself at will.
-
 **Gained:** At 1st Level
 
 **Passive:** You gain an enhancement bonus on Fly skill checks. This bonus is equal to 2 + one-fifth
 of your wizard level. In addition, you can cast [feather fall](ref/spell/feather-fall) on yourself
 at will.
+
+**At 5th level,** you can cast [levitate](ref/spell/levitate) on yourself at will.
+
+**At 10th level,** you can cast [fly](ref/spell/fly) on yourself at will.
+
+**At 20th level,** whenever you make a Fly skill check, assume the roll resulted in a natural 20.
 
 **Lightning Flash (Su)**
 

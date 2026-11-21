@@ -52,13 +52,17 @@ _This lean ape-person is bedecked with a rattling collection of whistles, drums,
 **Subtype:** Charau-ka\
 **Experience points:** 4,800
 
-**Armor class:** 22/13/20
+**Armor class:** 22
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 armor, +2 Dex, +3 natural, +2 shield, +1 size
 
 **Hit points:** 55 (3d8+6d8+15\~9)
 
-**Mod:** +4 armor, +2 Dex, +3 natural, +2 shield, +1 size
+**Fort:** +4
 
 **Ref:** +10
 

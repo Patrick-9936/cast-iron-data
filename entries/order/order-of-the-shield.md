@@ -47,6 +47,8 @@ level.
 
 **Resolute (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** Whenever the cavalier takes damage from a melee or ranged attack while wearing heavy
 armor, the cavalier can convert 1 point of lethal damage to 1 point of nonlethal damage. He can use
 this ability once each time he takes damage.
@@ -55,17 +57,17 @@ This ability cannot be used to convert
 [ability damage, ability drain](ref/rule/ability-damage-drain), or energy damage to nonlethal
 damage.
 
-**Gained:** At 2nd Level
+**At 6th level,** he can convert 2 points of damage.
 
-At 6th level: He can convert 2 points of damage.
+**At 10th level,** he can convert 3 points of damage.
 
-At 10th level: He can convert 3 points of damage.
+**At 14th level,** he can convert 4 points of damage.
 
-At 14th level: He can convert 4 points of damage.
-
-At 18th level: He can convert 5 points of damage.
+**At 18th level,** he can convert 5 points of damage.
 
 **Stem the Tide (Ex)**
+
+**Gained:** At 8th Level
 
 **Ability:** The cavalier receives [Stand Still](ref/feat/stand-still) as a bonus feat, even if he
 does not meet the prerequisites. Instead of making a combat maneuver check to stop the creature from
@@ -73,9 +75,9 @@ moving, a cavalier with this ability can elect to make a normal attack instead. 
 and deals damage, the target must stop moving, just as if the cavalier had made a successful combat
 maneuver check.
 
-**Gained:** At 8th Level
-
 **Protect the Meek (Ex)**
+
+**Gained:** At 15th Level
 
 **Flavor:** The cavalier can move to intercept foes.
 
@@ -83,5 +85,3 @@ maneuver check.
 single melee attack. This movement provokes attacks of opportunity as normal. The cavalier must end
 his movement adjacent to an enemy. On his next turn, the cavalier is [staggered](ref/misc/staggered)
 and cannot use this ability again for 1 round.
-
-**Gained:** At 15th Level

@@ -55,21 +55,25 @@ _A siege engineer's nightmare, this giant machine emits noxious fumes from its g
 
 **Experience points:** 409,600
 
-**Armor class:** 39/1/39
+**Armor class:** 39
 
-**Dr:** 10/epic
+**Touch:** 1
 
-**Fort:** +9
+**Flat-footed:** 39
+
+**AC modifiers:** -1 Dex, +38 natural, -8 size
 
 **Hit points:** 309 (23d10+183)
 
-**Immune:** [construct traits](ref/umr/construct-traits), fire absorption
-
-**Mod:** -1 Dex, +38 natural, -8 size
+**Fort:** +9
 
 **Ref:** +6
 
 **Will:** +7
+
+**Dr:** 10/epic
+
+**Immune:** [construct traits](ref/umr/construct-traits), fire absorption
 
 **Offense**
 

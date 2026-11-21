@@ -46,13 +46,17 @@ obviously capable of great speed._
 
 **Experience points:** 600
 
-**Armor class:** 15/14/11
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 natural
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +4 Dex, +1 natural
+**Fort:** +5
 
 **Ref:** +7
 

@@ -57,21 +57,25 @@ hideous creature has no skin, and is built of gore and viscera._
 
 **Experience points:** 6,400
 
-**Armor class:** 22/16/15
+**Armor class:** 22
 
-**Dr:** 10/cold iron
+**Touch:** 16
 
-**Fort:** +9
+**Flat-footed:** 15
+
+**AC modifiers:** +5 Dex, +2 dodge, +6 natural, -1 size
 
 **Hit points:** 102 (12d6+60)
 
-**Immune:** poison, disease
-
-**Mod:** +5 Dex, +2 dodge, +6 natural, -1 size
+**Fort:** +9
 
 **Ref:** +15
 
 **Will:** +10
+
+**Dr:** 10/cold iron
+
+**Immune:** poison, disease
 
 **Offense**
 

@@ -51,23 +51,27 @@ considerable size._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/11/21
+**Armor class:** 24
 
-**Defensive abilities:** elusive
+**Touch:** 11
 
-**Fort:** +13
+**Flat-footed:** 21
+
+**AC modifiers:** +3 Dex, +13 natural, -2 size
 
 **Hit points:** 136 (13d10+65)
 
-**Immune:** cold
-
-**Mod:** +3 Dex, +13 natural, -2 size
+**Fort:** +13
 
 **Ref:** +13
 
-**Resist:** fire 20
-
 **Will:** +7
+
+**Defensive abilities:** elusive
+
+**Immune:** cold
+
+**Resist:** fire 20
 
 **Offense**
 

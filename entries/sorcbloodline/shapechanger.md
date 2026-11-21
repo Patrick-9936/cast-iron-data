@@ -59,23 +59,23 @@ Your bloodline grants you the following powers.
 
 **Hardened Fists (Su)**
 
+**Gained:** At 1st Level
+
 **Free:** You can make your fists grow large, callused, and gnarled. Your unarmed strikes deal
 damage as though you were [one size category larger](ref/misc/damage-die-adjustments), deal lethal
 damage, and do not provoke attacks of opportunity. If you have claws, they are affected instead, and
 they deal damage as though you were one size category larger.
 
-**Gained:** At 1st Level
-
 **Usage:** 3 + Charisma modifier rounds/day
 
 **Mutable Flesh (Su)**
 
+**Gained:** At 3rd Level
+
 **Ability:** Once per day when you cast a transmutation spell with a duration of 1 minute per level
 that affects only you, you can increase its duration to 10 minutes per level.
 
-**Gained:** At 3rd Level
-
-**At 9th Level:** You can increase the duration to 1 hour per level.
+**At 9th level,** you can increase the duration to 1 hour per level.
 
 **Vortex of Flesh (Su)**
 

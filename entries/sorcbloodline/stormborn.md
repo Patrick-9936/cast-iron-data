@@ -63,7 +63,7 @@ number of rounds equal to [half](ref/misc/fractions-and-rounding) your sorcerer 
 
 **Usage:** 3 + Charisma modifier times/day
 
-**At 9th Level:** You can confer the [shocking burst](ref/magic-enh/shocking-burst) property
+**At 9th level,** you can confer the [shocking burst](ref/magic-enh/shocking-burst) property
 instead, but the duration of the power is halved.
 
 **Stormchild (Ex)**
@@ -73,11 +73,13 @@ instead, but the duration of the power is halved.
 **Passive:** You gain [resist](ref/umr/resistance) electricity 5 and resist sonic 5, and treat
 [wind](ref/rule/winds) effects as being one step less severe.
 
-**At 9th Level:** You treat wind effects as being two steps less severe and gain
+**At 9th level,** you treat wind effects as being two steps less severe and gain
 [blindsense](ref/umr/blindsense) 60 feet against [concealment](ref/rule/concealment) from natural or
 magical fog, mist, or weather effects.
 
 **Thunderbolt (Sp)**
+
+**Gained:** At 9th Level
 
 **Ability:** Once per day, you can command a stroke of lightning to strike from above in a
 5-foot-radius cylinder 60 feet high. The thunderbolt inflicts 1d6 points of damage per sorcerer
@@ -85,21 +87,19 @@ level; half of this damage is electricity and half is sonic. A Reflex save (DC 1
 sorcerer level + your Charisma modifier) halves this damage. Creatures failing their saves are
 [deafened](ref/misc/deafened) for 1 round. This power has a range of 120 feet.
 
-**Gained:** At 9th Level
+**At 17th level,** you can use this ability twice per day.
 
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times a day.
+**At 20th level,** you can use this ability three times a day.
 
 **Ride the Lightning (Sp)**
 
-**Fullround:** Once per day, you can become a living lightning bolt and move in a straight line up
+**Gained:** At 15th Level
+
+**Full-round:** Once per day, you can become a living lightning bolt and move in a straight line up
 to 10 times your speed. You do not provoke attacks of opportunity while moving in this way.
 Creatures or objects in your path are affected as by your _thunderbolt_ power. Creatures do not
 block your movement but solid barriers do unless they are reduced to 0 hit points. This ability
 lasts for a number of rounds equal to your sorcerer level.
-
-**Gained:** At 15th Level
 
 **Storm Lord (Ex)**
 
@@ -131,13 +131,13 @@ The greatest storms bring ruin through wind, not electricity.
 
 **Windcaller (Sp)**
 
+**Gained:** At 9th Level
+
 **Ability:** You can call the winds to obey your commands. This functions like
 [control winds](ref/spell/control-winds), except that you may choose to be immune to any increased
 wind effects you create.
 
-**Gained:** At 9th Level
-
-**Replaces:** Thunderbolt
-
 **Usage:** 1 minute/day per sorcerer level; these minutes need not be consecutive, but must be spent
 in 1-minute increments
+
+**Replaces:** Thunderbolt

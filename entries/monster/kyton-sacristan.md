@@ -50,25 +50,29 @@ and mouth._
 
 **Experience points:** 9,600
 
-**Armor class:** 22/13/19
+**Armor class:** 22
 
-**Dr:** 10/silver or good
+**Touch:** 13
 
-**Fort:** +13
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +9 natural
 
 **Hit points:** 126 (12d10+60)
 
-**Immune:** cold
-
-**Mod:** +3 Dex, +9 natural
+**Fort:** +13
 
 **Ref:** +7
+
+**Will:** +10
+
+**Dr:** 10/silver or good
+
+**Immune:** cold
 
 **Regen:** 5 (good spells and weapons, silver)
 
 **Sr:** 21
-
-**Will:** +10
 
 **Offense**
 

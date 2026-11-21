@@ -56,23 +56,27 @@ projecting from its sinuous body._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/17/24
+**Armor class:** 32
 
-**Fort:** +19
+**Touch:** 17
+
+**Flat-footed:** 24
+
+**AC modifiers:** +7 Dex, +1 dodge, +15 natural, -1 size
 
 **Hit points:** 264 (23d10+138)
 
-**Immune:** acid, death effects, disease, fear, poison
-
-**Mod:** +7 Dex, +1 dodge, +15 natural, -1 size
+**Fort:** +19
 
 **Ref:** +14
+
+**Will:** +19
+
+**Immune:** acid, death effects, disease, fear, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 28
-
-**Will:** +19
 
 **Offense**
 

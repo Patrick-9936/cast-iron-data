@@ -52,25 +52,29 @@ strands of ice._
 
 **Experience points:** 38,400
 
-**Armor class:** 27/12/24
+**Armor class:** 27
 
-**Fort:** +17
+**Touch:** 12
+
+**Flat-footed:** 24
+
+**AC modifiers:** +4 armor, +2 Dex, +1 dodge, +11 natural, -1 size
 
 **Hit points:** 200 (16d10+112)
 
-**Immune:** cold
-
-**Mod:** +4 armor, +2 Dex, +1 dodge, +11 natural, -1 size
+**Fort:** +17
 
 **Ref:** +7
+
+**Will:** +12
+
+**Immune:** cold
 
 **Regen:** 5 (fire or acid)
 
 **Sr:** 25
 
 **Vulner:** fire
-
-**Will:** +12
 
 **Offense**
 

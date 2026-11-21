@@ -51,13 +51,17 @@ sharp, toothy beak._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +3 natural
 
 **Hit points:** 30 (4d8+12)
 
-**Mod:** +2 Dex, +3 natural
+**Fort:** +4
 
 **Ref:** +3
 

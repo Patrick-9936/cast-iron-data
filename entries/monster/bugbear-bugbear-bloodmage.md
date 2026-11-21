@@ -54,19 +54,23 @@ the thrill of the coming kill._
 
 **Experience points:** 12,800
 
-**Armor class:** 18/13/15
+**Armor class:** 18
 
-**Fort:** +8
+**Touch:** 13
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +1 dodge, +5 natural
 
 **Hit points:** 97 (3d8+10d6+49\~13)
 
-**Mod:** +2 Dex, +1 dodge, +5 natural
+**Fort:** +8
 
 **Ref:** +11
 
-**Resist:** fire 20
-
 **Will:** +9
+
+**Resist:** fire 20
 
 **Offense**
 

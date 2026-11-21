@@ -59,28 +59,32 @@ vine._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 44/32/33
+**Armor class:** 44
+
+**Touch:** 32
+
+**Flat-footed:** 33
+
+**AC modifiers:** +10 Dex, +1 dodge, +11 insight, +12 natural
+
+**Hit points:** 595 (34d8+442)
+
+**Fort:** +32
+
+**Ref:** +23
+
+**Will:** +22
 
 **Defensive abilities:** wilderness insight
 
 **Dr:** 15/epic and slashing
 
-**Fort:** +32
-
-**Hit points:** 595 (34d8+442)
-
 **Immune:** ability damage, ability drain, daze, electricity, petrification,
 [plant traits](ref/umr/plant-traits), stagger
-
-**Mod:** +10 Dex, +1 dodge, +11 insight, +12 natural
-
-**Ref:** +23
 
 **Regen:** 20 (deific or mythic)
 
 **Sr:** 37
-
-**Will:** +22
 
 **Offense**
 

@@ -49,7 +49,7 @@ An oracle with the Streets mystery can choose from any of the following revelati
 
 **The City Provides (Ex)**
 
-**Fullround:** Once per day, when in an urban environment, you can scrounge up any nonmagical item
+**Full-round:** Once per day, when in an urban environment, you can scrounge up any nonmagical item
 of your choosing with a value of up to 10 gp per oracle level. You cannot obtain coins or trade
 goods, and the item is too tattered to resell (though fully functional).
 
@@ -57,14 +57,14 @@ goods, and the item is too tattered to resell (though fully functional).
 
 **Eyes of the Streets (Su)**
 
-**Fullround:** Once per day, you can summon a spirit rat, pigeon, or similar tiny creature to serve
+**Full-round:** Once per day, you can summon a spirit rat, pigeon, or similar tiny creature to serve
 as your eyes on, above, and beneath the streets - this spirit serves as an
 [arcane eye](ref/spell/arcane-eye).
 
-**At 10th Level:** You can summon multiple such spirits; this ability functions as
+**At 10th level,** you can summon multiple such spirits; this ability functions as
 [prying eyes](ref/spell/prying-eyes).
 
-**At 15th Level:** This ability functions as [greater prying eyes](ref/spell/prying-eyes-greater).
+**At 15th level,** this ability functions as [greater prying eyes](ref/spell/prying-eyes-greater).
 
 **Face in the Crowd (Ex)**
 
@@ -76,9 +76,9 @@ check in a crowd even while being observed.
 **Ability:** Once per day when you fail a Reflex saving throw, you can reroll the saving throw with
 a +4 insight bonus. You must take the second result, even if it is worse.
 
-**At 15th Level:** You can do this three times per day.
+**At 7th level,** you can use this ability twice per day.
 
-**At 7th Level:** You can use this ability twice per day.
+**At 15th level,** you can do this three times per day.
 
 **Knife in the Dark (Ex)**
 
@@ -101,22 +101,22 @@ other impairment.
 **Ability:** Once per day when you cast a divination spell affecting creatures or areas in urban
 environments, you can double the spell's range.
 
-**At 15th Level:** You can do this three times per day.
+**At 7th level,** you can use this ability twice per day.
 
-**At 7th Level:** You can use this ability twice per day.
+**At 15th level,** you can do this three times per day.
 
 **Shroud of the City (Sp)**
+
+**Flavor:** You can melt into the streets and alleys.
 
 **Ability:** You can cast [veil](ref/spell/veil) once per day, but can affect only yourself and one
 willing ally per oracle level within 30 feet. You can make the targets appear only as typical
 members of a settlement with which you are familiar, and can't match the appearance of specific
 creatures.
 
-**Flavor:** You can melt into the streets and alleys.
+**At 7th level,** you can use this ability twice per day.
 
-**At 15th Level:** You can do this three times per day.
-
-**At 7th Level:** You can use this ability twice per day.
+**At 15th level,** you can do this three times per day.
 
 **The Streets Are Your Friend (Ex)**
 
@@ -124,9 +124,9 @@ creatures.
 within 30 feet succeed at a task. The ally gets a +2 competence bonus on skill checks with a
 particular skill as long as you concentrate.
 
-At 9th level: This bonus increases to +3.
+**At 9th level,** this bonus increases to +3.
 
-At 15th level: This bonus increases to +4.
+**At 15th level,** this bonus increases to +4.
 
 ### Final Revelation
 

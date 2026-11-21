@@ -14,6 +14,8 @@ group = "witch-hex"
 
 **Cursed Wound**
 
+**Flavor:** The witch can curse a living creature, preventing it from healing completely.
+
 **Ability:** For a number of days equal to 3 + the witch's Intelligence modifier (minimum 1),
 whenever the victim is the target of a conjuration (healing) spell or magical healing effect, the
 caster of the healing effect must succeed at a caster level check (DC = 11 + the witch's level) to
@@ -26,9 +28,7 @@ victim's effective maximum number of hit points is 10 fewer than normal.
 
 A successful Will save reduces the duration of this hex to 1 round.
 
-**Flavor:** The witch can curse a living creature, preventing it from healing completely.
-
-**At 5th Level:** The victim of this hex also takes a -2 penalty on Fortitude saving throws to avoid
+**At 5th level,** the victim of this hex also takes a -2 penalty on Fortitude saving throws to avoid
 contracting a disease or poison from an injury.
 
 **Special:** This is a curse effect and can be removed by [remove curse](ref/spell/remove-curse).

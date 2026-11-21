@@ -46,21 +46,25 @@ _The color and texture of this massive, metallic ooze shift whenever it touches 
 
 **Experience points:** 3,200
 
-**Armor class:** 4/4/4
+**Armor class:** 4
 
-**Defensive abilities:** adaptive resistances
+**Touch:** 4
 
-**Fort:** +7
+**Flat-footed:** 4
+
+**AC modifiers:** -5 Dex, -1 size
 
 **Hit points:** 85 (10d8+40)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, -1 size
+**Fort:** +7
 
 **Ref:** -2
 
 **Will:** -2
+
+**Defensive abilities:** adaptive resistances
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

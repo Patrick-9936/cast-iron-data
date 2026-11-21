@@ -54,21 +54,25 @@ _This enormous, ebon-skinned giant is covered in glowing red runes and exotic pl
 
 **Experience points:** 409,600
 
-**Armor class:** 38/10/36
+**Armor class:** 38
 
-**Defensive abilities:** bravery +1
+**Touch:** 10
 
-**Fort:** +21
+**Flat-footed:** 36
+
+**AC modifiers:** +11 armor, +2 deflection, +2 Dex, +17 natural, -4 size
 
 **Hit points:** 380 (20d8+4d10+268\~24)
 
-**Immune:** cold, electricity, fire
-
-**Mod:** +11 armor, +2 deflection, +2 Dex, +17 natural, -4 size
+**Fort:** +21
 
 **Ref:** +9
 
 **Will:** +20; +1 vs. fear
+
+**Defensive abilities:** bravery +1
+
+**Immune:** cold, electricity, fire
 
 **Offense**
 

@@ -53,7 +53,21 @@ _Little more than a walking corpse, this frightful horse's hide stretches tight 
 
 **Experience points:** 1,638,400
 
-**Armor class:** 43/23/33
+**Armor class:** 43
+
+**Touch:** 23
+
+**Flat-footed:** 33
+
+**AC modifiers:** +4 deflection, +9 Dex, +1 dodge, +20 natural, -1 size
+
+**Hit points:** 555 (30d10+390)
+
+**Fort:** +27
+
+**Ref:** +30
+
+**Will:** +28
 
 **Defensive abilities:** unyielding to oblivion
 
@@ -61,22 +75,12 @@ _Little more than a walking corpse, this frightful horse's hide stretches tight 
 
 **Fh:** 20
 
-**Fort:** +27
-
-**Hit points:** 555 (30d10+390)
-
 **Immune:** ability damage, ability drain, acid, death effects, disease, energy drain, negative
 levels, poison
-
-**Mod:** +4 deflection, +9 Dex, +1 dodge, +20 natural, -1 size
-
-**Ref:** +30
 
 **Resist:** cold 30, electricity 30, fire 30
 
 **Sr:** 36
-
-**Will:** +28
 
 **Offense**
 

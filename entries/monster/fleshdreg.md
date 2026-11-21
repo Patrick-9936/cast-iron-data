@@ -50,21 +50,25 @@ jagged teeth and a slavering tongue._
 
 **Experience points:** 400
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Fort:** +2
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +2 natural, +1 size
 
 **Hit points:** 13 (2d8+4)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +1 Dex, +2 natural, +1 size
+**Fort:** +2
 
 **Ref:** +3
 
-**Sr:** 12
-
 **Will:** +3
+
+**Immune:** mind-affecting effects
+
+**Sr:** 12
 
 **Offense**
 

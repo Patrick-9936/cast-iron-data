@@ -52,25 +52,29 @@ beautiful visage with an expression of horror bulges from the back of its skull.
 
 **Experience points:** 12,800
 
-**Armor class:** 25/18/17
+**Armor class:** 25
 
-**Dr:** 10/cold iron or good
+**Touch:** 18
 
-**Fort:** +11
+**Flat-footed:** 17
+
+**AC modifiers:** +7 Dex, +1 dodge, +7 natural
 
 **Hit points:** 148 (11d10+88)
 
-**Immune:** electricity, poison
-
-**Mod:** +7 Dex, +1 dodge, +7 natural
+**Fort:** +11
 
 **Ref:** +14
+
+**Will:** +14
+
+**Dr:** 10/cold iron or good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 22
-
-**Will:** +14
 
 **Offense**
 

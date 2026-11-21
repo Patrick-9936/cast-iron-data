@@ -49,19 +49,23 @@ forelimbs, and it lacks rear legs._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/9/16
+**Armor class:** 16
 
-**Fort:** +6
+**Touch:** 9
+
+**Flat-footed:** 16
+
+**AC modifiers:** +7 natural, -1 size
 
 **Hit points:** 42 (5d12+10)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +7 natural, -1 size
+**Fort:** +6
 
 **Ref:** +4
 
 **Will:** +5
+
+**Immune:** paralysis, sleep
 
 **Offense**
 

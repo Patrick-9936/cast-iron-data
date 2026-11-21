@@ -53,23 +53,27 @@ _This amalgam of mechanical toys clacks and whirs._
 
 **Experience points:** 1,600
 
-**Armor class:** 21/11/19
+**Armor class:** 21
 
-**Dr:** 5/adamantine
+**Touch:** 11
 
-**Fort:** +2
+**Flat-footed:** 19
+
+**AC modifiers:** -1 Dex, +2 dodge, +10 natural
 
 **Hit points:** 53 (6d10+20); clockwork repair
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** -1 Dex, +2 dodge, +10 natural
+**Fort:** +2
 
 **Ref:** +3
 
-**Vulner:** electricity
-
 **Will:** +2
+
+**Dr:** 5/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
+
+**Vulner:** electricity
 
 **Offense**
 

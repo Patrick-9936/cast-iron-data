@@ -51,19 +51,23 @@ _This slender giant dresses in simple clothes and has swirling patterns on her g
 
 **Experience points:** 2,400
 
-**Armor class:** 19/9/19
+**Armor class:** 19
 
-**Fort:** +10
+**Touch:** 9
+
+**Flat-footed:** 19
+
+**AC modifiers:** +3 armor, +7 natural, -1 size
 
 **Hit points:** 68 (8d8+32)
 
-**Mod:** +3 armor, +7 natural, -1 size
+**Fort:** +10
 
 **Ref:** +2
 
-**Rock Ct:** present
-
 **Will:** +2
+
+**Rock Ct:** present
 
 **Offense**
 

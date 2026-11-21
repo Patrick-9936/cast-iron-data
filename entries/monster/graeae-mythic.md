@@ -55,23 +55,27 @@ eyeball she clutches in her claws._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/13/16
+**Armor class:** 19
 
-**Dr:** 5/epic
+**Touch:** 13
 
-**Fort:** +3
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +6 natural
 
 **Hit points:** 65 (6d10+32)
 
-**Mod:** +3 Dex, +6 natural
+**Fort:** +3
 
 **Ref:** +8
+
+**Will:** +8
+
+**Dr:** 5/epic
 
 **Sr:** 16
 
 **Weaknesses:** eye of the graeae
-
-**Will:** +8
 
 **Offense**
 

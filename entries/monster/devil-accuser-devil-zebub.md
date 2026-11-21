@@ -51,23 +51,27 @@ gore-fattened fly._
 
 **Experience points:** 800
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Dr:** 5/good or silver
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +2 natural, +1 size
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** fire, poison
-
-**Mod:** +4 Dex, +2 natural, +1 size
+**Fort:** +6
 
 **Ref:** +10
 
-**Resist:** acid 10, cold 10
-
 **Will:** +3
+
+**Dr:** 5/good or silver
+
+**Immune:** fire, poison
+
+**Resist:** acid 10, cold 10
 
 **Offense**
 

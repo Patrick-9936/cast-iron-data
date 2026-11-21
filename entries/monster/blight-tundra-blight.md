@@ -52,25 +52,29 @@ icy stingers._
 
 **Experience points:** 76,800
 
-**Armor class:** 32/21/21
+**Armor class:** 32
+
+**Touch:** 21
+
+**Flat-footed:** 21
+
+**AC modifiers:** +10 Dex, +1 dodge, +11 natural
+
+**Hit points:** 243 (18d8+162)
+
+**Fort:** +15
+
+**Ref:** +18
+
+**Will:** +14
 
 **Defensive abilities:** rejuvenation
 
 **Fh:** 15
 
-**Fort:** +15
-
-**Hit points:** 243 (18d8+162)
-
 **Immune:** acid, cold, [ooze traits](ref/umr/ooze-traits)
 
-**Mod:** +10 Dex, +1 dodge, +11 natural
-
-**Ref:** +18
-
 **Vulner:** fire
-
-**Will:** +14
 
 **Offense**
 

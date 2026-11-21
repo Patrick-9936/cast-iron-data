@@ -53,25 +53,29 @@ stingers the length of a human arm._
 
 **Experience points:** 51,200
 
-**Armor class:** 31/14/26
+**Armor class:** 31
 
-**Dr:** 15/lawful
+**Touch:** 14
 
-**Fort:** +17
+**Flat-footed:** 26
+
+**AC modifiers:** +5 Dex, +17 natural, -1 size
 
 **Hit points:** 202 (15d10+120)
 
-**Immune:** disease, poison
-
-**Mod:** +5 Dex, +17 natural, -1 size
+**Fort:** +17
 
 **Ref:** +16
+
+**Will:** +9
+
+**Dr:** 15/lawful
+
+**Immune:** disease, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 26
-
-**Will:** +9
 
 **Offense**
 

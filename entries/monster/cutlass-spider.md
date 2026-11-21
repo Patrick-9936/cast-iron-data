@@ -52,23 +52,27 @@ ending in curved blades._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/12/16
+**Armor class:** 19
+
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +3 Dex, +7 natural, -1 size
+
+**Hit points:** 74 (8d10+30)
+
+**Fort:** +2
+
+**Ref:** +5
+
+**Will:** +2
 
 **Defensive abilities:** all-around vision
 
 **Dr:** 5/adamantine
 
-**Fort:** +2
-
-**Hit points:** 74 (8d10+30)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +7 natural, -1 size
-
-**Ref:** +5
-
-**Will:** +2
 
 **Offense**
 

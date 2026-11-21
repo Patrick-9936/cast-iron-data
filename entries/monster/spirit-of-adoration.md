@@ -55,27 +55,31 @@ the air around her with swirls and flourishes of magical energy._
 
 **Experience points:** 51,200
 
-**Armor class:** 32/20/27
+**Armor class:** 32
+
+**Touch:** 20
+
+**Flat-footed:** 27
+
+**AC modifiers:** +6 armor, +6 deflection, +4 Dex, +1 dodge, +6 natural, -1 size
+
+**Hit points:** 189 (18d10+90)
+
+**Fort:** +17
+
+**Ref:** +21
+
+**Will:** +25
 
 **Dr:** 10/evil
 
 **Fh:** 5
 
-**Fort:** +17
-
-**Hit points:** 189 (18d10+90)
-
 **Immune:** fire, sonic
-
-**Mod:** +6 armor, +6 deflection, +4 Dex, +1 dodge, +6 natural, -1 size
-
-**Ref:** +21
 
 **Resist:** acid 30, electricity 30
 
 **Sr:** 26
-
-**Will:** +25
 
 **Offense**
 

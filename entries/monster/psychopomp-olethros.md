@@ -52,28 +52,32 @@ mirrors._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/30/22
+**Armor class:** 32
+
+**Touch:** 30
+
+**Flat-footed:** 22
+
+**AC modifiers:** +10 Dex, +10 insight, +2 natural
+
+**Hit points:** 275 (19d10+171)
+
+**Fort:** +20
+
+**Ref:** +16
+
+**Will:** +19; +8 vs. mind-affecting effects
 
 **Defensive abilities:** all-around vision, cyclic energy, fated,
 _[mind blank](ref/spell/mind-blank)_, mirror garb
 
 **Dr:** 5/adamantine
 
-**Fort:** +20
-
-**Hit points:** 275 (19d10+171)
-
 **Immune:** ability damage, ability drain, death effects, disease, energy drain, poison
-
-**Mod:** +10 Dex, +10 insight, +2 natural
-
-**Ref:** +16
 
 **Resist:** cold 10, electricity 10
 
 **Sr:** 28
-
-**Will:** +19; +8 vs. mind-affecting effects
 
 **Offense**
 

@@ -49,19 +49,23 @@ sacrificial dagger above its head, its bejeweled eyes seeming to glint with murd
 
 **Experience points:** 3,200
 
-**Armor class:** 20/8/20
+**Armor class:** 20
 
-**Fort:** +3
+**Touch:** 8
+
+**Flat-footed:** 20
+
+**AC modifiers:** -1 Dex, +12 natural, -1 size
 
 **Hit points:** 79 (9d10+30)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** -1 Dex, +12 natural, -1 size
+**Fort:** +3
 
 **Ref:** +2
 
 **Will:** +3
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

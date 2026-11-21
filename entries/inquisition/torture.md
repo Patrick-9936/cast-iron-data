@@ -40,8 +40,8 @@ immune to this touch.
 
 **Critical Precision (Ex)**
 
+**Gained:** At 8th Level
+
 **Ability:** When you roll a critical threat, you may expend one use of your _torturer's touch_
 ability to add +4 on your critical confirmation roll. This does not stack with
 [Critical Focus](ref/feat/critical-focus).
-
-**Gained:** At 8th Level

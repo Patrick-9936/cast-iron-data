@@ -54,23 +54,27 @@ amplify the light around her._
 
 **Experience points:** 76,800
 
-**Armor class:** 31/11/28
+**Armor class:** 31
 
-**Fort:** +19
+**Touch:** 11
+
+**Flat-footed:** 28
+
+**AC modifiers:** +5 armor, +3 Dex, +15 natural, -2 size
 
 **Hit points:** 241 (23d8+138)
 
-**Immune:** blind, dazzled, fire
-
-**Mod:** +5 armor, +3 Dex, +15 natural, -2 size
+**Fort:** +19
 
 **Ref:** +12
+
+**Will:** +14
+
+**Immune:** blind, dazzled, fire
 
 **Resist:** cold 30, electricity 30
 
 **Rock Ct:** present
-
-**Will:** +14
 
 **Offense**
 

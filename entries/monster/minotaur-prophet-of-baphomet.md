@@ -50,19 +50,23 @@ cloud of heady incense about her form doesn't conceal the distinct scent of brim
 
 **Experience points:** 25,600
 
-**Armor class:** 24/10/24
+**Armor class:** 24
 
-**Defensive abilities:** natural cunning
+**Touch:** 10
 
-**Fort:** +14
+**Flat-footed:** 24
+
+**AC modifiers:** +8 armor, +1 deflection, +6 natural, -1 size
 
 **Hit points:** 127 (11d8+6d10+45\~17)
 
-**Mod:** +8 armor, +1 deflection, +6 natural, -1 size
+**Fort:** +14
 
 **Ref:** +12
 
 **Will:** +18
+
+**Defensive abilities:** natural cunning
 
 **Offense**
 

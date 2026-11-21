@@ -49,27 +49,31 @@ maggots and oozing pus._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/8/33
+**Armor class:** 33
+
+**Touch:** 8
+
+**Flat-footed:** 33
+
+**AC modifiers:** +25 natural, -2 size
+
+**Hit points:** 270 (20d12+140)
+
+**Fort:** +21
+
+**Ref:** +12
+
+**Will:** +15
 
 **Defensive abilities:** negative energy affinity
 
 **Dr:** 15/good and magic
 
-**Fort:** +21
-
-**Hit points:** 270 (20d12+140)
-
 **Immune:** paralysis, sleep, visual effects
-
-**Mod:** +25 natural, -2 size
-
-**Ref:** +12
 
 **Resist:** acid 30, cold 30, electricity 30, fire 30
 
 **Sr:** 29
-
-**Will:** +15
 
 **Offense**
 

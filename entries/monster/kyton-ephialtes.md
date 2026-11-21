@@ -54,29 +54,33 @@ iron bands, matching the fiend's tail as they writhe like snakes in search of pr
 
 **Experience points:** 76,800
 
-**Armor class:** 30/10/28
+**Armor class:** 30
+
+**Touch:** 10
+
+**Flat-footed:** 28
+
+**AC modifiers:** +8 armor, +2 Dex, +12 natural, -2 size
+
+**Hit points:** 243 (18d10+144)
+
+**Fort:** +14
+
+**Ref:** +13
+
+**Will:** +14
 
 **Defensive abilities:** chain armor
 
 **Dr:** 10/silver or good
 
-**Fort:** +14
-
-**Hit points:** 243 (18d10+144)
-
 **Immune:** cold, fear, poison
-
-**Mod:** +8 armor, +2 Dex, +12 natural, -2 size
-
-**Ref:** +13
 
 **Regen:** 5 (good weapons and spells, silver weapons)
 
 **Resist:** acid 10, fire 10
 
 **Sr:** 27
-
-**Will:** +14
 
 **Offense**
 

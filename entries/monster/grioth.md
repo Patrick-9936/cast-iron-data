@@ -53,21 +53,25 @@ _This silent bat-like humanoid has a long, rat-like tail and four narrow eyes._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/10
+**Armor class:** 14
 
-**Fort:** +1
+**Touch:** 14
+
+**Flat-footed:** 10
+
+**AC modifiers:** +4 Dex
 
 **Hit points:** 13 (2d10+2)
 
-**Immune:** cold
-
-**Mod:** +4 Dex
+**Fort:** +1
 
 **Ref:** +7
 
-**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
 **Will:** +6
+
+**Immune:** cold
+
+**Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
 
 **Offense**
 

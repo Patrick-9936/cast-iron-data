@@ -74,13 +74,13 @@ without impediment.
 
 **Verdant Path (Sp)**
 
-**Ability:** The shaman gains [woodland stride](ref/ability/woodland-stride), as per the druid
-ability of the same name.
-
 **Flavor:** Even the most tangled briars make way for the shaman, and suitable roots and branches
 appear to support her feet.
 
-**At 8th Level:** She can use [air walk](ref/spell/air-walk) at will whenever she is within 10 feet
+**Ability:** The shaman gains [woodland stride](ref/ability/woodland-stride), as per the druid
+ability of the same name.
+
+**At 8th level,** she can use [air walk](ref/spell/air-walk) at will whenever she is within 10 feet
 of a tree, though the effect ends instantly when she moves farther than 10 feet from a tree.
 
 **Whispering Leaves (Sp)**
@@ -90,7 +90,7 @@ of a tree, though the effect ends instantly when she moves farther than 10 feet 
 with a caster level equal to her shaman level. The targeted area must also contain trees or
 undergrowth, which relay the message in a gentle, rustling voice.
 
-**At 8th Level:** The shaman can also listen to the targeted area as though she were using
+**At 8th level,** the shaman can also listen to the targeted area as though she were using
 [clairaudience/clairvoyance](ref/spell/clairaudience-clairvoyance) for the 1 round during which the
 hex is delivering the message.
 
@@ -98,10 +98,10 @@ hex is delivering the message.
 
 **Spirit Animal**
 
-**Ability:** The animal gains [freeze](ref/umr/freeze) as per the universal monster rule.
-
 **Flavor:** The shaman's spirit animal looks like a wooden figurine or a vaguely animal-shaped tree
 branch when it is motionless.
+
+**Ability:** The animal gains [freeze](ref/umr/freeze) as per the universal monster rule.
 
 ### Spirit Ability
 
@@ -110,16 +110,16 @@ ability.
 
 **Tree Limb (Su)**
 
-**At 16th Level:** The shaman can transform both of her arms, gaining two slam attacks.
-
-**At 8th Level:** The reach of this slam attack increases by 5 feet.
-
 **Swift:** The shaman can turn one of her arms into a heavy, branch-like limb. She must drop
 anything held in that hand, and she can't use this ability if she is wearing a shield on that arm.
 Until the beginning of her next turn, she gains a [slam attack](ref/umr/natural-attacks) that deals
 1d8 points of damage (for a Medium shaman; 1d6 if Small, 2d6 if Large).
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 8th level,** the reach of this slam attack increases by 5 feet.
+
+**At 16th level,** the shaman can transform both of her arms, gaining two slam attacks.
 
 ### Greater Spirit Ability
 

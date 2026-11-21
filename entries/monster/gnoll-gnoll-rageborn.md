@@ -51,19 +51,23 @@ abilities = ["23", "13", "20", "8", "12", "6"]
 **Subtype:** Gnoll\
 **Experience points:** 800
 
-**Armor class:** 16/9/15
+**Armor class:** 16
 
-**Fort:** +11
+**Touch:** 9
+
+**Flat-footed:** 15
+
+**AC modifiers:** +6 armor, +1 Dex, +1 natural, -2 rage
 
 **Hit points:** 49 (2d8+2d12+22\~4)
 
-**Mod:** +6 armor, +1 Dex, +1 natural, -2 rage
+**Fort:** +11
 
 **Ref:** +1
 
-**Uncanny dodge:** present
-
 **Will:** +3
+
+**Uncanny dodge:** present
 
 **Offense**
 

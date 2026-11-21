@@ -51,23 +51,27 @@ together. The thing's misshapen head leers forward, carved with a demonic, ape-l
 
 **Experience points:** 600
 
-**Armor class:** 16/15/15
+**Armor class:** 16
 
-**Dr:** 5/bludgeoning
+**Touch:** 15
 
-**Fort:** +1
+**Flat-footed:** 15
+
+**AC modifiers:** +1 armor, +1 Dex, +4 size
 
 **Hit points:** 16 (3d10)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 armor, +1 Dex, +4 size
+**Fort:** +1
 
 **Ref:** +2
 
-**Resist:** cold 5, electricity 5, fire 5
-
 **Will:** +2
+
+**Dr:** 5/bludgeoning
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Resist:** cold 5, electricity 5, fire 5
 
 **Offense**
 

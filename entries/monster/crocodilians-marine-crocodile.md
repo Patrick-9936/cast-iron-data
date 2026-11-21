@@ -48,13 +48,17 @@ tail that it uses to propel itself through the water._
 
 **Experience points:** 800
 
-**Armor class:** 14/10/13
+**Armor class:** 14
 
-**Fort:** +7
+**Touch:** 10
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +4 natural, -1 size
 
 **Hit points:** 30 (4d8+12)
 
-**Mod:** +1 Dex, +4 natural, -1 size
+**Fort:** +7
 
 **Ref:** +5
 

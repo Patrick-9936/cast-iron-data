@@ -45,21 +45,25 @@ _Undulating patterns of purple and orange luminescence play across this strange 
 
 **Experience points:** 50
 
-**Armor class:** 11/11/11
+**Armor class:** 11
 
-**Defensive abilities:** arcanophage
+**Touch:** 11
 
-**Fort:** +3
+**Flat-footed:** 11
+
+**AC modifiers:** -1 Dex, +2 size
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** -1 Dex, +2 size
+**Fort:** +3
 
 **Ref:** -1
 
 **Will:** +1; +2 vs. spells and [spell-like abilities](ref/umr/spell-like-abilities)
+
+**Defensive abilities:** arcanophage
+
+**Immune:** [plant traits](ref/umr/plant-traits)
 
 **Offense**
 

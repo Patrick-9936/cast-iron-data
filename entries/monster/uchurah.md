@@ -52,21 +52,25 @@ that dangles under its vertically oriented mouth._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/12/23
+**Armor class:** 26
 
-**Fort:** +12
+**Touch:** 12
+
+**Flat-footed:** 23
+
+**AC modifiers:** +3 Dex, +14 natural, -1 size
 
 **Hit points:** 150 (15d8+2d12+70\~17)
 
-**Immune:** disease, poison
-
-**Mod:** +3 Dex, +14 natural, -1 size
+**Fort:** +12
 
 **Ref:** +8
 
-**Uncanny dodge:** present
-
 **Will:** +14
+
+**Immune:** disease, poison
+
+**Uncanny dodge:** present
 
 **Offense**
 

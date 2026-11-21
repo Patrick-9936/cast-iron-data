@@ -55,19 +55,23 @@ back._
 
 **Experience points:** 2,400
 
-**Armor class:** 21/12/18
+**Armor class:** 21
 
-**Fort:** +10
+**Touch:** 12
+
+**Flat-footed:** 18
+
+**AC modifiers:** +4 armor, +3 Dex, +5 natural, -1 size
 
 **Hit points:** 54 (5d8+2d10+21\~7)
 
-**Mod:** +4 armor, +3 Dex, +5 natural, -1 size
+**Fort:** +10
 
 **Ref:** +7
 
-**Regen:** 5 (acid or fire)
-
 **Will:** +3
+
+**Regen:** 5 (acid or fire)
 
 **Offense**
 

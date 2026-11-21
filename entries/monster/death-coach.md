@@ -55,23 +55,27 @@ curtains._
 
 **Experience points:** 38,400
 
-**Armor class:** 27/27/16
+**Armor class:** 27
 
-**Chan Res:** +4
+**Touch:** 27
 
-**Fort:** +13
+**Flat-footed:** 16
+
+**AC modifiers:** +8 deflection, +10 Dex, +1 Dodge, -2 size
 
 **Hit points:** 212 (17d8+136)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Incorporeal:** present
-
-**Mod:** +8 deflection, +10 Dex, +1 Dodge, -2 size
+**Fort:** +13
 
 **Ref:** +15
 
 **Will:** +14
+
+**Chan Res:** +4
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Incorporeal:** present
 
 **Offense**
 

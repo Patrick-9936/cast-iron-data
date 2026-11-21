@@ -60,14 +60,14 @@ Nyarlathotep (Faceless Sphinx), Pazuzu, Pulura, Rull, Shelyn, Shelyn (pre-Earthf
 
 **Gained:** At 8th Level
 
-**Replaces:** The electricity resistance power of the Air domain
-
 **Standard:** Summon a storm cloud. This power functions as [fog cloud](ref/spell/fog-cloud) except
 that creatures inside the cloud are [deafened](ref/misc/deafened) and take 2d6 points of electricity
 damage each round from the flashes of thunder and lightning. Once created, you can concentrate on
 the cloud to move it up to 30 feet each round.
 
 **Usage:** 1 time/day per cleric level
+
+**Replaces:** The electricity resistance power of the Air domain
 
 **Replacement Domain Spells**
 
@@ -88,8 +88,6 @@ the cloud to move it up to 30 feet each round.
 
 **Gained:** At 8th Level
 
-**Replaces:** The electricity resistance power of the Air domain
-
 **Swift:** When you cast a spell with the electricity descriptor, you can designate one creature
 within line of sight. The spell's damage against that creature increases by 50%, as if affected by
 the [Empower Spell](ref/feat/empower-spell) feat. This additional damage results from divine power
@@ -98,6 +96,8 @@ electricity damage immediately after you cast the spell. The spell can deal this
 only once, even if it could affect the target multiple times.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The electricity resistance power of the Air domain
 
 **Replacement Domain Spells**
 
@@ -119,13 +119,13 @@ Onos, Pazuzu, Rull, Seramaydiel, Sugroz, Tjasse, Uaransaph, Xiquiripat, Ylimanch
 
 **Gained:** At 8th Level
 
-**Replaces:** The lightning arc power of the Air domain
-
 **Standard:** Unleash a blast of air in a 30-foot line. Make a combat maneuver check against each
 creature in the line, using your caster level as your base attack bonus and your Wisdom modifier in
 place of your Strength modifier. Treat the results as a [bull rush](ref/rule/bull-rush) attempt.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The lightning arc power of the Air domain
 
 **Replacement Domain Spells**
 

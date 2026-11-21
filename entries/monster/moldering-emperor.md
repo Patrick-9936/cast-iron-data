@@ -59,23 +59,27 @@ experimentation with the black blood has perverted the beast into a terrible new
 
 **Experience points:** 153,600
 
-**Armor class:** 33/5/32
+**Armor class:** 33
 
-**Dr:** 10/cold iron
+**Touch:** 5
 
-**Fort:** +17
+**Flat-footed:** 32
+
+**AC modifiers:** -1 Dex, +28 natural, -4 size
 
 **Hit points:** 270 (20d8+180)
 
-**Immune:** ability drain, cold, energy drain, poison
-
-**Mod:** -1 Dex, +28 natural, -4 size
+**Fort:** +17
 
 **Ref:** +5
 
-**Sr:** 26
-
 **Will:** +16
+
+**Dr:** 10/cold iron
+
+**Immune:** ability drain, cold, energy drain, poison
+
+**Sr:** 26
 
 **Offense**
 

@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Reflection (Su):**
+**Reflection (Su)**
 
 **Immediate:** The magus can sacrifice 1 or more points from his arcane pool to reflect a spell back
 at its caster. This functions as [spell turning](ref/spell/spell-turning), but only if the targeted

@@ -52,27 +52,31 @@ face._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/13/21
+**Armor class:** 25
+
+**Touch:** 13
+
+**Flat-footed:** 21
+
+**AC modifiers:** +4 Dex, +12 natural, -1 size
+
+**Hit points:** 137 (11d10+77)
+
+**Fort:** +14
+
+**Ref:** +9
+
+**Will:** +10
 
 **Amorph:** present
 
 **Dr:** 10/good
 
-**Fort:** +14
-
-**Hit points:** 137 (11d10+77)
-
 **Immune:** acid, disease, electricity, poison
-
-**Mod:** +4 Dex, +12 natural, -1 size
-
-**Ref:** +9
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 22
-
-**Will:** +10
 
 **Offense**
 

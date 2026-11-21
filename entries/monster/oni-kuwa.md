@@ -51,21 +51,25 @@ four-fingered claws._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/10/19
+**Armor class:** 19
 
-**Fort:** +7
+**Touch:** 10
+
+**Flat-footed:** 19
+
+**AC modifiers:** +8 armor, +1 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Mod:** +8 armor, +1 natural
+**Fort:** +7
 
 **Ref:** +4
+
+**Will:** +6
 
 **Regen:** 5 (acid or fire)
 
 **Sr:** 15
-
-**Will:** +6
 
 **Offense**
 

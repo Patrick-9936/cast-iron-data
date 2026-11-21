@@ -51,19 +51,23 @@ _Within this mass of primeval fish glint innumerable savagely gnashing teeth._
 
 **Experience points:** 2,400
 
-**Armor class:** 17/14/15
+**Armor class:** 17
 
-**Defensive abilities:** swarm traits
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +3 natural, +2 size
 
 **Hit points:** 76 (9d8+36)
 
-**Mod:** +2 Dex, +3 natural, +2 size
+**Fort:** +9
 
 **Ref:** +10
 
 **Will:** +4
+
+**Defensive abilities:** swarm traits
 
 **Offense**
 

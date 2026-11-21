@@ -52,23 +52,27 @@ _The tail of this shimmering, salamander-like creature is composed entirely of w
 
 **Experience points:** 600
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +1 dodge, +2 size
 
 **Hit points:** 19 (3d10+3)
 
-**Immune:** elemental traits
-
-**Mod:** +2 Dex, +1 dodge, +2 size
+**Fort:** +4
 
 **Ref:** +5
+
+**Will:** +2
+
+**Immune:** elemental traits
 
 **Resist:** cold or electricity 5
 
 **Vulner:** fire
-
-**Will:** +2
 
 **Offense**
 

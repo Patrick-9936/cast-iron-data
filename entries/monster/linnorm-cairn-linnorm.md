@@ -48,28 +48,32 @@ wings._
 
 **Experience points:** 153,600
 
-**Armor class:** 35/13/28
+**Armor class:** 35
+
+**Touch:** 13
+
+**Flat-footed:** 28
+
+**AC modifiers:** +7 Dex, +22 natural, -4 size
+
+**Hit points:** 290 (20d12+160)
+
+**Fort:** +20
+
+**Ref:** +21
+
+**Will:** +17
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 15/cold iron
 
-**Fort:** +20
-
-**Hit points:** 290 (20d12+160)
-
 **Immune:** acid, curse effects, energy drain, mind-affecting effects, negative energy, paralysis,
 poison, sleep
-
-**Mod:** +7 Dex, +22 natural, -4 size
-
-**Ref:** +21
 
 **Regen:** 10 (cold iron)
 
 **Sr:** 29
-
-**Will:** +17
 
 **Offense**
 

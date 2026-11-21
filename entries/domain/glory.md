@@ -66,8 +66,6 @@ effect ends for that ally. If you make an attack, the effect ends for you and yo
 
 **Bolstering Touch (Sp)**
 
-**Replaces:** The touch of glory power of the Glory domain
-
 **Standard:** You can touch a willing creature, bracing it against frightening situations and
 allowing it to remain calm. The first fear effect that would affect the subject within the next hour
 is suppressed for the first 1d4 rounds of its effect. If you touch a creature currently suffering
@@ -77,6 +75,8 @@ effect's duration. If the fear effect is suppressed for longer than it lasts, th
 affected by the fear effect at all.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of glory power of the Glory domain
 
 **Replacement Domain Spells**
 
@@ -97,12 +97,12 @@ Skode
 
 **Gained:** At 8th Level
 
-**Replaces:** The divine presence power of the Glory domain
-
 **Swift:** You can emit a 30-foot aura of heroism. Allies in the area are treated as if they were
 under the effects of [heroism](ref/spell/heroism).
 
 **Usage:** 1 round/day per cleric level; these rounds need not be consecutive
+
+**Replaces:** The divine presence power of the Glory domain
 
 **Replacement Domain Spells**
 
@@ -119,8 +119,6 @@ Rubicante, Shizuru, Smiad, Uruskreil
 
 **Honor Bound (Su)**
 
-**Replaces:** The touch of glory power of the Glory domain
-
 **Standard:** With a touch, you can remind a creature of its duties and responsibilities, granting
 it a new saving throw against each enchantment (charm) or enchantment (compulsion) effect that
 currently affects it. If the saving throw is successful, the enchantment effect is ended. This power
@@ -130,6 +128,8 @@ a touched creature) has made one additional save per effect, this ability has no
 that particular enchantment effect.
 
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The touch of glory power of the Glory domain
 
 **Replacement Domain Spells**
 
@@ -158,8 +158,6 @@ that particular enchantment effect.
 
 **Gained:** At 6th Level
 
-**Replaces:** The divine presence ability of the Glory domain
-
 **Swift:** You can petition your divine patron for far greater power than you deserve. This ability
 can be used only as you cast a spell that has a reduced (but not negated) effect on a successful
 save. The saving throw DC of the spell increases by 2, and you gain a +2 bonus on caster level
@@ -171,6 +169,8 @@ powers for 1d4+1 rounds; you can end this loss by loudly apologizing to your pat
 full-round action that provokes attacks of opportunity.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 6th
+
+**Replaces:** The divine presence ability of the Glory domain
 
 **Replacement Domain Spells**
 
@@ -212,9 +212,9 @@ lasts, you can expend a daily use of your _touch of glory_ domain ability as an 
 add 1d6 to an attack, saving throw, skill check, or ability check attempted by the target; for a
 roll to confirm a critical hit or save against a fear effect, you instead add 1d12.
 
-**Replaces:** The divine presence ability of the Glory domain
-
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The divine presence ability of the Glory domain
 
 **Replacement Domain Spells**
 

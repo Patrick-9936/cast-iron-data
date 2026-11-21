@@ -48,25 +48,29 @@ clumps of seaweed serve as her hair._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/13/16
+**Armor class:** 19
+
+**Touch:** 13
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +1 dodge, +6 natural
+
+**Hit points:** 76 (9d8+36)
+
+**Fort:** +7
+
+**Ref:** +5
+
+**Will:** +9
 
 **Chan Res:** +4
 
 **Dr:** 10/slashing
 
-**Fort:** +7
-
-**Hit points:** 76 (9d8+36)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +2 Dex, +1 dodge, +6 natural
-
-**Ref:** +5
-
 **Weaknesses:** driftwood-dependent
-
-**Will:** +9
 
 **Offense**
 

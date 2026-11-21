@@ -53,7 +53,7 @@ partial [cover](ref/rule/cover), total cover, and improved cover by 1.
 
 **History**
 
-**Fullround:** The investigator can study a foe using _studied combat_ a second time in 24 hours
+**Full-round:** The investigator can study a foe using _studied combat_ a second time in 24 hours
 without expending _inspiration._ Subsequent uses of _studied combat_ require _inspiration_ as
 normal.
 

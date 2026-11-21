@@ -54,25 +54,29 @@ _This metallic creature has pincer-tipped arms, a single red eye, and an array o
 
 **Experience points:** 12,800
 
-**Armor class:** 25/11/23
+**Armor class:** 25
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 10, resilient
+**Touch:** 11
 
-**Fort:** +10
+**Flat-footed:** 23
+
+**AC modifiers:** +2 Dex, +14 natural, -1 size
 
 **Hit points:** 112 (15d10+30); force field (55 hp, [fast healing](ref/umr/fast-healing) 11)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +14 natural, -1 size
+**Fort:** +10
 
 **Ref:** +12
+
+**Will:** +10
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 10, resilient
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Vulner:** electricity
 
 **Weaknesses:** vulnerable to critical hits
-
-**Will:** +10
 
 **Offense**
 

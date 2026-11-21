@@ -50,19 +50,23 @@ detritus of the forest churning within._
 
 **Experience points:** 2,400
 
-**Armor class:** 5/5/5
+**Armor class:** 5
 
-**Fort:** +10
+**Touch:** 5
+
+**Flat-footed:** 5
+
+**AC modifiers:** -5 Dex
 
 **Hit points:** 103 (9d8+63)
 
-**Immune:** bludgeoning damage, mind-affecting effects, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex
+**Fort:** +10
 
 **Ref:** -2
 
 **Will:** -2
+
+**Immune:** bludgeoning damage, mind-affecting effects, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

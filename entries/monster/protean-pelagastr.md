@@ -56,7 +56,21 @@ ever-changing patterns._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/20/14
+**Armor class:** 20
+
+**Touch:** 20
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 deflection, +6 Dex
+
+**Hit points:** 105 (10d10+50)
+
+**Fort:** +10
+
+**Ref:** +13
+
+**Will:** +10
 
 **Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
 
@@ -64,23 +78,13 @@ ever-changing patterns._
 
 **Fh:** 5
 
-**Fort:** +10
-
-**Hit points:** 105 (10d10+50)
-
 **Immune:** acid, polymorph
 
 **Incorporeal:** present
 
-**Mod:** +4 deflection, +6 Dex
-
-**Ref:** +13
-
 **Resist:** electricity 10, sonic 10
 
 **Sr:** 19
-
-**Will:** +10
 
 **Offense**
 

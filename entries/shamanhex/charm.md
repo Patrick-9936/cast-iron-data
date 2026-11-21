@@ -20,7 +20,7 @@ shaman had successfully used the [Diplomacy](ref/skill/diplomacy) skill. The eff
 number of rounds equal to the shaman's Wisdom modifier (minimum 1). A successful Will saving throw
 negates this effect.
 
-**At 8th Level:** This effect improves the attitude of the creature by 2 steps.
+**At 8th level,** this effect improves the attitude of the creature by 2 steps.
 
 **Special:** Whether or not the save is successful, the creature cannot be the target of this hex
 again for 24 hours.This is a mind-affecting charm effect.

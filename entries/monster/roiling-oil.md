@@ -48,21 +48,25 @@ odor permeates the air around it._
 
 **Experience points:** 2,400
 
-**Armor class:** 4/4/4
+**Armor class:** 4
 
-**Dr:** 10/slashing
+**Touch:** 4
 
-**Fort:** +10
+**Flat-footed:** 4
+
+**AC modifiers:** -5 Dex, -1 size
 
 **Hit points:** 103 (9d8+63)
 
-**Immune:** electricity, fire, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -5 Dex, -1 size
+**Fort:** +10
 
 **Ref:** -2
 
 **Will:** -2
+
+**Dr:** 10/slashing
+
+**Immune:** electricity, fire, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

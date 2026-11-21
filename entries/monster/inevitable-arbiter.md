@@ -51,23 +51,27 @@ of which clutches a knife._
 
 **Experience points:** 600
 
-**Armor class:** 16/15/13
+**Armor class:** 16
 
-**Defensive abilities:** constant vigilance, constructed
+**Touch:** 15
 
-**Fort:** +5
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 natural, +2 size
 
 **Hit points:** 15 (2d10+4)
 
-**Mod:** +3 Dex, +1 natural, +2 size
+**Fort:** +5
 
 **Ref:** +3
+
+**Will:** +3
+
+**Defensive abilities:** constant vigilance, constructed
 
 **Regen:** 2 (chaotic)
 
 **Sr:** 13
-
-**Will:** +3
 
 **Offense**
 

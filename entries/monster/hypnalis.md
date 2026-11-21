@@ -52,13 +52,17 @@ cobra._
 
 **Experience points:** 1,600
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +5 natural
 
 **Hit points:** 59 (7d10+21)
 
-**Mod:** +2 Dex, +5 natural
+**Fort:** +5
 
 **Ref:** +7
 

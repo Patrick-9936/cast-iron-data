@@ -37,17 +37,17 @@ own arguments to root them out and bring them to justice.
 
 **Blessed Infiltration (Ex)**
 
+**Gained:** At 4th Level
+
 **Ability:** When you make a Bluff, [Diplomacy](ref/skill/diplomacy), or
 [Stealth](ref/skill/stealth) check, you may roll twice and take the more favorable result.
-
-**Gained:** At 4th Level
 
 **Usage:** Wisdom modifier times/day
 
 **Word of Anathema (Sp)**
 
+**Gained:** At 8th Level
+
 **Ability:** Once per day, you can speak a _word of anathema_ against a single creature within 60
 feet (Will negates). This acts as [bestow curse](ref/spell/bestow-curse) and lasts for 1 minute,
 giving the target a -4 penalty on attack rolls, saves, ability checks, and skill checks.
-
-**Gained:** At 8th Level

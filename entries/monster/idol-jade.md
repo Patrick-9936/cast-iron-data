@@ -52,21 +52,25 @@ miniature._
 
 **Experience points:** 1,200
 
-**Armor class:** 20/17/16
+**Armor class:** 20
 
-**Dr:** 5/bludgeoning and magic
+**Touch:** 17
 
-**Fort:** +1
+**Flat-footed:** 16
+
+**AC modifiers:** +2 armor, +3 Dex, +4 size
 
 **Hit points:** 22 (4d10)
 
-**Immune:** cold, [construct traits](ref/umr/construct-traits), electricity, fire
-
-**Mod:** +2 armor, +3 Dex, +4 size
+**Fort:** +1
 
 **Ref:** +6
 
 **Will:** +2
+
+**Dr:** 5/bludgeoning and magic
+
+**Immune:** cold, [construct traits](ref/umr/construct-traits), electricity, fire
 
 **Offense**
 

@@ -51,13 +51,17 @@ _In place of legs, this handsome humanoid sports an octopus's eight writhing ten
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
 
 **Hit points:** 45 (6d10+12)
 
-**Mod:** +4 Dex, +4 natural
+**Fort:** +4
 
 **Ref:** +9
 

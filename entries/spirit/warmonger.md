@@ -73,11 +73,11 @@ caster level checks when you cast these spells.
 
 **Inspiring Call (Su)**
 
-**Alters:** Inspiring call
-
 **Move:** You can grant all allies who can see and hear you a competence bonus equal to your _spirit
 bonus_ on either saving throws or attack and damage rolls. You choose which bonus to grant each time
 you use inspiring call. This ability lasts for 1 round.
+
+**Alters:** Inspiring call
 
 **Special:** If you have the _legendary marshal_ supreme spirit power, you can use inspiring call as
 a **swift action**.

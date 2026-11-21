@@ -53,19 +53,23 @@ pectoral fins covered in cruel hooks._
 
 **Experience points:** 51,200
 
-**Armor class:** 28/8/26
+**Armor class:** 28
 
-**Fort:** +18
+**Touch:** 8
+
+**Flat-footed:** 26
+
+**AC modifiers:** +1 Dex, +1 dodge, +20 natural, -4 size
 
 **Hit points:** 230 (20d10+120)
 
-**Mod:** +1 Dex, +1 dodge, +20 natural, -4 size
+**Fort:** +18
 
 **Ref:** +13
 
-**Sr:** 26
-
 **Will:** +13
+
+**Sr:** 26
 
 **Offense**
 

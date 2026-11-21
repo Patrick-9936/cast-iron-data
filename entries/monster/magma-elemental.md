@@ -50,21 +50,25 @@ as fractures in its outer surface._
 
 **Experience points:** 400
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Fort:** +3
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** -1 Dex, +5 natural, +1 size
 
 **Hit points:** 11 (2d10)
 
-**Immune:** fire, elemental traits
-
-**Mod:** -1 Dex, +5 natural, +1 size
+**Fort:** +3
 
 **Ref:** +2
 
-**Vulner:** cold
-
 **Will:** +0
+
+**Immune:** fire, elemental traits
+
+**Vulner:** cold
 
 **Offense**
 
@@ -154,21 +158,25 @@ feral or bestial appearance.
 
 **Experience points:** 800
 
-**Armor class:** 16/9/16
+**Armor class:** 16
 
-**Fort:** +6
+**Touch:** 9
+
+**Flat-footed:** 16
+
+**AC modifiers:** -1 Dex, +7 natural
 
 **Hit points:** 30 (4d10+8)
 
-**Immune:** fire, elemental traits
-
-**Mod:** -1 Dex, +7 natural
+**Fort:** +6
 
 **Ref:** +3
 
-**Vulner:** cold
-
 **Will:** +1
+
+**Immune:** fire, elemental traits
+
+**Vulner:** cold
 
 **Offense**
 
@@ -219,23 +227,27 @@ feral or bestial appearance.
 
 **Experience points:** 1,600
 
-**Armor class:** 16/8/16
+**Armor class:** 16
 
-**Dr:** 5/-
+**Touch:** 8
 
-**Fort:** +8
+**Flat-footed:** 16
+
+**AC modifiers:** -1 Dex, +8 natural, -1 size
 
 **Hit points:** 60 (8d10+16)
 
-**Immune:** fire, elemental traits
-
-**Mod:** -1 Dex, +8 natural, -1 size
+**Fort:** +8
 
 **Ref:** +5
 
-**Vulner:** cold
-
 **Will:** +2
+
+**Dr:** 5/-
+
+**Immune:** fire, elemental traits
+
+**Vulner:** cold
 
 **Offense**
 
@@ -290,23 +302,27 @@ feral or bestial appearance.
 
 **Experience points:** 3,200
 
-**Armor class:** 17/7/17
+**Armor class:** 17
 
-**Dr:** 5/-
+**Touch:** 7
 
-**Fort:** +10
+**Flat-footed:** 17
+
+**AC modifiers:** -1 Dex, +10 natural, -2 size
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** fire, elemental traits
-
-**Mod:** -1 Dex, +10 natural, -2 size
+**Fort:** +10
 
 **Ref:** +6
 
-**Vulner:** cold
-
 **Will:** +3
+
+**Dr:** 5/-
+
+**Immune:** fire, elemental traits
+
+**Vulner:** cold
 
 **Offense**
 
@@ -361,23 +377,27 @@ feral or bestial appearance.
 
 **Experience points:** 6,400
 
-**Armor class:** 19/7/19
+**Armor class:** 19
 
-**Dr:** 10/-
+**Touch:** 7
 
-**Fort:** +12
+**Flat-footed:** 19
+
+**AC modifiers:** -1 Dex, +12 natural, -2 size
 
 **Hit points:** 123 (13d10+52)
 
-**Immune:** fire, elemental traits
-
-**Mod:** -1 Dex, +12 natural, -2 size
+**Fort:** +12
 
 **Ref:** +7
 
-**Vulner:** cold
-
 **Will:** +4
+
+**Dr:** 10/-
+
+**Immune:** fire, elemental traits
+
+**Vulner:** cold
 
 **Offense**
 
@@ -433,23 +453,27 @@ Improved Overrun, Power Attack
 
 **Experience points:** 12,800
 
-**Armor class:** 25/7/25
+**Armor class:** 25
 
-**Dr:** 10/-
+**Touch:** 7
 
-**Fort:** +14
+**Flat-footed:** 25
+
+**AC modifiers:** -1 Dex, +18 natural, -2 size
 
 **Hit points:** 152 (16d10+64)
 
-**Immune:** fire, elemental traits
-
-**Mod:** -1 Dex, +18 natural, -2 size
+**Fort:** +14
 
 **Ref:** +9
 
-**Vulner:** cold
-
 **Will:** +5
+
+**Dr:** 10/-
+
+**Immune:** fire, elemental traits
+
+**Vulner:** cold
 
 **Offense**
 

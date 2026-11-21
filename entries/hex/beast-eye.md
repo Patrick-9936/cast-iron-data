@@ -24,9 +24,9 @@ Normal animals get no saving throw against this ability, but animal companions, 
 similar unusual animals may resist with a Will save; the witch may use this ability on her own
 familiar as if it were an animal.
 
+**Usage:** 1 minute/day per witch level; these minutes need not be consecutive, but must be spent in
+1-minute increments
+
 **Special:** If the witch has the [coven](ref/hex/coven) hex, all other witches within 10 feet of
 her who also have the _coven_ hex can see through this animal at will, although the acting witch
 still controls the ability.
-
-**Usage:** 1 minute/day per witch level; these minutes need not be consecutive, but must be spent in
-1-minute increments

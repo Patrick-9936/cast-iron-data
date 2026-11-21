@@ -53,19 +53,23 @@ pulses with energy._
 
 **Experience points:** 1,600
 
-**Armor class:** 16/16/15
+**Armor class:** 16
 
-**Defensive abilities:** psychic buffer
+**Touch:** 16
 
-**Fort:** +4
+**Flat-footed:** 15
+
+**AC modifiers:** +5 deflection, +1 Dex
 
 **Hit points:** 40 (9d10-9)
 
-**Mod:** +5 deflection, +1 Dex
+**Fort:** +4
 
 **Ref:** +7
 
 **Will:** +9
+
+**Defensive abilities:** psychic buffer
 
 **Offense**
 

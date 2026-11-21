@@ -34,9 +34,9 @@ rest personally.
 
 **Unravel Animation (Su)**
 
+**Gained:** At 8th Level
+
 **Ability:** When you activate your _[bane](ref/spell/bane)_ ability with undead as the creature
 type, you can choose for your weapon to instead gain the [disruption](ref/magic-enh/disruption)
 weapon special ability. The DC to resist this effect is equal to 10 + 1/2 your inquisitor level +
 your Wisdom modifier.
-
-**Gained:** At 8th Level

@@ -50,25 +50,29 @@ jewels._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/11/25
+**Armor class:** 27
+
+**Touch:** 11
+
+**Flat-footed:** 25
+
+**AC modifiers:** +2 Dex, +12 natural, +4 shield, -1 size
+
+**Hit points:** 157 (15d10+75)
+
+**Fort:** +12
+
+**Ref:** +11
+
+**Will:** +11
 
 **Defensive abilities:** defensive slam, energy absorption, suspend animation
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 157 (15d10+75)
-
 **Immune:** electricity, mind-affecting effects, negative energy
 
-**Mod:** +2 Dex, +12 natural, +4 shield, -1 size
-
-**Ref:** +11
-
 **Sr:** 23
-
-**Will:** +11
 
 **Offense**
 

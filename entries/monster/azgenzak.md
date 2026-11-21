@@ -56,21 +56,25 @@ orange flame._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/12/19
+**Armor class:** 22
 
-**Amorph:** present
+**Touch:** 12
 
-**Fort:** +8
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +10 natural, -1 size
 
 **Hit points:** 95 (10d8+50)
 
-**Immune:** fire, poison
-
-**Mod:** +3 Dex, +10 natural, -1 size
+**Fort:** +8
 
 **Ref:** +6
 
 **Will:** +8
+
+**Amorph:** present
+
+**Immune:** fire, poison
 
 **Offense**
 

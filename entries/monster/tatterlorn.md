@@ -48,23 +48,27 @@ movements are weirdly difficult to follow with the eye._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/15/16
+**Armor class:** 21
+
+**Touch:** 15
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 Dex, +1 dodge, +6 natural
+
+**Hit points:** 84 (8d8+48)
+
+**Fort:** +8
+
+**Ref:** +6
+
+**Will:** +9
 
 **Chan Res:** +2
 
 **Defensive abilities:** forsaken
 
-**Fort:** +8
-
-**Hit points:** 84 (8d8+48)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +1 dodge, +6 natural
-
-**Ref:** +6
-
-**Will:** +9
 
 **Offense**
 

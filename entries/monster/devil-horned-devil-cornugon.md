@@ -52,27 +52,31 @@ whirling barbed chain._
 
 **Experience points:** 76,800
 
-**Armor class:** 35/17/27
+**Armor class:** 35
 
-**Dr:** 10/good and silver
+**Touch:** 17
 
-**Fort:** +18
+**Flat-footed:** 27
+
+**AC modifiers:** +8 Dex, +18 natural, -1 size
 
 **Hit points:** 217 (15d10+135)
 
-**Immune:** fire, poison
-
-**Mod:** +8 Dex, +18 natural, -1 size
+**Fort:** +18
 
 **Ref:** +17
+
+**Will:** +13
+
+**Dr:** 10/good and silver
+
+**Immune:** fire, poison
 
 **Regen:** 5 (good weapons, good spells)
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 27
-
-**Will:** +13
 
 **Offense**
 

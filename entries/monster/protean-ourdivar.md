@@ -56,25 +56,29 @@ ends in a serpentine tail._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/10/16
+**Armor class:** 17
 
-**Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
+**Touch:** 10
 
-**Fort:** +4
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +7 natural, -1 size
 
 **Hit points:** 42 (5d10+15)
 
-**Immune:** acid
-
-**Mod:** +1 Dex, +7 natural, -1 size
+**Fort:** +4
 
 **Ref:** +5
+
+**Will:** +6
+
+**Defensive abilities:** amorphous anatomy, _[freedom of movement](ref/spell/freedom-of-movement)_
+
+**Immune:** acid
 
 **Resist:** electricity 10, sonic 10
 
 **Sr:** 15
-
-**Will:** +6
 
 **Offense**
 

@@ -52,21 +52,25 @@ its open, lily-shaped maw._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/8/28
+**Armor class:** 28
 
-**Dr:** 10/cold iron
+**Touch:** 8
 
-**Fort:** +13
+**Flat-footed:** 28
+
+**AC modifiers:** +20 natural, -2 size
 
 **Hit points:** 178 (17d8+102)
 
-**Mod:** +20 natural, -2 size
+**Fort:** +13
 
 **Ref:** +5
 
-**Sr:** 24
-
 **Will:** +14
+
+**Dr:** 10/cold iron
+
+**Sr:** 24
 
 **Offense**
 

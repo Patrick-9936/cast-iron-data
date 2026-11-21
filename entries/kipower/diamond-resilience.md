@@ -14,12 +14,12 @@ group = "ki-power"
 
 **Diamond Resilience (Ex)**
 
-**At 16th Level:** The [damage reduction](ref/rule/damage-reduction) increases to 4/-.
+**Swift:** By spending 1 ki point, the monk gains DR 2/-.
 
-**At 19th Level:** It increases to DR 6/-.
+**At 16th level,** the [damage reduction](ref/rule/damage-reduction) increases to 4/-.
+
+**At 19th level,** it increases to DR 6/-.
 
 **Prereq:** 12th-level monk
 
 **Special:** This DR lasts for 1 minute.
-
-**Swift:** By spending 1 ki point, the monk gains DR 2/-.

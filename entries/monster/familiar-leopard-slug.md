@@ -47,19 +47,23 @@ _This dark-yellow, hand-length slug is covered in a pattern of black spots and s
 
 **Experience points:** 0
 
-**Armor class:** 11/11/11
+**Armor class:** 11
 
-**Fort:** +3
+**Touch:** 11
+
+**Flat-footed:** 11
+
+**AC modifiers:** -3 Dex, +4 size
 
 **Hit points:** 5 (1d8+1)
 
-**Immune:** mind-affecting effects
-
-**Mod:** -3 Dex, +4 size
+**Fort:** +3
 
 **Ref:** -3
 
 **Will:** -2
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

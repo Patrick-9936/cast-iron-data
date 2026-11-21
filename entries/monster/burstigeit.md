@@ -48,25 +48,29 @@ its horns had broken off in battle._
 
 **Experience points:** 800
 
-**Armor class:** 17/11/15
+**Armor class:** 17
+
+**Touch:** 11
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +6 natural, -1 size
+
+**Hit points:** 30 (4d10+8)
+
+**Fort:** +6
+
+**Ref:** +6
+
+**Will:** +2; +2 vs. poison, spells, and [spell-like abilities](ref/umr/spell-like-abilities)
 
 **Defensive abilities:** hardy
 
 **Ferocity:** present
 
-**Fort:** +6
-
-**Hit points:** 30 (4d10+8)
-
-**Mod:** +2 Dex, +6 natural, -1 size
-
-**Ref:** +6
-
 **Resist:** cold 5, fire 5
 
 **Weaknesses:** [light sensitivity](ref/umr/light-sensitivity)
-
-**Will:** +2; +2 vs. poison, spells, and [spell-like abilities](ref/umr/spell-like-abilities)
 
 **Offense**
 

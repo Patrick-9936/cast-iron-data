@@ -49,19 +49,23 @@ the distant sound of thunder._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Dr:** 5/cold iron
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +6 natural
 
 **Hit points:** 51 (6d10+18)
 
-**Mod:** +2 Dex, +6 natural
+**Fort:** +5
 
 **Ref:** +7
 
 **Will:** +6
+
+**Dr:** 5/cold iron
 
 **Offense**
 

@@ -70,23 +70,23 @@ The save DC is equal to 10 + half your sorcerer level + your Charisma modifier.
 
 **Voidwalker (Ex)**
 
+**Gained:** At 3rd Level
+
 **Ability:** You gain [low-light vision](ref/rule/low-light-vision) and [resist](ref/umr/resistance)
 cold and fire 5.
 
-**Gained:** At 3rd Level
-
-**At 9th Level:** You no longer need to breathe, as if wearing a
+**At 9th level,** you no longer need to breathe, as if wearing a
 [necklace of adaptation](ref/magic-wondrous/necklace-of-adaptation).
 
 **Aurora Borealis (Sp)**
+
+**Gained:** At 9th Level
 
 **Ability:** You can create a sheet of cascading colors. This power acts as a
 [wall of fire](ref/spell/wall-of-fire), but it inflicts cold damage and does not radiate heat.
 However, one side of the aurora designated by you [fascinates](ref/misc/fascinated) creatures within
 10 feet, up to a maximum of 2 HD of creatures per sorcerer level. A Will save negates this fascinate
 effect. The save DC is equal to 10 + half your sorcerer level + your Charisma modifier.
-
-**Gained:** At 9th Level
 
 **Usage:** 1 time/day per sorcerer level
 
@@ -104,11 +104,11 @@ the airless void, the target takes 6d6 points of cold damage per round and must
 
 **Starborn (Ex)**
 
+**Gained:** At 20th Level
+
 **Ability:** You gain immunity to cold and [blindness](ref/misc/blinded), and you can see perfectly
 in natural or magical darkness. In addition, you gain [fast healing](ref/umr/fast-healing) 1 when
 you are outdoors at night.
-
-**Gained:** At 20th Level
 
 ### Void-Touched (Wildblooded Mutation)
 
@@ -127,21 +127,21 @@ Your magic is blacker than any night.
 
 **Black Motes (Sp)**
 
-**Ability:** This ability works exactly like _minute meteors,_ except it deals cold damage.
-
 **Gained:** At 1st Level
+
+**Ability:** This ability works exactly like _minute meteors,_ except it deals cold damage.
 
 **Replaces:** Minute Meteors
 
 **Voidfield (Sp)**
+
+**Gained:** At 9th Level
 
 **Ability:** You can create an area influenced by the black void. This ability acts as an
 [ice storm](ref/spell/ice-storm), except the area is also subject to
 [deeper darkness](ref/spell/deeper-darkness) for a number of rounds equal to one-fourth of your
 sorcerer level.
 
-**Gained:** At 9th Level
+**Usage:** 1 time/day per 3 sorcerer levels
 
 **Replaces:** Aurora Borealis
-
-**Usage:** 1 time/day per 3 sorcerer levels

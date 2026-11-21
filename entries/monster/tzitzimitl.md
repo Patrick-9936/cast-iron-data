@@ -49,7 +49,21 @@ clinging to its nightmarish form._
 
 **Experience points:** 204,800
 
-**Armor class:** 35/11/30
+**Armor class:** 35
+
+**Touch:** 11
+
+**Flat-footed:** 30
+
+**AC modifiers:** +5 Dex, +24 natural, -4 size
+
+**Hit points:** 319 (22d8+220)
+
+**Fort:** +17
+
+**Ref:** +14
+
+**Will:** +19
 
 **Chan Res:** +4
 
@@ -59,21 +73,11 @@ clinging to its nightmarish form._
 
 **Fh:** 15
 
-**Fort:** +17
-
-**Hit points:** 319 (22d8+220)
-
 **Immune:** cold, electricity, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 Dex, +24 natural, -4 size
-
-**Ref:** +14
 
 **Resist:** fire 15
 
 **Sr:** 30
-
-**Will:** +19
 
 **Offense**
 

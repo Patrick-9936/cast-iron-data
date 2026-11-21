@@ -53,21 +53,25 @@ _A gray-skinned humanoid with oddly unremarkable features floats ponderously in 
 
 **Experience points:** 2,400
 
-**Armor class:** 19/18/15
+**Armor class:** 19
 
-**Evasion:** present
+**Touch:** 18
 
-**Fort:** +6
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +1 dodge, +1 monk, +3 Wis, +1 natural
 
 **Hit points:** 46 (5d8+20)
 
-**Immune:** disease
-
-**Mod:** +3 Dex, +1 dodge, +1 monk, +3 Wis, +1 natural
+**Fort:** +6
 
 **Ref:** +7
 
 **Will:** +7; +2 vs. enchantment, +4 vs. mind-affecting effects
+
+**Evasion:** present
+
+**Immune:** disease
 
 **Offense**
 

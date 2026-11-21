@@ -50,19 +50,23 @@ circular mouth._
 
 **Experience points:** 400
 
-**Armor class:** 14/14/12
+**Armor class:** 14
 
-**Defensive abilities:** shrouded mind
+**Touch:** 14
 
-**Fort:** +4
+**Flat-footed:** 12
+
+**AC modifiers:** +2 Dex, +2 size
 
 **Hit points:** 13 (2d10+2)
 
-**Mod:** +2 Dex, +2 size
+**Fort:** +4
 
 **Ref:** +5
 
 **Will:** +2
+
+**Defensive abilities:** shrouded mind
 
 **Offense**
 

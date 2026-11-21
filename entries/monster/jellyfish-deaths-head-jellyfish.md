@@ -50,23 +50,27 @@ _This long-tentacled jellyfish has a wide bell with a vaguely skull-shaped patte
 
 **Experience points:** 400
 
-**Armor class:** 14/14/11
+**Armor class:** 14
+
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
+
+**Hit points:** 15 (2d8+6)
+
+**Fort:** +6
+
+**Ref:** +3
+
+**Will:** +0
 
 **Amorph:** present
 
 **Dr:** 5/piercing or slashing
 
-**Fort:** +6
-
-**Hit points:** 15 (2d8+6)
-
 **Immune:** mind-affecting effects
-
-**Mod:** +3 Dex, +1 size
-
-**Ref:** +3
-
-**Will:** +0
 
 **Offense**
 

@@ -54,19 +54,23 @@ benevolence._
 
 **Experience points:** 200
 
-**Armor class:** 15/10/15
+**Armor class:** 15
 
-**Fort:** +4
+**Touch:** 10
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 armor
 
 **Hit points:** 11 (1d8+3)
 
-**Mod:** +5 armor
+**Fort:** +4
 
 **Ref:** +0
 
-**Resist:** acid 5, cold 5, electricity 5
-
 **Will:** +5
+
+**Resist:** acid 5, cold 5, electricity 5
 
 **Offense**
 

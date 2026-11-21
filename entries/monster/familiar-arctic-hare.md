@@ -48,13 +48,17 @@ _With shorter ears and limbs than other rabbits, this white rabbit is hard to sp
 
 **Experience points:** 65
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Fort:** +1
+**Touch:** 15
+
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 3 (1d8-1)
 
-**Mod:** +3 Dex, +2 size
+**Fort:** +1
 
 **Ref:** +5
 

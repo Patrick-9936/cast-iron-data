@@ -41,6 +41,6 @@ automatically suppressed for 1 minute.
 
 **Rebel Leader (Ex)**
 
-**Ability:** You gain [Leadership](ref/feat/leadership) as a bonus feat.
-
 **Gained:** At 8th Level
+
+**Ability:** You gain [Leadership](ref/feat/leadership) as a bonus feat.

@@ -46,21 +46,25 @@ _Long spines jut from the legs and back of this enormous cricket._
 
 **Experience points:** 600
 
-**Armor class:** 16/12/14
+**Armor class:** 16
 
-**Defensive abilities:** spines
+**Touch:** 12
 
-**Fort:** +6
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 natural
 
 **Hit points:** 26 (4d8+8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +4 natural
+**Fort:** +6
 
 **Ref:** +3
 
 **Will:** +1
+
+**Defensive abilities:** spines
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

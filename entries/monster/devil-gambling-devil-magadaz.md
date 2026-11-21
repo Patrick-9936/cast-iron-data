@@ -55,21 +55,25 @@ creature had been melted and then reformed._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/12/16
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +1 luck, +5 natural
 
 **Hit points:** 42 (5d10+15)
 
-**Immune:** fire, poison
-
-**Mod:** +1 Dex, +1 luck, +5 natural
+**Fort:** +4
 
 **Ref:** +5
 
-**Resist:** acid 10, cold 10
-
 **Will:** +6
+
+**Immune:** fire, poison
+
+**Resist:** acid 10, cold 10
 
 **Offense**
 

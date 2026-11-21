@@ -48,21 +48,25 @@ _The pockets of this urchin are stuffed with worthless objects._
 
 **Experience points:** 600
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Dr:** 5/cold iron
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 19 (3d6+9)
 
-**Mod:** +3 Dex, +2 size
+**Fort:** +3
 
 **Ref:** +6
 
-**Sr:** 13
-
 **Will:** +2
+
+**Dr:** 5/cold iron
+
+**Sr:** 13
 
 **Offense**
 

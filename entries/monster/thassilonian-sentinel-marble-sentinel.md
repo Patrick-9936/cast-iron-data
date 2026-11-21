@@ -48,19 +48,23 @@ intently with its glowing green eyes._
 
 **Experience points:** 1,200
 
-**Armor class:** 20/14/17
+**Armor class:** 20
 
-**Fort:** +2
+**Touch:** 14
+
+**Flat-footed:** 17
+
+**AC modifiers:** +3 Dex, +6 natural, +1 size
 
 **Hit points:** 43 (6d10+10)
 
-**Immune:** acid, [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +3 Dex, +6 natural, +1 size
+**Fort:** +2
 
 **Ref:** +5
 
 **Will:** +2
+
+**Immune:** acid, [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

@@ -51,13 +51,17 @@ man._
 **Subtype:** Charau-ka\
 **Experience points:** 600
 
-**Armor class:** 14/12/13
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +2 natural, +1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Mod:** +1 Dex, +2 natural, +1 size
+**Fort:** +3
 
 **Ref:** +4
 

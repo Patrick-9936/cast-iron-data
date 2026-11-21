@@ -50,25 +50,29 @@ tentacles dangling down in a line._
 
 **Experience points:** 4,800
 
-**Armor class:** 19/9/19
+**Armor class:** 19
+
+**Touch:** 9
+
+**Flat-footed:** 19
+
+**AC modifiers:** +10 natural, -1 size
+
+**Hit points:** 104 (11d8+55)
+
+**Fort:** +8
+
+**Ref:** +5
+
+**Will:** +13
 
 **Amorph:** present
 
 **Defensive abilities:** lulling thoughts
 
-**Fort:** +8
-
-**Hit points:** 104 (11d8+55)
-
-**Mod:** +10 natural, -1 size
-
-**Ref:** +5
-
 **Regen:** 2 (acid)
 
 **Weaknesses:** ley line dependency
-
-**Will:** +13
 
 **Offense**
 

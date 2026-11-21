@@ -55,23 +55,27 @@ hands._
 
 **Experience points:** 19,200
 
-**Armor class:** 28/12/25
+**Armor class:** 28
 
-**Defensive abilities:** negative energy affinity
+**Touch:** 12
 
-**Fort:** +16
+**Flat-footed:** 25
+
+**AC modifiers:** +6 armor, +3 Dex, +10 natural, -1 size
 
 **Hit points:** 162 (13d8+104)
 
-**Immune:** death effects, paralysis
-
-**Mod:** +6 armor, +3 Dex, +10 natural, -1 size
+**Fort:** +16
 
 **Ref:** +7
 
-**Rock Ct:** present
-
 **Will:** +10
+
+**Defensive abilities:** negative energy affinity
+
+**Immune:** death effects, paralysis
+
+**Rock Ct:** present
 
 **Offense**
 

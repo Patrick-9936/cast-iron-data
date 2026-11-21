@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Reach Spellstrike (Su):**
+**Reach Spellstrike (Su)**
 
 **Ability:** The magus can deliver spells with a range of touch with _ranged spellstrike_ up to a
 maximum range of close (25 feet + 5 feet per 2 caster levels).

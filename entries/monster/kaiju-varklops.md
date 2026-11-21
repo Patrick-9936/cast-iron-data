@@ -53,7 +53,21 @@ tail tipped with four bony spikes._
 
 **Experience points:** 9,830,400
 
-**Armor class:** 48/16/34
+**Armor class:** 48
+
+**Touch:** 16
+
+**Flat-footed:** 34
+
+**AC modifiers:** +13 Dex, +1 dodge, +32 natural, -8 size
+
+**Hit points:** 752 (35d10+560)
+
+**Fort:** +35
+
+**Ref:** +32
+
+**Will:** +23
 
 **Defensive abilities:** deflect cold, recovery
 
@@ -63,23 +77,13 @@ tail tipped with four bony spikes._
 
 **Fh:** 30
 
-**Fort:** +35
-
-**Hit points:** 752 (35d10+560)
-
 **Immune:** ability damage, ability drain, death effects, disease, energy drain, fear, fire
-
-**Mod:** +13 Dex, +1 dodge, +32 natural, -8 size
-
-**Ref:** +32
 
 **Resist:** acid 30, cold 30, electricity 30, negative energy 30, sonic 30
 
 **Vulner:** cold
 
 **Weaknesses:** distracted when outnumbered
-
-**Will:** +23
 
 **Offense**
 

@@ -50,23 +50,27 @@ fanged muzzle and glowing red eyes._
 
 **Experience points:** 800
 
-**Armor class:** 15/11/13
+**Armor class:** 15
 
-**Dr:** 5/silver
+**Touch:** 11
 
-**Fort:** +3
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +4 natural, -1 size
 
 **Hit points:** 26 (4d8+8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +4 natural, -1 size
+**Fort:** +3
 
 **Ref:** +3
 
-**Resist:** cold 5, electricity 5
-
 **Will:** +5
+
+**Dr:** 5/silver
+
+**Immune:** [undead traits](ref/umr/undead-traits)
+
+**Resist:** cold 5, electricity 5
 
 **Offense**
 

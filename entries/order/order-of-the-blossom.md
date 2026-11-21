@@ -51,21 +51,23 @@ level.
 
 **Sneak Attack (Ex)**
 
+**Gained:** At 2nd Level
+
 **Ability:** An order of the blossom cavalier can make a [sneak attack](ref/ability/sneak-attack),
 as the rogue ability of the same name. At 2nd level, his sneak attack damage is +1d6. This damage
 increases by 1d6 at 8th level and every 6 levels thereafter.
 
-**Gained:** At 2nd Level
+**At 8th level,** this bonus damage increases to +2d6.
+
+**At 14th level,** this bonus damage increases to +3d6.
+
+**At 20th level,** this bonus damage increases to +4d6.
 
 **Special:** If the cavalier gets a sneak attack bonus from another source, the bonus damage stacks.
 
-At 8th level: This bonus damage increases to +2d6.
-
-At 14th level: This bonus damage increases to +3d6.
-
-At 20th level: This bonus damage increases to +4d6.
-
 **Fey Enchantments (Sp)**
+
+**Gained:** At 8th Level
 
 **Ability:** An order of the blossom cavalier learns to use the following spell-like abilities:
 [animal messenger](ref/spell/animal-messenger), [enthrall](ref/spell/enthrall),
@@ -77,11 +79,9 @@ _[animal messenger](ref/spell/animal-messenger)_ once and _[suggestion](ref/spel
 twice). The saving throw DC for these spell-like abilities is 10 + half the cavalier's level + his
 Charisma modifier.
 
-**At 16th Level:** The cavalier can use his [spell-like abilities](ref/umr/spell-like-abilities)
+**At 16th level,** the cavalier can use his [spell-like abilities](ref/umr/spell-like-abilities)
 seven times per day, and he adds [charm monster](ref/spell/charm-monster) and
 [terrible remorse](ref/spell/terrible-remorse) to the list.
-
-**Gained:** At 8th Level
 
 **Curse of the First World (Su)**
 

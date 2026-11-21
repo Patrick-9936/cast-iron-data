@@ -54,13 +54,17 @@ curiosity and mischief._
 
 **Experience points:** 200
 
-**Armor class:** 16/13/13
+**Armor class:** 16
 
-**Fort:** +3
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 armor, +3 Dex
 
 **Hit points:** 12 (1d10+2)
 
-**Mod:** +3 armor, +3 Dex
+**Fort:** +3
 
 **Ref:** +5
 

@@ -54,25 +54,29 @@ crackling with power._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/16/26
+**Armor class:** 28
 
-**Dr:** 10/cold iron and evil
+**Touch:** 16
 
-**Fort:** +17
+**Flat-footed:** 26
+
+**AC modifiers:** +4 deflection, +1 Dex, +1 dodge, +12 natural
 
 **Hit points:** 136 (13d10+65)
 
-**Immune:** electricity, petrification
-
-**Mod:** +4 deflection, +1 Dex, +1 dodge, +12 natural
+**Fort:** +17
 
 **Ref:** +11
+
+**Will:** +16
+
+**Dr:** 10/cold iron and evil
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 25
-
-**Will:** +16
 
 **Offense**
 

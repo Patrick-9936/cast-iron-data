@@ -50,23 +50,27 @@ battle-worn spear._
 
 **Experience points:** 25,600
 
-**Armor class:** 29/15/24
+**Armor class:** 29
 
-**Dr:** 10/cold iron
+**Touch:** 15
 
-**Fort:** +12
+**Flat-footed:** 24
+
+**AC modifiers:** +9 armor, +5 Dex, +5 natural
 
 **Hit points:** 171 (18d6+108)
 
-**Immune:** cold, poison
-
-**Mod:** +9 armor, +5 Dex, +5 natural
+**Fort:** +12
 
 **Ref:** +16
 
-**Sr:** 24
-
 **Will:** +15
+
+**Dr:** 10/cold iron
+
+**Immune:** cold, poison
+
+**Sr:** 24
 
 **Offense**
 

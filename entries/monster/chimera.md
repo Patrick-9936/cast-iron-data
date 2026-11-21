@@ -47,13 +47,17 @@ dragon and a horned goat._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/10/18
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 10
+
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
 
 **Hit points:** 85 (9d10+36)
 
-**Mod:** +1 Dex, +9 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
 

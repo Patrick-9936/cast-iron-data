@@ -53,19 +53,23 @@ _The petals of this small plant's large, flat, flowering head reflect light in u
 
 **Experience points:** 400
 
-**Armor class:** 14/14/11
+**Armor class:** 14
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
 
 **Hit points:** 11 (2d8+2)
 
-**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
-
-**Mod:** +3 Dex, +1 size
+**Fort:** +4
 
 **Ref:** +3
 
 **Will:** +0
+
+**Immune:** electricity, [plant traits](ref/umr/plant-traits), sonic
 
 **Offense**
 

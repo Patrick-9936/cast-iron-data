@@ -52,21 +52,25 @@ and massive mandibles._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/9/23
+**Armor class:** 23
 
-**Dr:** 10/evil
+**Touch:** 9
 
-**Fort:** +12
+**Flat-footed:** 23
+
+**AC modifiers:** +14 natural, -1 size
 
 **Hit points:** 114 (12d10+48)
 
-**Mod:** +14 natural, -1 size
+**Fort:** +12
 
 **Ref:** +6
 
-**Sr:** 20
-
 **Will:** +11
+
+**Dr:** 10/evil
+
+**Sr:** 20
 
 **Offense**
 

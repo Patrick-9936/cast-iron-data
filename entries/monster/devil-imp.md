@@ -50,25 +50,29 @@ nuisance._
 
 **Experience points:** 600
 
-**Armor class:** 17/16/13
+**Armor class:** 17
+
+**Touch:** 16
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +1 natural, +2 size
+
+**Hit points:** 16 (3d10)
+
+**Fort:** +1
+
+**Ref:** +6
+
+**Will:** +4
 
 **Dr:** 5/good or silver
 
 **Fh:** 2
 
-**Fort:** +1
-
-**Hit points:** 16 (3d10)
-
 **Immune:** fire, poison
 
-**Mod:** +3 Dex, +1 dodge, +1 natural, +2 size
-
-**Ref:** +6
-
 **Resist:** acid 10, cold 10
-
-**Will:** +4
 
 **Offense**
 

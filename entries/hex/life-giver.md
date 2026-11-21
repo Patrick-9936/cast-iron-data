@@ -14,5 +14,5 @@ group = "witch-hex"
 
 **Life Giver (Su)**
 
-**Fullround:** Once per day the witch can touch a dead creature and bring it back to life. This
+**Full-round:** Once per day the witch can touch a dead creature and bring it back to life. This
 functions as [resurrection](ref/spell/resurrection), but it does not require a material component.

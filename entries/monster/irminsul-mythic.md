@@ -54,25 +54,29 @@ destination._
 
 **Experience points:** 102,400
 
-**Armor class:** 33/4/33
+**Armor class:** 33
 
-**Dr:** 10/epic
+**Touch:** 4
 
-**Fort:** +22
+**Flat-footed:** 33
+
+**AC modifiers:** -2 Dex, +29 natural, -4 size
 
 **Hit points:** 301 (14d8+238)
 
-**Immune:** cold, sonic, [plant traits](ref/umr/plant-traits)
-
-**Mod:** -2 Dex, +29 natural, -4 size
+**Fort:** +22
 
 **Ref:** +2
+
+**Will:** +15
+
+**Dr:** 10/epic
+
+**Immune:** cold, sonic, [plant traits](ref/umr/plant-traits)
 
 **Regen:** 10 (cold iron)
 
 **Sr:** 25
-
-**Will:** +15
 
 **Offense**
 

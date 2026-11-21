@@ -52,25 +52,29 @@ that cap its long arms._
 
 **Experience points:** 25,600
 
-**Armor class:** 26/13/23
+**Armor class:** 26
 
-**Dr:** 10/good and magic
+**Touch:** 13
 
-**Fort:** +15
+**Flat-footed:** 23
+
+**AC modifiers:** +6 armor, +3 Dex, +7 natural
 
 **Hit points:** 171 (18d10+72)
 
-**Immune:** acid, poison
-
-**Mod:** +6 armor, +3 Dex, +7 natural
+**Fort:** +15
 
 **Ref:** +11
+
+**Will:** +12; +4 vs. divine spells
+
+**Dr:** 10/good and magic
+
+**Immune:** acid, poison
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 24
-
-**Will:** +12; +4 vs. divine spells
 
 **Offense**
 

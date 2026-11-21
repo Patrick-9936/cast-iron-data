@@ -51,23 +51,27 @@ leathery flap covering its face._
 
 **Experience points:** 19,200
 
-**Armor class:** 26/15/21
+**Armor class:** 26
+
+**Touch:** 15
+
+**Flat-footed:** 21
+
+**AC modifiers:** +4 Dex, +1 dodge, +11 natural
+
+**Hit points:** 157 (15d10+75)
+
+**Fort:** +14
+
+**Ref:** +11
+
+**Will:** +11
 
 **Defensive abilities:** absolute independence
 
 **Dr:** 15/good and piercing
 
-**Fort:** +14
-
-**Hit points:** 157 (15d10+75)
-
-**Mod:** +4 Dex, +1 dodge, +11 natural
-
-**Ref:** +11
-
 **Sr:** 27
-
-**Will:** +11
 
 **Offense**
 

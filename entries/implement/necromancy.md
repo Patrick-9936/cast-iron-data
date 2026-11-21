@@ -28,6 +28,8 @@ Implements that draw power from necromancy can control undead and harm the livin
 
 **Necromantic Focus (Su)**
 
+**Flavor:** The implement grants its possessor greater power over the undead.
+
 **Ability:** Whoever possesses the implement can control an additional 2 Hit Dice of undead for
 every point of mental focus invested in the item (to a maximum number of Hit Dice equal to 4 × your
 occultist level). Any spellcaster who bears the implement can add it as an additional focus
@@ -39,13 +41,9 @@ applicable).
 Undead creatures take a -1 penalty on saving throws against spells cast by the bearer of this
 implement for every 4 points of mental focus invested in this implement.
 
-**Flavor:** The implement grants its possessor greater power over the undead.
-
 ### Base Focus Power
 
 **Mind Fear (Sp)**
-
-**Special:** This is a mind-affecting fear effect.
 
 **Standard:** You can expend 1 point of mental focus to cause a living creature to succumb to fear.
 The target must be within 30 feet of you, and it can attempt a Will saving throw to negate the
@@ -53,39 +51,28 @@ effect. If the target fails the save and has a number of Hit Dice less than or e
 [frightened](ref/misc/frightened) for 1d4 rounds. If the target fails the saving throw and has a
 number of Hit Dice greater than yours, it is instead [shaken](ref/misc/shaken) for 1d4 rounds.
 
+**Special:** This is a mind-affecting fear effect.
+
 ### Focus Powers
 
 **Flesh Rot (Sp)**
-
-**Prereq:** 3rd-level occultist
 
 **Standard:** You can make a melee touch attack and expend 1 point of mental focus to cause the
 flesh of a living creature to rot and wither. If the attack hits, the target takes 1d8 points of
 damage + 1 point per occultist level you possess. If you miss with the melee touch attack, this
 power is wasted with no effect.
 
-At 7th level: The damage 2d8 + your occultist level.
+**At 7th level,** the damage 2d8 + your occultist level.
 
-At 11th level: The damage 3d8 + your occultist level.
+**At 11th level,** the damage 3d8 + your occultist level.
 
-At 15th level: The damage 4d8 + your occultist level.
+**At 15th level,** the damage 4d8 + your occultist level.
 
-At 19th level: The damage 5d8 + your occultist level.
+**At 19th level,** the damage 5d8 + your occultist level.
+
+**Prereq:** 3rd-level occultist
 
 **Necromantic Servant (Sp)**
-
-**At 13th Level:** When you take an immediate action to restore your servant, it splits into two
-servants. You can have a maximum number of servants in existence equal to
-[half](ref/misc/fractions-and-rounding) of your occultist level.
-
-**At 17th Level:** The servant gains a teamwork feat of your choice.
-
-**At 5th Level:** Whenever the necromantic servant would be destroyed, if you are within medium
-range (100 feet + 10 feet per level) of the servant, you can expend 1 point of mental focus as an
-**immediate action** to cause the servant to return to full hit points.
-
-**At 9th Level:** You can choose to give the servant the _bloody_ or _burning_ simple template (if
-it's a skeleton) or the _fast_ simple template (if it's a zombie).
 
 **Standard:** You can expend 1 point of mental focus to raise a single human
 [skeleton](ref/template/skeleton) or human [zombie](ref/template/zombie) from the ground to serve
@@ -95,11 +82,20 @@ maximum hit point total (not adjusted for temporary hit points or other temporar
 also uses your base attack bonus and gains a bonus on damage rolls equal to 1/2 your occultist
 level.
 
+**At 5th level,** whenever the necromantic servant would be destroyed, if you are within medium
+range (100 feet + 10 feet per level) of the servant, you can expend 1 point of mental focus as an
+**immediate action** to cause the servant to return to full hit points.
+
+**At 9th level,** you can choose to give the servant the _bloody_ or _burning_ simple template (if
+it's a skeleton) or the _fast_ simple template (if it's a zombie).
+
+**At 13th level,** when you take an immediate action to restore your servant, it splits into two
+servants. You can have a maximum number of servants in existence equal to
+[half](ref/misc/fractions-and-rounding) of your occultist level.
+
+**At 17th level,** the servant gains a teamwork feat of your choice.
+
 **Pain Wave (Sp)**
-
-**Prereq:** 7th-level occultist
-
-**Special:** This is a mind-affecting pain effect.
 
 **Standard:** You can expend 1 point of mental focus to unleash a wave of pain. This wave hits all
 creatures other than you in a 20-foot-radius [burst](ref/misc/burst) centered on a point that you
@@ -107,12 +103,11 @@ designate within 100 feet. All living creatures in this area are wracked with pa
 [sickened](ref/misc/sickened) condition for 1 round per occultist level you possess. Affected
 creatures can attempt a Will save to reduce the duration to just 1 round.
 
+**Prereq:** 7th-level occultist
+
+**Special:** This is a mind-affecting pain effect.
+
 **Psychic Curse (Sp)**
-
-**Prereq:** 5th-level occultist
-
-**Special:** A creature can't be under the effects of more than one _psychic curse_ at a time. This
-is a mind-affecting curse effect.
 
 **Standard:** You can expend 1 point of mental focus to curse a living creature within 30 feet with
 your psychic magic. You can choose one of the following effects: **memory lapse, mental block,** or
@@ -132,9 +127,14 @@ If you select **pain confusion,** the creature is [confused](ref/misc/confused) 
 whenever it is damaged by a critical hit. The target can attempt a Will save to negate this effect.
 This effect lasts for 1 day per occultist level you possess.
 
+**Prereq:** 5th-level occultist
+
+**Special:** A creature can't be under the effects of more than one _psychic curse_ at a time. This
+is a mind-affecting curse effect.
+
 **Soulbound Puppet (Su)**
 
-**Fullround:** You can expend 1 point of mental focus to create a _soulbound puppet_ from a bone,
+**Full-round:** You can expend 1 point of mental focus to create a _soulbound puppet_ from a bone,
 doll, or skull. If you use a bone or a skull, your power builds a Tiny or Small flesh puppet around
 it that vaguely resembles the original creature from which the bones were taken. If the implement is
 a doll, the doll comes to life.
@@ -152,18 +152,18 @@ animated for 10 minutes per occultist level you possess.
 
 **Spirit Shroud (Su)**
 
-**At 4th Level:** As long as the _shroud_ remains, you also gain a resistance bonus on all saving
-throws against death effects, fear effects, and any spells or effects that bestow
-[negative levels](ref/rule/energy-drain-and-negative-levels) or deal negative energy damage (if the
-spells or effects allow a save). This bonus is equal to one-fourth of your occultist level.
-
-**Prereq:** 3rd-level occultist
-
 **Standard:** You can expend 1 point of mental focus to surround yourself with a shroud of spirit
 energy. You gain a number of [temporary hit points](ref/rule/temporary-hit-points) equal to 1d6 +
 your occultist level. This _shroud_ lasts for 1 minute per occultist level or until the temporary
 hit points are expended, whichever comes first. These temporary hit points stack with those from
 other sources, but not with those gained through multiple uses of this ability.
+
+**At 4th level,** as long as the _shroud_ remains, you also gain a resistance bonus on all saving
+throws against death effects, fear effects, and any spells or effects that bestow
+[negative levels](ref/rule/energy-drain-and-negative-levels) or deal negative energy damage (if the
+spells or effects allow a save). This bonus is equal to one-fourth of your occultist level.
+
+**Prereq:** 3rd-level occultist
 
 ### Sacred Implement
 

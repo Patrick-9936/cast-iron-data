@@ -52,21 +52,25 @@ luminescent organ suspended by a fleshy tether hangs like a lantern above its he
 
 **Experience points:** 4,800
 
-**Armor class:** 22/11/21
+**Armor class:** 22
 
-**Fh:** 5
+**Touch:** 11
 
-**Fort:** +12
+**Flat-footed:** 21
+
+**AC modifiers:** +1 Dex, +11 natural
 
 **Hit points:** 105 (10d10+50)
 
-**Mod:** +1 Dex, +11 natural
+**Fort:** +12
 
 **Ref:** +8
 
-**Resist:** acid 10, cold 10
-
 **Will:** +7
+
+**Fh:** 5
+
+**Resist:** acid 10, cold 10
 
 **Offense**
 

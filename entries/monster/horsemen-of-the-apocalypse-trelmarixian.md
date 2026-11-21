@@ -53,7 +53,21 @@ flesh ripples disturbingly._
 
 **Experience points:** 3,276,800
 
-**Armor class:** 45/35/36
+**Armor class:** 45
+
+**Touch:** 35
+
+**Flat-footed:** 36
+
+**AC modifiers:** +4 deflection, +9 Dex, +10 natural, +12 profane
+
+**Hit points:** 656 (32d10+480)
+
+**Fort:** +29
+
+**Ref:** +31
+
+**Will:** +33
 
 **Amorph:** present
 
@@ -62,24 +76,14 @@ _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +29
-
-**Hit points:** 656 (32d10+480)
-
 **Immune:** ability damage, ability drain, acid, charm effects, compulsion effects, death effects,
 disease, energy drain, petrification, poison
-
-**Mod:** +4 deflection, +9 Dex, +10 natural, +12 profane
-
-**Ref:** +31
 
 **Regen:** 20 (deific or mythic)
 
 **Resist:** cold 30, electricity 30, fire 30
 
 **Sr:** 38
-
-**Will:** +33
 
 **Offense**
 

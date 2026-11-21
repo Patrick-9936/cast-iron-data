@@ -52,25 +52,29 @@ baleful hatred._
 
 **Experience points:** 9,600
 
-**Armor class:** 25/15/19
+**Armor class:** 25
 
-**Dr:** 10/good and silver
+**Touch:** 15
 
-**Fort:** +10
+**Flat-footed:** 19
+
+**AC modifiers:** +5 Dex, +1 dodge, +10 natural, -1 size
 
 **Hit points:** 136 (13d8+78)
 
-**Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 Dex, +1 dodge, +10 natural, -1 size
+**Fort:** +10
 
 **Ref:** +11
+
+**Will:** +14
+
+**Dr:** 10/good and silver
+
+**Immune:** cold, [undead traits](ref/umr/undead-traits)
 
 **Sr:** 21
 
 **Weaknesses:** light aversion
-
-**Will:** +14
 
 **Offense**
 

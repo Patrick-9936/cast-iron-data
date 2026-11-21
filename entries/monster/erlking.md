@@ -50,7 +50,21 @@ regal, elf-like humanoid._
 
 **Experience points:** 153,600
 
-**Armor class:** 34/15/29
+**Armor class:** 34
+
+**Touch:** 15
+
+**Flat-footed:** 29
+
+**AC modifiers:** +7 armor, +4 Dex, +1 dodge, +12 natural; +2 deflection vs. evil or law
+
+**Hit points:** 270 (20d6+200)
+
+**Fort:** +15
+
+**Ref:** +20
+
+**Will:** +17
 
 **Defensive abilities:** _[blur](ref/spell/blur)_,
 _[protection from evil](ref/spell/protection-from-evil)_ and _law_
@@ -59,19 +73,9 @@ _[protection from evil](ref/spell/protection-from-evil)_ and _law_
 
 **Fh:** 10
 
-**Fort:** +15
-
-**Hit points:** 270 (20d6+200)
-
 **Immune:** poison
 
-**Mod:** +7 armor, +4 Dex, +1 dodge, +12 natural; +2 deflection vs. evil or law
-
-**Ref:** +20
-
 **Resist:** acid 30, cold 30, electricity 30
-
-**Will:** +17
 
 **Offense**
 

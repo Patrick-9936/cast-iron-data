@@ -46,19 +46,23 @@ _The sinuous tail of this cat-sized winged, armless dragon is tipped with a scor
 
 **Experience points:** 600
 
-**Armor class:** 17/14/15
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +3 Natural, +2 Size
 
 **Hit points:** 22 (3d12+3)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +2 Dex, +3 Natural, +2 Size
+**Fort:** +4
 
 **Ref:** +5
 
 **Will:** +4
+
+**Immune:** paralysis, sleep
 
 **Offense**
 

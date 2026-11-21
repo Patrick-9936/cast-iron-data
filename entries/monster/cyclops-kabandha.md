@@ -50,19 +50,23 @@ _This tall giant has no head; instead, its one-eyed face rests in the center of 
 
 **Experience points:** 6,400
 
-**Armor class:** 25/12/22
+**Armor class:** 25
 
-**Ferocity:** present
+**Touch:** 12
 
-**Fort:** +13
+**Flat-footed:** 22
+
+**AC modifiers:** +6 armor, +3 Dex, +7 natural, -1 size
 
 **Hit points:** 119 (14d8+56)
 
-**Mod:** +6 armor, +3 Dex, +7 natural, -1 size
+**Fort:** +13
 
 **Ref:** +9
 
 **Will:** +8
+
+**Ferocity:** present
 
 **Offense**
 

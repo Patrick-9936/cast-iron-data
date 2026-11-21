@@ -51,25 +51,29 @@ by a fanged maw._
 
 **Experience points:** 4,800
 
-**Armor class:** 20/11/18
+**Armor class:** 20
 
-**Dr:** 10/cold iron or silver
+**Touch:** 11
 
-**Fort:** +11
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +9 natural, -1 size
 
 **Hit points:** 95 (10d10+40)
 
-**Immune:** acid, death effects, disease, poison, waters of the River Styx
-
-**Mod:** +2 Dex, +9 natural, -1 size
+**Fort:** +11
 
 **Ref:** +9
+
+**Will:** +3
+
+**Dr:** 10/cold iron or silver
+
+**Immune:** acid, death effects, disease, poison, waters of the River Styx
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 19
-
-**Will:** +3
 
 **Offense**
 

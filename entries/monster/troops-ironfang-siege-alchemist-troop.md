@@ -52,21 +52,25 @@ reservoirs brimming with strange fluids._
 
 **Experience points:** 76,800
 
-**Armor class:** 29/15/24
+**Armor class:** 29
 
-**Defensive abilities:** troop traits
+**Touch:** 15
 
-**Fort:** +20
+**Flat-footed:** 24
+
+**AC modifiers:** +4 armor, +4 Dex, +1 dodge, +10 natural
 
 **Hit points:** 241 (21d8+147)
 
-**Immune:** poison
-
-**Mod:** +4 armor, +4 Dex, +1 dodge, +10 natural
+**Fort:** +20
 
 **Ref:** +15
 
 **Will:** +10
+
+**Defensive abilities:** troop traits
+
+**Immune:** poison
 
 **Offense**
 

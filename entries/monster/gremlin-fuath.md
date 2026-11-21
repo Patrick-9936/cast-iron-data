@@ -51,17 +51,23 @@ _This waterlogged gremlin has lobster claws for hands and an almost canine face 
 
 **Experience points:** 400
 
-**Armor class:** 15/13/14
+**Armor class:** 15
 
-**Dr:** 5/cold iron
+**Touch:** 13
 
-**Fort:** +1
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +2 natural, +2 size
 
 **Hit points:** 7 (1d6+4)
 
-**Mod:** +1 Dex, +2 natural, +2 size
+**Fort:** +1
 
 **Ref:** +3
+
+**Will:** +3
+
+**Dr:** 5/cold iron
 
 **Resist:** cold 10
 
@@ -70,8 +76,6 @@ _This waterlogged gremlin has lobster claws for hands and an almost canine face 
 **Vulner:** fire
 
 **Weaknesses:** vulnerable to sunlight
-
-**Will:** +3
 
 **Offense**
 

@@ -55,21 +55,25 @@ with glinting metal and gems embedded into its surface._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/15/21
+**Armor class:** 23
 
-**Dr:** 10/magic
+**Touch:** 15
 
-**Fort:** +8
+**Flat-footed:** 21
+
+**AC modifiers:** +4 deflection, +1 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 115 (11d10+55)
 
-**Mod:** +4 deflection, +1 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +8
 
 **Ref:** +8
 
-**Resist:** cold 10, sonic 10
-
 **Will:** +11; +2 vs. illusion
+
+**Dr:** 10/magic
+
+**Resist:** cold 10, sonic 10
 
 **Offense**
 

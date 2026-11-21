@@ -49,25 +49,29 @@ intelligence and cruelty._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/8/28
+**Armor class:** 28
 
-**Dr:** 10/good
+**Touch:** 8
 
-**Fort:** +18
+**Flat-footed:** 28
+
+**AC modifiers:** +20 natural, -2 size
 
 **Hit points:** 186 (12d10+120)
 
-**Immune:** electricity, poison
-
-**Mod:** +20 natural, -2 size
+**Fort:** +18
 
 **Ref:** +4
+
+**Will:** +11
+
+**Dr:** 10/good
+
+**Immune:** electricity, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 24
-
-**Will:** +11
 
 **Offense**
 

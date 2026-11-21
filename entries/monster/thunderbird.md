@@ -50,19 +50,23 @@ that dances over its body._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/10/21
+**Armor class:** 25
 
-**Fort:** +14
+**Touch:** 10
+
+**Flat-footed:** 21
+
+**AC modifiers:** +3 Dex, +1 dodge, +15 natural, -4 size
 
 **Hit points:** 147 (14d10+70)
 
-**Immune:** electricity, sonic
-
-**Mod:** +3 Dex, +1 dodge, +15 natural, -4 size
+**Fort:** +14
 
 **Ref:** +12
 
 **Will:** +9
+
+**Immune:** electricity, sonic
 
 **Offense**
 

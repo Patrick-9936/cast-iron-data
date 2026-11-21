@@ -49,19 +49,23 @@ _Shimmering knots whirl and twist around a shining nucleus in this mound of gold
 
 **Experience points:** 25,600
 
-**Armor class:** 8/8/8
+**Armor class:** 8
 
-**Fort:** +13
+**Touch:** 8
+
+**Flat-footed:** 8
+
+**AC modifiers:** -1 Dex, -1 size
 
 **Hit points:** 187 (15d8+120)
 
-**Immune:** [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** -1 Dex, -1 size
+**Fort:** +13
 
 **Ref:** +4
 
 **Will:** +0
+
+**Immune:** [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

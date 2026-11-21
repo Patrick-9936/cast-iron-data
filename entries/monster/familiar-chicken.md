@@ -52,13 +52,17 @@ of its head._
 
 **Experience points:** 65
 
-**Armor class:** 12/12/12
+**Armor class:** 12
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 12
+
+**AC modifiers:** +2 size
 
 **Hit points:** 5 (1d8+1)
 
-**Mod:** +2 size
+**Fort:** +3
 
 **Ref:** +2
 

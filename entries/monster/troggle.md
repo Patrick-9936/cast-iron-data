@@ -51,19 +51,23 @@ tail, and gait give it a degenerate, bestial appearance._
 
 **Experience points:** 1,200
 
-**Armor class:** 15/10/14
+**Armor class:** 15
 
-**Fort:** +6
+**Touch:** 10
+
+**Flat-footed:** 14
+
+**AC modifiers:** +1 Dex, +5 natural, -1 size
 
 **Hit points:** 32 (5d8+10)
 
-**Mod:** +1 Dex, +5 natural, -1 size
+**Fort:** +6
 
 **Ref:** +2
 
-**Regen:** 5 (acid or fire)
-
 **Will:** +3
+
+**Regen:** 5 (acid or fire)
 
 **Offense**
 

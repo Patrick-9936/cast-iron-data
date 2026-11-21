@@ -52,19 +52,23 @@ snaggletoothed, horse-like face._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/13/14
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 13
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +4 natural
 
 **Hit points:** 38 (7d6+14)
 
-**Mod:** +3 Dex, +4 natural
+**Fort:** +4
 
 **Ref:** +8
 
-**Resist:** fire 10
-
 **Will:** +6
+
+**Resist:** fire 10
 
 **Offense**
 

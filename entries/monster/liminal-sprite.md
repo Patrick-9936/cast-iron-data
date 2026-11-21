@@ -49,23 +49,27 @@ wings on its back._
 
 **Experience points:** 600
 
-**Armor class:** 16/15/13
+**Armor class:** 16
 
-**Dr:** 5/cold iron
+**Touch:** 15
 
-**Fort:** +3
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 natural, +2 size
 
 **Hit points:** 16 (3d6+6)
 
-**Immune:** sleep
-
-**Mod:** +3 Dex, +1 natural, +2 size
+**Fort:** +3
 
 **Ref:** +6
 
-**Sr:** 13
-
 **Will:** +4
+
+**Dr:** 5/cold iron
+
+**Immune:** sleep
+
+**Sr:** 13
 
 **Offense**
 

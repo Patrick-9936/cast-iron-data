@@ -57,7 +57,21 @@ crown its head._
 
 **Experience points:** 409,600
 
-**Armor class:** 38/5/37
+**Armor class:** 38
+
+**Touch:** 5
+
+**Flat-footed:** 37
+
+**AC modifiers:** +1 Dex, +2 insight, +33 natural, -8 size
+
+**Hit points:** 399 (22d10+278)
+
+**Fort:** +22
+
+**Ref:** +18
+
+**Will:** +14
 
 **Defensive abilities:** mythic saving throws
 
@@ -65,21 +79,11 @@ crown its head._
 
 **Fh:** 10
 
-**Fort:** +22
-
-**Hit points:** 399 (22d10+278)
-
 **Immune:** acid, cold, electricity, poison
-
-**Mod:** +1 Dex, +2 insight, +33 natural, -8 size
-
-**Ref:** +18
 
 **Resist:** fire 10
 
 **Sr:** 32
-
-**Will:** +14
 
 **Offense**
 

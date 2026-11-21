@@ -53,21 +53,25 @@ filthy dust._
 
 **Experience points:** 800
 
-**Armor class:** 18/18/18
+**Armor class:** 18
 
-**Defensive abilities:** swarm traits
+**Touch:** 18
 
-**Fort:** +5
+**Flat-footed:** 18
+
+**AC modifiers:** +8 size
 
 **Hit points:** 22 (4d8+4)
 
-**Immune:** mind-affecting effects, weapon damage
-
-**Mod:** +8 size
+**Fort:** +5
 
 **Ref:** +1
 
 **Will:** +1; +4 vs. disease and paralysis
+
+**Defensive abilities:** swarm traits
+
+**Immune:** mind-affecting effects, weapon damage
 
 **Offense**
 

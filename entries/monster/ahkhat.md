@@ -57,19 +57,23 @@ humanoid with thick stony arms._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/12/16
+**Armor class:** 17
 
-**Fort:** +8
+**Touch:** 12
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +5 natural, +1 size
 
 **Hit points:** 38 (4d10+16)
 
-**Immune:** elemental traits
-
-**Mod:** +1 Dex, +5 natural, +1 size
+**Fort:** +8
 
 **Ref:** +5
 
 **Will:** +2
+
+**Immune:** elemental traits
 
 **Offense**
 

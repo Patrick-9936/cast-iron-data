@@ -48,23 +48,27 @@ blue light dances in its empty eye sockets._
 
 **Experience points:** 1,200
 
-**Armor class:** 16/12/14
+**Armor class:** 16
+
+**Touch:** 12
+
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +4 natural
+
+**Hit points:** 37 (5d8+15)
+
+**Fort:** +4
+
+**Ref:** +3
+
+**Will:** +7
 
 **Chan Res:** +2
 
 **Dr:** 5/bludgeoning and magic
 
-**Fort:** +4
-
-**Hit points:** 37 (5d8+15)
-
 **Immune:** cold, [undead traits](ref/umr/undead-traits)
-
-**Mod:** +2 Dex, +4 natural
-
-**Ref:** +3
-
-**Will:** +7
 
 **Offense**
 

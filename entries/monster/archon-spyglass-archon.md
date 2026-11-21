@@ -54,23 +54,27 @@ figure's stealthy appearance._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Dr:** 5/evil
+**Touch:** 12
 
-**Fort:** +2
+**Flat-footed:** 13
+
+**AC modifiers:** +2 armor, +2 Dex, +1 natural
 
 **Hit points:** 26 (4d10+4)
 
-**Immune:** electricity, petrification
-
-**Mod:** +2 armor, +2 Dex, +1 natural
+**Fort:** +2
 
 **Ref:** +6
 
-**Sr:** 14
-
 **Will:** +4; +4 vs. poison
+
+**Dr:** 5/evil
+
+**Immune:** electricity, petrification
+
+**Sr:** 14
 
 **Offense**
 

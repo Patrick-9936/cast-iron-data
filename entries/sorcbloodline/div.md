@@ -55,12 +55,12 @@ The corrupt blood within you grants you powers to devastate the works and bonds 
 
 **Spoiling Touch (Su)**
 
+**Gained:** At 1st Level
+
 **Ability:** You can impose the [broken](ref/misc/broken) condition upon one Medium or smaller
 object by making a successful melee touch attack. Magical items or objects carried or worn by a
 creature are allowed a Fortitude save to resist this effect. Multiple uses of this effect do not
 stack.
-
-**Gained:** At 1st Level
 
 **Usage:** 3 + Charisma modifier times/day
 
@@ -71,10 +71,12 @@ stack.
 **Passive:** You gain fire [resistance](ref/umr/resistance) 5 and a +2 bonus on saving throws
 against poison.
 
-**At 9th Level:** Your resistance to fire increases to 10 and your bonus on saving throws against
+**At 9th level,** your resistance to fire increases to 10 and your bonus on saving throws against
 poison increases to +4.
 
 **Corrupting Aura (Ex)**
+
+**Gained:** At 9th Level
 
 **Ability:** Once per day, you can surround yourself with an aura of corrupting energy for a number
 of rounds per day equal to your sorcerer level. Any creature within 10 feet of you takes nonlethal
@@ -83,17 +85,15 @@ damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) of your sorcerer l
 casting a divine spell must succeed at a caster level check (DC 15 + double the level of the spell)
 or lose the spell.
 
-**Gained:** At 9th Level
+**At 17th level,** you can use this ability twice per day.
 
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times a day.
+**At 20th level,** you can use this ability three times a day.
 
 **Squander (Su)**
 
-**Flavor:** You gain the ability to force others to waste the opportunities they are given.
-
 **Gained:** At 15th Level
+
+**Flavor:** You gain the ability to force others to waste the opportunities they are given.
 
 **Standard:** Once per day, you can cause a target within 30 feet to gain the
 [staggered](ref/misc/staggered) condition for a number of rounds equal to your sorcerer level. The
@@ -102,9 +102,9 @@ your Cha modifier).
 
 **Ahriman's Favor (Su)**
 
-**Ability:** You gain immunity to fire and poison. You also gain acid resistance 10 and electricity
-resistance 10, and the ability to see perfectly in darkness of any kind to a range of 60 feet.
+**Gained:** At 20th Level
 
 **Flavor:** You are filled with [Ahriman's](ref/monster/ahriman) wickedness.
 
-**Gained:** At 20th Level
+**Ability:** You gain immunity to fire and poison. You also gain acid resistance 10 and electricity
+resistance 10, and the ability to see perfectly in darkness of any kind to a range of 60 feet.

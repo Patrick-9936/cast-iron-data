@@ -53,25 +53,29 @@ encompassed all the night sky._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/24/27
+**Armor class:** 36
 
-**Fh:** 10
+**Touch:** 24
 
-**Fort:** +24
+**Flat-footed:** 27
+
+**AC modifiers:** +6 deflection, +8 Dex, +1 dodge, +12 natural, -1 size
 
 **Hit points:** 324 (24d10+192)
 
-**Immune:** cold, critical hits, poison
-
-**Mod:** +6 deflection, +8 Dex, +1 dodge, +12 natural, -1 size
+**Fort:** +24
 
 **Ref:** +18
+
+**Will:** +26
+
+**Fh:** 10
+
+**Immune:** cold, critical hits, poison
 
 **Resist:** electricity 10, fire 10
 
 **Sr:** 31
-
-**Will:** +26
 
 **Offense**
 

@@ -52,27 +52,31 @@ _The facets of this crystalline dragon's body reflect fascinating and sparkling 
 
 **Experience points:** 102,400
 
-**Armor class:** 35/9/34
+**Armor class:** 35
+
+**Touch:** 9
+
+**Flat-footed:** 34
+
+**AC modifiers:** +1 Dex, +26 natural, -2 size
+
+**Hit points:** 283 (21d12+147)
+
+**Fort:** +21
+
+**Ref:** +15
+
+**Will:** +17; +4 vs. psychic spells
 
 **Defensive abilities:** all-around vision, psychic resilience, ray reflection
 
 **Dr:** 15/magic
 
-**Fort:** +21
-
-**Hit points:** 283 (21d12+147)
-
 **Immune:** acid, electricity, paralysis, sleep
-
-**Mod:** +1 Dex, +26 natural, -2 size
-
-**Ref:** +15
 
 **Sr:** 28
 
 **Vulner:** sonic
-
-**Will:** +17; +4 vs. psychic spells
 
 **Offense**
 

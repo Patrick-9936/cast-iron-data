@@ -14,6 +14,9 @@ group = "witch-hex"
 
 **Cook People (Su)**
 
+**Flavor:** The witch can create fabulous spells by cooking an intelligent humanoid creature in her
+cauldron, either alive or dead.
+
 **Ability:** Using this hex creates one meal or serving of food of the witch's choice, typically a
 delicious stew or a dough suitable for cookies, pastries, or other desserts. Cooking the victim
 takes 1 hour.
@@ -27,9 +30,6 @@ Eating the food provides one of the following benefits for 1 hour:
 
 Alternatively, the witch can shape the dough into a Small, human-like creature, animating it as a
 [homunculus](ref/monster/homunculus) for 1 hour.
-
-**Flavor:** The witch can create fabulous spells by cooking an intelligent humanoid creature in her
-cauldron, either alive or dead.
 
 **Prereq:** [Cauldron](ref/hex/cauldron)
 

@@ -50,21 +50,25 @@ _A curved shell protects an unsightly mass of barbed tentacles, ringed by numero
 
 **Experience points:** 4,800
 
-**Armor class:** 22/12/19
+**Armor class:** 22
 
-**Fort:** +9
+**Touch:** 12
+
+**Flat-footed:** 19
+
+**AC modifiers:** +3 Dex, +10 natural, -1 size
 
 **Hit points:** 104 (11d8+55)
 
-**Immune:** disease, mind-affecting effects, poison
-
-**Mod:** +3 Dex, +10 natural, -1 size
+**Fort:** +9
 
 **Ref:** +6
 
-**Resist:** cold 10, electricity 10
-
 **Will:** +12
+
+**Immune:** disease, mind-affecting effects, poison
+
+**Resist:** cold 10, electricity 10
 
 **Offense**
 

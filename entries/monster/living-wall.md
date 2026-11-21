@@ -49,25 +49,29 @@ limbs, topped with a dragon skull._
 
 **Experience points:** 1,200
 
-**Armor class:** 12/5/12
+**Armor class:** 12
+
+**Touch:** 5
+
+**Flat-footed:** 12
+
+**AC modifiers:** -4 Dex, +7 natural, -1 size
+
+**Hit points:** 46 (3d10+30)
+
+**Fort:** +1
+
+**Ref:** -3
+
+**Will:** +1
 
 **Dr:** 5/slashing
 
 **Fh:** 1
 
-**Fort:** +1
-
-**Hit points:** 46 (3d10+30)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
 
-**Mod:** -4 Dex, +7 natural, -1 size
-
-**Ref:** -3
-
 **Resist:** acid 5, cold 5, fire 5
-
-**Will:** +1
 
 **Offense**
 

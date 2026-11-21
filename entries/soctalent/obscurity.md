@@ -14,13 +14,13 @@ group = "social-talent"
 
 **Obscurity (Ex)**
 
+**Flavor:** The vigilante is relatively unknown socially. In fact, he makes a point of keeping the
+life of his social identity as ordinary as possible.
+
 **Ability:** This social talent functions exactly as the [renown](ref/soctalent/renown) social
 talent, but instead of improving the starting attitude of all NPCs within the community, it empowers
 the vigilante so that he no longer needs to succeed at Disguise checks to appear as his social
 identity while assuming that identity within his area of _obscurity._
-
-**Flavor:** The vigilante is relatively unknown socially. In fact, he makes a point of keeping the
-life of his social identity as ordinary as possible.
 
 **Special:** He still has to attempt Disguise checks when NPCs within this settlement are confronted
 with indisputable proof that the vigilante could be more than he appears to be, such as when he uses

@@ -50,21 +50,25 @@ _A writhing carpet of ants seethes over the ground, consuming everything in its 
 
 **Experience points:** 1,600
 
-**Armor class:** 20/20/18
+**Armor class:** 20
 
-**Defensive abilities:** swarm traits
+**Touch:** 20
 
-**Fort:** +7
+**Flat-footed:** 18
+
+**AC modifiers:** +8 size, +2 Dex
 
 **Hit points:** 49 (11d8)
 
-**Immune:** weapon damage
-
-**Mod:** +8 size, +2 Dex
+**Fort:** +7
 
 **Ref:** +5
 
 **Will:** +3
+
+**Defensive abilities:** swarm traits
+
+**Immune:** weapon damage
 
 **Offense**
 

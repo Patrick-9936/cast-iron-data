@@ -51,13 +51,17 @@ scrolls and wands. Winding, swirling tattoos climb across his body and face._
 
 **Experience points:** 3,200
 
-**Armor class:** 13/12/11
+**Armor class:** 13
 
-**Fort:** +5
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 deflection, +2 Dex, +1 natural, -1 size
 
 **Hit points:** 86 (7d6+4d10+40\~11)
 
-**Mod:** +1 deflection, +2 Dex, +1 natural, -1 size
+**Fort:** +5
 
 **Ref:** +8
 

@@ -50,23 +50,27 @@ _A blue-green vine covered with stiff, verdant leaves and barbed thorns protrude
 
 **Experience points:** 400
 
-**Armor class:** 12/12/10
+**Armor class:** 12
 
-**Fort:** +3
+**Touch:** 12
+
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex
 
 **Hit points:** 13 (3d8)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex
+**Fort:** +3
 
 **Ref:** +3
+
+**Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Resist:** electricity 5, fire 5
 
 **Vulner:** acid
-
-**Will:** +1
 
 **Offense**
 

@@ -49,9 +49,9 @@ A shaman who chooses the Flame spirit can select from the following hexes.
 
 **Ability:** The shaman's base speed increases by 10 feet.
 
-**At 10th Level:** The shaman receives [Acrobatic Steps](ref/feat/acrobatic-steps) as a bonus feat.
+**At 5th level,** the shaman receives [Nimble Moves](ref/feat/nimble-moves) as a bonus feat.
 
-**At 5th Level:** The shaman receives [Nimble Moves](ref/feat/nimble-moves) as a bonus feat.
+**At 10th level,** the shaman receives [Acrobatic Steps](ref/feat/acrobatic-steps) as a bonus feat.
 
 **Special:** The shaman doesn't need to meet the prerequisites of these feats.
 
@@ -76,18 +76,18 @@ again for 24 hours.
 creature is already vulnerable to fire, this hex has no effect. Fire immunity and resistances apply
 as normal, and any saving throw allowed by the effect that caused the damage reduces it as normal.
 
+**At 8th level,** the duration of this hex is extended by 1 round.
+
+**At 16th level,** the duration of this hex is extended by another 1 round.
+
 **Special:** A creature affected by this hex cannot be affected by it again for 24 hours.
-
-At 8th level: The duration of this hex is extended by 1 round.
-
-At 16th level: The duration of this hex is extended by another 1 round.
 
 **Gaze of Flames (Su)**
 
 **Ability:** The shaman sees through fire, fog, and smoke without penalty as long as there is enough
 light to otherwise allow her to see normally.
 
-**At 7th Level:** The shaman can gaze through any source of flame within 10 feet per shaman level,
+**At 7th level,** the shaman can gaze through any source of flame within 10 feet per shaman level,
 as [clairaudience](ref/spell/clairaudience-clairvoyance). The shaman can use this ability a number
 of rounds per day equal to her shaman level, but these rounds do not need to be consecutive.
 
@@ -98,11 +98,11 @@ flames._ The next time the warded creature is struck with a melee attack, the cr
 attack takes an amount of fire damage equal to 1d6 + [half](ref/misc/fractions-and-rounding) her
 shaman level. This _ward_ lasts for 1 minute, after which it fades away if not already expended.
 
+**At 8th level,** this hex now persists through 2 attacks.
+
+**At 16th level,** this hex now persists through 3 attacks.
+
 **Special:** A creature affected by this hex cannot be affected by it again for 24 hours.
-
-At 8th level: This hex now persists through 2 attacks.
-
-At 16th level: This hex now persists through 3 attacks.
 
 ### Spirit Animal
 
@@ -119,12 +119,12 @@ ability.
 
 **Touch of Flame (Su)**
 
-**At 11th Level:** Any weapon she wields is treated as a [flaming](ref/magic-enh/flaming) weapon.
-
 **Standard:** The shaman can make a melee touch attack that deals 1an amount of fire damage equal to
 1d6 + [half](ref/misc/fractions-and-rounding) her shaman level.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**At 11th level,** any weapon she wields is treated as a [flaming](ref/magic-enh/flaming) weapon.
 
 ### Greater Spirit Ability
 

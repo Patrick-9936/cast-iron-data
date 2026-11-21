@@ -49,13 +49,17 @@ legs._
 
 **Experience points:** 2,400
 
-**Armor class:** 18/9/18
+**Armor class:** 18
 
-**Fort:** +10
+**Touch:** 9
+
+**Flat-footed:** 18
+
+**AC modifiers:** +9 natural, -1 size
 
 **Hit points:** 68 (8d8+32)
 
-**Mod:** +9 natural, -1 size
+**Fort:** +10
 
 **Ref:** +6
 

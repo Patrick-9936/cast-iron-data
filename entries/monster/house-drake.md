@@ -48,21 +48,25 @@ tail has a silvery sheen._
 
 **Experience points:** 600
 
-**Armor class:** 16/14/14
+**Armor class:** 16
 
-**Defensive abilities:** ferocious will
+**Touch:** 14
 
-**Fort:** +6
+**Flat-footed:** 14
+
+**AC modifiers:** +2 Dex, +2 natural, +2 size
 
 **Hit points:** 19 (2d12+6)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +2 Dex, +2 natural, +2 size
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +7
+
+**Defensive abilities:** ferocious will
+
+**Immune:** paralysis, sleep
 
 **Offense**
 

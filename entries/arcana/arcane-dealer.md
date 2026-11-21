@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Arcane Dealer (Su):**
+**Arcane Dealer (Su)**
 
 **Ability:** The magus gains the [Deadly Dealer](ref/feat/deadly-dealer) feat, even if he does not
 meet the prerequisites. He can use his arcane pool to grant a [deck of cards](ref/eq-misc/cards) an

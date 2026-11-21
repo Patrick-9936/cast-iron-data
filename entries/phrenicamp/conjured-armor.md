@@ -19,6 +19,6 @@ or summons with the linked spell a +2 deflection bonus to AC. This bonus lasts f
 caster level or until the creature disappears, whichever comes first. This amplification can be
 linked only to conjuration (calling) or conjuration (summoning) spells.
 
-At 8th level: The bonus increases to +3.
+**At 8th level,** the bonus increases to +3.
 
-At 15th level: The bonus increases to +4.
+**At 15th level,** the bonus increases to +4.

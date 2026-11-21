@@ -51,7 +51,21 @@ thread and a pair of shears._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/21/31
+**Armor class:** 33
+
+**Touch:** 21
+
+**Flat-footed:** 31
+
+**AC modifiers:** +7 armor, +2 Dex, +10 insight, +5 natural, -1 size
+
+**Hit points:** 270 (20d6+200)
+
+**Fort:** +18
+
+**Ref:** +18
+
+**Will:** +21
 
 **Defensive abilities:** _[death ward](ref/spell/death-ward)_, fated,
 _[foresight](ref/spell/foresight)_, _[mind blank](ref/spell/mind-blank)_, never surprised or
@@ -59,23 +73,13 @@ flat-footed
 
 **Dr:** 15/cold iron
 
-**Fort:** +18
-
-**Hit points:** 270 (20d6+200)
-
 **Immune:** cold
-
-**Mod:** +7 armor, +2 Dex, +10 insight, +5 natural, -1 size
-
-**Ref:** +18
 
 **Regen:** 10 (cold iron)
 
 **Resist:** acid 30, electricity 30, fire 30
 
 **Sr:** 29
-
-**Will:** +21
 
 **Offense**
 

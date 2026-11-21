@@ -78,9 +78,9 @@ target takes a penalty on the roll equal to 1 + [one-sixth](ref/misc/fractions-a
 psychic level. If the target fails its attack roll, save, or skill check, you regain 1 point in your
 phrenic pool.
 
-**Special:** This is a mind-affecting emotion effect.
-
 **Usage:** 3 + Charisma modifier times/day
+
+**Special:** This is a mind-affecting emotion effect.
 
 **Wave of Gloom (Su)**
 

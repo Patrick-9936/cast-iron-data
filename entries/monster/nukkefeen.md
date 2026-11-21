@@ -48,21 +48,25 @@ _This eerie creature resembles a human with oddly segmented limbs, waxen skin, a
 
 **Experience points:** 400
 
-**Armor class:** 12/12/10
+**Armor class:** 12
 
-**Dr:** 2/cold iron
+**Touch:** 12
 
-**Fort:** +1
+**Flat-footed:** 10
+
+**AC modifiers:** +2 Dex
 
 **Hit points:** 14 (4d6)
 
-**Mod:** +2 Dex
+**Fort:** +1
 
 **Ref:** +6
 
-**Weaknesses:** blind
-
 **Will:** +4
+
+**Dr:** 2/cold iron
+
+**Weaknesses:** blind
 
 **Offense**
 

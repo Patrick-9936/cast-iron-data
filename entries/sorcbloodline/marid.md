@@ -74,14 +74,14 @@ sorcerer level.
 
 **Passive:** You gain cold resistance 10.
 
-**At 9th Level:** Your cold resistance increases to 20.
+**At 9th level,** your cold resistance increases to 20.
 
 **Water's Fury (Su)**
 
+**Gained:** At 9th Level
+
 **Flavor:** You gain the ability to summon a rushing jet of water from the elemental plane of water
 and direct it against your foes.
-
-**Gained:** At 9th Level
 
 **Standard:** You can create a jet of water in a 60-foot line that deals 1d6 points of damage per
 two sorcerer levels you possess, and [blinds](ref/misc/blinded) the target that was struck for 1d6
@@ -90,9 +90,9 @@ half and negates the blinding effect.
 
 **Elemental Movement (Su)**
 
-**Ability:** You gain a swim speed of 60 feet.
-
 **Gained:** At 15th Level
+
+**Ability:** You gain a swim speed of 60 feet.
 
 **Power of the Marid (Su)**
 
@@ -126,6 +126,8 @@ Your mastery over water is coupled with the power to alter it.
 
 **Sweeping Waves (Su)**
 
+**Gained:** At 15th Level
+
 **Ability:** You can summon a wave of water from within, which pours from your mouth and violently
 sweeps creatures away from you on all sides. Creatures within 5 feet of you must succeed at a Reflex
 save (the DC is equal to 10 + half your sorcerer level + your Charisma modifier) or take a number of
@@ -136,7 +138,5 @@ caster level as your base attack bonus and your Charisma modifier as your Streng
 determine the CMB of the bull rush.
 
 A successful save halves the damage and negates the bull rush.
-
-**Gained:** At 15th Level
 
 **Replaces:** Elemental Movement

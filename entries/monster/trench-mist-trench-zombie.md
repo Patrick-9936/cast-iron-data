@@ -51,25 +51,29 @@ abilities = ["17", "18", "-", "10", "12", "8"]
 
 **Experience points:** 2,400
 
-**Armor class:** 18/15/13
+**Armor class:** 18
+
+**Touch:** 15
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +1 dodge, +3 natural
+
+**Hit points:** 43 (6d10+6)
+
+**Fort:** +4
+
+**Ref:** +6
+
+**Will:** +3 (+2 vs. fear)
 
 **Defensive abilities:** bravery +2
 
 **Dr:** 5/magic and slashing
 
-**Fort:** +4
-
-**Hit points:** 43 (6d10+6)
-
 **Immune:** acid, cold, electricity, [undead traits](ref/umr/undead-traits)
 
-**Mod:** +4 Dex, +1 dodge, +3 natural
-
-**Ref:** +6
-
 **Resist:** fire 10
-
-**Will:** +3 (+2 vs. fear)
 
 **Offense**
 

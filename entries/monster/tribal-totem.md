@@ -51,25 +51,29 @@ of lacquer and resin assaults the senses as it draws near with a menacing, ponde
 
 **Experience points:** 2,400
 
-**Armor class:** 19/12/17
+**Armor class:** 19
 
-**Dr:** 5/slashing
+**Touch:** 12
 
-**Fort:** +3
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +7 natural
 
 **Hit points:** 69 (9d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +2 Dex, +7 natural
+**Fort:** +3
 
 **Ref:** +5
+
+**Will:** +4
+
+**Dr:** 5/slashing
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Vulner:** fire
 
 **Weaknesses:** ceremonial activation
-
-**Will:** +4
 
 **Offense**
 

@@ -53,25 +53,29 @@ face is a disturbing, toothless maw._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/12/16
+**Armor class:** 18
 
-**Dr:** 5/good or silver
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 16
+
+**AC modifiers:** +2 Dex, +6 natural
 
 **Hit points:** 51 (6d10+18)
 
-**Immune:** acid, death effects, disease, poison
-
-**Mod:** +2 Dex, +6 natural
+**Fort:** +5
 
 **Ref:** +7
+
+**Will:** +8
+
+**Dr:** 5/good or silver
+
+**Immune:** acid, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 16
-
-**Will:** +8
 
 **Offense**
 

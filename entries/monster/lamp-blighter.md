@@ -52,23 +52,27 @@ neck._
 
 **Experience points:** 2,400
 
-**Armor class:** 17/17/11
+**Armor class:** 17
+
+**Touch:** 17
+
+**Flat-footed:** 11
+
+**AC modifiers:** +5 Dex, +1 dodge, +1 size
+
+**Hit points:** 45 (10d6+10)
+
+**Fort:** +4
+
+**Ref:** +12
+
+**Will:** +9
 
 **Defensive abilities:** invisibility
 
 **Dr:** 10/cold iron
 
-**Fort:** +4
-
-**Hit points:** 45 (10d6+10)
-
-**Mod:** +5 Dex, +1 dodge, +1 size
-
-**Ref:** +12
-
 **Sr:** 17
-
-**Will:** +9
 
 **Offense**
 

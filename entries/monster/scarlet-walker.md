@@ -52,27 +52,31 @@ but some horrid mix of the two._
 
 **Experience points:** 19,200
 
-**Armor class:** 28/18/18
+**Armor class:** 28
+
+**Touch:** 18
+
+**Flat-footed:** 18
+
+**AC modifiers:** +9 Dex, +1 dodge, +10 natural, -2 size
+
+**Hit points:** 168 (16d10+80)
+
+**Fort:** +10
+
+**Ref:** +19
+
+**Will:** +15
 
 **Evasion:** present
 
 **Fh:** 10
 
-**Fort:** +10
-
-**Hit points:** 168 (16d10+80)
-
 **Immune:** acid, cold, poison
-
-**Mod:** +9 Dex, +1 dodge, +10 natural, -2 size
-
-**Ref:** +19
 
 **Sr:** 23
 
 **Vulner:** electricity
-
-**Will:** +15
 
 **Offense**
 

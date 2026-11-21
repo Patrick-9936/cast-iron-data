@@ -50,23 +50,27 @@ _This woman's fox-like tail and the wood-lined hollow inside her back reveal her
 
 **Experience points:** 1,200
 
-**Armor class:** 17/14/13
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +3 natural
 
 **Hit points:** 38 (7d6+14)
 
-**Immune:** charm effects, compulsion effects
-
-**Mod:** +3 Dex, +1 dodge, +3 natural
+**Fort:** +4
 
 **Ref:** +8
+
+**Will:** +7
+
+**Immune:** charm effects, compulsion effects
 
 **Regen:** 3 (acid or fire)
 
 **Resist:** cold 10
-
-**Will:** +7
 
 **Offense**
 

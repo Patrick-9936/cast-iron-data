@@ -51,13 +51,17 @@ looks the most ferocious._
 
 **Experience points:** 600
 
-**Armor class:** 14/12/11
+**Armor class:** 14
 
-**Fort:** +6
+**Touch:** 12
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +2 natural, -1 size
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +3 Dex, +2 natural, -1 size
+**Fort:** +6
 
 **Ref:** +6
 

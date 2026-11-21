@@ -49,13 +49,17 @@ which are longer than the rest._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/11/16
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 16
+
+**AC modifiers:** +1 Dex, +6 natural
 
 **Hit points:** 39 (6d8+12)
 
-**Mod:** +1 Dex, +6 natural
+**Fort:** +4
 
 **Ref:** +5
 

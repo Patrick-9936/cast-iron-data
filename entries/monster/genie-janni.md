@@ -52,19 +52,23 @@ strange light._
 
 **Experience points:** 1,200
 
-**Armor class:** 20/13/17
+**Armor class:** 20
 
-**Fort:** +6
+**Touch:** 13
+
+**Flat-footed:** 17
+
+**AC modifiers:** +6 armor, +2 Dex, +1 dodge, +1 natural
 
 **Hit points:** 39 (6d10+6)
 
-**Mod:** +6 armor, +2 Dex, +1 dodge, +1 natural
+**Fort:** +6
 
 **Ref:** +7
 
-**Resist:** fire 10
-
 **Will:** +4
+
+**Resist:** fire 10
 
 **Offense**
 

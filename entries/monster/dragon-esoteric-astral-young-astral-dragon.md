@@ -53,23 +53,27 @@ _This majestic dragon seems to shimmer as if surrounded by thousands of eddies o
 
 **Experience points:** 6,400
 
-**Armor class:** 21/11/19
+**Armor class:** 21
 
-**Defensive abilities:** psychic resilience
+**Touch:** 11
 
-**Fort:** +10
+**Flat-footed:** 19
+
+**AC modifiers:** +2 Dex, +10 natural, -1 size
 
 **Hit points:** 95 (10d12+30)
 
-**Immune:** paralysis, sleep
-
-**Mod:** +2 Dex, +10 natural, -1 size
+**Fort:** +10
 
 **Ref:** +9
 
-**Sr:** 20
-
 **Will:** +10; +4 vs. psychic spells
+
+**Defensive abilities:** psychic resilience
+
+**Immune:** paralysis, sleep
+
+**Sr:** 20
 
 **Offense**
 

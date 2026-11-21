@@ -51,19 +51,23 @@ _This multi-eyed eel's brightly colored markings shift in complex, ever-changing
 
 **Experience points:** 9,600
 
-**Armor class:** 25/11/22
+**Armor class:** 25
 
-**Fort:** +14
+**Touch:** 11
+
+**Flat-footed:** 22
+
+**AC modifiers:** +3 Dex, +14 natural, -2 size
 
 **Hit points:** 147 (14d10+70)
 
-**Mod:** +3 Dex, +14 natural, -2 size
+**Fort:** +14
 
 **Ref:** +12
 
-**Sr:** 21 (in water only)
-
 **Will:** +8
+
+**Sr:** 21 (in water only)
 
 **Offense**
 

@@ -49,19 +49,23 @@ bloodstained burlap sack hangs over its shoulder._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/12/15
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +2 Dex, +5 natural
 
 **Hit points:** 45 (7d6+21)
 
-**Mod:** +2 Dex, +5 natural
+**Fort:** +5
 
 **Ref:** +7
 
 **Will:** +6
+
+**Dr:** 5/cold iron
 
 **Offense**
 

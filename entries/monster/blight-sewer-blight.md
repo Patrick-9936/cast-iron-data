@@ -54,23 +54,27 @@ two long, slimy, claw-tipped tentacles._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/18/22
+**Armor class:** 30
+
+**Touch:** 18
+
+**Flat-footed:** 22
+
+**AC modifiers:** +8 Dex, +12 natural
+
+**Hit points:** 229 (17d8+153)
+
+**Fort:** +16
+
+**Ref:** +15
+
+**Will:** +13
 
 **Defensive abilities:** acidic spray, rejuvenation
 
 **Fh:** 10
 
-**Fort:** +16
-
-**Hit points:** 229 (17d8+153)
-
 **Immune:** acid, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +8 Dex, +12 natural
-
-**Ref:** +15
-
-**Will:** +13
 
 **Offense**
 

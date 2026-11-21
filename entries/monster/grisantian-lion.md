@@ -47,23 +47,27 @@ _This massive lion's fur and skin shimmer with a golden sheen._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/13/24
+**Armor class:** 29
 
-**Dr:** 10/epic
+**Touch:** 13
 
-**Fort:** +16
+**Flat-footed:** 24
+
+**AC modifiers:** +5 Dex, +16 natural, -2 size
 
 **Hit points:** 184 (16d10+96)
 
-**Immune:** disease, poison
-
-**Mod:** +5 Dex, +16 natural, -2 size
+**Fort:** +16
 
 **Ref:** +15
 
-**Resist:** fire 10
-
 **Will:** +8
+
+**Dr:** 10/epic
+
+**Immune:** disease, poison
+
+**Resist:** fire 10
 
 **Offense**
 

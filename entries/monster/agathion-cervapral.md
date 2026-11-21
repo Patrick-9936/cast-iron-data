@@ -50,25 +50,29 @@ its chest and neck._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Dr:** 5/evil or silver
+**Touch:** 14
 
-**Fort:** +5
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
 
 **Hit points:** 51 (6d10+18)
 
-**Immune:** electricity, petrification
-
-**Mod:** +4 Dex, +4 natural
+**Fort:** +5
 
 **Ref:** +9
+
+**Will:** +7; +4 vs. poison
+
+**Dr:** 5/evil or silver
+
+**Immune:** electricity, petrification
 
 **Resist:** cold 10, sonic 10
 
 **Sr:** 16
-
-**Will:** +7; +4 vs. poison
 
 **Offense**
 

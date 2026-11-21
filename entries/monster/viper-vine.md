@@ -50,21 +50,25 @@ serpent ready to strike._
 
 **Experience points:** 25,600
 
-**Armor class:** 27/14/22
+**Armor class:** 27
 
-**Fort:** +16
+**Touch:** 14
+
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +1 dodge, +13 natural, -1 size
 
 **Hit points:** 190 (20d8+100)
 
-**Immune:** acid, [plant traits](ref/umr/plant-traits)
-
-**Mod:** +4 Dex, +1 dodge, +13 natural, -1 size
+**Fort:** +16
 
 **Ref:** +12
 
-**Weaknesses:** cold lethargy
-
 **Will:** +6
+
+**Immune:** acid, [plant traits](ref/umr/plant-traits)
+
+**Weaknesses:** cold lethargy
 
 **Offense**
 

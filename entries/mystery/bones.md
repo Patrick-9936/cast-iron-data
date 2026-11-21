@@ -51,18 +51,18 @@ An oracle with the Bones mystery can choose from any of the following revelation
 
 **Ability:** You can conjure armor made of bones that grants you a +4 armor bonus.
 
-**At 13th Level:** This armor grants you DR 5/bludgeoning.
-
 **Usage:** 1 hour/day per oracle level; these hours need not be consecutive, but must be spent in
 1-hour increments
 
-At 7th level: The armor's bonus increases to +6.
+**At 7th level,** the armor's bonus increases to +6.
 
-At 11th level: The armor's bonus increases to +8.
+**At 11th level,** the armor's bonus increases to +8.
 
-At 15th level: The armor's bonus increases to +10.
+**At 13th level,** this armor grants you DR 5/bludgeoning.
 
-At 19th level: The armor's bonus increases to +12.
+**At 15th level,** the armor's bonus increases to +10.
+
+**At 19th level,** the armor's bonus increases to +12.
 
 **Bleeding Wounds (Su)**
 
@@ -86,38 +86,38 @@ If used against an undead creature, it heals damage and grants a +2
 
 **Near Death (Su)**
 
-**At 11th Level:** The bonus increases to +4.
-
-**At 7th Level:** This bonus also applies on saves against death effects, sleep effects, and
-stunning.
-
 **Passive:** You gain a +2 insight bonus on saves against diseases, mind-affecting effects, and
 poisons.
 
+**At 7th level,** this bonus also applies on saves against death effects, sleep effects, and
+stunning.
+
+**At 11th level,** the bonus increases to +4.
+
 **Raise the Dead (Su)**
-
-**At 10th Level:** You can use this ability twice a day.
-
-**At 15th Level:** You can summon an [advanced](ref/template/advanced) skeleton or zombie.
-
-**At 7th Level:** You can summon a _bloody skeleton_ or _fast zombie._
 
 **Standard:** Once per day, you can summon a single [skeleton](ref/template/skeleton) or
 [zombie](ref/template/zombie) to serve you. The undead creature has a number of Hit Dice equal to
 your oracle level. It remains for a number of rounds equal to your Charisma modifier.
 
-**Resist Life (Su)**
+**At 7th level,** you can summon a _bloody skeleton_ or _fast zombie._
 
-**At 7th Level:** You receive [channel resistance](ref/rule/channel-resistance) +2.
+**At 10th level,** you can use this ability twice a day.
+
+**At 15th level,** you can summon an [advanced](ref/template/advanced) skeleton or zombie.
+
+**Resist Life (Su)**
 
 **Passive:** You are treated as an undead creature when you are targeted by positive or negative
 energy. You are not subject to [Turn Undead](ref/feat/turn-undead) or
 [Command Undead](ref/feat/command-undead) (or any other effect that specifically targets undead),
 unless you are actually an undead creature.
 
-At 11th level: This bonus increases to +4.
+**At 7th level,** you receive [channel resistance](ref/rule/channel-resistance) +2.
 
-At 15th level: This bonus increases to +6.
+**At 11th level,** this bonus increases to +4.
+
+**At 15th level,** this bonus increases to +6.
 
 **Soul Siphon (Su)**
 
@@ -128,20 +128,20 @@ negative level lasts for a number of minutes equal to your Charisma modifier.
 Whenever this ability gives a target a negative level, you heal a number of hit points equal to your
 oracle level.
 
-**Prereq:** 7th-level oracle
-
 **Usage:** 1 time/day + 1 per 4 oracle levels beyond 7th
 
+**Prereq:** 7th-level oracle
+
 **Spirit Walk (Su)**
-
-**At 15th Level:** You can do this twice a day.
-
-**Prereq:** 11th-level oracle
 
 **Standard:** Once per day, you can become incorporeal and invisible. While in this form, you can
 move in any direction and through any object (except for those made of force). You can take no
 action other than to move while in this form. You remain in this form for a number of rounds equal
 to your oracle level, but you can end this effect prematurely with a **standard action**.
+
+**At 15th level,** you can do this twice a day.
+
+**Prereq:** 11th-level oracle
 
 **Undead Servitude (Su)**
 
@@ -157,16 +157,16 @@ equal to 3 + your Charisma modifier, but only to use Command Undead.
 
 **Ability:** You can [speak with dead](ref/spell/speak-with-dead), as per the spell.
 
-**At 5th Level:** The dead creature you question takes -2 penalty on its Will save to resist this
-effect.
-
 **Usage:** 1 time/day per oracle level
 
-At 10th level: The penalty increases to -4.
+**At 5th level,** the dead creature you question takes -2 penalty on its Will save to resist this
+effect.
 
-At 15th level: The penalty increases to -6.
+**At 10th level,** the penalty increases to -4.
 
-At 20th level: The penalty increases to -8.
+**At 15th level,** the penalty increases to -6.
+
+**At 20th level,** the penalty increases to -8.
 
 ### Final Revelation
 

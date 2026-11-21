@@ -48,21 +48,25 @@ _This enormous flippered creature is as pale as an iceberg and is nearly as larg
 
 **Experience points:** 76,800
 
-**Armor class:** 31/6/27
+**Armor class:** 31
 
-**Dr:** 10/piercing
+**Touch:** 6
 
-**Fort:** +14
+**Flat-footed:** 27
+
+**AC modifiers:** +4 Dex, +25 natural, -8 size
 
 **Hit points:** 262 (21d10+147)
 
-**Immune:** cold
-
-**Mod:** +4 Dex, +25 natural, -8 size
+**Fort:** +14
 
 **Ref:** +16
 
 **Will:** +18
+
+**Dr:** 10/piercing
+
+**Immune:** cold
 
 **Offense**
 

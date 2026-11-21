@@ -18,5 +18,5 @@ group = "shaman-hex"
 level, as [comprehend languages](ref/spell/comprehend-languages). This duration does not need to be
 consecutive, but it must be spent in 1-minute increments.
 
-**At 5th Level:** A shaman can use this ability to speak any language, as
+**At 5th level,** a shaman can use this ability to speak any language, as
 [tongues](ref/spell/tongues).

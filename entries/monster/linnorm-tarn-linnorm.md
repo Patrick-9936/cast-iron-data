@@ -52,28 +52,32 @@ seethe with acid and poison._
 
 **Experience points:** 307,200
 
-**Armor class:** 36/10/28
+**Armor class:** 36
+
+**Touch:** 10
+
+**Flat-footed:** 28
+
+**AC modifiers:** +8 Dex, +26 natural, -8 size
+
+**Hit points:** 385 (22d12+242)
+
+**Fort:** +24
+
+**Ref:** +23
+
+**Will:** +20
 
 **Defensive abilities:** _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/cold iron
 
-**Fort:** +24
-
-**Hit points:** 385 (22d12+242)
-
 **Immune:** acid, curse effects, [flanking](ref/rule/flanking) mind-affecting effects, paralysis,
 poison, sleep
-
-**Mod:** +8 Dex, +26 natural, -8 size
-
-**Ref:** +23
 
 **Regen:** 15 (cold iron)
 
 **Sr:** 31
-
-**Will:** +20
 
 **Offense**
 

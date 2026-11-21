@@ -49,19 +49,23 @@ independently from its sickly host._
 
 **Experience points:** 600
 
-**Armor class:** 14/14/11
+**Armor class:** 14
 
-**Fort:** +3
+**Touch:** 14
+
+**Flat-footed:** 11
+
+**AC modifiers:** +3 Dex, +1 size
 
 **Hit points:** 19 (3d8+6)
 
-**Immune:** acid, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +3 Dex, +1 size
+**Fort:** +3
 
 **Ref:** +4
 
 **Will:** -4
+
+**Immune:** acid, [ooze traits](ref/umr/ooze-traits)
 
 **Offense**
 

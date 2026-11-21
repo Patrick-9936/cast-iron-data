@@ -54,13 +54,17 @@ simple robes._
 
 **Experience points:** 200
 
-**Armor class:** 15/12/13
+**Armor class:** 15
 
-**Fort:** +0
+**Touch:** 12
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 armor, +2 Dex
 
 **Hit points:** 11 (1d8+3)
 
-**Mod:** +3 armor, +2 Dex
+**Fort:** +0
 
 **Ref:** +2
 

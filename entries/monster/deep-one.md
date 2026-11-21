@@ -51,21 +51,25 @@ fish-like maw._
 
 **Experience points:** 400
 
-**Armor class:** 12/9/12
+**Armor class:** 12
 
-**Defensive abilities:** deep dweller, immortal
+**Touch:** 9
 
-**Fort:** +5
+**Flat-footed:** 12
+
+**AC modifiers:** -1 Dex, +3 natural
 
 **Hit points:** 17 (2d10+6)
 
-**Mod:** -1 Dex, +3 natural
+**Fort:** +5
 
 **Ref:** +2
 
-**Resist:** cold 5
-
 **Will:** +5
+
+**Defensive abilities:** deep dweller, immortal
+
+**Resist:** cold 5
 
 **Offense**
 

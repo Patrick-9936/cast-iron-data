@@ -53,21 +53,27 @@ composed of wispy blue light._
 
 **Experience points:** 307,200
 
-**Armor class:** 38/38/30
+**Armor class:** 38
+
+**Touch:** 38
+
+**Flat-footed:** 30
+
+**AC modifiers:** +8 Dex, +7 insight, +14 sacred, -1 size; +4 deflection vs. evil
+
+**Hit points:** 387 (25d10+250)
+
+**Fort:** +24
+
+**Ref:** +18
+
+**Will:** +24; +4 vs. poison, +4 resistance vs. evil
 
 **Defensive abilities:** heed no call
 
 **Dr:** 15/piercing and evil
 
-**Fort:** +24
-
-**Hit points:** 387 (25d10+250)
-
 **Immune:** acid, cold, petrification
-
-**Mod:** +8 Dex, +7 insight, +14 sacred, -1 size; +4 deflection vs. evil
-
-**Ref:** +18
 
 **Regen:** 15 (evil artifacts)
 
@@ -76,8 +82,6 @@ composed of wispy blue light._
 **Sr:** 31
 
 **Uncanny dodge:** present
-
-**Will:** +24; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

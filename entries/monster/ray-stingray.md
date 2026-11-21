@@ -51,13 +51,17 @@ _A long tail fitted with a barbed stinger trails from this flat, triangular fish
 
 **Experience points:** 200
 
-**Armor class:** 12/11/11
+**Armor class:** 12
 
-**Fort:** +5
+**Touch:** 11
+
+**Flat-footed:** 11
+
+**AC modifiers:** +1 Dex, +1 natural
 
 **Hit points:** 13 (2d8+4)
 
-**Mod:** +1 Dex, +1 natural
+**Fort:** +5
 
 **Ref:** +4
 

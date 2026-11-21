@@ -55,21 +55,25 @@ its sloping armored sides, and it exudes a palpable aura of magic._
 
 **Experience points:** 51,200
 
-**Armor class:** 28/4/26
+**Armor class:** 28
 
-**Fort:** +21
+**Touch:** 4
+
+**Flat-footed:** 26
+
+**AC modifiers:** +2 Dex, +24 natural, -8 size
 
 **Hit points:** 231 (22d8+132)
 
-**Immune:** [plant traits](ref/umr/plant-traits)
-
-**Mod:** +2 Dex, +24 natural, -8 size
+**Fort:** +21
 
 **Ref:** +11
 
-**Sr:** 26
-
 **Will:** +11
+
+**Immune:** [plant traits](ref/umr/plant-traits)
+
+**Sr:** 26
 
 **Offense**
 

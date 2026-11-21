@@ -14,9 +14,9 @@ group = "summoner-evolution"
 
 **No Breath (Ex)**
 
+**Flavor:** An eidolon no longer needs to breathe.
+
 **Ability:** The eidolon does not breathe, and is immune to effects that require breathing (such as
 inhaled poison). This does not give immunity to cloud or gas attacks that do not require breathing.
-
-**Flavor:** An eidolon no longer needs to breathe.
 
 **Prereq:** 11th-level summoner

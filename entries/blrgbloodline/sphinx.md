@@ -51,12 +51,12 @@ _bloodraging._
 using your full base attack bonus. These attacks deal 1d6 points of damage each (1d4 if you are
 Small) plus your Strength modifier.
 
-**At 4th Level:** Your claws are considered magic weapons for the purpose of overcoming
+**At 4th level,** your claws are considered magic weapons for the purpose of overcoming
 [damage reduction](ref/rule/damage-reduction).
 
-**At 8th Level:** The base damage your claws deal increases to 1d8 points (1d6 if you are small).
+**At 8th level,** the base damage your claws deal increases to 1d8 points (1d6 if you are small).
 
-**At 12th Level:** The critical threat range for your claws increases to 19-20.
+**At 12th level,** the critical threat range for your claws increases to 19-20.
 
 **Roar (Su)**
 
@@ -71,11 +71,11 @@ again for 24 hours.
 
 **Usage:** 3 + Charisma modifier times/day
 
-**At 10th Level:** The bloodrager can instead cause targets who fail their save to be
+**At 10th level,** the bloodrager can instead cause targets who fail their save to be
 [panicked](ref/misc/panicked) or [stunned](ref/misc/stunned) (bloodrager's choice) and
 [deafened](ref/misc/deafened) for the duration.
 
-**At 16th Level:** The bloodrager can instead cause targets who fail their save to be
+**At 16th level,** the bloodrager can instead cause targets who fail their save to be
 [paralyzed](ref/rule/paralyzed) for 1 round.
 
 **Desert Fortitude (Su)**
@@ -91,12 +91,12 @@ spells.
 
 **Rending Rage (Su)**
 
+**Gained:** At 12th Level
+
 **Ability:** You gain a [rend](ref/umr/rend) attack, as the universal monster rule, that deals extra
 damage equal to 2d4 + 1-1/2 times your Strength modifier.
 
-**Gained:** At 12th Level
-
-**At 18th Level:** This damage increases to 2d6 + 1-1/2 times your Strength modifier.
+**At 18th level,** this damage increases to 2d6 + 1-1/2 times your Strength modifier.
 
 **Master of Mysteries (Su)**
 

@@ -53,13 +53,17 @@ has a wicked bow and a scorpion-like lower body._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/14/20
+**Armor class:** 25
 
-**Fort:** +12
+**Touch:** 14
+
+**Flat-footed:** 20
+
+**AC modifiers:** +3 armor, +4 Dex, +1 dodge, +8 natural, -1 size
 
 **Hit points:** 152 (10d10+3d10+81\~13)
 
-**Mod:** +3 armor, +4 Dex, +1 dodge, +8 natural, -1 size
+**Fort:** +12
 
 **Ref:** +14
 

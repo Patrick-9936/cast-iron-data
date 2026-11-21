@@ -51,23 +51,27 @@ _Muscular tentacles ending in stalagmite-like stingers extend from this pale bro
 
 **Experience points:** 204,800
 
-**Armor class:** 34/22/22
+**Armor class:** 34
+
+**Touch:** 22
+
+**Flat-footed:** 22
+
+**AC modifiers:** +12 Dex, +12 natural
+
+**Hit points:** 325 (21d8+231)
+
+**Fort:** +18
+
+**Ref:** +19
+
+**Will:** +18
 
 **Defensive abilities:** rejuvenation
 
 **Fh:** 15
 
-**Fort:** +18
-
-**Hit points:** 325 (21d8+231)
-
 **Immune:** acid, [ooze traits](ref/umr/ooze-traits)
-
-**Mod:** +12 Dex, +12 natural
-
-**Ref:** +19
-
-**Will:** +18
 
 **Offense**
 

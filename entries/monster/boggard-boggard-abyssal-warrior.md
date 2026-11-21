@@ -53,19 +53,23 @@ abilities = ["20", "11", "16", "8", "9", "14"]
 **Subtype:** Boggard\
 **Experience points:** 4,800
 
-**Armor class:** 20/10/20
+**Armor class:** 20
 
-**Fort:** +14
+**Touch:** 10
+
+**Flat-footed:** 20
+
+**AC modifiers:** +7 armor, +3 natural
 
 **Hit points:** 98 (3d8+7d10+47\~10)
 
-**Immune:** disease
-
-**Mod:** +7 armor, +3 natural
+**Fort:** +14
 
 **Ref:** +6
 
 **Will:** +8
+
+**Immune:** disease
 
 **Offense**
 

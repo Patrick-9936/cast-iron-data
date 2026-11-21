@@ -48,19 +48,23 @@ hands with wickedly sharp nails._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/14/13
+**Armor class:** 17
 
-**Fort:** +4
+**Touch:** 14
+
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +3 natural
 
 **Hit points:** 38 (7d6+14)
 
-**Immune:** poison
-
-**Mod:** +3 Dex, +1 dodge, +3 natural
+**Fort:** +4
 
 **Ref:** +8
 
 **Will:** +7
+
+**Immune:** poison
 
 **Offense**
 

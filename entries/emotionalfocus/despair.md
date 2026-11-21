@@ -51,21 +51,21 @@ stack with themselves.
 
 **Gained:** At 7th Level
 
-**Special:** This is a fear effect. Deactivating the aura is a **free action**.
-
 **Swift:** The phantom can emit a 10-foot aura of despair. Enemies within the aura take a -2 penalty
 on all saving throws.
+
+**Special:** This is a fear effect. Deactivating the aura is a **free action**.
 
 **Despairing Shout (Su)**
 
 **Gained:** At 12th Level
 
-**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
-
 **Standard:** Three times per day, the phantom can emit a shout that acts as
 [crushing despair](ref/spell/crushing-despair). The phantom uses its Hit Dice as its caster level
 for the effect, and the DC of the effect equals 10 + 1/2 the phantom's Hit Dice + the phantom's
 Charisma modifier.
+
+**Special:** The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Inescapable Despair (Su)**
 

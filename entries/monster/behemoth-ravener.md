@@ -53,27 +53,31 @@ charges._
 
 **Experience points:** 153,600
 
-**Armor class:** 35/0/35
+**Armor class:** 35
 
-**Dr:** 15/adamantine
+**Touch:** 0
 
-**Fort:** +22
+**Flat-footed:** 35
+
+**AC modifiers:** -2 Dex, +35 natural, -8 size
 
 **Hit points:** 337 (25d10+200)
 
-**Immune:** acid, curse effects, disease, mind-affecting effects, paralysis, poison, sonic
-
-**Mod:** -2 Dex, +35 natural, -8 size
+**Fort:** +22
 
 **Ref:** +12
+
+**Will:** +12
+
+**Dr:** 15/adamantine
+
+**Immune:** acid, curse effects, disease, mind-affecting effects, paralysis, poison, sonic
 
 **Regen:** 15 (electricity)
 
 **Resist:** cold 20, fire 20
 
 **Sr:** 29
-
-**Will:** +12
 
 **Offense**
 

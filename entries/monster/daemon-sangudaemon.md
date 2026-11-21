@@ -56,25 +56,29 @@ dripping crimson streamers._
 
 **Experience points:** 6,400
 
-**Armor class:** 23/16/17
+**Armor class:** 23
 
-**Dr:** 10/good or silver
+**Touch:** 16
 
-**Fort:** +12
+**Flat-footed:** 17
+
+**AC modifiers:** +5 Dex, +1 dodge, +7 natural
 
 **Hit points:** 114 (12d10+48)
 
-**Immune:** acid, bleed, death effects, disease, poison
-
-**Mod:** +5 Dex, +1 dodge, +7 natural
+**Fort:** +12
 
 **Ref:** +13
+
+**Will:** +7
+
+**Dr:** 10/good or silver
+
+**Immune:** acid, bleed, death effects, disease, poison
 
 **Resist:** cold 10, electricity 10, fire 10
 
 **Sr:** 20
-
-**Will:** +7
 
 **Offense**
 

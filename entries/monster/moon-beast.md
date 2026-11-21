@@ -48,27 +48,31 @@ snout ending in pink tentacles._
 
 **Experience points:** 12,800
 
-**Armor class:** 25/13/21
+**Armor class:** 25
+
+**Touch:** 13
+
+**Flat-footed:** 21
+
+**AC modifiers:** +3 Dex, +1 dodge, +12 natural, -1 size
+
+**Hit points:** 133 (14d8+70)
+
+**Fort:** +9
+
+**Ref:** +9
+
+**Will:** +15
 
 **Amorph:** present
 
 **Dr:** 10/piercing or slashing
 
-**Fort:** +9
-
-**Hit points:** 133 (14d8+70)
-
 **Immune:** cold, gaze attacks, illusions, poison
-
-**Mod:** +3 Dex, +1 dodge, +12 natural, -1 size
-
-**Ref:** +9
 
 **Resist:** electricity 30
 
 **Sr:** 22
-
-**Will:** +15
 
 **Offense**
 

@@ -23,6 +23,6 @@ benefits from [flanking](ref/rule/flanking). On a failed check, the rogue falls
 [prone](ref/rule/prone) in her original position and the attack resolves as normal (the opponent
 gains a +4 bonus for attacking a prone target).
 
-**Prereq:** Trained in [Acrobatics](ref/skill/acrobatics)
-
 **Usage:** 1 time/day + 1 per 5 rogue levels
+
+**Prereq:** Trained in [Acrobatics](ref/skill/acrobatics)

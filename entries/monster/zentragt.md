@@ -52,25 +52,29 @@ iron plates._
 
 **Experience points:** 1,200
 
-**Armor class:** 19/10/18
+**Armor class:** 19
 
-**Dr:** 5/lawful
+**Touch:** 10
 
-**Fort:** +6
+**Flat-footed:** 18
+
+**AC modifiers:** +1 Dex, +9 natural, -1 size
 
 **Hit points:** 39 (6d10+6)
 
-**Immune:** fear
-
-**Mod:** +1 Dex, +9 natural, -1 size
+**Fort:** +6
 
 **Ref:** +3
+
+**Will:** +5
+
+**Dr:** 5/lawful
+
+**Immune:** fear
 
 **Resist:** cold 5, electricity 5, fire 5
 
 **Sr:** 15
-
-**Will:** +5
 
 **Offense**
 

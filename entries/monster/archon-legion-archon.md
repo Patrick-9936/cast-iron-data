@@ -55,23 +55,27 @@ to grow from its armor._
 
 **Experience points:** 3,200
 
-**Armor class:** 23/11/22
+**Armor class:** 23
 
-**Dr:** 10/evil
+**Touch:** 11
 
-**Fort:** +10
+**Flat-footed:** 22
+
+**AC modifiers:** +9 armor, +1 Dex, +3 natural; +2 deflection vs. evil
 
 **Hit points:** 76 (8d10+32)
 
-**Immune:** electricity, petrification
-
-**Mod:** +9 armor, +1 Dex, +3 natural; +2 deflection vs. evil
+**Fort:** +10
 
 **Ref:** +3
 
-**Sr:** 18
-
 **Will:** +8; +4 vs. poison, +2 vs. evil
+
+**Dr:** 10/evil
+
+**Immune:** electricity, petrification
+
+**Sr:** 18
 
 **Offense**
 

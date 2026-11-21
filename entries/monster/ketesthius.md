@@ -51,19 +51,23 @@ _This enormous wolf-headed sea serpent's maw leads into what seems to be an endl
 
 **Experience points:** 25,600
 
-**Armor class:** 28/13/24
+**Armor class:** 28
 
-**Fort:** +17
+**Touch:** 13
+
+**Flat-footed:** 24
+
+**AC modifiers:** +7 Dex, +15 natural, -4 size
 
 **Hit points:** 200 (16d10+112)
 
-**Mod:** +7 Dex, +15 natural, -4 size
+**Fort:** +17
 
 **Ref:** +17
 
-**Regen:** 10 (fire or acid)
-
 **Will:** +10
+
+**Regen:** 10 (fire or acid)
 
 **Offense**
 

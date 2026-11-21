@@ -48,23 +48,27 @@ abilities = ["12", "19", "-", "11", "18", "3"]
 
 **Experience points:** 9,600
 
-**Armor class:** 23/17/18
+**Armor class:** 23
 
-**Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 10, swarm traits
+**Touch:** 17
 
-**Fort:** +6
+**Flat-footed:** 18
+
+**AC modifiers:** +4 Dex, +1 dodge, +6 natural, +2 size
 
 **Hit points:** 117 (18d10+18)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +4 Dex, +1 dodge, +6 natural, +2 size
+**Fort:** +6
 
 **Ref:** +12
 
-**Vulner:** electricity
-
 **Will:** +12
+
+**Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 10, swarm traits
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** electricity
 
 **Offense**
 

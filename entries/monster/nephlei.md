@@ -51,19 +51,23 @@ _A mighty woman of refined beauty hovers in the air, her skin whorled with blue 
 
 **Experience points:** 6,400
 
-**Armor class:** 20/17/16
+**Armor class:** 20
 
-**Fort:** +12
+**Touch:** 17
+
+**Flat-footed:** 16
+
+**AC modifiers:** +4 deflection, +4 Dex, +3 natural, -1 size
 
 **Hit points:** 115 (11d10+55)
 
-**Immune:** cold, electricity
-
-**Mod:** +4 deflection, +4 Dex, +3 natural, -1 size
+**Fort:** +12
 
 **Ref:** +15
 
 **Will:** +13
+
+**Immune:** cold, electricity
 
 **Offense**
 

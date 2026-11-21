@@ -48,13 +48,17 @@ colored serpent._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/15/18
+**Armor class:** 24
 
-**Fort:** +9
+**Touch:** 15
+
+**Flat-footed:** 18
+
+**AC modifiers:** +6 Dex, +9 natural, -1 size
 
 **Hit points:** 114 (12d8+60)
 
-**Mod:** +6 Dex, +9 natural, -1 size
+**Fort:** +9
 
 **Ref:** +12
 

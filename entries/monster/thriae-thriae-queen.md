@@ -48,27 +48,31 @@ the wings of a bee._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/8/33
+**Armor class:** 33
+
+**Touch:** 8
+
+**Flat-footed:** 33
+
+**AC modifiers:** +25 natural, -2 size
+
+**Hit points:** 312 (25d10+175)
+
+**Fort:** +15
+
+**Ref:** +14
+
+**Will:** +21
 
 **Defensive abilities:** merope coat
 
 **Fh:** 10
 
-**Fort:** +15
-
-**Hit points:** 312 (25d10+175)
-
 **Immune:** poison, sonic
-
-**Mod:** +25 natural, -2 size
-
-**Ref:** +14
 
 **Resist:** acid 20
 
 **Sr:** 29
-
-**Will:** +21
 
 **Offense**
 

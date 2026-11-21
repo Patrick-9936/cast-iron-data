@@ -46,19 +46,23 @@ _This gray, human-sized porcupine's round body is covered in sharp, striped quil
 
 **Experience points:** 600
 
-**Armor class:** 13/11/12
+**Armor class:** 13
 
-**Defensive abilities:** quills
+**Touch:** 11
 
-**Fort:** +6
+**Flat-footed:** 12
+
+**AC modifiers:** +1 Dex, +2 natural
 
 **Hit points:** 22 (3d8+9)
 
-**Mod:** +1 Dex, +2 natural
+**Fort:** +6
 
 **Ref:** +6
 
 **Will:** +2
+
+**Defensive abilities:** quills
 
 **Offense**
 

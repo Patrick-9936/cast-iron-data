@@ -54,23 +54,27 @@ other in a massive shield._
 
 **Experience points:** 9,600
 
-**Armor class:** 29/10/28
+**Armor class:** 29
 
-**Dr:** 10/evil
+**Touch:** 10
 
-**Fort:** +13
+**Flat-footed:** 28
+
+**AC modifiers:** +9 armor, +1 Dex, +4 natural, +6 shield, -1 size
 
 **Hit points:** 112 (9d10+63)
 
-**Immune:** electricity, petrification
-
-**Mod:** +9 armor, +1 Dex, +4 natural, +6 shield, -1 size
+**Fort:** +13
 
 **Ref:** +7
 
-**Sr:** 21
-
 **Will:** +8; +4 vs. poison
+
+**Dr:** 10/evil
+
+**Immune:** electricity, petrification
+
+**Sr:** 21
 
 **Offense**
 

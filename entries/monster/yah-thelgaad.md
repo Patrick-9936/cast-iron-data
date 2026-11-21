@@ -50,27 +50,31 @@ a brain floating in thick green fluid._
 
 **Experience points:** 38,400
 
-**Armor class:** 30/25/26
+**Armor class:** 30
+
+**Touch:** 25
+
+**Flat-footed:** 26
+
+**AC modifiers:** +4 Dex, +12 insight, +5 natural, -1 size
+
+**Hit points:** 200 (16d8+128)
+
+**Fort:** +13
+
+**Ref:** +11
+
+**Will:** +17
 
 **Defensive abilities:** carapace
 
 **Dr:** 10/magic and adamantine
 
-**Fort:** +13
-
-**Hit points:** 200 (16d8+128)
-
 **Immune:** disease, mind-affecting effects
-
-**Mod:** +4 Dex, +12 insight, +5 natural, -1 size
-
-**Ref:** +11
 
 **Resist:** cold 10, fire 10
 
 **Sr:** 25
-
-**Will:** +17
 
 **Offense**
 

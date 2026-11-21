@@ -49,29 +49,33 @@ writhing tentacles._
 
 **Experience points:** 51,200
 
-**Armor class:** 32/17/24
+**Armor class:** 32
+
+**Touch:** 17
+
+**Flat-footed:** 24
+
+**AC modifiers:** +8 Dex, +15 natural, -1 size
+
+**Hit points:** 207 (18d8+126)
+
+**Fort:** +14
+
+**Ref:** +14
+
+**Will:** +18
 
 **Amorph:** present
 
 **Dr:** 10/lawful
 
-**Fort:** +14
-
-**Hit points:** 207 (18d8+126)
-
 **Immune:** cold, fire, sonic
-
-**Mod:** +8 Dex, +15 natural, -1 size
-
-**Ref:** +14
 
 **Regen:** 10 (lawful spells and effects)
 
 **Resist:** acid 10, electricity 10
 
 **Sr:** 26
-
-**Will:** +18
 
 **Offense**
 

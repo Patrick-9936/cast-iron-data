@@ -52,23 +52,27 @@ trail of hissing melted stone slag in its wake._
 
 **Experience points:** 1,600
 
-**Armor class:** 20/20/18
+**Armor class:** 20
 
-**Defensive abilities:** swarm traits
+**Touch:** 20
 
-**Fort:** +7
+**Flat-footed:** 18
+
+**AC modifiers:** +2 Dex, +8 size
 
 **Hit points:** 45 (7d8+14)
 
-**Immune:** acid, mind-affecting effects, weapon damage
-
-**Mod:** +2 Dex, +8 size
+**Fort:** +7
 
 **Ref:** +4
 
-**Weaknesses:** vulnerable to water
-
 **Will:** +3
+
+**Defensive abilities:** swarm traits
+
+**Immune:** acid, mind-affecting effects, weapon damage
+
+**Weaknesses:** vulnerable to water
 
 **Offense**
 

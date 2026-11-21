@@ -51,25 +51,29 @@ pickaxe in its knobby hands._
 
 **Experience points:** 800
 
-**Armor class:** 16/12/15
+**Armor class:** 16
 
-**Dr:** 5/cold iron
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +1 Dex, +4 natural, +1 size
 
 **Hit points:** 27 (6d6+6)
 
-**Immune:** petrification
-
-**Mod:** +1 Dex, +4 natural, +1 size
+**Fort:** +5
 
 **Ref:** +6
+
+**Will:** +6
+
+**Dr:** 5/cold iron
+
+**Immune:** petrification
 
 **Sr:** 14
 
 **Weaknesses:** [light blindness](ref/umr/light-blindness)
-
-**Will:** +6
 
 **Offense**
 

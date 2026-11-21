@@ -55,19 +55,23 @@ seeming restless and bloodthirsty._
 
 **Experience points:** 800
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Defensive abilities:** swarm traits
+**Touch:** 15
 
-**Fort:** +6
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 26 (4d8+8)
 
-**Mod:** +3 Dex, +2 size
+**Fort:** +6
 
 **Ref:** +7
 
 **Will:** +2
+
+**Defensive abilities:** swarm traits
 
 **Offense**
 

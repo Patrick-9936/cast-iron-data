@@ -49,19 +49,23 @@ together._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/16/13
+**Armor class:** 18
 
-**Fort:** +9
+**Touch:** 16
+
+**Flat-footed:** 13
+
+**AC modifiers:** +4 Dex, +1 dodge, +2 natural, +1 size
 
 **Hit points:** 57 (6d10+24)
 
-**Immune:** critical hits, flanking, effects that target a specific number of creatures
-
-**Mod:** +4 Dex, +1 dodge, +2 natural, +1 size
+**Fort:** +9
 
 **Ref:** +9
 
 **Will:** +4
+
+**Immune:** critical hits, flanking, effects that target a specific number of creatures
 
 **Offense**
 

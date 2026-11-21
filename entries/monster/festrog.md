@@ -51,19 +51,23 @@ hound than an undead man._
 
 **Experience points:** 400
 
-**Armor class:** 14/11/13
+**Armor class:** 14
 
-**Fort:** +0
+**Touch:** 11
+
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +3 natural
 
 **Hit points:** 9 (2d8)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +3 natural
+**Fort:** +0
 
 **Ref:** +1
 
 **Will:** +4
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

@@ -50,21 +50,25 @@ most of its body from view._
 
 **Experience points:** 1,200
 
-**Armor class:** 17/15/13
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 15
 
-**Fort:** +4
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +1 dodge, +2 natural, +1 size
 
 **Hit points:** 33 (6d6+12)
 
-**Mod:** +3 Dex, +1 dodge, +2 natural, +1 size
+**Fort:** +4
 
 **Ref:** +8
 
-**Sr:** 15
-
 **Will:** +7
+
+**Dr:** 5/cold iron
+
+**Sr:** 15
 
 **Offense**
 

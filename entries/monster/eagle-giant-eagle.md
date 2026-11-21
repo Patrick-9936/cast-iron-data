@@ -47,19 +47,23 @@ talons are dark yellow._
 
 **Experience points:** 800
 
-**Armor class:** 15/12/12
+**Armor class:** 15
 
-**Evasion:** present
+**Touch:** 12
 
-**Fort:** +5
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +3 natural, -1 size
 
 **Hit points:** 26 (4d10+4)
 
-**Mod:** +3 Dex, +3 natural, -1 size
+**Fort:** +5
 
 **Ref:** +7
 
 **Will:** +3
+
+**Evasion:** present
 
 **Offense**
 

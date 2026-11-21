@@ -17,7 +17,7 @@ group = "shaman-hex"
 **Ability:** A shaman soothes the wounds of those she touches. This acts as
 [cure light wounds](ref/spell/cure-light-wounds), using the shaman's caster level.
 
-**At 5th Level:** This acts as [cure moderate wounds](ref/spell/cure-moderate-wounds).
+**At 5th level,** this acts as [cure moderate wounds](ref/spell/cure-moderate-wounds).
 
 **Special:** Once a creature has benefited from the _healing_ hex, it cannot benefit from it again
 for 24 hours.

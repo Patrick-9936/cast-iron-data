@@ -52,7 +52,21 @@ its head independently._
 
 **Experience points:** 76,800
 
-**Armor class:** 32/14/26
+**Armor class:** 32
+
+**Touch:** 14
+
+**Flat-footed:** 26
+
+**AC modifiers:** +6 Dex, +18 natural, -2 size
+
+**Hit points:** 238 (17d10+145)
+
+**Fort:** +12
+
+**Ref:** +18
+
+**Will:** +18
 
 **Defensive abilities:** transparency
 
@@ -60,19 +74,9 @@ its head independently._
 
 **Fh:** 5
 
-**Fort:** +12
-
-**Hit points:** 238 (17d10+145)
-
 **Immune:** elemental traits
 
-**Mod:** +6 Dex, +18 natural, -2 size
-
-**Ref:** +18
-
 **Resist:** acid 20, cold 20
-
-**Will:** +18
 
 **Offense**
 

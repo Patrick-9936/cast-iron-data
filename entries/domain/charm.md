@@ -41,11 +41,6 @@ rounds do not need to be consecutive, and you can dismiss the charm at any time 
 Each attempt to use this ability consumes 1 round of its duration, whether or not the creature
 succeeds on its save to resist the effect.
 
-**Usage:** The total number of rounds of this effect per day is equal to your cleric level. The
-rounds do not need to be consecutive, and you can dismiss the charm at any time as a free action.
-Each attempt to use this ability consumes 1 round of its duration, whether or not the creature
-succeeds on its save to resist the effect.
-
 **Domain Spells**
 
 1. charm person
@@ -104,9 +99,9 @@ the ability after the attack is declared but before the roll is made. The creatu
 receives a Will save to negate this effect. If a creature has more than one attack, this ability
 only affects one of the attacks. This is a mind-affecting effect.
 
-**Replaces:** The dazing touch power of the Charm domain
-
 **Usage:** 3 + Wisdom modifier times/day
+
+**Replaces:** The dazing touch power of the Charm domain
 
 **Replacement Domain Spells**
 
@@ -127,14 +122,14 @@ Vermilion Mother, Zaigasnar, Zepar
 
 **Gained:** At 8th Level
 
-**Replaces:** The charming smile power of the Charm domain
-
 **Standard:** You can compel a creature within 30 feet to attempt to please you. The creature
 receives a Will save to negate this affect. If the save fails, the creature attacks your enemies for
 1 round, gives you its most valuable item, or drops [prone](ref/rule/prone) at your feet and grovels
 for 1d4 rounds (GM's choice). This is a mind-affecting effect.
 
 **Usage:** 1 time/day + 1 per 4 cleric levels beyond 8th
+
+**Replaces:** The charming smile power of the Charm domain
 
 **Replacement Domain Spells**
 

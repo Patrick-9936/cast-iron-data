@@ -14,14 +14,12 @@ group = "rage-power"
 
 **Crag Linnorm Death Curse (Su)**
 
-**Action:** Ability
-
-**Prereq:** 4th-level barbarian
-
-The character channels the power of a [crag linnorm](ref/monster/linnorm-crag-linnorm). The
-character's melee attacks deal an additional 1 point of fire damage. If the character is knocked
+**Ability:** The character channels the power of a [crag linnorm](ref/monster/linnorm-crag-linnorm).
+The character's melee attacks deal an additional 1 point of fire damage. If the character is knocked
 unconscious or killed by an attack or spell, the attacker suffers the _curse of fire_ (Will
 negates).
+
+**Prereq:** 4th-level barbarian
 
 **Curse of Fire**
 

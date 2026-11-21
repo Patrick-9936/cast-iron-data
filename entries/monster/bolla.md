@@ -48,25 +48,29 @@ don't quite touch the ground._
 
 **Experience points:** 38,400
 
-**Armor class:** 29/11/26
+**Armor class:** 29
+
+**Touch:** 11
+
+**Flat-footed:** 26
+
+**AC modifiers:** +3 Dex, +18 natural, -2 size
+
+**Hit points:** 207 (18d10+108)
+
+**Fort:** +17
+
+**Ref:** +14
+
+**Will:** +12
 
 **Defensive abilities:** all-around vision
 
 **Dr:** 10/magic
 
-**Fort:** +17
-
-**Hit points:** 207 (18d10+108)
-
-**Mod:** +3 Dex, +18 natural, -2 size
-
-**Ref:** +14
-
 **Resist:** acid 20, electricity 20
 
 **Weaknesses:** blindness vulnerability
-
-**Will:** +12
 
 **Offense**
 

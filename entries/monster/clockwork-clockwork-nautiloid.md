@@ -54,25 +54,29 @@ tentacles surrounding its octopus-like beak._
 
 **Experience points:** 38,400
 
-**Armor class:** 31/13/26
+**Armor class:** 31
+
+**Touch:** 13
+
+**Flat-footed:** 26
+
+**AC modifiers:** +5 Dex, +18 natural, -2 size
+
+**Hit points:** 161 (22d10+40)
+
+**Fort:** +7
+
+**Ref:** +14
+
+**Will:** +7
 
 **Defensive abilities:** deep dweller, reflective shell
 
 **Dr:** 10/adamantine and blugeoning
 
-**Fort:** +7
-
-**Hit points:** 161 (22d10+40)
-
 **Immune:** cold, [construct traits](ref/umr/construct-traits)
 
-**Mod:** +5 Dex, +18 natural, -2 size
-
-**Ref:** +14
-
 **Vulner:** electricity
-
-**Will:** +7
 
 **Offense**
 

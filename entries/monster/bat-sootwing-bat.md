@@ -47,21 +47,25 @@ _This bat-like creature has jagged points at the tips of its wings and a long, l
 
 **Experience points:** 200
 
-**Armor class:** 14/13/13
+**Armor class:** 14
 
-**Chan Res:** +2
+**Touch:** 13
 
-**Fort:** -1
+**Flat-footed:** 13
+
+**AC modifiers:** +1 Dex, +1 natural, +2 size
 
 **Hit points:** 7 (2d8-2)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +1 Dex, +1 natural, +2 size
+**Fort:** -1
 
 **Ref:** +1
 
 **Will:** +4
+
+**Chan Res:** +2
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

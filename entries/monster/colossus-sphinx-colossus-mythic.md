@@ -60,25 +60,29 @@ _This stone edifice resembles a lion with a regal human face, garbed in royal cl
 
 **Experience points:** 38,400
 
-**Armor class:** 31/7/30
+**Armor class:** 31
+
+**Touch:** 7
+
+**Flat-footed:** 30
+
+**AC modifiers:** +1 Dex, +24 natural, -4 size
+
+**Hit points:** 199 (18d10+100)
+
+**Fort:** +6
+
+**Ref:** +9
+
+**Will:** +10
 
 **Block At:** present
 
 **Dr:** 10/epic
 
-**Fort:** +6
-
 **Fortif:** 50
 
-**Hit points:** 199 (18d10+100)
-
 **Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +24 natural, -4 size
-
-**Ref:** +9
-
-**Will:** +10
 
 **Offense**
 

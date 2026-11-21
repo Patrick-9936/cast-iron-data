@@ -48,25 +48,29 @@ _Beneath its cloak, this man-shaped creature appears to be part statue and part 
 
 **Experience points:** 19,200
 
-**Armor class:** 26/14/22
+**Armor class:** 26
+
+**Touch:** 14
+
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +12 natural
+
+**Hit points:** 158 (12d10+92)
+
+**Fort:** +14
+
+**Ref:** +10
+
+**Will:** +11
 
 **Defensive abilities:** constructed
 
 **Dr:** 10/chaotic
 
-**Fort:** +14
-
-**Hit points:** 158 (12d10+92)
-
-**Mod:** +4 Dex, +12 natural
-
-**Ref:** +10
-
 **Regen:** 5 (chaotic)
 
 **Sr:** 23
-
-**Will:** +11
 
 **Offense**
 

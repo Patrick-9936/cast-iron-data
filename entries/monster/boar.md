@@ -47,19 +47,23 @@ tusks._
 
 **Experience points:** 600
 
-**Armor class:** 14/10/14
+**Armor class:** 14
 
-**Ferocity:** present
+**Touch:** 10
 
-**Fort:** +6
+**Flat-footed:** 14
+
+**AC modifiers:** +4 natural
 
 **Hit points:** 18 (2d8+9)
 
-**Mod:** +4 natural
+**Fort:** +6
 
 **Ref:** +3
 
 **Will:** +1
+
+**Ferocity:** present
 
 **Offense**
 

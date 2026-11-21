@@ -50,25 +50,29 @@ scaly hide._
 
 **Experience points:** 4,800
 
-**Armor class:** 22/14/18
+**Armor class:** 22
 
-**Dr:** 10/cold iron or good
+**Touch:** 14
 
-**Fort:** +9
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +1 dodge, +8 natural
 
 **Hit points:** 103 (9d10+54)
 
-**Immune:** death effects, electricity, paralysis, poison
-
-**Mod:** +3 Dex, +1 dodge, +8 natural
+**Fort:** +9
 
 **Ref:** +9
+
+**Will:** +9
+
+**Dr:** 10/cold iron or good
+
+**Immune:** death effects, electricity, paralysis, poison
 
 **Resist:** acid 10, cold 10, fire 10
 
 **Sr:** 19
-
-**Will:** +9
 
 **Offense**
 

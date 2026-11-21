@@ -67,17 +67,17 @@ savagery that fewer still can withstand.
 
 **Usage:** 3 + Charisma modifier times/day
 
-**At 9th Level:** You can confer the [icy burst](ref/magic-enh/icy-burst) property instead, but the
+**At 9th level,** you can confer the [icy burst](ref/magic-enh/icy-burst) property instead, but the
 duration of the power is halved.
 
 **Icewalker (Ex)**
 
+**Gained:** At 3rd Level
+
 **Ability:** You gain [resist](ref/umr/resistance) cold 5 and can move across snow and icy surfaces
 without penalty and without leaving tracks.
 
-**Gained:** At 3rd Level
-
-**At 9th Level:** You gain resist cold 10 and can climb icy surfaces as if using
+**At 9th level,** you gain resist cold 10 and can climb icy surfaces as if using
 [spider climb](ref/spell/spider-climb).
 
 **Snow Shroud (Su)**
@@ -99,15 +99,13 @@ to half your sorcerer level in snowy or icy areas.
 
 **Blizzard (Sp)**
 
-**Ability:** This power acts as [control winds](ref/spell/control-winds), but in addition the entire
-area (not including the "eye" at the center of the storm) is affected as a
-[sleet storm](ref/spell/sleet-storm) and all in the area are exposed to extreme cold.
+**Gained:** At 15th Level
 
 **Flavor:** You can create a savage winter storm centered on you.
 
-**Gained:** At 15th Level
-
-**Usage:** Once per day
+**Ability:** This power acts as [control winds](ref/spell/control-winds), but in addition the entire
+area (not including the "eye" at the center of the storm) is affected as a
+[sleet storm](ref/spell/sleet-storm) and all in the area are exposed to extreme cold.
 
 **Usage:** Once per day
 
@@ -136,15 +134,15 @@ Sometimes you must bring the cold to your enemies.
 
 **Freezing Bolt (Sp)**
 
+**Gained:** At 9th Level
+
 **Ability:** Once per day, you can cause the air to erupt in freezing sleet. This 10-foot-radius
 [burst](ref/misc/burst) does 1d6 points of cold damage per sorcerer level (Reflex half). The DC of
 this save is equal to 10 + half your sorcerer level + your Charisma modifier. This power has a range
 of 60 feet.
 
-**Gained:** At 9th Level
+**At 17th level,** you can use this ability twice per day.
+
+**At 20th level,** you can use this ability three times per day.
 
 **Replaces:** Snow shroud
-
-**At 17th Level:** You can use this ability twice per day.
-
-**At 20th Level:** You can use this ability three times per day.

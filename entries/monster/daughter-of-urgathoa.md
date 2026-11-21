@@ -52,21 +52,25 @@ scythe-like claw._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/12/18
+**Armor class:** 21
 
-**Chan Res:** +4
+**Touch:** 12
 
-**Fort:** +9
+**Flat-footed:** 18
+
+**AC modifiers:** +3 Dex, +9 natural, -1 size
 
 **Hit points:** 115 (11d8+66)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +3 Dex, +9 natural, -1 size
+**Fort:** +9
 
 **Ref:** +7
 
 **Will:** +11
+
+**Chan Res:** +4
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

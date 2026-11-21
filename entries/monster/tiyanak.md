@@ -49,19 +49,23 @@ jagged teeth._
 
 **Experience points:** 2,400
 
-**Armor class:** 19/17/13
+**Armor class:** 19
 
-**Fort:** +7
+**Touch:** 17
+
+**Flat-footed:** 13
+
+**AC modifiers:** +5 Dex, +1 dodge, +2 natural, +1 size
 
 **Hit points:** 76 (9d8+36)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +5 Dex, +1 dodge, +2 natural, +1 size
+**Fort:** +7
 
 **Ref:** +8
 
 **Will:** +7
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

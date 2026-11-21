@@ -71,30 +71,30 @@ bonded item, which allows him to cast any one spell in his spellbook).
 
 **Metamagic Adept (Ex)**
 
+**Gained:** At 3rd Level
+
 **Ability:** You can apply any one metamagic feat you know to a spell you are about to cast without
 increasing the casting time. You must still expend a higher-level spell slot to cast this spell.
 
-**Gained:** At 3rd Level
-
 **Usage:** 1 time/day + 1 per 4 sorcerer levels beyond 3rd
 
-**At 20th Level:** This ability is replaced by _arcane apotheosis_ (see below).
+**At 20th level,** this ability is replaced by _arcane apotheosis_ (see below).
 
 **New Arcana (Ex)**
 
+**Gained:** At 9th Level
+
 **Ability:** You can add any one spell from the sorcerer/wizard spell list to your list of spells
 known. This spell must be of a level that you are capable of casting.
-
-**Gained:** At 9th Level
 
 **Repeat:** You can add one additional spell., 13, 4
 
 **School Power (Ex)**
 
+**Gained:** At 15th Level
+
 **Ability:** Pick one school of magic. The DC for any spells you cast from that school increases by
 +2. This bonus stacks with the bonus granted by [Spell Focus](ref/feat/spell-focus).
-
-**Gained:** At 15th Level
 
 **Arcane Apotheosis (Ex)**
 
@@ -133,11 +133,11 @@ Your preferred focus is a bolt of mind-spun magic.
 
 **Gained:** At 1st Level
 
-**Replaces:** Arcane bond
-
 **Standard:** You can unleash a ray of magic force, targeting any foe within 30 feet as a ranged
 touch attack. This ray deals an amount of damage equal to 1d4 +
 [half](ref/misc/fractions-and-rounding) of your sorcerer level. This damage is treated as a spell of
 a level equal to half your sorcerer level, and is a force effect.
 
 **Usage:** 3 + Charisma modifier times/day
+
+**Replaces:** Arcane bond

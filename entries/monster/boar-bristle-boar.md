@@ -47,19 +47,23 @@ eyes._
 
 **Experience points:** 800
 
-**Armor class:** 16/10/16
+**Armor class:** 16
 
-**Ferocity:** present
+**Touch:** 10
 
-**Fort:** +7
+**Flat-footed:** 16
+
+**AC modifiers:** +6 natural
 
 **Hit points:** 30 (4d8+12)
 
-**Mod:** +6 natural
+**Fort:** +7
 
 **Ref:** +6
 
 **Will:** +2
+
+**Ferocity:** present
 
 **Offense**
 

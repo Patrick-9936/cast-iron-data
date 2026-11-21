@@ -55,23 +55,27 @@ darkness
 
 **Experience points:** 51,200
 
-**Armor class:** 30/18/21
+**Armor class:** 30
 
-**Fort:** +12
+**Touch:** 18
+
+**Flat-footed:** 21
+
+**AC modifiers:** +8 Dex, +1 dodge, +12 natural, -1 size
 
 **Hit points:** 212 (17d10+119)
 
-**Immune:** disease, electricity, poison
-
-**Mod:** +8 Dex, +1 dodge, +12 natural, -1 size
+**Fort:** +12
 
 **Ref:** +18
+
+**Will:** +12
+
+**Immune:** disease, electricity, poison
 
 **Regen:** 5 (acid)
 
 **Resist:** cold 10, fire 10
-
-**Will:** +12
 
 **Offense**
 

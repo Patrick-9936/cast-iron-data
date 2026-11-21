@@ -52,25 +52,29 @@ mournful expression._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/20/16
+**Armor class:** 20
+
+**Touch:** 20
+
+**Flat-footed:** 16
+
+**AC modifiers:** +6 deflection, +3 Dex, +1 dodge
+
+**Hit points:** 84 (8d8+48)
+
+**Fort:** +8
+
+**Ref:** +5
+
+**Will:** +7
 
 **Chan Res:** +4
 
 **Defensive abilities:** rejuvenation
 
-**Fort:** +8
-
-**Hit points:** 84 (8d8+48)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
-
-**Mod:** +6 deflection, +3 Dex, +1 dodge
-
-**Ref:** +5
-
-**Will:** +7
 
 **Offense**
 

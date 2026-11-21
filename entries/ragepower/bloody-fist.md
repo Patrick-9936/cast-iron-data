@@ -22,8 +22,6 @@ level + the barbarian's Strength modifier) or take 1d4 points of
 [Constitution damage](ref/rule/ability-damage-drain) as one of its vital organs is ripped free from
 its body.
 
+**Usage:** Once per _rage_
+
 **Prereq:** 12th-level barbarian
-
-**Usage:** Once per _rage_
-
-**Usage:** Once per _rage_

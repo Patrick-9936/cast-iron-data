@@ -51,23 +51,27 @@ blood-red pointed cap._
 
 **Experience points:** 2,400
 
-**Armor class:** 20/15/16
+**Armor class:** 20
+
+**Touch:** 15
+
+**Flat-footed:** 16
+
+**AC modifiers:** +2 armor, +4 Dex, +3 natural, +1 size
+
+**Hit points:** 60 (8d6+32)
+
+**Fort:** +6
+
+**Ref:** +10
+
+**Will:** +7
 
 **Dr:** 10/cold iron
 
 **Fh:** 3
 
-**Fort:** +6
-
-**Hit points:** 60 (8d6+32)
-
-**Mod:** +2 armor, +4 Dex, +3 natural, +1 size
-
-**Ref:** +10
-
 **Weaknesses:** irreligious
-
-**Will:** +7
 
 **Offense**
 

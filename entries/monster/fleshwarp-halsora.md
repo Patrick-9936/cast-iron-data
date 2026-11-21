@@ -47,21 +47,25 @@ constantly drip viscous, black tears._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/13/17
+**Armor class:** 19
 
-**Dr:** 5/bludgeoning or slashing
+**Touch:** 13
 
-**Fort:** +6
+**Flat-footed:** 17
+
+**AC modifiers:** +2 Dex, +6 natural, +1 size
 
 **Hit points:** 75 (10d8+30)
 
-**Immune:** acid, disease
-
-**Mod:** +2 Dex, +6 natural, +1 size
+**Fort:** +6
 
 **Ref:** +5
 
 **Will:** +9
+
+**Dr:** 5/bludgeoning or slashing
+
+**Immune:** acid, disease
 
 **Offense**
 

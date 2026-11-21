@@ -14,6 +14,9 @@ group = "mesmerist-trick"
 
 **Mental Fallback**
 
+**Flavor:** Mental commands placed deep in the subject's mind trigger when she would fall under mind
+control, allowing the mesmerist to control her instead.
+
 **Ability:** The mesmerist can trigger this trick when the subject is affected by a charm or
 compulsion effect created by an enemy. The subject acts as though the mesmerist had cast the spell
 instead of the enemy. For instance, if the subject were affected by
@@ -27,8 +30,5 @@ the mesmerist chooses.
 
 This trick overrides the charm or compulsion for a number of rounds equal to the mesmerist's level
 or until the duration of the triggering effect elapses, whichever comes first.
-
-**Flavor:** Mental commands placed deep in the subject's mind trigger when she would fall under mind
-control, allowing the mesmerist to control her instead.
 
 **Special:** The mesmerist can't implant this trick on himself.

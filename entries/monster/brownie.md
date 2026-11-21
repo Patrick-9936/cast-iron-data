@@ -47,21 +47,25 @@ expressive face._
 
 **Experience points:** 400
 
-**Armor class:** 17/17/12
+**Armor class:** 17
 
-**Dr:** 5/cold iron
+**Touch:** 17
 
-**Fort:** +1
+**Flat-footed:** 12
+
+**AC modifiers:** +4 Dex, +1 dodge, +2 size
 
 **Hit points:** 4 (1d6+1)
 
-**Mod:** +4 Dex, +1 dodge, +2 size
+**Fort:** +1
 
 **Ref:** +6
 
-**Sr:** 12
-
 **Will:** +4; +2 vs. illusions
+
+**Dr:** 5/cold iron
+
+**Sr:** 12
 
 **Offense**
 

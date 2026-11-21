@@ -50,13 +50,17 @@ razor-sharp beak._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/12/15
+**Armor class:** 19
 
-**Fort:** +10
+**Touch:** 12
+
+**Flat-footed:** 15
+
+**AC modifiers:** +3 Dex, +1 dodge, +7 natural, -2 size
 
 **Hit points:** 82 (11d8+33)
 
-**Mod:** +3 Dex, +1 dodge, +7 natural, -2 size
+**Fort:** +10
 
 **Ref:** +12
 

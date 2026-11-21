@@ -54,23 +54,27 @@ bell vibrates with an electrical charge._
 
 **Experience points:** 12,800
 
-**Armor class:** 24/12/20
+**Armor class:** 24
+
+**Touch:** 12
+
+**Flat-footed:** 20
+
+**AC modifiers:** +4 Dex, +12 natural, -2 size
+
+**Hit points:** 138 (12d8+84)
+
+**Fort:** +15
+
+**Ref:** +8
+
+**Will:** +5
 
 **Amorph:** present
 
 **Dr:** 10/piercing or slashing
 
-**Fort:** +15
-
-**Hit points:** 138 (12d8+84)
-
 **Immune:** electricity, mind-affecting effects
-
-**Mod:** +4 Dex, +12 natural, -2 size
-
-**Ref:** +8
-
-**Will:** +5
 
 **Offense**
 

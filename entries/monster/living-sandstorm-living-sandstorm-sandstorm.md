@@ -51,23 +51,27 @@ abilities = ["1", "22", "21", "12", "12", "13"]
 
 **Experience points:** 12,800
 
-**Armor class:** 34/25/27
+**Armor class:** 34
+
+**Touch:** 25
+
+**Flat-footed:** 27
+
+**AC modifiers:** +6 Dex, +1 dodge, +9 natural, +8 size
+
+**Hit points:** 147 (14d10+70)
+
+**Fort:** +9
+
+**Ref:** +15
+
+**Will:** +12
 
 **Defensive abilities:** swarm traits
 
 **Dr:** 10/-
 
-**Fort:** +9
-
-**Hit points:** 147 (14d10+70)
-
 **Immune:** [elemental](ref/subtype/elemental) traits, weapon damage
-
-**Mod:** +6 Dex, +1 dodge, +9 natural, +8 size
-
-**Ref:** +15
-
-**Will:** +12
 
 **Offense**
 

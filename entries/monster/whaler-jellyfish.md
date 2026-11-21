@@ -51,7 +51,21 @@ tendrils below its body._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/8/26
+**Armor class:** 32
+
+**Touch:** 8
+
+**Flat-footed:** 26
+
+**AC modifiers:** +6 Dex, +24 natural, -8 size
+
+**Hit points:** 270 (20d8+180)
+
+**Fort:** +21
+
+**Ref:** +12
+
+**Will:** +13
 
 **Amorph:** present
 
@@ -59,17 +73,7 @@ tendrils below its body._
 
 **Dr:** 20/piercing or slashing
 
-**Fort:** +21
-
-**Hit points:** 270 (20d8+180)
-
 **Immune:** mind-affecting effects
-
-**Mod:** +6 Dex, +24 natural, -8 size
-
-**Ref:** +12
-
-**Will:** +13
 
 **Offense**
 

@@ -51,19 +51,23 @@ loll from its jaw like a clawed tongue._
 
 **Experience points:** 4,800
 
-**Armor class:** 23/15/18
+**Armor class:** 23
 
-**Fort:** +6
+**Touch:** 15
+
+**Flat-footed:** 18
+
+**AC modifiers:** +4 Dex, +1 dodge, +8 natural
 
 **Hit points:** 91 (14d8+28)
 
-**Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +1 dodge, +8 natural
+**Fort:** +6
 
 **Ref:** +10
 
 **Will:** +9
+
+**Immune:** [undead traits](ref/umr/undead-traits)
 
 **Offense**
 

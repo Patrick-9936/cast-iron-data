@@ -16,6 +16,6 @@ group = "vigilante-talent"
 
 **Ability:** The vigilante has a sense for danger. He always acts on the surprise round.
 
-**At 12th Level:** He gains [improved uncanny dodge](ref/ability/improved-uncanny-dodge).
+**At 6th level,** he gains [uncanny dodge](ref/ability/uncanny-dodge).
 
-**At 6th Level:** He gains [uncanny dodge](ref/ability/uncanny-dodge).
+**At 12th level,** he gains [improved uncanny dodge](ref/ability/improved-uncanny-dodge).

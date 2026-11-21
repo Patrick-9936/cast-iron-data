@@ -50,19 +50,23 @@ oversized claws._
 
 **Experience points:** 153,600
 
-**Armor class:** 33/10/25
+**Armor class:** 33
 
-**Fort:** +22
+**Touch:** 10
+
+**Flat-footed:** 25
+
+**AC modifiers:** +8 Dex, +23 natural, -8 size
 
 **Hit points:** 290 (20d8+200)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +8 Dex, +23 natural, -8 size
+**Fort:** +22
 
 **Ref:** +14
 
 **Will:** +14
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

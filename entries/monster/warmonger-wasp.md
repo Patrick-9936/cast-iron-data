@@ -54,21 +54,25 @@ it buzzes through the air._
 
 **Experience points:** 3,200
 
-**Armor class:** 21/15/15
+**Armor class:** 21
 
-**Fh:** 5
+**Touch:** 15
 
-**Fort:** +5
+**Flat-footed:** 15
+
+**AC modifiers:** +6 Dex, +6 natural, -1 size
 
 **Hit points:** 85 (10d10+30)
 
-**Immune:** electricity, [construct traits](ref/umr/construct-traits)
-
-**Mod:** +6 Dex, +6 natural, -1 size
+**Fort:** +5
 
 **Ref:** +9
 
 **Will:** +4
+
+**Fh:** 5
+
+**Immune:** electricity, [construct traits](ref/umr/construct-traits)
 
 **Offense**
 

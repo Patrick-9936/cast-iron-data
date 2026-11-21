@@ -53,19 +53,23 @@ protrudes from its head._
 
 **Experience points:** 1,600
 
-**Armor class:** 19/9/19
+**Armor class:** 19
 
-**Fort:** +9
+**Touch:** 9
+
+**Flat-footed:** 19
+
+**AC modifiers:** +10 natural, -1 size
 
 **Hit points:** 60 (8d8+24)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +10 natural, -1 size
+**Fort:** +9
 
 **Ref:** +2
 
 **Will:** +2
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

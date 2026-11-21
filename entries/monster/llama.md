@@ -47,13 +47,17 @@ _This shaggy, hoofed quadruped sports an elongated neck and large, crooked teeth
 
 **Experience points:** 200
 
-**Armor class:** 11/11/10
+**Armor class:** 11
 
-**Fort:** +4
+**Touch:** 11
+
+**Flat-footed:** 10
+
+**AC modifiers:** +1 Dex
 
 **Hit points:** 6 (1d8+2)
 
-**Mod:** +1 Dex
+**Fort:** +4
 
 **Ref:** +3
 

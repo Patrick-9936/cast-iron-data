@@ -50,27 +50,31 @@ _Ash and embers encrust the smoldering humanoid frame of this imperious, dragon-
 
 **Experience points:** 204,800
 
-**Armor class:** 36/17/28
+**Armor class:** 36
 
-**Dr:** 15/good and silver
+**Touch:** 17
 
-**Fort:** +23
+**Flat-footed:** 28
+
+**AC modifiers:** +8 Dex, +19 natural, -1 size
 
 **Hit points:** 315 (18d10+216)
 
-**Immune:** fire, poison
-
-**Mod:** +8 Dex, +19 natural, -1 size
+**Fort:** +23
 
 **Ref:** +19
+
+**Will:** +14
+
+**Dr:** 15/good and silver
+
+**Immune:** fire, poison
 
 **Regen:** 5 (good weapons or good spells)
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 30
-
-**Will:** +14
 
 **Offense**
 

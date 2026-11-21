@@ -15,7 +15,7 @@ kind = "class_option"
 group = "magus-arcana"
 +++
 
-**Reach Magic:**
+**Reach Magic**
 
 **Ability:** The magus can cast one spell per day as if it were modified by the
 [Reach Spell](ref/feat/reach-spell) feat. This doesn't increase the spell's casting time or level.

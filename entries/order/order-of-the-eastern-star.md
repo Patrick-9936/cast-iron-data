@@ -60,13 +60,13 @@ armor or no armor and [fighting defensively](ref/misc/fighting-defensively) or u
 [Combat Expertise](ref/feat/combat-expertise). He loses the benefits of this ability if carrying a
 medium or heavier load.
 
-At 6th level: This DR 2/-.
+**At 6th level,** this DR 2/-.
 
-At 10th level: This DR 3/-.
+**At 10th level,** this DR 3/-.
 
-At 14th level: This DR 4/-.
+**At 14th level,** this DR 4/-.
 
-At 18th level: This DR 5/-.
+**At 18th level,** this DR 5/-.
 
 **Pierce the Guard (Ex)**
 

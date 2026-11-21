@@ -14,14 +14,14 @@ group = "social-talent"
 
 **Transformation Sequence (Su)**
 
+**Flavor:** The vigilante's transformation between identities is assisted by magic. This makes it
+faster than usual, but also more noticeable.
+
 **Ability:** The vigilante can complete the switch between his identities in 5 rounds, improving to
 a **standard action** if he has the [quick change](ref/soctalent/quick-change) social talent, and to
 a **swift action** if he has the [immediate change](ref/soctalent/immediate-change) social talent.
 However, the transformation causes quite a spectacle, involving loud sounds or music, brilliant
 colorful energies, and swift motions.
-
-**Flavor:** The vigilante's transformation between identities is assisted by magic. This makes it
-faster than usual, but also more noticeable.
 
 **Prereq:** Able to cast spells or [spell-like abilities](ref/umr/spell-like-abilities)
 

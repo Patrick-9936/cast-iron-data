@@ -14,8 +14,8 @@ group = "ki-power"
 
 **Ki Range (Su)**
 
-**Special:** Apply this benefit before doubling the range increment with the
-[Far Shot](ref/feat/far-shot) feat.
-
 **Swift:** A monk with this ability can spend 1 ki point to increase the range increment of any
 thrown monk weapon by 20 feet.
+
+**Special:** Apply this benefit before doubling the range increment with the
+[Far Shot](ref/feat/far-shot) feat.

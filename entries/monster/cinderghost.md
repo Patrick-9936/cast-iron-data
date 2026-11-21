@@ -50,7 +50,21 @@ unblinking eyes that flicker like dying embers._
 
 **Experience points:** 3,200
 
-**Armor class:** 20/20/15
+**Armor class:** 20
+
+**Touch:** 20
+
+**Flat-footed:** 15
+
+**AC modifiers:** +5 Deflection, +4 Dex, +1 Dodge
+
+**Hit points:** 85 (9d8+45)
+
+**Fort:** +10
+
+**Ref:** +7
+
+**Will:** +8
 
 **Chan Res:** +2
 
@@ -58,21 +72,11 @@ unblinking eyes that flicker like dying embers._
 
 **Fh:** 5
 
-**Fort:** +10
-
-**Hit points:** 85 (9d8+45)
-
 **Immune:** fire, [undead traits](ref/umr/undead-traits)
 
 **Incorporeal:** present
 
-**Mod:** +5 Deflection, +4 Dex, +1 Dodge
-
-**Ref:** +7
-
 **Vulner:** cold
-
-**Will:** +8
 
 **Offense**
 

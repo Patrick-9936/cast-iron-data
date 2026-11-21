@@ -52,23 +52,27 @@ the air astride a vortex of dust._
 
 **Experience points:** 25,600
 
-**Armor class:** 29/25/20
+**Armor class:** 29
+
+**Touch:** 25
+
+**Flat-footed:** 20
+
+**AC modifiers:** +6 deflection, +8 Dex, +1 dodge, +4 natural
+
+**Hit points:** 175 (14d6+126)
+
+**Fort:** +13
+
+**Ref:** +17
+
+**Will:** +16
 
 **Defensive abilities:** dust devil
 
 **Dr:** 10/cold iron
 
-**Fort:** +13
-
-**Hit points:** 175 (14d6+126)
-
-**Mod:** +6 deflection, +8 Dex, +1 dodge, +4 natural
-
-**Ref:** +17
-
 **Sr:** 24
-
-**Will:** +16
 
 **Offense**
 

@@ -47,13 +47,17 @@ leathery._
 
 **Experience points:** 4,800
 
-**Armor class:** 21/8/19
+**Armor class:** 21
 
-**Fort:** +13
+**Touch:** 8
+
+**Flat-footed:** 19
+
+**AC modifiers:** +2 Dex, +13 natural, -4 size
 
 **Hit points:** 105 (10d8+60)
 
-**Mod:** +2 Dex, +13 natural, -4 size
+**Fort:** +13
 
 **Ref:** +9
 

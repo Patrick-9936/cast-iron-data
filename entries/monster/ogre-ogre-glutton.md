@@ -54,23 +54,27 @@ mouth with ill-fitting teeth._
 
 **Experience points:** 12,800
 
-**Armor class:** 20/10/18
+**Armor class:** 20
 
-**Dr:** 1/-
+**Touch:** 10
 
-**Fort:** +16
+**Flat-footed:** 18
+
+**AC modifiers:** +5 armor, +1 deflection, +2 Dex, +5 natural, -2 rage, -1 size
 
 **Hit points:** 155 (4d8+8d12+80\~12)
 
-**Improved uncanny dodge:** present
-
-**Mod:** +5 armor, +1 deflection, +2 Dex, +5 natural, -2 rage, -1 size
+**Fort:** +16
 
 **Ref:** +6
 
-**Trap S:** +2
-
 **Will:** +9; +4 vs. magic
+
+**Dr:** 1/-
+
+**Improved uncanny dodge:** present
+
+**Trap S:** +2
 
 **Offense**
 

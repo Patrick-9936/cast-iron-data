@@ -49,7 +49,21 @@ long, sharp fangs protruding from a breathless mouth._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/15/22
+**Armor class:** 27
+
+**Touch:** 15
+
+**Flat-footed:** 22
+
+**AC modifiers:** +4 Dex, +1 dodge, +12 natural
+
+**Hit points:** 161 (14d8+98)
+
+**Fort:** +13
+
+**Ref:** +10
+
+**Will:** +13
 
 **Chan Res:** +4
 
@@ -57,21 +71,11 @@ long, sharp fangs protruding from a breathless mouth._
 
 **Fh:** 5
 
-**Fort:** +13
-
-**Hit points:** 161 (14d8+98)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +4 Dex, +1 dodge, +12 natural
-
-**Ref:** +10
 
 **Resist:** cold 10, electricity 10
 
 **Weaknesses:** bound to the grave
-
-**Will:** +13
 
 **Offense**
 

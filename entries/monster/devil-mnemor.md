@@ -51,23 +51,27 @@ tongue snaking out over its distended jaw._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/14/14
+**Armor class:** 18
 
-**Fort:** +6
+**Touch:** 14
+
+**Flat-footed:** 14
+
+**AC modifiers:** +4 Dex, +4 natural
 
 **Hit points:** 57 (6d10+24)
 
-**Immune:** fire, poison
-
-**Mod:** +4 Dex, +4 natural
+**Fort:** +6
 
 **Ref:** +9
+
+**Will:** +7
+
+**Immune:** fire, poison
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 16
-
-**Will:** +7
 
 **Offense**
 

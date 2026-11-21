@@ -53,23 +53,27 @@ spindly, multi-jointed fingers, and four circular rotors hold the creature aloft
 
 **Experience points:** 800
 
-**Armor class:** 16/13/13
+**Armor class:** 16
 
-**Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 10, reactive gyros
+**Touch:** 13
 
-**Fort:** +0
+**Flat-footed:** 13
+
+**AC modifiers:** +3 Dex, +3 natural
 
 **Hit points:** 31 (2d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +3 Dex, +3 natural
+**Fort:** +0
 
 **Ref:** +6
 
-**Vulner:** critical hits and electricity
-
 **Will:** +2
+
+**Defensive abilities:** all-around vision, [hardness](ref/umr/hardness) 10, reactive gyros
+
+**Immune:** [construct traits](ref/umr/construct-traits)
+
+**Vulner:** critical hits and electricity
 
 **Offense**
 

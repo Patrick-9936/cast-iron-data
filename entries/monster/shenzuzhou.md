@@ -52,25 +52,29 @@ stretches across the creature's chest._
 
 **Experience points:** 19,200
 
-**Armor class:** 27/12/24
+**Armor class:** 27
+
+**Touch:** 12
+
+**Flat-footed:** 24
+
+**AC modifiers:** +3 Dex, +15 natural, -1 size
+
+**Hit points:** 127 (17d8+51)
+
+**Fort:** +8
+
+**Ref:** +10
+
+**Will:** +12
 
 **Chan Res:** +4
 
 **Dr:** 5/magic
 
-**Fort:** +8
-
-**Hit points:** 127 (17d8+51)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +3 Dex, +15 natural, -1 size
-
-**Ref:** +10
-
 **Sr:** 23
-
-**Will:** +12
 
 **Offense**
 

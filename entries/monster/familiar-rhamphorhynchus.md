@@ -50,19 +50,23 @@ filled with needle-like teeth, and a long tail ending in a diamond-shaped vane._
 
 **Experience points:** 135
 
-**Armor class:** 15/15/12
+**Armor class:** 15
 
-**Evasion:** present
+**Touch:** 15
 
-**Fort:** +2
+**Flat-footed:** 12
+
+**AC modifiers:** +3 Dex, +2 size
 
 **Hit points:** 4 (1d8)
 
-**Mod:** +3 Dex, +2 size
+**Fort:** +2
 
 **Ref:** +7
 
 **Will:** +2
+
+**Evasion:** present
 
 **Offense**
 

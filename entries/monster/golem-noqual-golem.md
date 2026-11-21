@@ -50,24 +50,28 @@ lithe quickness._
 
 **Experience points:** 153,600
 
-**Armor class:** 32/10/30
+**Armor class:** 32
 
-**Defensive abilities:** spell absorption
+**Touch:** 10
 
-**Dr:** 15/adamantine
+**Flat-footed:** 30
 
-**Fort:** +8
+**AC modifiers:** +2 Dex, +22 natural, -2 size
 
 **Hit points:** 202 (25d10+65)
 
-**Immune:** [construct traits](ref/umr/construct-traits), magic
-
-**Mod:** +2 Dex, +22 natural, -2 size
+**Fort:** +8
 
 **Ref:** +10
 
 **Will:** +8; +8 vs. spells, [spell-like abilities](ref/umr/spell-like-abilities), and supernatural
 abilities
+
+**Defensive abilities:** spell absorption
+
+**Dr:** 15/adamantine
+
+**Immune:** [construct traits](ref/umr/construct-traits), magic
 
 **Offense**
 

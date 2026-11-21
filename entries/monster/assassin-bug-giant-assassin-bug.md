@@ -50,19 +50,23 @@ _This goat-sized insect stands on long, spindly legs. Its mouthparts glisten wit
 
 **Experience points:** 800
 
-**Armor class:** 15/13/13
+**Armor class:** 15
 
-**Fort:** +5
+**Touch:** 13
+
+**Flat-footed:** 13
+
+**AC modifiers:** +2 Dex, +2 natural, +1 size
 
 **Hit points:** 27 (5d8+5)
 
-**Immune:** mind-affecting effects
-
-**Mod:** +2 Dex, +2 natural, +1 size
+**Fort:** +5
 
 **Ref:** +3
 
 **Will:** +1
+
+**Immune:** mind-affecting effects
 
 **Offense**
 

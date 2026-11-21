@@ -55,27 +55,31 @@ sleek killer whale._
 
 **Experience points:** 51,200
 
-**Armor class:** 30/15/25
+**Armor class:** 30
 
-**Dr:** 10/evil and silver
+**Touch:** 15
 
-**Fort:** +17
+**Flat-footed:** 25
+
+**AC modifiers:** +4 Dex, +1 dodge, +15 natural; +4 deflection vs. evil
 
 **Hit points:** 212 (17d10+119)
 
-**Immune:** cold, electricity, petrification
-
-**Mod:** +4 Dex, +1 dodge, +15 natural; +4 deflection vs. evil
+**Fort:** +17
 
 **Ref:** +16
+
+**Will:** +9; +4 vs. poison, +4 resistance vs. evil
+
+**Dr:** 10/evil and silver
+
+**Immune:** cold, electricity, petrification
 
 **Regen:** 5 (evil weapons and spells)
 
 **Resist:** sonic 10
 
 **Sr:** 26
-
-**Will:** +9; +4 vs. poison, +4 resistance vs. evil
 
 **Offense**
 

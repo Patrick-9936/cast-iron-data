@@ -55,27 +55,31 @@ fingers on gauntleted hands._
 
 **Experience points:** 102,400
 
-**Armor class:** 46/20/36
+**Armor class:** 46
 
-**Dr:** 10/good and silver
+**Touch:** 20
 
-**Fort:** +20
+**Flat-footed:** 36
+
+**AC modifiers:** +14 armor, +10 Dex, +12 natural
 
 **Hit points:** 261 (18d10+162)
 
-**Immune:** fire, poison
-
-**Mod:** +14 armor, +10 Dex, +12 natural
+**Fort:** +20
 
 **Ref:** +16
+
+**Will:** +20
+
+**Dr:** 10/good and silver
+
+**Immune:** fire, poison
 
 **Regen:** 5
 
 **Resist:** acid 10, cold 10
 
 **Sr:** 27
-
-**Will:** +20
 
 **Offense**
 

@@ -51,13 +51,17 @@ detachment of the owl it resembles._
 **Subtype:** Syrinx\
 **Experience points:** 135
 
-**Armor class:** 9/9/9
+**Armor class:** 9
 
-**Fort:** -1
+**Touch:** 9
+
+**Flat-footed:** 9
+
+**AC modifiers:** -1 Dex
 
 **Hit points:** 5 (1d6-1)
 
-**Mod:** -1 Dex
+**Fort:** -1
 
 **Ref:** -1
 

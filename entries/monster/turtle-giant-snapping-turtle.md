@@ -47,13 +47,17 @@ _This lumbering turtle is the size of a house; its head features powerful, razor
 
 **Experience points:** 6,400
 
-**Armor class:** 23/4/23
+**Armor class:** 23
 
-**Fort:** +12
+**Touch:** 4
+
+**Flat-footed:** 23
+
+**AC modifiers:** -2 Dex, +19 natural, -4 size
 
 **Hit points:** 115 (11d8+66)
 
-**Mod:** -2 Dex, +19 natural, -4 size
+**Fort:** +12
 
 **Ref:** +5
 

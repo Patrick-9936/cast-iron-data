@@ -58,27 +58,31 @@ monstrous stench._
 
 **Experience points:** 9,600
 
-**Armor class:** 24/11/22
+**Armor class:** 24
+
+**Touch:** 11
+
+**Flat-footed:** 22
+
+**AC modifiers:** +2 Dex, +13 natural, -1 size
+
+**Hit points:** 133 (14d8+70)
+
+**Fort:** +9
+
+**Ref:** +8
+
+**Will:** +12
 
 **Defensive abilities:** tenuous natural invisibility
 
 **Dr:** 10/magic
 
-**Fort:** +9
-
-**Hit points:** 133 (14d8+70)
-
 **Immune:** cold, fire
-
-**Mod:** +2 Dex, +13 natural, -1 size
-
-**Ref:** +8
 
 **Resist:** sonic 10
 
 **Sr:** 21
-
-**Will:** +12
 
 **Offense**
 

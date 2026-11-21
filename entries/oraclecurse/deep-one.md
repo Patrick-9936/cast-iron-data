@@ -14,17 +14,17 @@ group = "oracle-curse"
 
 **Deep One**
 
+**Flavor:** The lure of the ocean tugs at your soul.
+
 **Benefit:** You gain a swim speed equal to your land speed, and if you already have a swim speed,
 you increase it by 10 feet.
 
-**Flavor:** The lure of the ocean tugs at your soul.
+**At 5th level,** your natural armor bonus increases by 1 as your skin thickens.
 
-**At 10th Level:** You gain a +1 bonus to your caster level when casting spells underwater and when
+**At 10th level,** you gain a +1 bonus to your caster level when casting spells underwater and when
 casting spells with the water descriptor.
 
-**At 15th Level:** You gain the benefits of [freedom of movement](ref/spell/freedom-of-movement)
+**At 15th level,** you gain the benefits of [freedom of movement](ref/spell/freedom-of-movement)
 while underwater.
-
-**At 5th Level:** Your natural armor bonus increases by 1 as your skin thickens.
 
 **Penalty:** You reduce your base land speed by 5 feet.

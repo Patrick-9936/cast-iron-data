@@ -14,9 +14,9 @@ group = "mesmerist-trick"
 
 **Free in Body**
 
+**Flavor:** When constrained, the subject can easily slip loose.
+
 **Ability:** The mesmerist can trigger this trick when the subject begins its turn grappled or under
 an effect that impedes its movement (including paralysis, [solid fog](ref/spell/solid-fog),
 [slow](ref/spell/slow), and [web](ref/spell/web)). The subject gains the benefits of
 [freedom of movement](ref/spell/freedom-of-movement) for 1 minute.
-
-**Flavor:** When constrained, the subject can easily slip loose.

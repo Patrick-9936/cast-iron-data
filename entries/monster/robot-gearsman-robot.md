@@ -55,25 +55,29 @@ glass orb for an eye._
 
 **Experience points:** 1,200
 
-**Armor class:** 18/11/17
+**Armor class:** 18
 
-**Defensive abilities:** [hardness](ref/umr/hardness) 5
+**Touch:** 11
 
-**Fort:** +1
+**Flat-footed:** 17
+
+**AC modifiers:** +1 Dex, +7 natural
 
 **Hit points:** 42 (4d10+20)
 
-**Immune:** [construct traits](ref/umr/construct-traits)
-
-**Mod:** +1 Dex, +7 natural
+**Fort:** +1
 
 **Ref:** +2
+
+**Will:** +2
+
+**Defensive abilities:** [hardness](ref/umr/hardness) 5
+
+**Immune:** [construct traits](ref/umr/construct-traits)
 
 **Vulner:** electricity
 
 **Weaknesses:** vulnerable to critical hits
-
-**Will:** +2
 
 **Offense**
 

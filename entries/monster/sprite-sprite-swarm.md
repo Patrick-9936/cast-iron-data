@@ -52,23 +52,27 @@ buzzing, writhing swarm._
 
 **Experience points:** 1,600
 
-**Armor class:** 18/18/14
+**Armor class:** 18
+
+**Touch:** 18
+
+**Flat-footed:** 14
+
+**AC modifiers:** +3 Dex, +1 dodge, +4 size
+
+**Hit points:** 45 (10d6+10)
+
+**Fort:** +4
+
+**Ref:** +10
+
+**Will:** +7
 
 **Defensive abilities:** swarm traits
 
 **Dr:** 2/cold iron
 
-**Fort:** +4
-
-**Hit points:** 45 (10d6+10)
-
 **Immune:** weapon damage
-
-**Mod:** +3 Dex, +1 dodge, +4 size
-
-**Ref:** +10
-
-**Will:** +7
 
 **Offense**
 

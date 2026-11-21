@@ -57,27 +57,31 @@ legs end in blackened, burnt stumps._
 
 **Experience points:** 102,400
 
-**Armor class:** 32/18/23
+**Armor class:** 32
 
-**Dr:** 15/cold iron and magic
+**Touch:** 18
 
-**Fort:** +21
+**Flat-footed:** 23
+
+**AC modifiers:** +9 Dex, +14 natural, -1 size
 
 **Hit points:** 279 (18d10+180)
 
-**Immune:** cold, fear
-
-**Mod:** +9 Dex, +14 natural, -1 size
+**Fort:** +21
 
 **Ref:** +22
+
+**Will:** +11
+
+**Dr:** 15/cold iron and magic
+
+**Immune:** cold, fear
 
 **Regen:** 15 (fire)
 
 **Sr:** 28
 
 **Vulner:** fire
-
-**Will:** +11
 
 **Offense**
 

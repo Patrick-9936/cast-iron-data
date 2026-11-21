@@ -48,25 +48,29 @@ viscera that hovers in the air._
 
 **Experience points:** 2,400
 
-**Armor class:** 16/16/11
+**Armor class:** 16
+
+**Touch:** 16
+
+**Flat-footed:** 11
+
+**AC modifiers:** +4 Dex, +1 dodge, +1 size
+
+**Hit points:** 65 (10d8+20)
+
+**Fort:** +5
+
+**Ref:** +7
+
+**Will:** +7
 
 **Defensive abilities:** odd anatomy
 
 **Dr:** 5/-
 
-**Fort:** +5
-
-**Hit points:** 65 (10d8+20)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
 
-**Mod:** +4 Dex, +1 dodge, +1 size
-
-**Ref:** +7
-
 **Weaknesses:** vulnerable to channeled energy
-
-**Will:** +7
 
 **Offense**
 

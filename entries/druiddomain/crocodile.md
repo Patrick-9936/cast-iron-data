@@ -38,14 +38,14 @@ damage. When using this ability, you gain a bonus to your CMB equal to one half 
 
 **Ambush (Ex)**
 
+**Gained:** At 6th Level
+
 **Ability:** You gain [sneak attack](ref/ability/sneak-attack) +1d6. This increase to sneak attack
 damage stacks with sneak attack damage you may have from other sources.
 
-**Gained:** At 6th Level
+**At 11th level,** this sneak attack damage increases to +2d6.
 
-At 11th level: This sneak attack damage increases to +2d6.
-
-At 16th level: This sneak attack damage increases to +3d6.
+**At 16th level,** this sneak attack damage increases to +3d6.
 
 **Domain Spells**
 

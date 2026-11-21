@@ -54,23 +54,29 @@ warhammer._
 
 **Experience points:** 2,457,600
 
-**Armor class:** 44/30/38
+**Armor class:** 44
+
+**Touch:** 30
+
+**Flat-footed:** 38
+
+**AC modifiers:** +4 deflection, +6 Dex, +14 natural, +12 profane, -2 size
+
+**Hit points:** 604 (31d10+434)
+
+**Fort:** +35
+
+**Ref:** +20
+
+**Will:** +31
 
 **Defensive abilities:** Abyssal resurrection,
 _[freedom of movement](ref/spell/freedom-of-movement)_
 
 **Dr:** 20/cold iron, epic, and good
 
-**Fort:** +35
-
-**Hit points:** 604 (31d10+434)
-
 **Immune:** ability damage, ability drain, charm effects, compulsion effects, cold, death effects,
 electricity, energy drain, petrification, and poison
-
-**Mod:** +4 deflection, +6 Dex, +14 natural, +12 profane, -2 size
-
-**Ref:** +20
 
 **Regen:** 30 (deific or mythic)
 
@@ -81,8 +87,6 @@ electricity, energy drain, petrification, and poison
 **Sr:** 37
 
 **Vulner:** fire
-
-**Will:** +31
 
 **Offense**
 

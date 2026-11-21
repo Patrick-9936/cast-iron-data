@@ -14,11 +14,11 @@ group = "rogue-talent"
 
 **Silencing Strike (Su)**
 
+**Flavor:** Using magic stolen from the [Hellknights](ref/rule/aff-lawknights), Council agents can
+render foes silent.
+
 **Ability:** When a creature is damaged by the rogue's sneak attack, the rogue magically renders the
 creature mute for 1 round unless it succeeds at a Will save (DC = 10 + half the rogue's level + the
 rogue's Charisma modifier).
-
-**Flavor:** Using magic stolen from the [Hellknights](ref/rule/aff-lawknights), Council agents can
-render foes silent.
 
 **Usage:** 1 time/day per 2 rogue levels

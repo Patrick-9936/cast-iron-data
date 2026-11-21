@@ -53,23 +53,27 @@ three of this wild-haired man's limbs._
 
 **Experience points:** 19,200
 
-**Armor class:** 25/16/21
+**Armor class:** 25
 
-**Fort:** +12
+**Touch:** 16
+
+**Flat-footed:** 21
+
+**AC modifiers:** +6 armor, +1 deflection, +3 Dex, +1 dodge, +3 natural, +1 size
 
 **Hit points:** 144 (3d8+11d8+81\~14)
 
-**Immune:** poison
-
-**Mod:** +6 armor, +1 deflection, +3 Dex, +1 dodge, +3 natural, +1 size
+**Fort:** +12
 
 **Ref:** +11
+
+**Will:** +8
+
+**Immune:** poison
 
 **Sr:** 23
 
 **Weaknesses:** vulnerability to sunlight
-
-**Will:** +8
 
 **Offense**
 

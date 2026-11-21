@@ -53,23 +53,27 @@ massive skeleton._
 
 **Experience points:** 25,600
 
-**Armor class:** 28/8/28
+**Armor class:** 28
+
+**Touch:** 8
+
+**Flat-footed:** 28
+
+**AC modifiers:** +20 natural, -2 size
+
+**Hit points:** 180 (19d8+95)
+
+**Fort:** +11
+
+**Ref:** +6
+
+**Will:** +14
 
 **Chan Res:** +4
 
 **Dr:** 10/bludgeoning
 
-**Fort:** +11
-
-**Hit points:** 180 (19d8+95)
-
 **Immune:** [undead traits](ref/umr/undead-traits)
-
-**Mod:** +20 natural, -2 size
-
-**Ref:** +6
-
-**Will:** +14
 
 **Offense**
 

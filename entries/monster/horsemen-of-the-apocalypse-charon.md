@@ -56,31 +56,35 @@ cunning._
 
 **Experience points:** 9,830,400
 
-**Armor class:** 48/38/40
+**Armor class:** 48
+
+**Touch:** 38
+
+**Flat-footed:** 40
+
+**AC modifiers:** +4 deflection, +8 Dex, +10 natural, +16 profane
+
+**Hit points:** 774 (36d10+576)
+
+**Fort:** +32
+
+**Ref:** +32
+
+**Will:** +35
 
 **Defensive abilities:** apocalyptic resurrection,
 _[freedom of movement](ref/spell/freedom-of-movement)_, negative energy affinity, Stygian bond
 
 **Dr:** 20/epic, good, and silver
 
-**Fort:** +32
-
-**Hit points:** 774 (36d10+576)
-
 **Immune:** ability damage, ability drain, acid, death effects, disease, energy drain,
 mind-affecting effects, petrification, poison
-
-**Mod:** +4 deflection, +8 Dex, +10 natural, +16 profane
-
-**Ref:** +32
 
 **Regen:** 20 (deific or mythic)
 
 **Resist:** cold 30, electricity 30, fire 30
 
 **Sr:** 41
-
-**Will:** +35
 
 **Offense**
 

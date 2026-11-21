@@ -48,23 +48,27 @@ including a pair of razor-sharp metal tusks._
 
 **Experience points:** 3,200
 
-**Armor class:** 19/8/19
+**Armor class:** 19
+
+**Touch:** 8
+
+**Flat-footed:** 19
+
+**AC modifiers:** +5 armor, +6 natural, -2 size
+
+**Hit points:** 94 (9d10+45)
+
+**Fort:** +10
+
+**Ref:** +6
+
+**Will:** +6
 
 **Dr:** 2/-
 
 **Ferocity:** present
 
-**Fort:** +10
-
-**Hit points:** 94 (9d10+45)
-
-**Mod:** +5 armor, +6 natural, -2 size
-
-**Ref:** +6
-
 **Resist:** fire 15
-
-**Will:** +6
 
 **Offense**
 

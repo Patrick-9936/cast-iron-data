@@ -22,6 +22,6 @@ While summoned, the witch can use the lotus to cross water as if she was affecte
 [water walk](ref/spell/water-walk). She can also use the flower for short bursts of flight, gaining
 a +10 enhancement bonus on Acrobatics checks when attempting high jumps and long jumps.
 
-**At 5th Level:** This bonus increases to +20.
+**At 5th level,** this bonus increases to +20.
 
-**At 9th Level:** This bonus becomes +30.
+**At 9th level,** this bonus becomes +30.
