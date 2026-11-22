@@ -15,7 +15,7 @@ kind = "item"
 category = "Artifacts"
 price = "-"
 weight = "100 lbs."
-slot = "armor (barding)"
+slot = "armor"
 aura = "overwhelming abjuration"
 caster_level = "20th"
 +++

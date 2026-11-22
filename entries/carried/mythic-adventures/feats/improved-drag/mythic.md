@@ -16,28 +16,14 @@ relations = [
 kind = "feat"
 feat_types = ["Mythic"]
 prerequisites = "Improved Drag."
-benefit = "You gain a bonus equal to half your tier on checks to attempt a drag combat maneuver, and to your CMD when an opponent attempts a drag combat maneuver against you. These bonuses stack with those granted by Improved Drag. Furthermore, you can make an attack of opportunity against any creature that attempts a drag maneuver against you, unless it also has this feat."
+benefit = "You gain a bonus equal to half your tier on checks to attempt a drag combat maneuver, and to your CMD when an opponent attempts a drag combat maneuver against you. These bonuses stack with those granted by Improved Drag."
 +++
 
-::: statblock
-Type: Mythic
-:::
+You pull your enemies around the battlefield with great ease.\
+**Prerequisites:** Improved Drag.\
+**Benefit:** You gain a bonus equal to half your tier on checks to attempt a drag combat maneuver,
+and to your CMD when an opponent attempts a drag combat maneuver against you. These bonuses stack
+with those granted by Improved Drag.
 
-_You pull your enemies around the battlefield with great ease._
-
-## Prerequisites {#prerequisites}
-
-_Improved Drag._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain a bonus equal to half your tier on checks to attempt a drag combat maneuver, and to your
-CMD when an opponent attempts a drag combat maneuver against you. These bonuses stack with those
-granted by Improved Drag.
-:::
-
-::: paragraph statline
 Furthermore, you can make an attack of opportunity against any creature that attempts a drag
 maneuver against you, unless it also has this feat.
-:::

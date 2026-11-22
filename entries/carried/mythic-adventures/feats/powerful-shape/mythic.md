@@ -16,27 +16,13 @@ relations = [
 kind = "feat"
 feat_types = ["Mythic"]
 prerequisites = "Powerful Shape."
-benefit = "You can apply the giant simple template (quick rules version, from Pathfinder RPG Bestiary 295) to any form you take with wild shape. This replaces the benefit from Powerful Shape. As a free action, you can expend one use of mythic power to combine the benefit from this feat with the benefit from non-mythic Powerful Shape for a number of rounds equal to your tier."
+benefit = "You can apply the giant simple template (quick rules version, from Pathfinder RPG Bestiary 295) to any form you take with wild shape. This replaces the benefit from Powerful Shape."
 +++
 
-::: statblock
-Type: Mythic
-:::
+The forms you take in wild shape tower over their natural counterparts.\
+**Prerequisites:** Powerful Shape.\
+**Benefit:** You can apply the giant simple template (quick rules version, from _Pathfinder RPG
+Bestiary_ 295) to any form you take with wild shape. This replaces the benefit from Powerful Shape.
 
-_The forms you take in wild shape tower over their natural counterparts._
-
-## Prerequisites {#prerequisites}
-
-_Powerful Shape._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You can apply the giant simple template (quick rules version, from _Pathfinder RPG Bestiary_ 295) to
-any form you take with wild shape. This replaces the benefit from Powerful Shape.
-:::
-
-::: paragraph statline
 As a free action, you can expend one use of mythic power to combine the benefit from this feat with
 the benefit from non-mythic Powerful Shape for a number of rounds equal to your tier.
-:::

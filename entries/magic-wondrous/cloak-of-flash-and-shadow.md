@@ -15,7 +15,7 @@ kind = "item"
 category = "Wondrous Items"
 price = "11,000 gp"
 weight = "1 lb."
-slot = "cloak"
+slot = "shoulders"
 aura = "minor illusion"
 caster_level = "3rd"
 +++

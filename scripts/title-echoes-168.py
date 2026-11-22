@@ -2,8 +2,9 @@
 """Drop the headings and bold paragraphs that repeat the entry title (issue #168).
 
 The page already shows the title as its `h1`. A body that opens with the same words again, alone or
-followed by the entry's own classification, repeats it. Seven passes find those repeats; five remove them. Each pass
-removes only text that the entry states elsewhere, and queues every entry it cannot decide.
+followed by the entry's own classification, repeats it. Seven passes find those repeats; six remove
+them and `misc-rule` only queues. Each pass removes only text that the entry states elsewhere, and
+queues every entry it cannot decide.
 
   creature        `**Owlbear**`, the bold paragraph that names a creature (`ref/monster/`,
                   `ref/npc/`). It is the first paragraph, or the second when an italic flavour
@@ -22,6 +23,11 @@ removes only text that the entry states elsewhere, and queues every entry it can
                   `feat_types`. The `[fields]` text must equal the line it sits beside, so the
                   drift check keeps comparing them. Needs phynics/cast-iron#609 (feat types in the
                   facts line).
+                  A Benefit of several paragraphs (#183): `[fields] benefit` is cut to the first
+                  paragraph, as in the Pf Data feats, and the other paragraphs follow the
+                  converted paragraph as plain paragraphs, then any `###` subsections. A field
+                  that holds the whole text is cut at the end of the first paragraph; the words
+                  and paragraph breaks of the body must not change (`same_print`).
   deity-haunt     the same bold paragraph of the deities and haunts (`ref/faith/`, `ref/haunt/`; #184),
                   by the creature rule: the first paragraph, or the second after an italic
                   one, equal to the title or to the title without its trailing parenthesis.
@@ -104,6 +110,18 @@ def split_body(text: str) -> tuple[str, str, str]:
     body = text[front.end() :]
     stripped = body.lstrip("\n")
     return text[: front.end()], body[: len(body) - len(stripped)], stripped
+
+
+def drop_first_line(text: str) -> str | None:
+    """`text` without the first line of its body, and the blank lines after it.
+
+    A heading or a `**Type:**` line ends at the line break, so text that follows it without a
+    blank line is a block of its own and stays. `None` if nothing is left.
+    """
+    head, lead, rest = split_body(text)
+    _line, _, tail = rest.partition("\n")
+    tail = tail.lstrip("\n")
+    return head + lead + tail if tail.strip() else None
 
 
 def drop_blocks(text: str, indexes: tuple[int, ...]) -> str | None:
@@ -210,8 +228,8 @@ def feat_heading(text: str, data: dict) -> Result | None:
         return Result(reason=f"the heading names `{inner}`, and `feat_types` is empty")
     if sorted(words) != sorted(types):
         return Result(reason=f"the heading names `{inner}`, and `feat_types` is {types}")
-    dropped = drop_blocks(text, (0,))
-    if dropped is None or not split_body(dropped)[2].strip():
+    dropped = drop_first_line(text)
+    if dropped is None:
         return Result(reason="nothing follows the heading")
     return Result(text=dropped)
 
@@ -220,7 +238,7 @@ def trait_type(text: str, data: dict) -> Result | None:
     if data.get("kind") != "trait":
         return None
     _head, _lead, rest = split_body(text)
-    first = first_blocks(rest)[0][0]
+    first = rest.split("\n", 1)[0]
     if not first.startswith("**Type:**"):
         return None
     fields = data.get("fields", {})
@@ -232,7 +250,7 @@ def trait_type(text: str, data: dict) -> Result | None:
             reason=f"the Type line `{printed}` differs from category `{category}`"
             + (f" and detail `{detail}`" if detail else "")
         )
-    dropped = drop_blocks(text, (0,))
+    dropped = drop_first_line(text)
     if dropped is None:
         return Result(reason="nothing follows the Type line")
     return Result(text=dropped)
@@ -241,7 +259,7 @@ def trait_type(text: str, data: dict) -> Result | None:
 def compare_form(value: str) -> str:
     """Lowercase words without Markdown, link targets or end punctuation: what drift compares."""
     value = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", value)
-    value = value.replace("*", "").replace("_", " ")
+    value = value.replace("*", "").replace("_", "")
     return " ".join(value.split()).lower().rstrip(".;")
 
 
@@ -265,6 +283,67 @@ MYTHIC_LABELLED = {
         r"## Special \{#special\}\n\n::: paragraph statline\n((?:[^\n]+\n)+):::\n\n?"
     ),
 }
+MYTHIC_EXTRA = re.compile(r"::: paragraph statline\n((?:[^\n]+\n)+):::\n\n?")
+FIELD_LINE = re.compile(r"^benefit = .*$", re.M)
+
+
+def field_prefix(field: str, first: str) -> str | None:
+    """The leading words of `field` that equal the paragraph `first`, as they stand in the field.
+
+    `None` when no run of whole words does. The field keeps its own markup, so the cut is made on
+    the field's words and tested with `compare_form`.
+    """
+    words = field.split()
+    wanted = compare_form(first)
+    for count in range(1, len(words) + 1):
+        if compare_form(" ".join(words[:count])) == wanted:
+            return " ".join(words[:count])
+    return None
+
+
+def toml_string(value: str) -> str:
+    """`value` as a single-line TOML basic string."""
+    out = value.replace("\\", "\\\\").replace('"', '\\"')
+    return '"' + out + '"'
+
+
+def printed_segments(text: str, labels: tuple[str, ...]) -> list[list[str]]:
+    """The words of each line or paragraph of a body, markup and `labels` removed.
+
+    A `\\` break and a blank line both end a segment, so a paragraph break that is lost or
+    gained shows as a different list. Fences, heading markers and anchors are not printed.
+    """
+    out: list[list[str]] = []
+    current: list[str] = []
+    for line in text.split("\n"):
+        if line.startswith(":::"):
+            line = ""
+        line = re.sub(r"\{#[^}]*\}", "", line)
+        line = line.lstrip("#")
+        broken = line.endswith("\\")
+        line = line.rstrip("\\")
+        line = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", line).replace("*", "").replace("_", "")
+        words = [w for w in line.split() if w not in labels]
+        current += words
+        if broken or not line.strip():
+            if current:
+                out.append(current)
+            current = []
+    if current:
+        out.append(current)
+    return out
+
+
+def same_print(before: str, after: str) -> bool:
+    """Whether `after` prints the words and paragraph breaks of `before`.
+
+    `before` loses its `Type:` stat block and the Prerequisites, Benefit(s) and Special headings;
+    `after` loses the bold labels that replace them.
+    """
+    stat = re.sub(r"::: statblock\nType: [^\n]*\n:::\n", "", before, count=1)
+    stat = re.sub(r"^## (Prerequisites|Benefits?|Special) \{#[a-z]+\}$", "", stat, flags=re.M)
+    labels = ("Prerequisites:", "Benefit:", "Special:")
+    return printed_segments(stat, ()) == printed_segments(after, labels)
 
 
 def mythic(text: str, data: dict, path: str) -> Result | None:
@@ -297,31 +376,62 @@ def mythic(text: str, data: dict, path: str) -> Result | None:
             return Result(reason="the Prerequisites text differs from `[fields] prerequisites`")
         lines.append("**Prerequisites:** " + value)
         pos = prereq.end()
+    extra: list[str] = []
+    new_benefit: str | None = None
     for label, pattern in MYTHIC_LABELLED.items():
         part = pattern.match(rest, pos)
         if part is None:
             continue
         pos = part.end()
         value = part.group(1).rstrip("\n")
-        if rest[pos:].startswith("::: paragraph statline"):
-            count = rest[pos:].count("::: paragraph statline")
-            return Result(
-                reason=f"the {label} spans {count + 1} paragraphs; the drift check compares "
-                f"`[fields] {label.lower()}` with the first paragraph of the line"
-            )
-        if rest[pos:].startswith("###"):
-            return Result(
-                reason=f"the {label} is followed by subsections; the drift check compares "
-                f"`[fields] {label.lower()}` with the first paragraph of the line"
-            )
         field = fields.get(label.lower(), "")
+        if label == "Benefit":
+            while (more := MYTHIC_EXTRA.match(rest, pos)) is not None:
+                extra.append(more.group(1).rstrip("\n"))
+                pos = more.end()
+            tail_text = [
+                m.group(1).rstrip("\n")
+                for m in re.finditer(
+                    r"::: paragraph indented\n((?:[^\n]+\n)+):::", rest[pos:]
+                )
+            ]
+            if extra or rest[pos:].lstrip("\n").startswith("###"):
+                cut = field_prefix(field, value)
+                joined = " ".join([value, *extra, *tail_text])
+                if cut is None or compare_form(field) != compare_form(joined):
+                    return Result(
+                        reason="the Benefit paragraphs joined differ from `[fields] benefit`"
+                    )
+                if cut != field:
+                    new_benefit = cut
+                field = cut
+        elif extra:
+            return Result(reason="the Special follows several Benefit paragraphs")
         if compare_form(value) != compare_form(field):
             return Result(reason=f"the {label} text differs from `[fields] {label.lower()}`")
         lines.append(f"**{label}:** " + value)
-    if rest[pos:].strip():
+    tail = rest[pos:].strip("\n")
+    if (tail and not tail.startswith("###")) or "::: paragraph statline" in tail:
         return Result(reason="the body holds a block that the Pf Data form has no place for")
+    if tail.startswith("###") and not any(
+        line.startswith("**Benefit:**") for line in lines
+    ):
+        return Result(reason="subsections follow a body without a Benefit")
     head, lead, _ = split_body(text)
-    return Result(text=head + lead + "\\\n".join(lines) + "\n")
+    body = "\\\n".join(lines) + "\n"
+    for paragraph in extra:
+        body += "\n" + paragraph + "\n"
+    if tail:
+        body += "\n" + tail + "\n"
+    out = head + lead + body
+    if new_benefit is not None:
+        front, count = FIELD_LINE.subn(lambda _m: "benefit = " + toml_string(new_benefit), head)
+        if count != 1:
+            return Result(reason="the `benefit` field is not one line of the front matter")
+        out = front + lead + body
+    if not same_print(rest, body):
+        return Result(reason="the converted body would not print the same words and paragraphs")
+    return Result(text=out)
 
 
 def run_pass(name: str, path: str, text: str, data: dict) -> Result | None:
@@ -481,10 +591,26 @@ def self_test() -> int:
     want = "Devastating.\\\n**Prerequisites:** Power Attack.\\\n**Benefit:** You gain +3.\n"
     assert out and out.text.endswith("+++\n\n" + want), out
     twice = body + "\n::: paragraph statline\nMore.\n:::\n"
-    assert "spans 2 paragraphs" in decide("mythic", path, mythic_front, twice).reason
+    whole = mythic_front.replace('"You gain +3."', '"You gain +3. More."')
+    out = decide("mythic", path, whole, twice)
+    assert out and 'benefit = "You gain +3."\n' in out.text, out
+    assert out.text.endswith("+++\n\n" + want + "\nMore.\n"), out
+    assert "joined differ" in decide("mythic", path, mythic_front, twice).reason
+    italic = mythic_front.replace('"You gain +3."', '"Cast slow, again."')
+    mark = body.replace("You gain +3.", "Cast _slow_, again.")
+    assert decide("mythic", path, italic, mark).text
+    sub = body + "\n### Claws {#claws}\n\n::: paragraph indented\nSharp.\n:::\n"
+    kept = mythic_front.replace('"You gain +3."', '"You gain +3. Sharp."')
+    out = decide("mythic", path, kept, sub)
+    assert out and 'benefit = "You gain +3."\n' in out.text and out.text.endswith("Sharp.\n:::\n"), out
     wrong = mythic_front.replace('["Mythic"]', '["General"]')
     assert "feat_types" in decide("mythic", path, wrong, body).reason
     assert "not a mythic" in decide("mythic", "entries/x.md", mythic_front, body).reason
+    # a heading or Type line ends at its line break: text right behind it stays
+    out = decide("feat-heading", "x.md", feat, "## Power Attack (Combat)\nKept.\n\nMore.\n")
+    assert out and out.text.endswith("+++\n\nKept.\n\nMore.\n"), out
+    out = decide("trait-type", "x.md", trait, "**Type:** Regional\nKept.\n")
+    assert out and out.text.endswith("+++\n\nKept.\n"), out
     print("self-test ok")
     return 0
 

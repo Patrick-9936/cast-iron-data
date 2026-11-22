@@ -16,27 +16,13 @@ relations = [
 kind = "feat"
 feat_types = ["Mythic"]
 prerequisites = "Endurance."
-benefit = "The bonus on checks and saves from Endurance increases by half your tier. You take half the damage when you fail a check to avoid nonlethal damage from a forced march, starvation and thirst, hot or cold environments, or slow suffocation. You can sleep in heavy armor without becoming fatigued."
+benefit = "The bonus on checks and saves from Endurance increases by half your tier. You take half the damage when you fail a check to avoid nonlethal damage from a forced march, starvation and thirst, hot or cold environments, or slow suffocation."
 +++
 
-::: statblock
-Type: Mythic
-:::
+Your endurance is truly beyond the pale.\
+**Prerequisites:** Endurance.\
+**Benefit:** The bonus on checks and saves from Endurance increases by half your tier. You take half
+the damage when you fail a check to avoid nonlethal damage from a forced march, starvation and
+thirst, hot or cold environments, or slow suffocation.
 
-_Your endurance is truly beyond the pale._
-
-## Prerequisites {#prerequisites}
-
-_Endurance._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-The bonus on checks and saves from Endurance increases by half your tier. You take half the damage
-when you fail a check to avoid nonlethal damage from a forced march, starvation and thirst, hot or
-cold environments, or slow suffocation.
-:::
-
-::: paragraph statline
 You can sleep in heavy armor without becoming fatigued.
-:::

@@ -15,7 +15,7 @@ kind = "item"
 category = "Artifacts"
 price = "-"
 weight = "-"
-slot = "amulet"
+slot = "neck"
 aura = "overwhelming enchantment and transmutation"
 caster_level = "29th"
 +++
