@@ -14,8 +14,6 @@ page = "71"
 kind = "none"
 +++
 
-**Myr**
-
 **Sub:** The Guide of Perfection
 
 ### Details

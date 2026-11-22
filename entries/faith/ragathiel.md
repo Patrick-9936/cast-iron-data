@@ -17,8 +17,6 @@ page = "21"
 kind = "none"
 +++
 
-**Ragathiel**
-
 **Sub:** General of Vengeance
 
 **Monster Link** [Ragathiel](ref/monster/empyreal-lord-ragathiel)

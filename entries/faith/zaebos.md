@@ -17,8 +17,6 @@ page = "119"
 kind = "none"
 +++
 
-**Zaebos**
-
 **Sub:** The Prince of Broken Glass
 
 ### Details

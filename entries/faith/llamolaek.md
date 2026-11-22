@@ -17,8 +17,6 @@ page = "114"
 kind = "none"
 +++
 
-**Llamolaek**
-
 **Sub:** The Ascended
 
 ### Details

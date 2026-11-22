@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Nameless**
-
 **Sub:** Upon an Empty Throne
 
 ### Details

@@ -17,8 +17,6 @@ page = "6"
 kind = "none"
 +++
 
-**Andoletta**
-
 **Sub:** Grandmother Crow
 
 ### Details

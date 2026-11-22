@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Ealdeez**
-
 **Sub:** The Beast Behind the Dream
 
 ### Details

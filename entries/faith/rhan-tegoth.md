@@ -14,8 +14,6 @@ page = "71"
 kind = "none"
 +++
 
-**Rhan-Tegoth**
-
 **Sub:** Herald of the End Times
 
 ### Details

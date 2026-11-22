@@ -17,8 +17,6 @@ page = "98"
 kind = "none"
 +++
 
-**Trelmarixian**
-
 **Sub:** The Black
 
 **Monster Link** [Trelmarixian](ref/monster/horsemen-of-the-apocalypse-trelmarixian)

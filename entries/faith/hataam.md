@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Hataam**
-
 **Sub:** The River Eater
 
 ### Details

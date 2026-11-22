@@ -14,8 +14,6 @@ page = "42"
 kind = "none"
 +++
 
-**Ashukharma**
-
 **Sub:** The Divine Divide
 
 ### Details

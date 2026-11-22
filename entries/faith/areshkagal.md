@@ -20,8 +20,6 @@ page = "12"
 kind = "none"
 +++
 
-**Areshkagal**
-
 **Sub:** The Faceless Sphinx
 
 ### Details

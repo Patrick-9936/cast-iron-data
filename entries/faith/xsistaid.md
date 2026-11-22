@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Xsistaid**
-
 **Sub:** The Wriggling Wound
 
 ### Details

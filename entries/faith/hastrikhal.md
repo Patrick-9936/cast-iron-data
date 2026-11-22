@@ -17,8 +17,6 @@ page = "114"
 kind = "none"
 +++
 
-**Hastrikhal**
-
 **Sub:** The Fires Within
 
 ### Details

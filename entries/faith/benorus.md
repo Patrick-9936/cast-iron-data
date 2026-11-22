@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Benorus**
-
 **Sub:** Angel of Lightless Chambers
 
 ### Details

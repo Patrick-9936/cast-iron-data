@@ -14,8 +14,6 @@ page = "71"
 kind = "none"
 +++
 
-**Selket**
-
 **Sub:** Mistress of the Beautiful House
 
 ### Details

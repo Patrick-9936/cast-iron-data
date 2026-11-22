@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Slandrais**
-
 **Sub:** The Watcher in the Walls
 
 ### Details

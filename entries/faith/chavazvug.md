@@ -17,8 +17,6 @@ page = "128"
 kind = "none"
 +++
 
-**Chavazvug**
-
 **Sub:** The Crawling Inferno
 
 **Monster Link** [Chavazvug](ref/monster/qlippoth-lord-chavazvug)

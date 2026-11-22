@@ -17,8 +17,6 @@ page = "29"
 kind = "none"
 +++
 
-**Trudd**
-
 **Sub:** The Mighty
 
 ### Details

@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Lythertida**
-
 **Sub:** The Voiceless Tragedy
 
 ### Details

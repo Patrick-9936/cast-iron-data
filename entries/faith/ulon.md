@@ -14,8 +14,6 @@ page = "75"
 kind = "none"
 +++
 
-**Ulon**
-
 **Sub:** The Web
 
 ### Details

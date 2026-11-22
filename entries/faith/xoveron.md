@@ -20,8 +20,6 @@ page = "27"
 kind = "none"
 +++
 
-**Xoveron**
-
 **Sub:** The Horned Prince
 
 **Monster Link** [Xoveron](ref/monster/demon-lord-xoveron)

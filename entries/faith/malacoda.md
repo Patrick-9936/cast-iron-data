@@ -17,8 +17,6 @@ page = "123"
 kind = "none"
 +++
 
-**Malacoda**
-
 **Sub:** Despoiler of Horizons
 
 ### Details

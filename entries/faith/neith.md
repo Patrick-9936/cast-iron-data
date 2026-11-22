@@ -14,8 +14,6 @@ page = "65"
 kind = "none"
 +++
 
-**Neith**
-
 **Sub:** Ruler of Arrows
 
 ### Details

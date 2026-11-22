@@ -17,8 +17,6 @@ page = "68"
 kind = "none"
 +++
 
-**Mahathallah**
-
 **Sub:** Dowager of Illusions
 
 ### Details

@@ -17,8 +17,6 @@ page = "44"
 kind = "none"
 +++
 
-**Dispater**
-
 **Sub:** Iron Lord
 
 **Monster Link** [Dispater](ref/monster/archdevil-dispater)

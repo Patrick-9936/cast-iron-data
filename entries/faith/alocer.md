@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Alocer**
-
 **Sub:** The Pack Lord
 
 ### Details

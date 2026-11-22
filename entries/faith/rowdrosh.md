@@ -17,8 +17,6 @@ page = "22"
 kind = "none"
 +++
 
-**Rowdrosh**
-
 **Sub:** The Divine Herdsman
 
 ### Details

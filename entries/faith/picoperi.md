@@ -17,8 +17,6 @@ page = "20"
 kind = "none"
 +++
 
-**Picoperi**
-
 **Sub:** Merrygleam
 
 ### Details

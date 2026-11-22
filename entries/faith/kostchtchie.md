@@ -23,8 +23,6 @@ page = "66"
 kind = "none"
 +++
 
-**Kostchtchie**
-
 **Sub:** The Deathless Frost
 
 **Monster Link** [Kostchtchie](ref/monster/demon-lord-kostchtchie)

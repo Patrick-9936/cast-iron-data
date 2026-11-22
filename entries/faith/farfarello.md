@@ -17,8 +17,6 @@ page = "123"
 kind = "none"
 +++
 
-**Farfarello**
-
 **Sub:** Lord of the Forgotten
 
 ### Details

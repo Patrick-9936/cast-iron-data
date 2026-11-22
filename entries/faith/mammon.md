@@ -17,8 +17,6 @@ page = "70"
 kind = "none"
 +++
 
-**Mammon**
-
 **Sub:** The Argent Prince
 
 **Monster Link** [Mammon](ref/monster/archdevil-mammon)

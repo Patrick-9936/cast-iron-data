@@ -14,8 +14,6 @@ page = "316"
 kind = "none"
 +++
 
-**Easivra**
-
 **Sub:** The Dawn Eagle
 
 ### Details

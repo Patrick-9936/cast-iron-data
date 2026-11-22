@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Bohga**
-
 **Sub:** The Treasurer
 
 ### Details

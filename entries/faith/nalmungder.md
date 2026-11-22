@@ -17,8 +17,6 @@ page = "114"
 kind = "none"
 +++
 
-**Nalmungder**
-
 **Sub:** He Who Waits Below the Stairs
 
 ### Details

@@ -14,8 +14,6 @@ page = "71"
 kind = "none"
 +++
 
-**Lissala (pre-Earthfall)**
-
 **Sub:** The Order of Virtue
 
 ### Details

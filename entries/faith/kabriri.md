@@ -23,8 +23,6 @@ page = "55"
 kind = "none"
 +++
 
-**Kabriri**
-
 **Sub:** Him Who Gnaws
 
 ### Details

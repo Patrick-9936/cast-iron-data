@@ -20,8 +20,6 @@ page = "18"
 kind = "none"
 +++
 
-**Jubilex**
-
 **Sub:** The Faceless Lord
 
 ### Details

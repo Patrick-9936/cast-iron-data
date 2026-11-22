@@ -14,8 +14,6 @@ page = "74"
 kind = "none"
 +++
 
-**Sobek**
-
 **Sub:** The Raging Torrent
 
 ### Details

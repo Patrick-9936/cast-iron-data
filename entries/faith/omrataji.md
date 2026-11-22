@@ -14,8 +14,6 @@ page = "43"
 kind = "none"
 +++
 
-**Omrataji**
-
 **Sub:** The Spirit in Silver
 
 ### Details

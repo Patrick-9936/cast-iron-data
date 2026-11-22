@@ -14,8 +14,6 @@ page = "20"
 kind = "none"
 +++
 
-**Vonymos**
-
 **Sub:** The Mourning Storm
 
 ### Details

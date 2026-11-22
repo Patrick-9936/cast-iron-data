@@ -14,8 +14,6 @@ page = "67"
 kind = "none"
 +++
 
-**Aesocar**
-
 **Sub:** The Healing Touch
 
 ### Details

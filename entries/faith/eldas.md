@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Eldas**
-
 **Sub:** The Abiding Spire
 
 ### Details

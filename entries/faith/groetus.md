@@ -17,8 +17,6 @@ page = "73"
 kind = "none"
 +++
 
-**Groetus**
-
 **Sub:** God of the End Times
 
 ### Details

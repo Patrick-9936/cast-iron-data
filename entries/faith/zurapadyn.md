@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Zurapadyn**
-
 **Sub:** Beast Who Waits in Smoke
 
 ### Details

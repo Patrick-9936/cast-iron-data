@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Yamatsumi**
-
 **Sub:** The Mountain Lord
 
 ### Details

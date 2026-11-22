@@ -17,8 +17,6 @@ page = "23"
 kind = "none"
 +++
 
-**Hei Feng**
-
 **Sub:** Duke of Thunder
 
 ### Details

@@ -14,8 +14,6 @@ page = "67"
 kind = "none"
 +++
 
-**Ghatanothoa**
-
 **Sub:** The Eternal Source
 
 **Monster Link** [Ghatanothoa](ref/monster/great-old-one-ghatanothoa)

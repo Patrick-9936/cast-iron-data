@@ -20,8 +20,6 @@ page = "16"
 kind = "none"
 +++
 
-**Haagenti**
-
 **Sub:** The Whispers Within
 
 ### Details

@@ -23,8 +23,6 @@ page = "72"
 kind = "none"
 +++
 
-**Besmara**
-
 **Sub:** The Pirate Queen
 
 ### Details

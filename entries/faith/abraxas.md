@@ -20,8 +20,6 @@ page = "9"
 kind = "none"
 +++
 
-**Abraxas**
-
 **Sub:** Master of the Final Incantation
 
 ### Details

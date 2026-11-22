@@ -14,8 +14,6 @@ page = "74"
 kind = "none"
 +++
 
-**Aerekostes**
-
 ### Details
 
 **Alignment** N\

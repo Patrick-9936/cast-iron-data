@@ -14,8 +14,6 @@ page = "71"
 kind = "none"
 +++
 
-**Osiris**
-
 **Sub:** Lord of the Living
 
 ### Details

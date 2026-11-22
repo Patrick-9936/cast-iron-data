@@ -20,8 +20,6 @@ page = "28"
 kind = "none"
 +++
 
-**Zevgavizeb**
-
 **Sub:** God of the Troglodytes
 
 ### Details

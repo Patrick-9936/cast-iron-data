@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Keltheald**
-
 **Sub:** The Sunset Spires
 
 ### Details

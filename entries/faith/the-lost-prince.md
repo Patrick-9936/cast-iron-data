@@ -14,8 +14,6 @@ page = "26"
 kind = "none"
 +++
 
-**The Lost Prince**
-
 **Sub:** The Melancholy Lord
 
 ### Details

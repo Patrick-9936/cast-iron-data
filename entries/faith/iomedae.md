@@ -20,8 +20,6 @@ page = "77"
 kind = "none"
 +++
 
-**Iomedae**
-
 **Sub:** The Inheritor
 
 ### Details

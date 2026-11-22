@@ -17,8 +17,6 @@ page = "119"
 kind = "none"
 +++
 
-**Zepar**
-
 **Sub:** The Forever Sire
 
 ### Details

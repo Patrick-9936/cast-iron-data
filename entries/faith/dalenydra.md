@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Dalenydra**
-
 **Sub:** The Blessed Attendant
 
 ### Details

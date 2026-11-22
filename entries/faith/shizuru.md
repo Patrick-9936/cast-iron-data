@@ -20,8 +20,6 @@ page = "31"
 kind = "none"
 +++
 
-**Shizuru**
-
 **Sub:** Empress of Heaven
 
 ### Details

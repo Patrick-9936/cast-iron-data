@@ -14,8 +14,6 @@ page = "120"
 kind = "none"
 +++
 
-**Sugroz**
-
 **Sub:** The Voice in Screams
 
 ### Details

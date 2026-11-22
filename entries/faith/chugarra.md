@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Chugarra**
-
 **Sub:** The Guru of Butchers
 
 ### Details

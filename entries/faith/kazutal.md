@@ -14,8 +14,6 @@ page = "29"
 kind = "none"
 +++
 
-**Kazutal**
-
 **Sub:** Mother Jaguar
 
 ### Details

@@ -17,8 +17,6 @@ page = "15"
 kind = "none"
 +++
 
-**Irez**
-
 **Sub:** Lady of Inscribed Wonder
 
 ### Details

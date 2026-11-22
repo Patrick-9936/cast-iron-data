@@ -14,8 +14,6 @@ page = "77"
 kind = "none"
 +++
 
-**Hadregash**
-
 **Sub:** Greatest Supreme Chieftain Boss
 
 ### Details

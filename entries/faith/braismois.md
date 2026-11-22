@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Braismois**
-
 **Sub:** The Toxic Quill
 
 **Monster Link** [Braismois](ref/monster/daemonic-harbinger-braismois)

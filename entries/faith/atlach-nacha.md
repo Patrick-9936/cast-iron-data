@@ -14,8 +14,6 @@ page = "64"
 kind = "none"
 +++
 
-**Atlach-Nacha**
-
 **Sub:** The Void Weaver
 
 ### Details

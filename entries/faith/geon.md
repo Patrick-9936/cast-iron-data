@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Geon**
-
 **Sub:** The Dancing Fiend
 
 ### Details

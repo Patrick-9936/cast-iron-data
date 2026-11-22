@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Charg**
-
 **Sub:** The Typhon Wheel
 
 ### Details

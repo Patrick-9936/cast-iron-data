@@ -20,8 +20,6 @@ page = "10"
 kind = "none"
 +++
 
-**Andirifkhu**
-
 **Sub:** The Razor Princess
 
 ### Details

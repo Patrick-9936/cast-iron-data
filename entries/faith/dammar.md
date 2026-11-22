@@ -14,8 +14,6 @@ page = "8"
 kind = "none"
 +++
 
-**Dammar**
-
 **Sub:** The Denied
 
 ### Details

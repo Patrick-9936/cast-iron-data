@@ -17,8 +17,6 @@ page = "114"
 kind = "none"
 +++
 
-**Jacarkas**
-
 **Sub:** The Collector
 
 ### Details

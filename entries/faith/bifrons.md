@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Bifrons**
-
 **Sub:** The Second Fate
 
 ### Details

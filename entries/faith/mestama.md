@@ -20,8 +20,6 @@ page = "20"
 kind = "none"
 +++
 
-**Mestama**
-
 **Sub:** The Mother of Witches
 
 ### Details

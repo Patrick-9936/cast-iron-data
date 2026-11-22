@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Qi Zhong**
-
 **Sub:** Master of Medicine
 
 ### Details

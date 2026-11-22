@@ -20,8 +20,6 @@ page = "22"
 kind = "none"
 +++
 
-**Nurgal**
-
 **Sub:** The Shining Scourge
 
 ### Details

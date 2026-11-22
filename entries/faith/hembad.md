@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Hembad**
-
 **Sub:** Wise Grandfather
 
 ### Details

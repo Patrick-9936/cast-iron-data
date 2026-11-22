@@ -17,8 +17,6 @@ page = "34"
 kind = "none"
 +++
 
-**Belial**
-
 **Sub:** The Pale Kiss
 
 **Monster Link** [Belial](ref/monster/archdevil-belial)

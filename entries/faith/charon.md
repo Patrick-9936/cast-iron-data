@@ -17,8 +17,6 @@ page = "36"
 kind = "none"
 +++
 
-**Charon**
-
 **Sub:** The Boatman
 
 **Monster Link** [Charon](ref/monster/horsemen-of-the-apocalypse-charon)

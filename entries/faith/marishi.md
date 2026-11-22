@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Marishi**
-
 **Sub:** The Festival Queen
 
 ### Details

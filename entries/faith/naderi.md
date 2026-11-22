@@ -14,8 +14,6 @@ page = "77"
 kind = "none"
 +++
 
-**Naderi**
-
 **Sub:** The Lost Maiden
 
 ### Details

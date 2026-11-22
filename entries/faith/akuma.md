@@ -14,8 +14,6 @@ page = "126"
 kind = "none"
 +++
 
-**Akuma**
-
 **Sub:** Horned King
 
 ### Details

@@ -17,8 +17,6 @@ page = "25"
 kind = "none"
 +++
 
-**Tanagaar**
-
 **Sub:** The Aurulent Eye
 
 ### Details

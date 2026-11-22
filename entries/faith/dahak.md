@@ -17,8 +17,6 @@ page = "28"
 kind = "none"
 +++
 
-**Dahak**
-
 **Sub:** The Endless Destruction
 
 ### Details

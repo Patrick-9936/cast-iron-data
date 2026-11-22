@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Chamiaholom**
-
 **Sub:** Skull Staff
 
 ### Details

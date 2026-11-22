@@ -14,8 +14,6 @@ page = "126"
 kind = "none"
 +++
 
-**Muronna**
-
 **Sub:** The Dark Mother
 
 ### Details

@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Deumus**
-
 **Sub:** The Glutton of Graves
 
 ### Details

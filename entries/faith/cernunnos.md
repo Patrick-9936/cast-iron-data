@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Cernunnos**
-
 **Sub:** The Stag Lord
 
 **Monster Link** [Cernunnos](ref/monster/empyreal-lord-cernunnos)

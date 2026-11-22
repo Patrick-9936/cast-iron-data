@@ -14,8 +14,6 @@ page = "316"
 kind = "none"
 +++
 
-**Erecura**
-
 **Sub:** Queen of Dis
 
 ### Details

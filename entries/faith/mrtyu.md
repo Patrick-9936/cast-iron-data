@@ -14,8 +14,6 @@ page = "12"
 kind = "none"
 +++
 
-**Mrtyu**
-
 **Sub:** Death's Consort
 
 ### Details

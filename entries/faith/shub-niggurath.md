@@ -14,8 +14,6 @@ page = "71"
 kind = "none"
 +++
 
-**Shub-Niggurath**
-
 **Sub:** Black Goat of the Woods
 
 ### Details

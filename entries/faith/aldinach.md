@@ -20,8 +20,6 @@ page = "10"
 kind = "none"
 +++
 
-**Aldinach**
-
 **Sub:** She of the Six Venoms
 
 ### Details

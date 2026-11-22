@@ -14,8 +14,6 @@ page = "6"
 kind = "none"
 +++
 
-**Dhalavei**
-
 **Sub:** The Unsuspected Rot
 
 ### Details

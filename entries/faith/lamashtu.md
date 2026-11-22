@@ -26,8 +26,6 @@ page = "78"
 kind = "none"
 +++
 
-**Lamashtu**
-
 **Sub:** Mother of Monsters
 
 ### Details

@@ -14,8 +14,6 @@ page = "65"
 kind = "none"
 +++
 
-**Bokrug**
-
 **Sub:** The Water Lizard
 
 **Monster Link** [Bokrug](ref/monster/great-old-one-bokrug)

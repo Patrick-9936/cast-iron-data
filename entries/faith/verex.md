@@ -17,8 +17,6 @@ page = "31"
 kind = "none"
 +++
 
-**Verex**
-
 **Sub:** The Despoiler
 
 ### Details

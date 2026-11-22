@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Ananshea**
-
 **Sub:** The Skin That Walks on Teeth
 
 ### Details

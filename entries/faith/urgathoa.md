@@ -20,8 +20,6 @@ page = "81"
 kind = "none"
 +++
 
-**Urgathoa**
-
 **Sub:** The Pallid Princess
 
 ### Details

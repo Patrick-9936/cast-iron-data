@@ -17,8 +17,6 @@ page = "66"
 kind = "none"
 +++
 
-**Angradd**
-
 **Sub:** The Forge-Fire
 
 ### Details

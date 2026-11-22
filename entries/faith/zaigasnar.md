@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Zaigasnar**
-
 **Sub:** The Bladebride
 
 ### Details

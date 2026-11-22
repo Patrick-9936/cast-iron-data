@@ -20,8 +20,6 @@ page = "76"
 kind = "none"
 +++
 
-**Erastil**
-
 **Sub:** Old Deadeye
 
 ### Details

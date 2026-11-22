@@ -17,8 +17,6 @@ page = "25"
 kind = "none"
 +++
 
-**Magdh**
-
 **Sub:** The Three
 
 ### Details

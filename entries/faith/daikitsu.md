@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Daikitsu**
-
 **Sub:** Lady of Foxes
 
 ### Details

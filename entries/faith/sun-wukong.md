@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Sun Wukong**
-
 **Sub:** The Monkey King
 
 ### Details

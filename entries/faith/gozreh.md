@@ -20,8 +20,6 @@ page = "76"
 kind = "none"
 +++
 
-**Gozreh**
-
 **Sub:** The Wind and the Waves
 
 ### Details

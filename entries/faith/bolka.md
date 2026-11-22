@@ -17,8 +17,6 @@ page = "29"
 kind = "none"
 +++
 
-**Bolka**
-
 **Sub:** The Golden Gift
 
 ### Details

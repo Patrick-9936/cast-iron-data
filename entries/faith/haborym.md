@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Haborym**
-
 **Sub:** The Burning Hearth
 
 ### Details

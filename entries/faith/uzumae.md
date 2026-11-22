@@ -14,8 +14,6 @@ page = "126"
 kind = "none"
 +++
 
-**Uzumae**
-
 **Sub:** Daimyo of the North
 
 ### Details

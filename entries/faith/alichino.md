@@ -17,8 +17,6 @@ page = "123"
 kind = "none"
 +++
 
-**Alichino**
-
 **Sub:** Jester Prince of the Cage
 
 ### Details

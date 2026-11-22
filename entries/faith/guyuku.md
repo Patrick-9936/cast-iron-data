@@ -14,8 +14,6 @@ page = "126"
 kind = "none"
 +++
 
-**Guyuku**
-
 **Sub:** Sea Devil
 
 ### Details

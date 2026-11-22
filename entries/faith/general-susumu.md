@@ -17,8 +17,6 @@ page = "31"
 kind = "none"
 +++
 
-**General Susumu**
-
 **Sub:** The Black Daimyo
 
 ### Details

@@ -14,8 +14,6 @@ page = "70"
 kind = "none"
 +++
 
-**Jaidi**
-
 **Sub:** The Blessing and Bounty
 
 ### Details

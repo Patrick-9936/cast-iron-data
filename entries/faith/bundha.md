@@ -14,8 +14,6 @@ page = "130"
 kind = "none"
 +++
 
-**Bundha**
-
 **Sub:** Singing Butcher
 
 ### Details

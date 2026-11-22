@@ -14,8 +14,6 @@ page = "68"
 kind = "none"
 +++
 
-**Hathor**
-
 **Sub:** Mistress of Jubilation
 
 ### Details

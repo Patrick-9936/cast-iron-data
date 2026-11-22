@@ -14,8 +14,6 @@ page = "17"
 kind = "none"
 +++
 
-**Gruhastha**
-
 **Sub:** The Keeper
 
 ### Details

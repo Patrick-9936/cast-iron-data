@@ -17,8 +17,6 @@ page = "119"
 kind = "none"
 +++
 
-**Wylgart**
-
 **Sub:** The Unbroken Word
 
 ### Details

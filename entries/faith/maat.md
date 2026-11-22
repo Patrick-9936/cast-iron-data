@@ -14,8 +14,6 @@ page = "70"
 kind = "none"
 +++
 
-**Maat**
-
 **Sub:** The Feather of Truth
 
 ### Details

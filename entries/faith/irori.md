@@ -20,8 +20,6 @@ page = "78"
 kind = "none"
 +++
 
-**Irori**
-
 **Sub:** Master of Masters
 
 ### Details

@@ -20,8 +20,6 @@ page = "25"
 kind = "none"
 +++
 
-**Sifkesh**
-
 **Sub:** The Sacred Whore
 
 **Monster Link** [Sifkesh](ref/monster/demon-lord-sifkesh)

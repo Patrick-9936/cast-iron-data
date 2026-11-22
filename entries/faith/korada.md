@@ -17,8 +17,6 @@ page = "17"
 kind = "none"
 +++
 
-**Korada**
-
 **Sub:** The Open Hand of Harmony
 
 **Monster Link** [Korada](ref/monster/empyreal-lord-korada)

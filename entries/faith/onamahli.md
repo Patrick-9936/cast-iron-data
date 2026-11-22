@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Onamahli**
-
 **Sub:** The Twice Pure
 
 ### Details

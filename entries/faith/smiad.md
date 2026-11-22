@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Smiad**
-
 **Sub:** The Pitiless Dragonslayer
 
 ### Details

@@ -14,8 +14,6 @@ page = "53"
 kind = "none"
 +++
 
-**Gyronna**
-
 **Sub:** The Angry Hag
 
 ### Details

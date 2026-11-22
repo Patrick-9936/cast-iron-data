@@ -17,8 +17,6 @@ page = "13"
 kind = "none"
 +++
 
-**Ghenshau**
-
 **Sub:** Breezes-Still-and-Ripples-Cease
 
 ### Details

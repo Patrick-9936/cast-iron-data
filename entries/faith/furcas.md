@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Furcas**
-
 **Sub:** Knight of the Laurels
 
 ### Details

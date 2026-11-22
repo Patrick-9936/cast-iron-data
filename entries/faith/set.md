@@ -14,8 +14,6 @@ page = "74"
 kind = "none"
 +++
 
-**Set**
-
 **Sub:** Lord of the Dark Desert
 
 ### Details

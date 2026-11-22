@@ -17,8 +17,6 @@ page = "14"
 kind = "none"
 +++
 
-**Halcamora**
-
 **Sub:** Lady of Ripe Bounty
 
 ### Details

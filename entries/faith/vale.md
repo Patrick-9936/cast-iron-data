@@ -14,8 +14,6 @@ page = "18"
 kind = "none"
 +++
 
-**Vale**
-
 **Sub:** The Court of Ancestors
 
 ### Details

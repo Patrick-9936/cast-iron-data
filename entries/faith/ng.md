@@ -14,8 +14,6 @@ page = "30"
 kind = "none"
 +++
 
-**Ng**
-
 **Sub:** The Hooded
 
 ### Details

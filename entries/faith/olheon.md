@@ -17,8 +17,6 @@ page = "19"
 kind = "none"
 +++
 
-**Olheon**
-
 **Sub:** The Just Arbiter
 
 ### Details

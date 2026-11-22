@@ -14,8 +14,6 @@ page = "120"
 kind = "none"
 +++
 
-**Vevelor**
-
 **Sub:** The Broken Dream
 
 ### Details

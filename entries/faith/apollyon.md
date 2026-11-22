@@ -17,8 +17,6 @@ page = "20"
 kind = "none"
 +++
 
-**Apollyon**
-
 **Sub:** Prince of Locusts
 
 **Monster Link** [Apollyon](ref/monster/horsemen-of-the-apocalypse-apollyon)

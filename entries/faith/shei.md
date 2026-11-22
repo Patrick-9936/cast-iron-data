@@ -17,8 +17,6 @@ page = "23"
 kind = "none"
 +++
 
-**Shei**
-
 **Sub:** The Ibis Matron
 
 ### Details

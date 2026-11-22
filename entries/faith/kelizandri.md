@@ -17,8 +17,6 @@ page = "6"
 kind = "none"
 +++
 
-**Kelizandri**
-
 **Sub:** Brackish Emperor
 
 ### Details

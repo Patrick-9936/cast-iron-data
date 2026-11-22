@@ -17,8 +17,6 @@ page = "29"
 kind = "none"
 +++
 
-**Dranngvit**
-
 **Sub:** The Debt Minder
 
 ### Details

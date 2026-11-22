@@ -17,8 +17,6 @@ page = "10"
 kind = "none"
 +++
 
-**Findeladlara**
-
 **Sub:** The Guiding Hand
 
 ### Details

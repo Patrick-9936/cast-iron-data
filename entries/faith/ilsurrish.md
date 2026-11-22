@@ -14,8 +14,6 @@ page = "8"
 kind = "none"
 +++
 
-**Il'surrish**
-
 **Sub:** The Wanderer
 
 ### Details

@@ -14,8 +14,6 @@ page = "120"
 kind = "none"
 +++
 
-**Aroggus**
-
 **Sub:** The Abbey Maker
 
 ### Details

@@ -17,8 +17,6 @@ page = "114"
 kind = "none"
 +++
 
-**Mneoc**
-
 **Sub:** Grandfather Scab
 
 ### Details

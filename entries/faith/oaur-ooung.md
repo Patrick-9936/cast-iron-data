@@ -17,8 +17,6 @@ page = "128"
 kind = "none"
 +++
 
-**Oaur-Ooung**
-
 **Sub:** The Blistering Womb
 
 ### Details

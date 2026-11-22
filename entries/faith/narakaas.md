@@ -14,8 +14,6 @@ page = "13"
 kind = "none"
 +++
 
-**Narakaas**
-
 **Sub:** The Cleansing Sentence
 
 ### Details

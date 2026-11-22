@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Vorasha**
-
 **Sub:** The Ophidian
 
 ### Details

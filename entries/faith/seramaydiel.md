@@ -17,8 +17,6 @@ page = "22"
 kind = "none"
 +++
 
-**Seramaydiel**
-
 **Sub:** Lady of Inspired Notes
 
 ### Details

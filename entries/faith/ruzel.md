@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Ruzel**
-
 **Sub:** Sabletongue
 
 ### Details

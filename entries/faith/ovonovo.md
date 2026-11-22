@@ -20,8 +20,6 @@ page = "39"
 kind = "none"
 +++
 
-**Ovonovo**
-
 **Sub:** Gluttontide
 
 ### Details

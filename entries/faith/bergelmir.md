@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Bergelmir**
-
 **Sub:** Mother of Memories
 
 ### Details

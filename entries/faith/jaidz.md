@@ -17,8 +17,6 @@ page = "16"
 kind = "none"
 +++
 
-**Jaidz**
-
 **Sub:** Fearless Claw
 
 ### Details

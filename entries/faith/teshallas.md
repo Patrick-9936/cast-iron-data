@@ -14,8 +14,6 @@ page = "18"
 kind = "none"
 +++
 
-**Teshallas**
-
 **Sub:** The Primordial Poison
 
 ### Details

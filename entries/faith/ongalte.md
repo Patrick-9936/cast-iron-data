@@ -14,8 +14,6 @@ page = "75-76"
 kind = "none"
 +++
 
-**Ongalte**
-
 **Sub:** Death of Divinity
 
 ### Details

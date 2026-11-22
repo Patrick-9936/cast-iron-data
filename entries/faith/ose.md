@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Ose**
-
 **Sub:** Duke of Claws
 
 ### Details

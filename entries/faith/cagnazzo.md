@@ -17,8 +17,6 @@ page = "122"
 kind = "none"
 +++
 
-**Cagnazzo**
-
 **Sub:** Hunter of Souls
 
 ### Details

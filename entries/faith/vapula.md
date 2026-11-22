@@ -17,8 +17,6 @@ page = "119"
 kind = "none"
 +++
 
-**Vapula**
-
 **Sub:** Keeper of the Pyrite Vault
 
 ### Details

@@ -17,8 +17,6 @@ page = "74"
 kind = "none"
 +++
 
-**Brigh**
-
 **Sub:** The Whisper in the Bronze
 
 ### Details

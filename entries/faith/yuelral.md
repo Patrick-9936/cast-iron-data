@@ -17,8 +17,6 @@ page = "20"
 kind = "none"
 +++
 
-**Yuelral**
-
 **Sub:** The Wise
 
 ### Details

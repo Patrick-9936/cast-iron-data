@@ -17,8 +17,6 @@ page = "122"
 kind = "none"
 +++
 
-**Calcabrina**
-
 **Sub:** Mistress of Twilight
 
 ### Details

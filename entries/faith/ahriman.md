@@ -17,8 +17,6 @@ page = "12"
 kind = "none"
 +++
 
-**Ahriman**
-
 **Sub:** Lord of All Divs
 
 **Monster Link** [Ahriman](ref/monster/ahriman)

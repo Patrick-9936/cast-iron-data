@@ -17,8 +17,6 @@ page = "123"
 kind = "none"
 +++
 
-**Graffiacane**
-
 **Sub:** The Swarm Lord
 
 ### Details

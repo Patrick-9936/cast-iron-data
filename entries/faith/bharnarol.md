@@ -17,8 +17,6 @@ page = "8"
 kind = "none"
 +++
 
-**Bharnarol**
-
 **Sub:** The Tempered Inventor
 
 ### Details

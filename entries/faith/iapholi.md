@@ -14,8 +14,6 @@ page = "74-75"
 kind = "none"
 +++
 
-**Iapholi**
-
 **Sub:** Child of Bloodstone
 
 ### Details

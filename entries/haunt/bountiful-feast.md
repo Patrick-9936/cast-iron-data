@@ -14,8 +14,6 @@ page = "65"
 kind = "none"
 +++
 
-**Bountiful Feast**
-
 **Challenge rating:** 8
 
 **XP** 4,800\

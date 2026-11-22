@@ -17,8 +17,6 @@ page = "29"
 kind = "none"
 +++
 
-**Grundinnar**
-
 **Sub:** The Peacemaker
 
 ### Details

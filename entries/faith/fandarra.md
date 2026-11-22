@@ -17,8 +17,6 @@ page = "49"
 kind = "none"
 +++
 
-**Fandarra**
-
 **Sub:** Blood Mother
 
 ### Details

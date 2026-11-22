@@ -17,8 +17,6 @@ page = "28"
 kind = "none"
 +++
 
-**Baalzebul**
-
 **Sub:** Lord of Flies
 
 **Monster Link** [Baalzebul](ref/monster/archdevil-baalzebul)
