@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Ningyo Flesh"
 source_ids = ["pathfinder-37-souls-for-smugglers-shiv"]
 parent = "ref/monster/ningyo-undead-ningyo"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "ningyo_undead_ningyo|affliction:ningyo-flesh", path = "json/monsters36.json" },
 ]

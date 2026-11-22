@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Deadly Fumes"
 source_ids = ["bestiary-4"]
 parent = "ref/monster/colossus-iron-colossus-mythic"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "colossus_iron_colossus_mythic|affliction:deadly-fumes", path = "json/monsters_mythic.json" },
 ]

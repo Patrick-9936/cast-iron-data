@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Lash Venom"
 source_ids = ["planar-adventures"]
 parent = "ref/monster/empusa"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "empusa|affliction:lash-venom", path = "json/monsters42.json" },
 ]

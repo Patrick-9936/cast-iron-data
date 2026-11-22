@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Fulgati Blood"
 source_ids = ["concordance-of-rivals"]
 parent = "ref/monster/psychopomp-fulgati"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "psychopomp_fulgati|affliction:fulgati-blood", path = "json/monsters19.json" },
 ]

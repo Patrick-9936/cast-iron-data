@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Arcane Decay"
 source_ids = ["rise-of-the-runelords-anniversary-edition"]
 parent = "ref/template/runeslave"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "runeslave|affliction:arcane-decay", path = "json/monster_template4.json" },
 ]

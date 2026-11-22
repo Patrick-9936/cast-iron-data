@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Head-Fruit Poison"
 source_ids = ["bestiary-4", "pathfinder-54-the-empty-throne"]
 parent = "ref/monster/jinmenju"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "jinmenju|affliction:head-fruit-poison", path = "json/monsters34.json" },
 ]

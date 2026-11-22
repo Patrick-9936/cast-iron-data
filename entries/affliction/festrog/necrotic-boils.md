@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Necrotic Boils"
 source_ids = ["bestiary-3", "hungry-are-the-dead"]
 parent = "ref/monster/festrog"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "festrog|affliction:necrotic-boils", path = "json/monsters10.json" },
 ]

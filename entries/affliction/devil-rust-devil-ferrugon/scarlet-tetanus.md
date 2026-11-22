@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Scarlet Tetanus"
 source_ids = ["pathfinder-101-the-kintargo-contract"]
 parent = "ref/monster/devil-rust-devil-ferrugon"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "devil_rust_devil_ferrugon|affliction:scarlet-tetanus", path = "json/monsters07.json" },
 ]

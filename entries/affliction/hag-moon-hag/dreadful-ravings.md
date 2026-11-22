@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Dreadful Ravings"
 source_ids = ["planar-adventures", "blood-of-the-coven"]
 parent = "ref/monster/hag-moon-hag"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "hag_moon_hag|affliction:dreadful-ravings", path = "json/monsters33.json" },
 ]

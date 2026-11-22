@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Winds of Isph-Aun-Vuln"
 source_ids = ["bestiary-6"]
 parent = "ref/monster/qlippoth-lord-isph-aun-vuln"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "qlippoth_lord_isph_aun_vuln|affliction:winds-of-isph-aun-vuln", path = "json/monsters_unique3.json" },
 ]

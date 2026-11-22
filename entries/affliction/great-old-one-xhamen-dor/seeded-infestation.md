@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Seeded Infestation"
 source_ids = ["pathfinder-113-what-grows-within"]
 parent = "ref/monster/great-old-one-xhamen-dor"
+tags = ["infestation"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "great_old_one_xhamen_dor|affliction:seeded-infestation", path = "json/monsters_unique2.json" },
 ]

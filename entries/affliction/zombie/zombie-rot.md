@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Zombie Rot"
 source_ids = ["bestiary", "classic-horrors-revisited"]
 parent = "ref/template/zombie"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "zombie|affliction:zombie-rot", path = "json/monster_template4.json" },
 ]

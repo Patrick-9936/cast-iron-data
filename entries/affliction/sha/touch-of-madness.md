@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Touch of Madness"
 source_ids = ["bestiary-5", "pathfinder-80-empty-graves"]
 parent = "ref/monster/sha"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "sha|affliction:touch-of-madness", path = "json/monsters21.json" },
 ]

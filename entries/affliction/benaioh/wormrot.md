@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Wormrot"
 source_ids = ["pathfinder-93-forge-of-the-giant-god"]
 parent = "ref/monster/benaioh"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "benaioh|affliction:wormrot", path = "json/monsters03.json" },
 ]

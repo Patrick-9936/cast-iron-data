@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Basidirond Spores"
 source_ids = ["bestiary"]
 parent = "ref/monster/basidirond"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "basidirond|affliction:basidirond-spores", path = "json/monsters03.json" },
 ]

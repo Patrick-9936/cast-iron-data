@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Bog Rot"
 source_ids = ["bestiary-5"]
 parent = "ref/monster/swamp-mummy"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "swamp_mummy|affliction:bog-rot", path = "json/monsters24.json" },
 ]

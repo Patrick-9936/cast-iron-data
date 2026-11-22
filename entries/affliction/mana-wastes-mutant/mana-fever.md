@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Mana Fever"
 source_ids = ["inner-sea-bestiary"]
 parent = "ref/template/mana-wastes-mutant"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "mana_wastes_mutant|affliction:mana-fever", path = "json/monster_template3.json" },
 ]

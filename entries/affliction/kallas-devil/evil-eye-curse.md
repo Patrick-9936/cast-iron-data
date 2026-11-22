@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Evil Eye Curse"
 source_ids = ["fey-revisited"]
 parent = "ref/monster/kallas-devil"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "kallas_devil|affliction:evil-eye-curse", path = "json/monsters_unique4.json" },
 ]

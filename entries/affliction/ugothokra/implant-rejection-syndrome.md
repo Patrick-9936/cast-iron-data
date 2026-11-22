@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Implant Rejection Syndrome"
 source_ids = ["pathfinder-88-valley-of-the-brain-collectors"]
 parent = "ref/monster/ugothokra"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "ugothokra|affliction:implant-rejection-syndrome", path = "json/monsters24.json" },
 ]

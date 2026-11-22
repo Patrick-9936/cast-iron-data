@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Flux Infusion"
 source_ids = ["inner-sea-bestiary"]
 parent = "ref/monster/kyton-termagant"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "kyton_termagant|affliction:flux-infusion", path = "json/monsters15.json" },
 ]

@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Magma Ooze Poison"
 source_ids = ["bestiary-2"]
 parent = "ref/monster/magma-ooze"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "magma_ooze|affliction:magma-ooze-poison", path = "json/monsters16.json" },
 ]

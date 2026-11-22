@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Leng Ghoul Fever"
 source_ids = ["bestiary-5"]
 parent = "ref/monster/ghoul-leng-ghoul"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "ghoul_leng_ghoul|affliction:leng-ghoul-fever", path = "json/monsters11.json" },
 ]

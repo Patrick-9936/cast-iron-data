@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Ubashki Fever"
 source_ids = ["lost-kingdoms"]
 parent = "ref/monster/ubashki-ubashki-swarm"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "ubashki_ubashki_swarm|affliction:ubashki-fever", path = "json/monsters24.json" },
 ]

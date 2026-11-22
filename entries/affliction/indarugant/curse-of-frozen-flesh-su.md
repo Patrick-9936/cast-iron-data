@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Curse of Frozen Flesh (Su)"
 source_ids = ["pathfinder-94-ice-tomb-of-the-giant-queen"]
 parent = "ref/monster/indarugant"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "indarugant|affliction:curse-of-frozen-flesh-su", path = "json/monsters14.json" },
 ]

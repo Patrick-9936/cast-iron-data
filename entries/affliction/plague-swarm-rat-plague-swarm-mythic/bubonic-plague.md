@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Bubonic Plague"
 source_ids = ["bestiary-5"]
 parent = "ref/monster/plague-swarm-rat-plague-swarm-mythic"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "plague_swarm_rat_plague_swarm_mythic|affliction:bubonic-plague", path = "json/monsters_mythic2.json" },
 ]

@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Waste Trembles"
 source_ids = ["bestiary-5", "wardens-of-the-reborn-forge"]
 parent = "ref/monster/capramace"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "capramace|affliction:waste-trembles", path = "json/monsters04.json" },
 ]

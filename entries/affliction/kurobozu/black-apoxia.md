@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Black apoxia"
 source_ids = ["bestiary-5"]
 parent = "ref/monster/kurobozu"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "kurobozu|affliction:black-apoxia", path = "json/monsters15.json" },
 ]

@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Poisonous Bile"
 source_ids = ["pathfinder-129-the-twilight-child"]
 parent = "ref/monster/vorvorak"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "vorvorak|affliction:poisonous-bile", path = "json/monsters40.json" },
 ]

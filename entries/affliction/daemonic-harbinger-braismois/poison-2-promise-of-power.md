@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Poison 2: Promise of Power"
 source_ids = ["druma-profit-and-prophecy"]
 parent = "ref/monster/daemonic-harbinger-braismois"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "daemonic_harbinger_braismois|affliction:poison-2-promise-of-power", path = "json/monsters_unique.json" },
 ]

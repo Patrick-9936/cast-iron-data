@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Cassomir stray poison"
 source_ids = ["taldor-the-first-empire"]
 parent = "ref/monster/cassomir-stray"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "cassomir_stray|affliction:cassomir-stray-poison", path = "json/monsters04.json" },
 ]

@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Bogwid Fever"
 source_ids = ["pathfinder-62-curse-of-the-ladys-light"]
 parent = "ref/monster/bogwid"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "bogwid|affliction:bogwid-fever", path = "json/monsters27.json" },
 ]
