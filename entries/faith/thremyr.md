@@ -17,8 +17,6 @@ page = "50"
 kind = "none"
 +++
 
-**Thremyr**
-
 **Sub:** First Jarl
 
 ### Details

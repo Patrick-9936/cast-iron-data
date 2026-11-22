@@ -17,8 +17,6 @@ page = "79"
 kind = "none"
 +++
 
-**Barzahk**
-
 **Sub:** The Passage
 
 **Monster Link** [Barzahk](ref/monster/psychopomp-usher-barzahk)

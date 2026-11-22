@@ -23,8 +23,6 @@ page = "70"
 kind = "none"
 +++
 
-**Baphomet**
-
 **Sub:** Lord of the Minotaurs
 
 **Monster Link** [Baphomet](ref/monster/demon-lord-baphomet)

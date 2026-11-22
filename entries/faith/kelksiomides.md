@@ -14,8 +14,6 @@ page = "13"
 kind = "none"
 +++
 
-**Kelksiomides**
-
 **Sub:** The Green Warden
 
 ### Details

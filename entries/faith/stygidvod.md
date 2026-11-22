@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Stygidvod**
-
 **Sub:** The Charnel Child
 
 ### Details

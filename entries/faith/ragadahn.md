@@ -17,8 +17,6 @@ page = "31"
 kind = "none"
 +++
 
-**Ragadahn**
-
 **Sub:** The Water Lord
 
 ### Details

@@ -14,8 +14,6 @@ page = "68"
 kind = "none"
 +++
 
-**Horus**
-
 **Sub:** The Distant Falcon
 
 ### Details

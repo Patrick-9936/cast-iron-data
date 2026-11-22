@@ -14,8 +14,6 @@ page = "22"
 kind = "none"
 +++
 
-**Imbrex**
-
 **Sub:** The Twins
 
 ### Details

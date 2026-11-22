@@ -14,8 +14,6 @@ page = "12"
 kind = "none"
 +++
 
-**Mother Vulture**
-
 **Sub:** The Flesheater
 
 ### Details

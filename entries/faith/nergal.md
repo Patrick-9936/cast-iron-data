@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Nergal**
-
 **Sub:** The Slow Death
 
 ### Details

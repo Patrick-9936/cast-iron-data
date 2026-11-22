@@ -14,8 +14,6 @@ page = "120"
 kind = "none"
 +++
 
-**Raetorgash**
-
 **Sub:** The Skull-Hoarder
 
 ### Details

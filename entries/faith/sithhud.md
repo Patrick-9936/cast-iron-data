@@ -20,8 +20,6 @@ page = "39"
 kind = "none"
 +++
 
-**Sithhud**
-
 **Sub:** The Frozen Lord
 
 ### Details

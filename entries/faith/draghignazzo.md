@@ -20,8 +20,6 @@ page = "31"
 kind = "none"
 +++
 
-**Draghignazzo**
-
 **Sub:** Devil-Dragon of Devastation
 
 ### Details

@@ -17,8 +17,6 @@ page = "35"
 kind = "none"
 +++
 
-**Ketephys**
-
 **Sub:** The Hunter
 
 ### Details

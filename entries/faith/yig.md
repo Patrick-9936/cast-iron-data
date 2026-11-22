@@ -14,8 +14,6 @@ page = "73"
 kind = "none"
 +++
 
-**Yig**
-
 **Sub:** Father of Serpents
 
 **Monster Link** [Yig](ref/monster/great-old-one-yig)

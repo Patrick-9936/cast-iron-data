@@ -17,8 +17,6 @@ page = "123"
 kind = "none"
 +++
 
-**Libicocco**
-
 **Sub:** Prideful Lady of the Winds
 
 ### Details

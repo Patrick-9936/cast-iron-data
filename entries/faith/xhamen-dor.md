@@ -17,8 +17,6 @@ page = "72"
 kind = "none"
 +++
 
-**Xhamen-Dor**
-
 **Sub:** The Inmost Blot
 
 ### Details

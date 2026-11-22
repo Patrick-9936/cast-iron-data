@@ -20,8 +20,6 @@ page = "26"
 kind = "none"
 +++
 
-**Socothbenoth**
-
 **Sub:** The Silken Sin
 
 ### Details

@@ -17,8 +17,6 @@ page = "29"
 kind = "none"
 +++
 
-**Zohls**
-
 **Sub:** Verity
 
 ### Details

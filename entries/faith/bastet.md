@@ -14,8 +14,6 @@ page = "67"
 kind = "none"
 +++
 
-**Bastet**
-
 **Sub:** The Sly Enchantress
 
 ### Details

@@ -17,8 +17,6 @@ page = "28"
 kind = "none"
 +++
 
-**Ylimancha**
-
 **Sub:** Harborwing
 
 ### Details

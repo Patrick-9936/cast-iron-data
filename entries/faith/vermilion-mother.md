@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Vermilion Mother**
-
 ### Details
 
 **Alignment** CE\

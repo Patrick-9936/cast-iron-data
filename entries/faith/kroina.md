@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Kroina**
-
 **Sub:** Lady All-Sight
 
 ### Details

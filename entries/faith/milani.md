@@ -17,8 +17,6 @@ page = "69"
 kind = "none"
 +++
 
-**Milani**
-
 **Sub:** The Everbloom
 
 ### Details

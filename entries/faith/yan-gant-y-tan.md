@@ -17,8 +17,6 @@ page = "119"
 kind = "none"
 +++
 
-**Yan-gant-y-tan**
-
 **Sub:** The Wandering
 
 ### Details

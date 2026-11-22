@@ -17,8 +17,6 @@ page = "75"
 kind = "none"
 +++
 
-**Zyphus**
-
 **Sub:** The Grim Harvestman
 
 ### Details

@@ -14,8 +14,6 @@ page = "68"
 kind = "none"
 +++
 
-**Ithaqua**
-
 **Sub:** The Wind-Walker
 
 **Monster Link** [Ithaqua](ref/monster/great-old-one-ithaqua)

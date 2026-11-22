@@ -17,8 +17,6 @@ page = "14"
 kind = "none"
 +++
 
-**Immonhiel**
-
 **Sub:** Balm-Bringer
 
 ### Details

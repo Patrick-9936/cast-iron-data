@@ -14,8 +14,6 @@ page = "70"
 kind = "none"
 +++
 
-**Aroden**
-
 **Sub:** The Last Azlanti
 
 ### Details

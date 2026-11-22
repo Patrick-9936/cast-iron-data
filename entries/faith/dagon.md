@@ -20,8 +20,6 @@ page = "14"
 kind = "none"
 +++
 
-**Dagon**
-
 **Sub:** The Shadow in the Sea
 
 **Monster Link** [Dagon](ref/monster/demon-lord-dagon)

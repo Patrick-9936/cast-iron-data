@@ -20,8 +20,6 @@ page = "78"
 kind = "none"
 +++
 
-**Norgorber**
-
 **Sub:** The Reaper of Reputation
 
 ### Details

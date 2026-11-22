@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Hydim**
-
 **Sub:** of the Eternal Fast
 
 ### Details

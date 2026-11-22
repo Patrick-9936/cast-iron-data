@@ -14,8 +14,6 @@ page = "126"
 kind = "none"
 +++
 
-**Ushitora**
-
 **Sub:** Keeper of the Oni Gate
 
 ### Details

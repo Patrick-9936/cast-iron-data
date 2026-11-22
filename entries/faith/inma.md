@@ -14,8 +14,6 @@ page = "126"
 kind = "none"
 +++
 
-**Inma**
-
 **Sub:** The Empress of the World
 
 ### Details

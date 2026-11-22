@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Arlachramas**
-
 **Sub:** The Silent Breath
 
 ### Details

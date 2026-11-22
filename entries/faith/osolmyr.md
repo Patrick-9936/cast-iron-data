@@ -17,8 +17,6 @@ page = "114"
 kind = "none"
 +++
 
-**Osolmyr**
-
 **Sub:** The One True Dream
 
 ### Details

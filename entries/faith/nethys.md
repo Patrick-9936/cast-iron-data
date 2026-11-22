@@ -20,8 +20,6 @@ page = "78"
 kind = "none"
 +++
 
-**Nethys**
-
 **Sub:** The All-Seeing Eye
 
 ### Details

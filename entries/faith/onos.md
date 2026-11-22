@@ -14,8 +14,6 @@ page = "72"
 kind = "none"
 +++
 
-**Onos**
-
 **Sub:** God of Many Doors
 
 ### Details

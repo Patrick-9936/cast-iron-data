@@ -14,8 +14,6 @@ page = "43"
 kind = "none"
 +++
 
-**Matravash**
-
 **Sub:** The Wide Water
 
 ### Details

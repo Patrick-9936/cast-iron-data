@@ -17,8 +17,6 @@ page = "175"
 kind = "none"
 +++
 
-**Achaekek**
-
 **Sub:** He Who Walks in Blood
 
 ### Details

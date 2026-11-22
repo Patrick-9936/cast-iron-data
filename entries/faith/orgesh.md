@@ -14,8 +14,6 @@ page = "70"
 kind = "none"
 +++
 
-**Orgesh**
-
 **Sub:** The Faceless God
 
 ### Details

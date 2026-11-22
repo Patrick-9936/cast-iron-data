@@ -14,8 +14,6 @@ page = "130"
 kind = "none"
 +++
 
-**Ravana**
-
 **Sub:** The First and the Last
 
 ### Details

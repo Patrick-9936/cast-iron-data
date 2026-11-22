@@ -20,8 +20,6 @@ page = "39"
 kind = "none"
 +++
 
-**Shamira**
-
 **Sub:** Princess of the Porphyry City
 
 **Monster Link** [Shamira](ref/monster/shamira)

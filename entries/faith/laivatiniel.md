@@ -17,8 +17,6 @@ page = "114"
 kind = "none"
 +++
 
-**Laivatiniel**
-
 **Sub:** The Chains and the Cradle
 
 ### Details

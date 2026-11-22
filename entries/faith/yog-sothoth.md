@@ -14,8 +14,6 @@ page = "73"
 kind = "none"
 +++
 
-**Yog-Sothoth**
-
 **Sub:** Lurker at the Threshold
 
 ### Details

@@ -17,8 +17,6 @@ page = "129"
 kind = "none"
 +++
 
-**Shiggarreb**
-
 **Sub:** The Marauding Maw
 
 ### Details

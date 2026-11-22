@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Tjasse**
-
 **Sub:** Lord of Talons
 
 ### Details

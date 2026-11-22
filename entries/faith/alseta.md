@@ -17,8 +17,6 @@ page = "175"
 kind = "none"
 +++
 
-**Alseta**
-
 **Sub:** The Welcomer
 
 ### Details

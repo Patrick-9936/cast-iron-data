@@ -14,8 +14,6 @@ page = "74"
 kind = "none"
 +++
 
-**Upion and Warrik**
-
 ### Details
 
 **Alignment** NG\

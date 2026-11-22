@@ -17,8 +17,6 @@ page = "6"
 kind = "none"
 +++
 
-**Arqueros**
-
 **Sub:** The Golden Bulwark
 
 ### Details

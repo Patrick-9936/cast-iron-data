@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Gaap**
-
 **Sub:** Rai of the Water Devils
 
 ### Details

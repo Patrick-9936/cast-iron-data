@@ -20,8 +20,6 @@ page = "24"
 kind = "none"
 +++
 
-**Shivaska**
-
 **Sub:** The Chained Maiden
 
 ### Details

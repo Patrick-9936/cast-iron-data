@@ -17,8 +17,6 @@ page = "117"
 kind = "none"
 +++
 
-**Lorcan**
-
 **Sub:** The Red Reply
 
 ### Details

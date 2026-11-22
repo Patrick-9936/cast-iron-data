@@ -14,8 +14,6 @@ page = "126"
 kind = "none"
 +++
 
-**Chimon**
-
 **Sub:** Hunter of Blood
 
 ### Details

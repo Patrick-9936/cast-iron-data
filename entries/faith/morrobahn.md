@@ -14,8 +14,6 @@ page = "120"
 kind = "none"
 +++
 
-**Morrobahn**
-
 **Sub:** The Parasite Seed
 
 ### Details

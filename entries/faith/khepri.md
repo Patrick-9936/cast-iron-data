@@ -14,8 +14,6 @@ page = "65"
 kind = "none"
 +++
 
-**Khepri**
-
 **Sub:** The Humble Hand
 
 ### Details

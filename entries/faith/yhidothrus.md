@@ -20,8 +20,6 @@ page = "28"
 kind = "none"
 +++
 
-**Yhidothrus**
-
 **Sub:** The Ravager Worm
 
 ### Details

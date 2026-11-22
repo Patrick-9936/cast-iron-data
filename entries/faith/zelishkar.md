@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Zelishkar**
-
 **Sub:** The Bitter Flame
 
 ### Details

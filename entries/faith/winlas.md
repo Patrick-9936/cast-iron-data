@@ -17,8 +17,6 @@ page = "28"
 kind = "none"
 +++
 
-**Winlas**
-
 **Sub:** The Elder of Divinity
 
 ### Details

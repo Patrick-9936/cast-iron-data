@@ -17,8 +17,6 @@ page = "59"
 kind = "none"
 +++
 
-**Tsukiyo**
-
 **Sub:** Prince of the Moon
 
 ### Details

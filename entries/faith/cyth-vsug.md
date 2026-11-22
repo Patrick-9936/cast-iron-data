@@ -20,8 +20,6 @@ page = "13"
 kind = "none"
 +++
 
-**Cyth-V'sug**
-
 **Sub:** Prince of the Blasted Heath
 
 ### Details

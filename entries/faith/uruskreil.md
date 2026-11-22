@@ -17,8 +17,6 @@ page = "119"
 kind = "none"
 +++
 
-**Uruskreil**
-
 **Sub:** The Metal Wing
 
 ### Details

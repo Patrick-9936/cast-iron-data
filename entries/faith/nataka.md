@@ -14,8 +14,6 @@ page = "126"
 kind = "none"
 +++
 
-**Nataka**
-
 **Sub:** The Red King
 
 ### Details

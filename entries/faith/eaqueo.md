@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Eaqueo**
-
 **Sub:** The Finishing Knot
 
 ### Details

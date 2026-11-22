@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Tamede**
-
 **Sub:** The Moldmother
 
 ### Details

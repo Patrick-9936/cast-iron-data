@@ -17,8 +17,6 @@ page = "26"
 kind = "none"
 +++
 
-**Valani**
-
 **Sub:** Fireshaker
 
 ### Details

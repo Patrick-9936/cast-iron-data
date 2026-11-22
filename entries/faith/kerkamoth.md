@@ -14,8 +14,6 @@ page = "10"
 kind = "none"
 +++
 
-**Kerkamoth**
-
 **Sub:** The Waiting Void
 
 ### Details

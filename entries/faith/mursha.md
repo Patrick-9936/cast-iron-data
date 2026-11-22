@@ -14,8 +14,6 @@ page = "130"
 kind = "none"
 +++
 
-**Mursha**
-
 **Sub:** Beastmaster
 
 ### Details

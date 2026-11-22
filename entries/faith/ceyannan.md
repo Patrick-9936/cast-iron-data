@@ -14,8 +14,6 @@ page = "7"
 kind = "none"
 +++
 
-**Ceyannan**
-
 **Sub:** The Shepherd
 
 ### Details

@@ -14,8 +14,6 @@ page = "120"
 kind = "none"
 +++
 
-**Kaikyton**
-
 **Sub:** The Stitchweaver
 
 ### Details

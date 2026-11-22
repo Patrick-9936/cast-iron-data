@@ -20,8 +20,6 @@ page = "38"
 kind = "none"
 +++
 
-**Daclau-Sar**
-
 **Sub:** Lord of Carrion
 
 ### Details

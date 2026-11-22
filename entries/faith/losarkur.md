@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Losarkur**
-
 **Sub:** Beastlord of Avernus
 
 ### Details

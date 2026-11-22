@@ -14,8 +14,6 @@ page = "64"
 kind = "none"
 +++
 
-**Abhoth**
-
 **Sub:** Source of Uncleanness
 
 ### Details

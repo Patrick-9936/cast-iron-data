@@ -17,8 +17,6 @@ page = "41"
 kind = "none"
 +++
 
-**Magrim**
-
 **Sub:** The Taskmaster
 
 ### Details

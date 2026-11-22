@@ -17,8 +17,6 @@ page = "50"
 kind = "none"
 +++
 
-**Urazra**
-
 **Sub:** Breaker of Bones
 
 ### Details

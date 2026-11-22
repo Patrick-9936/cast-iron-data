@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Iaozrael**
-
 **Sub:** The Untarnished Angel
 
 ### Details

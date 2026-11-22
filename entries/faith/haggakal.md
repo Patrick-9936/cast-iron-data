@@ -17,8 +17,6 @@ page = "49"
 kind = "none"
 +++
 
-**Haggakal**
-
 **Sub:** Father Moon
 
 ### Details

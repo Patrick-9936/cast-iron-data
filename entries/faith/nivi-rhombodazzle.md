@@ -17,8 +17,6 @@ page = "47"
 kind = "none"
 +++
 
-**Nivi Rhombodazzle**
-
 **Sub:** The Gray Polychrome
 
 ### Details

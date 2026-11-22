@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Corosbel**
-
 **Sub:** The Silent Saint
 
 ### Details

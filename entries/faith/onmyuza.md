@@ -14,8 +14,6 @@ page = "126"
 kind = "none"
 +++
 
-**Onmyuza**
-
 **Sub:** Dancer in Flesh
 
 ### Details

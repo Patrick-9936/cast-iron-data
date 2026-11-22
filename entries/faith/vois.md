@@ -17,8 +17,6 @@ page = "119"
 kind = "none"
 +++
 
-**Vois**
-
 **Sub:** The Croaking Count
 
 ### Details

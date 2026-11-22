@@ -14,8 +14,6 @@ page = "11"
 kind = "none"
 +++
 
-**Grandmother Spider**
-
 **Sub:** The Weaver
 
 ### Details

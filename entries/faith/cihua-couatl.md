@@ -14,8 +14,6 @@ page = "66"
 kind = "none"
 +++
 
-**Cihua Couatl**
-
 **Sub:** The War Children
 
 ### Details

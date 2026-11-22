@@ -17,8 +17,6 @@ page = "46"
 kind = "none"
 +++
 
-**Doloras**
-
 **Sub:** Our Lady of Pain
 
 ### Details

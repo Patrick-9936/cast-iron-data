@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Rasvocel**
-
 **Sub:** The Vulture King
 
 ### Details

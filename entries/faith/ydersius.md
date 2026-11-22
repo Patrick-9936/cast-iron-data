@@ -17,8 +17,6 @@ page = "71"
 kind = "none"
 +++
 
-**Ydersius**
-
 **Sub:** The Headless King
 
 ### Details

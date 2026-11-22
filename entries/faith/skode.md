@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Skode**
-
 **Sub:** The Horizon Huntress
 
 ### Details

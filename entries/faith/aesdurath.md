@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Aesdurath**
-
 **Sub:** The Pale Dowager
 
 ### Details

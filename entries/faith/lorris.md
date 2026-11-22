@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Lorris**
-
 **Sub:** The Savior Hound
 
 ### Details

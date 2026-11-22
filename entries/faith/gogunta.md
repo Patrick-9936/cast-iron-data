@@ -20,8 +20,6 @@ page = "16"
 kind = "none"
 +++
 
-**Gogunta**
-
 **Sub:** Song of the Swamp
 
 ### Details

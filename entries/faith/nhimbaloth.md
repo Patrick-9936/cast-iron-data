@@ -14,8 +14,6 @@ page = "69"
 kind = "none"
 +++
 
-**Nhimbaloth**
-
 **Sub:** The Empty Death
 
 ### Details

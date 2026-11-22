@@ -20,8 +20,6 @@ page = "38"
 kind = "none"
 +++
 
-**Izyagna**
-
 **Sub:** She of the Sevenfold Swarm
 
 ### Details

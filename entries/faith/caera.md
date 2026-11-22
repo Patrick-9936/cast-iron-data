@@ -14,8 +14,6 @@ page = "130"
 kind = "none"
 +++
 
-**Caera**
-
 **Sub:** The Blood Bather
 
 ### Details

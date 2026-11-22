@@ -20,8 +20,6 @@ page = "31"
 kind = "none"
 +++
 
-**Ardad Lili**
-
 **Sub:** The End of Innocence
 
 ### Details

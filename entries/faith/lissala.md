@@ -23,8 +23,6 @@ page = "174"
 kind = "none"
 +++
 
-**Lissala**
-
 **Sub:** The Sihedron Scion
 
 ### Details

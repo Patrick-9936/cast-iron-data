@@ -14,8 +14,6 @@ page = "20"
 kind = "none"
 +++
 
-**The Green Mother**
-
 **Sub:** The Feasting Flower
 
 ### Details

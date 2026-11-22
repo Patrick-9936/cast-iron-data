@@ -17,8 +17,6 @@ page = "7"
 kind = "none"
 +++
 
-**Arshea**
-
 **Sub:** Spirit of Abandon
 
 **Monster Link** [Arshea](ref/monster/empyreal-lord-arshea)

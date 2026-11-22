@@ -14,8 +14,6 @@ page = "120"
 kind = "none"
 +++
 
-**Inkariax**
-
 **Sub:** The White Death
 
 **Monster Link** [Inkariax](ref/monster/kyton-demagogue-inkariax)

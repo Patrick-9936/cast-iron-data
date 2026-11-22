@@ -14,8 +14,6 @@ page = "322"
 kind = "none"
 +++
 
-**Hshurha**
-
 **Sub:** Duchess of All Winds
 
 ### Details

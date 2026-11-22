@@ -14,8 +14,6 @@ page = "70, 74-75"
 kind = "none"
 +++
 
-**Minderhal**
-
 **Sub:** He Who Makes and Unmakes
 
 ### Details

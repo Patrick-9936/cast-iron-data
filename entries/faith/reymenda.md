@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Reymenda**
-
 **Sub:** Lady of the Martyred Womb
 
 ### Details

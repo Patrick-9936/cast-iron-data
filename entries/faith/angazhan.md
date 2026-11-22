@@ -20,8 +20,6 @@ page = "11"
 kind = "none"
 +++
 
-**Angazhan**
-
 **Sub:** The Ravenous King
 
 ### Details

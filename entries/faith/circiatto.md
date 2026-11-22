@@ -17,8 +17,6 @@ page = "122"
 kind = "none"
 +++
 
-**Circiatto**
-
 **Sub:** The Glutton Slaver
 
 ### Details

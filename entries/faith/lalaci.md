@@ -17,8 +17,6 @@ page = "18"
 kind = "none"
 +++
 
-**Lalaci**
-
 **Sub:** He of Motley Repose
 
 ### Details

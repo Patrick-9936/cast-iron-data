@@ -14,8 +14,6 @@ page = "66"
 kind = "none"
 +++
 
-**Anubis**
-
 **Sub:** Guardian of the Tomb
 
 ### Details

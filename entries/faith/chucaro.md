@@ -17,8 +17,6 @@ page = "10"
 kind = "none"
 +++
 
-**Chucaro**
-
 **Sub:** Maiden of Haze and Whimsy
 
 ### Details

@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Diceid**
-
 **Sub:** The Empty Dawn
 
 ### Details

@@ -17,8 +17,6 @@ page = "24"
 kind = "none"
 +++
 
-**Soralyon**
-
 **Sub:** The Mystic Angel
 
 ### Details

@@ -14,8 +14,6 @@ page = "66"
 kind = "none"
 +++
 
-**Cthulhu**
-
 **Sub:** The Dreamer in the Deep
 
 **Monster Link** [Cthulhu](ref/monster/great-old-one-cthulhu)

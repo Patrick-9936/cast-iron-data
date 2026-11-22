@@ -14,8 +14,6 @@ page = "130"
 kind = "none"
 +++
 
-**Prihasta**
-
 **Sub:** The General Between Heaven and Hell
 
 ### Details

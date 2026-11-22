@@ -14,8 +14,6 @@ page = "72"
 kind = "none"
 +++
 
-**Tsathoggua**
-
 **Sub:** Father of Night
 
 **Monster Link** [Tsathoggua](ref/monster/great-old-one-tsathoggua)

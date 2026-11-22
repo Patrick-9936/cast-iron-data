@@ -20,8 +20,6 @@ page = "203"
 kind = "none"
 +++
 
-**Camazotz**
-
 **Sub:** Master of Black Wings
 
 ### Details

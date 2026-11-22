@@ -14,8 +14,6 @@ page = "65"
 kind = "none"
 +++
 
-**Kurgess**
-
 **Sub:** The Strong Man
 
 ### Details

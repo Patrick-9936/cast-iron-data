@@ -14,8 +14,6 @@ page = "316"
 kind = "none"
 +++
 
-**Alazhra**
-
 **Sub:** The Dream Eater
 
 ### Details

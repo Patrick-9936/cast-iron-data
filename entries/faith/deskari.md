@@ -23,8 +23,6 @@ page = "70"
 kind = "none"
 +++
 
-**Deskari**
-
 **Sub:** Lord of the Locust Host
 
 **Monster Link** [Deskari](ref/monster/demon-lord-deskari)

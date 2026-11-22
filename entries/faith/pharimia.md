@@ -14,8 +14,6 @@ page = "74"
 kind = "none"
 +++
 
-**Pharimia**
-
 ### Details
 
 **Alignment** Unaligned\

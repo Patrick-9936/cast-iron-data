@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Skrymir**
-
 **Sub:** The Seeker of Sunsets
 
 ### Details

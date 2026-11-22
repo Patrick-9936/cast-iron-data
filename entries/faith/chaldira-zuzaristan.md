@@ -17,8 +17,6 @@ page = "5"
 kind = "none"
 +++
 
-**Chaldira Zuzaristan**
-
 **Sub:** The Calamitous Turn
 
 ### Details

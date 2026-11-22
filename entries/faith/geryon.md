@@ -17,8 +17,6 @@ page = "52"
 kind = "none"
 +++
 
-**Geryon**
-
 **Sub:** The Serpent
 
 **Monster Link** [Geryon](ref/monster/archdevil-geryon)

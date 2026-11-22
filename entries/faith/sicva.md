@@ -14,8 +14,6 @@ page = "74"
 kind = "none"
 +++
 
-**Sicva**
-
 **Sub:** Mistress of All
 
 ### Details

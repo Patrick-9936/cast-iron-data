@@ -20,8 +20,6 @@ page = "76"
 kind = "none"
 +++
 
-**Gorum**
-
 **Sub:** Our Lord in Iron
 
 ### Details

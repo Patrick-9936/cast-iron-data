@@ -17,8 +17,6 @@ page = "28"
 kind = "none"
 +++
 
-**Apsu**
-
 **Sub:** The Waybringer
 
 ### Details

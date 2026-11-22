@@ -17,8 +17,6 @@ page = "55"
 kind = "none"
 +++
 
-**Uskyeria**
-
 **Sub:** The Saintly Slumberer
 
 ### Details

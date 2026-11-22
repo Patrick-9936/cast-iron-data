@@ -17,8 +17,6 @@ page = "16"
 kind = "none"
 +++
 
-**Jalaijatali**
-
 **Sub:** Rillsong
 
 ### Details

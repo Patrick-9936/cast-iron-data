@@ -14,8 +14,6 @@ page = "324"
 kind = "none"
 +++
 
-**Zogmugot**
-
 **Sub:** Lady Lastbreath
 
 ### Details

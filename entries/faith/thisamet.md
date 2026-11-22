@@ -17,8 +17,6 @@ page = "55"
 kind = "none"
 +++
 
-**Thisamet**
-
 **Sub:** The Blithe Spirit
 
 ### Details

@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Pirias**
-
 **Sub:** The Whispering Vial
 
 ### Details

@@ -14,8 +14,6 @@ page = "71"
 kind = "none"
 +++
 
-**Ra**
-
 **Sub:** King of the Heavens
 
 ### Details

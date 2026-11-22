@@ -20,8 +20,6 @@ page = "79"
 kind = "none"
 +++
 
-**Rovagug**
-
 **Sub:** The Rough Beast
 
 ### Details

@@ -2,8 +2,9 @@
 """Drop the headings and bold paragraphs that repeat the entry title (issue #168).
 
 The page already shows the title as its `h1`. A body that opens with the same words again, alone or
-followed by the entry's own classification, repeats it. Five passes remove those repeats. Each pass
-removes only text that the entry states elsewhere, and queues every entry it cannot decide.
+followed by the entry's own classification, repeats it. Seven passes find those repeats; six remove
+them and `misc-rule` only queues. Each pass removes only text that the entry states elsewhere, and
+queues every entry it cannot decide.
 
   creature        `**Owlbear**`, the bold paragraph that names a creature (`ref/monster/`,
                   `ref/npc/`). It is the first paragraph, or the second when an italic flavour
@@ -27,6 +28,13 @@ removes only text that the entry states elsewhere, and queues every entry it can
                   converted paragraph as plain paragraphs, then any `###` subsections. A field
                   that holds the whole text is cut at the end of the first paragraph; the words
                   and paragraph breaks of the body must not change (`same_print`).
+  deity-haunt     the same bold paragraph of the deities and haunts (`ref/faith/`, `ref/haunt/`; #184),
+                  by the creature rule: the first paragraph, or the second after an italic
+                  one, equal to the title or to the title without its trailing parenthesis.
+  misc-rule       the same bold paragraph of the `ref/misc/` and `ref/rule/` entries (#184). It
+                  only queues: in a rule entry that covers several topics the bold paragraph can
+                  label the first subsection, so no entry changes until a review row says that it
+                  is an echo. A row names the bold text and the start of the block after it.
   trait-type      `**Type:** Regional`: the first paragraph of a trait, when it equals
                   `TraitFields.category` (and `detail`, when present: `Category (Detail)`).
                   The category is in the metadata line (phynics/cast-iron#609). Merge that PR first.
@@ -59,7 +67,15 @@ from dataclasses import dataclass
 from pathlib import Path
 
 FRONT = re.compile(r"\A\+\+\+\n(.*?)\n\+\+\+\n", re.S)
-PASSES = ("creature", "trap-template", "feat-heading", "mythic", "trait-type")
+PASSES = (
+    "creature",
+    "trap-template",
+    "feat-heading",
+    "mythic",
+    "trait-type",
+    "deity-haunt",
+    "misc-rule",
+)
 REVIEW = "scripts/title-echoes-review-168.tsv"
 BLOCK = re.compile(r"(.*?)(\n{2,})(.*)\Z", re.S)
 BOLD_ONLY = re.compile(r"\*\*([^*\n]+)\*\*")
@@ -156,6 +172,45 @@ def bold_title(text: str, data: dict) -> Result | None:
     if dropped is None:
         return Result(reason="nothing follows the bold paragraph")
     return Result(text=dropped)
+
+
+def lettered(value: str) -> str:
+    """Lowercase letters and digits only: what a bold name and a title share."""
+    return re.sub(r"[^a-z0-9]", "", value.lower())
+
+
+def bold_title_review(text: str, data: dict) -> Result | None:
+    """misc-rule: queue a bold first paragraph that equals or resembles the title; change nothing.
+
+    The row names the bold text and the start of the block after it, so a reviewer sees whether
+    the paragraph repeats the title or labels what follows.
+    """
+    _head, _lead, rest = split_body(text)
+    blocks = re.split(r"\n{2,}", rest.rstrip("\n"))
+    index = None
+    if BOLD_ONLY.fullmatch(blocks[0]):
+        index = 0
+    elif len(blocks) > 1 and unitalic(blocks[0]) is not None and BOLD_ONLY.fullmatch(blocks[1]):
+        index = 1
+    if index is None:
+        return None
+    name = BOLD_ONLY.fullmatch(blocks[index]).group(1).strip()
+    title = data["title"]
+    follow = " ".join(blocks[index + 1].split()) if index + 1 < len(blocks) else ""
+    follow = follow.replace("`", "'").replace("\t", " ")
+    follow = f"the next block starts `{follow[:60]}{'...' if len(follow) > 60 else ''}`"
+    if name in (title, without_disambiguation(title)):
+        return Result(
+            reason=f"the bold paragraph `{name}` equals the title; echo, or label of the first "
+            f"subsection? {follow if follow else 'nothing follows'}"
+        )
+    plain, other = lettered(name), lettered(title)
+    if plain and other and (other.startswith(plain) or plain.startswith(other)):
+        return Result(
+            reason=f"the bold paragraph `{name}` resembles the title `{title}`; echo, or label "
+            f"of the first subsection? {follow if follow else 'nothing follows'}"
+        )
+    return None
 
 
 def feat_heading(text: str, data: dict) -> Result | None:
@@ -387,6 +442,12 @@ def run_pass(name: str, path: str, text: str, data: dict) -> Result | None:
     elif name == "trap-template":
         if entry_id.split("/")[1] in ("trap", "template"):
             return bold_title(text, data)
+    elif name == "deity-haunt":
+        if entry_id.split("/")[1] in ("faith", "haunt"):
+            return bold_title(text, data)
+    elif name == "misc-rule":
+        if entry_id.split("/")[1] in ("misc", "rule"):
+            return bold_title_review(text, data)
     elif name == "feat-heading":
         return feat_heading(text, data)
     elif name == "mythic":

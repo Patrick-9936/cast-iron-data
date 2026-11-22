@@ -14,8 +14,6 @@ page = "15"
 kind = "none"
 +++
 
-**The Pale Horse**
-
 **Sub:** The Lash and the Plough
 
 ### Details

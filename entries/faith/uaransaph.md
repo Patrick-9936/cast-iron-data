@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Uaransaph**
-
 **Sub:** The Creeping Pit
 
 ### Details

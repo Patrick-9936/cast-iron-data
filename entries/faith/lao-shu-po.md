@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Lao Shu Po**
-
 **Sub:** Old Rat Woman
 
 ### Details

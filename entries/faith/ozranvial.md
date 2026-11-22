@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Ozranvial**
-
 **Sub:** Despair's Smile
 
 ### Details

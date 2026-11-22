@@ -14,8 +14,6 @@ page = "324"
 kind = "none"
 +++
 
-**Zarongel**
-
 **Sub:** Bark Breaker
 
 ### Details

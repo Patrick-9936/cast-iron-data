@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Zipacna**
-
 **Sub:** The Mountain Below
 
 ### Details

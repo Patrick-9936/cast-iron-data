@@ -14,8 +14,6 @@ page = "133"
 kind = "none"
 +++
 
-**Enchanting Demise**
-
 **Challenge rating:** 10
 
 **XP** 9,600\

@@ -14,8 +14,6 @@ page = "69"
 kind = "none"
 +++
 
-**Isis**
-
 **Sub:** Queen of Miracles
 
 ### Details

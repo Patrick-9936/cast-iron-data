@@ -14,8 +14,6 @@ page = "68"
 kind = "none"
 +++
 
-**Amaznen**
-
 **Sub:** The Father of Invention
 
 ### Details

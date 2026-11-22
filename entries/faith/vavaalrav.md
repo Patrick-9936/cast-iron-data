@@ -14,8 +14,6 @@ page = "20"
 kind = "none"
 +++
 
-**Vavaalrav**
-
 **Sub:** The Steeple's Skull
 
 ### Details

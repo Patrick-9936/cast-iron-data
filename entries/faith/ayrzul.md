@@ -17,8 +17,6 @@ page = "18"
 kind = "none"
 +++
 
-**Ayrzul**
-
 **Sub:** The Fossilized King
 
 ### Details

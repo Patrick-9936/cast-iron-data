@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Titivilus**
-
 **Sub:** The Scrivening Count
 
 ### Details

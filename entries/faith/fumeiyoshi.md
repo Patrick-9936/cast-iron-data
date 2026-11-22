@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Fumeiyoshi**
-
 **Sub:** Lord of Envy
 
 ### Details

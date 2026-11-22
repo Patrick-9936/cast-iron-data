@@ -14,8 +14,6 @@ page = "126"
 kind = "none"
 +++
 
-**Yabu**
-
 **Sub:** Lord of the Kazan Caldera
 
 ### Details

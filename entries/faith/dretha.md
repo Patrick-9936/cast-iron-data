@@ -14,8 +14,6 @@ page = "328"
 kind = "none"
 +++
 
-**Dretha**
-
 **Sub:** The Dark Mother
 
 ### Details

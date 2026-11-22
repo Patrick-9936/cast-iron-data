@@ -17,8 +17,6 @@ page = "34"
 kind = "none"
 +++
 
-**Feronia**
-
 **Sub:** The Fertile Flame
 
 ### Details

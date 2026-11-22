@@ -14,8 +14,6 @@ page = "72"
 kind = "none"
 +++
 
-**Ptah**
-
 **Sub:** Lord of Eternity
 
 ### Details

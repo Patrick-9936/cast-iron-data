@@ -17,8 +17,6 @@ page = "20"
 kind = "none"
 +++
 
-**Pulura**
-
 **Sub:** The Shimmering Maiden
 
 ### Details

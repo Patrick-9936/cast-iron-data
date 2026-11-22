@@ -14,8 +14,6 @@ page = "17"
 kind = "none"
 +++
 
-**Ssila'meshnik**
-
 **Sub:** The Colorless Lord
 
 ### Details

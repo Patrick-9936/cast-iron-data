@@ -14,8 +14,6 @@ page = "130"
 kind = "none"
 +++
 
-**Otikaya**
-
 **Sub:** The Spirit Archer
 
 ### Details

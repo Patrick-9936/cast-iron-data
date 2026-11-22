@@ -14,8 +14,6 @@ page = "72"
 kind = "none"
 +++
 
-**Ah Pook**
-
 **Sub:** The Destroyer
 
 ### Details
