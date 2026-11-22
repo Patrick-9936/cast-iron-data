@@ -15,7 +15,7 @@ kind = "item"
 category = "Wondrous Items"
 price = "6,000 gp"
 weight = "1 lb."
-slot = "shoulder"
+slot = "shoulders"
 aura = "faint conjuration"
 caster_level = "5th"
 +++

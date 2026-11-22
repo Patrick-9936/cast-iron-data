@@ -15,7 +15,7 @@ kind = "item"
 category = "Wondrous Items"
 price = "12,000 gp"
 weight = "1 lb."
-slot = "none (see below)"
+slot = "none"
 aura = "moderate divination"
 caster_level = "8th"
 +++
