@@ -20,25 +20,9 @@ benefit = "Your critical multiplier with your chosen weapon is increased by 1 (t
 special = "You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Improved Critical feat."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your critical strikes with your chosen weapon are deadlier than most._
-
-## Prerequisites {#prerequisites}
-
-_Improved Critical, base attack bonus +8._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Your critical multiplier with your chosen weapon is increased by 1 (to a maximum of ×6).
-:::
-
-## Special {#special}
-
-::: paragraph statline
-You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it
-applies to a different non-mythic Improved Critical feat.
-:::
+Your critical strikes with your chosen weapon are deadlier than most.\
+**Prerequisites:** Improved Critical, base attack bonus +8.\
+**Benefit:** Your critical multiplier with your chosen weapon is increased by 1 (to a maximum of
+×6).\
+**Special:** You can gain this feat multiple times. The effects do not stack. Each time you take
+this feat, it applies to a different non-mythic Improved Critical feat.

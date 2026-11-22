@@ -19,20 +19,8 @@ prerequisites = "Elven Accuracy."
 benefit = "When you make an attack with a longbow or short bow (including composite bows), you can ignore concealment, but not total concealment. You still suffer a miss chance for total concealment, but if you miss due to total concealment, you may reroll your miss chance as per Elven Accuracy."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your elven eyesight cuts though concealment._
-
-## Prerequisites {#prerequisites}
-
-_Elven Accuracy._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When you make an attack with a longbow or short bow (including composite bows), you can ignore
-concealment, but not total concealment. You still suffer a miss chance for total concealment, but if
-you miss due to total concealment, you may reroll your miss chance as per Elven Accuracy.
-:::
+Your elven eyesight cuts though concealment.\
+**Prerequisites:** Elven Accuracy.\
+**Benefit:** When you make an attack with a longbow or short bow (including composite bows), you can
+ignore concealment, but not total concealment. You still suffer a miss chance for total concealment,
+but if you miss due to total concealment, you may reroll your miss chance as per Elven Accuracy.

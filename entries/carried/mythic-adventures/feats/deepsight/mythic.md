@@ -19,18 +19,6 @@ prerequisites = "Deepsight."
 benefit = "The range of your darkvision increases by 10 feet per tier."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your sharp eyes can penetrate deeper into the darkness, revealing more to you._
-
-## Prerequisites {#prerequisites}
-
-_Deepsight._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-The range of your [darkvision](ref/rule/darkvision) increases by 10 feet per tier.
-:::
+Your sharp eyes can penetrate deeper into the darkness, revealing more to you.\
+**Prerequisites:** Deepsight.\
+**Benefit:** The range of your [darkvision](ref/rule/darkvision) increases by 10 feet per tier.

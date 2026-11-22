@@ -19,18 +19,6 @@ prerequisites = "Fast Empathy."
 benefit = "You can use wild empathy as a swift action."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can soothe the emotions of wild beasts with nearly supernatural quickness._
-
-## Prerequisites {#prerequisites}
-
-_Fast Empathy._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You can use wild empathy as a swift action.
-:::
+You can soothe the emotions of wild beasts with nearly supernatural quickness.\
+**Prerequisites:** Fast Empathy.\
+**Benefit:** You can use wild empathy as a swift action.

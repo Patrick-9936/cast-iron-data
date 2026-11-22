@@ -19,19 +19,7 @@ prerequisites = "Far Shot."
 benefit = "As a swift action, you can expend one use of mythic power to ignore all range increment penalties for your ranged attacks until the end of your turn."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You make long-ranged attacks with remarkable accuracy._
-
-## Prerequisites {#prerequisites}
-
-_Far Shot._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-As a swift action, you can expend one use of mythic power to ignore all range increment penalties
-for your ranged attacks until the end of your turn.
-:::
+You make long-ranged attacks with remarkable accuracy.\
+**Prerequisites:** Far Shot.\
+**Benefit:** As a swift action, you can expend one use of mythic power to ignore all range increment
+penalties for your ranged attacks until the end of your turn.

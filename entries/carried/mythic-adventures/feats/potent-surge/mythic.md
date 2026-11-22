@@ -15,14 +15,5 @@ feat_types = ["Mythic"]
 benefit = "Whenever you use your surge ability, add 1 to your surge result."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your surge is more potent._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Whenever you use your surge ability, add 1 to your surge result.
-:::
+Your surge is more potent.\
+**Benefit:** Whenever you use your surge ability, add 1 to your surge result.

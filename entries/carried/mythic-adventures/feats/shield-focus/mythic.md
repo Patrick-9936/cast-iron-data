@@ -19,20 +19,8 @@ prerequisites = "Shield Focus."
 benefit = "Add your shield bonus and your shield's enhancement bonus to your touch AC. As an immediate action, you can expend one use of mythic power to add your shield bonus and your shield's enhancement bonus on a Fortitude or Reflex save just before you roll it."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You're a master of using your shield for protection._
-
-## Prerequisites {#prerequisites}
-
-_Shield Focus._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Add your shield bonus and your shield's enhancement bonus to your touch AC. As an immediate action,
-you can expend one use of mythic power to add your shield bonus and your shield's enhancement bonus
-on a Fortitude or Reflex save just before you roll it.
-:::
+You're a master of using your shield for protection.\
+**Prerequisites:** Shield Focus.\
+**Benefit:** Add your shield bonus and your shield's enhancement bonus to your touch AC. As an
+immediate action, you can expend one use of mythic power to add your shield bonus and your shield's
+enhancement bonus on a Fortitude or Reflex save just before you roll it.

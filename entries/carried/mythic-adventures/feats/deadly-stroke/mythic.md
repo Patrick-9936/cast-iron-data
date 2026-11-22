@@ -19,22 +19,10 @@ prerequisites = "Deadly Stroke."
 benefit = "When making a Deadly Stroke attack, you can expend one use of mythic power to instantly kill a non-mythic living creature. A Fortitude save (DC 10 + your base attack bonus + your tier) negates this effect, though the attack still deals double damage and Con bleed as Deadly Stroke. Constructs, oozes, and creatures immune to critical hits or precision-based damage can't be killed with this feat."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can kill with a single stroke._
-
-## Prerequisites {#prerequisites}
-
-_Deadly Stroke._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When making a Deadly Stroke attack, you can expend one use of mythic power to instantly kill a
-non-mythic living creature. A Fortitude save (DC 10 + your base attack bonus + your tier) negates
-this effect, though the attack still deals double damage and Con bleed as Deadly Stroke. Constructs,
-oozes, and creatures immune to critical hits or precision-based damage can't be killed with this
-feat.
-:::
+You can kill with a single stroke.\
+**Prerequisites:** Deadly Stroke.\
+**Benefit:** When making a Deadly Stroke attack, you can expend one use of mythic power to instantly
+kill a non-mythic living creature. A Fortitude save (DC 10 + your base attack bonus + your tier)
+negates this effect, though the attack still deals double damage and Con bleed as Deadly Stroke.
+Constructs, oozes, and creatures immune to critical hits or precision-based damage can't be killed
+with this feat.

@@ -19,19 +19,7 @@ prerequisites = "Toughness."
 benefit = "Toughness provides you twice as many hit points. In addition, when you're below 0 hit points, you gain DR 10/epic. This DR stacks with any other DR/epic you might possess."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You have legendary resilience and durability._
-
-## Prerequisites {#prerequisites}
-
-_Toughness._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Toughness provides you twice as many hit points. In addition, when you're below 0 hit points, you
-gain DR 10/epic. This DR stacks with any other DR/epic you might possess.
-:::
+You have legendary resilience and durability.\
+**Prerequisites:** Toughness.\
+**Benefit:** Toughness provides you twice as many hit points. In addition, when you're below 0 hit
+points, you gain DR 10/epic. This DR stacks with any other DR/epic you might possess.

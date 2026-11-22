@@ -19,20 +19,8 @@ prerequisites = "Point-Blank Shot."
 benefit = "The bonus on attack and damage rolls granted by Point-Blank Shot increases to +2. As a swift action, you can expend one use of mythic power to gain an additional bonus on these rolls equal to half your tier."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your accuracy with ranged attacks is unmatched at point-blank range._
-
-## Prerequisites {#prerequisites}
-
-_Point-Blank Shot._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-The bonus on attack and damage rolls granted by Point-Blank Shot increases to +2. As a swift action,
-you can expend one use of mythic power to gain an additional bonus on these rolls equal to half your
-tier.
-:::
+Your accuracy with ranged attacks is unmatched at point-blank range.\
+**Prerequisites:** Point-Blank Shot.\
+**Benefit:** The bonus on attack and damage rolls granted by Point-Blank Shot increases to +2. As a
+swift action, you can expend one use of mythic power to gain an additional bonus on these rolls
+equal to half your tier.

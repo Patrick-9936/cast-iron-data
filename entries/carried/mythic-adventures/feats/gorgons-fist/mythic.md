@@ -19,21 +19,9 @@ prerequisites = "Gorgon's Fist."
 benefit = "When you hit a creature while using Gorgon's Fist, if the target fails its Fortitude saving throw, it is dazed for 1 round instead of staggered. You can expend one use of mythic power when you hit with a Gorgon's Fist attack, but before the saving throw is attempted, to increase its DC by half your tier."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your strikes debilitate and disorient your foes._
-
-## Prerequisites {#prerequisites}
-
-_Gorgon's Fist._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When you hit a creature while using Gorgon's Fist, if the target fails its Fortitude saving throw,
-it is dazed for 1 round instead of staggered. You can expend one use of mythic power when you hit
-with a Gorgon's Fist attack, but before the saving throw is attempted, to increase its DC by half
-your tier.
-:::
+Your strikes debilitate and disorient your foes.\
+**Prerequisites:** Gorgon's Fist.\
+**Benefit:** When you hit a creature while using Gorgon's Fist, if the target fails its Fortitude
+saving throw, it is dazed for 1 round instead of staggered. You can expend one use of mythic power
+when you hit with a Gorgon's Fist attack, but before the saving throw is attempted, to increase its
+DC by half your tier.

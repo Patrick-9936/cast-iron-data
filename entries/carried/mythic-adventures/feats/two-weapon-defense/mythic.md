@@ -19,19 +19,7 @@ prerequisites = "Two-Weapon Defense."
 benefit = "When using Two-Weapon Defense, you apply the highest enhancement bonus from your two weapons to the shield bonus granted by that feat."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your graceful flow between attack and defense makes you difficult to hit._
-
-## Prerequisites {#prerequisites}
-
-_Two-Weapon Defense._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When using Two-Weapon Defense, you apply the highest enhancement bonus from your two weapons to the
-shield bonus granted by that feat.
-:::
+Your graceful flow between attack and defense makes you difficult to hit.\
+**Prerequisites:** Two-Weapon Defense.\
+**Benefit:** When using Two-Weapon Defense, you apply the highest enhancement bonus from your two
+weapons to the shield bonus granted by that feat.

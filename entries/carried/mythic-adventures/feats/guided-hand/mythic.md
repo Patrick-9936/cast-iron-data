@@ -19,19 +19,7 @@ prerequisites = "Guided Hand."
 benefit = "When making attacks with your deity's favored weapon, you can add your Wisdom modifier instead of your Strength or Dexterity modifier on damage rolls."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Attacks made with your deity's favored weapon are divinely inspired._
-
-## Prerequisites {#prerequisites}
-
-_Guided Hand._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When making attacks with your deity's favored weapon, you can add your Wisdom modifier instead of
-your Strength or Dexterity modifier on damage rolls.
-:::
+Attacks made with your deity's favored weapon are divinely inspired.\
+**Prerequisites:** Guided Hand.\
+**Benefit:** When making attacks with your deity's favored weapon, you can add your Wisdom modifier
+instead of your Strength or Dexterity modifier on damage rolls.

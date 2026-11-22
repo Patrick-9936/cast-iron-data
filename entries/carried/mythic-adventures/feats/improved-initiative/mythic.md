@@ -19,20 +19,8 @@ prerequisites = "Improved Initiative."
 benefit = "The bonus on initiative checks granted by Improved Initiative increases by an amount equal to your tier. This bonus stacks with the bonus from Improved Initiative. In addition, instead of rolling initiative, you can expend one use of mythic power to treat your roll as a natural 20."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You leap into the fray with speed and confidence._
-
-## Prerequisites {#prerequisites}
-
-_Improved Initiative._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-The bonus on initiative checks granted by Improved Initiative increases by an amount equal to your
-tier. This bonus stacks with the bonus from Improved Initiative. In addition, instead of rolling
-initiative, you can expend one use of mythic power to treat your roll as a natural 20.
-:::
+You leap into the fray with speed and confidence.\
+**Prerequisites:** Improved Initiative.\
+**Benefit:** The bonus on initiative checks granted by Improved Initiative increases by an amount
+equal to your tier. This bonus stacks with the bonus from Improved Initiative. In addition, instead
+of rolling initiative, you can expend one use of mythic power to treat your roll as a natural 20.

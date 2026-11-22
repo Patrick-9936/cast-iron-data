@@ -19,20 +19,8 @@ prerequisites = "Nimble Moves."
 benefit = "For every 2 tiers you possess, you can move through up to 5 feet of difficult terrain each round as if it were normal terrain (minimum 5 feet). This effect stacks with those provided by Nimble Moves and Acrobatic Steps."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You dance across obstacles with ease, as though they weren't even there._
-
-## Prerequisites {#prerequisites}
-
-_Nimble Moves._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-For every 2 tiers you possess, you can move through up to 5 feet of difficult terrain each round as
-if it were normal terrain (minimum 5 feet). This effect stacks with those provided by Nimble Moves
-and Acrobatic Steps.
-:::
+You dance across obstacles with ease, as though they weren't even there.\
+**Prerequisites:** Nimble Moves.\
+**Benefit:** For every 2 tiers you possess, you can move through up to 5 feet of difficult terrain
+each round as if it were normal terrain (minimum 5 feet). This effect stacks with those provided by
+Nimble Moves and Acrobatic Steps.
