@@ -7,8 +7,10 @@ A filter menu or a search facet group shows these two fields, so each has a clos
 corpus on those lists:
 
   * `scripts/affliction-slot-vocabulary-171.tsv` holds each value with its basis and a print
-    citation (book title and page). The lists in `check.rs` must equal it. A `slot` value is one
-    row of the list, or two distinct body slots joined by ` or ` (the `{slot} or {slot}` row);
+    citation (book title and page). The lists in `check.rs` must equal it: `ITEM_BODY_SLOTS` (the
+    rows with the basis `printed slot`), `ITEM_TECH_SLOTS` (the basis `tech slot`) and `ITEM_QUALITY_SLOTS` (the basis `enhancement`). A `slot` value is one row of
+    the list, or two distinct body slots joined by ` or ` (the `{slot} or {slot}` row); a tech
+    slot or an enhancement value never joins a pair;
   * `scripts/affliction-slot-review-171.tsv` holds one row per item whose slot was outside the
     list: the entry, the field, the action, the old value, the new value and the reason with the
     print citation. The actions are `set` (replace the value), `remove` (take the field out: the
@@ -23,9 +25,15 @@ untagged. The survey prints the count per type and the entries left over.
 Item slots. `--write` applies each open `set` and `remove` row. The old value must be the current
 value, so a rerun finds nothing to do. Two guards apply before a row writes:
   * when the new value is the start of the old one (`eye; Price ...` to `eye`, `none (see below)`
-    to `none`), the rest of the old value must be printed in the body, so no text is lost;
+    to `none`), each `;`-part of the rest of the old value must be printed in the body, so no text
+    is lost (the script checks this; it is not a manual check);
   * when the body has a stat block `Slot:` row, the drift check compares it with the field, so the
     new value must equal that row. Otherwise the row cannot be a `set` or `remove`: the body wins.
+
+One body fix is the exception to "a row never changes a body": `BODY_FIXES` splits the stat block
+`Slot:` row of the Figurine of Wondrous Power, which held the price and the weight, into `Slot`,
+`Price` and `Weight` rows, and removes the entry's `tags` value that was the same text. It runs
+before the rows apply, so the drift guard sees the split row.
 
 Survey (default): prints the tag counts, the untagged afflictions, the count per `slot` value,
 every value outside the vocabulary and its review row. Exit status 1 when an affliction has no
@@ -77,7 +85,10 @@ class Vocabulary:
     def __init__(self, rows: list[dict[str, str]]):
         self.afflictions = {r["value"] for r in rows if r["field"] == "affliction_type"}
         self.slots = {r["value"] for r in rows if r["field"] == "slot"}
-        self.qualities = {r["value"] for r in rows if r["field"] == "slot" and r["basis"] == "enhancement"}
+        # Enhancement values and tech slots stand alone: they never form an ` or ` pair.
+        self.standalone = {
+            r["value"] for r in rows if r["field"] == "slot" and r["basis"] in ("enhancement", "tech slot")
+        }
         self.pair_row = any(r["value"] == "{slot} or {slot}" for r in rows if r["field"] == "slot")
         self.slots.discard("{slot} or {slot}")
 
@@ -89,7 +100,7 @@ class Vocabulary:
             self.pair_row
             and len(parts) == 2
             and parts[0] != parts[1]
-            and all(p in self.slots and p not in self.qualities for p in parts)
+            and all(p in self.slots and p not in self.standalone for p in parts)
         )
 
 
@@ -100,6 +111,34 @@ def afflictions(root: Path, vocabulary: Vocabulary):
             continue
         found = TYPE_LINE.search(text[end:])
         yield path, text, data, end, (found.group(1).lower() if found else None)
+
+
+# Body fixes: entry id -> (old stat block row, new rows, old front matter line to drop).
+BODY_FIXES = {
+    "ref/carried/ultimate-combat/rules/mastering-combat/firearms/firearm-magic-items/wondrous-items/figurine-of-wondrous-power": (
+        "Slot: none; price 10,000 gp; weight 1 lb.\n",
+        "Slot: none\nPrice: 10,000 gp\nWeight: 1 lb.\n",
+        'tags = ["none; price 10,000 gp; weight 1 lb."]\n',
+    ),
+}
+
+
+def fix_bodies(root: Path) -> None:
+    changed = 0
+    for path, text, data, end in entries(root):
+        fix = BODY_FIXES.get(data["id"])
+        if fix is None:
+            continue
+        old_row, new_rows, old_tags = fix
+        head, body = text[:end], text[end:]
+        if old_row not in body and old_tags not in head:
+            continue  # fixed already
+        if body.count(old_row) != 1 or head.count(old_tags) != 1:
+            sys.exit(f"{data['id']}: the body fix does not match the entry")
+        path.write_text(head.replace(old_tags, "", 1) + body.replace(old_row, new_rows, 1))
+        changed += 1
+        print(f"{data['id']}: stat block row split, junk tags value removed")
+    print(f"{changed} bodies fixed")
 
 
 def survey_afflictions(root: Path, vocabulary: Vocabulary, review: list[dict[str, str]]) -> int:
@@ -196,8 +235,10 @@ def apply_slots(root: Path, review: list[dict[str, str]]) -> None:
         new = row["new"] if row["action"] == "set" else None
         head, body = text[:end], text[end:]
         rest = row["old"][len(new):] if new is not None and row["old"].startswith(new) else None
-        if rest is not None and normalize(rest.strip(" ;,")) not in normalize(body):
-            sys.exit(f"{row['entry_id']}: the text {rest!r} that leaves the slot is not printed in the body")
+        printed_text = normalize(body).replace(":", "")
+        for part in (rest or "").split(";"):
+            if part.strip(" ,") and normalize(part).replace(":", "") not in printed_text:
+                sys.exit(f"{row['entry_id']}: the text {part!r} that leaves the slot is not printed in the body")
         printed = STATBLOCK_SLOT.search(body)
         if printed and (new is None or normalize(printed.group(1)) != normalize(new)):
             sys.exit(f"{row['entry_id']}: the stat block row `Slot: {printed.group(1)}` would disagree; the body wins, make the row `keep`")
@@ -227,6 +268,7 @@ def main() -> int:
             sys.exit(f"{row['entry_id']}: the new value {row['new']!r} is outside the vocabulary")
     if args.write:
         tag_afflictions(root, vocabulary)
+        fix_bodies(root)
         apply_slots(root, review)
     print("-- affliction types")
     status = survey_afflictions(root, vocabulary, review)
