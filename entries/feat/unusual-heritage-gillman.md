@@ -13,7 +13,6 @@ page = "16"
 
 [fields]
 kind = "feat"
-feat_types = ["Gillman"]
 prerequisites = "Gillman."
 benefit = "As a so-called \"Low Azlanti,\" you have abilities supposedly tied to mysterious ancestors who still watch over you and your ilk. Your divination spells and spell-like abilities manifest at 1 caster level higher. In addition, once per day while fully immersed in water, you can cast augury as a spell-like ability."
 +++

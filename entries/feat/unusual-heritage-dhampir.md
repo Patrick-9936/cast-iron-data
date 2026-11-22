@@ -13,7 +13,6 @@ page = "16"
 
 [fields]
 kind = "feat"
-feat_types = ["Dhampir"]
 prerequisites = "Dhampir."
 benefit = "Your undead progenitor left you with more than a hint of vampiric nature. You gain a natural bite attack that deals 1d4 points of damage. Once per day upon making a successful bite attack, you can choose to deal an additional 1d4 points of bleed damage to the creature struck."
 special = "You can only select this feat at 1st level."

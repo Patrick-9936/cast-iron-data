@@ -13,7 +13,6 @@ page = "156"
 
 [fields]
 kind = "feat"
-feat_types = ["UM"]
 prerequisites = "Bluff 5 ranks, Spellcraft 5 ranks."
 benefit = "If another spellcaster tries to counterspell your casting, she adds +4 to her Spellcraft DC when trying to determine your spell."
 +++

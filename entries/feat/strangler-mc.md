@@ -13,7 +13,6 @@ page = "20"
 
 [fields]
 kind = "feat"
-feat_types = ["MC"]
 prerequisites = "Exotic Weapon Proficiency (lasso), Weapon Focus (lasso)."
 prerequisite_feats = ["ref/feat/exotic-weapon-proficiency", "ref/feat/weapon-focus"]
 benefit = "When you successfully entangle a creature with a lasso and beat the target's CMD by 5 or more, the target cannot speak above a whisper and must succeed at a concentration check (DC = 20 + your CMB + the spell level) to cast a spell with a verbal component, use a command word item, or use any magic requiring speech. Additionally, the DC of an Escape Artist check to slip free of a lasso you are using equals 15 or your CMD, whichever is higher."

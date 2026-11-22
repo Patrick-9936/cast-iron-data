@@ -13,7 +13,6 @@ page = "10"
 
 [fields]
 kind = "feat"
-feat_types = ["Taldor Variant"]
 prerequisites = "Cha 13 or Child of Oppara trait, must be taken at 1st level."
 benefit = "You gain a +2 bonus on all Knowledge (nobility) checks, and Knowledge (nobility) is always a class skill for you. You also gain an additional benefit depending on which family you belong to."
 special = "This is a variant of the Noble Scion feat. If you take this version of the feat, you cannot also take the original version."
