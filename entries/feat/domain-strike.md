@@ -20,8 +20,6 @@ benefit = "When you gain this feat, choose one domain-granted power that you can
 special = "You can take this feat multiple times. Each time you take it, you apply it to a different qualifying domain power."
 +++
 
-## Domain Strike (Combat)
-
 You unleash a domain power upon your enemy as part of your unarmed strike.\
 **Prerequisites:** Domain class feature,
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\

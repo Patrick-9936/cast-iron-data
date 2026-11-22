@@ -27,8 +27,6 @@ normal = "A character without this feat needs a move action to reload a hand or 
 special = "You can gain Rapid Reload multiple times. Each time you take the feat, it applies to a new type of crossbow or a new type of firearm."
 +++
 
-## Rapid Reload (Combat)
-
 Choose a type of crossbow ([hand](ref/eq-weapon/hand-crossbow),
 [light](ref/eq-weapon/light-crossbow), [heavy](ref/eq-weapon/heavy-crossbow)) or a single type of
 one-handed or two-handed firearm that you are proficient with. You can reload such a weapon quickly.\

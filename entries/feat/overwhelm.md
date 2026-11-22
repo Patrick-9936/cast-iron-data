@@ -18,8 +18,6 @@ benefit = "You are considered to be flanking an opponent if at least one ally wh
 normal = "You must be positioned opposite an ally to flank an opponent."
 +++
 
-## Overwhelm (Combat, Teamwork)
-
 You can overwhelm large foes with sheer numbers.\
 **Benefit:** You are considered to be [flanking](ref/rule/flanking) an opponent if at least one ally
 who also has this feat is threatening that opponent and the opponent is at least two size categories

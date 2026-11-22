@@ -20,8 +20,6 @@ benefit = "When fighting animals that are at least one size category larger than
 special = "If you have selected Beast Hunter multiple times, you gain this benefit for all of the terrains you have chosen for those feats."
 +++
 
-## Improved Beast Hunter (Combat)
-
 You are well trained in stalking and hunting the animals of the wild.\
 **Prerequisites:** [Beast Hunter](ref/feat/beast-hunter); base attack bonus +3; Knowledge (nature)
 or Survival 3 ranks.\

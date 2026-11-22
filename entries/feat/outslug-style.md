@@ -23,8 +23,6 @@ benefit = "Choose one weapon from the close fighter weapon group. While using th
 special = "In addition to the chosen weapon, a character with the weapon training (close) or the brawler's close weapon mastery class feature can use Outslug Style with any close weapon."
 +++
 
-## Outslug Style (Combat, Style)
-
 You dart in and out of combat.\
 **Prerequisites:** Int 13; [Combat Expertise](ref/feat/combat-expertise) or brawler's cunning class
 feature; [Weapon Focus](ref/feat/weapon-focus) with the chosen weapon.\

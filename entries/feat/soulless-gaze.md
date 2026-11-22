@@ -17,8 +17,6 @@ feat_types = ["Damnation"]
 benefit = "You can use the Intimidate skill to manipulate and terrify others."
 +++
 
-## Soulless Gaze (Damnation)
-
 Otherworldly dread infuses your gaze.\
 **Benefit:** You can use the [Intimidate](ref/skill/intimidate) skill to manipulate and terrify
 others.

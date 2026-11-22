@@ -19,8 +19,6 @@ benefit = "You gain followers as if you had the Leadership feat, although you ca
 special = "For groups using the kingdom-building rules, you can optionally use the rules for establishing a settlement to complete the goal of this story feat."
 +++
 
-## Dynasty Founder (Story)
-
 You will claim rulership of a city, whether under a larger government or independently.\
 **Prerequisites:** You must have lived in the chosen city for at least 1 year or be the heir of a
 former city leader.\

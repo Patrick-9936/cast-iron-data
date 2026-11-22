@@ -20,8 +20,6 @@ benefit = "When you take this feat, choose a demon lord. When fighting followers
 special = "You can take this feat more than once. Each time you do, you must choose a new demon lord."
 +++
 
-## Demonic Nemesis (Combat)
-
 You are well acquainted with the machinations of a particular demon lord. You're resistant to his
 tricks, and have no fear of his minions.\
 **Prerequisites:** [Demon Hunter](ref/feat/demon-hunter), Knowledge (planes) 6 ranks.\

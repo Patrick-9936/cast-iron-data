@@ -20,8 +20,6 @@ benefit = "You do not provoke an attack of opportunity when performing a reposit
 normal = "You provoke an attack of opportunity when performing a reposition combat maneuver."
 +++
 
-## Improved Reposition (Combat)
-
 You have learned how to force your enemies to move around the battlefield.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise).\
 **Benefit:** You do not provoke an attack of opportunity when performing a

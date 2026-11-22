@@ -20,8 +20,6 @@ benefit = "Choose a type of thrown weapon. You do not provoke attacks of opportu
 normal = "Making a ranged attack provokes attacks of opportunity."
 +++
 
-## Close-Quarters Thrower (Combat)
-
 You are agile enough to avoid melee attacks while throwing weapons or bombs.\
 **Prerequisites:** Dex 13, [Dodge](ref/feat/dodge), [Weapon Focus](ref/feat/weapon-focus) with
 selected thrown weapon.\

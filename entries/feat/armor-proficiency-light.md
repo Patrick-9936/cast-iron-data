@@ -19,8 +19,6 @@ normal = "A character who is wearing armor with which he is not proficient appli
 special = "All characters except adepts, arcanists, commoners, monks, psychics, sorcerers, witches and wizards automatically have Light Armor Proficiency as a bonus feat. They need not select it."
 +++
 
-## Light Armor Proficiency (Combat)
-
 You are skilled at wearing light armor.\
 **Benefit:** When you wear a type of armor with which you are proficient, the armor check penalty
 for that armor applies only to Dexterity- and Strength-based skill checks.\

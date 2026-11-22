@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/improved-reposition
 benefit = "You gain a +2 bonus to AC against charge attacks. If a creature charges you and fails its attack roll, as an immediate action you can attempt a reposition combat maneuver to reposition that foe. If you use a readied action to attack a creature charging you, you can roll to attack and then attempt to reposition that creature as a free action before it resolves its charge attack."
 +++
 
-## Wings of the Androsphinx (Combat)
-
 You can reshape the kinetic energy of foes' charges.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Reposition](ref/feat/improved-reposition), base attack bonus +1 or monk level 1st.\

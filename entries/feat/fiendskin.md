@@ -17,8 +17,6 @@ feat_types = ["Damnation"]
 benefit = "You gain defensive abilities related to your patron's outsider subtype. For example, if your patron is a devil, the abilities listed below tie into the devil subtype. These benefits tie to your patron's subtype, not your specific patron (its abilities might differ from the norm)."
 +++
 
-## Fiendskin (Damnation)
-
 The forces of darkness gird you against the light.\
 **Benefit:** You gain defensive abilities related to your patron's outsider subtype. For example, if
 your patron is a devil, the abilities listed below tie into the devil subtype. These benefits tie to

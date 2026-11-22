@@ -19,8 +19,6 @@ benefit = "Add one effect word from your class's word list to your list of words
 special = "You can only take this feat if you possess levels in a class whose spellcasting relies on a limited list of words known, such as the bard, oracle, or sorcerer. You can take this feat multiple times."
 +++
 
-## Extra Word (Words of Power)
-
 You have uncovered a new word of power.\
 **Prerequisites:** Caster level 1st, ability to cast [wordspells](ref/rule/words-of-power), see
 Special.\

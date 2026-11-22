@@ -19,8 +19,6 @@ benefit = "When you and an ally with this feat have grappled the same creature, 
 normal = "When multiple creatures grapple one target, the creature that first initiates the grapple is the only one that makes a check to damage a grappled opponent, with a +2 bonus for each creature that assists the grapple using the Aid Another action."
 +++
 
-## Brutal Grappler (Combat, Teamwork)
-
 When helping an ally grapple, you can damage the target.\
 **Prerequisites:** [Half-orc](ref/race/half-orc) or [orc](ref/race/orc).\
 **Benefit:** When you and an ally with this feat have grappled the same creature, you may attempt to

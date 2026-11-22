@@ -19,8 +19,6 @@ benefit = "You treat a torch as a light weapon that deals bludgeoning damage equ
 normal = "A torch used in combat is treated as a one-handed improvised weapon that deals bludgeoning damage equal to that of a gauntlet of its size, plus 1 point of fire damage."
 +++
 
-## Firebrand (Combat)
-
 You can make use of a torch as a deadly, mace-like weapon.\
 **Prerequisites:** Worshiper of [Asmodeus](ref/faith/asmodeus)\
 **Benefit:** You treat a [torch](ref/eq-misc/torch) as a light weapon that deals bludgeoning damage

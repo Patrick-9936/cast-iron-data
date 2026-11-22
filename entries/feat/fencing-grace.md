@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/weapon-finesse"]
 benefit = "When wielding a rapier one-handed, you can add your Dexterity modifier instead of your Strength modifier to that weapon's damage. The rapier must be one appropriate for your size. You do not gain this benefit while fighting with two weapons or using flurry of blows, or anytime another hand is otherwise occupied."
 +++
 
-## Fencing Grace (Combat)
-
 Your dashing style and fluid rapier forms allow you to use agility rather than brute force to fell
 your foes.\
 **Prerequisites:** Dex 13, [Weapon Finesse](ref/feat/weapon-finesse).\

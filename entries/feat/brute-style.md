@@ -20,8 +20,6 @@ benefit = "While using this style, you can use your Vicious Stomp feat against a
 normal = "The Vicious Stomp feat only works against an opponent that falls prone adjacent to you."
 +++
 
-## Brute Style (Combat, Style)
-
 Through strength, study, and intense inner reflection, you have become an expert at battering fallen
 opponents.\
 **Prerequisites:** Str 15, Int 13, [Combat Reflexes](ref/feat/combat-reflexes),

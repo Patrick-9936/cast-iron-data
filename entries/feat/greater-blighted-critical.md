@@ -20,8 +20,6 @@ benefit = "Whenever you confirm a critical hit with a touch spell, ranged touch 
 special = "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery."
 +++
 
-## Greater Blighted Critical (Critical)
-
 Your critical hit from a spell or [spell-like ability](ref/umr/spell-like-abilities) afflicts the
 target with a major spellblight.\
 **Prerequisites:** [Blighted Critical](ref/feat/blighted-critical), caster level 12th.\

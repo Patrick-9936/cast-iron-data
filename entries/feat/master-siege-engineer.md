@@ -20,8 +20,6 @@ benefit = "If you are the crew lead on a siege engine, your crew can use move ac
 normal = "Full-round actions are required to load and aim siege engines."
 +++
 
-## Master Siege Engineer (Combat)
-
 You are significantly faster at loading a siege engine, as well as a better shot.\
 **Prerequisites:** [Siege Engineer](ref/feat/siege-engineer), Knowledge (engineering) 10 ranks.\
 **Benefit:** If you are the crew lead on a [siege engine](ref/rule/siege-engines), your crew can use

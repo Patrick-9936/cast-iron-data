@@ -20,8 +20,6 @@ benefit = "You are able to share a space with a hostile creature at least one si
 special = "This feat counts as the Disruptive feat for the purpose of qualifying for other feats that have Disruptive as a prerequisite."
 +++
 
-## Underfoot (BotB) (Combat)
-
 You clamber in and around your enemies' personal space to devastating effect.\
 **Prerequisites:** [Dodge](ref/feat/dodge), swarming racial trait.\
 **Benefit:** You are able to share a space with a hostile creature at least one size category larger

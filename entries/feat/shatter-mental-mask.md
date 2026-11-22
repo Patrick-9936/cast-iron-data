@@ -23,8 +23,6 @@ benefit = "While in a psychic duel, when you create an offensive manifestation t
 special = "If you possess the Third Eye feat, your opponent's mental mask is shattered even on a successful Will saving throw."
 +++
 
-## Shatter Mental Mask (Combat)
-
 You are adept at ripping away an opponent's mental mask, exposing its true visage during a psychic
 duel.\
 **Prerequisites:** [Psychic Sensitivity](ref/feat/psychic-sensitivity) or ability to cast psychic

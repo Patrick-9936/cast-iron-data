@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/point-blank-shot", "ref/feat/stock-striker-style
 benefit = "After you knock a target prone with the pistol-whip deed while using Stock-Striker Style, you can fire one barrel of a loaded firearm you're wielding at the target as a move action; if your firearm has the scatter weapon quality, you can instead make a scattering shot so long as you include the target in the area of effect. For this attack, you take no attack penalty for making a ranged attack against a prone target, and the critical multiplier of your weapon increases by 1 (to a maximum of ×5)."
 +++
 
-## Stock-Striker Takedown (Combat)
-
 Your melee strike leaves your target vulnerable to a merciless finishing shot.\
 **Prerequisites:** [Point-Blank Shot](ref/feat/point-blank-shot),
 [Stock-Striker Style](ref/feat/stock-striker-style),

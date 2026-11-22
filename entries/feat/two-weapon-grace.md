@@ -23,8 +23,6 @@ benefit = "You can gain the benefit of the Fencing Grace, Slashing Grace, or Sta
 normal = "You gain no benefit from the listed feats if you don't have a free hand."
 +++
 
-## Two-Weapon Grace (Combat)
-
 You can fight using agility instead of brute strength, even while fighting with two weapons.\
 **Prerequisites:** Dex 15; [Fencing Grace](ref/feat/fencing-grace),
 [Slashing Grace](ref/feat/slashing-grace), or [Starry Grace](ref/feat/starry-grace);

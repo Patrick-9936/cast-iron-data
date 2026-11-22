@@ -20,8 +20,6 @@ benefit = "When you use Spring Attack, you can select two targets to attack duri
 special = "A monk of at least 14th level can select this feat as a monk bonus feat, but only if he has Spring Attack."
 +++
 
-## Improved Spring Attack (Combat)
-
 You dart through the press of battle like a breeze, assaulting foes as you pass.\
 **Prerequisites:** Dex 15, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility),
 [Nimble Moves](ref/feat/nimble-moves), [Spring Attack](ref/feat/spring-attack), base attack bonus

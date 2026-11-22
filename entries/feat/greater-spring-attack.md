@@ -20,8 +20,6 @@ benefit = "When you use Spring Attack, you can select three targets to attack du
 special = "A monk of at least 18th level can select this feat as a monk bonus feat, but only if he has Improved Spring attack and Spring Attack."
 +++
 
-## Greater Spring Attack (Combat)
-
 You are a scything wind cutting through the battlefield as you topple your foes.\
 **Prerequisites:** Dex 17, [Acrobatic Steps](ref/feat/acrobatic-steps), [Dodge](ref/feat/dodge),
 [Improved Spring Attack](ref/feat/improved-spring-attack), [Mobility](ref/feat/mobility),

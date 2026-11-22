@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/intercept-blow"]
 benefit = "Whenever the animal companion is adjacent to its master and its master is attempts a Reflex save, the animal companion can expend an attack of opportunity as a free action, even if it isn't its turn, to attempt a Reflex save to intervene. When using this ability, the animal companion loses the benefits of evasion (and improved evasion if it has it), but if the animal companion succeeds at its saving throw, its master gains the benefit of the animal companion's evasion (or improved evasion if it has it)."
 +++
 
-## Reflexive Interception (Combat)
-
 The animal can defend its master with lightning speed.\
 **Prerequisites:** [Intercept Blow](ref/feat/intercept-blow), base attack bonus +3,
 [animal companion](ref/sidekick/animal-companion), [evasion](ref/ability/evasion).\

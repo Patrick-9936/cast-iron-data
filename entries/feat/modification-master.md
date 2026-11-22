@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/armor-adept", "ref/feat/creative-armorsmith", "r
 benefit = "You can use Creative Armorsmith or Creative Weaponsmith to add a modification to a weapon or suit of armor that already has a modification. The modification you are adding must be one that you have selected with Armor Adept or Weapon Adept. In addition, others can use armor or weapons with your temporary modifications."
 +++
 
-## Modification Master (Combat)
-
 You can create inconceivable bastardizations of the smith's art.\
 **Prerequisites:** [Creative Armorsmith](ref/feat/creative-armorsmith),
 [Armor Adept](ref/feat/armor-adept), and Craft (armor) 7 ranks, or

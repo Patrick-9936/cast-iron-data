@@ -18,8 +18,6 @@ prerequisites = "Must not be a member of an established family or a member of no
 benefit = "You gain a +2 bonus on Bluff and Knowledge (nobility) checks and these skills are class skills for you."
 +++
 
-## Noble Impostor (Story)
-
 You put on airs and others believe your tales.\
 **Prerequisites:** Must not be a member of an established family or a member of nobility.\
 **Benefit:** You gain a +2 bonus on Bluff and Knowledge (nobility) checks and these skills are class

@@ -18,8 +18,6 @@ prerequisites = "Base attack bonus +6 or fighter level 4th, armor training class
 benefit = "When wearing armor made of one of the materials listed below, you can use the listed ability twice per day (unless otherwise stated)."
 +++
 
-## Armor Material Expertise (Armor Mastery, Combat)
-
 You tap into the potential of your armor's special material.\
 **Prerequisites:** Base attack bonus +6 or fighter level 4th, armor training class feature.\
 **Benefit:** When wearing armor made of one of the materials listed below, you can use the listed

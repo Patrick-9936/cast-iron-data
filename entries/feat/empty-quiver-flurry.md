@@ -20,8 +20,6 @@ benefit = "While using Empty Quiver Style or Stabbing Shot to make melee attacks
 special = "If you have the Rapid Reload feat in addition to this feat, your chosen weapon is a crossbow or firearm, that weapon is unloaded, and you successfully hit a foe in melee with it, you can automatically load it as a free action."
 +++
 
-## Empty Quiver Flurry (Combat)
-
 You can use your ranged weapons to make melee attacks that keep foes at bay as you shoot them.\
 **Prerequisites:** [Empty Quiver Flexibility](ref/feat/empty-quiver-flexibility),
 [Empty Quiver Style](ref/feat/empty-quiver-style), [Rapid Shot](ref/feat/rapid-shot),

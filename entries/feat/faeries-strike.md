@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/nature-magic", "ref/feat/vital-strike"]
 benefit = "When you use Vital Strike (or Improved Vital Strike or Greater Vital Strike), the creature you hit with the attack must succeed at a Will save (DC = 10 + 1/2 your character level + your Wisdom modifier) or be illuminated as if by faerie fire for 1 minute. You can use this benefit a number of times per day equal to your Wisdom modifier (minimum 1)."
 +++
 
-## Faerie's Strike (Combat)
-
 Ephemeral wisps of nature spirits dance about those you strike.\
 **Prerequisites:** [Nature Magic](ref/feat/nature-magic) or the ability to cast druid or ranger
 spells; [Vital Strike](ref/feat/vital-strike), Knowledge (nature) 5 ranks.\

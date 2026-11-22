@@ -20,8 +20,6 @@ benefit = "You take no penalty on your attack roll when attempting to disarm an 
 normal = "Attempting to disarm a foe while unarmed imposes a -4 penalty on the attack."
 +++
 
-## Arming Grab (Combat)
-
 Opponents would be foolish to underestimate you, even if you appear unarmed and helpless. You are
 practiced at turning the tables on armed foes and using their own weapons against them.\
 **Prerequisites:** Int 13, [Catch Off-Guard](ref/feat/catch-off-guard),

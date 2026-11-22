@@ -20,8 +20,6 @@ benefit = "While using Slipslinger Style, as a standard action you can use a sli
 special = "This feat cannot be used with alchemists' bombs."
 +++
 
-## Slipslinger Grenadier (Combat)
-
 You can hurl splash weapons with your sling.\
 **Prerequisites:** [Slipslinger Style](ref/feat/slipslinger-style),
 [Throw Anything](ref/feat/throw-anything), warslinger racial trait.\

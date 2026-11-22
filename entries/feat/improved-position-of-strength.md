@@ -23,8 +23,6 @@ prerequisite_feats = ["ref/feat/multiattack", "ref/feat/position-of-strength", "
 benefit = "As long as you are wielding one or more weapons with which you are proficient, you gain the bonus on Intimidate checks from Position of Strength against creatures that are armed with fewer weapons than you are wielding."
 +++
 
-## Improved Position of Strength (Combat)
-
 You are particularly skilled in pressing your advantage when negotiating with noncombatants.\
 **Prerequisites:** [Position of Strength](ref/feat/position-of-strength);
 [Two-Weapon Fighting](ref/feat/two-weapon-fighting) or [Multiattack](ref/feat/multiattack);

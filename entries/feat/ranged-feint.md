@@ -19,8 +19,6 @@ benefit = "You can feint with a ranged weapon by throwing a thrown weapon or fir
 normal = "You can feint only with a melee weapon, and only against a creature you threaten with that weapon."
 +++
 
-## Ranged Feint (Combat)
-
 You can mislead foes about your aim with ranged attacks.\
 **Prerequisites:** Base attack bonus +2, Bluff 3 ranks.\
 **Benefit:** You can [feint](ref/rule/feint) with a ranged weapon by throwing a thrown weapon or

@@ -20,8 +20,6 @@ benefit = "When you and at least two of your allies are adjacent to an opponent,
 normal = "Aid another is a standard action."
 +++
 
-## Team Up (Combat)
-
 When you are ganging up against an enemy, you can aid an ally with a quick feint.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Gang Up](ref/feat/gang-up), base attack bonus +6.\

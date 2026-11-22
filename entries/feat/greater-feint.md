@@ -20,8 +20,6 @@ benefit = "Whenever you use feint to cause an opponent to lose his Dexterity bon
 normal = "A creature you feint loses its Dexterity bonus against your next attack."
 +++
 
-## Greater Feint (Combat)
-
 You are skilled at making foes overreact to your attacks.\
 **Prerequisites:** [Combat Expertise](ref/feat/combat-expertise),
 [Improved Feint](ref/feat/improved-feint), base attack bonus +6, Int 13.\

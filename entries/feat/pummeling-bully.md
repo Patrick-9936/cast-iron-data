@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-reposition", "ref/feat/improved-trip", 
 benefit = "When you use Pummeling Style to make an entire full attack or flurry of blows against a single target, if you hit with any of your attacks, you can attempt a reposition or trip combat maneuver check as a free action."
 +++
 
-## Pummeling Bully (Combat)
-
 Your punch has the chance to trip or move your target.\
 **Prerequisites:** [Improved Reposition](ref/feat/improved-reposition),
 [Improved Trip](ref/feat/improved-trip),

@@ -18,8 +18,6 @@ prerequisites = "You must have refused an evil creature with at least 15 Hit Dic
 benefit = "When negotiating with evil outsiders, you gain a +2 bonus on Bluff and Diplomacy checks. You gain an amount of spell resistance equal to 5 + your character level against spells and spell-like abilities originating from outsiders with the evil subtype."
 +++
 
-## Otherworldly Influence (Story)
-
 Extradimensional forces vie for your soul, and have offered you riches and power to claim it.\
 **Prerequisites:** You must have refused an evil creature with at least 15 Hit Dice who offered
 gifts or assistance, have refused an evil creature offering to cast a spell of 7th-level or higher

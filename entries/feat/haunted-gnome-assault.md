@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/haunted-gnome"]
 benefit = "You gain one use of your gnome magic that is independent of your gnome magic spell-like abilities. When you wish to cast a gnome magic spell-like ability for which you have no daily uses remaining, you can expend this independent use to do so."
 +++
 
-## Haunted Gnome Assault (Combat)
-
 Discharging your disturbing glamer as you strike a telling blow, you haunt a foe with lingering
 fear.\
 **Prerequisites:** Cha 13, gnome magic racial trait, [Haunted Gnome](ref/feat/haunted-gnome),

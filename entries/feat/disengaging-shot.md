@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/disengaging-feint",
 benefit = "Whenever you use Disengaging Feint or Disengaging Flourish, you can make a single melee attack against one opponent you succeeded at feinting against. That opponent is denied his Dexterity bonus to AC against this attack."
 +++
 
-## Disengaging Shot (Combat)
-
 You make one last attack before beating a hasty retreat.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Disengaging Feint](ref/feat/disengaging-feint), [Dodge](ref/feat/dodge),

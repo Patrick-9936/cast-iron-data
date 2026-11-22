@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise"]
 benefit = "While using Two-Weapon Fighting to make melee attacks, you can forgo your first primary-hand melee attack to make a Bluff check to feint an opponent. If you successfully feint, that opponent is denied his Dexterity bonus to AC until the end of your turn."
 +++
 
-## Improved Two-Weapon Feint (Combat)
-
 Your primary weapon keeps a foe off balance, allowing you to slip your off-hand weapon past his
 defenses.\
 **Prerequisites:** Dex 17, Int 13, [Combat Expertise](ref/feat/combat-expertise), base attack bonus

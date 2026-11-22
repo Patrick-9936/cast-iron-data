@@ -20,8 +20,6 @@ normal = "The use of a spell-like ability normally requires a standard action (a
 special = "This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different one of its spell-like abilities."
 +++
 
-## Quicken Spell-Like Ability (Monster)
-
 This creature can use one of its [spell-like abilities](ref/umr/spell-like-abilities) with next to
 no effort.\
 **Prerequisites:** Spell-like ability at CL 10th or higher.\

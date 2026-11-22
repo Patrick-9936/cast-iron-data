@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/agile-maneuvers", "ref/feat/azata-mischief", "re
 benefit = "While using Azata Style, your base speed increases by 10 feet and you ignore the movement penalties applied by the first 10 feet of difficult terrain you move through in the round."
 +++
 
-## Azata Sprint (Combat)
-
 You move across the battlefield in a blur.\
 **Prerequisites:** [Agile Maneuvers](ref/feat/agile-maneuvers),
 [Azata Mischief](ref/feat/azata-mischief), [Azata Style](ref/feat/azata-style),

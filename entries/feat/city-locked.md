@@ -19,8 +19,6 @@ benefit = "When interacting with NPCs who live in your settlement, you gain a +1
 special = "Your newfound freedom inspires your body and mind. You gain a +1 bonus on Dexterity- and Intelligence-based ability checks and skill checks and on Will saving throws."
 +++
 
-## City-Locked (Story)
-
 Your soul craves travel through wild places, but you are stuck in a sedentary urban life by legal
 matters, honor-bound duties, or other responsibilities.\
 **Prerequisites:** You must permanently dwell in a settlement at least as large as a large town. You

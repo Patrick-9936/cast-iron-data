@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/quick-draw"]
 benefit = "You can spend 1 panache point to draw one or more light or one-handed piercing weapons, whether hidden or not, when you roll initiative, even at the start of a surprise round in which you can't act. Drawing these weapons does not take an action."
 +++
 
-## Lightning Draw (Combat, Panache)
-
 You can draw your weapon with startling speed.\
 **Prerequisites:** [Quick Draw](ref/feat/quick-draw),
 [swashbuckler initiative](ref/swashdeed/swashbuckler-initiative) deed,

@@ -20,8 +20,6 @@ benefit = "You gain a +2 bonus on checks to use Uncivilized Tactics. This bonus 
 normal = "As a standard action, a foe can regain the use of a limb or natural attack incapacitated with Uncivilized Tactics."
 +++
 
-## Greater Uncivilized Tactics (Combat)
-
 Your foes find it difficult to recover from your rough-and-tumble combat style and debilitating
 attacks.\
 **Prerequisites:** Str 13, [Improved Uncivilized Tactics](ref/feat/improved-uncivilized-tactics),

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/weapon-focus", "ref/feat/dazzling-display"]
 benefit = "Any shaken, frightened, or panicked opponent hit by you this round is flat-footed to your attacks until the end of your next turn. This includes any additional attacks you make this round."
 +++
 
-## Shatter Defenses (Combat)
-
 Your skill with your chosen weapon leaves opponents unable to defend themselves if you strike them
 when their defenses are already compromised.\
 **Prerequisites:** [Weapon Focus](ref/feat/weapon-focus),

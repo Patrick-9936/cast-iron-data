@@ -20,8 +20,6 @@ benefit = "Your unarmed strikes deal normal damage underwater, and you don't tak
 normal = "Attacks with bludgeoning weapons (such as unarmed strikes) deal half damage and take a -2 penalty on attack rolls underwater."
 +++
 
-## Barracuda Style (Combat, Style)
-
 You study a combat style consisting of fluid, circular motions suited for moving and fighting
 underwater.\
 **Prerequisites:** Wis 13, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), Acrobatics 3

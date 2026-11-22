@@ -19,8 +19,6 @@ benefit = "You are considered to be proficient with all siege weapons. Also, whe
 normal = "Each siege engine is an exotic weapon."
 +++
 
-## Siege Engineer (Combat)
-
 You are proficient with all siege weaponry.\
 **Prerequisites:** Knowledge (engineering) 5 ranks or Profession (siege engineer) 5 ranks,
 proficiency with one siege engine.\

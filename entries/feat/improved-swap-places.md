@@ -20,8 +20,6 @@ benefit = "When you and your ally use Swap Places, your ally can be up to one si
 normal = "Using Swap Places requires you and your ally to be the same size, and your movement into the ally's square provokes attacks of opportunity."
 +++
 
-## Improved Swap Places (Combat, Teamwork)
-
 When you switch places with your comrade, your sizes don't matter.\
 **Prerequisites:** [Swap Places](ref/feat/swap-places).\
 **Benefit:** When you and your ally use Swap Places, your ally can be up to one size larger or

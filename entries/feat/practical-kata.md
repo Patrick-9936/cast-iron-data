@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-unarmed-strike"]
 benefit = "When you hit with a melee attack against an opponent you have already damaged this round, you can forgo dealing damage to instead regain 1 ki point. This feat can restore only 1 ki point every minute, to a maximum per day of 1 point for every 4 class levels you have."
 +++
 
-## Practical Kata (Combat, Combination)
-
 Your martial meditation extends onto the battlefield.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), ki pool class
 feature.\

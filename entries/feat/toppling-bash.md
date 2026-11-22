@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-shield-bash", "ref/feat/shield-focus", 
 benefit = "As a swift action when you hit a creature with a shield bash, you can attempt a trip combat maneuver against that creature at a -5 penalty. This does not provoke an attack of opportunity, and if your attempt fails by 10 or more, you are not knocked prone."
 +++
 
-## Toppling Bash (Combat, Shield Mastery)
-
 Your shield bash throws your enemies off balance.\
 **Prerequisites:** [Improved Shield Bash](ref/feat/improved-shield-bash),
 [Shield Focus](ref/feat/shield-focus), [Stumbling Bash](ref/feat/stumbling-bash), base attack bonus

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/power-attack"]
 benefit = "When you attack an inanimate, unattended object, you ignore the first 5 points of its hardness. You also receive a +5 bonus on Strength checks to knock down or break open doors."
 +++
 
-## Giant's Smash (Combat)
-
 Obstacles do not concern you.\
 **Prerequisites:** Str 13, [Power Attack](ref/feat/power-attack), giant subtype.\
 **Benefit:** When you attack an inanimate, unattended object, you ignore the first 5 points of its

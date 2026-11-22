@@ -20,8 +20,6 @@ benefit = "While using this style, you gain a +2 bonus on saving throws against 
 normal = "You cannot charge or run through difficult terrain, and you cannot charge through a square that contains an ally. With an unarmed strike, you usually add your Strength bonus on damage rolls."
 +++
 
-## Dragon Style (Combat, Style)
-
 You call upon the spirit of dragonkind, gaining greater resilience, mobility, and fierceness from
 the blessing of these great beings.\
 **Prerequisites:** Str 15, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), Acrobatics 3

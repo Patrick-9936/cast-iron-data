@@ -18,8 +18,6 @@ prerequisites = "Quivering palm class feature, base attack bonus +13."
 benefit = "After successfully using your quivering palm attack on a creature, you can produce one of the following effects instead of killing the creature, as long as you do so within a number of days equal to your monk level."
 +++
 
-## Quivering Palm Versatility (Combat)
-
 You can alter the way you apply a quivering palm's vibrations to an opponent's body to cause extreme
 pain, put it in a coma, or destroy its memories.\
 **Prerequisites:** Quivering palm class feature, base attack bonus +13.\

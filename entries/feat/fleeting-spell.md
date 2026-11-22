@@ -18,8 +18,6 @@ benefit = "A fleeting spell's duration becomes dismissible, if it is not already
 normal = "It is a standard action to dismiss a dismissible spell, and only spells whose Duration entry is marked with a D are dismissible."
 +++
 
-## Fleeting Spell (Metamagic)
-
 Your spells vanish with unusual speed.\
 **Benefit:** A fleeting spell's duration becomes [dismissible](ref/misc/dismissible), if it is not
 already. You can dismiss your own fleeting spell as a swift action. When you dismiss a fleeting

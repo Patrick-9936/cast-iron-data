@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/asura-style"]
 benefit = "When using Asura Style, you gain improved uncanny dodge as a rogue of your character level."
 +++
 
-## Asura Sight (Combat)
-
 Taking inspiration from the many faces of asuras, you have learned to split your focus to avoid
 being caught off guard.\
 **Prerequisites:** [Asura Style](ref/feat/asura-style), base attack bonus +9 or monk level 9th.\

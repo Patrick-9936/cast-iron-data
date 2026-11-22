@@ -19,8 +19,6 @@ benefit = "Choose a weapon group from the fighter's weapon training class abilit
 special = "You can select this feat more than once. Its effects do not stack. Each time you select this feat, it applies to a different weapon group."
 +++
 
-## Defensive Weapon Training (Combat)
-
 You know how to defend yourself against a certain class of weaponry.\
 **Prerequisites:** Int 13, base attack bonus +5.\
 **Benefit:** Choose a [weapon group](ref/ability/weapon-groups) from the fighter's weapon training

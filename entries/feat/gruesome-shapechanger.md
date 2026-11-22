@@ -19,8 +19,6 @@ benefit = "When you change shape, your previous form sloughs off your body in a 
 special = "The gruesome way you change shape is tiring. Once you've used your change shape ability, you must wait 1d4 rounds before you can use it again. If you take this feat, it changes the way your shapechanging ability works; you cannot choose to avoid this feat's effects."
 +++
 
-## Gruesome Shapechanger (Monster)
-
 When you change shape, it is a violent and bloody affair.\
 **Prerequisites:** Shapechanger subtype.\
 **Benefit:** When you change shape, your previous form sloughs off your body in a spray of blood and

@@ -18,8 +18,6 @@ prerequisites = "Caster level 7th."
 benefit = "You can create magic rings. Crafting a ring takes 1 day for each 1,000 gp in its base price. To craft a ring, you must use up raw materials costing half of the base price. See the magic item creation rules for more information."
 +++
 
-## Forge Ring (Item Creation)
-
 You can create magic rings.\
 **Prerequisites:** Caster level 7th.\
 **Benefit:** You can create magic rings. Crafting a ring takes 1 day for each 1,000 gp in its base

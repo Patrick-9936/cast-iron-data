@@ -19,8 +19,6 @@ benefit = "When you are reduced to 0 or fewer hit points, if you remain consciou
 normal = "When using the ferocity ability, you are staggered while you have fewer than 0 hit points and thus can't make a full attack."
 +++
 
-## Unyielding Ferocity (Combat)
-
 When near the brink of death, you fight ferociously until the bitter end.\
 **Prerequisites:** Con 19, ferocity.\
 **Benefit:** When you are reduced to 0 or fewer hit points, if you remain conscious from your

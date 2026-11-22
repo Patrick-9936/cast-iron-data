@@ -22,8 +22,6 @@ benefit = "When you take this feat, choose one of the Houses of Perfection; once
 special = "You can select Perfect Style multiple times. Each time you do so, you must select a different House of Perfection to belong to."
 +++
 
-## Perfect Style (Combat, Style)
-
 You have trained at one of the [Houses of Perfection](ref/rule/aff-monasteries).\
 **Prerequisites:** Wis 13; base attack bonus +5 or monk level 5th.\
 **Benefit:** When you take this feat, choose one of the Houses of Perfection; once this decision has

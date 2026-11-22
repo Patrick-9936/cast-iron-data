@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/shield-proficiency"]
 benefit = "Increase the AC bonus granted by any shield you are using by 1."
 +++
 
-## Shield Focus (Combat)
-
 You are skilled at deflecting blows with your shield.\
 **Prerequisites:** [Shield Proficiency](ref/feat/shield-proficiency), base attack bonus +1.\
 **Benefit:** Increase the AC bonus granted by any shield you are using by 1.

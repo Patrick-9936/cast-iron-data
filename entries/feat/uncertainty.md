@@ -19,8 +19,6 @@ benefit = "As a full-round action, you can diminish the confidence of a creature
 special = "A shaman or witch with this [blood hex](ref/rule/feats-class) can use it as a standard action. Additionally, if a shaman or witch uses this blood hex, the target takes the penalty on Bluff, Diplomacy, and Intimidate checks."
 +++
 
-## Uncertainty (Blood Hex)
-
 When you draw a foe's blood in combat, that creature begins to doubt its skills.\
 **Prerequisites:** Int 13; Bluff, Diplomacy, and Intimidate 5 ranks.\
 **Benefit:** As a full-round action, you can diminish the confidence of a creature you've dealt

@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/lunge", "ref/feat/o
 benefit = "While using Outslug Style, you can move an additional 5 feet when making a 5-foot step."
 +++
 
-## Outslug Sprint (Combat)
-
 You can make quick, defensive movements.\
 **Prerequisites:** Int 13; [Combat Expertise](ref/feat/combat-expertise) or brawler's cunning class
 feature; [Lunge](ref/feat/lunge); [Outslug Style](ref/feat/outslug-style);

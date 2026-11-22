@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise"]
 benefit = "You gain a +4 bonus on combat maneuver checks against enemies denied their Dexterity bonus to AC."
 +++
 
-## Kobold Style (Combat, Style)
-
 You're able to manipulate foes that are caught off guard.\
 **Prerequisites:** [Combat Expertise](ref/feat/combat-expertise), Small size or smaller.\
 **Benefit:** You gain a +4 bonus on combat maneuver checks against enemies denied their Dexterity

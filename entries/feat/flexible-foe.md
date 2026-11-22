@@ -19,8 +19,6 @@ benefit = "Once per day as a swift action, you can change the subtype of the hum
 special = "You can gain this feat multiple times. Each time you take the feat, you can use this ability one additional time per day."
 +++
 
-## Flexible Foe (Combat)
-
 Your expertise aids you against many similar foes.\
 **Prerequisites:** Base attack bonus +5, favored enemy (any humanoid or any outsider),
 [favored enemy](ref/ability/favored-enemy) class feature.\

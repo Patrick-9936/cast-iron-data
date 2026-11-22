@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/demonic-style", "ref/feat/improved-bull-rush", "
 benefit = "While using Demonic Style, when you successfully bull rush an opponent as part of a charge, you gain a +2 bonus on melee weapon damage rolls against that opponent for every 5 feet it was moved by your bull rush. This bonus lasts until the end of your next turn, and it stacks with the damage bonus granted by Demonic Style."
 +++
 
-## Demonic Momentum (Combat)
-
 You slam into foes with devastating force, leaving them vulnerable to your vicious strikes.\
 **Prerequisites:** [Demonic Style](ref/feat/demonic-style),
 [Improved Bull Rush](ref/feat/improved-bull-rush), [Power Attack](ref/feat/power-attack), base

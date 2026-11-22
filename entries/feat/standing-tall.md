@@ -18,8 +18,6 @@ prerequisites = "Be a member of House Fahlspar, or have [The Hunter](ref/rule/in
 benefit = "Once per day as a move action, you gain a +2 bonus on saving throws against mind-affecting effects for 1 minute."
 +++
 
-## Standing Tall (Story)
-
 You can tap into your family's old ways to take on some of the traits of plants.\
 **Prerequisites:** Be a member of House Fahlspar, or have
 [The Hunter](ref/rule/influential-associates-table),

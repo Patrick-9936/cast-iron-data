@@ -16,7 +16,5 @@ feat_types = ["Mythic"]
 benefit = "Whenever you use your surge ability, add 1 to your surge result."
 +++
 
-## Potent Surge (Mythic)
-
 Your surge is more potent.\
 **Benefit:** Whenever you use your surge ability, add 1 to your surge result.

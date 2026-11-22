@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/skyseeker-style", "ref/feat/step-up"]
 benefit = "While using Skyseeker Style, you gain a cumulative +1 bonus on melee damage rolls for every size category your opponent is larger than you."
 +++
 
-## Skyseeker Thrash (Combat)
-
 Your fighting style is enhanced by sheer fortitude in the face of intimidating foes.\
 **Prerequisites:** Con 13, [Skyseeker Style](ref/feat/skyseeker-style), [Step Up](ref/feat/step-up),
 base attack bonus +4.\

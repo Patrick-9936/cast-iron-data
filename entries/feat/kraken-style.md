@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-grapple", "ref/feat/improved-unarmed-st
 benefit = "When you succeed at a grapple check while using this style, your opponent takes an amount of bludgeoning damage equal to your Wisdom modifier in addition to any damage your grapple deals, such as when you choose to harm your opponent as part of a successful check to maintain a grapple. In addition, you gain a +2 bonus on combat maneuver checks to maintain a grapple."
 +++
 
-## Kraken Style (Combat, Style)
-
 You savagely squeeze and twist when grappling.\
 **Prerequisites:** Wis 13, [Improved Grapple](ref/feat/improved-grapple),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), base attack bonus +3 or monk level 3rd.\

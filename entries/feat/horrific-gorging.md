@@ -18,8 +18,6 @@ prerequisites = "Bite attack, Large or larger, swallow whole universal monster a
 benefit = "As a full-round action, you can completely consume a dead, unconscious, paralyzed, or otherwise helpless humanoid creature that you could normally swallow with your swallow whole ability. When you do, you deal bite damage as a critical hit and swallow the humanoid as your swallow whole special ability."
 +++
 
-## Horrific Gorging (Combat)
-
 In the space of a few horrific seconds, you can chew up and gulp down an entire humanoid body.\
 **Prerequisites:** Bite attack, Large or larger, [swallow whole](ref/umr/swallow-whole) universal
 monster ability.\

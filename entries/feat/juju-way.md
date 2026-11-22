@@ -18,8 +18,6 @@ prerequisites = "Knowledge (religion) 3 ranks, human (Mwangi)."
 benefit = "You can cast spells with the range of \"touch\" at a range of 20 feet if the recipient is a willing Mwangi ally who also has this feat."
 +++
 
-## Juju Way (Teamwork)
-
 You can use spirits of the unseen world to carry your spells for you.\
 **Prerequisites:** Knowledge (religion) 3 ranks, [human](ref/race/human) (Mwangi).\
 **Benefit:** You can cast spells with the range of "touch" at a range of 20 feet if the recipient is

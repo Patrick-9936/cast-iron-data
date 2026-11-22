@@ -21,8 +21,6 @@ normal = "Using a ranged weapon while you are threatened provokes attacks of opp
 special = "Starting at 6th level, a ranger with the archery combat style may select Point Blank Master as a combat style feat, but he must have Weapon Focus instead of Weapon Specialization in the selected weapon."
 +++
 
-## Point-Blank Master (Combat)
-
 You are adept at firing ranged weapons in close quarters.\
 **Prerequisites:** [Weapon Specialization](ref/feat/weapon-specialization) with selected ranged
 weapon.\

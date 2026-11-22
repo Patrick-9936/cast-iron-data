@@ -20,8 +20,6 @@ benefit = "You can switch your style as a free action. At the start of combat, p
 normal = "It takes a swift action to begin or switch your styles."
 +++
 
-## Combat Style Master (Combat)
-
 You shift between combat styles, combining them to increased effect.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), two or more style
 feats, base attack bonus +6 or monk level 5th.\

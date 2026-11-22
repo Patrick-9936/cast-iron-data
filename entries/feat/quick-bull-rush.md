@@ -20,8 +20,6 @@ benefit = "On your turn, you can perform a single bull rush combat maneuver in p
 normal = "A bull rush combat maneuver is a standard action."
 +++
 
-## Quick Bull Rush (Combat)
-
 You can barrel into your opponent and follow this with an attack.\
 **Prerequisites:** Str 13, [Improved Bull Rush](ref/feat/improved-bull-rush),
 [Power Attack](ref/feat/power-attack), base attack bonus +6.\

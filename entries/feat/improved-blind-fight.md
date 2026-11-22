@@ -20,8 +20,6 @@ benefit = "Your melee attacks ignore the miss chance for less than total conceal
 special = "The Improved Blind-Fight feat is of no use against a character who is the subject of a blink spell."
 +++
 
-## Improved Blind-Fight (Combat)
-
 Your keen senses guide your hand against hidden foes.\
 **Prerequisites:** Perception 10 ranks, [Blind-Fight](ref/feat/blind-fight).\
 **Benefit:** Your melee attacks ignore the miss chance for less than total

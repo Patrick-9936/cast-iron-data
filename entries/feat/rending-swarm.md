@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/rat-stack"]
 benefit = "You gain a +1 bonus on all melee damage rolls for each allied creature you share a square with that also has this feat."
 +++
 
-## Rending Swarm (Combat, Teamwork)
-
 Together, you and your allies tear through enemies' defenses.\
 **Prerequisites:** Dex 15, [Rat Stack](ref/feat/rat-stack), swarming racial trait.\
 **Benefit:** You gain a +1 bonus on all melee damage rolls for each allied creature you share a

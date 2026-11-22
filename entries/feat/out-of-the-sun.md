@@ -22,8 +22,6 @@ benefit = "When you hit with a melee attack, you can attempt a Bluff check as a 
 special = "If you have the Improved Feint feat, you can feint with Out of the Sun as a swift action after you hit with a melee attack."
 +++
 
-## Out of the Sun (Teamwork)
-
 You and your allies use the sun's glare to your advantage.\
 **Prerequisites:** Bluff 3 ranks, Stealth 3 ranks.\
 **Benefit:** When you hit with a melee attack, you can attempt a [Bluff](ref/skill/bluff) check as a

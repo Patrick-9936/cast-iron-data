@@ -20,8 +20,6 @@ benefit = "As a full-round action, you can move up to your speed and make a sing
 normal = "You cannot move before and after an attack."
 +++
 
-## Spring Attack (Combat)
-
 You can deftly move up to a foe, strike, and withdraw before he can react.\
 **Prerequisites:** Dex 13, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility), base attack bonus
 +4.\

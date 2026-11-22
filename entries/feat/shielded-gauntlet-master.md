@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/shield-gauntlet-style", "ref/feat/shielded-gaunt
 benefit = "While using Shield Gauntlet Style, you no longer lose your shield bonus to AC when you attack with your gauntlet (or spiked gauntlet) or use it to hold a weapon. In addition, you add your gauntlet's enhancement bonus to the shield bonus to AC granted by this feat as if it were a shield enhancement bonus."
 +++
 
-## Shielded Gauntlet Master (Combat)
-
 Your can effectively attack and defend with your gauntlet.\
 **Prerequisites:** [Shielded Gauntlet Attack](ref/feat/shielded-gauntlet-attack),
 [Shield Gauntlet Style](ref/feat/shield-gauntlet-style), proficiency with bucklers and light

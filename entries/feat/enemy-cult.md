@@ -18,8 +18,6 @@ prerequisites = "You must have encountered a cult whose general alignment is opp
 benefit = "Choose an appropriate detect chaos/evil/good/law spell that would aid you in opposing your chosen enemy cult. You can cast this spell twice per day as a spell-like ability with a caster level equal to your character level."
 +++
 
-## Enemy Cult (Story)
-
 You have crossed paths with a cult opposed to everything in which you believe.\
 **Prerequisites:** You must have encountered a cult whose general alignment is opposite to yours on
 at least one axis or who threatened your beliefs or way of life.\

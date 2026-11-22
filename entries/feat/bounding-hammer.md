@@ -19,8 +19,6 @@ benefit = "As a standard action, you may throw a hammer at an opponent within 20
 normal = "A thrown weapon drops in the square where it hit its target."
 +++
 
-## Bounding Hammer (Combat)
-
 You can throw a hammer so it rebounds near you.\
 **Prerequisites:** Proficiency with hammer, base attack bonus +6.\
 **Benefit:** As a standard action, you may throw a hammer at an opponent within 20 feet. If you hit

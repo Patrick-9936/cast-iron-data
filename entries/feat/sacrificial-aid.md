@@ -18,8 +18,6 @@ benefit = "When you attempt to disable a trap, an ally who also has this feat ca
 normal = "You can use the aid another action only if you are able to attempt the skill check in question. The bonus provided is only +2."
 +++
 
-## Sacrificial Aid (Teamwork)
-
 You convince an ally to help you disable a trap, but the ally takes the damage if you fail.\
 **Benefit:** When you attempt to disable a trap, an ally who also has this feat can bolster your
 efforts. The ally rolls 1d20 and adds either her total bonus on Disable Device checks or her

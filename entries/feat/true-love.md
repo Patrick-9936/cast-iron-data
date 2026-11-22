@@ -19,8 +19,6 @@ benefit = "You add 1 to the save DC and caster level of your spells and spell-li
 special = "At the GM's discretion, you can find true love with a person other than the one you designated when you chose this feat. In this case, the love you initially chose was wrong for you, but this became obvious only when you found the one truly meant for you."
 +++
 
-## True Love (Story)
-
 You found love, only to have it denied by the cruelty of fate.\
 **Prerequisites:** You must have found love with a person you can't be with, have a current lover,
 or have the [Current Lover](ref/rule/romantic-relationships),

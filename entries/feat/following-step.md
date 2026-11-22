@@ -20,8 +20,6 @@ benefit = "When using the Step Up feat to follow an adjacent foe, you may move u
 normal = "You can only take a 5-foot step to follow an opponent using Step Up."
 +++
 
-## Following Step (Combat)
-
 You can repeatedly close the distance when foes try to move away, without impeding your normal
 movement.\
 **Prerequisites:** Dex 13, [Step Up](ref/feat/step-up).\

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/point-blank-shot"]
 benefit = "You can shoot or throw ranged weapons at an opponent engaged in melee without taking the standard -4 penalty on your attack roll."
 +++
 
-## Precise Shot (Combat)
-
 You are adept at firing ranged attacks into melee.\
 **Prerequisites:** [Point-Blank Shot](ref/feat/point-blank-shot).\
 **Benefit:** You can shoot or throw ranged weapons at an opponent engaged in melee without taking

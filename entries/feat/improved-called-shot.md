@@ -20,8 +20,6 @@ benefit = "You receive a +2 bonus on attack rolls when making a called shot. Whe
 normal = "You can make one called shot per round as a full-round action."
 +++
 
-## Improved Called Shot (Called Shot)
-
 You are skilled at landing blows right where you want to.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise).\
 **Benefit:** You receive a +2 bonus on attack rolls when making a

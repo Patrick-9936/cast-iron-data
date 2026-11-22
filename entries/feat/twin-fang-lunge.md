@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/quick-draw", "ref/feat/twin-fang-strike", "ref/f
 benefit = "While using Twin Fang Style, you can spend a full-round action to move up to twice your speed and then use Twin Fang Strike as if you were taking the attack action."
 +++
 
-## Twin Fang Lunge (Combat)
-
 You strike with the force of a serpent's lunge.\
 **Prerequisites:** Dex 15; [Quick Draw](ref/feat/quick-draw);
 [Twin Fang Strike](ref/feat/twin-fang-strike); [Twin Fang Style](ref/feat/twin-fang-style);

@@ -18,8 +18,6 @@ prerequisites = "10 Hit Dice, neutral alignment."
 benefit = "You gain a +2 bonus on weapon and spell damage rolls against good and evil creatures. You also gain a +2 bonus on weapon and spell damage rolls against lawful and chaotic creatures. These bonuses stack with each other."
 +++
 
-## Champion of Balance (Alignment)
-
 You are dedicated to perfect balance in the multiverse.\
 **Prerequisites:** 10 Hit Dice, neutral alignment.\
 **Benefit:** You gain a +2 bonus on weapon and spell damage rolls against good and evil creatures.

@@ -20,8 +20,6 @@ benefit = "On your turn, you can perform a single drag combat maneuver in place 
 normal = "A drag combat maneuver is a standard action."
 +++
 
-## Quick Drag (Combat)
-
 You drag your enemy and deliver a punishing blow.\
 **Prerequisites:** Str 13, [Improved Drag](ref/feat/improved-drag),
 [Power Attack](ref/feat/power-attack), base attack bonus +6.\

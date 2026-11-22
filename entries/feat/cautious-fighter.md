@@ -18,8 +18,6 @@ prerequisites = "Halfling."
 benefit = "When fighting defensively or using total defense, your dodge bonus to AC increases by 2."
 +++
 
-## Cautious Fighter (Combat)
-
 You care more about survival than victory.\
 **Prerequisites:** [Halfling](ref/race/halfling).\
 **Benefit:** When [fighting defensively](ref/misc/fighting-defensively) or using

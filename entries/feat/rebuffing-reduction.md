@@ -20,8 +20,6 @@ benefit = "Whenever an opponent that is adjacent to you fails to penetrate your 
 normal = "A bull rush combat maneuver is a standard action."
 +++
 
-## Rebuffing Reduction (Combat)
-
 Your [damage reduction](ref/rule/damage-reduction) can turn the force of blows back on your enemies.\
 **Prerequisites:** Str 13, damage reduction, [Improved Bull Rush](ref/feat/improved-bull-rush),
 [Power Attack](ref/feat/power-attack), base attack bonus +1.\

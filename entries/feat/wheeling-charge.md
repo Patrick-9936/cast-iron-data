@@ -20,8 +20,6 @@ benefit = "When you are mounted and use the charge action, your mount can make o
 normal = "You cannot turn when making a charge."
 +++
 
-## Wheeling Charge (Combat)
-
 Your mount moves with ease across battlefields.\
 **Prerequisites:** [Mounted Combat](ref/feat/mounted-combat), Ride 5 ranks, Lastwall affinity.\
 **Benefit:** When you are mounted and use the [charge](ref/rule/charge) action, your mount can make

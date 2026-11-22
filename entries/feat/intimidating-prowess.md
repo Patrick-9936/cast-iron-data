@@ -18,8 +18,6 @@ benefit = "Add your Strength modifier to Intimidate skill checks in addition to 
 special = "An animal companion can't take both Ferocious Beast and Intimidating Prowess."
 +++
 
-## Intimidating Prowess (Combat)
-
 Your physical might is intimidating to others.\
 **Benefit:** Add your Strength modifier to Intimidate skill checks in addition to your Charisma
 modifier.\

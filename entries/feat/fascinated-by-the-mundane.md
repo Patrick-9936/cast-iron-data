@@ -19,8 +19,6 @@ benefit = "You gain a +2 bonus on Charisma-based ability checks and skill checks
 special = "Your ever-present awe is under your control. Your bonus on Charisma-based skill checks now also applies on your Diplomacy checks. You can increase any morale bonus you receive by 1."
 +++
 
-## Fascinated by the Mundane (Story)
-
 Your perspective of normality is slightly skewed, and you are easily awed by things such as
 commonplace tools or mundane activities. You struggle to find your place in a world that seems
 continually poised to overwhelm your senses.\

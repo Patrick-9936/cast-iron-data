@@ -18,8 +18,6 @@ prerequisites = "Train Plants, Handle Animal 5 ranks, Knowledge (nature) 5 ranks
 prerequisite_feats = ["ref/feat/train-plants"]
 +++
 
-## Grow Plant Creature (Item Creation)
-
 Through careful study and communion with nature, you have learned how to cultivate and raise plant
 creatures.\
 **Prerequisites:** [Train Plants](ref/feat/train-plants), Handle Animal 5 ranks, Knowledge (nature)

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-unarmed-strike", "ref/feat/janni-style"
 benefit = "While using Janni Style, you are always considered to have a running start when jumping. Further, if you jump as part of a charge and make an unarmed strike against the designated opponent, a hit allows you to roll the unarmed strike's damage dice twice and add the results together before adding modifiers (such as from Strength) or extra dice (such as precision-based damage or dice from weapon abilities). The extra damage dice are not multiplied on a successful critical hit."
 +++
 
-## Janni Rush (Combat)
-
 When you leap to the attack, your blows are like bolts from on high.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Janni Style](ref/feat/janni-style), [Janni Tempest](ref/feat/janni-tempest), Acrobatics 8 ranks,

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/crane-style", "ref/feat/crane-wing", "ref/feat/d
 benefit = "You take only a -1 penalty on attack rolls for fighting defensively. Whenever you deflect an opponent's attack using Crane Wing or lose the dodge bonus from Crane Wing because an attack missed you by 4 or less, you can make an attack of opportunity against the attacker after the attack misses."
 +++
 
-## Crane Riposte (Combat)
-
 You use your defensive abilities to make overpowering counterattacks.\
 **Prerequisites:** [Crane Style](ref/feat/crane-style), [Crane Wing](ref/feat/crane-wing),
 [Dodge](ref/feat/dodge), [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), base attack

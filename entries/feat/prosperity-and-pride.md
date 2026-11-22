@@ -18,8 +18,6 @@ prerequisites = "Be a member of House Corcina, or have the Inheritance [major ch
 benefit = "When in a settlement the size of a large city or smaller, you receive a +2 bonus on Appraise checks and Diplomacy checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4."
 +++
 
-## Prosperity and Pride (Story)
-
 Your family has raised cities and mastered trade, and you seek to do the same.\
 **Prerequisites:** Be a member of House Corcina, or have the Inheritance
 [major childhood event](ref/rule/birth-circumstances-and-more) background, Worldshaker (bard)

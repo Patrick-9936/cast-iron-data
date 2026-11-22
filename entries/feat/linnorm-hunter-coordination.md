@@ -20,8 +20,6 @@ benefit = "When you and an ally with this feat are using Linnorm Hunter Style an
 special = "Animal companions with an Intelligence score of 1 or 2 can take this feat."
 +++
 
-## Linnorm Hunter Coordination (Combat, Teamwork)
-
 You are adept at working with your animal companion to strike the same location and deal increased
 damage.\
 **Prerequisites:** Cha 13, Dex 13, [Dodge](ref/feat/dodge),

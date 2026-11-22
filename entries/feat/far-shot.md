@@ -20,8 +20,6 @@ benefit = "You only suffer a -1 penalty per full range increment between you and
 normal = "You suffer a -2 penalty per full range increment between you and your target."
 +++
 
-## Far Shot (Combat)
-
 You are more accurate at longer ranges.\
 **Prerequisites:** [Point-Blank Shot](ref/feat/point-blank-shot).\
 **Benefit:** You only suffer a -1 penalty per full range increment between you and your target when

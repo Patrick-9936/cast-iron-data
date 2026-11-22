@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/improved-dirty-tric
 benefit = "While using the Kitsune Style feat, when a foe provokes an attack of opportunity from you, you can attempt to perform a dirty trick combat maneuver in place of making a melee attack."
 +++
 
-## Kitsune Vengeance (Combat)
-
 You cleverly hide your attacks within your devious antics.\
 **Prerequisites:** Int 13; [Combat Expertise](ref/feat/combat-expertise);
 [Improved Dirty Trick](ref/feat/improved-dirty-trick); [Kitsune Style](ref/feat/kitsune-style);

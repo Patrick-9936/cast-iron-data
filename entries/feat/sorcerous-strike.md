@@ -20,8 +20,6 @@ benefit = "When you gain this feat, you choose one bloodline power that you can 
 special = "You can take this feat multiple times. Each time you take it, you apply it to a different qualifying bloodline power."
 +++
 
-## Sorcerous Strike (Combat)
-
 The power flowing through your veins also flows through your unarmed strike.\
 **Prerequisites:** Sorcerer bloodline class feature,
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\

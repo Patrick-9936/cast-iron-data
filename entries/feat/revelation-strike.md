@@ -20,8 +20,6 @@ benefit = "When you gain this feat, choose one revelation that you can use to af
 special = "You can take this feat multiple times. Each time you take it, you apply it to a different qualifying revelation."
 +++
 
-## Revelation Strike (Combat)
-
 Your unarmed strike brings a revelation down upon your foe.\
 **Prerequisites:** Revelation class feature,
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\

@@ -20,8 +20,6 @@ benefit = "Your melee attacks ignore the miss chance for less than total conceal
 special = "The Greater Blind-Fight feat is of no use against a character who is the subject of a blink spell."
 +++
 
-## Greater Blind-Fight (Combat)
-
 Your enemies cannot hide from you.\
 **Prerequisites:** Perception 15 ranks, [Improved Blind-Fight](ref/feat/improved-blind-fight).\
 **Benefit:** Your melee attacks ignore the miss chance for less than total

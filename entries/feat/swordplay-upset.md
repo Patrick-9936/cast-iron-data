@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/improved-feint", "r
 benefit = "While using Swordplay Style, as an immediate action, you can attempt a feint against an opponent that makes a melee attack against you and misses."
 +++
 
-## Swordplay Upset (Combat)
-
 You catch opponents off guard with your attacks.\
 **Prerequisites:** [Combat Expertise](ref/feat/combat-expertise),
 [Improved Feint](ref/feat/improved-feint), [Swordplay Style](ref/feat/swordplay-style),

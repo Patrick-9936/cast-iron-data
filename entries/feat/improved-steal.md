@@ -20,8 +20,6 @@ benefit = "You do not provoke an attack of opportunity when performing a steal c
 normal = "You provoke an attack of opportunity when performing a steal combat maneuver."
 +++
 
-## Improved Steal (Combat)
-
 You have a knack for snatching items from your opponents.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise).\
 **Benefit:** You do not provoke an attack of opportunity when performing a [steal](ref/rule/steal)

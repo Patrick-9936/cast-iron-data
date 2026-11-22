@@ -23,8 +23,6 @@ prerequisite_feats = ["ref/feat/precise-shot", "ref/feat/throw-anything"]
 benefit = "Whenever you hit a creature with a splash weapon, you may choose to exclude one creature within the weapon's splash area from taking splash damage. If a creature within the splash area also has this feat, it automatically ignores splash damage from your splash weapons on a successful hit."
 +++
 
-## Thuvian Grenadier (Teamwork)
-
 Training with alchemically inclined allies helps you avoid friendly fire.\
 **Prerequisites:** [Precise Shot](ref/feat/precise-shot) or
 [Throw Anything](ref/feat/throw-anything).\

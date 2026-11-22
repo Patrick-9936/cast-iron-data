@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/weapon-finesse", "ref/feat/weapon-focus"]
 benefit = "Choose one kind of light or one-handed slashing weapon (such as the longsword). When wielding your chosen weapon one-handed, you can treat it as a one-handed piercing melee weapon for all feats and class abilities that require such a weapon (such as a swashbuckler's or a duelist's precise strike) and you can add your Dexterity modifier instead of your Strength modifier to that weapon's damage. The weapon must be one appropriate for your size. You do not gain this benefit while fighting with two weapons or using flurry of blows, or any time another hand is otherwise occupied."
 +++
 
-## Slashing Grace (Combat)
-
 You can stab your enemies with your sword or another slashing weapon.\
 **Prerequisites:** Dex 13, [Weapon Finesse](ref/feat/weapon-finesse),
 [Weapon Focus](ref/feat/weapon-focus) with chosen weapon.\

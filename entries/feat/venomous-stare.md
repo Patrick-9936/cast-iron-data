@@ -18,8 +18,6 @@ prerequisites = "Mesmerist level 11th, painful stare class feature."
 benefit = "When you trigger your painful stare, the target immediately becomes envenomed by the following poison:"
 +++
 
-## Venomous Stare (Stare)
-
 Your stare is toxic to your enemies.\
 **Prerequisites:** [Mesmerist](ref/class/mesmerist) level 11th, painful stare class feature.\
 **Benefit:** When you trigger your painful stare, the target immediately becomes envenomed by the

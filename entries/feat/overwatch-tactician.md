@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/overwatch-style", "ref/feat/precise-shot", "ref/
 benefit = "While using Overwatch Style, you can ready two ranged attacks as a standard action, rather than a full-round action."
 +++
 
-## Overwatch Tactician (Combat)
-
 You quickly prepare to react to your enemies' actions.\
 **Prerequisites:** [Overwatch Style](ref/feat/overwatch-style),
 [Precise Shot](ref/feat/precise-shot), [Rapid Shot](ref/feat/rapid-shot),

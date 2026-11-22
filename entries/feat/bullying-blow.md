@@ -19,8 +19,6 @@ benefit = "As a standard action, you may make a melee attack with a -2 penalty o
 normal = "Intimidating an opponent is a standard action."
 +++
 
-## Bullying Blow (Combat)
-
 With a simple hit, you more easily intimidate an opponent.\
 **Prerequisites:** Intimidate 1 rank, [orc](ref/race/orc).\
 **Benefit:** As a standard action, you may make a melee attack with a -2 penalty on the attack roll.

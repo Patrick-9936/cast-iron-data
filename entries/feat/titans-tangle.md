@@ -21,8 +21,6 @@ normal = "You can trip only an opponent who is no more than one size category la
 special = "In addition to the chosen weapon, a character with the weapon training class feature can use Titan's Tangle with any melee weapon from any fighter weapon group that he has selected with weapon training and that has the reach special quality."
 +++
 
-## Titan's Tangle (Combat)
-
 Even creatures much bigger than you can lose their balance when you apply the appropriate leverage.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Trip](ref/feat/improved-trip), [Tangled Limbs](ref/feat/tangled-limbs),

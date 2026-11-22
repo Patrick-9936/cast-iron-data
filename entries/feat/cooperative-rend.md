@@ -19,8 +19,6 @@ benefit = "Whenever you and an ally who has this feat are both threatening the s
 normal = "You must hit with two of your claw attacks to use your rend ability."
 +++
 
-## Cooperative Rend (Combat, Teamwork)
-
 You and an ally each sink a claw into your foe - then all you have to do is pull.\
 **Prerequisites:** [Rend](ref/umr/rend), [troll](ref/monster/troll).\
 **Benefit:** Whenever you and an ally who has this feat are both threatening the same creature, you

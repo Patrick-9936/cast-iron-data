@@ -20,8 +20,6 @@ benefit = "You do not provoke an attack of opportunity when performing a sunder 
 normal = "You provoke an attack of opportunity when performing a sunder combat maneuver."
 +++
 
-## Improved Sunder (Combat)
-
 You are skilled at damaging your foes' weapons and armor.\
 **Prerequisites:** Str 13, [Power Attack](ref/feat/power-attack), base attack bonus +1.\
 **Benefit:** You do not provoke an attack of opportunity when performing a [sunder](ref/rule/sunder)

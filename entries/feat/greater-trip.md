@@ -20,8 +20,6 @@ benefit = "You receive a +2 bonus on checks made to trip a foe. This bonus stack
 normal = "Creatures do not provoke attacks of opportunity from being tripped."
 +++
 
-## Greater Trip (Combat)
-
 You can make free attacks on foes that you knock down.\
 **Prerequisites:** [Combat Expertise](ref/feat/combat-expertise),
 [Improved Trip](ref/feat/improved-trip), base attack bonus +6, Int 13.\

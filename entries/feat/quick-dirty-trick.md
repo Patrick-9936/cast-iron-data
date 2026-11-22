@@ -20,8 +20,6 @@ benefit = "On your turn, you can perform a single dirty trick combat maneuver in
 normal = "A dirty trick combat maneuver is a standard action."
 +++
 
-## Quick Dirty Trick (Combat)
-
 You can perpetrate a dirty trick and deliver an attack before your opponent is the wiser.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Dirty Trick](ref/feat/improved-dirty-trick), base attack bonus +6.\

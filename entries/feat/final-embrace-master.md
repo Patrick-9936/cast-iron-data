@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/final-embrace", "ref/feat/final-embrace-horror"]
 benefit = "Double the number of damage dice for your constrict special attack."
 +++
 
-## Final Embrace Master (Combat)
-
 Few creatures can survive the crushing horror of your Final Embrace.\
 **Prerequisites:** Str 17, Int 3; naga, [serpentfolk](ref/monster/serpentfolk), or creature that has
 the [constrict](ref/umr/constrict) special attack; [Final Embrace](ref/feat/final-embrace);

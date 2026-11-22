@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-unarmed-strike"]
 special = "A monk can substitute his class level for his base attack bonus for this feat's effects."
 +++
 
-## Pinpoint Jab (Combat)
-
 You strikes land exactly where you mean them to.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), and either a ki pool
 or martial flexibility class feature.

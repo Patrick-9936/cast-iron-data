@@ -20,8 +20,6 @@ benefit = "As a full-round action, you can beat your wings to create a blast of 
 special = "While this feat is primarily taken by strix, other creatures with natural wings can also take them at the GM's discretion."
 +++
 
-## Buffeting Wings (Combat)
-
 You can create a gust of wind with your wings.\
 **Prerequisites:** [Hover](ref/feat/hover), [Powerful Wings](ref/feat/powerful-wings).\
 **Benefit:** As a full-round action, you can beat your wings to create a blast of air as the

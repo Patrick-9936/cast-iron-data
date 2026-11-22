@@ -20,8 +20,6 @@ benefit = "You threaten an additional 5 feet with Snap Shot."
 normal = "Making a ranged attack provokes attacks of opportunity."
 +++
 
-## Improved Snap Shot (Combat)
-
 You can take advantage of your opponent's vulnerabilities from a greater distance, and without
 exposing yourself.\
 **Prerequisites:** Dex 15, [Point-Blank Shot](ref/feat/point-blank-shot),

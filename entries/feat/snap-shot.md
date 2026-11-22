@@ -20,8 +20,6 @@ benefit = "While wielding a ranged weapon with which you have Weapon Focus, you 
 normal = "While wielding a ranged weapon, you threaten no squares and can make no attacks of opportunity with that weapon."
 +++
 
-## Snap Shot (Combat)
-
 With a ranged weapon, you can take advantage of any opening in your opponent's defenses.\
 **Prerequisites:** Dex 13, [Point-Blank Shot](ref/feat/point-blank-shot),
 [Rapid Shot](ref/feat/rapid-shot), [Weapon Focus](ref/feat/weapon-focus), base attack bonus +6.\

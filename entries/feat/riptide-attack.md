@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/improved-drag", "ref/feat/improved-trip"]
 benefit = "Whenever you succeed at a trip combat maneuver, you can automatically attempt a drag combat maneuver against your tripped target as a swift action."
 +++
 
-## Riptide Attack (Combat)
-
 You can immediately drag opponents you successfully trip.\
 **Prerequisites:** [Improved Drag](ref/feat/improved-drag), [Improved Trip](ref/feat/improved-trip),
 worshiper of [Gozreh](ref/faith/gozreh).\

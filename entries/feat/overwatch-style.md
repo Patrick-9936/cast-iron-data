@@ -20,8 +20,6 @@ benefit = "While using this style, as a full-round action you can ready two rang
 special = "A character with this feat and the weapon training (bows, crossbows, or firearms) class feature can use Overwatch Style with any bow, crossbow, or firearm, respectively, in addition to the chosen weapon."
 +++
 
-## Overwatch Style (Combat, Style)
-
 You have learned to wait until your ranged attacks have the greatest effect.\
 **Prerequisites:** [Precise Shot](ref/feat/precise-shot), [Rapid Shot](ref/feat/rapid-shot),
 [Weapon Focus](ref/feat/weapon-focus) with the chosen weapon.\

@@ -20,8 +20,6 @@ benefit = "Choose one weapon with which you have the Weapon Focus feat. When you
 special = "You can take this feat multiple times. Each time you take the feat, it applies to a different weapon."
 +++
 
-## Anatomical Savant (Combat)
-
 You know how to perform deadly strikes against even the most nebulous of targets.\
 **Prerequisites:** [Weapon Focus](ref/feat/weapon-focus), base attack bonus +12.\
 **Benefit:** Choose one weapon with which you have the Weapon Focus feat. When you strike an

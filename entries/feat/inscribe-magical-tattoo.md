@@ -18,8 +18,6 @@ prerequisites = "Craft (calligraphy, paintings, or tattoos) 5 ranks, caster leve
 benefit = "You can create magical tattoos, magic items inked directly into the flesh of a willing or helpless creature. Both you and the recipient of the tattoo (if the recipient is not yourself) must be present during the entire tattooing process. Magic tattoos must be placed on a part of the body normally able to hold a magic item slot, but they do not count against or interfere with magic items worn on those slots. A single slot can only hold one magical tattoo (nonmagical tattoos and tattoos acquired from the tattooed sorcerer archetype do not count against this limit). Tattoos may be inscribed on the following slots: belt, body, chest, feet, hands, head, neck, shoulder, ring (up to two), or wrist. They cannot be inscribed on armor, eye, headband, or shield slots."
 +++
 
-## Inscribe Magical Tattoo (Item Creation)
-
 You can craft magical tattoos.\
 **Prerequisites:** Craft (calligraphy, paintings, or tattoos) 5 ranks, caster level 5th\
 **Benefit:** You can create magical tattoos, magic items inked directly into the flesh of a willing

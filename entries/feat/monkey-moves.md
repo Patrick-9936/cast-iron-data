@@ -20,8 +20,6 @@ benefit = "While using Monkey Style, you gain a Wisdom bonus on Climb checks. Yo
 normal = "You climb at one-quarter your speed, and you lose your Dexterity bonus to AC while doing so. A 5-foot step is made using your normal movement modes, and you can take one only if you have not otherwise moved this round."
 +++
 
-## Monkey Moves (Combat)
-
 You scramble around your foes, moving and striking in an erratic fashion.\
 **Prerequisites:** Wis 13, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Monkey Style](ref/feat/monkey-style), Acrobatics 8 ranks, Climb 8 ranks.\

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/dazzling-display", "ref/feat/improved-grapple", 
 benefit = "While you are using Savage Slam, if you succeed at your grapple combat maneuver check to knock the opponent prone, you can spend a swift action to attempt an Intimidate check to demoralize foes within 30 feet who could see your attack."
 +++
 
-## Dramatic Slam (Combat)
-
 Your brutal maneuvers shock any who would dare to stand against you.\
 **Prerequisites:** [Dazzling Display](ref/feat/dazzling-display),
 [Improved Grapple](ref/feat/improved-grapple),

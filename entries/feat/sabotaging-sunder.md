@@ -20,8 +20,6 @@ benefit = "As a standard action, you can sabotage an item worn by a foe with a s
 normal = "A successful sunder attempt deals weapon damage to the sundered item."
 +++
 
-## Sabotaging Sunder (Combat)
-
 Your can quickly sabotage a foe's worn or carried equipment.\
 **Prerequisites:** Str 13, [Improved Sunder](ref/feat/improved-sunder),
 [Power Attack](ref/feat/power-attack), Disable Device 7 ranks.\

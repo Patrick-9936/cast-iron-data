@@ -18,8 +18,6 @@ prerequisites = "Cha 13; base attack bonus +5 or Perform (act, oratory, or sing)
 benefit = "A number of times per day equal to your Charisma bonus, you can let out a battle cry as a swift action. When you do, allies within 30 feet who can hear you gain a +1 morale bonus on attack rolls and a +4 morale bonus on saving throws against fear. This effect lasts for 1 minute."
 +++
 
-## Battle Cry (Combat)
-
 Your shout heartens your allies and encourages them in the fight.\
 **Prerequisites:** Cha 13; base attack bonus +5 or Perform (act, oratory, or sing) 5 ranks.\
 **Benefit:** A number of times per day equal to your Charisma bonus, you can let out a battle cry as

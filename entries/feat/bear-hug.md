@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/beartrap-bite", "ref/feat/weapon-focus"]
 benefit = "You can attempt to initiate a grapple against a foe trapped by your Beartrap Bite feat without provoking attacks of opportunity. You gain a +2 bonus on damage rolls against foes you are grappling."
 +++
 
-## Bear Hug (Combat)
-
 You can crush your foes with your powerful arms.\
 **Prerequisites:** Str 17, [Beartrap Bite](ref/feat/beartrap-bite),
 [Weapon Focus](ref/feat/weapon-focus) (bite), base attack bonus +8, be

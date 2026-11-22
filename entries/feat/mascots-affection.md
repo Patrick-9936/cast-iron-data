@@ -18,8 +18,6 @@ prerequisites = "Must have a familiar with the mascot archetype."
 benefit = "The maximum number of team members your familiar can have increases by two."
 +++
 
-## Mascot's Affection (Familiar)
-
 Your familiar can bond with many creatures.\
 **Prerequisites:** Must have a [familiar](ref/sidekick/familiar) with the
 [mascot](ref/arc-familiar/mascot) archetype.\

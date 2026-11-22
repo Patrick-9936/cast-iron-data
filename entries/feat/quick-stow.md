@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/quick-draw"]
 benefit = "You do not provoke an attack of opportunity when sheathing a weapon, and you can combine a move action to sheathe a weapon with a regular move action. (You can both stow and draw a weapon as part of the same move action in this way.) If you have the Two-Weapon Fighting feat, you can sheathe two light or one-handed weapons in the time it would normally take to sheathe one."
 +++
 
-## Quick Stow (Combat)
-
 You effortlessly stow items and sheathe weapons.\
 **Prerequisites:** [Quick Draw](ref/feat/quick-draw), base attack bonus +1.\
 **Benefit:** You do not provoke an attack of opportunity when sheathing a weapon, and you can

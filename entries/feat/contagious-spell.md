@@ -18,8 +18,6 @@ benefit = "A caster level check to dispel or remove a contagious spell that fail
 special = "A contagious spell can be identified normally as it is being cast with a successful Spellcraft check. Identifying whether a spell is contagious by its effect, however, requires the use of the analyze dweomer spell or a similar effect."
 +++
 
-## Contagious Spell (Metamagic)
-
 Your spells are dangerous to dispel and likely to backfire upon those who try.\
 **Benefit:** A caster level check to [dispel](ref/spell/dispel-magic) or remove a contagious spell
 that fails by 5 or more causes it to spread from the original target to the creature that attempted

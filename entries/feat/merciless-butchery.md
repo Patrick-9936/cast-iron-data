@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/dastardly-finish"]
 benefit = "As a standard action that does not provoke attacks of opportunity, you can attempt a coup de grace against a cowering, helpless, or stunned opponent that you have designated as your studied target."
 +++
 
-## Merciless Butchery (Combat)
-
 Your talent for slaughter lets you dispatch helpless opponents before they can recover.\
 **Prerequisites:** [Dastardly Finish](ref/feat/dastardly-finish),
 [sneak attack](ref/ability/sneak-attack) +5d6, studied target class feature.\

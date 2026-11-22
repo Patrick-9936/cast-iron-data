@@ -20,8 +20,6 @@ benefit = "As a full-round action, you can move up to your speed and make a sing
 normal = "You cannot move before and after an attack with a ranged weapon."
 +++
 
-## Shot on the Run (Combat)
-
 You can move, fire a ranged weapon, and move again before your foes can react.\
 **Prerequisites:** Dex 13, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility),
 [Point-Blank Shot](ref/feat/point-blank-shot), base attack bonus +4.\

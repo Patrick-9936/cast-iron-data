@@ -19,8 +19,6 @@ benefit = "When you select this feat, choose a specific kind of creature, such a
 special = "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a different creature."
 +++
 
-## Dedicated Adversary (Combat)
-
 Your repeated encounters with a particular type of enemy have honed your skills against that foe.\
 **Prerequisites:** No levels in a class that has the [favored enemy](ref/ability/favored-enemy)
 class feature.\

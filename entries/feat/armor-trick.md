@@ -19,8 +19,6 @@ benefit = "You can use any armor tricks related to the chosen armor option if yo
 special = "You can gain Armor Trick multiple times. Each time you take the feat, it applies to a new armor trick option."
 +++
 
-## Armor Trick (Combat)
-
 Choose one armor trick option (light, medium, heavy, or shield). You can perform armor tricks in
 combat when wearing the appropriate armor option.\
 **Prerequisites:** Base attack bonus +1.\

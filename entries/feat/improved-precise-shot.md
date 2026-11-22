@@ -20,8 +20,6 @@ benefit = "Your ranged attacks ignore the AC bonus granted to targets by anythin
 normal = "See the normal rules on the effects of cover and concealment in Combat."
 +++
 
-## Improved Precise Shot (Combat)
-
 Your ranged attacks ignore anything but total concealment and cover.\
 **Prerequisites:** Dex 19, [Precise Shot](ref/feat/precise-shot), base attack bonus +11.\
 **Benefit:** Your ranged attacks ignore the AC bonus granted to targets by anything less than total

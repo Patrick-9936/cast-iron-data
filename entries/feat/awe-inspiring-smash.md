@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/power-attack"]
 benefit = "You can apply your Strength modifier instead of your Charisma modifier to performance combat checks."
 +++
 
-## Awe-Inspiring Smash (Combat, Performance)
-
 Your fury in combat translates into crowd-pleasing displays.\
 **Prerequisites:** Str 15, [Power Attack](ref/feat/power-attack), base attack bonus +3.\
 **Benefit:** You can apply your Strength modifier instead of your Charisma modifier to

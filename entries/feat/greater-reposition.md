@@ -20,8 +20,6 @@ benefit = "You receive a +2 bonus on checks made to reposition a foe. This bonus
 normal = "Creatures moved by reposition do not provoke attacks of opportunity."
 +++
 
-## Greater Reposition (Combat)
-
 When you reposition foes, they are left vulnerable to the attacks of your allies.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Reposition](ref/feat/improved-reposition), base attack bonus +6.\

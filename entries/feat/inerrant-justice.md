@@ -18,8 +18,6 @@ prerequisites = "Must have witnessed or suffered a grave injustice that went unp
 benefit = "Once per day, you can choose to take the maximum possible weapon damage die roll rather than rolling when you hit a foe that is unaware of you or considers you an ally. Bonus dice, including from sneak attack, surprise attack, and Vital Strike, are rolled normally."
 +++
 
-## Inerrant Justice (Story)
-
 You will punish the guilty without letting any innocents be harmed as a result.\
 **Prerequisites:** Must have witnessed or suffered a grave injustice that went unpunished, or have
 the An Eye for an Eye [ranger background](ref/rule/class-background-tables) or the Raiders

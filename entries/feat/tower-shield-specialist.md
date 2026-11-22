@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/shield-focus", "ref/feat/tower-shield-proficienc
 benefit = "You reduce the armor check penalty for tower shields by 3, and if you have the armor training class feature, you modify the armor check penalty and maximum Dexterity bonus of tower shields as if they were armor."
 +++
 
-## Tower Shield Specialist (Combat, Shield Mastery)
-
 You wield tower shields with ease.\
 **Prerequisites:** [Shield Focus](ref/feat/shield-focus),
 [Tower Shield Proficiency](ref/feat/tower-shield-proficiency), base attack bonus +11 or fighter

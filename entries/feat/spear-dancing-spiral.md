@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/spear-dancing-style", "ref/feat/weapon-finesse",
 benefit = "While using Spear Dancing Style, you gain the benefit of Weapon Finesse with the chosen weapon if it is appropriately sized for a creature of your size category. In addition, you can use any feat or ability that functions with a quarterstaff with your chosen weapon."
 +++
 
-## Spear Dancing Spiral (Combat)
-
 You wield spears with poise and grace.\
 **Prerequisites:** Dex 15, [Spear Dancing Style](ref/feat/spear-dancing-style),
 [Weapon Finesse](ref/feat/weapon-finesse), [Weapon Focus](ref/feat/weapon-focus) with the chosen

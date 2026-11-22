@@ -20,8 +20,6 @@ benefit = "Whenever you score a critical hit with a slashing or piercing weapon,
 special = "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery."
 +++
 
-## Bleeding Critical (Combat, Critical)
-
 Your critical hits cause opponents to bleed profusely.\
 **Prerequisites:** [Critical Focus](ref/feat/critical-focus), base attack bonus +11.\
 **Benefit:** Whenever you score a critical hit with a slashing or piercing weapon, your opponent

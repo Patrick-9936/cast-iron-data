@@ -18,8 +18,6 @@ prerequisites = "Mesmerist trick class feature."
 benefit = "Whenever you implant a mesmerist trick in a target's mind, you can spend any number of additional uses of your mesmerist trick ability to transform the trick into a bouncing trick. The maximum number of uses of the mesmerist trick ability that you can spend on a single bouncing trick is equal to your Charisma modifier."
 +++
 
-## Bouncing Trick (Trick)
-
 Your mesmerist trick jumps to a new target after the trick is triggered.\
 **Prerequisites:** Mesmerist trick class feature.\
 **Benefit:** Whenever you implant a mesmerist trick in a target's mind, you can spend any number of

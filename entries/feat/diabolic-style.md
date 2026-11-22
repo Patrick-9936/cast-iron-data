@@ -24,8 +24,6 @@ benefit = "While using this style, you can make an attack of opportunity with an
 special = "A monk of at least 6th level with this feat can select Vital Strike as a monk bonus feat."
 +++
 
-## Diabolic Style (Combat, Style)
-
 You utilize combat as an opportunity to inflict humiliation upon those who provoke your attacks of
 opportunity.\
 **Prerequisites:** [Combat Reflexes](ref/feat/combat-reflexes);

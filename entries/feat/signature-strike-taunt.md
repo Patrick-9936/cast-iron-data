@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/precise-shot", "ref/feat/signature-strike-style"
 benefit = "Creatures that gain the shaken condition as a result of Signature Strike Style also take a -2 penalty to AC for the duration of the shaken condition that feat causes. While the shaken condition persists, you do not provoke attacks of opportunity when performing combat maneuvers against that target."
 +++
 
-## Signature Strike Taunt (Combat)
-
 Your mocking strikes leave your foe deeply embarrassed and infuriated.\
 **Prerequisites:** [Precise Shot](ref/feat/precise-shot),
 [Signature Strike Style](ref/feat/signature-strike-style), [Weapon Focus](ref/feat/weapon-focus),

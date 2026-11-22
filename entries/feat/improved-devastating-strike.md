@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/devastating-strike", "ref/feat/vital-strike"]
 benefit = "Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, you gain a bonus on attack rolls to confirm a critical hit equal to the bonus on damage rolls you gain from Devastating Strike."
 +++
 
-## Improved Devastating Strike (Combat)
-
 The fury and power channeled through your attack is enough to kill a lesser being outright.\
 **Prerequisites:** [Devastating Strike](ref/feat/devastating-strike),
 [Vital Strike](ref/feat/vital-strike), base attack bonus +13.\

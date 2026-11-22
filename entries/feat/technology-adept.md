@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/exotic-weapon-proficiency", "ref/feat/point-blan
 benefit = "When you attack with a technological firearm that consumes charges, the save DC of any effect caused by that firearm increases by 1. If your bonuses from Point-Blank Shot apply, it increases by 2 instead."
 +++
 
-## Technology Adept (Combat)
-
 You utilize high-tech firearms to maximum effect.\
 **Prerequisites:** Dex 13, [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency)
 (firearms), [Point-Blank Shot](ref/feat/point-blank-shot)\

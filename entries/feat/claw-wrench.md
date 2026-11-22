@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-grapple", "ref/feat/improved-unarmed-st
 benefit = "As a standard action, you can attempt a grapple combat maneuver with a -5 penalty against a creature that is currently grappling another creature via its grab special ability. If you succeed, you pry open the creature's grasp, releasing any creatures it had grappled."
 +++
 
-## Claw Wrench (Combat)
-
 You can pry open a mighty beast's grasp or snapping jaws.\
 **Prerequisites:** Dex 13, [Improved Grapple](ref/feat/improved-grapple),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\

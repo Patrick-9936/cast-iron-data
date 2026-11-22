@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/weapon-focus"]
 benefit = "You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a glaive sized for you, even though it isn't a light weapon. When wielding a glaive, you can treat it as a one-handed piercing or slashing melee weapon and as if you were not making attacks with your off-hand for all feats and class abilities that require such a weapon (such as a duelist's or swashbuckler's precise strike)."
 +++
 
-## Bladed Brush (Combat)
-
 You know how to balance a polearm perfectly, striking with artful, yet deadly precision.\
 **Prerequisites:** [Weapon Focus](ref/feat/weapon-focus) (glaive), must be a worshiper of
 [Shelyn](ref/faith/shelyn).\

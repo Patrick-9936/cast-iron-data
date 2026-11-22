@@ -20,8 +20,6 @@ benefit = "When you succeed at a grapple combat maneuver check as part of a flyb
 special = "While this feat is primarily taken by strix, other creatures with natural wings can also take them at the GM's discretion."
 +++
 
-## Snatch and Drop (Combat)
-
 You have mastered the ability to grab foes while you fly by them, carry them into the air, and drop
 them from extreme heights.\
 **Prerequisites:** [Flyby Attack](ref/feat/flyby-attack), [Powerful Wings](ref/feat/powerful-wings).\

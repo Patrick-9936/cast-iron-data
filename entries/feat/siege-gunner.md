@@ -20,8 +20,6 @@ benefit = "You take no size penalty for aiming a direct-fire siege weapon larger
 normal = "Direct-fire weapons impose a -2 attack roll penalty per size category by which the weapon is larger than the creature aiming it. An indirect-fire weapon that misses misdirects fire by 1d4 squares per range increment."
 +++
 
-## Siege Gunner (Combat)
-
 Aiming outsized siege weapons poses little difficulty for you.\
 **Prerequisites:** [Siege Engineer](ref/feat/siege-engineer), Profession (siege engineer) 5 ranks.\
 **Benefit:** You take no size penalty for aiming a direct-fire

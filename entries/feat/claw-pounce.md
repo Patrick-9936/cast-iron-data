@@ -23,8 +23,6 @@ benefit = "When you make a charge, you can make a full attack with your claws."
 normal = "Charging is a special full-round action that limits you to a single attack."
 +++
 
-## Claw Pounce (Combat)
-
 You can charge and make an attack with your paws.\
 **Prerequisites:** Str 13, Dex 15, [Nimble Striker](ref/feat/nimble-striker), base attack bonus +10,
 [catfolk](ref/race/catfolk), cat's claws racial trait or

@@ -20,8 +20,6 @@ benefit = "You can make melee attacks using your loaded sling, using that weapon
 special = "Any feats you have that apply when you use a flail also apply when you use a loaded sling as a melee weapon."
 +++
 
-## Sling Flail (Combat)
-
 You can use your loaded sling to effectively strike at nearby foes.\
 **Prerequisites:** [Weapon Focus](ref/feat/weapon-focus) (sling), base attack bonus +1.\
 **Benefit:** You can make melee attacks using your loaded [sling](ref/eq-weapon/sling), using that

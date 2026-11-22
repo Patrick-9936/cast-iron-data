@@ -20,8 +20,6 @@ benefit = "Once per round, against an opponent from whom you have concealment, y
 normal = "Feinting is a standard action."
 +++
 
-## Moonlight Stalker Feint (Combat)
-
 You strike through the shadows so quickly that your opponent can barely react to your attacks.\
 **Prerequisites:** 13, [Blind-Fight](ref/feat/blind-fight),
 [Combat Expertise](ref/feat/combat-expertise), [Improved Feint](ref/feat/improved-feint),

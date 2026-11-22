@@ -20,8 +20,6 @@ benefit = "Whenever you successfully bull rush an enemy and its movement is stop
 normal = "You can't bull rush a creature into a solid object or barrier."
 +++
 
-## Smashing Impact (Combat)
-
 The force of your assault drives your opponents against, and possibly through, solid barriers.\
 **Prerequisites:** Str 15, [Crushing Impact](ref/feat/crushing-impact),
 [Improved Bull Rush](ref/feat/improved-bull-rush),

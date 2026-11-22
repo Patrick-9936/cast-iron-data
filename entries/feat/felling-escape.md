@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/improved-trip"]
 benefit = "When you break an opponent's grapple with a combat maneuver check or Escape Artist check, you can spend a swift action to make a trip attempt against that opponent."
 +++
 
-## Felling Escape (Combat)
-
 Through the use of fluid contortions and manipulations of leverage, you can throw your opponent to
 the ground after escaping a grapple.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),

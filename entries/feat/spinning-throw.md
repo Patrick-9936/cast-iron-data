@@ -20,8 +20,6 @@ benefit = "On a successful unarmed trip combat maneuver against an opponent your
 special = "Per the Ki Throw feat, a monk can use ki to affect creatures larger than himself with this feat."
 +++
 
-## Spinning Throw (Combat)
-
 You whirl your foe around and then let go.\
 **Prerequisites:** [Combat Expertise](ref/feat/combat-expertise),
 [Improved Bull Rush](ref/feat/improved-bull-rush), [Improved Trip](ref/feat/improved-trip),

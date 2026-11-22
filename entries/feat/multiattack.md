@@ -19,8 +19,6 @@ benefit = "The creature's secondary attacks with natural weapons take only a -2 
 normal = "Without this feat, the creature's secondary attacks with natural weapons take a -5 penalty."
 +++
 
-## Multiattack (Combat, Monster)
-
 This creature is particularly skilled at making attacks with its natural weapons.\
 **Prerequisites:** Three or more natural attacks.\
 **Benefit:** The creature's secondary attacks with natural weapons take only a -2 penalty.\

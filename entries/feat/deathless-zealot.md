@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/deathless-initiate", "ref/feat/deathless-master"
 benefit = "Whenever a creature rolls to confirm a critical hit against you, it must roll twice and take the lowest result."
 +++
 
-## Deathless Zealot (Combat)
-
 Only the most serious wounds can stop you.\
 **Prerequisites:** Str 13, Con 17, [orc](ref/race/orc) or [half-orc](ref/race/half-orc),
 [Deathless Initiate](ref/feat/deathless-initiate), [Deathless Master](ref/feat/deathless-master),

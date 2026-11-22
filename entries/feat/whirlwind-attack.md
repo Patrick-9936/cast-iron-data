@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/dodge", "ref/feat/m
 benefit = "When you use the full-attack action, you can give up your regular attacks and instead make one melee attack at your highest base attack bonus against each opponent within reach. You must make a separate attack roll against each opponent."
 +++
 
-## Whirlwind Attack (Combat)
-
 You can strike out at every foe within reach.\
 **Prerequisites:** Dex 13, Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility), [Spring Attack](ref/feat/spring-attack),

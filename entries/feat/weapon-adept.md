@@ -19,8 +19,6 @@ normal = "A modified weapon is treated as one category more difficult to wield."
 special = "You can gain this feat multiple times, choosing a different weapon modification each time."
 +++
 
-## Weapon Adept (Combat)
-
 You are skilled at using customized weaponry.\
 **Benefit:** Choose a weapon modification (such as [jagged hooks](ref/eq-weaponenh/jagged-hooks)).
 You treat weapons with that modification as being of their normal category (simple, martial, or

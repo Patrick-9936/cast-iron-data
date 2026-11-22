@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/grabbing-drag", "ref/feat/grabbing-style", "ref/
 benefit = "When you are grabbing two opponents while using Grabbing Style, you can use your grapple to move or damage one or both opponents you are grappling, instead of just one."
 +++
 
-## Grabbing Master (Combat)
-
 You can grapple two foes as easily as one.\
 **Prerequisites:** [Grabbing Drag](ref/feat/grabbing-drag),
 [Grabbing Style](ref/feat/grabbing-style), [Improved Grapple](ref/feat/improved-grapple); base

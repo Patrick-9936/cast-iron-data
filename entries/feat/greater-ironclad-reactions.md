@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-reflexes", "ref/feat/ironclad-reactions"]
 benefit = "You can use Ironclad Reactions more than once per round, but not more than once for each act you take that provokes an attack of opportunity. Each 5-foot step you take still counts as expending one use of an attack of opportunity."
 +++
 
-## Greater Ironclad Reactions (Armor Mastery, Combat)
-
 You are able to quickly react to attacks.\
 **Prerequisites:** [Combat Reflexes](ref/feat/combat-reflexes),
 [Ironclad Reactions](ref/feat/ironclad-reactions), base attack bonus +11 or fighter level 8th, armor

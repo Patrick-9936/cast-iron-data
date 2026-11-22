@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/improved-trip"]
 benefit = "If you attempt to trip a foe that is larger than you, you gain a +1 bonus on your CMB check to trip the foe as long as an ally with Topple Foe is flanking the foe with you. If multiple allies with Topple Foe are flanking the foe with you, you gain an additional +2 bonus on your CMD check for each additional ally that's flanking the target. The bonuses granted by this feat stack with those granted by Improved Trip and Greater Trip."
 +++
 
-## Topple Foe (Combat, Teamwork)
-
 You and your allies can work together to trip larger foes.\
 **Prerequisites:** [Combat Expertise](ref/feat/combat-expertise),
 [Improved Trip](ref/feat/improved-trip).\

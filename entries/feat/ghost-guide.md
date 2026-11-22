@@ -18,8 +18,6 @@ prerequisites = "You have encountered a ghost or haunt."
 benefit = "Whenever you communicate with a ghost or haunt, whether while adventuring or through use of spells such as call spirit, speak with haunt, and speak with dead, or seances and talking boards, you gain a +2 bonus on Diplomacy and Sense Motive checks. The GM can also extend this benefit to any intelligent undead creature that has an interest in being laid to rest. If you have more than 10 ranks in either these skills, you instead gain a +4 bonus on the appropriate skill."
 +++
 
-## Ghost Guide (Story)
-
 You have made it your life's work to put the dead to rest.\
 **Prerequisites:** You have encountered a ghost or haunt.\
 **Benefit:** Whenever you communicate with a ghost or haunt, whether while adventuring or through

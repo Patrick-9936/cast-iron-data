@@ -19,8 +19,6 @@ benefit = "Whenever you use two hands to throw a one-handed or two-handed weapon
 normal = "You add your Strength bonus on thrown weapon damage, regardless of available hands. Throwing a two-handed weapon is a full-round action."
 +++
 
-## Two-Handed Thrower (Combat)
-
 You hurl weapons with both hands and with great force, sometimes using a whirling technique to send
 your weapon flying through the air at tremendous speeds.\
 **Prerequisites:** Str 15.\

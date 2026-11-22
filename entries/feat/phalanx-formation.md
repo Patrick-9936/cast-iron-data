@@ -19,8 +19,6 @@ benefit = "When you wield a reach weapon with which you are proficient, allies d
 normal = "Attacking a target that is beyond another creature, even an ally, can result in the target having soft cover from you."
 +++
 
-## Phalanx Formation (Combat)
-
 You are trained to use long weapons in tight formations.\
 **Prerequisites:** Base attack bonus +1.\
 **Benefit:** When you wield a [reach](ref/misc/reach) weapon with which you are proficient, allies

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/dodge", "ref/feat/wind-stance"]
 benefit = "If you take two actions to move or use a withdraw action in a turn, you gain 50% concealment for 1 round."
 +++
 
-## Lightning Stance (Combat)
-
 The speed at which you move makes it nearly impossible for opponents to strike you.\
 **Prerequisites:** Dex 17, [Dodge](ref/feat/dodge), [Wind Stance](ref/feat/wind-stance), base attack
 bonus +11.\

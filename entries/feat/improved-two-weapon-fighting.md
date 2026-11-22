@@ -20,8 +20,6 @@ benefit = "In addition to the standard single extra attack you get with an off-h
 normal = "Without this feat, you can only get a single extra attack with an off-hand weapon."
 +++
 
-## Improved Two-Weapon Fighting (Combat)
-
 You are skilled at fighting with two weapons.\
 **Prerequisites:** Dex 17, [Two-Weapon Fighting](ref/feat/two-weapon-fighting), base attack bonus
 +6.\

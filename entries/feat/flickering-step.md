@@ -19,8 +19,6 @@ benefit = "You can use dimension door as a spell-like ability with a caster leve
 special = "A fighter with this feat treats Dimensional Agility and any feat that lists it as a prerequisite as though they were combat feats when selecting fighter bonus feats."
 +++
 
-## Flickering Step (Conduit)
-
 You can appear and disappear in the blink of an eye.\
 **Prerequisites:** Knowledge (planes) 9 ranks.\
 **Benefit:** You can use [dimension door](ref/spell/dimension-door) as a

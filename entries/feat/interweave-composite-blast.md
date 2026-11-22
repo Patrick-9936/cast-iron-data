@@ -18,8 +18,6 @@ prerequisites = "Kinetic blast class feature."
 benefit = "Whenever you are within 15 feet of another character who has this feat, you can ready an action to activate a simple blast of your choice. When that character unleashes a simple blast, yours is triggered, creating a composite blast for which the two simple blasts meet the prerequisites. The composite blast's caster level is equal to the average of the caster levels of both participants and deals damage as the appropriate composite blast created by a kineticist of that level (for example, if a 10th-level pyrokineticist and a 6th-level hydrokineticist worked together to create a steam blast, its base damage would be 4d6+4 points of fire damage and 4d6+4 points of bludgeoning damage)."
 +++
 
-## Interweave Composite Blast (Combat, Teamwork)
-
 You can combine your blasts with those of another kineticist.\
 **Prerequisites:** Kinetic blast class feature.\
 **Benefit:** Whenever you are within 15 feet of another character who has this feat, you can

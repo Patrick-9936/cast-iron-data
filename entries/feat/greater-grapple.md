@@ -20,8 +20,6 @@ benefit = "You receive a +2 bonus on checks made to grapple a foe. This bonus st
 normal = "Maintaining a grapple is a standard action."
 +++
 
-## Greater Grapple (Combat)
-
 Maintaining a grapple is second nature to you.\
 **Prerequisites:** [Improved Grapple](ref/feat/improved-grapple),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), base attack bonus +6, Dex 13.\

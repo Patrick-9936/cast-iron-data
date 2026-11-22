@@ -18,8 +18,6 @@ prerequisites = "You witnessed at least one family member or a close friend bein
 benefit = "You gain a +2 bonus on saving throws against spells or effects originating from demon worshipers and from creatures of the demon type."
 +++
 
-## Vengeful Banisher (Story)
-
 You've witnessed demons and their madness firsthand, likely in one of the lands detailed in this
 section, or perhaps some other demon-marked region such as the Worldwound or the Abyss. Since then,
 You've sworn to send these wretched fiends back to whence they came, and You've become an expert at

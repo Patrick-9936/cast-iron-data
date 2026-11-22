@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/fey-obedience"]
 benefit = "You claim ownership of that which you strike. If you have dealt hit point damage to a creature this round, that creature takes a -2 penalty on combat maneuver checks and to its CMD until the beginning of your next round."
 +++
 
-## Marcher-Lord of the Cerulean Abyss (Gathlain Court Title)
-
 You've made your case to become one of [Ragadahn's](ref/faith/ragadahn) nobles in the traditional
 way-by carving your sigil and the Water Lord's ouroboros in the flesh of a living dragon or of
 another massive monstrosity - and earned some of his might as a reward.\

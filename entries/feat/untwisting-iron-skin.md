@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/perfect-style", "ref/feat/toughness", "ref/feat/
 benefit = "When using Perfect Style, you gain an amount of DR/adamantine equal to 1/3 your character level (maximum 6). Additionally, whenever you break an item with a hardness of 10 or more, you gain DR 1/- for a number of rounds equal to half the item's hit points (maximum 10 rounds); the value of this damage reduction increases by 1 for every 5 points of hardness above 10 the broken item had. You can spend 1 ki point as a swift action to double either of the damage reduction values granted by this feat for 1 round."
 +++
 
-## Untwisting Iron Skin (Combat)
-
 Your training has tempered your flesh to resist blows as though it were forged iron.\
 **Prerequisites:** Str 15; Wis 13; [Perfect Style](ref/feat/perfect-style);
 [Toughness](ref/feat/toughness); [Untwisting Iron Strength](ref/feat/untwisting-iron-strength); base

@@ -20,8 +20,6 @@ benefit = "When you successfully use the aid another action to improve the next 
 special = "If both you and your ally also have the Harrying Partners teamwork feat, all of your ally's attacks made before your next turn ignore the opponent's Armor Class bonus from a shield."
 +++
 
-## Open Up (Combat, Teamwork)
-
 You pull an opponent's shield, opening your foe up to an unobstructed attack by an ally.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise).\
 **Benefit:** When you successfully use the aid another action to improve the next attack roll

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-grapple", "ref/feat/improved-unarmed-st
 benefit = "While you're using the Tatzlwyrm Style feat, whenever an opponent attempts to initiate a grapple against you, you can attempt an Escape Artist check. If the result is higher than your CMD, you can use the result as your CMD against that combat maneuver. You must be aware of the attack and not flat-footed."
 +++
 
-## Tatzlwyrm Grappler (Combat)
-
 You can twist and bend in a way that makes you extremely difficult to grab.\
 **Prerequisites:** Dex 13, [Improved Grapple](ref/feat/improved-grapple),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),

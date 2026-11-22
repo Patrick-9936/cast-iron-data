@@ -19,8 +19,6 @@ benefit = "As a swift action, you can imbue your weapons with elemental energy. 
 special = "You can use this feat instead of Arcane Strike to qualify for or attack with the Deadly Dealer feat."
 +++
 
-## Elemental Strike (Combat)
-
 You draw upon your extraplanar heritage to imbue your weapons with elemental energies.\
 **Prerequisites:** [Ifrit](ref/race/ifrit), [oread](ref/race/oread), [sylph](ref/race/sylph), or
 [undine](ref/race/undine).\

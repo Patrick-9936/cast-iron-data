@@ -20,8 +20,6 @@ benefit = "On a successful unarmed trip attack against a target your size or sma
 special = "A monk may gain Ki Throw as a bonus feat at 10th level. A monk with this feat can affect creatures larger than his own size by spending 1 ki point per size category difference."
 +++
 
-## Ki Throw (Combat)
-
 Your physical control and mastery of momentum allows you to throw enemies.\
 **Prerequisites:** [Improved Trip](ref/feat/improved-trip),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\

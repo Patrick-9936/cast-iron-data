@@ -19,8 +19,6 @@ benefit = "Choose one weapon style (a style feat that lists Weapon Focus as a pr
 normal = "You can have only one style active at once."
 +++
 
-## Weapon Style Mastery (Style, Weapon Mastery)
-
 You can combine multiple fighting styles together.\
 **Prerequisites:** Any two style feats from different styles, base attack bonus +6, weapon training
 class feature with a melee weapon.\

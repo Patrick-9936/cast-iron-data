@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/gnome-weapon-focus"
 benefit = "While using Illusive Gnome Style, when you successfully use Bluff to feint against an opponent, you can pick one special weapon feature from among those listed by Illusive Gnome Surprise and deny the opponent its Dexterity modifier to AC, as normal for feinting; alternatively, you can pick two special weapon features instead of one."
 +++
 
-## Illusive Gnome Bewilderment (Combat)
-
 You can use your gnome weapons in unusual ways.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Gnome Weapon Focus](ref/feat/gnome-weapon-focus),

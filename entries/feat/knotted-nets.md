@@ -20,8 +20,6 @@ benefit = "If you ready an attack with a net to entangle a creature when an ally
 normal = "A net is useful against only creatures within one size category of you."
 +++
 
-## Knotted Nets (Combat, Teamwork)
-
 You are capable of entangling far greater prey with the help of your allies.\
 **Prerequisites:** [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency) (net), base
 attack bonus +1.\

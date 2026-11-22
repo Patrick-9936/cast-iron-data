@@ -20,8 +20,6 @@ benefit = "The armor check penalty of the selected armor decreases by 1 (to a mi
 special = "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of armor."
 +++
 
-## Improved Armor Focus (Combat)
-
 Your mastery makes the most of your armor.\
 **Prerequisites:** [Armor Focus](ref/feat/armor-focus), base attack bonus +6, proficiency with
 selected armor.\

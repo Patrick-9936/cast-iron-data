@@ -26,8 +26,6 @@ benefit = "When either you or an ally with this feat is adjacent to and flanking
 normal = "You must be positioned opposite an ally to flank an opponent."
 +++
 
-## Tribal Hunter (Combat, Teamwork)
-
 From watching pack animals hunt, you learned to take down large prey as part of a group.\
 **Prerequisites:** [Animal Affinity](ref/feat/animal-affinity).\
 **Benefit:** When either you or an ally with this feat is adjacent to and

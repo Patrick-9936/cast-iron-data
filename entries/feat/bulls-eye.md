@@ -20,8 +20,6 @@ benefit = "As a standard action, you can curse a creature you've dealt damage to
 special = "A shaman or witch with this [blood hex](ref/rule/feats-class) can use it against a target she has damaged with any ranged attack since her last turn, and applies its benefits to any ranged attack she makes against an affected creature."
 +++
 
-## Bull's Eye (Blood Hex)
-
 Your ranged attacks unerringly seek those you have cursed.\
 **Prerequisites:** Dex 13, Int 13, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility),
 [Shot on the Run](ref/feat/shot-on-the-run), base attack bonus +4, Use Magic Device 1 rank.\

@@ -18,8 +18,6 @@ prerequisites = "You must have stolen at least 1,000 gp worth of treasure withou
 benefit = "Once per day when you attempt a Disable Device check to open a lock or Sleight of Hand check to pick a pocket, you can roll twice and take the better result."
 +++
 
-## Thief of Legend (Story)
-
 More than just a burglar, you aspire to commit crimes of legendary stature.\
 **Prerequisites:** You must have stolen at least 1,000 gp worth of treasure without being caught and
 kept mementos of these thefts worth at least 500 gp, or have the Greed

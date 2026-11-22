@@ -19,8 +19,6 @@ benefit = "You can choose to ready an attack as a full-round action instead of a
 normal = "Readying an attack is a standard action and doesn't grant a bonus on your attack roll."
 +++
 
-## Patient Strike (Combat)
-
 Your training under the [Master of Swords](ref/rule/aff-scholars) has taught you that a well-timed
 strike is worth waiting for and that patience will serve you well in the long run.\
 **Prerequisites:** Int 13.\

@@ -19,8 +19,6 @@ benefit = "You gain the constrict and grab special attacks. Your constrict attac
 normal = "You can grab and constrict creatures one size smaller than you."
 +++
 
-## Final Embrace (Combat)
-
 Your coils are particularly deadly, allowing you to constrict opponents of your size or smaller.\
 **Prerequisites:** Str 13, Int 3; naga, [serpentfolk](ref/monster/serpentfolk), or creature that has
 the [constrict](ref/umr/constrict) special attack as a racial ability; base attack bonus +3.\

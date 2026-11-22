@@ -21,8 +21,6 @@ normal = "You must perform a disarm combat maneuver to disarm an opponent."
 special = "You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll."
 +++
 
-## Disarming Strike (Combat)
-
 Your critical hits can disarm your foes.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Disarm](ref/feat/improved-disarm), base attack bonus +9.\

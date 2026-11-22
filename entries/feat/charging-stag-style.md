@@ -20,8 +20,6 @@ benefit = "When using this style and not mounted, you can charge through difficu
 normal = "You can't charge through allies' spaces or difficult terrain."
 +++
 
-## Charging Stag Style (Combat, Style)
-
 This style originated among shamanic monks who spent their lives in the wild, allowing them to
 quickly subdue both game and poachers using the element of surprise. Practitioners of Charging Stag
 Style can charge fluidly around trees, taking enemies by surprise in the wilderness.\

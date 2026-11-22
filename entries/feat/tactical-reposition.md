@@ -20,8 +20,6 @@ benefit = "When making a reposition combat maneuver, you can move an enemy into 
 normal = "You cannot reposition a foe into an intrinsically dangerous space such as a pit or *blade barrier."
 +++
 
-## Tactical Reposition (Combat)
-
 You excel at moving foes right where you want them.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Reposition](ref/feat/improved-reposition).\

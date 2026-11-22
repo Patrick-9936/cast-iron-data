@@ -19,8 +19,6 @@ benefit = "Your mother was part of a powerful hag coven, and it shows when you a
 special = "This version of Unusual Heritage is a teamwork feat."
 +++
 
-## Unusual Heritage (Changeling) (Teamwork)
-
 Your heritage is strange or difficult to trace, and people fear your otherworldly powers.\
 **Prerequisites:** [Changeling](ref/race/changeling).\
 **Benefit:** Your mother was part of a powerful hag coven, and it shows when you are near your kin.

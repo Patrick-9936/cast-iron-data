@@ -20,8 +20,6 @@ benefit = "You gain a +4 bonus to CMD against trip combat maneuvers and on Acrob
 normal = "You can take a 5-foot step only if you have not otherwise moved this round."
 +++
 
-## Snake Sidewind (Combat)
-
 Your sensitive twisting movements make you difficult to anticipate combat.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Snake Style](ref/feat/snake-style), Acrobatics 3 ranks, Sense Motive 6 ranks.\

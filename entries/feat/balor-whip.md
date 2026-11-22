@@ -20,8 +20,6 @@ benefit = "When you perform a drag combat maneuver with your whip, you can choos
 special = "Balor Whip counts as Improved Drag for the purpose of qualifying for Quick Drag."
 +++
 
-## Balor Whip (Combat)
-
 You can drag distant foes toward you with your whip.\
 **Prerequisites:** [Weapon Focus](ref/feat/weapon-focus) (whip),
 [Whip Mastery](ref/feat/whip-mastery), base attack bonus +8.\

@@ -20,8 +20,6 @@ benefit = "When an ally with this feat uses Linnorm Hunter Style and hits a targ
 special = "Animal companions with an Intelligence score of 1 or 2 can take this feat."
 +++
 
-## Linnorm Hunter Retreat (Combat, Teamwork)
-
 You and your animal companion have learned to cover each other in combat.\
 **Prerequisites:** Cha 13, Dex 13, [Dodge](ref/feat/dodge),
 [Linnorm Hunter Style](ref/feat/linnorm-hunter-style), base attack bonus +4, must have or be an

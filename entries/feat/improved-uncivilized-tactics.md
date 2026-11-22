@@ -20,8 +20,6 @@ benefit = "You don't provoke an attack of opportunity when attempting a combat m
 normal = "You provoke an attack of opportunity when using the Uncivilized Tactics feat."
 +++
 
-## Improved Uncivilized Tactics (Combat)
-
 You are skilled at twisting your foe's limbs out of joint.\
 **Prerequisites:** Str 13, [Power Attack](ref/feat/power-attack),
 [Uncivilized Tactics](ref/feat/uncivilized-tactics).\

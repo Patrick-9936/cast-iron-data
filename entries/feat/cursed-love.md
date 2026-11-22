@@ -18,8 +18,6 @@ prerequisites = "You must have a romantic interest who has fallen to some dark i
 benefit = "You are well versed in a dark society's way of thinking and in weathering abuse. Select a form of corruption that your lover fell to or willingly embraced: evil divine casters, evil arcane casters, undead creatures, or humanoid creatures with the shapeshifter subtype. You gain a +2 bonus on Diplomacy and Sense Motive checks when dealing with such creatures, and a +2 bonus on saving throws to resist any effects that would spread their corruption to you (such as a vampire's create spawn ability or a werewolf's curse of lycanthropy). Once per day, when you would normally be reduced below 0 hit points by an attack from such a creature, you instead immediately gain a number of temporary hit points equal to half your character level."
 +++
 
-## Cursed Love (Story)
-
 Your love forces you to endure the harshest of endeavors, despite the fact that most people would
 view your romance as madness.\
 **Prerequisites:** You must have a romantic interest who has fallen to some dark influence and

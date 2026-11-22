@@ -20,8 +20,6 @@ benefit = "When you activate hunter's bond, you can select a number of targets e
 normal = "You select one target against which your allies receive your favored enemy bonus."
 +++
 
-## Greater Hunter's Bond (Combat)
-
 Your allies can target additional foes.\
 **Prerequisites:** [Improved Hunter's Bond](ref/feat/improved-hunters-bond), hunter's bond (hunting
 companions) class feature, [ranger](ref/class/ranger) level 12th.\

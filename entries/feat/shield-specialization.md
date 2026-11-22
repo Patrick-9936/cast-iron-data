@@ -20,8 +20,6 @@ benefit = "Choose one type of shield (buckler, light, heavy, or tower shield). W
 special = "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of shield."
 +++
 
-## Shield Specialization (Combat)
-
 You have mastered the use of one type of shield.\
 **Prerequisites:** Proficiency with selected shield, [Shield Focus](ref/feat/shield-focus), fighter
 level 4th.\

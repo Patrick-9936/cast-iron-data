@@ -21,8 +21,6 @@ benefit = "You can use any weapon tricks relating to the chosen weapon option if
 special = "You can gain Weapon Trick multiple times. Each time you take the feat, it applies to a new weapon trick option. (These are listed as separate feats for reading convenience.)"
 +++
 
-## Weapon Trick (Ranged Weapon) (Combat)
-
 Choose one weapon trick option (one-handed weapon, polearm, ranged, two-handed weapon, two-weapon,
 or weapon and shield). You can perform weapon tricks in combat when armed appropriately for that
 option.\

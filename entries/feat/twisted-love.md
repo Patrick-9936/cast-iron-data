@@ -18,8 +18,6 @@ prerequisites = "You resemble a lost loved one of an evil creature who would oth
 benefit = "You gain a +2 bonus on saving throws against enchantment effects and a +2 bonus on Bluff and Diplomacy checks to influence your would-be love or her minions and servants."
 +++
 
-## Twisted Love (Story)
-
 An evil person or entity has become obsessed with your resemblance to a lost loved one.\
 **Prerequisites:** You resemble a lost loved one of an evil creature who would otherwise be a
 challenging foe. The likeness is close enough for you to be mistaken as the former loved one's

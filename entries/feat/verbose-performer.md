@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/extra-performance", "ref/feat/master-performer"]
 benefit = "Double the range of any bardic performance ability that possesses a range in the ability description."
 +++
 
-## Verbose Performer (Faction)
-
 The range of your bardic performances increases.\
 **Prerequisites:** Bardic performance class feature,
 [Extra Performance](ref/feat/extra-performance), [Master Performer](ref/feat/master-performer),

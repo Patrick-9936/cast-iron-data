@@ -17,8 +17,6 @@ feat_types = ["Esoteric"]
 benefit = "When you cast an illusion spell using prismatic sand as an esoteric material component, the DC to disbelieve the illusion increases by 2, as does the spell's AC, if applicable. This benefit lasts for the duration of the spell, but doesn't affect spells with a duration of instantaneous or permanent."
 +++
 
-## Esoteric Illusion (Esoteric)
-
 Prismatic sand perfects and stabilizes the forms of your illusions.\
 **Benefit:** When you cast an illusion spell using prismatic sand as an
 [esoteric material component](ref/rule/esoteric-material-components), the DC to disbelieve the

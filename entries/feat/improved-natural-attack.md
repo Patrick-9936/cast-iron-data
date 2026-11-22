@@ -19,8 +19,6 @@ benefit = "Choose one of the creature's natural attack forms (not an unarmed str
 special = "This feat can be taken multiple times. Each time it is taken, it applies to a different natural attack."
 +++
 
-## Improved Natural Attack (Monster)
-
 Attacks made by one of this creature's natural attacks leave vicious wounds.\
 **Prerequisites:** Natural weapon, base attack bonus +4.\
 **Benefit:** Choose one of the creature's natural attack forms (not an unarmed strike). The damage

@@ -18,8 +18,6 @@ prerequisites = "You must have explored and claimed an area of at least 100 squa
 benefit = "When in either unclaimed wilderness or land under your own control, you receive a +2 bonus on Perception checks, Stealth checks, and Survival checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4."
 +++
 
-## Nation Builder (Story)
-
 The land calls to you to conquer it and forge a realm all your own.\
 **Prerequisites:** You must have explored and claimed an area of at least 100 square miles.\
 **Benefit:** When in either unclaimed wilderness or land under your own control, you receive a +2

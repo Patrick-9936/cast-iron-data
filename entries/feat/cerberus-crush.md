@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/cerberus-snare", "ref/feat/cerberus-style", "ref
 benefit = "You can apply the benefits of Vital Strike, Improved Vital Strike, and Greater Vital Strike to all attacks made using Cerberus Style."
 +++
 
-## Cerberus Crush (Combat)
-
 When you strike from three directions, you channel deadly force into each blow.\
 **Prerequisites:** [Cerberus Snare](ref/feat/cerberus-snare),
 [Cerberus Style](ref/feat/cerberus-style), [Vital Strike](ref/feat/vital-strike), base attack bonus

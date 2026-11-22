@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/crashing-wave-buffet", "ref/feat/crashing-wave-s
 benefit = "When dragging or repositioning an opponent, at any point during the movement, you can make one unarmed attack against the opponent using your highest attack bonus. You can make one additional attack for every 5 feet you drag or reposition the opponent beyond the first 5 feet. You take a cumulative -5 penalty on each additional attack made in this way."
 +++
 
-## Crashing Wave Fist (Combat)
-
 In addition to simply moving it, you are able to strike your enemy while pushing it around.\
 **Prerequisites:** Wis 15, [Crashing Wave Buffet](ref/feat/crashing-wave-buffet),
 [Crashing Wave Style](ref/feat/crashing-wave-style), [Improved Drag](ref/feat/improved-drag),

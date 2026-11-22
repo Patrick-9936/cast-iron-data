@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/overwatch-style", "ref/feat/overwatch-tactician"
 benefit = "While using the Overwatch Style, as a full-round action you can ready up to four ranged attacks, each with its own triggering event. You take a -2 penalty on attack rolls made with these readied actions."
 +++
 
-## Overwatch Vortex (Combat)
-
 You are ready to respond to many more of your foes' actions.\
 **Prerequisites:** [Overwatch Style](ref/feat/overwatch-style),
 [Overwatch Tactician](ref/feat/overwatch-tactician), [Precise Shot](ref/feat/precise-shot),

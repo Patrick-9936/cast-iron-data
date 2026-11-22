@@ -21,8 +21,6 @@ normal = "The grapple combat maneuver is a standard action."
 special = "A monk can gain Binding Throw as a bonus feat starting at 14th level."
 +++
 
-## Binding Throw (Combat)
-
 You can strike your enemy and use the blow as an opportunity to grab and hold him.\
 **Prerequisites:** [Improved Grapple](ref/feat/improved-grapple),
 [Improved Trip](ref/feat/improved-trip),

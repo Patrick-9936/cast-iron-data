@@ -19,8 +19,6 @@ benefit = "Select one of the following gunslinger deeds: dead shot, startling sh
 special = "You can select Impressive Grit up to three times. Each time you select it, choose a different gunslinger deed. A gunslinger can ignore the weapon training class feature prerequisite of Impressive Grit."
 +++
 
-## Impressive Grit (Weapon Mastery)
-
 Your mastery of ranged weapons allows you to perform impressive deeds.\
 **Prerequisites:** Base attack bonus +11, weapon training class feature with a ranged weapon.\
 **Benefit:** Select one of the following gunslinger deeds: [dead shot](ref/deed/dead-shot),

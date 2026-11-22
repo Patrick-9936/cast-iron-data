@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/dazzling-display", "ref/feat/weapon-focus"]
 benefit = "When you successfully use Dazzling Display against any shaken, frightened, or panicked opponents, their fear increases by one step. An already panicked creature demoralized by this feat cowers. Once affected by this feat, a creature cannot be affected by it again (by you or anyone else) for 24 hours."
 +++
 
-## Disheartening Display (Combat)
-
 Your show of prowess further demoralizes others.\
 **Prerequisites:** [Dazzling Display](ref/feat/dazzling-display),
 [Weapon Focus](ref/feat/weapon-focus), base attack bonus +6, proficiency with chosen weapon.\
