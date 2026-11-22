@@ -14,8 +14,6 @@ page = "422"
 kind = "none"
 +++
 
-**Destruction Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 20

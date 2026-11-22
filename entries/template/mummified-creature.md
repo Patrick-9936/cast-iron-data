@@ -17,8 +17,6 @@ page = "71"
 kind = "none"
 +++
 
-**Mummified Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1 or +2

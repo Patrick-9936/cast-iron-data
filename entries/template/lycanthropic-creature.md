@@ -14,8 +14,6 @@ page = "249"
 kind = "none"
 +++
 
-**Lycanthropic Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

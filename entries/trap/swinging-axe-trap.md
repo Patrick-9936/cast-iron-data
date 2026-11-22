@@ -14,8 +14,6 @@ page = "420"
 kind = "none"
 +++
 
-**Swinging Axe Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 1

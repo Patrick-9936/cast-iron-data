@@ -14,8 +14,6 @@ page = "247"
 kind = "none"
 +++
 
-**Monk**
-
 **Acquired:** present
 
 **Challenge rating:** +2 or +3

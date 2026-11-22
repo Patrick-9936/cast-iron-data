@@ -14,8 +14,6 @@ page = "82"
 kind = "none"
 +++
 
-**Child of Yog-Sothoth**
-
 **Challenge rating:** +1
 
 **Inherited:** present

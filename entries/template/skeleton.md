@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Skeleton**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

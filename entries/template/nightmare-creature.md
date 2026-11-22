@@ -14,8 +14,6 @@ page = "204"
 kind = "none"
 +++
 
-**Nightmare Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

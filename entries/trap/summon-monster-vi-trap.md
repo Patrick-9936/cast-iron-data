@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Summon Monster VI Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 7

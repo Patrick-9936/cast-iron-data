@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Skeletal Champion**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

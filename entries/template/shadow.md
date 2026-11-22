@@ -17,8 +17,6 @@ page = "110"
 kind = "none"
 +++
 
-**Shadow**
-
 **Challenge rating:** +1
 
 **Inherited:** present

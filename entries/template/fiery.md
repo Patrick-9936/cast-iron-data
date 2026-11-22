@@ -14,8 +14,6 @@ page = "19"
 kind = "none"
 +++
 
-**Fiery**
-
 **Acquired:** present
 
 **Challenge rating:** +0 or +1

@@ -14,8 +14,6 @@ page = "51"
 kind = "none"
 +++
 
-**Hell Engine**
-
 **Acquired:** present
 
 **Challenge rating:** +1

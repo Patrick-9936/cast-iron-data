@@ -14,8 +14,6 @@ page = "60"
 kind = "none"
 +++
 
-**Divine Guardian**
-
 **Acquired:** present
 
 **Challenge rating:** +1

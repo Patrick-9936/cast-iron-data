@@ -14,8 +14,6 @@ page = "420"
 kind = "none"
 +++
 
-**Falling Block Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 5

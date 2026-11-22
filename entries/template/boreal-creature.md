@@ -14,8 +14,6 @@ page = "72"
 kind = "none"
 +++
 
-**Boreal Creature**
-
 **Challenge rating:** +1
 
 **Inherited:** present

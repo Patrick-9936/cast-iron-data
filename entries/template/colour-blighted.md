@@ -17,8 +17,6 @@ page = "77"
 kind = "none"
 +++
 
-**Colour-Blighted**
-
 **Acquired:** present
 
 **Challenge rating:** +0

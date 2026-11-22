@@ -14,8 +14,6 @@ page = "91"
 kind = "none"
 +++
 
-**Winter Fey**
-
 **Challenge rating:** +1
 
 **Inherited:** present

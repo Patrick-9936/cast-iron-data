@@ -14,8 +14,6 @@ page = "248"
 kind = "none"
 +++
 
-**Ranger**
-
 **Acquired:** present
 
 **Challenge rating:** +1 or +2

@@ -14,8 +14,6 @@ page = "50"
 kind = "none"
 +++
 
-**Prophecy-Addled Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

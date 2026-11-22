@@ -14,8 +14,6 @@ page = "82"
 kind = "none"
 +++
 
-**Black-Blooded**
-
 **Acquired:** present
 
 **Challenge rating:** +3

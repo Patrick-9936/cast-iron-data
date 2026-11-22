@@ -14,8 +14,6 @@ page = "52"
 kind = "none"
 +++
 
-**Recycled Construct**
-
 **Acquired:** present
 
 **Challenge rating:** -1

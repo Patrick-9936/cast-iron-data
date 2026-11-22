@@ -14,8 +14,6 @@ page = "172"
 kind = "none"
 +++
 
-**Swinging Log**
-
 **Type:** Mechanical
 
 **Challenge rating:** 1

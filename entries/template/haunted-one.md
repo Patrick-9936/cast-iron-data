@@ -14,8 +14,6 @@ page = "29"
 kind = "none"
 +++
 
-**Haunted One**
-
 **Acquired:** present
 
 **Challenge rating:** +1

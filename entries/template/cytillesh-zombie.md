@@ -14,8 +14,6 @@ page = "21"
 kind = "none"
 +++
 
-**Cytillesh Zombie**
-
 **Acquired:** present
 
 **Challenge rating:** +1

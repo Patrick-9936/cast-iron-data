@@ -14,8 +14,6 @@ page = "29"
 kind = "none"
 +++
 
-**Id Mutant**
-
 **Acquired:** present
 
 **Challenge rating:** +1

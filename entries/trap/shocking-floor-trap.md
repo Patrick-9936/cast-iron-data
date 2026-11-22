@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Shocking Floor Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 9

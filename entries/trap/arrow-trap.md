@@ -14,8 +14,6 @@ page = "420"
 kind = "none"
 +++
 
-**Arrow Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 1

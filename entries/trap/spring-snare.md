@@ -14,8 +14,6 @@ page = "172"
 kind = "none"
 +++
 
-**Spring Snare**
-
 **Type:** Mechanical
 
 **Challenge rating:** 1

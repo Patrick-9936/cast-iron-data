@@ -14,8 +14,6 @@ page = "420"
 kind = "none"
 +++
 
-**Burning Hands Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 2

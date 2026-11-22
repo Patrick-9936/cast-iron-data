@@ -14,8 +14,6 @@ page = "83"
 kind = "none"
 +++
 
-**Ectoplasmic**
-
 **Acquired:** present
 
 **Challenge rating:** +1

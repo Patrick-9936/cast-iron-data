@@ -14,8 +14,6 @@ page = "246"
 kind = "none"
 +++
 
-**Barbarian**
-
 **Acquired:** present
 
 **Challenge rating:** +2 or +3

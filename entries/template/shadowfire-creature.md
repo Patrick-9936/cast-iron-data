@@ -14,8 +14,6 @@ page = "157"
 kind = "none"
 +++
 
-**Shadowfire Creature**
-
 **Challenge rating:** +1
 
 **Inherited:** present

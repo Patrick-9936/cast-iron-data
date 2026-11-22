@@ -14,8 +14,6 @@ page = "36"
 kind = "none"
 +++
 
-**Commando Construct**
-
 **Acquired:** present
 
 **Challenge rating:** +1 or +2

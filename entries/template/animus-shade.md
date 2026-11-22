@@ -14,8 +14,6 @@ page = "11"
 kind = "none"
 +++
 
-**Animus Shade**
-
 **Acquired:** present
 
 **Challenge rating:** +2

@@ -14,8 +14,6 @@ page = "247"
 kind = "none"
 +++
 
-**Druid**
-
 **Acquired:** present
 
 **Challenge rating:** +1, +2, or +3

@@ -14,8 +14,6 @@ page = "247"
 kind = "none"
 +++
 
-**Fighter**
-
 **Acquired:** present
 
 **Challenge rating:** +1 or +2

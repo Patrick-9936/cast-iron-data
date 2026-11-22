@@ -14,8 +14,6 @@ page = "152"
 kind = "none"
 +++
 
-**Pickin Ogre**
-
 **Challenge rating:** +0
 
 **Inherited:** present

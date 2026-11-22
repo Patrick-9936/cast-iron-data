@@ -14,8 +14,6 @@ page = "250"
 kind = "none"
 +++
 
-**Promethean Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

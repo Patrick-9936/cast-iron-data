@@ -14,8 +14,6 @@ page = "248"
 kind = "none"
 +++
 
-**Paladin**
-
 **Acquired:** present
 
 **Challenge rating:** +2 or +3

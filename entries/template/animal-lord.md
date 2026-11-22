@@ -14,8 +14,6 @@ page = "14"
 kind = "none"
 +++
 
-**Animal Lord**
-
 **Challenge rating:** +2
 
 **Inherited:** present

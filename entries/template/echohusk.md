@@ -14,8 +14,6 @@ page = "24"
 kind = "none"
 +++
 
-**Echohusk**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

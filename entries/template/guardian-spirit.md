@@ -14,8 +14,6 @@ page = "26"
 kind = "none"
 +++
 
-**Guardian Spirit**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

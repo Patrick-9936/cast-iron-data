@@ -14,8 +14,6 @@ page = "21"
 kind = "none"
 +++
 
-**Gallowdead**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

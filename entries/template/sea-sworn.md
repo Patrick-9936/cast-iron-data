@@ -14,8 +14,6 @@ page = "31"
 kind = "none"
 +++
 
-**Sea-Sworn**
-
 **Acquired:** present
 
 **Challenge rating:** +1

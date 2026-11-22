@@ -14,8 +14,6 @@ page = "67"
 kind = "none"
 +++
 
-**Rampant**
-
 **Acquired:** present
 
 **Challenge rating:** +1

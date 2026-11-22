@@ -14,8 +14,6 @@ page = "156"
 kind = "none"
 +++
 
-**Hivemind Swarm**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

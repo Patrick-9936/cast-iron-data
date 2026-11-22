@@ -14,8 +14,6 @@ page = "287"
 kind = "none"
 +++
 
-**Spore Zombie**
-
 **Acquired:** present
 
 **Challenge rating:** +1

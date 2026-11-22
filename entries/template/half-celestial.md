@@ -14,8 +14,6 @@ page = "169"
 kind = "none"
 +++
 
-**Half-Celestial**
-
 **Acquired:** present
 
 **Challenge rating:** +1 to +3

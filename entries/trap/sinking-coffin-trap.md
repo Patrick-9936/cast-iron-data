@@ -14,8 +14,6 @@ page = "162"
 kind = "none"
 +++
 
-**Sinking Coffin Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 7

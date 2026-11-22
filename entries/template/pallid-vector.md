@@ -14,8 +14,6 @@ page = "68"
 kind = "none"
 +++
 
-**Pallid Vector**
-
 **Acquired:** present
 
 **Challenge rating:** +2

@@ -14,8 +14,6 @@ page = "24"
 kind = "none"
 +++
 
-**Broken Soul**
-
 **Acquired:** present
 
 **Challenge rating:** +2

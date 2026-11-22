@@ -14,8 +14,6 @@ page = "28"
 kind = "none"
 +++
 
-**Mana Wastes Mutant**
-
 **Acquired:** present
 
 **Challenge rating:** +1

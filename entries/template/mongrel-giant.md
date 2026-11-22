@@ -14,8 +14,6 @@ page = "192"
 kind = "none"
 +++
 
-**Mongrel Giant**
-
 **Challenge rating:** +1
 
 **Inherited:** present

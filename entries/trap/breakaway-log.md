@@ -14,8 +14,6 @@ page = "173"
 kind = "none"
 +++
 
-**Breakaway Log**
-
 **Type:** Mechanical
 
 **Challenge rating:** 4

@@ -14,8 +14,6 @@ page = "61"
 kind = "none"
 +++
 
-**Floodslain**
-
 **Acquired:** present
 
 **Challenge rating:** +1

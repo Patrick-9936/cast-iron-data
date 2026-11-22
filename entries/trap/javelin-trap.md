@@ -14,8 +14,6 @@ page = "420"
 kind = "none"
 +++
 
-**Javelin Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 2

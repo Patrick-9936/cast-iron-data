@@ -14,8 +14,6 @@ page = "246"
 kind = "none"
 +++
 
-**Waxwork**
-
 **Challenge rating:** Varies
 
 **Inherited:** present

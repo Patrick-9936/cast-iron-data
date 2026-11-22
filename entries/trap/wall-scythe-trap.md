@@ -14,8 +14,6 @@ page = "420"
 kind = "none"
 +++
 
-**Wall Scythe Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 4

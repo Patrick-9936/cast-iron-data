@@ -14,8 +14,6 @@ page = "32"
 kind = "none"
 +++
 
-**Psychic Lich**
-
 **Acquired:** present
 
 **Challenge rating:** +2

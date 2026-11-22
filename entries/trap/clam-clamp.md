@@ -14,8 +14,6 @@ page = "173"
 kind = "none"
 +++
 
-**Clam Clamp**
-
 **Type:** Mechanical
 
 **Challenge rating:** 2

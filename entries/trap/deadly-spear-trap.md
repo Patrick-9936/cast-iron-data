@@ -14,8 +14,6 @@ page = "422"
 kind = "none"
 +++
 
-**Deadly Spear Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 18

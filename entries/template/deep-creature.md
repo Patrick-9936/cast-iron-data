@@ -14,8 +14,6 @@ page = "248"
 kind = "none"
 +++
 
-**Deep Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

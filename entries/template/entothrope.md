@@ -14,8 +14,6 @@ page = "116"
 kind = "none"
 +++
 
-**Entothrope**
-
 **Acquired:** present
 
 **Challenge rating:** +1 (see text)

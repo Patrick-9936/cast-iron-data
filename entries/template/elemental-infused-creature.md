@@ -14,8 +14,6 @@ page = "56"
 kind = "none"
 +++
 
-**Elemental-Infused Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1 or +2

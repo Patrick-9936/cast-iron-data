@@ -14,8 +14,6 @@ page = "161"
 kind = "none"
 +++
 
-**Crushing Cage Tarp**
-
 **Type:** Mechanical
 
 **Challenge rating:** 11

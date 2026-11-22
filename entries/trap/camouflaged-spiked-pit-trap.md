@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Camouflaged Spiked Pit Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 8

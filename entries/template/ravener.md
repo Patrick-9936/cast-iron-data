@@ -17,8 +17,6 @@ page = "43"
 kind = "none"
 +++
 
-**Ravener**
-
 **Acquired:** present
 
 **Challenge rating:** +2

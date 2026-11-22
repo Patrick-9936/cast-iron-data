@@ -17,8 +17,6 @@ page = "50"
 kind = "none"
 +++
 
-**Vampire**
-
 **Acquired:** present
 
 **Challenge rating:** +2

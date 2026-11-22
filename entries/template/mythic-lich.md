@@ -14,8 +14,6 @@ page = "206"
 kind = "none"
 +++
 
-**Mythic Lich**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

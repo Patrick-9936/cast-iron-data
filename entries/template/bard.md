@@ -14,8 +14,6 @@ page = "246"
 kind = "none"
 +++
 
-**Bard**
-
 **Acquired:** present
 
 **Challenge rating:** +1 or +2
