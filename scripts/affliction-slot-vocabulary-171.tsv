@@ -1,0 +1,27 @@
+field	value	basis	print_citation
+affliction_type	addiction	tag	GameMastery Guide p. 237: the sample drugs of Drugs and Addiction print `Addiction minor`, `moderate` and `major`; the corpus tags the nine sample drugs addiction
+affliction_type	curse	tag	Core Rulebook p. 556: Bestow Curse Trap (Type curse, spell, trap)
+affliction_type	disease	tag	Core Rulebook p. 557: Demon Fever (Type disease, injury)
+affliction_type	infestation	tag	GameMastery Guide p. 245: Rot Grubs (Type infestation)
+affliction_type	insanity	tag	GameMastery Guide p. 250: Amnesia (Type insanity)
+affliction_type	poison	tag	Core Rulebook p. 558: Type poison, ingested
+slot	armor	printed slot	Core Rulebook p. 466: Mithral Shirt (Slot armor)
+slot	armor quality	enhancement	no printed Slot line: an enhancement has no body slot, and the corpus labels the special abilities of armor with it (phynics/cast-iron-data#171)
+slot	armor/shield quality	enhancement	no printed Slot line: an enhancement has no body slot, and the corpus labels the special abilities of armor and shields with it (phynics/cast-iron-data#171)
+slot	belt	printed slot	Core Rulebook p. 502: Belt of Giant Strength (Slot belt)
+slot	body	printed slot	Core Rulebook p. 527: Robe of Eyes (Slot body)
+slot	chest	printed slot	Core Rulebook p. 532: Vest of Escape (Slot chest)
+slot	eyes	printed slot	Core Rulebook p. 515: Goggles of Night (Slot eyes)
+slot	feet	printed slot	Core Rulebook p. 503: Boots of Elvenkind (Slot feet)
+slot	hands	printed slot	Core Rulebook p. 515: Gloves of Swimming and Climbing (Slot hands)
+slot	head	printed slot	Core Rulebook p. 518: Helm of Brilliance (Slot head)
+slot	headband	printed slot	Core Rulebook p. 517: Headband of Vast Intelligence (Slot headband)
+slot	neck	printed slot	Core Rulebook p. 500: Amulet of Natural Armor (Slot neck)
+slot	none	printed slot	Core Rulebook p. 512: Feather Token (Slot none)
+slot	ring	printed slot	Core Rulebook p. 481: Ring of Protection (Slot ring)
+slot	shield	printed slot	Core Rulebook p. 466: Absorbing Shield (Slot shield)
+slot	shield quality	enhancement	no printed Slot line: an enhancement has no body slot, and the corpus labels the special abilities of shields with it (phynics/cast-iron-data#171)
+slot	shoulders	printed slot	Core Rulebook p. 507: Cloak of Resistance (Slot shoulders)
+slot	weapon quality	enhancement	no printed Slot line: an enhancement has no body slot, and the corpus labels the special abilities of weapons with it (phynics/cast-iron-data#171)
+slot	wrists	printed slot	Core Rulebook p. 504: Bracers of Armor (Slot wrists)
+slot	{slot} or {slot}	pair	Inner Sea Gods p. 262: Dawnflower Sash (Slot belt or head); p. 266: Key of the Second Vault (Slot none or neck). Two distinct printed slots or `none`, in print order; enhancement values do not combine
