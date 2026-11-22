@@ -29,8 +29,6 @@ abilities = ["14", "17", "13", "12", "13", "16"]
 _A bloody, tooth-filled mouth that looks almost like a horrific gash gasps in the neck of this pale,
 childlike horror._
 
-**Vulnudaemon**
-
 **Challenge rating:** 4
 
 **aura:** aura of doom (30 ft., DC 18)

@@ -29,8 +29,6 @@ abilities = ["21", "17", "15", "2", "12", "6"]
 _This great cat's muscles flex visibly under its skin as it bares its fangs and shakes its thick
 mane of hair._
 
-**Lion**
-
 **Challenge rating:** 3
 
 **Type:** animal

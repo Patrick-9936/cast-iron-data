@@ -30,8 +30,6 @@ abilities = ["31", "14", "22", "7", "14", "17"]
 _A cobra head rests on a humanoid torso that splits into dozens of snakes. One arm is a snake tail,
 while the other is two snake heads._
 
-**Syricta**
-
 **Challenge rating:** 12
 
 **Type:** aberration

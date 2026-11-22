@@ -29,8 +29,6 @@ abilities = ["14", "15", "17", "2", "12", "9"]
 _A tremendous badger snarls and scrapes its wicked, shovel-like claws. Stocky muscles ripple beneath
 its streaked and shaggy fur._
 
-**Dire Badger**
-
 **Challenge rating:** 2
 
 **Type:** animal

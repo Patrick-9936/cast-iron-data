@@ -32,8 +32,6 @@ abilities = ["40", "11", "25", "12", "15", "18"]
 
 _This blue-skinned giant's clothing and beard whip about like sails caught in a storm._
 
-**Ocean Giant**
-
 **Challenge rating:** 14
 
 **Alignment:** CG or CE

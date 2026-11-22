@@ -32,8 +32,6 @@ abilities = ["25", "23", "34", "20", "20", "30"]
 _This serpent-bodied, six-armed woman is painfully thin, haggard, and gaunt. Bloody sores dot her
 flesh, and the skulladorned flails she wields drip black liquid._
 
-**Kaltestrua, Governess of Casnoriva**
-
 **Challenge rating:** 21
 
 **Female marilith [sorcerer](ref/class/sorcerer) 7**

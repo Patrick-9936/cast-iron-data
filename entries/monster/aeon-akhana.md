@@ -31,8 +31,6 @@ abilities = ["21", "23", "26", "16", "21", "18"]
 _Four gray arms project from a swirling mass resembling a giant eye, from which a tail-like
 appendage dangles._
 
-**Akhana**
-
 **Challenge rating:** 12
 
 **Initiative:** +10

@@ -30,8 +30,6 @@ special_qualities = "cruelties (sickened, staggered), fiendish boon (weapon +1, 
 abilities = ["20", "11", "16", "8", "9", "14"]
 +++
 
-**Boggard Abyssal Warrior**
-
 **Challenge rating:** 8
 
 **Boggard [antipaladin](ref/class/antipaladin) 7**

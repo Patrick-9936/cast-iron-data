@@ -34,8 +34,6 @@ abilities = ["28", "35", "27", "24", "28", "31"]
 _The head of this winged, dragon-like beast is crowned with long spines. Sooty feathers cover its
 body._
 
-**Yamaraj**
-
 **Challenge rating:** 20
 
 **aura:** fear (30 ft., DC 32)

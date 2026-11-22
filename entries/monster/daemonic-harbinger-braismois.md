@@ -31,8 +31,6 @@ abilities = ["21", "30", "28", "25", "28", "29"]
 _This humanoid fiend has an overly long torso, black eyes, and a mouth full of razor-sharp teeth. It
 wears black robes that cover most of its rotting, frostbitten flesh._
 
-**Braismois**
-
 **Challenge rating:** 22
 
 **aura:** fine print (120 ft.)

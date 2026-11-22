@@ -32,8 +32,6 @@ abilities = ["14", "1", "24", "4", "5", "1"]
 _A slithering blob of amoeba-like protoplasm shines with flame, warping the air around it in a
 searing mirage._
 
-**Tear of Nuruu'gal**
-
 **Challenge rating:** 6
 
 **blindsight:** 60

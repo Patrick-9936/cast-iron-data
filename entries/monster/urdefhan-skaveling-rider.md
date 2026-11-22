@@ -32,8 +32,6 @@ abilities = ["24", "16", "17", "12", "15", "16"]
 _Additional straps and hooks concealed beneath this muscular horror's cloak secure it to the saddle
 of the rotting, flapping undead monstrosity he rides._
 
-**Skaveling Rider**
-
 **Challenge rating:** 10
 
 **Urdefhan [cavalier](ref/class/cavalier) 7**

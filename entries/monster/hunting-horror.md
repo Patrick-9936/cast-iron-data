@@ -31,8 +31,6 @@ abilities = ["34", "20", "27", "15", "23", "20"]
 _This vast draconic serpent has a pair of leathery wings that don't appear to be strong enough to
 allow the creature to fly._
 
-**Hunting Horror**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic evil

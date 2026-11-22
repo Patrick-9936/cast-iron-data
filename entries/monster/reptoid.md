@@ -32,8 +32,6 @@ abilities = ["12", "10", "8", "14", "13", "17"]
 _This gaunt, scaled humanoid has reptilian eyes, a barely perceptible nose, and a wide, lipless
 mouth filled with sharp teeth._
 
-**Reptoid**
-
 **Challenge rating:** 1/2
 
 **Reptoid [mesmerist](ref/class/mesmerist) 1**

@@ -35,8 +35,6 @@ abilities = ["28", "15", "21", "6", "15", "16"]
 _This grotesque creature looks like a gigantic toad with leathery wings, fangs, horns, and three
 bulbous eyes._
 
-**Mobogo**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic evil

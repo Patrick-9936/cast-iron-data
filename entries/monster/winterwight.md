@@ -30,8 +30,6 @@ abilities = ["40", "23", "-", "11", "18", "29"]
 _Human-sized and of a deathly blue color, this long-taloned skeletal creature is partially encased
 in jagged sheets of ice._
 
-**Winterwight**
-
 **Challenge rating:** 17
 
 **aura:** cold (10 ft.)

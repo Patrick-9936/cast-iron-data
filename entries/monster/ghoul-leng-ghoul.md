@@ -31,8 +31,6 @@ abilities = ["24", "24", "-", "17", "20", "23"]
 _This semi-canine humanoid has rancid green flesh and hoof-like feet, yet its eyes sparkle with the
 gleam of intelligence._
 
-**Leng Ghoul**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic evil

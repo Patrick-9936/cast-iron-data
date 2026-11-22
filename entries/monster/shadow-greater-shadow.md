@@ -30,8 +30,6 @@ abilities = ["-", "20", "-", "6", "12", "15"]
 
 _This shadowy figure sways and moves with an erratic grace, as if lit by an unseen fire._
 
-**Greater Shadow**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

@@ -31,8 +31,6 @@ abilities = ["18", "21", "18", "11", "18", "21"]
 
 _Within this elaborate suit of armor can be seen the partial form of a determined warrior._
 
-**Zuishin**
-
 **Challenge rating:** 10
 
 **Initiative:** +9

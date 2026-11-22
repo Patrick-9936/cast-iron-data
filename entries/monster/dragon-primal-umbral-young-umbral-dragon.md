@@ -31,8 +31,6 @@ abilities = ["21", "12", "17", "16", "17", "16"]
 _This sleek, dark dragon moves with a disturbing, serpentine grace, its eyes glowing as if lit from
 within by crimson embers._
 
-**Young Umbral Dragon**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic evil

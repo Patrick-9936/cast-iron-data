@@ -32,8 +32,6 @@ abilities = ["10", "15", "14", "9", "13", "15"]
 
 _Barely knee-high, this small creature looks like a hairy old man with more beard than flesh._
 
-**Domovoi**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic good

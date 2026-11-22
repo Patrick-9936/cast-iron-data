@@ -31,8 +31,6 @@ abilities = ["13", "12", "14", "10", "13", "13"]
 
 _This sphere of elemental matter emits a strange hum that resonates with elemental power._
 
-**Water Wysp**
-
 **Challenge rating:** 2
 
 **aura:** resonance (30 ft.)

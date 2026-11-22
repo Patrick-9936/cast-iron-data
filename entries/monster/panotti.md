@@ -30,8 +30,6 @@ abilities = ["15", "13", "14", "10", "12", "11"]
 _This bald humanoid looks strikingly human except for the long folds of skin that droop from his
 head and neck to just above his ankles._
 
-**Panotti**
-
 **Challenge rating:** 2
 
 **blindsense:** 60

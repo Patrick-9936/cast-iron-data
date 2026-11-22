@@ -32,8 +32,6 @@ abilities = ["25", "17", "17", "2", "14", "12"]
 _This immense flying reptile has a staggering wingspan and a brightly colored head with a
 razor-sharp beak._
 
-**Quetzalcoatlus**
-
 **Challenge rating:** 7
 
 **Type:** animal

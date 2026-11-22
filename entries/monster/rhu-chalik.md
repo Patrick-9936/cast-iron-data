@@ -34,8 +34,6 @@ abilities = ["16", "16", "19", "13", "14", "15"]
 _Thin tendrils trail from this misshapen ovoid. Its underside holds a gray orb that resembles a
 bulging, lidless eye._
 
-**Rhu-chalik**
-
 **Challenge rating:** 6
 
 **Type:** aberration

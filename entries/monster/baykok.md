@@ -30,8 +30,6 @@ abilities = ["17", "22", "-", "11", "10", "15"]
 
 _This howling corpse swoops through the air with hideously elongated legs and a bow made of bone._
 
-**Baykok**
-
 **Challenge rating:** 9
 
 **Initiative:** +10

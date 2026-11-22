@@ -31,8 +31,6 @@ abilities = ["13", "16", "13", "10", "11", "14"]
 
 _This elven woman's allure is obfuscated by her ragged insectile wings and long, claw-like nails._
 
-**Vendenopterix**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

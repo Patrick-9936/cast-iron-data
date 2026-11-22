@@ -30,8 +30,6 @@ abilities = ["20", "19", "22", "-", "15", "11"]
 
 _The half-formed shape a snarling dog rises out of this pile of grayish foam._
 
-**Doppeldrek**
-
 **Challenge rating:** 5
 
 **blindsight:** 60

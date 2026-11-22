@@ -31,8 +31,6 @@ abilities = ["10", "19", "13", "14", "15", "18"]
 _This strange, beautiful woman has flesh that seems made of wood and vibrant hair that resembles
 leaves and blossoms._
 
-**Dryad**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic good

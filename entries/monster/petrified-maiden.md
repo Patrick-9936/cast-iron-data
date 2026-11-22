@@ -30,8 +30,6 @@ abilities = ["18", "12", "-", "9", "11", "16"]
 _Fresh blood seeps from the cracks of this weathered but exquisitely detailed stone sculpture of a
 warrior woman._
 
-**Petrified Maiden**
-
 **Challenge rating:** 6
 
 **Initiative:** +5

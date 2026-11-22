@@ -32,8 +32,6 @@ abilities = ["15", "17", "15", "12", "12", "12"]
 _This armored humanoid has a jackal's head, bulging muscles, and a gaze that makes the world drift
 away._
 
-**Jackalwere**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

@@ -30,8 +30,6 @@ abilities = ["23", "11", "19", "12", "14", "8"]
 
 _The insectile eyes of this chitin-covered daemonic monstrosity display a malign intelligence._
 
-**Elder Cordulegaster**
-
 **Challenge rating:** 7
 
 **Initiative:** +4

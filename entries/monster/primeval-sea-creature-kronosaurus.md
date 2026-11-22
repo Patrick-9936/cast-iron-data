@@ -28,8 +28,6 @@ abilities = ["36", "13", "24", "2", "13", "9"]
 _This enormous, finned reptile has a long mouth full of sharp teeth and moves through the water with
 incredible speed._
 
-**Kronosaurus**
-
 **Challenge rating:** 10
 
 **Type:** animal

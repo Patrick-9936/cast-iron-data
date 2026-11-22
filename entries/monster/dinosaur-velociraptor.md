@@ -29,8 +29,6 @@ abilities = ["13", "17", "17", "2", "14", "14"]
 _This small, sleek dinosaur has vicious, snapping jaws and feet that end in large talons for gutting
 prey._
 
-**Velociraptor**
-
 **Challenge rating:** 2
 
 **Type:** animal

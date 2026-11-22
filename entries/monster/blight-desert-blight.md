@@ -32,8 +32,6 @@ abilities = ["30", "25", "24", "15", "18", "25"]
 _A roiling mass of orange-brown sludge studded with gleaming red eyes brandishes its lashing
 tentacles._
 
-**Desert Blight**
-
 **Challenge rating:** 13
 
 **blindsight:** 120

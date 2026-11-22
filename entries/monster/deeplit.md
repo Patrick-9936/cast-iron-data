@@ -31,8 +31,6 @@ abilities = ["25", "14", "-", "10", "16", "17"]
 _This granite-skinned humanoid stands as tall as a dwarf, though a flickering flame hovers where its
 head should be._
 
-**Deeplit**
-
 **Challenge rating:** 5
 
 **aura:** palelight (20 ft., DC 16)

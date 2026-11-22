@@ -31,8 +31,6 @@ abilities = ["-", "33", "-", "10", "19", "25"]
 _This translucent, orange-tinged creature looks like it was once a living person, though its face is
 a twisted mask of confusion and terror and its vestments surround it like a ghostly shroud._
 
-**Chronogeist**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic evil

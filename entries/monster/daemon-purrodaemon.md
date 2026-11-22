@@ -30,8 +30,6 @@ abilities = ["32", "23", "30", "17", "18", "21"]
 _Dozens of weapons pierce this massive monster's body. Red eyes glow with wickedness in its
 vulture-like head._
 
-**Purrodaemon**
-
 **Challenge rating:** 18
 
 **aura:** fear (15 ft., DC 24), unholy aura

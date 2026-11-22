@@ -33,8 +33,6 @@ abilities = ["14", "14", "18", "6", "13", "11"]
 _Wielding a net of woven moss and a stone javelin, this humanoid reptile wears armor of swamp reeds
 and bone and the skull of a larger reptile as a menacing mask._
 
-**Ghristah**
-
 **Challenge rating:** 8
 
 **Female troglodyte [hunter](ref/class/hunter) ([feral hunter](ref/arc-hunter/feral-hunter)) 7**

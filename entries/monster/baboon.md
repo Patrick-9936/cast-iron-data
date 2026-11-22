@@ -29,8 +29,6 @@ abilities = ["12", "15", "12", "2", "12", "5"]
 _A hairy, stout animal with opposable thumbs, this creature has a pronounced muzzle and bright red
 buttocks._
 
-**Baboon**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

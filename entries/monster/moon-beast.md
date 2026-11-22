@@ -30,8 +30,6 @@ abilities = ["22", "17", "20", "19", "18", "25"]
 _This creature has a pale, frog-like appearance with clawed hands, no eyes, a wide mouth, and a
 snout ending in pink tentacles._
 
-**Moon-Beast**
-
 **Challenge rating:** 11
 
 **Type:** aberration

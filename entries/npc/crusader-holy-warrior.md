@@ -15,8 +15,6 @@ kind = "creature"
 cr = "6"
 +++
 
-**Crusader (Holy Warrior)**
-
 **Challenge rating:** 6
 
 **XP** 2,400\

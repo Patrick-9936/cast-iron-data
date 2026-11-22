@@ -30,8 +30,6 @@ abilities = ["27", "19", "24", "22", "25", "24"]
 _Muscular, bald, and tall, this humanoid creature has emerald skin and two pairs of shining,
 white-feathered wings._
 
-**Planetar**
-
 **Challenge rating:** 16
 
 **aura:** protective aura

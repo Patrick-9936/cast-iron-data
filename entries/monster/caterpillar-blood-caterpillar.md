@@ -30,8 +30,6 @@ abilities = ["22", "11", "17", "-", "11", "2"]
 
 _This enormous caterpillar is covered with hundreds of sharp, poisonous bristles._
 
-**Blood Caterpillar**
-
 **Challenge rating:** 4
 
 **Initiative:** +0

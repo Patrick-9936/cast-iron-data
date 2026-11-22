@@ -33,8 +33,6 @@ abilities = ["52", "7", "29", "2", "12", "5"]
 _This whale-like creature floats ponderously, arcs of brilliant energy filling its mouth and rolling
 down its body._
 
-**Oma**
-
 **Challenge rating:** 16
 
 **Size:** colossal

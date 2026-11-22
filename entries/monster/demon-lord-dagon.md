@@ -31,8 +31,6 @@ abilities = ["44", "25", "40", "29", "32", "31"]
 _This demon's body is a nightmare of writhing tentacles and slippery coils below the leering maw of
 a deep sea predator._
 
-**Dagon**
-
 **Challenge rating:** 28
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 36), unholy aura (DC 28)

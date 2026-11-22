@@ -38,8 +38,6 @@ abilities = ["-", "12", "-", "11", "11", "16"]
 _This malignant cloud of shadows boils in the air, its skeletal maw eerily babbling as the
 creature's claws manifest from the darkness._
 
-**Allip**
-
 **Challenge rating:** 3
 
 **aura:** babble (60 ft., DC 15)

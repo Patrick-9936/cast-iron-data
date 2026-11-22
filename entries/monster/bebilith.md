@@ -31,8 +31,6 @@ abilities = ["28", "12", "24", "11", "13", "13"]
 _A spider the size of an elephant, this dark blue arachnid rears up on its six hind legs to raise
 its barbed and razor-edged front claws._
 
-**Bebilith**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic evil

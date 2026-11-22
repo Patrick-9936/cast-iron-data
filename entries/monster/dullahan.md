@@ -30,8 +30,6 @@ abilities = ["20", "14", "-", "14", "16", "18"]
 _Clad in ragged black robes and tarnished armor, this grim, headless rider is surrounded by an aura
 of menace._
 
-**Dullahan**
-
 **Challenge rating:** 7
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (30 ft., DC 19)

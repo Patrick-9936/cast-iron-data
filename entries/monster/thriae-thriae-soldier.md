@@ -31,8 +31,6 @@ abilities = ["20", "17", "16", "12", "13", "15"]
 _This creature has the upper body of a woman and the lower body of a bee. She wields a longbow with
 uncanny skill._
 
-**Thriae Soldier**
-
 **Challenge rating:** 4
 
 **Initiative:** +3

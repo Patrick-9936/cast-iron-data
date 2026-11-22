@@ -32,8 +32,6 @@ abilities = ["46", "31", "42", "29", "31", "30"]
 _This looming humanoid shape has long, gangly limbs, glowing red eyes, and a gaping mouth full of
 fangs._
 
-**Ithaqua**
-
 **Challenge rating:** 28
 
 **aura:** unspeakable presence (300 ft., DC 36)

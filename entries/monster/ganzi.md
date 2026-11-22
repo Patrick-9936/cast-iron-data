@@ -32,8 +32,6 @@ abilities = ["10", "13", "16", "10", "8", "17"]
 _This dark-skinned woman moves with grace and confidence, but her vibrant eyes hold a hint of
 unpredictable wildness._
 
-**Ganzi**
-
 **Challenge rating:** 1/2
 
 **Female ganzi [bard](ref/class/bard) 1**

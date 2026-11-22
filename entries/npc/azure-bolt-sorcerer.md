@@ -15,8 +15,6 @@ kind = "creature"
 cr = "12"
 +++
 
-**Azure Bolt Sorcerer**
-
 **Challenge rating:** 12
 
 **XP** 19,200\

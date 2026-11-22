@@ -30,8 +30,6 @@ abilities = ["19", "10", "-", "-", "11", "1"]
 _This hulking thing is a patchwork of rotten cloth and grotesque skin, with stray bits of straw
 poking out the seams._
 
-**Skinstitch**
-
 **Challenge rating:** 5
 
 **Type:** construct

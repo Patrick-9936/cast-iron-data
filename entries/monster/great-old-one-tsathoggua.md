@@ -31,8 +31,6 @@ abilities = ["48", "33", "46", "31", "32", "35"]
 _Neither quite humanoid nor quite toad, this lumbering monstrosity maintains a malevolent expression
 on its bat-like face._
 
-**Tsathoggua**
-
 **Challenge rating:** 29
 
 **Type:** aberration

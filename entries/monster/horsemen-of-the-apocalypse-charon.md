@@ -32,8 +32,6 @@ abilities = ["40", "27", "42", "35", "32", "35"]
 _This ancient figure is dressed in black, and its eyes are sunken pits that glint with malevolent
 cunning._
 
-**Charon**
-
 **Challenge rating:** 30
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 40), unholy aura (DC 30)

@@ -32,8 +32,6 @@ abilities = ["18", "17", "16", "13", "16", "15"]
 _This creature has an athletic human torso from the waist up, but its lower body consists of two
 hoofed forelegs trailing into a finned tail._
 
-**Ichthyocentaur**
-
 **Challenge rating:** 5
 
 **Initiative:** +3

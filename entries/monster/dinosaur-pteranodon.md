@@ -28,8 +28,6 @@ abilities = ["16", "19", "15", "2", "15", "12"]
 _This flying reptile has two huge wings and a distinctive backward-sweeping crest decorating its
 head._
 
-**Pteranodon**
-
 **Challenge rating:** 3
 
 **Type:** animal

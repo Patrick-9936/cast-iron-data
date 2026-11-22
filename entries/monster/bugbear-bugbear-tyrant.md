@@ -33,8 +33,6 @@ abilities = ["20", "12", "16", "12", "8", "15"]
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with
 the thrill of the coming kill._
 
-**Bugbear Tyrant**
-
 **Challenge rating:** 13
 
 **Male bugbear [antipaladin](ref/class/antipaladin) ([fearmonger](ref/arc-antipaladin/fearmonger))

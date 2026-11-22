@@ -30,8 +30,6 @@ abilities = ["21", "23", "-", "1", "11", "5"]
 _Sculpted from ivory in the form of a large skull, this construct perches on six segmented legs of
 whitened bone._
 
-**Ivory Sentinel**
-
 **Challenge rating:** 7
 
 **Type:** construct

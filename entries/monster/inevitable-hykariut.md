@@ -31,8 +31,6 @@ abilities = ["27", "10", "24", "15", "24", "27"]
 _This imposing anthropomorphic being comprised of stone and spiked steel armor hefts an intimidating
 hammer._
 
-**Hykariut**
-
 **Challenge rating:** 18
 
 **Initiative:** +4

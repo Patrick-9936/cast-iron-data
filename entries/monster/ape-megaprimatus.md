@@ -29,8 +29,6 @@ abilities = ["29", "15", "22", "2", "12", "15"]
 _This titanic ape has great patches of coarse gray and brown fur, and its skin is thick and
 leathery._
 
-**Megaprimatus**
-
 **Challenge rating:** 8
 
 **Type:** animal

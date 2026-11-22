@@ -30,8 +30,6 @@ abilities = ["38", "6", "23", "2", "11", "5"]
 _This immense whale moves slowly through the water with a grace that seems incongruous, given its
 immense size._
 
-**Whale**
-
 **Challenge rating:** 10
 
 **Type:** animal

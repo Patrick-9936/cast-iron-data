@@ -31,8 +31,6 @@ abilities = ["12", "17", "12", "10", "15", "8"]
 
 _Black feathers cover this crow-headed humanoid, and its hands and legs end in powerful talons._
 
-**Tengu**
-
 **Challenge rating:** 1/2
 
 **Male tengu [rogue](ref/class/rogue) 1**

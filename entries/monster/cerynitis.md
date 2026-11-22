@@ -28,8 +28,6 @@ abilities = ["18", "31", "16", "11", "20", "19"]
 
 _This sleek and graceful doe possesses long, metallic antlers and a shiny, golden pelt._
 
-**Cerynitis**
-
 **Challenge rating:** 7
 
 **Initiative:** +18

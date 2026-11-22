@@ -31,8 +31,6 @@ abilities = ["22", "21", "-", "10", "15", "19"]
 _Dressed in filthy rags, this undead woman lacks any facial features. Ragged talons grow from her
 dirty fingers._
 
-**Hupia**
-
 **Challenge rating:** 6
 
 **Initiative:** +9

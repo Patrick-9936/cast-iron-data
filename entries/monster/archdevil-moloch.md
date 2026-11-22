@@ -31,8 +31,6 @@ abilities = ["40", "25", "42", "25", "34", "33"]
 _This immense figure appears to be a suit of blackened, diabolic armor filled with shrieking blasts
 of blistering fire._
 
-**Moloch**
-
 **Challenge rating:** 29
 
 **aura:** fiendish furnace (10 ft.), [frightful presence](ref/umr/frightful-presence) (120 ft., DC

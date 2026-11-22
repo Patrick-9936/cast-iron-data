@@ -33,8 +33,6 @@ abilities = ["19", "14", "-", "10", "11", "1"]
 _This quadruped robot has glowing eyes and dexterous hands capable of examining and fixing
 machinery._
 
-**Repair Robot**
-
 **Challenge rating:** 2
 
 **Type:** construct

@@ -30,8 +30,6 @@ abilities = ["20", "17", "21", "14", "16", "19"]
 _This creature has the body of a seductive, winged elven woman from the waist up and that of a snake
 from the waist down._
 
-**Lillend**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic good

@@ -34,8 +34,6 @@ abilities = ["20", "16", "-", "-", "11", "1"]
 _This spider-like creature seems to be made entirely out of weapons and splintered planks, its legs
 ending in curved blades._
 
-**Cutlass Spider**
-
 **Challenge rating:** 6
 
 **Type:** construct

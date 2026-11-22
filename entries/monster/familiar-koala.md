@@ -31,8 +31,6 @@ abilities = ["6", "11", "13", "2", "9", "8"]
 _This wide-faced animal looks like a small, plump bear with a flat black nose, small round eyes, and
 white-tufted ears._
 
-**Koala**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

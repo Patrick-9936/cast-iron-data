@@ -28,8 +28,6 @@ abilities = ["19", "11", "18", "-", "12", "13"]
 
 _This giant bee is as large as a horse and unusually fat, with light brown stripes on her body._
 
-**Giant Queen Bee**
-
 **Challenge rating:** 5
 
 **Initiative:** +0

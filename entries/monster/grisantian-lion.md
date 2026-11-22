@@ -29,8 +29,6 @@ abilities = ["29", "21", "22", "4", "12", "11"]
 
 _This massive lion's fur and skin shimmer with a golden sheen._
 
-**Grisantian Lion**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic neutral

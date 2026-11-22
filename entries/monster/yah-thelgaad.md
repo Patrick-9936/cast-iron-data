@@ -32,8 +32,6 @@ _A writhing forest of tendrils extends from one end of this chitincovered creatu
 from the other lashes a pincer-tipped tail. Six transparent blisters adorn its back, each containing
 a brain floating in thick green fluid._
 
-**Yah-Thelgaad**
-
 **Challenge rating:** 14
 
 **Type:** aberration

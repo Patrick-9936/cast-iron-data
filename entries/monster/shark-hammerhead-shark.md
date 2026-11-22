@@ -30,8 +30,6 @@ abilities = ["21", "16", "17", "1", "16", "6"]
 _Beneath this sleek gray shark's unusually shaped head, a disproportionately small mouth flashes
 with razor-sharp teeth._
 
-**Hammerhead Shark**
-
 **Challenge rating:** 3
 
 **Type:** animal

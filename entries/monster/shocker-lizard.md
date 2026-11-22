@@ -30,8 +30,6 @@ abilities = ["10", "15", "13", "2", "13", "6"]
 _This dog-sized lizard has two horns, one on either side of its head, and green scales that crackle
 with sparks of lightning._
 
-**Shocker Lizard**
-
 **Challenge rating:** 2
 
 **Initiative:** +6

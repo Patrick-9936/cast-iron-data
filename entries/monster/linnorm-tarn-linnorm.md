@@ -32,8 +32,6 @@ abilities = ["42", "26", "32", "7", "25", "27"]
 _This nightmarishly huge, snake-like dragon possesses two equally fearsome heads. Its twin jaws
 seethe with acid and poison._
 
-**Tarn Linnorm**
-
 **Challenge rating:** 20
 
 **Alignment:** Chaotic evil

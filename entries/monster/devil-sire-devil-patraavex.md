@@ -31,8 +31,6 @@ abilities = ["24", "20", "21", "14", "15", "19"]
 _This fiend is a horrendous amalgamation of snapping claws and writhing tendrils with a disgusting
 fanged mouth running vertically across its torso._
 
-**Sire Devil (Patraavex)**
-
 **Challenge rating:** 7
 
 **Initiative:** +5

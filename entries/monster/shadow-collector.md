@@ -31,8 +31,6 @@ abilities = ["14", "24", "19", "15", "17", "18"]
 _Shadows drip from the hands of this small, humanoid figure. Massive ears and elaborate eyebrows
 frame her youthful features._
 
-**Shadow Collector**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic neutral

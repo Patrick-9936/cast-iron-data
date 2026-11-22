@@ -36,8 +36,6 @@ composed of twisted strands of pallid flesh and veiny musculature. The tentacle-
 with the awkward, alien speed of a hunting insect, unnaturally still one moment and darting forth
 with incredible speed the next._
 
-**Rorkoun**
-
 **Challenge rating:** 6
 
 **Type:** aberration

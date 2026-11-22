@@ -27,8 +27,6 @@ special_qualities = "multiplication, powerful bite"
 abilities = ["32", "15", "-", "-", "10", "10"]
 +++
 
-**Multiplying T-Rex Skeleton**
-
 **Challenge rating:** 9
 
 **Size:** gargantuan

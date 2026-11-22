@@ -36,8 +36,6 @@ abilities = ["14", "15", "12", "5", "14", "11"]
 _This serpentine creature has the head of a ferocious dragon and two relatively small forearms that
 end in tiny claws._
 
-**Tatzlwyrm**
-
 **Challenge rating:** 2
 
 **Type:** dragon

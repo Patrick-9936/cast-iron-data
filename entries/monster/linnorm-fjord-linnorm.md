@@ -32,8 +32,6 @@ abilities = ["36", "23", "28", "5", "21", "26"]
 _This massive, eel-like dragon has two webbed talons. Its tail ends in large and powerful-looking
 flukes._
 
-**Fjord Linnorm**
-
 **Challenge rating:** 16
 
 **Alignment:** Chaotic evil

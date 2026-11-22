@@ -28,8 +28,6 @@ abilities = ["1", "16", "8", "2", "15", "3"]
 _This small, sand-colored rodent has long hind legs and large ears. Its tufted tail is longer than
 the animal itself._
 
-**Jerboa**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

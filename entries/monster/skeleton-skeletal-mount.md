@@ -25,8 +25,6 @@ melee = "bite +5 (1d4+5), 2 hooves +0 (1d6+2)"
 abilities = ["20", "20", "-", "-", "10", "10"]
 +++
 
-**Skeletal Mount**
-
 **Challenge rating:** 1
 
 **Advanced heavy horse skeleton**

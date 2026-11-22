@@ -28,8 +28,6 @@ abilities = ["17", "19", "19", "2", "16", "10"]
 
 _A chilling chorus of howls echoes through the air as a massive, white-furred wolf emerges._
 
-**Timber Wolf**
-
 **Challenge rating:** 2
 
 **Type:** animal

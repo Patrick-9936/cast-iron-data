@@ -33,8 +33,6 @@ abilities = ["20", "9", "26", "14", "20", "11"]
 _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its
 piscine head features a toothy maw._
 
-**Sahuagin High Priestess**
-
 **Challenge rating:** 9
 
 **Giant sahuagin [cleric](ref/class/cleric) 7**

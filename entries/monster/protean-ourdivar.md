@@ -34,8 +34,6 @@ abilities = ["18", "13", "16", "11", "15", "14"]
 _The upper body of this creature is that of a multicolored bestial humanoid, while its lower section
 ends in a serpentine tail._
 
-**Ourdivar**
-
 **Challenge rating:** 4
 
 **blindsense:** 30

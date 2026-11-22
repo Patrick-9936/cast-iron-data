@@ -30,8 +30,6 @@ abilities = ["7", "14", "11", "15", "10", "12"]
 _This curious-looking creature has the body and plumage of a rooster but sports the cunning features
 of a fox from the neck up._
 
-**Galluvix**
-
 **Challenge rating:** 2
 
 **Initiative:** +6

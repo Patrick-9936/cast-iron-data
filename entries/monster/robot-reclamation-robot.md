@@ -33,8 +33,6 @@ abilities = ["22", "25", "-", "14", "15", "1"]
 _This complex-looking automaton's multiple arms end in gripping talons. It moves about on a set of
 four legs and has a strange bell-shaped head._
 
-**Reclamation Robot**
-
 **Challenge rating:** 12
 
 **Type:** construct

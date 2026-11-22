@@ -30,8 +30,6 @@ abilities = ["31", "25", "20", "-", "24", "35"]
 
 _This enormous fungus looks like a cage, and a strange glow emanates from within._
 
-**Zygomind**
-
 **Challenge rating:** 18
 
 **aura:** fascinating aura (300 ft., DC 36, 10 rounds), [stench](ref/umr/stench) (100 ft., DC 29,

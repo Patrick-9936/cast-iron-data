@@ -31,8 +31,6 @@ abilities = ["23", "16", "19", "17", "18", "20"]
 _Dozens of antlers crown this slender biped's masked head. Its wicked claws clutch a bloodstained
 sack._
 
-**Heart Thief**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

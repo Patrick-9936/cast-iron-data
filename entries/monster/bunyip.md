@@ -32,8 +32,6 @@ abilities = ["13", "16", "13", "2", "11", "7"]
 _A disturbing combination of shark and seal, this brown-furred creature has a wide mouth filled with
 razor-sharp teeth._
 
-**Bunyip**
-
 **Challenge rating:** 3
 
 **Initiative:** +3

@@ -32,8 +32,6 @@ abilities = ["24", "29", "21", "14", "20", "21"]
 _This crimson horror walks upon six long, thin legs. Its face is neither that of a skull nor spider,
 but some horrid mix of the two._
 
-**Scarlet Walker**
-
 **Challenge rating:** 12
 
 **Size:** huge

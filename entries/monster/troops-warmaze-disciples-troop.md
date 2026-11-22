@@ -28,8 +28,6 @@ special_attacks = "javelin barrage~powerful charge~rage"
 abilities = ["26", "13", "18", "7", "10", "9"]
 +++
 
-**Warmaze Disciples Troop**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic evil

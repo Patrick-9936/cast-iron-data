@@ -29,8 +29,6 @@ special_qualities = "expert climber"
 abilities = ["17", "21", "16", "5", "14", "6"]
 +++
 
-**Morlock Swarmer Troop**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

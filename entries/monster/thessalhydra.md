@@ -30,8 +30,6 @@ abilities = ["31", "40", "32", "2", "24", "9"]
 _This four-legged reptile has eight serpentine heads arrayed around a central maw. Its long,
 thrashing tail ends in a crab-like pincer._
 
-**Thessalhydra**
-
 **Challenge rating:** 18
 
 **Type:** aberration

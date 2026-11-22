@@ -31,8 +31,6 @@ abilities = ["22", "19", "18", "12", "17", "21"]
 _This monstrosity looks like a massive cockroach made from putrid hair. A humanoid face leers in
 place of an insectile head._
 
-**Ichkoh**
-
 **Challenge rating:** 7
 
 **Initiative:** +8

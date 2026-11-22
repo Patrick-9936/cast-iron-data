@@ -32,8 +32,6 @@ abilities = ["35", "13", "23", "12", "16", "12"]
 _This towering giant has finely chiseled features. Her skin is pale and smooth, and her long wispy
 hair flutters as if in a breeze._
 
-**Cloud Giant**
-
 **Challenge rating:** 11
 
 **Alignment:** NG or NE

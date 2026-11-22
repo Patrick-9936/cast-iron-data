@@ -32,8 +32,6 @@ abilities = ["22", "15", "-", "12", "15", "1"]
 _Rows of crystal spheres line the back of this four-legged robot. A single glowing eye sits in the
 middle of its head._
 
-**Thought Harvester Robot**
-
 **Challenge rating:** 10
 
 **Type:** construct

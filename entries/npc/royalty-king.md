@@ -15,8 +15,6 @@ kind = "creature"
 cr = "14"
 +++
 
-**Royalty (King)**
-
 **Challenge rating:** 14
 
 **XP** 38,400\

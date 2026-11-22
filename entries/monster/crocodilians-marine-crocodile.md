@@ -30,8 +30,6 @@ abilities = ["20", "13", "17", "1", "12", "2"]
 _This fish-like reptile has a thin, streamlined snout filled with needle-like teeth and a long, flat
 tail that it uses to propel itself through the water._
 
-**Marine Crocodile**
-
 **Challenge rating:** 3
 
 **Type:** animal

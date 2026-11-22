@@ -30,8 +30,6 @@ abilities = ["12", "21", "14", "15", "16", "25"]
 _Dressed in a long dark coat and a tall hat, this lanky, fanged humanoid exudes an almost palpable
 aura of horror._
 
-**Bogeyman**
-
 **Challenge rating:** 10
 
 **aura:** deepest fear (30 ft., DC 25)

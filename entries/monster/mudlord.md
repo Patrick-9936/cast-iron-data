@@ -32,8 +32,6 @@ abilities = ["17", "16", "14", "10", "13", "7"]
 _This fluid creature's roughly humanoid form is composed entirely of thick gobbets of soggy, brown
 mud._
 
-**Mudlord**
-
 **Challenge rating:** 6
 
 **Initiative:** +7

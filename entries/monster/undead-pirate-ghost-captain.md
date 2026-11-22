@@ -28,8 +28,6 @@ special_qualities = "armor training 1, rogue talents (bleeding attack +2), trapf
 abilities = ["-", "16", "-", "13", "12", "20"]
 +++
 
-**Ghost Captain**
-
 **Challenge rating:** 7
 
 **Human [ghost](ref/template/ghost) [fighter](ref/class/fighter) 3/[rogue](ref/class/rogue) 3**

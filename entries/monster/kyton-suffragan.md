@@ -30,8 +30,6 @@ abilities = ["13", "16", "17", "11", "16", "14"]
 _Bladed whips and spiked chains sprout from the stumps of this humanoid torso's amputated limbs.
 Elongated saw blades loll out of its distended mouth._
 
-**Suffragan**
-
 **Challenge rating:** 5
 
 **Initiative:** +3

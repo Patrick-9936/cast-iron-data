@@ -29,8 +29,6 @@ abilities = ["10", "23", "18", "13", "15", "17"]
 
 _This shabby-cloaked figure is surrounded by hundreds of bees._
 
-**Bee-Man of Bellis**
-
 **Challenge rating:** 9
 
 **Type:** aberration

@@ -30,8 +30,6 @@ abilities = ["3", "13", "-", "4", "12", "13"]
 
 _Barely contained in thick glass, this deformed humanoid creature wriggles in its jar._
 
-**Pickled Punk**
-
 **Challenge rating:** 1
 
 **Initiative:** +1

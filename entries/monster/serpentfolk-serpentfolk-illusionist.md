@@ -27,8 +27,6 @@ special_qualities = "arcane bond (viper), extended illusions (+2 rounds)"
 abilities = ["10", "22", "21", "22", "13", "18"]
 +++
 
-**Serpentfolk Illusionist**
-
 **Challenge rating:** 8
 
 **Advanced serpentfolk illusionist 4**

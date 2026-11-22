@@ -34,8 +34,6 @@ abilities = ["32", "23", "25", "18", "22", "23"]
 _This serpentine creature has shimmering golden plumage that transitions into sparkling gemstones on
 its back._
 
-**Hegessik**
-
 **Challenge rating:** 15
 
 **aura:** maddening whispers (20 ft., DC 24)

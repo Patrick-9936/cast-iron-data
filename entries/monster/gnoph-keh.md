@@ -32,8 +32,6 @@ abilities = ["24", "13", "20", "13", "20", "21"]
 _A vortex of freezing wind swirls around this six-legged, bear-like monstrosity. A single horn
 protrudes from its snarling face._
 
-**Gnoph-Keh**
-
 **Challenge rating:** 11
 
 **aura:** cold (30 ft.)

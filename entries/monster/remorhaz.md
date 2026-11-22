@@ -30,8 +30,6 @@ abilities = ["22", "13", "21", "5", "12", "10"]
 _An immense centipede-like beast erupts from the snow, rows of chitinous plates on its back glowing
 red-hot._
 
-**Remorhaz**
-
 **Challenge rating:** 7
 
 **Size:** huge

@@ -29,8 +29,6 @@ abilities = ["30", "21", "24", "2", "15", "9"]
 _This massive green ram-like creature's pelt is actually a tangle of vines, and its horns are
 wickedly sharp wooden branches._
 
-**Barometz**
-
 **Challenge rating:** 15
 
 **Size:** gargantuan

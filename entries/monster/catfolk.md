@@ -32,8 +32,6 @@ abilities = ["14", "17", "12", "8", "11", "12"]
 _This lithe, cat-like humanoid has a long tail and pointed ears. Her feline eyes sparkle with
 curiosity and mischief._
 
-**Catfolk**
-
 **Challenge rating:** 1/2
 
 **Catfolk [ranger](ref/class/ranger) 1**

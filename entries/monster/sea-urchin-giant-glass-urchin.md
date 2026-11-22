@@ -28,8 +28,6 @@ special_qualities = "amphibious"
 abilities = ["31", "3", "22", "-", "15", "2"]
 +++
 
-**Glass Urchin**
-
 **Challenge rating:** 9
 
 **Size:** huge

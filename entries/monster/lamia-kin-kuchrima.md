@@ -34,8 +34,6 @@ abilities = ["20", "22", "19", "7", "9", "10"]
 _This vaguely humanoid creature has a vulture's head and wings for arms, and wields an enormous bow
 in its taloned feet._
 
-**Kuchrima**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

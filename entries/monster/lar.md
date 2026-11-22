@@ -32,8 +32,6 @@ abilities = ["10", "17", "13", "12", "15", "14"]
 _A stirring in the air and rustle through the room reveals a presence - a subtle aura both cautious
 and curious._
 
-**Lar**
-
 **Challenge rating:** 5
 
 **Initiative:** +3

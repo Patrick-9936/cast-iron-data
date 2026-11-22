@@ -32,8 +32,6 @@ abilities = ["17", "12", "18", "8", "11", "9"]
 _This gaunt humanoid's body is entirely cased in black plate armor. Its open-faced helm reveals its
 pale skin and shallow, fleshy hollows where its eyes should be._
 
-**Dark Champion**
-
 **Challenge rating:** 5
 
 **blindsight:** 90

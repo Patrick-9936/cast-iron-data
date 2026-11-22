@@ -29,8 +29,6 @@ abilities = ["5", "12", "11", "1", "12", "7"]
 
 _This small, frilled reptile has a squat body with smooth scales._
 
-**Keulia**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

@@ -30,8 +30,6 @@ abilities = ["16", "17", "14", "6", "13", "7"]
 _This combination of a lily pad and a flytrap is ringed with horrifying fangs and has another tiny,
 toothy maw at its center._
 
-**Kawa Akago**
-
 **Challenge rating:** 3
 
 **Initiative:** +7

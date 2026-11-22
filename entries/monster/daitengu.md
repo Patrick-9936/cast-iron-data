@@ -32,8 +32,6 @@ abilities = ["17", "20", "21", "23", "22", "18"]
 
 _This winged, humanoid ascetic's face is bright red and boasts a prodigiously long nose._
 
-**Daitengu**
-
 **Challenge rating:** 10
 
 **Initiative:** +5

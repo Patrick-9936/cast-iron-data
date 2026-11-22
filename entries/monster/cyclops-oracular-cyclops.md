@@ -31,8 +31,6 @@ abilities = ["21", "12", "15", "12", "17", "10"]
 
 _Clothed in loose robes and wearing jewelry, this one-eyed giant appears to hold a high station._
 
-**Oracular Cyclops**
-
 **Challenge rating:** 7
 
 **Type:** humanoid

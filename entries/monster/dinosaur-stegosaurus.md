@@ -28,8 +28,6 @@ abilities = ["27", "14", "17", "2", "13", "10"]
 _This huge dinosaur has a small head, twin rows of sharp dorsal plates, and a muscular tail
 terminating in a set of bony spikes._
 
-**Stegosaurus**
-
 **Challenge rating:** 7
 
 **Type:** animal

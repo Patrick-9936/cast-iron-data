@@ -31,8 +31,6 @@ abilities = ["41", "8", "29", "22", "25", "16"]
 
 _This dark-scaled dragon has massive claws, and foul-smelling acid drips from its saber teeth._
 
-**Ancient Rift Dragon**
-
 **Challenge rating:** 21
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 32)

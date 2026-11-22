@@ -34,8 +34,6 @@ abilities = ["27", "20", "30", "21", "23", "26"]
 _While this seductive woman has goat horns, goat hooves, and a serpentine tail, her eyeless face is
 her most disturbing feature._
 
-**Lilitu**
-
 **Challenge rating:** 17
 
 **aura:** unholy aura (DC 26)

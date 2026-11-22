@@ -32,8 +32,6 @@ abilities = ["13", "15", "12", "13", "14", "16"]
 _This four-armed creature looks like a cross between a human and a black and ochre termite. Its body
 and arms display glowing runes._
 
-**D'ziriak**
-
 **Challenge rating:** 3
 
 **Initiative:** +2

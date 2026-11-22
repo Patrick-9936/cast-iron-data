@@ -31,8 +31,6 @@ abilities = ["14", "27", "23", "10", "8", "17"]
 _This hoofed creature's large yellow eyes are set in a noseless face above a grinning, fang-filled
 mouth._
 
-**Alp**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic neutral

@@ -17,8 +17,6 @@ cr = "6"
 
 _Bottles and flasks hang from the belt and tattered leather armor or this ragged, wild-eyed human._
 
-**Numerian Fluid Scavenger**
-
 **Challenge rating:** 6
 
 **XP** 2,400\

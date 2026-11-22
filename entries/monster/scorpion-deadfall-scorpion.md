@@ -30,8 +30,6 @@ abilities = ["27", "15", "20", "-", "14", "2"]
 _Thick sheets of moss and other forest debris cling to the dark green carapace of this huge
 scorpion._
 
-**Deadfall Scorpion**
-
 **Challenge rating:** 8
 
 **Size:** huge

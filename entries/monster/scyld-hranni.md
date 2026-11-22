@@ -33,8 +33,6 @@ abilities = ["40", "18", "25", "16", "30", "17"]
 _This purple-haired giant has dark bronze skin and piercing eyes; she wields an electrified trident
 and a coral-encrusted shield._
 
-**Scyld Hranni, Storm Giant Matriarch**
-
 **Challenge rating:** 20
 
 **Female storm giant [cleric](ref/class/cleric) of [Aegirran](ref/faith/aegirran) 13**

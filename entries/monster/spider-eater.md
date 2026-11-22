@@ -30,8 +30,6 @@ abilities = ["21", "14", "21", "3", "12", "10"]
 _This strange beast resembles a wasp the size of a horse, but with the head of a spider and two long
 appendages ending in pincers._
 
-**Spider Eater**
-
 **Challenge rating:** 5
 
 **Initiative:** +2

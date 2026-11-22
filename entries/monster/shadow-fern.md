@@ -28,8 +28,6 @@ abilities = ["18", "13", "14", "-", "15", "2"]
 
 _The thick stalks of this dark-veined, gray plant are covered in a fine black fuzz._
 
-**Shadow Fern**
-
 **Challenge rating:** 4
 
 **Initiative:** +1

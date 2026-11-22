@@ -32,8 +32,6 @@ abilities = ["23", "10", "17", "6", "10", "7"]
 _Bestial tusks jut from the jaw of this hunched-over giant. It is clad in armor patched together
 from the bones of past victims._
 
-**Cave Giant**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

@@ -36,8 +36,6 @@ abilities = ["10", "15", "16", "7", "14", "15"]
 _Mismatched eyes dot this plant creature's thick mushroom cap, while below works an overlarge maw
 set with pale fungal teeth._
 
-**Fungus Leshy**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

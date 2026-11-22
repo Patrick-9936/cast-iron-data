@@ -29,8 +29,6 @@ special_qualities = "sole target"
 abilities = ["14", "19", "-", "8", "11", "17"]
 +++
 
-**Minor Reaper**
-
 **Challenge rating:** 10
 
 **Initiative:** +8

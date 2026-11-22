@@ -31,8 +31,6 @@ abilities = ["16", "17", "-", "13", "14", "15"]
 _This desiccated strix has glowing, green eyes and long, jagged claws. A pair of burning, ghostly
 wings sprouts from its hunched back._
 
-**Wraithwing**
-
 **Challenge rating:** 4
 
 **Initiative:** +7

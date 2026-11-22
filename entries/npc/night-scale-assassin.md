@@ -18,8 +18,6 @@ cr = "5"
 _This lithe half-elven woman wields a hand crossbow and is bedecked in dark leather that blends in
 with the shadows._
 
-**Night Scale Assassin**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

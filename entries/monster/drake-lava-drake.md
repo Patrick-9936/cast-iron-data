@@ -31,8 +31,6 @@ abilities = ["25", "16", "18", "9", "12", "11"]
 
 _This muscular two-legged dragon is covered with scales of thick volcanic stone._
 
-**Lava Drake**
-
 **Challenge rating:** 9
 
 **Type:** dragon

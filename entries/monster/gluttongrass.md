@@ -31,8 +31,6 @@ abilities = ["11", "12", "10", "-", "11", "1"]
 _These tall, bloodstained blades of bright green grass sway and bend regardless of the presence of
 wind._
 
-**Gluttongrass**
-
 **Challenge rating:** 1
 
 **Initiative:** +1

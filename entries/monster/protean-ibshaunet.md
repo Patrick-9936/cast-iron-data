@@ -31,8 +31,6 @@ abilities = ["27", "22", "22", "13", "16", "17"]
 _This nightmarish serpentine creature bears crackling wings of chaotic energy and bristling fins of
 insubstantial fire._
 
-**Ibshaunet**
-
 **Challenge rating:** 11
 
 **aura:** corrosive aura (30 ft., DC 19)

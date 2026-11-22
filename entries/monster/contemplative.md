@@ -32,8 +32,6 @@ abilities = ["6", "13", "8", "24", "17", "21"]
 _This floating creature is mostly pulsating brain-sac, with an atrophied manikin body hanging under
 it._
 
-**Contemplative**
-
 **Challenge rating:** 2
 
 **blindsight:** 60

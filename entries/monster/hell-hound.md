@@ -30,8 +30,6 @@ abilities = ["13", "13", "15", "6", "10", "6"]
 _This creature resembles a thin, lanky wolf with reddish-brown fur, white claws, and burning, fiery
 red eyes._
 
-**Hell Hound**
-
 **Challenge rating:** 3
 
 **Initiative:** +5

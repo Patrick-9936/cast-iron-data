@@ -31,8 +31,6 @@ abilities = ["44", "30", "42", "29", "31", "31"]
 _Larger than an elephant, this towering insectile nightmare wields a scythe made of bone. Its wings
 are swarms of biting flies, and its inhuman eyes glitter with cruel intelligence._
 
-**Deskari**
-
 **Challenge rating:** 29
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 36), unholy aura (DC 28)

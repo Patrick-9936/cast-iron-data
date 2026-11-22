@@ -31,8 +31,6 @@ abilities = ["28", "20", "26", "18", "18", "20"]
 _This gangly black wasp has delicate wings, articulate hands on its front legs, and a pair of jagged
 stingers the length of a human arm._
 
-**The Menotherian**
-
 **Challenge rating:** 15
 
 **aura:** alluring scent (30 ft., DC 25, 1 hour)

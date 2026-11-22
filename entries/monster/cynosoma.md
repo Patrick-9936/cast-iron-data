@@ -33,8 +33,6 @@ abilities = ["12", "23", "26", "15", "22", "21"]
 _This moth-winged woman has a delicate appearance, though her features are somewhat masked by a haze
 of shimmering dust._
 
-**Cynosoma**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic good

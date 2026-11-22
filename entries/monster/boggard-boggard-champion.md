@@ -30,8 +30,6 @@ special_qualities = "armor training 1, hold breath, swamp stride"
 abilities = ["20", "13", "16", "8", "13", "8"]
 +++
 
-**Boggard Champion**
-
 **Challenge rating:** 7
 
 **Boggard [fighter](ref/class/fighter) 5**

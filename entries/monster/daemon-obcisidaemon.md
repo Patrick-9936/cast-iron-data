@@ -34,8 +34,6 @@ abilities = ["26", "19", "28", "13", "21", "24"]
 _This massive fiend has eagle wings, a tusked canine face, and a muscular frame. It wields an
 immense, cruel-looking halberd._
 
-**Obcisidaemon**
-
 **Challenge rating:** 19
 
 **aura:** scorched earth (60 ft., DC 28), unholy aura (DC 25)

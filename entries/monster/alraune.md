@@ -29,8 +29,6 @@ abilities = ["24", "13", "22", "10", "17", "21"]
 
 _An attractive green-skinned woman sits in the depths of this enormous, sweet-smelling flower._
 
-**Alraune**
-
 **Challenge rating:** 13
 
 **aura:** calming fragrance (60 ft., DC 24)

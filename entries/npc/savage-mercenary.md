@@ -15,8 +15,6 @@ kind = "creature"
 cr = "1/2"
 +++
 
-**Savage Mercenary**
-
 **Challenge rating:** 1/2
 
 **XP** 200\

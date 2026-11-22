@@ -18,8 +18,6 @@ cr = "5"
 _This confident-looking bearded man is dressed in rich and flamboyant clothing, an ornate, sheathed
 rapier at his side._
 
-**Pirate Captain**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

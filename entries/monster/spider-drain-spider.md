@@ -31,8 +31,6 @@ abilities = ["5", "15", "10", "-", "10", "2"]
 _This brown spider's body is fist-sized, yet its long, spindly legs and oversized fangs make it
 appear quite fearsome._
 
-**Drain Spider**
-
 **Challenge rating:** 1/4
 
 **Initiative:** +2

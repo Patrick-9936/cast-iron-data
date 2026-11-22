@@ -33,8 +33,6 @@ abilities = ["6", "16", "13", "12", "10", "17"]
 _This lovely woman's skin appears to be made of water. She has a fluid grace and wears clothing of
 woven reeds and leaves._
 
-**Naiad**
-
 **Challenge rating:** 1/2
 
 **Naiad [bard](ref/class/bard) 1**

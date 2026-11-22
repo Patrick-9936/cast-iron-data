@@ -34,8 +34,6 @@ abilities = ["32", "13", "28", "10", "15", "13"]
 _Harsh flourishes decorate the armor of this ironclad giant, as though it were the war regalia of
 some merciless warlord._
 
-**The First Blade**
-
 **Challenge rating:** 15
 
 **aura:** rage (100 ft.)

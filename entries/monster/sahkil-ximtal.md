@@ -31,8 +31,6 @@ abilities = ["30", "25", "30", "15", "22", "23"]
 _A rat's head sprouts from the front of a crab-like body, and two tentacular tails ending in hands
 erupt from the towering bulk._
 
-**Ximtal**
-
 **Challenge rating:** 17
 
 **Initiative:** +11

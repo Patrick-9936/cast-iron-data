@@ -35,8 +35,6 @@ abilities = ["17", "19", "16", "7", "12", "8"]
 _This creature is composed of dozens of electric eels tightly knotted into a slithering, humanoid
 shape, crackling with energy._
 
-**Galvo**
-
 **Challenge rating:** 9
 
 **blindsense:** 60

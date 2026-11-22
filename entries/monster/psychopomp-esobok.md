@@ -33,8 +33,6 @@ abilities = ["14", "17", "14", "5", "14", "15"]
 
 _This stout, hunched predator has a ruff of dirty feathers and a crocodilian skull for a head._
 
-**Esobok**
-
 **Challenge rating:** 3
 
 **Initiative:** +3

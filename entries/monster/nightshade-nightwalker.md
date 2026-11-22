@@ -30,8 +30,6 @@ abilities = ["35", "14", "-", "20", "21", "21"]
 _This towering, night-black giant has demonic features, including a huge pair of ram-like horns. Its
 arms end in massive blades._
 
-**Nightwalker**
-
 **Challenge rating:** 16
 
 **aura:** desecrating aura (30 ft.)

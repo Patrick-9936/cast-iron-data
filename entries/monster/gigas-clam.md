@@ -33,8 +33,6 @@ _This monstrous clam's conjoined shells open wide enough to swallow a horse. Ins
 siphons flank the thing's innards, which resemble a fleshy, vaguely humanoid woman, save that
 instead of a face, it has a singular massive maw filled with rows of ravenous teeth._
 
-**Gigas Clam**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic neutral

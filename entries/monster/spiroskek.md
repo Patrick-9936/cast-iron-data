@@ -30,8 +30,6 @@ abilities = ["18", "19", "16", "5", "16", "17"]
 _The rear limbs of this elk-sized insectoid loop into a large, chitinous sphere, and it nimbly
 propels itself forward with balance and grace._
 
-**Spiroskek**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic neutral

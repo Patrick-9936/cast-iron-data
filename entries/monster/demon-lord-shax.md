@@ -32,8 +32,6 @@ abilities = ["30", "39", "40", "30", "31", "31"]
 _This stork-headed, winged humanoid is spattered with blood and wields a pair of gory, razor-sharp
 daggers in his dripping hands._
 
-**Shax**
-
 **Challenge rating:** 28
 
 **aura:** bleeding wounds (30 ft.), [frightful presence](ref/umr/frightful-presence) (120 ft., DC

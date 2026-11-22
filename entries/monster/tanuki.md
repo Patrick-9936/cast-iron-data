@@ -32,8 +32,6 @@ abilities = ["14", "17", "18", "13", "14", "19"]
 _Short and pudgy, this raccoon-like humanoid wields a stout quarterstaff and weaves a little as if
 intoxicated._
 
-**Tanuki**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

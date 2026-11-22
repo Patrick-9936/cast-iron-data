@@ -32,8 +32,6 @@ abilities = ["24", "25", "25", "22", "21", "20"]
 _Twin tentacles stretch from the crown of this feminine fiend's head, while her lower body blooms in
 a gown of writhing tendrils._
 
-**Handmaiden Devil (Gylou)**
-
 **Challenge rating:** 14
 
 **Initiative:** +11

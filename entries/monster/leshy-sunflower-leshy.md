@@ -31,8 +31,6 @@ abilities = ["7", "16", "12", "5", "11", "15"]
 
 _The petals of this small plant's large, flat, flowering head reflect light in unnatural ways._
 
-**Sunflower Leshy**
-
 **Challenge rating:** 1
 
 **aura:** heliotrope (20 ft., DC 13)

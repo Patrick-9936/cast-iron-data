@@ -30,8 +30,6 @@ abilities = ["31", "17", "16", "2", "15", "10"]
 _This towering baboon has fiery orange fur, with two tufts of hair curling up like horns on its
 head._
 
-**Devil Monkey**
-
 **Challenge rating:** 6
 
 **Type:** animal

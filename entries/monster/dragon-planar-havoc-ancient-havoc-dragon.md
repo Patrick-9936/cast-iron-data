@@ -32,8 +32,6 @@ abilities = ["35", "12", "25", "24", "23", "26"]
 _This dragon's scales and insectile wings dance with color, while its whip-like tail waves as if
 stirred by an unseen breeze._
 
-**Ancient Havoc Dragon**
-
 **Challenge rating:** 21
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 32)

@@ -31,8 +31,6 @@ abilities = ["34", "14", "23", "12", "15", "9"]
 _This massive creature combines the trunk, tusks, and size of an elephant with the powerful jaws,
 scaly hide, and tail of a crocodile._
 
-**Makara Vahana**
-
 **Challenge rating:** 9
 
 **Size:** huge

@@ -30,8 +30,6 @@ abilities = ["10", "17", "24", "4", "13", "12"]
 _This horrid mass of eyes, mouths, and formless flesh stares in all directions, its countless maws
 yammering ceaselessly._
 
-**Gibbering Mouther**
-
 **Challenge rating:** 5
 
 **Type:** aberration

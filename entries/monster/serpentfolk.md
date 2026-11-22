@@ -31,8 +31,6 @@ abilities = ["8", "21", "17", "18", "15", "16"]
 
 _This serpentine humanoid has bright scaly skin, a long sinuous tail, and a fanged serpent's head._
 
-**Serpentfolk**
-
 **Challenge rating:** 4
 
 **Initiative:** +9

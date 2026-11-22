@@ -35,8 +35,6 @@ abilities = ["43", "26", "36", "19", "24", "35"]
 _This humanoid creature has the head of a ravening, horned lion. A chorus of anguished screams
 echoes from his gaping maw._
 
-**Ahriman, Lord of All Divs**
-
 **Challenge rating:** 26
 
 **aura:** hopelessness (30 ft., DC 38), [frightful presence](ref/umr/frightful-presence) (60 ft., DC

@@ -33,8 +33,6 @@ abilities = ["20", "13", "19", "14", "14", "15"]
 
 _This being resembles a towering human with skin of polished stone and glittering agate eyes._
 
-**Shaitan**
-
 **Challenge rating:** 7
 
 **Initiative:** +5

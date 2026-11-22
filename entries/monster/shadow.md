@@ -34,8 +34,6 @@ abilities = ["-", "14", "-", "6", "12", "15"]
 _Barely seen out of the corner of the eye, this wisp of shadow is vaguely humanoid in outline and
 writhes with unholy life._
 
-**Shadow**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

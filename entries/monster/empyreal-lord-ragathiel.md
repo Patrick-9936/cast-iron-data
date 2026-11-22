@@ -31,8 +31,6 @@ abilities = ["32", "28", "39", "23", "22", "29"]
 _This towering angelic general has five wings of fire, a flaming bastard sword, and resplendent
 golden armor._
 
-**Ragathiel**
-
 **Challenge rating:** 26
 
 **aura:** holy aura (DC 27), primal aura (30 ft.), protective aura

@@ -32,8 +32,6 @@ abilities = ["10", "21", "18", "14", "17", "21"]
 _Tears stream from this beautiful but sullen creature's eyes, forming a puddle beneath her delicate
 feet._
 
-**Lampad**
-
 **Challenge rating:** 5
 
 **aura:** insane beauty (30 ft.)

@@ -36,8 +36,6 @@ abilities = ["15", "12", "11", "10", "9", "10"]
 _This fine-featured humanoid wears exotic clothing and has flashing eyes; his arms are sheathed in a
 blaze of crackling flames._
 
-**Suli**
-
 **Challenge rating:** 1/2
 
 **Suli [ranger](ref/class/ranger) 1**

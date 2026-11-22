@@ -30,8 +30,6 @@ abilities = ["27", "25", "20", "23", "22", "22"]
 _This immense bird seems to be made of living flame. It spreads its wings and gives vent to a
 musical cry as it takes to the air._
 
-**Phoenix**
-
 **Challenge rating:** 15
 
 **aura:** shroud of flame (20 ft., 4d6 fire, DC 25)

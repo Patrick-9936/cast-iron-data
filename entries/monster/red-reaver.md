@@ -34,8 +34,6 @@ abilities = ["28", "6", "23", "3", "13", "12"]
 _Its stooped stance evoking a gorilla-like frame, this massive beast has six tiny eyes and atrophied
 wings._
 
-**Red Reaver**
-
 **Challenge rating:** 13
 
 **Initiative:** +2

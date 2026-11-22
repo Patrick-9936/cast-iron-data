@@ -33,8 +33,6 @@ abilities = ["12", "17", "15", "9", "14", "16"]
 _Covered in sleek black fur, this vaguely feline humanoid holds flickering flames in its clawed
 hand._
 
-**Ovinnik**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

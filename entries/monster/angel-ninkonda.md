@@ -32,8 +32,6 @@ _This golden-winged humanoid wears sturdy armor, including a crowned helm with a
 a gleaming mirror on their broad chest. Large metal spikes pierce the creature's arms, hands, and
 shoulders._
 
-**Ninkonda**
-
 **Challenge rating:** 17
 
 **aura:** protective aura

@@ -31,8 +31,6 @@ abilities = ["30", "17", "20", "7", "22", "15"]
 _Seeping spines cover the inky scales of this long, sinuous beast, its twin serpent heads writhing
 at the ends of its swaying necks._
 
-**Vydrarch**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic evil

@@ -30,8 +30,6 @@ abilities = ["16", "11", "-", "5", "13", "14"]
 _Through cracked, sickly blue lips, this pallid humanoid figure emits deep gasps as if struggling to
 breathe._
 
-**Immured**
-
 **Challenge rating:** 3
 
 **aura:** breathlessness (10 ft., DC 14)

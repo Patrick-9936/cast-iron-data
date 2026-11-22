@@ -34,8 +34,6 @@ abilities = ["28", "35", "22", "15", "15", "18"]
 
 _Jagged bolts of lightning crackle within this massive and vaguely humanoid storm cloud._
 
-**Personification of Fury**
-
 **Challenge rating:** 15
 
 **Size:** huge

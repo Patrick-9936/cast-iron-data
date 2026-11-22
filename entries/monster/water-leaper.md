@@ -32,8 +32,6 @@ abilities = ["12", "16", "15", "7", "14", "13"]
 _This vicious monster has webbed wings, a mouth full of sharp teeth, and a long tail ending a black
 stinger._
 
-**Water Leaper**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

@@ -31,8 +31,6 @@ abilities = ["12", "10", "12", "13", "13", "11"]
 _This scaly, finned humanoid has an athletic build and blue-green coloration. Its legs end in wide
 flippers rather than feet._
 
-**Triton**
-
 **Challenge rating:** 2
 
 **Initiative:** +0

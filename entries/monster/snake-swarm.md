@@ -32,8 +32,6 @@ abilities = ["9", "15", "12", "1", "12", "2"]
 
 _Hissing menacingly, this mass of snakes resembles a pile of slithering tentacles._
 
-**Snake Swarm**
-
 **Challenge rating:** 2
 
 **Type:** animal

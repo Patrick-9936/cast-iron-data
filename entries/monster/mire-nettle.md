@@ -31,8 +31,6 @@ abilities = ["10", "12", "12", "-", "10", "3"]
 _The sawtooth edges of this plant's glistening, triangular leaves weave around stalks adorned with
 needle-like spines._
 
-**Mire Nettle**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

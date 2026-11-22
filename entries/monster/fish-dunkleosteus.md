@@ -33,8 +33,6 @@ abilities = ["30", "14", "17", "1", "13", "6"]
 _This gigantic, prehistoric fish has a head like a snapping turtle, complete with sharp, tooth-like
 plates._
 
-**Dunkleosteus**
-
 **Challenge rating:** 6
 
 **Type:** animal

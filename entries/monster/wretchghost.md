@@ -32,8 +32,6 @@ abilities = ["-", "16", "-", "6", "14", "15"]
 _This ghostly, emaciated figure's mouth hangs agape in an endless howl, and its abnormally long arms
 almost touch the ground._
 
-**Wretchghost**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

@@ -32,8 +32,6 @@ abilities = ["28", "19", "19", "15", "18", "6"]
 _Black, chitinous armor covers this enormous insectile creature. Caustic saliva drips from its
 mandibles._
 
-**Hive Queen**
-
 **Challenge rating:** 10
 
 **Type:** aberration

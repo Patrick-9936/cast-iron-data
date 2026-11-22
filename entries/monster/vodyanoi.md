@@ -33,8 +33,6 @@ abilities = ["16", "19", "17", "13", "20", "12"]
 _This humanoid salamander carries a gnarled staff in one hand. Tendrils drape its chin, resembling
 the beard of an eccentric hermit._
 
-**Vodyanoi**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic neutral

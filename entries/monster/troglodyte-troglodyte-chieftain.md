@@ -33,8 +33,6 @@ abilities = ["24", "11", "17", "10", "16", "13"]
 _This humanoid's scaly hide is dull gray. Its frame resembles that of a cave lizard, with a long
 tail and crests on its head and back._
 
-**Troglodyte Chieftain**
-
 **Challenge rating:** 8
 
 **Troglodyte [barbarian](ref/class/barbarian) 2/[druid](ref/class/druid)

@@ -31,8 +31,6 @@ abilities = ["52", "31", "42", "3", "32", "27"]
 _This mountain of filthy green sludge heaps up on itself, extending six tentacles and unfolding its
 core to reveal a single red eye._
 
-**Vorgozen**
-
 **Challenge rating:** 29
 
 **aura:** polluted magic (300 ft.)

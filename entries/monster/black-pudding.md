@@ -31,8 +31,6 @@ abilities = ["16", "1", "22", "-", "1", "1"]
 _This black, amorphous blob piles up on itself, a quivering mound of midnight sludge that glistens
 darkly before surging forward._
 
-**Black Pudding**
-
 **Challenge rating:** 7
 
 **blindsight:** 60

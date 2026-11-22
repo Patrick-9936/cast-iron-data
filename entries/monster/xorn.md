@@ -30,8 +30,6 @@ abilities = ["17", "10", "17", "10", "11", "10"]
 _This squat beast is as wide as it is tall. Strangely symmetrical, it has three arms, three legs,
 three eyes, and one huge mouth._
 
-**Xorn**
-
 **Challenge rating:** 6
 
 **Initiative:** +0

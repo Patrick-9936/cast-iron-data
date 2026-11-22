@@ -32,8 +32,6 @@ abilities = ["13", "15", "-", "13", "14", "14"]
 _This humanoid creature has long, sharp teeth, and its pallid flesh is stretched tightly over its
 starved frame._
 
-**Ghoul**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

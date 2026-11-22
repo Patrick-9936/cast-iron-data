@@ -33,8 +33,6 @@ abilities = ["27", "8", "22", "7", "12", "15"]
 _A low hum surrounds this huge, gnarled tree. The rotten fruits that hang from its sickly branches
 look vaguely like human heads._
 
-**Jinmenju**
-
 **Challenge rating:** 11
 
 **aura:** unsettling drone (30 ft., DC 18)

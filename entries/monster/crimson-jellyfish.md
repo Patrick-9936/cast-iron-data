@@ -32,8 +32,6 @@ abilities = ["20", "13", "16", "-", "13", "1"]
 _This bright-red jellyfish dangles a long, central tentacle surrounded by a multitude of shorter red
 tendrils._
 
-**Crimson Jellyfish**
-
 **Challenge rating:** 4
 
 **Initiative:** +1

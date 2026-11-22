@@ -29,8 +29,6 @@ abilities = ["14", "14", "15", "1", "13", "2"]
 
 _This long, lean fish has a muscular body and a head with long jaws filled with sharp teeth._
 
-**Gar**
-
 **Challenge rating:** 1
 
 **Type:** animal

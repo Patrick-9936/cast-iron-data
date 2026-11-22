@@ -32,8 +32,6 @@ abilities = ["31", "16", "21", "2", "16", "11"]
 _This immense white worm has a single circular eye in the center of its head. Wisps of icy fog waft
 up from between its mandibles._
 
-**Frost Worm**
-
 **Challenge rating:** 12
 
 **Size:** huge

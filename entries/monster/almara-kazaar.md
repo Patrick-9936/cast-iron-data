@@ -32,8 +32,6 @@ abilities = ["18", "12", "16", "8", "16", "6"]
 _This gray-skinned dwarf wears iron plates over a set of purple and magenta robes and carries a
 warhammer._
 
-**The Would-Be Queen, Almara Kazaar**
-
 **Challenge rating:** 10
 
 **Female duergar [warpriest](ref/class/warpriest) of [Droskar](ref/faith/droskar) 11**

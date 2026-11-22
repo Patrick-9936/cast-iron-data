@@ -32,8 +32,6 @@ abilities = ["28", "40", "40", "27", "30", "33"]
 _This living silhouette of a graceful woman has white hair and eyes. Her butterfly wings shimmer
 with twinkling stars._
 
-**Black Butterfly**
-
 **Challenge rating:** 28
 
 **aura:** primal aura (30 ft.)

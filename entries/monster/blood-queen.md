@@ -33,8 +33,6 @@ _This hideous monstrosity looks like an enormous curled maggot, varicolored like
 flesh. Three flailing tentacles adorn each side of the thing's huge, pulsating mouth, and five more
 arch from its hindquarters._
 
-**Blood Queen**
-
 **Challenge rating:** 23
 
 **blindsight:** 120

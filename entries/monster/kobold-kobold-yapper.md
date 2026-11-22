@@ -32,8 +32,6 @@ abilities = ["8", "18", "6", "13", "10", "15"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold Yapper**
-
 **Challenge rating:** 7
 
 **Kobold [bard](ref/class/bard) ([dragon yapper](ref/arc-bard/dragon-yapper)) 8**

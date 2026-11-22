@@ -29,8 +29,6 @@ abilities = ["20", "17", "16", "7", "13", "10"]
 
 _This large spider-like monster has an eerie, humanoid face surrounded by a shaggy mane of fur._
 
-**Phase Spider**
-
 **Challenge rating:** 5
 
 **Initiative:** +7

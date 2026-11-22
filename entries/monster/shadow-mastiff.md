@@ -34,8 +34,6 @@ abilities = ["19", "15", "17", "4", "12", "13"]
 _This muscular canine has a maw full of sharp teeth and an inky black coat that almost seems to
 drink in the light around it._
 
-**Shadow Mastiff**
-
 **Challenge rating:** 5
 
 **Initiative:** +6

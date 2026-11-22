@@ -32,8 +32,6 @@ abilities = ["18", "26", "18", "13", "17", "13"]
 _This humanoid wolf's fur is snowy white and its eyes piercing blue; it grips an ornate spear in its
 fist._
 
-**Adlet**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic neutral

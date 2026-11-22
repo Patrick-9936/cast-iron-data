@@ -30,8 +30,6 @@ abilities = ["13", "15", "10", "10", "8", "11"]
 _This scaly, pale-furred monstrosity has bulging muscles, a short muzzle, and two small horns that
 erupt over its sloping brow._
 
-**Caliban**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

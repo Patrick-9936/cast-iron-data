@@ -30,8 +30,6 @@ abilities = ["10", "11", "11", "-", "10", "7"]
 _This housecat-sized beetle is a dull brown color brightened by two glowing green-yellow spots on
 its carapace._
 
-**Fire Beetle**
-
 **Challenge rating:** 1/3
 
 **Initiative:** +0

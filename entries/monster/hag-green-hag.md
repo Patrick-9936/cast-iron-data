@@ -29,8 +29,6 @@ abilities = ["19", "12", "12", "15", "13", "14"]
 
 _Knots of dark, moldering hair spill over the features of this sickly, thin, green-skinned crone._
 
-**Green Hag**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "7"
 +++
 
-**Street Artist**
-
 **Challenge rating:** 7
 
 **XP** 3,200\

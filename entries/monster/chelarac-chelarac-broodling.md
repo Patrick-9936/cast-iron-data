@@ -29,8 +29,6 @@ abilities = ["14", "17", "16", "11", "14", "11"]
 _This monstrous creature appears to be an enormous spider with a human-like head. Sickly blisters
 holding squirming young cover the creature's abdomen._
 
-**Chelarac Broodling**
-
 **Challenge rating:** 2
 
 **Type:** aberration

@@ -33,8 +33,6 @@ abilities = ["17", "17", "-", "12", "14", "1"]
 _A soft whirring noise accompanies this flying mechanical creature. Its arms and hands end in
 spindly, multi-jointed fingers, and four circular rotors hold the creature aloft._
 
-**Collector Robot**
-
 **Challenge rating:** 3
 
 **Type:** construct

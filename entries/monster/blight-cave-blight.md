@@ -31,8 +31,6 @@ abilities = ["40", "34", "32", "22", "29", "24"]
 
 _Muscular tentacles ending in stalagmite-like stingers extend from this pale brown slime._
 
-**Cave Blight**
-
 **Challenge rating:** 19
 
 **blindsight:** 120

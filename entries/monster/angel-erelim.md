@@ -31,8 +31,6 @@ abilities = ["15", "17", "16", "11", "14", "12"]
 
 _This athletic, winged humanoid has handsome features and wields a shining lance._
 
-**Erelim**
-
 **Challenge rating:** 6
 
 **aura:** protective aura

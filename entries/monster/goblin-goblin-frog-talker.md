@@ -30,8 +30,6 @@ special_qualities = "witch's familiar (frog)"
 abilities = ["6", "17", "14", "16", "12", "8"]
 +++
 
-**Goblin Frog-Talker**
-
 **Challenge rating:** 5
 
 **Goblin [witch](ref/class/witch) 6**

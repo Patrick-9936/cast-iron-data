@@ -32,8 +32,6 @@ abilities = ["10", "6", "15", "16", "11", "17"]
 _This slug-like humanoid has neither arms nor legs and is covered in spiked, rusted chains. Its
 lolling tongue drips with thick saliva._
 
-**Joyful Thing**
-
 **Challenge rating:** 6
 
 **Initiative:** +2

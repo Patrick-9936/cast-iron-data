@@ -32,8 +32,6 @@ abilities = ["24", "17", "18", "7", "14", "15"]
 _The body of this enormous serpent is covered in mirror-like scales, and a pair of luminous blue
 eyes gazes from a horned head that ends in an elongated, toothy snout._
 
-**Mirror Serpent**
-
 **Challenge rating:** 5
 
 **Initiative:** +3

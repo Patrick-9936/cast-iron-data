@@ -29,8 +29,6 @@ abilities = ["16", "16", "13", "15", "16", "19"]
 _This blue-skinned humanoid has two pairs of ebony wings protruding from its waist. Talon-like nails
 grace its hands._
 
-**Vayuphak**
-
 **Challenge rating:** 5
 
 **aura:** elusive (30 ft.), [mental static](ref/umr/mental-static-aura) (30 ft., DC 18)

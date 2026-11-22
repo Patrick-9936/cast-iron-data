@@ -33,8 +33,6 @@ abilities = ["18", "9", "-", "-", "11", "1"]
 _With its feet planted firmly together, this marble statue of a female warrior holding a stone sword
 rises up to support the ceiling._
 
-**Caryatid Column**
-
 **Challenge rating:** 3
 
 **Type:** construct

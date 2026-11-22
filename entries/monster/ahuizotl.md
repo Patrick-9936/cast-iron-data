@@ -34,8 +34,6 @@ abilities = ["20", "17", "17", "9", "14", "16"]
 _This bear-sized beast has a body like a squat simian, a dog's face, and a long tail that ends in a
 clawed hand._
 
-**Ahuizotl**
-
 **Challenge rating:** 6
 
 **Initiative:** +7

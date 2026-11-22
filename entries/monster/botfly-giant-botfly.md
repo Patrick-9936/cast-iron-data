@@ -30,8 +30,6 @@ abilities = ["2", "14", "10", "-", "11", "2"]
 _This foot-long, gray-and-black-striped insect looks like a cross between a bee and fly, with an
 oversized head and bulbous eyes._
 
-**Giant Botfly**
-
 **Challenge rating:** 1/3
 
 **Initiative:** +2

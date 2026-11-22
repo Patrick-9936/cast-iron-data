@@ -31,8 +31,6 @@ abilities = ["22", "28", "22", "3", "15", "9"]
 _A tremendous bramble of intertwined bushes rises from a sizable pile of bones heaped at its roots,
 and its thorny flowers drip blood._
 
-**Blood Bramble**
-
 **Challenge rating:** 10
 
 **Initiative:** +13

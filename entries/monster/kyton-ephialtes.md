@@ -32,8 +32,6 @@ immense size. An infernal, gasping hiss draws the darkness back, revealing a tor
 fiend of exposed bone and ragged flesh draped in chains. Barbs and hooks hang from these wrought
 iron bands, matching the fiend's tail as they writhe like snakes in search of prey._
 
-**Ephialtes**
-
 **Challenge rating:** 16
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (30 ft., DC 22)

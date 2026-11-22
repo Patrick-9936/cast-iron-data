@@ -34,8 +34,6 @@ abilities = ["15", "11", "12", "6", "10", "13"]
 _This deformed, horned, hunchbacked humanoid has a forked, rat-like tail and two thumbs on each
 taloned hand._
 
-**Abrikandilu**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

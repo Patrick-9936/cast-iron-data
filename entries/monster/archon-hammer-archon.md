@@ -32,8 +32,6 @@ abilities = ["23", "13", "30", "16", "20", "19"]
 _This stern-looking humanoid wears a suit of armor decorated with sharp lines. He wields a
 hammer-headed polearm with a wicked spike on its reverse side._
 
-**Hammer Archon**
-
 **Challenge rating:** 18
 
 **aura:** aura of menace (20 ft., DC 26)

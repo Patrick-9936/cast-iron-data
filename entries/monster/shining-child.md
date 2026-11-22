@@ -32,8 +32,6 @@ abilities = ["10", "17", "18", "15", "11", "24"]
 _Surrounded by a nimbus of near-blinding light, this strange creature looks something like an
 emaciated child with clawed hands._
 
-**Shining Child**
-
 **Challenge rating:** 12
 
 **aura:** blinding light (60 feet)

@@ -33,8 +33,6 @@ abilities = ["17", "23", "20", "15", "16", "16"]
 _Great feathers sweep back from this fierce bird-man's brow, and long, clawed hands grow from the
 end of his wings._
 
-**Avoral**
-
 **Challenge rating:** 9
 
 **aura:** fear aura (20 ft., DC 17)

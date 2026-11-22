@@ -30,8 +30,6 @@ abilities = ["28", "21", "24", "16", "17", "29"]
 _Its body seemingly made of iron, this shapely feminine form has wrists pierced by chains that end
 in curved blades._
 
-**Crucidaemon**
-
 **Challenge rating:** 15
 
 **Initiative:** +9

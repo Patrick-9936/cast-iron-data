@@ -31,8 +31,6 @@ abilities = ["18", "23", "18", "11", "17", "18"]
 _This brilliantly colored moth rises taller than a house. A long tail resembling peacock feathers
 trails behind the creature._
 
-**Star Monarch**
-
 **Challenge rating:** 9
 
 **aura:** dreamwarden (30 ft.)

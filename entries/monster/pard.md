@@ -30,8 +30,6 @@ abilities = ["15", "24", "12", "4", "13", "11"]
 _This brightly-colored feline blur resembles a cheetah with longer fur and lynx-like ears, and seems
 to scorch the air as it moves._
 
-**Pard**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic neutral

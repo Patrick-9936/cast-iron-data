@@ -32,8 +32,6 @@ abilities = ["10", "17", "12", "14", "19", "21"]
 
 _This creature has the body of a hawk and the head of a beautiful woman with long, shining hair._
 
-**Siren**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic neutral

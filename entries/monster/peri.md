@@ -30,8 +30,6 @@ abilities = ["22", "24", "19", "21", "19", "26"]
 
 _This beautiful albino woman is wreathed in wings of brilliant flame._
 
-**Peri**
-
 **Challenge rating:** 14
 
 **Initiative:** +7

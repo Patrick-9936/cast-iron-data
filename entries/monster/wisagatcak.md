@@ -30,8 +30,6 @@ abilities = ["21", "24", "25", "18", "20", "21"]
 
 _This spider-like monstrosity watches quietly, skittering about on six needle-sharp legs._
 
-**Wisagatcak**
-
 **Challenge rating:** 14
 
 **aura:** insidious whispers (60 ft., DC 23)

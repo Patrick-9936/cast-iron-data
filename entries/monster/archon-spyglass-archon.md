@@ -32,8 +32,6 @@ _The movements of this black-skinned humanoid are unnaturally quiet, clearly bel
 to slinking unseen and unheard through dark places. Ebon wings and a matching mask complete this
 figure's stealthy appearance._
 
-**Spyglass Archon**
-
 **Challenge rating:** 3
 
 **aura:** aura of menace (DC 13), _[magic circle against evil](ref/spell/magic-circle-against-evil)_

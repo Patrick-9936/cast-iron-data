@@ -31,8 +31,6 @@ abilities = ["26", "24", "25", "-", "16", "1"]
 _Half-formed eyes, toothless mouths, gaping throats, and countless other malformed organs constantly
 form and dissolve over this monster's surface._
 
-**Proto-Shoggoth**
-
 **Challenge rating:** 11
 
 **Initiative:** +7

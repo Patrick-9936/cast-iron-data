@@ -33,8 +33,6 @@ abilities = ["23", "20", "24", "18", "19", "21"]
 _This creature has curling ram's horns, metallic flesh that bears coiling ribbons of rust, and wings
 covered with rusty metallic feathers, each resembling a weathered dagger._
 
-**Rust Devil (Ferrugon)**
-
 **Challenge rating:** 12
 
 **Initiative:** +5

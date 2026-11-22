@@ -31,8 +31,6 @@ abilities = ["11", "16", "15", "-", "1", "2"]
 _What seems to be a mass of diseased fibers growing on a plant suddenly moves and slithers
 independently from its sickly host._
 
-**Garden Ooze**
-
 **Challenge rating:** 2
 
 **blindsight:** 60

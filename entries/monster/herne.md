@@ -31,8 +31,6 @@ abilities = ["18", "17", "16", "11", "16", "15"]
 _Seemingly one with the forest, this tall man is dressed in the browns and greens of a woodsman and
 sports a pair of stag's antlers upon his brow._
 
-**Herne**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic neutral

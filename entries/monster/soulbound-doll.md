@@ -32,8 +32,6 @@ abilities = ["7", "14", "-", "11", "10", "9"]
 
 _This doll's glass eyes glisten with unmistakable curiosity as it comes to life with a fluid grace._
 
-**Soulbound Doll**
-
 **Challenge rating:** 2
 
 **Alignment:** N (but see below)

@@ -30,8 +30,6 @@ abilities = ["12", "1", "16", "-", "1", "1"]
 _Dozens of tiny globs of slime move on their own, acting as one being, alternately clinging to each
 other and separating in a riot of oozing momentum._
 
-**Sanguine Ooze Swarm**
-
 **Challenge rating:** 1/3
 
 **blindsight:** 60

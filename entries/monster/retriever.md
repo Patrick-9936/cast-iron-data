@@ -32,8 +32,6 @@ abilities = ["22", "16", "-", "3", "11", "1"]
 _A spider the size of a bull elephant rears up on its back four legs in a violent challenge, eyes
 shimmering with magical energy._
 
-**Retriever**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic evil

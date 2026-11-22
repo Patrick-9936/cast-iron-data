@@ -30,8 +30,6 @@ abilities = ["36", "18", "21", "-", "11", "5"]
 _This terrifying monstrosity towers taller than the mightiest jungle trees, its forelimbs raised in
 a meditative, deadly stance._
 
-**Deadly Mantis**
-
 **Challenge rating:** 11
 
 **Size:** colossal

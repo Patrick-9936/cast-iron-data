@@ -31,8 +31,6 @@ abilities = ["28", "20", "30", "23", "27", "25"]
 _This towering humanoid creature has shining topaz eyes, metallic skin, and three pairs of white
 wings._
 
-**Solar**
-
 **Challenge rating:** 23
 
 **aura:** protective aura

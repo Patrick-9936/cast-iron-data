@@ -34,8 +34,6 @@ abilities = ["15", "14", "19", "20", "16", "17"]
 _This strange being has a star-shaped head and numerous writhing appendages arranged radially around
 its barrel-shaped body._
 
-**Elder Thing**
-
 **Challenge rating:** 5
 
 **Type:** aberration

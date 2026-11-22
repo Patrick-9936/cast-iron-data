@@ -30,8 +30,6 @@ abilities = ["8", "14", "11", "11", "12", "11"]
 _Ram horns curl back from the twisted head of this tiny winged demon, and its body is thin and
 wiry._
 
-**Quasit**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

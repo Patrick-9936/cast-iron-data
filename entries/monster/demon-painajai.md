@@ -32,8 +32,6 @@ abilities = ["27", "16", "29", "18", "18", "19"]
 _The eight spider eyes of this pale, towering humanoid glisten hungrily, and its mouth contains
 dozens of sharp teeth. It carries a barbed spear with a long, clinking chain attached to its end._
 
-**Painajai**
-
 **Challenge rating:** 14
 
 **aura:** [mental static](ref/umr/mental-static-aura) (DC 21)

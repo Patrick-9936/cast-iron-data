@@ -34,8 +34,6 @@ abilities = ["24", "26", "22", "21", "18", "24"]
 _This defiant, angelic woman has two black wings and three white wings, and bears a crystalline
 halberd._
 
-**Thais**
-
 **Challenge rating:** 15
 
 **aura:** bravery (30 ft.)

@@ -30,8 +30,6 @@ abilities = ["21", "24", "24", "19", "21", "22"]
 _This hollow-eyed, blue-skinned woman has a vulture's wings, bird-like talons for hands and feet,
 and a fang-filled mouth._
 
-**Rabisu**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic evil

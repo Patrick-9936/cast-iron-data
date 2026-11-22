@@ -18,8 +18,6 @@ cr = "4"
 _This woman's face shows a stern expression. Frost clings to her skin and clothes, though she
 doesn't appear to notice._
 
-**Winter Witch Baroness**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

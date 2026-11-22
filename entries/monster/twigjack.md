@@ -31,8 +31,6 @@ abilities = ["8", "16", "15", "11", "14", "13"]
 _This tiny, vaguely humanoid creature seems to be made completely of bundles of sticks wound with
 thorny vines._
 
-**Twigjack**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

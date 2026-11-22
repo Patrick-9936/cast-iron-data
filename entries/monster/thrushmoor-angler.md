@@ -32,8 +32,6 @@ abilities = ["21", "13", "20", "12", "14", "17"]
 _Razor-sharp teeth line the huge mouth of this bloated, slimecovered amphibian. A glittering,
 luminescent organ suspended by a fleshy tether hangs like a lantern above its head._
 
-**Thrushmoor Angler**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic neutral

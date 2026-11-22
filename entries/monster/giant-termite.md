@@ -29,8 +29,6 @@ abilities = ["17", "11", "14", "-", "12", "7"]
 
 _This pony-sized insect has long black mandibles and a banded abdomen of white._
 
-**Giant Termite**
-
 **Challenge rating:** 3
 
 **Initiative:** +0

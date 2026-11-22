@@ -30,8 +30,6 @@ abilities = ["-", "32", "-", "15", "18", "25"]
 
 _This grinning spectre has mad eyes and blood-red hands that twitch and jerk like a puppeteer's._
 
-**Dybbuk**
-
 **Challenge rating:** 15
 
 **Initiative:** +15

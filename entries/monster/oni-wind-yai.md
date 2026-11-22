@@ -32,8 +32,6 @@ abilities = ["35", "16", "22", "15", "20", "21"]
 _A third eye rests on the forehead of this ornately robed giantess, her figure half-shrouded in the
 darkness of a starry night that swirls continuously about her._
 
-**Wind Yai**
-
 **Challenge rating:** 16
 
 **Size:** huge

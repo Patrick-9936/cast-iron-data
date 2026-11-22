@@ -31,8 +31,6 @@ abilities = ["27", "17", "20", "14", "14", "15"]
 _This lion-headed humanoid has golden fur, sharp teeth, and long cat-like claws on its hands and
 feet._
 
-**Leonal**
-
 **Challenge rating:** 12
 
 **aura:** protective aura (20 ft.)

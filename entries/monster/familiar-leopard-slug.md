@@ -29,8 +29,6 @@ abilities = ["1", "4", "12", "-", "7", "9"]
 
 _This dark-yellow, hand-length slug is covered in a pattern of black spots and stripes._
 
-**Leopard Slug**
-
 **Challenge rating:** -
 
 **Size:** diminutive

@@ -32,8 +32,6 @@ abilities = ["4", "16", "10", "10", "16", "14"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold Devilspeaker**
-
 **Challenge rating:** 7
 
 **Kobold [cleric](ref/class/cleric) of [Asmodeus](ref/faith/asmodeus) 8**

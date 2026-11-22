@@ -33,8 +33,6 @@ abilities = ["33", "25", "28", "22", "26", "27"]
 _This limber and regal humanoid has an elk's antlers, long pointed ears, flowing white hair, and
 luminescent green eyes._
 
-**Wild Hunt Monarch**
-
 **Challenge rating:** 19
 
 **Alignment:** Chaotic neutral

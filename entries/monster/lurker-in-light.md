@@ -34,8 +34,6 @@ abilities = ["13", "18", "15", "14", "16", "17"]
 _This large-eyed humanoid looks like a glowing, emaciated elven child save for its small,
 transparent wings._
 
-**Lurker in Light**
-
 **Challenge rating:** 5
 
 **Type:** fey

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "2"
 +++
 
-**Haughty Avenger**
-
 **Challenge rating:** 2
 
 **XP** 600\

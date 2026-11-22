@@ -32,8 +32,6 @@ abilities = ["8", "21", "-", "10", "15", "1"]
 _Spinning blades, long needles, and crystal-tipped rods stud the surface of this hovering metallic
 sphere._
 
-**Torturer Robot**
-
 **Challenge rating:** 8
 
 **Type:** construct

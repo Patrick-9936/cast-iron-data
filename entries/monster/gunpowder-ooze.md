@@ -34,8 +34,6 @@ abilities = ["28", "11", "24", "-", "1", "1"]
 _This lurching mass of slime and gunpowder leaves a trail of shiny black residue in its wake, and
 shudders with concussive energy._
 
-**Gunpowder Ooze**
-
 **Challenge rating:** 14
 
 **Initiative:** +0

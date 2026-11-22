@@ -31,8 +31,6 @@ abilities = ["19", "14", "16", "15", "12", "17"]
 _This pale, pudgy humanoid is clad in a greasy traveling cloak and a wide-brimmed hat. A
 bloodstained burlap sack hangs over its shoulder._
 
-**Bagman**
-
 **Challenge rating:** 4
 
 **Type:** fey

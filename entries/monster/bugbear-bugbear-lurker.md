@@ -32,8 +32,6 @@ abilities = ["14", "18", "16", "13", "10", "10"]
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with
 the thrill of the coming kill._
 
-**Bugbear Lurker**
-
 **Challenge rating:** 8
 
 **Bugbear [rogue](ref/class/rogue) 7**

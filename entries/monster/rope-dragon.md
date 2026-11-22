@@ -30,8 +30,6 @@ abilities = ["16", "18", "17", "11", "15", "14"]
 
 _This small dragon, which appears to be composed of coils of rope, bristles with frayed filaments._
 
-**Rope Dragon**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic neutral

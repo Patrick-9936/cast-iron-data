@@ -29,8 +29,6 @@ abilities = ["20", "11", "-", "-", "11", "1"]
 
 _Thin veins of black rock crisscross the frame of this hulking construct._
 
-**Marrowstone Golem**
-
 **Challenge rating:** 8
 
 **aura:** necrotic field (30 ft.)

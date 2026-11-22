@@ -30,8 +30,6 @@ special_qualities = "icicle 9/day (1d6+3)"
 abilities = ["34", "8", "18", "13", "23", "14"]
 +++
 
-**Frost Giant Battle Priest**
-
 **Challenge rating:** 13
 
 **[Frost giant](ref/monster/giant-frost-frost-giant) [cleric](ref/class/cleric) 8**

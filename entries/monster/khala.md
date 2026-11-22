@@ -34,8 +34,6 @@ abilities = ["30", "22", "27", "22", "21", "25"]
 _This dragon has broad, ragged wings. Its serpentine body ends in three long, flailing necks with
 hissing, triangular heads._
 
-**Khala**
-
 **Challenge rating:** 17
 
 **Alignment:** Chaotic evil

@@ -31,8 +31,6 @@ abilities = ["18", "17", "16", "12", "15", "17"]
 _This golden-skinned fiend has horns, fangs, and bulging eyes. It grips a spiked club in its
 four-fingered claws._
 
-**Kuwa**
-
 **Challenge rating:** 4
 
 **Initiative:** +3

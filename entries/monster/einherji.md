@@ -32,8 +32,6 @@ abilities = ["19", "16", "19", "10", "14", "11"]
 
 _Holding a massive battleaxe and shield, this tall, helmed warrior is grim and fierce._
 
-**Einherji**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic neutral

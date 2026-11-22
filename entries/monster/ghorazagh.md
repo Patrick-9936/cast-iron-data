@@ -33,8 +33,6 @@ abilities = ["22", "17", "26", "15", "17", "16"]
 _With an armored spherical body, numerous tentacular legs, and a multi-eyed visage, this creature is
 truly hideous._
 
-**Ghorazagh**
-
 **Challenge rating:** 13
 
 **Type:** aberration

@@ -34,8 +34,6 @@ abilities = ["12", "9", "14", "8", "11", "11"]
 _This humanoid's scaly hide is dull gray. Its frame resembles that of a cave lizard, with a long
 tail and crests on its head and back._
 
-**Troglodyte**
-
 **Challenge rating:** 1
 
 **aura:** [stench](ref/umr/stench) (30 ft., DC 13, 10 rounds)

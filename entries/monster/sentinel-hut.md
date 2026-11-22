@@ -30,8 +30,6 @@ abilities = ["25", "17", "-", "-", "11", "16"]
 _This strange windowless cabin, with a steep thatched roof and a single door painted red, stands on
 an enormous pair of knobby legs._
 
-**Sentinel Hut**
-
 **Challenge rating:** 8
 
 **Type:** construct

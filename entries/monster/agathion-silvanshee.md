@@ -30,8 +30,6 @@ abilities = ["3", "15", "12", "10", "12", "13"]
 
 _This black cat has gray stripes, violet eyes, and an unusual white blaze on its chest._
 
-**Silvanshee**
-
 **Challenge rating:** 2
 
 **Initiative:** +6

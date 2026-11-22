@@ -32,8 +32,6 @@ abilities = ["5", "9", "14", "-", "11", "2"]
 _This many-legged crustacean is the size of a sewer rat, its body protected by several thick
 shell-like plates._
 
-**Giant Isopod**
-
 **Challenge rating:** 1/8
 
 **Initiative:** -1

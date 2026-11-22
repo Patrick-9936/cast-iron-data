@@ -32,8 +32,6 @@ abilities = ["24", "17", "18", "2", "11", "5"]
 _This creature's bulbous compound eyes peer in all directions as its twin mandibles twitch and
 gnash. Six legs, each ending in spade-like claws, support its bulk._
 
-**Shalkeshka**
-
 **Challenge rating:** 8
 
 **Initiative:** +3

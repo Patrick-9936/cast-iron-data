@@ -29,8 +29,6 @@ abilities = ["22", "18", "21", "10", "17", "13"]
 _This mighty horse has eight powerful legs. Its hooves leave shimmering hoofprints that quickly fade
 to mist._
 
-**Sleipnir**
-
 **Challenge rating:** 11
 
 **Initiative:** +4

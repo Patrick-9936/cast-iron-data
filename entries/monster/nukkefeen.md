@@ -30,8 +30,6 @@ abilities = ["14", "15", "11", "10", "10", "7"]
 
 _This eerie creature resembles a human with oddly segmented limbs, waxen skin, and doll-like eyes._
 
-**Nukkefeen**
-
 **Challenge rating:** 1
 
 **blindsight:** 60

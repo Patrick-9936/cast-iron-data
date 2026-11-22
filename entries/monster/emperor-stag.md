@@ -28,8 +28,6 @@ abilities = ["15", "18", "20", "2", "15", "11"]
 
 _A wide rack of ivory-white antlers crowns the head of this majestic tawny stag._
 
-**Emperor Stag**
-
 **Challenge rating:** 3
 
 **Type:** animal

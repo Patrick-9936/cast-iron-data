@@ -31,8 +31,6 @@ abilities = ["23", "10", "21", "6", "8", "16"]
 _This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy face features a wide
 mouth with ill-fitting teeth._
 
-**Ogre King**
-
 **Challenge rating:** 13
 
 **Ogre [oracle](ref/class/oracle) 12**

@@ -30,8 +30,6 @@ abilities = ["41", "13", "22", "-", "10", "2"]
 _This massive brown-and-green tarantula is the size of a large house and has huge, razor-sharp
 fangs._
 
-**Goliath Spider**
-
 **Challenge rating:** 11
 
 **Size:** colossal

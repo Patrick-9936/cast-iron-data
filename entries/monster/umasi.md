@@ -31,8 +31,6 @@ abilities = ["18", "15", "17", "10", "13", "8"]
 _An emaciated humanoid bursts through the trees, brandishing a knife of black stone. His body is a
 patchwork of hair, skin, scales, and strange limbs stitched together with thick, black thread._
 
-**Umasi**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

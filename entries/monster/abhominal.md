@@ -31,8 +31,6 @@ abilities = ["18", "17", "-", "7", "16", "17"]
 _This gaunt humanoid has pale, translucent skin and is arched backward, scuttling on its hands and
 feet. A mass of barbed, black tentacles extends from its exposed abdomen._
 
-**Abhominal**
-
 **Challenge rating:** 6
 
 **Initiative:** +7

@@ -33,8 +33,6 @@ abilities = ["21", "25", "24", "14", "15", "24"]
 _Vaguely humanoid in shape, this gaunt fiend has the face of a hideous fish and a body of lanky
 limbs and writhing tendrils._
 
-**Astradaemon**
-
 **Challenge rating:** 16
 
 **aura:** soul siphon (10 ft.)

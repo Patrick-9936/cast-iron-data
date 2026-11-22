@@ -31,8 +31,6 @@ abilities = ["3", "15", "12", "2", "15", "7"]
 _The pitch-black birds that make up this torrent of claws and feathers glare ominously from hundreds
 of beady eyes._
 
-**Raven Swarm**
-
 **Challenge rating:** 3
 
 **Type:** animal

@@ -28,8 +28,6 @@ abilities = ["10", "15", "12", "2", "15", "7"]
 
 _This magnificent bird of prey has dark feathers save for those on its head, which are pure white._
 
-**Eagle**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

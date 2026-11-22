@@ -31,8 +31,6 @@ abilities = ["11", "16", "14", "11", "11", "14"]
 _A sphere of bronze and copper set with a single eye, this winged creature has two clawed hands, one
 of which clutches a knife._
 
-**Arbiter**
-
 **Challenge rating:** 2
 
 **Initiative:** +3

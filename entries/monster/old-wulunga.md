@@ -31,8 +31,6 @@ abilities = ["17", "20", "17", "2", "15", "11"]
 _This bloated, pinniped-like mammal is covered in salty grime, and its sturdy, blunt tusks promise
 an agonizing death._
 
-**Old Wulunga**
-
 **Challenge rating:** 6
 
 **Male advanced muck bunyip**

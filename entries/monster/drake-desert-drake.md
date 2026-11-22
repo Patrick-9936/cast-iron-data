@@ -32,8 +32,6 @@ abilities = ["22", "15", "21", "8", "11", "12"]
 _This sleek dragon has scales mottled in desert colors, lacks forelimbs, and sports massive wings on
 its lissome back._
 
-**Desert Drake**
-
 **Challenge rating:** 8
 
 **Type:** dragon

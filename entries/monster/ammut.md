@@ -32,8 +32,6 @@ _This massive creature has the head of a crocodile, the mane and torso of a lion
 hindquarters of a hippopotamus. The wickedly curved claws on the creature's forepaws pale in
 comparison to the danger of its mighty jaws._
 
-**Ammut**
-
 **Challenge rating:** 18
 
 **aura:** fear aura (30 ft., DC 29)

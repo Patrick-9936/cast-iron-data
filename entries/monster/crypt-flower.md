@@ -32,8 +32,6 @@ abilities = ["20", "12", "14", "-", "13", "6"]
 _A lone petal hangs over the opening of this bulbous, pitcher-shaped flower, which is flanked by a
 pair of serpentine vines._
 
-**Crypt Flower**
-
 **Challenge rating:** 7
 
 **Initiative:** +1

@@ -29,8 +29,6 @@ abilities = ["7", "15", "13", "10", "12", "10"]
 _This housecat-sized miniature dragon has fine scales, sharp horns, wicked little teeth, and a tail
 tipped with a barbed stinger._
 
-**Pseudodragon**
-
 **Challenge rating:** 1
 
 **blindsense:** 60

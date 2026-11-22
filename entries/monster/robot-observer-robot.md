@@ -33,8 +33,6 @@ abilities = ["12", "15", "-", "10", "17", "1"]
 _This small robot is reminiscent of a beetle with a pair of pincers extending from the front of its
 body._
 
-**Observer Robot**
-
 **Challenge rating:** 2
 
 **Type:** construct

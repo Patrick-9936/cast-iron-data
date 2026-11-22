@@ -31,8 +31,6 @@ abilities = ["1", "15", "12", "-", "13", "2"]
 _A high-pitched whine issues forth from the haze of this surging crimson cloud. Within, thousands of
 tiny forms whir in agitation, each a tiny insect with a needle-like proboscis._
 
-**Bloodhaze Mosquito Swarm**
-
 **Challenge rating:** 6
 
 **Size:** fine

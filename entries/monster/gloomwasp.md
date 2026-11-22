@@ -31,8 +31,6 @@ abilities = ["12", "21", "16", "5", "14", "17"]
 
 _The stinger and antennae of this dog-sized wasp pulsate with a dim, violet light._
 
-**Gloomwasp**
-
 **Challenge rating:** 6
 
 **Initiative:** +5

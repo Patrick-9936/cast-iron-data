@@ -35,8 +35,6 @@ and raw like the victim of horrific burns. Although barely taller than a child, 
 those of a terrible old man with an oversized head, knife-like nose, and crazed round eyes
 flickering with wild flames._
 
-**Tinder Devil (Ukobach)**
-
 **Challenge rating:** 4
 
 **Initiative:** +8

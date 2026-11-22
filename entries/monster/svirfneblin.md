@@ -33,8 +33,6 @@ abilities = ["13", "15", "14", "10", "10", "8"]
 _This bald gnome has rocky gray skin and a wiry physique. Its pale eyes are overly large and
 expressive._
 
-**Svirfneblin**
-
 **Challenge rating:** 1
 
 **Svirfneblin [ranger](ref/class/ranger) 1**

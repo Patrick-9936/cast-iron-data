@@ -29,8 +29,6 @@ abilities = ["19", "10", "17", "2", "13", "4"]
 _The vicious spines surrounding this boar's head are almost as unnerving as the wild look in its
 eyes._
 
-**Bristle Boar**
-
 **Challenge rating:** 3
 
 **Type:** animal

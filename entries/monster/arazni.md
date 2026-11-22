@@ -32,8 +32,6 @@ abilities = ["24", "22", "-", "39", "18", "31"]
 _This gray-skinned woman wears a royal gown that exposes the top of a jagged incision down the
 middle of her chest._
 
-**Arazni**
-
 **Challenge rating:** 26
 
 **Mythic rank:** 8

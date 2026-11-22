@@ -28,8 +28,6 @@ melee = "slam +15 (3d6+15 plus grab)"
 abilities = ["30", "12", "19", "2", "15", "9"]
 +++
 
-**Lurker Above**
-
 **Challenge rating:** 7
 
 **Type:** aberration

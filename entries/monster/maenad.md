@@ -31,8 +31,6 @@ abilities = ["19", "18", "20", "13", "16", "21"]
 _This wild-looking woman is covered in spattered blood. Her wicked smile reveals sharp teeth and her
 eyes suggest insanity._
 
-**Maenad**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

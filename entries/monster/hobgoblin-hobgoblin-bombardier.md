@@ -33,8 +33,6 @@ abilities = ["12", "18", "16", "14", "10", "8"]
 _Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant
 eyes._
 
-**Hobgoblin Bombardier**
-
 **Challenge rating:** 7
 
 **Hobgoblin [alchemist](ref/class/alchemist) ([grenadier](ref/arc-alchemist/grenadier)) 8**

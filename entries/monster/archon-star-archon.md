@@ -31,8 +31,6 @@ abilities = ["24", "19", "31", "20", "24", "23"]
 _This powerful humanoid floats in the air on a nimbus of pearly light. He grips a golden starknife
 in one hand._
 
-**Star Archon**
-
 **Challenge rating:** 19
 
 **aura:** aura of courage ([paladin](ref/class/paladin)), aura of menace (DC 27),

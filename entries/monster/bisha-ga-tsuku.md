@@ -31,8 +31,6 @@ abilities = ["20", "22", "18", "13", "19", "19"]
 _Two clawed feet extend from a mysterious mobile fog bank, and dark eyes glow balefully from the
 mist._
 
-**Bisha Ga Tsuku**
-
 **Challenge rating:** 9
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (30 ft., DC 20), hoarfrost halo (30 ft.,

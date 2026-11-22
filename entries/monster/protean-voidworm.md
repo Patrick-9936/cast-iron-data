@@ -30,8 +30,6 @@ abilities = ["7", "17", "10", "8", "8", "13"]
 _This tiny, iridescent serpent slithers through empty space, the air around it distorting as if from
 heat._
 
-**Voidworm**
-
 **Challenge rating:** 2
 
 **blindsense:** 30

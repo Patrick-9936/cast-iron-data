@@ -30,8 +30,6 @@ abilities = ["25", "18", "24", "14", "15", "17"]
 _This hideous cross between a lobster, an octopus, and a human threatens enemies with powerful claws
 and writhing tentacles._
 
-**Piscodaemon**
-
 **Challenge rating:** 10
 
 **Initiative:** +8

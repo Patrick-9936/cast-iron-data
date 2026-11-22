@@ -33,8 +33,6 @@ abilities = ["26", "11", "-", "-", "11", "1"]
 _A bizarre thrum echoes from somewhere deep within this towering stone hulk, and blue liquid runs
 down its shuddering body._
 
-**Tiberolith**
-
 **Challenge rating:** 10
 
 **Type:** construct

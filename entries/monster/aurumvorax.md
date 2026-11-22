@@ -28,8 +28,6 @@ abilities = ["21", "18", "18", "2", "13", "11"]
 
 _Powerful muscles ripple beneath the golden fur of this small yet fearsome eight-legged beast._
 
-**Aurumvorax**
-
 **Challenge rating:** 9
 
 **Initiative:** +8

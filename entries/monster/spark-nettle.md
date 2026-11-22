@@ -33,8 +33,6 @@ fringe of bird's feathers around its quivering central mass and long tentacles t
 center, with each tentacle ending in a snapping beak. It sings to itself as it flies, each beak
 making a different note in an eerie harmony._
 
-**Spark Nettle**
-
 **Challenge rating:** 6
 
 **blindsight:** 30

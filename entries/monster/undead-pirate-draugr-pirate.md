@@ -29,8 +29,6 @@ abilities = ["21", "14", "-", "10", "12", "13"]
 
 _No flavor text._
 
-**Draugr Pirate**
-
 **Challenge rating:** 3
 
 **Draugr [rogue](ref/class/rogue) 1**

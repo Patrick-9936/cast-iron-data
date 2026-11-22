@@ -35,8 +35,6 @@ abilities = ["20", "31", "20", "21", "31", "22"]
 _This bald old human man has long white eyebrows and an even longer white beard. He carries a staff
 adorned with metal rings._
 
-**The Old Man**
-
 **Challenge rating:** 15
 
 **blindsight:** 30

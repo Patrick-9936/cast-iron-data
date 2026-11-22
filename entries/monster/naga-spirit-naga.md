@@ -29,8 +29,6 @@ abilities = ["18", "20", "21", "12", "17", "17"]
 
 _Yellowed, venom-dripping fangs fill the human-like mouth of this sinister serpentine monstrosity._
 
-**Spirit Naga**
-
 **Challenge rating:** 9
 
 **Type:** aberration

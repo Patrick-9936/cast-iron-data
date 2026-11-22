@@ -31,8 +31,6 @@ abilities = ["24", "13", "18", "15", "12", "13"]
 
 _This silent dragon seems to gather shadows and gloom around its tattered-appearing wings._
 
-**Young Etheric Dragon**
-
 **Challenge rating:** 7
 
 **Type:** dragon

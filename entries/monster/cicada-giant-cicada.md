@@ -29,8 +29,6 @@ abilities = ["11", "13", "16", "-", "11", "2"]
 
 _Trim wings fold along the back of this oblong, iridescent insect._
 
-**Giant Cicada**
-
 **Challenge rating:** 1
 
 **Initiative:** +1

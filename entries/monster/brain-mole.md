@@ -30,8 +30,6 @@ abilities = ["4", "14", "13", "2", "15", "11"]
 _This hairless, wrinkly rodent is blue-black in color. Its teeth protrude at all angles from its
 circular mouth._
 
-**Brain Mole**
-
 **Challenge rating:** 1
 
 **Initiative:** +2

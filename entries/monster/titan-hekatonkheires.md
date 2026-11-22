@@ -32,8 +32,6 @@ abilities = ["48", "15", "43", "22", "19", "24"]
 _This behemoth looks like a towering humanoid with fifty heads and twice as many hands, each
 wielding a different weapon._
 
-**Hekatonkheires**
-
 **Challenge rating:** 24
 
 **Alignment:** Chaotic evil

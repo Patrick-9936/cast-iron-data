@@ -31,8 +31,6 @@ abilities = ["29", "14", "20", "1", "15", "2"]
 _This great, writhing aquatic beast is pale blue with bright yellow stripes, and possesses a
 flipper-like tail to aid it as it swims._
 
-**Giant Sea Snake**
-
 **Challenge rating:** 7
 
 **Type:** animal

@@ -30,8 +30,6 @@ abilities = ["12", "17", "14", "19", "16", "19"]
 
 _This iguana-headed scholar wears a robe of frills and scales covered in baubles and trinkets._
 
-**Reptial**
-
 **Challenge rating:** 4
 
 **Initiative:** +7

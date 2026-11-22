@@ -33,8 +33,6 @@ abilities = ["14", "15", "14", "14", "10", "8"]
 _This small, rat-like humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery
 tail._
 
-**Ratfolk Warden**
-
 **Challenge rating:** 4
 
 **Ratfolk [fighter](ref/class/fighter) 5**

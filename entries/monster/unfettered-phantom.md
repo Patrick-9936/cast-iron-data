@@ -31,8 +31,6 @@ abilities = ["16", "16", "17", "10", "11", "13"]
 
 _This strange ghostly creature seems to writhe in the throes of some uncontrollable emotion._
 
-**Unfettered Phantom**
-
 **Challenge rating:** 4
 
 **Initiative:** +3

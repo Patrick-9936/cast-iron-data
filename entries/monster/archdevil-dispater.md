@@ -31,8 +31,6 @@ abilities = ["34", "29", "38", "33", "30", "33"]
 _This diabolic figure is draped in a kingly robe and crowned with iron horns. He bears a long, heavy
 mace of black metal._
 
-**Dispater**
-
 **Challenge rating:** 27
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 37), shield of law (DC 29)

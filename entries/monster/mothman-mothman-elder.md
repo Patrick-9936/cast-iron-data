@@ -31,8 +31,6 @@ abilities = ["17", "20", "18", "17", "21", "20"]
 _Two colorful membranous wings rise behind this large insect-like humanoid, forming and reforming
 into complex patterns._
 
-**Mothman Elder**
-
 **Challenge rating:** 12
 
 **aura:** warp elements (120 ft., DC 22)

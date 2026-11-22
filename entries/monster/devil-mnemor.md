@@ -31,8 +31,6 @@ abilities = ["18", "18", "18", "17", "15", "17"]
 _This ghoulish figure wears a tattered robe and stares with milky-white eyes, a proboscis-like
 tongue snaking out over its distended jaw._
 
-**Mnemor**
-
 **Challenge rating:** 5
 
 **Initiative:** +8

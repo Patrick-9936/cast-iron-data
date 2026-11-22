@@ -34,8 +34,6 @@ abilities = ["42", "10", "-", "2", "11", "23"]
 _This hulking mass of blubber and bone looks like it was once a whale. Ghostly flames glow in each
 of its eye sockets._
 
-**Bakekujira**
-
 **Challenge rating:** 17
 
 **aura:** undead parasites (30 ft., DC 28)

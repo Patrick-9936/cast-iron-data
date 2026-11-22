@@ -32,8 +32,6 @@ abilities = ["50", "21", "41", "3", "30", "26"]
 _This towering saurian lumbers on its hind legs, its twin tails thrashing and the spines on its back
 glowing with red energy._
 
-**Mogaru**
-
 **Challenge rating:** 28
 
 **Alignment:** Chaotic neutral

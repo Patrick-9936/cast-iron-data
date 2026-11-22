@@ -30,8 +30,6 @@ abilities = ["15", "15", "15", "2", "12", "10"]
 _This stocky, muscular mammal is the size of a badger, its snarling lips revealing a mouth full of
 yellow teeth._
 
-**Wolverine**
-
 **Challenge rating:** 2
 
 **Type:** animal

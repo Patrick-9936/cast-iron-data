@@ -31,8 +31,6 @@ abilities = ["14", "11", "-", "7", "12", "15"]
 _This mass of detritus, sea foam, and seaweed undulates and quivers as it moves. The mass has a
 humanoid shape roughly the size of a child._
 
-**Flotsam Terror**
-
 **Challenge rating:** 4
 
 **Initiative:** +4

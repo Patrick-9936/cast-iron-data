@@ -29,8 +29,6 @@ abilities = ["21", "17", "-", "8", "15", "14"]
 _This monstrously sized, undead bat has mottled, decayed flesh and eyes that smolder with an unholy
 green glow._
 
-**Skaveling**
-
 **Challenge rating:** 5
 
 **blindsense:** 120

@@ -30,8 +30,6 @@ abilities = ["17", "15", "16", "-", "11", "8"]
 _Coiling around several human skeletons, this wet green plant's sickly flowers smoke with a nasty
 yellow vapor._
 
-**Yellow Musk Creeper**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

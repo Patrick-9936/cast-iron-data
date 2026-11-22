@@ -30,8 +30,6 @@ abilities = ["15", "13", "-", "-", "10", "13"]
 _Thick muscle and jutting bone from multiple corpses fused together form a winged, human-like
 predator._
 
-**Necrocraft**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

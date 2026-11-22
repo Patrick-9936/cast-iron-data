@@ -32,8 +32,6 @@ abilities = ["15", "9", "14", "12", "13", "12"]
 
 _A hideous, pale, worm-like head pushes violently up and out of a corpulent man's body._
 
-**Vermlek**
-
 **Challenge rating:** 3
 
 **blindsense:** 30

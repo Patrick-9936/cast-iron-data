@@ -30,8 +30,6 @@ abilities = ["22", "15", "18", "2", "15", "7"]
 _A wickedly hooked beak and an immense bald head draw attention from this enormous scavenger's vast
 wingspan._
 
-**Giant Vulture**
-
 **Challenge rating:** 4
 
 **Type:** animal

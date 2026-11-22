@@ -31,8 +31,6 @@ abilities = ["31", "29", "32", "24", "26", "29"]
 
 _This creature has the body of a middle-aged human man and the pointed ears and legs of a goat._
 
-**Seilenos**
-
 **Challenge rating:** 19
 
 **Alignment:** Chaotic neutral

@@ -28,8 +28,6 @@ abilities = ["22", "19", "23", "10", "17", "16"]
 
 _Beneath its cloak, this man-shaped creature appears to be part statue and part metallic machine._
 
-**Kolyarut**
-
 **Challenge rating:** 12
 
 **Initiative:** +8

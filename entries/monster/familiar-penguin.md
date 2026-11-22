@@ -35,8 +35,6 @@ abilities = ["9", "8", "13", "2", "12", "7"]
 _This three-foot-tall, thick-set bird has black and white coloration, a long beak, and black
 flippers that lie flat against its sides instead of wings._
 
-**Penguin**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

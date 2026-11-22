@@ -32,8 +32,6 @@ abilities = ["34", "36", "42", "35", "32", "40"]
 _This frighteningly majestic creature spreads wide her runeadorned wings. Molten iron weeps from her
 hooves, and her three tails are studded with barbs._
 
-**Nocticula**
-
 **Challenge rating:** 30
 
 **aura:** seductive presence (180 ft., DC 43), unholy aura (DC 33)

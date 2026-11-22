@@ -26,8 +26,6 @@ special_qualities = "glide"
 abilities = ["3", "15", "8", "1", "12", "6"]
 +++
 
-**Flying Squirrel**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

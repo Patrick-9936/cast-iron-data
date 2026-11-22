@@ -31,8 +31,6 @@ abilities = ["19", "13", "14", "11", "14", "16"]
 _This bird-like beast is mostly head, lunging forward on four scaly legs. Wisps of noxious black
 vapor trail from its hooked beak._
 
-**Achaierai**
-
 **Challenge rating:** 5
 
 **Initiative:** +1

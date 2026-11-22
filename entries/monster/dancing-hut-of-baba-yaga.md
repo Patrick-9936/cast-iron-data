@@ -33,8 +33,6 @@ _A rustic hut stands here, its timber walls hung with bundles of drying herbs an
 symbols. From beneath its splintering wooden porch extends a pair of legs, like those of a
 fifteen-foot-tall chicken with gigantic talons caked in mud but sharp as razors._
 
-**Dancing Hut of Baba Yaga**
-
 **Challenge rating:** 17
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 30)

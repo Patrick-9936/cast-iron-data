@@ -30,8 +30,6 @@ abilities = ["19", "18", "14", "10", "14", "9"]
 
 _A noxious fluid drips from the vicious arrows of this feral ape-like humanoid._
 
-**Deadfall Tracker**
-
 **Challenge rating:** 5
 
 **Charau-ka [slayer](ref/class/slayer) 4**

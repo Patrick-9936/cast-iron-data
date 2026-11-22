@@ -28,8 +28,6 @@ special_qualities = "spell link"
 abilities = ["15", "23", "16", "13", "16", "16"]
 +++
 
-**Dweomercat**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic neutral

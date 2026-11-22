@@ -30,8 +30,6 @@ abilities = ["20", "16", "-", "1", "11", "5"]
 _Crouched on six jointed metal legs, this large humanoid head crafted from polished marble gazes
 intently with its glowing green eyes._
 
-**Marble Sentinel**
-
 **Challenge rating:** 4
 
 **Type:** construct

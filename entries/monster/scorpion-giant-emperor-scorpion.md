@@ -30,8 +30,6 @@ abilities = ["33", "13", "20", "-", "12", "2"]
 _This massive scorpion erupts from the sand, its giant pincers snapping and its tail stinger swaying
 threateningly._
 
-**Giant Emperor Scorpion**
-
 **Challenge rating:** 11
 
 **Size:** gargantuan

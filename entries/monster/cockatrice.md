@@ -29,8 +29,6 @@ abilities = ["6", "17", "11", "2", "13", "8"]
 _This hideous avian creature has the body of an emaciated rooster, the wings of a bat, and a long,
 scaly tail._
 
-**Cockatrice**
-
 **Challenge rating:** 3
 
 **Initiative:** +3

@@ -33,8 +33,6 @@ abilities = ["6", "14", "13", "20", "14", "10"]
 _This small, rat-like humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery
 tail._
 
-**Ratfolk Sage**
-
 **Challenge rating:** 6
 
 **Ratfolk diviner 7**

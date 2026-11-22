@@ -29,8 +29,6 @@ abilities = ["16", "13", "-", "-", "9", "15"]
 _This humanoid head floats silently and ominously, bits of flesh still hanging from its face and
 graying teeth clattering slightly as it bobs in the air._
 
-**Giant Beheaded**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

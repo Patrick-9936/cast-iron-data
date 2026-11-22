@@ -29,8 +29,6 @@ abilities = ["11", "14", "13", "-", "12", "9"]
 _Striking yellow and black markings and a coat of bristling hairs cover this immense bee. Its
 stinger is the size of a dagger blade._
 
-**Giant Bee**
-
 **Challenge rating:** 1
 
 **Initiative:** +2

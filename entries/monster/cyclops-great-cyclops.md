@@ -35,8 +35,6 @@ abilities = ["36", "13", "25", "7", "14", "8"]
 _This misshapen but incredibly muscular humanoid has a single huge bloodshot eye set under a short,
 jagged horn on its brow._
 
-**Great Cyclops**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

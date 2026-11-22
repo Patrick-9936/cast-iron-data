@@ -31,8 +31,6 @@ abilities = ["25", "16", "20", "6", "15", "7"]
 _This predator resembles a brawny jackal with a dark, red-and-gray mottled coat covered in ash and
 dust._
 
-**Shaghal**
-
 **Challenge rating:** 8
 
 **Initiative:** +7

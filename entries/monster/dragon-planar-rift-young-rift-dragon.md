@@ -30,8 +30,6 @@ abilities = ["27", "12", "21", "14", "17", "18"]
 
 _This dark-scaled dragon has massive claws, and foul-smelling acid drips from its saber teeth._
 
-**Young Rift Dragon**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

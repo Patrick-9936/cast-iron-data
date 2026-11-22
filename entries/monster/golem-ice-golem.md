@@ -31,8 +31,6 @@ abilities = ["16", "9", "-", "-", "11", "1"]
 _This icy statue stands a head taller than a normal human. A rime of frost coats it, and razor-sharp
 shards of ice adorn its limbs._
 
-**Ice Golem**
-
 **Challenge rating:** 5
 
 **Type:** construct

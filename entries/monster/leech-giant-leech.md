@@ -32,8 +32,6 @@ abilities = ["11", "12", "14", "-", "10", "1"]
 _A parasite ballooned to monstrous proportions undulates in the muck, its circular maw a spiral of
 teeth._
 
-**Giant Leech**
-
 **Challenge rating:** 2
 
 **blindsight:** 30

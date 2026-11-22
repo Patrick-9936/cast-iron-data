@@ -33,8 +33,6 @@ abilities = ["20", "13", "18", "10", "11", "13"]
 _This gray-skinned goliath is lean and muscled. Its four powerful arms carry weapons, and it wears a
 leather chest harness._
 
-**Shobhad**
-
 **Challenge rating:** 4
 
 **Initiative:** +5

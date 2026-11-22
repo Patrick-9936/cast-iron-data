@@ -31,8 +31,6 @@ abilities = ["30", "28", "36", "13", "21", "25"]
 
 _Little more than a walking corpse, this frightful horse's hide stretches tight over its bones._
 
-**Apocalypse Horse**
-
 **Challenge rating:** 25
 
 **aura:** unholy aura (DC 25)

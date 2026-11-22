@@ -32,8 +32,6 @@ abilities = ["22", "33", "35", "30", "26", "37"]
 _This devilish humanoid has five horns growing out of his forehead that resemble a crown. He stands
 on stout cloven hooves._
 
-**Lorthact**
-
 **Challenge rating:** 25
 
 **aura:** unholy aura

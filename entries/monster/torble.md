@@ -32,8 +32,6 @@ insectoid legs and eyestalks suggest it is a more advanced creature. Its antenna
 wave about curiously, and its multiple legs carry forth its transparent, hand-sized body at a
 surprisingly swift scuttle._
 
-**Torble**
-
 **Challenge rating:** 1/8
 
 **blindsight:** 30

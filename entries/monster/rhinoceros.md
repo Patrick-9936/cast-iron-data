@@ -28,8 +28,6 @@ abilities = ["22", "10", "19", "2", "13", "5"]
 
 _This rhinoceros has a low-slung head with twisted ears that lie back along its neck._
 
-**Rhinoceros**
-
 **Challenge rating:** 4
 
 **Type:** animal

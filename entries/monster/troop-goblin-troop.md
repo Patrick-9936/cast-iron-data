@@ -31,8 +31,6 @@ abilities = ["10", "17", "14", "10", "10", "6"]
 _The pint-sized humanoids who make up this chattering, shrieking mob hold jagged swords and bare
 jagged teeth._
 
-**Goblin Troop**
-
 **Challenge rating:** 5
 
 **Type:** humanoid

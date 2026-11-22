@@ -31,8 +31,6 @@ abilities = ["19", "12", "17", "1", "12", "2"]
 _This reptile lunges out of the placid water with shocking speed. Its jaw gapes open in a roar, its
 powerful tail lashing behind._
 
-**Crocodile**
-
 **Challenge rating:** 2
 
 **Type:** animal

@@ -33,8 +33,6 @@ abilities = ["8", "16", "12", "11", "13", "16"]
 
 _This strange black bird wears a leather long-nosed mask like a plague doctor._
 
-**Nosoi**
-
 **Challenge rating:** 2
 
 **Initiative:** +3

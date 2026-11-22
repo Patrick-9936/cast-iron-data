@@ -30,8 +30,6 @@ abilities = ["12", "17", "14", "10", "11", "13"]
 
 _This disc of flying metal is about the size of a wagon wheel and burns with yellow-white flame._
 
-**Iophanite**
-
 **Challenge rating:** 4
 
 **Initiative:** +3

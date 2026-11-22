@@ -31,8 +31,6 @@ abilities = ["18", "23", "20", "12", "19", "23"]
 _A sickly smell of feral musk, rotting flesh, and acrid sweat surrounds this fly-like creature. Its
 wings fill the air with a dreadful drone even when the creature is still._
 
-**Druj Nasu**
-
 **Challenge rating:** 8
 
 **Initiative:** +10

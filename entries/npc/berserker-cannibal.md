@@ -17,8 +17,6 @@ cr = "3"
 
 _This howling berserker has milky white eyes and an enormous axe wielded by muscular arms._
 
-**Berserker Cannibal**
-
 **Challenge rating:** 3
 
 **XP** 800\

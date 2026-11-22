@@ -29,8 +29,6 @@ abilities = ["23", "13", "20", "1", "10", "6"]
 
 _This elephantine amphibian has a grotesquely long tongue and beady eyes._
 
-**Frog Father**
-
 **Challenge rating:** 5
 
 **Type:** animal

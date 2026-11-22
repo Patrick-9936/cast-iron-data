@@ -32,8 +32,6 @@ abilities = ["25", "16", "18", "6", "14", "8"]
 _Two long vines covered in sharp thorns protrude from what appears to be a massive rotting bundle of
 barbs that's topped with a heap of berry-red eyes._
 
-**Brambleblight**
-
 **Challenge rating:** 7
 
 **aura:** blight (40 ft., DC 19)

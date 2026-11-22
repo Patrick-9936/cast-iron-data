@@ -28,8 +28,6 @@ special_qualities = "bardic knowledge +4, haunting refrain (+4 to demoralize, -2
 abilities = ["15", "17", "-", "17", "14", "22"]
 +++
 
-**Masked Murderer**
-
 **Challenge rating:** 8
 
 **Ghoul [bard](ref/class/bard) ([dirge bard](ref/arc-bard/dirge-bard)) 8**

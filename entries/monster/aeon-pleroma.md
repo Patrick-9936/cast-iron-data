@@ -31,8 +31,6 @@ abilities = ["24", "27", "26", "26", "31", "25"]
 _Within the shadows of this vaguely humanoid figure stir swirling colors and spheres, as if it
 encompassed all the night sky._
 
-**Pleroma**
-
 **Challenge rating:** 20
 
 **blindsight:** 120

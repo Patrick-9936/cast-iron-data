@@ -35,8 +35,6 @@ abilities = ["10", "8", "12", "15", "14", "15"]
 _This slender woman's skin is unnaturally pale, her hair is dark, and each of her eyes is a
 different color._
 
-**Changeling**
-
 **Challenge rating:** 1/2
 
 **Female changeling [witch](ref/class/witch) 1**

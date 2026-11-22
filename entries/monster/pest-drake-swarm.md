@@ -31,8 +31,6 @@ abilities = ["3", "24", "16", "3", "11", "14"]
 
 _These songbird-sized drakes declare their territory with an insistent chorus of shrill chirps._
 
-**Pest Drake Swarm**
-
 **Challenge rating:** 9
 
 **Size:** diminutive

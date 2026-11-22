@@ -28,8 +28,6 @@ special_qualities = "amphibious"
 abilities = ["18", "17", "16", "-", "13", "2"]
 +++
 
-**Bluetip Eurypterid**
-
 **Challenge rating:** 5
 
 **Initiative:** +7

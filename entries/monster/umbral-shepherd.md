@@ -30,8 +30,6 @@ abilities = ["-", "14", "12", "15", "13", "15"]
 _This mass of shadow possesses a horrific demon face. Several writhing tentacles sprout from its
 grub-like body._
 
-**Umbral Shepherd**
-
 **Challenge rating:** 5
 
 **Initiative:** +6

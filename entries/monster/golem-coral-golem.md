@@ -33,8 +33,6 @@ abilities = ["24", "11", "-", "-", "11", "1"]
 _This tall creature appears to be made of wrinkled stone and coral, bits of plant life clinging to
 its creased body and claw-like hands._
 
-**Coral Golem**
-
 **Challenge rating:** 9
 
 **Type:** construct

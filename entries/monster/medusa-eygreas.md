@@ -31,8 +31,6 @@ abilities = ["15", "19", "20", "10", "13", "17"]
 _This monstrous, snaked-haired creature has the upper body of a bronze-skinned woman and the lower
 body of an enormous serpent._
 
-**Eygreas**
-
 **Challenge rating:** 13
 
 **Female brazen medusa [ranger](ref/class/ranger) 5**

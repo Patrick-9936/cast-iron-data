@@ -31,8 +31,6 @@ abilities = ["14", "17", "16", "7", "10", "15"]
 
 _This glittering ooze suddenly flexes and bulges as portions of it begin to crystallize._
 
-**Sapphire Ooze**
-
 **Challenge rating:** 2
 
 **blindsight:** 30

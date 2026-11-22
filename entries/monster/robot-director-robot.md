@@ -33,8 +33,6 @@ abilities = ["22", "17", "-", "16", "15", "1"]
 _A humanoid torso and four spindly legs sprout from the top of this black-paneled orb. Buzzing
 mechanical tentacles churn and writhe below its bulk._
 
-**Director Robot**
-
 **Challenge rating:** 10
 
 **Type:** construct

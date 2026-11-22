@@ -31,8 +31,6 @@ abilities = ["32", "24", "27", "1", "16", "10"]
 _Half-formed eyes, toothless mouths, gaping throats, and countless other malformed organs constantly
 form and dissolve over this monster's surface._
 
-**Proto-Shoggoth Synctium**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic neutral

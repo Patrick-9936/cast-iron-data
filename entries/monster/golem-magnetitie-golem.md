@@ -30,8 +30,6 @@ abilities = ["27", "9", "-", "-", "12", "1"]
 _This vaguely humanoid mass of polished black metal lumbers forward, with all manner of metallic
 objects clinging to its body._
 
-**Magnetitie Golem**
-
 **Challenge rating:** 10
 
 **aura:** magnetic field (30 ft.)

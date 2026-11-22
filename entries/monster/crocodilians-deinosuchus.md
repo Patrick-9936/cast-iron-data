@@ -30,8 +30,6 @@ abilities = ["36", "12", "21", "1", "15", "2"]
 _This immense reptile, an alligator of overwhelming size, emerges from the water with rapidly
 snapping jaws that grind menacingly between each bite._
 
-**Deinosuchus**
-
 **Challenge rating:** 8
 
 **Type:** animal

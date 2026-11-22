@@ -32,8 +32,6 @@ abilities = ["6", "15", "9", "11", "10", "14"]
 _A set of insectile legs emerges from this book, sharp teeth ring the tome's edges, and a ribbon
 bookmark protrudes menacingly from its open pages._
 
-**Gishvit**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +6

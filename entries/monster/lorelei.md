@@ -35,8 +35,6 @@ abilities = ["28", "13", "29", "11", "16", "20"]
 _This strange creature appears to be a gigantic human head carved from stone, with thick tentacles
 sprouting from its scalp._
 
-**Lorelei**
-
 **Challenge rating:** 12
 
 **Type:** aberration

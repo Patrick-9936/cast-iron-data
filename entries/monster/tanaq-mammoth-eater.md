@@ -33,8 +33,6 @@ abilities = ["35", "18", "26", "12", "21", "17"]
 _This towering, gray-skinned giant holds a massive spear, its crimson haft sporting a head of barbed
 and blackened stone._
 
-**Tanaq Mammoth-Eater, Taiga Giant Shaman**
-
 **Challenge rating:** 17
 
 **Male taiga giant [druid](ref/class/druid) ([mountain druid](ref/arc-druid/mountain-druid)) 10**

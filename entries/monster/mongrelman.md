@@ -30,8 +30,6 @@ abilities = ["14", "13", "15", "10", "12", "7"]
 _Ivory tusks, insect chitin, matted fur, scaly flesh, and more combine to form a hideous humanoid
 shape._
 
-**Mongrelman**
-
 **Challenge rating:** 1
 
 **Initiative:** +1

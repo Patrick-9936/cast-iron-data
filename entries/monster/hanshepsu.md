@@ -31,8 +31,6 @@ abilities = ["22", "18", "-", "11", "13", "5"]
 _This muscular warrior is carefully sculpted from clay and has a large scarab beetle in place of its
 head._
 
-**Hanshepsu**
-
 **Challenge rating:** 10
 
 **Type:** construct

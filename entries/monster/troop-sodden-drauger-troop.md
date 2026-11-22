@@ -31,8 +31,6 @@ abilities = ["21", "14", "-", "12", "14", "17"]
 
 _This mob of undead is draped in soggy seaweed._
 
-**Sodden Drauger Troop**
-
 **Challenge rating:** 9
 
 **aura:** [stench](ref/umr/stench) (DC 18, 10 rounds)

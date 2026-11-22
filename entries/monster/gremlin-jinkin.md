@@ -32,8 +32,6 @@ abilities = ["3", "19", "11", "14", "14", "15"]
 _Grimacing like a maniac, this lean little bat-eared horror displays a mouth full of needle-like
 teeth and glowing, orange eyes._
 
-**Jinkin**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

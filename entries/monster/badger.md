@@ -29,8 +29,6 @@ abilities = ["10", "13", "15", "2", "12", "6"]
 _The squat, waddling badger trudges forth. Thrusting its flattened nose about the ground, it sniffs
 incessantly._
 
-**Badger**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

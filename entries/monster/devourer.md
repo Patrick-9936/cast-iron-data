@@ -34,8 +34,6 @@ abilities = ["28", "16", "-", "19", "16", "21"]
 _This dry, hovering corpse's chest is a prison of jagged ribs, within which is trapped a small
 tormented ghostly form._
 
-**Devourer**
-
 **Challenge rating:** 11
 
 **Initiative:** +7

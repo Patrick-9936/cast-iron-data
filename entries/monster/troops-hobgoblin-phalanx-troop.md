@@ -28,8 +28,6 @@ special_attacks = "tripping spears~volley"
 abilities = ["20", "19", "20", "13", "22", "9"]
 +++
 
-**Hobgoblin Phalanx Troop**
-
 **Challenge rating:** 10
 
 **Type:** humanoid

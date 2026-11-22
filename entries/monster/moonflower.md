@@ -34,8 +34,6 @@ abilities = ["28", "10", "21", "5", "12", "17"]
 _A twisted trunk clustered with bulbous blossoms holds up a gaping mouth ready to swallow a victim
 whole._
 
-**Moonflower**
-
 **Challenge rating:** 8
 
 **Size:** huge

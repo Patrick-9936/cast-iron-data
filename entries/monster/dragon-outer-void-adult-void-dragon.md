@@ -28,8 +28,6 @@ special_qualities = "agile, no breath, starflight"
 abilities = ["27", "12", "21", "20", "17", "20"]
 +++
 
-**Adult Void Dragon**
-
 **Challenge rating:** 13
 
 **aura:** alien presence (180 ft., DC 23)

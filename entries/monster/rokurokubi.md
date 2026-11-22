@@ -34,8 +34,6 @@ abilities = ["18", "23", "22", "15", "12", "21"]
 _This peasant woman sprouts a grotesquely long neck that coils about like a snake, with razor-sharp
 teeth filling her gaping maw._
 
-**Rokurokubi**
-
 **Challenge rating:** 14
 
 **aura:** nightfall (15 ft.)

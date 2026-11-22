@@ -31,8 +31,6 @@ abilities = ["22", "19", "24", "15", "20", "21"]
 
 _A cyclopean face stretches grotesquely across the hub of a tall, knobby wheel of bone._
 
-**Ixion Worm**
-
 **Challenge rating:** 13
 
 **Initiative:** +4

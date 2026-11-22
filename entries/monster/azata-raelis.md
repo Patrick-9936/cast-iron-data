@@ -33,8 +33,6 @@ abilities = ["24", "19", "20", "18", "15", "19"]
 _This bronze-skinned humanoid is muscular yet lithe, garbed in colorful clothing emblazoned with
 glowing runes._
 
-**Raelis**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic good

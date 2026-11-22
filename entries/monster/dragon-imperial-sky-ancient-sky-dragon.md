@@ -29,8 +29,6 @@ special_qualities = "borne aloft, change shape"
 abilities = ["35", "8", "25", "24", "25", "24"]
 +++
 
-**Ancient Sky Dragon**
-
 **Challenge rating:** 18
 
 **Type:** dragon

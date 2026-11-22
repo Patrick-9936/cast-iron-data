@@ -31,8 +31,6 @@ abilities = ["34", "1", "25", "21", "16", "14"]
 _This immense plant has jaws inside its central flower and vines that thresh the air. Its ovular
 seedpods throb like beating hearts._
 
-**Bodythief**
-
 **Challenge rating:** 14
 
 **Size:** gargantuan

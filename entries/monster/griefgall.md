@@ -30,8 +30,6 @@ abilities = ["4", "19", "14", "4", "15", "15"]
 
 _Thorn-tipped tendrils and flowering filaments sprout from this tiny, squirming grub-like plant._
 
-**Griefgall**
-
 **Challenge rating:** 6
 
 **Initiative:** +8

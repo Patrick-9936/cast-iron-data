@@ -31,8 +31,6 @@ abilities = ["22", "11", "20", "7", "19", "16"]
 _This creature combines the features of a scorpion and a horse-slavering humanoid faces peer from
 between its two pincers._
 
-**Kithangian**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

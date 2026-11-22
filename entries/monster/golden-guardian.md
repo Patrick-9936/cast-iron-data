@@ -30,8 +30,6 @@ abilities = ["18", "9", "-", "-", "11", "1"]
 _This gilded statue appears to be crafted of solid gold plates, its shining visage carved with
 exquisite detail into an eerie replica of a human face._
 
-**Golden Guardian**
-
 **Challenge rating:** 6
 
 **Type:** construct

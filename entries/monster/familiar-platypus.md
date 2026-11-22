@@ -35,8 +35,6 @@ abilities = ["2", "14", "8", "2", "13", "11"]
 _This creature is plump, brown, and covered in sleek fur, but it has a duck's bill, a flat tail, and
 webbed feet._
 
-**Platypus**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

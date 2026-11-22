@@ -31,8 +31,6 @@ abilities = ["10", "9", "20", "-", "1", "1"]
 _What appears to be a heap of freshly flensed skin ripples and flexes; it has a long tendril tipped
 with a single sharp fingernail._
 
-**Skincrawler**
-
 **Challenge rating:** 1/2
 
 **blindsight:** 30

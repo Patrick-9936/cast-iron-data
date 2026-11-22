@@ -29,8 +29,6 @@ special_qualities = "tower access"
 abilities = ["4", "14", "-", "-", "11", "1"]
 +++
 
-**Warden Jack Swarm**
-
 **Challenge rating:** 4
 
 **Type:** construct

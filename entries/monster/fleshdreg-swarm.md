@@ -31,8 +31,6 @@ abilities = ["2", "13", "15", "2", "11", "2"]
 _Hundreds of wads of squirming flesh with flailing appendages move together in a cluster of teeth
 and claws._
 
-**Fleshdreg Swarm**
-
 **Challenge rating:** 2
 
 **Type:** aberration

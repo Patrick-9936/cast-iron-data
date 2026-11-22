@@ -29,8 +29,6 @@ abilities = ["25", "12", "-", "-", "17", "1"]
 
 _This burly humanoid figure is cut from blue crystal that shines with an inner light._
 
-**Crystal Golem**
-
 **Challenge rating:** 11
 
 **Type:** construct

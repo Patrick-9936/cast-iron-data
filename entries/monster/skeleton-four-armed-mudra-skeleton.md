@@ -28,8 +28,6 @@ abilities = ["15", "16", "-", "-", "10", "10"]
 
 _Bones rattle against cracked bones as this ancient, fleshless corpse clatters forth._
 
-**Four-Armed Mudra Skeleton**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +7

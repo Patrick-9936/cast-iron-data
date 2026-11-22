@@ -33,8 +33,6 @@ _Growing from the back of a horse-like beast is the torso of a sea hag with gros
 and large, clawed hands. Its tangled web of stringy hair does not hide the disturbing fact that the
 hideous creature has no skin, and is built of gore and viscera._
 
-**Kallas Devil**
-
 **Challenge rating:** 9
 
 **Variant nuckelavee**

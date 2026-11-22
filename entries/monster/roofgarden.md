@@ -30,8 +30,6 @@ abilities = ["23", "16", "20", "1", "14", "3"]
 
 _A thick carpet of moss and vines stretches out from a central tangled mass of plant matter._
 
-**Roofgarden**
-
 **Challenge rating:** 7
 
 **Initiative:** +3

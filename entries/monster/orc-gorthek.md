@@ -28,8 +28,6 @@ abilities = ["32", "9", "21", "2", "10", "5"]
 _This massive quadruped has a thick, wrinkled hide, curving horns, and shaggy hair that frames its
 leonine face._
 
-**Gorthek**
-
 **Challenge rating:** 7
 
 **Type:** animal

@@ -32,8 +32,6 @@ _Resembling a gaunt humanoid from the waist up and a fleshy insect from the wais
 child-sized creature has enormous black eyes and a large jaw with a lolling tongue. It wears a crown
 made of humanoid teeth and clutches a tooth-studded scepter._
 
-**Tooth Fairy Monarch**
-
 **Challenge rating:** 3
 
 **Type:** fey

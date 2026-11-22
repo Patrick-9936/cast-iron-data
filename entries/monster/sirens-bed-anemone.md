@@ -32,8 +32,6 @@ abilities = ["30", "19", "18", "-", "13", "3"]
 _This enormous polyp is crowned with bright red-and-blue striped tentacles. A long, thin stinger
 darts from the center._
 
-**Siren's Bed Anemone**
-
 **Challenge rating:** 9
 
 **blindsight:** 60

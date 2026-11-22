@@ -30,8 +30,6 @@ abilities = ["12", "12", "11", "11", "8", "7"]
 _This six-legged horror has a spider's face and a fibrous stalk growing out of its back - a stalk
 ending in a snapping mouth._
 
-**Cythnigot**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

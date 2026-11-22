@@ -26,8 +26,6 @@ melee = "greatclub +7 (2d8+7) or 2 claws +7 (1d6+5)"
 abilities = ["21", "10", "-", "-", "10", "10"]
 +++
 
-**Armored Ogre Skeleton**
-
 **Challenge rating:** 2
 
 **Initiative:** +4

@@ -35,8 +35,6 @@ abilities = ["26", "25", "24", "15", "19", "18"]
 _This rancid-smelling mound of animated ooze has about its shifting countenance the hideous shape of
 a half-melted man._
 
-**Omox**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

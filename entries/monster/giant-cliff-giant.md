@@ -32,8 +32,6 @@ abilities = ["26", "13", "21", "13", "14", "12"]
 _This giant has a majestic presence and stoic bearing. His rocky, red-brown skin is shot through
 with streaks of shimmering color._
 
-**Cliff Giant**
-
 **Challenge rating:** 9
 
 **Type:** humanoid

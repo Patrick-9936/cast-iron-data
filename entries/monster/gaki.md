@@ -30,8 +30,6 @@ abilities = ["16", "15", "-", "9", "12", "18"]
 _This skeletal creature with a long, thin neck seems to float above the ground. Its jaw is
 elongated, showing sharp, worn teeth._
 
-**Gaki**
-
 **Challenge rating:** 7
 
 **Initiative:** +6

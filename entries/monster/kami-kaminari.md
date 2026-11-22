@@ -30,8 +30,6 @@ abilities = ["28", "21", "22", "16", "17", "25"]
 _This enormous humanoid possesses vibrant green skin and equally loud hair, and is surrounded by a
 ring of huge drums and storm clouds._
 
-**Kaminari**
-
 **Challenge rating:** 17
 
 **Alignment:** Chaotic neutral

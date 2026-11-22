@@ -18,8 +18,6 @@ cr = "1"
 _This thuggish Varisian wears black garb and tattered rags that conceal his myriad small blades and
 reveal runic tattoos._
 
-**Sczarni Thug**
-
 **Challenge rating:** 1
 
 **XP** 400\

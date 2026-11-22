@@ -29,8 +29,6 @@ abilities = ["5", "12", "-", "2", "13", "8"]
 
 _This bat-like creature has jagged points at the tips of its wings and a long, lashing tongue._
 
-**Sootwing Bat**
-
 **Challenge rating:** 1/2
 
 **blindsense:** 20

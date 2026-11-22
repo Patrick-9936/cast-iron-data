@@ -27,8 +27,6 @@ abilities = ["24", "15", "15", "2", "11", "10"]
 
 _Blade-like horns jut from the snout and eye ridges of this toothy, bipedal dinosaur._
 
-**Ceratosaurus**
-
 **Challenge rating:** 5
 
 **Type:** animal

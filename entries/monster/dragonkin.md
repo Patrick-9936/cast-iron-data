@@ -33,8 +33,6 @@ abilities = ["26", "15", "20", "11", "12", "17"]
 _This sleek, gold-scaled draconic creature looks both regal and intelligent. A leather harness holds
 a saddle between its wings._
 
-**Dragonkin**
-
 **Challenge rating:** 9
 
 **Type:** dragon

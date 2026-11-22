@@ -28,8 +28,6 @@ abilities = ["29", "17", "25", "2", "16", "14"]
 
 _Fearsome bony growths protrude from several spots in this massive animal's snowy fur._
 
-**Dire Polar Bear**
-
 **Challenge rating:** 8
 
 **Type:** animal

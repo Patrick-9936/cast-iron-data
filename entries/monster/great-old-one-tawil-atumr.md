@@ -31,8 +31,6 @@ abilities = ["44", "36", "43", "35", "32", "35"]
 _A gray robe and veil obscure this humanoid's form, save for a foaming mass of bubbles and tentacles
 extending from below._
 
-**Tawil At'umr**
-
 **Challenge rating:** 30
 
 **aura:** cloak of chaos (DC 30), unspeakable presence (300 ft., DC 39)

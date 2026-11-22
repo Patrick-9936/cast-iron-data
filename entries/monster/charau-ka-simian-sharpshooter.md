@@ -31,8 +31,6 @@ abilities = ["15", "18", "16", "10", "16", "9"]
 
 _This long-furred ape-person wears a battered snakeskin poncho and carries a worn musket._
 
-**Simian Sharpshooter**
-
 **Challenge rating:** 6
 
 **Charau-ka [gunslinger](ref/class/gunslinger) 4**

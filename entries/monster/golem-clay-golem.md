@@ -30,8 +30,6 @@ abilities = ["24", "9", "-", "-", "11", "1"]
 _This lumbering figure is sculpted from soft clay. It wears filthy rags and crude jewelry, and its
 face is only vaguely humanoid._
 
-**Clay Golem**
-
 **Challenge rating:** 10
 
 **Type:** construct

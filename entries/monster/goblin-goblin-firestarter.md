@@ -29,8 +29,6 @@ special_qualities = "rogue talents (finesse rogue, surprise attack), trapfinding
 abilities = ["11", "20", "14", "8", "12", "8"]
 +++
 
-**Goblin Firestarter**
-
 **Challenge rating:** 4
 
 **Goblin [rogue](ref/class/rogue) 5**

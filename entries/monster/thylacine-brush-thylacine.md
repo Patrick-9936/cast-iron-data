@@ -32,8 +32,6 @@ whiskers, and dark stripes down its back. Its long tail flips about, smacking th
 the woods. It yips and bays in a complex pattern, offering warning to anything that may cross its
 path._
 
-**Brush Thylacine**
-
 **Challenge rating:** 2
 
 **Type:** animal

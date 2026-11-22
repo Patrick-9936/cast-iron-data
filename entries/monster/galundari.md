@@ -33,8 +33,6 @@ abilities = ["40", "23", "40", "26", "24", "29"]
 _This towering, burning demon wears black, spiky armor and carries two weapons - a jagged sword and
 a whip of flames._
 
-**Galundari, the Scourge of Heaven**
-
 **Challenge rating:** 25
 
 **Male balor lord [fighter](ref/class/fighter) 5**

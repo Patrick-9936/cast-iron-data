@@ -30,8 +30,6 @@ special_qualities = "armor training 1"
 abilities = ["20", "12", "15", "6", "10", "12"]
 +++
 
-**Gnoll Lieutenant**
-
 **Challenge rating:** 6
 
 **Gnoll [fighter](ref/class/fighter) 5**

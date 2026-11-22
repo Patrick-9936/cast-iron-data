@@ -32,8 +32,6 @@ width of sails throw up dirt and leaves. The creature's draconic body tapers to 
 bird-like head with a backward sweeping crest and a beak that resembles a giant military pick. As it
 moves, the air around it thrums with a high-pitched wail._
 
-**Kongmato**
-
 **Challenge rating:** 15
 
 **Type:** dragon

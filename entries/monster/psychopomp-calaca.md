@@ -32,8 +32,6 @@ abilities = ["10", "17", "17", "16", "15", "19"]
 _This figure wears a fine suit, vest, gloves, and ascot and has a guitar at the ready. The
 creature's face is hidden by an intricately decorated skull mask._
 
-**Calaca**
-
 **Challenge rating:** 8
 
 **Initiative:** +3

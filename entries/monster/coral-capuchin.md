@@ -35,8 +35,6 @@ abilities = ["6", "17", "12", "6", "13", "7"]
 _This strange creature can only be described as a light pink, hairless monkey with the head of a
 fish and large, fin-like wings._
 
-**Coral Capuchin**
-
 **Challenge rating:** 1
 
 **Initiative:** +3

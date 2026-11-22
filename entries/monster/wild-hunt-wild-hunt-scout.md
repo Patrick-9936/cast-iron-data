@@ -32,8 +32,6 @@ abilities = ["20", "29", "22", "17", "24", "21"]
 
 _This lithe humanoid has pointed ears, glowing green eyes, and a ram's horns._
 
-**Wild Hunt Scout**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic neutral

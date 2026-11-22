@@ -31,8 +31,6 @@ abilities = ["23", "22", "18", "3", "10", "3"]
 _This creature glides on undulating folds of leathery skin. Its spinning, circular mouth is lined
 with rows of razor-sharp teeth._
 
-**Whirlmaw**
-
 **Challenge rating:** 8
 
 **Type:** aberration

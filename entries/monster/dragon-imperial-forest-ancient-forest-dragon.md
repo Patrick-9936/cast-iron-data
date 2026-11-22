@@ -29,8 +29,6 @@ special_qualities = "change shape, sound imitation, woodland stride"
 abilities = ["37", "8", "26", "20", "21", "20"]
 +++
 
-**Ancient Forest Dragon**
-
 **Challenge rating:** 19
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 29)

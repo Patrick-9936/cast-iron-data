@@ -32,8 +32,6 @@ abilities = ["8", "13", "11", "8", "13", "8"]
 _This squat humanoid seems to be nearly all head - an unfortunate circumstance, considering how ugly
 its puffy blue face is._
 
-**Mite**
-
 **Challenge rating:** 1/4
 
 **Type:** fey

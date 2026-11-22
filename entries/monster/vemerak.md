@@ -33,8 +33,6 @@ abilities = ["32", "17", "23", "5", "16", "22"]
 _This huge monstrosity seems like some alien, clawed insect, with vaguely humanoid features and
 three tentacular tails._
 
-**Vemerak**
-
 **Challenge rating:** 14
 
 **Type:** aberration

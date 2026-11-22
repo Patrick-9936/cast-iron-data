@@ -30,8 +30,6 @@ abilities = ["26", "8", "25", "-", "13", "11"]
 _This enormous ant has vicious mandibles and a dripping stinger, and looks large enough to devour a
 horse._
 
-**Megapon Ant**
-
 **Challenge rating:** 6
 
 **Size:** huge

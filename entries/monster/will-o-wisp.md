@@ -31,8 +31,6 @@ abilities = ["1", "29", "10", "15", "16", "14"]
 _This faintly glowing ball of light bobs gently in the air, the nebulous image of what might be a
 skull visible somewhere in its depths._
 
-**Will-o'-Wisp**
-
 **Challenge rating:** 6
 
 **Type:** aberration

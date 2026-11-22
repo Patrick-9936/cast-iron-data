@@ -29,8 +29,6 @@ abilities = ["10", "15", "12", "-", "10", "2"]
 _This pale yellow spider's legs protrude on either side, giving it a very distinctive stance. The
 thing is the size of a large dog._
 
-**Giant Crab Spider**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +2

@@ -30,8 +30,6 @@ special_qualities = "favored terrain (swamp +2), hold breath, swamp stride, trac
 abilities = ["19", "13", "16", "8", "13", "8"]
 +++
 
-**Boggard Hunter**
-
 **Challenge rating:** 5
 
 **Boggard [ranger](ref/class/ranger) 3**

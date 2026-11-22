@@ -29,8 +29,6 @@ abilities = ["14", "10", "17", "-", "13", "11"]
 _A thin, six-legged ant the size of a pony stands at the ready, its mandibles chittering and its
 stinger dripping with venom._
 
-**Giant Ant**
-
 **Challenge rating:** 2
 
 **Initiative:** +0

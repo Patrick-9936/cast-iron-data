@@ -29,8 +29,6 @@ abilities = ["7", "15", "10", "12", "15", "8"]
 _This strange flying creature is the size of a house cat and has tender pink skin and the stubbed
 features of a pig. Its porcine face is eyeless and its nose never stops sniffing at the air._
 
-**Sin Seeker**
-
 **Challenge rating:** 2
 
 **aura:** honesty (10 ft., DC 13)

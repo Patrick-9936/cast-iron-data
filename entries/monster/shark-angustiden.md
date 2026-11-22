@@ -30,8 +30,6 @@ abilities = ["31", "12", "23", "3", "10", "4"]
 _This majestic beast glides through the water with murderous intent. Its thick-toothed maw is wide
 enough for a human to stand in, and its body stretches back more than 20 feet._
 
-**Angustiden**
-
 **Challenge rating:** 7
 
 **Type:** animal

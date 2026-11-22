@@ -35,8 +35,6 @@ the creature, and crackling sparks erupt from its body. Screeching wildly, it de
 from the sky, its blood-flecked wings tipped with cruel curved hooks, and its protruding lower beak
 scalloped with vicious, jagged barbs._
 
-**Impundulu**
-
 **Challenge rating:** 11
 
 **Initiative:** +9

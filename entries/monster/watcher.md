@@ -30,8 +30,6 @@ abilities = ["30", "27", "32", "29", "34", "21"]
 _This enormous black insectile creature moves with an almost nauseating grace as it watches with its
 single red eye._
 
-**Watcher**
-
 **Challenge rating:** 22
 
 **blindsight:** 120

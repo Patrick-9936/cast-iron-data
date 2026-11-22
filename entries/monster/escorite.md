@@ -30,8 +30,6 @@ abilities = ["22", "18", "18", "9", "13", "15"]
 _This giant moth has a head like a doe skull and six short tentacles instead of legs. Its wings
 drizzle a cascade of shimmering dust._
 
-**Escorite**
-
 **Challenge rating:** 8
 
 **aura:** inevitability (30 ft, DC 20)

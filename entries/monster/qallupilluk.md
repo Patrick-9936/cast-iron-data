@@ -36,8 +36,6 @@ abilities = ["20", "14", "19", "13", "15", "14"]
 _This hag's lumpy hide, tangled black hair, and ragged garments drip with icy water, though she has
 a curiously sweet smell._
 
-**Qallupilluk**
-
 **Challenge rating:** 7
 
 **aura:** cloying scent (15 ft.)

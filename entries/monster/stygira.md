@@ -33,8 +33,6 @@ Unnaturally tall and lean, her form is all cracked flesh and stony crevices span
 withered gray flesh. Shattered black teeth jut from a chapped, lipless mouth that stretches beneath
 a high, scarred brow devoid of nose or eyes._
 
-**Stygira**
-
 **Challenge rating:** 7
 
 **blindsight:** 30

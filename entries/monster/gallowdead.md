@@ -29,8 +29,6 @@ abilities = ["24", "19", "-", "11", "16", "21"]
 _This skeletal horror staggers under the weight of the massive hook and chain impaling the bones of
 its midsection._
 
-**Gallowdead**
-
 **Challenge rating:** 16
 
 **aura:** whispers (30 ft., DC 27)

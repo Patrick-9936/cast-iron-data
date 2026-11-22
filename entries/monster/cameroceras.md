@@ -32,8 +32,6 @@ abilities = ["28", "14", "21", "2", "17", "5"]
 _Emerging from the open end of a long, conical shell, this huge creature's unblinking eyes peer from
 above a mass of tentacles._
 
-**Cameroceras**
-
 **Challenge rating:** 11
 
 **Type:** animal

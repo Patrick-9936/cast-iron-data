@@ -31,8 +31,6 @@ abilities = ["32", "9", "-", "15", "14", "13"]
 _Made of polished iron, this mighty golem resembles a keen-eyed dwarf. It carries a warhammer and a
 shield bearing Torag's symbol._
 
-**The Grand Defender**
-
 **Challenge rating:** 15
 
 **Type:** construct

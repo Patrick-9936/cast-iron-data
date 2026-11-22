@@ -25,8 +25,6 @@ melee = "bite +1 (1d3-1)"
 abilities = ["9", "13", "12", "2", "14", "5"]
 +++
 
-**Flying Fox**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

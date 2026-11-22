@@ -29,8 +29,6 @@ abilities = ["27", "10", "21", "5", "12", "10"]
 _This abomination has the head and foreparts of a great lion, an additional head and hindquarters of
 a ram, and a red dragon's head sprouting from its tail._
 
-**Legendary Chimera**
-
 **Challenge rating:** 13
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 18)

@@ -32,8 +32,6 @@ abilities = ["17", "26", "29", "18", "22", "23"]
 _This beautiful woman has red antennae, gossamer insectile wings, a wasp's legs, and a serpentine
 whip._
 
-**Empusa**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic neutral

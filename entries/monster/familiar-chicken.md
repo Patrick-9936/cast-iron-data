@@ -34,8 +34,6 @@ abilities = ["3", "11", "12", "2", "12", "13"]
 _This fowl has a compact body, a short beak flanked by red wattles, and a crimson comb on the crown
 of its head._
 
-**Chicken**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

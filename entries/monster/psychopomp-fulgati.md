@@ -32,8 +32,6 @@ _This towering, muscular, female figure wears an iron, ram-headed mask. Four sto
 primal energies, while four additional arms emerge from her hips, supporting her bulk in place of
 legs._
 
-**Fulgati**
-
 **Challenge rating:** 18
 
 **aura:** calamity (300 ft.)

@@ -35,8 +35,6 @@ abilities = ["18", "17", "14", "13", "10", "19"]
 _This sleek, aquatic creature has short gray fur, webbed hands ending in sharp claws, and a mouth
 full of pointed teeth._
 
-**Selkie**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic neutral

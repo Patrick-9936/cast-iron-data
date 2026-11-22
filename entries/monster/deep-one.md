@@ -31,8 +31,6 @@ abilities = ["17", "9", "16", "12", "15", "10"]
 _This lumbering creature's gray-green hide glistens with moisture, and saliva dribbles from its
 fish-like maw._
 
-**Deep One**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

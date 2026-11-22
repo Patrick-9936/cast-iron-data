@@ -30,8 +30,6 @@ abilities = ["8", "17", "12", "13", "12", "7"]
 _A single eye peers from behind the armor plates and keen-edged blades that compose the cage-like
 exterior of this tiny flying orb._
 
-**Augur**
-
 **Challenge rating:** 2
 
 **Initiative:** +7

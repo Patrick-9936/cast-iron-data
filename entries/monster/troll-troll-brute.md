@@ -29,8 +29,6 @@ special_qualities = "fast movement"
 abilities = ["29", "16", "31", "6", "11", "4"]
 +++
 
-**Troll Brute**
-
 **Challenge rating:** 7
 
 **Troll [barbarian](ref/class/barbarian) 2**

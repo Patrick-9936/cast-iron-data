@@ -32,8 +32,6 @@ abilities = ["14", "18", "11", "10", "12", "10"]
 
 _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless._
 
-**Drow House Captain**
-
 **Challenge rating:** 6
 
 **Drow [fighter](ref/class/fighter) 7**

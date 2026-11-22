@@ -34,8 +34,6 @@ abilities = ["39", "14", "25", "10", "13", "12"]
 _This gigantic stag-like being blurs the line between plant and beast, its horns branching like the
 limbs of some ancient, leaf less tree._
 
-**The Grim White Stag**
-
 **Challenge rating:** 15
 
 **aura:** protective aura (20 ft.)

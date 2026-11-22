@@ -31,8 +31,6 @@ abilities = ["16", "19", "16", "9", "12", "7"]
 _This large and lanky moss-colored humanoid has an elongated, toothy snout and appears to be covered
 in bits of foliage._
 
-**Moss Troll**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

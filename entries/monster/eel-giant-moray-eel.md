@@ -31,8 +31,6 @@ abilities = ["22", "14", "16", "1", "12", "8"]
 _This sixteen-foot-long eel slithers through the water with uncanny grace, mouth open to display
 large teeth and a second set of jaws._
 
-**Giant Moray Eel**
-
 **Challenge rating:** 5
 
 **Type:** animal

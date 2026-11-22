@@ -32,8 +32,6 @@ abilities = ["17", "16", "15", "8", "10", "9"]
 _With graceful wings and wide fins, this sleek dragon looks equally well equipped to glide through
 sea and sky._
 
-**River Drake**
-
 **Challenge rating:** 3
 
 **Type:** dragon

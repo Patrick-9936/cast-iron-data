@@ -34,8 +34,6 @@ abilities = ["16", "13", "17", "10", "12", "9"]
 _This creature resembles a cross between a turtle and a crab, with flippers instead of legs, a
 snapping beak, and two pincers._
 
-**Tojanida**
-
 **Challenge rating:** 5
 
 **Initiative:** +1

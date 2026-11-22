@@ -33,8 +33,6 @@ abilities = ["40", "8", "32", "9", "15", "17"]
 _The skull of some many-fanged sea monster adorns the bow of this ominous pirate vessel, a grim ship
 made all the more disturbing by its apparent lack of a crew._
 
-**Kelpie's Wrath**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic neutral

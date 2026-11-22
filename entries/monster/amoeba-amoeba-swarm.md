@@ -31,8 +31,6 @@ abilities = ["1", "1", "10", "-", "1", "1"]
 _Thousands of tiny gelatinous clots of animate ooze swarm in a wet mound, surrounded by a cloying
 stink of rancid vinegar._
 
-**Amoeba Swarm**
-
 **Challenge rating:** 1
 
 **blindsight:** 30

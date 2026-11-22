@@ -31,8 +31,6 @@ abilities = ["16", "18", "19", "11", "12", "17"]
 _This blood-red tumorous mass has a shifting cluster of waving tentacles sprouting from its
 amorphous form, its body pulsating with a horrid vitality._
 
-**Vexenion**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

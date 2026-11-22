@@ -30,8 +30,6 @@ abilities = ["16", "15", "12", "3", "9", "6"]
 _Long spines jut from the head and neck of this red-scaled iguana, and fire trickles from its open
 mouth._
 
-**Kyrana**
-
 **Challenge rating:** 3
 
 **Type:** dragon

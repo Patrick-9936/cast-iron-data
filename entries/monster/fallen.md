@@ -36,8 +36,6 @@ abilities = ["-", "16", "-", "13", "17", "18"]
 _This ghostly crusader floats just above the ground, yet despite its phantom-like appearance, its
 armor and weapons seem quite solid._
 
-**Fallen**
-
 **Challenge rating:** 8
 
 **blindsense:** 60

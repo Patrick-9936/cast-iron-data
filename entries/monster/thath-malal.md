@@ -30,8 +30,6 @@ abilities = ["26", "11", "22", "16", "15", "21"]
 _This immense, eyeless worm is covered in a midnight blue hide. Four barbed tongues wriggle out from
 its open, lily-shaped maw._
 
-**Thath-Malal, the Eyeless Prince**
-
 **Challenge rating:** 13
 
 **Variant young neothelid**

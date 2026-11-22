@@ -31,8 +31,6 @@ abilities = ["-", "16", "-", "11", "13", "19"]
 _The curious ears and flabby lips of this sickly green human-shaped ghostly creature frame its
 frog-like face, yet only empty sockets stare from where its eyes should be._
 
-**Ib Shade**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

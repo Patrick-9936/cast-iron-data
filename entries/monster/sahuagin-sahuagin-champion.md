@@ -33,8 +33,6 @@ abilities = ["26", "16", "21", "12", "13", "10"]
 _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its
 piscine head features a toothy maw._
 
-**Sahuagin Champion**
-
 **Challenge rating:** 10
 
 **Four-armed sahuagin [barbarian](ref/class/barbarian) 7**

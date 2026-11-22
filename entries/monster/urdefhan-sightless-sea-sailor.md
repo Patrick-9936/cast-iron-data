@@ -32,8 +32,6 @@ abilities = ["19", "16", "15", "16", "15", "18"]
 _The smell of brine mingles with the sickly stench of uncured leather that surrounds this ferocious
 buccaneer._
 
-**Sightless Sea Sailor**
-
 **Challenge rating:** 4
 
 **Urdefhan [swashbuckler](ref/class/swashbuckler) 1**

@@ -29,8 +29,6 @@ abilities = ["12", "16", "15", "2", "11", "7"]
 _As tall as a grown human, this mouse-faced creature stands on powerful hind legs and has a stout
 tail trailing behind._
 
-**Kangaroo**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

@@ -30,8 +30,6 @@ abilities = ["24", "11", "18", "1", "12", "9"]
 _This massive warthog is outfitted with all manner of steel armor and unnatural augmentations,
 including a pair of razor-sharp metal tusks._
 
-**Steam Hog**
-
 **Challenge rating:** 7
 
 **Size:** huge

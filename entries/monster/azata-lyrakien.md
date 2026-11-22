@@ -34,8 +34,6 @@ abilities = ["5", "19", "12", "14", "17", "20"]
 _This tiny woman has a lithe form with delicate butterfly wings. She is surrounded by sparkling
 lights and gentle rainbow arcs._
 
-**Lyrakien**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic good

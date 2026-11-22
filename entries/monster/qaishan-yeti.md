@@ -32,8 +32,6 @@ abilities = ["24", "14", "17", "9", "16", "8"]
 _This furry hominid's orange eyes blaze not with fury but with wisdom, and the white hair around its
 face is streaked with gray._
 
-**Qaishan Yeti**
-
 **Challenge rating:** 7
 
 **Yeti [monk](ref/class/monk) 5**

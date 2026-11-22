@@ -30,8 +30,6 @@ abilities = ["3", "16", "16", "-", "11", "5"]
 
 _An oily substance in the water surrounds this seething red mass of worm-like lumps of algae._
 
-**Blood Algae Swarm**
-
 **Challenge rating:** 8
 
 **Size:** diminutive

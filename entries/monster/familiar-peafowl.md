@@ -32,8 +32,6 @@ abilities = ["7", "12", "10", "1", "6", "13"]
 _This bird's royal-blue body is upstaged only by the magnificent array of feathers that radiate from
 its back._
 
-**Peafowl**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

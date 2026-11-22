@@ -28,8 +28,6 @@ abilities = ["27", "14", "17", "2", "13", "10"]
 _This sauropod has an elongated neck and a long, tapering tail. Two spiny frills run along the back
 of the creature's neck._
 
-**Amargasaurus**
-
 **Challenge rating:** 6
 
 **Type:** animal

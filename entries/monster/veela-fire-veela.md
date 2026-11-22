@@ -30,8 +30,6 @@ abilities = ["20", "17", "19", "14", "11", "20"]
 
 _This lithe, androgynous humanoid has unusually colored skin and an otherworldly grace._
 
-**Fire Veela**
-
 **Challenge rating:** 7
 
 **Initiative:** +3

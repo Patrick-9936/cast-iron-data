@@ -28,8 +28,6 @@ abilities = ["36", "14", "23", "1", "13", "2"]
 _An enormous coil of muscle and scales, this giant snake flicks its arm-length tongue in the air as
 it scans the area for prey._
 
-**Giant Anaconda**
-
 **Challenge rating:** 10
 
 **Type:** animal

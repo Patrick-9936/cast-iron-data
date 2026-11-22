@@ -31,8 +31,6 @@ abilities = ["22", "15", "18", "6", "15", "9"]
 
 _The pink, fleshy underside of this flat, aquatic creature features a large circular maw of fangs._
 
-**Cuero**
-
 **Challenge rating:** 5
 
 **Type:** aberration

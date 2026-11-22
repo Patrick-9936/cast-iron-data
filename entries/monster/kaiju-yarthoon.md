@@ -31,8 +31,6 @@ abilities = ["46", "29", "38", "3", "26", "21"]
 _This immense pale blue worm raises one end of its body like a serpent, its many-toothed maw opening
 amid a ring of glowing eyes._
 
-**Yarthoon**
-
 **Challenge rating:** 25
 
 **Alignment:** Chaotic neutral

@@ -29,8 +29,6 @@ abilities = ["14", "15", "16", "9", "12", "13"]
 
 _This vague, humanoid figure seems to be the source of a bank of unnaturally colored fog._
 
-**Oneirogen**
-
 **Challenge rating:** 2
 
 **aura:** obscuring fog (10 ft.), veil of mists (5 ft., DC 12)

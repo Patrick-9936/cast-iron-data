@@ -31,8 +31,6 @@ abilities = ["12", "15", "13", "-", "11", "6"]
 _A hideous, dog-sized flea leaps about on long, gangly legs. The sharp, jagged edges of its jaws
 greedily clatter for blood._
 
-**Giant Flea**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +2

@@ -30,8 +30,6 @@ abilities = ["28", "15", "21", "2", "15", "6"]
 _Dense, bony growths line the back of this bipedal predator. Between its gnashing, toothy underbite,
 scythe-like claws, and spiked tail, no part of this beast offers mercy._
 
-**Marax**
-
 **Challenge rating:** 11
 
 **Type:** animal

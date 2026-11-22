@@ -32,8 +32,6 @@ abilities = ["41", "21", "29", "16", "24", "16"]
 _This giant wears bloodstained leather clothes, including a ragged leather mask. His flesh, where
 visible, is gray and warty._
 
-**Mountain Giant**
-
 **Challenge rating:** 18
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 24, 10 rounds)

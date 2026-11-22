@@ -35,8 +35,6 @@ abilities = ["17", "20", "14", "13", "15", "20"]
 _This blue-skinned woman has blue-and-white butterfly wings. Her black hair sparkles like a starlit
 sky._
 
-**Yamah**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic good

@@ -33,8 +33,6 @@ abilities = ["2", "17", "17", "14", "12", "13"]
 _A thick sheet of filthy green fungus grows in twisting patterns across the shoulders and back of
 this feral-looking man._
 
-**Mindslaver Mold**
-
 **Challenge rating:** 3
 
 **Initiative:** +7

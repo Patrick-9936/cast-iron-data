@@ -30,8 +30,6 @@ abilities = ["14", "28", "15", "-", "11", "3"]
 _Several thin tendrils extend aggressively from the open tip of this red tube made of a coralline
 substance._
 
-**Giant Tube Worm**
-
 **Challenge rating:** 2
 
 **Initiative:** +4

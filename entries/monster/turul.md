@@ -31,8 +31,6 @@ abilities = ["34", "17", "24", "17", "22", "21"]
 
 _Flickers of light and energy radiate from this awe-inspiring, bird-like creature._
 
-**Turul**
-
 **Challenge rating:** 19
 
 **Size:** gargantuan

@@ -32,8 +32,6 @@ abilities = ["17", "14", "19", "6", "10", "9"]
 
 _This lumbering topiary has the rough shape of an elephant, complete with brambly limbs and tusks._
 
-**Living Topiary**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

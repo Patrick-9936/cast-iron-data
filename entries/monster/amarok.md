@@ -30,8 +30,6 @@ abilities = ["30", "21", "22", "15", "23", "16"]
 _This enormous black wolf's eyes gleam with a cunning intellect, and its fangs glow with the light
 of a cold moon._
 
-**Amarok**
-
 **Challenge rating:** 12
 
 **Size:** huge

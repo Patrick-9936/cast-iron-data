@@ -30,8 +30,6 @@ abilities = ["20", "7", "-", "13", "16", "17"]
 
 _Carved from gray stone, this enormous figure is shaped like the head of some primordial giant._
 
-**Living Effigy**
-
 **Challenge rating:** 8
 
 **Type:** construct

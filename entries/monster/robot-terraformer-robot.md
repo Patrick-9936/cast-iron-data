@@ -30,8 +30,6 @@ abilities = ["20", "16", "-", "15", "11", "5"]
 
 _This large robot's arms end in an assortment of drills, torches, hammers, and vices._
 
-**Terraformer Robot**
-
 **Challenge rating:** 7
 
 **Type:** construct

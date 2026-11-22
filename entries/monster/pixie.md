@@ -30,8 +30,6 @@ abilities = ["7", "21", "12", "16", "15", "16"]
 
 _This tiny, whimsical-looking humanoid darts about swiftly on wildly colored gossamer wings._
 
-**Pixie**
-
 **Challenge rating:** 4
 
 **Type:** fey

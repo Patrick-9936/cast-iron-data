@@ -33,8 +33,6 @@ _This enormous, eyeless eel-person has a round head atop its long neck and a thi
 hand-like tentacles and two long tails. Its skin is translucent, displaying colorful fluids rippling
 within, and embedded with strange objects._
 
-**Ashullian**
-
 **Challenge rating:** 11
 
 **blindsight:** 30

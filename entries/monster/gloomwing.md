@@ -31,8 +31,6 @@ abilities = ["15", "17", "15", "2", "12", "10"]
 _This immense moth has huge purple wings marked with spiraling black patterns that seem to shift and
 writhe._
 
-**Gloomwing**
-
 **Challenge rating:** 4
 
 **Initiative:** +3

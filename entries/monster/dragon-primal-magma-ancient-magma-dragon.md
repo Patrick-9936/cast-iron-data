@@ -29,8 +29,6 @@ special_qualities = "superheated"
 abilities = ["35", "10", "25", "22", "22", "21"]
 +++
 
-**Ancient Magma Dragon**
-
 **Challenge rating:** 17
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 26)

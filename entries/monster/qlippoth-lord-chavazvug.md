@@ -31,8 +31,6 @@ abilities = ["36", "25", "34", "23", "23", "22"]
 _This towering, steaming mass of slithering entrails drags ropes of mouthed intestines below his
 five spidery legs._
 
-**Chavazvug**
-
 **Challenge rating:** 22
 
 **aura:** cloak of chaos (DC 24)

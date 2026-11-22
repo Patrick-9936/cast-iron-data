@@ -30,8 +30,6 @@ abilities = ["23", "11", "19", "6", "14", "6"]
 
 _Interlocking plates of chitin cover this massive, six-legged beast's face like a jagged mask._
 
-**Cordulegaster**
-
 **Challenge rating:** 6
 
 **Initiative:** +4

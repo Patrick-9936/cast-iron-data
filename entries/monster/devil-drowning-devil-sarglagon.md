@@ -34,8 +34,6 @@ abilities = ["20", "25", "23", "16", "20", "19"]
 _This serpentine creature has fin-like wings, ram horns, four eyes, and arms that end in masses of
 tentacles._
 
-**Drowning Devil (Sarglagon)**
-
 **Challenge rating:** 8
 
 **aura:** heavy aura (10 ft., DC 18)

@@ -29,8 +29,6 @@ special_qualities = "cruelties (fatigued, staggered), fiendish boon (fiendish di
 abilities = ["20", "17", "-", "13", "16", "18"]
 +++
 
-**Ghoul Commander**
-
 **Challenge rating:** 8
 
 **Ghoul [antipaladin](ref/class/antipaladin) 7**

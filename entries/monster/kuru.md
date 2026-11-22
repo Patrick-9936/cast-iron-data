@@ -32,8 +32,6 @@ abilities = ["19", "10", "16", "10", "14", "13"]
 _Disturbing tribal tattoos cover this red-eyed humanoid's face, and his jagged teeth appear to have
 been filed down to points._
 
-**Kuru**
-
 **Challenge rating:** 1/2
 
 **Male [barbarian](ref/class/barbarian) 1**

@@ -32,8 +32,6 @@ abilities = ["6", "15", "-", "2", "12", "15"]
 _A squirming and squeaky mass of rats with rotting flesh, torn and matted fur, and reddish blazing
 eyes moves toward you. Their semi-translucent skin shows discolored bones and muscle._
 
-**Shadow Rat Swarm**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

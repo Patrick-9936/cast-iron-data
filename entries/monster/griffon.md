@@ -29,8 +29,6 @@ abilities = ["16", "15", "16", "5", "13", "8"]
 _This majestic beast has the body of a lion, the head and forelegs of a great eagle, and a massive
 pair of feathered wings._
 
-**Griffon**
-
 **Challenge rating:** 4
 
 **Initiative:** +2

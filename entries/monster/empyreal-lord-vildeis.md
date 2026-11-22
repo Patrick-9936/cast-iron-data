@@ -32,8 +32,6 @@ abilities = ["35", "29", "37", "18", "22", "21"]
 _This red-winged angel is blindfolded and wrapped with bloody bandages. What shows of her flesh is
 scarred with celestial runes._
 
-**Vildeis**
-
 **Challenge rating:** 28
 
 **aura:** primal (30 ft.), protective

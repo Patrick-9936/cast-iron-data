@@ -32,8 +32,6 @@ abilities = ["30", "13", "20", "13", "18", "19"]
 _A hideous mound of shuddering, pustule-encrusted flesh, this bloated creature's gaping maw is
 filled with terrible teeth._
 
-**Hungerer**
-
 **Challenge rating:** 15
 
 **aura:** [stench](ref/umr/stench) (30 ft., DC 25)

@@ -32,8 +32,6 @@ abilities = ["2", "15", "14", "17", "13", "10"]
 _A swarm of rats groups around a barrel, every pair of red eyes staring intently at one rat in the
 center of the mass._
 
-**Hivemind Rat Swarm**
-
 **Challenge rating:** 8
 
 **Initiative:** +6

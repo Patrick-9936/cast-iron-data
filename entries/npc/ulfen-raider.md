@@ -18,8 +18,6 @@ cr = "1/2"
 _This fur-clad and fiercely rugged barbarian stands ready to do battle with a deadly looking
 battleaxe clenched in one hand._
 
-**Ulfen Raider**
-
 **Challenge rating:** 1/2
 
 **XP** 200\

@@ -28,8 +28,6 @@ special_qualities = "trapfinding +1"
 abilities = ["12", "23", "19", "18", "13", "20"]
 +++
 
-**Serpentfolk Spy**
-
 **Challenge rating:** 5
 
 **Advanced serpentfolk [rogue](ref/class/rogue) 1**

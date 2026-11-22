@@ -30,8 +30,6 @@ abilities = ["28", "9", "-", "-", "11", "1"]
 _This towering stone automaton bears the likeness of an archaic, armored warrior. It moves with
 ponderous but inexorable steps._
 
-**Stone Golem**
-
 **Challenge rating:** 11
 
 **Type:** construct

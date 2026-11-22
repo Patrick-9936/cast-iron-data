@@ -29,8 +29,6 @@ abilities = ["19", "15", "16", "-", "10", "2"]
 _This long-legged spider has a huge, glossy black abdomen, marked on the underside with the shape of
 a crimson hourglass._
 
-**Giant Black Widow**
-
 **Challenge rating:** 3
 
 **Initiative:** +2

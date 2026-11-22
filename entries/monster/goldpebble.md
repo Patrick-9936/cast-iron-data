@@ -31,8 +31,6 @@ abilities = ["21", "16", "17", "9", "12", "14"]
 _The scales on this twelve-foot-long water snake's back appear to be nothing more than smooth river
 stones, a few of which glint with traces of gold._
 
-**Goldpebble**
-
 **Challenge rating:** 5
 
 **Initiative:** +7

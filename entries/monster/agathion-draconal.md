@@ -30,8 +30,6 @@ abilities = ["36", "15", "27", "24", "24", "23"]
 _This noble creature seems to be part serpent, part humanoid, and part dragon, with great wings and
 a crown of horns._
 
-**Draconal**
-
 **Challenge rating:** 20
 
 **aura:** protective aura (20 ft.)

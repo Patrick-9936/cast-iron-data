@@ -35,8 +35,6 @@ abilities = ["36", "30", "40", "21", "24", "25"]
 _The twenty-foot-tall winged saurian demon wields an acid-dripping axe. Two red eyes glow above a
 tooth-filled beak._
 
-**Treerazer**
-
 **Challenge rating:** 25
 
 **aura:** corruption (120 ft.), unholy aura (DC 25)

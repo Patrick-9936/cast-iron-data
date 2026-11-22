@@ -32,8 +32,6 @@ abilities = ["31", "20", "-", "-", "11", "1"]
 _Nestled in a massive spiraled armored shell, this clockwork creature has several dozen grasping
 tentacles surrounding its octopus-like beak._
 
-**Clockwork Nautiloid**
-
 **Challenge rating:** 14
 
 **blindsense:** 60

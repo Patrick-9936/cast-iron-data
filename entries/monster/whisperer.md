@@ -32,8 +32,6 @@ abilities = ["-", "31", "36", "24", "23", "29"]
 _This luminous shape stands twice the height of a human. A pale light shines where its face should
 be._
 
-**Whisperer**
-
 **Challenge rating:** 20
 
 **aura:** whispers (120 ft., DC 30)

@@ -30,8 +30,6 @@ abilities = ["10", "13", "-", "11", "12", "13"]
 _An eerie green glow emanates from this decayed soldier's bony eye sockets. It wears a rotted
 uniform and carries a massive crossbow._
 
-**Forsaken Arbalester**
-
 **Challenge rating:** 3
 
 **Initiative:** +5

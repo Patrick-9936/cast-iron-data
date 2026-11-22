@@ -30,8 +30,6 @@ abilities = ["14", "11", "-", "11", "12", "11"]
 _This withered corpse carries a sharpened spear and has a small shield strapped to its emaciated
 arm._
 
-**Forsaken Foot Soldier**
-
 **Challenge rating:** 2
 
 **Initiative:** +0

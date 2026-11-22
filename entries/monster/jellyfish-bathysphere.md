@@ -31,8 +31,6 @@ abilities = ["10", "12", "15", "-", "10", "1"]
 _This miniscule red jellyfish has long, writhing red tentacles and a translucent bell that glows
 with an eerie blue light._
 
-**Bathysphere**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +1

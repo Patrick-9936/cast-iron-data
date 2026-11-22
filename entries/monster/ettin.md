@@ -32,8 +32,6 @@ abilities = ["23", "8", "15", "6", "10", "11"]
 _This lumbering, filthy, two-headed giant wears tattered remnants of leather armor and clutches a
 large flail in each fist._
 
-**Ettin**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

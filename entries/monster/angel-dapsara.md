@@ -31,8 +31,6 @@ abilities = ["11", "14", "13", "10", "15", "14"]
 _This otherworldly dancer moves with incredible grace. A second pair of ghostly arms complement the
 motions of her physical arms._
 
-**Dapsara**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

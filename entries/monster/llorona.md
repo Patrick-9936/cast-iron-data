@@ -31,8 +31,6 @@ abilities = ["-", "25", "-", "11", "13", "24"]
 _Weeping and wearing a damp funeral dress, this ghostly woman carries an air of menace and
 overwhelming despair about her._
 
-**Llorona**
-
 **Challenge rating:** 11
 
 **Initiative:** +11

@@ -32,8 +32,6 @@ abilities = ["13", "16", "10", "12", "17", "6"]
 _This lean, simian humanoid is covered in a layer of soft, lightly colored fur and has a long,
 prehensile tail._
 
-**Vanara**
-
 **Challenge rating:** 1/2
 
 **Vanara [monk](ref/class/monk) 1**

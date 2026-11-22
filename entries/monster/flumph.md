@@ -33,8 +33,6 @@ abilities = ["10", "16", "11", "10", "14", "10"]
 _This pale, jellyfish-like creature floats gently in the air, two long eyestalks extending from
 either side of its puckered mouth._
 
-**Flumph**
-
 **Challenge rating:** 1
 
 **Type:** aberration

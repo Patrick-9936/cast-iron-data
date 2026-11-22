@@ -18,8 +18,6 @@ cr = "2"
 _Every step this fashionable Varisian takes seems like part of a dance, her dozens of strange
 baubles tinkling with her every movement._
 
-**Mystery Cultist**
-
 **Challenge rating:** 2
 
 **XP** 600\

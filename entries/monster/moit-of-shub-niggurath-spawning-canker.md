@@ -29,8 +29,6 @@ _Pale and bloodless, a brutally decapitated corpse lurches forth. Where a head s
 lashes a forest of horrific, unnatural tentacles, whipping as though trying to simultaneously burrow
 deeper into and escape from its fleshy husk._
 
-**Spawning Canker**
-
 **Challenge rating:** 9
 
 **Type:** aberration

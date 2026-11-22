@@ -27,8 +27,6 @@ special_qualities = "water dependency"
 abilities = ["7", "15", "12", "-", "10", "2"]
 +++
 
-**King Crab**
-
 **Challenge rating:** 1/4
 
 **Initiative:** +2

@@ -30,8 +30,6 @@ abilities = ["27", "16", "22", "13", "18", "19"]
 _This immense serpent is covered in dull red fur; the four vestigial legs sprouting from its sides
 don't quite touch the ground._
 
-**Bolla**
-
 **Challenge rating:** 14
 
 **Size:** huge

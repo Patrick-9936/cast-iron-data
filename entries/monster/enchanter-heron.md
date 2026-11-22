@@ -30,8 +30,6 @@ abilities = ["18", "13", "14", "2", "13", "7"]
 _This large bird has gray-and-white feathers, a long beak, and a bulbous sac on its throat that
 glows with a pale, sapphire light._
 
-**Enchanter Heron**
-
 **Challenge rating:** 3
 
 **Type:** animal

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "3"
 +++
 
-**Criminal (Slaver)**
-
 **Challenge rating:** 3
 
 **XP** 800\

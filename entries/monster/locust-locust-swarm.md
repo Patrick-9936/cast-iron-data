@@ -30,8 +30,6 @@ abilities = ["1", "15", "10", "-", "11", "2"]
 
 _Thousands upon thousands of locusts dance and drone in a dark and ravenous cloud._
 
-**Locust Swarm**
-
 **Challenge rating:** 2
 
 **Size:** fine

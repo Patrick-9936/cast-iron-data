@@ -33,8 +33,6 @@ abilities = ["22", "16", "21", "18", "13", "12"]
 _This humanoid figure is garbed only in leather straps wrapped around her translucent skin, as well
 as scattered pieces of armor. She wields a wicked two-pronged blade._
 
-**Triaza**
-
 **Challenge rating:** 10
 
 **Female urdefhan [magus](ref/class/magus) 7**

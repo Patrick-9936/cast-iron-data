@@ -33,8 +33,6 @@ abilities = ["17", "15", "18", "13", "16", "18"]
 _This celestial being is obscured by darkness, but its wings glow brilliantly, silhouetting a stern
 individual with shining eyes._
 
-**Balisse**
-
 **Challenge rating:** 8
 
 **aura:** protective aura

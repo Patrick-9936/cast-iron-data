@@ -27,8 +27,6 @@ abilities = ["5", "15", "11", "-", "10", "6"]
 
 _This vaguely human-shaped plant slashes out with dangerous-looking barbed fronds._
 
-**Razor Fern**
-
 **Challenge rating:** 1/4
 
 **Initiative:** +2

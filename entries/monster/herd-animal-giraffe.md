@@ -28,8 +28,6 @@ abilities = ["20", "15", "16", "2", "13", "7"]
 _This animal, covered in a spotted pattern, has a disproportionately long neck that allows it to
 tower over other animals._
 
-**Giraffe**
-
 **Challenge rating:** 3
 
 **Type:** animal

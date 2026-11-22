@@ -29,8 +29,6 @@ special_attacks = "smother (see lurker above)"
 abilities = ["30", "12", "19", "14", "17", "13"]
 +++
 
-**Trapper**
-
 **Challenge rating:** 8
 
 **Type:** aberration

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "1/3"
 +++
 
-**Apprentice Jeweler**
-
 **Challenge rating:** 1/3
 
 **XP** 135\

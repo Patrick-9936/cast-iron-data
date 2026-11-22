@@ -31,8 +31,6 @@ abilities = ["16", "21", "24", "9", "19", "16"]
 _This appears to be a mass of floating intestines tangled around a fanged mouth - the tips of its
 coils also end in toothy maws._
 
-**Nyogoth**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic evil

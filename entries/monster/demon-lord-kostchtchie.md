@@ -32,8 +32,6 @@ abilities = ["48", "23", "38", "25", "30", "27"]
 _This towering giant with twisted legs has human skulls woven into his beard and holds an immense
 warhammer._
 
-**Kostchtchie**
-
 **Challenge rating:** 26
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 33), unholy aura (DC 26)

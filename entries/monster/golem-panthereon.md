@@ -30,8 +30,6 @@ abilities = ["24", "9", "-", "-", "15", "1"]
 _This finely sculpted statue is formed of hardened clay. Its muscular body is topped with the head
 of a feline predator._
 
-**Panthereon**
-
 **Challenge rating:** 11
 
 **Type:** construct

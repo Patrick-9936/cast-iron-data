@@ -30,8 +30,6 @@ abilities = ["22", "15", "20", "4", "17", "11"]
 _This magnificent creature seems to be a horse, but the sparkle in its eyes reveals its supernatural
 origins._
 
-**Genie-Touched Horse**
-
 **Challenge rating:** 6
 
 **Initiative:** +2

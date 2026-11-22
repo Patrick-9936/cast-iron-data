@@ -36,8 +36,6 @@ abilities = ["18", "8", "19", "12", "13", "15"]
 _Several water-dripping tentacles sprout from this four-eyed fish's belly, while long fins protrude
 from its back._
 
-**Grodair**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic neutral

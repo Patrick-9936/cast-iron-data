@@ -32,8 +32,6 @@ abilities = ["21", "15", "18", "12", "14", "11"]
 _This giant translucent leech has three squirming tentacles around an orifice on one end and a
 stinger on the other._
 
-**Hyaleth**
-
 **Challenge rating:** 10
 
 **Type:** aberration

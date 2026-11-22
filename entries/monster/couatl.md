@@ -29,8 +29,6 @@ abilities = ["20", "16", "20", "17", "19", "17"]
 
 _This great serpent has multicolored wings and eyes that glimmer with intense awareness._
 
-**Couatl**
-
 **Challenge rating:** 10
 
 **Initiative:** +7

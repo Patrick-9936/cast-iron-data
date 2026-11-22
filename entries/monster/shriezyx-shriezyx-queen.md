@@ -30,8 +30,6 @@ abilities = ["17", "17", "18", "9", "12", "14"]
 _This bulbous, green-skinned spider is as large as a horse, its toothy maw smiling beneath three
 glowing eyes._
 
-**Shriezyx Queen**
-
 **Challenge rating:** 8
 
 **Type:** aberration

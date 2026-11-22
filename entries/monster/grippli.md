@@ -32,8 +32,6 @@ abilities = ["12", "17", "13", "12", "12", "8"]
 _Its slick skin a mottled pattern of bright colors, this agile, frog-like humanoid carries a bow and
 wears leather armor._
 
-**Grippli**
-
 **Challenge rating:** 1/2
 
 **Grippli [ranger](ref/class/ranger) 1**

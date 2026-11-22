@@ -30,8 +30,6 @@ abilities = ["20", "9", "-", "-", "11", "1"]
 _This jagged construct of glass has a human's shape, save that one arm ends in a jagged hammer and
 another in a spike of glass._
 
-**Glass Golem**
-
 **Challenge rating:** 8
 
 **Type:** construct

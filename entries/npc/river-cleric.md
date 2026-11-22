@@ -18,8 +18,6 @@ cr = "3"
 _This holy woman wears a large pendant of a winged, two-headed cobra around her neck and wields a
 mace of similar make._
 
-**River Cleric**
-
 **Challenge rating:** 3
 
 **XP** 800\

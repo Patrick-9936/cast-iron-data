@@ -35,8 +35,6 @@ abilities = ["7", "16", "13", "12", "13", "18"]
 _This green-skinned fey has webbed hands and feet. Its hair is the color of seaweed, and is
 decorated with shells._
 
-**Nixie**
-
 **Challenge rating:** 1
 
 **Type:** fey

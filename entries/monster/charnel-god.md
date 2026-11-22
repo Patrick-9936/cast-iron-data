@@ -32,8 +32,6 @@ abilities = ["34", "33", "-", "27", "30", "35"]
 _This porphyry statue depicts a three-headed goddess with draconic wings, a long tail, and a deadly
 looking longbow in her hands._
 
-**Charnel God**
-
 **Challenge rating:** 23
 
 **aura:** divine antithesis (60 ft., DC 35)

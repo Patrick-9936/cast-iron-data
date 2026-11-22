@@ -34,8 +34,6 @@ abilities = ["18", "23", "-", "3", "13", "1"]
 _This wasp-like creature seems to be partially made of metal. Its wings create an iridescent glow as
 it buzzes through the air._
 
-**Warmonger Wasp**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

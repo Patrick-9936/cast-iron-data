@@ -29,8 +29,6 @@ abilities = ["17", "15", "13", "2", "14", "6"]
 _This giant, furry bat is nearly the size of an ox, with dark leathery wings that open wider than
 two men with arms outstretched._
 
-**Dire Bat**
-
 **Challenge rating:** 2
 
 **Type:** animal

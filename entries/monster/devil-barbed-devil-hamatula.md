@@ -31,8 +31,6 @@ abilities = ["23", "23", "22", "12", "15", "18"]
 _From the tip of its lashing tail to the serrated features of its fang-filled visage, this
 fiery-eyed sentinel bristles with barbs._
 
-**Barbed Devil (Hamatula)**
-
 **Challenge rating:** 11
 
 **Initiative:** +6

@@ -32,8 +32,6 @@ abilities = ["34", "28", "24", "21", "23", "21"]
 _This yellowy viscous liquid bubbles in a large tank suspended by strangely organic cables. Wisps of
 white gas occasionally escape the roiling fluid._
 
-**Shipmind**
-
 **Challenge rating:** 13
 
 **blindsight:** 60

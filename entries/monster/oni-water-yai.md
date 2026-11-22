@@ -31,8 +31,6 @@ abilities = ["39", "17", "27", "16", "20", "22"]
 _This towering woman has blue skin, small fangs, and a third eye glaring from her forehead. Her
 robes are soaking wet._
 
-**Water Yai**
-
 **Challenge rating:** 18
 
 **Alignment:** Chaotic evil

@@ -31,8 +31,6 @@ abilities = ["37", "15", "26", "18", "14", "25"]
 
 _This slender dragon is covered in vivid cerulean scales with four powerful wings to match._
 
-**Vishap**
-
 **Challenge rating:** 19
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 29)

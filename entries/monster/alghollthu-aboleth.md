@@ -29,8 +29,6 @@ abilities = ["20", "12", "22", "15", "17", "17"]
 _Four long tentacles writhe from this three-eyed fish-like creature's flanks, and its green body
 glistens with thick, clear slime._
 
-**Aboleth**
-
 **Challenge rating:** 7
 
 **Type:** aberration

@@ -30,8 +30,6 @@ abilities = ["10", "8", "12", "17", "15", "12"]
 
 _The pale-blue skin of this dark-haired humanoid seems to subtly change hue from moment to moment._
 
-**Reborn Samsaran**
-
 **Challenge rating:** 1/2
 
 **Reborn samsaran [occultist](ref/class/occultist) 1**

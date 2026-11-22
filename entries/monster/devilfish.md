@@ -35,8 +35,6 @@ abilities = ["17", "17", "16", "3", "12", "8"]
 _This purple, seven-armed octopoid monstrosity is the size of a horse, with hook-lined tentacles and
 cold, blue eyes._
 
-**Devilfish**
-
 **Challenge rating:** 4
 
 **Initiative:** +3

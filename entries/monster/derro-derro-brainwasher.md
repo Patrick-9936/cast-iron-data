@@ -33,8 +33,6 @@ abilities = ["11", "19", "16", "12", "7", "20"]
 _This pallid woman's clothing is adorned with leather straps, wicked barbs, and surgical tools. Her
 eyes twinkle with madness._
 
-**Derro Brainwasher**
-
 **Challenge rating:** 5
 
 **Derro [bard](ref/class/bard) 2**

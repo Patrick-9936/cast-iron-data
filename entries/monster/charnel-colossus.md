@@ -31,8 +31,6 @@ abilities = ["34", "9", "-", "18", "36", "25"]
 _This horror is composed of dozens, if not hundreds, of decomposing cadavers held together as an
 amalgamated whole._
 
-**Charnel Colossus**
-
 **Challenge rating:** 19
 
 **Size:** colossal

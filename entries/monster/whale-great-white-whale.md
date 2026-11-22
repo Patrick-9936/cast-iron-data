@@ -31,8 +31,6 @@ abilities = ["50", "6", "27", "2", "11", "5"]
 _This immense whale has an enormous, box-shaped head over a massive, toothy maw. Its rough white
 hide is laced with scars._
 
-**Great White Whale**
-
 **Challenge rating:** 14
 
 **Type:** animal

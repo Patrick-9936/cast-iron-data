@@ -31,8 +31,6 @@ _Dangling chains cover the riveted iron body of this massive rhinoceros like thi
 hollow eyes glow - windows into a mighty furnace - and smoke that smells suspiciously like burning
 flesh billows from its smokestack horns._
 
-**Iron Rhinoceros**
-
 **Challenge rating:** 11
 
 **Type:** construct

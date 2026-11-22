@@ -31,8 +31,6 @@ abilities = ["16", "16", "15", "12", "8", "14"]
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with
 the thrill of the coming kill._
 
-**Bugbear Cultist**
-
 **Challenge rating:** 7
 
 **Bugbear [oracle](ref/class/oracle) 6**

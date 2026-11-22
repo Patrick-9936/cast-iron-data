@@ -30,8 +30,6 @@ abilities = ["20", "18", "23", "17", "18", "19"]
 _This piscine nightmare glares with five eyes. Four tentacles, two of them terminating in small
 claws, flank its fanged jaws._
 
-**Thalassic Architect**
-
 **Challenge rating:** 10
 
 **Type:** aberration

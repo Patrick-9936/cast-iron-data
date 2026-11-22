@@ -30,8 +30,6 @@ abilities = ["14", "16", "16", "7", "18", "10"]
 _Garbed in tattered robes, this emaciated humanoid creature stares out with unblinking white eyes.
 In one hand, he clutches a great blade, while his other hand holds an idol of some fell power._
 
-**Eudranis**
-
 **Challenge rating:** 5
 
 **Male morlock [cleric](ref/class/cleric) of [Lamashtu](ref/faith/lamashtu) 4**

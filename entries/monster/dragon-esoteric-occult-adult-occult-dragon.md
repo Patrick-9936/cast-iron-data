@@ -27,8 +27,6 @@ special_qualities = "change shape"
 abilities = ["24", "12", "21", "20", "18", "17"]
 +++
 
-**Adult Occult Dragon**
-
 **Challenge rating:** 10
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 19), protective aura (20

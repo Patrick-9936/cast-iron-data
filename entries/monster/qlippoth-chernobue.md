@@ -30,8 +30,6 @@ abilities = ["26", "18", "24", "13", "17", "19"]
 _This slippery, writhing mass of tentacles and stalked mouths has one huge hideous eye and a fanged
 maw for a belly._
 
-**Chernobue**
-
 **Challenge rating:** 12
 
 **aura:** misfortune (30 ft.)

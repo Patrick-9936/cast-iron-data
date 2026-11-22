@@ -32,8 +32,6 @@ abilities = ["34", "19", "18", "9", "12", "17"]
 _This powerful steed stands upon wispy puffs of air, its grassy mane and tail swishing majestically
 in the wind._
 
-**Wild Hunt Horse**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic neutral

@@ -30,8 +30,6 @@ abilities = ["8", "13", "19", "-", "12", "11"]
 _This patch of vines is ornamented with beautiful crimson and violet flowers, the petals of which
 seem to bear tiny faces._
 
-**Xtabay**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +1

@@ -33,8 +33,6 @@ abilities = ["17", "12", "-", "-", "11", "1"]
 _A lurching mash-up of rotting flesh, jagged bone, and coarse hair, this humanoid monstrosity reeks
 of death and decay._
 
-**Carrion Golem**
-
 **Challenge rating:** 4
 
 **aura:** foul [stench](ref/umr/stench) (DC 12, 1 round)

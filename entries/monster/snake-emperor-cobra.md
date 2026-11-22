@@ -28,8 +28,6 @@ abilities = ["22", "15", "18", "1", "17", "2"]
 _This massive green cobra rears its head upward aggressively, its brightly colored, scaly hood
 flaring in an unmistakable warning._
 
-**Emperor Cobra**
-
 **Challenge rating:** 5
 
 **Type:** animal

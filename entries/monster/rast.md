@@ -31,8 +31,6 @@ abilities = ["14", "12", "17", "3", "13", "12"]
 _This bulbous creature consists of many tangled legs, a bulging body of puffed flesh, and a mouth
 filled with sharp fangs._
 
-**Rast**
-
 **Challenge rating:** 5
 
 **Initiative:** +5

@@ -31,8 +31,6 @@ _A chilling statue strands behind a dark altar, both smeared with evidence of gr
 monstrous statue, sculpted as a perverse amalgam of both man and beast, raises a wickedly curved
 sacrificial dagger above its head, its bejeweled eyes seeming to glint with murderous zeal._
 
-**Ebon Acolytus**
-
 **Challenge rating:** 7
 
 **Type:** construct

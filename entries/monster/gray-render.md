@@ -30,8 +30,6 @@ abilities = ["25", "13", "24", "3", "14", "8"]
 _This hulking beast has slick, gray, hairless skin. Its numerous yellow eyes and wide toothy maw are
 its only facial features._
 
-**Gray Render**
-
 **Challenge rating:** 8
 
 **Initiative:** +1

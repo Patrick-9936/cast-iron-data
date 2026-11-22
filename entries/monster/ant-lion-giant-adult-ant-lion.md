@@ -31,8 +31,6 @@ abilities = ["24", "16", "19", "-", "11", "10"]
 
 _This spindly insect, borne aloft on four delicate wings, snaps its mandibles in obvious hunger._
 
-**Giant Adult Ant Lion**
-
 **Challenge rating:** 6
 
 **Size:** huge

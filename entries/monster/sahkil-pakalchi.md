@@ -32,8 +32,6 @@ abilities = ["22", "23", "20", "15", "16", "21"]
 _Thorny vines with tiny red flowers grow from this emaciated woman and flow like a train behind
 her._
 
-**Pakalchi**
-
 **Challenge rating:** 9
 
 **Initiative:** +10

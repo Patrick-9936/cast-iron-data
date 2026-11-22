@@ -29,8 +29,6 @@ abilities = ["27", "14", "19", "2", "12", "7"]
 _This dinosaur seems comfortable on two legs or four. Its front limbs are each adorned with a
 cruel-looking, thumb-like spike._
 
-**Iguanodon**
-
 **Challenge rating:** 6
 
 **Type:** animal

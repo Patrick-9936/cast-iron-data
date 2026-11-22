@@ -31,8 +31,6 @@ abilities = ["12", "11", "13", "8", "13", "12"]
 _An ever-gnashing maw, filled with row after row of mismatched teeth, dominates this frightful
 creature's orb-like body._
 
-**Cacodaemon**
-
 **Challenge rating:** 2
 
 **Initiative:** +4

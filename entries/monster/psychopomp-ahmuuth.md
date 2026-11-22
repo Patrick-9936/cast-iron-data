@@ -31,8 +31,6 @@ abilities = ["10", "13", "15", "10", "13", "12"]
 _This somberly dressed humanoid wears an ominous mask. Gravestones float near it like heavy
 shields._
 
-**Ahmuuth**
-
 **Challenge rating:** 4
 
 **Initiative:** +1

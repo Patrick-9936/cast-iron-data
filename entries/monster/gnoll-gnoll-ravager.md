@@ -29,8 +29,6 @@ special_qualities = "cruelties (fatigued, nauseated, staggered), fiendish boon (
 abilities = ["23", "10", "18", "6", "12", "13"]
 +++
 
-**Gnoll Ravager**
-
 **Challenge rating:** 11
 
 **Gnoll [antipaladin](ref/class/antipaladin) of [Lamashtu](ref/faith/lamashtu) 10**

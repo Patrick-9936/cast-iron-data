@@ -30,8 +30,6 @@ special_qualities = "track +1, wild empathy +0"
 abilities = ["13", "18", "13", "10", "12", "6"]
 +++
 
-**Goblin Outrider**
-
 **Challenge rating:** 1
 
 **Goblin [ranger](ref/class/ranger) 2**

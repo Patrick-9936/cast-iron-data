@@ -32,8 +32,6 @@ _Eldritch energy burns within the eyes of this humanoid figure. Strangely colore
 head like a torch, and gleaming white teeth shine from her grin. The creature cradles a pipe in her
 long, graceful fingers._
 
-**Dawn Piper**
-
 **Challenge rating:** 5
 
 **aura:** terrible beauty (30 ft., DC 16)

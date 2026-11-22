@@ -30,8 +30,6 @@ abilities = ["44", "24", "27", "-", "11", "3"]
 _Two of this spider-like creature's spindly legs are whip-like feelers, and it has two hooked
 appendages lined with spines._
 
-**Titanic Whip Spider**
-
 **Challenge rating:** 16
 
 **Size:** colossal

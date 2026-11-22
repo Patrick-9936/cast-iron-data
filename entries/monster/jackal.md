@@ -30,8 +30,6 @@ abilities = ["13", "15", "14", "2", "13", "6"]
 _This sandy-colored canine resembles a slender-bodied wolf with short, graceful legs. It watches
 with dark brown eyes._
 
-**Jackal**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

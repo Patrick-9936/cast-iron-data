@@ -30,8 +30,6 @@ abilities = ["21", "11", "16", "2", "13", "6"]
 _Two long tusks jut from the mouth of this bulky, bewhiskered creature. It walks clumsily on
 flippers instead of feet._
 
-**Walrus (B4)**
-
 **Challenge rating:** 3
 
 **Type:** animal

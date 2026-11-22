@@ -28,8 +28,6 @@ abilities = ["10", "15", "14", "1", "15", "2"]
 
 _This long, muscular snake rears up and shows its hood and fangs when threatened._
 
-**Asp**
-
 **Challenge rating:** 2
 
 **Type:** animal

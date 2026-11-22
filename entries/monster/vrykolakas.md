@@ -35,8 +35,6 @@ abilities = ["26", "19", "-", "7", "18", "23"]
 _This twisted, barely-humanoid monstrosity has rancid-looking flesh, an unnaturally long neck, and a
 mouth full of fangs._
 
-**Vrykolakas**
-
 **Challenge rating:** 10
 
 **aura:** pestilent aura (5 ft., DC 22)

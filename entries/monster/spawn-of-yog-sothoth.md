@@ -34,8 +34,6 @@ abilities = ["26", "15", "21", "17", "17", "20"]
 _The shape of this creature gives the impression of a squirming mass accompanied by an indescribable
 monstrous stench._
 
-**Spawn of Yog-Sothoth**
-
 **Challenge rating:** 10
 
 **Type:** aberration

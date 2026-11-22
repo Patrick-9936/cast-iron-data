@@ -32,8 +32,6 @@ abilities = ["15", "14", "19", "12", "15", "16"]
 _This creature resembles a cross between a humanoid and a sea turtle, with flipper-like hands and a
 heavy shell covering its back._
 
-**Chelonidal**
-
 **Challenge rating:** 7
 
 **Initiative:** +2

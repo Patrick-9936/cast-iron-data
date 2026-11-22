@@ -30,8 +30,6 @@ abilities = ["6", "15", "10", "13", "14", "15"]
 _This withered, eyeless little creature has a mushroom cap for a head, and a stringy fungus beard
 frames his toothless grin._
 
-**Nuno**
-
 **Challenge rating:** 1/2
 
 **Type:** fey

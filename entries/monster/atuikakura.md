@@ -31,8 +31,6 @@ abilities = ["36", "25", "22", "3", "18", "13"]
 _This enormous red worm-like creature has several rows of white spines and a circular mouth filled
 with hooked teeth._
 
-**Atuikakura**
-
 **Challenge rating:** 14
 
 **Size:** gargantuan

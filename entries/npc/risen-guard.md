@@ -18,8 +18,6 @@ cr = "5"
 _This warrior's armor resembles the carapace of a mighty beetle. She wields a khopesh in one hand
 and a large shield in the other._
 
-**Risen Guard**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

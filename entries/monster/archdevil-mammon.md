@@ -30,8 +30,6 @@ abilities = ["38", "35", "40", "31", "30", "33"]
 _This shining being is humanoid, but its four arms, multiple legs, and horned head reveal its
 diabolic nature._
 
-**Mammon**
-
 **Challenge rating:** 28
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 37), shield of law (DC 29)

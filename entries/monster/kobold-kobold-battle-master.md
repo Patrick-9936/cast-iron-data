@@ -31,8 +31,6 @@ abilities = ["12", "12", "12", "12", "13", "8"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold Battle Master**
-
 **Challenge rating:** 6
 
 **Kobold [cavalier](ref/class/cavalier) 7**

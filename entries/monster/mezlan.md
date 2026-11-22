@@ -36,8 +36,6 @@ abilities = ["30", "25", "24", "15", "18", "17"]
 _An amorphous blob coalesces, forming into a humanoid figure. As it stabilizes, intricate details
 emerge._
 
-**Mezlan**
-
 **Challenge rating:** 14
 
 **blindsight:** 120

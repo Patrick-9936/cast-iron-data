@@ -32,8 +32,6 @@ abilities = ["26", "18", "26", "16", "13", "14"]
 _This leering, single-horned demon seems emaciated even clad in black dragonhide armor. A viscous
 layer of crimson slime glistens on its flesh, dripping over its armor in red rivulets._
 
-**Mangvhune, the Temple Hill Slasher**
-
 **Challenge rating:** 16
 
 **Male babau assassin 10**

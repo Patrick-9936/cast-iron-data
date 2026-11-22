@@ -30,8 +30,6 @@ abilities = ["31", "27", "28", "14", "22", "23"]
 _Bristling with terrible spines and a crown of deadly horns, this leering winged terror wields a
 whirling barbed chain._
 
-**Horned Devil (Cornugon)**
-
 **Challenge rating:** 16
 
 **aura:** fear aura (5 ft., DC 23)

@@ -28,8 +28,6 @@ abilities = ["18", "25", "17", "-", "13", "6"]
 
 _A bloated, red belly dangles beneath the furiously beating wings of this massive mosquito._
 
-**Giant Mosquito**
-
 **Challenge rating:** 6
 
 **Initiative:** +7

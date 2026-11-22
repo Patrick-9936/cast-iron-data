@@ -32,8 +32,6 @@ abilities = ["18", "13", "15", "2", "11", "6"]
 _Foul-smelling fluids ooze from weeping sores across the scaly skin of this squat, powerful, and
 vaguely canine beast._
 
-**Trollhound**
-
 **Challenge rating:** 3
 
 **Initiative:** +5

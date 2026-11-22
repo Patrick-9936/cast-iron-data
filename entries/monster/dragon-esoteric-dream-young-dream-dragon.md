@@ -30,8 +30,6 @@ abilities = ["19", "13", "16", "16", "15", "18"]
 
 _Clouds trail from the edges of this graceful, nearly fanciful creature in hypnotizing patterns._
 
-**Young Dream Dragon**
-
 **Challenge rating:** 10
 
 **Type:** dragon

@@ -30,8 +30,6 @@ abilities = ["10", "17", "10", "13", "12", "14"]
 _Fiendish wings and a whipping scorpion-like tail lash behind this diminutive, red-skinned
 nuisance._
 
-**Imp**
-
 **Challenge rating:** 2
 
 **Initiative:** +3

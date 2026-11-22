@@ -34,8 +34,6 @@ _This woman with vaguely half-elven features wears a wooden breastplate and wiel
 morningstar in one hand. In her other hand she holds a thorny red rose; blood from that hand
 trickles down her arm._
 
-**Courage Heart**
-
 **Challenge rating:** 15
 
 **aura:** rebellious aura (60 ft.)

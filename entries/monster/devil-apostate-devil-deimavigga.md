@@ -35,8 +35,6 @@ abilities = ["28", "31", "28", "21", "24", "28"]
 _A grim metal mask floats above ceremonial armor that shifts and writhes, and long blades form
 fingers on gauntleted hands._
 
-**Apostate Devil (Deimavigga)**
-
 **Challenge rating:** 17
 
 **Initiative:** +14

@@ -31,8 +31,6 @@ abilities = ["43", "36", "31", "7", "28", "21"]
 _A single sinister eye glares from the heart of this roiling cloud of darkness as tentacles of smoke
 coil and writhe beneath it._
 
-**Oblivion**
-
 **Challenge rating:** 20
 
 **aura:** dubiety (60 ft.)

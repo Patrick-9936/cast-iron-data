@@ -18,8 +18,6 @@ cr = "4"
 _Clad in black silk and a chain shirt, this bold woman has a strong stance and wields a masterfully
 crafted rapier; the tricorne hat atop her head depicts a skull and crossbones._
 
-**Besmaran Priest**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

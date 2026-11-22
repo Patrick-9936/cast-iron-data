@@ -25,8 +25,6 @@ melee = "bite +4 melee (1d3-4)"
 abilities = ["3", "15", "10", "2", "12", "5"]
 +++
 
-**Monkey**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

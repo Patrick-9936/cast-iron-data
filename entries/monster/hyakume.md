@@ -31,8 +31,6 @@ abilities = ["18", "27", "24", "19", "22", "29"]
 _This bloated creature's eyes protrude from between the fleshy fat rolls of its neckless, hulking
 form._
 
-**Hyakume**
-
 **Challenge rating:** 15
 
 **Type:** aberration

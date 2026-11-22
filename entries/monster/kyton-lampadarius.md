@@ -30,8 +30,6 @@ abilities = ["11", "15", "14", "11", "10", "12"]
 _Ragged wounds on one side of this leather-clad humanoid's face and body mark the transition between
 flesh and shifting shadowstuff._
 
-**Lampadarius**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

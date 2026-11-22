@@ -30,8 +30,6 @@ abilities = ["30", "17", "-", "9", "14", "21"]
 
 _This towering collection of sun-bleached bones is assembled in a humanoid form._
 
-**Ossumental (Earth)**
-
 **Challenge rating:** 12
 
 **Initiative:** +3

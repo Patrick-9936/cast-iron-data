@@ -31,8 +31,6 @@ abilities = ["16", "10", "-", "-", "11", "14"]
 _It suddenly becomes clear that this is no ordinary pumpkin-headed scarecrow when its eyes glow and
 it comes to jerky life._
 
-**Scarecrow**
-
 **Challenge rating:** 4
 
 **Type:** construct

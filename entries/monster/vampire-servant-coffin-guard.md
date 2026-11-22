@@ -29,8 +29,6 @@ special_qualities = "elven magic, favored terrain (urban +2), hunter's bond (com
 abilities = ["12", "18", "12", "12", "13", "8"]
 +++
 
-**Coffin Guard**
-
 **Challenge rating:** 3
 
 **Elf [ranger](ref/class/ranger) 4**

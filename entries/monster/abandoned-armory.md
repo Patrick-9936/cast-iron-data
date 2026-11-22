@@ -32,8 +32,6 @@ abilities = ["34", "13", "-", "-", "10", "1"]
 _This aggregation of weapons, armor, and other tools of war looms like a slow avalanche of twisted
 iron and eldritch sparks._
 
-**Abandoned Armory**
-
 **Challenge rating:** 13
 
 **blindsense:** 120

@@ -31,8 +31,6 @@ abilities = ["18", "13", "-", "11", "12", "17"]
 _This humanoid figure has two impossibly deep pits where its eyes should be, and long claws that
 stretch toward the ground._
 
-**Gravebound**
-
 **Challenge rating:** 4
 
 **Initiative:** +5

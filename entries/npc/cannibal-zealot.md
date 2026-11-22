@@ -18,8 +18,6 @@ cr = "6"
 _Crude designs painted in what can only be dried blood cake the face and the hide clothing of this
 rugged-looking human, whose grinning mouth is filled with sharp, filed teeth._
 
-**Cannibal Zealot**
-
 **Challenge rating:** 6
 
 **XP** 2,400\

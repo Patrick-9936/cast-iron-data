@@ -30,8 +30,6 @@ abilities = ["20", "17", "16", "7", "12", "9"]
 
 _A mass of shell-like fungus grows so thick it obscures the mass of plant matter beneath._
 
-**Psychepore**
-
 **Challenge rating:** 7
 
 **Initiative:** +3

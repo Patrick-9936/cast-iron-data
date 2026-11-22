@@ -28,8 +28,6 @@ abilities = ["18", "11", "15", "-", "11", "6"]
 
 _This large beetle's black, shiny exoskeleton clicks and grinds as it opens its dripping mandibles._
 
-**Dark Spitter Beetle**
-
 **Challenge rating:** 3
 
 **Initiative:** +0

@@ -32,8 +32,6 @@ _This figure seems caught at the moment of transformation between human and anim
 bearded face seems like a man's, its head is crowned with a rack of antlers, and its hunched body is
 covered in patches of sleek black fur._
 
-**Birelu**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic neutral

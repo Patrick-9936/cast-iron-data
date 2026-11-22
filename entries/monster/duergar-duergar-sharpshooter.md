@@ -29,8 +29,6 @@ special_qualities = "ironskinned, slow and steady, stability, track +1, wild emp
 abilities = ["14", "15", "14", "10", "15", "4"]
 +++
 
-**Duergar Sharpshooter**
-
 **Challenge rating:** 1/2
 
 **Duergar [ranger](ref/class/ranger) 1**

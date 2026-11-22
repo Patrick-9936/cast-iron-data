@@ -29,8 +29,6 @@ special_qualities = "rogue talents (bleeding attack +2, fast stealth), trapfindi
 abilities = ["17", "16", "8", "12", "8", "10"]
 +++
 
-**Orc Thug**
-
 **Challenge rating:** 3
 
 **Orc [rogue](ref/class/rogue) 4**

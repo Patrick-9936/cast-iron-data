@@ -27,8 +27,6 @@ special_qualities = "oracle's curse (lame), revelations (bleeding wounds, death'
 abilities = ["12", "19", "20", "18", "19", "20"]
 +++
 
-**Serpentfolk Bone Prophet**
-
 **Challenge rating:** 11
 
 **Advanced serpentfolk [oracle](ref/class/oracle) 7**

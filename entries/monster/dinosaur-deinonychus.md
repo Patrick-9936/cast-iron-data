@@ -28,8 +28,6 @@ abilities = ["15", "15", "19", "2", "12", "14"]
 _This brightly colored dinosaur exudes a dangerous ferocity. Each foot is armed with a large,
 sickle-shaped claw._
 
-**Deinonychus**
-
 **Challenge rating:** 3
 
 **Type:** animal

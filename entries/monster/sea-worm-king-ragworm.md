@@ -31,8 +31,6 @@ abilities = ["37", "28", "27", "-", "17", "2"]
 _This enormous segmented worm shimmers with iridescent colors, and large bristles run along its
 sides._
 
-**King Ragworm**
-
 **Challenge rating:** 13
 
 **Size:** gargantuan

@@ -32,8 +32,6 @@ abilities = ["12", "17", "16", "-", "7", "2"]
 _Bristling with coarse hairs, this enormous fly's legs twitch just before it launches into the air
 on buzzing wings._
 
-**Giant Fly**
-
 **Challenge rating:** 1
 
 **Initiative:** +3

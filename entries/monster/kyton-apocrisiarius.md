@@ -32,8 +32,6 @@ _This slender humanoid is clad in a severe black leather harness and long skirt 
 curling twists of wire. Her eyes are colorless orbs, and tears of blood course down her cheeks.
 Slender surgical lancets pierce her body in numerous locations, yet these wounds do not bleed._
 
-**Apocrisiarius**
-
 **Challenge rating:** 7
 
 **aura:** truth (30 ft., DC 14)

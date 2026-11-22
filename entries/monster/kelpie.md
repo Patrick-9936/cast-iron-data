@@ -32,8 +32,6 @@ abilities = ["15", "16", "15", "8", "12", "17"]
 _This hideous humanoid creature has slimy, transparent skin; webbed, humanoid hands; and a
 snaggletoothed, horse-like face._
 
-**Kelpie**
-
 **Challenge rating:** 4
 
 **Type:** fey

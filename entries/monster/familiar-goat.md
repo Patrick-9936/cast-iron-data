@@ -28,8 +28,6 @@ melee = "gore +2 (1d4+1)"
 abilities = ["12", "13", "12", "2", "11", "5"]
 +++
 
-**Goat**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

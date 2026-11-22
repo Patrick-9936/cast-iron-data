@@ -15,8 +15,6 @@ kind = "creature"
 cr = "6"
 +++
 
-**Bloodfire Sorcerer**
-
 **Challenge rating:** 6
 
 **XP** 2,400\

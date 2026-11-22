@@ -30,8 +30,6 @@ abilities = ["15", "13", "14", "-", "10", "2"]
 
 _This lumbering hard-shelled crab stands as tall as a dwarf, its massive pincers waving menacingly._
 
-**Giant Crab**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

@@ -32,8 +32,6 @@ abilities = ["-", "34", "-", "20", "21", "22"]
 _This ghostly, skeletal creature appears to once have been a dragon, but it is now something far
 less noble._
 
-**Wyrmwraith**
-
 **Challenge rating:** 17
 
 **aura:** [unnatural aura](ref/umr/unnatural-aura)

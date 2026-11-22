@@ -31,8 +31,6 @@ abilities = ["10", "16", "14", "8", "12", "16"]
 
 _The tricorne hat this gillwoman wears is encrusted with salt, suggesting years spent at sea._
 
-**Squall Seer**
-
 **Challenge rating:** 9
 
 **Gillman [bard](ref/class/bard) ([sea singer](ref/arc-bard/sea-singer)) 10**

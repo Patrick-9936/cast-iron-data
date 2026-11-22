@@ -32,8 +32,6 @@ abilities = ["29", "32", "39", "18", "23", "24"]
 _Twin talons attached to grotesque back-appendages drip blood from this hideously emaciated,
 jackal-legged albino demon._
 
-**Nightripper**
-
 **Challenge rating:** 24
 
 **aura:** unholy aura (DC 25)

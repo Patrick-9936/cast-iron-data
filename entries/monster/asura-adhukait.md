@@ -33,8 +33,6 @@ abilities = ["20", "17", "17", "13", "16", "16"]
 _A pair of spiked fiends, interwoven through bodily cavities and impaling limbs, spin in a dance
 with their twin curved knives._
 
-**Adhukait**
-
 **Challenge rating:** 7
 
 **aura:** elusive (30 ft.)

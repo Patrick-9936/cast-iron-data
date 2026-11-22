@@ -32,8 +32,6 @@ abilities = ["23", "22", "23", "4", "10", "11"]
 _A faint ripple in the air suggests a hazy and vaguely humanoid vapor moving with terrible
 swiftness._
 
-**Aerial Servant**
-
 **Challenge rating:** 11
 
 **Initiative:** +10

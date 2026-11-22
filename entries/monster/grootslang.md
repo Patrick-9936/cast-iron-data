@@ -34,8 +34,6 @@ abilities = ["36", "19", "26", "15", "20", "15"]
 _This enormous beast has the combined features of an elephant and a serpent. Its tremendous maw
 sports six frightening tusks._
 
-**Grootslang**
-
 **Challenge rating:** 16
 
 **Alignment:** Chaotic evil

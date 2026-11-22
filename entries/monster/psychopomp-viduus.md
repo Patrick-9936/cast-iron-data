@@ -33,8 +33,6 @@ abilities = ["10", "11", "18", "15", "19", "16"]
 
 _This dour being has a mostly humanoid form with its lower body wrapped in a cocoon-like husk._
 
-**Viduus**
-
 **Challenge rating:** 4
 
 **Initiative:** +4

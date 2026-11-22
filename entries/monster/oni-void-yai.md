@@ -32,8 +32,6 @@ abilities = ["44", "15", "32", "18", "23", "25"]
 _This towering, three-eyed horned giant carries himself with the self-assurance of an undefeated
 champion of countless wars._
 
-**Void Yai**
-
 **Challenge rating:** 20
 
 **Size:** huge

@@ -31,8 +31,6 @@ abilities = ["37", "15", "22", "2", "16", "13"]
 _This enormous bird has a lizard-like tail and bright purple feathers on its back and wings; the
 rest of its body is bare and scaly._
 
-**Jubjub Bird**
-
 **Challenge rating:** 15
 
 **Size:** huge

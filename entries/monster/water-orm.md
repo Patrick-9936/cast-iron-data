@@ -31,8 +31,6 @@ abilities = ["26", "16", "21", "4", "13", "11"]
 _A reptilian head on a serpentine neck slowly surfaces. Shadows beneath the water hint at a body of
 considerable size._
 
-**Water Orm**
-
 **Challenge rating:** 10
 
 **Size:** huge

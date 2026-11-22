@@ -36,8 +36,6 @@ abilities = ["29", "17", "20", "10", "14", "11"]
 _This hulking creature has the lower half of an eight-legged stallion and the upper half of a horned
 frost giant._
 
-**Svathurim**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic evil

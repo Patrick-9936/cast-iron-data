@@ -30,8 +30,6 @@ abilities = ["2", "14", "7", "2", "14", "5"]
 
 _This small bird has a mix of brown and white feathers and makes a loud croaking sound._
 
-**Ptarmigan**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

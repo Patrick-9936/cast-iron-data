@@ -35,8 +35,6 @@ abilities = ["20", "19", "17", "16", "16", "21"]
 _This creature looks like a beautiful human woman from the waist up, but below is the body and tail
 of an immense snake._
 
-**Lamia Matriarch**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

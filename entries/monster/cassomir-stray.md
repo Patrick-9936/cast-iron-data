@@ -29,8 +29,6 @@ abilities = ["15", "12", "19", "2", "14", "3"]
 
 _This mangy stray animal growls and whimpers miserably. Stinking blue drool drips from its fangs._
 
-**Cassomir Stray**
-
 **Challenge rating:** 4
 
 **Type:** aberration

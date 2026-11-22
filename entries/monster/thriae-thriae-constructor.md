@@ -30,8 +30,6 @@ abilities = ["30", "11", "22", "-", "17", "13"]
 
 _A droning hum surrounds this gargantuan half-bee, half-woman with insectile wings._
 
-**Thriae Constructor**
-
 **Challenge rating:** 14
 
 **Size:** gargantuan

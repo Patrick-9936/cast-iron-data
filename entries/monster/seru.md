@@ -30,8 +30,6 @@ abilities = ["6", "15", "14", "11", "13", "10"]
 
 _The sound of flapping wings and an angry hiss accompany the appearance of this flying snake._
 
-**Seru**
-
 **Challenge rating:** 3
 
 **Initiative:** +6

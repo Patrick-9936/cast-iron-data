@@ -32,8 +32,6 @@ abilities = ["23", "18", "17", "8", "14", "15"]
 _Glossy eyespots bulge from the neck of this long-limbed figure. Jagged teeth line the open mouth in
 its chest._
 
-**Narrik**
-
 **Challenge rating:** 7
 
 **Type:** aberration

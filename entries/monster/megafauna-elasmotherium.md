@@ -29,8 +29,6 @@ abilities = ["34", "10", "23", "2", "17", "3"]
 _This lumbering, four-legged, rhino-like beast has thick hide and a single immense horn protruding
 from the top of its head._
 
-**Elasmotherium**
-
 **Challenge rating:** 9
 
 **Type:** animal

@@ -17,8 +17,6 @@ cr = "7"
 
 _A metal mask covers the face of this attentive guard._
 
-**Ossuary Agent**
-
 **Challenge rating:** 7
 
 **XP** 3,200\

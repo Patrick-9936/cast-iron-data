@@ -29,8 +29,6 @@ abilities = ["17", "17", "12", "1", "12", "2"]
 _This large snake has a thick, muscular body and dull green scales decorated with dirty brown
 stripes._
 
-**Constrictor Snake**
-
 **Challenge rating:** 2
 
 **Type:** animal

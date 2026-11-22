@@ -30,8 +30,6 @@ abilities = ["-", "21", "-", "10", "20", "23"]
 _This cloud of thick black smoke crackles as flashes of electricity illuminate it from within, but
 it whirs as if mechanical._
 
-**Smoke Sentinel**
-
 **Challenge rating:** 9
 
 **Type:** construct

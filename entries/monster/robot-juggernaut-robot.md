@@ -32,8 +32,6 @@ abilities = ["36", "11", "-", "12", "13", "1"]
 _This towering mechanical humanoid stares down from a soulless violet eye. Its metallic fists
 crackle with electricity._
 
-**Juggernaut Robot**
-
 **Challenge rating:** 15
 
 **Type:** construct

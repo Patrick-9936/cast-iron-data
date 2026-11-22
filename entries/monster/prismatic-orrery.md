@@ -29,8 +29,6 @@ abilities = ["25", "14", "-", "-", "10", "1"]
 
 _A series of metal rings rotates around a giant prismatic sphere._
 
-**Prismatic Orrery**
-
 **Challenge rating:** 13
 
 **Type:** construct

@@ -33,8 +33,6 @@ _This lumbering toad-like demon wields a blood-soaked halberd in its powerful ha
 hands is clad in a rusting jagged gauntlet, while on the beast's misshapen head perches a leering
 helm made of greasy green metal._
 
-**Balravnus, Lord of the Deep Pools**
-
 **Challenge rating:** 18
 
 **Male hezrou [barbarian](ref/class/barbarian) 7**

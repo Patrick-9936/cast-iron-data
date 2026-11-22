@@ -32,8 +32,6 @@ abilities = ["18", "17", "20", "13", "20", "23"]
 _Surrounded by lightning, this impressive female warrior wears a gleaming golden breastplate and
 carries a shining spear._
 
-**Valkyrie**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic neutral

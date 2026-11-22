@@ -29,8 +29,6 @@ abilities = ["7", "15", "10", "-", "10", "2"]
 
 _These small, immature water insects are easily supported by the water's surface tension._
 
-**Nymph Water Strider**
-
 **Challenge rating:** 1/4
 
 **Initiative:** +2

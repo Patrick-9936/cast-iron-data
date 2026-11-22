@@ -31,8 +31,6 @@ abilities = ["17", "16", "17", "20", "15", "16"]
 _An elegant leather gown, skull-shaped studs, and a silken veil conceal much of this humanoid's
 transparent flesh._
 
-**Orvian Necromancer**
-
 **Challenge rating:** 12
 
 **Urdefhan necromancer 11**

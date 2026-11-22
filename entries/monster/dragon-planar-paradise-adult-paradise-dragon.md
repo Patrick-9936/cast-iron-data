@@ -31,8 +31,6 @@ abilities = ["31", "10", "25", "20", "21", "20"]
 
 _This sleek dragon carries itself with regal dignity. Its eyes glow with heavenly light._
 
-**Adult Paradise Dragon**
-
 **Challenge rating:** 16
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 25)

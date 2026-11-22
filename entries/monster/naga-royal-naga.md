@@ -34,8 +34,6 @@ abilities = ["23", "17", "21", "18", "22", "19"]
 
 _This snake-bodied creature has five necks, each with a regal, humanoid face in a cobra-like hood._
 
-**Royal Naga**
-
 **Challenge rating:** 11
 
 **Type:** aberration

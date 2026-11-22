@@ -30,8 +30,6 @@ special_qualities = "favored terrain (cold +4, forest +2), hunter's bond (compan
 abilities = ["32", "19", "27", "12", "12", "10"]
 +++
 
-**Frost Giant Jarl**
-
 **Challenge rating:** 18
 
 **[Frost giant](ref/monster/giant-frost-frost-giant) [ranger](ref/class/ranger) 9**

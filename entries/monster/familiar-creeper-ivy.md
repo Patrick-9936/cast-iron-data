@@ -27,8 +27,6 @@ abilities = ["7", "14", "10", "-", "10", "5"]
 
 _The creeping tendrils of this plant creature guide its way up tree trunks and walls._
 
-**Creeper Ivy**
-
 **Challenge rating:** 1/4
 
 **Initiative:** +2

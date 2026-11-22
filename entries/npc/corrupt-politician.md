@@ -17,8 +17,6 @@ cr = "4"
 
 _This woman wears colorful clothing of fine cut and cloth, and carries a satchel of documents._
 
-**Corrupt Politician**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

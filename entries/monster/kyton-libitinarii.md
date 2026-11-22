@@ -31,8 +31,6 @@ abilities = ["23", "24", "22", "15", "22", "17"]
 _This willowy, blue-skinned figure wears robes of draped chains. Its exposed skin is pierced with
 lengths of razor-sharp, bloodstained icicles._
 
-**Libitinarii**
-
 **Challenge rating:** 13
 
 **Initiative:** +11

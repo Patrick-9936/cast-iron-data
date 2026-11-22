@@ -32,8 +32,6 @@ abilities = ["15", "15", "14", "8", "14", "8"]
 _This large warrior appears heavy and solid, with chiseled, angular features that make her look
 almost like a statue brought to life._
 
-**Oread**
-
 **Challenge rating:** 1/2
 
 **Oread [fighter](ref/class/fighter) 1**

@@ -31,8 +31,6 @@ abilities = ["39", "6", "27", "28", "25", "24"]
 
 _Cruel horns frame this dragon's head. Its body glows faintly with malicious heat._
 
-**Ancient Infernal Dragon**
-
 **Challenge rating:** 21
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 31)

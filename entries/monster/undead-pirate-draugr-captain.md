@@ -27,8 +27,6 @@ special_qualities = "rogue talents (bleeding attack +1), trapfinding +1"
 abilities = ["25", "18", "-", "14", "16", "17"]
 +++
 
-**Draugr Captain**
-
 **Challenge rating:** 4
 
 **Draugr captain [rogue](ref/class/rogue) 2**

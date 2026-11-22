@@ -27,8 +27,6 @@ special_qualities = "infernal slave"
 abilities = ["10", "10", "10", "-", "11", "4"]
 +++
 
-**Nupperibo**
-
 **Challenge rating:** 1
 
 **blindsight:** 60

@@ -34,8 +34,6 @@ coarse fur. Its head is that of a jagged-toothed antelope, the face spotted with
 sifting out from between the fibers of its hair, and its legs end at the shin in stumps of charred
 flesh._
 
-**Aridus, the Desert's Howl**
-
 **Challenge rating:** 19
 
 **Male dust wendigo**

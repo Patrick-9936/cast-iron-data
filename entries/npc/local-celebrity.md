@@ -15,8 +15,6 @@ kind = "creature"
 cr = "2"
 +++
 
-**Local Celebrity**
-
 **Challenge rating:** 2
 
 **XP** 600\

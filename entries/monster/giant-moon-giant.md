@@ -32,8 +32,6 @@ abilities = ["42", "19", "22", "16", "19", "17"]
 _This giant's gray skin sparkles as if with reflected light and is pocked with what look like impact
 craters on its rock-like surface._
 
-**Moon Giant**
-
 **Challenge rating:** 15
 
 **aura:** lunar (60 ft., DC 23)

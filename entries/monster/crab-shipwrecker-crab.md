@@ -31,8 +31,6 @@ abilities = ["38", "16", "28", "-", "14", "5"]
 _Claws the size of rowboats dominate the form of this massive crab. Barnacles and sea grass cling to
 the creature's thick shell._
 
-**Shipwrecker Crab**
-
 **Challenge rating:** 13
 
 **Size:** colossal

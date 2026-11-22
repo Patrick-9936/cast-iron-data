@@ -28,8 +28,6 @@ special_qualities = "castle"
 abilities = ["42", "9", "-", "-", "15", "1"]
 +++
 
-**Behemoth Golem**
-
 **Challenge rating:** 17
 
 **Size:** colossal

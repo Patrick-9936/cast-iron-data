@@ -31,8 +31,6 @@ abilities = ["15", "10", "13", "8", "11", "8"]
 _Hunched and feral, this furred, hyena-headed humanoid stands slightly taller than the average
 human._
 
-**Gnoll**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

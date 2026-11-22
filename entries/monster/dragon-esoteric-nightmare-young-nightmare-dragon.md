@@ -29,8 +29,6 @@ abilities = ["23", "13", "20", "12", "14", "15"]
 
 _This ebony dragon with red frills appears terribly contorted and trails shadows._
 
-**Young Nightmare Dragon**
-
 **Challenge rating:** 6
 
 **Type:** dragon

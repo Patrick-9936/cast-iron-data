@@ -31,8 +31,6 @@ abilities = ["11", "16", "10", "8", "10", "13"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold Monster Wrangler**
-
 **Challenge rating:** 1
 
 **Kobold [cavalier](ref/class/cavalier) 2**

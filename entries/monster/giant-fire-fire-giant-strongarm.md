@@ -30,8 +30,6 @@ special_qualities = "armor training 1"
 abilities = ["35", "13", "19", "12", "16", "10"]
 +++
 
-**Fire Giant Strongarm**
-
 **Challenge rating:** 13
 
 **[Fire giant](ref/monster/giant-fire-fire-giant) [fighter](ref/class/fighter) 3**

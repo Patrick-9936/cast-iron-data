@@ -30,8 +30,6 @@ _This tall, cloaked figure stares out from the black hood that covers its head. 
 enormous scythe in its skeletal, bone-white hands, looking as though it is freezing the very air
 around it._
 
-**Grim Reaper**
-
 **Challenge rating:** 20
 
 **aura:** fear aura (40 ft., DC 36)

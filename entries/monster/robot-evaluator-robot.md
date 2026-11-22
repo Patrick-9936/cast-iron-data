@@ -31,8 +31,6 @@ abilities = ["22", "21", "-", "12", "17", "1"]
 
 _With wings and an unearthly glow, this mechanical being could easily be mistaken for an angel._
 
-**Evaluator Robot**
-
 **Challenge rating:** 12
 
 **Type:** construct

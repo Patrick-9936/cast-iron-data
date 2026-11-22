@@ -33,8 +33,6 @@ abilities = ["16", "13", "17", "14", "10", "19"]
 _This creature resembles a man crafted entirely of gold. Some of its features seem warped, as if the
 creature had been melted and then reformed._
 
-**Gambling Devil (Magadaz)**
-
 **Challenge rating:** 4
 
 **aura:** risk (30 ft., DC 16)

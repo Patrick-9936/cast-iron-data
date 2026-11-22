@@ -32,8 +32,6 @@ abilities = ["26", "14", "25", "10", "13", "11"]
 _Tattoos cover the blue skin of this towering, six-armed giant, and large tusks jut from his lower
 jaw._
 
-**Gegenees**
-
 **Challenge rating:** 16
 
 **Alignment:** Chaotic neutral

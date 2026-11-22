@@ -30,8 +30,6 @@ abilities = ["24", "16", "23", "19", "18", "17"]
 _This crab-like nightmare has a lamprey mouth, twitching eyes on its legs, and several blisters
 along its back that hold human brains._
 
-**Neh-Thalggu**
-
 **Challenge rating:** 8
 
 **Type:** aberration

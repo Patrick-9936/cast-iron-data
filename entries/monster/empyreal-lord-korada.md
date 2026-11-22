@@ -31,8 +31,6 @@ abilities = ["26", "30", "33", "25", "35", "38"]
 _This serene, acrobatic man has stiff sideburns, a beard like a monkey, and three golden-furred
 tails._
 
-**Korada**
-
 **Challenge rating:** 26
 
 **aura:** primal (30 ft.)

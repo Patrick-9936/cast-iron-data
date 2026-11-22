@@ -31,8 +31,6 @@ abilities = ["19", "25", "18", "4", "12", "7"]
 _This thick mass of vegetation has several sturdy tendrils studded with long thorns and rippling
 with strength._
 
-**Carrion Creeper**
-
 **Challenge rating:** 10
 
 **Initiative:** +7

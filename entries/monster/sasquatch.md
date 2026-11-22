@@ -32,8 +32,6 @@ abilities = ["22", "15", "16", "9", "10", "11"]
 _Tall, burly, and hairy, this humanoid creature wields a large tree branch for a club and has a
 swinging, ape-like gait._
 
-**Sasquatch**
-
 **Challenge rating:** 2
 
 **Type:** humanoid

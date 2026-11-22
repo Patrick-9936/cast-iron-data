@@ -33,8 +33,6 @@ abilities = ["19", "16", "15", "12", "13", "16"]
 _This elegant half-woman, half-bee wields a glaive and is clad in flowing, gauzy garments. A veil
 covers most of her face._
 
-**Thriae Dancer**
-
 **Challenge rating:** 6
 
 **Initiative:** +7

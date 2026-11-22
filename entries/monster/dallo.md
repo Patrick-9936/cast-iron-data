@@ -30,8 +30,6 @@ abilities = ["11", "10", "15", "2", "13", "8"]
 _This squat, grunting creature stinks of musk and earth. Leathery plates and black horns protect its
 woolly underside._
 
-**Dallo**
-
 **Challenge rating:** 1
 
 **Type:** animal

@@ -30,8 +30,6 @@ special_qualities = "fast movement, weapon familiarity"
 abilities = ["23", "14", "18", "8", "6", "10"]
 +++
 
-**Orc Warlord**
-
 **Challenge rating:** 6
 
 **Orc [barbarian](ref/class/barbarian) 7**

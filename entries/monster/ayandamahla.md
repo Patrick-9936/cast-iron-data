@@ -32,8 +32,6 @@ abilities = ["20", "20", "32", "20", "12", "38"]
 _This pale woman is as beautiful as she is menacing-her smile promises endless bliss, yet her
 weapons and fangs drip with blood._
 
-**Ayandamahla, the Crimson Lotus**
-
 **Challenge rating:** 24
 
 **Female succubus [bard](ref/class/bard) 20**

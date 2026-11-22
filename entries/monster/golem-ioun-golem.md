@@ -32,8 +32,6 @@ _This four-armed metal construct has a roughly humanoid shape, with the obvious 
 missing head. Veins of brass overlay a body of meshed platinum and silver, with intricate circular
 grooves visible above, below, and between its twin sets of arms._
 
-**Ioun Golem**
-
 **Challenge rating:** 17
 
 **aura:** ioun attraction (60 ft.)

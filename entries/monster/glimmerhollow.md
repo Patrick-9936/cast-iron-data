@@ -32,8 +32,6 @@ abilities = ["16", "1", "18", "-", "1", "1"]
 _An acidic tang fills the air of this small, glittering cave. Several extremely sharp formations are
 as large as a human head._
 
-**Glimmerhollow**
-
 **Challenge rating:** 9
 
 **aura:** hypnotic lure (30 ft., DC 18)

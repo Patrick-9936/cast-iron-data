@@ -30,8 +30,6 @@ _This pale, spindly creature has a vaguely humanoid shape, but with arms unnatur
 torso. Strands of long white hair sprout from its bulbous head, and its eyes are pools of liquid
 darkness._
 
-**Drexin**
-
 **Challenge rating:** 2
 
 **aura:** [mental static](ref/umr/mental-static-aura) (DC 13)

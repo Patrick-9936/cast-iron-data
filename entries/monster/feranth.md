@@ -30,8 +30,6 @@ abilities = ["26", "7", "20", "4", "17", "7"]
 _A droning hum announces the presence of this enormous horned beast. Powerful muscles ripple just
 beneath its mottled black hide._
 
-**Feranth**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic evil

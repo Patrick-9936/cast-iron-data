@@ -34,8 +34,6 @@ abilities = ["16", "35", "24", "13", "15", "14"]
 
 _This towering, scorpion-tailed man stalks with a soundless grace and murderous intent._
 
-**The Stabbing Beast**
-
 **Challenge rating:** 15
 
 **Initiative:** +16

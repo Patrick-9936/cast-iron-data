@@ -30,8 +30,6 @@ abilities = ["20", "5", "18", "-", "15", "23"]
 
 _This viscous blob of brightly colored goo quivers and pulses in a curious manner._
 
-**Emotion Ooze**
-
 **Challenge rating:** 6
 
 **aura:** emotion (DC 20)

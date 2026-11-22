@@ -27,8 +27,6 @@ special_qualities = "curl, water dependency"
 abilities = ["7", "15", "12", "-", "11", "2"]
 +++
 
-**Trilobite**
-
 **Challenge rating:** 1/4
 
 **Initiative:** +2

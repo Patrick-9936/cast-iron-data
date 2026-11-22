@@ -32,8 +32,6 @@ abilities = ["26", "19", "19", "10", "14", "11"]
 _This towering, plant-encrusted woman wields a massive bow, and her dark skin is decorated with
 numerous intricate tattoos._
 
-**Jungle Giant**
-
 **Challenge rating:** 10
 
 **Size:** huge

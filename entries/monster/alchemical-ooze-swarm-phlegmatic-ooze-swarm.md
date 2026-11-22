@@ -27,8 +27,6 @@ special_attacks = "maddening slime~viscous (DC 14)"
 abilities = ["10", "1", "18", "-", "1", "1"]
 +++
 
-**Phlegmatic Ooze Swarm**
-
 **Challenge rating:** 1/2
 
 **blindsight:** 60

@@ -33,8 +33,6 @@ abilities = ["25", "10", "-", "10", "13", "19"]
 _A single milky eye stares from the forehead of this towering giant wrapped in filthy, rune-covered
 strips of bloody linen._
 
-**Gholdako**
-
 **Challenge rating:** 10
 
 **Initiative:** +0

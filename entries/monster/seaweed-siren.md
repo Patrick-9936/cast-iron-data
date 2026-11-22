@@ -36,8 +36,6 @@ abilities = ["30", "15", "22", "11", "16", "19"]
 _This creature's three singing heads sway atop serpentine necks that extend from a bulbous body
 split by a wide, toothy mouth._
 
-**Seaweed Siren**
-
 **Challenge rating:** 13
 
 **aura:** cacophony (100 ft., DC 22)

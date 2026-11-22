@@ -31,8 +31,6 @@ abilities = ["15", "25", "16", "11", "14", "16"]
 
 _Blustering winds and snow swirl around this white, almost transparent fey-like phantom._
 
-**Thremindyr**
-
 **Challenge rating:** 9
 
 **aura:** cold aura (10 ft.)

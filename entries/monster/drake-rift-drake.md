@@ -32,8 +32,6 @@ abilities = ["25", "17", "20", "8", "12", "11"]
 _Horns jut from this muscular dragon's beaked head, and spikes cover the dragon's hide even in
 places on its winged arms._
 
-**Rift Drake**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

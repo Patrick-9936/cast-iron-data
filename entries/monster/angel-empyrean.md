@@ -31,8 +31,6 @@ abilities = ["30", "27", "30", "23", "30", "25"]
 _Light spills out through cracks in this humanoid being's clothing and armor, and its four wings are
 composed of wispy blue light._
 
-**Empyrean**
-
 **Challenge rating:** 20
 
 **aura:** protective aura

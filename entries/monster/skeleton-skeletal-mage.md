@@ -27,8 +27,6 @@ special_qualities = "arcane bond (skull)"
 abilities = ["12", "15", "-", "16", "12", "15"]
 +++
 
-**Skeletal Mage**
-
 **Challenge rating:** 5
 
 **Human skeletal mage necromancer 3**

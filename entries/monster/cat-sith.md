@@ -30,8 +30,6 @@ abilities = ["8", "16", "12", "11", "13", "15"]
 _This slinky black feline has a single white spot on its chest. Its mannerisms and movements are
 eerily human._
 
-**Cat Sith**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

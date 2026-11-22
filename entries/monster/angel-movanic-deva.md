@@ -29,8 +29,6 @@ abilities = ["19", "17", "18", "17", "17", "19"]
 _This angel is all sharp lines and angles, muscular but lean, with large wings and a mighty flaming
 greatsword._
 
-**Movanic Deva**
-
 **Challenge rating:** 10
 
 **aura:** protective aura

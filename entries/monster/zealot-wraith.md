@@ -31,8 +31,6 @@ abilities = ["-", "19", "-", "11", "16", "17"]
 _This spectral human is draped in multicolored vestments that trail off into mist, and has open
 black pits for eyes and an expression of sorrow and horror._
 
-**Zealot Wraith**
-
 **Challenge rating:** 7
 
 **Initiative:** +8

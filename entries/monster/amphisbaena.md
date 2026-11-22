@@ -29,8 +29,6 @@ abilities = ["14", "15", "13", "2", "13", "4"]
 _This large snake has two heads, one at each end of its long, coiling body. Both display large sets
 of fangs._
 
-**Amphisbaena**
-
 **Challenge rating:** 4
 
 **Initiative:** +2

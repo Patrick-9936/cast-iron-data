@@ -31,8 +31,6 @@ abilities = ["33", "16", "30", "18", "16", "24"]
 _This towering four-armed demon carries an evil-looking scepter in one of its two human hands - the
 other arms end in pincers._
 
-**Bezilak, the Silken Fang**
-
 **Challenge rating:** 17
 
 **Male glabrezu [rogue](ref/class/rogue) 8**

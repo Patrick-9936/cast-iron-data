@@ -32,8 +32,6 @@ abilities = ["8", "14", "11", "12", "14", "15"]
 _This serene-looking slender young man has pale blue skin and solid black eyes, and is dressed in
 simple robes._
 
-**Samsaran**
-
 **Challenge rating:** 1/2
 
 **Male samsaran [oracle](ref/class/oracle) 1**

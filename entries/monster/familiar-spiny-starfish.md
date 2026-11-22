@@ -28,8 +28,6 @@ abilities = ["4", "13", "14", "-", "11", "3"]
 
 _This brightly colored, star-shaped creature has many spines growing from its five arms._
 
-**Spiny Starfish**
-
 **Challenge rating:** 1/6
 
 **Initiative:** +1

@@ -31,8 +31,6 @@ abilities = ["23", "17", "18", "12", "14", "15"]
 _This muscular giant has crimson skin, smoldering eyes, and small black horns. Smoke rises in curls
 from its flesh._
 
-**Efreeti**
-
 **Challenge rating:** 8
 
 **Initiative:** +7

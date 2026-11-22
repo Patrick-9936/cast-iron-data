@@ -30,8 +30,6 @@ abilities = ["16", "1", "22", "2", "3", "1"]
 _This eerily disturbing gelatinous blob lumbers forward. Three disembodied eyes float within its
 mass, seemingly scanning back and forth with each surge of movement._
 
-**Coven Ooze**
-
 **Challenge rating:** 9
 
 **blindsight:** 60

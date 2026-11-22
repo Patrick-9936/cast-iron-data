@@ -31,8 +31,6 @@ abilities = ["18", "17", "24", "17", "16", "22"]
 _A long crimson cloak drapes over the form of this large faceless being, which floats just above the
 ground on footless legs as its menacing flail crackles with blue currents of electricity._
 
-**End's Voice**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic neutral

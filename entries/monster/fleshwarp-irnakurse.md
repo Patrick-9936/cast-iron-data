@@ -32,8 +32,6 @@ abilities = ["24", "17", "23", "8", "14", "18"]
 _A mad-eyed mess of deformed limbs, misplaced features, and bone shards pulls itself along amid a
 cacophony of slapping flesh._
 
-**Irnakurse**
-
 **Challenge rating:** 9
 
 **Type:** aberration

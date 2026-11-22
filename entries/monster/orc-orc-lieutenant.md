@@ -30,8 +30,6 @@ special_qualities = "armor training 1, weapon familiarity"
 abilities = ["17", "16", "12", "8", "6", "12"]
 +++
 
-**Orc Lieutenant**
-
 **Challenge rating:** 4
 
 **Orc [fighter](ref/class/fighter) 5**

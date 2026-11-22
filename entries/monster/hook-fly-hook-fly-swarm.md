@@ -31,8 +31,6 @@ abilities = ["1", "12", "12", "-", "11", "1"]
 _The tiny, buzzing insects that make up this cloud have distinctive bloated bodies and sharp, if
 miniscule, proboscises._
 
-**Hook Fly Swarm**
-
 **Challenge rating:** 1
 
 **Size:** diminutive

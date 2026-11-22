@@ -32,8 +32,6 @@ abilities = ["34", "30", "31", "17", "23", "24"]
 _A cloud of mosquitoes churns around this quivering blob, its body studded with red eyes and its
 five tentacles tipped with stingers._
 
-**Swamp Blight**
-
 **Challenge rating:** 17
 
 **aura:** mosquitoes (10 ft., DC 26)

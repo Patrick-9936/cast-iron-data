@@ -32,8 +32,6 @@ abilities = ["12", "14", "15", "19", "8", "8"]
 _This insectile biped has a tapir-like snout and is unmistakably alien in appearance, despite its
 vaguely humanoid shape._
 
-**Yaddithian**
-
 **Challenge rating:** 8
 
 **Yaddithian [wizard](ref/class/wizard) 9**

@@ -34,8 +34,6 @@ abilities = ["9", "13", "12", "8", "11", "12"]
 _This small, bizarre humanoid creature has fin-like wings, strange yellow skin, and tiny black eyes
 burning with malevolence._
 
-**Haniver**
-
 **Challenge rating:** 1/2
 
 **Type:** fey

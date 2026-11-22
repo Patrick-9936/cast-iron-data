@@ -30,8 +30,6 @@ abilities = ["4", "8", "13", "1", "13", "6"]
 _A thick shell encases this reptile's body, from which only its tail, its feet, and a head fitted
 with powerful jaws emerge._
 
-**Snapping Turtle**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

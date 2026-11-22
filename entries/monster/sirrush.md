@@ -31,8 +31,6 @@ abilities = ["30", "23", "26", "21", "24", "23"]
 _This graceful, elegant dragon has six legs, a radiantly feathered tail and wings, and scales that
 appear to be made of solid sunlight._
 
-**Sirrush**
-
 **Challenge rating:** 21
 
 **aura:** radiance (120 ft.)

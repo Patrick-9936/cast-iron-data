@@ -31,8 +31,6 @@ abilities = ["-", "32", "18", "15", "14", "20"]
 _A pulsating glyph animates into a quickly flowing script that changes form as it rewrites itself,
 before finally assembling into an arcane symbol that flares with untold magical power._
 
-**Living Rune**
-
 **Challenge rating:** 13
 
 **Type:** aberration

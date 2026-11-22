@@ -29,8 +29,6 @@ abilities = ["8", "15", "13", "4", "13", "6"]
 _This small creature has the forequarters and hind legs of a hare, and the wings and tail of a wood
 grouse._
 
-**Skvader**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +2

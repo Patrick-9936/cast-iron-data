@@ -32,8 +32,6 @@ abilities = ["18", "22", "23", "16", "13", "9"]
 _A wild-eyed band of hobgoblins cluster tightly around fortified carts containing hoses and
 reservoirs brimming with strange fluids._
 
-**Ironfang Siege Alchemist Troop**
-
 **Challenge rating:** 16
 
 **Type:** humanoid

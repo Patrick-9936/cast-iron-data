@@ -27,8 +27,6 @@ special_qualities = "armor rider, freeze"
 abilities = ["17", "15", "-", "7", "11", "18"]
 +++
 
-**Phantom Lancer**
-
 **Challenge rating:** 6
 
 **Initiative:** +6

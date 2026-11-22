@@ -31,8 +31,6 @@ abilities = ["42", "18", "27", "17", "18", "15"]
 _This imposing one-eyed giant wears fragments of crude armor and a breechcloth adorned with skulls.
 Its breath reeks of pestilence._
 
-**Papinijuwari**
-
 **Challenge rating:** 13
 
 **Size:** huge

@@ -32,8 +32,6 @@ abilities = ["18", "19", "-", "11", "14", "1"]
 _Crafted of a strange, dull metal, this bulky construct stomps forward on stout, multi-jointed
 legs._
 
-**Warden Robot**
-
 **Challenge rating:** 9
 
 **aura:** infrasonic field (30 ft., DC 17)

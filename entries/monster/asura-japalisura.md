@@ -31,8 +31,6 @@ abilities = ["17", "24", "21", "14", "19", "16"]
 
 _This lithe, six-armed humanoid has tusks that curve from his chin and carries a pair of bows._
 
-**Japalisura**
-
 **Challenge rating:** 12
 
 **aura:** elusive (75 ft.)

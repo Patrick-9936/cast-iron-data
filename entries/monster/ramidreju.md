@@ -30,8 +30,6 @@ abilities = ["10", "15", "10", "3", "13", "11"]
 _This long, serpent-bodied weasel has tusks and a snout similar to that of a boar and a body covered
 with soft, green fur._
 
-**Ramidreju**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +2

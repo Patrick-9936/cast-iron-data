@@ -32,8 +32,6 @@ _This cloud of long-necked birds rises into the air, screeching in a cacophony r
 klaxons and clanging tools. As these avians flit among one another, their feathers glint with a
 metallic gleam, reflecting even the dimmest light back a hundredfold through a dim haze of blood._
 
-**Stymphalides Swarm**
-
 **Challenge rating:** 6
 
 **Initiative:** +8

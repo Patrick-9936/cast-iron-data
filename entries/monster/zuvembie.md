@@ -29,8 +29,6 @@ abilities = ["13", "14", "-", "11", "14", "15"]
 _This withered old corpse has a feral glint in her eyes and clasps a rusty axe in her yellow-nailed
 hands._
 
-**Zuvembie**
-
 **Challenge rating:** 4
 
 **Initiative:** +2

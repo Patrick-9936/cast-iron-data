@@ -31,8 +31,6 @@ abilities = ["10", "17", "16", "13", "14", "19"]
 _With lengthy curling hair, a dancer's dress, and a bouquet of flowers, this woman remains
 beautiful, despite having no flesh._
 
-**Catrina**
-
 **Challenge rating:** 5
 
 **aura:** calm emotions (30 ft., DC 17)

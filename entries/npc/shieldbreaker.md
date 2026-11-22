@@ -15,8 +15,6 @@ kind = "creature"
 cr = "11"
 +++
 
-**Shieldbreaker**
-
 **Challenge rating:** 11
 
 **XP** 12,800\

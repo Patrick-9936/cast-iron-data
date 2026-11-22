@@ -30,8 +30,6 @@ abilities = ["17", "8", "14", "14", "13", "8"]
 _The shimmering flesh of this gold-skinned figure flashes with points of light that seem, at times,
 to create strange runic shapes._
 
-**Aphorite**
-
 **Challenge rating:** 1/2
 
 **Aphorite [fighter](ref/class/fighter) 1**

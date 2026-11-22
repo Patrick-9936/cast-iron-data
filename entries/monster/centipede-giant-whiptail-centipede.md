@@ -29,8 +29,6 @@ abilities = ["25", "11", "21", "-", "10", "2"]
 
 _An elephantine centipede scurries about, its double tail lashing angrily behind it._
 
-**Giant Whiptail Centipede**
-
 **Challenge rating:** 3
 
 **Size:** huge

@@ -28,8 +28,6 @@ abilities = ["28", "10", "21", "2", "13", "3"]
 _This creature is much like a rhino, some six feet tall and ten feet long, with a pair of massive,
 knife-like horns curving up from its nose._
 
-**Arsinoitherium**
-
 **Challenge rating:** 7
 
 **Type:** animal

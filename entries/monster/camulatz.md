@@ -31,8 +31,6 @@ abilities = ["23", "17", "18", "8", "15", "14"]
 _Vibrant blue and yellow feathers adorn the body of this giant, parrot-like bird, but its curved
 beak and powerful talons are instead adorned with dried blood and gore._
 
-**Camulatz**
-
 **Challenge rating:** 9
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 18)

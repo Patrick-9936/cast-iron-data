@@ -30,8 +30,6 @@ abilities = ["12", "17", "14", "2", "13", "3"]
 _Eight tentacles, each adorned with rows of countless suckers, unfurl from the barrel-shaped body of
 this large-eyed creature._
 
-**Octopus**
-
 **Challenge rating:** 1
 
 **Type:** animal

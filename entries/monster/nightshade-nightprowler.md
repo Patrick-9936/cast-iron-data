@@ -30,8 +30,6 @@ abilities = ["25", "20", "-", "14", "19", "19"]
 _This bulky predator's feline form is cloaked in shadows, save for its red eyes, which glow with a
 baleful hatred._
 
-**Nightprowler**
-
 **Challenge rating:** 10
 
 **aura:** desecrating aura (30 ft.)

@@ -30,8 +30,6 @@ abilities = ["22", "23", "20", "13", "16", "21"]
 
 _This enormous snake has glowing green eyes, large fangs, and wide, membranous wings._
 
-**Peuchen**
-
 **Challenge rating:** 10
 
 **Initiative:** +6

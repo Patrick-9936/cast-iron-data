@@ -34,8 +34,6 @@ abilities = ["7", "16", "15", "12", "13", "14"]
 _What at first appears to be a bejeweled blade shimmers and writhes, transforming into a hideous,
 red-eyed serpent._
 
-**Raktavarna**
-
 **Challenge rating:** 2
 
 **Initiative:** +3

@@ -30,8 +30,6 @@ abilities = ["30", "7", "24", "16", "15", "21"]
 _Its slime-drenched length coiled upon itself in a shuddering mountain, this huge worm's tentacled
 head rises like a snake's._
 
-**Neothelid**
-
 **Challenge rating:** 15
 
 **Type:** aberration

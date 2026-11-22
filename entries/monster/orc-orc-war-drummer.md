@@ -30,8 +30,6 @@ special_qualities = "bardic knowledge +2, versatile performance (percussion), we
 abilities = ["17", "12", "8", "12", "8", "14"]
 +++
 
-**Orc War Drummer**
-
 **Challenge rating:** 3
 
 **Orc [bard](ref/class/bard) ([savage skald](ref/arc-bard/savage-skald)) 4**

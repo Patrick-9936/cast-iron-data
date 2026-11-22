@@ -33,8 +33,6 @@ abilities = ["25", "21", "22", "22", "24", "23"]
 _This tall angel has a halo of spinning blades, and is clad is radiant golden armor and equally
 radiant shield._
 
-**Hand of the Inheritor**
-
 **Challenge rating:** 15
 
 **aura:** courage, protective aura (20 ft.)

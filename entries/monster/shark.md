@@ -30,8 +30,6 @@ abilities = ["17", "12", "13", "1", "12", "2"]
 _This blue shark's fins slice through the water, its black eyes rolling and its gaping jaws showing
 countless teeth._
 
-**Shark**
-
 **Challenge rating:** 2
 
 **Type:** animal

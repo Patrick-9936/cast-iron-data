@@ -30,8 +30,6 @@ abilities = ["27", "20", "22", "7", "17", "16"]
 _A deadly and vicious bouquet of insectile claws sprouts from this horrid, three-legged, multi-eyed
 beast._
 
-**Derghodaemon**
-
 **Challenge rating:** 12
 
 **aura:** feeblemind (DC 20)

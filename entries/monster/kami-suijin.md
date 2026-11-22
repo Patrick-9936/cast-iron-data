@@ -31,8 +31,6 @@ abilities = ["24", "15", "23", "18", "22", "19"]
 _This massive, serpentine carp explodes forth from the water, its rainbow-colored scales gleaming in
 the sunlight and glossy eyes bright with good-natured intelligence._
 
-**Suijin**
-
 **Challenge rating:** 14
 
 **Initiative:** +2

@@ -29,8 +29,6 @@ abilities = ["13", "11", "-", "2", "11", "14"]
 _With a jolt, this severed hand springs to life, its fingers propelling it forth at great speed like
 a deformed spider._
 
-**Crawling Hand**
-
 **Challenge rating:** 1/2
 
 **blindsense:** 30

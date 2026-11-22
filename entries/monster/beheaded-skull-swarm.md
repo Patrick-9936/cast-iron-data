@@ -29,8 +29,6 @@ abilities = ["5", "15", "-", "-", "10", "10"]
 _This humanoid head floats silently and ominously, bits of flesh still hanging from its face and
 graying teeth clattering slightly as it bobs in the air._
 
-**Skull Swarm**
-
 **Challenge rating:** 1
 
 **Initiative:** +2

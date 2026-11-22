@@ -35,8 +35,6 @@ abilities = ["-", "19", "-", "15", "20", "27"]
 _This humanoid figure's body fades into mist below the hips, while its upper, ghostly torso is bound
 in lengths of writhing chains._
 
-**Chained Spirit**
-
 **Challenge rating:** 14
 
 **Initiative:** +8

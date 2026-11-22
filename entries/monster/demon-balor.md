@@ -30,8 +30,6 @@ abilities = ["35", "25", "36", "24", "24", "27"]
 _This winged fiend's horned head and fanged visage present the perfection of the demonic form, fire
 spurting from its flesh._
 
-**Balor**
-
 **Challenge rating:** 20
 
 **aura:** flaming body, unholy aura (DC 26)

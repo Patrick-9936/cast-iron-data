@@ -34,8 +34,6 @@ abilities = ["18", "19", "22", "14", "19", "19"]
 
 _This slime-covered serpentine creature has a humanoid head resembling that of an angry old man._
 
-**Slime Naga**
-
 **Challenge rating:** 9
 
 **Type:** aberration

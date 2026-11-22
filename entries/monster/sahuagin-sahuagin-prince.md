@@ -30,8 +30,6 @@ special_qualities = "exotic mount (shark), greater tactician (3/day, 8 rounds, s
 abilities = ["20", "16", "20", "13", "12", "10"]
 +++
 
-**Sahuagin Prince**
-
 **Challenge rating:** 13
 
 **Four-armed sahuagin [cavalier](ref/class/cavalier) ([beast rider](ref/arc-cavalier/beast-rider))

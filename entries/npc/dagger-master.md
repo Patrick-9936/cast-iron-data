@@ -15,8 +15,6 @@ kind = "creature"
 cr = "17"
 +++
 
-**Dagger Master**
-
 **Challenge rating:** 17
 
 **XP** 102,400\

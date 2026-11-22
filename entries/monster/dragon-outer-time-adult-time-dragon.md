@@ -28,8 +28,6 @@ special_qualities = "immortal, no breath, read the threads, starflight"
 abilities = ["30", "13", "24", "19", "18", "19"]
 +++
 
-**Adult Time Dragon**
-
 **Challenge rating:** 15
 
 **aura:** alien presence (180 ft., DC 23)

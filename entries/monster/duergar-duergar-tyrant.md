@@ -31,8 +31,6 @@ abilities = ["16", "13", "19", "10", "14", "6"]
 
 _The dull gray skin of this dwarf ripples with kinetic power._
 
-**Duergar Tyrant**
-
 **Challenge rating:** 3
 
 **Duergar tyrant [geokineticist](ref/class/kineticist) 3**

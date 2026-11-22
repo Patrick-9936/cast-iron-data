@@ -30,8 +30,6 @@ abilities = ["26", "15", "21", "12", "16", "13"]
 _This elephant-sized equine creature has bright red skin, fangs, six eyes, and armored plates on its
 head, neck, and back._
 
-**Xanthos**
-
 **Challenge rating:** 14
 
 **Size:** huge

@@ -29,8 +29,6 @@ abilities = ["18", "14", "17", "16", "14", "13"]
 _Its parchment-colored scales rustling like dry leaves, this dragon seems unusually attentive, as if
 always on the lookout._
 
-**Young Occult Dragon**
-
 **Challenge rating:** 6
 
 **aura:** protective aura (20 ft.)

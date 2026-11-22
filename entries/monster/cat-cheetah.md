@@ -28,8 +28,6 @@ abilities = ["17", "19", "15", "2", "12", "6"]
 _This large, sleek feline has a golden coat spotted with black. Its long and powerful legs are
 obviously capable of great speed._
 
-**Cheetah**
-
 **Challenge rating:** 2
 
 **Type:** animal

@@ -32,8 +32,6 @@ abilities = ["11", "14", "8", "10", "17", "14"]
 _This blue-haired, blue-skinned man moves with a liquid grace. His ears are fin-like, and his hands
 and feet are webbed._
 
-**Undine**
-
 **Challenge rating:** 1/2
 
 **Undine [cleric](ref/class/cleric) 1**

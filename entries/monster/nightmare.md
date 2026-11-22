@@ -31,8 +31,6 @@ abilities = ["18", "15", "16", "13", "13", "12"]
 _This eerie horse-like creature's skin is an inky blackness. Fire spurts from its hair and nostrils,
 and its hooves spray sparks._
 
-**Nightmare**
-
 **Challenge rating:** 5
 
 **Initiative:** +6

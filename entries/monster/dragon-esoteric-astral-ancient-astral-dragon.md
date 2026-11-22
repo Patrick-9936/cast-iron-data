@@ -29,8 +29,6 @@ special_qualities = "change shape"
 abilities = ["35", "10", "24", "25", "24", "20"]
 +++
 
-**Ancient Astral Dragon**
-
 **Challenge rating:** 18
 
 **aura:** [mental static](ref/umr/mental-static-aura) (30 ft., DC 27),

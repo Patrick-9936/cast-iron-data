@@ -29,8 +29,6 @@ special_qualities = "change shape"
 abilities = ["25", "11", "20", "20", "19", "22"]
 +++
 
-**Adult Dream Dragon**
-
 **Challenge rating:** 14
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 23)

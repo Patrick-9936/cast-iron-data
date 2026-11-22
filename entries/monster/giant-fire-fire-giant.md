@@ -32,8 +32,6 @@ abilities = ["31", "9", "21", "10", "14", "10"]
 _This lumbering giant has short stumpy legs and powerful, muscular arms. Its hair and beard seem to
 be made of fire._
 
-**Fire Giant**
-
 **Challenge rating:** 10
 
 **Type:** humanoid

@@ -28,8 +28,6 @@ abilities = ["24", "17", "22", "19", "20", "23"]
 
 _This brilliantly colored couatl radiates a palpable air of peace and wisdom._
 
-**Lord Sun-Warrior**
-
 **Challenge rating:** 15
 
 **Unique couatl**

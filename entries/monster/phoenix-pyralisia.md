@@ -30,8 +30,6 @@ abilities = ["29", "23", "24", "23", "20", "24"]
 _This giant ebon bird is streaked in lines of fiery embers and red lightning, clouds of black smoke
 billowing behind it._
 
-**Pyralisia, the Rain of Embers**
-
 **Challenge rating:** 18
 
 **Female unique phoenix**

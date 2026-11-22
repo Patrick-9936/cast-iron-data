@@ -34,8 +34,6 @@ abilities = ["3", "13", "12", "10", "11", "6"]
 _This putrid-looking humanoid bears a disquieting resemblance to a half-starved, mange-ridden
 opossum._
 
-**Grimple**
-
 **Challenge rating:** 1/3
 
 **Alignment:** Chaotic neutral

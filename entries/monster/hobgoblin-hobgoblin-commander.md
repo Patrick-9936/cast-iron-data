@@ -30,8 +30,6 @@ special_qualities = "mount (horse), mounted archer, order of the warrior (honor 
 abilities = ["16", "10", "16", "12", "10", "15"]
 +++
 
-**Hobgoblin Commander**
-
 **Challenge rating:** 12
 
 **Hobgoblin [samurai](ref/class/samurai) 13**

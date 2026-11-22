@@ -29,8 +29,6 @@ abilities = ["36", "7", "21", "2", "13", "6"]
 _Similar to other whales in many ways, this giant aquatic beast is notable for its enormous teeth,
 menacingly strong jaws, and blood-red skin._
 
-**Crimson Whale**
-
 **Challenge rating:** 8
 
 **Type:** animal

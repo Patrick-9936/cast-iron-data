@@ -30,8 +30,6 @@ abilities = ["32", "9", "-", "-", "11", "1"]
 _This iron automaton stands twice as tall as a normal human. Its heavy footfalls shake the ground
 with bone-jarring force._
 
-**Iron Golem**
-
 **Challenge rating:** 13
 
 **Type:** construct

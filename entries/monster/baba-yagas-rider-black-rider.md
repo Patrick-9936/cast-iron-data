@@ -30,8 +30,6 @@ abilities = ["23", "20", "22", "17", "18", "21"]
 _A man with curling ram's horns sits astride a snorting, stamping black warhorse, gripping a dark,
 battle-worn spear._
 
-**Black Rider**
-
 **Challenge rating:** 13
 
 **aura:** icy aura (10 ft., DC 24)

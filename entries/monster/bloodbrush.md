@@ -30,8 +30,6 @@ abilities = ["14", "11", "15", "-", "10", "1"]
 _This dried-out clump of thorny brush has torn free of its roots and seems to move not with the
 wind, but of its own volition._
 
-**Bloodbrush**
-
 **Challenge rating:** 2
 
 **Initiative:** +0

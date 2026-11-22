@@ -31,8 +31,6 @@ abilities = ["15", "12", "11", "10", "11", "10"]
 _This serpentine mix of flying fish and great seabird rolls and twists like waves in an ocean
 storm._
 
-**Xocothian**
-
 **Challenge rating:** 4
 
 **Initiative:** +1

@@ -30,8 +30,6 @@ abilities = ["32", "20", "-", "9", "11", "21"]
 _This brawny creature has had its skin completely flensed from its form, revealing the violent
 pulsing of its massive, exposed muscles._
 
-**Ecorche**
-
 **Challenge rating:** 16
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 26)

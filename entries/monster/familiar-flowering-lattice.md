@@ -28,8 +28,6 @@ abilities = ["1", "13", "9", "-", "12", "8"]
 
 _This scuttling patchwork plant features flowers of many different shapes and colors._
 
-**Flowering Lattice**
-
 **Challenge rating:** 1/6
 
 **Size:** diminutive

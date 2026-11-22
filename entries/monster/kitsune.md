@@ -30,8 +30,6 @@ abilities = ["8", "15", "8", "12", "14", "17"]
 
 _This elegantly dressed woman has the head and bushy tail of well-groomed fox._
 
-**Kitsune**
-
 **Challenge rating:** 1/2
 
 **Female kitsune [sorcerer](ref/class/sorcerer) 1**

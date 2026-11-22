@@ -30,8 +30,6 @@ special_qualities = "favored terrain (swamp +2), hold breath, hunter's bond (com
 abilities = ["18", "12", "17", "9", "12", "8"]
 +++
 
-**Lizardfolk Swamp Lurker**
-
 **Challenge rating:** 8
 
 **Lizardfolk [ranger](ref/class/ranger) 7**

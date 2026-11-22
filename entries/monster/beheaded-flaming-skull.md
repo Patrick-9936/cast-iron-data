@@ -28,8 +28,6 @@ abilities = ["9", "12", "-", "-", "10", "13"]
 _This humanoid head floats silently and ominously, bits of flesh still hanging from its face and
 graying teeth clattering slightly as it bobs in the air._
 
-**Flaming Skull**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +1

@@ -32,8 +32,6 @@ abilities = ["20", "23", "19", "12", "13", "24"]
 _This beguiling female figure is partly obscured by long flowing hair that dances and flows around
 her as if she were underwater._
 
-**Rusalka**
-
 **Challenge rating:** 12
 
 **Type:** fey

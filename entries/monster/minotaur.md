@@ -29,8 +29,6 @@ abilities = ["19", "10", "15", "7", "10", "8"]
 _With the body of a powerfully built man and the head of a snarling bull, this creature stomps its
 hooves as if preparing to charge._
 
-**Minotaur**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

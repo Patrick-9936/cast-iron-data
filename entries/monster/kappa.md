@@ -31,8 +31,6 @@ abilities = ["12", "17", "13", "8", "15", "10"]
 _This humanoid turtle crouches near the water, a suspicious look in its eyes. The top of its
 bowl-shaped head is filled with water._
 
-**Kappa**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

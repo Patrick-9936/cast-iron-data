@@ -32,8 +32,6 @@ abilities = ["38", "35", "38", "35", "34", "27"]
 _Blasphemous pages cloak this creature's gaunt, winged form. Within its depthless hood burns a
 vortex of otherworldly flame._
 
-**Voice of the Damned**
-
 **Challenge rating:** 25
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (100 ft., DC 32), unholy aura (DC 26)

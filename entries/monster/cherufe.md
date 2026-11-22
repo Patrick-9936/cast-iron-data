@@ -31,8 +31,6 @@ abilities = ["26", "13", "20", "11", "14", "11"]
 
 _This towering reptilian humanoid seems to be made of obsidian scales over a molten magma core._
 
-**Cherufe**
-
 **Challenge rating:** 13
 
 **Size:** huge

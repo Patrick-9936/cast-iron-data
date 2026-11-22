@@ -32,8 +32,6 @@ abilities = ["12", "15", "12", "5", "13", "8"]
 _This hideous creature has a jet-black segmented body, four beady eyes, bat-like wings, and a pair
 of oversized mandibles that glisten with green ichor._
 
-**Typhilipede**
-
 **Challenge rating:** 2
 
 **aura:** shadow (10 ft.)

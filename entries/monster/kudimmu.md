@@ -32,8 +32,6 @@ abilities = ["32", "22", "22", "13", "21", "17"]
 _Tumorous, misshapen vines laden with dark red fruit make up the form of this lumbering humanoid
 creature, and its face is marked only by a pair of glowing, crimson eyes._
 
-**Kudimmu**
-
 **Challenge rating:** 16
 
 **Initiative:** +10

@@ -30,8 +30,6 @@ special_qualities = "favored terrain (desert +4, jungle +2), hunter's bond (comp
 abilities = ["18", "17", "15", "10", "13", "6"]
 +++
 
-**Gnoll Warden**
-
 **Challenge rating:** 10
 
 **Gnoll [ranger](ref/class/ranger) ([skirmisher](ref/arc-ranger/skirmisher)) 9**

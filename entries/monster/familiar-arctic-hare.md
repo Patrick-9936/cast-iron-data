@@ -30,8 +30,6 @@ abilities = ["3", "16", "9", "2", "12", "5"]
 
 _With shorter ears and limbs than other rabbits, this white rabbit is hard to spot in the snow._
 
-**Arctic Hare**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

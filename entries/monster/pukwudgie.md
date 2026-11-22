@@ -32,8 +32,6 @@ abilities = ["14", "18", "19", "15", "14", "19"]
 
 _A merging of an emaciated man and a porcupine, this sinister creature smells of death and decay._
 
-**Pukwudgie**
-
 **Challenge rating:** 7
 
 **Initiative:** +4

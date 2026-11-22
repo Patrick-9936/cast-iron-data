@@ -29,8 +29,6 @@ special_qualities = "agile, galactic emissary, no breath, starflight"
 abilities = ["27", "12", "21", "20", "19", "20"]
 +++
 
-**Adult Vortex Dragon**
-
 **Challenge rating:** 14
 
 **aura:** alien presence (180 ft., DC 23)

@@ -32,8 +32,6 @@ abilities = ["20", "11", "-", "7", "11", "15"]
 
 _This suit of armor moves with a warrior's deadly skill despite obviously being empty._
 
-**Giant Phantom Armor**
-
 **Challenge rating:** 4
 
 **Initiative:** +4

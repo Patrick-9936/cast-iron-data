@@ -15,8 +15,6 @@ kind = "creature"
 cr = "4"
 +++
 
-**Court Poet**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

@@ -29,8 +29,6 @@ abilities = ["14", "10", "13", "2", "11", "5"]
 
 _This giant turtle has a large, thin membrane of scaly skin extending from its shell to its legs._
 
-**Gliding Turtle**
-
 **Challenge rating:** 2
 
 **Type:** animal

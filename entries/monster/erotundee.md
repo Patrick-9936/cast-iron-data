@@ -33,8 +33,6 @@ _This wretched demon combines the worst features of a deformed boar and a repell
 somehow manages to make things worse by decorating the whole with an ugly patchwork of scars and a
 rancidly obese body._
 
-**Erotundee, Keeper of the Risen Light**
-
 **Challenge rating:** 22
 
 **Female nalfeshnee [wizard](ref/class/wizard) 15**

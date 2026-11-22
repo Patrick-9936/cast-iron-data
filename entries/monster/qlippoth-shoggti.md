@@ -30,8 +30,6 @@ abilities = ["22", "16", "23", "12", "19", "15"]
 _This pale creature has four suckered arms that end in pincers. A gnashing maw gapes in its head
 between two staring eyes._
 
-**Shoggti**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

@@ -31,8 +31,6 @@ abilities = ["26", "21", "24", "17", "24", "23"]
 _Translucent wings protrude from this statuesque figure's back. Patches of pale scales glisten on
 its skin._
 
-**Prydanu**
-
 **Challenge rating:** 16
 
 **aura:** clarity's grace (30 ft.)

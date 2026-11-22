@@ -34,8 +34,6 @@ abilities = ["24", "18", "22", "17", "21", "17"]
 _This six-eyed horror is vaguely shaped like a dead tree, but one with claws and tentacles and
 spidery legs._
 
-**Yangethe**
-
 **Challenge rating:** 9
 
 **Type:** aberration

@@ -29,8 +29,6 @@ abilities = ["15", "13", "14", "1", "14", "6"]
 _This dark blue creature has a conical body covered in angry red eyes and numerous tentacles, two of
 which are longer than the rest._
 
-**Tentamort**
-
 **Challenge rating:** 4
 
 **Type:** aberration

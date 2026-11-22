@@ -31,8 +31,6 @@ abilities = ["-", "19", "14", "15", "18", "17"]
 _This incorporeal field shimmers with a constant flux of colors and shapes that coalesce into
 distorted, ephemeral images and reflections._
 
-**Psychemental**
-
 **Challenge rating:** 8
 
 **aura:** [mental static](ref/umr/mental-static-aura) (30 ft., DC 18)

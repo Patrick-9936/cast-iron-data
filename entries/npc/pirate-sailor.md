@@ -17,8 +17,6 @@ cr = "1/2"
 
 _This rugged character is clad in colorful, mismatched clothing, his hair tied back in a bandana._
 
-**Pirate (Sailor)**
-
 **Challenge rating:** 1/2
 
 **XP** 200\

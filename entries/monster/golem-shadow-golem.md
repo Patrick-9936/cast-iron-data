@@ -30,8 +30,6 @@ abilities = ["34", "19", "-", "-", "11", "1"]
 _This towering humanoid figure seems to be made of solidified shadows. Two pale orbs glare from its
 otherwise blank visage._
 
-**Shadow Golem**
-
 **Challenge rating:** 14
 
 **aura:** shadow (60 ft.)

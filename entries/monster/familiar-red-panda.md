@@ -25,8 +25,6 @@ melee = "bite +5 (1d3-1)"
 abilities = ["8", "16", "11", "2", "13", "5"]
 +++
 
-**Red Panda**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

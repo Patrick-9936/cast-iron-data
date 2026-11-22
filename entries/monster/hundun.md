@@ -31,8 +31,6 @@ abilities = ["34", "22", "29", "18", "23", "27"]
 
 _The wrinkled, blotchy skin of this giant hangs from its body like hooded robes, masking its face._
 
-**Hundun**
-
 **Challenge rating:** 21
 
 **Type:** aberration

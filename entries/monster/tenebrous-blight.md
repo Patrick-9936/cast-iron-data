@@ -31,8 +31,6 @@ abilities = ["26", "10", "19", "-", "15", "1"]
 _This huge, fungal growth has a stalk as black as the shadows, and dark motes float in the air
 around its enormous cap._
 
-**Tenebrous Blight**
-
 **Challenge rating:** 6
 
 **aura:** tenebrous aura (30 ft.)

@@ -32,8 +32,6 @@ abilities = ["20", "9", "12", "10", "15", "13"]
 _This humanoid's scaly hide is dull gray. Its frame resembles that of a cave lizard, with a long
 tail and crests on its head and back._
 
-**Troglodyte Priest**
-
 **Challenge rating:** 3
 
 **Troglodyte [cleric](ref/class/cleric) 3**

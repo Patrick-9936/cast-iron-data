@@ -30,8 +30,6 @@ abilities = ["15", "23", "24", "16", "23", "18"]
 
 _This elderly figure looks out with heavy-lidded eyes, and seems lost in its own serenity._
 
-**Maharishi Manu**
-
 **Challenge rating:** 16
 
 **Initiative:** +10

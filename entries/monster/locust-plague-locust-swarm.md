@@ -30,8 +30,6 @@ abilities = ["1", "18", "17", "-", "13", "2"]
 
 _Buzzing with an ear-shattering drone, this cloud is full of particularly vicious-looking locusts._
 
-**Plague Locust Swarm**
-
 **Challenge rating:** 8
 
 **Size:** fine

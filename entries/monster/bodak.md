@@ -34,8 +34,6 @@ abilities = ["13", "15", "-", "6", "13", "16"]
 _The flesh of this emaciated creature appears charred or dried, and its empty eye sockets seep
 trails of smoke._
 
-**Bodak**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

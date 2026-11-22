@@ -31,8 +31,6 @@ abilities = ["12", "14", "13", "2", "11", "15"]
 _Razor-sharp leaves dripping in blood span the length of this cornstalk, while a snake-like root
 digs into the soft ground._
 
-**Blood Maize**
-
 **Challenge rating:** 2
 
 **blindsight:** 30

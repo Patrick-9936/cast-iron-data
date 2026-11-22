@@ -24,8 +24,6 @@ will = "+2"
 abilities = ["1", "12", "6", "1", "15", "4"]
 +++
 
-**Toad**
-
 **Challenge rating:** 1/8
 
 **Type:** animal

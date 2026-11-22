@@ -31,8 +31,6 @@ abilities = ["17", "11", "12", "7", "8", "6"]
 _This savage creature looks like a bestial version of a savage human, with green-gray skin and
 greasy black hair._
 
-**Orc**
-
 **Challenge rating:** 1/3
 
 **Orc [warrior](ref/npcclass/warrior) 1**

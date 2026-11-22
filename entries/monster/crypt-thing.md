@@ -30,8 +30,6 @@ abilities = ["19", "14", "-", "13", "14", "15"]
 _Shreds of leathery flesh cling to this skeletal figure's body, while twin motes of fiery light glow
 deep in its eye sockets._
 
-**Crypt Thing**
-
 **Challenge rating:** 5
 
 **aura:** fear (10 ft., frightened for 1d4 rounds, Will DC 16 negates)

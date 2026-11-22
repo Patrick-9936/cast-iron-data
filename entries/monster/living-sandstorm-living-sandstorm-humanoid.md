@@ -32,8 +32,6 @@ abilities = ["31", "22", "21", "12", "12", "13"]
 _This hulking humanoid figure of packed red sand is no taller than an average human, but it is
 brawny and exceptionally broad._
 
-**Living Sandstorm (Humanoid)**
-
 **Challenge rating:** 11
 
 **Initiative:** +6

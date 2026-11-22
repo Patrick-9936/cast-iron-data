@@ -33,8 +33,6 @@ abilities = ["18", "17", "16", "17", "12", "7"]
 _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its
 piscine head features a toothy maw._
 
-**Sahuagin Scout**
-
 **Challenge rating:** 3
 
 **Sahuagin [rogue](ref/class/rogue) 2**

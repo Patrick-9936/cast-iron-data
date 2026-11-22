@@ -33,8 +33,6 @@ abilities = ["24", "17", "21", "2", "13", "6"]
 _This serpentine beast undulates through the water. Its scaly skin and its flesh are clear,
 revealing its red-and-brown organs._
 
-**Tizheruk**
-
 **Challenge rating:** 5
 
 **Initiative:** +3

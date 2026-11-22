@@ -30,8 +30,6 @@ abilities = ["13", "13", "14", "-", "10", "2"]
 _This bug has long, fuzzy legs that support it on the water's surface as if the creature stands on
 solid ground._
 
-**Giant Water Strider**
-
 **Challenge rating:** 1
 
 **Initiative:** +1

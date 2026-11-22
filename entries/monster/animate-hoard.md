@@ -28,8 +28,6 @@ abilities = ["30", "6", "-", "-", "10", "1"]
 
 _A pile of more than 100,000 coins has been given malevolent life._
 
-**Animate Hoard**
-
 **Challenge rating:** 9
 
 **Advanced animated object**

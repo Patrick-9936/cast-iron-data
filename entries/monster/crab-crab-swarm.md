@@ -30,8 +30,6 @@ abilities = ["1", "14", "13", "-", "10", "2"]
 _A writhing mass of clacking shells and snapping pincers rushes from the surf, their spider-like
 legs twitching across the sand._
 
-**Crab Swarm**
-
 **Challenge rating:** 4
 
 **Size:** diminutive

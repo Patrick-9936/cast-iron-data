@@ -33,8 +33,6 @@ abilities = ["46", "11", "27", "13", "24", "18"]
 _Symbolic representations of the occultation of heavenly bodies decorate the dark gray skin of this
 massive giant._
 
-**Eclipse Giant**
-
 **Challenge rating:** 19
 
 **Size:** gargantuan

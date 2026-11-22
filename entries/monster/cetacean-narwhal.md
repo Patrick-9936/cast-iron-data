@@ -33,8 +33,6 @@ abilities = ["21", "17", "14", "2", "15", "6"]
 _This small whale lacks a dorsal fin and has pale, mottled skin, but its most notable feature is the
 single tusk protruding from its nose, easily as long as a human._
 
-**Narwhal**
-
 **Challenge rating:** 3
 
 **Type:** animal

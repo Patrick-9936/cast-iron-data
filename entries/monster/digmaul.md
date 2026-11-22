@@ -29,8 +29,6 @@ abilities = ["18", "20", "15", "2", "13", "7"]
 
 _This muscular, cougar-like cat has fearsome teeth and a thick tail ending in a spiked ball._
 
-**Digmaul**
-
 **Challenge rating:** 3
 
 **Type:** animal

@@ -31,8 +31,6 @@ abilities = ["-", "18", "-", "10", "10", "21"]
 _This translucent, floating head has a bluish tinge and a humanoid face twisted in an enraged
 scowl._
 
-**Gale Spirit**
-
 **Challenge rating:** 6
 
 **aura:** [unnatural aura](ref/umr/unnatural-aura) (30 ft.)

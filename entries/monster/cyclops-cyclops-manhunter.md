@@ -33,8 +33,6 @@ abilities = ["25", "12", "15", "8", "15", "10"]
 _This cyclops warrior clad in leathers and a flowing hood looms over the terrain. A heavy axe
 stained with gore serves as a warning for opponents who dare draw closer._
 
-**Cyclops Manhunter**
-
 **Challenge rating:** 7
 
 **Cyclops [ranger](ref/class/ranger) 2**

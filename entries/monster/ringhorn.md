@@ -30,8 +30,6 @@ abilities = ["13", "16", "13", "2", "12", "13"]
 _The horns of this goat-like deer grow up and curve around into a pair of massive, spiraling rings
 atop its head._
 
-**Ringhorn**
-
 **Challenge rating:** 1
 
 **Type:** animal

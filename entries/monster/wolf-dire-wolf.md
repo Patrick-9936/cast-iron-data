@@ -28,8 +28,6 @@ abilities = ["19", "15", "17", "2", "12", "10"]
 
 _This immense black wolf is the size of a horse, its fangs as large and sharp as knives._
 
-**Dire Wolf**
-
 **Challenge rating:** 3
 
 **Type:** animal

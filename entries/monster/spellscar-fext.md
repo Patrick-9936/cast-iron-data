@@ -31,8 +31,6 @@ abilities = ["25", "16", "-", "8", "13", "19"]
 _This undead horror's upper body is twisted and malformed, and its hands end in tangles of blunt,
 electric-blue tendrils._
 
-**Spellscar Fext**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

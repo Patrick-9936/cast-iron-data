@@ -32,8 +32,6 @@ abilities = ["14", "10", "14", "10", "16", "16"]
 _Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant
 eyes._
 
-**Hobgoblin Battle Priest**
-
 **Challenge rating:** 8
 
 **Hobgoblin [cleric](ref/class/cleric) 9**

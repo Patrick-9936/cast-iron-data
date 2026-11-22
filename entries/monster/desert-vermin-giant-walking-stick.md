@@ -29,8 +29,6 @@ abilities = ["21", "15", "17", "-", "10", "2"]
 _What at first appears to be a spindly, dead tree suddenly crawls from its camouflage, its wiry
 antenna twitching in the air._
 
-**Giant Walking Stick**
-
 **Challenge rating:** 5
 
 **Initiative:** +2

@@ -29,8 +29,6 @@ abilities = ["13", "14", "19", "1", "10", "6"]
 _This six-foot-long, snake-like fish moves slowly. A strange popping and snapping sound occasionally
 emits from the creature's body._
 
-**Electric Eel**
-
 **Challenge rating:** 2
 
 **Type:** animal

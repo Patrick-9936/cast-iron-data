@@ -31,8 +31,6 @@ abilities = ["18", "10", "-", "10", "13", "17"]
 _The top of this large, black ant's head is cracked open, and a pulsing, brown growth twists up out
 of the gap._
 
-**Giant Ant Spore Zombie**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

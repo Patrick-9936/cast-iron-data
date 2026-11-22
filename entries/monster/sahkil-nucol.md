@@ -31,8 +31,6 @@ abilities = ["21", "16", "17", "9", "12", "16"]
 _This monstrous wild boar is infested with wriggling worms and accompanied by a buzzing cloud of
 flies._
 
-**Nucol**
-
 **Challenge rating:** 4
 
 **Initiative:** +7

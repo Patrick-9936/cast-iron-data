@@ -33,8 +33,6 @@ abilities = ["20", "28", "21", "16", "23", "21"]
 _This lithe, androgynous humanoid has pointed ears, glowing green eyes, and six fingers on each
 slender hand._
 
-**Wild Hunt Archer**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic neutral

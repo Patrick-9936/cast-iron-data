@@ -29,8 +29,6 @@ special_qualities = "change shape (dire bat or wolf; beast shape II), fast movem
 abilities = ["30", "18", "-", "10", "14", "22"]
 +++
 
-**Vampire Savage**
-
 **Challenge rating:** 10
 
 **Half-orc vampire [barbarian](ref/class/barbarian) 9**

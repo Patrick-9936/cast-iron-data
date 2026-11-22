@@ -31,8 +31,6 @@ abilities = ["10", "17", "12", "-", "13", "5"]
 _This strange, vibrant plant slowly but dangerously whips about its trio of tendrils with spiked
 heads._
 
-**Weedwhip**
-
 **Challenge rating:** 2
 
 **aura:** [stench](ref/umr/stench) (DC 12, 1 minute)

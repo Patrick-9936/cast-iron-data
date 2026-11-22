@@ -32,8 +32,6 @@ abilities = ["-", "27", "20", "5", "14", "11"]
 _Reaching hands, a fierce and eerie visage, and a powerfully abrasive stench all stem from this
 hissing cloud of churning gases._
 
-**Caustic Stalker**
-
 **Challenge rating:** 7
 
 **Initiative:** +12

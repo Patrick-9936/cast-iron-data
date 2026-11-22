@@ -32,8 +32,6 @@ abilities = ["22", "19", "18", "11", "14", "9"]
 _A wicked scar runs the length of this blue-eyed, apish humanoid's face, and he wields a dislodged
 tree trunk as a club._
 
-**Paakis-Si**
-
 **Challenge rating:** 5
 
 **Male sasquatch [ranger](ref/class/ranger) ([warden](ref/arc-ranger/warden)) 3**

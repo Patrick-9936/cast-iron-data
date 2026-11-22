@@ -30,8 +30,6 @@ abilities = ["25", "19", "32", "18", "18", "25"]
 _This snake-bodied fiend has a six-armed woman's torso, pointed ears, and glittering, otherworldly
 eyes._
 
-**Marilith**
-
 **Challenge rating:** 17
 
 **aura:** unholy aura (DC 25)

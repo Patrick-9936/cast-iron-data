@@ -31,8 +31,6 @@ abilities = ["31", "11", "-", "10", "18", "9"]
 _This massive metallic biped stands on thick legs. A wide, serrated shovel serves as the brute's
 head, and iron pincers at the ends of its powerful arms snap open and shut._
 
-**Ardoc Moilant**
-
 **Challenge rating:** 10
 
 **Type:** construct

@@ -29,8 +29,6 @@ abilities = ["14", "15", "15", "2", "10", "6"]
 
 _This reddish-brown canine has a square, athletic build. Its dripping saliva smells of sulfur._
 
-**Chelish Hell-Bred Dog**
-
 **Challenge rating:** 2
 
 **Type:** animal

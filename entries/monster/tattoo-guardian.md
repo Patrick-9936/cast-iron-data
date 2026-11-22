@@ -29,8 +29,6 @@ abilities = ["14", "17", "-", "-", "12", "13"]
 
 _This beautiful, impossibly intricate tattoo appears to swirl and move along its wearer's skin._
 
-**Tattoo Guardian**
-
 **Challenge rating:** 3
 
 **Type:** construct

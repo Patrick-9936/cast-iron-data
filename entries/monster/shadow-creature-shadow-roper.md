@@ -31,8 +31,6 @@ abilities = ["34", "13", "29", "13", "16", "12"]
 _A tentacled horror that seems to shift in and out of the shadows, this bizarre beast is an
 amalgamation of darkness and menace._
 
-**Shadow Roper**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic evil

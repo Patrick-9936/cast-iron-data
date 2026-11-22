@@ -31,8 +31,6 @@ abilities = ["26", "19", "24", "25", "22", "21"]
 _This cylindrical creature of pale fog and dark shadow stands on three clawed feet. Three pale arms
 jut from around the column, each ending in a hand with long, black claws._
 
-**Agnoia**
-
 **Challenge rating:** 14
 
 **aura:** ignorance (30 ft.)

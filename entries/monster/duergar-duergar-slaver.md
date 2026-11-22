@@ -29,8 +29,6 @@ special_qualities = "slow and steady, stability, trapfinding +1"
 abilities = ["13", "15", "12", "12", "16", "4"]
 +++
 
-**Duergar Slaver**
-
 **Challenge rating:** 1/2
 
 **Duergar [rogue](ref/class/rogue) 1**

@@ -31,8 +31,6 @@ abilities = ["11", "21", "14", "18", "10", "19"]
 _A tangle of thin, tentacle-like eyestalks floats in the air, its innumerable unblinking eyes each
 projecting an air of cruelty._
 
-**Aatheriexa**
-
 **Challenge rating:** 7
 
 **Type:** aberration

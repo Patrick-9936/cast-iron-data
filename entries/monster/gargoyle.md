@@ -31,8 +31,6 @@ abilities = ["15", "14", "16", "6", "11", "7"]
 _Seemingly carved from a dark gray stone, this sinister crouching humanoid resembles a horned,
 winged demon._
 
-**Gargoyle**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

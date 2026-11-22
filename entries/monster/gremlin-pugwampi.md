@@ -32,8 +32,6 @@ abilities = ["3", "13", "11", "10", "14", "6"]
 _As if the world's most revolting lapdog had somehow learned to walk on its back legs, this sickly
 creature slinks forward carefully._
 
-**Pugwampi**
-
 **Challenge rating:** 1/2
 
 **aura:** unluck (20 ft.)

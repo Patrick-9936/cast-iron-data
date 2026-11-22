@@ -31,8 +31,6 @@ abilities = ["-", "15", "12", "8", "13", "11"]
 _This tube of roiling mist writhes through the air. Thin tendrils of dark smoke reach tentatively
 out from its body as swiftly as they collapse back into its central mass._
 
-**Smokeshade**
-
 **Challenge rating:** 2
 
 **Type:** aberration

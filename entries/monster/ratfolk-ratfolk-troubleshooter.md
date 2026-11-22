@@ -33,8 +33,6 @@ abilities = ["11", "18", "14", "12", "12", "8"]
 _This small, rat-like humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery
 tail._
 
-**Ratfolk Troubleshooter**
-
 **Challenge rating:** 5
 
 **Ratfolk [rogue](ref/class/rogue) 6**

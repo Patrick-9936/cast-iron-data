@@ -34,8 +34,6 @@ abilities = ["24", "21", "19", "10", "16", "15"]
 _This human-sized, serpent-headed spider seems to be made of clotted blood, its dragonfly-like wings
 dripping crimson streamers._
 
-**Sangudaemon**
-
 **Challenge rating:** 9
 
 **aura:** bleeding aura (30 ft.)

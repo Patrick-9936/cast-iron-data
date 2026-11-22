@@ -32,8 +32,6 @@ abilities = ["38", "27", "32", "3", "27", "20"]
 _This serpentine creature chews at its own tail. Its body consists of a multitude of entangled
 serpents with countless hissing jaws._
 
-**Ouroboros**
-
 **Challenge rating:** 21
 
 **aura:** hypnotic coils (100 ft., DC 27)

@@ -32,8 +32,6 @@ abilities = ["24", "10", "-", "6", "15", "15"]
 _Wrapped from head to toe in ancient strips of moldering linen, this humanoid moves with a shuffling
 gait._
 
-**Mummy**
-
 **Challenge rating:** 5
 
 **aura:** despair (30 ft., paralyzed for 1d4 rounds, Will DC 16 negates)

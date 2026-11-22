@@ -28,8 +28,6 @@ abilities = ["17", "16", "14", "2", "11", "9"]
 _Standing on muscular legs that end in enormous talons, this flightless bird is almost twice the
 height of a man._
 
-**Moa**
-
 **Challenge rating:** 2
 
 **Type:** animal

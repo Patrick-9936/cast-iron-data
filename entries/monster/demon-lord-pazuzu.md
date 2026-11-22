@@ -31,8 +31,6 @@ abilities = ["40", "28", "42", "33", "34", "36"]
 _Held aloft by four great feathered wings, this hawk-faced fiend has a scorpion's tail and carries a
 black metal scepter._
 
-**Pazuzu**
-
 **Challenge rating:** 30
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 40, 10 rounds), locusts (10

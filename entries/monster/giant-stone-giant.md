@@ -31,8 +31,6 @@ abilities = ["27", "15", "19", "10", "12", "10"]
 _This giant has chiseled, muscular features and a flat, forward-sloping head, looking almost as if
 it were carved of stone._
 
-**Stone Giant**
-
 **Challenge rating:** 8
 
 **Type:** humanoid

@@ -32,8 +32,6 @@ abilities = ["32", "13", "25", "7", "12", "6"]
 _This giant's maw contains a pair of dripping tusks, but it is its gangly third arm that makes its
 appearance truly bizarre._
 
-**Athach**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

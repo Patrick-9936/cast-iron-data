@@ -32,8 +32,6 @@ abilities = ["37", "16", "-", "-", "10", "7"]
 
 _This humanoid-shaped colossus is a towering fury of burning wicker and wood._
 
-**Wickerman**
-
 **Challenge rating:** 13
 
 **Size:** colossal

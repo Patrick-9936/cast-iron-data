@@ -32,8 +32,6 @@ _This skull is as large as an ogre and surrounded by buzzing flies. Its bat wing
 actually carry it, yet it moves through the air as easily as a bird. It is surrounded by the stink
 of rotting meat, spice, and perfume._
 
-**Mother's Maw**
-
 **Challenge rating:** 15
 
 **aura:** desecrate

@@ -31,8 +31,6 @@ abilities = ["17", "12", "15", "10", "13", "10"]
 _This short, iron-skinned horse is surrounded by a flickering light. A preternatural intelligence
 glitters in its metallic golden eyes._
 
-**Orsheval**
-
 **Challenge rating:** 4
 
 **Initiative:** +1

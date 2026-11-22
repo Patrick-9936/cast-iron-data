@@ -35,8 +35,6 @@ abilities = ["19", "15", "16", "-", "9", "2"]
 _This long, insectile creature has massive mandibles and dozens of segmented legs extend from its
 sides._
 
-**Giant Hellgrammite**
-
 **Challenge rating:** 5
 
 **Initiative:** +2

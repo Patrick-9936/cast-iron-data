@@ -32,8 +32,6 @@ abilities = ["19", "8", "17", "14", "15", "16"]
 _This enormous woman's eye darts constantly, never settling or focusing. Scrolls dangle from the
 belt that encircles her chiton._
 
-**Cyclops Grand-Eye**
-
 **Challenge rating:** 10
 
 **Cyclops [oracle](ref/class/oracle) ([cyclopean seer](ref/arc-oracle/cyclopean-seer)) 8**

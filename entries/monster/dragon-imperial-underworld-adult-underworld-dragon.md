@@ -29,8 +29,6 @@ special_qualities = "change shape, underworld burrower"
 abilities = ["27", "10", "21", "16", "17", "16"]
 +++
 
-**Adult Underworld Dragon**
-
 **Challenge rating:** 11
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 20)

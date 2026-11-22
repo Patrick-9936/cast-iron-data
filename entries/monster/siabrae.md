@@ -35,8 +35,6 @@ abilities = ["12", "9", "-", "12", "24", "22"]
 _This petrified skeleton is clad in rotting furs. Stone antlers grow from the crown of its skull,
 and its eyes are polished white orbs._
 
-**Siabrae**
-
 **Challenge rating:** 15
 
 **Female old human siabrae [druid](ref/class/druid) 14**

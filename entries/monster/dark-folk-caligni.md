@@ -31,8 +31,6 @@ abilities = ["13", "17", "16", "10", "8", "10"]
 
 _Beneath ragged shreds, this lean figure's chalky skin darkens to charred hues at the extremities._
 
-**Caligni**
-
 **Challenge rating:** 1/2
 
 **Caligni [rogue](ref/class/rogue) 1**

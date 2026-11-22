@@ -26,8 +26,6 @@ melee = "bite +14 (1d8+6), 2 claws +14 (1d6+6)"
 abilities = ["23", "20", "18", "2", "13", "9"]
 +++
 
-**Ngoga**
-
 **Challenge rating:** 7
 
 **aura:** [stench](ref/umr/stench) (DC 18, 10 rounds)

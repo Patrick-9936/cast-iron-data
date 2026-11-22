@@ -33,8 +33,6 @@ abilities = ["25", "12", "18", "6", "12", "5"]
 _This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy face features a wide
 mouth with ill-fitting teeth._
 
-**Ogre Mancatcher**
-
 **Challenge rating:** 8
 
 **Ogre [fighter](ref/class/fighter) 5**

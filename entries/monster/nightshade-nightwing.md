@@ -29,8 +29,6 @@ abilities = ["31", "18", "-", "18", "21", "21"]
 _This enormous, bat-like creature is shaped from utter darkness, its eyes tiny red stars in the
 blackest night._
 
-**Nightwing**
-
 **Challenge rating:** 14
 
 **aura:** desecrating aura (30 ft.)

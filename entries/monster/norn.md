@@ -31,8 +31,6 @@ abilities = ["25", "14", "30", "21", "24", "31"]
 _This towering, stern woman wears her long blonde hair in braids. She carries a reel of golden
 thread and a pair of shears._
 
-**Norn**
-
 **Challenge rating:** 18
 
 **blindsight:** 120

@@ -31,8 +31,6 @@ abilities = ["42", "27", "40", "31", "32", "33"]
 
 _This muscular figure has a skeletal ram's head and a cloud of flies spews from his mouth._
 
-**Apollyon**
-
 **Challenge rating:** 29
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 38), plague shadow (10 ft.),

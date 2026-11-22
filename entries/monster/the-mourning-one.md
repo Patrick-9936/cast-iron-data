@@ -31,8 +31,6 @@ abilities = ["44", "16", "29", "2", "11", "13"]
 _This colossal serpent's skin is like that of decayed, bruised corpses. Cancers rupture from its
 flesh, and a terrible sickening flow of black blood oozes from each break and sores._
 
-**The Mourning One**
-
 **Challenge rating:** 19
 
 **Unique black-blooded sea serpent**

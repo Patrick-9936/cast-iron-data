@@ -31,8 +31,6 @@ abilities = ["18", "16", "14", "13", "17", "13"]
 _This creature's upper torso is that of a comely woman with cat's eyes and sharp fangs, while her
 lower body is that of a lion._
 
-**Lamia**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

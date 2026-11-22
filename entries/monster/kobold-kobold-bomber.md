@@ -32,8 +32,6 @@ abilities = ["8", "16", "8", "15", "13", "8"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold Bomber**
-
 **Challenge rating:** 1
 
 **Kobold [alchemist](ref/class/alchemist)

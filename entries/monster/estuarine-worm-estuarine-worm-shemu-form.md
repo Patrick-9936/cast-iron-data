@@ -28,8 +28,6 @@ special_qualities = "amphibious, seasonal transformation"
 abilities = ["24", "8", "23", "1", "13", "8"]
 +++
 
-**Estuarine Worm (Shemu Form)**
-
 **Challenge rating:** 10
 
 **Initiative:** +3

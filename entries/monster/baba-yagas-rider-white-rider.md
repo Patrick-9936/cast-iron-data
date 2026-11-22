@@ -30,8 +30,6 @@ abilities = ["20", "25", "20", "18", "21", "21"]
 
 _A tall, handsome woman sits astride a white horse. She grips an elegant longbow made of raw birch._
 
-**White Rider**
-
 **Challenge rating:** 11
 
 **aura:** blinding light (30 ft., DC 23)

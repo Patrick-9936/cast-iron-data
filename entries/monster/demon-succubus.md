@@ -30,8 +30,6 @@ abilities = ["13", "17", "20", "18", "14", "27"]
 
 _Tiny horns, bat-like wings, and a sinuous tail betray the demonic nature of this alluring woman._
 
-**Succubus**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

@@ -32,8 +32,6 @@ abilities = ["30", "21", "-", "23", "8", "31"]
 _This hulking, serpentine creature resembles an oversized salamander devoid of color. Its flesh is
 pockmarked with coal-like scales and metallic piercings, and it carries a fearsome spear._
 
-**Ashen Forgemaster**
-
 **Challenge rating:** 17
 
 **aura:** fire aura (5 ft.)

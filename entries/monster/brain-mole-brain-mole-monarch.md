@@ -31,8 +31,6 @@ abilities = ["6", "14", "15", "8", "17", "15"]
 _Tumorous bulges crisscross this six-limbed rodent, lending its hairless body a bloated, brain-like
 appearance._
 
-**Brain Mole Monarch**
-
 **Challenge rating:** 5
 
 **Initiative:** +2

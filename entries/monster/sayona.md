@@ -31,8 +31,6 @@ abilities = ["13", "20", "-", "11", "12", "21"]
 _This revolting withered corpse of a woman is dressed in revealing clothes, its bare skin wet with
 fresh blood._
 
-**Sayona**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

@@ -34,8 +34,6 @@ abilities = ["34", "17", "28", "12", "17", "11"]
 _Four long antennae stretch from the face of this giant, multi-eyed flatworm. From its spiny,
 chitinous body emerge four tentacles._
 
-**Somalcygot**
-
 **Challenge rating:** 12
 
 **Type:** aberration

@@ -31,8 +31,6 @@ abilities = ["18", "25", "18", "18", "23", "27"]
 _Simple but elegant robes drape over this gray-furred, trunked quadruped, and its kind gaze suggests
 a gentle wisdom._
 
-**Baku Dreamweaver**
-
 **Challenge rating:** 11
 
 **Initiative:** +11

@@ -31,8 +31,6 @@ abilities = ["18", "9", "-", "-", "11", "1"]
 _A walking rubbish heap, this roughly man-shaped creature seems to be barely holding itself
 together._
 
-**Junk Golem**
-
 **Challenge rating:** 4
 
 **Type:** construct

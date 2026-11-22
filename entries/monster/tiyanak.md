@@ -31,8 +31,6 @@ abilities = ["12", "20", "-", "9", "13", "19"]
 _With the size and appearance of a small child, this wrinkled grey figure has crimson eyes and
 jagged teeth._
 
-**Tiyanak**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

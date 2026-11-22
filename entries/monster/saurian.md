@@ -31,8 +31,6 @@ abilities = ["28", "18", "23", "16", "25", "21"]
 
 _This creature has the head, legs, and tail of a tyrannosaurus, but humanoid chest and arms._
 
-**Saurian**
-
 **Challenge rating:** 16
 
 **Size:** huge

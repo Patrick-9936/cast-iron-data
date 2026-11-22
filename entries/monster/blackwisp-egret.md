@@ -29,8 +29,6 @@ abilities = ["4", "15", "11", "2", "12", "5"]
 _This jet-black bird has a long, hooked beak. Its piercing orange eyes reflect any light that hits
 them, making them appear to glow ominously._
 
-**Blackwisp Egret**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

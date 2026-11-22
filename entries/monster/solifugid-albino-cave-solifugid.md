@@ -29,8 +29,6 @@ abilities = ["16", "13", "17", "-", "11", "2"]
 _This spider-like creature's front legs end in immense, grasping claws. Its mouth sports a pair of
 huge vertical mandibles._
 
-**Albino Cave Solifugid**
-
 **Challenge rating:** 4
 
 **Initiative:** +1

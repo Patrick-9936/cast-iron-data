@@ -34,8 +34,6 @@ abilities = ["23", "22", "22", "17", "17", "22"]
 _This brawny, sallow-skinned figure is muscular but lean, with bat-like wings and a single hideous
 eye in its noseless face._
 
-**Popobala**
-
 **Challenge rating:** 15
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (30 ft., DC 25), [stench](ref/umr/stench)

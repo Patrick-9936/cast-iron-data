@@ -33,8 +33,6 @@ abilities = ["29", "10", "23", "6", "12", "5"]
 _This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy face features a wide
 mouth with ill-fitting teeth._
 
-**Ogre Brute**
-
 **Challenge rating:** 6
 
 **Ogre [barbarian](ref/class/barbarian) 3**

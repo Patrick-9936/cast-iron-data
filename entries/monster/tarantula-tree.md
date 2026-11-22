@@ -30,8 +30,6 @@ abilities = ["42", "30", "26", "13", "25", "17"]
 
 _This towering mass of vegetation balances itself upon several long and misshapen tree trunks._
 
-**Tarantula Tree**
-
 **Challenge rating:** 19
 
 **Alignment:** Chaotic neutral

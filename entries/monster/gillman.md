@@ -32,8 +32,6 @@ abilities = ["12", "13", "13", "9", "8", "10"]
 _A handsome, well-formed man walks out of the waves, the gill slits on the side of his neck
 flexing._
 
-**Gillman**
-
 **Challenge rating:** 1/3
 
 **Gillman [warrior](ref/npcclass/warrior) 1**

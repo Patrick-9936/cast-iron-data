@@ -31,8 +31,6 @@ abilities = ["21", "18", "-", "-", "11", "5"]
 _This small humanoid figure grinds and clatters as it moves, its body carved from bones decorated
 with fine scrimshaw._
 
-**Tupilaq**
-
 **Challenge rating:** 7
 
 **Type:** construct

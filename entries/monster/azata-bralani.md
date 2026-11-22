@@ -32,8 +32,6 @@ abilities = ["20", "18", "19", "13", "14", "15"]
 _Silver-white hair the color of a lightning strike whips about this poised elf-like archer, his eyes
 swirling with vibrant colors._
 
-**Bralani**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic good

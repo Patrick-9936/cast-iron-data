@@ -33,8 +33,6 @@ abilities = ["34", "19", "23", "2", "13", "14"]
 _Planted in soil fertilized with corpses, this giant, blood-red flower is surrounded by prickly
 vines._
 
-**Corpse Lotus**
-
 **Challenge rating:** 13
 
 **aura:** preserving mists (30 ft.)

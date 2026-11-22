@@ -29,8 +29,6 @@ abilities = ["23", "13", "20", "5", "12", "6"]
 
 _This improbably large toad has pale blue flesh and a body covered with jagged, icy growths._
 
-**Glacier Toad**
-
 **Challenge rating:** 6
 
 **aura:** bitter cold (20 ft.)

@@ -30,8 +30,6 @@ abilities = ["12", "23", "21", "16", "10", "17"]
 _Devoid of a head, or any features at all save for four short, clawed legs, this creature's body
 looks like a large, glistening brain._
 
-**Intellect Devourer**
-
 **Challenge rating:** 8
 
 **Type:** aberration

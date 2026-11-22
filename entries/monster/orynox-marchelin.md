@@ -32,8 +32,6 @@ abilities = ["31", "16", "27", "13", "14", "16"]
 _This stocky giant has a flaming mane and facial hair, his massive armor and fiery glaive indicating
 his prowess as a warrior._
 
-**Orynox Marchelin, Fire Giant King**
-
 **Challenge rating:** 19
 
 **Male fire giant [fighter](ref/class/fighter) (polearm master) 9**

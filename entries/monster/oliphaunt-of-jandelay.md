@@ -32,8 +32,6 @@ abilities = ["44", "27", "37", "14", "17", "32"]
 _The elephantine creature is titanic in scale. Curving tusks frame its flexing, muscular trunk and
 its canyon of a mouth._
 
-**Oliphaunt of Jandelay**
-
 **Challenge rating:** 30
 
 **aura:** dimensional lock (500 ft., DC 41)

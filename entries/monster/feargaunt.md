@@ -32,8 +32,6 @@ abilities = ["-", "21", "17", "12", "16", "19"]
 _This hulking shadow exudes a palpable menace, its form twisting into the shapes of hooks, grasping
 hands, and writhing tentacles._
 
-**Feargaunt**
-
 **Challenge rating:** 9
 
 **aura:** nightmare (60 ft., DC 20)

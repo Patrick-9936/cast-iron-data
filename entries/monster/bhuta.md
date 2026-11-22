@@ -30,8 +30,6 @@ abilities = ["-", "25", "-", "11", "8", "22"]
 _This ghostly apparition floats in the air on backward-facing feet. Its hands end in sharp talons,
 and its eyes glow with blue fire._
 
-**Bhuta**
-
 **Challenge rating:** 11
 
 **Initiative:** +7

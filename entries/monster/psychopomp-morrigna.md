@@ -34,8 +34,6 @@ abilities = ["22", "19", "18", "13", "17", "16"]
 _This beautiful woman wears a mask and is completely wrapped in spider silk. Magical fetishes adorn
 her clothing and staff._
 
-**Morrigna**
-
 **Challenge rating:** 13
 
 **Initiative:** +8

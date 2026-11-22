@@ -28,8 +28,6 @@ special_qualities = "oracle's curse (tongues [Aklo]), revelations (crystal sight
 abilities = ["20", "18", "-", "15", "14", "18"]
 +++
 
-**Ancient Gravedigger**
-
 **Challenge rating:** 10
 
 **Ghoul [oracle](ref/class/oracle) 10**

@@ -29,8 +29,6 @@ abilities = ["19", "10", "16", "-", "10", "2"]
 _The sixteen-foot-long scorpion scrabbles forward, ferocious claws raised in challenge, stingered
 tail arched over its back._
 
-**Giant Scorpion**
-
 **Challenge rating:** 3
 
 **Initiative:** +0

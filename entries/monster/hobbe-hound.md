@@ -30,8 +30,6 @@ abilities = ["18", "13", "17", "2", "10", "7"]
 _A greasy sheen coats the scarred, rippling hide of this dog-shaped beast. Beady eyes, wide ears,
 and jagged teeth lend rodent-like qualities to the imposing war beast._
 
-**Hobbe Hound**
-
 **Challenge rating:** 2
 
 **Type:** animal

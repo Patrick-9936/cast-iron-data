@@ -29,8 +29,6 @@ abilities = ["27", "10", "19", "2", "11", "4"]
 _This creature has small, upward-pointing horns, a shaggy coat of fur, and a large hump on its
 shoulders._
 
-**Bison**
-
 **Challenge rating:** 4
 
 **Type:** animal

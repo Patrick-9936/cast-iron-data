@@ -28,8 +28,6 @@ abilities = ["31", "12", "19", "2", "11", "4"]
 _This immense bovine has horns reminiscent of a stag, with dagger-like points spreading more than
 fifteen feet across._
 
-**Bull of Zagresh**
-
 **Challenge rating:** 7
 
 **Type:** animal

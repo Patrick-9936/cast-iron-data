@@ -32,8 +32,6 @@ abilities = ["-", "34", "-", "15", "19", "27"]
 _This translucent apparition wears tatters of once-fine clothing and jewelry. The creature's
 still-beating heart glows brightly around a dagger thrust through its chest._
 
-**Soulpierced**
-
 **Challenge rating:** 17
 
 **Alignment:** Chaotic evil

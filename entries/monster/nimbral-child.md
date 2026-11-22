@@ -31,8 +31,6 @@ abilities = ["16", "19", "18", "13", "14", "21"]
 _This emaciated humanoid is barely visible in a swirl of engulfing shadow. Its eyes and mouth reveal
 a burning void within its head._
 
-**Nimbral Child**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic evil

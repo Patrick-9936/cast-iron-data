@@ -30,8 +30,6 @@ abilities = ["22", "1", "24", "-", "1", "1"]
 
 _Electricity crackles and arcs from this undulating mass of orange slime._
 
-**Capacitor Ooze**
-
 **Challenge rating:** 11
 
 **aura:** osmotic drain (10 ft., DC 25)

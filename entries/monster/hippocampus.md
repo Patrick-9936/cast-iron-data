@@ -31,8 +31,6 @@ abilities = ["16", "9", "15", "2", "12", "11"]
 _This creature has the foreparts of a horse and the hindquarters of a fish. Its forelegs end in
 splayed fins rather than hooves._
 
-**Hippocampus**
-
 **Challenge rating:** 1
 
 **Initiative:** -1

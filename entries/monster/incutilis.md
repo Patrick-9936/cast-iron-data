@@ -35,8 +35,6 @@ abilities = ["15", "15", "11", "12", "13", "8"]
 _This strange nautilus drags itself forward on oversized tentacles, its crimson-streaked flesh
 textured like the surface a brain._
 
-**Incutilis**
-
 **Challenge rating:** 2
 
 **Type:** aberration

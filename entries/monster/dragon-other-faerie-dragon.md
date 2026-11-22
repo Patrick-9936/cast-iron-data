@@ -31,8 +31,6 @@ abilities = ["9", "17", "13", "16", "14", "16"]
 
 _A pair of brightly colored butterfly wings sprouts from the back of this miniature dragon._
 
-**Faerie Dragon**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic good

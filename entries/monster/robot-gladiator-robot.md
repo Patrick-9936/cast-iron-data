@@ -33,8 +33,6 @@ abilities = ["25", "20", "-", "14", "15", "17"]
 _One of this metallic humanoid's four arms ends in the barrel of a large-bore rifle, while another
 ends in a spinning circular blade. Its final two arms grasp a massive chainsaw._
 
-**Gladiator Robot**
-
 **Challenge rating:** 17
 
 **blindsight:** 60

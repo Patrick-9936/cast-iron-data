@@ -30,8 +30,6 @@ abilities = ["26", "23", "22", "9", "17", "16"]
 _The size of a horse, this demonic locust has a scorpion's stinger and an almost-human face. Its
 front legs end in clawed hands._
 
-**Derakni**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic evil

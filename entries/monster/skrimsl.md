@@ -31,8 +31,6 @@ abilities = ["31", "18", "21", "4", "23", "18"]
 _Four gleaming, yellow eyes leer above the tooth-rimmed maw of this massive, blue-scaled and
 eel-like creature._
 
-**Skrimsl**
-
 **Challenge rating:** 13
 
 **Size:** huge

@@ -33,8 +33,6 @@ abilities = ["13", "17", "12", "10", "14", "8"]
 _This tall, gray-skinned woman's eyes flicker with determination. Her somber attire is decorated
 with small bones._
 
-**Duskwalker**
-
 **Challenge rating:** 1/2
 
 **Female duskwalker [ranger](ref/class/ranger) 1**

@@ -30,8 +30,6 @@ abilities = ["13", "21", "-", "17", "32", "31"]
 
 _This withered humanoid wears sooty, fire-blackened robes and a headdress of black and gold._
 
-**Kortash Khain**
-
 **Challenge rating:** 23
 
 **Mythic rank:** 6

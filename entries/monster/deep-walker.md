@@ -31,8 +31,6 @@ abilities = ["29", "16", "23", "10", "19", "20"]
 
 _This armor-plated creature has four crab-like legs and four arms with razor-sharp pincers._
 
-**Deep Walker**
-
 **Challenge rating:** 14
 
 **Type:** aberration

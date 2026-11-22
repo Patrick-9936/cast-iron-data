@@ -27,8 +27,6 @@ special_qualities = "conditional sentience"
 abilities = ["14", "9", "-", "10", "11", "1"]
 +++
 
-**Sentient Wax Golem**
-
 **Challenge rating:** 4
 
 **Commoner 1**

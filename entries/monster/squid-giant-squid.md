@@ -30,8 +30,6 @@ abilities = ["25", "17", "19", "2", "12", "2"]
 _Immense in size, this great squid's tentacles writhe and flash with almost nauseating speed. The
 beast's eyes are as big as shields._
 
-**Giant Squid**
-
 **Challenge rating:** 9
 
 **Type:** animal

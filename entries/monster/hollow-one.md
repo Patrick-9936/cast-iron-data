@@ -31,8 +31,6 @@ _The faint chemical smell lingering on this creature's skin hints that it is not
 person. Small, almost imperceptible flaws suggest that the creature's skin is somehow stretched over
 an invisible frame._
 
-**Hollow One**
-
 **Challenge rating:** 10
 
 **Type:** construct

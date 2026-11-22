@@ -28,8 +28,6 @@ abilities = ["6", "15", "10", "14", "11", "13"]
 
 _This large, plump caterpillar is brilliantly colored and has a strangely self-important bearing._
 
-**Katroome**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic neutral

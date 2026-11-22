@@ -31,8 +31,6 @@ abilities = ["36", "25", "38", "25", "21", "22"]
 _Writhing, hook-covered tentacles unfurl from this behemoth's body, at the center of which gapes a
 maw with a red eye in its throat._
 
-**Yamasoth**
-
 **Challenge rating:** 24
 
 **aura:** cloak of chaos (DC 24)

@@ -35,8 +35,6 @@ abilities = ["32", "11", "26", "13", "21", "18"]
 _This beast has three shark-like heads on short, scaly necks, while its lower body appears to be
 that of an octopus._
 
-**Lusca**
-
 **Challenge rating:** 17
 
 **Alignment:** Chaotic evil

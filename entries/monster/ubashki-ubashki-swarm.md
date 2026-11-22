@@ -27,8 +27,6 @@ melee = "swarm +7 (1d6 plus distraction and disease)"
 abilities = ["5", "17", "-", "2", "10", "15"]
 +++
 
-**Ubashki Swarm**
-
 **Challenge rating:** 2
 
 **Initiative:** +3

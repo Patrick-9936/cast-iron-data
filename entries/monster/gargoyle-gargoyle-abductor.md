@@ -33,8 +33,6 @@ abilities = ["20", "18", "18", "8", "9", "7"]
 _The stone statue of a menacing fiend crouches here, as though ready to spring to life and devour
 innocent passers-by. Then it moves - to do just that._
 
-**Gargoyle Abductor**
-
 **Challenge rating:** 10
 
 **Gargoyle [fighter](ref/class/fighter) 5**

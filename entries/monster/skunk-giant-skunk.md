@@ -31,8 +31,6 @@ abilities = ["17", "16", "13", "2", "12", "9"]
 _Snarling and ferocious, this horse-sized skunk emits a frightening growl as it smashes through the
 undergrowth._
 
-**Giant Skunk**
-
 **Challenge rating:** 3
 
 **Type:** animal

@@ -32,8 +32,6 @@ abilities = ["22", "1", "20", "-", "1", "1"]
 _This grotesque mass of blubber and rancid flesh piles up hideously upon itself, opening a vast maw
 filled with teeth._
 
-**Globster**
-
 **Challenge rating:** 5
 
 **aura:** [stench](ref/umr/stench) (DC 18, 10 rounds)

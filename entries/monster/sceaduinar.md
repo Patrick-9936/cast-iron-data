@@ -34,8 +34,6 @@ abilities = ["17", "20", "18", "13", "14", "17"]
 _This gargoyle-like creature has long spiky legs and a bat-like head - its body seems to be made of
 living, dark purple crystal._
 
-**Sceaduinar**
-
 **Challenge rating:** 7
 
 **Initiative:** +5

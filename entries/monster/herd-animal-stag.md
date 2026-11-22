@@ -27,8 +27,6 @@ abilities = ["13", "17", "16", "2", "15", "8"]
 
 _Majestic and graceful, this powerful animal has branching antlers atop it head._
 
-**Stag**
-
 **Challenge rating:** 1
 
 **Type:** animal
