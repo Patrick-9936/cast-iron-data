@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Serpent's Skull
 
 **Flavor:** While you aren't necessarily a native of Cheliax, you boarded the Jenivere at one of

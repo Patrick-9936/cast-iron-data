@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Legacy of Fire
 
 **Flavor:** You've been a slave your whole life, and have passed from master to master more times

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Varisia
 
 **Benefit:** When you had your deity's holy symbol tattooed on your body by a Sczarni tattooist

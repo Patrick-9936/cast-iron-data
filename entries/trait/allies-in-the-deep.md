@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You've learned to deal amicably with individuals of questionable morals when necessary.
 
 **Benefit:** You gain a +1 trait bonus on Charisma-based skill checks to influence evil creatures.

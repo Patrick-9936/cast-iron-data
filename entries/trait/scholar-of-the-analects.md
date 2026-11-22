@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You studied various Analects of Aroden from a young age and became skilled at using
 magic written by others.
 

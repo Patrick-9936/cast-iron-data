@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your easy-going demeanor allows you to sometimes recover from potentially awkward social
 situations or even condemnatory faux pas.
 

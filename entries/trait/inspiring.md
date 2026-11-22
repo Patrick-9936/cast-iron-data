@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** As a child, you learned the power of a simple expression of faith in another when you
 gave a hero the inspiration to fight on in the face of terrible odds and save you from danger.
 

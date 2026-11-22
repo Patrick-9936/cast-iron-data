@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You have spent so long hiding your true identity to escape political enemies that you
 have lost much of your sense of self.
 

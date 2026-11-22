@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Benefit:** You cast no shadow whatsoever, or the shadow you do have is monstrous. Under normal
 lighted conditions, this is not hard to observe - but uncommon to notice. Creatures that succeed at
 a DC 15 Wisdom check notice it plainly (an additional [Perception](ref/skill/perception) check may

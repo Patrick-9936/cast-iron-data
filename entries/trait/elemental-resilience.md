@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Elemental Lords
 
 **Benefit:** Choose one of the following energy types: acid, cold, electricity, or fire. You gain a

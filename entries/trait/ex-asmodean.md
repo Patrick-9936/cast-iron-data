@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Rebels
 
 **Flavor:** You, or perhaps your family, were once worshipers of [Asmodeus](ref/faith/asmodeus), but

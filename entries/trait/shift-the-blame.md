@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Spitespawn
 
 **Flavor:** You have learned many tricks to keep yourself from facing the consequences of your

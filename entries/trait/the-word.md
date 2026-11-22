@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Tyrant's Grasp
 
 **Flavor:** In a nation overcrowded with faith, you often worry that your message is drowned out,

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Prerequisite:** [Halfling](ref/race/halfling)
 
 **Religion:** [Thamir Gixx](ref/faith/thamir-gixx)

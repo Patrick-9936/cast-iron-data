@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Riddleport
 
 **Flavor:** You have grown up near the Cyphergate, passing under its arch countless times in your

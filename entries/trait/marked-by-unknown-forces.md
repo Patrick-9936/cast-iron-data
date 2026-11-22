@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** That which has marked you for power has also given you proof to show others.
 
 **Benefit:** You may cast [light](ref/spell/light) three times per day as a

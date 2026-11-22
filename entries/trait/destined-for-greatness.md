@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Absalom
 
 **Flavor:** Ever since you were a child growing up in one of Absalom's vast city quarters, you've

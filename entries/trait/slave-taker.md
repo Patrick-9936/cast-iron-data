@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Okeno
 
 **Flavor:** You specialize in disabling foes without wounding them, preserving their value as

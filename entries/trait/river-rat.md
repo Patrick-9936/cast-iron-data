@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** swamp or river
 
 **Flavor:** You learned to swim right after you learned to walk. When you were a youth, a gang of

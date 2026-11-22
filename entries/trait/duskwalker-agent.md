@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Katapesh
 
 **Benefit:** You spent a portion of your childhood working for the Duskwalkers, the guild

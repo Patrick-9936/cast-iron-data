@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 31 Lamashan and 20 Neth
 
 **Flavor:** With his head in the clouds, the Stargazer sees far-off events, but misses the pitfalls

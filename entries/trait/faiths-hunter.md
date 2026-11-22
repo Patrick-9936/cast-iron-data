@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Divine powers smile upon you each time you grievously wound a favored enemy.
 
 **Benefit:** When you confirm a critical hit against a [favored enemy](ref/ability/favored-enemy),

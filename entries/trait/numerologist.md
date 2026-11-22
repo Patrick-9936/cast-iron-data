@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Osirion
 
 **Flavor:** Having studied the sciences and other formal academics in your formative years, you

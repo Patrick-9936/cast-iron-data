@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Goblin](ref/race/goblin)
 
 **Flavor:** Your bones, flesh, and skin are a bit more elastic than those of most goblins - when you

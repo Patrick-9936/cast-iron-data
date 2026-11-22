@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You are blessed by fate.
 
 **Benefit:** Once per day when you use a spell or magic item with a randomized effect (such as

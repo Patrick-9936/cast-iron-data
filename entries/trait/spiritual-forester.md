@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Forest of Spirits
 
 **Flavor:** You grew up in a small settlement along the outskirts of the Forest of Spirits, and have

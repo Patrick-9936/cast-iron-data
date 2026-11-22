@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Penance:** Knights who follow this code and violate one of its tenets must separate themselves
 from society in order to atone for their misdoing. The minimum amount of time spent wholly isolated
 from civilization is 1 week, though this time might be increased to up to 1 month, depending on the

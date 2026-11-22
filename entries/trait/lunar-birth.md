@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Born during a lunar eclipse, you were forever marked by the moon's mysterious and
 ancient magic.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Vanara](ref/race/vanara)
 
 **Flavor:** You learned early that in order to get what you want, sometimes you have to act

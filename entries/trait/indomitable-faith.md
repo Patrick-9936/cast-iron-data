@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You were born in a region where your faith was not popular, but you still have never
 abandoned it. Your constant struggle to maintain your own faith has bolstered your drive.
 

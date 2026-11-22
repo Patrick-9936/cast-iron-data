@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your deity was born of the depths, and you're a child of such realms.
 
 **Benefit:** Whenever you cast a spell granted by the [earth](ref/domain/earth) domain (or

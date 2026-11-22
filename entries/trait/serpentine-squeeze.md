@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Ydersius](ref/faith/ydersius)
 
 **Benefit:** You gain a +1 trait bonus on combat maneuver checks to [grapple](ref/rule/grapple) a

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Whether you were on your way to becoming a drow slave or slated for the ghoul chattel
 pits, you very narrowly avoided a life of miserable captivity.
 

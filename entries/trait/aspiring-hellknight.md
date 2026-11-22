@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Cheliax
 
 **Flavor:** Your family has a long tradition of service in the

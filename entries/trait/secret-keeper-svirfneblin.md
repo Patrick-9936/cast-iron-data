@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Svirfneblin](ref/race/svirfneblin)
 
 **Flavor:** You trained from birth to never reveal secrets and never betray anyone's trust.

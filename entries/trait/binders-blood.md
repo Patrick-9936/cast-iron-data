@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your lineage features a large number of genie callers, granting you insight into the
 intricacies of genie binding.
 

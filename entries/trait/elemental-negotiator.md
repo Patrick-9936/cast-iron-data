@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have traveled to the Elemental Planes under the protection of a powerful group of
 merchants or spellcasters.
 

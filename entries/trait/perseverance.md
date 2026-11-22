@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Five Kings Mountains
 
 **Flavor:** Your time in the Five Kings Mountains has taught you that any obstacle can be endured

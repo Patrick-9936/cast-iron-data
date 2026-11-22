@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Qadira
 
 **Flavor:** Even when not cloaked in magic, your training has taught you how to conceal your true

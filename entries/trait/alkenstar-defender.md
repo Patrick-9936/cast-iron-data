@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mana Wastes
 
 **Flavor:** You have lived in Alkenstar and served in its militia. You know just where to aim to do

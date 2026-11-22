@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You have had access to thousands of spy reports, many of which turned out to be based on
 faulty deductions or even intentionally false stories spread by opposed spy groups. At this point,
 you have been exposed to false knowledge as much as accurate information, and you can't always

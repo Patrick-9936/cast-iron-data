@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Druma
 
 **Flavor:** As an adherent of the [Prophecies of Kalistrade](ref/rule/f-profits), you understand the

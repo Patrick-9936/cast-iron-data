@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Katapesh
 
 **Flavor:** You worked for a [pesh](ref/drug/pesh) dealer, either by selling the drug on the street

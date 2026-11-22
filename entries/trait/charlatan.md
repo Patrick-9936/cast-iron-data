@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** Your talent for illusion goes beyond a mere knack for figments and phantasms. You can

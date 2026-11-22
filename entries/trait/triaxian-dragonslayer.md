@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Triaxian](ref/race/triaxian)
 
 **Benefit:** You receive a +2 trait bonus on saving throws against the spells and

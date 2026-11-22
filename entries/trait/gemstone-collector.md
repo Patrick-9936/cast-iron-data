@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Yuelral](ref/faith/yuelral)
 
 **Flavor:** You have long found focus and inspiration in the natural beauty of rare gemstones.

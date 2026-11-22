@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Ninshaburian
 
 **Flavor:** You inherit your forebears' ability to fight off terror with bragging or insults.

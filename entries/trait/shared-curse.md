@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Werewolf-kin
 
 **Flavor:** A portion of your ancestor's fell curse still courses through your blood.

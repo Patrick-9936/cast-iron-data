@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Prerequisite:** Associated with the court of Castle Overwatch
 
 **Region:** Lastwall

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You've been raised with tales of the great linnorms, and taught that the death curses of
 these vile dragons cannot stop the truly mighty.
 

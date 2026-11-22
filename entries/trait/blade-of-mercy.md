@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Sarenrae](ref/faith/sarenrae)
 
 **Flavor:** You know that within the heart of even the most hateful and cruel living creature exists

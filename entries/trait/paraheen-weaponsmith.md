@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Qadira
 
 **Flavor:** You are a descendant of a long line of skilled dwarven weapon makers or have apprenticed

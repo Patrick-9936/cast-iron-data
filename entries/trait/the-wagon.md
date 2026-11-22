@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 21 Erastus and 10 Arodus
 
 **Flavor:** Like the vehicle that conveys travelers across the heavens, you are blessed with

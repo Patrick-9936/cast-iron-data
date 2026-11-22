@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** coastal or island
 
 **Flavor:** You are at home at sea.

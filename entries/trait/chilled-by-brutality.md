@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** tundra
 
 **Flavor:** You were part of a group that was mercilessly attacked by giants of the tundra, who may

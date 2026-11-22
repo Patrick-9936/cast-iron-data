@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You respect the freedom of others to speak as they will. Your rough-and-tumble youth
 taught you that everyone deserves a chance to say her piece. After all, you can always simply choose
 to ignore the speaker.

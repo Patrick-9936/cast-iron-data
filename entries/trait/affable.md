@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have a genial personality and make it a point to befriend and help people wherever
 you go. In your travels, you stop to aid others, tell interesting stories, and often buy rounds of
 drinks for patrons at the local taverns. You bring good cheer to those you encounter, and for this

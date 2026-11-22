@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); White-scaled
 
 **Flavor:** You grew up stalking across the frozen pools of water that dot your tribe's Darklands

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Like a climber ascending a mountain, you gradually grow acclimatized to an opposing
 planar alignment.
 

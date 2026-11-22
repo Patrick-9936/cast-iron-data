@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** Varisian wanderers or Wonderseekers
 
 **Flavor:** Your dreams are a special place of power that only you get to enjoy; driving away

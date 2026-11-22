@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Reign of Winter
 
 **Flavor:** You're a big person, and people have always said you've got some giant blood in you.

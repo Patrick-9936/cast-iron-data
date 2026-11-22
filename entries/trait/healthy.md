@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ruins of Azlant
 
 **Flavor:** You come from a long line of hale and long-lived people. Growing up, you rarely got sick

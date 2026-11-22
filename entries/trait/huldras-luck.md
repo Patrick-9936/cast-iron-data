@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lands of the Linnorm Kings
 
 **Flavor:** At some point in your life, you were touched by a fey creature called a

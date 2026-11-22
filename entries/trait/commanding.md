@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Keleshite
 
 **Flavor:** Your family taught you that you always deserve respect.

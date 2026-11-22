@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Plane of Earth
 
 **Flavor:** You have learned many adventuring skills - as well as hatred for efreet - during your

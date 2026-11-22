@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Wall of Heaven
 
 **Flavor:** Your time on the slopes of the Wall of Heaven has improved your ability to surmount

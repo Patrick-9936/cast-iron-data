@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Tyrant's Grasp
 
 **Flavor:** You don't have a place, but the frontier seems comfortable enough for now. Maybe you're

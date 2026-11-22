@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Gillman](ref/race/gillman)
 
 **Flavor:** You have prominent Azlanti features, which you can use to inspire confidence in your

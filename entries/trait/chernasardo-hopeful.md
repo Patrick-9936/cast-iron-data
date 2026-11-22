@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ironfang Invasion
 
 **Flavor:** You've pledged your skills and your life to the Chernasardo rangers, studying to protect

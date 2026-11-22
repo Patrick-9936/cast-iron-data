@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Abadar](ref/faith/abadar)
 
 **Flavor:** You have a strong belief in the righteousness of law and justice.

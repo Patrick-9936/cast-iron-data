@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You hold yourself to a strict code of behavior that guides all of your decisions and
 actions.
 

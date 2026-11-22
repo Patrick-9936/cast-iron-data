@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You have been hurt repeatedly by those you trusted, and it has become difficult for you
 to accept help.
 

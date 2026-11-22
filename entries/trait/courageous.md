@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your childhood was brutal, but you persevered through force of will and faith. No matter
 how hard things got, you knew you'd make it through as long as you kept a level head.
 

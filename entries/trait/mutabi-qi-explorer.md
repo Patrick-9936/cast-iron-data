@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Shanguang
 
 **Flavor:** You belong to one of the nomadic Mutabi-qi tribes that wander the wastes of Shaguang,

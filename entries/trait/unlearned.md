@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You have always had difficulty learning and retaining information, and know very little
 about the world beyond the obvious and what pertains to your profession.
 

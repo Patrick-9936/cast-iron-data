@@ -12,8 +12,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kyonin
 
 **Flavor:** Having fought in many battles against the demon [Treerazer](ref/monster/treerazer), you

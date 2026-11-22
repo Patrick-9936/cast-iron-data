@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have acquired an unusual breadth of life experience - more than others of your age,
 race, or culture.
 

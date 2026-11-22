@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You were raised with the belief that your family was special, and that those of your
 status always succeed at whatever they do. Due to your concern about upholding the family name and
 your memories of the consequences for disappointing them (such as violence or unsettling

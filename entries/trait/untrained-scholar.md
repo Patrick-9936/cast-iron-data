@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** While scholarship is not your primary focus, you have spent enough time in classrooms
 and libraries to learn a few things.
 

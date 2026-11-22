@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Plane of Fire
 
 **Flavor:** You are well acquainted with the many ways words can be twisted.

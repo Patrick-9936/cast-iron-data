@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Iobaria
 
 **Flavor:** Your nomadic tribe wanders the Ice Steppes of Iobaria. They live in constant fear of the

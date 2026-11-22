@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You discovered or were given a secret to make your mutagens more unstable - but also
 more potent.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Prerequisite:** Able to cast 0-level and 1st-level spells as a class feature
 
 **Benefit:** You draw magical power from a source, such as a mysterious eidolon, shame-filled

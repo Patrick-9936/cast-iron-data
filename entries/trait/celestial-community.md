@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar)
 
 **Flavor:** Having been raised among other aasimars, you have a stronger connection to your planar

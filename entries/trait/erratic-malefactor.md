@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Vengeance
 
 **Flavor:** Some people follow codes and traditions; others look out for only themselves. You don't

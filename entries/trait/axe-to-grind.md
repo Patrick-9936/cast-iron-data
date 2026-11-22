@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** There is a fire in your heart that can't be quenched.
 
 **Benefit:** You gain a +1 trait bonus on damage against foes who are threatened by only you.

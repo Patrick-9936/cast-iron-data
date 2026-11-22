@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kasatha](ref/race/kasatha)
 
 **Flavor:** More hands means more handholds.

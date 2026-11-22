@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Reign of Winter
 
 **Flavor:** The wonders of magic have always fascinated you, and you find the urge to tinker and

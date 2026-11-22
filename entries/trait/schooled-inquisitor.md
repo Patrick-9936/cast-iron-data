@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your additional training aids in identifying the wiles of your faith's enemies.
 
 **Benefit:** You gain a +2 trait bonus on all [Knowledge (planes)](ref/skill/knowledge-planes) and

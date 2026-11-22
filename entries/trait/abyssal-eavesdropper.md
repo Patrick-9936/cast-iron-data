@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Sarkoris or The Worldwound
 
 **Flavor:** Having grown up near the Worldwound, you have a rough understanding of the demons'

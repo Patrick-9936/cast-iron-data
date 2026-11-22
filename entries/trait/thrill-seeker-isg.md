@@ -12,8 +12,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Desna](ref/faith/desna)
 
 **Flavor:** Desna has blessed you not just with a love of taking chances, but also the fortune to

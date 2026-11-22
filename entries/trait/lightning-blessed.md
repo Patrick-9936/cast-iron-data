@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Blue-scaled
 
 **Flavor:** You're favored by the lightning shaman of your tribe, and he gifted you several sacred

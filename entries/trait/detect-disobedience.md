@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have an uncanny ability to spot a mutiny brewing.
 
 **Benefit:** You gain a +2 trait bonus on [Sense Motive](ref/skill/sense-motive) checks to detect

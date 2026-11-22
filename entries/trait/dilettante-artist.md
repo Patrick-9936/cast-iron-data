@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Elf](ref/race/elf)
 
 **Flavor:** Art for you is a social gateway and you use it to influence and penetrate high society.

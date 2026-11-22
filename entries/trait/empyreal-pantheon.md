@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your faith in the empyreal lords accommodates numerous gods, and you are gifted at
 adapting their wide variety of focuses and lessons to your own life.
 

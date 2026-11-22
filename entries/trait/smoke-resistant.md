@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Red-scaled
 
 **Flavor:** You've spent so much of your life around fires that smoke no longer affects you the way

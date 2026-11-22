@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nidal
 
 **Flavor:** You have served the Umbral Court, discreetly following interlopers through the twilit

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Riddleport
 
 **Flavor:** Winning at the tables in Riddleport's gambling houses can be as devastating as losing.

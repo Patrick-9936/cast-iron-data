@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You have spent many years studying the tenets of your faith, and now believe that the
 dominant factions within the church have deviated from its true meaning and purpose. Rather than
 breaking with your misguided church, you've decided to stand up and fight to reform the organization

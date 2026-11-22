@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir); Ru-shi
 
 **Flavor:** Since birth you have had an intimate connection with a certain number.

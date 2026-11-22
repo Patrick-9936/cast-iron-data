@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Taldan
 
 **Flavor:** Your neighbors gained your respect with their generosity, and you emulate their example.

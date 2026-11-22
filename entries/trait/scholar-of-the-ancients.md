@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Rise of the Runelords
 
 **Flavor:** Growing up with your nose in books, you've had a great interest in past cultures and

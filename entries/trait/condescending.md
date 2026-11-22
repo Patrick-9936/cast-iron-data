@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Raised with the assurance that only those like you are truly worthy of respect, you have
 an offputting way of demonstrating that you look down on those not of your race and ethnicity or
 nationality.

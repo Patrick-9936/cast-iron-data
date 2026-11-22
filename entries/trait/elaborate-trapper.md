@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Blue-scaled
 
 **Flavor:** You're blessed with a devious mind, and the more elaborate your traps are, the more

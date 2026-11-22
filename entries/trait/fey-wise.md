@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Sevenarches
 
 **Flavor:** You grew up around fey and are accustomed to their tricks.

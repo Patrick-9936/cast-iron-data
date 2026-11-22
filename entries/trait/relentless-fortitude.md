@@ -13,8 +13,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a Qadiran dromedary as a mount
 
 **Benefit:** [Qadiran dromedaries](ref/eq-misc/camel) heal nonlethal damage at a rate of 2 hit

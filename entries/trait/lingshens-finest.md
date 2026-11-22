@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lingshen
 
 **Flavor:** You are an elite soldier in one of Lingshen's numerous armies, and your discipline has

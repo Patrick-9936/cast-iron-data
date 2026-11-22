@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lambreth
 
 **Flavor:** Domestic animals from Lambreth are known for their resiliency.

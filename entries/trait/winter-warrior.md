@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Irrisen
 
 **Flavor:** You grew up in the icy lands of Irrisen, and surviving in the cold snows of winter is

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** War for the Crown
 
 **Flavor:** Your noble family used to matter, until your father took a stand against Maxillar

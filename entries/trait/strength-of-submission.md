@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your faith in the church of Razmir and willingness to surrender yourself to him lend you
 strength and clarity.
 

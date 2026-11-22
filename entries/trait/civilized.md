@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You are well versed in the local laws, customs, and politics.
 
 **Benefit:** You gain a +1 trait bonus on [Knowledge (nobility)](ref/skill/knowledge-nobility)

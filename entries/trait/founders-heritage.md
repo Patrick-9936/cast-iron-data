@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You can trace your family line back to one of the founding families of Absalom that was
 called by Aroden to aid him in establishing the city because of their vision and potential.
 

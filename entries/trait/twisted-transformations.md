@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Great Old Ones
 
 **Flavor:** Whenever you are affected by a transmutation spell of the polymorph subschool, your new

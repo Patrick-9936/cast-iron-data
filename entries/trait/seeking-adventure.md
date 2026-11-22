@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Legacy of Fire
 
 **Flavor:** The [Pathfinder Society](ref/rule/aff-scholars) has long intrigued you - tales of the

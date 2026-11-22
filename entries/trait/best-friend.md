@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Jade Regent
 
 **Flavor:** You are best friends with one of the NPCs; you've grown up together, and while your

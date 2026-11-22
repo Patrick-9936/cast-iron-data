@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** underground
 
 **Flavor:** Not only are you competent while deep underground, you thrive in these perilous

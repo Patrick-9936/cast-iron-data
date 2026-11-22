@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kalabuto
 
 **Flavor:** You live and work in Kalabuto.

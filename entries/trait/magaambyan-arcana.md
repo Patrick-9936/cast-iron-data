@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Mwangi
 
 **Benefit:** Your study of Magaambyan magic traditions allows you to add one spell with the good

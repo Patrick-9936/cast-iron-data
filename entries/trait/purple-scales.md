@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold)
 
 **Flavor:** Your outlandish purple scales made you an outcast from your tribe and forced you to

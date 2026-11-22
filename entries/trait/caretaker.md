@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** As the child of an herbalist or an assistant in a temple infirmary, you often had to
 assist in tending to the sick and wounded.
 

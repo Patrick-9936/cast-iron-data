@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Taldor or any town or village
 
 **Flavor:** Your first job was serving in a civilian militia in your hometown. The skills you

@@ -13,7 +13,5 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Benefit:** Anytime an opponent confirms a critical hit against you, you gain a +2 morale bonus on
 attack rolls and damage rolls against that foe until the end of your next turn.

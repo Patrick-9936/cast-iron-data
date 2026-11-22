@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Varisia
 
 **Flavor:** You were raised among or have spent time with a group of Varisian nomads, whether

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Zon-Kuthon](ref/faith/zon-kuthon)
 
 **Flavor:** You're skilled at both dealing and repairing wounds.

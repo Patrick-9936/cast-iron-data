@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You know how to work with your hands and aren't dependent on complex tools.
 
 **Benefit:** When attempting [Craft](ref/skill/craft-any) checks, you take no penalty when using

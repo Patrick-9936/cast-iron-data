@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your martial prowess can feed your arcane power.
 
 **Benefit:** Once per day, when you confirm a critical hit with a weapon attack, you regain 1

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You were reported to a dangerous authority such as the Gray Gardeners of Galt, the high
 inquisitors of Cheliax, or the Council of Mwanyisa of Mzali, and narrowly escaped death. You
 second-guess your instincts constantly, leaving you never sure whether or not to trust someone and

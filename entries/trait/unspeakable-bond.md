@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Great Old Ones or Outer Gods
 
 **Benefit:** You are an ally of the unclean creatures of the world, and gain a +2 trait bonus on

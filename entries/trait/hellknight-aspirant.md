@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Vengeance
 
 **Flavor:** You have always admired the authority, discipline, and righteousness of the ebon-armored

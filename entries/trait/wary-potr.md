@@ -12,8 +12,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Daggermark
 
 **Flavor:** You survived an assassination attempt once.

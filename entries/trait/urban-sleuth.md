@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Rebels
 
 **Flavor:** Much of Kintargo's history is lost or hidden. You know because you've made a point of

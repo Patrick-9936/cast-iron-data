@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Musetouched
 
 **Flavor:** Your ancestor was a [lillend](ref/monster/azata-lillend), a being of exceptional grace

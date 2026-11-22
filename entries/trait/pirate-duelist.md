@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mediogalti
 
 **Flavor:** You've rubbed elbows with pirates of all stripes in Ilizmagorti's taverns and convinced

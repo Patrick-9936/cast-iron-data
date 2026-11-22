@@ -12,8 +12,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a [ram](ref/monster/herd-animal-ram) as a mount
 
 **Benefit:** Mindspin mountain [goats](ref/eq-misc/goat) gain a +2 trait bonus on

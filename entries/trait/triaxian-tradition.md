@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Triaxus
 
 **Flavor:** Your experience with one of the long Triaxian seasons has taught you much about the

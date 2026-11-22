@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your family has long operated outside the law.
 
 **Benefit:** You gain a +2 trait bonus on [Diplomacy](ref/skill/diplomacy) checks to influence

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Triaxian](ref/race/triaxian)
 
 **Flavor:** You know how dragons move and how they perceive body language.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 21 Neth and 29 Neth
 
 **Flavor:** Like the lone traveler that walks alongside the caravan for but a brief while, you have

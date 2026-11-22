@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You inherited an ancient set of Tar Taargadth armor.
 
 **Benefit:** You begin play with a set of [masterwork armor](ref/rule/masterwork-armor) of your

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Prerequisite:** Member of The [Pathfinder Society](ref/rule/aff-scholars)
 
 **Benefit:** The skills of Golarion's greatest musicians are at your fingertips, thanks to the vast

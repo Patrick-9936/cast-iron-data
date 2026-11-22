@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** hills or mountains
 
 **Benefit:** You gain a +1 trait bonus on [Acrobatics](ref/skill/acrobatics) and

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Erastil](ref/faith/erastil)
 
 **Benefit:** When you are using a longbow, if only a single creature is providing soft cover to your

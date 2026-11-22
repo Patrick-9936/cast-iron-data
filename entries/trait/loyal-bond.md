@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Grundinnar](ref/faith/grundinnar)
 
 **Flavor:** You are at your best when you serve others.

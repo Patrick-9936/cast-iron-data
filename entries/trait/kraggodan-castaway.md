@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Campaign:** Ironfang Invasion

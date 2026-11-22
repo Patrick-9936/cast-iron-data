@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Tales of the Knights of Ozem have inspired you since childhood to lash out reflexively
 against the undead.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** During your childhood, you suffered occasional or frequent abuse from those too powerful
 for you to resist. Now you thrill at the chance to get back at those who wronged you.
 

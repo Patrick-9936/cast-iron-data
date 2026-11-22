@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your sharp intellect and rapier-like wit bruise egos.
 
 **Benefit:** [Intimidate](ref/skill/intimidate) is always a class skill for you, and you may use

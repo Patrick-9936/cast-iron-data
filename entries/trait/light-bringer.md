@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Sarenrae](ref/faith/sarenrae)
 
 **Flavor:** You were born with a blessing of the Dawnflower.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Shackles
 
 **Flavor:** You are used to sailing in the terrible winds that roll out from the Eye of Abendego,

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Calistria](ref/faith/calistria)
 
 **Flavor:** You have learned to recognize openings that your foes leave, and you know how to take

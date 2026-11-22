@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Sivanah](ref/faith/sivanah)
 
 **Flavor:** You have learned a holy secret that makes your illusions more powerful.

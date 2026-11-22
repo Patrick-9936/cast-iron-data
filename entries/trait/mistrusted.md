@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-orc](ref/race/half-orc)
 
 **Benefit:** Choose humans or orcs. You learned during your earliest interactions with that race

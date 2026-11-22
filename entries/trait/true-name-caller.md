@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Abyss
 
 **Benefit:** You are skilled at discovering the true names of outsiders. Choose a plane other than

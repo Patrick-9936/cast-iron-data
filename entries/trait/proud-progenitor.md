@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Vampire; Moroi
 
 **Flavor:** Your loneliness drove you to build your coven, and you zealously attack any who would

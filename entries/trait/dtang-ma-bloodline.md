@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Dtang Ma
 
 **Flavor:** As you were born in Dtang Ma and possess one of the favored bloodlines, your sorcerous

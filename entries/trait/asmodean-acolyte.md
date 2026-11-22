@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Vengeance
 
 **Flavor:** You grew up in the church of [Asmodeus](ref/faith/asmodeus), and have served as a

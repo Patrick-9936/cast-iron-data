@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Hanspur](ref/faith/hanspur)
 
 **Flavor:** The freedom of water inspires you.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You've told too many lies, and made up too many cover stories, and now even you can't
 keep it all straight. The lies have become reality to you, which makes it difficult to think of a
 new convincing lie. You hesitate at crucial moments when trying to fool those around you, and likely

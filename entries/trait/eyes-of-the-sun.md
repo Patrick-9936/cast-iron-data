@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Garundi
 
 **Flavor:** You are inured to the bright glare of the hot desert sun, and its dazzling rays pose

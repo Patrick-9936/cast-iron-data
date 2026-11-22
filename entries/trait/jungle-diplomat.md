@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Valashmai Jungle
 
 **Flavor:** You know the ways and mores of the tribes of the Valashmai Jungle, and how to handle

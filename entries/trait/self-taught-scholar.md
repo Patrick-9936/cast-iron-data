@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Being self-taught has made it necessary for you to scour all documentation you can get
 your hands on.
 

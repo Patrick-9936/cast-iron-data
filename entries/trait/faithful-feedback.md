@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** Must have a religion
 
 **Flavor:** A shared religious fervor makes your healing magic more effective.

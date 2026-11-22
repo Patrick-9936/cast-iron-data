@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Zon-Kuthon](ref/faith/zon-kuthon)
 
 **Benefit:** You gain a +4 trait bonus on [concentration](ref/rule/concentration) checks when

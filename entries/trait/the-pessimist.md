@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Tyrant's Grasp
 
 **Flavor:** You expect the worst and have rarely been disappointed. Your dour outlook may hail from

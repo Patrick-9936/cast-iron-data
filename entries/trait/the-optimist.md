@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Tyrant's Grasp
 
 **Flavor:** People don't need to take your word that things are getting better; they only need to

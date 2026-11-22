@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** One of your distant ancestors was either a powerful aeromancer or a creature of
 elemental air, granting you greater skill with air magic.
 

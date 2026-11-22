@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Rahadoum
 
 **Flavor:** Growing up in Rahadoum, you did not have access to clerics and other divine magic for

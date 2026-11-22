@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You studied at Anuli's center for druidic magic long enough to begin bonding with a
 familiar.
 

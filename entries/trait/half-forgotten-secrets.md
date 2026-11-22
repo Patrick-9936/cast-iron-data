@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir); Ajibachana
 
 **Flavor:** A whisper of knowledge was transferred to you at the time of your creation.

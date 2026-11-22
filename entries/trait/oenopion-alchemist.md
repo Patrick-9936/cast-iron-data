@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nex
 
 **Flavor:** You studied with the alchemists of Oenopion, perfecting your craft in the homunculus

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Zyphus](ref/faith/zyphus)
 
 **Flavor:** Your understanding of pointless and unexpected death grants you a special awareness.

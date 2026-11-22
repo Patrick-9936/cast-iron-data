@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Often forced to go without food or stimulation for days at a time, you have learned to
 use prolonged sleep as a means of escape and a way to heal your wounds.
 

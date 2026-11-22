@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Wrath of the Righteous
 
 **Flavor:** As long as you can remember, you've had an unexplainable interest in one deity in

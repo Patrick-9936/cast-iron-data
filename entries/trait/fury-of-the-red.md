@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Somewhere in your family line, the mystic power of red dragons was infused into one of
 your relatives.
 

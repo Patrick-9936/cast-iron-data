@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Desna](ref/faith/desna)
 
 **Flavor:** Desna sensed your love of travel and promised you would always be able to find your way

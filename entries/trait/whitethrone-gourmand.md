@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Irrisen
 
 **Flavor:** You grew up privileged in the city of Whitethrone, and indulged in many exotic and

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ruins of Azlant
 
 **Flavor:** You've always been interested in a wide array of things, and growing up You've spent

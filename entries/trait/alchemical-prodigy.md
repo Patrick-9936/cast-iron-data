@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Thuvia
 
 **Flavor:** Early on in your life, you showed significant promise in the sciences and alchemical

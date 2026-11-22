@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Geb
 
 **Flavor:** Your close association with the intelligent undead of Geb has imparted some of their

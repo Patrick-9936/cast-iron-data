@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You're familiar with Nar-Voth's trade routes and negotiation involving the denizens of
 the Darklands.
 

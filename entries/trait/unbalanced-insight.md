@@ -13,7 +13,5 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Benefit:** You gain Aklo as a bonus language, and gain a +2 trait bonus on all saving throws to
 resist any effects or spells originating from aberrations that cause confusion or fear.

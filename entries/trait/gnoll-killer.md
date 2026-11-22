@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Legacy of Fire
 
 **Flavor:** You grew up in rural Katapesh, in a region where gnoll activity was a fact of life. You

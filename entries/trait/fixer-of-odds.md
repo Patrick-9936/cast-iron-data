@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Second Darkness
 
 **Flavor:** You're going to win the Golden Goblin's upcoming "Cheat the Devil and Take His Gold"

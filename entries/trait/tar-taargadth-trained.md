@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You know the ancient fighting techniques of the Tar Taargadth Empire.
 
 **Benefit:** You gain a +1 trait bonus on damage rolls when using any weapon with the word "dwarven"

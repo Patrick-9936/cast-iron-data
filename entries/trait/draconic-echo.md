@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Blue-scaled
 
 **Flavor:** Like the blue dragons your tribe reveres, you have a touch of illusory magic.

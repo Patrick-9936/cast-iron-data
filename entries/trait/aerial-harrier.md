@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Strix](ref/race/strix)
 
 **Flavor:** You are used to fighting enemies who cannot fly.

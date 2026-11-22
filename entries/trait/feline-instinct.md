@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Weretiger-kin
 
 **Flavor:** When your weretiger heritage first manifested, you spent a period of time living off

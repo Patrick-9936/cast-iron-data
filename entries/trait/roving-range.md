@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You learned from pirates to make the most of ranged attacks as you close with targets.
 
 **Benefit:** Increase the range increment of ranged weapons (but not thrown weapons) you wield by 5

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have been trained to hunt and fight on the open plains since birth.
 
 **Benefit:** You gain a +1 trait bonus on attacks of opportunity attack rolls made with a

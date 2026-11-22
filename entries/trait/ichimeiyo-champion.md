@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You draw strength from adhering to the Ichimeiyo honor code in combat.
 
 **Benefit:** Once per day, if an effect would compel you to harm an ally, abandon an ally, or break

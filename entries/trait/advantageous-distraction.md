@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Goblin](ref/race/goblin)
 
 **Flavor:** Like most goblins, you're easily distracted. Unlike most goblins, though, you have a

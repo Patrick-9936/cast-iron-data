@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-orc](ref/race/half-orc)
 
 **Flavor:** Most people expect half-orcs to be savage and violent, and you're used to working a

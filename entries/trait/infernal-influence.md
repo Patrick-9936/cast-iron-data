@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Chelaxian
 
 **Flavor:** Your family boasts secret diabolical ties that may go back much further than the Thrune

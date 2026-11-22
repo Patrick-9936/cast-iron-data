@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You spent your early life robbing and stealing to get by.
 
 **Benefit:** Select one of the following skills: [Disable Device](ref/skill/disable-device),

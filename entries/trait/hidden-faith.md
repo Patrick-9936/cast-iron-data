@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You were raised in a religion forbidden by your government, and draw strength from your
 hidden faith.
 

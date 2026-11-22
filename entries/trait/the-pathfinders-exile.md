@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Council of Thieves
 
 **Flavor:** Westcrown's dilapidated Pathfinder lodge of Delvehaven has long excited your

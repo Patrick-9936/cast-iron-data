@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your curiosity and ingenuity have driven you to experiment and push new boundaries, and
 you have a knack for tampering with magic.
 

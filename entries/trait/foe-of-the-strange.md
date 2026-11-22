@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Strange Aeons
 
 **Flavor:** You awake feeling emboldened after a terrifying nightmare. Instead of being frightened

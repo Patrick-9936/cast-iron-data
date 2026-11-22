@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-elf](ref/race/half-elf)
 
 **Flavor:** Your elven relatives were cold to you and you took to rebelling simply to get attention.

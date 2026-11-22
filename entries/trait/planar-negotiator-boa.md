@@ -12,8 +12,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar)
 
 **Flavor:** You are skilled at convincing outsiders that you require their aid.

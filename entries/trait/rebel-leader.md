@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Shokuro
 
 **Flavor:** A close relative was an important player in the rebellions that led to the independence

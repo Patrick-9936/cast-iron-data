@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darklands
 
 **Flavor:** Ever since you recovered from [ghoul fever](ref/disease/ghoul-fever), the scars on your

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** When you were young, you saw a dead creature's body fertilize a field. Witnessing the
 connection between life and death moved you to recognize your own connection with the world, and
 ever since you have revered nature and feared death less.

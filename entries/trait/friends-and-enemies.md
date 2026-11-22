@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Rise of the Runelords
 
 **Flavor:** One of your family members, perhaps a parent, cousin, aunt, or uncle, helped Daviren

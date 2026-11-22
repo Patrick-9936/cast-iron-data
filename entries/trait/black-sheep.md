@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Flavor:** You were born and raised in town. You know many of the region's secrets and the locals
 already know who you are. You aren't quite hated in town, but folk seem to think you're a
 troublemaker and a bastard and not to be trusted. The town's tougher folk respect you, but the

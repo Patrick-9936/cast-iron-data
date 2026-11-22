@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Neither honeyed tongues or righteous wrath move you much.
 
 **Benefit:** Add 2 when determining your Hit Dice for [Intimidate](ref/skill/intimidate) checks, and

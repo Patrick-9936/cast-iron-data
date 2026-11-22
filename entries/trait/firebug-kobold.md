@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Red-scaled
 
 **Flavor:** Like the red dragons that inspire your tribe, you're blessed with a small spark of

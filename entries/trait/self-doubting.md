@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Your ever-present fear of failure causes a downward spiral.
 
 **Benefit:** The first time each day that you fail a Will saving throw or skill check, you take a -2

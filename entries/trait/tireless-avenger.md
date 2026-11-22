@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You restlessly pursue your enemies.
 
 **Benefit:** When you're in pursuit of one of your [favored enemies](ref/ability/favored-enemy), the

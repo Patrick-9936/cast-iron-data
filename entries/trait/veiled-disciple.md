@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Trained in espionage, you're skilled at passing messages and staying on task.
 
 **Benefit:** You gain a +1 trait bonus on [Bluff](ref/skill/bluff) checks made to pass secret

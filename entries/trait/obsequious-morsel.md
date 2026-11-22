@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Geb
 
 **Flavor:** Survival in Geb requires convincing your betters that you would be of more service to

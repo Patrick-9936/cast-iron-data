@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Ratfolk](ref/race/ratfolk)
 
 **Flavor:** You are fond of eldritch baubles and are skilled at activating their wondrous powers.

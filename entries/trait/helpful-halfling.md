@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Halfling](ref/race/halfling)
 
 **Flavor:** You see nothing wrong with letting others achieve greatness so long as the job gets

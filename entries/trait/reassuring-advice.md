@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You've studied the speeches and writings of a leader or thinker who served as a
 reassuring voice in her community in the turbulent times after Aroden died, painfully learning which
 portions of Aroden's advice no longer applied and what of his writings could still be usefully

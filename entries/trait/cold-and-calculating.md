@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are adept at tricking [favored enemies](ref/ability/favored-enemy) of your race or
 those related to your race.
 

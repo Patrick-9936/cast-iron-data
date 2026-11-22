@@ -12,8 +12,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar)
 
 **Flavor:** You grew up around people who were jealous of and hostile toward you. Perhaps your

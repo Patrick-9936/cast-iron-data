@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Steaming Sea
 
 **Benefit:** You are a product of Hermea's breeding programs - either your parents were chosen to be

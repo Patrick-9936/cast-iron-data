@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are particularly successful when using deeds.
 
 **Benefit:** Once per day, when you perform a deed that requires an attack roll and you miss with

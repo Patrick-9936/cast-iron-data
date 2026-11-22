@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Bolka](ref/faith/bolka)
 
 **Benefit:** Your commitment to your own marriage or your burning desire to be wed grants you a +2

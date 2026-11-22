@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Carpenden
 
 **Flavor:** Your childhood playing atop Carpenden's buildings has given you a remarkable head for

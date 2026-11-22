@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Iomedae](ref/faith/iomedae)
 
 **Flavor:** You carry a burning hatred in your heart for all things demonic, and have studied their

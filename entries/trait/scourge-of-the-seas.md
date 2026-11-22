@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Shackles
 
 **Flavor:** You have long appreciated the flamboyance and versatility of the whip, both as a weapon

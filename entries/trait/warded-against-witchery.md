@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Reign of Winter
 
 **Flavor:** Sometime in your youth, you encountered a location, object, or being steeped in the

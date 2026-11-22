@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Silver Mount
 
 **Flavor:** You are in some way tied to the mysterious alien monument known as Silver Mount in

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Grippli](ref/race/grippli)
 
 **Region:** Mwangi Expanse

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Kingmaker
 
 **Flavor:** You were raised in the south of Brevoy, a land of dense forests and rolling plains, of

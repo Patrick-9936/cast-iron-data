@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Any
 
 **Flavor:** The blood of fiends taints your line, manifesting physically, though it may be barely

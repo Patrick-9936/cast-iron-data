@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Magnimar
 
 **Flavor:** Your faith in the empyreal lords - a host of good demigods - and your fascination with

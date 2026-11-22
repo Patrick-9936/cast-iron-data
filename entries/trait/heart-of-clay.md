@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lingshen
 
 **Flavor:** You believe you are destined for an afterlife of service as part of King Huang's

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Prerequisite:** [Human](ref/race/human)
 
 **Campaign:** Kingmaker

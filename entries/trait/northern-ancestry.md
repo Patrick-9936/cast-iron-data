@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Reign of Winter
 
 **Flavor:** One of your parents came from the North, and the tales of the frozen lands at the top of

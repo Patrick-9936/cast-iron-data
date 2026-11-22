@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Region:** Absalom
 
 **Flavor:** Your attempts to bribe others usually come off as playful or as a gag.

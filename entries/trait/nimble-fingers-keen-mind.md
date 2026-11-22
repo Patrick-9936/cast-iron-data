@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Brigh](ref/faith/brigh)
 
 **Benefit:** Your study of clockwork mechanisms and other mechanical wonders grants you a +1 trait

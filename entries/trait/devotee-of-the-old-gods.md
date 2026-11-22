@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Mummy's Mask
 
 **Flavor:** Osirion has a history stretching back over 8,000 years, and the deities worshiped today

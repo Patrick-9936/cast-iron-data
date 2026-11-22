@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Chelaxian or Sargavan
 
 **Flavor:** You are a firm believer in the superiority of your Chelish heritage, and you cling to

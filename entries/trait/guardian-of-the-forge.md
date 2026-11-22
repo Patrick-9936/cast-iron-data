@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Torag](ref/faith/torag)
 
 **Flavor:** Torag's sacred duties are to protect the faithful, take lessons from the great craftsmen

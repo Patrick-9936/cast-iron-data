@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Razmiran
 
 **Flavor:** You are trained in the methods of Razmir's priesthood, and can use your arcana to fuel

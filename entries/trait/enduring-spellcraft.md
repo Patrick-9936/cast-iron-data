@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Azlanti
 
 **Flavor:** You have studied the enduring spells of ancient Azlant.

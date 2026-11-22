@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Ustalav
 
 **Flavor:** You have survived and thrived in the dark forests of Ustalav by knowing how to make

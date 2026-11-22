@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Region:** Sargava
 
 **Benefit:** You are sure-footed in jungle environments, and your speed may not be reduced to less

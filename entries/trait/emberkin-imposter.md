@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Qadira
 
 **Flavor:** You have found it is easier to be mistaken for someone with celestial blood than to

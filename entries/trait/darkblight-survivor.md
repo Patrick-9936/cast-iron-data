@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nirmathas
 
 **Flavor:** Your woodland home in Nirmathas struggles against the tenacious Darkblight, forcing you

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Skull and Shackles
 
 **Flavor:** You were born aboard a ship at sea or down by the docks in a port city on an auspicious

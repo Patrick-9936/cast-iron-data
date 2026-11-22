@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Cliffs of Fury
 
 **Flavor:** You spent your early years exploring and foraging along the coastal cliffs.

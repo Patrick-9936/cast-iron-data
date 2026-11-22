@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Council of Thieves
 
 **Flavor:** Your family has long been in show business. Perhaps it was your parents, or an older

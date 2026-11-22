@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** People find it easy to put their faith in you.
 
 **Benefit:** You gain a +1 trait bonus on [Bluff](ref/skill/bluff) checks made to fool someone. You

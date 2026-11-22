@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** War for the Crown
 
 **Flavor:** Your physique and skill brought you into the public eye, and a winning smile helps you

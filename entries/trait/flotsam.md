@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Shackles
 
 **Flavor:** You were one of only a few that survived the destruction of the merchant vessel Vantage.

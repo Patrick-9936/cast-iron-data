@@ -13,7 +13,5 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Benefit:** You gain a +2 trait bonus on [Stealth](ref/skill/stealth) checks and Initiative checks
 in forests.

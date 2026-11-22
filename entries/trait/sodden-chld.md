@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Sodden Lands
 
 **Flavor:** You spent most of your life moving through murky bogs and have grown acclimated to the

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** See text
 
 **Flavor:** As a follower of Razmir, the [Prophecies of Kalistrade](ref/rule/f-profits), or some

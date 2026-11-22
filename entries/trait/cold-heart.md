@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Cheliax
 
 **Benefit:** You gain a +2 trait bonus on saving throws against spells and effects with the emotion

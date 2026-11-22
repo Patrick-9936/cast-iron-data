@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You are sensitive about the way others perceive you.
 
 **Benefit:** Whenever you fail an opposed Charisma-based check, you take a -2 penalty on all

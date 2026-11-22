@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You're never defenseless, even when you are caught off guard.
 
 **Benefit:** Whenever you wield an improvised weapon, you gain a +1 shield bonus to AC. If you use

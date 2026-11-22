@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Minata
 
 **Flavor:** You grew up on one of the wayang-populated islands of Minata, and your use of magic

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Asmodeus](ref/faith/asmodeus)
 
 **Flavor:** You expect to be obeyed, and are rarely proven wrong.

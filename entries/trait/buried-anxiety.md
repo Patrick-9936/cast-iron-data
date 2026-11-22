@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Spitespawn
 
 **Benefit:** You laugh at what makes others tremble, but are secretly disturbed by a particular sort

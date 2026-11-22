@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human)
 
 **Flavor:** You survived an encounter with disease in a slum or contagion-prone area.

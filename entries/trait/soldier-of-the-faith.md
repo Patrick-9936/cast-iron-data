@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Razmiran
 
 **Flavor:** You have served Razmir as a faithful enforcer, or upon one of the "faith barges" plying

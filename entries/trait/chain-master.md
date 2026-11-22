@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Shackleborn
 
 **Flavor:** Your fiendish ancestry has granted you unnatural skill with the chain, and your enemies

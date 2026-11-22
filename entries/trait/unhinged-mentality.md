@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Lamashtu](ref/faith/lamashtu)
 
 **Benefit:** Your goddess-granted madness gives you a +2 trait bonus on saving throws against

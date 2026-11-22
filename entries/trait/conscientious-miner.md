@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Jinin
 
 **Flavor:** You were one of the mithral miners of Jinin, and learned how to extract the delicate ore

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Lamashtu](ref/faith/lamashtu)
 
 **Flavor:** The blood of the beast runs thick in your veins, and your appearance is bestial.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Gozreh](ref/faith/gozreh)
 
 **Flavor:** Your faith in the Wind and the Waves helps you navigate through all manner of mist or

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your study of monsters keeps you well informed.
 
 **Benefit:** Choose either [Knowledge (arcana)](ref/skill/knowledge-arcana),

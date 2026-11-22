@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Ulfen
 
 **Flavor:** You grew up with an affinity for predatory animals, and whispers amid your clan suggest

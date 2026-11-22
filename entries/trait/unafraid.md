@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Ustalav
 
 **Flavor:** The horrors of the fog-shrouded land of terror have hardened you.

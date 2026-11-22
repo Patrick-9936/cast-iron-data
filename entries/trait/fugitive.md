@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You crossed the law (or those in charge thought you did), and you are now a wanted
 criminal. As such, you have grown used to looking over your shoulder wherever you go.
 

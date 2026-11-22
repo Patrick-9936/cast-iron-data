@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lands of the Linnorm Kings
 
 **Flavor:** Long nights in the frigid winters of the north have inured you to cold.

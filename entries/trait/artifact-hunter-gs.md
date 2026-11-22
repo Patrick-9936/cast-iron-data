@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Giantslayer
 
 **Flavor:** You've always had an interest in magic, but you're fascinated with those legendary magic

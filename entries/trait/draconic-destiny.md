@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Whether you are aware of it or not, the moment of your birth was but one part of a
 far-reaching machination in a dragon's grand design, and the influence of that mysterious plan makes
 you a little harder to kill.

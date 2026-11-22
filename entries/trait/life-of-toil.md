@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have lived a physically taxing life, working long hours for a master or to support a
 trade. Hard physical labor has toughened your body and mind.
 

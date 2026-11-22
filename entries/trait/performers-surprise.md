@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are practiced at the surprising combat tricks of Varisian wanderers.
 
 **Benefit:** Against foes denied their Dexterity bonus to AC, you gain a +1 trait bonus on damage

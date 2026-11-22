@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You relish reminding people who's in charge.
 
 **Benefit:** Against members of the same organization or hierarchy who formally answer to you, you

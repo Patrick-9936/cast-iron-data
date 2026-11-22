@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** A traumatic experience in your childhood, such as surviving a violent earthquake,
 fleeing a shipwreck, escaping a devastating fire, or getting struck by lightning, caused you to
 develop a fear of the corresponding element. You can instinctively shield yourself against elemental

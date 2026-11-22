@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Apostae
 
 **Flavor:** Although you were born and lived on Golarion, you recently awakened in a strange vault

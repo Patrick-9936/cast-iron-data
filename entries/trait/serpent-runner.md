@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Shattered Star
 
 **Flavor:** You've participated in the mock gladiatorial battles and athletic feats at the Serpent's

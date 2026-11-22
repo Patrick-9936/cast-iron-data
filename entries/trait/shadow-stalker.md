@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Fetchling](ref/race/fetchling)
 
 **Flavor:** You are dedicated to mastering the art of hiding in the shadows.

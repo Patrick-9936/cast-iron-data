@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Goblin](ref/race/goblin)
 
 **Benefit:** You gain the [scent](ref/umr/scent) special quality but only against canine creatures,

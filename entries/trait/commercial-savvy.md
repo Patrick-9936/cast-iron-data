@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Katapesh
 
 **Flavor:** You excel at maximizing mercantile contacts and convincing merchants to dig just a bit

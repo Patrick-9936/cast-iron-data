@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You were raised with defiance, fear, or hatred of a particular sort of foe. To make you
 ready to resist such foes, you were trained for long hours in the proper ways to defeat them.
 

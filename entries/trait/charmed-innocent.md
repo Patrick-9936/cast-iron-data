@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** urban
 
 **Flavor:** Your apparent good nature or playful charm makes nonevil creatures want to like you.

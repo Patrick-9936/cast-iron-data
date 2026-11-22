@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Gozreh](ref/faith/gozreh)
 
 **Flavor:** Your faith in Gozreh's grace gives you the confidence to swim without fear.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 30 Neth and 17 Kuthona
 
 **Flavor:** You are born under the sign of the dark figure that trails the Caravan - the specter of

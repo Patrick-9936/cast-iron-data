@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Gorum](ref/faith/gorum)
 
 **Flavor:** You and your weapon are practically one.

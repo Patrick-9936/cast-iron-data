@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You know how to avoid a blow while still maintaining your offensive posture.
 
 **Benefit:** When you use [Combat Expertise](ref/feat/combat-expertise), reduce the number you

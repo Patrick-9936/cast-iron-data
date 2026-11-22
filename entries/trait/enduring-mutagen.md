@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Because of special training, your unique body chemistry, or the uncovering of an
 alchemical secret, your mutagens last longer.
 

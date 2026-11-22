@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Changeling](ref/race/changeling)
 
 **Flavor:** You possess natural magical ability.

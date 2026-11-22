@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your childhood was dominated either by lessons of some sort (whether musical, academic,
 or other) or by a horrible home life that encouraged your ability to block out distractions and
 focus on the immediate task at hand.

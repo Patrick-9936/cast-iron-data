@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-orc](ref/race/half-orc)
 
 **Flavor:** You have enough human features that it's easy for you to pass for a pure-blooded human.

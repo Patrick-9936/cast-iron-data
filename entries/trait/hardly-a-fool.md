@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have always been able to ferret out lies and deception. Maybe you worked as an
 investigator for a time, you came from a place rife with lies, or you've studied the human condition
 long enough to read a person's face and get to the heart of his message.

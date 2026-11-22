@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are hard to fool and harder to trick with a feint.
 
 **Benefit:** You gain a +1 trait bonus on all [Sense Motive](ref/skill/sense-motive) checks. This

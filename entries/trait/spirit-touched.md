@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Return of the Runelords
 
 **Flavor:** As a child, you were influenced by overwhelming emotional trauma associated with death

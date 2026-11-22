@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You were exposed to the magic of an [elf gate](ref/magic-artifact/aiudara), portal, or
 some other form of distance-spanning magic when you were young. This contact with ancient
 world-spanning magic has granted you insight into means to extend the range of your own spells.

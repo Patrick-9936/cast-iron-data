@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Osirion
 
 **Flavor:** You are descended from one of Ancient Osirion's pharaohs, and a sliver of her

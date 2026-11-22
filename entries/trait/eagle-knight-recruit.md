@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ruins of Azlant
 
 **Flavor:** Since Talmandor's Bounty is an Andoren colony and is unlikely to see the threat of

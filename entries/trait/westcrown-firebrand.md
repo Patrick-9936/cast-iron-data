@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Council of Thieves
 
 **Flavor:** There's something very wrong with the world. Spouses were not meant to huddle at their

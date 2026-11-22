@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have studied the workings of anatomy, either as a student at university or as an
 apprentice mortician or necromancer. You know where to aim your blows to strike vital organs.
 

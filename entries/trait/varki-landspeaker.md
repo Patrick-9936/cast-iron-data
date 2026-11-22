@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Varki
 
 **Flavor:** You are deeply attuned to the lands your people call home and the spirits that live

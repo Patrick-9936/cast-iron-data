@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You were bullied often as a child, and you are now constantly ready to defend yourself
 with your fists when an enemy comes near.
 

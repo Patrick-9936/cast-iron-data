@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** War for the Crown
 
 **Flavor:** You love your country, its history, and its people... even though they may not love you

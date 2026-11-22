@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Mwangi
 
 **Flavor:** You may have to coexist with the colonials, but you don't have to like them.

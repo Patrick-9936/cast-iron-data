@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Wererat-kin
 
 **Flavor:** The first sign of your wererat heritage was your seeming imperviousness to disease.

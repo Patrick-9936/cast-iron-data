@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-orc](ref/race/half-orc) or [Orc](ref/race/orc)
 
 **Flavor:** You were raised to fight with every dirty trick in the book.

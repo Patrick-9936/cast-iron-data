@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your total indifference to the law even as you're breaking it is such that those
 watching you are stunned.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Hunter](ref/class/hunter) or have access to the
 _[animal aspect](ref/spell/animal-aspect)_ class feature; Shoanti
 

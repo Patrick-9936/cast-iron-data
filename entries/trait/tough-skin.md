@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Beastbrood
 
 **Flavor:** You retain a small amount of your ancestors' unyielding skin.

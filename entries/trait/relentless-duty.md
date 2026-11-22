@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Kols](ref/faith/kols)
 
 **Flavor:** You were raised with the mantra that fulfilling your duty must always come first. Now

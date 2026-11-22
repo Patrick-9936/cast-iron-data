@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Halfling](ref/race/halfling)
 
 **Flavor:** You can read a smattering of most languages and know enough to make pretty good guesses

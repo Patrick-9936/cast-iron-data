@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Wereboar-kin
 
 **Flavor:** You took longer than most to learn control over your transforming abilities, but in that

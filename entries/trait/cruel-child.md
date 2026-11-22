@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Changeling](ref/race/changeling)
 
 **Flavor:** Your wicked bloodline shines through, manifesting as a sadistic bloodlust in battle.

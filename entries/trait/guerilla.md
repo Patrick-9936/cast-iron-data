@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Dtang Ma
 
 **Flavor:** You have spent much time in the rainforests of Dtang Ma, and know its secrets.

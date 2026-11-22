@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Serpent's Skull
 
 **Flavor:** Your travels have brought you to the Jenivere through the dangerous port of Ilizmagorti,

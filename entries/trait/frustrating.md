@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Gathlain](ref/race/gathlain)
 
 **Flavor:** You can get anyone's attention, even when they are focused elsewhere.

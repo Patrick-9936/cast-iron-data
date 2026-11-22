@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Bekyar or Shoanti
 
 **Flavor:** The spirit voices of your ancestors sing to you of the world around you.

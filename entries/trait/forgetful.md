@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You are easily distracted and prone to forgetting important things.
 
 **Benefit:** Whenever you leave a location you have been at for longer than 1 hour, you must attempt

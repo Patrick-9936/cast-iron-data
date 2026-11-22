@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your superiors have identified you as an [Eagle Knights](ref/rule/aff-vangard)
 candidate, and their praise encourages you to strive to meet their expectations.
 

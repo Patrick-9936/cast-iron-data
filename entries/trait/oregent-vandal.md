@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Oregent
 
 **Flavor:** You find it quite easy to apply your carefully honed instincts for building and

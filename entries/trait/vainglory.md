@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You compulsively seek recognition for your deeds, making it hard to act with subtlety.
 
 **Benefit:** You take a -1 penalty on [Bluff](ref/skill/bluff), [Disguise](ref/skill/disguise), and

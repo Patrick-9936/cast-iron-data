@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Merfolk](ref/race/merfolk)
 
 **Flavor:** You grew up believing air-breathers are not to be trusted.

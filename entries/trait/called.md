@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your deity or a powerful spirit spoke to you when you were young, dropping cryptic hints
 about the important destiny that lay before you and how you must win your fights if you are to
 achieve your predetermined greatness.

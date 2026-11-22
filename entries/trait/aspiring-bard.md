@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Taldan
 
 **Flavor:** You spent countless hours of your youth wandering the open campuses of the

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** You were taught from a young age that the world is full of big, fast, dangerous foes,

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Crown of the World
 
 **Flavor:** Born in the Crown of the World, you learned to read the aurora and the night sky for

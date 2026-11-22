@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** coastal
 
 **Flavor:** As a result of your attempts to understand a rare encounter with the unearthly divine

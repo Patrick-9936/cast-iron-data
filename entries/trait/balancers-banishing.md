@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** The interference of the Outer Planes in mortal affairs angers you to no end and
 invigorates the potency of your magic.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Syrinx](ref/race/syrinx)
 
 **Flavor:** You learned from your syrinx elders that your race is better than non-winged races and

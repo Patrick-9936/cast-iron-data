@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Carrion Crown
 
 **Flavor:** Whether you knew Professor Lorrimor well or only in passing, as a colleague or

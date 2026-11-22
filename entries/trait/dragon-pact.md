@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** At some point your family served a dragon, and acted as its emissary to others. Some
 members of your family have benefited from this arrangement, gaining some small fraction of that
 dragon's noble bearing.

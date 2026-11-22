@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 17 Calistril and 11 Pharast
 
 **Flavor:** Your sign is of two lovers, intertwined as one.

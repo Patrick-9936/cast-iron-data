@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Vampire; Jiang-shi
 
 **Benefit:** Once per day, you may voluntarily fail a saving throw against a harmful spell or

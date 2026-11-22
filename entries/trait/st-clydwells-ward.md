@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** Mendev Crusaders
 
 **Flavor:** You have learned the secrets of an ancient prayer that wards off the attacks of demons.

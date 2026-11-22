@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You're addicted to power.
 
 **Benefit:** You take a -2 penalty on Will saving throws against charm and compulsion effects if the

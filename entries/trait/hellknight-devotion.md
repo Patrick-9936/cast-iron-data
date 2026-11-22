@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your family has strong ties to a [Hellknight](ref/rule/aff-lawknights) order, and you
 harness this belief as a weapon.
 

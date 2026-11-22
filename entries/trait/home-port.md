@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Shackles
 
 **Flavor:** You have a fondness for a particular port, and the people who live and do business there

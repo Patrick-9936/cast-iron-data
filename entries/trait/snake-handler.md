@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Osirion
 
 **Religion:** [Apep](ref/faith/apep) or [Wadjet](ref/faith/wadjet)

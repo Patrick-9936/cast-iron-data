@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** You've long been a friend to animals, and feel safer when animals are nearby.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Aballon
 
 **Flavor:** You spent at least part of your youth in Horsethroat and are acclimated to the frigid

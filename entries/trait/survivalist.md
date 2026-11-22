@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human)
 
 **Benefit:** You gain a +1 trait bonus on saving throws against natural environmental hazards.

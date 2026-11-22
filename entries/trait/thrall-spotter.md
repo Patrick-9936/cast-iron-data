@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir); Ancient-born
 
 **Flavor:** Your heritage gives you an understanding of the powers of domination.

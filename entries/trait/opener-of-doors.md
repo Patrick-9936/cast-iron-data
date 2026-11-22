@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Alseta](ref/faith/alseta)
 
 **Flavor:** Because of your devotion to Alseta, you are blessed with the ability to find hidden

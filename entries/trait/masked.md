@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You learned from "Prime Conspirator" that keeping secrets often means hiding your true
 identity.
 

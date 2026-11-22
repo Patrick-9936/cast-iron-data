@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Ustalav
 
 **Flavor:** You're not frightened of the old wives' tales of vampires and ghosts, and though you try

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You grew up around those who fight the demons streaming out of the Worldwound, and from
 their stories you learned about the demons' weaknesses. You are likely from Mendev or have joined
 that nation's cause as a crusader.

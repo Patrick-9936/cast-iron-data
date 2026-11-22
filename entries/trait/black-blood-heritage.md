@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** One of your ancestors came in contact with the mystical black blood, granting you an
 affinity for the substance.
 

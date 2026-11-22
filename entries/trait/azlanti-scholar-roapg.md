@@ -12,8 +12,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ruins of Azlant
 
 **Flavor:** You are familiar with an aspect of Azlanti lore. Maybe you first became enamored with

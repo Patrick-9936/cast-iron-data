@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are dedicated to defending members of your family.
 
 **Benefit:** When you use the [aid another](ref/rule/aid-another-2) action to give a member of your

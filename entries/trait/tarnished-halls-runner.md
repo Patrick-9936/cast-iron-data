@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You evaded Technic League patrols with the
 [Blood Gar pirates](ref/rule/tarnished-halls).
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You are convinced you're alive to achieve a great purpose.
 
 **Benefit:** You gain a +1 trait bonus on all saving throws to resist death effects and a +1 trait

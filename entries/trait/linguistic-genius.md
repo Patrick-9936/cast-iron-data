@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir); Ru-shi
 
 **Flavor:** Words and letters say more to you than their writers ever intended.

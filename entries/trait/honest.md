@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** A religious mentor instilled in you a sense of uncompromising integrity. You often speak
 your mind in defiance of any fear or hatred it might earn you, a habit that inspires others to trust
 you.

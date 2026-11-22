@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Isger
 
 **Flavor:** You have made it your mission to help bring the bandits of Isger to justice.

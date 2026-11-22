@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Wererat-kin
 
 **Flavor:** You first discovered your wererat-related abilities while escaping someone, whether the

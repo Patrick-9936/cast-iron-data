@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are skilled at subduing your enemies.
 
 **Benefit:** Whenever you attack one of your [favored enemies](ref/ability/favored-enemy) with a

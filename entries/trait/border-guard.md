@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kwanlai
 
 **Flavor:** You are one of the warriors on the front lines between Kwanlai and Wanshou, and excel at

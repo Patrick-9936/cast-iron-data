@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** The bond between you and a close sibling is nearly mystical.
 
 **Benefit:** Choose a single sibling with whom to share this bond. Once per day when you fail a

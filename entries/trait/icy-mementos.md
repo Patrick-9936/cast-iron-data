@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); White-scaled
 
 **Flavor:** As a parting gift, the shaman of your tribe gave you an alchemical concoction as a

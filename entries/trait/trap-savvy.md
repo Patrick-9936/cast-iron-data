@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darklands
 
 **Flavor:** Growing up in a dangerous area, you were constantly surrounded by traps that had been

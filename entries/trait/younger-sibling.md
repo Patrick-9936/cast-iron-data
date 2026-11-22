@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Jade Regent
 
 **Flavor:** You've lived your whole life in the shadow of your older sibling, a person who seems to

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Gillman](ref/race/gillman)
 
 **Flavor:** You can suppress your own memories to help tell more convincing lies.

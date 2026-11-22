@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** You have an uncanny knack for turning equipment to new and unexpected uses.
 
 **Benefit:** When using an item for anything other than its intended purpose - such as using a

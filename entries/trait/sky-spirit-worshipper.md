@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mutabi-qi
 
 **Flavor:** As the child of a Mutabi-qi shaman, you have seen the sky spirits that roam above and

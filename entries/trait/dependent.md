@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You are dependent upon the acceptance of others.
 
 **Benefit:** Whenever you fail a [Diplomacy](ref/skill/diplomacy) check, you become

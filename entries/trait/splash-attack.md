@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You catch others off-guard when a confrontation escalates.
 
 **Benefit:** As long as you are standing in or adjacent to water, or holding at least a pint of

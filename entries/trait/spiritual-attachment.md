@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** The union between spirits and spiritualists is one of the strongest (and strangest)
 bonds shared between the mortal realm and the spirit world. Spiritualists can use the knowledge of
 their linked phantoms to better negotiate with other spirits. Whether you're a spiritualist or not,

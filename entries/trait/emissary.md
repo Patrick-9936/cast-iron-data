@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kaer Maga
 
 **Flavor:** Accustomed to the strange residents of Kaer Maga, you have few prejudices.

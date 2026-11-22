@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Apsu](ref/faith/apsu)
 
 **Benefit:** Because of your devotion to Apsu, you gain a +2 trait bonus on

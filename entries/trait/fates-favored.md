@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** The fates watch over you.
 
 **Benefit:** Whenever you are under the effect of a luck bonus of any kind, that bonus increases

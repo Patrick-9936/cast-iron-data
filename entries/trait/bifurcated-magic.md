@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-elf](ref/race/half-elf)
 
 **Flavor:** You've studied the methods of both elven and human spellcasters.

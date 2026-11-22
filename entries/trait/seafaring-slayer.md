@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tengu](ref/race/tengu)
 
 **Flavor:** At a vulnerable age, you survived an encounter with a monstrous sea creature.

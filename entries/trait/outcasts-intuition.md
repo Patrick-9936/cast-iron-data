@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You are able to sense the motives of others and use that sense to bolster your magic
 against dispelling.
 

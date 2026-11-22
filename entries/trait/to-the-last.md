@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Benefit:** Choose one type of medium or heavy armor (such as [chainmail](ref/eq-armor/chainmail)
 or [half-plate](ref/eq-armor/half-plate)). If you have no allies within 60 feet when you are wearing
 that type of armor, you gain DR 1/-. This stacks with any one other source of damage resistance you

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Egorian
 
 **Flavor:** You studied under one of the masters of the Egorian School style of architecture.

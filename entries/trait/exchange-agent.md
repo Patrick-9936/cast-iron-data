@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Shattered Star
 
 **Flavor:** Although you're a relative newcomer to Magnimar, you're not some naive stranger. You've

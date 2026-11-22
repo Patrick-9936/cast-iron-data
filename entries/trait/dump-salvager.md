@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Westcrown
 
 **Flavor:** You grew up in or around Westcrown's rubbish-strewn shores and spent your spare time

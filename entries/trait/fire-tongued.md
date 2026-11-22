@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Red-scaled
 
 **Flavor:** The sorcerers of your tribe are adept at summoning and binding outsiders from the

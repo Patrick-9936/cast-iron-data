@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Red-scaled
 
 **Flavor:** You grew up close to sulfurous volcanic vents, which steeled you against heat dangers.

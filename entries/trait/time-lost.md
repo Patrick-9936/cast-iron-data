@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Return of the Runelords
 
 **Flavor:** You've always felt separated from the era into which you were born. Perhaps you feel

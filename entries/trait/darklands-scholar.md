@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Unsatisfied with mere stories, you have spent years researching journals and firsthand
 accounts of those who explored the Darklands before you.
 

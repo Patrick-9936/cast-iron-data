@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** At a young age, you saw a witch burned by fearful peasants, druids falsely punished for
 demon worship, or another sort of spellcaster persecuted for merely practicing her dubious craft.
 Intent on not suffering the same fate, you approach spellcasting with a powerful desire to control

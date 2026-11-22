@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Some disagree with your choice to wield a firearm, and their scorn has only hardened
 your resolve in battle.
 

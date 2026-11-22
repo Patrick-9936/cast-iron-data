@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You picked up skill in a craft or a profession during your time at a monastery.
 
 **Benefit:** You gain a +1 trait bonus on checks with a [Profession](ref/skill/profession-any) or

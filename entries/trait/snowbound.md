@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You came of age in a place with harsh winters amid a culture that rewarded you for
 testing your limits in the cold.
 

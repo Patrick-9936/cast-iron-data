@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Urgathoa](ref/faith/urgathoa)
 
 **Benefit:** Your regular exposure to plagues grants you a +2 trait bonus on saving throws against

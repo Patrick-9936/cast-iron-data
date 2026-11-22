@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** In your youth, you saw a younger friend or loved one suffer a grievous injury or die,
 and you blamed yourself for not having been there to help, even if there was nothing you could have
 done.

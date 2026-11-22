@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Prerequisite:** Knight of Ozem
 
 **Religion:** [Iomedae](ref/faith/iomedae)

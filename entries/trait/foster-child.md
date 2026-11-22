@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Jade Regent
 
 **Flavor:** Koya Mvashti might be old enough to be your grandmother, but to you, she's always been

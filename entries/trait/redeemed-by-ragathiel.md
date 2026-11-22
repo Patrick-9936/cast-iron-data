@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Ragathiel](ref/faith/ragathiel)
 
 **Flavor:** You were born into a family, nation, or other group that tried to impress evil ideals

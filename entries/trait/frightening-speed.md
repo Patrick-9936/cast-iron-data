@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Achaekek](ref/faith/achaekek)
 
 **Flavor:** Your careful study of Achaekek's kills has unlocked a divine speed in you.

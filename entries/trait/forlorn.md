@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Elf](ref/race/elf)
 
 **Flavor:** Having lived outside of traditional elf society for much or all of your life, you know

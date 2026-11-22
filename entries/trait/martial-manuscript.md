@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You either carry or have memorized a sacred text from your school, temple, or monastery,
 and its wisdom gives you insight that makes your attacks more devastating.
 

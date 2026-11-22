@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lastwall
 
 **Flavor:** You have studied at Vigil's Crusader War College, and are skilled in both heraldry and

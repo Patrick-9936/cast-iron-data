@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Katapesh
 
 **Flavor:** You spent several years addicted to [pesh](ref/drug/pesh), a habit that you may or may

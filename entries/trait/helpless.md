@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You once stood helpless as great harm befell a loved one, and that paralysis sometimes
 returns when an ally is in a dire position.
 

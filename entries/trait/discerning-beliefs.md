@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Zi Ha
 
 **Flavor:** You helped the samsarans maintain the magical boundaries around valleys in the

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Trox](ref/race/trox)
 
 **Flavor:** You fought off devious magic in order to escape duergar captors.

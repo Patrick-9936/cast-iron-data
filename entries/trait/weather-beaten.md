@@ -13,8 +13,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have an Erutaki husky as a mount
 
 **Benefit:** [Erutaki huskies](ref/eq-misc/dog-riding) gain a +4 trait bonus on Fortitude saves to

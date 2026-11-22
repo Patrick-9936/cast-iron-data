@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Curse of the Crimson Throne
 
 **Flavor:** Someone you know and love was accused of murder. A supposed eyewitness account from a

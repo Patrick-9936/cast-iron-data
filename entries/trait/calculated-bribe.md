@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Penance:** Knights who violate this code must perform penance by placing money into a fund to
 guard against their order's future poverty. The amount required for a knight to set aside is 100
 gold × the knight's current level. hl

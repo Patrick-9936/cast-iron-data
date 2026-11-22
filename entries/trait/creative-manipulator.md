@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Changeling](ref/race/changeling)
 
 **Benefit:** Once per day, you may reroll a Charisma check you just made. You must take the result

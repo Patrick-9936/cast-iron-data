@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Ragathiel](ref/faith/ragathiel)
 
 **Flavor:** In emulation of the empyreal lord's intensely channeled rage, you are an inspiration on

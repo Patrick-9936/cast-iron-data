@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** tundra
 
 **Benefit:** You are immune to the [dazzled](ref/misc/dazzled) condition.

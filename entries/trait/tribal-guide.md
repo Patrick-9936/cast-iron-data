@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold)
 
 **Flavor:** You were trained to guide the movements of larger creatures, perhaps travelers from

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** desert
 
 **Benefit:** You have a keen sense for weather patterns, and you always know 8 hours in advance when

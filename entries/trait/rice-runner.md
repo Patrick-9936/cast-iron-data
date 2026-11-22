@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Wanshou
 
 **Flavor:** You grew up as a slave in Wanshou, harvesting rice for your kraken despot, and you know

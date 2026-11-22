@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** jungle
 
 **Benefit:** When bartering for mundane items like food, water, and clothing, you can purchase

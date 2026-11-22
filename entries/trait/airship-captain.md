@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Plane of Air
 
 **Flavor:** Your years of piloting airships on the Plane of Air, dodging angry mephits and

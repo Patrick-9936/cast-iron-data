@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your dabbling has granted you greater insight into the proper casting of certain spells.
 
 **Benefit:** Once per day, you may cast a spell you have prepared that appears on both the magus and

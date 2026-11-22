@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Abadar](ref/faith/abadar)
 
 **Flavor:** You feel safe and secure in urban environments, even in cities whose laws you find

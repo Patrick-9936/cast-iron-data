@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You know the secret of making punishing fire bombs.
 
 **Benefit:** Any bombs you have that deal fire damage deal 1 additional point of fire damage on a

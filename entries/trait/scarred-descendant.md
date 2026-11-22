@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your own people are your [favored enemy](ref/ability/favored-enemy).
 
 **Benefit:** You gain a +1 trait bonus on rolls to confirm critical hits against favored enemies of

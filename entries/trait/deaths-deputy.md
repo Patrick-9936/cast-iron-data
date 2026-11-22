@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Grimspawn
 
 **Flavor:** When you send opponents to death's door, you often hurl their corpses right across its

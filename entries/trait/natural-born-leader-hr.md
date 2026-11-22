@@ -12,8 +12,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Rebels
 
 **Flavor:** Whenever you found yourself involved in a group effort in the past, be it working with

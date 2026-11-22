@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Wereshark-kin
 
 **Flavor:** In your youth, you swam into the ocean as deep as you could, and had it not been for

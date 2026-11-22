@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Growing up with no one to rely on but yourself, you learned to keep a realistic view of
 your situation and avoid falling into the trap of cynicism with a healthy dose of wit.
 

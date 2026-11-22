@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir)
 
 **Flavor:** You grew up in Nidal, Geb, or another place where your undead lineage was considered a

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Old Cults](ref/rule/f-old-cults)
 
 **Flavor:** Your prolonged association with alien forces leaks from your pores.

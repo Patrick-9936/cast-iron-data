@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Minata
 
 **Flavor:** The hidden coves and bays of the island of Belem have been your home throughout most of

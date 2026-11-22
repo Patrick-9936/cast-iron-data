@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Gorum](ref/faith/gorum)
 
 **Flavor:** You were trained to use shields as weapons.

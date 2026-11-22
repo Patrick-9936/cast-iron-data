@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Iron Gods
 
 **Flavor:** Although the Black Sovereign rules Numeria in name, it's the spellcasters of the Technic

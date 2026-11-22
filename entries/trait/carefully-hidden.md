@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Keleshite
 
 **Flavor:** Modern Taldor is not kind to Keleshites. Your life as a member of an unpopular ethnic

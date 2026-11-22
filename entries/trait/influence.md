@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your position in society grants you special insight into others, and special
 consideration or outright awe from others.
 

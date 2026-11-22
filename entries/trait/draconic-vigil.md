@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lastwall
 
 **Flavor:** As a defender of Lastwall, you have seen the damage the green dragon Zedoran has wrought

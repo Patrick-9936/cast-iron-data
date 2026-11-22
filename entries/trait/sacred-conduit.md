@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your birth was particularly painful and difficult for your mother, who needed potent
 divine magic to ensure that you survived (your mother may or may not have survived). In any event,
 that magic infused you from an early age, and you now channel divine energy with greater ease than

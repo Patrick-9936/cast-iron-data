@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kaoling
 
 **Flavor:** As a former slave of the hobgoblins, you were forced to make many of the weapons and

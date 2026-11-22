@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Droskar](ref/faith/droskar)
 
 **Flavor:** You can craft passable if inferior magical weapons, armors, and shields through

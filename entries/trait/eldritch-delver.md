@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You have an unquenchable thirst for knowledge about the world and desire to obtain it
 firsthand.
 

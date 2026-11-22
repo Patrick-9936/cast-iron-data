@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Sylph](ref/race/sylph)
 
 **Region:** Eye of Abendego

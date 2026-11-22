@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Valashmai Jungle
 
 **Flavor:** You have traveled to the Valashmai Jungle on numerous occasions, and your prowess in

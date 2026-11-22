@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Monkey goblin](ref/race/monkey-goblin)
 
 **Flavor:** You have spent long hours scouring shipwrecks and shoreline tide pools during low tide

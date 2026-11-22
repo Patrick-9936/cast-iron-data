@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** River Kingdoms
 
 **Flavor:** You embody the independent spirit of the River Kingdoms and do best when sailing under

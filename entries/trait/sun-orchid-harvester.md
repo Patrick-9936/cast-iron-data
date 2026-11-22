@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Thuvia
 
 **Flavor:** You were employed briefly by the blue dragon Deyrubrujuan's alchemist cabal to harvest

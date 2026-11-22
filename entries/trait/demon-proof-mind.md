@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Sarkoris or The Worldwound
 
 **Flavor:** You are used to the maddening energy fluctuations emanating from the Worldwound, and

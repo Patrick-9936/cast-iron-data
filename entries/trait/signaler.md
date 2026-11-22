@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Molthune
 
 **Benefit:** By watching Imperial troops, you know how to use flags, smoke signals, and other

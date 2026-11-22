@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker)
 
 **Flavor:** You hail from a community - perhaps in Arcadia or the Lands of the Linnorm Kings - that

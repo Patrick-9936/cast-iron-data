@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Oread](ref/race/oread)
 
 **Flavor:** You inherited the statuesque physical features of your shaitan parent.

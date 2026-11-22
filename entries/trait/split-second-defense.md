@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Milani](ref/faith/milani)
 
 **Benefit:** When you are the target of an attack by an opponent that is

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Rise of the Runelords
 
 **Flavor:** As a faithful adherent of Abadar, Desna, Erastil, Gozreh, Sarenrae, or Shelyn, you've

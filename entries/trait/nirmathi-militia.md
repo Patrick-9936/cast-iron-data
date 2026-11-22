@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nirmathas
 
 **Flavor:** You have served in one of the militia bands of Nirmathas, and have learned valuable

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You lived your life as a merchant, buying and selling goods.
 
 **Benefit:** You gain a +1 trait bonus on any [Appraise](ref/skill/appraise) and

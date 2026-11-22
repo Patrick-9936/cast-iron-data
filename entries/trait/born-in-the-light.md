@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir)
 
 **Flavor:** The circumstance of your birth and upbringing left little room to accommodate your

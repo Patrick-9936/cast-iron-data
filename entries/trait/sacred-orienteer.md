@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Elion](ref/faith/elion)
 
 **Flavor:** You have traveled far with only your compass and faith as your guides.

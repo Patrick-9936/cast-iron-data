@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You plan and prepare everything in detail, and aren't good at improvising when things
 don't go as planned.
 

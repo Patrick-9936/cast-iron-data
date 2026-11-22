@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** urban
 
 **Flavor:** You learned to take care of yourself on the streets and know the warning signs of

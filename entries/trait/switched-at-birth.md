@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Changeling](ref/race/changeling)
 
 **Flavor:** You were traded for another child in infancy and remained unaware of your origin as a

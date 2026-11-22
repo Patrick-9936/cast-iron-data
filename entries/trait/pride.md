@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You can't abide challenges to your dignity, authority, or honor.
 
 **Benefit:** When someone threatens, accuses, or challenges you, you take a -2 penalty on

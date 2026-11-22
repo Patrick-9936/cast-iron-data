@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You were raised with heretical views that have made it difficult for you to accept most
 religious beliefs and often caused you or those you love to be treated as pariahs. As a result, you
 have turned your back on religious teachings.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** frontier
 
 **Flavor:** A hard life on the edge of civilization has made you resourceful but has also given you

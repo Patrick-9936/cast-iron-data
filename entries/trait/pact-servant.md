@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** The faith of Holomog focuses on finding the good in unusual places and appreciating the
 nuances of virtue in the world.
 

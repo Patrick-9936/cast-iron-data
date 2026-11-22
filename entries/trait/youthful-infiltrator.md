@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You were trained from a young age to ambush the enemies of your order or organization,
 which makes you hard to trust for most outside your organization if they learn your affiliation.
 

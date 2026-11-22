@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Abadar](ref/faith/abadar)
 
 **Flavor:** Your deity has granted you an uncanny ability to find the true worth of items.

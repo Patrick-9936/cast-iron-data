@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Po Li
 
 **Flavor:** Your faith was stifled while you lived in the religiously oppressive slums of Changdo,

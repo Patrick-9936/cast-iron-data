@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your childhood was tough, and your parents always had to make every copper piece count.
 Hunger was your constant companion, and you often had to live off the land or sleep in the wild.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Realm of the Mammoth Lords
 
 **Flavor:** You have spent long hours hunting giant creatures and have become skilled at bringing

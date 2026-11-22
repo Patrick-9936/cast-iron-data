@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human)
 
 **Flavor:** Your family has taken the love of travel to an extreme, roaming the world extensively.

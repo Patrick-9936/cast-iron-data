@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Vildeis](ref/faith/vildeis)
 
 **Flavor:** You were slain by evil forces as a child, but a follower of Vildeis restored you to

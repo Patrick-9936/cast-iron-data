@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 21 Sarenith and 20 Erastus
 
 **Flavor:** Like the father of the Cosmic Caravan, you have an innate sense of direction.

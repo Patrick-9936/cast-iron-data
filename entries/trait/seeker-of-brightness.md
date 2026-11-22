@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Elf](ref/race/elf)
 
 **Flavor:** You have been actively searching for signs of the Brightness since childhood.

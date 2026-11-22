@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Gyronna](ref/faith/gyronna)
 
 **Benefit:** Once per day during a combat encounter, you can choose to gain a +1 trait bonus on a

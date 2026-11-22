@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Steaming Sea
 
 **Flavor:** You have lived among the Mordant Spire elves and know their strange ways.

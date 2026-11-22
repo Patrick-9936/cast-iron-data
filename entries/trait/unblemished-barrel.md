@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your skill with firearms speeds your repair of such weapons.
 
 **Benefit:** You gain a +1 trait bonus on [Craft](ref/skill/craft-any) (alchemy) and Craft (weapons)

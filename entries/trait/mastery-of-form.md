@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker)
 
 **Flavor:** You've never had trouble changing shape between beast and humanoid, and your ability to

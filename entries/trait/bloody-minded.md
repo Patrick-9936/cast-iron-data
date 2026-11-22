@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are always ready for bloodshed.
 
 **Benefit:** You gain a +1 trait bonus on initiative and [Intimidate](ref/skill/intimidate) checks.

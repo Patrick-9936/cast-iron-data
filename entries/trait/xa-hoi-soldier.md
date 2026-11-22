@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Xa Hoi
 
 **Flavor:** You were a soldier in one of Xa Hoi's extensive armies, trained under the oversight of

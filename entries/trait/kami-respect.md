@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kitsune](ref/race/kitsune)
 
 **Flavor:** Close contact with kami has given you an intuition for how to stay on their good side.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mediogalti
 
 **Flavor:** After spending a month in the Mediogaltian jungle, you developed a knack for dealing

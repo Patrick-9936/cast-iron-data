@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You had a knack for getting yourself into trouble as a child, and as a result developed
 a silver tongue at an early age.
 

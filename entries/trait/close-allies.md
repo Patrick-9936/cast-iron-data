@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Return of the Runelords
 
 **Flavor:** You and another PC are close allies - friends, lovers, siblings, or even twins. Work

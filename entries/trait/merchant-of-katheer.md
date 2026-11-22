@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Qadira
 
 **Flavor:** You grew up among the market stalls of the greatest trading post in all the world, and

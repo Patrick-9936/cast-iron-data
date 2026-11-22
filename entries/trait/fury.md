@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Rovagug](ref/faith/rovagug)
 
 **Flavor:** The flood of battle and destruction stirs deep within you.

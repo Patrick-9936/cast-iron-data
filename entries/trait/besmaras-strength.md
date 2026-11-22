@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Besmara](ref/faith/besmara)
 
 **Flavor:** The Pirate Queen sometimes answers your calls when you tread dangerous waters.

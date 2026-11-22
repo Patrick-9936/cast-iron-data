@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You are far too easily convinced of the friendly intentions of others.
 
 **Benefit:** You take a -2 penalty on [Sense Motive](ref/skill/sense-motive) checks and on

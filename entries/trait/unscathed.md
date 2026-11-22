@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You are amazingly resistant to energy attacks because of either your upbringing or
 magical experimentation.
 

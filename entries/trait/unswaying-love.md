@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Shelyn](ref/faith/shelyn)
 
 **Flavor:** Your resolute devotion to the unadulterated purity of your goddess protects you from

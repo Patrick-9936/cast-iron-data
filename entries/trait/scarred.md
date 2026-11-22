@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** An injury left you horribly, visibly scarred, making it more difficult for you to hide
 your true face, and also making most people distrustful of you merely due to your appearance.
 

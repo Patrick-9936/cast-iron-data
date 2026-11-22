@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You are the harbinger of some future event. Whether this event bodes good or ill, you
 exude an ominous presence.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your faith in the natural world or one of the gods of nature makes it easy for you to
 pick up on related concepts.
 

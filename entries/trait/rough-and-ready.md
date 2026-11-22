@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** Your intense familiarity with the tools of your trade allows you to use them in combat
 as if they were actual weapons and makes them more effective for that purpose than they would
 normally be.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** You are adept at escaping from confinement in an unobtrusive manner.
 
 **Benefit:** When trying to escape manacles, rope, or other similar restraints (but not grapples or

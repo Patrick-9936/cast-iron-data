@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human)
 
 **Flavor:** From the moment you could walk and talk, the ruins of ancient civilizations have

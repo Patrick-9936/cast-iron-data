@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** River Kingdoms
 
 **Flavor:** Most pirates on the ocean view falling overboard as a death sentence, but in the River

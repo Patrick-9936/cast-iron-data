@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your concealed weapons strike fast and true.
 
 **Benefit:** You gain a +1 trait bonus on [Sleight of Hand](ref/skill/sleight-of-hand) checks made

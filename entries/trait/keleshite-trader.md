@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kelesh or Qadira
 
 **Flavor:** Your cosmopolitan upbringing has given you familiarity with many cultures.

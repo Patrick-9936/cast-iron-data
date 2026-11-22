@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your early training grants you knowledge of the arcane.
 
 **Benefit:** You gain a +1 trait bonus on [Knowledge (arcana)](ref/skill/knowledge-arcana) checks,

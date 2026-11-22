@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Benefit:** You've dealt too often with [cruel fey magic](ref/rule/witchmarket) and so gain a +2
 bonus on Will saves against hexes and fey creatures' spells and
 [spell-like abilities](ref/umr/spell-like-abilities).

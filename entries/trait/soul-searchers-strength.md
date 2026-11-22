@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** Must follow the traditions of the [Rivethun](ref/rule/aff-animists)
 
 **Flavor:** Your introspections have taught you to understand your own flaws and proclivities and

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Plane of Fire
 
 **Flavor:** Raised among the efreet of the Plane of Fire, you developed a similarly assured sense of

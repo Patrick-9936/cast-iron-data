@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your interest in magic was inspired by witnessing a spell being cast in a particularly
 dramatic method, perhaps even one that affected you physically or spiritually. This early exposure
 to magic has made it easier for you to work similar magic on your own.

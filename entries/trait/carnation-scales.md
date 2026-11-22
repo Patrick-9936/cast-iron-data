@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold)
 
 **Flavor:** Though your light pink scales made you the subject of ridicule by your tribe, you can

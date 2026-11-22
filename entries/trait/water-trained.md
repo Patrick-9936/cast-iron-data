@@ -13,8 +13,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a Lastwall jasper as a mount
 
 **Benefit:** [Lastwall jaspers](ref/eq-misc/horse) gain a +2 trait bonus on [Swim](ref/skill/swim)

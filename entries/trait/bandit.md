@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** River Kingdoms
 
 **Flavor:** Since you were young, you've been a member of one River Kingdoms bandit gang or another.

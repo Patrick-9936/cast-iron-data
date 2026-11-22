@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Numeria
 
 **Flavor:** Somehow, you managed to retrieve a rare vial of fluid from a piece of crashed wreckage

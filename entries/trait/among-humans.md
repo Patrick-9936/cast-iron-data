@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kitsune](ref/race/kitsune)
 
 **Flavor:** You have spent your entire life living among humans and are an expert at impersonating

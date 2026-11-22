@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Droskar](ref/faith/droskar)
 
 **Flavor:** Your faith teaches you to push magical servants to the limit.

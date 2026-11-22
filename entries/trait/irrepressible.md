@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your hope for a brighter future blessed by the gods, combined with your powerful
 personality, allows you to force your way free of spells that cloud the mind.
 

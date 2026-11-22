@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Fetchling](ref/race/fetchling)
 
 **Flavor:** You came of age in a place where fetchlings serve dark forces.

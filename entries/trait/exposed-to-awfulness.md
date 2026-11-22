@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Wrath of the Righteous
 
 **Flavor:** When you were a child, you were nearly slain by a demon that managed to make its way

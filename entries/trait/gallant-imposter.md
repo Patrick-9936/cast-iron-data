@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mendev
 
 **Benefit:** You gain a +1 trait bonus on [Knowledge (nobility)](ref/skill/knowledge-nobility) and

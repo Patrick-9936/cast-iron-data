@@ -13,7 +13,5 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Benefit:** You gain a +2 trait bonus on all [Intimidate](ref/skill/intimidate) checks against
 creatures of the animal, fey, or plant type, and Intimidate is always a class skill for you.

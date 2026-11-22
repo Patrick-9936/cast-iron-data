@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Zi Ha
 
 **Flavor:** You have lived in the mountains of Zi Ha and found utter tranquility among the samsarans

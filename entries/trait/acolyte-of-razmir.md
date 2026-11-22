@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Razmiran
 
 **Flavor:** You are an adherent of the Razmiri faith, or once were and have since renounced it.

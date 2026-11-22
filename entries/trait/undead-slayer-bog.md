@@ -12,8 +12,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir)
 
 **Benefit:** Filled with wrath against the monsters whose unclean blood makes you an outcast, you

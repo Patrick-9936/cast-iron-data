@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You know that you could be exposed at any time. Even your closest friends could someday
 become enemies, and so you have trained yourself to never be surprised by a betrayal.
 

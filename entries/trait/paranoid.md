@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You believe that someone or something is always out to get you, so you have a hard time
 truly trusting anyone.
 

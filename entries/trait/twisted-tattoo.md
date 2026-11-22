@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your exposure to eldritch phenomena has caused your skin to develop a strange pattern.
 
 **Benefit:** Once per day as you cast a spell whose casting time is 1 round or less, you can roll

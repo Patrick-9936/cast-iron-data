@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Raised in the company of skilled healers, you were always encouraged to devote your time
 and energy to the welfare of others.
 

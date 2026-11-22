@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Castrovel
 
 **Flavor:** You were born on Castrovel and touched by the planet's profound psychic bounty.

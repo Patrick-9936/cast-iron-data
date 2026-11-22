@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Eldest](ref/rule/the-eldest)
 
 **Flavor:** You can mimic the Eldest's ability to reshape the world.

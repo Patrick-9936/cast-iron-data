@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You were bullied often as a child, but never quite developed an offensive response.
 Instead, you became adept at anticipating sudden attacks and reacting to danger quickly.
 

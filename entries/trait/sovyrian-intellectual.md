@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Elf](ref/race/elf); Must be a 1st-level character
 
 **Flavor:** Having grown up in one of the intellectual centers of Castrovel, you speak precisely and

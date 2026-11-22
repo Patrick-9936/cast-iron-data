@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Minkai
 
 **Flavor:** You possess strong ties to Minkai, and spread flattering words regarding your empire.

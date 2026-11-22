@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Blessed by a priest of a deity of magic at birth, you demonstrated a remarkable knack
 for guessing the nature of spells without the schooling of your instructors.
 

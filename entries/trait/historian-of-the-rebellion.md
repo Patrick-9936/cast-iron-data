@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Rebels
 
 **Flavor:** You've long been interested in the legacy of the [Silver Ravens](ref/rule/aff-rebels) -

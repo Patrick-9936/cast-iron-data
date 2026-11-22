@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Varisia
 
 **Benefit:** Choose a community that you've lived in for at least 5 years. You gain a +2 trait bonus

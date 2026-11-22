@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Keleshite
 
 **Flavor:** You spent your youth amid the varied market stalls and mercantile leagues across

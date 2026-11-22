@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Iron Gods
 
 **Flavor:** You have ties to a prominent local in the town of Torch - the missing wizard Khonnir

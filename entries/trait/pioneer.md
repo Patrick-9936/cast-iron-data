@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Kingmaker
 
 **Flavor:** You have long lived along the southern border of Brevoy, in the shadow of wilderness

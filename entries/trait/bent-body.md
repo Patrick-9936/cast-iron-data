@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Beastbrood
 
 **Flavor:** While nothing is actually reversed, your bones and limbs are slightly out of alignment.

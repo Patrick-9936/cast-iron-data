@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You've always held the strong belief that morality is everyone's choice, and that those
 who act in wicked ways have simply never been shown how their actions truly affect others. If they
 could be shown their errors, then they would accept a more positive course of action - and you have

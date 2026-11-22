@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Archdevils
 
 **Flavor:** Your bond with the archdevil you worship strengthens your ability to channel powers of

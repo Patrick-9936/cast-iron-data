@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are skilled at slipping away from crowds.
 
 **Benefit:** Once per day, you can attempt a [Bluff](ref/skill/bluff) check to create a diversion to

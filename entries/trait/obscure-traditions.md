@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Elf](ref/race/elf); Snowcaster
 
 **Flavor:** You confound those who think they know about elves.

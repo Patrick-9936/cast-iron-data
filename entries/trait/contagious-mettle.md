@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Penance:** Knights who violate this code must perform penance by volunteering their service to a
 local militia, army, or fighting company for at least 1 week, whether by performing unusual
 missions, leading troops into battle, or assisting in the training of soldiers. hl

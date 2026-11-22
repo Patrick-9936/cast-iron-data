@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Ghlaunder](ref/faith/ghlaunder)
 
 **Flavor:** Your work with infections has infused your spirit with disease.

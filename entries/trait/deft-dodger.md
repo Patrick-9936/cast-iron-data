@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Growing up in a rough neighborhood or a dangerous environment has honed your senses.
 
 **Benefit:** You gain a +1 trait bonus on Reflex saves.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nagajor
 
 **Flavor:** Having grown up in Nagajor, you are used to the myriad poisons of its people, and have
