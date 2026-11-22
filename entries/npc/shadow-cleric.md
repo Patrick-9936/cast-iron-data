@@ -15,8 +15,6 @@ kind = "creature"
 cr = "17"
 +++
 
-**Shadow Cleric**
-
 **Challenge rating:** 17
 
 **XP** 102,400\

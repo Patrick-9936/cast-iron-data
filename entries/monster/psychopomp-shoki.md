@@ -34,8 +34,6 @@ abilities = ["24", "19", "22", "18", "21", "17"]
 _A wooden staff topped with a silver cage containing a ghostly face keeps this grizzled,
 snail-backed creature upright._
 
-**Shoki**
-
 **Challenge rating:** 9
 
 **Initiative:** +4

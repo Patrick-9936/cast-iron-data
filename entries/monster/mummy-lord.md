@@ -35,8 +35,6 @@ abilities = ["20", "14", "-", "10", "20", "20"]
 _Dirty linen strips swathe this emaciated, once-noble figure from head to toe. Its eyes burn with
 unholy light._
 
-**Mummy Lord**
-
 **Challenge rating:** 10
 
 **Male human mummy lord [cleric](ref/class/cleric) 9**

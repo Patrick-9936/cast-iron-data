@@ -32,8 +32,6 @@ abilities = ["6", "17", "12", "12", "9", "13"]
 _This tiny creature, covered in a thick coat of fluffy fur, glides through the air, riding invisible
 currents on its fan-like tail._
 
-**Chuspiki**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

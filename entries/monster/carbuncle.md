@@ -33,8 +33,6 @@ abilities = ["5", "7", "12", "6", "13", "10"]
 _This small, awkward reptile with a fist-sized gem jutting from between its two bulging eyes seems
 both surprised and perplexed._
 
-**Carbuncle**
-
 **Challenge rating:** 1
 
 **Initiative:** -2

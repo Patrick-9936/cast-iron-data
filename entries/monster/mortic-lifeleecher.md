@@ -32,8 +32,6 @@ abilities = ["20", "15", "16", "12", "11", "13"]
 _The pallid flesh of this ferocious, orc-like creature is covered in scars and burns. Its muscles
 are thick and corded, and its hate-flled eyes seem to reflect death wherever they stare._
 
-**Lifeleecher**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

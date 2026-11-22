@@ -31,8 +31,6 @@ abilities = ["18", "13", "12", "13", "14", "13"]
 _This grayish humanoid creature seems almost unfinished, with a narrow head, gaunt limbs, and a
 sinister, noseless face._
 
-**Doppelganger**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

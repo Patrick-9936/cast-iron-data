@@ -31,8 +31,6 @@ abilities = ["10", "13", "13", "5", "12", "8"]
 _This creature is a blackened, bat-winged fiend's head. Tentacles dangle from chin and scalp, and
 its fanged mouth hangs agape._
 
-**Vargouille**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

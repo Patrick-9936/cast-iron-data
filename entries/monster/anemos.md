@@ -33,8 +33,6 @@ abilities = ["18", "31", "30", "23", "26", "31"]
 _Strong winds whip around this majestic being, and lightning crackles from her eyes and flickers
 along her skin._
 
-**Anemos**
-
 **Challenge rating:** 18
 
 **blindsight:** 120

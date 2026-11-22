@@ -30,8 +30,6 @@ abilities = ["14", "13", "13", "-", "11", "2"]
 
 _This monstrous caterpillar's dark-scarlet bristles drip with thick, dangerous-looking venom._
 
-**Horn Caterpillar**
-
 **Challenge rating:** 1
 
 **Initiative:** +1

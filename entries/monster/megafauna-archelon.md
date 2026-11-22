@@ -29,8 +29,6 @@ abilities = ["22", "13", "19", "2", "12", "6"]
 _The shell of this immense sea turtle easily spans 12 feet in length. Its narrow head ends in a
 hooked beak._
 
-**Archelon**
-
 **Challenge rating:** 5
 
 **Type:** animal

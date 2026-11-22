@@ -31,8 +31,6 @@ abilities = ["19", "21", "18", "10", "14", "17"]
 _The muscles beneath the spotted fur of this sleek feline tense, poised to pounce. Its long, sinuous
 neck stretches over twice the length of its body, ending in a snarling leopard's head._
 
-**Serpopard**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic neutral

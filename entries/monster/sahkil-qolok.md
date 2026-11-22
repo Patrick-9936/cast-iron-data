@@ -31,8 +31,6 @@ abilities = ["28", "19", "27", "16", "22", "21"]
 _Terrible jaws ringed with clawed arms open atop this towering mass of flesh. A probing tongue flops
 from another orifice._
 
-**Qolok**
-
 **Challenge rating:** 16
 
 **Initiative:** +8

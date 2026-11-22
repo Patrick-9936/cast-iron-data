@@ -18,8 +18,6 @@ cr = "4"
 _Dents and nicks fail to dull the shine of this knight's armor. A sword and starburst decorate her
 shield._
 
-**Wayward Crusader**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

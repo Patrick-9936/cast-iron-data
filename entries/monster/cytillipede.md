@@ -33,8 +33,6 @@ abilities = ["23", "13", "18", "6", "10", "2"]
 _This segmented creature has a chitinous body covered in patches of glowing, purple fungus. Syrupy
 venom drips from its mandibles._
 
-**Cytillipede**
-
 **Challenge rating:** 6
 
 **Initiative:** +5

@@ -31,8 +31,6 @@ abilities = ["32", "10", "29", "21", "20", "21"]
 _This massive scarlet squid has dark blue stripes and wears various gold ornaments, its tentacles
 glistening with blue energy._
 
-**Qwoshokk**
-
 **Challenge rating:** 20
 
 **Male unique elder kraken**

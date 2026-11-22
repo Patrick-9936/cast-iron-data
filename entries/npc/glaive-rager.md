@@ -15,8 +15,6 @@ kind = "creature"
 cr = "7"
 +++
 
-**Glaive Rager**
-
 **Challenge rating:** 7
 
 **XP** 3,200\

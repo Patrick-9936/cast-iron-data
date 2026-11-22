@@ -33,8 +33,6 @@ abilities = ["24", "13", "19", "6", "14", "11"]
 
 _This maggot-like creature has a long tail covered with frightening hooked suckers._
 
-**Grimslake**
-
 **Challenge rating:** 6
 
 **Type:** aberration

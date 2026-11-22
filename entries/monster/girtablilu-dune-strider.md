@@ -31,8 +31,6 @@ abilities = ["18", "19", "23", "10", "18", "13"]
 _Sprightly despite his bulk and swathed in layers of cloth against the relentless sun, this hunter
 has a wicked bow and a scorpion-like lower body._
 
-**Dune Strider**
-
 **Challenge rating:** 11
 
 **Girtablilu [ranger](ref/class/ranger) 3**

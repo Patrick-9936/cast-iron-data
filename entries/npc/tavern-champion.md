@@ -15,8 +15,6 @@ kind = "creature"
 cr = "3"
 +++
 
-**Tavern Champion**
-
 **Challenge rating:** 3
 
 **XP** 800\

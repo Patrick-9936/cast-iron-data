@@ -31,8 +31,6 @@ abilities = ["6", "5", "20", "19", "18", "25"]
 _This large and majestic creature is nearly immobile, her massive abdomen swollen with her impending
 brood._
 
-**Formian Queen**
-
 **Challenge rating:** 17
 
 **blindsense:** 30

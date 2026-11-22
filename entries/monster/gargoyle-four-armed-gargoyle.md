@@ -31,8 +31,6 @@ abilities = ["23", "12", "20", "8", "15", "11"]
 _The stone statue of a menacing fiend crouches here, as though ready to spring to life and devour
 innocent passers-by. Then it moves - to do just that._
 
-**Four-Armed Gargoyle**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

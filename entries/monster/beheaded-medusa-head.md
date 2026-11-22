@@ -28,8 +28,6 @@ abilities = ["14", "12", "-", "-", "11", "15"]
 _This humanoid head floats silently and ominously, bits of flesh still hanging from its face and
 graying teeth clattering slightly as it bobs in the air._
 
-**Medusa Head**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

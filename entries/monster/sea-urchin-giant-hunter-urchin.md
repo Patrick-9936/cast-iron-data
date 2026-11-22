@@ -34,8 +34,6 @@ abilities = ["15", "3", "14", "-", "11", "2"]
 _This strange-looking creature has a spherical body covered with hundreds or thousands of
 two-foot-long bright purple spines that darken to ominous black tips._
 
-**Hunter Urchin**
-
 **Challenge rating:** 1
 
 **Initiative:** -4

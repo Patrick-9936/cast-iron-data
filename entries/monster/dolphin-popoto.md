@@ -30,8 +30,6 @@ abilities = ["8", "17", "11", "2", "13", "6"]
 _This sleek mammal has a short snout and black, white, and gray markings along its body, with a
 rounded black dorsal fin._
 
-**Popoto**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

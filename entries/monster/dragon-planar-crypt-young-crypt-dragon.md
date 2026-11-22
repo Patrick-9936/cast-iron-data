@@ -32,8 +32,6 @@ abilities = ["23", "12", "19", "16", "21", "16"]
 _This dragon's scales are the color of weathered bone, and its hide stretches tautly and painfully
 over its emaciated form._
 
-**Young Crypt Dragon**
-
 **Challenge rating:** 12
 
 **Type:** dragon

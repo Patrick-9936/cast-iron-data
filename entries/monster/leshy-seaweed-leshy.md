@@ -32,8 +32,6 @@ abilities = ["10", "13", "14", "9", "15", "12"]
 _This vaguely humanoid plant creature has a body formed of soggy green seaweed and wears crude armor
 made from seashells._
 
-**Seaweed Leshy**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

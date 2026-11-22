@@ -30,8 +30,6 @@ abilities = ["14", "7", "16", "2", "13", "9"]
 _This tortoise is half the height of a human, and has a domed shell, leathery skin, and a long
 neck._
 
-**Giant Tortoise**
-
 **Challenge rating:** 1
 
 **Type:** animal

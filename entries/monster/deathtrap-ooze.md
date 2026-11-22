@@ -30,8 +30,6 @@ abilities = ["20", "3", "22", "-", "1", "1"]
 
 _The killing blade of this horrific trap drips with an animated sheen of foul brown-orange slime._
 
-**Deathtrap Ooze**
-
 **Challenge rating:** 8
 
 **blindsight:** 60

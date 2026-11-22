@@ -28,8 +28,6 @@ abilities = ["18", "15", "-", "13", "10", "11"]
 
 _This undead soldier carries a heavy-looking pickaxe in one hand and a short sword in the other._
 
-**Forsaken Defender**
-
 **Challenge rating:** 4
 
 **Initiative:** +2

@@ -28,8 +28,6 @@ special_qualities = "amazing initiative (+10), component freedom, contingency, c
 abilities = ["17", "20", "26", "46", "24", "32"]
 +++
 
-**Baba Yaga**
-
 **Challenge rating:** 30
 
 **Mythic rank:** 10

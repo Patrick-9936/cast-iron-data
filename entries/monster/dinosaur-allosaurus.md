@@ -28,8 +28,6 @@ abilities = ["26", "13", "19", "2", "15", "10"]
 _This bipedal dinosaur has a mouth filled with sharp teeth and short, powerful arms that end in
 sharp claws._
 
-**Allosaurus**
-
 **Challenge rating:** 7
 
 **Type:** animal

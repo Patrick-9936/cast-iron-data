@@ -32,8 +32,6 @@ abilities = ["19", "16", "19", "11", "16", "10"]
 _Swirling markings cover the armor and flanks of this imposing centaur. A bow and sword, both heavy
 enough to suit her powerful frame, hang from her body._
 
-**Centaur Forager**
-
 **Challenge rating:** 6
 
 **Centaur [ranger](ref/class/ranger) 3**

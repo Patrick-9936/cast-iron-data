@@ -32,8 +32,6 @@ _The eyes of this large gull glow eerily blue. Gray feathers cover much of its r
 long, black-tipped wings are marked with enigmatic symbols. The bird's yellow bill is heavy and
 hooked, and its webbed feet bear sharp talons._
 
-**Cyphergull**
-
 **Challenge rating:** 2
 
 **Initiative:** +3

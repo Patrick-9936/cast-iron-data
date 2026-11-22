@@ -33,8 +33,6 @@ _This fox-headed humanoid has a sleek, feminine form that moves with seductive g
 into a defensive posture, a mass of bushy tails flicks at the air above her back and she reveals
 teeth flecked with blood._
 
-**Nogitsune**
-
 **Challenge rating:** 7
 
 **Initiative:** +7

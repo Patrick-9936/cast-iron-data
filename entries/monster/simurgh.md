@@ -33,8 +33,6 @@ abilities = ["34", "16", "27", "16", "19", "23"]
 
 _This massive creature has the body of a resplendent bird but the head of a regal canine._
 
-**Simurgh**
-
 **Challenge rating:** 18
 
 **aura:** peace (50 ft.)

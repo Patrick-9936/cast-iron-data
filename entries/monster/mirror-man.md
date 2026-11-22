@@ -31,8 +31,6 @@ abilities = ["16", "23", "-", "15", "15", "12"]
 _Tall and lean, this hooded figure resembles a human until the terrible face beneath the cowl is
 revealed - nothing but a featureless mirror, reflecting a hard, cold world._
 
-**Mirror Man**
-
 **Challenge rating:** 5
 
 **blindsight:** 60

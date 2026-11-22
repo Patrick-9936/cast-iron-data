@@ -31,8 +31,6 @@ abilities = ["36", "23", "28", "-", "25", "1"]
 _This enormous, translucent blob trails a mass of six immense tentacles and a central forest of
 tendrils below its body._
 
-**Whaler Jellyfish**
-
 **Challenge rating:** 17
 
 **blindsight:** 120

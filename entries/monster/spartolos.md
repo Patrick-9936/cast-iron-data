@@ -33,8 +33,6 @@ still clutch a short spear and a round bronze shield. Yet, beneath its decrepit 
 bones, a deftness and deadly intent linger on, embodied in a hellish light smoldering in its
 shadowed eye sockets._
 
-**Spartolos**
-
 **Challenge rating:** 6
 
 **Initiative:** +6

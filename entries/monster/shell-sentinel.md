@@ -32,8 +32,6 @@ _This mass of shells is assembled into a shape that resembles a cross between a 
 Its "head" is a tangle of long limbs composed of razor-sharp edges, and its body seeps with foamy,
 toxic-looking slime._
 
-**Shell Sentinel**
-
 **Challenge rating:** 5
 
 **Type:** construct

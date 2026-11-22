@@ -32,8 +32,6 @@ abilities = ["15", "17", "22", "13", "5", "14"]
 _This furtive gray-skinned woman wears a tattered cloak and a spiky circlet. The barbed hook of her
 weapon glistens with poison._
 
-**Urban Stalker**
-
 **Challenge rating:** 7
 
 **Derro [slayer](ref/class/slayer) 4**

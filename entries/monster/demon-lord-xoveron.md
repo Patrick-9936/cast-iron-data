@@ -28,8 +28,6 @@ abilities = ["44", "23", "38", "24", "32", "28"]
 
 _This hulking, four-armed, four-headed, sting-tailed gargoyle stands as tall as a house._
 
-**Xoveron**
-
 **Challenge rating:** 27
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 35), unholy aura (DC 27)

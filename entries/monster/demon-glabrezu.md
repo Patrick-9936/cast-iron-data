@@ -29,8 +29,6 @@ abilities = ["31", "11", "31", "16", "16", "20"]
 _Four arms grace the torso of this towering monstrosity. The monster's eyes shine with a mix of
 intelligence and cruelty._
 
-**Glabrezu**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic evil

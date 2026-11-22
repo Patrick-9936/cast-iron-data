@@ -30,8 +30,6 @@ abilities = ["11", "14", "13", "6", "12", "13"]
 _This earless, panther-like beast snarls as the skin of its face twitches, then peels back to reveal
 the bone and flesh beneath._
 
-**Krenshar**
-
 **Challenge rating:** 1
 
 **Initiative:** +6

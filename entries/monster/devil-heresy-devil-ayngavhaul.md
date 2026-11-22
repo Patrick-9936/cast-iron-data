@@ -36,8 +36,6 @@ abilities = ["24", "8", "24", "22", "21", "20"]
 _Seemingly fused with a monstrous iron throne, this impossibly corpulent being floats several feet
 off the ground._
 
-**Heresy Devil (Ayngavhaul)**
-
 **Challenge rating:** 12
 
 **Size:** huge

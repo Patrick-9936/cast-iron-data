@@ -31,8 +31,6 @@ abilities = ["10", "17", "15", "12", "14", "21"]
 
 _This striking, blue-eyed man with luminous skin and flowing white hair holds an ethereal harp._
 
-**Fossegrim**
-
 **Challenge rating:** 4
 
 **Type:** fey

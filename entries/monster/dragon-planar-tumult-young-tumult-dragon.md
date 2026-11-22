@@ -30,8 +30,6 @@ abilities = ["25", "12", "23", "14", "17", "16"]
 
 _This dragon seems to be made of parts from different creatures._
 
-**Young Tumult Dragon**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic neutral

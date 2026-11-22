@@ -30,8 +30,6 @@ abilities = ["30", "15", "17", "1", "12", "10"]
 _Large as a dragon, this shark's jaws open to reveal a cavernous, tooth-lined gullet capable of
 swallowing a horse whole._
 
-**Dire Shark (Megalodon)**
-
 **Challenge rating:** 9
 
 **Type:** animal

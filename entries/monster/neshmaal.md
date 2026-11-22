@@ -32,8 +32,6 @@ abilities = ["-", "25", "22", "9", "15", "24"]
 _This semi-transparent mass of convulsively roiling tentacles and whip-like tendrils hovers in the
 air, giving off an aura of dark, alien menace._
 
-**Neshmaal**
-
 **Challenge rating:** 12
 
 **aura:** alien dread (20 ft., DC 23)

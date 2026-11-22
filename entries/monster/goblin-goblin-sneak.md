@@ -29,8 +29,6 @@ special_qualities = "rogue talents (finesse rogue), trapfinding +1, weapon famil
 abilities = ["11", "19", "14", "8", "12", "8"]
 +++
 
-**Goblin Sneak**
-
 **Challenge rating:** 1
 
 **Goblin [rogue](ref/class/rogue) 2**

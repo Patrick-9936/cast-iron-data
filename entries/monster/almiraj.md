@@ -30,8 +30,6 @@ abilities = ["6", "15", "12", "5", "11", "6"]
 
 _This oversized rabbit has a single long, pearlescent horn protruding from its crown._
 
-**Almiraj**
-
 **Challenge rating:** 1
 
 **Initiative:** +2

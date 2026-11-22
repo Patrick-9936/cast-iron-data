@@ -28,8 +28,6 @@ abilities = ["11", "15", "14", "2", "14", "13"]
 
 _This small, slender-necked dinosaur's bright, inquisitive eyes seem to miss nothing._
 
-**Troodon**
-
 **Challenge rating:** 1
 
 **Type:** animal

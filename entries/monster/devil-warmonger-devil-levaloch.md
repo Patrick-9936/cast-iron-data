@@ -36,8 +36,6 @@ abilities = ["20", "17", "19", "14", "16", "15"]
 _Armored like an infernal knight upon some monstrous steed, this fiend of iron and nails scuttles
 upon six bladed, beetle-like legs._
 
-**Warmonger Devil (Levaloch)**
-
 **Challenge rating:** 7
 
 **Initiative:** +7

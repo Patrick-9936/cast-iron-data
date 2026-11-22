@@ -32,8 +32,6 @@ abilities = ["28", "18", "23", "14", "15", "17"]
 _This muscular, frog-headed humanoid has tattered flesh hanging from its bat-like wings and is
 covered in a viscous slime._
 
-**Slimy Demodand**
-
 **Challenge rating:** 16
 
 **aura:** [stench](ref/umr/stench) (DC 26, 1d6 rounds)

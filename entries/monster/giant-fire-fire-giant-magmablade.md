@@ -30,8 +30,6 @@ special_qualities = "arcane pool (12 points, +4), fighter training (fighter leve
 abilities = ["36", "11", "19", "20", "16", "10"]
 +++
 
-**Fire Giant Magmablade**
-
 **Challenge rating:** 17
 
 **[Fire giant](ref/monster/giant-fire-fire-giant) [magus](ref/class/magus) 14**

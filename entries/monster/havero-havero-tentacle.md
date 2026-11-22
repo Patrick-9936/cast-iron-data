@@ -27,8 +27,6 @@ special_qualities = "no breath"
 abilities = ["28", "12", "20", "-", "20", "10"]
 +++
 
-**Havero Tentacle**
-
 **Challenge rating:** 6
 
 **Type:** aberration

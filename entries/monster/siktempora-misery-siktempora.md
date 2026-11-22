@@ -32,8 +32,6 @@ abilities = ["22", "19", "20", "15", "21", "18"]
 _This armless creature has a woman's torso supported by six spidery legs. It lacks a mouth or nose,
 and its gaze conveys a furious misery._
 
-**Misery Siktempora**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

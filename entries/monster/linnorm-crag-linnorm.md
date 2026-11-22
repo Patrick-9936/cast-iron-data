@@ -30,8 +30,6 @@ abilities = ["34", "18", "25", "5", "18", "21"]
 _This immense, wingless dragon rears up on a serpentine body. Its triple tail and powerful talons
 swipe at the air._
 
-**Crag Linnorm**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic evil

@@ -32,8 +32,6 @@ abilities = ["38", "33", "30", "19", "23", "24"]
 _This mass of dark green protoplasm hangs thick and wet from the branches, and its long tentacles
 are tipped with thorny claws._
 
-**Forest Blight**
-
 **Challenge rating:** 18
 
 **blindsight:** 120

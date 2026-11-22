@@ -29,8 +29,6 @@ special_qualities = "track +1, wild empathy -1"
 abilities = ["23", "18", "27", "6", "11", "4"]
 +++
 
-**Troll Warden**
-
 **Challenge rating:** 6
 
 **Troll [ranger](ref/class/ranger) 2**

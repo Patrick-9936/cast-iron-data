@@ -36,8 +36,6 @@ abilities = ["16", "17", "14", "10", "13", "13"]
 _This hybrid of human and shark holds its spear menacingly, thick, glistening saliva dripping from
 its razor-sharp teeth._
 
-**Adaro**
-
 **Challenge rating:** 3
 
 **blindsense:** 30

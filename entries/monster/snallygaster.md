@@ -33,8 +33,6 @@ abilities = ["17", "15", "16", "5", "14", "9"]
 _This lean, scaly beast has broad wings, horns, a single eye, and writhing tentacles within its
 sharp, toothy beak._
 
-**Snallygaster**
-
 **Challenge rating:** 3
 
 **Type:** aberration

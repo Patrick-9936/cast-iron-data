@@ -35,8 +35,6 @@ abilities = ["8", "13", "11", "2", "13", "6"]
 _This sleek aquatic mammal has a pair of flippers, a powerful tail, and a muzzle full of small,
 sharp teeth._
 
-**Seal**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

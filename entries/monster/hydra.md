@@ -29,8 +29,6 @@ abilities = ["17", "12", "18", "2", "11", "9"]
 
 _Multiple angry snake-like heads rise from the sleek, serpentine body of this terrifying monster._
 
-**Hydra**
-
 **Challenge rating:** 4
 
 **Size:** huge

@@ -28,8 +28,6 @@ special_attacks = "negatively charged cells"
 abilities = ["17", "19", "-", "2", "11", "12"]
 +++
 
-**Lesser Hollow Serpent**
-
 **Challenge rating:** 6
 
 **Initiative:** +4

@@ -29,8 +29,6 @@ abilities = ["13", "18", "15", "8", "9", "12"]
 _This hideous, hunchbacked creature has three glowing blue eyes. Oily hair grows from its head and
 back, covering it like a cloak._
 
-**Nuglub**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

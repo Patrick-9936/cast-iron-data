@@ -35,8 +35,6 @@ abilities = ["18", "23", "-", "16", "15", "19"]
 _This spindly, skeletal humanoid has moldy green flesh, long talons for hands, and a head that seems
 to be mostly mouth._
 
-**Totenmaske**
-
 **Challenge rating:** 7
 
 **Initiative:** +10

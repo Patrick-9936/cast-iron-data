@@ -31,8 +31,6 @@ abilities = ["1", "16", "14", "15", "12", "5"]
 _This churning cloud of beetles buzzes with a steady discharge of sizzling arcs of electricity
 leaping from insect to insect. The patterns on their wings resemble humanoid eyes._
 
-**Hive Mind Beetle Swarm**
-
 **Challenge rating:** 13
 
 **Size:** diminutive

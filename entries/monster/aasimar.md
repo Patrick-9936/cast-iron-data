@@ -32,8 +32,6 @@ abilities = ["8", "10", "14", "13", "17", "14"]
 _This supernaturally beautiful woman looks human, yet emanates a strange sense of calm and
 benevolence._
 
-**Aasimar**
-
 **Challenge rating:** 1/2
 
 **Aasimar [cleric](ref/class/cleric) 1**

@@ -30,8 +30,6 @@ special_qualities = "favored terrain (mountain +4, underground +2), hunter's bon
 abilities = ["39", "7", "30", "13", "18", "14"]
 +++
 
-**Fire Giant King**
-
 **Challenge rating:** 20
 
 **[Fire giant](ref/monster/giant-fire-fire-giant) [ranger](ref/class/ranger) 10**

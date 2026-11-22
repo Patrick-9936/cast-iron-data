@@ -31,8 +31,6 @@ abilities = ["15", "14", "15", "11", "14", "12"]
 _This creature has the sun-bronzed upper body of a seasoned warrior and the lower body of a sleek
 warhorse._
 
-**Centaur**
-
 **Challenge rating:** 3
 
 **Initiative:** +6

@@ -30,8 +30,6 @@ abilities = ["10", "17", "13", "2", "13", "4"]
 _This filthy rat is the size of a small dog. It has a coat of coarse fur, a long and scabby tail,
 and two glittering eyes._
 
-**Dire Rat**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "9"
 +++
 
-**Pirate Queen**
-
 **Challenge rating:** 9
 
 **XP** 6,400\

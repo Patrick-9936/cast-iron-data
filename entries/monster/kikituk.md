@@ -31,8 +31,6 @@ abilities = ["29", "14", "-", "12", "19", "19"]
 _This lumbering whale skeleton has a set of bony legs affixed to its frame. Its bones bear complex
 scrimshaw patterns._
 
-**Kikituk**
-
 **Challenge rating:** 13
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 24, 2d4 rounds)

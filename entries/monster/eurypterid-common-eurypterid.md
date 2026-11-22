@@ -31,8 +31,6 @@ special_qualities = "amphibious"
 abilities = ["10", "11", "12", "-", "13", "2"]
 +++
 
-**Common Eurypterid**
-
 **Challenge rating:** 1
 
 **Initiative:** +4

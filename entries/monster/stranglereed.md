@@ -34,8 +34,6 @@ abilities = ["25", "20", "21", "1", "12", "6"]
 
 _This tangled mass of thick reeds extends from a bulbous pod split by a wide, thorn-toothed maw._
 
-**Stranglereed**
-
 **Challenge rating:** 9
 
 **Initiative:** +9

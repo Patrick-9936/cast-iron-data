@@ -30,8 +30,6 @@ abilities = ["21", "15", "25", "14", "16", "16"]
 _A cloud of spores and a trail of feathers surrounds this twisted cross between a man and a gigantic
 vulture._
 
-**Vrock**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

@@ -33,8 +33,6 @@ abilities = ["11", "17", "12", "12", "14", "8"]
 _This small, rat-like humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery
 tail._
 
-**Ratfolk Bravo**
-
 **Challenge rating:** 2
 
 **Ratfolk [gunslinger](ref/class/gunslinger) 3**

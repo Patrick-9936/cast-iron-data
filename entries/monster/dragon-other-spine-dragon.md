@@ -32,8 +32,6 @@ abilities = ["32", "15", "29", "16", "22", "19"]
 _This dragon bears a forest of razor-sharp crystalline spines. Its wings are transparent and seem
 almost to be made of glass._
 
-**Spine Dragon**
-
 **Challenge rating:** 16
 
 **blindsight:** 30

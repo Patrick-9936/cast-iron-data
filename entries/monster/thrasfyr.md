@@ -32,8 +32,6 @@ abilities = ["30", "13", "31", "5", "24", "20"]
 _Neither quite bear nor bull nor serpent, this immense, six-legged creature is bound in chains and
 covered with scintillating red scales._
 
-**Thrasfyr**
-
 **Challenge rating:** 17
 
 **Alignment:** Chaotic evil

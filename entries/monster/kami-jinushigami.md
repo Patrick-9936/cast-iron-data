@@ -30,8 +30,6 @@ abilities = ["28", "25", "28", "23", "24", "31"]
 _This enormous amalgamation of stone and plant matter takes the shape of an old man leaning on an
 equally huge staff._
 
-**Jinushigami**
-
 **Challenge rating:** 20
 
 **Size:** gargantuan

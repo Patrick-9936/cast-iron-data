@@ -30,8 +30,6 @@ special_qualities = "bardic knowledge +2, hold breath, versatile performance (pe
 abilities = ["18", "12", "15", "9", "8", "14"]
 +++
 
-**Lizardfolk Rattler**
-
 **Challenge rating:** 5
 
 **Lizardfolk [bard](ref/class/bard) 4**

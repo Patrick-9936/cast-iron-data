@@ -30,8 +30,6 @@ abilities = ["12", "23", "23", "18", "19", "22"]
 
 _This regal woman exhibits the grace and pride of the forest's most ancient trees._
 
-**Hamadryad**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic good

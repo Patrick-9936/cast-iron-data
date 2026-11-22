@@ -29,8 +29,6 @@ special_qualities = "hold breath, nature bond (Swamp domain), nature sense, swam
 abilities = ["15", "13", "12", "10", "15", "12"]
 +++
 
-**Boggard Swampseer**
-
 **Challenge rating:** 4
 
 **Boggard [druid](ref/class/druid) 3**

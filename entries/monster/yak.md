@@ -29,8 +29,6 @@ abilities = ["27", "10", "19", "2", "11", "4"]
 _These shaggy-haired relatives to cows are more at home in mountainous terrain where they are
 frequently used as pack animals and to pull plows._
 
-**Yak**
-
 **Challenge rating:** 4
 
 **Type:** animal

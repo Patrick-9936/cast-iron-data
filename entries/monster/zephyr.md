@@ -32,8 +32,6 @@ abilities = ["25", "28", "23", "14", "20", "21"]
 _This blue-furred horse with a cloud-like mane and tail has gray, human-like eyes that show obvious
 intelligence._
 
-**Zephyr**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic neutral

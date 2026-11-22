@@ -37,8 +37,6 @@ abilities = ["14", "19", "15", "5", "14", "6"]
 _Skin pale as a slug's belly, eyes huge and bulging, this thing crawls down the wall like a spider,
 but its shape is hideously humanoid._
 
-**Morlock**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

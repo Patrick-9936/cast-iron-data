@@ -28,8 +28,6 @@ special_attacks = "might of the gods (+11, 11 rounds/day)~scythe of evil (5 roun
 abilities = ["18", "8", "14", "8", "16", "14"]
 +++
 
-**Chosen of Lamashtu**
-
 **Challenge rating:** 12
 
 **Gnoll [cleric](ref/class/cleric) of [Lamashtu](ref/faith/lamashtu) 11**

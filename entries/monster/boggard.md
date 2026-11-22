@@ -35,8 +35,6 @@ abilities = ["15", "9", "14", "8", "11", "10"]
 _Bulbous eyes glare atop this creature's decidedly toad-like head. A multitude of warts and bumps
 decorate its greenish skin._
 
-**Boggard**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

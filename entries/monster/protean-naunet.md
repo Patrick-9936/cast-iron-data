@@ -34,8 +34,6 @@ abilities = ["20", "17", "20", "11", "16", "15"]
 _Tentacles tipped with snapping jaws emerge from this serpentine creature's back, complementing the
 vicious maw in its reptilian face._
 
-**Naunet**
-
 **Challenge rating:** 7
 
 **blindsense:** 30

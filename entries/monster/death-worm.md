@@ -30,8 +30,6 @@ abilities = ["18", "13", "16", "3", "11", "5"]
 _This large worm's body is muscular and scaly, its mouth a nightmare of row upon row of triangular
 teeth._
 
-**Death Worm**
-
 **Challenge rating:** 6
 
 **Initiative:** +1

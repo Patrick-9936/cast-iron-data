@@ -32,8 +32,6 @@ _This small draconic creature seems better suited for the waves than wind, its w
 its body like massive fins. Light from the water refracts off its resilient-looking cerulean hide as
 it snaps crustacean-like claws._
 
-**Tidepool Dragon**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic neutral

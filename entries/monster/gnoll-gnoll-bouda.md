@@ -29,8 +29,6 @@ special_qualities = "fetish, hyena shape"
 abilities = ["12", "12", "15", "18", "14", "8"]
 +++
 
-**Gnoll Bouda**
-
 **Challenge rating:** 13
 
 **Gnoll [witch](ref/class/witch) ([bouda](ref/arc-witch/bouda)) 12**

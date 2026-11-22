@@ -30,8 +30,6 @@ abilities = ["30", "19", "-", "3", "19", "16"]
 _This desiccated figure wears linen wrappings and tarnished jewelry. Its humanoid body is topped
 with a withered crocodile head._
 
-**Cursed King**
-
 **Challenge rating:** 10
 
 **aura:** demanding aura (30 ft., DC 20, 1d4 rounds)

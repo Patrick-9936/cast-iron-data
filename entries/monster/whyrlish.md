@@ -32,8 +32,6 @@ abilities = ["31", "24", "23", "5", "22", "12"]
 _This translucent, jellyfish-like creature has a shimmering purple and blue bell-like body that
 sports a nest of sting-tipped tendrils._
 
-**Whyrlish**
-
 **Challenge rating:** 15
 
 **Type:** aberration

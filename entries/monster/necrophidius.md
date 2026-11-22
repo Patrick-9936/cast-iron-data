@@ -30,8 +30,6 @@ abilities = ["16", "17", "-", "-", "11", "1"]
 _The soft scrape of bone reveals the long, sinuous skeleton of a large snake, its head a humanoid
 skull with a snake's jaws._
 
-**Necrophidius**
-
 **Challenge rating:** 3
 
 **Type:** construct

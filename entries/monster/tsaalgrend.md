@@ -33,8 +33,6 @@ abilities = ["15", "15", "15", "3", "10", "8"]
 _Strange, translucent gas bladders carry this tangle of thorny, purple vines and clumps of mold
 through the air._
 
-**Tsaalgrend**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

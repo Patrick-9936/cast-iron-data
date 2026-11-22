@@ -32,8 +32,6 @@ abilities = ["17", "16", "18", "14", "15", "17"]
 
 _Jagged, twisting antlers of dark blue ice crown the helm of this ice-armored humanoid figure._
 
-**Cold Rider**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

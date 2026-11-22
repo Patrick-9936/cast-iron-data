@@ -33,8 +33,6 @@ _The air around this strange, pale animal sparks with erratic flashes of static 
 body constantly twitching as if filled to capacity with the energy. It suddenly perks up, alert and
 seemingly ready to bolt._
 
-**Raiju**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic neutral

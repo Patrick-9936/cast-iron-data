@@ -31,8 +31,6 @@ abilities = ["18", "14", "17", "11", "19", "12"]
 _Four bandy limbs, each splitting at the elbow into two three-fingered forearms, emerge from this
 creature's crystalline body._
 
-**Theletos**
-
 **Challenge rating:** 7
 
 **Initiative:** +6

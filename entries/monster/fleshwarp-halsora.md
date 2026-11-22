@@ -29,8 +29,6 @@ abilities = ["19", "14", "17", "6", "11", "8"]
 _This small, plant-like creature is a bulging mass of vise-like muscle with sunken eyes that
 constantly drip viscous, black tears._
 
-**Halsora**
-
 **Challenge rating:** 7
 
 **Type:** aberration

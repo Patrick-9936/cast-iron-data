@@ -33,8 +33,6 @@ abilities = ["10", "16", "14", "8", "10", "16"]
 _This blue-skinned elf has milk-white eyes, a glowing punching dagger, and a shield embossed with a
 demonic face._
 
-**The Surface Caller**
-
 **Challenge rating:** 7
 
 **Female drow [sorcerer](ref/class/sorcerer) 4/[swashbuckler](ref/class/swashbuckler) 4**

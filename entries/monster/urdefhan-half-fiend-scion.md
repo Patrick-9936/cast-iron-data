@@ -31,8 +31,6 @@ abilities = ["23", "16", "19", "14", "24", "22"]
 _The scent of death pours from this disheveled woman. Leather straps dotted with iron buckles bind
 her lean form._
 
-**Half-Fiend Scion**
-
 **Challenge rating:** 15
 
 **Half-fiend urdefhan [warpriest](ref/class/warpriest) of [Szuriel](ref/faith/szuriel) 12**

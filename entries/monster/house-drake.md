@@ -30,8 +30,6 @@ abilities = ["11", "15", "17", "12", "14", "14"]
 _The eyes of this purple-scaled dragon glint with a mischievous intelligence and the sting of its
 tail has a silvery sheen._
 
-**House Drake**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic good

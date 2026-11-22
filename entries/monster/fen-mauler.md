@@ -30,8 +30,6 @@ abilities = ["27", "18", "20", "7", "17", "8"]
 _This figure looms within the shadows. The bones and teeth of countless creatures clatter from
 tangles within its matted, reeking fur._
 
-**Fen Mauler**
-
 **Challenge rating:** 10
 
 **aura:** [stench](ref/umr/stench) (DC 15, 10 rounds)

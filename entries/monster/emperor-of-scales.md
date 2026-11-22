@@ -35,8 +35,6 @@ forked tongue constantly tests the air for fresh scents. Below the head, where a
 numerous hissing serpents thrash like tendrils of torn flesh. Blood drips from the severed head,
 sizzling as it burns like acid through anything it touches._
 
-**Emperor of Scales**
-
 **Challenge rating:** 15
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 25), maddening hiss (100 ft.,

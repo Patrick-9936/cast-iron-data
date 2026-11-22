@@ -31,8 +31,6 @@ _Shards of broken manacles, links of chain, and iron flails are imbedded in this
 human-sized man's ruddy flesh. Rivulets of congealing blood run from its soaked cap down its mangled
 face and neck, soaking its tangled white beard; in its arms looms a rusty but clearly sharp scythe._
 
-**Grendler Red-Chains**
-
 **Challenge rating:** 11
 
 **Male advanced redcap**

@@ -34,8 +34,6 @@ abilities = ["-", "26", "-", "23", "25", "25"]
 
 _A cloud of translucent humanoid spirits whirls around this ghostly desiccated corpse._
 
-**Nemhain**
-
 **Challenge rating:** 15
 
 **Initiative:** +12

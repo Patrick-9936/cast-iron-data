@@ -31,8 +31,6 @@ abilities = ["20", "7", "15", "-", "10", "2"]
 _Bright red and coated in an opaque yellow slime, this monstrous worm has a menacing pair of barbed
 mandibles._
 
-**Bore Worm Monarch**
-
 **Challenge rating:** 7
 
 **Initiative:** -2

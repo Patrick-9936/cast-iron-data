@@ -31,8 +31,6 @@ abilities = ["12", "14", "15", "7", "14", "11"]
 
 _A prickly cactus's arms are covered in vicious spines._
 
-**Cactus Leshy**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

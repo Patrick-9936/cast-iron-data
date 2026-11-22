@@ -31,8 +31,6 @@ abilities = ["15", "11", "15", "8", "10", "10"]
 _Built of fire and magma, this short humanoid radiates intense heat that causes the air around it to
 shimmer._
 
-**Magmin**
-
 **Challenge rating:** 3
 
 **aura:** searing aura (20 ft., DC 14)

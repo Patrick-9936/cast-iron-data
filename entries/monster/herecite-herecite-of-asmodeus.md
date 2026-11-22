@@ -34,8 +34,6 @@ abilities = ["22", "19", "-", "14", "9", "21"]
 _A palpable sense of despair clings to the rotting frame of this decaying man. Tears of blood run
 from his eye sockets, yet his expression is one of unquenched rage._
 
-**Herecite of Asmodeus**
-
 **Challenge rating:** 9
 
 **aura:** desecration (30 ft.)

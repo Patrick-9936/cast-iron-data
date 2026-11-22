@@ -31,8 +31,6 @@ _A model sailing ship in a display bottle the size of a boot sails the air on va
 Speckles of water move about the deck like a crew, arming a miniature ballista and preparing to take
 aim._
 
-**Ship in a Bottle**
-
 **Challenge rating:** 2
 
 **Type:** construct

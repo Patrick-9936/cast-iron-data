@@ -30,8 +30,6 @@ abilities = ["12", "21", "18", "17", "15", "22"]
 _Empty eyes peer out from beneath the hood of this pale maiden's patchwork cloak. Her hands hold
 what appear to be the shadowy silhouettes of scissors and a sewing needle._
 
-**Sorrow Stitcher**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

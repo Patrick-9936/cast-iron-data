@@ -28,8 +28,6 @@ abilities = ["4", "14", "14", "1", "12", "2"]
 
 _This serpentine fish has a horrific circular mouth filled with hook-like teeth._
 
-**Lamprey**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

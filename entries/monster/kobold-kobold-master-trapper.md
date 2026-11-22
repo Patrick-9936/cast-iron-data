@@ -31,8 +31,6 @@ abilities = ["8", "18", "12", "10", "13", "8"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold Master Trapper**
-
 **Challenge rating:** 4
 
 **Kobold [rogue](ref/class/rogue) 5**

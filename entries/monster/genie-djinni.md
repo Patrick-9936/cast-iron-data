@@ -30,8 +30,6 @@ abilities = ["18", "19", "14", "14", "15", "15"]
 _This creature stands nearly twice as tall as a human, although its lower torso trails away into a
 vortex of mist and wind._
 
-**Djinni**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic good

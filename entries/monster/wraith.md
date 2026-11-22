@@ -33,8 +33,6 @@ abilities = ["-", "16", "-", "14", "14", "21"]
 _This ghostly creature is little more than a dark shape with two flickering pinpoints of light where
 its eyes should be._
 
-**Wraith**
-
 **Challenge rating:** 5
 
 **aura:** [unnatural aura](ref/umr/unnatural-aura) (30 ft.)

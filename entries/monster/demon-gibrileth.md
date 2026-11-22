@@ -32,8 +32,6 @@ abilities = ["24", "19", "24", "13", "16", "17"]
 _This flying, bulbous, tumor-riddled mass has numerous arms, no legs, and a leering, three-eyed
 face._
 
-**Gibrileth**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic evil

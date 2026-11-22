@@ -30,8 +30,6 @@ special_qualities = "favored terrain (forest +2), hunter's bond (wolf animal com
 abilities = ["26", "12", "17", "8", "10", "5"]
 +++
 
-**Ogre Hunter**
-
 **Challenge rating:** 9
 
 **Ogre [ranger](ref/class/ranger) 6**

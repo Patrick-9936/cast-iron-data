@@ -31,8 +31,6 @@ abilities = ["22", "20", "21", "10", "15", "19"]
 _A haze of heat shimmers around this beautiful woman. The glare of the sun gleams from her radiant
 skin._
 
-**Poludnica**
-
 **Challenge rating:** 10
 
 **aura:** sunstroke haze (10 ft., DC 21)

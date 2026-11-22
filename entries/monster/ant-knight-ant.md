@@ -30,8 +30,6 @@ abilities = ["20", "10", "21", "-", "13", "11"]
 _This hulking, wide-headed ant is the size of a horse, its antennae twitching and mandibles
 scarred._
 
-**Knight Ant**
-
 **Challenge rating:** 4
 
 **Initiative:** +0

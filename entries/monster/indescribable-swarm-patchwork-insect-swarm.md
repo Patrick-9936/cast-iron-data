@@ -30,8 +30,6 @@ abilities = ["3", "9", "11", "-", "12", "4"]
 _This collection of insects is composed of a variety of centipedes, beetles, and other bugs, each of
 which bears humanoid arms, legs, eyes, or even faces._
 
-**Patchwork Insect Swarm**
-
 **Challenge rating:** 1/2
 
 **Size:** diminutive

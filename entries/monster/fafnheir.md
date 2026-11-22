@@ -30,8 +30,6 @@ abilities = ["45", "30", "36", "18", "27", "29"]
 _The scales of this craggy serpentine dragon are scarred and blackened. Its eyes flare with
 nightmarish power, and its mouth drips with liquid flame._
 
-**Fafnheir**
-
 **Challenge rating:** 24
 
 **Alignment:** Chaotic evil

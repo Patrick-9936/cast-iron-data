@@ -31,8 +31,6 @@ abilities = ["11", "17", "14", "14", "13", "16"]
 
 _This bloated spider has a hunchbacked body and a gleam of intelligence in its multiple eyes._
 
-**Aranea**
-
 **Challenge rating:** 4
 
 **Initiative:** +7

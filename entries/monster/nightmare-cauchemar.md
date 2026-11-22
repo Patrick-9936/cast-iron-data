@@ -29,8 +29,6 @@ abilities = ["31", "15", "21", "16", "12", "12"]
 
 _This towering, burning equine stands upon smoking hooves. Hellfire shimmers in its hateful eyes._
 
-**Cauchemar**
-
 **Challenge rating:** 11
 
 **Size:** huge

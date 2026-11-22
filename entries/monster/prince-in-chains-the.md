@@ -32,8 +32,6 @@ abilities = ["28", "16", "26", "13", "16", "20"]
 _Animate, rusting chains simultaneously bind and lash out from this gigantic, skinless, wolf-like
 monstrosity._
 
-**The Prince in Chains**
-
 **Challenge rating:** 15
 
 **aura:** chainstorm (15 ft., DC 25)

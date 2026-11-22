@@ -35,8 +35,6 @@ abilities = ["21", "17", "21", "18", "16", "24"]
 _This eerie creature has the upper body of a beautiful, pale green woman, but her lower body is a
 pulsating mound of fungus._
 
-**Fungus Queen**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

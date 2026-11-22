@@ -30,8 +30,6 @@ special_qualities = "fast movement, hold breath"
 abilities = ["21", "14", "19", "9", "12", "8"]
 +++
 
-**Lizardfolk Vanguard**
-
 **Challenge rating:** 2
 
 **Lizardfolk [barbarian](ref/class/barbarian) 1**

@@ -31,8 +31,6 @@ abilities = ["26", "7", "-", "-", "11", "1"]
 _Resembling an unearthed vein of dull gray minerals, this crude, hunchbacked humanoid figure uses
 its arms to support itself._
 
-**Lead Golem**
-
 **Challenge rating:** 10
 
 **Type:** construct

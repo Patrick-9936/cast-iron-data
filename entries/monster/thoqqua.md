@@ -30,8 +30,6 @@ abilities = ["13", "13", "15", "6", "12", "10"]
 _This creature's thick, serpentine body is protected by dense, horny plates. A visible haze of heat
 rises from its red-hot scales._
 
-**Thoqqua**
-
 **Challenge rating:** 2
 
 **aura:** molten body

@@ -31,8 +31,6 @@ abilities = ["14", "13", "15", "10", "11", "10"]
 _A whirling cloud of fine desert sand piles up upon itself, forming into the shape of a humanoid
 figure._
 
-**Sandman**
-
 **Challenge rating:** 3
 
 **aura:** sleep (20 ft., DC 14)

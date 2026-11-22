@@ -30,8 +30,6 @@ abilities = ["12", "15", "11", "-", "10", "8"]
 
 _A blue-green vine covered with stiff, verdant leaves and barbed thorns protrudes from this hedge._
 
-**Bramblelash**
-
 **Challenge rating:** 1
 
 **Initiative:** +2

@@ -32,8 +32,6 @@ abilities = ["15", "18", "16", "10", "9", "18"]
 _Wily and well groomed, this diminutive blue-tinged man exudes detached patience. A wicked-looking
 crossbow and blood-stained manacles enhance his aura of quiet menace._
 
-**Derro Bodysnatcher**
-
 **Challenge rating:** 10
 
 **Derro [rogue](ref/class/rogue) 7**

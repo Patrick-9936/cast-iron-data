@@ -29,8 +29,6 @@ abilities = ["35", "13", "24", "-", "10", "2"]
 _A massive tarantula covered in bristly hairs strides forward with deliberate steps, its eight eyes
 scanning for prey._
 
-**Giant Tarantula**
-
 **Challenge rating:** 8
 
 **Size:** gargantuan

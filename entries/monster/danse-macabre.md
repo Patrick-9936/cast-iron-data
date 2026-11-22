@@ -34,8 +34,6 @@ _Dozens of ghostly figures swirl and cavort, floating through the air as they fo
 ancient, rhythmic dance, seemingly keeping time with the ebb and flow of life itself. Amid this
 eerie crowd of dancing specters looms a dark-cloaked figure wielding a scythe._
 
-**Danse Macabre**
-
 **Challenge rating:** 14
 
 **aura:** dance of death (40 ft., DC 27)

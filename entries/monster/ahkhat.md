@@ -35,8 +35,6 @@ abilities = ["17", "13", "18", "8", "12", "13"]
 _The materials of the building stretch and pull as if elastic, taking on the form of an earthen
 humanoid with thick stony arms._
 
-**Ahkhat**
-
 **Challenge rating:** 4
 
 **Initiative:** +5

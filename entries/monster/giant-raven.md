@@ -33,8 +33,6 @@ abilities = ["14", "15", "14", "2", "15", "9"]
 _This glossy, jet-black bird stands as tall as a dwarf. Its eerily intelligent black eyes are quick
 to take in everything around it._
 
-**Giant Raven**
-
 **Challenge rating:** 1
 
 **Type:** animal

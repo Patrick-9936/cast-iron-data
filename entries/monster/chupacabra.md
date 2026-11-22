@@ -33,8 +33,6 @@ abilities = ["13", "16", "14", "3", "15", "6"]
 _This lizard-like creature stalks forward upon two muscular legs, a mane of spikes running down its
 scaly back._
 
-**Chupacabra**
-
 **Challenge rating:** 3
 
 **Initiative:** +7

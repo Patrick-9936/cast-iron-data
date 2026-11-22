@@ -30,8 +30,6 @@ abilities = ["-", "19", "-", "6", "15", "17"]
 
 _A vague humanoid shape composed of whirling dust and shards of bone hovers menacingly in the air._
 
-**Choking Shade**
-
 **Challenge rating:** 5
 
 **Initiative:** +8

@@ -30,8 +30,6 @@ abilities = ["15", "6", "18", "1", "8", "5"]
 _Pale and glistening with moisture, this slug-like creature stares vacantly as a droning moan
 escapes its slobbering lips._
 
-**Grothlut**
-
 **Challenge rating:** 3
 
 **Type:** aberration

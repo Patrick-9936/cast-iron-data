@@ -31,8 +31,6 @@ abilities = ["2", "11", "10", "-", "11", "2"]
 _Like a cloud of black dust, a swirling swarm of insects hovers in the air. From within comes the
 low, droning buzz of thousands of tiny flies._
 
-**Botfly Swarm**
-
 **Challenge rating:** 4
 
 **Size:** fine

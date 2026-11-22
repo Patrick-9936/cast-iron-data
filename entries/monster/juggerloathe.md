@@ -30,8 +30,6 @@ abilities = ["32", "13", "26", "5", "19", "12"]
 _This massive spiked creature has smoking black pits for eyes, an enormous maw, and a tail that
 appears to be an armored cobra._
 
-**Juggerloathe**
-
 **Challenge rating:** 16
 
 **Alignment:** Chaotic evil

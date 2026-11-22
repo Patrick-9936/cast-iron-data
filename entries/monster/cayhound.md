@@ -31,8 +31,6 @@ abilities = ["21", "15", "16", "8", "12", "13"]
 _This reddish-colored mastiff stands eye to eye with most dwarves. Within its powerful frame rumbles
 the distant sound of thunder._
 
-**Cayhound**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic good

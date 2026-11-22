@@ -32,8 +32,6 @@ abilities = ["15", "16", "18", "17", "15", "16"]
 _This enormous book has wings of glowing light and an angelic figure on the cover that gazes out
 watchfully as though alive._
 
-**Codex Archon**
-
 **Challenge rating:** 5
 
 **aura:** aura of menace (DC 17), _[magic circle against evil](ref/spell/magic-circle-against-evil)_

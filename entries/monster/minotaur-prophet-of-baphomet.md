@@ -30,8 +30,6 @@ abilities = ["23", "10", "13", "9", "18", "10"]
 _This white-maned minotaur's gilt-edged robes project elegance and terror in equal measure. The
 cloud of heady incense about her form doesn't conceal the distinct scent of brimstone._
 
-**Prophet of Baphomet**
-
 **Challenge rating:** 13
 
 **Minotaur [cleric](ref/class/cleric) of [Baphomet](ref/faith/baphomet) 11**

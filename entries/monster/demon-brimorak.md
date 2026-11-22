@@ -34,8 +34,6 @@ abilities = ["17", "16", "19", "12", "12", "15"]
 _This muscular, red-eyed, goat-headed demon wields a burning sword. Fire licks up from its flaming
 hooves._
 
-**Brimorak**
-
 **Challenge rating:** 5
 
 **aura:** smoke breath (5 ft., DC 17)

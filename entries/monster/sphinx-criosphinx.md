@@ -29,8 +29,6 @@ abilities = ["23", "10", "17", "12", "12", "11"]
 _This creature has the wings of a bird, the body of a lion, and the head of a ram with sad, wise
 eyes._
 
-**Criosphinx**
-
 **Challenge rating:** 7
 
 **Initiative:** +0

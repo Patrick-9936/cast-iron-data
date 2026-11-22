@@ -30,8 +30,6 @@ abilities = ["27", "15", "22", "12", "17", "18"]
 _This sleek, three-headed dragon rears up on its hind legs, wings spread and flames licking out from
 behind three sets of fangs._
 
-**Gorynych**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic evil

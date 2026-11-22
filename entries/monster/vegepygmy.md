@@ -29,8 +29,6 @@ abilities = ["11", "14", "12", "8", "11", "11"]
 _Short, thin, and green, this small humanoid wields a spear. Tendrils of fungus dangle from its
 arms, midsection, and legs._
 
-**Vegepygmy**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +2

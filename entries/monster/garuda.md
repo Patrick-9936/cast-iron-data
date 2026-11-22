@@ -35,8 +35,6 @@ abilities = ["16", "21", "20", "15", "14", "17"]
 _This winged creature has clawed hands and bird's talons. Large, glinting eyes and a serrated beak
 dominate its avian face._
 
-**Garuda**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic good

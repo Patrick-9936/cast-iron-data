@@ -29,8 +29,6 @@ abilities = ["23", "11", "18", "2", "10", "9"]
 _This bulky, thick-skinned, flippered creature has on its face two enormous tusks and what looks
 like a coarse mustache._
 
-**Walrus (AA)**
-
 **Challenge rating:** 4
 
 **Type:** animal

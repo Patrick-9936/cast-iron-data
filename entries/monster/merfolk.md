@@ -35,8 +35,6 @@ abilities = ["13", "13", "14", "10", "9", "10"]
 _Slipping in and out of the crashing waves, this beautiful woman has the lower torso of a long,
 slender fish._
 
-**Merfolk**
-
 **Challenge rating:** 1/3
 
 **Merfolk [warrior](ref/npcclass/warrior) 1**

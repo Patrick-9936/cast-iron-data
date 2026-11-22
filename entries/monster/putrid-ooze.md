@@ -33,8 +33,6 @@ abilities = ["32", "9", "24", "-", "1", "1"]
 
 _Masses of carrion and debris break the inky surface of this enormous, undulating sludge._
 
-**Putrid Ooze**
-
 **Challenge rating:** 11
 
 **blindsight:** 60

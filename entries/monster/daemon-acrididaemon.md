@@ -31,8 +31,6 @@ abilities = ["20", "23", "24", "14", "18", "21"]
 _This wicked creature has the claws and mandibles of an enormous insect, and its lower body is made
 entirely of swarming locusts._
 
-**Acrididaemon**
-
 **Challenge rating:** 14
 
 **Initiative:** +10

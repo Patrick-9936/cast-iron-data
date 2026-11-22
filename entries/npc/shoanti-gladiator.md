@@ -17,8 +17,6 @@ cr = "2"
 
 _This shaven-headed brute wields a massive spiked hammer and bears scars from dozens of battles._
 
-**Shoanti Gladiator**
-
 **Challenge rating:** 2
 
 **XP** 600\

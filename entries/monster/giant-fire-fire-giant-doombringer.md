@@ -30,8 +30,6 @@ special_qualities = "oracle's curse (tongues), revelations (doomsayer [30 ft., s
 abilities = ["31", "15", "23", "10", "16", "22"]
 +++
 
-**Fire Giant Doombringer**
-
 **Challenge rating:** 18
 
 **[Fire giant](ref/monster/giant-fire-fire-giant) [oracle](ref/class/oracle) 16**

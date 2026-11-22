@@ -28,8 +28,6 @@ abilities = ["25", "10", "17", "2", "13", "6"]
 _This armored creature has a bony, turtle-like shell from which protrude short limbs, a blunt head,
 and a short spiky tail._
 
-**Glyptodon**
-
 **Challenge rating:** 6
 
 **Type:** animal

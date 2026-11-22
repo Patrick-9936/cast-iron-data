@@ -29,8 +29,6 @@ abilities = ["15", "19", "15", "-", "10", "2"]
 _Black and yellow stripes cover this winged insect's bulbous abdomen, which ends in a dagger-sized
 stinger._
 
-**Giant Ground Wasp**
-
 **Challenge rating:** 4
 
 **Initiative:** +4

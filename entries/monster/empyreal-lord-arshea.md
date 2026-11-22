@@ -30,8 +30,6 @@ abilities = ["40", "34", "41", "31", "34", "37"]
 
 _Blue-gray wings extend over the jeweled bangles and gossamer veils of this androgynous angel._
 
-**Arshea**
-
 **Challenge rating:** 29
 
 **aura:** primal aura (30 ft.), protective aura (20 ft.)

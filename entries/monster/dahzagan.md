@@ -32,8 +32,6 @@ abilities = ["21", "14", "18", "7", "16", "19"]
 _This winged horror has the upper body of a feral, bloody-mouthed female orc warrior and the lower
 body of a giant wolf._
 
-**Dahzagan**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

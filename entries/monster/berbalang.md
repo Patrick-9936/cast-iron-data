@@ -29,8 +29,6 @@ abilities = ["17", "19", "-", "13", "16", "18"]
 _This hunched, bat-winged horror moves with an uncanny grace, its glowing eyes and long tongue
 presenting a frightening visage._
 
-**Berbalang**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

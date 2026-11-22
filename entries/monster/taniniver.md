@@ -29,8 +29,6 @@ abilities = ["33", "11", "25", "18", "17", "20"]
 _This legless, winged, white-eyed dragon is covered in patches of diseased flesh, squirming with
 maggots and oozing pus._
 
-**Taniniver**
-
 **Challenge rating:** 18
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 25)

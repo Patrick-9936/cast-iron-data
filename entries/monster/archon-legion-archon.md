@@ -33,8 +33,6 @@ abilities = ["16", "12", "19", "10", "15", "17"]
 _This celestial knight bears a flaming blade as it flies through the air on metallic wings that seem
 to grow from its armor._
 
-**Legion Archon**
-
 **Challenge rating:** 7
 
 **aura:** aura of menace (DC 17)

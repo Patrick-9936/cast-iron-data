@@ -31,8 +31,6 @@ abilities = ["26", "16", "21", "17", "14", "17"]
 
 _This multi-eyed eel's brightly colored markings shift in complex, ever-changing patterns._
 
-**Abaia**
-
 **Challenge rating:** 10
 
 **Size:** huge

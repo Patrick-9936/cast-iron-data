@@ -32,8 +32,6 @@ abilities = ["29", "24", "21", "14", "20", "19"]
 _This unnatural beast's clawed hands dangle in front of its hind paws. Its bat-winged form blends
 humanoid features with canine._
 
-**Leng Hound**
-
 **Challenge rating:** 10
 
 **Type:** aberration

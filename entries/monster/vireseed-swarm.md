@@ -30,8 +30,6 @@ abilities = ["1", "13", "18", "-", "10", "13"]
 _A wave of wing-like seedpods whips through the air, each tipped by a miniscule thorn and propelled
 by a rapidly lashing tendril._
 
-**Vireseed Swarm**
-
 **Challenge rating:** 5
 
 **blindsense:** 60

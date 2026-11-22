@@ -31,8 +31,6 @@ abilities = ["8", "14", "11", "9", "12", "7"]
 _This bipedal lizard has mottled gray-and-brown flesh. A short dorsal fin runs the length of its
 body and its forelimbs look like hands._
 
-**Muckdweller**
-
 **Challenge rating:** 1/4
 
 **Initiative:** +2

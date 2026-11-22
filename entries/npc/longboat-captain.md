@@ -17,8 +17,6 @@ cr = "4"
 
 _This proud Ulfen captain stands alert on the deck of her dragonprowed longship, bow at the ready._
 
-**Longboat Captain**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

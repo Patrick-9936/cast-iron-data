@@ -31,8 +31,6 @@ abilities = ["4", "16", "-", "3", "9", "11"]
 _This brown-and-yellow sludge appears to be made of multiple smaller globules churning in a
 disgusting communal mass._
 
-**Undigested Swarm**
-
 **Challenge rating:** 5
 
 **Initiative:** +3

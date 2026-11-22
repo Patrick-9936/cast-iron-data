@@ -29,8 +29,6 @@ abilities = ["24", "10", "24", "2", "16", "9"]
 _This bull-like creature seems to be made of interlocking metallic plates. Faint plumes of green
 smoke puff from its mouth._
 
-**Gorgon**
-
 **Challenge rating:** 8
 
 **Initiative:** +4

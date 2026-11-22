@@ -31,8 +31,6 @@ abilities = ["18", "19", "18", "15", "17", "15"]
 _Dark scales marked with shining spots resembling stars cover this winged serpent. Faint red stripes
 span the length of its body._
 
-**Mix Couatl**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic good

@@ -34,8 +34,6 @@ abilities = ["7", "11", "14", "2", "9", "6"]
 _This plump, gray, flightless bird waddles about on ungainly legs, fearlessly bobbing its prodigious
 beak._
 
-**Dodo**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

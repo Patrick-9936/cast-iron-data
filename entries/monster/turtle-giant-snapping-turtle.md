@@ -29,8 +29,6 @@ abilities = ["32", "6", "21", "1", "13", "6"]
 
 _This lumbering turtle is the size of a house; its head features powerful, razor-sharp beak._
 
-**Giant Snapping Turtle**
-
 **Challenge rating:** 9
 
 **Type:** animal

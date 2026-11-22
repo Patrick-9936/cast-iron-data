@@ -32,8 +32,6 @@ abilities = ["31", "22", "23", "17", "14", "18"]
 _This obese humanoid has a wide mouth, bat-like wings, and pale fluid seeping from rolls of black,
 greasy skin._
 
-**Gristly Demodand**
-
 **Challenge rating:** 17
 
 **Alignment:** Chaotic evil

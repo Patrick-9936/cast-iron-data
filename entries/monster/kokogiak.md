@@ -33,8 +33,6 @@ ten legs, each ending in massive, jet-black claws. Its head, with slavering jaws
 dripping silvery foam, sits at the end of a long yet thickly muscled neck. Its dead black eyes are
 small but infinite pits of malice._
 
-**Kokogiak**
-
 **Challenge rating:** 12
 
 **Size:** huge

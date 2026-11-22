@@ -31,8 +31,6 @@ abilities = ["46", "29", "40", "29", "30", "31"]
 _This blond woman's pitch-black eyes weep tears of blood, and a massive pair of raven's wings
 spreads from her shoulders._
 
-**Szuriel**
-
 **Challenge rating:** 28
 
 **aura:** [frightful presence](ref/umr/frightful-presence), (120 ft., DC 36), unholy aura (DC 28)

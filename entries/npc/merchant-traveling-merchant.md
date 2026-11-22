@@ -15,8 +15,6 @@ kind = "creature"
 cr = "5"
 +++
 
-**Merchant (Traveling Merchant)**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

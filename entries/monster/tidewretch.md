@@ -30,8 +30,6 @@ abilities = ["16", "14", "-", "7", "13", "18"]
 _This ancient, empty-eyed woman appears to have flesh made from damp, rotting wood, and sparse
 clumps of seaweed serve as her hair._
 
-**Tidewretch**
-
 **Challenge rating:** 6
 
 **Initiative:** +6

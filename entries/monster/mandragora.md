@@ -33,8 +33,6 @@ abilities = ["15", "18", "17", "8", "13", "10"]
 _This filthy creature resembles a small, wide-mouthed fat child made from leaves, vines, tree bark,
 dirt, and pallid tubers._
 
-**Mandragora**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

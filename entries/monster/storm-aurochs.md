@@ -30,8 +30,6 @@ abilities = ["31", "15", "20", "3", "22", "8"]
 _Lighting crackles in the eyes of this enormous bull, whose body seems composed of dark storm
 clouds._
 
-**Storm Aurochs**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic neutral

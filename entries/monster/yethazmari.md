@@ -32,8 +32,6 @@ abilities = ["26", "20", "22", "17", "23", "22"]
 _This starving, jackal-like monstrosity has a fanged snake where its tail should be, tattered wings,
 and smoking eye sockets._
 
-**Yethazmari**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic evil

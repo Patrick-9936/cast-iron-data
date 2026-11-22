@@ -30,8 +30,6 @@ abilities = ["21", "23", "20", "16", "19", "18"]
 _A contemplative humanoid face framed by a cobra-like hood adorns the body of this long, brightly
 colored serpent._
 
-**Guardian Naga**
-
 **Challenge rating:** 10
 
 **Type:** aberration

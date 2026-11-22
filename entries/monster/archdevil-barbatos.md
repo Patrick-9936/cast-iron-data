@@ -31,8 +31,6 @@ abilities = ["30", "29", "38", "29", "30", "31"]
 _This humanoid wears a shabby hooded cloak. Within the darkness of its hood, eerie eyes glow and
 strange shapes twitch._
 
-**Barbatos**
-
 **Challenge rating:** 26
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 35), unholy aura (DC 28)

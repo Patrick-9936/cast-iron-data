@@ -31,8 +31,6 @@ abilities = ["24", "17", "-", "-", "11", "1"]
 _The torso of this constructed gastropod is elongated and eerily humanoid. Smog pours from the
 shell-like posterior of the machine, while toxic green ooze courses through its translucent pipes._
 
-**Clockwork Snail**
-
 **Challenge rating:** 10
 
 **Type:** construct

@@ -31,8 +31,6 @@ abilities = ["16", "13", "18", "14", "15", "13"]
 _This snake-bodied humanoid hisses with anger. Spines of crackling flame dance along the creature's
 blackened, fiery-red scales._
 
-**Salamander**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

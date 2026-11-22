@@ -33,8 +33,6 @@ abilities = ["17", "16", "17", "11", "14", "12"]
 _This creature has a stag's body, a hawk's wings and talons, and the head of a slavering wolf with a
 rack of sharp antlers on its brow._
 
-**Peryton**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

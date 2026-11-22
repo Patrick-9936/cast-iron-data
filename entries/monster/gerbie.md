@@ -31,8 +31,6 @@ abilities = ["6", "16", "13", "11", "16", "21"]
 _This half-mouse, half-lizard creature has large eyes and stands on its hind legs, radiating an air
 of goodwill._
 
-**Gerbie**
-
 **Challenge rating:** 4
 
 **aura:** friendship (60 ft., DC 18)

@@ -30,8 +30,6 @@ abilities = ["14", "11", "16", "15", "20", "15"]
 _A swollen, brain-like bulb encrusted with fungal shelves squats atop several ropy legs. A wide
 mouth bisects the bulb's crown._
 
-**Cerebric Fungus**
-
 **Challenge rating:** 3
 
 **aura:** unsettling appearance (60 ft., DC 14)

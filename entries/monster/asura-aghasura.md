@@ -30,8 +30,6 @@ abilities = ["34", "17", "23", "11", "14", "18"]
 _This immense creature looks like a horned rattlesnake, save for its two muscular arms, each of
 which wields a scimitar._
 
-**Aghasura**
-
 **Challenge rating:** 11
 
 **aura:** attraction (50 ft.), elusive (75 ft.)

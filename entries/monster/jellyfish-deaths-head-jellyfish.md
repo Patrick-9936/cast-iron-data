@@ -30,8 +30,6 @@ abilities = ["12", "17", "16", "-", "10", "1"]
 
 _This long-tentacled jellyfish has a wide bell with a vaguely skull-shaped pattern on it._
 
-**Death's Head Jellyfish**
-
 **Challenge rating:** 1
 
 **Initiative:** +3

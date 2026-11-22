@@ -31,8 +31,6 @@ abilities = ["19", "12", "17", "10", "13", "10"]
 _What appeared to be a chest filled with treasure comes to life as it grows long, glistening
 tentacles and a number of sharp teeth._
 
-**Mimic**
-
 **Challenge rating:** 4
 
 **Type:** aberration

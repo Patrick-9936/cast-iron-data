@@ -30,8 +30,6 @@ abilities = ["17", "10", "15", "2", "11", "14"]
 _This black-and-white-furred bear is about as long in the body as an average human - but much
 rounder._
 
-**Panda**
-
 **Challenge rating:** 2
 
 **Type:** animal

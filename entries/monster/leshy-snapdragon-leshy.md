@@ -33,8 +33,6 @@ abilities = ["8", "15", "14", "12", "13", "17"]
 _Verdant stalks entwine one another to create a humanoid shape with a giant snapdragon blossom for a
 head._
 
-**Snapdragon Leshy**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

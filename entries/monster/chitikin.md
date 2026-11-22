@@ -31,8 +31,6 @@ abilities = ["19", "13", "14", "-", "15", "10"]
 _Eighteen segmented legs support this long arthropod's jet-black carapace, the front two of which
 are scythe-like claws, and its slender antennae end in glowing green bulbs._
 
-**Chitikin**
-
 **Challenge rating:** 4
 
 **Initiative:** +1

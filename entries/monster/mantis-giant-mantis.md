@@ -30,8 +30,6 @@ abilities = ["16", "13", "16", "-", "14", "11"]
 _This towering insect walks on its back four legs. Its head is triangular and its front legs sport
 razor-sharp edges and claws._
 
-**Giant Mantis**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

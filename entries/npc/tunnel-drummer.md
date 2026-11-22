@@ -15,8 +15,6 @@ kind = "creature"
 cr = "13"
 +++
 
-**Tunnel Drummer**
-
 **Challenge rating:** 13
 
 **XP** 25,600\

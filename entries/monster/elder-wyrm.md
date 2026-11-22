@@ -31,8 +31,6 @@ abilities = ["43", "34", "30", "17", "22", "25"]
 _This mighty, two-headed dragon has a six-legged serpentine body that ends in a writhing, whip-like
 tail._
 
-**Elder Wyrm**
-
 **Challenge rating:** 24
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 33)

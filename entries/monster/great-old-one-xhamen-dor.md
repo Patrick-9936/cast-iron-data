@@ -31,8 +31,6 @@ abilities = ["36", "30", "45", "19", "28", "25"]
 _A hideous tangle of hair-like fungal filaments writhes with nauseating purpose. Bones lie tangled
 in the wriggling mass, arrayed around a central draconic skull._
 
-**Xhamen-Dor**
-
 **Challenge rating:** 26
 
 **aura:** unspeakable presence (300 ft., DC 31)

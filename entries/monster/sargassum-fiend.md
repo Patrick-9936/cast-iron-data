@@ -30,8 +30,6 @@ abilities = ["25", "14", "20", "2", "11", "15"]
 _This shifting mass of green seaweed transforms from the shape of a humanoid back to a patch of
 algae, continually changing._
 
-**Sargassum Fiend**
-
 **Challenge rating:** 9
 
 **aura:** mirage (300 ft., DC 18)

@@ -30,8 +30,6 @@ special_qualities = "fast movement"
 abilities = ["24", "13", "21", "8", "12", "6"]
 +++
 
-**Gnoll Packlord**
-
 **Challenge rating:** 9
 
 **Gnoll [barbarian](ref/class/barbarian) ([pack rager](ref/arc-barbarian/pack-rager)) 8**

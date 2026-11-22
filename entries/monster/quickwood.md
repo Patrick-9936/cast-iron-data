@@ -29,8 +29,6 @@ abilities = ["29", "8", "21", "12", "15", "12"]
 _Were it not for the image of a sinister face peeking out from its dark gray bark, this would look
 like any other ragged oak tree._
 
-**Quickwood**
-
 **Challenge rating:** 8
 
 **aura:** fear aura (variable distance, DC 20)

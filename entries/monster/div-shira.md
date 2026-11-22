@@ -33,8 +33,6 @@ abilities = ["28", "25", "25", "13", "22", "20"]
 _Moving with deadly grace, this brutal, thickly furred humanoid figure's head is that of a lioness
 with dead black eyes._
 
-**Shira**
-
 **Challenge rating:** 12
 
 **Initiative:** +11

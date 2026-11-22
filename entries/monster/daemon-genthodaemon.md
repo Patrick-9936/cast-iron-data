@@ -30,8 +30,6 @@ abilities = ["18", "11", "16", "11", "12", "15"]
 
 _Jagged bits of metal, armor, and sharp pieces of wire embed the flesh of this towering fiend._
 
-**Genthodaemon**
-
 **Challenge rating:** 5
 
 **aura:** destruction (30 ft.)

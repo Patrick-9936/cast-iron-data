@@ -29,8 +29,6 @@ abilities = ["12", "8", "16", "-", "11", "9"]
 _This mushroom grows from a bed of tentacular roots. Deep violet tendrils slither out of the dozens
 of fissures in its pointed cap._
 
-**Violet Fungus**
-
 **Challenge rating:** 3
 
 **Initiative:** -1

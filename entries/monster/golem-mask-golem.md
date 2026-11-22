@@ -32,8 +32,6 @@ The masks are mostly iron, but some - such as the hands, knees, and feet - are m
 with gold. The mask that makes up its head is made of porcelain with gold trim and has a large
 sapphire set into its brow. At the creature moves, the masks seem to shift and stare._
 
-**Mask Golem**
-
 **Challenge rating:** 4
 
 **Type:** construct

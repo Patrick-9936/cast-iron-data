@@ -34,8 +34,6 @@ abilities = ["26", "15", "25", "6", "20", "21"]
 _This strange, alien-looking monstrosity has thickly armored hide and several sharp talons at the
 end of each of its stumpy legs._
 
-**Goezspall**
-
 **Challenge rating:** 14
 
 **Initiative:** +2

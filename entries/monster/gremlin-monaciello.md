@@ -29,8 +29,6 @@ abilities = ["6", "15", "14", "11", "12", "13"]
 _Dressed in red robes like those of a monk, this little monster displays a sharp-toothed smile and
 flips a gold coin in its hand._
 
-**Monaciello**
-
 **Challenge rating:** 1
 
 **aura:** stymie channeling (20 ft.; DC 12)

@@ -29,8 +29,6 @@ abilities = ["18", "17", "14", "2", "15", "9"]
 _This streamlined reptile has a long, serpentine neck, at the end of which glares a many-fanged
 head._
 
-**Plesiosaurus**
-
 **Challenge rating:** 2
 
 **Type:** animal

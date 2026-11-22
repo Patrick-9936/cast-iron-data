@@ -29,8 +29,6 @@ abilities = ["23", "12", "18", "2", "15", "7"]
 _This long-necked reptile swims through the water propelled by four paddle-like feet, whipping a
 long and slender tail behind it as it gnashes its sharp, needle-like teeth._
 
-**Nothosaur**
-
 **Challenge rating:** 5
 
 **Type:** animal

@@ -32,8 +32,6 @@ abilities = ["22", "10", "16", "6", "10", "7"]
 _This hulking mix of ogre and crab has one huge pincer that snaps menacingly, while its other arm is
 a twisted, human-like hand._
 
-**Karkinoi**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

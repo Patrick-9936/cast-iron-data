@@ -32,8 +32,6 @@ abilities = ["21", "14", "16", "8", "12", "5"]
 _This lobster-like creature stands as tall as a human. Coils of reaching, pink tendrils slither from
 within its jaws._
 
-**Lesser Chuul**
-
 **Challenge rating:** 4
 
 **Type:** aberration

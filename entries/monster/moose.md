@@ -29,8 +29,6 @@ abilities = ["19", "15", "18", "2", "14", "7"]
 _A slightly goofy, bent-nosed face does little to detract from the imposing height and bulk of this
 ungulate._
 
-**Moose**
-
 **Challenge rating:** 3
 
 **Type:** animal

@@ -28,8 +28,6 @@ abilities = ["26", "11", "18", "2", "13", "3"]
 _This creature is reminiscent of a rhinoceros, but instead of pointed horns on its nose, this
 creature possesses a blunt, bony protrusion._
 
-**Embolotherium**
-
 **Challenge rating:** 5
 
 **Type:** animal

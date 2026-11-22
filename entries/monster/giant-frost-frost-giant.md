@@ -31,8 +31,6 @@ abilities = ["29", "9", "20", "10", "14", "11"]
 _This giant looks like a thick, muscular human. It has frost-white skin and long, light blue hair
 that it wears braided._
 
-**Frost Giant**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

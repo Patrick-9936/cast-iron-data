@@ -32,8 +32,6 @@ _This wolf-like creature's body is composed of thick vines, fine vegetation that
 fur, and enormous thorns. Its eyes shine with a green glow, and prickly vines cover the immense,
 antler-like growths on its head._
 
-**Lythirium**
-
 **Challenge rating:** 11
 
 **Initiative:** +4

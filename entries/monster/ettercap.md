@@ -30,8 +30,6 @@ abilities = ["14", "17", "17", "6", "15", "8"]
 _This hideous purple creature walks upright like a man, but its face is that of a spider, and its
 hands are sickle-shaped claws._
 
-**Ettercap**
-
 **Challenge rating:** 3
 
 **Type:** aberration

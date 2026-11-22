@@ -31,8 +31,6 @@ abilities = ["14", "17", "11", "10", "12", "10"]
 
 _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless._
 
-**Drow House Guard**
-
 **Challenge rating:** 2
 
 **Drow [fighter](ref/class/fighter) 3**

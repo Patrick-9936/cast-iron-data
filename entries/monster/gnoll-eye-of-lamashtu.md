@@ -27,8 +27,6 @@ ranged = "javelin +5 (1d6+3)"
 abilities = ["17", "12", "10", "8", "16", "12"]
 +++
 
-**Eye of Lamashtu**
-
 **Challenge rating:** 5
 
 **Gnoll [cleric](ref/class/cleric) of [Lamashtu](ref/faith/lamashtu) 4**

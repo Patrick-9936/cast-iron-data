@@ -30,8 +30,6 @@ abilities = ["12", "15", "-", "-", "11", "1"]
 _This creature resembles a small, metallic cobra. Its body is made of overlapping iron plates, and
 its eyes are pinpoints of red light._
 
-**Iron Cobra**
-
 **Challenge rating:** 2
 
 **Type:** construct

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "2"
 +++
 
-**Noble (Noble Scion)**
-
 **Challenge rating:** 2
 
 **XP** 600\

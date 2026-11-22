@@ -30,8 +30,6 @@ abilities = ["11", "9", "19", "10", "20", "12"]
 _This diminutive, small-eyed creature is covered in dense, charcoal-gray fur and wears a
 dirt-stained smock; its pink nose twitches ceaselessly._
 
-**Muldnal**
-
 **Challenge rating:** 3
 
 **Initiative:** -1

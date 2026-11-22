@@ -30,8 +30,6 @@ abilities = ["31", "15", "18", "7", "12", "6"]
 _Resembling a bestial ogre with great tusks and thick, bristly hair, this brute seems quite nimble
 despite its cloven hooves._
 
-**Nependis**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

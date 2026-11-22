@@ -33,8 +33,6 @@ abilities = ["15", "20", "13", "14", "10", "19"]
 _This gangly, long-armed creature has a face like a calf's, but with large, forward-facing eyes and
 a mane of lank hair._
 
-**Boggart**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

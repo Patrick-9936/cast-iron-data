@@ -30,8 +30,6 @@ abilities = ["23", "10", "20", "1", "13", "2"]
 _This crocodile is nearly half again as large as a normal crocodile, and seems to smile with its
 long, toothed mouth as it lunges forward._
 
-**Saltwater Crocodile**
-
 **Challenge rating:** 5
 
 **Type:** animal

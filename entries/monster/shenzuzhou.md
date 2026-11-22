@@ -30,8 +30,6 @@ abilities = ["28", "17", "-", "6", "15", "17"]
 _This hulking headless corpse clutches a massive axe in each fist. A grotesquely skinned face
 stretches across the creature's chest._
 
-**Shenzuzhou**
-
 **Challenge rating:** 12
 
 **aura:** fear (30-ft. radius, DC 22)

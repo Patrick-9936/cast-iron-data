@@ -32,8 +32,6 @@ abilities = ["18", "19", "22", "19", "22", "23"]
 _This heavenly warrior appears to be a work of art come to life. She grips a fearsome glaive that
 trails brilliant colors._
 
-**The Spirit of Adoration**
-
 **Challenge rating:** 15
 
 **aura:** charming (30 ft., DC 24, 1 day)

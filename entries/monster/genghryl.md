@@ -31,8 +31,6 @@ abilities = ["20", "15", "19", "6", "14", "15"]
 _A mix of burly and slender tentacles extend from the body of this large, worm-like creature. Rows
 of frightful fangs line the maw beneath its sharp beak._
 
-**Genghryl**
-
 **Challenge rating:** 11
 
 **Initiative:** +6

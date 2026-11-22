@@ -31,8 +31,6 @@ abilities = ["50", "13", "34", "13", "28", "21"]
 _The shattered remnants of buildings and statues can be seen in this shuddering mass of wet, rugged
 rock._
 
-**Plankta**
-
 **Challenge rating:** 17
 
 **Type:** aberration

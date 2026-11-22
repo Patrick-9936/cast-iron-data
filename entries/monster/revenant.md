@@ -34,8 +34,6 @@ abilities = ["24", "17", "-", "7", "12", "19"]
 _This shambling corpse is twisted and mutilated. Fingers of sharpened bone reach out with malevolent
 intent._
 
-**Revenant**
-
 **Challenge rating:** 6
 
 **Initiative:** +7

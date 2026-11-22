@@ -33,8 +33,6 @@ abilities = ["20", "13", "15", "6", "12", "15"]
 _This half-bodied monstrosity with a toothy mouth and stringy hair hops about on its single leg with
 unusual grace._
 
-**Fachen**
-
 **Challenge rating:** 5
 
 **Type:** aberration

@@ -29,8 +29,6 @@ abilities = ["13", "15", "12", "6", "11", "14"]
 
 _This small humanoid creature has thin, leathery wings, small horns, and a mischievous smile._
 
-**Mephit**
-
 **Challenge rating:** 3
 
 **Initiative:** +6

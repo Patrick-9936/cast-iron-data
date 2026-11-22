@@ -32,8 +32,6 @@ abilities = ["22", "17", "25", "14", "16", "21"]
 _This macabre beauty holds her ebon-feathered wings spread behind her. Her skin and clothing are
 soaked and splattered with blood, wine, and other fluids._
 
-**Pallid Angel**
-
 **Challenge rating:** 12
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (30 ft., DC 21)

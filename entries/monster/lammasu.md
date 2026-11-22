@@ -32,8 +32,6 @@ abilities = ["23", "12", "21", "16", "17", "14"]
 _This majestic creature has the body of a lion, the wings of an eagle, and the face of a wise human
 man._
 
-**Lammasu**
-
 **Challenge rating:** 8
 
 **aura:** magic circle against evil (20 ft.)

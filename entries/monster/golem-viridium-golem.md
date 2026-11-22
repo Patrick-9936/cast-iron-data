@@ -29,8 +29,6 @@ abilities = ["35", "20", "-", "-", "11", "1"]
 _This green glass statue has four arms, one of which forms a jagged sword and another that ends in a
 formidable shield._
 
-**Viridium Golem**
-
 **Challenge rating:** 18
 
 **Type:** construct

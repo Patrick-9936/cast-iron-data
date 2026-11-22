@@ -35,8 +35,6 @@ abilities = ["20", "13", "-", "10", "13", "1"]
 _Made of what appears to be burnished brass, this construct resembles a suit of armor with a glowing
 glass orb for an eye._
 
-**Gearsman Robot**
-
 **Challenge rating:** 4
 
 **Type:** construct

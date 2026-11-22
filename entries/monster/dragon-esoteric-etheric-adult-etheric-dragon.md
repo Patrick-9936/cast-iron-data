@@ -29,8 +29,6 @@ special_qualities = "compression"
 abilities = ["30", "11", "22", "19", "16", "17"]
 +++
 
-**Adult Etheric Dragon**
-
 **Challenge rating:** 11
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 20)

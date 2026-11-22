@@ -33,8 +33,6 @@ abilities = ["5", "12", "15", "10", "13", "14"]
 _This sprite-like creature resembles a humanoid the size of a cat, with amber skin, surrounded by an
 aura of tiny bubbles._
 
-**Ataxian**
-
 **Challenge rating:** 4
 
 **blindsense:** 30

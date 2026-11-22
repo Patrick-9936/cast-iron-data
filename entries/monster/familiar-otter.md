@@ -25,8 +25,6 @@ melee = "bite +5 (1d3-4)"
 abilities = ["3", "16", "10", "2", "13", "5"]
 +++
 
-**Otter**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

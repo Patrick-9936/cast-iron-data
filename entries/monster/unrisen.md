@@ -30,8 +30,6 @@ abilities = ["21", "8", "-", "6", "17", "16"]
 _This grotesque tangle of twisted bones, decayed flesh, and rotted organs is shaped into a vague
 parody of the human form._
 
-**Unrisen**
-
 **Challenge rating:** 5
 
 **aura:** awfulness (60 ft., DC 16)

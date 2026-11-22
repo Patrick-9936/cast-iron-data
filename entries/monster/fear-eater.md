@@ -29,8 +29,6 @@ abilities = ["14", "22", "17", "11", "12", "15"]
 
 _A distressingly humanoid face and stubby arms grow from this maggot-like creature's body._
 
-**Fear Eater**
-
 **Challenge rating:** 5
 
 **Type:** fey

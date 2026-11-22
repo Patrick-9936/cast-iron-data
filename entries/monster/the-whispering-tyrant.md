@@ -31,8 +31,6 @@ abilities = ["14", "19", "-", "36", "14", "28"]
 _Clad in ancient leather and bronze and a great horned helm, this withered gray figure is surrounded
 by a palpable aura of death._
 
-**The Whispering Tyrant**
-
 **Challenge rating:** 26
 
 **Mythic rank:** 10

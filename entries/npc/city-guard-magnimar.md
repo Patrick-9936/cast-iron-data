@@ -18,8 +18,6 @@ cr = "1/2"
 _Clad in blue-tinted scale mail and carrying a halberd, this guard patrols the city with a keen
 eye._
 
-**City Guard (Magnimar)**
-
 **Challenge rating:** 1/2
 
 **XP** 200\

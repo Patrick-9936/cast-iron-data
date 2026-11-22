@@ -30,8 +30,6 @@ special_qualities = "armor training 2, slow and steady, stability"
 abilities = ["19", "10", "16", "10", "15", "4"]
 +++
 
-**Duergar Captain**
-
 **Challenge rating:** 8
 
 **Duergar [fighter](ref/class/fighter) 9**

@@ -34,8 +34,6 @@ _Standing amid a roiling fog, this nude, humanoid woman's pale, wet skin glisten
 hair moves about her head as though she were submerged underwater, and rapier in her hand crackles
 with arcane energy._
 
-**Malsandra**
-
 **Challenge rating:** 16
 
 **Rusalka [rogue](ref/class/rogue) 4**

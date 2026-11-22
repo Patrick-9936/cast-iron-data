@@ -25,8 +25,6 @@ melee = "bite +4 (1d3-1)"
 abilities = ["8", "15", "11", "2", "16", "5"]
 +++
 
-**Raccoon**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

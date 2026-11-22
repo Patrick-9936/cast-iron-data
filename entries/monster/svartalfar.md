@@ -31,8 +31,6 @@ abilities = ["12", "21", "17", "18", "14", "21"]
 _This hairless, black-skinned elf-like creature has an expressionless face and wields an eerie ebon
 sword._
 
-**Svartalfar**
-
 **Challenge rating:** 8
 
 **Type:** fey

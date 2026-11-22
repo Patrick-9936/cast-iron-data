@@ -32,8 +32,6 @@ abilities = ["18", "15", "19", "15", "16", "16"]
 _This sleek, white-furred hound stands three feet tall at the shoulder. It paws resemble hands and
 its face seems preternaturally wise._
 
-**Moon Dog**
-
 **Challenge rating:** 9
 
 **Initiative:** +2

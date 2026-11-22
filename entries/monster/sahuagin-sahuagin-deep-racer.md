@@ -33,8 +33,6 @@ abilities = ["17", "17", "18", "14", "15", "6"]
 _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its
 piscine head features a toothy maw._
 
-**Sahuagin Deep Racer**
-
 **Challenge rating:** 4
 
 **Shark-blooded sahuagin [ranger](ref/class/ranger) 2**

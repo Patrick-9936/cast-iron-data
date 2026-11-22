@@ -31,8 +31,6 @@ abilities = ["21", "16", "20", "7", "14", "13"]
 _This rugose figure rears up to a man's height, its large hands bearing far too many twitching
 fingers._
 
-**Dimensional Shambler**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

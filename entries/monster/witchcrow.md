@@ -32,8 +32,6 @@ abilities = ["8", "15", "8", "13", "12", "11"]
 _With a raucous cry and a flurry of feathered wings, this jet-black bird takes to the air, an
 unnatural gleam in its otherworldly eyes._
 
-**Witchcrow**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

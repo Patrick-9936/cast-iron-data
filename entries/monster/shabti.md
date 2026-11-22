@@ -33,8 +33,6 @@ abilities = ["10", "12", "16", "13", "8", "17"]
 
 _Light shimmers across this humanoid figure's bare golden skin, illuminating regal features._
 
-**Shabti**
-
 **Challenge rating:** 1/2
 
 **Shabti [oracle](ref/class/oracle) 1**

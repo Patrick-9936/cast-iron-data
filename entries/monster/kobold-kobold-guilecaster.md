@@ -30,8 +30,6 @@ abilities = ["6", "14", "12", "13", "8", "16"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold Guilecaster**
-
 **Challenge rating:** 5
 
 **Kobold [sorcerer](ref/class/sorcerer) 6**

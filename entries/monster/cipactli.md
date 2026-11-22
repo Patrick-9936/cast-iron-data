@@ -32,8 +32,6 @@ abilities = ["32", "23", "34", "19", "28", "27"]
 _This creature is covered in snapping jaws, from its massive, toothy head to the various mouths that
 open in its body and tail._
 
-**Cipactli**
-
 **Challenge rating:** 21
 
 **Alignment:** Chaotic neutral

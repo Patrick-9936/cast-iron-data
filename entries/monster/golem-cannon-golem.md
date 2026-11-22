@@ -32,8 +32,6 @@ abilities = ["30", "24", "-", "-", "15", "2"]
 _This collection of jagged metal rears up into a humanoid form, its enormous cannon tracking
 movement with mechanical precision._
 
-**Cannon Golem**
-
 **Challenge rating:** 15
 
 **Type:** construct

@@ -31,8 +31,6 @@ abilities = ["15", "13", "16", "-", "11", "2"]
 _Six powerful legs, each ending in a hooked claw, jut from the shield-like body of this horse-sized
 insect._
 
-**Giant Belostomatid**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

@@ -33,8 +33,6 @@ abilities = ["16", "14", "15", "10", "8", "14"]
 _Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant
 eyes._
 
-**Hobgoblin Forerunner**
-
 **Challenge rating:** 6
 
 **Hobgoblin [fighter](ref/class/fighter) 7**

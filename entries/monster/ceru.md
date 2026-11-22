@@ -30,8 +30,6 @@ abilities = ["8", "15", "14", "13", "12", "15"]
 _This pint-sized creature resembles a tiny blue elephant no larger than a house cat. Its feet, tail,
 and ears are clawed and spiked._
 
-**Ceru**
-
 **Challenge rating:** 2
 
 **Initiative:** +6

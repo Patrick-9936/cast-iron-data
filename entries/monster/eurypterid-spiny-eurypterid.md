@@ -31,8 +31,6 @@ special_qualities = "amphibious"
 abilities = ["26", "9", "20", "-", "13", "2"]
 +++
 
-**Spiny Eurypterid**
-
 **Challenge rating:** 9
 
 **Size:** huge

@@ -32,8 +32,6 @@ abilities = ["30", "10", "29", "21", "20", "21"]
 _This tremendous leviathan resembles a vast squid, yet the markings on its body are strangely
 unsettling to look upon._
 
-**Kraken**
-
 **Challenge rating:** 18
 
 **Size:** gargantuan

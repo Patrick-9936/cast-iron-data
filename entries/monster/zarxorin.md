@@ -32,8 +32,6 @@ abilities = ["42", "10", "25", "7", "11", "10"]
 _This titanic earthen creature is humanoid-shaped with a hunched, pugnacious posture. The enormous
 hump of its back bears a ring of standing stones that crackle faintly with energy._
 
-**Zarxorin**
-
 **Challenge rating:** 19
 
 **Size:** colossal

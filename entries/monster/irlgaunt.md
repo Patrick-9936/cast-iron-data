@@ -35,8 +35,6 @@ a thing of angry red flesh and soft pink tendrils. Two gaping orifices full of t
 lower body - a mouth-like slit surrounded by numerous narrow red eyes and, above that, an oozing
 alien aperture._
 
-**Irlgaunt**
-
 **Challenge rating:** 13
 
 **Type:** aberration

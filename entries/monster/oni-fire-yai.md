@@ -32,8 +32,6 @@ abilities = ["31", "16", "26", "14", "17", "15"]
 _This fanged, three-eyed giant rages in its finely crafted armor, its skin as red as a smoldering
 ember._
 
-**Fire Yai**
-
 **Challenge rating:** 15
 
 **Initiative:** +7

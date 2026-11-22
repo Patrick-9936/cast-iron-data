@@ -31,8 +31,6 @@ abilities = ["19", "22", "21", "16", "18", "15"]
 _This sinewy humanoid with putrid green skin and a grotesque, shrew-like snout wears little more
 than a colorful silk sarong and a thin, flexible blade worn as a belt._
 
-**Zalyakavat**
-
 **Challenge rating:** 13
 
 **Initiative:** +10

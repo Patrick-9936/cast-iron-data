@@ -31,8 +31,6 @@ abilities = ["18", "15", "20", "14", "11", "13"]
 _This crimson-footed, nine-legged monstrosity has an egg-shaped body covered in dirty white fur. Its
 eyeless face, pig-like snout, and toothy maw make for a disturbing visage._
 
-**Wamp**
-
 **Challenge rating:** 6
 
 **Type:** aberration

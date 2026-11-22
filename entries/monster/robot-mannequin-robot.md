@@ -30,8 +30,6 @@ abilities = ["15", "12", "-", "10", "11", "1"]
 
 _This impassive humanoid has shiny, pale skin and an eerily expressionless face._
 
-**Mannequin Robot**
-
 **Challenge rating:** 2
 
 **Type:** construct

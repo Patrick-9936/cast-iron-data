@@ -32,8 +32,6 @@ abilities = ["43", "21", "26", "3", "16", "14"]
 _Three pairs of wings beat rhythmically, churning up hurricane-force winds around this vast,
 bird-like monstrosity._
 
-**Tempest Behemoth**
-
 **Challenge rating:** 22
 
 **blindsense:** 60

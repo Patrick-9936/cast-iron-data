@@ -30,8 +30,6 @@ abilities = ["19", "21", "-", "-", "23", "16"]
 _A larger-than-life wooden carving of a mermaid holding a spear clambers forward, the vibrant paint
 coating her frame encrusted in years' worth of sea salt._
 
-**Ship Sentinel**
-
 **Challenge rating:** 7
 
 **Type:** construct

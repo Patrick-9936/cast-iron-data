@@ -32,8 +32,6 @@ abilities = ["50", "33", "44", "15", "32", "31"]
 _This impossibly enormous, whale-like monstrosity glares with a hundred red eyes, its cavernous maw
 lined with rows of sharp teeth._
 
-**Leviathan**
-
 **Challenge rating:** 30
 
 **Size:** colossal

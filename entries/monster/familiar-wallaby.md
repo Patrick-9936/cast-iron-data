@@ -31,8 +31,6 @@ abilities = ["8", "14", "11", "2", "10", "4"]
 _This bipedal mammal has a long tail, short arms, and long, limber legs that afford a strange
 hopping gait._
 
-**Wallaby**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

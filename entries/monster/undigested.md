@@ -31,8 +31,6 @@ abilities = ["4", "12", "-", "3", "9", "11"]
 
 _A jumble of melted bones and skull fragments float amid an oozing brown and yellow slurry._
 
-**Undigested**
-
 **Challenge rating:** 1/4
 
 **Initiative:** +1

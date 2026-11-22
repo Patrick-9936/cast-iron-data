@@ -17,8 +17,6 @@ cr = "2"
 
 _Golden eagles shine proudly on the steel armor of this blue-uniformed soldier._
 
-**Eagle Knight**
-
 **Challenge rating:** 2
 
 **XP** 600\

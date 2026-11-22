@@ -31,8 +31,6 @@ abilities = ["21", "18", "16", "7", "16", "15"]
 _This human-sized, mosquito-like creature has a long, flexible proboscis that ends in a murderous
 stinger._
 
-**Blightspawn of Ghlaunder**
-
 **Challenge rating:** 5
 
 **Type:** aberration

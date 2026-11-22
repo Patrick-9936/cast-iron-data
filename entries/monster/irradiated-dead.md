@@ -30,8 +30,6 @@ abilities = ["20", "16", "-", "7", "15", "17"]
 _This humanoid creature's pale orange, withered skin peels from its flesh in patches. Its yellow
 eyes stare, unblinking but seething with rage._
 
-**Irradiated Dead**
-
 **Challenge rating:** 7
 
 **Initiative:** +7

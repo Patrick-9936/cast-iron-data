@@ -30,8 +30,6 @@ abilities = ["28", "11", "25", "20", "21", "28"]
 _This towering, shapely, purple-skinned woman has an insectile lower body, antennae on her brow, and
 the wings of a bee._
 
-**Thriae Queen**
-
 **Challenge rating:** 18
 
 **Size:** huge

@@ -30,8 +30,6 @@ abilities = ["26", "19", "21", "18", "18", "23"]
 _This tall, human-like creature has long, feathery wings and a gentle inner radiance that makes it
 difficult to look directly at._
 
-**Astral Deva**
-
 **Challenge rating:** 14
 
 **aura:** protective aura

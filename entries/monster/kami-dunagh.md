@@ -30,8 +30,6 @@ abilities = ["-", "17", "14", "11", "17", "16"]
 _This spectral woman holds a silver urn and floats in midair with an unearthly grace and demanding
 presence._
 
-**Dunagh**
-
 **Challenge rating:** 4
 
 **aura:** fate (20 ft., DC 15)

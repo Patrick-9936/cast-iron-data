@@ -30,8 +30,6 @@ abilities = ["6", "14", "-", "-", "11", "1"]
 
 _This crimson-skinned genie has an artificial, sculpted appearance._
 
-**Mechanical Efreeti**
-
 **Challenge rating:** 1
 
 **Type:** construct

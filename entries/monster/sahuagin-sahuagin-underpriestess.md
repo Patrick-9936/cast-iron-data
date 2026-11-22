@@ -32,8 +32,6 @@ abilities = ["18", "10", "17", "14", "18", "11"]
 _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its
 piscine head features a toothy maw._
 
-**Sahuagin Underpriestess**
-
 **Challenge rating:** 5
 
 **Sahuagin [cleric](ref/class/cleric) 4**

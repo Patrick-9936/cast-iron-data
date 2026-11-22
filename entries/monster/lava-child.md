@@ -32,8 +32,6 @@ abilities = ["15", "12", "14", "10", "13", "13"]
 _This squat, clawed humanoid is hunched and pink-skinned, with an oversized head. Its face is that
 of a fanged and insane human baby, and its mouth opens far wider than it should._
 
-**Lava Child**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

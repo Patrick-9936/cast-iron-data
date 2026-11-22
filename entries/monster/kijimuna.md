@@ -33,8 +33,6 @@ _At first glance, this creature appears to be a mischievously smiling young chil
 hair clad only in a grass skirt. A closer look reveals goblinoid ears and a mouth full of pointed
 teeth._
 
-**Kijimuna**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

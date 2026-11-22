@@ -28,8 +28,6 @@ abilities = ["3", "16", "10", "2", "13", "7"]
 
 _This small, furry creature has enormous glossy eyes, long legs, and elongated fingers._
 
-**Tarsier**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

@@ -31,8 +31,6 @@ abilities = ["18", "16", "-", "13", "15", "12"]
 _This construct resembles a large cat. Its body coloring and the glowing core in the center of its
 head constantly shift in color._
 
-**Stalker Automaton**
-
 **Challenge rating:** 5
 
 **Type:** construct

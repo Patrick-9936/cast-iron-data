@@ -29,8 +29,6 @@ abilities = ["16", "14", "13", "4", "13", "7"]
 
 _This hunched-over wretch has long, pliable arms like tentacles capped with five wide, spiny claws._
 
-**Choker**
-
 **Challenge rating:** 2
 
 **Type:** aberration

@@ -32,8 +32,6 @@ abilities = ["23", "23", "22", "20", "18", "21"]
 _This hideously gaunt woman has tangled white hair, goat-like horns, and menacing eyes that blaze
 with green light._
 
-**Dreamthief Hag**
-
 **Challenge rating:** 11
 
 **Initiative:** +6

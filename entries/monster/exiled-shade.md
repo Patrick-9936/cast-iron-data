@@ -31,8 +31,6 @@ abilities = ["-", "17", "-", "7", "14", "19"]
 _Gray and black shadows and mist coalesce into a humanoid figure, its face a distorted mask of rage
 and hatred._
 
-**Exiled Shade**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

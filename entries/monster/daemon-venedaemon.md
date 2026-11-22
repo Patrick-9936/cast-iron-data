@@ -33,8 +33,6 @@ abilities = ["13", "15", "16", "22", "16", "17"]
 _Tentacles protrude from the robes of this floating hooded figure in place of arms and legs. Its
 face is a disturbing, toothless maw._
 
-**Venedaemon**
-
 **Challenge rating:** 5
 
 **Initiative:** +2

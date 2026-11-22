@@ -31,8 +31,6 @@ abilities = ["8", "16", "13", "9", "12", "12"]
 _This creature's stout canine torso tops a slimy mass resembling an earthworm. Disgusting veins
 dangle from its face._
 
-**Esipil**
-
 **Challenge rating:** 2
 
 **Initiative:** +7

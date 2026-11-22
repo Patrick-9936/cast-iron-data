@@ -28,8 +28,6 @@ abilities = ["17", "12", "16", "2", "13", "5"]
 
 _This gray, human-sized porcupine's round body is covered in sharp, striped quills._
 
-**Giant Porcupine**
-
 **Challenge rating:** 2
 
 **Type:** animal

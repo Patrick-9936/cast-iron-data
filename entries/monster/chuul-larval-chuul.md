@@ -32,8 +32,6 @@ abilities = ["15", "16", "14", "3", "12", "5"]
 _This dog-sized creature resembles a soft-shelled lobster with underdeveloped claws and an oversized
 pair of mandibles._
 
-**Larval Chuul**
-
 **Challenge rating:** 1
 
 **Type:** aberration

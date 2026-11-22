@@ -15,8 +15,6 @@ kind = "creature"
 cr = "4"
 +++
 
-**Fighting School (Battle Monk)**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

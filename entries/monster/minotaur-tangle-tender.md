@@ -30,8 +30,6 @@ abilities = ["17", "14", "18", "12", "12", "8"]
 _The cold eyes of this minotaur are without fear or emotion. An arsenal of devices rattle from its
 belt, not the least of which is its mechanical monstrosity of a crossbow._
 
-**Tangle Tender**
-
 **Challenge rating:** 10
 
 **Minotaur [rogue](ref/class/rogue) ([trapsmith](ref/arc-rogue/trapsmith)) 8**

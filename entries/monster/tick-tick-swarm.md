@@ -31,8 +31,6 @@ abilities = ["1", "14", "16", "-", "11", "1"]
 _The rasping legs of this hideous, shining carpet of fist-sized ticks rattle ominously as the swarm
 skitters forward._
 
-**Tick Swarm**
-
 **Challenge rating:** 9
 
 **Size:** fine

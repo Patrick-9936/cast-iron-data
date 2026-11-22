@@ -29,8 +29,6 @@ special_qualities = "borne aloft, change shape"
 abilities = ["27", "10", "21", "20", "21", "20"]
 +++
 
-**Adult Sky Dragon**
-
 **Challenge rating:** 13
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 23)

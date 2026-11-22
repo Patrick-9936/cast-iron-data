@@ -33,8 +33,6 @@ abilities = ["20", "21", "21", "19", "16", "22"]
 _This blue-skinned woman has ram's horns, a third eye in her forehead, and a long, scaled tail that
 ends in a hissing viper's head._
 
-**Erodaemon**
-
 **Challenge rating:** 11
 
 **Initiative:** +9

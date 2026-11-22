@@ -32,8 +32,6 @@ _The water churns and splashes as a small, stocky humanoid surges forth, gnashin
 needle-like teeth, its eye sockets merely deep gouges. As if it were one with the water itself, it
 darts quickly forward, shouting curses and swinging its fists._
 
-**Tikoloshe**
-
 **Challenge rating:** 3
 
 **blindsense:** 60

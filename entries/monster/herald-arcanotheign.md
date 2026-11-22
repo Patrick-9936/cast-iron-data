@@ -34,8 +34,6 @@ abilities = ["-", "27", "22", "31", "20", "27"]
 _This cloud of swirling energy flickers like lightning, with raw magical power playing across its
 form._
 
-**Arcanotheign**
-
 **Challenge rating:** 15
 
 **aura:** energy channel (30 ft., DC 26)

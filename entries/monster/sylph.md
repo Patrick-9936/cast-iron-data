@@ -32,8 +32,6 @@ abilities = ["8", "17", "10", "15", "14", "10"]
 _This pale, waifish woman, her hair waving in a non-existent breeze, looks as if she might fade away
 into mist entirely at any minute._
 
-**Sylph**
-
 **Challenge rating:** 1/2
 
 **Sylph [rogue](ref/class/rogue) 1**

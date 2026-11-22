@@ -30,8 +30,6 @@ abilities = ["21", "19", "18", "19", "18", "19"]
 _This angelic being has smooth skin, a muscular body, and large golden wings, and wields a large
 mace._
 
-**Monadic Deva**
-
 **Challenge rating:** 12
 
 **aura:** protective aura

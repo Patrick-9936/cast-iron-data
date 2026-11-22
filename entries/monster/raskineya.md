@@ -31,8 +31,6 @@ abilities = ["31", "12", "23", "20", "17", "20"]
 _This spined dragon has black scales that pulse with green light. Her tattered wings show a
 starscape that whirls in mad patterns._
 
-**Raskineya, the Dark Comet**
-
 **Challenge rating:** 16
 
 **Mythic rank:** 6

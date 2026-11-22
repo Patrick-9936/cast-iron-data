@@ -34,8 +34,6 @@ canopy of the trees suddenly coils itself into a large mass dangling high above.
 maw emerges from the center of the fecund mass, numerous thick, grasping vines whipping through the
 air._
 
-**Canopy Creeper**
-
 **Challenge rating:** 8
 
 **Size:** huge

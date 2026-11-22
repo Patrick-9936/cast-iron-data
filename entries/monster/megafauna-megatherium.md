@@ -28,8 +28,6 @@ abilities = ["25", "10", "19", "2", "13", "6"]
 _The great sloth, standing on its hind legs, can reach the treetops with its agile tongue to grab at
 foliage._
 
-**Megatherium**
-
 **Challenge rating:** 5
 
 **Type:** animal

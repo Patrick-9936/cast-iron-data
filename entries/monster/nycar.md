@@ -32,8 +32,6 @@ abilities = ["13", "16", "12", "5", "10", "9"]
 _This cruel-looking serpent is about the size of a housecat, with two forearms and dangerous-looking
 fangs._
 
-**Nycar**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

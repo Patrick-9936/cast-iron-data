@@ -36,8 +36,6 @@ abilities = ["20", "16", "18", "11", "14", "13"]
 _This vermin-like creature has iridescent, membranous wings and its many sharp teeth drip with
 noxious slime._
 
-**Vescavor Queen**
-
 **Challenge rating:** 9
 
 **aura:** chaos (10 ft.), gibber (15 ft., DC 20)

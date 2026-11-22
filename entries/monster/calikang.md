@@ -32,8 +32,6 @@ abilities = ["25", "15", "20", "8", "14", "17"]
 _This blue-skinned, six-armed giant lurches to life, its armor and twin swords glittering with
 jewels._
 
-**Calikang**
-
 **Challenge rating:** 12
 
 **Initiative:** +6

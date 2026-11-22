@@ -28,8 +28,6 @@ abilities = ["6", "15", "12", "2", "13", "3"]
 
 _This eerie-looking squid has red eyes and webbing between its hook-lined tentacles._
 
-**Vampire Squid**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

@@ -28,8 +28,6 @@ abilities = ["34", "13", "22", "2", "13", "9"]
 _Surging out of the water, this massive lizard is shaped like a giant fish with a powerful, toothed
 maw._
 
-**Tylosaurus**
-
 **Challenge rating:** 8
 
 **Type:** animal

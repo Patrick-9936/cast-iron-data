@@ -34,8 +34,6 @@ abilities = ["24", "17", "18", "23", "18", "21"]
 _This serpentine creature has the lower body of a snake, a humanoid torso, and a bird-like head and
 claws._
 
-**Imentesh**
-
 **Challenge rating:** 10
 
 **blindsense:** 30

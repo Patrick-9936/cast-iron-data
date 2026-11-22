@@ -28,8 +28,6 @@ abilities = ["13", "15", "12", "2", "14", "7"]
 _With large bulging eyes to spot prey from afar, this oversized, smooth-scaled lizard has splayed,
 padded feet and a toothy maw._
 
-**Giant Gecko**
-
 **Challenge rating:** 1
 
 **Type:** animal

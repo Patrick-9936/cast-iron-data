@@ -31,8 +31,6 @@ abilities = ["15", "10", "17", "6", "13", "12"]
 _A fleshy pseudopod tipped with a jawless mouth and ringed by dozens of eyes emerges from a spiny
 shell along with several hooked legs._
 
-**Deinochos**
-
 **Challenge rating:** 5
 
 **blindsense:** 30

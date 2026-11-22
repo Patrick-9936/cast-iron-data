@@ -29,8 +29,6 @@ abilities = ["20", "15", "18", "14", "17", "9"]
 
 _This enormous owl has a silent gracefulness and wisdom about it despite its considerable size._
 
-**Giant Owl**
-
 **Challenge rating:** 5
 
 **Size:** huge

@@ -31,8 +31,6 @@ abilities = ["25", "12", "19", "16", "17", "16"]
 _This magnificent dragon is covered in splendid gold scales, and horns jut from its head like a
 crown._
 
-**Young Sovereign Dragon**
-
 **Challenge rating:** 11
 
 **Type:** dragon

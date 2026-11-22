@@ -30,8 +30,6 @@ abilities = ["13", "18", "15", "12", "16", "21"]
 _This crone has avian features, including a long nose resembling a beak, clawed hands, and bird-like
 feet._
 
-**Kikimora**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic neutral

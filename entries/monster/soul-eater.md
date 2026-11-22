@@ -32,8 +32,6 @@ abilities = ["13", "22", "14", "12", "11", "11"]
 _Two elongated and deathly pallid arms protrude from this creature's smoky body as it slithers
 silently through the air._
 
-**Soul Eater**
-
 **Challenge rating:** 7
 
 **Initiative:** +10

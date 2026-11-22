@@ -30,8 +30,6 @@ abilities = ["20", "15", "21", "10", "14", "11"]
 
 _The body of a spear-wielding woman rises from the front of this monstrously huge scorpion._
 
-**Girtablilu**
-
 **Challenge rating:** 8
 
 **Initiative:** +6

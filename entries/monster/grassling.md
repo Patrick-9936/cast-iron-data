@@ -30,8 +30,6 @@ abilities = ["12", "18", "15", "10", "13", "17"]
 _This child-sized creature is made of long green stalks of loosely woven grass. It has four arms,
 each with fingers like long blades, and leaves circle its head like a crown._
 
-**Grassling**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic neutral

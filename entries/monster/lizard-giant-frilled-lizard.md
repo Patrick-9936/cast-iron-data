@@ -30,8 +30,6 @@ abilities = ["21", "13", "19", "2", "14", "10"]
 _This bright-eyed lizard is larger than a horse. As it hisses in anger, a brightly colored frill
 extends around its neck._
 
-**Giant Frilled Lizard**
-
 **Challenge rating:** 5
 
 **Type:** animal

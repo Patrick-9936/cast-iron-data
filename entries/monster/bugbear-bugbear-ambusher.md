@@ -33,8 +33,6 @@ abilities = ["20", "14", "16", "10", "16", "6"]
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with
 the thrill of the coming kill._
 
-**Bugbear Ambusher**
-
 **Challenge rating:** 10
 
 **Bugbear [ranger](ref/class/ranger) ([trapper](ref/arc-ranger/trapper)) 8**

@@ -30,8 +30,6 @@ abilities = ["42", "9", "29", "18", "28", "29"]
 _Tentacles and eyes cover this floating, fungoid monster, and its vast mouth opens like a toothy
 cavern._
 
-**Mu Spore**
-
 **Challenge rating:** 21
 
 **blindsight:** 240

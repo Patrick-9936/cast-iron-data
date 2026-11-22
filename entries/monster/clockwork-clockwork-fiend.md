@@ -31,8 +31,6 @@ abilities = ["32", "26", "-", "-", "11", "1"]
 
 _Resembling a metallic horned devil, this apparatus whirs with the sound of internal mechanisms._
 
-**Clockwork Fiend**
-
 **Challenge rating:** 17
 
 **Type:** construct

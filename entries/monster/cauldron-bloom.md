@@ -31,8 +31,6 @@ abilities = ["42", "15", "27", "15", "14", "14"]
 _Three thick vines sprout from this massive cylindrical plant's base. Ruddy light flickers beneath
 its sloping armored sides, and it exudes a palpable aura of magic._
 
-**Cauldron Bloom**
-
 **Challenge rating:** 15
 
 **blindsight:** 120

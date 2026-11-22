@@ -28,8 +28,6 @@ abilities = ["15", "14", "15", "-", "11", "2"]
 
 _Long spines jut from the legs and back of this enormous cricket._
 
-**Giant Ground Cricket**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

@@ -27,8 +27,6 @@ abilities = ["1", "8", "12", "-", "12", "2"]
 
 _Undulating patterns of purple and orange luminescence play across this strange mushroom's gills._
 
-**Dweomer Cap**
-
 **Challenge rating:** 1/8
 
 **Initiative:** -1

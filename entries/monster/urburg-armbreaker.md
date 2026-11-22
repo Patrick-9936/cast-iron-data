@@ -33,8 +33,6 @@ abilities = ["29", "12", "27", "6", "12", "10"]
 _This heavily scarred, towering giant wears the hide of a black dragon, and wields a massive club
 studded with dragon's teeth._
 
-**Urburg Armbreaker, Hill Giant Chieftain**
-
 **Challenge rating:** 13
 
 **Male hill giant [barbarian](ref/class/barbarian)

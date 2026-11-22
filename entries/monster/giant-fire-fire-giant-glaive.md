@@ -29,8 +29,6 @@ special_attacks = "heated rock~pole fighting -4"
 abilities = ["29", "13", "25", "12", "16", "10"]
 +++
 
-**Fire Giant Glaive**
-
 **Challenge rating:** 12
 
 **[Fire giant](ref/monster/giant-fire-fire-giant) [fighter](ref/class/fighter)

@@ -31,8 +31,6 @@ abilities = ["36", "30", "33", "3", "28", "21"]
 _This slug-like creature leaves a swath of tar wherever he goes, and his upper body opens into a
 gaping, sludge-dripping mouth._
 
-**Thuskchoon**
-
 **Challenge rating:** 21
 
 **aura:** cloak of chaos (DC 23)

@@ -33,8 +33,6 @@ abilities = ["21", "19", "-", "11", "10", "14"]
 _A thick tangle of discolored entrails clings to this lurching skeleton's torso and winds upward to
 loll from its jaw like a clawed tongue._
 
-**Mohrg**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

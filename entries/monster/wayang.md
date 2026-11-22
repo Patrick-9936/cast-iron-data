@@ -31,8 +31,6 @@ abilities = ["8", "16", "12", "17", "8", "13"]
 
 _Spiralling patterns cover this shadowy humanoid's skin, and its black hair trails away in wisps._
 
-**Wayang**
-
 **Challenge rating:** 1/2
 
 **Male wayang illusionist 1**

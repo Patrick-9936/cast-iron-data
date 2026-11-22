@@ -37,8 +37,6 @@ behind the intact eye lenses as the head starts to rise. The same glow behind th
 illuminates a gaping mouth and bony fangs. Then a terrifying, painful hiss assaults your mind as the
 serpent slithers forward with a silent, unearthly grace._
 
-**Hollow Serpent**
-
 **Challenge rating:** 16
 
 **aura:** desiccation (30 ft., 1d4 Cha damage, Fort DC 26 negates)

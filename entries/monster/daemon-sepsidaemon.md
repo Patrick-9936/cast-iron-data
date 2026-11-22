@@ -30,8 +30,6 @@ abilities = ["18", "19", "18", "13", "14", "17"]
 _A long-beaked, crested head on a twisted neck rises from a formless, glowing mass of a body. Now
 and then, a grasping claw extends forth._
 
-**Sepsidaemon**
-
 **Challenge rating:** 7
 
 **aura:** septic wounds (30 ft.)

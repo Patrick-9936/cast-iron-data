@@ -30,8 +30,6 @@ abilities = ["15", "22", "20", "15", "14", "25"]
 _This strangely beautiful old woman is composed completely of blossoms, bark, and antler-like
 branches._
 
-**Toshigami**
-
 **Challenge rating:** 15
 
 **Initiative:** +10

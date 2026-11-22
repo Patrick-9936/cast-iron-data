@@ -30,8 +30,6 @@ abilities = ["14", "17", "14", "13", "13", "18"]
 
 _Wrapped in tatters of dark musty robes, this humanoid figure weaves malevolent magic._
 
-**Dark Caller**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

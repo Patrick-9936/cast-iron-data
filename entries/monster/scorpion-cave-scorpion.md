@@ -29,8 +29,6 @@ abilities = ["11", "10", "13", "-", "10", "2"]
 _This man-sized, bulky scorpion has thick, unyielding armor that makes it almost seem to be made of
 stone._
 
-**Cave Scorpion**
-
 **Challenge rating:** 1
 
 **Initiative:** +0

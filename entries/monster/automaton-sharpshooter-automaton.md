@@ -33,8 +33,6 @@ abilities = ["18", "20", "-", "17", "19", "18"]
 _This construct resembles a humanoid with a large crossbow built into its arm. It floats with no
 apparent mechanism._
 
-**Sharpshooter Automaton**
-
 **Challenge rating:** 15
 
 **Type:** construct

@@ -32,8 +32,6 @@ abilities = ["25", "19", "22", "10", "14", "22"]
 _This sagely stone giant wears loose furs and a long cloak, and wields a large stone club covered
 with crystals._
 
-**Rahstalshan, Stone Giant Elder**
-
 **Challenge rating:** 14
 
 **Female [stone giant](ref/monster/giant-stone-giant) elder [sorcerer](ref/class/sorcerer) 10**

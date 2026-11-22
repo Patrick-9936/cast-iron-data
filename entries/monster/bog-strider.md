@@ -33,8 +33,6 @@ It stands just over five feet tall, holding its head and thorax upright while cl
 intricately carved hunting spear in two clawed forelimbs. Powerful mandibles click in rhythm with
 the reed-thin antennae waving upon its head as if testing the air for the scent of prey._
 
-**Bog Strider**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

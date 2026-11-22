@@ -31,8 +31,6 @@ abilities = ["19", "12", "15", "9", "12", "10"]
 _This creature stands like a man, yet is half again the height of most men and covered with a coat
 of thick white fur._
 
-**Yeti**
-
 **Challenge rating:** 4
 
 **Initiative:** +1

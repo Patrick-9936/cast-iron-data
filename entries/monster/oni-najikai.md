@@ -30,8 +30,6 @@ abilities = ["20", "20", "20", "18", "19", "17"]
 
 _This scaly-skinned humanoid has long venomous fangs, claws, and unblinking reptilian eyes._
 
-**Najikai**
-
 **Challenge rating:** 8
 
 **Initiative:** +9

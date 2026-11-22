@@ -31,8 +31,6 @@ abilities = ["16", "1", "26", "-", "1", "1"]
 _A seemingly mundane puddle, patch of moist stone, or glistening rock is suddenly revealed to be
 more as a terrible pseudopod lashes out._
 
-**Gray Ooze**
-
 **Challenge rating:** 4
 
 **blindsight:** 60

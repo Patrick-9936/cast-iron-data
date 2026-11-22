@@ -31,8 +31,6 @@ abilities = ["10", "21", "15", "8", "12", "15"]
 _Amid this hissing cloud of glistening cockroaches is a disheveled vagrant with wasp-like stingers
 extending from its palms._
 
-**Morgodea**
-
 **Challenge rating:** 4
 
 **aura:** cockroach cloud (5 ft.)

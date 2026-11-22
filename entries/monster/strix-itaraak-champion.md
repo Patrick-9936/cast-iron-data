@@ -32,8 +32,6 @@ abilities = ["14", "20", "14", "8", "12", "8"]
 _Armored in sun-bleached bones and smelling of stale blood, this scarred man with massive wings
 keeps his bow at the ready._
 
-**Itaraak Champion**
-
 **Challenge rating:** 9
 
 **Strix [slayer](ref/class/slayer) 10**

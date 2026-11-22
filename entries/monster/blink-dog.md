@@ -29,8 +29,6 @@ abilities = ["12", "15", "14", "10", "13", "11"]
 _This sleek canine has a coarse, tawny coat, pointed ears, and pale eyes. A faint blue nimbus seems
 to dance upon its fur._
 
-**Blink Dog**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

@@ -35,8 +35,6 @@ abilities = ["29", "29", "31", "26", "20", "24"]
 _This hideous shape has the head of a feral elk with jagged teeth and sharp antlers. Its humanoid
 legs end in blackened, burnt stumps._
 
-**Wendigo**
-
 **Challenge rating:** 17
 
 **blindsight:** 60

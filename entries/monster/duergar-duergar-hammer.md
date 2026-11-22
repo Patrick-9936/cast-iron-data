@@ -30,8 +30,6 @@ special_qualities = "born in darkness, earth glide, fade from sight, fast moveme
 abilities = ["14", "20", "14", "10", "15", "4"]
 +++
 
-**Duergar Hammer**
-
 **Challenge rating:** 11
 
 **Duergar [monk](ref/class/monk) ([gray disciple](ref/arc-monk/gray-disciple)) 12**

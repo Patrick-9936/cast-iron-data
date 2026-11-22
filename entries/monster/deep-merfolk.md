@@ -30,8 +30,6 @@ abilities = ["17", "20", "16", "11", "10", "11"]
 
 _This gaunt mermaid has a long, semi-transparent tail with a vivid red crest and caudal fin._
 
-**Deep Merfolk**
-
 **Challenge rating:** 3
 
 **blindsense:** 30

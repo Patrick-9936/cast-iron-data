@@ -30,8 +30,6 @@ abilities = ["-", "20", "-", "13", "13", "21"]
 _An expression of intense malevolence crosses the face of this small, insubstantial spirit, which
 looks unsettlingly like that of a gnome._
 
-**Waldgeist**
-
 **Challenge rating:** 8
 
 **greensight:** 60

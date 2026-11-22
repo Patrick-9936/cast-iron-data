@@ -30,8 +30,6 @@ abilities = ["28", "12", "-", "14", "24", "20"]
 
 _This titanic golden statue of a great knight moves of its own accord and hefts a mighty warhammer._
 
-**Lawgiver**
-
 **Challenge rating:** 15
 
 **Type:** construct

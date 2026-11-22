@@ -30,8 +30,6 @@ abilities = ["18", "8", "21", "-", "1", "1"]
 _A cloud of fine dust particles hangs in the air around this seething mass of sawdust and wood
 shavings._
 
-**Sawdust Slough**
-
 **Challenge rating:** 4
 
 **aura:** choking chaff (5 ft., DC 18)

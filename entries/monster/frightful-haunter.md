@@ -31,8 +31,6 @@ abilities = ["-", "17", "-", "15", "17", "16"]
 _The mist forms a roughly humanoid shape. Its features are indistinct, except for its clawed hands
 and hairy, fanged face._
 
-**Frightful Haunter**
-
 **Challenge rating:** 8
 
 **aura:** cowardice (30 ft.)

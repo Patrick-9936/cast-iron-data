@@ -30,8 +30,6 @@ abilities = ["36", "10", "20", "-", "10", "2"]
 _This towering scorpion's carapace is as black as coal, and its claws are each as long as a man's
 body._
 
-**Black Scorpion**
-
 **Challenge rating:** 15
 
 **Size:** colossal

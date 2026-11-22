@@ -31,8 +31,6 @@ abilities = ["16", "29", "20", "16", "17", "23"]
 _This willowy, lavender-skinned stranger looks like he is dressed for an extravagant ball, and
 carries himself with a dancer's grace._
 
-**Candlestone Courtier**
-
 **Challenge rating:** 12
 
 **Type:** fey

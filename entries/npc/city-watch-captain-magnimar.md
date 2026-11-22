@@ -18,8 +18,6 @@ cr = "4"
 _Confident and careful, this guard captain has a determined gait and wields a crossbow in addition
 to her fine blades._
 
-**City Watch Captain (Magnimar)**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

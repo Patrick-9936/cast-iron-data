@@ -31,8 +31,6 @@ abilities = ["25", "14", "19", "13", "16", "18"]
 _A crocodilian head surmounts this creature's draconic body. Thick scales cover its mottled brown
 and green hide, and a muscular tail sways menacingly behind it._
 
-**Vorvorak**
-
 **Challenge rating:** 10
 
 **Size:** huge

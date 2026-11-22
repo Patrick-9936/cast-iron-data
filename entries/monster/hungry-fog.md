@@ -30,8 +30,6 @@ abilities = ["-", "4", "18", "-", "1", "1"]
 _Horrid shapes form within this cloying green mist, which pulses sporadically and with seeming
 voracity._
 
-**Hungry Fog**
-
 **Challenge rating:** 6
 
 **aura:** bewitching brume (10 ft., DC 8)

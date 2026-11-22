@@ -28,8 +28,6 @@ abilities = ["5", "14", "13", "2", "13", "13"]
 
 _This curious, sand-colored, weasel-like creature has dark bands around its inquisitive eyes._
 
-**Meerkat**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

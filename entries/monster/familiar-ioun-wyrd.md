@@ -32,8 +32,6 @@ abilities = ["4", "15", "-", "3", "14", "5"]
 _This strange creature appears as a floating swarm of gemstones surrounding a larger stone that
 pulses with dim light._
 
-**Ioun Wyrd**
-
 **Challenge rating:** 1/3
 
 **blindsight:** 30

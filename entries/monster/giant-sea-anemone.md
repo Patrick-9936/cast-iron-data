@@ -31,8 +31,6 @@ abilities = ["12", "15", "18", "-", "10", "2"]
 _This giant, tubular creature ends in a mass of thick and brilliantly colored tendrils arrayed
 around an enormous, toothless maw._
 
-**Giant Sea Anemone**
-
 **Challenge rating:** 2
 
 **blindsight:** 30

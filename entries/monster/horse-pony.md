@@ -30,8 +30,6 @@ abilities = ["13", "13", "14", "2", "11", "4"]
 _This squat equine plods forward with large, curious eyes. As it nears, it extends its muzzle,
 clearly expecting a treat._
 
-**Pony**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

@@ -29,8 +29,6 @@ abilities = ["-", "18", "-", "10", "11", "14"]
 
 _A broken mask gives this smoky, ghostly figure a bitter, unwavering gaze._
 
-**Apostasy Wraith**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

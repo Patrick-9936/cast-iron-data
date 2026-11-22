@@ -32,8 +32,6 @@ abilities = ["33", "19", "30", "17", "26", "14"]
 _This hulking minotaur's hooves are clad in imposing steel. The massive beast wears a heavy bronze
 mask that covers most of its face._
 
-**Labyrinth Minotaur**
-
 **Challenge rating:** 16
 
 **Alignment:** Chaotic evil

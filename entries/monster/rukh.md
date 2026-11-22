@@ -31,8 +31,6 @@ abilities = ["34", "15", "20", "2", "13", "11"]
 
 _This gigantic two-headed vulture has greasy, night-black wings and sharp talons._
 
-**Rukh**
-
 **Challenge rating:** 10
 
 **Size:** gargantuan

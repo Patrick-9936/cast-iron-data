@@ -32,8 +32,6 @@ abilities = ["16", "13", "13", "10", "10", "9"]
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with
 the thrill of the coming kill._
 
-**Bugbear**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

@@ -31,8 +31,6 @@ _Dressed entirely in gray worn robes, a tiny, otherworldly man stands cloaked in
 his head crowned by a mane of wild, fiery-orange hair and his green eyes gleaming with madness and
 delight._
 
-**Fyndylsnitch the Shadowking**
-
 **Challenge rating:** 7
 
 **Male leprechaun [sorcerer](ref/class/sorcerer) 5**

@@ -32,8 +32,6 @@ abilities = ["34", "37", "36", "27", "20", "23"]
 _This impeccably formed man has ice-blue skin. Bleeding icicles pierce his lips and form a jagged
 cloak around his waist and legs._
 
-**Inkariax**
-
 **Challenge rating:** 26
 
 **Size:** colossal

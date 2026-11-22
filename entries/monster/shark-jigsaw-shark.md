@@ -30,8 +30,6 @@ abilities = ["15", "14", "13", "1", "12", "2"]
 _Jagged markings decorate the body of this human-sized shark. A multitude of stains on its large
 teeth tell of the frequency and ferocity with which it uses its bite._
 
-**Jigsaw Shark**
-
 **Challenge rating:** 1
 
 **Type:** animal

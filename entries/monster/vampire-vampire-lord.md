@@ -29,8 +29,6 @@ special_qualities = "arcane pool (11 points, +4), change shape (dire bat or wolf
 abilities = ["26", "14", "-", "18", "15", "20"]
 +++
 
-**Vampire Lord**
-
 **Challenge rating:** 15
 
 **Half-elf vampire [magus](ref/class/magus) 14**

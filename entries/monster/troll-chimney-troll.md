@@ -33,8 +33,6 @@ abilities = ["13", "16", "15", "8", "11", "6"]
 _Filth and soot cover this large, emaciated humanoid's pallid skin, and its beady black eyes glint
 with desperate hunger._
 
-**Chimney Troll**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

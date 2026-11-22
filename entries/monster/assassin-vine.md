@@ -31,8 +31,6 @@ abilities = ["20", "10", "16", "-", "13", "9"]
 _This gnarled vine, as thick as a man's arm and bearing hand-shaped leaves, convulses across the
 ground in an unnatural slither._
 
-**Assassin Vine**
-
 **Challenge rating:** 3
 
 **blindsight:** 30

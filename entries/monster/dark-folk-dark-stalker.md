@@ -31,8 +31,6 @@ abilities = ["14", "18", "14", "9", "11", "13"]
 _This tall humanoid's pale brow and black, soulless eyes are all that can be seen above a black
 scarf wrapped around its face._
 
-**Dark Stalker**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

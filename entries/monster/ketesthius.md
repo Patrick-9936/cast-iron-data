@@ -31,8 +31,6 @@ abilities = ["30", "25", "24", "5", "16", "11"]
 
 _This enormous wolf-headed sea serpent's maw leads into what seems to be an endless expanse within._
 
-**Ketesthius**
-
 **Challenge rating:** 13
 
 **Size:** gargantuan

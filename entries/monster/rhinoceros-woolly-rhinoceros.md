@@ -29,8 +29,6 @@ abilities = ["28", "10", "21", "2", "13", "3"]
 _This large rhinoceros has a shaggy pelt of long, brown fur and a row of immense horns on its snout
 and brow._
 
-**Woolly Rhinoceros**
-
 **Challenge rating:** 6
 
 **Type:** animal

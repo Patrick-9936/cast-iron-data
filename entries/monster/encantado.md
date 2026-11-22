@@ -31,8 +31,6 @@ abilities = ["16", "21", "20", "13", "18", "21"]
 
 _This graceful creature combines the features of a human and a river dolphin._
 
-**Encantado**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic neutral

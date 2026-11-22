@@ -30,8 +30,6 @@ abilities = ["10", "13", "15", "2", "14", "7"]
 _This large, tawny rodent has powerful forelimbs ending in spade-like claws. Sand and mud cakes the
 creature's fur._
 
-**Sorico**
-
 **Challenge rating:** 1
 
 **Type:** animal

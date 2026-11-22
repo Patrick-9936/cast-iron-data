@@ -31,8 +31,6 @@ abilities = ["17", "14", "8", "10", "13", "12"]
 _This dark-scaled reptilian humanoid has lidless eyes, and a serpentine tongue that flickers from a
 fanged, lipless mouth._
 
-**Nagaji**
-
 **Challenge rating:** 1/2
 
 **Male nagaji [fighter](ref/class/fighter) 1**

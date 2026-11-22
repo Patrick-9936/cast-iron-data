@@ -33,8 +33,6 @@ abilities = ["12", "19", "16", "17", "19", "18"]
 _A shroud of dark wings cloaks this thin, humanoid shape. Two monstrous red eyes glare malevolently
 from its narrow face._
 
-**Mothman**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic neutral

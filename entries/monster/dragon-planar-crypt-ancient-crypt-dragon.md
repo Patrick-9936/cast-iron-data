@@ -32,8 +32,6 @@ abilities = ["37", "8", "27", "24", "29", "24"]
 _This dragon's scales are the color of weathered bone, and its hide stretches tautly and painfully
 over its emaciated form._
 
-**Ancient Crypt Dragon**
-
 **Challenge rating:** 21
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 31)

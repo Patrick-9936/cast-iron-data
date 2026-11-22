@@ -30,8 +30,6 @@ abilities = ["1", "13", "10", "-", "10", "2"]
 _All but invisible in the water, this foul swarm of fist-sized jellyfish wriggles and writhes, a
 virtual wall of stinging tentacles._
 
-**Jellyfish Swarm**
-
 **Challenge rating:** 6
 
 **Size:** diminutive

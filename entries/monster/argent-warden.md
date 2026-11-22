@@ -31,8 +31,6 @@ abilities = ["17", "10", "-", "13", "16", "17"]
 _This silver-armored knight moves with precision and poise. Gaps in its armor reveal nothing but
 glowing golden light within._
 
-**Argent Warden**
-
 **Challenge rating:** 8
 
 **aura:** Hellspurning aura (30 ft.)

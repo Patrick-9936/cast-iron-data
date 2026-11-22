@@ -33,8 +33,6 @@ abilities = ["18", "19", "18", "16", "13", "15"]
 _Like some miniscule, wicked old man, this snarling little humanoid wears metal boots and a
 blood-red pointed cap._
 
-**Redcap**
-
 **Challenge rating:** 6
 
 **Type:** fey

@@ -29,8 +29,6 @@ abilities = ["16", "8", "15", "2", "13", "11"]
 _This squat, reptilian monster has eight legs, bony spurs jutting from its back, and eyes that glow
 with pale green fire._
 
-**Basilisk**
-
 **Challenge rating:** 5
 
 **Initiative:** -1

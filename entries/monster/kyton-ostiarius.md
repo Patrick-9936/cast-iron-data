@@ -34,8 +34,6 @@ abilities = ["10", "15", "14", "19", "18", "19"]
 _Cloaked in shadows, every curve and sculpted muscle of this creature suggests some new gasping
 pleasure or titillating torture._
 
-**Ostiarius**
-
 **Challenge rating:** 5
 
 **Initiative:** +6

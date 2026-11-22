@@ -26,8 +26,6 @@ special_attacks = "poison"
 abilities = ["1", "17", "10", "-", "10", "2"]
 +++
 
-**House Centipede**
-
 **Challenge rating:** 1/8
 
 **Initiative:** +3

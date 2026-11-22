@@ -34,8 +34,6 @@ abilities = ["17", "10", "17", "6", "14", "7"]
 _A small forest animal sits motionless atop a worn stump - and then the stump's face peels open into
 a maw of sharp teeth._
 
-**Wolf-in-Sheep's-Clothing**
-
 **Challenge rating:** 8
 
 **Type:** aberration

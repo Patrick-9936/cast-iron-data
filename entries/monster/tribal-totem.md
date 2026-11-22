@@ -33,8 +33,6 @@ features shift and reform with every step, cycling through a variety of faces bo
 familiar. Bits of feather, leaves, and decorative stone embellish its surface, and the strong smell
 of lacquer and resin assaults the senses as it draws near with a menacing, ponderous gait._
 
-**Tribal Totem**
-
 **Challenge rating:** 6
 
 **Type:** construct

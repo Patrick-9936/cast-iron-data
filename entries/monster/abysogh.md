@@ -32,8 +32,6 @@ abilities = ["45", "18", "22", "6", "15", "7"]
 _The footsteps of this pale titan cause the very earth to shudder. Each muscle in its body is pulled
 taut as if in perpetual convulsion._
 
-**Abysogh**
-
 **Challenge rating:** 15
 
 **blindsight:** 120

@@ -32,8 +32,6 @@ abilities = ["10", "32", "22", "20", "10", "12"]
 _This brain-like creature has two clawed legs emerging from its fore and rear and a serpentine
 proboscis clutching a dagger._
 
-**Quetzutrhul**
-
 **Challenge rating:** 11
 
 **Rogue mutant intellect devourer**

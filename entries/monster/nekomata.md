@@ -31,8 +31,6 @@ abilities = ["18", "19", "16", "19", "16", "19"]
 
 _This oversized house cat has two twitching tails and a malevolent gleam in its eyes._
 
-**Nekomata**
-
 **Challenge rating:** 6
 
 **Initiative:** +8

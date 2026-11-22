@@ -30,8 +30,6 @@ abilities = ["23", "15", "20", "2", "13", "6"]
 _This armor-plated creature's toothy maw gapes wide as a fin-like dorsal plate rises between its
 shoulders._
 
-**Bulette**
-
 **Challenge rating:** 7
 
 **Size:** huge

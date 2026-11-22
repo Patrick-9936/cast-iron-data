@@ -30,8 +30,6 @@ abilities = ["25", "20", "16", "10", "17", "17"]
 _This creature looks like a mechanical centaur. Golden, clockwork wings sprout from its back, and
 its arms end in barbed chains._
 
-**Zelekhut**
-
 **Challenge rating:** 9
 
 **Initiative:** +9

@@ -30,8 +30,6 @@ abilities = ["37", "29", "35", "26", "30", "26"]
 _A pair of gigantic, flame-seared wings and eyes smoldering like embers give this towering devil a
 truly horrific appearance._
 
-**Pit Fiend**
-
 **Challenge rating:** 20
 
 **aura:** fear (20 ft., DC 23)

@@ -34,8 +34,6 @@ abilities = ["32", "25", "28", "5", "24", "17"]
 _This beast's bulbous body perches atop four sucker-ended, multijointed legs, and possesses two
 gnashing, ophidian maws._
 
-**Dwiergeth**
-
 **Challenge rating:** 13
 
 **Type:** aberration

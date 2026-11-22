@@ -31,8 +31,6 @@ abilities = ["27", "32", "27", "20", "23", "22"]
 _This horrifying creature has the upper body of a beautiful woman, but a lower body of snapping wolf
 heads and writhing tentacles._
 
-**Scylla**
-
 **Challenge rating:** 16
 
 **Type:** aberration

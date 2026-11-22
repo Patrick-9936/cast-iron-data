@@ -29,8 +29,6 @@ abilities = ["5", "10", "15", "-", "11", "1"]
 _This tangle of purple-capped mushrooms growing out of a nasty green sludge shudders and writhes,
 wafting tendrils of smoke._
 
-**Phycomid**
-
 **Challenge rating:** 4
 
 **Initiative:** +0

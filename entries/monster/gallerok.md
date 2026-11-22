@@ -30,8 +30,6 @@ abilities = ["16", "14", "15", "1", "10", "5"]
 _This stout, serpentine creature's body ripples with muscle. Jagged fangs line its broad, powerful
 jaws._
 
-**Gallerok**
-
 **Challenge rating:** 2
 
 **Type:** animal

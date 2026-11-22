@@ -30,8 +30,6 @@ abilities = ["21", "22", "22", "11", "20", "21"]
 _This four-armed faceless woman has flesh that appears to be made of pale marble veined with
 traceries of blue lines._
 
-**Valharut**
-
 **Challenge rating:** 11
 
 **aura:** inviolate aura (60 ft.)

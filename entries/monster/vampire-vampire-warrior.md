@@ -30,8 +30,6 @@ special_qualities = "armor training 2, poison use, toxic (4/day)"
 abilities = ["20", "20", "-", "10", "15", "18"]
 +++
 
-**Vampire Warrior**
-
 **Challenge rating:** 8
 
 **Vishkanya jiang-shi vampire [fighter](ref/class/fighter) 7**

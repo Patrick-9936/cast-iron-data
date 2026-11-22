@@ -29,8 +29,6 @@ abilities = ["20", "13", "-", "-", "11", "1"]
 
 _An eerie green glow shines through the seams of this mechanical creature's armor._
 
-**Emerald Automaton**
-
 **Challenge rating:** 4
 
 **aura:** electricity (5 ft., DC 12)

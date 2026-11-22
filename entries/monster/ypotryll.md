@@ -31,8 +31,6 @@ abilities = ["32", "9", "21", "2", "10", "7"]
 _This ugly creature's porcine head features multiple horns and tusks. Its muscular body ripples with
 raw power._
 
-**Ypotryll**
-
 **Challenge rating:** 15
 
 **Size:** huge

@@ -32,8 +32,6 @@ abilities = ["25", "12", "20", "16", "19", "17"]
 _This elegantly armored sentinel stands alert, her eyes radiating divine light and her noble blade
 crackling with power._
 
-**Ghaele**
-
 **Challenge rating:** 13
 
 **aura:** holy aura

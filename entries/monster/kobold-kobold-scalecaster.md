@@ -32,8 +32,6 @@ abilities = ["4", "16", "10", "10", "13", "15"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold Scalecaster**
-
 **Challenge rating:** 1/2
 
 **Kobold [sorcerer](ref/class/sorcerer) 1**

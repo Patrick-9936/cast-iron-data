@@ -30,8 +30,6 @@ abilities = ["9", "15", "12", "-", "10", "2"]
 _This lengthy, segmented horror writhes and twists, pulsing its venomous mandibles in search of
 prey._
 
-**Giant Centipede**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +2

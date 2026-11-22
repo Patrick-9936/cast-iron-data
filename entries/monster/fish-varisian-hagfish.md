@@ -30,8 +30,6 @@ abilities = ["12", "15", "18", "1", "12", "11"]
 
 _A mouth like a lamprey's gnashes curved teeth at one end of this slimy, eel-like fish._
 
-**Varisian Hagfish**
-
 **Challenge rating:** 1
 
 **Type:** animal

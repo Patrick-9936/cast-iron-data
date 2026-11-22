@@ -28,8 +28,6 @@ special_attacks = "destructive smite (+1, 4/day)"
 abilities = ["21", "12", "25", "8", "13", "10"]
 +++
 
-**Troll Acolyte**
-
 **Challenge rating:** 6
 
 **Troll [cleric](ref/class/cleric) 2**

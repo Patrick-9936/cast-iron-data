@@ -32,8 +32,6 @@ abilities = ["10", "15", "10", "7", "12", "13"]
 _This flying head has incredibly large ears that constantly flap to keep the creature aloft. It
 babbles to itself as it flies, as if to remind itself of secrets only it knows._
 
-**Chon Chon Swarm**
-
 **Challenge rating:** 3
 
 **Type:** aberration

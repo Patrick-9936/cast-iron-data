@@ -33,8 +33,6 @@ abilities = ["32", "14", "33", "18", "21", "23"]
 _This reptilian demon has a quadrupedal dinosaur's lower body, a vaguely humanoid upper torso, and a
 draconic saurian head._
 
-**Vavakia**
-
 **Challenge rating:** 18
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 25), unholy aura

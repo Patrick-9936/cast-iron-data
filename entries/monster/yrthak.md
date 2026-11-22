@@ -31,8 +31,6 @@ abilities = ["24", "14", "18", "7", "15", "11"]
 _This flying reptile has large, leathery wings and a vibrantly colored crest on its horned,
 narrow-snouted head._
 
-**Yrthak**
-
 **Challenge rating:** 9
 
 **blindsight:** 120

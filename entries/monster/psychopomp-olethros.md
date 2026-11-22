@@ -32,8 +32,6 @@ abilities = ["18", "30", "29", "20", "27", "31"]
 _This moth-winged woman wears a spiral mask and a white, silken gown glimmering with tiny bronze
 mirrors._
 
-**Olethros**
-
 **Challenge rating:** 17
 
 **Initiative:** +24

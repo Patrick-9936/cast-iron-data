@@ -29,8 +29,6 @@ special_qualities = "rogue talents (bleeding attack +2), trapfinding +1"
 abilities = ["17", "19", "-", "13", "16", "16"]
 +++
 
-**Ghoul Creeper**
-
 **Challenge rating:** 3
 
 **Ghoul [rogue](ref/class/rogue) 3**

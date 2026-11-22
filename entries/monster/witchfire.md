@@ -35,8 +35,6 @@ abilities = ["-", "22", "-", "17", "16", "25"]
 _Bathed in sickly green flames, this insubstantial specter of a beautiful young woman floats just
 off the ground._
 
-**Witchfire**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

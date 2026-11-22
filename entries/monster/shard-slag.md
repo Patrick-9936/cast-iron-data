@@ -32,8 +32,6 @@ abilities = ["22", "6", "23", "-", "1", "1"]
 _This smoldering mass of metal-encrusted goo sports half a dozen pseudopods, each tipped with a
 burning-hot sword blade._
 
-**Shard Slag**
-
 **Challenge rating:** 8
 
 **aura:** molten form (5 ft., 1d6 fire damage)

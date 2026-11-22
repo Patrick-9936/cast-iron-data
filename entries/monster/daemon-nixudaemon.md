@@ -30,8 +30,6 @@ abilities = ["17", "13", "19", "14", "14", "16"]
 _This four-armed fiend has blue-green skin covered in white scars. Its two upper arms end in long,
 barbed whips of calloused flesh._
 
-**Nixudaemon**
-
 **Challenge rating:** 7
 
 **Initiative:** +5

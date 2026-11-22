@@ -29,8 +29,6 @@ abilities = ["5", "16", "12", "1", "10", "5"]
 
 _This small cylindrical creature has two eyestalks extending straight off to each side._
 
-**Tullimonstrum**
-
 **Challenge rating:** 1
 
 **Type:** animal

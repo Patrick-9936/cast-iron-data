@@ -15,8 +15,6 @@ kind = "creature"
 cr = "18"
 +++
 
-**Master Spy**
-
 **Challenge rating:** 18
 
 **XP** 153,600\

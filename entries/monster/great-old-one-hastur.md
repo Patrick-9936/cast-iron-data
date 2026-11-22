@@ -31,8 +31,6 @@ abilities = ["24", "43", "44", "35", "31", "36"]
 _This entity appears to be a skeletal human form hidden under tattered yellow robes, but it moves
 with unsettling, inhuman grace._
 
-**Hastur**
-
 **Challenge rating:** 29
 
 **Type:** aberration

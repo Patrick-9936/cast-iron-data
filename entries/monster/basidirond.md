@@ -30,8 +30,6 @@ abilities = ["20", "13", "16", "-", "11", "1"]
 _This strange plant consists of four spidery stalks, long green tendrils, and an inverted
 bell-shaped cap filled with spores._
 
-**Basidirond**
-
 **Challenge rating:** 5
 
 **Initiative:** +1

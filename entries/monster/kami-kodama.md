@@ -31,8 +31,6 @@ abilities = ["14", "13", "16", "11", "14", "17"]
 _This little green humanoid figure stands only three feet tall. Its head is faceless save for two
 hollow pits for eyes._
 
-**Kodama**
-
 **Challenge rating:** 5
 
 **Initiative:** +1

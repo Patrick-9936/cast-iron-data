@@ -31,8 +31,6 @@ abilities = ["30", "27", "30", "22", "21", "33"]
 _This blood-soaked humanoid is festooned with razored shards of metal. Skeletal wings protrude from
 its bleeding shoulders._
 
-**Eremite**
-
 **Challenge rating:** 20
 
 **Initiative:** +12

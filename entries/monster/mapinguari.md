@@ -30,8 +30,6 @@ abilities = ["27", "12", "21", "2", "21", "12"]
 _This immense, green creature stands on two thick legs, glaring with a single massive eye as it
 displays knife-like talons._
 
-**Mapinguari**
-
 **Challenge rating:** 11
 
 **aura:** [stench](ref/umr/stench) (30 ft., DC 22, 10 rounds)

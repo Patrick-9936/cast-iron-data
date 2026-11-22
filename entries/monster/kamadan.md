@@ -29,8 +29,6 @@ abilities = ["17", "15", "16", "5", "12", "9"]
 _This large leopard has six colorful snakes, hissing and ready to strike, sprouting from its
 shoulders._
 
-**Kamadan**
-
 **Challenge rating:** 4
 
 **Initiative:** +2

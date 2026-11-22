@@ -30,8 +30,6 @@ abilities = ["21", "11", "20", "8", "18", "15"]
 _This amorphous creature resembles a golden-hued jellyfish that floats through the air, fleshy
 tentacles dangling down in a line._
 
-**Liavaran Dreamer**
-
 **Challenge rating:** 8
 
 **Type:** aberration

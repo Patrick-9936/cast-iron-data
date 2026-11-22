@@ -28,8 +28,6 @@ abilities = ["15", "15", "15", "2", "12", "6"]
 
 _This burly dog is fitted with a small saddle. A low, menacing growl rumbles up from its chest._
 
-**Riding Dog**
-
 **Challenge rating:** 1
 
 **Type:** animal

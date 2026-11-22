@@ -30,8 +30,6 @@ abilities = ["25", "18", "25", "1", "12", "6"]
 _This towering plant is a mass of vines and barbs. Several stalks are horribly mobile, each ending
 in a set of green, toothy jaws._
 
-**Giant Flytrap**
-
 **Challenge rating:** 10
 
 **Size:** huge

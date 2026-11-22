@@ -32,8 +32,6 @@ abilities = ["13", "17", "14", "12", "12", "6"]
 _This lanky man sneers as he draws his sword. Tiny horns and a barbed tail reveal that he is
 something more than human._
 
-**Tiefling**
-
 **Challenge rating:** 1/2
 
 **Tiefling [rogue](ref/class/rogue) 1**

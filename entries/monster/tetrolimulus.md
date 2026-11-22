@@ -33,8 +33,6 @@ _From a body like a strange crab sprouts the torso of a praying mantis, clad in 
 crustacean armor. Swaying hypnotically, it rattles razor-sharp claws and raises its long,
 rapier-like tail stinger._
 
-**Tetrolimulus**
-
 **Challenge rating:** 11
 
 **Initiative:** +8

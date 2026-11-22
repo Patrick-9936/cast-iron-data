@@ -30,8 +30,6 @@ abilities = ["10", "13", "14", "7", "10", "13"]
 _This short, stunted humanoid is bald and has weirdly twisted limbs, its body seeming to fade and
 come apart at the edges._
 
-**Khaei**
-
 **Challenge rating:** 3
 
 **Initiative:** +5

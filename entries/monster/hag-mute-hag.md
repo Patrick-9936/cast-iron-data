@@ -32,8 +32,6 @@ abilities = ["23", "21", "22", "20", "19", "18"]
 _Empty eye sockets and jagged teeth punctuate the palpable hate that roils off this twisted,
 gray-skinned crone._
 
-**Mute Hag**
-
 **Challenge rating:** 11
 
 **blindsight:** 60

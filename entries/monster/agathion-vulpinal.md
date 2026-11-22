@@ -33,8 +33,6 @@ abilities = ["12", "16", "17", "19", "15", "16"]
 _This bright-eyed, anthropomorphic fox is dressed in simple traveling clothes and carries a musical
 instrument in one hand._
 
-**Vulpinal**
-
 **Challenge rating:** 6
 
 **aura:** calm emotions (30 ft.)

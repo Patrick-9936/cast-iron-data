@@ -34,8 +34,6 @@ abilities = ["22", "17", "19", "8", "17", "16"]
 _This mangy horse-like beast walks perversely upright. Wings, a dragon's tail, and a fanged mouth
 complete its vile appearance._
 
-**Sandpoint Devil**
-
 **Challenge rating:** 8
 
 **Initiative:** +3

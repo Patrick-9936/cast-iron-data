@@ -28,8 +28,6 @@ abilities = ["37", "10", "21", "2", "13", "10"]
 _A long tail counterbalances this reptile's equally long neck, at the end of which a relatively
 small head pulls food from the treetop._
 
-**Brachiosaurus**
-
 **Challenge rating:** 10
 
 **Type:** animal

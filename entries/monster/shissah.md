@@ -30,8 +30,6 @@ abilities = ["18", "20", "19", "2", "14", "10"]
 _This sleek equine is slightly smaller than an average horse, but its eyes contain a gleam of higher
 intelligence._
 
-**Shissah**
-
 **Challenge rating:** 4
 
 **Type:** animal

@@ -28,8 +28,6 @@ abilities = ["1", "15", "14", "-", "11", "2"]
 
 _This swift brown insect scampers up walls, its antennae flailing._
 
-**Cockroach**
-
 **Challenge rating:** 1/8
 
 **Size:** diminutive

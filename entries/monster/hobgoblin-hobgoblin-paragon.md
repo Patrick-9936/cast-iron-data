@@ -33,8 +33,6 @@ abilities = ["18", "18", "18", "10", "14", "8"]
 _Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant
 eyes._
 
-**Hobgoblin Paragon**
-
 **Challenge rating:** 10
 
 **Hobgoblin [monk](ref/class/monk) 11**

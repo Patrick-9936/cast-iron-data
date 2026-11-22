@@ -29,8 +29,6 @@ abilities = ["19", "14", "20", "2", "13", "11"]
 _This massive hydra has black and green scales, and caustic purple venom drips from its numerous
 sets of fangs._
 
-**Dhirgiska**
-
 **Challenge rating:** 13
 
 **Miasma hydra**

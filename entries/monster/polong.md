@@ -30,8 +30,6 @@ abilities = ["-", "18", "-", "13", "14", "20"]
 
 _This crimson spectral creature drips with blood, its skeletal face contorted with malice._
 
-**Polong**
-
 **Challenge rating:** 8
 
 **aura:** murderous intent (30 ft.)

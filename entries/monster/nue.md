@@ -30,8 +30,6 @@ abilities = ["22", "21", "20", "7", "17", "10"]
 _Materializing out of a noxious black cloud, this beast has the head of a fanged monkey and the body
 of a tiger with a viper as a tail._
 
-**Nue**
-
 **Challenge rating:** 10
 
 **Initiative:** +9

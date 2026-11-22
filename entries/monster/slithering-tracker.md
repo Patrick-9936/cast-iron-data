@@ -30,8 +30,6 @@ abilities = ["16", "18", "23", "11", "10", "1"]
 _A long, moist streak along the dark stone suddenly undulates like a serpent and then rises up to
 attack._
 
-**Slithering Tracker**
-
 **Challenge rating:** 4
 
 **blindsense:** 60

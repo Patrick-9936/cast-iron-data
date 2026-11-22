@@ -30,8 +30,6 @@ abilities = ["40", "10", "25", "1", "18", "7"]
 _This enormous black crocodile gapes hungrily with a maw big enough to swallow two armored warriors
 whole._
 
-**Hetkoshu**
-
 **Challenge rating:** 12
 
 **Type:** animal

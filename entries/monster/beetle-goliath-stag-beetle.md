@@ -29,8 +29,6 @@ abilities = ["32", "10", "21", "-", "10", "4"]
 _This massive beetle is the size of a small house. Its immense, horn-like mandibles clash with a
 hungry fervor._
 
-**Goliath Stag Beetle**
-
 **Challenge rating:** 8
 
 **Size:** huge

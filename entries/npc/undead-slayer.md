@@ -15,8 +15,6 @@ kind = "creature"
 cr = "15"
 +++
 
-**Undead Slayer**
-
 **Challenge rating:** 15
 
 **XP** 51,200\

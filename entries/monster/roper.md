@@ -31,8 +31,6 @@ abilities = ["34", "13", "29", "13", "16", "12"]
 _A huge eye opens in this conical creature's front, just above a toothy mouth. Long strands of
 fibrous material whip from its sides._
 
-**Roper**
-
 **Challenge rating:** 12
 
 **Type:** aberration

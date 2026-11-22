@@ -32,8 +32,6 @@ abilities = ["32", "25", "26", "19", "20", "23"]
 _This knight wears armor patterned like raven feathers with a helmet shaped like a raven's head and
 gauntlets fit for oversized talons._
 
-**Vilderavn**
-
 **Challenge rating:** 16
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (30 ft., DC 26), shatter loyalties

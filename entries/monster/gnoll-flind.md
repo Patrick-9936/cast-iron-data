@@ -31,8 +31,6 @@ abilities = ["18", "15", "16", "12", "15", "13"]
 _This powerfully built, hyena-like humanoid is larger than the average gnoll and has a cunning,
 cruel gaze._
 
-**Flind**
-
 **Challenge rating:** 3
 
 **Type:** humanoid

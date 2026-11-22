@@ -32,8 +32,6 @@ abilities = ["15", "15", "13", "-", "10", "2"]
 
 _This goat-sized insect stands on long, spindly legs. Its mouthparts glisten with a curious fluid._
 
-**Giant Assassin Bug**
-
 **Challenge rating:** 3
 
 **Initiative:** +2

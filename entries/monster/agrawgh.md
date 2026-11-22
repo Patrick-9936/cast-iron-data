@@ -30,8 +30,6 @@ abilities = ["18", "11", "16", "6", "9", "7"]
 _This bronze-ringed serpent has silvery skin and razor-sharp teeth that barely conceal the acid
 bubbling at the back of its mouth._
 
-**Agrawgh**
-
 **Challenge rating:** 5
 
 **Initiative:** +0

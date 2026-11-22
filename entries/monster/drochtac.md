@@ -31,8 +31,6 @@ abilities = ["12", "13", "12", "9", "12", "9"]
 _An inordinate number of sinewy limbs, each terminating in clawed feet, protrude from the sides of
 this slithering creature. Its face is disturbingly demonic._
 
-**Drochtac**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

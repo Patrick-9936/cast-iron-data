@@ -29,8 +29,6 @@ abilities = ["11", "12", "19", "-", "11", "2"]
 
 _A dog-sized cockroach skitters forth, greedily clicking its filth-slicked mandibles._
 
-**Giant Cockroach**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +1

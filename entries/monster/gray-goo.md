@@ -33,8 +33,6 @@ abilities = ["1", "30", "-", "5", "10", "1"]
 
 _Droplets of a silvery gray, slightly grainy goo gleam dully as they hang in the air._
 
-**Gray Goo**
-
 **Challenge rating:** 14
 
 **Type:** construct

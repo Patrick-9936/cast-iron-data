@@ -31,8 +31,6 @@ abilities = ["21", "11", "15", "-", "10", "6"]
 _This squat but nevertheless large beetle moves with a swift scuttling motion. Its mandibles appear
 to be remarkably sharp._
 
-**Slicer Beetle**
-
 **Challenge rating:** 4
 
 **Initiative:** +0

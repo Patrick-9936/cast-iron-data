@@ -31,8 +31,6 @@ abilities = ["3", "19", "10", "1", "12", "6"]
 _This insectoid creature has two pairs of bat wings, a tangle of thin legs, and a needle-sharp
 proboscis._
 
-**Stirge**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +4

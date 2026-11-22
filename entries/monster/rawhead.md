@@ -31,8 +31,6 @@ abilities = ["24", "23", "24", "18", "21", "21"]
 _This slim figure's proportions are wrong, and its disturbingly long arms end in claws, save for an
 oversized, boneless index finger._
 
-**Rawhead**
-
 **Challenge rating:** 14
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 23)

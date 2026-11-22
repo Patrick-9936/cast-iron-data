@@ -31,8 +31,6 @@ abilities = ["26", "14", "17", "-", "14", "9"]
 _This strange oyster-like mollusk has a long, thin tongue, tipped with a blade, that slides from
 between the shell halves._
 
-**Scrapshell**
-
 **Challenge rating:** 6
 
 **Initiative:** +2

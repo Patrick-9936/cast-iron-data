@@ -31,8 +31,6 @@ _This creature resembles an ordinary shark from tail to mouth, but the unusual s
 jaw marks it as something else. A whorl of teeth spirals inward, tiny at the centre, but long and
 brutal farther out._
 
-**Helicoprion**
-
 **Challenge rating:** 6
 
 **Type:** animal

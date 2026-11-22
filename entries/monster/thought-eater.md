@@ -31,8 +31,6 @@ abilities = ["4", "19", "10", "7", "12", "15"]
 _A nimbus of glowing, intangible matter envelops this strange skeletal creature with a bird-like
 beak._
 
-**Thought Eater**
-
 **Challenge rating:** 2
 
 **Type:** aberration

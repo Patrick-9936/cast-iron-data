@@ -31,8 +31,6 @@ abilities = ["14", "17", "15", "15", "14", "14"]
 _This cackling protean's serpentine body is surrounded by flowing, illuminated script pulled from
 nearby tomes and pages._
 
-**Akizendri**
-
 **Challenge rating:** 3
 
 **blindsense:** 30

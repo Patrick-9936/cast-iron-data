@@ -31,8 +31,6 @@ abilities = ["28", "10", "-", "-", "11", "1"]
 _This statue resembles a lean human cut from blackened glass stone. Numerous razor-sharp
 protuberances jut from its body._
 
-**Obsidian Golem**
-
 **Challenge rating:** 12
 
 **Type:** construct

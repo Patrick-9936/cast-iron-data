@@ -32,8 +32,6 @@ abilities = ["19", "15", "16", "9", "12", "10"]
 _This lanky dragon's dappled grayish scales and sprawling wings shift and fade in color, blending in
 with the mist._
 
-**Mist Drake**
-
 **Challenge rating:** 5
 
 **Type:** dragon

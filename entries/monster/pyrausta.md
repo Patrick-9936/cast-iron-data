@@ -30,8 +30,6 @@ abilities = ["6", "15", "8", "5", "12", "13"]
 _This minuscule dragon's transparent wings and large eyes resemble those of a praying mantis. Its
 form glows bright with an inner fire._
 
-**Pyrausta**
-
 **Challenge rating:** 1/4
 
 **Alignment:** Chaotic neutral

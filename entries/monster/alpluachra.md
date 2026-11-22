@@ -32,8 +32,6 @@ abilities = ["4", "13", "14", "4", "11", "11"]
 _This minuscule creature resembles a newt with three tails. It's covered in a transparent slime, and
 looks hungry._
 
-**Alpluachra**
-
 **Challenge rating:** 1/2
 
 **Alignment:** Chaotic neutral

@@ -30,8 +30,6 @@ abilities = ["9", "15", "10", "9", "12", "14"]
 _Its coat shining vividly, this majestic tiger looks exotic and otherworldly. It gazes with piercing
 yellow eyes and stands calmly, as though fearless._
 
-**Dweomercat Cub**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

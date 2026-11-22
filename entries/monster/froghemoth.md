@@ -29,8 +29,6 @@ abilities = ["30", "13", "24", "2", "13", "11"]
 _This immense, three-eyed frog-like creature rears up on powerful hind legs. In place of arms, four
 huge tentacles thrash and writhe._
 
-**Froghemoth**
-
 **Challenge rating:** 13
 
 **Type:** aberration

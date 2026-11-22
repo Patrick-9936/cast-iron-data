@@ -31,8 +31,6 @@ _This miniature young woman has white skin; long, braided hair festooned with ri
 slanted eyes of deep violet. She wears flowing, diaphanous clothing and carries a pair of delicate
 gardening shears._
 
-**Anhana**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic good

@@ -33,8 +33,6 @@ abilities = ["27", "20", "24", "15", "15", "16"]
 _This amorphous mass of eyes, tentacles, and protoplasm exudes thick, roiling clouds of green
 vapor._
 
-**Vespergaunt**
-
 **Challenge rating:** 12
 
 **aura:** madness (60 ft., DC 21)

@@ -31,8 +31,6 @@ abilities = ["11", "15", "12", "10", "9", "6"]
 _This creature stands barely three feet tall, its scrawny, humanoid body dwarfed by its wide,
 ungainly head._
 
-**Goblin**
-
 **Challenge rating:** 1/3
 
 **Goblin [warrior](ref/npcclass/warrior) 1**

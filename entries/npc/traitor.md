@@ -15,8 +15,6 @@ kind = "creature"
 cr = "8"
 +++
 
-**Traitor**
-
 **Challenge rating:** 8
 
 **XP** 4,800\

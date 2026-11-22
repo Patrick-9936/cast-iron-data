@@ -31,8 +31,6 @@ abilities = ["36", "28", "33", "21", "23", "30"]
 _This hairy humanoid has the face of a demonic goat with legs to match. A long tongue hangs out of
 its fanged mouth._
 
-**Krampus**
-
 **Challenge rating:** 21
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 32)

@@ -30,8 +30,6 @@ abilities = ["37", "24", "26", "5", "20", "27"]
 _Pallid and horribly gaunt, this enormous but emaciated dragon-like creature has two forearms and no
 wings._
 
-**Cairn Linnorm**
-
 **Challenge rating:** 18
 
 **Alignment:** Chaotic evil

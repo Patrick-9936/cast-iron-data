@@ -32,8 +32,6 @@ abilities = ["20", "27", "24", "19", "16", "26"]
 _This ten-foot-diameter floating globe of shuddering violet sludge has a tangle of dripping tendrils
 and is encircled by strange arcane energies._
 
-**Spellgorger**
-
 **Challenge rating:** 12
 
 **aura:** discordant field (30 ft., DC 25, 10 rounds)

@@ -30,8 +30,6 @@ abilities = ["36", "9", "-", "-", "11", "1"]
 _This huge construct of black metal is all spikes and armor, save for several forge-like stacks that
 burn atop its crown and back._
 
-**Adamantine Golem**
-
 **Challenge rating:** 19
 
 **Type:** construct

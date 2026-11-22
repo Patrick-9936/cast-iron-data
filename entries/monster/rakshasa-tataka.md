@@ -31,8 +31,6 @@ abilities = ["24", "16", "25", "13", "13", "20"]
 _This towering, blue-skinned woman has backward-facing hands and a feral, animal-like visage with
 exaggerated features._
 
-**Tataka**
-
 **Challenge rating:** 15
 
 **Initiative:** +3

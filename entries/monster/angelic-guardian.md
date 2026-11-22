@@ -30,8 +30,6 @@ abilities = ["18", "15", "-", "-", "11", "1"]
 _This brass statue is sculpted in the shape of an angel with metal wings, and its halo takes the
 form of a burning crown._
 
-**Angelic Guardian**
-
 **Challenge rating:** 5
 
 **Type:** construct

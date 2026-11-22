@@ -31,8 +31,6 @@ abilities = ["13", "8", "15", "8", "13", "12"]
 _This obscene mass looks like a melted blob crossed with a spider, ceaselessly lashing out with its
 hairy, wriggling legs._
 
-**Thognorok**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

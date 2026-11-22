@@ -31,8 +31,6 @@ abilities = ["15", "18", "16", "8", "11", "7"]
 _This tall, gangly giant has a thick hide of mottled blue; protruding yellowed canines; narrow slits
 for eyes; and large, powerful hands that end in wicked claws._
 
-**Flood Troll**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

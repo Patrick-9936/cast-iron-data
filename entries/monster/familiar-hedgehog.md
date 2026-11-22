@@ -24,8 +24,6 @@ will = "+1"
 abilities = ["1", "16", "6", "2", "12", "7"]
 +++
 
-**Hedgehog**
-
 **Challenge rating:** 1/8
 
 **Type:** animal

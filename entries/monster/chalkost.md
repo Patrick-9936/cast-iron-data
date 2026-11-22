@@ -31,8 +31,6 @@ abilities = ["17", "10", "17", "10", "13", "8"]
 _This dwarf-like being of earth and metal has coppery hair and an open-faced helmet bearing two
 stylized boar tusks._
 
-**Chalkost**
-
 **Challenge rating:** 4
 
 **Initiative:** +0

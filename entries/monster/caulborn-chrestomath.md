@@ -30,8 +30,6 @@ abilities = ["2", "2", "19", "25", "21", "22"]
 _This bloated, larval sack of green and pink flesh is wet and curdled, its brain-like wrinkles
 interrupted by transparent membranes showing dark fluid within._
 
-**Chrestomath**
-
 **Challenge rating:** 6
 
 **blindsense:** 60

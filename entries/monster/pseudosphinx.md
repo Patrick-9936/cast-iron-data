@@ -29,8 +29,6 @@ abilities = ["5", "14", "11", "9", "16", "12"]
 
 _This small creature has the body of a housecat, the wings of a falcon, and the head of a monkey._
 
-**Pseudosphinx**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

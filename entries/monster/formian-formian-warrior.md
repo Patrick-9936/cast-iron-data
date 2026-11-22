@@ -32,8 +32,6 @@ abilities = ["14", "17", "15", "11", "10", "12"]
 _Armored from head to toe in gleaming black-and-red chitin, this insectile warrior's tail ends in a
 wickedly barbed stinger._
 
-**Formian Warrior**
-
 **Challenge rating:** 3
 
 **blindsense:** 30

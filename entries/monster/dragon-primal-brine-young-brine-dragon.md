@@ -31,8 +31,6 @@ abilities = ["24", "13", "15", "15", "12", "13"]
 _A blue-green neck frill sweeps back from the head of this dragon, leading to a body of shiny scales
 and fin-like crests._
 
-**Young Brine Dragon**
-
 **Challenge rating:** 7
 
 **Type:** dragon

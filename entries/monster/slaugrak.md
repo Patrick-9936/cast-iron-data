@@ -32,8 +32,6 @@ _This hulking reptilian humanoid's torso bristles with twitching vestigial limbs
 and drooling half-formed mouths. The creature's oversized maw is filled with curved teeth
 reminiscent of sickle blades._
 
-**Slaugrak**
-
 **Challenge rating:** 6
 
 **aura:** [stench](ref/umr/stench) (30 ft., DC 17, 10 rounds)

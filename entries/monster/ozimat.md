@@ -30,8 +30,6 @@ abilities = ["-", "20", "19", "14", "19", "23"]
 
 _Chunks of rock spin about a humanoid form of vibrant green light._
 
-**Ozimat**
-
 **Challenge rating:** 11
 
 **blindsight:** 30

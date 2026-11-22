@@ -31,8 +31,6 @@ abilities = ["33", "18", "34", "18", "23", "25"]
 _This horned, winged, wolf-headed demon has bone-white flesh onto which have been riveted plates of
 spiky armor._
 
-**Gallu**
-
 **Challenge rating:** 19
 
 **aura:** cloak of chaos (20 ft., DC 25), havoc (30 ft.)

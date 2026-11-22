@@ -28,8 +28,6 @@ abilities = ["4", "19", "16", "15", "12", "19"]
 
 _Two slimy tentacles protrude from the sides of this brain-shaped mass of quivering ooze._
 
-**Brain Ooze**
-
 **Challenge rating:** 7
 
 **aura:** psychic noise (10 ft., DC 19)

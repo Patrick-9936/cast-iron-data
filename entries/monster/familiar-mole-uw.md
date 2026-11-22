@@ -29,8 +29,6 @@ abilities = ["2", "11", "14", "2", "10", "7"]
 _This brown rodent has a furry, cylindrical body, a pointed snout, and large, thick paws that end in
 digging claws._
 
-**Mole (UW)**
-
 **Challenge rating:** 1/8
 
 **Type:** animal

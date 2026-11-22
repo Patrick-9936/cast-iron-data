@@ -31,8 +31,6 @@ abilities = ["32", "6", "20", "-", "11", "5"]
 _Reddish pus oozes from the stained, ochre hide of this immense worm. Thousands of forms wriggle
 beneath its translucent skin, causing the skin to ripple in a roiling, sickening motion._
 
-**Empress Bore Worm**
-
 **Challenge rating:** 10
 
 **Size:** huge

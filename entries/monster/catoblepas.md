@@ -29,8 +29,6 @@ abilities = ["20", "8", "22", "5", "15", "10"]
 _This ugly creature has a boar-like head with short antlers, a thick bullish body covered in spines,
 and cloven hooves on its stumpy legs._
 
-**Catoblepas**
-
 **Challenge rating:** 12
 
 **aura:** [stench](ref/umr/stench) (30 ft., DC 23, 10 rounds)

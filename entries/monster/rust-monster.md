@@ -29,8 +29,6 @@ abilities = ["10", "17", "13", "2", "13", "8"]
 _This insectile monster has four legs, a strange propeller-shaped protrusion at the end of its tail,
 and two long, feathery antennae._
 
-**Rust Monster**
-
 **Challenge rating:** 3
 
 **Type:** aberration

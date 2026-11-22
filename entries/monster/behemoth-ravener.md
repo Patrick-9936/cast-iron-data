@@ -33,8 +33,6 @@ Elaborate horns crown its head, and multiple rock-encrusted tusks jut from its t
 bellowing roar, the creature shakes its massive head in challenge, then paws the ground and
 charges._
 
-**Ravener**
-
 **Challenge rating:** 18
 
 **blindsense:** 60

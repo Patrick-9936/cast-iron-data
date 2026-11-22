@@ -28,8 +28,6 @@ abilities = ["27", "13", "19", "2", "14", "6"]
 _This gigantic lizard has short but powerful limbs, a muscular tail, and a spiny crest that runs the
 length of its body._
 
-**Megalania**
-
 **Challenge rating:** 7
 
 **Type:** animal

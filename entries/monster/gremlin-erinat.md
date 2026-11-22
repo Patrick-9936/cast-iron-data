@@ -28,8 +28,6 @@ abilities = ["14", "16", "15", "8", "9", "14"]
 
 _The pockets of this urchin are stuffed with worthless objects._
 
-**Erinat**
-
 **Challenge rating:** 2
 
 **aura:** discordant (20 ft.)

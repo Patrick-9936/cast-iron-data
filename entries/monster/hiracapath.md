@@ -32,8 +32,6 @@ abilities = ["22", "12", "21", "3", "16", "17"]
 _Silvery armor in the shape of a powerful ram barely contains the brilliant radiance shining from
 within it, and curling, steel horns emerge from its helm._
 
-**Hiracapath**
-
 **Challenge rating:** 7
 
 **Initiative:** +1

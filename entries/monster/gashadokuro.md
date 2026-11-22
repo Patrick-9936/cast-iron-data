@@ -33,8 +33,6 @@ abilities = ["30", "11", "-", "6", "17", "21"]
 _The bones and skulls of countless smaller creatures dribble from the joints and rib cage of this
 massive skeleton._
 
-**Gashadokuro**
-
 **Challenge rating:** 13
 
 **aura:** starvation (60 ft., DC 25)

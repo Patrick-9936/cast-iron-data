@@ -31,8 +31,6 @@ abilities = ["-", "28", "-", "18", "20", "23"]
 _This hovering, translucent humanoid appears to sleep serenely, even as shards of flickering energy
 encircle it, each fragment reflecting younger or older versions of itself._
 
-**Fluxwraith**
-
 **Challenge rating:** 17
 
 **aura:** slow aura (30 ft.)

@@ -34,8 +34,6 @@ abilities = ["-", "23", "21", "16", "16", "19"]
 _This glittering serpent's body ends in a looping length of tail. Its scales glow softly in
 ever-changing patterns._
 
-**Pelagastr**
-
 **Challenge rating:** 8
 
 **blindsight:** 30

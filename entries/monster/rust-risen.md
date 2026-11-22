@@ -29,8 +29,6 @@ abilities = ["17", "13", "-", "5", "12", "14"]
 
 _Miscellaneous bits of rusted machinery are fused to the body of this shambling corpse._
 
-**Rust-Risen**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

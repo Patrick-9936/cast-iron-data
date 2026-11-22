@@ -29,8 +29,6 @@ abilities = ["13", "10", "13", "10", "10", "9"]
 
 _This small, centaur-like ant creature bears a huge, bulging sack on its armored back._
 
-**Formian Worker**
-
 **Challenge rating:** 1/2
 
 **blindsense:** 30

@@ -27,8 +27,6 @@ abilities = ["2", "14", "8", "1", "8", "6"]
 
 _Yellow spots and stripes run from this amphibian's wide snout to the tip of its tail._
 
-**Fire Salamander**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

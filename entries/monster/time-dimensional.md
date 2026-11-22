@@ -31,8 +31,6 @@ abilities = ["23", "21", "20", "16", "18", "17"]
 _This lanky humanoid is formed from myriad crystal facets, each displaying an image of the past, the
 present, or a possible future._
 
-**Time Dimensional**
-
 **Challenge rating:** 14
 
 **aura:** temporal dilation (30 ft.)

@@ -32,8 +32,6 @@ abilities = ["15", "14", "15", "2", "12", "8"]
 _This mangy canine's face has the same flat nose, beady eyes, and protruding teeth as a rat grown
 grotesquely large._
 
-**Goblin Dog**
-
 **Challenge rating:** 1
 
 **Type:** animal

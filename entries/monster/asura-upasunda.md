@@ -30,8 +30,6 @@ abilities = ["22", "24", "19", "15", "24", "19"]
 _This six-armed woman has three fanged faces on her head. She wears colorful robes, and her hands
 wield several exotic weapons._
 
-**Upasunda**
-
 **Challenge rating:** 9
 
 **aura:** elusive (50 ft.)

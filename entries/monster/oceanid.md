@@ -33,8 +33,6 @@ abilities = ["14", "19", "20", "14", "19", "21"]
 _This beautiful woman is clad only in sea foam and her long, white hair, which cascades over her
 body._
 
-**Oceanid**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic neutral

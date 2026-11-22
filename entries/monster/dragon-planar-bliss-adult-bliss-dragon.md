@@ -31,8 +31,6 @@ abilities = ["29", "10", "25", "20", "21", "24"]
 
 _This serene dragon's feathered form emits a comforting warmth._
 
-**Adult Bliss Dragon**
-
 **Challenge rating:** 16
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 27)

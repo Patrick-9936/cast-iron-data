@@ -29,8 +29,6 @@ abilities = ["49", "16", "-", "22", "21", "25"]
 _Immense almost beyond belief, this sleek, midnight-black shark rises from the sea like an unholy
 island heaved up from below._
 
-**Nightwave**
-
 **Challenge rating:** 20
 
 **aura:** blackest depths (60 ft.), desecrating aura (30 ft.)

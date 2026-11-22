@@ -30,8 +30,6 @@ abilities = ["38", "22", "29", "5", "20", "23"]
 _A snake-like, dragon-headed monster of tremendous size rises up, drifts of snow and ice tumbling
 from its coiling flanks._
 
-**Ice Linnorm**
-
 **Challenge rating:** 17
 
 **Alignment:** Chaotic evil

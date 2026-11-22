@@ -30,8 +30,6 @@ abilities = ["-", "19", "16", "7", "13", "10"]
 
 _A cloud of crimson vapor reeking of fresh blood hangs in the air, reaching out with lashing claws._
 
-**Vampiric Mist**
-
 **Challenge rating:** 3
 
 **Type:** aberration

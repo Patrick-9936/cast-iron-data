@@ -32,8 +32,6 @@ abilities = ["12", "16", "15", "11", "14", "11"]
 _A mane of long, writhing tentacles crowns this translucent, humanoid figure. A crystalline skeleton
 supports its faintly glowing flesh._
 
-**Merlucent**
-
 **Challenge rating:** 3
 
 **Type:** aberration

@@ -32,8 +32,6 @@ abilities = ["21", "10", "18", "13", "16", "19"]
 _This towering spider has multifaceted, shining eyes, eight legs that are each tipped with silver,
 and massive mandibles._
 
-**Mederach**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic good

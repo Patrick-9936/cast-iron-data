@@ -30,8 +30,6 @@ abilities = ["26", "17", "21", "12", "16", "13"]
 _This enormous bird has feathers the color of a stormy sky, a resemblance enhanced by the lightning
 that dances over its body._
 
-**Thunderbird**
-
 **Challenge rating:** 11
 
 **aura:** storm aura (100 ft.)

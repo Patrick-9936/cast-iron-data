@@ -30,8 +30,6 @@ abilities = ["32", "28", "26", "27", "25", "23"]
 _This towering, four-armed humanoid seems to be made of moss and splintered wood, its face sinister
 and mouthless._
 
-**Mosslord**
-
 **Challenge rating:** 18
 
 **Greensight:** present

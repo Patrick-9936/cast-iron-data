@@ -35,8 +35,6 @@ abilities = ["24", "19", "24", "19", "23", "22"]
 _This platinum-skinned, four-armed angelic being glows with the power of the sun. He bears two
 flaming scimitars and a bow._
 
-**Sunlord Thalachos**
-
 **Challenge rating:** 15
 
 **aura:** protective aura (20 ft.)

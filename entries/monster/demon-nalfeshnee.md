@@ -30,8 +30,6 @@ abilities = ["32", "13", "29", "23", "22", "20"]
 _A towering, corpulent beast, this fiend has the hideous head of a boar and arms ending in fatty,
 four-fingered hands._
 
-**Nalfeshnee**
-
 **Challenge rating:** 14
 
 **aura:** unholy aura (DC 23)

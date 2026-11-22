@@ -15,8 +15,6 @@ kind = "creature"
 cr = "11"
 +++
 
-**Swift Brawler**
-
 **Challenge rating:** 11
 
 **XP** 12,800\

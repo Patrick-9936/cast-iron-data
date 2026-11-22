@@ -32,8 +32,6 @@ _This monstrous serpent rises to a great height, unfurling an opalescent hood th
 shield. Swaying from side to side, the creature drops open its elongated jaw to reveal an assortment
 of different-sized fangs. As it hisses, lightning slashes the storm-gray sky behind it._
 
-**Inkanyamba**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic evil

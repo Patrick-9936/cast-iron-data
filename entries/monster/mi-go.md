@@ -34,8 +34,6 @@ abilities = ["16", "20", "21", "25", "14", "15"]
 _This unnaturally graceful creature has a bulbous fungoid lump for a head, spiny insectoid wings,
 and a tangle of spiky, clawed legs._
 
-**Mi-go**
-
 **Challenge rating:** 6
 
 **blindsight:** 30

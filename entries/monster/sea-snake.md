@@ -30,8 +30,6 @@ abilities = ["8", "15", "12", "1", "13", "2"]
 _This scaly blue-green snake skims the surface of the water in a sinuous ballet of muscle and
 agility._
 
-**Sea Snake**
-
 **Challenge rating:** 1
 
 **Type:** animal

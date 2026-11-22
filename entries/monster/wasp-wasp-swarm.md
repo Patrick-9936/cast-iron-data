@@ -31,8 +31,6 @@ abilities = ["1", "13", "10", "-", "12", "9"]
 
 _A low, ominous buzz announces the arrival of a mass of many thousands of angry, stinging wasps._
 
-**Wasp Swarm**
-
 **Challenge rating:** 3
 
 **Size:** diminutive

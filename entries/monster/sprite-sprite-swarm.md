@@ -32,8 +32,6 @@ abilities = ["3", "17", "12", "6", "11", "10"]
 _Thousands of tiny, colorful winged humanoids crawl from every corner of the forest to form this
 buzzing, writhing swarm._
 
-**Sprite Swarm**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic neutral

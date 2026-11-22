@@ -32,8 +32,6 @@ abilities = ["15", "13", "14", "10", "17", "10"]
 _This majestic tiger has white fur with deep blue stripes. It glows with divine radiance and
 radiates an aura of calm._
 
-**Pavbagha**
-
 **Challenge rating:** 4
 
 **aura:** courage (10 ft.)

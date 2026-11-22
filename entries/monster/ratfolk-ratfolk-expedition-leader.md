@@ -33,8 +33,6 @@ abilities = ["14", "16", "14", "12", "12", "8"]
 _This small, rat-like humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery
 tail._
 
-**Ratfolk Expedition Leader**
-
 **Challenge rating:** 7
 
 **Ratfolk [ranger](ref/class/ranger) 8**

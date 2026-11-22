@@ -29,8 +29,6 @@ abilities = ["6", "13", "12", "-", "11", "4"]
 
 _This tangle of dry-looking vegetation has grown into a spherical ball of thorny twigs and roots._
 
-**Ravenous Tumbleweed**
-
 **Challenge rating:** 1/3
 
 **Initiative:** +1

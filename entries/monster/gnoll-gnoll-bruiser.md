@@ -29,8 +29,6 @@ special_qualities = "trapfinding +1"
 abilities = ["19", "14", "15", "6", "12", "8"]
 +++
 
-**Gnoll Bruiser**
-
 **Challenge rating:** 3
 
 **Gnoll [fighter](ref/class/fighter) 1/[rogue](ref/class/rogue) 1**

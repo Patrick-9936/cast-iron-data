@@ -32,8 +32,6 @@ abilities = ["11", "15", "14", "10", "14", "15"]
 _This faceless, spindly humanoid has dragonfly wings, and its woody skin is covered in shifting
 colors and patterns._
 
-**Choxani**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic neutral

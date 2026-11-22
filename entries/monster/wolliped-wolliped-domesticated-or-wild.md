@@ -26,8 +26,6 @@ melee = "gore +1 (1d8+2)"
 abilities = ["18", "14", "17", "2", "11", "3"]
 +++
 
-**Wolliped (Domesticated or Wild)**
-
 **Challenge rating:** 3
 
 **Type:** animal

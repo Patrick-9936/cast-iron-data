@@ -29,8 +29,6 @@ abilities = ["13", "10", "17", "2", "13", "12"]
 
 _Short legs and overlarge ears make this broad-chested canine seem almost comical._
 
-**Faerie Mount**
-
 **Challenge rating:** 1
 
 **Type:** animal

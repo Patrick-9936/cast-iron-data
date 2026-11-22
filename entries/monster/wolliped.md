@@ -30,8 +30,6 @@ abilities = ["18", "14", "17", "2", "11", "3"]
 _This shaggy, multi-legged creature has a flattened face with wide nostrils and four eyes. Ivory
 tusks jut downward, flanking its mouth._
 
-**Wolliped**
-
 **Challenge rating:** 3
 
 **Type:** animal

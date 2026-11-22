@@ -28,8 +28,6 @@ abilities = ["27", "10", "17", "2", "13", "8"]
 _Thick bony plates armor the dome-like back of this quadrupedal dinosaur, its powerfully muscled
 tail ending in a bony club._
 
-**Ankylosaurus**
-
 **Challenge rating:** 6
 
 **Type:** animal

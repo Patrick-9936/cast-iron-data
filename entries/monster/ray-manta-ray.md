@@ -30,8 +30,6 @@ abilities = ["16", "13", "15", "1", "13", "2"]
 _Gliding gracefully through the water on wing-like fins, this large ray scoops up tiny morsels in
 its wide mouth._
 
-**Manta Ray**
-
 **Challenge rating:** 1
 
 **Type:** animal

@@ -34,8 +34,6 @@ abilities = ["21", "13", "16", "9", "12", "10"]
 
 _This ferocious creature looks like a red-and-yellow scaled dragon, but with only two legs._
 
-**Flame Drake**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

@@ -36,8 +36,6 @@ abilities = ["17", "10", "15", "15", "14", "12"]
 _This flabby, fish-like humanoid has the wide mouth, bulging eyes, and dangling, luminescent flesh
 lure of a deep-sea predator._
 
-**Ceratioidi**
-
 **Challenge rating:** 3
 
 **Initiative:** +0

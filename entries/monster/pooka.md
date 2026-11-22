@@ -31,8 +31,6 @@ abilities = ["10", "16", "13", "11", "12", "13"]
 _This creature combines the features of a sprightly girl and a black rabbit. A wicked, whimsical
 grin gleams on her face._
 
-**Pooka**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

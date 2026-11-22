@@ -31,8 +31,6 @@ abilities = ["22", "15", "20", "2", "15", "17"]
 _This towering, ibis-like bird appears to be sculpted from silver and brass, yet it moves with the
 fluidity of a living creature._
 
-**Stymphalidies**
-
 **Challenge rating:** 8
 
 **Initiative:** +6

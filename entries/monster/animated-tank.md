@@ -31,8 +31,6 @@ abilities = ["35", "12", "-", "13", "10", "9"]
 _Like a deranged caterpillar of grinding metal and protruding turrets, this massive armored vehicle
 dominates the battlefield, spitting hot lead and artillery - seemingly without a crew._
 
-**Animated Tank**
-
 **Challenge rating:** 12
 
 **Type:** construct

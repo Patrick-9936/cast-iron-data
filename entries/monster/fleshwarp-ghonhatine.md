@@ -33,8 +33,6 @@ abilities = ["27", "7", "28", "4", "7", "8"]
 _Even hunched and creeping upon all fours, this reptilian behemoth towers over its prey, its
 protruding teeth snapping wildly._
 
-**Ghonhatine**
-
 **Challenge rating:** 10
 
 **Type:** aberration

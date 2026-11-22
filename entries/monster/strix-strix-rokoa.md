@@ -33,8 +33,6 @@ abilities = ["8", "12", "13", "14", "18", "10"]
 _This proud avian woman stands tall and alert despite her years. Claws, bones, and feathers clatter
 on her crown and staff._
 
-**Strix Rokoa**
-
 **Challenge rating:** 11
 
 **Strix [shaman](ref/class/shaman) ([speaker for the past](ref/arc-shaman/speaker-for-the-past))

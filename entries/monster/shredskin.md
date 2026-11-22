@@ -31,8 +31,6 @@ abilities = ["10", "15", "-", "6", "10", "13"]
 _This floating creature looks like an orc's animate, hollow skin. Its upper half is intact, but its
 lower half is in tatters._
 
-**Shredskin**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

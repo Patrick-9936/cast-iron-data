@@ -32,8 +32,6 @@ _Striped with the brilliant colors of a maritime sunset, this beast winds its en
 the waves, a pair of wiry, talon-tipped arms and a snout full of horrendous teeth preceding a fan of
 razor-like fins._
 
-**Addu**
-
 **Challenge rating:** 15
 
 **Size:** gargantuan

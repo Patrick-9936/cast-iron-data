@@ -32,8 +32,6 @@ abilities = ["10", "16", "15", "19", "15", "14"]
 _This humanoid-shaped figure of folded paper and silken ribbons hovers gently in the air. It wears
 the open cover of some great tome like a metal- and leather-bound mask._
 
-**Scrivenite**
-
 **Challenge rating:** 4
 
 **Initiative:** +7

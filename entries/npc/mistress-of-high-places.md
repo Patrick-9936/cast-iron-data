@@ -15,8 +15,6 @@ kind = "creature"
 cr = "10"
 +++
 
-**Mistress of High Places**
-
 **Challenge rating:** 10
 
 **XP** 9,600\

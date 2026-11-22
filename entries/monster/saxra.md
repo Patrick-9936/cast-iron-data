@@ -31,8 +31,6 @@ abilities = ["36", "25", "-", "13", "23", "26"]
 _An immense humanoid skeleton stands draped in tattered robes, its horse-like skull lit from within
 by an eerie red glow._
 
-**Saxra**
-
 **Challenge rating:** 18
 
 **Size:** huge

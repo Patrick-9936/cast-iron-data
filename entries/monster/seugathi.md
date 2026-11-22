@@ -34,8 +34,6 @@ abilities = ["16", "20", "17", "14", "17", "19"]
 _This worm-like monster has a hideous face of eyes and hooked jaws. It wields a wand and a sword in
 its twin tentacle tails._
 
-**Seugathi**
-
 **Challenge rating:** 6
 
 **Type:** aberration

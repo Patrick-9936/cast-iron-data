@@ -32,8 +32,6 @@ abilities = ["31", "8", "29", "10", "17", "6"]
 _This immense green-skinned brute wields a tree branch for a club and has nine heads, each filled
 with jutting teeth and tusks._
 
-**Jotund Troll**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic evil

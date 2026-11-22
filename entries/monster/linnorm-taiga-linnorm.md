@@ -30,8 +30,6 @@ abilities = ["43", "25", "30", "6", "23", "28"]
 _With menacing black horns jutting from its head, this two-legged dragon is covered in dark green
 scales and vicious black barbs._
 
-**Taiga Linnorm**
-
 **Challenge rating:** 19
 
 **Alignment:** Chaotic evil

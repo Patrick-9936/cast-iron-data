@@ -29,8 +29,6 @@ abilities = ["14", "15", "12", "13", "12", "11"]
 _This small, green ooze shifts form constantly, often taking on a two-legged, vaguely humanoid
 appearance._
 
-**Apallie**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

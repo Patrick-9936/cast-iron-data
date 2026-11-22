@@ -18,8 +18,6 @@ cr = "5"
 _Clad in multicolored silks, this fierce-looking woman seems ready to unleash devastating sorcery
 upon enemy vessels and water-dwelling monsters alike._
 
-**Shackled Sorcerer**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

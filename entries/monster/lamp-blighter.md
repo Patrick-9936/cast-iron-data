@@ -32,8 +32,6 @@ _This creature looks like a tiny, stooped elf with gray skin, cruel claws, and g
 wings. Its mirthless grin exposes sharp teeth, and a bloody string of humanoid eyeballs adorns its
 neck._
 
-**Lamp Blighter**
-
 **Challenge rating:** 6
 
 **blindsight:** 60

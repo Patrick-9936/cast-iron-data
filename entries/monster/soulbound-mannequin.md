@@ -29,8 +29,6 @@ abilities = ["18", "16", "-", "11", "10", "9"]
 
 _This strange construct is shaped like a masked humanoid made of wood and porcelain._
 
-**Soulbound Mannequin**
-
 **Challenge rating:** 7
 
 **Alignment:** N (but see below)

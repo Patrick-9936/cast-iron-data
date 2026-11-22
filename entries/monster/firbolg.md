@@ -32,8 +32,6 @@ abilities = ["20", "13", "14", "15", "13", "14"]
 _This burly, eight-foot-tall humanoid, dressed in a bearskin and equipped with a massive axe, has
 long, red hair and a bushy beard._
 
-**Firbolg**
-
 **Challenge rating:** 4
 
 **Type:** humanoid

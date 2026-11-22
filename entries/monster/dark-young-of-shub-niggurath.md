@@ -30,8 +30,6 @@ abilities = ["30", "17", "24", "16", "19", "21"]
 _The lumbering bulk of a tree-like monster lurches out of the mist, its branches tentacles, its
 roots ending in hooves, and its trunk decorated with numerous drooling maws._
 
-**Dark Young of Shub-Niggurath**
-
 **Challenge rating:** 12
 
 **Type:** aberration

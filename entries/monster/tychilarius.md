@@ -32,8 +32,6 @@ abilities = ["48", "35", "46", "31", "35", "32"]
 _A host of tentacles - some tipped with eyes and others ending in mouths - flail around a massive
 spiraling maw ringed with thousands of teeth._
 
-**Tychilarius**
-
 **Challenge rating:** 23
 
 **Type:** aberration

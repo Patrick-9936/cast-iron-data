@@ -33,8 +33,6 @@ abilities = ["42", "18", "-", "11", "20", "25"]
 _Muscle holds together the large bones that form the hull of this ship. Rotting sails hang from
 masts crafted from gigantic spines._
 
-**Bone Ship**
-
 **Challenge rating:** 18
 
 **aura:** blood wake (40 ft., DC 30)

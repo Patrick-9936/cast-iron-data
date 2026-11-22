@@ -32,8 +32,6 @@ _This towering monstrosity is clad in cracked boulders, jagged shards of rock, s
 metal, and shredded steel. Four immense arms end in rocky fists, and bony wings protrude from its
 back._
 
-**Ulkreth**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic evil

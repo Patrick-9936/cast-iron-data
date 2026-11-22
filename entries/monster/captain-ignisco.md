@@ -33,8 +33,6 @@ abilities = ["13", "16", "16", "12", "10", "16"]
 _This alabaster-skinned man holds a rapier made of intricately carved crystal and wears armor made
 of the same material._
 
-**Captain Ignisco**
-
 **Challenge rating:** 6
 
 **Male munavri [psychic](ref/class/psychic) 2/[swashbuckler](ref/class/swashbuckler) 4**

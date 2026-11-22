@@ -29,8 +29,6 @@ abilities = ["18", "15", "16", "11", "17", "20"]
 
 _A single wicked horn grows from the forehead of this stocky, oryx-like creature._
 
-**Karkadann**
-
 **Challenge rating:** 4
 
 **Initiative:** +2

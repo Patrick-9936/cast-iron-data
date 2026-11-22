@@ -31,8 +31,6 @@ abilities = ["26", "34", "29", "24", "27", "25"]
 _This monster has ten spidery legs, a head writhing with dripping tentacles above a clutch of red
 eyes, and three whipping stingers._
 
-**Thulgant**
-
 **Challenge rating:** 18
 
 **aura:** cloak of chaos (DC 25)

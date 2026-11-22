@@ -31,8 +31,6 @@ abilities = ["31", "15", "20", "4", "15", "6"]
 
 _A dorsal fin rises up from the back of this immense black-and-white-furred, wolf-like beast._
 
-**Akhlut**
-
 **Challenge rating:** 13
 
 **Size:** huge

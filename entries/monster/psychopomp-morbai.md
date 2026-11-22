@@ -30,8 +30,6 @@ abilities = ["12", "18", "21", "14", "17", "13"]
 _This hunched, barefoot old woman leans heavily on her gnarled staff. She wears two plague masks on
 opposite sides of her head._
 
-**Morbai**
-
 **Challenge rating:** 6
 
 **Initiative:** +4

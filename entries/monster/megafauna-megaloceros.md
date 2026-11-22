@@ -31,8 +31,6 @@ abilities = ["20", "15", "18", "2", "15", "5"]
 _The massive and majestic elk stands fully the height of a human at its shoulder, and its antlers
 stretch over ten feet across._
 
-**Megaloceros**
-
 **Challenge rating:** 4
 
 **Type:** animal

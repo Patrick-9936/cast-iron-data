@@ -33,8 +33,6 @@ abilities = ["23", "23", "24", "13", "18", "20"]
 _This human-sized, crab-like creature scuttles on six stumpy legs, and each of its four arms sports
 a different method of inflicting pain._
 
-**Gongorinan**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic evil

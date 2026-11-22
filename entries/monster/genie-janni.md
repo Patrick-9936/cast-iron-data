@@ -32,8 +32,6 @@ abilities = ["16", "15", "12", "14", "15", "13"]
 _This regal figure looks like a tall, well-proportioned human, save that its eyes sparkle with
 strange light._
 
-**Janni**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

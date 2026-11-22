@@ -30,8 +30,6 @@ abilities = ["25", "16", "22", "16", "25", "22"]
 _This corpulent, four-armed fiend is covered in yellow-orange dragon scales, and draconic wings
 sprout from its back._
 
-**Ghalzarokh**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic evil

@@ -33,8 +33,6 @@ abilities = ["26", "13", "18", "1", "14", "5"]
 _This twisted amalgamation of human and goat is covered in matted fur, its teeth sharp and eyes
 eerily blank._
 
-**Capramace**
-
 **Challenge rating:** 7
 
 **Type:** aberration

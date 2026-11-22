@@ -32,8 +32,6 @@ abilities = ["12", "9", "15", "10", "13", "4"]
 _This bald, long-bearded dwarf has dull gray skin, low arching brows, and eyes that seem to absorb
 rather than reflect the light._
 
-**Duergar**
-
 **Challenge rating:** 1/3
 
 **Duergar [warrior](ref/npcclass/warrior) 1**

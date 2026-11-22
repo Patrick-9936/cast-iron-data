@@ -35,8 +35,6 @@ abilities = ["34", "17", "-", "9", "22", "25"]
 _An enormous, animate mass of armed and armored corpses undulates forth, like a siege tower of
 steel-girded flesh._
 
-**Warsworn**
-
 **Challenge rating:** 16
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 26)

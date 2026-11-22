@@ -33,8 +33,6 @@ abilities = ["20", "11", "17", "-", "11", "10"]
 _This gigantic burrowing insect has an oversized abdomen. A terrifying set of long, hooked mandibles
 protrudes from its head._
 
-**Giant Ant Lion**
-
 **Challenge rating:** 5
 
 **Initiative:** +0

@@ -31,8 +31,6 @@ abilities = ["12", "15", "14", "5", "14", "7"]
 _Pale and round-bodied, this giant spider is the size of a large dog. Its crimson eyes glitter with
 malign intelligence._
 
-**Moon Spider**
-
 **Challenge rating:** 2
 
 **Initiative:** +6

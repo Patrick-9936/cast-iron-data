@@ -28,8 +28,6 @@ special_attacks = "runes"
 abilities = ["29", "14", "20", "9", "11", "16"]
 +++
 
-**Inverted Giant**
-
 **Challenge rating:** 11
 
 **aura:** fear aura (60 ft., DC 21)

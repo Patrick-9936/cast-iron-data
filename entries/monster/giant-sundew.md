@@ -29,8 +29,6 @@ abilities = ["31", "26", "18", "1", "12", "6"]
 _This plant is covered with dozens of clear tendrils, each tipped with a glistening red bulb.
 Whip-like fronds unfurl from the center._
 
-**Giant Sundew**
-
 **Challenge rating:** 12
 
 **Size:** huge

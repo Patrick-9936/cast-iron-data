@@ -33,8 +33,6 @@ abilities = ["24", "29", "26", "17", "20", "21"]
 _Eyes with the dead cast of onyx glare from beneath the legionnaire's helmet worn by this ominous,
 black-winged woman._
 
-**Memitim**
-
 **Challenge rating:** 15
 
 **aura:** terminal aura (50 ft., DC 23)

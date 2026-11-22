@@ -34,8 +34,6 @@ abilities = ["-", "16", "-", "14", "16", "15"]
 _This translucent, ghostly figure fades into view from the damp mist, its face distorted by wrath
 into a hideous mask._
 
-**Spectre**
-
 **Challenge rating:** 7
 
 **aura:** [unnatural aura](ref/umr/unnatural-aura) (30 ft.)

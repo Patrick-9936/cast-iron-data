@@ -30,8 +30,6 @@ abilities = ["10", "24", "16", "1", "1", "14"]
 _The body of this humanoid-shaped ooze is composed of an oily, black liquid. Its body ripples as it
 moves, and tendrils of hair flow around its expressionless face._
 
-**Mimic Ooze**
-
 **Challenge rating:** 9
 
 **blindsight:** 60

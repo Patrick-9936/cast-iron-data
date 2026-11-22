@@ -28,8 +28,6 @@ abilities = ["2", "12", "11", "1", "9", "10"]
 
 _This small frog is bright green and red, with electric-blue stripes on its hind legs._
 
-**Poison Frog**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

@@ -29,8 +29,6 @@ abilities = ["17", "15", "17", "2", "12", "6"]
 _This immense lizard moves with a slow but relentless gait. Its feet end in large talons, and ropes
 of drool hang from its toothy maw._
 
-**Monitor Lizard**
-
 **Challenge rating:** 2
 
 **Type:** animal

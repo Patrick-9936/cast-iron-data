@@ -28,8 +28,6 @@ abilities = ["34", "12", "21", "2", "13", "7"]
 _This creature is larger than a normal elephant, with enormous sweeping tusks and shaggy brown fur
 on its body._
 
-**Mastodon**
-
 **Challenge rating:** 9
 
 **Type:** animal

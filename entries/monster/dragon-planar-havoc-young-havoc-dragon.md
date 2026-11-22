@@ -32,8 +32,6 @@ abilities = ["21", "16", "17", "16", "15", "18"]
 _This dragon's scales and insectile wings dance with color, while its whip-like tail waves as if
 stirred by an unseen breeze._
 
-**Young Havoc Dragon**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic good

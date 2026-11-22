@@ -33,8 +33,6 @@ _This armored woman appears to be carved from living marble, her angelic wings r
 shape of a heavenly warrior. In one hand she grips a fearsome glaive, every movement of which paints
 the air around her with swirls and flourishes of magical energy._
 
-**Spirit of Adoration**
-
 **Challenge rating:** 15
 
 **aura:** charming (30 feet, DC 25)

@@ -30,8 +30,6 @@ abilities = ["-", "18", "17", "14", "14", "19"]
 _Only this shadowy bat-winged demon's teeth and claws have any sense of physicality to them - the
 rest is lost in darkness._
 
-**Shadow Demon**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

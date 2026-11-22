@@ -28,8 +28,6 @@ abilities = ["26", "15", "20", "2", "13", "9"]
 _Long-necked and long-tailed, this large, predatory reptile glides through the water on four
 powerful flippers._
 
-**Elasmosaurus**
-
 **Challenge rating:** 7
 
 **Type:** animal

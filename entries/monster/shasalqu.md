@@ -32,8 +32,6 @@ abilities = ["17", "15", "14", "2", "13", "12"]
 
 _A ridge of jagged ice runs down the back of this glistening, desert-dwelling lizard._
 
-**Shasalqu**
-
 **Challenge rating:** 3
 
 **aura:** trapping cold (10 ft., DC 14)

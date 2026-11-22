@@ -32,8 +32,6 @@ abilities = ["28", "21", "18", "12", "13", "17"]
 _This lithe, toothy creature's jet-black skin looks like living tar, and ooze drips from the claws
 that cap its long arms._
 
-**Tarry Demodand**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic evil

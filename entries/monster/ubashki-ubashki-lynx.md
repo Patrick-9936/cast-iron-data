@@ -27,8 +27,6 @@ special_attacks = "piercing howl"
 abilities = ["21", "17", "-", "2", "12", "15"]
 +++
 
-**Ubashki Lynx**
-
 **Challenge rating:** 6
 
 **Initiative:** +7

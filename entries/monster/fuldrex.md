@@ -31,8 +31,6 @@ abilities = ["26", "12", "22", "7", "13", "15"]
 _This minuscule, fleshy plant creature has mottled, green-and-black skin and tiny eyes that peer
 malevolently from beneath layers of dripping, fungal hair._
 
-**Fuldrex**
-
 **Challenge rating:** 11
 
 **Initiative:** +5

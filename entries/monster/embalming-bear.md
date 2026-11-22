@@ -29,8 +29,6 @@ abilities = ["22", "8", "-", "-", "11", "1"]
 _This decaying taxidermic bear is held together with thick stitches, metal armor plates, and a
 pungent chemical fluid._
 
-**Embalming Bear**
-
 **Challenge rating:** 7
 
 **Type:** construct

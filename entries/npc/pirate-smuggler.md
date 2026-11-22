@@ -18,8 +18,6 @@ cr = "2"
 _This shady-looking sailor has a knowing glint in his eyes, which shift from side to side as he
 evaluates his surroundings._
 
-**Pirate (Smuggler)**
-
 **Challenge rating:** 2
 
 **XP** 600\

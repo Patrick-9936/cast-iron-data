@@ -31,8 +31,6 @@ abilities = ["40", "31", "-", "-", "11", "21"]
 _This partially humanoid creature appears to be carved of smoky glass. Ghostly, screaming faces
 swirl within its immense body._
 
-**Quintessence Golem**
-
 **Challenge rating:** 20
 
 **aura:** soul siphon (100 ft.)

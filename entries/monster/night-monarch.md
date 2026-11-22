@@ -32,8 +32,6 @@ abilities = ["25", "22", "23", "20", "18", "24"]
 _This moth-like creature has a long, three-pronged tail akin to peacock feathers. Sparkling dust
 drifts from its gigantic wings._
 
-**Night Monarch**
-
 **Challenge rating:** 15
 
 **blindsense:** 60

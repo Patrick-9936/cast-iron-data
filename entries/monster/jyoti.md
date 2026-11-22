@@ -32,8 +32,6 @@ abilities = ["14", "20", "19", "12", "15", "15"]
 _This phoenix-like humanoid is surrounded by a halo of radiant energy. Its spear is tipped with a
 carved crystal blade._
 
-**Jyoti**
-
 **Challenge rating:** 9
 
 **Initiative:** +5

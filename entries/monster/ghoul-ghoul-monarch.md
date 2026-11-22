@@ -28,8 +28,6 @@ special_qualities = "bloodline arcana (heal when casting necromancy spells)"
 abilities = ["13", "22", "-", "15", "16", "22"]
 +++
 
-**Ghoul Monarch**
-
 **Challenge rating:** 12
 
 **Ghoul [sorcerer](ref/class/sorcerer) 12**

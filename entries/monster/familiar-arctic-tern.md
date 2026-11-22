@@ -30,8 +30,6 @@ abilities = ["2", "15", "7", "2", "14", "5"]
 
 _This white-and-gray bird has a reddish-orange beak._
 
-**Arctic Tern**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

@@ -29,8 +29,6 @@ abilities = ["10", "11", "14", "-", "10", "2"]
 _This outsized scorpion has a translucent shell, allowing one to see through to the creature's
 internal organs._
 
-**Ghost Scorpion**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +0

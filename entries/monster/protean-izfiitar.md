@@ -29,8 +29,6 @@ abilities = ["29", "31", "28", "24", "27", "28"]
 
 _This serpentine monster has six arms and is crowned by a halo of ever-changing symbols._
 
-**Izfiitar**
-
 **Challenge rating:** 20
 
 **aura:** cloak of chaos (DC 27)

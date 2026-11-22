@@ -29,8 +29,6 @@ abilities = ["10", "18", "15", "10", "9", "15"]
 
 _Vicious shadows wrap around the form of this pudgy, white-eyed child._
 
-**Redkind**
-
 **Challenge rating:** 2
 
 **aura:** twisted shadows (30 ft.; DC 13)

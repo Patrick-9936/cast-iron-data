@@ -30,8 +30,6 @@ special_qualities = "favored terrain (mountain +2), hunter's bond (companions), 
 abilities = ["17", "16", "12", "8", "12", "6"]
 +++
 
-**Orc Scout**
-
 **Challenge rating:** 5
 
 **Orc [ranger](ref/class/ranger) 6**

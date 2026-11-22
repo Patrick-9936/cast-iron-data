@@ -30,8 +30,6 @@ abilities = ["13", "15", "15", "2", "12", "6"]
 _The size of a short, stocky humanoid with webbed feet and claws, this frog-like creature has
 glowing white eyes._
 
-**Blindheim**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

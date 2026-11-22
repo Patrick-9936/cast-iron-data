@@ -32,8 +32,6 @@ abilities = ["21", "13", "16", "5", "12", "10"]
 _This creature resembles a fallen tree trunk that walks upon dozens of tiny, barbed branches and
 shambles like a spider._
 
-**Deadfall Dweller**
-
 **Challenge rating:** 5
 
 **Initiative:** +5

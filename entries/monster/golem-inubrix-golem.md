@@ -29,8 +29,6 @@ abilities = ["24", "16", "-", "-", "11", "1"]
 _This hulking figure shines with a metallic luster as a heavy yellow gas flows from the creature's
 back._
 
-**Inubrix Golem**
-
 **Challenge rating:** 14
 
 **Type:** construct

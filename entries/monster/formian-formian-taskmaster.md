@@ -31,8 +31,6 @@ abilities = ["17", "14", "16", "13", "16", "19"]
 
 _This centaur-like creature is equipped with an ant's mandibles and antennae._
 
-**Formian Taskmaster**
-
 **Challenge rating:** 7
 
 **blindsight:** 30

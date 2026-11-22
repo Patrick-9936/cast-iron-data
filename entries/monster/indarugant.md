@@ -31,8 +31,6 @@ abilities = ["31", "14", "-", "12", "19", "19"]
 _Taut, leathery skin clings to the skeleton of this giant, whose hide garments only partially
 conceal the simple geometric tattoos and ancient battle scars that decorate his flesh._
 
-**Indarugant**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic evil

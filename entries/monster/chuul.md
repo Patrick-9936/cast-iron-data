@@ -32,8 +32,6 @@ abilities = ["25", "16", "18", "10", "14", "5"]
 _This lobster-like creature has a thick armored shell. A pair of tiny eyes gleams above a mouth full
 of writhing tentacles._
 
-**Chuul**
-
 **Challenge rating:** 7
 
 **Type:** aberration

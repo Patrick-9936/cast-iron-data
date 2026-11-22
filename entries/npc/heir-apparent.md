@@ -15,8 +15,6 @@ kind = "creature"
 cr = "2"
 +++
 
-**Heir Apparent**
-
 **Challenge rating:** 2
 
 **XP** 600\

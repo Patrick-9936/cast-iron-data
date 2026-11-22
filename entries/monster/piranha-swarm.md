@@ -33,8 +33,6 @@ abilities = ["3", "16", "15", "1", "12", "2"]
 _This swarm of silver-scaled fish thrashes feverishly, the dozens of swiftly moving creatures within
 seeming restless and bloodthirsty._
 
-**Piranha Swarm**
-
 **Challenge rating:** 3
 
 **Type:** animal

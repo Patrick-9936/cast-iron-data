@@ -34,8 +34,6 @@ abilities = ["-", "10", "20", "-", "1", "10"]
 _A glimmering vision shimmers on the horizon, the very air coalescing into an oasis that may or may
 not exist._
 
-**Living Mirage**
-
 **Challenge rating:** 9
 
 **Size:** gargantuan

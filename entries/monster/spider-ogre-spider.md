@@ -30,8 +30,6 @@ abilities = ["21", "15", "16", "-", "12", "2"]
 _This towering spider is the size of an elephant. Its legs have spiky joints and its face looks
 vaguely, but disturbingly, humanoid._
 
-**Ogre Spider**
-
 **Challenge rating:** 5
 
 **Size:** huge

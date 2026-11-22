@@ -30,8 +30,6 @@ abilities = ["14", "18", "17", "15", "15", "14"]
 _This sleek, long-legged, antelope-like figure has majestic pronged horns and ruffs of white fur on
 its chest and neck._
 
-**Cervapral**
-
 **Challenge rating:** 5
 
 **Initiative:** +4

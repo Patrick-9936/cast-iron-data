@@ -32,8 +32,6 @@ abilities = ["20", "25", "28", "19", "20", "21"]
 _Bird-like wings covered with autumnal leaves instead of feathers extend from the back of this
 regal, elf-like humanoid._
 
-**Erlking**
-
 **Challenge rating:** 18
 
 **Alignment:** Chaotic neutral

@@ -34,8 +34,6 @@ abilities = ["27", "17", "19", "8", "15", "12"]
 _Cold, black eyes stare out from the fish-like face of this hideous green-skinned, web-fingered, and
 obese giant._
 
-**Marsh Giant**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

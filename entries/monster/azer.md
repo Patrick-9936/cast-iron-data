@@ -31,8 +31,6 @@ abilities = ["13", "12", "15", "12", "12", "9"]
 _Heat ripples the air near this squat, brass-skinned humanoid. Its head and shoulders blaze with a
 mane of fire._
 
-**Azer**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

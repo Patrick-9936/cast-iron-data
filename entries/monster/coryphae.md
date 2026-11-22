@@ -30,8 +30,6 @@ abilities = ["15", "21", "16", "10", "12", "21"]
 _A crown of softly glowing crystals caps the head of this hauntingly beautiful, midnight-black
 figure._
 
-**Coryphae**
-
 **Challenge rating:** 6
 
 **Type:** fey

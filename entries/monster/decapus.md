@@ -30,8 +30,6 @@ abilities = ["16", "13", "15", "10", "11", "12"]
 _This swollen cephalopod has ten writhing tentacles and a hideously monstrous face with pale, milky
 eyes on its bulbous body._
 
-**Decapus**
-
 **Challenge rating:** 4
 
 **Type:** aberration

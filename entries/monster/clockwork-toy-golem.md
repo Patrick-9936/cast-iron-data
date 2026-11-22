@@ -31,8 +31,6 @@ abilities = ["18", "9", "-", "-", "11", "1"]
 
 _This amalgam of mechanical toys clacks and whirs._
 
-**Toy Golem**
-
 **Challenge rating:** 5
 
 **Clockwork variant [junk golem](ref/monster/golem-junk-golem)**

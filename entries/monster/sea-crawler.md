@@ -31,8 +31,6 @@ abilities = ["11", "15", "13", "2", "12", "6"]
 _This furred creature has long tentacles that are covered in ridges and suction discs in place of
 arms, legs, and a tail._
 
-**Sea Crawler**
-
 **Challenge rating:** 1
 
 **Type:** animal

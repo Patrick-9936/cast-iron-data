@@ -29,8 +29,6 @@ special_qualities = "bloodline arcana (spells that deal acid damage deal +1 dama
 abilities = ["17", "10", "15", "11", "8", "18"]
 +++
 
-**Lizardfolk Sorcerer**
-
 **Challenge rating:** 12
 
 **Lizardfolk [sorcerer](ref/class/sorcerer) 11**

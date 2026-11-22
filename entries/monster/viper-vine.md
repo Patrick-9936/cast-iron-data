@@ -30,8 +30,6 @@ abilities = ["26", "19", "19", "1", "10", "6"]
 _Large tendrils ending in tiny claws unfurl from the central stalk of this plant, which rises like a
 serpent ready to strike._
 
-**Viper Vine**
-
 **Challenge rating:** 13
 
 **Initiative:** +8

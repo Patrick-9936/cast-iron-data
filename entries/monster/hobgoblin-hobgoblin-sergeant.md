@@ -32,8 +32,6 @@ abilities = ["15", "14", "16", "13", "10", "8"]
 _Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant
 eyes._
 
-**Hobgoblin Sergeant**
-
 **Challenge rating:** 2
 
 **Hobgoblin [fighter](ref/class/fighter) 3**

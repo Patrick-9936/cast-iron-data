@@ -30,8 +30,6 @@ abilities = ["13", "15", "12", "10", "12", "11"]
 _This hairless simian's leathery skin has a camouflage pattern to it that shifts and changes as the
 creature moves._
 
-**Kech**
-
 **Challenge rating:** 3
 
 **Initiative:** +2

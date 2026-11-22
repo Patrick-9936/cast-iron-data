@@ -30,8 +30,6 @@ abilities = ["31", "12", "25", "20", "21", "26"]
 
 _The facets of this crystalline dragon's body reflect fascinating and sparkling patterns._
 
-**Prism Dragon**
-
 **Challenge rating:** 17
 
 **blindsight:** 30

@@ -30,8 +30,6 @@ abilities = ["18", "11", "17", "12", "16", "15"]
 _The blue-white scales of this four-horned dragon exude wisps of fog. The dragon's snout is short
 but filled with sharp teeth._
 
-**Young Cloud Dragon**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic neutral

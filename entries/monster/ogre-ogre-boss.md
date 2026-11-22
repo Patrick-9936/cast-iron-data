@@ -32,8 +32,6 @@ abilities = ["26", "6", "19", "6", "12", "7"]
 _This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy face features a wide
 mouth with ill-fitting teeth._
 
-**Ogre Boss**
-
 **Challenge rating:** 7
 
 **Ogre [fighter](ref/class/fighter) 4**

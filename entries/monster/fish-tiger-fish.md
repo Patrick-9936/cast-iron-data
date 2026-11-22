@@ -30,8 +30,6 @@ abilities = ["15", "14", "13", "1", "12", "2"]
 
 _Deadly, wolf like teeth fill the mouth of this brawny fish._
 
-**Tiger Fish**
-
 **Challenge rating:** 1
 
 **Type:** animal

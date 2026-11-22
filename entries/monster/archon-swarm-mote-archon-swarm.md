@@ -32,8 +32,6 @@ abilities = ["1", "28", "20", "12", "17", "19"]
 _Thousands of golden lights form a cloud, swirling gracefully around one another. Each light in the
 cloud is a glowing rune no bigger than a thumbnail._
 
-**Mote Archon Swarm**
-
 **Challenge rating:** 15
 
 **aura:** aura of menace (DC 23), _[magic circle against evil](ref/spell/magic-circle-against-evil)_

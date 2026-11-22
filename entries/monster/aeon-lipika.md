@@ -32,8 +32,6 @@ abilities = ["22", "23", "24", "22", "25", "23"]
 _Shrouded in a dark cloak, this featureless humanoid has four forearms that each split off at the
 elbow, and an eye on each of its eight palms._
 
-**Lipika**
-
 **Challenge rating:** 18
 
 **Initiative:** +10

@@ -30,8 +30,6 @@ special_qualities = "fast movement, hold breath"
 abilities = ["22", "14", "19", "9", "12", "8"]
 +++
 
-**Lizardfolk Berserker**
-
 **Challenge rating:** 5
 
 **Lizardfolk [barbarian](ref/class/barbarian) 4**

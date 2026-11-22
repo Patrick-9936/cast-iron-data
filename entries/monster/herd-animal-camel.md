@@ -27,8 +27,6 @@ abilities = ["18", "16", "14", "2", "11", "4"]
 
 _This somewhat irritated-looking, one-humped camel has been outfitted with a bridle and saddle._
 
-**Camel**
-
 **Challenge rating:** 1
 
 **Type:** animal

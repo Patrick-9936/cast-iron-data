@@ -28,8 +28,6 @@ abilities = ["4", "16", "14", "7", "11", "13"]
 
 _This snarling blue-white monkey flies through the air on a pair of bird-like wings._
 
-**Xiao**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

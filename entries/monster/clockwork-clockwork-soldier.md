@@ -32,8 +32,6 @@ abilities = ["28", "15", "-", "-", "11", "1"]
 _Cogs and gears are visible in the gaps of this metallic creature's armor. It wields a polearm as it
 stands ready at attention._
 
-**Clockwork Soldier**
-
 **Challenge rating:** 6
 
 **Type:** construct

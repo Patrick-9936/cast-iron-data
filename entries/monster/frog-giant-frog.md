@@ -30,8 +30,6 @@ abilities = ["15", "13", "16", "1", "8", "6"]
 _This creature looks like a normal frog, with moist, mottled, blackish-green skin, but grown to
 truly monstrous size._
 
-**Giant Frog**
-
 **Challenge rating:** 1
 
 **Type:** animal

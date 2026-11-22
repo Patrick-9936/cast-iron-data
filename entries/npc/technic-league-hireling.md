@@ -18,8 +18,6 @@ cr = "3"
 _This woman's once-fine garments are tattered and stained with unnatural fluids, but her protective
 gear is carefully maintained._
 
-**Technic League Hireling**
-
 **Challenge rating:** 3
 
 **XP** 800\

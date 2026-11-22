@@ -29,8 +29,6 @@ abilities = ["12", "16", "11", "10", "8", "17"]
 
 _Wings composed of wood and vines grow out of the body of this lithesome fey._
 
-**Gathlain**
-
 **Challenge rating:** 1/2
 
 **Gathlain [sorcerer](ref/class/sorcerer) 1**

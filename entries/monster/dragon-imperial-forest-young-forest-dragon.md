@@ -31,8 +31,6 @@ abilities = ["23", "12", "18", "12", "13", "12"]
 _This massive serpentine and wingless creature has jade scales and antlers, and sounds like grinding
 stones as it stalks forth._
 
-**Young Forest Dragon**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic evil

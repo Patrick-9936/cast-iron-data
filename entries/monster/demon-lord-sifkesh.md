@@ -31,8 +31,6 @@ abilities = ["32", "35", "42", "33", "29", "36"]
 _This gaunt woman has blood-soaked hair, eyes and lips stitched shut with wire, and severed limbs
 that float nearby as if they were still attached._
 
-**Sifkesh**
-
 **Challenge rating:** 28
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 38), unholy aura (20 ft., DC

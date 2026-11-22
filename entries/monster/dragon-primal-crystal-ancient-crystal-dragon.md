@@ -29,8 +29,6 @@ special_qualities = "razor sharp"
 abilities = ["31", "10", "25", "20", "21", "26"]
 +++
 
-**Ancient Crystal Dragon**
-
 **Challenge rating:** 15
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 28)

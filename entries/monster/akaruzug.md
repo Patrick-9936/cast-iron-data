@@ -34,8 +34,6 @@ abilities = ["26", "17", "-", "15", "18", "19"]
 _This stony guardian has been sculpted in the shape of a grim, horned angel, and a crucified corpse
 has been affixed to its chest._
 
-**Akaruzug**
-
 **Challenge rating:** 15
 
 **aura:** unhallow (40 ft.)

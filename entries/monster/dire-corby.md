@@ -33,8 +33,6 @@ abilities = ["13", "12", "15", "7", "10", "8"]
 _This creature looks like a humanoid crow with oily black feathers, glittering eyes, and a sharp
 beak._
 
-**Dire Corby**
-
 **Challenge rating:** 1
 
 **Initiative:** +1

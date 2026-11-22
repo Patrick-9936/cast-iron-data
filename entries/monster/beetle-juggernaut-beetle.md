@@ -28,8 +28,6 @@ abilities = ["31", "9", "20", "2", "13", "8"]
 
 _This massive insect lumbers ominously, waving scythe-like mandibles that reek of acid._
 
-**Juggernaut Beetle**
-
 **Challenge rating:** 14
 
 **Size:** huge

@@ -32,8 +32,6 @@ abilities = ["27", "22", "23", "12", "14", "15"]
 _Jagged cracks and pebbled growths mar the surface of this three-eyed giant's rocky skin, making it
 appear to have burst forth from rugged stone._
 
-**Earth Yai**
-
 **Challenge rating:** 13
 
 **Initiative:** +6

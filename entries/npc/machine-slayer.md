@@ -18,8 +18,6 @@ cr = "8"
 _Battered scraps of metal hang from this battle-scarred archer's necklace, trophies of the fierce
 Kellid's many mechanical kills._
 
-**Machine Slayer**
-
 **Challenge rating:** 8
 
 **XP** 4,800\

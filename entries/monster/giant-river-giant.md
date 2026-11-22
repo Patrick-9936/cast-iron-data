@@ -31,8 +31,6 @@ abilities = ["20", "11", "19", "9", "10", "8"]
 
 _This slender giant dresses in simple clothes and has swirling patterns on her green skin._
 
-**River Giant**
-
 **Challenge rating:** 6
 
 **Alignment:** CG or CE

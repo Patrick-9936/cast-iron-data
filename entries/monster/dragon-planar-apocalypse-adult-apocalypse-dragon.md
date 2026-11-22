@@ -31,8 +31,6 @@ abilities = ["35", "10", "23", "20", "21", "20"]
 
 _Gangrenous wounds mar this dragon's twisted body._
 
-**Adult Apocalypse Dragon**
-
 **Challenge rating:** 16
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 25)

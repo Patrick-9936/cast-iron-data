@@ -30,8 +30,6 @@ abilities = ["25", "16", "23", "13", "18", "22"]
 _This muscular fiend has two vertically mirrored faces, four arms, and a quartet of sinister
 punching daggers._
 
-**Hishandura**
-
 **Challenge rating:** 15
 
 **aura:** elusive (75 ft.)

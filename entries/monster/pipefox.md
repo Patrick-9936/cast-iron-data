@@ -29,8 +29,6 @@ abilities = ["1", "16", "9", "14", "11", "14"]
 
 _This furry, minute serpent has a fox-like head and tiny eyes that glitter with intelligence._
 
-**Pipefox**
-
 **Challenge rating:** 2
 
 **Size:** diminutive

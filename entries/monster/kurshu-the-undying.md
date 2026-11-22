@@ -32,8 +32,6 @@ abilities = ["20", "23", "26", "31", "20", "25"]
 _This large creature has the upper body of a winged woman and the lower body of a snake. She looks
 withered, like a preserved corpse._
 
-**Kurshu the Undying**
-
 **Challenge rating:** 15
 
 **blindsense:** 60

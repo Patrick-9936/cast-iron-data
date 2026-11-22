@@ -32,8 +32,6 @@ abilities = ["13", "10", "13", "9", "10", "10"]
 _This reptilian humanoid has green scales, a short and toothy snout, and a thick alligator-like
 tail._
 
-**Lizardfolk**
-
 **Challenge rating:** 1
 
 **Type:** humanoid

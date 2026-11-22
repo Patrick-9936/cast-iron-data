@@ -33,8 +33,6 @@ abilities = ["12", "19", "10", "13", "16", "13"]
 _Jagged scales cover this lean humanoid's sculpted skin, glinting as it soars upon a disk of radiant
 energy._
 
-**Shulsaga**
-
 **Challenge rating:** 3
 
 **Initiative:** +8

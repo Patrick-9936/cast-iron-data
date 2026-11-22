@@ -31,8 +31,6 @@ abilities = ["-", "13", "24", "9", "24", "24"]
 _The air here is eerily still, and the normal sound of the wind is replaced by a barely audible
 hum._
 
-**Living Doldrums**
-
 **Challenge rating:** 12
 
 **aura:** stagnant (240 ft.)

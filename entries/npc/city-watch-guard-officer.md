@@ -15,8 +15,6 @@ kind = "creature"
 cr = "3"
 +++
 
-**City Watch (Guard Officer)**
-
 **Challenge rating:** 3
 
 **XP** 800\

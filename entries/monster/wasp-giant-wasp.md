@@ -29,8 +29,6 @@ abilities = ["18", "12", "18", "-", "13", "11"]
 _This horse-sized wasp is covered in yellow and black vertical stripes - its stinger is the size of
 a sword and drips with venom._
 
-**Giant Wasp**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

@@ -31,8 +31,6 @@ abilities = ["8", "15", "-", "14", "10", "14"]
 _This small construct resembles a house cat. It bears elaborate markings, and the core in its head
 glows with a warm light._
 
-**Familiar Automaton**
-
 **Challenge rating:** 2
 
 **Type:** construct

@@ -39,8 +39,6 @@ abilities = ["14", "10", "-", "-", "1", "1"]
 _The skeleton locked within rattles as this animated cage lurches forward on chain legs in search of
 new prisoners._
 
-**Animated Object**
-
 **Challenge rating:** 3
 
 **Type:** construct

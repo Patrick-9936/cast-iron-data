@@ -31,8 +31,6 @@ abilities = ["38", "21", "42", "33", "30", "33"]
 _This tripartite being has three humanoid bodies engulfed from the waist down by a tangle of three
 immense serpents._
 
-**Geryon**
-
 **Challenge rating:** 29
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 38), shield of law (DC 29)

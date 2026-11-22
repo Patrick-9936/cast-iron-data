@@ -34,8 +34,6 @@ shovel rocks into its open maw. Gleaming drills set around the construct's base 
 easily break apart stone, and a gleaming scope of dark-hued glass projects from the end of a jointed
 arm._
 
-**Clockwork Excavator**
-
 **Challenge rating:** 10
 
 **Type:** construct

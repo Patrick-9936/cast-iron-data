@@ -15,8 +15,6 @@ kind = "creature"
 cr = "3"
 +++
 
-**Lastwall Border Scout**
-
 **Challenge rating:** 3
 
 **XP** 800\

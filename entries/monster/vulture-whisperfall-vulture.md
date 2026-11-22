@@ -28,8 +28,6 @@ abilities = ["12", "15", "14", "2", "13", "7"]
 
 _This dark-winged vulture has a wickedly hooked beak stained with bright red blood._
 
-**Whisperfall Vulture**
-
 **Challenge rating:** 1
 
 **Type:** animal

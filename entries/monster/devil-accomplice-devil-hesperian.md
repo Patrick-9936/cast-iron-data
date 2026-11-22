@@ -31,8 +31,6 @@ abilities = ["13", "10", "11", "14", "13", "14"]
 _This robed figure appears human except for snake-like eyes, a pair of devilish horns, and the
 occasional dart of a forked tongue._
 
-**Accomplice Devil (Hesperian)**
-
 **Challenge rating:** 4
 
 **Initiative:** +4

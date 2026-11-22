@@ -30,8 +30,6 @@ abilities = ["28", "23", "17", "2", "16", "9"]
 _Ligaments of stringy black fungus connect the bones of this filthy skeleton. In numerous places,
 the fungus has formed thorny growths._
 
-**Bonethorn**
-
 **Challenge rating:** 12
 
 **Initiative:** +10

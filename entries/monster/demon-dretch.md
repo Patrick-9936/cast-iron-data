@@ -29,8 +29,6 @@ abilities = ["12", "10", "14", "5", "11", "11"]
 _This creature's bloated frame shudders with each heaving step, yet despite its shape, the thing
 moves with surprising quickness._
 
-**Dretch**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

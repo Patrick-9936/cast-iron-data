@@ -32,8 +32,6 @@ abilities = ["12", "15", "11", "10", "15", "10"]
 
 _This stag-headed humanoid has large, sweeping antlers and wields a finely-crafted longbow._
 
-**Stag Archon**
-
 **Challenge rating:** 4
 
 **aura:** aura of menace (20 ft., DC 15, 10 rounds)

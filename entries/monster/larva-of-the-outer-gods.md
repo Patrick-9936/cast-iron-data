@@ -31,8 +31,6 @@ abilities = ["20", "26", "23", "11", "20", "23"]
 _This creature is a terrifying amalgamation of chitinous scales, bloated flesh, unblinking eyes, and
 writhing tentacles._
 
-**Larva of the Outer Gods**
-
 **Challenge rating:** 15
 
 **Type:** aberration

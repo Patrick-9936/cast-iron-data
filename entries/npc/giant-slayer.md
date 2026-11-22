@@ -15,8 +15,6 @@ kind = "creature"
 cr = "11"
 +++
 
-**Giant Slayer**
-
 **Challenge rating:** 11
 
 **XP** 12,800\

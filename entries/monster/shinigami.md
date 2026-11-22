@@ -31,8 +31,6 @@ abilities = ["21", "20", "24", "17", "22", "29"]
 _This emaciated, robed humanoid wields a scythe made of bone to match the skeletal wings that
 protrude from its shoulders._
 
-**Shinigami**
-
 **Challenge rating:** 17
 
 **aura:** fear aura (60 ft., DC 30)

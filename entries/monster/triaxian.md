@@ -32,8 +32,6 @@ _This warrior looks like an attractive humanoid with pointed, feather-like ears 
 long, horizontal slits. Though he has no true hair, his entire body is covered in short, sleek white
 fur._
 
-**Triaxian**
-
 **Challenge rating:** 1/2
 
 **Triaxian [ranger](ref/class/ranger) 1**

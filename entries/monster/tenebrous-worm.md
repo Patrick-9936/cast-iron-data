@@ -31,8 +31,6 @@ abilities = ["17", "16", "20", "2", "13", "7"]
 _This pallid beast clatters upon dozens of small legs. Writhing bristles twitch on its back, and its
 shadow seems strangely mobile._
 
-**Tenebrous Worm**
-
 **Challenge rating:** 8
 
 **Initiative:** +7

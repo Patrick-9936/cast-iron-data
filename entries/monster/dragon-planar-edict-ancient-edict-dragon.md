@@ -29,8 +29,6 @@ special_qualities = "planar infusion (300 ft.)"
 abilities = ["39", "6", "29", "24", "29", "24"]
 +++
 
-**Ancient Edict Dragon**
-
 **Challenge rating:** 21
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 31)

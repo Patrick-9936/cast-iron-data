@@ -33,8 +33,6 @@ abilities = ["45", "20", "-", "-", "11", "1"]
 _The gears of this enormous, four-armed mechanical giant shriek and grind in a deafening cacophony
 as it lumbers forth._
 
-**Clockwork Goliath**
-
 **Challenge rating:** 19
 
 **Type:** construct

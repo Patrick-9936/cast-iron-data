@@ -31,8 +31,6 @@ abilities = ["19", "8", "16", "9", "16", "15"]
 _An unnatural tittering issues forth from the fanged maw of this floating mass of talon-tipped
 tentacles, all as red as freshly spilled blood._
 
-**Star Vampire**
-
 **Challenge rating:** 6
 
 **Type:** aberration

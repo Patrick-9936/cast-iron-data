@@ -28,8 +28,6 @@ abilities = ["11", "10", "15", "-", "11", "2"]
 
 _This dog-sized tick has a grotesquely bulbous body and a thin head equipped with hooked mandibles._
 
-**Giant Tick**
-
 **Challenge rating:** 1
 
 **Initiative:** +0

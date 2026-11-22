@@ -30,8 +30,6 @@ abilities = ["22", "15", "-", "13", "10", "19"]
 _This black-clad figure has a pale, puffy face from which its yellow-irised eyes glare with equal
 parts intensity and insanity._
 
-**Keeper of the Yellow Sign**
-
 **Challenge rating:** 6
 
 **aura:** disquieting aura (30 ft., DC 17)

@@ -30,8 +30,6 @@ abilities = ["34", "14", "25", "2", "11", "11"]
 _Spine-frilled neck arching up from the water like a snake ready to strike, this ship-sized serpent
 hisses a challenge._
 
-**Sea Serpent**
-
 **Challenge rating:** 12
 
 **Size:** gargantuan

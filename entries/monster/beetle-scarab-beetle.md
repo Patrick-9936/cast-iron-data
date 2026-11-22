@@ -28,8 +28,6 @@ abilities = ["23", "12", "16", "-", "10", "1"]
 
 _This glossy blue-black beetle is the size of a cow._
 
-**Scarab Beetle**
-
 **Challenge rating:** 6
 
 **Initiative:** +1

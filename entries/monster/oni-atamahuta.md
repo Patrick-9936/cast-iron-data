@@ -31,8 +31,6 @@ abilities = ["25", "12", "20", "13", "16", "17"]
 _This large humanoid creature has two heads, one brutish-looking, the other with three eyes and gems
 and tattoos decorating its forehead._
 
-**Atamahuta**
-
 **Challenge rating:** 11
 
 **Initiative:** +5

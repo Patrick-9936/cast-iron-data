@@ -15,8 +15,6 @@ kind = "creature"
 cr = "9"
 +++
 
-**Pathfinder Chronicler**
-
 **Challenge rating:** 9
 
 **XP** 6,400\

@@ -33,8 +33,6 @@ abilities = ["18", "15", "13", "5", "12", "8"]
 
 _This small, three-eyed creature has ragged, red-streaked wings and a menacingly barbed tail._
 
-**Lamhigyn**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

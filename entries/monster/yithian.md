@@ -31,8 +31,6 @@ abilities = ["22", "13", "17", "24", "19", "18"]
 _This bizarre creature has a conical body topped with four tentacles tipped with pincers, tubes, and
 a tentacled, spherical head._
 
-**Yithian**
-
 **Challenge rating:** 9
 
 **Type:** aberration

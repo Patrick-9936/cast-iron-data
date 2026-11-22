@@ -29,8 +29,6 @@ abilities = ["21", "13", "19", "2", "12", "6"]
 _Broad, powerful muscles move beneath this massive bear's brown fur, promising both speed and lethal
 force._
 
-**Grizzly Bear**
-
 **Challenge rating:** 4
 
 **Type:** animal

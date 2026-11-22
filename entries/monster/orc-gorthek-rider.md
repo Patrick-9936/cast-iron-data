@@ -29,8 +29,6 @@ special_qualities = "expert trainer +3, mount (gorthek), order of the cockatrice
 abilities = ["19", "10", "14", "6", "10", "12"]
 +++
 
-**Gorthek Rider**
-
 **Challenge rating:** 6
 
 **Orc [cavalier](ref/class/cavalier) 7**

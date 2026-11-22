@@ -31,8 +31,6 @@ abilities = ["34", "13", "22", "13", "20", "9"]
 _This massive horror looks like a shark protected by a crab carapace, with a tail, flanks, and
 pectoral fins covered in cruel hooks._
 
-**Isonade**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic evil

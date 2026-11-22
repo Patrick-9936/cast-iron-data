@@ -30,8 +30,6 @@ abilities = ["12", "16", "15", "12", "11", "13"]
 _This creature looks like a gilled dolphin with a row of spiral horns down its back, arcs of
 electricity crackling between them._
 
-**Ekekeh**
-
 **Challenge rating:** 4
 
 **Type:** fey

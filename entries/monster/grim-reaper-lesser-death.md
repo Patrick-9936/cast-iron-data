@@ -28,8 +28,6 @@ abilities = ["27", "30", "-", "15", "23", "24"]
 
 _One bleached-bone hand of this robed, skeletal figure grasps a massive, curved scythe._
 
-**Lesser Death**
-
 **Challenge rating:** 16
 
 **aura:** misfortune (10 ft.), [unnatural aura](ref/umr/unnatural-aura)

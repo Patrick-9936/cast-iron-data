@@ -32,8 +32,6 @@ abilities = ["31", "18", "32", "15", "21", "24"]
 _This imposing humanoid is clad in black chainmail with a featureless helm. It clutches a serrated
 dire flail in its gauntlets, and several pairs of manacles on its belt writhe of their own accord._
 
-**Phylacator**
-
 **Challenge rating:** 18
 
 **Initiative:** +4

@@ -29,8 +29,6 @@ special_qualities = "change shape, join dreamscape"
 abilities = ["33", "9", "24", "24", "23", "26"]
 +++
 
-**Ancient Dream Dragon**
-
 **Challenge rating:** 19
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 30)

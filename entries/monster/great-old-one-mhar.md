@@ -31,8 +31,6 @@ abilities = ["42", "13", "38", "28", "31", "29"]
 _Eight pairs of crystalline legs support this enormous volcano. The volcano's crater constantly
 spews smoke and roiling lava._
 
-**Mhar**
-
 **Challenge rating:** 26
 
 **Type:** aberration

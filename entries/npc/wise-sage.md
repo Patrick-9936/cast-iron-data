@@ -15,8 +15,6 @@ kind = "creature"
 cr = "6"
 +++
 
-**Wise Sage**
-
 **Challenge rating:** 6
 
 **XP** 2,400\

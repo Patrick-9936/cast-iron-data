@@ -30,8 +30,6 @@ abilities = ["18", "11", "14", "11", "16", "15"]
 _Fashioned of jade and steel and wielding a gleaming katana, this mechanical samurai has six green
 gemstone eyes._
 
-**Novenarut**
-
 **Challenge rating:** 4
 
 **Initiative:** +0

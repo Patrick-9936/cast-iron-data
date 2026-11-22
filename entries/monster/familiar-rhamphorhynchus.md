@@ -32,8 +32,6 @@ abilities = ["6", "17", "11", "2", "14", "11"]
 _This creature looks like a cross between a bird and a reptile, sporting leathery wings, a beak
 filled with needle-like teeth, and a long tail ending in a diamond-shaped vane._
 
-**Rhamphorhynchus**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

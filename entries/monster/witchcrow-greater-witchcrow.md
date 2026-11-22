@@ -27,8 +27,6 @@ special_qualities = "apportation"
 abilities = ["12", "17", "12", "17", "16", "13"]
 +++
 
-**Greater Witchcrow**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

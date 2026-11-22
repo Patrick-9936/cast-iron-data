@@ -29,8 +29,6 @@ abilities = ["19", "1", "19", "5", "12", "16"]
 
 _Glowing motes of electricity dance over this massive ursine creature's hairless hide._
 
-**Kravyad**
-
 **Challenge rating:** 7
 
 **aura:** electrocution (10 ft., DC 18)

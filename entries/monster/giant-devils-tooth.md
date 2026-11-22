@@ -30,8 +30,6 @@ abilities = ["26", "6", "15", "7", "12", "9"]
 _This enormous white fungus has sharp spines on its stalk, and its multiple caps are covered in
 blood-red globules that appear on the brink of rupturing._
 
-**Giant Devil's Tooth**
-
 **Challenge rating:** 6
 
 **blindsense:** 30

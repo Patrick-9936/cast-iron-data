@@ -29,8 +29,6 @@ abilities = ["12", "17", "13", "2", "14", "7"]
 _This stark white ram's curved horns appear to have sharp thorns studding every inch of their
 surface._
 
-**Mindspin Ram**
-
 **Challenge rating:** 2
 
 **Type:** animal

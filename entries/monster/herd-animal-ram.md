@@ -28,8 +28,6 @@ abilities = ["14", "15", "13", "2", "14", "7"]
 _A formidable pair of heavy horns curls from the forehead of this sturdy, brown-and-white-furred
 ram._
 
-**Ram**
-
 **Challenge rating:** 1
 
 **Type:** animal

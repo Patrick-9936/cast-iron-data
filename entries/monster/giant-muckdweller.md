@@ -29,8 +29,6 @@ abilities = ["16", "14", "15", "9", "12", "7"]
 
 _This massive lizard has pale, spotted flesh and spines around its face that form a spiky frill._
 
-**Giant Muckdweller**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

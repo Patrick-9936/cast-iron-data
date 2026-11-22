@@ -29,8 +29,6 @@ abilities = ["32", "13", "19", "2", "15", "10"]
 _This bipedal dinosaur's front arms seem small compared to the rest of its bulk, but its enormous
 head is all teeth._
 
-**Tyrannosaurus**
-
 **Challenge rating:** 9
 
 **Type:** animal

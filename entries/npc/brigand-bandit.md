@@ -15,8 +15,6 @@ kind = "creature"
 cr = "1/2"
 +++
 
-**Brigand (Bandit)**
-
 **Challenge rating:** 1/2
 
 **XP** 200\

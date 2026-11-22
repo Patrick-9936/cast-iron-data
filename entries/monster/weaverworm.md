@@ -32,8 +32,6 @@ features. Pale humanoid skin and carapace meld together beneath a face with segm
 mandibles chittering a song of discordant alien clicks and hisses, as overlong carapace claws weave
 cords of thick webbing between them._
 
-**Weaverworm**
-
 **Challenge rating:** 8
 
 **Type:** aberration

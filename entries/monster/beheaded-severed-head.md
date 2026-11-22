@@ -28,8 +28,6 @@ abilities = ["11", "15", "-", "-", "11", "10"]
 _This humanoid head floats silently and ominously, bits of flesh still hanging from its face and
 graying teeth clattering slightly as it bobs in the air._
 
-**Severed Head**
-
 **Challenge rating:** 1/3
 
 **Initiative:** +2

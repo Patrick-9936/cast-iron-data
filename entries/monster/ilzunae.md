@@ -32,8 +32,6 @@ abilities = ["-", "22", "22", "14", "20", "26"]
 _This lithe, shadowy creature is obviously feminine, yet the talons and horns leave no doubt as to
 her fiendish nature._
 
-**Ilzunae, the Gloom Widow**
-
 **Challenge rating:** 19
 
 **Female shadow demon [cleric](ref/class/cleric) of [Nocticula](ref/faith/nocticula) 15**

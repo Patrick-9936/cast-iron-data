@@ -30,8 +30,6 @@ abilities = ["14", "19", "18", "13", "16", "17"]
 _Stark white hair frames the fair face of this snake-bodied woman, and its black scales sparkle
 hypnotically._
 
-**Lunar Naga**
-
 **Challenge rating:** 6
 
 **Type:** aberration

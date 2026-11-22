@@ -31,8 +31,6 @@ abilities = ["20", "17", "19", "-", "12", "7"]
 _What appears to be this creature's cloak unfurls into bug wings, and its apparently human face is
 merely patterns on its head._
 
-**Xenopterid**
-
 **Challenge rating:** 7
 
 **Initiative:** +3

@@ -31,8 +31,6 @@ abilities = ["16", "21", "18", "13", "20", "19"]
 _This unnaturally pale woman is dressed in the somber garb of a mourner, her countenance covered by
 a lengthy black veil._
 
-**Kere**
-
 **Challenge rating:** 10
 
 **Initiative:** +9

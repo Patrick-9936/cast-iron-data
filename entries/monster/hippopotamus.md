@@ -33,8 +33,6 @@ abilities = ["19", "10", "16", "2", "13", "5"]
 _This fleshy behemoth wallows forward on four stumpy legs. Its jaws spread wide in a roar of
 challenge, exposing massive, tusk-like teeth._
 
-**Hippopotamus**
-
 **Challenge rating:** 5
 
 **Type:** animal

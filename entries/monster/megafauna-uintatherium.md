@@ -28,8 +28,6 @@ abilities = ["30", "10", "21", "1", "13", "3"]
 _This large creature is built like a rhinoceros, but with fangs like a saber-toothed tiger and
 smaller horn-like ridges._
 
-**Uintatherium**
-
 **Challenge rating:** 7
 
 **Type:** animal

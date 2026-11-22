@@ -35,8 +35,6 @@ _This sallow-green beast appears to be an oversized tadpole that never fully mat
 large, bulbous eyes bulging from either side of its head, and a gaping mouth revealing jagged
 fangs._
 
-**Bogwiggle**
-
 **Challenge rating:** 1
 
 **Type:** aberration

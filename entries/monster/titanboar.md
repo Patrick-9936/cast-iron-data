@@ -29,8 +29,6 @@ abilities = ["25", "10", "21", "2", "13", "10"]
 _Muscles like iron bands ripple beneath the flesh of this enormous pig. A second set of tusks curls
 up from its jaw, guarding its eyes._
 
-**Titanboar**
-
 **Challenge rating:** 6
 
 **Type:** animal

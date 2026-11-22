@@ -30,8 +30,6 @@ abilities = ["14", "15", "16", "13", "13", "18"]
 _Draped in rags and hunched over on goat-like legs, this creature possesses a featureless face, save
 for a large eye ringed by fangs._
 
-**Aghash**
-
 **Challenge rating:** 4
 
 **Initiative:** +2

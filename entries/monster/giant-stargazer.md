@@ -31,8 +31,6 @@ abilities = ["14", "19", "17", "2", "12", "3"]
 _This fish lies beneath the sand with only its bulbous eyes and upturned maw full of jagged teeth
 protruding._
 
-**Giant Stargazer**
-
 **Challenge rating:** 4
 
 **Type:** animal

@@ -30,8 +30,6 @@ abilities = ["36", "30", "41", "35", "32", "35"]
 
 _This swarm of droning black flies teems in the semblance of a winged angel with glowing red eyes._
 
-**Baalzebul**
-
 **Challenge rating:** 30
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 39), shield of law (DC 30)

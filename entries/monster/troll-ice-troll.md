@@ -30,8 +30,6 @@ abilities = ["19", "18", "16", "9", "10", "7"]
 _This large creature has light blue-green skin and cold, piercing eyes. Dressed in rough furs, its
 tusked jaw juts forth in a long underbite._
 
-**Ice Troll**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

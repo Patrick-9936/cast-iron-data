@@ -30,8 +30,6 @@ abilities = ["29", "10", "24", "2", "11", "3"]
 
 _Fungus drips from this grotesque tree's ridged bark as its branches wave like boneless arms._
 
-**Heartrot Tree**
-
 **Challenge rating:** 13
 
 **blindsense:** 60

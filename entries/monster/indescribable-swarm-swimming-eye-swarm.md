@@ -29,8 +29,6 @@ abilities = ["3", "17", "15", "2", "16", "6"]
 
 _At the heart of each of these tiny blobs of slime and tentacles is a single, eerily human eye._
 
-**Swimming Eye Swarm**
-
 **Challenge rating:** 4
 
 **Type:** aberration

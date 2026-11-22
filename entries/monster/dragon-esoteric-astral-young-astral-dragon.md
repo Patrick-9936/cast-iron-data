@@ -29,8 +29,6 @@ abilities = ["21", "14", "16", "17", "16", "12"]
 
 _This majestic dragon seems to shimmer as if surrounded by thousands of eddies of astral thought._
 
-**Young Astral Dragon**
-
 **Challenge rating:** 9
 
 **aura:** [mental static](ref/umr/mental-static-aura) (30 ft., DC 16)

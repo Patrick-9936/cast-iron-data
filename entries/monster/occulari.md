@@ -32,8 +32,6 @@ abilities = ["4", "21", "17", "14", "17", "16"]
 _Bundles of viscera hang from the hundreds of levitating eyes in this mass. Jagged teeth protrude
 from each eyelid, forming makeshift fanged maws._
 
-**Occulari**
-
 **Challenge rating:** 7
 
 **Type:** aberration

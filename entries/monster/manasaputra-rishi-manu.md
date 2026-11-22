@@ -32,8 +32,6 @@ abilities = ["19", "23", "20", "16", "21", "18"]
 _This regal, apparently human figure has glowing purple eyes and the grace and fluidity of water
 given form._
 
-**Rishi Manu**
-
 **Challenge rating:** 14
 
 **Initiative:** +10

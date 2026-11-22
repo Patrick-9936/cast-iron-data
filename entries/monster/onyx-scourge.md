@@ -32,8 +32,6 @@ _This gigantic creature's stony body is laced with veins of deep red and black m
 with dark energy. Its face is a mask of rage with glowing red eyes and a pit of pitch blackness for
 a mouth._
 
-**Onyx Scourge**
-
 **Challenge rating:** 16
 
 **Alignment:** Chaotic evil

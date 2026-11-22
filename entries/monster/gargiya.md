@@ -31,8 +31,6 @@ abilities = ["31", "13", "23", "2", "10", "10"]
 _With burning eyes and a snapping maw, this blood-red serpent rises from the ocean's depths.
 Sweltering heat radiates from its rippling scales._
 
-**Gargiya**
-
 **Challenge rating:** 10
 
 **Size:** huge

@@ -28,8 +28,6 @@ abilities = ["12", "15", "13", "2", "12", "9"]
 
 _Dozens of long, sharp spines line the back and tail of this dark-gray cat._
 
-**Quillcat**
-
 **Challenge rating:** 1
 
 **Type:** animal

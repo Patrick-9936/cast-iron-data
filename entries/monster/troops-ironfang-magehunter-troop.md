@@ -30,8 +30,6 @@ abilities = ["17", "20", "20", "11", "16", "11"]
 
 _This grim band of hobgoblin hunters is equipped with sturdy armor and well-used weapons._
 
-**Ironfang Magehunter Troop**
-
 **Challenge rating:** 14
 
 **Type:** humanoid

@@ -30,8 +30,6 @@ abilities = ["22", "15", "18", "2", "13", "9"]
 _As tall as a tree, this dark gray bird stands on long legs. Its curved neck supports a sleek head
 with a slim but wicked beak._
 
-**Yolubilis Heron**
-
 **Challenge rating:** 6
 
 **Type:** animal

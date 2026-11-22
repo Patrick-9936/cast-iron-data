@@ -29,8 +29,6 @@ abilities = ["12", "13", "14", "2", "13", "7"]
 _This dark-feathered vulture has a bald neck and head, and its long, hooked beak is caked with
 carrion._
 
-**Vulture**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

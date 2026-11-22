@@ -32,8 +32,6 @@ abilities = ["26", "19", "24", "-", "12", "1"]
 _This tremendous, translucent jellyfish glows with blue internal light, and the water around its
 bell vibrates with an electrical charge._
 
-**Sapphire Jellyfish**
-
 **Challenge rating:** 11
 
 **blindsense:** 30

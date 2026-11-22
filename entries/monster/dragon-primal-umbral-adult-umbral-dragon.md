@@ -29,8 +29,6 @@ special_qualities = "ghost bane, umbral scion"
 abilities = ["27", "10", "21", "20", "21", "20"]
 +++
 
-**Adult Umbral Dragon**
-
 **Challenge rating:** 14
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 23)

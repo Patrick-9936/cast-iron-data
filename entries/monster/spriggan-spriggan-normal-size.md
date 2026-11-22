@@ -32,8 +32,6 @@ abilities = ["9", "19", "12", "10", "10", "9"]
 _Flecks of saliva drip from the corners of this filthy and ill-smelling humanoid, and his large
 pointed ears twitch at every sound._
 
-**Spriggan (Normal Size)**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

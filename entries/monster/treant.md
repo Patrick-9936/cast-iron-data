@@ -31,8 +31,6 @@ abilities = ["29", "8", "21", "12", "16", "13"]
 _This animated tree's bark is knotted into vaguely humanoid features, with branches for arms and
 roots for legs._
 
-**Treant**
-
 **Challenge rating:** 8
 
 **Size:** huge

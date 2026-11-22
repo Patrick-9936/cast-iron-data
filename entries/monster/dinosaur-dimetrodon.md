@@ -29,8 +29,6 @@ abilities = ["20", "15", "18", "1", "12", "3"]
 _The massive sail on the back of this squat reptilian creature flexes and twitches as the beast
 stalks forward._
 
-**Dimetrodon**
-
 **Challenge rating:** 3
 
 **Type:** animal

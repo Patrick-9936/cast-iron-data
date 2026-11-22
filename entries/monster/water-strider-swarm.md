@@ -31,8 +31,6 @@ abilities = ["1", "18", "10", "-", "10", "2"]
 _Countless thousands of long-legged water bugs glide soundlessly over the surface of the water,
 skimming over it in a wave of twitching bodies._
 
-**Water Strider Swarm**
-
 **Challenge rating:** 1
 
 **Size:** diminutive

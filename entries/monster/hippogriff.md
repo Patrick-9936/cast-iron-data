@@ -28,8 +28,6 @@ abilities = ["15", "15", "14", "2", "12", "9"]
 
 _This large, brown, horse-like creature has a hawk's wings, talons, and hooked beak._
 
-**Hippogriff**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

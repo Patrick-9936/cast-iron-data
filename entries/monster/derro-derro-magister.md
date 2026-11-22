@@ -35,8 +35,6 @@ abilities = ["15", "17", "16", "16", "5", "16"]
 _This pale blue humanoid has bright white eyes and wild, white hair adorned with a spiked,
 gem-encrusted coronet._
 
-**Derro Magister**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

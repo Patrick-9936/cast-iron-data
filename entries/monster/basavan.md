@@ -30,8 +30,6 @@ abilities = ["25", "18", "22", "16", "19", "17"]
 _An unkempt mass of hair covers this towering giant. Its human-like face bears a peaceful yet stern
 countenance._
 
-**Basavan**
-
 **Challenge rating:** 15
 
 **Size:** huge

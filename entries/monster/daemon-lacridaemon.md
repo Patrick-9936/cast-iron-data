@@ -33,8 +33,6 @@ abilities = ["12", "17", "14", "11", "13", "12"]
 _The face of this gray-skinned humanoid stretches in a manic grin, even though it weeps steaming
 tears. Frost crusts its flesh._
 
-**Lacridaemon**
-
 **Challenge rating:** 3
 
 **aura:** weeping (100 ft.)

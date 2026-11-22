@@ -33,8 +33,6 @@ abilities = ["30", "19", "20", "2", "15", "11"]
 
 _A long, spiny fin runs down the length of the dolphin-like body of this eel-headed predator._
 
-**Lukwata**
-
 **Challenge rating:** 11
 
 **Size:** huge

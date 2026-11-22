@@ -35,8 +35,6 @@ abilities = ["37", "10", "31", "25", "18", "20"]
 _This enormous creature's serpentine neck supports a leering reptilian head - its body is a
 wriggling mass of tentacles._
 
-**Black Magga**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic evil

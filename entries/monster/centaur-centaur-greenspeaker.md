@@ -32,8 +32,6 @@ abilities = ["16", "14", "12", "14", "18", "14"]
 _This handsome young man has hair of dappled black and white on his head and body alike, and he
 carries a variety of wands and talismans in addition to his weapons._
 
-**Centaur Greenspeaker**
-
 **Challenge rating:** 4
 
 **Centaur [shaman](ref/class/shaman) 2**

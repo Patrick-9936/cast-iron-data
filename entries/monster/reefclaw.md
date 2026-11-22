@@ -35,8 +35,6 @@ abilities = ["10", "13", "14", "5", "12", "13"]
 _Blood-red spines run the length of this frightening creature, which resembles a lobster in the
 front and an eel in the back._
 
-**Reefclaw**
-
 **Challenge rating:** 1
 
 **Type:** aberration

@@ -31,8 +31,6 @@ abilities = ["34", "9", "25", "4", "19", "6"]
 _An immense spiny monster, its back plated in chitin and its belly in thick folds of blubber, rises
 hungrily from the center of a whirlpool._
 
-**Charybdis**
-
 **Challenge rating:** 13
 
 **Type:** aberration

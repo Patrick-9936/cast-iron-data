@@ -31,8 +31,6 @@ abilities = ["28", "21", "22", "12", "15", "11"]
 _This eel-like creature sports sharp frills that run along the back of humanoid torso and down its
 long, powerful tail._
 
-**Siyokoy**
-
 **Challenge rating:** 10
 
 **Type:** aberration

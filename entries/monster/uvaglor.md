@@ -33,8 +33,6 @@ _This vulture-headed demon has crimson wings and a baleful third eye in his fore
 lengths of chain and metal plates, and carries a cruel-looking sword in one hand and a glowing
 sphere of violet crystal in the other._
 
-**Uvaglor, the Misbegotten Prince**
-
 **Challenge rating:** 20
 
 **Male advanced vrock [oracle](ref/class/oracle) 15**

@@ -30,8 +30,6 @@ abilities = ["-", "24", "19", "20", "15", "22"]
 _This translucent, shaggy, horned monster shines with an eerie blue light, and its form trickles
 into vapor below the waist._
 
-**Aoandon**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

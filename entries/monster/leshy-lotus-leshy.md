@@ -32,8 +32,6 @@ abilities = ["10", "15", "16", "16", "19", "15"]
 
 _A plant whose body resembles a blooming lotus flower exudes an air of serenity._
 
-**Lotus Leshy**
-
 **Challenge rating:** 5
 
 **aura:** tranquility (20 ft., DC 15, 10 rounds)

@@ -29,8 +29,6 @@ abilities = ["6", "17", "13", "11", "14", "18"]
 _This miniscule, green-skinned humanoid wields a needle-thin rapier. A pair of dragonfly wings holds
 the wee creature aloft._
 
-**Atomie**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic neutral

@@ -31,8 +31,6 @@ abilities = ["1", "25", "-", "-", "10", "1"]
 
 _The razor-sharp wings of a thousand stained glass insects jingle with a resonant melody._
 
-**Scythe Glass Swarm**
-
 **Challenge rating:** 9
 
 **Type:** construct

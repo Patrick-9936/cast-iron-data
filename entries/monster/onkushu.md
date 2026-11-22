@@ -31,8 +31,6 @@ abilities = ["24", "19", "21", "18", "16", "21"]
 _This oval body and enormous wings of this creature are made of roiling flame, and it has a vaguely
 humanoid face._
 
-**Onkushu**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic good

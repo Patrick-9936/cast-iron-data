@@ -34,8 +34,6 @@ abilities = ["12", "12", "14", "12", "15", "17"]
 
 _Jade armor covers this lean albino humanoid, and her pale eyes have an eerie gleam._
 
-**Munavri**
-
 **Challenge rating:** 1
 
 **Female munavri [mesmerist](ref/class/mesmerist)**

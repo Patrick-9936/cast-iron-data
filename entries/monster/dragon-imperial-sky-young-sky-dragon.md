@@ -31,8 +31,6 @@ abilities = ["21", "12", "17", "16", "17", "16"]
 _Although wingless, this dragon twists gracefully though the sky, its scales reflecting the shifting
 hues of the heavens._
 
-**Young Sky Dragon**
-
 **Challenge rating:** 9
 
 **Type:** dragon

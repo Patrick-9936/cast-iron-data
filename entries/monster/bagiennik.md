@@ -32,8 +32,6 @@ abilities = ["8", "14", "13", "15", "10", "17"]
 _This small, lizard-like creature has a humanoid upper body and a long tail with frilled
 extensions._
 
-**Bagiennik**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic neutral

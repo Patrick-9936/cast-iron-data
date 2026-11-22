@@ -33,8 +33,6 @@ abilities = ["16", "15", "18", "15", "19", "22"]
 _Its head the skull of a caribou, this humanoid has wicked claws, and wears wrappings of ragged fur
 adorned with scrimshaw talismans._
 
-**Ijiraq**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic neutral

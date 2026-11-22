@@ -30,8 +30,6 @@ abilities = ["5", "16", "-", "-", "10", "3"]
 
 _This gilded mechanical bird produces melodious songs from its complex clockwork voice box._
 
-**Clockwork Songbird**
-
 **Challenge rating:** 1/2
 
 **Type:** construct

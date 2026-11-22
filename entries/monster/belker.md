@@ -32,8 +32,6 @@ abilities = ["14", "21", "17", "6", "11", "10"]
 _Dull, red eyes, grasping claws, and leathery wings give a demonic aspect to this creature's smoky
 form._
 
-**Belker**
-
 **Challenge rating:** 6
 
 **Initiative:** +5

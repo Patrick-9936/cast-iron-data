@@ -29,8 +29,6 @@ special_qualities = "fast movement"
 abilities = ["29", "16", "32", "6", "11", "4"]
 +++
 
-**Troll Berserker**
-
 **Challenge rating:** 9
 
 **Troll [barbarian](ref/class/barbarian) 4**

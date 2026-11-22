@@ -30,8 +30,6 @@ abilities = ["18", "25", "16", "-", "13", "16"]
 
 _This brightly colored crustacean looks like a large lobster with cruel pincers poised at its fore._
 
-**Giant Mantis Shrimp**
-
 **Challenge rating:** 9
 
 **Initiative:** +7

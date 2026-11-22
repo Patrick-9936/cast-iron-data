@@ -33,8 +33,6 @@ abilities = ["44", "15", "33", "6", "16", "8"]
 _Towering nearly 40 feet tall, this monster bellows a horrid war cry as blood vessels bloom crimson
 in his single, rage-filled eye._
 
-**Savage Great Cyclops**
-
 **Challenge rating:** 18
 
 **Barbarian 6**

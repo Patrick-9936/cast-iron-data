@@ -31,8 +31,6 @@ abilities = ["13", "15", "16", "8", "16", "16"]
 _Clad in bloodstains, ivory fetishes, and animal hides, this ape-like priest's regalia speaks to the
 horrible powers it serves._
 
-**Devotee of the Ravener King**
-
 **Challenge rating:** 7
 
 **Charau-ka [cleric](ref/class/cleric) of [Angazhan](ref/faith/angazhan) 5**

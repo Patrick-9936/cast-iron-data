@@ -33,8 +33,6 @@ abilities = ["18", "13", "17", "-", "11", "1"]
 _This misshapen sphere of pale yellow-green fungus rolls with an unnerving speed, spewing clouds of
 foul spores as it advances._
 
-**Ascomoid**
-
 **Challenge rating:** 5
 
 **Initiative:** +1

@@ -32,8 +32,6 @@ abilities = ["10", "21", "12", "20", "10", "10"]
 
 _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless._
 
-**Drow Poisoner**
-
 **Challenge rating:** 11
 
 **Drow [alchemist](ref/class/alchemist) 12**

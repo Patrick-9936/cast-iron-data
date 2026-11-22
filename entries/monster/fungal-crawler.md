@@ -32,8 +32,6 @@ abilities = ["14", "20", "15", "2", "13", "7"]
 
 _This giant fanged cricket is caked in pungent fungal growths and topped with a mushroom-like cap._
 
-**Fungal Crawler**
-
 **Challenge rating:** 3
 
 **Type:** aberration

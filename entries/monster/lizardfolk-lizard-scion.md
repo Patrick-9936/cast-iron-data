@@ -31,8 +31,6 @@ abilities = ["16", "11", "14", "9", "12", "11"]
 _This muscular lizardfolk towers above others of its kind, a primeval behemoth painted with
 elaborate designs._
 
-**Lizard Scion**
-
 **Challenge rating:** 5
 
 **Type:** humanoid

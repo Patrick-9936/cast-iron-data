@@ -32,8 +32,6 @@ _This gnome-sized humanoid's face is adorned with fiery red eyes and a sharp-too
 seems too wide for its head. The creature is garbed in leaves and possesses no hair - patches of
 grass and moss grow from its skin instead._
 
-**Biloko**
-
 **Challenge rating:** 1/2
 
 **Type:** fey

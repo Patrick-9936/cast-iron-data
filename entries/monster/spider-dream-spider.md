@@ -32,8 +32,6 @@ abilities = ["10", "15", "12", "-", "12", "11"]
 
 _The size of a human child, this shimmering spider has a blue-and-purple-striped belly._
 
-**Dream Spider**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +2

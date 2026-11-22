@@ -33,8 +33,6 @@ abilities = ["12", "17", "12", "10", "14", "10"]
 _This small, rat-like humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery
 tail._
 
-**Ratfolk Caravan Guard**
-
 **Challenge rating:** 3
 
 **Ratfolk [ranger](ref/class/ranger) 4**

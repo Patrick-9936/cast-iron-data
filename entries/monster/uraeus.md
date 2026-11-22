@@ -33,8 +33,6 @@ abilities = ["19", "16", "14", "15", "14", "15"]
 _This two-headed cobra flies with a large pair of sleek, blackfeathered wings that sprout from its
 serpentine body._
 
-**Uraeus**
-
 **Challenge rating:** 5
 
 **Initiative:** +7

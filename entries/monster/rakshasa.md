@@ -32,8 +32,6 @@ abilities = ["16", "20", "22", "13", "13", "17"]
 _This figure's backward-bending fingers and its bestial, snarling visage leave little doubt as to
 its fiendish nature._
 
-**Rakshasa**
-
 **Challenge rating:** 10
 
 **Initiative:** +9

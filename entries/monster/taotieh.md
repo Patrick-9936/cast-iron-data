@@ -29,8 +29,6 @@ abilities = ["30", "15", "-", "-", "14", "1"]
 _This white marble statue resembles a large feline, but its body and face are covered in decorative
 etchings and runes._
 
-**Taotieh**
-
 **Challenge rating:** 11
 
 **Type:** construct

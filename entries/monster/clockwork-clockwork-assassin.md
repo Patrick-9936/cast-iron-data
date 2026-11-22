@@ -33,8 +33,6 @@ abilities = ["22", "26", "-", "-", "11", "1"]
 _This sleek, one-eyed construct crouches, ready for battle. Its arms end in weapons - a rapier and a
 compact crossbow bolt launcher._
 
-**Clockwork Assassin**
-
 **Challenge rating:** 13
 
 **Type:** construct

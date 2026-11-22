@@ -32,8 +32,6 @@ abilities = ["19", "15", "18", "12", "13", "14"]
 _This humanoid has the lower body of a giant seahorse and a round, colorful face dominated by wide,
 staring eyes and hideous fangs._
 
-**Kigyo**
-
 **Challenge rating:** 6
 
 **Initiative:** +6

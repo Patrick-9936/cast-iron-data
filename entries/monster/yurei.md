@@ -30,8 +30,6 @@ abilities = ["10", "25", "-", "14", "21", "23"]
 _Long black hair obscures the face of this pale woman. With each motion, her body twitches and
 jerks._
 
-**Yurei**
-
 **Challenge rating:** 12
 
 **Initiative:** +11

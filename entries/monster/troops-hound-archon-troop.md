@@ -28,8 +28,6 @@ special_qualities = "coordinated teleport"
 abilities = ["23", "20", "23", "18", "21", "18"]
 +++
 
-**Hound Archon Troop**
-
 **Challenge rating:** 16
 
 **aura:** aura of menace (DC 24)

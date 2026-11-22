@@ -15,8 +15,6 @@ kind = "creature"
 cr = "10"
 +++
 
-**Criminal (Guild Master)**
-
 **Challenge rating:** 10
 
 **XP** 9,600\

@@ -30,8 +30,6 @@ abilities = ["1", "12", "10", "-", "11", "3"]
 _Thousands of yellow and black wasps form a thick cloud that swirls with savage bites and venomous
 stings._
 
-**Ground Wasp Swarm**
-
 **Challenge rating:** 2
 
 **Size:** fine

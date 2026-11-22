@@ -32,8 +32,6 @@ abilities = ["19", "17", "14", "12", "14", "13"]
 _This knobby-kneed, stunted humanoid, has a particularly thick beard and wild mane of hair, hiding
 most of its body from view._
 
-**Korred**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

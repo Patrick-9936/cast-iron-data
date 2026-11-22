@@ -31,8 +31,6 @@ abilities = ["21", "3", "20", "-", "13", "2"]
 _Thick spines like the flanges of a royal crown bristle all across the surface of this strangely
 large golden sea urchin._
 
-**Great Diadem Urchin**
-
 **Challenge rating:** 5
 
 **Initiative:** -4

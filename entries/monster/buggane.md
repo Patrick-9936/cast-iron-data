@@ -31,8 +31,6 @@ abilities = ["22", "9", "17", "6", "13", "6"]
 _This hairless, hunchbacked giant has cruel tusks and two enormous, blunt-clawed fists that look
 strong enough to shatter stone._
 
-**Buggane**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

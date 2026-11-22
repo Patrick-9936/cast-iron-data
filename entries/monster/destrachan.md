@@ -30,8 +30,6 @@ abilities = ["18", "13", "16", "13", "18", "13"]
 _The hunched, reptilian beast lopes on two clawed feet, its eyeless head dominated by a huge
 circular maw filled with jagged teeth._
 
-**Destrachan**
-
 **Challenge rating:** 8
 
 **Type:** aberration

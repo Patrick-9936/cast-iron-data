@@ -32,8 +32,6 @@ abilities = ["10", "11", "14", "10", "15", "15"]
 _This humanoid's scaly hide is dull gray. Its frame resembles that of a cave lizard, with a long
 tail and crests on its head and back._
 
-**Troglodyte Beast-Speaker**
-
 **Challenge rating:** 3
 
 **Troglodyte [druid](ref/class/druid) 3**

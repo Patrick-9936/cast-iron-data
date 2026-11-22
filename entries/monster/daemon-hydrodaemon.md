@@ -31,8 +31,6 @@ abilities = ["18", "15", "18", "9", "11", "14"]
 _The skin on this frog-like fiend is clammy and its eyes look dead and milky; its wide face is split
 by a fanged maw._
 
-**Hydrodaemon**
-
 **Challenge rating:** 8
 
 **Initiative:** +2

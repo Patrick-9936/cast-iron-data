@@ -31,8 +31,6 @@ abilities = ["20", "16", "14", "10", "17", "8"]
 
 _A gray-skinned humanoid with oddly unremarkable features floats ponderously in mid-air._
 
-**Tulpa**
-
 **Challenge rating:** 6
 
 **Male human tulpa [monk](ref/class/monk) 5**

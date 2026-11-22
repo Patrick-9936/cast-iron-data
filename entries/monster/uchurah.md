@@ -32,8 +32,6 @@ _Though mostly covered in grime-encrusted black fur, the muscles of this creatur
 visible along the four forearms that emerge from its split elbows. It wears a crude bone necklace
 that dangles under its vertically oriented mouth._
 
-**Uchurah**
-
 **Challenge rating:** 12
 
 **Gug [barbarian](ref/class/barbarian) 2**

@@ -28,8 +28,6 @@ abilities = ["30", "10", "19", "2", "13", "7"]
 
 _These thick-skinned animals bear large ivory tusks flanking a long, prehensile snout._
 
-**Elephant**
-
 **Challenge rating:** 7
 
 **Type:** animal

@@ -18,8 +18,6 @@ cr = "9"
 _The blistering cold doesn't seem to touch this raven-haired woman's skin. She holds a spear tipped
 with jagged ice._
 
-**Winter Witch Cold Sister**
-
 **Challenge rating:** 9
 
 **XP** 6,400\

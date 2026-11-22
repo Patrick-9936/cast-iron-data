@@ -30,8 +30,6 @@ abilities = ["20", "15", "18", "7", "12", "9"]
 _This creature has a vaguely humanoid head, the body of a lion, and the wings of a dragon. Its tail
 ends in long, sharp spikes._
 
-**Manticore**
-
 **Challenge rating:** 5
 
 **Initiative:** +2

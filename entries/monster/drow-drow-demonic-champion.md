@@ -32,8 +32,6 @@ abilities = ["18", "12", "12", "12", "8", "16"]
 
 _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless._
 
-**Drow Demonic Champion**
-
 **Challenge rating:** 9
 
 **Drow [antipaladin](ref/class/antipaladin) 10**

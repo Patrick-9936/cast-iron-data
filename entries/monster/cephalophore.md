@@ -34,8 +34,6 @@ abilities = ["25", "14", "-", "-", "12", "1"]
 _Holding its own severed head in its hands, this tall marble statue looms stern and forbidding over
 its domain._
 
-**Cephalophore**
-
 **Challenge rating:** 8
 
 **Type:** construct

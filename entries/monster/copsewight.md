@@ -32,8 +32,6 @@ abilities = ["22", "11", "-", "5", "16", "19"]
 _The twisted, leafless branches of this dead tree still bear bright red fruit, each one shriveled
 and covered in splotches of black rot._
 
-**Copsewight**
-
 **Challenge rating:** 11
 
 **Size:** huge

@@ -31,8 +31,6 @@ abilities = ["17", "14", "17", "12", "13", "18"]
 _This brilliantly colored dragon has scales, teeth, and claws made of multicolored crystal, and its
 wings are sheets of flexible glass._
 
-**Young Crystal Dragon**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic good

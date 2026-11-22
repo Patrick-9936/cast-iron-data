@@ -31,8 +31,6 @@ abilities = ["33", "29", "29", "22", "28", "26"]
 _Three monstrous, misshapen skulls top a twisted trunk balanced on three leg-like splinters of flesh
 and bone._
 
-**Kimenhul**
-
 **Challenge rating:** 20
 
 **Size:** huge

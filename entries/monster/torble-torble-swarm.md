@@ -28,8 +28,6 @@ special_qualities = "hive mind, primitive sight, telepathic sensitivity"
 abilities = ["3", "15", "10", "3", "14", "2"]
 +++
 
-**Torble Swarm**
-
 **Challenge rating:** 2
 
 **blindsight:** 30

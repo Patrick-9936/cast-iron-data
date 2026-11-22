@@ -31,8 +31,6 @@ abilities = ["19", "12", "13", "12", "13", "12"]
 _This pale yellow humanoid has blank, bulging white eyes and gangly arms and legs. It clutches a
 pickaxe in its knobby hands._
 
-**Pech**
-
 **Challenge rating:** 3
 
 **Type:** fey

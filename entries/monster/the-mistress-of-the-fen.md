@@ -31,8 +31,6 @@ abilities = ["26", "18", "21", "4", "13", "11"]
 _This arching, reptilian creature has an elongated neck and short fins. Its jagged teeth hint at its
 primordial nature, and the abundant plant growth covering its body suggests both fertility and rot._
 
-**The Mistress of the Fen**
-
 **Challenge rating:** 12
 
 **Female unique water orm**

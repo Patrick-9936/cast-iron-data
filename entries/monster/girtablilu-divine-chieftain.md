@@ -30,8 +30,6 @@ abilities = ["22", "14", "25", "12", "20", "16"]
 
 _This authoritative, scorpion-bodied woman is bedecked with amulets and other regalia._
 
-**Divine Chieftain**
-
 **Challenge rating:** 14
 
 **Girtablilu [druid](ref/class/druid) ([desert druid](ref/arc-druid/desert-druid)) 10**

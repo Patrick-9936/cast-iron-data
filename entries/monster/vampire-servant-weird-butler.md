@@ -28,8 +28,6 @@ special_qualities = "oracle's curse (clouded vision), revelations (bleeding woun
 abilities = ["6", "16", "12", "13", "10", "18"]
 +++
 
-**Weird Butler**
-
 **Challenge rating:** 4
 
 **Halfling [oracle](ref/class/oracle) 5**

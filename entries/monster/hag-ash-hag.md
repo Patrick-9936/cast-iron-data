@@ -31,8 +31,6 @@ abilities = ["14", "12", "14", "17", "15", "13"]
 _This spindly, hunched crone's skin is a sickly gray color, as is her stringy hair, which is
 peppered with globs of what appear to be ashes._
 
-**Ash Hag**
-
 **Challenge rating:** 5
 
 **Initiative:** +1

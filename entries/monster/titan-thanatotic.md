@@ -32,8 +32,6 @@ abilities = ["49", "10", "41", "27", "20", "24"]
 _This titanic, armored figure wields an immense axe. Its hands end in claws, and its voice thunders
 with ruinous power._
 
-**Thanatotic**
-
 **Challenge rating:** 22
 
 **Alignment:** Chaotic evil

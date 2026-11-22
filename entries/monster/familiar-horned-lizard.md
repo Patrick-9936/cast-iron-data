@@ -30,8 +30,6 @@ abilities = ["1", "12", "8", "1", "10", "3"]
 _The blunt snout of this lizard bears bony horns, and its flat, round body is adorned with many
 spines._
 
-**Horned Lizard**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

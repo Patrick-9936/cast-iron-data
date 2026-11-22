@@ -33,8 +33,6 @@ abilities = ["14", "15", "13", "10", "11", "12"]
 _This wrinkled, pale humanoid has an eyeless head and a wide, fanged mouth; its eyes glare
 freakishly from the palms of its hands._
 
-**Tenome**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

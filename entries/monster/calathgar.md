@@ -31,8 +31,6 @@ abilities = ["14", "19", "14", "6", "15", "12"]
 _The acrid scent of vinegar wafts from this shield-sized blossom. Amid shocking blue petals slowly
 twitches a cluster of sharp stamens arranged like a ring of teeth within a leafy muzzle._
 
-**Calathgar**
-
 **Challenge rating:** 4
 
 **Initiative:** +8

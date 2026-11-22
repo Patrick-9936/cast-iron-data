@@ -30,8 +30,6 @@ abilities = ["10", "23", "16", "6", "13", "13"]
 
 _Within a towering structure of bone and rotting flesh lurk hundreds of flittering fiends._
 
-**Kakuen-Taka**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic evil

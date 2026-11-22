@@ -30,8 +30,6 @@ abilities = ["12", "13", "-", "-", "10", "10"]
 _Though at first appearing to be an ordinary suit of armor, this imposing being begins to move, its
 lumbering movements slow and methodical._
 
-**Hollow Helm**
-
 **Challenge rating:** 1
 
 **Initiative:** +5

@@ -31,8 +31,6 @@ abilities = ["2", "9", "13", "-", "6", "9"]
 _This tiny, unassuming tree is shaped like a miniature person, with branches for arms and roots for
 feet._
 
-**Petrifern**
-
 **Challenge rating:** 1/6
 
 **blindsight:** 30

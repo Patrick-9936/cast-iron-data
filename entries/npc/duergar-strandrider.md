@@ -17,8 +17,6 @@ cr = "8"
 
 _This stout, gray-skinned warrior sits astride an enormous spider._
 
-**Duergar Strandrider**
-
 **Challenge rating:** 8
 
 **XP** 4,800\

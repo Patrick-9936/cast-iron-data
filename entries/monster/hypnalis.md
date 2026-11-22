@@ -32,8 +32,6 @@ abilities = ["22", "15", "16", "7", "13", "10"]
 _Seeming to phase in and out of existence, this ophidian creature has a great striped hood like a
 cobra._
 
-**Hypnalis**
-
 **Challenge rating:** 5
 
 **Initiative:** +6

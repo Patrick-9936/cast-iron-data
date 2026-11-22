@@ -32,8 +32,6 @@ _What appeared at first glance to be the decaying husk of an enormous tree erupt
 thick tendrils reach outward hungrily from all sides. Amid the jumble of motion, a subconscious
 whisper promises sleep and sweet rest to any that lie down at the thing's base._
 
-**Umdhlebi**
-
 **Challenge rating:** 12
 
 **Size:** huge

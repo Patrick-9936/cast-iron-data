@@ -30,8 +30,6 @@ abilities = ["1", "13", "8", "2", "12", "13"]
 _Bright colors and patterns shine on the fur of this long-nosed, rodent-like creature, and glorious
 wings hold it aloft._
 
-**Snark**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

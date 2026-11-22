@@ -34,8 +34,6 @@ abilities = ["19", "14", "15", "7", "12", "10"]
 _Spikes cover the body of this vaguely reptilian creature. Its fearsome face features dagger-sharp
 teeth and glowing red eyes._
 
-**Hodag**
-
 **Challenge rating:** 6
 
 **Initiative:** +2

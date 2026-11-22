@@ -31,8 +31,6 @@ abilities = ["19", "15", "18", "12", "13", "14"]
 _This hunchbacked, fiery-skinned humanoid possesses black eyes beneath the bony ridges of its brow,
 wears elaborate heavy armor, and wields an ornate metal club._
 
-**Ja Noi**
-
 **Challenge rating:** 5
 
 **Initiative:** +2

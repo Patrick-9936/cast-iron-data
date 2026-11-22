@@ -32,8 +32,6 @@ _Spikes of ice jut from the carapace of this stocky crustacean. It scuttles side
 legs with surprising speed, while its two pincers - one small and sharp, the other monstrously
 large - flex in anticipation of combat._
 
-**Gammenore**
-
 **Challenge rating:** 8
 
 **Initiative:** +5

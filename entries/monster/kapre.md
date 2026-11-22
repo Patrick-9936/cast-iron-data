@@ -34,8 +34,6 @@ abilities = ["26", "15", "17", "12", "15", "18"]
 _Roots and branches twist across this oddly proportioned creature to form knots of muscle. Its eyes
 burn like embers._
 
-**Kapre**
-
 **Challenge rating:** 10
 
 **aura:** confounding (100 ft., DC 21)

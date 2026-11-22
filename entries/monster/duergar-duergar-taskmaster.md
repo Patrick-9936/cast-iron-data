@@ -29,8 +29,6 @@ special_qualities = "hide in plain sight, ironskinned, rogue talents (combat tri
 abilities = ["13", "17", "12", "12", "16", "4"]
 +++
 
-**Duergar Taskmaster**
-
 **Challenge rating:** 9
 
 **Duergar [rogue](ref/class/rogue) 6/shadowdancer 4**

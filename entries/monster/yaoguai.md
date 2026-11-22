@@ -30,8 +30,6 @@ abilities = ["23", "10", "21", "2", "11", "8"]
 _This creature is a mix of different animals fused together, with a bear's torso and head, clawed
 ape legs, and a furred tentacle arm._
 
-**Yaoguai**
-
 **Challenge rating:** 7
 
 **Size:** huge

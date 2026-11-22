@@ -33,8 +33,6 @@ _This goat-like creature has a thick, snowy-white woolen coat. Its eyes gleam wi
 sheen. Its hooves have sharpened, serrated edges and are soaked in blood. A single strand of scarlet
 thread is tangled between its curled ram horns._
 
-**Ez-azael**
-
 **Challenge rating:** 12
 
 **Initiative:** +8

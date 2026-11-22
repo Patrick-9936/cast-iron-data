@@ -31,8 +31,6 @@ abilities = ["16", "21", "-", "-", "14", "1"]
 
 _This faceless construct has a crystal wand set into its chest, bristling with arcane energy._
 
-**Clockwork Mage**
-
 **Challenge rating:** 9
 
 **Type:** construct

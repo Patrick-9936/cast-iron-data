@@ -31,8 +31,6 @@ abilities = ["6", "15", "10", "5", "12", "5"]
 _This skittish amalgam of beast parts has luminous eyes, a rat's tail, simian appendages, and
 tendrils extending from a mole-like nose._
 
-**Zoog**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

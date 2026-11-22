@@ -32,8 +32,6 @@ abilities = ["22", "15", "-", "14", "15", "18"]
 _This large construct has arms that end in massive pincers, and the core in the center of its head
 glows with an unrivaled ferocity._
 
-**Champion Automaton**
-
 **Challenge rating:** 10
 
 **Type:** construct

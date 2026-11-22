@@ -30,8 +30,6 @@ abilities = ["20", "23", "21", "14", "18", "21"]
 _Some calamity has befallen this angelic warrior. Wings stained black shear the air as her merciless
 eyes search for a target._
 
-**Erinyes**
-
 **Challenge rating:** 8
 
 **Initiative:** +6

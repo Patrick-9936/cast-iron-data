@@ -32,8 +32,6 @@ abilities = ["12", "15", "16", "3", "12", "11"]
 _This hairless blue lion has twin tentacular tails. Dozens more thick tentacles quiver and twitch
 where its mane should be._
 
-**Akata**
-
 **Challenge rating:** 1
 
 **Type:** aberration

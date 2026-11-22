@@ -31,8 +31,6 @@ abilities = ["4", "16", "10", "3", "11", "9"]
 _This tiny, skittering creature looks like an insect made of fish bones, with a head full of glowing
 red eyes._
 
-**Ostovite**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

@@ -28,8 +28,6 @@ ranged = "light crossbow +5 (2d6/19-20)"
 abilities = ["21", "17", "18", "10", "10", "9"]
 +++
 
-**Spriggan (Large Size)**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

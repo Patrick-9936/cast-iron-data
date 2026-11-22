@@ -29,8 +29,6 @@ abilities = ["1", "16", "8", "2", "15", "9"]
 
 _This fluffy squirrel has a round body with long tufts atop its ears._
 
-**Tauhoti**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

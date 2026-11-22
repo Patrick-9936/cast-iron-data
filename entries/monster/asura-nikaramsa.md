@@ -30,8 +30,6 @@ abilities = ["20", "25", "25", "18", "25", "20"]
 
 _This muscular giant has two ferocious lion heads, each with a long, black, lashing tongue._
 
-**Nikaramsa**
-
 **Challenge rating:** 14
 
 **aura:** elusive (75 ft.)

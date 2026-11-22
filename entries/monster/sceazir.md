@@ -33,8 +33,6 @@ _This winged, six-legged creature seems to be constructed of dark crystal. Its m
 disproportionately large for its wolfish head, gaping open to display rows of jagged teeth, and its
 spiky, manyjointed legs bend in unsettling ways._
 
-**Sceazir**
-
 **Challenge rating:** 9
 
 **Initiative:** +8

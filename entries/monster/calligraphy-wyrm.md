@@ -29,8 +29,6 @@ abilities = ["4", "17", "10", "13", "12", "13"]
 
 _The feet and tongue of this minuscule gold-scaled dragon are stained with ink._
 
-**Calligraphy Wyrm**
-
 **Challenge rating:** 2
 
 **blindsight:** 60

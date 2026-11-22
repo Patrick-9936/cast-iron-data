@@ -31,8 +31,6 @@ abilities = ["1", "15", "14", "-", "10", "2"]
 _Like a pestilent black tide, a ravenous horde of thousands of tiny, clacking cockroaches washes
 over everything in its path._
 
-**Cockroach Swarm**
-
 **Challenge rating:** 2
 
 **Size:** diminutive

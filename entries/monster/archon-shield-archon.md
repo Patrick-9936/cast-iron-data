@@ -32,8 +32,6 @@ abilities = ["20", "13", "25", "14", "16", "15"]
 _This armored giant is sheathed in metal from head to toe. One arm ends in a spear-like blade, the
 other in a massive shield._
 
-**Shield Archon**
-
 **Challenge rating:** 10
 
 **aura:** aura of menace (DC 18), _[magic circle against evil](ref/spell/magic-circle-against-evil)_

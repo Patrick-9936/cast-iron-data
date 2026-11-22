@@ -30,8 +30,6 @@ abilities = ["-", "20", "-", "15", "15", "21"]
 
 _This disembodied phantom wears black robes that swirl around a maw of sharp teeth._
 
-**Geist**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

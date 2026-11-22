@@ -28,8 +28,6 @@ abilities = ["44", "14", "25", "2", "17", "8"]
 _This immense serpent moves in deliberate, slithering undulations, its forked tongue tasting the air
 eagerly for the scent of prey._
 
-**Titanoboa**
-
 **Challenge rating:** 13
 
 **Type:** animal

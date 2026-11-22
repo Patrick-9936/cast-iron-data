@@ -31,8 +31,6 @@ abilities = ["26", "20", "20", "23", "25", "23"]
 
 _Wreathed in flame, this winged serpent sports brightly colored feathers sparking with electricity._
 
-**Xiuh Couatl**
-
 **Challenge rating:** 12
 
 **Initiative:** +9

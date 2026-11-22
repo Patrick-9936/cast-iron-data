@@ -31,8 +31,6 @@ abilities = ["14", "5", "19", "2", "12", "15"]
 _This watery puddle reflects a distorted image of its surroundings, as though it were a window to
 another reality._
 
-**Warpglass Ooze**
-
 **Challenge rating:** 2
 
 **blindsight:** 60

@@ -30,8 +30,6 @@ abilities = ["38", "23", "31", "23", "30", "28"]
 _This majestic tree of strange, twisted bark has countless pale fruits and an intensely pleasant
 scent._
 
-**Lotus Tree**
-
 **Challenge rating:** 20
 
 **aura:** hallucination (60 ft., DC 30, 4d6 hours)

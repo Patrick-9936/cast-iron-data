@@ -31,8 +31,6 @@ abilities = ["32", "19", "26", "13", "20", "16"]
 _This immense creature resembles a horrific, twelve-armed squid. Its emerald eyes burn with a
 terrifying malignance, and the thing has a fanged maw where its beak should be._
 
-**Ugash-Iram**
-
 **Challenge rating:** 15
 
 **Size:** colossal

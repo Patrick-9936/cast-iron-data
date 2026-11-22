@@ -34,8 +34,6 @@ abilities = ["17", "14", "16", "13", "13", "16"]
 _This hag's hair, claws, and teeth crackle with sparks of electricity. Her windswept hair billows up
 from her brow like a thunderhead._
 
-**Storm Hag**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

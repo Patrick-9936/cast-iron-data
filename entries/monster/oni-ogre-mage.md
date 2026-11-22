@@ -31,8 +31,6 @@ abilities = ["24", "17", "23", "14", "14", "17"]
 _Clad in beautiful armor, this exotically garbed giant roars, its tusks glistening and its eyes
 afire with murderous intent._
 
-**Ogre Mage**
-
 **Challenge rating:** 8
 
 **Initiative:** +7

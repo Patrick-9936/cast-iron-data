@@ -35,8 +35,6 @@ writhe beneath its smooth, hairless jet hide, giving its frame a gnarled, unbala
 moves with a loping gait, however, and wears its armor, composed of thick, welded plates,
 effortlessly._
 
-**Abyss Gigas**
-
 **Challenge rating:** 16
 
 **blindsight:** 100

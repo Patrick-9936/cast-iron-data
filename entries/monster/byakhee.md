@@ -31,8 +31,6 @@ abilities = ["17", "16", "18", "10", "17", "15"]
 _This nauseating winged creature combines the features of a carrion bird, an ant, a bat, and a
 decomposing human in a most hideous manner._
 
-**Byakhee**
-
 **Challenge rating:** 4
 
 **Type:** aberration

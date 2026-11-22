@@ -32,8 +32,6 @@ abilities = ["25", "17", "23", "2", "16", "10"]
 _This large bear is completely white save for small black eyes and black lips hiding huge,
 glistening teeth._
 
-**Polar Bear**
-
 **Challenge rating:** 5
 
 **Type:** animal

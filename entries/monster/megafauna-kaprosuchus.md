@@ -28,8 +28,6 @@ abilities = ["25", "12", "19", "1", "14", "2"]
 
 _This massive, squat crocodilian has forward facing eyes, jutting teeth, and a pronounced snout._
 
-**Kaprosuchus**
-
 **Challenge rating:** 5
 
 **Type:** animal

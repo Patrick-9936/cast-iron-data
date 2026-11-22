@@ -31,8 +31,6 @@ abilities = ["12", "16", "12", "1", "11", "3"]
 _This oversized piranha bursts from the water, spreading broad fins as it takes to the air to sate
 its hunger._
 
-**Onwu Azu**
-
 **Challenge rating:** 1
 
 **Type:** animal

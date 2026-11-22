@@ -32,8 +32,6 @@ abilities = ["15", "13", "17", "10", "10", "6"]
 _This hunchbacked, green-skinned humanoid has a wide, frog-like head but a mouth more akin to that
 of a toothy fish._
 
-**Skum**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

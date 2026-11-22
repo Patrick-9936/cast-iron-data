@@ -33,8 +33,6 @@ of velvety moss and living grass for hair. An eldritch serenity graces her count
 approaches, her outstretched, root-like hands brushing the tips of the tallest grass - the wind
 itself whispers around her feet as patches of clover, heather, and milkweed mark her every step._
 
-**Blodeuwedd**
-
 **Challenge rating:** 6
 
 **aura:** allergen (DC 16, 1d6 rounds)

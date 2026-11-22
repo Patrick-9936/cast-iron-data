@@ -31,8 +31,6 @@ abilities = ["16", "18", "19", "15", "9", "8"]
 _Toadstools, puff balls, and other bizarre fungal growths sprout from this small, hunchbacked man's
 mold-streaked body. His beady eyes burn with paranoia and malice._
 
-**Polevik**
-
 **Challenge rating:** 5
 
 **aura:** putrefying aura (30 ft., DC 18)

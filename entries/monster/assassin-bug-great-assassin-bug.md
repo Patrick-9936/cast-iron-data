@@ -30,8 +30,6 @@ abilities = ["21", "19", "17", "-", "12", "2"]
 _A massive insect with long mandibles and sullenly glowing eyes, this creature has a heavy, bulbous
 thorax._
 
-**Great Assassin Bug**
-
 **Challenge rating:** 5
 
 **Initiative:** +2

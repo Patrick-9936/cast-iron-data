@@ -30,8 +30,6 @@ abilities = ["13", "17", "14", "11", "12", "14"]
 _This human-like creature is clad in gaudy clothing, and each of its spindly limbs terminates in a
 strange wheel-appendage._
 
-**Onyvolan**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic neutral

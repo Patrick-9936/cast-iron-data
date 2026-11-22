@@ -29,8 +29,6 @@ abilities = ["22", "15", "-", "-", "10", "1"]
 
 _This mass of bones is shaped like a horse, with bizarre limbs._
 
-**Equine Bone Golem**
-
 **Challenge rating:** 10
 
 **Advanced variant bone golem**

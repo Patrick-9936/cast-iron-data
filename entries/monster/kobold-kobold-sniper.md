@@ -31,8 +31,6 @@ abilities = ["9", "17", "12", "10", "12", "8"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold Sniper**
-
 **Challenge rating:** 1/2
 
 **Kobold [fighter](ref/class/fighter) 1**

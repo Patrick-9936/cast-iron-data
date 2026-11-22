@@ -35,8 +35,6 @@ abilities = ["22", "15", "-", "14", "15", "18"]
 _Draped in fine dark robes, this undead creature's body seems to be made of equal parts bone,
 leathery flesh, and blood-red smoke._
 
-**Ghul**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

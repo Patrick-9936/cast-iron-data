@@ -15,8 +15,6 @@ kind = "creature"
 cr = "15"
 +++
 
-**Dwarven Arbalester**
-
 **Challenge rating:** 15
 
 **XP** 51,200\

@@ -30,8 +30,6 @@ abilities = ["23", "21", "32", "16", "21", "24"]
 _This bipedal jackal has vulture wings and a rat tail ending in a scorpion's stinger. Each of its
 four arms ends in a clawed hand._
 
-**Deathsnatcher**
-
 **Challenge rating:** 18
 
 **Alignment:** Chaotic evil

@@ -34,8 +34,6 @@ abilities = ["29", "21", "24", "20", "25", "24"]
 _Colors dance over this serpentine creature's scales. A strange crown of energy glows above the
 thing's reptilian head._
 
-**Keketar**
-
 **Challenge rating:** 17
 
 **aura:** spatial riptide (30 ft.)

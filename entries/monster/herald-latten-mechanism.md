@@ -32,8 +32,6 @@ _This clockwork termite is the size of a rhinoceros and has an oversized head wi
 on it. Multiple apertures along its body sprout tool-wielding limbs, and a human-sized hatch on its
 abdomen chitters and clicks like a menacing maw._
 
-**Latten Mechanism**
-
 **Challenge rating:** 15
 
 **Type:** construct

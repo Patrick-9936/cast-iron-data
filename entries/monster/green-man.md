@@ -33,8 +33,6 @@ abilities = ["40", "31", "36", "25", "32", "29"]
 _This man is formed entirely of green leafy plants and bark. His fingers extend into lengths of
 vine._
 
-**Green Man**
-
 **Challenge rating:** 26
 
 **aura:** green caress (60 ft., DC 36)

@@ -32,8 +32,6 @@ abilities = ["18", "15", "15", "11", "16", "5"]
 _This creature is humanoid in shape, but covered with chitinous plating. Its head is elongated, and
 it has a long, bladed tail._
 
-**Hive Warrior**
-
 **Challenge rating:** 5
 
 **Type:** aberration

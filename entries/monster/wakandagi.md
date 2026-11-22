@@ -31,8 +31,6 @@ abilities = ["30", "23", "24", "13", "19", "22"]
 
 _This antlered beast combines the features of an elegant deer and a slithering serpent._
 
-**Wakandagi**
-
 **Challenge rating:** 14
 
 **Initiative:** +6

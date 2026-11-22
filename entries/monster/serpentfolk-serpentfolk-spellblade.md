@@ -29,8 +29,6 @@ special_qualities = "arcane pool (9 points, +3), knowledge pool, magus arcana (h
 abilities = ["16", "23", "21", "20", "13", "16"]
 +++
 
-**Serpentfolk Spellblade**
-
 **Challenge rating:** 13
 
 **Advanced serpentfolk [magus](ref/class/magus) 9**

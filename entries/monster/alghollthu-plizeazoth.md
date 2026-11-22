@@ -31,8 +31,6 @@ abilities = ["30", "18", "23", "5", "18", "23"]
 _This massive ray-like aquatic creature has five bulbous red eyes. Long tentacles protrude from the
 sides of its wide mouth, and its slimy skin undulates with sickening shudders._
 
-**Plizeazoth**
-
 **Challenge rating:** 12
 
 **Type:** aberration

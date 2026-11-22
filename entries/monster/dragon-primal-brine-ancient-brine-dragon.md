@@ -29,8 +29,6 @@ special_qualities = "water breathing"
 abilities = ["38", "9", "23", "23", "20", "21"]
 +++
 
-**Ancient Brine Dragon**
-
 **Challenge rating:** 16
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 26)

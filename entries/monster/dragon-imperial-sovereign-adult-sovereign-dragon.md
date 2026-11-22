@@ -28,8 +28,6 @@ special_qualities = "change shape, dogmatic discordance"
 abilities = ["31", "10", "23", "20", "21", "20"]
 +++
 
-**Adult Sovereign Dragon**
-
 **Challenge rating:** 15
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 24)

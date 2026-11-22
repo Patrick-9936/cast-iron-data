@@ -31,8 +31,6 @@ abilities = ["42", "30", "43", "35", "34", "39"]
 _This red-skinned devil has three sets of curving horns atop his brow and three mismatched pairs of
 wings._
 
-**Mephistopheles**
-
 **Challenge rating:** 30
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 41), shield of law (DC 32)

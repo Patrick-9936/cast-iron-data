@@ -35,8 +35,6 @@ of ancient robes. From beneath the rune-embroidered tatters stretch four, corpse
 bearing either a blade or some mysterious arcane device. Hidden within the cowl of its hood shimmer
 the faintest outlines of a veiled face and a pair of eyes flickering with barely restrained energy._
 
-**Cabal Devil (Uniila)**
-
 **Challenge rating:** 10
 
 **Initiative:** +6

@@ -30,8 +30,6 @@ abilities = ["44", "25", "41", "3", "29", "25"]
 
 _This two-headed monstrosity has vast wings and a long tail covered in a forest of blades._
 
-**Agyra**
-
 **Challenge rating:** 27
 
 **blindsense:** 30

@@ -34,8 +34,6 @@ abilities = ["41", "11", "28", "14", "23", "18"]
 
 _This giant's skin is black and pitted, like roughly cast iron, and etched with glowing red runes._
 
-**Rune Giant**
-
 **Challenge rating:** 17
 
 **Size:** gargantuan

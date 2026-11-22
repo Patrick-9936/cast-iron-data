@@ -35,8 +35,6 @@ abilities = ["-", "20", "16", "7", "13", "10"]
 _A noxious mustard-colored vapor hangs low over the battlefield, concealing the lurching forms of
 dead soldiers._
 
-**Trench Mist**
-
 **Challenge rating:** 10
 
 **Type:** aberration

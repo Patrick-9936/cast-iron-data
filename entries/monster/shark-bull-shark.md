@@ -29,8 +29,6 @@ abilities = ["15", "14", "13", "1", "12", "2"]
 
 _This sleek, gray predator weaves back and forth through the water with savage grace._
 
-**Bull Shark**
-
 **Challenge rating:** 2
 
 **Type:** animal

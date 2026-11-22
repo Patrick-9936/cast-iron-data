@@ -31,8 +31,6 @@ abilities = ["15", "15", "12", "12", "14", "16"]
 
 _This lean ape-person is bedecked with a rattling collection of whistles, drums, and charms._
 
-**Jungle Trickster**
-
 **Challenge rating:** 8
 
 **Charau-ka [bard](ref/class/bard) ([sound striker](ref/arc-bard/sound-striker)) 6**

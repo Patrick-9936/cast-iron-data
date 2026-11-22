@@ -32,8 +32,6 @@ abilities = ["11", "14", "13", "10", "14", "7"]
 _This smooth-skinned, hairless humanoid has penetrating eyes and skin that shifts and changes to
 mimic his surroundings._
 
-**Skulk**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

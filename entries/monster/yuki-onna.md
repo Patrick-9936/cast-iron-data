@@ -31,8 +31,6 @@ abilities = ["-", "18", "-", "17", "21", "22"]
 _This beautiful but sad-looking woman wears an ornate robe and is surrounded by a whirling mass of
 snow._
 
-**Yuki-Onna**
-
 **Challenge rating:** 8
 
 **aura:** snowstorm (200 ft.)

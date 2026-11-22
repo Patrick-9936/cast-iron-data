@@ -34,8 +34,6 @@ abilities = ["19", "13", "18", "11", "14", "18"]
 _One half of this creature is a nude woman, and the other is the front end of a slithering, winged
 dragon._
 
-**Vouivre**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

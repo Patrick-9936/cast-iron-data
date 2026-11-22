@@ -31,8 +31,6 @@ abilities = ["25", "20", "23", "18", "21", "18"]
 _Wriggling tendrils surround this creature's single eye where a face should be, and sucker-tipped
 tentacles stretch from its shoulders._
 
-**Utukku**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

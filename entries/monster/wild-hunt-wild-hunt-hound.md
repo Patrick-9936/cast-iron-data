@@ -31,8 +31,6 @@ abilities = ["24", "19", "22", "13", "20", "17"]
 
 _Green smoke billows from the bared teeth and flared nostrils of this muscular, sharp-eared hound._
 
-**Wild Hunt Hound**
-
 **Challenge rating:** 10
 
 **blindsense:** 60

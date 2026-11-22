@@ -15,8 +15,6 @@ kind = "creature"
 cr = "1"
 +++
 
-**Entertainer (Storyteller)**
-
 **Challenge rating:** 1
 
 **XP** 400\

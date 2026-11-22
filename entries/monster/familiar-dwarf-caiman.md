@@ -30,8 +30,6 @@ abilities = ["10", "11", "15", "1", "11", "2"]
 
 _This lithe, green-scaled reptile looks like a miniature crocodile with a stunted muzzle._
 
-**Dwarf Caiman**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

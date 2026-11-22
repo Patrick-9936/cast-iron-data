@@ -29,8 +29,6 @@ special_qualities = "weapon familiarity"
 abilities = ["17", "8", "12", "8", "13", "12"]
 +++
 
-**Orc Mystic**
-
 **Challenge rating:** 2
 
 **Orc [cleric](ref/class/cleric) 3**

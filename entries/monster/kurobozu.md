@@ -30,8 +30,6 @@ abilities = ["21", "18", "-", "10", "18", "12"]
 
 _The mouth of this gray-skinned, emaciated monk is a distended, hollow pit of darkness._
 
-**Kurobozu**
-
 **Challenge rating:** 6
 
 **Initiative:** +8

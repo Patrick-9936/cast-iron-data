@@ -31,8 +31,6 @@ abilities = ["10", "19", "18", "17", "20", "23"]
 _This thick ribbon of fungus somewhat resembles a caterpillar. Its folds pulse with an eerie, golden
 incandescence._
 
-**Nulmind**
-
 **Challenge rating:** 11
 
 **aura:** mind drain (30 ft., DC 23)

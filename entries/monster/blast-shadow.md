@@ -31,8 +31,6 @@ special_attacks = "cloud of smoke and fire~death burst"
 abilities = ["15", "18", "-", "10", "13", "16"]
 +++
 
-**Blast Shadow**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

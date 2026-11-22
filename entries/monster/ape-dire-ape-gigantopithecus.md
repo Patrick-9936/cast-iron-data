@@ -29,8 +29,6 @@ abilities = ["19", "15", "16", "2", "12", "7"]
 _Sharp teeth fill this large, feral ape's mouth, and its long, muscular arms stretch to the ground,
 ending in wickedly curved claws._
 
-**Dire Ape (Gigantopithecus)**
-
 **Challenge rating:** 3
 
 **Type:** animal

@@ -31,8 +31,6 @@ abilities = ["19", "15", "17", "8", "10", "14"]
 _Dead white scars and raw red flesh crisscross this creature's scorched and sallow skin as though it
 has been flogged and branded a thousand times._
 
-**Thoxel Demon**
-
 **Challenge rating:** 5
 
 **aura:** insolence (5 ft., DC 15)

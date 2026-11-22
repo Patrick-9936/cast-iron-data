@@ -34,8 +34,6 @@ abilities = ["12", "15", "10", "8", "11", "7"]
 
 _Monstrous black-feathered wings cloak this leanly muscled, onyx-skinned humanoid._
 
-**Strix**
-
 **Challenge rating:** 1/3
 
 **Strix [warrior](ref/npcclass/warrior) 1**

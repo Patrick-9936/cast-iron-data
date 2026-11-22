@@ -33,8 +33,6 @@ abilities = ["25", "18", "-", "13", "15", "18"]
 _This creature's pallid skin and dead, vacant eyes belie its healthy, powerful physique. It is clad
 in fearsome armor._
 
-**Fext**
-
 **Challenge rating:** 10
 
 **Initiative:** +4

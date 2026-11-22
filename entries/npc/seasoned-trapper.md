@@ -15,8 +15,6 @@ kind = "creature"
 cr = "1"
 +++
 
-**Seasoned Trapper**
-
 **Challenge rating:** 1
 
 **XP** 400\

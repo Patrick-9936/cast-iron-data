@@ -31,8 +31,6 @@ abilities = ["8", "13", "10", "-", "13", "2"]
 _Two large pincers grasp at the air before this sleek creature, while a finned tail bristling with a
 long, thin stinger rises from behind._
 
-**Ochre Eurypterid**
-
 **Challenge rating:** 1/3
 
 **Initiative:** +5

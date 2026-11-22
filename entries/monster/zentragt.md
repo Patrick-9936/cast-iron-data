@@ -32,8 +32,6 @@ abilities = ["17", "12", "13", "8", "11", "10"]
 _This ferocious ursine brute has blade-like metallic teeth and appears to be covered in overlapping
 iron plates._
 
-**Zentragt**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

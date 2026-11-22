@@ -31,8 +31,6 @@ abilities = ["45", "6", "30", "4", "11", "5"]
 _A deep groan at the edge of hearing precedes the appearance of this sightless leviathan, whose
 pallid body breaks the surface of dark waters without as much as a ripple._
 
-**Faceless Whale**
-
 **Challenge rating:** 15
 
 **blindsight:** 150

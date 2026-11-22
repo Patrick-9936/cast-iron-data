@@ -30,8 +30,6 @@ abilities = ["34", "18", "-", "-", "11", "1"]
 _This golden statue stands proud, bearing a regal scepter in one hand. Its other arm is stretched
 out, ending in an upraised fist._
 
-**Gold Golem**
-
 **Challenge rating:** 15
 
 **Type:** construct

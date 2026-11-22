@@ -30,8 +30,6 @@ abilities = ["8", "8", "9", "12", "15", "11"]
 _Robed in silk and its own regal wings, this humanoid assays its surroundings with the lethal
 detachment of the owl it resembles._
 
-**Syrinx**
-
 **Challenge rating:** 1/3
 
 **Syrinx [adept](ref/npcclass/adept) 1**

@@ -32,8 +32,6 @@ abilities = ["14", "13", "14", "14", "13", "9"]
 _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its
 piscine head features a toothy maw._
 
-**Sahuagin**
-
 **Challenge rating:** 2
 
 **blindsense:** 30

@@ -30,8 +30,6 @@ abilities = ["21", "12", "20", "9", "12", "11"]
 _This light purple dragon has immense wings and a bifurcated tail, each end tipped with a hooked
 stinger. Heavy smoke drips from the beast's nostrils and jaws._
 
-**Aashaq's Wyvern**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic neutral

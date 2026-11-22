@@ -32,8 +32,6 @@ abilities = ["18", "17", "16", "13", "15", "12"]
 _A rigid crest runs from the head of this bipedal lizard to the tip of its long tail, and oil
 glistens on its scales._
 
-**Xulgath**
-
 **Challenge rating:** 4
 
 **aura:** [stench](ref/umr/stench) (DC 16, 10 rounds)

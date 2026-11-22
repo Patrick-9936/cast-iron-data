@@ -30,8 +30,6 @@ abilities = ["32", "11", "21", "16", "21", "14"]
 _The massive, worm-like form of this eyeless, beaked beast is draped in shimmering metallic
 vestments._
 
-**Chyzaedu**
-
 **Challenge rating:** 10
 
 **Type:** aberration

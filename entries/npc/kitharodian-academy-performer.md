@@ -15,8 +15,6 @@ kind = "creature"
 cr = "2"
 +++
 
-**Kitharodian Academy Performer**
-
 **Challenge rating:** 2
 
 **XP** 600\

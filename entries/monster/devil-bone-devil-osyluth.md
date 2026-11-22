@@ -30,8 +30,6 @@ abilities = ["21", "21", "20", "16", "15", "18"]
 _Merging the most horrifying features of carrion-fed insect and withered cadaver, this bony devil
 moves in unsettling lurches._
 
-**Bone Devil (Osyluth)**
-
 **Challenge rating:** 9
 
 **aura:** fear aura (5 ft., DC 19, 1d6 rounds)

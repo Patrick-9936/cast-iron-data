@@ -15,8 +15,6 @@ kind = "creature"
 cr = "17"
 +++
 
-**Demon-Blooded Sorcerer**
-
 **Challenge rating:** 17
 
 **XP** 102,400\

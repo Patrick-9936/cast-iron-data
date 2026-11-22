@@ -30,8 +30,6 @@ special_qualities = "track +1, wild empathy +1"
 abilities = ["32", "15", "23", "10", "16", "8"]
 +++
 
-**Frost Giant Hunter**
-
 **Challenge rating:** 11
 
 **[Frost giant](ref/monster/giant-frost-frost-giant) [ranger](ref/class/ranger) 2**

@@ -33,8 +33,6 @@ abilities = ["33", "14", "23", "9", "12", "10"]
 _Towering above a typical human, this misshapen giant's pale flesh is covered in purulent sores and
 bulbous tumors._
 
-**Ash Giant**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic neutral

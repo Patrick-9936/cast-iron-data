@@ -28,8 +28,6 @@ abilities = ["11", "12", "12", "2", "9", "5"]
 
 _This small-eyed rodent has a rounded body with numerous quills running all over its back._
 
-**Porcupine**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

@@ -27,8 +27,6 @@ special_attacks = "paralyzing slime~viscous (DC 15)"
 abilities = ["14", "1", "18", "-", "1", "1"]
 +++
 
-**Melancholic Ooze Swarm**
-
 **Challenge rating:** 1
 
 **blindsight:** 60

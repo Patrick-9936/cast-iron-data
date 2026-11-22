@@ -32,8 +32,6 @@ abilities = ["23", "16", "21", "14", "18", "17"]
 _This imposing creature stands on three legs, with a body like three torsos fused together. These
 torsos are topped with a single head bearing three faces, each set in a bland, serene expression._
 
-**Axial Monitor**
-
 **Challenge rating:** 15
 
 **blindsight:** 30

@@ -30,8 +30,6 @@ abilities = ["4", "13", "-", "7", "14", "11"]
 
 _This bloodshot eyeball trails strands of bloody nerves that fan out like flapping wings._
 
-**Isitoq**
-
 **Challenge rating:** 1/2
 
 **Size:** diminutive

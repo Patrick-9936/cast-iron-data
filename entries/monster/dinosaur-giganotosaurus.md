@@ -27,8 +27,6 @@ abilities = ["42", "11", "21", "2", "15", "10"]
 
 _This bipedal dinosaur has a large head and cavernous jaws full of large, sharp teeth._
 
-**Giganotosaurus**
-
 **Challenge rating:** 13
 
 **Type:** animal

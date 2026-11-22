@@ -31,8 +31,6 @@ _Withered, fleshy leaves the color of dried blood lie like armored plates across
 imposing creature's bulbous form. Thick, serpentine strands run the length of its rigid, fibrous
 skin._
 
-**Bloodplate Burster**
-
 **Challenge rating:** 9
 
 **blindsight:** 60

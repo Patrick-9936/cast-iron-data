@@ -31,8 +31,6 @@ abilities = ["10", "1", "26", "-", "1", "1"]
 _Bits of broken weapons, coins, and a partially digested skeleton are visible inside this quivering
 cube of slime._
 
-**Gelatinous Cube**
-
 **Challenge rating:** 3
 
 **blindsight:** 60

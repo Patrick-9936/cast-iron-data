@@ -29,8 +29,6 @@ abilities = ["22", "13", "17", "2", "12", "7"]
 _This bulky, four-legged dinosaur has a long nasal horn and a crest studded with additional horns
 sweeping back from its skull._
 
-**Styracosaurus**
-
 **Challenge rating:** 5
 
 **Type:** animal

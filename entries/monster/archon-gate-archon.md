@@ -30,8 +30,6 @@ abilities = ["30", "17", "31", "18", "22", "21"]
 
 _This masked humanoid being has wings and armor of rune-carved gray stone, and its eyes glow blue._
 
-**Gate Archon**
-
 **Challenge rating:** 17
 
 **aura:** aura of menace (30 ft., DC 23, 10 rounds)

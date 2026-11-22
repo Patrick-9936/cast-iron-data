@@ -30,8 +30,6 @@ abilities = ["30", "1", "24", "-", "1", "1"]
 _This viscous heap slides like an inky spill. It's the color of a starless night sky, and a thick
 odor permeates the air around it._
 
-**Roiling Oil**
-
 **Challenge rating:** 6
 
 **blindsight:** 60

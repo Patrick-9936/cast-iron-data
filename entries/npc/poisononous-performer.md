@@ -15,8 +15,6 @@ kind = "creature"
 cr = "10"
 +++
 
-**Poisononous Performer**
-
 **Challenge rating:** 10
 
 **XP** 9,600\

@@ -34,8 +34,6 @@ abilities = ["28", "26", "31", "18", "27", "29"]
 _This beautiful, rosy-haired woman has a lower body composed of a column of autumnal leaves and
 gently swaying vines._
 
-**Veranallia**
-
 **Challenge rating:** 20
 
 **aura:** holy aura (DC 27)

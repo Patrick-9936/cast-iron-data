@@ -32,8 +32,6 @@ abilities = ["31", "20", "25", "14", "19", "16"]
 _This enormous scorpion-like creature has legs like jagged bark and a moss-colored body. It barbed
 tail drips foul-smelling venom and its wide mouth has multiple hinged jaws._
 
-**Corbayrant**
-
 **Challenge rating:** 16
 
 **aura:** virulence (30 ft.)

@@ -30,8 +30,6 @@ _This shambling humanoid's taut gray skin shows signs of arcane symbols now fade
 decay. Long, darkwood spikes riddle its body; every inch of flesh is staked and violated. A palpable
 aura of entropy and despair hangs over the sorry, perforated creature._
 
-**Voidstick Zombie**
-
 **Challenge rating:** 12
 
 **aura:** sacrilegious aura

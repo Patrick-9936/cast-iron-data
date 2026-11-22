@@ -34,8 +34,6 @@ abilities = ["43", "27", "30", "7", "16", "10"]
 _This slithering mass of bubbling red ooze extrudes a nest of long, thin tendrils, as if tasting the
 air in search of prey._
 
-**Riftcreeper**
-
 **Challenge rating:** 15
 
 **blindsight:** 60

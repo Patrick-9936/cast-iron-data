@@ -33,8 +33,6 @@ abilities = ["8", "20", "14", "18", "10", "8"]
 _This small, rat-like humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery
 tail._
 
-**Ratfolk Chemist**
-
 **Challenge rating:** 7
 
 **Ratfolk [alchemist](ref/class/alchemist) 8**

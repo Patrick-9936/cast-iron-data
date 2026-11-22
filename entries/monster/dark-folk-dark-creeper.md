@@ -31,8 +31,6 @@ abilities = ["11", "17", "14", "9", "10", "8"]
 _Filthy, reeking black rags wrap this small humanoid from head to toe, leaving only its hands and
 pale white nose visible._
 
-**Dark Creeper**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

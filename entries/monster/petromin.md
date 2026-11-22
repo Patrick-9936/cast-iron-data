@@ -29,8 +29,6 @@ abilities = ["3", "15", "10", "2", "12", "7"]
 
 _This sleek, furred creature has flaps of skin stretching between its limbs and its body._
 
-**Petromin**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

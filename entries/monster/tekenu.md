@@ -30,8 +30,6 @@ abilities = ["11", "19", "-", "2", "10", "15"]
 _A collection of cast-off organs rolls and squeezes against itself, forming a writhing mass of
 viscera that hovers in the air._
 
-**Tekenu**
-
 **Challenge rating:** 6
 
 **Initiative:** +8

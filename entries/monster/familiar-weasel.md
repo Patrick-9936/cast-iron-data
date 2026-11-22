@@ -25,8 +25,6 @@ melee = "bite +4 (1d3-4 plus attach)"
 abilities = ["3", "15", "10", "2", "12", "5"]
 +++
 
-**Weasel**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

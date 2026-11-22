@@ -32,8 +32,6 @@ abilities = ["29", "35", "39", "18", "22", "21"]
 _This tall, graceful person has elven features, the horns of a majestic stag and a piercing, ageless
 stare._
 
-**Cernunnos**
-
 **Challenge rating:** 30
 
 **aura:** primal (30 ft.)

@@ -31,8 +31,6 @@ abilities = ["33", "21", "24", "12", "20", "25"]
 _Standing on three legs, this creature is a mix of dangerous jungle animals and plants fused into
 one deadly predator._
 
-**Tunche**
-
 **Challenge rating:** 17
 
 **Alignment:** Chaotic neutral

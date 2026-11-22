@@ -30,8 +30,6 @@ abilities = ["32", "9", "28", "5", "20", "19"]
 _This enormous, spider-like creature has three clawed tails and eight legs connected by leathery
 webs of flesh._
 
-**Augnagar**
-
 **Challenge rating:** 14
 
 **blindsight:** 30

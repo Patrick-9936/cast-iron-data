@@ -30,8 +30,6 @@ abilities = ["18", "14", "19", "2", "9", "11"]
 _Thorny vines encircle this tropical tree's thick, spongy trunk, and jungle debris lies strewn about
 its base._
 
-**Nirento**
-
 **Challenge rating:** 4
 
 **blindsight:** 60

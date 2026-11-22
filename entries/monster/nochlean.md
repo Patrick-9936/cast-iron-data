@@ -29,8 +29,6 @@ abilities = ["10", "19", "14", "12", "13", "15"]
 _This gaunt, clawed faerie creature wears simple, homespun clothing and a malicious grin. Its
 oversized ears stick out from the sides of its head, and it wears its long earlobes like a scarf._
 
-**Nochlean**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

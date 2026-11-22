@@ -31,8 +31,6 @@ abilities = ["24", "13", "-", "-", "10", "1"]
 
 _Gleaming gears whir and buzz in an orchestra of motion whenever this red-eyed steed moves._
 
-**Clockwork Steed**
-
 **Challenge rating:** 6
 
 **Type:** construct

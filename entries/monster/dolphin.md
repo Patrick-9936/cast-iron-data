@@ -30,8 +30,6 @@ abilities = ["12", "15", "13", "2", "13", "6"]
 _This streamlined, fish-like mammal has sparkling eyes over a smiling mouth filled with hundreds of
 teeth._
 
-**Dolphin**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

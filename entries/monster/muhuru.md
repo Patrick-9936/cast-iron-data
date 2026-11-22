@@ -30,8 +30,6 @@ abilities = ["25", "20", "21", "4", "19", "10"]
 _This reptilian beast has large fangs, a club-tipped tail, and a large, fin-like sail on its back
 that shimmers radiantly in the light._
 
-**Muhuru**
-
 **Challenge rating:** 10
 
 **Initiative:** +5

@@ -33,8 +33,6 @@ abilities = ["18", "19", "14", "5", "15", "10"]
 _The strangely shaped glowing red eyes, unnaturally upright ears, and split tail betray the
 unnatural origins of this black canine._
 
-**Sha**
-
 **Challenge rating:** 4
 
 **Initiative:** +4

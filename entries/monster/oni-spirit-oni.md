@@ -31,8 +31,6 @@ abilities = ["6", "19", "12", "13", "12", "15"]
 _This evil-looking animated mask shows the face of a horned fiend, its eyes popping and its leering
 smile full of fangs._
 
-**Spirit Oni**
-
 **Challenge rating:** 2
 
 **Initiative:** +8

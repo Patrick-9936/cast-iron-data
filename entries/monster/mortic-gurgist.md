@@ -32,8 +32,6 @@ abilities = ["18", "17", "18", "17", "14", "7"]
 _This woman's clothing is a jumbled quilt of fine fabrics and elegant stitching, topped with a
 magnificent mask of painted wood and feathers. Bruises and sores cover her skin._
 
-**Gurgist**
-
 **Challenge rating:** 6
 
 **Type:** humanoid

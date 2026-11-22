@@ -31,8 +31,6 @@ abilities = ["10", "13", "12", "6", "13", "15"]
 _What looks like a pile of shorn hair twitches almost imperceptibly, as if the locks were moving in
 an non-existent wind._
 
-**Animate Hair**
-
 **Challenge rating:** 1/2
 
 **blindsight:** 60

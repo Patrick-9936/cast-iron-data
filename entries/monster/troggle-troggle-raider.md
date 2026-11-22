@@ -33,8 +33,6 @@ abilities = ["24", "17", "16", "7", "10", "3"]
 _This troggle wears filthy studded leather armor and a dog collar, and carries a powerful bow on its
 back._
 
-**Troggle Raider**
-
 **Challenge rating:** 6
 
 **Troggle [ranger](ref/class/ranger) 2**

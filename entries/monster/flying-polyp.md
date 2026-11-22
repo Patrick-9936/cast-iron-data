@@ -34,8 +34,6 @@ abilities = ["28", "15", "24", "19", "20", "21"]
 _This nauseating, tapered tower of flesh, eyes, and tendrils writhes midair, surrounded by a strange
 vortex of sucking wind._
 
-**Flying Polyp**
-
 **Challenge rating:** 14
 
 **Type:** aberration

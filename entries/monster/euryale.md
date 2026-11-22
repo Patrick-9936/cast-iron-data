@@ -32,8 +32,6 @@ abilities = ["28", "32", "35", "29", "26", "31"]
 _This creature has the upper body of a woman, the lower body of a snake, and a mass of undulating
 cobras for hair._
 
-**Euryale**
-
 **Challenge rating:** 20
 
 **blindsight:** 60

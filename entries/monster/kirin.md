@@ -30,8 +30,6 @@ abilities = ["20", "23", "18", "18", "21", "23"]
 _With draconic scales covering much of its body, this stag-like creature moves with awe-inspiring
 grace._
 
-**Kirin**
-
 **Challenge rating:** 7
 
 **Initiative:** +6

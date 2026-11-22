@@ -32,8 +32,6 @@ abilities = ["19", "14", "13", "11", "12", "10"]
 _The battle-worn axe and scarred leather armor born by this sunbleached minotaur woman mark her as a
 seasoned combatant._
 
-**Minotaur Marauder**
-
 **Challenge rating:** 6
 
 **Minotaur [ranger](ref/class/ranger) 2**

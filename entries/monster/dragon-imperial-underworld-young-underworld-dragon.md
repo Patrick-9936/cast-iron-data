@@ -32,8 +32,6 @@ abilities = ["21", "12", "17", "12", "13", "12"]
 _This serpentine dragon has skin the color of deep volcanic rock, enormous claws, and jagged,
 stone-like horns and scales._
 
-**Young Underworld Dragon**
-
 **Challenge rating:** 7
 
 **Type:** dragon

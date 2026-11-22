@@ -29,8 +29,6 @@ abilities = ["35", "6", "25", "1", "8", "8"]
 _This enormous worm is covered with dark purple plates of chitinous armor. Its giant, tooth-filled
 mouth is the size of an ox._
 
-**Purple Worm**
-
 **Challenge rating:** 12
 
 **Size:** gargantuan

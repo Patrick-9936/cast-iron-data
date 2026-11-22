@@ -30,8 +30,6 @@ special_qualities = "hold breath, track +1, wild empathy +1"
 abilities = ["17", "12", "17", "9", "12", "8"]
 +++
 
-**Lizardfolk Stalker**
-
 **Challenge rating:** 3
 
 **Lizardfolk [ranger](ref/class/ranger) 2**

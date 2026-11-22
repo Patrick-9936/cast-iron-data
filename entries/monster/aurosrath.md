@@ -30,8 +30,6 @@ abilities = ["18", "13", "-", "11", "12", "17"]
 _This obscenely bloated and stretched human corpse jingles as it moves. Coins tumble from its mouth
 and from the exposed wounds that cover its hideously distended body._
 
-**Aurosrath**
-
 **Challenge rating:** 5
 
 **Initiative:** +1

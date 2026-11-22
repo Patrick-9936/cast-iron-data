@@ -33,8 +33,6 @@ abilities = ["13", "14", "-", "4", "12", "12"]
 _Rotting vestments hang across the withered flesh of this walking corpse, and its mouth hangs open
 in a silent scream._
 
-**Huecuva**
-
 **Challenge rating:** 2
 
 **aura:** faithlessness (30 ft.)

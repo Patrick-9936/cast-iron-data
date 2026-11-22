@@ -31,8 +31,6 @@ abilities = ["42", "27", "30", "9", "22", "25"]
 _This wriggling and leafless tree moves on spidery legs. Flickering motes of blood-red lightning
 dance in the cracks of its bark._
 
-**Sard**
-
 **Challenge rating:** 19
 
 **blindsight:** 30

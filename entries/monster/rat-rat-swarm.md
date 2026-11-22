@@ -31,8 +31,6 @@ abilities = ["2", "15", "13", "2", "13", "2"]
 _A squirming, roiling mass of squeaking rats draws closer, teeth flashing and claws scratching
 everything in its path._
 
-**Rat Swarm**
-
 **Challenge rating:** 2
 
 **Type:** animal

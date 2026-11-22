@@ -28,8 +28,6 @@ abilities = ["26", "9", "19", "2", "12", "7"]
 _This beast's armored head has three sharp horns decorating its face and a large round crest angling
 back over its neck from its skull._
 
-**Triceratops**
-
 **Challenge rating:** 8
 
 **Type:** animal

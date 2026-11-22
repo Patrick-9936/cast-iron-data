@@ -31,8 +31,6 @@ abilities = ["28", "14", "-", "-", "11", "1"]
 _This human-shaped construct has a helm-like head with a single crystalline eye. One arm ends in a
 large shield-like sheet of metal._
 
-**Clockwork Guardian**
-
 **Challenge rating:** 8
 
 **Type:** construct

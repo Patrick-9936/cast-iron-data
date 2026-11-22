@@ -31,8 +31,6 @@ abilities = ["22", "22", "21", "21", "17", "18"]
 
 _This foul creature looks like an emaciated humanoid with the head of a jackal._
 
-**Meladaemon**
-
 **Challenge rating:** 11
 
 **aura:** consumptive aura (20 ft.)

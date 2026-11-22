@@ -35,8 +35,6 @@ abilities = ["24", "21", "22", "17", "22", "21"]
 _This dark-skinned woman has diaphanous wings, four large eyes - one pair under the other - and a
 tangle of night-blue hair._
 
-**Uinuja**
-
 **Challenge rating:** 15
 
 **aura:** emotion (DC 24)

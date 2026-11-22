@@ -31,8 +31,6 @@ abilities = ["22", "12", "19", "10", "11", "15"]
 _This reptilian creature's gaunt body, legs, and bat-like face are covered in long spines. Two wings
 stretch out from its torso._
 
-**Spire Drake**
-
 **Challenge rating:** 7
 
 **Type:** dragon

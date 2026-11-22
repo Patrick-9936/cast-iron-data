@@ -32,8 +32,6 @@ abilities = ["20", "18", "14", "8", "10", "12"]
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with
 the thrill of the coming kill._
 
-**Bugbear Shadow Sneak**
-
 **Challenge rating:** 10
 
 **Bugbear [ninja](ref/class/ninja) 5/[shadowdancer](ref/pclass/shadowdancer) 4**

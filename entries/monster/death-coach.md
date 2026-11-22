@@ -31,8 +31,6 @@ abilities = ["-", "30", "-", "15", "18", "27"]
 _Two spectral horses pull this ornate, ghostly carriage, whose windows are blocked by dark, heavy
 curtains._
 
-**Death Coach**
-
 **Challenge rating:** 14
 
 **aura:** aura of doom (30 ft., DC 26)

@@ -31,8 +31,6 @@ abilities = ["14", "14", "15", "8", "15", "10"]
 _Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant
 eyes._
 
-**Hobgoblin Battlefield Zealot**
-
 **Challenge rating:** 2
 
 **Hobgoblin [cleric](ref/class/cleric) 2/[fighter](ref/class/fighter) 1**

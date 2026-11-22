@@ -32,8 +32,6 @@ abilities = ["44", "36", "44", "29", "33", "28"]
 _The size of a bull elephant, this red-and-black arachnid has a bloated body and spindly legs, made
 all the more horrifying by the all-too-human appearance of its baleful visage._
 
-**Atlach-Nacha**
-
 **Challenge rating:** 28
 
 **Type:** aberration

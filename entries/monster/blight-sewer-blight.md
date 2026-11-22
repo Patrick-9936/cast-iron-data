@@ -32,8 +32,6 @@ abilities = ["36", "26", "29", "16", "23", "21"]
 _What appears to be a grotesque mass of sewage betrays its true nature with dozens of red eyes and
 two long, slimy, claw-tipped tentacles._
 
-**Sewer Blight**
-
 **Challenge rating:** 15
 
 **aura:** [stench](ref/umr/stench) (30 ft., DC 23)

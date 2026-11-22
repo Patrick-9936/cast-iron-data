@@ -31,8 +31,6 @@ abilities = ["31", "13", "22", "14", "13", "20"]
 _This massive, eyeless draconic creature is covered in purplehued scales and sharp, spiky
 protrusions._
 
-**Woundwyrm**
-
 **Challenge rating:** 15
 
 **blindsight:** 60

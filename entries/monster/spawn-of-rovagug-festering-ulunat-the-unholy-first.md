@@ -27,8 +27,6 @@ special_qualities = "hibernation, massive, no breath"
 abilities = ["38", "21", "35", "3", "30", "20"]
 +++
 
-**Festering Ulunat (The Unholy First)**
-
 **Challenge rating:** 24
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 30)

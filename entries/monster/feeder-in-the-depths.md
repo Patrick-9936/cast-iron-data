@@ -30,8 +30,6 @@ abilities = ["24", "15", "20", "13", "15", "14"]
 _An immense gray-and-white shark glides through the water, its piercing red eyes revealing a vicious
 intelligence._
 
-**Feeder in the Depths**
-
 **Challenge rating:** 8
 
 **aura:** blood feast (30 ft.)

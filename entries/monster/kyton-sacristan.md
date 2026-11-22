@@ -30,8 +30,6 @@ abilities = ["20", "16", "21", "13", "14", "15"]
 _Chains and piercings torture this being's bloodless flesh. The greatest violations invade its face
 and mouth._
 
-**Sacristan**
-
 **Challenge rating:** 10
 
 **Initiative:** +3

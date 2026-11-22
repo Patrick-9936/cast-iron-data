@@ -30,8 +30,6 @@ abilities = ["13", "19", "18", "14", "20", "17"]
 _A toned, regal human radiates a shifting aura of many colors and murmuring voices that seem
 strangely familiar._
 
-**Manu**
-
 **Challenge rating:** 12
 
 **aura:** unity (30 ft.)

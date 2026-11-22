@@ -32,8 +32,6 @@ abilities = ["21", "12", "17", "16", "17", "16"]
 _The long, undulating body of this serpentine dragon rolls and bends with scales the color of the
 ocean's waves._
 
-**Young Sea Dragon**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic good

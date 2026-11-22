@@ -32,8 +32,6 @@ abilities = ["22", "13", "18", "8", "9", "13"]
 _This two-legged dragon has dull blue scales tinged with bright blue ice. A freezing mist issues
 from between its powerful jaws._
 
-**Frost Drake**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

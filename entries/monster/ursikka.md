@@ -34,8 +34,6 @@ abilities = ["32", "11", "22", "2", "13", "5"]
 _This insect-like creature is covered in downy white fur. A pair of eyes gleams above a three-part
 mouth that drips viscous fluid._
 
-**Ursikka**
-
 **Challenge rating:** 10
 
 **Size:** huge

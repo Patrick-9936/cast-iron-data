@@ -28,8 +28,6 @@ special_attacks = "powerful wings~scrivener"
 abilities = ["25", "10", "21", "16", "21", "16"]
 +++
 
-**Young Edict Dragon**
-
 **Challenge rating:** 12
 
 **Type:** dragon

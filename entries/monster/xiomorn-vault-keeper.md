@@ -34,8 +34,6 @@ abilities = ["22", "27", "25", "27", "18", "24"]
 _This towering, spindly, four-armed entity appears to be made of stone and crystal, yet it moves
 with a fluid grace._
 
-**Vault Keeper**
-
 **Challenge rating:** 14
 
 **Initiative:** +8

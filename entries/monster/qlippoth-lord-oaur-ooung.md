@@ -31,8 +31,6 @@ abilities = ["44", "27", "36", "21", "23", "22"]
 _The sides of this tentacled monstrosity-part jellyfish, part mushroom forest-swell with opaque,
 pulsing blisters._
 
-**Oaur-Ooung**
-
 **Challenge rating:** 23
 
 **aura:** cloak of chaos (DC 24)

@@ -31,8 +31,6 @@ abilities = ["12", "11", "13", "2", "10", "13"]
 _This thin, colorful fish has a broad, segmented sucker above its narrow mouth. A line of spines
 runs down its back._
 
-**Echeneis**
-
 **Challenge rating:** 1
 
 **Initiative:** +4

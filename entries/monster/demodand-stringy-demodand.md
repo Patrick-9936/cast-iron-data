@@ -34,8 +34,6 @@ abilities = ["28", "27", "23", "12", "13", "18"]
 
 _This lanky, winged humanoid is covered in layers of long, ropy skin growths._
 
-**Stringy Demodand**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic evil

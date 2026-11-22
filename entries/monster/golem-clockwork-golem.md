@@ -30,8 +30,6 @@ abilities = ["27", "12", "-", "-", "11", "1"]
 _A vaguely humanoid shape made of metal lurches to life with the grinding whir and frantic ticking
 of hundreds of gears._
 
-**Clockwork Golem**
-
 **Challenge rating:** 12
 
 **Type:** construct

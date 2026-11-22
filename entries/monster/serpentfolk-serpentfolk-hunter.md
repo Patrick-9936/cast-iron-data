@@ -29,8 +29,6 @@ special_qualities = "track +1, wild empathy +1"
 abilities = ["22", "17", "19", "8", "11", "8"]
 +++
 
-**Serpentfolk Hunter**
-
 **Challenge rating:** 6
 
 **Degenerate serpentfolk [ranger](ref/class/ranger) 2**

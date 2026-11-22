@@ -31,8 +31,6 @@ abilities = ["23", "15", "19", "18", "18", "18"]
 _This snarling, canine beast pads forward on all fours, its slender front limbs looking more like
 hands than a wolf's paws._
 
-**Greater Barghest**
-
 **Challenge rating:** 7
 
 **Initiative:** +6

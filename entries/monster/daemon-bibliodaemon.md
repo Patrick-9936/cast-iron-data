@@ -30,8 +30,6 @@ abilities = ["16", "17", "16", "14", "15", "15"]
 _Flowing black robes hang all around this four-armed, weasel-faced humanoid. Feathers that resemble
 quills emerge from each knuckle of its clawed upper hands._
 
-**Bibliodaemon**
-
 **Challenge rating:** 8
 
 **Initiative:** +3

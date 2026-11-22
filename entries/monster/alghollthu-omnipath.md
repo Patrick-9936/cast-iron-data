@@ -33,8 +33,6 @@ abilities = ["32", "28", "27", "25", "21", "24"]
 
 _This monstrous eel-like creature has jaws within jaws, each bearing transparent, glass-like teeth._
 
-**Omnipath**
-
 **Challenge rating:** 18
 
 **Type:** aberration

@@ -28,8 +28,6 @@ abilities = ["22", "13", "16", "18", "19", "19"]
 _This creature has the body of a lion, the wings of a falcon, and the head and torso of a beautiful
 human woman._
 
-**Gynosphinx**
-
 **Challenge rating:** 8
 
 **Initiative:** +5

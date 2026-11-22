@@ -35,8 +35,6 @@ abilities = ["24", "15", "23", "12", "15", "14"]
 _Bristling with spiny ridges, coral horns, and needle-sharp teeth, this menacing biped seems to have
 emerged from some poisoned sea._
 
-**Ghawwas**
-
 **Challenge rating:** 10
 
 **Initiative:** +6

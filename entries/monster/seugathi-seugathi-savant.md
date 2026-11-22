@@ -30,8 +30,6 @@ abilities = ["23", "22", "21", "15", "18", "19"]
 
 _Hundreds of legs support this hulking, bruise-colored worm._
 
-**Seugathi Savant**
-
 **Challenge rating:** 10
 
 **Type:** aberration

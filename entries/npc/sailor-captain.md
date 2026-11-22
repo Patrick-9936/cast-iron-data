@@ -15,8 +15,6 @@ kind = "creature"
 cr = "11"
 +++
 
-**Sailor (Captain)**
-
 **Challenge rating:** 11
 
 **XP** 12,800\

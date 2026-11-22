@@ -29,8 +29,6 @@ abilities = ["27", "15", "17", "2", "12", "10"]
 _This large tiger grumbles a warning as it crouches. Two saber-like fangs jut downward from its
 powerful jaws._
 
-**Dire Tiger (Smilodon)**
-
 **Challenge rating:** 8
 
 **Type:** animal

@@ -33,8 +33,6 @@ _This unfathomably large serpent sports a distinctly draconic face. Its body is 
 with swatches of crimson. An entrancing set of lures dangles off its face, each glowing with a
 pulsating orange light accented by regular electrical discharges._
 
-**Sea Linnorm**
-
 **Challenge rating:** 22
 
 **Size:** colossal
