@@ -4,6 +4,7 @@ kind = "affliction"
 title = "False Death"
 source_ids = ["bestiary-5"]
 parent = "ref/monster/gravebound"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "gravebound|affliction:false-death", path = "json/monsters12.json" },
 ]

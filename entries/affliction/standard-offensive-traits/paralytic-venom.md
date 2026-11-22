@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Paralytic Venom"
 source_ids = ["advanced-race-guide"]
 parent = "ref/rule/standard-offensive-traits"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "standard_offensive_traits|affliction:paralytic-venom", path = "json/rules_gm07.json" },
 ]

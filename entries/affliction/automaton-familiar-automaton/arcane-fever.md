@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Arcane fever"
 source_ids = ["construct-handbook"]
 parent = "ref/monster/automaton-familiar-automaton"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "automaton_familiar_automaton|affliction:arcane-fever", path = "json/monsters26.json" },
 ]

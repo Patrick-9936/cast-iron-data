@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Prismatic Poison"
 source_ids = ["bestiary-6"]
 parent = "ref/monster/golem-gold-golem"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "golem_gold_golem|affliction:prismatic-poison", path = "json/monsters33.json" },
 ]

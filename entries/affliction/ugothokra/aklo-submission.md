@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Aklo Submission"
 source_ids = ["pathfinder-88-valley-of-the-brain-collectors"]
 parent = "ref/monster/ugothokra"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "ugothokra|affliction:aklo-submission", path = "json/monsters24.json" },
 ]

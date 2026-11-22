@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Rotting Flesh"
 source_ids = ["bestiary-4"]
 parent = "ref/monster/necrocraft"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "necrocraft|affliction:rotting-flesh", path = "json/monsters35.json" },
 ]

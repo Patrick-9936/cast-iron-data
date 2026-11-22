@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Bubonic Plague"
 source_ids = ["bestiary-3", "pathfinder-20-house-of-the-beast"]
 parent = "ref/monster/div-pairaka"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "div_pairaka|affliction:bubonic-plague", path = "json/monsters08.json" },
 ]

@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Vacillating Venom"
 source_ids = ["pathfinder-41-the-thousand-fangs-below"]
 parent = "ref/monster/inkanyamba"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "inkanyamba|affliction:vacillating-venom", path = "json/monsters14.json" },
 ]

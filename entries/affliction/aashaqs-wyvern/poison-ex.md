@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Poison (Ex)"
 source_ids = ["isles-of-the-shackles"]
 parent = "ref/monster/aashaqs-wyvern"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "aashaqs_wyvern|affliction:poison-ex", path = "json/monsters01.json" },
 ]

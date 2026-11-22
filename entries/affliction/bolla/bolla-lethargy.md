@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Bolla Lethargy"
 source_ids = ["pathfinder-136-temple-of-the-peacock-spirit"]
 parent = "ref/monster/bolla"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "bolla|affliction:bolla-lethargy", path = "json/monsters27.json" },
 ]

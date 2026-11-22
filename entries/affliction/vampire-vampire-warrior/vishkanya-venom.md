@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Vishkanya Venom"
 source_ids = ["monster-codex"]
 parent = "ref/monster/vampire-vampire-warrior"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "vampire_vampire_warrior|affliction:vishkanya-venom", path = "json/monsters24.json" },
 ]

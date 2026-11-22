@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Carrion fever"
 source_ids = ["pathfinder-82-secrets-of-the-sphinx"]
 parent = "ref/monster/sphinx-cynosphinx"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "sphinx_cynosphinx|affliction:carrion-fever", path = "json/monsters39.json" },
 ]

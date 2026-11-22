@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Hypnalis Venom"
 source_ids = ["bestiary-4"]
 parent = "ref/monster/hypnalis"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "hypnalis|affliction:hypnalis-venom", path = "json/monsters14.json" },
 ]

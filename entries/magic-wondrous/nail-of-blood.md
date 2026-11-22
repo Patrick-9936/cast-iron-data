@@ -15,7 +15,6 @@ kind = "item"
 category = "Wondrous Items"
 price = "25,000 gp"
 weight = "-"
-slot = "special (see below)"
 aura = "moderate necromancy"
 caster_level = "7th"
 +++

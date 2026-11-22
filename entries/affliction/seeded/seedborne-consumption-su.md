@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Seedborne Consumption (Su)"
 source_ids = ["pathfinder-113-what-grows-within"]
 parent = "ref/template/seeded"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "seeded|affliction:seedborne-consumption-su", path = "json/monster_template4.json" },
 ]

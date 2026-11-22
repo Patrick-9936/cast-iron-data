@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Insidious Mummy Rot (Su)"
 source_ids = ["bestiary-5"]
 parent = "ref/template/mummy-lord"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "mummy_lord|affliction:insidious-mummy-rot-su", path = "json/monster_template3.json" },
 ]

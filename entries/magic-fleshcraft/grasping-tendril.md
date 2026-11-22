@@ -14,7 +14,6 @@ page = "168"
 kind = "item"
 category = "Fleshcraft"
 price = "22,500 gp"
-slot = "see below"
 +++
 
 **Price** 22,500 gp; **Elixir Price** 500 gp\

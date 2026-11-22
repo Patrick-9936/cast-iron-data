@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Nightmare Curse"
 source_ids = ["bestiary-2"]
 parent = "ref/monster/animate-dream"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "animate_dream|affliction:nightmare-curse", path = "json/monsters02.json" },
 ]

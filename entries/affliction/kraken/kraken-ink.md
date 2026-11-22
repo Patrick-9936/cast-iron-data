@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Kraken Ink"
 source_ids = ["bestiary"]
 parent = "ref/monster/kraken"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "kraken|affliction:kraken-ink", path = "json/monsters34.json" },
 ]

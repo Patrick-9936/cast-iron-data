@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Purple Pox"
 source_ids = ["bestiary-3"]
 parent = "ref/monster/myceloid"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "myceloid|affliction:purple-pox", path = "json/monsters17.json" },
 ]

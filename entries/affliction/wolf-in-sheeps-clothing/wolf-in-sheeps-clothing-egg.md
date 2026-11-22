@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Wolf-in-Sheep's-Clothing Egg"
 source_ids = ["bestiary-3", "misfit-monsters-redeemed"]
 parent = "ref/monster/wolf-in-sheeps-clothing"
+tags = ["infestation"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "wolf_in_sheeps_clothing|affliction:wolf-in-sheeps-clothing-egg", path = "json/monsters25.json" },
 ]

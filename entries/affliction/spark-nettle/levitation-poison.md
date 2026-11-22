@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Levitation poison"
 source_ids = ["pathfinder-36-sound-of-a-thousand-screams"]
 parent = "ref/monster/spark-nettle"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "spark_nettle|affliction:levitation-poison", path = "json/monsters22.json" },
 ]

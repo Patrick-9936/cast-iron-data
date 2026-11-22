@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Runeslave Poison"
 source_ids = ["rise-of-the-runelords-anniversary-edition"]
 parent = "ref/template/runeslave"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "runeslave|affliction:runeslave-poison", path = "json/monster_template4.json" },
 ]

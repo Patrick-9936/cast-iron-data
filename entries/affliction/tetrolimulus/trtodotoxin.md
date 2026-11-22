@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Trtodotoxin"
 source_ids = ["pathfinder-58-island-of-empty-eyes"]
 parent = "ref/monster/tetrolimulus"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "tetrolimulus|affliction:trtodotoxin", path = "json/monsters23.json" },
 ]

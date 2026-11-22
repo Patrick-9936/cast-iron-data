@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Basic Disease"
 source_ids = ["pathfinder-unchained"]
 parent = "ref/rule/monstrous"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "monstrous|affliction:basic-disease", path = "json/rules_adv_gm03.json" },
 ]

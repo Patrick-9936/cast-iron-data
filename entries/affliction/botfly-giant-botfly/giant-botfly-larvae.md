@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Giant Botfly Larvae"
 source_ids = ["heart-of-the-jungle"]
 parent = "ref/monster/botfly-giant-botfly"
+tags = ["infestation"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "botfly_giant_botfly|affliction:giant-botfly-larvae", path = "json/monsters04.json" },
 ]

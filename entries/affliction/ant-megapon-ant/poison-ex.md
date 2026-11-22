@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Poison (Ex)"
 source_ids = ["bestiary-5"]
 parent = "ref/monster/ant-megapon-ant"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "ant_megapon_ant|affliction:poison-ex", path = "json/monsters02.json" },
 ]

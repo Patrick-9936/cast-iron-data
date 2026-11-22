@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Vydrarch poison"
 source_ids = ["magnimar-city-of-monuments"]
 parent = "ref/monster/vydrarch"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "vydrarch|affliction:vydrarch-poison", path = "json/monsters40.json" },
 ]

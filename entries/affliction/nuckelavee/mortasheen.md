@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Mortasheen"
 source_ids = ["bestiary-3", "pathfinder-34-blood-for-blood"]
 parent = "ref/monster/nuckelavee"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "nuckelavee|affliction:mortasheen", path = "json/monsters18.json" },
 ]

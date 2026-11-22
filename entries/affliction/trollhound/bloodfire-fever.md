@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Bloodfire fever"
 source_ids = ["bestiary-3", "pathfinder-32-rivers-run-red"]
 parent = "ref/monster/trollhound"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "trollhound|affliction:bloodfire-fever", path = "json/monsters39.json" },
 ]

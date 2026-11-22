@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Deathspore Toxin"
 source_ids = ["bestiary", "horror-realms"]
 parent = "ref/template/zombie"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "zombie|affliction:deathspore-toxin", path = "json/monster_template4.json" },
 ]

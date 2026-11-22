@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Wasting Curse (Su)"
 source_ids = ["pathfinder-84-pyramid-of-the-sky-pharaoh"]
 parent = "ref/monster/ammut"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "ammut|affliction:wasting-curse-su", path = "json/monsters26.json" },
 ]

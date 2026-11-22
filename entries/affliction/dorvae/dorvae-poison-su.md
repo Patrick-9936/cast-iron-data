@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Dorvae Poison (Su)"
 source_ids = ["bestiary-4"]
 parent = "ref/monster/dorvae"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "dorvae|affliction:dorvae-poison-su", path = "json/monsters41.json" },
 ]

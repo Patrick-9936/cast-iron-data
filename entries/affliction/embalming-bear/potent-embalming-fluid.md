@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Potent embalming fluid"
 source_ids = ["tears-at-bitter-manor"]
 parent = "ref/monster/embalming-bear"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "embalming_bear|affliction:potent-embalming-fluid", path = "json/monsters42.json" },
 ]

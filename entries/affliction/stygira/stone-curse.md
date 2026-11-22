@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Stone curse"
 source_ids = ["pathfinder-33-the-varnhold-vanishing"]
 parent = "ref/monster/stygira"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "stygira|affliction:stone-curse", path = "json/monsters38.json" },
 ]

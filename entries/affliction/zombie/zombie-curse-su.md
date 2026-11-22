@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Zombie Curse (Su)"
 source_ids = ["classic-horrors-revisited"]
 parent = "ref/template/zombie"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "zombie|affliction:zombie-curse-su", path = "json/monster_template4.json" },
 ]

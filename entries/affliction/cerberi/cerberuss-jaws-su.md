@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Cerberus's Jaws (Su)"
 source_ids = ["bestiary-3", "pathfinder-28-the-infernal-syndrome"]
 parent = "ref/monster/cerberi"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "cerberi|affliction:cerberuss-jaws-su", path = "json/monsters28.json" },
 ]

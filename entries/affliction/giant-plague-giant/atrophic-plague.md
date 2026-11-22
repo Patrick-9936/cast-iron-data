@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Atrophic Plague"
 source_ids = ["bestiary-6"]
 parent = "ref/monster/giant-plague-giant"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "giant_plague_giant|affliction:atrophic-plague", path = "json/monsters32.json" },
 ]

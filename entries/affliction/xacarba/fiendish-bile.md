@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Fiendish Bile"
 source_ids = ["bestiary-2", "pathfinder-18-descent-into-midnight"]
 parent = "ref/monster/xacarba"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "xacarba|affliction:fiendish-bile", path = "json/monsters41.json" },
 ]

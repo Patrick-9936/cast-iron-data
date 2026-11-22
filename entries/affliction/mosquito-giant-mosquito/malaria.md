@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Malaria"
 source_ids = ["bestiary-2"]
 parent = "ref/monster/mosquito-giant-mosquito"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "mosquito_giant_mosquito|affliction:malaria", path = "json/monsters17.json" },
 ]

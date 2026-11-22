@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Soul Plague"
 source_ids = ["bestiary-6"]
 parent = "ref/monster/horsemen-of-the-apocalypse-apollyon"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "horsemen_of_the_apocalypse_apollyon|affliction:soul-plague", path = "json/monsters_unique2.json" },
 ]

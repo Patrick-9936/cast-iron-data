@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Rokurokubi's Curse (Su)"
 source_ids = ["bestiary-4", "pathfinder-54-the-empty-throne"]
 parent = "ref/monster/rokurokubi"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "rokurokubi|affliction:rokurokubis-curse-su", path = "json/monsters20.json" },
 ]

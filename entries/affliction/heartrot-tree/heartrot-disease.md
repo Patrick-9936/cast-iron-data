@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Heartrot Disease"
 source_ids = ["pathfinder-119-prisoners-of-the-blight"]
 parent = "ref/monster/heartrot-tree"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "heartrot_tree|affliction:heartrot-disease", path = "json/monsters13.json" },
 ]
