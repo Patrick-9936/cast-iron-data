@@ -19,20 +19,8 @@ prerequisites = "Improved Counterspell."
 benefit = "When counterspelling, you can use a spell of the same school that is the same or higher spell level as the target spell."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your innate understanding of magical mechanics allows you to unravel spells with pure magical
-energy._
-
-## Prerequisites {#prerequisites}
-
-_Improved Counterspell._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When counterspelling, you can use a spell of the same school that is the same or higher spell level
-as the target spell.
-:::
+Your innate understanding of magical mechanics allows you to unravel spells with pure magical
+energy.\
+**Prerequisites:** Improved Counterspell.\
+**Benefit:** When counterspelling, you can use a spell of the same school that is the same or higher
+spell level as the target spell.

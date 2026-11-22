@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Ulfen
 
 **Flavor:** Your honor is such a part of you that you can sense it (or its lack) in others.

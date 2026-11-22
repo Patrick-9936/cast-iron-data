@@ -33,8 +33,6 @@ abilities = ["1", "13", "10", "-", "12", "9"]
 
 _The droning and spastic movements of this cloud of hungry mosquitoes promise a painful ordeal._
 
-**Mosquito Swarm**
-
 **Challenge rating:** 3
 
 **Size:** diminutive

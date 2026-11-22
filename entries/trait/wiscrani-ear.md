@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have a keen ear for the movements of thieves and monsters.
 
 **Benefit:** You can always take 10 on [Perception](ref/skill/perception) checks, even when stress

@@ -14,8 +14,6 @@ page = "24"
 kind = "none"
 +++
 
-**The Lantern King**
-
 **Sub:** The Laughing Lie
 
 ### Details

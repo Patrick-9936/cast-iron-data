@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Osirion
 
 **Benefit:** Whenever a caster level check is required to treat an affliction with magic (such as

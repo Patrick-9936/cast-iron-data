@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker)
 
 **Flavor:** Your first transformation was in a public place, observed by loved ones who later

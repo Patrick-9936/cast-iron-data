@@ -32,8 +32,6 @@ abilities = ["9", "19", "-", "14", "16", "17"]
 _This thing resembles a gray, emaciated child, with cobwebs and dust for clothes and a fox skull for
 a head._
 
-**Attic Whisperer**
-
 **Challenge rating:** 4
 
 **aura:** sobs (10 ft.)

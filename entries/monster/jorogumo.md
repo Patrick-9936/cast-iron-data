@@ -31,8 +31,6 @@ abilities = ["22", "19", "22", "15", "17", "24"]
 _Eight spindly spider legs, flocked with coarse black hairs, stretch from the back of this otherwise
 beautiful black-haired woman._
 
-**Jorogumo**
-
 **Challenge rating:** 12
 
 **Initiative:** +4

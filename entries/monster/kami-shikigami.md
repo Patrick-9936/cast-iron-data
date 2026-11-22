@@ -30,8 +30,6 @@ abilities = ["8", "13", "12", "11", "17", "14"]
 
 _This tiny, crudely carved statue of a robed man has glowing runes running across its surface._
 
-**Shikigami**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

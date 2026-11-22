@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** When you, like all other young gnomes, were taught the hodgepodge Gnome language, you

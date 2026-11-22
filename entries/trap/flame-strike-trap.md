@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Flame Strike Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 6

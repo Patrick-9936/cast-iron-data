@@ -31,8 +31,6 @@ abilities = ["22", "25", "22", "21", "18", "21"]
 _This crocodile-jawed creature has two talon-tipped hands and luminescent tentacles extending from
 its back._
 
-**Oshageros**
-
 **Challenge rating:** 13
 
 **blindsense:** 30

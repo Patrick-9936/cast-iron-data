@@ -17,8 +17,6 @@ page = "66"
 kind = "none"
 +++
 
-**Nyarlathotep**
-
 **Sub:** Faceless Sphinx
 
 ### Details

@@ -28,8 +28,6 @@ abilities = ["8", "15", "14", "2", "11", "5"]
 _This small reptile has a snake-like neck and head, a bird-like body with strong legs for running,
 and a whip-like tail._
 
-**Compsognathus**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** hills or mountains
 
 **Flavor:** You were born and raised in rugged badlands or hills, and you've become something of an

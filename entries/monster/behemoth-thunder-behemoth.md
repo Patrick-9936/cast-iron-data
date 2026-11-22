@@ -32,8 +32,6 @@ abilities = ["43", "6", "26", "3", "14", "15"]
 _This enormous beast has rocky, armored plates on its body. Elaborate horns crown its horrific
 head._
 
-**Thunder Behemoth**
-
 **Challenge rating:** 18
 
 **blindsense:** 60

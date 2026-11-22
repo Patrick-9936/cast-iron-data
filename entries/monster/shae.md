@@ -30,8 +30,6 @@ abilities = ["16", "22", "18", "21", "13", "17"]
 _A white porcelain mask and elegant white clothing provide form and contrast to this shadowy woman's
 body._
 
-**Shae**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

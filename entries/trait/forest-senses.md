@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Benefit:** When in any unsettled, uncivilized terrain, you gain a +2 trait bonus on

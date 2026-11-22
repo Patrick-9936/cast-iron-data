@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Vampire; Nosferatu
 
 **Flavor:** Your body is so ancient you fear damaging it with exertion.

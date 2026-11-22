@@ -18,8 +18,6 @@ benefit = "Once per day when you surge, you can expend two uses of mythic power 
 special = "You can take this feat multiple times. Each time you do, you gain an extra use of this feat per day."
 +++
 
-## Maximize Surge (Mythic)
-
 In times of dire need, you can burn your mythic power to ensure success.\
 **Prerequisites:** 6th mythic tier.\
 **Benefit:** Once per day when you surge, you can expend two uses of mythic power to treat your

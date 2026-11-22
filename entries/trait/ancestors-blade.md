@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Shizuru](ref/faith/shizuru)
 
 **Flavor:** You were trained by your family with a weapon passed down from a venerable ancestor.

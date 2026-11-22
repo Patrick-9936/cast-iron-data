@@ -30,8 +30,6 @@ abilities = ["16", "17", "-", "5", "14", "15"]
 _A fleet of miniature ships, each secure in a glass bottle, flies through the air. The ships move as
 one, coordinating their attacks._
 
-**Bottled Armada**
-
 **Challenge rating:** 6
 
 **Type:** construct

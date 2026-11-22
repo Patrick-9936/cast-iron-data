@@ -33,8 +33,6 @@ abilities = ["17", "13", "-", "10", "12", "11"]
 _This hideously malformed, hairless, pustule-covered corpse moves and snarls more like an undead
 hound than an undead man._
 
-**Festrog**
-
 **Challenge rating:** 1
 
 **Initiative:** +1

@@ -14,8 +14,6 @@ page = "47"
 kind = "none"
 +++
 
-**Alchemically Invisible**
-
 **Acquired:** present
 
 **Challenge rating:** +2

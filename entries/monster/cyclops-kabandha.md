@@ -30,8 +30,6 @@ abilities = ["31", "17", "18", "10", "14", "13"]
 
 _This tall giant has no head; instead, its one-eyed face rests in the center of its broad chest._
 
-**Kabandha**
-
 **Challenge rating:** 9
 
 **Type:** humanoid

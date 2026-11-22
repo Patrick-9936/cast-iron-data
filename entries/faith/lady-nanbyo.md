@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Lady Nanbyo**
-
 **Sub:** The Widow of Suffering
 
 ### Details

@@ -31,8 +31,6 @@ abilities = ["14", "21", "18", "15", "16", "25"]
 _This floating creature has long brown fur. Its face features a pair of long tusks and a curious
 elongated trunk for a snout._
 
-**Baku**
-
 **Challenge rating:** 8
 
 **Initiative:** +9

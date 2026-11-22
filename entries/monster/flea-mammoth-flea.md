@@ -31,8 +31,6 @@ abilities = ["13", "17", "13", "-", "11", "6"]
 _This mammoth flea is size of a horse. Its legs dangle awkwardly from its great, swollen body
 armored entirely in disfigured plates._
 
-**Mammoth Flea**
-
 **Challenge rating:** 2
 
 **Initiative:** +3

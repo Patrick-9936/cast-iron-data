@@ -31,8 +31,6 @@ abilities = ["18", "23", "20", "15", "18", "15"]
 _This leafy bush bears flowers of a variety of shapes and colors, one of which resembles a toothy
 mouth at the end of a long stalk._
 
-**Etheroot**
-
 **Challenge rating:** 8
 
 **Initiative:** +10

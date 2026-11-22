@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Folca**
-
 **Sub:** The Gaunt Stranger
 
 ### Details

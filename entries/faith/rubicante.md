@@ -17,8 +17,6 @@ page = "123"
 kind = "none"
 +++
 
-**Rubicante**
-
 **Sub:** He Who Grows Red
 
 ### Details

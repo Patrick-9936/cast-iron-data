@@ -31,8 +31,6 @@ abilities = ["22", "19", "24", "23", "16", "23"]
 _This fiend seems carved from weathered ivory, and runes and symbols of power cover its pale flesh.
 Its eyes glow an eerie yellow, and horns curl from its eerie, mouthless head._
 
-**Vilsteth**
-
 **Challenge rating:** 16
 
 **Alignment:** Chaotic evil

@@ -23,8 +23,6 @@ page = "75"
 kind = "none"
 +++
 
-**Yamasoth**
-
 **Sub:** The Polymorph Plague
 
 **Monster Link** [Yamasoth](ref/monster/qlippoth-lord-yamasoth)

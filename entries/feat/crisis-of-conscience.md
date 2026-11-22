@@ -19,8 +19,6 @@ benefit = "You are an enigma unto those who cleave to notions of morality as gui
 special = "If you've already completed this feat by changing to the opposite moral alignment and have since returned to being morally neutral, you may take this feat a second time. You gain no additional basic benefits, but if you complete this feat's goal a second time by crossing back to your original alignment, you gain additional completion benefits - you gain the second completion benefit, and can apply the first benefit against good and evil creatures."
 +++
 
-## Crisis of Conscience (Story)
-
 Your internal struggle and contradictory actions have left you teetering on a knife's edge between
 good and evil. You must choose which path you will make your own.\
 **Prerequisites:** Lawful neutral, neutral, or chaotic neutral alignment. Your alignment must have

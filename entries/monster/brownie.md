@@ -29,8 +29,6 @@ abilities = ["7", "18", "12", "14", "15", "17"]
 _Knee-high to a human, this large-headed creature has an almost manically friendly look on its
 expressive face._
 
-**Brownie**
-
 **Challenge rating:** 1
 
 **Type:** fey

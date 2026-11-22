@@ -30,8 +30,6 @@ abilities = ["24", "17", "18", "7", "14", "11"]
 _This hideous creature blends features of both bat and ape, with fleshy wings and hind legs ending
 in sharp claws._
 
-**Ahool**
-
 **Challenge rating:** 9
 
 **Initiative:** +3

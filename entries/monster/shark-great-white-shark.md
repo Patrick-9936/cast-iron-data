@@ -33,8 +33,6 @@ abilities = ["25", "14", "19", "1", "16", "4"]
 _This immense silvery beast is a majestic specimen, its gigantic jaws lined with rows of serrated
 teeth._
 
-**Great White Shark**
-
 **Challenge rating:** 4
 
 **Type:** animal

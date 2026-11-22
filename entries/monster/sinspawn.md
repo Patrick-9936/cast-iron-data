@@ -36,8 +36,6 @@ abilities = ["13", "13", "14", "10", "13", "12"]
 _This hairless humanoid lurches on back-bent, dog-like legs, its hideous mouth flanked by tiny arms
 with three-fingered hands._
 
-**Sinspawn**
-
 **Challenge rating:** 2
 
 **Type:** aberration

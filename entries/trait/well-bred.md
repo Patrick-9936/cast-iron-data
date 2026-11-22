@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Hermea
 
 **Flavor:** You are the product of generations of selective breeding, organized by the gold dragon

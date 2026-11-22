@@ -30,8 +30,6 @@ abilities = ["11", "13", "14", "-", "11", "2"]
 _This enormous, horrifically bloated fly has a proboscis shaped like a serrated hook. Its
 many-faceted eyes smolder like hot coals._
 
-**Giant Hook Fly**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

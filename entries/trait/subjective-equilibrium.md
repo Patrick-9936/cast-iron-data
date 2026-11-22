@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You understand that gravity is far from constant when traversing the Great Beyond.
 
 **Benefit:** You gain a +2 trait bonus on Wisdom checks to move on a plane with

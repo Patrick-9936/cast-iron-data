@@ -29,8 +29,6 @@ abilities = ["19", "12", "17", "4", "13", "10"]
 _This winged monster has the body of a lion, though two more heads flank its central feline one - a
 dragon and a horned goat._
 
-**Chimera**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

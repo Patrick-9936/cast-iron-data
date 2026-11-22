@@ -29,8 +29,6 @@ abilities = ["10", "13", "15", "1", "13", "2"]
 
 _A long tail fitted with a barbed stinger trails from this flat, triangular fish's body._
 
-**Stingray**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

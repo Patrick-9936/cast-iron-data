@@ -32,8 +32,6 @@ abilities = ["25", "19", "21", "12", "23", "14"]
 _This creature has the bulbous eyes of a fish, and his mottled green skin glistens with slime where
 it isn't bedecked in gaudy jewelry._
 
-**Oozlosh, Marsh Giant High Priest**
-
 **Challenge rating:** 14
 
 **Male marsh giant [cleric](ref/class/cleric) of [Dagon](ref/faith/dagon) 10**

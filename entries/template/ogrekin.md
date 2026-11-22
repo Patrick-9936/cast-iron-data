@@ -17,8 +17,6 @@ page = "47"
 kind = "none"
 +++
 
-**Ogrekin**
-
 **Challenge rating:** +1 (minimum 2)
 
 **Inherited:** present

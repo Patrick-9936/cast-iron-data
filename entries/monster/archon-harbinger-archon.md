@@ -32,8 +32,6 @@ abilities = ["6", "15", "11", "10", "13", "12"]
 _What appears to be a miniaturized orrery zips through the air, with thin, sharp blades flashing
 periodically from within._
 
-**Harbinger Archon**
-
 **Challenge rating:** 2
 
 **Initiative:** +6

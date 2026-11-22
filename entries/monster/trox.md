@@ -31,8 +31,6 @@ abilities = ["25", "13", "18", "8", "10", "6"]
 _This hulking juggernaut has two massively muscled arms and a group of four smaller ones that jut
 from under its rib cage._
 
-**Trox**
-
 **Challenge rating:** 2
 
 **Trox [barbarian](ref/class/barbarian) 1**

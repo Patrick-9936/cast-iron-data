@@ -17,8 +17,6 @@ page = "129"
 kind = "none"
 +++
 
-**Thuskchoon**
-
 **Sub:** Everglutton
 
 **Monster Link** [Thuskchoon](ref/monster/qlippoth-lord-thuskchoon)

@@ -18,8 +18,6 @@ prerequisites = "You must carry a curse that can be lifted only by a quest or si
 benefit = "You gain spell resistance equal to 5 + your character level, as the curse interferes with all magic. Unlike most spell resistance, it can't voluntarily be lowered, though your own spells and magic items still automatically affect you."
 +++
 
-## Accursed (Story)
-
 Your curse weighs down your soul like a millstone around your neck.\
 **Prerequisites:** You must carry a curse that can be lifted only by a quest or similar great
 undertaking, or have the [Cursed Birth](ref/rule/birth-circumstances-and-more) circumstance

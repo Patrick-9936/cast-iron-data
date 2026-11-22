@@ -30,8 +30,6 @@ abilities = ["21", "16", "14", "2", "13", "11"]
 _This bear-sized predator is long and low-slung. Its soft fur and intelligent expression contrast
 with its glistening fangs._
 
-**Dire Weasel**
-
 **Challenge rating:** 3
 
 **Type:** animal

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You grew up among thieves and scoundrels, and their unusual speech patterns and turns of
 phrase don't faze you in the slightest.
 

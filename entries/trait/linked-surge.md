@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Benefit:** Once per day, you may make a Strength- or Constitution-based ability check or skill
 check using you eidolon's ability score in place of your own. Your eidolon must be summoned and with
 30 feet for you to use this trait.

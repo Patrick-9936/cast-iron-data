@@ -19,22 +19,10 @@ prerequisites = "Scorpion Style."
 benefit = "Whenever you are using Scorpion Style, you add your tier to the number of rounds the target's base land speed is reduced. You can expend one use of mythic power when making your attack to slow your target, as the spell slow, unless it succeeds at a Fortitude save (DC 10 + 1/2 your character level + your Wisdom modifier). The slowing effect supersedes the normal speed penalty of your Scorpion Strike, but lasts for an equal number of rounds."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your unarmed strikes can induce a near-crippling lethargy in your enemies._
-
-## Prerequisites {#prerequisites}
-
-_Scorpion Style._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Whenever you are using Scorpion Style, you add your tier to the number of rounds the target's base
-land speed is reduced. You can expend one use of mythic power when making your attack to slow your
-target, as the spell _[slow](ref/spell/slow)_, unless it succeeds at a Fortitude save (DC 10 + 1/2
-your character level + your Wisdom modifier). The slowing effect supersedes the normal speed penalty
-of your Scorpion Strike, but lasts for an equal number of rounds.
-:::
+Your unarmed strikes can induce a near-crippling lethargy in your enemies.\
+**Prerequisites:** Scorpion Style.\
+**Benefit:** Whenever you are using Scorpion Style, you add your tier to the number of rounds the
+target's base land speed is reduced. You can expend one use of mythic power when making your attack
+to slow your target, as the spell _[slow](ref/spell/slow)_, unless it succeeds at a Fortitude save
+(DC 10 + 1/2 your character level + your Wisdom modifier). The slowing effect supersedes the normal
+speed penalty of your Scorpion Strike, but lasts for an equal number of rounds.

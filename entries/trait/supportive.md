@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You were forced to get by in an isolated enclave, whether surrounded by a community that
 feared and suspected you or in a remote locale far from other people, and you became practiced at
 assisting your friends.

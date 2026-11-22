@@ -18,8 +18,6 @@ benefit = "You add your Dexterity bonus to your base attack bonus and size bonus
 normal = "You add your Strength bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus."
 +++
 
-## Agile Maneuvers (Combat)
-
 You've learned to use your quickness in place of brute force when performing combat maneuvers.\
 **Benefit:** You add your Dexterity bonus to your base attack bonus and size bonus when determining
 your [Combat Maneuver Bonus](ref/rule/combat-maneuvers) instead of your Strength bonus.\

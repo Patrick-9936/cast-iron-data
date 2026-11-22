@@ -31,8 +31,6 @@ abilities = ["22", "19", "21", "24", "28", "21"]
 _A shimmering, colorless mass congeals to form a four-armed humanoid shape with an eye-like pattern
 in its torso._
 
-**Bythos**
-
 **Challenge rating:** 16
 
 **blindsense:** 60

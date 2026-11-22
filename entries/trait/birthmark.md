@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Benefit:** You were born with a strange birthmark that looks very similar to the holy symbol of
 the god you chose to worship later in life. This birthmark can serve you as a divine focus for
 casting spells, and as a physical manifestation of your faith, and it increases your devotion to

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Emberkin
 
 **Benefit:** Sometime during your adolescence, you suffered severe burns in a devastating fire.

@@ -31,8 +31,6 @@ abilities = ["39", "8", "31", "22", "25", "24"]
 
 _This dragon seems to be made of parts from different creatures._
 
-**Ancient Tumult Dragon**
-
 **Challenge rating:** 21
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 31)

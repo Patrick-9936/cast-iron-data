@@ -23,8 +23,6 @@ page = "74"
 kind = "none"
 +++
 
-**Asmodeus**
-
 **Sub:** Prince of Darkness
 
 ### Details

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-reflexes", "ref/feat/disruptive", "ref/fe
 benefit = "Any creature using a teleportation effect to enter or leave a square threatened by you provokes an attack of opportunity, even if casting defensively or using a supernatural ability."
 +++
 
-## Teleport Tactician (Combat)
-
 You are highly alert for enemies using teleportation to approach you or flee from you.\
 **Prerequisites:** [Combat Reflexes](ref/feat/combat-reflexes), [Disruptive](ref/feat/disruptive),
 [Spellbreaker](ref/feat/spellbreaker).\

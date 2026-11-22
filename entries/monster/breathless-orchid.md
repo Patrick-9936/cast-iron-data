@@ -31,8 +31,6 @@ abilities = ["10", "17", "14", "-", "13", "7"]
 _This colorful plant has long, thin leaves and three prominent, bright pink pistils that reach
 elegantly toward the sky._
 
-**Breathless Orchid**
-
 **Challenge rating:** 2
 
 **blindsight:** 30

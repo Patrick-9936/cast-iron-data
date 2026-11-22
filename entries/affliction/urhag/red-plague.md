@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Red Plague"
 source_ids = ["bestiary-6"]
 parent = "ref/monster/urhag"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "urhag|affliction:red-plague", path = "json/monsters24.json" },
 ]

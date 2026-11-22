@@ -32,8 +32,6 @@ abilities = ["14", "15", "-", "4", "10", "12"]
 
 _This innocuous-looking scroll flits about with serpentine grace, baring its razor-sharp edges._
 
-**Guardian Scroll**
-
 **Challenge rating:** 3
 
 **Type:** construct

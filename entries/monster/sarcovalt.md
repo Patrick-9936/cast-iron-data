@@ -32,8 +32,6 @@ abilities = ["12", "17", "16", "10", "13", "7"]
 _This horse-sized housefly has a vulture's neck growing out of its body, capped with a fleshless
 vulture skull._
 
-**Sarcovalt**
-
 **Challenge rating:** 4
 
 **Initiative:** +3

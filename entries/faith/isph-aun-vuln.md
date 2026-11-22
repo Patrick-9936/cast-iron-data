@@ -17,8 +17,6 @@ page = "128"
 kind = "none"
 +++
 
-**Isph-Aun-Vuln**
-
 **Sub:** The Feaster Within
 
 ### Details

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You grew up on the streets of a large city, and as a result you have developed a knack
 for picking pockets and hiding small objects on your person.
 

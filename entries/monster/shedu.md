@@ -29,8 +29,6 @@ abilities = ["24", "13", "20", "19", "22", "19"]
 _This noble creature stands strong and tall with the body of a powerful bull and the head of a
 wise-looking human._
 
-**Shedu**
-
 **Challenge rating:** 9
 
 **Initiative:** +7

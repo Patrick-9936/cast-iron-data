@@ -31,8 +31,6 @@ abilities = ["1", "18", "15", "-", "10", "2"]
 _A mass of wriggling black creatures each the size of a man's finger stirs the stagnant water before
 enveloping its victim._
 
-**Leech Swarm**
-
 **Challenge rating:** 4
 
 **blindsight:** 30

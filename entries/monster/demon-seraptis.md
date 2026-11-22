@@ -33,8 +33,6 @@ abilities = ["26", "23", "28", "16", "19", "21"]
 _This woman's flesh is pale and clammy, as if her body had been drained of blood from the fanged
 slashes on her four arms._
 
-**Seraptis**
-
 **Challenge rating:** 15
 
 **aura:** gaze of despair (30 ft., DC 22), unholy aura (DC 23)

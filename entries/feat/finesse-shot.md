@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/marksmans-utility"]
 benefit = "In addition to the options allowed by the utility shot gunslinger deed, you gain access to the following utility shots."
 +++
 
-## Finesse Shot (Weapon Mastery)
-
 You can use ranged attacks to perform actions that require finesse.\
 **Prerequisites:** [Marksman's Utility](ref/feat/marksmans-utility), base attack bonus +7, weapon
 training class feature with a ranged weapon.\

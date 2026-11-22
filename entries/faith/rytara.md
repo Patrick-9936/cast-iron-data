@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Rytara**
-
 **Sub:** Serpent of the Eastern Eye
 
 ### Details

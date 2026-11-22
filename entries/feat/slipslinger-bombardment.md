@@ -20,8 +20,6 @@ benefit = "You can use a sling to hurl alchemical splash weapons as ammunition w
 special = "This feat can't be used with alchemists' bombs."
 +++
 
-## Slipslinger Bombardment (Combat)
-
 You can sling a rain of splash weapons at your enemies.\
 **Prerequisites:** [Quick Draw](ref/feat/quick-draw),
 [Slipslinger Grenadier](ref/feat/slipslinger-grenadier),

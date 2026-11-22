@@ -29,8 +29,6 @@ abilities = ["24", "9", "18", "3", "8", "3"]
 _This plant's thick trunk is capped by a crown of wide leaves, whipping vines, mushrooms, and a
 ravenous purple maw._
 
-**Tendriculos**
-
 **Challenge rating:** 6
 
 **Size:** huge

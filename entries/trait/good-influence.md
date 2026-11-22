@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Lawbringer
 
 **Flavor:** You possess an innate ability to motivate and inspire others to do the right thing.

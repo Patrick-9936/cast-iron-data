@@ -17,8 +17,6 @@ page = "24"
 kind = "none"
 +++
 
-**Sinashakti**
-
 **Sub:** Immaculate Joy
 
 ### Details

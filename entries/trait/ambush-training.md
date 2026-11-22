@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You've learned that taking an enemy by surprise can end a combat before it begins.
 
 **Benefit:** You gain a +1 trait bonus on initiative checks and a +1 trait bonus on weapon damage

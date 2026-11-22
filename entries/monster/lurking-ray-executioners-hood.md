@@ -29,8 +29,6 @@ special_attacks = "engulfing drop"
 abilities = ["10", "12", "12", "3", "13", "9"]
 +++
 
-**Executioner's Hood**
-
 **Challenge rating:** 2
 
 **Type:** aberration

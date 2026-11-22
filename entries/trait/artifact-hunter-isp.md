@@ -12,8 +12,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mwangi Expanse
 
 **Flavor:** You know the legends of the Mwangi Expanse and the places where great treasures were

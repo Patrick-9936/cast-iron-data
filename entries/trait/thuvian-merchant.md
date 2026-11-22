@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Thuvia
 
 **Flavor:** You have traveled the great circular trade route around Thuvia, following the sale of

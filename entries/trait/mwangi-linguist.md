@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mwangi Expanse
 
 **Flavor:** The Mwangi Expanse is a land of dozens of languages, and you grew up speaking most of

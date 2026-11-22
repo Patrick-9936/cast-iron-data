@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darklands
 
 **Benefit:** Due to the constant intrusion of marsh gases seeping into the tunnels and chambers of

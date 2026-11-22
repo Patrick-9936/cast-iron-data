@@ -30,8 +30,6 @@ abilities = ["14", "12", "17", "2", "14", "7"]
 _Moss and lichen grow from the shaggy back of this boar-like animal. Its curving claws and
 prehensile tail hold it in the trees._
 
-**Mome Rath**
-
 **Challenge rating:** 2
 
 **Type:** animal

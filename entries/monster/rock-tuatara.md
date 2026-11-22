@@ -28,8 +28,6 @@ abilities = ["5", "12", "12", "1", "10", "5"]
 
 _The stony-looking hide of this fat reptile ends in a studded, heavy club of a tail._
 
-**Rock Tuatara**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

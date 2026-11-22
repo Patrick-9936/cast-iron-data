@@ -30,8 +30,6 @@ special_qualities = "favored terrain (desert +2), track +1, wild empathy +1"
 abilities = ["18", "15", "15", "8", "12", "6"]
 +++
 
-**Gnoll Sergeant**
-
 **Challenge rating:** 4
 
 **Gnoll [ranger](ref/class/ranger) 3**

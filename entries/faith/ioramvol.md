@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Ioramvol**
-
 **Sub:** With the Mouth Full of Boulders
 
 ### Details

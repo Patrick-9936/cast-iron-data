@@ -19,8 +19,6 @@ benefit = "You gain a small amount of panache and the ability to perform a singl
 special = "If you gain levels in a class that has the panache class feature, you can immediately trade this feat for the Extra Panache feat."
 +++
 
-## Amateur Swashbuckler (Combat)
-
 Though not a swashbuckler, you have and can use panache.\
 **Prerequisites:** No levels in a class that has the panache class feature.\
 **Benefit:** You gain a small amount of panache and the ability to perform a single 1st-level

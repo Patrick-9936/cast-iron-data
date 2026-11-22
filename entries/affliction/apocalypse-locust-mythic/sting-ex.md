@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Sting (Ex)"
 source_ids = ["bestiary-4"]
 parent = "ref/monster/apocalypse-locust-mythic"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "apocalypse_locust_mythic|affliction:sting-ex", path = "json/monsters_mythic.json" },
 ]

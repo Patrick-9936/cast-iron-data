@@ -34,8 +34,6 @@ abilities = ["25", "8", "20", "7", "12", "9"]
 _This hairy humanoid's misshapen head appears too large for its body and it wields a lumpy,
 primitive club._
 
-**Ved**
-
 **Challenge rating:** 5
 
 **Type:** humanoid

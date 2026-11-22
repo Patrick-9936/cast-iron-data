@@ -20,8 +20,6 @@ page = "20"
 kind = "none"
 +++
 
-**Mazmezz**
-
 **Sub:** The Creeping Queen
 
 ### Details

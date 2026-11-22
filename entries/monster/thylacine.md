@@ -33,8 +33,6 @@ abilities = ["12", "15", "16", "2", "13", "7"]
 _This cat-like creature has a striped pelt and whiskers that jut from a long muzzle filled with
 sharp teeth._
 
-**Thylacine**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

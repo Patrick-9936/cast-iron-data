@@ -32,8 +32,6 @@ abilities = ["14", "21", "20", "11", "13", "18"]
 _This finely robed and nimble fiend has six colorful vipers in place of arms, and a long, forked
 tongue in its fanged mouth._
 
-**Marai**
-
 **Challenge rating:** 8
 
 **Initiative:** +5

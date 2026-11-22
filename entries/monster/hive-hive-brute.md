@@ -32,8 +32,6 @@ abilities = ["24", "15", "16", "6", "13", "3"]
 _This hulking, four-legged beast has thick, chitinous plates covering its body. Steaming acid drips
 from its snapping maw._
 
-**Hive Brute**
-
 **Challenge rating:** 8
 
 **Type:** aberration

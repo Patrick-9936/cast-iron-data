@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Maeha**
-
 **Sub:** The Father of False Words
 
 ### Details

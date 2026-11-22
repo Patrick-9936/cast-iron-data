@@ -28,8 +28,6 @@ abilities = ["14", "21", "18", "16", "15", "17"]
 
 _A sharp-featured humanoid head crowns the powerful, sinuous body of this snake-like monstrosity._
 
-**Dark Naga**
-
 **Challenge rating:** 8
 
 **Type:** aberration

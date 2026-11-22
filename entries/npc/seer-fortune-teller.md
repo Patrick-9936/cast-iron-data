@@ -15,8 +15,6 @@ kind = "creature"
 cr = "5"
 +++
 
-**Seer (Fortune Teller)**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

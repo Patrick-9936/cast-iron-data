@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Region:** Ostenso
 
 **Flavor:** You have a knack for hiding goods on your person.

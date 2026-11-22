@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Oread](ref/race/oread)
 
 **Flavor:** You are an unmoving rock for those who see you as an authority figure.

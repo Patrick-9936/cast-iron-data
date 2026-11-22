@@ -30,8 +30,6 @@ abilities = ["16", "14", "-", "10", "13", "17"]
 _This corpse of a soldier is twisted and ghoulish, its old-fashioned clothes are caked in mud, and
 its is expression lost and forlorn._
 
-**Abandoned One**
-
 **Challenge rating:** 4
 
 **blindsense:** 60

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You spent much of your youth helping the clergy of your chosen faith perform their
 duties, and learned from them respect for authority.
 

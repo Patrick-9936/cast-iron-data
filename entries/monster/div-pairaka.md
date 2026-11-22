@@ -33,8 +33,6 @@ abilities = ["17", "20", "16", "14", "18", "24"]
 _Blue-skinned and draped in revealing attire, this humanoid fiend has a sultry gaze suggesting all
 manner of debased pleasures._
 
-**Pairaka**
-
 **Challenge rating:** 7
 
 **Initiative:** +9

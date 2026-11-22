@@ -14,8 +14,6 @@ page = "286"
 kind = "none"
 +++
 
-**Zombie Lord**
-
 **Acquired:** present
 
 **Challenge rating:** +1

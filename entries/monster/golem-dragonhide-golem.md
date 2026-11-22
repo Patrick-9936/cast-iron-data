@@ -31,8 +31,6 @@ abilities = ["34", "14", "-", "-", "11", "1"]
 _This massive, hunched monstrosity has a hide that appears to be a mix of reptilian scales of
 various colors._
 
-**Dragonhide Golem**
-
 **Challenge rating:** 16
 
 **Type:** construct

@@ -14,8 +14,6 @@ page = "71"
 kind = "none"
 +++
 
-**Alebrije**
-
 **Acquired:** present
 
 **Challenge rating:** +2

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have learned how to work a crowd in Magnimar's mock-gladiator fights.
 
 **Benefit:** Choose one weapon. You take no penalty on attack rolls when dealing nonlethal damage

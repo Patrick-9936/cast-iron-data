@@ -34,8 +34,6 @@ abilities = ["18", "15", "14", "5", "14", "11"]
 
 _This lanky ebon humanoid has bat-like wings, horns, and a long prehensile tail, but lacks a face._
 
-**Nightgaunt**
-
 **Challenge rating:** 4
 
 **blindsight:** 60

@@ -30,8 +30,6 @@ special_qualities = "slow and steady, stability"
 abilities = ["14", "15", "14", "10", "15", "4"]
 +++
 
-**Duergar Anvil**
-
 **Challenge rating:** 1
 
 **Duergar [monk](ref/class/monk) 2**

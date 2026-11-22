@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Oregent
 
 **Flavor:** Your instinct to survive easily overpowers your intellect, and you consider this a more

@@ -17,8 +17,6 @@ page = "30"
 kind = "none"
 +++
 
-**Zagresh**
-
 **Sub:** The Destroyer
 
 ### Details

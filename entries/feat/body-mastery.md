@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/body-control", "ref/feat/meditation-master"]
 benefit = "For 24 hours after you meditate, you gain damage reduction 2/-."
 +++
 
-## Body Mastery (Meditation)
-
 Meditation allows you to harden your body against physical attacks.\
 **Prerequisites:** Wis 19, [Body Control](ref/feat/body-control),
 [Meditation Master](ref/feat/meditation-master), character level 15th.\

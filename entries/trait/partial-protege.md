@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You are adept at disguising your true talents.
 
 **Benefit:** You gain a +1 trait bonus on [Bluff](ref/skill/bluff) checks and on

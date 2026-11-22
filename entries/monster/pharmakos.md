@@ -32,8 +32,6 @@ abilities = ["43", "8", "30", "5", "7", "6"]
 _The body of this monstrous creature is a foul mass of sore-covered flesh, a blubbery worm with the
 upper torso of a deformed man._
 
-**Pharmakos**
-
 **Challenge rating:** 15
 
 **Type:** aberration

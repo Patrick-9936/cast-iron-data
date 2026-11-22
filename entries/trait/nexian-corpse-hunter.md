@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nex
 
 **Flavor:** After years spent fighting the undead legions of Geb, you have developed a knack for

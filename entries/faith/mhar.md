@@ -14,8 +14,6 @@ page = "68"
 kind = "none"
 +++
 
-**Mhar**
-
 **Sub:** The World Thunder
 
 **Monster Link** [Mhar](ref/monster/great-old-one-mhar)

@@ -33,8 +33,6 @@ abilities = ["26", "17", "21", "13", "12", "10"]
 _Loose robes conceal the sand-etched features of this lanky giant. In each hand he grips a scimitar
 nearly the length of a human._
 
-**Desert Giant**
-
 **Challenge rating:** 9
 
 **Type:** humanoid

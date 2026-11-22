@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Ifrit](ref/race/ifrit)
 
 **Flavor:** The constant threat of slavers in your youth taught you to attack first and ask

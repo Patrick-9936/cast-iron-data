@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You maintain a friendship with one or more figures of authority. You have minor sway
 with one of these figures if your game uses [individual influence](ref/rule/individual-influence).
 

@@ -34,8 +34,6 @@ _This robot has the general appearance of a skeletal preying mantis fashioned en
 metal. An array of limbs fitted with laser scalpels, syringes, and other surgical devices spring
 from its body._
 
-**Surgeon Robot**
-
 **Challenge rating:** 14
 
 **Type:** construct

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Goka
 
 **Flavor:** Your exposure to the many peoples intersecting in Goka and the tongues spoken there has

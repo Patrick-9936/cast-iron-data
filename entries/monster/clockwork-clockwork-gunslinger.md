@@ -33,8 +33,6 @@ abilities = ["20", "16", "-", "-", "11", "1"]
 _One of this slim construct's arms ends in a whirling clockwork pistol, and a crystalline hourglass
 fits snugly between its pectoral armor plates._
 
-**Clockwork Gunslinger**
-
 **Challenge rating:** 7
 
 **Type:** construct

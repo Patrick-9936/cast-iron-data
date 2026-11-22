@@ -17,8 +17,6 @@ page = "123"
 kind = "none"
 +++
 
-**Scarmiglione**
-
 **Sub:** The Pale Promise
 
 ### Details

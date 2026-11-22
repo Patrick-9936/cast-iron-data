@@ -32,8 +32,6 @@ abilities = ["13", "16", "14", "5", "12", "13"]
 _This brightly colored, long-necked amphibian has six legs, a fanged snout, and numerous finlets
 running down its spine._
 
-**Voonith**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

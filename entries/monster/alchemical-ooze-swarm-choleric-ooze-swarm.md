@@ -27,8 +27,6 @@ special_attacks = "corrosiove slime~viscous (DC 15)"
 abilities = ["16", "1", "19", "-", "1", "1"]
 +++
 
-**Choleric Ooze Swarm**
-
 **Challenge rating:** 2
 
 **blindsight:** 60

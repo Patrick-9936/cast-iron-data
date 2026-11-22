@@ -25,8 +25,6 @@ melee = "2 claws -1 (1d2-3)"
 abilities = ["5", "7", "12", "2", "12", "7"]
 +++
 
-**Sloth**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

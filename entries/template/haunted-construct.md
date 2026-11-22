@@ -14,8 +14,6 @@ page = "48"
 kind = "none"
 +++
 
-**Haunted Construct**
-
 **Acquired:** present
 
 **Challenge rating:** +1

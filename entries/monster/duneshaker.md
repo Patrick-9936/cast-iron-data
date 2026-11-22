@@ -30,8 +30,6 @@ abilities = ["48", "27", "31", "-", "26", "3"]
 _This enormous spider-like creature has a tremendous pair of jagged fangs as menacing as its
 oversized claws._
 
-**Duneshaker**
-
 **Challenge rating:** 18
 
 **Size:** colossal

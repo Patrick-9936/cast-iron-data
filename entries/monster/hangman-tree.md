@@ -30,8 +30,6 @@ abilities = ["25", "8", "23", "7", "12", "10"]
 _This sinister tree looms above a field strewn with bones. Numerous leafy vines, their tips looped
 into nooses, hang from its branches._
 
-**Hangman Tree**
-
 **Challenge rating:** 7
 
 **blindsight:** 60

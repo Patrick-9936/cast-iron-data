@@ -32,8 +32,6 @@ abilities = ["2", "15", "14", "-", "10", "2"]
 _Bright green and coated in an opaque yellow slime, this squirming mass of segmented worms leaves a
 trail of hissing melted stone slag in its wake._
 
-**Bore Worm Swarm**
-
 **Challenge rating:** 5
 
 **Size:** fine

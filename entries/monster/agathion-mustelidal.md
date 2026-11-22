@@ -31,8 +31,6 @@ abilities = ["24", "18", "29", "14", "15", "15"]
 _The head of this muscular, furry humanoid figure is that of an angry badger; it looks ready to
 strike at a moment's notice._
 
-**Mustelidal**
-
 **Challenge rating:** 16
 
 **aura:** protective aura (20 ft.)

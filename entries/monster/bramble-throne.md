@@ -30,8 +30,6 @@ abilities = ["33", "22", "25", "4", "18", "19"]
 _The low branches of this stout tree form the shape of a throne. Gold-trimmed leaves and thick vines
 grow on the branches._
 
-**Bramble Throne**
-
 **Challenge rating:** 16
 
 **aura:** supplication (30 ft., DC 24)

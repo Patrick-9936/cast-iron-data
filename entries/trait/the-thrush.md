@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 18 Kuthona and 20 Abadius
 
 **Flavor:** Like the curious songbirds that welcome weary travelers, your voice rings with sweet

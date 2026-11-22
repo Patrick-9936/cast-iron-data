@@ -31,8 +31,6 @@ abilities = ["18", "15", "16", "13", "14", "17"]
 _Covered with mossy growths and creeping vines, this towering creature glides effortlessly across
 the ground. A hood of damp moss and crusty bark conceals the monster's face._
 
-**Melfesh Monster**
-
 **Challenge rating:** 6
 
 **Initiative:** +6

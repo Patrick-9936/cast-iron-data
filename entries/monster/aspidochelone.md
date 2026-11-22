@@ -34,8 +34,6 @@ to be a small, rocky island reveals itself to be a creature of titanic proportio
 tail lifts ominously from the water. With a thunderous crash, it slams down, sending the island
 plunging beneath the waves._
 
-**Aspidochelone**
-
 **Challenge rating:** 17
 
 **Size:** colossal

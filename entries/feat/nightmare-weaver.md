@@ -20,8 +20,6 @@ benefit = "By spending a full-round action to cast *darkness,* you can also make
 special = "This feat counts as Dazzling Display for purposes of qualifying for Deadly Stroke and Shatter Defenses."
 +++
 
-## Nightmare Weaver (Combat)
-
 You can use your ability to create magical darkness to terrorize enemies.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Nightmare Fist](ref/feat/nightmare-fist), Intimidate 2 ranks, ability to cast

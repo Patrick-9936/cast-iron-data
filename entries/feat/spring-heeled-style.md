@@ -24,8 +24,6 @@ benefit = "If using this style during any round in which you take a move action 
 special = "A character with the armor training class feature can use Spring-Heeled Style while wearing any type of armor with which she is proficient."
 +++
 
-## Spring-Heeled Style (Combat, Style)
-
 You cunningly dart across the battlefield from foe to foe, taking advantage of your armor's
 flexibility to duck blows.\
 **Prerequisites:** Dex 13, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility),

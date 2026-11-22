@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Larger enemies have a hard time striking you.
 
 **Benefit:** You gain a +1 dodge bonus to AC against enemies that are both your

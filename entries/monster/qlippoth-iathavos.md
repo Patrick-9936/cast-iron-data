@@ -30,8 +30,6 @@ abilities = ["40", "8", "31", "29", "30", "27"]
 _This immense creature has four bat-like wings and a spherical body. Red eyes peer from all sides,
 and two huge claws dangle below._
 
-**Iathavos**
-
 **Challenge rating:** 20
 
 **aura:** [stench](ref/umr/stench) (DC 32, 10 rounds), cloak of chaos (DC 26)

@@ -20,8 +20,6 @@ page = "15"
 kind = "none"
 +++
 
-**Flauros**
-
 **Sub:** The Burning Maw
 
 ### Details

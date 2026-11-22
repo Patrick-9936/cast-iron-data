@@ -21,8 +21,6 @@ prerequisites = "Fey creature type or Fey Obedience (Count Ranalc), character le
 prerequisite_feats = ["ref/feat/fey-obedience"]
 +++
 
-## Knight of the Twisted Word (Gathlain Court Title)
-
 You've so impressed [the Traitor](ref/faith/count-ranalc) that he's given you a title in his
 court-in-exile - possibly to keep an eye on you.\
 **Prerequisites:** Fey creature type or [Fey Obedience](ref/feat/fey-obedience) (Count Ranalc),

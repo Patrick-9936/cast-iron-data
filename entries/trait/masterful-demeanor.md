@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Chelaxian
 
 **Flavor:** As a proud Chelaxian, you are confident that members of other, inferior races will obey

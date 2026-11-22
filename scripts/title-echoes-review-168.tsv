@@ -1,0 +1,187 @@
+pass	entry_id	file	reason
+creature	ref/monster/aether-elemental	entries/monster/aether-elemental.md	the bold paragraph `Small Aether Elemental` differs from the title `Aether Elemental`
+creature	ref/monster/air-elemental	entries/monster/air-elemental.md	the bold paragraph `Small Air Elemental` differs from the title `Air Elemental`
+creature	ref/monster/anunnaki-mythic	entries/monster/anunnaki-mythic.md	the bold paragraph `Mythic Anunnaki` differs from the title `Anunnaki`
+creature	ref/monster/apkallu-mythic	entries/monster/apkallu-mythic.md	the bold paragraph `Mythic Apkallu` differs from the title `Apkallu`
+creature	ref/monster/apocalypse-locust-mythic	entries/monster/apocalypse-locust-mythic.md	the bold paragraph `Mythic Apocalypse Locust` differs from the title `Apocalypse Locust`
+creature	ref/monster/argus-mythic	entries/monster/argus-mythic.md	the bold paragraph `Mythic Argus` differs from the title `Argus`
+creature	ref/monster/benaioh	entries/monster/benaioh.md	the bold paragraph `Benaioh (Clay Vessel)` differs from the title `Benaioh`
+creature	ref/monster/champion-of-the-gilded-host-mythic	entries/monster/champion-of-the-gilded-host-mythic.md	the bold paragraph `Mythic Champion of the Gilded Host` differs from the title `Champion of the Gilded Host`
+creature	ref/monster/chaneque-mythic	entries/monster/chaneque-mythic.md	the bold paragraph `Mythic Chaneque` differs from the title `Chaneque`
+creature	ref/monster/colossus-flesh-colossus-mythic	entries/monster/colossus-flesh-colossus-mythic.md	the bold paragraph `Mythic Flesh Colossus` differs from the title `Flesh Colossus`
+creature	ref/monster/colossus-iron-colossus-mythic	entries/monster/colossus-iron-colossus-mythic.md	the bold paragraph `Mythic Iron Colossus` differs from the title `Iron Colossus`
+creature	ref/monster/colossus-sphinx-colossus-mythic	entries/monster/colossus-sphinx-colossus-mythic.md	the bold paragraph `Mythic Sphinx Colossus` differs from the title `Sphinx Colossus`
+creature	ref/monster/colossus-stone-colossus-mythic	entries/monster/colossus-stone-colossus-mythic.md	the bold paragraph `Mythic Stone Colossus` differs from the title `Stone Colossus`
+creature	ref/monster/colossus-wood-colossus-mythic	entries/monster/colossus-wood-colossus-mythic.md	the bold paragraph `Mythic Wood Colossus` differs from the title `Wood Colossus`
+creature	ref/monster/devastator-mythic	entries/monster/devastator-mythic.md	the bold paragraph `Mythic Devastator` differs from the title `Devastator`
+creature	ref/monster/devil-host-devil-greater-magaav	entries/monster/devil-host-devil-greater-magaav.md	the bold paragraph `Host Devil, Greater (Magaav)` differs from the title `Greater Host Devil (Magaav)`
+creature	ref/monster/devil-host-devil-lesser-gaav	entries/monster/devil-host-devil-lesser-gaav.md	the bold paragraph `Host Devil, Lesser (Gaav)` differs from the title `Lesser Host Devil (Gaav)`
+creature	ref/monster/devil-possession-devil-greater-gidim	entries/monster/devil-possession-devil-greater-gidim.md	the bold paragraph `Possession Devil, Greater (Gidim)` differs from the title `Greater Possession Devil (Gidim)`
+creature	ref/monster/devil-possession-devil-lesser-gidim	entries/monster/devil-possession-devil-lesser-gidim.md	the bold paragraph `Possession Devil, Lesser (Gidim)` differs from the title `Lesser Possession Devil (Gidim)`
+creature	ref/monster/drakainia	entries/monster/drakainia.md	the bold paragraph `Mythic Drakainia` differs from the title `Drakainia`
+creature	ref/monster/earth-elemental	entries/monster/earth-elemental.md	the bold paragraph `Small Earth Elemental` differs from the title `Earth Elemental`
+creature	ref/monster/elohim-mythic	entries/monster/elohim-mythic.md	the bold paragraph `Mythic Elohim` differs from the title `Elohim`
+creature	ref/monster/fire-elemental	entries/monster/fire-elemental.md	the bold paragraph `Small Fire Elemental` differs from the title `Fire Elemental`
+creature	ref/monster/glaistig-mythic	entries/monster/glaistig-mythic.md	the bold paragraph `Mythic Glaistig` differs from the title `Glaistig`
+creature	ref/monster/golem-flesh-golem-mythic	entries/monster/golem-flesh-golem-mythic.md	the bold paragraph `Mythic Flesh Golem` differs from the title `Flesh Golem`
+creature	ref/monster/graeae-mythic	entries/monster/graeae-mythic.md	the bold paragraph `Mythic Graeae` differs from the title `Graeae`
+creature	ref/monster/grendel-mythic	entries/monster/grendel-mythic.md	the bold paragraph `Mythic Grendel` differs from the title `Grendel`
+creature	ref/monster/grogrisant-mythic	entries/monster/grogrisant-mythic.md	the bold paragraph `Mythic Grogrisant` differs from the title `Grogrisant`
+creature	ref/monster/guardian-dragon-mythic	entries/monster/guardian-dragon-mythic.md	the bold paragraph `Mythic Guardian Dragon` differs from the title `Guardian Dragon`
+creature	ref/monster/ice-elemental	entries/monster/ice-elemental.md	the bold paragraph `Small Ice Elemental` differs from the title `Ice Elemental`
+creature	ref/monster/idol-bone	entries/monster/idol-bone.md	the bold paragraph `Bone` differs from the title `Bone Idol`
+creature	ref/monster/idol-jade	entries/monster/idol-jade.md	the bold paragraph `Jade` differs from the title `Jade Idol`
+creature	ref/monster/idol-stone	entries/monster/idol-stone.md	the bold paragraph `Stone` differs from the title `Stone Idol`
+creature	ref/monster/idol-wood	entries/monster/idol-wood.md	the bold paragraph `Wood` differs from the title `Wood Idol`
+creature	ref/monster/irminsul-mythic	entries/monster/irminsul-mythic.md	the bold paragraph `Mythic Irminsul` differs from the title `Irminsul`
+creature	ref/monster/julunggali-mythic	entries/monster/julunggali-mythic.md	the bold paragraph `Mythic Julunggali` differs from the title `Julunggali`
+creature	ref/monster/leanan-sidhe-mythic	entries/monster/leanan-sidhe-mythic.md	the bold paragraph `Mythic Leanan Sidhe` differs from the title `Leanan Sidhe`
+creature	ref/monster/lightning-elemental	entries/monster/lightning-elemental.md	the bold paragraph `Small Lightning Elemental` differs from the title `Lightning Elemental`
+creature	ref/monster/magma-elemental	entries/monster/magma-elemental.md	the bold paragraph `Small Magma Elemental` differs from the title `Magma Elemental`
+creature	ref/monster/manasaputra-solar-pitri-agnishvatta-mythic	entries/monster/manasaputra-solar-pitri-agnishvatta-mythic.md	the bold paragraph `Mythic Solar Pitri (Agnishvatta)` differs from the title `Manasaputra, Solar Pitri (Agnishvatta)`
+creature	ref/monster/manasaputra-twilight-pitri-barhisad	entries/monster/manasaputra-twilight-pitri-barhisad.md	the bold paragraph `Twilight Pitri (Barhisad)` differs from the title `Twilight Pitri (Barhisad, Manasaputra)`
+creature	ref/monster/mud-elemental	entries/monster/mud-elemental.md	the bold paragraph `Small Mud Elemental` differs from the title `Mud Elemental`
+creature	ref/monster/myrmecoleon-mythic	entries/monster/myrmecoleon-mythic.md	the bold paragraph `Mythic Myrmecoleon` differs from the title `Myrmecoleon`
+creature	ref/monster/ophiotaurus-mythic	entries/monster/ophiotaurus-mythic.md	the bold paragraph `Mythic Ophiotaurus` differs from the title `Ophiotaurus`
+creature	ref/monster/plague-swarm-bat-plague-swarm-mythic	entries/monster/plague-swarm-bat-plague-swarm-mythic.md	the bold paragraph `Mythic Bat Plague Swarm` differs from the title `Bat Plague Swarm (Plague Swarm)`
+creature	ref/monster/plague-swarm-locust-plague-swarm-mythic	entries/monster/plague-swarm-locust-plague-swarm-mythic.md	the bold paragraph `Mythic Locust Plague Swarm` differs from the title `Locust Plague Swarm (Plague Swarm)`
+creature	ref/monster/plague-swarm-rat-plague-swarm-mythic	entries/monster/plague-swarm-rat-plague-swarm-mythic.md	the bold paragraph `Mythic Rat Plague Swarm` differs from the title `Rat Plague Swarm (Plague Swarm)`
+creature	ref/monster/poppet-poppet-small	entries/monster/poppet-poppet-small.md	the bold paragraph `Poppet, Small` differs from the title `Small Poppet`
+creature	ref/monster/poppet-poppet-tiny	entries/monster/poppet-poppet-tiny.md	the bold paragraph `Poppet, Tiny` differs from the title `Tiny Poppet`
+creature	ref/monster/portunus-mythic	entries/monster/portunus-mythic.md	the bold paragraph `Mythic Portunus` differs from the title `Portunus`
+creature	ref/monster/shen-mythic	entries/monster/shen-mythic.md	the bold paragraph `Mythic Shen` differs from the title `Shen`
+creature	ref/monster/titan-danava-mythic	entries/monster/titan-danava-mythic.md	the bold paragraph `Mythic Danava` differs from the title `Danava (Titan)`
+creature	ref/monster/titan-fomorian-titan-mythic	entries/monster/titan-fomorian-titan-mythic.md	the bold paragraph `Mythic Fomorian Titan` differs from the title `Fomorian Titan (Titan)`
+creature	ref/monster/tyrant-jelly-mythic	entries/monster/tyrant-jelly-mythic.md	the bold paragraph `Mythic Tyrant Jelly` differs from the title `Tyrant Jelly`
+creature	ref/monster/udaeus-mythic	entries/monster/udaeus-mythic.md	the bold paragraph `Mythic Udaeus` differs from the title `Udaeus`
+creature	ref/monster/vegepygmy-thorny	entries/monster/vegepygmy-thorny.md	the bold paragraph `Thorny Vegepygmie` differs from the title `Thorny Vegepygmy`
+creature	ref/monster/water-elemental	entries/monster/water-elemental.md	the bold paragraph `Small Water Elemental` differs from the title `Water Elemental`
+creature	ref/monster/xiomorn-vault-builder-mythic	entries/monster/xiomorn-vault-builder-mythic.md	the bold paragraph `Mythic Vault Builder` differs from the title `Vault Builder (Xiomorn)`
+misc-rule	ref/misc/acolyte	entries/misc/acolyte.md	the bold paragraph `Acolyte` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Magic +4`
+misc-rule	ref/misc/alchemy-lab	entries/misc/alchemy-lab.md	the bold paragraph `Alchemy Lab` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Magic +10`
+misc-rule	ref/misc/altar	entries/misc/altar.md	the bold paragraph `Altar` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** Influence +3`
+misc-rule	ref/misc/animal-pen	entries/misc/animal-pen.md	the bold paragraph `Animal Pen` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Labor +8`
+misc-rule	ref/misc/apprentice	entries/misc/apprentice.md	the bold paragraph `Apprentice` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Magic +4`
+misc-rule	ref/misc/archers	entries/misc/archers.md	the bold paragraph `Archers` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Labor +6`
+misc-rule	ref/misc/armory	entries/misc/armory.md	the bold paragraph `Armory` equals the title; echo, or label of the first subsection? the next block starts `**Benefit:** Provides for 1 Bunks or Guard Post, hastens don...`
+misc-rule	ref/misc/artisans-workshop	entries/misc/artisans-workshop.md	the bold paragraph `Artisan's Workshop` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Influence +10`
+misc-rule	ref/misc/auditorium	entries/misc/auditorium.md	the bold paragraph `Auditorium` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +15`
+misc-rule	ref/misc/ballroom	entries/misc/ballroom.md	the bold paragraph `Ballroom` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +10`
+misc-rule	ref/misc/bar	entries/misc/bar.md	the bold paragraph `Bar` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +10`
+misc-rule	ref/misc/bath	entries/misc/bath.md	the bold paragraph `Bath` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +3`
+misc-rule	ref/misc/battle-ring	entries/misc/battle-ring.md	the bold paragraph `Battle Ring` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +15`
+misc-rule	ref/misc/bedroom	entries/misc/bedroom.md	the bold paragraph `Bedroom` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +3`
+misc-rule	ref/misc/bell-tower	entries/misc/bell-tower.md	the bold paragraph `Bell Tower` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** Capital +1 (of a type the building already gen...`
+misc-rule	ref/misc/book-repository	entries/misc/book-repository.md	the bold paragraph `Book Repository` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +8`
+misc-rule	ref/misc/brewery	entries/misc/brewery.md	the bold paragraph `Brewery` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +10`
+misc-rule	ref/misc/bunks	entries/misc/bunks.md	the bold paragraph `Bunks` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Labor +8`
+misc-rule	ref/misc/bureaucrats	entries/misc/bureaucrats.md	the bold paragraph `Bureaucrats` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +4`
+misc-rule	ref/misc/burial-ground	entries/misc/burial-ground.md	the bold paragraph `Burial Ground` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +4`
+misc-rule	ref/misc/cavalry-archers	entries/misc/cavalry-archers.md	the bold paragraph `Cavalry Archers` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Labor +8`
+misc-rule	ref/misc/cell	entries/misc/cell.md	the bold paragraph `Cell` equals the title; echo, or label of the first subsection? the next block starts `**Create:** 5 Goods, 4 Labor (180 gp)`
+misc-rule	ref/misc/ceremonial-room	entries/misc/ceremonial-room.md	the bold paragraph `Ceremonial Room` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** Capital +10`
+misc-rule	ref/misc/classroom	entries/misc/classroom.md	the bold paragraph `Classroom` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** Capital +8`
+misc-rule	ref/misc/clockwork-shop	entries/misc/clockwork-shop.md	the bold paragraph `Clockwork Shop` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Labor +10`
+misc-rule	ref/misc/common-room	entries/misc/common-room.md	the bold paragraph `Common Room` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +7`
+misc-rule	ref/misc/confessional	entries/misc/confessional.md	the bold paragraph `Confessional` equals the title; echo, or label of the first subsection? the next block starts `**Benefit:** Bonus on Stealth checks`
+misc-rule	ref/misc/courtyard	entries/misc/courtyard.md	the bold paragraph `Courtyard` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** Capital +5 (of a type the building already gen...`
+misc-rule	ref/misc/craftspeople	entries/misc/craftspeople.md	the bold paragraph `Craftspeople` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Labor +4`
+misc-rule	ref/misc/crypt	entries/misc/crypt.md	the bold paragraph `Crypt` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Magic +5`
+misc-rule	ref/misc/cutpurses	entries/misc/cutpurses.md	the bold paragraph `Cutpurses` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Labor +3`
+misc-rule	ref/misc/defensive-wall	entries/misc/defensive-wall.md	the bold paragraph `Defensive Wall` equals the title; echo, or label of the first subsection? the next block starts `**Create:** 5 Goods, 2 Influence, 5 Labor (260 gp)`
+misc-rule	ref/misc/dock	entries/misc/dock.md	the bold paragraph `Dock` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, Influence, or Labor +12`
+misc-rule	ref/misc/dojo	entries/misc/dojo.md	the bold paragraph `Dojo` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Labor +8`
+misc-rule	ref/misc/drawbridge	entries/misc/drawbridge.md	the bold paragraph `Drawbridge` equals the title; echo, or label of the first subsection? the next block starts `**Create:** 8 Goods, 2 Influence, 5 Labor (320 gp)`
+misc-rule	ref/misc/drivers	entries/misc/drivers.md	the bold paragraph `Drivers` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Labor +2`
+misc-rule	ref/misc/elite-archers	entries/misc/elite-archers.md	the bold paragraph `Elite Archers` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Labor +7`
+misc-rule	ref/misc/elite-guards	entries/misc/elite-guards.md	the bold paragraph `Elite Guards` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Labor +4`
+misc-rule	ref/misc/elite-soldiers	entries/misc/elite-soldiers.md	the bold paragraph `Elite Soldiers` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Labor +6`
+misc-rule	ref/misc/escape-route	entries/misc/escape-route.md	the bold paragraph `Escape Route` equals the title; echo, or label of the first subsection? the next block starts `**Create:** 9 Goods, 9 Labor (360 gp)`
+misc-rule	ref/misc/false-front	entries/misc/false-front.md	the bold paragraph `False Front` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +2`
+misc-rule	ref/misc/farmland	entries/misc/farmland.md	the bold paragraph `Farmland` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +10`
+misc-rule	ref/misc/forge	entries/misc/forge.md	the bold paragraph `Forge` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +10`
+misc-rule	ref/misc/game-room	entries/misc/game-room.md	the bold paragraph `Game Room` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp +10 (see below)`
+misc-rule	ref/misc/garden	entries/misc/garden.md	the bold paragraph `Garden` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +8`
+misc-rule	ref/misc/gatehouse	entries/misc/gatehouse.md	the bold paragraph `Gatehouse` equals the title; echo, or label of the first subsection? the next block starts `**Benefit:** Defenders get bonus on initiative and Perceptio...`
+misc-rule	ref/misc/gauntlet	entries/misc/gauntlet.md	the bold paragraph `Gauntlet` equals the title; echo, or label of the first subsection? the next block starts `**Benefit:** Defenders get improved cover`
+misc-rule	ref/misc/greenhouse	entries/misc/greenhouse.md	the bold paragraph `Greenhouse` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Influence +12`
+misc-rule	ref/misc/guard-post	entries/misc/guard-post.md	the bold paragraph `Guard Post` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +4`
+misc-rule	ref/misc/guards	entries/misc/guards.md	the bold paragraph `Guards` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Labor +2`
+misc-rule	ref/misc/habitat	entries/misc/habitat.md	the bold paragraph `Habitat` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +12`
+misc-rule	ref/misc/hatchery	entries/misc/hatchery.md	the bold paragraph `Hatchery` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +5`
+misc-rule	ref/misc/infirmary	entries/misc/infirmary.md	the bold paragraph `Infirmary` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +8`
+misc-rule	ref/misc/kitchen	entries/misc/kitchen.md	the bold paragraph `Kitchen` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +4`
+misc-rule	ref/misc/labyrinth	entries/misc/labyrinth.md	the bold paragraph `Labyrinth` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +5`
+misc-rule	ref/misc/lackeys	entries/misc/lackeys.md	the bold paragraph `Lackeys` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** Influence or Labor +2`
+misc-rule	ref/misc/laundry	entries/misc/laundry.md	the bold paragraph `Laundry` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +3`
+misc-rule	ref/misc/lavatory	entries/misc/lavatory.md	the bold paragraph `Lavatory` equals the title; echo, or label of the first subsection? the next block starts `**Benefit:** Bonus on Fortitude saves against contracting di...`
+misc-rule	ref/misc/leather-workshop	entries/misc/leather-workshop.md	the bold paragraph `Leather Workshop` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +10`
+misc-rule	ref/misc/lodging	entries/misc/lodging.md	the bold paragraph `Lodging` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp +12`
+misc-rule	ref/misc/mage	entries/misc/mage.md	the bold paragraph `Mage` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Magic +7`
+misc-rule	ref/misc/magical-repository	entries/misc/magical-repository.md	the bold paragraph `Magical Repository` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Magic +12`
+misc-rule	ref/misc/mill-room	entries/misc/mill-room.md	the bold paragraph `Mill Room` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +8`
+misc-rule	ref/misc/nursery	entries/misc/nursery.md	the bold paragraph `Nursery` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +6`
+misc-rule	ref/misc/observation-dome	entries/misc/observation-dome.md	the bold paragraph `Observation Dome` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Magic +5`
+misc-rule	ref/misc/office	entries/misc/office.md	the bold paragraph `Office` equals the title; echo, or label of the first subsection? the next block starts `**Create:** 3 Goods, 3 Labor (120 gp)`
+misc-rule	ref/misc/pit	entries/misc/pit.md	the bold paragraph `Pit` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Labor +1`
+misc-rule	ref/misc/priest	entries/misc/priest.md	the bold paragraph `Priest` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Magic +7`
+misc-rule	ref/misc/printer	entries/misc/printer.md	the bold paragraph `Printer` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, Influence, or Labor +8`
+misc-rule	ref/misc/reliquary	entries/misc/reliquary.md	the bold paragraph `Reliquary` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +5`
+misc-rule	ref/misc/robbers	entries/misc/robbers.md	the bold paragraph `Robbers` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Influence +4`
+misc-rule	ref/misc/sage	entries/misc/sage.md	the bold paragraph `Sage` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +5`
+misc-rule	ref/misc/sailors	entries/misc/sailors.md	the bold paragraph `Sailors` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Labor +2`
+misc-rule	ref/misc/sanctum	entries/misc/sanctum.md	the bold paragraph `Sanctum` equals the title; echo, or label of the first subsection? the next block starts `**Benefit:** Bonus on one Will save`
+misc-rule	ref/misc/sauna	entries/misc/sauna.md	the bold paragraph `Sauna` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +3`
+misc-rule	ref/misc/scofflaws	entries/misc/scofflaws.md	the bold paragraph `Scofflaws` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Influence +2`
+misc-rule	ref/misc/scriptorium	entries/misc/scriptorium.md	the bold paragraph `Scriptorium` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, Influence, Labor, or Magic +5`
+misc-rule	ref/misc/scrying-room	entries/misc/scrying-room.md	the bold paragraph `Scrying Room` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +2`
+misc-rule	ref/misc/secret-room	entries/misc/secret-room.md	the bold paragraph `Secret Room` equals the title; echo, or label of the first subsection? the next block starts `**Create:** 5 Goods, 6 Labor (220 gp)`
+misc-rule	ref/misc/sewer-access	entries/misc/sewer-access.md	the bold paragraph `Sewer Access` equals the title; echo, or label of the first subsection? the next block starts `**Create:** 2 Goods, 1 Influence, 2 Labor (110 gp)`
+misc-rule	ref/misc/sewing-room	entries/misc/sewing-room.md	the bold paragraph `Sewing Room` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Influence +10`
+misc-rule	ref/misc/shack	entries/misc/shack.md	the bold paragraph `Shack` equals the title; echo, or label of the first subsection? the next block starts `**Create:** 3 Goods, 2 Labor (100 gp)`
+misc-rule	ref/misc/sitting-room	entries/misc/sitting-room.md	the bold paragraph `Sitting Room` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** Influence +4`
+misc-rule	ref/misc/soldiers	entries/misc/soldiers.md	the bold paragraph `Soldiers` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Influence, or Labor +5`
+misc-rule	ref/misc/sports-field	entries/misc/sports-field.md	the bold paragraph `Sports Field` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +10`
+misc-rule	ref/misc/stall	entries/misc/stall.md	the bold paragraph `Stall` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Labor +8`
+misc-rule	ref/misc/statue	entries/misc/statue.md	the bold paragraph `Statue` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +1`
+misc-rule	ref/misc/storage	entries/misc/storage.md	the bold paragraph `Storage` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp +2`
+misc-rule	ref/misc/storefront	entries/misc/storefront.md	the bold paragraph `Storefront` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** Capital +5 (of a type the building already gen...`
+misc-rule	ref/misc/summmoning-chamber	entries/misc/summmoning-chamber.md	the bold paragraph `Summmoning Chamber` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** Magic +3`
+misc-rule	ref/misc/throne-room	entries/misc/throne-room.md	the bold paragraph `Throne Room` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** Influence +15`
+misc-rule	ref/misc/tollbooth	entries/misc/tollbooth.md	the bold paragraph `Tollbooth` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Goods +4`
+misc-rule	ref/misc/torture-chamber	entries/misc/torture-chamber.md	the bold paragraph `Torture Chamber` equals the title; echo, or label of the first subsection? the next block starts `**Benefit:** Bonus on Intimidate checks`
+misc-rule	ref/misc/trap	entries/misc/trap.md	the bold paragraph `Trap` equals the title; echo, or label of the first subsection? the next block starts `**Benefit:** See below`
+misc-rule	ref/misc/trophy-room	entries/misc/trophy-room.md	the bold paragraph `Trophy Room` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp or Influence +5`
+misc-rule	ref/misc/vault	entries/misc/vault.md	the bold paragraph `Vault` equals the title; echo, or label of the first subsection? the next block starts `**Create:** 8 Goods, 7 Labor (300 gp)`
+misc-rule	ref/misc/war-room	entries/misc/war-room.md	the bold paragraph `War Room` equals the title; echo, or label of the first subsection? the next block starts `**Benefit:** Bonus on mass combat and skill checks while sch...`
+misc-rule	ref/misc/workstation	entries/misc/workstation.md	the bold paragraph `Workstation` equals the title; echo, or label of the first subsection? the next block starts `**Earnings:** gp, Goods, or Influence +8`
+misc-rule	ref/rule/abaddon-pa	entries/rule/abaddon-pa.md	the bold paragraph `Abaddon` resembles the title `Abaddon_pa`; echo, or label of the first subsection? the next block starts `**Cat:** Outer Plane (neutral evil)`
+misc-rule	ref/rule/akashic-record	entries/rule/akashic-record.md	the bold paragraph `Akashic Record` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** demiplane`
+misc-rule	ref/rule/astral-plane-pa	entries/rule/astral-plane-pa.md	the bold paragraph `Astral Plane` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Outer Plane (Transitive)`
+misc-rule	ref/rule/axis-pa	entries/rule/axis-pa.md	the bold paragraph `Axis` resembles the title `Axis_pa`; echo, or label of the first subsection? the next block starts `**Cat:** Outer Plane (lawful neutral)`
+misc-rule	ref/rule/cynosure	entries/rule/cynosure.md	the bold paragraph `Cynosure` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** demiplane`
+misc-rule	ref/rule/dead-vault	entries/rule/dead-vault.md	the bold paragraph `Dead Vault` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** demiplane`
+misc-rule	ref/rule/dimension-of-dreams	entries/rule/dimension-of-dreams.md	the bold paragraph `Dimension of Dreams` resembles the title `Dimension of Dreams / Dreamlands`; echo, or label of the first subsection? the next block starts `**Cat:** dimension (Transitive)/demiplane`
+misc-rule	ref/rule/dimension-of-time	entries/rule/dimension-of-time.md	the bold paragraph `Dimension of Time` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** dimension (Transitive)`
+misc-rule	ref/rule/elysium-pa	entries/rule/elysium-pa.md	the bold paragraph `Elysium` resembles the title `Elysium_pa`; echo, or label of the first subsection? the next block starts `**Cat:** Outer Plane (chaotic good)`
+misc-rule	ref/rule/ethereal-plane-pa	entries/rule/ethereal-plane-pa.md	the bold paragraph `Ethereal Plane` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Inner Plane (Transitive)`
+misc-rule	ref/rule/hao-jin-tapestry	entries/rule/hao-jin-tapestry.md	the bold paragraph `Hao Jin Tapestry` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** demiplane`
+misc-rule	ref/rule/harrowed-realm	entries/rule/harrowed-realm.md	the bold paragraph `Harrowed Realm` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** demiplane`
+misc-rule	ref/rule/heaven-pa	entries/rule/heaven-pa.md	the bold paragraph `Heaven` resembles the title `Heaven_pa`; echo, or label of the first subsection? the next block starts `**Cat:** Outer Plane (lawful good)`
+misc-rule	ref/rule/hell-pa	entries/rule/hell-pa.md	the bold paragraph `Hell` resembles the title `Hell_pa`; echo, or label of the first subsection? the next block starts `**Cat:** Outer Plane (lawful evil)`
+misc-rule	ref/rule/jandelay	entries/rule/jandelay.md	the bold paragraph `Jandelay` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** demiplane`
+misc-rule	ref/rule/leng	entries/rule/leng.md	the bold paragraph `Leng` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** demiplane`
+misc-rule	ref/rule/negative-energy-plane-pa	entries/rule/negative-energy-plane-pa.md	the bold paragraph `Negative Energy Plane` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Inner Plane`
+misc-rule	ref/rule/nirvana-pa	entries/rule/nirvana-pa.md	the bold paragraph `Nirvana` resembles the title `Nirvana_pa`; echo, or label of the first subsection? the next block starts `**Cat:** Outer Plane (neutral good)`
+misc-rule	ref/rule/plane-of-air-pa	entries/rule/plane-of-air-pa.md	the bold paragraph `Plane of Air` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Inner Plane`
+misc-rule	ref/rule/plane-of-earth-pa	entries/rule/plane-of-earth-pa.md	the bold paragraph `Plane of Earth` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Inner Plane`
+misc-rule	ref/rule/plane-of-fire-pa	entries/rule/plane-of-fire-pa.md	the bold paragraph `Plane of Fire` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Inner Plane`
+misc-rule	ref/rule/plane-of-water-pa	entries/rule/plane-of-water-pa.md	the bold paragraph `Plane of Water` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Inner Plane`
+misc-rule	ref/rule/positive-energy-plane-pa	entries/rule/positive-energy-plane-pa.md	the bold paragraph `Positive Energy Plane` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Inner Plane`
+misc-rule	ref/rule/shadow-plane-pa	entries/rule/shadow-plane-pa.md	the bold paragraph `Shadow Plane` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Inner Plane (Transitive)`
+misc-rule	ref/rule/the-abyss-pa	entries/rule/the-abyss-pa.md	the bold paragraph `The Abyss` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Outer Plane (chaotic evil)`
+misc-rule	ref/rule/the-boneyard-pa	entries/rule/the-boneyard-pa.md	the bold paragraph `The Boneyard` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** Outer Plane (neutral)`
+misc-rule	ref/rule/xibalba	entries/rule/xibalba.md	the bold paragraph `Xibalba` equals the title; echo, or label of the first subsection? the next block starts `**Cat:** demiplane`
+mythic	ref/carried/advanced-race-guide/races/drow/new-racial-rules/drow-feats/spider-step	entries/carried/advanced-race-guide/races/drow/new-racial-rules/drow-feats/spider-step.md	a stat block opens the body of a feat that is not a mythic add-on
+trap-template	ref/template/vampire-minion-addle-minded	entries/template/vampire-minion-addle-minded.md	the bold paragraph `Addle Minded` differs from the title `Vampire Minion, Addle-Minded`
+trap-template	ref/template/vampire-minion-repeatedly-drained	entries/template/vampire-minion-repeatedly-drained.md	the bold paragraph `Repeatedly Drained` differs from the title `Vampire Minion, Repeatedly Drained`

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Desna](ref/faith/desna)
 
 **Flavor:** You realize that accepting the pain in life accentuates its joys by contrast, and so

@@ -30,8 +30,6 @@ abilities = ["23", "17", "18", "7", "10", "16"]
 _A cruel face and orc features dominate this creature's upper half, while its lower quarters bear
 the sinewy shape of a centipede._
 
-**Oronci**
-
 **Challenge rating:** 5
 
 **Type:** aberration

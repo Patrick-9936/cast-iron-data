@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lands of the Linnorm Kings
 
 **Flavor:** You or one of your parents belonged to a coven that honored the norns - powerful fey

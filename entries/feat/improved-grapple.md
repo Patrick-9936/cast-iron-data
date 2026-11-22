@@ -20,8 +20,6 @@ benefit = "You do not provoke an attack of opportunity when performing a grapple
 normal = "You provoke an attack of opportunity when performing a grapple combat maneuver."
 +++
 
-## Improved Grapple (Combat)
-
 You are skilled at grappling opponents.\
 **Prerequisites:** Dex 13, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\
 **Benefit:** You do not provoke an attack of opportunity when performing a

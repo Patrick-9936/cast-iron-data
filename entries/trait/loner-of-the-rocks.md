@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Oread](ref/race/oread)
 
 **Flavor:** Feeling harried by flighty non-oreads, you chose to embrace the life of a hermit with

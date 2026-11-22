@@ -32,8 +32,6 @@ abilities = ["14", "19", "15", "12", "14", "13"]
 _This small, gaunt humanoid has flesh tight around its oversized skull. Sharp spurs of bone protrude
 from its hands and arms._
 
-**Jitterbone**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

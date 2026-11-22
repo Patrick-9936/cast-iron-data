@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You grew up separated from your birth parents, and had to learn to watch out for
 yourself.
 

@@ -14,8 +14,6 @@ page = "19"
 kind = "none"
 +++
 
-**Dark**
-
 **Acquired:** present
 
 **Challenge rating:** +0 or +1

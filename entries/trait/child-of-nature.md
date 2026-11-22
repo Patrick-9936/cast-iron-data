@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Gozreh](ref/faith/gozreh)
 
 **Flavor:** The wild places are your home, and provide everything you need to be happy.

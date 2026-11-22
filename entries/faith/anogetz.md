@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Anogetz**
-
 **Sub:** The Fated Fangs
 
 ### Details

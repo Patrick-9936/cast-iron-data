@@ -19,8 +19,6 @@ benefit = "You gain a land speed of 10 feet if you are aquatic; if you aren't aq
 special = "You gain the amphibious subtype (and the aquatic subtype, if you don't have it) and can breathe both water and air with equal ease. As a swift action, you can transform your feet into a tail fin (gaining a swim speed of 40 feet) or your tail fin into feet (gaining a land speed of 30 feet), changing back and forth as often as you wish."
 +++
 
-## Child of Two Worlds (Story)
-
 You are the child of a land-dwelling creature and an aquatic creature, struggling to reconcile your
 dual heritage.\
 **Prerequisites:** Whether through an elixir of two worlds or other means, one of your parents was

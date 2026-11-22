@@ -32,8 +32,6 @@ abilities = ["25", "12", "18", "13", "13", "10"]
 _This repulsive, hunchbacked crone has skin the color of a fresh bruise. Despite her hunch, she
 looms taller than a human._
 
-**Annis Hag**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

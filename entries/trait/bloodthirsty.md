@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have a vicious streak, and nothing satisfies you more than warm blood on your hands
 and blade.
 

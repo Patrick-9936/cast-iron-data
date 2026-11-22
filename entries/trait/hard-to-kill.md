@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your strong will to live and spread good combined with your pure physicality makes you a
 tough opponent to take down. You may have discovered this as a child after a tragic accident or
 during the course of your first battle.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Urgathoa](ref/faith/urgathoa)
 
 **Flavor:** Your faith encourages you to indulge a variety of perverse hungers, leading you to shrug

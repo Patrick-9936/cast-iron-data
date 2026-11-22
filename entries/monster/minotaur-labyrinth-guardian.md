@@ -32,8 +32,6 @@ abilities = ["25", "12", "-", "14", "18", "16"]
 _A cold chill trails this ironclad minotaur skeleton, yet flames pour from the undead abomination's
 enormous blade._
 
-**Labyrinth Guardian**
-
 **Challenge rating:** 8
 
 **Minotaur graveknight [fighter](ref/class/fighter) 1**

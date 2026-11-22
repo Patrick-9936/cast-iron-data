@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Sodden Lands
 
 **Flavor:** You are one of the few remaining descendants of the lost civilization of Lirgen. Growing

@@ -30,8 +30,6 @@ abilities = ["40", "18", "24", "9", "19", "17"]
 
 _This enormous flippered creature is as pale as an iceberg and is nearly as large._
 
-**Ningen**
-
 **Challenge rating:** 16
 
 **Size:** colossal

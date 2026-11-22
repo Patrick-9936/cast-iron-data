@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You were inspired with the reverence offered by worshipers to priests and other
 spiritual leaders, so you assisted them.
 

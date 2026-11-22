@@ -29,8 +29,6 @@ special_qualities = "bardic knowledge +2, change shape (dire bat or wolf; beast 
 abilities = ["18", "18", "-", "15", "12", "22"]
 +++
 
-**Vampire Seducer**
-
 **Challenge rating:** 6
 
 **Human vampire [bard](ref/class/bard) 5**

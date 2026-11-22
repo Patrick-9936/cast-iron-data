@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-grapple", "ref/feat/improved-unarmed-st
 benefit = "Whenever you successfully maintain a grapple and choose to deal damage, you can spend a swift action to deal your sneak attack damage to the creature you are grappling."
 +++
 
-## Strangler (UC) (Combat)
-
 Throttling the life out of enemies is second nature to you.\
 **Prerequisites:** Dex 13, [sneak attack](ref/ability/sneak-attack) +1d6,
 [Improved Grapple](ref/feat/improved-grapple),

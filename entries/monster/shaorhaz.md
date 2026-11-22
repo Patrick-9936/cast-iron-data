@@ -32,8 +32,6 @@ abilities = ["38", "27", "34", "22", "28", "28"]
 _This four-armed nightmare stands with an elegance that seems out of place, given its demonic
 visage. Huge black wings fan behind its back, and flickering black blades burn in its hands._
 
-**Shaorhaz, Glutton of the Green**
-
 **Challenge rating:** 23
 
 **Male vrolikai [inquisitor](ref/class/inquisitor) of [Cyth-V'sug](ref/faith/cyth-vsug) 9**

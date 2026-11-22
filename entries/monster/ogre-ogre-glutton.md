@@ -32,8 +32,6 @@ abilities = ["30", "15", "21", "4", "12", "7"]
 _This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy face features a wide
 mouth with ill-fitting teeth._
 
-**Ogre Glutton**
-
 **Challenge rating:** 11
 
 **Ogre [barbarian](ref/class/barbarian) 8**

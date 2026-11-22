@@ -33,8 +33,6 @@ abilities = ["26", "14", "-", "7", "13", "15"]
 _This animated husk from an enormous spider seems filled with thousands of living spiders that fall
 from its body like drops of blood._
 
-**Deathweb**
-
 **Challenge rating:** 6
 
 **aura:** infestation (5 ft., 1d6 plus poison)

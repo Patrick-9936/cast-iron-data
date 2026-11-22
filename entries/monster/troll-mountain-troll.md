@@ -31,8 +31,6 @@ abilities = ["36", "13", "25", "7", "16", "8"]
 _This enormous, stooped creature has powerful limbs; a mane of gritty brown fur; and a ferocious,
 tusked underbite._
 
-**Mountain Troll**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic neutral

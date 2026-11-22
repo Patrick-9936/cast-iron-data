@@ -32,8 +32,6 @@ abilities = ["14", "15", "18", "14", "13", "15"]
 _This chitin-plated humanoid has the lower body of a hermit crab, complete with a brightly decorated
 shell encasing his back._
 
-**Murajau**
-
 **Challenge rating:** 5
 
 **Initiative:** +6

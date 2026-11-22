@@ -33,8 +33,6 @@ abilities = ["12", "15", "14", "10", "15", "15"]
 _This cluster of flytraps has a vaguely humanoid shape. The beady eyes atop the largest flytrap
 glare menacingly._
 
-**Flytrap Leshy**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

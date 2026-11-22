@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darklands
 
 **Flavor:** Exposure to the constant hazards of airborne particles (such as during a sandstorm or

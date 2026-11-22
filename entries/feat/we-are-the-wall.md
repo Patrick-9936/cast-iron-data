@@ -18,8 +18,6 @@ prerequisites = "Be a member of House Darahan, or have the [Champion of the Peop
 benefit = "Three times per day as a move action, you can declare a single dragon, magical beast, or monstrous humanoid within 50 feet and in line of sight to be your mark. You gain a +1 bonus on attack rolls and on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against your mark. These bonuses last for 1 minute, until you designate a new mark, or until the mark is dead. After you have declared a creature as your mark, it can't be your mark again for another 24 hours."
 +++
 
-## We are the Wall (Story)
-
 You embody your family's legendary monster-hunters.\
 **Prerequisites:** Be a member of House Darahan, or have the
 [Champion of the People (cavalier) or Duty (fighter)](ref/rule/class-background-tables) background,

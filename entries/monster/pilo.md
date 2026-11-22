@@ -30,8 +30,6 @@ abilities = ["13", "13", "14", "2", "14", "7"]
 _Sharp quills cover this bright yellow, six-legged animal, and its long, twitching snout probes the
 air around it._
 
-**Pilo**
-
 **Challenge rating:** 2
 
 **Type:** animal

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold)
 
 **Flavor:** Your distinctive golden scales strongly reflect the light, making other kobolds mistrust

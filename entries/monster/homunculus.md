@@ -29,8 +29,6 @@ abilities = ["8", "15", "-", "10", "12", "7"]
 _This vaguely humanoid creature is about the size of a cat but looks more like a toothy, winged
 devil._
 
-**Homunculus**
-
 **Challenge rating:** 1
 
 **Alignment:** Any alignment (same as creator)

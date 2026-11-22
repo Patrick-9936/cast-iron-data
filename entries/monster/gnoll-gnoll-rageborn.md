@@ -30,8 +30,6 @@ special_qualities = "fast movement"
 abilities = ["23", "13", "20", "8", "12", "6"]
 +++
 
-**Gnoll Rageborn**
-
 **Challenge rating:** 3
 
 **Gnoll [barbarian](ref/class/barbarian) ([pack rager](ref/arc-barbarian/pack-rager))**

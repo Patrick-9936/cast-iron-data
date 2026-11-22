@@ -32,8 +32,6 @@ abilities = ["34", "18", "27", "16", "19", "21"]
 _This black mass of glistening, tar-like slime bubbles and oozes, its two long tentacles each tipped
 with a stony club._
 
-**Mountain Blight**
-
 **Challenge rating:** 14
 
 **blindsight:** 120

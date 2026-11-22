@@ -33,8 +33,6 @@ abilities = ["11", "29", "24", "14", "22", "21"]
 _This beautiful woman has pearlescent skin and long, dark hair. Her nudity is barely hidden by a
 diaphanous, wet shawl._
 
-**Nereid**
-
 **Challenge rating:** 10
 
 **aura:** beguiling aura (30-ft., DC 23)

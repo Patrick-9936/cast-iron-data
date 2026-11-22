@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Tumor Infestation"
 source_ids = ["bestiary-4"]
 parent = "ref/monster/hungry-flesh"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "hungry_flesh|affliction:tumor-infestation", path = "json/monsters14.json" },
 ]

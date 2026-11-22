@@ -30,8 +30,6 @@ abilities = ["2", "12", "17", "-", "10", "2"]
 _This strange eight-legged creature looks vaguely like an insectile bear as it swims through the
 water._
 
-**Giant Tardigrade**
-
 **Challenge rating:** 1/8
 
 **Size:** diminutive

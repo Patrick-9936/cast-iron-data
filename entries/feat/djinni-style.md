@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/elemental-fist", "ref/feat/improved-unarmed-stri
 benefit = "You gain one additional Elemental Fist attempt per day. While you are in this style you must use Elemental Fist to deal electricity damage and you gain a bonus on electricity damage rolls equal to your Wisdom bonus. Further, while you are using this style and have remaining Elemental Fist attempts, you also gain a +2 dodge bonus to Armor Class against attacks of opportunity. A condition that makes you lose your Dexterity bonus to AC also makes you lose this dodge bonus."
 +++
 
-## Djinni Style (Combat, Style)
-
 Your hands sheathed in an auras of lightning, you move like the wind.\
 **Prerequisites:** Con 13, Wis 15, [Elemental Fist](ref/feat/elemental-fist),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), base attack bonus +9 or monk level 5th.\

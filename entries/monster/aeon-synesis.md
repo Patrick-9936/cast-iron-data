@@ -30,8 +30,6 @@ abilities = ["12", "15", "13", "16", "14", "15"]
 _A pair of three-fingered arms sprouts from either end of this hourglass-shaped creature composed of
 cosmic starstuff._
 
-**Synesis**
-
 **Challenge rating:** 4
 
 **aura:** cognitive aura (30 ft., DC 15)

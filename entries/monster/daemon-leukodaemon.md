@@ -34,8 +34,6 @@ abilities = ["25", "24", "23", "16", "21", "16"]
 _This human-shaped beast has a horse's skull for a head. It walks on cracked hooves and bears the
 rotting wings of a carrion bird._
 
-**Leukodaemon**
-
 **Challenge rating:** 9
 
 **aura:** infectious aura (50 ft.)

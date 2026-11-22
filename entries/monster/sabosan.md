@@ -32,8 +32,6 @@ abilities = ["16", "18", "15", "9", "13", "10"]
 
 _This bat-like humanoid has a lean, muscular body covered with fur and two large, leathery wings._
 
-**Sabosan**
-
 **Challenge rating:** 5
 
 **blindsense:** 60

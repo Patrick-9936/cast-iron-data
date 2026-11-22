@@ -30,8 +30,6 @@ abilities = ["12", "11", "-", "9", "14", "13"]
 
 _This metallic sculpture of an idealized humanoid figure sparkles with divine luster._
 
-**Celedon**
-
 **Challenge rating:** 1
 
 **Type:** construct

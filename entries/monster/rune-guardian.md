@@ -30,8 +30,6 @@ abilities = ["6", "15", "-", "11", "14", "12"]
 _A carved rune detaches itself from the wall and floats silently in midair, glowing with arcane
 energy._
 
-**Rune Guardian**
-
 **Challenge rating:** 1
 
 **Type:** construct

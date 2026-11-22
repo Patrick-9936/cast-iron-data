@@ -33,8 +33,6 @@ abilities = ["14", "9", "-", "-", "11", "1"]
 _This eerily expressionless woman has a glistening quality about her, as though she's covered in an
 oily sheen._
 
-**Wax Golem**
-
 **Challenge rating:** 3
 
 **Type:** construct

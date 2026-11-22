@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You are skilled in creating alchemical items.
 
 **Benefit:** You gain a +2 trait bonus on all [Craft](ref/skill/craft-any) (alchemy) checks made to

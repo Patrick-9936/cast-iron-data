@@ -20,8 +20,6 @@ benefit = "After sidestepping an opponent's missed attack using the Sidestep fea
 normal = "If you use the Sidestep feat, you cannot take a 5-foot step during your next turn."
 +++
 
-## Improved Sidestep (Combat)
-
 You are adept at sidestepping your opponent's melee attacks without compromising your mobility.\
 **Prerequisites:** Dex 15, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility),
 [Sidestep](ref/feat/sidestep).\

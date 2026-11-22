@@ -30,8 +30,6 @@ abilities = ["22", "15", "18", "6", "13", "15"]
 _This large, stocky canine's dark-green fur is braided into intricate patterns that seem to loosen
 and retie themselves on their own._
 
-**Barrow Hound**
-
 **Challenge rating:** 6
 
 **Type:** fey

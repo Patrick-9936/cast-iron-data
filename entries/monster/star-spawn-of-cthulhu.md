@@ -34,8 +34,6 @@ abilities = ["42", "13", "30", "23", "29", "24"]
 _A mountainous form, this hideous creature is humanoid in general shape, but its hateful face is a
 writhing mass of tentacles._
 
-**Star-Spawn of Cthulhu**
-
 **Challenge rating:** 20
 
 **Type:** aberration

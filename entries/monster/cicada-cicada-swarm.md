@@ -30,8 +30,6 @@ abilities = ["1", "16", "11", "-", "13", "2"]
 
 _A loud droning buzz accompanies this mass of flying insects._
 
-**Cicada Swarm**
-
 **Challenge rating:** 2
 
 **Size:** diminutive

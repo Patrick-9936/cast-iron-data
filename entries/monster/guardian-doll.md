@@ -31,8 +31,6 @@ abilities = ["8", "17", "-", "13", "12", "10"]
 _This strange doll is clad in traditional Irriseni peasant clothing, and its eyes glisten with a
 disturbing curiosity._
 
-**Guardian Doll**
-
 **Challenge rating:** 3
 
 **Type:** construct

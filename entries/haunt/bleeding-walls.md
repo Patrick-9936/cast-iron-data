@@ -14,8 +14,6 @@ page = "243"
 kind = "none"
 +++
 
-**Bleeding Walls**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

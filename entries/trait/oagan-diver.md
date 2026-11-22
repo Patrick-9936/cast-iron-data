@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Sodden Lands
 
 **Flavor:** You know how to operate the diving bells of Oagon at the mouth of the Black Flow. You've

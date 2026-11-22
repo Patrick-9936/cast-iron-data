@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You were badly burned once by volcanic ash, torch-wielding mobs, or some fiery accident,
 and the scars pain you terribly you whenever you are too near to fire.
 

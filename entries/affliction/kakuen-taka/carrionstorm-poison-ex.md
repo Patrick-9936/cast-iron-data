@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Carrionstorm Poison (Ex)"
 source_ids = ["inner-sea-bestiary"]
 parent = "ref/monster/kakuen-taka"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "kakuen_taka|affliction:carrionstorm-poison-ex", path = "json/monsters34.json" },
 ]

@@ -31,8 +31,6 @@ abilities = ["15", "14", "16", "20", "17", "15"]
 _The tall, blue-skinned humanoid is clad in loose, flowing robes. Its alien face has too many eyes
 and its hands have too few fingers._
 
-**Mercane**
-
 **Challenge rating:** 5
 
 **Initiative:** +2

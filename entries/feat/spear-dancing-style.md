@@ -20,8 +20,6 @@ benefit = "Choose one weapon from the polearm or spear fighter weapon groups. Wh
 special = "A character with the weapon training (polearms or spears) class feature can use Spear Dancing Style with any polearm or spear, respectively, in addition to the chosen weapon."
 +++
 
-## Spear Dancing Style (Combat, Style)
-
 You can use polearms and spears as double weapons.\
 **Prerequisites:** Dex 13, [Two-Weapon Fighting](ref/feat/two-weapon-fighting),
 [Weapon Focus](ref/feat/weapon-focus) with the chosen weapon.\

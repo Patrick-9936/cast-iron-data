@@ -34,8 +34,6 @@ abilities = ["22", "24", "22", "13", "17", "21"]
 _This skinless creature resembles a horse and its humanoid rider, fused into a single hideous being
 of rage and sickness._
 
-**Nuckelavee**
-
 **Challenge rating:** 9
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (30 ft., DC 20)

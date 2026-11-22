@@ -32,8 +32,6 @@ _Four clawed arms sprout from this fiend's chest like the limbs of a buried inse
 crawl free. Overlapping iridescent plates of chitin cascade down the monster's back, shrouding four
 membranous dragonfly wings._
 
-**Katpaskir**
-
 **Challenge rating:** 18
 
 **aura:** distance distortion (30 ft., DC 26)

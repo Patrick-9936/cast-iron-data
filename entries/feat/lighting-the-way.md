@@ -18,8 +18,6 @@ prerequisites = "Be a member of House Zespire, or have the [Marked by the Gods](
 benefit = "Once per day as a standard action, you can give all allies within 30 feet who can hear you a +1 bonus on attack rolls and on saving throws against mind-affecting effects for 1 minute."
 +++
 
-## Lighting the Way (Story)
-
 You seek to lead others through your pious example.\
 **Prerequisites:** Be a member of House Zespire, or have the
 [Marked by the Gods](ref/rule/birth-circumstances-and-more) circumstance background, or the Devoted

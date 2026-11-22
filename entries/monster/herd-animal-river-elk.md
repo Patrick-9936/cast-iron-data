@@ -28,8 +28,6 @@ abilities = ["17", "15", "18", "2", "15", "6"]
 _This majestic beast stands the height of a man at its shoulders, a many-tipped rack of proud
 antlers crowning its head._
 
-**River Elk**
-
 **Challenge rating:** 2
 
 **Type:** animal

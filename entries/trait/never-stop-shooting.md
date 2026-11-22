@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Even when the chips are down, you keep on shooting.
 
 **Benefit:** If your hit point total drops to 0 or lower but you are not dead, you may act as if

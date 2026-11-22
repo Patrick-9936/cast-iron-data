@@ -12,8 +12,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Rise of the Runelords
 
 **Flavor:** You've grown up in or around Sandpoint and are the heir to your family's modest farm,

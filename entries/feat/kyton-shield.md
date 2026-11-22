@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/exotic-weapon-proficiency", "ref/feat/kyton-styl
 benefit = "When using Kyton Style, you gain a +1 shield bonus to your Armor Class as long as you are wielding a spiked chain. If the spiked chain is magical, add 1/2 its enhancement bonus to this shield bonus. If the spiked chain has the vicious ability, instead add its full enhancement bonus to the shield bonus."
 +++
 
-## Kyton Shield (Combat)
-
 Whether in your hand or draped around your body, the spiked chain serves as both weapon and shield.\
 **Prerequisites:** Wis 15, [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency) (spiked
 chain), [Kyton Style](ref/feat/kyton-style), base attack bonus +5, Knowledge (planes) 3 ranks, ki

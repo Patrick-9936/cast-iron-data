@@ -14,8 +14,6 @@ page = "53"
 kind = "none"
 +++
 
-**Demonic Vermin**
-
 **Acquired:** present
 
 **Challenge rating:** +1

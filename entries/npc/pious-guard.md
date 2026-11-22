@@ -15,8 +15,6 @@ kind = "creature"
 cr = "9"
 +++
 
-**Pious Guard**
-
 **Challenge rating:** 9
 
 **XP** 6,400\

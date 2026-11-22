@@ -32,8 +32,6 @@ abilities = ["10", "20", "16", "7", "14", "19"]
 _This fierce and feral-looking woman has huge wings and clawed hands and feet, and carries a
 wicked-looking longbow._
 
-**Undrella**
-
 **Challenge rating:** 11
 
 **Female harpy [ranger](ref/class/ranger) 7**

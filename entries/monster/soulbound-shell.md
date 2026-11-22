@@ -29,8 +29,6 @@ abilities = ["13", "13", "-", "20", "10", "13"]
 
 _This white statue of a bald human is marbled with glowing green veins of energy._
 
-**Soulbound Shell**
-
 **Challenge rating:** 12
 
 **Type:** construct

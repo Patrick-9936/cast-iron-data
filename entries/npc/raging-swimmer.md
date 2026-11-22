@@ -15,8 +15,6 @@ kind = "creature"
 cr = "8"
 +++
 
-**Raging Swimmer**
-
 **Challenge rating:** 8
 
 **XP** 4,800\

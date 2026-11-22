@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have specialized in studying Jistkan history and culture.
 
 **Benefit:** You gain Jistka as a bonus language and a +1 trait bonus on all

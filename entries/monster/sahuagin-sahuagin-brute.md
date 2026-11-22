@@ -33,8 +33,6 @@ abilities = ["19", "15", "18", "12", "13", "10"]
 _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its
 piscine head features a toothy maw._
 
-**Sahuagin Brute**
-
 **Challenge rating:** 3
 
 **Sahuagin [barbarian](ref/class/barbarian) 1**

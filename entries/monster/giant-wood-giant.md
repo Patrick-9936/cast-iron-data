@@ -31,8 +31,6 @@ abilities = ["20", "21", "17", "14", "15", "12"]
 _Standing tall and graceful, this sharp-eared giant's skin is pale. Its large brow gives it a
 somewhat primitive visage._
 
-**Wood Giant**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic good

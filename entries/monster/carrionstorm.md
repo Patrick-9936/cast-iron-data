@@ -34,8 +34,6 @@ abilities = ["1", "11", "-", "2", "14", "13"]
 _Bits of feather and flesh buzz around this swarm of rotting ravens like flies, countless lifeless
 eyes staring out from the chaos._
 
-**Carrionstorm**
-
 **Challenge rating:** 1
 
 **Initiative:** +4

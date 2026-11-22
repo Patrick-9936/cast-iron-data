@@ -14,8 +14,6 @@ page = "133"
 kind = "none"
 +++
 
-**Dimensional Tear**
-
 **Challenge rating:** 8
 
 **XP** 4,800\

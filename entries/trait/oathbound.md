@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You have made a solemn oath, and you pursue that oath with headstrong determination.
 
 **Benefit:** Once per day, you may reroll a saving throw against a charm or compulsion effect. You

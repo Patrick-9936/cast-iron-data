@@ -30,8 +30,6 @@ abilities = ["25", "15", "18", "10", "14", "15"]
 _This green-tined dragon has multiple sets of legs down its long, sinuous body. An oversized gullet
 bulges in its throat._
 
-**Korir-Kokembe**
-
 **Challenge rating:** 10
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (30 ft., DC 18)

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Vudrani
 
 **Flavor:** You respect your mind's mastery over your body's full potential.

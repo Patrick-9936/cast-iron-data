@@ -19,19 +19,7 @@ prerequisites = "Strong Comeback."
 benefit = "Whenever you're allowed to reroll an ability check, a skill check, or a saving throw, roll two dice and take the higher result, before adding the bonus from Strong Comeback."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You never make the same mistake twice._
-
-## Prerequisites {#prerequisites}
-
-_Strong Comeback._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Whenever you're allowed to reroll an ability check, a skill check, or a saving throw, roll two dice
-and take the higher result, before adding the bonus from Strong Comeback.
-:::
+You never make the same mistake twice.\
+**Prerequisites:** Strong Comeback.\
+**Benefit:** Whenever you're allowed to reroll an ability check, a skill check, or a saving throw,
+roll two dice and take the higher result, before adding the bonus from Strong Comeback.

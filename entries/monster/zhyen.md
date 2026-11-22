@@ -31,8 +31,6 @@ _This short, genie-like creature floats in midair, barely a foot tall but posses
 which to determine its true height. Wisps of elemental light trail from its eyes, and it bows, ready
 to serve._
 
-**Zhyen**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +0

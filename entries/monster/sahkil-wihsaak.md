@@ -31,8 +31,6 @@ abilities = ["16", "17", "16", "11", "12", "14"]
 _Buzzing wings hold this gaunt creature just above the ground. A grasshopper serves as the
 creature's head._
 
-**Wihsaak**
-
 **Challenge rating:** 6
 
 **Initiative:** +7

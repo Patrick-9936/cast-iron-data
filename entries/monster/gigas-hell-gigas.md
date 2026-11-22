@@ -35,8 +35,6 @@ hundred gigantic victims girds a twisted humanoid body covered in angry red burn
 scars of crippling battles. Despite its wounds, the surviving figure exerts a terrible strength,
 hefting its grisly armor with ease._
 
-**Hell Gigas**
-
 **Challenge rating:** 15
 
 **Size:** gargantuan

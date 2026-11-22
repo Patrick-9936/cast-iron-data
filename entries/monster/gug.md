@@ -36,8 +36,6 @@ abilities = ["25", "12", "18", "11", "16", "11"]
 _This towering menace has a horrible, vertically aligned mouth and arms that split at the elbows
 into twin clawed hands._
 
-**Gug**
-
 **Challenge rating:** 10
 
 **Type:** aberration

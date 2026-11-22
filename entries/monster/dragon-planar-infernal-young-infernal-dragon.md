@@ -30,8 +30,6 @@ abilities = ["25", "10", "19", "20", "17", "16"]
 
 _Cruel horns frame this dragon's head. Its body glows faintly with malicious heat._
 
-**Young Infernal Dragon**
-
 **Challenge rating:** 12
 
 **Type:** dragon

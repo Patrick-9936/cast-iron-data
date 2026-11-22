@@ -31,8 +31,6 @@ abilities = ["35", "26", "30", "19", "24", "27"]
 _Ornate armor covers this hulking creature, rocky protrusions jutting from its hide and fierce horns
 crowning its broad head._
 
-**Akvan**
-
 **Challenge rating:** 20
 
 **aura:** hopelessness (30 ft., DC 30)

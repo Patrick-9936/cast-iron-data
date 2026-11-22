@@ -30,8 +30,6 @@ abilities = ["16", "1", "24", "-", "1", "1"]
 _A crown of rough gems encircles the top of this sleek, orangebrown glob as it rolls forward, the
 detritus of the forest churning within._
 
-**Ambergrim**
-
 **Challenge rating:** 6
 
 **blindsight:** 60

@@ -30,8 +30,6 @@ abilities = ["23", "17", "-", "12", "14", "19"]
 
 _Three spears of obsidian energy skewer this cadaverous figure._
 
-**Despoiler**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

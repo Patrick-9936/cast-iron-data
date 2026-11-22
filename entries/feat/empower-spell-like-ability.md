@@ -19,8 +19,6 @@ benefit = "Choose one of the creature's spell-like abilities, subject to the res
 special = "This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different spell-like ability."
 +++
 
-## Empower Spell-Like Ability (Monster)
-
 One of this creature's [spell-like abilities](ref/umr/spell-like-abilities) is particularly potent
 and powerful.\
 **Prerequisites:** Spell-like ability at caster level 6th or higher.\

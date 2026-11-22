@@ -32,8 +32,6 @@ abilities = ["22", "10", "17", "17", "16", "11"]
 _A skeleton of silver rods gives this blob of protoplasm a roughly defined shape with an
 approximation of three arms and legs. Its outer skin shimmers with a rainbow of colors._
 
-**Thorgothrel**
-
 **Challenge rating:** 8
 
 **blindsight:** 100

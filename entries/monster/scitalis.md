@@ -30,8 +30,6 @@ abilities = ["26", "19", "22", "9", "15", "14"]
 _This ophidian dragon's scales and frills form a brightly colored pattern, backlit like stained
 glass by the creature's inner glow._
 
-**Scitalis**
-
 **Challenge rating:** 12
 
 **Type:** dragon

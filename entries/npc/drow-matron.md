@@ -15,8 +15,6 @@ kind = "creature"
 cr = "15"
 +++
 
-**Drow Matron**
-
 **Challenge rating:** 15
 
 **XP** 51,200\

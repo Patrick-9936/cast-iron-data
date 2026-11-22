@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-orc](ref/race/half-orc); human-raised
 
 **Flavor:** You learned the hard way that expressing the rage you inherited from your orc blood

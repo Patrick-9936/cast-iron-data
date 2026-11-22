@@ -19,8 +19,6 @@ benefit = "Once per round while using this style, when an ally with this feat hi
 special = "Animal companions with an Intelligence score of 1 or 2 can take this feat."
 +++
 
-## Linnorm Hunter Style (Combat, Style, Teamwork)
-
 You and your animal companion work together to make coordinated strikes against your enemies.\
 **Prerequisites:** Cha 13, must have or be an [animal companion](ref/sidekick/animal-companion).\
 **Benefit:** Once per round while using this style, when an ally with this feat hits a target that

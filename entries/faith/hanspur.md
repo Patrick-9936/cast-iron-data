@@ -14,8 +14,6 @@ page = "59"
 kind = "none"
 +++
 
-**Hanspur**
-
 **Sub:** The Water Rat
 
 ### Details

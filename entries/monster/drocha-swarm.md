@@ -30,8 +30,6 @@ abilities = ["-", "18", "-", "-", "15", "19"]
 
 _Hundreds of twisted, distorted faces roil in a miserable cloud, screaming of their unquiet deaths._
 
-**Drocha Swarm**
-
 **Challenge rating:** 7
 
 **aura:** fear (30 ft., DC 18, 1d6 rounds)

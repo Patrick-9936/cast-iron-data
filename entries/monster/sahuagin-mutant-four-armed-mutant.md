@@ -31,8 +31,6 @@ _This burly humanoid has sharp scales and fins like some predatory fish. As if i
 serrated teeth were not intimidating enough, the monstrosity clenches deadly claws at the ends of
 four powerful arms._
 
-**Four-Armed Mutant**
-
 **Challenge rating:** 3
 
 **blindsense:** 30

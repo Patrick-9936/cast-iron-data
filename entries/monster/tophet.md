@@ -33,8 +33,6 @@ abilities = ["26", "8", "-", "-", "12", "1"]
 _A distended metal maw filled with blunt, sculpted teeth stretches across the upper portion of this
 rotund iron effigy._
 
-**Tophet**
-
 **Challenge rating:** 10
 
 **Type:** construct

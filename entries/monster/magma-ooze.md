@@ -30,8 +30,6 @@ abilities = ["28", "1", "21", "-", "1", "1"]
 
 _This seething mass of bubbling molten rock churns and moves of its own hungry accord._
 
-**Magma Ooze**
-
 **Challenge rating:** 7
 
 **blindsight:** 60

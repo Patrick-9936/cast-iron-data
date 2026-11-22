@@ -32,8 +32,6 @@ abilities = ["17", "22", "-", "-", "18", "1"]
 _This four-armed clockwork construct has a glowing crystal globe as a head and a shining crystal set
 into its chest._
 
-**Clockwork Priest**
-
 **Challenge rating:** 11
 
 **Type:** construct

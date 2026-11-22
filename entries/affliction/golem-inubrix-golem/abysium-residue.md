@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Abysium Residue"
 source_ids = ["construct-handbook"]
 parent = "ref/monster/golem-inubrix-golem"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "golem_inubrix_golem|affliction:abysium-residue", path = "json/monsters33.json" },
 ]

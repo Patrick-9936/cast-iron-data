@@ -24,8 +24,6 @@ benefit = "When you successfully stagger a foe with an unarmed strike using Diab
 special = "A monk of at least 10th level with this feat can select Improved Vital Strike as a monk bonus feat."
 +++
 
-## Diabolic Humiliation (Combat)
-
 Your humiliating strikes decrease a foe's morale.\
 **Prerequisites:** [Combat Reflexes](ref/feat/combat-reflexes),
 [Diabolic Style](ref/feat/diabolic-style); [Vital Strike](ref/feat/vital-strike);

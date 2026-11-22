@@ -31,8 +31,6 @@ abilities = ["19", "16", "16", "13", "14", "15"]
 
 _Clear, flowing water forms the arms and the lower half of this angelic, elf-like being._
 
-**Nualidu**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic good

@@ -29,8 +29,6 @@ abilities = ["17", "18", "18", "23", "16", "19"]
 
 _This anemic protean wears a wizard's robe and garish jewelry._
 
-**Illureshi**
-
 **Challenge rating:** 9
 
 **aura:** spellwarp aura (30 ft.)

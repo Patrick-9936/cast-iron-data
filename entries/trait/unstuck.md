@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Uringen
 
 **Flavor:** Spending time in the "unstuck" part of Uringen has made you more adept at using warps in

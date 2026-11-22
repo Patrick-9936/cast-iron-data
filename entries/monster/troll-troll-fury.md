@@ -29,8 +29,6 @@ special_qualities = "inspire fervor +2, nature bond (Fire domain), nature sense,
 abilities = ["23", "14", "27", "8", "16", "4"]
 +++
 
-**Troll Fury**
-
 **Challenge rating:** 8
 
 **Troll [druid](ref/class/druid) ([troll fury](ref/arc-druid/troll-fury)) 6**

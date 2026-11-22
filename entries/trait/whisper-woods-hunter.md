@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Whisper Woods
 
 **Flavor:** Your family prepared you for a life of evading or destroying fiendish creatures.

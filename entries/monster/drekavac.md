@@ -32,8 +32,6 @@ head perches atop its spindly, child-sized body, and its eyes are nothing but su
 with no trace of life in them. A cloying mist wreathes its frail form, accompanied by the stench of
 death and disease._
 
-**Drekavac**
-
 **Challenge rating:** 3
 
 **aura:** [unnatural aura](ref/umr/unnatural-aura) (30 ft.)

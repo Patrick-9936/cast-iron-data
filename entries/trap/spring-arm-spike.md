@@ -14,8 +14,6 @@ page = "173"
 kind = "none"
 +++
 
-**Spring-arm Spike**
-
 **Type:** Mechanical
 
 **Challenge rating:** 4

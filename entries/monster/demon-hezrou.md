@@ -31,8 +31,6 @@ abilities = ["27", "11", "29", "14", "14", "18"]
 _This fiend's armored flesh is scaly and moist. Its large, toothy mouth gapes below a pair of
 hungry, reptilian eyes._
 
-**Hezrou**
-
 **Challenge rating:** 11
 
 **aura:** [stench](ref/umr/stench) (DC 24, 10 rounds)

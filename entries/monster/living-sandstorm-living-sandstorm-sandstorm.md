@@ -29,8 +29,6 @@ special_qualities = "change shape (humanoid form or sandstorm form; polymorph)"
 abilities = ["1", "22", "21", "12", "12", "13"]
 +++
 
-**Living Sandstorm (Sandstorm)**
-
 **Challenge rating:** 11
 
 **Size:** fine

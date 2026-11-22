@@ -31,8 +31,6 @@ abilities = ["27", "2", "18", "-", "10", "1"]
 _This massive, gray-brown slug leaves a viscous trail of slime in its wake as a long rasping tongue
 tastes the air for prey._
 
-**Giant Slug**
-
 **Challenge rating:** 8
 
 **blindsight:** 60

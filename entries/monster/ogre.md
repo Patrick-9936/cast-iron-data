@@ -31,8 +31,6 @@ abilities = ["21", "8", "15", "6", "10", "7"]
 _This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy face features a wide
 mouth with ill-fitting teeth._
 
-**Ogre**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

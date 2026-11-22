@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/swift-iron-style", "ref/feat/swift-refuge"]
 benefit = "When you're charging, running, or taking no action in your turn other than movement, your armor does not reduce your movement."
 +++
 
-## Swift Sprint (Combat)
-
 You balance your armor expertly, allowing you to run and sprint without impediment.\
 **Prerequisites:** Str 13, Dex 13, [Swift Iron Style](ref/feat/swift-iron-style),
 [Swift Refuge](ref/feat/swift-refuge), proficiency with medium armor.\

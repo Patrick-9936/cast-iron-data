@@ -30,8 +30,6 @@ abilities = ["21", "21", "19", "10", "14", "10"]
 _This eerie beast appears to be the animated skeleton of a huge fanged cat, its bones glowing with
 fire and seething with smoke._
 
-**Hellcat**
-
 **Challenge rating:** 7
 
 **Initiative:** +9

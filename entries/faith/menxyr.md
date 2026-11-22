@@ -20,8 +20,6 @@ page = "38"
 kind = "none"
 +++
 
-**Menxyr**
-
 **Sub:** The Coffin Groom
 
 ### Details

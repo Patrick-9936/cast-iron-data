@@ -31,8 +31,6 @@ abilities = ["15", "10", "13", "10", "13", "12"]
 _This canine-headed humanoid's well-groomed appearance and polished greatsword show it to be more
 than a common beast._
 
-**Hound Archon**
-
 **Challenge rating:** 4
 
 **aura:** aura of menace (DC 16), _[magic circle against evil](ref/spell/magic-circle-against-evil)_

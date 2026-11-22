@@ -14,8 +14,6 @@ page = "72"
 kind = "none"
 +++
 
-**Winter-Touched Fey**
-
 **Acquired:** present
 
 **Challenge rating:** +0

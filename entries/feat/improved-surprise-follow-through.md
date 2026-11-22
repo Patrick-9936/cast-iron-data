@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/cleave", "ref/feat/great-cleave", "ref/feat/powe
 benefit = "When using Great Cleave, each opponent you attack on your turn (other than the first) is denied his Dexterity bonus against you."
 +++
 
-## Improved Surprise Follow-Through (Combat)
-
 You follow up an attack with a surprising series of sweeping blows.\
 **Prerequisites:** Str 13, [Cleave](ref/feat/cleave), [Great Cleave](ref/feat/great-cleave),
 [Power Attack](ref/feat/power-attack), [Surprise Follow-Through](ref/feat/surprise-follow-through),

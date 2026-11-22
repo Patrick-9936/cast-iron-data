@@ -14,8 +14,6 @@ page = "133"
 kind = "none"
 +++
 
-**Following Footsteps**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

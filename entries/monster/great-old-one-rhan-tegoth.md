@@ -31,8 +31,6 @@ abilities = ["46", "30", "43", "29", "32", "29"]
 _This six-legged, spider-like monstrosity has a bloated abdomen and a hideous face from which three
 bulbous eyes glare._
 
-**Rhan-Tegoth**
-
 **Challenge rating:** 28
 
 **Type:** aberration

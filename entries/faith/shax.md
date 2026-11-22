@@ -20,8 +20,6 @@ page = "24"
 kind = "none"
 +++
 
-**Shax**
-
 **Sub:** The Blood Marquis
 
 **Monster Link** [Shax](ref/monster/demon-lord-shax)

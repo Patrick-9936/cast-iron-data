@@ -34,8 +34,6 @@ abilities = ["21", "22", "23", "13", "24", "20"]
 _This humanoid creature's limbs - four arms and four legs - bend in awkward configurations. It
 wields a scythe in its largest arms._
 
-**Temerdaemon**
-
 **Challenge rating:** 14
 
 **aura:** reaper's curse (30 ft., DC 23, 10 rounds)

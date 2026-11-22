@@ -29,8 +29,6 @@ special_qualities = "no breath, starflight"
 abilities = ["36", "11", "24", "23", "20", "25"]
 +++
 
-**Ancient Solar Dragon**
-
 **Challenge rating:** 18
 
 **aura:** alien presence (300 ft., DC 29)

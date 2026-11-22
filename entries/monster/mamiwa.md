@@ -32,8 +32,6 @@ abilities = ["7", "15", "12", "10", "12", "13"]
 
 _The tail of this shimmering, salamander-like creature is composed entirely of water._
 
-**Mamiwa**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

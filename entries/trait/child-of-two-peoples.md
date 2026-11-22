@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-elf](ref/race/half-elf), [Half-orc](ref/race/half-orc), or
 [Human](ref/race/human)
 

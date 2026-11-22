@@ -31,8 +31,6 @@ abilities = ["47", "24", "30", "31", "22", "29"]
 _This immense worm resembles a gigantic maggot with pale flesh. Its mouth is peeled back to reveal
 four long, hook-like jaws._
 
-**Conqueror Worm**
-
 **Challenge rating:** 21
 
 **Type:** aberration

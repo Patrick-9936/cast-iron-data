@@ -17,8 +17,6 @@ page = "51"
 kind = "none"
 +++
 
-**Venkelvore**
-
 **Sub:** Most Glorious Neverfull
 
 ### Details

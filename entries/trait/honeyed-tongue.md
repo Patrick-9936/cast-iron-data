@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Amanandar
 
 **Flavor:** Having matured in the melting pot of New Oppara, you know the customs of the Tian-Shus

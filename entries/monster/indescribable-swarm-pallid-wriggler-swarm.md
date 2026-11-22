@@ -30,8 +30,6 @@ abilities = ["3", "15", "11", "2", "14", "4"]
 _These writhing, many-winged worms have no heads other than pairs of large nostrils that make a
 constant, droning snorting._
 
-**Pallid Wriggler Swarm**
-
 **Challenge rating:** 2
 
 **Type:** aberration

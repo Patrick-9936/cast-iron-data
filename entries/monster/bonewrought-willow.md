@@ -31,8 +31,6 @@ abilities = ["19", "10", "14", "5", "12", "17"]
 _This weeping willow tree has a pale and mottled trunk that is contorted into twisted and torturous
 forms, and long branches made of bones and fibrous fronds._
 
-**Bonewrought Willow**
-
 **Challenge rating:** 3
 
 **Initiative:** +0

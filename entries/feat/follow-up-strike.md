@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/improved-disarm", "
 benefit = "Whenever you succeed at a combat maneuver check to disarm an opponent, you can spend a swift action to make an unarmed strike attack at your highest base attack bonus against the target you disarmed."
 +++
 
-## Follow-Up Strike (Combat)
-
 You bat away an opponent's weapon, creating an opening for a punch or kick.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Disarm](ref/feat/improved-disarm),

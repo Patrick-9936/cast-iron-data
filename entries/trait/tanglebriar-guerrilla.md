@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kyonin
 
 **Flavor:** Your campaign against [Treerazer](ref/monster/treerazer) has endeared you to Kyonin's

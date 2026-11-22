@@ -18,8 +18,6 @@ prerequisites = "Arcing Weapon."
 prerequisite_feats = ["ref/feat/arcing-weapon"]
 +++
 
-## Explosive Weapon (Combat)
-
 You can channel magical power through your weapon to devastating effect.\
 **Prerequisites:** [Arcing Weapon](ref/feat/arcing-weapon).
 

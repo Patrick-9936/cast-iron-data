@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Curse of the Crimson Throne
 
 **Flavor:** No crime is too despicable for Gaedren Lamm and his thugs - a gang of lowlife murderers,

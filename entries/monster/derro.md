@@ -32,8 +32,6 @@ abilities = ["11", "15", "18", "10", "5", "16"]
 _This pale blue humanoid has bulging white eyes, wild hair, four-fingered hands, and a large hooked
 club._
 
-**Derro**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

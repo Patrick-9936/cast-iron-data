@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Cone of Cold Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 11

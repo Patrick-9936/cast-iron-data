@@ -33,8 +33,6 @@ abilities = ["35", "19", "29", "10", "26", "16"]
 _This enormous, bestial demon combines the worst aspects of a bear, a mantis, a wolf, and a
 reptilian humanoid._
 
-**Shemhazian**
-
 **Challenge rating:** 16
 
 **Alignment:** Chaotic evil

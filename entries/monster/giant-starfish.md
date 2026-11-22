@@ -31,8 +31,6 @@ abilities = ["20", "13", "20", "-", "11", "3"]
 _This bright orange creature has seven arms radiating from its core and is covered with thick,
 ridged hide._
 
-**Giant Starfish**
-
 **Challenge rating:** 8
 
 **Initiative:** +1

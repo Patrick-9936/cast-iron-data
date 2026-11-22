@@ -20,8 +20,6 @@ benefit = "Whenever you confirm a critical hit, you can also affect the target a
 special = "You can apply the effects of only one critical feat to a given critical hit unless you possess Critical Mastery."
 +++
 
-## Dirty Critical Hit (Combat, Critical)
-
 Your blows are not only deadly, but debilitating as well.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Critical Focus](ref/feat/critical-focus), [Improved Dirty Trick](ref/feat/improved-dirty-trick),

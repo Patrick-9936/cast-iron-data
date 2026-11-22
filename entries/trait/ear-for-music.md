@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Shelyn](ref/faith/shelyn)
 
 **Flavor:** You spent countless hours of your youth in one of Shelyn's temples, listening to

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have resisted or escaped the temptations of a disguised [hag](ref/family/hag), and
 you learned much from your encounter.
 

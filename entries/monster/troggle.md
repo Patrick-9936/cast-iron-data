@@ -31,8 +31,6 @@ abilities = ["20", "13", "14", "5", "10", "5"]
 _This leathery creature has a lanky, ogre-like shape, but walks on all fours. Its claws, teeth,
 tail, and gait give it a degenerate, bestial appearance._
 
-**Troggle**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

@@ -31,8 +31,6 @@ abilities = ["32", "20", "25", "15", "20", "17"]
 
 _This oversized humanoid is dressed in tattered rags that don't quite cover its diseased body._
 
-**Plague Giant**
-
 **Challenge rating:** 14
 
 **Size:** huge

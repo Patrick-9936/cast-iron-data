@@ -28,8 +28,6 @@ special_qualities = "armor training 1"
 abilities = ["25", "16", "27", "4", "11", "6"]
 +++
 
-**Troll Ripper**
-
 **Challenge rating:** 8
 
 **Troll [fighter](ref/class/fighter) 3**

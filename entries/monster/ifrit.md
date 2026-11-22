@@ -30,8 +30,6 @@ abilities = ["10", "16", "12", "13", "6", "17"]
 
 _This muscular, fiery-skinned man has flaming hair and spotted horns upon his brow._
 
-**Ifrit**
-
 **Challenge rating:** 1/2
 
 **Ifrit [sorcerer](ref/class/sorcerer) 1**

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** wasteland
 
 **Flavor:** You were robbed by giants or nearly killed by a giant's prank, and the experience gave

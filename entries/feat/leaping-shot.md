@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/amateur-gunslinger", "ref/feat/dodge", "ref/feat
 benefit = "You gain a +2 bonus on Acrobatics checks made to jump. As a full-round action, you can move up to your speed and make firearm attacks at your highest base attack bonus with each loaded firearm you are wielding. You can make these attacks at any point during your movement, and if you are wielding two firearms, you can make the attacks at different points during the movement. At the end of this movement, you fall prone. This deed costs 1 grit point to perform."
 +++
 
-## Leaping Shot (Grit)
-
 You leap through the air, guns blazing.\
 **Prerequisites:** Dex 13, grit class feature or [Amateur Gunslinger](ref/feat/amateur-gunslinger)
 feat, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility), base attack bonus +4.\

@@ -32,8 +32,6 @@ abilities = ["14", "20", "15", "8", "11", "11"]
 _The acrid smell of brimstone wafts from this small creature, which has mottled red skin and a
 wicked grin on its foul, warped face._
 
-**Hellfire Ignis**
-
 **Challenge rating:** 3
 
 **Type:** fey

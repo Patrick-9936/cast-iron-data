@@ -30,8 +30,6 @@ abilities = ["21", "15", "-", "6", "12", "14"]
 _This feral, black-furred creature combines the features of a wolf and those of a horse, with a
 fanged muzzle and glowing red eyes._
 
-**Vukodlak**
-
 **Challenge rating:** 3
 
 **aura:** [unnatural aura](ref/umr/unnatural-aura)

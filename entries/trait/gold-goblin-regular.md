@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Riddleport
 
 **Flavor:** You're a frequent customer at the Gold Goblin Gambling Hall and enjoy some popularity

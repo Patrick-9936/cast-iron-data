@@ -29,8 +29,6 @@ abilities = ["15", "25", "21", "16", "14", "18"]
 
 _Eight tentacles ending in claws grow from the base of this glistening and gruesome floating brain._
 
-**Egophage**
-
 **Challenge rating:** 10
 
 **Type:** aberration

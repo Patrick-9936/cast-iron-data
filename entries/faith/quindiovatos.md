@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Quindiovatos**
-
 **Sub:** The Vicious Guest
 
 ### Details

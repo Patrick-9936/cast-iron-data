@@ -30,8 +30,6 @@ _This four-legged creature has the tusked jaw, broad shoulders, and bristled bac
 large eyes with cross-shaped irises. A pair of short, bony protrusions mark its forehead, as though
 its horns had broken off in battle._
 
-**Burstigeit**
-
 **Challenge rating:** 3
 
 **Initiative:** +2

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Arqueros](ref/faith/arqueros)
 
 **Flavor:** The Golden Bulwark inspires you to give your all for those you protect.

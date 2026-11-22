@@ -30,8 +30,6 @@ abilities = ["23", "29", "22", "15", "12", "15"]
 _This shuddering blot of living tar is surrounded by a mass of writhing tendrils, and its maw opens
 into a dark gullet._
 
-**Formless Spawn**
-
 **Challenge rating:** 10
 
 **aura:** tendrils (20 ft.)

@@ -14,8 +14,6 @@ page = "17"
 kind = "none"
 +++
 
-**Fey-Touched Creature**
-
 **Challenge rating:** +0 or +1
 
 **Inherited:** present

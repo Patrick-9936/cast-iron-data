@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your connection with a malignant force has granted you great power.
 
 **Benefit:** Choose a domain granted by an evil aligned deity, such as an archdevil, demon lord, or

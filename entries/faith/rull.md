@@ -17,8 +17,6 @@ page = "29"
 kind = "none"
 +++
 
-**Rull**
-
 **Sub:** The Thunderer
 
 ### Details

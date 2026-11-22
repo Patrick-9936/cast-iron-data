@@ -34,8 +34,6 @@ abilities = ["34", "15", "-", "14", "13", "1"]
 
 _The tip of this towering, scorpion-like construct's tail thrums with otherworldly energy._
 
-**Annihilator Robot**
-
 **Challenge rating:** 16
 
 **Type:** construct

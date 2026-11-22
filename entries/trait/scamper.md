@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Ratfolk](ref/race/ratfolk)
 
 **Flavor:** In desperate times, your adrenaline kicks in to help you avoid danger.

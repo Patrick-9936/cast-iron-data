@@ -30,8 +30,6 @@ abilities = ["19", "28", "20", "17", "18", "23"]
 _This figure would be the picture of elegance and refinement were it not for its grotesque fly head
 and shivering insectile wings._
 
-**Coloxus**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

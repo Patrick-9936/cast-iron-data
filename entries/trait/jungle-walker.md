@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mwangi Expanse
 
 **Flavor:** You have learned how to navigate the darkest jungles of the Mwangi Expanse, and how to

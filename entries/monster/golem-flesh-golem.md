@@ -33,8 +33,6 @@ abilities = ["20", "9", "-", "-", "11", "1"]
 _A hideous monstrosity crafted from body parts stitched together with thick string, wire, and metal
 staples lurches to horrific life._
 
-**Flesh Golem**
-
 **Challenge rating:** 7
 
 **Type:** construct

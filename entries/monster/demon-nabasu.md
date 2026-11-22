@@ -30,8 +30,6 @@ abilities = ["22", "17", "22", "15", "16", "19"]
 _This lanky fiend's mouth is filled with sharp fangs, while great bat-like wings stretch from its
 scaly hide._
 
-**Nabasu**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Azlanti
 
 **Flavor:** You were trained in the style of Azlanti architecture and craft.

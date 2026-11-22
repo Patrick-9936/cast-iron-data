@@ -31,8 +31,6 @@ abilities = ["20", "17", "15", "12", "13", "12"]
 
 _This thick-bodied, white-furred bugbear wears bearskins and carries an axe made of ice and bone._
 
-**Wikkawak**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

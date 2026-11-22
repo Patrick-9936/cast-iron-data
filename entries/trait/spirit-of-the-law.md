@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have seen the rules of society endlessly twisted in their implementation, and as
 such, you are especially wary of those who exploit the law to impose their own will.
 

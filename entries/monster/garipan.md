@@ -30,8 +30,6 @@ abilities = ["16", "15", "18", "13", "14", "13"]
 _Bat-like wings stretch behind this stone-faced creature with a wide, wild grin and fierce red eyes.
 The molten core in the creature's torso glows through rugged cracks in its dark stone skin._
 
-**Garipan**
-
 **Challenge rating:** 10
 
 **Initiative:** +2

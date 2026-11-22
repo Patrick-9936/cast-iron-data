@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Jade Regent
 
 **Flavor:** Everyone in town seems to admire Ameiko and Shalelu - they're heroes, after all, and

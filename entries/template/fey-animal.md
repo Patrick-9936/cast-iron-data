@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Fey Animal**
-
 **Acquired:** present
 
 **Challenge rating:** +1

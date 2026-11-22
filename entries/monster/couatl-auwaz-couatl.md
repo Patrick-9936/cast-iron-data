@@ -32,8 +32,6 @@ abilities = ["16", "18", "17", "15", "15", "16"]
 _This winged serpent is covered with bright blue-and-green feathers that are reminiscent of ocean
 waters._
 
-**Auwaz Couatl**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic good

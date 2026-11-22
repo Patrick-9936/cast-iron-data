@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mwangi Expanse
 
 **Flavor:** You're a child of the wild, living on your own without need of others.

@@ -17,8 +17,6 @@ page = "18"
 kind = "none"
 +++
 
-**Lymnieris**
-
 **Sub:** The Auroral Tower
 
 ### Details

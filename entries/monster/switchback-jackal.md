@@ -30,8 +30,6 @@ abilities = ["11", "15", "16", "2", "15", "6"]
 _Resembling a small, half-starved wolf, this canine stares with deep intensity and undeniable
 hunger._
 
-**Switchback Jackal**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

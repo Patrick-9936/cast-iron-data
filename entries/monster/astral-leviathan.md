@@ -31,8 +31,6 @@ abilities = ["35", "14", "31", "6", "15", "14"]
 _Above this brobdingnagian, whale-like creature's cavernous maw of freakish teeth, multiple eyes
 peer out in different directions._
 
-**Astral Leviathan**
-
 **Challenge rating:** 18
 
 **blindsight:** 180

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Duergar](ref/race/duergar)
 
 **Benefit:** You were instructed in the subtle magic of enslaving vermin, and can train mindless

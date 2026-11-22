@@ -30,8 +30,6 @@ abilities = ["20", "21", "24", "15", "18", "23"]
 
 _This beautiful woman has flesh made of lava. She soars through the sky on a trail of fire._
 
-**Brijidine**
-
 **Challenge rating:** 17
 
 **aura:** flaming body, holy aura

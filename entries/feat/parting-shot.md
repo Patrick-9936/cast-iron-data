@@ -24,8 +24,6 @@ normal = "You cannot attack when using the withdraw action."
 special = "Starting at 6th level, a ranger with the archery combat style may select Parting Shot as a combat style feat."
 +++
 
-## Parting Shot (Combat)
-
 You are an expert skirmisher, able to rain missiles upon your enemies whether advancing or
 retreating.\
 **Prerequisites:** Dex 13, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility),

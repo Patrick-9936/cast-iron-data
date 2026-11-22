@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Angradd](ref/faith/angradd)
 
 **Flavor:** A dwarven warrior's simple act of courage in Angradd's name inspired you during one of

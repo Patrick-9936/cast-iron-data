@@ -31,8 +31,6 @@ abilities = ["23", "19", "18", "14", "15", "16"]
 _This being resembles a powerful giant with hairless blue-green skin, deep blue eyes, flamboyant
 eyebrows, and pearlescent teeth._
 
-**Marid**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic neutral

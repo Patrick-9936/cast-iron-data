@@ -31,8 +31,6 @@ abilities = ["30", "14", "21", "2", "11", "11"]
 _This giant armored snake has large fangs, dripping with venom that hisses when it spatters on the
 ground._
 
-**Seps**
-
 **Challenge rating:** 11
 
 **Size:** huge

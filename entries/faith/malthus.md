@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Malthus**
-
 **Sub:** The Five-Beaked
 
 ### Details

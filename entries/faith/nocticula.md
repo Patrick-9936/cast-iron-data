@@ -20,8 +20,6 @@ page = "21"
 kind = "none"
 +++
 
-**Nocticula**
-
 **Sub:** Our Lady in Shadow
 
 **Monster Link** [Nocticula](ref/monster/demon-lord-nocticula)

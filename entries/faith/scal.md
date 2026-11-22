@@ -14,8 +14,6 @@ page = "73"
 kind = "none"
 +++
 
-**Scal**
-
 **Sub:** Calm after the Storm
 
 ### Details

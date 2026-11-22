@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You share an affinity with elemental water.
 
 **Benefit:** You gain DR 1/- against creatures and attacks with the water type.

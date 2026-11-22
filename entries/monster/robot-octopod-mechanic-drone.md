@@ -32,8 +32,6 @@ abilities = ["22", "16", "-", "15", "5", "5"]
 
 _This octopus-like robot has eight tentacles that it uses to repair multiple machines at a time._
 
-**Octopod Mechanic Drone**
-
 **Challenge rating:** 13
 
 **aura:** crew boss (30 ft.)

@@ -31,8 +31,6 @@ abilities = ["-", "23", "-", "17", "21", "24"]
 _A malevolent face emerges from within this roiling mass of ghostly fire. Several smaller faces
 writhe within the flames._
 
-**Pyrogeist**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic evil

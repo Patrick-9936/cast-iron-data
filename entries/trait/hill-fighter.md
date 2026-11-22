@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Region:** Sargava
 
 **Flavor:** You are used to fighting in [hilly environments](ref/rule/hills-terrain).

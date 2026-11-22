@@ -14,8 +14,6 @@ page = "61"
 kind = "none"
 +++
 
-**Silverblood Lycanthrope**
-
 **Acquired:** present
 
 **Challenge rating:** +2

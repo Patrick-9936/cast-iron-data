@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Bubonic plague"
 source_ids = ["pathfinder-31-stolen-land"]
 parent = "ref/monster/drekavac"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "drekavac|affliction:bubonic-plague", path = "json/monsters07.json" },
 ]

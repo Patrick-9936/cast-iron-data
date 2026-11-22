@@ -32,8 +32,6 @@ abilities = ["29", "32", "40", "28", "25", "37"]
 
 _This crimson-haired demonic woman has wings of fire. She carries a slender bow made of flames._
 
-**Shamira**
-
 **Challenge rating:** 25
 
 **aura:** unholy aura (DC 31)

@@ -20,8 +20,6 @@ page = "26"
 kind = "none"
 +++
 
-**Urxehl**
-
 **Sub:** Trollfather
 
 ### Details

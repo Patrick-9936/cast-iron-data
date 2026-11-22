@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Varisian
 
 **Flavor:** All your life you've been drawn to the mysteries surrounding your family's harrow deck.

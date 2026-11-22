@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Anuli
 
 **Benefit:** Your upbringing focused on strengthening mind and body in equal measure. Once per day,

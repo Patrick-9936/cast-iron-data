@@ -32,8 +32,6 @@ abilities = ["27", "17", "-", "18", "16", "21"]
 _What was once a woman now towers as a monstrosity of ectoplasmic flesh, horns, and a tremendous
 scythe-like claw._
 
-**Daughter of Urgathoa**
-
 **Challenge rating:** 8
 
 **aura:** desecrate (20-ft. radius)

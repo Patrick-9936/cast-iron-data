@@ -29,8 +29,6 @@ abilities = ["28", "21", "20", "13", "16", "17"]
 _This creature's massive, serpentine body is covered in dark purple scales. Its humanoid head has a
 wide mouth filled with fangs._
 
-**Deep Naga**
-
 **Challenge rating:** 12
 
 **Type:** aberration

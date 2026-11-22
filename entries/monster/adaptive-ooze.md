@@ -28,8 +28,6 @@ abilities = ["28", "1", "18", "-", "1", "1"]
 
 _The color and texture of this massive, metallic ooze shift whenever it touches something._
 
-**Adaptive Ooze**
-
 **Challenge rating:** 7
 
 **blindsight:** 60

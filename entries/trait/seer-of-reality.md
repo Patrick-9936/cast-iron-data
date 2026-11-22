@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Irori](ref/faith/irori)
 
 **Flavor:** You have a deep understanding of the world around you, and thus you are more perceptive

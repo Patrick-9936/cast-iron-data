@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Seaside rot"
 source_ids = ["bestiary-4", "isles-of-the-shackles"]
 parent = "ref/monster/gholdako"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "gholdako|affliction:seaside-rot", path = "json/monsters11.json" },
 ]

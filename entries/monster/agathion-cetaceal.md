@@ -31,8 +31,6 @@ abilities = ["29", "19", "24", "14", "18", "17"]
 _This mermaid-like creature has the torso and head of a long-haired woman and the lower half of a
 sleek killer whale._
 
-**Cetaceal**
-
 **Challenge rating:** 15
 
 **aura:** protective aura (20 ft.)

@@ -31,8 +31,6 @@ abilities = ["13", "16", "14", "11", "17", "14"]
 _This diminutive humanoid looks like a truly ancient but proud old warrior. A tiny tree branch juts
 from the top of his head._
 
-**Fukujin**
-
 **Challenge rating:** 3
 
 **aura:** aura of luck (15 ft.)

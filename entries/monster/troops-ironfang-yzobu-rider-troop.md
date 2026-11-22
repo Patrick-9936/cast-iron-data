@@ -30,8 +30,6 @@ abilities = ["30", "21", "26", "13", "10", "15"]
 
 _These hobgoblin knights ride atop brutish stinking yaks that paw the ground angrily._
 
-**Ironfang Yzobu Rider Troop**
-
 **Challenge rating:** 18
 
 **aura:** [stench](ref/umr/stench) (DC 30, 10 rounds)

@@ -31,8 +31,6 @@ abilities = ["18", "15", "16", "9", "13", "14"]
 _This monster resembles a gigantic, writhing grub, its translucent flesh rippling disgustingly. It
 has four elongated tentacles and a toothy maw._
 
-**Telgrodradt**
-
 **Challenge rating:** 6
 
 **Type:** aberration

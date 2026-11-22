@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Benefit:** You can select a magnetic compass for your _arcane bond_ class feature; this compass is
 nonmagical, but you can later spend 250 gp to upgrade it into a
 [wayfinder](ref/magic-wondrous/wayfinder). Choosing this trait allows you to upgrade this wayfinder

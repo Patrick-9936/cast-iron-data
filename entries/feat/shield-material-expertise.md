@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/shield-focus"]
 benefit = "When wielding a shield made of one of the materials listed below, you can use the listed ability twice per day."
 +++
 
-## Shield Material Expertise (Combat, Shield Mastery)
-
 You emphasize and exploit the potential of the special material from which your shield is made.\
 **Prerequisites:** [Shield Focus](ref/feat/shield-focus), base attack bonus +6 or fighter level 4th.\
 **Benefit:** When wielding a shield made of one of the materials listed below, you can use the

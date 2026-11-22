@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/awesome-throw", "ref/feat/greater-bull-rush", "r
 benefit = "When you make an awesome throw combat maneuver, for every 5 by which your combat maneuver check exceeds the target's CMD, you send the target flying 5 additional feet. Furthermore, this movement provokes attacks of opportunity from your allies."
 +++
 
-## Improved Awesome Throw (Combat)
-
 When you perform an awesome throw, you knock opponents back farther.\
 **Prerequisites:** Str 25, [Awesome Throw](ref/feat/awesome-throw),
 [Greater Bull Rush](ref/feat/greater-bull-rush), [Throw Anything](ref/feat/throw-anything) or

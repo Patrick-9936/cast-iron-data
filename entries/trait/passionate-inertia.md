@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your passions drive your thinking so irresistibly that even magic struggles to change
 your mind.
 

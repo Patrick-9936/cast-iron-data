@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You witnessed the training of [Red Mantis](ref/rule/aff-assassins) assassins, either as
 a child on Mediogalti Island or as an aspirant, and learned to leave bleeding wounds.
 

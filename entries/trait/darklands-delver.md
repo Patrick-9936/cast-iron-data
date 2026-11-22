@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darklands beneath Tian Xia
 
 **Flavor:** You are familiar with the byways and passages of Tian Xia's underworld.

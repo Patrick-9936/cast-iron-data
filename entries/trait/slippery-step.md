@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Undine](ref/race/undine)
 
 **Flavor:** You are used to walking on wet and slippery surfaces.

@@ -20,8 +20,6 @@ page = "73"
 kind = "none"
 +++
 
-**Ashava**
-
 **Sub:** True Spark
 
 **Monster Link** [Ashava](ref/monster/empyreal-lord-ashava)

@@ -29,8 +29,6 @@ abilities = ["18", "15", "16", "10", "13", "13"]
 _This magnificient horse has great bird-like wings upon its back and moves with a quiet and proud
 grace._
 
-**Pegasus**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic good

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You discovered at an early age that someone you trusted, perhaps an older sibling or a
 parent, had lied to you, and lied often, about something you had taken for granted, leaving you
 quick to question the claims of others.

@@ -31,8 +31,6 @@ abilities = ["28", "16", "-", "20", "21", "27"]
 _This construct is covered with elaborate markings. Its arms end in tremendous hooks, and the core
 in its head glows with light._
 
-**Master Automaton**
-
 **Challenge rating:** 20
 
 **Type:** construct

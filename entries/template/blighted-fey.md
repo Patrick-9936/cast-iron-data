@@ -14,8 +14,6 @@ page = "46"
 kind = "none"
 +++
 
-**Blighted Fey**
-
 **Acquired:** present
 
 **Challenge rating:** +2

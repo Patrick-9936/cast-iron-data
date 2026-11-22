@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Garundi
 
 **Flavor:** You have lived in many cities dotting the northern coastline of Garundi, and after you

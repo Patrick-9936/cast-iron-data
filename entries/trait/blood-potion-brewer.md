@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Belkzen
 
 **Flavor:** The orcs of Belkzen routinely mix the blood of their enemies with potions they brew to

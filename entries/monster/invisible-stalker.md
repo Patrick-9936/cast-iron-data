@@ -31,8 +31,6 @@ abilities = ["18", "19", "22", "14", "15", "11"]
 _No true form can be detected, yet a sense of force and hulking malevolence is undeniable in this
 creature's presence._
 
-**Invisible Stalker**
-
 **Challenge rating:** 7
 
 **Initiative:** +8

@@ -32,8 +32,6 @@ abilities = ["15", "19", "18", "12", "15", "16"]
 _This humanoid creature has a fearsome mien, with a cruel red face, glaring yellow eyes, a
 prodigious nose, and large raven-like wings._
 
-**Yamabushi Tengu**
-
 **Challenge rating:** 5
 
 **Initiative:** +8

@@ -30,8 +30,6 @@ abilities = ["35", "16", "23", "12", "17", "24"]
 _This humanoid is mostly hidden behind plates of elaborate golden armor, the spaces in between
 revealing flesh of black stone._
 
-**Marut**
-
 **Challenge rating:** 15
 
 **Initiative:** +3

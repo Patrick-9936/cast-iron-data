@@ -29,8 +29,6 @@ abilities = ["25", "13", "21", "2", "12", "10"]
 _Spittle drips from this feral bear's roaring maw, and its matted fur is broken in places by wicked,
 bony growths._
 
-**Dire Bear (Cave Bear)**
-
 **Challenge rating:** 7
 
 **Type:** animal

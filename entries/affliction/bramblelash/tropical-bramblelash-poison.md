@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Tropical bramblelash poison"
 source_ids = ["pathfinder-115-trail-of-the-hunted"]
 parent = "ref/monster/bramblelash"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "bramblelash|affliction:tropical-bramblelash-poison", path = "json/monsters04.json" },
 ]

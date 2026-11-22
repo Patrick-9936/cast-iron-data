@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Irrisen
 
 **Benefit:** Once per day as an **immediate action** when you cast a spell of the healing subschool

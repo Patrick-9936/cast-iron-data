@@ -34,8 +34,6 @@ abilities = ["21", "19", "16", "21", "20", "20"]
 _As this lithe humanoid moves, its flesh shimmers and wavers, temporarily breaking apart into motes
 of shimmering light._
 
-**Axiomite**
-
 **Challenge rating:** 8
 
 **Initiative:** +8

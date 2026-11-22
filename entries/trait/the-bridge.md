@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 12 Pharast and 18 Gozran
 
 **Flavor:** The Bridge spans the rushing waters that separate the darkness of winter from the warmth

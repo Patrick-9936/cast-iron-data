@@ -30,8 +30,6 @@ abilities = ["19", "17", "-", "12", "16", "19"]
 _This disembodied female torso flaps through the air on bat-like wings, her fanged face a hateful
 mask._
 
-**Manananggal**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

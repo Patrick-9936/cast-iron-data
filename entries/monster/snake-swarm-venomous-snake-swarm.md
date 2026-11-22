@@ -33,8 +33,6 @@ abilities = ["9", "16", "17", "1", "12", "2"]
 _Venomous snakes slither and crawl over each other in a furious mass, their poison-dripping fangs
 glinting in the light._
 
-**Venomous Snake Swarm**
-
 **Challenge rating:** 4
 
 **Type:** animal

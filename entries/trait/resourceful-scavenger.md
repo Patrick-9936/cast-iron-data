@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Numeria
 
 **Flavor:** Living in Numeria required you to become an expert scavenger, searching through ruins

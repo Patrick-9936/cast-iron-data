@@ -31,8 +31,6 @@ abilities = ["6", "13", "12", "15", "10", "11"]
 _This small blue beetle stands upright on its hindmost legs and wears a bandolier full of tools and
 pouches._
 
-**Bulabar**
-
 **Challenge rating:** 1
 
 **Type:** fey

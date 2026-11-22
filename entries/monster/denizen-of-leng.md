@@ -33,8 +33,6 @@ abilities = ["14", "18", "19", "18", "17", "21"]
 _Shrouded in tattered leather robes, this strange humanoid looks more alien and horrific the more
 one studies its twitching visage._
 
-**Denizen of Leng**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

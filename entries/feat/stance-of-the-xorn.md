@@ -19,8 +19,6 @@ benefit = "Flanking creatures do not gain a +2 bonus to attack you (this does no
 normal = "Flanking opponents gain a +2 flanking bonus to hit."
 +++
 
-## Stance of the Xorn (Combat)
-
 You have heightened awareness of enemies on all sides.\
 **Prerequisites:** Wis 15, base attack bonus +3.\
 **Benefit:** [Flanking](ref/rule/flanking) creatures do not gain a +2 bonus to attack you (this does

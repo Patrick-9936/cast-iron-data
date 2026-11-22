@@ -31,8 +31,6 @@ abilities = ["10", "14", "12", "14", "24", "15"]
 
 _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless._
 
-**Drow Matron**
-
 **Challenge rating:** 15
 
 **Drow noble [cleric](ref/class/cleric) ([demonic apostle](ref/arc-cleric/demonic-apostle)) 15**

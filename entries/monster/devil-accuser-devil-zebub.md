@@ -31,8 +31,6 @@ abilities = ["11", "18", "14", "9", "15", "12"]
 _This childlike blasphemy conjoins the features of a plump human infant and a gigantic,
 gore-fattened fly._
 
-**Accuser Devil (Zebub)**
-
 **Challenge rating:** 3
 
 **Initiative:** +8

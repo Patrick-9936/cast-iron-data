@@ -29,8 +29,6 @@ abilities = ["27", "12", "16", "-", "10", "1"]
 _This glossy beetle is the size of a cow, and has a hard, blue-black carapace spattered with dust
 and dung._
 
-**Giant Scarab**
-
 **Challenge rating:** 6
 
 **Initiative:** +1

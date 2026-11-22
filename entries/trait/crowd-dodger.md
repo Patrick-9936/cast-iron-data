@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You spent much of your youth on crowded streets, dodging quickly around and under
 others.
 

@@ -31,8 +31,6 @@ abilities = ["18", "15", "15", "10", "17", "14"]
 _This squat figure seems to be a clockwork approximation of a dwarf, crafted from dark bronze or a
 strange steel alloy. Its eyes glow with a piercing white light._
 
-**Kastamut**
-
 **Challenge rating:** 6
 
 **Initiative:** +6

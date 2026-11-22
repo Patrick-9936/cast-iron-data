@@ -29,8 +29,6 @@ abilities = ["8", "15", "12", "13", "12", "15"]
 
 _This small, blue-gray humanoid has glowing eyes and huge ears on its round, oversized head._
 
-**Hobkins**
-
 **Challenge rating:** 1/2
 
 **Type:** fey

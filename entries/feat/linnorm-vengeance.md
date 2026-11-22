@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-unarmed-strike", "ref/feat/linnorm-styl
 benefit = "While you're using the Linnorm Style feat and an enemy hits you with a melee attack, you gain a +2 bonus on unarmed strike attack rolls you make against that creature until the beginning of that creature's next turn. If a creature's melee attack would normally miss you, you can allow it to hit you to gain this bonus; the attack deals the minimum amount of damage (as though the attacker had rolled a natural 1 on each damage die)."
 +++
 
-## Linnorm Vengeance (Combat)
-
 Your rigorous training allows you to redirect some of the energy from blows you take, turning your
 enemies' strength against them. Even death can't stop you from having your revenge.\
 **Prerequisites:** Wis 13, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),

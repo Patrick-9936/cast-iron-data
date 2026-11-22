@@ -31,8 +31,6 @@ abilities = ["19", "14", "19", "15", "16", "17"]
 _This withered, decrepit dwarf has crumbling skin and wears ancient leather armor but moves with
 eerie agility._
 
-**Relictner**
-
 **Challenge rating:** 12
 
 **aura:** weathering aura (60 ft.)

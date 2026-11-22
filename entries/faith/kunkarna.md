@@ -14,8 +14,6 @@ page = "130"
 kind = "none"
 +++
 
-**Kunkarna**
-
 **Sub:** The Dream Warrior
 
 ### Details

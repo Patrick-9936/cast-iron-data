@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Hwanggot
 
 **Flavor:** You grew up in Hwanggot, and your artistic talents were cherished and honed from an

@@ -31,8 +31,6 @@ abilities = ["15", "14", "13", "1", "12", "2"]
 _A proud fin flares along the spine of this large, sleek fish, its head coming to a spear-like
 point._
 
-**Swordfish**
-
 **Challenge rating:** 2
 
 **Type:** animal

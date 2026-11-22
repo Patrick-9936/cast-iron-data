@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/bludgeoner", "ref/feat/cudgeler-style", "ref/fea
 benefit = "When you hit with a charge attack using the Cudgeler Style feat, your weapon deals damage as though it were one size category larger for 1 round or until it leaves your hand. When you successfully trip an opponent with the Cudgeler Sweep feat, your opponent must succeed at a Fortitude save (DC = 10 + your character level + your Strength modifier) or be stunned for 1 round."
 +++
 
-## Cudgeler Takedown (Combat)
-
 Opponents you batter to the ground stay down.\
 **Prerequisites:** [Bludgeoner](ref/feat/bludgeoner), [Cudgeler Style](ref/feat/cudgeler-style),
 [Cudgeler Sweep](ref/feat/cudgeler-sweep), base attack bonus +9 or monk level 9th.\

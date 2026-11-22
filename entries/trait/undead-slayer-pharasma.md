@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Pharasma](ref/faith/pharasma)
 
 **Flavor:** Instructed at a young age in the tenets of the faith of Pharasma, you view the undead as

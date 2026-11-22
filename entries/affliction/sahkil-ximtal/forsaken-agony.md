@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Forsaken Agony"
 source_ids = ["bestiary-6"]
 parent = "ref/monster/sahkil-ximtal"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "sahkil_ximtal|affliction:forsaken-agony", path = "json/monsters37.json" },
 ]

@@ -33,8 +33,6 @@ abilities = ["22", "19", "18", "10", "9", "10"]
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with
 the thrill of the coming kill._
 
-**Bugbear Gnasher**
-
 **Challenge rating:** 4
 
 **Bugbear [barbarian](ref/class/barbarian) 2**

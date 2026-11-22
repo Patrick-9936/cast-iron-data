@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Ifrit](ref/race/ifrit)
 
 **Benefit:** Whenever you damage an opponent that is casting a spell with a melee attack that deals

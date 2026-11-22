@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Pooka Dust (Su)"
 source_ids = ["bestiary-4"]
 parent = "ref/monster/pooka"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "pooka|affliction:pooka-dust-su", path = "json/monsters19.json" },
 ]

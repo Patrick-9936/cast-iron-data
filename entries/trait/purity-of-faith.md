@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Iomedae](ref/faith/iomedae)
 
 **Flavor:** Your soul is free from impurity, and you are deeply committed to fulfilling your duties

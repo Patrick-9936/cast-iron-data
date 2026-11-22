@@ -32,8 +32,6 @@ abilities = ["18", "22", "15", "14", "17", "19"]
 _This woman would be pretty if it were not for her sharp teeth and nails, and her ghastly pale
 skin._
 
-**Blood Hag**
-
 **Challenge rating:** 8
 
 **Initiative:** +10

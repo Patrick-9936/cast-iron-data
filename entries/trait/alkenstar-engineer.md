@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mana Wastes
 
 **Flavor:** Your extensive experience with firearms allows you to get the most out of those unique

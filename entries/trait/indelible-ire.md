@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** When you are gravely wounded, you're stirred to greater combat focus.
 
 **Benefit:** Each time a critical hit is confirmed against you, you gain a +1 trait bonus on attack

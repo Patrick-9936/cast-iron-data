@@ -32,8 +32,6 @@ abilities = ["19", "17", "14", "12", "14", "19"]
 
 _This woman's fox-like tail and the wood-lined hollow inside her back reveal her true fey nature._
 
-**Huldra**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

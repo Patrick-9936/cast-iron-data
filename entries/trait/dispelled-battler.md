@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** When deprived of magic, you fight harder.
 
 **Benefit:** You gain a +1 trait bonus on weapon attack and damage rolls while within an area of

@@ -31,8 +31,6 @@ abilities = ["19", "14", "-", "17", "10", "11"]
 _This insectile construct skitters around on metallic legs, its manipulators clacking and glowing
 eyes searching._
 
-**Aballonian**
-
 **Challenge rating:** 7
 
 **Type:** construct

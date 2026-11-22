@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Svarozic**
-
 **Sub:** The Face of Flame
 
 ### Details

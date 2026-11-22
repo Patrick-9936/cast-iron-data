@@ -19,8 +19,6 @@ benefit = "Choose one of your spell-like abilities, subject to the restrictions 
 special = "This feat can be taken multiple times. Each time it is taken, you can apply it to a different spell-like ability."
 +++
 
-## Fearsome Spell-Like Ability (Monster)
-
 Your [spell-like ability](ref/umr/spell-like-abilities) induces fear in affected targets.\
 **Prerequisites:** Spell-like ability at caster level 6th or higher.\
 **Benefit:** Choose one of your spell-like abilities, subject to the restrictions described in this

@@ -20,8 +20,6 @@ benefit = "On your turn, you can perform a single steal combat maneuver in place
 normal = "A steal combat maneuver is a standard action."
 +++
 
-## Quick Steal (Combat)
-
 You are adept at relieving foes of their belongings even while you strike.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Steal](ref/feat/improved-steal), base attack bonus +6.\

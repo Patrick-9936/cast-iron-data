@@ -32,8 +32,6 @@ abilities = ["8", "16", "13", "7", "12", "13"]
 
 _This tiny avian has the head of a humanoid and the body of a brilliantly colored parrot._
 
-**Mockingfey**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic neutral

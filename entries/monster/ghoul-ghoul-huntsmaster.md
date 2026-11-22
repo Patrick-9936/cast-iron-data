@@ -29,8 +29,6 @@ special_qualities = "favored terrain (underground +2), hunter's bond (animal), t
 abilities = ["15", "20", "-", "13", "16", "18"]
 +++
 
-**Ghoul Huntsmaster**
-
 **Challenge rating:** 7
 
 **Ghoul [ranger](ref/class/ranger) 6**

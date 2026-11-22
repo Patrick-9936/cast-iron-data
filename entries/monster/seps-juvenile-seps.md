@@ -30,8 +30,6 @@ abilities = ["8", "13", "14", "1", "13", "6"]
 
 _This venomous snake is heavily armored and has unusually large fangs._
 
-**Juvenile Seps**
-
 **Challenge rating:** 2
 
 **Initiative:** +5

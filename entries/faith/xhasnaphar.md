@@ -17,8 +17,6 @@ page = "119"
 kind = "none"
 +++
 
-**Xhasnaphar**
-
 **Sub:** The Faceless Truth
 
 ### Details

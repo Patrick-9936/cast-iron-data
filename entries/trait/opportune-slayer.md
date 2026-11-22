@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Lamashtu](ref/faith/lamashtu)
 
 **Flavor:** Those who open themselves to your attacks feel your wrath.

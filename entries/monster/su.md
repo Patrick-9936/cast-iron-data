@@ -31,8 +31,6 @@ abilities = ["19", "19", "16", "7", "14", "16"]
 _This emaciated quadruped has a mouth full of jagged teeth and a cluster of bald, mewling offspring
 clinging to its back._
 
-**Su**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

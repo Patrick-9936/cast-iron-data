@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dwarf](ref/race/dwarf); Pahmet
 
 **Flavor:** You have lived for a time deep inside the necropolises of the pharaohs. Your exposure to

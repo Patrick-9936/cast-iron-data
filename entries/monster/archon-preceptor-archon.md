@@ -31,8 +31,6 @@ abilities = ["22", "21", "23", "16", "18", "19"]
 _This creature resembles a [tengu](ref/race/tengu), save for its eyes' golden glow. Its immaculate
 white robes contrast starkly with its black feathers, and its willow staff sheds a pale light._
 
-**Preceptor Archon**
-
 **Challenge rating:** 9
 
 **aura:** aura of menace (DC 18)

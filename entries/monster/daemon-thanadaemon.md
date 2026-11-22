@@ -30,8 +30,6 @@ abilities = ["21", "16", "23", "17", "17", "18"]
 _Rattling with each stride, this looming, horned, skeletal figure clutches a wicked staff. A
 seething glow burns in its eye sockets._
 
-**Thanadaemon**
-
 **Challenge rating:** 13
 
 **Initiative:** +7

@@ -35,8 +35,6 @@ abilities = ["17", "25", "20", "24", "23", "22"]
 _With rust-colored skin and a jutting crown of ridge-like horns, this muscular devil is draped in
 lengthy contracts._
 
-**Contract Devil (Phistophilus)**
-
 **Challenge rating:** 10
 
 **Initiative:** +11

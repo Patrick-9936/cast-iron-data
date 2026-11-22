@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** People trust your words over their own eyes.
 
 **Benefit:** You may make a [Bluff](ref/skill/bluff) check to make observers believe that an object

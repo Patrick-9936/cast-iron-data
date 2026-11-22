@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your exposure to teaching from the [Houses of Perfection](ref/rule/aff-monasteries)
 makes your attacks with monk weapons even more deadly.
 

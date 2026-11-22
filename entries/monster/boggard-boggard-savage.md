@@ -30,8 +30,6 @@ special_qualities = "fast movement, hold breath, swamp stride"
 abilities = ["23", "11", "22", "8", "13", "8"]
 +++
 
-**Boggard Savage**
-
 **Challenge rating:** 4
 
 **Boggard [barbarian](ref/class/barbarian) 2**

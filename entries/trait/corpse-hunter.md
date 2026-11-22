@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Pharasma](ref/faith/pharasma)
 
 **Benefit:** You have dedicated yourself to the destruction of undead, and gain a +1 trait bonus on

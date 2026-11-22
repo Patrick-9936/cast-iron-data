@@ -18,8 +18,6 @@ prerequisites = "Face 10 different devils in combat and take damage or suffer so
 benefit = "Your attacks count as good-aligned for the purposes of bypassing the damage reduction of devils."
 +++
 
-## Devil's Foe (Achievement)
-
 Once you were just another helpless victim, but now even the deepest pits of Hell ring with the
 lamentations of your adversaries.\
 **Prerequisites:** Face 10 different [devils](ref/family/devil) in combat and take damage or suffer

@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Poison 1: Broken Oath"
 source_ids = ["druma-profit-and-prophecy"]
 parent = "ref/monster/daemonic-harbinger-braismois"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "daemonic_harbinger_braismois|affliction:poison-1-broken-oath", path = "json/monsters_unique.json" },
 ]

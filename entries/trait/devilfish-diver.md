@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mediogalti
 
 **Flavor:** You've swum with the [devilfish](ref/monster/devilfish) along the Mediogaltian coast.

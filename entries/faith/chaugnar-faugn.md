@@ -14,8 +14,6 @@ page = "66"
 kind = "none"
 +++
 
-**Chaugnar Faugn**
-
 **Sub:** The Horror from the Hills
 
 ### Details

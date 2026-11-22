@@ -17,8 +17,6 @@ page = "31"
 kind = "none"
 +++
 
-**Nalinivati**
-
 **Sub:** The Serpent's Kiss
 
 ### Details

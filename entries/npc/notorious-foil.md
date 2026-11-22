@@ -15,8 +15,6 @@ kind = "creature"
 cr = "16"
 +++
 
-**Notorious Foil**
-
 **Challenge rating:** 16
 
 **XP** 76,800\

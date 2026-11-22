@@ -30,8 +30,6 @@ special_qualities = "fast movement"
 abilities = ["39", "11", "28", "10", "16", "8"]
 +++
 
-**Frost Giant Raider**
-
 **Challenge rating:** 11
 
 **[Frost giant](ref/monster/giant-frost-frost-giant) [barbarian](ref/class/barbarian) 2**

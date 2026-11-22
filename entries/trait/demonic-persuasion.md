@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Demon Lords
 
 **Flavor:** Your lord's favor aids you in your interactions with demonic creatures.

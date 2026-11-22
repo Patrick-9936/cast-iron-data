@@ -31,8 +31,6 @@ abilities = ["56", "21", "45", "31", "36", "34"]
 _This towering impossibility, neither quite octopus nor dragon nor giant but something far worse,
 must surely herald the end of times._
 
-**Cthulhu**
-
 **Challenge rating:** 30
 
 **Type:** aberration

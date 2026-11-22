@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Aroden wrote much about ways to use weapons to enhance magic's effectiveness, and you
 have taken to heart the insights gleaned from his words.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You witnessed or were party to the rescue of a halfling from Chelish slavery by the
 [Bellflower Network](ref/rule/aff-antislavery) or [Eagle Knights](ref/rule/aff-vangard).
 

@@ -14,8 +14,6 @@ page = "65"
 kind = "none"
 +++
 
-**Azathoth**
-
 **Sub:** The Daemon Sultan
 
 ### Details

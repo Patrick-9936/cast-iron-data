@@ -31,8 +31,6 @@ abilities = ["6", "17", "-", "10", "15", "18"]
 _The smell of scorched flesh accompanies this small child, who appears to be made entirely of dust
 and smoldering ash._
 
-**Burning Child**
-
 **Challenge rating:** 10
 
 **aura:** elemental aura (fire, DC 17), [frightful presence](ref/umr/frightful-presence) (60 ft., DC

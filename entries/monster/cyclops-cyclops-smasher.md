@@ -33,8 +33,6 @@ abilities = ["29", "10", "23", "8", "16", "8"]
 _Massive even by cyclops standards, this imposing warrior wears the skulls of his victims and wields
 a terrible club._
 
-**Cyclops Smasher**
-
 **Challenge rating:** 9
 
 **Cyclops [barbarian](ref/class/barbarian) ([breaker](ref/arc-barbarian/breaker)) 4**

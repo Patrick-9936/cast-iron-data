@@ -31,8 +31,6 @@ abilities = ["15", "19", "18", "12", "13", "18"]
 _This lithe dancer would be beautiful were it not for her clawed hands, backward-facing head, and
 long, lolling tongue._
 
-**Amanusya**
-
 **Challenge rating:** 6
 
 **Initiative:** +4

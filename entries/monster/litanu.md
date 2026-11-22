@@ -32,8 +32,6 @@ abilities = ["27", "17", "-", "15", "16", "21"]
 _This hulking merfolk has rotting skin, dull black eyes, and four thick tentacles ending in toothy
 maws protruding from its back._
 
-**Litanu**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic evil

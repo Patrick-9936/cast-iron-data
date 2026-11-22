@@ -31,8 +31,6 @@ abilities = ["25", "18", "22", "15", "18", "19"]
 _This monster is vaguely humanoid, but stands on three legs. A foul liquid drips from the
 needle-like tips of its long, hooked arms._
 
-**Zohanil**
-
 **Challenge rating:** 10
 
 **Initiative:** +8

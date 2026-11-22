@@ -29,8 +29,6 @@ special_qualities = "favored terrain (underground +2), hunter's bond (companions
 abilities = ["16", "12", "16", "10", "15", "4"]
 +++
 
-**Duergar Lieutenant**
-
 **Challenge rating:** 5
 
 **Duergar [ranger](ref/class/ranger) 6**

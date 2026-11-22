@@ -20,8 +20,6 @@ page = "80"
 kind = "none"
 +++
 
-**Torag**
-
 **Sub:** Father of Creation
 
 ### Details

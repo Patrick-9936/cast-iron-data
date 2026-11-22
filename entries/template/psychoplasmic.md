@@ -14,8 +14,6 @@ page = "47"
 kind = "none"
 +++
 
-**Psychoplasmic**
-
 **Acquired:** present
 
 **Challenge rating:** +1

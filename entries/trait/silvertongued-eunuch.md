@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Quain
 
 **Flavor:** You were brought up as part of Quain's strictly eunuch bureaucracy, trading your sexual

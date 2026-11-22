@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Taldan
 
 **Flavor:** You grew up fighting in one of the many Taldan dueling academies and have honed your

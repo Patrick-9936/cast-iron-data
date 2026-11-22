@@ -34,8 +34,6 @@ abilities = ["31", "20", "26", "19", "24", "19"]
 _Beneath a crown of antlers, this centaur-like creature blends the upper body of a humanoid with the
 lower body of a majestic elk._
 
-**Cervinal**
-
 **Challenge rating:** 17
 
 **Initiative:** +5

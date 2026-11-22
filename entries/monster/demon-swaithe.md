@@ -30,8 +30,6 @@ abilities = ["11", "16", "14", "13", "11", "12"]
 
 _This creepy ash-gray goblin-like creature has empty eye sockets and scraggly, stained teeth._
 
-**Swaithe**
-
 **Challenge rating:** 4
 
 **blindsense:** 30

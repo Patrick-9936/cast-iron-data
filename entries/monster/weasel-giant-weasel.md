@@ -33,8 +33,6 @@ abilities = ["14", "19", "10", "2", "13", "11"]
 _The predatory nature of this wolf-sized creature is revealed by its long teeth, sleekly muscular
 body, and belligerent hiss._
 
-**Giant Weasel**
-
 **Challenge rating:** 1
 
 **Type:** animal

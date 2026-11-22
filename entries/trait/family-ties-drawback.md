@@ -12,8 +12,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Your family is extremely important to you, and you feel disheartened when you can't do
 what they ask.
 

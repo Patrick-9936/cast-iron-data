@@ -18,8 +18,6 @@ prerequisites = "Bluff 1 rank, Knowledge (religion) 1 rank, Pure Legion Recruit 
 benefit = "You gain a +2 bonus on saving throws against divine spells and effects and abilities from outsiders. If you must attempt a saving throw against a divine spell, you gain a +1 bonus on attack rolls against the creature that cast the spell"
 +++
 
-## Pure Legion Assault (Combat)
-
 The Pure Legion trained you to apply your knowledge of religions to predicting and defeating divine
 servitors.\
 **Prerequisites:** Bluff 1 rank, Knowledge (religion) 1 rank,

@@ -34,8 +34,6 @@ abilities = ["25", "11", "-", "2", "15", "2"]
 _What at first appeared to be a sadistic spiked cage writhes into unholy life, extending bladed,
 articulated arms._
 
-**Urannag**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

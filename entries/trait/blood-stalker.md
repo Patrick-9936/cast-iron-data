@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Hellspawn
 
 **Flavor:** Some infernal instinct makes it much easier for you to locate creatures whose blood you

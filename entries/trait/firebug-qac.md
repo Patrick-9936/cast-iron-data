@@ -12,8 +12,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You were the child of a gunsmith or alchemist and always enjoyed experimenting with
 fiery alchemical items and minor explosives.
 

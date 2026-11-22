@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You have a terrible fear of the public at large, a group, or an important person (such
 as your order of knights, your liege lord, your family, or your lover) learning a shameful truth
 about you.

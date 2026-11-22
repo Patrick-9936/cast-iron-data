@@ -15,8 +15,6 @@ kind = "creature"
 cr = "1/2"
 +++
 
-**Princess**
-
 **Challenge rating:** 1/2
 
 **XP** 200\

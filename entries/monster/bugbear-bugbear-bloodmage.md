@@ -32,8 +32,6 @@ abilities = ["18", "15", "16", "8", "10", "17"]
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with
 the thrill of the coming kill._
 
-**Bugbear Bloodmage**
-
 **Challenge rating:** 11
 
 **Bugbear [sorcerer](ref/class/sorcerer) 10**

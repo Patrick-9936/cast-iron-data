@@ -29,8 +29,6 @@ special_qualities = "symbiote"
 abilities = ["17", "18", "-", "10", "12", "8"]
 +++
 
-**Trench Zombie**
-
 **Challenge rating:** 6
 
 **Human [fighter](ref/class/fighter) ([trench fighter](ref/arc-fighter/trench-fighter)) 6**

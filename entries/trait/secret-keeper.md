@@ -12,8 +12,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Avoiding inquisitors and agents of your enemies has required you to become a practiced
 liar.
 

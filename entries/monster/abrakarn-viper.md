@@ -31,8 +31,6 @@ abilities = ["28", "17", "-", "-", "19", "1"]
 
 _This massive, three-headed clockwork snake is crafted of brass and strange, dark alloys._
 
-**Abrakarn Viper**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic evil

@@ -20,8 +20,6 @@ benefit = "When using Cleave or Great Cleave, if your initial attack hits, you m
 normal = "You may only make additional attacks with Cleave against creatures you threaten when you make your initial attack."
 +++
 
-## Cleave Through (Combat)
-
 You are ferocious at hewing smaller opponents.\
 **Prerequisites:** Str 13, [Cleave](ref/feat/cleave), [Power Attack](ref/feat/power-attack), base
 attack bonus +11, [dwarf](ref/race/dwarf).\

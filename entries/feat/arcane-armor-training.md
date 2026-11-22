@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/armor-proficiency-light"]
 benefit = "As a swift action, reduce the arcane spell failure chance due to the armor you are wearing by 10% for any spells you cast this round."
 +++
 
-## Arcane Armor Training (Combat)
-
 You have learned how to cast spells while wearing armor.\
 **Prerequisites:** [Light Armor Proficiency](ref/feat/armor-proficiency-light), caster level 3rd.\
 **Benefit:** As a swift action, reduce the arcane spell failure chance due to the armor you are

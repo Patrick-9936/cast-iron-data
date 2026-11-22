@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Prerequisite:** [Goblin](ref/race/goblin)
 
 **Religion:** [Zogmugot](ref/faith/zogmugot)

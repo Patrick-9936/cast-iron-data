@@ -30,8 +30,6 @@ abilities = ["26", "12", "21", "1", "12", "7"]
 
 _This elephant-sized sea creature resembles a horse crossed with a fish, with crazed whirling eyes._
 
-**Killer Seahorse**
-
 **Challenge rating:** 5
 
 **Type:** animal

@@ -14,8 +14,6 @@ page = "83"
 kind = "none"
 +++
 
-**Sivanah**
-
 **Sub:** The Seventh Veil
 
 ### Details

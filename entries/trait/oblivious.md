@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Whether because you are an avid daydreamer or you are accustomed to everything being
 handed to you and spelled out for your benefit, you pay little attention to your surroundings and
 other people.

@@ -29,8 +29,6 @@ abilities = ["30", "10", "23", "1", "13", "2"]
 
 _This fish is enormous - a sleek predator with bony scales and a long set of toothy jaws._
 
-**Giant Gar**
-
 **Challenge rating:** 6
 
 **Type:** animal

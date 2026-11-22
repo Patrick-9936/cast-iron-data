@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-meditation", "ref/feat/meditation-master"
 benefit = "You can take 10 on any skill check or concentration check, even if it is not normally allowed due to strenuous circumstances."
 +++
 
-## Perfect Center (Combat, Meditation)
-
 You can ignore almost any distraction.\
 **Prerequisites:** Wis 21, [Combat Meditation](ref/feat/combat-meditation),
 [Meditation Master](ref/feat/meditation-master), character level 17th.\

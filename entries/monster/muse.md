@@ -31,8 +31,6 @@ abilities = ["14", "27", "20", "23", "14", "29"]
 
 _This beautiful, woman moves with impossible grace, a knowing smile on her lips._
 
-**Muse**
-
 **Challenge rating:** 16
 
 **blindsight:** 120

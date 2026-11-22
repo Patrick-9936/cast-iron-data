@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Flavor:** You are not from town; you've recently come from somewhere else and are hoping to make
 your fortune here.
 

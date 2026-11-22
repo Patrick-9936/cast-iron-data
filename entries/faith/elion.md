@@ -14,8 +14,6 @@ page = "69"
 kind = "none"
 +++
 
-**Elion**
-
 **Sub:** The Farseeker
 
 ### Details

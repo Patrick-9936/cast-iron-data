@@ -30,8 +30,6 @@ special_qualities = "arcane bond (mace), armor training 1, bloodline arcana (+1 
 abilities = ["31", "15", "25", "17", "14", "20"]
 +++
 
-**Fire Giant Queen**
-
 **Challenge rating:** 19
 
 **[Fire giant](ref/monster/giant-fire-fire-giant) [fighter](ref/class/fighter)

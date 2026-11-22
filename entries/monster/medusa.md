@@ -31,8 +31,6 @@ abilities = ["10", "15", "18", "12", "13", "15"]
 _This slender, attractive woman has strangely glowing eyes and a full head of hissing snakes for
 hair._
 
-**Medusa**
-
 **Challenge rating:** 7
 
 **Initiative:** +6

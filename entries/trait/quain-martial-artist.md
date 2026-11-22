@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Quain
 
 **Flavor:** Having grown up in Quain, you were taught under various schools of martial arts, and

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** urban
 
 **Flavor:** People's faith in you tends to run deeper than their trust of others.

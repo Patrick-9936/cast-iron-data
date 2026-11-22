@@ -34,8 +34,6 @@ abilities = ["24", "23", "25", "25", "26", "24"]
 _This amphisbaenic monstrosity has the body of a slug with a leech's mouth at one end and a knot of
 three human heads at the other._
 
-**Belier Devil (Bdellavritra)**
-
 **Challenge rating:** 16
 
 **Initiative:** +10

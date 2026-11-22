@@ -34,8 +34,6 @@ abilities = ["15", "13", "14", "13", "12", "14"]
 _This red-skinned, demonic humanoid has a forked tongue, and a pair of black horns sprout from its
 brow._
 
-**Cambion**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

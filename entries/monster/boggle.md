@@ -31,8 +31,6 @@ abilities = ["16", "23", "21", "12", "8", "17"]
 
 _This small, goat-like man has curved horns, hoofed feet, and a rat-like tail._
 
-**Boggle**
-
 **Challenge rating:** 8
 
 **aura:** mindboggle (30 ft., DC 19)

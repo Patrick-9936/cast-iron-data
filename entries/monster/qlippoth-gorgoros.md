@@ -30,8 +30,6 @@ abilities = ["30", "19", "18", "15", "20", "19"]
 _Numerous writhing, coiling tails support this serpent-headed beast. Its three eyes glow a sickly
 yellow._
 
-**Gorgoros**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

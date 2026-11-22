@@ -19,8 +19,6 @@ benefit = "When you're adjacent to an ally who also has this feat at the beginni
 normal = "You can take only a standard action or a move action during a surprise round."
 +++
 
-## Ambush Squad (Combat, Teamwork)
-
 You know that the keys to victory are sudden attacks and even more sudden retreats.\
 **Prerequisites:** Base attack bonus +1, [kobold](ref/race/kobold).\
 **Benefit:** When you're adjacent to an ally who also has this feat at the beginning of a surprise

@@ -31,8 +31,6 @@ abilities = ["10", "15", "14", "10", "15", "14"]
 _This beautiful dove is as bright as the sun and the size of an eagle, surrounded by an aura of
 blazing white flames._
 
-**Yhohm**
-
 **Challenge rating:** 4
 
 **aura:** shroud of flame (10 ft., DC 14, 10 rounds)

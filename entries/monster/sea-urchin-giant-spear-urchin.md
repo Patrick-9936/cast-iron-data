@@ -32,8 +32,6 @@ special_qualities = "amphibious"
 abilities = ["23", "3", "18", "-", "11", "2"]
 +++
 
-**Spear Urchin**
-
 **Challenge rating:** 4
 
 **Initiative:** -4

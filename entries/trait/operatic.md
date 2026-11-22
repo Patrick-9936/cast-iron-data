@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Chelaxian
 
 **Flavor:** You grew up in wonder of Chelish theater, and spent countless hours in the opera houses

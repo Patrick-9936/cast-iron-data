@@ -29,8 +29,6 @@ abilities = ["8", "15", "13", "2", "15", "6"]
 _This gray-and-white feathered owl has fluffy wings and a bulky head that makes it look larger than
 most owls._
 
-**Great Horned Owl**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

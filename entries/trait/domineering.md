@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** When you were young, you attracted a group of devoted companions thanks to your
 impressive talent, and the experience inspired in you a powerful self-assurance and air of
 superiority. Your confidence is so strong that others feel naturally compelled to follow your

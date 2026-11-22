@@ -21,8 +21,6 @@ normal = "You must perform a trip combat maneuver to trip an opponent."
 special = "You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll."
 +++
 
-## Tripping Strike (Combat)
-
 The force intrinsic to your critical hits can knock your foes down.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Trip](ref/feat/improved-trip), base attack bonus +9.\

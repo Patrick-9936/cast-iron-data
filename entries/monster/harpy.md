@@ -30,8 +30,6 @@ abilities = ["12", "15", "10", "7", "12", "17"]
 _Save for the tattered wings and taloned feet, this creature resembles a feral woman with a wild
 look about her._
 
-**Harpy**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

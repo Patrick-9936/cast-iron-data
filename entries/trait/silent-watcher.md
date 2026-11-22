@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Galt
 
 **Flavor:** You can sense an ugly mood brewing in a crowd, and know how to dodge wrathful mobs when

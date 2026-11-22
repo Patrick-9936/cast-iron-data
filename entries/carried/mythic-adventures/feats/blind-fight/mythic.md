@@ -19,19 +19,7 @@ prerequisites = "Blind-Fight."
 benefit = "As a swift action, you can expend one use of mythic power to ignore all miss chances due to concealment or total concealment for a number of rounds equal to your tier."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_No creature can avoid your preternatural senses._
-
-## Prerequisites {#prerequisites}
-
-_Blind-Fight._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-As a swift action, you can expend one use of mythic power to ignore all miss chances due to
-concealment or total concealment for a number of rounds equal to your tier.
-:::
+No creature can avoid your preternatural senses.\
+**Prerequisites:** Blind-Fight.\
+**Benefit:** As a swift action, you can expend one use of mythic power to ignore all miss chances
+due to concealment or total concealment for a number of rounds equal to your tier.

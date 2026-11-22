@@ -28,8 +28,6 @@ abilities = ["11", "17", "12", "-", "10", "2"]
 
 _A spider the size of a man crawls silently from the depths of its funnel-shaped web._
 
-**Giant Spider**
-
 **Challenge rating:** 1
 
 **Initiative:** +3

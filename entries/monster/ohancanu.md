@@ -30,8 +30,6 @@ abilities = ["23", "14", "19", "7", "14", "8"]
 _This brutish, one-eyed giant carries a large, well-made axe and wears a simple tunic. He has a head
 of shaggy hair, and the lower half of his face is obscured by a bristly, dark beard._
 
-**Ohancanu**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

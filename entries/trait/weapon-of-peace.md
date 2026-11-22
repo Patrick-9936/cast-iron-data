@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Even though you are a trained combatant, proficient with any number of weapons, you
 don't relish killing your enemies. It's not that you're afraid of seeing blood, but rather that
 disabling a foe is superior to killing someone capable of admitting defeat.

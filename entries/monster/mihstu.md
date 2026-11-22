@@ -32,8 +32,6 @@ abilities = ["12", "23", "23", "14", "14", "13"]
 _A miasmal form roils as barbed tentacles emerge from the central mass, coalescing into razor-sharp
 talons and claws._
 
-**Mihstu**
-
 **Challenge rating:** 8
 
 **Initiative:** +10

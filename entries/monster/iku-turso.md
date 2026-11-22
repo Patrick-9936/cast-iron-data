@@ -32,8 +32,6 @@ abilities = ["24", "16", "19", "7", "12", "17"]
 _This grotesque, emerald-scaled creature resembles a crossbreed of an eel, a viperfish, and a clawed
 humanoid._
 
-**Iku-Turso**
-
 **Challenge rating:** 8
 
 **Type:** aberration

@@ -29,8 +29,6 @@ special_qualities = "hold breath, priest-king, swamp stride"
 abilities = ["18", "9", "16", "10", "20", "14"]
 +++
 
-**Boggard Priest-King**
-
 **Challenge rating:** 11
 
 **Boggard [cleric](ref/class/cleric) 10**

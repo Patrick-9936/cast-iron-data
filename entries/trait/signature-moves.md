@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You're known for some unique item that has become your trademark.
 
 **Benefit:** Your starting equipment includes a single masterwork item worth less than 900 gp, and

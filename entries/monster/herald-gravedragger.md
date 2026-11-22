@@ -32,8 +32,6 @@ abilities = ["20", "19", "22", "17", "16", "19"]
 _This creature's body rises from the ground in an amorphous mass of grave dirt and eroded bone. Its
 upper half is humanoid-shaped and wields an enormous pick made from a giant's rib and skull._
 
-**Gravedragger**
-
 **Challenge rating:** 15
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (30 ft., DC 22), unluck (30 ft.)

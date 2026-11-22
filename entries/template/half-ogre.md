@@ -14,8 +14,6 @@ page = "47"
 kind = "none"
 +++
 
-**Half-Ogre**
-
 **Challenge rating:** +0 or -1
 
 **Inherited:** present

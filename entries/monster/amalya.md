@@ -31,8 +31,6 @@ abilities = ["10", "21", "17", "12", "19", "20"]
 _This lithe, otherworldly woman has with deep brown eyes and dark green hair that cascades past her
 waist. She's adorned in trinkets made from a great white pine's needles and cones._
 
-**Amalya**
-
 **Challenge rating:** 6
 
 **Dryad [druid](ref/class/druid) 3**

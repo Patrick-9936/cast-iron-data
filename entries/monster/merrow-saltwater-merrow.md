@@ -29,8 +29,6 @@ special_qualities = "amphibious"
 abilities = ["25", "16", "23", "6", "10", "7"]
 +++
 
-**Saltwater Merrow**
-
 **Challenge rating:** 6
 
 **Size:** huge

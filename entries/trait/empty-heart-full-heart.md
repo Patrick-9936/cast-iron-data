@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Naderi](ref/faith/naderi)
 
 **Benefit:** Because of the aching strength of your forbidden love, you gain a +1 trait bonus on

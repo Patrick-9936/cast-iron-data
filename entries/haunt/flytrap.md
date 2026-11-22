@@ -14,8 +14,6 @@ page = "65"
 kind = "none"
 +++
 
-**Flytrap**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

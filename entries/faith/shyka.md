@@ -17,8 +17,6 @@ page = "30"
 kind = "none"
 +++
 
-**Shyka**
-
 **Sub:** The Many
 
 ### Details

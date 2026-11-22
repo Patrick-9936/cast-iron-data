@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ironfang Invasion
 
 **Flavor:** Over a decade ago, bandits took everything you valued in life and left you barely alive.

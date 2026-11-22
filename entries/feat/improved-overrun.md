@@ -20,8 +20,6 @@ benefit = "You do not provoke an attack of opportunity when performing an overru
 normal = "You provoke an attack of opportunity when performing an overrun combat maneuver."
 +++
 
-## Improved Overrun (Combat)
-
 You are skilled at running down your foes.\
 **Prerequisites:** Str 13, [Power Attack](ref/feat/power-attack), base attack bonus +1.\
 **Benefit:** You do not provoke an attack of opportunity when performing an

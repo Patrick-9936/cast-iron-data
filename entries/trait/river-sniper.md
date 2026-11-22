@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** River Kingdoms
 
 **Flavor:** Unlike seagoing pirates, you're used to fighting most of your ship-to-ship battles at

@@ -31,8 +31,6 @@ abilities = ["40", "27", "42", "22", "30", "27"]
 _This great reptilian monster is an aquatic lizard with a beard of tentacles and a sting-tipped
 tail._
 
-**Bokrug**
-
 **Challenge rating:** 27
 
 **aura:** toxic breath (30 ft., DC 41), unspeakable presence (300 ft., DC 33)

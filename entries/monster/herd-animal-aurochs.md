@@ -29,8 +29,6 @@ abilities = ["23", "10", "17", "2", "11", "4"]
 _This large, horned bull has a dirty black hide and an aggressive temper. Its horns are wide and
 sharp._
 
-**Aurochs**
-
 **Challenge rating:** 2
 
 **Type:** animal

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Suli](ref/race/suli)
 
 **Flavor:** You are sensitive to the presence of all elements, allowing you to find water,

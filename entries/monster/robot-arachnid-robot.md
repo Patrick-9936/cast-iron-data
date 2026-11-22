@@ -31,8 +31,6 @@ abilities = ["9", "13", "-", "10", "12", "1"]
 _This dog-sized, spider-like robot has a plasma torch mounted on a stinger-like limb and gripping
 claws on its forelegs._
 
-**Arachnid Robot**
-
 **Challenge rating:** 1/2
 
 **Type:** construct

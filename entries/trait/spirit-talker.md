@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Mwangi shamanistic faith
 
 **Flavor:** You are a devotee of the shamanistic practices of the Mwangi, having little use for the

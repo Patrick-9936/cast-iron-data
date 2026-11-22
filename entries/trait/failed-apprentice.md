@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-elf](ref/race/half-elf)
 
 **Flavor:** As a child, your parents sent you to a distant wizard's tower as an apprentice so that

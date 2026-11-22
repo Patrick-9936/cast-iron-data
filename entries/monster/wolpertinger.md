@@ -28,8 +28,6 @@ abilities = ["9", "14", "15", "4", "13", "6"]
 
 _This creature appears to be a large hare with long fangs, feathered wings, and a set of antlers._
 
-**Wolpertinger**
-
 **Challenge rating:** 1
 
 **Initiative:** +2

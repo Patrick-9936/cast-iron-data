@@ -33,8 +33,6 @@ abilities = ["19", "12", "15", "2", "13", "10"]
 _This fierce creature merges the front half of a great cat with the tail and other characteristics
 of a giant fish._
 
-**Sea Cat**
-
 **Challenge rating:** 4
 
 **Initiative:** +1

@@ -19,8 +19,6 @@ benefit = "You don't die until your negative hit point total is equal to or grea
 normal = "You die when your negative hit point total is equal to or greater than your Constitution score."
 +++
 
-## Arisen (Story)
-
 Escaping death strengthened your bond to life, but fills you with a need for answers.\
 **Prerequisites:** You must have been slain and brought back from the dead, or have the
 [Left to Die or Cursed Birth](ref/rule/birth-circumstances-and-more) circumstance background.\

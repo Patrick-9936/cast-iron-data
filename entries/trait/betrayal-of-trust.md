@@ -13,8 +13,6 @@ kind = "trait"
 category = "Family"
 +++
 
-**Type:** Family
-
 **Special:** It is possible to regain the Tight Bonds trait, for either the same or a different
 relationship, but it requires substantial in-character work. The GM decides when this trait reverts
 back to the original one.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Taldor
 
 **Flavor:** When the ceaseless bickering and elaborate posturing of Taldan politics proves

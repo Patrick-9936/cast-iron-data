@@ -31,8 +31,6 @@ abilities = ["12", "1", "16", "-", "1", "1"]
 _This blob of protoplasm is somewhat transparent, allowing the bones of undigested meals and a dark
 nucleus to be seen within._
 
-**Giant Amoeba**
-
 **Challenge rating:** 1
 
 **blindsight:** 30

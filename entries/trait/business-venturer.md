@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Ratfolk](ref/race/ratfolk)
 
 **Flavor:** Your mercantile pursuits have sent you across Golarion, making you better traveled than

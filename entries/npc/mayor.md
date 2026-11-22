@@ -15,8 +15,6 @@ kind = "creature"
 cr = "5"
 +++
 
-**Mayor**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

@@ -30,8 +30,6 @@ abilities = ["17", "15", "16", "10", "12", "11"]
 _This thing is a horrid mass of barbed tentacles, glaring eyes, and gnashing teeth, twisting upon
 itself and reshaping into new forms._
 
-**Chaos Beast**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic neutral

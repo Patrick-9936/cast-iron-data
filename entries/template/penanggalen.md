@@ -14,8 +14,6 @@ page = "216"
 kind = "none"
 +++
 
-**Penanggalen**
-
 **Acquired:** present
 
 **Challenge rating:** +1

@@ -29,8 +29,6 @@ abilities = ["23", "15", "17", "2", "12", "6"]
 _This powerful feline predator moves with a deadly grace, its reddish-orange fur slashed with black
 stripes._
 
-**Tiger**
-
 **Challenge rating:** 4
 
 **Type:** animal

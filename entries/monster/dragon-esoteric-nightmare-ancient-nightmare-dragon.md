@@ -29,8 +29,6 @@ special_qualities = "change shape"
 abilities = ["37", "9", "28", "20", "22", "23"]
 +++
 
-**Ancient Nightmare Dragon**
-
 **Challenge rating:** 15
 
 **aura:** terrifying presence (300 ft., DC 26)

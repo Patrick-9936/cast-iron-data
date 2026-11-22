@@ -33,8 +33,6 @@ abilities = ["10", "14", "8", "14", "13", "14"]
 _The attire of this winged man, whose wooden mask is carved into an eerie smile, is devoid of the
 stark-white bones commonly worn by his people._
 
-**Strix Voyager**
-
 **Challenge rating:** 5
 
 **Strix [bard](ref/class/bard) 6**

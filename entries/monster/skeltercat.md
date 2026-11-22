@@ -32,8 +32,6 @@ abilities = ["19", "18", "15", "6", "13", "12"]
 _The tawny coat of this snarling feline resembles that of a mountain lion, though this creature is
 much more muscular and carries itself with a strange posture._
 
-**Skeltercat**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

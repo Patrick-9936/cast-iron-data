@@ -19,8 +19,6 @@ benefit = "Choose one of the following secrets:"
 special = "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, you learn a new secret."
 +++
 
-## Whispered Knowledge (Faction)
-
 You possess secret knowledge that enhances and helps perfect your undead form.\
 **Prerequisites:** Corporeal undead, [Whispering Way](ref/rule/f-gravepath) 15 TPA.\
 **Benefit:** Choose one of the following secrets:

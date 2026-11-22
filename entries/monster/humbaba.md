@@ -30,8 +30,6 @@ abilities = ["41", "16", "30", "11", "24", "21"]
 _This towering, horned, lion-faced giant has long, braided hair and is outfitted in various pieces
 of plate armor._
 
-**Humbaba**
-
 **Challenge rating:** 19
 
 **aura:** prismatic aura (30 ft., DC 26)

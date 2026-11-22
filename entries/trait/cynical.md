@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have seen many heroes in your time, but you see only their capacity for failure and
 the ways they fall short of being truly good. This practice in looking past facades has proven a
 useful skill.

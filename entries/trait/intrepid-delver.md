@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Jinin
 
 **Flavor:** One of the elder elves in Ayajinbo told you many stories of the Darklands beneath the

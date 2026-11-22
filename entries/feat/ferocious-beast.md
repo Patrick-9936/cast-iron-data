@@ -19,8 +19,6 @@ benefit = "The animal companion uses half its master's class level (minimum 1) i
 special = "An animal companion can't take both Ferocious Beast and Intimidating Prowess."
 +++
 
-## Ferocious Beast (Combat)
-
 Through training or natural ability, the animal is skilled at unnerving its enemies.\
 **Prerequisites:** Intimidate 1 rank, [animal companion](ref/sidekick/animal-companion).\
 **Benefit:** The animal companion uses half its master's class level (minimum 1) in place of its

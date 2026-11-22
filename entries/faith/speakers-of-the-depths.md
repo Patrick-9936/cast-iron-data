@@ -14,8 +14,6 @@ page = "188"
 kind = "none"
 +++
 
-**Speakers of the Depths**
-
 ### Details
 
 **Alignment** CN\

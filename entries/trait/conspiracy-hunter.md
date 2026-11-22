@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Council of Thieves
 
 **Flavor:** You've long heard rumors of dark deeds afoot in Westcrown. Shipments of valuable cargo

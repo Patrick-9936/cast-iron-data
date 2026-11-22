@@ -28,8 +28,6 @@ special_qualities = "camouflage, transmit senses"
 abilities = ["12", "19", "-", "11", "18", "3"]
 +++
 
-**Observer Robot Swarm**
-
 **Challenge rating:** 10
 
 **Type:** construct

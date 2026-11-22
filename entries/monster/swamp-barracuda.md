@@ -34,8 +34,6 @@ abilities = ["16", "14", "11", "1", "12", "3"]
 _This elongated, olive fish has a thick set of jaws with a prominent underbite, and its body is
 covered in a layer of thick algae._
 
-**Swamp Barracuda**
-
 **Challenge rating:** 2
 
 **Type:** animal

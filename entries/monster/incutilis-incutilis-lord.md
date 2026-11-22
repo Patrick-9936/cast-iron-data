@@ -30,8 +30,6 @@ abilities = ["20", "17", "18", "15", "16", "15"]
 
 _A curved shell protects an unsightly mass of barbed tentacles, ringed by numerous inhuman eyes._
 
-**Incutilis Lord**
-
 **Challenge rating:** 8
 
 **Type:** aberration

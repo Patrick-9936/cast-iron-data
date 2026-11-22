@@ -13,8 +13,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a chiardmar as a mount
 
 **Benefit:** While riding a [chiardmar](ref/eq-misc/horse), you treat your mount's base speed as +10

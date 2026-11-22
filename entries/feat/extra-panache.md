@@ -23,8 +23,6 @@ benefit = "You gain two more panache points at the start of each day, and your m
 special = "If you have levels in the swashbuckler class, you can take this feat multiple times. Its effects stack."
 +++
 
-## Extra Panache (Panache)
-
 You have more panache than the ordinary swashbuckler.\
 **Prerequisites:** [Amateur Swashbuckler](ref/feat/amateur-swashbuckler) or panache class feature.\
 **Benefit:** You gain two more panache points at the start of each day, and your maximum panache

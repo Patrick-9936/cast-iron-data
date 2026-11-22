@@ -19,8 +19,6 @@ benefit = "Select one class that grants you the ability to cast spells. You can 
 special = "You can take this feat multiple times. Each additional time you select this feat, add two effect or meta words to your spellbook, familiar, or list of spells known."
 +++
 
-## Experimental Spellcaster (Words of Power)
-
 Despite casting spells, you dabble in the art of wordcasting.\
 **Prerequisites:** Ability to cast spells.\
 **Benefit:** Select one class that grants you the ability to cast spells. You can now use the slots

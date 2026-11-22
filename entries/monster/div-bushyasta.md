@@ -30,8 +30,6 @@ abilities = ["16", "21", "16", "18", "17", "19"]
 _This gaunt figure has ashy yellow skin and a strange, feathered mask covering most of her face,
 save for her wide, fang-filled mouth._
 
-**Bushyasta**
-
 **Challenge rating:** 6
 
 **Initiative:** +9

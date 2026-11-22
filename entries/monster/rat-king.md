@@ -31,8 +31,6 @@ abilities = ["12", "19", "18", "5", "14", "11"]
 _Squeaks and chittering cries rise from a tangle of diseased rats with their tails knotted
 together._
 
-**Rat King**
-
 **Challenge rating:** 5
 
 **Initiative:** +4

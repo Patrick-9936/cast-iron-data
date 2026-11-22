@@ -30,8 +30,6 @@ abilities = ["12", "16", "17", "1", "13", "4"]
 _This creature looks like a broad leaf with whiskers like a catfish and a dangerous stinger trailing
 behind it._
 
-**Leaf Ray**
-
 **Challenge rating:** 1
 
 **Initiative:** +3

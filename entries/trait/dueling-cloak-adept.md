@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are trained in using your cloak to disguise your body and deceive your enemies.
 
 **Benefit:** While wearing a cloak and using an

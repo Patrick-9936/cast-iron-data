@@ -29,8 +29,6 @@ abilities = ["11", "10", "12", "-", "11", "5"]
 _A roiling wave of flesh gushes forward. Amid the fatty surge wriggle half-formed limbs and a
 dripping tumorous face._
 
-**Lemure**
-
 **Challenge rating:** 1
 
 **Initiative:** +0

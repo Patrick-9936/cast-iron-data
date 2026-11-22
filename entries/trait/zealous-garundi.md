@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Garundi
 
 **Flavor:** You felt lost and aimless in your youth until a patron's emotional intervention showed

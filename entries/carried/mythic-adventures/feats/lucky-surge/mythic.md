@@ -16,20 +16,8 @@ prerequisites = "Potent Surge, 3rd mythic tier."
 benefit = "Whenever you use your surge ability, you can roll your surge dice twice and take the higher result. If you can already roll your surge dice twice and take the higher result, you roll your surge dice three times and take the highest result."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your surges defy the odds._
-
-## Prerequisites {#prerequisites}
-
-_Potent Surge, 3rd mythic tier._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Whenever you use your surge ability, you can roll your surge dice twice and take the higher result.
-If you can already roll your surge dice twice and take the higher result, you roll your surge dice
-three times and take the highest result.
-:::
+Your surges defy the odds.\
+**Prerequisites:** Potent Surge, 3rd mythic tier.\
+**Benefit:** Whenever you use your surge ability, you can roll your surge dice twice and take the
+higher result. If you can already roll your surge dice twice and take the higher result, you roll
+your surge dice three times and take the highest result.

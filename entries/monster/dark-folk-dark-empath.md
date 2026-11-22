@@ -30,8 +30,6 @@ abilities = ["9", "19", "14", "10", "14", "15"]
 
 _This gaunt, hunched humanoid's unblinking eyes stare out from a pale face wrapped in dark cloth._
 
-**Dark Empath**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

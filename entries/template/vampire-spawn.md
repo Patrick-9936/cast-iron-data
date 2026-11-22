@@ -14,8 +14,6 @@ page = "244"
 kind = "none"
 +++
 
-**Vampire Spawn**
-
 **Acquired:** present
 
 **Challenge rating:** +1

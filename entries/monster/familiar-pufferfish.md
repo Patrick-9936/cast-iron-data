@@ -31,8 +31,6 @@ abilities = ["4", "14", "15", "1", "12", "9"]
 _This spotted fish has pronounced eyes, a wide mouth, and tiny, brightly colored spikes protruding
 from its body._
 
-**Pufferfish**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

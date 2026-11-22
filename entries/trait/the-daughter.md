@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 19 Gozran and 13 Desnus
 
 **Flavor:** You are filled with the light-hearted joy of the Daughter, who dances her way into

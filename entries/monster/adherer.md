@@ -33,8 +33,6 @@ abilities = ["14", "16", "15", "4", "13", "11"]
 _This pallid humanoid creature is wrapped in wispy strips of skin, with bits of detritus and a sour
 stink clinging to it._
 
-**Adherer**
-
 **Challenge rating:** 3
 
 **Initiative:** +3

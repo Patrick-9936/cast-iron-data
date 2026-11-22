@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir); Svetocher
 
 **Flavor:** Your honeyed words are nearly impossible for your enchanted subjects to ignore.

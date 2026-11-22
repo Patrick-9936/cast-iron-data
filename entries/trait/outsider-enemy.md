@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** One of your ancestors was a conjurer who specialized in binding outsiders of a
 particular type. You have inherited some of his skills, but also some of his enemies. Choose a
 single outsider subtype.

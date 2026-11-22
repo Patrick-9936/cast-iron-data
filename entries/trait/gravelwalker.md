@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darklands
 
 **Benefit:** Having grown up navigating rockslides and picking your way through partially collapsed

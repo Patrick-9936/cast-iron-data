@@ -15,8 +15,6 @@ kind = "creature"
 cr = "3"
 +++
 
-**Investigator Wizard**
-
 **Challenge rating:** 3
 
 **XP** 800\

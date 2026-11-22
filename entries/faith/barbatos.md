@@ -17,8 +17,6 @@ page = "32"
 kind = "none"
 +++
 
-**Barbatos**
-
 **Sub:** The Bearded Lord
 
 **Monster Link** [Barbatos](ref/monster/archdevil-barbatos)

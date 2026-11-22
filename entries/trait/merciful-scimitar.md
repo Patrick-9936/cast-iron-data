@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You learned from worshipers of [Sarenrae](ref/faith/sarenrae) to cut foes with a
 scimitar without killing them.
 

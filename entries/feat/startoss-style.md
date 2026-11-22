@@ -20,8 +20,6 @@ benefit = "Choose one weapon from the thrown fighter weapon group. While using t
 special = "In addition to the chosen weapon, a character with this feat and the weapon training (thrown) class feature can use Startoss Style with any thrown weapons that she wields in one hand."
 +++
 
-## Startoss Style (Combat, Style)
-
 Your thrown weapons become more deadly.\
 **Prerequisites:** Dex 13, [Point-Blank Shot](ref/feat/point-blank-shot),
 [Weapon Focus](ref/feat/weapon-focus) with the chosen weapon.\

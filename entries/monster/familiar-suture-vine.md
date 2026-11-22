@@ -29,8 +29,6 @@ abilities = ["3", "12", "10", "-", "13", "5"]
 _This twitching, slithering coil of bright-green vines is covered with hooked thorns and tiny
 barbs._
 
-**Suture Vine**
-
 **Challenge rating:** 1/3
 
 **Initiative:** +1

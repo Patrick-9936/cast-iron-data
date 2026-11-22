@@ -33,8 +33,6 @@ abilities = ["18", "17", "18", "13", "15", "16"]
 _This hairless, leathery biped has a face dominated by grotesque and unsettling whorls and slits
 instead of actual features._
 
-**Faceless Stalker**
-
 **Challenge rating:** 4
 
 **Type:** aberration

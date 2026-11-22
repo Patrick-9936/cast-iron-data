@@ -32,8 +32,6 @@ abilities = ["35", "8", "26", "14", "16", "18"]
 _Tearing its elephantine roots free from the soil, an enormous tree unfurls long, tangled branches
 into arms ending in massive claws._
 
-**Tobongo (Mwangi Treant)**
-
 **Challenge rating:** 12
 
 **Size:** gargantuan

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/defensive-combat-training"]
 benefit = "You gain a +4 bonus to your CMD."
 +++
 
-## Advanced Defensive Combat Training (Combat, Faction)
-
 You are a master at defending yourself from all manner of combat maneuvers.\
 **Prerequisites:** [Defensive Combat Training](ref/feat/defensive-combat-training),
 [Bellflower Network](ref/rule/f-antislavery) 10 TPA.\

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have endured many hardships throughout your life, and this has hardened you to the
 suffering of others to the point that you are not easily swayed by a sad story.
 

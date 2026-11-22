@@ -15,8 +15,6 @@ kind = "creature"
 cr = "1/3"
 +++
 
-**Recruit**
-
 **Challenge rating:** 1/3
 
 **XP** 135\

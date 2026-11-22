@@ -34,8 +34,6 @@ abilities = ["8", "13", "16", "8", "12", "17"]
 _The humanoid creature's taut green shell extends like a cowl from chin to brow, wreathing a face of
 brilliant flower petals._
 
-**Ghoran**
-
 **Challenge rating:** 1
 
 **Ghoran [bard](ref/class/bard) 1**

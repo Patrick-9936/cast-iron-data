@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** City of Brass
 
 **Flavor:** While enslaved in the City of Brass, you watched too many of your friends fall victim to

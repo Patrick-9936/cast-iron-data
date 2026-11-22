@@ -17,8 +17,6 @@ page = "48"
 kind = "none"
 +++
 
-**Eiseth**
-
 **Sub:** The Erinyes Queen
 
 ### Details

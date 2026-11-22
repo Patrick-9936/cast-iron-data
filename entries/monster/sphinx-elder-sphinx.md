@@ -30,8 +30,6 @@ abilities = ["39", "12", "23", "26", "30", "25"]
 _The brooding face of this towering limestone statue of a gynosphinx reflects a harsh wisdom
 acquired through untold ages of experience._
 
-**Elder Sphinx**
-
 **Challenge rating:** 16
 
 **Size:** gargantuan

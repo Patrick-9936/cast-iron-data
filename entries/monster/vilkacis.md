@@ -33,8 +33,6 @@ _Within a swirling mass of frigid air manifests the form of a bestial specter. C
 daggers lash menacingly before its half-bestial, half-humanoid form, and its narrow eyes glow with a
 smoldering malevolence._
 
-**Vilkacis**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

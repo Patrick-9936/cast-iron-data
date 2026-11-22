@@ -17,8 +17,6 @@ page = "19"
 kind = "none"
 +++
 
-**Graveknight**
-
 **Acquired:** present
 
 **Challenge rating:** +2

@@ -34,8 +34,6 @@ abilities = ["16", "21", "19", "16", "14", "17"]
 _Brilliant blue scales with purple highlights cover this sinuous creature's body, and its slender
 reptilian maw is filled with tiny, sharp teeth._
 
-**Azuretzi**
-
 **Challenge rating:** 5
 
 **blindsense:** 30

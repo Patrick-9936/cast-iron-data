@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Eligos**
-
 **Sub:** The Winged Rider
 
 ### Details

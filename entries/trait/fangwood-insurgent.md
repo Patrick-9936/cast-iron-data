@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nirmathas
 
 **Flavor:** You have spent many years living under the canopy of the Southern Fangwood, during which

@@ -14,8 +14,6 @@ page = "14"
 kind = "none"
 +++
 
-**Narriseminek**
-
 **Sub:** The Crownless, the Maker of Kings
 
 ### Details

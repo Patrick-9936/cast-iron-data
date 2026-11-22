@@ -15,8 +15,6 @@ kind = "creature"
 cr = "9"
 +++
 
-**Seance Medium**
-
 **Challenge rating:** 9
 
 **XP** 6,400\

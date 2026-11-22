@@ -31,8 +31,6 @@ abilities = ["3", "15", "9", "2", "12", "6"]
 _Built like a small badger, this creature has black fur with white stripes running from its face to
 its fluffy tail, which is raised in warning._
 
-**Skunk**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

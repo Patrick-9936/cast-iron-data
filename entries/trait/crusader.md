@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** From studying "Prime Commander" and reading accounts of the battles in the Worldwound,
 you have trained to be a crusader against demonic forces.
 

@@ -30,8 +30,6 @@ _A leathery piece of skin stretched across a frame of joints and bony knobs beat
 the air. Eyes glare from the folds of its thick wings, writhing tentacles surround its sucker-like
 maw, and a long, thin tongue darts forth seemingly at random to lash the air around it._
 
-**Clawbat**
-
 **Challenge rating:** 1
 
 **Initiative:** +3

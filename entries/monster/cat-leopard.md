@@ -27,8 +27,6 @@ abilities = ["16", "19", "15", "2", "13", "6"]
 
 _With each graceful step, this leopard's steely muscles ripple beneath its spotted fur._
 
-**Leopard**
-
 **Challenge rating:** 2
 
 **Type:** animal

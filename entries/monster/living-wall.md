@@ -31,8 +31,6 @@ abilities = ["18", "3", "-", "-", "11", "1"]
 _This gruesome wall is made stacked corpses mortared together into an unyielding mass of grasping
 limbs, topped with a dragon skull._
 
-**Living Wall**
-
 **Challenge rating:** 4
 
 **Type:** construct

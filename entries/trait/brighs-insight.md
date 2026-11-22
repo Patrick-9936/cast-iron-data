@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Brigh](ref/faith/brigh)
 
 **Flavor:** You hear Brigh's whisper in the workings of technology, granting you better

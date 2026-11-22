@@ -28,8 +28,6 @@ abilities = ["35", "18", "24", "2", "11", "5"]
 _This massive cat-like creature has the lithe grace of a feline despite a shell-like armor of
 segmented plates._
 
-**Warcat of Rull**
-
 **Challenge rating:** 13
 
 **Type:** animal

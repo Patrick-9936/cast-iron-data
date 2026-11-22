@@ -32,8 +32,6 @@ abilities = ["34", "23", "24", "19", "22", "25"]
 _An invisible presence suggests the shape of a giant-sized person, surrounded by a rhythm of subtle
 noises from the natural world._
 
-**Manitou**
-
 **Challenge rating:** 15
 
 **aura:** positive energy (10 ft.)

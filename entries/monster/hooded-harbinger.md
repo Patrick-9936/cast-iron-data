@@ -32,8 +32,6 @@ _This creature resembles a mummified humanoid swathed in filthy, sallow rags. It
 and ragged coverings make its height hard to judge. Its arms appear abnormally long, or perhaps
 dislocated and hanging freely. A hood of the same jaundiced fabric obscures its face._
 
-**Hooded Harbinger**
-
 **Challenge rating:** 12
 
 **Type:** aberration

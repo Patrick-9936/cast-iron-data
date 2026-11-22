@@ -32,8 +32,6 @@ abilities = ["20", "19", "20", "17", "16", "17"]
 _This horse-sized insect has a brilliant red carapace, and its monstrous face reflects great
 intelligence and confidence._
 
-**Formian Myrmarch**
-
 **Challenge rating:** 10
 
 **blindsense:** 30

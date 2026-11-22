@@ -29,8 +29,6 @@ special_qualities = "change shape, sea strider, unfettered swimmer, water breath
 abilities = ["35", "8", "25", "24", "25", "24"]
 +++
 
-**Ancient Sea Dragon**
-
 **Challenge rating:** 17
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 28)

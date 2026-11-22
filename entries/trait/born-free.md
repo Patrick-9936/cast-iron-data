@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You were introduced to an individualistic belief as a youth. Thriving under the promise
 of control of your own destiny, you soon began to demonstrate the truth of this ideal. Though others
 may mock you for your unwillingness to go along with a group or accept the easy security and comfort

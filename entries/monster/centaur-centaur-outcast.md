@@ -31,8 +31,6 @@ abilities = ["12", "15", "14", "18", "14", "16"]
 _Lean and graying but still blessed with a young man's face, this aging centaur bristles with
 scrolls and wands. Winding, swirling tattoos climb across his body and face._
 
-**Centaur Outcast**
-
 **Challenge rating:** 7
 
 **Old centaur [wizard](ref/class/wizard) 7**

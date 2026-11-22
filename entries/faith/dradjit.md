@@ -14,8 +14,6 @@ page = "130"
 kind = "none"
 +++
 
-**Dradjit**
-
 **Sub:** The Godslayer
 
 ### Details

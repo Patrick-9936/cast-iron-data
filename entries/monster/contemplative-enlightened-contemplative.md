@@ -31,8 +31,6 @@ abilities = ["10", "12", "9", "26", "17", "21"]
 _Resembling an enlarged brain with an atrophied humanoid body attached, this floating creature
 pulses with energy._
 
-**Enlightened Contemplative**
-
 **Challenge rating:** 5
 
 **blindsight:** 30

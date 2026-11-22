@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Shoanti
 
 **Flavor:** Upon reaching adulthood, you received a tribal tattoo, marking you with the symbols of

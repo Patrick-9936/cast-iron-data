@@ -32,8 +32,6 @@ abilities = ["29", "24", "21", "19", "18", "20"]
 _This toad-faced humanoid is bloated and swollen, with folds of obsidian skin hanging down beneath
 two immense bat wings._
 
-**Shaggy Demodand**
-
 **Challenge rating:** 18
 
 **blindsense:** 30

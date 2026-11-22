@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Angelkin
 
 **Flavor:** Ever since you were a child, you've experienced vivid dreams of cutting down hordes of

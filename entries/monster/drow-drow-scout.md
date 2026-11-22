@@ -31,8 +31,6 @@ abilities = ["13", "17", "12", "10", "12", "10"]
 
 _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless._
 
-**Drow Scout**
-
 **Challenge rating:** 1
 
 **Drow [rogue](ref/class/rogue) 2**

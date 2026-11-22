@@ -33,8 +33,6 @@ abilities = ["24", "14", "18", "2", "15", "6"]
 _Glowing-hot plates of iron cover the head of this immense, primordial lungfish, and lava spills
 from between its jagged teeth._
 
-**Pyropiscis**
-
 **Challenge rating:** 8
 
 **Initiative:** +6

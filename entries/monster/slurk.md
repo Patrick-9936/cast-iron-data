@@ -35,8 +35,6 @@ abilities = ["15", "14", "17", "3", "10", "10"]
 _This disgusting beast looks like a slime-covered toad, but with two walrus-like tusks jutting from
 its upper jaw._
 
-**Slurk**
-
 **Challenge rating:** 2
 
 **Initiative:** +6

@@ -30,8 +30,6 @@ abilities = ["15", "20", "17", "14", "16", "21"]
 
 _No flavor text._
 
-**Blackwood Satyr**
-
 **Challenge rating:** 7
 
 **aura:** incorrigible charm (30 ft., DC 19)

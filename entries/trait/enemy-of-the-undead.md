@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Geb
 
 **Flavor:** Your disgust at the way the undead aristocracy of Geb treats the living has inspired

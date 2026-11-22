@@ -32,8 +32,6 @@ abilities = ["36", "21", "28", "3", "20", "3"]
 _This immense, worm-like creature piles its coils upon itself, exposing four scythe-shaped claws and
 a massive fanged mouth._
 
-**Wrackworm**
-
 **Challenge rating:** 20
 
 **blindsight:** 60

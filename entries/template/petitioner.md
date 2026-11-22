@@ -14,8 +14,6 @@ page = "208"
 kind = "none"
 +++
 
-**Petitioner**
-
 **Acquired:** present
 
 **Challenge rating:** 1

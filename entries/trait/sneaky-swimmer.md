@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Black-scaled
 
 **Flavor:** Swimming comes naturally to you, as does hunting marsh vipers and other aquatic

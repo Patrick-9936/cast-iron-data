@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/bulette-charge-style", "ref/feat/bulette-leap", 
 benefit = "While you're using Bulette Charge Style, whenever you succeed at an overrun combat maneuver check against a foe, that foe takes an amount of damage equal to 1d8 (if you're Medium) or 1d6 (if you're Small) + 1/2 your armor bonus to AC + 1-1/2 times your Strength bonus."
 +++
 
-## Bulette Rampage (Combat)
-
 You are able to channel your enhanced momentum to deal incredible damage to multiple foes.\
 **Prerequisites:** Str 15, [Bulette Charge Style](ref/feat/bulette-charge-style),
 [Bulette Leap](ref/feat/bulette-leap), [Improved Overrun](ref/feat/improved-overrun),

@@ -32,8 +32,6 @@ abilities = ["12", "16", "10", "14", "8", "13"]
 
 _Seemingly human at first glance, this feathered woman conceals wings beneath a heavy cloak._
 
-**Strix Infiltrator**
-
 **Challenge rating:** 3
 
 **Strix [investigator](ref/class/investigator) 4**

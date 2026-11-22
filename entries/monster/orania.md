@@ -32,8 +32,6 @@ abilities = ["34", "17", "23", "14", "18", "22"]
 _This blue-skinned giant is outfitted in elegant jewelry and white robes, and wields a
 lightning-infused spear._
 
-**Orania, Cloud Giant Oligarch**
-
 **Challenge rating:** 18
 
 **Female cloud giant [oracle](ref/class/oracle) 12**

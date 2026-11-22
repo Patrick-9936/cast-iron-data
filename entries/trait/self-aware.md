@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Vampire; Vetala
 
 **Flavor:** Wisdom stolen from an enlightened mortal has opened your own mind. Knowing yourself

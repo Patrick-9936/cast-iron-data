@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Geb
 
 **Flavor:** As a child, you somehow got your hands on a lurid, forbidden text written by a

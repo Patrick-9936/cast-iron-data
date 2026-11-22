@@ -18,8 +18,6 @@ prerequisites = "Cha 20, any evil outsider with 10 or more Hit Dice."
 benefit = "Once per day, as a full-round action, a fiend can discorporate into a malign presence and target a creature within 15 feet. The creature targeted must succeed at a Will save equal to 10 + half the fiend's Hit Dice + the fiend's Charisma modifier or be possessed (see below). Targets under the effects of protection from evil, or related spells, gain a bonus to this save. Should a target succeed at its Will save, the fiend is forced back into its natural form and is stunned for 1 round."
 +++
 
-## Possess Creature (Monster)
-
 A fiend gains the ability to merge its physical form with another creature's body, spreading its
 foul influence from within a living vessel.\
 **Prerequisites:** Cha 20, any evil outsider with 10 or more Hit Dice.\

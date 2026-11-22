@@ -14,8 +14,6 @@ page = "254"
 kind = "none"
 +++
 
-**Tulpa**
-
 **Challenge rating:** +2
 
 **Inherited:** present

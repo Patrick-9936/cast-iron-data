@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Shizuru](ref/faith/shizuru)
 
 **Flavor:** You come from an especially esteemed family, religious order, school, or other group

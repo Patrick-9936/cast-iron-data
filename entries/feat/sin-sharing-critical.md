@@ -20,8 +20,6 @@ benefit = "Whenever you confirm a critical hit against an opponent, you can choo
 special = "You can apply the effects of only one critical feat to a given critical hit unless you have Critical Mastery."
 +++
 
-## Sin-Sharing Critical (Combat, Critical)
-
 Your hateful focus can sometimes spread your own misfortune to others in combat.\
 **Prerequisites:** [Critical Focus](ref/feat/critical-focus), base attack bonus +13.\
 **Benefit:** Whenever you confirm a critical hit against an opponent, you can choose a single curse

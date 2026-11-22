@@ -30,8 +30,6 @@ abilities = ["29", "26", "25", "10", "15", "10"]
 _This one-eyed, wolf-headed creature walks upright on two hoofed feet. It bares metal fangs while a
 thin, rat-like tail twitches behind it._
 
-**Psoglav**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic evil

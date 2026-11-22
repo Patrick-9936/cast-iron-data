@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Absalom
 
 **Flavor:** You grew up on the streets of Absalom and have worked as both guide and bodyguard for

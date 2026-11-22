@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** urban
 
 **Flavor:** You are disconnected from your heritage and do what you can to learn more about where

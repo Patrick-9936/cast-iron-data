@@ -30,8 +30,6 @@ abilities = ["22", "19", "-", "11", "16", "23"]
 _This deathly figure is draped with filthy rags. Its thin, gray arms end in ruinous claws, and its
 movements are weirdly difficult to follow with the eye._
 
-**Tatterlorn**
-
 **Challenge rating:** 7
 
 **Initiative:** +4

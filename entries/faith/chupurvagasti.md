@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Chupurvagasti**
-
 **Sub:** The Lady of Poison Mist
 
 ### Details

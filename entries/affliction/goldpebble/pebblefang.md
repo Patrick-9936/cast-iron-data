@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Pebblefang"
 source_ids = ["pathfinder-128-songbird-scion-saboteur"]
 parent = "ref/monster/goldpebble"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "goldpebble|affliction:pebblefang", path = "json/monsters12.json" },
 ]

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Benefit:** In your hand a whip has a life of its own, wrapping around pillars and beams with ease.
 You can use a [whip](ref/eq-weapon/whip) as if it were a rope with a
 [grappling hook](ref/eq-weapon/grappling-hook) at the end. Attaching your whip is a **standard

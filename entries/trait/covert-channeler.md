@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your mentor in the [Wagons of Light](ref/rule/wagons-of-light) taught you to hide holy
 symbols quickly.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Riddleport
 
 **Benefit:** You've sold relics to a [Cyphermage](ref/rule/aff-i-tradition) in the past, and she's

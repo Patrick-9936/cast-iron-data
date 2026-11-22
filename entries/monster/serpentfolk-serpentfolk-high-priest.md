@@ -28,8 +28,6 @@ special_attacks = "scythe of evil (5 rounds, 1/day)~weapon master (10 rounds/day
 abilities = ["10", "23", "20", "16", "22", "20"]
 +++
 
-**Serpentfolk High Priest**
-
 **Challenge rating:** 14
 
 **Advanced serpentfolk [cleric](ref/class/cleric) 10**

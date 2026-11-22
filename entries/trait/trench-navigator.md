@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Xidao
 
 **Flavor:** You've sailed the treacherous waters of the Xidao Gulf in your past, and you can

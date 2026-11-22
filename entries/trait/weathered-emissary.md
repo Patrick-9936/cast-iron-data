@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your travels in the wildlands gave you insight into how to survive their dangers and
 communicate with their inhabitants.
 

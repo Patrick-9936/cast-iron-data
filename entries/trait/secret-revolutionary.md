@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Cheliax
 
 **Flavor:** You seek to return Cheliax to its heyday before the rise of the House of the Thrune. You

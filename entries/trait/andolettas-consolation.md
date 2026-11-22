@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Andoletta](ref/faith/andoletta)
 
 **Flavor:** You had a close encounter with a servant or worshiper of Andoletta who provided you with

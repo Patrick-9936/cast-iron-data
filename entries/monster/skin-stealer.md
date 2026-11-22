@@ -30,8 +30,6 @@ abilities = ["12", "17", "13", "16", "10", "17"]
 _Dark pink flesh drawn tightly across its emaciated body, this being resembles a gaunt human
 stripped of its skin, its pulsing muscles completely exposed._
 
-**Skin Stealer**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

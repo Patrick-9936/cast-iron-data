@@ -14,8 +14,6 @@ page = "220"
 kind = "none"
 +++
 
-**Mythic Vampire**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

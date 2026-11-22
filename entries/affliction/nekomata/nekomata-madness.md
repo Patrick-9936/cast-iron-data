@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Nekomata madness"
 source_ids = ["bestiary-6"]
 parent = "ref/monster/nekomata"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "nekomata|affliction:nekomata-madness", path = "json/monsters17.json" },
 ]

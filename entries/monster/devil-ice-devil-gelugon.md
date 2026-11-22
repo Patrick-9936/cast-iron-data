@@ -29,8 +29,6 @@ abilities = ["23", "21", "22", "25", "22", "20"]
 
 _A pair of frozen, multifaceted eyes coldly judge all before this towering, insectile monstrosity._
 
-**Ice Devil (Gelugon)**
-
 **Challenge rating:** 13
 
 **aura:** fear (10 ft., DC 22)

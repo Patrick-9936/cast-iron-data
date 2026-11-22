@@ -18,8 +18,6 @@ benefit = "When you attempt a combat maneuver check against a foe you are flanki
 special = "This feat counts as having Dex 13, Int 13, Combat Expertise, and Improved Unarmed Strike for the purposes of meeting the prerequisites of the various improved combat maneuver feats, as well as feats that require those improved combat maneuver feats as prerequisites."
 +++
 
-## Dirty Fighting (Combat)
-
 You can take advantage of a distracted foe.\
 **Benefit:** When you attempt a combat maneuver check against a foe you are
 [flanking](ref/rule/flanking), you can forgo the +2 bonus on your attack roll for flanking to

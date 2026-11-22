@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Erastil](ref/faith/erastil)
 
 **Flavor:** You understand the importance of keeping the peace in your community, and you have

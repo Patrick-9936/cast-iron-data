@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mwangi Expanse
 
 **Flavor:** As a native of the Mwangi Jungle, you've had frequent encounters with the

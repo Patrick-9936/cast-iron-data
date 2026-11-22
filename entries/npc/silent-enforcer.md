@@ -15,8 +15,6 @@ kind = "creature"
 cr = "5"
 +++
 
-**Silent Enforcer**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

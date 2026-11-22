@@ -37,8 +37,6 @@ tail sprouting a grotesquely primitive humanoid torso, head, and limbs. Although
 feet long, the nasty thing gibbers wildly as it gnashes its curling fangs and swipes at prey with
 webbed claws._
 
-**Ningyo**
-
 **Challenge rating:** 1
 
 **Initiative:** +1

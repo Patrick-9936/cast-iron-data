@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You're destined to bring light to the darkness and expunge the faithless from the deep.
 
 **Benefit:** Whenever you cast a spell granted by the [sun](ref/domain/sun) domain (or associated

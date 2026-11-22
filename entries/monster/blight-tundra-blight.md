@@ -32,8 +32,6 @@ abilities = ["36", "30", "29", "17", "23", "24"]
 _This churning mound of snow-like material has several large red eyes and four tentacles tipped with
 icy stingers._
 
-**Tundra Blight**
-
 **Challenge rating:** 16
 
 **blindsight:** 120

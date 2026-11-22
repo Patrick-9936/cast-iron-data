@@ -29,8 +29,6 @@ special_qualities = "change shape (dire bat or wolf; beast shape II), fast movem
 abilities = ["22", "20", "-", "14", "18", "16"]
 +++
 
-**Enlightened Vampire**
-
 **Challenge rating:** 12
 
 **Human vampire [monk](ref/class/monk) ([hungry ghost monk](ref/arc-monk/hungry-ghost-monk)) 11**

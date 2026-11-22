@@ -30,8 +30,6 @@ abilities = ["18", "14", "-", "11", "13", "17"]
 
 _This desiccated corpse wields a greatsword, its eyes blazing with eerie red light._
 
-**Ragewight**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

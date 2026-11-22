@@ -17,8 +17,6 @@ page = "66"
 kind = "none"
 +++
 
-**Nyarlathotep**
-
 **Sub:** Black Pharaoh
 
 ### Details

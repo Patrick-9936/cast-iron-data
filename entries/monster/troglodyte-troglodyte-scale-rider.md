@@ -33,8 +33,6 @@ abilities = ["16", "14", "16", "8", "13", "9"]
 _This humanoid's scaly hide is dull gray. Its frame resembles that of a cave lizard, with a long
 tail and crests on its head and back._
 
-**Troglodyte Scale-Rider**
-
 **Challenge rating:** 6
 
 **Troglodyte [ranger](ref/class/ranger) 5**

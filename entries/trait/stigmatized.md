@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You were kept at the periphery of society for a long period of time, so that even when
 you are among strangers in a new place, you feel the weight of your missing socialization.
 

@@ -30,8 +30,6 @@ abilities = ["12", "27", "28", "15", "24", "23"]
 _This weasel-like creature has sickles in place of feet. It moves incredibly swiftly, swirling in
 the air astride a vortex of dust._
 
-**Kamaitachie**
-
 **Challenge rating:** 13
 
 **blindsight:** 60

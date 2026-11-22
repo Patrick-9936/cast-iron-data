@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Chamber of Blades Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 10

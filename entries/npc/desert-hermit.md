@@ -17,8 +17,6 @@ cr = "8"
 
 _This weathered-looking desert dweller is dressed from head to toe in tan, loose-fitting robes._
 
-**Desert Hermit**
-
 **Challenge rating:** 8
 
 **XP** 4,800\

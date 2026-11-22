@@ -19,8 +19,6 @@ benefit = "As a full-round action, you can curse a creature you've dealt damage 
 special = "A shaman or witch can use this [blood hex](ref/rule/feats-class) as a standard action."
 +++
 
-## Consumption (Blood Hex)
-
 You cause your rivals to spend additional precious resources while wounded.\
 **Prerequisites:** Int 13, Use Magic Device 5 ranks.\
 **Benefit:** As a full-round action, you can curse a creature you've dealt damage to since the

@@ -32,8 +32,6 @@ abilities = ["28", "19", "22", "15", "15", "10"]
 _This fleshy, slug-like creature has two long pseudopods that end in lumps of hard, callused flesh,
 and its whole body sizzles with acidic slime as it slides forward through melting stone._
 
-**Delver**
-
 **Challenge rating:** 9
 
 **Type:** aberration

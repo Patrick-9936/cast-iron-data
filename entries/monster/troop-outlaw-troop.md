@@ -31,8 +31,6 @@ abilities = ["20", "18", "16", "12", "12", "10"]
 _Over two dozen men and women clad in chain shirts and leather armor brandish their knives and
 swords menacingly._
 
-**Outlaw Troop**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic neutral

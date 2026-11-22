@@ -30,8 +30,6 @@ abilities = ["14", "15", "-", "11", "16", "17"]
 _This skeletal creature wears rotting robes, and carries a sword in its talon-like hands. An evil
 blue light dances in its empty eye sockets._
 
-**Bone Priest**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

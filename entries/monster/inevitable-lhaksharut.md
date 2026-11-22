@@ -32,8 +32,6 @@ abilities = ["31", "13", "26", "14", "21", "20"]
 _This six-armed creature appears to be made of stone. Its lower torso is a collection of whirring
 rings of metal._
 
-**Lhaksharut**
-
 **Challenge rating:** 20
 
 **aura:** shield of law (DC 23)

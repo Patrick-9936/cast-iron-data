@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your apprenticeship or early education was particularly focused on the direct
 application of magic.
 

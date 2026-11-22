@@ -19,8 +19,6 @@ benefit = "As a standard action, you can curse an enemy you've dealt damage to s
 special = "A shaman or witch with this [blood hex](ref/rule/feats-class) can use it against any creature she has dealt damage to in the past minute. A creature affected by this blood hex used by a shaman or witch also has its movement rate halved for the blood hex's duration."
 +++
 
-## Falter (Blood Hex)
-
 You curse the blood of your foes, forcing them to falter in their subsequent actions.\
 **Prerequisites:** Int 13, Spellcraft 5 ranks, Use Magic Device 5 ranks.\
 **Benefit:** As a standard action, you can curse an enemy you've dealt damage to since your last

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Benefit:** You were adopted and raised by someone not of your race, and raised in a society not
 your own. As a result, you picked up a race trait from your adoptive parents and society, and may
 immediately select a race trait from your adoptive parents' race.

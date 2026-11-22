@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Shoanti
 
 **Flavor:** You tower above most other humans and possess a physique of hard, corded muscle.

@@ -30,8 +30,6 @@ abilities = ["3", "16", "9", "2", "12", "5"]
 
 _This small, furry creature has long ears and oversized feet._
 
-**Rabbit**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

@@ -12,8 +12,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mendev
 
 **Flavor:** Your parents stood strong against the demons of the Worldwound, facing down the worst of

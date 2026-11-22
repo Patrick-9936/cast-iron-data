@@ -32,8 +32,6 @@ abilities = ["24", "7", "18", "-", "1", "1"]
 _This whitish-gray amoeboid creature has bits of flotsam embedded in its amorphous form, which moves
 inexorably against the current._
 
-**Sea Scourge**
-
 **Challenge rating:** 6
 
 **blindsight:** 60

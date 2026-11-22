@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your experiments - both your successes and failures - have inured you to the effects of
 stored magic.
 

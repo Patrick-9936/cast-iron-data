@@ -30,8 +30,6 @@ abilities = ["12", "14", "11", "2", "11", "5"]
 _This small goat has sharp horns that wrap around its head to point forward, making it resemble a
 tiny bull._
 
-**Skittergoat**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

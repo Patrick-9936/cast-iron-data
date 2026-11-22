@@ -30,8 +30,6 @@ abilities = ["17", "11", "18", "2", "11", "10"]
 _A tremendous starfish-like creature emerges from the sand, its five long arms surrounding a
 circular toothy maw._
 
-**Dust Digger**
-
 **Challenge rating:** 4
 
 **Type:** aberration

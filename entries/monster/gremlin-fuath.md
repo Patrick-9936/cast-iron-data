@@ -31,8 +31,6 @@ abilities = ["7", "13", "12", "10", "13", "8"]
 
 _This waterlogged gremlin has lobster claws for hands and an almost canine face with webbed ears._
 
-**Fuath**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

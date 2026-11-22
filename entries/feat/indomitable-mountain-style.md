@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-reflexes", "ref/feat/improved-unarmed-str
 benefit = "As long as you do not take a move action, you gain a +4 morale bonus to your CMD and to the DC of Bluff checks used for feint attempts against you. Additionally, you are considered to be one size category larger for the purpose of calculating your CMD when creatures attempt Acrobatics checks to move through spaces you threaten without provoking attacks of opportunity."
 +++
 
-## Indomitable Mountain Style (Combat, Style)
-
 Like a rugged mountain, you are impassable and unmovable.\
 **Prerequisites:** Wis 13, [Combat Reflexes](ref/feat/combat-reflexes),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), base attack bonus +4.\

@@ -17,8 +17,6 @@ page = "29"
 kind = "none"
 +++
 
-**Droskar**
-
 **Sub:** The Dark Smith
 
 ### Details

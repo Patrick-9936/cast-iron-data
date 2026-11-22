@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Benefit:** You know how to ask the wrong questions the right way, granting you a +2 trait bonus on
 [Diplomacy](ref/skill/diplomacy) (gather information) and
 [Knowledge (local)](ref/skill/knowledge-local) checks regarding whichever vice fascinates you:

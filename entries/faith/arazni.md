@@ -17,8 +17,6 @@ page = "71"
 kind = "none"
 +++
 
-**Arazni**
-
 **Sub:** The Harlot Queen
 
 **Monster Link** [Arazni](ref/monster/arazni)

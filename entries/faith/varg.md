@@ -17,8 +17,6 @@ page = "30"
 kind = "none"
 +++
 
-**Varg**
-
 **Sub:** The Iron Warrior
 
 ### Details

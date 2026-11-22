@@ -29,8 +29,6 @@ abilities = ["18", "15", "21", "8", "14", "11"]
 
 _This lanky, yellow-eyed drunk sways unsteadily, draped in the stink of barley and fermentation._
 
-**Ginever**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

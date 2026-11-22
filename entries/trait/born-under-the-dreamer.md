@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your birth sign aligned significantly with Liavara on the day you were born, and you are
 touched by the instinctual dreaming spirit of that planet, making you naturally poised and hard to
 surprise.

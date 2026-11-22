@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** A harrowing experience with insects when you were young instilled in you a deep-seated
 fear of vermin of all description, especially when they swarm together.
 

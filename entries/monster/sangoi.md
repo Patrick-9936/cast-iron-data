@@ -35,8 +35,6 @@ abilities = ["13", "23", "18", "14", "12", "19"]
 _Dressed in tattered finery and an animal for a cloak, this small, gaunt humanoid has unnaturally
 long fingers and nails._
 
-**Sangoi**
-
 **Challenge rating:** 7
 
 **Type:** fey

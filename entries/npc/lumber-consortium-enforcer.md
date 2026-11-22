@@ -17,8 +17,6 @@ cr = "3"
 
 _This beefy human brawler has the bearing of a thug._
 
-**Lumber Consortium Enforcer**
-
 **Challenge rating:** 3
 
 **XP** 800\

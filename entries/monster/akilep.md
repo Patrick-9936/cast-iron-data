@@ -28,8 +28,6 @@ abilities = ["34", "8", "22", "27", "21", "21"]
 
 _This beautiful female sphinx appears both wise and thoughtful._
 
-**Akilep, Lady of Stone**
-
 **Challenge rating:** 13
 
 **Female unique gynosphinx**

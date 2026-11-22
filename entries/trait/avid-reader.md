@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** As a youth, you voraciously consumed books and scrolls provided by a member of an
 adventurer's guild or a learned organization like the [Pathfinder Society](ref/rule/aff-scholars),
 and you have internalized these stories of bold adventurers.

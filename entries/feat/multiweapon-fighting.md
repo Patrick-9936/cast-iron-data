@@ -20,8 +20,6 @@ normal = "A creature without this feat takes a -6 penalty on attacks made with i
 special = "This feat replaces the Two-Weapon Fighting feat for creatures with more than two arms."
 +++
 
-## Multiweapon Fighting (Combat, Monster)
-
 This multi-armed creature is skilled at making attacks with multiple weapons.\
 **Prerequisites:** Dex 13, three or more hands.\
 **Benefit:** Penalties for fighting with multiple weapons are reduced by -2 with the primary hand

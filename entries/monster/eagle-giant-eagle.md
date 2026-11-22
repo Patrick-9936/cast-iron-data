@@ -29,8 +29,6 @@ abilities = ["18", "17", "12", "10", "15", "11"]
 _This immense eagle's feathers are golden brown and shimmer in the light. Its sharp beak and curved
 talons are dark yellow._
 
-**Giant Eagle**
-
 **Challenge rating:** 3
 
 **Initiative:** +3

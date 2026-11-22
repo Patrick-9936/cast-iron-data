@@ -31,8 +31,6 @@ abilities = ["23", "12", "21", "16", "17", "20"]
 
 _This serene dragon's feathered form emits a comforting warmth._
 
-**Young Bliss Dragon**
-
 **Challenge rating:** 12
 
 **Type:** dragon

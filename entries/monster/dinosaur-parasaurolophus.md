@@ -28,8 +28,6 @@ abilities = ["23", "14", "17", "2", "13", "10"]
 _This thick-bodied dinosaur has a whip-like tail and a long neck, its head topped by the crest of a
 backward-curving horn._
 
-**Parasaurolophus**
-
 **Challenge rating:** 4
 
 **Type:** animal

@@ -29,8 +29,6 @@ abilities = ["19", "11", "-", "-", "10", "3"]
 _Tufts of haphazard fur line the body of this gruesome bear, while great lines of stitching
 crisscross its body._
 
-**Taxidermic Grizzly Bear**
-
 **Challenge rating:** 3
 
 **Type:** construct

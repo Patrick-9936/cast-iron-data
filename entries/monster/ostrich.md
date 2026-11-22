@@ -30,8 +30,6 @@ abilities = ["17", "14", "14", "2", "13", "11"]
 _This human-sized bird has a long neck and legs sprouting from a round body covered in fluffy gray
 feathers._
 
-**Ostrich**
-
 **Challenge rating:** 1
 
 **Type:** animal

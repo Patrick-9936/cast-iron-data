@@ -14,8 +14,6 @@ page = "242"
 kind = "none"
 +++
 
-**Trompe l'Oeil**
-
 **Challenge rating:** +1
 
 **Inherited:** present

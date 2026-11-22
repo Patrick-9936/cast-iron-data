@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Kingmaker
 
 **Flavor:** You claim a tangential but legitimate connection to one of Brevoy's noble families. If

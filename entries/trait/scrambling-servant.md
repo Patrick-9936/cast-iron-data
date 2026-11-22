@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** mountains
 
 **Flavor:** You were hired or captured by giants and found yourself frequently scrambling up and

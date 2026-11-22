@@ -32,8 +32,6 @@ abilities = ["8", "13", "8", "17", "12", "16"]
 
 _Delicate antennae extend from the forehead of this lithe woman._
 
-**Lashunta**
-
 **Challenge rating:** 1/2
 
 **Female lashunta [wizard](ref/class/wizard) 1**

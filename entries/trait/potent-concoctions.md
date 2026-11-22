@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Ghlaunder](ref/faith/ghlaunder)
 
 **Flavor:** You have dedicated your life to honoring famine and disease.

@@ -17,8 +17,6 @@ page = "78"
 kind = "none"
 +++
 
-**Moloch**
-
 **Sub:** The Ashen Bull
 
 **Monster Link** [Moloch](ref/monster/archdevil-moloch)

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "5"
 +++
 
-**Expert Bodyguard**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

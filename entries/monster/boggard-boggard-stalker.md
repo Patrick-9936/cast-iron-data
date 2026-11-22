@@ -30,8 +30,6 @@ special_qualities = "favored terrain (swamp +2), hold breath, hunter's bond (com
 abilities = ["20", "13", "16", "8", "13", "8"]
 +++
 
-**Boggard Stalker**
-
 **Challenge rating:** 9
 
 **Boggard [ranger](ref/class/ranger) 7**

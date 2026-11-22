@@ -32,8 +32,6 @@ abilities = ["29", "9", "22", "2", "13", "4"]
 _This creature resembles an elephant, though it has a shorter, thicker trunk and sharp,
 downward-curving tusks._
 
-**Deinotherium**
-
 **Challenge rating:** 7
 
 **Type:** animal

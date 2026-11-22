@@ -33,8 +33,6 @@ abilities = ["44", "8", "28", "3", "21", "23"]
 _This titanic worm heaves its endless bulk into the air, raising one end as if ready to strike with
 a massive set of hooked jaws._
 
-**Bhole**
-
 **Challenge rating:** 17
 
 **Alignment:** Chaotic neutral

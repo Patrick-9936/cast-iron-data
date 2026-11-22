@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Desna](ref/faith/desna)
 
 **Flavor:** With Desna's blessing, you have pursued an artistic path.

@@ -26,8 +26,6 @@ abilities = ["1", "13", "4", "-", "12", "7"]
 _This graceful winged insect is a riot of color that glides through the air like a flittering
 dream._
 
-**Butterfly/Moth**
-
 **Challenge rating:** -
 
 **Size:** diminutive

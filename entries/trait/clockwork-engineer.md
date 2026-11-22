@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have experience with the ancient clockwork constructs that roam certain wastelands,
 and this has granted you an understanding of these guardians.
 

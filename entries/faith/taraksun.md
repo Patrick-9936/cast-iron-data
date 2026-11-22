@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Taraksun**
-
 **Sub:** The Awakener of Wrath
 
 ### Details

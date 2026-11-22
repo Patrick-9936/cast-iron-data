@@ -14,8 +14,6 @@ page = "21"
 kind = "none"
 +++
 
-**Ydajisk**
-
 **Sub:** The Mother of Tongues
 
 ### Details

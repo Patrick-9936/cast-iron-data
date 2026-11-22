@@ -29,8 +29,6 @@ abilities = ["12", "15", "17", "1", "12", "2"]
 
 _Within this mass of primeval fish glint innumerable savagely gnashing teeth._
 
-**Megapiranha Swarm**
-
 **Challenge rating:** 6
 
 **Type:** animal

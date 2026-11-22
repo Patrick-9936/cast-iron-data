@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You were a prisoner or slave in a city on the Elemental Planes, such as the cruel
 efreet's City of Brass on the Plane of Fire or the dwarven city of Urgashaz on the Plane of Earth.
 When you escaped that city, you had to use your captors' weapons and magic against them in addition

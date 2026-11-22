@@ -20,8 +20,6 @@ benefit = "When you use Charging Hurler, your target can be at any range up to y
 normal = "Using Charging Hurler requires you to end your movement within 30 feet of your opponent."
 +++
 
-## Improved Charging Hurler (Combat)
-
 Every muscle in your body adds its force to your thrown weapons.\
 **Prerequisites:** [Charging Hurler](ref/feat/charging-hurler).\
 **Benefit:** When you use Charging Hurler, your target can be at any range up to your weapon's

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** You can modify old clothing to make it effective in new circumstances.
 
 **Benefit:** With a basic sewing kit or [disguise kit](ref/eq-misc/disguise-kit), you can make a

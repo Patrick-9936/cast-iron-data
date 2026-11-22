@@ -17,8 +17,6 @@ feat_types = ["Metamagic"]
 benefit = "A conditional spell is subject to the rules laid out in the spell conditional favor. A conditional spell takes up a spell slot 1 level higher than normal."
 +++
 
-## Conditional Spell (Metamagic)
-
 You know how to apply restrictions on how a creature can use the benefits of your spells.\
 **Benefit:** A conditional spell is subject to the rules laid out in the spell
 [conditional favor](ref/spell/conditional-favor). A conditional spell takes up a spell slot 1 level

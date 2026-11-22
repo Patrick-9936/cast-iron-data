@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You lived a previous life as someone - or something - else. For you, life and death are
 a cycle, and you have no fear of death.
 

@@ -20,8 +20,6 @@ benefit = "As a full-round action, while wielding a quarterstaff two-handed, you
 special = "If you are a magus with the staff magus archetype, you can use spellstrike on any one trip combat maneuver you make with the staff."
 +++
 
-## Tripping Twirl (Combat)
-
 You can make a trip attack with a quarterstaff on all adjacent enemies.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Trip](ref/feat/improved-trip), [Tripping Staff](ref/feat/tripping-staff), base attack

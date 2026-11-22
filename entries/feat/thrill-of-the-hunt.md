@@ -19,8 +19,6 @@ benefit = "Once per day, when you succeed at a Survival check to find or follow 
 special = "An animal companion can choose this feat as if it were an animal feat."
 +++
 
-## Thrill of the Hunt (Combat)
-
 The pursuit of prey invigorates you. You revel in tracking down and slaying your quarry.\
 **Prerequisites:** Survival 1 rank; base attack bonus +4 or track class feature.\
 **Benefit:** Once per day, when you succeed at a Survival check to find or follow a creature's

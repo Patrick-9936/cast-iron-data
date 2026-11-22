@@ -20,8 +20,6 @@ page = "75"
 kind = "none"
 +++
 
-**Cayden Cailean**
-
 **Sub:** The Drunken Hero
 
 ### Details

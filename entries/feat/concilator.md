@@ -18,8 +18,6 @@ prerequisites = "Must have successfully requested that the opposing sides of a v
 benefit = "You can attempt a Diplomacy check to make a request of an enemy even if he is unfriendly or hostile, but only to request a pause in combat (which requires you and your apparent allies to take no attacks or hostile actions for 1 round prior to the request) or to request that he uses only nonlethal attacks (which requires you and your apparent allies to have made no attacks or used only nonlethal attacks against him for the past 24 hours). The DC is equal to 15 + the target's CR + the target's Wisdom modifier; it is modified by any other factors that would impact a Diplomacy check to make a request."
 +++
 
-## Concilator (Story)
-
 You have witnessed terrible violence and prefer a better way\
 **Prerequisites:** Must have successfully requested that the opposing sides of a violent encounter
 pause for parley.\

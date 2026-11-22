@@ -14,8 +14,6 @@ page = "18"
 kind = "none"
 +++
 
-**Count Ranalc**
-
 **Sub:** The Traitor
 
 ### Details

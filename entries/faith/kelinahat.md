@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Kelinahat**
-
 **Sub:** She of Ebon Wings
 
 ### Details

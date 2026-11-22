@@ -17,8 +17,6 @@ page = "74"
 kind = "none"
 +++
 
-**Mephistopheles**
-
 **Sub:** The Crimson Son
 
 **Monster Link** [Mephistopheles](ref/monster/archdevil-mephistopheles)

@@ -20,8 +20,6 @@ benefit = "You can treat a net as a one-handed ranged weapon, allowing you to wi
 normal = "A net is a two-handed ranged weapon."
 +++
 
-## Net and Trident (Combat)
-
 Your skill with lighter weapons allows you to wield one alongside your net.\
 **Prerequisites:** Dex 15, [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency) (net),
 [Net Adept](ref/feat/net-adept), [Two-Weapon Fighting](ref/feat/two-weapon-fighting).\

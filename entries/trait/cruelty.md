@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You were rewarded as a child for flaunting your victory over others as completely as
 possible, and you discovered you enjoyed the feeling of rubbing your foes' faces in the dirt.
 

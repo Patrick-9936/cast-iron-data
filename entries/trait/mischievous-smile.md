@@ -12,8 +12,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Chaldira](ref/faith/chaldira-zuzaristan)
 
 **Flavor:** You consider mischief a sacred rite in humbling enemies.

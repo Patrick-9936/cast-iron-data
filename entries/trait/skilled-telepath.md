@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Lashunta](ref/race/lashunta)
 
 **Benefit:** The range of your _limited telepathy_ racial ability increases by 5 feet.

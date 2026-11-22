@@ -29,8 +29,6 @@ abilities = ["41", "12", "21", "2", "11", "6"]
 _This immense primeval whale has a sleek body that looks more serpentine than mammal, and jaws
 filled with sharp teeth._
 
-**Basilosaurus**
-
 **Challenge rating:** 12
 
 **Type:** animal

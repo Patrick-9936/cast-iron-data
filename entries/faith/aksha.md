@@ -14,8 +14,6 @@ page = "130"
 kind = "none"
 +++
 
-**Aksha**
-
 **Sub:** Second Breath
 
 ### Details

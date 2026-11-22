@@ -31,8 +31,6 @@ abilities = ["22", "14", "-", "-", "10", "1"]
 _The stone statue of a menacing fiend crouches here, as though ready to spring to life and devour
 innocent passers-by. Then it moves - to do just that._
 
-**Gargoyle Guardian**
-
 **Challenge rating:** 8
 
 **Type:** construct

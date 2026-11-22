@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Undine](ref/race/undine)
 
 **Flavor:** You learned early on that teamwork can help keep you safe from troublemakers.

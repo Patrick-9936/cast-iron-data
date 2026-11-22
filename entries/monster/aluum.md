@@ -33,8 +33,6 @@ abilities = ["27", "12", "-", "-", "11", "1"]
 _This looming humanoid figure is made of rune-etched metal and polished stone, with crystalline eyes
 that glow with blue light._
 
-**Aluum**
-
 **Challenge rating:** 10
 
 **Type:** construct

@@ -32,8 +32,6 @@ abilities = ["-", "19", "12", "15", "16", "17"]
 _This creature's eyes are large and lidless, and its large head dominates its lanky frame. Tiny
 wings spread across its back and the four digits of each hand end in sharp claws._
 
-**Ikelos**
-
 **Challenge rating:** 7
 
 **aura:** lethargy (30 ft., DC 17, 10 rounds)

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Ombo
 
 **Flavor:** You may never have participated in a single slave raid, but members of other tribes

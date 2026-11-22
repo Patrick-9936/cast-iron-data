@@ -30,8 +30,6 @@ abilities = ["16", "14", "17", "2", "13", "7"]
 _This proud horse thunders across the grassy plain with fluid grace, wind tugging at its
 loose-fitting barding._
 
-**Horse**
-
 **Challenge rating:** 1
 
 **Type:** animal

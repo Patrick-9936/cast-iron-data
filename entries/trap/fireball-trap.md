@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Fireball Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 5

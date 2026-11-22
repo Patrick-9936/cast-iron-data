@@ -21,8 +21,6 @@ prerequisites = "Survival 1 rank."
 benefit = "When traveling through terrain in which you can leave no trail and be impossible to track (as a result of favored terrain, trackless step, or a similar class feature), you grant that ability to allies within 60 feet who also have this feat."
 +++
 
-## Scion of the Land (Teamwork)
-
 You are strongly linked to natural terrain and to others who share your link.\
 **Prerequisites:** Survival 1 rank.\
 **Benefit:** When traveling through terrain in which you can leave no trail and be impossible to

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Nagaji](ref/race/nagaji)
 
 **Flavor:** Your loyalty to the nagaji nation of Nagajor is powerful.

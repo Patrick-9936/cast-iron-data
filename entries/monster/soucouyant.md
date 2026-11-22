@@ -30,8 +30,6 @@ abilities = ["18", "22", "17", "14", "17", "19"]
 _This walking nightmare resembles a white-haired old woman who looks as though she has been skinned
 alive, her bloody muscles and sinews pulsing grotesquely._
 
-**Soucouyant**
-
 **Challenge rating:** 8
 
 **Initiative:** +10

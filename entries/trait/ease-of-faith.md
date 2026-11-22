@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your mentor, the person who invested your faith in you from an early age, took steps to
 ensure you understood that what powers your divine magic is no different from that which powers the
 magic of other religions. This philosophy makes it easier for you to interact with others who may

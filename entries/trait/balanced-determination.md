@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You've come to appreciate the balanced approach taken by sovereign dragons.
 
 **Benefit:** Once per day, before attempting a saving throw against a spell ability originating from

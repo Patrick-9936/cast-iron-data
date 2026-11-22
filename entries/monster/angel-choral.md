@@ -34,8 +34,6 @@ abilities = ["13", "16", "15", "16", "16", "17"]
 _This shimmering being looks like a miniature human with broad, iridescent wings and hair that
 slowly ripples through the air._
 
-**Choral**
-
 **Challenge rating:** 6
 
 **aura:** protective aura

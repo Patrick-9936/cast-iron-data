@@ -30,8 +30,6 @@ abilities = ["21", "14", "23", "6", "9", "6"]
 _This tall creature has rough, green hide. Its hands end in claws, and its bestial face has a
 hideous, tusked underbite._
 
-**Troll**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

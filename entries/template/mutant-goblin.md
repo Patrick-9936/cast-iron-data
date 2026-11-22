@@ -14,8 +14,6 @@ page = "112"
 kind = "none"
 +++
 
-**Mutant Goblin**
-
 **Acquired:** present
 
 **Challenge rating:** +1

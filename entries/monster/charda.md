@@ -35,8 +35,6 @@ abilities = ["16", "15", "19", "11", "12", "8"]
 _Armored in dense, bony plates, this four-armed creature drools wretched strings of black bile from
 its fanged maw._
 
-**Charda**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic neutral

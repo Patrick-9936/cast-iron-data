@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Elf](ref/race/elf)
 
 **Flavor:** You are a member of the [Lantern Bearers](ref/rule/aff-lights) or an agent of the Winter

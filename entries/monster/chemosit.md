@@ -32,8 +32,6 @@ beats its chest like a gorilla. Despite its ape-like stance, its frame is far he
 features more primitive, its powerful muzzle and gnashing canines bespeaking terrible, bestial
 savagery._
 
-**Chemosit**
-
 **Challenge rating:** 4
 
 **Initiative:** +7

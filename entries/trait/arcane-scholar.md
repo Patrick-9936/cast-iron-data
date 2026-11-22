@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Study of the "Prime Archmage" chapter has broadened your magical knowledge.
 
 **Benefit:** Choose either [Knowledge (arcana)](ref/skill/knowledge-arcana) or

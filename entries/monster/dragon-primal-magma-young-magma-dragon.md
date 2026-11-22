@@ -31,8 +31,6 @@ abilities = ["21", "14", "17", "14", "14", "13"]
 _Between this dragon's jet-black scales run glowing rivulets of lava, and veins aglow with heat
 shine in the membranes of its wings._
 
-**Young Magma Dragon**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic neutral

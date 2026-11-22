@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Whispering Way](ref/rule/f-gravepath)
 
 **Flavor:** You have learned the secrets of _[sotto voce](ref/spell/sotto-voce),_ the eerie, dry

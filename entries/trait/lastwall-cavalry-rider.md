@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lastwall
 
 **Flavor:** From the moment you were old enough to walk, you learned how to ride the mighty

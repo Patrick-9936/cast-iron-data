@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-shield-bash", "ref/feat/shield-focus"]
 benefit = "Creatures struck by your shield bash take a -2 penalty to their AC until the end of your next turn."
 +++
 
-## Stumbling Bash (Combat, Shield Mastery)
-
 Your shield bash causes your enemies to falter.\
 **Prerequisites:** [Improved Shield Bash](ref/feat/improved-shield-bash),
 [Shield Focus](ref/feat/shield-focus), base attack bonus +6 or fighter level 4th.\

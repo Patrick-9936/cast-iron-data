@@ -33,8 +33,6 @@ abilities = ["17", "18", "14", "15", "12", "11"]
 _This flame-red humanoid appears to be a strange mix of insect and reptile, with four arms and
 twitching, fanged mandibles._
 
-**Xill**
-
 **Challenge rating:** 6
 
 **Initiative:** +8

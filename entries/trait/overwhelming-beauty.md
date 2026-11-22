@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your wiles are particularly potent against people who share a race with you, as your
 beauty is often held up as a symbol of perfection.
 

@@ -33,8 +33,6 @@ abilities = ["14", "25", "24", "21", "24", "23"]
 _This skeletally thin woman has a moth-like face, flies upon dragonfly wings, and is wrapped in
 shadows._
 
-**Oolioddroo**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic evil

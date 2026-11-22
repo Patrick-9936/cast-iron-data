@@ -31,8 +31,6 @@ abilities = ["17", "21", "-", "11", "18", "18"]
 _This nearly skeletal figure wields a pistol in each hand. Its garb is dusty and weathered, and
 smells of old decay._
 
-**Pale Stranger**
-
 **Challenge rating:** 10
 
 **aura:** fear (10 ft., DC 21)

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Drow](ref/race/drow)
 
 **Flavor:** Your body responds strongly to transmutations because you were exposed to fleshwarping

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling)
 
 **Benefit:** Select a good-aligned deity. Add 1 to the DCs of your spells' saves when targeting a

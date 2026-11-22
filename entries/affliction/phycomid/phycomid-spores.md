@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Phycomid Spores"
 source_ids = ["bestiary-2"]
 parent = "ref/monster/phycomid"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "phycomid|affliction:phycomid-spores", path = "json/monsters36.json" },
 ]

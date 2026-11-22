@@ -29,8 +29,6 @@ special_qualities = "armor training 1"
 abilities = ["13", "18", "13", "10", "8", "10"]
 +++
 
-**Goblin Commando**
-
 **Challenge rating:** 2
 
 **Goblin [fighter](ref/class/fighter) 3**

@@ -30,8 +30,6 @@ abilities = ["1", "15", "6", "2", "15", "6"]
 
 _This squat, black-and-white bird has a bright red-and-black beak._
 
-**Puffin**
-
 **Challenge rating:** 1/8
 
 **Type:** animal

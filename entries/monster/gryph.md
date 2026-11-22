@@ -30,8 +30,6 @@ abilities = ["11", "15", "14", "2", "12", "7"]
 _This hawk-sized avian looks much like a six-legged stork. Its feathers are unkempt and greasy, and
 its beak is razor-sharp._
 
-**Gryph**
-
 **Challenge rating:** 1
 
 **Initiative:** +2

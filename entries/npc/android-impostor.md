@@ -17,8 +17,6 @@ cr = "5"
 
 _Intricate tribal tattoos cover the skin of this greataxe-wielding Kellid warrior._
 
-**Android Impostor**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

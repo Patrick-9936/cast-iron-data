@@ -30,8 +30,6 @@ abilities = ["21", "10", "17", "7", "10", "9"]
 _A mass of tangled vines and dripping slime rises on two trunk-like legs, reeking of rot and freshly
 turned earth._
 
-**Shambling Mound**
-
 **Challenge rating:** 6
 
 **Initiative:** +0

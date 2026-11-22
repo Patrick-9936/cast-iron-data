@@ -30,8 +30,6 @@ abilities = ["34", "22", "35", "7", "14", "21"]
 _This immense creature's warty body is shaped like a many-pointed star, and from it sprout nearly a
 dozen different wings._
 
-**Volnagur (The End-Singer)**
-
 **Challenge rating:** 22
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 27)

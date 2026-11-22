@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You learned defensive moves from Aldori trainers.
 
 **Benefit:** You gain an additional +1 dodge bonus to Armor Class while you

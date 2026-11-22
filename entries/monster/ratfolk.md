@@ -32,8 +32,6 @@ abilities = ["6", "15", "11", "14", "10", "9"]
 _This small, rat-like humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery
 tail._
 
-**Ratfolk**
-
 **Challenge rating:** 1/3
 
 **Ratfolk [expert](ref/npcclass/expert) 1**

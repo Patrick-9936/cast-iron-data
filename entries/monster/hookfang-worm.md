@@ -31,8 +31,6 @@ abilities = ["27", "19", "21", "-", "16", "2"]
 _This long, orange, segmented worm's colorful head unfolds like a horrific flower to reveal five
 large, black, hook-like teeth._
 
-**Hookfang Worm**
-
 **Challenge rating:** 7
 
 **Size:** huge

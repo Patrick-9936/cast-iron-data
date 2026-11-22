@@ -31,8 +31,6 @@ abilities = ["11", "19", "14", "8", "10", "13"]
 _Dancing in a wicked celebration, this slight humanoid is wrapped head to toe in dirty scraps of
 dark cloth._
 
-**Dark Dancer**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic neutral

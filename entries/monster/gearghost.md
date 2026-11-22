@@ -30,8 +30,6 @@ abilities = ["6", "17", "-", "15", "14", "17"]
 _Grasping arms emerge from a tangled cluster of debris and mechanical parts. A metal skull hovers
 above the clanging mess._
 
-**Gearghost**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

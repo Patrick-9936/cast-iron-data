@@ -15,8 +15,6 @@ kind = "creature"
 cr = "6"
 +++
 
-**Freelance Thief**
-
 **Challenge rating:** 6
 
 **XP** 2,400\

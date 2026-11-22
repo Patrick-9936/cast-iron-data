@@ -19,20 +19,9 @@ prerequisites = "Snatch Arrows."
 benefit = "When you use Snatch Arrows to catch a thrown weapon that can also be used as a melee weapon, you can make a melee attack with it as an immediate action against a foe within the weapon's melee reach. You can expend one use of mythic power to make this attack without spending an immediate action."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can use the weapons you pluck from the air to immediately make melee attacks._
-
-## Prerequisites {#prerequisites}
-
-_Snatch Arrows._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When you use Snatch Arrows to catch a thrown weapon that can also be used as a melee weapon, you can
-make a melee attack with it as an immediate action against a foe within the weapon's melee reach.
-You can expend one use of mythic power to make this attack without spending an immediate action.
-:::
+You can use the weapons you pluck from the air to immediately make melee attacks.\
+**Prerequisites:** Snatch Arrows.\
+**Benefit:** When you use Snatch Arrows to catch a thrown weapon that can also be used as a melee
+weapon, you can make a melee attack with it as an immediate action against a foe within the weapon's
+melee reach. You can expend one use of mythic power to make this attack without spending an
+immediate action.

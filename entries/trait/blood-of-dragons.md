@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Flavor:** Long ago, your ancestors' blood mixed with that of dragons.
 
 **Benefit:** Choose one of the following: gain a +1 trait bonus on

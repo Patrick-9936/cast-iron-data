@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Shackles
 
 **Benefit:** You have sailed on some of the roughest seas on Golarion, and have skirted the Eye of

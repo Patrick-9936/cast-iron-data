@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Vampire; Jiang-shi
 
 **Benefit:** Your keen ear for language grants you a +2 trait bonus on skill checks when decoding

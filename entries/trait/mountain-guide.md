@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Five Kings Mountains
 
 **Flavor:** You are skilled at getting along in the mountains, enabling you to find hidden trails

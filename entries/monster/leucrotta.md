@@ -34,8 +34,6 @@ abilities = ["21", "12", "18", "11", "14", "17"]
 _This freakish beast has the head of a badger, the hooves of a stag, and a wide mouth with sharp
 ridges of bone instead of teeth._
 
-**Leucrotta**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

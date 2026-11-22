@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You do not fear the threat of lesser weapons.
 
 **Benefit:** Whenever you provoke an attack of opportunity by firing a firearm, you gain a +1 trait

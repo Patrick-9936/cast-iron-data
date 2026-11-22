@@ -30,8 +30,6 @@ abilities = ["22", "18", "-", "13", "18", "21"]
 _A skeletal carcass pulls itself from the ground, its body formed as much from earth and soil as
 from bones and rotting flesh._
 
-**Guecubu**
-
 **Challenge rating:** 8
 
 **aura:** broken ground (30 ft., DC 20)

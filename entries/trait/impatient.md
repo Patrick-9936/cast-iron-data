@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You love leaping into battle at the earliest opportunity, and it frustrates you to wait
 for others to act.
 

@@ -34,8 +34,6 @@ abilities = ["-", "22", "-", "13", "15", "19"]
 _This floating, ghostly humanoid's face is a blend of human and beast. Canine shapes twine around
 the creature's legs._
 
-**Duppy**
-
 **Challenge rating:** 7
 
 **aura:** [unnatural aura](ref/umr/unnatural-aura) (30 ft.)

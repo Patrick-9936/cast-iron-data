@@ -29,8 +29,6 @@ special_qualities = "slow and steady, stability"
 abilities = ["17", "10", "16", "10", "15", "4"]
 +++
 
-**Duergar Sergeant**
-
 **Challenge rating:** 1
 
 **Duergar [fighter](ref/class/fighter) 2**

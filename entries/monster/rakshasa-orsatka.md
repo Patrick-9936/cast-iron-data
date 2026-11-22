@@ -31,8 +31,6 @@ abilities = ["28", "22", "26", "15", "21", "19"]
 _This hulking bear-headed fiend has a mouth full of fangs and clawed, six-fingered hands with too
 many knuckles._
 
-**Orsatka**
-
 **Challenge rating:** 13
 
 **Initiative:** +6

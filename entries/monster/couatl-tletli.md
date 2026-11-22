@@ -30,8 +30,6 @@ abilities = ["32", "19", "24", "17", "24", "23"]
 _This massive flying serpent's iridescent scales glimmer like opals, and white-hot flames dance
 along the feathers of its burning wings._
 
-**Tletli**
-
 **Challenge rating:** 14
 
 **Size:** huge

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Diaspora
 
 **Flavor:** You were raised in the Diaspora and are accustomed to being isolated from most other

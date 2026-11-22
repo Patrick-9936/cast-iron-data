@@ -32,8 +32,6 @@ abilities = ["24", "28", "-", "-", "11", "18"]
 _Brass, bronze, and silver components adorn this angelic figure. Moving gears are visible within the
 gaps of its metallic body._
 
-**Clockwork Angel**
-
 **Challenge rating:** 15
 
 **Type:** construct

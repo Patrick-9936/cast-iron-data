@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Ondisso**
-
 **Sub:** The Stalwart Stair
 
 ### Details

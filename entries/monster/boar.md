@@ -29,8 +29,6 @@ abilities = ["17", "10", "17", "2", "13", "4"]
 _This ill-tempered beast's tiny, bloodshot eyes glare angrily above a mouth filled with sharp
 tusks._
 
-**Boar**
-
 **Challenge rating:** 2
 
 **Type:** animal

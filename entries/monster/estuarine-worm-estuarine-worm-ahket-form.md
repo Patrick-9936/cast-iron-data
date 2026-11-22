@@ -32,8 +32,6 @@ abilities = ["32", "16", "23", "1", "13", "8"]
 _As thick and tall as a towering palm tree, this mud-colored worm hisses through a fanged mouth.
 Atop its head, a small protuberance shines like a star._
 
-**Estuarine Worm (Ahket Form)**
-
 **Challenge rating:** 10
 
 **Size:** huge

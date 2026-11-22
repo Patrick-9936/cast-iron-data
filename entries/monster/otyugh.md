@@ -29,8 +29,6 @@ abilities = ["18", "10", "13", "5", "13", "6"]
 _This three-legged freak is mostly mouth. Three tentacles, two tipped with barbs and one with eyes,
 extend from its sides._
 
-**Otyugh**
-
 **Challenge rating:** 4
 
 **Type:** aberration

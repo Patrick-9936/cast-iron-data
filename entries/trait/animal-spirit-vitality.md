@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kyonin
 
 **Flavor:** The elven druids of Kyonin taught you to commune with the natural healing powers of

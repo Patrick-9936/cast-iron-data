@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Nivi Rhombodazzle](ref/faith/nivi-rhombodazzle)
 
 **Flavor:** You can change the fortunes of others, typically for the better.

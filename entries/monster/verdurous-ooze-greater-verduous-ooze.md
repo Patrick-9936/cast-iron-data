@@ -31,8 +31,6 @@ _A pool of greenish muck, blossoming with weird vegetable-like growths and sap-s
 twitches into unnatural motion as a pseudopod springs outward, dragging the entire grotesque mass
 forward with an ameboid life._
 
-**Greater Verduous Ooze**
-
 **Challenge rating:** 11
 
 **aura:** sleep (60 ft., DC 24)

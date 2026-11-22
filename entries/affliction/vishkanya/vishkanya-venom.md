@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Vishkanya Venom"
 source_ids = ["bestiary-3"]
 parent = "ref/monster/vishkanya"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "vishkanya|affliction:vishkanya-venom", path = "json/monsters40.json" },
 ]

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** forest
 
 **Flavor:** The time you've spent crawling through thorny brambles and other thick underbrush during

@@ -18,8 +18,6 @@ prerequisites = "Base attack bonus +7, weapon training class feature with a mele
 benefit = "While wielding an appropriate melee weapon, you gain the following special abilities, based on which special material the weapon is primarily constructed of (if any)."
 +++
 
-## Weapon Material Mastery (Weapon Mastery)
-
 You can perform impressive deeds with weapons made from peculiar materials.\
 **Prerequisites:** Base attack bonus +7, weapon training class feature with a melee weapon.\
 **Benefit:** While wielding an appropriate melee weapon, you gain the following special abilities,

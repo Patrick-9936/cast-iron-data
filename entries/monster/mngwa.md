@@ -30,8 +30,6 @@ abilities = ["24", "18", "18", "3", "13", "11"]
 
 _This jungle cat has a dark coat of striped fur, glossy black teeth and claws, and a black mane._
 
-**Mngwa**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

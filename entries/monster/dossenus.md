@@ -30,8 +30,6 @@ abilities = ["12", "11", "14", "3", "10", "5"]
 _This small creature looks like a lumpy head with crab legs and a giant mouth filled with stone
 teeth._
 
-**Dossenus**
-
 **Challenge rating:** 1
 
 **Type:** aberration

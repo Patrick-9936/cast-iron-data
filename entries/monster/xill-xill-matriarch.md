@@ -33,8 +33,6 @@ abilities = ["21", "18", "18", "15", "18", "19"]
 _This flame-red, four-armed creature has large mandibles and numerous horn-like projections spike
 from its head._
 
-**Xill Matriarch**
-
 **Challenge rating:** 9
 
 **Initiative:** +8

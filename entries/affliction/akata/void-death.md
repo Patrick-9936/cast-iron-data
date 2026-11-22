@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Void Death"
 source_ids = ["bestiary-2", "pathfinder-14-children-of-the-void"]
 parent = "ref/monster/akata"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "akata|affliction:void-death", path = "json/monsters01.json" },
 ]

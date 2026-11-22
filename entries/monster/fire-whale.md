@@ -31,8 +31,6 @@ abilities = ["46", "14", "25", "6", "27", "13"]
 
 _Waves of searing heat ripple from the stony, gem-encrusted hide of this enormous whale-like beast._
 
-**Fire Whale**
-
 **Challenge rating:** 16
 
 **blindsense:** 60

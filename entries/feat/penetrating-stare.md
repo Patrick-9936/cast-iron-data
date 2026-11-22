@@ -18,8 +18,6 @@ prerequisites = "Mesmerist level 7th, painful stare class feature."
 benefit = "When you trigger your painful stare, the damage dealt ignores 5 points of the target's damage reduction, unless that damage reduction is untyped (for example, DR 10/-)."
 +++
 
-## Penetrating Stare (Combat, Stare)
-
 Your stare penetrates right through your foe's strongest mental defenses.\
 **Prerequisites:** [Mesmerist](ref/class/mesmerist) level 7th, painful stare class feature.\
 **Benefit:** When you trigger your painful stare, the damage dealt ignores 5 points of the target's

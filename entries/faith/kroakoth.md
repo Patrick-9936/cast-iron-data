@@ -14,8 +14,6 @@ page = "74"
 kind = "none"
 +++
 
-**Kro'akoth**
-
 **Sub:** The Fire Serpent
 
 ### Details

@@ -30,8 +30,6 @@ special_qualities = "hold breath, swamp stride"
 abilities = ["19", "13", "16", "6", "13", "10"]
 +++
 
-**Boggard Brute**
-
 **Challenge rating:** 3
 
 **Boggard [fighter](ref/class/fighter) 1**

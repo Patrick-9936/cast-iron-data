@@ -30,8 +30,6 @@ special_qualities = "cruelties (fatigued, staggered), fiendish boon (fiendish rh
 abilities = ["25", "10", "19", "6", "8", "14"]
 +++
 
-**Ogre Destroyer**
-
 **Challenge rating:** 10
 
 **Ogre [antipaladin](ref/class/antipaladin) 7**

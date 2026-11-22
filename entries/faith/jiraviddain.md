@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Jiraviddain**
-
 **Sub:** Duke of Fissures
 
 ### Details

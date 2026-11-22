@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Insanity Mist Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 8

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Benefit:** You were born into a rich family, perhaps even the nobility, and even though you turned
 to a life of adventure, you enjoy a one-time benefit to your initial finances: your starting wealth
 increases to 900 gp.

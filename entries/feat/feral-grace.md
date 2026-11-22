@@ -20,8 +20,6 @@ benefit = "Choose one of the animal companion's natural attack. When the animal 
 special = "You can select this feat multiple times. Its effects don't stack. Each time you select this feat, choose a different natural attack to apply its benefit to."
 +++
 
-## Feral Grace (Combat)
-
 The animal's grace and agility are honed for battle, making it a deadly combatant.\
 **Prerequisites:** [Weapon Finesse](ref/feat/weapon-finesse), base attack bonus +3, animal
 companion.\

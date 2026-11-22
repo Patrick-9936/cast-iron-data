@@ -34,8 +34,6 @@ abilities = ["20", "8", "-", "-", "17", "15"]
 _This tangle of rotten, seemingly lifeless roots twitches slightly, moving the damp, bloody ground
 beneath it._
 
-**Leechroot**
-
 **Challenge rating:** 4
 
 **Initiative:** -1

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Nagaji](ref/race/nagaji)
 
 **Region:** Jalmeray

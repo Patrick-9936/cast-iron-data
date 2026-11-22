@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Tian Xia
 
 **Benefit:** If you would take a penalty for using the [Heal](ref/skill/heal) skill to treat deadly

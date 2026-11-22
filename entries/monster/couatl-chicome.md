@@ -30,8 +30,6 @@ abilities = ["30", "20", "25", "18", "29", "27"]
 _The feathers of this winged serpent are hues of verdant green, save for the crimson feathers on its
 head and crest. Its wings let forth thin clouds of golden pollen and showers of dew._
 
-**Chicome**
-
 **Challenge rating:** 16
 
 **aura:** resplendence (1/2 mile)

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "17"
 +++
 
-**Refined Reaver**
-
 **Challenge rating:** 17
 
 **XP** 102,400\

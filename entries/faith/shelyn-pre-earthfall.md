@@ -14,8 +14,6 @@ page = "74"
 kind = "none"
 +++
 
-**Shelyn (pre-Earthfall)**
-
 **Sub:** Song of the Prism
 
 ### Details

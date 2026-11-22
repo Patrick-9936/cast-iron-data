@@ -13,7 +13,5 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Benefit:** Each [fiendish](ref/template/fiendish) animal you conjure with any summon spell gains
 +1 hit point per hit die for the duration of the spell that summoned it.

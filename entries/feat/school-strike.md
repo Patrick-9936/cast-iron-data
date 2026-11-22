@@ -20,8 +20,6 @@ benefit = "When you gain this feat, choose one arcane school power that you can 
 special = "You can take this feat multiple times. Each time you take it, you apply it to a different qualifying arcane school power."
 +++
 
-## School Strike (Combat)
-
 You focus the secrets of your school of wizardry into your unarmed strike.\
 **Prerequisites:** Wizard school class feature,
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\

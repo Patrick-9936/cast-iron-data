@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mivon
 
 **Flavor:** You fled the persecution of Brevoy authorities and wound up in Mivon. Whether or not you

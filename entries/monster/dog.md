@@ -28,8 +28,6 @@ abilities = ["13", "13", "15", "2", "12", "6"]
 
 _This small dog has a rough coat and a hungry look in its dark brown eyes._
 
-**Dog**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

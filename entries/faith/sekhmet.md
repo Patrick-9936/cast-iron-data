@@ -14,8 +14,6 @@ page = "72"
 kind = "none"
 +++
 
-**Sekhmet**
-
 **Sub:** Lady of Slaughter
 
 ### Details

@@ -14,8 +14,6 @@ page = "41"
 kind = "none"
 +++
 
-**Ghlaunder**
-
 **Sub:** The Gossamer King
 
 ### Details

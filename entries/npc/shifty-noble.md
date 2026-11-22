@@ -18,8 +18,6 @@ cr = "2"
 _This well-dressed noble carries herself with poise, and her eyes seem to catalog everything she
 observes._
 
-**Shifty Noble**
-
 **Challenge rating:** 2
 
 **XP** 600\

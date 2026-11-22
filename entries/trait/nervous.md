@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Living under constant threat of death or worse from your oppressive government, your
 nerves have frayed terribly.
 

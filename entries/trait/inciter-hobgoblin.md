@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Hobgoblin](ref/race/hobgoblin)
 
 **Flavor:** You witnessed or were part of a feud that turned close friends into hateful enemies.

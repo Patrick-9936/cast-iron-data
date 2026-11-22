@@ -30,8 +30,6 @@ abilities = ["17", "15", "15", "6", "14", "10"]
 
 _This emaciated, hairless canine has a strange air of menace and cruelty about it._
 
-**Yeth Hound**
-
 **Challenge rating:** 3
 
 **Initiative:** +6

@@ -29,8 +29,6 @@ abilities = ["13", "15", "15", "2", "12", "6"]
 _This powerful canine watches its prey with piercing yellow eyes, darting its tongue across sharp
 white teeth._
 
-**Wolf**
-
 **Challenge rating:** 1
 
 **Type:** animal

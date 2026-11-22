@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Iobaria
 
 **Benefit:** Whenever you are exposed to a disease while you are trying to treat an afflicted

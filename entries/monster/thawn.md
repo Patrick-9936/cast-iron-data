@@ -31,8 +31,6 @@ _A hulking humanoid cloaked in ragged cloth limps forward, its malformed, tumoro
 claws the length of scythe blades. From beneath its rags droop lengths of loose flesh and a
 strangled wheezing issues from its deformed lips._
 
-**Thawn**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

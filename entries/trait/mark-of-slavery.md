@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You were enslaved for part or all of your youth, and marked as such with a brand or
 tattoo that still reminds you of how you were punished whenever you failed to do what you should.
 

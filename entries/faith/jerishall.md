@@ -14,8 +14,6 @@ page = "10"
 kind = "none"
 +++
 
-**Jerishall**
-
 **Sub:** The Turning Sphere
 
 ### Details

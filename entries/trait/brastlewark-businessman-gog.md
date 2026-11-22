@@ -12,8 +12,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** Your time among the gnome elite of Brastlewark in Cheliax has led to an extensive

@@ -28,8 +28,6 @@ abilities = ["17", "15", "13", "6", "14", "10"]
 
 _This unusually large wolf has an evil, almost intelligent light shining in its deep red eyes._
 
-**Worg**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

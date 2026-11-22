@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your intense training with the Swords has taught you how to infiltrate otherwise
 inaccessible ruins and extract their treasures without too much exertion.
 

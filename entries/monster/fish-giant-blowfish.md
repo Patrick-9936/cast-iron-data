@@ -29,8 +29,6 @@ abilities = ["18", "13", "17", "1", "14", "12"]
 
 _A blowfish the size of a horse drifts through the water, its quills the size of spears._
 
-**Giant Blowfish**
-
 **Challenge rating:** 5
 
 **Type:** animal

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You share a close bond with animals.
 
 **Benefit:** You gain a +1 bonus on [Handle Animal](ref/skill/handle-animal) checks and

@@ -30,8 +30,6 @@ abilities = ["26", "11", "-", "-", "11", "1"]
 _Though corroded and damaged, this bipedal metallic construct moves silently, as though powered by
 some force other than its own rattling gears._
 
-**Robot Golem**
-
 **Challenge rating:** 11
 
 **Type:** construct

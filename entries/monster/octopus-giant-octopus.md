@@ -30,8 +30,6 @@ abilities = ["20", "15", "17", "2", "12", "3"]
 _A storm of tentacles, each twenty feet in length, flails with deadly precision from the leathery
 body of this gigantic octopus._
 
-**Giant Octopus**
-
 **Challenge rating:** 8
 
 **Type:** animal

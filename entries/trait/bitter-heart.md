@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Changeling](ref/race/changeling)
 
 **Benefit:** You share a sliver of your mother's supernatural hatred, gaining a +2 trait bonus to

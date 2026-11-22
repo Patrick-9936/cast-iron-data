@@ -31,8 +31,6 @@ abilities = ["18", "11", "14", "7", "12", "9"]
 _This snake-bodied dragon has a sinuous tail with a spiked tip. Flared wings attach to its
 forelimbs, and it lacks rear legs._
 
-**Amphiptere**
-
 **Challenge rating:** 4
 
 **Type:** dragon

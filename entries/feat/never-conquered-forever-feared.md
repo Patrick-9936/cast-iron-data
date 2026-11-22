@@ -18,8 +18,6 @@ prerequisites = "Be a member of House Heskillar, or have the Adopted by Dragons 
 benefit = "Your stern demeanor gives you a +2 bonus on Intimidate checks. If you have 10 or more ranks in Intimidate, this bonus increases to +4. You also gain a +2 bonus on saves against paralysis and sleep effects."
 +++
 
-## Never Conquered, Forever Feared (Story)
-
 You are dauntless in battle, and your lineage echoes with awe-inspiring power.\
 **Prerequisites:** Be a member of House Heskillar, or have the Adopted by Dragons
 [adopted background](ref/rule/birth-circumstances-and-more), or the Path of Righteous Rage

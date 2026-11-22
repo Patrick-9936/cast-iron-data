@@ -14,8 +14,6 @@ page = "278"
 kind = "none"
 +++
 
-**Jiang-Shi**
-
 **Acquired:** present
 
 **Challenge rating:** +2

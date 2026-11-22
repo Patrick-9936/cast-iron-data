@@ -32,8 +32,6 @@ abilities = ["8", "18", "12", "13", "15", "17"]
 _This short fiend has mottled pink skin, clawed fingers, and green eyes. It drags a tattered scroll
 behind its feminine frame._
 
-**Curse Devil (Phiam)**
-
 **Challenge rating:** 5
 
 **Initiative:** +8

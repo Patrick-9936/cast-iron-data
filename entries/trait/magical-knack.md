@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You were raised, either wholly or in part, by a magical creature, either after it found
 you abandoned in the woods or because your parents often left you in the care of a magical minion.
 This constant exposure to magic has made its mysteries easy for you to understand, even when you

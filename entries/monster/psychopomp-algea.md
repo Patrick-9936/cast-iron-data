@@ -31,8 +31,6 @@ abilities = ["8", "30", "23", "15", "23", "26"]
 _This shrill swarm of whippoorwills flies in a spiral, their airborne antics infused with streamers
 of pale blue mist._
 
-**Algea**
-
 **Challenge rating:** 11
 
 **aura:** grief (30 ft., DC 24)

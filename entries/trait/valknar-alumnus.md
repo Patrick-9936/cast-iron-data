@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Tymon
 
 **Flavor:** You trained at the exclusive Valknar Gladiatorial College.

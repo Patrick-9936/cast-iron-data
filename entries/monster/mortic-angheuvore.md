@@ -32,8 +32,6 @@ abilities = ["14", "15", "14", "13", "12", "11"]
 _This pale, gray-skinned elf has a gangly frame and an overlarge jaw. Its lips are spattered with
 blood._
 
-**Angheuvore**
-
 **Challenge rating:** 2
 
 **Type:** humanoid

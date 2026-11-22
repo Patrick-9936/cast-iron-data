@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Wendigo Psychosis (Su)"
 source_ids = ["bestiary-2", "pathfinder-6-spires-of-xin-shalast"]
 parent = "ref/monster/wendigo"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "wendigo|affliction:wendigo-psychosis-su", path = "json/monsters25.json" },
 ]

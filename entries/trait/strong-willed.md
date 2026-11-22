@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Cayden Cailean](ref/faith/cayden-cailean)
 
 **Flavor:** Your fervent desire to choose your own path gives you strong willpower.

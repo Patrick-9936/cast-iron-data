@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Chelaxian
 
 **Flavor:** A Chelaxian without a visible degree of success is marked as pathetic, and so you grew

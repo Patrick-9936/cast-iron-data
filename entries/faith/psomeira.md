@@ -14,8 +14,6 @@ page = "13"
 kind = "none"
 +++
 
-**Psomeira**
-
 **Sub:** The Divine General
 
 ### Details

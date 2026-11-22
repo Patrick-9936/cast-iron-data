@@ -29,8 +29,6 @@ abilities = ["22", "13", "24", "15", "17", "16"]
 
 _This muscular, violet demon walks upon elephantine feet. Large, razor-sharp horns cover its body._
 
-**Kalavakus**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic evil

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Shelyn](ref/faith/shelyn)
 
 **Benefit:** Once per day when you manifest your faith in your goddess, you gain a +4 trait bonus on

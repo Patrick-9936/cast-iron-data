@@ -30,8 +30,6 @@ abilities = ["9", "16", "15", "18", "14", "17"]
 
 _This gray-skinned humanoid has long, willowy limbs and a bulbous head with oversized black eyes._
 
-**Gray**
-
 **Challenge rating:** 4
 
 **Type:** humanoid

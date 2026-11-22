@@ -32,8 +32,6 @@ abilities = ["22", "18", "-", "-", "16", "1"]
 _Two emerald crystal eyes stare out from this artificial hound's brass-, bronze-, and iron-forged
 body._
 
-**Clockwork Hound**
-
 **Challenge rating:** 5
 
 **Type:** construct

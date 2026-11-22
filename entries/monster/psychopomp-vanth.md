@@ -33,8 +33,6 @@ abilities = ["18", "16", "17", "13", "19", "17"]
 _This humanoid skeleton has black raven wings, a long tail, and a polished vulture-like mask where
 its face should be._
 
-**Vanth**
-
 **Challenge rating:** 7
 
 **aura:** fear (30 ft., DC 17)

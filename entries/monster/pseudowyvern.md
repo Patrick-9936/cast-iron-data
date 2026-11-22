@@ -28,8 +28,6 @@ abilities = ["8", "14", "13", "7", "12", "9"]
 
 _The sinuous tail of this cat-sized winged, armless dragon is tipped with a scorpion-like stinger._
 
-**Pseudowyvern**
-
 **Challenge rating:** 2
 
 **Type:** dragon

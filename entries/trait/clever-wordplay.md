@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your cunning and logic are more than a match for another's confidence and poise.
 
 **Benefit:** Choose one Charisma-based skill. You attempt checks with that skill using your

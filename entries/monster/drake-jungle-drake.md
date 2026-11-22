@@ -32,8 +32,6 @@ abilities = ["24", "17", "19", "8", "13", "12"]
 _The skin of this rugged dragon is mottled in hues of blue and green. Its elongated tail hides a
 menacing stinger._
 
-**Jungle Drake**
-
 **Challenge rating:** 6
 
 **Type:** dragon

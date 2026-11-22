@@ -17,8 +17,6 @@ page = "25"
 kind = "none"
 +++
 
-**Ghost**
-
 **Acquired:** present
 
 **Challenge rating:** +2

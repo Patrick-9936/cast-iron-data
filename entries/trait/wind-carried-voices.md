@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Sylph](ref/race/sylph)
 
 **Flavor:** You are a master of seeing through falsehoods and sharing secrets - the wind itself

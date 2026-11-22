@@ -30,8 +30,6 @@ abilities = ["29", "12", "19", "16", "17", "16"]
 
 _Gangrenous wounds mar this dragon's twisted body._
 
-**Young Apocalypse Dragon**
-
 **Challenge rating:** 12
 
 **Type:** dragon

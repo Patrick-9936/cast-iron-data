@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Raised by pirates, bandits, or other troublemakers unwilling to stick out their necks
 for you, you are accustomed to operating on your own. The presence of allies can easily become a
 distraction to you, and you do your best to keep them out of your space.

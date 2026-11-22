@@ -18,8 +18,6 @@ prerequisites = "Bluff 8 ranks, gnome, gnome magic racial trait."
 benefit = "Whenever you're adjacent to any gnome allies who also have this feat, your appearance and mannerisms change into an amalgam of the features of you and your allies, making you and your allies look exactly alike. Your shapes occasionally appear to blend into each other, making it impossible to distinguish you and granting you and any affected allies a 20% miss chance due to concealment. This is an illusion (figment) effect."
 +++
 
-## Mirror Kin (Teamwork)
-
 Combining your cunning with illusion magic makes you and your allies nearly indistinguishable.\
 **Prerequisites:** Bluff 8 ranks, [gnome](ref/race/gnome), gnome magic racial trait.\
 **Benefit:** Whenever you're adjacent to any gnome allies who also have this feat, your appearance

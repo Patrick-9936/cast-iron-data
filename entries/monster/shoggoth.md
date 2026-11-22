@@ -35,8 +35,6 @@ abilities = ["40", "24", "31", "5", "22", "13"]
 _This immense mound of black slime thunders forward, eyes and mouths and even stranger things
 forming in its heaving bulk._
 
-**Shoggoth**
-
 **Challenge rating:** 19
 
 **Alignment:** Chaotic neutral

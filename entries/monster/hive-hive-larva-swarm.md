@@ -31,8 +31,6 @@ abilities = ["1", "15", "16", "-", "10", "1"]
 
 _This mass of writhing, maggot-like creatures secretes a caustic odor._
 
-**Hive Larva Swarm**
-
 **Challenge rating:** 5
 
 **Type:** aberration

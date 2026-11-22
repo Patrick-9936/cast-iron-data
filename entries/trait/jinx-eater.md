@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Tengu](ref/race/tengu)
 
 **Region:** The Shackles

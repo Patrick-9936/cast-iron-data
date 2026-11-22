@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/exotic-weapon-proficiency", "ref/feat/iron-will"
 benefit = "Whenever an effect would grant you an enhancement or morale bonus to your Strength score (such as via bull's strength or a skald's inspired rage performance), you can instead apply that bonus to your Dexterity score. You make this choice when you first gain the bonus. The bonus type does not change."
 +++
 
-## Redistributed Might (Combat)
-
 You've gained enough control over your body to translate strength into swiftness.\
 **Prerequisites:** Con 13, Wis 13, [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency)
 (aldori dueling sword), [Iron Will](ref/feat/iron-will), base attack bonus +4.\

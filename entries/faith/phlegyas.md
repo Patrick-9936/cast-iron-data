@@ -14,8 +14,6 @@ page = "16"
 kind = "none"
 +++
 
-**Phlegyas**
-
 **Sub:** The Consoler of Atheists
 
 ### Details

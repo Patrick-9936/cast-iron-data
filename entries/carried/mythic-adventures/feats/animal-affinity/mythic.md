@@ -19,20 +19,9 @@ prerequisites = "Animal Affinity."
 benefit = "The bonus on Handle Animal and Ride skill checks from Animal Affinity increases by 2. In addition, you can expend one use of mythic power to speak with animals as the spell. Your caster level for this effect is equal to twice your tier."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You have a greater affinity with wild animals, and can speak with them._
-
-## Prerequisites {#prerequisites}
-
-_Animal Affinity._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-The bonus on Handle Animal and Ride skill checks from Animal Affinity increases by 2. In addition,
-you can expend one use of mythic power to _[speak with animals](ref/spell/speak-with-animals) _as
-the spell. Your caster level for this effect is equal to twice your tier.
-:::
+You have a greater affinity with wild animals, and can speak with them.\
+**Prerequisites:** Animal Affinity.\
+**Benefit:** The bonus on Handle Animal and Ride skill checks from Animal Affinity increases by 2.
+In addition, you can expend one use of mythic power to
+_[speak with animals](ref/spell/speak-with-animals) _as the spell. Your caster level for this effect
+is equal to twice your tier.

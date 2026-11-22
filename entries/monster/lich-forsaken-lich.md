@@ -32,8 +32,6 @@ _This horribly withered creature moves in jerks and twitches as if constantly wr
 Waves of shadow undulate through the creature's body, emerging like appendages from just beneath its
 dry, stretched skin._
 
-**Forsaken Lich**
-
 **Challenge rating:** 12
 
 **Human lich [cleric](ref/class/cleric) of [Urgathoa](ref/faith/urgathoa) 11**

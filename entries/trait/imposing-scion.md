@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** The reputation of your bloodline grants you a degree of fearful respect.
 
 **Benefit:** You gain a +1 trait bonus on [Intimidate](ref/skill/intimidate) checks. If your

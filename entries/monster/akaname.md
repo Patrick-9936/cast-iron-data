@@ -30,8 +30,6 @@ abilities = ["15", "15", "15", "10", "12", "6"]
 _This short, spindly creature has warty, brown-red skin and large black eyes. Its long, muscular
 tongue drags on the ground beneath it._
 
-**Akaname**
-
 **Challenge rating:** 1
 
 **Type:** aberration

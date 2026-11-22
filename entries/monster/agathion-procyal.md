@@ -30,8 +30,6 @@ abilities = ["13", "15", "18", "18", "16", "17"]
 _Wide of chest and waist, this finely dressed man has a graymuzzled raccoon's head and beady,
 darting eyes._
 
-**Procyal**
-
 **Challenge rating:** 8
 
 **Initiative:** +2

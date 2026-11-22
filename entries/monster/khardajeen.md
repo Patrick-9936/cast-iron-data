@@ -32,8 +32,6 @@ abilities = ["18", "25", "22", "19", "22", "29"]
 _Four tentacles stick out of a churning nucleus of multicolored fluid. Plates of rock and metal
 orbit the floating mass._
 
-**Khardajeen**
-
 **Challenge rating:** 14
 
 **Type:** aberration

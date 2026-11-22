@@ -33,8 +33,6 @@ abilities = ["10", "18", "12", "13", "13", "11"]
 
 _This silent bat-like humanoid has a long, rat-like tail and four narrow eyes._
 
-**Grioth**
-
 **Challenge rating:** 1
 
 **blindsight:** 20

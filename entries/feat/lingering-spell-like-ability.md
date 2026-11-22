@@ -19,8 +19,6 @@ benefit = "Choose one of your spell-like abilities, subject to the restrictions 
 special = "This feat can be taken multiple times. Each time it is taken, you can apply it to a different spell-like ability."
 +++
 
-## Lingering Spell-Like Ability (Monster)
-
 Your [spell-like ability](ref/umr/spell-like-abilities) clings to existence, slowly fading from the
 world.\
 **Prerequisites:** Spell-like ability at caster level 4th or higher.\

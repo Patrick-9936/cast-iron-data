@@ -32,8 +32,6 @@ abilities = ["6", "13", "14", "12", "13", "11"]
 _With a head like an angry crustacean, this fierce little insectoid creature clacks and rattles with
 a tiny but solid-looking hammer._
 
-**Vexgit**
-
 **Challenge rating:** 1
 
 **Type:** fey

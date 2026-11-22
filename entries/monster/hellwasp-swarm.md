@@ -31,8 +31,6 @@ abilities = ["1", "22", "14", "6", "13", "9"]
 _This hideous, buzzing cloud of insects is comprised of black and yellow wasps with hungry red
 eyes._
 
-**Hellwasp Swarm**
-
 **Challenge rating:** 8
 
 **Size:** diminutive

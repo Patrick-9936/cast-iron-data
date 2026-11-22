@@ -17,8 +17,6 @@ page = "29"
 kind = "none"
 +++
 
-**Nulgreth**
-
 **Sub:** The Blood God
 
 ### Details

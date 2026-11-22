@@ -32,8 +32,6 @@ abilities = ["32", "23", "-", "-", "25", "11"]
 _This massive wood-and-metal giant wields a scythe, a wicked spiked wrecking ball, an immense pick,
 and a huge crossbow._
 
-**Warmonger**
-
 **Challenge rating:** 19
 
 **Type:** construct

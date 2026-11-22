@@ -15,7 +15,7 @@ kind = "item"
 category = "Wondrous Items"
 price = "13,000 gp"
 weight = "5 lbs."
-slot = "waist"
+slot = "belt"
 aura = "moderate transmutation"
 caster_level = "9th"
 +++

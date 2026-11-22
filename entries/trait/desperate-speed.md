@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your eidolon excels at a movement type you do not possess.
 
 **Benefit:** Your eidolon receives a +5-foot enhancement bonus to one type of speed it has that you

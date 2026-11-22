@@ -33,8 +33,6 @@ abilities = ["16", "14", "19", "6", "15", "9"]
 _Every strip of this three-headed hound's hide has been peeled away, leaving wet sinew and bulging
 tendons exposed._
 
-**Cerberi**
-
 **Challenge rating:** 6
 
 **Initiative:** +6

@@ -31,8 +31,6 @@ abilities = ["21", "17", "18", "12", "14", "14"]
 _This horned, albino ape has four arms and thick white fur braided with bone fetishes and trophies.
 It carries a strangely shaped throwing axe._
 
-**Angazhani (High Girallon)**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

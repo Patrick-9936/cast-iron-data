@@ -19,18 +19,6 @@ prerequisites = "Defensive Combat Training, 4th mythic tier."
 benefit = "Add half your tier to your CMD."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your defensive capabilities in combat are unmatched._
-
-## Prerequisites {#prerequisites}
-
-_Defensive Combat Training, 4th mythic tier._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Add half your tier to your CMD.
-:::
+Your defensive capabilities in combat are unmatched.\
+**Prerequisites:** Defensive Combat Training, 4th mythic tier.\
+**Benefit:** Add half your tier to your CMD.

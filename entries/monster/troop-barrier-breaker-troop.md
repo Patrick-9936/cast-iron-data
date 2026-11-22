@@ -32,8 +32,6 @@ abilities = ["22", "13", "-", "10", "12", "17"]
 
 _This wretched collection of undead have tight leathery skin, sunken eyes, and emaciated frames._
 
-**Barrier Breaker Troop**
-
 **Challenge rating:** 7
 
 **Initiative:** +5

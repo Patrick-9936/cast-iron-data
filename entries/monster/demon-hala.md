@@ -31,8 +31,6 @@ _Skin the color of thunderheads and wings made for soaring through the most viol
 lean, cyclopic being as a master of terrible storms. The sound of shrieking wind emanates from its
 mouth full of needle-sharp teeth._
 
-**Hala**
-
 **Challenge rating:** 4
 
 **aura:** stormwind aura

@@ -14,8 +14,6 @@ page = "75"
 kind = "none"
 +++
 
-**Wadjet**
-
 **Sub:** The Green Empress
 
 ### Details

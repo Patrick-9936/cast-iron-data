@@ -32,8 +32,6 @@ abilities = ["36", "25", "27", "2", "15", "18"]
 _This six-limbed beast stalks forward with a fluid grace. Barbed quills run along its back, and its
 eyes glow with a blue light._
 
-**Bandersnatch**
-
 **Challenge rating:** 17
 
 **blindsense:** 120

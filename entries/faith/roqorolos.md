@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Roqorolos**
-
 **Sub:** Prince of the Wracked
 
 ### Details

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Wyrwood](ref/race/wyrwood)
 
 **Flavor:** You spent a great deal of time around magical workshops, and the power of magic sustains

@@ -33,8 +33,6 @@ abilities = ["19", "16", "14", "9", "13", "16"]
 _A wild mop of hair tops this small humanoid creature's head. It has prominent gleaming eyes and a
 toothy grin._
 
-**Dvorovoi**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

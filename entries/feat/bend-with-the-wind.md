@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/body-control", "ref/feat/endurance", "ref/feat/m
 benefit = "For 24 hours after you meditate, you gain cold resistance 5 and fire resistance 5."
 +++
 
-## Bend with the Wind (Meditation)
-
 Meditation allows you to regulate your body temperature, heart rate, and other attributes to resist
 the elements.\
 **Prerequisites:** Wis 15, [Body Control](ref/feat/body-control), [Endurance](ref/feat/endurance),

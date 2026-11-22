@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Cheliax
 
 **Flavor:** In overthrowing House Thrune, you've spent many years training to face the diabolist

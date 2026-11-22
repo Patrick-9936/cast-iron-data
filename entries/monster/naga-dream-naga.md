@@ -33,8 +33,6 @@ abilities = ["22", "23", "20", "18", "15", "17"]
 
 _This large, flying serpent has a humanoid head outlined by a colorful, frilled hood._
 
-**Dream Naga**
-
 **Challenge rating:** 9
 
 **Type:** aberration

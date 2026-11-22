@@ -35,8 +35,6 @@ abilities = ["17", "21", "16", "16", "21", "16"]
 _This gaunt, long-limbed quadruped has huge, soulless eyes and a toothy maw. The lean creature moves
 with a predatory grace._
 
-**Hound of Tindalos**
-
 **Challenge rating:** 7
 
 **Initiative:** +9

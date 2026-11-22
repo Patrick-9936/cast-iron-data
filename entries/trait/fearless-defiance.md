@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Upon overcoming your fear, you become a scourge to your enemies.
 
 **Benefit:** You gain a +1 trait bonus on all saving throws against fear effects. In addition, if

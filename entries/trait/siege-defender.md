@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Aroden taught the people of Absalom to survive any siege with proper preparation and
 cooperation, and those teachings were passed on to you.
 

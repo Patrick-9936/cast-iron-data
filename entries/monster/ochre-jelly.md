@@ -29,8 +29,6 @@ abilities = ["14", "1", "22", "-", "1", "1"]
 _This yellow-orange amoeboid creature slithers across the ground, pseudopods grasping ahead of its
 slow approach._
 
-**Ochre Jelly**
-
 **Challenge rating:** 5
 
 **blindsight:** 60

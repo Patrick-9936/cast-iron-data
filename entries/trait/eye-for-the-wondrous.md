@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Region:** Katapesh
 
 **Flavor:** Your experience with magic items clues you in to their properties more quickly than

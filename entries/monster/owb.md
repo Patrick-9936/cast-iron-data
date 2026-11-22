@@ -32,8 +32,6 @@ abilities = ["18", "22", "19", "11", "15", "16"]
 _This thing looks like a skeletal human torso coated in liquid shadow, obscuring its bones but
 clearly revealing its shape._
 
-**Owb**
-
 **Challenge rating:** 6
 
 **Initiative:** +10

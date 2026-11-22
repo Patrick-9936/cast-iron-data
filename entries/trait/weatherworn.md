@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Vampire; Moroi
 
 **Flavor:** Lairing in desolate mountains or on coastal cliff tops has taught you to deal with the

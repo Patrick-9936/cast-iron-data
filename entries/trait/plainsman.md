@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** M'neri Plains
 
 **Flavor:** You live and work on the M'neri Plains.

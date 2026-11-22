@@ -19,8 +19,6 @@ benefit = "When you gain this feat, select one of the quest objects below, or de
 special = "This feat may be taken more than once. Each time it is taken, select a new quest object to strive for. As with all story feats, a character cannot take this feat again until she has completed the goal of the feat's first iteration."
 +++
 
-## Object of Legend (Story)
-
 The object of your quest drives you ever forward.\
 **Prerequisites:** You must have some highly personal stake in attaining the object of your quest as
 determined collectively by you and the GM - such as needing an ancestral weapon to exact your

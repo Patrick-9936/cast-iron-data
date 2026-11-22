@@ -32,8 +32,6 @@ abilities = ["20", "15", "22", "14", "20", "14"]
 _This humanoid's scaly hide is dull gray. Its frame resembles that of a cave lizard, with a long
 tail and crests on its head and back._
 
-**Troglodyte Tyrant**
-
 **Challenge rating:** 10
 
 **Enlightened troglodyte [cleric](ref/class/cleric) 7/[fighter](ref/class/fighter) 2**

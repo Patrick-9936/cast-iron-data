@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Region:** Cassomir
 
 **Benefit:** Once per day after 10 minutes of foraging, you can sprinkle nutritious herbs into a

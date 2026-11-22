@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You were raised to uphold a specific set of tenets, and you never had reason to doubt
 their veracity. Recent events, however, have undermined that certainty, and you now find yourself
 wondering if any of the universal truths you once believed in can actually hold up to scrutiny.

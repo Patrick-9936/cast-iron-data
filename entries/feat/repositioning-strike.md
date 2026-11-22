@@ -21,8 +21,6 @@ normal = "You must perform a reposition combat maneuver to reposition an opponen
 special = "You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll."
 +++
 
-## Repositioning Strike (Combat)
-
 Your critical hits can move your foes where you wish.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Reposition](ref/feat/improved-reposition), base attack bonus +9.\

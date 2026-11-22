@@ -19,8 +19,6 @@ benefit = "The duration of mind-affecting spells (even beneficial ones) is halve
 special = "Restoration of memories by means less significant than miracle or wish does not qualify for the prerequisite."
 +++
 
-## Forgotten Past (Story)
-
 A pivotal event from your past eludes your memory.\
 **Prerequisites:** You must have suffered permanent memory loss or have the Reincarnated
 [circumstance background](ref/rule/birth-circumstances-and-more).\

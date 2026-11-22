@@ -32,8 +32,6 @@ abilities = ["12", "18", "17", "4", "9", "7"]
 _Prominent tusks and unruly green fur mark this fearsome creature as a troll despite its small size.
 It hangs overhead, swinging between its oversized forearms and lashing, claw-tipped tail._
 
-**Canopy Troll**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

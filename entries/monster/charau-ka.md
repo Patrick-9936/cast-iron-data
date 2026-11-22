@@ -32,8 +32,6 @@ abilities = ["15", "13", "14", "8", "12", "11"]
 _This limber, shrieking creature has the visage of an enraged monkey, but it walks upright like a
 man._
 
-**Charau-ka**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

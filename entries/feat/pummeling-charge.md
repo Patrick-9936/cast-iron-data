@@ -20,8 +20,6 @@ benefit = "You can charge and make a full attack or flurry of blows at the end o
 normal = "You cannot make a full attack on a charge."
 +++
 
-## Pummeling Charge (Combat)
-
 Your charge ends with a mighty haymaker.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Pummeling Style](ref/feat/pummeling-style); base attack bonus +12, brawler level 8th, or monk level

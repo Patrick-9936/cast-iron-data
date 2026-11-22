@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have laboriously studied the training rites of various
 [Hellknight](ref/rule/aff-lawknights) orders with the intent of joining one yourself.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You are a quick study when it comes to local laws.
 
 **Benefit:** Once per day, you can attempt a [Knowledge (local)](ref/skill/knowledge-local) check

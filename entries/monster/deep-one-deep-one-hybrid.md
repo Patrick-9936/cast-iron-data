@@ -31,8 +31,6 @@ abilities = ["13", "10", "17", "10", "16", "8"]
 _This elderly man's wide-mouthed, staring countenance and webbed hands suggest a sinister taint in
 his bloodline._
 
-**Deep One Hybrid**
-
 **Challenge rating:** 1/2
 
 **Deep one hybrid [cleric](ref/class/cleric) 1**

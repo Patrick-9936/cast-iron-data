@@ -30,8 +30,6 @@ abilities = ["26", "17", "19", "8", "17", "10"]
 _Larger than an elephant, this scaly, bird-like creature has a vaguely horse-like head and vast,
 slime-encrusted wings._
 
-**Shantak**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic evil

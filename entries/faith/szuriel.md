@@ -20,8 +20,6 @@ page = "70"
 kind = "none"
 +++
 
-**Szuriel**
-
 **Sub:** Angel of Desolation
 
 **Monster Link** [Szuriel](ref/monster/horsemen-of-the-apocalypse-szuriel)

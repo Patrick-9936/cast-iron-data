@@ -32,8 +32,6 @@ abilities = ["15", "10", "-", "6", "8", "13"]
 _Water gushes from the mouth and nose of this bloated creature. Broken wood and jagged nails jut
 from its half-rotted flesh._
 
-**Eaisge**
-
 **Challenge rating:** 1
 
 **Initiative:** +0

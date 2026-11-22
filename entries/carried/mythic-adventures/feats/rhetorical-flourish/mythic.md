@@ -16,28 +16,14 @@ relations = [
 kind = "feat"
 feat_types = ["Mythic"]
 prerequisites = "Rhetorical Flourish."
-benefit = "When you successfully use Rhetorical Flourish against a non-mythic creature, the bonus on your Diplomacy check increases by your tier. If the target is a mythic creature, you instead increase the bonus by half your tier. You can expend one use of mythic power to reroll a single failed Bluff check. You must take the new result even if it is lower."
+benefit = "When you successfully use Rhetorical Flourish against a non-mythic creature, the bonus on your Diplomacy check increases by your tier. If the target is a mythic creature, you instead increase the bonus by half your tier."
 +++
 
-::: statblock
-Type: Mythic
-:::
+You're supremely skilled at using verbal misdirection and finesse to influence others.\
+**Prerequisites:** Rhetorical Flourish.\
+**Benefit:** When you successfully use Rhetorical Flourish against a non-mythic creature, the bonus
+on your Diplomacy check increases by your tier. If the target is a mythic creature, you instead
+increase the bonus by half your tier.
 
-_You're supremely skilled at using verbal misdirection and finesse to influence others._
-
-## Prerequisites {#prerequisites}
-
-_Rhetorical Flourish._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When you successfully use Rhetorical Flourish against a non-mythic creature, the bonus on your
-Diplomacy check increases by your tier. If the target is a mythic creature, you instead increase the
-bonus by half your tier.
-:::
-
-::: paragraph statline
 You can expend one use of mythic power to reroll a single failed Bluff check. You must take the new
 result even if it is lower.
-:::

@@ -14,8 +14,6 @@ page = "170"
 kind = "none"
 +++
 
-**Half-Dragon**
-
 **Acquired:** present
 
 **Challenge rating:** +2

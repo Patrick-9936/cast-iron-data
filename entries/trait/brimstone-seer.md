@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Orc](ref/race/orc)
 
 **Benefit:** You were exposed to vision-granting caustic vapors by the oracles of the Brimstone

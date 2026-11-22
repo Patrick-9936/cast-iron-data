@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Wrath of the Righteous
 
 **Flavor:** Your parents were members of the crusade, as were their parents before them. (If you are

@@ -31,8 +31,6 @@ abilities = ["21", "15", "-", "8", "13", "14"]
 _This bony horror has two skulls on either end of its long, fleshless body. Dozens of twitching,
 claw-tipped legs carry its centipede-like form._
 
-**Centianima**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

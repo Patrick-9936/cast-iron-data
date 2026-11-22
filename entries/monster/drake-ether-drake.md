@@ -32,8 +32,6 @@ abilities = ["30", "15", "21", "8", "15", "14"]
 _Bony plates cover the upper body of this dragon. Its lower frame has a glassy sheen, and bone wings
 protrude from its back._
 
-**Ether Drake**
-
 **Challenge rating:** 10
 
 **Type:** dragon

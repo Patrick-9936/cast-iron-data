@@ -32,8 +32,6 @@ abilities = ["29", "14", "22", "-", "12", "2"]
 _This spiny, long-legged crab towers over its surroundings. Its quick and powerful claws thrash
 wildly, eager for prey._
 
-**Shark-Eating Crab**
-
 **Challenge rating:** 7
 
 **Size:** huge

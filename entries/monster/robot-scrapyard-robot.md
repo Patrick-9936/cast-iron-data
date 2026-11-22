@@ -31,8 +31,6 @@ abilities = ["17", "8", "-", "5", "10", "1"]
 _Frayed wires and broken-off protrusions sprout from mechanical construct, and one of its salvaged
 arms ends in a spinning blade._
 
-**Scrapyard Robot**
-
 **Challenge rating:** 3
 
 **Type:** construct

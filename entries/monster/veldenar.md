@@ -31,8 +31,6 @@ abilities = ["30", "16", "24", "7", "16", "13"]
 _This massive, translucent frog-like creature has an incredibly wide, tooth-filled maw and six
 eyes._
 
-**Veldenar**
-
 **Challenge rating:** 10
 
 **Size:** huge

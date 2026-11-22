@@ -29,8 +29,6 @@ abilities = ["34", "15", "18", "2", "13", "13"]
 _This titanic saurian has a crocodilian snout, powerful front claws, and a colorful sail-like ridge
 that runs down its back._
 
-**Spinosaurus**
-
 **Challenge rating:** 11
 
 **Type:** animal

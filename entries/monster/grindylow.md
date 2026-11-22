@@ -32,8 +32,6 @@ abilities = ["12", "14", "13", "9", "10", "9"]
 _With a large head and numerous teeth, this unsightly creature resembles a goblin from the waist up
 and a greasy octopus below._
 
-**Grindylow**
-
 **Challenge rating:** 1/2
 
 **Type:** aberration

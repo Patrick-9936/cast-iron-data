@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/point-blank-shot", "ref/feat/precise-shot"]
 benefit = "You receive a +2 bonus on ranged attacks made against a foe flanked by 1 or more allies with this feat."
 +++
 
-## Enfilading Fire (Combat, Teamwork)
-
 Your ranged attacks take advantage of the [flanking](ref/rule/flanking) maneuvers of allies.\
 **Prerequisites:** [Point-Blank Shot](ref/feat/point-blank-shot),
 [Precise Shot](ref/feat/precise-shot), one other teamwork feat.\

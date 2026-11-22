@@ -31,8 +31,6 @@ abilities = ["15", "17", "16", "12", "14", "17"]
 _This ancient, weathered statue of a venerable monk with a shaven head possesses an air of both
 reverence and patience._
 
-**Dosojin**
-
 **Challenge rating:** 7
 
 **Initiative:** +7

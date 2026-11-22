@@ -31,8 +31,6 @@ abilities = ["6", "17", "14", "2", "13", "15"]
 _Resembling a filthy owl with the gangly long legs of a stork, this almost comically ugly bird has
 piercing black eyes and emits an annoying screech._
 
-**Chickcharney**
-
 **Challenge rating:** 3
 
 **Initiative:** +3

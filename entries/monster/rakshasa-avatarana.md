@@ -31,8 +31,6 @@ abilities = ["22", "19", "20", "13", "14", "19"]
 _Instead of legs, this bald, emaciated humanoid has a second set of long, muscular arms and a
 leathery flap covering its face._
 
-**Avatarana**
-
 **Challenge rating:** 12
 
 **Initiative:** +8

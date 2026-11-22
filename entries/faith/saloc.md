@@ -14,8 +14,6 @@ page = "16"
 kind = "none"
 +++
 
-**Saloc**
-
 **Sub:** The Minder of Immortals
 
 ### Details

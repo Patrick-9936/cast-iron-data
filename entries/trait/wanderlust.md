@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your childhood was brightened by the new places you constantly saw as you traveled with
 your parents, who were merchants. Still excited by travel, you gain great energy when traveling
 overland.

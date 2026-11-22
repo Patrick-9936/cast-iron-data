@@ -35,8 +35,6 @@ abilities = ["-", "25", "-", "13", "16", "21"]
 _This translucent humanoid figure has an animal's head. Rising from its back are wings of chilling
 white light._
 
-**Pharaonic Guardian**
-
 **Challenge rating:** 11
 
 **Initiative:** +7

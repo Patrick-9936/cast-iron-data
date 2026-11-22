@@ -29,8 +29,6 @@ special_qualities = "armor training 2"
 abilities = ["29", "12", "27", "8", "9", "10"]
 +++
 
-**Troll Monarch**
-
 **Challenge rating:** 15
 
 **Troll [fighter](ref/class/fighter) 10**

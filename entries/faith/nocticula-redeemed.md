@@ -14,8 +14,6 @@ page = "78"
 kind = "none"
 +++
 
-**Nocticula (Redeemed)**
-
 **Sub:** The Redeemer Queen
 
 ### Details

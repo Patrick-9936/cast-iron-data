@@ -14,8 +14,6 @@ page = "238"
 kind = "none"
 +++
 
-**Implacable Stalker**
-
 **Acquired:** present
 
 **Challenge rating:** +2

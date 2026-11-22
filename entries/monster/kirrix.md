@@ -30,8 +30,6 @@ abilities = ["18", "15", "17", "5", "12", "8"]
 
 _This sleek, weasel-like rodent has exaggerated whiskers and six short but stout legs._
 
-**Kirrix**
-
 **Challenge rating:** 3
 
 **blindsense:** 10

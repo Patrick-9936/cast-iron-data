@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Numeria
 
 **Flavor:** Exposure to the corruption that seeps through every drop of water and grain of dirt in

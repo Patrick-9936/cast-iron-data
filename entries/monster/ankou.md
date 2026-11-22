@@ -33,8 +33,6 @@ abilities = ["26", "28", "22", "17", "19", "25"]
 
 _Cloaked by wings of darkness, this horrific, skeletal creature appears to burn from within._
 
-**Ankou**
-
 **Challenge rating:** 14
 
 **blindsense:** 120

@@ -34,8 +34,6 @@ abilities = ["13", "17", "14", "14", "10", "6"]
 _This slender woman possesses a strange, calculated grace. Her pale flesh is adorned with complex
 blue tattoos._
 
-**Android**
-
 **Challenge rating:** 1
 
 **Android [rogue](ref/class/rogue) 1**

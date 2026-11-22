@@ -38,8 +38,6 @@ abilities = ["21", "16", "17", "9", "12", "10"]
 _Powerful black wings beat from the back of this large ape, which carries a wickedly curved sword in
 its simian hands._
 
-**Derhii**
-
 **Challenge rating:** 5
 
 **Initiative:** +3

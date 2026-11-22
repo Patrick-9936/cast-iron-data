@@ -31,8 +31,6 @@ abilities = ["- (20 while corporeal)", "20", "-", "11", "13", "16"]
 _This ethereal ball of faces hovers in the middle of the air. Tears stream from every one of the
 faces' eyes, but the drops fade to nothing before they reach the ground._
 
-**Melacage**
-
 **Challenge rating:** 5
 
 **aura:** life-draining aura (30 ft.)

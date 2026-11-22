@@ -31,8 +31,6 @@ abilities = ["30", "19", "20", "16", "25", "21"]
 _This massive humanoid figure has no mouth, and carries a burning sword that matches its flaming
 wings._
 
-**Exscinder**
-
 **Challenge rating:** 12
 
 **Size:** huge

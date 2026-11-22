@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You have escaped slavery or other imprisonment and have vowed never to be shackled
 again.
 

@@ -33,8 +33,6 @@ _This writhing terror is made of tentacles and the heads of multiple hounds. The
 beautiful woman extends from the monster's center, though its fiendish visage is far from
 welcoming._
 
-**Urtleytlar, The Tempest Queen**
-
 **Challenge rating:** 20
 
 **Female [scylla](ref/monster/scylla) [cleric](ref/class/cleric) of [Rovagug](ref/faith/rovagug) 8**

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Empyreal Lords
 
 **Flavor:** The empyreal lord you worship rewards your devotion by granting you an occasional boon.

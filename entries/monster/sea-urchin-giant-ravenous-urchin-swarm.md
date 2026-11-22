@@ -30,8 +30,6 @@ abilities = ["1", "13", "10", "-", "13", "9"]
 
 _A wave of swift-moving spines rushes forward - a roiling tide of dangerously fast sea urchins._
 
-**Ravenous Urchin Swarm**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

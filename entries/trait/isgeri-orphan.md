@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Isger
 
 **Flavor:** You grew up in one of the many [Asmodean](ref/faith/asmodeus) orphanages that dot the

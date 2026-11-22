@@ -31,8 +31,6 @@ abilities = ["14", "16", "13", "11", "14", "17"]
 _This capricious figure has the upper torso, arms, and head of a man, but goat-like legs, a tail,
 and curling horns on his head._
 
-**Faun**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic good

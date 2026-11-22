@@ -29,8 +29,6 @@ abilities = ["26", "16", "21", "3", "11", "6"]
 
 _This enormous worm has stony hide and acid-dripping jaws._
 
-**Death Worm Leviathan**
-
 **Challenge rating:** 11
 
 **Size:** gargantuan

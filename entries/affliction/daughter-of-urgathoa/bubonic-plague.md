@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Bubonic Plague"
 source_ids = ["inner-sea-world-guide", "pathfinder-8-seven-days-to-the-grave"]
 parent = "ref/monster/daughter-of-urgathoa"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "daughter_of_urgathoa|affliction:bubonic-plague", path = "json/monsters08.json" },
 ]

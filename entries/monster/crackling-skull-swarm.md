@@ -31,8 +31,6 @@ abilities = ["5", "16", "-", "-", "13", "19"]
 _This mass of floating skulls lingers in the air with a haunting presence. A constant clattering
 emanates from the dreadful mass._
 
-**Crackling Skull Swarm**
-
 **Challenge rating:** 10
 
 **Initiative:** +3

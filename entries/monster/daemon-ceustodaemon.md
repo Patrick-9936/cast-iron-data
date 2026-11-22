@@ -30,8 +30,6 @@ abilities = ["18", "13", "16", "11", "14", "15"]
 _This brown, shaggy-furred beast stands on slate grey hooves. Its head resembles that of a maniacal
 horned ape._
 
-**Ceustodaemon**
-
 **Challenge rating:** 6
 
 **Initiative:** +1

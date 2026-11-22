@@ -33,8 +33,6 @@ abilities = ["22", "23", "22", "17", "18", "21"]
 _This creature resembles the skeletal torso of a winged, four-armed giant draped in tatters of
 liquid shadow._
 
-**Owb Prophet**
-
 **Challenge rating:** 13
 
 **Initiative:** +10

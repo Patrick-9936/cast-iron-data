@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Vampire; Nosferatu
 
 **Flavor:** The ferocity of your hunger grants you the ability to draw life from your victims

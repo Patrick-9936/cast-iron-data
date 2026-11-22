@@ -32,8 +32,6 @@ abilities = ["15", "17", "12", "2", "13", "12"]
 _The head of this colorful red and purple flying reptile is overly large, and its jaws are lined
 with tiny sharp teeth._
 
-**Dimorphodon**
-
 **Challenge rating:** 1
 
 **Type:** animal

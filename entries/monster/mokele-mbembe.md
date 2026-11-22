@@ -36,8 +36,6 @@ abilities = ["32", "13", "18", "2", "15", "11"]
 _This long-necked creature has an even longer tail, as well as a row of spines along its back and
 countless sharp fangs._
 
-**Mokele-Mbembe**
-
 **Challenge rating:** 9
 
 **Type:** animal

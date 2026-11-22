@@ -34,8 +34,6 @@ abilities = ["22", "22", "27", "21", "19", "22"]
 _This monstrosity has six eyes and six long tentacles - four that end in glowing spheres, and two
 with what look like hands._
 
-**Veiled Master**
-
 **Challenge rating:** 14
 
 **Type:** aberration

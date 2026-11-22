@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Urgathoa](ref/faith/urgathoa)
 
 **Flavor:** The Pallid Princess has blessed you with the ability to avoid the final fate.

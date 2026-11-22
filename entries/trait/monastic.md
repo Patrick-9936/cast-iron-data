@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Either your parents sent you to be raised in a monastery, or you traveled there yourself
 later in life in order to escape the conflict and distractions of the greater world. There you
 learned to eschew the material concerns that plague so many and cloud their minds, instead embracing

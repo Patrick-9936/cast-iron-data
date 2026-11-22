@@ -14,8 +14,6 @@ page = "23"
 kind = "none"
 +++
 
-**Mazludeh**
-
 **Sub:** Mother of Hearth and Wall
 
 ### Details

@@ -31,8 +31,6 @@ abilities = ["14", "13", "13", "3", "12", "6"]
 _This eight-legged lizard has a round, lamprey-like mouth full of teeth, and its scales slowly
 change color to match its surroundings._
 
-**Water Wraith**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

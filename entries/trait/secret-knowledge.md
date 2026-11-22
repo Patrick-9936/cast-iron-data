@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Norgorber](ref/faith/norgorber)
 
 **Benefit:** At any point after taking this trait, you may choose one

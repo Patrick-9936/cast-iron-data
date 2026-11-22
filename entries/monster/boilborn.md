@@ -29,8 +29,6 @@ abilities = ["12", "1", "17", "-", "2", "1"]
 
 _Like some taut pustule ready to burst, this mobile wound scuttles on a bristle of slick hairs._
 
-**Boilborn**
-
 **Challenge rating:** 1
 
 **blindsight:** 30

@@ -32,8 +32,6 @@ abilities = ["26", "13", "18", "5", "10", "11"]
 _Spatters of magma sear everything that comes near this vaguely humanoid mass of endlessly melting
 and reforming rock._
 
-**Lava Lurker**
-
 **Challenge rating:** 9
 
 **Initiative:** +5

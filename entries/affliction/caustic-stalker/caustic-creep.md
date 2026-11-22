@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Caustic Creep"
 source_ids = ["the-emerald-spire-superdungeon"]
 parent = "ref/monster/caustic-stalker"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "caustic_stalker|affliction:caustic-creep", path = "json/monsters04.json" },
 ]

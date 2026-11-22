@@ -31,8 +31,6 @@ abilities = ["21", "17", "18", "14", "17", "20"]
 _This stunningly beautiful and athletic woman has skin of various shades of gray. She wears a
 pearlescent breastplate and wields a shimmering longspear._
 
-**Zana**
-
 **Challenge rating:** 14
 
 **aura:** protective aura (10 ft.)

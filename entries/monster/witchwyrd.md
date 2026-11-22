@@ -33,8 +33,6 @@ abilities = ["16", "15", "17", "18", "13", "20"]
 _This gray-skinned humanoid wears fine red robes. The being has four arms, each ending in a
 three-fingered hand._
 
-**Witchwyrd**
-
 **Challenge rating:** 6
 
 **Initiative:** +6

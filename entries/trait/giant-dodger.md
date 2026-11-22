@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** desert
 
 **Flavor:** In your youth, you were chased by giants for trespassing - or for sport - and you have

@@ -35,8 +35,6 @@ abilities = ["32", "17", "26", "13", "19", "14"]
 _This towering, lean figure is hairless and has smooth, milky white skin. A scythe gleams in her
 hands._
 
-**Tomb Giant**
-
 **Challenge rating:** 12
 
 **Type:** humanoid

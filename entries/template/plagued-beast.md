@@ -14,8 +14,6 @@ page = "194"
 kind = "none"
 +++
 
-**Plagued Beast**
-
 **Acquired:** present
 
 **Challenge rating:** +1

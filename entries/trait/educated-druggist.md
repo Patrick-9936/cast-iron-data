@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Osibu, Thuvia, Tian Xia, or Ustalav
 
 **Benefit:** Any alchemical remedies you administer that provide an alchemical bonus have that bonus

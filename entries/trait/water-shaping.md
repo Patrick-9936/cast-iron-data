@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Undine](ref/race/undine)
 
 **Flavor:** Your tight-knit undine community helped you practice your water magic safely.

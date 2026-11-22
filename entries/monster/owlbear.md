@@ -29,8 +29,6 @@ abilities = ["19", "12", "18", "2", "12", "10"]
 _An amalgam of fur and feathers, this bizarre half-bear, half-owl monstrosity raises its huge,
 ursine claws in anger._
 
-**Owlbear**
-
 **Challenge rating:** 4
 
 **Initiative:** +5

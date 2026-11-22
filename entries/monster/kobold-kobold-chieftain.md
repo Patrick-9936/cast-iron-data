@@ -31,8 +31,6 @@ abilities = ["11", "18", "12", "13", "10", "8"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold Chieftain**
-
 **Challenge rating:** 8
 
 **Kobold [fighter](ref/class/fighter) 5/[rogue](ref/class/rogue) 3/assassin 1**

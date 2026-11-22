@@ -33,8 +33,6 @@ abilities = ["18", "17", "16", "2", "11", "10"]
 _This stout flightless bird stands upon two long, taloned legs, but it is its axe-shaped beak that
 looks the most ferocious._
 
-**Axe Beak**
-
 **Challenge rating:** 2
 
 **Type:** animal

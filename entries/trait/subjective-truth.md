@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You are able to divorce your knowledge of the facts from your beliefs about the truth,
 and thus from your facial expressions and body language.
 

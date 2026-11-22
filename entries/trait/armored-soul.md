@@ -13,7 +13,5 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Benefit:** When wearing armor or using a shield, you gain a +1 trait bonus on saving throws
 against divine spells that deal damage.

@@ -20,8 +20,6 @@ benefit = "As a swift action, you can apply one dose of contact or injury poison
 normal = "Applying poison to a weapon or single piece of ammunition is a standard action."
 +++
 
-## Adder Strike (Combat)
-
 You can quickly apply poison to gloved hands, protected feet, or other protected body parts,
 delivering the poison with your unarmed strikes.\
 **Prerequisites:** Poison use class feature, Craft (alchemy) 1 rank,

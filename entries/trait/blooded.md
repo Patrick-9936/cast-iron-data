@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mindspin Mountains
 
 **Flavor:** Desperate battles have honed your fighting skills against the ancient enemies of the

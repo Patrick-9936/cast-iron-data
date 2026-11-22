@@ -29,8 +29,6 @@ abilities = ["8", "13", "14", "1", "13", "2"]
 _This brightly colored snake assumes an aggressive posture, its hissing mouth open to display its
 fangs._
 
-**Venomous Snake**
-
 **Challenge rating:** 1
 
 **Type:** animal

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Lashunta](ref/race/lashunta)
 
 **Benefit:** Once per day as a **swift action**, you can add a trait bonus equal to your

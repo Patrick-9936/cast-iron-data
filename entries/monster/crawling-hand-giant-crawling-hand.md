@@ -30,8 +30,6 @@ abilities = ["21", "15", "-", "2", "13", "14"]
 _A giant rotting hand rocks unsteadily, propped upon thick, stubby fingers. Its pale, necrotic flesh
 pulses and crawls with sickly boils._
 
-**Giant Crawling Hand**
-
 **Challenge rating:** 5
 
 **blindsense:** 30

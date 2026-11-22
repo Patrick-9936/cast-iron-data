@@ -30,8 +30,6 @@ abilities = ["30", "31", "40", "31", "32", "33"]
 
 _Feathered arms emerge from the shoulders of this hunched raven, clutching a key of bone._
 
-**Barzahk**
-
 **Challenge rating:** 28
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 37), loneliness unbroken

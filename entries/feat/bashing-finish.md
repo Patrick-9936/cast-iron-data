@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-shield-bash", "ref/feat/shield-master"]
 benefit = "Whenever you score a critical hit with a melee weapon, you can make a shield bash attack against the same target using the same bonus as a free action."
 +++
 
-## Bashing Finish (Combat)
-
 You follow a powerful blow from your weapon with an opportunistic bash from your shield.\
 **Prerequisites:** [Improved Shield Bash](ref/feat/improved-shield-bash),
 [Shield Master](ref/feat/shield-master), base attack bonus +11.\

@@ -31,8 +31,6 @@ abilities = ["20", "17", "25", "16", "20", "17"]
 _Lithe and beautiful, with skin the color of marble, this being hovers upon powerful, white wings
 and radiates a sense of serenity._
 
-**Trumpet Archon**
-
 **Challenge rating:** 14
 
 **aura:** aura of menace (DC 22), _[magic circle against evil](ref/spell/magic-circle-against-evil)_

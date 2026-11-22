@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your birth brought an unexpected guest to your parents' home: a helpful fey who
 prophesied about your future and gave you a magical gift in exchange for your parents' hospitality,
 a cup of milk, and a drop of your blood.

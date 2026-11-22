@@ -30,8 +30,6 @@ abilities = ["18", "15", "-", "-", "10", "1"]
 _This horrific humanoid figure is a mass of bones and skulls tied together with slick ropes of
 sinew._
 
-**Bone Golem**
-
 **Challenge rating:** 8
 
 **Type:** construct

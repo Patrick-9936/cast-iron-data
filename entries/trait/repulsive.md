@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Foulspawn
 
 **Flavor:** Your repulsiveness causes people to almost instinctively shy away from making physical

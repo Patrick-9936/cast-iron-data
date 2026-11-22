@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Prerequisite:** Cannot be a dwarf or gnome
 
 **Campaign:** Giantslayer

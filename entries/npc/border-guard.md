@@ -15,8 +15,6 @@ kind = "creature"
 cr = "3"
 +++
 
-**Border Guard**
-
 **Challenge rating:** 3
 
 **XP** 800\

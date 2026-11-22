@@ -17,8 +17,6 @@ page = "125"
 kind = "none"
 +++
 
-**Treerazer**
-
 **Sub:** Lord of the Blasted Tarn
 
 **Monster Link** [Treerazer](ref/monster/treerazer)

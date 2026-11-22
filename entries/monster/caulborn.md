@@ -35,8 +35,6 @@ abilities = ["16", "19", "16", "25", "20", "19"]
 _This creature has a split-jawed mouth, a hood-like growth on its head, and two hideously elongated
 fingers on each hand._
 
-**Caulborn**
-
 **Challenge rating:** 7
 
 **blindsense:** 60

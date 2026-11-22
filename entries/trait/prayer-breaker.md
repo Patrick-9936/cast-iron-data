@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Faultspawn
 
 **Flavor:** You have an instinctive flair for causing such pain to the faithful that they

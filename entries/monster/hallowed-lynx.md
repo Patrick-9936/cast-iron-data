@@ -31,8 +31,6 @@ abilities = ["12", "21", "19", "4", "10", "21"]
 _Within a halo of brilliant, glowing orbs are the distinctive features of a compact feline with
 tufted ears, a short tail, and keen, piercing eyes._
 
-**Hallowed Lynx**
-
 **Challenge rating:** 17
 
 **aura:** hallowed lights (60 ft., DC 26)

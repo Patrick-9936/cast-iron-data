@@ -14,8 +14,6 @@ page = "19"
 kind = "none"
 +++
 
-**Valmallos**
-
 **Sub:** The Answering Rite
 
 ### Details

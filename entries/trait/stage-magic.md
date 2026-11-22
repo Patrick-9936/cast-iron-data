@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** You have put in many hours practicing with flashy alchemical items that enhance your
 Perform skill.
 

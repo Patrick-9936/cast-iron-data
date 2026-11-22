@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Geb
 
 **Flavor:** As a resident of the undead lands of Geb, you know well that the walking dead often

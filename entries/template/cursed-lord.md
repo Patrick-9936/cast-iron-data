@@ -14,8 +14,6 @@ page = "235"
 kind = "none"
 +++
 
-**Cursed Lord**
-
 **Acquired:** present
 
 **Challenge rating:** +2

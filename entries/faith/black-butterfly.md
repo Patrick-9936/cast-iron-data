@@ -17,8 +17,6 @@ page = "9"
 kind = "none"
 +++
 
-**Black Butterfly**
-
 **Sub:** The Silence Between
 
 ### Details

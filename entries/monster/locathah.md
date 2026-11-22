@@ -32,8 +32,6 @@ abilities = ["10", "12", "10", "13", "13", "11"]
 _This lean humanoid bears crested fins on its head and back, and has the wide-eyed and wide-lipped
 face of a fish._
 
-**Locathah**
-
 **Challenge rating:** 1/2
 
 **Type:** humanoid

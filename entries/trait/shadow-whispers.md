@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Norgorber](ref/faith/norgorber)
 
 **Flavor:** You have a penchant for just knowing others' secrets.

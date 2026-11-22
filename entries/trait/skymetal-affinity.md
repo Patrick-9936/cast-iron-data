@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Numeria
 
 **Benefit:** You gain a +2 trait bonus on Fortitude saves against the negative effects of

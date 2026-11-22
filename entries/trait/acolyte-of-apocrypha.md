@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your religious studies hinged on teachings rarely recognized by your faith.
 
 **Benefit:** You can select one of the apocryphal subdomains detailed below, provided the subdomain

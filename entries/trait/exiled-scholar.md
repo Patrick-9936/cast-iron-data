@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nex
 
 **Flavor:** Since you were young, you've always been interested in the process of lichdom and what

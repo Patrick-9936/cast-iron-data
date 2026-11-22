@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Apsu](ref/faith/apsu)
 
 **Flavor:** Imitating the leadership of your deity, you spur others on to great deeds.

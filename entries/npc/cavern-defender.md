@@ -15,8 +15,6 @@ kind = "creature"
 cr = "4"
 +++
 
-**Cavern Defender**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

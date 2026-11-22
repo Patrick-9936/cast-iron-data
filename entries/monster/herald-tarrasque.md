@@ -35,8 +35,6 @@ abilities = ["41", "16", "34", "3", "15", "14"]
 _This immense reptilian beast towers over its surroundings, all teeth and horns and claws and
 thrashing spiked tail._
 
-**Tarrasque**
-
 **Challenge rating:** 25
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 27)

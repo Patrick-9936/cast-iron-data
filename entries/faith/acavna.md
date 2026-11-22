@@ -14,8 +14,6 @@ page = "66"
 kind = "none"
 +++
 
-**Acavna**
-
 **Sub:** The Shield
 
 ### Details

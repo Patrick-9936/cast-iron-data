@@ -32,8 +32,6 @@ abilities = ["13", "20", "18", "10", "17", "13"]
 _This partially mechanical, partially organic spider moves with a skittering lurch. A single
 crystalline eye glares from its hideous face._
 
-**Ugothokra**
-
 **Challenge rating:** 7
 
 **Type:** aberration

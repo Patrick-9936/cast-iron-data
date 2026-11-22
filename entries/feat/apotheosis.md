@@ -18,8 +18,6 @@ prerequisites = "You must have had direct contact with a deity or god-like being
 benefit = "You gain a +2 bonus on Constitution checks to stabilize while dying. Anytime you or an ally who worships the god that contacted you casts augury or a similar effect, your chance of receiving a meaningful reply is increased by 5% (to a maximum of 95%)."
 +++
 
-## Apotheosis (Story)
-
 You are marked by fate as a future deity - even before this destiny is realized, fate bends to your
 will.\
 **Prerequisites:** You must have had direct contact with a deity or god-like being, or have been

@@ -30,8 +30,6 @@ abilities = ["1", "15", "10", "-", "10", "2"]
 
 _A writhing carpet of ants seethes over the ground, consuming everything in its path._
 
-**Army Ant Swarm**
-
 **Challenge rating:** 5
 
 **Size:** fine

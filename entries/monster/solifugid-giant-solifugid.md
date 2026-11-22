@@ -29,8 +29,6 @@ abilities = ["12", "15", "15", "-", "11", "2"]
 _This tan-colored creature looks like a ten-legged spider. Oversized jaws grind together slowly
 beneath beady eyes._
 
-**Giant Solifugid**
-
 **Challenge rating:** 1
 
 **Initiative:** +2

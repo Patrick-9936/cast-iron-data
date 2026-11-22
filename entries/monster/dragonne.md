@@ -33,8 +33,6 @@ abilities = ["21", "17", "17", "6", "12", "12"]
 _This creature has the features of a lion but the wings and scales of a brass dragon, and a wild
 mane matching its scales._
 
-**Dragonne**
-
 **Challenge rating:** 7
 
 **Initiative:** +7

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Numeria
 
 **Benefit:** You have inherited a sacred tribal weapon wielded by your forebears since the days

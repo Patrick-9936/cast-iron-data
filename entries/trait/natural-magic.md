@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Yuelral](ref/faith/yuelral)
 
 **Flavor:** Yuelral's teachings revealed to you that all magic can ultimately be traced back to

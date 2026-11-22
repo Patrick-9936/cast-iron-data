@@ -19,19 +19,8 @@ prerequisites = "Spell Penetration."
 benefit = "Add half your tier to caster level checks to overcome spell resistance. If you have Greater Spell Penetration, add your full tier instead."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your mythic power breaches your enemies' defenses._
-
-## Prerequisites {#prerequisites}
-
-_Spell Penetration._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Add half your tier to caster level checks to overcome [spell resistance](ref/rule/spell-resistance).
-If you have Greater Spell Penetration, add your full tier instead.
-:::
+Your mythic power breaches your enemies' defenses.\
+**Prerequisites:** Spell Penetration.\
+**Benefit:** Add half your tier to caster level checks to overcome
+[spell resistance](ref/rule/spell-resistance). If you have Greater Spell Penetration, add your full
+tier instead.

@@ -29,8 +29,6 @@ abilities = ["12", "15", "12", "4", "13", "9"]
 _This humanoid creature has the legs of a bald goat, a completely hairless body, and a horned head
 with a sinister expression._
 
-**Forlarren**
-
 **Challenge rating:** 2
 
 **Type:** fey

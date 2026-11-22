@@ -28,8 +28,6 @@ abilities = ["17", "14", "17", "2", "13", "10"]
 
 _This dark horse has striking coloring and a ferocious look in its bloodshot eyes._
 
-**Stygian Hot-Blooded Horse**
-
 **Challenge rating:** 2
 
 **Type:** animal

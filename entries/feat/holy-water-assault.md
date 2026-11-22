@@ -18,8 +18,6 @@ prerequisites = "Base attack bonus +1, Knowledge (religion) 3 ranks."
 benefit = "In addition to holy water's normal uses, you can use holy water to create a variety of other effects, which are listed below. To use holy water in a particular way, you must meet the additional requirements of that effect, such as a particular feat, ranks in a specific skill, or the ability to cast a certain spell (specified after the effect's name). Unless otherwise specified, using any of these abilities consumes one vial of holy water."
 +++
 
-## Holy Water Assault (Combat)
-
 You have found new and effective uses for holy water in combating the undead.\
 **Prerequisites:** Base attack bonus +1, Knowledge (religion) 3 ranks.\
 **Benefit:** In addition to [holy water's](ref/eq-weapon/holy-water) normal uses, you can use holy

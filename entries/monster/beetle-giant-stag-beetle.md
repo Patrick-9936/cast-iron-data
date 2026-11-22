@@ -29,8 +29,6 @@ abilities = ["19", "10", "15", "-", "10", "9"]
 _With a sleek body and huge mandibles raised in a threatening pose, this large beetle stands firm in
 defense of its territory._
 
-**Giant Stag Beetle**
-
 **Challenge rating:** 4
 
 **Initiative:** +0

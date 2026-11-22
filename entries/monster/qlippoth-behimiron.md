@@ -30,8 +30,6 @@ abilities = ["32", "21", "26", "7", "22", "17"]
 _This monstrous fiend resembles a titan beetle with a sagging, elephantine hide stretched over its
 spiny carapace._
 
-**Behimiron**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic evil

@@ -31,8 +31,6 @@ abilities = ["36", "13", "34", "5", "14", "21"]
 _This massive beast possesses a mouth of rasping teeth and tentacles with biting mouths. In the
 center of its maw rests a glowing evil eye._
 
-**Chemnosit (The Monarch Worm)**
-
 **Challenge rating:** 23
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 26)

@@ -29,8 +29,6 @@ special_qualities = "change shape, unfettered swimmer, water breathing"
 abilities = ["27", "10", "21", "20", "21", "20"]
 +++
 
-**Adult Sea Dragon**
-
 **Challenge rating:** 12
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 22)

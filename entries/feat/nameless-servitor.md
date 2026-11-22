@@ -19,8 +19,6 @@ benefit = "Anyone who attempts to use magic in order to learn personal informati
 special = "If you ever choose a real name, you lose all benefits of this feat."
 +++
 
-## Nameless Servitor (Faction)
-
 The fact that you have given up your real name makes you resistant to certain types of magic.\
 **Prerequisites:** [Risen Guard](ref/rule/f-second-life) rank, Risen Guard 10 TPA.\
 **Benefit:** Anyone who attempts to use magic in order to learn personal information about you, such

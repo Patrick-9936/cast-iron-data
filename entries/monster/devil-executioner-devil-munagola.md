@@ -31,8 +31,6 @@ abilities = ["25", "23", "24", "14", "23", "24"]
 _Corded muscles ripple under this massive devil's red skin as her black wings beat overhead and her
 black eyes smolder like coals._
 
-**Executioner Devil (Munagola)**
-
 **Challenge rating:** 11
 
 **Initiative:** +6

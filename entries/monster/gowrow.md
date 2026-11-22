@@ -32,8 +32,6 @@ abilities = ["18", "16", "15", "9", "14", "11"]
 _This reptilian beast has a pair of long tusks jutting from its oversized jaws. Its long, draconic
 tail ends in a razor-sharp blade._
 
-**Gowrow**
-
 **Challenge rating:** 5
 
 **Type:** dragon

@@ -29,8 +29,6 @@ special_qualities = "icewalker"
 abilities = ["26", "11", "22", "14", "14", "16"]
 +++
 
-**Frost Giant Ice Mage**
-
 **Challenge rating:** 12
 
 **[Frost giant](ref/monster/giant-frost-frost-giant) [sorcerer](ref/class/sorcerer) 6**

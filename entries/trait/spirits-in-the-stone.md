@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Mwangi
 
 **Flavor:** You have an almost instinctive ability to sense danger and peril in ruined structures.

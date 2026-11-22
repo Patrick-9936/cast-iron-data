@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Poison (Su)"
 source_ids = ["pathfinder-101-the-kintargo-contract"]
 parent = "ref/monster/scythe-glass-swarm"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "scythe_glass_swarm|affliction:poison-su", path = "json/monsters21.json" },
 ]

@@ -23,8 +23,6 @@ page = "74"
 kind = "none"
 +++
 
-**Abadar**
-
 **Sub:** Master of the First Vault
 
 ### Details

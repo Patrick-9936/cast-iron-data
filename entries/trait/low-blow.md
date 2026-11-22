@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Benefit:** When targeting a good-aligned creature with a spell or
 [spell-like ability](ref/umr/spell-like-abilities) with the pain descriptor or that imposes a morale
 penalty, increase its effective caster level by 1. If you are of an evil alignment, increase the

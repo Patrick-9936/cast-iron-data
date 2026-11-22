@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Ash Leprosy"
 source_ids = ["bestiary-3"]
 parent = "ref/monster/giant-ash-giant"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "giant_ash_giant|affliction:ash-leprosy", path = "json/monsters32.json" },
 ]

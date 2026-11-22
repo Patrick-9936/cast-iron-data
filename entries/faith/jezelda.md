@@ -20,8 +20,6 @@ page = "17"
 kind = "none"
 +++
 
-**Jezelda**
-
 **Sub:** Mistress of the Hungry Moon
 
 ### Details

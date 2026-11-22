@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Sargava
 
 **Flavor:** You've made your living outfitting and guiding expeditions deep into the Mwangi interior

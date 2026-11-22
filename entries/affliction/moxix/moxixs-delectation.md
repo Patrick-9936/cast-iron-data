@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Moxix's Delectation"
 source_ids = ["inner-sea-bestiary"]
 parent = "ref/monster/moxix"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "moxix|affliction:moxixs-delectation", path = "json/monsters_unique3.json" },
 ]

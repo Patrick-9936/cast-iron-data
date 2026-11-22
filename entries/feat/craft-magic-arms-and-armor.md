@@ -18,8 +18,6 @@ prerequisites = "Caster level 5th."
 benefit = "You can create magic weapons, armor, or shields. Enhancing a weapon, suit of armor, or shield takes 1 day for each 1,000 gp in the price of its magical features. To enhance a weapon, suit of armor, or shield, you must use up raw materials costing half of this total price. See the magic item creation rules for more information."
 +++
 
-## Craft Magic Arms and Armor (Item Creation)
-
 You can create magic armor, shields, and weapons.\
 **Prerequisites:** Caster level 5th.\
 **Benefit:** You can create magic weapons, armor, or shields. Enhancing a weapon, suit of armor, or

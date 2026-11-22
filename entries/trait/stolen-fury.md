@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Wrath of the Righteous
 
 **Flavor:** You were forced to take part in a demonic ritual as a youth after having been captured

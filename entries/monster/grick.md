@@ -29,8 +29,6 @@ abilities = ["12", "14", "13", "3", "14", "5"]
 _This pallid, slimy, worm-like creature is the size of a human, its mouth a sickening tangle of
 tentacles and hooked jaws._
 
-**Grick**
-
 **Challenge rating:** 3
 
 **Type:** aberration

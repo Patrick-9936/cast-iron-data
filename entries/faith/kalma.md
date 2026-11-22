@@ -17,8 +17,6 @@ page = "117"
 kind = "none"
 +++
 
-**Kalma**
-
 **Sub:** The Rasping Count
 
 ### Details

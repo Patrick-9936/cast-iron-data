@@ -33,8 +33,6 @@ abilities = ["22", "16", "-", "5", "13", "12"]
 _This chittering, scorpion-shaped monstrosity appears to be made of a hideous mix of chitinous limbs
 and human skulls._
 
-**Skull Ripper**
-
 **Challenge rating:** 9
 
 **aura:** dread visage (30 ft., DC 18)

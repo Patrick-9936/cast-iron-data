@@ -30,8 +30,6 @@ abilities = ["17", "11", "16", "9", "12", "10"]
 _This shambling fungus creature bears a strong resemblance to a rotund human, but with a mushroom
 cap for a head._
 
-**Myceloid**
-
 **Challenge rating:** 4
 
 **Initiative:** +4

@@ -31,8 +31,6 @@ abilities = ["-", "21", "14", "5", "12", "15"]
 _The painted ochre lines of this stylized bison seem to shift and flow, giving the primitive drawing
 an eerie sense of life and otherworldly majesty._
 
-**Living Cave Painting**
-
 **Challenge rating:** 4
 
 **Type:** aberration

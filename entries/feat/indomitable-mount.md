@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/mounted-combat"]
 benefit = "Once per round when your mount must make a saving throw, you can make a Ride check as an immediate action. Your mount makes its save if your Ride check result is greater than the DC of the opponent's attack."
 +++
 
-## Indomitable Mount (Combat)
-
 Your skill at riding helps your mount avoid attacks.\
 **Prerequisites:** [Mounted Combat](ref/feat/mounted-combat), Handle Animal 5 ranks, Ride 5 ranks,
 Lastwall affinity.\

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** While some figure out how to use magical devices with stubborn resolve, your approach is
 more pragmatic.
 

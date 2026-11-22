@@ -32,8 +32,6 @@ abilities = ["19", "16", "18", "12", "13", "15"]
 _Hair like rotting seaweed drapes this ancient witch. Loose, algae-colored skin sags off her starved
 frame._
 
-**Sea Hag**
-
 **Challenge rating:** 4
 
 **aura:** horrific appearance (60 ft.)

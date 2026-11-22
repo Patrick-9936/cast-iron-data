@@ -30,8 +30,6 @@ abilities = ["14", "19", "-", "-", "14", "1"]
 _A tower of blood in humanoid form sloshes within the clotted surface that holds it in a stable
 form._
 
-**Blood Golem**
-
 **Challenge rating:** 6
 
 **blindsight:** 60

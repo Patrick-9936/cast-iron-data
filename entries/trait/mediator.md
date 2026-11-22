@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have a way with calming tempers, using cool logic to sooth heated disagreements, and
 you were always the one to settle arguments among your friends, family, and community.
 

@@ -32,8 +32,6 @@ abilities = ["18", "22", "21", "15", "16", "17"]
 _This pale, blond-haired humanoid possesses bright blue eyes, needle-like teeth, and the large,
 multicolored wings of a parrot._
 
-**Larabay**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic neutral

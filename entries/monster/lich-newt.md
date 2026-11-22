@@ -31,8 +31,6 @@ abilities = ["2", "12", "13", "1", "12", "5"]
 
 _Two sharp ridges of bone run along the back of this foot-long, black-and-white speckled newt._
 
-**Lich Newt**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

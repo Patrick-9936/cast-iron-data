@@ -31,8 +31,6 @@ abilities = ["16", "15", "13", "-", "10", "7"]
 
 _The mandibles of this enormous grasshopper churn and grind as it quests for food._
 
-**Giant Locust**
-
 **Challenge rating:** 3
 
 **Initiative:** +2

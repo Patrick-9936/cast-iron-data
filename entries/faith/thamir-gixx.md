@@ -20,8 +20,6 @@ page = "72"
 kind = "none"
 +++
 
-**Thamir Gixx**
-
 **Sub:** The Silent Blade
 
 ### Details

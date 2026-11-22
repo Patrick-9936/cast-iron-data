@@ -31,8 +31,6 @@ abilities = ["18", "13", "18", "9", "14", "7"]
 
 _The carapace of this large crab resembles a scowling face, its eyes seething with an ancient fury._
 
-**Heikegani**
-
 **Challenge rating:** 4
 
 **Type:** aberration

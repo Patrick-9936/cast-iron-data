@@ -33,8 +33,6 @@ abilities = ["1", "10", "13", "-", "11", "2"]
 _This mass of iridescent blue-black insects emits a foul stench and carries with it a cloud of
 filthy dust._
 
-**Scarab Swarm**
-
 **Challenge rating:** 3
 
 **Size:** fine

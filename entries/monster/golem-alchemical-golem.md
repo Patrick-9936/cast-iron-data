@@ -31,8 +31,6 @@ abilities = ["27", "18", "-", "-", "11", "1"]
 _A rickety construction of glass tubing, metal, and wood convey the brain and two eyes afloat in
 this figure's glass skull._
 
-**Alchemical Golem**
-
 **Challenge rating:** 9
 
 **Type:** construct

@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Neshen**
-
 **Sub:** Knight of the Steel Lash
 
 ### Details

@@ -18,8 +18,6 @@ cr = "5"
 _This tall, silent man wears a magnificent cloak of raven's feathers and a well-maintained suit of
 dark leather armor._
 
-**Blackraven Scout**
-
 **Challenge rating:** 5
 
 **XP** 1,600\

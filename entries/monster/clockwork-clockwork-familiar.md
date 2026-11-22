@@ -34,8 +34,6 @@ abilities = ["10", "14", "10", "11", "13", "11"]
 _This tiny metallic creature is shaped like a raven, gears and belts whirring beneath its shining,
 articulated plates._
 
-**Clockwork Familiar**
-
 **Challenge rating:** 2
 
 **Type:** construct

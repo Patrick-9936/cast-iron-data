@@ -31,8 +31,6 @@ abilities = ["13", "18", "16", "13", "12", "15"]
 _This small creature looks like a well-dressed and jewelry-bedecked fiendish gnome, its face mostly
 mouth and fangs._
 
-**Dandasuka**
-
 **Challenge rating:** 5
 
 **Initiative:** +4

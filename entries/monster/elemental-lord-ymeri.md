@@ -31,8 +31,6 @@ abilities = ["30", "35", "34", "26", "23", "31"]
 _This woman with four armor-clad arms and wings of incandescent magma has the lower torso of a
 powerful reptile._
 
-**Ymeri**
-
 **Challenge rating:** 28
 
 **Initiative:** +16

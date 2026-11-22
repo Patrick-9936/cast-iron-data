@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Dahak](ref/faith/dahak)
 
 **Flavor:** You're greatly skilled in hunting and slaying those who resemble your lord's favored

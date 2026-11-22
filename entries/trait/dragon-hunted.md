@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You've survived being hunted by the draconic nightmares on the Shackles islands of
 Dahak's Fang, Dahak's Horn, or Dahak's Tooth.
 

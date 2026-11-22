@@ -28,8 +28,6 @@ abilities = ["40", "14", "21", "2", "17", "11"]
 _This enormous, long-necked quadruped moves with an uncanny grace, holding its lengthy, whip-like
 tail out level behind it._
 
-**Diplodocus**
-
 **Challenge rating:** 12
 
 **Type:** animal

@@ -14,8 +14,6 @@ page = "420"
 kind = "none"
 +++
 
-**Electricity Arc Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 4

@@ -30,8 +30,6 @@ abilities = ["15", "13", "22", "-", "13", "2"]
 
 _The brown and black exoskeleton of this roach gleams when exposed to the light._
 
-**Venomroach**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Torag](ref/faith/torag)
 
 **Flavor:** Your study of dwarven history has trained you in defensive strategy.

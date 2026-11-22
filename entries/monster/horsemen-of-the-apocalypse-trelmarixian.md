@@ -31,8 +31,6 @@ abilities = ["38", "29", "40", "31", "32", "31"]
 _This starving-thin man has a trio of jackal's heads with jagged, crystalline teeth. His oily black
 flesh ripples disturbingly._
 
-**Trelmarixian**
-
 **Challenge rating:** 27
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 36), unholy aura (DC 28)

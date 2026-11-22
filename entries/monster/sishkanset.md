@@ -32,8 +32,6 @@ abilities = ["-", "18", "18", "9", "15", "18"]
 _This translucent, unnaturally tall humanoid figure sprouts dozens of long tendrils from its upper
 body._
 
-**Sishkanset**
-
 **Challenge rating:** 8
 
 **Initiative:** +4

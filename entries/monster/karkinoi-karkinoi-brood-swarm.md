@@ -31,8 +31,6 @@ abilities = ["6", "14", "13", "3", "10", "7"]
 
 _Each member of this horde of blue crab-like things is armed with a menacing, oversized pincer._
 
-**Karkinoi Brood Swarm**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

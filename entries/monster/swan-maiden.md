@@ -32,8 +32,6 @@ abilities = ["13", "20", "15", "10", "12", "15"]
 _This tall, regal woman is clad in a long cloak of pristine white swan feathers and silvery armor
 with a winged helm._
 
-**Swan Maiden**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic good

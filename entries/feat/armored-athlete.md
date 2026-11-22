@@ -20,8 +20,6 @@ benefit = "Choose one Dexterity- or Strength-based skill in which you possess at
 special = "You can gain this feat multiple times. Each time you take the feat, it applies to a new skill."
 +++
 
-## Armored Athlete (Combat)
-
 You have experience using a skill while armored.\
 **Prerequisites:** [Light armor proficiency](ref/feat/armor-proficiency-light),
 [medium armor proficiency](ref/feat/armor-proficiency-medium), 3 ranks in any Dexterity- or

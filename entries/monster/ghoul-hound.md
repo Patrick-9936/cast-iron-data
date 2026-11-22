@@ -27,8 +27,6 @@ abilities = ["18", "15", "-", "2", "14", "14"]
 _This canine creature has sallow, dead skin stretched tight across its bones. Its teeth are long and
 yellowed._
 
-**Ghoul Hound**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic evil

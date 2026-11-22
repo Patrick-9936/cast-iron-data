@@ -30,8 +30,6 @@ abilities = ["16", "5", "20", "-", "1", "1"]
 _A quivering pile of tumorous flesh, this creature leaves a trail of slime as it hungrily searches
 for sustenance._
 
-**Hungry Flesh**
-
 **Challenge rating:** 3
 
 **blindsight:** 60

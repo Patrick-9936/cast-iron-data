@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** At your birth, your parents dedicated your soul to [Iomedae](ref/faith/iomedae) to mold
 into a sword of her light. The goddess blessed you, granting you a gift of light to brighten your
 path through darkness and a fine sword with which to spread her will.

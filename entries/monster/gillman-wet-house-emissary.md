@@ -31,8 +31,6 @@ abilities = ["12", "8", "12", "16", "14", "14"]
 
 _Swathed in striking turquoise robes, this gillwoman has a cold, appraising stare._
 
-**Wet-House Emissary**
-
 **Challenge rating:** 7
 
 **Gillman [aristocrat](ref/npcclass/aristocrat) 2/[investigator](ref/class/investigator)

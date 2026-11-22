@@ -31,8 +31,6 @@ abilities = ["19", "18", "-", "7", "15", "16"]
 _Eight legs of shattered bone emerge from this sickly, pulsating heart, holding it aloft like a
 spider. Blood oozes from the glistening organ._
 
-**Lovelorn**
-
 **Challenge rating:** 4
 
 **blindsense:** 30

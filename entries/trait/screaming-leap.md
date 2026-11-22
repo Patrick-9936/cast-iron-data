@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Realm of the Mammoth Lords
 
 **Flavor:** The rocky foothills of your homeland are ideal for staging leaping ambushes that leave

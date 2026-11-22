@@ -29,8 +29,6 @@ abilities = ["1", "17", "10", "-", "10", "2"]
 
 _An awful, scuttling mass of legs and mandibles scrambles forward out of the darkness._
 
-**Spider Swarm**
-
 **Challenge rating:** 1
 
 **Size:** diminutive

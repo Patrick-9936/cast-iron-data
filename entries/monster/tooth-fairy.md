@@ -31,8 +31,6 @@ abilities = ["5", "14", "9", "8", "15", "14"]
 _This gaunt fairy has tattered ears, black eyes, and a huge mouth filled with mismatched teeth. It
 carries an oversized pair of pliers._
 
-**Tooth Fairy**
-
 **Challenge rating:** 1/4
 
 **Alignment:** Chaotic evil

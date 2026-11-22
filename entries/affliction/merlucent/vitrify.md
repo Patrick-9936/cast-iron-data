@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Vitrify"
 source_ids = ["pathfinder-104-wrath-of-thrune"]
 parent = "ref/monster/merlucent"
+tags = ["infestation"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "merlucent|affliction:vitrify", path = "json/monsters35.json" },
 ]

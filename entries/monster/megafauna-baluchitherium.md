@@ -28,8 +28,6 @@ abilities = ["29", "10", "21", "2", "13", "6"]
 _This towering armored herbivore resembles a hornless rhinoceros, but with longer legs and a longer
 neck._
 
-**Baluchitherium**
-
 **Challenge rating:** 8
 
 **Type:** animal

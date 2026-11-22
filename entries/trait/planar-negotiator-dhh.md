@@ -12,8 +12,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Abyss
 
 **Flavor:** You are used to dealing with outsiders that would fluster a less experienced negotiator.

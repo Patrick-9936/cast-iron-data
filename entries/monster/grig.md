@@ -31,8 +31,6 @@ abilities = ["5", "18", "13", "10", "13", "14"]
 _Perched on the prickly legs of a cricket, this tiny creature has gossamer wings and the upper body
 of an elven woman._
 
-**Grig**
-
 **Challenge rating:** 1
 
 **Type:** fey

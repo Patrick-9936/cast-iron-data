@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You were raised in searing-hot deserts, plains, jungles, or other areas, and developed
 an impressive resistance to heat.
 

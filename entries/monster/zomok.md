@@ -33,8 +33,6 @@ abilities = ["35", "11", "30", "16", "22", "26"]
 _At first glance, this creature resembles a dragon, but its body is entirely made of plants and
 soil, and it exhales clouds of dirt._
 
-**Zomok**
-
 **Challenge rating:** 16
 
 **Size:** gargantuan

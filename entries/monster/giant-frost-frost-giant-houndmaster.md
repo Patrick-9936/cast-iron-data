@@ -30,8 +30,6 @@ special_qualities = "arctic native, icewalking, nature bond (animal companion), 
 abilities = ["28", "10", "20", "13", "23", "14"]
 +++
 
-**Frost Giant Houndmaster**
-
 **Challenge rating:** 14
 
 **Frost giant [druid](ref/class/druid) ([arctic druid](ref/arc-druid/arctic-druid)) 10**

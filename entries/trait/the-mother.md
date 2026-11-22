@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 17 Rova and 30 Lamashan
 
 **Flavor:** Granting warmth and comfort against the forbidding cold of the wilderness, the Mother is

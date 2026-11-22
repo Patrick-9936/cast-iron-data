@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Prerequisite:** Associated with the [Ulfen Guard](ref/rule/f-imperial)
 
 **Flavor:** You hail from the fringes of civilization or the bottommost strata of society, but

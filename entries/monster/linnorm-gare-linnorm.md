@@ -33,8 +33,6 @@ _An enormous draconic head rises up atop a massive serpentine neck wider than a 
 Seemingly endless coils break the water's surface around it, only hinting at the monster's
 terrifying size, as it opens its steam-shrouded maw with a hiss._
 
-**Gare Linnorm**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic evil

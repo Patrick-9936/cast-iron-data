@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** When you were young, a relative with whom you had frequently quarreled passed away where
 his or her soul could not rest. Now, the unquiet spirit appears around you at inconvenient times,
 distracting you with regret for being unable to help.

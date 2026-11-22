@@ -32,8 +32,6 @@ _What appears at first glance to be a child or halfling has skin more akin to cr
 barely covering a black, insectile carapace, and it has spider-like legs where one would expect
 arms._
 
-**Fantionette**
-
 **Challenge rating:** 4
 
 **aura:** revelation (10 ft.)

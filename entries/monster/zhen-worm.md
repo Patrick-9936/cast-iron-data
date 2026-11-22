@@ -29,8 +29,6 @@ abilities = ["12", "9", "13", "-", "10", "1"]
 
 _Barely thicker than hempen rope, this orange-banded worm stretches many feet in length._
 
-**Zhen Worm**
-
 **Challenge rating:** 1/2
 
 **Initiative:** -1

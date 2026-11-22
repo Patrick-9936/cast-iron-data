@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Whether due to the influence of malign magic, disease, or the scorn of the gods, you
 were born with a troublesome deformity that interferes with your movement.
 

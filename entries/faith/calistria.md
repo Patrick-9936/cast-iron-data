@@ -23,8 +23,6 @@ page = "74"
 kind = "none"
 +++
 
-**Calistria**
-
 **Sub:** The Savored Sting
 
 ### Details

@@ -20,8 +20,6 @@ benefit = "Against a creature of size Large or larger, you can make a single mel
 special = "You can combine the full-round action attack this feat allows with the benefit of Vital Strike, Improved Vital Strike, or Greater Vital Strike."
 +++
 
-## Death or Glory (Combat)
-
 Even when facing a larger foe, you aren't afraid to take great risks in order to finish the fight.\
 **Prerequisites:** Str 13, [Power Attack](ref/feat/power-attack), base attack bonus +6.\
 **Benefit:** Against a creature of size Large or larger, you can make a single melee attack as a

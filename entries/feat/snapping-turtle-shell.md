@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-grapple", "ref/feat/improved-unarmed-st
 benefit = "While you are using the Snapping Turtle Style feat, the shield bonus the style grants to your AC increases to +2, and your enemies take a -4 penalty on critical confirmation rolls against you."
 +++
 
-## Snapping Turtle Shell (Combat)
-
 Your guarding hand is almost magical in its skill at deflecting incoming blows.\
 **Prerequisites:** [Snapping Turtle Clutch](ref/feat/snapping-turtle-clutch),
 [Snapping Turtle Style](ref/feat/snapping-turtle-style),

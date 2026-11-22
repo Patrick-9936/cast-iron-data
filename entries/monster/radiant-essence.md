@@ -29,8 +29,6 @@ abilities = ["34", "9", "26", "-", "1", "1"]
 
 _Shimmering knots whirl and twist around a shining nucleus in this mound of golden-yellow slime._
 
-**Radiant Essence**
-
 **Challenge rating:** 13
 
 **blindsight:** 60

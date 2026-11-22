@@ -20,8 +20,6 @@ benefit = "Whenever you score a critical hit against an opponent, its speed is h
 special = "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery."
 +++
 
-## Crippling Critical (Combat, Critical)
-
 You are able to maim a target and hinder its movement.\
 **Prerequisites:** [Critical Focus](ref/feat/critical-focus), base attack bonus +13.\
 **Benefit:** Whenever you score a critical hit against an opponent, its speed is halved for 1

@@ -30,8 +30,6 @@ abilities = ["43", "11", "29", "-", "10", "2"]
 _A writhing, seemingly endless segmented monstrosity crawls forth, its great mandibles clacking as
 it spies prey._
 
-**Titan Centipede**
-
 **Challenge rating:** 9
 
 **Size:** colossal

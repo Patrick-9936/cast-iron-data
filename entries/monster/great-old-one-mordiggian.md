@@ -31,8 +31,6 @@ abilities = ["-", "40", "44", "33", "34", "37"]
 _This massive worm-like creature appears to be made of solid darkness that sucks surrounding light
 into its body to be forever extinguished._
 
-**Mordiggian**
-
 **Challenge rating:** 30
 
 **Type:** aberration

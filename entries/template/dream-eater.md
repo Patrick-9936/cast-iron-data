@@ -14,8 +14,6 @@ page = "42"
 kind = "none"
 +++
 
-**Dream Eater**
-
 **Acquired:** present
 
 **Challenge rating:** +2

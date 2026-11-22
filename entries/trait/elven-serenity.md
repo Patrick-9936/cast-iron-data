@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-elf](ref/race/half-elf); elf-raised
 
 **Flavor:** You embody the peace of the elven way of life, and apply this philosophy in your

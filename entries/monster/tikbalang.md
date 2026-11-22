@@ -32,8 +32,6 @@ abilities = ["24", "16", "19", "11", "16", "19"]
 _Merging the features of a horse and human, this monstrosity has an equine snout, sharp fangs, and
 long forelimbs with clawed fingers._
 
-**Tikbalang**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic evil

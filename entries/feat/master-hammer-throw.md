@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/hammer-throw", "ref
 benefit = "You can immediately attempt a trip combat maneuver against a target that you successfully hit and damage with a thrown bludgeoning weapon with any attack, even as part of a full-attack action."
 +++
 
-## Master Hammer Throw (Combat)
-
 Your ability to knock down foes with thrown weapons is second to none.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Hammer Throw](ref/feat/hammer-throw), [Improved Hammer Throw](ref/feat/improved-hammer-throw),

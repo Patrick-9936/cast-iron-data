@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Lissala](ref/faith/lissala)
 
 **Benefit:** You gain a +2 trait bonus on [Spellcraft](ref/skill/spellcraft) checks made to identify

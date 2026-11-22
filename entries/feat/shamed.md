@@ -18,8 +18,6 @@ prerequisites = "You must have been publicly embarrassed, or must have the [Bast
 benefit = "Being observed drives you to excel. When you're in a conflict that is being observed by others not involved in the conflict, you gain a +1 bonus on attack rolls and skill checks."
 +++
 
-## Shamed (Story)
-
 A past humiliation haunts you to this day.\
 **Prerequisites:** You must have been publicly embarrassed, or must have the
 [Bastard Born](ref/rule/birth-circumstances-and-more) background. If the embarrassment didn't cause

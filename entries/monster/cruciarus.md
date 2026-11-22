@@ -31,8 +31,6 @@ abilities = ["-", "28", "-", "9", "16", "23"]
 _The twisted, tormented frame of this ghostly spirit is reflected in the utter anguish that shines
 within its glaring eyes._
 
-**Cruciarus**
-
 **Challenge rating:** 12
 
 **Initiative:** +13

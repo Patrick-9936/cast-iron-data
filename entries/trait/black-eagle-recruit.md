@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lambreth
 
 **Flavor:** You were recruited to serve as one of Lord Arnefax's feared Black Eagles for a time, but

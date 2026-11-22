@@ -33,8 +33,6 @@ _The mechanical workings of this humanoid figure are incredibly complex, but the
 scalpels it has on one hand and the glistening syringes inside its cage-like chest make its
 intentions clear._
 
-**Clockwork Vivisectionist**
-
 **Challenge rating:** 10
 
 **Type:** construct

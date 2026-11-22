@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You can't bring yourself to accept the authority of the gods, even though friends might
 hound you relentlessly to change your ways. Perhaps you're a Rahadoumi objecting on ideological
 grounds, or perhaps you just want to be left alone. Your doubt causes you to shrug off divine magic

@@ -25,8 +25,6 @@ melee = "2 talons +5 (1d4-2)"
 abilities = ["6", "17", "11", "2", "15", "6"]
 +++
 
-**Owl**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

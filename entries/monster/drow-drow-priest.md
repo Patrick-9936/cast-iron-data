@@ -31,8 +31,6 @@ abilities = ["10", "12", "12", "14", "18", "15"]
 
 _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless._
 
-**Drow Priest**
-
 **Challenge rating:** 5
 
 **Drow noble [cleric](ref/class/cleric) 5**

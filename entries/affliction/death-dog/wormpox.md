@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Wormpox"
 source_ids = ["bestiary-4"]
 parent = "ref/monster/death-dog"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "death_dog|affliction:wormpox", path = "json/monsters08.json" },
 ]

@@ -29,8 +29,6 @@ abilities = ["27", "15", "16", "2", "15", "6"]
 _This sleek black whale has a distinctive white patch near each eye and a mouth filled with sharp
 teeth._
 
-**Orca**
-
 **Challenge rating:** 5
 
 **Type:** animal

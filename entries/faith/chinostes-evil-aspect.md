@@ -14,8 +14,6 @@ page = "74"
 kind = "none"
 +++
 
-**Chinostes (Evil Aspect)**
-
 **Sub:** The Fallen Blade
 
 ### Details

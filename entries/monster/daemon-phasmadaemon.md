@@ -34,8 +34,6 @@ abilities = ["26", "25", "23", "17", "18", "22"]
 _This serpentine monstrosity has the long snout of a crocodile, ram's horns, and mantis claws
 projecting from its sinuous body._
 
-**Phasmadaemon**
-
 **Challenge rating:** 17
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 27)

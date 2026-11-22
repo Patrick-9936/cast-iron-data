@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your birth sign aligned significantly with Bretheda on the day you were born, granting
 you a knack for cooperation in the heat of battle.
 

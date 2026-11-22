@@ -30,8 +30,6 @@ abilities = ["12", "15", "13", "9", "14", "10"]
 _This winged creature's streamlined head features sunken, glassy eyes and a circular mouth lined
 with needle-sharp teeth._
 
-**Kerakinsi**
-
 **Challenge rating:** 4
 
 **Initiative:** +2

@@ -14,8 +14,6 @@ page = "69"
 kind = "none"
 +++
 
-**Mordiggian**
-
 **Sub:** The Charnel God
 
 **Monster Link** [Mordiggian](ref/monster/great-old-one-mordiggian)

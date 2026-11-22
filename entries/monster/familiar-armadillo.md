@@ -31,8 +31,6 @@ abilities = ["4", "15", "11", "2", "12", "9"]
 
 _This round, dust-colored creature's snout pokes out of its bony armor shell._
 
-**Armadillo**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

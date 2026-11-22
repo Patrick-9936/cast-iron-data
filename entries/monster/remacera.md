@@ -29,8 +29,6 @@ abilities = ["26", "13", "20", "10", "13", "13"]
 
 _This enormous, fleshy green caterpillar has the face of a serene human woman._
 
-**Remacera**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic neutral

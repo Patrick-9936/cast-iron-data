@@ -28,8 +28,6 @@ abilities = ["14", "15", "15", "2", "13", "6"]
 
 _This hyena is covered in shaggy, tan-colored fur with black and brown stripes._
 
-**Hyena**
-
 **Challenge rating:** 1
 
 **Type:** animal

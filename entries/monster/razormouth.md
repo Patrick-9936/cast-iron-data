@@ -30,8 +30,6 @@ abilities = ["31", "20", "25", "-", "11", "2"]
 _This creature has a hairless body and a black-striped abdomen. It prominently displays a pair of
 large, serrated, bright red fangs._
 
-**Razormouth**
-
 **Challenge rating:** 11
 
 **Size:** huge

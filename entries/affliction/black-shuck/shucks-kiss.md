@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Shuck's Kiss"
 source_ids = ["pathfinder-129-the-twilight-child"]
 parent = "ref/monster/black-shuck"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "black_shuck|affliction:shucks-kiss", path = "json/monsters03.json" },
 ]

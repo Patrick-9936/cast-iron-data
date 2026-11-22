@@ -19,8 +19,6 @@ benefit = "You can attempt a DC 10 Perform check to aid the Perform check of an 
 normal = "Aid another checks grant a +2 bonus."
 +++
 
-## Basic Harmony (Teamwork)
-
 Your performance interweaves with and enriches your ally's skills.\
 **Prerequisites:** Bardic performance or [raging song](ref/ability/raging-song).\
 **Benefit:** You can attempt a DC 10 Perform check to [aid](ref/rule/aid-another) the Perform check

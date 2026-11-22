@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Tian Xia
 
 **Flavor:** For as long as you can remember, the spirits have always whispered into your ears and

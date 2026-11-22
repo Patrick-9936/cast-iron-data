@@ -30,8 +30,6 @@ abilities = ["21", "7", "18", "6", "15", "10"]
 _Heart-shaped leaves and drooping clusters of purple and pink flowers emitting a faint scent of
 honey and fruit drape over the bone-white trees of a dead grove buried under heavy vines._
 
-**Pixie Circle**
-
 **Challenge rating:** 7
 
 **blindsight:** 60

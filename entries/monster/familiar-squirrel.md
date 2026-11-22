@@ -31,8 +31,6 @@ abilities = ["2", "19", "9", "2", "12", "9"]
 _A small, bright-eyed bundle of fur, this woodland creature has a bushy tail as big as the rest of
 its body._
 
-**Squirrel**
-
 **Challenge rating:** 1/8
 
 **Type:** animal

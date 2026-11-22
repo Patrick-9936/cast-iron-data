@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-elf](ref/race/half-elf)
 
 **Flavor:** One of your parents was a member of a wild elven tribe, and you've inherited a portion

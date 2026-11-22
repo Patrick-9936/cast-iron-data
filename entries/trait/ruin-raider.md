@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Shattered Star
 
 **Flavor:** While the mercantile industries of Magnimar appeal to your keen eye for monetary gain,

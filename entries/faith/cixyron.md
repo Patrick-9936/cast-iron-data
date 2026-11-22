@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Cixyron**
-
 **Sub:** The Furious Thunder
 
 ### Details

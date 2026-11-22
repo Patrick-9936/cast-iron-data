@@ -31,8 +31,6 @@ abilities = ["20", "24", "18", "13", "11", "15"]
 _This enormous hound has a single, glowering green eye, and its flanks are matted with hair soaked
 in filth and gore._
 
-**Black Shuck**
-
 **Challenge rating:** 7
 
 **blindsight:** 60

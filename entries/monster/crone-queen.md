@@ -34,8 +34,6 @@ abilities = ["23", "20", "-", "19", "17", "18"]
 _A cold, hateful light burns in the eye sockets of this corpse-like creature, whose withered skin is
 stretched over its icy bones._
 
-**Crone Queen**
-
 **Challenge rating:** 15
 
 **aura:** fear aura (30 ft., DC 25)

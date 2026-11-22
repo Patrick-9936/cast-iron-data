@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Suli](ref/race/suli)
 
 **Flavor:** You were not born of a janni - your non-human heritage can instead be traced back to

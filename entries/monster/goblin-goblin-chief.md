@@ -30,8 +30,6 @@ special_qualities = "armor training 2"
 abilities = ["18", "16", "14", "10", "12", "6"]
 +++
 
-**Goblin Chief**
-
 **Challenge rating:** 9
 
 **Oversized goblin [fighter](ref/class/fighter) 10**

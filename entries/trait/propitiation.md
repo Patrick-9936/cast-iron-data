@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Dwarven Deities
 
 **Flavor:** Your knowledge of the dwarven pantheon tells you precisely which gods have jurisdiction

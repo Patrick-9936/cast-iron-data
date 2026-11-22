@@ -29,8 +29,6 @@ abilities = ["28", "15", "17", "2", "12", "11"]
 _This immense raptor unleashes a shrill cry as it bares its talons, each large enough to carry off a
 horse._
 
-**Roc**
-
 **Challenge rating:** 9
 
 **Type:** animal

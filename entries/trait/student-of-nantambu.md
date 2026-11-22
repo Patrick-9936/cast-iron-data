@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Mwangi
 
 **Flavor:** You have spent time at [Magaambya](ref/rule/aff-i-school), the magical academy of

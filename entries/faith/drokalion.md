@@ -14,8 +14,6 @@ page = "74"
 kind = "none"
 +++
 
-**Drokalion**
-
 ### Details
 
 **Alignment** N\

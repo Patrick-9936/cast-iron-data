@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You received something through trickery that you did not deserve, and your guilt for the
 misdeed distracts you from dangers around you.
 

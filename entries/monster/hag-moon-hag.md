@@ -31,8 +31,6 @@ abilities = ["20", "12", "19", "14", "17", "19"]
 _The flesh of this withered woman's face stretches tightly over her skull, with one red eye bulging
 fat in its socket._
 
-**Moon Hag**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

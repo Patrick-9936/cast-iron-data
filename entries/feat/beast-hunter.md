@@ -19,8 +19,6 @@ benefit = "Pick one of the ranger's favored terrains. You gain a +2 bonus on Sur
 special = "You can take this feat multiple times. Each time you select this feat, you can choose an additional favored terrain to gain the listed benefits in."
 +++
 
-## Beast Hunter (Combat)
-
 Thanks to your experience hunting in the wilds, you are capable of tracking animals in your most
 often traveled terrains, and you can easily take down animals larger than yourself.\
 **Prerequisites:** Base attack bonus +1; Knowledge (nature) or Survival 1 rank.\

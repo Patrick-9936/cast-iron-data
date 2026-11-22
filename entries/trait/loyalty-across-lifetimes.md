@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You and your eidolon share a link that seems to span multiple lifetimes.
 
 **Benefit:** Your eidolon treats its Constitution score as if it were 2 points higher for the

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You have a hard time understanding and trusting those with unfamiliar ways and
 appearances.
 

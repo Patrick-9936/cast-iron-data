@@ -14,8 +14,6 @@ page = "120"
 kind = "none"
 +++
 
-**Foo Creature**
-
 **Challenge rating:** +1
 
 **Inherited:** present

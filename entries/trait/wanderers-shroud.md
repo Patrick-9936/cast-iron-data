@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your wanderings often go unnoticed.
 
 **Benefit:** Efforts to use the [Diplomacy](ref/skill/diplomacy) skill to gather information about

@@ -32,8 +32,6 @@ the cacophony of a raging wildfire. Large enough to heft a horse in its monstrou
 bears no flesh, its body merely a thing of exposed bone and charred musculature. From its three
 fanged mouths leap tongues of flame, and crimson saliva leaks from the terror's skeletal jaws._
 
-**Malbolgian Cerberi**
-
 **Challenge rating:** 12
 
 **Initiative:** +5

@@ -34,8 +34,6 @@ abilities = ["16", "16", "19", "2", "5", "1"]
 _Weathered cobblestones give way to a deep, rough pit, the edges of which wriggle and contract of
 their own accord._
 
-**Slithering Pit**
-
 **Challenge rating:** 2
 
 **blindsight:** 60

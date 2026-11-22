@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have spent most of your life learning how to survive in wastelands, and a lack of
 normal survival resources apparent in the environment is not a problem for you.
 

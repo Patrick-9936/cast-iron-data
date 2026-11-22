@@ -13,7 +13,7 @@ page = "28"
 [fields]
 kind = "item"
 category = "Piercings"
-slot = "eye; Price 6,000 gp (Minor), 18,000 gp (Major), 32,000 gp (Greater)"
+slot = "eyes"
 aura = "faint transmutation CL 5th"
 +++
 

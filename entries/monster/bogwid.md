@@ -33,8 +33,6 @@ viscous residue stinking of putrefaction. Its amphibian skin is moist, green-bla
 warts and protuberances. On its back, dozens of fist-sized pustules shift and pulsate with
 nauseating vitality, like sentient oily bubbles threatening to burst._
 
-**Bogwid**
-
 **Challenge rating:** 5
 
 **Type:** aberration

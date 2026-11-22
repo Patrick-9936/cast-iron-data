@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Whispering Way](ref/rule/f-gravepath)
 
 **Flavor:** Your exposure to the necromantic arts has strengthened your defenses against its vile

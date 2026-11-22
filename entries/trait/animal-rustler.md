@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Orc](ref/race/orc)
 
 **Flavor:** You frequently helped capture and wrangle dangerous animals and megafauna for your

@@ -28,8 +28,6 @@ abilities = ["27", "10", "18", "16", "17", "17"]
 
 _This regal, bird-winged lion has a human's head, clad in the golden raiment of a powerful pharaoh._
 
-**Androsphinx**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic good

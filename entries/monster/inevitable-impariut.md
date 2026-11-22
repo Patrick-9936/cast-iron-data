@@ -30,8 +30,6 @@ abilities = ["20", "15", "18", "15", "18", "21"]
 
 _Dressed in noble regalia, this humanoid creature of metal and wood has a piercing gaze._
 
-**Impariut**
-
 **Challenge rating:** 10
 
 **Initiative:** +2

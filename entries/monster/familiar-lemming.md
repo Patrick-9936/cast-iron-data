@@ -30,8 +30,6 @@ abilities = ["1", "12", "6", "2", "13", "4"]
 
 _This small, plump rodent has a calico mix of color and a short tail._
 
-**Lemming**
-
 **Challenge rating:** 1/8
 
 **Type:** animal

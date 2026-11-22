@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Red ache"
 source_ids = ["bestiary-2"]
 parent = "ref/monster/tick-giant-tick"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "tick_giant_tick|affliction:red-ache", path = "json/monsters39.json" },
 ]

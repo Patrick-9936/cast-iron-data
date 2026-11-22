@@ -29,8 +29,6 @@ abilities = ["17", "10", "-", "8", "10", "13"]
 _This barnacle-encrusted walking corpse looks like a zombie, but is dripping with water and gives
 off a nauseating stench._
 
-**Draugr**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

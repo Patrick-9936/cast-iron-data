@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mendev
 
 **Flavor:** As a Mendevian native, you have seen all manner of people claiming holy motives, and you

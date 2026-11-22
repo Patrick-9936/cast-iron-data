@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Ruapceras**
-
 **Sub:** The Scarlet Promise
 
 ### Details

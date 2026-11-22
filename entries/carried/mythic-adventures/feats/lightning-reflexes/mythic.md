@@ -19,20 +19,8 @@ prerequisites = "Lightning Reflexes."
 benefit = "Whenever you roll a Reflex saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your reflexes are superhuman._
-
-## Prerequisites {#prerequisites}
-
-_Lightning Reflexes._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Whenever you roll a Reflex saving throw against a spell,
+Your reflexes are superhuman.\
+**Prerequisites:** Lightning Reflexes.\
+**Benefit:** Whenever you roll a Reflex saving throw against a spell,
 [spell-like ability](ref/umr/spell-like-abilities), or supernatural ability from a non-mythic
 source, roll twice and take the higher result.
-:::

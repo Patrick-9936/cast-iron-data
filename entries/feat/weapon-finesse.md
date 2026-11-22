@@ -18,8 +18,6 @@ benefit = "With a light weapon, rapier, whip, or spiked chain made for a creatur
 special = "Natural weapons are considered light weapons."
 +++
 
-## Weapon Finesse (Combat)
-
 You are trained in using your agility in melee combat, as opposed to brute strength.\
 **Benefit:** With a light weapon, [rapier](ref/eq-weapon/rapier), [whip](ref/eq-weapon/whip), or
 [spiked chain](ref/eq-weapon/spiked-chain) made for a creature of your size category, you may use

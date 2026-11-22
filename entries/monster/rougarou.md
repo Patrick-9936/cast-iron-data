@@ -31,8 +31,6 @@ abilities = ["16", "15", "13", "10", "12", "8"]
 
 _This muscular, wolf-headed humanoid is covered in brown and gray fur._
 
-**Rougarou**
-
 **Challenge rating:** 1/2
 
 **Female rougarou [ranger](ref/class/ranger) 1**

@@ -31,8 +31,6 @@ abilities = ["12", "19", "20", "16", "15", "21"]
 
 _A mighty woman of refined beauty hovers in the air, her skin whorled with blue markings._
 
-**Nephlei**
-
 **Challenge rating:** 9
 
 **Alignment:** Chaotic neutral

@@ -32,8 +32,6 @@ abilities = ["40", "16", "23", "15", "20", "17"]
 _This giant has the arms and armor of an ancient warrior. Her golden skin and flame-colored hair
 amplify the light around her._
 
-**Sun Giant**
-
 **Challenge rating:** 16
 
 **Alignment:** CG or CE

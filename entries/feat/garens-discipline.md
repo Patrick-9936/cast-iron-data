@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/alertness", "ref/feat/exotic-weapon-proficiency"
 benefit = "Whenever you use Combat Expertise, fight defensively, or take the total defense action, choose a type of saving throw. (You can choose a different type each time you take such an action.) Once per round before attempting a saving throw using the selected save, you gain a +2 bonus on that save. If you have a base attack bonus of +11 or higher, this bonus increases to +3. If you have a base attack bonus of +16 or higher, the bonus instead increases to +4."
 +++
 
-## Garen's Discipline (Combat)
-
 You've learned to defend yourself against spell and storm with dazzling flourishes of your weapon.\
 **Prerequisites:** [Alertness](ref/feat/alertness),
 [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency) (Aldori dueling sword),

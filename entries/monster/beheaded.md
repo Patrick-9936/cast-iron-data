@@ -31,8 +31,6 @@ abilities = ["11", "15", "-", "-", "11", "10"]
 
 _A decaying humanoid head floats silently and ominously, its graying teeth eerily clattering._
 
-**Beheaded**
-
 **Challenge rating:** 1/3
 
 **Initiative:** +2

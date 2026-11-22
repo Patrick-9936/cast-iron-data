@@ -31,8 +31,6 @@ abilities = ["28", "12", "27", "8", "9", "9"]
 _This slimy-skinned, three-headed sea beast has writhing tentacles and is surrounded by a black,
 poisonous cloud that flickers like fire._
 
-**Cerberus Worm**
-
 **Challenge rating:** 14
 
 **Size:** gargantuan

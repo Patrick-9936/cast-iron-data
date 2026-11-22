@@ -19,8 +19,6 @@ benefit = "If you are the target of a combat maneuver you can, as an immediate a
 special = "You cannot make this bite attack when you are the aggressor, including if you manage to reverse a grapple or make any other attack of opportunity."
 +++
 
-## Ankle Biter (Combat)
-
 You know how take a mouthful out of anyone who tries to overpower you.\
 **Prerequisites:** [Goblin](ref/race/goblin), Escape Artist 1 rank.\
 **Benefit:** If you are the target of a combat maneuver you can, as an immediate action, attempt to

@@ -35,8 +35,6 @@ abilities = ["29", "21", "21", "26", "22", "24"]
 _This towering, three-tailed, six-eyed beast seems like three rune-backed serpents partially melded
 together into one body._
 
-**Xacarba**
-
 **Challenge rating:** 15
 
 **Alignment:** Chaotic evil

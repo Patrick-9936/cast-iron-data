@@ -20,8 +20,6 @@ benefit = "You treat quarterstaves as if they had the trip special feature."
 special = "If you are a magus with the staff magus archetype, you can use spellstrike on any trip combat maneuver you make with the staff."
 +++
 
-## Tripping Staff (Combat)
-
 You can make a trip attack with your quarterstaff.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Trip](ref/feat/improved-trip), [Weapon Focus](ref/feat/weapon-focus) (quarterstaff), base

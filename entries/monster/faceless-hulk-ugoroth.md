@@ -33,8 +33,6 @@ abilities = ["26", "11", "19", "16", "11", "16"]
 _This hairless, leathery giant has no discernible features aside from unsettling whorls across its
 skin and grotesque, slurping tongues where its face should be._
 
-**Faceless Hulk (Ugoroth)**
-
 **Challenge rating:** 9
 
 **Type:** aberration

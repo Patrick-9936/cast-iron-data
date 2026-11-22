@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You are adept at nonverbal communication.
 
 **Benefit:** You can use a sign language or gestural system to send complex messages quickly in

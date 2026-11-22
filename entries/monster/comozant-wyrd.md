@@ -35,8 +35,6 @@ abilities = ["-", "17", "10", "8", "17", "18"]
 _The only real feature of this flaring of electrical energy is a vaguely humanoid face that flickers
 and plays within its shifting mass._
 
-**Comozant Wyrd**
-
 **Challenge rating:** 4
 
 **Initiative:** +7

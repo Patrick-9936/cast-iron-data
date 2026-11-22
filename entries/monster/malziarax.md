@@ -32,8 +32,6 @@ abilities = ["43", "14", "32", "18", "21", "26"]
 
 _This enormous, ebon-skinned giant is covered in glowing red runes and exotic plate armor._
 
-**Malziarax, Rune Giant Overlord**
-
 **Challenge rating:** 21
 
 **Female rune giant [fighter](ref/class/fighter) 4**

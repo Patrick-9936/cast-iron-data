@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Legacy of Fire
 
 **Flavor:** Your interest in the village of Kelmarane is more personal than most of the others who

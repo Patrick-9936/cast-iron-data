@@ -30,8 +30,6 @@ abilities = ["8", "14", "12", "13", "15", "13"]
 _This tiny monstrosity has the body of a well-muscled man, a crown of frilled horns, and eyes that
 glow like rubies._
 
-**Tripurasura**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

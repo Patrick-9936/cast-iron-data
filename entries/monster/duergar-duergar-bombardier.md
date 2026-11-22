@@ -30,8 +30,6 @@ special_qualities = "alchemy (alchemy crafting +2, identify potions), discovery 
 abilities = ["12", "16", "15", "15", "10", "4"]
 +++
 
-**Duergar Bombardier**
-
 **Challenge rating:** 1
 
 **Duergar [alchemist](ref/class/alchemist) 2**

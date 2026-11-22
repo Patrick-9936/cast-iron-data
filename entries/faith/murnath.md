@@ -20,8 +20,6 @@ page = "38"
 kind = "none"
 +++
 
-**Murnath**
-
 **Sub:** The Horned Rat
 
 ### Details

@@ -30,8 +30,6 @@ abilities = ["1", "15", "16", "-", "12", "7"]
 
 _The ground teems with crawling termites, biting and stinging as they come._
 
-**Termite Swarm**
-
 **Challenge rating:** 6
 
 **Size:** fine

@@ -34,8 +34,6 @@ abilities = ["16", "17", "16", "10", "15", "11"]
 _Broad hawk wings support this creature with the torso of a bronze-skinned human and the lower body
 of a tawny, bipedal lion._
 
-**Maftet**
-
 **Challenge rating:** 6
 
 **Initiative:** +3

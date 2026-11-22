@@ -14,8 +14,6 @@ page = "71"
 kind = "none"
 +++
 
-**Nephthys**
-
 **Sub:** Mistress of the Mansion
 
 ### Details

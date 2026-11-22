@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Benefit:** You gain a +1 trait bonus on Charisma checks against evil creatures. If you select the
 [Leadership](ref/feat/leadership) feat or the [Vile Leadership](ref/feat/vile-leadership) feat at
 any point when you meet the prerequisites for that feat, you can recruit a cohort who is up to 1

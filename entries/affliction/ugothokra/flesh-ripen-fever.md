@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Flesh Ripen Fever"
 source_ids = ["pathfinder-88-valley-of-the-brain-collectors"]
 parent = "ref/monster/ugothokra"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "ugothokra|affliction:flesh-ripen-fever", path = "json/monsters24.json" },
 ]

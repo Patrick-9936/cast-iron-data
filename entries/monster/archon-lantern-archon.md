@@ -31,8 +31,6 @@ abilities = ["1", "11", "12", "6", "11", "10"]
 _Shedding a warm and calming radiance, this orb of light moves with a preternatural silence and
 otherworldly grace._
 
-**Lantern Archon**
-
 **Challenge rating:** 2
 
 **aura:** aura of menace (DC 13)

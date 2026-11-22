@@ -33,8 +33,6 @@ abilities = ["42", "19", "25", "15", "22", "22"]
 _This lurching mass of spiked iron armor, rotting translucent flesh, and twisted black thorns
 resembles a dead giant with the head of an oversized boar._
 
-**Abaddon Gigas**
-
 **Challenge rating:** 17
 
 **Size:** gargantuan

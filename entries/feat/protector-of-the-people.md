@@ -18,8 +18,6 @@ prerequisites = "Your community has come under persecution and requires consider
 benefit = "You temporarily gain the Craft Construct feat for the purposes of building one golem to satisfy the goal of this story feat. You do not need to meet Craft Construct's prerequisites, and it can't be used as a prerequisite for any other crafting endeavor."
 +++
 
-## Protector of the People (Story)
-
 You have vowed to construct a defender for your community.\
 **Prerequisites:** Your community has come under persecution and requires considerable defense.\
 **Benefit:** You temporarily gain the [Craft Construct](ref/feat/craft-construct) feat for the

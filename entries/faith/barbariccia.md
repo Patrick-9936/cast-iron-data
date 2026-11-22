@@ -17,8 +17,6 @@ page = "122"
 kind = "none"
 +++
 
-**Barbariccia**
-
 **Sub:** The Fearsome Father
 
 ### Details

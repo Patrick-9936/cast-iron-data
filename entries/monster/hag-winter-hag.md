@@ -31,8 +31,6 @@ abilities = ["17", "13", "16", "16", "13", "18"]
 _This woman has black, frostbitten skin, white hair, and a black ice staff decorated with bones and
 gems._
 
-**Winter Hag**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

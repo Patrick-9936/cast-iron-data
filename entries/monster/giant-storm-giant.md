@@ -32,8 +32,6 @@ abilities = ["39", "14", "23", "16", "20", "15"]
 _This giant is a towering, muscular human of heroic proportions, with bronze skin, dark hair, and
 sparkling green eyes._
 
-**Storm Giant**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic good

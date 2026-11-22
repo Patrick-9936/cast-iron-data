@@ -18,8 +18,6 @@ cr = "6"
 _This hard-eyed stranger holds a strange weapon in his hand that resembles a pistol but glows with a
 pale blue light._
 
-**Numerian Gunslinger**
-
 **Challenge rating:** 6
 
 **XP** 2,400\

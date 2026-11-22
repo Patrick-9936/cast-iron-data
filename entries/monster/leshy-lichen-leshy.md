@@ -32,8 +32,6 @@ abilities = ["11", "12", "15", "10", "15", "10"]
 _This miniature plant person has a body composed of lichens and a rain cape woven from leafy
 growths._
 
-**Lichen Leshy**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

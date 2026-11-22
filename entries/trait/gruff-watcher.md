@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Ulfen
 
 **Flavor:** Having grown up among headstrong sailors and bloodthirsty raiders, you learned to keep

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Geniekin
 
 **Flavor:** You gained some power of wishcraft from a genie ancestor.

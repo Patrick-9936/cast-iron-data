@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Benefit:** When you rest, you ignore the first time you are interrupted during that rest for the
 purposes of determining how long you need to rest in full to regain the capacity to regain spells,
 provided the interruption lasts no more than 15 minutes. If you cast spells during this

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** forest
 
 **Flavor:** The time you spent leaping between slippery logs as they whirled down the river to

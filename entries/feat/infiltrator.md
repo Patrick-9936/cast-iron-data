@@ -18,8 +18,6 @@ prerequisites = "Must have adopted an assumed or secret identity associated with
 benefit = "Once per day when you succeed at a saving throw to negate a divination, you learn what the divination would have revealed and can spend an immediate action to cause the divination to return appropriate false information you imagine that would fit with your cover identity."
 +++
 
-## Infiltrator (Story)
-
 You have sacrificed your true identity in order to achieve your goal.\
 **Prerequisites:** Must have adopted an assumed or secret identity associated with an enemy
 organization.\

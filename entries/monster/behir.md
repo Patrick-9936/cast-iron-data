@@ -29,8 +29,6 @@ abilities = ["23", "12", "21", "7", "14", "12"]
 _This slithering, multilegged blue reptile has a fearsome head crowned with two large, curling
 horns._
 
-**Behir**
-
 **Challenge rating:** 8
 
 **Size:** huge

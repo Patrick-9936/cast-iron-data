@@ -19,8 +19,6 @@ benefit = "As a standard action, you can attempt to feint against a foe within y
 special = "If you have the Improved Feint feat, you can use this feat as a move action instead."
 +++
 
-## Twinned Feint (Combat)
-
 You can fool two opponents with a single feint.\
 **Prerequisites:** Cha 13.\
 **Benefit:** As a standard action, you can attempt to [feint](ref/rule/feint) against a foe within

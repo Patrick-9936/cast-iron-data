@@ -25,8 +25,6 @@ melee = "bite +5 (1d2-2 plus poison)"
 abilities = ["4", "17", "8", "1", "13", "2"]
 +++
 
-**Viper**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

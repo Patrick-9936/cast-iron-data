@@ -30,8 +30,6 @@ abilities = ["31", "9", "22", "2", "15", "6"]
 _Thick folds of skin protect this massive sea mammal like fleshy armor. Tusks as tall as humans jut
 from its whiskered face._
 
-**Emperor Walrus**
-
 **Challenge rating:** 8
 
 **Type:** animal

@@ -31,8 +31,6 @@ abilities = ["14", "16", "18", "41", "24", "22"]
 _This gray-haired man with a short, wiry beard wears a nondescript robe festooned with satchels and
 decorations._
 
-**Old-Mage Jatembe**
-
 **Challenge rating:** 24
 
 **Mythic rank:** 6

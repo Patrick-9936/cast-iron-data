@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Fungal Rot"
 source_ids = ["bestiary-2"]
 parent = "ref/monster/slime-mold"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "slime_mold|affliction:fungal-rot", path = "json/monsters22.json" },
 ]

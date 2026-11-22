@@ -14,8 +14,6 @@ page = "152"
 kind = "none"
 +++
 
-**Giantkin Ogre**
-
 **Challenge rating:** +1
 
 **Inherited:** present

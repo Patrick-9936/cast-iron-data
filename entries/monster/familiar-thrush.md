@@ -25,8 +25,6 @@ melee = "bite -1 (1d2-5)"
 abilities = ["1", "15", "6", "2", "15", "6"]
 +++
 
-**Thrush**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

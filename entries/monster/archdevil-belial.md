@@ -31,8 +31,6 @@ abilities = ["34", "26", "41", "31", "28", "37"]
 _One half of this figure's body is gleaming and beautiful with an angelic wing, while the other is
 scaled, scarred, and blackened._
 
-**Belial**
-
 **Challenge rating:** 28
 
 **aura:** baleful beauty (30 ft., DC 39), shield of law (DC 31)

@@ -20,8 +20,6 @@ benefit = "Opponents blinded by your Kudzu Grappler feat increase their miss cha
 normal = "All opponents are considered to have total concealment (50% miss chance) against blinded creatures."
 +++
 
-## Kudzu Takeover (Combat)
-
 Your magical nature infuses your vines, further obscuring grappled foes' vision - even for opponents
 with enhanced senses.\
 **Prerequisites:** Dex 13, base attack bonus +6 or monk level 6th,

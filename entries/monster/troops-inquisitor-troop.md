@@ -31,8 +31,6 @@ abilities = ["20", "15", "19", "10", "18", "13"]
 _A column of soldiers clad in the black and red of House Thrune move together, their weapons at the
 ready in a coordinated front._
 
-**Inquisitor Troop**
-
 **Challenge rating:** 9
 
 **Type:** humanoid

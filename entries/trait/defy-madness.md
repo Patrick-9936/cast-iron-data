@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Old Cults](ref/rule/f-old-cults)
 
 **Flavor:** Your direct involvement with supernatural and alien forces has left you less vulnerable

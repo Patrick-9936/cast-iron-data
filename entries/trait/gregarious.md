@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** At least once in your childhood, your family moved for a reason you didn't understand
 and you were forced to leave behind your old friends and make new ones. Ever since, you have always
 been the first to meet strangers, make new friends, and welcome travelers. You learned that first

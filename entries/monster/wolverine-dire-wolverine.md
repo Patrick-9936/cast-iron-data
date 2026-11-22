@@ -30,8 +30,6 @@ abilities = ["19", "17", "17", "2", "12", "10"]
 _This terrible wolverine is as large as a bear, its jaws and claws oversized and brutal, its eyes
 dark and filled with rage._
 
-**Dire Wolverine**
-
 **Challenge rating:** 4
 
 **Type:** animal

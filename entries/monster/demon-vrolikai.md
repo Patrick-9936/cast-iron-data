@@ -30,8 +30,6 @@ abilities = ["30", "23", "35", "22", "23", "26"]
 _This black-skinned, bat-winged demon has four arms; a long, thin tail; and a leering, fanged face
 with dead, white eyes._
 
-**Vrolikai**
-
 **Challenge rating:** 19
 
 **Alignment:** Chaotic evil

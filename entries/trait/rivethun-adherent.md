@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** [Rivethun](ref/rule/aff-animists) is an ancient tradition of dwarven shamans who learned
 to listen to and affect the world around them by reflecting on the friction between body and spirit.
 As someone who feels a similar friction between your inner spirit and physical body, you have picked

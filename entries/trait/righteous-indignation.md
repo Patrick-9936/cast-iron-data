@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You have difficulty controlling your temper after living in inhuman conditions in
 Cheliax, Geb, Irrisen, Katapesh, or Qadira.
 

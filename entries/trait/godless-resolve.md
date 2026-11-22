@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Bachuan, Rahadoum or Touvette
 
 **Benefit:** Some brilliant and earnest speech or other performance inspired you to take charge of

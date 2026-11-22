@@ -33,8 +33,6 @@ abilities = ["15", "21", "14", "10", "10", "13"]
 _With jet-black skin and a small but menacing pair of horns, this goateed, impish creature wields a
 bloody knife and a wicked grin._
 
-**Spring-Heeled Jack**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

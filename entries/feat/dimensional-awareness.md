@@ -24,8 +24,6 @@ benefit = "If a summoned or called creature materializes in a space you threaten
 normal = "A summoned or called creature appears instantly when the spell used to conjure it is completed, allowing for no attack of opportunity against the creature."
 +++
 
-## Dimensional Awareness (Combat)
-
 Your exposure to summoned creatures allows you to predict where conjured opponents will likely
 appear.\
 **Prerequisites:** [Arcane Strike](ref/feat/arcane-strike) or [Disruptive](ref/feat/disruptive);

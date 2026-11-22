@@ -30,8 +30,6 @@ special_qualities = "alchemy (alchemy crafting +4, identify potions), discoverie
 abilities = ["8", "18", "13", "16", "12", "6"]
 +++
 
-**Goblin Vulture Pilot**
-
 **Challenge rating:** 3
 
 **Goblin [alchemist](ref/class/alchemist) ([winged marauder](ref/arc-alchemist/winged-marauder)) 4**

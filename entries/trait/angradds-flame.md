@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Angradd](ref/faith/angradd)
 
 **Flavor:** Your faith in the Forge-Fire fans the passionate flames of war in your heart.

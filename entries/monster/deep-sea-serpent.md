@@ -31,8 +31,6 @@ abilities = ["39", "20", "28", "2", "17", "11"]
 _This enormous, water-dwelling serpent has bright, bulging eyes and rounded jaws filled with long,
 jagged teeth._
 
-**Deep Sea Serpent**
-
 **Challenge rating:** 19
 
 **Size:** gargantuan

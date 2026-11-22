@@ -27,8 +27,6 @@ special_qualities = "change shape, item mastery"
 abilities = ["32", "10", "25", "24", "22", "21"]
 +++
 
-**Ancient Occult Dragon**
-
 **Challenge rating:** 15
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 25), protective aura (20

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-grapple", "ref/feat/improved-unarmed-st
 benefit = "While you are using the Snapping Turtle Style feat, the shield bonus the style grants to your AC applies to your CMD and touch AC. Whenever an opponent misses you with a melee attack while you are using the Snapping Turtle Style feat, you can use an immediate action to attempt a grapple combat maneuver against that opponent, but with a -2 penalty."
 +++
 
-## Snapping Turtle Clutch (Combat)
-
 Your unarmed style allows you to turn your opponent's attack into an opportunity.\
 **Prerequisites:** [Snapping Turtle Style](ref/feat/snapping-turtle-style),
 [Improved Grapple](ref/feat/improved-grapple),

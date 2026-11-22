@@ -30,8 +30,6 @@ abilities = ["18", "16", "-", "1", "11", "5"]
 _Sculpted from bronze in the form of a large humanoid head, this creature perches on six mechanical
 legs, its eyes intermittently shining with an orange glow._
 
-**Bronze Sentinel**
-
 **Challenge rating:** 3
 
 **Type:** construct

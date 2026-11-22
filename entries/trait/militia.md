@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Amanandar
 
 **Flavor:** As part of Amanandar's militia, you have trained extensively with groups.

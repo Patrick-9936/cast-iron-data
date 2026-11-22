@@ -30,8 +30,6 @@ abilities = ["29", "8", "20", "2", "13", "5"]
 _This immense behemoth of a hippo is larger than an elephant. Its teeth are like scimitars, and it
 moves with an indomitable gait._
 
-**Behemoth Hippopotamus**
-
 **Challenge rating:** 10
 
 **Type:** animal

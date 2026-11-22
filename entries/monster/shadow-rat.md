@@ -31,8 +31,6 @@ abilities = ["6", "15", "-", "2", "12", "13"]
 _This creature appears as a rat with rotting flesh, torn and matted fur, and reddish blazing eyes.
 Its semi-translucent skin shows discolored bones and muscles._
 
-**Shadow Rat**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +2

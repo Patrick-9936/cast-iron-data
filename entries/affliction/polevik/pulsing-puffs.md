@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Pulsing Puffs"
 source_ids = ["pathfinder-63-the-asylum-stone"]
 parent = "ref/monster/polevik"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "polevik|affliction:pulsing-puffs", path = "json/monsters19.json" },
 ]

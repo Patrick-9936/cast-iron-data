@@ -32,8 +32,6 @@ abilities = ["12", "13", "15", "6", "11", "12"]
 _Composed of half-formed body parts, this creature stands on two bizarre legs. Its mouth is full of
 jagged teeth and a slavering tongue._
 
-**Fleshdreg**
-
 **Challenge rating:** 1
 
 **Type:** aberration

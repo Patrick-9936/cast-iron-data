@@ -17,8 +17,6 @@ page = "11"
 kind = "none"
 +++
 
-**Damerrich**
-
 **Sub:** The Weighted Swing
 
 ### Details

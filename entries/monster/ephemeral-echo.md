@@ -32,8 +32,6 @@ abilities = ["- (22 while corporeal)", "16", "-", "11", "13", "22"]
 _This ghostly image of a sad-eyed young woman hovers suspended in the air. Her face never loses its
 mournful expression._
 
-**Ephemeral Echo**
-
 **Challenge rating:** 7
 
 **Initiative:** +7

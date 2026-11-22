@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Thuvia
 
 **Flavor:** You are one of the famed performers of Lamasara, and your skill is known throughout

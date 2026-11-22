@@ -14,8 +14,6 @@ page = "11"
 kind = "none"
 +++
 
-**Monad**
-
 **Sub:** The Condition of All
 
 ### Details

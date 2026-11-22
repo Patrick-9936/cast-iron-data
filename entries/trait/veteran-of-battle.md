@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Gorum](ref/faith/gorum)
 
 **Flavor:** You have fought in several battles, and each time felt the presence of Gorum guiding

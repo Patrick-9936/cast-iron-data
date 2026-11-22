@@ -31,8 +31,6 @@ abilities = ["14", "17", "12", "11", "12", "13"]
 
 _This smooth-featured, humanoid creature appears to have skin made entirely of mirrored glass._
 
-**Soulsliver**
-
 **Challenge rating:** 2
 
 **Initiative:** +7

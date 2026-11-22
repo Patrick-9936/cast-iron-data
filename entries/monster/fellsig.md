@@ -32,8 +32,6 @@ abilities = ["16", "10", "-", "8", "13", "12"]
 _This squat figure's rough-hewn visage is frozen in a mask of pain, while the cracks in its dark
 stone body glow with a fiery inner heat._
 
-**Fellsig**
-
 **Challenge rating:** 3
 
 **Initiative:** +0

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir); Ancient-born
 
 **Flavor:** Your fragile flesh shows signs of years not yet lived.

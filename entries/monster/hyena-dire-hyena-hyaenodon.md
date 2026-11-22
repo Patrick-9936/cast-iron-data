@@ -28,8 +28,6 @@ abilities = ["18", "15", "15", "2", "13", "6"]
 
 _This large hyena has a thick head, rheumy red eyes, and a mouth filled with sharp, powerful teeth._
 
-**Dire Hyena (Hyaenodon)**
-
 **Challenge rating:** 3
 
 **Type:** animal

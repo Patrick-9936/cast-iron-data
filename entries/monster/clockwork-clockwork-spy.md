@@ -32,8 +32,6 @@ abilities = ["10", "13", "-", "-", "11", "1"]
 _This tiny steel creature has one oversized eye, a spherical body, and several spider-like legs of
 grinding metal._
 
-**Clockwork Spy**
-
 **Challenge rating:** 1/2
 
 **Type:** construct

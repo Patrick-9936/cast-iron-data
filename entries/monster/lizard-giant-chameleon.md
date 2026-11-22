@@ -29,8 +29,6 @@ abilities = ["16", "15", "18", "2", "11", "7"]
 _Nearly invisible in its surroundings, this scaly lizard's eyes dart about independently of each
 other._
 
-**Giant Chameleon**
-
 **Challenge rating:** 3
 
 **Type:** animal

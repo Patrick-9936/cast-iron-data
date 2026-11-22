@@ -29,8 +29,6 @@ special_qualities = "slow and steady, stability"
 abilities = ["13", "10", "14", "8", "20", "12"]
 +++
 
-**Duergar High Priest**
-
 **Challenge rating:** 12
 
 **Duergar [cleric](ref/class/cleric) 13**

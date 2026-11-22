@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Groetus](ref/faith/groetus)
 
 **Benefit:** You're used to living with your own madness, and gain a +2 trait bonus on saving throws

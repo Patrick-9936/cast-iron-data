@@ -30,8 +30,6 @@ abilities = ["36", "15", "-", "-", "11", "1"]
 _Pale green metal makes up the body of this automaton. Despite its towering size, it moves with
 lithe quickness._
 
-**Noqual Golem**
-
 **Challenge rating:** 18
 
 **aura:** impeded magic (60 ft.)

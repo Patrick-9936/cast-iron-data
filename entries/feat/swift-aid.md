@@ -20,8 +20,6 @@ benefit = "As a swift action, you can attempt the aid another action, granting y
 normal = "Aid another is a standard action."
 +++
 
-## Swift Aid (Combat)
-
 With a quick but harmless swipe, you can aid an ally's assault.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise), base attack bonus +6.\
 **Benefit:** As a swift action, you can attempt the [aid another](ref/rule/aid-another-2) action,

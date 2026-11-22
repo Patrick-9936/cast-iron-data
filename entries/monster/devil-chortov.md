@@ -33,8 +33,6 @@ a city wall. Girded in fiendishly etched armor too small for its incredible corp
 densely muscled hide spill forth in a flamered avalanche. Gnashing its many-tusked teeth and
 clutching a wicked military fork, the terrible giant rumbles as if preparing to roar or scream._
 
-**Chortov**
-
 **Challenge rating:** 9
 
 **Size:** huge

@@ -30,8 +30,6 @@ abilities = ["17", "14", "16", "3", "16", "6"]
 _Black spines run down the length of this lanky, reptilian creature's back, and short wings protrude
 from its hunched shoulders._
 
-**Papa Chupar**
-
 **Challenge rating:** 7
 
 **Male unique winged chupacabra**

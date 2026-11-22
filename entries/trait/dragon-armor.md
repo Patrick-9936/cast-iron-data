@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Xa Hoi's elite warriors are trained to deflect energy attacks.
 
 **Benefit:** Choose an energy type (acid, cold, electricity, fire, or sonic) when you acquire this

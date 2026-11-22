@@ -30,8 +30,6 @@ special_qualities = "expert trainer +4, greater tactician (2/day, 7 rounds, swif
 abilities = ["21", "10", "17", "7", "12", "12"]
 +++
 
-**Lizardfolk Champion**
-
 **Challenge rating:** 10
 
 **Lizardfolk [cavalier](ref/class/cavalier) 9**

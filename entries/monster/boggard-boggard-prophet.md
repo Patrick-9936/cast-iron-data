@@ -30,8 +30,6 @@ special_qualities = "bloodline arcana (summoned creatures gain DR 2/good), hold 
 abilities = ["20", "9", "16", "10", "9", "14"]
 +++
 
-**Boggard Prophet**
-
 **Challenge rating:** 5
 
 **Boggard [sorcerer](ref/class/sorcerer) 4**

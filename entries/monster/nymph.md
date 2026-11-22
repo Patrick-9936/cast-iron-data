@@ -31,8 +31,6 @@ abilities = ["10", "21", "18", "16", "17", "25"]
 _A delicate figure rises from the water, her long ears tapering to points above her head, her beauty
 painful in its perfection._
 
-**Nymph**
-
 **Challenge rating:** 7
 
 **aura:** blinding beauty (30 ft., DC 21)

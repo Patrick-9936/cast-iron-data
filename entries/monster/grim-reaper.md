@@ -30,8 +30,6 @@ abilities = ["29", "30", "-", "15", "23", "26"]
 
 _One bleached-bone hand of this robed, skeletal figure grasps a massive, curved scythe._
 
-**Grim Reaper**
-
 **Challenge rating:** 22
 
 **aura:** misfortune (20 ft.), [unnatural aura](ref/umr/unnatural-aura)

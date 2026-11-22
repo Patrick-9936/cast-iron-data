@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Wanshou
 
 **Flavor:** You grew up hiding in the swamps from the monstrous overlords who enslaved you and your

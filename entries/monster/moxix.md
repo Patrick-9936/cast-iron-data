@@ -30,8 +30,6 @@ abilities = ["30", "17", "32", "15", "24", "25"]
 _This strange, four-armed fiend appears to be constructed completely out of stone. Dried blood
 stains its body._
 
-**Moxix**
-
 **Challenge rating:** 20
 
 **aura:** hopedrinker (60 ft.)

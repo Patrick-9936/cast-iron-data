@@ -31,8 +31,6 @@ abilities = ["9", "13", "10", "10", "9", "8"]
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._
 
-**Kobold**
-
 **Challenge rating:** 1/4
 
 **Kobold [warrior](ref/npcclass/warrior) 1**

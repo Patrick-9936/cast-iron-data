@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Sea Urchin Venom"
 source_ids = ["pathfinder-37-souls-for-smugglers-shiv"]
 parent = "ref/monster/sea-urchin-giant-hunter-urchin"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "sea_urchin_giant_hunter_urchin|affliction:sea-urchin-venom", path = "json/monsters21.json" },
 ]

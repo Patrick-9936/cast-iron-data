@@ -29,8 +29,6 @@ abilities = ["21", "18", "-", "-", "11", "1"]
 _An inspirational song emanates from what appears to be point in thin air twelve feet off the
 ground. Stirring crescendos and moving fanfares can be heard throughout its melody._
 
-**Animate Aria**
-
 **Challenge rating:** 9
 
 **aura:** courageous inspiration (90 ft.)

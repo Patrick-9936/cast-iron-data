@@ -14,8 +14,6 @@ page = "66"
 kind = "none"
 +++
 
-**Apep**
-
 **Sub:** Devourer of the Dawn
 
 ### Details

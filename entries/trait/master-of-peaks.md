@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Wall of Heaven
 
 **Flavor:** You have made it to the summits of a number of the Wall of Heaven's peaks, and your body

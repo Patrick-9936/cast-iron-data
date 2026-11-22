@@ -31,8 +31,6 @@ abilities = ["28", "17", "29", "8", "16", "11"]
 _Scars and tattoos intersect across this glowering scorpion-bodied man, and his muscles strain
 against the leather of his armor._
 
-**Raging Sting**
-
 **Challenge rating:** 9
 
 **Girtablilu [barbarian](ref/class/barbarian) 1**

@@ -28,8 +28,6 @@ special_attacks = "discorporate"
 abilities = ["30", "17", "-", "9", "14", "21"]
 +++
 
-**Ossumental (Fire)**
-
 **Challenge rating:** 12
 
 **Initiative:** +3

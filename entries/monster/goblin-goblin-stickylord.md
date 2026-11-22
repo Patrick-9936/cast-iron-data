@@ -30,8 +30,6 @@ special_qualities = "alchemy (alchemy crafting +7, identify potions), discoverie
 abilities = ["6", "22", "13", "16", "10", "8"]
 +++
 
-**Goblin Stickylord**
-
 **Challenge rating:** 6
 
 **Goblin [alchemist](ref/class/alchemist) 7**

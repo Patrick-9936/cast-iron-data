@@ -32,8 +32,6 @@ abilities = ["3", "15", "11", "2", "14", "4"]
 _Hundreds of high-pitched squeaks fill the air as a mass of small, carnivorous bats surges forth,
 all of them hungry for blood._
 
-**Bat Swarm**
-
 **Challenge rating:** 2
 
 **Type:** animal

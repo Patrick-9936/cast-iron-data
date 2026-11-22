@@ -31,8 +31,6 @@ abilities = ["9", "20", "12", "11", "12", "16"]
 
 _This tiny black dragon-like creature has charcoal-colored scales and shadowy wings._
 
-**Shadow Drake**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

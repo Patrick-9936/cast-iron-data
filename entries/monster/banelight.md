@@ -31,8 +31,6 @@ abilities = ["12", "32", "25", "21", "22", "23"]
 _This creature has a dragonfly's body and a woman's head and arms. A glowing red vortex gathers
 between her hands._
 
-**Banelight**
-
 **Challenge rating:** 12
 
 **aura:** banelight (60 ft.)

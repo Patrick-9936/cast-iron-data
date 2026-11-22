@@ -20,8 +20,6 @@ benefit = "When you use Elemental Strike pick one of the following energy types:
 special = "A monk of the four winds receives Elemental Fist as a bonus feat at 1st level, even if he does not meet the prerequisites. A monk may attempt an Elemental Fist attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk."
 +++
 
-## Elemental Fist (Combat)
-
 You empower your strike with elemental energy\
 **Prerequisites:** Con 13, Wis 13, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), base
 attack bonus +8.\

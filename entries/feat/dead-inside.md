@@ -18,8 +18,6 @@ prerequisites = "You must have failed your saving throws against at least five d
 benefit = "When you are the target of a spell or spell-like ability with the emotion or fear descriptor, you can roll your saving throw twice and take the better result."
 +++
 
-## Dead Inside (Story)
-
 You are devoid of both hatred and joy. While many regard you as callous, you have no particular
 malice in your heart.\
 **Prerequisites:** You must have failed your saving throws against at least five different

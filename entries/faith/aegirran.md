@@ -17,8 +17,6 @@ page = "54"
 kind = "none"
 +++
 
-**Aegirran**
-
 **Sub:** The Sea Dreamer
 
 ### Details

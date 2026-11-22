@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You were exposed to an artifact or other powerful magic that infused you with the power
 of dragons.
 

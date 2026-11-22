@@ -32,8 +32,6 @@ _This ancient stone giant towers over others of his kind and has a crown of crys
 sprouting from his head. He holds a warhammer made of meteoric stone pierced by natural deposits of
 glinting metallic ore._
 
-**Great Elder Iuu**
-
 **Challenge rating:** 15
 
 **aura:** courage (20 ft.)

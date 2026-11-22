@@ -36,8 +36,6 @@ abilities = ["13", "17", "12", "3", "12", "2"]
 _An oversized, eight-legged monstrosity stares ravenously from its three beady eyes, its gaping maw
 dripping with green venom._
 
-**Shriezyx**
-
 **Challenge rating:** 4
 
 **Type:** aberration

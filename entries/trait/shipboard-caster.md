@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Riddleport
 
 **Flavor:** You feel an affinity with ships and the sea, and the rolling rhythm of the waves helps

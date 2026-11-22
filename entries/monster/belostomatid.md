@@ -31,8 +31,6 @@ abilities = ["19", "13", "16", "-", "11", "2"]
 _Six powerful legs, each ending in a hooked claw, jut from the shield-like body of this massive
 insect._
 
-**Belostomatid**
-
 **Challenge rating:** 3
 
 **aura:** [stench](ref/umr/stench) (DC 15, 3 rounds)

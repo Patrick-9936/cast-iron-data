@@ -29,8 +29,6 @@ abilities = ["30", "8", "-", "-", "1", "1"]
 _This large, adamantine sphere is carved to resemble the surface of Golarion, and burns with magical
 flame._
 
-**Gravitic Globe**
-
 **Challenge rating:** 10
 
 **aura:** magnetism (30 ft., DC 20)

@@ -34,8 +34,6 @@ abilities = ["24", "14", "25", "15", "12", "15"]
 _A massive, fire-filled maw splits the belly of this lumbering iron-skinned fiend, whose short arms
 end in razor-sharp claws._
 
-**Forgefiend (Scanderig)**
-
 **Challenge rating:** 10
 
 **Initiative:** +6

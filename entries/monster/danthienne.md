@@ -29,8 +29,6 @@ abilities = ["6", "18", "21", "13", "8", "21"]
 _This bright-eyed, doll-sized woman wears jewels and silks. She has pointed ears, four-fingered
 hands, and a mischievous grin._
 
-**Danthienne**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic neutral

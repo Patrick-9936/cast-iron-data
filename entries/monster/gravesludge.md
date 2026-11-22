@@ -30,8 +30,6 @@ abilities = ["31", "22", "24", "15", "21", "20"]
 _This filthy, shuddering mass of sludge and bones seems to have formed from a mass of muddy grave
 soil._
 
-**Gravesludge**
-
 **Challenge rating:** 12
 
 **blindsight:** 60

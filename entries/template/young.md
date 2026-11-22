@@ -14,8 +14,6 @@ page = "295"
 kind = "none"
 +++
 
-**Young**
-
 **Acquired:** present
 
 **Challenge rating:** -1

@@ -20,8 +20,6 @@ benefit = "You receive a +2 bonus on checks made to disarm a foe. This bonus sta
 normal = "Disarmed weapons and gear land at the feet of the disarmed creature."
 +++
 
-## Greater Disarm (Combat)
-
 You can knock weapons far from an enemy's grasp.\
 **Prerequisites:** [Combat Expertise](ref/feat/combat-expertise),
 [Improved Disarm](ref/feat/improved-disarm), base attack bonus +6, Int 13.\

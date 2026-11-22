@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Bubonic plague"
 source_ids = ["bestiary-4"]
 parent = "ref/monster/rat-king"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "rat_king|affliction:bubonic-plague", path = "json/monsters36.json" },
 ]

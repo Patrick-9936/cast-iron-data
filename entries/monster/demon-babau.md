@@ -29,8 +29,6 @@ abilities = ["21", "13", "20", "14", "13", "16"]
 _This emaciated figure looks like a horned human skeleton smothered within a bone-tight hide of
 slimy leather._
 
-**Babau**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

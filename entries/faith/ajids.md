@@ -17,8 +17,6 @@ page = "112"
 kind = "none"
 +++
 
-**Ajids**
-
 **Sub:** Father Flense
 
 ### Details

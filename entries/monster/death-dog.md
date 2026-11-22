@@ -30,8 +30,6 @@ abilities = ["13", "15", "13", "4", "12", "6"]
 _This black-furred, two-headed dog is as large as a horse and has midnight-black eyes. Tiny worms
 crawl on its mangy hide._
 
-**Death Dog**
-
 **Challenge rating:** 2
 
 **Initiative:** +2

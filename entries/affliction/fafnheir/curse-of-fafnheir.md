@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Curse of Fafnheir"
 source_ids = ["lands-of-the-linnorm-kings"]
 parent = "ref/monster/fafnheir"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "fafnheir|affliction:curse-of-fafnheir", path = "json/monsters_unique4.json" },
 ]

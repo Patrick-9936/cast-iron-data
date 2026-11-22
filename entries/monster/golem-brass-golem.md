@@ -33,8 +33,6 @@ abilities = ["32", "11", "-", "-", "13", "1"]
 _This towering brass statue, built to resemble an evil horned humanoid, carries a gigantic curved
 sword in its metal fists._
 
-**Brass Golem**
-
 **Challenge rating:** 14
 
 **Type:** construct

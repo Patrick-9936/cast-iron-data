@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You know a good deal about your most dire enemies.
 
 **Benefit:** You gain a +1 trait bonus on checks with the [Knowledge](ref/skill/knowledge-all) skill

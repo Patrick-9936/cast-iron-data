@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your knowledge of nature informs your fighting style, and that style gives you insight
 into related aspects of the natural world.
 

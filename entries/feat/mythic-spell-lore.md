@@ -18,8 +18,6 @@ benefit = "You can learn a number of mythic spells equal to your tier and can ex
 special = "You can select this feat multiple times. Each time you select this feat, you must select different spells."
 +++
 
-## Mythic Spell Lore (Mythic)
-
 You have learned how to unlock the power of your spells, combining them with your mythic power.\
 **Prerequisites:** Ability to cast spells.\
 **Benefit:** You can learn a number of mythic spells equal to your tier and can expend mythic power

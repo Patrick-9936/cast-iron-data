@@ -33,8 +33,6 @@ abilities = ["22", "13", "20", "8", "13", "9"]
 _This humanoid's scaly hide is dull gray. Its frame resembles that of a cave lizard, with a long
 tail and crests on its head and back._
 
-**Troglodyte Warren Guard**
-
 **Challenge rating:** 9
 
 **Troglodyte [barbarian](ref/class/barbarian) ([brutal pugilist](ref/arc-barbarian/brutal-pugilist))

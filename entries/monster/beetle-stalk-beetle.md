@@ -29,8 +29,6 @@ abilities = ["17", "13", "12", "-", "10", "1"]
 
 _This ravenous beetle is the size of a pony, and sports a pair of deadly, serrated mandibles._
 
-**Stalk Beetle**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

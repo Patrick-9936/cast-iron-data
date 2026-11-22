@@ -35,8 +35,6 @@ abilities = ["17", "13", "-", "1", "12", "13"]
 _This creature's vestments are charred black and fused together, and its flesh is a raging inferno
 surrounded by greasy black smoke._
 
-**Combusted**
-
 **Challenge rating:** 3
 
 **aura:** howl of agony (10 ft., DC 13), [stench](ref/umr/stench) (DC 13, 10 rounds)

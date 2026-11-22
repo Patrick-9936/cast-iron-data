@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Myr](ref/faith/myr)
 
 **Flavor:** Through your detailed study of your own lineage, you can better understand and honor

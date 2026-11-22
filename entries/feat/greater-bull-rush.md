@@ -20,8 +20,6 @@ benefit = "You receive a +2 bonus on checks made to bull rush a foe. This bonus 
 normal = "Creatures moved by bull rush do not provoke attacks of opportunity."
 +++
 
-## Greater Bull Rush (Combat)
-
 Your bull rush attacks throw enemies off balance.\
 **Prerequisites:** [Improved Bull Rush](ref/feat/improved-bull-rush),
 [Power Attack](ref/feat/power-attack), base attack bonus +6, Str 13.\

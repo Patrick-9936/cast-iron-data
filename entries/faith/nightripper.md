@@ -20,8 +20,6 @@ page = "38"
 kind = "none"
 +++
 
-**Nightripper**
-
 **Sub:** The Promise of Pain
 
 **Monster Link** [Nightripper](ref/monster/nightripper)

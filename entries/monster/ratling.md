@@ -33,8 +33,6 @@ abilities = ["6", "15", "13", "12", "10", "13"]
 _This rat-like creature has tiny human hands in place of its front paws, and an unnerving human face
 with a toothy mouth._
 
-**Ratling**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

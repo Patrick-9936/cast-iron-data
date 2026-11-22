@@ -31,8 +31,6 @@ abilities = ["25", "12", "26", "17", "18", "21"]
 _This breathtaking, giant-sized woman's raven hair falls to her ankles. Her skin is as pale as the
 glowing moon, and her ebon eyes deeply pensive._
 
-**Yrldak**
-
 **Challenge rating:** 10
 
 **Variant norn**

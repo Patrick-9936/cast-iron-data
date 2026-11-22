@@ -30,8 +30,6 @@ abilities = ["22", "21", "18", "5", "19", "12"]
 _Twisting vines and vibrant flowers grow from the back of this titanic, multicolored reptile. A
 sickly-sweet scent fills the swirling air around it._
 
-**Furcifer**
-
 **Challenge rating:** 13
 
 **aura:** deleriant aura (50 ft.)

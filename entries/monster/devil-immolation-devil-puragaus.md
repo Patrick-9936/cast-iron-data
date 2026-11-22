@@ -30,8 +30,6 @@ abilities = ["34", "26", "35", "24", "23", "24"]
 
 _Ash and embers encrust the smoldering humanoid frame of this imperious, dragon-winged devil._
 
-**Immolation Devil (Puragaus)**
-
 **Challenge rating:** 19
 
 **Initiative:** +8

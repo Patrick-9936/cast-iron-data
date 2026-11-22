@@ -29,8 +29,6 @@ abilities = ["19", "15", "14", "-", "12", "9"]
 _This glittering blue dragonfly is about the size of a horse and is large enough to carry off small
 farm animals or people._
 
-**Giant Dragonfly**
-
 **Challenge rating:** 4
 
 **Initiative:** +2

@@ -29,8 +29,6 @@ abilities = ["15", "13", "14", "2", "12", "13"]
 
 _This animal resembles an alpaca with voluminous, shiny wool._
 
-**Bacallia**
-
 **Challenge rating:** 1
 
 **Type:** animal

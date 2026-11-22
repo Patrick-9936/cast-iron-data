@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/improved-bull-rush", "ref/feat/throw-anything"]
 benefit = "As a standard action, you can perform the awesome throw combat maneuver. You do this by making a thrown weapon attack; if you don't have the Throw Anything feat, you must use a large, bulky, and relatively regular-shaped object with a hardness of at least 5 (such as a rock or treasure chest). If that attack hits a corporeal opponent smaller than you, the opponent takes damage and is knocked away, flying 10 feet in a straight line away from you and falling prone. If an obstacle prevents the completion of your target's move, the target and the obstacle each take 1d6 points of damage, and the target is knocked prone in a space adjacent to the obstacle."
 +++
 
-## Awesome Throw (Combat)
-
 Your ranged attacks can send smaller opponents flying.\
 **Prerequisites:** Str 25, [Throw Anything](ref/feat/throw-anything) or rock throwing,
 [Improved Bull Rush](ref/feat/improved-bull-rush), size Large or larger.\

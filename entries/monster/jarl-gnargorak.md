@@ -32,8 +32,6 @@ abilities = ["37", "24", "34", "12", "18", "18"]
 _Clad in mithral and furs and armed with a glowing sword made of ice, this towering, blue-skinned
 humanoid has a regal presence._
 
-**Jarl Gnargorak**
-
 **Challenge rating:** 25
 
 **Mythic rank:** 8

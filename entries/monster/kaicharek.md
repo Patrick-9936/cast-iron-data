@@ -32,8 +32,6 @@ abilities = ["14", "15", "16", "11", "13", "14"]
 _This grotesque, crimson worm-like creature has a circular mouth full of fangs. A pair of segmented
 tentacles sporting razor-edged ridges protrudes from the sides of its mouth._
 
-**Kaicharek**
-
 **Challenge rating:** 4
 
 **Initiative:** +2

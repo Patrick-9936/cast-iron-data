@@ -31,8 +31,6 @@ abilities = ["15", "14", "13", "6", "13", "14"]
 _An animated cluster of translucent crystals shaped disturbingly like a gemstone scorpion scuttles
 into an aggressive stance._
 
-**Crysmal**
-
 **Challenge rating:** 3
 
 **Initiative:** +2

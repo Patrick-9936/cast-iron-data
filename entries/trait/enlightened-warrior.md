@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Idyllkin
 
 **Flavor:** You have always found it easy to maintain inner peace and enlightenment that translate

@@ -14,8 +14,6 @@ page = "248"
 kind = "none"
 +++
 
-**Ghoulish Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

@@ -31,8 +31,6 @@ abilities = ["-", "13", "-", "5", "12", "12"]
 _A ghostly, skeletal figure rises up amid a whirling cyclone of tools, plates, utensils, and other
 loose objects._
 
-**Poltergeist**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

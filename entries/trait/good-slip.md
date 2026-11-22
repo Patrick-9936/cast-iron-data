@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Prerequisite:** [Halfling](ref/race/halfling)
 
 **Campaign:** Hell's Vengeance

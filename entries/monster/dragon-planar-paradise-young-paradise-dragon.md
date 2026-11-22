@@ -31,8 +31,6 @@ abilities = ["25", "12", "21", "16", "17", "16"]
 
 _This sleek dragon carries itself with regal dignity. Its eyes glow with heavenly light._
 
-**Young Paradise Dragon**
-
 **Challenge rating:** 12
 
 **Type:** dragon

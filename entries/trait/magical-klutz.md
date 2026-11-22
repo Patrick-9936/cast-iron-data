@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You were born in a place with a plethora of strangely interacting magic, such as Geb,
 the Mana Wastes, or Nex, and magic is dangerously eager to surge into action around you.
 

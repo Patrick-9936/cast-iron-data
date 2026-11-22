@@ -26,8 +26,6 @@ special_qualities = "weak flier"
 abilities = ["3", "15", "10", "2", "12", "7"]
 +++
 
-**Archaeopteryx**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

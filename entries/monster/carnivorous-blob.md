@@ -30,8 +30,6 @@ abilities = ["36", "11", "24", "-", "1", "1"]
 _Rolling and twitching like a massive wad of translucent ooze, this crimson blob reaches out
 amorphous pseudopods in all directions._
 
-**Carnivorous Blob**
-
 **Challenge rating:** 13
 
 **blindsight:** 60

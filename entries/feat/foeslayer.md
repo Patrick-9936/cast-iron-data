@@ -21,8 +21,6 @@ prerequisites = "You must have been defeated and robbed of at least half your po
 benefit = "The save DCs for any of your spells or abilities increase by 1 when used against the chosen group, and you receive a +1 dodge bonus to AC against their attacks."
 +++
 
-## Foeslayer (Story)
-
 Your feud with your enemies can be quenched only with blood.\
 **Prerequisites:** You must have been defeated and robbed of at least half your possessions by a
 particular group of humanoids or monstrous humanoids, or have the An Eye for an Eye (ranger), Hated

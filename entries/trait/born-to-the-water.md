@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Ijo
 
 **Flavor:** You were born on the shore, and you easily live on and under the water.

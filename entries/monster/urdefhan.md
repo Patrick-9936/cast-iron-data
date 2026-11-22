@@ -38,8 +38,6 @@ abilities = ["19", "12", "17", "14", "13", "14"]
 _This fanged humanoid has hideously transparent skin, revealing the vivid colors of internal organs
 and ivory bones inside its body._
 
-**Urdefhan**
-
 **Challenge rating:** 3
 
 **Initiative:** +1

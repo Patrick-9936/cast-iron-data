@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Dranngvit](ref/faith/dranngvit)
 
 **Flavor:** Once wronged, your vengeance can be swift and brutal.

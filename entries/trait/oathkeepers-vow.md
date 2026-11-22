@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Kols](ref/faith/kols)
 
 **Flavor:** The clergy of Kols trained you to make unbreakable vows.

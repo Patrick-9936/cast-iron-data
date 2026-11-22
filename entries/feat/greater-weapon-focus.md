@@ -20,8 +20,6 @@ benefit = "You gain a +1 bonus on attack rolls you make using the selected weapo
 special = "You can gain Greater Weapon Focus multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon."
 +++
 
-## Greater Weapon Focus (Combat)
-
 Choose one type of weapon (including unarmed strike or grapple) for which you have already selected
 Weapon Focus. You are a master at your chosen weapon.\
 **Prerequisites:** Proficiency with selected weapon, [Weapon Focus](ref/feat/weapon-focus) with

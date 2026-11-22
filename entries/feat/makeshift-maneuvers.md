@@ -23,8 +23,6 @@ prerequisite_feats = ["ref/feat/catch-off-guard", "ref/feat/throw-anything"]
 benefit = "When you wield an improvised weapon, it gains the disarm and trip weapon properties."
 +++
 
-## Makeshift Maneuvers (Combat)
-
 Your skill with improvised weapons allows you to use them to hamper your opponents.\
 **Prerequisites:** [Catch Off-Guard](ref/feat/catch-off-guard) or
 [Throw Anything](ref/feat/throw-anything), base attack bonus +1.\

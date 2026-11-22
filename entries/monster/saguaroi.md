@@ -31,8 +31,6 @@ abilities = ["20", "18", "18", "7", "15", "11"]
 _This humanoid plant creature has the prickly hide of a cactus, and smaller cactuses seemingly
 sprout from its flesh._
 
-**Saguaroi**
-
 **Challenge rating:** 5
 
 **Initiative:** +8

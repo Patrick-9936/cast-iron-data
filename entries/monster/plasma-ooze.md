@@ -31,8 +31,6 @@ abilities = ["36", "11", "24", "-", "1", "1"]
 _This amorphous blob of violet energy ripples like a globe of floating liquid. It periodically
 lashes out with tendrils of blue light._
 
-**Plasma Ooze**
-
 **Challenge rating:** 16
 
 **aura:** magnetic pulse (30 ft., DC 27)

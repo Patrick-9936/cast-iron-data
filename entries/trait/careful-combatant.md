@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have a strong sense of self-preservation, believing it is more important to safely
 extract yourself from a fight that has turned hopeless than to stubbornly stand your ground and risk
 death - for when you're dead, you can't protect the innocent.

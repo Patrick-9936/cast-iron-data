@@ -32,8 +32,6 @@ abilities = ["24", "17", "21", "16", "18", "21"]
 _The glossy alabaster coat of this noble horse ripples with muscles, while its hooves shimmer with
 pale blue energy._
 
-**Dragon Horse**
-
 **Challenge rating:** 9
 
 **Initiative:** +7

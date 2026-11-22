@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Lorthact**
-
 **Sub:** The Unraveler
 
 **Monster Link** [Lorthact](ref/monster/lorthact)

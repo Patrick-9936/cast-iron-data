@@ -30,8 +30,6 @@ abilities = ["14", "13", "14", "1", "12", "5"]
 _This four-legged animal with a long-horned, bovine head looks like a cross between a horse and a
 long-haired yak._
 
-**Yzobu**
-
 **Challenge rating:** 1
 
 **Type:** animal

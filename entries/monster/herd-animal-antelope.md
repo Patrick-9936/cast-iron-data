@@ -28,8 +28,6 @@ abilities = ["10", "17", "14", "2", "13", "7"]
 _This graceful animal has long slender legs and a pair of sharp, sturdy horns arching back from its
 head._
 
-**Antelope**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

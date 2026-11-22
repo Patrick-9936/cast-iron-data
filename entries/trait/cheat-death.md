@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Besmara](ref/faith/besmara)
 
 **Flavor:** Even Besmara's most faithful worshipers usually call upon her only in times of greatest

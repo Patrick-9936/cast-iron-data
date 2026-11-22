@@ -29,8 +29,6 @@ abilities = ["25", "14", "17", "2", "13", "10"]
 _This quadrupedal dinosaur has two rows of dorsal spikes, a spiked tail, and two more spikes
 projecting from its shoulders._
 
-**Kentrosaurus**
-
 **Challenge rating:** 5
 
 **Type:** animal

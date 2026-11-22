@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/bonded-mind", "ref/feat/share-spells"]
 benefit = "Whenever you are in contact with an ally who has the Bonded Mind feat and you cast a touch spell, you can designate the ally as the \"toucher,\" as per the deliver touch spells familiar ability."
 +++
 
-## Special Delivery (Teamwork)
-
 Your partner can carry your spells to their targets.\
 **Prerequisites:** [Bonded Mind](ref/feat/bonded-mind), [Share Spells](ref/feat/share-spells),
 ability to deliver spells through an animal companion, eidolon, familiar, or phantom, caster level

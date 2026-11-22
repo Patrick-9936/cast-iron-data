@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Torag](ref/faith/torag)
 
 **Flavor:** You have an innate sense of what is right and wrong in the works you craft, based on

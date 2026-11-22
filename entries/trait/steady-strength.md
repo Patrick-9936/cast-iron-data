@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Trudd](ref/faith/trudd)
 
 **Flavor:** Your strength training conditioned you to wearing heavy armor.

@@ -34,8 +34,6 @@ abilities = ["20", "23", "20", "11", "17", "18"]
 _Slender spines and brightly colored frills stretch back from the human-like face of this massive
 aquatic snake._
 
-**Water Naga**
-
 **Challenge rating:** 7
 
 **Type:** aberration

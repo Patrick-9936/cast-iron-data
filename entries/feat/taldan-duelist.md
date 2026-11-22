@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/exotic-weapon-proficiency", "ref/feat/shield-pro
 benefit = "When fighting with the falcata and buckler, your shield bonus to AC increases by +1 and you gain a +2 bonus on Acrobatics checks."
 +++
 
-## Taldan Duelist (Combat)
-
 You trained at one of Taldor's elite fighting schools and are skilled at rondelero, the art of
 fighting with the falcata and buckler.\
 **Prerequisites:** Dex 13, [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency)

@@ -30,8 +30,6 @@ abilities = ["7", "16", "13", "14", "15", "16"]
 _This small humanoid has pointed ears, green eyes, and a wicked grin. He carries a bottle in one
 hand and a club in the other._
 
-**Leprechaun**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

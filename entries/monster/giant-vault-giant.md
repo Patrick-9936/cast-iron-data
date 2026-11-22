@@ -33,8 +33,6 @@ abilities = ["36", "15", "29", "20", "23", "16"]
 _This saurian giant's body is covered in pale aquamarine scales, and a dark, rigid crest runs from
 its head to the tip of its thick tail. Its blue eyes give off a soft glow._
 
-**Vault Giant**
-
 **Challenge rating:** 17
 
 **Size:** gargantuan

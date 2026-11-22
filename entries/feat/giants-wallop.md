@@ -20,8 +20,6 @@ benefit = "If you hit a creature at least one size category smaller than you wit
 special = "This effect stacks with the effect of Giant's Crush."
 +++
 
-## Giant's Wallop (Combat)
-
 When you strike, you knock the sense out of smaller foes.\
 **Prerequisites:** Str 13, [Power Attack](ref/feat/power-attack),
 [Vital Strike](ref/feat/vital-strike), base attack bonus +6, giant subtype.\

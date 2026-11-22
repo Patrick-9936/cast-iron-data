@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Benefit:** Animals do not willingly approach within 30 feet of you, unless you or the animal's
 master succeeds at a DC 20 [Handle Animal](ref/skill/handle-animal), [Ride](ref/skill/ride), or
 [wild empathy](ref/ability/wild-empathy) check. Animal companions, familiars, and mounts granted by

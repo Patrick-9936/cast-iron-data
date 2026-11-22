@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You've spent years aboard ships traveling the lucrative Obari Crossing, transporting
 Garundi and Vudrani goods.
 

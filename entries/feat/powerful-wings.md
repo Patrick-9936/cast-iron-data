@@ -20,8 +20,6 @@ benefit = "You gain two wing attacks. These are secondary natural attacks that e
 special = "While this feat is primarily taken by strix, other creatures with natural wings can also take it at the GM's discretion."
 +++
 
-## Powerful Wings (Combat)
-
 You have a large wingspan for a member of your race, and can use these appendages to batter your
 foes.\
 **Prerequisites:** Str 13, [Skill Focus](ref/feat/skill-focus) (Fly), base attack bonus +8.\

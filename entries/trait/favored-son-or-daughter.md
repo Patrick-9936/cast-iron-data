@@ -12,8 +12,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Flavor:** You were born and raised in a small town or its surrounding farms. You know many of the
 region's secrets, and the locals already know who you are. You are well liked in town, and you'll
 have lots of friends in the region, but the town's tougher side sees you as a snitch or a pansy.

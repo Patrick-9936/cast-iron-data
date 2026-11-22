@@ -30,8 +30,6 @@ abilities = ["13", "17", "14", "8", "8", "14"]
 
 _This gaunt man appears drained of color, like a person viewed at twilight or in a dark alley._
 
-**Fetchling**
-
 **Challenge rating:** 1/2
 
 **Fetchling [rogue](ref/class/rogue) 1**

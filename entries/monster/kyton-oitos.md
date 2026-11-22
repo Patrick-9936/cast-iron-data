@@ -30,8 +30,6 @@ abilities = ["19", "20", "23", "19", "20", "20"]
 _The golden bones of this magnificent skeleton are clad in monstrous face-skins sewn into a cape and
 skirt adorned with gold pendants._
 
-**Oitos**
-
 **Challenge rating:** 11
 
 **Initiative:** +9

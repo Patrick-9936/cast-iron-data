@@ -29,8 +29,6 @@ abilities = ["16", "15", "14", "2", "15", "7"]
 
 _This large bird has brown and gray feathers and a vicious hooked beak._
 
-**Impaler Shrike**
-
 **Challenge rating:** 3
 
 **Type:** animal

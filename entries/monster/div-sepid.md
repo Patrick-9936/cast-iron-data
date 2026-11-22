@@ -33,8 +33,6 @@ abilities = ["25", "20", "27", "19", "19", "22"]
 
 _Twice the height of a human, this horned monstrous warrior wields a massive blade._
 
-**Sepid**
-
 **Challenge rating:** 14
 
 **Initiative:** +9

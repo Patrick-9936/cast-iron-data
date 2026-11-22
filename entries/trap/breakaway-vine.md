@@ -14,8 +14,6 @@ page = "172"
 kind = "none"
 +++
 
-**Breakaway Vine**
-
 **Type:** Mechanical
 
 **Challenge rating:** 1

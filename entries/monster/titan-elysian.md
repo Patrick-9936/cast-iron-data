@@ -30,8 +30,6 @@ abilities = ["45", "16", "39", "21", "28", "24"]
 _This titanic humanoid wears gilt-edged armor of ancient make and carries an immense hammer made of
 gleaming metal._
 
-**Elysian**
-
 **Challenge rating:** 21
 
 **Alignment:** Chaotic good

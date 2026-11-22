@@ -32,8 +32,6 @@ abilities = ["33", "21", "32", "17", "22", "23"]
 _This fiendish figure appears to be shaped from pure flame with a feline face. Three wicked tongues
 dart from the creature's mouth._
 
-**Zelishkar of the Bitter Flame**
-
 **Challenge rating:** 21
 
 **aura:** unholy aura

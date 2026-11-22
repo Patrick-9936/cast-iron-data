@@ -31,8 +31,6 @@ abilities = ["27", "19", "-", "14", "16", "21"]
 _This blood-drenched humanoid skeleton stares with hate-filled eyes as its bones drip with streams
 of fresh gore._
 
-**Bloody Bones**
-
 **Challenge rating:** 10
 
 **Initiative:** +8

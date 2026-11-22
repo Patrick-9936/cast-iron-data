@@ -19,20 +19,8 @@ prerequisites = "Warrior Priest."
 benefit = "You gain a bonus equal to half your tier both on initiative checks and on concentration checks to cast a spell or use a spell-like ability when casting defensively or while grappled. These bonuses stack with the bonuses from Warrior Priest."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your faith speeds you in battle and further strengthens your mind and confidence._
-
-## Prerequisites {#prerequisites}
-
-_Warrior Priest._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain a bonus equal to half your tier both on initiative checks and on concentration checks to
-cast a spell or use a [spell-like ability](ref/umr/spell-like-abilities) when casting defensively or
-while grappled. These bonuses stack with the bonuses from Warrior Priest.
-:::
+Your faith speeds you in battle and further strengthens your mind and confidence.\
+**Prerequisites:** Warrior Priest.\
+**Benefit:** You gain a bonus equal to half your tier both on initiative checks and on concentration
+checks to cast a spell or use a [spell-like ability](ref/umr/spell-like-abilities) when casting
+defensively or while grappled. These bonuses stack with the bonuses from Warrior Priest.

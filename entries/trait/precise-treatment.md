@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You treat others with a clear and calculating intellect.
 
 **Benefit:** You gain a +1 trait bonus on all [Heal](ref/skill/heal) checks, and you may use your

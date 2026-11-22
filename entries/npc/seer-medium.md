@@ -15,8 +15,6 @@ kind = "creature"
 cr = "4"
 +++
 
-**Seer (Medium)**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

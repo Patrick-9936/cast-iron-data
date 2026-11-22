@@ -18,8 +18,6 @@ prerequisites = "Be a member of House Denzarni, or have The Omen birth circumsta
 benefit = "You add 1 day to the time you can go without food or water before making Constitution checks and you add +4 to Constitution checks to stave off the effects of starvation and thirst."
 +++
 
-## Our Bounty, Our Glory (Story)
-
 You can ignore privation and channel your emotions to prepare for a later bounty.\
 **Prerequisites:** Be a member of House Denzarni, or have The Omen
 [birth circumstance background](ref/rule/birth-circumstances-and-more), or the Bloodthirsty

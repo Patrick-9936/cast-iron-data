@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Through either perfect timing or the determination of your action, the sound of your
 firearm going off sets your enemies on edge.
 

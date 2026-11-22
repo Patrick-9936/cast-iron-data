@@ -29,8 +29,6 @@ special_qualities = "witch's familiar (bat)"
 abilities = ["19", "14", "27", "16", "11", "8"]
 +++
 
-**Troll Elder Matron**
-
 **Challenge rating:** 10
 
 **Troll [witch](ref/class/witch) 10**

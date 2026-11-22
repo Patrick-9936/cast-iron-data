@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** All your life, the sky has beckoned to you, and you have dreamed of reveling in the
 freedom and bliss of flight.
 

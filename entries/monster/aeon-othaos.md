@@ -31,8 +31,6 @@ abilities = ["18", "16", "19", "11", "17", "14"]
 _Four limbs - two black and two white - reach out from a swirling vortex of pulsing light and deep
 darkness._
 
-**Othaos**
-
 **Challenge rating:** 5
 
 **Initiative:** +7

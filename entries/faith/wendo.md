@@ -14,8 +14,6 @@ page = "14"
 kind = "none"
 +++
 
-**Wendo**
-
 **Sub:** Juju: A Ritualistic Tradition of Spirit Worship
 
 ### Details

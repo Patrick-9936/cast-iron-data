@@ -30,8 +30,6 @@ special_qualities = "favored terrain (forest +2), hunter's bond (companions), tr
 abilities = ["14", "18", "13", "10", "12", "6"]
 +++
 
-**Grizzled Rider**
-
 **Challenge rating:** 5
 
 **Goblin [ranger](ref/class/ranger) 6**

@@ -20,8 +20,6 @@ benefit = "You can trip a creature of the giant subtype no matter its size. Whil
 normal = "You can only trip opponents who are one size category larger than you."
 +++
 
-## Earth Child Binder (Combat)
-
 Even the greatest giants fear your technique.\
 **Prerequisites:** Wis 13, [dwarf](ref/race/dwarf) or [gnome](ref/race/gnome), defensive training
 racial trait, [Earth Child Style](ref/feat/earth-child-style),

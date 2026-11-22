@@ -31,8 +31,6 @@ abilities = ["1", "19", "8", "-", "10", "2"]
 _A writhing mass of legs and poisonous pincers swarms across the ground in a deadly, undulating
 wave._
 
-**Centipede Swarm**
-
 **Challenge rating:** 4
 
 **Size:** diminutive

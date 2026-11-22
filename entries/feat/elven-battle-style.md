@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/elven-battle-training", "ref/feat/weapon-finesse
 benefit = "While wielding a longsword, a rapier, or any melee weapon that has \"elven\" in its name, combat maneuver checks attempted with that weapon as attacks of opportunity don't themselves provoke attacks of opportunity."
 +++
 
-## Elven Battle Style (Combat, Style)
-
 You wield traditional elven weapons with grace.\
 **Prerequisites:** [Elven Battle Training](ref/feat/elven-battle-training),
 [Weapon Finesse](ref/feat/weapon-finesse), base attack bonus +1, weapon familiarity racial trait.\

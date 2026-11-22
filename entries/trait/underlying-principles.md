@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Nethys](ref/faith/nethys)
 
 **Flavor:** You've spent a large amount of time around magical items, and understand the

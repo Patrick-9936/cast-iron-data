@@ -29,8 +29,6 @@ abilities = ["20", "12", "-", "6", "15", "15"]
 _Clad in the shreds of its original garments, this withered and leathery corpse has dark, empty eye
 sockets._
 
-**Swamp Mummy**
-
 **Challenge rating:** 4
 
 **aura:** drowning (30 ft., DC 15), [unnatural aura](ref/umr/unnatural-aura) (30 ft.)

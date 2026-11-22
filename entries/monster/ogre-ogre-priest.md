@@ -31,8 +31,6 @@ abilities = ["25", "6", "19", "8", "12", "7"]
 _This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy face features a wide
 mouth with ill-fitting teeth._
 
-**Ogre Priest**
-
 **Challenge rating:** 4
 
 **Ogre [cleric](ref/class/cleric) 2**

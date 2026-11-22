@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Yaezhing**
-
 **Sub:** Minister of Blood
 
 ### Details

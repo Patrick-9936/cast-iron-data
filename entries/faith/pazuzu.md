@@ -20,8 +20,6 @@ page = "23"
 kind = "none"
 +++
 
-**Pazuzu**
-
 **Sub:** King of the Wind Demons
 
 **Monster Link** [Pazuzu](ref/monster/demon-lord-pazuzu)

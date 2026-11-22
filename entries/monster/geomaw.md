@@ -31,8 +31,6 @@ abilities = ["24", "7", "20", "6", "11", "13"]
 _This worm-like creature's outer body consists of stone plates, and a cavernous maw contains a
 sparkling mass of red crystals._
 
-**Geomaw**
-
 **Challenge rating:** 7
 
 **Type:** aberration

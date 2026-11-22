@@ -31,8 +31,6 @@ abilities = ["27", "41", "40", "28", "31", "40"]
 
 _This graceful humanoid woman wears a flowing gown of sparkling starlight and a circlet of moss._
 
-**Ashava**
-
 **Challenge rating:** 28
 
 **aura:** primal aura (30 ft.)

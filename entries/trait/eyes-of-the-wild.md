@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Green Faith](ref/faith/green-faith)
 
 **Flavor:** Having spent much time immersed in the wilderness, you're now attuned to its ways.

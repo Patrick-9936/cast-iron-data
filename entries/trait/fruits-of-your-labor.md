@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Jaidi](ref/faith/jaidi)
 
 **Flavor:** You take pride in providing for your community.

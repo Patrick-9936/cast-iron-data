@@ -14,8 +14,6 @@ page = "29"
 kind = "none"
 +++
 
-**Terror Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +0

@@ -17,8 +17,6 @@ page = "10"
 kind = "none"
 +++
 
-**Green Faith**
-
 **Sub:** The Old Faith
 
 ### Details

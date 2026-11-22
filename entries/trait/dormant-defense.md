@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your body never lets down its defenses, even when you rest.
 
 **Benefit:** The DC for [Perception](ref/skill/perception) checks you attempt while asleep increases

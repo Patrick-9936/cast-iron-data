@@ -32,8 +32,6 @@ _The plume of this red and yellow bird is so vibrant as to glow. Each movement s
 light and color down its feathers that flickers like flames. The air around the small creature
 shimmers with heat._
 
-**Sun Falcon**
-
 **Challenge rating:** 4
 
 **aura:** radiance (10 ft., DC 15)

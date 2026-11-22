@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Curse of Barkflesh"
 source_ids = ["heart-of-the-jungle"]
 parent = "ref/monster/tobongo-mwangi-treant"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "tobongo_mwangi_treant|affliction:curse-of-barkflesh", path = "json/monsters23.json" },
 ]

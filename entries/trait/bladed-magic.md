@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You have an innate talent for using magical weaponry and those weapons capable of
 becoming magical.
 

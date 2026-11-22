@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Sylph](ref/race/sylph)
 
 **Flavor:** You always seem to be chased by drafts of moving air, and know exactly the right moment

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** When someone pushes you, you push back.
 
 **Benefit:** Whenever a creature fails an [Intimidate](ref/skill/intimidate) check against you, you

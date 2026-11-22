@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Sylph](ref/race/sylph)
 
 **Flavor:** You grew up amid powerful storms and mimicked the rolling thunder with your voice.

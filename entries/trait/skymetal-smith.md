@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Iron Gods
 
 **Flavor:** The fires atop Torch Hill have long been a boon to smiths and metalworkers, and your

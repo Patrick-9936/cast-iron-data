@@ -13,8 +13,6 @@ kind = "trait"
 category = "Family"
 +++
 
-**Type:** Family
-
 **Benefit:** Select one racial, inherited template (such as
 [half-dragon](ref/template/half-dragon)), or bloodline ability you can currently use at least three
 times each day. Once per day when you are within 60 feet of another character with this family trait

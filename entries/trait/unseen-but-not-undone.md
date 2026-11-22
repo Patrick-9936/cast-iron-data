@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Without a single gesture, you can unleash a bloodline spell.
 
 **Benefit:** Once per day, you can cast a bloodline spell as if you had the

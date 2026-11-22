@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You were touched by terrible horrors that live in the darkness just outside the human
 sphere, such as shadow-beasts or aberrations linked to the Dark Tapestry, and feel your life-force
 ebb away ever so slightly whenever you return to the shadows.

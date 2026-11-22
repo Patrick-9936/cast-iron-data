@@ -31,8 +31,6 @@ abilities = ["15", "17", "18", "18", "7", "14"]
 _A scorpion's claw and twisted goat legs, all stitched into place with ragged black thread, replace
 three of this wild-haired man's limbs._
 
-**White-Eyed Torturer**
-
 **Challenge rating:** 12
 
 **Derro [alchemist](ref/class/alchemist) ([vivisectionist](ref/arc-alchemist/vivisectionist)) 11**

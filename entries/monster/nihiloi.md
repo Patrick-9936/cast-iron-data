@@ -33,8 +33,6 @@ Inky skin covers the creature, and ebon claws curve long and thin from the tips 
 Numerous tendrils of wispy shadow hold the creature aloft while others rise above its shoulders in
 strange, wriggling wings._
 
-**Nihiloi**
-
 **Challenge rating:** 11
 
 **aura:** tendrils

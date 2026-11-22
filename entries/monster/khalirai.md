@@ -30,8 +30,6 @@ abilities = ["8", "24", "18", "18", "20", "30"]
 
 _This slender, seductive woman has bone-white skin and an otherworldly beauty._
 
-**Khalirai, the Ivory Queen**
-
 **Challenge rating:** 15
 
 **Nymph [oracle](ref/class/oracle) 8**

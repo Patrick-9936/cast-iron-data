@@ -29,8 +29,6 @@ abilities = ["15", "10", "16", "2", "11", "9"]
 _Portions of this three-stalked fungoid monster's body seem to fade in and out of sight. A large maw
 gapes along its entire front._
 
-**Phantom Fungus**
-
 **Challenge rating:** 3
 
 **blindsight:** 30

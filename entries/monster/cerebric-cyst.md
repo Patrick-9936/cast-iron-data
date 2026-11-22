@@ -30,8 +30,6 @@ abilities = ["4", "19", "18", "15", "22", "19"]
 _This floating, purple brain has occult sigils glowing on its surface and tentacles made of
 ectoplasm._
 
-**Cerebric Cyst**
-
 **Challenge rating:** 7
 
 **aura:** brain static (30 ft.), [mental static](ref/umr/mental-static-aura) (30 ft., DC 19)

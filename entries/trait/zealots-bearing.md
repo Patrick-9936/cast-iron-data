@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your fiery passion for your faith or philosophy is obvious to everyone around you. Those
 who share your convictions automatically find themselves wanting to defer to your zealous authority,
 making you a natural leader of your faith. Unfortunately, your scorn for those who haven't yet seen

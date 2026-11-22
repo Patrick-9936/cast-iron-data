@@ -14,8 +14,6 @@ page = "294"
 kind = "none"
 +++
 
-**Celestial**
-
 **Acquired:** present
 
 **Challenge rating:** +0 or +1

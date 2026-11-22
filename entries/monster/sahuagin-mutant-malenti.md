@@ -30,8 +30,6 @@ abilities = ["14", "17", "14", "14", "13", "13"]
 
 _A predatory gleam glints in the eyes of this stern-looking aquatic elf._
 
-**Malenti**
-
 **Challenge rating:** 2
 
 **blindsense:** 30

@@ -17,8 +17,6 @@ page = "115"
 kind = "none"
 +++
 
-**Tresmalvos**
-
 **Sub:** The Cistern Queen
 
 ### Details

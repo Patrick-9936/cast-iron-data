@@ -25,8 +25,6 @@ melee = "2 claws +4 (1d2-4), bite +4 (1d3-4)"
 abilities = ["3", "15", "8", "2", "12", "7"]
 +++
 
-**Cat**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

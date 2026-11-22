@@ -31,8 +31,6 @@ abilities = ["15", "7", "12", "2", "14", "7"]
 _A carved pumpkin sits atop a writhing mass of thick ropey vines. Sinister flames dance within its
 leering, crudely carved face._
 
-**Jack-o'-Lantern**
-
 **Challenge rating:** 1
 
 **aura:** fear (20 ft., DC 13)

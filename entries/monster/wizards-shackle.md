@@ -31,8 +31,6 @@ abilities = ["4", "11", "11", "12", "13", "2"]
 
 _This eel-like creature has a thick, greasy body and a large, circular mouth full of tiny teeth._
 
-**Wizard's Shackle**
-
 **Challenge rating:** 1/2
 
 **Type:** aberration

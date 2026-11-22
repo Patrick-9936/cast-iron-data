@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Besmara](ref/faith/besmara)
 
 **Flavor:** Besmara sometimes answers your call.

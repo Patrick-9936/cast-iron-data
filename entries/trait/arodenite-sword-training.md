@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your family has passed down training in [Aroden's](ref/faith/aroden) favored weapon,
 even though the god no longer answers their prayers.
 

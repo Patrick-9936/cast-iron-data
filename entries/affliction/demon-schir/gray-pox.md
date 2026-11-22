@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Gray Pox"
 source_ids = ["bestiary-3"]
 parent = "ref/monster/demon-schir"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "demon_schir|affliction:gray-pox", path = "json/monsters29.json" },
 ]

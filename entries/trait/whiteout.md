@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Undine](ref/race/undine)
 
 **Flavor:** When the air is full of water, your elemental blood allows you to blend with your

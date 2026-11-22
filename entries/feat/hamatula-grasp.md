@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/hamatula-strike", "ref/feat/improved-grapple"]
 benefit = "When attacking an impaled opponent with the weapon that impales them, you only suffer a -2 penalty to your grapple check. If the check succeeds, you deal an extra 1d6 damage."
 +++
 
-## Hamatula Grasp (Combat)
-
 You deal terrible damage to impaled foes.\
 **Prerequisites:** [Hamatula Strike](ref/feat/hamatula-strike),
 [Improved Grapple](ref/feat/improved-grapple), Strength 13, base attack bonus +9.\

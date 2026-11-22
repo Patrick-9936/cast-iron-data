@@ -20,8 +20,6 @@ benefit = "While using this style, you can make melee attacks with the chosen we
 special = "In addition to the chosen weapon, a character with this feat and the weapon training (bows, crossbows, or firearms) class feature can use Empty Quiver Style with any bow, crossbow, or firearm, respectively."
 +++
 
-## Empty Quiver Style (Combat, Style)
-
 You can fight in melee with your bow, crossbow, or firearm.\
 **Prerequisites:** [Weapon Focus](ref/feat/weapon-focus) with the chosen weapon.\
 **Benefit:** While using this style, you can make melee attacks with the chosen weapon as if it were

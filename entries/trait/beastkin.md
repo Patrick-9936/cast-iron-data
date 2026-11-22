@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Benefit:** Select one specific type of animal (such as wolves or apes). You were raised from
 infancy by an animal or pack of animals of that type. You learned their ways and have more in common
 with your beastly kin than members of any humanoid race.

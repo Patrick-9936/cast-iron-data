@@ -32,8 +32,6 @@ abilities = ["26", "27", "28", "25", "21", "24"]
 _This strangely unnerving entity looks like a thin, graceful human, save for its insectile features
 and shimmering gossamer wings._
 
-**Irii**
-
 **Challenge rating:** 19
 
 **Alignment:** LN or CN

@@ -19,8 +19,6 @@ benefit = "When a creature hits you with a melee attack and attempts to use the 
 normal = "Creatures using the grab ability does not provoke attacks of opportunity."
 +++
 
-## Resisting Grappler (Combat)
-
 You are especially adept at fighting off the grabbing appendages of aberrations and other tentacled
 horrors.\
 **Prerequisites:** Dex 13.\

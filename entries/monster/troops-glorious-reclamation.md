@@ -30,8 +30,6 @@ abilities = ["28", "13", "23", "11", "12", "16"]
 _The white-and-gold tabards of this tight formation of armored soldiers are spotless, and their
 swords and armor are polished to a mirror-bright sheen._
 
-**Glorious Reclamation**
-
 **Challenge rating:** 14
 
 **Type:** humanoid

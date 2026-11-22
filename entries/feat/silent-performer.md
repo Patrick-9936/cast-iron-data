@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/extra-performance", "ref/feat/master-performer"]
 benefit = "You can use your audible-component bardic performance as visual-component bardic performances. Any bardic ability used in this manner expends 4 times as many bardic performance rounds as normal."
 +++
 
-## Silent Performer (Faction)
-
 You can use any bardic performance ability without making a sound.\
 **Prerequisites:** Bardic performance class feature,
 [Extra Performance](ref/feat/extra-performance), [Master Performer](ref/feat/master-performer),

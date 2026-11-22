@@ -24,8 +24,6 @@ benefit = "While using Diabolic Style, the first time each round that you succes
 special = "A monk of at least 14th level with this feat can select Greater Vital Strike as a monk bonus feat."
 +++
 
-## Diabolic Judgement (Combat)
-
 You punish your foes for every opportunity they present.\
 **Prerequisites:** [Combat Reflexes](ref/feat/combat-reflexes);
 [Diabolic Humiliation](ref/feat/diabolic-humiliation); [Diabolic Style](ref/feat/diabolic-style);

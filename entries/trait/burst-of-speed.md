@@ -13,8 +13,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a Dort charger as a mount
 
 **Benefit:** Three times per day, while riding a [Dort charger](ref/eq-misc/horse) and making a

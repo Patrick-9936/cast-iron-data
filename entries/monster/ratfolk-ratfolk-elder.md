@@ -33,8 +33,6 @@ abilities = ["10", "10", "14", "12", "18", "14"]
 _This small, rat-like humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery
 tail._
 
-**Ratfolk Elder**
-
 **Challenge rating:** 8
 
 **Ratfolk [cleric](ref/class/cleric) of [Abadar](ref/faith/abadar) 9**

@@ -30,8 +30,6 @@ abilities = ["10", "14", "13", "6", "17", "14"]
 _This dragon-like humanoid brandishes its spear, spreads its wings, and shows its fangs in an angry
 snarl._
 
-**Wyvaran**
-
 **Challenge rating:** 1/2
 
 **Female wyvaran [inquisitor](ref/class/inquisitor) 1**

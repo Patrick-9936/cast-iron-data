@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Magrim](ref/faith/magrim)
 
 **Flavor:** Your understanding of Magrim's teachings makes you a perfect conduit for mystical

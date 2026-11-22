@@ -19,8 +19,6 @@ benefit = "You can wield Medium firearms without taking the penalty for an inapp
 normal = "You take a -2 penalty when using an inappropriately sized weapon."
 +++
 
-## Goblin Gunslinger (Combat)
-
 You have learned how to fire the big guns.\
 **Prerequisites:** [Goblin](ref/race/goblin).\
 **Benefit:** You can wield Medium firearms without taking the penalty for an

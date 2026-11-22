@@ -28,8 +28,6 @@ abilities = ["20", "13", "17", "15", "14", "14"]
 
 _A jackal's head draped in a tattered headdress extends from a winged, leonine body._
 
-**Cynosphinx**
-
 **Challenge rating:** 6
 
 **Initiative:** +1

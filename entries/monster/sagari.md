@@ -31,8 +31,6 @@ abilities = ["8", "15", "17", "6", "11", "14"]
 _This unsettling creature has the head of a fanged, green-eyed horse and a body that is little more
 than a writhing tentacle._
 
-**Sagari**
-
 **Challenge rating:** 1/2
 
 **Type:** aberration

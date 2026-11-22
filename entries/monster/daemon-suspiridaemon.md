@@ -34,8 +34,6 @@ abilities = ["21", "17", "18", "14", "15", "16"]
 _This tall, three-legged, vulture-headed fiend has a grotesquely long, suckered tongue and gangly
 arms that end in claws._
 
-**Suspiridaemon**
-
 **Challenge rating:** 7
 
 **aura:** thin air (30 ft.)

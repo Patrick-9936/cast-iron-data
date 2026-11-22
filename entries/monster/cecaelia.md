@@ -31,8 +31,6 @@ abilities = ["16", "19", "14", "9", "12", "11"]
 
 _In place of legs, this handsome humanoid sports an octopus's eight writhing tentacles._
 
-**Cecaelia**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic neutral

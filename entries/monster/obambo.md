@@ -34,8 +34,6 @@ skin caked with dirt and moss, and long white hair tangled with sticks. Sharp te
 cackling mouth, and its eyes are tiny but bright and piercing. Jungle vines weave through its
 ghostly body, which appears stuffed with decaying leaves and other plant matter._
 
-**Obambo**
-
 **Challenge rating:** 13
 
 **Initiative:** +8

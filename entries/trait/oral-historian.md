@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Shoanti
 
 **Flavor:** You learned numerous mnemonic devices to more easily recall information imparted by your

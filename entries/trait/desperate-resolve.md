@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You are adept at casting spells even in the most precarious situations.
 
 **Benefit:** You gain a +1 trait bonus on [concentration](ref/rule/concentration) checks. This trait

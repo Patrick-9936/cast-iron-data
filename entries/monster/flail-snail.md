@@ -33,8 +33,6 @@ abilities = ["16", "8", "14", "5", "12", "8"]
 _This enormous snail has a brightly colored shell and four tentacles on its head, each tipped with a
 mace-like club._
 
-**Flail Snail**
-
 **Challenge rating:** 4
 
 **blindsense:** 30

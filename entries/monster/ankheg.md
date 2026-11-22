@@ -30,8 +30,6 @@ abilities = ["16", "10", "17", "1", "13", "6"]
 _This burrowing, bug-like monster scuttles about on six legs, drooling noxious green ichor from its
 clacking mandibles._
 
-**Ankheg**
-
 **Challenge rating:** 3
 
 **Initiative:** +0

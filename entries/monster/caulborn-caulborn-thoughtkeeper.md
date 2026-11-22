@@ -32,8 +32,6 @@ abilities = ["20", "21", "18", "31", "22", "23"]
 _This humanoid creature has two mouths in its eyeless head, one small and human, the other split
 into terrifying jaws._
 
-**Caulborn Thoughtkeeper**
-
 **Challenge rating:** 9
 
 **blindsense:** 60

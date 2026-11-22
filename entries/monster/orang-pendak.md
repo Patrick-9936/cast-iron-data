@@ -32,8 +32,6 @@ abilities = ["17", "14", "13", "6", "12", "10"]
 
 _This hairy humanoid has orange-brown hair, a broad chest, and muscular arms._
 
-**Orang-pendak**
-
 **Challenge rating:** 1/2
 
 **Orang-pendak [fighter](ref/class/fighter) 1**

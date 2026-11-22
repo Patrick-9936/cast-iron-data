@@ -20,8 +20,6 @@ benefit = "While using this style, once per round as a swift action when you hit
 special = "You can enter the style stance for street style only while in urban terrain, and the stance ends immediately if you cease to be in urban terrain."
 +++
 
-## Street Style (Combat, Style)
-
 You use the urban environment to your advantage, thrashing and bashing your foe and driving it back.\
 **Prerequisites:** Str 15, [Improved Bull Rush](ref/feat/improved-bull-rush),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), [Power Attack](ref/feat/power-attack),

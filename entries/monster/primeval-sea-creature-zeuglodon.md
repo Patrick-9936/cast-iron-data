@@ -30,8 +30,6 @@ abilities = ["37", "18", "22", "1", "13", "6"]
 _This elongated, whale-like creature moves through the water with an eel-like motion despite its
 wide, fluked tail. Razor-sharp teeth fill its almost reptilian mouth._
 
-**Zeuglodon**
-
 **Challenge rating:** 9
 
 **Type:** animal

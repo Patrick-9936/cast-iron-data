@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Gavidya**
-
 **Sub:** The Numberless
 
 ### Details

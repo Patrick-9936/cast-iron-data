@@ -31,8 +31,6 @@ abilities = ["14", "16", "16", "15", "11", "15"]
 _Pale skin and dark features frame this starkly beautiful creature, which is surrounded by a
 palpable aura of death._
 
-**Orphne**
-
 **Challenge rating:** 4
 
 **aura:** desecrating aura (30 ft.)

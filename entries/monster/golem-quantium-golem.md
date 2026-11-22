@@ -31,8 +31,6 @@ abilities = ["40", "7", "-", "-", "11", "1"]
 _This towering metal construct crackles with eldritch energy and wields an immense sword in its
 hands._
 
-**Quantium Golem**
-
 **Challenge rating:** 20
 
 **Type:** construct

@@ -30,8 +30,6 @@ abilities = ["14", "20", "19", "19", "22", "27"]
 _Lithe and beautiful, this half-bee, half-woman creature wears elaborate makeup and wields an ornate
 staff._
 
-**Thriae Seer**
-
 **Challenge rating:** 11
 
 **Initiative:** +5

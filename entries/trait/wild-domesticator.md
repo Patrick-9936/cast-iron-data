@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-elf](ref/race/half-elf)
 
 **Benefit:** [Handle Animal](ref/skill/handle-animal) is always a class skill for you. You gain a +2

@@ -18,8 +18,6 @@ benefit = "Three times per day as a swift action, when you are within 30 feet of
 special = "This feat counts as Arcane Strike for the purposes of prerequisites."
 +++
 
-## Caster's Champion (Combat)
-
 You draw upon the power of an allied arcane spellcaster to enhance your weapons with magical energy.\
 **Benefit:** Three times per day as a swift action, when you are within 30 feet of an ally who is an
 arcane spellcaster, you can channel a portion of her arcane power into your weapons. For 1 round,

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Prerequisite:** Mendev Crusaders
 
 **Flavor:** By studying a demonic opponent, you can sense and target its weak spots.

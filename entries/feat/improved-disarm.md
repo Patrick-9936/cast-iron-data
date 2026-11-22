@@ -20,8 +20,6 @@ benefit = "You do not provoke an attack of opportunity when performing a disarm 
 normal = "You provoke an attack of opportunity when performing a disarm combat maneuver."
 +++
 
-## Improved Disarm (Combat)
-
 You are skilled at knocking weapons from a foe's grasp.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise).\
 **Benefit:** You do not provoke an attack of opportunity when performing a [disarm](ref/rule/disarm)

@@ -29,8 +29,6 @@ abilities = ["17", "14", "15", "8", "5", "6"]
 _This goat-headed humanoid is covered in a mangy gray hide that only partly covers its gaunt but
 muscled frame._
 
-**Schir**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

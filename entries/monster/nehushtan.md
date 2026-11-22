@@ -31,8 +31,6 @@ abilities = ["7", "17", "12", "10", "15", "12"]
 _The lustrous, metallic bronze scales that cover this tiny serpent glisten as if reflecting an
 unseen light._
 
-**Nehushtan**
-
 **Challenge rating:** 2
 
 **Initiative:** +3

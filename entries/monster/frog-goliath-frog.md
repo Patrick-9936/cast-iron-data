@@ -29,8 +29,6 @@ abilities = ["19", "13", "18", "1", "10", "6"]
 
 _This massive, mottled amphibian glistens with slime, and its tongue drips with saliva._
 
-**Goliath Frog**
-
 **Challenge rating:** 3
 
 **Type:** animal

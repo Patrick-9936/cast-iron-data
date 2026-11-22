@@ -31,8 +31,6 @@ abilities = ["14", "20", "21", "13", "18", "19"]
 _Depression and ennui accompany a barely perceptible sensation of something cold and smooth brushing
 against the skin._
 
-**Horla**
-
 **Challenge rating:** 8
 
 **Type:** aberration

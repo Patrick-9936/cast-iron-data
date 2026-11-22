@@ -30,8 +30,6 @@ abilities = ["6", "23", "18", "19", "22", "17"]
 _This gaunt, two-foot-tall humanoid figure appears made of corn husks, and carries an oversized
 basket filled with corn._
 
-**Fastachee**
-
 **Challenge rating:** 11
 
 **Type:** fey

@@ -34,8 +34,6 @@ abilities = ["25", "15", "18", "14", "16", "17"]
 
 _The strength and stature of this giant-sized human is matched only by the nobility of its bearing._
 
-**Nephilim**
-
 **Challenge rating:** 8
 
 **Initiative:** +2

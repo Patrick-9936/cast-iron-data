@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You can speak with outsiders.
 
 **Benefit:** You gain a +1 trait bonus on all [Linguistics](ref/skill/linguistics) checks, and you

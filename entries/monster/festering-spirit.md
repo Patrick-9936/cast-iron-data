@@ -31,8 +31,6 @@ abilities = ["-", "20", "-", "6", "12", "15"]
 
 _This ghost-like creature reeks of the grave and drips with putrescent goo._
 
-**Festering Spirit**
-
 **Challenge rating:** 8
 
 **aura:** [stench](ref/umr/stench) (DC 14, 10 rounds)

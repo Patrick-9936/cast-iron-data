@@ -31,8 +31,6 @@ abilities = ["10", "15", "13", "-", "11", "2"]
 _This coffin-shaped anemone features a ridged, dark brown trunk topped with waving yellow tendrils
 surrounding a soft, pale blue center._
 
-**Coffin Anemone**
-
 **Challenge rating:** 1
 
 **blindsight:** 30

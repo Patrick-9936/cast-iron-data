@@ -29,8 +29,6 @@ abilities = ["25", "13", "-", "-", "10", "1"]
 _Fossilized bones make up the body of this animated construct, from its horned shoulders to its
 tyrannosaur-skulled hands._
 
-**Fossil Golem**
-
 **Challenge rating:** 12
 
 **Type:** construct

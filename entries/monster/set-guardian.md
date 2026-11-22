@@ -31,8 +31,6 @@ abilities = ["28", "13", "-", "-", "17", "21"]
 _This towering figure's head is completely encased in a shiny black metal helmet that resembles the
 head of a long-snouted canine. Ruby gems sparkle in its eye sockets._
 
-**Set Guardian**
-
 **Challenge rating:** 13
 
 **Type:** construct

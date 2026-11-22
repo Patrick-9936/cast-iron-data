@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darklands
 
 **Benefit:** The wide stance and sure footing you developed while traipsing over ice-covered rock

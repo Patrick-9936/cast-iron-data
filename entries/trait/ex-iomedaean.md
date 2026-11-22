@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Vengeance
 
 **Flavor:** You, or perhaps your family, were once worshipers of [Iomedae](ref/faith/iomedae), but

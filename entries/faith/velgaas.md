@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Velgaas**
-
 **Sub:** Minds in the Dark
 
 ### Details

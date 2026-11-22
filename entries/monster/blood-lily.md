@@ -33,8 +33,6 @@ abilities = ["18", "19", "16", "2", "7", "9"]
 _Hundreds of long but thin blood-red petals form a spherical shape atop the central stem of this
 plant monster. A pair of stout vine-like appendages sprout from either side of its central mass._
 
-**Blood Lily**
-
 **Challenge rating:** 10
 
 **Initiative:** +4

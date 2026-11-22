@@ -25,8 +25,6 @@ melee = "bite +0 (1d3-2)"
 abilities = ["6", "17", "13", "2", "13", "4"]
 +++
 
-**Donkey Rat**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Dachzerul**
-
 **Sub:** The Darkness Behind Toy
 
 ### Details

@@ -33,8 +33,6 @@ abilities = ["19", "11", "20", "12", "14", "11"]
 _This amorphous creature looks like an iridescent, blimp-shaped jellyfish, with a line of tentacles
 dangling down beneath it._
 
-**Brethedan**
-
 **Challenge rating:** 5
 
 **Type:** aberration

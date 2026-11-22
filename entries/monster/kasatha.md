@@ -31,8 +31,6 @@ abilities = ["13", "17", "12", "10", "16", "8"]
 
 _This strange, four-armed humanoid is sleek and muscled, with two spiked blades raised to strike._
 
-**Kasatha**
-
 **Challenge rating:** 1/2
 
 **Male kasatha [monk](ref/class/monk) 1**

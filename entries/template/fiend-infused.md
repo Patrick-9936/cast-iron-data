@@ -14,8 +14,6 @@ page = "61"
 kind = "none"
 +++
 
-**Fiend-Infused**
-
 **Challenge rating:** +2
 
 **Inherited:** present

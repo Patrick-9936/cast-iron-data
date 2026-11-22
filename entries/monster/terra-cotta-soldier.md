@@ -30,8 +30,6 @@ abilities = ["16", "16", "-", "1", "11", "1"]
 _This perfectly sculpted, finely detailed, life-sized clay figure has a look of fierce determination
 and a sword clenched in each hand._
 
-**Terra-Cotta Soldier**
-
 **Challenge rating:** 6
 
 **Type:** construct

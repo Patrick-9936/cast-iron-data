@@ -33,8 +33,6 @@ abilities = ["26", "17", "22", "10", "10", "10"]
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with
 the thrill of the coming kill._
 
-**Bugbear Flesh Glutton**
-
 **Challenge rating:** 8
 
 **Giant bugbear [barbarian](ref/class/barbarian) 5**

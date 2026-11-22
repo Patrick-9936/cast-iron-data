@@ -17,8 +17,6 @@ page = "30"
 kind = "none"
 +++
 
-**Sezelrian**
-
 **Sub:** The Fire God
 
 ### Details

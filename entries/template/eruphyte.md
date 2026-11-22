@@ -14,8 +14,6 @@ page = "66"
 kind = "none"
 +++
 
-**Eruphyte**
-
 **Acquired:** present
 
 **Challenge rating:** +1

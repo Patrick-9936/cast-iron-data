@@ -31,8 +31,6 @@ abilities = ["17", "14", "13", "8", "14", "8"]
 
 _This man seems human at first, but a closer look reveals he has claws and sharp teeth._
 
-**Skinwalker**
-
 **Challenge rating:** 1/2
 
 **Male skinwalker [ranger](ref/class/ranger) 1**

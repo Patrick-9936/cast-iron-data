@@ -30,8 +30,6 @@ abilities = ["15", "15", "18", "15", "16", "16"]
 _The dry rasping of spidery legs brings this hideous monstrosity into view - a nightmarish,
 centaurian fusion of drow and spider._
 
-**Drider**
-
 **Challenge rating:** 7
 
 **Type:** aberration

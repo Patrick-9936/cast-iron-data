@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You can channel extra power into one of your bloodline spells.
 
 **Benefit:** Once per day as a **free action**, you gain a +1 trait bonus to the DC of the saving

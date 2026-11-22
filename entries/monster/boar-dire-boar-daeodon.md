@@ -29,8 +29,6 @@ abilities = ["23", "10", "17", "2", "13", "8"]
 _The back of this horse-sized boar rises in a steep slope. Its tiny red eyes are crusted with filth
 and its bristly flank crawls with flies._
 
-**Dire Boar (Daeodon)**
-
 **Challenge rating:** 4
 
 **Type:** animal

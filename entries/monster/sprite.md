@@ -31,8 +31,6 @@ abilities = ["3", "17", "10", "6", "11", "10"]
 _This lithe, diminutive creature looks like a humanoid with wispy, moth-like wings and long, thin
 ears._
 
-**Sprite**
-
 **Challenge rating:** 1/3
 
 **Alignment:** Chaotic neutral

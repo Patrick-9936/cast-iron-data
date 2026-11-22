@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Benefit:** You were raised under the [Prophecies of Kalistrade](ref/rule/f-profits), and were
 inspired to seize upon an untapped business opportunity. Up to once per week, when you work to
 advance this opportunity with at least 1 day of effort, you can attempt an appropriate

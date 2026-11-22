@@ -31,8 +31,6 @@ abilities = ["8", "21", "17", "13", "14", "24"]
 _Glowing veins of green creep across the flesh of this pale, spasming gnome. Stifled giggles escape
 her rictus grin._
 
-**Etioling**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic neutral

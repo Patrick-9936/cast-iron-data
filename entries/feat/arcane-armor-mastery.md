@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/arcane-armor-training", "ref/feat/armor-proficie
 benefit = "As a swift action, reduce the arcane spell failure chance due to the armor you are wearing by 20% for any spells you cast this round. This bonus replaces, and does not stack with, the bonus granted by Arcane Armor Training."
 +++
 
-## Arcane Armor Mastery (Combat)
-
 You have mastered the ability to cast spells while wearing armor.\
 **Prerequisites:** [Arcane Armor Training](ref/feat/arcane-armor-training),
 [Medium Armor Proficiency](ref/feat/armor-proficiency-medium), caster level 7th.\

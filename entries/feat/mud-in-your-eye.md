@@ -20,8 +20,6 @@ benefit = "As a standard action when in urban or subterranean terrain, you can s
 special = "A character with favored terrain (as the ranger class feature) can use this feat when in any of his favored terrains in addition to urban and subterranean."
 +++
 
-## Mud in Your Eye (Combat)
-
 You are used to fighting in muck and slime, and happily hurl it in your foes' eyes in the heat of
 battle.\
 **Prerequisites:** [Throw Anything](ref/feat/throw-anything).\

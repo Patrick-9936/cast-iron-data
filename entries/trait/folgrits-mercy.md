@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Folgrit](ref/faith/folgrit)
 
 **Flavor:** You were called upon to defend your home or family at a vulnerable time and led with a

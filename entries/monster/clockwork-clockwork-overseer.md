@@ -32,8 +32,6 @@ abilities = ["19", "14", "-", "-", "13", "1"]
 _One arm of this six-limbed clockwork construct ends in a broad fist, and the other extends into an
 articulated metal lash._
 
-**Clockwork Overseer**
-
 **Challenge rating:** 7
 
 **aura:** aura of command (30 ft.)

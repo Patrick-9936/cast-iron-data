@@ -30,8 +30,6 @@ abilities = ["33", "24", "-", "-", "11", "1"]
 _Made of polished silvery metal, this immense humanoid construct moves with shocking grace and
 speed._
 
-**Mithral Golem**
-
 **Challenge rating:** 16
 
 **Type:** construct

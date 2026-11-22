@@ -23,8 +23,6 @@ page = "75"
 kind = "none"
 +++
 
-**Desna**
-
 **Sub:** Song of the Spheres
 
 ### Details

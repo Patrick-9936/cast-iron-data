@@ -29,8 +29,6 @@ abilities = ["19", "13", "16", "1", "8", "6"]
 _Stubby warts dot the skin of this horse-sized brown toad. Its throat bulges and ripples as though
 about to croak._
 
-**Giant Toad**
-
 **Challenge rating:** 2
 
 **Type:** animal

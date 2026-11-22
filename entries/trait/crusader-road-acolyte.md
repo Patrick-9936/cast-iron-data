@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Echo Wood or Thornkeep
 
 **Benefit:** You trained with the [Hellknights](ref/rule/aff-lawknights) at Fort Inevitable or the

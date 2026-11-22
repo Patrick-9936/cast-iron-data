@@ -20,8 +20,6 @@ benefit = "When you are adjacent to a foe, as a full-round action, you can take 
 normal = "A character without this feat is limited to only one 5-foot step during a full attack, taken before, after, or between attacks."
 +++
 
-## Circling Mongoose (Combat)
-
 You keep your opponent on the defensive as you circle around threateningly.\
 **Prerequisites:** Dex 13, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility),
 [Spring Attack](ref/feat/spring-attack), base attack bonus +6.\

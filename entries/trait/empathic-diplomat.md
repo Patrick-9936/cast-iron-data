@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Qadira or Osirion
 
 **Flavor:** You have long followed the path of common sense and empathic insight when using

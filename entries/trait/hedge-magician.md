@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You apprenticed for a time to an artisan who often built magic items, and he taught you
 many handy shortcuts and cost-saving techniques.
 

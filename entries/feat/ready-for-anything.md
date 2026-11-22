@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/alertness", "ref/feat/improved-initiative", "ref
 benefit = "You can always act in the surprise round even if you fail a Perception check to notice foes, but you are still considered flat-footed until you take an action."
 +++
 
-## Ready for Anything (Combat)
-
 You never let down your guard.\
 **Prerequisites:** [Alertness](ref/feat/alertness),
 [Improved Initiative](ref/feat/improved-initiative),

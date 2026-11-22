@@ -26,8 +26,6 @@ melee = "bite +2 (1d6)"
 abilities = ["11", "10", "13", "10", "11", "10"]
 +++
 
-**Larva**
-
 **Challenge rating:** 1
 
 **Human petitioner**

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Horsemen
 
 **Benefit:** Because your soul is pledged to one of the Horsemen, you gain a +2 trait bonus on

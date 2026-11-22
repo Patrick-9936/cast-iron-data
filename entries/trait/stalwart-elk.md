@@ -13,8 +13,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a Chernasardo riding elk as a mount
 
 **Benefit:** While riding a Chernasardo riding [elk](ref/monster/herd-animal-elk), you gain a +4

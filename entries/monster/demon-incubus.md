@@ -31,8 +31,6 @@ abilities = ["20", "15", "18", "16", "15", "21"]
 _This darkly handsome humanoid's bat-like wings, curving horns, and bestial legs betray his demonic
 origin._
 
-**Incubus**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

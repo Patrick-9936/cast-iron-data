@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Shelyn](ref/faith/shelyn)
 
 **Flavor:** Your devotion to Shelyn has caused you to delve more deeply into your art.

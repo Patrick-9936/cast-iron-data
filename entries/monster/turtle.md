@@ -26,8 +26,6 @@ melee = "bite -2 (1d3-4)"
 abilities = ["3", "6", "8", "2", "12", "3"]
 +++
 
-**Turtle**
-
 **Challenge rating:** 1/6
 
 **Type:** animal

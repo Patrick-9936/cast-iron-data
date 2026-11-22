@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Disease"
 source_ids = ["pathfinder-unchained"]
 parent = "ref/rule/me-pit-fiend"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "me_pit_fiend|affliction:disease", path = "json/rules_adv_gm03.json" },
 ]

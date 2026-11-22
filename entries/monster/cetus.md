@@ -32,8 +32,6 @@ abilities = ["46", "21", "20", "5", "18", "27"]
 _This enormous scaled serpent has the head of a shark, powerful claws, and a maw wide enough to
 swallow a small ship._
 
-**Cetus**
-
 **Challenge rating:** 13
 
 **aura:** mariner's misfortune (30 ft.)

@@ -28,8 +28,6 @@ abilities = ["4", "14", "10", "2", "11", "9"]
 
 _Black rosettes and streaks mark the brown fur of this slender feline._
 
-**Margay Cat**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

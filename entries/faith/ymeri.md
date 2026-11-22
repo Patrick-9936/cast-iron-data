@@ -17,8 +17,6 @@ page = "233"
 kind = "none"
 +++
 
-**Ymeri**
-
 **Sub:** Queen of the Inferno
 
 **Monster Link** [Ymeri](ref/monster/elemental-lord-ymeri)

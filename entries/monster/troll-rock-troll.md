@@ -30,8 +30,6 @@ abilities = ["25", "12", "24", "5", "9", "6"]
 _This bulky creature has beady eyes, and rocky skin studded with small crystals. Its jutting
 underbite holds large, crystalline teeth._
 
-**Rock Troll**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic evil

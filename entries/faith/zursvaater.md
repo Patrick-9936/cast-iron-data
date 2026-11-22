@@ -14,8 +14,6 @@ page = "66"
 kind = "none"
 +++
 
-**Zursvaater**
-
 **Sub:** Prince of Steel
 
 ### Details

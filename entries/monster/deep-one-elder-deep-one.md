@@ -32,8 +32,6 @@ abilities = ["36", "12", "28", "19", "23", "19"]
 _The frame of this immense monstrosity is humanoid, but its ichthyic visage is that of a deep-sea
 predator._
 
-**Elder Deep One**
-
 **Challenge rating:** 14
 
 **aura:** cloak of chaos (DC 22), staggering presence (180 ft., DC 21)

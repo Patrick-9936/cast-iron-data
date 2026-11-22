@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-orc](ref/race/half-orc); orc-raised
 
 **Flavor:** You're at the bottom of the pecking order, so when you challenge that order, your

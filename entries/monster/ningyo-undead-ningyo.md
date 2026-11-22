@@ -33,8 +33,6 @@ _The repulsively fused features of a dried fish and desiccated humanoid combine 
 remains. The crackle of tiny grinding bones and the hiss of parched scales whisper with every motion
 as the snarling miniature mummy drags its shriveled corpse forward._
 
-**Undead Ningyo**
-
 **Challenge rating:** 1
 
 **Initiative:** +1

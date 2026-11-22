@@ -31,8 +31,6 @@ abilities = ["38", "33", "41", "30", "33", "30"]
 _This green-scaled humanoid has a long, serpentine neck and head, and its brow is marked by a
 distinctive crescent shape._
 
-**Yig**
-
 **Challenge rating:** 27
 
 **aura:** unspeakable presence (300 ft., DC 35)

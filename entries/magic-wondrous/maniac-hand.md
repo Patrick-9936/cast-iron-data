@@ -15,7 +15,7 @@ page = "266"
 kind = "item"
 category = "Wondrous Items"
 weight = "2 lbs."
-slot = "none (replaces hand)"
+slot = "none"
 aura = "strong necromancy"
 caster_level = "13th"
 +++

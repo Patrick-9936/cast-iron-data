@@ -30,8 +30,6 @@ abilities = ["16", "8", "21", "-", "1", "1"]
 _What at first seemed to be a carpet of fungi and mushrooms suddenly stirs to life, surging forward
 with a reek of decay._
 
-**Slime Mold**
-
 **Challenge rating:** 2
 
 **Initiative:** -1

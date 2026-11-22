@@ -31,8 +31,6 @@ abilities = ["14", "17", "11", "14", "16", "9"]
 _Layers of translucent, shimmering fins flow along this fishman's spindly body. Tentacles curl below
 its stately mouth, and its human-like hands and feet end in stubby but sharp claws._
 
-**Bishop Agathion**
-
 **Challenge rating:** 4
 
 **aura:** fear (30 ft., DC 16)

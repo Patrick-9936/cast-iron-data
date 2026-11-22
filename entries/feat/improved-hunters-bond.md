@@ -19,8 +19,6 @@ benefit = "When you activate hunter's bond, you can grant your allies your full 
 normal = "Your allies receive half your favored enemy bonus against a single target."
 +++
 
-## Improved Hunter's Bond (Combat)
-
 You deepen your connection to your allies, granting them higher bonuses.\
 **Prerequisites:** Hunter's bond (hunting companions) class feature, [ranger](ref/class/ranger)
 level 9th.\

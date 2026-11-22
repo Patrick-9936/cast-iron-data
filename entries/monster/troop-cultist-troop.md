@@ -30,8 +30,6 @@ abilities = ["20", "21", "18", "10", "17", "15"]
 
 _A band of violet-skinned elves raises their hands high as vile magic swirls in the air above them._
 
-**Cultist Troop**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic evil

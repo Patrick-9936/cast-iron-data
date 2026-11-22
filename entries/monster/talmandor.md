@@ -32,8 +32,6 @@ abilities = ["26", "36", "35", "19", "23", "24"]
 _This gloriously plumed anthropomorphic eagle has feathers tipped with shimmering gold, and claws
 with sharp black talons._
 
-**Talmandor**
-
 **Challenge rating:** 23
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (60 ft., DC 30), protective aura (30 ft.,

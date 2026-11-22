@@ -31,8 +31,6 @@ abilities = ["9", "18", "12", "10", "11", "15"]
 _This small humanoid is clothed in tattered rags from head to foot. Only its sinister eyes and pale
 hands are visible._
 
-**Dark Slayer**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

@@ -18,8 +18,6 @@ prerequisites = "Craft Construct, Leadership."
 prerequisite_feats = ["ref/feat/craft-construct", "ref/feat/leadership"]
 +++
 
-## Lifecrafting (Item Creation)
-
 Your crafting skill and the secret knowledge of your people allows you to create new wyrwoods.\
 **Prerequisites:** [Craft Construct](ref/feat/craft-construct), [Leadership](ref/feat/leadership).
 

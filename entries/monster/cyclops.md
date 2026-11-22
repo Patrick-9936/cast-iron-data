@@ -32,8 +32,6 @@ abilities = ["21", "8", "15", "10", "13", "8"]
 _A single huge eye stares from the forehead of this nine-foot-tall giant. Below this sole orb, an
 even larger mouth gapes like a cave._
 
-**Cyclops**
-
 **Challenge rating:** 5
 
 **Type:** humanoid

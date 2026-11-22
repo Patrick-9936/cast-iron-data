@@ -31,8 +31,6 @@ abilities = ["36", "32", "38", "37", "29", "35"]
 _Fire burns on the central horn and in the rheumy eyes of this bestial winged demon, who stands more
 than twice a human's height._
 
-**Baphomet**
-
 **Challenge rating:** 27
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 38), unholy aura (DC 30)

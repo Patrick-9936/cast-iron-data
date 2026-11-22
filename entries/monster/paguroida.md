@@ -33,8 +33,6 @@ _This crab-like creature has the torso and head of a human, one arm ending in a 
 another arm wielding a scimitar. It scuttles on six legs that emerge from beneath a massive shell
 with glinting metal and gems embedded into its surface._
 
-**Paguroida**
-
 **Challenge rating:** 9
 
 **aura:** nondetection (30 ft.)

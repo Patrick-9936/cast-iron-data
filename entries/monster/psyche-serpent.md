@@ -29,8 +29,6 @@ abilities = ["6", "16", "13", "13", "13", "14"]
 
 _A spiral pattern adorns the hood of this cobra-like serpent. Its gaze betrays a keen intellect._
 
-**Psyche Serpent**
-
 **Challenge rating:** 2
 
 **Initiative:** +3

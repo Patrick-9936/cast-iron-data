@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Shoanti
 
 **Flavor:** Your nomadic culture gives you a profound knowledge of and respect for the horses that

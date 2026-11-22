@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Catfolk](ref/race/catfolk)
 
 **Flavor:** You trained with your clan to hunt large prey such as the dinosaurs of the Valashmai

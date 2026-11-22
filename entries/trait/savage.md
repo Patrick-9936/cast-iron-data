@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You were born and raised in untamed lands far from civilization. You learned to survive
 in the elements among brutal humanoids and beasts.
 

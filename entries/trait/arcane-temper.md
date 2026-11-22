@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You have quick reactions and fierce concentration.
 
 **Benefit:** You gain a +1 trait bonus on concentration and initiative checks.

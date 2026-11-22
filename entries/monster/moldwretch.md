@@ -31,8 +31,6 @@ abilities = ["20", "22", "19", "14", "21", "15"]
 _This deformed mold creature has long, dragging arms and an even longer tentacle growing out of its
 back that spews clouds of spores._
 
-**Moldwretch**
-
 **Challenge rating:** 7
 
 **Initiative:** +10

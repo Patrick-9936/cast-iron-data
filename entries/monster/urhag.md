@@ -30,8 +30,6 @@ abilities = ["16", "12", "17", "4", "13", "7"]
 _This bat-like creature's body is mostly a large, toothy maw, held aloft by leathery wings. Its
 whip-thin tail ends in a slender stinger._
 
-**Urhag**
-
 **Challenge rating:** 3
 
 **Type:** aberration

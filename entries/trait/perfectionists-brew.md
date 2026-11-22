@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You know that potion recipes should be followed with exact precision.
 
 **Benefit:** You gain a +2 trait bonus on all [Craft](ref/skill/craft-any) (alchemy) checks and on

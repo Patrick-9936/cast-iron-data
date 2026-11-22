@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Lingering Touch"
 source_ids = ["occult-bestiary"]
 parent = "ref/monster/kyton-cantor"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "kyton_cantor|affliction:lingering-touch", path = "json/monsters15.json" },
 ]

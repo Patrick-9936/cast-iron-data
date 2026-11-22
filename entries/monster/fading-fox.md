@@ -29,8 +29,6 @@ abilities = ["10", "21", "13", "2", "17", "10"]
 
 _This regal fox's coat shifts subtly between silver, red, and dull brown as it walks._
 
-**Fading Fox**
-
 **Challenge rating:** 2
 
 **Type:** animal

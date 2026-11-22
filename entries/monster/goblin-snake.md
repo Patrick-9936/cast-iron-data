@@ -34,8 +34,6 @@ abilities = ["14", "15", "14", "9", "12", "13"]
 _A gray, lipless goblin head with serpent's fangs sits atop the sinuous black body of this
 greasy-scaled snake._
 
-**Goblin Snake**
-
 **Challenge rating:** 1
 
 **Type:** aberration

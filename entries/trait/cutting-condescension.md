@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** The Sable Company has taught you to quickly get compliance from those in your way.
 
 **Benefit:** You gain a +2 trait bonus on [Intimidate](ref/skill/intimidate) checks to force a

@@ -33,8 +33,6 @@ abilities = ["19", "10", "15", "20", "15", "12"]
 _Ancient tomes and ornate robes lend this towering one-eyed figure an intellectual air, balanced by
 his toned muscles and a lingering stench of blood._
 
-**Cyclops Lorekeeper**
-
 **Challenge rating:** 13
 
 **Cyclops [arcanist](ref/class/arcanist) 11**

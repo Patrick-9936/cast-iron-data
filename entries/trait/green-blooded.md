@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You are touched by the supernatural essence of nature, marking you since birth as
 something other than purely mortal.
 

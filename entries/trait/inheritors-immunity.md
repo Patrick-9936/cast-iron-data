@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Iomedae](ref/faith/iomedae)
 
 **Flavor:** Iomedae's valor fills you with divine energy, allowing you to stave off even the worst

@@ -31,8 +31,6 @@ abilities = ["28", "19", "-", "16", "15", "25"]
 _This spindly-limbed horror has pale eyes, bony fingers that end in dirty claws, papery skin, and
 long, sharp fangs protruding from a breathless mouth._
 
-**Nachzehrer**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

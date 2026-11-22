@@ -33,8 +33,6 @@ abilities = ["19", "15", "16", "4", "13", "14"]
 _The antlers and hooves of this elk appear scorched and charred. The ground where it stands smolders
 and bursts into flame._
 
-**Delgeth**
-
 **Challenge rating:** 6
 
 **Initiative:** +6

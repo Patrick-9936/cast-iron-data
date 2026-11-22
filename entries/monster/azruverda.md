@@ -32,8 +32,6 @@ abilities = ["32", "15", "23", "14", "16", "25"]
 _A humanoid head peers forth from this enormous creature's beautifully iridescent, spike-covered
 beetle carapace._
 
-**Azruverda**
-
 **Challenge rating:** 13
 
 **Type:** aberration

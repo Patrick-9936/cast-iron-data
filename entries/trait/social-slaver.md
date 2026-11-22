@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Cheliax
 
 **Flavor:** Your upbringing has accustomed you to commanding those you deem inferior.

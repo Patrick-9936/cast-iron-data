@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Erastil](ref/faith/erastil)
 
 **Flavor:** You are skilled in passing along knowledge of rural matters.

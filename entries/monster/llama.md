@@ -29,8 +29,6 @@ abilities = ["12", "13", "15", "2", "12", "9"]
 
 _This shaggy, hoofed quadruped sports an elongated neck and large, crooked teeth._
 
-**Llama**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

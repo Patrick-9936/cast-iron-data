@@ -28,8 +28,6 @@ abilities = ["15", "15", "14", "2", "12", "7"]
 _Large, deep-set eyes peer from beneath this great ape's thick brow as it lumbers forward on its
 legs and knuckles._
 
-**Gorilla**
-
 **Challenge rating:** 2
 
 **Type:** animal

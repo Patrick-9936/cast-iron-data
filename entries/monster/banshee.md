@@ -34,8 +34,6 @@ abilities = ["-", "32", "-", "5", "20", "19"]
 _This beautiful, ghostly elven woman glides through the air, her long hair flowing around a face
 knotted into a mask of rage._
 
-**Banshee**
-
 **Challenge rating:** 13
 
 **Alignment:** Chaotic evil

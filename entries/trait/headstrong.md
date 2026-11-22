@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You feel compelled to correct every action and argument that contradicts your worldview.
 
 **Benefit:** Whenever you witness an action or hear an argument that contradicts your alignment, you

@@ -18,8 +18,6 @@ prerequisites = "You must have reverted to savage behavior through a traumatic e
 benefit = "Whenever you receive a morale bonus on Strength or attack rolls (such as from heroism or the barbarian rage class feature), you receive a +2 bonus on Dexterity- and Strength-based ability and skill checks and a +1 bonus on Reflex saves until the morale bonus effect ends."
 +++
 
-## Feral Heart (Story)
-
 In your chest beasts the heart of a wild beast.\
 **Prerequisites:** You must have reverted to savage behavior through a traumatic event or extended
 period in the wilderness, or have the Raised by Beasts background (either the

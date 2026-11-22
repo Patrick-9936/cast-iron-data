@@ -14,8 +14,6 @@ page = "238"
 kind = "none"
 +++
 
-**Shadow Lord**
-
 **Acquired:** present
 
 **Challenge rating:** +2

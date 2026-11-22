@@ -31,8 +31,6 @@ abilities = ["47", "20", "40", "3", "26", "23"]
 _The armored plates of this immense, three-tailed scorpion are fiery red, and its stingers glow with
 molten heat._
 
-**Bezravnis**
-
 **Challenge rating:** 26
 
 **Alignment:** Chaotic neutral

@@ -35,8 +35,6 @@ abilities = ["19", "14", "14", "9", "11", "12"]
 _This green-scaled dragon has two powerful legs and a pair of long, leathery wings. A long spike
 adorns its thrashing tail._
 
-**Forest Drake**
-
 **Challenge rating:** 4
 
 **Type:** dragon

@@ -31,8 +31,6 @@ abilities = ["25", "8", "19", "6", "10", "7"]
 _This hunched giant exudes power and a crude, stupid anger, its filthy fur clothing bespeaking a
 brutish and backwoods lifestyle._
 
-**Hill Giant**
-
 **Challenge rating:** 7
 
 **Alignment:** Chaotic evil

@@ -30,8 +30,6 @@ abilities = ["36", "11", "-", "-", "18", "1"]
 
 _This oppressive construct rumbles forth on deadly rollers, crushing everything in its path._
 
-**Juggernaut**
-
 **Challenge rating:** 11
 
 **Type:** construct

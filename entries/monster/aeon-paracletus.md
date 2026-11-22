@@ -30,8 +30,6 @@ abilities = ["8", "14", "9", "11", "13", "12"]
 _A small cluster of shimmering lights floats in the air, orbited by multiple vibrant crystals and
 gemstones._
 
-**Paracletus**
-
 **Challenge rating:** 2
 
 **aura:** emotion aura (DC 12, 30 ft.)

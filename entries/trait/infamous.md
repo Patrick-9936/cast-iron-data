@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You were publicly linked, truthfully or not, to a crime of significant infamy. You draw
 attention wherever you go and risk imprisonment or worse in the jurisdiction where the crime was
 committed.

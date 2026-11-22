@@ -30,8 +30,6 @@ abilities = ["-", "18", "-", "14", "14", "21"]
 _In the midst of a swirling cloud of desiccated ashes is the vague shape of a humanoid, with hollow,
 unblinking eyes that flicker like dying embers._
 
-**Cinderghost**
-
 **Challenge rating:** 7
 
 **Initiative:** +4

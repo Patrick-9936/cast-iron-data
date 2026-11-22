@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have a tendency for rash behavior, often disregarding your own safety as you move
 across the battlefield.
 

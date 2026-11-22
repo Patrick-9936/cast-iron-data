@@ -30,8 +30,6 @@ abilities = ["24", "21", "22", "17", "18", "21"]
 _A man with fiery red hair and antlers rides a red-gold stallion. His robes expose the hairy legs of
 a goat, ending in cloven hooves._
 
-**Red Rider**
-
 **Challenge rating:** 12
 
 **Type:** fey

@@ -20,8 +20,6 @@ benefit = "When an adjacent ally is attacked, you may use an attack of opportuni
 normal = "Aid another is a standard action."
 +++
 
-## Bodyguard (Combat)
-
 Your swift strikes ward off enemies attacking nearby allies.\
 **Prerequisites:** [Combat Reflexes](ref/feat/combat-reflexes).\
 **Benefit:** When an adjacent ally is attacked, you may use an attack of opportunity to attempt the

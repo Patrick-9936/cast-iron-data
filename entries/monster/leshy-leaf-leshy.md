@@ -32,8 +32,6 @@ abilities = ["6", "13", "12", "5", "12", "13"]
 _This little plant person is clad in a wing-like leaf cloak and pinecone armor, wielding a twig as a
 makeshift spear._
 
-**Leaf Leshy**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +1

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You have learned much from tinkering with ancient technology from the Jistka Imperium.
 
 **Benefit:** Choose one of the following skills: [Disable Device](ref/skill/disable-device),

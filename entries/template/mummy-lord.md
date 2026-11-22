@@ -14,8 +14,6 @@ page = "176"
 kind = "none"
 +++
 
-**Mummy Lord**
-
 **Acquired:** present
 
 **Challenge rating:** +2

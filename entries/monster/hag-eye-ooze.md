@@ -34,8 +34,6 @@ abilities = ["12", "1", "18", "-", "1", "1"]
 _A single eye stares unblinking from an amorphous blob. A transparent pseudopod extends from the
 mass, ready to strike._
 
-**Hag Eye Ooze**
-
 **Challenge rating:** 3
 
 **blindsight:** 60

@@ -33,8 +33,6 @@ abilities = ["39", "15", "26", "10", "14", "13"]
 _Thick of limb and torso, this towering female frost giant possesses powerful blue muscles and
 wields a massive, ice-encrusted battleaxe._
 
-**Valonesse Hergrut, Frost Giant Jarl**
-
 **Challenge rating:** 18
 
 **Female frost giant [barbarian](ref/class/barbarian) 9**

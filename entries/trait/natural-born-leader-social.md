@@ -12,8 +12,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You've always found yourself in positions where others look up to you as a leader, and
 you can distinctly remember an event from your early childhood where you led several other children
 to accomplish a goal that each of you individually could not.

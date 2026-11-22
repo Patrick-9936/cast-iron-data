@@ -31,8 +31,6 @@ abilities = ["10", "23", "17", "18", "15", "20"]
 _Ophidian imagery decorates the fine robes of this sinuous, fanged humanoid, and a narrow, forked
 tongue flicks from its serpentine head._
 
-**Serpentfolk Reclaimer**
-
 **Challenge rating:** 6
 
 **Initiative:** +10

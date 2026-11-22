@@ -31,8 +31,6 @@ abilities = ["8", "13", "10", "17", "16", "10"]
 
 _This humanoid appears to be made of darkness, and has no discernible ears, eyes, mouth, or nose._
 
-**Astomoi**
-
 **Challenge rating:** 1/2
 
 **Astomoi [psychic](ref/class/psychic) 1**

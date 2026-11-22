@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You are resistant to the magic of other faiths.
 
 **Benefit:** You gain a +2 trait bonus on all Will saves you attempt against divine spells. This

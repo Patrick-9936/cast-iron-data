@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Vildeis](ref/faith/vildeis)
 
 **Flavor:** You interposed yourself between an innocent and a dangerous evil monster or force, lost

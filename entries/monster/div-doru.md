@@ -31,8 +31,6 @@ abilities = ["8", "17", "10", "10", "12", "14"]
 
 _This disembodied and bestial head covered in lashing hair and curling horns flies through the air._
 
-**Doru**
-
 **Challenge rating:** 2
 
 **Initiative:** +3

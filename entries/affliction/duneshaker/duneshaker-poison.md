@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Duneshaker Poison"
 source_ids = ["bestiary-6"]
 parent = "ref/monster/duneshaker"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "duneshaker|affliction:duneshaker-poison", path = "json/monsters06.json" },
 ]

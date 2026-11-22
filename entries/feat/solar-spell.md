@@ -17,8 +17,6 @@ feat_types = ["Metamagic"]
 benefit = "Any spell you cast with the light descriptor is fortified with the cleansing energies of the sun. If the spell creates an area of light, all creatures are dazzled for as long as they remain within the spell's area. Oozes, fungal creatures, creatures from the Shadow Plane, and undead must also succeed at a Will save (DC 10 + the spell level + your Wisdom or Charisma bonus) or take a -2 penalty on attack rolls, damage rolls, saving throws, skill checks, and ability checks for as long as they remain within the spell's area. If the spell normally dazzles or blinds affected creatures with a duration other than instantaneous or permanent, the duration of that effect is increased by a number of rounds equal to the spell's original level. Saving throws to remove the effect early still apply and can bypass this increase."
 +++
 
-## Solar Spell (Metamagic)
-
 Your spells erupt with the searing light of the sun, blinding or burning creatures of evil.\
 **Benefit:** Any spell you cast with the light descriptor is fortified with the cleansing energies
 of the sun. If the spell creates an area of light, all creatures are [dazzled](ref/misc/dazzled) for

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "16"
 +++
 
-**Death Master**
-
 **Challenge rating:** 16
 
 **XP** 76,800\

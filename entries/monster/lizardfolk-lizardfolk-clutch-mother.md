@@ -30,8 +30,6 @@ special_qualities = "ancient ways, hold breath, nature bond (Protection domain),
 abilities = ["10", "11", "12", "12", "20", "15"]
 +++
 
-**Lizardfolk Clutch Mother**
-
 **Challenge rating:** 13
 
 **Lizardfolk [druid](ref/class/druid) ([ancient guardian](ref/arc-druid/ancient-guardian)) 12**

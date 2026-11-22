@@ -25,8 +25,6 @@ melee = "bite +3 (1d3-4 plus attach)"
 abilities = ["2", "13", "12", "1", "10", "5"]
 +++
 
-**Tuatara**
-
 **Challenge rating:** 1/4
 
 **Type:** animal

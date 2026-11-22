@@ -30,8 +30,6 @@ abilities = ["-", "25", "-", "15", "14", "17"]
 
 _This roiling horror appears to be a swirling vortex of darkness and screaming, ghostly faces._
 
-**Caller in Darkness**
-
 **Challenge rating:** 9
 
 **aura:** [unnatural aura](ref/umr/unnatural-aura) (30 ft.)

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Magnimar
 
 **Benefit:** You were raised in the Shadow district of Magnimar beneath the Irespan, a veiled place

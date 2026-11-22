@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/greater-grapple", "ref/feat/improved-grapple", "
 benefit = "Whenever you use Greater Grapple to successfully maintain a grapple as a move action, you can then spend a swift action to make a grapple combat maneuver check at a -5 penalty."
 +++
 
-## Rapid Grappler (Combat)
-
 You are a quick hand at grappling.\
 **Prerequisites:** Dex 13, [Greater Grapple](ref/feat/greater-grapple),
 [Improved Grapple](ref/feat/improved-grapple),

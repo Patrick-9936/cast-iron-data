@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have learned to express yourself without having to depend on words.
 
 **Benefit:** When attempting a [Bluff](ref/skill/bluff) check to deliver a secret message, you can

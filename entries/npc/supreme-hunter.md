@@ -15,8 +15,6 @@ kind = "creature"
 cr = "19"
 +++
 
-**Supreme Hunter**
-
 **Challenge rating:** 19
 
 **XP** 204,800\

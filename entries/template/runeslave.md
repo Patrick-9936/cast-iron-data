@@ -14,8 +14,6 @@ page = "412"
 kind = "none"
 +++
 
-**Runeslave**
-
 **Acquired:** present
 
 **Challenge rating:** +1

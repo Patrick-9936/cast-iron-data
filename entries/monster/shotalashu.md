@@ -29,8 +29,6 @@ abilities = ["15", "17", "17", "4", "14", "12"]
 
 _This large, four-legged reptile has a brown scaled hide and a long, powerful tail._
 
-**Shotalashu**
-
 **Challenge rating:** 2
 
 **Initiative:** +7

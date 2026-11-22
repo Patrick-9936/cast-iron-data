@@ -33,8 +33,6 @@ _This creature's conical body bears four rubbery appendages: two end in strong p
 in a cluster of four trumpet-like organs, and yet another is attached to a round head with three
 eyes that glow with ancient, forbidden power._
 
-**Yithian Elder**
-
 **Challenge rating:** 13
 
 **Type:** aberration

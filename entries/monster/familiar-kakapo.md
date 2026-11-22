@@ -31,8 +31,6 @@ abilities = ["3", "13", "10", "2", "8", "12"]
 _This rotund parrot has vibrant green-and-black feathers, a short hooked beak, and an array of white
 whiskers._
 
-**Kakapo**
-
 **Challenge rating:** 1/8
 
 **Type:** animal

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** aquatic
 
 **Flavor:** Growing up in an aquatic environment, where three-dimensional movement and perception

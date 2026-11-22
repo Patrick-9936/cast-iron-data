@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Brevoy
 
 **Flavor:** You have trained under the Aldori swordlords, and though not yet a swordlord yourself,

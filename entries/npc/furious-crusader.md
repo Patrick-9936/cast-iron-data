@@ -15,8 +15,6 @@ kind = "creature"
 cr = "17"
 +++
 
-**Furious Crusader**
-
 **Challenge rating:** 17
 
 **XP** 102,400\

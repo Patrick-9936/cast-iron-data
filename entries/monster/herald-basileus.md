@@ -33,8 +33,6 @@ abilities = ["26", "22", "25", "26", "19", "25"]
 
 _This comely man is clad in fine silken robes. His eyes smolder with infernal flames._
 
-**Basileus**
-
 **Challenge rating:** 15
 
 **Initiative:** +10

@@ -20,8 +20,6 @@ benefit = "When you gain this feat, choose one hex that you can use to affect no
 special = "You can take this feat multiple times. Each time you take it, you apply it to a different qualifying hex."
 +++
 
-## Hex Strike (Combat)
-
 Chanting and cursing, you put a hex on your enemy as part of your unarmed strike.\
 **Prerequisites:** Hex class feature, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\
 **Benefit:** When you gain this feat, choose one hex that you can use to affect no more than one

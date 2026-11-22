@@ -31,8 +31,6 @@ abilities = ["11", "16", "14", "13", "16", "12"]
 _Three lidless eyes with vertical pupils stare out from a small umbrella-shaped creature. It moves
 about using squirming tentacles, each moving independently in a mesmerizing motion._
 
-**Enisysian**
-
 **Challenge rating:** 4
 
 **Type:** aberration

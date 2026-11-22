@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You discovered a secret that enhances the energy of some spells.
 
 **Benefit:** Once per day as a **free action**, when you cast a spell that deals acid, cold,

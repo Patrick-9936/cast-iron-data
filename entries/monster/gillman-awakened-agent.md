@@ -31,8 +31,6 @@ abilities = ["8", "14", "14", "14", "8", "21"]
 _Raiment made from monstrous sea creatures conceals the sallow complexion and strange sores of this
 sickly gillman. Abnormal muscles and joints flex just beneath his flesh._
 
-**Awakened Agent**
-
 **Challenge rating:** 11
 
 **Gillman [sorcerer](ref/class/sorcerer) 12**

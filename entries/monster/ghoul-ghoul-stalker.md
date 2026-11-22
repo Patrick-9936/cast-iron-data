@@ -29,8 +29,6 @@ special_qualities = "rogue talents (finesse rogue, ledge walker, weapon training
 abilities = ["17", "20", "-", "13", "16", "16"]
 +++
 
-**Ghoul Stalker**
-
 **Challenge rating:** 6
 
 **Ghoul [rogue](ref/class/rogue) 6**

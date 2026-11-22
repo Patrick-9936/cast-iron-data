@@ -32,8 +32,6 @@ abilities = ["47", "21", "-", "6", "31", "40"]
 _Stony segments cover this towering colossus like armor plates. Though it looks lifeless, its four
 arms move with supple grace._
 
-**Agmazar the Star Titan**
-
 **Challenge rating:** 26
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (300 ft., DC 39), suffocation (60 ft.)

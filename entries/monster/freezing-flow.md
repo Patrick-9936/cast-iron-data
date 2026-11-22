@@ -31,8 +31,6 @@ abilities = ["18", "16", "20", "-", "1", "1"]
 
 _This transparent blue formation of ice is as forbidding as the serpent it resembles._
 
-**Freezing Flow**
-
 **Challenge rating:** 4
 
 **blindsense:** 60

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "1"
 +++
 
-**Tribe (Cannibal)**
-
 **Challenge rating:** 1
 
 **XP** 400\

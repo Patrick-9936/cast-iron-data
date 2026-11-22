@@ -32,8 +32,6 @@ abilities = ["25", "14", "16", "12", "17", "19"]
 _This creature has a long, sinuous, eel-like body but the scaly head of a crocodile with large,
 piercing blue eyes._
 
-**Taniwha**
-
 **Challenge rating:** 6
 
 **Alignment:** Chaotic good

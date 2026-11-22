@@ -31,8 +31,6 @@ abilities = ["46", "30", "33", "7", "25", "28"]
 _This gigantic, wingless, four-armed dragon has rivulets of bright red magma coursing through its
 serpentine body._
 
-**Tor Linnorm**
-
 **Challenge rating:** 21
 
 **Alignment:** Chaotic evil

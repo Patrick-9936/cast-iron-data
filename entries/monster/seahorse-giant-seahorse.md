@@ -30,8 +30,6 @@ abilities = ["20", "14", "17", "1", "12", "7"]
 _This sea creature resembles a cross between fish and horse; it has small fins on its flanks and a
 gracefully curled tail._
 
-**Giant Seahorse**
-
 **Challenge rating:** 3
 
 **Type:** animal

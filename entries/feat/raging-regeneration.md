@@ -19,8 +19,6 @@ benefit = "While you are raging, fire and acid damage don't make your regenerati
 normal = "Acid and fire damage cause your regeneration to stop functioning on the round following the attack."
 +++
 
-## Raging Regeneration (Combat)
-
 Your rage pushes your ability to regenerate beyond its normal limits.\
 **Prerequisites:** Rage class ability, [regeneration](ref/umr/regeneration),
 [troll](ref/monster/troll).\

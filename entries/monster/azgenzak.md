@@ -34,8 +34,6 @@ rounded subcutaneous masses churning within. One end opens into a yawning maw, r
 cauldron of innumerable, lidless eyeballs of every size, shape, and color, each wreathed in sooty
 orange flame._
 
-**Azgenzak**
-
 **Challenge rating:** 8
 
 **Type:** aberration

@@ -30,8 +30,6 @@ abilities = ["36", "26", "34", "25", "25", "31"]
 _This four-armed humanoid horror is garbed in golden armor and surrounded by a nimbus of floating,
 glowing weaponry._
 
-**Asurendra**
-
 **Challenge rating:** 20
 
 **aura:** dimensional lock (20 ft., enemies only), elusive (100 ft.)

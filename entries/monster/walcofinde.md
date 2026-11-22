@@ -30,8 +30,6 @@ abilities = ["14", "12", "-", "9", "13", "15"]
 _The torso of a humanoid figure with jagged claws extends outward from a wall, its features
 patterned with the texture of the structure around it._
 
-**Walcofinde**
-
 **Challenge rating:** 2
 
 **Initiative:** +5

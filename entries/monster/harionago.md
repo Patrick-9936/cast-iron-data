@@ -30,8 +30,6 @@ abilities = ["19", "20", "-", "15", "17", "22"]
 _This deathly pale beauty's skin is blemished with bruises and cuts, yet a smile shows behind her
 flowing tangle of hair._
 
-**Harionago**
-
 **Challenge rating:** 11
 
 **Initiative:** +9

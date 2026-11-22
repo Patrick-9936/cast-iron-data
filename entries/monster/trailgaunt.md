@@ -31,8 +31,6 @@ abilities = ["15", "6", "-", "7", "14", "19"]
 _This filthy, pallid figure lurches forward as if it were not entirely in control of its twitching
 limbs._
 
-**Trailgaunt**
-
 **Challenge rating:** 3
 
 **Initiative:** +2

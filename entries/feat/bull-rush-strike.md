@@ -21,8 +21,6 @@ normal = "You must perform a bull rush combat maneuver to bull rush an opponent.
 special = "You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll."
 +++
 
-## Bull Rush Strike (Combat)
-
 Your critical hits can push back your foes.\
 **Prerequisites:** Str 13, [Improved Bull Rush](ref/feat/improved-bull-rush),
 [Power Attack](ref/feat/power-attack), base attack bonus +9.\

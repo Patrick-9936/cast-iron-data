@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Julunggali Venom"
 source_ids = ["bestiary-4"]
 parent = "ref/monster/julunggali-mythic"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "julunggali_mythic|affliction:julunggali-venom", path = "json/monsters_mythic2.json" },
 ]

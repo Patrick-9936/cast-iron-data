@@ -31,8 +31,6 @@ abilities = ["13", "14", "15", "6", "9", "6"]
 _This creature looks like a lanky, underfed troll. Its oversized claws drag along the ground, and
 its large eyes glow with inner light._
 
-**Sewer Troll**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic evil

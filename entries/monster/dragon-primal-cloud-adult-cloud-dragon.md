@@ -29,8 +29,6 @@ special_qualities = "cloud form (16 rounds/day)"
 abilities = ["24", "9", "21", "16", "20", "19"]
 +++
 
-**Adult Cloud Dragon**
-
 **Challenge rating:** 13
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (180 ft., DC 22)

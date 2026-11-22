@@ -31,8 +31,6 @@ abilities = ["1", "13", "10", "-", "10", "15"]
 _The spines of this sizable sea urchin bristle, revealing a strange, multipart beak gnashing in
 their midst._
 
-**Black Spot**
-
 **Challenge rating:** 1/2
 
 **Initiative:** +1

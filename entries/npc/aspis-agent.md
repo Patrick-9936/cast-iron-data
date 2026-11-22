@@ -18,8 +18,6 @@ cr = "4"
 _Richly attired in noble's garbs, this savvy man boasts a colorful cloak, a bulging coin purse, and
 a fine rapier at his side._
 
-**Aspis Agent**
-
 **Challenge rating:** 4
 
 **XP** 1,200\

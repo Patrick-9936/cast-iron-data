@@ -15,8 +15,6 @@ kind = "creature"
 cr = "17"
 +++
 
-**Grove Guardian**
-
 **Challenge rating:** 17
 
 **XP** 102,400\

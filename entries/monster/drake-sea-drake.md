@@ -32,8 +32,6 @@ abilities = ["23", "15", "18", "8", "10", "9"]
 _Not quite sea serpent or dragon, this vicious beast is covered with shiny blue-green scales. Its
 arms serve as both wings and flippers._
 
-**Sea Drake**
-
 **Challenge rating:** 6
 
 **Type:** dragon

@@ -18,8 +18,6 @@ prerequisites = "Caster level 3rd."
 benefit = "You can create a wide variety of magic wondrous items. Crafting a wondrous item takes 1 day for each 1,000 gp in its price. To create a wondrous item, you must use up raw materials costing half of its base price. See the magic item creation rules for more information."
 +++
 
-## Craft Wondrous Item (Item Creation)
-
 You can create wondrous items, a type of magic item.\
 **Prerequisites:** Caster level 3rd.\
 **Benefit:** You can create a wide variety of magic wondrous items. Crafting a wondrous item takes 1

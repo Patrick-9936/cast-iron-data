@@ -14,8 +14,6 @@ page = "120"
 kind = "none"
 +++
 
-**Barravoclair**
-
 **Sub:** The Lady of the Final Gasp
 
 ### Details

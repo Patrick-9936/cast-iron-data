@@ -30,8 +30,6 @@ abilities = ["15", "11", "14", "6", "9", "12"]
 
 _This large, regal canine looks like a juvenile mastiff. It has red fur and vibrant blue eyes._
 
-**Caypup**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic good

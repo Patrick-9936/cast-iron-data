@@ -33,8 +33,6 @@ abilities = ["47", "8", "27", "3", "16", "14"]
 _Two massive limbs drag the bulk of this whale-like beast's body from the churning waters of the
 sea._
 
-**Thalassic Behemoth**
-
 **Challenge rating:** 20
 
 **blindsense:** 60

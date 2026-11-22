@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You trained with blades for long hours as a youth, either taking lessons in the genteel
 art of fencing from tutors paid for by your parents or being taken under the wing of a
 disenfranchised fencer who may have turned to a life of crime.

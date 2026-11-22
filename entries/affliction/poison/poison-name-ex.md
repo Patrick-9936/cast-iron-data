@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Poison Name (Ex)"
 source_ids = ["bestiary-5"]
 parent = "ref/umr/poison"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "poison|affliction:poison-name-ex", path = "json/umr.json" },
 ]

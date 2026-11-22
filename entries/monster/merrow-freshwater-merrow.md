@@ -32,8 +32,6 @@ abilities = ["19", "18", "17", "6", "10", "7"]
 _This giant has pale green, scaled skin and large, webbed hands and feet. On either side of its neck
 are slotted gills._
 
-**Freshwater Merrow**
-
 **Challenge rating:** 3
 
 **Type:** humanoid

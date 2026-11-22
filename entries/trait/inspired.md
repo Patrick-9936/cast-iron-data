@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** A positive force, philosophy, or divine presence fills you with hope, and is a guiding
 force of inspiration.
 

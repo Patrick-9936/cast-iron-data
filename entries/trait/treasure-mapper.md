@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mediogalti
 
 **Flavor:** You've spent a great deal of time hunting down and following treasure maps - most false,

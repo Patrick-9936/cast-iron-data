@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Calistria](ref/faith/calistria)
 
 **Flavor:** You worked in one of Calistria's temples as a sacred courtesan, and you know how to

@@ -20,8 +20,6 @@ benefit = "While you are using Blood Frenzy Style, you gain a +2 bonus to your S
 special = "You can enter Blood Frenzy Style only as an immediate action when you take damage. You cannot enter this style as a swift action, as with other style feats."
 +++
 
-## Blood Frenzy Style (Combat, Style)
-
 You have learned to turn your pain into power, whipping yourself into a blood frenzy whenever you
 take damage.\
 **Prerequisites:** Str 13, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), base attack

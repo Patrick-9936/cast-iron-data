@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your connection with the river and its tributaries has blended with your reverence for
 the gods of the river passages so much so that you seem divinely blessed while plying river waters.
 

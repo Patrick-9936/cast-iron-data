@@ -20,8 +20,6 @@ benefit = "When using the Step Up or Following Step feats to follow an adjacent 
 normal = "You can usually only take one standard action and one 5-foot step each round."
 +++
 
-## Step Up and Strike (Combat)
-
 When a foe tries to move away, you can follow and make an attack.\
 **Prerequisites:** Dex 13, [Following Step](ref/feat/following-step), [Step Up](ref/feat/step-up),
 base attack bonus +6.\

@@ -31,8 +31,6 @@ abilities = ["21", "13", "18", "10", "11", "14"]
 _This burly, primitive-looking creature has an ape-like upper body, demonic horns, cloven hooves,
 and skin the color of a snow-buried corpse._
 
-**Andrazku**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

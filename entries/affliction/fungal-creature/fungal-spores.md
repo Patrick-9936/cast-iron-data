@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Fungal Spores"
 source_ids = ["bestiary-4"]
 parent = "ref/template/fungal-creature"
+tags = ["poison"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "fungal_creature|affliction:fungal-spores", path = "json/monster_template2.json" },
 ]

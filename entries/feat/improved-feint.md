@@ -20,8 +20,6 @@ benefit = "You can make a Bluff check to feint in combat as a move action."
 normal = "Feinting in combat is a standard action."
 +++
 
-## Improved Feint (Combat)
-
 You are skilled at fooling your opponents in combat.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise).\
 **Benefit:** You can make a Bluff check to [feint](ref/rule/feint) in combat as a move action.\

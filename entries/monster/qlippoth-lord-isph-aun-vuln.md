@@ -30,8 +30,6 @@ abilities = ["-", "35", "38", "31", "28", "29"]
 _A cloud of smoke the size of a human condenses, forming a clot of tentacles and eyes surrounding a
 fanged mouth._
 
-**Isph-Aun-Vuln**
-
 **Challenge rating:** 25
 
 **aura:** cloak of chaos (DC 27)

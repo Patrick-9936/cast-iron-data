@@ -20,8 +20,6 @@ benefit = "You gain a +2 bonus on Sense Motive checks, and you can deal piercing
 normal = "An unarmed strike deals bludgeoning damage."
 +++
 
-## Snake Style (Combat, Style)
-
 You watch your foe's every movement and then punch through its defense.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), Acrobatics 1 rank,
 Sense Motive 3 ranks.\

@@ -30,8 +30,6 @@ abilities = ["17", "15", "16", "13", "17", "16"]
 _Piercing yellow eyes gaze from the mossy skull of this ivy-covered skeleton. Where bones should be,
 gnarled roots grow, and tangles of vines hang from its moldering chest like spilt viscera._
 
-**Boruta**
-
 **Challenge rating:** 9
 
 **Initiative:** +6

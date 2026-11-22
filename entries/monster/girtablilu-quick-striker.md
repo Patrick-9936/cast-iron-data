@@ -30,8 +30,6 @@ abilities = ["18", "23", "21", "14", "16", "13"]
 
 _Foul liquid drips in equal measure from this scorpion-woman's fearsome spear and tail stinger._
 
-**Quick Striker**
-
 **Challenge rating:** 12
 
 **Girtablilu [rogue](ref/class/rogue) ([scout](ref/arc-rogue/scout)) 8**

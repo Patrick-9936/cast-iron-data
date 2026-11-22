@@ -30,8 +30,6 @@ abilities = ["14", "17", "-", "15", "12", "6"]
 
 _Though obviously a wooden construct, this small, nimble creature moves fluidly and purposefully._
 
-**Wyrwood**
-
 **Challenge rating:** 1/2
 
 **Wyrwood [rogue](ref/class/rogue) 1**

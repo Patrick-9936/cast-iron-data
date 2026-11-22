@@ -32,8 +32,6 @@ _This winged abomination is a horrid mix of demonic and angelic features, as if 
 carelessly fused into one. Its fanged, inhuman face is frozen in permanent contempt, while a
 beautiful visage with an expression of horror bulges from the back of its skull._
 
-**Shachath**
-
 **Challenge rating:** 11
 
 **Alignment:** Chaotic evil

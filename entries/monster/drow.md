@@ -31,8 +31,6 @@ abilities = ["11", "15", "10", "10", "9", "10"]
 
 _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless._
 
-**Drow**
-
 **Challenge rating:** 1/3
 
 **Drow [warrior](ref/npcclass/warrior) 1**

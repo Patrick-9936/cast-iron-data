@@ -14,8 +14,6 @@ page = "120"
 kind = "none"
 +++
 
-**Fharaas**
-
 **Sub:** The Seer in Skin
 
 ### Details

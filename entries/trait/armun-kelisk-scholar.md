@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Plane of Air
 
 **Flavor:** During your time on the Plane of Air, you visited the libraries of Armun Kelisk

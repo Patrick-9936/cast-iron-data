@@ -30,8 +30,6 @@ abilities = ["15", "15", "11", "2", "12", "2"]
 _This slender red squid darts through the water with alacrity. Two large eyes stare from above the
 creature's tentacles._
 
-**Squid**
-
 **Challenge rating:** 1
 
 **Type:** animal

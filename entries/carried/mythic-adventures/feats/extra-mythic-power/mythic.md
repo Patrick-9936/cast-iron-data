@@ -15,14 +15,5 @@ feat_types = ["Mythic"]
 benefit = "You gain two extra uses of mythic power each day."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can store more mythic power than your tier would normally allow._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain two extra uses of mythic power each day.
-:::
+You can store more mythic power than your tier would normally allow.\
+**Benefit:** You gain two extra uses of mythic power each day.

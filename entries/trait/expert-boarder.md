@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Besmara](ref/faith/besmara)
 
 **Flavor:** Besmara rewards those who board other vessels and take what they want.

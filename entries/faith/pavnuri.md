@@ -17,8 +17,6 @@ page = "114"
 kind = "none"
 +++
 
-**Pavnuri**
-
 **Sub:** Lord of Nothing
 
 ### Details

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Averaka
 
 **Flavor:** You grew up constantly interacting with people who speak unfamiliar languages and have

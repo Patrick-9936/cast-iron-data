@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Vudrani
 
 **Flavor:** Your practice of the tenets of Vudrani martial arts has granted you a perfect balance

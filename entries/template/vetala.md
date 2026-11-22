@@ -14,8 +14,6 @@ page = "54"
 kind = "none"
 +++
 
-**Vetala**
-
 **Acquired:** present
 
 **Challenge rating:** +2

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You were guided to maturity by a trusted priest of an ecclesiastical tradition, who
 inspired you and made you understand that the authority exerted by a religious hierarchy is a
 blessing rather than a restriction, allowing the faithful to always feel confident in their

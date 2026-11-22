@@ -17,8 +17,6 @@ page = "27"
 kind = "none"
 +++
 
-**Vildeis**
-
 **Sub:** The Cardinal Martyr
 
 **Monster Link** [Vildeis](ref/monster/empyreal-lord-vildeis)

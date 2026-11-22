@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Multiple encounters with fell magic have left you wary.
 
 **Benefit:** You gain a +2 trait bonus on [Perception](ref/skill/perception) and

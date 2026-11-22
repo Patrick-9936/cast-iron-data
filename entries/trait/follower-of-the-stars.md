@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Desna](ref/faith/desna)
 
 **Benefit:** You gain a +4 trait bonus when using [Survival](ref/skill/survival) to navigate under

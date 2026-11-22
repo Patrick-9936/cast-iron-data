@@ -31,8 +31,6 @@ abilities = ["37", "10", "25", "1", "14", "2"]
 _This reptilian behemoth, a crocodile of monstrous proportions, is large enough to swallow a horse
 in one tremendous bite._
 
-**Dire Crocodile**
-
 **Challenge rating:** 9
 
 **Type:** animal

@@ -17,8 +17,6 @@ feat_types = ["Damnation"]
 benefit = "You cast spells with the evil descriptor with increased potency."
 +++
 
-## Maleficium (Damnation)
-
 You are a master of dark magic.\
 **Benefit:** You cast spells with the evil descriptor with increased potency.
 

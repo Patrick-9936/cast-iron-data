@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You've trained yourself to move in and out of undergrowth with ease.
 
 **Benefit:** The DCs of [Acrobatics](ref/skill/acrobatics) checks don't increase for you when you're

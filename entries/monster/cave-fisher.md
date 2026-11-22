@@ -30,8 +30,6 @@ abilities = ["17", "12", "17", "-", "10", "4"]
 _This man-sized, crab-like monstrosity clings tenaciously to the rough stone, its enormous pincers
 held out menacingly before it._
 
-**Cave Fisher**
-
 **Challenge rating:** 2
 
 **Initiative:** +1

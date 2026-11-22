@@ -30,8 +30,6 @@ abilities = ["3", "11", "12", "6", "11", "10"]
 _This finely crafted golden helm is decorated with intricate filigree, and flutters gracefully
 through the air on feathered wings._
 
-**Cassisian**
-
 **Challenge rating:** 2
 
 **aura:** lesser protective aura

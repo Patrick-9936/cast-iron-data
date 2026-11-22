@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/blind-fight", "ref/feat/combat-expertise"]
 benefit = "While you have concealment from an opponent, you gain a +2 bonus on attack and damage rolls against that opponent."
 +++
 
-## Moonlight Stalker (Combat)
-
 You are adept at using shadows to conceal your attacks.\
 **Prerequisites:** Int 13, [Blind-Fight](ref/feat/blind-fight),
 [Combat Expertise](ref/feat/combat-expertise), Bluff 3 ranks, [darkvision](ref/rule/darkvision) or

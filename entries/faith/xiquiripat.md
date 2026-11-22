@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Xiquiripat**
-
 **Sub:** The Flying Scab
 
 ### Details

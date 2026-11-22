@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Prerequisite:** Member of The [Bellflower Network](ref/rule/aff-antislavery)
 
 **Flavor:** You have escaped from so many dangerous situations in your life that you've gotten quite

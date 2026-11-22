@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** forest, jungle, or taiga
 
 **Flavor:** You are familiar with the primeval magic of forest-dwelling giants and have witnessed

@@ -15,8 +15,6 @@ kind = "creature"
 cr = "16"
 +++
 
-**Master Historian**
-
 **Challenge rating:** 16
 
 **XP** 76,800\

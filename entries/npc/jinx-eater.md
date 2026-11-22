@@ -18,8 +18,6 @@ cr = "2"
 _Black feathers cover this crow-headed swashbuckler, his hands and legs ending in powerful talons.
 He wields a long, curved sword and wears brightly colored studded leather armor._
 
-**Jinx Eater**
-
 **Challenge rating:** 2
 
 **XP** 600\

@@ -31,8 +31,6 @@ abilities = ["25", "17", "-", "-", "12", "1"]
 _This elegantly sculpted marble statue depicts a winged woman dressed in flowing robes, but with a
 raven's skull for a head._
 
-**Cryptguard**
-
 **Challenge rating:** 9
 
 **aura:** consecration (30 ft., DC 12)

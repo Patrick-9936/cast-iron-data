@@ -32,8 +32,6 @@ abilities = ["14", "15", "14", "10", "12", "10"]
 _This gillman's lean, athletic frame speaks to a life of hard work, but his keen eyes and appraising
 smirk suggest a sharp mind and daring nature._
 
-**Ship Scavenger**
-
 **Challenge rating:** 5
 
 **Gillman [ranger](ref/class/ranger) 6**

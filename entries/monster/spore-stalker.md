@@ -30,8 +30,6 @@ abilities = ["26", "16", "20", "7", "15", "9"]
 _This fungoid canine creature skitters forward on many segmented legs, a gurgling growl issuing from
 its fanged maw._
 
-**Spore Stalker**
-
 **Challenge rating:** 7
 
 **Initiative:** +7

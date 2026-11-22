@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have spent considerable time in arid wastelands where girtablilus and other venomous
 creatures are common, and you have built up a resistance to poison.
 

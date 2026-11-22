@@ -20,8 +20,6 @@ benefit = "When you use a full-attack action to make multiple ranged weapon atta
 special = "If the massive damage optional rule is being used, that rule applies if the total damage you deal with this feat is equal to or exceeds half the opponent's full normal hit points (minimum 50 points of damage)."
 +++
 
-## Clustered Shots (Combat)
-
 You take a moment to carefully aim your shots, causing them all to strike nearly the same spot.\
 **Prerequisites:** [Point-Blank Shot](ref/feat/point-blank-shot),
 [Precise Shot](ref/feat/precise-shot), base attack bonus +6.\

@@ -20,8 +20,6 @@ benefit = "Your projectile attacks take a -1 penalty per 5 feet of water between
 normal = "Projectile attacks underwater take a -2 penalty per 5 feet of water between the shooter and the target."
 +++
 
-## Aquadynamic Shot (Combat)
-
 You use projectiles and special trick shots that lose less accuracy when underwater.\
 **Prerequisites:** [Far Shot](ref/feat/far-shot), base attack bonus +4.\
 **Benefit:** Your projectile attacks take a -1 penalty per 5 feet of water between you and the

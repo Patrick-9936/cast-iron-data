@@ -29,8 +29,6 @@ abilities = ["6", "17", "-", "21", "20", "21"]
 _Glittering jewels encrust this leering skull as it floats up into the air on a swirling vortex of
 dust and shimmering magic._
 
-**Demilich**
-
 **Challenge rating:** 14
 
 **Initiative:** +7

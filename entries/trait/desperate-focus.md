@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You've often found yourself in situations where a lack of focus can lead to worse than a
 lost spell.
 

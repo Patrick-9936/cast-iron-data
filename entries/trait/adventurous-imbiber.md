@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Cayden Cailean](ref/faith/cayden-cailean)
 
 **Flavor:** You've never been afraid of good, strong drink, and that has prepared you for the perils

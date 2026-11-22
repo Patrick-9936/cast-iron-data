@@ -31,8 +31,6 @@ _This amorphous creature loosely resembles a cross between a large snake and an 
 oily skin, and parts of its very flesh blend seamlessly into the shadows. Its constantly moving,
 writhing form makes it difficult to identify from a distance._
 
-**Shadowgarm**
-
 **Challenge rating:** 2
 
 **Type:** aberration

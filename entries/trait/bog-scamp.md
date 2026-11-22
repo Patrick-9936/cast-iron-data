@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Black-scaled
 
 **Flavor:** You were raised in the sludgy swamps, and are used to moving through boggy terrain.

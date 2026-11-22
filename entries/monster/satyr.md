@@ -31,8 +31,6 @@ abilities = ["14", "15", "15", "12", "14", "19"]
 _This handsome, grinning man has the furry legs of a goat and a set of curling ram horns extending
 from his temples._
 
-**Satyr**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

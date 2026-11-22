@@ -33,8 +33,6 @@ sneer full of needle-thin teeth gleam from an unmistakably fiendish visage. A pa
 sprout from the back of the hairless humanoid form, fluttering silently like an assassin's cloak,
 while in one hand it clutches the twisted, dagger-like horn of some infernal terror._
 
-**Salikotal**
-
 **Challenge rating:** 7
 
 **Initiative:** +10

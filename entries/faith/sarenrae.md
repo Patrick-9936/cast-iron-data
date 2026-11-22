@@ -20,8 +20,6 @@ page = "80"
 kind = "none"
 +++
 
-**Sarenrae**
-
 **Sub:** The Dawnflower
 
 ### Details

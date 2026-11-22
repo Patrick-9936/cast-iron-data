@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Plane of Earth
 
 **Flavor:** Perhaps you worship the Elemental Lord of Earth, or perhaps you have gleaned your fated

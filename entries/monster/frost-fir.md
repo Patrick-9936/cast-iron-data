@@ -32,8 +32,6 @@ abilities = ["15", "10", "16", "11", "12", "9"]
 _The faint scent of pine sap accompanies this vaguely tree-shaped creature, which stands on two
 towering trunk-like legs. Its arms resemble the branches of a snow-laden conifer._
 
-**Frost Fir**
-
 **Challenge rating:** 1
 
 **Initiative:** +0

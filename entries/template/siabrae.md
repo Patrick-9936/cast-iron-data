@@ -14,8 +14,6 @@ page = "251"
 kind = "none"
 +++
 
-**Siabrae**
-
 **Acquired:** present
 
 **Challenge rating:** +2

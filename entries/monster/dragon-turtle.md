@@ -30,8 +30,6 @@ abilities = ["27", "10", "19", "12", "13", "12"]
 
 _This long-tailed aquatic beast resembles a massive snapping turtle with draconic features._
 
-**Dragon Turtle**
-
 **Challenge rating:** 9
 
 **Type:** dragon

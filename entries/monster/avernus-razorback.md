@@ -31,8 +31,6 @@ abilities = ["23", "8", "22", "3", "12", "9"]
 _The coarse, ebon fur of this massive boar is mottled with patches of crimson. Its eyes are blood
 red and its jagged tusks seem more like obsidian than bone._
 
-**Avernus Razorback**
-
 **Challenge rating:** 9
 
 **Initiative:** +3

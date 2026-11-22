@@ -32,8 +32,6 @@ abilities = ["27", "12", "19", "10", "12", "10"]
 _Soot, ash, and coal dust streak this giant's rust-colored skin. Her eyes hold a look of both
 determination and detachment._
 
-**Slag Giant**
-
 **Challenge rating:** 7
 
 **Type:** humanoid

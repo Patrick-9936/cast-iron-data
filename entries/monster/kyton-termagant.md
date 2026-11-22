@@ -30,8 +30,6 @@ abilities = ["28", "19", "30", "16", "25", "21"]
 _This hovering iron maiden heaves forth a monstrously pregnant mass of tortured limbs and raw
 tentacles._
 
-**Termagant**
-
 **Challenge rating:** 17
 
 **Initiative:** +8

@@ -17,8 +17,6 @@ page = "116"
 kind = "none"
 +++
 
-**Crocell**
-
 **Sub:** The Soothing Sin
 
 ### Details

@@ -14,8 +14,6 @@ page = "6"
 kind = "none"
 +++
 
-**Atropos**
-
 **Sub:** The Last Sister
 
 ### Details

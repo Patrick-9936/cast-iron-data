@@ -27,8 +27,6 @@ abilities = ["19", "14", "15", "6", "15", "10"]
 
 _A cold-eyed falcon's head and great wings adorn the body of this otherwise leonine creature._
 
-**Hieracosphinx**
-
 **Challenge rating:** 5
 
 **Alignment:** Chaotic evil

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Lashunta](ref/race/lashunta)
 
 **Flavor:** You helped maintain the interplanetary portals used for trade with other worlds.

@@ -31,8 +31,6 @@ abilities = ["16", "12", "19", "5", "12", "10"]
 _This monstrous crab-like creature hovers in midair, its three clawed tentacles snapping
 aggressively._
 
-**Lunarma**
-
 **Challenge rating:** 6
 
 **Type:** aberration

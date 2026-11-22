@@ -30,8 +30,6 @@ abilities = ["24", "17", "21", "15", "22", "20"]
 _At the core of this multi-limbed monstrosity of claws and blades struggles a glistening mass of
 veins, organs, and twisted flesh._
 
-**Interlocutor**
-
 **Challenge rating:** 12
 
 **Initiative:** +7

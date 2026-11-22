@@ -30,8 +30,6 @@ abilities = ["27", "10", "22", "1", "15", "10"]
 _This giant vermin waves two scything forelegs threateningly as hissing acid drips from its
 mandibles._
 
-**Ankhrav**
-
 **Challenge rating:** 9
 
 **Size:** huge

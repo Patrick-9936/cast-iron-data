@@ -33,8 +33,6 @@ abilities = ["13", "20", "18", "20", "19", "21"]
 _This small plant is shaped vaguely like a human with a rose blossom for a head and soft, petal-like
 wings fluttering from its shoulders._
 
-**Roseling**
-
 **Challenge rating:** 7
 
 **Initiative:** +9

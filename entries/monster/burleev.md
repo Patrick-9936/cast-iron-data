@@ -30,8 +30,6 @@ abilities = ["11", "10", "13", "10", "13", "16"]
 _This creature looks like a humanoid skeleton with a complete set of internal organs. A violet glow
 replaces its missing flesh._
 
-**Burleev**
-
 **Challenge rating:** 4
 
 **Initiative:** +4

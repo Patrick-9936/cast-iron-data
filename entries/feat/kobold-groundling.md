@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/kobold-style"]
 benefit = "Prone creatures are denied their Dexterity bonus to AC against your attacks."
 +++
 
-## Kobold Groundling (Combat)
-
 Your small size grants you superiority over grounded foes.\
 **Prerequisites:** [Combat Expertise](ref/feat/combat-expertise),
 [Kobold Style](ref/feat/kobold-style), Small size or smaller.\

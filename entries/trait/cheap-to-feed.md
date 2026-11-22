@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Halfling](ref/race/halfling)
 
 **Region:** Osirion or Varisia

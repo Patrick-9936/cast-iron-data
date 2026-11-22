@@ -18,8 +18,6 @@ cr = "7"
 _This human adventurer wears a long, light-colored leather coat, a wide-brimmed hat, and a belt that
 keeps her tools, sheathed weapons, and vials within easy reach._
 
-**Osirionologist**
-
 **Challenge rating:** 7
 
 **XP** 3,200\

@@ -20,8 +20,6 @@ page = "80"
 kind = "none"
 +++
 
-**Shelyn**
-
 **Sub:** The Eternal Rose
 
 ### Details

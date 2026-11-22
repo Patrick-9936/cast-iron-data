@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Paranoid parents or a military trainer taught you to keep vigilant for spies.
 
 **Benefit:** If you roll less than 10 on [Perception](ref/skill/perception) checks to see through

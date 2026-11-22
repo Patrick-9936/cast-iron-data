@@ -12,8 +12,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** You are particularly adept with your racial

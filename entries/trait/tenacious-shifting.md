@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You've discovered the secret of stable transmutations.
 
 **Benefit:** Any transmutation spell you cast upon yourself has its duration increased by 2 rounds.

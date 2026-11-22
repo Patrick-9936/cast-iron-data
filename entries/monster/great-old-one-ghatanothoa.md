@@ -31,8 +31,6 @@ abilities = ["52", "33", "43", "29", "32", "30"]
 _An insane tangle of eyes and mouths, arms and legs, tentacles and worse rises up upon itself, a
 mountain of madness come to life._
 
-**Ghatanothoa**
-
 **Challenge rating:** 29
 
 **Type:** aberration

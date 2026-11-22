@@ -31,8 +31,6 @@ abilities = ["24", "15", "-", "-", "10", "1"]
 _This towering creature appears to be made entirely of sand, with pockets of soft earth and rock
 reinforcing its tall, humanoid form._
 
-**Sand Golem**
-
 **Challenge rating:** 9
 
 **Type:** construct

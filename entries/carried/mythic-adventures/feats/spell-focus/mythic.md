@@ -20,28 +20,11 @@ benefit = "Choose a school of magic you already have Spell Focus in. The bonus t
 special = "You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Spell Focus feat."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your magical specialties are particularly effective._
-
-## Prerequisites {#prerequisites}
-
-_Spell Focus._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Choose a school of magic you already have Spell Focus in. The bonus to save DCs provided by Spell
-Focus and Greater Spell Focus for that school increases by 1. You can expend one use of mythic power
-as part of casting a spell from your chosen school to force any of the spell's targets to roll their
-saving throws twice, taking the lower result.
-:::
-
-## Special {#special}
-
-::: paragraph statline
-You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it
-applies to a different non-mythic Spell Focus feat.
-:::
+Your magical specialties are particularly effective.\
+**Prerequisites:** Spell Focus.\
+**Benefit:** Choose a school of magic you already have Spell Focus in. The bonus to save DCs
+provided by Spell Focus and Greater Spell Focus for that school increases by 1. You can expend one
+use of mythic power as part of casting a spell from your chosen school to force any of the spell's
+targets to roll their saving throws twice, taking the lower result.\
+**Special:** You can gain this feat multiple times. The effects do not stack. Each time you take
+this feat, it applies to a different non-mythic Spell Focus feat.

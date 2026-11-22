@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Howler Howl"
 source_ids = ["bestiary-2"]
 parent = "ref/monster/howler"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "howler|affliction:howler-howl", path = "json/monsters13.json" },
 ]

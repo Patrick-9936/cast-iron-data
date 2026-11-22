@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Catfolk](ref/race/catfolk)
 
 **Flavor:** You are able to learn information by bombarding others with questions that come across

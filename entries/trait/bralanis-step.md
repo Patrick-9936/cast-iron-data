@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Musetouched
 
 **Flavor:** Your ancestor was a [bralani](ref/monster/azata-bralani), an azata known for its untamed

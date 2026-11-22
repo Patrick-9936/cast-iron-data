@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Suli](ref/race/suli)
 
 **Flavor:** You traveled constantly in your youth, and were forced to practice making a good first

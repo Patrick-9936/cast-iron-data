@@ -18,8 +18,6 @@ prerequisites = "Dex 13, base attack bonus +11 or fighter level 8th, armor train
 benefit = "You add your armor's enhancement bonus as a bonus on your initiative checks."
 +++
 
-## Sprightly Armor (Armor Mastery, Combat)
-
 You make the most of your armor's magical capabilities.\
 **Prerequisites:** Dex 13, base attack bonus +11 or fighter level 8th, armor training class feature,
 proficiency with light armor.\

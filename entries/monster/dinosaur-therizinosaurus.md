@@ -28,8 +28,6 @@ abilities = ["30", "17", "20", "2", "15", "11"]
 
 _This feathered bipedal saurian looks somewhat comical - save for its outlandish sword-sized claws._
 
-**Therizinosaurus**
-
 **Challenge rating:** 10
 
 **Type:** animal

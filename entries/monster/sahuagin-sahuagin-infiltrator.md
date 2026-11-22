@@ -33,8 +33,6 @@ abilities = ["20", "16", "12", "14", "15", "11"]
 _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its
 piscine head features a toothy maw._
 
-**Sahuagin Infiltrator**
-
 **Challenge rating:** 7
 
 **Sahuagin [rogue](ref/class/rogue) 6**

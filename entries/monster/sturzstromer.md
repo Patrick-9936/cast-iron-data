@@ -33,8 +33,6 @@ abilities = ["18", "13", "27", "10", "22", "15"]
 _Stones jump and roll as if moved by an earthquake that affects nothing else around it. A wave of
 disturbed earth and rock follows behind them._
 
-**Sturzstromer**
-
 **Challenge rating:** 19
 
 **Alignment:** Chaotic neutral

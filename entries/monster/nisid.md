@@ -31,8 +31,6 @@ abilities = ["9", "16", "15", "13", "16", "18"]
 _This small, naked creature looks like a lithe halfling, but with long, tapered ears and tough,
 brown skin. His hair is unkempt and his flesh is weathered, but his large eyes glitter violet._
 
-**Nisid**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic good

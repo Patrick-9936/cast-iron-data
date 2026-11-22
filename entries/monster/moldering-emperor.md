@@ -35,8 +35,6 @@ abilities = ["32", "9", "28", "12", "15", "23"]
 _Once, perhaps, this monstrosity was an ancient neothelid, but centuries of exposure or
 experimentation with the black blood has perverted the beast into a terrible new form._
 
-**The Moldering Emperor**
-
 **Challenge rating:** 18
 
 **[Black-blooded](ref/template/black-blooded) [neothelid](ref/monster/neothelid)**

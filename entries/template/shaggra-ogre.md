@@ -14,8 +14,6 @@ page = "152"
 kind = "none"
 +++
 
-**Shaggra Ogre**
-
 **Challenge rating:** +1
 
 **Inherited:** present

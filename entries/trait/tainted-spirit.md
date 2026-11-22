@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** When you were a child, a parent or other person with authority over you made a minor
 pact with a fiend on your behalf, stealing some of your vitality in exchange for a minor boon.
 

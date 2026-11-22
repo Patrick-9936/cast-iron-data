@@ -29,8 +29,6 @@ abilities = ["19", "17", "18", "2", "12", "7"]
 _This four-armed, gorilla-like creature, covered with matted white fur, roars in rage as it rears up
 to its full, towering height._
 
-**Girallon**
-
 **Challenge rating:** 6
 
 **Initiative:** +7

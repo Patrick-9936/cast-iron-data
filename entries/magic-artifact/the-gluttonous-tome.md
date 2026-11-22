@@ -16,7 +16,7 @@ kind = "item"
 category = "Artifacts"
 price = "priceless"
 weight = "3 lbs. per section"
-slot = "held"
+slot = "none"
 aura = "overwhelming necromancy"
 caster_level = "20th"
 +++

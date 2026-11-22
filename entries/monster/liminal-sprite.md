@@ -31,8 +31,6 @@ abilities = ["8", "17", "14", "15", "12", "15"]
 _This creature resembles an elven courtier in miniature, dressed in the latest fashion and moth-like
 wings on its back._
 
-**Liminal Sprite**
-
 **Challenge rating:** 2
 
 **Alignment:** Chaotic neutral

@@ -20,8 +20,6 @@ benefit = "On your turn, you can perform a single reposition combat maneuver in 
 normal = "A reposition combat maneuver is a standard action."
 +++
 
-## Quick Reposition (Combat)
-
 Your opponent becomes an unwitting dance partner, following your lead while you fight.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Reposition](ref/feat/improved-reposition), base attack bonus +6.\

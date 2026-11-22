@@ -36,8 +36,6 @@ abilities = ["15", "18", "13", "10", "10", "6"]
 _This creature has the wide head and toothy mouth of a goblin, dappled green skin, simian hands and
 feet, and a rat-like tail._
 
-**Monkey Goblin**
-
 **Challenge rating:** 1/2
 
 **Monkey goblin [barbarian](ref/class/barbarian) 1**

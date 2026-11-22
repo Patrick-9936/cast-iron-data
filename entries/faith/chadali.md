@@ -17,8 +17,6 @@ page = "10"
 kind = "none"
 +++
 
-**Chadali**
-
 **Sub:** The Serendipitous Path
 
 ### Details

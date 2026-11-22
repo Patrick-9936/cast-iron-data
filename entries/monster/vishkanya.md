@@ -33,8 +33,6 @@ abilities = ["13", "17", "14", "8", "10", "12"]
 _This lithe woman wears loose-fitting robes and wields a cruel-looking blade. Her eyes are pure
 white orbs._
 
-**Vishkanya**
-
 **Challenge rating:** 1/2
 
 **Vishkanya [ninja](ref/class/ninja) 1**

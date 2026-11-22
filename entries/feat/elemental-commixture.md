@@ -19,8 +19,6 @@ benefit = "You and an ally within 30 feet who shares this feat can cast your spe
 special = "An inquisitor or any other character with the solo tactics class feature can use this teamwork feat without the aid of an ally. In order to do so, the character must be able to cast two qualifying spells within the same round, such as by using the Quicken Spell metamagic feat to cast one spell as a swift action or by using effects such as the time stop spell."
 +++
 
-## Elemental Commixture (Teamwork)
-
 You can combine your elemental spells with those of your allies to produce entirely new and
 synergistic magical effects.\
 **Prerequisites:** Caster level 1st.\

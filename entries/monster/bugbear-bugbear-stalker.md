@@ -32,8 +32,6 @@ abilities = ["16", "17", "15", "12", "14", "6"]
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with
 the thrill of the coming kill._
 
-**Bugbear Stalker**
-
 **Challenge rating:** 5
 
 **Bugbear [ranger](ref/class/ranger) 3**

@@ -31,8 +31,6 @@ abilities = ["18", "21", "18", "17", "14", "17"]
 _Two pairs of stretched and veiny leather wings adorn the back of this shrouded reptilian
 nightmare._
 
-**Dorvae**
-
 **Challenge rating:** 11
 
 **Initiative:** +5

@@ -30,8 +30,6 @@ special_qualities = "favored terrain (cold +2), hunter's bond (companions), trac
 abilities = ["31", "16", "22", "14", "16", "8"]
 +++
 
-**Frost Giant Elite Scout**
-
 **Challenge rating:** 13
 
 **[Frost giant](ref/monster/giant-frost-frost-giant) [ranger](ref/class/ranger) 4**

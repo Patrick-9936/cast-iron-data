@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dwarf](ref/race/dwarf); Pahmet
 
 **Flavor:** You were raised near the lair of a proud [sphinx](ref/family/sphinx). Well known for

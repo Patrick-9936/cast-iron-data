@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/elven-battle-style", "ref/feat/elven-battle-trai
 benefit = "While using Elven Battle Style, you can add your Intelligence modifier to that weapon's damage (instead of any other ability bonus or modifier you can add to your weapon damage). The weapon must be one appropriate for your size."
 +++
 
-## Elven Battle Focus (Combat)
-
 Your fighting style is enhanced by your keen intellect.\
 **Prerequisites:** Int 13, [Elven Battle Style](ref/feat/elven-battle-style),
 [Elven Battle Training](ref/feat/elven-battle-training), [Weapon Finesse](ref/feat/weapon-finesse),

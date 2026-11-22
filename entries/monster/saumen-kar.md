@@ -30,8 +30,6 @@ abilities = ["26", "15", "20", "11", "12", "11"]
 _This hulking humanoid's dense fur is scored with rune-shaped brands. Skin cracked and blackened by
 frostbite stretches taught over a misshapen skull crowned with a pair of ivory horns._
 
-**Saumen Kar**
-
 **Challenge rating:** 10
 
 **Alignment:** Chaotic neutral

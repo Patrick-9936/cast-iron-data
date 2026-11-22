@@ -20,8 +20,6 @@ page = "29"
 kind = "none"
 +++
 
-**Zura**
-
 **Sub:** The Vampire Queen
 
 ### Details

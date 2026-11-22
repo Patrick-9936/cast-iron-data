@@ -14,8 +14,6 @@ page = "422"
 kind = "none"
 +++
 
-**Empowered Disintegrate Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 16

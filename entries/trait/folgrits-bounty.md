@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Folgrit](ref/faith/folgrit)
 
 **Flavor:** You were taught to tend the sacred hearth-fire and cook nourishing meals as a child.

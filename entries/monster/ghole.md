@@ -31,8 +31,6 @@ abilities = ["25", "18", "21", "10", "17", "16"]
 _The hulking form has a long, vulture-like neck ending in a head with a disgusting, one-eyed
 visage._
 
-**Ghole**
-
 **Challenge rating:** 12
 
 **Initiative:** +8

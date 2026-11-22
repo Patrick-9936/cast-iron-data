@@ -31,8 +31,6 @@ abilities = ["16", "15", "-", "-", "12", "1"]
 _This jackal-headed, brightly painted clay statue animates and lurches forward, hefting a wickedly
 hooked sword._
 
-**Graven Guardian**
-
 **Challenge rating:** 5
 
 **Type:** construct

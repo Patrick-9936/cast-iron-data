@@ -20,8 +20,6 @@ page = "22"
 kind = "none"
 +++
 
-**Orcus**
-
 **Sub:** Prince of Undeath
 
 ### Details

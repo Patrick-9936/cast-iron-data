@@ -32,8 +32,6 @@ abilities = ["6", "15", "14", "6", "11", "15"]
 _This little plant man walks on legs like tangled vines and has a pumpkin carved with eyes and a
 mouth for a head._
 
-**Gourd Leshy**
-
 **Challenge rating:** 1
 
 **Initiative:** +2

@@ -34,8 +34,6 @@ abilities = ["27", "28", "30", "25", "22", "29"]
 _Impeccably dressed and bedecked in exotic jewelry, this fiend holds an ornate saber in its
 backward-facing hands._
 
-**Rakshasa Maharaja**
-
 **Challenge rating:** 20
 
 **Initiative:** +13

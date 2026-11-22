@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Angradd](ref/faith/angradd), [Gorum](ref/faith/gorum), [Torag](ref/faith/torag), or
 [Trudd](ref/faith/trudd)
 

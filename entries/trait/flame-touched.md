@@ -13,7 +13,5 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Benefit:** You share an affinity with elemental fire. You gain DR 1/- against creatures and
 attacks with the fire type.

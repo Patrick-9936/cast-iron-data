@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Gralton
 
 **Flavor:** Though forced to live in the River Kingdoms, you never forget you're a Galtan noble.

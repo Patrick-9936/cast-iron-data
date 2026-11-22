@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your curious mind figures out even the most complex problems.
 
 **Benefit:** Once per day when you make an Intelligence-based skill check or ability check, you can

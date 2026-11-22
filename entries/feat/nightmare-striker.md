@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-unarmed-strike", "ref/feat/nightmare-fi
 benefit = "While a *faerie fire* you have cast (not one cast from a spell completion or spell trigger item) outlines an opponent, the DC for that opponent to resist your Stunning Fist attempts increases by +2. If you hit an opponent with a Stunning Fist attempt, and that opponent fails her saving throw, you can render the target shaken for 1d2 rounds plus 1 round for every 5 by which the opponent failed her save."
 +++
 
-## Nightmare Striker (Combat)
-
 Your faerie fire not only illuminates your foes, but it also shows you their weaknesses.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Nightmare Fist](ref/feat/nightmare-fist), [Nightmare Weaver](ref/feat/nightmare-weaver),

@@ -30,8 +30,6 @@ special_qualities = "constitution dependent, fetish mask, hex scar, scarshield (
 abilities = ["12", "14", "16", "12", "12", "8"]
 +++
 
-**Orc Witch Doctor**
-
 **Challenge rating:** 8
 
 **Orc [witch](ref/class/witch) ([scarred witch doctor](ref/arc-witch/scarred-witch-doctor)) 9**

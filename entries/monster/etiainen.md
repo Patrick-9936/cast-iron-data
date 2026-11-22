@@ -31,8 +31,6 @@ abilities = ["-", "14", "12", "5", "11", "14"]
 
 _This vaguely humanoid-shaped roil of mist appears to be improbably solid._
 
-**Etiainen**
-
 **Challenge rating:** 1
 
 **Alignment:** Chaotic neutral

@@ -14,8 +14,6 @@ page = "73"
 kind = "none"
 +++
 
-**Hastur**
-
 **Sub:** The King in Yellow
 
 **Monster Link** [Hastur](ref/monster/great-old-one-hastur)

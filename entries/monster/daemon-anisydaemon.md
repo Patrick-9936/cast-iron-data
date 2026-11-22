@@ -33,8 +33,6 @@ _This fiend has pitch-black, rubbery skin pulled taut over an immense frame. Arm
 glistening claws hang past the creature's knees, and two constantly whispering mouths rest on its
 eyeless face._
 
-**Anisydaemon**
-
 **Challenge rating:** 13
 
 **aura:** worry (30 ft., DC 22)

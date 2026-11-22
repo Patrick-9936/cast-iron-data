@@ -31,8 +31,6 @@ abilities = ["34", "11", "26", "24", "19", "25"]
 _Two disgusting heads rise above this enormous mass of slime-drenched coils and slithering
 tentacles._
 
-**Neothelid Overlord**
-
 **Challenge rating:** 20
 
 **Type:** aberration

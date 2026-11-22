@@ -19,8 +19,6 @@ benefit = "Having a nemesis drives you to excel in training. For each new level 
 special = "Thwarting your plans becomes an all-consuming goal for your nemesis. Your nemesis gains a +2 bonus on attack rolls and damage rolls against you. Whatever you try to achieve, your nemesis seeks to tear down."
 +++
 
-## Nemesis (Story)
-
 A past enemy seeks your ruin.\
 **Prerequisites:** You must have at least one enemy who wishes to cause you great harm. If you have
 multiple enemies, the GM may keep the specific nemesis secret, or have many of your enemies work

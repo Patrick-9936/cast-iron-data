@@ -30,8 +30,6 @@ abilities = ["38", "21", "22", "3", "14", "19"]
 _Spiked clubs extend from each end of this six-legged fiend. A spiky growth sticks up from its back,
 and a mouth yawns in its belly._
 
-**Cataboligne**
-
 **Challenge rating:** 16
 
 **blindsight:** 120

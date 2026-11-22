@@ -30,8 +30,6 @@ abilities = ["40", "7", "24", "2", "11", "9"]
 _Plants and even trees grow atop the shell of this massive tortoise, which gazes about with dull,
 placid eyes._
 
-**Immense Tortoise**
-
 **Challenge rating:** 8
 
 **Type:** animal

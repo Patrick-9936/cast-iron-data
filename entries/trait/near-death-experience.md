@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Belkzen
 
 **Flavor:** You had a close brush with death that you survived only thanks to one of the witch

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have learned how to gain the respect of gnolls in your region, and you know
 something of their social structure.
 

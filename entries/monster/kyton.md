@@ -31,8 +31,6 @@ abilities = ["15", "17", "14", "11", "12", "12"]
 _Wickedly barbed chains adorn this lean figure, and gaps in the bindings reveal deathly pale flesh
 etched with jagged scars._
 
-**Kyton**
-
 **Challenge rating:** 6
 
 **Initiative:** +7

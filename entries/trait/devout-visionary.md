@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** As a child, you had a strange vision while suffering from a terrible illness, and only
 found your way back to the mundane world by following the call of a spiritual leader - perhaps a
 shaman's drum or a druid's lilting poetry. Since then, you have studied symbolism and dreams in the

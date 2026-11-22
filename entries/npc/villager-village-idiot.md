@@ -15,8 +15,6 @@ kind = "creature"
 cr = "1/3"
 +++
 
-**Villager (Village Idiot)**
-
 **Challenge rating:** 1/3
 
 **XP** 135\

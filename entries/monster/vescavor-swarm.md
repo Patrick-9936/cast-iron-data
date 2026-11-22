@@ -34,8 +34,6 @@ abilities = ["7", "17", "16", "4", "13", "12"]
 _With a gibbering chorus, hundreds of toothy insects swarm together, their heads nothing more than
 maws filled with a sickly green glow._
 
-**Vescavor Swarm**
-
 **Challenge rating:** 5
 
 **aura:** gibber (15 ft.)

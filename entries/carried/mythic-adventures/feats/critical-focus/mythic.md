@@ -19,21 +19,9 @@ prerequisites = "Critical Focus."
 benefit = "You automatically confirm critical threats against non-mythic opponents. In addition, when you threaten a critical hit against a creature wearing armor with the fortification special ability or similar effect, that creature must roll twice and take the worse result when determining critical hit negation."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your blows unerringly find your target's vital spots._
-
-## Prerequisites {#prerequisites}
-
-_Critical Focus._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You automatically confirm critical threats against non-mythic opponents. In addition, when you
-threaten a critical hit against a creature wearing armor with the
+Your blows unerringly find your target's vital spots.\
+**Prerequisites:** Critical Focus.\
+**Benefit:** You automatically confirm critical threats against non-mythic opponents. In addition,
+when you threaten a critical hit against a creature wearing armor with the
 _[fortification](ref/umr/fortification)_ special ability or similar effect, that creature must roll
 twice and take the worse result when determining critical hit negation.
-:::

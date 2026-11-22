@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mindspin Mountains
 
 **Flavor:** Everything has a price - and it's your job to know it.

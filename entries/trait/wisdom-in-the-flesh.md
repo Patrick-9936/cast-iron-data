@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Irori](ref/faith/irori)
 
 **Flavor:** Your hours of meditation on inner perfection and the nature of strength and speed allow

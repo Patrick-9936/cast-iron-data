@@ -17,8 +17,6 @@ feat_types = ["Damnation"]
 benefit = "Those who try to learn your true alignment find it hidden or receive a false result. Depending on the number of damnation feats you possess, spells or special abilities that would normally reveal your alignment return a vague or incorrect result. If this feat disguises your alignment, you can use either your true alignment or the false one when using magic items with alignment prerequisites."
 +++
 
-## Mask of Virtue (Damnation)
-
 Your alignment is known to you and you alone.\
 **Benefit:** Those who try to learn your true alignment find it hidden or receive a false result.
 Depending on the number of damnation feats you possess, spells or special abilities that would

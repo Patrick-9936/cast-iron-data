@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Vildeis](ref/faith/vildeis)
 
 **Flavor:** You are blind but trained by followers of Vildeis to sense your surroundings by sound

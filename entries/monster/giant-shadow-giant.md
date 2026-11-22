@@ -35,8 +35,6 @@ abilities = ["34", "15", "24", "10", "12", "15"]
 _This giant's skin is dead black, and it wears a gold-inlaid breastplate, a headdress, and armbands
 decorated with skulls._
 
-**Shadow Giant**
-
 **Challenge rating:** 13
 
 **Type:** humanoid

@@ -31,8 +31,6 @@ abilities = ["48", "37", "42", "3", "30", "29"]
 _This immense, fiery-orange serpent has three horned heads, a pair of draconic wings, and a long
 tail tipped with four bony spikes._
 
-**Varklops**
-
 **Challenge rating:** 30
 
 **Alignment:** Chaotic evil

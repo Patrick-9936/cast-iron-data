@@ -34,8 +34,6 @@ abilities = ["27", "15", "-", "12", "14", "1"]
 
 _This metallic creature has pincer-tipped arms, a single red eye, and an array of deadly armaments._
 
-**Myrmidon Robot**
-
 **Challenge rating:** 11
 
 **Type:** construct

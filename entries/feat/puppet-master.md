@@ -18,8 +18,6 @@ prerequisites = "You must have survived an encounter with a challenging foe with
 benefit = "If you succeed at a Diplomacy check to make a request of a creature by 5 or more, the DCs of additional requests you attempt increase by 1 per request, rather than 5."
 +++
 
-## Puppet Master (Story)
-
 You crave power you can wield without drawing attention to yourself.\
 **Prerequisites:** You must have survived an encounter with a challenging foe without suffering
 significant harm by striking a deal (regardless of whether the deal was with the challenging foe or

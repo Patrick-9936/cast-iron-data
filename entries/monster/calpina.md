@@ -33,8 +33,6 @@ abilities = ["10", "17", "14", "11", "12", "15"]
 _Membranous wings hold this insectile woman aloft. She has bright red eyes, and her sharp tongue
 resembles a proboscis._
 
-**Calpina**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic neutral

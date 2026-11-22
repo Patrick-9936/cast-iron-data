@@ -30,8 +30,6 @@ abilities = ["16", "19", "-", "17", "14", "18"]
 _Clad in the finest silks, this noblewoman has cheeks that are flush with vitality, though her eyes
 speak to great age and danger._
 
-**Baetriov**
-
 **Challenge rating:** 8
 
 **aura:** hemophile (30 ft.)

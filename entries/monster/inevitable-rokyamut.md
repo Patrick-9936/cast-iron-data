@@ -31,8 +31,6 @@ abilities = ["32", "11", "28", "19", "22", "23"]
 _Built of steel and clockwork, this massive figure has the lower body of an elephant and the upper
 body of a four-armed giant._
 
-**Rokyamut**
-
 **Challenge rating:** 19
 
 **aura:** shield of law (DC 24), unrelenting geometry (300 ft.)

@@ -14,8 +14,6 @@ page = "28"
 kind = "none"
 +++
 
-**Gnarled Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Varisian
 
 **Flavor:** You possess an intricate tattoo that proclaims your skill at your chosen vocation.

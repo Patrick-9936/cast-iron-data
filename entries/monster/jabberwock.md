@@ -33,8 +33,6 @@ abilities = ["37", "20", "33", "12", "29", "26"]
 _This dragon has a long neck and terrible claws. The beast shrieks and babbles, thrashing its tail
 and wings in a violent manner._
 
-**Jabberwock**
-
 **Challenge rating:** 23
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (120 ft., DC 31)

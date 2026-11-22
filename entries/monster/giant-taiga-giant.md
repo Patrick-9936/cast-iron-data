@@ -35,8 +35,6 @@ abilities = ["31", "14", "22", "12", "17", "15"]
 _This muscular giant has dark gray skin and fiery red hair. Its lower jaw bears sharp fangs, and it
 wields a huge, primitive spear._
 
-**Taiga Giant**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic neutral

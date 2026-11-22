@@ -19,20 +19,8 @@ prerequisites = "Improved Stonecunning."
 benefit = "You gain stone tell as a spell-like ability usable once per day with a caster level equal to twice your tier."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_If you listen close, you can hear the secrets of stone._
-
-## Prerequisites {#prerequisites}
-
-_Improved Stonecunning._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain _[stone tell](ref/spell/stone-tell)_ as a
+If you listen close, you can hear the secrets of stone.\
+**Prerequisites:** Improved Stonecunning.\
+**Benefit:** You gain _[stone tell](ref/spell/stone-tell)_ as a
 [spell-like ability](ref/umr/spell-like-abilities) usable once per day with a caster level equal to
 twice your tier.
-:::

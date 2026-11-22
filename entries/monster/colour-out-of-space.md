@@ -34,8 +34,6 @@ abilities = ["-", "26", "22", "19", "23", "23"]
 _An eerie radiance, a glow unlike anything else, fills the area, bringing with it a stifling sense
 of latent malignancy._
 
-**Colour Out of Space**
-
 **Challenge rating:** 10
 
 **aura:** lassitude (300 ft., DC 22)

@@ -30,8 +30,6 @@ special_qualities = "expert trainer +3, mount (giant dire boar), order of the li
 abilities = ["29", "11", "25", "12", "16", "17"]
 +++
 
-**Fire Giant Lieutenant**
-
 **Challenge rating:** 16
 
 **[Fire giant](ref/monster/giant-fire-fire-giant) [cavalier](ref/class/cavalier) 6**

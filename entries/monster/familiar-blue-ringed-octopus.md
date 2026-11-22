@@ -27,8 +27,6 @@ special_attacks = "poison"
 abilities = ["8", "21", "10", "2", "13", "3"]
 +++
 
-**Blue-Ringed Octopus**
-
 **Challenge rating:** 1/2
 
 **Type:** animal

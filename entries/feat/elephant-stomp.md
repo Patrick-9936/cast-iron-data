@@ -20,8 +20,6 @@ benefit = "When you overrun an opponent and your maneuver check exceeds your opp
 normal = "When your overrun maneuver check exceeds your opponent's CMD by 5 or more, you move through the target's space and she is knocked prone."
 +++
 
-## Elephant Stomp (Combat)
-
 You deliver a crushing blow to downed enemies.\
 **Prerequisites:** Str 13, [Power Attack](ref/feat/power-attack),
 [Improved Overrun](ref/feat/improved-overrun), base attack bonus +1.\

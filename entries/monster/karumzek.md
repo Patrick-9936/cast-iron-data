@@ -32,8 +32,6 @@ abilities = ["15", "14", "15", "8", "13", "10"]
 _This human-sized spider has a red eyes, spindly legs, and cloak-like folds of black flesh that
 obscure its head._
 
-**Karumzek**
-
 **Challenge rating:** 4
 
 **Initiative:** +6

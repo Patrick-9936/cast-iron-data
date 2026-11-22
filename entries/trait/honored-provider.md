@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Ghoran](ref/race/ghoran)
 
 **Flavor:** Nex depends upon the food produced by ghorans, and you inspire gratitude in creatures

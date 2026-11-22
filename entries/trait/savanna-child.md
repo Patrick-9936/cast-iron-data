@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Katapesh, plains
 
 **Flavor:** You were born and raised in central Katapesh, among the rolling savannahs that dominate

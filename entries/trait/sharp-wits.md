@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Vudrani
 
 **Flavor:** You were raised with a daily regimen to keep your mind sharp and your words fluid.

@@ -30,8 +30,6 @@ abilities = ["21", "16", "19", "14", "15", "14"]
 _This ray-like creature opens a toothy maw and leers with glaring red eyes. Behind it whips a
 menacing tail of segmented bone._
 
-**Cloaker**
-
 **Challenge rating:** 5
 
 **Type:** aberration

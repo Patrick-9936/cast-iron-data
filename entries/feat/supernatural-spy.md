@@ -18,8 +18,6 @@ prerequisites = "Alchemist discovery, arcane discovery, arcanist exploit, or mag
 benefit = "Treat your Intelligence, Wisdom, or Charisma score as 2 higher for the purpose of calculating the effects and save DCs of one of the following class features: alchemist discoveries, arcane discoveries, arcanist exploits, or magus arcana. You select both the ability score and class feature to be affected when you select this feat, and the choice cannot be changed. This increases the potency of the abilities but does not grant access to additional abilities."
 +++
 
-## Supernatural Spy (Story)
-
 Your familiarity with magic drives you to discover a great supernatural secret. You might work with
 an eldritch organization, which could be a school of magic such as the Arcanamirium or part of a
 government with strong ties to magic such as that of Irrisen, or you might attempt to keep your

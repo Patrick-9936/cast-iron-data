@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Frost Fangs Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 7

@@ -20,8 +20,6 @@ benefit = "Choose one condition imposed by the dirty trick combat maneuver, such
 special = "You can gain this feat multiple times. Each time you take the feat, it applies to a different condition."
 +++
 
-## Superior Dirty Trick (Combat)
-
 Your training in a particular dirty trick makes it especially effective.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Greater Dirty Trick](ref/feat/greater-dirty-trick),

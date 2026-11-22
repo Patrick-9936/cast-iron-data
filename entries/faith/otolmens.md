@@ -14,8 +14,6 @@ page = "14"
 kind = "none"
 +++
 
-**Otolmens**
-
 **Sub:** The Universal
 
 ### Details

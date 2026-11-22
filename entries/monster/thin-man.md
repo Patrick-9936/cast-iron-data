@@ -30,8 +30,6 @@ abilities = ["18", "16", "15", "8", "11", "9"]
 _The creature is unbelievably slender and has teeth filed to points. Its long, gangly arms end in
 hands with wickedly sharp nails._
 
-**Thin Man**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic neutral

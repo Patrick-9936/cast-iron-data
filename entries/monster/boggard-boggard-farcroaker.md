@@ -30,8 +30,6 @@ special_qualities = "bardic knowledge +1, hold breath, swamp stride, versatile p
 abilities = ["13", "11", "14", "12", "13", "14"]
 +++
 
-**Boggard Farcroaker**
-
 **Challenge rating:** 3
 
 **Boggard [bard](ref/class/bard) 2**

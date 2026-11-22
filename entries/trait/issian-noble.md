@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Brevoy
 
 **Flavor:** You are a scion of one of the warring noble houses of Brevoy, and are well versed in

@@ -20,8 +20,6 @@ benefit = "You can throw a single alchemical item as a full-attack action, incre
 special = "An alchemist can take this feat in place of an alchemist discovery. He does not need to meet its prerequisites. The alchemist uses his class level, rather than the base attack bonus granted by the alchemist class, to calculate his total base attack bonus for the purposes of determining the bonus granted by this feat."
 +++
 
-## Alchemical Strike (Combat)
-
 By focusing all your attention into a single attack, you vastly increase the effectiveness of thrown
 alchemical items.\
 **Prerequisites:** [Throw Anything](ref/feat/throw-anything), base attack bonus +6.\

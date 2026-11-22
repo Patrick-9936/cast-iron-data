@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Halfling](ref/race/halfling); Song-o
 
 **Flavor:** You are one of the few Song-o halflings to brave the world outside the Laughing Jungle.

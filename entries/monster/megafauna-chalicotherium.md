@@ -31,8 +31,6 @@ abilities = ["26", "11", "18", "2", "11", "5"]
 _This huge, rather slow-moving and sloth-like creature has long, clawed forelimbs and short rear
 legs._
 
-**Chalicotherium**
-
 **Challenge rating:** 6
 
 **Type:** animal

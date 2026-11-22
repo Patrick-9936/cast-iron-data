@@ -32,8 +32,6 @@ abilities = ["20", "16", "22", "9", "16", "12"]
 _An imposing wall of steel, corded muscle, and blood-stained banners, this centaur wields a lance
 and shield with the majesty and prowess of any human knight._
 
-**Centaur Charger**
-
 **Challenge rating:** 14
 
 **Centaur [cavalier](ref/class/cavalier) ([charger](ref/arc-cavalier/charger)) 11**

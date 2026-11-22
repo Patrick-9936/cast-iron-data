@@ -29,8 +29,6 @@ abilities = ["12", "21", "16", "15", "12", "21"]
 
 _This incredibly handsome man's pointed ears and otherworldly grace betray an inhuman beauty._
 
-**Gancanagh**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic good

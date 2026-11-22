@@ -29,8 +29,6 @@ abilities = ["-", "18", "15", "10", "15", "21"]
 
 _This indistinct figure suddenly takes on a nightmarish shape, not quite human or animal or fiend._
 
-**Animate Dream**
-
 **Challenge rating:** 8
 
 **Initiative:** +4

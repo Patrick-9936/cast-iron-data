@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); White-scaled
 
 **Flavor:** The perpetually chilly environment of your youth made you exceptionally resilient in

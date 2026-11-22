@@ -31,8 +31,6 @@ abilities = ["18", "31", "21", "13", "18", "16"]
 _This grotesque and malevolent creature appears to be a crushed ball of broken humanoid body parts
 spraying blood._
 
-**Lapsudaemon**
-
 **Challenge rating:** 14
 
 **aura:** [frightful presence](ref/umr/frightful-presence) (30 ft., DC 22)

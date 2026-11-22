@@ -27,8 +27,6 @@ abilities = ["34", "11", "22", "2", "17", "7"]
 
 _This stocky quadruped's lowered head puts its intimidating Y-shaped horn on full display._
 
-**Brontotherium**
-
 **Challenge rating:** 8
 
 **Type:** animal

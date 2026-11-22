@@ -19,8 +19,6 @@ benefit = "Your body, mind, or soul gains a benefit of some sort as a result of 
 special = "You can take this feat multiple times. Each time you do, you must select another plane for which you qualify. In cases where the specific effects of Planar Infusion are identical, the effects do not stack."
 +++
 
-## Planar Infusion (Conduit)
-
 After enduring hardship on another plane, your body, mind, and soul have become infused with that
 plane's power.\
 **Prerequisites:** You must spend a significant amount of time on a plane other than your home plane

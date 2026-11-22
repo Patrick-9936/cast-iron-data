@@ -34,8 +34,6 @@ abilities = ["34", "25", "30", "23", "25", "24"]
 
 _This ancient monstrosity has the torso of a massively muscled giant._
 
-**Nemesis Devil (Advodaza)**
-
 **Challenge rating:** 18
 
 **Size:** huge

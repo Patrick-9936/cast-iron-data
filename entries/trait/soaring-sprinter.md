@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** As a youth, you often leaped and ran at treacherous heights, either because it was the
 only place with enough freedom for you to play or because it was not a good idea to play any lower.
 

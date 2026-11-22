@@ -30,8 +30,6 @@ abilities = ["14", "21", "20", "13", "21", "16"]
 _All the skin has been scraped from this childlike humanoid's frame, revealing cords of gray
 musculature. Its eyes burn with a red glow._
 
-**Cantor**
-
 **Challenge rating:** 9
 
 **Initiative:** +9

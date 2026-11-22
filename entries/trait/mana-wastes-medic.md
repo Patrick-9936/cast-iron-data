@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mana Wastes
 
 **Flavor:** After witnessing a terrible disaster result from an attempt at magical healing in the

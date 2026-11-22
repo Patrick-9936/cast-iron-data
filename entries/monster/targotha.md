@@ -35,8 +35,6 @@ abilities = ["33", "13", "24", "2", "14", "13"]
 _This eyeless serpentine beast has a menacing mouth and sharp fins running down its long,
 deep-purple body._
 
-**Targotha**
-
 **Challenge rating:** 15
 
 **Type:** aberration

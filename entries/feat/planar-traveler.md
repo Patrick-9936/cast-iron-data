@@ -18,8 +18,6 @@ prerequisites = "You must be related to an outsider or have been born on a plane
 benefit = "You gain a +2 bonus on Survival checks when outside your home plane. You can identify portals and other planar connections as well as where they lead by sight or touch with a successful DC 20 Perception check."
 +++
 
-## Planar Traveler (Story)
-
 The confines of the Material Plane cannot sate your wanderlust, and you walk between alternate
 spheres of reality unhindered.\
 **Prerequisites:** You must be related to an outsider or have been born on a plane other than the

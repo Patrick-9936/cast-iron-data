@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Prerequisite:** [Kitharodian Academy](ref/rule/f-bards)
 
 **Flavor:** You are quick with your tongue and have always possessed the talent to quickly admonish

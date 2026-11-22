@@ -34,8 +34,6 @@ abilities = ["26", "19", "20", "15", "16", "17"]
 _This lumbering ape-like monster has blood-red fur, twisted horns, and a hideous fanged orifice set
 in the center of its chest._
 
-**Baregara**
-
 **Challenge rating:** 12
 
 **Alignment:** Chaotic evil

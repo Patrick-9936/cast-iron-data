@@ -20,8 +20,6 @@ benefit = "When you successfully reposition an opponent, if you attempt to repos
 normal = "You can't reposition a creature into a square that is occupied by a solid object or obstacle."
 +++
 
-## Domino Crash (Combat)
-
 You knock your opponents into each other, using one enemy to shove aside another.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Reposition](ref/feat/improved-reposition), [Whipcrack](ref/feat/whipcrack).\

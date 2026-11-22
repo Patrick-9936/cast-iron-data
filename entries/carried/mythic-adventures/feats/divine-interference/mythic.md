@@ -19,20 +19,8 @@ prerequisites = "Divine Interference."
 benefit = "When you use Divine Interference, the penalty on your opponent's attack roll is equal to twice the level of the spell sacrificed. You can expend one use of mythic power when you sacrifice the spell to increase the penalty to triple the level of the spell sacrificed."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your divine power thwarts enemies of your faith._
-
-## Prerequisites {#prerequisites}
-
-_Divine Interference._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When you use Divine Interference, the penalty on your opponent's attack roll is equal to twice the
-level of the spell sacrificed. You can expend one use of mythic power when you sacrifice the spell
-to increase the penalty to triple the level of the spell sacrificed.
-:::
+Your divine power thwarts enemies of your faith.\
+**Prerequisites:** Divine Interference.\
+**Benefit:** When you use Divine Interference, the penalty on your opponent's attack roll is equal
+to twice the level of the spell sacrificed. You can expend one use of mythic power when you
+sacrifice the spell to increase the penalty to triple the level of the spell sacrificed.

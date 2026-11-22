@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Kofusachi**
-
 **Sub:** The Laughing God
 
 ### Details

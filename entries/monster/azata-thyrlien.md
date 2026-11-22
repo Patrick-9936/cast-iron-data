@@ -31,8 +31,6 @@ abilities = ["9", "15", "12", "12", "15", "14"]
 _This fey-looking humanoid is colored in shades of gray. Its wings are decorated with colored motes
 resembling a starry night sky._
 
-**Thyrlien**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic good

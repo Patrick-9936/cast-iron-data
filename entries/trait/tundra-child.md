@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** tundra or other cold regions
 
 **Flavor:** You were born and raised in the cold wastes of the far north or far south, and are

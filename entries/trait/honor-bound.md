@@ -13,8 +13,6 @@ kind = "trait"
 category = "Family"
 +++
 
-**Type:** Family
-
 **Flavor:** The family's honor is tied to a shared goal binding you all together.
 
 **Benefit:** With the aid of the GM, choose a task that your family is bound to accomplish. Once per

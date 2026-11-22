@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 11 Arodus and 16 Rova
 
 **Flavor:** You are blessed by the beasts that trail the caravan, which represent protection in

@@ -33,8 +33,6 @@ abilities = ["10", "8", "16", "-", "5", "1"]
 _This enormous maggot has greasy, pale flesh and a dripping, circular mouth filled with tiny, sharp
 teeth._
 
-**Giant Maggot**
-
 **Challenge rating:** 1/2
 
 **Initiative:** -1

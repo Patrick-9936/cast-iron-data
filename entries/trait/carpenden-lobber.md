@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Carpenden
 
 **Flavor:** Your regular participation in the moonmelon festival has made you wickedly effective at

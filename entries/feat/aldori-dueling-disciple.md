@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/exotic-weapon-proficiency", "ref/feat/weapon-fin
 benefit = "You gain a +2 morale bonus on Intimidate checks to demoralize opponents, and the DC of any attempt to demoralize you increases by 2. When you're participating in a duel, these bonuses increase to +4."
 +++
 
-## Aldori Dueling Disciple (Combat)
-
 Your prowess in Aldori swordplay grants you bravado.\
 **Prerequisites:** [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency)
 ([Aldori dueling sword](ref/eq-weapon/aldori-dueling-sword)),

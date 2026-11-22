@@ -29,8 +29,6 @@ melee = "2 bites +7 (1d8+2), 2 talons +6 (1d6+2)"
 abilities = ["14", "15", "14", "2", "13", "11"]
 +++
 
-**Juvenile Rukh**
-
 **Challenge rating:** 3
 
 **Initiative:** +2

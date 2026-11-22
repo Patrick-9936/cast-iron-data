@@ -31,8 +31,6 @@ abilities = ["19", "15", "19", "6", "12", "10"]
 _This seething devil deftly wields a vicious, saw-toothed glaive, while below its toothy maw writhes
 a hideous, twitching beard._
 
-**Bearded Devil (Barbazu)**
-
 **Challenge rating:** 5
 
 **Initiative:** +6

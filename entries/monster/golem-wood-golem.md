@@ -29,8 +29,6 @@ abilities = ["18", "17", "-", "-", "17", "1"]
 
 _This human-sized automaton resembles a crude humanoid figure made of cast-off pieces of wood._
 
-**Wood Golem**
-
 **Challenge rating:** 6
 
 **Type:** construct

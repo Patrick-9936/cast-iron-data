@@ -18,8 +18,6 @@ prerequisites = "Mesmerist level 7th, painful stare class feature."
 benefit = "When you trigger your painful stare, the target must succeed at a Will save (DC = 10 + half your mesmerist level + your Charisma modifier) or be blinded for 1 round."
 +++
 
-## Blinding Stare (Combat, Stare)
-
 Your stare robs your foe of all sight.\
 **Prerequisites:** Mesmerist level 7th, painful stare class feature.\
 **Benefit:** When you trigger your painful stare, the target must succeed at a Will save (DC = 10 +

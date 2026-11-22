@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/deadhand-style", "ref/feat/improved-unarmed-stri
 benefit = "While using Deadhand Style, as long as you have at least 1 point in your ki pool, your bonus on saving throws against fear effects increases to +4, and the DC of Intimidate checks attempted against you increases by 8."
 +++
 
-## Deadhand Initiate (Combat)
-
 Your adulation of death not only shields you from your fears, it allows you to feed on them.\
 **Prerequisites:** Wis 19, [Deadhand Style](ref/feat/deadhand-style),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), Knowledge (religion) 6 ranks, ki pool

@@ -20,8 +20,6 @@ benefit = "Whenever you successfully grapple an opponent using the Snatch and Dr
 special = "While this feat is primarily taken by strix, other creatures with natural wings can also take them at the GM's discretion."
 +++
 
-## Fling (Combat)
-
 You can throw grappled enemies a short distance, turning them into makeshift missiles against their
 allies.\
 **Prerequisites:** [Flyby Attack](ref/feat/flyby-attack), [Powerful Wings](ref/feat/powerful-wings),

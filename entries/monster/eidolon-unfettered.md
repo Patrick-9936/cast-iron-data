@@ -30,8 +30,6 @@ abilities = ["16", "19", "14", "7", "10", "11"]
 
 _This bizarre amalgam of monstrous parts rampages forth, an eldritch rune seared upon its forehead._
 
-**Unfettered Eidolon**
-
 **Challenge rating:** 8
 
 **Alignment:** Chaotic neutral

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You were robbed at a young age by bullies, an experience that impressed upon you the
 importance of being able to hold on to whatever you cared to keep.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You are suspicious of those who lead spiritual lives and are quick to seek out the
 smallest hypocrisy in even the most pious individuals. Of course, you are also keenly aware of the
 power the faithful can draw from their worship, and you are stubbornly resistant to it.

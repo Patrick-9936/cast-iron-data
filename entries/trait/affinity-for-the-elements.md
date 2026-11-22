@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Elemental Lords
 
 **Benefit:** Add 1 to the DC of saving throws made to resist the effects of spells cast by you that

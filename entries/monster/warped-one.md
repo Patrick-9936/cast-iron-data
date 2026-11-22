@@ -31,8 +31,6 @@ abilities = ["22", "19", "20", "12", "5", "15"]
 _This insane, twisted, humanoid-shaped tangle of limbs and gnashing teeth thrashes and howls, all
 too eager to wreak havoc._
 
-**Warped One**
-
 **Challenge rating:** 8
 
 **aura:** warp field (30 ft.)

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Oread](ref/race/oread)
 
 **Flavor:** You are skilled at blending in with the desert terrain and attacking creatures as they

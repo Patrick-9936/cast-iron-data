@@ -31,8 +31,6 @@ abilities = ["34", "17", "26", "9", "14", "17"]
 _A massive draconic creature with a bird-like head dives from the sky, letting loose a piercing
 scream as it descends._
 
-**Kongamato**
-
 **Challenge rating:** 15
 
 **Type:** dragon

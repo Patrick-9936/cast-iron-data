@@ -14,8 +14,6 @@ page = "9"
 kind = "none"
 +++
 
-**Imot**
-
 **Sub:** The Symbol of Doom
 
 ### Details

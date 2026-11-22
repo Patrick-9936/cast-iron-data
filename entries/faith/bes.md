@@ -14,8 +14,6 @@ page = "67"
 kind = "none"
 +++
 
-**Bes**
-
 **Sub:** The Guardian Fool
 
 ### Details

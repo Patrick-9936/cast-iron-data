@@ -17,8 +17,6 @@ page = "118"
 kind = "none"
 +++
 
-**Sabnach**
-
 **Sub:** Forgemaster of the Living
 
 ### Details

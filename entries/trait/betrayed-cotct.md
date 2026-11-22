@@ -12,8 +12,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Curse of the Crimson Throne
 
 **Flavor:** You were hardly a model citizen as a child or young adult. Your reasons for turning to a

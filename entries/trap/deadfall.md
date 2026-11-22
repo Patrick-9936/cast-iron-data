@@ -14,8 +14,6 @@ page = "173"
 kind = "none"
 +++
 
-**Deadfall**
-
 **Type:** Mechanical
 
 **Challenge rating:** 5

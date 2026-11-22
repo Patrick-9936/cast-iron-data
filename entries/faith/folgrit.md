@@ -17,8 +17,6 @@ page = "29"
 kind = "none"
 +++
 
-**Folgrit**
-
 **Sub:** The Watchful Mother
 
 ### Details

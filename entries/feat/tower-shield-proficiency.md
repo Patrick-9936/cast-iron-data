@@ -21,8 +21,6 @@ normal = "A character using a shield with which he is not proficient takes the s
 special = "Fighters automatically have Tower Shield Proficiency as a bonus feat. They need not select it."
 +++
 
-## Tower Shield Proficiency (Combat)
-
 You are trained in how to properly use a tower shield.\
 **Prerequisites:** [Shield Proficiency](ref/feat/shield-proficiency).\
 **Benefit:** When you use a [tower shield](ref/eq-armor/tower-shield), the shield's armor check

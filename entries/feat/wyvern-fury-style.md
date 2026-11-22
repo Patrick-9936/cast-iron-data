@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/exotic-weapon-proficiency"]
 benefit = "While using this style, you can make attacks with a dagger, punching dagger, scorpion whip, spiked gauntlet, or whip when using a flurry of blows or brawler's flurry. Only one of these attacks can be made with a whip or scorpion whip."
 +++
 
-## Wyvern Fury Style (Combat, Style)
-
 You can combine sweeping attacks with a whip and quick stabs with a blade, imitating a wyvern's
 powerful bite and tail tipped with a stinger.\
 **Prerequisites:** [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency) (whip),

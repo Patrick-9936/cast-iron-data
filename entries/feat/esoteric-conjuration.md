@@ -17,8 +17,6 @@ feat_types = ["Esoteric"]
 benefit = "When you cast a conjuration spell using prismatic sand as an esoteric material component, select one creature summoned, called, or moved from another plane by your spell. For 1 round, that creature hasn't fully phased onto the current plane, causing all attacks against it to suffer a 20% miss chance (attacks without attack rolls deal 20% less damage)."
 +++
 
-## Esoteric Conjuration (Esoteric)
-
 Prismatic sand refracts the spatial energies of your conjuration magic, creating a magical
 distortion.\
 **Benefit:** When you cast a conjuration spell using prismatic sand as an

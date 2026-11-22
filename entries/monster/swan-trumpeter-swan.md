@@ -29,8 +29,6 @@ abilities = ["10", "15", "12", "2", "13", "5"]
 _This large waterfowl has a wide wingspan, all-white feathers, a black bill, and a long, curving
 neck._
 
-**Trumpeter Swan**
-
 **Challenge rating:** 1/3
 
 **Type:** animal

@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Viridium Leprosy"
 source_ids = ["bestiary-6"]
 parent = "ref/monster/golem-viridium-golem"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "golem_viridium_golem|affliction:viridium-leprosy", path = "json/monsters33.json" },
 ]

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** For everything there is a price, and you are a negotiator at heart.
 
 **Benefit:** You gain a +2 trait bonus on [Diplomacy](ref/skill/diplomacy),

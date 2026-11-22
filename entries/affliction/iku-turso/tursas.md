@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Tursas"
 source_ids = ["bestiary-3"]
 parent = "ref/monster/iku-turso"
+tags = ["disease"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "iku_turso|affliction:tursas", path = "json/monsters14.json" },
 ]

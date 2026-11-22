@@ -35,8 +35,6 @@ abilities = ["-", "18", "-", "13", "15", "23"]
 _This horrific, ghostly skull's brain pulses within its cranium, the whorls and folds plainly
 visible through bone._
 
-**Psychic Stalker**
-
 **Challenge rating:** 7
 
 **aura:** [mental static](ref/umr/mental-static-aura) (30 ft., DC 20)

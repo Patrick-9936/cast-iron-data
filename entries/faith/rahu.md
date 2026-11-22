@@ -14,8 +14,6 @@ page = "110"
 kind = "none"
 +++
 
-**Rahu**
-
 **Sub:** The Sun Eater
 
 ### Details

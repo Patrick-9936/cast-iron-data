@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Nethys](ref/faith/nethys)
 
 **Flavor:** Your faith in magic allows you to reflexively use the energy of any spell effect

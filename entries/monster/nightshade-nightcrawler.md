@@ -29,8 +29,6 @@ abilities = ["41", "10", "-", "20", "21", "23"]
 _This immense worm is covered with plates of dead-black, chitinous armor. Its toothy maw yawns like
 a cave._
 
-**Nightcrawler**
-
 **Challenge rating:** 18
 
 **aura:** desecrating aura (30 ft.)

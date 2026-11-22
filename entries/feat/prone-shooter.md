@@ -18,8 +18,6 @@ prerequisites = "Base attack bonus +1."
 benefit = "If you have been prone since the end of your last turn, the penalty to your Armor Class against melee attacks made against you is reduced to -2. In addition, the bonus to your Armor Class against ranged attacks made against you is increased to +6."
 +++
 
-## Prone Shooter (Combat)
-
 Take a reduced penalty to your AC against melee attacks while prone\
 **Prerequisites:** Base attack bonus +1.\
 **Benefit:** If you have been [prone](ref/rule/prone) since the end of your last turn, the penalty

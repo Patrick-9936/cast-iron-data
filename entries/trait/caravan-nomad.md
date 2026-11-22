@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Kitsune](ref/race/kitsune)
 
 **Region:** Varisia

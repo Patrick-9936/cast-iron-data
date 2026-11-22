@@ -17,8 +17,6 @@ page = "12"
 kind = "none"
 +++
 
-**Falayna**
-
 **Sub:** Warrior's Ring
 
 ### Details

@@ -32,8 +32,6 @@ abilities = ["19", "14", "-", "-", "11", "1"]
 _This four-armed, human-sized clockwork construct balances on three legs that rise into a central
 body._
 
-**Clockwork Servant**
-
 **Challenge rating:** 2
 
 **Type:** construct

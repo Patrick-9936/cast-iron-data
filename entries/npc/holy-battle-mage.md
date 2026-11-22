@@ -15,8 +15,6 @@ kind = "creature"
 cr = "19"
 +++
 
-**Holy Battle Mage**
-
 **Challenge rating:** 19
 
 **XP** 204,800\

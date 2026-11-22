@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Drawing inspiration from the Cult of the Failed, you refuse to let setbacks stop you, no
 matter how disastrous.
 

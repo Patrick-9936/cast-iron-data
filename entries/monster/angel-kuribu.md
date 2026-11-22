@@ -30,8 +30,6 @@ abilities = ["10", "16", "12", "11", "13", "11"]
 _The skin of this halfling-sized, winged humanoid is as smooth as polished marble. It wields a bow
 and carries a quiver full of arrows on its back._
 
-**Kuribu**
-
 **Challenge rating:** 3
 
 **aura:** lesser protective aura

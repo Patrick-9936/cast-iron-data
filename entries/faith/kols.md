@@ -17,8 +17,6 @@ page = "29"
 kind = "none"
 +++
 
-**Kols**
-
 **Sub:** Oath-Keeper
 
 ### Details

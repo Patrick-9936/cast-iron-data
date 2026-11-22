@@ -29,8 +29,6 @@ abilities = ["4", "13", "11", "-", "10", "7"]
 
 _The cat-sized insect has a long, cigar-shaped body. Its spiny back legs are long and limber._
 
-**Sawleg Locust**
-
 **Challenge rating:** 1/4
 
 **Initiative:** +1

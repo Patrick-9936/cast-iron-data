@@ -17,8 +17,6 @@ page = "251"
 kind = "none"
 +++
 
-**Lich**
-
 **Acquired:** present
 
 **Challenge rating:** +2

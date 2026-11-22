@@ -14,8 +14,6 @@ page = "316"
 kind = "none"
 +++
 
-**Kitumu**
-
 **Sub:** Mother of Fireflies
 
 ### Details

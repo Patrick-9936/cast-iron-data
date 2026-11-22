@@ -31,8 +31,6 @@ abilities = ["22", "1", "18", "-", "1", "1"]
 
 _The facets of this crystalline formation shift and vibrate, as though in anticipation._
 
-**Carnivorous Crystal**
-
 **Challenge rating:** 11
 
 **aura:** subsonic hum (60 ft., DC 22)

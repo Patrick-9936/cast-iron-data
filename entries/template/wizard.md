@@ -14,8 +14,6 @@ page = "249"
 kind = "none"
 +++
 
-**Wizard**
-
 **Acquired:** present
 
 **Challenge rating:** +1 +2 or +3

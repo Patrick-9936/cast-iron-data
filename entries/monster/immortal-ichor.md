@@ -31,8 +31,6 @@ abilities = ["20", "17", "26", "21", "20", "21"]
 _This strange - almost beautiful - purple ooze thrums with powerful energy and glows with an eerie
 light._
 
-**Immortal Ichor**
-
 **Challenge rating:** 17
 
 **blindsense:** 60

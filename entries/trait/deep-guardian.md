@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Flavor:** The subtle power of the deep places of the world flows within you, and grants you

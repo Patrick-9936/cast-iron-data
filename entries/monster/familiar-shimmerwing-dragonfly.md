@@ -27,8 +27,6 @@ abilities = ["6", "14", "10", "-", "12", "9"]
 
 _This sizable insect has a slender body and two pairs of long, elegant, iridescent wings._
 
-**Shimmerwing Dragonfly**
-
 **Challenge rating:** 1/4
 
 **Initiative:** +2

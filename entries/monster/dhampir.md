@@ -30,8 +30,6 @@ abilities = ["13", "17", "10", "10", "8", "16"]
 _This unnaturally graceful man moves without a sound, his gaze just as piercing as the needle-sharp
 blade he effortlessly wields._
 
-**Dhampir**
-
 **Challenge rating:** 1/2
 
 **Dhampir [fighter](ref/class/fighter) 1**

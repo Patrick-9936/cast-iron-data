@@ -20,8 +20,6 @@ page = "81"
 kind = "none"
 +++
 
-**Zon-Kuthon**
-
 **Sub:** The Midnight Lord
 
 ### Details

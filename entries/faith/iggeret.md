@@ -14,8 +14,6 @@ page = "132"
 kind = "none"
 +++
 
-**Iggeret**
-
 **Sub:** She Who Was Lost
 
 ### Details

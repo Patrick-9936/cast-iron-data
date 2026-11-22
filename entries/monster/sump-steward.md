@@ -31,8 +31,6 @@ _This hunched giant has spindly limbs covered in moss and a riot of vines and mu
 It has two bright red mushrooms growing where its eyes should be, and it sports a long beard of
 woven grass._
 
-**Sump Steward**
-
 **Challenge rating:** 9
 
 **Initiative:** +6

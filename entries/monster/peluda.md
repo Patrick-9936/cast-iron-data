@@ -33,8 +33,6 @@ abilities = ["27", "12", "21", "6", "15", "12"]
 _This long-necked dragon has steamy breath, a lashing tail, and a back covered in hundreds of
 quills._
 
-**Peluda**
-
 **Challenge rating:** 10
 
 **Type:** dragon

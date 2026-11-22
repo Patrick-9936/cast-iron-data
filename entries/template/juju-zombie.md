@@ -17,8 +17,6 @@ page = "91"
 kind = "none"
 +++
 
-**JuJu Zombie**
-
 **Acquired:** present
 
 **Challenge rating:** +1

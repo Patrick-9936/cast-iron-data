@@ -20,8 +20,6 @@ benefit = "While you are using Shapeshifter Style, you gain a +2 bonus to your C
 special = "A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat's prerequisites."
 +++
 
-## Shapeshifter Twist (Combat)
-
 Your form flexes and contorts in unexpected ways, making it difficult for enemies to move you
 against your will.\
 **Prerequisites:** [Shapeshifter Style](ref/feat/shapeshifter-style), base attack bonus +5, change

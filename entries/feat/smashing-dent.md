@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-sunder", "ref/feat/smashing-crush", "re
 benefit = "While using Smashing Style, each time you damage a suit of armor with a sunder combat maneuver, you reduce its armor bonus to its Armor Class by 1 and increase its armor check penalty by 1. Armor cannot have its armor bonus to AC reduced to less than 50% of its normal bonus or its armor check penalty more than doubled. These reductions and increases both end when the damage dealt by the sunder is repaired."
 +++
 
-## Smashing Dent (Combat)
-
 Your hammer strikes cause traumatic injuries.\
 **Prerequisites:** Str 13, [Improved Sunder](ref/feat/improved-sunder),
 [Smashing Crush](ref/feat/smashing-crush), [Smashing Style](ref/feat/smashing-style),

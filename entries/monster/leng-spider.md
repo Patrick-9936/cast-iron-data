@@ -32,8 +32,6 @@ abilities = ["26", "29", "26", "21", "17", "22"]
 _This immense purple spider has a legspan of nearly forty feet and a hideously bloated body, yet
 still moves with fluid grace._
 
-**Leng Spider**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic evil

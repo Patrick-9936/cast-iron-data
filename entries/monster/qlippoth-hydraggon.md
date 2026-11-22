@@ -31,8 +31,6 @@ abilities = ["17", "10", "16", "10", "12", "16"]
 _This eel-like monstrosity has a gaping, fanged mouth from which lolls a long, red tongue split into
 three tendrils, two of which wield weapons._
 
-**Hydraggon**
-
 **Challenge rating:** 3
 
 **Alignment:** Chaotic evil

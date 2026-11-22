@@ -4,6 +4,7 @@ kind = "affliction"
 title = "Wendigo Psychosis (enhanced)"
 source_ids = ["pathfinder-109-in-search-of-sanity"]
 parent = "ref/monster/great-old-one-ithaqua"
+tags = ["curse"]
 provenance = [
   { dataset = "pathfinder-data-1-e", record = "great_old_one_ithaqua|affliction:wendigo-psychosis-enhanced", path = "json/monsters_unique2.json" },
 ]

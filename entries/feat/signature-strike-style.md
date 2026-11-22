@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-called-shot", "ref/feat/precise-shot", 
 benefit = "Each creature you hit using a called shot, the *targeted strike* swashbuckler deed, or the *targeting* gunslinger deed must succeed at a Will save or be shaken for 1d3 rounds (DC = 10 + half your character level + your Charisma modifier). You must be using this style and attacking with a weapon for which you have Weapon Focus to gain this benefit. This is a fear effect that doesn't stack with itself or with other fear effects. If a creature is already shaken and you make it shaken using this feat, the duration of the shaken condition is merely extended."
 +++
 
-## Signature Strike Style (Combat, Style)
-
 Your accuracy when attacking is both delightfully artistic and chillingly deadly.\
 **Prerequisites:** [Precise Shot](ref/feat/precise-shot); [Weapon Focus](ref/feat/weapon-focus);
 base attack bonus +7; Intimidate 7 ranks; [Improved Called Shot](ref/feat/improved-called-shot),

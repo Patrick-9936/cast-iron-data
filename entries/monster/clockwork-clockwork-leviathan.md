@@ -32,8 +32,6 @@ abilities = ["33", "18", "-", "-", "11", "1"]
 _Long and metallic, this serpentine construction resembles a mechanical eel with several paddle-like
 limbs._
 
-**Clockwork Leviathan**
-
 **Challenge rating:** 12
 
 **Type:** construct

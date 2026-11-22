@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** For a time during your childhood, you were left in the care of a juju oracle or wendifa,
 who saw your potential and taught you simple juju magic to influence the weakminded for brief
 periods of time.

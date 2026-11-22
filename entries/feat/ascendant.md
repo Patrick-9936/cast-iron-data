@@ -18,8 +18,6 @@ prerequisites = "You must have the Secret Shame drawback or the [Bastard Born](r
 benefit = "You and your apparent allies gain a +2 bonus on skill checks to gain influence or request a favor. This bonus no longer applies on checks against a person or organization once you fail a skill check to gain influence over or request a favor from that person or organization. Additionally, the DC of Sense Motive checks to get hunches about you and your apparent allies increases by 2."
 +++
 
-## Ascendant (Story)
-
 You seek unquestioning admiration and respect to escape from a shameful past.\
 **Prerequisites:** You must have the [Secret Shame](ref/trait/secret-shame) drawback or the
 [Bastard Born](ref/rule/birth-circumstances-and-more) background, and you must also have no publicly

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-two-weapon-fighting", "ref/feat/two-wea
 benefit = "You get a third attack with your off-hand weapon, albeit at a -10 penalty."
 +++
 
-## Greater Two-Weapon Fighting (Combat)
-
 You are incredibly skilled at fighting with two weapons at the same time.\
 **Prerequisites:** Dex 19, [Improved Two-Weapon Fighting](ref/feat/improved-two-weapon-fighting),
 [Two-Weapon Fighting](ref/feat/two-weapon-fighting), base attack bonus +11.\

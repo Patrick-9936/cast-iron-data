@@ -32,8 +32,6 @@ abilities = ["20", "14", "-", "-", "11", "1"]
 _Haphazard in its creation, this mechanical creature has the shape of a goblin wielding a
 dogslicer._
 
-**Clockwork Goblin**
-
 **Challenge rating:** 3
 
 **Type:** construct

@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/craft-magic-arms-and-armor", "ref/feat/gunsmithi
 benefit = "When you craft a firearm or magical firearm, you can use reinforced components to make the weapon more reliable. This increases the item's total construction cost by 10%. The misfire chance of the weapon is reduced by 1. This can never reduce a firearm's misfire chance by more than 1."
 +++
 
-## Create Enhanced Firearm (Item Creation)
-
 You can craft superior firearms.\
 **Prerequisites:** [Craft Magic Arms and Armor](ref/feat/craft-magic-arms-and-armor); Craft
 (weapons) 1 rank or [Gunsmithing](ref/feat/gunsmithing).\

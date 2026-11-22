@@ -30,8 +30,6 @@ abilities = ["22", "17", "18", "19", "20", "23"]
 _Within a swirl of light, a clump of brains wrapped in arcs of light pulses and throbs. The
 impression of an open eye floats before it._
 
-**Egregore**
-
 **Challenge rating:** 10
 
 **Type:** aberration

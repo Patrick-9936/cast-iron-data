@@ -33,8 +33,6 @@ abilities = ["16", "15", "16", "10", "12", "8"]
 _Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant
 eyes._
 
-**Hobgoblin Lieutenant**
-
 **Challenge rating:** 4
 
 **Hobgoblin [ranger](ref/class/ranger) 5**

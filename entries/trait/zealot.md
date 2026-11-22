@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Gnome](ref/race/gnome), you must match the alignment of your chosen deity exactly
 
 **Flavor:** You aren't just faithful to the worship of your patron deity - you are obsessively loyal

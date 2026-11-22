@@ -30,8 +30,6 @@ abilities = ["22", "18", "-", "1", "11", "5"]
 
 _An ape-like head with demonic features cast in black iron sits on six segmented mechanical legs._
 
-**Iron Sentinel**
-
 **Challenge rating:** 5
 
 **Type:** construct

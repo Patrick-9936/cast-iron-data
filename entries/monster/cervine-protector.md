@@ -28,8 +28,6 @@ special_qualities = "fertile regeneration"
 abilities = ["22", "15", "18", "12", "13", "11"]
 +++
 
-**Cervine Protector**
-
 **Challenge rating:** 6
 
 **Initiative:** +2

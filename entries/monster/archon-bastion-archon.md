@@ -32,8 +32,6 @@ abilities = ["34", "23", "35", "22", "25", "20"]
 _This massive, four-armed figure is protected by thick layers of rocky armor. Its face is a
 shimmering, pulsating globe of holy light._
 
-**Bastion Archon**
-
 **Challenge rating:** 20
 
 **aura:** aura of menace (DC 25), aura of mending (40 ft.)

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Worldwound
 
 **Flavor:** You have studied techniques designed to pierce magical protections, with the goal of

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Stories of the depredations present in the Darklands drive you to explore its shadowy
 depths and purge the corruption from within.
 

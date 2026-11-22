@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lirgen
 
 **Benefit:** Having spent your youth staring at the night sky, you gain a +1 trait bonus on

@@ -31,8 +31,6 @@ abilities = ["19", "21", "18", "18", "21", "18"]
 _This slim, glowing figure is draped with voluminous gossamer shawls and veils that obscure its
 shape._
 
-**Ember Weaver**
-
 **Challenge rating:** 8
 
 **aura:** eerie radiance (300 ft., DC 19)

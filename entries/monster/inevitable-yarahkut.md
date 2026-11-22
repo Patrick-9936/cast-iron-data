@@ -30,8 +30,6 @@ abilities = ["24", "23", "20", "13", "20", "19"]
 _Metallic plating and stone make up this creature's body. Sharpened brass wings stretch from its
 back, and its head bears three faces._
 
-**Yarahkut**
-
 **Challenge rating:** 14
 
 **aura:** malfunctioning (100 ft.)

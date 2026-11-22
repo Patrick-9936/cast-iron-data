@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Grundinnar](ref/faith/grundinnar)
 
 **Flavor:** Your tact soothes bristling tempers and cools heated blood.

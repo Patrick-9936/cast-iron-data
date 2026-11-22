@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Tianjing
 
 **Flavor:** Growing up, you were exposed to everyday miracles performed by your half-celestial

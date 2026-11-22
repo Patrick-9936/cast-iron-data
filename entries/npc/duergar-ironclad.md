@@ -17,8 +17,6 @@ cr = "10"
 
 _This bulky, gray-skinned dwarf is armored like a fortress._
 
-**Duergar Ironclad**
-
 **Challenge rating:** 10
 
 **XP** 9,600\

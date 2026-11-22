@@ -23,8 +23,6 @@ benefit = "A verdant spell affects plant creatures (even mindless plant creature
 normal = "Creatures of the plant type are immune to mind-affecting effects."
 +++
 
-## Verdant Spell (Metamagic)
-
 Your magical connection to nature allows you to entice, fool, and misdirect plants and fungi as
 though they were people.\
 **Prerequisites:** [Spell Focus](ref/feat/spell-focus) (enchantment), Knowledge (nature) 6 ranks.\

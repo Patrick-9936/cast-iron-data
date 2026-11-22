@@ -32,8 +32,6 @@ abilities = ["20", "14", "19", "9", "13", "16"]
 
 _Patches of fur adorn the sickly flesh of this gangly but muscular hyena-headed humanoid._
 
-**Yaenit**
-
 **Challenge rating:** 6
 
 **aura:** hallucinatory aura (20 ft., DC 17)

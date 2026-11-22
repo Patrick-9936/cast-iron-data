@@ -20,8 +20,6 @@ benefit = "When you score a critical hit, you can apply the effects of two criti
 normal = "You can only apply the effects of one critical feat to a given critical hit in addition to the damage dealt."
 +++
 
-## Critical Mastery (Combat, Critical)
-
 Your critical hits cause two additional effects.\
 **Prerequisites:** [Critical Focus](ref/feat/critical-focus), any two critical feats, 14th-level
 fighter.\

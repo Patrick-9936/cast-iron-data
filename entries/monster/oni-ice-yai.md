@@ -32,8 +32,6 @@ abilities = ["29", "14", "25", "12", "15", "18"]
 _This blue-skinned giant has three eyes, fangs, and claws. Its hair seems to be formed of delicate
 strands of ice._
 
-**Ice Yai**
-
 **Challenge rating:** 14
 
 **Alignment:** Chaotic evil

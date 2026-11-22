@@ -30,8 +30,6 @@ special_qualities = "fast movement, hold breath, swamp stride"
 abilities = ["24", "9", "22", "6", "13", "12"]
 +++
 
-**Boggard Scarred One**
-
 **Challenge rating:** 6
 
 **Boggard [barbarian](ref/class/barbarian) 4**

@@ -29,8 +29,6 @@ abilities = ["20", "13", "18", "9", "13", "10"]
 _This bear-sized wolf has white fur and a rime of frost around its muzzle. Its eyes are pale blue,
 almost white in color._
 
-**Winter Wolf**
-
 **Challenge rating:** 5
 
 **Initiative:** +5

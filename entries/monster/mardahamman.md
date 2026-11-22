@@ -33,8 +33,6 @@ abilities = ["23", "16", "21", "10", "11", "10"]
 _Attired in various hides and with pauldrons made from the tusks of a mammoth, this towering,
 one-eyed humanoid wields an equally massive flat club._
 
-**Mardahamman, Cyclops Tyrant**
-
 **Challenge rating:** 15
 
 **Male cyclops [fighter](ref/class/fighter) 10**

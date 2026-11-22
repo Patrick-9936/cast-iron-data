@@ -32,8 +32,6 @@ abilities = ["32", "25", "25", "6", "24", "17"]
 _This titanic mass of flesh is covered in razor-sharp scales and has bony wings, four taloned arms,
 and a toothy, toad-like head._
 
-**Squamous Demodand**
-
 **Challenge rating:** 20
 
 **blindsense:** 30

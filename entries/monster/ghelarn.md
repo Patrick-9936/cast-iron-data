@@ -31,8 +31,6 @@ abilities = ["17", "10", "16", "3", "14", "3"]
 _Purple tentacles emerge from a white, coral-like rock formation, tracing whirled patterns in the
 surrounding sand._
 
-**Ghelarn**
-
 **Challenge rating:** 2
 
 **Type:** aberration

@@ -32,8 +32,6 @@ abilities = ["12", "13", "15", "10", "12", "11"]
 _This dark-furred creature wielding a horn bow looks like a burly humanoid with the head and hooves
 of a mountain goat._
 
-**Skapraun**
-
 **Challenge rating:** 1
 
 **Type:** fey

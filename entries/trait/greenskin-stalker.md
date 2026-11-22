@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Isger, River Kingdoms, or Varisia
 
 **Flavor:** You're a member of the Greenskin Stalkers. Due to your affiliation with this brotherhood

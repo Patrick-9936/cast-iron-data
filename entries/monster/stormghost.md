@@ -34,8 +34,6 @@ abilities = ["27", "27", "24", "11", "14", "16"]
 _This menacing creature stands on four pointed legs like those of an insect. A conical head sits
 atop its humanoid torso._
 
-**Stormghost**
-
 **Challenge rating:** 15
 
 **aura:** static aura (5 ft., 2d6 electricity)

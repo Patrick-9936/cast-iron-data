@@ -17,8 +17,6 @@ page = "26"
 kind = "none"
 +++
 
-**Tolc**
-
 **Sub:** Snow-Strider
 
 ### Details

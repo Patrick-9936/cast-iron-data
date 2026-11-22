@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You wield the might of your faith with power and clarity.
 
 **Benefit:** Once per day as a **free action**, you may treat your caster level as if it were 2

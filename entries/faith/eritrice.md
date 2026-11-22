@@ -17,8 +17,6 @@ page = "12"
 kind = "none"
 +++
 
-**Eritrice**
-
 **Sub:** Heart-Speaker
 
 ### Details

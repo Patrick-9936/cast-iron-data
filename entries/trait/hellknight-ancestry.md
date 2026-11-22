@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** At least one of your parents was a [Hellknight](ref/rule/aff-lawknights), and you see
 the orders as the embodiment of civic virtue.
 

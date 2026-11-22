@@ -30,8 +30,6 @@ abilities = ["28", "16", "20", "7", "19", "23"]
 _Iridescent spines cover the back of this enormous, long-legged worm. Writhing tentacles sprout from
 its throat, below a circular, toothy maw dripping with luminescent spittle._
 
-**Shrike Worm**
-
 **Challenge rating:** 15
 
 **Type:** aberration

@@ -14,8 +14,6 @@ page = "234"
 kind = "none"
 +++
 
-**Dread Lord**
-
 **Acquired:** present
 
 **Challenge rating:** +1

@@ -29,8 +29,6 @@ abilities = ["25", "15", "17", "2", "12", "10"]
 _This immense spotted lion stands as tall as a man at the shoulder, its fur matted with the blood of
 its victims._
 
-**Dire Lion (Spotted Lion)**
-
 **Challenge rating:** 5
 
 **Type:** animal

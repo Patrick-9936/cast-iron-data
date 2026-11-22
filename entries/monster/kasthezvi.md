@@ -32,8 +32,6 @@ abilities = ["14", "19", "20", "17", "16", "17"]
 _Cracked skin stretches across the body of this gangly humanoid creature. A crown of bone floats
 above its grotesque, misshapen head and its mouth is open in a silent scream._
 
-**Kasthezvi**
-
 **Challenge rating:** 12
 
 **Type:** aberration

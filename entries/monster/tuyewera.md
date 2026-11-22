@@ -33,8 +33,6 @@ slip through hideous tears here and there. Its jaw distends and a long tongue wh
 a tentacle. Its legs have been severed at the knee, forcing it to scrabble forward on all fours like
 some deranged beast._
 
-**Tuyewera**
-
 **Challenge rating:** 4
 
 **Alignment:** Chaotic evil

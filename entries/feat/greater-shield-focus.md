@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/shield-focus", "ref/feat/shield-proficiency"]
 benefit = "Increase the AC bonus granted by any shield you are using by 1. This bonus stacks with the bonus granted by Shield Focus."
 +++
 
-## Greater Shield Focus (Combat)
-
 You are skilled at deflecting blows with your shield.\
 **Prerequisites:** [Shield Focus](ref/feat/shield-focus),
 [Shield Proficiency](ref/feat/shield-proficiency), base attack bonus +1, 8th-level fighter.\

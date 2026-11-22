@@ -14,8 +14,6 @@ page = "130"
 kind = "none"
 +++
 
-**Jyotah**
-
 **Sub:** He Who Walks Among the Gods
 
 ### Details

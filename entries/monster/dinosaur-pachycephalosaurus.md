@@ -28,8 +28,6 @@ abilities = ["22", "15", "17", "2", "12", "5"]
 
 _This bipedal reptile has a rounded, dome-like head adorned with bony frills and ridges._
 
-**Pachycephalosaurus**
-
 **Challenge rating:** 4
 
 **Type:** animal

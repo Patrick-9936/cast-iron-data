@@ -35,8 +35,6 @@ abilities = ["34", "19", "-", "-", "11", "1"]
 _Though made of thousands of metal parts, this masterpiece of gleaming metal glides through the air
 with impossible grace._
 
-**Clockwork Dragon**
-
 **Challenge rating:** 16
 
 **Type:** construct

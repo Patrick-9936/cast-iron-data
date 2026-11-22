@@ -31,8 +31,6 @@ abilities = ["35", "26", "37", "12", "26", "25"]
 _Crowned with a wicked array of twisted horns, this wide-mouthed, spherical behemoth stands on four
 stout legs._
 
-**Olethrodaemon**
-
 **Challenge rating:** 20
 
 **aura:** unholy aura

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Cayden Cailean](ref/faith/cayden-cailean)
 
 **Flavor:** Cayden Cailean's holy brews invigorate your mind, making you less susceptible to mental

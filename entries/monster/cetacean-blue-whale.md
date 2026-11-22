@@ -32,8 +32,6 @@ abilities = ["42", "8", "25", "2", "13", "6"]
 _This massive aquatic mammal has bluish-gray coloration, a wide fluke tail, and a wide mouth filled
 with layers of baleen._
 
-**Blue Whale**
-
 **Challenge rating:** 12
 
 **Type:** animal

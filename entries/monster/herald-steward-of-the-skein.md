@@ -34,8 +34,6 @@ abilities = ["25", "16", "20", "18", "21", "23"]
 _Skulls adorn the armor of this winged woman. Her helm reveals nothing of her features but a pair of
 glowing eyes._
 
-**Steward of the Skein**
-
 **Challenge rating:** 15
 
 **aura:** fate (20 ft.)
