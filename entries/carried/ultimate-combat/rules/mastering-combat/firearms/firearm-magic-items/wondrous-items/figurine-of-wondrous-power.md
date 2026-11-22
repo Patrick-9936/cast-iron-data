@@ -4,7 +4,6 @@ kind = "item"
 title = "Figurine of Wondrous Power"
 source_ids = ["ultimate-combat"]
 section = ["Rules", "Mastering Combat", "Firearms", "Firearm Magic Items", "Wondrous Items"]
-tags = ["none; price 10,000 gp; weight 1 lb."]
 provenance = [
   { dataset = "psrd-data", record = "pfsrd://Ultimate Combat/Rules/Mastering Combat/Firearms/Firearm Magic Items/Wondrous Items/Figurine of Wondrous Power", path = "ultimate_combat/item/figurine_of_wondrous_power.json" },
 ]
@@ -12,7 +11,7 @@ provenance = [
 [fields]
 kind = "item"
 category = "Wondrous Items"
-slot = "none; price 10,000 gp; weight 1 lb."
+slot = "none"
 aura = "moderate transmutation"
 caster_level = "11th"
 attributes = [
@@ -22,7 +21,9 @@ attributes = [
 +++
 
 ::: statblock
-Slot: none; price 10,000 gp; weight 1 lb.
+Slot: none
+Price: 10,000 gp
+Weight: 1 lb.
 Aura: moderate transmutation
 CL: 11th
 Construction\: Cost: 5,000 gp
