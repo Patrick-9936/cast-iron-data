@@ -19,21 +19,9 @@ prerequisites = "Undead Master."
 benefit = "When you cast animate dead or use the Command Undead feat, add your tier to your caster level when determining the number of Hit Dice of undead you animate. This stacks with the increased caster level of Undead Master. When you cast command undead, your duration is tripled rather than doubled."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Through your fearsome mythic nature, you have matchless power over the undead._
-
-## Prerequisites {#prerequisites}
-
-_Undead Master._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When you cast _[animate dead](ref/spell/animate-dead) _or use the Command Undead feat, add your tier
-to your caster level when determining the number of Hit Dice of undead you animate. This stacks with
-the increased caster level of Undead Master. When you cast
+Through your fearsome mythic nature, you have matchless power over the undead.\
+**Prerequisites:** Undead Master.\
+**Benefit:** When you cast _[animate dead](ref/spell/animate-dead) _or use the Command Undead feat,
+add your tier to your caster level when determining the number of Hit Dice of undead you animate.
+This stacks with the increased caster level of Undead Master. When you cast
 _[command undead](ref/spell/command-undead)_, your duration is tripled rather than doubled.
-:::

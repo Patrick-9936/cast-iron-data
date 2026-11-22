@@ -16,27 +16,13 @@ relations = [
 kind = "feat"
 feat_types = ["Mythic"]
 prerequisites = "Improved Overrun."
-benefit = "You gain a bonus equal to half your tier on checks to overrun, and to your CMD when an opponent tries to overrun you. These bonuses stack with those granted by Improved Overrun. Furthermore, you can make an attack of opportunity against any creature that attempts to overrun you, unless it also has this feat."
+benefit = "You gain a bonus equal to half your tier on checks to overrun, and to your CMD when an opponent tries to overrun you. These bonuses stack with those granted by Improved Overrun."
 +++
 
-::: statblock
-Type: Mythic
-:::
+You're an unstoppable force on the battlefield, able to run down lesser foes with ease.\
+**Prerequisites:** Improved Overrun.\
+**Benefit:** You gain a bonus equal to half your tier on checks to overrun, and to your CMD when an
+opponent tries to overrun you. These bonuses stack with those granted by Improved Overrun.
 
-_You're an unstoppable force on the battlefield, able to run down lesser foes with ease._
-
-## Prerequisites {#prerequisites}
-
-_Improved Overrun._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain a bonus equal to half your tier on checks to overrun, and to your CMD when an opponent
-tries to overrun you. These bonuses stack with those granted by Improved Overrun.
-:::
-
-::: paragraph statline
 Furthermore, you can make an attack of opportunity against any creature that attempts to overrun
 you, unless it also has this feat.
-:::

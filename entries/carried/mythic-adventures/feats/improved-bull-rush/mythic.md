@@ -16,27 +16,14 @@ relations = [
 kind = "feat"
 feat_types = ["Mythic"]
 prerequisites = "Improved Bull Rush."
-benefit = "You gain a bonus equal to half your tier on checks to bull rush, and to your CMD when an opponent bull rushes you. These bonuses stack with those granted by non-mythic Improved Bull Rush. Furthermore, you can make an attack of opportunity against any creature that attempts to bull rush you, unless it also has this feat."
+benefit = "You gain a bonus equal to half your tier on checks to bull rush, and to your CMD when an opponent bull rushes you. These bonuses stack with those granted by non-mythic Improved Bull Rush."
 +++
 
-::: statblock
-Type: Mythic
-:::
+You push foes around with amazing ease.\
+**Prerequisites:** Improved Bull Rush.\
+**Benefit:** You gain a bonus equal to half your tier on checks to bull rush, and to your CMD when
+an opponent bull rushes you. These bonuses stack with those granted by non-mythic Improved Bull
+Rush.
 
-_You push foes around with amazing ease._
-
-## Prerequisites {#prerequisites}
-
-_Improved Bull Rush._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain a bonus equal to half your tier on checks to bull rush, and to your CMD when an opponent
-bull rushes you. These bonuses stack with those granted by non-mythic Improved Bull Rush.
-:::
-
-::: paragraph statline
 Furthermore, you can make an attack of opportunity against any creature that attempts to bull rush
 you, unless it also has this feat.
-:::

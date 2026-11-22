@@ -16,27 +16,13 @@ relations = [
 kind = "feat"
 feat_types = ["Mythic"]
 prerequisites = "Improved Disarm."
-benefit = "You gain a bonus equal to half your tier on checks to disarm, and to your CMD when an opponent tries to disarm you. These bonuses stack with those granted by Improved Disarm. Furthermore, you can make an attack of opportunity against any creature that attempts to disarm you, unless it also has this feat."
+benefit = "You gain a bonus equal to half your tier on checks to disarm, and to your CMD when an opponent tries to disarm you. These bonuses stack with those granted by Improved Disarm."
 +++
 
-::: statblock
-Type: Mythic
-:::
+You're expert at knocking your enemies' weapons away.\
+**Prerequisites:** Improved Disarm.\
+**Benefit:** You gain a bonus equal to half your tier on checks to disarm, and to your CMD when an
+opponent tries to disarm you. These bonuses stack with those granted by Improved Disarm.
 
-_You're expert at knocking your enemies' weapons away._
-
-## Prerequisites {#prerequisites}
-
-_Improved Disarm._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain a bonus equal to half your tier on checks to disarm, and to your CMD when an opponent tries
-to disarm you. These bonuses stack with those granted by Improved Disarm.
-:::
-
-::: paragraph statline
 Furthermore, you can make an attack of opportunity against any creature that attempts to disarm you,
 unless it also has this feat.
-:::
