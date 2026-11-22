@@ -19,19 +19,7 @@ prerequisites = "Knockout Artist."
 benefit = "When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an opponent, roll d8s for each sneak attack die instead of d6s."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your knockout punches are truly mighty._
-
-## Prerequisites {#prerequisites}
-
-_Knockout Artist._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an opponent,
-roll d8s for each sneak attack die instead of d6s.
-:::
+Your knockout punches are truly mighty.\
+**Prerequisites:** Knockout Artist.\
+**Benefit:** When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an
+opponent, roll d8s for each sneak attack die instead of d6s.

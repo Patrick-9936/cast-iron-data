@@ -19,20 +19,9 @@ prerequisites = "Natural Spell."
 benefit = "When you're using wild shape, you can use spell completion and spell trigger magic items that were on your person when you changed form. You don't need to physically manipulate the items when you use them while using wild shape. Furthermore, you can speak normally when using wild shape."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can speak and use some magic items when you use wild shape._
-
-## Prerequisites {#prerequisites}
-
-_Natural Spell._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When you're using wild shape, you can use spell completion and spell trigger magic items that were
-on your person when you changed form. You don't need to physically manipulate the items when you use
-them while using wild shape. Furthermore, you can speak normally when using wild shape.
-:::
+You can speak and use some magic items when you use wild shape.\
+**Prerequisites:** Natural Spell.\
+**Benefit:** When you're using wild shape, you can use spell completion and spell trigger magic
+items that were on your person when you changed form. You don't need to physically manipulate the
+items when you use them while using wild shape. Furthermore, you can speak normally when using wild
+shape.

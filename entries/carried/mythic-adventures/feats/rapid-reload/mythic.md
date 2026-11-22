@@ -19,21 +19,9 @@ prerequisites = "Rapid Reload."
 benefit = "You gain the benefits of Rapid Reload with all crossbows and firearms, not just the one you originally chose when you gained that feat. As a swift action, you can expend one use of mythic power to gain the ability to reload crossbows and firearms without provoking attacks of opportunity for 1 minute."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can reload any type of weapon with astounding speed._
-
-## Prerequisites {#prerequisites}
-
-_Rapid Reload._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain the benefits of Rapid Reload with all crossbows and firearms, not just the one you
-originally chose when you gained that feat. As a swift action, you can expend one use of mythic
+You can reload any type of weapon with astounding speed.\
+**Prerequisites:** Rapid Reload.\
+**Benefit:** You gain the benefits of Rapid Reload with all crossbows and firearms, not just the one
+you originally chose when you gained that feat. As a swift action, you can expend one use of mythic
 power to gain the ability to reload crossbows and firearms without provoking attacks of opportunity
 for 1 minute.
-:::

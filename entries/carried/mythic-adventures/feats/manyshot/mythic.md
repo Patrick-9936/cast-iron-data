@@ -19,19 +19,7 @@ prerequisites = "Manyshot."
 benefit = "When making a full-attack action with a bow and using Manyshot, you fire two arrows with both your first and second attacks, instead of just your first attack."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can fire a barrage of arrows at your target with very little effort._
-
-## Prerequisites {#prerequisites}
-
-_Manyshot._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When making a full-attack action with a bow and using Manyshot, you fire two arrows with both your
-first and second attacks, instead of just your first attack.
-:::
+You can fire a barrage of arrows at your target with very little effort.\
+**Prerequisites:** Manyshot.\
+**Benefit:** When making a full-attack action with a bow and using Manyshot, you fire two arrows
+with both your first and second attacks, instead of just your first attack.

@@ -20,19 +20,7 @@ prerequisite_feats = ["ref/carried/mythic-adventures/feats/critical-focus/mythic
 benefit = "When using Critical Mastery, increase the number of critical feats you may apply by every 3 tiers that you possess."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your critical hits are versatile and devastating._
-
-## Prerequisites {#prerequisites}
-
-_Critical Focus (mythic), Critical Mastery._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When using Critical Mastery, increase the number of critical feats you may apply by every 3 tiers
-that you possess.
-:::
+Your critical hits are versatile and devastating.\
+**Prerequisites:** Critical Focus (mythic), Critical Mastery.\
+**Benefit:** When using Critical Mastery, increase the number of critical feats you may apply by
+every 3 tiers that you possess.

@@ -19,19 +19,8 @@ prerequisites = "Shatter Defenses."
 benefit = "An opponent you affect with Shatter Defenses is flat-footed to all attacks, not just yours."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your dazzling attacks leave your opponents flummoxed and bewildered, unable to attack you or to
-defend themselves effectively._
-
-## Prerequisites {#prerequisites}
-
-_Shatter Defenses._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-An opponent you affect with Shatter Defenses is flat-footed to all attacks, not just yours.
-:::
+Your dazzling attacks leave your opponents flummoxed and bewildered, unable to attack you or to
+defend themselves effectively.\
+**Prerequisites:** Shatter Defenses.\
+**Benefit:** An opponent you affect with Shatter Defenses is flat-footed to all attacks, not just
+yours.

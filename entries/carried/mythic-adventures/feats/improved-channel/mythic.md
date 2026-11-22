@@ -19,19 +19,7 @@ prerequisites = "Improved Channel."
 benefit = "Non-mythic creatures that take damage from your channel energy must roll their saving throws twice and take the lower result."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_As a divine conduit for energy, you're unmatched._
-
-## Prerequisites {#prerequisites}
-
-_Improved Channel._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Non-mythic creatures that take damage from your channel energy must roll their saving throws twice
-and take the lower result.
-:::
+As a divine conduit for energy, you're unmatched.\
+**Prerequisites:** Improved Channel.\
+**Benefit:** Non-mythic creatures that take damage from your channel energy must roll their saving
+throws twice and take the lower result.

@@ -19,20 +19,8 @@ prerequisites = "Catch Off-Guard."
 benefit = "The damage dealt when you use improvised weapons increases by your tier. You also gain a bonus to CMD equal to your tier when an opponent attempts to sunder or disarm an improvised weapon you're wielding."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_In your hands, anything is a deadly weapon._
-
-## Prerequisites {#prerequisites}
-
-_Catch Off-Guard._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-The damage dealt when you use improvised weapons increases by your tier. You also gain a bonus to
-CMD equal to your tier when an opponent attempts to sunder or disarm an improvised weapon you're
-wielding.
-:::
+In your hands, anything is a deadly weapon.\
+**Prerequisites:** Catch Off-Guard.\
+**Benefit:** The damage dealt when you use improvised weapons increases by your tier. You also gain
+a bonus to CMD equal to your tier when an opponent attempts to sunder or disarm an improvised weapon
+you're wielding.

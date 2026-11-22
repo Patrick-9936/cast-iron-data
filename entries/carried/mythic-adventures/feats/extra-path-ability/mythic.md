@@ -16,19 +16,7 @@ prerequisites = "3rd mythic tier."
 benefit = "Choose one mythic ability from your path or from the universal path abilities that you meet the prerequisites for. You gain that path ability."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can call upon mythic powers beyond those already invested in you._
-
-## Prerequisites {#prerequisites}
-
-_3rd mythic tier._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Choose one mythic ability from your path or from the universal path abilities that you meet the
-prerequisites for. You gain that path ability.
-:::
+You can call upon mythic powers beyond those already invested in you.\
+**Prerequisites:** 3rd mythic tier.\
+**Benefit:** Choose one mythic ability from your path or from the universal path abilities that you
+meet the prerequisites for. You gain that path ability.

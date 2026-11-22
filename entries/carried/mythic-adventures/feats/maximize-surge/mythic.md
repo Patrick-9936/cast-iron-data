@@ -17,25 +17,9 @@ benefit = "Once per day when you surge, you can expend two uses of mythic power 
 special = "You can take this feat multiple times. Each time you do, you gain an extra use of this feat per day."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_In times of dire need, you can burn your mythic power to ensure success._
-
-## Prerequisites {#prerequisites}
-
-_6th mythic tier._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Once per day when you surge, you can expend two uses of mythic power to treat your surge die as
-though it rolled the maximum result.
-:::
-
-## Special {#special}
-
-::: paragraph statline
-You can take this feat multiple times. Each time you do, you gain an extra use of this feat per day.
-:::
+In times of dire need, you can burn your mythic power to ensure success.\
+**Prerequisites:** 6th mythic tier.\
+**Benefit:** Once per day when you surge, you can expend two uses of mythic power to treat your
+surge die as though it rolled the maximum result.\
+**Special:** You can take this feat multiple times. Each time you do, you gain an extra use of this
+feat per day.

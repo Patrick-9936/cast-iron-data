@@ -19,22 +19,10 @@ prerequisites = "Death from Above."
 benefit = "Whenever you charge an opponent from higher ground, or from above while flying, the critical multiplier of your weapon increases by 2 (to a maximum of ×6). This doesn't stack with other abilities that increase a weapon's critical multiplier. If your charge attack hits, you can perform a trip combat maneuver against the attack's target as a free action without provoking attacks of opportunity."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_When attacking from the air or higher ground, you bear down on your enemy to deadly effect._
-
-## Prerequisites {#prerequisites}
-
-_Death from Above._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Whenever you charge an opponent from higher ground, or from above while flying, the critical
-multiplier of your weapon increases by 2 (to a maximum of ×6). This doesn't stack with other
-abilities that increase a weapon's critical multiplier. If your charge attack hits, you can perform
-a trip combat maneuver against the attack's target as a free action without provoking attacks of
-opportunity.
-:::
+When attacking from the air or higher ground, you bear down on your enemy to deadly effect.\
+**Prerequisites:** Death from Above.\
+**Benefit:** Whenever you charge an opponent from higher ground, or from above while flying, the
+critical multiplier of your weapon increases by 2 (to a maximum of ×6). This doesn't stack with
+other abilities that increase a weapon's critical multiplier. If your charge attack hits, you can
+perform a trip combat maneuver against the attack's target as a free action without provoking
+attacks of opportunity.

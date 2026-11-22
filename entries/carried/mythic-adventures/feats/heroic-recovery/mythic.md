@@ -19,19 +19,7 @@ prerequisites = "Heroic Recovery."
 benefit = "As a swift action, you can expend one use of mythic power to use Heroic Recovery additional times. Whenever you do, add your tier to the result of the Fortitude save."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can shrug off the effects of harmful conditions after they've taken effect._
-
-## Prerequisites {#prerequisites}
-
-_Heroic Recovery._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-As a swift action, you can expend one use of mythic power to use Heroic Recovery additional times.
-Whenever you do, add your tier to the result of the Fortitude save.
-:::
+You can shrug off the effects of harmful conditions after they've taken effect.\
+**Prerequisites:** Heroic Recovery.\
+**Benefit:** As a swift action, you can expend one use of mythic power to use Heroic Recovery
+additional times. Whenever you do, add your tier to the result of the Fortitude save.

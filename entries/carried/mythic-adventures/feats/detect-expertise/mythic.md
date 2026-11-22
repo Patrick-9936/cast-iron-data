@@ -19,20 +19,8 @@ prerequisites = "Detect Expertise."
 benefit = "You gain the benefit of Detect Expertise immediately (without needing to observe a creature for 3 rounds) when using the divinations listed in Detect Expertise. Non-mythic creatures cannot attempt a Will save to resist this effect."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can sense a creature's magical abilities with just a mere glance._
-
-## Prerequisites {#prerequisites}
-
-_Detect Expertise._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain the benefit of Detect Expertise immediately (without needing to observe a creature for 3
-rounds) when using the divinations listed in Detect Expertise. Non-mythic creatures cannot attempt a
-Will save to resist this effect.
-:::
+You can sense a creature's magical abilities with just a mere glance.\
+**Prerequisites:** Detect Expertise.\
+**Benefit:** You gain the benefit of Detect Expertise immediately (without needing to observe a
+creature for 3 rounds) when using the divinations listed in Detect Expertise. Non-mythic creatures
+cannot attempt a Will save to resist this effect.

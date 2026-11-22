@@ -19,19 +19,7 @@ prerequisites = "Accursed Hex."
 benefit = "When you use Accursed Hex to target a creature with one of your hexes a second time, that creature must roll its saving throw twice and take the lower result."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your hexes flare with persistent potency._
-
-## Prerequisites {#prerequisites}
-
-_Accursed Hex._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-When you use Accursed Hex to target a creature with one of your hexes a second time, that creature
-must roll its saving throw twice and take the lower result.
-:::
+Your hexes flare with persistent potency.\
+**Prerequisites:** Accursed Hex.\
+**Benefit:** When you use Accursed Hex to target a creature with one of your hexes a second time,
+that creature must roll its saving throw twice and take the lower result.

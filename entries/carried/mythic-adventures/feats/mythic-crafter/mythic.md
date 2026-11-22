@@ -16,19 +16,7 @@ prerequisites = "Any item creation feat."
 benefit = "You can create any mythic magic item for which you have the appropriate item creation feat. In addition, you gain a +5 bonus on skill checks when creating non-mythic magic items."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You can craft mythic magic items._
-
-## Prerequisites {#prerequisites}
-
-_Any item creation feat._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You can create any mythic magic item for which you have the appropriate item creation feat. In
-addition, you gain a +5 bonus on skill checks when creating non-mythic magic items.
-:::
+You can craft mythic magic items.\
+**Prerequisites:** Any item creation feat.\
+**Benefit:** You can create any mythic magic item for which you have the appropriate item creation
+feat. In addition, you gain a +5 bonus on skill checks when creating non-mythic magic items.

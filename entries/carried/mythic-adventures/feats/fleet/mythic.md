@@ -20,26 +20,9 @@ benefit = "Your base land speed increases by 5 feet, regardless of what armor yo
 special = "You can take this feat multiple times, but no more than the number of times you've taken non-mythic Fleet. The effects stack."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You're fantastically light on your feet._
-
-## Prerequisites {#prerequisites}
-
-_Fleet._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Your base land speed increases by 5 feet, regardless of what armor you wear or whether you're
-encumbered. This bonus stacks with the bonus gained from Fleet.
-:::
-
-## Special {#special}
-
-::: paragraph statline
-You can take this feat multiple times, but no more than the number of times you've taken non-mythic
-Fleet. The effects stack.
-:::
+You're fantastically light on your feet.\
+**Prerequisites:** Fleet.\
+**Benefit:** Your base land speed increases by 5 feet, regardless of what armor you wear or whether
+you're encumbered. This bonus stacks with the bonus gained from Fleet.\
+**Special:** You can take this feat multiple times, but no more than the number of times you've
+taken non-mythic Fleet. The effects stack.

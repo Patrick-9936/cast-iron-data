@@ -19,20 +19,8 @@ prerequisites = "Dastardly Finish."
 benefit = "You can deliver a coup de grace to dazed and staggered non-mythic opponents. In addition, when any creature makes a Fortitude saving throw to survive one of your coup de grace attempts, it takes a penalty to that saving throw equal to your tier."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_You strike downed, dazed, and staggered opponents with deadly efficiency._
-
-## Prerequisites {#prerequisites}
-
-_Dastardly Finish._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You can deliver a coup de grace to dazed and staggered non-mythic opponents. In addition, when any
-creature makes a Fortitude saving throw to survive one of your coup de grace attempts, it takes a
-penalty to that saving throw equal to your tier.
-:::
+You strike downed, dazed, and staggered opponents with deadly efficiency.\
+**Prerequisites:** Dastardly Finish.\
+**Benefit:** You can deliver a coup de grace to dazed and staggered non-mythic opponents. In
+addition, when any creature makes a Fortitude saving throw to survive one of your coup de grace
+attempts, it takes a penalty to that saving throw equal to your tier.

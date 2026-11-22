@@ -17,20 +17,8 @@ prerequisite_feats = ["ref/carried/mythic-adventures/feats/improved-unarmed-stri
 benefit = "Your unarmed strike deals damage as if you were one size category larger. You also gain a +1 bonus for each size category that your target is larger than you on the following: bull rush, drag, grapple, overrun, sunder, and trip combat maneuver checks and the DC of your Stunning Fist."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your fists can fell titanic foes._
-
-## Prerequisites {#prerequisites}
-
-_Improved Unarmed Strike (mythic)._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Your unarmed strike deals damage as if you were one size category larger. You also gain a +1 bonus
-for each size category that your target is larger than you on the following: bull rush, drag,
-grapple, overrun, sunder, and trip combat maneuver checks and the DC of your Stunning Fist.
-:::
+Your fists can fell titanic foes.\
+**Prerequisites:** Improved Unarmed Strike (mythic).\
+**Benefit:** Your unarmed strike deals damage as if you were one size category larger. You also gain
+a +1 bonus for each size category that your target is larger than you on the following: bull rush,
+drag, grapple, overrun, sunder, and trip combat maneuver checks and the DC of your Stunning Fist.

@@ -19,20 +19,8 @@ prerequisites = "Great Fortitude."
 benefit = "Whenever you roll a Fortitude saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Your fortitude is unmatched._
-
-## Prerequisites {#prerequisites}
-
-_Great Fortitude._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Whenever you roll a Fortitude saving throw against a spell,
+Your fortitude is unmatched.\
+**Prerequisites:** Great Fortitude.\
+**Benefit:** Whenever you roll a Fortitude saving throw against a spell,
 [spell-like ability](ref/umr/spell-like-abilities), or supernatural ability from a non-mythic
 source, roll twice and take the higher result.
-:::

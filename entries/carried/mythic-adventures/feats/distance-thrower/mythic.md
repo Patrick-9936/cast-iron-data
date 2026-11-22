@@ -19,18 +19,6 @@ prerequisites = "Str 17, Distance Thrower."
 benefit = "Thrown weapons wielded by you have twice their normal range."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_There's virtually no limit to your powerful throwing arm._
-
-## Prerequisites {#prerequisites}
-
-_Str 17, Distance Thrower._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-Thrown weapons wielded by you have twice their normal range.
-:::
+There's virtually no limit to your powerful throwing arm.\
+**Prerequisites:** Str 17, Distance Thrower.\
+**Benefit:** Thrown weapons wielded by you have twice their normal range.
