@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/blighted-critical"]
 benefit = "Whenever you apply a spellblight by way of the Blighted Critical or Greater Blighted Critical feat, you can choose the spellblight you apply rather than determining it randomly."
 +++
 
-## Blighted Critical Mastery (Critical)
-
 You control the type of spellblight your critical hits give your opponent.\
 **Prerequisites:** [Blighted Critical](ref/feat/blighted-critical), caster level 9th.\
 **Benefit:** Whenever you apply a spellblight by way of the Blighted Critical or

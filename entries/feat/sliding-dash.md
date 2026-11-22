@@ -19,8 +19,6 @@ benefit = "When charging, instead of moving to the closest space from which you 
 normal = "When charging, you must end the movement part of a charge in the closest space in which you can attack your target."
 +++
 
-## Sliding Dash (Combat)
-
 Your seemingly reckless advance becomes an agile strike at the last moment.\
 **Prerequisites:** Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Bluff 3 ranks.\
 **Benefit:** When [charging](ref/rule/charge), instead of moving to the closest space from which you

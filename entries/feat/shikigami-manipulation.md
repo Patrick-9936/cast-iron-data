@@ -24,8 +24,6 @@ benefit = "While using Shikigami Style, you can treat any magical item you're us
 special = "A character with this feat and Equipment Trick who uses magical equipment to perform a trick can add a bonus equal to the item's caster level divided by 4 (minimum +1) on skill or combat maneuver checks attempted as part of the trick."
 +++
 
-## Shikigami Manipulation (Combat)
-
 You channel a magic item's power to enhance its improvised attacks, even though it was never meant
 to be used as a weapon.\
 **Prerequisites:** [Catch Off-Guard](ref/feat/catch-off-guard) or

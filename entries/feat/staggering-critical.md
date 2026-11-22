@@ -20,8 +20,6 @@ benefit = "Whenever you score a critical hit, your opponent becomes staggered fo
 special = "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery."
 +++
 
-## Staggering Critical (Combat, Critical)
-
 Your critical hits cause opponents to slow down.\
 **Prerequisites:** [Critical Focus](ref/feat/critical-focus), base attack bonus +13.\
 **Benefit:** Whenever you score a critical hit, your opponent becomes

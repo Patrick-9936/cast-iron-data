@@ -19,8 +19,6 @@ benefit = "You can transfer a prepared spell to your familiar, allowing the fami
 special = "If you are a spontaneous caster, you must select a specific spell with which to imbue your familiar; you cannot imbue your familiar with an open spell slot."
 +++
 
-## Familiar Spell (Metamagic)
-
 You can imbue your familiar with a spell.\
 **Prerequisites:** Spellcaster with [familiar](ref/ability/familiars) class feature.\
 **Benefit:** You can transfer a prepared spell to your familiar, allowing the familiar to cast that

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-unarmed-strike", "ref/feat/gorgons-fist
 benefit = "Whenever you use the full-attack action and make at least one unarmed strike, you can make two additional unarmed strikes at your highest base attack bonus. These bonus attacks must be made against a dazed, flat-footed, paralyzed, staggered, stunned, or unconscious foe."
 +++
 
-## Medusa's Wrath (Combat)
-
 You can take advantage of your opponent's confusion, delivering multiple blows.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Gorgon's Fist](ref/feat/gorgons-fist), [Scorpion Style](ref/feat/scorpion-style), base attack bonus

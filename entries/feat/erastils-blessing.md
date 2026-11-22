@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/weapon-focus"]
 benefit = "You can use your Wisdom modifier instead of your Dexterity modifier on ranged attack rolls when using a bow."
 +++
 
-## Erastil's Blessing (Combat)
-
 Old Deadeye's favor grants you prowess with a bow that far exceeds your own physical capabilities.\
 **Prerequisites:** [Weapon Focus](ref/feat/weapon-focus) (longbow), must be a worshiper of
 [Erastil](ref/faith/erastil).\

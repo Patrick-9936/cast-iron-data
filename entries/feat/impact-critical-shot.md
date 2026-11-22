@@ -20,8 +20,6 @@ benefit = "Whenever you score a critical hit with a ranged attack, in addition t
 normal = "You must perform a bull rush combat maneuver to bull rush an opponent, and you must perform a trip combat maneuver to trip an opponent."
 +++
 
-## Impact Critical Shot (Combat, Critical)
-
 With a series of ranged attacks, you bring your foes to their knees or force them to move.\
 **Prerequisites:** Dex 13, [Point-Blank Shot](ref/feat/point-blank-shot), base attack bonus +9.\
 **Benefit:** Whenever you score a critical hit with a ranged attack, in addition to the normal

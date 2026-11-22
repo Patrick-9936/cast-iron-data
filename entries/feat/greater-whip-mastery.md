@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-whip-mastery", "ref/feat/whip-mastery"]
 benefit = "You are so quick with your whip that you never drop it due to a failed disarm or trip combat maneuver attempt. Further, you gain the ability to grapple using your whip. To do so, use the normal grapple rules with the following changes."
 +++
 
-## Greater Whip Mastery (Combat)
-
 You can use a whip to make combat maneuvers with ease.\
 **Prerequisites:** [Improved Whip Mastery](ref/feat/improved-whip-mastery),
 [Whip Mastery](ref/feat/whip-mastery), base attack bonus +8.\

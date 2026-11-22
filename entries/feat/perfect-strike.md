@@ -20,8 +20,6 @@ benefit = "You must declare that you are using this feat before you make your at
 special = "A weapon adept monk or zen archer monk receives Perfect Strike as a bonus feat at 1st level, even if he does not meet the prerequisites. A monk may attempt an perfect strike attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk."
 +++
 
-## Perfect Strike (Combat)
-
 When wielding a monk weapon, your attacks can be extremely precise.\
 **Prerequisites:** Dex 13, Wis 13, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), base
 attack bonus +8.\

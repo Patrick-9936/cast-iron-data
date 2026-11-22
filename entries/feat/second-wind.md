@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/endurance"]
 benefit = "When you spend a swift action to attempt a performance combat check, you gain a +2 bonus on your performance combat check, and if you are shaken, sickened, or fatigued, these conditions are suppressed until the end of your next turn."
 +++
 
-## Second Wind (Combat, Performance)
-
 The roar of the crowd strengthens your resolve.\
 **Prerequisites:** [Endurance](ref/feat/endurance).\
 **Benefit:** When you spend a swift action to attempt a

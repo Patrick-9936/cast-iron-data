@@ -20,8 +20,6 @@ benefit = "You still gain a buckler's bonus to AC even if you use your shield ha
 special = "A monk with this feat is not considered to be using a shield for the purposes of his AC bonus, fast movement, or flurry of blows."
 +++
 
-## Unhindering Shield (Combat, Shield Mastery)
-
 You are accustomed to fighting with your shield.\
 **Prerequisites:** [Shield Focus](ref/feat/shield-focus), base attack bonus +6 or fighter level 4th,
 proficiency with bucklers.\

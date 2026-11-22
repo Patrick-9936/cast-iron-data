@@ -18,8 +18,6 @@ prerequisites = "Knowledge (planes) 5 ranks."
 benefit = "As a standard action, you can call forth a tide of water that flows around your feet and enhances your speed, as per slipstream."
 +++
 
-## Tidal Swiftness (Conduit)
-
 A surge of churning, rushing water from the Plane of Water drives you swiftly across the ground,
 even in the most arid or frigid of regions. This magically conjured water does not last long once it
 surges to enhance your speed, but its appearance can certainly astound those unaccustomed to such

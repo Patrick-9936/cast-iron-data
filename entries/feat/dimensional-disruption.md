@@ -24,8 +24,6 @@ benefit = "When you use Dimensional Awareness to make an attack of opportunity a
 normal = "A summoning or calling spell can be disrupted only by a failed concentration check or by countering the spell."
 +++
 
-## Dimensional Disruption (Combat)
-
 You've become so adept at combating summoned creatures that you can interrupt the magical energies
 that summon them to your plane.\
 **Prerequisites:** [Arcane Strike](ref/feat/arcane-strike) or [Disruptive](ref/feat/disruptive);

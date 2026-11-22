@@ -19,8 +19,6 @@ benefit = "You gain a +2 bonus on Intimidate checks. If you have 10 or more rank
 special = "While a creature is shaken because you have demoralized it using the Intimidate skill, your attacks that deal damage to the creature also deal 1 point of bleed damage. Bleed damage from this ability does not stack with itself."
 +++
 
-## Embrace of the Dark Fey (Story)
-
 The blood of an evil fey ancestor in your veins lends you aggressive, often bloodthirsty impulses
 that you strive to keep under control.\
 **Prerequisites:** You must have an evil fey such as a [quickling](ref/monster/quickling) or

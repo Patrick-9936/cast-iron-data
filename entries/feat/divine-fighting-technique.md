@@ -22,8 +22,6 @@ benefit = "You can use your patron deity's fighting technique and receive any be
 special = "A cleric, inquisitor, or warpriest who worships a deity can choose to give up either the first power of one of her domains or a minor blessing benefit to gain access to her god's divine fighting technique without having to meet the technique's prerequisites (including the Divine Fighting Technique feat). In addition, a warpriest can give up a major blessing to gain the advanced benefit without meeting its prerequisites."
 +++
 
-## Divine Fighting Technique (Combat)
-
 You have trained in the divine fighting technique of a specific deity.\
 **Prerequisites:** Must worship a single patron deity that has an established divine fighting
 technique.\

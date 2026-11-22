@@ -20,8 +20,6 @@ benefit = "While you are using Shapeshifter Style, if you use your change shape 
 special = "A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat's prerequisites."
 +++
 
-## Shapeshifter Savage (Combat)
-
 You have enough control over your transformations that you can lash out at an opponent while
 assuming your alternate form.\
 **Prerequisites:** [Shapeshifter Style](ref/feat/shapeshifter-style),

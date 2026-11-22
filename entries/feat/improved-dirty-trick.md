@@ -20,8 +20,6 @@ benefit = "You do not provoke an attack of opportunity when performing a dirty t
 normal = "You provoke an attack of opportunity when performing a dirty trick combat maneuver."
 +++
 
-## Improved Dirty Trick (Combat)
-
 You are skilled at pulling dirty tricks on your foes.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise).\
 **Benefit:** You do not provoke an attack of opportunity when performing a

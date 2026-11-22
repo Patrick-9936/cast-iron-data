@@ -18,8 +18,6 @@ prerequisites = "Use Magic Device 1 rank, base Fortitude bonus +2."
 benefit = "You can cause an item that has a 1st-level or higher conjuration spell listed in its construction requirements to cast cure light wounds as a spell-like ability, using the item's caster level as the spell's caster level. You can use this feat once per day, plus one additional time per day when your base Fortitude save bonus reaches +4, +6, +8, +10, and +12."
 +++
 
-## Curative Mastery (Item Mastery)
-
 You can invoke a magic item's innate conjuration magic to conjure positive energy for healing
 wounds.\
 **Prerequisites:** Use Magic Device 1 rank, base Fortitude bonus +2.\

@@ -20,8 +20,6 @@ benefit = "When you successfully trip an opponent within 30 feet with a ranged a
 normal = "While wielding a ranged weapon, you threaten no squares and cannot make attacks of opportunity with that weapon."
 +++
 
-## Relentless Shot (Combat)
-
 You keep your aim steady on a downed foe.\
 **Prerequisites:** [Point-Blank Shot](ref/feat/point-blank-shot), base attack bonus +6.\
 **Benefit:** When you successfully [trip](ref/rule/trip) an opponent within 30 feet with a ranged

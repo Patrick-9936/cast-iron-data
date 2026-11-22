@@ -23,8 +23,6 @@ prerequisite_feats = ["ref/feat/dodge", "ref/feat/mobility", "ref/feat/shot-on-t
 benefit = "While using Spring-Heeled Style, you can move up to twice your speed when using the Shot on the Run or Spring Attack feats"
 +++
 
-## Spring-Heeled Sprint (Combat)
-
 You can move quickly without sacrificing your offense.\
 **Prerequisites:** Dex 15, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility),
 [Shot on the Run](ref/feat/shot-on-the-run) or [Spring Attack](ref/feat/spring-attack),

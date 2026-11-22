@@ -20,8 +20,6 @@ benefit = "When you use the Two-Weapon Fighting feat while wielding a melee weap
 normal = "Making a ranged attack provokes attacks of opportunity."
 +++
 
-## Sword and Pistol (Combat)
-
 You effortlessly pair melee and ranged weaponry.\
 **Prerequisites:** Dex 13, [Point-Blank Shot](ref/feat/point-blank-shot),
 [Rapid Shot](ref/feat/rapid-shot), [Snap Shot](ref/feat/snap-shot),

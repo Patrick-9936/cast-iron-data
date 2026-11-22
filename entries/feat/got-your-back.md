@@ -20,8 +20,6 @@ benefit = "If you successfully use the aid another action to give an ally who al
 normal = "You can use aid another to grant an ally a +2 bonus to AC against the next attack from an adjacent foe."
 +++
 
-## Got Your Back (Combat, Teamwork)
-
 You protect an ally from attacks he doesn't see coming.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise).\
 **Benefit:** If you successfully use the [aid another](ref/rule/aid-another-2) action to give an

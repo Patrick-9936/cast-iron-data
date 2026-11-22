@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/hammer-throw", "ref
 benefit = "You can use the Hammer Throw feat against targets at any range and of any size."
 +++
 
-## Improved Hammer Throw (Combat)
-
 Your ability to knock down your foes with ranged attacks is impressive.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Hammer Throw](ref/feat/hammer-throw), [Improved Trip](ref/feat/improved-trip),

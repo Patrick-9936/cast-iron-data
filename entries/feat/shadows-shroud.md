@@ -19,8 +19,6 @@ benefit = "As a swift action, you can shroud yourself in shifting, camouflaging 
 special = "Unlike spells like shadow walk, which require you to be on a plane that is coterminous with the Shadow Plane, this feat functions even on planes that do not normally share a border with the Shadow Plane. Like all conduit feats, the effects are suppressed when planar travel is forbidden."
 +++
 
-## Shadow's Shroud (Conduit)
-
 You can camouflage yourself in shadows and gloom.\
 **Prerequisites:** Knowledge (planes) 5 ranks.\
 **Benefit:** As a swift action, you can shroud yourself in shifting, camouflaging shadow. While

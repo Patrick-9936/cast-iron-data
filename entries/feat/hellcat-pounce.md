@@ -20,8 +20,6 @@ benefit = "Whenever you attack and damage an opponent in the surprise round, you
 special = "This ability only functions when carrying a light load or less."
 +++
 
-## Hellcat Pounce (Combat)
-
 You attack unsuspecting foes twice.\
 **Prerequisites:** [Hellcat Stealth](ref/feat/hellcat-stealth),
 [sneak attack](ref/ability/sneak-attack) +2d6.\

@@ -17,8 +17,6 @@ feat_types = ["Monster"]
 prerequisites = "Cha 16, any evil outsider with 8 or more Hit Dice."
 +++
 
-## Possess Location (Monster)
-
 A fiend learns to disperse its essence over an area, gaining mastery over features and structures
 there and tainting the place with its wickedness.\
 **Prerequisites:** Cha 16, any evil outsider with 8 or more Hit Dice.

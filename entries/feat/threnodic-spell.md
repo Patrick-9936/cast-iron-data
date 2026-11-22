@@ -23,8 +23,6 @@ benefit = "This feat only works on mind-affecting spells. A threnodic spell affe
 normal = "Undead are immune to mind-affecting effects."
 +++
 
-## Threnodic Spell (Metamagic)
-
 You can convert mind-affecting magic to necromantic power capable of controlling undead.\
 **Prerequisites:** Knowledge (religion) 6 ranks, [Spell Focus](ref/feat/spell-focus) (necromancy).\
 **Benefit:** This feat only works on mind-affecting spells. A threnodic spell affects undead

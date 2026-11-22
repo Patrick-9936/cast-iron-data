@@ -18,8 +18,6 @@ prerequisites = "You must have had friendly contact with a good outsider that wo
 benefit = "You gain a +2 bonus on Charisma-based checks involving good-aligned outsiders and a +1 bonus to the DC of spells and spell-like abilities you use against such creatures. You take a -2 penalty on Charisma-based checks involving evil-aligned outsiders."
 +++
 
-## Blessed (Story)
-
 The repeated notice and boons of celestials have marked you as one of their chosen agents.\
 **Prerequisites:** You must have had friendly contact with a good outsider that would qualify as a
 challenging foe, be a sorcerer with the celestial bloodline, or have direct celestial ancestry (such

@@ -18,8 +18,6 @@ prerequisites = "Int 13, Combat Expertise, Fox Insight, Fox Style, Improved Dirt
 prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/fox-insight", "ref/feat/fox-style", "ref/feat/improved-dirty-trick"]
 +++
 
-## Fox Trickery (Combat)
-
 Whenever a foes drops his guard, you can make him suffer with a dirty trick.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Fox Insight](ref/feat/fox-insight), [Fox Style](ref/feat/fox-style),

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/cleave", "ref/feat/goblin-cleaver", "ref/feat/po
 benefit = "This feat functions as Goblin Cleaver, but your additional attacks can be made against creatures your size or smaller. In addition, any such attacks that you make against humanoids (orc) gain a +2 circumstance bonus on attack rolls."
 +++
 
-## Orc Hewer (Combat)
-
 You are ferocious at hewing your enemies, especially orcs.\
 **Prerequisites:** Str 13, [Cleave](ref/feat/cleave), [Goblin Cleaver](ref/feat/goblin-cleaver),
 [Power Attack](ref/feat/power-attack), [dwarf](ref/race/dwarf).\

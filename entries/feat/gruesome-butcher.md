@@ -19,8 +19,6 @@ benefit = "Select a particular nation, organization, or humanoid subtype (such a
 special = "By meeting the goal of this feat, your name becomes known to your enemy. Creatures of your chosen enemy faction gain a +1 morale bonus on attack and damage rolls against you should they become aware of your identity with a successful Knowledge (local) check (DC = 10 + your character level)."
 +++
 
-## Gruesome Butcher (Story)
-
 You dedicated yourself to the cause of slaughter against a specific group or people, either for
 country, for vengeance, or perhaps just for sport.\
 **Prerequisites:** You must have been rendered unconscious and left for dead on a battlefield

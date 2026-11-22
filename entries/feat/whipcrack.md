@@ -20,8 +20,6 @@ benefit = "When you successfully reposition an opponent, its movement need not r
 normal = "The target of a reposition combat maneuver must remain within your reach at all times during its movement, except for the final 5 feet of movement, which can be to a space adjacent to your reach."
 +++
 
-## Whipcrack (Combat)
-
 You move an opponent and use his momentum to send him reeling across the battlefield.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Reposition](ref/feat/improved-reposition).\

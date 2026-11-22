@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/tenebrous-spell", "ref/feat/umbral-spell"]
 benefit = "When you cast a spell with the darkness descriptor that affects an area, creatures in the area are entangled. If the spell allows a saving throw, a successful save negates the entangle effect. If the spell does not normally allow a save, a creature can make a Reflex save (DC = the spell's DC if it had a saving throw) to negate the effect. If the spell allows spell resistance, failing to overcome a creature's spell resistance means it is not entangled."
 +++
 
-## Shadow Grasp (Metamagic)
-
 Your darkness spells have substance and bind your foes.\
 **Prerequisites:** [Tenebrous Spell](ref/feat/tenebrous-spell),
 [Umbral Spell](ref/feat/umbral-spell).\

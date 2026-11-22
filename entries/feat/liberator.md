@@ -21,8 +21,6 @@ prerequisites = "You must have been enslaved for at least 6 months, or have the 
 benefit = "You gain a +1 bonus on attack rolls, weapon damage rolls, and skill checks when your actions would directly lead to freeing prisoners or slaves."
 +++
 
-## Liberator (Story)
-
 Your time in shackles has forever marked your soul.\
 **Prerequisites:** You must have been enslaved for at least 6 months, or have the Imprisoned or
 Kidnapped [major childhood event background](ref/rule/birth-circumstances-and-more).\

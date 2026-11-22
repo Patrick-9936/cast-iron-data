@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/greater-grapple", "ref/feat/improved-grapple", "
 benefit = "When you blind a creature using your Kudzu Grappler feat, you can also deal your unarmed strike damage to it."
 +++
 
-## Kudzu Invasion (Combat)
-
 In addition to obscuring creatures' vision, your vines crush their bodies.\
 **Prerequisites:** Dex 13, [Greater Grapple](ref/feat/greater-grapple),
 [Improved Grapple](ref/feat/improved-grapple),

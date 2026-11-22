@@ -20,8 +20,6 @@ benefit = "Choose one light melee weapon. While using this style, whenever you u
 special = "In addition to the chosen weapon, a character with the weapon training class feature can use Cloak and Dagger Style with any light melee weapon belonging to any fighter weapon group he has selected with weapon training. A character with the swashbuckler weapon training class feature can use Cloak and Dagger Style with light and one-handed piercing weapons."
 +++
 
-## Cloak and Dagger Style (Combat, Style)
-
 Your attacks effortlessly inflict debilitating conditions on unaware opponents.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Dirty Trick](ref/feat/improved-dirty-trick), [Vital Strike](ref/feat/vital-strike),

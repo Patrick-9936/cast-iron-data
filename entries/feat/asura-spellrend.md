@@ -18,8 +18,6 @@ prerequisites = "Asura Sight, Asura Style, base attack bonus +13 or monk level 1
 prerequisite_feats = ["ref/feat/asura-sight", "ref/feat/asura-style"]
 +++
 
-## Asura Spellrend (Combat)
-
 Your blasphemies shatter divine magic.\
 **Prerequisites:** [Asura Sight](ref/feat/asura-sight), [Asura Style](ref/feat/asura-style), base
 attack bonus +13 or monk level 13th.

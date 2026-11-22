@@ -20,8 +20,6 @@ benefit = "You can feint against mindless creatures at a -4 penalty. Such a crea
 normal = "Feinting against a creature that is mindless is impossible."
 +++
 
-## Greater Mesmerizing Feint (Combat)
-
 You can feint against nearly any creature.\
 **Prerequisites:** [Mesmerizing Feint](ref/feat/mesmerizing-feint), Bluff 10 ranks, hypnotic stare
 class feature, [psychic inception](ref/stare/psychic-inception) bold stare.\

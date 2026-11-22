@@ -18,8 +18,6 @@ prerequisites = "Take at least 10d6 falling damage on three different occasions 
 benefit = "When you cast a healing spell on an unharmed creature, it briefly manifests as a pair of wings made of golden light. The spell's duration becomes \"1 hour or until discharged.\" For the next hour, the spell remains on the target, triggering automatically as a swift action if the creature takes damage or experiences an effect that the spell could cure, mitigate, or remove (which causes the wings of light to appear briefly)."
 +++
 
-## Talmandor's Lifting (Achievement)
-
 You felt the powerful wings of Talmandor surround you when you risked death from a fall, and somehow
 a tiny spark of his essence remains connected to your soul.\
 **Prerequisites:** Take at least 10d6 [falling](ref/rule/falling) damage on three different

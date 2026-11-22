@@ -20,8 +20,6 @@ benefit = "When you damage an opponent with an unarmed strike, you deal an extra
 special = "This ability does not stack with other special abilities, attacks, or items that allow you to deal bleed damage."
 +++
 
-## Belier's Bite (Combat)
-
 Your unarmed strikes cause your opponent to bleed.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\
 **Benefit:** When you damage an opponent with an unarmed strike, you deal an extra 1d4

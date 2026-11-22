@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/lunge", "ref/feat/o
 benefit = "While using Outslug Style, you don't take a -2 penalty to your AC when using the Lunge feat. The bonuses to AC and on weapon damage rolls that you gain from Outslug Style increase to +2."
 +++
 
-## Outslug Weave (Combat)
-
 You land precise attacks from afar.\
 **Prerequisites:** Int 13; [Combat Expertise](ref/feat/combat-expertise) or brawler's cunning class
 feature; [Lunge](ref/feat/lunge); [Outslug Style](ref/feat/outslug-style);

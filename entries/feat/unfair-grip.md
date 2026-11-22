@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-grapple", "ref/feat/improved-unarmed-st
 benefit = "When you perform a grapple combat maneuver, you gain a +1 bonus on checks to maintain your grapple, and your grappled foes take a -1 penalty on checks to escape your grapple."
 +++
 
-## Unfair Grip (Combat)
-
 You learned to fight in places that have no rules of engagement, such as the back alleys of Absalom
 or the fighting pits of the Sodden Lands, and you can grab foes in ways that are difficult to
 escape.\

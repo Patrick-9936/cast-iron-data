@@ -24,8 +24,6 @@ normal = "If you are a gunslinger, you gain your Wisdom modifier in grit points 
 special = "If you possess levels in the gunslinger class, you can take this feat multiple times."
 +++
 
-## Extra Grit (Grit)
-
 You have more grit than the ordinary gunslinger.\
 **Prerequisites:** Grit class feature or the [Amateur Gunslinger](ref/feat/amateur-gunslinger) feat.\
 **Benefit:** You gain 2 extra grit points at the start of each day, and your maximum grit increases

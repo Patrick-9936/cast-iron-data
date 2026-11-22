@@ -19,8 +19,6 @@ benefit = "You gain a small amount of grit and the ability to perform a single 1
 special = "If you gain levels in a class that grants the grit class feature, you can immediately trade this feat for the Extra Grit feat."
 +++
 
-## Amateur Gunslinger (Combat)
-
 Although you are not a gunslinger, you have and can use grit.\
 **Prerequisites:** You have no levels in a class that has the grit class feature.\
 **Benefit:** You gain a small amount of grit and the ability to perform a single 1st-level deeds

@@ -21,8 +21,6 @@ prerequisites = "Ferocity racial trait, half-orc or orc, rage class feature."
 benefit = "Once per day when raging, if you are hit by an attack that would deal enough hit points of damage to kill you (negative hit points equal to your Constitution score), as an immediate action you may expend 1 or more rounds of rage to negate some of this damage and keep yourself alive. Each round of rage you spend reduces the attack's damage by 1 point, but cannot reduce the damage taken below 1 hit point."
 +++
 
-## Ferocious Tenacity (Combat)
-
 You spit in the face of death.\
 **Prerequisites:** Ferocity racial trait, [half-orc](ref/race/half-orc) or [orc](ref/race/orc), rage
 class feature.\

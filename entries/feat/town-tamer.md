@@ -18,8 +18,6 @@ prerequisites = "You must have 5 ranks in Intimidate and a personal motivation t
 benefit = "Choose a particular settlement. When you're in your chosen settlement, the DC of Intimidate checks made against you increases by 10. You gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against undesirable elements like criminals or ruffians in your chosen settlement. This bonus increases to +2 for combat maneuver checks."
 +++
 
-## Town Tamer (Story)
-
 This town needs cleaning up, and you're just the one to do it.\
 **Prerequisites:** You must have 5 ranks in Intimidate and a personal motivation to clean up a
 particular town (such as an old friend calling in a favor, or seeking a place to settle down), or

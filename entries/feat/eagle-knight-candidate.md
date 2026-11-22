@@ -18,8 +18,6 @@ prerequisites = "Character level 5th, convince four different Eagle Knights and 
 benefit = "Choose one branch of the Eagle Knights you hope to join. You gain a specific benefit based on this choice."
 +++
 
-## Eagle Knight Candidate (Achievement)
-
 You have proven your courage and skill to both the [Eagle Knights](ref/rule/aff-vangard) and the
 leaders of Andoran.\
 **Prerequisites:** Character level 5th, convince four different Eagle Knights and either a member of

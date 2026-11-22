@@ -19,8 +19,6 @@ benefit = "When you are adjacent to an ally with this feat, the first time you m
 normal = "You can take a 5-foot step only if you have not otherwise moved in a round."
 +++
 
-## Pack Attack (Combat, Teamwork)
-
 You are skilled at surrounding your enemies.\
 **Prerequisites:** Base attack bonus +1.\
 **Benefit:** When you are adjacent to an ally with this feat, the first time you melee attack an

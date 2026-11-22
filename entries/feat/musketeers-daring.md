@@ -19,8 +19,6 @@ benefit = "If the result of your d6 roll is a natural 5 or 6 when using the derr
 normal = "You can roll further derring-do d6s only if you roll a natural 6 on the die."
 +++
 
-## Musketeer's Daring (Combat, Panache)
-
 The more you dare, the greater the results of your deeds.\
 **Prerequisites:** Dex 15, [derring-do](ref/swashdeed/derring-do) deed,
 [swashbuckler](ref/class/swashbuckler) level 6th.\

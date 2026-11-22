@@ -18,8 +18,6 @@ prerequisite_feats = ["ref/feat/mounted-combat", "ref/feat/ride-by-attack"]
 benefit = "Your mount is always considered to have a running start when using Acrobatics to jump. You can expend one use of mythic power to grant your mount a +10 bonus on an Acrobatics check, or a +20 bonus if the check is made to jump."
 +++
 
-## Valiant Vault (Mythic)
-
 Your mount can make heroic leaps.\
 **Prerequisites:** [Mounted Combat](ref/feat/mounted-combat),
 [Ride-By Attack](ref/feat/ride-by-attack), Ride 5 ranks.\

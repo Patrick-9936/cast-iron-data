@@ -19,8 +19,6 @@ benefit = "You gain a stamina pool. After you make an attack roll with a manufac
 special = "Since you have a stamina pool, you can spend your stamina points to use any combat tricks associated with combat feats you possess."
 +++
 
-## Combat Stamina (Combat)
-
 You stop at nothing to drive your attack home.\
 **Prerequisites:** Base attack bonus +1.\
 **Benefit:** You gain a [stamina pool](ref/rule/combat-stamina). After you make an attack roll with

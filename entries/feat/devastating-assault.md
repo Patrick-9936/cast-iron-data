@@ -18,8 +18,6 @@ prerequisites = "Base attack bonus +9, weapon training class feature with a mele
 benefit = "As a full-round action, you can bat aside all of your foe's defenses to ensure you make a single, especially effective melee attack. You make a single melee attack using an appropriate weapon against a single target, but make as many attack rolls as you could in a full-attack action using that weapon. You make the attack rolls in order from highest bonus to lowest, as if you were making a full attack. If any of the attack rolls hit the target, your single attack is considered to have hit and you roll damage normally. If one or more rolls are critical threats, you confirm the critical hit only once using your highest base attack bonus."
 +++
 
-## Devastating Assault (Weapon Mastery)
-
 You can hammer at a foe to smash through its defenses.\
 **Prerequisites:** Base attack bonus +9, weapon training class feature with a melee weapon.\
 **Benefit:** As a full-round action, you can bat aside all of your foe's defenses to ensure you make

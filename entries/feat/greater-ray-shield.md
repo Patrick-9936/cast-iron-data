@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/missile-shield", "ref/feat/ray-shield", "ref/fea
 benefit = "When you use the Ray Shield feat, your shield is not affected by the deflected ranged touch attack."
 +++
 
-## Greater Ray Shield (Combat, Shield Mastery)
-
 You can turn your shield to deflect rays and other ranged attacks without harming it.\
 **Prerequisites:** Dex 17, [Missile Shield](ref/feat/missile-shield),
 [Ray Shield](ref/feat/ray-shield), [Spellbreaker](ref/feat/spellbreaker).\

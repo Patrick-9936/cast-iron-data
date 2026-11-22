@@ -19,8 +19,6 @@ benefit = "You take no penalty on Stealth checks when you move up to your full s
 normal = "When moving greater than half speed up to your full speed, you take a -5 penalty on Stealth checks. When you are able to run or charge while using Stealth, you take a -20 penalty on the Stealth check."
 +++
 
-## Kobold Ambusher (Combat)
-
 You are adept at moving fast and staying hidden.\
 **Prerequisites:** Stealth 4 ranks, [kobold](ref/race/kobold).\
 **Benefit:** You take no penalty on Stealth checks when you move up to your full speed. You can use

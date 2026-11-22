@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/balor-whip", "ref/feat/improved-balor-whip", "re
 benefit = "When you use Improved Balor Whip to make a single attack at your highest attack bonus, your critical threat range increases to 19-20 and you gain a +4 bonus on critical confirmation rolls if you threaten a critical hit with that attack."
 +++
 
-## Greater Balor Whip (Combat)
-
 You can pull in foes with your whip and then attack them with your sword.\
 **Prerequisites:** [Balor Whip](ref/feat/balor-whip),
 [Improved Balor Whip](ref/feat/improved-balor-whip), [Whip Mastery](ref/feat/whip-mastery), base

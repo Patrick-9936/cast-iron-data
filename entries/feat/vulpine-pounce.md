@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/swift-kitsune-shapechanger"]
 benefit = "When you change shape into your kitsune form and use the charge action in the same round, you can make a full attack against your opponent."
 +++
 
-## Vulpine Pounce (Combat)
-
 You can change shape mid-charge and pounce on an opponent in the same round.\
 **Prerequisites:** [Swift Kitsune Shapechanger](ref/feat/swift-kitsune-shapechanger), base attack
 bonus +10, [kitsune](ref/race/kitsune).\

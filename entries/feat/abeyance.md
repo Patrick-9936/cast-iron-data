@@ -19,8 +19,6 @@ benefit = "As a standard action, you can drain the innate magical ability of a c
 special = "If a shaman or witch uses this [blood hex](ref/rule/feats-class), the target is unable to use any of its spell-like abilities for the hex's duration."
 +++
 
-## Abeyance (Blood Hex)
-
 You can disrupt your opponent's connection to its own magical power.\
 **Prerequisites:** Int 13, Spellcraft 5 ranks, Use Magic Device 1 rank.\
 **Benefit:** As a standard action, you can drain the innate magical ability of a creature you've

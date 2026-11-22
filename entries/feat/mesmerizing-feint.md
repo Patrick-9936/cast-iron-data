@@ -19,8 +19,6 @@ benefit = "You take only a -2 penalty when feinting against a non-humanoid and a
 normal = "When feinting against a non-humanoid, you take a -4 penalty. Against a creature of animal intelligence, you take a -8 penalty."
 +++
 
-## Mesmerizing Feint (Combat)
-
 You're adept at feinting against even the least imaginative of creatures.\
 **Prerequisites:** Hypnotic stare class feature.\
 **Benefit:** You take only a -2 penalty when [feinting](ref/rule/feint) against a non-humanoid and a

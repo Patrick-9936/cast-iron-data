@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/cleave", "ref/feat/cleaving-finish", "ref/feat/g
 benefit = "You can use Cleaving Finish any number of times per round."
 +++
 
-## Improved Cleaving Finish (Combat)
-
 You can cut down many opponents in a single strike.\
 **Prerequisites:** Str 13, [Cleave](ref/feat/cleave), [Cleaving Finish](ref/feat/cleaving-finish),
 [Great Cleave](ref/feat/great-cleave), [Power Attack](ref/feat/power-attack), base attack bonus +6.\

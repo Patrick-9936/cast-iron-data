@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/engulf-revulsion"]
 benefit = "When you successfully engulf or smother an opponent, successfully maintain a grapple combat maneuver on a smothered opponent, the opponent must succeed at a Will save (DC = 10 + 1/2 your Hit Dice + your Strength modifier) or become staggered for 1 round. This is a mind-affecting fear effect."
 +++
 
-## Engulf Horror (Combat)
-
 The repulsive horror of your smothering attack nearly incapacitates most foes.\
 **Prerequisites:** [Engulf Revulsion](ref/feat/engulf-revulsion); [engulf](ref/umr/engulf) or
 [smother](ref/umr/smother) universal monster ability.\

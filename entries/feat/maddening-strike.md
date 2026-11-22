@@ -20,8 +20,6 @@ benefit = "As a swift action, you can spend 1 point from your ki pool to imbue t
 special = "If you are using the sanity system, when you miss with a Maddening Strike, you take 4 points of sanity damage. If you hit, the target takes damage from the unarmed strike plus 8 points of sanity damage (or 4 points of sanity damage on a successful Will save)."
 +++
 
-## Maddening Strike (Combat)
-
 Your fists are weapons of mind-devouring madness.\
 **Prerequisites:** Wis 17, Cha 13, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Maddening Style](ref/feat/maddening-style), [Stunning Fist](ref/feat/stunning-fist), Knowledge

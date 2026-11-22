@@ -17,8 +17,6 @@ feat_types = ["Metamagic"]
 benefit = "The frost of your cold spell clings to the target, impeding it for a short time. A rime spell causes creatures that takes cold damage from the spell to become entangled for a number of rounds equal to the original level of the spell."
 +++
 
-## Rime Spell (Metamagic)
-
 Creatures damaged by your spells with the cold descriptor become entangled.\
 **Benefit:** The frost of your cold spell clings to the target, impeding it for a short time. A rime
 spell causes creatures that takes cold damage from the spell to become

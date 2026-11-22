@@ -18,8 +18,6 @@ prerequisites = "You must have a familiar, and you must either be a member of Ho
 benefit = "When you gain this feat, choose an animal aspect granted by the hunter's animal focus class ability and apply it to your familiar. Your hunter level for this ability is 1st, and you cannot change this ability once you have selected it. If your familiar dies, it loses its aspect and you may choose a new aspect if you take a new familiar. Your familiar's form is altered by superficial changes appropriate to its aspect."
 +++
 
-## Victory Through Unity (Story)
-
 You have practiced your family's genetic experimentations upon your own familiar.\
 **Prerequisites:** You must have a familiar, and you must either be a member of House Merrosett or
 have the Initiated (witch) or Storied Lineage (wizard)

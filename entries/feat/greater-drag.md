@@ -20,8 +20,6 @@ benefit = "You receive a +2 bonus on checks made to drag a foe. This bonus stack
 normal = "Creatures moved by drag do not provoke attacks of opportunity."
 +++
 
-## Greater Drag (Combat)
-
 Foes that you drag are thrown out of balance.\
 **Prerequisites:** Str 13, [Improved Drag](ref/feat/improved-drag),
 [Power Attack](ref/feat/power-attack), base attack bonus +6.\

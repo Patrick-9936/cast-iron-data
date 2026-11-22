@@ -20,8 +20,6 @@ benefit = "You add your Wisdom bonus on Acrobatics checks. While using this styl
 normal = "You take a -4 penalty on attack rolls and AC against melee attacks while prone. Standing up is a standard action that provokes attacks of opportunity."
 +++
 
-## Monkey Style (Combat, Style)
-
 Your unarmed fighting style is nimble and unpredictable, full of ground rolls and short leaps.\
 **Prerequisites:** Wis 13, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), Acrobatics 5
 ranks, Climb 5 ranks.\

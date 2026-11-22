@@ -19,8 +19,6 @@ benefit = "Select two creature types (and subtypes where appropriate) from the l
 special = "You may take this feat more than once. Its benefits do not stack. Each time you select this feat, you select two additional creature types to which your hatred racial trait applies."
 +++
 
-## Vast Hatred (Combat)
-
 Your rage stretches beyond normal bounds.\
 **Prerequisites:** [Gnome](ref/race/gnome), hatred racial trait.\
 **Benefit:** Select two creature types (and subtypes where appropriate) from the list of potential

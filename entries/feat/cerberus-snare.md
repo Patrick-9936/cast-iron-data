@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/cerberus-style"]
 benefit = "Whenever you damage an opponent with Cerberus Style, except that its duration is 1 round. Spell resistance applies; for the purpose of checks to overcome spell resistance, your caster level is equal to your character level."
 +++
 
-## Cerberus Snare (Combat)
-
 Your strikes latch onto your opponent like the jaws of a cerberus, preventing them from fleeing
 across planes.\
 **Prerequisites:** [Cerberus Style](ref/feat/cerberus-style), base attack bonus +9 or monk level

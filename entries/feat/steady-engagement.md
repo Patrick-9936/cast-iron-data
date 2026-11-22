@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/combat-reflexes", "ref/feat/stand-still"]
 benefit = "If you use Stand Still to prevent an opponent from moving, you may make a disarm or trip combat maneuver against your target as an immediate action."
 +++
 
-## Steady Engagement (Combat)
-
 You can draw on your excellent balance to trip or disarm opponents when they try to disengage.\
 **Prerequisites:** [Combat Reflexes](ref/feat/combat-reflexes), [Stand Still](ref/feat/stand-still),
 worshiper of [Irori](ref/faith/irori).\

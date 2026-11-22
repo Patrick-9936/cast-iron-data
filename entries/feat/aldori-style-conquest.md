@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/aldori-style", "ref/feat/aldori-style-aegis", "r
 benefit = "When you attempt to parry an attack using Aldori Style Aegis, you do not take any penalties on the attack roll incurred from using Combat Expertise or fighting defensively."
 +++
 
-## Aldori Style Conquest (Combat)
-
 Defense is now second nature to you, and your blade punishes those who try to attack and fail.\
 **Prerequisites:** [Aldori Style](ref/feat/aldori-style),
 [Aldori Style Aegis](ref/feat/aldori-style-aegis), [Alertness](ref/feat/alertness),

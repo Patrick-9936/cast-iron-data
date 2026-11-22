@@ -17,8 +17,6 @@ feat_types = ["Metamagic"]
 benefit = "When you cast a tenebrous spell in darkness or dim light, the spell's effective caster level and any associated save DCs are increased by 1. Any attempts at dispelling a tenebrous spell in darkness or dim light take a -2 penalty on the dispel check."
 +++
 
-## Tenebrous Spell (Metamagic)
-
 You blend shadow into your spells, increasing their efficacy at the price of susceptibility to
 light.\
 **Benefit:** When you cast a tenebrous spell in darkness or [dim light](ref/rule/vision-and-light),

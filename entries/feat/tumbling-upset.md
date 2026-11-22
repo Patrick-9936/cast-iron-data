@@ -20,8 +20,6 @@ benefit = "When you succeed at an Acrobatics check to move through an enemy's sp
 normal = "If you fail a trip combat maneuver check by 10 or more, you are knocked prone."
 +++
 
-## Tumbling Upset (Combat)
-
 You nimbly dodge beneath your opponent, creating an opportunity to upend your foe.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Trip](ref/feat/improved-trip), Acrobatics 7 ranks.\

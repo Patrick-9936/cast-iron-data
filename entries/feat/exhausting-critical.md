@@ -20,8 +20,6 @@ benefit = "When you score a critical hit on a foe, your target immediately becom
 special = "You can only apply the effects of one critical feat to a given critical hit unless you possess the Critical Mastery feat."
 +++
 
-## Exhausting Critical (Combat, Critical)
-
 Your critical hits cause opponents to become exhausted.\
 **Prerequisites:** [Critical Focus](ref/feat/critical-focus),
 [Tiring Critical](ref/feat/tiring-critical), base attack bonus +15.\

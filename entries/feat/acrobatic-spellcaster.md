@@ -20,8 +20,6 @@ benefit = "When you succeed at an Acrobatics check to move through a threatened 
 normal = "Casting a spell within an enemy's reach provokes attacks of opportunity even after you succeed at an Acrobatics check to move through a threatened square."
 +++
 
-## Acrobatic Spellcaster (Combat)
-
 Your skillful movements prevent foes from disrupting your spells.\
 **Prerequisites:** [Combat Casting](ref/feat/combat-casting), [Skill Focus](ref/feat/skill-focus)
 (Acrobatics).\

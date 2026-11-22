@@ -19,8 +19,6 @@ benefit = "When you are performing, allies within 20 feet who also have this fea
 special = "If you possess one or more levels of the bard class, you can choose any one ally within 20 feet to be part of the ensemble. The ally is considered to have the Ensemble teamwork feat for the purposes of aiding your performance."
 +++
 
-## Ensemble (Teamwork)
-
 You can create an ensemble of skilled and amateur performers to aid you in your performance.\
 **Prerequisites:** Perform 5 ranks\
 **Benefit:** When you are performing, allies within 20 feet who also have this feat can aid you with

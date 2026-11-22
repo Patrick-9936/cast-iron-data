@@ -20,8 +20,6 @@ benefit = "When you reroll a missed attack using the Second Chance feat, you can
 normal = "When using the Second Chance feat, you must normally forgo the rest of your attacks that turn."
 +++
 
-## Improved Second Chance (Combat)
-
 You can turn a missed strike into a second chance without sacrificing later attacks.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Second Chance](ref/feat/second-chance), base attack bonus +11.\

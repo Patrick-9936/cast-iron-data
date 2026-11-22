@@ -18,8 +18,6 @@ prerequisites = "Intimidate 5 ranks, rage class feature."
 benefit = "You can earn money with Intimidate by performing feats of strength and intimidation, exactly as if you were doing so with the Perform skill."
 +++
 
-## Ostentatious Rager (Combat)
-
 You can enthrall onlookers with a show of ferocious might or compel enemies to regard you as a
 crucial threat.\
 **Prerequisites:** Intimidate 5 ranks, rage class feature.\

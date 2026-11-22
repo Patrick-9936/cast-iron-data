@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-grapple", "ref/feat/improved-unarmed-st
 benefit = "Whenever you [pin](ref/rule/grapple) an opponent, you can spend a swift action to make a Stunning Fist attempt against that opponent."
 +++
 
-## Stunning Pin (Combat)
-
 You can render a pinned foe temporarily incapacitated.\
 **Prerequisites:** [Improved Grapple](ref/feat/improved-grapple),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),

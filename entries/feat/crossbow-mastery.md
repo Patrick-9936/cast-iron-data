@@ -26,8 +26,6 @@ benefit = "The time required for you to reload any type of crossbow is reduced t
 special = "Starting at 6th level, a ranger with the archery combat style may select Crossbow Mastery as a combat style feat."
 +++
 
-## Crossbow Mastery (Combat)
-
 You can load crossbows with blinding speed and even fire them in melee with little fear of reprisal.\
 **Prerequisites:** Dex 15, [Point-Blank Shot](ref/feat/point-blank-shot),
 [Rapid Reload](ref/feat/rapid-reload), [Rapid Shot](ref/feat/rapid-shot).\

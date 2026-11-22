@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-reflexes", "ref/feat/improved-unarmed-str
 benefit = "Whenever an opponent falls prone adjacent to you, that opponent provokes an attack of opportunity from you. This attack must be an unarmed strike."
 +++
 
-## Vicious Stomp (Combat)
-
 You take advantage of the moment to brutally kick an enemy when he is down.\
 **Prerequisites:** [Combat Reflexes](ref/feat/combat-reflexes),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\

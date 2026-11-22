@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/fey-obedience"]
 benefit = "Three times per day as an immediate action, when you are about to roll for an attack, saving throw, or skill check, you can roll three d20s and use the middle of the three results. This ability cannot be combined with other effects that involve rerolling dice or involve rolling twice and taking either the higher or lower result."
 +++
 
-## Triple-Baron (Gathlain Court Title)
-
 [The Three](ref/faith/magdh) have seen your offerings and proclaimed them satisfactory, even before
 you actually had the chance to show those offerings to them.\
 **Prerequisites:** Fey creature type or [Fey Obedience](ref/feat/fey-obedience) (Magdh), you must

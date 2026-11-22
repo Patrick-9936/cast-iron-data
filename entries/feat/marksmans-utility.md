@@ -19,8 +19,6 @@ benefit = "You can perform the utility shot gunslinger deed with an appropriate 
 special = "A gunslinger can ignore the weapon training class feature prerequisite of Marksman's Utility."
 +++
 
-## Marksman's Utility (Weapon Mastery)
-
 Your mastery of ranged weapons enables you to use them to perform deeds that you would normally need
 a firearm to accomplish.\
 **Prerequisites:** Base attack bonus +6, weapon training class feature with a ranged weapon.\

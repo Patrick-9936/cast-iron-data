@@ -19,8 +19,6 @@ normal = "Regular attack roll modifiers for invisible attackers trying to hit yo
 special = "The Blind-Fight feat is of no use against a character who is the subject of a blink spell."
 +++
 
-## Blind-Fight (Combat)
-
 You are skilled at attacking opponents that you cannot clearly perceive.\
 **Benefit:** In melee, every time you miss because of [concealment](ref/rule/concealment), you can
 reroll your miss chance percentile roll one time to see if you actually hit.

@@ -18,8 +18,6 @@ prerequisites = "Knowledge (planes) 5 ranks."
 benefit = "As a move action, you can exude deadly energy from your body. While this death field is in effect, small plants wither and recoil from you, allowing you to ignore the effects of difficult terrain caused by plant life and ignore the effects of spells like entangle that compel vegetation to grasp at you, provided the spell's level is 3rd or lower (the death field cannot affect more powerful plant magic)."
 +++
 
-## Death Field (Conduit)
-
 The deadly power of the Negative Energy Plane creates a field that snuffs out life forces at the
 cost of your own vitality.\
 **Prerequisites:** Knowledge (planes) 5 ranks.\

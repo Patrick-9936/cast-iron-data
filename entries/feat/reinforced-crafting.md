@@ -20,8 +20,6 @@ benefit = "When you craft a magic weapon, magic armor, or magic shield, you can 
 normal = "A broken weapon imposes a -2 penalty on attack and damage rolls. The bonus a broken suit of armor or a broken shield grants to AC is halved."
 +++
 
-## Reinforced Crafting (Item Creation)
-
 Your magical creations are hardier than most.\
 **Prerequisites:** [Craft Magic Arms and Armor](ref/feat/craft-magic-arms-and-armor), ability to
 cast [make whole](ref/spell/make-whole) or [mending](ref/spell/mending).\

@@ -24,8 +24,6 @@ benefit = "You gain a +1 bonus on attack rolls you make using an improvised weap
 special = "Thrown splash weapons are not considered improvised weapons for the purposes of this feat."
 +++
 
-## Improvisational Focus (Combat)
-
 A makeshift weapon in your hands is as dangerous as any other instrument of violence.\
 **Prerequisites:** [Catch Off-Guard](ref/feat/catch-off-guard) or
 [Throw Anything](ref/feat/throw-anything), base attack bonus +1.\

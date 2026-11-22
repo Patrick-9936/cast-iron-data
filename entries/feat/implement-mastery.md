@@ -19,8 +19,6 @@ benefit = "For the purposes of using item mastery feats, you treat your implemen
 special = "An occultist who has this feat can select item mastery feats in place of focus powers, provided he meets the feats' prerequisites."
 +++
 
-## Implement Mastery (Item Mastery)
-
 You can use your implements to unlock secrets of mastering relics and other items of power.\
 **Prerequisites:** Implements class feature, mental focus class feature.\
 **Benefit:** For the purposes of using item mastery feats, you treat your

@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-bull-rush", "ref/feat/improved-unarmed-
 benefit = "While using Street Style, the critical multiplier of your unarmed strikes becomes ×3, instead of ×2."
 +++
 
-## Street Carnage (Combat)
-
 For you, the urban environment becomes another brutal weapon you can use to shred flesh and break
 bones.\
 **Prerequisites:** Str 15, [Improved Bull Rush](ref/feat/improved-bull-rush),

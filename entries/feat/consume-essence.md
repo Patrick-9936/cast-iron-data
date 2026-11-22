@@ -19,8 +19,6 @@ benefit = "When you start your turn having swallowed at least one creature, each
 special = "If you are of the undead type, each time a swallowed creature gains a temporary negative level from his ability, you add 5 temporary hit points to the number of hit points that swallowed creatures must deal to escape, up to a maximum of 15 temporary hit points. These temporary hit points last for 10 minutes."
 +++
 
-## Consume Essence (Combat)
-
 Creatures that you swallow are quickly absorbed and soon utterly annihilated.\
 **Prerequisites:** Base attack bonus +6; evil alignment; [swallow whole](ref/umr/swallow-whole)
 universal monster ability; must be of the magical beast, outsider, or undead type.\

@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/amateur-gunslinger", "ref/feat/point-blank-shot"
 benefit = "If you ready a ranged attack with a firearm to attack a spellcaster when he begins casting a spell and successfully hit your opponent, you can expend 1 grit point to increase the target's concentration check DC for being injured while casting by 5."
 +++
 
-## Casterbane Shot (Combat, Grit)
-
 Life in the Mana Wastes, where magic has unpredictable and often fatal effects, has taught you to
 disable spellcasters with your firearms.\
 **Prerequisites:** [Amateur Gunslinger](ref/feat/amateur-gunslinger) or grit class feature,

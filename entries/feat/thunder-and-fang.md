@@ -24,8 +24,6 @@ normal = "An earth breaker is a two-handed weapon, preventing the use of a klar 
 special = "This is a combat feat, and may be selected with class features that grant bonus combat feats."
 +++
 
-## Thunder and Fang (Combat)
-
 You have mastered the ancient Shoanti Thunder and Fang fighting style, allowing you to fight with
 increased effectiveness when wielding an [earth breaker](ref/eq-weapon/earth-breaker) and
 [klar](ref/eq-armor/klar).\

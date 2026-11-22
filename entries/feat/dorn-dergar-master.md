@@ -23,8 +23,6 @@ benefit = "You can use a dorn-dergar as a one-handed weapon. When using it one-h
 normal = "A dorn-dergar requires two hands to wield."
 +++
 
-## Dorn-Dergar Master (Combat)
-
 You can use a dorn-dergar with only one hand.\
 **Prerequisites:** [Two-Weapon Fighting](ref/feat/two-weapon-fighting), base attack bonus +4,
 proficiency with the [dwarven dorn-dergar](ref/eq-weapon/dorn-dergar-dwarven).\

@@ -20,8 +20,6 @@ benefit = "For 24 hours after you meditate, you gain low-light vision and scent,
 special = "A monk with this feat can select Improved Blind-Fight as a bonus feat beginning at 6th level, and Greater Blind-Fight as a bonus feat beginning at 10th level. He doesn't need to meet the prerequisites of those feats."
 +++
 
-## Sensory Control (Meditation)
-
 Meditation focuses your powers of observation.\
 **Prerequisites:** Wis 15, [Blind-Fight](ref/feat/blind-fight),
 [Meditation Master](ref/feat/meditation-master).\

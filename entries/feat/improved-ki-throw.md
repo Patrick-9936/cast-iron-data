@@ -20,8 +20,6 @@ benefit = "When using the Ki Throw feat, you may throw your target into any squa
 special = "A monk may take this as a bonus feat at 14th level."
 +++
 
-## Improved Ki Throw (Combat)
-
 Your enemies are living weapons in your hands.\
 **Prerequisites:** [Improved Bull Rush](ref/feat/improved-bull-rush), [Ki Throw](ref/feat/ki-throw).\
 **Benefit:** When using the Ki Throw feat, you may throw your target into any square you threaten

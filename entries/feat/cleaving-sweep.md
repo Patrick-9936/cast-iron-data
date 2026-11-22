@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/cleave", "ref/feat/improved-trip", "ref/feat/wea
 benefit = "When using a full-attack action with a two-handed weapon, you can give up your regular attacks and instead attempt a trip combat maneuver at your highest base attack bonus against each opponent within reach. You must attempt a separate combat maneuver check against each opponent."
 +++
 
-## Cleaving Sweep (Combat)
-
 You can sweep multiple foes to the ground with a single blow of your axe.\
 **Prerequisites:** Str 15, [Cleave](ref/feat/cleave), [Improved Trip](ref/feat/improved-trip),
 [Weapon Focus](ref/feat/weapon-focus) (greataxe), base attack bonus +11.\

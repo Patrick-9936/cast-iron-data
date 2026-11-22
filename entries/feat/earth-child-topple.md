@@ -20,8 +20,6 @@ benefit = "You can trip a creature of the giant subtype of up to Huge size. Whil
 normal = "You can trip only those opponents that are one size category larger than you."
 +++
 
-## Earth Child Topple (Combat)
-
 Your mastery of balance and momentum allows you to bring down giants with your bare hands.\
 **Prerequisites:** Wis 13, [dwarf](ref/race/dwarf) or [gnome](ref/race/gnome), defensive training
 racial trait, [Earth Child Style](ref/feat/earth-child-style),

@@ -18,8 +18,6 @@ prerequisites = "You must have been knocked unconscious in an encounter with a c
 benefit = "Choose one kind of giant (such as hill or stone); you must choose a kind of giant that allows you to qualify for this feat. You gain a +1 bonus on attack rolls against giants of that kind. You also gain a +1 bonus on Knowledge (local) checks regarding giants of that kind and can attempt those Knowledge checks untrained. In addition, you gain a +1 dodge bonus to AC against all giants."
 +++
 
-## Giant Vendetta (Story)
-
 Your life has been shaped by an encounter with giants.\
 **Prerequisites:** You must have been knocked unconscious in an encounter with a challenging giant
 foe or have a regional background trait tied to giants, such as

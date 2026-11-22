@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/street-smarts"]
 benefit = "You can attempt a Sense Motive check as a free action to deduce a foe's martial training after observing the foe's movements for at least 1 minute or observing the foe's attacks for at least 2 rounds. You take a -10 penalty on your check if you are observing movements, rather than attacks. The DC equals 20 + the creature's base attack bonus or 10 + the creature's Bluff or Disguise modifier, whichever is higher."
 +++
 
-## Measure Foe (Combat)
-
 You can read a foe's martial skill from its body language.\
 **Prerequisites:** [Street Smarts](ref/feat/street-smarts), base attack bonus +1.\
 **Benefit:** You can attempt a [Sense Motive](ref/skill/sense-motive) check as a free action to

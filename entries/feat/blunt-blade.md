@@ -19,8 +19,6 @@ benefit = "As a standard action, you can curse the accuracy of an enemy you have
 special = "If a shaman or witch uses this [blood hex](ref/rule/feats-class), the target is unable to deal precision damage or sneak attack damage for the hex's duration."
 +++
 
-## Blunt Blade (Blood Hex)
-
 With a single curse, you make your rival less fearsome in combat.\
 **Prerequisites:** Int 13, base attack bonus +6, Use Magic Device 1 rank.\
 **Benefit:** As a standard action, you can curse the accuracy of an enemy you have dealt damage to

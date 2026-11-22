@@ -20,8 +20,6 @@ benefit = "You can ready an action to charge when an enemy enters a specific spa
 normal = "You can't ready an action to charge. Charging allows you to move up to twice your speed."
 +++
 
-## Vigilant Charger (Combat)
-
 You can ready yourself to spring an attack against your enemies at a moment's notice.\
 **Prerequisites:** Str 13, Dex 13, [Combat Reflexes](ref/feat/combat-reflexes).\
 **Benefit:** You can [ready an action](ref/rule/ready) to [charge](ref/rule/charge) when an enemy

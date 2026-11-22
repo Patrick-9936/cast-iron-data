@@ -21,8 +21,6 @@ normal = "A creature with more than two legs receives a +2 bonus to its CMD agai
 special = "In addition to the chosen weapon, a character with the weapon training class feature can use Tangled Limbs with any melee weapon from any fighter weapon group that he has selected with weapon training and that has the reach special quality."
 +++
 
-## Tangled Limbs (Combat)
-
 You twist your long weapon among your target's legs, knocking your foe off-balance.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Trip](ref/feat/improved-trip), [Weapon Focus](ref/feat/weapon-focus) with the chosen

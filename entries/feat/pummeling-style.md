@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-unarmed-strike"]
 benefit = "Whenever you use a full-attack action or flurry of blows to make multiple attacks against a single opponent with unarmed strikes, total the damage from all hits before applying damage reduction. This ability works only with unarmed strikes, no matter what other abilities you might possess."
 +++
 
-## Pummeling Style (Combat, Style)
-
 Your unarmed strikes weave together in an effortless combo, focusing on the spots you've weakened
 with the last hit.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike); base attack bonus

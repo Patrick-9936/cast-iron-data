@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/bullying-blow", "ref/feat/intimidating-prowess",
 benefit = "While using Orc Fury Style, you gain a +1 bonus on attack rolls and damage rolls against shaken opponents, and you don't take an attack penalty when using the Bullying Blow feat."
 +++
 
-## Orc Rampage (Combat)
-
 You effortlessly savage fearful enemies.\
 **Prerequisites:** [Bullying Blow](ref/feat/bullying-blow),
 [Intimidating Prowess](ref/feat/intimidating-prowess), [Orc Fury Style](ref/feat/orc-fury-style),

@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/amateur-gunslinger", "ref/feat/dazzling-display"
 benefit = "You can spend 1 grit point to make a feint attempt using a one-handed firearm for which you have Weapon Focus (instead of a melee weapon). The target of this feint must be within 30 feet of you and be able to see you."
 +++
 
-## Gun Twirling (Grit)
-
 You can spin and juggle a small firearm, making it difficult to predict where you will shoot.\
 **Prerequisites:** [Amateur Gunslinger](ref/feat/amateur-gunslinger) feat or grit class feature,
 [Dazzling Display](ref/feat/dazzling-display), [Weapon Focus](ref/feat/weapon-focus).\

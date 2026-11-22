@@ -20,8 +20,6 @@ benefit = "You receive a +2 bonus on checks made to steal an item from a foe. Th
 normal = "Creatures automatically notice items taken from them through the steal combat maneuver."
 +++
 
-## Greater Steal (Combat)
-
 You have a knack for snatching items from your opponents in combat.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Steal](ref/feat/improved-steal), base attack bonus +6.\

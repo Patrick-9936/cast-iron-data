@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/mounted-combat", "ref/feat/shield-focus"]
 benefit = "You may add your base shield bonus (including the bonus from Shield Focus but not including enhancement bonuses) to your mount's AC. In addition, you may add this bonus when making a Ride check to negate a hit against your mount using the Mounted Combat feat."
 +++
 
-## Mounted Shield (Combat)
-
 Your defensive tactics defend both you and your mount.\
 **Prerequisites:** [Mounted Combat](ref/feat/mounted-combat), [Shield Focus](ref/feat/shield-focus).\
 **Benefit:** You may add your base shield bonus (including the bonus from Shield Focus but not

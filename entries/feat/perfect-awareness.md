@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-meditation", "ref/feat/meditation-master"
 benefit = "Once per day, you can take 20 on a Perception check as a move action."
 +++
 
-## Perfect Awareness (Combat, Meditation)
-
 You can set aside all irrelevant sensory information to understand your surroundings perfectly for a
 moment.\
 **Prerequisites:** Wis 17, [Combat Meditation](ref/feat/combat-meditation),

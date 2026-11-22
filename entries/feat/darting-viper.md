@@ -22,8 +22,6 @@ benefit = "You can change whether you're using the dorn-dergar as a normal or re
 normal = "Changing whether a dorn-dergar is a normal or reach weapon is a move action."
 +++
 
-## Darting Viper (Combat)
-
 When using a [dorn-dergar](ref/eq-weapon/dorn-dergar-dwarven), you can quickly attack both near and
 distant foes.\
 **Prerequisites:** Base attack bonus +4, proficiency with the dwarven dorn-dergar.\

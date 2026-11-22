@@ -20,8 +20,6 @@ benefit = "Choose one of the following combat maneuvers: disarm, reposition, ste
 special = "You can select this feat multiple times, choosing a different combat maneuver each time."
 +++
 
-## Aldori Artistry (Combat)
-
 You can do more with your blade than slash and stab.\
 **Prerequisites:** [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency)
 ([Aldori dueling sword](ref/eq-weapon/aldori-dueling-sword)),

@@ -18,8 +18,6 @@ prerequisites = "You must have intentionally left your noble family and changed 
 benefit = "You gain a +2 bonus on Disguise checks, and Disguise is a class skill for you. You gain a +1 bonus on attack rolls and damage rolls against members of your former family."
 +++
 
-## Self-Exiled Noble (Story)
-
 You chose to leave nobility behind.\
 **Prerequisites:** You must have intentionally left your noble family and changed your name or
 appearance afterward.\

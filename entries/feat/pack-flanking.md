@@ -20,8 +20,6 @@ benefit = "When you and your companion creature have this feat, your companion c
 normal = "You must be positioned opposite an ally to flank an opponent."
 +++
 
-## Pack Flanking (Teamwork)
-
 You and your companion creature are adept at fighting together against foes.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise), ability to acquire an
 animal companion.\

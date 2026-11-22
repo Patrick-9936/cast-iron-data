@@ -19,8 +19,6 @@ benefit = "You reshape your body, gaining one of the following benefits. You cho
 special = "A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat's prerequisites."
 +++
 
-## Shapeshifter Style (Combat, Style)
-
 You can shift your physiology without fully changing your shape, giving you an advantage in battle.\
 **Prerequisites:** Base attack bonus +3, change shape ability, shapechanger subtype.\
 **Benefit:** You reshape your body, gaining one of the following benefits. You choose the benefit

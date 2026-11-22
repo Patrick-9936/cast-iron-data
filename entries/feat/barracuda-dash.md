@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/barracuda-slam", "ref/feat/barracuda-style", "re
 benefit = "You gain a swim speed equal to your base speed. When you attack on a charge in water or on land and the attack hits, you can immediately make a second charge attack against a second opponent. All the normal requirements for making a charge, such as moving at least 10 feet and moving in a straight line, apply to this second attack. The total distance of the two charge attacks cannot exceed the normal maximum distance for a charge (usually double your speed)."
 +++
 
-## Barracuda Dash (Combat)
-
 You use powerful, deadly bursts of speed to charge and attack an additional foe.\
 **Prerequisites:** Wis 13, [Barracuda Slam](ref/feat/barracuda-slam),
 [Barracuda Style](ref/feat/barracuda-style),

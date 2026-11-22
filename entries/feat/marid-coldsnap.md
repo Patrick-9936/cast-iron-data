@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/elemental-fist", "ref/feat/improved-unarmed-stri
 benefit = "While using Marid Style, as a standard action, you can spend two Elemental Fist attempts to unleash a 30-foot line of frigid water. Creatures caught in the line take your unarmed strike damage plus the cold damage from your Elemental Fist attack and are entangled in ice as per the Marid Spirit feat. A successful Reflex save (DC 10 + 1/2 your character level + your Wis modifier) reduces the damage by half and prevents a target from becoming entangled."
 +++
 
-## Marid Coldsnap (Combat)
-
 You can summon a torrent of water to blast your enemies, chilling them to the bone.\
 **Prerequisites:** Con 15, Wis 17, [Elemental Fist](ref/feat/elemental-fist),
 [Marid Spirit](ref/feat/marid-spirit), [Marid Style](ref/feat/marid-style),

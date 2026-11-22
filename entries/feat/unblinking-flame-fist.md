@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/perfect-style", "re
 benefit = "When using Perfect Style, the save DC of your stunning fist attack increases by 2 against flat-footed targets. When you spend 1 ki point to gain the benefits of Improved Feint for 1 round, you can attempt a feint as part of your movement when charging."
 +++
 
-## Unblinking Flame Fist (Combat)
-
 You can exploit the weaknesses in your opponents' defenses, like a flame seeking fuel to consume.\
 **Prerequisites:** Int 13; Wis 13; [Combat Expertise](ref/feat/combat-expertise);
 [Perfect Style](ref/feat/perfect-style); [Stunning Fist](ref/feat/stunning-fist);

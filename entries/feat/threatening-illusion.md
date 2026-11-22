@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/spell-focus"]
 benefit = "You can use this metamagic feat only on illusion (figment) spells."
 +++
 
-## Threatening Illusion (Metamagic)
-
 You've mastered the art of making illusions that force foes to divide their attention in combat.\
 **Prerequisites:** [Spell Focus](ref/feat/spell-focus) (illusion), [Gnome](ref/race/gnome).\
 **Benefit:** You can use this metamagic feat only on illusion (figment) spells.

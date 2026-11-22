@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/dodge", "ref/feat/improved-unarmed-strike", "ref
 benefit = "While using Jabbing Style, the extra damage you deal when you hit a single target with two unarmed strikes increases to 2d6, and the extra damage when you hit a single target with three or more unarmed strikes increases to 4d6."
 +++
 
-## Jabbing Master (Combat)
-
 Your quick punches become even more lethal.\
 **Prerequisites:** [Dodge](ref/feat/dodge),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),

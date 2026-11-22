@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/alertness", "ref/feat/exotic-weapon-proficiency"
 benefit = "While using Aldori Style and wielding only a single Aldori dueling sword in one hand (not using a shield, an off-hand weapon, armor spikes, unarmed strikes, or natural weapons), when you fight defensively or use Combat Expertise, you gain a +2 bonus on weapon damage rolls."
 +++
 
-## Aldori Style (Combat, Style)
-
 You have learned the classic Aldori dueling stance.\
 **Prerequisites:** [Alertness](ref/feat/alertness),
 [Exotic Weapon Proficiency](ref/feat/exotic-weapon-proficiency)

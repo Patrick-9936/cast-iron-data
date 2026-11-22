@@ -18,8 +18,6 @@ prerequisites = "Bluff 1 rank, Sense Motive 1 rank, base attack bonus +1, or you
 benefit = "Once per day, you can use your ranks in Sense Motive in place of your total Will saving throw modifier when attempting a Will save. You must decide to use this ability prior to attempting the saving throw."
 +++
 
-## Wily Warrior (Story)
-
 Those who observe your imposing demeanor assume muscle is your sole advantage, but you prove them
 wrong every time.\
 **Prerequisites:** Bluff 1 rank, Sense Motive 1 rank, base attack bonus +1, or you must have the

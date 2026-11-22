@@ -18,8 +18,6 @@ prerequisites = "Halfling."
 benefit = "You gain a +1 racial bonus on attack rolls made using a sling."
 +++
 
-## Halfling Slinger (Combat)
-
 You have honed your racial talent for slingcraft.\
 **Prerequisites:** [Halfling](ref/race/halfling).\
 **Benefit:** You gain a +1 racial bonus on attack rolls made using a [sling](ref/eq-weapon/sling).

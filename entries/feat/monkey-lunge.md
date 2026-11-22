@@ -20,8 +20,6 @@ benefit = "As a standard action, you can use the Lunge feat to increase the reac
 normal = "You take a -2 penalty to your AC until your next turn when making a lunge attack."
 +++
 
-## Monkey Lunge (Combat)
-
 You can quickly recover from your lunges, helping you to avoid counterattacks.\
 **Prerequisites:** [Lunge](ref/feat/lunge), Acrobatics 1 rank.\
 **Benefit:** As a standard action, you can use the Lunge feat to increase the reach of your melee

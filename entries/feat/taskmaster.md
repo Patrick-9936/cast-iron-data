@@ -20,8 +20,6 @@ benefit = "As a standard action, you spur an ally, who must have fewer Hit Dice 
 special = "If you have 10 or more ranks in Intimidate, the morale bonus increases to +2."
 +++
 
-## Taskmaster (Combat)
-
 You intimidate weaker allies into reckless ferocity.\
 **Prerequisites:** [Demoralizing Lash](ref/feat/demoralizing-lash), Intimidate 5 ranks,
 [hobgoblin](ref/race/hobgoblin).\

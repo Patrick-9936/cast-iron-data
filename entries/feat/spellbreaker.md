@@ -20,8 +20,6 @@ benefit = "Enemies in your threatened area that fail their checks to cast spells
 normal = "Enemies that fail to cast spells defensively do not provoke attacks of opportunity."
 +++
 
-## Spellbreaker (Combat)
-
 You can strike at enemy spellcasters who fail to cast defensively when you threaten them.\
 **Prerequisites:** [Disruptive](ref/feat/disruptive), 10th-level fighter.\
 **Benefit:** Enemies in your threatened area that fail their checks to cast spells defensively

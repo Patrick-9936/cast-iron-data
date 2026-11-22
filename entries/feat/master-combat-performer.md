@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/performing-combatant"]
 benefit = "You can make performance combat checks as a free action. You are proficient in all weapons with the performance special quality."
 +++
 
-## Master Combat Performer (Combat)
-
 You are a master of the techniques and weapons of the arena and the stage.\
 **Prerequisites:** [Performing Combatant](ref/feat/performing-combatant) or at least three
 performance feats, base attack bonus +6.\

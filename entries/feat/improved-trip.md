@@ -20,8 +20,6 @@ benefit = "You do not provoke an attack of opportunity when performing a trip co
 normal = "You provoke an attack of opportunity when performing a trip combat maneuver."
 +++
 
-## Improved Trip (Combat)
-
 You are skilled at sending your opponents to the ground.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise).\
 **Benefit:** You do not provoke an attack of opportunity when performing a [trip](ref/rule/trip)

@@ -20,8 +20,6 @@ benefit = "You do not provoke an attack of opportunity when performing a drag co
 normal = "You provoke an attack of opportunity when performing a drag combat maneuver."
 +++
 
-## Improved Drag (Combat)
-
 You are skilled at dragging foes around the battlefield.\
 **Prerequisites:** Str 13, [Power Attack](ref/feat/power-attack), base attack bonus +1.\
 **Benefit:** You do not provoke an attack of opportunity when performing a [drag](ref/rule/drag)

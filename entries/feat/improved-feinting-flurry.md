@@ -20,8 +20,6 @@ benefit = "While using Feinting Flurry, if you successfully feint, your opponent
 normal = "A successful feint causes your opponent to be denied its Dexterity bonus to AC against your next attack."
 +++
 
-## Improved Feinting Flurry (Combat)
-
 Your first melee attack throws your opponent completely off guard.\
 **Prerequisites:** Dex 17, flurry of blows class feature,
 [Combat Expertise](ref/feat/combat-expertise), [Feinting Flurry](ref/feat/feinting-flurry), base

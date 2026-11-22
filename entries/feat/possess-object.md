@@ -17,8 +17,6 @@ feat_types = ["Monster"]
 prerequisites = "Cha 18, any evil outsider with 9 or more Hit Dice."
 +++
 
-## Possess Object (Monster)
-
 A fiend gains the power to bind its malign essence to a single object, corrupting it into a relic of
 undeniable evil.\
 **Prerequisites:** Cha 18, any evil outsider with 9 or more Hit Dice.

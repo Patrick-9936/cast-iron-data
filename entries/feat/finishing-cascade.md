@@ -17,8 +17,6 @@ feat_types = ["Combat", "Combination"]
 prerequisites = "Base attack bonus +11 or monk level 11th; at least one combination feat."
 +++
 
-## Finishing Cascade (Combat, Combination)
-
 Your blows set up your opponents for a devastating finish.\
 **Prerequisites:** Base attack bonus +11 or monk level 11th; at least one combination feat.
 

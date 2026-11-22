@@ -23,8 +23,6 @@ benefit = "A thanatopic spell pierces defenses and immunities that protect again
 normal = "Defenses such as *death ward* negate death effects, negative levels, and energy drain. Undead are immune to these attacks."
 +++
 
-## Thanatopic Spell (Metamagic)
-
 Your spells can pierce wards against negative energy and even affect undead targets.\
 **Prerequisites:** Knowledge (religion) 6 ranks, [Spell Focus](ref/feat/spell-focus) (necromancy).\
 **Benefit:** A thanatopic spell pierces defenses and immunities that protect against

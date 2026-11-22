@@ -21,8 +21,6 @@ normal = "You must perform a sunder combat maneuver to sunder an opponent's weap
 special = "You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll."
 +++
 
-## Sundering Strike (Combat)
-
 Your critical hits can sunder your foes' weapons.\
 **Prerequisites:** Str 13, [Improved Sunder](ref/feat/improved-sunder),
 [Power Attack](ref/feat/power-attack), base attack bonus +9.\

@@ -23,8 +23,6 @@ benefit = "You receive a +2 bonus on checks to perform an awesome blow combat ma
 normal = "Creatures moved by awesome blow do not provoke attacks of opportunity."
 +++
 
-## Improved Awesome Blow (Combat)
-
 You are skilled at sending your opponents flying.\
 **Prerequisites:** Str 13; [Awesome Blow](ref/feat/awesome-blow) or awesome blow class feature;
 [Power Attack](ref/feat/power-attack)\

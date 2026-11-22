@@ -18,8 +18,6 @@ prerequisites = "You must slay at least 50 intelligent noncombatants for either 
 benefit = "You gain a +2 bonus on Intimidate checks. If you have 10 or more ranks in Intimidate, this bonus increases to +4. Each time you slay an intelligent creature, you gain a +1 bonus on attack rolls and caster level checks for 1 minute (this bonus does not stack with itself)."
 +++
 
-## Innocent Blood (Story)
-
 With their deaths, the pitiful wretches that inhabit this world open your path to greatness.\
 **Prerequisites:** You must slay at least 50 intelligent noncombatants for either your own personal
 gain or for no cause at all, or have the First Kill

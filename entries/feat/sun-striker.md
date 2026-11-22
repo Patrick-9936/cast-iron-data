@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/critical-focus"]
 benefit = "Whenever you confirm a critical hit against an undead creature, your attack bypasses all DR, deals full damage to incorporeal creatures, and acts as though it has the flaming burst weapon special ability."
 +++
 
-## Sun Striker (Combat, Critical)
-
 Called by the Dawnflower to strike down the undead, your scimitar becomes an agent of her burning
 will.\
 **Prerequisites:** [Critical Focus](ref/feat/critical-focus), character level 7th, worshiper of

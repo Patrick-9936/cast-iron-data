@@ -20,8 +20,6 @@ benefit = "You do not provoke an attack of opportunity when performing a bull ru
 normal = "You provoke an attack of opportunity when performing a bull rush combat maneuver."
 +++
 
-## Improved Bull Rush (Combat)
-
 You are skilled at pushing your foes around.\
 **Prerequisites:** Str 13, [Power Attack](ref/feat/power-attack), base attack bonus +1.\
 **Benefit:** You do not provoke an attack of opportunity when performing a

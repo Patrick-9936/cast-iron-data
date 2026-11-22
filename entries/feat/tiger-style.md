@@ -20,8 +20,6 @@ benefit = "While using this style, you gain a +2 bonus to your CMD against bull 
 normal = "Unarmed strikes deal bludgeoning damage."
 +++
 
-## Tiger Style (Combat, Style)
-
 Your unarmed fighting style emulates the strength and ferocity of a tiger.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), base attack bonus +3
 or monk level 3rd.\

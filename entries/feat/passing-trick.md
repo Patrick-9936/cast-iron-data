@@ -20,8 +20,6 @@ benefit = "Whenever you make a successful Acrobatics check to move through an op
 special = "If you have the Underfoot feat and the opponent is larger than you, you gain a +2 bonus on the Bluff check this feat allows."
 +++
 
-## Passing Trick (Combat)
-
 Slipping past a foe gives you the chance to feint.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise), [Dodge](ref/feat/dodge),
 [Improved Feint](ref/feat/improved-feint), [Mobility](ref/feat/mobility), size Small or smaller.\

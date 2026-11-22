@@ -20,8 +20,6 @@ benefit = "Whenever you damage an opponent with a piercing weapon, you can immed
 normal = "You can only attack with an unarmed strike, natural weapon, or light weapon against opponents you are grappling."
 +++
 
-## Hamatula Strike (Combat)
-
 You can catch your opponents on your weapon and hold them in place.\
 **Prerequisites:** [Improved Grapple](ref/feat/improved-grapple), Strength 13, Base Attack Bonus +7.\
 **Benefit:** Whenever you damage an opponent with a piercing weapon, you can immediately make a

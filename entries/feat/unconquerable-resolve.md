@@ -19,8 +19,6 @@ benefit = "Whenever you spend a daily use of the resolve class feature, you gain
 special = "This feat can be taken multiple times. Each time you take it, the number of temporary hit points you gain each time you spend a daily use of the resolve class feature increases by 1 per Hit Die you have."
 +++
 
-## Unconquerable Resolve (Combat)
-
 Each time you tap into your inner strength, your bodily strength is renewed, making you much more
 resilient than you might look.\
 **Prerequisites:** Resolve class feature, [samurai](ref/class/samurai) level 1st.\

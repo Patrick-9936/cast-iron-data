@@ -20,8 +20,6 @@ benefit = "Whenever you and an ally who also has this feat are threatening the s
 normal = "You must be positioned opposite an ally to flank an opponent."
 +++
 
-## Improved Outflank (Combat, Teamwork)
-
 You can easily find openings in your enemies' defenses.\
 **Prerequisites:** [Outflank](ref/feat/outflank), base attack bonus +6.\
 **Benefit:** Whenever you and an ally who also has this feat are threatening the same foe, you are

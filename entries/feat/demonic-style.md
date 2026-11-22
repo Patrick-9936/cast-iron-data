@@ -20,8 +20,6 @@ benefit = "While using this style, when you use the charge action, the bonus on 
 special = "If you have the rage or bloodrage class feature, you can enter Demonic Style's stance as part of the free action to enter a rage. If you do, the style stance ends when your rage ends."
 +++
 
-## Demonic Style (Combat, Style)
-
 Self-preservation is irrelevant in the face of your fury.\
 **Prerequisites:** [Power Attack](ref/feat/power-attack), base attack bonus +1.\
 **Benefit:** While using this style, when you use the [charge](ref/rule/charge) action, the bonus on

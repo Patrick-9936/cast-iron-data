@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/bonded-mind"]
 benefit = "You can cast a spell with a target of \"you\" on an ally as a touch spell, as per the share spells familiar ability, so long as the ally possesses the Bonded Mind feat."
 +++
 
-## Share Spells (Teamwork)
-
 You can share individual magic with your partner.\
 **Prerequisites:** [Bonded Mind](ref/feat/bonded-mind), ability to share spells with an animal
 companion, eidolon, familiar, or phantom, caster level 1st.\

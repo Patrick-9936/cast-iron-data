@@ -18,8 +18,6 @@ prerequisites = "You must have at least one enemy who wishes to outdo you. If yo
 benefit = "Your striving pushes you to become ever more skillful. When you gain this feat, and every 2 character levels thereafter, either you gain 1 skill point or your Fame score increases by 1."
 +++
 
-## Rival (Story)
-
 You have a rival, and the two of you try to sabotage, humiliate, or otherwise defeat each other
 without allowing anyone else to interfere.\
 **Prerequisites:** You must have at least one enemy who wishes to outdo you. If you have multiple

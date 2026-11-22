@@ -20,8 +20,6 @@ benefit = "Choose one weapon from the axes, hammers, or flails fighter weapon gr
 special = "A character with the weapon training (axes, hammers, or flails) class feature can use Smashing Style with any axe, flail, or hammer, respectively, in addition to the chosen weapon."
 +++
 
-## Smashing Style (Combat, Style)
-
 Your hammer blows dent armor, hampering your opponent.\
 **Prerequisites:** Str 13, [Improved Sunder](ref/feat/improved-sunder),
 [Power Attack](ref/feat/power-attack), [Weapon Focus](ref/feat/weapon-focus) with the chosen weapon.\

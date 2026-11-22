@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/planar-infusion"]
 benefit = "Choose a plane you've gained an infusion from via Planar Infusion. You now gain that plane's improved infusion as well."
 +++
 
-## Improved Planar Infusion (Conduit)
-
 Your connection to the planes has grown stronger.\
 **Prerequisites:** [Planar Infusion](ref/feat/planar-infusion), character level 7th.\
 **Benefit:** Choose a plane you've gained an infusion from via Planar Infusion. You now gain that

@@ -18,8 +18,6 @@ prerequisites = "Must be a member of an established family that is yet unrecogni
 benefit = "You have learned to further your name among the people. Choose a settlement and either Diplomacy or Intimidate. While in your chosen settlement, you gain a +2 bonus on checks with the chosen skill when dealing with the commoners of that settlement. If you have 10 or more ranks in the chosen skill, the bonus increases to +4."
 +++
 
-## Aspiring Noble (Story)
-
 You strive to be seen as a legitimate noble.\
 **Prerequisites:** Must be a member of an established family that is yet unrecognized as nobility.\
 **Benefit:** You have learned to further your name among the people. Choose a settlement and either

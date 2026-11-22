@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/weapon-focus"]
 benefit = "Each time you hit a creature with a two-handed reach weapon that you have Weapon Focus in, the creature is dazzled for 1 round."
 +++
 
-## Spear Dancer (Combat)
-
 You incorporate your two-handed reach weapon into a dizzying martial dance.\
 **Prerequisites:** [Weapon Focus](ref/feat/weapon-focus) (any two-handed reach weapon), Perform
 (dance) 4 ranks.\

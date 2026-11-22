@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/quick-draw", "ref/feat/twin-fang-style", "ref/fe
 benefit = "While using Twin Fang Style, when you take an attack action while wielding two daggers or two kama, you can strike with both your primary and off-hand weapons. If you do so, both attacks take a -4 penalty and you apply precision damage and effects that occur when you hit only once, even if you hit with both attacks."
 +++
 
-## Twin Fang Strike (Combat)
-
 You strike at your enemies with both weapons simultaneously.\
 **Prerequisites:** Dex 15; [Quick Draw](ref/feat/quick-draw);
 [Twin Fang Style](ref/feat/twin-fang-style); [Two-Weapon Fighting](ref/feat/two-weapon-fighting);

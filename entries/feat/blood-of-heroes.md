@@ -20,8 +20,6 @@ benefit = "Whenever you gain a level, you gain 2 hero points instead of 1."
 normal = "Whenever you gain a level, you gain 1 hero point."
 +++
 
-## Blood of Heroes (Hero Point)
-
 You have a sense of destiny about you and always seem to succeed, even when the odds are against
 you.\
 **Prerequisites:** [Hero's Fortune](ref/feat/heros-fortune).\

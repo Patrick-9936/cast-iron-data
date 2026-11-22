@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/cleave", "ref/feat/goblin-cleaver", "ref/feat/or
 benefit = "This functions as Goblin Cleaver, but your additional attacks can be made against creatures one size category larger than you or smaller. In addition, any such attacks made against humanoids (giant) gain a +2 circumstance bonus on attack rolls."
 +++
 
-## Giant Killer (Combat)
-
 Your cleaving strokes menace giants and larger foes.\
 **Prerequisites:** Str 13, [Cleave](ref/feat/cleave), [Goblin Cleaver](ref/feat/goblin-cleaver),
 [Orc Hewer](ref/feat/orc-hewer), [Power Attack](ref/feat/power-attack),

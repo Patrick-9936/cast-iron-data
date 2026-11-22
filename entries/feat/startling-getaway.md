@@ -19,8 +19,6 @@ benefit = "During a surprise round, after taking an attack action to attack a cr
 normal = "You can take only a single standard or move action during a surprise round."
 +++
 
-## Startling Getaway (Combat)
-
 You strike with surprise and then run circles around your foe.\
 **Prerequisites:** Startling appearance class feature.\
 **Benefit:** During a surprise round, after taking an attack action to attack a creature unaware of

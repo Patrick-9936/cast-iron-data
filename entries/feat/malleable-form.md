@@ -18,8 +18,6 @@ prerequisites = "Knowledge (planes) 7 ranks."
 benefit = "As a full-round action, you can infuse yourself with protoplasm, converting your body and equipment to a semi-gelatinous state. You gain the compression universal monster ability, which allows you to move through an area as small as one-quarter your space without squeezing or one-eighth your space when squeezing. You also gain a bonus to your CMD against grapple and trip combat maneuvers equal to half your ranks in Knowledge (planes). Due to your form's softness and instability, your attacks with manufactured weapons, natural weapons, and unarmed strikes deal half damage while you are in malleable form. This effect offers no protection against critical hits or precision damage."
 +++
 
-## Malleable Form (Conduit)
-
 You infuse your body with protoplasm from the Maelstrom.\
 **Prerequisites:** Knowledge (planes) 7 ranks.\
 **Benefit:** As a full-round action, you can infuse yourself with protoplasm, converting your body

@@ -20,8 +20,6 @@ benefit = "When you wield a tankard as an improvised weapon in your off hand, it
 normal = "A tankard wielded as an improvised weapon normally functions as a gauntlet."
 +++
 
-## Two-Weapon Drunkard (Combat)
-
 You effortlessly wield tankards in your off hand, and can use them to drink from and as deadly
 weapons in a battle with equal ease.\
 **Prerequisites:** [Catch Off-Guard](ref/feat/catch-off-guard),

@@ -20,8 +20,6 @@ benefit = "When making a charge, you can attempt to overrun one creature in the 
 normal = "You must have a clear path toward the target of your charge."
 +++
 
-## Charge Through (Combat)
-
 You can overrun enemies when charging.\
 **Prerequisites:** Str 13, [Improved Overrun](ref/feat/improved-overrun),
 [Power Attack](ref/feat/power-attack), base attack bonus +1.\

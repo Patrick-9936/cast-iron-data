@@ -19,8 +19,6 @@ benefit = "When casting a spell you've created, add 1 to your caster level. In a
 special = "For a self-created spell to benefit from this feat, it must be a truly novel spell. Spells slightly altered from the original (for example, delayed blast fireball as compared to fireball) gain no benefit. Alchemists can benefit from this feat as though their formulae and extracts were spells."
 +++
 
-## Eldritch Researcher (Story)
-
 You seek new applications for magical energy.\
 **Prerequisites:** You must have created a new spell, or have
 [The Way Things Work](ref/rule/class-background-tables) wizard background.\

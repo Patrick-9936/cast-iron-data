@@ -18,8 +18,6 @@ prerequisites = "Ability to cast wordspells."
 benefit = "You can use meta words three additional times per day. In addition, select one additional meta word and add it to your spellbook, familiar, or list of words known."
 +++
 
-## Meta Word Mastery (Words of Power)
-
 You are skilled at using meta words to enhance your wordcasting ability.\
 **Prerequisites:** Ability to cast [wordspells](ref/rule/words-of-power).\
 **Benefit:** You can use meta words three additional times per day. In addition, select one

@@ -19,8 +19,6 @@ benefit = "As a full-round action, you can curse a creature you've dealt damage 
 special = "A shaman or witch with this [blood hex](ref/rule/feats-class) can use it against any creature she has dealt damage to in the past minute. A shaman or witch can use this blood hex as a standard action."
 +++
 
-## Cataract (Blood Hex)
-
 You can curse the eyes of a wounded enemy.\
 **Prerequisites:** Int 13, Perception 5 ranks, Use Magic Device 1 rank.\
 **Benefit:** As a full-round action, you can curse a creature you've dealt damage to since the

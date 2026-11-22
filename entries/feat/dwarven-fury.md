@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/dwarven-hatred-style", "ref/feat/dwarven-seethin
 benefit = "When using Dwarven Seething, you can maintain bonuses from both your defensive training racial trait and hatred racial trait's against any number of opponents."
 +++
 
-## Dwarven Fury (Combat)
-
 You can channel your hatred against many opponents.\
 **Prerequisites:** [Dwarven Hatred Style](ref/feat/dwarven-hatred-style),
 [Dwarven Seething](ref/feat/dwarven-seething), base attack bonus +7, defensive training and hatred

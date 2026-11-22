@@ -20,8 +20,6 @@ benefit = "While using Monkey Style, if you successfully deliver a Stunning Fist
 normal = "You cannot enter an opponent's space."
 +++
 
-## Monkey Shine (Combat)
-
 You combine acrobatics and opportunity to devastating effect against your opponent.\
 **Prerequisites:** Wis 13, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Monkey Moves](ref/feat/monkey-moves), [Monkey Style](ref/feat/monkey-style),

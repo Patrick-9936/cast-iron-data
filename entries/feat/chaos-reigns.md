@@ -18,8 +18,6 @@ prerequisites = "Knowledge (planes) 3 ranks."
 benefit = "As a swift action, you can allow Abyssal wrath to overtake you. While in this state, you can use one of your hands as a slam natural attack that deals 1d6 points of damage (or 1d4 for Small creatures). A creature that does not have hands can instead use a different part of its body to make this slam attack."
 +++
 
-## Chaos Reigns (Conduit)
-
 The Abyss dreams of devastation; the slightest taste of its power is an incitement to bare-fisted
 violence.\
 **Prerequisites:** Knowledge (planes) 3 ranks.\

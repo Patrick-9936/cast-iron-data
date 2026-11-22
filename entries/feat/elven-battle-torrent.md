@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/elven-battle-focus", "ref/feat/elven-battle-styl
 benefit = "While using Elven Battle Style, any opponent that makes an attack against you and misses while you are fighting defensively or using total defense or the Combat Expertise feat provokes an attack of opportunity from you. Even if you have Combat Reflexes, you can't benefit from this feat more than once per round."
 +++
 
-## Elven Battle Torrent (Combat)
-
 You rapidly counter enemy attacks.\
 **Prerequisites:** Int 13, [Elven Battle Focus](ref/feat/elven-battle-focus),
 [Elven Battle Style](ref/feat/elven-battle-style),

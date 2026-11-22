@@ -23,8 +23,6 @@ prerequisite_feats = ["ref/feat/catch-off-guard", "ref/feat/throw-anything"]
 benefit = "You gain a +1 shield bonus to AC when you are wielding an improvised weapon and have your other hand free."
 +++
 
-## Improvised Defenses (Combat)
-
 You can deftly defend yourself with makeshift weapons.\
 **Prerequisites:** [Catch Off-Guard](ref/feat/catch-off-guard) or
 [Throw Anything](ref/feat/throw-anything), base attack bonus +1.\

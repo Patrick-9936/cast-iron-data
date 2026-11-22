@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/final-embrace"]
 benefit = "A creature that takes damage from your constrict attack is also shaken until the start of your next turn."
 +++
 
-## Final Embrace Horror (Combat)
-
 Your constricting attack has become stronger and more lethal.\
 **Prerequisites:** Str 15, Int 3; naga, [serpentfolk](ref/monster/serpentfolk), or creature that has
 the [constrict](ref/umr/constrict) special attack; [Final Embrace](ref/feat/final-embrace); base

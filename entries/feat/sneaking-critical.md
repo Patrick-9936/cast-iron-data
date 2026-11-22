@@ -20,8 +20,6 @@ benefit = "Whenever you confirm a critical hit on a sneak attack, you can roll a
 special = "You can apply the effects of only one critical feat to a given critical hit unless you possess Critical Mastery."
 +++
 
-## Sneaking Critical (Combat, Critical)
-
 Your critical hits are particularly deadly.\
 **Prerequisites:** [Critical Focus](ref/feat/critical-focus), base attack bonus +9,
 [sneak attack](ref/ability/sneak-attack) class feature.\

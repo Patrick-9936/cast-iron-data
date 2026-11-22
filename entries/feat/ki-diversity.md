@@ -19,8 +19,6 @@ benefit = "You learn how to channel your ki in a new ability. Choose one of the 
 special = "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, you may choose an additional ability from the list above. Monks can select this feat as a monk bonus feat."
 +++
 
-## Ki Diversity (Combat, Faction)
-
 You have trained at the feet of the masters of the Kusari-Gama, a secret society of monk warriors.
 With their secrets you have mastered new ways to apply your ki.\
 **Prerequisites:** Ki pool class feature, Wis 13, [Kusari-Gama](ref/rule/f-clans) 25 TPA.\

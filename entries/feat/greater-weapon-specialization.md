@@ -20,8 +20,6 @@ benefit = "You gain a +2 bonus on all damage rolls you make using the selected w
 special = "You can gain Greater Weapon Specialization multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon."
 +++
 
-## Greater Weapon Specialization (Combat)
-
 Choose one type of weapon (including unarmed strike or grapple) for which you possess the Weapon
 Specialization feat. Your attacks with the chosen weapon are more devastating than normal.\
 **Prerequisites:** Proficiency with selected weapon,

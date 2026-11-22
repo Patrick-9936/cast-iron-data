@@ -20,8 +20,6 @@ benefit = "You gain one additional Stunning Fist attempt per day. While using Dr
 special = "If you have the Elemental Fist feat, you can expend a daily use of that feat to deal your Elemental Fist damage to those caught in the cone. This damage is not halved even on a save."
 +++
 
-## Dragon Roar (Combat)
-
 The spirit of the dragon wells up inside you and bursts forth in a mighty roar.\
 **Prerequisites:** Str 15, [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Dragon Style](ref/feat/dragon-style), [Stunning Fist](ref/feat/stunning-fist), Acrobatics 8 ranks.\

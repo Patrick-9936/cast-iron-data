@@ -20,8 +20,6 @@ benefit = "You may use Stunning Fist when making melee attacks with special monk
 normal = "You can only use Stunning Fist when making an attack with an unarmed strike."
 +++
 
-## Cornugon Stun (Combat)
-
 You are able to make stunning attacks with special monk weapons.\
 **Prerequisites:** [Stunning Fist](ref/feat/stunning-fist).\
 **Benefit:** You may use Stunning Fist when making melee attacks with special monk weapons as well

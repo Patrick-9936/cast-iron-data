@@ -18,8 +18,6 @@ prerequisites = "10 Hit Dice, chaotic neutral alignment."
 benefit = "You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast lesser confusion as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. The duration of this effect on a failed save is 1d4 rounds. Lastly, you gain a +2 bonus on weapon and spell damage rolls against lawful creatures. This is an alignment-based effect."
 +++
 
-## Champion of Anarchy (Alignment)
-
 You spread chaos wherever you go.\
 **Prerequisites:** 10 Hit Dice, chaotic neutral alignment.\
 **Benefit:** You can store a number of [affirmations](ref/rule/shifts-and-affirmations) up to your

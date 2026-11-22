@@ -18,8 +18,6 @@ prerequisites = "Any one item creation feat or Craft (alchemy) 3 ranks."
 benefit = "You can harvest the ectoplasmic remains of haunts, incorporeal undead, or the like to craft magic items. Whenever you encounter a recently neutralized haunt, the remains of an incorporeal undead creature, or the remains of a creature that has the ability to possess another creature using a racial spell-like ability or supernatural ability (such as a ghost or a shadow demon), you can attempt to extract material components from those remains that are suitable for crafting magic items. You must have access to an alchemist's lab in order to extract components from a haunt or creature, and you must begin extracting these components within 10 minutes of the haunt or creature's death or destruction. After 10 minutes, the components have degraded too much to be of any use to you."
 +++
 
-## Haunt Scavenger (Item Creation)
-
 You can use spiritual essence to craft magic items.\
 **Prerequisites:** Any one item creation feat or Craft (alchemy) 3 ranks.\
 **Benefit:** You can harvest the ectoplasmic remains of haunts, incorporeal undead, or the like to

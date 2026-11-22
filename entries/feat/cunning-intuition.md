@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/alertness", "ref/feat/improved-initiative", "ref
 benefit = "When you ready an action, you do not need to declare what action you will take, only the trigger for that action and an action type (either standard, move, swift, or free). If you choose the standard action type, you can take a move action instead when your readied action triggers. When the condition triggers, you can choose a specific action of the appropriate type to take."
 +++
 
-## Cunning Intuition (Combat)
-
 You can read your foe's body language to gauge your foe and gain an edge in combat.\
 **Prerequisites:** [Alertness](ref/feat/alertness),
 [Improved Initiative](ref/feat/improved-initiative),

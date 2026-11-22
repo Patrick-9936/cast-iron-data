@@ -19,8 +19,6 @@ benefit = "When you take this feat, choose one of the benefits below. Whenever y
 special = "You can gain this feat multiple times. Each time you take this feat, you must choose a different benefit. You may only apply one of these benefits per round (chosen as a free action at the start of your turn)."
 +++
 
-## Orc Weapon Expertise (Combat)
-
 You can do more with the weapons orcs favor the most.\
 **Prerequisites:** Base attack bonus +1, [orc](ref/race/orc).\
 **Benefit:** When you take this feat, choose one of the benefits below. Whenever you wield a weapon

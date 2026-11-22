@@ -20,8 +20,6 @@ benefit = "Whenever you make an attack, you can choose to replace that attack wi
 normal = "You can make only one called shot in a round as a full-round action. A called shot that deals 50 points of damage is a debilitating blow."
 +++
 
-## Greater Called Shot (Called Shot)
-
 You can make multiple called shots where others could land but one.\
 **Prerequisites:** Int 13, [Combat Expertise](ref/feat/combat-expertise),
 [Improved Called Shot](ref/feat/improved-called-shot), base attack bonus +6.\

@@ -21,8 +21,6 @@ normal = "See Light Armor Proficiency."
 special = "Antipaladins, aristocrats, cavaliers, fighters, paladins, samurai, warpriests, and warriors automatically have Heavy Armor Proficiency as a bonus feat. They need not select it."
 +++
 
-## Heavy Armor Proficiency (Combat)
-
 You are skilled at wearing heavy armor.\
 **Prerequisites:** [Light Armor Proficiency](ref/feat/armor-proficiency-light),
 [Medium Armor Proficiency](ref/feat/armor-proficiency-medium).\

@@ -19,8 +19,6 @@ benefit = "You gain a +1 bonus on Charisma-based ability checks and skill checks
 special = "If you manage to regain your position without defeating a challenging foe, you may still complete this story feat at a later date if a suitable challenging foe attempts to steal your birthright again."
 +++
 
-## Lost Legacy (Story)
-
 What once belonged to your family shall be yours again.\
 **Prerequisites:** Your family must have claim to an inherited title or position that no longer
 belongs to them, or have the Dishonored Family

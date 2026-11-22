@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-unarmed-strike", "ref/feat/mantis-style
 benefit = "Treat half your levels in classes other than monk as monk levels for determining effects you can apply to a target of your Stunning Fist per the Stunning Fist monk class feature. You can also use a standard action and a successful melee touch attack to remove any Stunning Fist effect you have applied to a target."
 +++
 
-## Mantis Wisdom (Combat)
-
 Your knowledge of vital areas allows you to land debilitating strikes with precision.\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),
 [Mantis Style](ref/feat/mantis-style), [Stunning Fist](ref/feat/stunning-fist), Heal 6 ranks.\

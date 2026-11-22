@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/bullying-blow", "ref/feat/intimidating-prowess",
 benefit = "While using Orc Fury Style, you gain a +4 bonus on saving throws against effects created by shaken foes."
 +++
 
-## Orc Snarl (Combat)
-
 Your attacks leave your opponent quivering in fear.\
 **Prerequisites:** [Bullying Blow](ref/feat/bullying-blow),
 [Intimidating Prowess](ref/feat/intimidating-prowess), [Orc Fury Style](ref/feat/orc-fury-style),

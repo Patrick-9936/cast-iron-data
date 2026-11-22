@@ -19,8 +19,6 @@ benefit = "When you are hit by a confirmed critical hit or a sneak attack, there
 special = "This chance stacks with the light fortification and moderate fortification armor special abilities."
 +++
 
-## Secured Armor (Armor Mastery, Combat)
-
 You are adept at using your armor to cover your most vulnerable areas.\
 **Prerequisites:** Base attack bonus +11 or fighter level 8th, armor training class feature,
 proficiency with medium or heavy armor.\

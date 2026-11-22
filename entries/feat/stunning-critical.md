@@ -20,8 +20,6 @@ benefit = "Whenever you score a critical hit, your opponent becomes stunned for 
 special = "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery."
 +++
 
-## Stunning Critical (Combat, Critical)
-
 Your critical hits cause opponents to become stunned.\
 **Prerequisites:** [Critical Focus](ref/feat/critical-focus),
 [Staggering Critical](ref/feat/staggering-critical), base attack bonus +17.\

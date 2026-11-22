@@ -23,8 +23,6 @@ benefit = "As a standard action, you may make an attack with a bow or crossbow a
 special = "Starting at 2nd level, a ranger with the archery combat style may select Focused Shot as a combat style feat."
 +++
 
-## Focused Shot (Combat)
-
 Your anatomical insight adds deadliness to your shots.\
 **Prerequisites:** Int 13, [Point-Blank Shot](ref/feat/point-blank-shot),
 [Precise Shot](ref/feat/precise-shot).\

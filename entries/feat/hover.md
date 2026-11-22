@@ -19,8 +19,6 @@ benefit = "A creature with this feat can halt its movement while flying, allowin
 normal = "Without this feat, a creature must make a Fly skill check to hover and the creature does not create a cloud of debris while hovering."
 +++
 
-## Hover (Monster)
-
 This creature can hover in place with ease and can kick up clouds of dust and debris.\
 **Prerequisites:** Fly speed.\
 **Benefit:** A creature with this feat can halt its movement while flying, allowing it to hover

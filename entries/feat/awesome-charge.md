@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/awesome-blow", "ref/feat/improved-bull-rush", "r
 benefit = "When you hit your opponent with a charge attack, you can attempt an awesome blow combat maneuver against that opponent as a free action."
 +++
 
-## Awesome Charge (Combat)
-
 When you charge, you can send your opponent flying.\
 **Prerequisites:** Str 25, [Awesome Blow](ref/feat/awesome-blow),
 [Improved Bull Rush](ref/feat/improved-bull-rush), [Power Attack](ref/feat/power-attack).\

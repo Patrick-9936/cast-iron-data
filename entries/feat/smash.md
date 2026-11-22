@@ -20,8 +20,6 @@ benefit = "When you attack an inanimate, unattended object, you ignore the first
 special = "The benefits of this feat do not apply to sunder attempts or attacks against constructs, only attacks on inanimate, unattended objects."
 +++
 
-## Smash (Combat)
-
 You overcome obstacles by breaking them.\
 **Prerequisites:** [Power Attack](ref/feat/power-attack), [half-orc](ref/race/half-orc).\
 **Benefit:** When you attack an inanimate, unattended object, you ignore the first 5 points of its

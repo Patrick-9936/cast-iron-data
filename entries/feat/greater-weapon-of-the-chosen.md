@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-weapon-of-the-chosen", "ref/feat/weapon
 benefit = "When you use your deity's favored weapon to attempt a single attack with the attack action, you roll two dice for your attack roll and take the higher result. You do not need to use your Weapon of the Chosen feat to gain this feat's benefit. As usual, the reroll does not apply to any confirmation rolls."
 +++
 
-## Greater Weapon of the Chosen (Combat)
-
 Your deity guides your hand when you fight with her favored weapon.\
 **Prerequisites:** [Improved Weapon of the Chosen](ref/feat/improved-weapon-of-the-chosen),
 [Weapon Focus](ref/feat/weapon-focus) with deity's favored weapon,

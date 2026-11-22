@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-trip"]
 benefit = "When making a trip attack, add your Dexterity bonus to your CMB."
 +++
 
-## Fury's Fall (Combat)
-
 You can use strength and agility to send foes crashing to the ground.\
 **Prerequisites:** [Improved Trip](ref/feat/improved-trip).\
 **Benefit:** When making a [trip](ref/rule/trip) attack, add your Dexterity bonus to your CMB.

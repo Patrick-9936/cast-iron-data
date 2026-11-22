@@ -17,8 +17,6 @@ benefit = "You do not suffer any penalties for using an improvised melee weapon.
 normal = "You take a -4 penalty on attack rolls made with an improvised weapon."
 +++
 
-## Catch Off-Guard (Combat)
-
 Foes are surprised by your skilled use of unorthodox and
 [improvised weapons](ref/misc/improvised-weapons).\
 **Benefit:** You do not suffer any penalties for using an improvised melee weapon. Unarmed opponents

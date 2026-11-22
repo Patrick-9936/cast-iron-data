@@ -19,8 +19,6 @@ benefit = "Choose one combat feat you know that applies to a specific weapon (e.
 special = "You may take this feat more than once. Each time it applies to a different feat."
 +++
 
-## Martial Versatility (Combat)
-
 You further broaden your study of weapons to encompass multiple similar weapons.\
 **Prerequisites:** Fighter level 4th, [human](ref/race/human).\
 **Benefit:** Choose one combat feat you know that applies to a specific weapon (e.g.,

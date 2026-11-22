@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/dodge", "ref/feat/mobility"]
 benefit = "When a foe more than 5 feet away from you makes a melee attack against you using reach, you gain a +4 dodge bonus to your AC against the attack."
 +++
 
-## Just Out of Reach (Combat)
-
 The farther an attacker is from you, the more easily you avoid its melee attacks.\
 **Prerequisites:** Dex 13, [Dodge](ref/feat/dodge), [Mobility](ref/feat/mobility).\
 **Benefit:** When a foe more than 5 feet away from you makes a melee attack against you using reach,

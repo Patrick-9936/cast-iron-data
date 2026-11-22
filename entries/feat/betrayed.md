@@ -18,8 +18,6 @@ prerequisites = "You must have had a valuable item (worth at least 1,000 gp per 
 benefit = "When you are in a harmful area of effect created by an ally (through a spell or other means), you can roll your saving throw twice and take the better result. If you do so, your shaken trust means you do not provide flanking bonuses to any allies for 1 hour."
 +++
 
-## Betrayed (Story)
-
 Believing in a just cause left you with a knife in your back. Now you hoard your trust in others,
 rarely sharing it.\
 **Prerequisites:** You must have had a valuable item (worth at least 1,000 gp per character level)

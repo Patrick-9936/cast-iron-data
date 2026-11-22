@@ -20,8 +20,6 @@ benefit = "With a successful Swim check, you can move half your speed as a move 
 normal = "You cannot charge or run underwater unless you have a swim speed. With an unarmed strike, you usually add your Strength bonus on damage rolls."
 +++
 
-## Barracuda Slam (Combat)
-
 You learn to ram the whole weight of your body into an opponent to take it by surprise.\
 **Prerequisites:** Wis 13, [Barracuda Style](ref/feat/barracuda-style),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), Acrobatics 5 ranks, Swim 5 ranks.\

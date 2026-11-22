@@ -18,8 +18,6 @@ prerequisites = "Knowledge (planes) 3 ranks."
 benefit = "As a swift action, you gain the benefits of freedom of movement until the end of your turn or until you benefit from the effects to escape a grapple or magical restraint, whichever comes first."
 +++
 
-## Wanderer's Fortune (Conduit)
-
 The promise of Elysium's freedom liberates you from all forms of restraint, allowing you to move as
 you will and to avoid numerous kinds of restraints that would otherwise vex a traveler or explorer.\
 **Prerequisites:** Knowledge (planes) 3 ranks.\

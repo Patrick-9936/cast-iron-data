@@ -19,8 +19,6 @@ benefit = "When you are adjacent to your animal companion and an attack is made 
 special = "You cannot use this style if you are mounted on your animal companion."
 +++
 
-## Beastmaster Style (Combat, Style)
-
 Your animal companion is your most treasured friend, and you steadfastly protect it from your foes.\
 **Prerequisites:** Cha 13, Handle Animal 1 rank, must have an
 [animal companion](ref/sidekick/animal-companion).\

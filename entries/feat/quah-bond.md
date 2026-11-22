@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/totem-spirit"]
 benefit = "If at least one Shoanti ally from the same quah who also has this feat is within 30 feet, double your benefits from the Totem Spirit feat."
 +++
 
-## Quah Bond (Teamwork)
-
 Your bond with your totem spirit increases around others of the same quah.\
 **Prerequisites:** [Totem Spirit](ref/feat/totem-spirit), [human](ref/race/human) (Shoanti).\
 **Benefit:** If at least one Shoanti ally from the same quah who also has this feat is within 30

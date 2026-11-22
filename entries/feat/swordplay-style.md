@@ -20,8 +20,6 @@ benefit = "Choose one weapon from the heavy blades or light blades fighter weapo
 special = "A character with the swashbuckler weapon training or weapon training (heavy blades or light blades) class feature can use Swordplay Style with any light or one-handed piercing melee weapon, heavy blade, or light blade, respectively, in addition to the chosen weapon."
 +++
 
-## Swordplay Style (Combat, Style)
-
 Your defense relies on perfectly timed attacks.\
 **Prerequisites:** [Combat Expertise](ref/feat/combat-expertise),
 [Weapon Focus](ref/feat/weapon-focus) with the chosen weapon, base attack bonus +3.\

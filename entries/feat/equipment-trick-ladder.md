@@ -18,8 +18,6 @@ benefit = "You can use any Equipment Trick related to the chosen item as long as
 special = "You can gain Equipment Trick multiple times. Each time you take the feat, it applies to a new type of equipment. (These are listed as separate feats for reading convenience.)"
 +++
 
-## Equipment Trick (Ladder) (Combat)
-
 Choose a piece of equipment, such as an boots, a cloak, rope, a shield, or a heavy blade scabbard.
 You understand how to use that piece of equipment in combat.\
 **Prerequisites:** Base attack bonus +1.\

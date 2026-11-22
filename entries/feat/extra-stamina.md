@@ -20,8 +20,6 @@ benefit = "Your stamina pool increases by 3 points."
 special = "You can select this feat up to three times. Each time you do, your stamina pool grows by 3 points."
 +++
 
-## Extra Stamina (Combat)
-
 You can push yourself to higher limits.\
 **Prerequisites:** [Combat Stamina](ref/feat/combat-stamina), base attack bonus +5.\
 **Benefit:** Your stamina pool increases by 3 points.\

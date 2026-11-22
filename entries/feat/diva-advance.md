@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/combat-expertise", "ref/feat/diva-strike", "ref/
 benefit = "While using Diva Style, you do not provoke attacks of opportunity from creatures you have successfully feinted against. Additionally, you can feint against a creature using Diva Style from up to 30 feet away."
 +++
 
-## Diva Advance (Combat)
-
 You stride forward with confidence, trusting your performance to protect you as much as your arms
 and armor.\
 **Prerequisites:** Cha 17, [Combat Expertise](ref/feat/combat-expertise),

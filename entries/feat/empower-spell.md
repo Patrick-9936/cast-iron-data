@@ -17,8 +17,6 @@ feat_types = ["Metamagic"]
 benefit = "All variable, numeric effects of an empowered spell are increased by half including bonuses to those dice rolls."
 +++
 
-## Empower Spell (Metamagic)
-
 You can increase the power of your spells, causing them to deal more damage.\
 **Benefit:** All variable, numeric effects of an empowered spell are increased by half including
 bonuses to those dice rolls.

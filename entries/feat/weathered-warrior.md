@@ -20,8 +20,6 @@ benefit = "In areas of strong or severe wind or when affected by wind effects or
 normal = "Strong and severe winds impose -2 and -4 penalties on ranged attack rolls, respectively. Making ranged attacks in windstorms is impossible."
 +++
 
-## Weathered Warrior (Combat)
-
 You have a steady hand in any weather.\
 **Prerequisites:** [Endurance](ref/feat/endurance).\
 **Benefit:** In areas of strong or severe [wind](ref/rule/winds) or when affected by wind effects or

@@ -23,8 +23,6 @@ benefit = "When you use Adder Strike, you can instead poison up to two blowgun d
 normal = "Applying poison to a weapon or single piece of ammunition is a standard action."
 +++
 
-## Pinpoint Poisoner (Combat)
-
 You deftly use specially prepared needles to apply poison for maximum effect.\
 **Prerequisites:** [Poison use](ref/ability/poison-use) class feature, Craft (alchemy) 6 ranks,
 [Adder Strike](ref/feat/adder-strike), [Improved Unarmed Strike](ref/feat/improved-unarmed-strike),

@@ -18,8 +18,6 @@ prerequisites = "Elf."
 benefit = "If you miss due to concealment when making a ranged attack with a longbow or shortbow (including composite bows), you can reroll your miss chance roll one time to see if you actually hit."
 +++
 
-## Elven Accuracy (Combat)
-
 Your sharp eyesight makes difficult shots easier.\
 **Prerequisites:** [Elf](ref/race/elf).\
 **Benefit:** If you miss due to [concealment](ref/rule/concealment) when making a ranged attack with

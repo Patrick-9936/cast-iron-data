@@ -20,8 +20,6 @@ benefit = "Whenever you score a critical hit, your opponent becomes sickened for
 special = "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery."
 +++
 
-## Sickening Critical (Combat, Critical)
-
 Your critical hits cause opponents to become sickened.\
 **Prerequisites:** [Critical Focus](ref/feat/critical-focus), base attack bonus +11.\
 **Benefit:** Whenever you score a critical hit, your opponent becomes [sickened](ref/misc/sickened)

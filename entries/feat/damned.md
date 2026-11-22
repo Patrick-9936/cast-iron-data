@@ -21,8 +21,6 @@ prerequisites = "You must have had friendly contact with an evil-aligned outside
 benefit = "You gain a +2 bonus on Charisma-based checks involving evil-aligned outsiders and +1 bonus to the DC of spells and spell-like abilities you use against such creatures. You take a -2 penalty on Charisma-based checks involving good-aligned outsiders."
 +++
 
-## Damned (Story)
-
 From your earliest days, you were destined to sacrifice everything in your quest for power.\
 **Prerequisites:** You must have had friendly contact with an evil-aligned outsider that would
 qualify as a challenging foe, have a fiend-related sorcerous bloodline such as

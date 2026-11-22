@@ -19,8 +19,6 @@ benefit = "As a standard action, you can attempt a DC 20 Sleight of Hand check t
 special = "If you have Walking Sleight, you can take either or both of your actions with Swipe and Stash at any point during your movement in the same round, moving both before and after both snatching and planting the object if you wish to do so and have enough movement."
 +++
 
-## Swipe and Stash (Combat)
-
 Your fast fingers allow you to deftly deposit an item on someone else.\
 **Prerequisites:** Sleight of Hand 5 ranks.\
 **Benefit:** As a standard action, you can attempt a DC 20 Sleight of Hand check to plant a small

@@ -20,8 +20,6 @@ benefit = "You don't take additional penalties on attack and damage rolls for fi
 normal = "When using bludgeoning and slashing melee weapons underwater, you take a -2 penalty on attack rolls and deal half damage."
 +++
 
-## Aquadynamic Focus (Combat)
-
 Your skill with your chosen weapons is so great that you can use them underwater without impediment.\
 **Prerequisites:** [Weapon Focus](ref/feat/weapon-focus), base attack bonus +1.\
 **Benefit:** You don't take additional penalties on attack and damage rolls for fighting underwater

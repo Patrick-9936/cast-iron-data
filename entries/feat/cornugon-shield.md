@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/weapon-focus"]
 benefit = "When wielding a spiked chain, you gain a +1 shield bonus to your AC. When you are fighting defensively or using the total defense action, this shield bonus increases to +2."
 +++
 
-## Cornugon Shield (Combat)
-
 You can use your [spiked chain](ref/eq-weapon/spiked-chain) as both armor and weapon.\
 **Prerequisites:** Dex 15, [Weapon Focus](ref/feat/weapon-focus) (spiked chain).\
 **Benefit:** When wielding a spiked chain, you gain a +1 shield bonus to your AC. When you are

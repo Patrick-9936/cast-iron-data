@@ -20,8 +20,6 @@ benefit = "When you are in Charging Stag Style and succeed at a combat maneuver 
 normal = "After successfully maintaining a grapple on a target, you can choose to move, damage, or pin the target."
 +++
 
-## Stag Submission (Combat)
-
 You can quickly subdue an opponent you've charged using a special submission hold.\
 **Prerequisites:** [Charging Stag Style](ref/feat/charging-stag-style), [Dodge](ref/feat/dodge),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), [Mobility](ref/feat/mobility),

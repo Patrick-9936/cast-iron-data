@@ -22,8 +22,6 @@ prerequisite_feats = ["ref/feat/perfect-style", "ref/feat/quick-draw"]
 benefit = "When using Perfect Style, you double the range increment of any thrown weapon you wield. You can spend 1 ki point as a swift action to imbue a number of thrown weapons equal to your Wisdom bonus with the returning or seeking weapon special ability for 1 round."
 +++
 
-## Unfolding Wind Strike (Combat)
-
 The wind through which your thrown weapons fly directs them to their targets or back to your hand.\
 **Prerequisites:** Dex 13; Wis 13; [Perfect Style](ref/feat/perfect-style);
 [Quick Draw](ref/feat/quick-draw); base attack bonus +9 or monk level 9th.\

@@ -23,8 +23,6 @@ benefit = "Your unarmed attacks can deal either bludgeoning or piercing damage. 
 special = "Hamatulatsu may be selected as a substitute bonus feat at 6th level by a monk even if the monk does not otherwise meet the prerequisites. This fighting style is normally only taught to women of the Sisterhood of the Golden Erinyes."
 +++
 
-## Hamatulatsu (Combat)
-
 You have mastered a deadly fighting form inspired by the hideous attacks of the
 [barbed devil](ref/monster/devil-barbed-devil-hamatula).\
 **Prerequisites:** [Improved Unarmed Strike](ref/feat/improved-unarmed-strike).\

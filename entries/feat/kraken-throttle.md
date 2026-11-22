@@ -19,8 +19,6 @@ prerequisite_feats = ["ref/feat/improved-grapple", "ref/feat/improved-unarmed-st
 benefit = "The damage that you deal with the Kraken Style feat on a successful grapple combat maneuver check increases to an amount equal to your Wisdom bonus + 2."
 +++
 
-## Kraken Throttle (Combat)
-
 You tighten your grip around your target's throat.\
 **Prerequisites:** Wis 13, [Improved Grapple](ref/feat/improved-grapple),
 [Improved Unarmed Strike](ref/feat/improved-unarmed-strike), [Kraken Style](ref/feat/kraken-style),

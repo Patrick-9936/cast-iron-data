@@ -19,8 +19,6 @@ benefit = "Choose one type of terrain affiliated with the relevant blight. You g
 special = "Once per day, you can cast any one of the following spells as a spell-like ability, using your character level as your caster level: consecrate, neutralize poison, remove curse, or remove disease."
 +++
 
-## Agent of Purity (Story)
-
 You have devoted your life to purging blight from the world.\
 **Prerequisites:** A friend or ally must have been significantly corrupted by a specific natural or
 supernatural blight, or you must have a regional background trait tied to a specific blight.\
