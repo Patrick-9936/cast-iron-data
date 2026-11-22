@@ -16,27 +16,14 @@ relations = [
 kind = "feat"
 feat_types = ["Mythic"]
 prerequisites = "Improved Sunder."
-benefit = "You gain a bonus equal to half your tier on checks to sunder, and to your CMD when an opponent tries to sunder an object used by you. These bonuses stack with those granted by Improved Sunder. Furthermore, you can make an attack of opportunity against any creature that attempts to sunder an object used by you, unless it also has this feat."
+benefit = "You gain a bonus equal to half your tier on checks to sunder, and to your CMD when an opponent tries to sunder an object used by you. These bonuses stack with those granted by Improved Sunder."
 +++
 
-::: statblock
-Type: Mythic
-:::
+Your mighty smashing blows demolish objects.\
+**Prerequisites:** Improved Sunder.\
+**Benefit:** You gain a bonus equal to half your tier on checks to sunder, and to your CMD when an
+opponent tries to sunder an object used by you. These bonuses stack with those granted by Improved
+Sunder.
 
-_Your mighty smashing blows demolish objects._
-
-## Prerequisites {#prerequisites}
-
-_Improved Sunder._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain a bonus equal to half your tier on checks to sunder, and to your CMD when an opponent tries
-to sunder an object used by you. These bonuses stack with those granted by Improved Sunder.
-:::
-
-::: paragraph statline
 Furthermore, you can make an attack of opportunity against any creature that attempts to sunder an
 object used by you, unless it also has this feat.
-:::

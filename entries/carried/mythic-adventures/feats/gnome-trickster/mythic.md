@@ -16,29 +16,15 @@ relations = [
 kind = "feat"
 feat_types = ["Mythic"]
 prerequisites = "Gnome Trickster."
-benefit = "You gain the following spell-like abilities: 1/day—blur and vanish. You can use your gnome spell-like abilities an additional number of times per day equal to half your tier. You can spend these additional uses to use any of your gnome spell-like abilities you wish. Your caster level for your gnome spell-like abilities becomes your character level plus your tier."
+benefit = "You gain the following spell-like abilities: 1/day—blur and vanish."
 +++
 
-::: statblock
-Type: Mythic
-:::
-
-_Thanks to your mythic power, the magic in your blood has grown more potent and diverse._
-
-## Prerequisites {#prerequisites}
-
-_Gnome Trickster._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain the following spell-like abilities: 1/day—_[blur](ref/spell/blur)_ and
+Thanks to your mythic power, the magic in your blood has grown more potent and diverse.\
+**Prerequisites:** Gnome Trickster.\
+**Benefit:** You gain the following spell-like abilities: 1/day—_[blur](ref/spell/blur)_ and
 _[vanish](ref/spell/vanish)_.
-:::
 
-::: paragraph statline
 You can use your gnome [spell-like abilities](ref/umr/spell-like-abilities) an additional number of
 times per day equal to half your tier. You can spend these additional uses to use any of your gnome
 spell-like abilities you wish. Your caster level for your gnome spell-like abilities becomes your
 character level plus your tier.
-:::

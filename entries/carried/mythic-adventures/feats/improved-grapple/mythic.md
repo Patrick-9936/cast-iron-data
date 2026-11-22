@@ -16,27 +16,13 @@ relations = [
 kind = "feat"
 feat_types = ["Mythic"]
 prerequisites = "Improved Grapple."
-benefit = "You gain a bonus equal to half your tier on checks to grapple, and to your CMD when an opponent tries to grapple you. These bonuses stack with those granted by Improved Grapple. Furthermore, you can make an attack of opportunity against any creature that attempts to grapple you, unless it also has this feat."
+benefit = "You gain a bonus equal to half your tier on checks to grapple, and to your CMD when an opponent tries to grapple you. These bonuses stack with those granted by Improved Grapple."
 +++
 
-::: statblock
-Type: Mythic
-:::
+Your wrestling moves are difficult to counter.\
+**Prerequisites:** Improved Grapple.\
+**Benefit:** You gain a bonus equal to half your tier on checks to grapple, and to your CMD when an
+opponent tries to grapple you. These bonuses stack with those granted by Improved Grapple.
 
-_Your wrestling moves are difficult to counter._
-
-## Prerequisites {#prerequisites}
-
-_Improved Grapple._
-
-## Benefits {#benefits}
-
-::: paragraph statline
-You gain a bonus equal to half your tier on checks to grapple, and to your CMD when an opponent
-tries to grapple you. These bonuses stack with those granted by Improved Grapple.
-:::
-
-::: paragraph statline
 Furthermore, you can make an attack of opportunity against any creature that attempts to grapple
 you, unless it also has this feat.
-:::
