@@ -15,7 +15,7 @@ kind = "item"
 category = "Artifacts"
 price = "-"
 weight = "1 lb."
-slot = "eye"
+slot = "eyes"
 aura = "overwhelming conjuration, divination, and necromancy"
 caster_level = "20th"
 +++
