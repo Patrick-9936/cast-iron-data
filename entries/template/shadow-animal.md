@@ -14,8 +14,6 @@ page = "60"
 kind = "none"
 +++
 
-**Shadow Animal**
-
 **Acquired:** present
 
 **Challenge rating:** +1 or +2

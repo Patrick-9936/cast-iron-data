@@ -14,8 +14,6 @@ page = "33"
 kind = "none"
 +++
 
-**Counterpoised**
-
 **Acquired:** present
 
 **Challenge rating:** +0 to +1

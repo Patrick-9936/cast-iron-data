@@ -14,8 +14,6 @@ page = "58"
 kind = "none"
 +++
 
-**Runeplated Construct**
-
 **Acquired:** present
 
 **Challenge rating:** +1

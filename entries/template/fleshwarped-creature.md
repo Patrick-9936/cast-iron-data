@@ -14,8 +14,6 @@ page = "250"
 kind = "none"
 +++
 
-**Fleshwarped Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

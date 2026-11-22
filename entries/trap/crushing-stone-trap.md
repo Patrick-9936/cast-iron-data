@@ -14,8 +14,6 @@ page = "422"
 kind = "none"
 +++
 
-**Crushing Stone Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 15

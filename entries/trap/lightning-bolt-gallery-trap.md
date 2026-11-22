@@ -14,8 +14,6 @@ page = "422"
 kind = "none"
 +++
 
-**Lightning Bolt Gallery Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 17

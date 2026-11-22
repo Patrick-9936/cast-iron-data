@@ -14,8 +14,6 @@ page = "18"
 kind = "none"
 +++
 
-**Aerial**
-
 **Acquired:** present
 
 **Challenge rating:** +0 or +1

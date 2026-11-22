@@ -14,8 +14,6 @@ page = "248"
 kind = "none"
 +++
 
-**Accursed**
-
 **Acquired:** present
 
 **Challenge rating:** +1

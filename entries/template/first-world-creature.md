@@ -14,8 +14,6 @@ page = "57"
 kind = "none"
 +++
 
-**First World Creature**
-
 **Challenge rating:** +0 or +1
 
 **Inherited:** present

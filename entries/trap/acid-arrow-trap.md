@@ -14,8 +14,6 @@ page = "420"
 kind = "none"
 +++
 
-**Acid Arrow Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 3

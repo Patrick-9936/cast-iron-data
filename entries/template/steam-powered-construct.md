@@ -14,8 +14,6 @@ page = "62"
 kind = "none"
 +++
 
-**Steam-Powered Construct**
-
 **Challenge rating:** +2
 
 **Inherited:** present

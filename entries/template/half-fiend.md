@@ -17,8 +17,6 @@ page = "3"
 kind = "none"
 +++
 
-**Half-Fiend**
-
 **Acquired:** present
 
 **Challenge rating:** +1 to +3

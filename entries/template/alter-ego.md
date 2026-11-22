@@ -14,8 +14,6 @@ page = "9"
 kind = "none"
 +++
 
-**Alter Ego**
-
 **Acquired:** present
 
 **Challenge rating:** +0

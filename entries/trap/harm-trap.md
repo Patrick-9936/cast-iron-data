@@ -14,8 +14,6 @@ page = "422"
 kind = "none"
 +++
 
-**Harm Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 14

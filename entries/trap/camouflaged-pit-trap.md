@@ -14,8 +14,6 @@ page = "420"
 kind = "none"
 +++
 
-**Camouflaged Pit Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 3

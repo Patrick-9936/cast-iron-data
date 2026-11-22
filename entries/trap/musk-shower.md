@@ -14,8 +14,6 @@ page = "172"
 kind = "none"
 +++
 
-**Musk Shower**
-
 **Type:** Mechanical
 
 **Challenge rating:** 1

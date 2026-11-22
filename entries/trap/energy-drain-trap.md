@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Energy Drain Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 10

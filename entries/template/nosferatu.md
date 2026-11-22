@@ -14,8 +14,6 @@ page = "267"
 kind = "none"
 +++
 
-**Nosferatu**
-
 **Acquired:** present
 
 **Challenge rating:** +2

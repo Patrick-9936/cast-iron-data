@@ -14,8 +14,6 @@ page = "162"
 kind = "none"
 +++
 
-**Faceless Statue Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 7

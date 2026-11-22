@@ -14,8 +14,6 @@ page = "31"
 kind = "none"
 +++
 
-**Granule Construct Host**
-
 **Acquired:** present
 
 **Challenge rating:** +0

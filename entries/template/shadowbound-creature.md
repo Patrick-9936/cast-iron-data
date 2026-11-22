@@ -14,8 +14,6 @@ page = "250"
 kind = "none"
 +++
 
-**Shadowbound Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

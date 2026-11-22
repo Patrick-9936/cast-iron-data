@@ -14,8 +14,6 @@ page = "248"
 kind = "none"
 +++
 
-**Sorcerer**
-
 **Acquired:** present
 
 **Challenge rating:** +1, +2 or +3

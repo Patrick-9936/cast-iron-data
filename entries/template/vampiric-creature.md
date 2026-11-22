@@ -14,8 +14,6 @@ page = "250"
 kind = "none"
 +++
 
-**Vampiric Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

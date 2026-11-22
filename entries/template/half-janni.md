@@ -14,8 +14,6 @@ page = "27"
 kind = "none"
 +++
 
-**Half-Janni**
-
 **Acquired:** present
 
 **Challenge rating:** +2

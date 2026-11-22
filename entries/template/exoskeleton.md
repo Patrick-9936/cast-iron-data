@@ -14,8 +14,6 @@ page = "124"
 kind = "none"
 +++
 
-**Exoskeleton**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

@@ -14,8 +14,6 @@ page = "262"
 kind = "none"
 +++
 
-**Vahana**
-
 **Acquired:** present
 
 **Challenge rating:** +2

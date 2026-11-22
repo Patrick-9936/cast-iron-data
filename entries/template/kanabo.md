@@ -14,8 +14,6 @@ page = "32"
 kind = "none"
 +++
 
-**Kanabo**
-
 **Challenge rating:** +0 or +1
 
 **Inherited:** present

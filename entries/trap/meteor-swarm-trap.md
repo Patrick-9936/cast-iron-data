@@ -14,8 +14,6 @@ page = "422"
 kind = "none"
 +++
 
-**Meteor Swarm Trap**
-
 **Type:** Magic
 
 **Challenge rating:** 19

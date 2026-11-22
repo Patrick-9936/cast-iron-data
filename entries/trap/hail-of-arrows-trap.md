@@ -14,8 +14,6 @@ page = "421"
 kind = "none"
 +++
 
-**Hail of Arrows Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 9

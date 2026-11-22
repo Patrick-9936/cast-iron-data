@@ -17,8 +17,6 @@ page = "74"
 kind = "none"
 +++
 
-**Worm that Walks**
-
 **Acquired:** present
 
 **Challenge rating:** +2

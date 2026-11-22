@@ -14,8 +14,6 @@ page = "17"
 kind = "none"
 +++
 
-**Bestial Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +0

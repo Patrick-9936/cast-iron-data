@@ -14,8 +14,6 @@ page = "62"
 kind = "none"
 +++
 
-**Dreamspawn**
-
 **Acquired:** present
 
 **Challenge rating:** +1

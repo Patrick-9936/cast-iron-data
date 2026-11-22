@@ -14,8 +14,6 @@ page = "90"
 kind = "none"
 +++
 
-**Seeded**
-
 **Challenge rating:** +1
 
 **Inherited:** present

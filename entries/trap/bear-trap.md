@@ -14,8 +14,6 @@ page = "184"
 kind = "none"
 +++
 
-**Bear Trap**
-
 **Type:** Mechanical
 
 **Challenge rating:** 1

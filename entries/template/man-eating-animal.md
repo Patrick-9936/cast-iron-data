@@ -14,8 +14,6 @@ page = "89"
 kind = "none"
 +++
 
-**Man-Eating Animal**
-
 **Acquired:** present
 
 **Challenge rating:** +1, +2, or +3

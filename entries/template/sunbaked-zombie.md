@@ -14,8 +14,6 @@ page = "88"
 kind = "none"
 +++
 
-**Sunbaked Zombie**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

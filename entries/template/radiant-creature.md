@@ -14,8 +14,6 @@ page = "123"
 kind = "none"
 +++
 
-**Radiant Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

@@ -14,8 +14,6 @@ page = "240"
 kind = "none"
 +++
 
-**Apostle Kyton**
-
 **Acquired:** present
 
 **Challenge rating:** +2

@@ -14,8 +14,6 @@ page = "20"
 kind = "none"
 +++
 
-**Pod-Spawned**
-
 **Acquired:** present
 
 **Challenge rating:** +0, -1, or -2

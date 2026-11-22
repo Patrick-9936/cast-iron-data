@@ -14,8 +14,6 @@ page = "87"
 kind = "none"
 +++
 
-**Runewarped Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

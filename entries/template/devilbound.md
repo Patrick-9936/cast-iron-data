@@ -14,8 +14,6 @@ page = "56"
 kind = "none"
 +++
 
-**Devilbound**
-
 **Acquired:** present
 
 **Challenge rating:** +1

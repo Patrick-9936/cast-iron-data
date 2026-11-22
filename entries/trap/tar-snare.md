@@ -14,8 +14,6 @@ page = "172"
 kind = "none"
 +++
 
-**Tar Snare**
-
 **Type:** Mechanical
 
 **Challenge rating:** 1

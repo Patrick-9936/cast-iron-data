@@ -14,8 +14,6 @@ page = "288"
 kind = "none"
 +++
 
-**Degenerate**
-
 **Acquired:** present
 
 **Challenge rating:** -1

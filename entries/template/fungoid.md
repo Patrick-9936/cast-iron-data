@@ -14,8 +14,6 @@ page = "131"
 kind = "none"
 +++
 
-**Fungoid**
-
 **Acquired:** present
 
 **Challenge rating:** +1

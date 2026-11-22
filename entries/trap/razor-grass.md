@@ -14,8 +14,6 @@ page = "173"
 kind = "none"
 +++
 
-**Razor Grass**
-
 **Type:** Mechanical
 
 **Challenge rating:** 3

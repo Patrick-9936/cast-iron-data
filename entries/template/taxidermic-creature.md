@@ -14,8 +14,6 @@ page = "240"
 kind = "none"
 +++
 
-**Taxidermic Creature**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

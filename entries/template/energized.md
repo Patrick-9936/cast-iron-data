@@ -14,8 +14,6 @@ page = "38"
 kind = "none"
 +++
 
-**Energized**
-
 **Acquired:** present
 
 **Challenge rating:** +2

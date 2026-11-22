@@ -14,8 +14,6 @@ page = "292"
 kind = "none"
 +++
 
-**Entropic**
-
 **Acquired:** present
 
 **Challenge rating:** +0 or +1

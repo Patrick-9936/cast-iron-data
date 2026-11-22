@@ -14,8 +14,6 @@ page = "216"
 kind = "none"
 +++
 
-**Mythic Skeleton**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

@@ -14,8 +14,6 @@ page = "249"
 kind = "none"
 +++
 
-**Lich Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

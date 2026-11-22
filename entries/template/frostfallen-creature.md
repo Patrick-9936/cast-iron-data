@@ -14,8 +14,6 @@ page = "84"
 kind = "none"
 +++
 
-**Frostfallen Creature**
-
 **Acquired:** present
 
 **Challenge rating:** +1

@@ -20,8 +20,6 @@ page = "33"
 kind = "none"
 +++
 
-**Zombie**
-
 **Acquired:** present
 
 **Challenge rating:** Varies

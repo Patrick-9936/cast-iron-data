@@ -14,8 +14,6 @@ page = "60"
 kind = "none"
 +++
 
-**Failed Prophet**
-
 **Acquired:** present
 
 **Challenge rating:** +2

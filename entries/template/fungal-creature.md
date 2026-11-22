@@ -14,8 +14,6 @@ page = "116"
 kind = "none"
 +++
 
-**Fungal Creature**
-
 **Challenge rating:** +1
 
 **Inherited:** present

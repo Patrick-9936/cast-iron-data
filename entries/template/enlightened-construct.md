@@ -14,8 +14,6 @@ page = "40"
 kind = "none"
 +++
 
-**Enlightened Construct**
-
 **Acquired:** present
 
 **Challenge rating:** +1, +2, or +3

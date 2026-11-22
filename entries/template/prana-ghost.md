@@ -14,8 +14,6 @@ page = "41"
 kind = "none"
 +++
 
-**Prana Ghost**
-
 **Acquired:** present
 
 **Challenge rating:** +1

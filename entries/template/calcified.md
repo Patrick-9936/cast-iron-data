@@ -14,8 +14,6 @@ page = "61"
 kind = "none"
 +++
 
-**Calcified**
-
 **Acquired:** present
 
 **Challenge rating:** +1

@@ -14,8 +14,6 @@ page = "253"
 kind = "none"
 +++
 
-**Tsukumogami**
-
 **Acquired:** present
 
 **Challenge rating:** +2

@@ -14,8 +14,6 @@ page = "60"
 kind = "none"
 +++
 
-**Soulbound Construct**
-
 **Acquired:** present
 
 **Challenge rating:** +1 or +2

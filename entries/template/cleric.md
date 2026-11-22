@@ -14,8 +14,6 @@ page = "246"
 kind = "none"
 +++
 
-**Cleric**
-
 **Acquired:** present
 
 **Challenge rating:** +1, +2, or +3
