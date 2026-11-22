@@ -13,7 +13,6 @@ provenance = [
 kind = "creature"
 cr = "12"
 creature_type = "construct"
-size = "artificial"
 alignment = "N"
 fortitude = "+4"
 reflex = "+4"
@@ -26,7 +25,6 @@ abilities = ["-", "-", "-", "24", "12", "12"]
 CR: 12
 XP: 19,200
 Alignment: N
-Size: artificial
 Type: Intelligence
 Init: +11
 Senses: Perception +15

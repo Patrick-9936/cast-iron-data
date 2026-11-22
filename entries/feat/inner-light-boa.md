@@ -13,7 +13,6 @@ page = "25"
 
 [fields]
 kind = "feat"
-feat_types = ["BoA"]
 prerequisites = "Aasimar, daylight spell-like ability."
 benefit = "Whenever you cast your *daylight* spell-like ability, you do so as if your caster level were one higher. Whenever an enemy successfully counters or dispels your *daylight* spell-like ability, you and any allies within a 20-foot radius gain darkvision 60 feet for a number of rounds equal to your character level. This is a supernatural effect."
 +++

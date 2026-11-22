@@ -13,7 +13,6 @@ page = "19"
 
 [fields]
 kind = "feat"
-feat_types = ["UW"]
 prerequisites = "Wis 13, ghoran."
 benefit = "Once per day, you can cast daylight as a spell-like ability with a caster level equal to your character level. If you have the light dependent racial trait, you can instead cast this spell without the usual effect, but you are considered to be exposed to sunlight for that day."
 +++
