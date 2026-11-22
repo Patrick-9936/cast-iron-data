@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your military service in Lastwall taught you how to identify undead creatures, changing
 them in your mind from mysterious terrors to concrete foes you know how to deal with.
 

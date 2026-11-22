@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You spent your childhood in a region of Golarion where the use of elemental magic is
 commonplace or the environment is heavily infused with elemental energies, such as the volcano
 Asuulek's Mouth or the hurricane-lashed Sodden Lands. Your time near raw elemental energies has

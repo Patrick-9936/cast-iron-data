@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Mummy's Mask
 
 **Flavor:** You were born and raised in the city of Wati, and you know its streets and secrets well.

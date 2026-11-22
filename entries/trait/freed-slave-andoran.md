@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Andoran
 
 **Flavor:** You were either born or sold into slavery, but were freed by Andoren abolitionists. Your

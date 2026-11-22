@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Abadar](ref/faith/abadar)
 
 **Flavor:** Your religious training involved serving in the city watch of a large city, the primary

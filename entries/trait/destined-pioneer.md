@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Taldan
 
 **Flavor:** Your forebears served in an Army of Exploration, and you retain that expansionist

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You've failed the trials to gain entry to one of the
 [Houses of Perfection](ref/rule/aff-monasteries). Though you are disappointed, you were able to pick
 up one trick from the monks.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Rahadoum
 
 **Flavor:** You have spent time among the famed Pure Legion and understand some of their techniques

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You have shown a significant talent for the magical arts, gaining the attention of the
 famed Acadamae of Korvosa.
 

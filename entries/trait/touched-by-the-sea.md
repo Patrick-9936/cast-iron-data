@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Skull and Shackles
 
 **Flavor:** You've always felt the call of the sea and your blood surges with the ebb and flow of

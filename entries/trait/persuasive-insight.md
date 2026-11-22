@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You were converted to your faith or taught to bargain with spirits for magic by a figure
 of inspiring insight who taught you to use keen observation in all dealings.
 

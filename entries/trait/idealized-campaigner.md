@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar)
 
 **Flavor:** Your celestial bloodline leads others to idealize you from afar.

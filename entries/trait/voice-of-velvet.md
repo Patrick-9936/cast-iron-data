@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Vudrani
 
 **Flavor:** You have the ability to sing a song and spin a story that captures the hearts of those

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Rise of the Runelords
 
 **Flavor:** While not ethnically a Varisian, you have been raised among Varisians and they consider

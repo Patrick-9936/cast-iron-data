@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Through pacts with eldritch beings or a simple quirk of circumstance, your voice has an
 uncanny rapport with those swept up in madness.
 

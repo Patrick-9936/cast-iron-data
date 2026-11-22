@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Hwanggot
 
 **Flavor:** Your upbringing in Hwanggot has influenced you to be both peaceful and wise, and your

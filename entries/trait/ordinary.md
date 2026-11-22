@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** The only thing extraordinary about your appearance is its ordinariness. You carry
 yourself in an understated way, and many people who see your face soon forget it.
 

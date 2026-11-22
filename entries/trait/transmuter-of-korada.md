@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You learned the secrets of transmutation from a follower of the empyreal lord
 [Korada](ref/faith/korada).
 

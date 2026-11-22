@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Jade Regent
 
 **Flavor:** You recently hired on to Sandru's caravan to serve as a guard, but the job, while it

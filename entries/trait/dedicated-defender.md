@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** When a companion is down, you fight harder.
 
 **Benefit:** You gain a +1 trait bonus on attack rolls and on checks made to overcome

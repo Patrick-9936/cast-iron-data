@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker)
 
 **Flavor:** You gain a +1 trait bonus on saving throws against curses.

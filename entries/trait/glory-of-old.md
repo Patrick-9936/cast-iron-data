@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Five Kings Mountains
 
 **Flavor:** In your veins flows the blood of dwarven heroes from Tar Taargadth.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Zyphus](ref/faith/zyphus)
 
 **Flavor:** Your patron grants you expertise at creating or disabling traps.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Prerequisite:** Member of The [Pathfinder Society](ref/rule/aff-scholars)
 
 **Flavor:** You have studied dozens of ancient texts on martial arts that only the Society

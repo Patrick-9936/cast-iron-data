@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Undine](ref/race/undine)
 
 **Region:** River Kingdoms

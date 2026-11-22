@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Kellid
 
 **Flavor:** You are an expert hunter among your tribe.

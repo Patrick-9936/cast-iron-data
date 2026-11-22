@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Werebear-kin
 
 **Benefit:** When you use your

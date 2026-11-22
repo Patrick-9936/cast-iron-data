@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** War for the Crown
 
 **Flavor:** All too often, great minds must suffer for their art, but you're one of the lucky ones.

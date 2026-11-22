@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You learned from Shoanti champions to take advantage of the dramatic swings required by
 heavy weapons like the [earth breaker](ref/eq-weapon/earth-breaker).
 

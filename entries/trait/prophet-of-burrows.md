@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Ratfolk](ref/race/ratfolk)
 
 **Region:** Druma

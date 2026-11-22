@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mediogalti
 
 **Flavor:** Your parents were both [Red Mantis assassins](ref/pclass/red-mantis-assassin) and your

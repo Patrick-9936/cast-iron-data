@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Having trained from a young age, you're capable of amazing feats of daring.
 
 **Benefit:** You gain a +1 bonus on [Acrobatics](ref/skill/acrobatics) checks, and you take only a

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You were, or are, possessed in some way by another entity that grants you occasional
 access to its knowledge.
 

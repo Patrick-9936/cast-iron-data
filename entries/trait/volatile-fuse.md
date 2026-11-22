@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Firearms you wield are especially dangerous to you and everyone nearby.
 
 **Benefit:** Whenever a firearm you wield misfires or explodes, roll a d%. On a result of 1-25, the

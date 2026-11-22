@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Osirion
 
 **Benefit:** During your childhood, you knew someone who was addicted to [mumia](ref/drug/mumia), a

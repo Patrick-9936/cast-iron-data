@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Cheliax
 
 **Flavor:** You are a tiller in the secretive [Bellflower Network](ref/rule/aff-antislavery) in

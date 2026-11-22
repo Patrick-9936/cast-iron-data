@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Daggermark
 
 **Flavor:** The assassin ushers her victims from the kingdoms of the living to the kingdom of the

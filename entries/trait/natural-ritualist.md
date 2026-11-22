@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You venerate nature, either by paying homage to your Shoanti totem spirit or by
 appeasing the [kami](ref/family/kami) around you in accordance with Tamashigo. In return, the
 spirits bless your path.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lands of the Linnorm Kings
 
 **Flavor:** You have a special relationship with the fey, having grown up in close proximity to

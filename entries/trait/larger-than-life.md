@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You wield firearms with truly terrifying menace.
 
 **Benefit:** When you use the [Intimidate](ref/skill/intimidate) skill on a creature while wielding

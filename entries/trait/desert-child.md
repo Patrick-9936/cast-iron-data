@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Thuvia, desert
 
 **Flavor:** You were born and raised in rocky deserts, and are accustomed to high temperatures.

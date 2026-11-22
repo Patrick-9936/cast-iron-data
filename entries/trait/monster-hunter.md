@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Rise of the Runelords
 
 **Flavor:** Perhaps you came to the Varisian Gulf in search of the Sandpoint Devil, or maybe you

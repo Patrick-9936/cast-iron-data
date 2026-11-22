@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Skull and Shackles
 
 **Flavor:** You grew up on the dangerous docks of one of the Shackles' numerous ports or anchorages,

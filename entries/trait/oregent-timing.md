@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Oregent
 
 **Flavor:** After years of soul-numbing obedience to the schedules of others, you find synchronizing

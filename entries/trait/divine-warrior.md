@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Iomedae](ref/faith/iomedae)
 
 **Flavor:** From an early age, you were trained by a militaristic order of clerics. You are devoted

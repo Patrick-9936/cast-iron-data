@@ -12,8 +12,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You always know the best way to assist your companions, be it assisting them with a
 task, defending them in battle, or helping them place a well-aimed strike.
 

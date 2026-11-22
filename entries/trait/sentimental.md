@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You are sentimental, and your thoughts often stray to the past at inappropriate times.
 
 **Benefit:** You take a -2 penalty on [Perception](ref/skill/perception) checks to avoid being

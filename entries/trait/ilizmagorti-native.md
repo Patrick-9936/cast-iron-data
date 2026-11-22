@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Skull and Shackles
 
 **Flavor:** You grew up in the city of Ilizmagorti on Mediogalti Island, a pirate port infamous for

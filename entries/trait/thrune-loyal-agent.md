@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Prerequisite:** This is a special trait that can only be gained by progressing through the Hell's
 Vengeance Adventure Path. It is not available for normal character creation.
 

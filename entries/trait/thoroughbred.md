@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Keleshite
 
 **Flavor:** The blood of the early horse tribes is strong in your family. Breeding, riding,

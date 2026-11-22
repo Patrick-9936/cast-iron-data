@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You exude confidence in the presence of those more powerful than you - sometimes
 unreasonably so.
 

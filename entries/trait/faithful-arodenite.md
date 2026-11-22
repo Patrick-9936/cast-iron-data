@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Aroden](ref/faith/aroden)
 
 **Flavor:** You worship a dead god, and are skilled at making that sound reasonable.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Korvosa
 
 **Flavor:** You openly despise the crude Shoanti and their backward ways.

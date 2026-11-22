@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Shattered Star
 
 **Flavor:** You are a member of the Shoanti or Varisian ethnicity who left your people to learn more

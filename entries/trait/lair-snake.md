@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** dragon's lair
 
 **Flavor:** You spent your formative years bowing and scraping in the presence of a dragon,

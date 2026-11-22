@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Benefit:** You have the symbol of an evil deity burned into your flesh. If the symbol is on your
 hand, you take a -1 penalty on [Disable Device](ref/skill/disable-device),
 [Disguise](ref/skill/disguise), and [Sleight of Hand](ref/skill/sleight-of-hand) checks. If the

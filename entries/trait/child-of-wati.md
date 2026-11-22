@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Osirion
 
 **Flavor:** You were raised near the infamous necropolis of Wati, and even managed to sneak into

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** Characters from Qadira who have had family members, neighbors, or friends affected
 by Taldan aggression or who have fallen victim to this hatred themselves.
 

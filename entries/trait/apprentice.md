@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** During your studies of The Majestic Book of the Prime Ascended, you learned some minor
 magical tricks.
 

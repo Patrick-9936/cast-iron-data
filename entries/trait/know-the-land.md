@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Green Faith](ref/faith/green-faith)
 
 **Benefit:** Your familiarity with the plants and animals of a variety of environments gives you a

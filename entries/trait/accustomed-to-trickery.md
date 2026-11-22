@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darkmoon Wood
 
 **Flavor:** You have been exposed to fey magic and know tricks to avoid it.

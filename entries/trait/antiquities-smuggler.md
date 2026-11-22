@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Osirion
 
 **Flavor:** You have moved contraband relics from Osirion's elder days for years, and have learned

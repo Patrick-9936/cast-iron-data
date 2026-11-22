@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** City of Brass
 
 **Flavor:** You were born a noble in the City of Brass, but were unjustly stripped of your title or

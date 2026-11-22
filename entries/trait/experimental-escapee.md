@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Android](ref/race/android)
 
 **Flavor:** You escaped an organization interested in finding out how your body works.

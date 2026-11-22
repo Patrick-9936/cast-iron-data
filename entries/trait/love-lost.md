@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Curse of the Crimson Throne
 
 **Flavor:** Someone you loved was knifed to death in a dark alley one night. You were called to the

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Black-scaled
 
 **Flavor:** The murky tunnels of your tribal home were infested with voracious oozes, which were a

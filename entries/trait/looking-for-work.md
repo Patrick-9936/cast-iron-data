@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Second Darkness
 
 **Flavor:** Although out of work, you aren't particularly keen on the prospect of gambling away your

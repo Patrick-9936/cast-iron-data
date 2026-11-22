@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Any
 
 **Flavor:** At some point you were tainted with the corruption of the undead, and you have gained

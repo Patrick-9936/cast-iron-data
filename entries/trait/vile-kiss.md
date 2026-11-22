@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); The Motherless
 
 **Flavor:** You have learned how to exploit the natural disgust you provoke when in close proximity

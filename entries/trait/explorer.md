@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** Though many gnomes settle down in communities large enough and interesting enough to

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Thamir Gixx](ref/faith/thamir-gixx)
 
 **Flavor:** You are fast on the draw.

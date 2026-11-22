@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You spent time working under artisans, or your parents were artisans who were
 particularly skilled at their trade.
 

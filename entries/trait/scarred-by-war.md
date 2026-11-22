@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Dalenydra](ref/faith/dalenydra)
 
 **Flavor:** You have experienced firsthand the horrors of war, which have left you physically or

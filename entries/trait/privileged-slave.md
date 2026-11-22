@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kaoling
 
 **Flavor:** You were enslaved by the hobgoblins of Kaoling, and obeyed your masters dutifully,

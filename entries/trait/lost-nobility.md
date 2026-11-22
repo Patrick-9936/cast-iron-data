@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your family was prominent before the rise of Thrune, but that legacy is now forgotten by
 all but you.
 

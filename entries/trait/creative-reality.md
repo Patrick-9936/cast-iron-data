@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Ganzi](ref/race/ganzi)
 
 **Flavor:** Straightforward answers bore you, for they only encourage people to depend on others

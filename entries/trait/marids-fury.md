@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Undine](ref/race/undine)
 
 **Flavor:** Your marid ancestry is particularly strong, and magic runs thick through your veins.

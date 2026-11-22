@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Calistria](ref/faith/calistria)
 
 **Benefit:** You gain a +2 trait bonus on [Bluff](ref/skill/bluff) and

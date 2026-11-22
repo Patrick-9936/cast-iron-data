@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Urgathoa](ref/faith/urgathoa)
 
 **Benefit:** Your experience with undead creatures gives you a +2 trait bonus on

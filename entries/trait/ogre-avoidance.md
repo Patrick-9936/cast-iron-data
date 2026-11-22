@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have practiced defensive maneuvers to avoid being caught by
 [ogres](ref/monster/ogre), whose grasps you know are tight and unforgiving.
 

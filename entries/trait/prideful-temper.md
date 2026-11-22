@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling)
 
 **Flavor:** Memories of the cruel abuse and taunts you suffered as a child cause you to strike back

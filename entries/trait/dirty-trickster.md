@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You learned early that there's no point in fighting fair when you're fighting for your
 life. Others may look down their noses at your tactics, but you know you wouldn't have survived this
 long without breaking a few conventions of fair play.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Weretiger-kin
 
 **Flavor:** Your feline agility helps you inflict a devastating blow at the end of a charge.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Osirion
 
 **Flavor:** You see the interactions between elementals as the epitome of balance; you've studied

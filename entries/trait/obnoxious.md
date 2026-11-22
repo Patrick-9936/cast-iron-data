@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have long since forgotten to care what people think about you - though your
 interactions are always memorable, at the very least.
 

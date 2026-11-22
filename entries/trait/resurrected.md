@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Mummy's Mask
 
 **Flavor:** At some time in the recent past you died, but you were brought back to life - whether

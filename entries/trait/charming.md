@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Blessed with good looks, you've come to depend on the fact that others find you
 attractive.
 

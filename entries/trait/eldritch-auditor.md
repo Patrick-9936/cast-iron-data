@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You are a magically adept merchant who has learned tricks to protect your own goods, or
 you serve a city as an impartial auditor who guards against arcane trickery in the bazaars.
 

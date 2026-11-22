@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** The Eternal Emperor
 
 **Flavor:** When you were young, your parents presented you to the oracles of Po Li, claiming a

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** You are determined to ward off the Bleaching, and get a certain thrill out of being

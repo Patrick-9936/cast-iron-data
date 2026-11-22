@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Garundi
 
 **Flavor:** You have spent many years traveling across Garund, and have met many different people on

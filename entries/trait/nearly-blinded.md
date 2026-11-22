@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Tian
 
 **Flavor:** After a close call with [snow blindness](ref/rule/reflective-snow) on the Crown of the

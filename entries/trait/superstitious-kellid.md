@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Kellid
 
 **Flavor:** You have a healthy fear of sorcerers' speech and wizards' words that has helped you to

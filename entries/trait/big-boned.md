@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Hungerseed
 
 **Flavor:** Your ancestors' great size has gifted you with an exceptionally sturdy frame.

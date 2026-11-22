@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darklands
 
 **Flavor:** Digging tunnels near a body of rushing water has taught you how to use water as a means

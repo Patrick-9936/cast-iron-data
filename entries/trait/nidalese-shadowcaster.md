@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nidal
 
 **Flavor:** You have studied with the feared shadowcasters of Nidal.

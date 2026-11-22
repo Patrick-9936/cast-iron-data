@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Erutaki
 
 **Flavor:** You have experienced visions of the unseen spirit world, and bear the marks of the

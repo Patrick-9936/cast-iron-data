@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Chu Ye
 
 **Flavor:** You have trained in martial arts under the banner of Mizu Ki Hikari rebels.

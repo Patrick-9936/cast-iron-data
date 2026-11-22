@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Curse of the Crimson Throne
 
 **Flavor:** You spent a period of time as one of Gaedren Lamm's enslaved orphans, doing all manner

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Mwangi
 
 **Flavor:** You have adopted the ways of the colonials. As a result, you feel that other, "inferior"

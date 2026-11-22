@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You've been raised to hunt certain beasts.
 
 **Benefit:** Choose either aberrations, animals, dragons, fey, magical beasts, oozes, or vermin. You

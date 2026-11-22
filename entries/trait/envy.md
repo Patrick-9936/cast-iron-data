@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You grew up in or near an opulent, decadent culture that valued nothing more than
 showing up the material wealth or accomplishments of others, causing the seed of envy to be planted
 in your heart.

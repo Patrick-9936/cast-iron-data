@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Region:** Sargava
 
 **Flavor:** You have bridged the gap between the natural magic of the Mwangi peoples and the refined

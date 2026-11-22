@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** You demand that everything must happen right now, no matter what, and are too impatient

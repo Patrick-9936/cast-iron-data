@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You were initiated into a mystery cult in your youth, and learned secrets that turned
 your understanding of your faith and the world on its head. This experience has given you a knack
 for lateral thinking.

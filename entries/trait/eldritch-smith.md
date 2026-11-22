@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Flavor:** You are learned in the secret lore of the forge, rituals handed down for generations

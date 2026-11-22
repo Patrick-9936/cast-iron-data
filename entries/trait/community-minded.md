@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Rahadoum
 
 **Flavor:** While some pray to the gods for mercy or prosperity, you follow a different tack - you

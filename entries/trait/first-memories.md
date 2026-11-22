@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Gnome](ref/race/gnome) with the _gnome magic_ racial trait
 
 **Flavor:** For your whole life, you've felt there was a world just beyond the fabric of the

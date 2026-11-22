@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Sylph](ref/race/sylph)
 
 **Flavor:** You are practiced at noticing details from high up.

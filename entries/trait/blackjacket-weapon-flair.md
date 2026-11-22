@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You trained with the Blackjackets of Druma to make optimal use of magic weapons.
 
 **Benefit:** Whenever you roll a natural 20 (the die shows a 20) on a

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You grew up and were raised around fabulous sporting events, and your youth was consumed
 with a driving need to be better than everyone else. Any hint of a contest spurs you to your
 greatest heights of potential.

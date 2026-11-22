@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your coming was foretold in prophecy, and people familiar with your legend regard you
 with awe and fear.
 

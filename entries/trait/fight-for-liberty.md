@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Andoran
 
 **Flavor:** You inspire slaves to fight for freedom with a rousing battle cry.

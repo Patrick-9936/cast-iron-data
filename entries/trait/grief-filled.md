@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You are no stranger to loss and intense emotions.
 
 **Benefit:** You gain a +2 trait bonus on all saving throws against emotion spells and effects.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Jalmeray
 
 **Flavor:** You have begun training to enter one of the

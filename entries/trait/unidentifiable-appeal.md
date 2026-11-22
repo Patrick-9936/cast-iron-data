@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir); Ajibachana
 
 **Flavor:** The unnatural symmetry of your face gives you an attractiveness that is at once

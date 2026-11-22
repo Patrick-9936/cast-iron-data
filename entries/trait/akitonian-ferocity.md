@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Akiton
 
 **Flavor:** You were raised on Akiton, where you were hardened against the ravages of battle.

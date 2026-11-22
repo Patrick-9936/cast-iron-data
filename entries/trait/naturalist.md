@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Yamasa
 
 **Flavor:** Your ancestors taught you the importance of using what nature provides.

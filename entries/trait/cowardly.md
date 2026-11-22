@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You might face dangerous situations with bravado, but you are constantly afraid.
 
 **Benefit:** Your base speed when [frightened](ref/misc/frightened) and fleeing increases by 5 feet,

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Inspired by stories of mortals ascending to godhood, you're certain that you can do the
 same, and do all you can to hone your talents and reach your utmost potential.
 

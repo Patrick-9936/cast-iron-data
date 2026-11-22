@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Carrion Crown
 
 **Flavor:** Professor Lorrimor traveled the Inner Sea region lecturing and teaching at universities

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Great Old Ones
 
 **Flavor:** Your existence is so meaningless to your chosen patron that it cares nothing for how you

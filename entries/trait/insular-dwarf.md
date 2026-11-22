@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Flavor:** You hail from one of the remote dwarven holds of the North, and have learned that the

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have lived a double life since your youth, perhaps to avoid persecution for your
 true identity or in service to an enemy of the people or group associated with your cover identity.
 

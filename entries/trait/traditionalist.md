@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You attempt to maintain older traditions despite changing social norms, and find great
 value in the trappings and codes of the aristocracy.
 

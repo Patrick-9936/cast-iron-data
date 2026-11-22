@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Erages
 
 **Flavor:** Years of smuggling and other unsavory work have trained you to hide your assets even

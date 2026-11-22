@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Dahak](ref/faith/dahak)
 
 **Flavor:** You have been taught to identify the subtle and not-so-subtle signs of a dragon's

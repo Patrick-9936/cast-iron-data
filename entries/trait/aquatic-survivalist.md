@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Plane of Water
 
 **Flavor:** For whatever reason, you spent much of your formative years fighting to keep yourself

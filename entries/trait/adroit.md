@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kasatha](ref/race/kasatha)
 
 **Benefit:** If one of your hands is free and your base attack bonus is +1 or higher, you can draw a

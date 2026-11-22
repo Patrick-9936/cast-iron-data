@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Worldwound
 
 **Flavor:** Your line is derived directly from the god callers of Sarkoris. You adamantly oppose the

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Gnome](ref/race/gnome) with the _gnome magic_ racial trait
 
 **Flavor:** For unknown reasons, you have deeper reserves of magical energy than those around you.

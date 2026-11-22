@@ -12,8 +12,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You were born out of wedlock. You have always been an outsider in society, and in your
 own family. This perspective has sharpened your insight.
 

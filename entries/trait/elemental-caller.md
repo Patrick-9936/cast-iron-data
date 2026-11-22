@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Suli](ref/race/suli)
 
 **Flavor:** You learned conjuration magic in close contact with friendly elemental beings.

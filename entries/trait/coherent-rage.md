@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Prerequisite:** Associated with the [Ulfen Guard](ref/rule/f-imperial)
 
 **Flavor:** Your determination allows you to hold onto a shred of your rational mind at all times.

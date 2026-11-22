@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Mounted Combat](ref/feat/mounted-combat) feat
 
 **Region:** Qadira

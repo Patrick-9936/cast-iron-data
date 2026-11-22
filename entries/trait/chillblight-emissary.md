@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Irrisen
 
 **Flavor:** You have spent considerable time at Chillblight, but have escaped this unearthly fey

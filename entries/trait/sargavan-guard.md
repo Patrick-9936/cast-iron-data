@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Sargava
 
 **Flavor:** You served in the Sargavan Guard, either as a colonial sub-praetor or as a native Mwangi

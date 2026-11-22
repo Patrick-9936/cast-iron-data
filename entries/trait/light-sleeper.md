@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Hanspur](ref/faith/hanspur)
 
 **Flavor:** Because of a blessing from your god, or worries inspired by the way he died as a mortal,

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kyonin
 
 **Flavor:** You have learned how to keep your flesh out of the way of the toxic thorns and vines

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Family"
 +++
 
-**Type:** Family
-
 **Flavor:** You have some of the common, recognizable features of your family.
 
 **Benefit:** You gain a +4 trait bonus on [Diplomacy](ref/skill/diplomacy) checks made to improve

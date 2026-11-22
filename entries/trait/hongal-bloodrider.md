@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Hongal
 
 **Flavor:** You belong to one of the nomadic groups of horseback riders that range throughout

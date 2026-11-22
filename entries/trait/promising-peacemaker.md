@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-orc](ref/race/half-orc)
 
 **Flavor:** You were raised by a mix of human and orc family members, or by accommodating half-orc

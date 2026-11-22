@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** River Kingdoms
 
 **Flavor:** You grew up in the River Kingdoms and are familiar with the many winding streams that

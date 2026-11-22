@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Flavor:** You see arcane magic as untrustworthy and its use as a calamity waiting to happen.

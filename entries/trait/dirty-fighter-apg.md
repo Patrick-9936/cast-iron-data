@@ -12,8 +12,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You wouldn't have lived to make it out of childhood without the aid of a sibling,
 friend, or companion you could always count on to distract your enemies long enough for you to do a
 little bit more damage than normal. That companion may be another PC or an NPC (who may even be

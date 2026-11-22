@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Second Darkness
 
 **Flavor:** You may or may not be seeking membership into Riddleport's most prestigious magical

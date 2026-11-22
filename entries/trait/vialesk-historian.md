@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Plane of Water
 
 **Flavor:** Your long years of studious research into the drifting trade city of Vialesk, a neutral

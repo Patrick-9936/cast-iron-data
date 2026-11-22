@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Belkzen
 
 **Flavor:** The blood of dominance runs thick in the savage home of orcs.

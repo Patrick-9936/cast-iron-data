@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Suli](ref/race/suli)
 
 **Region:** Thuvia

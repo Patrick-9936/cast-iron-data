@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Flavor:** You have an intuitive grasp of the weak points of metal and stone.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Chaldira](ref/faith/chaldira-zuzaristan)
 
 **Flavor:** You found yourself in deep trouble in your youth but stumbled upon an unlikely way out

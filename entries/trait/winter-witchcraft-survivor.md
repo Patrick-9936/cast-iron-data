@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You narrowly escaped death when a Winter Witch punished you for supporting the Heralds.
 
 **Benefit:** You gain cold [resistance](ref/umr/resistance) 5 against the first cold damage you take

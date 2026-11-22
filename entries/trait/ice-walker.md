@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Kellid
 
 **Flavor:** You spent years roaming the frozen tundra of the frigid north, and have adapted to its

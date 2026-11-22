@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Wereshark-kin
 
 **Flavor:** You were raised without many toys or possessions, but you made do exploring every detail

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You had a traumatic experience with a spirit at a young age that colors your reactions
 to such creatures even to this day.
 

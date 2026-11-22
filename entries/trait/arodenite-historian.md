@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You believe there is much useful information to glean from the mark Aroden left on
 history, and learn all you can about his exploits and teachings. This has given you significant
 insights on how different kinds of information are interconnected.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You were raised in a community that included numerous individuals who spoke with
 creatures of the wild.
 

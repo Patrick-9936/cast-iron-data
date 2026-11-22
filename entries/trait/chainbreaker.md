@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Andoran
 
 **Flavor:** You're an expert at rescuing slaves. You know that a few slaves freed from their chains

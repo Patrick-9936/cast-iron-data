@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Crown of the World
 
 **Flavor:** You are one of the brave travelers who have traversed the Path of Aganhei, a lucrative

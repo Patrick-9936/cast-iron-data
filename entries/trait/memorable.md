@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Growing up amid a large number of children, you learned quickly how to get others'
 attention and keep it.
 

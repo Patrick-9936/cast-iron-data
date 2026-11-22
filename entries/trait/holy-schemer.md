@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Calistria](ref/faith/calistria)
 
 **Flavor:** You are well versed in the arts of misdirection, plotting, and intrigue, and you know

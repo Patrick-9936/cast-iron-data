@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Rahadoum
 
 **Flavor:** You are experienced in interpreting and applying legal doctrine, notably the Laws of

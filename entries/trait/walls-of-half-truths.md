@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Samsaran](ref/race/samsaran)
 
 **Flavor:** As soon as you made contact with other samsarans, they encouraged your talent for magic

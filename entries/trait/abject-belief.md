@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You cling tenaciously to a faith that is doubted by many, perhaps based around a god who
 has vanished, or was never a god in the first place. You refuse to forsake your beliefs despite all
 evidence, perhaps due to a need to belong, respect for tradition, or a religious experience. As a

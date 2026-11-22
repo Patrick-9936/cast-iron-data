@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Zura](ref/faith/zura)
 
 **Flavor:** You come from a cannibal tribe, and find strength in the flesh of your foes.

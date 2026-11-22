@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Benefit:** You gain a +2 bonus on Strength checks to break objects, and when damaging an object
 with a weapon, natural weapon, or unarmed attack, you ignore 2 points of its
 [hardness](ref/umr/hardness).

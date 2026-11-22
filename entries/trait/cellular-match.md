@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Android](ref/race/android)
 
 **Benefit:** Whenever you are affected by a polymorph spell or effect, your nanites adjust

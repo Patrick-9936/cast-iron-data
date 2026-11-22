@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You carry the physical and emotional scars of your
 [Gray Maiden](ref/rule/aff-scarred-ladies) initiation as mental armor.
 

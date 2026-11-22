@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Prerequisite:** [Kitharodian Academy](ref/rule/f-bards)
 
 **Flavor:** From a very young age, the ability to master performance types has come quite naturally

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Shackleborn
 
 **Flavor:** Some trace of your kyton heritage makes people realize you are capable of anything,

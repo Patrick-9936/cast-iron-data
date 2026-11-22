@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You were brutally betrayed, and you have dedicated yourself to pursuing revenge.
 
 **Benefit:** Choose a humanoid subtype that is not your own from the following list: dwarf, elf,

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Droskar](ref/faith/droskar)
 
 **Flavor:** Existence is little more than unending toil. By laboring unto exhaustion, greatness can

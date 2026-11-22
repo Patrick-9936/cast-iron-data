@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Abadar](ref/faith/abadar)
 
 **Benefit:** Your deep understanding of human nature and social philosophy grants you a +1 trait

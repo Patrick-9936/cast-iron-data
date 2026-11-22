@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You grew up in an environment where the meek were ignored and you often had to resort to
 threats or violence to be heard.
 

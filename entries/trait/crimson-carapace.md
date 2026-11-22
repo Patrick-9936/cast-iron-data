@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** A combination of armor and agility protects you from deadly attacks.
 
 **Benefit:** When wearing light armor and [fighting defensively](ref/misc/fighting-defensively) or

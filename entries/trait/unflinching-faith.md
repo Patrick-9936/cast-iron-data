@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nidal
 
 **Flavor:** Numerous expeditions to accursed regions like Nidal's Finder's Gulch have reinforced

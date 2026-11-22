@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** urban
 
 **Flavor:** Growing up among acolytes or monks, you were exposed to their supernatural power.

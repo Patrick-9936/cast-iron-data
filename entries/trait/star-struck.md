@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Rebels
 
 **Flavor:** Growing up in Kintargo, it's hard not to become obsessed with one of the city's

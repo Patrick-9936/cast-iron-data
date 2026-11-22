@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Flavor:** You are able to tap into the living energy of the world to shatter lesser magic.

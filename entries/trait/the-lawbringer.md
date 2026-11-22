@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Tyrant's Grasp
 
 **Flavor:** The frontier is a land of risk and disorder, and while people are welcome to brave those

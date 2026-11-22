@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** You have the air of a person with money, allowing you to buy and sell valuables that
 otherwise are too rich for the local community.
 

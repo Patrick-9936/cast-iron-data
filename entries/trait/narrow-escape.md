@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Shackles
 
 **Flavor:** You were captured by [kuru](ref/monster/kuru) cannibals and nearly devoured in a

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Aroden](ref/faith/aroden)
 
 **Flavor:** You simply cannot and will not accept that Aroden is dead. Your faith in his teachings

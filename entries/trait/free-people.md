@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** Kellid
 
 **Region:** Realm of the Mammoth Lords

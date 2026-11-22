@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Vengeance
 
 **Flavor:** You have always looked after yourself first, and done whatever you need to do to

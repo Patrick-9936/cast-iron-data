@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** River Kingdoms
 
 **Flavor:** Terrible things prowl the moors of your homeland, and you are all too familiar with

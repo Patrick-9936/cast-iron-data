@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Xa Hoi
 
 **Flavor:** You were raised in one of the numerous clans of Xa Hoi, and learned a valuable trade in

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a Taldor jennet as a mount
 
 **Benefit:** A [Taldor jennet](ref/eq-misc/horse) can learn a total of eight tricks when trained

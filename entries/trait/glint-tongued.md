@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Ulfen
 
 **Flavor:** You have a gift for poetic turns of phrase and vicious streams of insults.

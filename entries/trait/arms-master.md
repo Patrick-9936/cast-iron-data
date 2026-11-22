@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Faultspawn
 
 **Flavor:** The legendary battle prowess of your ancestors ensures that you have a certain amount of

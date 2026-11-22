@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Shoanti
 
 **Flavor:** Omens from the spirits indicated you would be a great champion against your tribe's

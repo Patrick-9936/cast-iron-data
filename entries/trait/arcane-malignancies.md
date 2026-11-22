@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Prerequisite:** [Changeling](ref/race/changeling)
 
 **Flavor:** As changelings sense the awakening of the eerie powers they inherited from their hag

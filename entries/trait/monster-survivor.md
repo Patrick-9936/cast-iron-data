@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You've escaped with your life after a terrible monster attack.
 
 **Benefit:** You gain a +4 dodge bonus to AC against attacks of opportunity made against you by

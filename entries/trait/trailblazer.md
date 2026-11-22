@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Mwangi
 
 **Flavor:** Your ability to endure in the darkest jungles has earned you a reputation as a novice

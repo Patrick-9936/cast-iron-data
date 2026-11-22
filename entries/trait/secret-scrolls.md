@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You were inducted into a secret magical tradition such as the Esoteric Order of the
 Palatine Eye.
 

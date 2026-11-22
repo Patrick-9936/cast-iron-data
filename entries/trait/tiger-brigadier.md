@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Bachuan
 
 **Flavor:** As a member of the Tiger Brigade, you are ready to guide the people of Bachuan and other

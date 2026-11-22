@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** You're skilled at learning the feel of a particular weapon after a few swings in combat.
 
 **Benefit:** After your first attack with a weapon in which you are not proficient, the

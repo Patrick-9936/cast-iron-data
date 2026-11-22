@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your meticulous carefulness makes your bombs and extracts more potent.
 
 **Benefit:** Once per day, you can either add a +2 trait bonus to the save DC for one bomb you throw

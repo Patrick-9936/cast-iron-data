@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your frequent handling of magic items, artifacts, and other enchanted goods has made you
 an expert at determining when something has magical properties.
 

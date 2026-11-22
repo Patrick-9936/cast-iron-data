@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Ratfolk](ref/race/ratfolk)
 
 **Flavor:** You protect your own.

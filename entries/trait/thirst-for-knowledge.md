@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Nethys](ref/faith/nethys)
 
 **Flavor:** You have a need to bring old knowledge into the light, no matter what language it's

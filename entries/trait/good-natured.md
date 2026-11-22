@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Cayden Cailean](ref/faith/cayden-cailean)
 
 **Flavor:** You have an unusually sunny spirit, and it takes something truly intimidating to dampen

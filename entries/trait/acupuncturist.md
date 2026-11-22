@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Chu Ye
 
 **Flavor:** You have studied the ancient art of acupuncture, and use it to pursue enlightenment and

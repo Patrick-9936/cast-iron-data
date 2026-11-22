@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Varisian
 
 **Flavor:** You grew up around the mysterious fortune-tellers known throughout Ustalav and Varisia.

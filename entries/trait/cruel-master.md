@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Okeno
 
 **Flavor:** You're a master of dominating slaves through body language and inflection, and this

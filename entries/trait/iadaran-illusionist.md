@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kyonin
 
 **Flavor:** You have lived in Iadara for so long that you are very familiar with illusions.

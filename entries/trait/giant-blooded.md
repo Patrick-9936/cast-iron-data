@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Giantslayer
 
 **Flavor:** Your family has always been dogged by rumors that a bit of giant blood got into the

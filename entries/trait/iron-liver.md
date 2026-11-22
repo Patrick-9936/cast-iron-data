@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** Due to a lucky constitution or frequent exposure, your body is resistant to poison,
 including alcohol and drugs.
 

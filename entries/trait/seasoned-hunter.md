@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ruins of Azlant
 
 **Flavor:** You grew up hunting every season, any season. Maybe you grew up in a rural area and

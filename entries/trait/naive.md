@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Your perception that everyone is innately good does not bode well in the heat of battle,
 when less scrupulous foes might take advantage of your misguided optimism.
 

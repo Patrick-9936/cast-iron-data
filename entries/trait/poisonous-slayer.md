@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Norgorber](ref/faith/norgorber)
 
 **Flavor:** You know the secret of plunging a poisoned weapon in just the right spot.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Drow](ref/race/drow)
 
 **Flavor:** There were a few touchy moments in your education in the use of poisons.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Pitborn
 
 **Flavor:** When you hurl yourself against a foe with reckless abandon, you often land particularly

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your relationship with your eidolon gives you some clout with other outsiders.
 
 **Benefit:** You gain a +2 trait bonus on [Diplomacy](ref/skill/diplomacy) checks toward outsiders,

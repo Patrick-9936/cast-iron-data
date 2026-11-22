@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Werecrocodile-kin
 
 **Flavor:** You grew up near crocodiles, learning to move as they do.

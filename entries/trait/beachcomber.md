@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** coastal or river
 
 **Flavor:** You have a knack for finding what you need as it washes ashore.

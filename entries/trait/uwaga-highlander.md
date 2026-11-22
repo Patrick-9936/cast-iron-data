@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Katapesh
 
 **Flavor:** You were born and raised in western Katapesh, in the rugged badlands and hills of the

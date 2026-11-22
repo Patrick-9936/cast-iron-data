@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Jalmeray
 
 **Flavor:** You have studied the ancient lore of Vudra at a monastery in Jalmeray, and have learned

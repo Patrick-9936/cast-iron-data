@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Broken firearms are not problems: they are challenges.
 
 **Benefit:** Your first attempt to remove the broken condition from your starting firearm and to

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Benefit:** Select one spell belonging to the abjuration or transmutation school on your spell
 list. When you cast that spell or it is cast on you, treat the caster level as 2 higher for the
 purpose of determining the duration.

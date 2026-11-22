@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are skilled at supporting your allies in the heat of battle.
 
 **Benefit:** You gain a +2 trait bonus on Heal checks made to stabilize a [dying](ref/misc/dying)

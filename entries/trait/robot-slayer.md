@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Iron Gods
 
 **Flavor:** The strange automatons that plague the wilds of Numeria are a blight upon the world, and

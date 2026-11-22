@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You make an impression during a standoff.
 
 **Benefit:** As long as you have a firearm drawn, you gain a +2 trait bonus on saving throws against

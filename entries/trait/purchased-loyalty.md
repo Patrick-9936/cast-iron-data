@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Druma
 
 **Flavor:** As a member of Druma's Mercenary League, you are utterly loyal to the holder of your

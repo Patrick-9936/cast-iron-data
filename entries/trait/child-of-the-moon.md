@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your lunar gift becomes much more powerful when the moon is full.
 
 **Benefit:** Choose either [Climb](ref/skill/climb), [Stealth](ref/skill/stealth), or

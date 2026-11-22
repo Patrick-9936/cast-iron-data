@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You were raised in a faith that did not center on a traditional god or that followed a
 heretical interpretation of a traditional deity. You learned to deflect attention, especially from
 ecclesiastical figures.

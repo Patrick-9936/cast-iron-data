@@ -13,8 +13,6 @@ kind = "trait"
 category = "Family"
 +++
 
-**Type:** Family
-
 **Flavor:** Whether siblings, spouses, or dedicated members of the same clan, characters who take
 this trait are an inseparable pair committed to each other.
 

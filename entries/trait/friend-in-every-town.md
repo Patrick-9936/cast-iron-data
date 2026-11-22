@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have no problem making friends and learning information from them wherever you go.
 
 **Benefit:** You gain a +1 trait bonus on all [Knowledge (local)](ref/skill/knowledge-local) checks

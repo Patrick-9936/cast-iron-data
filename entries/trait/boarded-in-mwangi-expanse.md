@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Serpent's Skull
 
 **Flavor:** You boarded the Jenivere in the Mwangi Expanse, where you've lived or recently traveled

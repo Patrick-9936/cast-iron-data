@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Return of the Runelords
 
 **Flavor:** While every PC should be at least passingly familiar with the elven gravedigger

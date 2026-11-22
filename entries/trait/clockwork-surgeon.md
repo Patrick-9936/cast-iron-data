@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Aesocar](ref/faith/aesocar)
 
 **Flavor:** Thanks to your medical innovations, you can perform especially comprehensive or speedy

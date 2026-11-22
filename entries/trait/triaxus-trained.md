@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have been trained in intricate dragon-handling techniques that originated on
 Triaxus.
 

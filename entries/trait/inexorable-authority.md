@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** When you speak with the full weight of law, your conviction lends you a terrible
 presence.
 

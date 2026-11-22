@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Curse of the Crimson Throne
 
 **Flavor:** Your family is particularly hearty, and has even passed down tales of a Varisian

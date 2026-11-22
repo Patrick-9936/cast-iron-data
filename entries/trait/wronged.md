@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Gyronna](ref/faith/gyronna)
 
 **Flavor:** Somewhere in your past, you were taken advantage of because of your gender.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mivon
 
 **Flavor:** Your training in Aldori sword fighting included several bouts in the Sevier, which has

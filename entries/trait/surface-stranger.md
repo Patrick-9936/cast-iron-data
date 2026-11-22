@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** underground
 
 **Flavor:** You were born and raised in a subterranean home with little or no bright light.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** You really know how to make a good impression when you're dressed well.
 
 **Benefit:** Whenever you are wearing clothing and/or jewelry worth at least 150 gp (and not

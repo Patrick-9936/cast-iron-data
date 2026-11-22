@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your code of honor, obligations, and taboos stem from the shame of a misspent youth.
 Now, a personal code reminds you how to live, and you have an impressive ability to resist
 temptation.

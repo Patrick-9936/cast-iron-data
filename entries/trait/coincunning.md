@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Janderhoff
 
 **Flavor:** Whether from working with dwarven merchants or being one yourself, you've developed a

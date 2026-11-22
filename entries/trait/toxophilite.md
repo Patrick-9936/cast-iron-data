@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Plumekith
 
 **Benefit:** You've inherited some of your celestial ancestor's prowess with the bow, and gain a +2

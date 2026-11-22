@@ -12,8 +12,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Halfling](ref/race/halfling); Member of The
 [Bellflower Network](ref/rule/aff-antislavery)
 

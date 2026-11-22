@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Ifrit](ref/race/ifrit)
 
 **Flavor:** You laugh in the face of your aggressors.

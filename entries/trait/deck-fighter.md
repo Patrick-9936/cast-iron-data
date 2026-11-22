@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Besmara](ref/faith/besmara)
 
 **Benefit:** Your long experience in compensating for the pitch and yaw of ocean-going ships grants

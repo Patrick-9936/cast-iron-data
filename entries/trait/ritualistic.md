@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Strange Aeons
 
 **Flavor:** You awake with a sense of purpose and a tingle of magical power. Though it's unsettling

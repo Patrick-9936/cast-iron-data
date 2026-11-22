@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Pharasma](ref/faith/pharasma)
 
 **Flavor:** You were born with the ability to stop the passage to death's door.

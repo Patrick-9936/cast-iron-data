@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You feed intelligence to the Thrice-Damned House of Thrune for your own gain or
 ideological reasons and are given valuable clues gathered by other Chelish spies in exchange.
 

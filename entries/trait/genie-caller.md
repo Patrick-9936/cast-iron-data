@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Qadira
 
 **Flavor:** Your exploration of the magic for calling genies has increased your overall aptitude for

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** You always knew that one day you would leave your humble beginnings behind and become an
 adventurer, so you scrimped and saved, buying the necessary equipment one piece at a time until you
 had everything you needed. Select one of the equipment packages below.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Catfolk](ref/race/catfolk)
 
 **Flavor:** Growing up in the Mwangi Expanse, you learned to hunt from above, where your prey seldom

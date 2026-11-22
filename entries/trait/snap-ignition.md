@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Ifrit](ref/race/ifrit)
 
 **Flavor:** You are a pyromaniac by nature and love nothing more than setting fires.

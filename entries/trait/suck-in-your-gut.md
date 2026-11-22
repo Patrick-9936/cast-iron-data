@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darklands
 
 **Benefit:** Because of the frequent need to move through the tight tunnels and other narrow spaces

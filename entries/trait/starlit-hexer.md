@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Outer Gods
 
 **Flavor:** Your spellcasting powers are infused with the powers of the occult Outer Gods.

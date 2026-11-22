@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You are a master of calligraphy, an art once highly valued in Lung Wa and still held in
 high esteem in Lingshen.
 

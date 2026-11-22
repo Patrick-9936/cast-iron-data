@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Belkzen
 
 **Flavor:** Growing up along the border between Belkzen and Lastwall has taught you how to storm

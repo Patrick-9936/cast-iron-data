@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Folgrit](ref/faith/folgrit)
 
 **Flavor:** As an orphan, you have always looked to Folgrit for protection.

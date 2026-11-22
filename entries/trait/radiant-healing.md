@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You've learned how to infuse your healing magic with lingering traces of light.
 
 **Benefit:** Whenever you cast a spell from the conjuration (healing) school that has a casting time

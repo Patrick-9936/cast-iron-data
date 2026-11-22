@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Alkenstar
 
 **Flavor:** Growing up bordering the Mana Wastes and living within the Grand Duchy of Alkenstar has

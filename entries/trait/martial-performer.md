@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your training has made you a martial performer.
 
 **Benefit:** When you gain a monk bonus feat, you may instead take a performance feat for which you

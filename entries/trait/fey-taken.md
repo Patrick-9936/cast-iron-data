@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** As a child, you were whisked away to the First World by mischievous fey for a time. When
 you returned, you were ever after considered odd and distant. You long to return there, and find the
 mortal world dull and at times revolting, so you do not eat as you should and do not question

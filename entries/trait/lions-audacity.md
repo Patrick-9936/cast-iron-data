@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Taldor
 
 **Flavor:** You attack life with the ferocity of a charging lion and inspire others with your

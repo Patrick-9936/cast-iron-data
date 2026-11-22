@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You have always had an innate sense of the workings of the planes and their denizens.
 
 **Benefit:** You may use your Charisma modifier when making

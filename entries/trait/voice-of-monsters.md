@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Lamashtu](ref/faith/lamashtu)
 
 **Flavor:** Your faith leads you to see the power and wonder in even the most horrible abominations.

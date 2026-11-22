@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Varisia
 
 **Flavor:** You didn't have any intention of becoming an adventurer, but a single, unexpected

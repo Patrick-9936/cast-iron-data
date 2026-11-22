@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You worship the amalgamation of lawful deities known as the Godclaw.
 
 **Benefit:** You gain a +2 trait bonus on [Knowledge (religion)](ref/skill/knowledge-religion)

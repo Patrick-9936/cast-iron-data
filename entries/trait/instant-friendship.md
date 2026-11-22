@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Suli](ref/race/suli)
 
 **Flavor:** You inherited your janni parent's knack for reversing a tense situation.

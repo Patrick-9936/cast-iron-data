@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Tian
 
 **Flavor:** You take pride in recording the genealogy of your family, tracing your heritage on large

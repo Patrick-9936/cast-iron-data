@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Giantslayer
 
 **Flavor:** You've always been fascinated by the giant races, and have devoted a considerable amount

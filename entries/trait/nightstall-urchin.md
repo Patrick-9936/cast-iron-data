@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Katapesh
 
 **Flavor:** You grew up an orphan on the streets of Katapesh, and spent many years of childhood in

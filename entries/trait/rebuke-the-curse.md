@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Benefit:** Once per day, you can attempt to suppress the effects of a curse on a single creature
 with a touch. This functions as a [remove curse](ref/spell/remove-curse) spell, treating your
 character level as your caster level. If you succeed at your caster level check against the curse,

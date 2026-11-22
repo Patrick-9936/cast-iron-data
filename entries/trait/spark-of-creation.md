@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You have always had a knack for making useful things, and your talent as an artisan was
 evident even at an early age.
 

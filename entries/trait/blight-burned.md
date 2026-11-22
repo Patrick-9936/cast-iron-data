@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ironfang Invasion
 
 **Flavor:** You were raised deep in the Fangwood Forest, but in your childhood the Darkblight

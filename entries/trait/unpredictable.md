@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your actions often seem random and chaotic to others, but there is a method to your
 madness.
 

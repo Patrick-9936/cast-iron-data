@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Carrion Crown
 
 **Flavor:** Whether he needed a bodyguard in a rough neighborhood, a guide to an isolated

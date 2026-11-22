@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Goblin](ref/race/goblin)
 
 **Region:** The Shackles

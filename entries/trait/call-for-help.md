@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Prerequisite:** [Halfling](ref/race/halfling)
 
 **Religion:** [Chaldira Zuzaristan](ref/faith/chaldira-zuzaristan)

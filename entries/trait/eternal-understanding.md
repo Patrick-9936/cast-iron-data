@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Irori](ref/faith/irori)
 
 **Flavor:** Though you haven't been traditionally educated, you're blessed with potent observation

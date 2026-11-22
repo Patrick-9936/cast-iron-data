@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Andoran
 
 **Flavor:** You've grown up playing the confusing game of prismati and throw stones with accuracy

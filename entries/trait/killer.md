@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You made your first kill at a very young age and found the task of war or murder to your
 liking. You either take particular pride in a well-placed blow, or find vile pleasure in twisting
 the blade to maximize your target's pain.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Andoran
 
 **Flavor:** Others recognize that you are filled with the Andoren spirit of liberty and equality.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You learned from the [Forthright Men](ref/rule/red-silk-route), the Coins' peace-keeping
 thieves' guild, to use candor to avoid trouble.
 

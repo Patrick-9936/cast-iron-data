@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kasatha](ref/race/kasatha)
 
 **Flavor:** You were attacked by strangers that threatened to expose your existence to dangerous

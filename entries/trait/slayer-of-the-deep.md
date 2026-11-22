@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Darklands beneath Tian Xia
 
 **Flavor:** You have hunted monsters throughout the Darklands and know how to take advantage of

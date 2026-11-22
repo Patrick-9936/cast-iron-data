@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Wrath of the Righteous
 
 **Flavor:** You always tended to get in over your head as a child, but your biggest youthful

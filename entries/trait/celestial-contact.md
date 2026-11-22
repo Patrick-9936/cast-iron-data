@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar)
 
 **Flavor:** Witnessing a celestial intervention by your ancestor or a similar being inspired you

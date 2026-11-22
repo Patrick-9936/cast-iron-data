@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Hungerseed
 
 **Flavor:** Your hands not only are bigger than normal, but also have a strong grip useful for

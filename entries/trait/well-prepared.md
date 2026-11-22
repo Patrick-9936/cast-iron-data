@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Angradd](ref/faith/angradd)
 
 **Flavor:** Angradd teaches that a good offense can be the best defense.

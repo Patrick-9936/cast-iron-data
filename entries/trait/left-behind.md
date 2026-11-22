@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Elf](ref/race/elf)
 
 **Region:** Mwangi Expanse or Varisia

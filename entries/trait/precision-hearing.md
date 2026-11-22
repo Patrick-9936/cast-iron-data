@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Werebat-kin
 
 **Flavor:** You have long relied on your enhanced hearing to warn you of those who would persecute

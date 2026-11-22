@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** The Wave Riders' fame helps you convince seafarers to cooperate.
 
 **Benefit:** You gain a +1 trait bonus on [Diplomacy](ref/skill/diplomacy) and

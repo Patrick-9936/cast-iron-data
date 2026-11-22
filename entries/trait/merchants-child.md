@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Katapesh
 
 **Flavor:** One of your close relatives was a gifted merchant in the bustling bazaars of Katapesh,

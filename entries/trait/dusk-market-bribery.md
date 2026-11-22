@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You learned how to bribe by watching [Dusk Market](ref/rule/dusk-market) merchants
 interact with Westcrown's dottari guards.
 

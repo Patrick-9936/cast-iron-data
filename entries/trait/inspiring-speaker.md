@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Galt
 
 **Flavor:** You have learned the arts of oratory, and know how to speak to crowds to rile them up or

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Goblin](ref/race/goblin)
 
 **Flavor:** You are a repulsive little freak whose origins are unclear. Your head is small for a

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Grimspawn
 
 **Flavor:** The act of murder allows you to draw vitality from fleeing souls.

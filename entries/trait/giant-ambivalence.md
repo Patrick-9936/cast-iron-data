@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** temperate highlands
 
 **Flavor:** You witnessed or were otherwise strongly influenced by two separate acts by giants, one

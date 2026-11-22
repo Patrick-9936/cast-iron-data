@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your great force of will makes your magic harder to dispel.
 
 **Benefit:** Your caster level is treated as 1 level higher whenever someone attempts to dispel one

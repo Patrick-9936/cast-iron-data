@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Wereboar-kin
 
 **Flavor:** You were victimized by bullies or even abusive adults. Although the harassment got worse

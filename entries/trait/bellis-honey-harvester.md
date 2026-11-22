@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Bellis
 
 **Flavor:** Your frequent exposure to bees - and their stings - makes all such creatures seem more

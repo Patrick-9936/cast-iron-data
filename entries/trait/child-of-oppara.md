@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** War for the Crown
 
 **Flavor:** You belong to a noble family that matters in Taldor, though as the story begins you may

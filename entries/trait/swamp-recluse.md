@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** swamp
 
 **Benefit:** You gain a +2 trait bonus on saving throws against poison, and you can safely eat raw

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** Ascoiated with the court of Kyonin
 
 **Region:** Kyonin

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Eox
 
 **Flavor:** You were raised on Eox, where you were overseen by alien forces and subjected to

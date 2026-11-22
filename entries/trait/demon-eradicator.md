@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mendev
 
 **Benefit:** Anytime an outsider with the demon subtype must make a Will save against one of your

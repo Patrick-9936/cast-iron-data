@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Galt
 
 **Flavor:** You know how best to appear supportive of the current regime despite the vagaries of a

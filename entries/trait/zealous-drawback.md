@@ -12,8 +12,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You are fanatical in your beliefs, ruled by emotion over reason.
 
 **Benefit:** When you attack a creature that you know worships a different religion than you do, you

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar)
 
 **Flavor:** You never felt like you belonged in your family. You were different, an outsider, and

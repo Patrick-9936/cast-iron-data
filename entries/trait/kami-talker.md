@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Forest of Spirits
 
 **Flavor:** You have traversed the Forest of Spirits numerous times, and have learned how best to

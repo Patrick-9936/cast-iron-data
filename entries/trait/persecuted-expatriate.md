@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling)
 
 **Flavor:** You were born in a nation that persecuted you for your heritage. Although you were under

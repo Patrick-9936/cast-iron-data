@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Lawbringer
 
 **Flavor:** Your celestial ancestor was a [lantern archon](ref/monster/archon-lantern-archon) for

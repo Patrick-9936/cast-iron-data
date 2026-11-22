@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** You have a small, bizarre collection of apparently worthless items, such as rusty nails,

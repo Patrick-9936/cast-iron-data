@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Shenmen
 
 **Flavor:** You refuse to give in to the monsters that feast on your people, and hunt them instead.

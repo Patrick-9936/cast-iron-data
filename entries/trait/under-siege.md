@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Sarenrae](ref/faith/sarenrae)
 
 **Flavor:** In order to maintain your devotion to Sarenrae in Taldor and stay alive, you and your

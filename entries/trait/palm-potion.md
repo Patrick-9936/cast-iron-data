@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Razmiran
 
 **Flavor:** Priests of Razmiran often make subtle use of potions to hide the fact that they do not

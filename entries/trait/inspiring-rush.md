@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your charge inspires nearby companions to new heights of daring.
 
 **Benefit:** Once per day when you make a [charge](ref/rule/charge) attack, you gain a +1 trait

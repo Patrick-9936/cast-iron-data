@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Rovagug](ref/faith/rovagug)
 
 **Flavor:** When you strike hard, you strike deep.

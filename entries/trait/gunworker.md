@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Flavor:** You lived among the dwarven alchemists who work with firearm technology in Dongun Hold.

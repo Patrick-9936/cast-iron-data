@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Bolka](ref/faith/bolka)
 
 **Flavor:** You have the art of turning a passing glance into love.

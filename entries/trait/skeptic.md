@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Growing up, you were always around magical effects to the extent that you realized much
 of it was mere smoke and mirrors.
 

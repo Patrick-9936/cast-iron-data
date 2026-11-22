@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Realm of the Mammoth Lords
 
 **Flavor:** You have experience trapping and training large creatures such as mammoths, mastodons,

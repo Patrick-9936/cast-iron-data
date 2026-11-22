@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Prerequisite:** Member of The [Bellflower Network](ref/rule/aff-antislavery)
 
 **Flavor:** You've spent your life perfecting the art of half-truths in order to accomplish what you

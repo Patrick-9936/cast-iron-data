@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** One can move toward enlightenment by understanding the mistakes of past generations.
 
 **Benefit:** You gain a +1 trait bonus on [Knowledge (history)](ref/skill/knowledge-history) checks,

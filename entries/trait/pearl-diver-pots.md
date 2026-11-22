@@ -12,8 +12,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-elf](ref/race/half-elf)
 
 **Flavor:** You are skilled at finding treasures in the warm coastal waters near the desert.

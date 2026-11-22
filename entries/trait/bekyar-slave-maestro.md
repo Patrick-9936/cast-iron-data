@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Bekyar or Shoanti
 
 **Flavor:** You spent years using your magic to bend the will of captured slaves to suit your whims.

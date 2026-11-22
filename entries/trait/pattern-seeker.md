@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Rebels
 
 **Flavor:** There are patterns in the world, both natural and artificial, that if only one can

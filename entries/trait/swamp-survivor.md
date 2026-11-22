@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Ustalav
 
 **Flavor:** Leaving Graidmere Swamp is forbidden, and to flee the mire is to court the black dragon

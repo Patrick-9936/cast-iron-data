@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Fetchling](ref/race/fetchling)
 
 **Flavor:** A life spent avoiding racial mistrust has taught you to humor others effectively when it

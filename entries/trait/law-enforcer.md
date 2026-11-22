@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Penance:** Knights who follow this code and violate one of its tenets must perform penance based
 on the violation. If they are disgraced for violating the law when it was not acceptable, they must
 voluntarily surrender to the appropriate authority and receive proper punishment. If they allowed a

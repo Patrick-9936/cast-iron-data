@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Grippli](ref/race/grippli)
 
 **Flavor:** Growing up in a dangerous jungle, you learned to take advantage of your mobility

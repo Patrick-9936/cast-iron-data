@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Okeno
 
 **Flavor:** Your time spent lashing slaves has taught you how to get the most out of a whip.

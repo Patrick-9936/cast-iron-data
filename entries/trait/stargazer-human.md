@@ -12,8 +12,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Varisian
 
 **Flavor:** You spent many years wandering the roads of Varisia and beyond, and during clear nights,

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Goka
 
 **Flavor:** You worked in Goka's Undermarket for a time, and have learned how to dodge the city's

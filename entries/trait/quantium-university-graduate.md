@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nex
 
 **Flavor:** You graduated from one of Quantium's justly famous arcane academies, and the rigorous

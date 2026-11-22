@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ironfang Invasion
 
 **Flavor:** You are part of Nirmathas's informal network of hunters and scouts known as the

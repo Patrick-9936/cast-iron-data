@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Tian
 
 **Benefit:** Accustomed to wading through governmental bureaucracy, you gain a +2 trait bonus on

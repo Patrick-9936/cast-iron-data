@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have a passion for history and news concerning monastic disciplines.
 
 **Benefit:** You gain a +1 trait bonus on checks with your choice of either

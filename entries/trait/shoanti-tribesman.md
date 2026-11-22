@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Varisia
 
 **Flavor:** You were born or adopted into a Shoanti tribe.

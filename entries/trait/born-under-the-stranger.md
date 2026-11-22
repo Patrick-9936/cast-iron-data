@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your birth was marked by the alignment of Aucturn with your birth sign and by strange
 happenings, giving you a link to alien beings.
 

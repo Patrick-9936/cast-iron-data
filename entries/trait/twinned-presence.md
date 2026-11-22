@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your eidolon - and your connection to it - makes others ill at ease.
 
 **Benefit:** You gain a +1 trait bonus on [Intimidate](ref/skill/intimidate) checks, and Intimidate

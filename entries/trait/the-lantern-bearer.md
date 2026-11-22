@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 21 Abadius and 16 Calistril
 
 **Flavor:** You are bathed in the light of the Lantern Bearer, who guides the Caravan through the

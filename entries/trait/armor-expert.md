@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have worn armor as long as you can remember, either as part of your training to
 become a knight's squire or simply because you were seeking to emulate a hero. Your childhood armor
 wasn't the real thing as far as protection, but it did encumber you as much as real armor would

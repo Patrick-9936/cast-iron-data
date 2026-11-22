@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Blue-scaled
 
 **Flavor:** The magic-users in your tribe pride themselves on their ability to control the forces of

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** In gathering ingredients necessary for mind-altering drugs and other concoctions, you

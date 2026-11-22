@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Whether you are a commoner who has come to despise the haughty upper crust or a
 holier-than-thou noble who can't stand being around the unwashed masses, your contempt drives you to
 study carefully, making sure you always have the upper hand in social exchanges with them.

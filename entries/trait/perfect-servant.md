@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Halfling](ref/race/halfling)
 
 **Flavor:** Your training as a maid or valet has left you with unconscious mannerisms that seem to

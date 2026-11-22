@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Triaxian](ref/race/triaxian)
 
 **Flavor:** As a Transitional Triaxian, you are attuned to the weather no matter what world you

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Halfling](ref/race/halfling)
 
 **Flavor:** Like many free halflings, you volunteered readily for military service or an adventuring

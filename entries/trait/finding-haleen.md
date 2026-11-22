@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Legacy of Fire
 
 **Flavor:** You never knew your parents - perhaps they died when you were a child, or maybe you were

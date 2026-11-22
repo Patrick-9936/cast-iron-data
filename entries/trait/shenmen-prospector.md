@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Shenmen
 
 **Flavor:** You were a talented laborer in the silver mines of Shenmen, and have seen many wonders

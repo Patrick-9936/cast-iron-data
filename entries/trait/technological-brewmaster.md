@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Numeria
 
 **Flavor:** You have learned the secret of creating potions using advanced scientific techniques so

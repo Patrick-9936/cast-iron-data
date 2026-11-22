@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Benefit:** Your druid spells use a handful of earth or sand as a divine focus in addition to the

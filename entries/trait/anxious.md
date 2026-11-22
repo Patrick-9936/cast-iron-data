@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** After suffering terribly for not being tightlipped enough as a child, such as when you
 accidentally exposed your family to enemy inquisitors, you developed a habit of being overly
 cautious with your words.

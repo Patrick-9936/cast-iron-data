@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Sivanah](ref/faith/sivanah)
 
 **Flavor:** You are unusually perceptive when dealing with others.

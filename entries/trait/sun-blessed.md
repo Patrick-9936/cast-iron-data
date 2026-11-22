@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your birth came at a time when the sun was auspiciously aligned with your birth sign. As
 a result, you have a natural affinity for light and life.
 

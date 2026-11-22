@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Taldor
 
 **Flavor:** Before you even began your training as a spellcaster, you spent a great deal of time

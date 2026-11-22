@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Benefit:** You gain the ability to [don or remove](ref/rule/getting-into-and-out-of-armor) heavy
 armor in half the normal time.
 

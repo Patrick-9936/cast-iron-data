@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nar-Voth
 
 **Flavor:** You've regularly traversed Nar-Voth and know how to subsist in that lightless realm

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nidal
 
 **Flavor:** Shamans in the shadowy kingdom of Nidal learn to speak with the spirits that live in

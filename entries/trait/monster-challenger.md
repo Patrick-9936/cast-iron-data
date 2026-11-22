@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have made it your mission to bring down a fearsome beast.
 
 **Benefit:** Choose two of the following: aberrations, animals, dragons, fey, magical beasts, oozes,

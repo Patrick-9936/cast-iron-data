@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Mummy's Mask
 
 **Flavor:** One of your ancestors ran afoul of a mummy's curse while exploring an ancient tomb. This

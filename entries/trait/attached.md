@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You have a strong emotional attachment to a person or object that you're terrified of
 losing.
 

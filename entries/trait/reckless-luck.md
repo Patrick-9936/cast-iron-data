@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Chaldira Zuzaristan](ref/faith/chaldira-zuzaristan)
 
 **Flavor:** Like your deity, you charge in when others fall back.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Cosmic"
 +++
 
-**Type:** Cosmic
-
 **Prerequisite:** Born between 14 Desnus and 20 Sarenith
 
 **Flavor:** You are born under the auspice of the mounted caravan guard, whose very presence deters

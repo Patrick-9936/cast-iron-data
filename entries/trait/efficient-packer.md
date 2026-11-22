@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Gnome](ref/race/gnome)
 
 **Flavor:** You were once delighted to discover an object that could be the crown jewel of your

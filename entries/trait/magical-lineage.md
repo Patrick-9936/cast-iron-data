@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** One of your parents was a gifted spellcaster who not only used metamagic often, but also
 developed many magical items and perhaps even a new spell or two - and you have inherited a fragment
 of this greatness.

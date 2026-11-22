@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Growing up in a place where authorities, if there were any, rarely enforced property
 laws, you learned quickly that you have only what you can hold - but you gain whatever you can take.
 

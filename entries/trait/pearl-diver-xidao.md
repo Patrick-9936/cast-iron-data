@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Xidao
 
 **Flavor:** You were a pearl harvester for a nation bordering Xidao, and you know just what clues to

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Bas-o
 
 **Flavor:** You have lived among the Bas-o and know Sargava well.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Mathematics has always come easily for you, and you have always been able to "see the
 math" in the physical and magical world.
 

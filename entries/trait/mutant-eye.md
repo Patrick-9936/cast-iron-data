@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** One of your parents was exposed to uncontrolled magic or arcane pollution before you
 were born, causing you to develop a minor mutation that has marked you as different all your life.
 

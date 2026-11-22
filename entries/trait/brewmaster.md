@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Flavor:** Your family brought the secrets of dwarven brewing to non-dwarven lands. Though this has

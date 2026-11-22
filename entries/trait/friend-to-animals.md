@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human)
 
 **Flavor:** You grew up in close proximity to animals and relate with them intuitively.

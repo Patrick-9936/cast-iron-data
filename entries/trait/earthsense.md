@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Oread](ref/race/oread)
 
 **Flavor:** You were inexplicably transformed in the womb by elemental forces, making your

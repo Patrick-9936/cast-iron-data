@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** Elven Deities
 
 **Benefit:** Your knowledge of the elven gods has given you a broad perspective, thus granting you a

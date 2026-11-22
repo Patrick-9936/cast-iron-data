@@ -12,8 +12,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a [camel](ref/eq-misc/camel) as a mount
 
 **Benefit:** Once per hour, a Keleshite trade camel can regurgitate the contents of its stomach,

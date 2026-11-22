@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You have spent a lot of time dealing with the criminal underworld - so much that it
 might be hard for observers to see you as distinct from it. However, this familiarity gives you a
 leg up on heroes who refuse to muddy their reputation.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Kwanlai
 
 **Flavor:** You were raised in Kwanlai in one of the devout tengu churches, and your dedication to

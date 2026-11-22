@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** The link between you and your eidolon is stronger than most.
 
 **Benefit:** Your eidolon's current and maximum hit point totals are not reduced by 50% until you

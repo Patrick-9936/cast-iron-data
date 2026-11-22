@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Averaka
 
 **Flavor:** Though most outsiders expect your mind to be conflicted, full of self-doubt, and mired

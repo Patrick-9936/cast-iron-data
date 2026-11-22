@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Osirion, Thuvia, or Darklands-adjacent
 
 **Flavor:** Though the ghouls of Nemret Noktoria and the drow of Zirnakaynin seldom darken the

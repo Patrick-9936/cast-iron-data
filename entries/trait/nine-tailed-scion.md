@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kitsune](ref/race/kitsune)
 
 **Flavor:** You are talented with kitsune magic.

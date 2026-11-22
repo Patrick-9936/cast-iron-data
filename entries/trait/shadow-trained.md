@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Prerequisite:** Associated with the Umbral Court of Nidal
 
 **Region:** Nidal

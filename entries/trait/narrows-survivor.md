@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Taldor
 
 **Flavor:** You spent your childhood in the infamous Narrows district of Oppara. Years of living in

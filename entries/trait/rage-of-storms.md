@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-orc](ref/race/half-orc) or [Orc](ref/race/orc)
 
 **Flavor:** Summoned creatures can inherit your ferocity.

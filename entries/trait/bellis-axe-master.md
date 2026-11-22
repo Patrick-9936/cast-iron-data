@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Bellis
 
 **Flavor:** No one knows how to swing an axe better than a Bellisian!

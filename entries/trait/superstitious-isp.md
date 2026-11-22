@@ -12,8 +12,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Realm of the Mammoth Lords
 
 **Flavor:** You are distrustful of any magic that goes beyond your native shamanic ways.

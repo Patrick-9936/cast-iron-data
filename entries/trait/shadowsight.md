@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nidal
 
 **Flavor:** Your people's ancient compact with Zon-Kuthon manifests strongly in you. While the

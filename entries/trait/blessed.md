@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Some divine agent watches over you and heeds your call.
 
 **Benefit:** Once per day as a **swift action**, you gain a +1 trait bonus on all saving throws for

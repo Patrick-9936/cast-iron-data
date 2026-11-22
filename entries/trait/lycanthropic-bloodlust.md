@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Werewolf-kin
 
 **Flavor:** When your lycanthropic heritage awakened, you thrilled at any excuse for violence.

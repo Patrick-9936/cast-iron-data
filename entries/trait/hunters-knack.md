@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** When you watch and wait before attacking, your strike is true.
 
 **Benefit:** You gain a +1 trait bonus on attack rolls against your

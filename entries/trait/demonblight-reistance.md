@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Your exposure to powerful energies instilled in you a supernatural resistance to
 diseases, particularly those of a demonic bent.
 

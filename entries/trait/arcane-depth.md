@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Nethys](ref/faith/nethys)
 
 **Flavor:** You have studied the great masters of spellcraft, and your knowledge is exceptional.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Born into a world split in twain, you are particularly skilled at understanding and
 empathizing with those around you.
 

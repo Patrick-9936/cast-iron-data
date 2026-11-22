@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Lamashtu](ref/faith/lamashtu)
 
 **Benefit:** Your monstrous deformities grant you a +1 trait bonus on

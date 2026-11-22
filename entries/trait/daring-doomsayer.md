@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Second Darkness
 
 **Flavor:** The end times are coming, and the shadow in the sky over Riddleport is just the first

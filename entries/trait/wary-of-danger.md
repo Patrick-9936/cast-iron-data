@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Kellid
 
 **Flavor:** Your people are beset on all sides by threats, and you have developed a keen sense for

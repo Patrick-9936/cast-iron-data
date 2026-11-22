@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Numeria
 
 **Flavor:** You managed to uncover some lesser secrets of the Technic League, and have mastered a

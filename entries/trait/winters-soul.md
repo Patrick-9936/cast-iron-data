@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Irrisen
 
 **Flavor:** The eternal winter of Irrisen is as much a part of you as it is the land.

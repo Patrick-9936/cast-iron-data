@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are skilled at fighting with objects not traditionally considered weapons.
 
 **Benefit:** You gain a +2 trait bonus on attack rolls with

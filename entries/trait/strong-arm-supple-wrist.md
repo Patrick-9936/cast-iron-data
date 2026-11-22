@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You have been trained in the javelin and the spear, and you know how to make the best
 use of your momentum.
 

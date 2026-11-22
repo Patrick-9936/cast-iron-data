@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Yuelral](ref/faith/yuelral)
 
 **Flavor:** Your natural affinity for magic allows you to affect even those who resist it.

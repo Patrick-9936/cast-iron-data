@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You are bolstered against fear when your eidolon is near.
 
 **Benefit:** You gain a +2 trait bonus on all saving throws against fear effects whenever your

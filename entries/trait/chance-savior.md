@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Carrion Crown
 
 **Flavor:** Fate smiled on you and Professor Lorrimor one day in the not so distant past. Through a

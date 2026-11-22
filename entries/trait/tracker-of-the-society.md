@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Prerequisite:** Member of The [Pathfinder Society](ref/rule/aff-scholars)
 
 **Flavor:** Thanks to your time as a Pathfinder, you've mastered the art of tracking.

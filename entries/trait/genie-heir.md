@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Geniekin
 
 **Flavor:** You once met one of your genie ancestors, who taught you the ways of her race and their

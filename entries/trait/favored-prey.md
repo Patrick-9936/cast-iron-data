@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Ketephys](ref/faith/ketephys)
 
 **Flavor:** Those you track feel the sting of your arrows.

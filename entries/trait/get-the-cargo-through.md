@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Serpent's Skull
 
 **Flavor:** Sea trade is never safe, even on the highly trafficked waters of the Inner Sea, but the

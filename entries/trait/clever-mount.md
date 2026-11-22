@@ -13,8 +13,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a mount
 
 **Benefit:** This mount can learn four tricks per point of Intelligence, instead of the typical

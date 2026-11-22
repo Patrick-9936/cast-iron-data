@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Halfling](ref/race/halfling)
 
 **Flavor:** Your parents allowed escaping slaves to hide in your home, and the stories you've heard

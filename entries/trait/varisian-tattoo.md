@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Varisian
 
 **Flavor:** You bear the elaborate tattoos of your people, marking you as a free son or daughter of

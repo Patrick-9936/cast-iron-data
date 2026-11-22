@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** settlement near a famous dungeon
 
 **Benefit:** As a youth, you marveled at the crusaders, spelunkers, and lore seekers who came

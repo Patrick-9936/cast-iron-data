@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Prerequisite:** [Catfolk](ref/race/catfolk)
 
 **Region:** Osirion

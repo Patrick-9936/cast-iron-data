@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Plumekith
 
 **Flavor:** You've always loathed serpents and other slithering monsters, ever since you can

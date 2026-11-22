@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling)
 
 **Benefit:** You can channel your evil ancestry to take advantage of any effects for which such an

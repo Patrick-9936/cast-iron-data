@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Pathfinders of different backgrounds don't always realize what's best for them, and you
 have perfected the art of forcing your magical boons on your allies.
 

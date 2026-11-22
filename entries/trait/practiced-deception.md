@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Norgorber](ref/faith/norgorber)
 
 **Benefit:** You gain a +1 trait bonus on [Disguise](ref/skill/disguise) checks, and you can apply

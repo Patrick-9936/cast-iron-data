@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Asmodeus](ref/faith/asmodeus)
 
 **Flavor:** Thanks to your friendly mien and sly tongue, your lies are often believed.

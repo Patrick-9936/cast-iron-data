@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your devotion sustains you when others would fall to despair.
 
 **Benefit:** You gain a +2 trait bonus on saving throws against spells with the emotion, fear, or

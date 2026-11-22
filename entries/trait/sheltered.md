@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Brought up in courtly environments and knowing little of violence, you have trouble
 getting accustomed to it.
 

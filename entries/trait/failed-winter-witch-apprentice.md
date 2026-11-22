@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Reign of Winter
 
 **Flavor:** As a child, you were apprenticed as a winter witch in the frozen land of Irrisen, but

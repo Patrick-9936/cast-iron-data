@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Drow](ref/race/drow)
 
 **Flavor:** You survived a close relative's betrayal only through quick wits and a strong stomach.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You have become so accustomed to binging on the finer things in life that you find going
 without such excess particularly strenuous.
 

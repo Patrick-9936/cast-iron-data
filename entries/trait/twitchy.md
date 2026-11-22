@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Strange Aeons
 
 **Flavor:** Your first thought upon awaking in the asylum isn't confusion over why you can't

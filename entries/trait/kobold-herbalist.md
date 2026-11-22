@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Green-scaled
 
 **Flavor:** You are familiar with the flora of your native forest and have rudimentary skill as an

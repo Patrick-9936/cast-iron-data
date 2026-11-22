@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Qadira or Ustalav
 
 **Flavor:** Whenever you perform surgery or otherwise must deal damage to remove a condition or

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Onos](ref/faith/onos)
 
 **Flavor:** The countless natural hazards of the planes cannot deter you from witnessing their

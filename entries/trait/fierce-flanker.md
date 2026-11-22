@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Wyvaran](ref/race/wyvaran)
 
 **Flavor:** You were bullied in your youth but supported by one or more good friends, impressing

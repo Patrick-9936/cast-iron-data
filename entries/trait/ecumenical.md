@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Your childhood in Magnimar (or in a similar cosmopolitan city) taught you to recognize
 signs of worship of demigods such as empyreal lords.
 

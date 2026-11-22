@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Korvosa
 
 **Flavor:** You've spent more than your fair share of time among the strange sloping slums that

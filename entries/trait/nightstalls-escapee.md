@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Ifrit](ref/race/ifrit)
 
 **Region:** Katapesh

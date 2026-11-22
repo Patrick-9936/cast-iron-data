@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** desert
 
 **Flavor:** Desert orcs have learnt to survive with practically nothing in the desert.

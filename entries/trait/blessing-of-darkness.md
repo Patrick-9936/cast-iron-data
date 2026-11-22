@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling)
 
 **Flavor:** Your innate connection with the powers of darkness serves you well when evil zealots

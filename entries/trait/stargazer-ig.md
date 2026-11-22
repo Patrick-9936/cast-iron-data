@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Iron Gods
 
 **Flavor:** They say the strange technological ruins scattered throughout Numeria came from the

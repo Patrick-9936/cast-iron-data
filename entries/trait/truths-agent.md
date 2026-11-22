@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You are skilled at weeding out information.
 
 **Benefit:** You gain a +1 trait bonus on all [Diplomacy](ref/skill/diplomacy) checks made to gather

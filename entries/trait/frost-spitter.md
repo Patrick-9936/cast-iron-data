@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); White-scaled
 
 **Flavor:** The icy breath of a white dragon fills your lungs.

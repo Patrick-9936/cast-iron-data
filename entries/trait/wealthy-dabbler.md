@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Taldor
 
 **Flavor:** You study magic at one of Taldor's many social clubs, wowing your friends with your

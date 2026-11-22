@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Your years of meditation and mindfulness allow you to act correctly on a moment's
 notice.
 

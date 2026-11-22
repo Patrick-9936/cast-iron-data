@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nagajor
 
 **Flavor:** You were a nagaji vassal of knowledgeable nagas, and they taught you much regarding how

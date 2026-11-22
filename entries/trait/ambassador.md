@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Sarenrae](ref/faith/sarenrae)
 
 **Flavor:** Your natural abilities at mediation and compromise manifested at a young age. For as

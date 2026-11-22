@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); Foulspawn
 
 **Flavor:** Your contempt for the gods and their sad little priests makes it easier to shake off the

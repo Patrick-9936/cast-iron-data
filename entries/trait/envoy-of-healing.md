@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Sarenrae](ref/faith/sarenrae)
 
 **Flavor:** You strive to spread the Dawnflower's message of kindness and compassion throughout the

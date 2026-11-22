@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You are trained in the destruction of blights.
 
 **Benefit:** You gain a +2 trait bonus to confirm critical hits against a creature that has a

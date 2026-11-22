@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Green-scaled
 
 **Flavor:** Your tribe, in an effort to emulate the green chromatic dragons they admire, goes to

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Hongal
 
 **Flavor:** You learned to hunt in the relentless winds of Hongal, and still make your arrows fly

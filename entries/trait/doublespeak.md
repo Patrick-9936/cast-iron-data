@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** It isn't what you say - it's how you say it.
 
 **Benefit:** You gain a +2 trait bonus on [Bluff](ref/skill/bluff) checks to pass along secret

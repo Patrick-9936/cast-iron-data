@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Prerequisite:** Belong to a coven or magical cabal
 
 **Flavor:** You have belonged to a coven or magical cabal and know how to coordinate your

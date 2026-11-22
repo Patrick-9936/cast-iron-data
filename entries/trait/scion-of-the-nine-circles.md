@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Vengeance
 
 **Flavor:** While the worship of [Asmodeus](ref/faith/asmodeus) is widespread throughout Cheliax,

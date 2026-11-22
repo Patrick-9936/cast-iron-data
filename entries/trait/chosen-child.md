@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Po Li
 
 **Flavor:** The oracles of Po Li smiled upon you when your parents claimed you were of divine right,

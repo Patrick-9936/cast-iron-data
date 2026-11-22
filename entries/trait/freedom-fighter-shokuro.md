@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Shokuro
 
 **Flavor:** You come from a family of farmers, but are determined to fight for your rights.

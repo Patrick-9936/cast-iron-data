@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Chaldira Zuzaristan](ref/faith/chaldira-zuzaristan)
 
 **Flavor:** Your studies of Chaldira Zuzaristan's exploits have given you a knack for avoiding

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Trudd](ref/faith/trudd)
 
 **Flavor:** Paladins of Trudd taught you to be a blessed, living barrier against enemies who

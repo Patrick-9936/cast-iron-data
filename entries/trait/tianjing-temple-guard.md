@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Tianjing
 
 **Flavor:** You were a stalwart guard of one of Tianjing's magnificent temple cities, and your

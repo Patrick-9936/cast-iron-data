@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Anuli
 
 **Flavor:** Your family helped to rebuild the ruined city of Anuli, and that tradition runs in your

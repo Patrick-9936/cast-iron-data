@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You find the pursuit of earning money to be a religious experience.
 
 **Benefit:** [Appraise](ref/skill/appraise) is a class skill for you. So long as you are carrying

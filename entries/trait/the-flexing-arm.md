@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Kurgess](ref/faith/kurgess)
 
 **Flavor:** You are practiced at using physical might to escape your bonds.

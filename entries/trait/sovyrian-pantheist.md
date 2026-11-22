@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Prerequisite:** [Elf](ref/race/elf)
 
 **Religion:** Elven Deities

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Werebat-kin
 
 **Flavor:** You have always been most comfortable in a group. Since awakening to your werebat

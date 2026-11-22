@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Elf](ref/race/elf); Snowcaster
 
 **Flavor:** Your family has a long tradition of producing excellent sentries and

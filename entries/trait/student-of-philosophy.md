@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You were trained in a now-defunct philosophical tradition - such as that of the
 now-destroyed Galtan universities or Lirgeni astrologers - and learned to use logic and reason to
 persuade others.

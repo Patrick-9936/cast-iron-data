@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You have only one way of looking at things: the right way.
 
 **Benefit:** You take a -2 penalty on [Diplomacy](ref/skill/diplomacy) checks and

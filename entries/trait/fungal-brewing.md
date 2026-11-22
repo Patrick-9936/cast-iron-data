@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dwarf](ref/race/dwarf)
 
 **Benefit:** You gain a +2 trait bonus on [Craft](ref/skill/craft-any) checks to create alchemical

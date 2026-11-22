@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Rovagug](ref/faith/rovagug)
 
 **Flavor:** Your faith strengthens your powers of destruction.

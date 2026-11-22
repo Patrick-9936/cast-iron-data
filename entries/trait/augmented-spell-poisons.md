@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Vishkanya](ref/race/vishkanya)
 
 **Flavor:** You can use your natural poison to augment the spells you cast.

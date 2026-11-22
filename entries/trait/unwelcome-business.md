@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You specialize in delivering or procuring shipments where those commodities are not
 allowed or where your identity would elicit negative bias.
 

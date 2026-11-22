@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold); Green-scaled
 
 **Flavor:** You were raised as a forest trapper, and are adept at moving quickly through underbrush.

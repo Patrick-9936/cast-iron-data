@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Prerequisite:** [Tiefling](ref/race/tiefling)
 
 **Campaign:** Council of Thieves

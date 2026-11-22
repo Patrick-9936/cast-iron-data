@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Tiefling](ref/race/tiefling); The Motherless
 
 **Flavor:** You have an instinctive revulsion for the sins that led to the rise of demons and

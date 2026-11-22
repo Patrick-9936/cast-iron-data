@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Witchmarket
 
 **Flavor:** You traveled with the Witchmarket for a time, either willingly or as a result of a

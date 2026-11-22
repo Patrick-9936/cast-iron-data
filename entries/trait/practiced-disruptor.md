@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You are experienced at facing off against spellcasters.
 
 **Benefit:** You can attempt [Knowledge (arcana)](ref/skill/knowledge-arcana) checks untrained; if

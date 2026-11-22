@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You grew up in a culture where the touch of totem spirits was felt in everyday life,
 their subtle urgings constantly guiding you and keeping you safe. As a result, you learned quickly
 to ask for their help when trouble arises.

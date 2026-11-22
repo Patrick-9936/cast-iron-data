@@ -12,8 +12,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a [riding dog](ref/eq-misc/dog-riding) as a mount
 
 **Benefit:** Lucky hounds gain a +1 luck bonus on saves against spells or effects with the evil

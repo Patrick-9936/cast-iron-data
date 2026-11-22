@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Arqueros](ref/faith/arqueros)
 
 **Flavor:** You once fell asleep during a task that required your attention. A vision of Arqueros

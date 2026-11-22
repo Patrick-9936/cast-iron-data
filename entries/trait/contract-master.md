@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Asmodeus](ref/faith/asmodeus)
 
 **Flavor:** Your facility with contracts makes you good at understanding dense text and obfuscating

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Findeladlara](ref/faith/findeladlara)
 
 **Flavor:** You are blessed with an insight into architecture and artifice.

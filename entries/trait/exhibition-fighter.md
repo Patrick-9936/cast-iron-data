@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lung Wa
 
 **Flavor:** You fight at your best in martial arts tournaments, such as those once popular in Lung

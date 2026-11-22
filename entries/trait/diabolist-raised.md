@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Council of Thieves
 
 **Flavor:** All your life you've lived within the grip of devil-possessed Cheliax. You care little

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Flavor:** You are especially good at disguising yourself when you have props available.
 
 **Benefit:** You gain a +2 trait bonus on [Disguise](ref/skill/disguise) checks when wearing a wig,

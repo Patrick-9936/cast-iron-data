@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Kols](ref/faith/kols)
 
 **Flavor:** Your respect for the letter of the law bleeds into your spellcasting.

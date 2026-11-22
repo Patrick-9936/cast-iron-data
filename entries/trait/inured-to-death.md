@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You have been around death or the undead all of your life; you have become accustomed to
 its shadowy presence, and are no longer overwhelmed by it.
 

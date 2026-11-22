@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nirmathas
 
 **Flavor:** You've lived and worked among the disparate guerrilla groups of the Fangwood.

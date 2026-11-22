@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-elf](ref/race/half-elf); human-raised
 
 **Flavor:** You picked up not only the basics of your human parent's profession, but also the lingo

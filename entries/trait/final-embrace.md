@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir)
 
 **Flavor:** Like your undead ancestor, you possess an intense yearning for the touch of the living,

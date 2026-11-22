@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Tian
 
 **Flavor:** You have mastered the deadly fighting arts of your people, and when you wield a

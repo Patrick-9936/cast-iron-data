@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Ostenso
 
 **Flavor:** You may never have been on a boat larger than a garbage scow, but you've been helping

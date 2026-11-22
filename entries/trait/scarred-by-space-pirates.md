@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You were attacked by Vercite space pirates in your youth, inspiring you to find ways to
 deal with the alien interlopers should they return.
 

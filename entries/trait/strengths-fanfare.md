@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Kurgess](ref/faith/kurgess)
 
 **Flavor:** Songs of your glory and prowess bolster your strength.

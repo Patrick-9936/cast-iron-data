@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Okeno
 
 **Flavor:** You hunt those who hunt slavers, whether as one of Captain Bhey's special task forces,

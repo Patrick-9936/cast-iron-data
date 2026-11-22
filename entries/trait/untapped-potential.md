@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You've been part of one of Mengkare's minor experiments.
 
 **Benefit:** Once per day, you can cast

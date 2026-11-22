@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Irrisen
 
 **Flavor:** Hailing from frozen Irrisen, where witches rule the land, you deal with others in a

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You may have been raised in a devout family, studied the divine in a formal church
 environment, or even learned how to combine traditional healing techniques with those of divine
 casters. In so doing, you have focused yourself into being the perfect vessel for your deity. Divine

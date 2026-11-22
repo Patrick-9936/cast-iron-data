@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Mana Wastes
 
 **Flavor:** You grew up in the blasted badlands of the Mana Wastes, or have spent a lot of time

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Idyllkin
 
 **Flavor:** Like your [agathion](ref/family/agathion) ancestor, you have a knack for communicating

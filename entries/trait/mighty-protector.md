@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Trudd](ref/faith/trudd)
 
 **Flavor:** When you were too young to fight, you witnessed a great tragedy befall an innocent and

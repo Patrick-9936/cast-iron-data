@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Skull and Shackles
 
 **Flavor:** You grew up listening to tales of adventure and piracy on the high seas and the sea

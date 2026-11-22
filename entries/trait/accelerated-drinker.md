@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You know how to drink a potion efficiently, such as by not using your hands, tossing it
 in the air and catching it in your mouth, or opening it with your teeth.
 

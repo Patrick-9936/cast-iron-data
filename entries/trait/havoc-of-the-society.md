@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** Member of The [Pathfinder Society](ref/rule/aff-scholars)
 
 **Flavor:** Through countless hours studying vast libraries of arcane power, you have learned how to

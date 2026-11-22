@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Ulfen
 
 **Flavor:** You have survived many battles thanks to your skill with your shield.

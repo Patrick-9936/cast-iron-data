@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** An outsider visited you at a young age, and you have had a significant affinity with
 that type of outsider ever since.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Hell's Rebels
 
 **Flavor:** You grew up among Kintargo's performers and entertainers. Perhaps your parents or older

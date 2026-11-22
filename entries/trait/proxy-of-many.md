@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** As a pantheist, you are accustomed to calling on aid from a variety of sources, and have
 a pragmatic sense for how to best make use of any ally.
 

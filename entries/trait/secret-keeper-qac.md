@@ -12,8 +12,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Growing up in a land where paranoia fills the air and any accusation of heresy or
 dissent can spell doom for whole families, you learned very quickly to keep a secret.
 

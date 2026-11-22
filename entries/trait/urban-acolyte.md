@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** Growing up in a city has broadened your philosophy, and helped you interpret your
 patron's divine will in a novel way.
 

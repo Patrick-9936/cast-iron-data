@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Raised around those who regarded most magic as innately dangerous, no matter the source,
 you cannot bring yourself to submit to magic willingly even for your own good.
 

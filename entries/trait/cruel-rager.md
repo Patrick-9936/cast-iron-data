@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-orc](ref/race/half-orc)
 
 **Benefit:** If you successfully confirm a critical hit against an enemy while _raging,_ you regain

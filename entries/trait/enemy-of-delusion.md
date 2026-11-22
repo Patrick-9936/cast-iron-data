@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Andoletta](ref/faith/andoletta)
 
 **Flavor:** You were once faced with a grave injustice committed by an ignorant or delusional

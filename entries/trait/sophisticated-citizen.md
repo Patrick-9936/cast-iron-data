@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Absalom
 
 **Flavor:** You grew up in Absalom, and as a child you learned trivia about people and places from

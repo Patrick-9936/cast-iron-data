@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Erastil](ref/faith/erastil)
 
 **Flavor:** You know that all things pass in time, and are used to having to repeat arguments

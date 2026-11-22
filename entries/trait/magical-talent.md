@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Either from inborn talent, the whimsy of the gods, or obsessive study of strange tomes,
 you have mastered the use of a cantrip.
 

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Second Darkness
 
 **Flavor:** You've always seemed to have trouble keeping money. Worse, you always seem to have debts

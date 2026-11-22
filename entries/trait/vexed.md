@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Kobold](ref/race/kobold)
 
 **Flavor:** You had multiple narrow escapes from gremlin saboteurs and learned to avoid their magic.

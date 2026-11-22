@@ -12,8 +12,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** Cannot be an elf
 
 **Region:** Ironbound Archipelago

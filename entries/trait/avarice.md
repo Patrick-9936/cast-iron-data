@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Deep, compulsive greed gnaws at you. Whenever monetary treasure is divided, you must end
 up with a greater share of that treasure than your companions or you're wracked with feelings of
 jealousy and ill will.

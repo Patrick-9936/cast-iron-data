@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** wasteland
 
 **Flavor:** You have built up a resistance to the diseases that ash giants and their vermin

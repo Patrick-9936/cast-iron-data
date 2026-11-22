@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Vudrani
 
 **Flavor:** The power to affect the world with the mind is very much a reality in your distant

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Pharasma](ref/faith/pharasma)
 
 **Flavor:** As someone who has performed or observed funeral rites for a wide variety of people, you

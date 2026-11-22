@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** The blood of outer dragons courses through your veins, and you've inherited a portion of
 their magic.
 

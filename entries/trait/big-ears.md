@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Goblin](ref/race/goblin)
 
 **Benefit:** Your massive ears are your pride and joy, and other goblins claim you can hear a flea

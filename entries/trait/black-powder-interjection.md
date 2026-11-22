@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Your confidence rises when you foil spellcasting.
 
 **Benefit:** Once per day, when you interrupt the casting of a spell with a firearm attack, you may

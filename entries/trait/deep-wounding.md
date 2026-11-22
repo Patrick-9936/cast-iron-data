@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Achaekek](ref/faith/achaekek)
 
 **Flavor:** You have learned the bloody secret of striking true and deep.

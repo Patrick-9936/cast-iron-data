@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You have been exposed to the magical energies of lamias in your past, or you have heard
 innumerable stories about your family's dealings with lamias, and you have built up a resistance to
 their charms.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** You learned to fight while serving as a bodyguard in the taverns of Absalom, where
 keeping the patrons alive through bloody bar brawls was just part of your job.
 

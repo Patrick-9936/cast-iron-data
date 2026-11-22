@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Prerequisite:** Keleshite; female
 
 **Region:** Qadira

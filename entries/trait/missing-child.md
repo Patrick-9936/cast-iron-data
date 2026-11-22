@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Curse of the Crimson Throne
 
 **Flavor:** You suspect that a child you know has been abducted by Gaedren Lamm. Whatever the

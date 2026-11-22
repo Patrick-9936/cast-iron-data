@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Nirmathas
 
 **Flavor:** With the help of a druidic healer, you narrowly escaped death by disease or poisoning

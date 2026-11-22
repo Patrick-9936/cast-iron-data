@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Riddleport
 
 **Flavor:** You're so excited to board other ships that you're frequently the first one over the

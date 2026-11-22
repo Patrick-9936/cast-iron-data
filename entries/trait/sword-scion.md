@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Kingmaker
 
 **Flavor:** You have lived all your life in and around the city of Restov, growing up on tales of

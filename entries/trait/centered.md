@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Irori](ref/faith/irori)
 
 **Flavor:** Having anchored yourself in your faith and your knowledge of yourself, you've made it

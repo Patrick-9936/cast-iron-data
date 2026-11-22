@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Iomedae](ref/faith/iomedae)
 
 **Flavor:** You've always had a presence that people respect.

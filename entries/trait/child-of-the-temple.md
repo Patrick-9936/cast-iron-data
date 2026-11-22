@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** You have long served at a temple in a city, where you picked up on many of the
 nobility's customs in addition to spending much time in the temple libraries studying your faith.
 

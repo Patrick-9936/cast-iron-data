@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Erages
 
 **Flavor:** You've participated in many spell duels during your time at Erages Academy, and You've

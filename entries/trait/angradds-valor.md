@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Angradd](ref/faith/angradd)
 
 **Flavor:** You hope to earn a place at Angradd's side after death and are inspired to charge with

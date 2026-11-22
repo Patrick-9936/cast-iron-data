@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Mummy's Mask
 
 **Flavor:** You're not a native Osirian, but the opportunity to explore the tombs of Ancient

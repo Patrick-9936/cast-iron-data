@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Varisian wanderers
 
 **Flavor:** A childhood spent at your mystically gifted grandmother's side has taught you the basics

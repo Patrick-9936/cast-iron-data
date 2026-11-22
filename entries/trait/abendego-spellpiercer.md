@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** The Sodden Lands
 
 **Flavor:** You have spent time in the gales of the perpetual hurricane, and can cast spells even

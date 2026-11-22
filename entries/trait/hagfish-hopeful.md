@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Rise of the Runelords
 
 **Flavor:** Ever since passing through Sandpoint when you were a child and hearing about the contest

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Kingmaker
 
 **Flavor:** You were raised northern Brevoy, a land of misty shores and harsh hill lands, of snowy

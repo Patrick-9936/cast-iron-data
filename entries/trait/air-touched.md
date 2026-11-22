@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You share an affinity with elemental air.
 
 **Benefit:** You gain DR 1/- against creatures and attacks with the air type.

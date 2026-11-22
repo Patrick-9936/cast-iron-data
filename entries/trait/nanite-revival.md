@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Android](ref/race/android)
 
 **Flavor:** You can instinctively activate your nanites to save your life.

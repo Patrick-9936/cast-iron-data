@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** Vampire; Vetala
 
 **Flavor:** The angry child inside bolsters your will, and you often prove utterly defiant.

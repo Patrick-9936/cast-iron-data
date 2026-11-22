@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Serpent's Skull
 
 **Flavor:** The Mwangi Expanse is one of the richest regions in all of Golarion, and also one of the

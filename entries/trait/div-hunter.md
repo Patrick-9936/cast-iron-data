@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Thuvia
 
 **Flavor:** Divs have tormented you and your loved ones for as long as you can remember. You've

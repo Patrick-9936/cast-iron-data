@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** Outcasts know their own, and that knowledge opens doors and loosens tongues.
 
 **Benefit:** [Gathering information](ref/skill/diplomacy) in lower quarters, such as vice dens and

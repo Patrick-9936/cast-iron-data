@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Varisia
 
 **Flavor:** Your home community prides itself on remaining independent from Varisia's city-states.

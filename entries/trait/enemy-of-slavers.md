@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Penance:** Knights who violate any of this code's tenets must perform penance by placing
 themselves in servitude to the individual who was wronged. If the exact individual cannot be found,
 a person of equivalent social class is sufficient. The length of servitude is dependent on the

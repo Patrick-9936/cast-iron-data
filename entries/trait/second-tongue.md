@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Prerequisite:** [Old Cults](ref/rule/f-old-cults)
 
 **Flavor:** Using an ancient and painful surgical technique, you've reshaped your tongue. These

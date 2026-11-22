@@ -13,8 +13,6 @@ kind = "trait"
 category = "Mount"
 +++
 
-**Type:** Mount
-
 **Prerequisite:** Have a fell pony as a mount
 
 **Benefit:** While astride a fell [pony](ref/eq-misc/horse-pony), you gain a +1 trait bonus on

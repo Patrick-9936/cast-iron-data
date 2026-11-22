@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You were trained to harvest all parts of an animal with care and precision.
 
 **Benefit:** You gain a +1 trait bonus on [Profession](ref/skill/profession-any) (tanner) or

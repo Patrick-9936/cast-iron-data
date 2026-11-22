@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Growing up in a poor neighborhood or in the unforgiving wilds often forced you to
 subsist on food and water from doubtful sources.
 

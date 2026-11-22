@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** You are a virtuoso musician, actor, or storyteller.
 
 **Benefit:** You gain a +1 trait bonus on checks with a single [Perform](ref/skill/perform-any)

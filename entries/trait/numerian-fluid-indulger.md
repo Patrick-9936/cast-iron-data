@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Prerequisite:** Associated with the court of the Palace of Fallen Stars in Numeria
 
 **Region:** Numeria

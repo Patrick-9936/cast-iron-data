@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Jade Regent
 
 **Flavor:** Although she is seen as something of a mystery to most of Sandpoint's citizens, Shalelu

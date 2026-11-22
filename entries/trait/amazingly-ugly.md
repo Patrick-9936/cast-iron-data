@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Half-orc](ref/race/half-orc) or [Orc](ref/race/orc)
 
 **Flavor:** Your skull is misshapen in a grotesque way.

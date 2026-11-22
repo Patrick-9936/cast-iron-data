@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ruins of Azlant
 
 **Flavor:** Every time that you've said you'd do something, you've made sure to follow through. You

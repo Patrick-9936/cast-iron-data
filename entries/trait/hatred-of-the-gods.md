@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Rovagug](ref/faith/rovagug)
 
 **Flavor:** Your god's own hatred of other deities is reflected in your ability to withstand the

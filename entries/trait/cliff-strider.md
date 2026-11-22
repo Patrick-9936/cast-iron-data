@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Arcadia
 
 **Flavor:** You grew up along the Grinding Coast of Arcadia, scaling perilous cliffs and dealing

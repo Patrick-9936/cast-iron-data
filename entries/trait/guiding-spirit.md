@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** Few understand the medium's willingness to harbor powerful spirits, but even if you
 aren't one of these talented few, you've always identified with their abilities. you've always felt
 that you were not alone in this world and that a mysterious guiding spirit watches over you with

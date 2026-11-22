@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Drow](ref/race/drow)
 
 **Benefit:** Once per day as an **immediate action**, you can double the duration of one of your

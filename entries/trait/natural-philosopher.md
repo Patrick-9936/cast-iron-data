@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Gozreh](ref/faith/gozreh)
 
 **Flavor:** You study the outdoors, and leave books for dusty libraries.

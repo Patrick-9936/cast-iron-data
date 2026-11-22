@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Skinwalker](ref/race/skinwalker); Werebear-kin
 
 **Flavor:** When you first demonstrated your werebear ancestry, you slept for a week and awoke

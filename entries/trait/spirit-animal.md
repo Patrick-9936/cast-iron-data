@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Realm of the Mammoth Lords
 
 **Flavor:** A spirit animal watches over you.

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Combat"
 +++
 
-**Type:** Combat
-
 **Flavor:** Struggle as they might, ne'er-do-wells and vagrants are hard pressed to evade the law
 once in your clutches.
 

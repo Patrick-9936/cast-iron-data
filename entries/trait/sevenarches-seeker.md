@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Sevenarches
 
 **Flavor:** You've long heard rumors about the mysterious archways of Sevenarches and have spent

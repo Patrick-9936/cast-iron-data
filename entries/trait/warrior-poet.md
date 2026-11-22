@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Lands of the Linnorm Kings
 
 **Flavor:** You were trained by the skalds, keepers of the oral tradition of Kalsgard.

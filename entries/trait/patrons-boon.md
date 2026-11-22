@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Rahadoum
 
 **Flavor:** In your youth, a Rahadoumi witch granted you a boon promoting your continued health and

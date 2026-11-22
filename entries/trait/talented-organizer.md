@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Milani](ref/faith/milani)
 
 **Flavor:** You are both skilled and knowledgeable when at putting together strong resistance

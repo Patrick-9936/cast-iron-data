@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Bachuan
 
 **Flavor:** You were a miner of the now-scarce ores of the Szaezan Crags, and have become adept at

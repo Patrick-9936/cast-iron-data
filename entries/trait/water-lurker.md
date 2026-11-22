@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Wayang](ref/race/wayang)
 
 **Flavor:** You grew up in a secretive community by the water, perhaps among the rivers of Shenmen

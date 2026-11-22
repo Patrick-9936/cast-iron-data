@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Prerequisite:** [Orc](ref/race/orc), [undead](ref/blrgbloodline/undead) bloodrager bloodline
 
 **Region:** Belkzen

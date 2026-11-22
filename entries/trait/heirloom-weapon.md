@@ -13,8 +13,6 @@ kind = "trait"
 category = "Equipment"
 +++
 
-**Type:** Equipment
-
 **Benefit:** You carry a non-masterwork simple or martial weapon that has been passed down from
 generation to generation in your family (pay the standard gp cost for the weapon). When you select
 this trait, choose one of the following benefits: proficiency with that specific weapon, a +1 trait

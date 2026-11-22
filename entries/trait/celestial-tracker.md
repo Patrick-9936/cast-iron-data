@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Aasimar](ref/race/aasimar); Angelkin
 
 **Flavor:** You share the same talent for tracking evildoers that your angelic ancestor possessed.

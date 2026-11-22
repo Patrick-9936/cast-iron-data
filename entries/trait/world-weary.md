@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Ironfang Invasion
 
 **Flavor:** You've seen the horrors of war, and had hoped you'd seen the end of it. You've retreated

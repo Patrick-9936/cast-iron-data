@@ -13,8 +13,6 @@ kind = "trait"
 category = "Religion"
 +++
 
-**Type:** Religion
-
 **Religion:** [Torag](ref/faith/torag)
 
 **Flavor:** Your faith in the Father of Creation strengthens your ability to shield others.

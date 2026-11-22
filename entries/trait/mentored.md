@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Flavor:** A tutor or private instructor guided you in learning your art, profession, or trade, and
 through your education, you became capable of teaching and guiding others.
 

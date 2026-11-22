@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Strange Aeons
 
 **Flavor:** You awake after your ordeal with a lingering feeling that you have taken part in

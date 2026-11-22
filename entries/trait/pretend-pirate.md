@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Andoran
 
 **Flavor:** You enjoy luring slave ships to you. Sometimes you run a pirate flag to lull criminals

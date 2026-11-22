@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Minkai
 
 **Flavor:** Your rage over the political repositioning within Minkai has led you to incite rage

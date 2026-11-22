@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Second Darkness
 
 **Flavor:** The shadow in the sky is visible from all around Riddleport, not just in town. It's

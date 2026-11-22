@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Giantslayer
 
 **Flavor:** You're trained in fighting opponents that are larger than you, and you are skilled at

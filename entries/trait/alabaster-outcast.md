@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Shattered Star
 
 **Flavor:** You are a member of one of Magnimar's wealthiest families - or rather, you used to be. A

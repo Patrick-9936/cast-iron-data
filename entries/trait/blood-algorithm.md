@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Android](ref/race/android)
 
 **Flavor:** Your inhumanity extends to your very core.

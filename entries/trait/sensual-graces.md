@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Dhampir](ref/race/dhampir); Svetocher
 
 **Flavor:** Your unearthly beauty enchants those who court you.

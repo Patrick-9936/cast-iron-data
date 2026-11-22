@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Carrion Crown
 
 **Flavor:** Professor Lorrimor approached you as part of his studies, as he had heard that you had

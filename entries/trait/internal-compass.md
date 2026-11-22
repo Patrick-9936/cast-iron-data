@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Benefit:** You maintain a sense of direction, even on planes where direction is relative. If you
 are on a plane that has no analogue to north, you automatically know the direction toward the
 plane's major dominating feature (for instance, Pharasma's Spire in the Boneyard, or the sun in

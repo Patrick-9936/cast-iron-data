@@ -13,8 +13,6 @@ kind = "trait"
 category = "Faith"
 +++
 
-**Type:** Faith
-
 **Flavor:** As a child, you struggled to suppress a sharp temper, but the care and patient respect
 of a trusted community leader rubbed off on you. As you grew older, you developed a remarkable
 ability to keep calm and collected when performing a task you are familiar with.

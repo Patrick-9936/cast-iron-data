@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You are often struck with epiphanies about alchemical processes and substances.
 
 **Benefit:** Once per day as a **free action**, you may gain a trait bonus equal to your Charisma

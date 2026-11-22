@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Pitax
 
 **Flavor:** Your quick hands can salvage even the most botched performance.

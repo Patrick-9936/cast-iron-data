@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** You are a creature of pleasure and comfort.
 
 **Benefit:** Whenever you spend a day without gaining reward or treasure (at least 10 or more gold

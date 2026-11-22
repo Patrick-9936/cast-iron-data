@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Return of the Runelords
 
 **Flavor:** The rediscovery of Thassilon's legacy several years ago was an eye-opener for many,

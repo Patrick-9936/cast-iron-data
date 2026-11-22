@@ -13,8 +13,6 @@ kind = "trait"
 category = "Campaign"
 +++
 
-**Type:** Campaign
-
 **Campaign:** Strange Aeons
 
 **Flavor:** Even though your pulse is pounding in your ears when you awake in the asylum, you feel

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Human](ref/race/human); Kellid
 
 **Flavor:** You pray to whatever local deity will answer your prayers - and if they won't, to hell

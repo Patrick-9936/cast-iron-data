@@ -13,8 +13,6 @@ kind = "trait"
 category = "Drawback"
 +++
 
-**Type:** Drawback
-
 **Flavor:** Your love for another occupies your every thought, and you become despondent when you
 are away from that person.
 

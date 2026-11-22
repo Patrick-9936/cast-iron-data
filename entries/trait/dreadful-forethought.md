@@ -13,8 +13,6 @@ kind = "trait"
 category = "Regional"
 +++
 
-**Type:** Regional
-
 **Region:** Ustalav
 
 **Flavor:** As a minor Ustalavic noble, you have friends linked to Karcau's fiendish cults. Your

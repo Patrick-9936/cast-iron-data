@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Elf](ref/race/elf)
 
 **Flavor:** Though your magical studies were decades ago, you still remember your favorite little

@@ -13,8 +13,6 @@ kind = "trait"
 category = "Social"
 +++
 
-**Type:** Social
-
 **Region:** Riddleport
 
 **Flavor:** Your secret messages are rarely misunderstood.

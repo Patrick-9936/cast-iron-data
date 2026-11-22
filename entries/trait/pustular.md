@@ -13,8 +13,6 @@ kind = "trait"
 category = "Race"
 +++
 
-**Type:** Race
-
 **Prerequisite:** [Goblin](ref/race/goblin)
 
 **Flavor:** Your face is covered with unpleasant pimples and outright boils that have a tendency to

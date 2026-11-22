@@ -13,8 +13,6 @@ kind = "trait"
 category = "Magic"
 +++
 
-**Type:** Magic
-
 **Flavor:** You have learned the secret to casting some spells without lesser material components.
 
 **Benefit:** Choose one school of magic when you pick this trait. You can cast spells from that
