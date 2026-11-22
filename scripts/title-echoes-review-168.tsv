@@ -1,0 +1,93 @@
+pass	entry_id	file	reason
+creature	ref/monster/aether-elemental	entries/monster/aether-elemental.md	the bold paragraph `Small Aether Elemental` differs from the title `Aether Elemental`
+creature	ref/monster/air-elemental	entries/monster/air-elemental.md	the bold paragraph `Small Air Elemental` differs from the title `Air Elemental`
+creature	ref/monster/anunnaki-mythic	entries/monster/anunnaki-mythic.md	the bold paragraph `Mythic Anunnaki` differs from the title `Anunnaki`
+creature	ref/monster/apkallu-mythic	entries/monster/apkallu-mythic.md	the bold paragraph `Mythic Apkallu` differs from the title `Apkallu`
+creature	ref/monster/apocalypse-locust-mythic	entries/monster/apocalypse-locust-mythic.md	the bold paragraph `Mythic Apocalypse Locust` differs from the title `Apocalypse Locust`
+creature	ref/monster/argus-mythic	entries/monster/argus-mythic.md	the bold paragraph `Mythic Argus` differs from the title `Argus`
+creature	ref/monster/benaioh	entries/monster/benaioh.md	the bold paragraph `Benaioh (Clay Vessel)` differs from the title `Benaioh`
+creature	ref/monster/champion-of-the-gilded-host-mythic	entries/monster/champion-of-the-gilded-host-mythic.md	the bold paragraph `Mythic Champion of the Gilded Host` differs from the title `Champion of the Gilded Host`
+creature	ref/monster/chaneque-mythic	entries/monster/chaneque-mythic.md	the bold paragraph `Mythic Chaneque` differs from the title `Chaneque`
+creature	ref/monster/colossus-flesh-colossus-mythic	entries/monster/colossus-flesh-colossus-mythic.md	the bold paragraph `Mythic Flesh Colossus` differs from the title `Flesh Colossus`
+creature	ref/monster/colossus-iron-colossus-mythic	entries/monster/colossus-iron-colossus-mythic.md	the bold paragraph `Mythic Iron Colossus` differs from the title `Iron Colossus`
+creature	ref/monster/colossus-sphinx-colossus-mythic	entries/monster/colossus-sphinx-colossus-mythic.md	the bold paragraph `Mythic Sphinx Colossus` differs from the title `Sphinx Colossus`
+creature	ref/monster/colossus-stone-colossus-mythic	entries/monster/colossus-stone-colossus-mythic.md	the bold paragraph `Mythic Stone Colossus` differs from the title `Stone Colossus`
+creature	ref/monster/colossus-wood-colossus-mythic	entries/monster/colossus-wood-colossus-mythic.md	the bold paragraph `Mythic Wood Colossus` differs from the title `Wood Colossus`
+creature	ref/monster/devastator-mythic	entries/monster/devastator-mythic.md	the bold paragraph `Mythic Devastator` differs from the title `Devastator`
+creature	ref/monster/devil-host-devil-greater-magaav	entries/monster/devil-host-devil-greater-magaav.md	the bold paragraph `Host Devil, Greater (Magaav)` differs from the title `Greater Host Devil (Magaav)`
+creature	ref/monster/devil-host-devil-lesser-gaav	entries/monster/devil-host-devil-lesser-gaav.md	the bold paragraph `Host Devil, Lesser (Gaav)` differs from the title `Lesser Host Devil (Gaav)`
+creature	ref/monster/devil-possession-devil-greater-gidim	entries/monster/devil-possession-devil-greater-gidim.md	the bold paragraph `Possession Devil, Greater (Gidim)` differs from the title `Greater Possession Devil (Gidim)`
+creature	ref/monster/devil-possession-devil-lesser-gidim	entries/monster/devil-possession-devil-lesser-gidim.md	the bold paragraph `Possession Devil, Lesser (Gidim)` differs from the title `Lesser Possession Devil (Gidim)`
+creature	ref/monster/drakainia	entries/monster/drakainia.md	the bold paragraph `Mythic Drakainia` differs from the title `Drakainia`
+creature	ref/monster/earth-elemental	entries/monster/earth-elemental.md	the bold paragraph `Small Earth Elemental` differs from the title `Earth Elemental`
+creature	ref/monster/elohim-mythic	entries/monster/elohim-mythic.md	the bold paragraph `Mythic Elohim` differs from the title `Elohim`
+creature	ref/monster/fire-elemental	entries/monster/fire-elemental.md	the bold paragraph `Small Fire Elemental` differs from the title `Fire Elemental`
+creature	ref/monster/glaistig-mythic	entries/monster/glaistig-mythic.md	the bold paragraph `Mythic Glaistig` differs from the title `Glaistig`
+creature	ref/monster/golem-flesh-golem-mythic	entries/monster/golem-flesh-golem-mythic.md	the bold paragraph `Mythic Flesh Golem` differs from the title `Flesh Golem`
+creature	ref/monster/graeae-mythic	entries/monster/graeae-mythic.md	the bold paragraph `Mythic Graeae` differs from the title `Graeae`
+creature	ref/monster/grendel-mythic	entries/monster/grendel-mythic.md	the bold paragraph `Mythic Grendel` differs from the title `Grendel`
+creature	ref/monster/grogrisant-mythic	entries/monster/grogrisant-mythic.md	the bold paragraph `Mythic Grogrisant` differs from the title `Grogrisant`
+creature	ref/monster/guardian-dragon-mythic	entries/monster/guardian-dragon-mythic.md	the bold paragraph `Mythic Guardian Dragon` differs from the title `Guardian Dragon`
+creature	ref/monster/ice-elemental	entries/monster/ice-elemental.md	the bold paragraph `Small Ice Elemental` differs from the title `Ice Elemental`
+creature	ref/monster/idol-bone	entries/monster/idol-bone.md	the bold paragraph `Bone` differs from the title `Bone Idol`
+creature	ref/monster/idol-jade	entries/monster/idol-jade.md	the bold paragraph `Jade` differs from the title `Jade Idol`
+creature	ref/monster/idol-stone	entries/monster/idol-stone.md	the bold paragraph `Stone` differs from the title `Stone Idol`
+creature	ref/monster/idol-wood	entries/monster/idol-wood.md	the bold paragraph `Wood` differs from the title `Wood Idol`
+creature	ref/monster/irminsul-mythic	entries/monster/irminsul-mythic.md	the bold paragraph `Mythic Irminsul` differs from the title `Irminsul`
+creature	ref/monster/julunggali-mythic	entries/monster/julunggali-mythic.md	the bold paragraph `Mythic Julunggali` differs from the title `Julunggali`
+creature	ref/monster/leanan-sidhe-mythic	entries/monster/leanan-sidhe-mythic.md	the bold paragraph `Mythic Leanan Sidhe` differs from the title `Leanan Sidhe`
+creature	ref/monster/lightning-elemental	entries/monster/lightning-elemental.md	the bold paragraph `Small Lightning Elemental` differs from the title `Lightning Elemental`
+creature	ref/monster/magma-elemental	entries/monster/magma-elemental.md	the bold paragraph `Small Magma Elemental` differs from the title `Magma Elemental`
+creature	ref/monster/manasaputra-solar-pitri-agnishvatta-mythic	entries/monster/manasaputra-solar-pitri-agnishvatta-mythic.md	the bold paragraph `Mythic Solar Pitri (Agnishvatta)` differs from the title `Manasaputra, Solar Pitri (Agnishvatta)`
+creature	ref/monster/manasaputra-twilight-pitri-barhisad	entries/monster/manasaputra-twilight-pitri-barhisad.md	the bold paragraph `Twilight Pitri (Barhisad)` differs from the title `Twilight Pitri (Barhisad, Manasaputra)`
+creature	ref/monster/mud-elemental	entries/monster/mud-elemental.md	the bold paragraph `Small Mud Elemental` differs from the title `Mud Elemental`
+creature	ref/monster/myrmecoleon-mythic	entries/monster/myrmecoleon-mythic.md	the bold paragraph `Mythic Myrmecoleon` differs from the title `Myrmecoleon`
+creature	ref/monster/ophiotaurus-mythic	entries/monster/ophiotaurus-mythic.md	the bold paragraph `Mythic Ophiotaurus` differs from the title `Ophiotaurus`
+creature	ref/monster/plague-swarm-bat-plague-swarm-mythic	entries/monster/plague-swarm-bat-plague-swarm-mythic.md	the bold paragraph `Mythic Bat Plague Swarm` differs from the title `Bat Plague Swarm (Plague Swarm)`
+creature	ref/monster/plague-swarm-locust-plague-swarm-mythic	entries/monster/plague-swarm-locust-plague-swarm-mythic.md	the bold paragraph `Mythic Locust Plague Swarm` differs from the title `Locust Plague Swarm (Plague Swarm)`
+creature	ref/monster/plague-swarm-rat-plague-swarm-mythic	entries/monster/plague-swarm-rat-plague-swarm-mythic.md	the bold paragraph `Mythic Rat Plague Swarm` differs from the title `Rat Plague Swarm (Plague Swarm)`
+creature	ref/monster/poppet-poppet-small	entries/monster/poppet-poppet-small.md	the bold paragraph `Poppet, Small` differs from the title `Small Poppet`
+creature	ref/monster/poppet-poppet-tiny	entries/monster/poppet-poppet-tiny.md	the bold paragraph `Poppet, Tiny` differs from the title `Tiny Poppet`
+creature	ref/monster/portunus-mythic	entries/monster/portunus-mythic.md	the bold paragraph `Mythic Portunus` differs from the title `Portunus`
+creature	ref/monster/shen-mythic	entries/monster/shen-mythic.md	the bold paragraph `Mythic Shen` differs from the title `Shen`
+creature	ref/monster/titan-danava-mythic	entries/monster/titan-danava-mythic.md	the bold paragraph `Mythic Danava` differs from the title `Danava (Titan)`
+creature	ref/monster/titan-fomorian-titan-mythic	entries/monster/titan-fomorian-titan-mythic.md	the bold paragraph `Mythic Fomorian Titan` differs from the title `Fomorian Titan (Titan)`
+creature	ref/monster/tyrant-jelly-mythic	entries/monster/tyrant-jelly-mythic.md	the bold paragraph `Mythic Tyrant Jelly` differs from the title `Tyrant Jelly`
+creature	ref/monster/udaeus-mythic	entries/monster/udaeus-mythic.md	the bold paragraph `Mythic Udaeus` differs from the title `Udaeus`
+creature	ref/monster/vegepygmy-thorny	entries/monster/vegepygmy-thorny.md	the bold paragraph `Thorny Vegepygmie` differs from the title `Thorny Vegepygmy`
+creature	ref/monster/water-elemental	entries/monster/water-elemental.md	the bold paragraph `Small Water Elemental` differs from the title `Water Elemental`
+creature	ref/monster/xiomorn-vault-builder-mythic	entries/monster/xiomorn-vault-builder-mythic.md	the bold paragraph `Mythic Vault Builder` differs from the title `Vault Builder (Xiomorn)`
+mythic	ref/carried/advanced-race-guide/races/drow/new-racial-rules/drow-feats/spider-step	entries/carried/advanced-race-guide/races/drow/new-racial-rules/drow-feats/spider-step.md	a stat block opens the body of a feat that is not a mythic add-on
+mythic	ref/carried/mythic-adventures/feats/arcane-blast/mythic	entries/carried/mythic-adventures/feats/arcane-blast/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/ascendant-spell/mythic	entries/carried/mythic-adventures/feats/ascendant-spell/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/aspect-of-the-beast/mythic	entries/carried/mythic-adventures/feats/aspect-of-the-beast/mythic.md	the Benefit is followed by subsections; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/bleeding-critical/mythic	entries/carried/mythic-adventures/feats/bleeding-critical/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/drink-is-life/mythic	entries/carried/mythic-adventures/feats/drink-is-life/mythic.md	the Benefit text differs from `[fields] benefit`
+mythic	ref/carried/mythic-adventures/feats/endurance/mythic	entries/carried/mythic-adventures/feats/endurance/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/fabulous-figments/mythic	entries/carried/mythic-adventures/feats/fabulous-figments/mythic.md	the Benefit text differs from `[fields] benefit`
+mythic	ref/carried/mythic-adventures/feats/fire-music/mythic	entries/carried/mythic-adventures/feats/fire-music/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/gnome-trickster/mythic	entries/carried/mythic-adventures/feats/gnome-trickster/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/heroic-defiance/mythic	entries/carried/mythic-adventures/feats/heroic-defiance/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/improved-bull-rush/mythic	entries/carried/mythic-adventures/feats/improved-bull-rush/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/improved-dirty-trick/mythic	entries/carried/mythic-adventures/feats/improved-dirty-trick/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/improved-disarm/mythic	entries/carried/mythic-adventures/feats/improved-disarm/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/improved-drag/mythic	entries/carried/mythic-adventures/feats/improved-drag/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/improved-grapple/mythic	entries/carried/mythic-adventures/feats/improved-grapple/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/improved-overrun/mythic	entries/carried/mythic-adventures/feats/improved-overrun/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/improved-reposition/mythic	entries/carried/mythic-adventures/feats/improved-reposition/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/improved-steal/mythic	entries/carried/mythic-adventures/feats/improved-steal/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/improved-sunder/mythic	entries/carried/mythic-adventures/feats/improved-sunder/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/improved-trip/mythic	entries/carried/mythic-adventures/feats/improved-trip/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/power-attack/mythic	entries/carried/mythic-adventures/feats/power-attack/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/powerful-shape/mythic	entries/carried/mythic-adventures/feats/powerful-shape/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/prophetic-visionary/mythic	entries/carried/mythic-adventures/feats/prophetic-visionary/mythic.md	the Benefit text differs from `[fields] benefit`
+mythic	ref/carried/mythic-adventures/feats/rhetorical-flourish/mythic	entries/carried/mythic-adventures/feats/rhetorical-flourish/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/run/mythic	entries/carried/mythic-adventures/feats/run/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/scorpion-style/mythic	entries/carried/mythic-adventures/feats/scorpion-style/mythic.md	the Benefit text differs from `[fields] benefit`
+mythic	ref/carried/mythic-adventures/feats/spellbreaker/mythic	entries/carried/mythic-adventures/feats/spellbreaker/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/turn-undead/mythic	entries/carried/mythic-adventures/feats/turn-undead/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/undead-master/mythic	entries/carried/mythic-adventures/feats/undead-master/mythic.md	the Benefit text differs from `[fields] benefit`
+mythic	ref/carried/mythic-adventures/feats/valiant-vault/mythic	entries/carried/mythic-adventures/feats/valiant-vault/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+mythic	ref/carried/mythic-adventures/feats/vital-strike/mythic	entries/carried/mythic-adventures/feats/vital-strike/mythic.md	the Benefit spans 2 paragraphs; the drift check compares `[fields] benefit` with the first paragraph of the line
+trap-template	ref/template/vampire-minion-addle-minded	entries/template/vampire-minion-addle-minded.md	the bold paragraph `Addle Minded` differs from the title `Vampire Minion, Addle-Minded`
+trap-template	ref/template/vampire-minion-repeatedly-drained	entries/template/vampire-minion-repeatedly-drained.md	the bold paragraph `Repeatedly Drained` differs from the title `Vampire Minion, Repeatedly Drained`
