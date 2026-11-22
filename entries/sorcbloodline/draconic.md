@@ -275,14 +275,19 @@ to 1d6 + [half](ref/misc/fractions-and-rounding) of your sorcerer level.
 
 **Replaces:** Claws
 
-|Linnorm|Energy Type|Shape|
-| --- | --- | --- |
-|[Cairn Linnorm](ref/monster/linnorm-cairn-linnorm)|Acid (energy-draining bile)|Cone|
-|[Crag Linnorm](ref/monster/linnorm-crag-linnorm)|Fire (solidifying magma)|Line|
-|[Fjord Linnorm](ref/monster/linnorm-fjord-linnorm)|Cold (freezing liquid)|Line|
-|[Gare Linnorm](ref/monster/linnorm-gare-linnorm)|Fire (lingering steam)|Cone|
-|[Ice Linnorm](ref/monster/linnorm-ice-linnorm)|Cold (sticky, freezing ooze)|Cone|
-|[Sea Linnorm](ref/monster/linnorm-sea-linnorm)|Electricity (arcing)|Line|
-|[Taiga Linnorm](ref/monster/linnorm-taiga-linnorm)|Electricity (persistent mist)|Cone|
-|[Tarn Linnorm](ref/monster/linnorm-tarn-linnorm)|Acid (liquid with strong fumes)|Line or Cone|
-|[Tor Linnorm](ref/monster/linnorm-tor-linnorm)|Fire (ash and smoke)|Cone|
+**Compiled table:** _Ultimate Magic_ pg 71 only says that the ray matches the linnorm bloodline's
+energy type. It prints no table. The table below is a reference compiled from the breath weapons of
+the linnorm monster entries, and the last column says where each linnorm is printed. The Gare and
+Sea rows could not be checked against print.
+
+|Linnorm|Energy Type|Shape|Printed in|
+| --- | --- | --- | --- |
+|[Cairn Linnorm](ref/monster/linnorm-cairn-linnorm)|Acid (acidic bile that inflicts negative levels)|Cone|Bestiary 3 pg 182|
+|[Crag Linnorm](ref/monster/linnorm-crag-linnorm)|Fire (solidifying magma)|Line|Bestiary pg 190|
+|[Fjord Linnorm](ref/monster/linnorm-fjord-linnorm)|Cold (freezing liquid)|Line|Bestiary 3 pg 183|
+|[Gare Linnorm](ref/monster/linnorm-gare-linnorm)|Fire (lingering steam)|Cone|Pathfinder \#50|
+|[Ice Linnorm](ref/monster/linnorm-ice-linnorm)|Cold (sticky, freezing ooze)|Cone|Bestiary pg 191|
+|[Sea Linnorm](ref/monster/linnorm-sea-linnorm)|Electricity (arcing)|Line|Pathfinder \#126 pg 90|
+|[Taiga Linnorm](ref/monster/linnorm-taiga-linnorm)|Electricity (electrified vapor)|Cone|Bestiary 3 pg 184|
+|[Tarn Linnorm](ref/monster/linnorm-tarn-linnorm)|Acid (liquid with strong fumes)|Line or Cone|Bestiary pg 192|
+|[Tor Linnorm](ref/monster/linnorm-tor-linnorm)|Fire (flame and ash)|Cone|Bestiary 3 pg 185|
